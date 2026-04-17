@@ -1,0 +1,39 @@
+---
+title: "Besluit vaststelling selectielijst Centraal Orgaan opvang asielzoekers vanaf 1 juli 1994"
+identifier: "BWBR0048433"
+categorie: "Gezondheidszorg"
+publicatiedatum: 2023-07-21
+laatste_update: 2023-07-21
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0048433"
+---
+
+# Besluit vaststelling selectielijst Centraal Orgaan opvang asielzoekers vanaf 1 juli 1994
+
+Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
+
+BESLUIT:
+
+#### Artikel 1
+
+De bij dit besluit gevoegde selectielijst van Centraal Orgaan opvang asielzoekers voor de periode vanaf 1 juli 1994 en de daarbij behorende toelichting worden vastgesteld.
+
+#### Artikel 2
+
+De selectielijsten:
+
+- •. Basis Selectiedocument – instrument voor de selectie ter vernietiging dan wel blijvende bewaring van de administratieve neerslag van het handelen van het Centraal Orgaan opvang asielzoekers in de periode 1994–2012. Vastgesteld in Staatscourant van 21 februari 2005, nr. 356, gewijzigd bij besluit van 15 augustus 2014, nr. 23119;
+
+- •. [Selectielijst voor de neerslag van het handelen (de processen) van het Centraal Orgaan opvang asielzoekers (COA), periode (2011) 2013-](onbekend). Vastgesteld in Staatscourant van 15 augustus 2014, 23119.
+
+worden ingetrokken vanaf 1 juli 1994.
+
+#### Artikel 3
+
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
+
+## Selectielijst
+
+Gepubliceerd op www.nationaalarchief.nl/waardering-selectie/selectielijsten.
+
+De Staatssecretaris van Cultuur en Media is belast met de uitvoering van dit besluit, dat in de Staatscourant zal worden geplaatst.

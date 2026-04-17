@@ -1,0 +1,1277 @@
+---
+title: "Kernenergiewet"
+identifier: "BWBR0002402"
+categorie: "Milieu"
+publicatiedatum: 2024-07-01
+laatste_update: 2024-07-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0002402"
+---
+
+# Kernenergiewet
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is op het gebied van de kernenergie en de ioniserende stralen een regeling te treffen, in het bijzonder ter bevordering van een goede ontwikkeling op het gebied van de vrijmaking van kernenergie en de aanwending van radioactieve stoffen en ioniserende stralen uitzendende toestellen, zomede ter bescherming tegen de hieraan verbonden gevaren;
+
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+### Hoofdstuk I. Begripsbepalingen en werkingssfeer
+
+#### Artikel 1
+
+1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
+
+- a. kernenergie: energie, vrijkomend bij splijting of versmelting van atoomkernen;
+
+- b. splijtstoffen: stoffen, welke ten minste een bij algemene maatregel van bestuur te bepalen percentage uranium, plutonium, thorium of andere daarbij aangewezen elementen bevatten;
+
+- c. ertsen: ertsen die naar gewicht gerekend ten minste een tiende procent uranium of drie procent thorium bevatten en waarmee handelingen worden verricht wegens hun splijt- of kweekeigenschappen;
+
+- d. radioactieve stoffen: stoffen met uitzondering van splijtstoffen en ertsen, die in zodanige mate radionucliden bevatten dat zij, voorzover het de bescherming tegen ioniserende straling betreft, niet mogen worden verwaarloosd;
+
+- e. ioniserende straling: röntgen- en gammastraling, alsmede corpusculaire straling, die in staat is ionenvorming te veroorzaken;
+
+- f. toestel: toestel dat ioniserende straling kan uitzenden en geen radioactieve stof, splijtstof of erts bevat;
+
+- g. bevoegd gezag: bestuursorgaan dat bevoegd is tot het geven van een beschikking;
+
+- h. Autoriteit: Autoriteit Nucleaire Veiligheid en Stralingsbescherming, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=II&artikel=3&z=2024-07-01&g=2024-07-01).
+
+2. De voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur als in het eerste lid, onder b, bedoeld wordt Ons gedaan door Onze Ministers van Infrastructuur en Milieu en van Sociale Zaken en Werkgelegenheid.
+
+#### Artikel 2
+
+Het bij of krachtens deze wet bepaalde is mede van toepassing op een verkenningsonderzoek, het opsporen of het winnen van delfstoffen of aardwarmte, dan wel het opslaan van stoffen voorzover dit plaatsvindt op het continentaal plat, bedoeld in de [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168).
+
+### Hoofdstuk II. De autoriteit nucleaire veiligheid en stralingsbescherming
+
+#### Artikel 3
+
+1. Er is een Autoriteit Nucleaire Veiligheid en Stralingsbescherming.
+
+2. De Autoriteit vervult haar taken in onafhankelijkheid.
+
+3. De Autoriteit heeft met betrekking tot nucleaire veiligheid en stralingsbescherming, de daarmee samenhangende crisisvoorbereiding, alsmede beveiliging en waarborgen tot taak:
+
+- a. de uitvoering van de taken die haar bij of krachtens de wet zijn toegekend;
+
+- b. het toezicht op de naleving van bij of krachtens deze wet gestelde regels;
+
+- c. het op basis van haar specifieke kennis en deskundigheid en in samenhang met haar andere bij of krachtens de wet opgedragen taken adviseren over beleid en wet- en regelgeving;
+
+- d. het geven van voorlichting;
+
+- e. het deelnemen aan activiteiten van internationale organisaties;
+
+- f. het samenwerken met vergelijkbare buitenlandse autoriteiten van landen in de nabijheid van inrichtingen als bedoeld in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01), onder meer door het uitwisselen en delen van informatie;
+
+- g. het onderhouden van relaties met andere dan de in onderdeel f bedoelde vergelijkbare buitenlandse autoriteiten en nationale en internationale organisaties;
+
+- h. het met kennis ondersteunen van nationale organisaties;
+
+- i. het doen en laten doen van onderzoek ten behoeve van de uitvoering van haar taken.
+
+4. De Autoriteit heeft tot taak het deelnemen aan de omschrijving van voorschriften over nucleaire veiligheid als bedoeld in artikel 5, derde lid, onderdeel a, van [Richtlijn 2009/71/Euratom](32009L0071) van de Raad van 25 juni 2009 tot vaststelling van een communautair kader voor de nucleaire veiligheid van kerninstallaties (PbEU 2009, L 172), zoals laatstelijk gewijzigd bij [Richtlijn 2014/87/Euratom](32014L0087) van de Raad van 8 juli 2014 (PbEU 2014, L 219).
+
+#### Artikel 4
+
+1. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat de Autoriteit in het belang van nucleaire veiligheid, stralingsbescherming of beveiliging bij verordening regels kan stellen met betrekking tot organisatorische of technische onderwerpen.
+
+2. De Autoriteit stelt een verordening niet vast dan nadat van het ontwerp op geschikte wijze kennis is gegeven en aan een ieder de gelegenheid is geboden om binnen een bij die bekendmaking door de Autoriteit vast te stellen termijn van ten minste vier weken na de dag waarop de kennisgeving is gedaan, zienswijzen schriftelijk ter kennis van de Autoriteit te brengen.
+
+#### Artikel 5
+
+1. De Autoriteit bestaat uit minimaal twee en maximaal drie leden, onder wie de voorzitter.
+
+2. Benoeming vindt plaats op grond van deskundigheid of ervaring, die nodig is voor de uitoefening van de taken van de Autoriteit.
+
+3. De leden worden benoemd voor een tijdvak van maximaal vier jaar en zijn aansluitend éénmalig voor een tijdvak van maximaal vier jaar herbenoembaar. In het geval van bijzondere omstandigheden binnen de organisatie van de Autoriteit kan een lid van de Autoriteit bij afloop van de tweede benoemingstermijn terstond opnieuw worden benoemd voor een tijdvak van maximaal twee jaar.
+
+4. In het geval van een vacature vormen de overige leden, in afwijking van het eerste lid, de Autoriteit.
+
+5. Onverminderd [artikel 13, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=13) heeft een lid geen financiële of andere belangen waardoor zijn onpartijdigheid in het geding kan zijn.
+
+6. Een lid kan niet tevens zijn een aan een minister ondergeschikte ambtenaar.
+
+7. Het lidmaatschap van de Autoriteit wordt aangewezen als een vertrouwensfunctie als bedoeld in [artikel 1, eerste lid, onderdeel a, van de Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=1).
+
+#### Artikel 6
+
+1. Onze Minister van Infrastructuur en Milieu benoemt, schorst en ontslaat de leden van de Autoriteit.
+
+2. Onze Minister van Infrastructuur en Milieu doet mededeling van een besluit tot ontslag in de Staatscourant. De redenen van het ontslag worden in die mededeling openbaar gemaakt indien de betrokkene daarom verzoekt.
+
+#### Artikel 7
+
+Onze Minister van Infrastructuur en Milieu stelt de bezoldiging of schadeloosstelling van leden van de Autoriteit vast.
+
+#### Artikel 8
+
+De Autoriteit stelt procedures vast ter voorkoming of oplossing van belangenconflicten bij de uitoefening van haar taken.
+
+#### Artikel 9
+
+1. Onze Minister van Infrastructuur en Milieu stelt voldoende financiële middelen ter beschikking aan de Autoriteit ter uitoefening van haar taken.
+
+2. Onze Minister van Infrastructuur en Milieu neemt in zijn begroting de Autoriteit als afzonderlijke begrotingspost op en voorziet deze post van een toelichting.
+
+#### Artikel 9a
+
+Vervallen
+
+#### Artikel 10
+
+Onze Minister van Infrastructuur en Milieu stelt ten behoeve van de uitvoering van haar taken, voldoende en gekwalificeerd personeel ter beschikking aan de Autoriteit.
+
+#### Artikel 11
+
+Onverminderd [artikel 18, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) zendt de Autoriteit het jaarverslag, naast aan Onze Minister van Infrastructuur en Milieu, tevens aan Onze Ministers van Sociale Zaken en Werkgelegenheid, van Volksgezondheid, Welzijn en Sport en van Veiligheid en Justitie.
+
+#### Artikel 12
+
+1. Onverminderd [artikel 20, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=20) verstrekt de Autoriteit desgevraagd naast aan Onze Minister van Infrastructuur en Milieu tevens aan Onze Ministers van Sociale Zaken en Werkgelegenheid, van Volksgezondheid, Welzijn en Sport en van Veiligheid en Justitie alle voor de uitoefening van hun taak benodigde inlichtingen. Zij kunnen inzage vorderen van alle zakelijke gegevens en bescheiden, indien dat voor de vervulling van hun taak redelijkerwijs nodig is.
+
+2. Onze Ministers kunnen gezamenlijk nadere regels vaststellen over de verstrekking van gegevens of inlichtingen van de Autoriteit aan Onze Ministers en van Onze Ministers aan de Autoriteit.
+
+### Hoofdstuk III. Splijtstoffen, ertsen en inrichtingen
+
+### Afdeling 1. Registratie van splijtstoffen en ertsen
+
+#### Artikel 13
+
+1. Er is een register, waarin worden ingeschreven de gegevens van splijtstoffen, ertsen en andere stoffen waaruit splijtstoffen kunnen worden verkregen en die naar gewicht gerekend ten minste een tiende procent uranium of drie procent thorium bevatten, waarvan overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=1&artikel=14&z=2024-07-01&g=2024-07-01) aangifte is gedaan.
+
+2. Bij of krachtens algemene maatregel van bestuur wordt de inrichting van het register geregeld en worden de gevallen aangewezen, waarin inlichtingen uit het register kunnen worden verstrekt.
+
+3. De Autoriteit is belast met het beheer van het register en de verstrekking van inlichtingen daaruit.
+
+#### Artikel 14
+
+1. Ieder, die met inachtneming van deze wet splijtstoffen of ertsen of andere stoffen waaruit splijtstoffen kunnen worden verkregen en die naar gewicht gerekend ten minste een tiende procent uranium of drie procent thorium bevatten vervoert, voorhanden heeft, binnen of buiten Nederlands grondgebied brengt of doet brengen, dan wel zich daarvan ontdoet, is verplicht daaromtrent administratie te voeren en ten behoeve van de in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=1&artikel=13&z=2024-07-01&g=2024-07-01) bedoelde inschrijving aangifte te doen, een en ander in bij algemene maatregel van bestuur te bepalen gevallen en overeenkomstig bij de maatregel te stellen regelen.
+
+2. Ieder, die de aanwezigheid van ertsen of andere stoffen waaruit splijtstoffen kunnen worden verkregen en die naar gewicht gerekend ten minste een tiende procent uranium of drie procent thorium bevatten in de bodem heeft vastgesteld, is verplicht in bij algemene maatregel van bestuur te bepalen gevallen en overeenkomstig bij de maatregel te stellen regelen daarvan ten behoeve van de in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=1&artikel=13&z=2024-07-01&g=2024-07-01) bedoelde inschrijving aangifte te doen.
+
+### Afdeling 2. Vergunningen
+
+#### Artikel 15
+
+Het is verboden zonder vergunning van de Autoriteit:
+
+- a. splijtstoffen of ertsen te vervoeren, voorhanden te hebben, binnen of buiten Nederlands grondgebied te brengen of te doen brengen, dan wel zich daarvan te ontdoen;
+
+- b. een inrichting, waarin kernenergie kan worden vrijgemaakt, splijtstoffen kunnen worden vervaardigd, bewerkt of verwerkt, dan wel splijtstoffen worden opgeslagen, op te richten, inwerking te brengen, in werking te houden, buiten gebruik te stellen of te wijzigen of een inrichting, waarin kernenergie kon worden vrijgemaakt, splijtstoffen konden worden vervaardigd, bewerkt of verwerkt, dan wel splijtstoffen werden opgeslagen, te ontmantelen;
+
+- c. een uitrusting, geschikt om een vaartuig of ander vervoermiddel door middel van kernenergie voort te bewegen, daarin aan te brengen of aangebracht te houden, dan wel zodanige daarin aangebrachte uitrusting in werking te brengen, in werking te houden of te wijzigen.
+
+#### Artikel 15a
+
+1. Met ingang van 31 december 2033 vervalt de op grond van [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01), verleende vergunning voor het in werking houden van de in 1973 in werking gebrachte kernenergiecentrale Borssele, voorzover het betreft het vrijmaken van kernenergie.
+
+2. Een aanvraag om een vergunning als bedoeld in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01), voor het vrijmaken van kernenergie in de in het eerste lid genoemde inrichting na het in het eerste lid genoemde tijdstip wordt, onverminderd het overigens bij of krachtens deze wet bepaalde, buiten behandeling gelaten.
+
+#### Artikel 15aa
+
+Indien een vergunning als bedoeld in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01), voor het wijzigen van een inrichting wordt aangevraagd en voor die inrichting al een of meer vergunningen krachtens deze wet zijn verleend, is [artikel 5.43, eerste en vierde lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.43) van overeenkomstige toepassing. De Autoriteit kan de rechten die de vergunninghouder aan de al eerder verleende vergunningen ontleende, niet wijzigen anders dan mogelijk zou zijn met toepassing van [artikel 18a](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=18a&z=2024-07-01&g=2024-07-01) of [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=19&z=2024-07-01&g=2024-07-01) van deze wet.
+
+#### Artikel 15b
+
+1. De vergunning kan slechts worden geweigerd in het belang van:
+
+- a. de bescherming van mensen, dieren, planten en goederen;
+
+- b. de veiligheid van de staat;
+
+- c. de bewaring en beveiliging van splijtstoffen en ertsen en de beveiliging van inrichtingen als bedoeld in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01);
+
+- d. het zeker stellen van de betaling van de vergoeding, aan derden toekomende voor schade of letsel, hun toegebracht;
+
+- e. de nakoming van internationale verplichtingen.
+
+2. Onverminderd het eerste lid kan een vergunning voor het oprichten van een inrichting als bedoeld in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01), worden geweigerd, indien de in de aanvraag beschreven techniek voor het vrijmaken van kernenergie, het vervaardigen, bewerken of verwerken van splijtstoffen dan wel het opslaan van splijtstoffen in de inrichting naar het oordeel van de Autoriteit bij het in werking brengen van de inrichting zal zijn verouderd.
+
+3. Bij algemene maatregel van bestuur kunnen naast de in het eerste lid bedoelde belangen andere belangen worden aangewezen.
+
+4. Indien Wij niet binnen drie maanden na het in werking treden van een algemene maatregel van bestuur als in het derde lid bedoeld aan de Tweede Kamer der Staten-Generaal een voorstel van wet hebben doen toekomen tot wijziging van deze wet overeenkomstig die maatregel of indien zodanig voorstel wordt ingetrokken of verworpen, trekken Wij de maatregel onverwijld in.
+
+#### Artikel 15c
+
+1. In een vergunning wordt duidelijk aangegeven waarop zij betrekking heeft. De aanvraag om de vergunning maakt deel uit van de vergunning, voor zover dat in de vergunning is aangegeven.
+
+2. Een vergunning kan ter bescherming van de bij of krachtens [artikel 15**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15b&z=2024-07-01&g=2024-07-01) aangewezen belangen onder beperkingen worden verleend.
+
+3. Aan een vergunning worden, met inachtneming van de dienaangaande bij algemene maatregel van bestuur gestelde regels, de voorschriften verbonden, die nodig zijn ter bescherming van de bij of krachtens [artikel 15 **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15b&z=2024-07-01&g=2024-07-01) aangewezen belangen. Voor zover door het verbinden van voorschriften aan de vergunning de nadelige gevolgen van de betrokken activiteit voor mensen, dieren, planten en goederen niet kunnen worden voorkomen, worden daaraan de voorschriften verbonden, die de grootst mogelijke bescherming bieden tegen die gevolgen, tenzij dat redelijkerwijs niet kan worden gevergd.
+
+4. Voor zover ten aanzien van de betrokken splijtstoffen, ertsen, inrichtingen of uitrustingen regels gelden krachtens [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=21&z=2024-07-01&g=2024-07-01), kunnen de voorschriften daarvan alleen afwijken, voor zover dat bij die regels is toegestaan.
+
+#### Artikel 15d
+
+1. De aan een vergunning te verbinden voorschriften geven de doeleinden aan, die de vergunninghouder ter bescherming van de bij of krachtens [artikel 15b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15b&z=2024-07-01&g=2024-07-01) aangewezen belangen op een door hem te bepalen wijze dient te verwezenlijken.
+
+2. Voor zover dit naar het oordeel van de Autoriteit noodzakelijk is, kunnen de voorschriften inhouden dat daarbij aangegeven middelen ter bescherming van de bij of krachtens [artikel 15b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15b&z=2024-07-01&g=2024-07-01) aangewezen belangen moeten worden toegepast.
+
+#### Artikel 15e
+
+1. Aan een vergunning kunnen ter bescherming van de bij of krachtens [artikel 15**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15b&z=2024-07-01&g=2024-07-01) aangewezen belangen andere dan de in [artikel 15**d**](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15d&z=2024-07-01&g=2024-07-01) bedoelde voorschriften worden verbonden.
+
+2. Een voorschrift kan de verplichting inhouden dat met betrekking tot in het voorschrift geregelde, daarbij aangegeven onderwerpen moet worden voldaan aan nadere eisen die door een bij het voorschrift aangewezen bestuursorgaan worden gesteld. Bij het voorschrift kan worden aangegeven hoe die eisen door het betrokken bestuursorgaan moeten worden bekendgemaakt. Bij het stellen van een nadere eis wordt het tijdstip bepaald, waarop ten aanzien van die eis de verplichting ingaat.
+
+#### Artikel 16
+
+1. Bij of krachtens algemene maatregel van bestuur worden regelen gesteld betreffende de wijze, waarop de aanvraag om een vergunning dient te geschieden, en de gegevens, welke van de aanvrager kunnen worden verlangd.
+
+2. Bij of krachtens de maatregel wordt in ieder geval bepaald dat de aanvrager in gevallen waarin de vergunning betrekking heeft op het oprichten of veranderen van een inrichting als bedoeld in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01), dat tevens is aan te merken als het bouwen van een bouwwerk waarvoor een omgevingsvergunning voor een omgevingsplanactiviteit als bedoeld in [artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), bestaande uit een bouwactiviteit of het in stand houden van een bouwwerk, of een omgevingsvergunning voor een bouwactiviteit als bedoeld in artikel 5.1, tweede lid, aanhef en onder a, van de Omgevingswet, indien de aanvragen om een omgevingsvergunning voor een omgevingsplanactiviteit bestaande uit een bouwactiviteit of het in stand houden van een bouwwerk of een omgevingsvergunning voor een bouwactiviteit:
+
+- a. tegelijk met de aanvraag om de vergunning krachtens deze wet zijn ingediend, een afschrift van die aanvragen bij zijn aanvraag overlegt;
+
+- b. niet tegelijk met de aanvraag om de vergunning krachtens deze wet worden ingediend, een afschrift van die aanvragen aan het bevoegd gezag overlegt gelijktijdig met de indiening van die aanvraag.
+
+#### Artikel 17
+
+1. Op de voorbereiding van de beschikking op de aanvraag om een vergunning krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01) is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing en zijn [paragraaf 16.2.2 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&paragraaf=16.2.2), [artikel 5.7, vierde lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.7) en [afdeling 13.2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&afdeling=13.2) van overeenkomstige toepassing, met dien verstande dat daarbij hetgeen in de [artikelen 17a tot en met 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=17a&z=2024-07-01&g=2024-07-01) van deze wet is bepaald, in acht wordt genomen.
+
+2. In afwijking van het eerste lid zijn de in dat lid genoemde onderdelen van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) en van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) niet van toepassing op de voorbereiding van beschikkingen op de aanvraag om een vergunning krachtens:
+
+- a. [artikel 15, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01), voor het vervoeren, het voorhanden hebben bij opslag in verband met het vervoer, dan wel het binnen of buiten Nederlands grondgebied brengen of doen brengen van splijtstoffen of ertsen;
+
+- b. [artikel 15, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01), voor het voorhanden hebben van splijtstoffen in een inrichting of uitrusting, ten aanzien waarvan een vergunning krachtens [artikel 15, onder b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01), is vereist, dan wel voor het zich ontdoen van splijtstoffen die rechtstreeks afkomstig zijn uit een zodanige inrichting of uitrusting;
+
+- c. [artikel 15, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01), voor het voorhanden hebben of zich ontdoen van splijtstoffen in gevallen als bedoeld in het derde lid;
+
+- d. [artikel 15, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01), in gevallen waarin de uitrusting slechts buiten Nederland in werking zal worden gebracht of gehouden.
+
+In gevallen als bedoeld in de eerste volzin is met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28), [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op de aanvraag om een vergunning.
+
+3. Gevallen als bedoeld in het tweede lid, onder c, zijn die gevallen:
+
+- a. waarin het voorhanden hebben van splijtstoffen of het zich daarvan ontdoen geschiedt:
+
+- 1°. in een voertuig of aan boord van een vaartuig of van een luchtvaartuig;
+
+- 2°. op steeds wisselende plaatsen, indien die gevallen behoren tot een bij algemene maatregel van bestuur aangegeven categorie waarin het belang van de toepassing van [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) niet opweegt tegen de daaraan verbonden bezwaren;
+
+- 3°. indien al eerder een overeenkomstige vergunning met betrekking tot dezelfde plaats was verleend aan de aanvrager of aan degene wiens vergunning ingevolge [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=IX&artikel=70&z=2024-07-01&g=2024-07-01) voor hem geldt en de aangevraagde vergunning niet leidt tot andere of grotere nadelige gevolgen voor het milieu dan volgens de geldende vergunning is toegestaan;
+
+- b. waarin bij algemene maatregel van bestuur aangegeven splijtstoffen op een daarbij aan te geven wijze hetzij zijn opgenomen in vaste stoffen die geen ioniserende straling uitzenden, hetzij zijn omgeven door een omhulsel;
+
+- c. behorende tot een bij algemene maatregel van bestuur aangewezen categorie, waarin, gezien de wijze waarop de daarbij aangegeven splijtstoffen worden toegepast, het belang van de toepassing van [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) niet opweegt tegen de daaraan verbonden bezwaren.
+
+4. In afwijking van het eerste lid zijn de in dat lid genoemde onderdelen van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) en van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) niet van toepassing op de voorbereiding van beschikkingen op de aanvraag om een wijziging van een vergunning krachtens [artikel 15, onder b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01):
+
+- a. die niet leidt tot andere of grotere nadelige gevolgen voor het milieu dan volgens de geldende vergunning is toegestaan;
+
+- b. waarvoor geen verplichting bestaat tot het maken van een milieueffectrapport als bedoeld in [afdeling 16.4 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&afdeling=16.4);
+
+- c. die niet leidt tot een wijziging van de ontwerpbedrijfsduur van de inrichting; en
+
+- d. die niet leidt tot een andere inrichting dan waarvoor eerder een vergunning is verleend.
+
+#### Artikel 17a
+
+Bij algemene maatregel van bestuur worden de bestuursorganen aangewezen, die - anders dan als adviseurs - bij de totstandkoming van de beschikking op de aanvraag worden betrokken. Bij de maatregel kunnen bestuursorganen worden aangewezen, die in de gelegenheid worden gesteld advies uit te brengen over het ontwerp van de beschikking op de aanvraag om een vergunning.
+
+#### Artikel 18
+
+Vervallen
+
+#### Artikel 18a
+
+1. De Autoriteit beziet regelmatig of de beperkingen waaronder een vergunning is verleend, en de voorschriften die aan een vergunning zijn verbonden, nog toereikend zijn gezien de ontwikkelingen op het gebied van de technische mogelijkheden tot bescherming van mensen, dieren, planten en goederen.
+
+2. De Autoriteit wijzigt de beperkingen waaronder de vergunning is verleend en de voorschriften die daaraan zijn verbonden, vult deze aan of trekt ze in, dan wel brengt alsnog beperkingen aan, of verbindt alsnog voorschriften aan de vergunning, voor zover blijkt dat de nadelige gevolgen die de betrokken activiteit voor mensen, dieren, planten en goederen veroorzaakt, gezien de ontwikkeling van de technische mogelijkheden tot bescherming daarvan verder kunnen worden beperkt.
+
+3. Bij algemene maatregel van bestuur kunnen in het belang van de bescherming van mensen, dieren, planten en goederen regels worden gesteld met betrekking tot de wijze waarop het eerste lid wordt toegepast met betrekking tot daarbij aangewezen categorieën van handelingen. Bij de maatregel kan worden bepaald dat daarbij gestelde regels slechts gelden in daarbij aangegeven categorieën van gevallen.
+
+4. Met betrekking tot de beslissing ter zake en de inhoud van die beperkingen en voorschriften zijn de [artikelen 15b tot en met 15e](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15b&z=2024-07-01&g=2024-07-01) van overeenkomstige toepassing.
+
+#### Artikel 19
+
+1. De Autoriteit kan beperkingen waaronder een vergunning is verleend, en voorschriften die daaraan zijn verbonden, wijzigen, aanvullen of intrekken, dan wel alsnog beperkingen aanbrengen of voorschriften aan een vergunning verbinden ter bescherming van de bij of krachtens [artikel 15b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15b&z=2024-07-01&g=2024-07-01) aangewezen belangen.
+
+2. Een ieder, met uitzondering van de vergunninghouder, kan de Autoriteit verzoeken een vergunning in het belang van de bescherming van mensen, dieren, planten en goederen met toepassing van het eerste lid te wijzigen.
+
+3. Op aanvraag van de vergunninghouder kan de Autoriteit beperkingen waaronder een vergunning is verleend, en voorschriften die daaraan zijn verbonden, wijzigen, aanvullen of intrekken, dan wel alsnog beperkingen aanbrengen of voorschriften aan een vergunning verbinden.
+
+4. In een geval als bedoeld in [artikel 15b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15b&z=2024-07-01&g=2024-07-01), trekt de Autoriteit zo spoedig mogelijk nadat de betrokken algemene maatregel van bestuur is ingetrokken, de ingevolge die maatregel aan een vergunning verbonden voorschriften in. Tot het tijdstip waarop de beschikking tot intrekking van kracht wordt, blijven de voorschriften gelden.
+
+#### Artikel 20
+
+1. Op de voorbereiding van een beschikking krachtens [artikel 18a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=18a&z=2024-07-01&g=2024-07-01), of [artikel 19, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=19&z=2024-07-01&g=2024-07-01), is – tenzij het een geval betreft als bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=17&z=2024-07-01&g=2024-07-01) – [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing en zijn [paragraaf 16.2.2 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&paragraaf=16.2.2), [artikel 5.7, vierde lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.7) en [afdeling 13.2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&afdeling=13.2) van overeenkomstige toepassing.
+
+2. Indien een verzoek wordt gedaan als bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=19&z=2024-07-01&g=2024-07-01), stelt de Autoriteit de houder van de betrokken vergunning daarvan in kennis. Deze wordt voor zover zijn belang dat vordert, mede als verzoeker beschouwd.
+
+#### Artikel 20a
+
+1. De Autoriteit kan de vergunning intrekken indien dat ter bescherming van de bij of krachtens [artikel 15b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15b&z=2024-07-01&g=2024-07-01) aangewezen belangen noodzakelijk is.
+
+2. Op de voorbereiding van een beschikking krachtens het eerste lid is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing en zijn [paragraaf 16.2.2 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&paragraaf=16.2.2), [artikel 5.7, vierde lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.7) en [afdeling 13.2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&afdeling=13.2) van overeenkomstige toepassing, tenzij het een geval betreft als bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=17&z=2024-07-01&g=2024-07-01).
+
+3. De Autoriteit kan een vergunning voor het ontmantelen van een inrichting als bedoeld in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01), tevens intrekken wanneer de ontmanteling van die inrichting is voltooid.
+
+#### Artikel 21
+
+1. Bij of krachtens algemene maatregel van bestuur kunnen ter bescherming van de bij of krachtens [artikel 15b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15b&z=2024-07-01&g=2024-07-01) aangewezen belangen regels worden gesteld met betrekking tot daartoe bij de maatregel aangewezen categorieën van splijtstoffen, ertsen, inrichtingen of uitrustingen dan wel onderdelen van inrichtingen of uitrustingen. Bij de maatregel kan worden bepaald dat daarbij gestelde regels slechts gelden in daarbij aangegeven categorieën van gevallen.
+
+2. Bij algemene maatregel van bestuur kan worden bepaald dat de bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01) gestelde verboden in daarbij aangewezen categorieën van gevallen niet gelden met betrekking tot splijtstoffen, ertsen, inrichtingen of uitrustingen, behorende tot een bij die maatregel aangewezen categorie.
+
+3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de buitengebruikstelling en ontmanteling van bij of krachtens die maatregel aangewezen categorieën van inrichtingen als bedoeld in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01). Bij of krachtens de maatregel kan worden bepaald dat daarbij gestelde regels slechts gelden in daarbij aangegeven categorieën van gevallen.
+
+4. Ten aanzien van bij de regels te stellen voorschriften zijn de bij of krachtens [artikel 5.34, eerste en tweede lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.34) gestelde regels over activiteiten als bedoeld in [artikel 5.1, tweede lid, aanhef en onder b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), alsmede [artikel 13.5, eerste tot en met vijfde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=13.5) van overeenkomstige toepassing, met dien verstande dat bij toepassing van het tweede lid het stellen van financiële zekerheid slechts kan worden voorgeschreven in de vorm van het sluiten van een verzekering tegen aansprakelijkheid voor schade, voortvloeiend uit de nadelige gevolgen voor de bij of krachtens [artikel 15b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15b&z=2024-07-01&g=2024-07-01) aangewezen belangen, die de inrichting veroorzaakt.
+
+5. Indien bij een maatregel krachtens het eerste lid tevens toepassing wordt gegeven aan het tweede lid, kan de verplichting worden opgelegd tot het melden van de handelingen ten aanzien waarvan de bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01) gestelde verboden niet gelden.
+
+6. De [artikelen 4.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.4), [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.5) en [4.22, tweede lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.22) zijn van overeenkomstige toepassing, met dien verstande dat onder "Onze Minister" wordt verstaan: Onze Ministers van Infrastructuur en Milieu en van Sociale Zaken en Werkgelegenheid tezamen.
+
+### Afdeling 3. Inbezitneming van splijtstoffen en ertsen
+
+#### Artikel 22
+
+1. Ieder, die zonder daartoe bevoegd te zijn splijtstoffen of ertsen, dan wel stoffen, waarvan hij redelijkerwijs moet vermoeden, dat het splijtstoffen of ertsen zijn, onder zich heeft of krijgt, is verplicht daarvan terstond aangifte te doen bij de Autoriteit.
+
+2. De Autoriteit geeft van de gedane aangifte kennis aan de burgemeester van de gemeente, waar die goederen zich bevinden.
+
+3. De Autoriteit is bevoegd met betrekking tot ongeoorloofd aanwezig bevonden splijtstoffen en ertsen en de voorwerpen, welke tot hun verpakking of berging dienen of hebben gediend, een last onder bestuursdwang op te leggen.
+
+4. Door toepassing van bestuursdwang in bezit genomen goederen worden overgedragen aan een door de Autoriteit aan te wijzen instelling of persoon. Deze doet van de overdracht mededeling in de Staatscourant. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op de aanvraag om een aanwijzing.
+
+#### Artikel 23
+
+1. Hij, die bevoegd is de in bezit genomen splijtstoffen of ertsen onder zich te hebben, kan binnen drie maanden na de in [artikel 22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=3&artikel=22&z=2024-07-01&g=2024-07-01), bedoelde kennisgeving de afgifte van de in bezit genomen goederen vorderen bij een verzoekschrift, te richten tot de rechtbank, binnen welker rechtsgebied de inbezitneming heeft plaats gevonden.
+
+2. De rechtbank behandelt het verzoek overeenkomstig de bepalingen van de zesde afdeling van Titel I van het Eerste Boek van het Wetboek van Strafvordering en beslist zo spoedig mogelijk bij met redenen omklede beschikking.
+
+#### Artikel 24
+
+1. Ingeval niet binnen de in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=3&artikel=23&z=2024-07-01&g=2024-07-01), genoemde termijn een verzoekschrift is ingediend of ingeval een krachtens dat lid gedaan verzoek ongegrond is verklaard, vervallen alle rechten op de in bezit genomen goederen aan de staat, met uitzondering van de rechten, welke ingevolge internationale overeenkomsten of besluiten van volkenrechtelijke organisaties daarop rusten. De krachtens [artikel 22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=3&artikel=22&z=2024-07-01&g=2024-07-01), aangewezen instelling of persoon doet hiervan mededeling in de Staatscourant.
+
+2. Hij, wiens rechten ingevolge het eerste lid aan de staat zijn vervallen, kan binnen een jaar na de krachtens het eerste lid gedane kennisgeving deze rechten van de staat terugvorderen.
+
+#### Artikel 25
+
+Vervallen
+
+### Afdeling 3. Inbezitneming van splijtstoffen en ertsen
+
+#### Artikel 26
+
+1. De voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur als in dit hoofdstuk bedoeld wordt Ons gedaan, indien het betreft:
+
+- a. een maatregel als in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=1&artikel=13&z=2024-07-01&g=2024-07-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=1&artikel=14&z=2024-07-01&g=2024-07-01) bedoeld: Onze Minister van Infrastructuur en Milieu;
+
+- b. een maatregel als in [artikel 15b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15b&z=2024-07-01&g=2024-07-01) bedoeld: door Onze Ministers, wie het aangaat;
+
+- c. een maatregel als in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=16&z=2024-07-01&g=2024-07-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=17&z=2024-07-01&g=2024-07-01) of [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=21&z=2024-07-01&g=2024-07-01) bedoeld: door Onze Ministers van Infrastructuur en Milieu en van Sociale Zaken en Werkgelegenheid.
+
+2. Ten aanzien van bij een algemene maatregel van bestuur, vastgesteld krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=1&artikel=14&z=2024-07-01&g=2024-07-01), geregelde onderwerpen, kan Onze Minister van Infrastructuur en Milieu nadere regels stellen.
+
+### Hoofdstuk IV. Radioactieve stoffen en toestellen
+
+### Afdeling 1. Radioactieve stoffen
+
+#### Artikel 28
+
+Ieder die radioactieve stoffen bereidt, vervoert, voorhanden heeft, toepast, binnen of buiten Nederlands grondgebied brengt of doet brengen, dan wel zich daarvan ontdoet, is verplicht daaromtrent een administratie te voeren, overeenkomstig bij of krachtens algemene maatregel van bestuur gestelde regels.
+
+#### Artikel 29
+
+1. Het is verboden zonder vergunning van de Autoriteit bij of krachtens algemene maatregel van bestuur aan te wijzen radioactieve stoffen of in daarbij aan te wijzen gevallen radioactieve stoffen te bereiden, te vervoeren, voorhanden te hebben, toe te passen, binnen of buiten Nederlands grondgebied te brengen of te doen brengen, dan wel zich daarvan te ontdoen.
+
+2. Voor zover het bij of krachtens het eerste lid bepaalde afwijkt van bij of krachtens andere wetten gestelde regelen, blijven deze buiten toepassing.
+
+#### Artikel 29a
+
+1. Op de voorbereiding van de beschikking op de aanvraag om een vergunning krachtens [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=IV&afdeling=1&artikel=29&z=2024-07-01&g=2024-07-01) zijn [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) en [afdeling 13.2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&afdeling=13.2) van toepassing.
+
+2. In afwijking van het eerste lid zijn [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) en [afdeling 13.2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&afdeling=13.2) niet van toepassing op de voorbereiding van de beschikking op de aanvraag om een vergunning krachtens [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=IV&afdeling=1&artikel=29&z=2024-07-01&g=2024-07-01):
+
+- a. voor het vervoeren, het voorhanden hebben bij opslag in verband met het vervoer, het binnen of buiten Nederlands grondgebied brengen of doen brengen van radioactieve stoffen, dan wel het voorhanden hebben of zich ontdoen van zodanige stoffen die zullen ontstaan tijdens het gebruik van splijtstoffen in een inrichting of uitrusting, ten aanzien waarvan een vergunning krachtens [artikel 15, onder b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01), is vereist;
+
+- b. voor het bereiden, voorhanden hebben, toepassen of zich ontdoen van radioactieve stoffen in overeenkomstige gevallen als bedoeld in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=17&z=2024-07-01&g=2024-07-01);
+
+- c. voor medische toepassingen, indien naar het oordeel van de Autoriteit het belang van de patiënt onverwijlde toepassing van die stoffen vereist.
+
+In gevallen als bedoeld in de eerste volzin is met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28)[paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op de aanvraag om een vergunning.
+
+3. De [artikelen 15c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15c&z=2024-07-01&g=2024-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=16&z=2024-07-01&g=2024-07-01) en [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=17a&z=2024-07-01&g=2024-07-01) zijn van overeenkomstige toepassing.
+
+#### Artikel 30
+
+Vervallen
+
+#### Artikel 31
+
+1. Aan een vergunning worden met inachtneming van de dienaangaande bij algemene maatregel van bestuur gestelde regelen de met het oog op de bescherming van mensen, dieren, planten en goederen nodige voorschriften verbonden. Voor zover door het verbinden van voorschriften aan de vergunning de nadelige gevolgen van de betrokken activiteit voor mensen, dieren, planten en goederen niet kunnen worden voorkomen, worden daaraan de voorschriften verbonden, die de grootst mogelijke bescherming bieden tegen die gevolgen, tenzij dat redelijkerwijs niet kan worden gevergd.
+
+2. Zodanige voorschriften kunnen de verplichting inhouden te voldoen aan door bestuursorganen, die bij het voorschrift zijn aangewezen, gestelde nadere eisen. Bij het stellen van zodanige eis wordt tevens het tijdstip bepaald, waarop ten aanzien van die eis de verplichting ingaat.
+
+3. Een vergunning kan ter bescherming van de in het eerste lid genoemde belangen onder beperkingen worden verleend.
+
+4. De [artikelen 18**a** tot en met 20**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=18a&z=2024-07-01&g=2024-07-01) zijn van overeenkomstige toepassing.
+
+#### Artikel 32
+
+1. Onverminderd het in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=IV&afdeling=1&artikel=29&z=2024-07-01&g=2024-07-01) bepaalde kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld met betrekking tot radioactieve stoffen met het oog op de bescherming van mensen, dieren, planten en goederen of in het belang van de beveiliging van die stoffen.
+
+2. Hiertoe kunnen behoren:
+
+- a. regelen, welke voorwaarden inhouden, waaraan degene, die bij de maatregel aangewezen radioactieve stoffen bereidt, vervoert, voorhanden heeft of toepast, dan wel zich daarvan ontdoet, moet voldoen;
+
+- b. regelen betreffende de plaatsen, waar, de wijze, waarop en de omstandigheden, waaronder bij de maatregel aangewezen radioactieve stoffen mogen worden bereid, vervoerd, voorhanden gehouden of toegepast, en de wijze, waarop en de omstandigheden, waaronder men zich van deze stoffen mag ontdoen;
+
+- c. regelen, welke voorwaarden inhouden, waaraan vervoermiddelen, waarmede bij de maatregel aangewezen radioactieve stoffen worden vervoerd, moeten voldoen.
+
+3. Een algemene maatregel van bestuur, waarbij regelen als in het tweede lid, onder a, b of c, bedoeld worden gesteld, kan tevens de verplichting inhouden te voldoen aan door bestuursorganen, die bij de maatregel zijn aangewezen, aan de betrokkene gestelde nadere eisen. Bij het stellen van zodanige eis wordt tevens het tijdstip bepaald, waarop ten aanzien van die eis de verplichting ingaat.
+
+4. Bij of krachtens de algemene maatregel van bestuur, bedoeld in het eerste lid, kan een verplichting worden opgelegd tot het melden van bij die maatregel aangewezen handelingen.
+
+5. Ten aanzien van het bepaalde in het vierde lid zijn de [artikelen 4.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.4), [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.5) en [4.22, tweede lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.22) van overeenkomstige toepassing, met dien verstande dat onder «Onze Minister» wordt verstaan: Onze Ministers van Sociale Zaken en Werkgelegenheid en van Infrastructuur en Milieu.
+
+6. Indien bij een algemene maatregel van bestuur als in het eerste lid bedoeld wordt afgeweken van bij of krachtens andere wetten gestelde regelen, blijven deze in zoverre buiten toepassing.
+
+#### Artikel 33
+
+1. Ieder, die zonder daartoe bevoegd te zijn radioactieve stoffen dan wel stoffen, waarvan hij redelijkerwijs moet vermoeden dat het radioactieve stoffen zijn, onder zich heeft of krijgt, is verplicht daarvan terstond aangifte te doen bij de Autoriteit.
+
+2. De Autoriteit geeft van de gedane aangifte kennis aan de burgemeester van de gemeente, waar die goederen zich bevinden.
+
+3. De krachtens [artikel 58, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VIII&artikel=58&z=2024-07-01&g=2024-07-01), aangewezen ambtenaren en de Autoriteit zijn bevoegd met betrekking tot ongeoorloofd aanwezig bevonden radioactieve stoffen en de voorwerpen, welke tot hun verpakking of berging dienen of hebben gediend, een last onder bestuursdwang op te leggen.
+
+4. Door toepassing van bestuursdwang in bezit genomen goederen worden overgedragen aan een door de Autoriteit aan te wijzen instelling of persoon. Deze doet van de overdracht mededeling in de Staatscourant. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op de aanvraag om een aanwijzing.
+
+5. De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=3&artikel=23&z=2024-07-01&g=2024-07-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=3&artikel=24&z=2024-07-01&g=2024-07-01) zijn van overeenkomstige toepassing.
+
+### Afdeling 2. Toestellen
+
+#### Artikel 34
+
+1. Bij of krachtens algemene maatregel van bestuur kunnen met het oog op de bescherming van mensen, dieren, planten en goederen regelen worden gesteld betreffende toestellen.
+
+2. Hiertoe kunnen behoren:
+
+- a. regelen, welke een verbod inhouden bij de maatregel aangewezen toestellen te gebruiken, voor zover naar Ons oordeel het nut van het gebruik daarvan niet opweegt tegen de nadelige gevolgen voor de openbare gezondheid;
+
+- b. regelen, welke een verbod inhouden bij de maatregel aangewezen toestellen te gebruiken zonder vergunning;
+
+- c. regelen, welke voorwaarden inhouden, waaraan degene, die bij de maatregel aangewezen toestellen gebruikt, moet voldoen;
+
+- d. regelen, welke voorwaarden inhouden, waaraan bij de maatregel aangewezen toestellen moeten voldoen;
+
+- e. regelen betreffende de plaatsen, waar, de wijze, waarop en de omstandigheden, waaronder bij de maatregel aangewezen toestellen mogen worden gebruikt;
+
+- f. regelen, welke de verplichting inhouden tot melding van het gebruik van bij de maatregel aangewezen toestellen.
+
+3. In geval van toepassing van het tweede lid, onder b, zijn [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) en [afdeling 13.2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&afdeling=13.2) van toepassing, voor zover dat bij die regelen is bepaald. De [artikelen 15c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15c&z=2024-07-01&g=2024-07-01), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=16&z=2024-07-01&g=2024-07-01), en [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=17a&z=2024-07-01&g=2024-07-01) zijn van overeenkomstige toepassing.
+
+4. Een vergunning als bedoeld in het tweede lid, onder b, kan ter bescherming tegen nadelige gevolgen voor mensen, dieren, planten of goederen onder beperkingen worden verleend.
+
+5. Aan een vergunning als in het tweede lid, onder b, bedoeld kunnen voorschriften worden verbonden. Voor zover door het verbinden van voorschriften aan de vergunning de nadelige gevolgen van de betrokken activiteit voor mensen, dieren, planten en goederen niet kunnen worden voorkomen, worden daaraan de voorschriften verbonden, die de grootst mogelijke bescherming bieden tegen die gevolgen, tenzij dat redelijkerwijs niet kan worden gevergd.
+
+6. Zodanige voorschriften kunnen, voor zover bij de maatregel niet anders is bepaald, de verplichting inhouden te voldoen aan door bestuursorganen, die bij het voorschrift zijn aangewezen, gestelde nadere eisen. Bij het stellen van zodanige eis wordt tevens het tijdstip bepaald, waarop ten aanzien van die eis de verplichting ingaat.
+
+7. De [artikelen 18a tot en met 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=18a&z=2024-07-01&g=2024-07-01) zijn van overeenkomstige toepassing.
+
+8. Een algemene maatregel van bestuur, waarbij regelen als in het tweede lid, onder c, d of e, bedoeld worden gesteld, kan tevens de verplichting inhouden te voldoen aan door bestuursorganen, die bij de maatregel zijn aangewezen, aan de betrokkene gestelde nadere eisen. Het vijfde lid, tweede volzin, is van overeenkomstige toepassing.
+
+9. Indien bij een algemene maatregel van bestuur als in het eerste lid bedoeld wordt afgeweken van bij of krachtens andere wetten gestelde regelen, blijven deze in zoverre buiten toepassing.
+
+### Afdeling 3. Algemeen
+
+#### Artikel 35
+
+De voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur krachtens dit hoofdstuk wordt Ons gedaan door Onze Ministers van Infrastructuur en Milieu en van Sociale Zaken en Werkgelegenheid. Indien de maatregel betrekking heeft op medische stralingstoepassingen, wordt de voordracht mede door Onze Minister van Volksgezondheid, Welzijn en Sport gedaan.
+
+### Hoofdstuk V. Maatregelen met betrekking tot werkzaamheden of verblijf in ruimten
+
+#### Artikel 36
+
+1. Indien ten aanzien van een inrichting als in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01), bedoeld of ten aanzien van een uitrusting als in dat artikel, onder c, bedoeld, welke in een vaartuig of ander vervoermiddel is of wordt aangebracht, dan wel ten aanzien van splijtstoffen, ertsen, radioactieve stoffen of toestellen in strijd met het bij of krachtens deze wet bepaalde is gehandeld, kunnen de krachtens [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VIII&artikel=58&z=2024-07-01&g=2024-07-01), aangewezen ambtenaren, ingeval dit handelen naar hun oordeel ten gevolge heeft, dat personen door het verrichten van werkzaamheden in bepaalde ruimten of door het verblijf in die ruimten zich aan een aanmerkelijk gevaar blootstellen, de betrokkene bij beschikking bevelen een ieder, dan wel personen, behorende tot daarbij aangewezen categorieën, te beletten werkzaamheden in die ruimten te verrichten of aldaar te verblijven.
+
+2. De ambtenaar, die een beschikking krachtens het eerste lid heeft vastgesteld, kan - zo nodig met behulp van de sterke arm - alle maatregelen treffen, die hij ter verzekering van de uitvoering van de beschikking nodig acht.
+
+3. Een krachtens het eerste lid vastgestelde beschikking heeft een werkingsduur van één week, tenzij vóór het verstrijken van die termijn door de Autoriteit anders is bepaald.
+
+### Hoofdstuk Va. Metingen radioactiviteit en bedrijfsvoering
+
+#### Artikel 37
+
+1. Bij of krachtens algemene maatregel van bestuur kunnen regelen worden gesteld betreffende het meten van doses ioniserende straling en het bepalen van radioactieve besmetting, zomede betreffende de registratie daarvan.
+
+2. Hiertoe kunnen behoren:
+
+- a. regelen, welke voor bij de maatregel aangewezen personen de verplichting inhouden tot het bij zich dragen van een middel ter controle van de dosis ioniserende straling, waaraan zij blootgesteld zijn geweest;
+
+- b. regelen, welke voor bij de maatregel aangewezen personen de verplichting inhouden tot het houden van een register, waarin wordt bijgehouden de dosis ioniserende straling, waaraan de houder is blootgesteld geweest;
+
+- c. regelen, welke voor degene onder wiens verantwoordelijkheid de houder van een register als onder b bedoeld aan ioniserende straling blootgesteld is geweest, de verplichting inhouden tot het registreren van de dosis in dit register;
+
+- d. regelen, welke voor bij de maatregelen aangewezen personen de verplichting inhouden tot het zich onderwerpen aan een geneeskundig onderzoek in verband met stralingsgevaar;
+
+- e. regelen, welke de verplichting inhouden apparaten, dienende tot het meten van doses ioniserende straling en tot het bepalen van radioactieve besmetting, te doen ijken.
+
+#### Artikel 37a
+
+1. De voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur als in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=Va&artikel=37&z=2024-07-01&g=2024-07-01) bedoeld wordt gedaan door Onze Minister van Infrastructuur en Milieu en, indien het een maatregel betreft met het oog op de arbeidsbescherming dan wel de medische aspecten van bescherming tegen ioniserende straling, Onze Minister van Sociale Zaken en Werkgelegenheid onderscheidenlijk Onze Minister van Volksgezondheid, Welzijn en Sport.
+
+2. Ten aanzien van bij een algemene maatregel van bestuur, vastgesteld krachtens het eerste lid, geregelde onderwerpen kan Onze Minister van Infrastructuur en Milieu en, indien het een maatregel betreft met het oog op de arbeidsbescherming dan wel medische aspecten van bescherming tegen ioniserende straling, Onze Minister van Sociale Zaken en Werkgelegenheid onderscheidenlijk Onze Minister van Volksgezondheid, Welzijn en Sport, nadere regels stellen.
+
+#### Artikel 37b
+
+1. Indien naar het oordeel van de Autoriteit de bedrijfsvoering van een inrichting als bedoeld in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01), ernstige tekortkomingen vertoont, treft zij alle maatregelen die zij met het oog op de omstandigheden geboden achten.
+
+2. Tot de in het eerste lid bedoelde maatregelen kunnen behoren het treffen van de nodige technische, organisatorische, personele en administratieve voorzieningen.
+
+3. Indien de inrichting in gebruik is dan wel is bestemd voor gebruik bij de Nederlandse krijgsmacht of bij de krijgsmacht van een bondgenootschappelijke mogendheid, oefent de Autoriteit haar bevoegdheid uit in overeenstemming met Onze Minister van Defensie, onderscheidenlijk de verantwoordelijke autoriteit van de desbetreffende mogendheid.
+
+### Hoofdstuk V. Maatregelen met betrekking tot werkzaamheden of verblijf in ruimten
+
+### Afdeling 1. Inleidende bepalingen
+
+#### Artikel 38
+
+Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
+
+- a. Onze Minister: Onze Minister van Infrastructuur en Milieu;
+
+- b. ongeval: gebeurtenis
+
+- 1°. als gevolg waarvan straling vrijkomt of dreigt vrij te komen die tot een verhoogd risico leidt of kan leiden voor mens of milieu, of
+
+- 2°. die ter voorkoming of vermindering van een verhoogd stralingsrisico voor mens of milieu een gecoördineerde inzet van diensten en organisaties van verschillende disciplines vergt;
+
+- c. categorie A-object:
+
+- 1°. een inrichting als bedoeld in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01), met uitzondering van een inrichting waarin uitsluitend splijtstoffen worden opgeslagen of verwerkt, alsmede een inrichting voor uraniumverrijking,
+
+- 2°. een ruimtevaartuig of een vervoermiddel met een uitrusting als bedoeld in [artikel 15, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01),
+
+- 3°. inrichtingen als bedoeld in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01), uitrustingen als bedoeld in artikel 15, onder c, alsmede inrichtingen of vervoermiddelen waarin of waarmee handelingen worden verricht als bedoeld in artikel 15, onder a, met betrekking tot splijtstoffen of ertsen voor zover bestemd voor of in gebruik bij de Nederlandse krijgsmacht of bij de krijgsmacht van een bondgenootschappelijke mogendheid, of
+
+- 4°. een met een object als bedoeld onder 1° tot en met 3° en onder d vergelijkbaar object buiten Nederland;
+
+- d. categorie B-object:
+
+- 1°. een inrichting voor uraniumverrijking,
+
+- 2°. een inrichting waarin uitsluitend splijtstoffen of radioactieve stoffen worden opgeslagen of verwerkt,
+
+- 3°. een inrichting waarin radioactieve stoffen kunnen worden bereid of toegepast,
+
+- 4°. een inrichting waarin zich toestellen bevinden,
+
+- 5°. een vervoermiddel waarin zich splijtstoffen of ertsen bevinden, of
+
+- 6°. een vervoermiddel waarin zich radioactieve stoffen of toestellen bevinden;
+
+- e. radiologische noodsituatie: een situatie die een dringend optreden vereist om mensen, dieren, planten en goederen tegen blootstelling aan ioniserende straling te beschermen;
+
+- f. interventie: een verrichting, bestaande uit het treffen van maatregelen bij stralingsbronnen, stralingsroutes en mensen, dieren, planten en goederen, ter voorkoming of vermindering van de blootstelling aan ioniserende straling van mensen, dieren, planten en goederen ten gevolge van:
+
+- 1°. een radiologische noodsituatie, of
+
+- 2°. een langdurige blootstelling tengevolge van een radiologische noodsituatie of een handeling of werkzaamheid met splijtstoffen, radioactieve stoffen of toestellen die in het verleden heeft plaatsgevonden.
+
+#### Artikel 38a
+
+1. Onze Minister en Onze Minister wie het aangaat zijn verantwoordelijk voor de voorbereiding van interventies en voor de coördinatie en uitvoering daarvan. Bij of krachtens algemene maatregel van bestuur kunnen omtrent deze voorbereiding, uitvoering en coördinatie regels worden gesteld.
+
+2. De voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur als bedoeld in het eerste lid wordt gedaan door Onze Minister en Onze Minister wie het aangaat.
+
+#### Artikel 39
+
+1. Ieder die weet of redelijkerwijs kan vermoeden dat zich een ongeval voordoet met een categorie A- of B-object is verplicht dit terstond te melden aan de burgemeester van de gemeente, waar hij zich bevindt en aan de Autoriteit.
+
+2. De exploitant van een inrichting als bedoeld in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01), verschaft de burgemeester en de Autoriteit, al of niet op hun verzoek, onverwijld alle informatie die bij de uitoefening van hun taak nodig is.
+
+### Afdeling 2. Organisatie en coördinatie
+
+#### Artikel 40
+
+1. Onze Minister en Onze Minister wie het aangaat, zijn verantwoordelijk voor de voorbereiding van de organisatie ten behoeve van een doelmatige bestrijding van ongevallen binnen of buiten Nederland met categorie A-objecten en voor de coördinatie van die bestrijding. Zij bevorderen voorts in het bijzonder het houden van oefeningen en de totstandkoming van afspraken, die nodig zijn voor een doelmatige bestrijding van deze ongevallen.
+
+2. Het bestuur van de veiligheidsregio is verantwoordelijk voor de voorbereiding van de organisatie ten behoeve van een doelmatige bestrijding van ongevallen met categorie B-objecten. De burgemeester is verantwoordelijk voor de coördinatie van die bestrijding.
+
+#### Artikel 41
+
+De voorbereiding door het bestuur van de veiligheidsregio van de bestrijding van ongevallen met categorie A-objecten en categorie B-objecten geschiedt overeenkomstig [paragraaf 3 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&paragraaf=3). Bij de voorbereiding houdt het bestuur van de veiligheidsregio rekening met de, overeenkomstig [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VI&afdeling=2&artikel=40&z=2024-07-01&g=2024-07-01), tot stand gekomen afspraken.
+
+#### Artikel 42
+
+1. Onze Minister kan, na overleg met Onze Minister wie het aangaat, gelet op de meer dan plaatselijke betekenis van een ongeval met een categorie B-object, zoveel mogelijk na overleg met de burgemeester van de gemeente waar zich dat ongeval heeft voorgedaan en de voorzitter van de veiligheidsregio, besluiten dat een ongeval met een categorie B-object wordt bestreden als een ongeval met een categorie A-object.
+
+2. De burgemeester van de gemeente waar zich dat ongeval heeft voorgedaan, of de voorzitter van de veiligheidsregio kan Onze Minister verzoeken gebruik te maken van de bevoegdheid, bedoeld in het eerste lid.
+
+### Afdeling 3. Informatieverstrekking
+
+#### Artikel 43
+
+1. Onze Minister en Onze Minister wie het aangaat, dragen er zorg voor dat de Nederlandse bevolking op passende wijze informatie wordt verstrekt over mogelijke ongevallen met een categorie A-object, de maatregelen ter voorkoming en bestrijding daarvan, daaronder begrepen maatregelen ter bescherming van de gezondheid, en de bij deze ongevallen te volgen gedragslijn.
+
+2. De in het eerste lid bedoelde informatie heeft in ieder geval betrekking op:
+
+- a. gegevens inhoudende basiskennis over radioactiviteit en de gevolgen daarvan op mens en milieu;
+
+- b. de gevaren en de gevolgen van een ongeval;
+
+- c. de wijze waarop de bevolking bij een ongeval wordt gewaarschuwd, op de hoogte gehouden en beschermd;
+
+- d. de wijze waarop de bevolking dreigend gevaar kan herkennen;
+
+- e. de door de bevolking te volgen gedragslijn en de maatregelen die zij bij een ongeval dient te treffen om de schadelijke gevolgen daarvan zoveel mogelijk te beperken.
+
+3. De verschaffing van de informatie, bedoeld in het tweede lid, onder **c, d** en **e**, geschiedt ten minste één maal per jaar en daarnaast wanneer in de beschreven maatregelen significante wijzigingen worden aangebracht. Voor zover nodig wordt de te verstrekken informatie dan bijgewerkt.
+
+4. De verschaffing van de informatie, bedoeld in het tweede lid, onder **a** en **b**, geschiedt ten minste één maal per vijf jaar en daarnaast wanneer in de beschreven maatregelen significante wijzigingen worden aangebracht. Voor zover nodig wordt de te verstrekken informatie dan bijgewerkt.
+
+5. Onze Minister en Onze Minister wie het aangaat verschaffen de informatie, bedoeld in het vierde lid, eerder en werken deze eerder bij, indien naar hun oordeel ontwikkelingen in de kennis over de veiligheid, over de beoordeling van risico’s of over een doelmatige ongevallenbestrijding hiertoe nopen.
+
+#### Artikel 43a
+
+1. Onze Minister en Onze Minister wie het aangaat, dragen er zorg voor dat de bevolking die wordt getroffen door een ongeval met een categorie A-object of door een ongeval met een categorie B-object dat krachtens [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VI&afdeling=2&artikel=42&z=2024-07-01&g=2024-07-01) als een ongeval met een categorie A-object wordt bestreden, onverwijld en bij herhaling doelmatige informatie wordt verstrekt over de te volgen gedragslijn en de maatregelen die zijn getroffen ter bestrijding van dat ongeval, daaronder begrepen maatregelen ter bescherming van de gezondheid.
+
+2. De in het eerste lid bedoelde informatie heeft in ieder geval betrekking op:
+
+- a. het ongeval, met name over de oorzaak, de omvang en de te verwachten gevolgen voor mens en milieu, alsmede over het te verwachten verloop van het ongeval;
+
+- b. de wijze waarop de bevolking wordt gewaarschuwd, op de hoogte gehouden en beschermd;
+
+- c. instructies aan de bevolking die afhankelijk van de aard van het ongeval betrekking kunnen hebben op onder meer het gebruik van verontreinigde levensmiddelen, de hygiëne en ontsmetting, het verblijf binnenshuis, distributie en gebruik van beschermende stoffen en evacuatie;
+
+- d. de diensten of personen bij wie nadere informatie kan worden ingewonnen.
+
+#### Artikel 44
+
+Onze Minister, Onze Minister wie het aangaat, en het bestuur van de veiligheidsregio dragen er zorg voor dat de personen werkzaam bij diensten of organisaties die kunnen worden ingeschakeld bij de bestrijding van een ongeval met een categorie A-object of van een ongeval met een categorie B-object dat krachtens [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VI&afdeling=2&artikel=42&z=2024-07-01&g=2024-07-01) als een ongeval met een categorie A-object wordt bestreden, regelmatig worden geïnformeerd over de tot deze categorie behorende ongevallen, over de risico’s die zij bij de uitvoering van hun taak lopen, en over de daarbij te nemen voorzorgsmaatregelen.
+
+#### Artikel 45
+
+1. De verstrekking van informatie aan de bevolking en aan personen die bij de bestrijding van een ongeval met een categorie B-object zijn betrokken, geschiedt overeenkomstig het bepaalde bij of krachtens de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=7) en [46 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=46).
+
+2. Het bestuur van de veiligheidsregio draagt er zorg voor dat de door hem verstrekte informatie in overeenstemming is met de informatie, bedoeld in [artikel 43, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VI&afdeling=3&artikel=43&z=2024-07-01&g=2024-07-01).
+
+### Afdeling 3. Informatieverstrekking
+
+#### Artikel 46
+
+1. Indien zich een ongeval voordoet met een categorie A-object of met een categorie B-object dat krachtens [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VI&afdeling=2&artikel=42&z=2024-07-01&g=2024-07-01) als een ongeval met een A-object wordt bestreden, stelt Onze Minister wie het aangaat, regels of treft hij maatregelen, zo nodig met behulp van de sterke arm, om de gevolgen van dat ongeval zoveel mogelijk te beperken of ongedaan te maken.
+
+2. De in het eerste lid bedoelde regels en maatregelen kunnen onder meer betrekking hebben op:
+
+- a. de toegang van mensen, dieren, planten of goederen tot het verontreinigde gebied,
+
+- b. het verblijf binnenshuis van mens en dier,
+
+- c. het brengen van mensen, dieren, planten of goederen binnen het verontreinigde gebied naar elders binnen of buiten het verontreinigde gebied,
+
+- d. het uitwendig ontsmetten en het behandelen van inwendige besmetting van mensen, alsmede het verstrekken van beschermende stoffen aan mensen,
+
+- e. het in verband met stralingsgevaar onderwerpen van personen of dieren aan een geneeskundig of veterinair onderzoek,
+
+- f. het begraven, verbranden, bewaren, behandelen of vervoeren van lijken van personen, die mogelijk radioactief besmet zijn,
+
+- g. het in beslag nemen of het vernietigen van dieren, planten en goederen, die mogelijk radioactief besmet zijn,
+
+- h. het ontsmetten van dieren of goederen,
+
+- i. het versnellen van de afvoer of het doorspoelen van verontreinigd oppervlaktewater,
+
+- j. het beschermen van oppervlaktewater en de drinkwatervoorziening,
+
+- k. het onttrekken van primair slib aan het slibverwerkingsproces, of het verbieden of beperken van het gebruik van oppervlaktewater, en
+
+- l. het telen en oogsten van land- en tuinbouwprodukten, het sluiten van kassen, het weiden, vangen en slachten van dieren en het vissen.
+
+3. Onze Minister wie het aangaat, stelt geen regels en treft geen maatregelen dan na overleg met Onze Minister alsmede met de voorzitter van de veiligheidsregio en de commissaris van de Koning, die hierbij in het bijzonder betrokken zijn, tenzij de vereiste spoed zich daartegen verzet.
+
+#### Artikel 47
+
+1. Indien zich een ongeval voordoet met een categorie A-object, als bedoeld in [artikel 38, onderdeel **c**, onder 1° of 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VI&afdeling=1&artikel=38&z=2024-07-01&g=2024-07-01), kan de Autoriteit degene die het daarbij betrokken object onder zijn beheer heeft, bij beschikking bevelen de maatregelen te nemen die naar haar oordeel nodig zijn om de gevolgen van dat ongeval zoveel mogelijk te beperken en ongedaan te maken.
+
+2. Tot de in het eerste lid bedoelde maatregelen kunnen behoren het stilleggen van de betrokken inrichting, het buiten werking stellen van de betrokken uitrusting of het beëindigen van het verblijf van het betrokken vervoermiddel in Nederland.
+
+3. De burgemeester van de gemeente waar zich het ongeval heeft voorgedaan kan de Autoriteit verzoeken gebruik te maken van de bevoegdheid, bedoeld in het eerste lid. Op dit verzoek wordt zo spoedig mogelijk beschikt.
+
+4. Van een krachtens het eerste lid vastgestelde beschikking wordt mededeling gedaan door toezending van een afschrift aan de burgemeester van de gemeente, waar zich het ongeval heeft voorgedaan.
+
+#### Artikel 48
+
+1. Indien zich een ongeval voordoet met een categorie A-object, als bedoeld in [artikel 38, onderdeel **c**, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VI&afdeling=1&artikel=38&z=2024-07-01&g=2024-07-01), kan Onze Minister van Defensie, in overeenstemming met Onze Minister en Onze Minister van Veiligheid en Justitie, degene die het daarbij betrokken object onder zijn beheer heeft, bij beschikking bevelen de maatregelen te nemen die naar zijn oordeel nodig zijn om de gevolgen van dat ongeval zoveel mogelijk te beperken en ongedaan te maken. [Artikel 47, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VI&afdeling=4&artikel=47&z=2024-07-01&g=2024-07-01), is van overeenkomstige toepassing.
+
+2. De burgemeester van de gemeente waar zich het ongeval heeft voorgedaan, kan Onze Minister van Defensie verzoeken gebruik te maken van de bevoegdheid, bedoeld in het eerste lid. Op dit verzoek wordt zo spoedig mogelijk beschikt.
+
+3. [Artikel 47, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VI&afdeling=4&artikel=47&z=2024-07-01&g=2024-07-01), is van overeenkomstige toepassing.
+
+#### Artikel 49
+
+1. De commissaris van de Koning, de burgemeester, de voorzitter van de veiligheidsregio en het dagelijks bestuur van het waterschap en van andere openbare lichamen verlenen, op verzoek van Onze Minister wie het aangaat, medewerking aan de uitvoering of handhaving van de in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VI&afdeling=4&artikel=46&z=2024-07-01&g=2024-07-01), bedoelde regels en maatregelen.
+
+2. Onze Minister wie het aangaat, geeft van de regels en maatregelen, bedoeld in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VI&afdeling=4&artikel=46&z=2024-07-01&g=2024-07-01), onmiddellijk kennis aan de commissaris van de Koning, aan de burgemeester, aan de voorzitter van de veiligheidsregio en, voor zover nodig, aan het dagelijks bestuur van het waterschap en van andere openbare lichamen.
+
+#### Artikel 49a
+
+1. Onze Minister wie het aangaat, trekt, zodra de omstandigheden dit toelaten, de regels in en beëindigt de getroffen maatregelen.
+
+2. Indien de krachtens [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VI&afdeling=4&artikel=46&z=2024-07-01&g=2024-07-01), gestelde regels of getroffen maatregelen met onmiddellijke ingang in werking moeten treden of van kracht moeten worden, kan met het oog daarop bekendmaking plaatsvinden door middel van de locale, regionale of landelijke omroep.
+
+#### Artikel 49b
+
+1. De voorzitter van de veiligheidsregio kan naar aanleiding van een ongeval met een categorie A-object bij verordening voorschriften vaststellen of kan, zonodig met behulp van de sterke arm, maatregelen treffen om de gevolgen van dat ongeval zoveel mogelijk te beperken of ongedaan te maken. De voorschriften en maatregelen kunnen onder meer betrekking hebben op de onderwerpen, bedoeld in [artikel 46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VI&afdeling=4&artikel=46&z=2024-07-01&g=2024-07-01).
+
+2. De voorzitter van de veiligheidsregio deelt de voorschriften of maatregelen die hij krachtens het eerste lid heeft vastgesteld of getroffen, onmiddellijk mee aan Onze Minister, Onze Minister wie het aangaat, de commissaris van de Koning en de Autoriteit.
+
+3. De voorzitter van de veiligheidsregio trekt de door hem vastgestelde voorschriften in en beëindigt de door hem getroffen maatregelen, zodra Onze Minister wie het aangaat, overeenkomstige regels stelt of overeenkomstige maatregelen treft krachtens [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VI&afdeling=4&artikel=46&z=2024-07-01&g=2024-07-01), of aan de voorzitter van de veiligheidsregio meedeelt dat de door deze vastgestelde voorschriften moeten worden ingetrokken of de door hem getroffen maatregelen moeten worden beëindigd. Onze Minister wie het aangaat, handelt hierbij voor zover mogelijk in overleg met de voorzitter van de veiligheidsregio.
+
+4. [Artikel 49a](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VI&afdeling=4&artikel=49a&z=2024-07-01&g=2024-07-01) is van overeenkomstige toepassing.
+
+#### Artikel 49c
+
+De burgemeester deelt de bevelen en algemeen verbindende voorschriften die hij op grond van [artikel 175](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=175) onderscheidenlijk [176 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=176) bij een ongeval met een categorie B-object heeft gegeven, onmiddellijk mee aan Onze Minister, Onze Minister wie het aangaat, de commissaris van de Koning en de Autoriteit.
+
+#### Artikel 49d
+
+1. Indien zich een ongeval voordoet met een categorie B-object, treft de beheerder van het oppervlaktewater maatregelen, zonodig met behulp van de sterke arm, die naar zijn oordeel nodig zijn om de gevolgen voor het oppervlaktewater zoveel mogelijk te beperken of ongedaan te maken.
+
+2. De in het eerste lid bedoelde maatregelen kunnen in ieder geval betrekking hebben op:
+
+- a. het versnellen van de afvoer of het doorspoelen van verontreinigd oppervlaktewater,
+
+- b. het beschermen van oppervlaktewater en de drinkwatervoorziening, en
+
+- c. het onttrekken van primair slib aan het slibverwerkingsproces, of het verbieden of beperken van het gebruik van oppervlaktewater.
+
+3. De [artikelen 49**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VI&afdeling=4&artikel=49a&z=2024-07-01&g=2024-07-01), [49**b**, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VI&afdeling=4&artikel=49b&z=2024-07-01&g=2024-07-01), en [49**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VI&afdeling=4&artikel=49c&z=2024-07-01&g=2024-07-01) zijn van overeenkomstige toepassing.
+
+### Afdeling 5. Schadevergoeding
+
+#### Artikel 49e
+
+1. Het in het derde lid aangewezen bestuursorgaan kan regels stellen, waarbij wordt bepaald dat een vergoeding kan worden toegekend indien de vaststelling vooraf of zich uit de toepassing van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VI&afdeling=4&artikel=46&z=2024-07-01&g=2024-07-01), [49b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VI&afdeling=4&artikel=49b&z=2024-07-01&g=2024-07-01) of [49d](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VI&afdeling=4&artikel=49b&z=2024-07-01&g=2024-07-01) of uit de toepassing van [artikel 175](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=175) of [176 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=176) bij een ongeval met een categorie B-object al dan niet schade voordoet, zou leiden tot onredelijke vertraging in de behandeling van de aanvraag van schadevergoeding op grond van [artikel 4:126 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:126) of tot kosten ten aanzien waarvan in redelijkheid niet kan worden gevergd dat de belanghebbende deze draagt.
+
+2. Een vergoeding krachtens het eerste lid kan alleen aan de belanghebbende worden toegekend onder de voorwaarde dat hij voor het toegekende bedrag de rechten die hij terzake van de door hem geleden schade tegenover derden heeft, overdraagt aan het bestuursorgaan dat de vergoeding toekent.
+
+3. Regels als bedoeld in het eerste lid worden gesteld door:
+
+- a. Onze Minister wie het aangaat, indien het betreft schade ten gevolge van de toepassing van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VI&afdeling=4&artikel=46&z=2024-07-01&g=2024-07-01);
+
+- b. de gemeenteraad, indien het betreft schade ten gevolge van de toepassing van [artikel 49b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VI&afdeling=4&artikel=49b&z=2024-07-01&g=2024-07-01) of van de toepassing van [artikel 175](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=175) of [176 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=176) bij een ongeval met een categorie B-object;
+
+- c. de beheerder van het oppervlaktewater indien het betreft schade ten gevolge van de toepassing van [artikel 49d](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VI&afdeling=4&artikel=49d&z=2024-07-01&g=2024-07-01).
+
+### Hoofdstuk VII. Beroep
+
+#### Artikel 50
+
+Vervallen
+
+#### Artikel 51
+
+Vervallen
+
+#### Artikel 52
+
+Vervallen
+
+#### Artikel 53
+
+Vervallen
+
+#### Artikel 54
+
+Vervallen
+
+#### Artikel 55
+
+Vervallen
+
+#### Artikel 56
+
+Vervallen
+
+#### Artikel 57
+
+Vervallen
+
+### Hoofdstuk VIII. Ambtelijke bevoegdheden
+
+#### Artikel 58
+
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast:
+
+- a. de bij besluit van de Autoriteit aangewezen ambtenaren die deel uitmaken van het personeel, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=II&artikel=10&z=2024-07-01&g=2024-07-01);
+
+- b. de bij besluit van Onze Ministers, wie het aangaat, aangewezen ambtenaren.
+
+2. Onze Ministers van Infrastructuur en Milieu en van Sociale Zaken en Werkgelegenheid wijzen, in overeenstemming met Onze Ministers wie het mede aangaat, ambtenaren aan belast met het meten van doses ioniserende straling en het bepalen van radioactieve besmetting, alsmede met de in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=Va&artikel=37&z=2024-07-01&g=2024-07-01) bedoelde registratie daarvan.
+
+3. Met de uitoefening van de in het eerste lid, onderdeel b, en het tweede lid bedoelde taken zijn mede belast de door Onze Minister van Volksgezondheid, Welzijn en Sport daartoe aangewezen ambtenaren, bedoeld in [artikel 25, eerste lid, onder **a**, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=25).
+
+4. Onze betrokken Ministers stellen regelen betreffende de taakvervulling van de krachtens het eerste lid, onderdeel b, en het tweede en derde lid aangewezen ambtenaren.
+
+5. Van een besluit als bedoeld in het eerste, tweede of derde lid wordt mededeling gedaan door plaatsing in de **Staatscourant**.
+
+#### Artikel 59
+
+1. De [artikelen 5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) en [5:15 tot en met 5:20, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15) zijn van overeenkomstige toepassing ten aanzien van de in [artikel 58, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VIII&artikel=58&z=2024-07-01&g=2024-07-01), bedoelde ambtenaren bij de uitoefening van de in [artikel 58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VIII&artikel=58&z=2024-07-01&g=2024-07-01), bedoelde taken.
+
+2. De in [artikel 58, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VIII&artikel=58&z=2024-07-01&g=2024-07-01), bedoelde ambtenaren zijn bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner.
+
+#### Artikel 60
+
+Vervallen
+
+#### Artikel 61
+
+Vervallen
+
+#### Artikel 62
+
+Vervallen
+
+#### Artikel 63
+
+Vervallen
+
+#### Artikel 64
+
+Vervallen
+
+#### Artikel 65
+
+1. De Autoriteit kan personen, die zijn aangewezen om de naleving van internationale overeenkomsten en door volkenrechtelijke organisaties genomen besluiten, geheel of gedeeltelijk betrekking hebbende op het gebied van de kernenergie of van de ioniserende straling, te controleren, toelaten deze taak te vervullen.
+
+2. De [artikelen 5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) en [5:15 tot en met 5:20, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15) zijn van overeenkomstige toepassing ten aanzien van de in het eerste lid bedoelde personen.
+
+3. De in het eerste lid bedoelde personen zijn bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner, met dien verstande dat bedoelde personen daarbij vergezeld zijn van een ambtenaar als bedoeld in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VIII&artikel=58&z=2024-07-01&g=2024-07-01).
+
+4. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de **Staatscourant**.
+
+#### Artikel 66
+
+Het bevoegd gezag is bevoegd tot overeenkomstige toepassing van [artikel 5:20, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) ter handhaving van de [artikelen 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VIII&artikel=59&z=2024-07-01&g=2024-07-01), en [65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VIII&artikel=65&z=2024-07-01&g=2024-07-01), voor zover het betreft de verplichting tot het verlenen van medewerking aan een krachtens [artikel 58, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VIII&artikel=58&z=2024-07-01&g=2024-07-01), aangewezen ambtenaar of een krachtens artikel 65 toegelaten persoon.
+
+### Hoofdstuk IX. Algemene bepalingen
+
+#### Artikel 67
+
+1. Bij algemene maatregel van bestuur kunnen regelen worden gesteld ter uitvoering van internationale overeenkomsten en door volkenrechtelijke organisaties genomen besluiten, geheel of gedeeltelijk betrekking hebbende op het gebied van de kernenergie of van de ioniserende straling.
+
+2. Hiertoe kunnen behoren:
+
+- a. regelen, welke een verbod inhouden hulpstoffen of hulptoestellen, welke voor de vrijmaking van kernenergie of voor de opslag, vervaardiging, bewerking of verwerking van splijtstoffen dienstig kunnen zijn, voorhanden te hebben dan wel binnen of buiten Nederlands grondgebied te brengen zonder vergunning;
+
+- b. regelen, welke de verplichting inhouden tot mededeling van daarbij aangewezen gegevens.
+
+3. In geval van toepassing van het tweede lid, onder **a,** is [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=16&z=2024-07-01&g=2024-07-01) van overeenkomstige toepassing.
+
+4. Aan een vergunning als in het tweede lid, onder **a,** bedoeld kunnen voorschriften worden verbonden.
+
+5. Zodanige voorschriften kunnen, voor zover bij de maatregel niet anders is bepaald, de verplichting inhouden te voldoen aan door bestuursorganen, die bij het voorschrift zijn aangewezen, gestelde nadere eisen. Bij het stellen van zodanige eis wordt tevens het tijdstip bepaald, waarop ten aanzien van die eis de verplichting ingaat.
+
+6. Een vergunning als bedoeld in het tweede lid, onder **a,** kan te allen tijde worden ingetrokken op grond van gewichtige redenen aan het algemeen belang ontleend. De aan een vergunning verbonden voorschriften kunnen te allen tijde worden gewijzigd, aangevuld of ingetrokken.
+
+#### Artikel 68
+
+Bij algemene maatregel van bestuur kunnen regelen worden gesteld ter verzekering van de geheimhouding van:
+
+- a. gegevens, hulpmiddelen en materialen voor: voor zover deze, hetzij rechtstreeks van de overheid, hetzij met instemming van het bevoegde gezag, onder verplichting tot geheimhouding zijn verkregen, dan wel door Onze Ministers, wie het aangaat, zijn aangewezen;
+
+- 1°. de vrijmaking van kernenergie,
+
+- 2°. de opslag, vervaardiging, bewerking of verwerking van splijtstoffen en
+
+- 3°. de beveiliging van bij die maatregel aangewezen categorieën van splijtstoffen, ertsen, radioactieve stoffen en inrichtingen als bedoeld in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01),
+
+- b. met behulp van zodanige gegevens, hulpmiddelen en materialen verrichte onderzoekingen en toegepaste werkmethoden, voor zover deze onderzoekingen en werkmethoden door Onze Ministers, wie het aangaat, zijn aangewezen.
+
+#### Artikel 69
+
+1. Bij of krachtens algemene maatregel van bestuur wordt bepaald welke taken worden verricht door een deskundige en worden regels gesteld met betrekking tot de vaardigheden en bekwaamheden, waaraan deskundigen moeten voldoen.
+
+2. Bij de maatregel kan worden bepaald dat daarbij aangewezen taken slechts mogen worden verricht door een persoon die met het oog op de uitvoering van die taken is ingeschreven in een door de Autoriteit beheerd register.
+
+3. De Autoriteit beslist op de aanvraag voor inschrijving in een register als bedoeld in het tweede lid. Zij is bevoegd de inschrijving door te halen.
+
+4. Een inschrijving in een register geldt voor een bepaalde tijd. Aan een inschrijving kunnen voorschriften worden verbonden.
+
+5. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de eisen met betrekking tot vaardigheden en bekwaamheden waaraan een persoon moet voldoen om als deskundige in een register te kunnen worden ingeschreven.
+
+6. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de inschrijving in een register, die in ieder geval betrekking kunnen hebben op:
+
+- a. de wijze waarop de aanvraag voor inschrijving in een register wordt gedaan en de door de aanvrager te verschaffen gegevens en bescheiden;
+
+- b. de gronden waarop en de gevallen waarin de inschrijving kan worden geweigerd, doorgehaald of geschorst;
+
+- c. de vergoeding die is verschuldigd in verband met de inschrijving in een register;
+
+- d. het beheer van een register.
+
+#### Artikel 69a
+
+Vervallen
+
+#### Artikel 69b
+
+Vervallen
+
+#### Artikel 69c
+
+Vervallen
+
+#### Artikel 69d
+
+Vervallen
+
+#### Artikel 70
+
+1. Een krachtens deze wet verleende vergunning is persoonlijk.
+
+2. Na het overlijden van een vergunninghouder blijft de vergunning gedurende vier weken van kracht ten behoeve van diens rechtverkrijgenden, die het bedrijf voortzetten, mits door of namens hen binnen een week na dit overlijden daarvan aan de Autoriteit kennis wordt gegeven onder opgaaf van de namen van hen, die het bedrijf voortzetten. Wanneer binnen deze vier weken een aanvraag om een nieuwe vergunning is ingediend, blijft eerstbedoelde vergunning verder van kracht totdat op die aanvraag onherroepelijk is beslist. Gedurende het van kracht blijven van de vergunning kan zij overeenkomstig de [artikelen 19 tot en met 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=19&z=2024-07-01&g=2024-07-01) worden gewijzigd of ingetrokken.
+
+3. De vergunninghouder kan de vergunning geheel of gedeeltelijk aan een ander overdragen, indien daarvoor toestemming is gegeven door de Autoriteit. Aan de toestemming kunnen voorschriften worden verbonden.
+
+#### Artikel 71
+
+Vervallen
+
+#### Artikel 72
+
+1. Bij algemene maatregel van bestuur kunnen bij of krachtens andere wetten gestelde regelen geheel of gedeeltelijk buiten toepassing worden verklaard, voor zover de belangen, welke die regelen beogen te beschermen, naar Ons oordeel in voldoende mate door toepassing van deze wet kunnen worden beschermd.
+
+2. Indien Wij niet binnen twaalf weken na het in werking treden van een algemene maatregel van bestuur, waarbij bepalingen van een andere wet geheel of gedeeltelijk buiten toepassing zijn verklaard, aan de Staten-Generaal een voorstel van wet tot wijziging van die wet of tot afwijking daarvan hebben doen toekomen of indien zodanig voorstel wordt ingetrokken of verworpen, trekken Wij de maatregel onverwijld in.
+
+#### Artikel 73
+
+Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering van de wet nadere regeling behoeven, kan deze geschieden bij algemene maatregel van bestuur.
+
+#### Artikel 74
+
+De bij de toepassing van deze wet betrokken personen zijn verplicht in bij algemene maatregel van bestuur bepaalde gevallen en overeenkomstig daarbij gestelde regelen bij de maatregel vastgestelde bedragen aan de staat te betalen als bijdrage in de aan de uitvoering van deze wet verbonden kosten.
+
+#### Artikel 75
+
+1. Wij kunnen ten behoeve van instellingen van wetenschap of in het belang van de landsverdediging van de in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=IV&afdeling=1&artikel=29&z=2024-07-01&g=2024-07-01) vervatte verboden:
+
+- a. bij algemene maatregel van bestuur vrijstelling verlenen;
+
+- b. op daartoe strekkend verzoek ontheffing verlenen.
+
+2. Aan een vrijstelling of ontheffing worden de voorschriften verbonden, welke naar Ons oordeel nodig zijn met het oog op de bij of krachtens [artikel 15**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15b&z=2024-07-01&g=2024-07-01) aangewezen belangen.
+
+#### Artikel 76
+
+1. Het ontwerp van een algemene maatregel van bestuur krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=II&artikel=4&z=2024-07-01&g=2024-07-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=1&artikel=14&z=2024-07-01&g=2024-07-01), [15c](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15c&z=2024-07-01&g=2024-07-01), [15f](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15f&z=2024-07-01&g=2024-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=16&z=2024-07-01&g=2024-07-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=17&z=2024-07-01&g=2024-07-01), [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=17a&z=2024-07-01&g=2024-07-01), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=18a&z=2024-07-01&g=2024-07-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=21&z=2024-07-01&g=2024-07-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=IV&afdeling=1&artikel=29&z=2024-07-01&g=2024-07-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=IV&afdeling=1&artikel=32&z=2024-07-01&g=2024-07-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=IV&afdeling=2&artikel=34&z=2024-07-01&g=2024-07-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=Va&artikel=37&z=2024-07-01&g=2024-07-01), [38a](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VI&afdeling=1&artikel=38a&z=2024-07-01&g=2024-07-01), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=IX&artikel=67&z=2024-07-01&g=2024-07-01), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=IX&artikel=68&z=2024-07-01&g=2024-07-01), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=IX&artikel=73&z=2024-07-01&g=2024-07-01) of [75](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=IX&artikel=75&z=2024-07-01&g=2024-07-01) wordt overgelegd aan de beide kamers der Staten-Generaal en in de Staatscourant bekendgemaakt. Aan een ieder wordt de gelegenheid geboden binnen een bij die bekendmaking vast te stellen termijn van ten minste vier weken opmerkingen over het ontwerp schriftelijk ter kennis te brengen van Onze Ministers van Infrastructuur en Milieu, van Sociale Zaken en Werkgelegenheid en, behoudens ingeval het een maatregel krachtens artikel 21 betreft, van Volksgezondheid, Welzijn en Sport.
+
+2. Een algemene maatregel van bestuur als bedoeld in het eerste lid wordt, nadat hij is vastgesteld, toegezonden aan beide kamers der Staten-Generaal. Hij treedt niet eerder in werking dan vier weken na de datum van uitgifte van het **Staatsblad** waarin hij is geplaatst.
+
+3. Ten aanzien van bij een algemene maatregel van bestuur, vastgesteld krachtens [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=IX&artikel=67&z=2024-07-01&g=2024-07-01), geregelde onderwerpen kunnen Onze betrokken Ministers nadere regelen stellen.
+
+4. Hetgeen ingevolge deze wet bij algemene maatregel van bestuur kan worden geregeld, kan in afwijking daarvan bij ministeriële regeling worden geregeld, indien de regels uitsluitend strekken ter uitvoering van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie, tenzij voor een juiste uitvoering wijziging van een algemene maatregel van bestuur of de wet noodzakelijk is. Op de vaststelling van een ministeriële regeling zijn de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=5&artikel=26&z=2024-07-01&g=2024-07-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=IV&afdeling=3&artikel=35&z=2024-07-01&g=2024-07-01) van overeenkomstige toepassing.
+
+#### Artikel 76a
+
+Een gedraging in strijd met een voorschrift dat is verbonden aan een krachtens deze wet verleende vergunning, is verboden.
+
+### Hoofdstuk X. Handhaving
+
+#### Artikel 77
+
+Vervallen
+
+#### Artikel 78
+
+Vervallen
+
+#### Artikel 79
+
+Vervallen
+
+#### Artikel 80
+
+1. Indien van het opzettelijk handelen in strijd met het bij of krachtens de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=21&z=2024-07-01&g=2024-07-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=5&artikel=26&z=2024-07-01&g=2024-07-01), of [76a](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=IX&artikel=76a&z=2024-07-01&g=2024-07-01), voor zover betrekking hebbend op een vergunning als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01), bepaalde gevaar voor ernstig lichamelijk letsel voor een ander of aanzienlijke schade aan goederen of het milieu te duchten is, wordt de schuldige gestraft met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie.
+
+2. Indien van het opzettelijk handelen in strijd met het bij of krachtens de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=21&z=2024-07-01&g=2024-07-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=5&artikel=26&z=2024-07-01&g=2024-07-01) of [76a](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=IX&artikel=76a&z=2024-07-01&g=2024-07-01), voor zover betrekking hebbend op een vergunning als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01), bepaalde levensgevaar voor een ander te duchten is en het feit iemands dood ten gevolge heeft, wordt de schuldige gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.
+
+3. De samenspanning tot de in het eerste en tweede lid omschreven misdrijven, te begaan met een terroristisch oogmerk als bedoeld in [artikel 83a van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=83a), wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie. [Artikel 96, tweede lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=96) is van overeenkomstige toepassing.
+
+#### Artikel 80a
+
+In geval van vervolging wegens een strafbaar feit, vallende onder de omschrijvingen van artikel 7, eerste lid, onder a en d, van het op 3 maart 1980 te Wenen/New York tot stand gekomen Verdrag inzake de fysieke beveiliging van kernmateriaal (Trb. 1981, 7), zoals gewijzigd bij de op 8 juli 2005 te Wenen tot stand gekomen Wijziging van dat verdrag (Trb. 2006, 81), op grond van een der bevoegdheidsregels, bedoeld in [artikel 8, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=II&artikel=8&z=2024-07-01&g=2024-07-01), of [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=II&artikel=8&z=2024-07-01&g=2024-07-01), van dat Verdrag, wordt bij de toepassing van deze wet
+
+- a. elk handelen zonder vergunning te verlenen door het bevoegd gezag van een Staat, Partij bij dat Verdrag, of in strijd met de in zulk een Staat geldende voorschriften gelijk gesteld met eenzelfde handelen zonder vergunning te verlenen ingevolge deze wet of in strijd met overeenkomstige bij of krachtens deze wet gestelde voorschriften,
+
+- b. het binnen of buiten het grondgebied van een Staat, Partij bij dat Verdrag, brengen of doen brengen gelijk gesteld met het binnen of buiten Nederlands grondgebied brengen of doen brengen, en
+
+- c. de veiligheid van de Staat gelijk gesteld met de veiligheid van een vreemde Staat, Partij bij dat Verdrag.
+
+#### Artikel 81
+
+De in de [artikelen 79](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=X&artikel=79&z=2024-07-01&g=2024-07-01) en [80](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=X&artikel=80&z=2024-07-01&g=2024-07-01) strafbaar gestelde feiten zijn misdrijven.
+
+#### Artikel 82
+
+Vervallen
+
+#### Artikel 83
+
+1. Met de opsporing van de bij of krachtens deze wet strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=VIII&artikel=58&z=2024-07-01&g=2024-07-01) bedoelde ambtenaren, voor zover zij bij besluit van Onze Minister van Veiligheid en Justitie zijn aangewezen. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179) en [184 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.
+
+2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de **Staatscourant**.
+
+#### Artikel 83a
+
+Met betrekking tot de handhaving van het bij of krachtens deze wet bepaalde zijn de [artikelen 18.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.4)[18.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.4a), en [18.10 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.10) van toepassing.
+
+#### Artikel 83b
+
+1. De [artikelen 5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) en [5:15 tot en met 5:20, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15) zijn van overeenkomstige toepassing ten aanzien van de in [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=X&artikel=83&z=2024-07-01&g=2024-07-01) bedoelde ambtenaren bij de uitoefening van de in dat artikel bedoelde taken.
+
+2. De in [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=X&artikel=83&z=2024-07-01&g=2024-07-01) bedoelde ambtenaren zijn bij de uitoefening van de in dat artikel bedoelde taken bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner.
+
+### Hoofdstuk XI. Slotbepalingen
+
+#### Artikel 84
+
+Bevat wijzigingen in andere regelgeving.
+
+#### Artikel 85
+
+Krachtens de Hinderwet voor inrichtingen als in [artikel 15, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01), bedoeld verleende vergunningen worden geacht te zijn verleend op grond van deze wet.
+
+#### Artikel 86
+
+Bevat wijzigingen in andere regelgeving.
+
+#### Artikel 87
+
+De Röntgenstralenwet (**Stb.** 1931, 299) wordt ingetrokken.
+
+#### Artikel 88
+
+Deze wet kan worden aangehaald als: Kernenergiewet.
+
+#### Artikel 89
+
+1. [Hoofdstuk II van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=II&z=2024-07-01&g=2024-07-01) treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij wordt geplaatst.
+
+2. Haar onderscheidene overige bepalingen treden in werking op door Ons te bepalen tijdstippen. De voordrachten hiertoe worden Ons gedaan door Onze Ministers, wie het aangaat, de Centrale Raad gehoord.
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### Artikel 79
+
+Degene die:
+
+- a. splijtstoffen of ertsen vervoert, voorhanden heeft, toepast, binnen of buiten Nederlands grondgebied brengt of doet brengen, ter beschikking stelt dan wel zich deze verschaft of zich daarvan ontdoet,
+
+- b. een inrichting waarin kernenergie kan worden vrijgemaakt, splijtstoffen kunnen worden vervaardigd, bewerkt of verwerkt, dan wel splijtstoffen worden opgeslagen, opricht, in werking brengt, in werking houdt of wijzigt,
+
+- c. een uitrusting, geschikt om een vaartuig of een ander vervoermiddel door middel van kernenergie voort te bewegen, daarin aanbrengt of aangebracht houdt, dan wel zodanige daarin aangebrachte uitrusting in werking brengt, in werking houdt of wijzigt,
+
+- d. radioactieve stoffen bereidt, vervoert, voorhanden heeft, toepast, binnen of buiten Nederlands grondgebied brengt of doet brengen, ter beschikking stelt, dan wel zich deze verschaft of zich daarvan ontdoet,
+
+- e. ioniserende stralen uitzendende toestellen vervaardigt, vervoert, voorhanden heeft, toepast, binnen of buiten Nederlands grondgebied brengt of doet brengen, ter beschikking stelt, dan wel zich een zodanig toestel verschaft of zich daarvan ontdoet,
+
+met een terroristisch oogmerk als bedoeld in [artikel 83a van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=83a), dan wel met het oogmerk om een terroristisch misdrijf als bedoeld in [artikel 83 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=83) voor te bereiden of gemakkelijk te maken, wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie.
+
+#### Artikel 15f
+
+1. De houder van een vergunning als bedoeld in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01), voor het in werking brengen, in werking houden, buiten gebruik stellen of ontmantelen van een inrichting waarin kernenergie kan, onderscheidenlijk kon worden vrijgemaakt, stelt op een door Onze Ministers van Infrastructuur en Milieu en van Financiën goedgekeurde wijze financiële zekerheid ter dekking van de kosten die voortvloeien uit het buiten gebruik stellen en de ontmanteling van de inrichting.
+
+2. De financiële zekerheid wordt in stand gehouden tot het tijdstip waarop Onze genoemde Ministers schriftelijk hebben verklaard dat de ontmanteling is voltooid.
+
+3. De financiële zekerheid wordt gesteld in een of meer van de volgende vormen:
+
+- a. een borgtocht of een bankgarantie;
+
+- b. het deelnemen aan een daartoe ingesteld fonds dat naar het oordeel van Onze genoemde Ministers voldoende waarborg biedt dat de in het eerste lid bedoelde kosten zijn gedekt;
+
+- c. het treffen van enige andere voorziening die naar het oordeel van Onze genoemde Ministers voldoende waarborg biedt dat de in het eerste lid bedoelde kosten zijn gedekt.
+
+4. De aanvraag om goedkeuring vermeldt het bedrag en de termijn waarvoor en het tijdstip en de wijze waarop de zekerheid wordt gesteld. Tevens bevat de aanvraag een onderbouwing van de omvang van de te stellen financiële zekerheid. Indien de aanvraag betrekking heeft op een wijziging van bij een eerdere aanvraag verstrekte gegevens, wordt de aanvraag uiterlijk vier weken voor de wijziging ingediend.
+
+5. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de aanvraag om goedkeuring.
+
+6. Aan de goedkeuring kunnen voorschriften worden verbonden. Daartoe kan in ieder geval behoren een voorschrift dat de houder van de vergunning het bedrag van de gestelde zekerheid aanpast, indien dat naar het oordeel van Onze genoemde Ministers nodig is met het oog op wijziging van bij het voorschrift aangegeven omstandigheden.
+
+7. Onze genoemde Ministers beslissen binnen zes maanden na de ontvangst van een aanvraag om goedkeuring op die aanvraag.
+
+8. Bij of krachtens algemene maatregel van bestuur kunnen andere inrichtingen als bedoeld in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01), worden aangewezen, waarop het eerste tot en met zevende lid van overeenkomstige toepassing zijn.
+
+9. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op de aanvraag om goedkeuring.
+
+### Afdeling 3. Inbezitneming van splijtstoffen en ertsen
+
+### Afdeling 3. Inbezitneming van splijtstoffen en ertsen
+
+### Hoofdstuk IV. Radioactieve stoffen en toestellen
+
+### Afdeling 1. Radioactieve stoffen
+
+### Afdeling 2. Toestellen
+
+### Afdeling 3. Algemeen
+
+### Hoofdstuk V. Maatregelen met betrekking tot werkzaamheden of verblijf in ruimten
+
+### Hoofdstuk Va. Metingen radioactiviteit en bedrijfsvoering
+
+### Hoofdstuk Va. Metingen radioactiviteit en bedrijfsvoering
+
+### Afdeling 1. Inleidende bepalingen
+
+### Afdeling 1. Inleidende bepalingen
+
+### Afdeling 2. Organisatie en coördinatie
+
+### Afdeling 3. Informatieverstrekking
+
+### Afdeling 5. Schadevergoeding
+
+### Hoofdstuk VII. Beroep
+
+### Hoofdstuk VIII. Ambtelijke bevoegdheden
+
+### Hoofdstuk IX. Algemene bepalingen
+
+#### Artikel 70a
+
+Op een overeenkomst, gesloten door de eigenaar van een inrichting als bedoeld in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01), waarin kernenergie kan worden vrijgemaakt, met de Staat der Nederlanden, die verband houdt met die inrichting, is [artikel 252 van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=252) van overeenkomstige toepassing, met dien verstande dat de in dat artikel bedoelde rechtsgevolgen mede zullen gelden voor verplichtingen van eerstgenoemde partij om ten aanzien van die inrichting iets te doen.
+
+### Hoofdstuk X. Handhaving
+
+#### Artikel 82
+
+Vervallen
+
+### Hoofdstuk XI. Slotbepalingen
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### Artikel 82
+
+Ingeval bij of krachtens deze wet regels worden gesteld met gebruikmaking van door het Internationaal Atoomenergieagentschap vastgestelde veiligheidsnormen, kan overtreding van die regels ook als strafbaar feit worden aangemerkt dan wel worden bestraft met een bestuurlijke sanctie indien deze regels in de Engelse taal zijn gesteld en bekend gemaakt.
+
+#### Artikel 12a
+
+In afwijking van [artikel 21, eerste lid, van de Kaderwet zelfstandig bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21) kan Onze Minister van Infrastructuur en Milieu geen beleidsregels vaststellen met betrekking tot de taakuitoefening door de Autoriteit.
+
+#### Artikel 12b
+
+1. De Autoriteit stelt een bestuursreglement vast.
+
+2. Het bestuursreglement behoeft goedkeuring van Onze Minister van Infrastructuur en Milieu.
+
+3. Het bestuursreglement bevat alleen regels over de wijze van besluitvorming, het financiële beheer, de administratieve organisatie, vervanging van leden, vertegenwoordigingsbevoegdheid en procedures met het oog op een goede en zorgvuldige uitoefening van de taken.
+
+4. De Autoriteit maakt het bestuursreglement na de goedkeuring bekend in de Staatscourant.
+
+#### Artikel 12c
+
+1. In afwijking van [artikel 22, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=22) kan Onze Minister van Infrastructuur en Milieu een besluit van de Autoriteit uitsluitend vernietigen wegens strijd met het recht.
+
+2. Onze Minister van Infrastructuur en Milieu stelt beide kamers der Staten-Generaal onverwijld in kennis van een besluit tot vernietiging van een besluit van de Autoriteit.
+
+#### Artikel 12d
+
+Indien de Autoriteit haar taak ernstig verwaarloost, kan Onze Minister van Infrastructuur en Milieu na overleg met Onze Ministers van Sociale Zaken en Werkgelegenheid en van Volksgezondheid, Welzijn en Sport die de taakverwaarlozing aangaat of aangaan de noodzakelijke voorzieningen treffen.
+
+#### Artikel 12e
+
+Onze Minister van Infrastructuur en Milieu stelt het verslag, bedoeld in [artikel 39, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39), op na overleg met Onze Ministers van Sociale Zaken en Werkgelegenheid en van Volksgezondheid, Welzijn en Sport.
+
+### Hoofdstuk III. Splijtstoffen, ertsen en inrichtingen
+
+### Afdeling 1. Registratie van splijtstoffen en ertsen
+
+### Afdeling 2. Vergunningen
+
+### Afdeling 5. Algemeen
+
+### Hoofdstuk IV. Radioactieve stoffen en toestellen
+
+### Afdeling 1. Radioactieve stoffen
+
+### Afdeling 2. Toestellen
+
+### Afdeling 3. Algemeen
+
+### Hoofdstuk V. Maatregelen met betrekking tot werkzaamheden of verblijf in ruimten
+
+### Hoofdstuk VI. Bepalingen met betrekking tot interventie bij ongevallen of langdurige blootstellingen alsmede de voorbereiding daarop
+
+#### Artikel 43b
+
+1. De Autoriteit draagt er zorg voor dat de Nederlandse bevolking op passende wijze, in ieder geval langs elektronische weg op een algemeen toegankelijke wijze, informatie wordt verstrekt over ongewone gebeurtenissen binnen inrichtingen als bedoeld in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01), en, voor zover daarover informatie beschikbaar is, over ongewone gebeurtenissen binnen vergelijkbare buitenlandse inrichtingen in de nabijheid van Nederland.
+
+2. De Autoriteit bericht Onze Minister jaarlijks vóór 1 juli over de ongewone gebeurtenissen die in het voorgaande jaar hebben plaatsgevonden.
+
+3. Bij de informatieverstrekking en het bericht wordt in ieder geval ingegaan op de oorzaak, omvang en gevolgen van de ongewone gebeurtenissen, alsmede op de bij de ongewone gebeurtenissen genomen maatregelen.
+
+### Afdeling 4. Regels en maatregelen bij een ongeval met een categorie A- of een categorie B-object
+
+### Afdeling 5. Schadevergoeding
+
+### Hoofdstuk VII. Beroep
+
+### Hoofdstuk VIII. Ambtelijke bevoegdheden
+
+### Hoofdstuk IX. Algemene bepalingen
+
+### Hoofdstuk X. Handhaving
+
+### Hoofdstuk XI. Slotbepalingen
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### Artikel 83c
+
+De Autoriteit is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen, voor zover het het werkterrein van de Autoriteit betreft en voor zover die bevoegdheid niet al voortvloeit uit andere voorschriften van deze wet.
+
+### Hoofdstuk XI. Slotbepalingen
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### Artikel 80b
+
+Bij veroordeling wegens een der misdrijven omschreven in de [artikelen 79](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=X&artikel=79&z=2024-07-01&g=2024-07-01) en [80, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=X&artikel=80&z=2024-07-01&g=2024-07-01), alsmede bij veroordeling wegens een der misdrijven omschreven in artikel 80, tweede lid, begaan met een terroristisch oogmerk als bedoeld in [artikel 83a van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=83a), kan ontzetting van het in [artikel 28, eerste lid, onder 3°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28) vermelde recht worden uitgesproken.
+
+### Hoofdstuk XI. Slotbepalingen
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### Artikel 17b
+
+Het bestuursorgaan dat zorg draagt voor het beheer van het zuiveringtechnisch werk of het oppervlaktewaterlichaam waarop afvalwater vanuit een voorziening voor de inzameling en het transport van afvalwater wordt gebracht, is adviseur met betrekking tot een aanvraag om een vergunning die betrekking heeft op een activiteit als bedoeld in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&hoofdstuk=III&afdeling=2&artikel=15&z=2024-07-01&g=2024-07-01), voor zover die aanvraag betrekking heeft op het brengen van afvalwater of andere afvalstoffen in die voorziening.
+
+### Afdeling 5. Algemeen
+
+### Hoofdstuk IV. Radioactieve stoffen en toestellen
+
+### Afdeling 1. Radioactieve stoffen
+
+### Afdeling 2. Toestellen
+
+### Afdeling 3. Algemeen
+
+### Hoofdstuk Va. Metingen radioactiviteit en bedrijfsvoering
+
+### Hoofdstuk VI. Bepalingen met betrekking tot interventie bij ongevallen of langdurige blootstellingen alsmede de voorbereiding daarop
+
+### Afdeling 1. Inleidende bepalingen
+
+### Afdeling 2. Organisatie en coördinatie
+
+### Afdeling 4. Regels en maatregelen bij een ongeval met een categorie A- of een categorie B-object
+
+### Afdeling 5. Schadevergoeding
+
+### Hoofdstuk VII. Beroep
+
+### Hoofdstuk VIII. Ambtelijke bevoegdheden
+
+### Hoofdstuk IX. Algemene bepalingen
+
+### Hoofdstuk X. Handhaving
+
+### Hoofdstuk XI. Slotbepalingen
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
