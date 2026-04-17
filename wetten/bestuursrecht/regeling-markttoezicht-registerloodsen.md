@@ -1,20 +1,46 @@
 ---
-title: "Regeling markttoezicht registerloodsen"
+title: "Regeling van de minister van Verkeer en Waterstaat in verband met de invoering van markttoezicht op het aanbod van dienstverlening door registerloodsen en een herziening van de loodsgeldtariefstructuur (Regeling markttoezicht registerloodsen)"
 identifier: "BWBR0023167"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-07-06
-laatste_update: 2022-07-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023167"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-07-06"
+last_updated: "2022-07-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023167"
+soort: "ministeriele-regeling"
+stam_id: "9351103"
+version_id: "28277982"
+internal_id: "C39870631"
+label_id: "9329454"
+dtd_version: "2.0"
+original_entry_into_force: "2021-12-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023167/2022-07-06/0"
+intitule_bron: "Stcrt.2007-251"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-12-21"
+intitule_published: "2007-12-28"
+intitule_in_force: "2007-12-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-48805"
+original_signed_date: "2021-12-15"
+original_published_date: "2021-12-17"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2021-48805"
+entry_into_force_date: "2021-12-15"
+jci_1_3: "jci1.3:c:BWBR0023167&z=2022-07-06&g=2022-07-06"
+jci_1_0: "1.0:c:BWBR0023167&g=2022-07-06"
+citeertitel_status: "officieel"
+short_title: "Regeling markttoezicht registerloodsen"
+signed_date: "2021-12-15"
+entry_into_force: "2021-12-15"
 ---
-
 # Regeling van de minister van Verkeer en Waterstaat in verband met de invoering van markttoezicht op het aanbod van dienstverlening door registerloodsen en een herziening van de loodsgeldtariefstructuur (Regeling markttoezicht registerloodsen)
 
 Gelet op de [artikelen 27b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27b), [27c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27c), [27d, derde en vierde lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27d) en [27j, tweede lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27j), [artikel 14a, tweede lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=14a) en [artikel VII, tweede lid, van de Wet markttoezicht registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0023140&artikel=VII);
 
 Besluit:
 
-#### Artikel 1. Aanwijzing openbare lichamen
+##### Artikel 1. Aanwijzing openbare lichamen
 
 Voor de toepassing van [artikel 27b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27b), [27c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27c), en [27j, tweede lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27j) worden vertegenwoordigers van de volgende rechtspersonen, betrokken bij het bestuur van een of meer zeehavens aangewezen:
 
@@ -36,7 +62,7 @@ Voor de toepassing van [artikel 27b, vijfde lid](https://wetten.overheid.nl/jci1
 
 - i. North Sea Port Netherlands N.V.
 
-#### Artikel 2. Aanwijzing representatieve organisaties
+##### Artikel 2. Aanwijzing representatieve organisaties
 
 Voor de toepassing van [artikel 27b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27b), [27c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27c), en [27j, tweede lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27j), worden vertegenwoordigers van de volgende representatieve organisaties van ondernemers in het scheepvaart- en havenbedrijf aangewezen:
 
@@ -60,15 +86,15 @@ Voor de toepassing van [artikel 27b, vijfde lid](https://wetten.overheid.nl/jci1
 
 - j. Vereniging van Zeeuwse cargadoors (VZC).
 
-#### Artikel 3. Regionale overlegcommissies
+##### Artikel 3. Regionale overlegcommissies
 
 Vervallen
 
-#### Artikel 4. Correctiefactor
+##### Artikel 4. Correctiefactor
 
 De correctiefactor, bedoeld in [artikel 27d, derde lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27d), bedraagt voor schepen die een inkomende-, uitgaande-, rendez-vous- of verhaalreis maken waarbij loodsdiensten worden verricht in het zeehavengebied van Delfzijl-Eemshaven, Harlingen-Terschelling of Den Helder-Den Oever-Oudenschild, +30% van het voor de betreffende reis vastgestelde S-tarief.
 
-#### Artikel 5. Bestuursorganen belast met nautisch beheer
+##### Artikel 5. Bestuursorganen belast met nautisch beheer
 
 Voor de toepassing van[artikel 27j, tweede lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27j), worden vertegenwoordigers van de volgende bestuursorganen belast met het nautisch beheer van een of meer zeehavens aangewezen:
 
@@ -84,7 +110,7 @@ Voor de toepassing van[artikel 27j, tweede lid, van de Loodsenwet](https://wette
 
 - f. de Rijkshavenmeester Westerschelde.
 
-#### Artikel 6. Uurtarieven 2015
+##### Artikel 6. Uurtarieven 2015
 
 In verband met de toepassing van [artikel 68 van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=68) wordt de hoogte van de integrale uurtarieven voor het jaar 2015 met betrekking tot:
 
@@ -92,15 +118,15 @@ In verband met de toepassing van [artikel 68 van de Loodsenwet](https://wetten.o
 
 - b. de uitvoering van taken als bedoeld in [artikel 1, eerste lid, onderdeel k, onder 2o, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=1), vastgesteld op € 137,27.
 
-#### Artikel 7. Vergoeding afgifte verklaring van vrijstelling
+##### Artikel 7. Vergoeding afgifte verklaring van vrijstelling
 
 Voor de afgifte van een verklaring van vrijstelling, bedoeld in [artikel 2, eerste lid, van het Besluit verklaringhouders Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007513&artikel=2), is aan de regionale autoriteit die de verklaring afgeeft een vergoeding verschuldigd van € 35,–.
 
-#### Artikel 8. Grondslag
+##### Artikel 8. Grondslag
 
 Deze regeling berust mede op de [artikelen 27d, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27d), en [68, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=68).
 
-#### Artikel 9. Intrekken regelingen
+##### Artikel 9. Intrekken regelingen
 
 De volgende regelingen worden ingetrokken:
 
@@ -112,17 +138,17 @@ De volgende regelingen worden ingetrokken:
 
 - d. [Regeling loodsgeldtarieven](https://wetten.overheid.nl/jci1.3:c:BWBR0007555).
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2008.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling markttoezicht registerloodsen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a. Tariefgebieden en tariefkolommen
+##### Artikel 3a. Tariefgebieden en tariefkolommen
 
 1. Ter nadere bepaling van het T-tarief, bedoeld in [artikel 4.3 van het Besluit markttoezicht registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&artikel=4.3), worden de zeehavengebieden overeenkomstig bijlage 1 bij deze regeling ingedeeld in tariefgebieden.
 
@@ -284,7 +310,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 6a. Efficiencykortingspercentage loodsgeldtarieven
+##### Artikel 6a. Efficiencykortingspercentage loodsgeldtarieven
 
 Het percentage, bedoeld in [artikel 4.14, eerste lid, onderdeel c, en derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&artikel=4.14), is afhankelijk van de toename van het geraamde aantal te loodsen scheepsreizen en zijn:
 
@@ -294,7 +320,7 @@ Het percentage, bedoeld in [artikel 4.14, eerste lid, onderdeel c, en derde lid,
 | 1001 tot met 2000 | 2,0% |
 | 2001 en hoger | 2,5% |
 
-#### Artikel 6b. Scheepsklassen
+##### Artikel 6b. Scheepsklassen
 
 Voor de toepassing van [artikel 2.10, onderdelen a en c, van het Besluit markttoezicht registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&artikel=2.10) naar rato van scheepsklassen, wordt uitgegaan van de volgende negen scheepsklassen waarbij, uitgedrukt in meters, L staat voor lengte over alles, B staat voor maximale breedte en Tz staat voor maximale diepgang volgens zomerlastlijn:
 

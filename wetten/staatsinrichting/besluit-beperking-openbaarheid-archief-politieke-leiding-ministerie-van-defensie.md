@@ -1,13 +1,39 @@
 ---
-title: "Besluit beperking openbaarheid archief Politieke Leiding Ministerie van Defensie 1976–1991 (1992)"
+title: "Besluit van het Ministerie van Defensie houdende de beperking aan de openbaarheid van het archief van de Politieke Leiding van het Ministerie van Defensie 1976–1991 (1992), bij overbrenging naar een archiefbewaarplaats (Besluit beperking openbaarheid)"
 identifier: "BWBR0037765"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2016-03-31
-laatste_update: 2016-03-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037765"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-03-31"
+last_updated: "2016-03-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037765"
+soort: "ministeriele-regeling"
+stam_id: "13445903"
+version_id: "23080352"
+internal_id: "C33354141"
+label_id: "13413004"
+dtd_version: "2.0"
+original_entry_into_force: "2016-03-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037765/2016-03-31/0"
+intitule_bron: "Stcrt.2016-15629"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-03-04"
+intitule_published: "2016-03-30"
+intitule_in_force: "2016-03-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-15629"
+original_signed_date: "2016-03-04"
+original_published_date: "2016-03-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-15629"
+entry_into_force_date: "2016-03-31"
+jci_1_3: "jci1.3:c:BWBR0037765&z=2016-03-31&g=2016-03-31"
+jci_1_0: "1.0:c:BWBR0037765&g=2016-03-31"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid archief Politieke Leiding Ministerie van Defensie 1976–1991 (1992)"
+signed_date: "2016-03-04"
+entry_into_force: "2016-03-31"
 ---
-
 # Besluit van het Ministerie van Defensie houdende de beperking aan de openbaarheid van het archief van de Politieke Leiding van het Ministerie van Defensie 1976–1991 (1992), bij overbrenging naar een archiefbewaarplaats (Besluit beperking openbaarheid)
 
 Overwegende dat een aantal dossiers in het archief van de Politieke Leiding van het Ministerie van Defensie 1976 – 1991 (1992) beperkingen aan de openbaarheid behoeven:
@@ -18,7 +44,7 @@ Gehoord het advies van de algemene rijksarchivaris d.d. 19-02-2015, met kenmerk 
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de eerbiediging van de persoonlijke levenssfeer van nog levende personen zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom. De beperking vervalt indien ten overstaan van de beheerder van het Nationaal Archief, de algemene rijksarchivaris, is aangetoond dat de persoon (of personen) op wie het dossier betrekking heeft, is (zijn) overleden.
 
@@ -31,7 +57,7 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer van nog levende p
 | 287 | 2064 |
 | 387 | 2061 |
 
-#### Artikel 2
+##### Artikel 2
 
 Met het oog op het belang van de Staat en zijn bondgenoten zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
@@ -62,14 +88,14 @@ Met het oog op het belang van de Staat en zijn bondgenoten zijn de inventarisnum
 | 1077 | 2065 |
 | 1078 | 2066 |
 
-#### Artikel 3
+##### Artikel 3
 
 Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037765&artikel=1&z=2016-03-31&g=2016-03-31), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijk verkregen toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden. Behandeling van verzoeken tot inzage en het verlenen van inzage zelf geschieden volgens de daarvoor bij het Nationaal Archief geldende procedures.
 
-#### Artikel 4
+##### Artikel 4
 
 Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037765&artikel=1&z=2016-03-31&g=2016-03-31), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van de Politieke Leiding van het Ministerie van Defensie 1976–1991 (1992)’.

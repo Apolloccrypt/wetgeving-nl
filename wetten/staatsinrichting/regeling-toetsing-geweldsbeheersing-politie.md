@@ -1,20 +1,46 @@
 ---
-title: "Regeling toetsing geweldsbeheersing politie"
+title: "Regeling houdende vaststelling van bepalingen inzake toetsing van ambtenaren van politie en buitengewoon opsporingsambtenaren terzake van geweldsbeheersing, aanhoudings- en zelfverdedigingsvaardigheden en schietvaardigheid"
 identifier: "BWBR0013200"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2019-08-01
-laatste_update: 2019-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013200"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-08-01"
+last_updated: "2019-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013200"
+soort: "ministeriele-regeling"
+stam_id: "4087613"
+version_id: "20729022"
+internal_id: "C29776191"
+label_id: "4067504"
+dtd_version: "2.0"
+original_entry_into_force: "2013-08-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013200/2019-08-01/0"
+intitule_bron: "Stcrt.2001-247"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-12-17"
+intitule_published: "2001-12-20"
+intitule_in_force: "2001-12-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-25078"
+original_signed_date: "2013-08-14"
+original_published_date: "2013-09-10"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2013-25078"
+entry_into_force_date: "2013-08-14"
+jci_1_3: "jci1.3:c:BWBR0013200&z=2019-08-01&g=2019-08-01"
+jci_1_0: "1.0:c:BWBR0013200&g=2019-08-01"
+citeertitel_status: "officieel"
+short_title: "Regeling toetsing geweldsbeheersing politie"
+signed_date: "2013-08-14"
+entry_into_force: "2013-08-14"
 ---
-
 # Regeling houdende vaststelling van bepalingen inzake toetsing van ambtenaren van politie en buitengewoon opsporingsambtenaren terzake van geweldsbeheersing, aanhoudings- en zelfverdedigingsvaardigheden en schietvaardigheid
 
 Gelet op artikel 3a van de Wet wapens en munitie en [artikel 48a van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=48a);
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -34,7 +60,7 @@ Besluiten:
 
 - h. bevoegd gezag: bevoegd gezag, als bedoeld in [artikel 1, eerste lid, onderdeel l, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een ambtenaar is steeds voor de duur van een kalenderjaar geoefend in het gebruik van een geweldsmiddel als bedoeld in [artikel 4, onderdeel b, van de Ambtsinstructie voor de politie, de Koninklijke marechaussee en de buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&artikel=4), indien hij in het daaraan voorafgaande kalenderjaar met voldoende resultaat heeft afgelegd:
 
@@ -56,17 +82,17 @@ Besluiten:
 
 8. Met ingang van 1 januari 2014 zal de in het zevende lid bedoelde directe inname zich tevens uitstrekken tot de geweldsmiddelen genoemd in het zesde lid.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het bevoegd gezag biedt de ambtenaar ten minste 32 uren de gelegenheid tot het deelnemen aan de toetsing en de training ter voorbereiding daarop. Tevens ziet het bevoegd gezag er op toe dat de ambtenaar zich voorbereidt en het trainingsaanbod opvolgt. De ambtenaar bereidt zich voor op de af te leggen toetsen en volgt daarvoor het trainingsaanbod op.
 
 2. De toets geweldsbeheersing, de toets aanhoudings- en zelfverdedigingsvaardigheden en de toets schietvaardigheid worden afgenomen door een door het bevoegd gezag daartoe aangewezen toetser.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien een ambtenaar een van de omschreven toetsen niet of niet met voldoende resultaat heeft afgelegd, doet de toetser hiervan onverwijld mededeling aan het bevoegd gezag.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het bevoegd gezag draagt zorg voor registratie van de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2019-08-01&g=2019-08-01) bedoelde toetsen.
 
@@ -74,11 +100,11 @@ Indien een ambtenaar een van de omschreven toetsen niet of niet met voldoende re
 
 3. De korpschef verstrekt jaarlijks in het in [artikel 36 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=36) bedoelde beleidsplan een overzicht betreffende de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2019-08-01&g=2019-08-01) bedoelde toetsen alsmede het gevoerde beleid hieromtrent.
 
-#### Artikel 6
+##### Artikel 6
 
 De Regeling training en toetsing vuurwapengebruik politie wordt ingetrokken.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2002. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 31 december 2001, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 2002.
 
@@ -86,19 +112,19 @@ De Regeling training en toetsing vuurwapengebruik politie wordt ingetrokken.
 
 3. De [artikelen 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=2&z=2019-08-01&g=2019-08-01), en [3, eerste lid, tweede volzin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013200&artikel=3&z=2019-08-01&g=2019-08-01), vervallen met ingang van 1 januari 2004.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling toetsing geweldsbeheersing politie.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 7a
+##### Artikel 7a
 
 Deze regeling vervalt op 1 januari 2021.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 7b
+##### Artikel 7b
 
 Deze regeling berust op [artikel 26, eerste en tweede lid, van het Besluit bewapening en uitrusting politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=26).
 

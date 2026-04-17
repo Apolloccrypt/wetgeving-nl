@@ -1,13 +1,38 @@
 ---
 title: "Vaststelling subsidietijdvakken en subsidieplafonds regelingen Stimuleringsfonds Creatieve Industrie 2026"
 identifier: "BWBR0052391"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-03-04
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052391"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-03-04"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052391"
+soort: "zbo"
+stam_id: "17793273"
+version_id: "31458522"
+internal_id: "C44929771"
+label_id: "17691084"
+dtd_version: "2.0"
+original_entry_into_force: "2026-03-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052391/2026-03-04/0"
+intitule_bron: "Stcrt.2026-8438"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-17"
+intitule_published: "2026-03-04"
+intitule_in_force: "2026-03-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-8438"
+original_signed_date: "2025-12-17"
+original_published_date: "2026-03-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-8438"
+entry_into_force_date: "2026-03-04"
+jci_1_3: "jci1.3:c:BWBR0052391&z=2026-03-04&g=2026-03-04"
+jci_1_0: "1.0:c:BWBR0052391&g=2026-03-04"
+citeertitel_status: "redactioneel"
+signed_date: "2025-12-17"
+entry_into_force: "2026-03-04"
 ---
-
 # Vaststelling subsidietijdvakken en subsidieplafonds regelingen Stimuleringsfonds Creatieve Industrie 2026
 
 Gelet op de [Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904) en gelet op de bepalingen met betrekking tot de subsidietijdvakken en subsidieplafonds in de onderstaande subsidieregelingen,
@@ -16,7 +41,7 @@ Besluit:
 
 De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
-#### Artikel I. [Regeling Vormgeving 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0050547)
+##### Artikel I. [Regeling Vormgeving 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0050547)
 
 1. De Subsidietijdvakken voor de [Regeling Vormgeving 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0050547) in het kalenderjaar 2026 zijn:
 
@@ -34,7 +59,7 @@ De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 6. Per subsidietijdvak worden maximaal 70 aanvragen behandeld in fase II, waarvan maximaal 15 herziene aanvragen en 15 vervolgaanvragen.
 
-#### Artikel II. [Regeling Architectuur 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0050552)
+##### Artikel II. [Regeling Architectuur 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0050552)
 
 1. De subsidietijdvakken voor de [Regeling Architectuur 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0050552) in het kalenderjaar 2026 zijn:
 
@@ -52,7 +77,7 @@ De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 5. Per subsidietijdvak worden maximaal 50 aanvragen behandeld in fase II, waarvan maximaal 10 herziene aanvragen en 10 vervolgaanvragen.
 
-#### Artikel III. [Regeling Digitale cultuur 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0050559)
+##### Artikel III. [Regeling Digitale cultuur 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0050559)
 
 1. De subsidietijdvakken voor de [Regeling Digitale cultuur 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0050559) in het kalenderjaar 2026 zijn:
 
@@ -68,7 +93,7 @@ De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 5. Per subsidietijdvak worden maximaal 70 aanvragen behandeld in fase II, waarvan maximaal 15 herziene aanvragen en 15 vervolgaanvragen.
 
-#### Artikel IV. [Regeling Internationalisering Ontwerpsector](https://wetten.overheid.nl/jci1.3:c:BWBR0050925)
+##### Artikel IV. [Regeling Internationalisering Ontwerpsector](https://wetten.overheid.nl/jci1.3:c:BWBR0050925)
 
 1. De subsidietijdvakken voor de [Regeling Internationalisering Ontwerpsector](https://wetten.overheid.nl/jci1.3:c:BWBR0050925) in het kalenderjaar 2026 zijn:
 
@@ -84,7 +109,7 @@ De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 5. Per subsidietijdvak worden maximaal 40 aanvragen behandeld, waarvan maximaal 10 herziene aanvragen en 10 vervolgaanvragen.
 
-#### Artikel V. [Regeling activiteitenprogramma’s creatieve industrie](https://wetten.overheid.nl/jci1.3:c:BWBR0049941)
+##### Artikel V. [Regeling activiteitenprogramma’s creatieve industrie](https://wetten.overheid.nl/jci1.3:c:BWBR0049941)
 
 1. Het subsidietijdvak voor de [Regeling activiteitenprogramma’s creatieve industrie](https://wetten.overheid.nl/jci1.3:c:BWBR0049941) in het kalenderjaar 2026 is 13 mei 2026 tot en met 15 juni 2026.
 
@@ -92,13 +117,13 @@ De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 3. Het subsidieplafond bedraagt € 1.850.000.
 
-#### Artikel VI. [Regeling Festivals creatieve industrie 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0051347)
+##### Artikel VI. [Regeling Festivals creatieve industrie 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0051347)
 
 1. Het subsidietijdvak voor de [Regeling Festivals creatieve industrie 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0051347) in het kalenderjaar 2026 is 25 augustus 2026 tot en met 23 september 2026.
 
 2. Een subsidietijdvak opent op de openingsdatum om 15.00 CE(S)T en sluit om 16.00 CE(S)T op de sluitingsdatum.
 
-#### Artikel VII. [Startregeling Architectuur](https://wetten.overheid.nl/jci1.3:c:BWBR0052224)
+##### Artikel VII. [Startregeling Architectuur](https://wetten.overheid.nl/jci1.3:c:BWBR0052224)
 
 1. De subsidietijdvakken voor de [Startregeling Architectuur](https://wetten.overheid.nl/jci1.3:c:BWBR0052224) in het kalenderjaar 2026 zijn:
 
@@ -116,7 +141,7 @@ De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 5. Per subsidietijdvak worden maximaal 35 aanvragen behandeld, waarvan maximaal 10 herziene aanvragen.
 
-#### Artikel VIII. [Regeling Immerse\Interact](https://wetten.overheid.nl/jci1.3:c:BWBR0049469)
+##### Artikel VIII. [Regeling Immerse\Interact](https://wetten.overheid.nl/jci1.3:c:BWBR0049469)
 
 1. De subsidietijdvakken voor de [Regeling Immerse\Interact](https://wetten.overheid.nl/jci1.3:c:BWBR0049469) in het kalenderjaar 2026 zijn:
 
@@ -132,7 +157,7 @@ De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 5. Een onderbesteding in het eerste subsidietijdvak wordt toegevoegd aan het tweede subsidietijdvak.
 
-#### Artikel XIV. [Regeling Artistic & Design Research for Immersive Experiences 2025–2029](https://wetten.overheid.nl/jci1.3:c:BWBR0050932)
+##### Artikel XIV. [Regeling Artistic & Design Research for Immersive Experiences 2025–2029](https://wetten.overheid.nl/jci1.3:c:BWBR0050932)
 
 1. De subsidietijdvakken voor de [Regeling Artistic & Design Research for Immersive Experiences 2025–2029](https://wetten.overheid.nl/jci1.3:c:BWBR0050932) in het kalenderjaar 2026 zijn:
 
@@ -146,6 +171,6 @@ De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 4. Het subsidieplafond voor Ronde 2B bedraagt: € 6.500.000.
 
-#### Artikel XV. Inwerkingtreding
+##### Artikel XV. Inwerkingtreding
 
 Dit besluit wordt in de Staatscourant geplaatst en treedt in werking per 1 januari 2026.

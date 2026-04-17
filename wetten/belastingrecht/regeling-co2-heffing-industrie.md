@@ -1,13 +1,39 @@
 ---
-title: "Regeling CO2-heffing industrie"
+title: "Regeling van de Minister van Economische Zaken en Klimaat van 15 december 2020, nr. WJZ/ 20169624, tot uitvoering van de CO2-heffing industrie"
 identifier: "BWBR0044637"
-categorie: "Belastingrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044637"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044637"
+soort: "ministeriele-regeling"
+stam_id: "15791643"
+version_id: "27379062"
+internal_id: "C38663281"
+label_id: "15729824"
+dtd_version: "2.0"
+original_entry_into_force: "2021-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044637/2026-01-01/0"
+intitule_bron: "Stcrt.2020-68060"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-12-15"
+intitule_published: "2020-12-24"
+intitule_in_force: "2020-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-68060"
+original_signed_date: "2020-12-15"
+original_published_date: "2020-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-68060"
+entry_into_force_date: "2021-01-01"
+jci_1_3: "jci1.3:c:BWBR0044637&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0044637&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling CO2-heffing industrie"
+signed_date: "2020-12-15"
+entry_into_force: "2021-01-01"
 ---
-
 # Regeling van de Minister van Economische Zaken en Klimaat van 15 december 2020, nr. WJZ/ 20169624, tot uitvoering van de CO2-heffing industrie
 
 Handelende in overeenstemming met de Staatssecretaris van Financiën;
@@ -18,7 +44,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -40,11 +66,11 @@ In deze regeling wordt verstaan onder:
 
 - i. **wet:** [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245).
 
-#### Artikel 2. Toepassingsbereik
+##### Artikel 2. Toepassingsbereik
 
 Deze regeling heeft het toepassingsbereik van [artikel 16b.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16b.2).
 
-#### Artikel 3. Relatie Verordening monitoring en rapportage emissiehandel
+##### Artikel 3. Relatie Verordening monitoring en rapportage emissiehandel
 
 Voor zover in deze regeling artikelen uit de Verordening monitoring en rapportage emissiehandel van overeenkomstige toepassing zijn verklaard, geldt het volgende:
 
@@ -60,7 +86,7 @@ Voor zover in deze regeling artikelen uit de Verordening monitoring en rapportag
 
 - f. de artikelen zijn niet van overeenkomstige toepassing voor zover strijdigheid ontstaat met hetgeen voor de CO2-heffing industrie is geregeld bij en krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) en de [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168).
 
-#### Artikel 4. Relatie bijlagen Verordening monitoring en rapportage emissiehandel
+##### Artikel 4. Relatie bijlagen Verordening monitoring en rapportage emissiehandel
 
 Voor zover in deze regeling artikelen uit de Verordening monitoring en rapportage emissiehandel van overeenkomstige toepassing zijn verklaard die verwijzen naar een bijlage bij die Verordening is die bijlage van overeenkomstige toepassing, met dien verstande dat voor lachgasinstallaties in ieder geval het volgende geldt:
 
@@ -74,7 +100,7 @@ Voor zover in deze regeling artikelen uit de Verordening monitoring en rapportag
 
 - e. bijlage VIII is van toepassing indien de daarin vermelde meetmethode wordt toegepast.
 
-#### Artikel 5. Definities Verordening monitoring en rapportage emissiehandel
+##### Artikel 5. Definities Verordening monitoring en rapportage emissiehandel
 
 Artikel 3 van de Verordening monitoring en rapportage emissiehandel is van overeenkomstige toepassing, met dien verstande dat in deze regeling wordt verstaan onder:
 
@@ -84,7 +110,7 @@ Artikel 3 van de Verordening monitoring en rapportage emissiehandel is van overe
 
 ### Hoofdstuk 2. Monitoring en verslaglegging emissies industriële installatie
 
-#### Artikel 6. Begripsbepalingen
+##### Artikel 6. Begripsbepalingen
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -94,7 +120,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 ### Afdeling 2.1. Monitoring emissies industriële installatie
 
-#### Artikel 7. Industrieel monitoringsplan
+##### Artikel 7. Industrieel monitoringsplan
 
 1. De monitoring op basis van een industrieel monitoringsplan is in ieder geval noodzakelijk:
 
@@ -106,7 +132,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 2. Het opstellen en indienen van een industrieel monitoringsplan is voor een exploitant van een startende broeikasgasinstallatie niet noodzakelijk.
 
-#### Artikel 8. Inhoud industrieel monitoringsplan voor lachgasinstallaties
+##### Artikel 8. Inhoud industrieel monitoringsplan voor lachgasinstallaties
 
 De artikelen 5, 6, 7, 8 en 69 en de hoofdstukken II, III, V en VII van de Verordening monitoring en rapportage emissiehandel zijn van overeenkomstige toepassing op de monitoring van lachgasinstallaties met dien verstande dat:
 
@@ -116,7 +142,7 @@ De artikelen 5, 6, 7, 8 en 69 en de hoofdstukken II, III, V en VII van de Verord
 
 - c. de rekenmethode, bedoeld in hoofdstuk III, deel 2, van die verordening niet van overeenkomstige toepassing is op lachgasinstallaties.
 
-#### Artikel 9. Inhoud industrieel monitoringsplan voor broeikasgasinstallatie zonder aanvraag gratis toewijzing EU-ETS
+##### Artikel 9. Inhoud industrieel monitoringsplan voor broeikasgasinstallatie zonder aanvraag gratis toewijzing EU-ETS
 
 1. Dit artikel is van toepassing op broeikasgasinstallaties zonder een aanvraag om kosteloze toewijzing van broeikasgasemissierechten, met uitzondering van broeikasgasinstallaties voor de verbranding van stedelijk afval, indien een industrieel monitoringsplan noodzakelijk is doordat de exploitant van de broeikasgasinstallatie geen aanvraag voor kosteloze toewijzing heeft ingediend, als bedoeld in artikel 4 van de Verordening kosteloze toewijzing van emissierechten, dan wel na aanvraag heeft afgezien van kosteloze toewijzing.
 
@@ -134,13 +160,13 @@ De artikelen 5, 6, 7, 8 en 69 en de hoofdstukken II, III, V en VII van de Verord
 
 - d. in aanvulling op bijlage IV van die verordening: de gewogen gemiddelde emissiefactor voor brandstoffen ingezet voor de opwekking van elektriciteit, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044637&hoofdstuk=2&afdeling=2.2&artikel=14&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 10. Standaardformulier industrieel monitoringsplan
+##### Artikel 10. Standaardformulier industrieel monitoringsplan
 
 1. Het industrieel monitoringsplan wordt opgesteld met gebruikmaking van een door het bestuur van de emissieautoriteit beschikbaar gesteld standaardformulier.
 
 2. Het bestuur van de emissieautoriteit bepaalt de wijze waarop de aanvraag om een goedkeuring van een industrieel monitoringsplan moet geschieden, de gegevens en de bescheiden die door de aanvrager moeten worden verstrekt met het oog op de beslissing op de aanvraag, en de wijze waarop die gegevens moeten worden verkregen.
 
-#### Artikel 11. Wijzigingen industrieel monitoringsplan
+##### Artikel 11. Wijzigingen industrieel monitoringsplan
 
 1. Onder significante wijzigingen als bedoeld in artikel 15, derde lid, van de Verordening monitoring en rapportage emissiehandel worden tevens verstaan veranderingen van de wijze waarop activiteitsgegevens en berekeningsfactoren worden bepaald.
 
@@ -152,7 +178,7 @@ De artikelen 5, 6, 7, 8 en 69 en de hoofdstukken II, III, V en VII van de Verord
 
 ### Afdeling 2.2. Bepaling en registratie industriële jaarvracht
 
-#### Artikel 12. Berekening industriële jaarvracht broeikasgasinstallaties
+##### Artikel 12. Berekening industriële jaarvracht broeikasgasinstallaties
 
 De industriële jaarvracht voor broeikasgasinstallaties wordt berekend volgens de formule:
 
@@ -174,7 +200,7 @@ Waarbij:
 
 **EMstadsverwarming** en **EMelektriciteit** voor broeikasgasinstallaties voor de verbranding van stedelijk afval gelijk aan nul zijn.
 
-#### Artikel 13. Opwekking van elektriciteit met warmtekrachtkoppelingen
+##### Artikel 13. Opwekking van elektriciteit met warmtekrachtkoppelingen
 
 De bepaling van de industriële jaarvracht bij warmtekrachtkoppelingen in broeikasgasinstallaties gebeurt met in achtneming van het volgende:
 
@@ -182,17 +208,17 @@ De bepaling van de industriële jaarvracht bij warmtekrachtkoppelingen in broeik
 
 - b. de hoeveelheid brandstof in TJ die wordt ingezet voor elektriciteitsopwekking in een warmtekrachtkoppeling per jaar, als vermeld in het verslag over het activiteitsniveau en het industrieel emissieverslag, is gelijk aan de totale hoeveelheid brandstoffen die wordt verbruikt in de warmtekrachtkoppeling, vermenigvuldigd met de toekenningsfactor FCHP,Elvergelijking 12, bedoeld in bijlage VII, onderdeel 8, van die verordening.
 
-#### Artikel 14. Restgassen
+##### Artikel 14. Restgassen
 
 Bij de inzet van restgassen voor de opwekking van elektriciteit wordt voor de bepaling van de gewogen gemiddelde emissiefactor voor brandstoffen die zijn ingezet voor de opwekking van elektriciteit de emissiefactor van de restgassen als volgt bepaald: 56,1 wordt vermenigvuldigd met de factor die het rendementsverschil tussen het verbruik van restgassen en het verbruik van de referentiebrandstof aardgas tot uitdrukking brengt. De standaardwaarde van deze factor is gelijk aan 0,667.
 
-#### Artikel 15. Berekening industriële jaarvracht lachgasinstallaties
+##### Artikel 15. Berekening industriële jaarvracht lachgasinstallaties
 
 De industriële jaarvracht voor lachgasinstallaties is gelijk aan de totale jaarvracht in tCO2(e) per jaar van de industriële installatie als vermeld in het industrieel emissieverslag overeenkomstig artikel 68, eerste lid, van de Verordening monitoring en rapportage emissiehandel. **EMstadsverwarming** en EMelektriciteit zijn gelijk aan nul.
 
 ### Afdeling 2.3. Historisch industrieel emissieverslag en industrieel emissieverslag
 
-#### Artikel 16. Historische emissies afvalverbrandingsinstallaties, broeikasgasinstallaties voor de verbranding van stedelijk afval en lachgasinstallaties
+##### Artikel 16. Historische emissies afvalverbrandingsinstallaties, broeikasgasinstallaties voor de verbranding van stedelijk afval en lachgasinstallaties
 
 1. De exploitant van een afvalverbrandingsinstallatie en een lachgasinstallatie dient uiterlijk op 1 september 2021 een historisch industrieel emissieverslag in dat de jaarvracht over de jaren 2014 tot en met 2020 bevat.
 
@@ -206,7 +232,7 @@ De industriële jaarvracht voor lachgasinstallaties is gelijk aan de totale jaar
 
 6. Het historisch industrieel emissieverslag en het historisch activiteitenniveau van een exploitant van een afvalverbrandingsinstallatie zijn tevens met ingang van 1 januari 2024 het historisch industrieel emissieverslag en het historisch activiteitenniveau van een exploitant van een broeikasgasinstallatie voor de verbranding van stedelijk afval.
 
-#### Artikel 17. Verificatie industrieel emissieverslag
+##### Artikel 17. Verificatie industrieel emissieverslag
 
 1. Het industrieel emissieverslag voor installaties die op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044637&hoofdstuk=2&afdeling=2.1&artikel=7&z=2026-01-01&g=2026-01-01) een industrieel monitoringsplan hebben opgesteld gaat vergezeld van een verificatierapport van een verificateur, waarin de resultaten worden weergegeven van een door hem uitgevoerde beoordeling waarin wordt vastgesteld of het industrieel emissieverslag voldoet aan de in deze regeling gestelde eisen. Het industrieel emissieverslag voor broeikasgasinstallaties voor de verbranding van stedelijk afval gaat alleen over de verslagperiode 2023 vergezeld van een verificatierapport van een verificateur.
 
@@ -228,7 +254,7 @@ De industriële jaarvracht voor lachgasinstallaties is gelijk aan de totale jaar
 
 6. Een exploitant van een stoppende broeikasgasinstallatie levert na afloop van het kalenderjaar waarin de vergunning, bedoeld in [artikel 16.5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.5), is ingetrokken een industrieel emissieverslag in dat vergezeld gaat van een verificatierapport van een verificateur, waarin de resultaten worden weergegeven van een door hem uitgevoerde beoordeling waarin wordt vastgesteld of het industrieel emissieverslag voldoet aan de in deze regeling gestelde eisen.
 
-#### Artikel 18. Standaardformulier industrieel emissieverslag
+##### Artikel 18. Standaardformulier industrieel emissieverslag
 
 1. Het industrieel emissieverslag wordt opgesteld met gebruikmaking van een door het bestuur van de emissieautoriteit beschikbaar gesteld standaardformulier.
 
@@ -244,7 +270,7 @@ De industriële jaarvracht voor lachgasinstallaties is gelijk aan de totale jaar
 
 ### Afdeling 3.1. Het register dispensatierechten industrie
 
-#### Artikel 19. Algemeen
+##### Artikel 19. Algemeen
 
 1. Het register is toegankelijk via het internet.
 
@@ -258,7 +284,7 @@ De industriële jaarvracht voor lachgasinstallaties is gelijk aan de totale jaar
 
 6. Het bestuur van de emissieautoriteit kan nadere regels stellen over de werking van het register.
 
-#### Artikel 20. Toegang tot het register
+##### Artikel 20. Toegang tot het register
 
 1. De exploitant van een industriële installatie die reeds gebruik maakt van het EU-register voor de handel in emissierechten, bedoeld in [artikel 16.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.1), krijgt direct toegang tot het register dispensatierechten industrie, tenzij het inlogmiddel, bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044637&hoofdstuk=3&afdeling=3.1&artikel=19&z=2026-01-01&g=2026-01-01), aanvullende eisen aan de toegang stelt.
 
@@ -274,7 +300,7 @@ De industriële jaarvracht voor lachgasinstallaties is gelijk aan de totale jaar
 
 5. Het bestuur van de emissieautoriteit kan om een verklaring omtrent het gedrag en om waarmerking van de kleurenkopie van het legitimatiebewijs, bedoeld in het tweede lid, onderdeel b, verzoeken.
 
-#### Artikel 21. Wijziging gegevens
+##### Artikel 21. Wijziging gegevens
 
 1. De rekeninghouder stelt het bestuur van de emissieautoriteit binnen 20 werkdagen in kennis van wijzigingen in de gegevens die met het oog op de opening van een rekening zijn verstrekt, tenzij de melding van de wijziging verloopt via het inlogmiddel, bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044637&hoofdstuk=3&afdeling=3.1&artikel=19&z=2026-01-01&g=2026-01-01).
 
@@ -284,7 +310,7 @@ De industriële jaarvracht voor lachgasinstallaties is gelijk aan de totale jaar
 
 4. De verplichting, bedoeld in het eerste lid, is niet van toepassing indien de wijziging van gegevens reeds op grond van [artikel 16.19, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.19) is doorgegeven aan het bestuur van de emissieautoriteit.
 
-#### Artikel 22. Melding toegang onbevoegd persoon
+##### Artikel 22. Melding toegang onbevoegd persoon
 
 1. De emissieautoriteit kan de rekening blokkeren op het moment dat er verdenking bestaat van onbevoegd toegang of andere verdachte activiteiten in het register.
 
@@ -296,15 +322,15 @@ De industriële jaarvracht voor lachgasinstallaties is gelijk aan de totale jaar
 
 ### Afdeling 3.2. Bepaling activiteitsniveau
 
-#### Artikel 23. Definities Verordening kosteloze toewijzing van emissierechten
+##### Artikel 23. Definities Verordening kosteloze toewijzing van emissierechten
 
 Artikel 2 van de Verordening kosteloze toewijzing van emissierechten is voor de toepassing van deze afdeling en [afdeling 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044637&hoofdstuk=3&afdeling=3.3&z=2026-01-01&g=2026-01-01). van overeenkomstige toepassing.
 
-#### Artikel 24. Productgerelateerd activiteitsniveau
+##### Artikel 24. Productgerelateerd activiteitsniveau
 
 Het actueel productgerelateerd activiteitsniveau is gelijk aan de jaarlijkse productie van het corresponderende product in de betrokken subinstallatie in dat jaar als bedoeld in bijlage IV, onderdeel 2.7, onder a), van de Verordening kosteloze toewijzing van emissierechten, zoals gerapporteerd in het verslag over het activiteitsniveau in sectie F onder I 1(a) tot en met F onder I 10(a).
 
-#### Artikel 25. Warmtegerelateerd activiteitsniveau
+##### Artikel 25. Warmtegerelateerd activiteitsniveau
 
 1. Het actueel warmtegerelateerd activiteitsniveau is tot en met verslagperiode 2024 gelijk aan de optelling van (a) met (b) en vanaf verslagperiode 2025 alleen gelijk aan (a), waarbij:
 
@@ -318,25 +344,25 @@ Het actueel productgerelateerd activiteitsniveau is gelijk aan de jaarlijkse pro
 
 - (b). staat voor: het rekenkundig gemiddelde van de netto hoeveelheid meetbare warmte opgewekt uit elektriciteit in de referentieperiode en die binnen de grenzen van de installatie verbruikt werd voor de vervaardiging van producten, voor de productie van andere dan voor elektriciteitsopwekking gebruikte mechanische energie of voor andere dan voor elektriciteitsopwekking gebruikte verwarming of koeling, of die werd uitgevoerd naar een niet onder het EU-ETS vallende installatie als bedoeld in bijlage IV, onderdeel 2.3, onder j), van de Verordening kosteloze toewijzing van emissierechten, gerapporteerd in het verslag met referentiegegevens en in de nieuwkomersaanvraag in sectie E onder II 2(d).
 
-#### Artikel 26. Brandstofgerelateerd activiteitsniveau
+##### Artikel 26. Brandstofgerelateerd activiteitsniveau
 
 1. Het actueel brandstofgerelateerd activiteitsniveau is tot en met verslagperiode 2024 gelijk aan het jaarlijkse bij elkaar opgetelde gebruik van brandstof toegekend aan de brandstofbenchmark-subinstallaties in dat jaar, uitgedrukt in TJ per jaar, en is vanaf verslagperiode 2025 gelijk aan het jaarlijkse bij elkaar opgetelde gebruik van brandstoffen, elektriciteit en materialen, zoals exotherme warmte afkomstig van chemische reacties, toegekend aan de brandstofbenchmark-subinstallaties in dat jaar, uitgedrukt in TJ per jaar als bedoeld in bijlage IV, onderdeel 2.4, onder a, derde gedachtestreepje, van de Verordening kosteloze toewijzing van emissierechten, zoals gerapporteerd in het verslag over het activiteitsniveau in sectie E onder I 1(c).
 
 2. Het historisch brandstofgerelateerd activiteitsniveau is tot en met verslagperiode 2024 gelijk aan het rekenkundig gemiddelde van het gebruik van brandstof toegekend aan de brandstofbenchmark-subinstallaties in de referentieperiode, uitgedrukt in TJ per jaar, en is vanaf verslagperiode 2025 gelijk aan de mediaan van het gebruik van brandstoffen, elektriciteit en materialen, zoals exotherme warmte afkomstig van chemische reacties, toegekend aan de brandstofbenchmark-subinstallaties in de referentieperiode, uitgedrukt in TJ per jaar als bedoeld in bijlage IV, onderdeel 2.4, onder a), derde gedachtestreepje, van de Verordening kosteloze toewijzing van emissierechten, zoals gerapporteerd in het verslag met referentiegegevens en in de nieuwkomersaanvraag in sectie E onder I 1(c).
 
-#### Artikel 27. Procesemissiegerelateerd activiteitsniveau
+##### Artikel 27. Procesemissiegerelateerd activiteitsniveau
 
 1. Het actueel procesemissiegerelateerd activiteitsniveau is gelijk aan de emissies toegekend aan de procesemissie-subinstallaties in dat jaar uitgedrukt in ton CO2(e) per jaar als bedoeld in bijlage IV, onderdeel 2.2, van de Verordening kosteloze toewijzing van emissierechten, zoals gerapporteerd in het verslag over het activiteitsniveau in sectie G onder 6(a) en 7(a).
 
 2. Het historisch procesemissiegerelateerd activiteitsniveau is tot en met verslagperiode 2024 gelijk aan het rekenkundig gemiddelde van de emissies toegekend aan de procesemissie-subinstallaties in de referentieperiode, uitgedrukt in ton CO2(e) per jaar, en is vanaf verslagperiode 2025 gelijk aan de mediaan van de emissies toegekend aan de procesemissie-subinstallaties in de referentieperiode, uitgedrukt in ton CO2(e) per jaar als bedoeld in bijlage IV, onderdeel 2.2, van de Verordening kosteloze toewijzing van emissierechten, zoals gerapporteerd in het verslag met referentiegegevens en in de nieuwkomersaanvraag in sectie G onder 6(a) en 7(a).
 
-#### Artikel 28. Activiteitsniveau broeikasgasinstallaties voor de verbranding van stedelijk afval
+##### Artikel 28. Activiteitsniveau broeikasgasinstallaties voor de verbranding van stedelijk afval
 
 1. Het actueel activiteitsniveau voor broeikasgasinstallaties voor de verbranding van stedelijk afval is gelijk aan de industriële jaarvracht uitgedrukt in ton CO2 in dat jaar, zoals gerapporteerd in het industrieel emissieverslag.
 
 2. Het historische activiteitsniveau voor broeikasgasinstallaties voor de verbranding van stedelijk afval is tot en met verslagperiode 2024 gelijk aan het rekenkundig gemiddelde van de jaarlijkse industriële jaarvrachten, uitgedrukt in ton CO2 in de referentieperiode, en vanaf verslagperiode 2025 gelijk aan de mediaan van de jaarlijkse industriële jaarvrachten, uitgedrukt in ton CO2 in de referentieperiode, zoals gerapporteerd in het historisch industrieel emissieverslag dan wel het industrieel emissieverslag. [Artikel 16, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044637&hoofdstuk=2&afdeling=2.3&artikel=16&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing op het historisch industrieel emissieverslag en het historische activiteitsniveau.
 
-#### Artikel 29. Activiteitsniveau lachgasinstallaties
+##### Artikel 29. Activiteitsniveau lachgasinstallaties
 
 1. Het actueel activiteitsniveau voor lachgasinstallaties is gelijk aan de industriële jaarvracht uitgedrukt in ton CO2(e) in dat jaar, zoals gerapporteerd in het industrieel emissieverslag.
 
@@ -354,7 +380,7 @@ Het actueel productgerelateerd activiteitsniveau is gelijk aan de jaarlijkse pro
 
 #### § 3.3.1. Berekening op basis van benchmarks
 
-#### Artikel 30. Productbenchmark-subinstallaties
+##### Artikel 30. Productbenchmark-subinstallaties
 
 Het aantal dispensatierechten bij productbenchmark-subinstallaties wordt berekend volgens de formule: **DRS,K=BMNL,P x AANP,S,K x NRFK**
 
@@ -368,7 +394,7 @@ Waarbij:
 
 **NRFK staat voor: nationale reductiefactor, bedoeld in artikel 16b.17, derde lid, van de wet, in jaar k**
 
-#### Artikel 31. Productbenchmark-subinstallaties met uitwisselbaarheid van elektriciteit en brandstof
+##### Artikel 31. Productbenchmark-subinstallaties met uitwisselbaarheid van elektriciteit en brandstof
 
 Het aantal dispensatierechten bij productbenchmark-subinstallaties voor productbenchmarks die zijn opgenomen in bijlage I, onderdeel 2, van de Verordening kosteloze toewijzing van emissierechten waarvoor de uitwisselbaarheid van elektriciteit en brandstof in aanmerking wordt genomen, wordt berekend volgens de formule: **DRS,K=CFS,14–18 x BMNL,P x AANP,S,K x NRFK**
 
@@ -384,7 +410,7 @@ Waarbij:
 
 **CFS,14–18 staat voor: correctiefactor voor productbenchmarks met uitwisselbaarheid van elektriciteit en brandstof voor subinstallatie s voor de periode 2014–2018 zoals opgenomen in het verslag met referentiegegevens**
 
-#### Artikel 32. Uitzondering toepassing productbenchmark stoomkraken en vinylchloride
+##### Artikel 32. Uitzondering toepassing productbenchmark stoomkraken en vinylchloride
 
 1. In afwijking van de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0044637&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.1&artikel=30&z=2026-01-01&g=2026-01-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0044637&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.1&artikel=31&z=2026-01-01&g=2026-01-01) wordt het aantal dispensatierechten bij productbenchmark-subinstallaties met betrekking tot de productie van hoogwaardige chemicaliën (HVC) en monomeer vinylchloride berekend overeenkomstig de artikelen 19 respectievelijk 20 van de Verordening kosteloze toewijzing van emissierechten, met dien verstande dat telkens:
 
@@ -410,7 +436,7 @@ Waarbij:
 
 #### § 3.3.2. Terugvalbenchmarks en procesemissie-subinstallaties
 
-#### Artikel 33. Warmtebenchmark-subinstallaties
+##### Artikel 33. Warmtebenchmark-subinstallaties
 
 Het aantal dispensatierechten bij warmtebenchmark-subinstallaties wordt berekend volgens de formule: **DRS,K=BMNL,H x HANH,S x NRFK**
 
@@ -424,7 +450,7 @@ Waarbij:
 
 **NRFK staat voor: nationale reductiefactor, bedoeld in artikel 16b.17, derde lid, van de wet, in jaar k**
 
-#### Artikel 34. Brandstofbenchmark-subinstallaties
+##### Artikel 34. Brandstofbenchmark-subinstallaties
 
 Het aantal dispensatierechten bij brandstofbenchmark-subinstallaties wordt berekend volgens de formule: **DRS,K=BMNL,F x HANF,S x NRFK**
 
@@ -438,7 +464,7 @@ Waarbij:
 
 **NRFK staat voor: nationale reductiefactor, bedoeld in artikel 16b.17, derde lid, van de wet, in jaar k**
 
-#### Artikel 35. Procesemissie-subinstallaties
+##### Artikel 35. Procesemissie-subinstallaties
 
 Het aantal dispensatierechten bij procesemissie-subinstallaties wordt berekend volgens de formule: **DRS,K= PF x HANPE,S x NRFK**
 
@@ -454,7 +480,7 @@ Waarbij:
 
 #### § 3.3.2. Terugvalbenchmarks en procesemissie-subinstallaties
 
-#### Artikel 36. Broeikasgasinstallaties voor de verbranding van stedelijk afval
+##### Artikel 36. Broeikasgasinstallaties voor de verbranding van stedelijk afval
 
 Het aantal dispensatierechten voor broeikasgasinstallaties voor de verbranding van stedelijk afval wordt berekend volgens de formule: DRS,K = PF x HANAVI,S x NRFK x CFAVI,K
 
@@ -470,7 +496,7 @@ Waarbij:
 
 **CFAVI,K staat voor: correctiefactor voor broeikasgasinstallaties voor de verbranding van stedelijk afval als bedoeld in artikel 16b.17, vierde lid, van de wet, in jaar k.**
 
-#### Artikel 37. Lachgasinstallaties
+##### Artikel 37. Lachgasinstallaties
 
 Het aantal dispensatierechten voor lachgasinstallaties wordt berekend volgens de formule: **DRS,K=PF x HANLG,S x NRFK**
 
@@ -486,7 +512,7 @@ Waarbij:
 
 #### § 3.3.2.a. Berekening voor broeikasgasinstallaties voor de verbranding van stedelijk afval
 
-#### Artikel 38. Nieuwkomers
+##### Artikel 38. Nieuwkomers
 
 1. Het aantal dispensatierechten voor nieuwkomers en nieuwe subinstallaties in het kalenderjaar waarin de normale werking aanvangt wordt berekend overeenkomstig de [artikelen 30 tot en met 37](https://wetten.overheid.nl/jci1.3:c:BWBR0044637&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.1&artikel=30&z=2026-01-01&g=2026-01-01) en [39 tot en met 41](https://wetten.overheid.nl/jci1.3:c:BWBR0044637&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.5&artikel=39&z=2026-01-01&g=2026-01-01), waarbij voor het historisch activiteitsniveau gerelateerd aan warmte, brandstof, en procesemissies en het historisch activiteitsniveau broeikasgasinstallatie voor de verbranding van stedelijk afval en lachgasinstallatie het betreffende actuele activiteitsniveau in dat jaar wordt genomen.
 
@@ -498,7 +524,7 @@ Waarbij:
 
 #### § 3.3.3. Berekening voor niet-ETS installaties
 
-#### Artikel 39. Correctie warmte-import salpeterzuurbenchmark
+##### Artikel 39. Correctie warmte-import salpeterzuurbenchmark
 
 1. Indien warmte-import plaatsvindt vanuit subinstallaties onder de salpeterzuurbenchmark wordt het aantal dispensatierechten verlaagd.
 
@@ -510,7 +536,7 @@ Waarbij:
 
 - c. vermenigvuldigd met de toepasselijke nationale reductiefactor, bedoeld in [artikel 16b.17, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16b.17).
 
-#### Artikel 40. Correctie warmte-import niet-ETS installatie en broeikasgasinstallatie voor de verbranding van stedelijk afval
+##### Artikel 40. Correctie warmte-import niet-ETS installatie en broeikasgasinstallatie voor de verbranding van stedelijk afval
 
 1. Indien een productbenchmark-subinstallatie meetbare warmte omvat die wordt ingevoerd uit een niet in het EU-ETS opgenomen installatie of een broeikasgasinstallatie voor de verbranding van stedelijk afval wordt het aantal dispensatierechten verlaagd.
 
@@ -518,11 +544,11 @@ Waarbij:
 
 3. Warmte die is opgewekt met elektriciteit in een eenheid die door dezelfde exploitant op dezelfde locatie wordt geëxploiteerd wordt tot en met verslagperiode 2024 niet beschouwd als warmte die wordt ingevoerd vanuit een niet in het EU-ETS opgenomen installatie of een broeikasgasinstallatie voor de verbranding van stedelijk afval.
 
-#### Artikel 41. Fusies en splitsingen
+##### Artikel 41. Fusies en splitsingen
 
 Voor broeikasgasinstallaties, niet zijnde broeikasgasinstallaties voor de verbranding van stedelijk afval, die uit een fusie of splitsing zijn ontstaan wordt het historisch activiteitenniveau, bedoeld in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0044637&hoofdstuk=3&afdeling=3.2&artikel=25&z=2026-01-01&g=2026-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0044637&hoofdstuk=3&afdeling=3.2&artikel=26&z=2026-01-01&g=2026-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0044637&hoofdstuk=3&afdeling=3.2&artikel=27&z=2026-01-01&g=2026-01-01), bepaald met de gegevens uit het verslag, bedoeld in artikel 25 van de Verordening kosteloze toewijzing van emissierechten.
 
-#### Artikel 42. Aanpassingen als gevolg van veranderingen in (sub)installaties die geen productbenchmark omvatten
+##### Artikel 42. Aanpassingen als gevolg van veranderingen in (sub)installaties die geen productbenchmark omvatten
 
 1. Indien in enig jaar de absolute waarde van het verschil tussen het actueel activiteitsniveau en het historisch activiteitsniveau méér dan 15 procent bedraagt en de absolute waarde van het verschil tussen het gemiddelde van het verwachte activiteitsniveau en het historisch activiteitsniveau méér dan 15 procent bedraagt, wordt het aantal dispensatierechten voor dat jaar berekend op basis van het gemiddelde van het verwachte activiteitsniveau in plaats van het historisch activiteitsniveau.
 
@@ -530,7 +556,7 @@ Voor broeikasgasinstallaties, niet zijnde broeikasgasinstallaties voor de verbra
 
 ### Afdeling 3.4. Verslag over het aantal dispensatierechten
 
-#### Artikel 43. Standaardformulier verslag over het aantal dispensatierechten
+##### Artikel 43. Standaardformulier verslag over het aantal dispensatierechten
 
 1. Het verslag over het aantal dispensatierechten wordt opgesteld met gebruikmaking van een door het bestuur van de emissieautoriteit beschikbaar gesteld standaardformulier.
 
@@ -538,11 +564,11 @@ Voor broeikasgasinstallaties, niet zijnde broeikasgasinstallaties voor de verbra
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 44. Inwerkingtreding
+##### Artikel 44. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2021.
 
-#### Artikel 45. Citeertitel
+##### Artikel 45. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling CO2-heffing industrie.
 
@@ -613,7 +639,7 @@ Deze regeling wordt aangehaald als: Regeling CO2-heffing industrie.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 27a. Afwijkende bepaling waarden mediaan
+##### Artikel 27a. Afwijkende bepaling waarden mediaan
 
 Indien een subinstallatie voor warmte, brandstof of procesemissies of de installatie voor de opwekking van warmte uit elektriciteit tijdens de referentieperiode minder dan twee kalenderjaren in bedrijf is geweest, wordt bij het bepalen van het historisch activiteitsniveau, bedoeld in de [artikelen 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044637&hoofdstuk=3&afdeling=3.2&artikel=25&z=2026-01-01&g=2026-01-01), [26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044637&hoofdstuk=3&afdeling=3.2&artikel=26&z=2026-01-01&g=2026-01-01) en [27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044637&hoofdstuk=3&afdeling=3.2&artikel=27&z=2026-01-01&g=2026-01-01), tot en met verslagperiode 2024 het rekenkundig gemiddelde vervangen voor de waarde uit het eerste kalenderjaar na aanvang van de normale werking, en vanaf verslagperiode 2025 de mediaan vervangen voor de waarde uit het eerste kalenderjaar na aanvang van de normale werking.
 
@@ -698,7 +724,7 @@ Indien een subinstallatie voor warmte, brandstof of procesemissies of de install
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 40a. Correctie restgassen
+##### Artikel 40a. Correctie restgassen
 
 1. Indien de productbenchmark-subinstallatie voor cokes of vloeibaar ijzer restgassen omvat die worden uitgevoerd naar een in het EU-ETS opgenomen installatie ten behoeve van de productie van meetbare warmte, niet-meetbare warmte of elektriciteit, wordt het aantal dispensatierechten dat is berekend overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0044637&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.1&artikel=30&z=2026-01-01&g=2026-01-01) of [31](https://wetten.overheid.nl/jci1.3:c:BWBR0044637&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.1&artikel=31&z=2026-01-01&g=2026-01-01), verminderd met de emissie die wordt toegewezen aan de productie van de hoeveelheid uitgevoerde restgassen overeenkomstig de regels voor het bijwerken van de benchmarkwaarden zoals opgenomen in paragraaf 10.1.5 van bijlage VII van de Verordening kosteloze toewijzing van emissierechten, waarbij de vermindering maximaal het aantal overeenkomstig artikel 30 of 31 berekende dispensatierechten bedraagt.
 
@@ -716,7 +742,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2a. Exploitant van een startende broeikasgasinstallatie
+##### Artikel 2a. Exploitant van een startende broeikasgasinstallatie
 
 Onverminderd [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044637&hoofdstuk=1&artikel=1&z=2026-01-01&g=2026-01-01), wordt voor de toepassing van deze regeling een exploitant van een startende broeikasgasinstallatie niet langer als zodanig beschouwd vanaf vijf jaar na het moment waarop de vergunning, bedoeld in [artikel 16.5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.5), is verleend.
 
@@ -724,7 +750,7 @@ Onverminderd [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ### Afdeling 2.1. Monitoring emissies industriële installatie
 
-#### Artikel 11a. Industrieel monitoringsmethodiekplan
+##### Artikel 11a. Industrieel monitoringsmethodiekplan
 
 Het opstellen en indienen van een industrieel monitoringsmethodiekplan is voor een exploitant van een startende broeikasgasinstallatie niet noodzakelijk.
 
@@ -748,7 +774,7 @@ Het opstellen en indienen van een industrieel monitoringsmethodiekplan is voor e
 
 ### Afdeling 3.4. Verslag over het aantal dispensatierechten
 
-#### Artikel 43a. Verificatie verslag over het aantal dispensatierechten voor een exploitant van een stoppende broeikasgasinstallatie
+##### Artikel 43a. Verificatie verslag over het aantal dispensatierechten voor een exploitant van een stoppende broeikasgasinstallatie
 
 1. Een exploitant van een stoppende broeikasgasinstallatie levert na afloop van het kalenderjaar waarin de vergunning, bedoeld in [artikel 16.5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.5), is ingetrokken een verslag over het aantal dispensatierechten in dat vergezeld gaat van een verificatierapport van een verificateur, waarin de resultaten worden weergegeven van een door hem uitgevoerde beoordeling waarin wordt vastgesteld of het verslag over het aantal dispensatierechten voldoet aan de in deze regeling gestelde eisen.
 
@@ -894,7 +920,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 31a. Correctie productbenchmark-subinstallaties affakkelen afgassen
+##### Artikel 31a. Correctie productbenchmark-subinstallaties affakkelen afgassen
 
 1. Indien bij productbenchmark-subinstallaties sprake is van het affakkelen van afgassen, wordt het aantal dispensatierechten verminderd.
 

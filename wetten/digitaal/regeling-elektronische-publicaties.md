@@ -1,13 +1,39 @@
 ---
-title: "Regeling elektronische publicaties"
+title: "Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 29 april 2021, houdende regels over elektronische publicatie van algemene bekendmakingen, mededelingen en kennisgevingen (Regeling elektronische publicaties)"
 identifier: "BWBR0045086"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045086"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045086"
+soort: "ministeriele-regeling"
+stam_id: "15941493"
+version_id: "27738122"
+internal_id: "C39128141"
+label_id: "15876224"
+dtd_version: "2.0"
+original_entry_into_force: "2021-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045086/2026-01-01/0"
+intitule_bron: "Stcrt.2021-21610"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-04-29"
+intitule_published: "2021-05-03"
+intitule_in_force: "2021-04-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-21610"
+original_signed_date: "2021-04-29"
+original_published_date: "2021-05-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-21610"
+entry_into_force_date: "2021-07-01"
+jci_1_3: "jci1.3:c:BWBR0045086&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0045086&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling elektronische publicaties"
+signed_date: "2021-04-29"
+entry_into_force: "2021-07-01"
 ---
-
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 29 april 2021, houdende regels over elektronische publicatie van algemene bekendmakingen, mededelingen en kennisgevingen (Regeling elektronische publicaties)
 
 Gelet op de [artikelen 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=16), [17, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=17), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=18), [19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=19), en [20, derde lid, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=20), de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025257&artikel=2), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025257&artikel=4), en [8 van het Bekendmakingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025257&artikel=8), de [artikelen 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&artikel=3.1), [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&artikel=3.2), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&artikel=3.3), [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&artikel=3.8), [5.1, eerste lid, van het Besluit elektronische publicaties](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&artikel=5.1), de [artikelen 13.1, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=13.1), en [20.26, tweede lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.26), [artikel 3, eerste lid, van het Besluit basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=3), de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=3), [3a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=3a), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=10), en [11, derde lid, van de Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=11) en [artikel 31, eerste lid, van het Besluit basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&artikel=31);
@@ -18,7 +44,7 @@ Treedt in werking op het tijdstip waarop artikel 1.1 van de Wet elektronische pu
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -42,11 +68,11 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Publicatiebladen
 
-#### Artikel 2.1. Uitgifte op internetadres
+##### Artikel 2.1. Uitgifte op internetadres
 
 De publicatiebladen, bedoeld in [artikel 3.1, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&artikel=3.1), worden uitgegeven op https://www.officielebekendmakingen.nl.
 
-#### Artikel 2.2. Betrouwbaarheid en beveiliging
+##### Artikel 2.2. Betrouwbaarheid en beveiliging
 
 1. De minister draagt er zorg voor dat met betrekking tot de betrouwbaarheid en de beveiliging van de elektronische uitgifte en de beschikbaarstelling van de publicatiebladen die worden uitgegeven door middel van de door hem in stand gehouden digitale infrastructuur, wordt voldaan aan de waarborgen, bedoeld in het tweede tot en met vijfde lid.
 
@@ -60,13 +86,13 @@ De publicatiebladen, bedoeld in [artikel 3.1, eerste lid, van het besluit](https
 
 6. Indien het afkondigingsblad elektronisch wordt uitgegeven, is de zorgplicht, bedoeld in het eerste lid, van overeenkomstige toepassing op het bestuurscollege.
 
-#### Artikel 2.3. Regels en technische standaarden
+##### Artikel 2.3. Regels en technische standaarden
 
 1. Regels als bedoeld in [artikel 3.8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&artikel=3.8), zijn met betrekking tot de aan te leveren gegevens over de te publiceren teksten opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&bijlage=1&z=2026-01-01&g=2026-01-01).
 
 2. Het eerste lid is niet van toepassing voor zover krachtens [artikel 3.8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&artikel=3.8) technische standaarden zijn aangewezen.
 
-#### Artikel 2.4. Vervangende uitgave
+##### Artikel 2.4. Vervangende uitgave
 
 Vervangende uitgifte van de publicatiebladen als bedoeld in [artikel 17, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=17) geschiedt:
 
@@ -76,17 +102,17 @@ Vervangende uitgifte van de publicatiebladen als bedoeld in [artikel 17, eerste 
 
 - c. op een andere door de minister te bepalen wijze.
 
-#### Artikel 2.5. Uitgiftepunt
+##### Artikel 2.5. Uitgiftepunt
 
 Het uitgiftepunt, bedoeld in [artikel 18, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=18), is ondergebracht bij Logius, onderdeel van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Wilhelmina van Pruisenweg 52, Postbus 20011, 2500 EA Den Haag.
 
-#### Artikel 2.6. Publicatiekosten decentrale overheden
+##### Artikel 2.6. Publicatiekosten decentrale overheden
 
 1. Voor zover [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&hoofdstuk=2&artikel=2.3&z=2026-01-01&g=2026-01-01), van toepassing is, worden aan gedeputeerde staten, het college van burgemeester en wethouders en het dagelijks bestuur van het waterschap de kosten in verband met het publiceren in het provinciaal blad, het gemeenteblad, het waterschapsblad en het publicatieblad gemeenschappelijke regeling jaarlijks in rekening gebracht.
 
 2. Het in rekening brengen van de kosten, bedoeld in het eerste lid, geschiedt voor zover het gedeputeerde staten en het college van burgemeester en wethouders betreft volgens de maatstaven die zijn opgenomen in tabel 1 onderscheidenlijk tabel 2 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&bijlage=2&z=2026-01-01&g=2026-01-01). De kosten die in verband met het publiceren aan de dagelijkse besturen van de waterschappen door tussenkomst van Het Waterschapshuis jaarlijks in rekening worden gebracht, bedragen € 378.862,–.
 
-#### Artikel 2.7. Publicatiekosten uittreksels van exploten
+##### Artikel 2.7. Publicatiekosten uittreksels van exploten
 
 1. Aan de Koninklijke Beroepsorganisatie voor Gerechtsdeurwaarders worden kosten in rekening gebracht voor het publiceren in de Staatscourant van uittreksels van exploten als bedoeld in [artikel 54, tweede en vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=54).
 
@@ -94,11 +120,11 @@ Het uitgiftepunt, bedoeld in [artikel 18, tweede lid, van de wet](https://wetten
 
 ### Hoofdstuk 3. Beschikbaarstelling geconsolideerde teksten
 
-#### Artikel 3.1. Geconsolideerde teksten op internetadres
+##### Artikel 3.1. Geconsolideerde teksten op internetadres
 
 Teksten in geconsolideerde vorm als bedoeld in [artikel 5.1, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&artikel=5.1), worden beschikbaar gehouden op https://wetten.overheid.nl.
 
-#### Artikel 3.2. Regels wijze van beschikbaarstelling
+##### Artikel 3.2. Regels wijze van beschikbaarstelling
 
 Regels als bedoeld in [artikel 19, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=19), zijn met betrekking tot:
 
@@ -108,7 +134,7 @@ Regels als bedoeld in [artikel 19, vijfde lid, van de wet](https://wetten.overhe
 
 ### Hoofdstuk 4. Elektronische berichten
 
-#### Artikel 4.1. Leeftijd, frequentie en grootte omgeving adres
+##### Artikel 4.1. Leeftijd, frequentie en grootte omgeving adres
 
 1. De minister zendt aan personen die niet hebben aangegeven dat zij geen elektronische berichten willen ontvangen, indien zij de leeftijd van vijfentwintig jaar hebben bereikt, eenmaal per week elektronische berichten over alle bekendmakingen, mededelingen en kennisgevingen in de publicatiebladen die betrekking hebben op een locatie gelegen binnen een straal rond het adres van hun inschrijving in de basisregistratie personen.
 
@@ -122,37 +148,37 @@ Regels als bedoeld in [artikel 19, vijfde lid, van de wet](https://wetten.overhe
 
 ### Hoofdstuk 5. Wijziging [Bekendmakingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025218)
 
-#### Artikel 5.1. [Bekendmakingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025218)
+##### Artikel 5.1. [Bekendmakingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025218)
 
 Wijzigt de Bekendmakingsregeling.
 
 ### Hoofdstuk 6. Wijziging andere regelingen
 
-#### Artikel 6.1. Omgevingsregeling
+##### Artikel 6.1. Omgevingsregeling
 
 Wijzigt de Omgevingsregeling.
 
-#### Artikel 6.2. [Regeling basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0034327)
+##### Artikel 6.2. [Regeling basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0034327)
 
 Wijzigt de Regeling basisregistratie personen.
 
-#### Artikel 6.3. [Regeling basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028605)
+##### Artikel 6.3. [Regeling basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028605)
 
 Wijzigt de Regeling basisadministraties persoonsgegevens BES.
 
 ### Hoofdstuk 7. Intrekking [Regeling elektronische bekendmaking en beschikbaarstelling regelgeving decentrale overheden](https://wetten.overheid.nl/jci1.3:c:BWBR0024947)
 
-#### Artikel 7.1. [Regeling elektronische bekendmaking en beschikbaarstelling regelgeving decentrale overheden](https://wetten.overheid.nl/jci1.3:c:BWBR0024947)
+##### Artikel 7.1. [Regeling elektronische bekendmaking en beschikbaarstelling regelgeving decentrale overheden](https://wetten.overheid.nl/jci1.3:c:BWBR0024947)
 
 De [Regeling elektronische bekendmaking en beschikbaarstelling regelgeving decentrale overheden](https://wetten.overheid.nl/jci1.3:c:BWBR0024947) wordt ingetrokken.
 
 ### Hoofdstuk 8. Overgangs- en slotbepalingen
 
-#### Artikel 8.1. Overgangsrecht geconsolideerde teksten
+##### Artikel 8.1. Overgangsrecht geconsolideerde teksten
 
 In afwijking van [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&hoofdstuk=3&artikel=3.2&z=2026-01-01&g=2026-01-01), kunnen de minister, gedeputeerde staten, het college van burgemeester en wethouders, het dagelijks bestuur van het waterschap, het bestuurscollege, het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie en het gemeenschappelijk orgaan beschikbaar gestelde geconsolideerde teksten beschikbaar houden overeenkomstig de regels die golden ten tijde van de eerste beschikbaarstelling van de betreffende geconsolideerde tekst.
 
-#### Artikel 8.2. Invoeringsbepaling omgevingsbesluiten
+##### Artikel 8.2. Invoeringsbepaling omgevingsbesluiten
 
 1. In afwijking van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&hoofdstuk=2&artikel=2.1&z=2026-01-01&g=2026-01-01) kan het publicatieblad worden uitgegeven op https://www.ruimtelijkeplannen.nl, voor zover het betreft de publicatie van specifieke delen van algemeen verbindende voorschriften, beleidsregels en andere besluiten die niet tot een of meer belanghebbenden zijn gericht waarvan de grondslag is opgenomen in de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885).
 
@@ -160,11 +186,11 @@ In afwijking van [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045086&h
 
 3. Dit artikel vervalt op het tijdstip waarop [artikel 11.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&artikel=1.1) vervalt.
 
-#### Artikel 8.3. Inwerkingtreding
+##### Artikel 8.3. Inwerkingtreding
 
 Deze regeling treedt in werking op het tijdstip waarop [artikel 1.1 van de Wet elektronische publicaties](https://wetten.overheid.nl/jci1.3:c:BWBR0043961&artikel=1.1) in werking treedt.
 
-#### Artikel 8.4. Citeertitel
+##### Artikel 8.4. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling elektronische publicaties.
 

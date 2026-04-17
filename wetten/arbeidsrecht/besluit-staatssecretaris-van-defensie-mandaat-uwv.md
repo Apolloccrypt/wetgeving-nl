@@ -1,20 +1,45 @@
 ---
 title: "Besluit Staatssecretaris van Defensie Mandaat UWV"
 identifier: "BWBR0020129"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2006-07-24
-laatste_update: 2006-07-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020129"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2006-07-24"
+last_updated: "2006-07-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020129"
+soort: "ministeriele-regeling"
+stam_id: "8550563"
+version_id: "13477812"
+internal_id: "C18096851"
+label_id: "8530864"
+dtd_version: "2.0"
+original_entry_into_force: "2006-07-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020129/2006-07-24/0"
+intitule_bron: "Stcrt.2006-150"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-07-24"
+intitule_published: "2006-08-04"
+intitule_in_force: "2006-08-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-150"
+original_signed_date: "2006-07-24"
+original_published_date: "2006-08-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-150-p6-SC76267"
+entry_into_force_date: "2006-07-24"
+jci_1_3: "jci1.3:c:BWBR0020129&z=2006-07-24&g=2006-07-24"
+jci_1_0: "1.0:c:BWBR0020129&g=2006-07-24"
+citeertitel_status: "redactioneel"
+signed_date: "2006-07-24"
+entry_into_force: "2006-07-24"
 ---
-
 # Besluit Staatssecretaris van Defensie Mandaat UWV
 
 Besluit:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -30,7 +55,7 @@ In dit besluit wordt verstaan onder:
 
 - –. De [Suppletieregeling gedeeltelijk arbeidsongeschikten sector Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0008977).
 
-#### Artikel 2. Mandaat
+##### Artikel 2. Mandaat
 
 De Staatssecretaris verleent aan UWV het volgende mandaat:
 
@@ -44,7 +69,7 @@ De Staatssecretaris verleent aan UWV het volgende mandaat:
 
 - 5. UWV is bevoegd tot het schriftelijk verlenen van ondermandaat aan bij UWV in dienst zijnde functionarissen. UWV houdt een register bij van verleende ondermandaten. Het register bevat de namen van de functionarissen van UWV die op basis van het ondermandaat besluiten kunnen nemen, alsmede gegevens omtrent de inhoud van het ondermandaat.
 
-#### Artikel 3. Ondertekening
+##### Artikel 3. Ondertekening
 
 De stukken die op grond van dit besluit worden afgedaan en ondertekend, vermelden aan het slot:
 
@@ -56,6 +81,6 @@ voor deze:
 
 ………………… (handtekening en naam van de functionaris)
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van datum ondertekening onder gelijktijdige intrekking van het [Mandaatbesluit uitvoering boven- en naastwettelijke uitkeringsregelingen bij werkloosheid- en/of arbeidsongeschiktheid sector Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0017974) van 28 januari 2005 (Stcrt. 3 maart 2005, nr. 44/pag. 10)

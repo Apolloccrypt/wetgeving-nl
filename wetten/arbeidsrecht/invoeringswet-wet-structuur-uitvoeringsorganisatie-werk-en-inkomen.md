@@ -1,14 +1,42 @@
 ---
-title: "Invoeringswet Wet structuur uitvoeringsorganisatie werk en inkomen"
+title: "Wet van 29 november 2001 tot invoering van de Wet structuur uitvoeringsorganisatie werk en inkomen (Invoeringswet Wet structuur uitvoeringsorganisatie werk en inkomen)"
 identifier: "BWBR0013061"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2009-08-01
-laatste_update: 2009-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013061"
+country: "nl"
+rank: "wet"
+publication_date: "2009-08-01"
+last_updated: "2009-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013061"
+soort: "wet"
+stam_id: "1653473"
+version_id: "2442882"
+internal_id: "C2442881"
+label_id: "1607814"
+dtd_version: "2.0"
+original_entry_into_force: "2002-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013061/2009-08-01/0"
+intitule_bron: "Stb.2001-625"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-11-29"
+intitule_published: "2001-12-18"
+intitule_in_force: "2001-12-27"
+intitule_status: "goed"
+original_publication: "Stb.2001-625"
+original_signed_date: "2001-11-29"
+original_published_date: "2001-12-18"
+original_effect: "nieuwe-regeling"
+original_dossier: "27665"
+original_url_id: "stb-2001-625"
+entry_into_force_date: "2002-01-01"
+entry_into_force_dossier: "27665"
+jci_1_3: "jci1.3:c:BWBR0013061&z=2009-08-01&g=2009-08-01"
+jci_1_0: "1.0:c:BWBR0013061&g=2009-08-01"
+citeertitel_status: "officieel"
+short_title: "Invoeringswet Wet structuur uitvoeringsorganisatie werk en inkomen"
+signed_date: "2001-11-29"
+entry_into_force: "2002-01-01"
 ---
-
-# Invoeringswet Wet structuur uitvoeringsorganisatie werk en inkomen
+# Wet van 29 november 2001 tot invoering van de Wet structuur uitvoeringsorganisatie werk en inkomen (Invoeringswet Wet structuur uitvoeringsorganisatie werk en inkomen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Definities
 
-#### Artikel 1. Algemene begrippen
+##### Artikel 1. Algemene begrippen
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -48,19 +76,19 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Overgangsrecht Organisatiewet sociale verzekeringen 1997
 
-#### Artikel 2. Intrekking wetten
+##### Artikel 2. Intrekking wetten
 
 1. De Organisatiewet sociale verzekeringen 1997 en de Invoeringswet Organisatiewet sociale verzekeringen 1997 worden ingetrokken.
 
 2. Voor de verschillende artikelen of onderdelen van de artikelen van de Organisatiewet sociale verzekeringen 1997 en de Invoeringswet Organisatiewet sociale verzekeringen 1997 kan bij koninklijk besluit het tijdstip waarop deze vervallen verschillend worden gesteld.
 
-#### Artikel 3. Handhaving Sociale Verzekeringsbank
+##### Artikel 3. Handhaving Sociale Verzekeringsbank
 
 1. De Sociale Verzekeringsbank, genoemd in artikel 17 van Organisatiewet sociale verzekeringen 1997, zoals deze luidde op de datum vóór het tijdstip van inwerkingtreding van deze wet, wordt als rechtspersoon gehandhaafd en is de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6).
 
 2. De artikelen 18, 19, eerste, derde en vierde lid, 20, 22, 23 en 24 van de Organisatiewet sociale verzekeringen 1997 en de op grond daarvan gestelde regels, zoals deze luidden op de datum vóór het tijdstip van inwerkingtreding van deze wet, blijven tot 1 januari 2003 van toepassing, met dien verstande dat de periode van benoeming van leden en plaatsvervangende leden van het bestuur zich niet langer dan tot 1 januari 2003 kan uitstrekken.
 
-#### Artikel 4. Overgang vermogensbestanddelen van Lisv naar UWV
+##### Artikel 4. Overgang vermogensbestanddelen van Lisv naar UWV
 
 1. Alle vermogensbestanddelen van het Landelijk instituut sociale verzekeringen gaan over op het Uitvoeringsinstituut werknemersverzekeringen, zonder dat daarvoor een akte of betekening nodig is.
 
@@ -82,25 +110,25 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 10. De vermogensbestanddelen die deel uitmaken van het Toeslagenfonds en op grond van het eerste lid overgaan, gaan deel uitmaken van het Toeslagenfonds dat op grond van [artikel 31 van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=31) door het Uitvoeringsinstituut werknemersverzekeringen afzonderlijk wordt beheerd en geadministreerd.
 
-#### Artikel 5. Overgang vermogensbestanddelen van uitvoeringsinstellingen naar UWV
+##### Artikel 5. Overgang vermogensbestanddelen van uitvoeringsinstellingen naar UWV
 
 Alle vermogensbestanddelen van de uitvoeringsinstellingen gaan over op het Uitvoeringsinstituut werknemersverzekeringen, zonder dat daarvoor een akte of betekening nodig is.
 
-#### Artikel 6. Overgang vermogensbestanddelen van stichting VUWV naar UWV
+##### Artikel 6. Overgang vermogensbestanddelen van stichting VUWV naar UWV
 
 Alle vermogensbestanddelen van de stichting, bedoeld in artikel 5, eerste lid, van het Besluit voorwaarden erkenning uitvoeringsinstelling, gaan over op het Uitvoeringsinstituut werknemersverzekeringen, zonder dat daarvoor een akte of betekening nodig is.
 
-#### Artikel 7. Overgang vermogensbestanddelen van Ctsv naar Staat (SZW)
+##### Artikel 7. Overgang vermogensbestanddelen van Ctsv naar Staat (SZW)
 
 Alle vermogensbestanddelen van het College van toezicht sociale verzekeringen gaan over op de Staat (Ministerie van Sociale Zaken en Werkgelegenheid), zonder dat daarvoor een akte of betekening nodig is.
 
-#### Artikel 8. Overdrachtsbelasting inschrijving openbare registers
+##### Artikel 8. Overdrachtsbelasting inschrijving openbare registers
 
 1. Met betrekking tot de ingevolge de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013061&hoofdstuk=2&artikel=4&z=2009-08-01&g=2009-08-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013061&hoofdstuk=2&artikel=5&z=2009-08-01&g=2009-08-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0013061&hoofdstuk=2&artikel=6&z=2009-08-01&g=2009-08-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0013061&hoofdstuk=2&artikel=7&z=2009-08-01&g=2009-08-01) overgaande vermogensbestanddelen die in openbare registers te boek zijn gesteld, zal verandering van de tenaamstelling in die registers plaatsvinden door de bewaarders van die registers. De daartoe benodigde opgaven worden door de zorg van Onze Minister aan de bewaarders van de desbetreffende registers gedaan.
 
 2. Ter zake van de in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013061&hoofdstuk=2&artikel=4&z=2009-08-01&g=2009-08-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013061&hoofdstuk=2&artikel=5&z=2009-08-01&g=2009-08-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0013061&hoofdstuk=2&artikel=6&z=2009-08-01&g=2009-08-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0013061&hoofdstuk=2&artikel=7&z=2009-08-01&g=2009-08-01) bedoelde overgang van vermogensbestanddelen blijft heffing van overdrachtsbelasting achterwege.
 
-#### Artikel 9. Overgang publiekrechtelijke rechten en verplichtingen van Lisv en uvi's naar UWV
+##### Artikel 9. Overgang publiekrechtelijke rechten en verplichtingen van Lisv en uvi's naar UWV
 
 1. De publiekrechtelijke rechten en verplichtingen van het Landelijk instituut sociale verzekeringen en de uitvoeringsinstellingen gaan over op het Uitvoeringsinstituut werknemersverzekeringen voorzover in deze wet of de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) niet anders is bepaald.
 
@@ -108,7 +136,7 @@ Alle vermogensbestanddelen van het College van toezicht sociale verzekeringen ga
 
 3. Een tot het Landelijk instituut sociale verzekeringen of een uitvoeringsinstelling gericht verzoek om een besluit te nemen, wordt beschouwd als te zijn gericht tot het Uitvoeringsinstituut werknemersverzekeringen.
 
-#### Artikel 10. Overgang publiekrechtelijke rechten en verplichtingen van Ctsv naar Minister van SZW
+##### Artikel 10. Overgang publiekrechtelijke rechten en verplichtingen van Ctsv naar Minister van SZW
 
 1. De publiekrechtelijke rechten en verplichtingen van het College van toezicht sociale verzekeringen gaan over op Onze Minister voorzover in deze wet of de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) niet anders is bepaald.
 
@@ -116,49 +144,49 @@ Alle vermogensbestanddelen van het College van toezicht sociale verzekeringen ga
 
 3. Een tot het College van toezicht sociale verzekeringen gericht verzoek om een besluit te nemen, wordt beschouwd als te zijn gericht tot Onze Minister.
 
-#### Artikel 11. Partijvervanging van Lisv en beroepstermijn
+##### Artikel 11. Partijvervanging van Lisv en beroepstermijn
 
 1. In civielrechtelijke en bestuursrechtelijke gedingen waarin het Landelijk instituut sociale verzekeringen partij is treedt het Uitvoeringsinstituut werknemersverzekeringen in zijn plaats, zonder dat daarvoor een betekening nodig is en met overneming van procureurstelling onderscheidenlijk aanwijzing van een gemachtigde.
 
 2. Beroep waarvoor de termijn is aangevangen vóór de inwerkingtreding van deze wet staat voor het Uitvoeringsinstituut werknemersverzekeringen open gedurende het resterende gedeelte van de beroepstermijn.
 
-#### Artikel 12. Partijvervanging van uvi's en beroepstermijn
+##### Artikel 12. Partijvervanging van uvi's en beroepstermijn
 
 1. In civielrechtelijke en bestuursrechtelijke gedingen waarin een uitvoeringsinstelling partij is treedt het Uitvoeringsinstituut werknemersverzekeringen in haar plaats, zonder dat daarvoor een betekening nodig is en met overneming van procureurstelling onderscheidenlijk aanwijzing van een gemachtigde.
 
 2. Beroep waarvoor de termijn is aangevangen vóór de inwerkingtreding van deze wet staat voor het Uitvoeringsinstituut werknemersverzekeringen open gedurende het resterende gedeelte van de beroepstermijn.
 
-#### Artikel 13. Partijvervanging van Ctsv in civielrechtelijke gedingen
+##### Artikel 13. Partijvervanging van Ctsv in civielrechtelijke gedingen
 
 In civielrechtelijke gedingen waarin het College van toezicht sociale verzekeringen partij is treedt de Staat (Ministerie van Sociale Zaken en Werkgelegenheid) in zijn plaats, zonder dat daarvoor een betekening nodig is en met overneming van procureurstelling onderscheidenlijk aanwijzing van een gemachtigde.
 
-#### Artikel 14. Partijvervanging Ctsv in bestuursrechtelijke gedingen en beroepstermijn
+##### Artikel 14. Partijvervanging Ctsv in bestuursrechtelijke gedingen en beroepstermijn
 
 1. In bestuursrechtelijke gedingen waarin het College van toezicht sociale verzekeringen partij is treedt Onze Minister in zijn plaats, zonder dat daarvoor een betekening nodig is en met overneming van aanwijzing van een gemachtigde.
 
 2. Beroep waarvoor de termijn is aangevangen vóór de inwerkingtreding van deze wet staat voor Onze Minister open gedurende het resterende gedeelte van de beroepstermijn.
 
-#### Artikel 15. Beëindiging gedingen
+##### Artikel 15. Beëindiging gedingen
 
 Indien de toepassing van dit hoofdstuk tot gevolg heeft dat in een geding eiser en gedaagde samenvallen, wordt dat geding tussen die partijen van rechtswege beëindigd.
 
-#### Artikel 16. Beëindiging bezwaarschriftenprocedures
+##### Artikel 16. Beëindiging bezwaarschriftenprocedures
 
 Indien de toepassing van dit hoofdstuk tot gevolg heeft dat in een bezwaarschriftenprocedure de indiener van het bezwaarschrift en het bestuursorgaan dat het bestreden besluit heeft genomen samenvallen, wordt die bezwaarschriftenprocedure tussen hen van rechtswege beëindigd.
 
-#### Artikel 17. Overgang van bezwaarschriftenprocedures van Lisv naar UWV
+##### Artikel 17. Overgang van bezwaarschriftenprocedures van Lisv naar UWV
 
 1. Bij het Landelijk instituut sociale verzekeringen aanhangige bezwaarschriften gaan, in de stand waarin zij zich bevinden, over naar het Uitvoeringsinstituut werknemersverzekeringen.
 
 2. Bezwaar waarvoor de termijn is aangevangen vóór de inwerkingtreding van deze wet staat voor het Uitvoeringsinstituut werknemersverzekeringen open gedurende het resterende gedeelte van de bezwaartermijn.
 
-#### Artikel 18. Overgang van bezwaarschriftenprocedures van Ctsv naar Minister van SZW
+##### Artikel 18. Overgang van bezwaarschriftenprocedures van Ctsv naar Minister van SZW
 
 1. Bij het College van toezicht sociale verzekeringen aanhangige bezwaarschriften gaan, in de stand waarin zij zich bevinden, over naar Onze Minister.
 
 2. Bezwaar waarvoor de termijn is aangevangen vóór de inwerkingtreding van deze wet staat voor Onze Minister open gedurende het resterende gedeelte van de bezwaartermijn.
 
-#### Artikel 19. Ontslag bestuursleden
+##### Artikel 19. Ontslag bestuursleden
 
 1. Aan de leden van het College van toezicht sociale verzekeringen die op de dag voorafgaand aan de datum van inwerkingtreding van deze wet die functies bekleden wordt met ingang van die datum ontslag verleend.
 
@@ -166,39 +194,39 @@ Indien de toepassing van dit hoofdstuk tot gevolg heeft dat in een bezwaarschrif
 
 3. Aan de voorzitter, de leden en de plaatsvervangende leden van de Sociale verzekeringsbank die op 31 december 2002 die functies bekleden wordt met ingang van 1 januari 2003 ontslag verleend.
 
-#### Artikel 20. Rechtspositionele aanspraken bestuursleden
+##### Artikel 20. Rechtspositionele aanspraken bestuursleden
 
 De door Onze Minister op grond van de artikelen 7, 22 en 35 van de Organisatiewet sociale verzekeringen 1997 gestelde regels blijven na de inwerkingtreding van de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) van kracht voor zolang daaraan door de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0013061&hoofdstuk=2&artikel=19&z=2009-08-01&g=2009-08-01) bedoelde functionarissen aanspraken kunnen worden ontleend.
 
-#### Artikel 21. Overgang personeel Lisv en uvi's
+##### Artikel 21. Overgang personeel Lisv en uvi's
 
 De rechten en verplichtingen van het Landelijk instituut sociale verzekeringen en de uitvoeringsinstellingen die voortvloeien uit de arbeidsovereenkomsten met hun werknemers, daaronder begrepen die welke voortvloeien uit een toezegging omtrent pensioen als bedoeld in [artikel 1 van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=1), gaan over op het Uitvoeringsinstituut werknemersverzekeringen.
 
-#### Artikel 22. Overgang personeel Ctsv
+##### Artikel 22. Overgang personeel Ctsv
 
 1. De werknemers die op de dag voorafgaand aan de datum van inwerkingtreding van de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) in dienst zijn van het College van toezicht sociale verzekeringen, worden met ingang van de dag van inwerkingtreding van de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) als ambtenaar in dienst van het Rijk aangesteld. Daarbij worden hun arbeidsvoorwaarden zo veel mogelijk op een gelijk niveau gesteld met de arbeidsvoorwaarden die verbonden waren aan hun dienstbetrekking bij het College van toezicht sociale verzekeringen.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld omtrent het eerste lid.
 
-#### Artikel 23. Opheffing commissies
+##### Artikel 23. Opheffing commissies
 
 1. Commissies als bedoeld in de artikelen 9 en 37 van de Organisatiewet sociale verzekeringen 1997 worden opgeheven.
 
 2. Commissies als bedoeld in artikel 24 van de Organisatiewet sociale verzekeringen 1997 worden opgeheven per 1 januari 2003.
 
-#### Artikel 24. Overgang lagere regelgeving
+##### Artikel 24. Overgang lagere regelgeving
 
 1. Ministeriële regelingen op grond van de artikelen 28, zesde lid, 67, zesde en zevende lid, 68, tweede lid, 70, tweede lid, 71, 71a, derde lid , en 94, eerste lid, van de Organisatiewet sociale verzekeringen 1997 berusten met ingang van de datum van inwerkingtreding van de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) op de [artikelen 35, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=35), [50, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=50), [51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=51), [52, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=52), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=53), [51, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=51), en [77, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=77).
 
 2. De Regeling reservevorming wachtgeldfondsen op grond van artikel 72 van de Organisatiewet sociale verzekeringen 1997 berust, met uitzondering van de bijlage bij die regeling, met ingang van de datum van inwerkingtreding van de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) op [artikel 51, achtste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=51).
 
-#### Artikel 25. Overgang regelgevende bevoegdheden
+##### Artikel 25. Overgang regelgevende bevoegdheden
 
 1. Regelingen van het Landelijk instituut sociale verzekeringen op grond van de artikelen 52 en 54 van de Organisatiewet sociale verzekeringen 1997 gelden met ingang van de datum van inwerkingtreding van de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) als regelingen van het Uitvoeringsinstituut werknemersverzekeringen op grond van de [artikelen 97l](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=97l) en [97n van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=97n).
 
 2. De ministeriële regeling waarbij het bedrijfs- en beroepsleven wordt ingedeeld op grond van artikel 51, eerste lid, van de Organisatiewet sociale verzekeringen 1997, geldt met ingang van de datum van inwerkingtreding van de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) als een regeling op grond van [artikel 97k van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=97k).
 
-#### Artikel 26. Overgang toestemmingen, verplichtingen en opdrachten in verband met andere taken
+##### Artikel 26. Overgang toestemmingen, verplichtingen en opdrachten in verband met andere taken
 
 1. Toestemming, verleend aan een uitvoeringsinstelling of aan de Sociale verzekeringsbank op grond van artikel 50, eerste lid, of artikel 25, derde lid, van de Organisatiewet sociale verzekeringen 1997, wordt aangemerkt als goedkeuring van een daartoe strekkend besluit van het Uitvoeringsinstituut werknemersverzekeringen, onderscheidenlijk de Sociale verzekeringsbank, op grond van [artikel 13 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=13).
 
@@ -208,7 +236,7 @@ De rechten en verplichtingen van het Landelijk instituut sociale verzekeringen e
 
 ### Hoofdstuk 3. Overgangsrecht [Arbeidsvoorzieningswet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008367)
 
-#### Artikel 27. Intrekking wetten
+##### Artikel 27. Intrekking wetten
 
 1. De [Arbeidsvoorzieningswet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008367) en de [Invoeringswet Arbeidsvoorzieningswet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008368) worden ingetrokken.
 
@@ -216,7 +244,7 @@ De rechten en verplichtingen van het Landelijk instituut sociale verzekeringen e
 
 3. Bij ministeriële regeling kunnen regels worden gesteld voor de gevolgen van de toepassing van het tweede lid, waarbij zo nodig kan worden afgeweken van dit hoofdstuk.
 
-#### Artikel 28. Overgang vermogen
+##### Artikel 28. Overgang vermogen
 
 1. Alle vermogensbestanddelen van de Arbeidsvoorzieningsorganisatie gaan over op de Centrale organisatie werk en inkomen, zonder dat daarvoor een akte of betekening nodig is.
 
@@ -224,7 +252,7 @@ De rechten en verplichtingen van het Landelijk instituut sociale verzekeringen e
 
 3. Ter zake van de in dit artikel bedoelde overgang van vermogensbestanddelen blijft heffing van overdrachtsbelasting achterwege.
 
-#### Artikel 29. Overgang publiekrechtelijke rechten en verplichtingen, besluiten en aanvragen
+##### Artikel 29. Overgang publiekrechtelijke rechten en verplichtingen, besluiten en aanvragen
 
 1. De publiekrechtelijke rechten en verplichtingen van de Arbeidsvoorzieningsorganisatie gaan over op de Centrale organisatie werk en inkomen voorzover op grond van deze wet of de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) niet anders is bepaald.
 
@@ -232,45 +260,45 @@ De rechten en verplichtingen van het Landelijk instituut sociale verzekeringen e
 
 3. Een tot de Arbeidsvoorzieningsorganisatie gericht verzoek om een besluit te nemen geldt als te zijn gericht tot de Centrale organisatie werk en inkomen.
 
-#### Artikel 30. Partijvervanging en beroepstermijn
+##### Artikel 30. Partijvervanging en beroepstermijn
 
 1. In civielrechtelijke en bestuursrechtelijke gedingen waarin de Arbeidsvoorzieningsorganisatie partij is treedt de Centrale organisatie werk en inkomen in haar plaats, zonder dat daarvoor een betekening nodig is en met overneming van procureurstelling onderscheidenlijk aanwijzing van een gemachtigde.
 
 2. Beroep waarvoor de termijn is aangevangen vóór de inwerkingtreding van deze wet staat voor de Centrale organisatie werk en inkomen open gedurende het resterende gedeelte van de beroepstermijn.
 
-#### Artikel 31. Overgang van bestuursrechtelijke procedures
+##### Artikel 31. Overgang van bestuursrechtelijke procedures
 
 De bij het College van Beroep voor het bedrijfsleven aanhangige zaken betreffende besluiten van de Arbeidsvoorzieningsorganisatie op grond van de [Arbeidsvoorzieningswet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008367), de [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746) en de [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616) gaan van rechtswege, in de stand waarin zij zich bevinden, over naar de rechtbank die bij toepassing van [artikel 8:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:7) bevoegd zou zijn geweest het beroep te behandelen.
 
-#### Artikel 32. Overgang bezwaarschriften en bezwaartermijn
+##### Artikel 32. Overgang bezwaarschriften en bezwaartermijn
 
 1. Bij de Arbeidsvoorzieningsorganisatie aanhangige bezwaarschriften gaan, in de stand waarin zij zich bevinden, over naar de Centrale organisatie werk en inkomen.
 
 2. Bezwaar waarvoor de termijn is aangevangen vóór de inwerkingtreding van deze wet staat voor de Centrale organisatie werk en inkomen open gedurende het resterende gedeelte van de bezwaartermijn.
 
-#### Artikel 33. Ontslag functionarissen
+##### Artikel 33. Ontslag functionarissen
 
 Aan de voorzitter, de plaatsvervangend voorzitters, de leden en de plaatsvervangende leden van het Centraal Bestuur voor de Arbeidsvoorziening en van de Regionale Besturen voor de Arbeidsvoorziening, die op de dag voorafgaande aan de datum van inwerkingtreding van deze wet die functies bekleden wordt met ingang van die datum ontslag verleend.
 
-#### Artikel 34. Overgang personeel
+##### Artikel 34. Overgang personeel
 
 De rechten en verplichtingen van de Arbeidsvoorzieningsorganisatie die voortvloeien uit de arbeidsovereenkomsten met haar werknemers, daaronder begrepen die welke voortvloeien uit een toezegging omtrent pensioen als bedoeld in [artikel 1 van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=1), gaan over op de Centrale organisatie werk en inkomen.
 
-#### Artikel 35. Regelingen op grond van de [artikelen 75](https://wetten.overheid.nl/jci1.3:c:BWBR0008367&artikel=75) en [77 van de Arbeidsvoorzieningswet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008367&artikel=77)
+##### Artikel 35. Regelingen op grond van de [artikelen 75](https://wetten.overheid.nl/jci1.3:c:BWBR0008367&artikel=75) en [77 van de Arbeidsvoorzieningswet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008367&artikel=77)
 
 1. De regelingen van het Centraal Bestuur voor de Arbeidsvoorziening op grond van [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0008367&artikel=75), onderscheidenlijk [artikel 77, tweede volzin, van de Arbeidsvoorzieningswet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008367&artikel=77) gelden met ingang van de datum van inwerkingtreding van de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) als regelingen van de Centrale organisatie werk en inkomen op grond van [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=25), onderscheidenlijk [artikel 25, tweede lid, tweede volzin, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=25).
 
 2. Een termijn als bedoeld in [artikel 75 van de Arbeidsvoorzieningswet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008367&artikel=75) die is aangevangen voor de datum van inwerkingtreding van de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060), wordt voor de toepassing van [artikel 25, vierde lid, onderdeel b, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=25) van het tijdstip van aanvang af aangemerkt als termijn als bedoeld in laatstgenoemde bepaling.
 
-#### Artikel 36. Registratie als werkzoekende
+##### Artikel 36. Registratie als werkzoekende
 
 De registratie als werkzoekende op grond van de [Arbeidsvoorzieningswet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008367) wordt met ingang van de datum van inwerkingtreding van de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) aangemerkt als registratie als werkzoekende op grond van die wet.
 
-#### Artikel 37. Goedkeuring deelnemingen en geldleningen
+##### Artikel 37. Goedkeuring deelnemingen en geldleningen
 
 Verzoeken om goedkeuring als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008367&artikel=10), onderscheidenlijk [artikel 66 van de Arbeidsvoorzieningswet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008367&artikel=66), waaromtrent door Onze Minister nog niet is beslist, worden aangemerkt als verzoeken om goedkeuring op grond van [artikel 6, onderdeel a, onderscheidenlijk onderdeel d, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=6). Ten aanzien van zodanige verzoeken wordt alsnog [artikel 3, zesde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=3) toegepast. In dat geval vangt de termijn van dertien weken, bedoeld in [artikel 10:31 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:31), aan na de laatst bedoelde verzending ter goedkeuring.
 
-#### Artikel 38. Overgangsbepalingen overgang verantwoordelijkheid arbeidsgehandicapten
+##### Artikel 38. Overgangsbepalingen overgang verantwoordelijkheid arbeidsgehandicapten
 
 1. In afwijking van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0013061&hoofdstuk=3&artikel=29&z=2009-08-01&g=2009-08-01) geldt een besluit van de Arbeidsvoorzieningsorganisatie op grond van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008367&artikel=4), en [artikel 81a van de Arbeidsvoorzieningswet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008367&artikel=81a) als een besluit van de gemeente, waarin de arbeidsgehandicapte, bedoeld in die artikelen van de [Arbeidsvoorzieningswet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008367), woonachtig is, op grond van de[Wet inschakeling werkzoekenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009083).
 
@@ -284,7 +312,7 @@ Verzoeken om goedkeuring als bedoeld in [artikel 10](https://wetten.overheid.nl/
 
 6. Bij ministeriële regeling kunnen regels worden gesteld omtrent de overgang van werknemers van de Arbeidsvoorzieningsorganisatie naar gemeenten, in afwijking van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0013061&hoofdstuk=3&artikel=34&z=2009-08-01&g=2009-08-01), in verband met de overgang van verantwoordelijkheden, bedoeld in dit artikel.
 
-#### Artikel 39. Bijzondere overgangsbepalingen in verband met verzelfstandiging van onderdelen van de Arbeidsvoorzieningsorganisatie
+##### Artikel 39. Bijzondere overgangsbepalingen in verband met verzelfstandiging van onderdelen van de Arbeidsvoorzieningsorganisatie
 
 1. Bij of krachtens algemene maatregel van bestuur kan worden bepaald, dat in afwijking van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0013061&hoofdstuk=3&artikel=28&z=2009-08-01&g=2009-08-01), vermogensbestanddelen van de Arbeidsvoorzieningsorganisatie die worden toegerekend aan de uitvoering van in die maatregel genoemde taken of het verrichten van bepaalde diensten overgaan op bij die maatregel aan te wijzen rechtspersonen dan wel op de Staat.
 
@@ -292,7 +320,7 @@ Verzoeken om goedkeuring als bedoeld in [artikel 10](https://wetten.overheid.nl/
 
 3. Bij of krachtens de maatregel, bedoeld in het eerste lid, kunnen regels worden gesteld voor de overgang van personeel, de gegevensoverdracht en de waardering van de vermogensbestanddelen.
 
-#### Artikel 40. Ontslagbescherming werknemers van de Centrale organisatie werk en inkomen
+##### Artikel 40. Ontslagbescherming werknemers van de Centrale organisatie werk en inkomen
 
 1. De arbeidsovereenkomsten van personeelsleden die in dienst zijn van de Centrale organisatie werk en inkomen kunnen door die organisatie niet worden opgezegd zonder voorafgaande toestemming van de ontslagcommissie, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0013061&hoofdstuk=3&artikel=41&z=2009-08-01&g=2009-08-01).
 
@@ -306,7 +334,7 @@ Verzoeken om goedkeuring als bedoeld in [artikel 10](https://wetten.overheid.nl/
 
 6. Indien de toestemming, bedoeld in het eerste lid, is verleend, wordt de door de Centrale organisatie werk en inkomen in acht te nemen termijn van opzegging, verkort met een maand, met dien verstande dat de resterende termijn van opzegging ten minste één maand bedraagt. Van de eerste volzin kan slechts worden afgeweken bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan.
 
-#### Artikel 41. Ontslagcommissie
+##### Artikel 41. Ontslagcommissie
 
 1. Er is een ontslagcommissie, die tot taak heeft voornemens van de Centrale organisatie werk en inkomen tot opzegging van de arbeidsovereenkomsten, bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0013061&hoofdstuk=3&artikel=40&z=2009-08-01&g=2009-08-01) te toetsen, alvorens toestemming voor de voorgenomen opzegging te verlenen.
 
@@ -328,7 +356,7 @@ Verzoeken om goedkeuring als bedoeld in [artikel 10](https://wetten.overheid.nl/
 
 8. De Centrale organisatie werk en inkomen regelt de aanwezigheidsvergoeding van de voorzitter alsmede de vergoeding voor reis- en verblijfkosten van de leden en plaatsvervangende leden. Het voorziet tevens in het secretariaat van de ontslagcommissie.
 
-#### Artikel 42. Overgang ontslagbescherming
+##### Artikel 42. Overgang ontslagbescherming
 
 1. De commissie die is ingesteld op grond van [artikel 43 van de Arbeidsvoorzieningswet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008367&artikel=43) wordt gehandhaafd en geldt met ingang van de datum van inwerkingtreding van de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0013061&hoofdstuk=3&artikel=40&z=2009-08-01&g=2009-08-01) en [41](https://wetten.overheid.nl/jci1.3:c:BWBR0013061&hoofdstuk=3&artikel=41&z=2009-08-01&g=2009-08-01) als commissie, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0013061&hoofdstuk=3&artikel=41&z=2009-08-01&g=2009-08-01), en behandelt de voor die datum bij eerstgenoemde commissie ingediende verzoeken om toestemming van een voorgenomen opzegging van een arbeidsovereenkomst.
 
@@ -346,379 +374,379 @@ Verzoeken om goedkeuring als bedoeld in [artikel 10](https://wetten.overheid.nl/
 
 #### § 1. Sociale Zaken en Werkgelegenheid
 
-#### Artikel 43. [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
+##### Artikel 43. [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
 Wijzigt de Werkloosheidswet.
 
-#### Artikel 44. Overgangsrecht wijziging [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
+##### Artikel 44. Overgangsrecht wijziging [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
 A. Regelingen van het Landelijk instituut sociale verzekeringen op grond van de [artikelen 16, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16), [17a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=17a), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=18), [19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19), [20, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=20), [21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=21), [27c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27c), [36b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=36b), [52d, vijfde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=52d), zoals deze artikelen luidden op de datum vóór het tijdstip van inwerkingtreding van deze wet, gelden met ingang van dat tijdstip als ministeriële regelingen op grond van de artikelen 16, zevende lid, 17a, vierde lid, 18, tweede lid, 19, vijfde lid, 20, zesde lid, 21, vierde lid, 27c, derde lid, 36b, 52d, vijfde lid, van de Werkloosheidswet.
 
 B. Vervallen.
 
-#### Artikel 45. Voorstel van wet tot wijziging van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en de [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) in verband met de invoering van een regeling inzake de financiering van kinderopvang voor uitkeringsgerechtigden
+##### Artikel 45. Voorstel van wet tot wijziging van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en de [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) in verband met de invoering van een regeling inzake de financiering van kinderopvang voor uitkeringsgerechtigden
 
 Wijzigt de Werkloosheidswet en de Wet op de (re)integratie arbeidsgehandicapten.
 
-#### Artikel 46. [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
+##### Artikel 46. [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
 
 Wijzigt de Toeslagenwet.
 
-#### Artikel 47. Overgangsrecht wijziging [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
+##### Artikel 47. Overgangsrecht wijziging [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
 
 A. Door het Landelijk instituut sociale verzekeringen, op grond van de [artikelen 14c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=14c), en [20b, tweede lid, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=20b) zoals deze artikelen luidden op de datum vóór het tijdstip van inwerkingtreding van deze wet, gestelde regels gelden met ingang van dat tijdstip als ministeriële regelingen op grond van de artikelen 14c, derde lid, en 20b, tweede lid, van de Toeslagenwet.
 
 B. Wijzigt de Toeslagenwet.
 
-#### Artikel 48. [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
+##### Artikel 48. [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
 
 Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
-#### Artikel 49. Overgangsrecht wijziging [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
+##### Artikel 49. Overgangsrecht wijziging [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
 
 A. Door het Landelijk instituut sociale verzekeringen, op grond van de [artikelen 57b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=57b), en [29c, derde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29c), zoals deze artikelen luidden op de datum vóór het tijdstip van inwerkingtreding van deze wet, gestelde regels gelden met ingang van dat tijdstip als ministeriële regelingen op grond van de artikelen 57b en 29c, derde lid, van de Wet op de arbeidsongeschiktheidsverzekering.
 
 B. Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
-#### Artikel 50. [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
+##### Artikel 50. [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
 
 Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
 
-#### Artikel 51. Overgangsrecht wijziging [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
+##### Artikel 51. Overgangsrecht wijziging [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
 
 A. Door het Landelijk instituut sociale verzekeringen, op grond van de [artikelen 50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=50), en [65, tweede lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=65), zoals deze artikelen luidden op de datum vóór het tijdstip van inwerkingtreding van deze wet, gestelde regels gelden met ingang van dat tijdstip als ministeriële regelingen op grond van de artikelen 50, derde lid, en 65 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
 
 B. Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
 
-#### Artikel 52. [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
+##### Artikel 52. [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
 
 Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
 
-#### Artikel 53. Overgangsrecht wijziging [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
+##### Artikel 53. Overgangsrecht wijziging [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
 
 A. Door het Landelijk instituut sociale verzekeringen, op grond van de [artikelen 42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=42), en [57, tweede lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=57), zoals deze artikelen luidden op de datum vóór het tijdstip van inwerkingtreding van deze wet, gestelde regels gelden met ingang van dat tijdstip als ministeriële regelingen op grond van de artikelen 42, derde lid, en 57 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
 
 B. Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
 
-#### Artikel 54. [Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria](https://wetten.overheid.nl/jci1.3:c:BWBR0007891)
+##### Artikel 54. [Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria](https://wetten.overheid.nl/jci1.3:c:BWBR0007891)
 
 Wijzigt de Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria.
 
-#### Artikel 55. [Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006072)
+##### Artikel 55. [Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006072)
 
 Wijzigt de Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen.
 
-#### Artikel 56. [Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008658)
+##### Artikel 56. [Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008658)
 
 Wijzigt de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen.
 
-#### Artikel 57. [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
+##### Artikel 57. [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
 
 Wijzigt de Wet op de (re)integratie arbeidsgehandicapten.
 
-#### Artikel 58. Overgangsrecht wijziging [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
+##### Artikel 58. Overgangsrecht wijziging [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
 
 De regeling van het Landelijk instituut sociale verzekeringen op grond van [artikel 21, zevende lid, van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=21), zoals dit artikel luidde op de datum vóór het tijdstip van inwerkingtreding van deze wet, geldt met ingang van dat tijdstip als regeling van Onze Minister op grond van [artikel 21, zevende lid, van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=21).
 
-#### Artikel 59. [Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551)
+##### Artikel 59. [Wet overgangsregeling arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002551)
 
 Wijzigt de Wet overgangsregeling arbeidsongeschiktheidsverzekering.
 
-#### Artikel 60. [Wet aanpassing daglonen Wet overgangsregeling arbeidsongeschiktheidsverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0002762)
+##### Artikel 60. [Wet aanpassing daglonen Wet overgangsregeling arbeidsongeschiktheidsverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0002762)
 
 Wijzigt de Wet aanpassing daglonen Wet overgangsregeling arbeidsongeschiktheidsverzekeringen.
 
-#### Artikel 61. [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
+##### Artikel 61. [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
 
 Wijzigt de Ziektewet.
 
-#### Artikel 62. Overgangsrecht wijziging [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
+##### Artikel 62. Overgangsrecht wijziging [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
 
 A. Door het Landelijk instituut sociale verzekeringen, op grond van de [artikelen 33b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=33b), en [45c, derde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=45c), zoals deze artikelen luidden op de datum vóór het tijdstip van inwerkingtreding van deze wet, gestelde regels, gelden met ingang van dat tijdstip als ministeriële regelingen op grond van artikel 33b en 45c, derde lid, van de Ziektewet.
 
 B. Wijzigt de Ziektewet.
 
-#### Artikel 63. Wet [overgangsregeling Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002552)
+##### Artikel 63. Wet [overgangsregeling Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002552)
 
 Wijzigt de Overgangsregeling Ziektewet.
 
-#### Artikel 64. [Invoeringswet stelselherziening sociale zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBR0004046)
+##### Artikel 64. [Invoeringswet stelselherziening sociale zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBR0004046)
 
 Wijzigt de Invoeringswet stelselherziening sociale zekerheid.
 
-#### Artikel 65. [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
+##### Artikel 65. [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
 
 Wijzigt de Algemene Kinderbijslagwet.
 
-#### Artikel 66. Overgangsrecht wijziging [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
+##### Artikel 66. Overgangsrecht wijziging [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
 
 A. Door de Sociale verzekeringsbank, op grond van de [artikelen 17c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=17c), en [24b, tweede lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=24b), zoals deze artikelen luidden op de datum vóór het tijdstip van inwerkingtreding van deze wet, gestelde regels gelden met ingang van dat tijdstip als ministeriële regelingen op grond van de artikelen 17c, derde lid, en 24b van de Algemene Kinderbijslagwet.
 
 B. Wijzigt de Algemene Kinderbijslagwet.
 
-#### Artikel 67. [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
+##### Artikel 67. [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
 
 Wijzigt de Algemene nabestaandenwet.
 
-#### Artikel 68. Overgangsrecht wijziging [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
+##### Artikel 68. Overgangsrecht wijziging [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
 
 A. Door de Sociale verzekeringsbank, op grond van de [artikelen 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=41), en [55, tweede lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=55), zoals deze artikelen luidden op de datum vóór het tijdstip van inwerkingtreding van deze wet, gestelde regels gelden met ingang van dat tijdstip als ministeriële regelingen op grond van de artikelen 41, derde lid, en 55 van de Algemene nabestaandenwet.
 
 B. Wijzigt de Algemene nabestaandenwet.
 
-#### Artikel 69. [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
+##### Artikel 69. [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
 
 Wijzigt de Algemene Ouderdomswet.
 
-#### Artikel 70. Overgangsrecht wijziging [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
+##### Artikel 70. Overgangsrecht wijziging [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
 
 A. Door de Sociale verzekeringsbank, op grond van de [artikelen 17e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=17e), en [24b, tweede lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=24b), zoals deze artikelen luidden op de datum vóór het tijdstip van inwerkingtreding van deze wet, gestelde regels gelden met ingang van dat tijdstip als ministeriële regelingen op grond van de artikelen 17e, derde lid, en 24b van de Algemene Ouderdomswet.
 
 B. Wijzigt de Algemene Ouderdomswet.
 
-#### Artikel 71. [Wet financiering volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0004538)
+##### Artikel 71. [Wet financiering volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0004538)
 
 Wijzigt de Wet financiering volksverzekeringen.
 
-#### Artikel 72. [Wet privatisering FVP](https://wetten.overheid.nl/jci1.3:c:BWBR0009756)
+##### Artikel 72. [Wet privatisering FVP](https://wetten.overheid.nl/jci1.3:c:BWBR0009756)
 
 Wijzigt de Wet privatisering FVP.
 
-#### Artikel 73. [Wet premieregime bij marginale arbeid](https://wetten.overheid.nl/jci1.3:c:BWBR0008510)
+##### Artikel 73. [Wet premieregime bij marginale arbeid](https://wetten.overheid.nl/jci1.3:c:BWBR0008510)
 
 Wijzigt de Wet premieregeling bij marginale arbeid.
 
-#### Artikel 74. [Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126)
+##### Artikel 74. [Coördinatiewet Sociale Verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126)
 
 Wijzigt de Coördinatiewet Sociale Verzekering.
 
-#### Artikel 75. [Wet invoering mutatiesysteem AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0005306)
+##### Artikel 75. [Wet invoering mutatiesysteem AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0005306)
 
 Wijzigt de Wet invoering mutatiesysteem AKW.
 
-#### Artikel 76. [Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333)
+##### Artikel 76. [Algemene bijstandswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007333)
 
 Wijzigt de Algemene bijstandswet.
 
-#### Artikel 77. [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044)
+##### Artikel 77. [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044)
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.
 
-#### Artikel 78. [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163)
+##### Artikel 78. [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163)
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.
 
-#### Artikel 79. [Wet financiering Abw, IOAW en IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0011670)
+##### Artikel 79. [Wet financiering Abw, IOAW en IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0011670)
 
 Wijzigt de Wet financiering Abw, IOAW en IOAZ.
 
-#### Artikel 80. [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903)
+##### Artikel 80. [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903)
 
 Wijzigt de Wet sociale werkvoorziening.
 
-#### Artikel 81. [Wet inschakeling werkzoekenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009083)
+##### Artikel 81. [Wet inschakeling werkzoekenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009083)
 
 Wijzigt de Wet inschakeling werkzoekenden.
 
-#### Artikel 82. [Wet inkomensvoorziening kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0009344)
+##### Artikel 82. [Wet inkomensvoorziening kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0009344)
 
 Wijzigt de Wet inkomensvoorziening kunstenaars.
 
-#### Artikel 83. [Wet stimulering arbeidsdeelname minderheden](https://wetten.overheid.nl/jci1.3:c:BWBR0006670)
+##### Artikel 83. [Wet stimulering arbeidsdeelname minderheden](https://wetten.overheid.nl/jci1.3:c:BWBR0006670)
 
 Wijzigt de Wet stimulering arbeidsdeelname minderheden.
 
-#### Artikel 84. [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616)
+##### Artikel 84. [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616)
 
 Wijzigt de Wet allocatie arbeidskrachten door intermediairs.
 
-#### Artikel 85. [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149)
+##### Artikel 85. [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149)
 
 Wijzigt de Wet arbeid vreemdelingen.
 
-#### Artikel 86. [Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014)
+##### Artikel 86. [Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014)
 
 Wijzigt het Buitengewoon Besluit Arbeidsverhoudingen 1945.
 
-#### Artikel 87. [Wet melding collectief ontslag](https://wetten.overheid.nl/jci1.3:c:BWBR0003026)
+##### Artikel 87. [Wet melding collectief ontslag](https://wetten.overheid.nl/jci1.3:c:BWBR0003026)
 
 Wijzigt de Wet melding collectief ontslag.
 
-#### Artikel 88. [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747)
+##### Artikel 88. [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747)
 
 Wijzigt de Wet op de ondernemingsraden.
 
-#### Artikel 89. [Noodwet Arbeidsvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002759)
+##### Artikel 89. [Noodwet Arbeidsvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002759)
 
 Wijzigt de Noodwet Arbeidsvoorziening.
 
-#### Artikel 90. Wet financiering loopbaanonderbreking
+##### Artikel 90. Wet financiering loopbaanonderbreking
 
 Wijzigt de Wet financiering loopbaanonderbreking.
 
-#### Artikel 91. [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008)
+##### Artikel 91. [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008)
 
 Wijzigt de Wet arbeid en zorg.
 
 #### § 2. Justitie
 
-#### Artikel 92. [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
+##### Artikel 92. [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel 93. [Beroepswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002170)
+##### Artikel 93. [Beroepswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002170)
 
 Wijzigt de Beroepswet.
 
-#### Artikel 94. [Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045)
+##### Artikel 94. [Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045)
 
 Wijzigt Boek 2 en Boek 7 van het Burgerlijk Wetboek.
 
-#### Artikel 95. [Wet Landelijk Bureau Inning Onderhoudsbijdragen](https://wetten.overheid.nl/jci1.3:c:BWBR0007292)
+##### Artikel 95. [Wet Landelijk Bureau Inning Onderhoudsbijdragen](https://wetten.overheid.nl/jci1.3:c:BWBR0007292)
 
 Wijzigt de Wet Landelijk Bureau Inning Onderhoudsbijdragen.
 
-#### Artikel 96. [Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830)
+##### Artikel 96. [Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830)
 
 Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
 
-#### Artikel 97. [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368)
+##### Artikel 97. [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368)
 
 Wijzigt de Wet op de rechtsbijstand.
 
 #### § 3. Binnenlandse Zaken en Koninkrijksrelaties
 
-#### Artikel 98. [Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691)
+##### Artikel 98. [Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691)
 
 Wijzigt de Algemene wet politieke ambtsdragers.
 
-#### Artikel 99. [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947)
+##### Artikel 99. [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947)
 
 Wijzigt de Ambtenarenwet.
 
-#### Artikel 100. [Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791)
+##### Artikel 100. [Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791)
 
 Wijzigt de Wet privatisering ABP.
 
-#### Artikel 101. [Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211)
+##### Artikel 101. [Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211)
 
 Wijzigt de Wet financiële voorzieningen privatisering ABP.
 
-#### Artikel 102. [Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723)
+##### Artikel 102. [Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723)
 
 Wijzigt de Wet gemeentelijke basisadministratie persoonsgegevens.
 
-#### Artikel 103. [Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544)
+##### Artikel 103. [Wet inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009544)
 
 Wijzigt de Wet inburgering nieuwkomers.
 
-#### Artikel 104. [Wet overheidspersoneel onder de werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0009267)
+##### Artikel 104. [Wet overheidspersoneel onder de werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0009267)
 
 Wijzigt de Wet overheidspersoneel onder de werknemersverzekeringen.
 
-#### Artikel 105. [Wet Incompatibiliteiten Staten-Generaal en Europees Parlement](https://wetten.overheid.nl/jci1.3:c:BWBR0006612)
+##### Artikel 105. [Wet Incompatibiliteiten Staten-Generaal en Europees Parlement](https://wetten.overheid.nl/jci1.3:c:BWBR0006612)
 
 Wijzigt de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement.
 
-#### Artikel 106. [Samenloopregeling Indonesische pensioenen 1960](https://wetten.overheid.nl/jci1.3:c:BWBR0002414)
+##### Artikel 106. [Samenloopregeling Indonesische pensioenen 1960](https://wetten.overheid.nl/jci1.3:c:BWBR0002414)
 
 Wijzigt de Samenloopregeling Indonesische pensioenen 1960.
 
-#### Artikel 107. [Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424)
+##### Artikel 107. [Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424)
 
 Wijzigt de Remigratiewet.
 
-#### Artikel 108. [Wet aanpassing pensioenvoorzieningen Bijstandkorps](https://wetten.overheid.nl/jci1.3:c:BWBR0002507)
+##### Artikel 108. [Wet aanpassing pensioenvoorzieningen Bijstandkorps](https://wetten.overheid.nl/jci1.3:c:BWBR0002507)
 
 Wijzigt de Wet aanpassing pensioenvoorzieningen Bijstandkorps.
 
 #### § 4. Onderwijs, Cultuur en Wetenschappen
 
-#### Artikel 109. [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549)
+##### Artikel 109. [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549)
 
 Wijzigt de Wet op de expertisecentra.
 
-#### Artikel 110. [Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0003955)
+##### Artikel 110. [Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0003955)
 
 Wijzigt de Wet op de studiefinanciering.
 
-#### Artikel 111. Wet tegemoetkoming studiekosten
+##### Artikel 111. Wet tegemoetkoming studiekosten
 
 Wijzigt de Wet tegemoetkoming studiekosten.
 
-#### Artikel 112. [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
+##### Artikel 112. [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
-#### Artikel 113. [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420)
+##### Artikel 113. [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420)
 
 Wijzigt de Wet op het primair onderwijs.
 
-#### Artikel 114. [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399)
+##### Artikel 114. [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399)
 
 Wijzigt de Wet op het voortgezet onderwijs.
 
-#### Artikel 115. Voorstel van wet tot wijziging van enkele onderwijswetten in verband met de invoering van persoonsgebonden nummers in het onderwijs
+##### Artikel 115. Voorstel van wet tot wijziging van enkele onderwijswetten in verband met de invoering van persoonsgebonden nummers in het onderwijs
 
 Wijzigt de Wet verzelfstandiging Informatiseringsbank.
 
 #### § 5. Financiën
 
-#### Artikel 116. [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509)
+##### Artikel 116. [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509)
 
 Wijzigt de Wet toezicht verzekeringsbedrijf 1993.
 
-#### Artikel 117. [Intrekkingswet Beleggingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004446)
+##### Artikel 117. [Intrekkingswet Beleggingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004446)
 
 Wijzigt de Intrekkingswet Beleggingswet.
 
-#### Artikel 118. [Wet medefinanciering oververtegenwoordiging oudere ziekenfondsverzekerden](https://wetten.overheid.nl/jci1.3:c:BWBR0003933)
+##### Artikel 118. [Wet medefinanciering oververtegenwoordiging oudere ziekenfondsverzekerden](https://wetten.overheid.nl/jci1.3:c:BWBR0003933)
 
 Wijzigt de Wet medefinanciering oververtegenwoordiging oudere ziekenfondsverzekerden.
 
-#### Artikel 119. [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746)
+##### Artikel 119. [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746)
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
 #### § 6. Defensie
 
-#### Artikel 120. [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822)
+##### Artikel 120. [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822)
 
 Wijzigt de Wet arbeidsongeschiktheidsvoorziening militairen.
 
 #### § 7. Verkeer en Waterstaat
 
-#### Artikel 121. [Vaarplichtwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002828)
+##### Artikel 121. [Vaarplichtwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002828)
 
 Wijzigt de Vaarplichtwet.
 
-#### Artikel 122. [Wet privatisering Spoorwegpensioenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0006319)
+##### Artikel 122. [Wet privatisering Spoorwegpensioenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0006319)
 
 Wijzigt de Wet privatisering Spoorwegpensioenfonds.
 
 #### § 8. Economische Zaken
 
-#### Artikel 123. [Handelsregisterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007893)
+##### Artikel 123. [Handelsregisterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007893)
 
 Wijzigt de Handelsregisterwet.
 
 #### § 9. Volksgezondheid, Welzijn en Sport
 
-#### Artikel 124. [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)
+##### Artikel 124. [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)
 
 Wijzigt de Algemene Wet Bijzondere Ziektekosten.
 
-#### Artikel 125. [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460)
+##### Artikel 125. [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460)
 
 Wijzigt de Ziekenfondswet.
 
 ### Hoofdstuk 5. Overige en slotbepalingen
 
-#### Artikel 126. Wijziging in verband met het voorstel van [Wet verbetering poortwachter](https://wetten.overheid.nl/jci1.3:c:BWBR0013063)
+##### Artikel 126. Wijziging in verband met het voorstel van [Wet verbetering poortwachter](https://wetten.overheid.nl/jci1.3:c:BWBR0013063)
 
 Wijzigt de Ziektewet, de Wet op de arbeidsongeschikheidsverzekering, de Wet op de (re)integratie arbeidsgehandicapten, de Wet op de arbeidsongeschiktheidsverzekering zelfstandigen, de Wet op de arbeidsongeschiktheidsvoorziening jonggehandicapten, Boek 7 van het Burgerlijk Wetboek, de Wet terugdringing ziekteverzuim en de Wet verbetering poortwachter.
 
-#### Artikel 127. Regelgevende bevoegdheden ten behoeve van de invoering
+##### Artikel 127. Regelgevende bevoegdheden ten behoeve van de invoering
 
 1. Onze Minister is bevoegd in plaats van de tijdstippen, genoemd in [hoofdstuk 8 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=8), andere tijdstippen vast te stellen alsmede te bepalen dat anderszins wordt afgeweken van de bij of krachtens dat hoofdstuk gegeven regels dan wel dat de toepassing daarvan achterwege blijft, voorzover dat in verband met de datum van inwerkingtreding van de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) noodzakelijk is.
 
@@ -728,7 +756,7 @@ Wijzigt de Ziektewet, de Wet op de arbeidsongeschikheidsverzekering, de Wet op d
 
 4. Bij ministeriële regeling kan worden bepaald dat kosten in verband met de intrekking van de [Arbeidsvoorzieningswet 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008367) ten laste van het Rijk worden vergoed.
 
-#### Artikel 128. Regels voor overgang verantwoordelijkheid reïntegratie
+##### Artikel 128. Regels voor overgang verantwoordelijkheid reïntegratie
 
 1. Bij ministeriële regeling kunnen regels worden gesteld in verband met een goede overgang van taken van het Landelijk instituut sociale verzekeringen, de Arbeidsvoorzieningsorganisatie en de Sociale verzekeringsbank naar werkgevers en gemeenten ter bevordering van de inschakeling in de arbeid van uitkeringsgerechtigden en arbeidsgehandicapten, waarin in ieder geval bepaald wordt, dat en op welke wijze de daarmee samenhangende activiteiten en het verstrekken van instrumenten, waarmee voor de datum van inwerkingtreding van deze wet een aanvang is gemaakt, worden voortgezet door het Uitvoeringsinstituut werknemersverzekeringen en gemeenten, zo nodig in afwijking van de [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565), de [Wet inschakeling werkzoekenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009083) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045).
 
@@ -736,15 +764,15 @@ Wijzigt de Ziektewet, de Wet op de arbeidsongeschikheidsverzekering, de Wet op d
 
 3. In de ministeriële regeling, bedoeld in het eerst lid, kan bepaald worden, dat kosten in verband met de uitvoering van het eerste lid ten laste komen van het Reïntegratiefonds.
 
-#### Artikel 129. Benadelingshandelingen
+##### Artikel 129. Benadelingshandelingen
 
 Een rechtshandeling die door een uitvoeringsinstelling, een houdstermaatschappij als bedoeld in § 4 van het Besluit voorwaarden erkenning uitvoeringsinstelling, een stichting die de aandelen hield in zulk een houdstermaatschappij, of een stichting als bedoeld in § 3 van dat besluit, zoals dat besluit luidde tot 1 november 2000, is verricht na 23 november 1999 en voor de datum van inwerkingtreding van deze wet, en waarvan deze wist of redelijkerwijze behoorde te weten dat daaruit voor een uitvoeringsinstelling, een fonds als bedoeld in [artikel 1, onderdeel l, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=1), de stichting, bedoeld in artikel 5, eerste lid, van het Besluit voorwaarden erkenning uitvoeringsinstelling, het Uitvoeringsinstituut werknemersverzekeringen of de Staat schade voortvloeit, is vernietigbaar. De rechter kan de gevolgen van een vernietiging beperken voorzover dat nodig is ter bescherming van rechten van derden te goeder trouw.
 
-#### Artikel 130
+##### Artikel 130
 
 Vervallen
 
-#### Artikel 131. Intrekking wetten
+##### Artikel 131. Intrekking wetten
 
 De volgende wetten worden ingetrokken:
 
@@ -760,13 +788,13 @@ De volgende wetten worden ingetrokken:
 
 - f. Wet eenmalige toelage 1990.
 
-#### Artikel 132. Inwerkingtreding
+##### Artikel 132. Inwerkingtreding
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 2. Indien het bij koninklijke boodschap van 2 maart 2000 ingediende voorstel van een [Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701) (Kamerstukken II 1999/2000, 27 034) tot wet wordt verheven en in werking treedt, en deze wet wordt bekrachtigd op of na het tijdstip van inwerkingtreding van de [Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701), kan bij de toepassing van het eerste lid worden afgeweken van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=12) en [13 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=13) en vindt in dat geval [artikel 16 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) toepassing.
 
-#### Artikel 133. Citeertitel
+##### Artikel 133. Citeertitel
 
 Deze wet wordt aangehaald als: Invoeringswet Wet structuur uitvoeringsorganisatie werk en inkomen.
 

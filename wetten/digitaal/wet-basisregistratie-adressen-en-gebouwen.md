@@ -1,14 +1,41 @@
 ---
-title: "Wet basisregistratie adressen en gebouwen"
+title: "Wet van 24 januari 2008, houdende regels omtrent de basisregistraties adressen en gebouwen (Wet basisregistraties adressen en gebouwen)"
 identifier: "BWBR0023466"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2025-02-12
-laatste_update: 2025-02-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023466"
+country: "nl"
+rank: "wet"
+publication_date: "2025-02-12"
+last_updated: "2025-02-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023466"
+soort: "wet"
+stam_id: "9416513"
+version_id: "15159542"
+internal_id: "C22661821"
+label_id: "9394584"
+dtd_version: "2.0"
+original_entry_into_force: "2009-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023466/2025-02-12/0"
+intitule_bron: "Stb.2008-39"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-01-24"
+intitule_published: "2008-02-14"
+intitule_in_force: "2009-06-25"
+intitule_status: "goed"
+original_publication: "Stb.2008-39"
+original_signed_date: "2008-01-24"
+original_published_date: "2008-02-14"
+original_effect: "nieuwe-regeling"
+original_dossier: "30968"
+original_url_id: "stb-2008-39"
+entry_into_force_date: "2009-07-01"
+jci_1_3: "jci1.3:c:BWBR0023466&z=2025-02-12&g=2025-02-12"
+jci_1_0: "1.0:c:BWBR0023466&g=2025-02-12"
+citeertitel_status: "officieel"
+short_title: "Wet basisregistratie adressen en gebouwen"
+signed_date: "2008-01-24"
+entry_into_force: "2009-07-01"
 ---
-
-# Wet basisregistratie adressen en gebouwen
+# Wet van 24 januari 2008, houdende regels omtrent de basisregistraties adressen en gebouwen (Wet basisregistraties adressen en gebouwen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -50,7 +77,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - n. woonplaats: door het bevoegde gemeentelijke orgaan als zodanig aangewezen en van een naam voorzien gedeelte van het grondgebied van de gemeente.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Burgemeester en wethouders houden een geautomatiseerde basisregistratie adressen en gebouwen.
 
@@ -70,11 +97,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - 5°. een aanduiding van een verblijfsobject, een standplaats, een ligplaats of een situatie als bedoeld in de aanhef en onder 1° of 2°, niet zijnde een nummeraanduiding.
 
-#### Artikel 3
+##### Artikel 3
 
 De basisregistratie wordt gehouden met als doel het aan eenieder beschikbaar stellen van de bij of krachtens deze wet in de basisregistratie opgenomen gegevens.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Ten aanzien van de verwerking van persoonsgegevens ter uitvoering van deze wet zijn burgemeester en wethouders respectievelijk is het bestuur van de Dienst, ieder voor zover die verwerking onder hun respectievelijk zijn verantwoordelijkheid plaatsvindt, verwerkingsverantwoordelijke.
 
@@ -82,11 +109,11 @@ De basisregistratie wordt gehouden met als doel het aan eenieder beschikbaar ste
 
 3. Gegevens uit de basisregistratie die kunnen worden herleid tot een geïdentificeerde of identificeerbare natuurlijk persoon worden niet verstrekt, indien de afnemer die gegevens verwerkt op de grond, genoemd in artikel 6, eerste lid, onderdeel b, van de Algemene verordening gegevensbescherming.
 
-#### Artikel 5
+##### Artikel 5
 
 In de basisregistratie gebouwen worden geen gegevens opgenomen met betrekking tot panden, verblijfsobjecten, standplaatsen of ligplaatsen die in gebruik zijn bij de krijgsmacht of bij een krijgsmacht van een bondgenootschappelijke mogendheid, voor zover tegen het opnemen van die gegevens naar het oordeel van Onze Minister van Defensie bezwaar bestaat.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De gemeenteraad deelt het grondgebied van de gemeente in een of meer woonplaatsen in, stelt de openbare ruimten vast en kent nummeraanduidingen toe aan de op het grondgebied van de gemeente gelegen verblijfsobjecten, standplaatsen en ligplaatsen.
 
@@ -96,15 +123,15 @@ In de basisregistratie gebouwen worden geen gegevens opgenomen met betrekking to
 
 4. Bij algemene maatregel van bestuur worden regels gegeven ten aanzien van de indeling, de vaststelling en de toekenning, bedoeld in het eerste en tweede lid, en kunnen regels worden gegeven ten aanzien van de afbakening, bedoeld in het derde lid.
 
-#### Artikel 6a
+##### Artikel 6a
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 1. De door burgemeester en wethouders aangewezen ambtenaren die zijn belast met de vaststelling van geometrische gegevens van panden en verblijfsobjecten zijn bevoegd, met medeneming van de benodigde apparatuur en andere hulpmiddelen, elke plaats te betreden, onverminderd [artikel 2 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2), en daar waarnemingen of metingen te verrichten, voor zover dat redelijkerwijs nodig is voor de vervulling van hun taak.
 
@@ -116,11 +143,11 @@ Vervallen
 
 ### Hoofdstuk 2. Brondocumenten
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Het bijhouden van de basisregistratie vindt plaats op basis van brondocumenten. Als brondocumenten worden gebruikt:
 
@@ -132,15 +159,15 @@ Het bijhouden van de basisregistratie vindt plaats op basis van brondocumenten. 
 
 - 2°. een situatie als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=1&artikel=2&z=2025-02-12&g=2025-02-12).
 
-#### Artikel 11
+##### Artikel 11
 
 Bij algemene maatregel van bestuur kunnen in het belang van het goed functioneren van de basisregistratie nadere regels worden gegeven ten aanzien van brondocumenten als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=2&artikel=10&z=2025-02-12&g=2025-02-12).
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Een brondocument waaraan een in de basisregistratie opgenomen gegeven is ontleend, wordt door burgemeester en wethouders blijvend bewaard.
 
@@ -148,25 +175,25 @@ Een brondocument waaraan een in de basisregistratie opgenomen gegeven is ontleen
 
 #### § 1. Algemeen
 
-#### Artikel 14
+##### Artikel 14
 
 1. Burgemeester en wethouders dragen zorg voor een goede beschikbaarheid, werking en beveiliging van de basisregistratie.
 
 2. Bij ministeriële regeling kunnen regels worden gegeven omtrent de technische en administratieve inrichting van de basisregistratie.
 
-#### Artikel 14a
+##### Artikel 14a
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 1. Bij algemene maatregel van bestuur kunnen regels worden gegeven met betrekking tot het bijhouden van de basisregistratie.
 
@@ -176,13 +203,13 @@ Vervallen
 
 - b. de beschrijving van het koppelvlak met de landelijke voorziening ten behoeve van het elektronisch berichtenverkeer met die voorziening.
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
 #### § 2. De inhoud van de basisregistratie
 
-#### Artikel 19
+##### Artikel 19
 
 1. In de basisregistratie worden een identificerend objectnummer, beschrijvende gegevens, temporele gegevens en meta-gegevens opgenomen over de in de gemeente bestaande:
 
@@ -210,29 +237,29 @@ Vervallen
 
 - b. de aantekening «in onderzoek», indien toepassing is gegeven aan [artikel 39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=39&z=2025-02-12&g=2025-02-12), of [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=41&z=2025-02-12&g=2025-02-12).
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
 #### § 3. De gebouwenregistratie
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
@@ -240,21 +267,21 @@ Vervallen
 
 #### § 1. Algemeen
 
-#### Artikel 26
+##### Artikel 26
 
 De Dienst houdt een geautomatiseerde landelijke voorziening waarin de gegevens uit de in de gemeenten gehouden basisregistratie zijn opgenomen.
 
-#### Artikel 27
+##### Artikel 27
 
 Het bestuur van de Dienst draagt er zorg voor dat de weergave van een in de landelijke voorziening opgenomen gegeven overeenstemt met het overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=4&paragraaf=3&artikel=31&z=2025-02-12&g=2025-02-12) door burgemeester en wethouders verstrekte gegeven.
 
-#### Artikel 28
+##### Artikel 28
 
 Bij algemene maatregel van bestuur kunnen regels worden gegeven omtrent het beheer, de vorm en de inrichting van de landelijke voorziening.
 
 #### § 2. Overleg
 
-#### Artikel 29
+##### Artikel 29
 
 1. De Dienst beheert de landelijke voorziening in overleg met een representatieve vertegenwoordiging van burgemeester en wethouders van de gemeenten.
 
@@ -262,7 +289,7 @@ Bij algemene maatregel van bestuur kunnen regels worden gegeven omtrent het behe
 
 3. De uitkomsten van het overleg, bedoeld in het eerste en tweede lid, worden medegedeeld aan Onze Minister.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Omtrent de werking van de landelijke voorziening en andere aangelegenheden betreffende het gebruik van de basisregistratie, voeren de Dienst en een representatieve vertegenwoordiging van burgemeester en wethouders van de gemeenten overleg met een representatieve vertegenwoordiging van de afnemers.
 
@@ -270,7 +297,7 @@ Bij algemene maatregel van bestuur kunnen regels worden gegeven omtrent het behe
 
 #### § 3. Verkeer tussen bronhouders en landelijke voorziening
 
-#### Artikel 31
+##### Artikel 31
 
 1. Burgemeester en wethouders verstrekken de in de door hen gehouden basisregistratie opgenomen gegevens dan wel een wijziging van die gegevens binnen een werkdag na de verwerking van die gegevens respectievelijk de wijziging van die gegevens langs elektronische weg aan de Dienst ten behoeve van opneming van die gegevens in de landelijke voorziening.
 
@@ -280,7 +307,7 @@ Bij algemene maatregel van bestuur kunnen regels worden gegeven omtrent het behe
 
 #### § 1. Inzage en verstrekking van gegevens
 
-#### Artikel 32
+##### Artikel 32
 
 1. Op verzoek:
 
@@ -298,11 +325,11 @@ Bij algemene maatregel van bestuur kunnen regels worden gegeven omtrent het behe
 
 4. Bij ministeriële regeling kunnen regels worden gegeven omtrent de inzage in en het verstrekken van gegevens als bedoeld in het eerste lid.
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 
-#### Artikel 34
+##### Artikel 34
 
 1. Bij ministeriële regeling kunnen tarieven worden vastgesteld voor het verlenen van inzage in de landelijke voorziening en het verstrekken van de in de landelijke voorziening opgenomen gegevens.
 
@@ -316,7 +343,7 @@ Vervallen
 
 ### Hoofdstuk 6. Wijziging van de in de registraties opgenomen gegevens
 
-#### Artikel 37
+##### Artikel 37
 
 1. Een bestuursorgaan dat gegevens uit de basisregistratie van burgemeester en wethouders of uit de landelijke voorziening heeft verkregen en gerede twijfel heeft over de juistheid of volledigheid van een in de basisregistratie opgenomen authentiek gegeven, doet van de onjuistheid of het ontbreken van een authentiek gegeven onder opgaaf van redenen melding aan de Dienst of aan burgemeester en wethouders die de betrokken basisregistratie houden. De Dienst stuurt een ontvangen melding binnen één werkdag door aan burgemeester en wethouders die de betrokken basisregistratie houden.
 
@@ -326,11 +353,11 @@ Vervallen
 
 - b. een beperking van de kring van bestuursorganen die verplicht zijn toepassing te geven aan het eerste lid.
 
-#### Artikel 38
+##### Artikel 38
 
 De belanghebbende die gerede twijfel heeft over de juistheid van een in de basisregistratie opgenomen authentiek gegeven of het ontbreken van een authentiek gegeven in de basisregistratie kan burgemeester en wethouders onder opgaaf van redenen verzoeken dat gegeven te wijzigen respectievelijk op te nemen in de basisregistratie.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Na ontvangst van een melding als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=37&z=2025-02-12&g=2025-02-12) of een verzoek als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=38&z=2025-02-12&g=2025-02-12) besluiten burgemeester en wethouders over de wijziging respectievelijk opneming van het desbetreffende authentieke gegeven.
 
@@ -338,13 +365,13 @@ De belanghebbende die gerede twijfel heeft over de juistheid van een in de basis
 
 3. Burgemeester en wethouders beslissen zo spoedig mogelijk doch niet later dan een bij algemene maatregel van bestuur te bepalen termijn na ontvangst van de melding, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=37&z=2025-02-12&g=2025-02-12), respectievelijk het verzoek, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=38&z=2025-02-12&g=2025-02-12), omtrent wijziging respectievelijk opneming van het desbetreffende authentieke gegeven.
 
-#### Artikel 40
+##### Artikel 40
 
 1. Op het moment dat burgemeester en wethouders hebben beslist over de wijziging respectievelijk opneming van het desbetreffende authentieke gegeven verwijderen zij de aantekening «in onderzoek» uit de basisregistratie.
 
 2. Burgemeester en wethouders maken hun beslissing over wijziging respectievelijk opneming van het desbetreffende authentieke gegeven onverwijld bekend aan het bestuursorgaan dat de melding, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=37&z=2025-02-12&g=2025-02-12), heeft gedaan respectievelijk de belanghebbende die het verzoek, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=38&z=2025-02-12&g=2025-02-12), heeft gedaan.
 
-#### Artikel 41
+##### Artikel 41
 
 1. De beslissing van burgemeester en wethouders over wijziging respectievelijk opneming van een gegeven naar aanleiding van een verzoek als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=38&z=2025-02-12&g=2025-02-12) is een besluit.
 
@@ -354,7 +381,7 @@ De belanghebbende die gerede twijfel heeft over de juistheid van een in de basis
 
 ### Hoofdstuk 7. Toezicht en controle
 
-#### Artikel 42
+##### Artikel 42
 
 1. Burgemeester en wethouders controleren één maal per jaar de inrichting en de werking van de basisregistratie, alsmede de verwerking van gegevens in de basisregistratie.
 
@@ -366,43 +393,43 @@ De belanghebbende die gerede twijfel heeft over de juistheid van een in de basis
 
 - b. kunnen nadere regels worden gegeven omtrent de uitvoering van de verplichting, bedoeld in het tweede lid, eerste volzin.
 
-#### Artikel 43
+##### Artikel 43
 
 Vervallen
 
-#### Artikel 44
+##### Artikel 44
 
 Vervallen
 
-#### Artikel 45
+##### Artikel 45
 
 Vervallen
 
 ### Hoofdstuk 8. Overgangs- en slotbepalingen
 
-#### Artikel 45a
+##### Artikel 45a
 
 Vervallen
 
-#### Artikel 45b
+##### Artikel 45b
 
 Vervallen
 
-#### Artikel 46
+##### Artikel 46
 
 Onze Minister zendt vier jaar na inwerkingtreding van de Wet van 10 februari 2017 tot wijziging van de Wet basisregistraties adressen en gebouwen en enige andere wetten in verband met modernisering en vereenvoudiging van de registratie en het toezicht (Stb. 2017, 60) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 47
+##### Artikel 47
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 48
+##### Artikel 48
 
 Deze wet wordt aangehaald als: Wet basisregistratie adressen en gebouwen.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Indien een bestuursorgaan bij het vervullen van zijn publiekrechtelijke taak een gegeven nodig heeft dat krachtens deze wet als authentiek gegeven in de basisregistratie beschikbaar is, gebruikt het dat authentieke gegeven.
 
@@ -418,7 +445,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - e. bij wettelijk voorschrift anders is bepaald dan in het eerste lid.
 
-#### Artikel 36
+##### Artikel 36
 
 Degene aan wie door een bestuursorgaan gevraagd wordt om een gegeven te verstrekken dat krachtens deze wet als authentiek gegeven in de basisregistratie beschikbaar is, behoeft dat gegeven niet te verstrekken behoudens:
 

@@ -1,16 +1,41 @@
 ---
 title: "Besluit verpakte geneesmiddelen BES"
 identifier: "BWBR0028452"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2011-10-04
-laatste_update: 2011-10-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028452"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2011-10-04"
+last_updated: "2011-10-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028452"
+soort: "AMvB-BES"
+stam_id: "10788493"
+version_id: "17766802"
+internal_id: "C24791091"
+label_id: "10763364"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028452/2011-10-04/0"
+intitule_bron: "Stb.2010-652"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-21"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-652"
+original_signed_date: "2010-09-21"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-652"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028452&z=2011-10-04&g=2011-10-04"
+jci_1_0: "1.0:c:BWBR0028452&g=2011-10-04"
+citeertitel_status: "officieel"
+signed_date: "2010-09-21"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit verpakte geneesmiddelen BES
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van het bij of krachtens deze algemene maatregel van bestuur bepaalde wordt verstaan onder:
 
@@ -24,11 +49,11 @@ Voor de toepassing van het bij of krachtens deze algemene maatregel van bestuur 
 
 - **groothandelaar:** ieder die krachtens een vergunning als bedoeld in [artikel 3 lid 1 onder d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=3) verpakte geneesmiddelen aflevert.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Dit besluit berust op de [artikelen 5, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=5) en [6 van de Wet op de geneesmiddelenvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=6).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het in [artikel 5 lid 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=5) vervatte verbod tot invoer van ongeregistreerde verpakte geneesmiddelen geldt niet:
 
@@ -42,7 +67,7 @@ Dit besluit berust op de [artikelen 5, vierde lid, onder b](https://wetten.overh
 
 - b. indien de invoer geschiedt krachtens een schriftelijke toestemming van de Inspecteur. De Inspecteur verleent de vergunning slechts aan apothekers en apotheekhoudende geneeskundigen in bijzondere gevallen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De bereiding van verpakte geneesmiddelen door een fabrikant mag slechts geschieden onder toezicht van een apotheker, die niet in de uitoefening van zijn bevoegdheid is geschorst of wie deze bevoegdheid niet is ontnomen.
 
@@ -54,7 +79,7 @@ Dit besluit berust op de [artikelen 5, vierde lid, onder b](https://wetten.overh
 
 5. Tegen weigering of intrekking van de ontheffing staat beroep open op de voet van het bepaalde in het [vierde lid van artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=3).
 
-#### Artikel 4
+##### Artikel 4
 
 1. De bereiding van verpakte geneesmiddelen mag slechts plaats vinden in uitsluitend daarvoor bestemde lokalen, welke voldoende verlicht en geventileerd zijn en, met inbegrip van alle daarin aanwezige voorwerpen, in ordelijke en zindelijke toestand verkeren; zelfstandigheden welke voor de bereiding niet gebruikt worden, mogen daarin niet aanwezig zijn.
 
@@ -62,7 +87,7 @@ Dit besluit berust op de [artikelen 5, vierde lid, onder b](https://wetten.overh
 
 3. Voor de bereiding van verpakte geneesmiddelen mag uitsluitend worden gebruik gemaakt van deugdelijke machines, werktuigen en verdere benodigdheden, welke in voldoende aantal aanwezig moeten zijn.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Van de bereiding van elke charge van een verpakt geneesmiddel en van de daarbij verrichte onderzoekingen moeten protocollen worden bijgehouden waarin het chargenummer, de bijzonderheden der bereiding en de uitkomsten der onderzoekingen worden aangetekend.
 
@@ -70,7 +95,7 @@ Dit besluit berust op de [artikelen 5, vierde lid, onder b](https://wetten.overh
 
 3. De protocollen dienen door de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028452&artikel=3&z=2011-10-04&g=2011-10-04) bedoelde apotheker mede te zijn ondertekend, Zij moeten aan de personen, bedoeld in [artikel 50 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=50) op eerste verzoek ter inzage worden verstrekt.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Behoudens indien zulks geschiedt voor eigen gebruik, is het verboden om zonder vergunning van onze Minister verpakte geneesmiddelen in te voeren.
 
@@ -92,7 +117,7 @@ Dit besluit berust op de [artikelen 5, vierde lid, onder b](https://wetten.overh
 
 10. De goedkeuring, bedoeld in het achtste lid, geschiedt door waarmerking van begeleidende douane documenten van de te importeren geneesmiddelen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De fabrikant of importeur van een geregistreerd verpakt geneesmiddel is ervoor verantwoordelijk, dat het geneesmiddel, wanneer het door hem wordt afgeleverd:
 
@@ -106,7 +131,7 @@ Dit besluit berust op de [artikelen 5, vierde lid, onder b](https://wetten.overh
 
 2. De fabrikant of importeur is verplicht, met inachtneming van [artikel 13 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028452&artikel=13&z=2011-10-04&g=2011-10-04), aan de commissie onmiddellijk schriftelijk opgave te doen van elke wijziging in of aanvulling van de gegevens welke bij het verzoek tot inschrijving in het register bedoeld in [artikel 53 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=53) hetzij bedoeld in [artikel 5, tweede lid, van de Wet op de geneesmiddelenvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=5) werden overgelegd.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Op de buitenzijde der verpakking van elke verpakkingseenheid van een geregistreerd verpakt geneesmiddel moeten behalve de naam van het geneesmiddel zijn vermeld:
 
@@ -130,17 +155,17 @@ Dit besluit berust op de [artikelen 5, vierde lid, onder b](https://wetten.overh
 
 - d. de naam van de fabrikant of importeur.
 
-#### Artikel 9
+##### Artikel 9
 
 Zij, die verpakte geneesmiddelen op voorraad mogen hebben, mogen afleveren of terhandstellen, dragen zorg dat deze op deugdelijke, zindelijke en ordelijke wijze worden bewaard en dat hun ruimten en inrichting daartoe voldoende zijn.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Bij aflevering of terhandstelling mogen de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028452&artikel=8&z=2011-10-04&g=2011-10-04) bedoelde vermeldingen op de verpakking en op het voorwerp dat het middel bevat niet onleesbaar zijn gemaakt, gewijzigd of aangevuld. Het bepaalde in de voorgaande volzin geldt niet bij aflevering of terhandstelling op recept.
 
 2. Het is verboden verpakte geneesmiddelen af te leveren of terhand te stellen, waarvan de in [artikel 8 lid 1 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028452&artikel=8&z=2011-10-04&g=2011-10-04) bedoelde datum is verstreken.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De verpakte geneesmiddelen welke als UR-geneesmiddelen staan vermeld in de lijst, bedoeld in [artikel 60 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=60), mogen door fabrikanten, groothandelaren en importeurs, behoudens aan elkander, slechts worden afgeleverd aan ingeschreven apothekers en apotheekhoudende geneeskundigen.
 
@@ -148,7 +173,7 @@ Zij, die verpakte geneesmiddelen op voorraad mogen hebben, mogen afleveren of te
 
 3. De vereisten in het eerste en tweede lid gelden ook voor verpakte geneesmiddelen welke zijn ingeschreven in het register bedoeld in [artikel 5, tweede lid, van de Wet op de geneesmiddelenvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=5) en die ingevolge het [tweede lid van artikel 16 van de Wet op de geneesmiddelenvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=16) zijn aangewezen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een ongeregistreerd verpakt geneesmiddel, dat zich nog in het stadium van proefneming bevindt, mag slechts worden afgeleverd aan één of een aantal geneeskundigen uitsluitend voor klinisch onderzoek van het geneesmiddel.
 
@@ -156,59 +181,59 @@ Zij, die verpakte geneesmiddelen op voorraad mogen hebben, mogen afleveren of te
 
 3. Op de verpakking, waarin het geneesmiddel wordt afgeleverd, moet duidelijk worden vermeld, dat het geneesmiddel is afgeleverd uitsluitend voor klinisch onderzoek daarvan en niet in de handel mag worden gebracht.
 
-#### Artikel 13
+##### Artikel 13
 
 [vervallen]
 
-#### Artikel 14
+##### Artikel 14
 
 [vervallen]
 
-#### Artikel 15
+##### Artikel 15
 
 [vervallen]
 
-#### Artikel 16
+##### Artikel 16
 
 [vervallen]
 
-#### Artikel 17
+##### Artikel 17
 
 [vervallen]
 
-#### Artikel 18
+##### Artikel 18
 
 [vervallen]
 
-#### Artikel 19
+##### Artikel 19
 
 [vervallen]
 
-#### Artikel 20
+##### Artikel 20
 
 [vervallen]
 
-#### Artikel 21
+##### Artikel 21
 
 [vervallen]
 
-#### Artikel 22
+##### Artikel 22
 
 [vervallen]
 
-#### Artikel 23
+##### Artikel 23
 
 1. Reclame voor verpakte geneesmiddelen is toegestaan, tenzij Onze Minister bij ministeriële regeling verpakte geneesmiddelen aanwijst, ten aanzien waarvan geen reclame is toegestaan.
 
 2. Een aanwijzing als bedoeld in het vorige lid wordt enkel gegeven met het oog op het belang van de algemene volksgezondheid.
 
-#### Artikel 23a
+##### Artikel 23a
 
 1. De vermeldingen «Raadpleeg uw huisarts of apotheker, alvorens enige medicijn te gebruiken» en «Lees voor het kopen of gebruiken eerst de aanwijzingen op de verpakking» worden in reclame voor verpakte geneesmiddelen opgenomen.
 
 2. Deze vermeldingen dienen te geschieden in de landstaal en in de taal welke gebezigd werd bij de daaraan voorafgegane reclame.
 
-#### Artikel 23b
+##### Artikel 23b
 
 1. De reclame dient eerlijk, echt en controleerbaar te zijn. Voorts mogen geen aanduidingen gebezigd worden in woord of beeld die doordat ze onjuist of onvolledig zijn of een onjuiste indruk wekken, misleidend zijn met betrekking tot de aard of eigenschappen, de samenstelling, de oorsprong, herkomst, de wijze van bereiding, het gebruik, de werking of de houdbaarheid.
 
@@ -256,26 +281,26 @@ Zij, die verpakte geneesmiddelen op voorraad mogen hebben, mogen afleveren of te
 
 - 6°. diabetes en andere stofwisselingsziekten.
 
-#### Artikel 24
+##### Artikel 24
 
 De bepalingen van deze algemene maatregel van bestuur zijn eveneens van toepassing op elk geneesmiddel, dat na bereiding en aflevering in het groot als zodanig geschikt is om na verpakking als verpakt geneesmiddel aan de verbruiker te kunnen worden af geleverd, behoudens al of niet samengestelde geneesmiddelen met generische namen, welke voldoen aan de vereisten van en als zodanig vermeld zijn in één der erkende farmacopees, en de naam van de betreffende farmacopee op de verpakking dragen, alsmede andere daarmee gelijkgestelde geneesmiddelen met generische namen.
 
-#### Artikel 25
+##### Artikel 25
 
 [vervallen]
 
 ## Overgangsbepalingen
 
-#### Artikel 26
+##### Artikel 26
 
 1. De geneesmiddelen welke bij Ministeriële Beschikking van de 29ste september 1961 (P.B. 1961 no. 159) aangewezen waren als geneesmiddelen, welke anderen dan de in [artikel 3 lid 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=3) bedoelde personen ter aflevering in voorraad mogen hebben en afleveren, worden verondersteld overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028452&artikel=14&z=2011-10-04&g=2011-10-04) op 1 januari 1963 in het register te zijn ingeschreven.
 
 2. [Artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028452&artikel=25&z=2011-10-04&g=2011-10-04) is ten aanzien van deze veronderstelde inschrijving van overeenkomstige toepassing.
 
-#### Artikel 27
+##### Artikel 27
 
 Alle stukken ingevolge de bepalingen van deze algemene maatregel van bestuur opgemaakt of ingediend, zijn vrijgesteld van zegel.
 
-#### Artikel 28
+##### Artikel 28
 
 Dit besluit wordt aangehaald als: Besluit verpakte geneesmiddelen BES.

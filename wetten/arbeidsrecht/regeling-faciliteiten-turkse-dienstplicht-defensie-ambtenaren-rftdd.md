@@ -1,13 +1,37 @@
 ---
 title: "Regeling faciliteiten Turkse dienstplicht defensie-ambtenaren (RFTDD)"
 identifier: "BWBR0013727"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2002-06-01
-laatste_update: 2002-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013727"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2002-06-01"
+last_updated: "2002-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013727"
+soort: "ministeriele-regeling"
+stam_id: "5016403"
+version_id: "8685552"
+internal_id: "C26259011"
+label_id: "4992814"
+dtd_version: "2.0"
+original_entry_into_force: "2002-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013727/2002-06-01/0"
+intitule_bron: "Stcrt.2002-112"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-05-30"
+intitule_published: "2002-06-17"
+intitule_in_force: "2002-06-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2002-112"
+original_signed_date: "2002-05-30"
+original_published_date: "2002-06-17"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-06-01"
+jci_1_3: "jci1.3:c:BWBR0013727&z=2002-06-01&g=2002-06-01"
+jci_1_0: "1.0:c:BWBR0013727&g=2002-06-01"
+citeertitel_status: "officieel"
+signed_date: "2002-05-30"
+entry_into_force: "2002-06-01"
 ---
-
 # Regeling faciliteiten Turkse dienstplicht defensie-ambtenaren (RFTDD)
 
 Gelet op:
@@ -20,17 +44,17 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Voorzieningen en voorwaarden
 
-#### Artikel 2. Voorzieningen
+##### Artikel 2. Voorzieningen
 
 Aan de belanghebbende die toestemming van de Turkse overheid heeft verkregen zijn dienstplicht in Turkije af te kopen kan door de bevoegde autoriteit éénmalig een renteloze lening van ten hoogste € 6000 worden verleend alsmede 20 werkdagen buitengewoon verlof met behoud van bezoldiging.
 
-#### Artikel 3. Voorwaarden
+##### Artikel 3. Voorwaarden
 
 1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013727&hoofdstuk=2&artikel=2&z=2002-06-01&g=2002-06-01) genoemde renteloze lening en het buitengewoon verlof worden op aanvraag van de belanghebbende militair verleend, nadat deze, te rekenen vanaf de datum waarop hij de initiële opleiding met gunstig gevolg heeft afgesloten, tenminste één jaar onafgebroken in dienst is bij het ministerie van Defensie en als zodanig goed functioneert.
 
@@ -44,7 +68,7 @@ Aan de belanghebbende die toestemming van de Turkse overheid heeft verkregen zij
 
 ### Hoofdstuk 3. Aanvraag, verplichtingen bij terugkeer en afwikkeling renteloze lening
 
-#### Artikel 4. Aanvraag
+##### Artikel 4. Aanvraag
 
 1. De aanvraag om verlof en de renteloze lening dient tenminste 6 maanden voor het begin van de gewenste verlofperiode bij de commandant/hoofd van dienst te worden ingediend.
 
@@ -64,7 +88,7 @@ Aan de belanghebbende die toestemming van de Turkse overheid heeft verkregen zij
 
 3. De commandant/hoofd van dienst voorziet de in het tweede lid onder a. genoemde kopieën van zijn waarmerk en stuurt de aanvraag, samen met de overige door belanghebbende te voegen documenten, ter behandeling door naar de bevoegde autoriteit.
 
-#### Artikel 5. Verplichtingen bij terugkeer
+##### Artikel 5. Verplichtingen bij terugkeer
 
 1. Na terugkeer van belanghebbende bij zijn diensteenheid is hij verplicht onverwijld de volgende documenten te overleggen:
 
@@ -74,7 +98,7 @@ Aan de belanghebbende die toestemming van de Turkse overheid heeft verkregen zij
 
 2. De commandant/hoofd van dienst voorziet het in het eerste lid onder a. genoemde bewijsstuk van zijn waarmerk en stuurt dit, samen met de in het eerste lid onder b. genoemde vertaling, naar de bevoegde autoriteit.
 
-#### Artikel 6. Afwikkeling renteloze lening
+##### Artikel 6. Afwikkeling renteloze lening
 
 1. De fiscale consequenties van het verstrekken van de renteloze lening komen voor rekening van belanghebbende.
 
@@ -88,15 +112,15 @@ Aan de belanghebbende die toestemming van de Turkse overheid heeft verkregen zij
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 7. Nadere administratieve regels
+##### Artikel 7. Nadere administratieve regels
 
 Ter uitvoering van deze regeling kan de bevoegde autoriteit nadere administratieve regels stellen.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Deze regeling treedt in werking op 1 juni 2002.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling faciliteiten Turkse dienstplicht defensie-ambtenaren (RFTDD).
 

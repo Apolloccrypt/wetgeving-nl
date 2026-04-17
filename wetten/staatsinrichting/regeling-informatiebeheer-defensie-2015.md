@@ -1,20 +1,45 @@
 ---
 title: "Regeling informatiebeheer Defensie 2015"
 identifier: "BWBR0037039"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2024-11-07
-laatste_update: 2024-11-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037039"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-11-07"
+last_updated: "2024-11-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037039"
+soort: "ministeriele-regeling"
+stam_id: "13262923"
+version_id: "22692222"
+internal_id: "C32820781"
+label_id: "13230994"
+dtd_version: "2.0"
+original_entry_into_force: "2015-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037039/2024-11-07/0"
+intitule_bron: "Stcrt.2015-31912"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-09-10"
+intitule_published: "2015-09-29"
+intitule_in_force: "2015-09-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-31912"
+original_signed_date: "2015-09-10"
+original_published_date: "2015-09-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-31912"
+entry_into_force_date: "2015-10-01"
+jci_1_3: "jci1.3:c:BWBR0037039&z=2024-11-07&g=2024-11-07"
+jci_1_0: "1.0:c:BWBR0037039&g=2024-11-07"
+citeertitel_status: "officieel"
+signed_date: "2015-09-10"
+entry_into_force: "2015-10-01"
 ---
-
 # Regeling informatiebeheer Defensie 2015
 
 Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14) en op [artikel 1 van het Koninklijk besluit van 18 oktober 1988, Stb. 499, 1988, houdende regeling functie en verantwoordelijkheid van de Secretaris Generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0004419&artikel=1);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -42,7 +67,7 @@ In deze regeling wordt verstaan onder:
 
 - l. **zorgdrager:** Minister van Defensie.
 
-#### Artikel 2. Minister en Secretaris-Generaal
+##### Artikel 2. Minister en Secretaris-Generaal
 
 1. De Minister is zorgdrager in de zin van [artikel 1 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1) voor de informatieobjecten van het ministerie.
 
@@ -52,7 +77,7 @@ In deze regeling wordt verstaan onder:
 
 4. De Secretaris-Generaal stelt het Besluit beperking openbaarheid vast indien bij de overbrenging naar een archiefbewaarplaats beperkingen worden gesteld aan de openbaarheid van de informatieobjecten.
 
-#### Artikel 3. Plaatsvervangend Secretaris-Generaal en commandanten van defensieonderdelen
+##### Artikel 3. Plaatsvervangend Secretaris-Generaal en commandanten van defensieonderdelen
 
 1. De plaatsvervangend Secretaris-Generaal en de commandanten van de defensieonderdelen zijn ten aanzien van het informatiebeheer van het eigen defensieonderdeel verantwoordelijk voor:
 
@@ -68,7 +93,7 @@ In deze regeling wordt verstaan onder:
 
 - c. oefenen de bevoegdheid uit, genoemd in [artikel 8, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037039&artikel=8&z=2024-11-07&g=2024-11-07).
 
-#### Artikel 4. Chief Information Officer
+##### Artikel 4. Chief Information Officer
 
 1. De Chief Information Officer is belast met:
 
@@ -84,7 +109,7 @@ In deze regeling wordt verstaan onder:
 
 - b. het nemen van een vervangingsbesluit dat is vereist voor vervanging van informatieobjecten.
 
-#### Artikel 5. Directeur Joint Informatievoorzieningscommando
+##### Artikel 5. Directeur Joint Informatievoorzieningscommando
 
 De Directeur van het Joint Informatievoorzieningscommando is ten aanzien van het informatiebeheer belast met:
 
@@ -108,11 +133,11 @@ De Directeur van het Joint Informatievoorzieningscommando is ten aanzien van het
 
 - j. het opstellen van het Besluit beperking openbaarheid, dat voortvloeit uit het gestelde in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037039&artikel=2&z=2024-11-07&g=2024-11-07), en [artikel 4, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0037039&artikel=4&z=2024-11-07&g=2024-11-07).
 
-#### Artikel 6. Hoofd Informatiebeheer
+##### Artikel 6. Hoofd Informatiebeheer
 
 De Directeur van het Joint Informatievoorzieningscommando verleent het mandaat, de volmacht en de machtiging ter uitvoering van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037039&artikel=5&z=2024-11-07&g=2024-11-07) genoemde taken, door aan het Hoofd Informatiebeheer.
 
-#### Artikel 7. Het (Hoofd) Dynamisch Informatiebeheer
+##### Artikel 7. Het (Hoofd) Dynamisch Informatiebeheer
 
 1. Het Hoofd Dynamisch Informatiebeheer is belast met het uitvoerend dynamisch informatiebeheer voor een defensieonderdeel.
 
@@ -124,7 +149,7 @@ De Directeur van het Joint Informatievoorzieningscommando verleent het mandaat, 
 
 3. Het Hoofd Dynamisch Informatiebeheer legt ten aanzien van zijn verantwoordelijkheid voor de taken, genoemd in dit artikel, verantwoording af aan het Hoofd Informatiebeheer.
 
-#### Artikel 8. Het (Hoofd) Semi-statisch Informatiebeheer
+##### Artikel 8. Het (Hoofd) Semi-statisch Informatiebeheer
 
 1. Het Hoofd Semi-statisch Informatiebeheer is belast met uitvoerend semi-statisch informatiebeheer voor geheel Defensie.
 
@@ -152,7 +177,7 @@ De Directeur van het Joint Informatievoorzieningscommando verleent het mandaat, 
 
 5. Het Hoofd Semi-statisch informatiebeheer legt ten aanzien van de verantwoordelijkheid voor de taken, genoemd in dit artikel, verantwoording af aan het Hoofd Informatiebeheer.
 
-#### Artikel 9. Coördinator Informatiebeheer
+##### Artikel 9. Coördinator Informatiebeheer
 
 1. Ieder defensieonderdeel beschikt over een Coördinator Informatiebeheer.
 
@@ -166,7 +191,7 @@ De Directeur van het Joint Informatievoorzieningscommando verleent het mandaat, 
 
 - d. is ten aanzien van het defensieonderdeel de contactpersoon voor het Hoofd Informatiebeheer.
 
-#### Artikel 10. Intrekking
+##### Artikel 10. Intrekking
 
 Ingetrokken worden:
 
@@ -180,11 +205,11 @@ Ingetrokken worden:
 
 - e. de [Beleidsregel digitale vervanging van vernietigbare archiefbescheiden Ministerie van defensie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033963), Stcrt. 2013, 26910;
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 oktober 2015.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling informatiebeheer Defensie 2015.
 

@@ -1,13 +1,37 @@
 ---
-title: "Besluit uitbreiding territoriale zee van het Caribische deel van het Koninkrijk"
+title: "Besluit van 23 oktober 1985, houdende uitvoering van artikel 1 van de Rijkswet uitbreiding van de territoriale zee van het Koninkrijk in de Nederlandse Antillen"
 identifier: "BWBR0003869"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2014-01-01
-laatste_update: 2014-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003869"
+country: "nl"
+rank: "rijks_kb"
+publication_date: "2014-01-01"
+last_updated: "2014-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003869"
+soort: "rijksKB"
+stam_id: "985513"
+version_id: "20863972"
+internal_id: "C29952671"
+label_id: "955184"
+dtd_version: "2.0"
+original_entry_into_force: "2013-10-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003869/2014-01-01/0"
+intitule_bron: "Stb.1985-559"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1985-10-23"
+intitule_status: "goed"
+original_publication: "Stb.2013-436"
+original_signed_date: "2013-10-17"
+original_published_date: "2013-11-08"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2013-436"
+entry_into_force_date: "2013-10-17"
+jci_1_3: "jci1.3:c:BWBR0003869&z=2014-01-01&g=2014-01-01"
+jci_1_0: "1.0:c:BWBR0003869&g=2014-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit uitbreiding territoriale zee van het Caribische deel van het Koninkrijk"
+signed_date: "2013-10-17"
+entry_into_force: "2013-10-17"
 ---
-
 # Besluit van 23 oktober 1985, houdende uitvoering van artikel 1 van de Rijkswet uitbreiding van de territoriale zee van het Koninkrijk in de Nederlandse Antillen
 
 Op de voordracht van Onze Minister van Buitenlandse Zaken van 11 september 1985, Directie Verdragen, DVE/PA-236968;
@@ -22,17 +46,17 @@ De bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde;
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De territoriale zee van het Koninkrijk in Aruba, Curaçao, Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba strekt zich uit tot de lijn, waarvan elk punt is gelegen op de afstand van twaalf internationale zeemijlen, dat is tweeëntwintig kilometer en tweehonderd vierentwintig meter, gemeten zeewaarts van het dichtstbijzijnde punt van de laagwaterlijn langs de kust of van de basislijnen dan wel van de afsluitingslijnen genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003869&artikel=3&z=2014-01-01&g=2014-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003869&artikel=4&z=2014-01-01&g=2014-01-01), met dien verstande dat, indien binnen deze afstand natuurlijk gevormde, bij eb droogvallende bodemverheffingen zijn gelegen, die bij hoogtij door water zijn omgeven, gemeten wordt van het dichtstbij gelegen punt van de laagwaterlijn van die bodemverheffing.
 
 2. De laagwaterlijn is de dieptelijn van nul meter of, waar deze ontbreekt, de kustlijn dan wel de randen van droogvallende riffen, zoals aangegeven op de grootschalige Nederlandse zeekaarten.
 
-#### Artikel 2
+##### Artikel 2
 
 De laagwaterlijn langs de kust vormt, met de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003869&artikel=3&z=2014-01-01&g=2014-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003869&artikel=4&z=2014-01-01&g=2014-01-01) genoemde basislijnen, voorzover deze zeewaarts daarvan zijn gelegen, de grens tussen de binnenwateren en de territoriale zee van het Koninkrijk in Aruba, Curaçao, Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Rechte basislijnen worden getrokken door de bogen van de grootcirkels, die over de kortste afstand de hierna te noemen punten verbinden:
 
@@ -69,7 +93,7 @@ De laagwaterlijn langs de kust vormt, met de in [artikel 3](https://wetten.overh
 
 2. De ligging van de in het eerste lid aangegeven punten is uitgedrukt in het stelsel van coördinaten volgens het World Geodetic System 1984 (WGS84).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Afsluitingslijnen worden getrokken tussen de natuurlijke toegangspunten van de hierna te noemen baaien:
 
@@ -291,19 +315,19 @@ De laagwaterlijn langs de kust vormt, met de in [artikel 3](https://wetten.overh
 
 3. In de inlaat van het Pekelmeer op Bonaire geldt als afsluitingslijn de verbindingslijn van de punten waar de kustlijn afbuigt naar de toegang tot het Pekelmeer.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Waar een grenslijn met andere Staten is overeengekomen welke ligt binnen twaalf zeemijlen van de basislijn, van waaruit de territoriale zee wordt gemeten, is deze grenslijn de buitengrens van de territoriale zee.
 
 2. Waar nog geen grenslijn met andere Staten is overeengekomen, geldt als grens voor de territoriale zee de middellijn, waarvan elk punt even ver verwijderd is van de dichtstbij gelegen punten van de basislijn, waarvan de breedte van de territoriale zee van elk der twee Staten wordt gemeten.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze algemene maatregel van rijksbestuur treedt in werking met ingang van de eerste dag van de tweede maand, volgend op de datum van uitgifte van het **Staatsblad**, waarin zij wordt geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** en in het **Publicatieblad van de Nederlandse Antillen** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk.
 
-#### Artikel 6a
+##### Artikel 6a
 
 Dit besluit wordt aangehaald als: Besluit uitbreiding territoriale zee van het Caribische deel van het Koninkrijk.
 

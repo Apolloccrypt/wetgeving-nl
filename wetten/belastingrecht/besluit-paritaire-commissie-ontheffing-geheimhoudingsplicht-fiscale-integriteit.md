@@ -1,20 +1,46 @@
 ---
-title: "Besluit paritaire commissie ontheffing geheimhoudingsplicht fiscale integriteit"
+title: "Besluit van de Staatssecretaris van Financiën - Fiscaliteit en Belastingdienst, d.d. 14 juli 2021 kenmerk 2021 140356, houdende de instelling van de paritaire commissie advisering ontheffing geheimhoudingsplicht artikel 67 van de Algemene wet inzake rijksbelastingen dan wel artikel 67 van de Invorderingswet 1990 in het kader van fiscale integriteit (Besluit paritaire commissie ontheffing geheimhoudingsplicht fiscale integriteit)"
 identifier: "BWBR0045468"
-categorie: "Belastingrecht"
-publicatiedatum: 2021-07-24
-laatste_update: 2021-07-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045468"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-07-24"
+last_updated: "2021-07-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045468"
+soort: "ministeriele-regeling"
+stam_id: "16036823"
+version_id: "27927402"
+internal_id: "C39378661"
+label_id: "15970024"
+dtd_version: "2.0"
+original_entry_into_force: "2021-07-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045468/2021-07-24/0"
+intitule_bron: "Stcrt.2021-36208"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-07-14"
+intitule_published: "2021-07-23"
+intitule_in_force: "2021-07-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-36208"
+original_signed_date: "2021-07-14"
+original_published_date: "2021-07-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-36208"
+entry_into_force_date: "2021-07-24"
+jci_1_3: "jci1.3:c:BWBR0045468&z=2021-07-24&g=2021-07-24"
+jci_1_0: "1.0:c:BWBR0045468&g=2021-07-24"
+citeertitel_status: "officieel"
+short_title: "Besluit paritaire commissie ontheffing geheimhoudingsplicht fiscale integriteit"
+signed_date: "2021-07-14"
+entry_into_force: "2021-07-24"
 ---
-
 # Besluit van de Staatssecretaris van Financiën - Fiscaliteit en Belastingdienst, d.d. 14 juli 2021 kenmerk 2021 140356, houdende de instelling van de paritaire commissie advisering ontheffing geheimhoudingsplicht artikel 67 van de Algemene wet inzake rijksbelastingen dan wel artikel 67 van de Invorderingswet 1990 in het kader van fiscale integriteit (Besluit paritaire commissie ontheffing geheimhoudingsplicht fiscale integriteit)
 
 Gelet op [artikel 67, derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67), [artikel 67, derde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=67), [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), en hoofdstuk 13 van het Personeelsreglement Financiën;
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -40,11 +66,11 @@ In dit besluit wordt verstaan onder:
 
 - k. **ambtenaar:** degene die op basis van een arbeidsovereenkomst met de Staat der Nederlanden, werkzaam is bij het ministerie.
 
-#### Artikel 2. Instelling
+##### Artikel 2. Instelling
 
 Er is een paritaire Commissie advisering ontheffing geheimhoudingsplicht [artikel 67 van de Algemene wet inzake rijksbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67) dan wel [artikel 67 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=67).
 
-#### Artikel 3. Taak
+##### Artikel 3. Taak
 
 1. De Commissie heeft tot taak de Staatssecretaris te adviseren over het al dan niet verlenen van een gevraagde ontheffing ten aanzien van een ambtenaar.
 
@@ -56,7 +82,7 @@ Er is een paritaire Commissie advisering ontheffing geheimhoudingsplicht [artike
 
 5. De Commissie draagt jaarlijks zorg voor geanonimiseerde publicatie van de adviezen. Publicatie geschiedt binnen twee maanden na afloop van het kalenderjaar.
 
-#### Artikel 4. Samenstelling, benoeming en vervanging
+##### Artikel 4. Samenstelling, benoeming en vervanging
 
 1. De Commissie telt drie leden en is als volgt samengesteld:
 
@@ -86,7 +112,7 @@ Er is een paritaire Commissie advisering ontheffing geheimhoudingsplicht [artike
 
 8. De leden en plaatsvervangers kunnen op eigen verzoek, wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden worden geschorst en ontslagen door de Staatssecretaris.
 
-#### Artikel 5. Advies
+##### Artikel 5. Advies
 
 1. Het advies is ondertekend door een van de leden en met redenen omkleed.
 
@@ -94,7 +120,7 @@ Er is een paritaire Commissie advisering ontheffing geheimhoudingsplicht [artike
 
 3. Het advies van de Commissie wordt bij de beslissing van de Staatssecretaris gevoegd.
 
-#### Artikel 6. Secretariaat
+##### Artikel 6. Secretariaat
 
 1. De Commissie wordt ondersteund door een secretaris.
 
@@ -104,7 +130,7 @@ Er is een paritaire Commissie advisering ontheffing geheimhoudingsplicht [artike
 
 4. Op verzoek van de Commissie wordt zorg gedragen voor de nodige voorzieningen ten behoeve van de werkzaamheden van de Commissie.
 
-#### Artikel 7. Werkwijze
+##### Artikel 7. Werkwijze
 
 1. De Commissie stelt de eigen werkwijze vast met inachtneming van de bepalingen van dit besluit. Bij het vaststellen van de werkwijze geeft de Commissie in ieder geval invulling aan de in acht te nemen adviestermijn in geval een adviesaanvraag aanleiding geeft tot onverwijlde advisering.
 
@@ -116,17 +142,17 @@ Er is een paritaire Commissie advisering ontheffing geheimhoudingsplicht [artike
 
 5. De Commissie, de SG, de medezeggenschap en de vakbonden bespreken de rapportage in een periodiek gezamenlijk overleg.
 
-#### Artikel 8. Vertrouwelijkheid
+##### Artikel 8. Vertrouwelijkheid
 
 1. De leden van de Commissie ontvangen uitsluitend niet tot personen herleidbare informatie.
 
 2. De leden van de Commissie behandelen de informatie waarover zij de beschikking krijgen in het kader van de uitvoering van de taak van de Commissie, strikt vertrouwelijk. Dit geldt in ieder geval voor de gevallen zoals beschreven in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045468&artikel=3&z=2021-07-24&g=2021-07-24) en [artikel 7, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045468&artikel=7&z=2021-07-24&g=2021-07-24) van dit Besluit.
 
-#### Artikel 9. Dossier Commissie
+##### Artikel 9. Dossier Commissie
 
 De adviezen en de dossiers van de Commissie worden jaarlijks na afronding van de werkzaamheden zo spoedig mogelijk overgedragen aan het vertrouwelijke archief van het ministerie.
 
-#### Artikel 10. Vergoeding
+##### Artikel 10. Vergoeding
 
 1. Aan een lid van de Commissie wordt een vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op salarisschaal 18, trede 10 van paragraaf 6.3 van de cao Rijk 2020 respectievelijk de daaropvolgende cao’s, en de arbeidsduurfactor bepaald op 8/36.
 
@@ -134,14 +160,14 @@ De adviezen en de dossiers van de Commissie worden jaarlijks na afronding van de
 
 3. Een jaar na de inwerkingtreding van dit besluit wordt geëvalueerd of de in het eerste lid opgenomen arbeidsduurfactor passend is in relatie tot de werkzaamheden van de Commissie. Op basis van de uitkomsten van de evaluatie kan aanpassing van de arbeidsduurfactor, genoemd in het eerste lid, plaatsvinden.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2021.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit paritaire commissie ontheffing geheimhoudingsplicht fiscale integriteit.
 
-#### Artikel 13. Bekendmaking
+##### Artikel 13. Bekendmaking
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

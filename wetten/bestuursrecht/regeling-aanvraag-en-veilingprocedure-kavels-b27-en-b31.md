@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanvraag- en veilingprocedure kavels B27 en B31"
+title: "Regeling van de Minister van Economische Zaken van 6 september 2016, nr. WJZ/16132638, handelende in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, houdende vaststelling van de aanvraag- en veilingprocedure voor enkele vergunningen voor het gebruik van frequentieruimte in de FM-band en tot wijziging van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003 (Regeling aanvraag- en veilingprocedure kavels B27 en B31)"
 identifier: "BWBR0038511"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-09-13
-laatste_update: 2016-09-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038511"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-09-13"
+last_updated: "2016-09-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038511"
+soort: "ministeriele-regeling"
+stam_id: "13749703"
+version_id: "23570732"
+internal_id: "C33930471"
+label_id: "13716384"
+dtd_version: "2.0"
+original_entry_into_force: "2016-09-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038511/2016-09-13/0"
+intitule_bron: "Stcrt.2016-47758"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-09-06"
+intitule_published: "2016-09-12"
+intitule_in_force: "2016-09-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-47758"
+original_signed_date: "2016-09-06"
+original_published_date: "2016-09-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-47758"
+entry_into_force_date: "2016-09-13"
+jci_1_3: "jci1.3:c:BWBR0038511&z=2016-09-13&g=2016-09-13"
+jci_1_0: "1.0:c:BWBR0038511&g=2016-09-13"
+citeertitel_status: "officieel"
+short_title: "Regeling aanvraag- en veilingprocedure kavels B27 en B31"
+signed_date: "2016-09-06"
+entry_into_force: "2016-09-13"
 ---
-
 # Regeling van de Minister van Economische Zaken van 6 september 2016, nr. WJZ/16132638, handelende in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, houdende vaststelling van de aanvraag- en veilingprocedure voor enkele vergunningen voor het gebruik van frequentieruimte in de FM-band en tot wijziging van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003 (Regeling aanvraag- en veilingprocedure kavels B27 en B31)
 
 Gelet op de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=9) en [10 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=10);
@@ -16,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -46,13 +72,13 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 2. Vergunning voor niet-landelijke commerciële radio-omroep in de FM-band
 
-#### Artikel 2
+##### Artikel 2
 
 Ingevolge het [bekendmakingsbesluit](onbekend) zijn de vergunning kavel B27 en de vergunning kavel B31 beschikbaar om door middel van een veiling te worden verdeeld.
 
 #### Paragraaf 3. Vergunningaanvraag en zekerheidsstelling
 
-#### Artikel 3
+##### Artikel 3
 
 1. Degene die voor een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=2&artikel=2&z=2016-09-13&g=2016-09-13) in aanmerking wil komen, dient daartoe een aanvraag in.
 
@@ -84,7 +110,7 @@ Ingevolge het [bekendmakingsbesluit](onbekend) zijn de vergunning kavel B27 en d
 
 11. De aanvrager informeert de minister per brief, die wordt geadresseerd op de in het tweede lid genoemde wijze, onverwijld over wijzigingen met betrekking tot de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&bijlage=I&z=2016-09-13&g=2016-09-13) bedoelde gegevens en bescheiden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Teneinde te kunnen voldoen aan het Nationaal Frequentieplan 2014 doet de aanvrager die een aanvraag doet voor vergunning kavel B27 zijn aanvraag, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=3&artikel=3&z=2016-09-13&g=2016-09-13), vergezeld gaan van een aanvraag voor een vergunning voor gebruik van een capaciteitseenheid in allotment 9D-N, onder de voorwaarde dat aan hem op grond van [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=4&artikel=13&z=2016-09-13&g=2016-09-13), of op grond van [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=6&artikel=26&z=2016-09-13&g=2016-09-13), de vergunning kavel B27 wordt verleend.
 
@@ -92,11 +118,11 @@ Ingevolge het [bekendmakingsbesluit](onbekend) zijn de vergunning kavel B27 en d
 
 3. De voorwaardelijke aanvraag, bedoeld in het eerste en tweede lid, wordt ingediend met gebruikmaking van het daartoe in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&bijlage=I&z=2016-09-13&g=2016-09-13), onderdeel B, opgenomen model.
 
-#### Artikel 5
+##### Artikel 5
 
 Onverminderd het bepaalde in [artikel 3.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.18), wijst de minister de aanvraag af indien niet is voldaan aan [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=3&artikel=3&z=2016-09-13&g=2016-09-13).
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een aanvrager verstrekt als zekerheid voor de betaling van het bod en teneinde te borgen dat de vergunning wordt verleend aan een financieel bestendige vergunninghouder een waarborgsom of een bankgarantie ter grootte van de waarde, opgenomen in tabel 1, corresponderend met de vergunning waar de aanvraag ingevolge [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=3&artikel=3&z=2016-09-13&g=2016-09-13), betrekking op heeft.
 
@@ -119,7 +145,7 @@ Onverminderd het bepaalde in [artikel 3.18 van de wet](https://wetten.overheid.n
 
 - b. de bankgarantie, verstrekt volgens het model, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&bijlage=II&z=2016-09-13&g=2016-09-13), is ontvangen op het in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=3&artikel=3&z=2016-09-13&g=2016-09-13), genoemde adres.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien de aanvraag niet is afgewezen op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=3&artikel=5&z=2016-09-13&g=2016-09-13) en de aanvrager niet heeft voldaan aan een van de in artikel 3, vierde tot en met achtste en het tiende lid, artikel 4 en artikel 6, gestelde eisen, deelt de minister dit de aanvrager mee en stelt de minister de aanvrager in de gelegenheid het verzuim te herstellen.
 
@@ -133,7 +159,7 @@ Verzuimherstel aangaande de waarborgsom geschiedt binnen dezelfde termijn, en me
 
 5. Indien het verzuim niet binnen de termijn, bedoeld in het tweede en het derde lid, en op de wijze, vermeld in het derde lid, is hersteld of indien na herstel niet wordt voldaan aan de in [artikel 3, vierde tot en met achtste en het tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=3&artikel=3&z=2016-09-13&g=2016-09-13), [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=3&artikel=4&z=2016-09-13&g=2016-09-13) en [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=3&artikel=6&z=2016-09-13&g=2016-09-13), gestelde eisen, kan de minister besluiten de aanvraag met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) niet te behandelen.
 
-#### Artikel 8
+##### Artikel 8
 
 Een aanvrager verstrekt ter onderbouwing van zijn financiële draagkracht om te kunnen voldoen aan diens aan de vergunning voor digitale etherradio verbonden verplichtingen en de daaruit voortvloeiende investeringen:
 
@@ -141,15 +167,15 @@ Een aanvrager verstrekt ter onderbouwing van zijn financiële draagkracht om te 
 
 - b. een kopie van een bankafschrift van de rekening op naam van de aanvrager waaruit ten tijde van de aanvraag of in ten hoogste vier weken voorafgaande aan het indienen van de aanvraag een positief saldo van ten minste € 15.000,– of, in geval de aanvraag ingevolge [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=3&artikel=3&z=2016-09-13&g=2016-09-13), op twee vergunningen betrekking heeft, ten minste € 30.000,– blijkt.
 
-#### Artikel 9
+##### Artikel 9
 
 Een aanvrager heeft zich blijkens een door hem ondertekende verklaring overeenkomstig [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&bijlage=IV&z=2016-09-13&g=2016-09-13) bij deze regeling ertoe verplicht dat een krachtens deze regeling aan hem verleende vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=2&artikel=2&z=2016-09-13&g=2016-09-13), zal worden gebruikt voor het uitzenden van een radioprogramma van een commerciële omroepinstelling dat, voor zover het gepresenteerde programmaonderdelen tussen 07.00 uur en 19.00 uur betreft, voor ten minste 50 procent in de Nederlandse of Friese taal wordt gepresenteerd.
 
-#### Artikel 10
+##### Artikel 10
 
 De aanvrager beschikt over de vereiste toestemming van het Commissariaat voor de Media, bedoeld in [artikel 3.1 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.1).
 
-#### Artikel 11
+##### Artikel 11
 
 1. De aanvrager is een privaatrechtelijke rechtspersoon naar Nederlands recht of het equivalent daarvan naar het recht van een van de overige lidstaten van de Europese Unie of een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, en heeft zijn statutaire zetel, zijn hoofdbestuur of zijn hoofdvestiging binnen de Europese Economische Ruimte.
 
@@ -163,7 +189,7 @@ De aanvrager beschikt over de vereiste toestemming van het Commissariaat voor de
 
 4. De minister wijst de aanvraag af, indien uit de aanvraag niet blijkt dat aan de eisen, bedoeld in het eerste en tweede lid is voldaan.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een aanvrager verklaart door middel van een door hem ondertekende verklaring, overeenkomstig [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&bijlage=V&z=2016-09-13&g=2016-09-13) bij deze regeling, dat hij zich voorafgaand aan de indiening van de aanvraag heeft onthouden van afspraken of onderling afgestemde feitelijke gedragingen die afbreuk doen of kunnen doen aan de mededinging in het kader van de veilingprocedure en zich na het indienen van de aanvraag zal onthouden van het maken van dergelijke afspraken of het verrichten van dergelijke gedragingen.
 
@@ -171,13 +197,13 @@ De aanvrager beschikt over de vereiste toestemming van het Commissariaat voor de
 
 #### Paragraaf 4. Vaststelling eventuele schaarste
 
-#### Artikel 13
+##### Artikel 13
 
 1. Indien de minister ten aanzien van de vergunning kavel B27 vaststelt dat, uitgezonderd de aanvragers waarvan de aanvraag op grond van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=3&artikel=5&z=2016-09-13&g=2016-09-13), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=3&artikel=11&z=2016-09-13&g=2016-09-13) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=3&artikel=12&z=2016-09-13&g=2016-09-13) is afgewezen, de aanvraag op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=3&artikel=7&z=2016-09-13&g=2016-09-13) buiten behandeling is gesteld, of de aanvraag op grond van [artikel 3.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.18) is geweigerd, slechts één aanvraag, die voldoet aan de in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=3&z=2016-09-13&g=2016-09-13) van deze regeling gestelde eisen en die is ingediend door een aanvrager die voldoet aan die eisen, betrekking heeft op de vergunning kavel B27, vindt geen veiling van de vergunning kavel B27 plaats en wordt die vergunning aan de betreffende aanvrager verleend.
 
 2. De minister stelt de noodzaak van veilen van de vergunning kavel B31 vast na verdeling van de vergunning kavel B27. In afwijking hiervan kan de minister de noodzaak van veilen van de vergunning kavel B31 eerder vaststellen in geval de uitkomst van de verdeling van vergunning kavel B27 voor die vaststelling niet relevant is of in geval na toepassing van deze regeling de vergunning voor kavel B27 onverdeeld blijft. Het eerste lid is van overeenkomstige toepassing.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Indien na toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=4&artikel=13&z=2016-09-13&g=2016-09-13) de noodzaak van veilen van de betrokken vergunning is komen vast te staan, deelt de minister de aanvragers, van wie de aanvragen ingevolge artikel 13 zijn betrokken bij de vaststelling van de noodzaak van veilen, dit telkens schriftelijk mee.
 
@@ -185,11 +211,11 @@ De aanvrager beschikt over de vereiste toestemming van het Commissariaat voor de
 
 #### Paragraaf 5. De veiling
 
-#### Artikel 15
+##### Artikel 15
 
 De veiling vindt telkens plaats overeenkomstig het bepaalde in deze paragraaf, met dien verstande dat de veiling van de vergunning kavel B27 voorafgaat aan verdeling van de vergunning kavel B31, een en ander voor zover na toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=4&artikel=13&z=2016-09-13&g=2016-09-13) de noodzaak van veiling is komen vast te staan.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De veiling vindt plaats via internet, met behulp van een elektronisch veilingsysteem, waarbij de minister de rondeprijzen bepaalt en de deelnemer de keuze heeft om voor de door de minister vastgestelde rondeprijs een bod uit te brengen op de vergunning.
 
@@ -201,7 +227,7 @@ De veiling vindt telkens plaats overeenkomstig het bepaalde in deze paragraaf, m
 
 5. De minister leidt de veiling en draagt zorg voor een goed verloop van de veiling.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De minister deelt een deelnemer uiterlijk twee weken voor de aanvang van de veiling schriftelijk mee:
 
@@ -217,7 +243,7 @@ De veiling vindt telkens plaats overeenkomstig het bepaalde in deze paragraaf, m
 
 2. In aanvulling op het eerste lid, verstrekt de minister een deelnemer uiterlijk twee weken voor de aanvang van de veiling het certificaat om in te kunnen loggen.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Een deelnemer, inbegrepen diegene die een deelnemer ten behoeve van de veiling bijstaat, onthoudt zich van afspraken of onderling afgestemde feitelijke gedragingen die afbreuk doen of kunnen doen aan de mededinging in het kader van de veilingprocedure.
 
@@ -231,7 +257,7 @@ De veiling vindt telkens plaats overeenkomstig het bepaalde in deze paragraaf, m
 
 - c. besluiten dat een of meer biedronden opnieuw moeten worden gehouden.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De minister bepaalt wanneer de biedronden van de veiling plaatsvinden en de duur van die biedronden.
 
@@ -239,7 +265,7 @@ De veiling vindt telkens plaats overeenkomstig het bepaalde in deze paragraaf, m
 
 3. Indien een deelnemer in een biedronde of verlengde biedronde, bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=5&artikel=20&z=2016-09-13&g=2016-09-13), geen bod uitbrengt, is de betreffende deelnemer, behoudens de situatie bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=5&artikel=25&z=2016-09-13&g=2016-09-13), niet gerechtigd in de volgende biedronden een bod uit te brengen.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Indien een deelnemer een biedronde laat verstrijken zonder dat hij een bod uitbrengt, wordt die biedronde voor die deelnemer eenmalig van rechtswege verlengd met een termijn van 30 minuten.
 
@@ -261,7 +287,7 @@ De veiling vindt telkens plaats overeenkomstig het bepaalde in deze paragraaf, m
 
 5. De minister deelt in het geval, bedoeld in het eerste lid, zo spoedig mogelijk aan alle deelnemers mee dat de biedronde ten behoeve van een of meer deelnemers is verlengd.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De minister kan de veiling opschorten indien zich naar zijn oordeel bijzondere omstandigheden voordoen buiten de beïnvloedingssfeer van de minister of de deelnemers of indien technische problemen optreden waardoor de veiling tijdelijk geen doorgang kan vinden. Een bijzondere omstandigheid of technisch probleem wordt door een deelnemer onverwijld maar uiterlijk binnen 10 minuten na afloop van een biedronde of verlengde biedronde per telefoon gemeld aan de minister.
 
@@ -273,7 +299,7 @@ De veiling vindt telkens plaats overeenkomstig het bepaalde in deze paragraaf, m
 
 - b. die biedronde ongeldig wordt verklaard en opnieuw moet worden gehouden.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De prijs in de eerste biedronde is € 0,–
 
@@ -283,7 +309,7 @@ De veiling vindt telkens plaats overeenkomstig het bepaalde in deze paragraaf, m
 
 4. Indien dit naar het oordeel van de minister nodig is voor een evenwichtige vraagontwikkeling of een efficiënt verloop van de veiling kan hij afwijken van het derde lid.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De minister deelt elke deelnemer zo spoedig mogelijk na het einde van een biedronde mee:
 
@@ -305,7 +331,7 @@ De veiling vindt telkens plaats overeenkomstig het bepaalde in deze paragraaf, m
 
 3. In afwijking van het eerste en tweede lid, wordt geen informatie over een volgende biedronde gegeven indien de laatste biedronde, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=5&artikel=24&z=2016-09-13&g=2016-09-13), heeft plaatsgevonden.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De laatste biedronde is de eerste biedronde waarin één geldig bod is uitgebracht.
 
@@ -313,7 +339,7 @@ De veiling vindt telkens plaats overeenkomstig het bepaalde in deze paragraaf, m
 
 3. Het in het eerste lid bedoelde bod is het winnende bod.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Indien in een biedronde geen bod is uitgebracht, komt deze biedronde te vervallen.
 
@@ -325,13 +351,13 @@ De veiling vindt telkens plaats overeenkomstig het bepaalde in deze paragraaf, m
 
 #### Paragraaf 6. Vergunningverlening na veiling
 
-#### Artikel 26
+##### Artikel 26
 
 1. Na beëindiging van de veiling van de vergunning kavel B27 onderscheidenlijk de vergunning kavel B31 verleent de minister de betreffende vergunning, aan de deelnemer die ingevolge [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=5&artikel=24&z=2016-09-13&g=2016-09-13) het winnende bod voor die vergunning heeft uitgebracht. De minister deelt alle deelnemers mee aan wie de vergunning wordt verleend.
 
 2. De minister wijst de overige aanvragen af, voor zover de aanvraag op de desbetreffende vergunning betrekking heeft.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Uiterlijk twee weken nadat de mededeling, bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=6&artikel=26&z=2016-09-13&g=2016-09-13), is gedaan:
 
@@ -363,7 +389,7 @@ De veiling vindt telkens plaats overeenkomstig het bepaalde in deze paragraaf, m
 
 #### Paragraaf 7. Vergunningen voor frequentieruimte in band III
 
-#### Artikel 28. Verlening vergunning digitale omroep
+##### Artikel 28. Verlening vergunning digitale omroep
 
 Op grond van de aanvraag, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=3&artikel=4&z=2016-09-13&g=2016-09-13), wordt:
 
@@ -371,17 +397,17 @@ Op grond van de aanvraag, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1
 
 - b. aan de deelnemer aan wie op grond van [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=4&artikel=13&z=2016-09-13&g=2016-09-13), of op grond van [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038511&paragraaf=6&artikel=26&z=2016-09-13&g=2016-09-13), de vergunning kavel B31 is verleend, een vergunning verleend voor digitale radio-omroep, betrekking hebbende op een capaciteitseenheid in allotment 7A.
 
-#### Artikel 29. Wijziging [Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740)
+##### Artikel 29. Wijziging [Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740)
 
 Wijzigt de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003.
 
 #### Paragraaf 8. Slotbepalingen
 
-#### Artikel 30
+##### Artikel 30
 
 Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 31
+##### Artikel 31
 
 Deze regeling wordt aangehaald als: Regeling aanvraag- en veilingprocedure kavels B27 en B31.
 

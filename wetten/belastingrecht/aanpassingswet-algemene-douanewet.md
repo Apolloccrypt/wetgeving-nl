@@ -1,14 +1,41 @@
 ---
-title: "Aanpassingswet Algemene douanewet"
+title: "Wet van 3 april 2008, houdende Aanpassingswet Algemene douanewet"
 identifier: "BWBR0023754"
-categorie: "Belastingrecht"
-publicatiedatum: 2012-01-01
-laatste_update: 2012-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023754"
+country: "nl"
+rank: "wet"
+publication_date: "2012-01-01"
+last_updated: "2012-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023754"
+soort: "wet"
+stam_id: "9479203"
+version_id: "15280512"
+internal_id: "C21292361"
+label_id: "9457294"
+dtd_version: "2.0"
+original_entry_into_force: "2008-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023754/2012-01-01/0"
+intitule_bron: "Stb.2008-112"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-04-03"
+intitule_published: "2008-04-15"
+intitule_in_force: "2008-07-22"
+intitule_status: "goed"
+original_publication: "Stb.2008-112"
+original_signed_date: "2008-04-03"
+original_published_date: "2008-04-15"
+original_effect: "nieuwe-regeling"
+original_dossier: "30979"
+original_url_id: "stb-2008-112"
+entry_into_force_date: "2008-08-01"
+jci_1_3: "jci1.3:c:BWBR0023754&z=2012-01-01&g=2012-01-01"
+jci_1_0: "1.0:c:BWBR0023754&g=2012-01-01"
+citeertitel_status: "officieel"
+short_title: "Aanpassingswet Algemene douanewet"
+signed_date: "2008-04-03"
+entry_into_force: "2008-08-01"
 ---
-
-# Aanpassingswet Algemene douanewet
+# Wet van 3 april 2008, houdende Aanpassingswet Algemene douanewet
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,235 +45,235 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Algemene Zaken
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Noodwet voedselvoorziening.
 
 ### Buitenlandse Zaken
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Sanctiewet 1977.
 
 ### Economische Zaken
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet beschikbaarheid goederen.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Prijzennoodwet.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Uitvoeringswet verdrag chemische wapens.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Wet voorraadvorming aardolieproducten 2001.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Mijnbouwwet.
 
 ### Financiën
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet op de omzetbelasting 1968.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Invorderingswet 1990.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Wet op de accijns.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Wet financiële betrekkingen buitenland 1994.
 
-#### Artikel XIIIb
+##### Artikel XIIIb
 
 Wijzigt de Algemene douanewet.
 
-#### Artikel XIIId
+##### Artikel XIIId
 
 Wijzigt de Algemene douanewet.
 
 ### Justitie
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Wet op de kansspelen.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Wet wapens en munitie.
 
 ### Landbouw, Natuur en Voedselkwaliteit
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Landbouwwet.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Gezondheids- en welzijnswet voor dieren.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Flora- en faunawet.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Kaderwet diervoeders.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt de Zaaizaad- en plantgoedwet 2005.
 
 ### Onderwijs, Cultuur en Wetenschap
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt de Wet tot behoud van cultuurbezit.
 
-#### Artikel XXIIa
+##### Artikel XXIIa
 
 Wijzigt de Wet tot teruggave cultuurgoederen afkomstig uit bezet gebied.
 
 ### Verkeer en Waterstaat
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Wijzigt de Wet op de strandvonderij.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Wijzigt de Vaarplichtwet.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt de Meetbrievenwet 1981.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Wijzigt de Binnenschepenwet.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 Wijzigt de Wet vervoer over zee.
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 Wijzigt de Wet voorkoming verontreiniging door schepen.
 
-#### Artikel XXIX
+##### Artikel XXIX
 
 Wijzigt de Wet vervoer binnenvaart.
 
-#### Artikel XXX
+##### Artikel XXX
 
 Wijzigt de Wet goederenvervoer over de weg.
 
-#### Artikel XXXI
+##### Artikel XXXI
 
 Wijzigt de Wet luchtvaart.
 
-#### Artikel XXXII
+##### Artikel XXXII
 
 Wijzigt de Wet vaartijden en bemanningssterkte binnenvaart.
 
-#### Artikel XXXIII
+##### Artikel XXXIII
 
 Wijzigt de Zeevaartbemanningswet.
 
-#### Artikel XXXIV
+##### Artikel XXXIV
 
 Wijzigt de Wet capaciteitsbeheersing binnenvaartvloot.
 
 ### Volksgezondheid, Welzijn en Sport
 
-#### Artikel XXXV
+##### Artikel XXXV
 
 Wijzigt de Warenwet.
 
-#### Artikel XXXVI
+##### Artikel XXXVI
 
 Vervallen
 
-#### Artikel XXXVII
+##### Artikel XXXVII
 
 Wijzigt de Wet voorkoming misbruik chemicaliën.
 
-#### Artikel XXXVIII
+##### Artikel XXXVIII
 
 Wijzigt de Opiumwet.
 
-#### Artikel XXXVIIIa
+##### Artikel XXXVIIIa
 
 Wijzigt de Geneesmiddelenwet.
 
 ### Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
 
-#### Artikel XXXIX
+##### Artikel XXXIX
 
 Wijzigt de Wet milieubeheer.
 
-#### Artikel XL
+##### Artikel XL
 
 Wijzigt de Wet explosieven voor civiel gebruik.
 
 ### Overige bepalingen
 
-#### Artikel XLI
+##### Artikel XLI
 
 Wijzigt deze wet.
 
-#### Artikel XLII
+##### Artikel XLII
 
 Wijzigt deze wet.
 
-#### Artikel XLIII
+##### Artikel XLIII
 
 Wijzigt deze wet.
 
-#### Artikel XLIIIa
+##### Artikel XLIIIa
 
 Wijzigt deze wet.
 
-#### Artikel XLIV
+##### Artikel XLIV
 
 Wijzigt deze wet.
 
-#### Artikel XLV
+##### Artikel XLV
 
 Wijzigt deze wet.
 
-#### Artikel XLVa
+##### Artikel XLVa
 
 Wijzigt de Algemene douanewet.
 
-#### Artikel XLVb
+##### Artikel XLVb
 
 Wijzigt de Algemene douanewet.
 
-#### Artikel XLVI
+##### Artikel XLVI
 
 De navolgende wetten worden ingetrokken:
 
@@ -256,7 +283,7 @@ De navolgende wetten worden ingetrokken:
 
 - c. de [Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0007632).
 
-#### Artikel XLVII
+##### Artikel XLVII
 
 De bij [artikel XLVI](https://wetten.overheid.nl/jci1.3:c:BWBR0023754&artikel=XLVI&z=2012-01-01&g=2012-01-01) van deze wet ingetrokken wetten, de bij deze wet gewijzigde wetten alsmede de daarop berustende bepalingen blijven – met inbegrip van bepalingen van overgangsrecht – van toepassing zoals zij golden voor de inwerkingtreding van deze wet voor zover zij betrekking hebben op:
 
@@ -264,27 +291,27 @@ De bij [artikel XLVI](https://wetten.overheid.nl/jci1.3:c:BWBR0023754&artikel=XL
 
 - b. strafbare feiten en feiten die aanleiding kunnen zijn tot het opleggen van een bestuurlijke boete welke zich hebben voorgedaan vóór de dag van de inwerkingtreding van deze wet.
 
-#### Artikel XLVIII
+##### Artikel XLVIII
 
 1. Beschikkingen die zijn genomen op grond van bepalingen bij of krachtens de [Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0007632) worden tot wederopzegging, doch uiterlijk tot en met de laatste dag van het tijdvak van twaalf maanden dat ingaat op de dag van de inwerkingtreding van deze wet, aangemerkt als te zijn genomen op grond van de bepalingen bij of krachtens de [Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746).
 
 2. Bij ministeriële regeling kunnen nadere overgangsbepalingen worden vastgesteld in verband met de inwerkingtreding van de [Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746).
 
-#### Artikel XLIX
+##### Artikel XLIX
 
 Vervallen
 
-#### Artikel L
+##### Artikel L
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel LI
+##### Artikel LI
 
 Deze wet wordt aangehaald als: Aanpassingswet Algemene douanewet.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel XIIIba
+##### Artikel XIIIba
 
 Wijzigt de Algemene douanewet.
 

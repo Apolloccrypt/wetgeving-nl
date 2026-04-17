@@ -1,20 +1,46 @@
 ---
-title: "Mandaatbesluit College van procureurs-generaal, beheer OM 2025"
+title: "Besluit van het College van procureurs-generaal van 11 februari 2025, [PaG / 19951] houdende verlening van ondermandaat en het doorgegeven van volmacht en machtiging ten aanzien van beheeraangelegenheden aan de hoofden van de parketten en dienstonderdelen (Mandaatbesluit College van procureurs-generaal, beheer OM 2025)"
 identifier: "BWBR0051704"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-11-05
-laatste_update: 2025-11-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051704"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-11-05"
+last_updated: "2025-11-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051704"
+soort: "ministeriele-regeling"
+stam_id: "17583283"
+version_id: "31026712"
+internal_id: "C44427831"
+label_id: "17484154"
+dtd_version: "2.0"
+original_entry_into_force: "2025-11-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051704/2025-11-05/0"
+intitule_bron: "Stcrt.2025-37152"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-02-11"
+intitule_published: "2025-11-04"
+intitule_in_force: "2025-11-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-37152"
+original_signed_date: "2025-02-11"
+original_published_date: "2025-11-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-37152"
+entry_into_force_date: "2025-11-05"
+jci_1_3: "jci1.3:c:BWBR0051704&z=2025-11-05&g=2025-11-05"
+jci_1_0: "1.0:c:BWBR0051704&g=2025-11-05"
+citeertitel_status: "officieel"
+short_title: "Mandaatbesluit College van procureurs-generaal, beheer OM 2025"
+signed_date: "2025-02-11"
+entry_into_force: "2025-11-05"
 ---
-
 # Besluit van het College van procureurs-generaal van 11 februari 2025, [PaG / 19951] houdende verlening van ondermandaat en het doorgegeven van volmacht en machtiging ten aanzien van beheeraangelegenheden aan de hoofden van de parketten en dienstonderdelen (Mandaatbesluit College van procureurs-generaal, beheer OM 2025)
 
 Gelet op [artikel 10:3, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) (Awb), [artikel 133 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=133) (Wet RO) en de [Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 - b). als rechterlijk ambtenaar, genoemd in [artikel 1 onderdeel b., onder 5°, 6°, 7° en 10° van de Wet RO](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=1),
 
-#### Artikel 2
+##### Artikel 2
 
 - 1). Elke procureur-generaal is afzonderlijk gemachtigd om invulling te geven aan het mandaat.
 
@@ -46,19 +72,19 @@ In dit besluit wordt verstaan onder:
 
 - 3). Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met de verlening van mandaat gelijkgesteld de verlening van volmacht en machtiging.
 
-#### Artikel 3
+##### Artikel 3
 
 - 1). Tot leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk worden aangewezen de in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051704&bijlage=1&z=2025-11-05&g=2025-11-05) bij dit besluit genoemde functionarissen, voor zover het betreft de uitoefening van de bevoegdheden vermeld in kolom 2 van die bijlage.
 
 - 2). Aan de functionarissen genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051704&bijlage=1&z=2025-11-05&g=2025-11-05) wordt voorts mandaat verleend om besluiten te nemen die bij of krachtens de [Wrra](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) aan de minister zijn toegekend, een en ander zoals vermeld in kolom 3 van die bijlage.
 
-#### Artikel 4
+##### Artikel 4
 
 - 1). Het mandaat ziet toe op de bevoegdheid om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven. Hiervoor worden aangewezen de ambtenaren, genoemd in kolom 1 van tabel 1 in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051704&bijlage=2&z=2025-11-05&g=2025-11-05) bij deze regeling voor zover het betreft de bedragen, genoemd in kolom 2 van tabel 1 in die bijlage.
 
 - 2). Het ondermandaat ziet toe op de bevoegdheid om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven in geval van afwezigheid van de in lid 1 van dit artikel genoemde aangewezen ambtenaren. Hiervoor worden aangewezen de ambtenaren, genoemd in kolom 2 van tabel 2 in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051704&bijlage=2&z=2025-11-05&g=2025-11-05) bij deze regeling voor zover het betreft de OM-onderdelen, genoemd in kolom 1 van tabel 2 in die bijlage.
 
-#### Artikel 5
+##### Artikel 5
 
 - 1). Aan het College van procureurs-generaal blijft voorbehouden:
 
@@ -94,21 +120,21 @@ In dit besluit wordt verstaan onder:
 
 - –. [33p lid 1 van het Brra](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=33p), indien er sprake is van verlof zonder behoud van bezoldiging, verleend in het persoonlijk belang van de medewerker.
 
-#### Artikel 6
+##### Artikel 6
 
 - 1). Aan de directeuren bedrijfsvoering wordt ondermandaat, volmacht en machtiging verleend om besluiten te nemen, stukken af te doen en brieven te ondertekenen voor zover deze de bestedingen en de uitputting van de budgetten betreffen van het parket of dienstonderdeel waaraan de directeur bedrijfsvoering verbonden is, tot een maximum van € 500.000 per opdracht.
 
 - 2). Aan de directeuren en directeur BIOM wordt ondermandaat, volmacht en machtiging verleend om besluiten te nemen, stukken af te doen en brieven te ondertekenen voor zover deze de bestedingen en de uitputting van de budgetten betreffen van het beleidsterrein waaraan de directeur of directeur BIOM verbonden is, tot een maximum van € 500.000 per opdracht.
 
-#### Artikel 7
+##### Artikel 7
 
 De ‘[Mandaatregeling College van procureurs-generaal, beheer OM 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038382)’ wordt ingetrokken.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 11 februari 2025.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Mandaatbesluit College van procureurs-generaal, beheer OM 2025.
 

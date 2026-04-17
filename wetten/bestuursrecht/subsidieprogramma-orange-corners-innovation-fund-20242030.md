@@ -1,13 +1,39 @@
 ---
-title: "Subsidieprogramma Orange Corners Innovation Fund 2024–2030"
+title: "Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 7 september 2023, nr. MinBuza.2023-18814-20, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Orange Corners Innovation Fund 2024–2030)"
 identifier: "BWBR0048636"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-11-27
-laatste_update: 2024-11-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048636"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-11-27"
+last_updated: "2024-11-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048636"
+soort: "ministeriele-regeling"
+stam_id: "16859423"
+version_id: "29628262"
+internal_id: "C42391401"
+label_id: "16771594"
+dtd_version: "2.0"
+original_entry_into_force: "2023-09-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048636/2024-11-27/0"
+intitule_bron: "Stcrt.2023-26169"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-09-07"
+intitule_published: "2023-09-25"
+intitule_in_force: "2023-09-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-26169"
+original_signed_date: "2023-09-07"
+original_published_date: "2023-09-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-26169"
+entry_into_force_date: "2023-09-26"
+jci_1_3: "jci1.3:c:BWBR0048636&z=2024-11-27&g=2024-11-27"
+jci_1_0: "1.0:c:BWBR0048636&g=2024-11-27"
+citeertitel_status: "redactioneel"
+short_title: "Subsidieprogramma Orange Corners Innovation Fund 2024–2030"
+signed_date: "2023-09-07"
+entry_into_force: "2023-09-26"
 ---
-
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 7 september 2023, nr. MinBuza.2023-18814-20, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Orange Corners Innovation Fund 2024–2030)
 
 Gelet op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=6) en [7 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=7);
@@ -16,11 +42,11 @@ Gelet op de [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artike
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor subsidieverlening op grond van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=5.1) en [artikel 7.2 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=7.2) met het oog op het verbeteren van de toegang tot financiering voor jonge ondernemers die innovatieve en duurzame oplossingen bieden voor uitdagingen in Afrika, het Midden-Oosten en Azië (Subsidieprogramma Orange Corners Innovation Fund 2024–2030) gelden voor de periode vanaf inwerkingtreding van dit besluit tot en met 31 december 2030 de als bijlage bij dit besluit gevoegde beleidsregels.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aanvragen voor subsidie in het kader van het Subsidieprogramma Orange Corners Innovation Fund 2024–2030 worden ingediend in meerdere openstellingen.
 
@@ -32,17 +58,17 @@ Voor subsidieverlening op grond van [artikel 5.1](https://wetten.overheid.nl/jci
 
 5. Aanvragen voor subsidies in het kader van het Subsidieprogramma Orange Corners Innovation Fund 2024–2030 worden ingediend aan de hand van een door de Minister beschikbaar gesteld formulier en voorzien van de op het aanvraagformulier gevraagde bescheiden1[www.rvo.nl/ocif](http://www.rvo.nl/ocif).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor subsidieverlening in het kader van het Subsidieprogramma Orange Corners Innovation Fund 2024–2030 geldt voor de periode vanaf de inwerkingtreding van dit besluit tot en met 31 december 2030 een subsidieplafond van € 46.200.000, waarvan voor activiteiten in elk van de doellocaties Algerije, Angola, Bangladesh, Burundi, Ivoorkust, Democratische Republiek Congo, Egypte, Ghana, Centraal Irak, Koerdische Regio in Irak, Jordanië, Mali, Marokko, Mozambique, Nigeria, de Palestijnse Gebieden, Senegal, Soedan, Tunesië, Zuid-Afrika en Zuid-Soedan maximaal € 2.200.000 beschikbaar is.
 
 2. Indien er middelen resteren na de eerste openstelling dan worden deze middelen naar rato beschikbaar gesteld voor activiteiten in de doellocaties van de tweede openstelling.
 
-#### Artikel 4
+##### Artikel 4
 
 De verdeling van de subsidieplafonds bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048636&artikel=3&z=2024-11-27&g=2024-11-27), vindt plaats op grond van een beoordeling overeenkomstig de maatstaven die in de bijlage bij dit besluit zijn neergelegd, met dien verstande dat uit alle aanvragen die voldoen aan de maatstaven, de aanvragen die het beste voldoen aan die maatstaven het eerst voor subsidieverlening in aanmerking komen.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 januari 2031, met dien verstande dat het van toepassing blijft op subsidies die voor die tijd zijn verleend.
 

@@ -1,13 +1,37 @@
 ---
 title: "Vaststelling organisatie en taakverdeling Ministerie van Algemene Zaken"
 identifier: "BWBR0011650"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2002-07-01
-laatste_update: 2002-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011650"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2002-07-01"
+last_updated: "2002-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011650"
+soort: "ministeriele-regeling"
+stam_id: "4604093"
+version_id: "6420362"
+internal_id: "C6665921"
+label_id: "4582434"
+dtd_version: "2.0"
+original_entry_into_force: "2000-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011650/2002-07-01/0"
+intitule_bron: "Stcrt.2000-194"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-09-20"
+intitule_published: "2000-10-06"
+intitule_in_force: "2000-10-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-194"
+original_signed_date: "2000-09-20"
+original_published_date: "2000-10-06"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-12-01"
+jci_1_3: "jci1.3:c:BWBR0011650&z=2002-07-01&g=2002-07-01"
+jci_1_0: "1.0:c:BWBR0011650&g=2002-07-01"
+citeertitel_status: "officieel"
+signed_date: "2000-09-20"
+entry_into_force: "2000-12-01"
 ---
-
 # Vaststelling organisatie en taakverdeling Ministerie van Algemene Zaken
 
 Gelet op het [koninklijk besluit van 11 oktober 1947, No. H 346, tot instelling van een Departement van Algemeen Bestuur, dat de naam zal dragen van Ministerie van Algemene Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002513);
@@ -22,7 +46,7 @@ Overwegende dat een duidelijke organisatie en toewijzing van taken binnen het Mi
 
 Besluit:
 
-#### Artikel I. Kabinet Minister-President
+##### Artikel I. Kabinet Minister-President
 
 1. In te stellen het Kabinet Minister-President, rechtstreeks ressorterend onder de secretaris-generaal van Algemene Zaken.
 
@@ -34,7 +58,7 @@ Besluit:
 
 - C. Coördinatie van aangelegenheden met betrekking tot de Inlichtingen- en Veiligheidsdiensten.
 
-#### Artikel II. Centrale afdeling Personeel en Organisatie
+##### Artikel II. Centrale afdeling Personeel en Organisatie
 
 1. In te stellen een centrale afdeling Personeel en Organisatie.
 
@@ -50,7 +74,7 @@ Besluit:
 
 - E. Informeren, adviseren en ondersteunen van de individuele medewerkers.
 
-#### Artikel III. Centrale afdeling Financieel-Economische Zaken
+##### Artikel III. Centrale afdeling Financieel-Economische Zaken
 
 1. In te stellen een centrale afdeling Financieel-Economische Zaken.
 
@@ -66,7 +90,7 @@ Besluit:
 
 - E. Adviseren en ondersteunen m.b.t. de financieel-economische en bedrijfseconomische aspecten van de bedrijfsvoering en de beheersing van de bedrijfsprocessen.
 
-#### Artikel IV. Centrale afdeling Facilitaire Zaken
+##### Artikel IV. Centrale afdeling Facilitaire Zaken
 
 1. In te stellen de centrale afdeling Facilitaire Zaken.
 
@@ -80,7 +104,7 @@ Besluit:
 
 - D. De organisatie van de bedrijfshulpverlening.
 
-#### Artikel V. Centrale afdeling Informatie en Communicatie Technologie
+##### Artikel V. Centrale afdeling Informatie en Communicatie Technologie
 
 1. In te stellen de centrale afdeling Informatie en Communicatie Technologie.
 
@@ -96,11 +120,11 @@ Besluit:
 
 - E. Het ondersteunen van de gebruikers en het verzorgen van de kantoorautomatisering en de telefonie.
 
-#### Artikel VI
+##### Artikel VI
 
 Vervallen
 
-#### Artikel VII. Bureau van de Wetenschappelijke Raad voor het Regeringsbeleid
+##### Artikel VII. Bureau van de Wetenschappelijke Raad voor het Regeringsbeleid
 
 1. Het Bureau van de Wetenschappelijke Raad voor het Regeringsbeleid te belasten met de ondersteuning van de raad en zijn leden bij de voorbereiding en totstandkoming van rapporten aan de regering, in welk verband de navolgende in het bijzonder zijn te noemen:
 
@@ -112,6 +136,6 @@ Vervallen
 
 - D. Voorlichting en communicatie met betrekking tot de activiteiten van de raad.
 
-#### Artikel VIII. Bekendmaking
+##### Artikel VIII. Bekendmaking
 
 Afschrift van dit besluit zal worden gezonden aan de Algemene Rekenkamer, de Staatscourant, de hoofden van de in I t/m VII genoemde diensten, de Bijzondere Commissie en de Ondernemingsraad.

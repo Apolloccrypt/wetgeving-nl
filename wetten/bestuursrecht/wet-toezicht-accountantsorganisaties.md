@@ -1,14 +1,41 @@
 ---
-title: "Wet toezicht accountantsorganisaties"
+title: "Wet van 19 januari 2006, houdende het toezicht op accountantsorganisaties (Wet toezicht accountantsorganisaties)"
 identifier: "BWBR0019468"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-03-01
-laatste_update: 2025-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019468"
+country: "nl"
+rank: "wet"
+publication_date: "2025-03-01"
+last_updated: "2025-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019468"
+soort: "wet"
+stam_id: "8048463"
+version_id: "18576872"
+internal_id: "C26121101"
+label_id: "8030634"
+dtd_version: "2.0"
+original_entry_into_force: "2011-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019468/2025-03-01/0"
+intitule_bron: "Stb.2006-70"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-01-19"
+intitule_published: "2006-02-23"
+intitule_in_force: "2006-09-14"
+intitule_status: "goed"
+original_publication: "Stb.2011-248"
+original_signed_date: "2011-05-12"
+original_published_date: "2011-05-27"
+original_effect: "structuurwijziging"
+original_dossier: "32036"
+original_url_id: "stb-2011-248"
+entry_into_force_date: "2011-07-01"
+jci_1_3: "jci1.3:c:BWBR0019468&z=2025-03-01&g=2025-03-01"
+jci_1_0: "1.0:c:BWBR0019468&g=2025-03-01"
+citeertitel_status: "officieel"
+short_title: "Wet toezicht accountantsorganisaties"
+signed_date: "2011-05-12"
+entry_into_force: "2011-07-01"
 ---
-
-# Wet toezicht accountantsorganisaties
+# Wet van 19 januari 2006, houdende het toezicht op accountantsorganisaties (Wet toezicht accountantsorganisaties)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Definities en reikwijdte
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt – voor zover niet anders is bepaald – verstaan onder:
 
@@ -78,17 +105,17 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. De bijlage, bedoeld in het eerste lid, onderdeel p, kan worden gewijzigd bij algemene maatregel van bestuur.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Bij of krachtens algemene maatregel van bestuur worden categorieën van ondernemingen, instellingen of openbare lichamen aangewezen wier omvang of functie in het maatschappelijk verkeer van zodanige aard is dat een ondeugdelijk uitgevoerde wettelijke controle van de financiële verantwoording een aanmerkelijke invloed kan hebben op het vertrouwen in de publieke functie van de accountantsverklaring.
 
 2. Op de wettelijke controle van aangewezen categorieën van ondernemingen, instellingen of openbare lichamen als bedoeld in het eerste lid zijn de bepalingen betreffende wettelijke controles bij organisaties van openbaar belang uit de verordening van overeenkomstige toepassing voor zover daar bij of krachtens deze wet niet van wordt afgeweken.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij algemene maatregel van bestuur, op voordracht van Onze Minister en Onze Minister wie het mede aangaat, kunnen vrijwillige controles worden aangewezen waarop deze wet van toepassing is.
 
-#### Artikel 4
+##### Artikel 4
 
 De voordracht voor een algemene maatregel van bestuur als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=1&artikel=2&z=2025-03-01&g=2025-03-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=1&artikel=3&z=2025-03-01&g=2025-03-01), [11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=2&afdeling=2.3&artikel=11&z=2025-03-01&g=2025-03-01), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=15&z=2025-03-01&g=2025-03-01), [18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=18&z=2025-03-01&g=2025-03-01), [19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=19&z=2025-03-01&g=2025-03-01), [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=21&z=2025-03-01&g=2025-03-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.3&artikel=22&z=2025-03-01&g=2025-03-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.2&artikel=25&z=2025-03-01&g=2025-03-01), [25a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.2&artikel=25a&z=2025-03-01&g=2025-03-01), [26, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.2&artikel=26&z=2025-03-01&g=2025-03-01), en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.2&artikel=28&z=2025-03-01&g=2025-03-01) wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
@@ -96,7 +123,7 @@ De voordracht voor een algemene maatregel van bestuur als bedoeld in de [artikel
 
 ### Afdeling 2.1. Vergunning
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het is verboden een wettelijke controle te verrichten zonder daartoe van de Autoriteit Financiële Markten een vergunning te hebben verkregen.
 
@@ -110,7 +137,7 @@ De voordracht voor een algemene maatregel van bestuur als bedoeld in de [artikel
 
 - d. auditkantoren die op grond van [artikel 12e](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=2&afdeling=2.5&artikel=12e&z=2025-03-01&g=2025-03-01) zijn ingeschreven in het in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=2&afdeling=2.3&artikel=11&z=2025-03-01&g=2025-03-01) bedoelde register.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Autoriteit Financiële Markten verleent een vergunning aan een aanvrager die geen accountantsorganisatie als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=2&afdeling=2.1&artikel=5&z=2025-03-01&g=2025-03-01), is, en die heeft aangetoond dat hijzelf en de bij hem werkzame of aan hem verbonden externe accountants voldoen aan het bij of krachtens [paragraaf 3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&z=2025-03-01&g=2025-03-01) en [afdeling 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.2&z=2025-03-01&g=2025-03-01) bepaalde.
 
@@ -120,21 +147,21 @@ De voordracht voor een algemene maatregel van bestuur als bedoeld in de [artikel
 
 4. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op de aanvraag om een vergunning als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=2&afdeling=2.1&artikel=5&z=2025-03-01&g=2025-03-01).
 
-#### Artikel 7
+##### Artikel 7
 
 De vergunning is niet overdraagbaar.
 
-#### Artikel 8
+##### Artikel 8
 
 Bij of krachtens algemene maatregel van bestuur worden regels gesteld ten aanzien van de wijze waarop de aanvraag voor een vergunning wordt ingediend, de gegevens die daarbij worden verstrekt, de bescheiden die daarbij worden overgelegd, de voorschriften die aan de vergunning worden verbonden en de beperkingen die aan de vergunning gesteld kunnen worden.
 
 ### Afdeling 2.2. Verval en intrekking van de vergunning
 
-#### Artikel 9
+##### Artikel 9
 
 De vergunning vervalt indien de accountantsorganisatie waaraan de vergunning is verleend ophoudt te bestaan.
 
-#### Artikel 10
+##### Artikel 10
 
 De Autoriteit Financiële Markten kan de voorschriften en beperkingen, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=2&afdeling=2.1&artikel=6&z=2025-03-01&g=2025-03-01), wijzigen, aanvullen of intrekken, of alsnog voorschriften verbinden of beperkingen stellen aan een vergunning, of de vergunning intrekken of beperken:
 
@@ -154,7 +181,7 @@ De Autoriteit Financiële Markten kan de voorschriften en beperkingen, bedoeld i
 
 ### Afdeling 2.3. Het register
 
-#### Artikel 11
+##### Artikel 11
 
 1. De Autoriteit Financiële Markten houdt een openbaar register waarin vergunninghoudende accountantsorganisaties, auditkantoren die voldoen aan [artikel 12e](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=2&afdeling=2.5&artikel=12e&z=2025-03-01&g=2025-03-01), auditorganisaties van een derde land die voldoen aan [artikel 12c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=2&afdeling=2.4&artikel=12c&z=2025-03-01&g=2025-03-01), daarbij werkzame of daaraan verbonden auditors van een derde land die betrokken zijn bij het afgeven van verklaringen als bedoeld in [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=2&afdeling=2.4&artikel=12b&z=2025-03-01&g=2025-03-01), en externe accountants worden ingeschreven. Een externe accountant wordt ingeschreven op voordracht van de accountantsorganisatie of het auditkantoor waarbij hij werkzaam is of waaraan hij is verbonden en indien hij voldoet aan het bij of krachtens [afdeling 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.2&z=2025-03-01&g=2025-03-01) bepaalde. Een auditor van een derde land wordt ingeschreven op voordracht van de auditorganisate van een derde land waarbij hij werkzaam is of waaraan hij is verbonden.
 
@@ -212,7 +239,7 @@ De Autoriteit Financiële Markten kan de voorschriften en beperkingen, bedoeld i
 
 - e. indien de auditor van een derde land is overleden.
 
-#### Artikel 12
+##### Artikel 12
 
 Aan een ieder wordt kosteloos inzage verleend in het register. De Autoriteit Financiële Markten verstrekt aan een ieder desgevraagd, tegen betaling van de kostprijs, afschriften uit het register.
 
@@ -222,23 +249,23 @@ Aan een ieder wordt kosteloos inzage verleend in het register. De Autoriteit Fin
 
 #### Paragraaf 3.1.1. Toepassingsbereik
 
-#### Artikel 13
+##### Artikel 13
 
 De voorschriften in deze afdeling, met uitzondering van [artikel 21a](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.3&artikel=21a&z=2025-03-01&g=2025-03-01), zijn van toepassing op accountantsorganisaties waaraan een vergunning is verleend.
 
 #### Paragraaf 3.1.2. Algemene voorschriften
 
-#### Artikel 14
+##### Artikel 14
 
 De accountantsorganisatie draagt er zorg voor dat de externe accountants die bij haar werkzaam zijn of aan haar zijn verbonden voldoen aan het bij of krachtens [afdeling 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.2&z=2025-03-01&g=2025-03-01) bepaalde.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De betrouwbaarheid van de personen die het dagelijks beleid van de accountantsorganisatie bepalen of mede bepalen staat buiten twijfel.
 
 2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld ten aanzien van de betrouwbaarheid van de in het eerste lid bedoelde personen.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het dagelijks beleid van de accountantsorganisatie wordt in meerderheid bepaald door accountantsorganisaties, auditkantoren of door natuurlijke personen die voldoen aan de krachtens [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.2&artikel=25&z=2025-03-01&g=2025-03-01) te stellen regels inzake vakbekwaamheid van externe accountants of regels die daaraan gelijkwaardig zijn. Indien het dagelijks beleid van de accountantsorganisatie door twee personen wordt bepaald, voldoet ten minste een van deze personen aan deze regels.
 
@@ -252,11 +279,11 @@ De accountantsorganisatie draagt er zorg voor dat de externe accountants die bij
 
 6. De accountantsorganisatie meldt wijzigingen ten aanzien van personen als bedoeld in het derde, vierde en vijfde lid aan de Autoriteit Financiële Markten. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ten aanzien van de daarbij te volgen procedures en te verstrekken gegevens, alsmede regels ten aanzien van de voorwaarden waaronder de wijzigingen ten uitvoer mogen worden gelegd.
 
-#### Artikel 17
+##### Artikel 17
 
 De formele of feitelijke zeggenschapsstructuur van de accountantsorganisatie vormt geen belemmering voor het adequaat uitoefenen van het toezicht op de naleving van het bij of krachtens deze wet bepaalde door de accountantsorganisatie.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De accountantsorganisatie beschikt over een stelsel van kwaliteitsbeheersing.
 
@@ -264,7 +291,7 @@ De formele of feitelijke zeggenschapsstructuur van de accountantsorganisatie vor
 
 3. Bij of krachtens algemene maatregel van bestuur worden met het oog op de bevordering van het vertrouwen in de financiële markten, de waarborging van het publieke belang van de accountantsverklaring en het toezicht op de naleving van de bij of krachtens deze wet gestelde regels, regels gesteld ten aanzien van de kwaliteitsbeheersing en het stelsel van kwaliteitsbeheersing.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Een accountantsorganisatie is onafhankelijk van de controlecliënt waarbij zij een wettelijke controle verricht en niet betrokken bij de besluitvorming van de controlecliënt, waarbij de onafhankelijkheid in ieder geval vereist is gedurende de periode waarop de te controleren financiële verantwoording betrekking heeft en gedurende de periode waarin de wettelijke controle wordt verricht.
 
@@ -276,7 +303,7 @@ De formele of feitelijke zeggenschapsstructuur van de accountantsorganisatie vor
 
 5. De accountantsorganisatie legt de ingevolge het tweede of derde lid genomen maatregelen vast.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Een accountantsorganisatie die bij het verrichten van een wettelijke controle de beschikking krijgt over gegevens waarvan zij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, is verplicht tot geheimhouding van die gegevens, behoudens voor zover zij bij of krachtens wettelijk voorschrift of bij de EU-verordening tot mededeling verplicht is.
 
@@ -288,7 +315,7 @@ De formele of feitelijke zeggenschapsstructuur van de accountantsorganisatie vor
 
 5. De accountantsorganisatie voldoet aan bij of krachtens algemene maatregel van bestuur te stellen regels ter zake van geheimhouding.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Een accountantsorganisatie richt de bedrijfsvoering zodanig in dat deze een beheerste en integere uitoefening van haar bedrijf waarborgt.
 
@@ -312,11 +339,11 @@ De formele of feitelijke zeggenschapsstructuur van de accountantsorganisatie vor
 
 #### Paragraaf 3.1.2. Algemene voorschriften
 
-#### Artikel 22
+##### Artikel 22
 
 Bij of krachtens algemene maatregel van bestuur kunnen, onverminderd [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=18&z=2025-03-01&g=2025-03-01), aanvullende regels worden gesteld ten aanzien van de kwaliteitsbeheersing en het stelsel van kwaliteitsbeheersing van accountantsorganisaties die wettelijke controles verrichten bij organisaties van openbaar belang.
 
-#### Artikel 23
+##### Artikel 23
 
 De accountantsorganisatie verricht geen wettelijke controle bij een organisatie van openbaar belang, indien zij met betrekking tot die organisatie:
 
@@ -324,13 +351,13 @@ De accountantsorganisatie verricht geen wettelijke controle bij een organisatie 
 
 - b. gedurende de periode waarop de financiële verantwoording betrekking heeft of ten tijde van het verrichten van de wettelijke controle een aanmerkelijk deel van de financiële administratie heeft verzorgd of ingericht, onderscheidenlijk verzorgt of inricht.
 
-#### Artikel 24
+##### Artikel 24
 
 De accountantsorganisatie doet geen wettelijke controle bij een organisatie van openbaar belang uitvoeren door een externe accountant die verantwoordelijk is geweest voor de gedurende de voorafgaande vijf aaneengesloten boekjaren bij die organisatie van openbaar belang uitgevoerde wettelijke controles.
 
 ### Afdeling 3.2. De externe accountant
 
-#### Artikel 25
+##### Artikel 25
 
 Een externe accountant voldoet aan:
 
@@ -338,7 +365,7 @@ Een externe accountant voldoet aan:
 
 - b. bij of krachtens algemene maatregel van bestuur te stellen regels ter zake van zijn vakbekwaamheid, objectiviteit, professioneel-kritische instelling en integriteit.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Een externe accountant die tijdens het verrichten van een wettelijke controle de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, is verplicht tot geheimhouding van die gegevens, behoudens voor zover hij bij of krachtens wettelijk voorschrift of bij de EU-verordening tot mededeling verplicht is.
 
@@ -350,25 +377,25 @@ Een externe accountant voldoet aan:
 
 5. Een externe accountant kan, in afwijking van het eerste lid, volgens bij of krachtens algemene maatregel van bestuur te stellen regels vertrouwelijke gegevens of inlichtingen, verkregen bij het verrichten van een wettelijke controle, verstrekken aan derden.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De externe accountant is een accountant ten aanzien van wie in het accountantsregister een aantekening is opgenomen als bedoeld in [artikel 36, tweede lid, onderdeel i, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36) en die voldoet aan de bij of krachtens de [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573) gestelde regels, voor zover deze van toepassing zijn op het uitvoeren van wettelijke controles, dan wel een wettelijke auditor als bedoeld in artikel 2, onderdeel 2, van de richtlijn, die in een andere lidstaat is toegelaten tot het verrichten van controles als bedoeld in artikel 2, onderdeel 1, van de richtlijn en die beschikt over een verklaring van vakbekwaamheid als bedoeld in [artikel 54 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=54).
 
 2. Wettelijke controles bij een organisatie van openbaar belang worden verricht onder de verantwoordelijkheid van een externe accountant, zijnde een Registeraccountant als bedoeld in [artikel 41, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=41).
 
-#### Artikel 28
+##### Artikel 28
 
 Met het oog op de waarborging van de publieke functie van de accountantsverklaring kan bij algemene maatregel van bestuur [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.2&artikel=27&z=2025-03-01&g=2025-03-01) buiten toepassing worden verklaard.
 
-#### Artikel 29
+##### Artikel 29
 
 De externe accountant geeft de accountantsverklaring af en ondertekent deze op eigen naam en vermeldt daarbij de accountantsorganisatie waarbij hij werkzaam is of waaraan hij is verbonden.
 
-#### Artikel 30
+##### Artikel 30
 
 Indien de externe accountant met betrekking tot het uitvoeren van werkzaamheden betreffende de totstandkoming of de uitvoering van een opdracht tot het verrichten van een wettelijke controle wordt betrokken in een tuchtrechtsgeding, meldt hij dit onverwijld aan de betrokken controlecliënt.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De externe accountant is ten aanzien van zijn beroepsmatig handelen onderworpen aan tuchtrechtspraak op de voet van de [Wet tuchtrechtspraak accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0024238) ter zake van enig handelen of nalaten in strijd met het bij of krachtens deze wet of de EU-verordening bepaalde.
 
@@ -376,31 +403,31 @@ Indien de externe accountant met betrekking tot het uitvoeren van werkzaamheden 
 
 ### Hoofdstuk 4. Rekening en verantwoording van de Autoriteit Financiële Markten
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 
-#### Artikel 34
+##### Artikel 34
 
 Vervallen
 
-#### Artikel 35
+##### Artikel 35
 
 Vervallen
 
-#### Artikel 36
+##### Artikel 36
 
 Vervallen
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
-#### Artikel 38
+##### Artikel 38
 
 1. De Autoriteit Financiële Markten legt een voorgenomen statutenwijziging ter voorafgaande instemming voor aan Onze Minister. De [artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:28) zijn van overeenkomstige toepassing.
 
@@ -412,7 +439,7 @@ Vervallen
 
 - c. wegens strijd met het recht of het algemeen belang.
 
-#### Artikel 39
+##### Artikel 39
 
 1. De Autoriteit Financiële Markten draagt met betrekking tot de uitoefening van haar taak op grond van deze wet zorg voor:
 
@@ -426,19 +453,19 @@ Vervallen
 
 2. De Autoriteit Financiële Markten treft voorzieningen, waardoor ieder die met haar in aanraking komt in de gelegenheid is voorstellen tot verbetering van werkwijzen en procedures te doen.
 
-#### Artikel 40
+##### Artikel 40
 
 Vervallen
 
-#### Artikel 41
+##### Artikel 41
 
 Vervallen
 
-#### Artikel 42
+##### Artikel 42
 
 Vervallen
 
-#### Artikel 43
+##### Artikel 43
 
 1. Onze Minister kan aan de Autoriteit Financiële Markten de gegevens of inlichtingen vragen die nodig zijn voor een onderzoek naar de toereikendheid van deze wet of de wijze waarop de Autoriteit Financiële Markten deze wet uitvoert of heeft uitgevoerd, indien dat ter wille van het toezicht nodig blijkt.
 
@@ -462,15 +489,15 @@ Vervallen
 
 7. De [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) en de [Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372) zijn niet van toepassing met betrekking tot de in dit artikel bedoelde gegevens of inlichtingen die Onze Minister of de in zijn opdracht werkende derde onder zich heeft.
 
-#### Artikel 44
+##### Artikel 44
 
 Vervallen
 
-#### Artikel 45
+##### Artikel 45
 
 Vervallen
 
-#### Artikel 46
+##### Artikel 46
 
 Vervallen
 
@@ -478,7 +505,7 @@ Vervallen
 
 #### Paragraaf 5.1. Toezicht op de naleving
 
-#### Artikel 47
+##### Artikel 47
 
 De leden van het bestuur van de Autoriteit Financiële Markten die het dagelijks beleid met betrekking tot het toezicht op de naleving van deze wet bepalen:
 
@@ -490,23 +517,23 @@ De leden van het bestuur van de Autoriteit Financiële Markten die het dagelijks
 
 - d. zijn gedurende de periode dat zij deel uitmaken van het bestuur van de Autoriteit Financiële Markten niet werkzaam bij of verbonden aan een accountantsorganisatie, noch zijn zij dat geweest in de drie onmiddellijk aan deze periode voorafgaande jaren.
 
-#### Artikel 48
+##### Artikel 48
 
 1. De Autoriteit Financiële Markten houdt bij de uitvoering van het toezicht op de naleving van deze wet rekening met de uitkomsten van de beoordeling van de werking van door accountantsorganisaties gehanteerde stelsels van kwaliteitsbeheersing door andere organisaties, waaronder het openbare lichaam, bedoeld in [artikel 2, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=2).
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen terzake van het eerste lid regels worden gesteld.
 
-#### Artikel 49
+##### Artikel 49
 
 1. Met het toezicht op de naleving van de bij en krachtens deze wet of bij de EU-verordening gestelde regels zijn belast de bij besluit van de Autoriteit Financiële Markten aangewezen personen.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 50
+##### Artikel 50
 
 De personen, bedoeld in het [eerste lid van artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5&paragraaf=5.1&artikel=49&z=2025-03-01&g=2025-03-01), beschikken niet over de bevoegdheden, genoemd in de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
 
-#### Artikel 51
+##### Artikel 51
 
 1. De Autoriteit Financiële Markten kan ten behoeve van de juiste uitvoering van haar bij of krachtens deze wet geregelde taken en bevoegdheden van een ieder inlichtingen vorderen.
 
@@ -516,23 +543,23 @@ De personen, bedoeld in het [eerste lid van artikel 49](https://wetten.overheid.
 
 #### Paragraaf 5.2. Handhaving
 
-#### Artikel 52
+##### Artikel 52
 
 De Autoriteit Financiële Markten kan de accountantsorganisatie waaraan een vergunning is verleend die niet voldoet aan hetgeen bij of krachtens deze wet of bij de EU-verordening is bepaald, of het hiërarchisch hoogste netwerkonderdeel met zetel in Nederland dat invloed uitoefent op het beleid van de accountantsorganisatie dat niet voldoet aan hetgeen bij of krachtens de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=16&z=2025-03-01&g=2025-03-01) en [22a](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.3&artikel=22a&z=2025-03-01&g=2025-03-01) van de wet is bepaald, door middel van het geven van een aanwijzing verplichten om binnen een door de Autoriteit Financiële Markten gestelde redelijke termijn ten aanzien van in de aanwijzingsbeschikking aan te geven punten een bepaalde gedragslijn te volgen.
 
-#### Artikel 53
+##### Artikel 53
 
 1. De Autoriteit Financiële Markten kan een last onder dwangsom opleggen ter zake van een overtreding van een voorschrift, gesteld bij of krachtens de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=2&afdeling=2.1&artikel=5&z=2025-03-01&g=2025-03-01), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=2&afdeling=2.1&artikel=6&z=2025-03-01&g=2025-03-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=14&z=2025-03-01&g=2025-03-01), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=14a&z=2025-03-01&g=2025-03-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=15&z=2025-03-01&g=2025-03-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=16&z=2025-03-01&g=2025-03-01), [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=16b&z=2025-03-01&g=2025-03-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=17&z=2025-03-01&g=2025-03-01), [18, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=18&z=2025-03-01&g=2025-03-01), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=18a&z=2025-03-01&g=2025-03-01), [18b](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=18b&z=2025-03-01&g=2025-03-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=19&z=2025-03-01&g=2025-03-01), [19a](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=19a&z=2025-03-01&g=2025-03-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=21&z=2025-03-01&g=2025-03-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.3&artikel=22&z=2025-03-01&g=2025-03-01), [22a, eerste tot en met het zevende en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.3&artikel=22a&z=2025-03-01&g=2025-03-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.3&artikel=23&z=2025-03-01&g=2025-03-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.3&artikel=24&z=2025-03-01&g=2025-03-01), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.3&artikel=24b&z=2025-03-01&g=2025-03-01) en [48a, zevende en achtste lid van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5&paragraaf=5.1&artikel=48a&z=2025-03-01&g=2025-03-01) en de artikelen 4, eerste, tweede en derde lid, 5, eerste, vierde en vijfde lid, 6, 7, 8, 10, 11, eerste, tweede, vierde en vijfde lid, 12, eerste lid, 13, 14, 15, 16, eerste tot en met zesde lid, 17, eerste, derde, vijfde tot en met zevende lid, 18 en 26, achtste lid, van de EU-verordening.
 
 2. Onze Minister kan regels stellen ter zake van de uitoefening van de bevoegdheid, bedoeld in het eerste lid.
 
-#### Artikel 54
+##### Artikel 54
 
 1. De Autoriteit Financiële Markten kan een bestuurlijke boete opleggen ter zake van een overtreding van een voorschrift, gesteld bij of krachtens de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=2&afdeling=2.1&artikel=5&z=2025-03-01&g=2025-03-01), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=2&afdeling=2.1&artikel=6&z=2025-03-01&g=2025-03-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=14&z=2025-03-01&g=2025-03-01), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=14a&z=2025-03-01&g=2025-03-01),[15](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=15&z=2025-03-01&g=2025-03-01), [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=16b&z=2025-03-01&g=2025-03-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=18&z=2025-03-01&g=2025-03-01), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=18a&z=2025-03-01&g=2025-03-01), [18b](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=18b&z=2025-03-01&g=2025-03-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=19&z=2025-03-01&g=2025-03-01), [19a](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=19a&z=2025-03-01&g=2025-03-01), [20, eerste, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=20&z=2025-03-01&g=2025-03-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=21&z=2025-03-01&g=2025-03-01), [21a](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.3&artikel=21a&z=2025-03-01&g=2025-03-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.3&artikel=22&z=2025-03-01&g=2025-03-01), [22a, eerste tot en met zevende en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.3&artikel=22a&z=2025-03-01&g=2025-03-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.3&artikel=23&z=2025-03-01&g=2025-03-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.3&artikel=24&z=2025-03-01&g=2025-03-01), [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.3&artikel=24b&z=2025-03-01&g=2025-03-01) en [48a, zevende en achtste lid van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5&paragraaf=5.1&artikel=48a&z=2025-03-01&g=2025-03-01), [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) en de artikelen 4, eerste, tweede en derde lid, 5, eerste, vierde en vijfde lid, 6, 7, 8, 10, 11, eerste, tweede, vierde en vijfde lid, 12, eerste lid, 13, 14, 15, 16, eerste tot en met zesde lid, 17, eerste, derde, vijfde tot en met achtste lid, 18 en 26, achtste lid, van de EU-verordening.
 
 2. Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de uitoefening van de bevoegdheid, bedoeld in het eerste lid.
 
-#### Artikel 55
+##### Artikel 55
 
 1. Het bedrag van de bestuurlijke boete wordt bepaald bij algemene maatregel van bestuur, met dien verstande dat de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste € 4 000 000 bedraagt. Indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding, wordt het bedrag van de bestuurlijke boete, bedoeld in de eerste volzin, voor een afzonderlijke overtreding verdubbeld.
 
@@ -546,19 +573,19 @@ De Autoriteit Financiële Markten kan de accountantsorganisatie waaraan een verg
 
 3. In afwijking van het eerste en tweede lid kan de toezichthouder de hoogte van de bestuurlijke boete vaststellen op ten hoogste twee keer het bedrag van het voordeel dat de overtreder door de overtreding heeft verkregen indien diens voordeel groter is dan € 2 000 000.
 
-#### Artikel 56
+##### Artikel 56
 
 1. Indien tegen een besluit tot het opleggen van een bestuurlijke boete bezwaar of beroep wordt aangetekend, schorst dit de verplichting tot betaling van de bestuurlijke boete totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
 
 2. De schorsing van de verplichting tot betaling van de bestuurlijke boete schorst niet de berekening van de wettelijke rente.
 
-#### Artikel 57
+##### Artikel 57
 
 1. De Autoriteit Financiële Markten kan bij overtreding van een voorschrift van hetgeen bij of krachtens deze wet of de EU-verordening is bepaald en dat op grond van [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5&paragraaf=5.2&artikel=55&z=2025-03-01&g=2025-03-01) beboetbaar is met een boete van de derde categorie, een dagelijks beleidsbepaler van een organisatie van openbaar belang, of een dagelijks beleidsbepaler van een accountantsorganisatie de bevoegdheid ontzeggen om bij een accountantsorganisatie of een organisatie van openbaar belang bepaalde functies uit te oefenen.
 
 2. Een ontzegging als bedoeld in het eerste lid kan worden opgelegd voor de duur van ten hoogste drie jaar.
 
-#### Artikel 58
+##### Artikel 58
 
 1. De Autoriteit Financiële Markten kan ter zake van een overtreding van hetgeen bij of krachtens deze wet of de EU-verordening is bepaald die op grond van [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5&paragraaf=5.2&artikel=55&z=2025-03-01&g=2025-03-01) beboetbaar is met een boete van de derde categorie, bepalen dat een accountantsorganisatie die wettelijke controles verricht bij een organisatie van openbaar belang niet langer bevoegd is wettelijke controles te verrichten bij die controlecliënt.
 
@@ -570,41 +597,41 @@ De Autoriteit Financiële Markten kan de accountantsorganisatie waaraan een verg
 
 5. De Autoriteit Financiële Markten deelt het besluit als bedoeld in het eerste lid onverwijld mee aan de controlecliënt.
 
-#### Artikel 59
+##### Artikel 59
 
 Vervallen
 
-#### Artikel 60
+##### Artikel 60
 
 Vervallen
 
-#### Artikel 61
+##### Artikel 61
 
 Vervallen
 
-#### Artikel 62
+##### Artikel 62
 
 Vervallen
 
 #### Paragraaf 5.1. Toezicht op de naleving
 
-#### Artikel 63
+##### Artikel 63
 
 Vervallen
 
 ### Hoofdstuk 6. Publicatie
 
-#### Artikel 64
+##### Artikel 64
 
 De Autoriteit Financiële Markten kan een openbare waarschuwing uitvaardigen, indien nodig onder vermelding van de overwegingen die tot die waarschuwing hebben geleid, bij overtreding van deze wet of de EU-verordening.
 
-#### Artikel 65
+##### Artikel 65
 
 1. De Autoriteit Financiële Markten stelt, indien zij besluit een openbare waarschuwing uit te zullen vaardigen als bedoeld in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=6&artikel=64&z=2025-03-01&g=2025-03-01), de betrokken accountantsorganisatie in kennis van het besluit.
 
 2. Het besluit vermeldt in ieder geval de geconstateerde overtreding, de inhoud van de openbaarmaking, de gronden waarop het besluit berust alsmede de wijze waarop en de termijn waarna de openbare waarschuwing zal worden uitgevaardigd.
 
-#### Artikel 66
+##### Artikel 66
 
 1. Het uitvaardigen van een openbare waarschuwing als bedoeld in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=6&artikel=64&z=2025-03-01&g=2025-03-01) geschiedt niet eerder dan nadat vijf werkdagen zijn verstreken na de dag waarop de betrokken accountantsorganisatie overeenkomstig [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=6&artikel=65&z=2025-03-01&g=2025-03-01) in kennis is gesteld van het besluit.
 
@@ -618,7 +645,7 @@ De Autoriteit Financiële Markten kan een openbare waarschuwing uitvaardigen, in
 
 4. In de gevallen bedoeld in het derde lid, biedt de Autoriteit Financiële Markten de belanghebbende aan de intrekking of de vernietiging openbaar te maken.
 
-#### Artikel 67
+##### Artikel 67
 
 1. De Autoriteit Financiële Markten maakt een besluit tot het opleggen van een bestuurlijke boete ingevolge deze wet na bekendmaking openbaar, indien de bestuurlijke boete is opgelegd terzake overtreding van:
 
@@ -646,15 +673,15 @@ De Autoriteit Financiële Markten kan een openbare waarschuwing uitvaardigen, in
 
 6. De Autoriteit Financiële Markten maakt de indiening van een bezwaar of de instelling van een beroep tegen een besluit als bedoeld in het eerste lid, alsmede de uitkomst van dat bezwaar of beroep, bekend zodra dit redelijkerwijs uitvoerbaar is. Het vijfde lid is van overeenkomstige toepassing.
 
-#### Artikel 68
+##### Artikel 68
 
 Onverminderd [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=6&artikel=67&z=2025-03-01&g=2025-03-01) maakt de Autoriteit Financiële Markten een besluit tot het opleggen van een bestuurlijke boete ingevolge deze wet openbaar, nadat het rechtens onaantastbaar is geworden, alsmede, voor zover van toepassing, de uitkomst van een bezwaar of beroep dat daaraan vooraf is gegaan. Artikel 67, tweede tot en met vijfde lid, is van overeenkomstige toepassing.
 
-#### Artikel 69
+##### Artikel 69
 
 De Autoriteit Financiële Markten maakt een besluit tot het opleggen van een last onder dwangsom ingevolge deze wet of [artikel 5:20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), juncto [artikel 5:32, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32) openbaar wanneer een dwangsom wordt verbeurd. [Artikel 67, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=6&artikel=67&z=2025-03-01&g=2025-03-01), is van overeenkomstige toepassing.
 
-#### Artikel 70
+##### Artikel 70
 
 1. In afwijking van [artikel 67, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=6&artikel=67&z=2025-03-01&g=2025-03-01), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=6&artikel=68&z=2025-03-01&g=2025-03-01) of [69](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=6&artikel=69&z=2025-03-01&g=2025-03-01) kan de Autoriteit Financiële Markten op een kortere termijn en zo nodig onverwijld overgaan tot openbaarmaking, voor zover:
 
@@ -678,7 +705,7 @@ De Autoriteit Financiële Markten maakt een besluit tot het opleggen van een las
 
 7. In afwijking van [artikel 67, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=6&artikel=67&z=2025-03-01&g=2025-03-01), en [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=6&artikel=69&z=2025-03-01&g=2025-03-01) zijn het vijfde en zesde lid van overeenkomstige toepassing op een besluit tot openbaarmaking op grond van artikel 67 of 69, voor zover de openbaarmaking in strijd met artikel 67, vijfde lid, heeft plaatsgevonden.
 
-#### Artikel 71
+##### Artikel 71
 
 1. Indien wordt verzocht om een voorlopige voorziening als bedoeld in [artikel 8:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:81) om openbaarmaking op grond van dit hoofdstuk te voorkomen, vindt het onderzoek ter zitting plaats met gesloten deuren.
 
@@ -686,7 +713,7 @@ De Autoriteit Financiële Markten maakt een besluit tot het opleggen van een las
 
 3. Indien de voorzieningenrechter openbaarmaking op grond van dit hoofdstuk heeft verboden, of indien op grond van [artikel 67, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=6&artikel=67&z=2025-03-01&g=2025-03-01), nog geen tot afzonderlijke personen herleidbare openbaarmaking heeft plaatsgevonden, en beroep of hoger beroep wordt ingesteld tegen het besluit tot openbaarmaking of het besluit tot het opleggen van de bestuurlijke boete of de last onder dwangsom, vindt het onderzoek ter zitting plaats met gesloten deuren.
 
-#### Artikel 72
+##### Artikel 72
 
 Vervallen
 
@@ -694,41 +721,41 @@ Vervallen
 
 #### Paragraaf 5.3. Beroep
 
-#### Artikel 73
+##### Artikel 73
 
 Wijzigt de Gemeentewet.
 
-#### Artikel 74
+##### Artikel 74
 
 Wijzigt de Provinciewet.
 
 #### Paragraaf 7.2. Ministerie van Financiën
 
-#### Artikel 75
+##### Artikel 75
 
 Wijzigt de Wet op de Accountants-Administratieconsulenten.
 
-#### Artikel 76
+##### Artikel 76
 
 Wijzigt de Wet op de Registeraccountants.
 
 #### Paragraaf 7.3. Ministerie van Justitie
 
-#### Artikel 77
+##### Artikel 77
 
 Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.
 
-#### Artikel 78
+##### Artikel 78
 
 Wijzigt de Wet op de economische delicten.
 
 ### Hoofdstuk 5c. Samenwerking internationaal
 
-#### Artikel 79
+##### Artikel 79
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 80
+##### Artikel 80
 
 1. Het is een accountantsorganisatie toegestaan om na het tijdstip van inwerkingtreding van deze wet zonder vergunning haar werkzaamheden ten behoeve van het uitvoeren van wettelijke controles voort te zetten dan wel opdrachten tot uitvoering van wettelijke controles te aanvaarden, onder de in het tweede lid genoemde voorwaarden.
 
@@ -740,39 +767,39 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de 
 
 5. De accountantsorganisatie die op grond van het tweede lid een vergunning heeft aangevraagd, wordt als aanvrager in de zin van het tweede lid ingeschreven in het register, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=2&afdeling=2.3&artikel=11&z=2025-03-01&g=2025-03-01). De Autoriteit Financiële Markten haalt deze inschrijving door zodra zij onherroepelijk op de aanvraag heeft beslist.
 
-#### Artikel 81
+##### Artikel 81
 
 De besluiten die voor het tijdstip van inwerkingtreding van deze wet zijn genomen door onderscheidenlijk het examenbureau, bedoeld in [artikel 74, eerste lid, van de Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374&artikel=74), het curatorium, bedoeld in [artikel 75, eerste lid, van de Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374&artikel=75) en het examenbureau, bedoeld in [artikel 85, eerste lid, van de Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=85), en die betrekking hebben op een periode na bedoeld tijdstip, worden na dat tijdstip geacht te zijn genomen door de Commissie eindtermen accountantsopleiding, bedoeld in [artikel 69, eerste lid, van de Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374&artikel=69).
 
-#### Artikel 82
+##### Artikel 82
 
 In geval voor het tijdstip van inwerkingtreding van deze wet beroep is ingesteld tegen een op grond van de [Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374) genomen besluit door het examenbureau, bedoeld in [artikel 74, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002374&artikel=74) of het curatorium, bedoeld in [artikel 75, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002374&artikel=75), onderscheidenlijk tegen een op grond van de [Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856) genomen besluit door het examenbureau, bedoeld in [artikel 85, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=85) of het curatorium, bedoeld in [artikel 89, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=89) wordt op het bezwaar en beroep beslist met toepassing van het voor dat tijdstip geldende recht.
 
-#### Artikel 83
+##### Artikel 83
 
 Vervallen
 
-#### Artikel 84
+##### Artikel 84
 
 In afwijking van [artikel 67, tweede lid, van de Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374&artikel=67) en [artikel 54, tweede lid, van de Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=54), blijven de regels, opgenomen in de [artikelen 8 tot en met 13 van het Examenbesluit registeraccountants 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006453&artikel=8) onderscheidenlijk de [artikelen 8 tot en met 13 van het Examenbesluit Accountants-Administratieconsulenten 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006454&artikel=8), zoals deze luidden voor het tijdstip van inwerkingtreding van deze wet, van toepassing op de praktijkstage, tot het tijdstip waarop de verordening, bedoeld in [artikel 67, tweede lid, van de Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374&artikel=67) onderscheidenlijk de verordening, bedoeld in [artikel 54, tweede lid, van de Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=54), in werking treedt.
 
-#### Artikel 85
+##### Artikel 85
 
 1. Tot het tijdstip waarop de Commissie eindtermen accountantsopleiding de eindtermen, bedoeld in [artikel 56, eerste lid, onderdeel a, van de Wet op de Accountants-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=56) heeft vastgesteld, blijven de door het examenbureau, bedoeld in [artikel 85, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=85), vastgestelde eisen, bedoeld in [artikel 5, eerste lid, van het Examenbesluit Accountants-Administratieconsulenten 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006454&artikel=5), zoals die luidden voor het tijdstip van inwerkingtreding van deze wet, van toepassing.
 
 2. Tot het tijdstip waarop de Commissie eindtermen accountantsopleiding de eindtermen, bedoeld in [artikel 69, tweede lid, onderdeel a, van de Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374&artikel=69) heeft vastgesteld, blijven de door het examenbureau, bedoeld in [artikel 74, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002374&artikel=74), vastgestelde eisen, bedoeld in [artikel 5, eerste lid, van het Examenbesluit registeraccountants 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006453&artikel=5), zoals die luidden voor het tijdstip van inwerkingtreding van deze wet, van toepassing.
 
-#### Artikel 86
+##### Artikel 86
 
 1. Binnen zes weken na het tijdstip van inwerkingtreding van deze wet zendt de Autoriteit Financiële Markten ter instemming aan Onze Minister een begroting van de in het resterende deel van het lopende jaar te verwachten baten en lasten, investeringsuitgaven alsmede inkomsten en uitgaven met betrekking tot de uitvoering van de bij en krachtens deze wet opgedragen taak en daaruit voortvloeiende werkzaamheden.
 
 2. [Artikel 32, tweede, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=4&artikel=32&z=2025-03-01&g=2025-03-01), is van overeenkomstige toepassing.
 
-#### Artikel 87
+##### Artikel 87
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 88
+##### Artikel 88
 
 Deze wet wordt aangehaald als: Wet toezicht accountantsorganisaties.
 
@@ -856,11 +883,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Afdeling 2.4. Auditorganisaties van een derde land en auditors van een derde land
 
-#### Artikel 12a
+##### Artikel 12a
 
 De [artikelen 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=2&afdeling=2.4&artikel=12b&z=2025-03-01&g=2025-03-01) en [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=2&afdeling=2.4&artikel=12c&z=2025-03-01&g=2025-03-01) zijn niet van toepassing op ondernemingen of instellingen waaraan een vergunning is verleend als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=2&afdeling=2.1&artikel=5&z=2025-03-01&g=2025-03-01).
 
-#### Artikel 12b
+##### Artikel 12b
 
 1. Een door een auditorganisatie van een derde land of een auditor van een derde land afgegeven verklaring omtrent de controle van de jaarrekening of geconsolideerde jaarrekening van een onderneming met zetel in een staat die geen lidstaat is en waarvan de effecten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) in Nederland, heeft uitsluitend rechtsgevolg in Nederland indien de auditorganisatie van een derde land onderscheidenlijk de auditor van een derde land is ingeschreven in het register, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=2&afdeling=2.3&artikel=11&z=2025-03-01&g=2025-03-01).
 
@@ -872,7 +899,7 @@ De [artikelen 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=2&a
 
 3. Het tweede lid is van toepassing totdat onherroepelijk op de aanvraag tot inschrijving is beslist.
 
-#### Artikel 12c
+##### Artikel 12c
 
 1. De Autoriteit Financiële Markten draagt, op aanvraag, zorg voor de inschrijving in het register, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=2&afdeling=2.3&artikel=11&z=2025-03-01&g=2025-03-01), van een auditorganisatie van een derde land die aantoont dat:
 
@@ -892,7 +919,7 @@ De [artikelen 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=2&a
 
 3. De Autoriteit Financiële Markten beslist binnen twaalf maanden op een aanvraag als bedoeld in het eerste lid. In afwachting van een besluit van de Commissie van de Europese Gemeenschappen als bedoeld in de artikelen 45, zesde lid, en 46, tweede lid, van de richtlijn kan de Autoriteit Financiële Markten de beslissing opschorten tot twaalf maanden nadat de Commissie van de Europese Gemeenschappen een besluit heeft genomen.
 
-#### Artikel 12d
+##### Artikel 12d
 
 1. De [artikelen 48a](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5&paragraaf=5.1&artikel=48a&z=2025-03-01&g=2025-03-01), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5&paragraaf=5.2&artikel=52&z=2025-03-01&g=2025-03-01), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=6&artikel=64&z=2025-03-01&g=2025-03-01), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=6&artikel=65&z=2025-03-01&g=2025-03-01), en [66](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=6&artikel=66&z=2025-03-01&g=2025-03-01) en de [hoofdstukken 5A](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5a&z=2025-03-01&g=2025-03-01) en [5B](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5b&z=2025-03-01&g=2025-03-01) zijn van overeenkomstige toepassing ten aanzien van auditorganisaties van een derde land die ingevolge [artikel 12c](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=2&afdeling=2.4&artikel=12c&z=2025-03-01&g=2025-03-01) zijn ingeschreven in het register, met dien verstande dat de in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=6&artikel=64&z=2025-03-01&g=2025-03-01) bedoelde openbare waarschuwing kan worden uitgevaardigd, indien de auditorganisatie van een derde land niet voldoet aan de in [artikel 12c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=2&afdeling=2.4&artikel=12c&z=2025-03-01&g=2025-03-01) gestelde eisen voor inschrijving in het register.
 
@@ -912,23 +939,23 @@ De [artikelen 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=2&a
 
 #### Paragraaf 3.1.2. Algemene voorschriften
 
-#### Artikel 16a
+##### Artikel 16a
 
 Natuurlijke personen die het dagelijks beleid bepalen van een accountantsorganisatie met een vergunning die mede strekt tot het verrichten van wettelijke controles bij organisaties van openbaar belang, verrichten geen andere werkzaamheden dan die van dagelijks beleidsbepaler van de accountantsorganisatie, tenzij hiervoor voorafgaande goedkeuring is verleend door het orgaan, bedoeld in [artikel 22a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.3&artikel=22a&z=2025-03-01&g=2025-03-01).
 
 #### Paragraaf 3.1.3. Aanvullende voorschriften ten aanzien van wettelijke controles bij organisaties van openbaar belang
 
-#### Artikel 21a
+##### Artikel 21a
 
 Bij algemene maatregel van bestuur kunnen regels worden gesteld ten aanzien van de instelling door organisaties van openbaar belang van een auditcomité of een orgaan met gelijksoortige taken en ten aanzien van de bij dit comité of dit orgaan in te dienen aanvullende verklaring als bedoeld in artikel 11 van de EU-verordening.
 
-#### Artikel 24a
+##### Artikel 24a
 
 Vervallen
 
 ### Afdeling 3.2. De externe accountant
 
-#### Artikel 25a
+##### Artikel 25a
 
 1. Een externe accountant is onafhankelijk van de controlecliënt waarbij hij een wettelijke controle verricht en niet betrokken bij de besluitvorming van de controlecliënt, waarbij de onafhankelijkheid in ieder geval vereist is gedurende de periode waarop de te controleren financiële verantwoording betrekking heeft en gedurende de periode waarin de wettelijke controle wordt verricht.
 
@@ -940,7 +967,7 @@ Vervallen
 
 5. De externe accountant legt de ingevolge het tweede of derde lid genomen maatregelen vast.
 
-#### Artikel 29a
+##### Artikel 29a
 
 1. Degene die als externe accountant verantwoordelijk is geweest voor het uitvoeren van een wettelijke controle, aanvaardt na het beëindigen van zijn werkzaamheden als externe accountant bij die controlecliënt gedurende een periode van ten minste een jaar geen functie als:
 
@@ -958,7 +985,7 @@ Vervallen
 
 #### Paragraaf 5.1. Toezicht op de naleving
 
-#### Artikel 48a
+##### Artikel 48a
 
 1. De Autoriteit Financiële Markten beoordeelt ten minste eenmaal in de zes jaar, of zoveel vaker als nodig is op basis van een risicoanalyse, of een accountantsorganisatie voldoet aan het bij of krachtens deze wet en de EU-verordening bepaalde.
 
@@ -978,7 +1005,7 @@ Vervallen
 
 #### Paragraaf 5.2. Handhaving
 
-#### Artikel 62a
+##### Artikel 62a
 
 Vervallen
 
@@ -986,13 +1013,13 @@ Vervallen
 
 ### Hoofdstuk 5a. Geheimhoudingsplicht
 
-#### Artikel 63a
+##### Artikel 63a
 
 1. Het is een ieder die uit hoofde van de toepassing van deze wet of van ingevolge deze wet genomen besluiten enige taak vervult of heeft vervuld, verboden van vertrouwelijke gegevens of inlichtingen die ingevolge deze wet dan wel ingevolge [afdeling 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.2) zijn verstrekt of verkregen of van instanties die belast zijn met het toezicht op auditkantoren in een andere lidstaat zijn ontvangen, verder of anders gebruik te maken of daaraan verder of anders bekendheid te geven dan voor de uitvoering van zijn taak of op basis van deze wet noodzakelijk is.
 
 2. In afwijking van het eerste lid kan de Autoriteit Financiële Markten met gebruikmaking van vertrouwelijke gegevens of inlichtingen, verkregen bij de uitvoering van haar taak op grond van deze wet, mededelingen doen, indien deze niet kunnen worden herleid tot afzonderlijke personen, accountantsorganisaties of auditkantoren.
 
-#### Artikel 63b
+##### Artikel 63b
 
 1. De Autoriteit Financiële Markten kan, in afwijking van [artikel 63a](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5a&artikel=63a&z=2025-03-01&g=2025-03-01), vertrouwelijke gegevens of inlichtingen verkregen bij de vervulling van de haar ingevolge deze wet opgedragen taak, verstrekken aan De Nederlandsche Bank N.V., tenzij:
 
@@ -1012,19 +1039,19 @@ Vervallen
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing op het uitwisselen van vertrouwelijke gegevens of inlichtingen tussen de met verschillende taken belaste onderdelen van de Autoriteit Financiële Markten.
 
-#### Artikel 63c
+##### Artikel 63c
 
 1. De Autoriteit Financiële Markten kan, in afwijking van [artikel 63a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5a&artikel=63a&z=2025-03-01&g=2025-03-01), vertrouwelijke gegevens of inlichtingen verkregen bij de uitvoering van de haar ingevolge deze wet opgedragen taak die betrekking hebben op overtredingen door accountantsorganisaties van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=2&afdeling=2.1&artikel=5&z=2025-03-01&g=2025-03-01), of [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=2&afdeling=2.1&artikel=6&z=2025-03-01&g=2025-03-01), van deze wet, verstrekken aan een Nederlandse instantie die is belast met de uitoefening van strafvorderlijke bevoegdheden of aan een deskundige die door een dergelijke instantie met een opdracht is belast, voor zover de verlangde gegevens of inlichtingen noodzakelijk zijn voor de uitoefening van die bevoegdheden of de uitvoering van die opdracht.
 
 2. Indien de instantie, bedoeld in het eerste lid, het voornemen heeft toepassing te geven aan de bevoegdheid tot het bij de Autoriteit Financiële Markten vorderen van de uitlevering van een voor inbeslagneming vatbaar voorwerp of aan de bevoegdheid tot het vorderen van de inzage of een afschrift van bescheiden als bedoeld in [artikel 96a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=96a), [105](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=105) of [126a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126a), of [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=18) of [19 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=19), en de vordering betreft vertrouwelijke gegevens of inlichtingen als bedoeld in [artikel 2:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:5), stelt die instantie voorafgaand aan de uitoefening van haar bevoegdheid de Autoriteit Financiële Markten in de gelegenheid haar zienswijze hierover kenbaar te maken.
 
-#### Artikel 63d
+##### Artikel 63d
 
 1. De Autoriteit Financiële Markten kan, in afwijking van [artikel 63a](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5a&artikel=63a&z=2025-03-01&g=2025-03-01), vertrouwelijke gegevens of inlichtingen verkregen bij de vervulling van de haar ingevolge deze wet opgedragen taak, verstrekken aan de accountantskamer, bedoeld in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.2&artikel=31&z=2025-03-01&g=2025-03-01), of het College van Beroep voor het bedrijfsleven.
 
 2. De Autoriteit Financiële Markten verstrekt geen vertrouwelijke gegevens of inlichtingen als bedoeld in het eerste lid indien de verstrekking van de vertrouwelijke gegevens of inlichtingen redelijkerwijs in strijd is of zou kunnen komen met de belangen die deze wet beoogt te beschermen.
 
-#### Artikel 63e
+##### Artikel 63e
 
 1. De Autoriteit Financiële Markten kan, in afwijking van [artikel 63a](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5a&artikel=63a&z=2025-03-01&g=2025-03-01), vertrouwelijke gegevens of inlichtingen verkregen bij de vervulling van de haar ingevolge deze wet opgedragen taak, verstrekken aan:
 
@@ -1040,7 +1067,7 @@ voor zover de gegevens of inlichtingen noodzakelijk zijn voor de vervulling van 
 
 ### Afdeling 5b.1. Samenwerking met andere lidstaten algemeen
 
-#### Artikel 63f
+##### Artikel 63f
 
 1. De Autoriteit Financiële Markten werkt samen met toezichthoudende instanties van andere lidstaten, indien dat voor het vervullen van haar taak op grond van deze wet of voor de vervulling van de taak van die toezichthoudende instanties nodig is.
 
@@ -1060,7 +1087,7 @@ voor zover de gegevens of inlichtingen noodzakelijk zijn voor de vervulling van 
 
 4. Het tweede lid is niet van toepassing op het verstrekken van vertrouwelijke gegevens en inlichtingen door de Autoriteit Financiële Markten in overeenstemming met artikel 31, derde lid, van de EU-verordening.
 
-#### Artikel 63g
+##### Artikel 63g
 
 1. De Autoriteit Financiële Markten kan ter uitvoering van haar taak op grond van [artikel 63f](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5c&afdeling=5c.1&artikel=63f&z=2025-03-01&g=2025-03-01) van een ieder inlichtingen vorderen, indien dat voor de vervulling van de taak van een toezichthoudende instantie in een andere lidstaat nodig is. De artikelen [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) en [5:20, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van overeenkomstige toepassing.
 
@@ -1068,7 +1095,7 @@ voor zover de gegevens of inlichtingen noodzakelijk zijn voor de vervulling van 
 
 3. De Autoriteit Financiële Markten is bevoegd tot toepassing van [artikel 5:20, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) ten aanzien van de in het eerste lid bedoelde vordering en de in het tweede lid bedoelde personen.
 
-#### Artikel 63h
+##### Artikel 63h
 
 1. Indien een toezichthoudende instantie van een andere lidstaat ten behoeve van het toezicht op een auditkantoor in die staat de Autoriteit Financiële Markten verzoekt in Nederland een onderzoek te verrichten of in de gelegenheid te worden gesteld om bij dit onderzoek aanwezig te zijn, geeft de Autoriteit Financiële Markten aan dit verzoek gevolg, tenzij:
 
@@ -1086,7 +1113,7 @@ voor zover de gegevens of inlichtingen noodzakelijk zijn voor de vervulling van 
 
 3. De Autoriteit Financiële Markten is bevoegd tot toepassing van [artikel 5:20, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) ten aanzien van het in het eerste lid bedoelde onderzoek.
 
-#### Artikel 63i
+##### Artikel 63i
 
 1. Indien de Autoriteit Financiële Markten vaststelt dat er in een andere lidstaat handelingen worden of zijn uitgevoerd die strijdig zijn met hetgeen ingevolge de richtlijn in die lidstaat is voorgeschreven, geeft zij hiervan op zo specifiek mogelijke wijze kennis aan de toezichthoudende instantie van de andere lidstaat.
 
@@ -1094,7 +1121,7 @@ voor zover de gegevens of inlichtingen noodzakelijk zijn voor de vervulling van 
 
 ### Afdeling 5b.2. Samenwerking met toezichthoudende instanties van staten die geen lidstaat zijn
 
-#### Artikel 63j
+##### Artikel 63j
 
 1. De Autoriteit Financiële Markten kan, in afwijking van [artikel 63a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5a&artikel=63a&z=2025-03-01&g=2025-03-01), en met inachtneming van het tweede lid, op verzoek van een toezichthoudende instantie van een staat die geen lidstaat is, vertrouwelijke gegevens of inlichtingen aan die toezichthoudende instantie verstrekken die betrekking hebben op:
 
@@ -1130,7 +1157,7 @@ voor zover de gegevens of inlichtingen noodzakelijk zijn voor de vervulling van 
 
 5. Het eerste tot en met vierde lid, met uitzondering van het tweede lid, onderdeel c, is niet van toepassing op de uitwisseling van gegevens en inlichtingen als bedoeld in artikel 36 van de EU-verordening.
 
-#### Artikel 63k
+##### Artikel 63k
 
 1. De Autoriteit Financiële Markten kan ten behoeve van de samenwerking, bedoeld in [artikel 63j](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5c&afdeling=5c.2&artikel=63j&z=2025-03-01&g=2025-03-01) of artikel 36 van de EU-verordening, van een ieder inlichtingen vorderen, indien dat voor de vervulling van de taak van een toezichthoudende instantie in een staat die geen lidstaat is, nodig is. De artikelen [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) en [5:20, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van overeenkomstige toepassing.
 
@@ -1304,7 +1331,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 24b
+##### Artikel 24b
 
 1. In aanvulling op artikel 5, eerste lid, van de EU-verordening, verricht een accountantsorganisatie die de wettelijke controle verricht bij een organisatie van openbaar belang, naast controlediensten geen diensten voor die organisatie en aan die organisatie gelieerde entiteiten.
 
@@ -1350,7 +1377,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk 8. Evaluatiebepaling en overgangs- en slotbepalingen
 
-#### Artikel 86a
+##### Artikel 86a
 
 1. Tot twee jaar na de inwerkingtreding van de [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573) is [artikel 24b](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.3&artikel=24b&z=2025-03-01&g=2025-03-01) niet van toepassing op werkzaamheden waarvoor de opdracht aan de accountant of accountantsorganisatie is verstrekt voorafgaand aan de inwerkingtreding van de Wet op het accountantsberoep.
 
@@ -1398,7 +1425,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 4a
+##### Artikel 4a
 
 De [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&z=2025-03-01&g=2025-03-01), en [5 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5&z=2025-03-01&g=2025-03-01) zijn van overeenkomstige toepassing op accountantsorganisaties die controleverklaringen afgeven betreffende de jaarlijkse of geconsolideerde financiële overzichten van een vennootschap die haar statutaire zetel buiten de Europese Unie heeft en waarvan de verhandelbare effecten zijn toegelaten tot de handel op een gereglementeerde markt in een lidstaat.
 
@@ -1410,7 +1437,7 @@ De [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&
 
 ### Afdeling 2.3. Het register
 
-#### Artikel 12e
+##### Artikel 12e
 
 1. Een auditkantoor kan een wettelijke controle verrichten indien de externe accountant die verantwoordelijk is voor de uitvoering van de wettelijke controle voldoet aan [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.2&artikel=27&z=2025-03-01&g=2025-03-01).
 
@@ -1420,7 +1447,7 @@ De [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&
 
 4. De Autoriteit Financiële Markten doet aan de toezichthoudende instantie in de lidstaat waar het auditkantoor is toegelaten mededeling van het besluit tot inschrijving in het register.
 
-#### Artikel 12f
+##### Artikel 12f
 
 De [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=14&z=2025-03-01&g=2025-03-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=19&z=2025-03-01&g=2025-03-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=20&z=2025-03-01&g=2025-03-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.3&artikel=23&z=2025-03-01&g=2025-03-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.3&artikel=24&z=2025-03-01&g=2025-03-01) en [24b](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.3&artikel=24b&z=2025-03-01&g=2025-03-01) en de [hoofdstukken 5 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5&z=2025-03-01&g=2025-03-01), met uitzondering van de [artikelen 48a](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5&paragraaf=5.1&artikel=48a&z=2025-03-01&g=2025-03-01) en [49a](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5&paragraaf=5.1&artikel=49a&z=2025-03-01&g=2025-03-01), zijn van overeenkomstige toepassing op auditkantoren die overeenkomstig [artikel 12e](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=2&afdeling=2.5&artikel=12e&z=2025-03-01&g=2025-03-01) wettelijke controles verrichten.
 
@@ -1430,17 +1457,17 @@ De [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=3&af
 
 #### Paragraaf 3.1.1. Toepassingsbereik
 
-#### Artikel 18a
+##### Artikel 18a
 
 Een accountantsorganisatie legt gedragsregels en procedures vast, die waarborgen dat belangrijke controletaken niet op zodanige wijze worden uitbesteed dat dit afbreuk doet aan de kwaliteitsbeheersing of een belemmering vormt voor adequaat toezicht op de naleving van deze wet of de verordening.
 
-#### Artikel 18b
+##### Artikel 18b
 
 1. Een accountantsorganisatie heeft een passend beloningsbeleid, ook ten aanzien van winstdeling, dat voldoende prestatieprikkels bevat om de kwaliteit van wettelijke controles te verzekeren.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld ten aanzien van een passend beloningsbeleid.
 
-#### Artikel 19a
+##### Artikel 19a
 
 Een accountantsorganisatie treft onverwijld gepaste maatregelen indien een accountantsverklaring of een onderdeel daarvan niet voldoet aan de eisen van [artikel 393, vijfde lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) of, voor zover het gaat om de wettelijke controle van een organisatie van openbaar belang, artikel 10 van de EU-verordening.
 
@@ -1452,7 +1479,7 @@ Een accountantsorganisatie treft onverwijld gepaste maatregelen indien een accou
 
 ### Hoofdstuk 5. Toezicht en handhaving
 
-#### Artikel 49a
+##### Artikel 49a
 
 Een door de Autoriteit Financiële Markten op grond van [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5&paragraaf=5.1&artikel=49&z=2025-03-01&g=2025-03-01) aangewezen persoon die belast is met de beoordeling van een accountantsorganisatie, bedoeld in [artikel 48a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5&paragraaf=5.1&artikel=48a&z=2025-03-01&g=2025-03-01):
 
@@ -1462,7 +1489,7 @@ Een door de Autoriteit Financiële Markten op grond van [artikel 49](https://wet
 
 - c. verklaart, voorafgaande aan de beoordeling, dat tussen hem en de te beoordelen accountantsorganisatie geen belangenconflicten bestaan.
 
-#### Artikel 51a
+##### Artikel 51a
 
 De Autoriteit Financiële Markten is belast met de uitvoering en handhaving van de EU-verordening.
 
@@ -1480,13 +1507,13 @@ De Autoriteit Financiële Markten is belast met de uitvoering en handhaving van 
 
 ### Afdeling 5c.3. Samenwerking en uitwisseling van gegevens met Europese instanties
 
-#### Artikel 63l
+##### Artikel 63l
 
 1. De Autoriteit Financiële Markten verstrekt aan het Comité van Europese auditors-toezichthouders jaarlijks geaggregeerde informatie over alle bestuurlijke boetes en, wanneer een dwangsom wordt verbeurd, lasten onder dwangsom, die ingevolge deze wet of de EU-verordening zijn opgelegd.
 
 2. De Autoriteit Financiële Markten deelt aan het Comité van Europese auditors-toezichthouders onverwijld alle maatregelen mee, bedoeld in de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5&paragraaf=5.2&artikel=57&z=2025-03-01&g=2025-03-01) en [58](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5&paragraaf=5.2&artikel=58&z=2025-03-01&g=2025-03-01) van deze wet en [artikel 2, eerste lid, onderdeel d, van de Wet tuchtrechtspraak accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&artikel=2).
 
-#### Artikel 63m
+##### Artikel 63m
 
 De Autoriteit Financiële Markten kan, in afwijking van [artikel 63a](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5a&artikel=63a&z=2025-03-01&g=2025-03-01), vertrouwelijke gegevens of inlichtingen verkregen bij de vervulling van de haar ingevolge deze wet of de EU-verordening opgedragen taak, verstrekken aan buitenlandse nationale centrale banken die onderdeel uitmaken van het Europees Stelsel van Centrale Banken, bedoeld in artikel 282, eerste lid, van het Verdrag betreffende de werking van de Europese Unie en de Europese Centrale Bank, handelend in haar hoedanigheid van monetaire autoriteit, en het Europees Comité voor systeemrisico’s. [Artikel 63b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5b&artikel=63b&z=2025-03-01&g=2025-03-01), is van overeenkomstige toepassing.
 
@@ -1542,11 +1569,11 @@ De Autoriteit Financiële Markten kan, in afwijking van [artikel 63a](https://we
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 14a
+##### Artikel 14a
 
 De accountantsorganisatie draagt er zorg voor dat tekortkomingen met betrekking tot een wettelijke controle worden hersteld.
 
-#### Artikel 16b
+##### Artikel 16b
 
 De meerderheid van de stemrechten in een accountantsorganisatie wordt gehouden door:
 
@@ -1558,7 +1585,7 @@ De meerderheid van de stemrechten in een accountantsorganisatie wordt gehouden d
 
 #### Paragraaf 3.1.3. Aanvullende voorschriften ten aanzien van wettelijke controles bij organisaties van openbaar belang
 
-#### Artikel 22a
+##### Artikel 22a
 
 1. Een accountantsorganisatie die een vergunning heeft om wettelijke controles te verrichten bij een organisatie van openbaar belang beschikt over een stelsel van onafhankelijk intern toezicht op het beleid en de algemene gang van zaken van de accountantsorganisatie.
 
@@ -1592,7 +1619,7 @@ De meerderheid van de stemrechten in een accountantsorganisatie wordt gehouden d
 
 ### Afdeling 3.2. De externe accountant
 
-#### Artikel 25b
+##### Artikel 25b
 
 Een externe accountant herstelt de tekortkomingen met betrekking tot een wettelijke controle.
 
@@ -1602,7 +1629,7 @@ Een externe accountant herstelt de tekortkomingen met betrekking tot een wetteli
 
 #### Paragraaf 5.1. Toezicht op de naleving
 
-#### Artikel 48b
+##### Artikel 48b
 
 1. Alvorens over te gaan tot openbaarmaking van gegevens als bedoeld in [artikel 48a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5&paragraaf=5.1&artikel=48a&z=2025-03-01&g=2025-03-01), neemt de Autoriteit Financiële Markten een besluit tot openbaarmaking. Dit besluit bevat de openbaar te maken gegevens en de wijze en termijn waarop de openbaarmaking zal plaatsvinden.
 
@@ -1618,7 +1645,7 @@ Een externe accountant herstelt de tekortkomingen met betrekking tot een wetteli
 
 5. In de gevallen bedoeld in het vierde lid, biedt de Autoriteit Financiële Markten de betrokken accountantsorganisatie aan de intrekking of de vernietiging openbaar te maken.
 
-#### Artikel 48c
+##### Artikel 48c
 
 1. Alvorens over te gaan tot publicatie op grond van [artikel 48a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5&paragraaf=5.1&artikel=48a&z=2025-03-01&g=2025-03-01), stelt de Autoriteit Financiële Markten elk van de betrokken accountantsorganisaties in de gelegenheid om binnen tien werkdagen na bekendmaking van het besluit tot openbaarmaking een schriftelijke reactie te geven op gegevens die openbaar worden gemaakt die op haar betrekking hebben.
 
@@ -1626,7 +1653,7 @@ Een externe accountant herstelt de tekortkomingen met betrekking tot een wetteli
 
 3. Bij het openbaar maken van de schriftelijke reactie maakt de Autoriteit Financiële Markten geen gegevens openbaar die herleidbaar zijn tot andere personen dan de betrokken accountantsorganisatie.
 
-#### Artikel 48d
+##### Artikel 48d
 
 De Autoriteit Financiële Markten maakt op grond van [artikel 48a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5&paragraaf=5.1&artikel=48a&z=2025-03-01&g=2025-03-01), geen gegevens openbaar, voor zover:
 
@@ -1640,7 +1667,7 @@ De Autoriteit Financiële Markten maakt op grond van [artikel 48a, zesde lid](ht
 
 - e. openbaarmaking in strijd is of zou kunnen komen met de belangen die deze wet beoogt te beschermen.
 
-#### Artikel 48e
+##### Artikel 48e
 
 1. Indien wordt verzocht om een voorlopige voorziening als bedoeld in [artikel 8:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:81) om openbaarmaking op grond van [artikel 48a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5&paragraaf=5.1&artikel=48a&z=2025-03-01&g=2025-03-01), te voorkomen, vindt het onderzoek ter zitting plaats met gesloten deuren.
 
@@ -1656,7 +1683,7 @@ De Autoriteit Financiële Markten maakt op grond van [artikel 48a, zesde lid](ht
 
 ### Hoofdstuk 5b. Samenwerking nationaal
 
-#### Artikel 63cc
+##### Artikel 63cc
 
 1. De Autoriteit Financiële Markten kan, in afwijking van [artikel 63a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5a&artikel=63a&z=2025-03-01&g=2025-03-01), vertrouwelijke gegevens of inlichtingen verkregen bij de vervulling van de haar ingevolge deze wet opgedragen taak, verstrekken aan de Algemene Inlichtingen- en Veiligheidsdienst, de Belastingdienst, de Fiscale Inlichtingen- en Opsporingsdienst, de Nationale Politie, het Bureau Financieel Toezicht, de Financiële Inlichtingen Eenheid en het Openbaar Ministerie, voor zover dit dienstig is voor het versterken van de integriteit van de financiële markten of accountantsorganisaties.
 
@@ -1692,7 +1719,7 @@ De Autoriteit Financiële Markten maakt op grond van [artikel 48a, zesde lid](ht
 
 ### Hoofdstuk 6. Openbare waarschuwing en publicatie van handhavingsmaatregelen
 
-#### Artikel 65a
+##### Artikel 65a
 
 De Autoriteit Financiële Markten maakt op grond van [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=6&artikel=64&z=2025-03-01&g=2025-03-01) geen gegevens openbaar, voor zover:
 
@@ -1706,7 +1733,7 @@ De Autoriteit Financiële Markten maakt op grond van [artikel 64](https://wetten
 
 - e. openbaarmaking in strijd is of zou kunnen komen met de belangen die deze wet beoogt te beschermen.
 
-#### Artikel 66a
+##### Artikel 66a
 
 1. In afwijking van [artikel 66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=6&artikel=66&z=2025-03-01&g=2025-03-01), kan de Autoriteit Financiële Markten op een kortere termijn en zo nodig onverwijld overgaan tot openbaarmaking op grond van [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=6&artikel=64&z=2025-03-01&g=2025-03-01), voor zover:
 
@@ -1768,7 +1795,7 @@ De Autoriteit Financiële Markten maakt op grond van [artikel 64](https://wetten
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 63ea
+##### Artikel 63ea
 
 1. De Autoriteit Financiële Markten verstrekt, indien zij deelneemt aan een samenwerkingsverband als bedoeld in de [Wet gegevensverwerking door samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0049962), in afwijking van [artikel 63a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&hoofdstuk=5a&artikel=63a&z=2025-03-01&g=2025-03-01), aan het samenwerkingsverband vertrouwelijke gegevens of inlichtingen, verkregen bij de vervulling van de haar ingevolge deze wet opgedragen taak, en behorend tot de in [hoofdstuk 2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2) of bij algemene maatregel van bestuur op grond van die wet aangewezen categorieën, voor zover dat noodzakelijk is voor het doel van dat samenwerkingsverband, tenzij naar het oordeel van de Autoriteit Financiële Markten zwaarwegende redenen zich daartegen verzetten.
 

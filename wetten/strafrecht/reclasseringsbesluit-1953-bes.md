@@ -1,18 +1,43 @@
 ---
 title: "Reclasseringsbesluit 1953 BES"
 identifier: "BWBR0028398"
-categorie: "Strafrecht"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028398"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028398"
+soort: "AMvB-BES"
+stam_id: "10774033"
+version_id: "17750772"
+internal_id: "C24823261"
+label_id: "10749114"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028398/2010-10-10/0"
+intitule_bron: "Stb.2010-559"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-21"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-559"
+original_signed_date: "2010-09-21"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-559"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028398&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028398&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-21"
+entry_into_force: "2010-10-10"
 ---
-
 # Reclasseringsbesluit 1953 BES
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
@@ -30,7 +55,7 @@ bron: "https://wetten.overheid.nl/BWBR0028398"
 
 2. Dit besluit berust op de [artikelen 17d](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=17d) en [20 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=20) en [artikel 15 van de Gratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=15).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onze Minister draagt er zorg voor dat reclasseringswerkzaamheden worden uitgevoerd.
 
@@ -38,7 +63,7 @@ bron: "https://wetten.overheid.nl/BWBR0028398"
 
 ### Hoofdstuk II. De particuliere bemoeiingen
 
-#### Artikel 3
+##### Artikel 3
 
 1. De steun aan particuliere bemoeiingen bestaat in:
 
@@ -48,7 +73,7 @@ bron: "https://wetten.overheid.nl/BWBR0028398"
 
 2. Voor deze steun komen uitsluitend instellingen in aanmerking.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In de bereidverklaring, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028398&hoofdstuk=I&artikel=1&z=2010-10-10&g=2010-10-10), wordt opgenomen, dat de instelling zich onderwerpt aan de bepalingen van dit besluit, alsmede aan de bepalingen, die ter uitvoering van dit besluit zijn of zullen worden gegeven. De bereidverklaring is vrij van zegel.
 
@@ -56,7 +81,7 @@ bron: "https://wetten.overheid.nl/BWBR0028398"
 
 3. In de bereidverklaring kan worden opgenomen, dat de instelling haar arbeid beperkt tot een of meer bepaalde groepen van personen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De bereidverklaring wordt voor onbepaalde tijd afgelegd en aanvaard. De aanvaarding kan voorwaardelijk geschieden.
 
@@ -66,19 +91,19 @@ bron: "https://wetten.overheid.nl/BWBR0028398"
 
 4. De aanvaarding, haar opzegging en haar intrekking geschieden bij met redenen omklede ministeriële beschikking, gehoord de Raad.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Voorzover de instelling voor haar reclasseringswerk de beschikking heeft of verkrijgt over een verplegingsinrichting, wordt haar bereidverklaring eerst aanvaard of de aanvaarding gehandhaafd, nadat de inrichting door of vanwege Onze Minister is goedgekeurd.
 
 2. De goedkeuring kan voorwaardelijk geschieden. Goedkeuring en weigering der goedkeuring geschieden gehoord de Raad. Weigering zal bij met redenen omklede ministeriële beschikking plaats vinden. De weigering wordt gemotiveerd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De instelling is verplicht aan Onze Minister of aan door deze aan te wijzen ambtenaren of aan de Raad alle gewenste inlichtingen omtrent haar werkzaamheid en de daarmee bereikte resultaten te geven.
 
 2. Zij houdt omtrent de door haar behandelde gevallen aantekening in daarvoor bestemde registers, die voldoen aan bij ministeriële regeling te stellen eisen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De instelling houdt een nauwkeurige, gespecificeerde, financiële administratie.
 
@@ -90,71 +115,71 @@ bron: "https://wetten.overheid.nl/BWBR0028398"
 
 ### Hoofdstuk III. Algemene reclasseringswerkzaamheden
 
-#### Artikel 9
+##### Artikel 9
 
 Een reclasseringsinstelling dient op verzoek of uit eigen beweging autoriteiten van advies omtrent onderwerpen die voor de reclassering van belang zijn.
 
-#### Artikel 10
+##### Artikel 10
 
 [Vervallen]
 
-#### Artikel 11
+##### Artikel 11
 
 [Vervallen]
 
-#### Artikel 12
+##### Artikel 12
 
 [Vervallen]
 
-#### Artikel 13
+##### Artikel 13
 
 [Vervallen]
 
-#### Artikel 14
+##### Artikel 14
 
 [Vervallen]
 
-#### Artikel 15
+##### Artikel 15
 
 [vervallen]
 
-#### Artikel 16
+##### Artikel 16
 
 [Vervallen]
 
-#### Artikel 17
+##### Artikel 17
 
 [Vervallen]
 
-#### Artikel 18
+##### Artikel 18
 
 [Vervallen]
 
-#### Artikel 19
+##### Artikel 19
 
 [Vervallen]
 
 ### Hoofdstuk IV. Uitvoeringsbepalingen voorwaardelijke veroordeling
 
-#### Artikel 20
+##### Artikel 20
 
 [vervallen]
 
-#### Artikel 21
+##### Artikel 21
 
 [vervallen]
 
-#### Artikel 22
+##### Artikel 22
 
 [vervallen]
 
-#### Artikel 23
+##### Artikel 23
 
 1. Bij de uitoefening van het toezicht op de bijzondere voorwaarden aan een voorwaardelijk veroordeelde opgelegd, wordt buiten noodzaak alles vermeden, wat deze in zijn vrijheid zou kunnen beperken of maatschappelijk zou kunnen benadelen.
 
 2. Indien de rechter ingevolge [artikel 17c van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=17c) als bijzondere voorwaarde heeft gesteld, dat de veroordeelde zich ter verpleging zal opnemen in een bij zijn bevel aan te wijzen inrichting of, ingevolge [artikel 17d van genoemd Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=17d), een opdracht heeft gegeven om aan de veroordeelde terzake van de naleving van bijzondere voorwaarden bijstand te verlenen, wint het openbaar ministerie, alvorens in de gevallen bedoeld bij de [artikelen 17g](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=17g) en [17h van genoemd Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=17h), de zaak aan te brengen, het advies in van het hoofd der inrichting onderscheidenlijk van de instelling, inrichting of bijzondere ambtenaar, die met het verlenen van bijstand aan de voorwaardelijk veroordeelde is belast.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De instellingen met het verlenen van bijstand aan een voorwaardelijk veroordeelde belast, zijn bevoegd zulks onder haar verantwoordelijkheid te doen plaatsvinden door bepaald aangewezen vertegenwoordigers (algemene of bijzondere patroons).
 
@@ -162,7 +187,7 @@ Een reclasseringsinstelling dient op verzoek of uit eigen beweging autoriteiten 
 
 3. Onze Minister kan bepalen dat aan een aanwijzing geen gevolg zal worden gegeven.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De instelling, die met verlenen van de bijstand is belast, ontvangt, indien wenselijk, van de opdracht reeds kennis voordat de veroordeling onherroepelijk is geworden, door de zorg van het openbaar ministerie..
 
@@ -172,7 +197,7 @@ Een reclasseringsinstelling dient op verzoek of uit eigen beweging autoriteiten 
 
 4. Latere beslissingen, overeenkomstig de [artikelen 17g](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=17g) of [17h Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=17h) genomen, worden op gelijke wijze medegedeeld.
 
-#### Artikel 26
+##### Artikel 26
 
 1. De persoon die de bijstand verleent, tracht een op vertrouwen gegronde persoonlijke band met de veroordeelde te leggen en die in het belang van de nakoming van de aan deze opgelegde voorwaarden en van diens reclassering, te benutten.
 
@@ -180,13 +205,13 @@ Een reclasseringsinstelling dient op verzoek of uit eigen beweging autoriteiten 
 
 ### Hoofdstuk V. Uitvoeringsbepalingen voorwaardelijke invrijheidstelling
 
-#### Artikel 27
+##### Artikel 27
 
 1. Tenminste twee maanden voor de dag waarop een tot gevangenisstraf veroordeelde voorwaardelijk in vrijheid kan worden gesteld, zendt het gestichtshoofd te zijnen aanzien aan Onze Minister hetzij een gemotiveerd voorstel tot voorwaardelijke invrijheidstelling, hetzij een gemotiveerd bericht, dat niet tot voorwaardelijke invrijheidstelling behoort te worden overgegaan, hetzij een gemotiveerd bericht, dat nog niet tot voorwaardelijke invrijheidstelling behoort te worden overgegaan.
 
 2. Onverminderd de bepalingen van het eerste lid, dient het gestichtshoofd Onze Minister van bericht en raad inzake de voorwaardelijke invrijheidstelling van een veroordeelde zo dikwijls Onze Minister zulks vraagt of het gestichtshoofd het gewenst acht.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Alvorens een voorstel tot voorwaardelijke invrijheidstelling te doen, wint het gestichtshoofd bericht en raad in van reclasseringsinstellingen omtrent de persoon en de vooruitzichten van de veroordeelde. Bij het verzoek om bericht en raad, dat schriftelijk wordt gedaan, wordt een staat van inlichtingen overgelegd.
 
@@ -204,7 +229,7 @@ Een reclasseringsinstelling dient op verzoek of uit eigen beweging autoriteiten 
 
 3. Het voorstel tot voorwaardelijke invrijheidstelling, alsmede het gemotiveerd bericht, dat niet of nog niet tot voorwaardelijke invrijheidstelling behoort te worden overgegaan, zoals bedoeld in [artikel 27, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028398&hoofdstuk=V&artikel=27&z=2010-10-10&g=2010-10-10) en het rapport van de reclasseringsinstellingen zoals bedoeld in [artikel 29, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028398&hoofdstuk=V&artikel=29&z=2010-10-10&g=2010-10-10), zijn samen vervat in een bij dit besluit vastgesteld model.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Indien het gestichtshoofd van mening is, dat ten aanzien van een veroordeelde niet of nog niet tot voorwaardelijke invrijheidstelling behoort te worden overgegaan, deelt hij zulks, met vermelding van redenen, schriftelijk mede aan de in het [eerste lid van artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028398&hoofdstuk=V&artikel=28&z=2010-10-10&g=2010-10-10) bedoelde reclasseringsinstellingen. In geval hij van mening is, dat nog niet tot voorwaardelijke invrijheidstelling behoort te worden overgegaan, deelt hij tevens mede, wanneer de mogelijkheid ener voorwaardelijke invrijheidstelling opnieuw zou dienen te worden overwogen.
 
@@ -212,7 +237,7 @@ Een reclasseringsinstelling dient op verzoek of uit eigen beweging autoriteiten 
 
 3. Het gestichtshoofd voorziet de stukken van zijn nader advies, en zendt deze aan Onze Minister.
 
-#### Artikel 30
+##### Artikel 30
 
 Bij het voorstel en, voorzover Onze Minister zulks mocht hebben verlangd, bij het bericht, worden overgelegd:
 
@@ -224,19 +249,19 @@ Bij het voorstel en, voorzover Onze Minister zulks mocht hebben verlangd, bij he
 
 - d. de ondertekende verklaring van degene die zich heeft bereid verklaard de veroordeelde na ontslag te steunen, te onderhouden of in dienst te nemen.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Aan het gestichtshoofd worden op zijn verzoek door alle besturen of hoofden van andere strafgestichten en de reclasseringsinstellingen de inlichtingen verstrekt, die hij nodig heeft ter uitvoering van de voorschriften van de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028398&hoofdstuk=V&artikel=27&z=2010-10-10&g=2010-10-10) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028398&hoofdstuk=V&artikel=28&z=2010-10-10&g=2010-10-10).
 
 2. Op verzoek van het gestichtshoofd kan Onze Minister inlichtingen verstrekken met het oog op de uitoefening van de taken bedoeld in het eerste lid.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Aan de reclasseringsinstelling wordt op zijn verzoek door de besturen en hoofden van andere strafgestichten de inlichtingen verstrekt met het oog op de taakuitoefening bij een voorwaardelijke invrijheidstelling.
 
 2. Op verzoek van de reclasseringsinstelling kan Onze Minister inlichtingen verstrekken met het oog op de uitoefening van de taken bedoeld in het eerste lid.
 
-#### Artikel 33
+##### Artikel 33
 
 Van de ministeriële beschikking tot voorwaardelijke invrijheidstelling evenals van de herziene beschikking als bedoeld in [artikel 34, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028398&hoofdstuk=V&artikel=34&z=2010-10-10&g=2010-10-10), wordt ten spoedigste afschrift gezonden aan:
 
@@ -250,13 +275,13 @@ Van de ministeriële beschikking tot voorwaardelijke invrijheidstelling evenals 
 
 - e. indien een bijzonder toezicht op de naleving der voorwaarden in het leven is geroepen, degene, die met het bijzonder toezicht is belast.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Een afschrift van de ministeriële beschikking tot voorwaardelijke invrijheidstelling wordt aan de voorwaardelijk in vrijheid gestelde als verlofpas uitgereikt.
 
 2. Indien tijdens de proeftijd de opgelegde straf of het einde van de proeftijd wordt gewijzigd, of [artikel 18a, vijfde lid Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=18a) wordt toegepast, wordt hem de herziene beschikking als nieuwe verlofpas uitgereikt.
 
-#### Artikel 35
+##### Artikel 35
 
 1. De voorwaardelijk in vrijheid gestelde is verplicht binnen 2 maal 24 uren na de invrijheidstelling zijn verlofpas te tonen aan de gezaghebber, of een door deze aan te wijzen ambtenaar, van het openbaar lichaam waar betrokkene zal verblijven, of, bij gebreke van zodanige aanwijzing, in dat waarheen hij heeft opgegeven zich te begeven.
 
@@ -266,17 +291,17 @@ Van de ministeriële beschikking tot voorwaardelijke invrijheidstelling evenals 
 
 4. Het openbaar ministerie neemt onmiddellijke maatregelen tot opsporing van de nalatige.
 
-#### Artikel 36
+##### Artikel 36
 
 1. In geval van verlies of vermissing van de verlofpas doet de voorwaardelijk in vrijheid gestelde onmiddellijk aangifte bij de gezaghebber van het openbaar lichaam waar hij zijn werkelijke woonplaats heeft.
 
 2. Onze Minister kan aan de voorwaardelijk in vrijheid gestelde een duplicaat verlofpas doen uitreiken.
 
-#### Artikel 37
+##### Artikel 37
 
 Bij de kennisgeving van aanhouding, bedoeld in [artikel 19, tweede lid van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=19), wordt een proces-verbaal gevoegd, houdende de redenen, die tot de aanhouding hebben geleid.
 
-#### Artikel 38
+##### Artikel 38
 
 Onze Minister ontvangt van het openbaar ministerie onverwijld kennis van:
 
@@ -286,7 +311,7 @@ Onze Minister ontvangt van het openbaar ministerie onverwijld kennis van:
 
 - c. elke andere omstandigheid betreffende de voorwaardelijk invrijheidgestelde, die van belang kan zijn voor het uit te oefenen toezicht en eventuele schorsing of herroeping der voorwaardelijke invrijheidstelling.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Indien een bijzonder toezicht op de naleving der voorwaarden, als bedoeld in [artikel 18a, vierde lid, Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=18a), in het leven is geroepen, geschiedt de uitoefening van het toezicht door tussenkomst van degene, die met het bijzonder toezicht is belast.
 
@@ -294,7 +319,7 @@ Onze Minister ontvangt van het openbaar ministerie onverwijld kennis van:
 
 3. Bij de uitoefening van het toezicht evenals van het bijzonder toezicht wordt zoveel mogelijk alles vermeden dat de voorwaardelijk in vrijheid gestelde in zijn vrijheid zou kunnen beperken of maatschappelijk zou kunnen benadelen.
 
-#### Artikel 40
+##### Artikel 40
 
 1. Degene, die met het bijzonder toezicht is belast, brengt omtrent het gedrag van de voorwaardelijk in vrijheid gestelde rapporten uit aan het openbaar ministerie, op de wijze en tijdstippen door de officier van justitie nader te bepalen.
 
@@ -302,7 +327,7 @@ Onze Minister ontvangt van het openbaar ministerie onverwijld kennis van:
 
 3. Het openbaar ministerie zendt de rapporten en mededeling bedoeld in dit artikel ten spoedigste aan Onze Minister.
 
-#### Artikel 41
+##### Artikel 41
 
 1. De instellingen, door Onze Minister met het bijzonder toezicht belast, zijn bevoegd dat onder haar verantwoordelijkheid te doen uitoefenen door bepaalde aangewezen vertegenwoordigers (algemene of bijzondere patroons).
 
@@ -312,7 +337,7 @@ Onze Minister ontvangt van het openbaar ministerie onverwijld kennis van:
 
 4. De aanwijzing wordt overigens zo spoedig mogelijk op de verlofpas aangetekend.
 
-#### Artikel 42
+##### Artikel 42
 
 De reclasseringsinstelling kan Onze Minister voorstellen:
 
@@ -324,13 +349,13 @@ alsnog een bijzondere toezicht in het leven te roepen,
 
 het bijzonder toezicht aan een ander dan degene die daarmede te voren was belast, op te dragen, of de voorwaardelijke invrijheidstelling te schorsen of te herroepen.
 
-#### Artikel 43
+##### Artikel 43
 
 1. Zo spoedig mogelijk na een beschikking tot schorsing, beslist Onze Minister of de voorwaardelijke invrijheidstelling zal worden herroepen.
 
 2. Blijkt niet voldoende grond tot herroeping aanwezig, dan beveelt Onze Minister opheffing van de schorsing.
 
-#### Artikel 44
+##### Artikel 44
 
 De beslissing tot schorsing of herroeping van de voorwaardelijke invrijheidstelling deelt Onze Minister mede aan:
 
@@ -342,7 +367,7 @@ De beslissing tot schorsing of herroeping van de voorwaardelijke invrijheidstell
 
 - 4°. indien een aanhouding ingevolge [artikel 19, tweede lid, Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=19), is voorafgegaan, het gezag dat de aanhouding gelastte, voorzover dit niet reeds krachtens de vorige nummers mededeling krijgt.
 
-#### Artikel 45
+##### Artikel 45
 
 1. Onze Minister zendt de mededeling, bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028398&hoofdstuk=V&artikel=35&z=2010-10-10&g=2010-10-10) ter kennisneming aan de reclasseringsinstelling.
 
@@ -350,13 +375,13 @@ De beslissing tot schorsing of herroeping van de voorwaardelijke invrijheidstell
 
 ### Hoofdstuk VI. Hulp en steun bij gratie
 
-#### Artikel 45a
+##### Artikel 45a
 
 De reclasseringsinstellingen hebben tot taak op verzoek van Onze Minister hulp en steun te verlenen aan een veroordeelde aan wie gratie is verleend onder voorwaarden die het gedrag van de veroordeelde betreffen.
 
 ### Hoofdstuk VII. Slotbepaling
 
-#### Artikel 46
+##### Artikel 46
 
 Dit besluit wordt aangehaald als: Reclasseringsbesluit 1953 BES.
 

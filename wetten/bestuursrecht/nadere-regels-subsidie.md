@@ -1,20 +1,45 @@
 ---
 title: "Nadere regels subsidie"
 identifier: "BWBR0019505"
-categorie: "Bestuursrecht"
-publicatiedatum: 2006-11-06
-laatste_update: 2006-11-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019505"
+country: "nl"
+rank: "zbo"
+publication_date: "2006-11-06"
+last_updated: "2006-11-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019505"
+soort: "zbo"
+stam_id: "8708943"
+version_id: "13741192"
+internal_id: "C29294271"
+label_id: "8689124"
+dtd_version: "2.0"
+original_entry_into_force: "2006-11-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019505/2006-11-06/0"
+intitule_bron: "Stcrt.2006-216"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-02-01"
+intitule_published: "2006-11-06"
+intitule_in_force: "2006-11-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-216"
+original_signed_date: "2006-02-01"
+original_published_date: "2006-11-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-216-p19-SC77510"
+entry_into_force_date: "2006-11-06"
+jci_1_3: "jci1.3:c:BWBR0019505&z=2006-11-06&g=2006-11-06"
+jci_1_0: "1.0:c:BWBR0019505&g=2006-11-06"
+citeertitel_status: "officieel"
+signed_date: "2006-02-01"
+entry_into_force: "2006-11-06"
 ---
-
 # Nadere regels subsidie
 
 Gelet op [artikel 17, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=17) j° de [artikelen 8.2, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&artikel=8.2) en [8.4, lid 2 van het Uitvoeringsbesluit WTZi](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&artikel=8.4);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regels wordt verstaan onder:
 
@@ -22,7 +47,7 @@ In deze regels wordt verstaan onder:
 
 - –. Het College: het College sanering zorginstellingen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Bij de aanvraag tot subsidieverlening worden – voorzover van toepassing – overgelegd:
 
@@ -36,17 +61,17 @@ In deze regels wordt verstaan onder:
 
 2. De aanvrager verschaft het College voorts andere gegevens en bescheiden die naar het oordeel van het College voor de beslissing op de aanvraag nodig zijn.
 
-#### Artikel 3
+##### Artikel 3
 
 In afwijking van [artikel 4:31 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:31) vermeldt de beschikking tot subsidieverlening niet het bedrag van de subsidie of het bedrag waarop de subsidie ten hoogste kan worden vastgesteld.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aan de subsidieverlening wordt in ieder geval de verplichting verbonden dat de subsidieontvanger binnen een door het College vast te stellen termijn bij het College een liquidatiebegroting indient.
 
 2. De liquidatiebegroting dient de gegevens te bevatten, genoemd in de bijlage bij deze regeling.
 
-#### Artikel 5
+##### Artikel 5
 
 De instelling behoeft de toestemming van het College voor:
 
@@ -66,23 +91,23 @@ De instelling behoeft de toestemming van het College voor:
 
 - h. het doen van aangifte tot haar faillissement of tot het aanvragen van surséance van betaling.
 
-#### Artikel 6
+##### Artikel 6
 
 Het College kan de subsidieontvanger voorschotten verlenen.
 
-#### Artikel 7
+##### Artikel 7
 
 De [artikelen 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019505&artikel=1&z=2006-11-06&g=2006-11-06) zijn van overeenkomstige toepassing ten aanzien van de financiële gevolgen als bedoeld in [artikel 12a van de Wet ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757&artikel=12a).
 
-#### Artikel 8
+##### Artikel 8
 
 De [nadere regels subsidie sanering ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0013314) (Stcrt. 2002, 230) wordt ingetrokken.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking na bekendmaking in de Staatscourant en werkt terug tot en met 1 januari 2006.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Nadere regels subsidie.
 

@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling AMIF, ISF en BMVI 2021–2027"
+title: "Regeling van de Minister van Justitie en Veiligheid, de Minister voor Rechtsbescherming, de Staatssecretaris van Justitie en Veiligheid en de Minister van Sociale Zaken en Werkgelegenheid van 10 mei 2022, nummer 3952250, tot besteding van de gelden uit het Fonds voor asiel, migratie en integratie, het Fonds voor interne veiligheid en het Fonds voor geïntegreerd grensbeheer, van het Instrument voor financiële steun voor grensbeheer en visumbeleid (Subsidieregeling AMIF, ISF en BMVI 2021–2027)"
 identifier: "BWBR0046658"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-03-15
-laatste_update: 2025-03-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046658"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-03-15"
+last_updated: "2025-03-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046658"
+soort: "ministeriele-regeling"
+stam_id: "16359223"
+version_id: "30307922"
+internal_id: "C43478201"
+label_id: "16283904"
+dtd_version: "2.0"
+original_entry_into_force: "2024-08-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046658/2025-03-15/0"
+intitule_bron: "Stcrt.2022-12334"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-05-10"
+intitule_published: "2022-05-13"
+intitule_in_force: "2022-05-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-27319"
+original_signed_date: "2024-08-21"
+original_published_date: "2024-08-23"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-27319"
+entry_into_force_date: "2024-08-21"
+jci_1_3: "jci1.3:c:BWBR0046658&z=2025-03-15&g=2025-03-15"
+jci_1_0: "1.0:c:BWBR0046658&g=2025-03-15"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling AMIF, ISF en BMVI 2021–2027"
+signed_date: "2024-08-21"
+entry_into_force: "2024-08-21"
 ---
-
 # Regeling van de Minister van Justitie en Veiligheid, de Minister voor Rechtsbescherming, de Staatssecretaris van Justitie en Veiligheid en de Minister van Sociale Zaken en Werkgelegenheid van 10 mei 2022, nummer 3952250, tot besteding van de gelden uit het Fonds voor asiel, migratie en integratie, het Fonds voor interne veiligheid en het Fonds voor geïntegreerd grensbeheer, van het Instrument voor financiële steun voor grensbeheer en visumbeleid (Subsidieregeling AMIF, ISF en BMVI 2021–2027)
 
 Gelet op de [Verordening (EU) Nr. 2021/1060](32960R2021) van het Europees Parlement en de Raad van 24 juni 2021 houdende gemeenschappelijke bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds Plus, het Cohesiefonds, het Fonds voor een rechtvaardige transitie en het Europees Fonds voor maritieme zaken, visserij en aquacultuur en de financiële regels voor die fondsen en voor het Fonds voor asiel, migratie en integratie, het Fonds voor interne veiligheid en het Instrument voor financiële steun voor grensbeheer en visumbeleid (PbEU 2021, L 231);
@@ -24,7 +50,7 @@ Gelet op de [artikelen 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.
 
 Besluiten:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -86,7 +112,7 @@ In deze regeling wordt verstaan onder:
 
 - •. **vreemdeling:** ieder die de Nederlandse nationaliteit niet bezit en niet op grond van een wettelijke bepaling als Nederlander moet worden behandeld.
 
-#### Artikel 2. Inleidende bepaling
+##### Artikel 2. Inleidende bepaling
 
 1. De minister kan, overeenkomstig deze regeling, subsidie verstrekken aan de nader krachtens deze regeling aangewezen rechtspersonen die een bijdrage leveren aan de uitvoering van het nationaal programma AMIF 2021–2027, het nationaal programma ISF 2021–2027 en het nationaal programma BMVI 2021–2027. De minister neemt daarbij de Verordening gemeenschappelijke bepalingen, de Verordening AMIF, de Verordening ISF en de Verordening BMVI in acht.
 
@@ -98,7 +124,7 @@ In deze regeling wordt verstaan onder:
 
 5. De bepalingen in de bijlagen gelden in aanvulling op hetgeen in het algemeen deel van de regeling is vastgelegd. Voor zover de bepalingen uit de bijlagen in tegenspraak zijn met bepalingen uit het algemeen deel van de regeling, prevaleren de bepalingen in de bijlagen boven de bepalingen in het algemeen deel van de regeling.
 
-#### Artikel 3. Aanwijzing instanties
+##### Artikel 3. Aanwijzing instanties
 
 1. Als beheerautoriteit als bedoeld in artikel 71, eerste lid, van de Verordening gemeenschappelijke bepalingen, wordt aangewezen de directeur Regie Migratieketen van het Ministerie van Asiel en Migratie.
 
@@ -106,7 +132,7 @@ In deze regeling wordt verstaan onder:
 
 3. Als intermediaire instantie als bedoeld in artikel 71, derde lid, van de Verordening gemeenschappelijke bepalingen wordt aangewezen de Minister van Sociale Zaken en Werkgelegenheid.
 
-#### Artikel 4. Aard van de projecten
+##### Artikel 4. Aard van de projecten
 
 De minister kan met inachtneming van deze regeling en onder het voorbehoud, bedoeld in artikel 63 van de Verordening gemeenschappelijke bepalingen, subsidie verlenen ten behoeve van projecten zonder winstoogmerk op het gebied van:
 
@@ -128,17 +154,17 @@ De minister kan met inachtneming van deze regeling en onder het voorbehoud, bedo
 
 - i. het ondersteunen van het gemeenschappelijk visumbeleid om een geharmoniseerde aanpak wat de uitgifte van visa betreft te waarborgen en legaal reizen te vergemakkelijken, en tegelijkertijd risico's uit migratie- en veiligheidsoogpunt te helpen voorkomen, nader uitgewerkt in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=J&z=2025-03-15&g=2025-03-15), behorende bij deze regeling.
 
-#### Artikel 5. Aanvraagtijdvakken en subsidieplafond
+##### Artikel 5. Aanvraagtijdvakken en subsidieplafond
 
 De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedurende door de minister vastgestelde aanvraagtijdvakken. De minister maakt de aanvraagtijdvakken vooraf bekend in de Nederlandse Staatscourant, waarbij tevens het maximaal beschikbare bedrag per actie per aanvraagtijdvak wordt vastgesteld.
 
-#### Artikel 6. Subsidieaanvrager
+##### Artikel 6. Subsidieaanvrager
 
 1. De subsidie wordt aangevraagd door de als zodanig geregistreerde subsidieaanvrager, die per actie is aangewezen in de [bijlagen A tot en met J](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=A&z=2025-03-15&g=2025-03-15) bij deze regeling.
 
 2. De registratie als subsidieaanvrager, bedoeld in het eerste lid, vindt plaats bij de intermediaire instantie, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=3&z=2025-03-15&g=2025-03-15), onder gebruikmaking van een daartoe door de minister elektronisch beschikbaar gesteld formulier.
 
-#### Artikel 7. De subsidieaanvraag
+##### Artikel 7. De subsidieaanvraag
 
 1. De subsidieaanvraag heeft steeds betrekking op één project.
 
@@ -172,7 +198,7 @@ De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedur
 
 8. Desgevraagd verstrekt de subsidieaanvrager een nadere toelichting op de projectbeschrijving en de begroting.
 
-#### Artikel 8. Rangschikking
+##### Artikel 8. Rangschikking
 
 1. Subsidieaanvragen met betrekking tot een actie als bedoeld in [bijlagen B](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=B&z=2025-03-15&g=2025-03-15) en [D](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=D&z=2025-03-15&g=2025-03-15) worden getoetst en gerangschikt aan de hand van het in [bijlage K](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=K&z=2025-03-15&g=2025-03-15) opgenomen puntenstelsel. Projecten die in hogere mate voldoen aan de criteria van het puntenstelsel hebben voorrang op de projecten die in mindere mate aan deze criteria voldoen.
 
@@ -184,7 +210,7 @@ De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedur
 
 5. De minister kan de selectiecommissie aanwijzingen geven over de manier waarop de taak, bedoeld in het derde en vierde lid, wordt uitgevoerd.
 
-#### Artikel 9. Subsidieverlening
+##### Artikel 9. Subsidieverlening
 
 1. De minister verleent de subsidie aan de subsidieaanvrager.
 
@@ -192,7 +218,7 @@ De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedur
 
 3. De beschikking vermeldt in ieder geval de projectperiode, de totale subsidiabele kosten, het maximale subsidiepercentage, het maximumbedrag van de subsidie, de rapportageverplichting, de prestatie-indicatoren alsmede, indien van toepassing, de doelgroep van het project. Bij de bepaling van het maximumbedrag van de subsidie wordt uitgegaan van het totaal van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=12&z=2025-03-15&g=2025-03-15) genoemde kosten van het project, zoals door de subsidieaanvrager geraamd in zijn subsidieaanvraag, met dien verstande dat bepaalde, in de beschikking te vermelden kostenposten buiten beschouwing kunnen worden gelaten dan wel op een lager bedrag kunnen worden bepaald.
 
-#### Artikel 10. Weigering van de subsidie
+##### Artikel 10. Weigering van de subsidie
 
 Een aanvraag tot verlening van subsidie kan in ieder geval door de minister geheel of gedeeltelijk worden afgewezen, indien:
 
@@ -220,13 +246,13 @@ Een aanvraag tot verlening van subsidie kan in ieder geval door de minister gehe
 
 - l. voor een subsidieaanvraag met betrekking tot een actie als bedoeld in [bijlagen B](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=B&z=2025-03-15&g=2025-03-15) en [D](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=D&z=2025-03-15&g=2025-03-15), op grond van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=8&z=2025-03-15&g=2025-03-15), minder dan 60 punten worden toegekend.
 
-#### Artikel 11. Hoogte van de subsidie
+##### Artikel 11. Hoogte van de subsidie
 
 1. De subsidie ten behoeve van projecten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2025-03-15&g=2025-03-15) bedraagt maximaal 75% van de subsidiabele kosten, doch ten hoogste het in de beschikking tot subsidieverlening vermelde maximumbedrag.
 
 2. De subsidie ten behoeve van projecten die worden uitgevoerd in het kader van specifieke maatregelen bedraagt maximaal 90% van de subsidiabele kosten, doch ten hoogste het in de beschikking tot subsidieverlening vermelde maximumbedrag.
 
-#### Artikel 12. Subsidiabele kosten
+##### Artikel 12. Subsidiabele kosten
 
 1. De subsidie kan, op grond van artikel 53 van de Verordening gemeenschappelijke bepalingen, de volgende vormen aannemen:
 
@@ -280,7 +306,7 @@ Een aanvraag tot verlening van subsidie kan in ieder geval door de minister gehe
 
 - c. meer dan de helft van de leden van het bestuurs-, leidinggevend of toezichthoudend orgaan van de organisatie kan benoemen.
 
-#### Artikel 13. Berekening kosten van arbeid
+##### Artikel 13. Berekening kosten van arbeid
 
 1. De kosten van arbeid kunnen bestaan uit drie componenten zijnde:
 
@@ -318,13 +344,13 @@ Een aanvraag tot verlening van subsidie kan in ieder geval door de minister gehe
 
 - d. voorzieningen ter dekking van statutaire verplichtingen en rechten in verband met de bezoldiging.
 
-#### Artikel 14. Berekening reiskosten en verblijfskosten van medewerkers en kosten van langdurig verblijf van uitgezonden medewerkers
+##### Artikel 14. Berekening reiskosten en verblijfskosten van medewerkers en kosten van langdurig verblijf van uitgezonden medewerkers
 
 1. Reis- en verblijfkosten van medewerkers met inbegrip van gerelateerde rechten, belastingen en heffingen worden berekend aan de hand van de gebruikelijke praktijken van de subsidieontvanger of penvoerder of een van de partijen van het samenwerkingsverband op het gebied van dienstreizen.
 
 2. Langdurig verblijfskosten, met inbegrip van gerelateerde rechten, belastingen en heffingen, van uitgezonden medewerkers van de subsidieontvanger of penvoerder of een van de partijen van het samenwerkingsverband worden berekend aan de hand van de gebruikelijke praktijken van de subsidieontvanger of penvoerder of een van de partijen van het samenwerkingsverband op het gebied van dienstreizen.
 
-#### Artikel 15. Berekening specifieke uitgaven in verband met doelgroepen
+##### Artikel 15. Berekening specifieke uitgaven in verband met doelgroepen
 
 1. Specifieke uitgaven in verband met doelgroepen bestaan overeenkomstig de in [bijlagen A tot en met E](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=A&z=2025-03-15&g=2025-03-15) omschreven subsidiabele activiteiten in volledige of gedeeltelijke ondersteuning in de vorm van:
 
@@ -338,7 +364,7 @@ Een aanvraag tot verlening van subsidie kan in ieder geval door de minister gehe
 
 4. Bijstandsmaatregelen na terugkeer naar een derde land, zoals bijstand op het gebied van opleiding en werk, kortetermijnmaatregelen om de herintegratie op gang te brengen, en hulp na terugkeer zoals respectievelijk beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=E&z=2025-03-15&g=2025-03-15) van de subsidieregeling, mogen niet langer duren dan twaalf maanden na de datum van terugkeer van de onderdaan van het derde land.
 
-#### Artikel 16. Berekening kosten van materieel
+##### Artikel 16. Berekening kosten van materieel
 
 1. Kosten die betrekking hebben op het gebruik van materieel gebaseerd op huur, leasing, aankoop of afschrijving van aangekocht materieel zijn alleen subsidiabel indien zij essentieel zijn voor of direct verband houden met de uitvoering van het project en in lijn zijn met de Verordening AMIF, Verordening ISF of de Verordening BMVI. De technische eigenschappen van het materieel moeten in overeenstemming zijn met de eisen van het project en met de geldende normen en standaarden.
 
@@ -358,7 +384,7 @@ Een aanvraag tot verlening van subsidie kan in ieder geval door de minister gehe
 
 7. In geval van medefinanciering van de volledige of gedeeltelijke aankoopkosten mag het materieel voor een periode van ten minste vijf jaar na de einddatum van het project alleen voor het in het kader van het project vastgestelde doel worden gebruikt, tenzij de minister anders beslist.
 
-#### Artikel 17. Berekening kosten van onroerende zaken
+##### Artikel 17. Berekening kosten van onroerende zaken
 
 1. Zowel bij de aankoop als bij de bouw of de renovatie en de huur dient een onroerende zaak te voldoen aan de technische kenmerken die noodzakelijk zijn voor het project en aan de geldende normen en standaarden.
 
@@ -384,11 +410,11 @@ Een aanvraag tot verlening van subsidie kan in ieder geval door de minister gehe
 
 - c. het onroerend goed alleen wordt gebruikt voor de uitvoering van het project. Indien dit niet het geval is, is alleen het deel van de kosten dat overeenstemt met het gebruik voor het project subsidiabel.
 
-#### Artikel 18. Berekening overige externe kosten
+##### Artikel 18. Berekening overige externe kosten
 
 Overige externe kosten zijn subsidiabel als deze betrekking hebben op directe kosten die in het kader van het project moeten worden uitbesteed en die niet vallen onder een van de in [artikel 12, derde lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=12&z=2025-03-15&g=2025-03-15), genoemde kostensoorten. Overige externe kosten kunnen bestaan uit kosten van diensten of producten.
 
-#### Artikel 19. Berekening indirecte kosten
+##### Artikel 19. Berekening indirecte kosten
 
 De indirecte kosten worden berekend door:
 
@@ -396,11 +422,11 @@ De indirecte kosten worden berekend door:
 
 - b. de directe kosten te vermenigvuldigen met 7%.
 
-#### Artikel 20. Berekening overige subsidiabele kosten anders dan kosten van arbeid
+##### Artikel 20. Berekening overige subsidiabele kosten anders dan kosten van arbeid
 
 In plaats van het opvoeren van subsidiabele kosten als bedoeld in [artikel 12, derde lid, onderdelen b tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=12&z=2025-03-15&g=2025-03-15), kunnen overige subsidiabele kosten, anders dan de kosten van arbeid, worden berekend door de kosten van arbeid te vermenigvuldigen met 40%.
 
-#### Artikel 21. Kosten van internationale organisaties
+##### Artikel 21. Kosten van internationale organisaties
 
 1. Kosten van een internationale organisatie worden verantwoord op basis van artikel 22 van de Verordening AMIF, artikel 17 van de Verordening ISF of artikel 18 van de Verordening BMVI.
 
@@ -408,7 +434,7 @@ In plaats van het opvoeren van subsidiabele kosten als bedoeld in [artikel 12, d
 
 3. In afwijking van het eerste lid kunnen door de minister in de beschikking tot subsidieverlening aanvullende bepalingen worden opgenomen als de internationale organisatie niet voldoet aan de voorwaarden die worden gesteld in artikel 22, eerste lid van de Verordening AMIF, artikel 17, eerste lid van de Verordening ISF of artikel 18, eerste lid, van de Verordening BMVI.
 
-#### Artikel 22. Niet subsidiabele kosten
+##### Artikel 22. Niet subsidiabele kosten
 
 Niet voor subsidiëring komen in aanmerking:
 
@@ -440,7 +466,7 @@ Niet voor subsidiëring komen in aanmerking:
 
 - n. kosten van activiteiten als bedoeld in artikel 5, vierde lid, van de Verordening BMVI.
 
-#### Artikel 23. Bevoorschotting
+##### Artikel 23. Bevoorschotting
 
 1. Na verlening van de subsidie wordt een voorschot verleend tot maximaal 50% van het in de beschikking tot subsidieverlening opgenomen maximum subsidiebedrag.
 
@@ -450,7 +476,7 @@ Niet voor subsidiëring komen in aanmerking:
 
 4. De minister kan uitsluitend na ontvangst van het verzoek tot vaststelling van de subsidie een aanvullend voorschot tot maximaal de op de datum van ontvangst van dit verzoek bekende, verschuldigde subsidie verlenen.
 
-#### Artikel 24. Administratievoorschriften
+##### Artikel 24. Administratievoorschriften
 
 1. De subsidieontvanger of de penvoerder houdt een inzichtelijke en controleerbare administratie bij met betrekking tot de uitvoering van het project en de in verband daarmee gemaakte kosten en gerealiseerde opbrengsten. Deze administratie bestaat uit een projectadministratie, een financiële administratie en voor zover van toepassing een deelnemersadministratie, waarin alle noodzakelijke gegevens tijdig, juist en volledig zijn vastgelegd en ten behoeve van de vaststelling van de subsidiabiliteit zijn te verifiëren met bewijsstukken.
 
@@ -468,7 +494,7 @@ Niet voor subsidiëring komen in aanmerking:
 
 8. Het Europees Bureau voor Fraudebestrijding kan onderzoeken uitvoeren, zoals controles en verificaties ter plaatse, overeenkomstig de bepalingen en procedures in Verordening (EU, Euratom) nr. 883/2013 van het Europees Parlement en de Raad en Verordening (Euratom, EG) nr. 2185/96 van de Raad, om vast te stellen of er sprake is van fraude, corruptie of andere onwettige activiteiten waardoor de financiële belangen van de Europese Unie zijn geschaad, in verband met een subsidieovereenkomst, subsidiebesluit of een overeenkomst, gefinancierd overeenkomstig de Verordening gemeenschappelijke bepalingen of de specifieke verordeningen.
 
-#### Artikel 25. Beschikbaarheid van bescheiden
+##### Artikel 25. Beschikbaarheid van bescheiden
 
 1. De subsidieontvanger of de penvoerder bewaart alle administratieve bescheiden die betrekking hebben op het gesubsidieerde project tot tenminste vijf jaar, gerekend vanaf 31 december van het jaar waarin de beheerautoriteit de laatste betaling aan de subsidieontvanger of de penvoerder verricht, dan wel tot een nader door de minister aan de subsidieontvanger of de penvoerder schriftelijk bekend te maken termijn. Indien de Europese Commissie, vanwege een gerechtelijke procedure of een met redenen omkleed verzoek de bewaartermijn schorst, maakt de minister de gevolgen voor de bewaartermijn, in de Staatscourant bekend.
 
@@ -480,7 +506,7 @@ Niet voor subsidiëring komen in aanmerking:
 
 5. Alle administratieve bescheiden zijn beschikbaar voor de subsidieontvanger of de penvoerder. De subsidieontvanger of penvoerder is en blijft verantwoordelijk voor een correcte opslag van alle administratieve bescheiden, ook als hij een derde met de opslag belast.
 
-#### Artikel 26. Rapportageverplichtingen
+##### Artikel 26. Rapportageverplichtingen
 
 1. Indien de projectduur langer is dan 12 maanden, wordt op door de minister te bepalen momenten onder gebruikmaking van het daartoe door de minister ten behoeve van een project elektronisch beschikbaar gestelde formulier een voortgangsrapportage ingediend, waarin rekening en verantwoording wordt afgelegd over de voortgang van het project waarvoor subsidie is verleend.
 
@@ -498,7 +524,7 @@ Niet voor subsidiëring komen in aanmerking:
 
 8. De minister kan bij projecten die worden uitgevoerd in het kader van specifieke maatregelen bepalen dat de voortgangsrapportage wordt vergezeld door een controleverklaring van een accountant. De controleverklaring wordt vastgesteld met inachtneming van het vigerende controle protocol.
 
-#### Artikel 27. Subsidievaststelling
+##### Artikel 27. Subsidievaststelling
 
 1. Bij het verzoek tot vaststelling van de subsidie wordt een laatste voortgangsrapportage gevoegd. De minister kan bij projecten die worden uitgevoerd in het kader van specifieke maatregelen bepalen dat het verzoek tot vaststelling wordt vergezeld door een controleverklaring van een accountant. De controleverklaring wordt vastgesteld met inachtneming van het vigerende controle protocol.
 
@@ -516,7 +542,7 @@ Niet voor subsidiëring komen in aanmerking:
 
 5. De minister beslist binnen 12 maanden na ontvangst van het verzoek tot vaststelling van de subsidie.
 
-#### Artikel 28. Publiciteit
+##### Artikel 28. Publiciteit
 
 1. De subsidieontvanger of de penvoerder erkent de steun uit de fondsen door:
 
@@ -538,13 +564,13 @@ Niet voor subsidiëring komen in aanmerking:
 
 5. De projectresultaten worden om niet beschikbaar gesteld aan de minister of door hem aangewezen derden, en de subsidieontvanger of de penvoerder verleent medewerking aan door de minister georganiseerde publicitaire en voorlichtingsactiviteiten gericht op de media, potentiële deelnemers van projecten en het grote publiek.
 
-#### Artikel 29. Openbaar maken subsidiedossier
+##### Artikel 29. Openbaar maken subsidiedossier
 
 1. Door het indienen van een aanvraag stemt de subsidieontvanger of de penvoerder er mee in dat het subsidiedossier openbaar kan worden gemaakt.
 
 2. Informatie uit het subsidiedossier wordt niet openbaar gemaakt wanneer de informatie niet voor iedereen toegankelijk is vanwege de vertrouwelijke aard ervan, met name omdat ze verband houdt met veiligheid, openbare orde, strafrechtelijk onderzoek en de bescherming van persoonsgegevens.
 
-#### Artikel 30. Intrekking en terugvordering
+##### Artikel 30. Intrekking en terugvordering
 
 1. Onverminderd het bepaalde in [afdeling 4.2.6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.6) kan de minister de subsidieverlening intrekken of ten nadele van de subsidieontvanger of de penvoerder wijzigen, indien:
 
@@ -562,11 +588,11 @@ Niet voor subsidiëring komen in aanmerking:
 
 2. De subsidieverlening wordt niet op grond van het eerste lid, onderdeel a, ingetrokken of ten nadele van de subsidieontvanger of penvoerder gewijzigd, indien de afwijking van de bij de subsidieaanvraag gevoegde projectbeschrijving vooraf aan de minister is voorgelegd en de minister daarmee schriftelijk heeft ingestemd. Voor zover de minister niet met afwijking heeft ingestemd, verricht de subsidieontvanger of de penvoerder die activiteiten voor eigen rekening en risico.
 
-#### Artikel 31. Citeertitel
+##### Artikel 31. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling AMIF, ISF en BMVI 2021–2027.
 
-#### Artikel 32. Inwerkingtreding
+##### Artikel 32. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat deze regeling terugwerkt tot en met 1 januari 2021.
 
@@ -1062,7 +1088,7 @@ In het kader van de verantwoording onderbouwt de subsidieontvanger of de penvoer
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 4a. Projecten in het kader van een specifieke maatregel
+##### Artikel 4a. Projecten in het kader van een specifieke maatregel
 
 1. De minister kan met inachtneming van deze regeling en onder het voorbehoud, bedoeld in artikel 63 van de Verordening gemeenschappelijke bepalingen, subsidie verlenen ten behoeve van projecten zonder winstoogmerk in het kader van specifieke maatregelen.
 

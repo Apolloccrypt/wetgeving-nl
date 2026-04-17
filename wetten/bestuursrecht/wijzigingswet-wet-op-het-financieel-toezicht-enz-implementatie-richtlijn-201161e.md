@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet Wet op het financieel toezicht, enz. (implementatie richtlijn 2011/61/EU)"
+title: "Wet van 12 juni 2013 tot wijziging van de Wet op het financieel toezicht, het Burgerlijk Wetboek, de Wet op de economische delicten en enige fiscale wetten ter implementatie van richtlijn nr. 2011/61/EU van het Europees Parlement en de Raad van de Europese Unie van 8 juni 2011 inzake beheerders van alternatieve beleggingsinstellingen en tot wijziging van de Richtlijnen 2003/41/EG en 2009/65/EG en van de Verordeningen (EG) Nr. 1060/2009 en (EU) Nr. 1095/2010 (PbEU 2011, L 174)"
 identifier: "BWBR0033586"
-categorie: "Bestuursrecht"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033586"
+country: "nl"
+rank: "wet"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033586"
+soort: "wet"
+stam_id: "12295803"
+version_id: "20598072"
+internal_id: "C29499421"
+label_id: "12267124"
+dtd_version: "2.0"
+original_entry_into_force: "2013-07-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033586/2015-01-01/0"
+intitule_bron: "Stb.2013-228"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-06-12"
+intitule_published: "2013-06-25"
+intitule_in_force: "2013-06-25"
+intitule_status: "goed"
+original_publication: "Stb.2013-228"
+original_signed_date: "2013-06-12"
+original_published_date: "2013-06-25"
+original_effect: "nieuwe-regeling"
+original_dossier: "33235"
+original_url_id: "stb-2013-228"
+entry_into_force_date: "2013-07-22"
+entry_into_force_dossier: "33235"
+jci_1_3: "jci1.3:c:BWBR0033586&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0033586&g=2015-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingswet Wet op het financieel toezicht, enz. (implementatie richtlijn 2011/61/EU)"
+signed_date: "2013-06-12"
+entry_into_force: "2013-07-22"
 ---
-
-# Wijzigingswet Wet op het financieel toezicht, enz. (implementatie richtlijn 2011/61/EU)
+# Wet van 12 juni 2013 tot wijziging van de Wet op het financieel toezicht, het Burgerlijk Wetboek, de Wet op de economische delicten en enige fiscale wetten ter implementatie van richtlijn nr. 2011/61/EU van het Europees Parlement en de Raad van de Europese Unie van 8 juni 2011 inzake beheerders van alternatieve beleggingsinstellingen en tot wijziging van de Richtlijnen 2003/41/EG en 2009/65/EG en van de Verordeningen (EG) Nr. 1060/2009 en (EU) Nr. 1095/2010 (PbEU 2011, L 174)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,39 +44,39 @@ Alzo Wij in overweging genomen hebben, dat [richtlijn nr. 2011/61](32011L0061)/E
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet op het financieel toezicht.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Burgerlijk Wetboek Boek 2.
 
-#### Artikel IIa
+##### Artikel IIa
 
 Wijzigt de Wet bekostiging financieel toezicht.
 
-#### Artikel IIb
+##### Artikel IIb
 
 Wijzigt de Wet toezicht accountantsorganisaties.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Wet op de dividendbelasting 1965.
 
-#### Artikel VII
+##### Artikel VII
 
 1. [Artikel 2:65 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:65) is niet van toepassing op de beheerder van een beleggingsinstelling, niet zijnde een instelling voor collectieve belegging in effecten, die onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze wet een beleggingsinstelling met zetel in Nederland beheerde waarvan de rechten van deelneming niet op verzoek van de deelnemers ten laste van de activa direct of indirect worden ingekocht of terugbetaald, indien na 22 juli 2013 geen beleggingen meer worden gedaan.
 
@@ -82,7 +110,7 @@ Op deze beheerder zijn de [artikelen 4:37o](https://wetten.overheid.nl/jci1.3:c:
 
 een bewaarder aanstelt die is gevestigd in een andere lidstaat dan de lidstaat waarin de beleggingsinstelling is gevestigd.
 
-#### Artikel VIIa
+##### Artikel VIIa
 
 1. Wijzigt deze wet.
 
@@ -94,7 +122,7 @@ een bewaarder aanstelt die is gevestigd in een andere lidstaat dan de lidstaat w
 
 5. Wijzigt deze wet.
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. Deze wet, met uitzondering van [artikel I, onderdelen AJ, AO, AP, AT en BB](https://wetten.overheid.nl/jci1.3:c:BWBR0033586&artikel=I&z=2015-01-01&g=2015-01-01), treedt in werking met ingang van 22 juli 2013. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 21 juli 2013, treedt zij, met uitzondering van artikel I, onderdelen AJ, AO, AP, AT en BB, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 

@@ -1,20 +1,46 @@
 ---
-title: "Besluit beperking openbaarheid archief Ministerie van Buitenlandse Zaken 1945–1954 (eerbiediging persoonlijke levenssfeer)"
+title: "Besluit van de Minister van Buitenlandse Zaken van 9 juni 2008, nr. DDI/ST/reg. 035/2008, houdende beperking van de openbaarheid van het archief van het Ministerie van Buitenlandse Zaken 1945–1954"
 identifier: "BWBR0023999"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2008-06-19
-laatste_update: 2008-06-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023999"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2008-06-19"
+last_updated: "2008-06-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023999"
+soort: "ministeriele-regeling"
+stam_id: "9533913"
+version_id: "15413312"
+internal_id: "C21022761"
+label_id: "9510964"
+dtd_version: "2.0"
+original_entry_into_force: "2008-06-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023999/2008-06-19/0"
+intitule_bron: "Stcrt.2008-114"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-06-09"
+intitule_published: "2008-06-17"
+intitule_in_force: "2008-06-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-114"
+original_signed_date: "2008-06-09"
+original_published_date: "2008-06-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-114-p7-SC86091"
+entry_into_force_date: "2008-06-19"
+jci_1_3: "jci1.3:c:BWBR0023999&z=2008-06-19&g=2008-06-19"
+jci_1_0: "1.0:c:BWBR0023999&g=2008-06-19"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid archief Ministerie van Buitenlandse Zaken 1945–1954 (eerbiediging persoonlijke levenssfeer)"
+signed_date: "2008-06-09"
+entry_into_force: "2008-06-19"
 ---
-
 # Besluit van de Minister van Buitenlandse Zaken van 9 juni 2008, nr. DDI/ST/reg. 035/2008, houdende beperking van de openbaarheid van het archief van het Ministerie van Buitenlandse Zaken 1945–1954
 
 Gelet op [artikel 15, eerste lid, onder a, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom, van het archief van het Ministerie van Buitenlandse Zaken 1945–1954, openbaar met ingang van 1 januari van het jaar, genoemd in de tweede kolom:
 
@@ -569,15 +595,15 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 | 27331 | 2023 |
 | 27346 | 2028 |
 
-#### Artikel 2
+##### Artikel 2
 
 Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023999&artikel=1&z=2008-06-19&g=2008-06-19), is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. Indiening van een verzoek tot inzage geschiedt door ondertekening door de verzoeker van het ‘Formulier voor toestemming tot raadpleging van niet openbare archieven’; een exemplaar van dit formulier is als [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0023999&bijlage=1&z=2008-06-19&g=2008-06-19) bij dit besluit gevoegd. De directeur kan aan zijn toestemming voorwaarden verbinden.
 
-#### Artikel 3
+##### Artikel 3
 
 Het vervaardigen van reproducties van documenten uit, danwel het publiceren van gegevens uit de archiefbescheiden geborgen onder de inventarisnummers, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023999&artikel=1&z=2008-06-19&g=2008-06-19), is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. De directeur kan aan zijn toestemming voorwaarden verbinden.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

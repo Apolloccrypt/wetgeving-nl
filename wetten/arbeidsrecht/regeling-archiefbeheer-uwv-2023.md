@@ -1,13 +1,38 @@
 ---
 title: "Regeling archiefbeheer UWV 2023"
 identifier: "BWBR0049440"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2024-03-08
-laatste_update: 2024-03-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049440"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-03-08"
+last_updated: "2024-03-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049440"
+soort: "zbo"
+stam_id: "17044363"
+version_id: "29989942"
+internal_id: "C42996541"
+label_id: "16953984"
+dtd_version: "2.0"
+original_entry_into_force: "2024-03-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049440/2024-03-08/0"
+intitule_bron: "Stcrt.2024-6738"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-12-12"
+intitule_published: "2024-03-07"
+intitule_in_force: "2024-03-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-6738"
+original_signed_date: "2023-12-12"
+original_published_date: "2024-03-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-6738"
+entry_into_force_date: "2024-03-08"
+jci_1_3: "jci1.3:c:BWBR0049440&z=2024-03-08&g=2024-03-08"
+jci_1_0: "1.0:c:BWBR0049440&g=2024-03-08"
+citeertitel_status: "officieel"
+signed_date: "2023-12-12"
+entry_into_force: "2024-03-08"
 ---
-
 # Regeling archiefbeheer UWV 2023
 
 Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14);
@@ -16,7 +41,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -82,7 +107,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Reikwijdte
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 1. Deze regeling is integraal van toepassing op alle organisatieonderdelen van UWV en op alle daaronder berustende onderdelen van het archief van UWV, waaronder mede begrepen zijn de archiefonderdelen gehouden voor derden als bedoeld in het tweede lid.
 
@@ -94,7 +119,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 3. Zorg, verantwoordelijkheden en overleggen voor het archiefbeheer
 
-#### Artikel 3. Zorg
+##### Artikel 3. Zorg
 
 1. De zorg voor de archiefbescheiden bij het UWV berust bij de zorgdrager. De zorgdrager voorziet daartoe in het inrichten en in standhouden van voldoende en doelmatige archiefomgevingen waarbinnen de opslag en bewaring van archiefbescheiden mogelijk is en die te allen tijde voldoen aan de wettelijke vereisten.
 
@@ -104,7 +129,7 @@ In deze regeling wordt verstaan onder:
 
 4. De zorgdrager verschaft de middelen waarmee ervoor gezorgd kan worden dat de kwaliteit van het verantwoordelijke personeel, het onderhoud, eventuele aanpassingen aan archiefomgevingen, alsmede het instrumentarium bestemd voor blijvend te bewaren archiefbescheiden, voldoen aan de eisen die de [Archiefregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0027041) daaraan stelt.
 
-#### Artikel 4. Verantwoordelijkheden
+##### Artikel 4. Verantwoordelijkheden
 
 1. De zorgdrager heeft de archivaris aangemerkt als degene die belast is met:
 
@@ -154,7 +179,7 @@ In deze regeling wordt verstaan onder:
 
 4. De zorgdrager heeft de mogelijkheid aanvullende taken en opdrachten te beleggen bij de archivaris en de IV verantwoordelijke.
 
-#### Artikel 5. Overleg
+##### Artikel 5. Overleg
 
 1. De archivaris voert periodiek overleg met de Raad van Bestuur over de gang van zaken rondom de archiefomgeving van UWV, de archiefbescheiden en de beheertaken die hier op betrekking hebben.
 
@@ -172,7 +197,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 4. Beheer van archiefbescheiden
 
-#### Artikel 6. Maatregelen t.b.v. in geordende en toegankelijke staat houden archiefbescheiden
+##### Artikel 6. Maatregelen t.b.v. in geordende en toegankelijke staat houden archiefbescheiden
 
 1. Gelet op [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049440&hoofdstuk=3&artikel=4&z=2024-03-08&g=2024-03-08) stelt de archivaris kaders en richtlijnen en houdt deze actueel op de hieronder genoemde punten van het archiefbeheer.
 
@@ -196,7 +221,7 @@ In deze regeling wordt verstaan onder:
 
 2. De zorgdrager stelt het door de archivaris opgestelde ordeningsplan vast. De archivaris is belast met het periodieke onderhoud van het ordeningsplan.
 
-#### Artikel 7. Beveiliging en toegang verlenen tot archiefbescheiden
+##### Artikel 7. Beveiliging en toegang verlenen tot archiefbescheiden
 
 1. De zorgdrager draagt zorg voor een adequate informatiebeveiliging, welke mede omvat de nodige procedurele en technische voorzieningen voor het tegengaan van:
 
@@ -228,17 +253,17 @@ van archiefbescheiden die daarvoor gezien hun aard en status niet in aanmerking 
 
 Door de archivaris wordt getoetst of het verzoek in overeenstemming is met de geldende regels en besluiten zonder dat daarvoor raadpleging van de archiefbescheiden noodzakelijk is.
 
-#### Artikel 8. Verhuizing van archiefbescheiden
+##### Artikel 8. Verhuizing van archiefbescheiden
 
 Bij het verhuizen van het archief van UWV worden de daarvoor door de zorgdrager vastgestelde uitvoeringsregels gevolgd.
 
-#### Artikel 9. Organisatieverandering, fusie en afsplitsing
+##### Artikel 9. Organisatieverandering, fusie en afsplitsing
 
 1. De zorgdrager is verantwoordelijk voor het afsluiten van het archief van UWV bij een reorganisatie en voor een nieuw te vormen archief in de nieuwe organisatie.
 
 2. Bij aanpassing van het archiefbeheer in geval van organisatieverandering worden de daarvoor door de zorgdrager vastgestelde uitvoeringsregels gevolgd.
 
-#### Artikel 10. Vervanging van archiefbescheiden
+##### Artikel 10. Vervanging van archiefbescheiden
 
 1. De zorgdrager neemt een besluit over vervanging van archiefbescheiden door reproducties. Het besluit hiervoor wordt opgesteld door de archivaris.
 
@@ -248,7 +273,7 @@ Bij het verhuizen van het archief van UWV worden de daarvoor door de zorgdrager 
 
 4. Van de vervanging wordt door de archivaris jaarlijks een verklaring opgesteld.
 
-#### Artikel 11. Vervreemding van archiefbescheiden
+##### Artikel 11. Vervreemding van archiefbescheiden
 
 1. De zorgdrager neemt op grond van een advies van de archivaris een besluit over vervreemding van archiefbescheiden aan derden.
 
@@ -256,7 +281,7 @@ Bij het verhuizen van het archief van UWV worden de daarvoor door de zorgdrager 
 
 3. Voor vervreemding is een machtiging vereist van de Minister van Onderwijs, Cultuur en Wetenschap, tenzij de vervreemding plaatsvindt ter uitvoering van een wettelijk voorschrift.
 
-#### Artikel 12. Selectie van archiefbescheiden
+##### Artikel 12. Selectie van archiefbescheiden
 
 1. De archivaris is belast met:
 
@@ -276,7 +301,7 @@ Bij het verhuizen van het archief van UWV worden de daarvoor door de zorgdrager 
 
 4. De zorgdrager stelt de uitvoeringsprocedures vast voor de selectie van archiefbescheiden.
 
-#### Artikel 13. Vernietiging van archiefbescheiden
+##### Artikel 13. Vernietiging van archiefbescheiden
 
 1. De archivaris is belast met:
 
@@ -298,7 +323,7 @@ Bij het verhuizen van het archief van UWV worden de daarvoor door de zorgdrager 
 
 6. De vernietiging van archiefbescheiden vindt zo spoedig mogelijk doch uiterlijk binnen één jaar plaats, nadat de bewaartermijn is verstreken. De verantwoording over het vernietigingsproces vindt jaarlijks plaats middels een proces-verbaal door de archivaris aan de zorgdrager.
 
-#### Artikel 14. Overbrenging van archiefbescheiden
+##### Artikel 14. Overbrenging van archiefbescheiden
 
 1. De archivaris is belast met het toezicht op het overbrengen van de daarvoor in aanmerking komende archiefbescheiden naar het Nationaal Archief.
 
@@ -310,7 +335,7 @@ Bij het verhuizen van het archief van UWV worden de daarvoor door de zorgdrager 
 
 5. In het geval dat de archiefbescheiden zijn opgenomen in een informatiesysteem, wordt bij overbrenging van archiefbescheiden, als bedoeld in [artikel 12 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=12), naast de archiefbescheiden ook de bijbehorende context overgebracht.
 
-#### Artikel 15. Audit uitvoeren op archief
+##### Artikel 15. Audit uitvoeren op archief
 
 1. De archivaris is verantwoordelijk voor het opstellen van een auditplan en het laten uitvoeren van periodieke audits op:
 
@@ -326,7 +351,7 @@ Bij het verhuizen van het archief van UWV worden de daarvoor door de zorgdrager 
 
 4. De archivaris stelt éénmaal per jaar een totaalrapportage van de uitgevoerde audits op voor de zorgdrager.
 
-#### Artikel 16. Calamiteiten bij archiefbescheiden
+##### Artikel 16. Calamiteiten bij archiefbescheiden
 
 1. De archivaris zorgt ervoor, in samenspraak met de voorzitter van de Raad van Bestuur (namens de zorgdrager), dat in het geval dat een calamiteit dit noodzakelijk maakt, de overbrenging van de archiefbescheiden onmiddellijk ter hand wordt genomen en volgens een calamiteitenplan op efficiënte wijze, stapsgewijs worden overgebracht naar een veilige, daartoe bestemde locatie. De archivaris stelt de Inspectie Overheidsinformatie en Erfgoed hiervan onverwijld op de hoogte.
 
@@ -334,15 +359,15 @@ Bij het verhuizen van het archief van UWV worden de daarvoor door de zorgdrager 
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 17. Intrekking eerdere regeling
+##### Artikel 17. Intrekking eerdere regeling
 
 De [Regeling archiefbeheer UWV](https://wetten.overheid.nl/jci1.3:c:BWBR0017177) (Staatscourant 17 september 2004, nr. 179) wordt ingetrokken.
 
-#### Artikel 18. Inwerkingtreding
+##### Artikel 18. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de publicatie van de Staatscourant waarin het is geplaatst.
 
-#### Artikel 19. Citeertitel
+##### Artikel 19. Citeertitel
 
 Dit besluit kan worden aangehaald als: Regeling archiefbeheer UWV 2023.
 

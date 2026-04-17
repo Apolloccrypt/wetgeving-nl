@@ -1,13 +1,39 @@
 ---
-title: "Tijdelijke subsidieregeling persinnovatie"
+title: "Regeling van het Stimuleringsfonds voor de pers van 23 december 2009, nr. 19063, tot vaststelling van een Tijdelijke subsidieregeling persinnovatie"
 identifier: "BWBR0027267"
-categorie: "Bestuursrecht"
-publicatiedatum: 2010-01-05
-laatste_update: 2010-01-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027267"
+country: "nl"
+rank: "zbo"
+publication_date: "2010-01-05"
+last_updated: "2010-01-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027267"
+soort: "zbo"
+stam_id: "10431543"
+version_id: "17157282"
+internal_id: "C23671061"
+label_id: "10407014"
+dtd_version: "2.0"
+original_entry_into_force: "2010-01-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027267/2010-01-05/0"
+intitule_bron: "Stcrt.2010-42"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-12-23"
+intitule_published: "2010-01-04"
+intitule_in_force: "2010-01-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-42"
+original_signed_date: "2009-12-23"
+original_published_date: "2010-01-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-42"
+entry_into_force_date: "2010-01-05"
+jci_1_3: "jci1.3:c:BWBR0027267&z=2010-01-05&g=2010-01-05"
+jci_1_0: "1.0:c:BWBR0027267&g=2010-01-05"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke subsidieregeling persinnovatie"
+signed_date: "2009-12-23"
+entry_into_force: "2010-01-05"
 ---
-
 # Regeling van het Stimuleringsfonds voor de pers van 23 december 2009, nr. 19063, tot vaststelling van een Tijdelijke subsidieregeling persinnovatie
 
 Handelende na overleg met de Minister van Onderwijs, Cultuur en Wetenschap,
@@ -18,7 +44,7 @@ Besluit:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
-#### Artikel 1. Te subsidiëren activiteiten en kosten
+##### Artikel 1. Te subsidiëren activiteiten en kosten
 
 1. Het Stimuleringsfonds kan ten behoeve van innovatie van de persbedrijfstak in Nederland subsidie verstrekken voor:
 
@@ -44,13 +70,13 @@ Besluit:
 
 4. Het Stimuleringsfonds kan nadere richtlijnen omtrent de aard van de kosten vaststellen.
 
-#### Artikel 2. Subsidieaanvrager
+##### Artikel 2. Subsidieaanvrager
 
 1. Subsidie kan worden aangevraagd door de voor de desbetreffende activiteiten verantwoordelijke rechtspersoon of rechtspersonen dan wel rechtspersoon of rechtspersonen in oprichting, die in Nederland actief is of zijn.
 
 2. In afwijking van het gestelde onder het eerste lid kan voor projecten tot maximaal € 50.000,− subsidie worden aangevraagd door natuurlijke personen.
 
-#### Artikel 3. Subsidieplafond
+##### Artikel 3. Subsidieplafond
 
 1. Voor subsidieverlening op grond van deze regeling is per ronde als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027267&hoofdstuk=2&artikel=5&z=2010-01-05&g=2010-01-05) € 4 miljoen beschikbaar, waarvan ten minste vijftig procent bestemd is voor activiteiten ten behoeve van lokale of regionale journalistiek. Het Stimuleringsfonds kan binnen de in de vorige volzin bedoelde bedragen per ronde nadere subsidieplafonds vaststellen voor de verschillende activiteiten waarvoor subsidie kan worden verstrekt.
 
@@ -60,7 +86,7 @@ Besluit:
 
 ### Hoofdstuk 2. Subsidieaanvraag
 
-#### Artikel 4. Subsidieaanvraag
+##### Artikel 4. Subsidieaanvraag
 
 1. Subsidie wordt op aanvraag verleend.
 
@@ -78,7 +104,7 @@ Besluit:
 
 5. Het Stimuleringsfonds bevestigt binnen een week de ontvangst van een aanvraag.
 
-#### Artikel 5. Termijn indiening aanvraag
+##### Artikel 5. Termijn indiening aanvraag
 
 1. Een aanvraag voor subsidie wordt ingediend:
 
@@ -90,7 +116,7 @@ Besluit:
 
 ### Hoofdstuk 3. Subsidieverlening
 
-#### Artikel 6. Criteria verdeling bij subsidieverlening
+##### Artikel 6. Criteria verdeling bij subsidieverlening
 
 1. Het Stimuleringsfonds beslist gelijktijdig op de aanvragen op basis van de volgende criteria:
 
@@ -102,7 +128,7 @@ Besluit:
 
 3. Als op grond van de beoordeling, bedoeld in het eerste lid, de in aanmerking komende aanvragen leiden tot overschrijding van een subsidieplafond, kan het Stimuleringsfonds de hoogte van de subsidie bepalen naar rato van het aantal in aanmerking komende aanvragen en van de hoogte van aangevraagde subsidies.
 
-#### Artikel 7. Beslissing subsidieverlening
+##### Artikel 7. Beslissing subsidieverlening
 
 1. Het Stimuleringsfonds beslist binnen acht weken na de sluiting van elke aanvraagronde, bedoeld in [artikel 5 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027267&hoofdstuk=2&artikel=5&z=2010-01-05&g=2010-01-05), tegelijkertijd op de aanvragen die voor de desbetreffende aanvraagronde zijn ingediend.
 
@@ -110,7 +136,7 @@ Besluit:
 
 ### Hoofdstuk 4. Verplichtingen subsidieontvanger
 
-#### Artikel 8. Medewerkings- en informatieplicht
+##### Artikel 8. Medewerkings- en informatieplicht
 
 1. Als subsidie wordt verstrekt aan een in oprichting zijnde rechtspersoon kan het Stimuleringsfonds bij de subsidieverlening de verplichting opleggen dat de subsidieontvanger binnen een redelijke termijn rechtspersoonlijkheid heeft verkregen.
 
@@ -122,11 +148,11 @@ Besluit:
 
 ### Hoofdstuk 5. Subsidievaststelling
 
-#### Artikel 9. Aanvraag tot vaststelling
+##### Artikel 9. Aanvraag tot vaststelling
 
 Binnen twee maanden na afloop van het project waarvoor subsidie is verleend, dient de subsidieontvanger een aanvraag tot subsidievaststelling in. De aanvraag gaat vergezeld van een activiteitenverslag en een financieel verslag.
 
-#### Artikel 10. Financieel verslag en accountantsverklaring
+##### Artikel 10. Financieel verslag en accountantsverklaring
 
 1. Het financieel verslag gaat vergezeld van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), waarin deze verklaart dat de in het verslag opgenomen bedragen juist en volledig zijn.
 
@@ -138,7 +164,7 @@ Binnen twee maanden na afloop van het project waarvoor subsidie is verleend, die
 
 5. Het Stimuleringsfonds kan ten behoeve van de subsidievaststelling een door hem aan te wijzen accountant een onderzoek laten instellen naar de rechtmatigheid van de besteding van de subsidie.
 
-#### Artikel 11. Activiteitenverslag
+##### Artikel 11. Activiteitenverslag
 
 1. Het activiteitenverslag bevat een overzicht van de activiteiten waarvoor subsidie is verstrekt en van de daarmee bereikte resultaten.
 
@@ -148,21 +174,21 @@ Binnen twee maanden na afloop van het project waarvoor subsidie is verleend, die
 
 ### Hoofdstuk 6. Betaling
 
-#### Artikel 12. Betaling in gedeelten
+##### Artikel 12. Betaling in gedeelten
 
 Bij subsidieverlening wordt bij wijze van voorschot ten hoogste 50 procent van het verleende subsidiebedrag verstrekt.
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 14. Evaluatie
+##### Artikel 14. Evaluatie
 
 Binnen 13 weken na afloop van de data, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027267&hoofdstuk=2&artikel=5&z=2010-01-05&g=2010-01-05), evalueert het Stimuleringsfonds deze regeling. Het Stimuleringsfonds kan op basis van deze evaluaties de regeling aanpassen.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling persinnovatie.
 

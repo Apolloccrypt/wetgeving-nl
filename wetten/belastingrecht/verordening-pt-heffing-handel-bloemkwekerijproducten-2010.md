@@ -1,13 +1,38 @@
 ---
-title: "Verordening PT heffing handel bloemkwekerijproducten 2010"
+title: "Besluit van het bestuur van het Productschap Tuinbouw van 11 november 2009, houdende de vaststelling van een vakheffing voor de handel in bloemkwekerijproducten. (Verordening PT heffing handel bloemkwekerijproducten 2010)"
 identifier: "BWBR0030774"
-categorie: "Belastingrecht"
-publicatiedatum: 2011-12-11
-laatste_update: 2011-12-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030774"
+country: "nl"
+rank: "pbo"
+publication_date: "2011-12-11"
+last_updated: "2011-12-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030774"
+soort: "pbo"
+stam_id: "11528743"
+version_id: "18979862"
+internal_id: "C26482561"
+label_id: "11502044"
+dtd_version: "2.0"
+original_entry_into_force: "2011-12-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030774/2011-12-11/0"
+intitule_bron: "Vbbo.2011-80"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-11-11"
+intitule_published: "2011-12-02"
+intitule_in_force: "2011-12-02"
+intitule_status: "goed"
+original_publication: "Vbbo.2011-80"
+original_signed_date: "2009-11-11"
+original_published_date: "2011-12-02"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2011-12-04"
+jci_1_3: "jci1.3:c:BWBR0030774&z=2011-12-11&g=2011-12-11"
+jci_1_0: "1.0:c:BWBR0030774&g=2011-12-11"
+citeertitel_status: "officieel"
+short_title: "Verordening PT heffing handel bloemkwekerijproducten 2010"
+signed_date: "2009-11-11"
+entry_into_force: "2011-12-04"
 ---
-
 # Besluit van het bestuur van het Productschap Tuinbouw van 11 november 2009, houdende de vaststelling van een vakheffing voor de handel in bloemkwekerijproducten. (Verordening PT heffing handel bloemkwekerijproducten 2010)
 
 gelet op de [artikelen 93](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=93), [100 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=100) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126); gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12); gehoord de Commissie voor bloemkwekerijproducten, d.d. 12 oktober 2009;
@@ -16,7 +41,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=1) en [2 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=2).
 
@@ -36,7 +61,7 @@ Besluit:
 
 #### § 2. Heffingsplicht
 
-#### Artikel 2
+##### Artikel 2
 
 1. De ondernemer is over de door hem aangekochte bloemkwekerijproducten jaarlijks een heffing verschuldigd.
 
@@ -44,13 +69,13 @@ Besluit:
 
 3. De heffing bedoeld in het eerste en tweede lid, wordt opgelegd bij wege van aanslag, met inachtneming van het in de volgende artikelen bepaalde.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030774&paragraaf=2&artikel=2&z=2011-12-11&g=2011-12-11) doet de ondernemer bij het productschap aangifte van de door hem aangekochte bloemkwekerijproducten in het betreffende kalenderjaar.
 
 2. De opgave, als bedoeld in het eerste lid, wordt gedaan op een door het productschap te verstrekken aangifteformulier of via elektronische aangifte, met inachtneming van de daarop gestelde vragen en gegeven aanwijzingen.
 
-#### Artikel 4
+##### Artikel 4
 
 Ondernemers kunnen verzoeken tot het doen van een gezamenlijke aangifte. Hiervoor dient te worden aangetoond dat:
 
@@ -60,7 +85,7 @@ Ondernemers kunnen verzoeken tot het doen van een gezamenlijke aangifte. Hiervoo
 
 #### § 3. Grondslag en hoogte
 
-#### Artikel 5
+##### Artikel 5
 
 1. De heffing die de ondernemer is verschuldigd wordt berekend over de aankoopwaarde van de door hem in Nederland aangekochte bloemkwekerijproducten in het betreffende kalenderjaar.
 
@@ -73,7 +98,7 @@ Ondernemers kunnen verzoeken tot het doen van een gezamenlijke aangifte. Hiervoo
 
 #### § 4. Oplegging en inning
 
-#### Artikel 6
+##### Artikel 6
 
 1. De oplegging van de krachtens deze verordening verschuldigde heffing geschiedt door toezending of uitreiking van een heffingsnota aan de ondernemer na afloop van het betreffende kalenderjaar.
 
@@ -81,17 +106,17 @@ Ondernemers kunnen verzoeken tot het doen van een gezamenlijke aangifte. Hiervoo
 
 3. Nadat door de ondernemer alsnog aangifte is gedaan, wordt de ambtshalve heffing verrekend met de op basis van deze aangifte verschuldigde heffing.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien uit ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een ambtshalve schatting, niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien een ondernemer aantoont dat hij aangekochte bloemkwekerijproducten geheel of gedeeltelijk door tussenkomst van de Nederlandse veiling heeft verhandeld en dat over deze transactie reeds een voorschot aan de veiling is betaald, wordt dit betaalde voorschot in mindering gebracht op de berekende heffing ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030774&paragraaf=3&artikel=5&z=2011-12-11&g=2011-12-11).
 
 2. In de in het eerste lid bedoelde situatie wordt op de ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030774&paragraaf=3&artikel=5&z=2011-12-11&g=2011-12-11) over veilingtransacties berekende heffing een korting toegepast ter hoogte van 5%.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De gegevens verkregen uit hoofde van het bepaalde in deze verordening worden in handen van de secretaris of door deze aan te wijzen personen van het secretariaat van het productschap gesteld.
 
@@ -99,10 +124,10 @@ Indien uit ter beschikking gekomen gegevens blijkt dat de verstrekking van de ge
 
 #### § 5. Slotbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 Deze verordening treedt in werking met ingang van de tweede dag na de datum van publicatie in het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2010.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze verordening wordt aangehaald als: Verordening PT heffing handel bloemkwekerijproducten 2010.

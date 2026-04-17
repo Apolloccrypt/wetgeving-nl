@@ -1,14 +1,41 @@
 ---
-title: "Invoerings- en aanpassingswet Politiewet 2012"
+title: "Wet van 12 juli 2012 tot invoering van de Politiewet 2012 en aanpassing van overige wetten aan die wet (Invoerings- en aanpassingswet Politiewet 2012)"
 identifier: "BWBR0031794"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031794"
+country: "nl"
+rank: "wet"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031794"
+soort: "wet"
+stam_id: "11794703"
+version_id: "19521602"
+internal_id: "C27409011"
+label_id: "11767734"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031794/2020-01-01/0"
+intitule_bron: "Stb.2012-316"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-07-12"
+intitule_published: "2012-07-16"
+intitule_in_force: "2012-07-16"
+intitule_status: "goed"
+original_publication: "Stb.2012-316"
+original_signed_date: "2012-07-12"
+original_published_date: "2012-07-16"
+original_effect: "nieuwe-regeling"
+original_dossier: "32822"
+original_url_id: "stb-2012-316"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0031794&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0031794&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Invoerings- en aanpassingswet Politiewet 2012"
+signed_date: "2012-07-12"
+entry_into_force: "2013-01-01"
 ---
-
-# Invoerings- en aanpassingswet Politiewet 2012
+# Wet van 12 juli 2012 tot invoering van de Politiewet 2012 en aanpassing van overige wetten aan die wet (Invoerings- en aanpassingswet Politiewet 2012)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,17 +45,17 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Invoering van de [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788)
 
-#### Artikel 1
+##### Artikel 1
 
 Met ingang van het tijdstip van inwerkingtreding van deze wet zijn de korpsbeheerders van de regio’s, bedoeld in [artikel 21 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=21), eervol uit hun ambt ontslagen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het personeel van de regio’s, van het Korps landelijke politiediensten en van de voorziening tot samenwerking Politie Nederland gaat op de datum van inwerkingtreding van deze wet over in dienst van de politie op dezelfde voet en ook overigens in dezelfde rechtstoestand als waarin het op de dag, voorafgaand aan die datum, werkzaam was.
 
 2. Op de datum van inwerkingtreding van [artikel 25, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25) blijft voor de vervulling van en benoeming in de functies, genoemd in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0031794&bijlage=A&z=2020-01-01&g=2020-01-01) van deze wet, [hoofdstuk VII.b van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&hoofdstuk=VII.b) buiten toepassing. [Artikel 3 van het Besluit overleg en medezeggenschap politie 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=3) is hierop niet van toepassing.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De vermogensbestanddelen van de regio’s, van de Staat die aan het Korps landelijke politiediensten kunnen worden toegerekend, en van de voorziening tot samenwerking Politie Nederland gaan met ingang van de datum van inwerkingtreding van deze wet onder algemene titel over op de politie zonder dat daarvoor een akte of betekening wordt gevorderd.
 
@@ -38,25 +65,25 @@ Met ingang van het tijdstip van inwerkingtreding van deze wet zijn de korpsbehee
 
 4. Ter zake van de in het eerste lid bedoelde overgang van vermogensbestanddelen blijft heffing van overdrachtsbelasting achterwege.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Archiefbescheiden van de regio’s, het Korps landelijke politiediensten en de voorziening tot samenwerking Politie Nederland betreffende zaken die op de datum van inwerkingtreding van deze wet nog niet zijn afgedaan alsmede zaken die op dat tijdstip zijn afgedaan, worden overgedragen aan de politie, voor zover zij niet overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
 
 2. Archiefbescheiden van Onze Minister van Veiligheid en Justitie voor zover betrekking hebbend op de rijksrecherche betreffende zaken die op de datum van inwerkingtreding van deze wet nog niet zijn afgedaan, worden overgedragen aan het College van procureurs-generaal, voor zover zij niet overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
 
-#### Artikel 5
+##### Artikel 5
 
 1. In wettelijke procedures en rechtsgedingen, waarbij een regio, het Korps landelijke politiediensten of de voorziening tot samenwerking Politie Nederland is betrokken, treedt met ingang van de datum van inwerkingtreding van deze wet de politie, dan wel de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27), in de plaats van de regio, de Staat of de voorziening tot samenwerking Politie Nederland, dan wel de korpsbeheerder van de regio, Onze Minister van Veiligheid en Justitie of de voorzitter van het algemeen bestuur van voorziening tot samenwerking Politie Nederland.
 
 2. In wettelijke procedures en rechtsgedingen, waarbij de rijksrecherche is betrokken, treedt met ingang van de datum van inwerkingtreding van deze wet het College van procureurs-generaal in de plaats van Onze Minister van Veiligheid en Justitie.
 
-#### Artikel 6
+##### Artikel 6
 
 1. In zaken waarin voor het tijdstip van inwerkingtreding van deze wet aan de Nationale ombudsman is verzocht een onderzoek te doen dan wel de Nationale ombudsman een onderzoek heeft ingesteld naar een gedraging die kan worden toegerekend aan een bestuursorgaan van een regio, van de voorziening tot samenwerking Politie Nederland of Onze Minister van Veiligheid en Justitie voor wat betreft het Korps landelijke politiediensten, treedt de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27), op dat tijdstip als bestuursorgaan in de zin van de [Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372) in de plaats van dat bestuursorgaan.
 
 2. In zaken waarin voor het tijdstip van inwerkingtreding van deze wet aan de Nationale ombudsman is verzocht een onderzoek te doen dan wel de Nationale ombudsman een onderzoek heeft ingesteld naar een gedraging die kan worden toegerekend aan Onze Minister van Veiligheid en Justitie voor wat betreft de rijksrecherche, treedt het College van procureurs-generaal op dat tijdstip als bestuursorgaan in de zin van de [Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372) in de plaats van Onze Minister van Veiligheid en Justitie.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Na inwerkingtreding van deze wet berusten de algemene maatregelen van bestuur, genoemd in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0031794&bijlage=B&z=2020-01-01&g=2020-01-01) van deze wet, voor zover deze berustten op de [Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299), op de in deze bijlage genoemde artikelen van de [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788).
 
@@ -74,167 +101,167 @@ Met ingang van het tijdstip van inwerkingtreding van deze wet zijn de korpsbehee
 
 #### § 1. Ministerie van Algemene Zaken
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt de Noodwet rechtspleging.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt de Wet buitengewone bevoegdheden burgerlijk gezag.
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt de Wet op de inlichtingen- en veiligheidsdiensten 2002.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt het Wetboek van Koophandel.
 
 #### § 2. Ministerie van Veiligheid en Justitie
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt de Faillissementswet.
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt de Overleveringswet.
 
-#### Artikel 15
+##### Artikel 15
 
 Wijzigt de Uitvoeringswet Internationaal Strafhof.
 
-#### Artikel 16
+##### Artikel 16
 
 Wijzigt de Uitvoeringswet internationale kinderbescherming.
 
-#### Artikel 17
+##### Artikel 17
 
 Wijzigt de Uitvoeringswet Speciaal Tribunaal voor Libanon.
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt de Uitvoeringswet internationale kinderontvoering.
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt de Veiligheidswet BES.
 
-#### Artikel 20
+##### Artikel 20
 
 Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
-#### Artikel 21
+##### Artikel 21
 
 Wijzigt het Wetboek van Strafvordering.
 
-#### Artikel 22
+##### Artikel 22
 
 Wijzigt de Wet bescherming persoonsgegevens.
 
-#### Artikel 23
+##### Artikel 23
 
 Wijzigt de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.
 
-#### Artikel 23a
+##### Artikel 23a
 
 Wijzigt de Wet controle op rechtspersonen.
 
-#### Artikel 24
+##### Artikel 24
 
 Wijzigt de Wet DNA-onderzoek bij veroordeelden.
 
-#### Artikel 25
+##### Artikel 25
 
 Wijzigt de Wet justitiële en strafvorderlijke gegevens.
 
-#### Artikel 26
+##### Artikel 26
 
 Wijzigt de Wet op de bijzondere opsporingsdiensten.
 
-#### Artikel 27
+##### Artikel 27
 
 Wijzigt de Wet op de identificatieplicht.
 
-#### Artikel 28
+##### Artikel 28
 
 Wijzigt de Wet op het LSOP en het politieonderwijs.
 
-#### Artikel 29
+##### Artikel 29
 
 Wijzigt de Wet particuliere beveiligingsorganisaties en recherchebureaus.
 
-#### Artikel 30
+##### Artikel 30
 
 Wijzigt de Wet politiegegevens.
 
-#### Artikel 31
+##### Artikel 31
 
 Wijzigt de Wet tijdelijk huisverbod.
 
-#### Artikel 32
+##### Artikel 32
 
 Wijzigt de Wet tot instelling van het Internationaal Tribunaal voor vervolging van personen aansprakelijk voor ernstige schendingen van het internationaal humanitair recht op het grondgebied van het voormalige Joegoslavië 1991.
 
-#### Artikel 33
+##### Artikel 33
 
 Wijzigt de Wet veiligheidsregio’s.
 
-#### Artikel 34
+##### Artikel 34
 
 Wijzigt de Wet wapens en munitie.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Wijzigt deze wet.
 
 2. Wijzigt de Wet aanpassing bestuursprocesrecht.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Wijzigt deze wet.
 
 2. Wijzigt de Wijzigingswet Algemene wet bestuursrecht, enz. (vastlegging uitzonderingen toepasselijkheid positieve fictieve beschikking bij niet tijdig beslissen Dienstenwet).
 
-#### Artikel 37
+##### Artikel 37
 
 1. Wijzigt deze wet.
 
 2. Wijzigt de Wijzigingswet Wetboek van Strafvordering, enz. (introductie DNA-verwantschapsonderzoek en DNA-onderzoek naar uiterlijk waarneembare persoonskenmerken van het onbekende slachtoffer en regeling enige andere onderwerpen).
 
-#### Artikel 38
+##### Artikel 38
 
 1. Wijzigt deze wet.
 
 2. Wijzigt de Wijzigingswet Wetboek van Strafvordering (herziening regels betreffende de processtukken in strafzaken).
 
-#### Artikel 39
+##### Artikel 39
 
 1. Wijzigt deze wet.
 
 2. Wijzigt de Wijzigingswet Wet politiegegevens, enz. (implementatie kaderbesluit van de Raad van de Europese Unie 2008/977/JBZ).
 
-#### Artikel 40
+##### Artikel 40
 
 1. Wijzigt deze wet.
 
 2. Wijzigt de Wijzigingswet Wet veiligheidsregio’s (oprichting Instituut Fysieke Veiligheid en in verband met de volledige regionalisering brandweer).
 
-#### Artikel 41
+##### Artikel 41
 
 Wijzigt de Politiewet 2012.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Wijzigt deze wet.
 
 2. Wijzigt de Evaluatie- en uitbreidingswet Bibob.
 
-#### Artikel 42a
+##### Artikel 42a
 
 1. Indien het bij koninklijke boodschap van 9 september 2011 ingediende voorstel van wet tot wijziging van de Wet op de rechterlijke indeling, de Wet op de rechterlijke organisatie en diverse andere wetten in verband met de vermindering van het aantal arrondissementen en ressorten ([Wet herziening gerechtelijke kaart](https://wetten.overheid.nl/jci1.3:c:BWBR0031789)) (32 891) tot wet is verheven, en [artikel I van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&artikel=I) later in werking treedt dan [artikel 25, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25), is er, in afwijking van artikel 25, tweede lid, van de Politiewet 2012, tot het tijdstip waarop artikel I van de Wet herziening gerechtelijke kaart in werking treedt, een regionale eenheid als bedoeld in artikel 25, eerste lid, onder a, van de Politiewet 2012 in elk van de gebieden, genoemd in de [artikelen 4 tot en met 13 van de Wet op de rechterlijke indeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&artikel=4), zoals die luiden na het tijdstip van inwerkingtreding van de Wet herziening gerechtelijke kaart.
 
@@ -246,109 +273,109 @@ Wijzigt de Politiewet 2012.
 
 #### § 3. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
-#### Artikel 43
+##### Artikel 43
 
 Wijzigt de Gemeentewet.
 
-#### Artikel 44
+##### Artikel 44
 
 Wijzigt de Kieswet.
 
-#### Artikel 45
+##### Artikel 45
 
 Wijzigt de Wet gemeentelijke basisadministratie persoonsgegevens.
 
-#### Artikel 46
+##### Artikel 46
 
 Wijzigt de Wet privatisering ABP.
 
-#### Artikel 47
+##### Artikel 47
 
 Wijzigt de Vreemdelingenwet 2000.
 
-#### Artikel 48
+##### Artikel 48
 
 Wijzigt de Wet kaderregeling vut overheidspersoneel.
 
-#### Artikel 49
+##### Artikel 49
 
 1. Wijzigt deze wet.
 
 2. Wijzigt de Wet modern migratiebeleid.
 
-#### Artikel 50
+##### Artikel 50
 
 Wijzigt de Politiewet 2012.
 
-#### Artikel 51
+##### Artikel 51
 
 Vervallen
 
 #### § 4. Ministerie van Onderwijs, Cultuur en Wetenschap
 
-#### Artikel 52
+##### Artikel 52
 
 Wijzigt de Leerplichtwet 1969.
 
 #### § 5. Ministerie van Financiën
 
-#### Artikel 53
+##### Artikel 53
 
 Wijzigt de Algemene douanewet.
 
-#### Artikel 54
+##### Artikel 54
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel 55
+##### Artikel 55
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
 
 #### § 6. Ministerie van Infrastructuur en Milieu
 
-#### Artikel 56
+##### Artikel 56
 
 Wijzigt de Scheepvaartverkeerswet.
 
-#### Artikel 57
+##### Artikel 57
 
 Wijzigt de Spoorwegwet.
 
-#### Artikel 58
+##### Artikel 58
 
 Wijzigt de Wegenverkeerswet 1994.
 
-#### Artikel 59
+##### Artikel 59
 
 Wijzigt de Wet algemene bepalingen omgevingsrecht.
 
-#### Artikel 60
+##### Artikel 60
 
 Wijzigt de Wet explosieven voor civiel gebruik.
 
 #### § 7. Ministerie van Economische Zaken, Landbouw en Innovatie
 
-#### Artikel 61
+##### Artikel 61
 
 Wijzigt de Flora- en faunawet.
 
-#### Artikel 61a
+##### Artikel 61a
 
 Wijzigt de Visserijwet 1963.
 
 #### § 8. Ministerie van Volksgezondheid, Welzijn en Sport
 
-#### Artikel 62
+##### Artikel 62
 
 Wijzigt de Wet bijzondere opnemingen in psychiatrische ziekenhuizen.
 
-#### Artikel 63
+##### Artikel 63
 
 Vervallen
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 64
+##### Artikel 64
 
 1. Indien ingevolge enig wettelijk voorschrift:
 
@@ -362,15 +389,15 @@ geldt dat voorschrift niet ten aanzien van het Aanpassingsbesluit Politiewet 201
 
 2. Het eerste lid, onderdeel a, is niet van toepassing op het horen van de Raad van State.
 
-#### Artikel 65
+##### Artikel 65
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 66
+##### Artikel 66
 
 Deze wet wordt aangehaald als: Invoerings- en aanpassingswet Politiewet 2012.
 
-#### Artikel 67
+##### Artikel 67
 
 Voor het tijdstip van plaatsing in het Staatsblad vervangt Onze Minister van Veiligheid en Justitie de in deze wet voorkomende aanduiding «201X» door het jaartal van het Staatsblad, waarin het bij koninklijke boodschap van 21 november 2006 ingediende voorstel van wet houdende vaststelling van een nieuwe Politiewet ([Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788)) (30 880), na tot wet te zijn verheven, is geplaatst.
 

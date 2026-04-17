@@ -1,13 +1,38 @@
 ---
-title: "Verordening PT heffing export bloembollen naar Japan oogstjaar 2010"
+title: "Besluit van het bestuur van het Productschap Tuinbouw van 30 maart 2010, houdende de vaststelling van aan exporteurs van bloembollen op te leggen heffing voor de export van bloembollen naar Japan, voor het oogstjaar 2010 (Verordening PT heffing export bloembollen naar Japan oogstjaar 2010)"
 identifier: "BWBR0028002"
-categorie: "Belastingrecht"
-publicatiedatum: 2012-06-03
-laatste_update: 2012-06-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028002"
+country: "nl"
+rank: "pbo"
+publication_date: "2012-06-03"
+last_updated: "2012-06-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028002"
+soort: "pbo"
+stam_id: "10629943"
+version_id: "17562762"
+internal_id: "C24305431"
+label_id: "10604834"
+dtd_version: "2.0"
+original_entry_into_force: "2010-06-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028002/2012-06-03/0"
+intitule_bron: "Vbbo.2010-32"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-03-30"
+intitule_published: "2010-06-18"
+intitule_in_force: "2010-06-18"
+intitule_status: "goed"
+original_publication: "Vbbo.2010-32"
+original_signed_date: "2010-03-30"
+original_published_date: "2010-06-18"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2010-06-20"
+jci_1_3: "jci1.3:c:BWBR0028002&z=2012-06-03&g=2012-06-03"
+jci_1_0: "1.0:c:BWBR0028002&g=2012-06-03"
+citeertitel_status: "officieel"
+short_title: "Verordening PT heffing export bloembollen naar Japan oogstjaar 2010"
+signed_date: "2010-03-30"
+entry_into_force: "2010-06-20"
 ---
-
 # Besluit van het bestuur van het Productschap Tuinbouw van 30 maart 2010, houdende de vaststelling van aan exporteurs van bloembollen op te leggen heffing voor de export van bloembollen naar Japan, voor het oogstjaar 2010 (Verordening PT heffing export bloembollen naar Japan oogstjaar 2010)
 
 #### § 1. Begripsbepalingen
@@ -16,7 +41,7 @@ bron: "https://wetten.overheid.nl/BWBR0028002"
 
 #### § 3. Grondslag en hoogte
 
-#### Artikel 4
+##### Artikel 4
 
 1. De heffing die is verschuldigd wordt opgelegd naar de grondslag hoeveelheid product ten behoeve van de export naar Japan.
 
@@ -40,7 +65,7 @@ gehoord de Commissie voor bollen, knollen en wortelstokken van bloemgewassen, 16
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze verordening worden overgenomen de begripsbepalingen van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=1) en [2 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=2).
 
@@ -54,7 +79,7 @@ Besluit:
 
 #### § 2. Heffingsplicht
 
-#### Artikel 2
+##### Artikel 2
 
 1. De exporteur van bloembollen is over de door hem naar Japan uitgevoerde bloembollen aan het productschap een heffing verschuldigd.
 
@@ -62,7 +87,7 @@ Besluit:
 
 3. De heffing als bedoeld in het eerste lid, wordt opgelegd bij wege van een aanslag, met inachtneming van het in de volgende artikelen bepaalde.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028002&paragraaf=2&artikel=2&z=2012-06-03&g=2012-06-03) doet de exporteur van bloembollen aangifte bij het productschap van de door hem naar Japan uitgevoerde hoeveelheden bloembollen.
 
@@ -72,11 +97,11 @@ Besluit:
 
 #### § 4. Oplegging en inning
 
-#### Artikel 5
+##### Artikel 5
 
 Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De gegevens verkregen uit hoofde van het bepaalde in deze verordening dienen in handen van de secretaris of door deze aan te wijzen personen van het secretariaat van het productschap te worden gesteld.
 
@@ -84,10 +109,10 @@ Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de
 
 #### § 5. Slotbepalingen
 
-#### Artikel 7
+##### Artikel 7
 
 Deze verordening treedt in werking met ingang van de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze verordening, wordt aangehaald als: Verordening PT heffing export bloembollen naar Japan oogstjaar 2010.

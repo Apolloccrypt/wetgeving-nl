@@ -1,13 +1,39 @@
 ---
-title: "Ambtsinstructie politie BES"
+title: "Besluit van 30 september 2010, houdende de ambtsinstructie voor de politie, de Koninklijke marechaussee en de buitengewone agenten van politie en regels met betrekking tot de maatregelen waaraan rechtens van hun vrijheid beroofde personen kunnen worden onderworpen voor Bonaire, Sint Eustatius en Saba (Ambtsinstructie politie BES)"
 identifier: "BWBR0028717"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028717"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028717"
+soort: "AMvB-BES"
+stam_id: "10941493"
+version_id: "17927742"
+internal_id: "C24794471"
+label_id: "10916674"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028717/2010-10-10/0"
+intitule_bron: "Stb.2010-367"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-30"
+intitule_published: "2010-10-06"
+intitule_in_force: "2010-10-01"
+intitule_status: "goed"
+original_publication: "Stb.2010-367"
+original_signed_date: "2010-09-30"
+original_published_date: "2010-10-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-367"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028717&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028717&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Ambtsinstructie politie BES"
+signed_date: "2010-09-30"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit van 30 september 2010, houdende de ambtsinstructie voor de politie, de Koninklijke marechaussee en de buitengewone agenten van politie en regels met betrekking tot de maatregelen waaraan rechtens van hun vrijheid beroofde personen kunnen worden onderworpen voor Bonaire, Sint Eustatius en Saba (Ambtsinstructie politie BES)
 
 Op de voordracht van Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie van 15 december 2009, nr. 2009-0000720635, CZW/WSG, gedaan mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties en in overeenstemming met Onze Minister van Defensie;
@@ -24,7 +50,7 @@ Treedt in werking op het tijdstip waarop de Rijkswet politie van Curaçao, van S
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
@@ -78,11 +104,11 @@ Treedt in werking op het tijdstip waarop de Rijkswet politie van Curaçao, van S
 
 ### Hoofdstuk 2. Ambtsuitvoering
 
-#### Artikel 2
+##### Artikel 2
 
 Bij de uitoefening van zijn taken onthoudt de ambtenaar zich van gedragingen waardoor aan de goede naam van het politiekorps afbreuk gedaan kan worden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Behoudens bij door de korpsbeheerder of, voor zover het betreft de functionarissen van de Koninklijke marechaussee, Onze Minister van Defensie vastgestelde bijzondere voorschriften, brengt de ambtenaar bij officiële aangelegenheden – in uniform gekleed – op militaire wijze de groet:
 
@@ -98,7 +124,7 @@ Bij de uitoefening van zijn taken onthoudt de ambtenaar zich van gedragingen waa
 
 3. In burgerkleding groet de ambtenaar en brengt hij eerbewijzen met inachtneming van de gebruikelijke beleefdheidsvormen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De ambtenaar zorgt voor een correct voorkomen.
 
@@ -110,7 +136,7 @@ Bij de uitoefening van zijn taken onthoudt de ambtenaar zich van gedragingen waa
 
 5. Het is de ambtenaar verboden dienstkleding, -auto's en -gebouwen voor een ander doel te gebruiken dan waarvoor zij zijn verstrekt respectievelijk beschikbaar gesteld.
 
-#### Artikel 5
+##### Artikel 5
 
 De ambtenaar legitimeert zich met het legitimatiebewijs dat aan hem is verstrekt:
 
@@ -118,17 +144,17 @@ De ambtenaar legitimeert zich met het legitimatiebewijs dat aan hem is verstrekt
 
 - b. bij optreden in uniform, op verzoek daartoe.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De ambtenaar bekwaamt zich voortdurend in de kennis van zijn plichten, bevoegdheden en alle andere zaken met betrekking tot zijn taken.
 
 2. De ambtenaar stelt zich voortdurend op de hoogte van de geldende wettelijke regelingen, die voor de politie van belang zijn en van de voor hem geldende regelingen, dienstvoorschriften en ambtelijke instructies.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien tegen een verdachte van een strafbaar feit proces-verbaal zal worden opgemaakt, wordt dit zo mogelijk aan hem medegedeeld, met inachtneming van de geldende bepalingen van het [Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681).
 
-#### Artikel 8
+##### Artikel 8
 
 1. De ambtenaar, die buiten dienst een ernstig voorval waarneemt dat binnen de bevoegdheidssfeer van de politie ligt, of die buiten dienst op andere wijze van een zodanig ernstig voorval mededeling ontvangt, is verplicht naar bevind van zaken hulp te bieden en voorlopige maatregelen te nemen ter voorkoming van verder onheil dan wel ter verzekering van de mogelijkheid tot opsporing van een strafbaar feit, een en ander in afwachting van het overnemen van de behandeling van de zaak door een dienstdoend functionaris die bij of krachtens wettelijk voorschrift belast is met toezichthoudende of opsporingstaken.
 
@@ -138,13 +164,13 @@ Indien tegen een verdachte van een strafbaar feit proces-verbaal zal worden opge
 
 #### § 1. Algemeen
 
-#### Artikel 9
+##### Artikel 9
 
 1. De ambtenaar die bevoegd is in de rechtmatige uitoefening van zijn taak geweld te gebruiken tegen personen en goederen of vrijheidsbeperkende beperkende middelen te gebruiken tegen personen, gebruikt geweld wanneer het daarmee beoogde doel dit, mede gelet op de hieraan verbonden gevaren, rechtvaardigt en dat doel niet op andere wijze kan worden bereikt. Aan het gebruik van geweld gaat zo mogelijk een waarschuwing vooraf.
 
 2. De uitoefening van de bevoegdheid dient in verhouding tot het beoogde doel redelijk en gematigd te zijn.
 
-#### Artikel 10
+##### Artikel 10
 
 Het gebruik van een geweldmiddel is uitsluitend toegestaan aan een ambtenaar:
 
@@ -152,7 +178,7 @@ Het gebruik van een geweldmiddel is uitsluitend toegestaan aan een ambtenaar:
 
 - b. die in het gebruik van dat geweldmiddel is geoefend.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Indien de ambtenaar, al of niet in gesloten verband, onder leiding van een ter plaatse aanwezige meerdere optreedt, zal hij geen geweld aanwenden dan na uitdrukkelijke last van deze meerdere. De meerdere geeft daarbij aan van welk geweldmiddel gebruik wordt gemaakt.
 
@@ -164,7 +190,7 @@ Het gebruik van een geweldmiddel is uitsluitend toegestaan aan een ambtenaar:
 
 #### § 2. Vuurwapens
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het gebruik van een vuurwapen, niet zijnde een vuurwapen waarmee automatisch vuur of lange afstandsprecisievuur kan worden afgegeven, is slechts geoorloofd:
 
@@ -188,7 +214,7 @@ Het gebruik van een geweldmiddel is uitsluitend toegestaan aan een ambtenaar:
 
 4. Onder het plegen van een misdrijf, bedoeld in het eerste lid, onder b, worden mede begrepen de poging daartoe en de deelnemingsvormen, bedoeld in de [artikelen 49](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=49) en [50 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=50).
 
-#### Artikel 13
+##### Artikel 13
 
 1. De ambtenaar mag slechts uit voorzorg een vuurwapen, niet zijnde een vuurwapen waarmee automatisch vuur of lange afstandsprecisievuur kan worden afgegeven, ter hand nemen:
 
@@ -198,7 +224,7 @@ Het gebruik van een geweldmiddel is uitsluitend toegestaan aan een ambtenaar:
 
 2. Indien een situatie als bedoeld in het eerste lid, onderdeel b, zich niet of niet meer voordoet, bergt de ambtenaar terstond het vuurwapen op.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het gebruik van een vuurwapen waarmee automatisch vuur kan worden afgegeven, is slechts geoorloofd tegen personen en tegen vervoermiddelen waarin of waarop zich personen bevinden, in een situatie waarin sprake is van een ogenblikkelijke, wederrechtelijke aanranding van eigen of eens anders lijf.
 
@@ -212,7 +238,7 @@ Het gebruik van een geweldmiddel is uitsluitend toegestaan aan een ambtenaar:
 
 4. Het meevoeren van vuurwapens waarmee automatisch vuur kan worden afgegeven in het geval, bedoeld in het tweede lid, onder b, is slechts mogelijk na schriftelijke toestemming van het bevoegd gezag. Indien wegens de vereiste spoed de toestemming niet schriftelijk kan worden gevraagd of verleend, kan deze ook mondeling worden gevraagd en verleend. De toestemming die mondeling is verleend, wordt binnen vierentwintig uur schriftelijk bevestigd.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het gebruik van een vuurwapen waarmee lange afstandsprecisievuur kan worden afgegeven, is slechts geoorloofd bij zeer ernstige misdrijven ter afwending van direct gevaar voor het leven van personen.
 
@@ -222,7 +248,7 @@ Het gebruik van een geweldmiddel is uitsluitend toegestaan aan een ambtenaar:
 
 4. Het meevoeren van een vuurwapen waarmee lange afstandsprecisievuur kan worden afgegeven ten behoeve van de daadwerkelijke bestrijding van zeer ernstige misdrijven waarbij sprake is van direct levensbedreigende omstandigheden, is slechts toegestaan na schriftelijke toestemming van het bevoegd gezag. Aan de toestemming kunnen voorwaarden worden verbonden. Indien wegens de vereiste spoed de toestemming niet schriftelijk kan worden gevraagd of verleend, kan deze ook mondeling worden gevraagd en verleend. De toestemming die mondeling is verleend, wordt binnen vierentwintig uur schriftelijk bevestigd.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De ambtenaar waarschuwt onmiddellijk voordat hij gericht met een vuurwapen zal schieten, met luide stem of op andere niet mis te verstane wijze dat geschoten zal worden, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing, die zo nodig vervangen kan worden door een waarschuwingsschot, blijft slechts achterwege, wanneer de omstandigheden de waarschuwing redelijkerwijs niet toelaten.
 
@@ -230,11 +256,11 @@ Het gebruik van een geweldmiddel is uitsluitend toegestaan aan een ambtenaar:
 
 #### § 3. Niet-penetrerende munitie
 
-#### Artikel 17
+##### Artikel 17
 
 De [artikelen 12 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028717&hoofdstuk=3&paragraaf=2&artikel=12&z=2010-10-10&g=2010-10-10) zijn niet van toepassing op het gebruik en het ter hand nemen van een vuurwapen dat is geladen met niet-penetrerende munitie.
 
-#### Artikel 18
+##### Artikel 18
 
 Het gebruik van een vuurwapen dat is geladen met niet-penetrerende munitie is slechts geoorloofd:
 
@@ -242,17 +268,17 @@ Het gebruik van een vuurwapen dat is geladen met niet-penetrerende munitie is sl
 
 - b. om een persoon aan te houden die zich aan zijn aanhouding, voorgeleiding of andere rechtmatige vrijheidsbeneming tracht te onttrekken of heeft onttrokken.
 
-#### Artikel 19
+##### Artikel 19
 
 De ambtenaar waarschuwt onmiddellijk voordat hij gericht met een vuurwapen dat is geladen met niet-penetrerende munitie zal schieten, met luide stem of op andere niet mis te verstane wijze dat geschoten zal worden, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing blijft slechts achterwege, wanneer de omstandigheden de waarschuwing redelijkerwijs niet toelaten.
 
-#### Artikel 20
+##### Artikel 20
 
 De [artikelen 17 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028717&hoofdstuk=3&paragraaf=3&artikel=17&z=2010-10-10&g=2010-10-10) zijn van overeenkomstige toepassing indien de niet-penetrerende munitie wordt afgegeven met een ander hulpmiddel dan een vuurwapen.
 
 #### § 4. Pepperspray
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het gebruik van pepperspray is slechts geoorloofd:
 
@@ -274,17 +300,17 @@ De [artikelen 17 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028717&
 
 3. Bij gebruik van pepperspray wordt niet op de mond gericht.
 
-#### Artikel 22
+##### Artikel 22
 
 De ambtenaar waarschuwt onmiddellijk voordat hij gericht pepperspray tegen een persoon zal gebruiken, met luide stem of op andere niet mis te verstane wijze dat pepperspray gebruikt zal worden, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing blijft achterwege indien de omstandigheden de waarschuwing redelijkerwijs niet toelaten.
 
-#### Artikel 23
+##### Artikel 23
 
 Pepperspray wordt tegen een persoon per geval ten hoogste twee maal voor de duur van niet langer dan ongeveer een seconde gebruikt en op een afstand van ten minste een meter.
 
 #### § 5. CS-Traangas
 
-#### Artikel 24
+##### Artikel 24
 
 Het gebruik van CS-traangas is slechts geoorloofd:
 
@@ -294,13 +320,13 @@ Het gebruik van CS-traangas is slechts geoorloofd:
 
 - c. om dreigende agressie of verzet van een persoon te voorkomen.
 
-#### Artikel 25
+##### Artikel 25
 
 De ambtenaar waarschuwt onmiddellijk voordat hij CS-traangas tegen een persoon zal gebruiken, met luide stem of op andere niet mis te verstane wijze dat een traangas gebruikt zal worden, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing blijft achterwege indien de omstandigheden de waarschuwing redelijkerwijs niet toelaten.
 
 #### § 6. Politiehonden
 
-#### Artikel 26
+##### Artikel 26
 
 1. Het inzetten van een politiesurveillancehond is slechts geoorloofd onder het direct en voortdurend toezicht van een geleider bij:
 
@@ -312,13 +338,13 @@ De ambtenaar waarschuwt onmiddellijk voordat hij CS-traangas tegen een persoon z
 
 3. De geleider dient in het bezit te zijn van een krachtens [artikel 41, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=41) vastgesteld certificaat.
 
-#### Artikel 27
+##### Artikel 27
 
 In een situatie als bedoeld in [artikel 26, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028717&hoofdstuk=3&paragraaf=6&artikel=26&z=2010-10-10&g=2010-10-10), waarschuwt de ambtenaar onmiddellijk voordat hij een politiesurveillancehond inzet tegen een persoon met luide stem of op andere niet mis te verstane wijze dat de hond zal worden ingezet, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing blijft achterwege indien de omstandigheden de waarschuwing redelijkerwijs niet toelaten.
 
 #### § 7. Fysiek geweld en de wapenstok
 
-#### Artikel 28
+##### Artikel 28
 
 1. Het gebruik van fysiek geweld en de wapenstok is slechts geoorloofd:
 
@@ -326,13 +352,13 @@ In een situatie als bedoeld in [artikel 26, eerste lid, onder b](https://wetten.
 
 - b. om een persoon aan te houden die zich aan aanhouding, voorgeleiding of andere rechtmatige vrijheidsbeneming tracht te onttrekken of heeft onttrokken.
 
-#### Artikel 29
+##### Artikel 29
 
 De ambtenaar waarschuwt onmiddellijk voordat hij fysiek geweld of een wapenstok zal gebruiken, met luide stem of op andere niet mis te verstane wijze dat fysiek geweld of de wapenstok gebruikt zal worden, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing blijft slechts achterwege, wanneer de omstandigheden de waarschuwing redelijkerwijs niet toelaten.
 
 #### § 8. Melding geweld
 
-#### Artikel 30
+##### Artikel 30
 
 1. De ambtenaar die geweld heeft aangewend, meldt de feiten en omstandigheden dienaangaande, alsmede de gevolgen hiervan, onverwijld aan zijn meerdere of een door de korpschef aangewezen functionaris.
 
@@ -354,7 +380,7 @@ De ambtenaar waarschuwt onmiddellijk voordat hij fysiek geweld of een wapenstok 
 
 ### Hoofdstuk 4. Handboeien
 
-#### Artikel 31
+##### Artikel 31
 
 1. De ambtenaar kan een persoon die rechtens van zijn vrijheid is beroofd, ten behoeve van het vervoer handboeien aanleggen.
 
@@ -366,29 +392,29 @@ De ambtenaar waarschuwt onmiddellijk voordat hij fysiek geweld of een wapenstok 
 
 - b. de aard van het strafbare feit op grond waarvan de vrijheidsbeneming heeft plaatsgevonden, één en ander in samenhang met de wijze waarop en de situatie waarin het vervoer plaatsvindt.
 
-#### Artikel 32
+##### Artikel 32
 
 De ambtenaar die gebruik heeft gemaakt van handboeien als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028717&hoofdstuk=4&artikel=31&z=2010-10-10&g=2010-10-10), meldt dit onverwijld schriftelijk aan de meerdere, onder vermelding van de redenen die tot het gebruik van handboeien hebben geleid.
 
 ### Hoofdstuk 5. Veiligheidsfouillering
 
-#### Artikel 33
+##### Artikel 33
 
 1. Het onderzoek, bedoeld in [artikel 13, vierde lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=13), geschiedt door het oppervlakkig aftasten van de kleding en wordt zoveel mogelijk uitgevoerd door een ambtenaar van hetzelfde geslacht als degene die aan het onderzoek wordt onderworpen.
 
 2. In het geval dat een persoon is of zal worden aangehouden, wordt van een onderzoek aan diens kleding door de ambtenaar die bevoegd is tot het onderzoek gemotiveerd melding gemaakt in het desbetreffende proces-verbaal.
 
-#### Artikel 34
+##### Artikel 34
 
 Het onderzoek, bedoeld in [artikel 13, vijfde lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=13), wordt uitgevoerd door een ambtenaar van hetzelfde geslacht als degene die aan het onderzoek wordt onderworpen.
 
-#### Artikel 35
+##### Artikel 35
 
 De ambtenaar die een onderzoek als bedoeld in [artikel 13, vierde of vijfde lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=13) heeft uitgevoerd, meldt dit onverwijld schriftelijk aan de meerdere, onder vermelding van de redenen die tot dit onderzoek hebben geleid.
 
 ### Hoofdstuk 6. Hulpmiddelen ten behoeve van de feitelijke verwijdering of uitzetting van vreemdelingen
 
-#### Artikel 36
+##### Artikel 36
 
 1. De ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen, kan een vreemdeling bij diens feitelijke verwijdering of uitzetting met hulpmiddelen ten behoeve van de verwijdering of uitzetting in zijn bewegingsvrijheid beperken, ten behoeve van een goed verloop van de verwijdering of uitzetting.
 
@@ -402,7 +428,7 @@ De ambtenaar die een onderzoek als bedoeld in [artikel 13, vierde of vijfde lid,
 
 4. Het gebruik van een hulpmiddel is uitsluitend toegestaan aan een ambtenaar die in het gebruik van dat hulpmiddel is geoefend.
 
-#### Artikel 37
+##### Artikel 37
 
 1. De ambtenaar die ten aanzien van een vreemdeling die wordt verwijderd of uitgezet gebruik heeft gemaakt van een hulpmiddel ten behoeve van de verwijdering of uitzetting als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028717&hoofdstuk=6&artikel=36&z=2010-10-10&g=2010-10-10), meldt dit onverwijld schriftelijk aan de meerdere, onder vermelding van de aard van het hulpmiddel, de redenen die tot het gebruik hebben geleid en de daaruit voorvloeiende gevolgen.
 
@@ -410,13 +436,13 @@ De ambtenaar die een onderzoek als bedoeld in [artikel 13, vierde of vijfde lid,
 
 ### Hoofdstuk 7. Hulpverlening
 
-#### Artikel 38
+##### Artikel 38
 
 1. De ambtenaar draagt er zorg voor personen met lichte verwondingen, ziekteverschijnselen en personen ten aanzien van wie twijfel op dit punt bestaat, de weg te wijzen naar een huisarts of naar een E.H.B.O.-afdeling van een ziekenhuis. Indien dat noodzakelijk is, verleent de ambtenaar bemiddeling bij het verkrijgen van passend vervoer.
 
 2. De ambtenaar draagt er zorg voor dat personen met ernstige verwondingen en bewustelozen, waar onder mede worden verstaan personen die niet wekbaar of niet aanspreekbaar zijn, per ambulance naar het ziekenhuis worden vervoerd. De gegevens omtrent aard en omstandigheden van de gebeurtenis die tot de ziektetoestand heeft geleid, alsmede de op de persoon aangetroffen medische gegevens en geneesmiddelen, worden door hem ter beschikking van de medische hulpverleners gesteld.
 
-#### Artikel 39
+##### Artikel 39
 
 1. De ambtenaar draagt er zoveel mogelijk zorg voor dat personen die door drankgebruik, dan wel door andere oorzaken, onmiddellijk gevaarlijk zijn, hetzij voor de openbare orde, veiligheid, of gezondheid, hetzij voor zichzelf, op de meest geschikte wijze van plaatsen die krachtens bestemming of vast gebruik openstaat voor het publiek worden verwijderd. Onder plaatsen die krachtens bestemming of vast gebruik openstaat voor het publiek worden mede verstaan vervoermiddelen die zich bevinden op deze plaatsen, een en ander voor zover niet gebezigd als woning.
 
@@ -426,7 +452,7 @@ De ambtenaar die een onderzoek als bedoeld in [artikel 13, vierde of vijfde lid,
 
 ### Hoofdstuk 8. Maatregelen jegens ingeslotenen
 
-#### Artikel 40
+##### Artikel 40
 
 1. In dit hoofdstuk wordt verstaan onder:
 
@@ -436,25 +462,25 @@ De ambtenaar die een onderzoek als bedoeld in [artikel 13, vierde of vijfde lid,
 
 2. Onder ingeslotene wordt mede verstaan degene die ten behoeve van de hulpverlening aan hem op het politie- of brigadebureau is ondergebracht.
 
-#### Artikel 41
+##### Artikel 41
 
 1. De ambtenaar handelt jegens de ingeslotene overeenkomstig het gestelde bij of krachtens [artikel 9 van het Besluit beheer politiekorps BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028780&artikel=9).
 
 2. De ambtenaar registreert de gegevens die krachtens [artikel 9, zesde lid, van het Besluit beheer politiekorps BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028780&artikel=9) zijn aangewezen.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Voor zover het bij of krachtens het [Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681) bepaalde zich hiertegen niet verzet, stelt de ambtenaar een familielid of een huisgenoot van een ingeslotene zo spoedig mogelijk op de hoogte van de insluiting. In het geval de ingeslotene minderjarig is, doet hij dit uit eigen beweging, indien de ingeslotene meerderjarig is, doet hij dit slechts op verzoek van de ingeslotene.
 
 2. Indien de omstandigheden de uitvoering van het eerste lid niet toelaten bij een ingeslotene die geen ingezetene is, wordt de ambassade of het consulaat van het land waarin de ingeslotene ingezetene is, op de hoogte gesteld van de insluiting.
 
-#### Artikel 43
+##### Artikel 43
 
 1. De ambtenaar brengt de ingeslotene direct voorafgaand aan de insluiting op het politie- of brigadebureau op de hoogte van het bepaalde in de [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028717&hoofdstuk=8&artikel=42&z=2010-10-10&g=2010-10-10), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0028717&hoofdstuk=8&artikel=48&z=2010-10-10&g=2010-10-10) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0028717&hoofdstuk=8&artikel=49&z=2010-10-10&g=2010-10-10).
 
 2. [Artikel 82, tweede, derde en vierde lid, van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=82) zijn van overeenkomstige toepassing.
 
-#### Artikel 44
+##### Artikel 44
 
 1. De ambtenaar onderzoekt de ingeslotene direct voorafgaand aan de insluiting op het politie- of brigadebureau, door het aftasten en doorzoeken van diens kleding op de aanwezigheid van voorwerpen die tijdens de insluiting een gevaar voor de veiligheid van de betrokkene of voor anderen kunnen vormen.
 
@@ -462,13 +488,13 @@ De ambtenaar die een onderzoek als bedoeld in [artikel 13, vierde of vijfde lid,
 
 3. Het onderzoek, bedoeld in het eerste lid, wordt zoveel mogelijk uitgevoerd door een ambtenaar van hetzelfde geslacht als degene die aan het onderzoek wordt onderworpen.
 
-#### Artikel 45
+##### Artikel 45
 
 1. De ambtenaar kan slechts van de ingeslotene verlangen dat deze zich ontkleedt indien de kleding tijdens de insluiting een gevaar voor de veiligheid van betrokkene of van anderen kan vormen en een hulpofficier van justitie daarvoor toestemming heeft gegeven.
 
 2. De ambtenaar neemt de kleding, bedoeld in het eerste lid, in bewaring en draagt zorg voor vervangende kleding.
 
-#### Artikel 46
+##### Artikel 46
 
 1. De ambtenaar die een onderzoek als bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028717&hoofdstuk=8&artikel=44&z=2010-10-10&g=2010-10-10), heeft uitgevoerd, maakt hiervan onverwijld schriftelijk rapport op ten behoeve van de meerdere.
 
@@ -476,7 +502,7 @@ De ambtenaar die een onderzoek als bedoeld in [artikel 13, vierde of vijfde lid,
 
 3. Een afschrift van de aantekening, bedoeld in het tweede lid, wordt door de ingeslotene en de ambtenaar ondertekend en aan de ingeslotene overhandigd.
 
-#### Artikel 47
+##### Artikel 47
 
 1. De ambtenaar kan de ingeslotene na toestemming van de hulpofficier van justitie aan permanente camera-observatie onderwerpen.
 
@@ -484,7 +510,7 @@ De ambtenaar die een onderzoek als bedoeld in [artikel 13, vierde of vijfde lid,
 
 3. De ambtenaar doet aan de betrokkene mededeling van de permanente camera-observatie en maakt aantekening van de permanente camera-observatie.
 
-#### Artikel 48
+##### Artikel 48
 
 1. In het geval er aanwijzingen zijn dat een ingeslotene medische bijstand behoeft dan wel er bij deze persoon medicijnen zijn aangetroffen, overlegt de ambtenaar met de arts. De ambtenaar overlegt eveneens met de arts indien de ingeslotene zelf om medische bijstand of medicijnen vraagt.
 
@@ -492,11 +518,11 @@ De ambtenaar die een onderzoek als bedoeld in [artikel 13, vierde of vijfde lid,
 
 3. In het geval de ingeslotene te kennen geeft geen medische hulp te willen hebben, terwijl er aanwijzingen zijn dat medische bijstand gewenst is, waarschuwt de ambtenaar de arts en deelt hij deze de houding van de ingeslotene mee.
 
-#### Artikel 49
+##### Artikel 49
 
 De ambtenaar mag aan de arts bij het onderzoek en de behandeling geen beperkingen opleggen. Hij volgt de aanwijzingen op die de arts over de zorg voor de gezondheid van de ingeslotene geeft en registreert de door de arts gegeven aanwijzingen.
 
-#### Artikel 50
+##### Artikel 50
 
 1. De ambtenaar controleert de ingeslotene regelmatig met dien verstande dat:
 
@@ -510,21 +536,21 @@ De ambtenaar mag aan de arts bij het onderzoek en de behandeling geen beperkinge
 
 3. De ambtenaar registreert de observaties, bedoeld in het eerste lid.
 
-#### Artikel 51
+##### Artikel 51
 
 Bij overplaatsing van de ingeslotene geeft de ambtenaar de geneesmiddelen, de registraties, bedoeld in de [artikelen 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028717&hoofdstuk=8&artikel=41&z=2010-10-10&g=2010-10-10), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0028717&hoofdstuk=8&artikel=49&z=2010-10-10&g=2010-10-10) en [50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028717&hoofdstuk=8&artikel=50&z=2010-10-10&g=2010-10-10), voor zover die van belang kunnen zijn, en de rapportage van de arts, die bestemd is voor een arts die de behandeling zal overnemen, mee.
 
-#### Artikel 52
+##### Artikel 52
 
 De ambtenaar zorgt ervoor dat bij de invrijheidstelling van een persoon die zichzelf niet kan verplaatsen, vervoer en begeleiding voor die persoon beschikbaar is.
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 53
+##### Artikel 53
 
 Dit besluit treedt in werking met ingang van de dag waarop de [rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079) in werking treedt.
 
-#### Artikel 54
+##### Artikel 54
 
 Dit besluit wordt aangehaald als: Ambtsinstructie politie BES.
 

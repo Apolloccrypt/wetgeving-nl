@@ -1,13 +1,39 @@
 ---
-title: "Algemene Subsidiebepalingen ZonMw"
+title: "Regeling van het bestuur van ZorgOnderzoek Nederland, houdende vaststelling van de Algemene subsidiebepalingen ZonMw (Algemene subsidiebepalingen ZonMw)"
 identifier: "BWBR0052106"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-03
-laatste_update: 2026-01-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052106"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-03"
+last_updated: "2026-01-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052106"
+soort: "zbo"
+stam_id: "17720933"
+version_id: "31276252"
+internal_id: "C44718051"
+label_id: "17620044"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052106/2026-01-03/0"
+intitule_bron: "Stcrt.2026-27"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-15"
+intitule_published: "2026-01-02"
+intitule_in_force: "2026-01-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-27"
+original_signed_date: "2025-12-15"
+original_published_date: "2026-01-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-27"
+entry_into_force_date: "2026-01-03"
+jci_1_3: "jci1.3:c:BWBR0052106&z=2026-01-03&g=2026-01-03"
+jci_1_0: "1.0:c:BWBR0052106&g=2026-01-03"
+citeertitel_status: "officieel"
+short_title: "Algemene Subsidiebepalingen ZonMw"
+signed_date: "2025-12-15"
+entry_into_force: "2026-01-03"
 ---
-
 # Regeling van het bestuur van ZorgOnderzoek Nederland, houdende vaststelling van de Algemene subsidiebepalingen ZonMw (Algemene subsidiebepalingen ZonMw)
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&artikel=3), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&artikel=9) en [11 van de Wet op de organisatie ZorgOnderzoek Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&artikel=11);
@@ -28,7 +54,7 @@ Deze Regeling kan buiten toepassing zijn ingeval ZonMw financieringsinstrumenten
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 In deze Algemene subsidiebepalingen ZonMw en de Toelichting behorende daarbij wordt verstaan onder:
 
@@ -90,7 +116,7 @@ In deze Algemene subsidiebepalingen ZonMw en de Toelichting behorende daarbij wo
 
 - **ZonMw:** de organisatie ZorgOnderzoek Nederland/Medische Wetenschappen.
 
-#### Artikel 1.2. Grondslag en reikwijdte
+##### Artikel 1.2. Grondslag en reikwijdte
 
 1. Deze Algemene subsidiebepalingen zijn van toepassing op alle subsidies die door ZonMw worden verstrekt, met uitzondering van subsidies als bedoeld in [artikel 4:23, derde lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23) (subsidies waarvoor geen wettelijke grondslag is vereist).
 
@@ -138,7 +164,7 @@ In deze Algemene subsidiebepalingen ZonMw en de Toelichting behorende daarbij wo
 
 7. Ten aanzien van subsidies als bedoeld in [artikel 4:23, derde lid, onder d, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23) kan ZonMw bepalen dat deze Algemene subsidiebepalingen geheel of gedeeltelijk van toepassing zijn. De toepassing van dit lid wordt in dat geval in de beschikking tot subsidieverlening vermeld.
 
-#### Artikel 1.3. Aanvrager
+##### Artikel 1.3. Aanvrager
 
 Subsidie wordt aangevraagd door:
 
@@ -148,11 +174,11 @@ Subsidie wordt aangevraagd door:
 
 - c. een natuurlijk persoon, indien sprake is van een persoonsgebonden subsidievorm.
 
-#### Artikel 1.4. Subsidieverstrekking aan het Caribisch deel van het Koninkrijk
+##### Artikel 1.4. Subsidieverstrekking aan het Caribisch deel van het Koninkrijk
 
 Op subsidieverstrekking aan subsidieontvangers in het Caribisch deel van het Koninkrijk is [Titel 4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) van overeenkomstige toepassing.
 
-#### Artikel 1.5. Vormen van subsidie
+##### Artikel 1.5. Vormen van subsidie
 
 ZonMw verstrekt subsidie in de vorm van een:
 
@@ -160,7 +186,7 @@ ZonMw verstrekt subsidie in de vorm van een:
 
 - b. incidentele subsidie.
 
-#### Artikel 1.6. Subsidiabele kosten
+##### Artikel 1.6. Subsidiabele kosten
 
 1. Voor subsidie komen uitsluitend in aanmerking de kosten die door ZonMw redelijkerwijs als noodzakelijk kunnen worden beschouwd voor, en die direct verbonden zijn met, de uitvoering van de subsidiabele activiteit en die zijn toegestaan binnen toepassing van het gehanteerde staatssteunvrijstellinginstrument.
 
@@ -168,7 +194,7 @@ ZonMw verstrekt subsidie in de vorm van een:
 
 3. De in aanmerking komende kosten worden in de subsidieoproep nader uitgewerkt. In de subsidieoproep kunnen nadere voorwaarden worden gesteld aan de begroting en aan de kosten die voor subsidie in aanmerking komen.
 
-#### Artikel 1.7. Niet-subsidiabele kosten
+##### Artikel 1.7. Niet-subsidiabele kosten
 
 De volgende kosten zijn niet subsidiabel, tenzij in de subsidieoproep anders is geregeld:
 
@@ -182,7 +208,7 @@ De volgende kosten zijn niet subsidiabel, tenzij in de subsidieoproep anders is 
 
 - e. boetes, financiële sancties en daarmee samenhangende kosten.
 
-#### Artikel 1.8. Subsidieplafond
+##### Artikel 1.8. Subsidieplafond
 
 1. ZonMw stelt een subsidieplafond vast per subsidieoproep met inachtneming van de maximale bedragen in de Algemene Groepsvrijstelling Verordening voor zover van toepassing.
 
@@ -192,7 +218,7 @@ De volgende kosten zijn niet subsidiabel, tenzij in de subsidieoproep anders is 
 
 4. Het vaststellen van subsidieplafonds wordt zo spoedig mogelijk bekend gemaakt op [www.overheid.nl](http://www.overheid.nl/) en op de website van ZonMw, [www.zonmw.nl](http://www.zonmw.nl/).
 
-#### Artikel 1.9. Wijze van verdeling
+##### Artikel 1.9. Wijze van verdeling
 
 1. ZonMw kan subsidies verdelen op basis van de volgende, in de subsidieoproep vast te leggen, verdelingswijzen:
 
@@ -214,7 +240,7 @@ De volgende kosten zijn niet subsidiabel, tenzij in de subsidieoproep anders is 
 
 4. Indien toepassing van een verdeling naar evenredigheid of een andere wijze van verdeling ertoe leidt dat subsidieaanvragen gelijk eindigen in de rangschikking, wordt rangschikking van die subsidieaanvragen met een gelijke waardering vervolgens bepaald door de in de subsidieoproep aangegeven nadere wijze van verdeling.
 
-#### Artikel 1.10. Algemene weigeringsgronden
+##### Artikel 1.10. Algemene weigeringsgronden
 
 Onverminderd [artikel 4:25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:25) en [artikel 4:35 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) kan ZonMw de subsidie weigeren indien:
 
@@ -226,23 +252,23 @@ Onverminderd [artikel 4:25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 - d. bij de in de subsidieoproep bepaalde gevallen.
 
-#### Artikel 1.11. Begrotingsvoorbehoud
+##### Artikel 1.11. Begrotingsvoorbehoud
 
 Subsidie wordt verleend onder de voorwaarde dat voldoende financiële middelen door de desbetreffende opdrachtgever van ZonMw ter beschikking worden gesteld.
 
 ### Hoofdstuk 2. Aanvraag tot verlening van subsidie
 
-#### Artikel 2.1. Formulier subsidieaanvraag
+##### Artikel 2.1. Formulier subsidieaanvraag
 
 Voor een aanvraag tot verlening van een subsidie wordt gebruik gemaakt van het daartoe door ZonMw beschikbaar gestelde digitale modelformulier, dat is bekendgemaakt op het subsidieportaal van ZonMw.
 
-#### Artikel 2.2. Subsidieaanvraag vóór aanvang subsidieperiode
+##### Artikel 2.2. Subsidieaanvraag vóór aanvang subsidieperiode
 
 1. ZonMw kan bepalen dat subsidieaanvragen vóór een door hem te bepalen datum of binnen een door hem te bepalen periode zijn ontvangen.
 
 2. Een aanvraag tot verlening van een subsidie wordt in ieder geval ingediend vóór aanvang van de periode waarvoor subsidie wordt aangevraagd, tenzij in de subsidieoproep anders is bepaald.
 
-#### Artikel 2.3. Aanvraag tot subsidieverlening
+##### Artikel 2.3. Aanvraag tot subsidieverlening
 
 1. Subsidieaanvragen dienen in de Nederlandse taal te zijn opgesteld, tenzij in de subsidieoproep anders is bepaald.
 
@@ -288,7 +314,7 @@ Voor een aanvraag tot verlening van een subsidie wordt gebruik gemaakt van het d
 
 - c. hetzij een letter of commitment, een concept samenwerkingsovereenkomst dan wel samenwerkingsovereenkomst, voor zover dat is bepaald in de subsidieoproep en er sprake is van een samenwerkingsverband.
 
-#### Artikel 2.4. Begroting
+##### Artikel 2.4. Begroting
 
 1. De begroting behelst per activiteit een overzicht van de geraamde kosten en opbrengsten van de aanvrager(s), voor zover deze betrekking hebben op de periode waarvoor subsidie wordt aangevraagd.
 
@@ -296,17 +322,17 @@ Voor een aanvraag tot verlening van een subsidie wordt gebruik gemaakt van het d
 
 3. De begroting die bij de aanvraag wordt ingediend, is sluitend.
 
-#### Artikel 2.5. Melding andere aanvragen
+##### Artikel 2.5. Melding andere aanvragen
 
 Voor zover de aanvrager(s) voor dezelfde begrote kosten ook subsidie of een andere financiële bijdrage heeft aangevraagd bij een derde, doet hij daarvan mededeling in de aanvraag tot verlening van de subsidie, onder vermelding van de stand van zaken van de beoordeling van die andere subsidieaanvraag of financiële bijdrage.
 
-#### Artikel 2.6. Overzicht financiële situatie
+##### Artikel 2.6. Overzicht financiële situatie
 
 Op verzoek van ZonMw leggen alle aanvragers een volledig en recent overzicht van hun financiële situatie over.
 
 ### Hoofdstuk 3. Subsidieverlening
 
-#### Artikel 3.1. Subsidieverstrekking
+##### Artikel 3.1. Subsidieverstrekking
 
 ZonMw verstrekt uitsluitend:
 
@@ -326,7 +352,7 @@ ZonMw verstrekt uitsluitend:
 
 - d. indien de subsidie meer dan € 125.000 bedraagt, en de te subsidiëren activiteiten niet uit meetbare prestatie-eenheden bestaan: een subsidie waarbij wordt aangetoond dat de te subsidiëren activiteiten hebben plaatsgevonden overeenkomstig de aan de verleende subsidie verbonden verplichtingen, en waarbij tevens rekening en verantwoording wordt afgelegd omtrent de met de gesubsidieerde activiteiten samenhangende kosten en opbrengsten.
 
-#### Artikel 3.2. Verlening
+##### Artikel 3.2. Verlening
 
 1. Het besluit tot subsidieverlening vermeldt in ieder geval:
 
@@ -350,7 +376,7 @@ ZonMw verstrekt uitsluitend:
 
 2. Indien in het besluit tot verlening de begrote kosten van de te subsidiëren activiteiten zijn vermeld, zijn deze gelijk aan de som van de in dat besluit vermelde bijdragen van derden, begrote eigen bijdrage en de subsidie.
 
-#### Artikel 3.3. Termijn besluit tot subsidieverlening
+##### Artikel 3.3. Termijn besluit tot subsidieverlening
 
 1. ZonMw besluit binnen 13 weken na afloop van de periode waarin aanvragen kunnen worden ingediend.
 
@@ -368,7 +394,7 @@ ZonMw verstrekt uitsluitend:
 
 5. ZonMw kan het nemen van een besluit tot een nader te bepalen datum onder opgave van redenen uitstellen.
 
-#### Artikel 3.4. Opschortende subsidievoorwaarden
+##### Artikel 3.4. Opschortende subsidievoorwaarden
 
 1. De subsidie wordt verstrekt onder de opschortende voorwaarden dat:
 
@@ -386,13 +412,13 @@ ZonMw verstrekt uitsluitend:
 
 2. ZonMw kan in de verleningsbeschikking aanvullende voorwaarden stellen.
 
-#### Artikel 3.5. Sancties
+##### Artikel 3.5. Sancties
 
 ZonMw kan de subsidieverlening intrekken of ten nadele wijzigen, in de gevallen zoals bepaald in [artikel 4:48 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48).
 
 ### Hoofdstuk 4. Verplichtingen van de subsidieontvanger
 
-#### Artikel 4.1. Besteding subsidie
+##### Artikel 4.1. Besteding subsidie
 
 Iedere individuele subsidieontvanger zorgt ervoor dat:
 
@@ -400,7 +426,7 @@ Iedere individuele subsidieontvanger zorgt ervoor dat:
 
 - b. de voor de uitvoering van de gesubsidieerde activiteiten benodigde middelen op verantwoorde wijze worden beheerd.
 
-#### Artikel 4.2. Startdatum
+##### Artikel 4.2. Startdatum
 
 1. Uiterlijk zes maanden nadat een subsidie is verleend, dient het project van start te zijn gegaan.
 
@@ -408,7 +434,7 @@ Iedere individuele subsidieontvanger zorgt ervoor dat:
 
 3. In de oproep kan ZonMw bepalen dat het project na subsidieverlening eerder van start dient te gaan.
 
-#### Artikel 4.3. Administratieplicht
+##### Artikel 4.3. Administratieplicht
 
 1. De administratie van de subsidieontvanger is zodanig ingericht dat daaruit:
 
@@ -420,7 +446,7 @@ Iedere individuele subsidieontvanger zorgt ervoor dat:
 
 3. De administratie en de daartoe behorende bescheiden worden gedurende 10 jaren na de vaststelling bewaard.
 
-#### Artikel 4.4. Meewerken aan onderzoek
+##### Artikel 4.4. Meewerken aan onderzoek
 
 De subsidieontvanger werkt, onder meer door het verschaffen van de daartoe benodigde inlichtingen, gegevens en bescheiden, mee aan door of namens ZonMw ingesteld onderzoek dat erop is gericht ZonMw inlichtingen te verschaffen die van belang zijn voor:
 
@@ -428,7 +454,7 @@ De subsidieontvanger werkt, onder meer door het verschaffen van de daartoe benod
 
 - b. de ontwikkeling van het beleid van ZonMw.
 
-#### Artikel 4.5. Tussentijdse rapportage
+##### Artikel 4.5. Tussentijdse rapportage
 
 1. Indien een subsidie voor meer dan 12 maanden wordt verleend, kan ZonMw verlangen dat de subsidieontvanger eenmaal per 12 maanden verslag doet van de voortgang van de gesubsidieerde activiteiten, waaronder de financiële stand van zaken.
 
@@ -444,13 +470,13 @@ De subsidieontvanger werkt, onder meer door het verschaffen van de daartoe benod
 
 7. De voortgangsrapportage dient te worden aangeleverd via het door ZonMw beschikbaar gestelde digitale modelformulier, dat is bekendgemaakt op het subsidieportaal van ZonMw.
 
-#### Artikel 4.6. Eindrapportage
+##### Artikel 4.6. Eindrapportage
 
 1. De eindrapportage dient duidelijk inzicht te verschaffen in de bereikte resultaten en in de aard, duur en omvang van de activiteiten waarvoor een subsidie is verstrekt. In de rapportage worden de bereikte resultaten en de verrichte activiteiten vergeleken met de in de subsidieaanvraag voorgenomen activiteiten. Direct met de inhoudelijke eindrapportage, dient de projectleider een financiële verantwoording in bij ZonMw die het mogelijk maakt te controleren of geen sprake is van ongeoorloofde staatssteun.
 
 2. De eindrapportage dient te worden aangeleverd via het door ZonMw beschikbaar gestelde digitale modelformulier, dat is bekendgemaakt op het subsidieportaal van ZonMw.
 
-#### Artikel 4.7. Meldingsplicht
+##### Artikel 4.7. Meldingsplicht
 
 1. De subsidieontvanger meldt onverwijld schriftelijk aan ZonMw indien:
 
@@ -474,7 +500,7 @@ De subsidieontvanger werkt, onder meer door het verschaffen van de daartoe benod
 
 - b. de subsidiabele activiteiten in overwegende mate wijzigen.
 
-#### Artikel 4.8. Communicatie
+##### Artikel 4.8. Communicatie
 
 1. De subsidieontvanger stemt de communicatie over het project met ZonMw af. Dit geldt in het bijzonder voor activiteiten van het programma waarvan het project deel uitmaakt.
 
@@ -488,7 +514,7 @@ De subsidieontvanger werkt, onder meer door het verschaffen van de daartoe benod
 
 6. ZonMw publiceert op haar website van alle toegekende projecten een lekensamenvatting voor een breed geïnteresseerd publiek. De subsidieontvanger dient hiervoor twee keer een tekst aan te leveren: voor de start van het project – binnen twee weken na de subsidieverlening – en na afloop van het project vóór de subsidievaststelling.
 
-#### Artikel 4.9. Publicatie van resultaten
+##### Artikel 4.9. Publicatie van resultaten
 
 1. Indien een gesubsidieerde activiteit leidt tot een publicatie of een product, zorgt de subsidieontvanger dat daarbij een verwijzing komt naar de door ZonMw verleende subsidie, op een manier zoals in [artikel 4.8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052106&hoofdstuk=4&artikel=4.8&z=2026-01-03&g=2026-01-03) is bepaald. Voorts draagt de subsidieontvanger er zorg voor dat een publicatie of product verwijst naar de data en andere middelen die voor de activiteiten zijn gebruikt middels een persistent identifier en/of een gedetailleerde omschrijving met vermelding van vindplaats (metadata).
 
@@ -510,13 +536,13 @@ De subsidieontvanger werkt, onder meer door het verschaffen van de daartoe benod
 
 10. De subsidieontvanger vrijwaart ZonMw voor aanspraken van derden ter zake van alle schade die zij lijden ten gevolge van de door of vanwege de subsidieontvanger verrichte activiteiten en resultaten.
 
-#### Artikel 4.10. Herbruikbare kennis
+##### Artikel 4.10. Herbruikbare kennis
 
 1. Producten, data en andere middelen die in het project zijn gebruikt, worden met bijbehorende toelichting (metadata) in elk geval op door ZonMw aan te geven wijze beschikbaar gesteld voor gebruik ten behoeve van verder wetenschappelijk onderzoek, beleid en innovatie. De binnen een project verzamelde resultaten dienen daarom volgens de geldende standaarden en toegankelijk te worden gedocumenteerd en opgeslagen. Producten kunnen eventueel op basis van kostprijs ter beschikking worden gesteld.
 
 2. Subsidieontvangers die niet onder een wettelijke archiefplicht van minstens 20 jaar vallen, moeten (een kopie van) de datasets archiveren bij een domeinspecifieke digitale repository of data-archief voor onderzoeksdata, bij voorkeur gecertificeerd, eventueel nader gespecificeerd in de subsidieoproep.
 
-#### Artikel 4.11. Intellectueel eigendom en rechten op resultaten
+##### Artikel 4.11. Intellectueel eigendom en rechten op resultaten
 
 1. De intellectuele eigendomsrechten van de projectresultaten komen toe aan subsidieontvanger die de betreffende resultaten tot stand heeft gebracht of tot stand heeft laten brengen.
 
@@ -526,17 +552,17 @@ De subsidieontvanger werkt, onder meer door het verschaffen van de daartoe benod
 
 4. ZonMw kan in de subsidieoproep nadere voorwaarden omtrent de verdeelwijzen van intellectuele eigendomsrechten opnemen.
 
-#### Artikel 4.12. Vergoedingsplicht voor vermogensvorming
+##### Artikel 4.12. Vergoedingsplicht voor vermogensvorming
 
 1. [Artikel 4:41 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:41) is van toepassing.
 
 2. De hoogte van de vergoeding wordt bepaald naar evenredigheid van de mate waarin de door ZonMw verstrekte subsidie tot de vermogensvorming heeft bijgedragen.
 
-#### Artikel 4.13. Inlichtingenplicht
+##### Artikel 4.13. Inlichtingenplicht
 
 Indien de activiteiten waarvoor de subsidie is verstrekt, geheel of gedeeltelijk worden beëindigd of indien de subsidie wordt beëindigd, verstrekt de subsidieontvanger aan ZonMw op diens verzoek alle gegevens, bescheiden, informatie, medewerking of gebruiksrechten op auteursrechten die redelijkerwijs verlangd kunnen worden voor de continuïteit van de activiteiten waarvoor de subsidie is verstrekt.
 
-#### Artikel 4.14. Niet-doelgebonden verplichtingen voor de subsidieontvanger
+##### Artikel 4.14. Niet-doelgebonden verplichtingen voor de subsidieontvanger
 
 1. In de subsidieoproep kan ZonMw verplichtingen als bedoeld in [artikel 4:39, eerste lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:39), aan de subsidieverlening verbinden, ter bevordering van:
 
@@ -554,7 +580,7 @@ Indien de activiteiten waarvoor de subsidie is verstrekt, geheel of gedeeltelijk
 
 ### Hoofdstuk 5. Bevoorschotting en betaling
 
-#### Artikel 5.1. Bevoorschotting en betaling
+##### Artikel 5.1. Bevoorschotting en betaling
 
 1. ZonMw kan in de subsidieoproep dan wel bij het besluit tot subsidieverlening bepalen dat ambtshalve voorschotten kunnen worden verstrekt.
 
@@ -568,7 +594,7 @@ Indien de activiteiten waarvoor de subsidie is verstrekt, geheel of gedeeltelijk
 
 4. ZonMw continueert de bevoorschotting op basis van de ontvangst en goedkeuring van de voortgangsrapportage. Als de voortgang onvoldoende is, kan de bevoorschotting (tijdelijk) worden stopgezet. Het bevoorschottingsschema kan worden aangepast als de voortgangsrapportage daartoe aanleiding geeft.
 
-#### Artikel 5.2. Kosten terugvordering en wettelijke rente
+##### Artikel 5.2. Kosten terugvordering en wettelijke rente
 
 Bij terugvordering van ten onrechte betaalde subsidiebedragen of voorschotten kan ZonMw de subsidieontvanger verplichten de met de terugvordering verband houdende kosten te voldoen. Daarbij kan ZonMw de verschuldigde wettelijke rente vorderen.
 
@@ -576,11 +602,11 @@ Bij terugvordering van ten onrechte betaalde subsidiebedragen of voorschotten ka
 
 #### Paragraaf 6.1. Aanvraag tot vaststelling
 
-#### Artikel 6.1. Formulier subsidievaststelling
+##### Artikel 6.1. Formulier subsidievaststelling
 
 Voor een aanvraag tot vaststelling van een subsidie wordt gebruik gemaakt van het daartoe door ZonMw beschikbaar gestelde digitale modelformulier, dat is bekendgemaakt op het subsidieportaal van ZonMw.
 
-#### Artikel 6.2. Aanvraagtermijn subsidievaststelling
+##### Artikel 6.2. Aanvraagtermijn subsidievaststelling
 
 1. Een aanvraag tot vaststelling van een subsidie boven € 25.000 wordt ingediend binnen 22 weken nadat de activiteiten waarvoor subsidie wordt gevraagd, zijn verricht.
 
@@ -588,7 +614,7 @@ Voor een aanvraag tot vaststelling van een subsidie wordt gebruik gemaakt van he
 
 #### Paragraaf 6.2. Wijze van verantwoording per subsidiesoort en besluit tot subsidievaststelling
 
-#### Artikel 6.3. Subsidies tot en met € 25.000 die direct worden vastgesteld
+##### Artikel 6.3. Subsidies tot en met € 25.000 die direct worden vastgesteld
 
 1. Subsidies tot en met € 25.000 worden door ZonMw:
 
@@ -604,7 +630,7 @@ Voor een aanvraag tot vaststelling van een subsidie wordt gebruik gemaakt van he
 
 5. De [artikelen 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0052106&hoofdstuk=2&artikel=2.5&z=2026-01-03&g=2026-01-03) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0052106&hoofdstuk=2&artikel=2.6&z=2026-01-03&g=2026-01-03) zijn van overeenkomstige toepassing.
 
-#### Artikel 6.4. Subsidies van meer dan € 25.000 met meetbare prestatie-eenheden
+##### Artikel 6.4. Subsidies van meer dan € 25.000 met meetbare prestatie-eenheden
 
 1. De ontvanger van een subsidie als bedoeld in [artikel 3.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0052106&hoofdstuk=3&artikel=3.1&z=2026-01-03&g=2026-01-03), toont op de bij het besluit tot verlening van de subsidie bepaalde wijze aan dat de activiteiten waarvoor de subsidie is verleend, zijn verricht en dat is voldaan aan de aan de verleende subsidie verbonden verplichtingen.
 
@@ -616,7 +642,7 @@ Voor een aanvraag tot vaststelling van een subsidie wordt gebruik gemaakt van he
 
 5. ZonMw kan het nemen van een besluit tot een nader te bepalen datum onder opgave van redenen uitstellen.
 
-#### Artikel 6.5. Subsidies van meer dan € 25.000 tot en met € 125.000 met verantwoording over activiteiten
+##### Artikel 6.5. Subsidies van meer dan € 25.000 tot en met € 125.000 met verantwoording over activiteiten
 
 1. De ontvanger van een subsidie als bedoeld in [artikel 3.1, onderdeel c, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0052106&hoofdstuk=3&artikel=3.1&z=2026-01-03&g=2026-01-03), toont aan de hand van een activiteitenverslag aan dat de activiteiten waarvoor de subsidie is verleend, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen, tenzij ZonMw daaraan geen behoefte heeft.
 
@@ -626,7 +652,7 @@ Voor een aanvraag tot vaststelling van een subsidie wordt gebruik gemaakt van he
 
 4. ZonMw kan het nemen van een besluit tot een nader te bepalen datum onder opgave van redenen uitstellen.
 
-#### Artikel 6.6. Subsidies van meer dan € 25.000 tot en met € 125.000 met verantwoording in verklaring inzake werkelijke kosten en opbrengsten
+##### Artikel 6.6. Subsidies van meer dan € 25.000 tot en met € 125.000 met verantwoording in verklaring inzake werkelijke kosten en opbrengsten
 
 1. De ontvanger van een subsidie als bedoeld in [artikel 3.1, onderdeel c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0052106&hoofdstuk=3&artikel=3.1&z=2026-01-03&g=2026-01-03), toont aan de hand van een verklaring inzake werkelijke kosten en opbrengsten aan dat de activiteiten zijn verricht en dat is voldaan aan de aan de verleende subsidie verbonden verplichtingen.
 
@@ -636,7 +662,7 @@ Voor een aanvraag tot vaststelling van een subsidie wordt gebruik gemaakt van he
 
 4. ZonMw kan het nemen van een besluit tot een nader te bepalen datum onder opgave van redenen uitstellen.
 
-#### Artikel 6.7. Subsidies meer dan € 125.000, anders dan voor meetbare prestatie-eenheden
+##### Artikel 6.7. Subsidies meer dan € 125.000, anders dan voor meetbare prestatie-eenheden
 
 1. De ontvanger van een subsidie als bedoeld in [artikel 3.1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0052106&hoofdstuk=3&artikel=3.1&z=2026-01-03&g=2026-01-03), legt rekening en verantwoording af aan de hand van een activiteitenverslag en een financieel verslag, tenzij dit voor de berekening van het bedrag van de subsidie niet van belang is.
 
@@ -650,7 +676,7 @@ Voor een aanvraag tot vaststelling van een subsidie wordt gebruik gemaakt van he
 
 6. ZonMw kan het nemen van een besluit tot een nader te bepalen datum onder opgave van redenen uitstellen.
 
-#### Artikel 6.8. Controle rechtmatige besteding van de subsidie
+##### Artikel 6.8. Controle rechtmatige besteding van de subsidie
 
 1. In geval van een subsidie van meer dan € 125.000 is de subsidieontvanger verplicht om bij de aanvraag tot subsidievaststelling een controleverklaring, opgesteld door een onafhankelijke accountant, aan te leveren bij de kosten en opbrengsten opgenomen in het jaaroverzicht met de volgens de ZonMw-administratie afgesloten projecten.
 
@@ -672,26 +698,26 @@ Voor een aanvraag tot vaststelling van een subsidie wordt gebruik gemaakt van he
 
 10. De subsidieontvanger ontvangt een verslag van bevindingen van de controle en informatie over de eventuele maatregelen die ZonMw zal treffen naar aanleiding van de uitgevoerde controle.
 
-#### Artikel 6.9. Sancties
+##### Artikel 6.9. Sancties
 
 ZonMw kan de subsidie lager of op nihil vaststellen, in de gevallen zoals bepaald in [artikel 4:46 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46). Tevens kan ZonMw een beschikking tot subsidievaststelling intrekken of ten nadele van de subsidieontvanger wijzigen, in de gevallen zoals bepaald in [artikel 4:49 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49).
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 7.1. Overgangsrecht
+##### Artikel 7.1. Overgangsrecht
 
 1. De [Algemene subsidiebepalingen ZonMw 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0046501) worden ingetrokken.
 
 2. Op subsidieaanvragen als bedoeld in de Algemene subsidiebepalingen ZonMw waarop op het tijdstip van inwerkingtreding van deze regeling nog niet onherroepelijk is beslist, blijven de [Algemene subsidiebepalingen ZonMw 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0046501), zoals die luidde de dag voorafgaand aan het tijdstip van inwerkingtreding van deze regeling, van toepassing.
 
-#### Artikel 7.2. Hardheidsclausule
+##### Artikel 7.2. Hardheidsclausule
 
 Het bestuur van ZonMw kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 7.3. Inwerkingtreding
+##### Artikel 7.3. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 7.4. Citeertitel
+##### Artikel 7.4. Citeertitel
 
 Deze regeling wordt aangehaald als: Algemene Subsidiebepalingen ZonMw.

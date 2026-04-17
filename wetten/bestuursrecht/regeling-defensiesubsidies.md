@@ -1,20 +1,45 @@
 ---
 title: "Regeling defensiesubsidies"
 identifier: "BWBR0013110"
-categorie: "Bestuursrecht"
-publicatiedatum: 2012-01-01
-laatste_update: 2012-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013110"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2012-01-01"
+last_updated: "2012-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013110"
+soort: "ministeriele-regeling"
+stam_id: "4115113"
+version_id: "18848352"
+internal_id: "C26304791"
+label_id: "4094894"
+dtd_version: "2.0"
+original_entry_into_force: "2011-10-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013110/2012-01-01/0"
+intitule_bron: "Stcrt.2001-242"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-12-07"
+intitule_published: "2001-12-13"
+intitule_in_force: "2001-12-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-18656"
+original_signed_date: "2011-10-04"
+original_published_date: "2011-10-18"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2011-18656"
+entry_into_force_date: "2011-10-04"
+jci_1_3: "jci1.3:c:BWBR0013110&z=2012-01-01&g=2012-01-01"
+jci_1_0: "1.0:c:BWBR0013110&g=2012-01-01"
+citeertitel_status: "officieel"
+signed_date: "2011-10-04"
+entry_into_force: "2011-10-04"
 ---
-
 # Regeling defensiesubsidies
 
 Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -24,15 +49,15 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Algemene subsidiebepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 Een subsidie die wordt verleend ten laste van een begroting van de uitgaven van het Rijk van het Ministerie van Defensie die nog niet is vastgesteld wordt verleend onder de voorwaarde dat voldoende gelden ter beschikking worden gesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij gehele of gedeeltelijke beëindiging van de gesubsidieerde activiteiten is de subsidieontvanger, voor zover het verstrekken van de subsidie heeft geleid tot vermogensvorming, daarvoor een vergoeding verschuldigd aan de minister. De hoogte van de vergoeding wordt bepaald rekening houdende met de verstrekte subsidie, de duur van de subsidiëring en de mate waarin het subsidiebedrag voor het beoogde doel is aangewend.
 
-#### Artikel 4
+##### Artikel 4
 
 De beschikking tot subsidieverlening vermeldt in ieder geval:
 
@@ -44,17 +69,17 @@ De beschikking tot subsidieverlening vermeldt in ieder geval:
 
 - d. de voorschotverlening, in gevallen waarin voorschotten op de subsidie worden verleend.
 
-#### Artikel 5
+##### Artikel 5
 
 De minister onderwerpt de subsidieverstrekking elke vijf jaren aan een evaluatieonderzoek, indien subsidie wordt verstrekt gedurende meer dan vijf jaren. De resultaten van dit onderzoek bepalen mede de aanspraak op subsidieverstrekking in het daaropvolgende jaar.
 
 #### § 2a. Subsidies tot € 25.000
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Bij de verstrekking van een subsidie in de exploitatiekosten houdt de minister rekening met de volgende ontvangsten:
 
@@ -66,7 +91,7 @@ Bij de verstrekking van een subsidie in de exploitatiekosten houdt de minister r
 
 - d. subsidies, niet door de minister verstrekt, onderscheiden naar subsidiegever.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Op subsidies die per boekjaar aan rechtspersonen worden verstrekt is [afdeling 4.2.8. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.8) van toepassing indien de subsidie € 125.000 of meer per boekjaar bedraagt
 
@@ -74,7 +99,7 @@ Bij de verstrekking van een subsidie in de exploitatiekosten houdt de minister r
 
 3. Het onderzoek, bedoeld in het tweede lid, vindt plaats overeenkomstig het controleprotocol, dat bij deze regeling behoort. De bevindingen van de accountant worden vastgelegd in een accountantsverklaring en een rapport van bevindingen overeenkomstig de modellen, die bij deze regeling behoren.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Indien een rechtspersoon die zich de ondersteuning van een of meer gesubsidieerde rechtspersonen tot doel stelt aan de subsidieontvanger goederen ter beschikking stelt, betaalt de subsidieontvanger voor het ter beschikking stellen een vergoeding die niet hoger is dan het bedrag dat op grond van de historische kostprijs berekend wordt, rekening houdend met de voor de subsidieontvanger geldende afschrijvingspercentages.
 
@@ -84,17 +109,17 @@ Bij de verstrekking van een subsidie in de exploitatiekosten houdt de minister r
 
 - b. die, voor zover het andere diensten betreft, niet hoger is dan het bedrag dat voor het doen verrichten van dergelijke diensten door andere dan dergelijke rechtspersonen gebruikelijk kan worden geacht.
 
-#### Artikel 10
+##### Artikel 10
 
 De subsidieontvanger, die aan derden goederen ter beschikking stelt of voor derden diensten verricht, brengt een vergoeding in rekening die ten minste kostendekkend is, tenzij het hier betreft personen voor wie de gesubsidieerde activiteiten bestemd zijn.
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
 #### § 2c. Subsidies van € 125.000 of meer
 
-#### Artikel 12
+##### Artikel 12
 
 1. Mandaat tot het nemen van besluiten ter uitvoering van deze regeling wordt verleend aan de secretaris-generaal van het ministerie.
 
@@ -102,21 +127,21 @@ Vervallen
 
 #### § 2d. Toepassing van [paragraaf 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0013110&paragraaf=2a&z=2012-01-01&g=2012-01-01) op subsidies van € 25.000 of meer na risicoanalyse
 
-#### Artikel 13
+##### Artikel 13
 
 De Interimregeling subsidies Defensie wordt ingetrokken.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Deze regeling is niet van toepassing op subsidies die voorafgaande aan 1 januari 2002 zijn verleend of zijn vastgesteld.
 
 2. Ten aanzien van de in het eerste lid bedoelde subsidies blijft de Interimregeling subsidies Defensie, zoals deze luidde op de dag voorafgaande aan haar intrekking, van kracht.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze regeling treedt in werking met ingang van 1 januari 2002.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling wordt aangehaald als: Regeling defensiesubsidies.
 
@@ -172,7 +197,7 @@ Telefoon:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. Het verstrekken van subsidies lager dan € 25.000 vindt plaats in de vorm van een vast bedrag dat wordt bepaald op basis van gegevens die worden ingediend bij de aanvraag.
 
@@ -182,7 +207,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. een beschikking tot subsidieverlening gegeven, met vermelding van de datum waarop de activiteiten uiterlijk moeten zijn verricht en van de datum waarop de subsidie uiterlijk ambtshalve wordt vastgesteld.
 
-#### Artikel 5b
+##### Artikel 5b
 
 Bij het verstrekken van een subsidie als bedoeld in [artikel 5a, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013110&paragraaf=2a&artikel=5a&z=2012-01-01&g=2012-01-01), wordt aan de subsidie de verplichting voor de subsidieontvanger verbonden om:
 
@@ -190,7 +215,7 @@ Bij het verstrekken van een subsidie als bedoeld in [artikel 5a, tweede lid, ond
 
 - b. desgevraagd, op door de subsidieverstrekker van tevoren aangegeven wijze, aan te tonen dat de activiteiten waarvoor de subsidie is verleend, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.
 
-#### Artikel 5c
+##### Artikel 5c
 
 1. Bij het verstrekken van een subsidie lager dan € 25.000 wordt aan de subsidie geen verplichting voor de subsidieontvanger verbonden tot:
 
@@ -204,7 +229,7 @@ Bij het verstrekken van een subsidie als bedoeld in [artikel 5a, tweede lid, ond
 
 #### § 2b. Subsidies van € 25.000 tot € 125.000
 
-#### Artikel 5d
+##### Artikel 5d
 
 1. Het verstrekken van subsidies van € 25.000 tot € 125.000 vindt plaats in de vorm van een vast bedrag of een vast bedrag voor een nog te verrichten prestatie-eenheid, dat wordt bepaald op basis van gegevens die worden ingediend bij de aanvraag.
 
@@ -212,7 +237,7 @@ Bij het verstrekken van een subsidie als bedoeld in [artikel 5a, tweede lid, ond
 
 3. Indien de periode van uitvoering van de activiteiten waarvoor subsidie wordt verstrekt meer dan 12 maanden bedraagt, wordt een tussentijds voortgangsverslag ten hoogste één keer per periode van 12 maanden gevraagd.
 
-#### Artikel 5f
+##### Artikel 5f
 
 1. Indien bij een subsidieverstrekking tussen € 25.000 en € 125.000 de uitgaven en inkomsten ter zake van de te verrichten activiteiten in verband met de aard van die activiteiten zodanig ongewis zijn dat een realistische begroting niet vereist kan worden, kan worden bepaald dat de subsidieontvanger op basis van een verklaring inzake werkelijke uitgaven en inkomsten mag aantonen dat de activiteiten zijn verricht.
 
@@ -230,13 +255,13 @@ Bij het verstrekken van een subsidie als bedoeld in [artikel 5a, tweede lid, ond
 
 - f. wat het totale bedrag van de gerealiseerde eigen bijdrage is.
 
-#### Artikel 5g
+##### Artikel 5g
 
 1. Bij subsidieverstrekking van € 125.000 of meer, wordt aan een subsidie de verplichting voor de subsidieontvanger verbonden om onverwijld een schriftelijke melding te doen zodra aannemelijk is dat de activiteiten waarvoor de subsidie is verleend niet of niet geheel vóór de in de beschikking vermelde datum waarop deze uiterlijk moeten zijn verricht zullen worden verricht of dat vóór die datum niet of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan.
 
 2. Indien de periode van uitvoering van de activiteiten waarvoor subsidie wordt verstrekt meer dan 12 maanden bedraagt, wordt een tussentijds voortgangsverslag ten hoogste één keer per periode van 12 maanden gevraagd.
 
-#### Artikel 5h
+##### Artikel 5h
 
 [Paragraaf 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0013110&paragraaf=2a&z=2012-01-01&g=2012-01-01) kan overeenkomstig worden toegepast op subsidies van € 25.000 of meer indien uit een risicoanalyse blijkt dat daartegen geen bezwaar bestaat.
 

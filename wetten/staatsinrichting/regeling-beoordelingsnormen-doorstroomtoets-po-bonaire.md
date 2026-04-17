@@ -1,13 +1,39 @@
 ---
-title: "Regeling beoordelingsnormen doorstroomtoets PO Bonaire"
+title: "Regeling van het College voor toetsen en examens van 1 december 2025 nummer CvTE-25.012.16, houdende vaststelling van de regeling voor de procedure om te komen tot de beoordelingsnormen van de doorstroomtoets po op Bonaire (de Regeling beoordelingsnormen doorstroomtoets PO Bonaire)"
 identifier: "BWBR0052133"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2026-01-09
-laatste_update: 2026-01-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052133"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-09"
+last_updated: "2026-01-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052133"
+soort: "zbo"
+stam_id: "17727113"
+version_id: "31284472"
+internal_id: "C44728451"
+label_id: "17625664"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052133/2026-01-09/0"
+intitule_bron: "Stcrt.2026-98"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-01"
+intitule_published: "2026-01-08"
+intitule_in_force: "2026-01-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-98"
+original_signed_date: "2025-12-01"
+original_published_date: "2026-01-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-98"
+entry_into_force_date: "2026-01-09"
+jci_1_3: "jci1.3:c:BWBR0052133&z=2026-01-09&g=2026-01-09"
+jci_1_0: "1.0:c:BWBR0052133&g=2026-01-09"
+citeertitel_status: "officieel"
+short_title: "Regeling beoordelingsnormen doorstroomtoets PO Bonaire"
+signed_date: "2025-12-01"
+entry_into_force: "2026-01-09"
 ---
-
 # Regeling van het College voor toetsen en examens van 1 december 2025 nummer CvTE-25.012.16, houdende vaststelling van de regeling voor de procedure om te komen tot de beoordelingsnormen van de doorstroomtoets po op Bonaire (de Regeling beoordelingsnormen doorstroomtoets PO Bonaire)
 
 Gelet op [artikel 3a, eerste lid, onderdeel f, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3a);
@@ -16,15 +42,15 @@ Gezien de goedkeuring van de Staatssecretaris van Onderwijs, Cultuur en Wetensch
 
 Besluit:
 
-#### Artikel 1. Beoordelingsnormen
+##### Artikel 1. Beoordelingsnormen
 
 De regeling voor de procedure om te komen tot de beoordelingsnormen van de doorstroomtoets als bedoeld in [artikel 3a, eerste lid, onderdeel f van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3a) op Bonaire wordt vastgesteld als opgenomen in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0052133&bijlage=1&z=2026-01-09&g=2026-01-09) van deze regeling.
 
-#### Artikel 2. Inwerkingtreding
+##### Artikel 2. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de regeling wordt geplaatst.
 
-#### Artikel 3. Citeertitel
+##### Artikel 3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling beoordelingsnormen doorstroomtoets PO Bonaire.
 

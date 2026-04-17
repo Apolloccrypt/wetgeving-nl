@@ -1,14 +1,41 @@
 ---
-title: "Wet tijdelijke tolheffing Blankenburgverbinding en ViA15"
+title: "Wet van 2 december 2015, houdende regels over het tijdelijk heffen van tol voor de gedeeltelijke bekostiging van de verbinding tussen de A15 bij Rozenburg en de A20 tussen Maassluis en Vlaardingen en de verbinding van de A15 tussen knooppunt Valburg en de A12 bij Zevenaar (Wet tijdelijke tolheffing Blankenburgverbinding en ViA15)"
 identifier: "BWBR0037517"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-05-16
-laatste_update: 2025-05-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037517"
+country: "nl"
+rank: "wet"
+publication_date: "2025-05-16"
+last_updated: "2025-05-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037517"
+soort: "wet"
+stam_id: "13386003"
+version_id: "22956452"
+internal_id: "C33282771"
+label_id: "13353974"
+dtd_version: "2.0"
+original_entry_into_force: "2016-03-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037517/2025-05-16/0"
+intitule_bron: "Stb.2015-497"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-12-02"
+intitule_published: "2015-12-15"
+intitule_in_force: "2016-02-22"
+intitule_status: "goed"
+original_publication: "Stb.2015-497"
+original_signed_date: "2015-12-02"
+original_published_date: "2015-12-15"
+original_effect: "nieuwe-regeling"
+original_dossier: "34189"
+original_url_id: "stb-2015-497"
+entry_into_force_date: "2016-03-15"
+jci_1_3: "jci1.3:c:BWBR0037517&z=2025-05-16&g=2025-05-16"
+jci_1_0: "1.0:c:BWBR0037517&g=2025-05-16"
+citeertitel_status: "officieel"
+short_title: "Wet tijdelijke tolheffing Blankenburgverbinding en ViA15"
+signed_date: "2015-12-02"
+entry_into_force: "2016-03-15"
 ---
-
-# Wet tijdelijke tolheffing Blankenburgverbinding en ViA15
+# Wet van 2 december 2015, houdende regels over het tijdelijk heffen van tol voor de gedeeltelijke bekostiging van de verbinding tussen de A15 bij Rozenburg en de A20 tussen Maassluis en Vlaardingen en de verbinding van de A15 tussen knooppunt Valburg en de A12 bij Zevenaar (Wet tijdelijke tolheffing Blankenburgverbinding en ViA15)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. (begripsbepalingen)
+##### Artikel 1. (begripsbepalingen)
 
 Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -76,7 +103,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 #### § 2.1. Tolbesluit
 
-#### Artikel 2. (tolbesluit)
+##### Artikel 2. (tolbesluit)
 
 1. Onze Minister is bevoegd een besluit voor het heffen van tol te nemen, te wijzigen of in te trekken voor de gedeeltelijke bekostiging en financiering van de Blankenburgverbinding onderscheidenlijk de ViA15.
 
@@ -92,7 +119,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 4. Op de voorbereiding van een besluit als bedoeld in het eerste lid is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing, met dien verstande dat zienswijzen naar voren kunnen worden gebracht door een ieder.
 
-#### Artikel 3. (tracébesluit geldt als tolbesluit)
+##### Artikel 3. (tracébesluit geldt als tolbesluit)
 
 1. Het tracébesluit voor de Blankenburgverbinding onderscheidenlijk de ViA15 geldt als een tolbesluit. Voor zover het tracébesluit betrekking heeft op tolheffing, wordt dat in het tracébesluit uitdrukkelijk aangegeven. [Artikel 2, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-05-16&g=2025-05-16), is van overeenkomstige toepassing.
 
@@ -100,7 +127,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 3. Een onherroepelijk tracébesluit kan voor zover dat betrekking heeft op tolheffing worden gewijzigd of ingetrokken door een tolbesluit.
 
-#### Artikel 4. (uitvoeringsplan)
+##### Artikel 4. (uitvoeringsplan)
 
 1. Onze Minister werkt het tolsysteem uit in een uitvoeringsplan.
 
@@ -114,7 +141,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 - d. de klantenservice.
 
-#### Artikel 5. (toltarief)
+##### Artikel 5. (toltarief)
 
 1. Het toltarief voor het wegvak waar tol wordt geheven en de datum met ingang waarvan tol wordt geheven worden vastgesteld bij ministeriële regeling.
 
@@ -130,7 +157,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 5. Bij de ministeriële regeling, bedoeld in het eerste lid, kunnen regels worden gesteld over de berekening van het toltarief, de differentiatie van het toltarief, de verstrekking van een betalingsbewijs en de indexering van het toltarief en de tolopgave.
 
-#### Artikel 6. (vrijstelling en ontheffing tolheffing)
+##### Artikel 6. (vrijstelling en ontheffing tolheffing)
 
 1. Een vrijstelling van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2025-05-16&g=2025-05-16), geldt voor motorrijtuigen die blijkens:
 
@@ -154,7 +181,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 #### § 2.2. Inning toltarief
 
-#### Artikel 7. (betalen toltarief)
+##### Artikel 7. (betalen toltarief)
 
 1. De houder is van rechtswege het toltarief, bedoeld in artikel 5, eerste lid, verschuldigd aan Onze Minister wegens het passeren van een wegvak of deel van een wegvak als bedoeld in [artikel 2, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-05-16&g=2025-05-16).
 
@@ -164,7 +191,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 4. Bij ministeriële regeling worden regels gesteld over de wijze waarop het wegvak waar tol wordt geheven kenbaar wordt gemaakt.
 
-#### Artikel 8. (aanmaning bij verzuim betalen toltarief)
+##### Artikel 8. (aanmaning bij verzuim betalen toltarief)
 
 1. In afwijking van [artikel 4:112 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:112) wordt een aanmaning slechts gezonden aan de houder, wiens woon- of verblijfplaats bekend is.
 
@@ -174,7 +201,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 4. Gedurende de termijn van een jaar na de datum, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2025-05-16&g=2025-05-16), wordt geen vergoeding voor de aanmaning in rekening gebracht.
 
-#### Artikel 9. (geen toltarief verschuldigd)
+##### Artikel 9. (geen toltarief verschuldigd)
 
 1. Het toltarief en, indien [paragraaf 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&sub-paragraaf=2.2.1&z=2025-05-16&g=2025-05-16) van toepassing is, de aanmaningsvergoeding, bedoeld in [artikel 4:113, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:113) kunnen al dan niet gedeeltelijk worden kwijtgescholden als degene die op grond van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2025-05-16&g=2025-05-16), het toltarief verschuldigd lijkt te zijn:
 
@@ -188,7 +215,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 #### § 2.3. Bescherming persoonsgegevens
 
-#### Artikel 10. (verwerking persoonsgegevens door Onze Minister)
+##### Artikel 10. (verwerking persoonsgegevens door Onze Minister)
 
 1. Onze Minister is verwerkingsverantwoordelijke voor de verwerking van de bij of krachtens algemene maatregel van bestuur te bepalen persoonsgegevens die gebruikt worden voor de inning van het toltarief, de controle op tijdige betaling daarvan en de handhaving.
 
@@ -230,7 +257,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 #### § 2.4. Infrastructuurfonds
 
-#### Artikel 11. (opbrengsten naar Mobiliteitsfonds)
+##### Artikel 11. (opbrengsten naar Mobiliteitsfonds)
 
 1. De opbrengsten van de tolheffing, de aanmaningsvergoeding en de bestuurlijke boete komen ten goede aan het Mobiliteitsfonds, bedoeld in [artikel 2, eerste lid, van de Wet Mobiliteitsfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0044860&artikel=2).
 
@@ -240,7 +267,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 ### Hoofdstuk 3. Handhaving
 
-#### Artikel 12. (bestuurlijke boete bij betaling zonder overeenkomst)
+##### Artikel 12. (bestuurlijke boete bij betaling zonder overeenkomst)
 
 1. Het niet of niet geheel betalen van het toltarief binnen de op grond van [artikel 7b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2025-05-16&g=2025-05-16), gestelde termijn is een overtreding ter zake waarvan Onze Minister aan de houder, een bestuurlijke boete kan opleggen, die bestaat uit een bedrag van € 35,– vermeerderd met het oorspronkelijke toltarief en, indien [paragraaf 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&sub-paragraaf=2.2.1&z=2025-05-16&g=2025-05-16) van toepassing is, de aanmaningsvergoeding.
 
@@ -258,15 +285,15 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 8. [Artikel 5:10, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:10) is niet van toepassing op de eerste aanmaning.
 
-#### Artikel 13. (verval verplichting betalen toltarief bij bestuurlijke boete)
+##### Artikel 13. (verval verplichting betalen toltarief bij bestuurlijke boete)
 
 De verplichting tot betaling van het toltarief en de aanmaningsvergoeding, bedoeld in [artikel 4:113, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:113), vervalt als een bestuurlijke boete als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=3&artikel=12&z=2025-05-16&g=2025-05-16), is opgelegd.
 
-#### Artikel 14. (verzuim bestuurlijke boete)
+##### Artikel 14. (verzuim bestuurlijke boete)
 
 Als de bestuurlijke boete niet binnen de in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=3&artikel=12&z=2025-05-16&g=2025-05-16), gestelde termijn is voldaan, of niet onmiddellijk is voldaan in een geval als bedoeld in [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=3&artikel=15&z=2025-05-16&g=2025-05-16), is de houder, in verzuim voor de bestuurlijke boete, inclusief de daarop te vallen verhogingen, bedoeld in artikel 12, vierde en vijfde lid.
 
-#### Artikel 15. (het toezicht op de naleving)
+##### Artikel 15. (het toezicht op de naleving)
 
 1. Met het toezicht op de naleving van [artikel 7, eerste lid, en 7b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2025-05-16&g=2025-05-16), zijn belast de bij besluit van Onze Minister aangewezen personen.
 
@@ -294,7 +321,7 @@ In afwijking van de termijn, bedoeld in [artikel 12, derde lid](https://wetten.o
 
 10. Bij ministeriële regeling kunnen nadere regels worden gesteld over de overbrenging, bewaring, eigendomsoverdracht om niet, verkoop, vernietiging, de berekening van de kosten van overbrenging en bewaring, alsmede over hetgeen verder voor de uitvoering van dit artikel noodzakelijk is.
 
-#### Artikel 16. (handhavingsplan)
+##### Artikel 16. (handhavingsplan)
 
 1. Onze Minister werkt de handhaving voor de tolheffing en het toezicht uit in een handhavingsplan.
 
@@ -306,53 +333,53 @@ In afwijking van de termijn, bedoeld in [artikel 12, derde lid](https://wetten.o
 
 - c. het toezicht op het netwerk georganiseerd is.
 
-#### Artikel 17. (voorhang handhavingsplan)
+##### Artikel 17. (voorhang handhavingsplan)
 
 Het toltarief, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2025-05-16&g=2025-05-16), wordt in ieder geval niet eerder geheven dan vier weken nadat het ontwerp van het handhavingsplan, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=3&artikel=16&z=2025-05-16&g=2025-05-16), aan beide kamers der Staten-Generaal is overgelegd.
 
 ### Hoofdstuk 4. Bezwaar en beroep
 
-#### Artikel 18. (beroepsgronden)
+##### Artikel 18. (beroepsgronden)
 
 Het bezwaar- of beroepschrift tegen de bestuurlijke boete kan zich ook richten tegen de verplichting tot het betalen van het toltarief, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2025-05-16&g=2025-05-16), en voor zover van toepassing de aanmaningskosten, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&sub-paragraaf=2.2.3&artikel=9&z=2025-05-16&g=2025-05-16).
 
 ### Hoofdstuk 5. Overige en slotbepalingen
 
-#### Artikel 19. (verslag)
+##### Artikel 19. (verslag)
 
 Onze Minister zendt telkens na vier jaar aan de Staten-Generaal een verslag over de doeltreffendheid van deze wet in de praktijk.
 
-#### Artikel 20. (intrekken [Wbm](https://wetten.overheid.nl/jci1.3:c:BWBR0013854))
+##### Artikel 20. (intrekken [Wbm](https://wetten.overheid.nl/jci1.3:c:BWBR0013854))
 
 De [Wet bereikbaarheid en mobiliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0013854) wordt ingetrokken.
 
-#### Artikel 21. (wijziging [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537))
+##### Artikel 21. (wijziging [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537))
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel 22. (wijziging [Wegenverkeerswet 1994](onbekend))
+##### Artikel 22. (wijziging [Wegenverkeerswet 1994](onbekend))
 
 Wijzigt de Wegenverkeerswet 1994.
 
-#### Artikel 23. (wijziging [Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948))
+##### Artikel 23. (wijziging [Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948))
 
 Wijzigt de Wegenwet.
 
-#### Artikel 24. (wijziging [Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324))
+##### Artikel 24. (wijziging [Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324))
 
 Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
-#### Artikel 25. (inwerkingtreding)
+##### Artikel 25. (inwerkingtreding)
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 26. (citeertitel)
+##### Artikel 26. (citeertitel)
 
 Deze wet wordt aangehaald als: Wet tijdelijke tolheffing Blankenburgverbinding en ViA15.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 4a. (registratie door middel van technisch hulpmiddel)
+##### Artikel 4a. (registratie door middel van technisch hulpmiddel)
 
 1. Onze Minister is bevoegd op of aan het wegvak bedoeld in [artikel 2, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-05-16&g=2025-05-16) met behulp van een locatiegebonden technisch hulpmiddel gegevens van een motorrijtuig vast te leggen en te verwerken. De volgende gegevens worden vastgelegd:
 
@@ -374,11 +401,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 6. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de inzet en het kenbaar maken van het gebruik van een technisch hulpmiddel, het aanwijzen en verwerken van de gegevens, bedoeld in het eerste lid, en, voor zover van toepassing, de benodigde informatie uit de boordapparatuur.
 
-#### Artikel 4b. (tijdelijke testomgeving technisch hulpmiddel)
+##### Artikel 4b. (tijdelijke testomgeving technisch hulpmiddel)
 
 Vervallen
 
-#### Artikel 5a. (tolheffer)
+##### Artikel 5a. (tolheffer)
 
 1. Onze Minister is tolheffer als bedoeld in de [Wet implementatie EETS-richtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0045586).
 
@@ -388,11 +415,11 @@ Vervallen
 
 #### § 2.2.1. Betaling zonder dienstverleningsovereenkomst
 
-#### Artikel 7a. (betalen zonder dienstverleningsovereenkomst)
+##### Artikel 7a. (betalen zonder dienstverleningsovereenkomst)
 
 Deze paragraaf is van toepassing als de houder geen dienstverleningsovereenkomst heeft gesloten met een dienstaanbieder.
 
-#### Artikel 7b. (betalen toltarief aan Onze Minister)
+##### Artikel 7b. (betalen toltarief aan Onze Minister)
 
 1. Het verschuldigde toltarief wordt binnen een bij ministeriële regeling gestelde termijn betaald.
 
@@ -400,11 +427,11 @@ Deze paragraaf is van toepassing als de houder geen dienstverleningsovereenkomst
 
 #### § 2.2.2. Betaling met dienstverleningsovereenkomst
 
-#### Artikel 8a. (dienstverleningsovereenkomst met een dienstaanbieder)
+##### Artikel 8a. (dienstverleningsovereenkomst met een dienstaanbieder)
 
 Deze paragraaf is van toepassing als de houder een dienstverleningsovereenkomst met een dienstaanbieder heeft gesloten.
 
-#### Artikel 8b. (betaling aan een dienstaanbieder)
+##### Artikel 8b. (betaling aan een dienstaanbieder)
 
 1. De houder ontvangt een factuur van de dienstaanbieder waar een dienstverleningsovereenkomst mee is gesloten voor het door hem te betalen toltarief en betaalt het bedrag aan de dienstaanbieder.
 
@@ -426,11 +453,11 @@ Deze paragraaf is van toepassing als de houder een dienstverleningsovereenkomst 
 
 4. Artikel 2, zesde lid, van [Uitvoeringsverordening (EU) 2020/204](32104R2020) is van overeenkomstige toepassing bij het factureren, bedoeld in het eerste lid, van de houder door de ETS-aanbieder respectievelijk de hoofddienstaanbieder.
 
-#### Artikel 8c. (ETS-aanbieder)
+##### Artikel 8c. (ETS-aanbieder)
 
 De [Wet implementatie EETS-richtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0045586) is van overeenkomstige toepassing op een ETS-aanbieder met uitzondering van de [artikelen 4, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=5), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=8), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=13), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=25), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=26), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=27), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=37) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=38).
 
-#### Artikel 8d. (verplichtingen van de hoofddienstaanbieder)
+##### Artikel 8d. (verplichtingen van de hoofddienstaanbieder)
 
 1. De hoofddienstaanbieder is verplicht met elke houder die daarom verzoekt, een dienstverleningsovereenkomst te sluiten.
 
@@ -438,7 +465,7 @@ De [Wet implementatie EETS-richtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 3. [Artikel 20, eerste lid, van de Wet implementatie EETS-richtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=20) is van overeenkomstige toepassing op de betaling van het bedrag door de houder aan de hoofddienstaanbieder.
 
-#### Artikel 8e. (relatie Onze Minister en dienstaanbieder)
+##### Artikel 8e. (relatie Onze Minister en dienstaanbieder)
 
 1. Als een dienstverleningsovereenkomst is gesloten, beëindigd, opgeschort of de opschorting is beëindigd, geeft de dienstaanbieder dat onmiddellijk door aan Onze Minister. Artikel 2, vierde lid, van [Uitvoeringsverordening (EU) 2020/204](32104R2020) is van overeenkomstige toepassing op de gegevensverstrekking door de ETS-aanbieder respectievelijk de hoofddienstaanbieder aan Onze Minister.
 
@@ -446,13 +473,13 @@ De [Wet implementatie EETS-richtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 3. De dienstaanbieder betaalt het door de houder verschuldigde toltarief aan Onze Minister binnen een bij ministeriële regeling gestelde termijn nadat de gegevens, bedoeld in het tweede lid, door Onze Minister zijn doorgegeven aan de dienstaanbieder.
 
-#### Artikel 8f. (invordering via privaatrecht)
+##### Artikel 8f. (invordering via privaatrecht)
 
 Op de betalingsverplichting, bedoeld in de [artikelen 8b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&sub-paragraaf=2.2.2&artikel=8b&z=2025-05-16&g=2025-05-16), en [8e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&sub-paragraaf=2.2.2&artikel=8e&z=2025-05-16&g=2025-05-16), zijn de [artikelen 4:88, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:88), [4:94](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:94), [4:94a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:94a) en de [afdelingen 4.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.4.2), [4.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.4.3) en [4.4.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.4.4) niet van toepassing.
 
 #### § 2.2.3. Kwijtschelden toltarief
 
-#### Artikel 9. (geen toltarief verschuldigd)
+##### Artikel 9. (geen toltarief verschuldigd)
 
 1. Het toltarief en de aanmaningsvergoeding, bedoeld in [artikel 4:113, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:113) worden kwijtgescholden als degene die op grond van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2023-05-16&g=2023-05-15), het toltarief verschuldigd lijkt te zijn:
 
@@ -464,7 +491,7 @@ Op de betalingsverplichting, bedoeld in de [artikelen 8b, eerste lid](https://we
 
 #### § 2.3. Bescherming persoonsgegevens
 
-#### Artikel 10a. (verwerking persoonsgegevens door de toezichthouder)
+##### Artikel 10a. (verwerking persoonsgegevens door de toezichthouder)
 
 1. De toezichthouder is verwerkingsverantwoordelijke voor de verwerking van de bij of krachtens algemene maatregel van bestuur te bepalen persoonsgegevens ten behoeve van het toezicht op de naleving, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&hoofdstuk=3&artikel=15&z=2025-05-16&g=2025-05-16).
 
@@ -472,7 +499,7 @@ Op de betalingsverplichting, bedoeld in de [artikelen 8b, eerste lid](https://we
 
 3. Dit artikel laat overige wettelijk voorgeschreven bewaartermijnen onverlet.
 
-#### Artikel 10b. (verwerking persoonsgegevens door de dienstaanbieder)
+##### Artikel 10b. (verwerking persoonsgegevens door de dienstaanbieder)
 
 1. Een dienstaanbieder is de verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens voor:
 

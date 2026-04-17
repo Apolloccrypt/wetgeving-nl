@@ -1,20 +1,46 @@
 ---
-title: "Regeling subsidie zij-instromers gecertificeerde instellingen 2024"
+title: "Regeling van de Minister voor Rechtsbescherming van 27 maart 2024, nr. 5278276, houdende regels inzake subsidie om gecertificeerde instellingen te ondersteunen bij het inzetten van zij-instromers (Regeling subsidie zij-instromers gecertificeerde instellingen 2024)"
 identifier: "BWBR0049512"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-03-30
-laatste_update: 2024-03-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049512"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-03-30"
+last_updated: "2024-03-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049512"
+soort: "ministeriele-regeling"
+stam_id: "17061373"
+version_id: "30022812"
+internal_id: "C43035251"
+label_id: "16970184"
+dtd_version: "2.0"
+original_entry_into_force: "2024-03-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049512/2024-03-30/0"
+intitule_bron: "Stcrt.2024-11171"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-03-27"
+intitule_published: "2024-03-29"
+intitule_in_force: "2024-03-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-11171"
+original_signed_date: "2024-03-27"
+original_published_date: "2024-03-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-11171"
+entry_into_force_date: "2024-03-30"
+jci_1_3: "jci1.3:c:BWBR0049512&z=2024-03-30&g=2024-03-30"
+jci_1_0: "1.0:c:BWBR0049512&g=2024-03-30"
+citeertitel_status: "officieel"
+short_title: "Regeling subsidie zij-instromers gecertificeerde instellingen 2024"
+signed_date: "2024-03-27"
+entry_into_force: "2024-03-30"
 ---
-
 # Regeling van de Minister voor Rechtsbescherming van 27 maart 2024, nr. 5278276, houdende regels inzake subsidie om gecertificeerde instellingen te ondersteunen bij het inzetten van zij-instromers (Regeling subsidie zij-instromers gecertificeerde instellingen 2024)
 
 Gelet op de [artikelen 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044954&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0044954&artikel=3) en [4, eerste lid, onder a, b en d van de Kaderwet overige JenV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0044954&artikel=4) en de [artikelen 5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046660&artikel=5), [7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046660&artikel=7), [10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046660&artikel=10), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046660&artikel=16), en [20, vierde lid, van het Kaderbesluit overige JenV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0046660&artikel=20);
 
 Besluit:
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In deze regeling wordt verstaan onder:
 
@@ -24,43 +50,43 @@ In deze regeling wordt verstaan onder:
 
 - **zij-instromer:** medewerker van een gecertificeerde instelling die wordt opgeleid tot jeugdbeschermer of jeugdreclasseringsmedewerker.
 
-#### Artikel 2. Te subsidiëren activiteiten
+##### Artikel 2. Te subsidiëren activiteiten
 
 De Minister kan subsidie verstrekken aan een gecertificeerde instelling voor activiteiten die tot doel hebben om opleidings- en arbeidsplekken te bieden aan zij-instromers, voor zover zij beschikken over minimaal hbo-werk- en -denkniveau.
 
-#### Artikel 3. Verdeelsleutel
+##### Artikel 3. Verdeelsleutel
 
 De Minister verstrekt per gecertificeerde instelling een subsidie van ten hoogste het bedrag dat met betrekking tot die gecertificeerde instelling is opgenomen in de bijlage bij deze regeling.
 
-#### Artikel 4. Subsidiebedrag
+##### Artikel 4. Subsidiebedrag
 
 1. De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049512&artikel=2&z=2024-03-30&g=2024-03-30), bedraagt ten hoogste € 64.600,- per zij-instromer, met dien verstande dat het totaalbedrag per gecertificeerde instelling niet hoger is dan het bedrag dat is opgenomen in de bijlage.
 
 2. Indien een zij-instromerstraject voortijdig wordt beëindigd, komen enkel de kosten die voor die zij-instromer daadwerkelijk zijn gemaakt voor subsidiëring in aanmerking.
 
-#### Artikel 5. Aanvraagtijdvak
+##### Artikel 5. Aanvraagtijdvak
 
 Een subsidie op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049512&artikel=2&z=2024-03-30&g=2024-03-30) kan worden aangevraagd van 15 april 2024 tot 10 juni 2024.
 
-#### Artikel 6. Subsidieplafond
+##### Artikel 6. Subsidieplafond
 
 Voor subsidieverstrekking op grond van deze regeling is ten hoogste € 9.690.000,- beschikbaar.
 
-#### Artikel 7. Indiening van de aanvraag
+##### Artikel 7. Indiening van de aanvraag
 
 Een aanvraag voor een subsidie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049512&artikel=2&z=2024-03-30&g=2024-03-30) wordt ingediend door middel van een daartoe door de Minister elektronisch beschikbaar gesteld aanvraagformulier.
 
-#### Artikel 8. Verplichtingen
+##### Artikel 8. Verplichtingen
 
 De voor subsidie in aanmerking komende activiteiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049512&artikel=2&z=2024-03-30&g=2024-03-30) worden in de periode van 15 april 2024 tot en met 31 december 2025 uitgevoerd.
 
-#### Artikel 9. Verantwoording
+##### Artikel 9. Verantwoording
 
 1. Een verzoek tot het vaststellen van de subsidie wordt uiterlijk 1 juli 2026 gedaan aan de Minister.
 
 2. Voor de verantwoording kunnen de controleverklaringen worden gebruikt die door de accountant worden verstrekt ten behoeve van de jaarverantwoordingen over 2024 en 2025.
 
-#### Artikel 10. Hardheidsclausule
+##### Artikel 10. Hardheidsclausule
 
 1. De Minister kan de termijn voor de uitvoering van subsidieactiviteiten als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049512&artikel=8&z=2024-03-30&g=2024-03-30) verlengen met maximaal twaalf maanden, indien de subsidieontvanger een daartoe voldoende gemotiveerd verzoek indient voor het einde van deze termijn.
 
@@ -68,13 +94,13 @@ De voor subsidie in aanmerking komende activiteiten als bedoeld in [artikel 2](h
 
 3. Onder bijzondere of onvoorziene omstandigheden worden in ieder geval verstaan onvoorzien hoog personeelsverloop, onvoorziene stijging van de cliënteninstroom, onvoorziene krapte op de arbeidsmarkt en onvoorziene tariefverhoging. In het verzoek tot verlenging wordt gemotiveerd welke omstandigheden van toepassing zijn en hoe deze omstandigheden tot vertraging in de uitvoering hebben geleid.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 maart 2029, met dien verstande dat zij van toepassing blijft op subsidies die op grond van deze regeling voor die datum zijn verstrekt.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling subsidie zij-instromers gecertificeerde instellingen 2024.
 

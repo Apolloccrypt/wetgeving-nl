@@ -1,13 +1,39 @@
 ---
-title: "Klachtenregeling Rijksrecherche"
+title: "Regeling van 15 september 2006, nr. 5443243/06, houdende regels ten aanzien van de behandeling van klachten over de Rijksrecherche (Klachtenregeling Rijksrecherche)"
 identifier: "BWBR0020307"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2025-09-04
-laatste_update: 2025-09-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020307"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-09-04"
+last_updated: "2025-09-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020307"
+soort: "ministeriele-regeling"
+stam_id: "8631253"
+version_id: "13605052"
+internal_id: "C18289681"
+label_id: "8611724"
+dtd_version: "2.0"
+original_entry_into_force: "2006-09-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020307/2025-09-04/0"
+intitule_bron: "Stcrt.2006-189"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-09-15"
+intitule_published: "2006-09-28"
+intitule_in_force: "2006-09-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-189"
+original_signed_date: "2006-09-15"
+original_published_date: "2006-09-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-189-p12-SC76972"
+entry_into_force_date: "2006-09-30"
+jci_1_3: "jci1.3:c:BWBR0020307&z=2025-09-04&g=2025-09-04"
+jci_1_0: "1.0:c:BWBR0020307&g=2025-09-04"
+citeertitel_status: "officieel"
+short_title: "Klachtenregeling Rijksrecherche"
+signed_date: "2006-09-15"
+entry_into_force: "2006-09-30"
 ---
-
 # Regeling van 15 september 2006, nr. 5443243/06, houdende regels ten aanzien van de behandeling van klachten over de Rijksrecherche (Klachtenregeling Rijksrecherche)
 
 Gelet op de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=61) en [62 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=62);
@@ -16,7 +42,7 @@ Stelt vast de volgende regels over de behandeling, het onderzoek en de afdoening
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Klachten over een ambtenaar van de rijksrecherche
 
-#### Artikel 2. De klachtencommissie Rijksrecherche
+##### Artikel 2. De klachtencommissie Rijksrecherche
 
 1. Er is een klachtencommissie Rijksrecherche, die het College gevraagd of ongevraagd adviseert over de afdoening van klachten over een gedraging van een ambtenaar van de rijksrecherche.
 
@@ -50,11 +76,11 @@ In deze regeling wordt verstaan onder:
 
 7. Tot 1 januari 2015 blijft het vijfde lid, tweede volzin, buiten toepassing.
 
-#### Artikel 3. Het indienen van een klacht
+##### Artikel 3. Het indienen van een klacht
 
 Vervallen
 
-#### Artikel 4. De ontvangstbevestiging
+##### Artikel 4. De ontvangstbevestiging
 
 1. Het College bevestigt zo spoedig mogelijk schriftelijk de ontvangst van de klacht en maakt daarbij melding van het verloop van de procedure.
 
@@ -66,13 +92,13 @@ Vervallen
 
 - c. de directeur van de ambtenaren van de rijksrecherche.
 
-#### Artikel 5. Het onderzoek
+##### Artikel 5. Het onderzoek
 
 1. Het College stelt een onderzoek in naar de klacht, indien deze betrekking heeft op een gedraging van een ambtenaar.
 
 2. Indien het College heeft besloten onderzoek naar een klacht achterwege te laten, dan wel het onderzoek te schorsen, stelt hij de klager, de ambtenaar en de klachtencommissie hiervan schriftelijk in kennis.
 
-#### Artikel 6. De wijze van onderzoek en rapportage
+##### Artikel 6. De wijze van onderzoek en rapportage
 
 1. De ambtenaar wordt om een schriftelijke reactie op de klacht gevraagd.
 
@@ -84,7 +110,7 @@ Vervallen
 
 5. Van de resultaten van het onderzoek wordt ter afdoening een rapportage opgesteld, die terstond in afschrift aan de klachtencommissie wordt gezonden.
 
-#### Artikel 7. Advies van de klachtencommissie Rijksrecherche
+##### Artikel 7. Advies van de klachtencommissie Rijksrecherche
 
 1. Het College vraagt voor afdoening van de klacht advies aan de klachtencommissie.
 
@@ -92,7 +118,7 @@ Vervallen
 
 3. In de gevallen, bedoeld in het eerste en tweede lid, stelt het College de klager en de ambtenaar hiervan schriftelijk in kennis.
 
-#### Artikel 8. Onderzoek door de klachtencommissie Rijksrecherche
+##### Artikel 8. Onderzoek door de klachtencommissie Rijksrecherche
 
 1. De klachtencommissie krijgt van het College alle gegevens, die de commissie voor advisering nodig acht.
 
@@ -102,83 +128,83 @@ Vervallen
 
 4. Met inachtneming van [artikel 67a van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=67a) vindt het bepaalde in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020307&paragraaf=2&artikel=7&z=2025-09-04&g=2025-09-04) en [8, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020307&paragraaf=2&artikel=8&z=2025-09-04&g=2025-09-04), geen toepassing, indien door het College naar tevredenheid van de klager aan diens klacht is tegemoetgekomen.
 
-#### Artikel 9. Termijnen van afdoening
+##### Artikel 9. Termijnen van afdoening
 
 Vervallen
 
-#### Artikel 10. Afdoening
+##### Artikel 10. Afdoening
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Het College registreert de bij hem ingediende klachten, de wijze waarop de klachten zijn afgedaan en de genomen beslissingen. Het College publiceert eenmaal per jaar een verslag over de behandeling van klachten over gedragingen van ambtenaren van de rijksrecherche.
 
 #### § 3. Klachten over de directeur Rijksrecherche
 
-#### Artikel 12. De klachtencommissie Rijksrecherche
+##### Artikel 12. De klachtencommissie Rijksrecherche
 
 Vervallen
 
-#### Artikel 13. Het indienen van een klacht
+##### Artikel 13. Het indienen van een klacht
 
 Vervallen
 
-#### Artikel 14. De ontvangstbevestiging
+##### Artikel 14. De ontvangstbevestiging
 
 Vervallen
 
-#### Artikel 15. Het onderzoek
+##### Artikel 15. Het onderzoek
 
 Vervallen
 
-#### Artikel 16. De wijze van onderzoek en rapportage
+##### Artikel 16. De wijze van onderzoek en rapportage
 
 Vervallen
 
-#### Artikel 17. Advies van de klachtencommissie Rijksrecherche
+##### Artikel 17. Advies van de klachtencommissie Rijksrecherche
 
 Vervallen
 
-#### Artikel 18. Onderzoek door de klachtencommissie Rijksrecherche
+##### Artikel 18. Onderzoek door de klachtencommissie Rijksrecherche
 
 Vervallen
 
-#### Artikel 19. Termijnen van afdoening
+##### Artikel 19. Termijnen van afdoening
 
 Vervallen
 
-#### Artikel 20. Afdoening
+##### Artikel 20. Afdoening
 
 Vervallen
 
-#### Artikel 21. Registratie en publicatie
+##### Artikel 21. Registratie en publicatie
 
 Vervallen
 
 #### § 4. Klachten die zowel de directeur Rijksrecherche als een bijzondere ambtenaar van politie betreffen
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
 #### § 5. Slotbepalingen
 
-#### Artikel 23
+##### Artikel 23
 
 De [Klachtenregeling bijzondere ambtenaren van politie](https://wetten.overheid.nl/jci1.3:c:BWBR0007408) en de [Klachtenregeling Rijksrecherche 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0009115) worden ingetrokken.
 
-#### Artikel 24. Inwerkingtreding
+##### Artikel 24. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 25. Citeertitel
+##### Artikel 25. Citeertitel
 
 Deze regeling wordt aangehaald als: Klachtenregeling Rijksrecherche.
 
 Deze regeling zal met toelichting worden geplaatst in de Staatscourant. Van de plaatsing wordt mededeling gedaan in het Algemeen Politieblad.
 
-#### Artikel 23a
+##### Artikel 23a
 
 Deze regeling berust op [artikel 68, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=68).
 

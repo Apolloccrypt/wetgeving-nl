@@ -1,20 +1,46 @@
 ---
-title: "Regeling aanvraag verlenging en digitalisering commerciële radio-omroep (middengolf en niet-landelijke FM) 2016"
+title: "Regeling van de Minister van Economische Zaken van 9 december 2016 nr. WJZ / 6189532, handelende in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, houdende regels inzake aanvraag verlenging middengolfvergunningen en vergunningen niet-landelijke commerciële radio-omroep in de FM-band en aanvraag verlening van vergunningen voor frequentieruimte in band III en tot wijziging van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003 (Regeling aanvraag verlenging en digitalisering commerciële radio-omroep 2016 (niet-landelijk en middengolf))"
 identifier: "BWBR0038894"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-09-01
-laatste_update: 2017-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038894"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-09-01"
+last_updated: "2017-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038894"
+soort: "ministeriele-regeling"
+stam_id: "13827293"
+version_id: "23730742"
+internal_id: "C34153371"
+label_id: "13792864"
+dtd_version: "2.0"
+original_entry_into_force: "2016-12-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038894/2017-09-01/0"
+intitule_bron: "Stcrt.2016-68470"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-12-09"
+intitule_published: "2016-12-20"
+intitule_in_force: "2016-12-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-68470"
+original_signed_date: "2016-12-09"
+original_published_date: "2016-12-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-68470"
+entry_into_force_date: "2016-12-21"
+jci_1_3: "jci1.3:c:BWBR0038894&z=2017-09-01&g=2017-09-01"
+jci_1_0: "1.0:c:BWBR0038894&g=2017-09-01"
+citeertitel_status: "officieel"
+short_title: "Regeling aanvraag verlenging en digitalisering commerciële radio-omroep (middengolf en niet-landelijke FM) 2016"
+signed_date: "2016-12-09"
+entry_into_force: "2016-12-21"
 ---
-
 # Regeling van de Minister van Economische Zaken van 9 december 2016 nr. WJZ / 6189532, handelende in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, houdende regels inzake aanvraag verlenging middengolfvergunningen en vergunningen niet-landelijke commerciële radio-omroep in de FM-band en aanvraag verlening van vergunningen voor frequentieruimte in band III en tot wijziging van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003 (Regeling aanvraag verlenging en digitalisering commerciële radio-omroep 2016 (niet-landelijk en middengolf))
 
 Gelet op [artikel 6:23, tweede lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.23) en de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=12) en [18, vijfde en elfde lid, van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=18);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 - i. **verlengbaarheidsbesluit Niet-landelijk:** [Besluit verlengbaarheid vergunningen niet-landelijke commerciële radio-omroepen in de FM-band 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038435).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een aanvraag om verlenging van de looptijd van een FM-vergunning of een middengolfvergunning tot 1 september 2022 wordt ingediend bij de minister.
 
@@ -54,13 +80,13 @@ In deze regeling wordt verstaan onder:
 
 8. De minister stelt de rangschikking vast op basis van de datum en het tijdstip van ontvangst, bedoeld in het tweede lid, of, indien ten aanzien van een of meer aanvragen verzuimen zijn geconstateerd, op basis van het tijdstip dat de gegevens of bescheiden ten behoeve van verzuimherstel zijn ontvangen, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038894&artikel=6&z=2017-09-01&g=2017-09-01). In geval van gelijktijdige ontvangst wordt de rangschikking door middel van loting vastgesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Teneinde te kunnen voldoen aan het Nationaal Frequentieplan 2014, doet de aanvrager gelijktijdig met zijn aanvraag tot verlenging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038894&artikel=2&z=2017-09-01&g=2017-09-01), een aanvraag voor een vergunning voor digitale radio-omroep per FM-vergunning of middengolfvergunning waar die aanvraag tot verlenging betrekking op heeft. In geval van persoonlijke overhandiging is artikel 2, derde lid, van overeenkomstige toepassing.
 
 2. [Artikel 2, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038894&artikel=2&z=2017-09-01&g=2017-09-01), is van overeenkomstige toepassing.
 
-#### Artikel 4
+##### Artikel 4
 
 Een aanvrager verstrekt ter onderbouwing van zijn financiële draagkracht om te kunnen voldoen aan diens aan de vergunning voor digitale radio-omroep verbonden verplichtingen en de daaruit voortvloeiende investeringen:
 
@@ -68,13 +94,13 @@ Een aanvrager verstrekt ter onderbouwing van zijn financiële draagkracht om te 
 
 - b. een kopie van een bankafschrift van de rekening op naam van de aanvrager waaruit ten tijde van de aanvraag of in ten hoogste vier weken voorafgaande aan het indienen van de aanvraag een positief saldo blijkt van ten minste € 15.000,– per vergunning voor digitale radio-omroep, waar de aanvraag, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038894&artikel=3&z=2017-09-01&g=2017-09-01), betrekking op heeft.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien niet is voldaan aan [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038894&artikel=2&z=2017-09-01&g=2017-09-01), of [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038894&artikel=3&z=2017-09-01&g=2017-09-01), weigert de minister de aanvraag tot verlenging, bedoeld in artikel 2.
 
 2. Onverminderd het eerste lid, wordt de aanvraag tot verlenging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038894&artikel=2&z=2017-09-01&g=2017-09-01), geweigerd in geval de aanvraag om een vergunning voor digitale radio-omroep, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038894&artikel=3&z=2017-09-01&g=2017-09-01), op grond van [artikel 3.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.18) wordt geweigerd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien de aanvrager niet heeft voldaan aan een van de in [artikel 2, vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038894&artikel=2&z=2017-09-01&g=2017-09-01), in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038894&artikel=3&z=2017-09-01&g=2017-09-01), of in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038894&artikel=4&z=2017-09-01&g=2017-09-01) gestelde eisen, deelt de minister dit de aanvrager mee en stelt de minister de aanvrager in de gelegenheid het verzuim te herstellen.
 
@@ -84,7 +110,7 @@ Een aanvrager verstrekt ter onderbouwing van zijn financiële draagkracht om te 
 
 4. Indien het verzuim niet binnen de termijn, bedoeld in het tweede en het derde lid, en niet op de wijze, vermeld in het derde lid, is hersteld of de aanvrager na herstel niet heeft voldaan aan de in [artikel 2, vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038894&artikel=2&z=2017-09-01&g=2017-09-01), in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038894&artikel=3&z=2017-09-01&g=2017-09-01), of in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038894&artikel=4&z=2017-09-01&g=2017-09-01) gestelde eisen, kan de minister besluiten de aanvraag niet te behandelen.
 
-#### Artikel 7
+##### Artikel 7
 
 Een aanvraag tot verlenging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038894&artikel=2&z=2017-09-01&g=2017-09-01), wordt toegewezen, voor zover de aanvraag:
 
@@ -94,21 +120,21 @@ Een aanvraag tot verlenging, bedoeld in [artikel 2](https://wetten.overheid.nl/j
 
 - c. door de minister niet wordt geweigerd op grond van [artikel 3.19, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.19), welke gronden van overeenkomstige toepassing worden verklaard op de aanvraag tot verlenging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038894&artikel=2&z=2017-09-01&g=2017-09-01).
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien de aanvraag, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038894&artikel=2&z=2017-09-01&g=2017-09-01), wordt toegewezen, verleent de minister gelijktijdig een vergunning voor digitale radio-omroep per op grond van die aanvraag te verlengen FM-vergunning of middengolfvergunning. De aanvraag om verlening van een vergunning voor digitale radio-omroep wordt in elk geval geweigerd indien de aanvraag, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038894&artikel=2&z=2017-09-01&g=2017-09-01), niet wordt toegewezen.
 
 2. In geval van verlenging van de FM-vergunningen voor de kavels B17, B28, B30, B32, B34 of B37, vindt de verlening, bedoeld in het eerste lid, plaats op grond van de op het aanmeldformulier, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038894&bijlage=1&z=2017-09-01&g=2017-09-01), onder A.2 aangegeven voorkeuren. In geval een aanvrager geen voorkeur heeft aangegeven, wordt hem een vergunning voor digitale radio-omroep voor het frequentieblok 6B verleend, tenzij deze als gevolg van door andere aanvragers aangegeven voorkeuren niet langer beschikbaar is, in welk geval een vergunning voor digitale radio-omroep voor het frequentieblok 6C wordt verleend. In geval de beschikbare vergunningen in allotment 6B niet toereikend zijn om aan de in het aanvraagformulier gemelde voorkeuren te voldoen, vindt verdeling plaats op grond van de rangschikking van de aanvragen, bedoeld in [artikel 2, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038894&artikel=2&z=2017-09-01&g=2017-09-01).
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0038894&artikel=9&z=2017-09-01&g=2017-09-01), die in werking treedt op 1 september 2017.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling aanvraag verlenging en digitalisering commerciële radio-omroep (middengolf en niet-landelijke FM) 2016.
 

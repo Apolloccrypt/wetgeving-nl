@@ -1,13 +1,39 @@
 ---
-title: "Regeling examenprogramma Staatsexamens Nt2 2019"
+title: "Regeling van het College voor Toetsen en Examens van 25 september 2017, CvTE-17.01518, houdende vaststelling van het examenprogramma Staatsexamens Nederlands als tweede taal 2019 (Regeling examenprogramma Staatsexamens Nt2 2019)"
 identifier: "BWBR0040352"
-categorie: "Onderwijs"
-publicatiedatum: 2019-05-24
-laatste_update: 2019-05-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040352"
+country: "nl"
+rank: "zbo"
+publication_date: "2019-05-24"
+last_updated: "2019-05-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040352"
+soort: "zbo"
+stam_id: "14448783"
+version_id: "24708642"
+internal_id: "C35346481"
+label_id: "14409304"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040352/2019-05-24/0"
+intitule_bron: "Stcrt.2017-71236"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-09-25"
+intitule_published: "2017-12-12"
+intitule_in_force: "2017-12-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-71236"
+original_signed_date: "2017-09-25"
+original_published_date: "2017-12-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-71236"
+entry_into_force_date: "2019-01-01"
+jci_1_3: "jci1.3:c:BWBR0040352&z=2019-05-24&g=2019-05-24"
+jci_1_0: "1.0:c:BWBR0040352&g=2019-05-24"
+citeertitel_status: "officieel"
+short_title: "Regeling examenprogramma Staatsexamens Nt2 2019"
+signed_date: "2017-09-25"
+entry_into_force: "2019-01-01"
 ---
-
 # Regeling van het College voor Toetsen en Examens van 25 september 2017, CvTE-17.01518, houdende vaststelling van het examenprogramma Staatsexamens Nederlands als tweede taal 2019 (Regeling examenprogramma Staatsexamens Nt2 2019)
 
 Gelet op [artikel 2, vijfde lid, aanhef en onderdeel a, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2);
@@ -18,15 +44,15 @@ Gezien de goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap, gege
 
 Besluit:
 
-#### Artikel 1. Examenprogramma Staatsexamens Nederlands als tweede taal 2019
+##### Artikel 1. Examenprogramma Staatsexamens Nederlands als tweede taal 2019
 
 Het examenprogramma Staatsexamens Nederlands als tweede taal voor het examenjaar 2019 wordt vastgesteld zoals aangegeven in de bijlage.
 
-#### Artikel 2. Inwerkingtreding
+##### Artikel 2. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2019 en vervalt met ingang van 31 december 2019.
 
-#### Artikel 3. Citeertitel en bekendmaking
+##### Artikel 3. Citeertitel en bekendmaking
 
 Deze regeling wordt aangehaald als: Regeling examenprogramma Staatsexamens Nt2 2019.
 

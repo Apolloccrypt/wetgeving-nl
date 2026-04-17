@@ -1,20 +1,46 @@
 ---
-title: "Mandaatbesluit Inspectie Justitie en Veiligheid 2023"
+title: "Besluit van de inspecteur-generaal van de Inspectie Justitie en Veiligheid van het Ministerie van Justitie en Veiligheid van 11 juli 2023, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de inspecteur-generaal ressorterende ambtenaren (Mandaatbesluit Inspectie Justitie en Veiligheid 2023)"
 identifier: "BWBR0048431"
-categorie: "Strafrecht"
-publicatiedatum: 2024-06-28
-laatste_update: 2024-06-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048431"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-06-28"
+last_updated: "2024-06-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048431"
+soort: "ministeriele-regeling"
+stam_id: "16811473"
+version_id: "29534312"
+internal_id: "C42222771"
+label_id: "16725154"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048431/2024-06-28/0"
+intitule_bron: "Stcrt.2023-20129"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-07-11"
+intitule_published: "2023-07-21"
+intitule_in_force: "2023-07-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-20129"
+original_signed_date: "2023-07-11"
+original_published_date: "2023-07-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-20129"
+entry_into_force_date: "2023-07-22"
+jci_1_3: "jci1.3:c:BWBR0048431&z=2024-06-28&g=2024-06-28"
+jci_1_0: "1.0:c:BWBR0048431&g=2024-06-28"
+citeertitel_status: "officieel"
+short_title: "Mandaatbesluit Inspectie Justitie en Veiligheid 2023"
+signed_date: "2023-07-11"
+entry_into_force: "2023-07-22"
 ---
-
 # Besluit van de inspecteur-generaal van de Inspectie Justitie en Veiligheid van het Ministerie van Justitie en Veiligheid van 11 juli 2023, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de inspecteur-generaal ressorterende ambtenaren (Mandaatbesluit Inspectie Justitie en Veiligheid 2023)
 
 Gelet op [artikel 3, tweede lid, van het Mandaatbesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=3), [artikel 1 van het Mandaatbesluit hoofden clusters Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041688&artikel=1) en [artikel 6 van het Besluit aanwijzing toezichthouders naleving Wet experiment gesloten coffeeshopketen en het verlenen van mandaat en machtiging voor de uitvoering en handhaving van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043743&artikel=6);
 
 Besluit:
 
-#### Artikel 1. Verlening ondermandaat
+##### Artikel 1. Verlening ondermandaat
 
 Van het ingevolge [artikel 1 van het Mandaatbesluit hoofden clusters Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041688&artikel=1) aan de inspecteur-generaal van de Inspectie Justitie en Veiligheid verleende ondermandaat wordt ten aanzien van de aangelegenheden die hun dienstonderdeel betreffen ondermandaat verleend aan:
 
@@ -38,7 +64,7 @@ Van het ingevolge [artikel 1 van het Mandaatbesluit hoofden clusters Ministerie 
 
 - j. de manager van de afdeling Bedrijfsvoering.
 
-#### Artikel 2. Aan de inspecteur-generaal voorbehouden bevoegdheden
+##### Artikel 2. Aan de inspecteur-generaal voorbehouden bevoegdheden
 
 1. Aan de inspecteur-generaal is voorbehouden:
 
@@ -66,17 +92,17 @@ Van het ingevolge [artikel 1 van het Mandaatbesluit hoofden clusters Ministerie 
 
 2. Van het ingevolge [artikel 1 van het Mandaatbesluit hoofden clusters Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041688&artikel=1) aan de inspecteur-generaal verleende ondermandaat wordt ten aanzien van de aangelegenheden bedoeld in [artikel 5, tweede lid, onderdeel a, van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=5), ondermandaat verleend aan de directeur Wetgeving en Juridische Zaken.
 
-#### Artikel 3. Aanwijzing leidinggevende en doorgeven volmacht en machtiging
+##### Artikel 3. Aanwijzing leidinggevende en doorgeven volmacht en machtiging
 
 1. Als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk, ten aanzien van de onder hun dienstonderdeel ressorterende ambtenaren, worden aangewezen en gevolmachtigd de functionarissen, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048431&bijlage=1&z=2024-06-28&g=2024-06-28) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
 
 2. Als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk, ten aanzien van de onder de afdeling Strategie en Communicatie ressorterende ambtenaren wordt de directeur van de directie Strategie, Kwaliteit en Bedrijfsvoering aangewezen en gevolmachtigd.
 
-#### Artikel 4. Mandaten en volmachten voor het aangaan van financiële verplichtingen en het doen van uitgaven
+##### Artikel 4. Mandaten en volmachten voor het aangaan van financiële verplichtingen en het doen van uitgaven
 
 Als bevoegd om te beschikken over bedragen voor het aangaan van financiële verplichtingen en voor het verrichten van uitgaven, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048431&bijlage=2&z=2024-06-28&g=2024-06-28) bij dit besluit voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
 
-#### Artikel 5. Mandaat en volmacht hoofdinspecteur-directeur BSH en afdelingsmanager afdeling Handhaving voor handhavingsbesluiten
+##### Artikel 5. Mandaat en volmacht hoofdinspecteur-directeur BSH en afdelingsmanager afdeling Handhaving voor handhavingsbesluiten
 
 1. Van het ingevolge [artikel 6 van het Besluit aanwijzing toezichthouders naleving Wet experiment gesloten coffeeshopketen en het verlenen van mandaat en machtiging voor de uitvoering en handhaving van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043743&artikel=6) en het ingevolge [artikel 2 van het Aanwijzings-mandaatbesluit Inspectie Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0049508&artikel=2) aan de inspecteur-generaal van de Inspectie Justitie en Veiligheid verleende mandaat voor de uitvoering en handhaving van de [Wet kwaliteit incassodienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0046685) wordt ten aanzien van de aangelegenheden die hun dienstonderdeel betreffen ondermandaat verleend aan:
 
@@ -96,7 +122,7 @@ Als bevoegd om te beschikken over bedragen voor het aangaan van financiële verp
 
 voorbehouden aan de hoofdinspecteur-directeur BSH.
 
-#### Artikel 6. Vervanging
+##### Artikel 6. Vervanging
 
 1. De door de inspecteur-generaal aangewezen hoofdinspecteur-directeur of directeur treedt als plaatsvervanger in de bevoegdheden van de inspecteur-generaal bij diens afwezigheid.
 
@@ -106,15 +132,15 @@ voorbehouden aan de hoofdinspecteur-directeur BSH.
 
 4. Indien niet met toepassing van het bepaalde in het derde lid in de vervanging van een afdelingsmanager kan worden voorzien gaan diens bevoegdheden, gedurende de periode van afwezigheid, over op de hoofdinspecteur-directeur of directeur van de directie waar de betrokken afdeling toe behoort.
 
-#### Artikel 7. Intrekking besluit
+##### Artikel 7. Intrekking besluit
 
 Het [Mandaatbesluit Inspectie JenV Ministerie van Justitie en Veiligheid 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046921) van 7 juli 2022 wordt ingetrokken.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 1 maart 2023.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als Mandaatbesluit Inspectie Justitie en Veiligheid 2023.
 

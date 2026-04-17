@@ -1,13 +1,39 @@
 ---
-title: "Beschikking BankGiro Loterij 2008"
+title: "Beschikking van de Minister van Justitie van 4 april 2008, nr. 5539317/08/DSP, houdende verlening van een vergunning tot het organiseren van een BankGiro Loterij"
 identifier: "BWBR0023772"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-01-02
-laatste_update: 2013-01-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023772"
+country: "nl"
+rank: "zbo"
+publication_date: "2013-01-02"
+last_updated: "2013-01-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023772"
+soort: "zbo"
+stam_id: "9483983"
+version_id: "15288362"
+internal_id: "C20826391"
+label_id: "9461404"
+dtd_version: "2.0"
+original_entry_into_force: "2008-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023772/2013-01-02/0"
+intitule_bron: "Stcrt.2008-76"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-04-04"
+intitule_published: "2008-04-18"
+intitule_in_force: "2008-04-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-76"
+original_signed_date: "2008-04-04"
+original_published_date: "2008-04-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-76-p11-SC85402"
+entry_into_force_date: "2008-05-01"
+jci_1_3: "jci1.3:c:BWBR0023772&z=2013-01-02&g=2013-01-02"
+jci_1_0: "1.0:c:BWBR0023772&g=2013-01-02"
+citeertitel_status: "officieel"
+short_title: "Beschikking BankGiro Loterij 2008"
+signed_date: "2008-04-04"
+entry_into_force: "2008-05-01"
 ---
-
 # Beschikking van de Minister van Justitie van 4 april 2008, nr. 5539317/08/DSP, houdende verlening van een vergunning tot het organiseren van een BankGiro Loterij
 
 Overwegende dat de geldigheidsduur van de [beschikking BankGiro Loterij](https://wetten.overheid.nl/jci1.3:c:BWBR0015027) op 30 april 2008 verstrijkt;
@@ -20,7 +46,7 @@ Gezien het advies van het College van toezicht op de kansspelen van 27 september
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 Een beschikking af te geven die komt luiden als volgt:
 
@@ -146,6 +172,6 @@ De [Beschikking BankGiro Loterij](https://wetten.overheid.nl/jci1.3:c:BWBR001502
 
 Deze beschikking wordt aangehaald als: Beschikking BankGiro Loterij 2008.
 
-#### Artikel II
+##### Artikel II
 
 Deze beschikking treedt in werking op 1 mei 2008 en wordt gepubliceerd in de Staatscourant.

@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling inclusiviteitstechnologie voor het mkb"
+title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 30 juni 2025, nr. 2025-0000135813, houdende regels voor subsidieverstrekking aan werkgevers in het midden- en kleinbedrijf ter ondersteuning bij de aanschaf van inclusiviteitstechnologie (Subsidieregeling inclusiviteitstechnologie voor het mkb) [KetenID WGK026974]"
 identifier: "BWBR0051195"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-09-01
-laatste_update: 2025-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051195"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-09-01"
+last_updated: "2025-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051195"
+soort: "ministeriele-regeling"
+stam_id: "17463943"
+version_id: "30800652"
+internal_id: "C44145381"
+label_id: "17366334"
+dtd_version: "2.0"
+original_entry_into_force: "2025-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051195/2025-09-01/0"
+intitule_bron: "Stcrt.2025-23088"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-06-30"
+intitule_published: "2025-07-08"
+intitule_in_force: "2025-07-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-23088"
+original_signed_date: "2025-06-30"
+original_published_date: "2025-07-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-23088"
+entry_into_force_date: "2025-09-01"
+jci_1_3: "jci1.3:c:BWBR0051195&z=2025-09-01&g=2025-09-01"
+jci_1_0: "1.0:c:BWBR0051195&g=2025-09-01"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling inclusiviteitstechnologie voor het mkb"
+signed_date: "2025-06-30"
+entry_into_force: "2025-09-01"
 ---
-
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 30 juni 2025, nr. 2025-0000135813, houdende regels voor subsidieverstrekking aan werkgevers in het midden- en kleinbedrijf ter ondersteuning bij de aanschaf van inclusiviteitstechnologie (Subsidieregeling inclusiviteitstechnologie voor het mkb) [KetenID WGK026974]
 
 Gelet op [artikel 3, eerste lid, van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -34,15 +60,15 @@ In deze regeling wordt verstaan onder:
 
 - –. **werkgever:** een onderneming waar minder dan 250 personen werkzaam zijn en waarvan de jaaromzet € 50 miljoen of het jaarlijkse balanstotaal € 43 miljoen niet overschrijdt.
 
-#### Artikel 2. Toepasselijkheid Kaderregeling
+##### Artikel 2. Toepasselijkheid Kaderregeling
 
 Op het aanvragen en verstrekken van subsidies op grond van deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) van toepassing, met uitzondering van de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.1) en [7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.1).
 
-#### Artikel 3. Doel
+##### Artikel 3. Doel
 
 Het doel van deze regeling is om werkgevers financieel te ondersteunen bij de aanschaf van inclusiviteitstechnologie, om hen te stimuleren om personen met een arbeidsbeperking in dienst te nemen of personen met een arbeidsbeperking die reeds in dienst zijn beter te ondersteunen bij het uitvoeren van hun werkzaamheden.
 
-#### Artikel 4. Subsidiabele activiteiten
+##### Artikel 4. Subsidiabele activiteiten
 
 1. De staatssecretaris kan op aanvraag van de werkgever subsidie verstrekken voor het bekostigen van onderstaande activiteiten voor zover die uiting geven aan het doel van deze regeling:
 
@@ -60,11 +86,11 @@ Het doel van deze regeling is om werkgevers financieel te ondersteunen bij de aa
 
 3. Subsidie voor de activiteit, bedoeld in het eerste lid, onderdeel b, kan alleen verstrekt worden in combinatie met subsidie voor de activiteit, bedoeld in het eerste lid, onderdeel a.
 
-#### Artikel 5. Subsidiabele kosten
+##### Artikel 5. Subsidiabele kosten
 
 De kosten voor de activiteiten, genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051195&artikel=4&z=2025-09-01&g=2025-09-01), komen in aanmerking voor subsidie.
 
-#### Artikel 6. Niet subsidiabele kosten
+##### Artikel 6. Niet subsidiabele kosten
 
 De volgende kosten komen niet in aanmerking voor subsidie:
 
@@ -84,7 +110,7 @@ De volgende kosten komen niet in aanmerking voor subsidie:
 
 - h. kosten gemaakt door een organisatie waarin zich een belangenconflict voordoet of kan voordoen als gevolg van familiebanden, persoonlijke relaties, politieke gezindheid of nationaliteit, economische belangen of elk ander direct of indirect persoonlijk belang, waarmee de onpartijdige en objectieve uitoefening van de functies van een financiële actor of andere persoon die bij de uitvoering van het project betrokken is, in gevaar is of in gevaar kan worden gebracht.
 
-#### Artikel 7. Aanvraagtijdvak, subsidieplafond en wijze van verdeling
+##### Artikel 7. Aanvraagtijdvak, subsidieplafond en wijze van verdeling
 
 1. Een subsidieaanvraag kan worden ingediend in de volgende tijdvakken:
 
@@ -100,7 +126,7 @@ De volgende kosten komen niet in aanmerking voor subsidie:
 
 5. In het geval dat vanwege een storing in het digitale systeem de volgorde van binnenkomst niet kan worden vastgesteld en het subsidieplafond wordt bereikt, verdeelt de staatssecretaris het bedrag door middel van loting.
 
-#### Artikel 8. Hoogte subsidie
+##### Artikel 8. Hoogte subsidie
 
 1. Per aanvraag wordt een subsidie verstrekt tot € 25.000, waarvan maximaal € 1.000 kan worden verstrekt voor de activiteit, bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051195&artikel=4&z=2025-09-01&g=2025-09-01).
 
@@ -108,7 +134,7 @@ De volgende kosten komen niet in aanmerking voor subsidie:
 
 3. De aangevraagde subsidie bedraagt minimaal € 2.500 per aanvraag.
 
-#### Artikel 9. Aanvraag subsidie
+##### Artikel 9. Aanvraag subsidie
 
 1. Aanvragen worden ingediend door middel van het door de staatssecretaris beschikbaar gestelde aanvraagformulier.
 
@@ -136,7 +162,7 @@ De volgende kosten komen niet in aanmerking voor subsidie:
 
 7. De formulieren, verklaringen en formats waarnaar in deze regeling wordt verwezen, zijn door de staatssecretaris elektronisch beschikbaar gesteld op [www.uitvoeringvanbeleidszw.nl](http://www.uitvoeringvanbeleidszw.nl).
 
-#### Artikel 10. Weigeringsgronden
+##### Artikel 10. Weigeringsgronden
 
 De staatssecretaris besluit geheel of gedeeltelijk afwijzend op een aanvraag van een werkgever om subsidie voor zover:
 
@@ -154,7 +180,7 @@ De staatssecretaris besluit geheel of gedeeltelijk afwijzend op een aanvraag van
 
 - g. de aanvraag alleen ziet op de activiteit, bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051195&artikel=4&z=2025-09-01&g=2025-09-01).
 
-#### Artikel 11. Subsidieverlening
+##### Artikel 11. Subsidieverlening
 
 1. De staatssecretaris verleent de subsidie binnen 13 weken na ontvangst van de aanvraag.
 
@@ -162,7 +188,7 @@ De staatssecretaris besluit geheel of gedeeltelijk afwijzend op een aanvraag van
 
 3. De beschikking tot subsidieverlening vermeldt dat de ontvanger de activiteiten uiterlijk binnen 26 weken na de subsidieverlening moet hebben verricht.
 
-#### Artikel 12. Subsidievaststelling
+##### Artikel 12. Subsidievaststelling
 
 1. In overeenstemming met [artikel 7.4 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.4) neemt de staatssecretaris binnen 22 weken na afloop van de datum, bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051195&artikel=11&z=2025-09-01&g=2025-09-01), ambtshalve een besluit over de vaststelling van de subsidie.
 
@@ -172,7 +198,7 @@ De staatssecretaris besluit geheel of gedeeltelijk afwijzend op een aanvraag van
 
 4. De subsidieontvanger toont op verzoek van de staatssecretaris aan dat de activiteiten zijn verricht door een factuur of facturen met een bijbehorende opdrachtbevestiging en een betaalbewijs op eigen naam te overleggen.
 
-#### Artikel 13. Intrekking en terugvordering
+##### Artikel 13. Intrekking en terugvordering
 
 1. Onverminderd [artikel 4:48 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48) wordt de beschikking tot subsidieverlening geheel ingetrokken indien:
 
@@ -184,17 +210,17 @@ De staatssecretaris besluit geheel of gedeeltelijk afwijzend op een aanvraag van
 
 3. Indien de beschikking tot subsidieverlening of de beschikking tot subsidievaststelling geheel of gedeeltelijk wordt ingetrokken, wordt het aan de subsidieontvanger betaalde voorschot, vermeerderd met de wettelijke rente, geheel of gedeeltelijk teruggevorderd van de subsidieontvanger.
 
-#### Artikel 14. Evaluatie
+##### Artikel 14. Evaluatie
 
 1. De staatssecretaris draagt zorg voor de evaluatie van de doeltreffendheid en doelmatigheid van deze regeling.
 
 2. De subsidieontvanger werkt mee aan door of namens de staatssecretaris ingesteld onderzoek dat erop is gericht de staatssecretaris inlichtingen te verschaffen die van belang zijn voor de evaluatie. De subsidieontvanger verstrekt in dat kader de daartoe benodigde inlichtingen, gegevens en bescheiden.
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 september 2025 en vervalt met ingang van 31 december 2027, met dien verstande dat deze regeling van toepassing blijft op subsidies die voor laatstgenoemde datum zijn verstrekt.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling inclusiviteitstechnologie voor het mkb.
 

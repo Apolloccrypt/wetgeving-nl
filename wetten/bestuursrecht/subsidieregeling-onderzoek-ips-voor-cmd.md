@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling onderzoek IPS voor CMD"
+title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 24 april 2019, nr. 2018-0000176423, houdende regels voor het verstrekken van subsidie ten behoeve van subsidieonderzoek IPS voor common mental disorders (Subsidieregeling onderzoek IPS voor CMD)"
 identifier: "BWBR0042166"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-05-01
-laatste_update: 2019-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042166"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-05-01"
+last_updated: "2019-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042166"
+soort: "ministeriele-regeling"
+stam_id: "15062153"
+version_id: "25813762"
+internal_id: "C36802871"
+label_id: "15011264"
+dtd_version: "2.0"
+original_entry_into_force: "2019-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042166/2019-05-01/0"
+intitule_bron: "Stcrt.2019-24003"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-04-24"
+intitule_published: "2019-04-30"
+intitule_in_force: "2019-04-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-24003"
+original_signed_date: "2019-04-24"
+original_published_date: "2019-04-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-24003"
+entry_into_force_date: "2019-05-01"
+jci_1_3: "jci1.3:c:BWBR0042166&z=2019-05-01&g=2019-05-01"
+jci_1_0: "1.0:c:BWBR0042166&g=2019-05-01"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling onderzoek IPS voor CMD"
+signed_date: "2019-04-24"
+entry_into_force: "2019-05-01"
 ---
-
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 24 april 2019, nr. 2018-0000176423, houdende regels voor het verstrekken van subsidie ten behoeve van subsidieonderzoek IPS voor common mental disorders (Subsidieregeling onderzoek IPS voor CMD)
 
 Gelet op de [artikelen 32b](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=32b) en [32d, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=32d) en de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3), en [5 van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=5);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -74,7 +100,7 @@ In deze regeling wordt verstaan onder:
 
 - **UWV:** Uitvoeringsinstituut werknemersverzekeringen;
 
-#### Artikel 2. Subsidieverstrekking
+##### Artikel 2. Subsidieverstrekking
 
 1. Het doel van de subsidieverstrekking is door onderzoek inzicht te krijgen in de werking van IPS voor mensen met common mental disorders (CMD), die Klant gemeente of Klant UWV zijn. Onderzocht zal worden welke resultaten worden behaald met de inzet van IPS voor de doelgroep IPS-CMD, in hoeverre IPS voor de doelgroep IPS-CMD modelgetrouw kan worden toegepast en of de implementatie van IPS bij de CMD-groep aanleiding geeft het IPS-model voor die groep aan te passen.
 
@@ -84,7 +110,7 @@ In deze regeling wordt verstaan onder:
 
 4. UWV wordt belast met de uitvoering van de subsidieverstrekking, bedoeld in het derde lid.
 
-#### Artikel 3. Subsidiabele activiteiten, gegevensverstrekking, meewerkplicht onderzoek
+##### Artikel 3. Subsidiabele activiteiten, gegevensverstrekking, meewerkplicht onderzoek
 
 1. Subsidie wordt uitsluitend verstrekt voor een IPS-traject ten behoeve van een individuele klant.
 
@@ -134,7 +160,7 @@ In deze regeling wordt verstaan onder:
 
 8. In de administratie van de GGZ-instelling bevindt zich een schriftelijke verklaring van de Klant UWV dan wel de Klant gemeente waarin de klant instemt met indiening van de subsidieaanvraag en toestemming verleent om mee te werken aan het door Kenniscentrum Phrenos uitgevoerde onderzoek.
 
-#### Artikel 4. Kwaliteitseisen GGZ-instelling
+##### Artikel 4. Kwaliteitseisen GGZ-instelling
 
 1. Subsidie wordt uitsluitend verstrekt aan een GGZ-instelling die kan aantonen dat ze modelgetrouw werkt.
 
@@ -152,7 +178,7 @@ In deze regeling wordt verstaan onder:
 
 6. Indien zich wijzigingen voordoen ten opzichte van de informatie die verstrekt is op het formulier Deelname onderzoekssubsidie IPS, dan dient de GGZ-instelling onverwijld opnieuw het formulier in.
 
-#### Artikel 5. Aanvraag subsidie individuele IPS-trajecten
+##### Artikel 5. Aanvraag subsidie individuele IPS-trajecten
 
 1. Subsidieaanvragen worden ingediend van 1 mei 2019, 09:00 uur tot en met 29 november 2019, 17:00 uur.
 
@@ -184,7 +210,7 @@ In deze regeling wordt verstaan onder:
 
 7. Een IPS-traject kan niet eerder starten met de activiteiten behorende tot het IPS-traject dan nadat er een schriftelijk akkoord van UWV is ontvangen.
 
-#### Artikel 6. Weigeringsgronden
+##### Artikel 6. Weigeringsgronden
 
 Onverminderd de [artikelen 4:25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:25), en [artikel 4:43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:43), en [artikel 4:35, tweede en derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt de subsidie geweigerd, indien:
 
@@ -206,7 +232,7 @@ Onverminderd de [artikelen 4:25, tweede lid](https://wetten.overheid.nl/jci1.3:c
 
 - i. reeds subsidie is verstrekt ten behoeve van 5 Klanten gemeente, woonachtig in dezelfde gemeente als in die van de Klant gemeente waarvoor subsidie is aangevraagd.
 
-#### Artikel 7. Subsidiehoogte/Subsidieplafond
+##### Artikel 7. Subsidiehoogte/Subsidieplafond
 
 1. De subsidie bedraagt € 8.000 inclusief BTW per IPS-traject voor een aanvraag als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042166&artikel=5&z=2019-05-01&g=2019-05-01).
 
@@ -216,7 +242,7 @@ Onverminderd de [artikelen 4:25, tweede lid](https://wetten.overheid.nl/jci1.3:c
 
 4. Voor de subsidieverlening, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042166&artikel=2&z=2019-05-01&g=2019-05-01), is een bedrag beschikbaar van € 300.000.
 
-#### Artikel 8. Volgorde behandeling verzoeken subsidie individuele IPS-trajecten
+##### Artikel 8. Volgorde behandeling verzoeken subsidie individuele IPS-trajecten
 
 1. Om te bepalen wanneer het subsidieplafond bereikt is, worden de aanvragen om subsidie voor het uitvoeren van een IPS-traject op volgorde van binnenkomst behandeld.
 
@@ -224,15 +250,15 @@ Onverminderd de [artikelen 4:25, tweede lid](https://wetten.overheid.nl/jci1.3:c
 
 3. Indien honorering van aanvragen die op dezelfde datum zijn binnengekomen leidt tot overschrijding van het subsidieplafond en de volgorde van binnenkomst van die aanvragen niet kan worden vastgesteld, wordt in afwijking van het eerste lid met betrekking tot die aanvragen de volgorde door loting vastgesteld.
 
-#### Artikel 9. Vaststelling subsidie
+##### Artikel 9. Vaststelling subsidie
 
 De subsidie wordt direct vastgesteld.
 
-#### Artikel 10. Meldingsplicht
+##### Artikel 10. Meldingsplicht
 
 De GGZ-instelling doet onverwijld een schriftelijke melding aan UWV zodra aannemelijk is dat de activiteiten waarvoor de subsidie is verleend niet, niet tijdig of niet geheel zullen worden verricht of dat niet, niet tijdig of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan.
 
-#### Artikel 11. Financiering
+##### Artikel 11. Financiering
 
 1. UWV voorziet in de middelen tot dekking van de uitgaven verbonden aan de subsidies, bedoeld in de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042166&artikel=2&z=2019-05-01&g=2019-05-01), en [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042166&artikel=7&z=2019-05-01&g=2019-05-01).
 
@@ -240,7 +266,7 @@ De GGZ-instelling doet onverwijld een schriftelijke melding aan UWV zodra aannem
 
 3. In verband met het middelenbeheer wordt de rijksbijdrage, bedoeld in het tweede lid, beschouwd als middelen die deel uitmaken van het Arbeidsongeschiktheidsfonds.
 
-#### Artikel 12. Betaling en verslaglegging
+##### Artikel 12. Betaling en verslaglegging
 
 1. De Minister stort een bedrag ter grootte van € 300.000 op de rekening-courant, bedoeld in [artikel 5.16, onderdeel b, van de Regeling Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&artikel=5.16), met als valutadatum de tweeëntwintigste dag van de maand juli 2019.
 
@@ -248,13 +274,13 @@ De GGZ-instelling doet onverwijld een schriftelijke melding aan UWV zodra aannem
 
 3. Het UWV brengt aan de Minister inhoudelijk en financieel verslag uit over de uitvoering van deze regeling overeenkomstig [artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49).
 
-#### Artikel 13. Inwerkingtreding en vervaldatum
+##### Artikel 13. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking op de eerste dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en vervalt 4 jaar na de inwerkingtreding.
 
 2. Deze regeling blijft van toepassing op verstrekte subsidies.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling onderzoek IPS voor CMD.
 

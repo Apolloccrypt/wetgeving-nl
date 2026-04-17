@@ -1,13 +1,39 @@
 ---
-title: "Regeling syllabi centrale examens VO 2018"
+title: "Regeling van het College voor Toetsen en Examens van 27 juni 2016, nummer CvTE-16.01268, houdende vaststelling van de syllabi voor de centrale examens in het vwo, havo en vmbo 2018, initiële vaststelling syllabi vmbo profielvakken beroepsgericht 2017, nadere vaststelling van enkele eerder vastgestelde syllabi, tevens preliminaire vaststelling van enkele syllabi 2019, 2020 en 2021 (Regeling syllabi centrale examens VO 2018)"
 identifier: "BWBR0038351"
-categorie: "Onderwijs"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038351"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038351"
+soort: "zbo"
+stam_id: "13715363"
+version_id: "23500072"
+internal_id: "C33841481"
+label_id: "13681884"
+dtd_version: "2.0"
+original_entry_into_force: "2016-07-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038351/2022-01-01/0"
+intitule_bron: "Stcrt.2016-37995"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-06-27"
+intitule_published: "2016-07-21"
+intitule_in_force: "2016-07-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-37995"
+original_signed_date: "2016-06-27"
+original_published_date: "2016-07-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-37995"
+entry_into_force_date: "2016-07-22"
+jci_1_3: "jci1.3:c:BWBR0038351&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0038351&g=2022-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling syllabi centrale examens VO 2018"
+signed_date: "2016-06-27"
+entry_into_force: "2016-07-22"
 ---
-
 # Regeling van het College voor Toetsen en Examens van 27 juni 2016, nummer CvTE-16.01268, houdende vaststelling van de syllabi voor de centrale examens in het vwo, havo en vmbo 2018, initiële vaststelling syllabi vmbo profielvakken beroepsgericht 2017, nadere vaststelling van enkele eerder vastgestelde syllabi, tevens preliminaire vaststelling van enkele syllabi 2019, 2020 en 2021 (Regeling syllabi centrale examens VO 2018)
 
 Gelet op [artikel 2, tweede lid, aanhef en onderdeel f, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2);
@@ -16,29 +42,29 @@ Gezien de goedkeuring van de Staatssecretaris van Onderwijs, Cultuur en Wetensch
 
 Besluit:
 
-#### Artikel 1. Vaststelling syllabi 2018
+##### Artikel 1. Vaststelling syllabi 2018
 
 Vervallen
 
-#### Artikel 2. Initiële vaststelling syllabi vmbo profielvakken beroepsgericht 2017
+##### Artikel 2. Initiële vaststelling syllabi vmbo profielvakken beroepsgericht 2017
 
 Vervallen
 
-#### Artikel 3. Nadere vaststelling van enkele eerder vastgestelde syllabi
+##### Artikel 3. Nadere vaststelling van enkele eerder vastgestelde syllabi
 
 Vervallen
 
-#### Artikel 4. Preliminaire vaststelling van enkele syllabi 2019, 2020 en 2021
+##### Artikel 4. Preliminaire vaststelling van enkele syllabi 2019, 2020 en 2021
 
 Vervallen
 
-#### Artikel 5. Bekendmaking
+##### Artikel 5. Bekendmaking
 
 1. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. De syllabi als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&artikel=1&z=2022-01-01&g=2022-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&artikel=2&z=2022-01-01&g=2022-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&artikel=3&z=2022-01-01&g=2022-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&artikel=4&z=2022-01-01&g=2022-01-01) worden bekendgemaakt op www.examenblad.nl.
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt:
 
@@ -58,7 +84,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 - 4.3. betreffende [artikel 4 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038351&artikel=4&z=2022-01-01&g=2022-01-01): per 1 januari 2022.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling syllabi centrale examens VO 2018.
 

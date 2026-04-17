@@ -1,13 +1,37 @@
 ---
 title: "Instellingsbesluit Commissie Openbaar Ministerie"
 identifier: "BWBR0006296"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 1999-12-29
-laatste_update: 1999-12-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006296"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1999-12-29"
+last_updated: "1999-12-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006296"
+soort: "ministeriele-regeling"
+stam_id: "3722253"
+version_id: "5505162"
+internal_id: "C5698251"
+label_id: "3702044"
+dtd_version: "2.0"
+original_entry_into_force: "1999-12-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006296/1999-12-29/0"
+intitule_bron: "Stcrt.1993-249"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-12-09"
+intitule_published: "1993-12-27"
+intitule_in_force: "1993-12-27"
+intitule_status: "goed"
+original_publication: "Stcrt.1993-249"
+original_signed_date: "1993-12-09"
+original_published_date: "1993-12-27"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1999-12-29"
+jci_1_3: "jci1.3:c:BWBR0006296&z=1999-12-29&g=1999-12-29"
+jci_1_0: "1.0:c:BWBR0006296&g=1999-12-29"
+citeertitel_status: "officieel"
+signed_date: "1993-12-09"
+entry_into_force: "1999-12-29"
 ---
-
 # Instellingsbesluit Commissie Openbaar Ministerie
 
 Overwegende dat het Openbaar Ministerie de afgelopen jaren is geconfronteerd met een groeiende en in ernst toenemende criminaliteit en met een uitbreiding van de taken en bevoegdheden;
@@ -16,11 +40,11 @@ Overwegende dat het Openbaar Ministerie een cruciale positie heeft bij de rechts
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Een Commissie Openbaar Ministerie in te stellen, hierna te noemen de commissie.
 
-#### Artikel 2
+##### Artikel 2
 
 De commissie heeft tot taak om:
 
@@ -32,7 +56,7 @@ De commissie heeft tot taak om:
 
 - d. Ten aanzien van bovengenoemde punten aanbevelingen te doen die het toekomstig functioneren van het Openbaar Ministerie kunnen versterken.
 
-#### Artikel 3
+##### Artikel 3
 
 Tot leden van de commissie worden benoemd:
 
@@ -46,18 +70,18 @@ Tot leden van de commissie worden benoemd:
 
 In het secretariaat wordt in overleg met de commissie voorzien.
 
-#### Artikel 4
+##### Artikel 4
 
 De commissie kan ter ondersteuning van haar taak voor specifieke vraagstellingen onderzoeksopdrachten geven binnen het daarvoor vastgestelde budget.
 
-#### Artikel 5
+##### Artikel 5
 
 De commissie rapporteert uiterlijk zes maanden na de datum van inwerkingtreding van dit besluit aan de Minister van Justitie.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt bekend gemaakt door publikatie in de Staatscourant.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.

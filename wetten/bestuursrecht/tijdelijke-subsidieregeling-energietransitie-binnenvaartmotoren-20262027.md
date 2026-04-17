@@ -1,20 +1,46 @@
 ---
-title: "Tijdelijke subsidieregeling energietransitie binnenvaartmotoren 2026–2027"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 26 maart 2026 nr. IENW/BSK-2026/34761, houdende vaststelling van de Tijdelijke subsidieregeling energietransitie binnenvaartmotoren (Tijdelijke subsidieregeling energietransitie binnenvaartmotoren 2026–2027) [KetenID WGK028335]"
 identifier: "BWBR0052466"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-03-28
-laatste_update: 2026-03-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052466"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-28"
+last_updated: "2026-03-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052466"
+soort: "ministeriele-regeling"
+stam_id: "17821943"
+version_id: "31501132"
+internal_id: "C44984981"
+label_id: "17719204"
+dtd_version: "2.0"
+original_entry_into_force: "2026-03-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052466/2026-03-28/0"
+intitule_bron: "Stcrt.2026-11377"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-03-26"
+intitule_published: "2026-03-27"
+intitule_in_force: "2026-03-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-11377"
+original_signed_date: "2026-03-26"
+original_published_date: "2026-03-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-11377"
+entry_into_force_date: "2026-03-28"
+jci_1_3: "jci1.3:c:BWBR0052466&z=2026-03-28&g=2026-03-28"
+jci_1_0: "1.0:c:BWBR0052466&g=2026-03-28"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke subsidieregeling energietransitie binnenvaartmotoren 2026–2027"
+signed_date: "2026-03-26"
+entry_into_force: "2026-03-28"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 26 maart 2026 nr. IENW/BSK-2026/34761, houdende vaststelling van de Tijdelijke subsidieregeling energietransitie binnenvaartmotoren (Tijdelijke subsidieregeling energietransitie binnenvaartmotoren 2026–2027) [KetenID WGK028335]
 
 Gelet op de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [8, eerste lid en tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=9), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22) en [23, vijfde lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=23);
 
 BESLUIT:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -56,11 +82,11 @@ In deze regeling wordt verstaan onder:
 
 - **waterstofverbrandingsmotor:** energieomzetter die is ontworpen om chemische energie (input) uit waterstof, al dan niet in combinatie met een andere brandstof, om te zetten in mechanische energie (output) middels een intern verbrandingsproces waarbij minimaal 50% van de chemische energie uit waterstof komt;
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Het doel van de regeling is het versnellen van de ontwikkeling en het op de markt brengen van methanol- of waterstof-verbrandingsmotoren voor binnenschepen, die nodig zijn voor de energietransitie in deze sector.
 
-#### Artikel 3. Subsidiabele activiteiten
+##### Artikel 3. Subsidiabele activiteiten
 
 1. De Minister kan op aanvraag subsidie verstrekken aan een fabrikant of mariniseerder voor een project.
 
@@ -74,13 +100,13 @@ Het doel van de regeling is het versnellen van de ontwikkeling en het op de mark
 
 - d. geschikt maken, oftewel mariniseren, van een NRE- of EURO VI-type waterstof- of methanolverbrandingsmotor voor gebruik in een binnenschip;
 
-#### Artikel 4. Subsidiabele kosten
+##### Artikel 4. Subsidiabele kosten
 
 1. Als subsidiabele kosten komen uitsluitend in aanmerking de kosten, bedoeld in artikel 25, derde lid, van de algemene groepsvrijstellingsverordening.
 
 2. Onder artikel 25, derde lid, onderdeel e, van de algemene groepsvrijstellingsverordening vallen ook brandstofkosten die nodig zijn voor het uitvoeren van de activiteiten zoals in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052466&artikel=3&z=2026-03-28&g=2026-03-28).
 
-#### Artikel 5. Hoogte subsidie
+##### Artikel 5. Hoogte subsidie
 
 1. De subsidie voor een project bedraagt ten hoogste € 750.000,–.
 
@@ -92,7 +118,7 @@ Het doel van de regeling is het versnellen van de ontwikkeling en het op de mark
 
 - b. met 20 procentpunten voor kleine ondernemingen.
 
-#### Artikel 6. Subsidieplafond
+##### Artikel 6. Subsidieplafond
 
 Voor de looptijd van deze regeling is voor subsidiabele projecten ten hoogste € 4.500.000 beschikbaar:
 
@@ -110,13 +136,13 @@ Voor de looptijd van deze regeling is voor subsidiabele projecten ten hoogste �
 
 - 3. Indien één van de in het eerste of tweede lid uitgesplitste plafonds voor een specifieke energiedrager niet wordt uitgeput kan het resterende bedrag worden ingezet voor aanvragen voor de andere energiedrager.
 
-#### Artikel 7. Uitvoeringsorganisatie
+##### Artikel 7. Uitvoeringsorganisatie
 
 1. Als uitvoeringsinstantie voor het verzamelen en verwerken van de aanvragen wordt het EICB aangewezen.
 
 2. De uitvoeringsinstantie heeft daarnaast een adviserende rol in de rangschikking van de aanvragen.
 
-#### Artikel 8. Rangschikking
+##### Artikel 8. Rangschikking
 
 1. De Minister kent, bij het beoordelen van een project als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052466&artikel=3&z=2026-03-28&g=2026-03-28) aan een aanvraag een hoger aantal punten toe naarmate de:
 
@@ -130,7 +156,7 @@ Voor de looptijd van deze regeling is voor subsidiabele projecten ten hoogste �
 
 3. Indien twee of meer aanvragen op dezelfde plaats in de rangschikking terechtkomen, wordt door middel van loting de definitieve plaats in de rangschikking bepaald.
 
-#### Artikel 9. Aanvraag
+##### Artikel 9. Aanvraag
 
 1. Een aanvraag wordt gedaan door een mariniseerder of een fabrikant.
 
@@ -150,7 +176,7 @@ Voor de looptijd van deze regeling is voor subsidiabele projecten ten hoogste �
 
 - c). mkb-verklaring indien de aanvrager een kleine- of middelgrote onderneming is.
 
-#### Artikel 10. Specifieke afwijzingsgronden
+##### Artikel 10. Specifieke afwijzingsgronden
 
 Onverminderd de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=11) en [12 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=12) wordt een aanvraag tot subsidie afgewezen indien:
 
@@ -166,11 +192,11 @@ Onverminderd de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&a
 
 - f. het aantal bij rangschikking toegekende punten aan één van de criteria genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0052466&artikel=8&z=2026-03-28&g=2026-03-28), eerste lid, minder is dan 10.
 
-#### Artikel 11. Subsidieverlening
+##### Artikel 11. Subsidieverlening
 
 Voor zover de subsidie wordt verleend ten laste van een nog niet door de Staten-Generaal aangenomen rijksbegroting, onderdeel Infrastructuur en Waterstaat, wordt in de beschikking tot verlening van een subsidie vermeld dat de verlening plaatsvindt onder de voorwaarde dat voldoende gelden ter beschikking worden gesteld in de Wet tot vaststelling van de rijksbegroting, onderdeel Infrastructuur en Waterstaat.
 
-#### Artikel 12. Subsidieverstrekking en -vaststelling
+##### Artikel 12. Subsidieverstrekking en -vaststelling
 
 1. De subsidiebeschikking zal door het Ministerie van Infrastructuur en Waterstaat worden verleend.
 
@@ -192,7 +218,7 @@ Voor zover de subsidie wordt verleend ten laste van een nog niet door de Staten-
 
 7. In de beschikking tot subsidievaststelling stelt de Minister de subsidie vast op basis van de gegevens die bij de aanvraag tot subsidievaststelling zijn ingediend.
 
-#### Artikel 13. Verplichtingen subsidieontvanger
+##### Artikel 13. Verplichtingen subsidieontvanger
 
 De subsidieontvanger is, onverminderd [artikelen 17 tot en met 22 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=17), verplicht om:
 
@@ -212,13 +238,13 @@ De subsidieontvanger is, onverminderd [artikelen 17 tot en met 22 van het Kaderb
 
 - h. een eindrapportage aan de Minister aan te leveren.
 
-#### Artikel 14. Inwerkingtreding en horizonbepaling
+##### Artikel 14. Inwerkingtreding en horizonbepaling
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2028, met dien verstande dat zij van toepassing blijft op de voor die datum verleende subsidies.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling energietransitie binnenvaartmotoren 2026–2027.
 

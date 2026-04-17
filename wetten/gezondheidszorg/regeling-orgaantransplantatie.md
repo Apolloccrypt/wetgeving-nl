@@ -1,20 +1,46 @@
 ---
-title: "Regeling orgaantransplantatie"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 mei 2025, kenmerk 4096321-1081488-PZO, houdende regels ten aanzien van het verlenen van vergunningen voor orgaantransplantatie (Regeling orgaantransplantatie)"
 identifier: "BWBR0051021"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051021"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051021"
+soort: "ministeriele-regeling"
+stam_id: "17425093"
+version_id: "30722712"
+internal_id: "C44031781"
+label_id: "17328114"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051021/2025-07-01/0"
+intitule_bron: "Stcrt.2025-16778"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-05-08"
+intitule_published: "2025-05-16"
+intitule_in_force: "2025-05-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-16778"
+original_signed_date: "2025-05-08"
+original_published_date: "2025-05-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-16778"
+entry_into_force_date: "2025-07-01"
+jci_1_3: "jci1.3:c:BWBR0051021&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0051021&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling orgaantransplantatie"
+signed_date: "2025-05-08"
+entry_into_force: "2025-07-01"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 mei 2025, kenmerk 4096321-1081488-PZO, houdende regels ten aanzien van het verlenen van vergunningen voor orgaantransplantatie (Regeling orgaantransplantatie)
 
 Gelet op de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=2), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=5) en [6, tweede lid, van de Wet op bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=6);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Een vergunning wordt verleend voor het uitvoeren van één of meer in de vergunning genoemde verrichtingen strekkende tot:
 
@@ -34,7 +60,7 @@ Een vergunning wordt verleend voor het uitvoeren van één of meer in de vergunn
 
 - h. implantatie van kunstorganen, voor zover betrekking hebbend op de organen, genoemd onder a tot en met f.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor het uitvoeren van de verrichtingen, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051021&artikel=1&z=2025-07-01&g=2025-07-01), bestaat behoefte aan ten hoogste:
 
@@ -56,7 +82,7 @@ Een vergunning wordt verleend voor het uitvoeren van één of meer in de vergunn
 
 2. De wijze waarop in de behoefte wordt voorzien, is neergelegd in paragraaf 1 van de bijlage bij deze regeling.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De procedure omtrent de vergunningverlening is neergelegd in paragraaf 2 van de bijlage bij deze regeling.
 
@@ -68,23 +94,23 @@ Een vergunning wordt verleend voor het uitvoeren van één of meer in de vergunn
 
 - b. de instelling verstrekt aan het orgaancentrum, bedoeld in [artikel 24 van de Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&artikel=24), de door het orgaancentrum gevraagde gegevens die van belang zijn voor een goede uitvoering van één of meer in de vergunning genoemde verrichtingen. Als het om persoonsgegevens gaat, geldt dit voorschrift uitsluitend indien en voor zover daarvoor toestemming als bedoeld in artikel 6, eerste lid, onder a, of artikel 9, tweede lid, onder a, van de Algemene verordening gegevensbescherming is verkregen.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien een instelling op het tijdstip van inwerkingtreding van deze regeling krachtens de [Wet op bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008974) bevoegd is tot het uitvoeren van één of meer verrichtingen als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051021&artikel=1&z=2025-07-01&g=2025-07-01), geldt die bevoegdheid als een aan die instelling krachtens deze regeling verleende vergunning voor het uitvoeren van die betreffende verrichting of verrichtingen met ingang van de dag waarop deze regeling in werking treedt en voor de duur van tien jaar.
 
-#### Artikel 5
+##### Artikel 5
 
 Het [Planningsbesluit orgaantransplantatie 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018016) wordt ingetrokken.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt de Regeling aanwijzing bijzondere medische verrichtingen.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling treedt in werking met ingang van 1 juli 2025.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling orgaantransplantatie.
 

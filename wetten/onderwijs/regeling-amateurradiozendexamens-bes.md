@@ -1,18 +1,43 @@
 ---
 title: "Regeling amateurradiozendexamens BES"
 identifier: "BWBR0028620"
-categorie: "Onderwijs"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028620"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028620"
+soort: "ministeriele-regeling-BES"
+stam_id: "10902293"
+version_id: "17885332"
+internal_id: "C24979811"
+label_id: "10877164"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028620/2010-10-10/0"
+intitule_bron: "Stcrt.2010-14865"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-09"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-14865"
+original_signed_date: "2010-09-09"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-14865"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028620&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028620&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-09"
+entry_into_force: "2010-10-10"
 ---
-
 # Regeling amateurradiozendexamens BES
 
 #### Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +55,7 @@ In deze regeling wordt verstaan onder:
 
 #### Aanmelding
 
-#### Artikel 2
+##### Artikel 2
 
 1. De voorzitter stelt de plaats, de datum en het tijdstip van de examens vast. Van de wijze van aanmelding wordt mededeling gedaan in de plaatselijke media.
 
@@ -40,7 +65,7 @@ In deze regeling wordt verstaan onder:
 
 #### Categorieën examens
 
-#### Artikel 3
+##### Artikel 3
 
 1. De examens worden onderverdeeld in de volgende categorieën:
 
@@ -74,7 +99,7 @@ In deze regeling wordt verstaan onder:
 
 #### Het examen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Desgevraagd legitimeert de kandidaat zich overeenkomstig de door de voorzitter gegeven voorschriften.
 
@@ -84,7 +109,7 @@ In deze regeling wordt verstaan onder:
 
 4. Het schriftelijk examen wordt in principe in groepsverband afgenomen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De onderdelen radiotechniek en voorschriften worden schriftelijk afgenomen door middel van meerkeuzevragen. De tijdsduur van deze examens bedraagt ten minste één uur en ten hoogste twee uur.
 
@@ -92,7 +117,7 @@ In deze regeling wordt verstaan onder:
 
 3. Tijdens het examen zijn ten minste 2 leden van de commissie aanwezig.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien een kandidaat zich ten aanzien van het examen aan enig bedrog heeft schuldig gemaakt en dit voor of tijdens het examen wordt ontdekt, ontzegt de voorzitter hem van deelneming of de verdere deelneming aan het examen.
 
@@ -104,7 +129,7 @@ In deze regeling wordt verstaan onder:
 
 #### Het bijzonder examen
 
-#### Artikel 7
+##### Artikel 7
 
 1. In afwijking van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028620&artikel=4&z=2010-10-10&g=2010-10-10) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028620&artikel=5&z=2010-10-10&g=2010-10-10) kan de voorzitter, op verzoek van de kandidaat, besluiten het examen op andere wijze af te doen nemen, indien:
 
@@ -116,13 +141,13 @@ In deze regeling wordt verstaan onder:
 
 2. Het examen wordt in een zodanig geval afgenomen door twee leden van de commissie.
 
-#### Artikel 8
+##### Artikel 8
 
 Het examen Radiotechniek en Voorschriften wordt schriftelijk afgenomen. Het examen heeft een tijdsduur van ten minste één uur en ten hoogste twee uur per onderdeel.
 
 #### Normen examens in het opnemen en seinen van morsetekens
 
-#### Artikel 9
+##### Artikel 9
 
 1. De onderdelen opnemen en seinen van morsetekens bestaan uit:
 
@@ -134,7 +159,7 @@ Het examen Radiotechniek en Voorschriften wordt schriftelijk afgenomen. Het exam
 
 #### Norm bijzondere examens
 
-#### Artikel 10
+##### Artikel 10
 
 Een kandidaat, welke heeft deelgenomen aan een examen als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028620&artikel=7&z=2010-10-10&g=2010-10-10) heeft het examen met goed gevolg afgelegd indien hij naar het oordeel van 2 examinatoren heeft aangetoond dat hij:
 
@@ -144,13 +169,13 @@ Een kandidaat, welke heeft deelgenomen aan een examen als bedoeld in [artikel 7]
 
 #### Ontheffing
 
-#### Artikel 11
+##### Artikel 11
 
 Indien de kandidaat is geslaagd voor een buitenlands amateurexamen of voor een ander examen in het opnemen en seinen van morsetekens, welke zijn afgenomen door een bevoegde autoriteit en naar het oordeel van de commissie gelijkwaardig zijn aan een der examens bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028620&artikel=2&z=2010-10-10&g=2010-10-10), kan de voorzitter hem geheel of gedeeltelijk ontheffing verlenen van één of meer onderdelen, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028620&artikel=3&z=2010-10-10&g=2010-10-10).
 
 #### Uitslag van het examen
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een kandidaat wordt binnen 30 dagen na het afleggen van het examen door de commissie van de uitslag in kennis gesteld.
 
@@ -160,13 +185,13 @@ Indien de kandidaat is geslaagd voor een buitenlands amateurexamen of voor een a
 
 #### Nadere regels
 
-#### Artikel 13
+##### Artikel 13
 
 De commissie kan nadere regels vaststellen voor de gang van zaken met betrekking tot het examen, welke niet in strijd mogen zijn met deze beschikking.
 
 #### Beroep
 
-#### Artikel 14
+##### Artikel 14
 
 1. Tegen de uitslag van het examen staat geen beroep open.
 
@@ -174,15 +199,15 @@ De commissie kan nadere regels vaststellen voor de gang van zaken met betrekking
 
 #### Slotbepaling
 
-#### Artikel 15
+##### Artikel 15
 
 In de gevallen waarin deze regeling en de ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028620&artikel=13&z=2010-10-10&g=2010-10-10) vastgestelde regels niet voorzien, beslist de voorzitter.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling berust op de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028725&artikel=5) en [6 van het Besluit radioamateurs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028725&artikel=6).
 
-#### Artikel 17
+##### Artikel 17
 
 Deze regeling wordt aangehaald als: Regeling amateurradiozendexamens BES.
 

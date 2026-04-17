@@ -1,13 +1,39 @@
 ---
-title: "Sanctieregeling Somalië 2003"
+title: "Regeling van 19 februari 2003 betreffende een aantal beperkende maatregelen ten aanzien van Somalië"
 identifier: "BWBR0014730"
-categorie: "Strafrecht"
-publicatiedatum: 2024-06-12
-laatste_update: 2024-06-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014730"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-06-12"
+last_updated: "2024-06-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014730"
+soort: "ministeriele-regeling"
+stam_id: "4154863"
+version_id: "17572532"
+internal_id: "C25668861"
+label_id: "4134284"
+dtd_version: "2.0"
+original_entry_into_force: "2010-08-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014730/2024-06-12/0"
+intitule_bron: "Stcrt.2003-35"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-02-19"
+intitule_published: "2003-02-19"
+intitule_in_force: "2003-02-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-12768"
+original_signed_date: "2010-08-04"
+original_published_date: "2010-08-17"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2010-12768"
+entry_into_force_date: "2010-08-04"
+jci_1_3: "jci1.3:c:BWBR0014730&z=2024-06-12&g=2024-06-12"
+jci_1_0: "1.0:c:BWBR0014730&g=2024-06-12"
+citeertitel_status: "officieel"
+short_title: "Sanctieregeling Somalië 2003"
+signed_date: "2010-08-04"
+entry_into_force: "2010-08-04"
 ---
-
 # Regeling van 19 februari 2003 betreffende een aantal beperkende maatregelen ten aanzien van Somalië
 
 Gelet op [Verordening (EG) nr. 147/2003](32003R0147) van de Raad van de Europese Unie van 27 januari 2003 betreffende een aantal beperkende maatregelen ten aanzien van Somalië (Pb EG L 24);
@@ -18,7 +44,7 @@ Gelet op [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003296
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het is verboden te handelen in strijd met de artikelen 1, 2, 3 bis, 3 ter, eerste lid, en 3 quater, eerste lid, van [Verordening (EG) nr. 147/2003](32003R0147) van de Raad van de Europese Unie van 27 januari 2003 betreffende een aantal beperkende maatregelen ten aanzien van Somalië (Pb EG L 24).
 
@@ -26,7 +52,7 @@ Besluit:
 
 3. Het verbod te handelen in strijd met artikel 3 ter, eerste lid, van Verordening (EG) nr. 147/2003 is niet van toepassing in geval artikel 3 ter, derde lid, van de verordening van toepassing is.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030610), dan wel onderdelen daarvan, direct of indirect te verkopen of te leveren aan, door of uit te voeren naar, over te dragen aan, daaronder begrepen over te brengen naar, entiteiten of personen in Somalië of voor gebruik in Somalië, ongeacht het land van herkomst.
 
@@ -54,17 +80,17 @@ Besluit:
 
 3. Het is verboden wapentuig dat of militaire uitrusting die overeenkomstig het tweede lid, onderdeel a, b, c, d of e, is verkocht, geleverd of overgedragen, te leveren, door te verkopen, over te dragen of voor gebruik beschikbaar te stellen aan personen of entiteiten die niet in dienst zijn van de ontvanger waaraan deze oorspronkelijk zijn verkocht of geleverd, of aan de verkopende of leverende lidstaat of de internationale, regionale of subregionale organisatie.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling wordt aangehaald als: Sanctieregeling Somalië 2003.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 De regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. De bevoegde autoriteit, bedoeld in artikel 3 bis van [Verordening (EG) nr. 147/2003](32003R0147) is de inspecteur, bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3). De bevoegde autoriteit, bedoeld in artikel 3 quater van [Verordening (EG) nr. 147/2003](32003R0147) is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
@@ -82,7 +108,7 @@ De regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. Het is verboden te handelen in strijd met de artikelen 2, 8, 9, van Verordening (EU) nr. 356/2010 van de Raad van de Europese Unie van 26 april 2010 tot vaststelling van bepaalde specifieke beperkende maatregelen tegen sommige natuurlijke personen of rechtspersonen, entiteiten of lichamen, in het licht van de situatie in Somalië (Pb EU L 105).
 

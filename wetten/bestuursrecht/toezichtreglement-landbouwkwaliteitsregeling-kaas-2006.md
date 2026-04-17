@@ -1,13 +1,39 @@
 ---
-title: "Toezichtreglement Landbouwkwaliteitsregeling kaas 2006"
+title: "Toezichtreglement Landbouwkwaliteitsregeling Kaas 2006"
 identifier: "BWBR0019407"
-categorie: "Bestuursrecht"
-publicatiedatum: 2006-01-01
-laatste_update: 2006-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019407"
+country: "nl"
+rank: "zbo"
+publication_date: "2006-01-01"
+last_updated: "2006-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019407"
+soort: "zbo"
+stam_id: "8255743"
+version_id: "13092742"
+internal_id: "C17636801"
+label_id: "8236934"
+dtd_version: "2.0"
+original_entry_into_force: "2006-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019407/2006-01-01/0"
+intitule_bron: "Stcrt.2006-85"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-12-29"
+intitule_published: "2006-05-02"
+intitule_in_force: "2006-05-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-85"
+original_signed_date: "2005-12-29"
+original_published_date: "2006-05-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-85-p22-SC74772"
+entry_into_force_date: "2006-01-01"
+jci_1_3: "jci1.3:c:BWBR0019407&z=2006-01-01&g=2006-01-01"
+jci_1_0: "1.0:c:BWBR0019407&g=2006-01-01"
+citeertitel_status: "officieel"
+short_title: "Toezichtreglement Landbouwkwaliteitsregeling kaas 2006"
+signed_date: "2005-12-29"
+entry_into_force: "2006-01-01"
 ---
-
 # Toezichtreglement Landbouwkwaliteitsregeling Kaas 2006
 
 Gelet op [artikel 10, eerste lid, onder e, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=10)(Stb. 1971, 371), op de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019231&artikel=7) en [17 van de Landbouwkwaliteitsregeling kaas 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019231&artikel=17), alsmede op artikel 36 van de Statuten van genoemde Stichting;
@@ -16,7 +42,7 @@ Heeft op 29 december 2005 vastgesteld het navolgende reglement:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit reglement worden, tenzij uitdrukkelijk anders is bepaald, de definities van het [Landbouwkwaliteitsbesluit zuivelproducten](https://wetten.overheid.nl/jci1.3:c:BWBR0009770) en van de [Landbouwkwaliteitsregeling kaas 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019231) overgenomen.
 
@@ -46,7 +72,7 @@ directeur: directeur van het COKZ;
 
 bestuur: bestuur van het COKZ.
 
-#### Artikel 2. Verplichtingen aangeslotene, algemeen
+##### Artikel 2. Verplichtingen aangeslotene, algemeen
 
 1. De bereider is verplicht het COKZ in kennis te stellen van alle feiten en omstandigheden die voor de aansluiting van belang kunnen zijn. Hij stelt het COKZ in ieder geval schriftelijk in kennis van wijzigingen in de rechtsvorm, tenaamstelling, plaats van vestiging en locaties waar de bereidingshandelingen worden uitgeoefend.
 
@@ -70,7 +96,7 @@ en voorts:
 
 - h. al de eisen welke het COKZ ter uitvoering en/of verzekering van de bij of krachtens dit reglement heeft gesteld nauwgezet na te leven.
 
-#### Artikel 3. Toezicht
+##### Artikel 3. Toezicht
 
 1. Het toezicht vindt plaats bij de bereider als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019407&artikel=1&z=2006-01-01&g=2006-01-01). Een nader onderzoek, elders dan bij de bereider, kan deel uitmaken van het toezicht.
 
@@ -86,7 +112,7 @@ en voorts:
 
 5. Het bestuur van het COKZ stelt hiervoor de desbetreffende methoden vast. Deze methoden zijn bij het COKZ op te vragen.
 
-#### Artikel 4. Frequentie toezicht
+##### Artikel 4. Frequentie toezicht
 
 1. Het bestuur bepaalt de frequentie waarmee het toezicht wordt uitgevoerd. Daarbij geldt het principe van toezicht op controle. De betreffende aangeslotenen ontvangen de voor hen van toepassing zijnde uitwerking van de eisen en de basisfrequenties van toezicht.
 
@@ -96,19 +122,19 @@ en voorts:
 
 4. In de in het tweede en derde lid bedoelde gevallen wordt de gewijzigde frequentie van toezicht schriftelijk vastgelegd en medegedeeld aan de bereider.
 
-#### Artikel 5. Het resultaat van het toezicht
+##### Artikel 5. Het resultaat van het toezicht
 
 Het resultaat van het toezicht wordt binnen vier weken na het bezoek schriftelijk medegedeeld aan de aangeslotene.
 
 In geval van resultaten van onderzoek geldt hiervoor een termijn van ten hoogste drie weken.
 
-#### Artikel 6. De gevolgen van het toezicht
+##### Artikel 6. De gevolgen van het toezicht
 
 Indien bij het toezicht blijkt dat de kaas niet voldoet aan de gestelde eisen kan het COKZ, naast het verhogen van de frequentie van toezicht als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019407&artikel=4&z=2006-01-01&g=2006-01-01), er toe overgaan de overtreding aanhangig te maken bij het algemeen tuchtgerecht van het COKZ.
 
 De bereider wordt hierover schriftelijk geïnformeerd.
 
-#### Artikel 7. Administratieve voorschriften
+##### Artikel 7. Administratieve voorschriften
 
 1. De volgende gegevens van het bereidingsproces en van elke bereide partij kaas, dienen afzonderlijk traceerbaar te zijn:
 
@@ -130,7 +156,7 @@ De bereider wordt hierover schriftelijk geïnformeerd.
 
 2. Door of namens het bestuur kunnen aanwijzingen worden gegeven omtrent de wijze waarop de in het eerste lid bedoelde administratie moet worden gevoerd.
 
-#### Artikel 8. Het indienen van een klacht tegen de wijze van toezicht
+##### Artikel 8. Het indienen van een klacht tegen de wijze van toezicht
 
 1. De aangeslotene kan een klacht indienen tegen de gedragingen van degene die het toezicht uitvoert of tegen de wijze waarop het toezicht is uitgevoerd.
 
@@ -138,7 +164,7 @@ De bereider wordt hierover schriftelijk geïnformeerd.
 
 3. De directeur beslist op de klacht binnen acht weken na ontvangst van de klacht. Hij kan de beslissing voor ten hoogste vier weken verdagen; van de verdaging wordt schriftelijk mededeling gedaan.
 
-#### Artikel 9. Het maken van bezwaar tegen de wijze van monsterneming
+##### Artikel 9. Het maken van bezwaar tegen de wijze van monsterneming
 
 1. De aangeslotene kan bezwaar maken tegen
 
@@ -152,7 +178,7 @@ De bereider wordt hierover schriftelijk geïnformeerd.
 
 4. De directeur beslist of de bezwaren gegrond zijn. Indien hij de bezwaren gegrond acht, doet hij het uitgevoerde toezicht genomen monster vervallen. In alle overige gevallen blijft het monster gehandhaafd. De aangeslotene ontvangt hiervan schriftelijk bericht.
 
-#### Artikel 10. Het maken van bezwaar tegen het resultaat van het toezicht of een monsteruitslag
+##### Artikel 10. Het maken van bezwaar tegen het resultaat van het toezicht of een monsteruitslag
 
 1. Tegen het resultaat van het toezicht of een door of namens het COKZ vastgestelde monsteruitslag staat bezwaar open bij het bestuur van het COKZ. Zodanig bezwaar heeft geen schorsende werking.
 
@@ -160,7 +186,7 @@ De bereider wordt hierover schriftelijk geïnformeerd.
 
 3. Het bestuur beslist op het bezwaar binnen acht weken na ontvangst van het bezwaarschrift. Het bestuur kan de beslissing voor ten hoogste vier weken verdagen; van de verdaging wordt schriftelijk mededeling gedaan.
 
-#### Artikel 11. Het maken van bezwaar tegen het uitvoeren van extra toezicht
+##### Artikel 11. Het maken van bezwaar tegen het uitvoeren van extra toezicht
 
 1. Tegen het besluit van de directeur om extra toezicht uit te voeren staat bezwaar open bij het bestuur van het COKZ. Zodanig bezwaar heeft geen schorsende werking.
 
@@ -170,6 +196,6 @@ De bereider wordt hierover schriftelijk geïnformeerd.
 
 4. Het besluit van het bestuur is bindend. Van het besluit van het bestuur ontvangt de aangeslotene schriftelijk bericht.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit reglement kan worden aangehaald als ‘Toezichtreglement Landbouwkwaliteitsregeling kaas 2006’ en treedt in werking met ingang van 1 januari 2006.

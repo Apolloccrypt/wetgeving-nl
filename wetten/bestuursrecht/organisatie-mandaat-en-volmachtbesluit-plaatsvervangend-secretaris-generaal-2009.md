@@ -1,13 +1,39 @@
 ---
-title: "Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal 2009 SZW"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 28 oktober 2009, nr. BO/BA/2009/23642, houdende toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de plaatsvervangend Secretaris-Generaal ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal 2009 SZW)"
 identifier: "BWBR0026589"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-09-19
-laatste_update: 2024-09-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026589"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-09-19"
+last_updated: "2024-09-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026589"
+soort: "ministeriele-regeling"
+stam_id: "10261363"
+version_id: "16794242"
+internal_id: "C23124611"
+label_id: "10236994"
+dtd_version: "2.0"
+original_entry_into_force: "2009-11-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026589/2024-09-19/0"
+intitule_bron: "Stcrt.2009-16658"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-10-28"
+intitule_published: "2009-11-05"
+intitule_in_force: "2009-11-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-16658"
+original_signed_date: "2009-10-28"
+original_published_date: "2009-11-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-16658"
+entry_into_force_date: "2009-11-06"
+jci_1_3: "jci1.3:c:BWBR0026589&z=2024-09-19&g=2024-09-19"
+jci_1_0: "1.0:c:BWBR0026589&g=2024-09-19"
+citeertitel_status: "officieel"
+short_title: "Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal 2009 SZW"
+signed_date: "2009-10-28"
+entry_into_force: "2009-11-06"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 28 oktober 2009, nr. BO/BA/2009/23642, houdende toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de plaatsvervangend Secretaris-Generaal ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal 2009 SZW)
 
 Gelet op de [artikelen 6, vijfde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=6), en [23, eerste lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=23);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Organisatie
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onder de plaatsvervangend secretaris-generaal ressorteren:
 
@@ -54,7 +80,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 3. Verantwoordelijkheden directeuren en afdelingshoofden
 
-#### Artikel 3
+##### Artikel 3
 
 1. Elk van de directeuren is verantwoordelijk voor:
 
@@ -88,7 +114,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Het eerste lid is van overeenkomstige toepassing op het hoofd van de afdeling Bedrijfsvoering, Financiën en Control.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De directeur van de directie Organisatie, Bedrijfsvoering en Personeel is verantwoordelijk voor:
 
@@ -128,17 +154,17 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 2. De directeur Organisatie, Bedrijfsvoering en Personeel is tevens aangewezen als CDI. De CDI zorgt dat binnen SZW de sturing op inkoop zo is ingericht dat zij hiermee voldoet aan rijksbrede én departementale kaders en ontwikkelingen voor inkoop. De CDI adviseert rechtstreeks aan de secretaris-generaal en de plaatsvervangend secretaris-generaal.
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
 #### § 4. Bevoegdheden directeuren
 
-#### Artikel 7
+##### Artikel 7
 
 1. Elk van de directeuren is bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van de directie, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal of de plaatsvervangend secretaris-generaal.
 
@@ -194,7 +220,7 @@ Vervallen
 
 #### § 4. Bevoegdheden directeuren
 
-#### Artikel 8
+##### Artikel 8
 
 1. De directeuren kunnen hun vertegenwoordigingsbevoegdheden in een door hen te bepalen omvang doorverlenen aan onder hen ressorterende functionarissen, met dien verstande dat bevoegdheden met betrekking tot personeelsaangelegenheden slechts kunnen worden doorverleend aan rechtstreeks onder hen ressorterende functionarissen en slechts voor zover het betreft:
 
@@ -216,15 +242,15 @@ Vervallen
 
 6. De (door)verlening van (onder-)mandaat, volmacht en machtiging kan uitsluitend bij een schriftelijk besluit geschieden.
 
-#### Artikel 9
+##### Artikel 9
 
 Het [Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024982) wordt ingetrokken.
 
-#### Artikel 10
+##### Artikel 10
 
 Na de inwerkingtreding van deze regeling berust het [Organisatie-, mandaat- en volmachtbesluit directie BO SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025904) dat genomen is krachtens de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=3), en [11 van het Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=11) op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2024-09-19&g=2024-09-19), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=5&artikel=9&z=2024-09-19&g=2024-09-19) van deze regeling.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 september 2009.
 
@@ -232,13 +258,13 @@ Na de inwerkingtreding van deze regeling berust het [Organisatie-, mandaat- en v
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 6a
+##### Artikel 6a
 
 Door vernummering vervallen.
 
 #### § 4. Bevoegdheden directeuren
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. De directeur van de Directie Dienstverlening, Samenwerkingsverbanden en Uitvoering is bevoegd om besluiten te nemen over en stukken vast te stellen en te ondertekenen met betrekking tot het uitvoeren van bekostigingsactiviteiten die verband houden met de toekenning en de verrekening van subsidies, voorschotten en budgetten aan uitvoerende instellingen in het kader van subsidieregelingen waarvan de uitvoering aan de Directie Dienstverlening, Samenwerkingsverbanden en Uitvoering is opgedragen.
 
@@ -262,17 +288,17 @@ Door vernummering vervallen.
 
 #### § 5. Slotbepalingen
 
-#### Artikel 10a
+##### Artikel 10a
 
 Met ingang van 1 april 2011 berust het [Organisatie-, mandaat- en volmachtbesluit Agentschap SZW 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0028311) dat genomen is krachtens de [artikelen 3, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0027955&artikel=3), en [18 van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027955&artikel=18) op de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2024-09-19&g=2024-09-19), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=5&artikel=8&z=2024-09-19&g=2024-09-19) van deze regeling.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 6b
+##### Artikel 6b
 
 Vervallen
 
-#### Artikel 7b
+##### Artikel 7b
 
 Vervallen
 
@@ -280,7 +306,7 @@ Vervallen
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 6c
+##### Artikel 6c
 
 1. De Rijksschoonmaakorganisatie is verantwoordelijk voor:
 
@@ -302,11 +328,11 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a
+##### Artikel 3a
 
 Vervallen
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. Het Agentschap SZW is verantwoordelijk voor:
 
@@ -324,25 +350,25 @@ Vervallen
 
 3. De directeur van het Agentschap SZW is tevens verantwoordelijk voor het inzake van zijn directie optreden als bestuurder in de zin van [artikel 1 van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=1).
 
-#### Artikel 6d
+##### Artikel 6d
 
 De directeur Dienstverlening, Samenwerkingsverbanden en Uitvoering, is verantwoordelijk voor de aansturing van de samenwerkingsverbanden SZW en de uitvoering van subsidieregelingen en andere regelingen op het terrein van werk en inkomen.
 
-#### Artikel 6e
+##### Artikel 6e
 
 Vervallen
 
-#### Artikel 6f
+##### Artikel 6f
 
 Vervallen
 
-#### Artikel 6g
+##### Artikel 6g
 
 Vervallen
 
 #### § 4. Bevoegdheden directeuren en afdelingshoofden
 
-#### Artikel 7c
+##### Artikel 7c
 
 Elk van de afdelingshoofden is bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van de afdeling, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal of de directeur Dienstverlening, Samenwerkingsverbanden en Uitvoering.
 
@@ -356,7 +382,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 6h
+##### Artikel 6h
 
 1. De directeur van de directie CIO-office, Informatie voor Beleid en Bedrijfsvoering en Veiligheid is onverminderd het bepaalde in [Beveiligingsvoorschrift Rijksdienst 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033512), artikel 4 derde lid en de Algemene Verordening Gegevensbescherming, artikel 37 eerste lid, verantwoordelijk voor:
 
@@ -384,7 +410,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 2. De directeur CIO-office, Informatie voor Beleid en Bedrijfsvoering en Veiligheid is tevens CIO van het ministerie SZW. De CIO adviseert rechtstreeks aan de secretaris-generaal, de plaatsvervangend secretaris-generaal, de inspecteur-generaal Nederlandse Arbeidsinspectie en de directeuren-generaal over informatievoorziening en ICT in brede zin.
 
-#### Artikel 7d
+##### Artikel 7d
 
 Bij afwezigheid of verhindering van de plaatsvervangend secretaris-generaal besluit de plaatsvervangend secretaris-generaal, voor de duur van de afwezigheid of verhindering, welke directeur diens taken en bevoegdheden waarneemt.
 
@@ -392,7 +418,7 @@ Bij afwezigheid of verhindering van de plaatsvervangend secretaris-generaal besl
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 6i
+##### Artikel 6i
 
 1. De afdeling Bedrijfsvoering, Financiën en Control is ten behoeve van de secretaris-generaal en de plaatsvervangend secretaris-generaal en de onder de plaatsvervangend secretaris-generaal ressorterende organisatieonderdelen, als genoemd in [artikel 2, onderdelen a tot en met b en onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=2&artikel=2&z=2024-09-19&g=2024-09-19) en de onder de secretaris-generaal ressorterende organisatieonderdelen, als genoemd in [artikel 2 van het Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=2), verantwoordelijk voor:
 

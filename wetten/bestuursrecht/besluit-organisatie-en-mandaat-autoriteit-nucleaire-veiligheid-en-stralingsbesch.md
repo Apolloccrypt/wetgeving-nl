@@ -1,18 +1,44 @@
 ---
-title: "Besluit organisatie en mandaat Autoriteit Nucleaire Veiligheid en Stralingsbescherming"
+title: "Besluit van 18 oktober 2024 van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming, nr. ANVS-2024/9573, inhoudende de organisatie en de verlening van mandaat, ondermandaat, volmacht en machtiging aan leden, directeuren, teamleiders en inspecteurs van de ANVS (Besluit organisatie en mandaat Autoriteit Nucleaire Veiligheid en Stralingsbescherming)"
 identifier: "BWBR0050338"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-27
-laatste_update: 2026-01-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050338"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-27"
+last_updated: "2026-01-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050338"
+soort: "zbo"
+stam_id: "17250293"
+version_id: "30383602"
+internal_id: "C43571931"
+label_id: "17156054"
+dtd_version: "2.0"
+original_entry_into_force: "2024-10-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050338/2026-01-27/0"
+intitule_bron: "Stcrt.2024-34868"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-10-18"
+intitule_published: "2024-10-28"
+intitule_in_force: "2024-10-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-34868"
+original_signed_date: "2024-10-18"
+original_published_date: "2024-10-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-34868"
+entry_into_force_date: "2024-10-29"
+jci_1_3: "jci1.3:c:BWBR0050338&z=2026-01-27&g=2026-01-27"
+jci_1_0: "1.0:c:BWBR0050338&g=2026-01-27"
+citeertitel_status: "officieel"
+short_title: "Besluit organisatie en mandaat Autoriteit Nucleaire Veiligheid en Stralingsbescherming"
+signed_date: "2024-10-18"
+entry_into_force: "2024-10-29"
 ---
-
 # Besluit van 18 oktober 2024 van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming, nr. ANVS-2024/9573, inhoudende de organisatie en de verlening van mandaat, ondermandaat, volmacht en machtiging aan leden, directeuren, teamleiders en inspecteurs van de ANVS (Besluit organisatie en mandaat Autoriteit Nucleaire Veiligheid en Stralingsbescherming)
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Organisatiestructuur
 
-#### Artikel 2. Directies
+##### Artikel 2. Directies
 
 1. De ANVS-organisatie is onderverdeeld in:
 
@@ -54,7 +80,7 @@ In dit besluit wordt verstaan onder:
 
 4. Het Directieteam-overleg wordt bijgestaan door het Bureau Bestuurszaken, dat het secretariaat verzorgt.
 
-#### Artikel 3. Teams
+##### Artikel 3. Teams
 
 1. De Directie Bevoegd Gezag omvat de volgende teams:
 
@@ -94,11 +120,11 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 3. Directies
 
-#### Artikel 4. Strategische doelen directies
+##### Artikel 4. Strategische doelen directies
 
 Elk van de directeuren is binnen de ANVS-organisatie verantwoordelijk voor het vormgeven en realiseren van de strategische richting en de doelen van de eigen directie.
 
-#### Artikel 5. Directie Bevoegd Gezag
+##### Artikel 5. Directie Bevoegd Gezag
 
 1. De Directie Bevoegd Gezag is verantwoordelijk voor de vergunningverlening, het toezicht en de handhaving op de gebieden nucleaire veiligheid en stralingsbescherming, transport van splijtstoffen, ertsen en radioactieve stoffen, beveiliging en waarborgen.
 
@@ -128,7 +154,7 @@ Elk van de directeuren is binnen de ANVS-organisatie verantwoordelijk voor het v
 
 - f. Het inhoudelijk bijdragen aan de ontwikkeling van het instrumentarium ten behoeve van de vergunningverlening, het toezicht en de handhaving door de ANVS.
 
-#### Artikel 6. Directie Beoordeling & Advies
+##### Artikel 6. Directie Beoordeling & Advies
 
 1. De directie Beoordeling & Advies adviseert, ondersteunt en voedt alle primaire taken van de ANVS vanuit de verschillende specialistische invalshoeken die daarvoor relevant zijn.
 
@@ -168,7 +194,7 @@ Elk van de directeuren is binnen de ANVS-organisatie verantwoordelijk voor het v
 
 - d. Algemeen Stralingsdeskundige.
 
-#### Artikel 7. Directie Bedrijfsvoering & Informatievoorziening
+##### Artikel 7. Directie Bedrijfsvoering & Informatievoorziening
 
 1. De Directie Bedrijfsvoering & Informatievoorziening adviseert en ondersteunt het Directieteam en het primaire proces van de ANVS bij de ontwikkeling en uitvoering van het integraal management.
 
@@ -222,7 +248,7 @@ BESLUIT:
 
 ### Hoofdstuk 3. Directies
 
-#### Artikel 8. Mandaat, ondermandaat, volmacht en machtiging leden ANVS
+##### Artikel 8. Mandaat, ondermandaat, volmacht en machtiging leden ANVS
 
 1. Aan elk van de leden van de ANVS wordt, voor zover dat tot de taak van het desbetreffende lid van de ANVS behoort:
 
@@ -236,7 +262,7 @@ BESLUIT:
 
 3. Bij afwezigheid of verhindering van een lid van de ANVS is het andere lid van de ANVS bevoegd om als plaatsvervanger op te treden.
 
-#### Artikel 9. Mandaat, ondermandaat, volmacht en machtiging directeuren
+##### Artikel 9. Mandaat, ondermandaat, volmacht en machtiging directeuren
 
 1. Aan elk van de directeuren wordt, voor zover dat tot de taak van de desbetreffende directeur behoort:
 
@@ -252,7 +278,7 @@ BESLUIT:
 
 4. Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de ANVS.
 
-#### Artikel 10. Mandaat, ondermandaat, volmacht en machtiging teamleiders
+##### Artikel 10. Mandaat, ondermandaat, volmacht en machtiging teamleiders
 
 1. Aan elk van de teamleiders wordt, voor zover dat tot de taak van de desbetreffende teamleider behoort:
 
@@ -264,7 +290,7 @@ BESLUIT:
 
 2. Bij afwezigheid of verhindering van een teamleider is elk van de andere teamleiders van dezelfde directie bevoegd om als plaatsvervanger op te treden.
 
-#### Artikel 11. Mandaat en machtiging inspecteurs
+##### Artikel 11. Mandaat en machtiging inspecteurs
 
 1. Aan de inspecteurs wordt voor spoedeisende gevallen mandaat verleend voor het opleggen van een last onder bestuursdwang ter handhaving van hetgeen bij of krachtens de [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402) is bepaald. [Artikel 5:31 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:31) is van overeenkomstige toepassing.
 
@@ -272,7 +298,7 @@ BESLUIT:
 
 3. Aan de inspecteurs wordt voor de gevallen, bedoeld in het eerste lid, machtiging verleend voor het verrichten van handelingen die noch een besluit noch een privaatrechtelijke rechtshandeling zijn en die met die gevallen samenhangen.
 
-#### Artikel 12. Bezwaar
+##### Artikel 12. Bezwaar
 
 1. Aan de Directeur Beoordeling en Advies wordt mandaat en ondermandaat verleend voor het nemen van beslissingen op bezwaarschriften.
 
@@ -286,7 +312,7 @@ BESLUIT:
 
 4. In het geval, bedoeld in het tweede lid, onderdeel b, wordt de beslissing op het bezwaarschrift genomen door een ander lid van de ANVS.
 
-#### Artikel 13. Verlenen ondermandaat
+##### Artikel 13. Verlenen ondermandaat
 
 1. Onverminderd het bepaalde in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050338&hoofdstuk=4&artikel=8&z=2026-01-27&g=2026-01-27) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0050338&hoofdstuk=4&artikel=9&z=2026-01-27&g=2026-01-27) kunnen de leden van de ANVS, respectievelijk directeuren, aan hun gemandateerde bevoegdheden in ondermandaat verlenen aan directeuren, respectievelijk teamleiders, voor zover het betreft beschikkingen die onderliggen aan of samenhangen met de verlening van een beschikking op grond van de Kernenergiewet.
 
@@ -294,7 +320,7 @@ BESLUIT:
 
 3. De teamleider Vergunningverlening Stralingstoepassingen kan bepalen dat een in het tweede lid bedoeld ondermandaat niet van toepassing is op bepaalde categorieën van registratieplichtige handelingen.
 
-#### Artikel 14. Wijze van ondertekening
+##### Artikel 14. Wijze van ondertekening
 
 1. In geval van mandaat, machtiging, of ondermandaat bij of krachtens dit besluit geschiedt het in een document vastleggen van een besluit of een andere handeling dan een besluit of een privaatrechtelijke handeling op briefpapier van de ANVS met het hoofd:
 
@@ -314,21 +340,21 @@ gevolgd door de aanduiding van de gemandateerde, gemachtigde of ondergemandateer
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 15. Overgangsrecht
+##### Artikel 15. Overgangsrecht
 
 Na inwerkingtreding van dit besluit berust het Besluit ondermandaat verlening registraties 2023 op artikel 13, tweede lid.
 
-#### Artikel 16. Intrekking
+##### Artikel 16. Intrekking
 
 1. Het Besluit mandaat en ondermandaat, volmacht en machtiging Autoriteit Nucleaire Veiligheid en Stralingsbescherming 2023 wordt ingetrokken.
 
 2. Het Organisatiebesluit ANVS 2.1 wordt ingetrokken.
 
-#### Artikel 17. Inwerkingtreding
+##### Artikel 17. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst, en werkt ten aanzien van de [artikelen 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050338&hoofdstuk=1&artikel=1&z=2026-01-27&g=2026-01-27) terug tot en met 1 februari 2023.
 
-#### Artikel 18. Citeertitel
+##### Artikel 18. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit organisatie en mandaat Autoriteit Nucleaire Veiligheid en Stralingsbescherming.
 

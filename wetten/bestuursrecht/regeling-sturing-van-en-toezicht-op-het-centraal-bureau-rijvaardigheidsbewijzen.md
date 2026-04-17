@@ -1,13 +1,39 @@
 ---
-title: "Regeling sturing van en toezicht op het Centraal Bureau Rijvaardigheidsbewijzen"
+title: "Regeling van de Minister van Infrastructuur en Milieu, van 5 december 2012, IENM/BSK-2012/241273, houdende vaststelling regels in verband met de implementatie van de Kaderwet zelfstandige bestuursorganen en de sturing van en het toezicht op het Centraal Bureau Rijvaardigheidsbewijzen (Regeling sturing van en toezicht op het Centraal Bureau Rijvaardigheidsbewijzen)"
 identifier: "BWBR0032466"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032466"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032466"
+soort: "ministeriele-regeling"
+stam_id: "11961023"
+version_id: "19884932"
+internal_id: "C27922491"
+label_id: "11933084"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032466/2013-01-01/0"
+intitule_bron: "Stcrt.2012-25321"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-05"
+intitule_published: "2012-12-18"
+intitule_in_force: "2012-12-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-25321"
+original_signed_date: "2012-12-05"
+original_published_date: "2012-12-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-25321"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032466&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0032466&g=2013-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling sturing van en toezicht op het Centraal Bureau Rijvaardigheidsbewijzen"
+signed_date: "2012-12-05"
+entry_into_force: "2013-01-01"
 ---
-
 # Regeling van de Minister van Infrastructuur en Milieu, van 5 december 2012, IENM/BSK-2012/241273, houdende vaststelling regels in verband met de implementatie van de Kaderwet zelfstandige bestuursorganen en de sturing van en het toezicht op het Centraal Bureau Rijvaardigheidsbewijzen (Regeling sturing van en toezicht op het Centraal Bureau Rijvaardigheidsbewijzen)
 
 Gelet op de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26) en [32 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=32) en de [artikelen 4aj, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aj), [4ap, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4ap), [4aq, eerste en derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aq);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -24,21 +50,21 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Directie en raad van toezicht van het CBR
 
-#### Artikel 2. Ontstentenis directie
+##### Artikel 2. Ontstentenis directie
 
 Het CBR informeert de minister onverwijld over de ontstentenis van een lid van de directie met het oog op de conform [artikel 4ad, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4ad) te treffen voorziening.
 
-#### Artikel 3. Rol raad van toezicht
+##### Artikel 3. Rol raad van toezicht
 
 De raad van toezicht oefent onafhankelijk van directie en minister toezicht uit. De raad van toezicht heeft een interne toezichtfunctie en is daarbij gericht op het beleid van de directie en op de algemene gang van zaken in het CBR. De raad van toezicht richt zich bij de vervulling van de taak naar het belang van het CBR en weegt daartoe de in aanmerking komende belangen van de bij het CBR betrokkenen af.
 
 #### § 3. Financieel toezicht
 
-#### Artikel 4. Begroting
+##### Artikel 4. Begroting
 
 Het CBR zendt jaarlijks voor 1 oktober de begroting voor het daaropvolgende jaar aan de minister.
 
-#### Artikel 5. Financieel meerjarenbeleidsplan
+##### Artikel 5. Financieel meerjarenbeleidsplan
 
 1. Het aan de minister voor te leggen financieel meerjarenbeleidsplan omvat de periode van het laatst afgesloten boekjaar, het lopende jaar, het komende begrotingsjaar en de vier volgende jaren.
 
@@ -66,7 +92,7 @@ Het CBR zendt jaarlijks voor 1 oktober de begroting voor het daaropvolgende jaar
 
 - k. de hoogte van de na te streven efficiency en de te behalen besparingen.
 
-#### Artikel 6. Aandachtspunten voor de accountantscontrole
+##### Artikel 6. Aandachtspunten voor de accountantscontrole
 
 1. De aandachtspunten voor de accountantscontrole zijn uitgewerkt in de bijlage bij deze regeling.
 
@@ -80,7 +106,7 @@ Het CBR zendt jaarlijks voor 1 oktober de begroting voor het daaropvolgende jaar
 
 - c. dat de tarieven zijn berekend op basis van het vastgestelde kostprijscalculatiemodel.
 
-#### Artikel 7. Invulling van [artikel 4aj, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aj) juncto [artikel 32 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=32)
+##### Artikel 7. Invulling van [artikel 4aj, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aj) juncto [artikel 32 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=32)
 
 1. Het CBR behoeft de voorafgaande instemming van de minister voor:
 
@@ -106,11 +132,11 @@ Het CBR zendt jaarlijks voor 1 oktober de begroting voor het daaropvolgende jaar
 
 #### § 4. Informatie-uitwisseling
 
-#### Artikel 8. Jaarrekening
+##### Artikel 8. Jaarrekening
 
 Bij de inrichting van de jaarrekening wordt onderscheid gemaakt tussen de baten en lasten, alsook tussen de ontvangsten en uitgaven uit de bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) aan het CBR opgedragen taken dan wel uit andere activiteiten.
 
-#### Artikel 9. Jaarverslag
+##### Artikel 9. Jaarverslag
 
 1. In aanvulling op [titel 9, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), en de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) en [19 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=19) bevat het jaarverslag in ieder geval de volgende onderdelen:
 
@@ -146,11 +172,11 @@ Bij de inrichting van de jaarrekening wordt onderscheid gemaakt tussen de baten 
 
 - c. het aantal ingediende schadeclaims, onderverdeeld naar taak, en de resultaten daarvan.
 
-#### Artikel 10. Toepassing internationale wet- en regelgeving
+##### Artikel 10. Toepassing internationale wet- en regelgeving
 
 Het CBR informeert de minister ten minste één maal per jaar over de wijze waarop het CBR van toepassing zijnde of wordende internationale wet- en regelgeving toepast en uitvoert respectievelijk gaat toepassen en uitvoeren.
 
-#### Artikel 11. Uitvoeringstoets CBR
+##### Artikel 11. Uitvoeringstoets CBR
 
 1. De minister legt de volgende voornemens tijdig aan het CBR voor met het oog op een uitvoeringstoets:
 
@@ -168,7 +194,7 @@ Het CBR informeert de minister ten minste één maal per jaar over de wijze waar
 
 4. Indien in de loop van het besluitvormingsproces het aan het CBR voorgelegde voornemen op voor het CBR relevante punten wordt gewijzigd, legt de minister de wijzigingen ten behoeve van een finale uitvoeringstoets voor aan het CBR.
 
-#### Artikel 12. Uitvoeringsevaluaties
+##### Artikel 12. Uitvoeringsevaluaties
 
 1. Het CBR evalueert op een daartoe door de minister gedaan verzoek of uit eigen beweging de uitvoering van nieuw of bijgesteld beleid dan wel nieuwe of bijgestelde wet- en regelgeving.
 
@@ -176,23 +202,23 @@ Het CBR informeert de minister ten minste één maal per jaar over de wijze waar
 
 3. De minister reageert op de door het CBR toegezonden rapportage en geeft daarbij in ieder geval aan hoe de rapportage in de besluitvorming is of zal worden betrokken.
 
-#### Artikel 13. ICT-projecten
+##### Artikel 13. ICT-projecten
 
 Het CBR verschaft de minister structureel informatie over lopende dan wel in voorbereiding zijnde ICT-projecten waarover aan de Tweede Kamer der Staten-Generaal wordt gerapporteerd.
 
-#### Artikel 14. Integriteit
+##### Artikel 14. Integriteit
 
 Het CBR informeert de minister over het gevoerde integriteitsbeleid.
 
-#### Artikel 15. Reglement financieel beheer
+##### Artikel 15. Reglement financieel beheer
 
 Het CBR verstrekt de minister zijn reglement financieel beheer.
 
-#### Artikel 16. Onderzoek door derden ten behoeve van toezicht
+##### Artikel 16. Onderzoek door derden ten behoeve van toezicht
 
 Indien de minister na overleg met het CBR een derde aanwijst om in het kader van het toezicht op het functioneren van het CBR onderzoek te doen naar een door de minister te bepalen onderdeel van het CBR of van de taakuitoefening door het CBR, verstrekt het CBR aan deze derde op de door de derde te bepalen wijze de ter zake van het onderzoek gevraagde informatie voor zover dit niet beperkt is door de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) of contract.
 
-#### Artikel 17. Informatieverstrekking van de minister aan het CBR
+##### Artikel 17. Informatieverstrekking van de minister aan het CBR
 
 De minister verstrekt het CBR informatie met betrekking tot:
 
@@ -208,7 +234,7 @@ De minister verstrekt het CBR informatie met betrekking tot:
 
 - f. klachten over het functioneren van het CBR.
 
-#### Artikel 18. Instemmingstoets minister
+##### Artikel 18. Instemmingstoets minister
 
 1. Het CBR legt tot hem gerichte voorstellen tot taakopdracht door een ander bestuursorgaan tijdig voor aan de minister met het oog op het verkrijgen van diens instemming.
 
@@ -216,23 +242,23 @@ De minister verstrekt het CBR informatie met betrekking tot:
 
 #### § 5. Overige bepalingen
 
-#### Artikel 19. Intrekking besluiten
+##### Artikel 19. Intrekking besluiten
 
 - a. Mandaatbesluit CBR;
 
 - b. [Regeling goedkeuring tarieven CBR](https://wetten.overheid.nl/jci1.3:c:BWBR0008042).
 
-#### Artikel 20. Citeertitel
+##### Artikel 20. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling sturing van en toezicht op het Centraal Bureau Rijvaardigheidsbewijzen.
 
-#### Artikel 21. Overgangsrecht
+##### Artikel 21. Overgangsrecht
 
 1. Op de jaarstukken 2012 worden de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032466&paragraaf=3&artikel=6&z=2013-01-01&g=2013-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0032466&paragraaf=4&artikel=8&z=2013-01-01&g=2013-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0032466&paragraaf=4&artikel=9&z=2013-01-01&g=2013-01-01) niet toegepast voor zover deze bepalingen afwijken van de eerdere met het CBR gemaakte afspraken en het CBR heeft aangegeven voor de jaarstukken 2012 niet te kunnen voldoen aan de onderhavige regeling.
 
 2. Indien het CBR heeft aangegeven voor de jaarstukken 2012 niet te kunnen voldoen aan de onderhavige regeling, geldt voor de jaarstukken 2012de overeenkomst inzake het controleprotocol tussen de Staat der Nederlanden en de Stichting Centraal Bureau Rijvaardigheidsbewijzen d.d. 20 juni 2003.
 
-#### Artikel 22. Inwerkingtreding
+##### Artikel 22. Inwerkingtreding
 
 Deze regeling treedt in werking op 1 januari 2013.
 

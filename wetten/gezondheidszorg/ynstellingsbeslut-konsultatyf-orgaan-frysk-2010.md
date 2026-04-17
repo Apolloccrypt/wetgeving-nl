@@ -1,13 +1,38 @@
 ---
 title: "Ynstellingsbeslút Konsultatyf Orgaan Frysk 2010"
 identifier: "BWBR0027231"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2010-02-18
-laatste_update: 2010-02-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027231"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-02-18"
+last_updated: "2010-02-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027231"
+soort: "ministeriele-regeling"
+stam_id: "10425493"
+version_id: "17148752"
+internal_id: "C23660371"
+label_id: "10400824"
+dtd_version: "2.0"
+original_entry_into_force: "2010-02-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027231/2010-02-18/0"
+intitule_bron: "Stcrt.2010-2170"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-01-28"
+intitule_published: "2010-02-16"
+intitule_in_force: "2010-02-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-2170"
+original_signed_date: "2010-01-28"
+original_published_date: "2010-02-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-2170"
+entry_into_force_date: "2010-02-18"
+jci_1_3: "jci1.3:c:BWBR0027231&z=2010-02-18&g=2010-02-18"
+jci_1_0: "1.0:c:BWBR0027231&g=2010-02-18"
+citeertitel_status: "officieel"
+signed_date: "2010-01-28"
+entry_into_force: "2010-02-18"
 ---
-
 # Ynstellingsbeslút Konsultatyf Orgaan Frysk 2010
 
 Mei it each op kêst 7, fjirde lid, fan it Europeesk Hânfest foar regionale talen of talen fan minderheden (Trb. 1993, 1 en 199; 1998, 20);
@@ -18,17 +43,17 @@ Mei it each op kêst 9, tsiende lid, fan de Bestjoersôfspraak Fryske taal en ku
 
 Beslút:
 
-#### Kêst 1
+##### Kêst 1
 
 Der is in konsultatyf orgaan foar de Fryske taal en kultuer, hjirnei te neamen: it KO Frysk.
 
-#### Kêst 2
+##### Kêst 2
 
 1. It KO Frysk hat as taak om oan de Minister fan Ynlânske Saken en Keninkryksrelaasjes te rapportearjen oer it ferlet en de winsken oangeande de Fryske taal en kultuer yn gearhing mei it Europeesk Hânfest foar regionale talen of talen fan minderheden en mei it Ramtferdrach oangeande it beskermjen fan nasjonale minderheden.
 
 2. It KO Frysk hat fierders as taak om oan de Minister fan Ynlânske Saken en Keninkryksrelaasjes advys út te bringen oer de útfiering fan de Bestjoersôfspraak Fryske taal en kultuer 2001 en fan de útfieringskonvenanten; soks yn gearhing mei it Europeesk Hânfest en it Ramtferdrach dêr’t yn it earste lid op doeld wurdt.
 
-#### Kêst 3
+##### Kêst 3
 
 1. It KO Frysk bestiet út fiif leden, dêrûnder in foarsitter en in vice-foarsitter.
 
@@ -38,7 +63,7 @@ Der is in konsultatyf orgaan foar de Fryske taal en kultuer, hjirnei te neamen: 
 
 4. It KO Frysk kin waarnimmers talitte.
 
-#### Kêst 4
+##### Kêst 4
 
 1. Foar syn wurksumheden kriget de foarsitter fan it KO Frysk in fergoeding fan € 220,- de gearkomste.
 
@@ -48,29 +73,29 @@ Der is in konsultatyf orgaan foar de Fryske taal en kultuer, hjirnei te neamen: 
 
 4. De fergoeding fan eigen ferfier berint de hichte fan it bedrach lykas neamd yn [kêst 2 fan de Reisregeling binnenlân](https://wetten.overheid.nl/jci1.3:c:BWBR0005912&artikel=2).
 
-#### Kêst 5
+##### Kêst 5
 
 1. Ta skriuwer fan it KO Frysk wurdt beneamd: de skriuwer fan it Berie foar it Frysk.
 
 2. It KO Frysk wurdt yn syn wurksumheden bystien troch it buro fan it Berie foar it Frysk.
 
-#### Kêst 6
+##### Kêst 6
 
 It KO Frysk fiert de taken dy’t yn [kêst 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027231&artikel=2&z=2010-02-18&g=2010-02-18) neamd wurde, út op grûn fan in twajierliks wurkprogram, dat yn nau oerlis mei it ministearje fan Ynlânske Saken en Keninkryksrelaasjes opsteld wurdt.
 
-#### Kêst 7
+##### Kêst 7
 
 It behear fan de stikken dy’t ferbân hâlde mei de wurksumheden fan it KO Frysk bart yn oerstimming mei de behearregels, op grûn fan de [Argyfwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) en it [Argyfbeslút 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748). De oanbelangjende stikken wurde nei beëinigjen fan de wurksumheden opburgen yn it argyf fan it ministearje fan Ynlânske Saken en Keninkryksrelaasjes.
 
-#### Kêst 8
+##### Kêst 8
 
 It [Instellingsbesluit consultatief orgaan Friese Taal](https://wetten.overheid.nl/jci1.3:c:BWBR0009329) wurdt ynlutsen.
 
-#### Kêst 9
+##### Kêst 9
 
 Dit beslút giet yn op de twadde dei nei de datum fan útjefte fan de Staatscourant dêr’t it yn pleatst wurdt.
 
-#### Kêst 10
+##### Kêst 10
 
 Dit beslút wurdt oanhelle as: Ynstellingsbeslút Konsultatyf Orgaan Frysk 2010.
 

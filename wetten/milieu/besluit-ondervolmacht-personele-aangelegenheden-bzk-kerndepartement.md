@@ -1,13 +1,38 @@
 ---
 title: "Besluit ondervolmacht personele aangelegenheden BZK Kerndepartement"
 identifier: "BWBR0048700"
-categorie: "Milieu"
-publicatiedatum: 2023-10-06
-laatste_update: 2023-10-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048700"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-10-06"
+last_updated: "2023-10-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048700"
+soort: "ministeriele-regeling"
+stam_id: "16873533"
+version_id: "29656082"
+internal_id: "C42442301"
+label_id: "16785674"
+dtd_version: "2.0"
+original_entry_into_force: "2023-10-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048700/2023-10-06/0"
+intitule_bron: "Stcrt.2023-27071"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-08-03"
+intitule_published: "2023-10-05"
+intitule_in_force: "2023-10-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-27071"
+original_signed_date: "2023-08-03"
+original_published_date: "2023-10-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-27071"
+entry_into_force_date: "2023-10-06"
+jci_1_3: "jci1.3:c:BWBR0048700&z=2023-10-06&g=2023-10-06"
+jci_1_0: "1.0:c:BWBR0048700&g=2023-10-06"
+citeertitel_status: "officieel"
+signed_date: "2023-08-03"
+entry_into_force: "2023-10-06"
 ---
-
 # Besluit ondervolmacht personele aangelegenheden BZK Kerndepartement
 
 Gelet op [artikel 1.2 sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0048593&artikel=1.2) en [artikel 3.4 lid 1 en 2 van het Mandaatbesluit BZK 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048593&artikel=3.4)

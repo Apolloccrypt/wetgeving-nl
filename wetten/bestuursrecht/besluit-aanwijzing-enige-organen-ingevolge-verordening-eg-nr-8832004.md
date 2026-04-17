@@ -1,13 +1,39 @@
 ---
-title: "Besluit aanwijzing enige organen ingevolge Verordening (EG) nr. 883/2004"
+title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 3 augustus 2015, houdende de aanwijzing van enige organen ingevolge Verordening (EG) nr. 883/2004"
 identifier: "BWBR0036921"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-06-23
-laatste_update: 2018-06-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036921"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-06-23"
+last_updated: "2018-06-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036921"
+soort: "ministeriele-regeling"
+stam_id: "13240393"
+version_id: "22631462"
+internal_id: "C32450851"
+label_id: "13208484"
+dtd_version: "2.0"
+original_entry_into_force: "2015-08-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036921/2018-06-23/0"
+intitule_bron: "Stcrt.2015-24117"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-08-03"
+intitule_published: "2015-08-11"
+intitule_in_force: "2015-08-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-24117"
+original_signed_date: "2015-08-03"
+original_published_date: "2015-08-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-24117"
+entry_into_force_date: "2015-08-12"
+jci_1_3: "jci1.3:c:BWBR0036921&z=2018-06-23&g=2018-06-23"
+jci_1_0: "1.0:c:BWBR0036921&g=2018-06-23"
+citeertitel_status: "redactioneel"
+short_title: "Besluit aanwijzing enige organen ingevolge Verordening (EG) nr. 883/2004"
+signed_date: "2015-08-03"
+entry_into_force: "2015-08-12"
 ---
-
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 3 augustus 2015, houdende de aanwijzing van enige organen ingevolge Verordening (EG) nr. 883/2004
 
 Handelend in de hoedanigheid van bevoegde autoriteit als bedoeld in artikel 1, onderdeel m, van [Verordening (EG) nr. 883/2004](32004R0883) van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de sociale zekerheidsstelsels (PbEU L 200);
@@ -16,7 +42,7 @@ Gelet op artikel 1, onderdelen q en r, van Verordening (EG) nr. 883/2004 van het
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van Titel III, Hoofdstuk 1, van [Verordening (EG) nr. 883/2004](32004R0883) van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de sociale zekerheidsstelsels worden aangewezen als bevoegd orgaan in de zin van artikel 1, onderdeel q, onder iii, van genoemde verordening, voor personen bedoeld in [artikel 69, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69):
 
@@ -24,7 +50,7 @@ Voor de toepassing van Titel III, Hoofdstuk 1, van [Verordening (EG) nr. 883/200
 
 - •. voor het verlenen en vergoeden van verstrekkingen tijdens een verblijf in Nederland: Zilveren Kruis Zorgverzekeringen N.V. in Utrecht.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van Titel III, Hoofdstuk 1, van [Verordening (EG) nr. 883/2004](32004R0883) van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de sociale zekerheidsstelsels worden aangewezen in de zin van artikel 1, onderdeel r, van genoemde verordening:
 
@@ -32,11 +58,11 @@ Voor de toepassing van Titel III, Hoofdstuk 1, van [Verordening (EG) nr. 883/200
 
 - •. als orgaan van de woonplaats voor in Nederland wonende buitenlands verzekerden die op grond van de genoemde verordening recht hebben op zorg in Nederland: de Onderlinge Waarborgmaatschappij Centrale Zorgverzekeraars Groep U.A. in Tilburg.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de toepassing van Titel III, Hoofdstuk 1, van [Verordening (EG) nr. 883/2004](32004R0883) van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de sociale zekerheidsstelsels wordt aangewezen als verbindingsorgaan in de zin van artikel 1, tweede lid, onderdeel b, van [Verordening (EG) nr. 987/2009](32009R0987) van het Europees Parlement en de Raad van 16 september 2009 tot vaststelling van de wijze van toepassing van [Verordening (EG) nr. 883/2004](32004R0883) betreffende de coördinatie van de sociale zekerheidsstelsels: het CAK in Den Haag.
 
-#### Artikel 4
+##### Artikel 4
 
 Het [Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 7 februari 2014, kenmerk 195822-116964-Z, houdende de aanwijzing van enige organen ingevolge Verordening (EG) nr. 883/2004](https://wetten.overheid.nl/jci1.3:c:BWBR0034808), wordt ingetrokken met ingang van de datum waarop dit besluit in werking treedt.
 

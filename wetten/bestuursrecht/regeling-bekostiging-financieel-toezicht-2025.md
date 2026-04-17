@@ -1,24 +1,47 @@
 ---
-title: "Regeling bekostiging financieel toezicht 2025"
+title: "Regeling van de Minister van Financiën en de Minister van Sociale Zaken en Werkgelegenheid, van kenmerk 2025-0000145875, directie Financiële Markten, tot vaststelling van de bandbreedtes en tarieven, bedoeld in artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019, voor het jaar 2025 (Regeling bekostiging financieel toezicht 2025)"
 identifier: "BWBR0051095"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-12-03
-laatste_update: 2025-12-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051095"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-12-03"
+last_updated: "2025-12-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051095"
+soort: "ministeriele-regeling"
+stam_id: "17443723"
+version_id: "30759672"
+internal_id: "C44089461"
+label_id: "17346514"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051095/2025-12-03/0"
+intitule_bron: "Stcrt.2025-19430"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-06-12"
+intitule_in_force: "2025-06-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-19430"
+original_published_date: "2025-06-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-19430"
+entry_into_force_date: "2025-06-13"
+jci_1_3: "jci1.3:c:BWBR0051095&z=2025-12-03&g=2025-12-03"
+jci_1_0: "1.0:c:BWBR0051095&g=2025-12-03"
+citeertitel_status: "officieel"
+short_title: "Regeling bekostiging financieel toezicht 2025"
+entry_into_force: "2025-06-13"
 ---
-
 # Regeling van de Minister van Financiën en de Minister van Sociale Zaken en Werkgelegenheid, van kenmerk 2025-0000145875, directie Financiële Markten, tot vaststelling van de bandbreedtes en tarieven, bedoeld in artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019, voor het jaar 2025 (Regeling bekostiging financieel toezicht 2025)
 
 Gelet op [artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&artikel=9);
 
 BESLUITEN:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder geconsolideerde jaarrekening: jaarrekening waarin de activa, passiva, baten en lasten van personen die een groep of groepsdeel vormen en andere in de consolidatie meegenomen personen, als één geheel zijn opgenomen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor het kalenderjaar 2025 worden de bandbreedtes en tarieven, bedoeld in [artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&artikel=9), voor de personen die onder toezicht van de Autoriteit Financiële Markten vallen, bedoeld in [bijlage 1, onderdeel B, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&bijlage=1), als volgt vastgesteld:
 
@@ -168,7 +191,7 @@ In deze regeling wordt verstaan onder geconsolideerde jaarrekening: jaarrekening
 | 15. Verzekeraars: zorg | **Premie-inkomen**: Bruto premie-inkomen in Nederland (BPIN) voor zover afkomstig uit aanvullende ziektekostenverzekering | >€ 2 miljard tot en met € 3 miljard BPIN | in voorkomend geval vermeerderd met: € 4,70 per € miljoen BPIN |
 | 15. Verzekeraars: zorg | **Premie-inkomen**: Bruto premie-inkomen in Nederland (BPIN) voor zover afkomstig uit aanvullende ziektekostenverzekering | >€ 3 miljard BPIN | in voorkomend geval vermeerderd met: € 1,13 per € miljoen BPIN |
 
-#### Artikel 3
+##### Artikel 3
 
 Voor het kalenderjaar 2025 worden de bandbreedtes en tarieven, bedoeld in [artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&artikel=9), voor de personen die onder toezicht van de Nederlandsche Bank vallen, bedoeld in [bijlage 2, onderdeel B, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&bijlage=2) als volgt vastgesteld
 
@@ -255,11 +278,11 @@ Voor het kalenderjaar 2025 worden de bandbreedtes en tarieven, bedoeld in [artik
 | 10. Zorgverzekeraars | **Aantal verzekerden** | Vast tarief | € 2.000 vermeerderd met: |
 | 10. Zorgverzekeraars | **Aantal verzekerden** | >0 verzekerden | € 0,13 per verzekerde |
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling bekostiging financieel toezicht 2025.
 

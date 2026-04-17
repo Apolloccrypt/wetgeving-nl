@@ -1,20 +1,46 @@
 ---
-title: "Mandaatbesluit DGRR Ministerie van Justitie en Veiligheid 2024"
+title: "Besluit van de directeur-generaal Rechtspleging en Rechtshandhaving van het Ministerie van Justitie en Veiligheid van 18 juli 2024 nr. 5607789 houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de directeur-generaal ressorterende functionarissen (Mandaatbesluit DGRR Ministerie van Justitie en Veiligheid 2024)"
 identifier: "BWBR0050069"
-categorie: "Strafrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050069"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050069"
+soort: "ministeriele-regeling"
+stam_id: "17190173"
+version_id: "30262572"
+internal_id: "C43343591"
+label_id: "17098124"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050069/2026-01-01/0"
+intitule_bron: "Stcrt.2024-24455"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-07-18"
+intitule_published: "2024-07-26"
+intitule_in_force: "2024-07-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-24455"
+original_signed_date: "2024-07-18"
+original_published_date: "2024-07-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-24455"
+entry_into_force_date: "2024-07-27"
+jci_1_3: "jci1.3:c:BWBR0050069&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0050069&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Mandaatbesluit DGRR Ministerie van Justitie en Veiligheid 2024"
+signed_date: "2024-07-18"
+entry_into_force: "2024-07-27"
 ---
-
 # Besluit van de directeur-generaal Rechtspleging en Rechtshandhaving van het Ministerie van Justitie en Veiligheid van 18 juli 2024 nr. 5607789 houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de directeur-generaal ressorterende functionarissen (Mandaatbesluit DGRR Ministerie van Justitie en Veiligheid 2024)
 
 Gelet op [artikel 1 van het Mandaatbesluit hoofden clusters Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041688&artikel=1), [artikel 3 van het Mandaatbesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=3), paragraaf 1.3 van de CAO Rijk en [artikel 3.3 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.3);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Van het ingevolge [artikel 1 van het Mandaatbesluit hoofden clusters van Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041688&artikel=1) aan de directeur-generaal Rechtspleging en Rechtshandhaving verleende ondermandaat wordt ten aanzien van de aangelegenheden die hun dienstonderdeel of programma betreffen ondermandaat verleend aan:
 
@@ -32,15 +58,15 @@ Besluit:
 
 2. Van het ingevolge [artikel 1 van het Mandaatbesluit hoofden clusters van Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041688&artikel=1) aan de directeur-generaal Rechtspleging en Rechtshandhaving verleende ondermandaat wordt ten aanzien van de aangelegenheden bedoeld in [artikel 5, tweede lid, onderdeel a, van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=5), ondermandaat verleend aan de directeur Wetgeving en Juridische Zaken.
 
-#### Artikel 2
+##### Artikel 2
 
 Als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk, ten aanzien van de onder hen ressorterende ambtenaren, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050069&bijlage=1&z=2026-01-01&g=2026-01-01) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
 
-#### Artikel 3
+##### Artikel 3
 
 Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050069&bijlage=2&z=2026-01-01&g=2026-01-01) bij dit besluit voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
 
-#### Artikel 4
+##### Artikel 4
 
 Aan de directeur-generaal blijft voorbehouden:
 
@@ -48,19 +74,19 @@ Aan de directeur-generaal blijft voorbehouden:
 
 - b. voor zover het de verlening van ondermandaat aan de in [artikel 1, eerste lid, onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0050069&artikel=1&z=2026-01-01&g=2026-01-01), genoemde functionarissen betreft, de bevoegdheid tot inhuur van interim-management, organisatie- en formatieadvies, communicatieadvies en beleidsadvies.
 
-#### Artikel 5
+##### Artikel 5
 
 De in [artikel 1, eerste lid, onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0050069&artikel=1&z=2026-01-01&g=2026-01-01), genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars, in artikel 1, eerste lid, genoemde bevoegdheden.
 
-#### Artikel 6
+##### Artikel 6
 
 Het [Mandaatbesluit DGRR Ministerie van Justitie en Veiligheid 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041850) wordt ingetrokken.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 9 mei 2024.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Mandaatbesluit DGRR Ministerie van Justitie en Veiligheid 2024.
 

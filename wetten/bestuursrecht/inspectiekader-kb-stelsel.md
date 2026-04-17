@@ -1,13 +1,35 @@
 ---
 title: "Inspectiekader KB-stelsel"
 identifier: "BWBR0050198"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-09-10
-laatste_update: 2024-09-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050198"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-09-10"
+last_updated: "2024-09-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050198"
+soort: "zbo"
+stam_id: "17216703"
+version_id: "30322002"
+internal_id: "C43495901"
+label_id: "17122764"
+dtd_version: "2.0"
+original_entry_into_force: "2024-09-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050198/2024-09-10/0"
+intitule_bron: "Stcrt.2024-29155"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-09-10"
+intitule_in_force: "2024-09-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-29155"
+original_published_date: "2024-09-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-29155"
+entry_into_force_date: "2024-09-10"
+jci_1_3: "jci1.3:c:BWBR0050198&z=2024-09-10&g=2024-09-10"
+jci_1_0: "1.0:c:BWBR0050198&g=2024-09-10"
+citeertitel_status: "redactioneel"
+entry_into_force: "2024-09-10"
 ---
-
 # Inspectiekader KB-stelsel
 
 ### 1. Inleiding

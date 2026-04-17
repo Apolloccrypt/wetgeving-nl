@@ -1,34 +1,60 @@
 ---
-title: "Besluit vaststelling beleidskader inzake subsidie op extern advies verduurzaming scholen"
+title: "Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 15 september 2016, nr. PO/B&S/940015, houdende vaststelling van beleidsregels en subsidieplafond inzake extern advies voor de verduurzaming van scholen in het kader van de Green Deal Scholen (Besluit vaststelling beleidskader inzake subsidie op extern advies verduurzaming scholen)"
 identifier: "BWBR0038565"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-09-15
-laatste_update: 2017-09-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038565"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-09-15"
+last_updated: "2017-09-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038565"
+soort: "ministeriele-regeling"
+stam_id: "13759403"
+version_id: "23588812"
+internal_id: "C33959161"
+label_id: "13725694"
+dtd_version: "2.0"
+original_entry_into_force: "2016-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038565/2017-09-15/0"
+intitule_bron: "Stcrt.2016-52153"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-09-15"
+intitule_published: "2016-09-30"
+intitule_in_force: "2016-09-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-52153"
+original_signed_date: "2016-09-15"
+original_published_date: "2016-09-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-52153"
+entry_into_force_date: "2016-10-01"
+jci_1_3: "jci1.3:c:BWBR0038565&z=2017-09-15&g=2017-09-15"
+jci_1_0: "1.0:c:BWBR0038565&g=2017-09-15"
+citeertitel_status: "officieel"
+short_title: "Besluit vaststelling beleidskader inzake subsidie op extern advies verduurzaming scholen"
+signed_date: "2016-09-15"
+entry_into_force: "2016-10-01"
 ---
-
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 15 september 2016, nr. PO/B&S/940015, houdende vaststelling van beleidsregels en subsidieplafond inzake extern advies voor de verduurzaming van scholen in het kader van de Green Deal Scholen (Besluit vaststelling beleidskader inzake subsidie op extern advies verduurzaming scholen)
 
 Gelet op [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1),
 
 Besluit:
 
-#### Artikel 1. Vaststellen beleidskader
+##### Artikel 1. Vaststellen beleidskader
 
 De beleidsregels inzake subsidieverlening inzake extern advies voor de verduurzaming van scholen in het kader van de Green Deal Scholen, worden vastgesteld overeenkomstig de bijlage bij dit besluit.
 
-#### Artikel 2. Subsidieplafond
+##### Artikel 2. Subsidieplafond
 
 Voor subsidieverlening op grond van dit besluit is een bedrag van € 525.000 beschikbaar.
 
-#### Artikel 3. Inwerkingtreding en vervaldatum
+##### Artikel 3. Inwerkingtreding en vervaldatum
 
 1. Dit besluit treedt in werking met ingang van 1 oktober 2016.
 
 2. Dit besluit vervalt met ingang van 1 oktober 2021.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit vaststelling beleidskader inzake subsidie op extern advies verduurzaming scholen.
 

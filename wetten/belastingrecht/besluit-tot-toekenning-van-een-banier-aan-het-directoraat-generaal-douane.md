@@ -1,13 +1,39 @@
 ---
-title: "Besluit tot toekenning van een banier aan het directoraat-generaal Douane"
+title: "Besluit van 2 december 2021 tot toekenning van een banier aan het directoraat-generaal Douane"
 identifier: "BWBR0046757"
-categorie: "Belastingrecht"
-publicatiedatum: 2022-06-14
-laatste_update: 2022-06-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046757"
+country: "nl"
+rank: "kb"
+publication_date: "2022-06-14"
+last_updated: "2022-06-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046757"
+soort: "KB"
+stam_id: "16380313"
+version_id: "28685822"
+internal_id: "C40476341"
+label_id: "16304774"
+dtd_version: "2.0"
+original_entry_into_force: "2022-06-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046757/2022-06-14/0"
+intitule_bron: "Stb.2022-235"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-12-02"
+intitule_published: "2022-06-15"
+intitule_in_force: "2022-06-15"
+intitule_status: "goed"
+original_publication: "Stb.2022-235"
+original_signed_date: "2021-12-02"
+original_published_date: "2022-06-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2022-235"
+entry_into_force_date: "2022-06-14"
+jci_1_3: "jci1.3:c:BWBR0046757&z=2022-06-14&g=2022-06-14"
+jci_1_0: "1.0:c:BWBR0046757&g=2022-06-14"
+citeertitel_status: "redactioneel"
+short_title: "Besluit tot toekenning van een banier aan het directoraat-generaal Douane"
+signed_date: "2021-12-02"
+entry_into_force: "2022-06-14"
 ---
-
 # Besluit van 2 december 2021 tot toekenning van een banier aan het directoraat-generaal Douane
 
 Op de voordracht van Onze Minister van Financiën van 25 november 2021, kenmerk 2021-0000223900, directoraat-generaal Douane;
@@ -16,11 +42,11 @@ Hebben goedgevonden en verstaan:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1
+##### Artikel 1
 
 Het directoraat-generaal Douane voert een banier, bestaande uit een banierdoek, een banierstok met top.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het banierdoek is een doek van 40 duimen in het vierkant (101,6 x 101,6 cm), van witte moirézijde, omzoomd met gouden franje van 35 mm in het zicht.
 
@@ -28,7 +54,7 @@ Het directoraat-generaal Douane voert een banier, bestaande uit een banierdoek, 
 
 3. Op de achterzijde is in het midden van het banierdoek het huidige Rijkswapen van het Koninkrijk der Nederlanden afgebeeld. De hoeken van de kwartieren zijn versierd met oranjetakken en oranjeappelen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De banierstok is uitgevoerd als sponton in keel en is 7,5 voet (228,6 cm) groot zonder de top.
 
@@ -38,11 +64,11 @@ Het directoraat-generaal Douane voert een banier, bestaande uit een banierdoek, 
 
 4. De overgang van de kling naar de stok is geaccentueerd met een goud genette bol met kwast met een kern van azuurkleurige franje en buitenzijde met franjes van gevlochten gouddraad.
 
-#### Artikel 4
+##### Artikel 4
 
 Het banierdoek is met een gekanteelde broeking van witte moirézijde met zeven kantelen om de banierstok geschoven.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van 14 juni 2022.
 

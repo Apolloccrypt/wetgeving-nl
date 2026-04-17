@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanwijzing categorieën duurzame energieproductie 2012"
+title: "Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 17 februari 2012, nr. WJZ/12001252, houdende aanwijzing van categorieën van productie-installaties voor de stimulering van duurzame energieproductie in het jaar 2012 (Regeling aanwijzing categorieën duurzame energieproductie 2012)"
 identifier: "BWBR0031291"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-02-13
-laatste_update: 2014-02-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031291"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-02-13"
+last_updated: "2014-02-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031291"
+soort: "ministeriele-regeling"
+stam_id: "11671533"
+version_id: "19259732"
+internal_id: "C26871491"
+label_id: "11646104"
+dtd_version: "2.0"
+original_entry_into_force: "2012-03-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031291/2014-02-13/0"
+intitule_bron: "Stcrt.2012-3609"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-02-17"
+intitule_published: "2012-02-21"
+intitule_in_force: "2012-02-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-3609"
+original_signed_date: "2012-02-17"
+original_published_date: "2012-02-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-3609"
+entry_into_force_date: "2012-03-13"
+jci_1_3: "jci1.3:c:BWBR0031291&z=2014-02-13&g=2014-02-13"
+jci_1_0: "1.0:c:BWBR0031291&g=2014-02-13"
+citeertitel_status: "officieel"
+short_title: "Regeling aanwijzing categorieën duurzame energieproductie 2012"
+signed_date: "2012-02-17"
+entry_into_force: "2012-03-13"
 ---
-
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 17 februari 2012, nr. WJZ/12001252, houdende aanwijzing van categorieën van productie-installaties voor de stimulering van duurzame energieproductie in het jaar 2012 (Regeling aanwijzing categorieën duurzame energieproductie 2012)
 
 Gelet op de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=1), [2, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=3), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=8), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), [14, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), [15, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=15), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=25), [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=28), [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=29), [31, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31), [32, tweede, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=32), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=42), [44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=44), [45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=45), [47, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=47), [48, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=48), [56, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=56), [59, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=59), [61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=61), en [62, vierde lid, van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=62);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -48,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Algemene bepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het subsidieplafond voor het verlenen van subsidie voor de productie van hernieuwbare elektriciteit, hernieuwbaar gas en hernieuwbare warmte op grond van de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.1&artikel=4&z=2014-02-13&g=2014-02-13), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.2&artikel=9&z=2014-02-13&g=2014-02-13), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.3&artikel=14&z=2014-02-13&g=2014-02-13), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.4&artikel=19&z=2014-02-13&g=2014-02-13), [24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.1&artikel=24&z=2014-02-13&g=2014-02-13), [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.2&artikel=28&z=2014-02-13&g=2014-02-13), [32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.3&artikel=32&z=2014-02-13&g=2014-02-13), [36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.4&artikel=36&z=2014-02-13&g=2014-02-13), [49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.1&artikel=49&z=2014-02-13&g=2014-02-13), [54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.2&artikel=54&z=2014-02-13&g=2014-02-13), [59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.3&artikel=59&z=2014-02-13&g=2014-02-13), [64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.4&artikel=64&z=2014-02-13&g=2014-02-13), [76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.1&artikel=76&z=2014-02-13&g=2014-02-13), [81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.2&artikel=81&z=2014-02-13&g=2014-02-13), [86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.3&artikel=86&z=2014-02-13&g=2014-02-13), [91, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.4&artikel=91&z=2014-02-13&g=2014-02-13), [96, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.6&artikel=96&z=2014-02-13&g=2014-02-13), [101, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.7&artikel=101&z=2014-02-13&g=2014-02-13), [106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.8&artikel=106&z=2014-02-13&g=2014-02-13), [111, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.9&artikel=111&z=2014-02-13&g=2014-02-13), [116, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.10&artikel=116&z=2014-02-13&g=2014-02-13), [121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.11&artikel=121&z=2014-02-13&g=2014-02-13) en [126, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.12&artikel=126&z=2014-02-13&g=2014-02-13), die is aangevraagd in de periode van 13 maart 2012, 9:00 uur, tot 27 december 2012, 17:00 uur, bedraagt € 1.700.000.000,00.
 
@@ -60,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 5. Een subsidie als bedoeld in het eerste lid van meer dan € 400.000.000 wordt verleend onder de opschortende voorwaarde dat binnen zes weken na afgifte van deze beschikking een uitvoeringsovereenkomst overeenkomstig de overeenkomst opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&bijlage=1&z=2014-02-13&g=2014-02-13) tot stand is gekomen tussen de Staat en de subsidie-aanvrager.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Productie-installaties als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.1&artikel=4&z=2014-02-13&g=2014-02-13), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.2&artikel=9&z=2014-02-13&g=2014-02-13), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.2&artikel=28&z=2014-02-13&g=2014-02-13), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.3&artikel=32&z=2014-02-13&g=2014-02-13) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.4&artikel=36&z=2014-02-13&g=2014-02-13) worden aangewezen als productie-installaties als bedoeld in [artikel 15, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=15).
 
@@ -76,7 +102,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 3.1. Waterkracht
 
-#### Artikel 4
+##### Artikel 4
 
 1. De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit geproduceerd door een productie-installatie waarmee door hydro-mechanisch-elektrische omzetting hernieuwbare elektriciteit wordt geproduceerd uit potentiële dan wel kinetische energie van stromend water dat niet specifiek ten behoeve van de elektriciteitsproductie omhoog is gepompt:
 
@@ -92,13 +118,13 @@ In deze regeling wordt verstaan onder:
 
 3. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het formulier dat is opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&bijlage=2&z=2014-02-13&g=2014-02-13).
 
-#### Artikel 5
+##### Artikel 5
 
 1. Subsidie als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.1&artikel=4&z=2014-02-13&g=2014-02-13), wordt voor een periode van 15 jaar verstrekt.
 
 2. De subsidie-ontvanger neemt de productie-installatie, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.1&artikel=4&z=2014-02-13&g=2014-02-13), binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
 
-#### Artikel 6
+##### Artikel 6
 
 Het maximaal aantal vollasturen voor een productie-installatie als bedoeld in:
 
@@ -106,7 +132,7 @@ Het maximaal aantal vollasturen voor een productie-installatie als bedoeld in:
 
 - b. [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.1&artikel=4&z=2014-02-13&g=2014-02-13), bedraagt 4800 uren per jaar.
 
-#### Artikel 7
+##### Artikel 7
 
 Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.1&artikel=4&z=2014-02-13&g=2014-02-13), bedraagt voor een productie-installatie als bedoeld in:
 
@@ -114,13 +140,13 @@ Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid
 
 - b. [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.1&artikel=4&z=2014-02-13&g=2014-02-13), in de periode, genoemd in artikel 4, tweede lid, onderdeel b: € 0,071 per kWh.
 
-#### Artikel 8
+##### Artikel 8
 
 De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 4, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.1&artikel=4&z=2014-02-13&g=2014-02-13), bedraagt € 0,045 per kWh.
 
 #### § 3.2. Afvalwater- of rioolwaterzuiveringsinstallaties
 
-#### Artikel 9
+##### Artikel 9
 
 1. De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit geproduceerd door een productie-installatie waarmee hernieuwbare elektriciteit wordt geproduceerd uit gas dat vrijkomt tengevolge van biologische afbraakreacties bij de zuivering van huishoudelijk afvalwater, bedrijfsafvalwater en afvloeiend hemelwater, gebruik makende van thermische drukhydrolyse.
 
@@ -128,27 +154,27 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wet
 
 3. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het formulier dat is opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&bijlage=3&z=2014-02-13&g=2014-02-13).
 
-#### Artikel 10
+##### Artikel 10
 
 1. Subsidie als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.2&artikel=9&z=2014-02-13&g=2014-02-13), wordt voor een periode van 12 jaar verstrekt.
 
 2. De subsidie-ontvanger neemt de productie-installatie, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.2&artikel=9&z=2014-02-13&g=2014-02-13), binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
 
-#### Artikel 11
+##### Artikel 11
 
 Het maximaal aantal vollasturen voor een productie-installatie als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.2&artikel=9&z=2014-02-13&g=2014-02-13), bedraagt 8000 uren per jaar.
 
-#### Artikel 12
+##### Artikel 12
 
 Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.2&artikel=9&z=2014-02-13&g=2014-02-13), bedraagt in de periode, genoemd in artikel 9, tweede lid, € 0,096 per kWh.
 
-#### Artikel 13
+##### Artikel 13
 
 De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.2&artikel=9&z=2014-02-13&g=2014-02-13), bedraagt € 0,045 per kWh.
 
 #### § 3.3. Wind op land
 
-#### Artikel 14
+##### Artikel 14
 
 1. De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie die niet is opgericht in de territoriale zee of in de Nederlandse exclusieve economische zone:
 
@@ -166,13 +192,13 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wet
 
 3. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het formulier dat is opgenomen in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&bijlage=4&z=2014-02-13&g=2014-02-13).
 
-#### Artikel 15
+##### Artikel 15
 
 1. Subsidie als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.3&artikel=14&z=2014-02-13&g=2014-02-13), wordt voor een periode van 15 jaar verstrekt.
 
 2. De subsidie-ontvanger neemt de productie-installatie, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.3&artikel=14&z=2014-02-13&g=2014-02-13), binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
 
-#### Artikel 16
+##### Artikel 16
 
 Het maximaal aantal vollasturen voor een productie-installatie:
 
@@ -182,7 +208,7 @@ Het maximaal aantal vollasturen voor een productie-installatie:
 
 - c. als bedoeld in [artikel 14, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.3&artikel=14&z=2014-02-13&g=2014-02-13), bedraagt 2400 uren per jaar.
 
-#### Artikel 17
+##### Artikel 17
 
 Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in:
 
@@ -190,7 +216,7 @@ Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid
 
 - b. [artikel 14, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.3&artikel=14&z=2014-02-13&g=2014-02-13), bedraagt in de periode, genoemd in artikel 14, tweede lid, onderdeel b, € 0,120 per kWh.
 
-#### Artikel 18
+##### Artikel 18
 
 De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.3&artikel=14&z=2014-02-13&g=2014-02-13), bedraagt voor een productie-installatie als bedoeld in:
 
@@ -202,7 +228,7 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wet
 
 #### § 3.4. Wind in meer
 
-#### Artikel 19
+##### Artikel 19
 
 1. De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie die niet is opgericht in de territoriale zee of in de Nederlandse exclusieve economische zone en waarvan de fundering in een meer van minimaal één vierkante kilometer staat.
 
@@ -210,21 +236,21 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wet
 
 3. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het formulier dat is opgenomen in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&bijlage=4&z=2014-02-13&g=2014-02-13).
 
-#### Artikel 20
+##### Artikel 20
 
 1. Subsidie als bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.4&artikel=19&z=2014-02-13&g=2014-02-13), wordt voor een periode van 15 jaar verstrekt.
 
 2. De subsidie-ontvanger neemt de productie-installatie, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.4&artikel=19&z=2014-02-13&g=2014-02-13), binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
 
-#### Artikel 21
+##### Artikel 21
 
 Het maximaal aantal vollasturen voor een productie-installatie als bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.4&artikel=19&z=2014-02-13&g=2014-02-13), bedraagt 2480 uren per jaar.
 
-#### Artikel 22
+##### Artikel 22
 
 Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.4&artikel=19&z=2014-02-13&g=2014-02-13), bedraagt in de periode, genoemd in artikel 19, tweede lid, € 0,154 per kWh.
 
-#### Artikel 23
+##### Artikel 23
 
 De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.4&artikel=19&z=2014-02-13&g=2014-02-13), bedraagt € 0,052 per kWh.
 
@@ -234,95 +260,95 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wet
 
 #### § 3.5.1.1. Wind op zee
 
-#### Artikel 24
+##### Artikel 24
 
 1. De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee.
 
 2. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het formulier dat is opgenomen in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&bijlage=4&z=2014-02-13&g=2014-02-13).
 
-#### Artikel 25
+##### Artikel 25
 
 1. Subsidie als bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.1&artikel=24&z=2014-02-13&g=2014-02-13), wordt voor een periode van 15 jaar verstrekt.
 
 2. De subsidie-ontvanger neemt de productie-installatie, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.1&artikel=24&z=2014-02-13&g=2014-02-13), binnen 5 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
 
-#### Artikel 26
+##### Artikel 26
 
 Het maximaal aantal vollasturen voor een productie-installatie als bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.1&artikel=24&z=2014-02-13&g=2014-02-13), bedraagt 3200 uren per jaar.
 
-#### Artikel 27
+##### Artikel 27
 
 De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.1&artikel=24&z=2014-02-13&g=2014-02-13), bedraagt € 0,052623 per kWh.
 
 #### § 3.5.1.2. Fotovoltaïsche zonnepanelen
 
-#### Artikel 28
+##### Artikel 28
 
 1. De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit uit zonlicht met behulp van fotovoltaïsche zonnepanelen met een vermogen groter dan of gelijk aan 15 kWp, die is aangesloten op een elektriciteitsnet via een aansluiting met een totale maximale doorlaatwaarde van meer dan 3*80 A.
 
 2. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het formulier dat is opgenomen in de bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&bijlage=5&z=2014-02-13&g=2014-02-13).
 
-#### Artikel 29
+##### Artikel 29
 
 1. Subsidie als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.2&artikel=28&z=2014-02-13&g=2014-02-13), wordt voor een periode van 15 jaar verstrekt.
 
 2. De subsidie-ontvanger neemt de productie-installatie, bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.2&artikel=28&z=2014-02-13&g=2014-02-13), binnen 3 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
 
-#### Artikel 30
+##### Artikel 30
 
 Het maximaal aantal vollasturen voor een productie-installatie als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.2&artikel=28&z=2014-02-13&g=2014-02-13), bedraagt 1000 uren per jaar.
 
-#### Artikel 31
+##### Artikel 31
 
 De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.2&artikel=28&z=2014-02-13&g=2014-02-13), bedraagt: € 0,057 per kWh.
 
 #### § 3.5.1.3. Osmose
 
-#### Artikel 32
+##### Artikel 32
 
 1. De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit geproduceerd door een productie-installatie waarmee hernieuwbare elektriciteit wordt gegenereerd uitsluitend ten gevolge van het verschil in zoutconcentratie tussen twee watermassa’s.
 
 2. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het formulier dat is opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&bijlage=2&z=2014-02-13&g=2014-02-13).
 
-#### Artikel 33
+##### Artikel 33
 
 1. Subsidie als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.3&artikel=32&z=2014-02-13&g=2014-02-13), wordt voor een periode van 15 jaar verstrekt.
 
 2. De subsidie-ontvanger neemt de productie-installatie, bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.3&artikel=32&z=2014-02-13&g=2014-02-13), binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
 
-#### Artikel 34
+##### Artikel 34
 
 Het maximaal aantal vollasturen voor een productie-installatie als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.3&artikel=32&z=2014-02-13&g=2014-02-13), bedraagt 8000 uren per jaar.
 
-#### Artikel 35
+##### Artikel 35
 
 De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.3&artikel=32&z=2014-02-13&g=2014-02-13), bedraagt € 0,045 per kWh.
 
 #### § 3.5.1.4. Vrije stromingsenergie
 
-#### Artikel 36
+##### Artikel 36
 
 1. De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit geproduceerd door een productie-installatie waarmee door hydro-mechanisch-elektrische omzetting hernieuwbare elektriciteit wordt geproduceerd uit potentiële dan wel kinetische energie van stromend water dat niet specifiek ten behoeve van de elektriciteitsproductie omhoog is gepompt in installaties met een valhoogte kleiner dan 50 centimeter.
 
 2. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het formulier dat is opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&bijlage=2&z=2014-02-13&g=2014-02-13).
 
-#### Artikel 37
+##### Artikel 37
 
 1. Subsidie als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.4&artikel=36&z=2014-02-13&g=2014-02-13), wordt voor een periode van 15 jaar verstrekt.
 
 2. De subsidie-ontvanger neemt de productie-installatie, bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.4&artikel=36&z=2014-02-13&g=2014-02-13), binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
 
-#### Artikel 38
+##### Artikel 38
 
 Het maximaal aantal vollasturen voor een productie-installatie als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.4&artikel=36&z=2014-02-13&g=2014-02-13), bedraagt 2800 uren per jaar.
 
-#### Artikel 39
+##### Artikel 39
 
 De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.4&artikel=36&z=2014-02-13&g=2014-02-13), bedraagt € 0,045 per kWh.
 
 #### § 3.5.2. Vrije categorie fase 1
 
-#### Artikel 40
+##### Artikel 40
 
 Aanvragen om subsidie als bedoeld in:
 
@@ -344,7 +370,7 @@ Aanvragen om subsidie als bedoeld in:
 
 worden ontvangen in de periode van 13 maart 2012, 9:00 uur, tot 1 mei 2012, 17:00 uur.
 
-#### Artikel 41
+##### Artikel 41
 
 1. Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 40, onderdelen a, b, f, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.2&artikel=40&z=2014-02-13&g=2014-02-13) bedraagt in de periode, genoemd in artikel 40: € 0,070 per kWh.
 
@@ -352,7 +378,7 @@ worden ontvangen in de periode van 13 maart 2012, 9:00 uur, tot 1 mei 2012, 17:0
 
 #### § 3.5.3. Vrije categorie fase 2
 
-#### Artikel 42
+##### Artikel 42
 
 Aanvragen om subsidie als bedoeld in:
 
@@ -374,7 +400,7 @@ Aanvragen om subsidie als bedoeld in:
 
 worden ontvangen in de periode van 1 mei 2012, 17:00 uur, tot 18 juni 2012, 17:00 uur.
 
-#### Artikel 43
+##### Artikel 43
 
 1. Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 42, onderdelen a, b, f, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.3&artikel=42&z=2014-02-13&g=2014-02-13) bedraagt in de periode, genoemd in artikel 42: € 0,090 per kWh.
 
@@ -382,7 +408,7 @@ worden ontvangen in de periode van 1 mei 2012, 17:00 uur, tot 18 juni 2012, 17:0
 
 #### § 3.5.4. Vrije categorie fase 3
 
-#### Artikel 44
+##### Artikel 44
 
 Aanvragen om subsidie als bedoeld in:
 
@@ -400,7 +426,7 @@ Aanvragen om subsidie als bedoeld in:
 
 worden ontvangen in de periode van 18 juni 2012, 17:00 uur, tot 3 september 2012, 17:00 uur.
 
-#### Artikel 45
+##### Artikel 45
 
 1. Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 44, onderdelen a, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.4&artikel=44&z=2014-02-13&g=2014-02-13) bedraagt voor aanvragen ontvangen in de periode, genoemd in artikel 44: € 0,110 per kWh.
 
@@ -408,7 +434,7 @@ worden ontvangen in de periode van 18 juni 2012, 17:00 uur, tot 3 september 2012
 
 #### § 3.5.5. Vrije categorie fases 4 en 5
 
-#### Artikel 46
+##### Artikel 46
 
 Aanvragen om subsidie als bedoeld in:
 
@@ -422,7 +448,7 @@ Aanvragen om subsidie als bedoeld in:
 
 worden ontvangen in de periode van 3 september, 17:00 uur, tot 27 december 2012, 17:00 uur.
 
-#### Artikel 47
+##### Artikel 47
 
 1. Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 46, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.5&artikel=46&z=2014-02-13&g=2014-02-13), bedraagt voor aanvragen ontvangen in de periode:
 
@@ -438,7 +464,7 @@ worden ontvangen in de periode van 3 september, 17:00 uur, tot 27 december 2012,
 
 #### § 3.6. Correctiebedragen voorschotverlening productie van hernieuwbare elektriciteit
 
-#### Artikel 48
+##### Artikel 48
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom van onderstaande tabel genoemde artikel, worden voor 2012 vastgesteld voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14) het in de tweede kolom genoemde bedrag in € per kWh en voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, het in het derde kolom genoemde bedrag in € per kWh.
 
@@ -459,7 +485,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 
 #### § 4.1. Biomassavergisting
 
-#### Artikel 49
+##### Artikel 49
 
 1. De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbaar gas geproduceerd door:
 
@@ -481,17 +507,17 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 
 4. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het formulier dat is opgenomen in de bij deze regeling behorende [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&bijlage=6&z=2014-02-13&g=2014-02-13).
 
-#### Artikel 50
+##### Artikel 50
 
 1. Subsidie als bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.1&artikel=49&z=2014-02-13&g=2014-02-13), wordt voor een periode van 12 jaar verstrekt.
 
 2. De subsidie-ontvanger neemt de productie-installatie, bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.1&artikel=49&z=2014-02-13&g=2014-02-13), binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
 
-#### Artikel 51
+##### Artikel 51
 
 Het maximaal aantal vollasturen voor een productie-installatie bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.1&artikel=49&z=2014-02-13&g=2014-02-13), bedraagt 8000 uren per jaar.
 
-#### Artikel 52
+##### Artikel 52
 
 Het basisbedrag, bedoeld in [artikel 28 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=28), bedraagt voor subsidie als bedoeld in:
 
@@ -501,13 +527,13 @@ Het basisbedrag, bedoeld in [artikel 28 van het besluit](https://wetten.overheid
 
 - c. [artikel 49, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.1&artikel=49&z=2014-02-13&g=2014-02-13), in de periode, genoemd in artikel 49, derde lid, onderdeel b: € 0,708 per Nm3.
 
-#### Artikel 53
+##### Artikel 53
 
 De basisenergieprijs, bedoeld in [artikel 29 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=29), voor subsidie als bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.1&artikel=49&z=2014-02-13&g=2014-02-13), bedraagt € 0,187 per Nm3.
 
 #### § 4.2. Biomassavergisting hubs hernieuwbare warmte en hernieuwbare elektriciteit
 
-#### Artikel 54
+##### Artikel 54
 
 1. De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbaar gas geproduceerd door:
 
@@ -529,13 +555,13 @@ De basisenergieprijs, bedoeld in [artikel 29 van het besluit](https://wetten.ove
 
 4. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het formulier dat is opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&bijlage=3&z=2014-02-13&g=2014-02-13).
 
-#### Artikel 55
+##### Artikel 55
 
 1. Subsidie als bedoeld in [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.2&artikel=54&z=2014-02-13&g=2014-02-13), wordt voor een periode van 12 jaar verstrekt.
 
 2. De subsidie-ontvanger neemt de productie-installatie, bedoeld in [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.2&artikel=54&z=2014-02-13&g=2014-02-13), binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
 
-#### Artikel 56
+##### Artikel 56
 
 Het maximaal aantal vollasturen bedraagt voor een productie-installatie bedoeld in:
 
@@ -543,7 +569,7 @@ Het maximaal aantal vollasturen bedraagt voor een productie-installatie bedoeld 
 
 - b. [artikel 54, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.2&artikel=54&z=2014-02-13&g=2014-02-13): 5935 uren per jaar.
 
-#### Artikel 57
+##### Artikel 57
 
 Het basisbedrag, bedoeld in [artikel 28 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=28), bedraagt voor subsidie als bedoeld in:
 
@@ -555,7 +581,7 @@ Het basisbedrag, bedoeld in [artikel 28 van het besluit](https://wetten.overheid
 
 - d. [artikel 54, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.2&artikel=54&z=2014-02-13&g=2014-02-13), in de periode, genoemd in artikel 54, derde lid, onderdeel b: € 22,5 per GJ.
 
-#### Artikel 58
+##### Artikel 58
 
 1. De basisenergieprijs, bedoeld in [artikel 29 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=29), voor subsidie als bedoeld in [artikel 54, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.2&artikel=54&z=2014-02-13&g=2014-02-13), bedraagt € 4,1 per GJ.
 
@@ -563,7 +589,7 @@ Het basisbedrag, bedoeld in [artikel 28 van het besluit](https://wetten.overheid
 
 #### § 4.3. Biomassavergassing
 
-#### Artikel 59
+##### Artikel 59
 
 1. De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbaar gas geproduceerd door een productie-installatie voor de productie van hernieuwbaar gas uit biomassa als bedoeld in de NTA 8003: 2008, met uitzondering van biomassa als bedoeld in de nummers 100, 150, 170 tot en met 179, 500, 550 tot en met 559 van de NTA 8003: 2008, door middel van vergassing.
 
@@ -573,27 +599,27 @@ Het basisbedrag, bedoeld in [artikel 28 van het besluit](https://wetten.overheid
 
 4. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het formulier dat is opgenomen in de bij deze regeling behorende [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&bijlage=6&z=2014-02-13&g=2014-02-13).
 
-#### Artikel 60
+##### Artikel 60
 
 1. Subsidie als bedoeld in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.3&artikel=59&z=2014-02-13&g=2014-02-13), wordt voor een periode van 12 jaar verstrekt.
 
 2. De subsidie-ontvanger neemt de productie-installatie, bedoeld in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.3&artikel=59&z=2014-02-13&g=2014-02-13), binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
 
-#### Artikel 61
+##### Artikel 61
 
 Het maximaal aantal vollasturen voor een productie-installatie bedoeld in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.3&artikel=59&z=2014-02-13&g=2014-02-13), bedraagt 7500 uren per jaar.
 
-#### Artikel 62
+##### Artikel 62
 
 Het basisbedrag, bedoeld in [artikel 28 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=28), bedraagt voor subsidie als bedoeld in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.3&artikel=59&z=2014-02-13&g=2014-02-13), in de periode genoemd in artikel 59, derde lid, € 0,975 per Nm3.
 
-#### Artikel 63
+##### Artikel 63
 
 De basisenergieprijs, bedoeld in [artikel 29 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=29), voor subsidie als bedoeld in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.3&artikel=59&z=2014-02-13&g=2014-02-13), bedraagt € 0,187 per Nm3.
 
 #### § 4.4. Verlengde levensduur bestaande installaties
 
-#### Artikel 64
+##### Artikel 64
 
 1. De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbaar gas geproduceerd door een bestaande productie-installatie van ten minste 8,5 jaar oud:
 
@@ -611,17 +637,17 @@ De basisenergieprijs, bedoeld in [artikel 29 van het besluit](https://wetten.ove
 
 4. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het formulier dat is opgenomen in de bij deze regeling behorende [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&bijlage=6&z=2014-02-13&g=2014-02-13).
 
-#### Artikel 65
+##### Artikel 65
 
 1. Subsidie als bedoeld in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.4&artikel=64&z=2014-02-13&g=2014-02-13), wordt voor een periode van 12 jaar, die niet eerder ingaat dan nadat de aanvraag om subsidie is gedaan, verstrekt.
 
 2. De subsidie-ontvanger neemt de productie-installatie, bedoeld in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.4&artikel=64&z=2014-02-13&g=2014-02-13), binnen 3 jaar na de datum van de beschikking tot subsidieverlening opnieuw in gebruik.
 
-#### Artikel 66
+##### Artikel 66
 
 Het maximaal aantal vollasturen voor een productie-installatie als bedoeld in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.4&artikel=64&z=2014-02-13&g=2014-02-13), bedraagt 8.000 uren per jaar.
 
-#### Artikel 67
+##### Artikel 67
 
 Het basisbedrag, bedoeld in [artikel 28 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=28), bedraagt voor subsidie als bedoeld in:
 
@@ -629,7 +655,7 @@ Het basisbedrag, bedoeld in [artikel 28 van het besluit](https://wetten.overheid
 
 - b. [artikel 64, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.4&artikel=64&z=2014-02-13&g=2014-02-13), in de periode, genoemd in artikel 64, derde lid, onderdeel b, € 0,551 per Nm3.
 
-#### Artikel 68
+##### Artikel 68
 
 De basisenergieprijs, bedoeld in [artikel 29 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=29), voor subsidie als bedoeld in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.4&artikel=64&z=2014-02-13&g=2014-02-13), bedraagt € 0,187 per Nm3.
 
@@ -637,7 +663,7 @@ De basisenergieprijs, bedoeld in [artikel 29 van het besluit](https://wetten.ove
 
 #### § 4.5.1. Vrije categorie fase 1
 
-#### Artikel 69
+##### Artikel 69
 
 Aanvragen om subsidie als bedoeld in:
 
@@ -651,7 +677,7 @@ Aanvragen om subsidie als bedoeld in:
 
 worden ontvangen in de periode van 13 maart 2012, 9:00 uur, tot 1 mei 2012, 17:00 uur.
 
-#### Artikel 70
+##### Artikel 70
 
 Het basisbedrag, bedoeld in [artikel 28 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=28), voor subsidie:
 
@@ -661,7 +687,7 @@ Het basisbedrag, bedoeld in [artikel 28 van het besluit](https://wetten.overheid
 
 #### § 4.5.2. Vrije categorie fase 2
 
-#### Artikel 71
+##### Artikel 71
 
 Aanvragen om subsidie als bedoeld in:
 
@@ -671,17 +697,17 @@ Aanvragen om subsidie als bedoeld in:
 
 worden ontvangen in de periode van 1 mei 2012, 17:00 uur, tot 18 juni 2012, 17:00 uur.
 
-#### Artikel 72
+##### Artikel 72
 
 Het basisbedrag, bedoeld in [artikel 28 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=28), voor subsidie als bedoeld in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.5&sub-paragraaf=4.5.2&artikel=71&z=2014-02-13&g=2014-02-13) bedraagt in de periode, genoemd in artikel 71: € 0,6207 per Nm3.
 
 #### § 4.5.3. Vrije categorie fases 3 en 4
 
-#### Artikel 73
+##### Artikel 73
 
 Aanvragen om subsidie als bedoeld in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.3&artikel=59&z=2014-02-13&g=2014-02-13), worden ontvangen in de periode van 18 juni 2012, 17:00 uur, tot 5 november 2012, 17:00 uur.
 
-#### Artikel 74
+##### Artikel 74
 
 Het basisbedrag, bedoeld in [artikel 28 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=28), voor subsidie als bedoeld in [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=4&sub-paragraaf=4.5&sub-paragraaf=4.5.3&artikel=73&z=2014-02-13&g=2014-02-13) bedraagt voor aanvragen ontvangen in de periode:
 
@@ -691,7 +717,7 @@ Het basisbedrag, bedoeld in [artikel 28 van het besluit](https://wetten.overheid
 
 #### § 4.6. Correctiebedragen voorschotverlening productie van hernieuwbaar gas
 
-#### Artikel 75
+##### Artikel 75
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2012 vastgesteld voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31) het in de tweede kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in [artikel 31, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=3&sub-paragraaf=3.5&sub-paragraaf=3.5.1&sub-paragraaf=3.5.1.2&artikel=31&z=2014-02-13&g=2014-02-13), het in het derde kolom genoemde bedrag.
 
@@ -709,7 +735,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 
 #### § 5.1. Ketel vaste biomassa warmte
 
-#### Artikel 76
+##### Artikel 76
 
 1. De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare warmte geproduceerd door een ketel met een nominaal thermisch vermogen groter dan of gelijk aan 0,5 MW, voor de productie van warmte uit verbranding van vaste of vloeibare biomassa als bedoeld in de NTA 8003: 2008, met uitzondering van biomassa als bedoeld in de nummers 100, 150, 170 tot en met 179, 500, 550 tot en met 559 van de NTA 8003: 2008.
 
@@ -721,27 +747,27 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 
 5. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het formulier dat is opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&bijlage=3&z=2014-02-13&g=2014-02-13).
 
-#### Artikel 77
+##### Artikel 77
 
 1. Subsidie als bedoeld in [artikel 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.1&artikel=76&z=2014-02-13&g=2014-02-13), wordt voor een periode van 12 jaar verstrekt.
 
 2. De subsidie-ontvanger neemt de productie-installatie, bedoeld in [artikel 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.1&artikel=76&z=2014-02-13&g=2014-02-13), binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
 
-#### Artikel 78
+##### Artikel 78
 
 Het maximaal aantal vollasturen voor een productie-installatie bedoeld in [artikel 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.1&artikel=76&z=2014-02-13&g=2014-02-13), bedraagt 7000 uren per jaar.
 
-#### Artikel 79
+##### Artikel 79
 
 Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=44), bedraagt voor subsidie als bedoeld in [artikel 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.1&artikel=76&z=2014-02-13&g=2014-02-13), in de periode genoemd in artikel 76, vierde lid, € 10,9 per GJ.
 
-#### Artikel 80
+##### Artikel 80
 
 De basisenergieprijs, bedoeld in [artikel 45 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=45), voor subsidie als bedoeld in [artikel 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.1&artikel=76&z=2014-02-13&g=2014-02-13), bedraagt € 7,0 per GJ.
 
 #### § 5.2. Geothermie warmte
 
-#### Artikel 81
+##### Artikel 81
 
 1. De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare warmte geproduceerd door een productie-installatie waarmee hernieuwbare warmte wordt geproduceerd uit warmte die uitsluitend afkomstig is van een of meerdere geothermische bronnen met een diepte van minimaal 500 meter.
 
@@ -749,27 +775,27 @@ De basisenergieprijs, bedoeld in [artikel 45 van het besluit](https://wetten.ove
 
 3. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het formulier dat is opgenomen in de bij deze regeling behorende [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&bijlage=7&z=2014-02-13&g=2014-02-13).
 
-#### Artikel 82
+##### Artikel 82
 
 1. Subsidie als bedoeld in [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.2&artikel=81&z=2014-02-13&g=2014-02-13), wordt voor een periode van 15 jaar verstrekt.
 
 2. De subsidie-ontvanger neemt de productie-installatie, bedoeld in [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.2&artikel=81&z=2014-02-13&g=2014-02-13), binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
 
-#### Artikel 83
+##### Artikel 83
 
 Het maximaal aantal vollasturen voor een productie-installatie bedoeld in [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.2&artikel=81&z=2014-02-13&g=2014-02-13), bedraagt 7000 uren per jaar.
 
-#### Artikel 84
+##### Artikel 84
 
 Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=44), bedraagt voor subsidie als bedoeld in [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.2&artikel=81&z=2014-02-13&g=2014-02-13), in de periode genoemd in artikel 81, tweede lid, € 10,9 per GJ.
 
-#### Artikel 85
+##### Artikel 85
 
 De basisenergieprijs, bedoeld in [artikel 45 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=45), voor subsidie als bedoeld in [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.2&artikel=81&z=2014-02-13&g=2014-02-13), bedraagt € 4,1 per GJ.
 
 #### § 5.3. Geothermie gecombineerde opwekking
 
-#### Artikel 86
+##### Artikel 86
 
 1. De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit en hernieuwbare warmte geproduceerd uit warmte die uitsluitend afkomstig is van een of meerdere geothermische bronnen met een diepte van minimaal 500 meter, uit een productie-installatie waarbij het nominaal elektrisch vermogen ten minste 5% van de som van het nominale warmte en elektrisch vermogen bedraagt.
 
@@ -777,27 +803,27 @@ De basisenergieprijs, bedoeld in [artikel 45 van het besluit](https://wetten.ove
 
 3. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het formulier dat is opgenomen in de bij deze regeling behorende [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&bijlage=7&z=2014-02-13&g=2014-02-13).
 
-#### Artikel 87
+##### Artikel 87
 
 1. Subsidie als bedoeld in [artikel 86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.3&artikel=86&z=2014-02-13&g=2014-02-13), wordt voor een periode van 15 jaar verstrekt.
 
 2. De subsidie-ontvanger neemt de productie-installatie, bedoeld in [artikel 86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.3&artikel=86&z=2014-02-13&g=2014-02-13), binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
 
-#### Artikel 88
+##### Artikel 88
 
 Het maximaal aantal vollasturen voor een productie-installatie bedoeld in [artikel 86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.3&artikel=86&z=2014-02-13&g=2014-02-13), bedraagt 4.667 uren per jaar.
 
-#### Artikel 89
+##### Artikel 89
 
 Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=44), bedraagt voor subsidie als bedoeld in [artikel 86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.3&artikel=86&z=2014-02-13&g=2014-02-13), in de periode genoemd in artikel 86, tweede lid, € 18,9 per GJ.
 
-#### Artikel 90
+##### Artikel 90
 
 De basisprijs, bedoeld in [artikel 45 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=45), voor subsidie als bedoeld in [artikel 86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.3&artikel=86&z=2014-02-13&g=2014-02-13), bedraagt € 6,5 per GJ.
 
 #### § 5.4. Biomassavergisting warmte
 
-#### Artikel 91
+##### Artikel 91
 
 1. De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare warmte geproduceerd door:
 
@@ -809,17 +835,17 @@ De basisprijs, bedoeld in [artikel 45 van het besluit](https://wetten.overheid.n
 
 3. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het formulier dat is opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&bijlage=3&z=2014-02-13&g=2014-02-13).
 
-#### Artikel 92
+##### Artikel 92
 
 1. Subsidie als bedoeld in [artikel 91, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.4&artikel=91&z=2014-02-13&g=2014-02-13), wordt voor een periode van 12 jaar verstrekt.
 
 2. De subsidie-ontvanger neemt de productie-installatie, bedoeld in [artikel 91, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.4&artikel=91&z=2014-02-13&g=2014-02-13), binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
 
-#### Artikel 93
+##### Artikel 93
 
 Het maximaal aantal vollasturen voor een productie-installatie bedoeld in [artikel 91, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.4&artikel=91&z=2014-02-13&g=2014-02-13), bedraagt 7000 uren per jaar.
 
-#### Artikel 94
+##### Artikel 94
 
 Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=44), bedraagt voor subsidie:
 
@@ -827,13 +853,13 @@ Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid
 
 - b. als bedoeld [artikel 91, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.4&artikel=91&z=2014-02-13&g=2014-02-13), in de periode genoemd in artikel 91, tweede lid, € 17,7 per GJ;
 
-#### Artikel 95
+##### Artikel 95
 
 De basisenergieprijs, bedoeld in [artikel 45 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=45), voor subsidie als bedoeld in [artikel 91, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.4&artikel=91&z=2014-02-13&g=2014-02-13), bedraagt € 7,0 per GJ.
 
 #### § 5.6. Uitbreiding bestaande afvalverbranding met warmte
 
-#### Artikel 96
+##### Artikel 96
 
 1. De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit en hernieuwbare warmte van wie de hernieuwbare warmte voor het eerst nuttig wordt gebruikt en die de hernieuwbare elektriciteit en hernieuwbare warmte uitsluitend of in hoofdzaak produceert door middel van:
 
@@ -847,27 +873,27 @@ De basisenergieprijs, bedoeld in [artikel 45 van het besluit](https://wetten.ove
 
 4. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het formulier dat is opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&bijlage=3&z=2014-02-13&g=2014-02-13).
 
-#### Artikel 97
+##### Artikel 97
 
 1. Subsidie als bedoeld in [artikel 96, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.6&artikel=96&z=2014-02-13&g=2014-02-13), wordt voor een periode van 15 jaar verstrekt.
 
 2. De subsidie-ontvanger draagt er zorg voor dat de hernieuwbare warmte nuttig wordt gebruikt binnen 18 maanden na de datum van de beschikking tot subsidieverlening.
 
-#### Artikel 98
+##### Artikel 98
 
 Het maximaal aantal vollasturen voor een productie-installatie als bedoeld in [artikel 96, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.6&artikel=96&z=2014-02-13&g=2014-02-13), bedraagt 3710 uren per jaar.
 
-#### Artikel 99
+##### Artikel 99
 
 Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=44), bedraagt voor subsidie als bedoeld in [artikel 96, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.6&artikel=96&z=2014-02-13&g=2014-02-13), in de periode genoemd in artikel 96, derde lid, € 11,9 per GJ.
 
-#### Artikel 100
+##### Artikel 100
 
 De basisenergieprijs, bedoeld in [artikel 45 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=45), voor subsidie als bedoeld in [artikel 96, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.6&artikel=96&z=2014-02-13&g=2014-02-13), bedraagt € 7,8 per GJ.
 
 #### § 5.7. Ketel vloeibare biomassa warmte
 
-#### Artikel 101
+##### Artikel 101
 
 1. De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare warmte geproduceerd door een productie-installatie bestaande uit een ketel met een nominaal thermisch vermogen groter dan of gelijk aan 0,5 MW voor de productie van warmte uit verbranding van vloeibare biomassa als bedoeld in de nummers 560 tot en met 573, 587, 592, 594, 596 en 802 van de NTA 8003: 2008.
 
@@ -877,27 +903,27 @@ De basisenergieprijs, bedoeld in [artikel 45 van het besluit](https://wetten.ove
 
 4. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het formulier dat is opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&bijlage=3&z=2014-02-13&g=2014-02-13).
 
-#### Artikel 102
+##### Artikel 102
 
 1. Subsidie als bedoeld in [artikel 101, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.7&artikel=101&z=2014-02-13&g=2014-02-13), wordt voor een periode van 12 jaar verstrekt.
 
 2. De subsidie-ontvanger neemt de productie-installatie, bedoeld in [artikel 101, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.7&artikel=101&z=2014-02-13&g=2014-02-13), binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
 
-#### Artikel 103
+##### Artikel 103
 
 Het maximaal aantal vollasturen voor een productie-installatie bedoeld in [artikel 101, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.7&artikel=101&z=2014-02-13&g=2014-02-13), bedraagt 7000 uren per jaar.
 
-#### Artikel 104
+##### Artikel 104
 
 Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=44), bedraagt voor subsidie als bedoeld in [artikel 101, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.7&artikel=101&z=2014-02-13&g=2014-02-13), in de periode genoemd in artikel 101, derde lid, € 20,8 per GJ.
 
-#### Artikel 105
+##### Artikel 105
 
 De basisenergieprijs, bedoeld in [artikel 45 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=45), voor subsidie als bedoeld in [artikel 101, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.7&artikel=101&z=2014-02-13&g=2014-02-13), bedraagt € 7,0 per GJ.
 
 #### § 5.8. Thermische conversie biomassa gecombineerde opwekking
 
-#### Artikel 106
+##### Artikel 106
 
 1. De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit en hernieuwbare warmte geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit en hernieuwbare warmte door inzet van warmte verkregen uit thermische conversie van vaste of vloeibare biomassa als bedoeld in de NTA 8003: 2008, met uitzondering van biomassa als bedoeld in de nummers 100, 150, 170 tot en met 179 en 550 tot en met 559 van de NTA 8003: 2008:
 
@@ -917,13 +943,13 @@ De basisenergieprijs, bedoeld in [artikel 45 van het besluit](https://wetten.ove
 
 5. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het formulier dat is opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&bijlage=3&z=2014-02-13&g=2014-02-13).
 
-#### Artikel 107
+##### Artikel 107
 
 1. Subsidie als bedoeld in [artikel 106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.8&artikel=106&z=2014-02-13&g=2014-02-13), wordt voor een periode van 12 jaar verstrekt.
 
 2. De subsidie-ontvanger neemt de productie-installatie, bedoeld in [artikel 106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.8&artikel=106&z=2014-02-13&g=2014-02-13), binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
 
-#### Artikel 108
+##### Artikel 108
 
 Het maximaal aantal vollasturen voor een productie-installatie als bedoeld in:
 
@@ -931,7 +957,7 @@ Het maximaal aantal vollasturen voor een productie-installatie als bedoeld in:
 
 - b. [artikel 106, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.8&artikel=106&z=2014-02-13&g=2014-02-13), bedraagt 4241 uren per jaar.
 
-#### Artikel 109
+##### Artikel 109
 
 Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=44), bedraagt voor subsidie:
 
@@ -939,7 +965,7 @@ Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid
 
 - b. als bedoeld in [artikel 106, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.8&artikel=106&z=2014-02-13&g=2014-02-13), in de periode genoemd in artikel 106, vierde lid, onderdeel b, € 38,2 per GJ.
 
-#### Artikel 110
+##### Artikel 110
 
 De basisprijs, bedoeld in [artikel 45 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=45), voor subsidie:
 
@@ -949,7 +975,7 @@ De basisprijs, bedoeld in [artikel 45 van het besluit](https://wetten.overheid.n
 
 #### § 5.9. Biomassavergisting gecombineerde opwekking
 
-#### Artikel 111
+##### Artikel 111
 
 1. De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit en hernieuwbare warmte geproduceerd door:
 
@@ -965,13 +991,13 @@ De basisprijs, bedoeld in [artikel 45 van het besluit](https://wetten.overheid.n
 
 3. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het formulier dat is opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&bijlage=3&z=2014-02-13&g=2014-02-13).
 
-#### Artikel 112
+##### Artikel 112
 
 1. Subsidie als bedoeld in [artikel 111, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.9&artikel=111&z=2014-02-13&g=2014-02-13), wordt voor een periode van 12 jaar verstrekt.
 
 2. De subsidie-ontvanger neemt de productie-installatie, bedoeld in [artikel 111, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.9&artikel=111&z=2014-02-13&g=2014-02-13), binnen 4 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
 
-#### Artikel 113
+##### Artikel 113
 
 Het maximaal aantal vollasturen voor een productie-installatie als bedoeld in:
 
@@ -979,7 +1005,7 @@ Het maximaal aantal vollasturen voor een productie-installatie als bedoeld in:
 
 - a. [artikel 111, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.9&artikel=111&z=2014-02-13&g=2014-02-13) bedraagt 5732 uren per jaar.
 
-#### Artikel 114
+##### Artikel 114
 
 Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=44), bedraagt voor subsidie:
 
@@ -987,7 +1013,7 @@ Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid
 
 - b. als bedoeld in [artikel 111, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.9&artikel=111&z=2014-02-13&g=2014-02-13), in de periode genoemd in artikel 111, tweede lid, € 30,8 per GJ.
 
-#### Artikel 115
+##### Artikel 115
 
 De basisprijs, bedoeld in [artikel 45 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=45), voor subsidie
 
@@ -997,7 +1023,7 @@ De basisprijs, bedoeld in [artikel 45 van het besluit](https://wetten.overheid.n
 
 #### § 5.10. Bestaande toepassing biomassa uitbreiding warmte
 
-#### Artikel 116
+##### Artikel 116
 
 1. De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit en hernieuwbare warmte van wie hernieuwbare warmte voor het eerst nuttig wordt gebruikt en die de hernieuwbare elektriciteit en hernieuwbare warmte produceert door middel van:
 
@@ -1015,13 +1041,13 @@ De basisprijs, bedoeld in [artikel 45 van het besluit](https://wetten.overheid.n
 
 5. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het formulier dat is opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&bijlage=3&z=2014-02-13&g=2014-02-13).
 
-#### Artikel 117
+##### Artikel 117
 
 1. Subsidie als bedoeld in [artikel 116, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.10&artikel=116&z=2014-02-13&g=2014-02-13), wordt voor een periode van 5 jaar verstrekt.
 
 2. De subsidie-ontvanger draagt er zorg voor dat de hernieuwbare warmte nuttig wordt gebruikt binnen 18 maanden na de datum van de beschikking tot subsidieverlening.
 
-#### Artikel 118
+##### Artikel 118
 
 Het maximaal aantal vollasturen voor een productie-installatie:
 
@@ -1031,7 +1057,7 @@ Het maximaal aantal vollasturen voor een productie-installatie:
 
 - c. als bedoeld in [artikel 116, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.10&artikel=116&z=2014-02-13&g=2014-02-13), bedraagt 7000 uren per jaar.
 
-#### Artikel 119
+##### Artikel 119
 
 Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=44), bedraagt voor subsidie:
 
@@ -1041,7 +1067,7 @@ Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid
 
 - c. als bedoeld in [artikel 116, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.10&artikel=116&z=2014-02-13&g=2014-02-13), in de periode genoemd in artikel 116, vierde lid, € 6,3 per GJ.
 
-#### Artikel 120
+##### Artikel 120
 
 De basisenergieprijs, bedoeld in [artikel 45 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=45), voor subsidie:
 
@@ -1053,7 +1079,7 @@ De basisenergieprijs, bedoeld in [artikel 45 van het besluit](https://wetten.ove
 
 #### § 5.11. Zonthermie
 
-#### Artikel 121
+##### Artikel 121
 
 1. De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare warmte geproduceerd door een productie-installatie voor de productie van hernieuwbare warmte uit zonne-energie, met een apertuuroppervlakte van 100 vierkante meter of meer, waarbij uitsluitend gebruik wordt gemaakt van afgedekte collectoren.
 
@@ -1061,27 +1087,27 @@ De basisenergieprijs, bedoeld in [artikel 45 van het besluit](https://wetten.ove
 
 3. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het formulier dat is opgenomen in de bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&bijlage=5&z=2014-02-13&g=2014-02-13).
 
-#### Artikel 122
+##### Artikel 122
 
 1. Subsidie als bedoeld in [artikel 121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.11&artikel=121&z=2014-02-13&g=2014-02-13), wordt voor een periode van 15 jaar verstrekt.
 
 2. De subsidie-ontvanger neemt de productie-installatie, bedoeld in [artikel 121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.11&artikel=121&z=2014-02-13&g=2014-02-13), binnen 3 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
 
-#### Artikel 123
+##### Artikel 123
 
 Het maximaal aantal vollasturen voor een productie-installatie bedoeld in [artikel 121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.11&artikel=121&z=2014-02-13&g=2014-02-13), bedraagt 700 uren per jaar.
 
-#### Artikel 124
+##### Artikel 124
 
 Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=44), bedraagt voor subsidie als bedoeld in [artikel 121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.11&artikel=121&z=2014-02-13&g=2014-02-13), in de periode genoemd in artikel 121, tweede lid, € 36,1 per GJ.
 
-#### Artikel 125
+##### Artikel 125
 
 De basisenergieprijs, bedoeld in [artikel 45 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=45), voor subsidie als bedoeld in [artikel 121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.11&artikel=121&z=2014-02-13&g=2014-02-13), bedraagt € 11,5 per GJ.
 
 #### § 5.12. Verlengde levensduur biomassa gecombineerde opwekking
 
-#### Artikel 126
+##### Artikel 126
 
 1. De minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit en hernieuwbare warmte, geproduceerd door een bestaande productie-installatie van ten minste 8,5 jaar oud:
 
@@ -1103,13 +1129,13 @@ De basisenergieprijs, bedoeld in [artikel 45 van het besluit](https://wetten.ove
 
 4. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het formulier dat is opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&bijlage=3&z=2014-02-13&g=2014-02-13).
 
-#### Artikel 127
+##### Artikel 127
 
 1. Subsidie als bedoeld in [artikel 126, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.12&artikel=126&z=2014-02-13&g=2014-02-13), wordt voor een periode van 12 jaar, die niet eerder ingaat dan nadat de aanvraag om subsidie is gedaan, verstrekt.
 
 2. De subsidie-ontvanger neemt de productie-installatie, bedoeld in [artikel 126, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.12&artikel=126&z=2014-02-13&g=2014-02-13), binnen 3 jaar na de datum van de beschikking tot subsidieverlening in gebruik.
 
-#### Artikel 128
+##### Artikel 128
 
 Het maximaal aantal vollasturen voor een productie-installatie als bedoeld in:
 
@@ -1117,7 +1143,7 @@ Het maximaal aantal vollasturen voor een productie-installatie als bedoeld in:
 
 - b. [artikel 126, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.12&artikel=126&z=2014-02-13&g=2014-02-13), bedraagt 4429 uren per jaar.
 
-#### Artikel 129
+##### Artikel 129
 
 Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=44), bedraagt voor subsidie als bedoeld in:
 
@@ -1127,7 +1153,7 @@ Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid
 
 - c. [artikel 126, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.12&artikel=126&z=2014-02-13&g=2014-02-13), in de periode, genoemd in artikel 126, derde lid, € 18,7 per GJ.
 
-#### Artikel 130
+##### Artikel 130
 
 De basisenergieprijs, bedoeld in [artikel 45 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=45), bedraagt voor subsidie als bedoeld in:
 
@@ -1139,7 +1165,7 @@ De basisenergieprijs, bedoeld in [artikel 45 van het besluit](https://wetten.ove
 
 #### § 5.13.1. Vrije categorie fase 1
 
-#### Artikel 131
+##### Artikel 131
 
 Aanvragen om subsidie als bedoeld in:
 
@@ -1155,13 +1181,13 @@ Aanvragen om subsidie als bedoeld in:
 
 worden ontvangen in de periode van 13 maart 2012, 9:00 uur, tot 1 mei 2012, 17:00 uur.
 
-#### Artikel 132
+##### Artikel 132
 
 Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=44), voor subsidie als bedoeld in [artikel 131](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.13&sub-paragraaf=5.13.1&artikel=131&z=2014-02-13&g=2014-02-13) bedraagt in de periode, genoemd in artikel 131: € 19,444 per GJ.
 
 #### § 5.13.2. Vrije categorie fase 2
 
-#### Artikel 133
+##### Artikel 133
 
 Aanvragen om subsidie als bedoeld in:
 
@@ -1175,13 +1201,13 @@ Aanvragen om subsidie als bedoeld in:
 
 worden ontvangen in de periode van 1 mei 2012, 17:00 uur, tot 18 juni 2012, 17:00 uur.
 
-#### Artikel 134
+##### Artikel 134
 
 Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=44), voor subsidie als bedoeld in [artikel 133](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.13&sub-paragraaf=5.13.2&artikel=133&z=2014-02-13&g=2014-02-13) bedraagt in de periode, genoemd in artikel 133: € 25,000 per GJ.
 
 #### § 5.13.3. Vrije categorie fase 3
 
-#### Artikel 135
+##### Artikel 135
 
 Aanvragen om subsidie als bedoeld in:
 
@@ -1193,23 +1219,23 @@ Aanvragen om subsidie als bedoeld in:
 
 worden ontvangen in de periode van 18 juni 2012, 17:00 uur, tot 3 september 2012, 17:00 uur.
 
-#### Artikel 136
+##### Artikel 136
 
 Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=44), voor subsidie als bedoeld in [artikel 135](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.13&sub-paragraaf=5.13.3&artikel=135&z=2014-02-13&g=2014-02-13) bedraagt in de periode, genoemd in artikel 135: € 30,556 per GJ.
 
 #### § 5.13.4. Vrije categorie fase 4
 
-#### Artikel 137
+##### Artikel 137
 
 Aanvragen om subsidie als bedoeld in [artikel 106, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.8&artikel=106&z=2014-02-13&g=2014-02-13), worden ontvangen in de periode van 3 september 2012, 17:00 uur, tot 5 november 2012, 17:00 uur.
 
-#### Artikel 138
+##### Artikel 138
 
 Het basisbedrag, bedoeld in [artikel 44 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=44), voor subsidie als bedoeld in [artikel 137](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.13&sub-paragraaf=5.13.4&artikel=137&z=2014-02-13&g=2014-02-13) bedraagt in de periode, genoemd in artikel 137: € 36,111 per GJ.
 
 #### § 5.14. Correctiebedragen voorschotverlening productie van hernieuwbare warmte of gecombineerde opwekking
 
-#### Artikel 139
+##### Artikel 139
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2012 vastgesteld voor wat betreft de warmteprijs of de warmte/elektriciteitsprijs, bedoeld in [artikel 47, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=47) het in de tweede kolom genoemde bedrag in € per GJ en voor wat betreft de correcties, bedoeld in artikel 47, eerste lid, onderdelen b en c, het in het derde kolom genoemde bedrag in € per GJ.
 
@@ -1230,11 +1256,11 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 | [artikel 126, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0031291&paragraaf=5&sub-paragraaf=5.12&artikel=126&z=2014-02-13&g=2014-02-13) | 11,0 | 0 |
 | artikel 126, eerste lid, onderdeel c | 8,7 | 0 |
 
-#### Artikel 140
+##### Artikel 140
 
 Deze regeling treedt in werking met ingang van 13 maart 2012.
 
-#### Artikel 141
+##### Artikel 141
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing categorieën duurzame energieproductie 2012.
 

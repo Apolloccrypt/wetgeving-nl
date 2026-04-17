@@ -1,13 +1,39 @@
 ---
-title: "Instellings- en mandaatbesluit College Deskundigheid Financiële Dienstverlening Wft"
+title: "Besluit van de Minister van Financiën van 11 juni 2014, FM 2014/881 M, directie Financiële Markten, houdende instelling van een College Deskundigheid Financiële Dienstverlening en mandaatverlening aan het College Deskundigheid Financiële Dienstverlening (Instellings- en mandaatbesluit College Deskundigheid Financiële Dienstverlening Wft)"
 identifier: "BWBR0035213"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-04-01
-laatste_update: 2020-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035213"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-04-01"
+last_updated: "2020-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035213"
+soort: "ministeriele-regeling"
+stam_id: "12693823"
+version_id: "21456332"
+internal_id: "C30803281"
+label_id: "12664044"
+dtd_version: "2.0"
+original_entry_into_force: "2014-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035213/2020-04-01/0"
+intitule_bron: "Stcrt.2014-16718"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-06-11"
+intitule_published: "2014-06-18"
+intitule_in_force: "2014-06-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-16718"
+original_signed_date: "2014-06-11"
+original_published_date: "2014-06-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-16718"
+entry_into_force_date: "2014-07-01"
+jci_1_3: "jci1.3:c:BWBR0035213&z=2020-04-01&g=2020-04-01"
+jci_1_0: "1.0:c:BWBR0035213&g=2020-04-01"
+citeertitel_status: "officieel"
+short_title: "Instellings- en mandaatbesluit College Deskundigheid Financiële Dienstverlening Wft"
+signed_date: "2014-06-11"
+entry_into_force: "2014-07-01"
 ---
-
 # Besluit van de Minister van Financiën van 11 juni 2014, FM 2014/881 M, directie Financiële Markten, houdende instelling van een College Deskundigheid Financiële Dienstverlening en mandaatverlening aan het College Deskundigheid Financiële Dienstverlening (Instellings- en mandaatbesluit College Deskundigheid Financiële Dienstverlening Wft)
 
 Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en [artikel 10:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3);
@@ -18,7 +44,7 @@ Besluit:
 
 #### § 1. Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -38,11 +64,11 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. Het College Deskundigheid Financiële Dienstverlening
 
-#### Artikel 2
+##### Artikel 2
 
 Er is een College Deskundigheid Financiële Dienstverlening.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het College adviseert desgevraagd of uit eigen beweging of ondersteunt de Minister met betrekking tot:
 
@@ -74,7 +100,7 @@ Er is een College Deskundigheid Financiële Dienstverlening.
 
 2. Op verzoek van de Minister of de Autoriteit Financiële Markten adviseert het College over in dat verzoek nader te specificeren onderwerpen met betrekking tot de in het eerste lid genoemde onderwerpen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het College bestaat uit een voorzitter en ten minste twee, maar ten hoogste vijf leden.
 
@@ -82,11 +108,11 @@ Er is een College Deskundigheid Financiële Dienstverlening.
 
 3. De Minister benoemt, na voordracht van het College, de voorzitter en de leden van het College.
 
-#### Artikel 5
+##### Artikel 5
 
 De leden van het College worden benoemd voor een termijn van ten hoogste vijf jaar en zijn terstond herbenoembaar.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De voorzitter en de overige leden van het College wordt een vaste vergoeding per maand als bedoeld in [artikel 2 eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) toegekend. De beloning bedraagt:
 
@@ -100,7 +126,7 @@ De leden van het College worden benoemd voor een termijn van ten hoogste vijf ja
 
 #### § 3. Mandaatverlening
 
-#### Artikel 7
+##### Artikel 7
 
 Aan de voorzitter wordt mandaat verleend om namens de Minister:
 
@@ -112,7 +138,7 @@ Aan de voorzitter wordt mandaat verleend om namens de Minister:
 
 - d. klachten te behandelen die verband houden met het inhoudelijk beheer.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Aan de voorzitter wordt mandaat verleend om namens de Minister:
 
@@ -130,7 +156,7 @@ Aan de voorzitter wordt mandaat verleend om namens de Minister:
 
 2. Het in het eerste lid bedoelde mandaat omvat niet, voor zover van toepassing, het beslissen op bezwaar.
 
-#### Artikel 9
+##### Artikel 9
 
 Indien uitvoering wordt gegeven aan de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035213&paragraaf=3&artikel=7&z=2020-04-01&g=2020-04-01) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0035213&paragraaf=3&artikel=8&z=2020-04-01&g=2020-04-01) luidt de ondertekening:
 
@@ -142,25 +168,25 @@ gevolgd door de handtekening en de naam van de voorzitter.
 
 #### § 4. Informatieverstrekking
 
-#### Artikel 10
+##### Artikel 10
 
 Het College verschaft de Minister desgevraagd schriftelijk informatie over de wijze waarop de bevoegdheden, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035213&paragraaf=3&artikel=7&z=2020-04-01&g=2020-04-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0035213&paragraaf=3&artikel=8&z=2020-04-01&g=2020-04-01), worden uitgeoefend.
 
-#### Artikel 11
+##### Artikel 11
 
 Na beëindiging van de werkzaamheden draagt het College het archief over aan het Ministerie van Financiën.
 
 #### § 5. Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 Het [Mandaatbesluit College Deskundigheid Financiële Dienstverlening Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0034390) wordt ingetrokken.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit treedt in werking met ingang van 1 juli 2014.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit besluit wordt aangehaald als: Instellings- en mandaatbesluit College Deskundigheid Financiële Dienstverlening Wft
 

@@ -1,28 +1,54 @@
 ---
-title: "Besluit vaststelling Algemene Rijksvoorwaarden bij IT-overeenkomsten 2022 (ARBIT-2022)"
+title: "Besluit van de Minister-President, Minister van Algemene Zaken van 22 augustus 2022, nr. 3771053 houdende vaststelling van de Algemene Rijksvoorwaarden bij IT-overeenkomsten 2022 (ARBIT-2022)"
 identifier: "BWBR0047124"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2022-09-10
-laatste_update: 2022-09-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047124"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-09-10"
+last_updated: "2022-09-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047124"
+soort: "ministeriele-regeling"
+stam_id: "16476133"
+version_id: "28871092"
+internal_id: "C40876001"
+label_id: "16397974"
+dtd_version: "2.0"
+original_entry_into_force: "2022-09-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047124/2022-09-10/0"
+intitule_bron: "Stcrt.2022-22806"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-08-22"
+intitule_published: "2022-09-09"
+intitule_in_force: "2022-09-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-22806"
+original_signed_date: "2022-08-22"
+original_published_date: "2022-09-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-22806"
+entry_into_force_date: "2022-09-10"
+jci_1_3: "jci1.3:c:BWBR0047124&z=2022-09-10&g=2022-09-10"
+jci_1_0: "1.0:c:BWBR0047124&g=2022-09-10"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling Algemene Rijksvoorwaarden bij IT-overeenkomsten 2022 (ARBIT-2022)"
+signed_date: "2022-08-22"
+entry_into_force: "2022-09-10"
 ---
-
 # Besluit van de Minister-President, Minister van Algemene Zaken van 22 augustus 2022, nr. 3771053 houdende vaststelling van de Algemene Rijksvoorwaarden bij IT-overeenkomsten 2022 (ARBIT-2022)
 
 Handelende in overeenstemming met het gevoelen van de ministerraad;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Vastgesteld worden de bij dit besluit gevoegde Algemene Rijksvoorwaarden bij IT-overeenkomsten 2022 (ARBIT-2022).
 
-#### Artikel 2
+##### Artikel 2
 
 Het [besluit van de Minister-President, Minister van Algemene Zaken, van 3 mei 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040889), nr. 3219106 (Stc. 2018, 26414), wordt alleen voor het deel dat betrekking heeft op de [Algemene Rijksvoorwaarden bij IT-overeenkomsten 2018 (ARBIT-2018)](onbekend) ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het met de bijbehorende bijlage wordt geplaatst.
 

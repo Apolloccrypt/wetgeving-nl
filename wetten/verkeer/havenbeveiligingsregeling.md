@@ -1,13 +1,39 @@
 ---
-title: "Havenbeveiligingsregeling"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 31 oktober 2023, nr. IENW/BSK-2023/294008 houdende vaststelling van regels omtrent de beveiliging van havens (Havenbeveiligingsregeling)"
 identifier: "BWBR0048828"
-categorie: "Verkeer"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048828"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048828"
+soort: "ministeriele-regeling"
+stam_id: "16900733"
+version_id: "29704082"
+internal_id: "C42659931"
+label_id: "16812484"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048828/2024-01-01/0"
+intitule_bron: "Stcrt.2023-28723"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-10-31"
+intitule_published: "2023-11-01"
+intitule_in_force: "2023-11-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-28723"
+original_signed_date: "2023-10-31"
+original_published_date: "2023-11-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-28723"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0048828&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0048828&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Havenbeveiligingsregeling"
+signed_date: "2023-10-31"
+entry_into_force: "2024-01-01"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 31 oktober 2023, nr. IENW/BSK-2023/294008 houdende vaststelling van regels omtrent de beveiliging van havens (Havenbeveiligingsregeling)
 
 Gelet op de [artikelen 14, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016991&artikel=14), [14a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016991&artikel=14a), en [16b van de Havenbeveiligingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0016991&artikel=16b);
@@ -18,7 +44,7 @@ Treedt in werking op het tijdstip waarop de Wet tot wijziging van de Havenbeveil
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - **Wet tot wijziging van de Havenbeveiligingswet:** Wet van 5 oktober 2022 tot wijziging van de Havenbeveiligingswet in verband met de modernisering van de opleidingseisen voor personen die bij havenfaciliteiten beveiligingswerkzaamheden verrichten, de optimalisering van de veiligheidscontroles van schepen en een tweetal technische verbeteringen (Stb. 2023, 5).
 
-#### Artikel 2. Examenreglement
+##### Artikel 2. Examenreglement
 
 1. De SVPB stelt een examenreglement vast.
 
@@ -56,11 +82,11 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Opleiding en examen havenbeveiliger
 
-#### Artikel 3. Opleidingseisen havenbeveiliger
+##### Artikel 3. Opleidingseisen havenbeveiliger
 
 De havenbeveiliger is bekend met en wordt getraind in alle onderdelen die zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048828&bijlage=1&z=2024-01-01&g=2024-01-01) bij deze regeling.
 
-#### Artikel 4. Examen havenbeveiliger
+##### Artikel 4. Examen havenbeveiliger
 
 1. Het examen Havenbeveiliger, bedoeld in [artikel 14, eerste lid, van de Havenbeveiligingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0016991&artikel=14), wordt afgenomen onder de verantwoordelijkheid van de examencommissie en overeenkomstig het examenreglement, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048828&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01).
 
@@ -76,7 +102,7 @@ De havenbeveiliger is bekend met en wordt getraind in alle onderdelen die zijn o
 
 4. Inschrijving voor het examen geschiedt tegen betaling van het geldend tarief aan de SVPB.
 
-#### Artikel 5. Certificaat Havenbeveiliger
+##### Artikel 5. Certificaat Havenbeveiliger
 
 1. Na afloop van het examen Havenbeveiliger ontvangt de kandidaat een voorlopige uitslag. De definitieve uitslag van het examen wordt uiterlijk zes weken na de datum van het examen vastgesteld door de examencommissie.
 
@@ -92,11 +118,11 @@ De havenbeveiliger is bekend met en wordt getraind in alle onderdelen die zijn o
 
 4. Het certificaat Havenbeveiliger wordt door de SVPB ingetrokken op verzoek van de minister.
 
-#### Artikel 6. Registratie certificaat Havenbeveiliger
+##### Artikel 6. Registratie certificaat Havenbeveiliger
 
 Een certificaat Havenbeveiliger dat op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048828&paragraaf=2&artikel=5&z=2024-01-01&g=2024-01-01) wordt afgegeven, wordt door de SVPB op naam van de houder van het certificaat bijgeschreven in het diplomaregister dat door de SVPB op grond van de [Wet particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0008973) wordt beheerd.
 
-#### Artikel 7. Bijscholing havenbeveiliger
+##### Artikel 7. Bijscholing havenbeveiliger
 
 1. De geldigheidsduur van het certificaat Havenbeveiliger wordt vernieuwd als de houder ervan voldoet aan de bijscholings- en exameneisen opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048828&bijlage=2&z=2024-01-01&g=2024-01-01) bij deze regeling en het bijbehorende examen met goed gevolg heeft afgelegd. Met goed gevolg houdt in dat een kandidaat een score van tenminste 67% behaalt van het aantal punten dat kan worden behaald.
 
@@ -112,11 +138,11 @@ Een certificaat Havenbeveiliger dat op grond van [artikel 5](https://wetten.over
 
 #### § 3. Opleiding en examen veiligheidsbeambte van een havenfaciliteit
 
-#### Artikel 8. Opleidingseisen veiligheidsbeambte
+##### Artikel 8. Opleidingseisen veiligheidsbeambte
 
 De veiligheidsbeambte is bekend met en wordt getraind in alle onderdelen die zijn opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048828&bijlage=3&z=2024-01-01&g=2024-01-01) bij deze regeling.
 
-#### Artikel 9. Examen veiligheidsbeambte
+##### Artikel 9. Examen veiligheidsbeambte
 
 1. Het examen Veiligheidsbeambte wordt afgenomen onder verantwoordelijkheid van de examencommissie en overeenkomstig het examenreglement, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048828&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01).
 
@@ -126,7 +152,7 @@ De veiligheidsbeambte is bekend met en wordt getraind in alle onderdelen die zij
 
 4. Na afloop van het examen ontvangt de kandidaat een voorlopige uitslag. De definitieve uitslag van het examen wordt uiterlijk zes weken na de datum van het examen vastgesteld door de examencommissie.
 
-#### Artikel 10. Certificaat veiligheidsbeambte
+##### Artikel 10. Certificaat veiligheidsbeambte
 
 1. De veiligheidsbeambte van een havenfaciliteit is in het bezit van een op naam gesteld certificaat Veiligheidsbeambte.
 
@@ -142,7 +168,7 @@ De veiligheidsbeambte is bekend met en wordt getraind in alle onderdelen die zij
 
 #### § 4. Slotbepalingen
 
-#### Artikel 11. Overgangsrecht havenbeveiliger
+##### Artikel 11. Overgangsrecht havenbeveiliger
 
 1. Het certificaat Havenbeveiliger dat vóór 1 januari 2024 is behaald door een havenbeveiliger of aspirant-beveiliger bij een opleidingsinstituut dat op de datum van afgifte door de minister was erkend, blijft met inachtneming van het vierde lid geldig en wordt binnen negen maanden na de inwerkingtreding van de Wet tot wijziging van de Havenbeveiligingswet op verzoek van de havenbeveiliger bijgeschreven in het diplomaregister van de SVPB.
 
@@ -168,15 +194,15 @@ De veiligheidsbeambte is bekend met en wordt getraind in alle onderdelen die zij
 
 6. De inschrijving in het diplomaregister van SVPB geschiedt tegen betaling van het geldend tarief.
 
-#### Artikel 12. Overgangsrecht veiligheidsbeambte
+##### Artikel 12. Overgangsrecht veiligheidsbeambte
 
 Binnen achttien maanden vanaf de datum van inwerkingtreding van de Wet tot wijziging van de Havenbeveiligingswet beschikt de veiligheidsbeambte van een havenfaciliteit over een certificaat Veiligheidsbeambte.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 Deze regeling treedt in werking op het tijdstip waarop de Wet tot wijziging van de Havenbeveiligingswet in werking treedt.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Havenbeveiligingsregeling.
 

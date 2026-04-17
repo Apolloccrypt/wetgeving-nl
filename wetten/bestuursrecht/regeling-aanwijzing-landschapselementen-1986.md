@@ -1,24 +1,48 @@
 ---
 title: "Regeling aanwijzing landschapselementen 1986"
 identifier: "BWBR0004209"
-categorie: "Bestuursrecht"
-publicatiedatum: 1992-01-04
-laatste_update: 1992-01-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004209"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1992-01-04"
+last_updated: "1992-01-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004209"
+soort: "ministeriele-regeling"
+stam_id: "4302853"
+version_id: "6065552"
+internal_id: "C6269161"
+label_id: "4281384"
+dtd_version: "2.0"
+original_entry_into_force: "1987-09-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004209/1992-01-04/0"
+intitule_bron: "Stcrt.1987-174"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1987-09-07"
+intitule_published: "1987-09-10"
+intitule_in_force: "1987-09-10"
+intitule_status: "goed"
+original_publication: "Stcrt.1987-174"
+original_signed_date: "1987-09-07"
+original_published_date: "1987-09-10"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1987-09-11"
+jci_1_3: "jci1.3:c:BWBR0004209&z=1992-01-04&g=1992-01-04"
+jci_1_0: "1.0:c:BWBR0004209&g=1992-01-04"
+citeertitel_status: "officieel"
+signed_date: "1987-09-07"
+entry_into_force: "1987-09-11"
 ---
-
 # Regeling aanwijzing landschapselementen 1986
 
 Gelet op [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0003126&artikel=1), en [artikel 2 van de Regeling onderhoudsovereenkomsten landschapselementen](https://wetten.overheid.nl/jci1.3:c:BWBR0003126&artikel=2) (Stcrt. 1977, 182)1Laatstelijk gewijzigd bij besluit van 7 september 1987, nr. J. 1922, Stcrt. 174.;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze regeling wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor een onderhoudsovereenkomst als bedoeld in de [Regeling onderhoudsovereenkomsten landschapselementen](https://wetten.overheid.nl/jci1.3:c:BWBR0003126) komen in aanmerking de in de volgende gebieden voorkomende en nader aangeduide landschapselementen, voor zover gelegen in de agrarische cultuurlandschappen, te weten:
 
@@ -178,7 +202,7 @@ Zuidelijk Westerkwartier – houtwallen, houtsingels, bomenrijen, boselementen, 
 
 2. De begrenzing van de in het eerste lid genoemde gebieden is op bij deze regeling behorende kaarten aangegeven.
 
-#### Artikel 3
+##### Artikel 3
 
 De aanwijzing in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004209&artikel=2&z=1992-01-04&g=1992-01-04), betreft niet:
 
@@ -188,7 +212,7 @@ De aanwijzing in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - c. beplantingen waarvoor op grond van de Beschikking vrijstelling meldings- en herplantplicht (Stcrt. 1982, 195) vrijstelling is verkregen van de verplichting tot herbeplanting.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004209&artikel=2&z=1992-01-04&g=1992-01-04), genoemde landschapselementen komen slechts in aanmerking voor een onderhoudsovereenkomst indien zij per landschapselement een hierna genoemde lengte of oppervlakte overschrijden:
 
@@ -200,19 +224,19 @@ De aanwijzing in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 2. Solitaire bomen komen slechts in aanmerking voor een onderhoudsovereenkomst indien zij een stamomvang van meer dan 12 centimeter, gemeten op borsthoogte, hebben.
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 De Regeling aanwijzing landschapselementen (Stcrt. 1981, 20) wordt ingetrokken.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Deze regeling kan worden aangehaald als: Regeling aanwijzing landschapselementen 1986.
 

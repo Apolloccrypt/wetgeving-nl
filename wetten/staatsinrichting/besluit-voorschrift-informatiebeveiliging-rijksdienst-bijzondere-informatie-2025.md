@@ -1,20 +1,46 @@
 ---
-title: "Besluit voorschrift informatiebeveiliging rijksdienst bijzondere informatie 2025"
+title: "Besluit van de Minister-President, Minister van Algemene Zaken van 21 augustus 2025, nr. 9070201, houdende voorschrift informatiebeveiliging Rijksdienst bijzondere informatie 2025"
 identifier: "BWBR0051482"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2025-09-09
-laatste_update: 2025-09-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051482"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-09-09"
+last_updated: "2025-09-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051482"
+soort: "ministeriele-regeling"
+stam_id: "17518873"
+version_id: "30912062"
+internal_id: "C44289271"
+label_id: "17420914"
+dtd_version: "2.0"
+original_entry_into_force: "2025-09-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051482/2025-09-09/0"
+intitule_bron: "Stcrt.2025-30222"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-08-21"
+intitule_published: "2025-09-08"
+intitule_in_force: "2025-09-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-30222"
+original_signed_date: "2025-08-21"
+original_published_date: "2025-09-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-30222"
+entry_into_force_date: "2025-09-09"
+jci_1_3: "jci1.3:c:BWBR0051482&z=2025-09-09&g=2025-09-09"
+jci_1_0: "1.0:c:BWBR0051482&g=2025-09-09"
+citeertitel_status: "officieel"
+short_title: "Besluit voorschrift informatiebeveiliging rijksdienst bijzondere informatie 2025"
+signed_date: "2025-08-21"
+entry_into_force: "2025-09-09"
 ---
-
 # Besluit van de Minister-President, Minister van Algemene Zaken van 21 augustus 2025, nr. 9070201, houdende voorschrift informatiebeveiliging Rijksdienst bijzondere informatie 2025
 
 Handelende in overeenstemming met het gevoelen van de ministerraad,
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In dit besluit wordt verstaan onder:
 
 - **zorgdrager:** degene die bij of krachtens de wet belast is met de zorg voor de archiefbescheiden.
 
-#### Artikel 2. Plaatsbepaling en reikwijdte
+##### Artikel 2. Plaatsbepaling en reikwijdte
 
 1. Dit besluit geldt voor de Rijksdienst.
 
@@ -48,7 +74,7 @@ In dit besluit wordt verstaan onder:
 
 3. Bijzondere informatie die krachtens een verdrag of internationale overeenkomst is verkregen, behoudt de toegekende rubricering en wordt beveiligd volgens het overeenkomstige nationale beveiligingsniveau. Voor zover voor de beveiliging van dergelijke informatie als gevolg van het verdrag of de internationale overeenkomst afwijkende bepalingen bestaan worden deze bepalingen toegepast.
 
-#### Artikel 3. Beveiligingsbeleid
+##### Artikel 3. Beveiligingsbeleid
 
 1. Het ministeriële beveiligingsbeleid dat door de secretaris-generaal van het betreffende ministerie wordt vastgesteld omvat ten minste de uitgangspunten voor de beveiliging van, de toegang tot, het omgaan met en verwerken van bijzondere informatie zoals bedoeld in dit voorschrift en de wijze waarop:
 
@@ -70,7 +96,7 @@ In dit besluit wordt verstaan onder:
 
 3. De beveiligingsautoriteit dan wel beveiligingsautoriteit Rijk betrekt bij zijn taken, genoemd in het tweede lid, het advies van de chief information officer dan wel chief information officer Rijk wanneer beveiligingsvraagstukken een digitale component hebben.
 
-#### Artikel 4. Rubriceringen
+##### Artikel 4. Rubriceringen
 
 1. Informatie waarvan de geheimhouding vanwege de vitale belangen van Nederland en de Nederlandse staat, van zijn bondgenoten of één of meer ministeries is geboden, moet worden voorzien van een passend niveau van rubricering.
 
@@ -86,7 +112,7 @@ In dit besluit wordt verstaan onder:
 
 3. De opsteller van de informatie doet een voorstel tot rubricering en brengt deze aan op de informatie. De vaststeller van de inhoud van de informatie stelt tevens de rubricering vast.
 
-#### Artikel 5. Herzien en beëindigen van de rubricering
+##### Artikel 5. Herzien en beëindigen van de rubricering
 
 1. Rubriceringen worden verbonden aan een maximum tijdsverloop of aan een bepaalde gebeurtenis. Na die periode of na die gebeurtenis weegt de vaststeller van bijzondere informatie af of herziening, dan wel beëindiging van de rubricering, aan de orde is.
 
@@ -100,7 +126,7 @@ In dit besluit wordt verstaan onder:
 
 4. Bij overbrenging van bijzondere informatie naar een rijksarchiefbewaarplaats als bedoeld in de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) vervalt de rubricering, tenzij de zorgdrager, na advies van de algemene rijksarchivaris en de rubriceringsambtenaar, bepaalt dat deze gehandhaafd dan wel herzien moet worden.
 
-#### Artikel 6. Eisen aan de beveiliging
+##### Artikel 6. Eisen aan de beveiliging
 
 1. Bijzondere informatie en de verwerking ervan worden zodanig beveiligd dat:
 
@@ -112,19 +138,19 @@ In dit besluit wordt verstaan onder:
 
 3. Bijzondere informatie die krachtens een verdrag of een internationale overeenkomst is verkregen wordt uitsluitend verwerkt nadat de autoriteit, die krachtens het betreffende verdrag verantwoordelijk is voor de beveiligingsregels ter bescherming van bijzondere informatie, haar goedkeuring aan de beveiliging heeft gegeven.
 
-#### Artikel 7. Buiten de Rijksdienst brengen van bijzondere informatie
+##### Artikel 7. Buiten de Rijksdienst brengen van bijzondere informatie
 
 1. Bij het buiten de Rijksdienst brengen van bijzondere informatie, anders dan op grond van een wettelijke verplichting tot openbaarmaking, blijven de eisen aan de beveiliging in dit besluit en het toezicht daarop onverkort van kracht.
 
 2. Bijzondere informatie die krachtens een verdrag of een internationale overeenkomst is verkregen wordt uitsluitend na voorafgaande toestemming van het land of de internationale organisatie van herkomst doorgegeven aan externe partijen.
 
-#### Artikel 8. Compromittering van bijzondere informatie
+##### Artikel 8. Compromittering van bijzondere informatie
 
 1. Elke ambtenaar is verplicht aan de beveiligingsautoriteit van het betreffende ministerie onmiddellijk mededeling te doen van een inbreuk of mogelijke inbreuk op de beveiliging die leidt tot compromittering van bijzondere informatie.
 
 2. Indien de compromittering betrekking heeft op bijzondere informatie die is verkregen van een ander ministerie of krachtens een verdrag of internationale overeenkomst, doet de beveiligingsautoriteit bovendien mededeling aan het betreffende ministerie of de krachtens het verdrag of de internationale overeenkomst voor de beveiliging van die bijzondere informatie verantwoordelijke instantie.
 
-#### Artikel 9. Commissie van onderzoek
+##### Artikel 9. Commissie van onderzoek
 
 1. De secretaris-generaal stelt een commissie van onderzoek in indien sprake is van ernstige compromittering van bijzondere informatie, waarbij onafhankelijke evaluatie noodzakelijk wordt geacht om de toedracht, gevolgen en eventuele verantwoordelijkheden vast te stellen.
 
@@ -142,23 +168,23 @@ In dit besluit wordt verstaan onder:
 
 5. Indien het de compromittering van een staatsgeheim betreft, stelt de secretaris-generaal het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst in kennis van de uitkomsten van het onderzoek. In afwijking van de eerste volzin stelt de secretaris-generaal van het Ministerie van Defensie de Militaire Inlichtingen- en Veiligheidsdienst op de hoogte van de uitkomsten van het onderzoek.
 
-#### Artikel 10. Evaluatie
+##### Artikel 10. Evaluatie
 
 Dit besluit wordt drie jaar na inwerkingtreding geëvalueerd en vervolgens elke drie jaar.
 
-#### Artikel 11. Overgangsrecht
+##### Artikel 11. Overgangsrecht
 
 Rubriceringen die zijn vastgesteld vóór inwerkingtreding van dit besluit worden uiterlijk tien jaar na vaststelling door de vaststeller onderzocht op de mogelijkheid om de rubricering te herzien of te beëindigen, en voor bestaande, reeds gerubriceerde informatie, waarbij volledig wordt voldaan aan de maatregelen, genoemd in het [Besluit voorschrift informatiebeveiliging rijksdienst bijzondere informatie 2013 (VIRBI 2013)](https://wetten.overheid.nl/jci1.3:c:BWBR0033507), zijn organisaties gedurende een overgangsperiode van zes maanden niet gehouden te voldoen aan de hierop aanvullende maatregelen zoals deze in de bijlage bij dit besluit zijn opgenomen.
 
-#### Artikel 12. Intrekking VIRBI 2013
+##### Artikel 12. Intrekking VIRBI 2013
 
 Het [Besluit Voorschrift Informatiebeveiliging Rijksdienst Bijzondere Informatie 2013 (VIRBI 2013)](https://wetten.overheid.nl/jci1.3:c:BWBR0033507) wordt ingetrokken.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit voorschrift informatiebeveiliging rijksdienst bijzondere informatie 2025.
 

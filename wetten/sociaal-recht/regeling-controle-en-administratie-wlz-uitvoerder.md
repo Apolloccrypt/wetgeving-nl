@@ -1,30 +1,53 @@
 ---
-title: "Regeling Controle en administratie Wlz-uitvoerder"
+title: "Regeling Controle en administratie Wlz-uitvoerder TH/NR-032"
 identifier: "BWBR0049528"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-04-05
-laatste_update: 2024-04-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049528"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-04-05"
+last_updated: "2024-04-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049528"
+soort: "zbo"
+stam_id: "17064453"
+version_id: "30030152"
+internal_id: "C43043781"
+label_id: "16973224"
+dtd_version: "2.0"
+original_entry_into_force: "2024-04-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049528/2024-04-05/0"
+intitule_bron: "Stcrt.2024-10087"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-04-04"
+intitule_in_force: "2024-04-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-10087"
+original_published_date: "2024-04-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-10087"
+entry_into_force_date: "2024-04-05"
+jci_1_3: "jci1.3:c:BWBR0049528&z=2024-04-05&g=2024-04-05"
+jci_1_0: "1.0:c:BWBR0049528&g=2024-04-05"
+citeertitel_status: "officieel"
+short_title: "Regeling Controle en administratie Wlz-uitvoerder"
+entry_into_force: "2024-04-05"
 ---
-
 # Regeling Controle en administratie Wlz-uitvoerder TH/NR-032
 
 Gelet op [artikel 31, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=31), en [artikel 36, derde lid, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36) (Wmg), heeft de Nederlandse Zorgautoriteit (NZa) in overeenstemming met Zorginstituut Nederland, voor zover het administratievoorschriften betreft, de volgende regeling vastgesteld.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 Voor de begrippen die in deze beleidsregel voorkomen wordt verwezen naar de [Beleidsregel definities Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0049069).
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Deze regeling stelt voorwaarden en voorschriften voor de uitvoering van administratie en controle door Wlz-uitvoerders, teneinde de goede uitvoering van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) (Wlz) te bevorderen.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze regeling is van toepassing op de Wlz-uitvoerder.
 
-#### Artikel 4. Bepalingen over de administratie
+##### Artikel 4. Bepalingen over de administratie
 
 1. De administratie en de administratieve organisatie/interne beheersing moeten zodanig zijn ingericht en werken dat de Wlz-uitvoerder in continuïteit beschikt over juiste informatie van alle zorgverlening aan elke geïndiceerde rechthebbende op Wlz-zorg en de daarmee gemoeide uitgaven, zodat hij in staat is de verzekering voor alle verzekerden en in alle aspecten, volledig, juist en tijdig uit te voeren in het belang van elke verzekerde en in het belang van de verzekering. Het bestuur van de Wlz-uitvoerder moet de geautomatiseerde gegevensverwerking aansturen met als doel een betrouwbare en actuele informatievoorziening te creëren, zodat hij betrouwbare informatie kan verstrekken over de rechtmatigheid van de aanspraken van verzekerden en de rechtmatigheid van de inkomsten en uitgaven.
 
@@ -36,7 +59,7 @@ Deze regeling is van toepassing op de Wlz-uitvoerder.
 
 5. De Wlz-uitvoerder voert jaarlijks een IT-audit uit op zijn informatiesystemen. Hij doet elk jaar verslag van bevindingen en aanbevelingen die voortvloeien uit intern toezicht en controle.
 
-#### Artikel 5. Algemene bepalingen over de controles
+##### Artikel 5. Algemene bepalingen over de controles
 
 1. De Wlz-uitvoerder is verplicht controleactiviteiten uit te voeren.
 
@@ -46,7 +69,7 @@ Deze regeling is van toepassing op de Wlz-uitvoerder.
 
 4. De bepalingen in deze regeling zijn van toepassing op alle controleactiviteiten. Voor zover een voorschrift uit deze regeling alleen van toepassing is op één specifieke controleactiviteit, is dat bij het betreffende artikel aangegeven.
 
-#### Artikel 6. Bepalingen over de organisatie van controleactiviteiten
+##### Artikel 6. Bepalingen over de organisatie van controleactiviteiten
 
 1. De Wlz-uitvoerder heeft een toereikende organisatie voor de opzet, uitvoering en evaluatie van de controleactiviteiten. De organisatie van de Wlz-uitvoerder is zodanig ingericht, dat de Wlz-uitvoerder kan voldoen aan de bepalingen in deze regeling en, indien nodig, tijdig kan bijsturen zodat de controledoelen worden bereikt.
 
@@ -64,7 +87,7 @@ Deze regeling is van toepassing op de Wlz-uitvoerder.
 
 3. De Wlz-uitvoerder draagt zorg voor voldoende deskundigheid ten behoeve van een goede uitoefening van zijn controleactiviteiten.
 
-#### Artikel 7. Bepalingen over controle-aanpak
+##### Artikel 7. Bepalingen over controle-aanpak
 
 1. De Wlz-uitvoerder stelt een risicoanalyse met voldoende reikwijdte en diepgang op als basis voor het controleplan. In de risicoanalyse worden alle doelen van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), zoals opgenomen in de Beleidsregel normenkader Wlz-uitvoerder, betrokken. De Wlz-uitvoerder waarborgt daarbij dat informatie beschikbaar is voor een dergelijke op doelbereiking gerichte risicoanalyse.
 
@@ -108,7 +131,7 @@ De Wlz-uitvoerder registreert signalen en onderzoek naar fraude en daarbij legt 
 
 - •. vervolgacties, inclusief de hieraan ten grondslag liggende afwegingen.
 
-#### Artikel 8. Bepalingen over uitvoering van controles
+##### Artikel 8. Bepalingen over uitvoering van controles
 
 1. De Wlz-uitvoerder voert de controleplannen tijdig uit, waarbij de Wlz-uitvoerder rekening houdt met de verschillende verantwoordingsjaren van de zorguitgaven.
 
@@ -118,7 +141,7 @@ De Wlz-uitvoerder registreert signalen en onderzoek naar fraude en daarbij legt 
 
 4. Bij de uitvoering van fraudeonderzoek voert de Wlz-uitvoerder verdiepend vervolgonderzoek uit op signalen of vermoedens van fraude om vast te stellen of fraude is gepleegd.
 
-#### Artikel 9. Bepalingen over vervolgacties en evaluatie
+##### Artikel 9. Bepalingen over vervolgacties en evaluatie
 
 1. De Wlz-uitvoerder stelt voor alle uitgevoerde controles een foutenevaluatie op en neemt deze op inzichtelijke wijze in zijn administratie op. Fouten worden in absolute zin opgevat, saldering van fouten is niet toegestaan.
 
@@ -140,7 +163,7 @@ De Wlz-uitvoerder registreert signalen en onderzoek naar fraude en daarbij legt 
 
 10. Bij vermoeden van fraude maakt de Wlz-uitvoerder melding daarvan bij het Kenniscentrum Fraudebeheersing.
 
-#### Artikel 10. Specifieke controles
+##### Artikel 10. Specifieke controles
 
 1. De Wlz-uitvoerder borgt de controle op de inzet van bijzondere aan zorgaanbieders toegekende middelen voor het bevorderen van de kwaliteit van zorg. Die toekenning is gebaseerd op door de zorgaanbieder opgestelde plannen met bijbehorende begrotingen en wordt vastgelegd in overeenkomsten als bedoeld in [artikel 4.2.2 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.2). Voor die controle beoordeelt de Wlz-uitvoerder tenminste:
 
@@ -152,7 +175,7 @@ De Wlz-uitvoerder registreert signalen en onderzoek naar fraude en daarbij legt 
 
 3. De Wlz-uitvoerder verkrijgt, op basis van de te sluiten overeenkomsten, inzicht in welke mate gecontracteerde zorgaanbieders zorg uitbesteden aan andere zorgaanbieders of zelfstandigen zonder personeel (zzp’ers), die uiteindelijk de zorg daadwerkelijk verlenen. De Wlz-uitvoerder gebruikt deze informatie om te toetsen of de kwaliteit van de afgesproken zorgverlening (en zorgcontinuïteit) gewaarborgd blijft en of Wlz-middelen niet oneigenlijk of ondoelmatig worden aangewend. Zo nodig onderneemt de Wlz-uitvoerder actie in de vorm van nader onderzoek.
 
-#### Artikel 11. Bepalingen over sturing en managementinformatie
+##### Artikel 11. Bepalingen over sturing en managementinformatie
 
 1. Het bestuur van de Wlz-uitvoerder is verantwoordelijk voor de goede uitvoering van controleactiviteiten en geeft actief sturing aan de uitvoering van de controles.
 
@@ -160,11 +183,11 @@ De Wlz-uitvoerder registreert signalen en onderzoek naar fraude en daarbij legt 
 
 3. De Wlz-uitvoerder betrekt de managementinformatie, bedoeld in artikel 11.2, bij de uitvoering van zijn controle-activiteiten. De Wlz-uitvoerder breidt zijn controleactiviteiten uit of scherpt deze aan, als uit de managementinformatie blijkt dat dat nodig is.
 
-#### Artikel 12. Intrekking oude regeling
+##### Artikel 12. Intrekking oude regeling
 
 Gelijktijdig met de inwerkingtreding van deze regeling wordt de [regeling controle en administratie Wlz-uitvoerders](https://wetten.overheid.nl/jci1.3:c:BWBR0041510), met kenmerk TH/NR-013, ingetrokken.
 
-#### Artikel 13. Toepasselijkheid voorafgaande regeling, inwerkingtreding en citeertitel
+##### Artikel 13. Toepasselijkheid voorafgaande regeling, inwerkingtreding en citeertitel
 
 De [Regeling controle en administratie Wlz-uitvoerders](https://wetten.overheid.nl/jci1.3:c:BWBR0041510), met kenmerk TH/NR-013, blijft van toepassing op gedragingen (handelen en nalaten) van Wlz-uitvoerders die onder de werkingssfeer van die regeling vielen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regeling gold.
 

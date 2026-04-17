@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzingsbesluit elektronische verzending formele berichten DNB"
+title: "Besluit van de Nederlandsche Bank N.V. van 19 december 2025 houdende regels met betrekking tot de aanwijzing van de elektronische verzendwijze van formele berichten aan DNB (Aanwijzingsbesluit elektronische verzending formele berichten DNB)"
 identifier: "BWBR0052118"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052118"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052118"
+soort: "zbo"
+stam_id: "17724753"
+version_id: "31280512"
+internal_id: "C44722631"
+label_id: "17623324"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052118/2026-01-01/0"
+intitule_bron: "Stcrt.2026-123"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-19"
+intitule_published: "2026-01-06"
+intitule_in_force: "2026-01-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-123"
+original_signed_date: "2025-12-19"
+original_published_date: "2026-01-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-123"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0052118&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0052118&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Aanwijzingsbesluit elektronische verzending formele berichten DNB"
+signed_date: "2025-12-19"
+entry_into_force: "2026-01-01"
 ---
-
 # Besluit van de Nederlandsche Bank N.V. van 19 december 2025 houdende regels met betrekking tot de aanwijzing van de elektronische verzendwijze van formele berichten aan DNB (Aanwijzingsbesluit elektronische verzending formele berichten DNB)
 
 Gelet op [artikel 2:13, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:13);
@@ -16,7 +42,7 @@ Besluit:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -32,19 +58,19 @@ In dit besluit wordt verstaan onder:
 
 - f. **Wetgeving:** de Algemene verordening gegevensbescherming, de [Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508), de Toezichtwetgeving, de [Wet financiële betrekkingen buitenland 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006547) en de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754)
 
-#### Artikel 2. Verzendwijzen
+##### Artikel 2. Verzendwijzen
 
 Een formeel bericht, verband houdende met de voor DNB relevante wetgeving, kan elektronisch aan DNB worden verzonden voor de in de bijlage vermelde typen berichten. Een overzicht van verzendwijzen is te vinden op de overzichtspagina van DNB.
 
-#### Artikel 3. Intrekken besluit
+##### Artikel 3. Intrekken besluit
 
 De [Aanwijzing elektronische verzendwijzen DNB](https://wetten.overheid.nl/jci1.3:c:BWBR0051633) wordt ingetrokken
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2026.
 
-#### Artikel 5. Citeertitel
+##### Artikel 5. Citeertitel
 
 Dit besluit wordt aangehaald als: Aanwijzingsbesluit elektronische verzending formele berichten DNB.
 

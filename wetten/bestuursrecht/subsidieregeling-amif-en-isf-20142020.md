@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling AMIF en ISF 2014–2020"
+title: "Regeling van de Staatssecretaris van Veiligheid en Justitie, de Minister van Veiligheid en Justitie en de Minister van Sociale Zaken en Werkgelegenheid van 26 maart 2015, nummer 625779, tot besteding van de gelden uit het Europese Fonds voor asiel, migratie en integratie en het Fonds voor interne veiligheid (instrument voor financiële steun voor politiële samenwerking, voorkoming en bestrijding van criminaliteit, en crisisbeheersing en instrument voor financiële steun voor de buitengrenzen en visa) (Subsidieregeling AMIF en ISF 2014–2020)"
 identifier: "BWBR0036487"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-07-21
-laatste_update: 2022-07-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036487"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-07-21"
+last_updated: "2022-07-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036487"
+soort: "ministeriele-regeling"
+stam_id: "13127353"
+version_id: "26744672"
+internal_id: "C37904631"
+label_id: "13096304"
+dtd_version: "2.0"
+original_entry_into_force: "2020-04-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036487/2022-07-21/0"
+intitule_bron: "Stcrt.2015-9132"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-03-26"
+intitule_published: "2015-03-31"
+intitule_in_force: "2015-03-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-28300"
+original_signed_date: "2020-04-15"
+original_published_date: "2020-06-03"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2020-28300"
+entry_into_force_date: "2020-04-15"
+jci_1_3: "jci1.3:c:BWBR0036487&z=2022-07-21&g=2022-07-21"
+jci_1_0: "1.0:c:BWBR0036487&g=2022-07-21"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling AMIF en ISF 2014–2020"
+signed_date: "2020-04-15"
+entry_into_force: "2020-04-15"
 ---
-
 # Regeling van de Staatssecretaris van Veiligheid en Justitie, de Minister van Veiligheid en Justitie en de Minister van Sociale Zaken en Werkgelegenheid van 26 maart 2015, nummer 625779, tot besteding van de gelden uit het Europese Fonds voor asiel, migratie en integratie en het Fonds voor interne veiligheid (instrument voor financiële steun voor politiële samenwerking, voorkoming en bestrijding van criminaliteit, en crisisbeheersing en instrument voor financiële steun voor de buitengrenzen en visa) (Subsidieregeling AMIF en ISF 2014–2020)
 
 Gelet op [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3), [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=5) en [artikel 8, eerste lid, van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=8), [artikel 2, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=2), [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=3) en [artikel 4, van de Kaderwet overige BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=4) en de [artikelen 48s](https://wetten.overheid.nl/jci1.3:c:BWBR0008121&artikel=48s) en [48t van de Wet Justitie-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008121&artikel=48t);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -64,7 +90,7 @@ In deze regeling wordt verstaan onder:
 
 - •. **vreemdeling:** ieder die de Nederlandse nationaliteit niet bezit en niet op grond van een wettelijke bepaling als Nederlander moet worden behandeld.
 
-#### Artikel 2. Inleidende bepaling
+##### Artikel 2. Inleidende bepaling
 
 1. De minister kan, overeenkomstig deze regeling, subsidie verstrekken aan de nader krachtens deze regeling aangewezen rechtspersonen die een bijdrage leveren aan de uitvoering van het nationale programma AMIF 2014–2020 en de uitvoering van het nationale programma ISF 2014–2020. De minister neemt daarbij de Horizontale verordening, de Verordening AMIF, de Verordening ISF Politie en de Verordening ISF Grenzen in acht.
 
@@ -76,7 +102,7 @@ In deze regeling wordt verstaan onder:
 
 5. De bepalingen in de bijlagen gelden in aanvulling op hetgeen in het algemeen deel van de regeling is vastgelegd. Voor zover de bepalingen uit de bijlagen in tegenspraak zijn met bepalingen uit het algemeen deel van de regeling, prevaleren de bepalingen in de bijlagen boven de bepalingen in het algemeen deel van de regeling.
 
-#### Artikel 3. Aanwijzing instanties
+##### Artikel 3. Aanwijzing instanties
 
 1. Als verantwoordelijke instantie als bedoeld in artikel 25, eerste lid, onderdeel a, van de Horizontale verordening, wordt aangewezen de Directie Regie Migratieketen van het Ministerie van Justitie en Veiligheid.
 
@@ -84,7 +110,7 @@ In deze regeling wordt verstaan onder:
 
 3. Als gedelegeerde instantie als bedoeld in artikel 25, eerste lid, onderdeel c, van de Horizontale verordening wordt aangewezen de Minister van Sociale Zaken en Werkgelegenheid.
 
-#### Artikel 4. Aard van de projecten
+##### Artikel 4. Aard van de projecten
 
 De minister kan met inachtneming van deze regeling en onder het voorbehoud, bedoeld in artikel 17, eerste lid, van de Horizontale Verordening, subsidie verlenen ten behoeve van projecten zonder winstoogmerk op het gebied van:
 
@@ -122,11 +148,11 @@ De minister kan met inachtneming van deze regeling en onder het voorbehoud, bedo
 
 - q. het Schengen Informatiesysteem, nader uitgewerkt in [bijlage Hk](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=Hk&z=2022-07-21&g=2022-07-21), behorende bij deze regeling.
 
-#### Artikel 5. Aanvraagtijdvakken en subsidieplafond
+##### Artikel 5. Aanvraagtijdvakken en subsidieplafond
 
 De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedurende door de minister vastgestelde aanvraagtijdvakken, gelegen in de jaren 2014 tot en met 2022. De minister maakt de aanvraagtijdvakken vooraf bekend in de Nederlandse Staatscourant, waarbij tevens het maximaal beschikbare bedrag per actie per aanvraagtijdvak wordt vastgesteld.
 
-#### Artikel 6. Subsidieaanvrager
+##### Artikel 6. Subsidieaanvrager
 
 1. De subsidie met betrekking tot een project op het gebied van een actie als bedoeld in [artikel 4, onderdelen a, b, c en i](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2022-07-21&g=2022-07-21), wordt aangevraagd door de als zodanig geregistreerde subsidieaanvrager, die per actie is aangewezen in de [bijlagen A tot en met C](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=A&z=2022-07-21&g=2022-07-21) bij deze regeling.
 
@@ -134,7 +160,7 @@ De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedur
 
 3. De subsidie met betrekking tot een project op het gebied van een actie als bedoeld in [artikel 4, onderdelen d tot en met o](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2022-07-21&g=2022-07-21), wordt aangevraagd door de subsidieaanvrager, die per actie is aangewezen in de [bijlagen D tot en met Hi](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=D&z=2022-07-21&g=2022-07-21) bij deze regeling.
 
-#### Artikel 7. De subsidieaanvraag
+##### Artikel 7. De subsidieaanvraag
 
 1. De subsidieaanvraag heeft steeds betrekking op één project.
 
@@ -170,7 +196,7 @@ De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedur
 
 10. Desgevraagd verstrekt de subsidieaanvrager een nadere toelichting op de projectbeschrijving en de begroting.
 
-#### Artikel 8. Rangschikking
+##### Artikel 8. Rangschikking
 
 1. Subsidieaanvragen met betrekking tot een actie als bedoeld in [artikel 4, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2022-07-21&g=2022-07-21), worden getoetst en gerangschikt aan de hand van het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=I&z=2022-07-21&g=2022-07-21) opgenomen puntenstelsel. Projecten die in hogere mate voldoen aan de criteria van het puntenstelsel hebben voorrang op de projecten die in mindere mate aan deze criteria voldoen.
 
@@ -182,7 +208,7 @@ De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedur
 
 5. De minister kan de selectiecommissie aanwijzingen geven over de manier waarop de taak, bedoeld in het derde en vierde lid, wordt uitgevoerd.
 
-#### Artikel 9. Subsidieverlening
+##### Artikel 9. Subsidieverlening
 
 1. De minister verleent de subsidie aan de subsidieaanvrager.
 
@@ -190,7 +216,7 @@ De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedur
 
 3. De beschikking vermeldt in ieder geval de in artikel 10, tweede lid, van de Gedelegeerde Verordening (EU) Nr. 1042/2014 genoemde onderdelen. Bij de bepaling van het maximumbedrag van de subsidie wordt uitgegaan van het totaal van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=12&z=2022-07-21&g=2022-07-21) genoemde kosten van het project, zoals door de subsidieaanvrager geraamd in zijn subsidieaanvraag, met dien verstande dat bepaalde, in de beschikking te vermelden kostenposten buiten beschouwing kunnen worden gelaten dan wel op een lager bedrag kunnen worden bepaald.
 
-#### Artikel 10. Weigering van de subsidie
+##### Artikel 10. Weigering van de subsidie
 
 Een aanvraag tot verlening van subsidie kan in ieder geval door de minister geheel of gedeeltelijk worden afgewezen, indien:
 
@@ -220,11 +246,11 @@ Een aanvraag tot verlening van subsidie kan in ieder geval door de minister gehe
 
 - m. voor een subsidieaanvraag met betrekking tot een actie als bedoeld in [artikel 4, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2022-07-21&g=2022-07-21), op grond van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=8&z=2022-07-21&g=2022-07-21), minder dan 60 punten worden toegekend.
 
-#### Artikel 11. Hoogte van de subsidie
+##### Artikel 11. Hoogte van de subsidie
 
 De subsidie ten behoeve van projecten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2022-07-21&g=2022-07-21) bedraagt maximaal 75% van de subsidiabele kosten, doch ten hoogste het in de beschikking tot subsidieverlening vermelde maximumbedrag.
 
-#### Artikel 12. Subsidiabele kosten
+##### Artikel 12. Subsidiabele kosten
 
 1. Ter uitvoering van de subsidiabele activiteiten van het project komen voor subsidiëring uitsluitend de volgende kostensoorten in aanmerking:
 
@@ -292,7 +318,7 @@ De subsidie ten behoeve van projecten als bedoeld in [artikel 4](https://wetten.
 
 13. De minister stelt ambtshalve vast welke subsidievorm, bedoeld in het eerste of twaalfde lid, wordt toegepast, alsmede in hoeverre een eventuele combinatie van deze subsidievormen mogelijk is.
 
-#### Artikel 13. Niet subsidiabele kosten
+##### Artikel 13. Niet subsidiabele kosten
 
 Niet voor subsidiëring komen in aanmerking:
 
@@ -326,7 +352,7 @@ Niet voor subsidiëring komen in aanmerking:
 
 - o. dezelfde kosten die reeds uit hoofde van nationale subsidieprogramma’s worden gefinancierd zodanig dat de totale financiering van de subsidiabele kosten meer dan 100% bedraagt.
 
-#### Artikel 14. Bevoorschotting
+##### Artikel 14. Bevoorschotting
 
 1. Na verlening van de subsidie wordt een voorschot verleend tot maximaal 50% van het in de beschikking tot subsidieverlening opgenomen maximum subsidiebedrag.
 
@@ -334,7 +360,7 @@ Niet voor subsidiëring komen in aanmerking:
 
 3. Aan de subsidieontvanger kan een nadere financiële en inhoudelijke onderbouwing, inclusief specificatie van reeds gemaakte kosten alsmede zekerheid worden gevraagd ten behoeve van het verlenen van een voorschot.
 
-#### Artikel 15. Administratievoorschriften
+##### Artikel 15. Administratievoorschriften
 
 1. De subsidieontvanger houdt een inzichtelijke en controleerbare administratie bij met betrekking tot de uitvoering van het project en de in verband daarmee gemaakte kosten en gerealiseerde opbrengsten. Deze administratie bestaat uit een projectadministratie, waaronder voor zover van toepassing een deelnemersadministratie, en een financiële administratie waarin alle noodzakelijke gegevens tijdig, juist en volledig zijn vastgelegd en ten behoeve van de vaststelling van de subsidiabiliteit zijn te verifiëren met bewijsstukken.
 
@@ -352,7 +378,7 @@ Niet voor subsidiëring komen in aanmerking:
 
 8. Het Europees Bureau voor Fraudebestrijding kan onderzoeken uitvoeren, zoals controles en verificaties te plaatse, overeenkomstig de bepalingen en procedures in Verordening (EU, Euratom) nr. 883/2013 van het Europees Parlement en de Raad en Verordening (Euratom, EG) nr. 2185/96 van de Raad, om vast te stellen of er sprake is van fraude, corruptie of andere onwettige activiteiten waardoor de financiële belangen van de Europese Unie zijn geschaad, in verband met een subsidieovereenkomst, subsidiebesluit of een overeenkomst, gefinancierd overeenkomstig de Horizontale verordening of de specifieke verordeningen.
 
-#### Artikel 16. Beschikbaarheid van bescheiden
+##### Artikel 16. Beschikbaarheid van bescheiden
 
 1. De subsidieontvanger bewaart alle administratieve bescheiden die betrekking hebben op het gesubsidieerde project tot tenminste 31 december 2027 dan wel tot een nader door de minister aan de subsidieontvanger schriftelijk bekend te maken termijn. Indien de Europese Commissie, vanwege een gerechtelijke procedure of een met redenen omkleed verzoek de bewaartermijn schorst, maakt de minister de gevolgen voor de bewaartermijn, in de Staatscourant bekend.
 
@@ -364,7 +390,7 @@ Niet voor subsidiëring komen in aanmerking:
 
 5. Alle administratieve bescheiden zijn beschikbaar voor de subsidieontvanger. De subsidieontvanger is en blijft verantwoordelijk voor een correcte opslag van alle administratieve bescheiden, ook als hij een derde met de opslag belast.
 
-#### Artikel 17. Rapportageverplichtingen
+##### Artikel 17. Rapportageverplichtingen
 
 1. Indien de projectduur langer is dan 12 maanden wordt jaarlijks op 15 november onder gebruikmaking van het daartoe door de minister ten behoeve van een project op het gebied van een actie als bedoeld in [artikel 4, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2022-07-21&g=2022-07-21), elektronisch beschikbaar gestelde formulier een voortgangsrapportage ingediend, waarin rekening en verantwoording wordt afgelegd over de voortgang van het project waarover subsidie is verleend. Voor de overige projecten wordt een voortgangsrapportage ingediend onder gebruikmaking van een daartoe door de minister niet-elektronisch beschikbaar gesteld formulier
 
@@ -378,7 +404,7 @@ Niet voor subsidiëring komen in aanmerking:
 
 6. Indien binnen drie jaar na afloop van het project sprake is van faillissement of overgang van eigendom van een door het project gefinancierde onderneming, meldt de subsidieontvanger dit aan de minister.
 
-#### Artikel 18. Einddeclaratie en subsidievaststelling
+##### Artikel 18. Einddeclaratie en subsidievaststelling
 
 1. De subsidieontvanger dient binnen dertien weken na beëindiging van het project een verzoek tot vaststelling van de subsidie in bij de minister. Bij het verzoek tot vaststelling van de subsidie wordt een verantwoording en een einddeclaratie gevoegd.
 
@@ -386,7 +412,7 @@ Niet voor subsidiëring komen in aanmerking:
 
 3. De minister stelt binnen 12 maanden na ontvangst van het verzoek tot vaststelling van de subsidie de subsidie vast.
 
-#### Artikel 19. Publiciteit
+##### Artikel 19. Publiciteit
 
 1. De subsidieontvanger informeert de door hem ingeschakelde uitvoerder en de deelnemers aan projecten dat zij deelnemen aan een door het Fonds voor asiel, migratie en integratie, dan wel het Fonds voor interne veiligheid van de Europese Unie gesubsidieerd project.
 
@@ -408,13 +434,13 @@ Niet voor subsidiëring komen in aanmerking:
 
 10. De projectresultaten worden om niet beschikbaar gesteld aan de minister of door hem aangewezen derden, en de subsidieontvanger verleent medewerking aan door de minister georganiseerde publicitaire en voorlichtingsactiviteiten gericht op de media, potentiële deelnemers van projecten en het grote publiek.
 
-#### Artikel 20. Openbaar maken subsidiedossier
+##### Artikel 20. Openbaar maken subsidiedossier
 
 1. Door het indienen van een aanvraag stemt de subsidieontvanger er mee in dat het subsidiedossier openbaar kan worden gemaakt.
 
 2. Informatie uit het subsidiedossier wordt niet openbaar gemaakt wanneer de informatie niet voor iedereen toegankelijk is vanwege de vertrouwelijke aard ervan, met name omdat ze verband houdt met veiligheid, openbare orde, strafrechtelijk onderzoek en de bescherming van persoonsgegevens.
 
-#### Artikel 21. Intrekking en terugvordering
+##### Artikel 21. Intrekking en terugvordering
 
 1. Onverminderd het bepaalde in [afdeling 4.2.6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.6) kan een beschikking tot subsidieverlening door de minister geheel of gedeeltelijk worden ingetrokken, en kunnen op basis daarvan uitbetaalde bedragen worden teruggevorderd:
 
@@ -434,11 +460,11 @@ Niet voor subsidiëring komen in aanmerking:
 
 3. De minister kan het terug te vorderen bedrag verrekenen met een aan dezelfde subsidieontvanger in het kader van deze regeling verleende en nog te betalen subsidie, dan wel een andere verleende en nog te betalen subsidie.
 
-#### Artikel 22. Citeertitel
+##### Artikel 22. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling AMIF en ISF 2014–2020.
 
-#### Artikel 23. Inwerkingtreding
+##### Artikel 23. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat voor subsidieaanvragen met betrekking tot een project op het gebied van een actie als bedoeld in [artikel 4, onderdelen d tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2022-07-21&g=2022-07-21), deze regeling terugwerkt tot en met 1 januari 2015.
 
@@ -714,7 +740,7 @@ Projecten zijn uitsluitend gericht op de volgende activiteit:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 21a
+##### Artikel 21a
 
 Deze regeling berust mede op [artikel 48a, vierde lid, van de Wet Justitie-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008121&artikel=48a).
 

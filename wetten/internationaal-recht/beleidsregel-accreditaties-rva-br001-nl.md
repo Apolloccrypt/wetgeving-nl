@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel Accreditaties (RvA-BR001-NL)"
+title: "Besluit van de Raad voor Accreditatie van 3 juli 2025 tot vaststelling van Beleidsregel Accreditaties (RvA-BR001-NL) en intrekking diverse beleidsregels"
 identifier: "BWBR0051398"
-categorie: "Internationaal recht"
-publicatiedatum: 2025-09-15
-laatste_update: 2025-09-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051398"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-09-15"
+last_updated: "2025-09-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051398"
+soort: "zbo"
+stam_id: "17505573"
+version_id: "30883632"
+internal_id: "C44252211"
+label_id: "17407654"
+dtd_version: "2.0"
+original_entry_into_force: "2025-09-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051398/2025-09-15/0"
+intitule_bron: "Stcrt.2025-27731"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-08-06"
+intitule_published: "2025-08-18"
+intitule_in_force: "2025-08-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-27731"
+original_signed_date: "2025-08-06"
+original_published_date: "2025-08-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-27731"
+entry_into_force_date: "2025-09-15"
+jci_1_3: "jci1.3:c:BWBR0051398&z=2025-09-15&g=2025-09-15"
+jci_1_0: "1.0:c:BWBR0051398&g=2025-09-15"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel Accreditaties (RvA-BR001-NL)"
+signed_date: "2025-08-06"
+entry_into_force: "2025-09-15"
 ---
-
 # Besluit van de Raad voor Accreditatie van 3 juli 2025 tot vaststelling van Beleidsregel Accreditaties (RvA-BR001-NL) en intrekking diverse beleidsregels
 
 Het bestuur van de Raad voor Accreditatie,

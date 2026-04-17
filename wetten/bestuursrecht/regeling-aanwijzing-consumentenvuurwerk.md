@@ -1,20 +1,46 @@
 ---
-title: "Regeling aanwijzing consumentenvuurwerk"
+title: "Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 13 juli 2010, nr. BJZ2010018765, tot aanwijzing van consumenten- en theatervuurwerk (Regeling aanwijzing consumenten- en theatervuurwerk)"
 identifier: "BWBR0027932"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-12-01
-laatste_update: 2025-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027932"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-12-01"
+last_updated: "2025-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027932"
+soort: "ministeriele-regeling"
+stam_id: "10612503"
+version_id: "17530792"
+internal_id: "C24258981"
+label_id: "10587454"
+dtd_version: "2.0"
+original_entry_into_force: "2010-07-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027932/2025-12-01/0"
+intitule_bron: "Stcrt.2010-11226"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-07-13"
+intitule_published: "2010-07-16"
+intitule_in_force: "2010-07-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-11226"
+original_signed_date: "2010-07-13"
+original_published_date: "2010-07-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-11226"
+entry_into_force_date: "2010-07-17"
+jci_1_3: "jci1.3:c:BWBR0027932&z=2025-12-01&g=2025-12-01"
+jci_1_0: "1.0:c:BWBR0027932&g=2025-12-01"
+citeertitel_status: "officieel"
+short_title: "Regeling aanwijzing consumentenvuurwerk"
+signed_date: "2010-07-13"
+entry_into_force: "2010-07-17"
 ---
-
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 13 juli 2010, nr. BJZ2010018765, tot aanwijzing van consumenten- en theatervuurwerk (Regeling aanwijzing consumenten- en theatervuurwerk)
 
 Gelet op [richtlijn nr. 2007/23/EG](32007L0023) van het Europees Parlement en de Raad van 23 mei 2007 betreffende het in de handel brengen van pyrotechnische artikelen (PbEU L 154), [artikel 9.2.2.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1), [artikel 1.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=1.1.1) en [artikel 2.1.1 van het Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=2.1.1);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 **zwart buskruit:** mengsel bestaande uit houtskool en natriumnitraat of kaliumnitraat met of zonder zwavel, met een maximale verontreiniging van 3% van de hoeveelheid mengsel.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Als consumentenvuurwerk wordt aangewezen vuurwerk dat behoort tot een in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&bijlage=I&z=2025-12-01&g=2025-12-01) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&bijlage=II&z=2025-12-01&g=2025-12-01) genoemde categorie en voldoet aan de volgende eisen:
 
@@ -78,23 +104,23 @@ In deze regeling wordt verstaan onder:
 
 - –. een combinatie van de methoden genoemd onder de eerste twee opsommingstekens.
 
-#### Artikel 3
+##### Artikel 3
 
 Als fop- en schertsvuurwerk wordt aangewezen vuurwerk dat behoort tot een in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&bijlage=II&z=2025-12-01&g=2025-12-01) genoemde categorie en voldoet aan de in [artikel 2, eerste lid, onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&artikel=2&z=2025-12-01&g=2025-12-01), bedoelde eisen.
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 De [Regeling nadere eisen aan vuurwerk 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016412) wordt ingetrokken.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing consumentenvuurwerk.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst.
 

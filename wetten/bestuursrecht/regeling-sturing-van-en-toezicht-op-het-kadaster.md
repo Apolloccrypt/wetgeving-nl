@@ -1,13 +1,39 @@
 ---
-title: "Regeling sturing van en toezicht op het Kadaster"
+title: "Regeling van de Minister van Infrastructuur en Milieu, van 5 december 2012, nr. IENM/BSK-2012/241276, houdende vaststelling regels in verband met de implementatie van de Kaderwet zelfstandige bestuursorganen en de sturing van en het toezicht op de Dienst voor het kadaster en de openbare registers, bedoeld in artikel 2 van de Organisatiewet Kadaster (Regeling sturing van en toezicht op de Dienst voor het kadaster en de openbare registers, bedoeld in artikel 2 van de Organisatiewet Kadaster)"
 identifier: "BWBR0032460"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-07-01
-laatste_update: 2022-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032460"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-07-01"
+last_updated: "2022-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032460"
+soort: "ministeriele-regeling"
+stam_id: "11958183"
+version_id: "19881932"
+internal_id: "C27917441"
+label_id: "11930224"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032460/2022-07-01/0"
+intitule_bron: "Stcrt.2012-25328"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-05"
+intitule_published: "2012-12-18"
+intitule_in_force: "2012-12-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-25328"
+original_signed_date: "2012-12-05"
+original_published_date: "2012-12-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-25328"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032460&z=2022-07-01&g=2022-07-01"
+jci_1_0: "1.0:c:BWBR0032460&g=2022-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling sturing van en toezicht op het Kadaster"
+signed_date: "2012-12-05"
+entry_into_force: "2013-01-01"
 ---
-
 # Regeling van de Minister van Infrastructuur en Milieu, van 5 december 2012, nr. IENM/BSK-2012/241276, houdende vaststelling regels in verband met de implementatie van de Kaderwet zelfstandige bestuursorganen en de sturing van en het toezicht op de Dienst voor het kadaster en de openbare registers, bedoeld in artikel 2 van de Organisatiewet Kadaster (Regeling sturing van en toezicht op de Dienst voor het kadaster en de openbare registers, bedoeld in artikel 2 van de Organisatiewet Kadaster)
 
 Gelet op de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26) en [32 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=32) en de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=31) en [31a van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=31a);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -26,21 +52,21 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Bestuur en raad van toezicht van de Dienst
 
-#### Artikel 2. Ontstentenis bestuur
+##### Artikel 2. Ontstentenis bestuur
 
 De Dienst informeert de minister onverwijld over de ontstentenis van een lid van de raad van bestuur met het oog op een door de minister te treffen voorziening.
 
-#### Artikel 3. Rol raad van toezicht
+##### Artikel 3. Rol raad van toezicht
 
 De raad van toezicht oefent onafhankelijk van bestuur en minister toezicht uit. De raad van toezicht heeft een interne toezichtfunctie en is daarbij gericht op het beleid van de directie en op de algemene gang van zaken in de Dienst. De raad van toezicht richt zich bij de vervulling van de taak naar het belang van de Dienst en weegt daartoe de in aanmerking komende belangen van de bij de Dienst betrokkenen af.
 
 #### § 3. Financieel toezicht
 
-#### Artikel 4. Begroting
+##### Artikel 4. Begroting
 
 De Dienst zendt jaarlijks voor 1 september ter informatie de conceptbegroting voor het daaropvolgende jaar aan de Minister en voor 1 oktober de begroting voor het daaropvolgende jaar aan de Minister.
 
-#### Artikel 5. Meerjarenbeleidsplan
+##### Artikel 5. Meerjarenbeleidsplan
 
 1. Het aan de minister voor te leggen meerjarenbeleidsplan omvat de periode van het komende begrotingsjaar en de vier volgende jaren.
 
@@ -70,7 +96,7 @@ De Dienst zendt jaarlijks voor 1 september ter informatie de conceptbegroting vo
 
 - l. de wijze waarop invulling is gegeven aan de jaarbrief van de Minister.
 
-#### Artikel 6. Aandachtspunten voor de accountantscontrole
+##### Artikel 6. Aandachtspunten voor de accountantscontrole
 
 1. De aandachtspunten voor de accountantscontrole zijn uitgewerkt in de bijlage bij deze regeling.
 
@@ -84,7 +110,7 @@ De Dienst zendt jaarlijks voor 1 september ter informatie de conceptbegroting vo
 
 - c. dat de kosten van de strategische eenheden zijn gebaseerd op het vastgestelde kostprijscalculatiemodel.
 
-#### Artikel 7. Invulling van [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=13) juncto [artikel 32 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=32)
+##### Artikel 7. Invulling van [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=13) juncto [artikel 32 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=32)
 
 1. De Dienst behoeft de voorafgaande instemming van de minister voor:
 
@@ -112,11 +138,11 @@ De Dienst zendt jaarlijks voor 1 september ter informatie de conceptbegroting vo
 
 #### § 4. Informatie-uitwisseling
 
-#### Artikel 8. Jaarrekening
+##### Artikel 8. Jaarrekening
 
 Bij de inrichting van de jaarrekening wordt onderscheid gemaakt tussen de baten en lasten, alsook tussen de ontvangsten en uitgaven uit de bij of krachtens een wet aan de Dienst opgedragen taken dan wel uit andere activiteiten.
 
-#### Artikel 9. Jaarverslag
+##### Artikel 9. Jaarverslag
 
 1. In aanvulling op [titel 9, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), en de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) en [19 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=19) bevat het jaarverslag in ieder geval de volgende onderdelen:
 
@@ -164,11 +190,11 @@ Bij de inrichting van de jaarrekening wordt onderscheid gemaakt tussen de baten 
 
 - c. het aantal ingediende schadeclaims, onderverdeeld naar taak en de resultaten daarvan.
 
-#### Artikel 10. Toepassing internationale wet- en regelgeving
+##### Artikel 10. Toepassing internationale wet- en regelgeving
 
 Vervallen
 
-#### Artikel 11. Uitvoeringstoets Dienst
+##### Artikel 11. Uitvoeringstoets Dienst
 
 1. De minister legt de volgende voornemens tijdig aan de Dienst voor met het oog op een uitvoeringstoets:
 
@@ -188,7 +214,7 @@ Vervallen
 
 5. Indien in de loop van het besluitvormingsproces het aan de Dienst voorgelegde voornemen op voor de Dienst relevante punten wordt gewijzigd, legt de minister de wijzigingen ten behoeve van een finale uitvoeringstoets voor aan de Dienst.
 
-#### Artikel 12. Uitvoeringsevaluaties
+##### Artikel 12. Uitvoeringsevaluaties
 
 1. De Dienst evalueert op een daartoe door de minister gedaan verzoek of uit eigen beweging de uitvoering van nieuw of bijgesteld beleid dan wel nieuwe of bijgestelde wet- en regelgeving.
 
@@ -196,19 +222,19 @@ Vervallen
 
 3. De minister reageert op de door de Dienst toegezonden rapportage en geeft daarbij in ieder geval aan hoe de rapportage in de besluitvorming is of zal worden betrokken.
 
-#### Artikel 13. ICT-projecten
+##### Artikel 13. ICT-projecten
 
 De Dienst verschaft de Minister structureel informatie over lopende dan wel in voorbereiding zijnde ICT-projecten waarover aan het Adviescollege ICT-toetsing, bedoeld in [artikel 2, eerste lid, van het Instellingsbesluit Adviescollege ICT-toetsing](https://wetten.overheid.nl/jci1.3:c:BWBR0044438&artikel=2) advies wordt gevraagd, of waarover door de Minister aan de Tweede Kamer der Staten-Generaal wordt gerapporteerd.
 
-#### Artikel 14. Integriteit
+##### Artikel 14. Integriteit
 
 Vervallen
 
-#### Artikel 15. Onderzoek door derden ten behoeve van toezicht
+##### Artikel 15. Onderzoek door derden ten behoeve van toezicht
 
 Indien de minister na overleg met de Dienst een derde aanwijst om in het kader van het toezicht op het functioneren van de Dienst onderzoek te doen naar een door de minister te bepalen onderdeel van de Dienst of van de taakuitoefening door de Dienst, verstrekt de Dienst aan deze derde op de door de derde te bepalen wijze de ter zake van het onderzoek gevraagde informatie voor zover dit niet beperkt is door een wet of contract.
 
-#### Artikel 16. Informatieverstrekking van de minister aan de Dienst
+##### Artikel 16. Informatieverstrekking van de minister aan de Dienst
 
 De minister verstrekt de Dienst informatie met betrekking tot:
 
@@ -226,7 +252,7 @@ De minister verstrekt de Dienst informatie met betrekking tot:
 
 - g. overige ontwikkelingen die het functioneren van de Dienst beïnvloeden.
 
-#### Artikel 17. Instemmingstoets minister
+##### Artikel 17. Instemmingstoets minister
 
 1. De Dienst legt tot hem gerichte voorstellen tot taakopdracht door een ander bestuursorgaan tijdig voor aan de minister met het oog op het verkrijgen van diens instemming.
 
@@ -234,15 +260,15 @@ De minister verstrekt de Dienst informatie met betrekking tot:
 
 #### § 5. Overige bepalingen
 
-#### Artikel 18. Citeertitel
+##### Artikel 18. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling sturing van en toezicht op het Kadaster.
 
-#### Artikel 19. Overgangsrecht
+##### Artikel 19. Overgangsrecht
 
 Vervallen
 
-#### Artikel 20. Inwerkingtreding
+##### Artikel 20. Inwerkingtreding
 
 Deze regeling treedt in werking op 1 januari 2013.
 

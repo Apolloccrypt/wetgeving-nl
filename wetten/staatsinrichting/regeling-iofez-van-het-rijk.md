@@ -1,13 +1,39 @@
 ---
-title: "Regeling IOFEZ van het Rijk"
+title: "Regeling van de Minister van Financiën van 21 november 2017, houdende regels over een periodiek interdepartementaal overleg met betrekking tot financieel-economische aangelegenheden bij het Rijk (Regeling IOFEZ van het Rijk)"
 identifier: "BWBR0040284"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2018-01-01
-laatste_update: 2018-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040284"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-01-01"
+last_updated: "2018-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040284"
+soort: "ministeriele-regeling"
+stam_id: "14432113"
+version_id: "24678642"
+internal_id: "C35307731"
+label_id: "14392694"
+dtd_version: "2.0"
+original_entry_into_force: "2018-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040284/2018-01-01/0"
+intitule_bron: "Stcrt.2017-69115"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-11-21"
+intitule_published: "2017-12-04"
+intitule_in_force: "2017-12-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-69115"
+original_signed_date: "2017-11-21"
+original_published_date: "2017-12-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-69115"
+entry_into_force_date: "2018-01-01"
+jci_1_3: "jci1.3:c:BWBR0040284&z=2018-01-01&g=2018-01-01"
+jci_1_0: "1.0:c:BWBR0040284&g=2018-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling IOFEZ van het Rijk"
+signed_date: "2017-11-21"
+entry_into_force: "2018-01-01"
 ---
-
 # Regeling van de Minister van Financiën van 21 november 2017, houdende regels over een periodiek interdepartementaal overleg met betrekking tot financieel-economische aangelegenheden bij het Rijk (Regeling IOFEZ van het Rijk)
 
 Gelet op [artikel 4.20, tweede lid, aanhef en onderdeel a, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=4.20);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In deze regeling wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Organisatie en samenstelling
 
-#### Artikel 2. Samenstelling
+##### Artikel 2. Samenstelling
 
 1. Er is een IOFEZ.
 
@@ -44,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 3. De voorzitter van het IOFEZ is de directeur-generaal van de Rijksbegroting. Bij diens afwezigheid treedt de plaatsvervangend directeur-generaal van de Rijksbegroting als voorzitter op.
 
-#### Artikel 3. Secretaris
+##### Artikel 3. Secretaris
 
 1. De voorzitter benoemt een ambtelijk secretaris.
 
@@ -52,7 +78,7 @@ In deze regeling wordt verstaan onder:
 
 3. De secretaris stelt van elke vergadering een verslag op en is belast met het archief van het IOFEZ.
 
-#### Artikel 4. Vergaderingen
+##### Artikel 4. Vergaderingen
 
 1. Het IOFEZ vergadert ten minste vier keer per jaar.
 
@@ -66,7 +92,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2*. Doelen
 
-#### Artikel 5. Doelen
+##### Artikel 5. Doelen
 
 Het IOFEZ heeft tot doel het overleggen met, het informeren van, het coördineren door en het consulteren van respectievelijk het adviseren van de Minister van Financiën met betrekking tot:
 
@@ -80,17 +106,17 @@ Het IOFEZ heeft tot doel het overleggen met, het informeren van, het coördinere
 
 - e. bij of krachtens de [Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429) te stellen regels met betrekking tot financieel-economische en financieel-administratieve aangelegenheden.
 
-#### Artikel 6. Werkgroepen
+##### Artikel 6. Werkgroepen
 
 Het IOFEZ kan werkgroepen instellen en de samenstelling daarvan bepalen.
 
 #### § 3. Slotbepalingen
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2018.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling IOFEZ van het Rijk.
 

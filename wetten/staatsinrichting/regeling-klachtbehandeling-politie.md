@@ -1,20 +1,46 @@
 ---
-title: "Regeling klachtbehandeling politie"
+title: "Regeling van de Minister voor Veiligheid en Justitie van 13 december 2012, nr. 330698, houdende nadere regels over de behandeling van klachten over gedragingen van ambtenaren van politie als bedoeld in artikel 2, onderdelen a tot en met c, van de Politiewet 2012 (Regeling klachtbehandeling politie)"
 identifier: "BWBR0032607"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2025-09-04
-laatste_update: 2025-09-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032607"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-09-04"
+last_updated: "2025-09-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032607"
+soort: "ministeriele-regeling"
+stam_id: "12000173"
+version_id: "19961972"
+internal_id: "C28046751"
+label_id: "11971994"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032607/2025-09-04/0"
+intitule_bron: "Stcrt.2012-26850"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-13"
+intitule_published: "2012-12-24"
+intitule_in_force: "2012-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-26850"
+original_signed_date: "2012-12-13"
+original_published_date: "2012-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-26850"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032607&z=2025-09-04&g=2025-09-04"
+jci_1_0: "1.0:c:BWBR0032607&g=2025-09-04"
+citeertitel_status: "officieel"
+short_title: "Regeling klachtbehandeling politie"
+signed_date: "2012-12-13"
+entry_into_force: "2013-01-01"
 ---
-
 # Regeling van de Minister voor Veiligheid en Justitie van 13 december 2012, nr. 330698, houdende nadere regels over de behandeling van klachten over gedragingen van ambtenaren van politie als bedoeld in artikel 2, onderdelen a tot en met c, van de Politiewet 2012 (Regeling klachtbehandeling politie)
 
 Gelet op [artikel 68, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=68);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 - h. **klachtencommissies:** de commissies, bedoeld in de [artikelen 2, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=2&z=2025-09-04&g=2025-09-04), en [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=4&z=2025-09-04&g=2025-09-04).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een klachtencommissie voor de landelijke eenheden en voor iedere regionale eenheid. De klachtencommissie heeft tot taak het behandelen van een klacht over een gedraging van een ambtenaar van politie die bij de desbetreffende eenheid is tewerkgesteld. De klachtencommissie adviseert voorts, gevraagd en ongevraagd de politiechef bij zijn taak, genoemd in [artikel 70, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=70).
 
@@ -42,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 3. In afwijking van het eerste lid, tweede volzin, kan de politiechef van een eenheid, in voorkomende gevallen besluiten, na overleg met de voorzitter van de klachtencommissie voor die eenheid, de behandeling van en advisering over een klacht over te dragen aan een klachtencommissie voor een andere eenheid.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Iedere klachtencommissie heeft een voorzitter en ten hoogste twee plaatsvervangend voorzitters. De voorzitter en de plaatsvervangend voorzitters hebben in het bijzonder de taak de onafhankelijkheid van de commissie te bewaken.
 
@@ -64,7 +90,7 @@ In deze regeling wordt verstaan onder:
 
 10. De zittingen van de klachtencommissie zijn niet openbaar, tenzij de voorzitter anders beslist.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Er is een nationale klachtencommissie, die de Minister en de korpschef gevraagd en ongevraagd adviseert bij hun in [artikel 70, derde en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=70) genoemde taken.
 
@@ -78,7 +104,7 @@ In deze regeling wordt verstaan onder:
 
 6. De zittingen van de nationale klachtencommissie zijn niet openbaar, tenzij de voorzitter anders beslist.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De klachtencommissie stelt jaarlijks een jaarverslag van haar werkzaamheden vast overeenkomstig een door de korpschef in overeenstemming met de voorzitters van de klachtencommissies vastgesteld model. De nationale klachtencommissie stelt alleen een jaarverslag op wanneer de nationale klachtencommissie in het betreffende jaar de Minister of de korpschef heeft geadviseerd bij hun in [artikel 70, derde en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=70) genoemde taken.
 
@@ -94,7 +120,7 @@ In deze regeling wordt verstaan onder:
 
 7. De korpschef voorziet in de bekostiging van de klachtencommissies, waaronder de vergoeding aan de leden overeenkomstig een op grond van [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) door de Minister te nemen besluit.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Minister, de korpschef en de politiechefs registreren op basis van een uniforme rubricering de bij hen ingediende klachten, de wijze waarop de klacht is afgedaan en de genomen beslissingen. De korpschef draagt zorg voor de uniforme rubricering.
 
@@ -104,11 +130,11 @@ In deze regeling wordt verstaan onder:
 
 4. De verslagen, bedoeld in dit artikel en in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=5&z=2025-09-04&g=2025-09-04), bevatten geen gegevens die tot individuele personen herleidbaar zijn.
 
-#### Artikel 7
+##### Artikel 7
 
 De korpschef stelt nadere regels vast omtrent de uniforme wijze waarop de behandeling van klachten over gedragingen van ambtenaren van politie binnen de politieorganisatie wordt uitgevoerd.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2013 met uitzondering van [artikel 3, achtste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=3&z=2025-09-04&g=2025-09-04), die in werking treedt met ingang van 1 januari 2015.
 
@@ -120,7 +146,7 @@ De korpschef stelt nadere regels vast omtrent de uniforme wijze waarop de behand
 
 5. In afwijking van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=3&z=2025-09-04&g=2025-09-04), behouden de voor 1 december 2014 aangewezen voorzitters respectievelijk plaatsvervangers die hoedanigheid tot de datum waarop de Minister hen uit die hoedanigheid ontheft, tot uiterlijk 1 juni 2015.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling klachtbehandeling politie
 

@@ -1,14 +1,42 @@
 ---
-title: "Wet overige OCW-subsidies"
+title: "Wet van 12 maart 1998, houdende regels inzake de verstrekking van subsidies door de Minister van Onderwijs, Cultuur en Wetenschappen (Wet overige OCenW-subsidies)"
 identifier: "BWBR0009458"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009458"
+country: "nl"
+rank: "wet"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009458"
+soort: "wet"
+stam_id: "2218593"
+version_id: "18383702"
+internal_id: "C25608151"
+label_id: "2170084"
+dtd_version: "2.0"
+original_entry_into_force: "2011-02-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009458/2019-01-01/0"
+intitule_bron: "Stb.1998-275"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-03-12"
+intitule_published: "1998-05-19"
+intitule_in_force: "1998-05-19"
+intitule_status: "goed"
+original_publication: "Stb.2011-29"
+original_signed_date: "2011-01-27"
+original_published_date: "2011-02-10"
+original_effect: "structuurwijziging"
+original_dossier: "32556"
+original_url_id: "stb-2011-29"
+entry_into_force_date: "2011-02-11"
+entry_into_force_dossier: "32556"
+jci_1_3: "jci1.3:c:BWBR0009458&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0009458&g=2019-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet overige OCW-subsidies"
+signed_date: "2011-01-27"
+entry_into_force: "2011-02-11"
 ---
-
-# Wet overige OCW-subsidies
+# Wet van 12 maart 1998, houdende regels inzake de verstrekking van subsidies door de Minister van Onderwijs, Cultuur en Wetenschappen (Wet overige OCenW-subsidies)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,11 +48,11 @@ Werkt terug tot en met 1 januari 1998.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 In deze wet en de daarop berustende bepalingen wordt onder Onze Minister verstaan: Onze Minister van Onderwijs, Cultuur en Wetenschap of Onze Minister die belast is met de zorg voor een of meer onderdelen van het beleid, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&paragraaf=1&artikel=2&z=2019-01-01&g=2019-01-01).
 
-#### Artikel 2. Subsidiebevoegdheid
+##### Artikel 2. Subsidiebevoegdheid
 
 1. Onze Minister kan subsidie verstrekken voor activiteiten die passen in het beleid inzake:
 
@@ -38,7 +66,7 @@ In deze wet en de daarop berustende bepalingen wordt onder Onze Minister verstaa
 
 2. Bij de subsidieverstrekking aan onderwijsinstellingen wordt geen onderscheid gemaakt tussen openbaar en bijzonder onderwijs en wordt voorzien in een behandeling van die instellingen naar dezelfde maatstaf.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 1. Deze wet is niet van toepassing op subsidie die Onze Minister verstrekt krachtens een andere wet, behoudens de tweede volzin en het tweede lid. De [artikelen 4 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&deel=I&hoofdstuk=1&artikel=4&z=2010-01-01&g=2010-01-01) zijn van toepassing op subsidie die Onze Minister verstrekt krachtens de [artikelen 70 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=70), [71 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=71), [46, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=46), [47, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=47), en [75d van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=75d) en [2.7 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.7).
 
@@ -54,7 +82,7 @@ In deze wet en de daarop berustende bepalingen wordt onder Onze Minister verstaa
 
 4. In geval van subsidieverstrekking als bedoeld in het tweede lid is [artikel 4, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&deel=I&hoofdstuk=1&artikel=4&z=2010-01-01&g=2010-01-01), niet van toepassing.
 
-#### Artikel 4. Grondslag subsidieverstrekking; nadere voorschriften
+##### Artikel 4. Grondslag subsidieverstrekking; nadere voorschriften
 
 1. Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van bestuur of een ministeriële regeling, tenzij het een subsidie betreft:
 
@@ -88,23 +116,23 @@ In deze wet en de daarop berustende bepalingen wordt onder Onze Minister verstaa
 
 4. Onze Minister kan het verstrekken van subsidie bij of krachtens deze wet delegeren aan een zelfstandig bestuursorgaan als bedoeld in [artikel 1, onderdeel a, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=1).
 
-#### Artikel 5. Subsidieplafond
+##### Artikel 5. Subsidieplafond
 
 Onze Minister kan een subsidieplafond vaststellen voor de verschillende activiteiten waarvoor op grond van deze wet subsidie kan worden verstrekt. Hij bepaalt daarbij hoe het beschikbare bedrag wordt verdeeld.
 
-#### Artikel 6. Begrotingsvoorbehoud
+##### Artikel 6. Begrotingsvoorbehoud
 
 Vervallen
 
-#### Artikel 7. Verlening van voorschotten
+##### Artikel 7. Verlening van voorschotten
 
 Vervallen
 
-#### Artikel 8. Subsidiëring mede door andere bestuursorganen
+##### Artikel 8. Subsidiëring mede door andere bestuursorganen
 
 Vervallen
 
-#### Artikel 9. Intrekking wegens strijd met verdragen
+##### Artikel 9. Intrekking wegens strijd met verdragen
 
 1. Een aanvraag kan worden afgewezen en een beschikking tot subsidieverstrekking op grond van deze wet kan worden ingetrokken of gewijzigd voorzover subsidieverstrekking in strijd is met ingevolge een verdrag voor de staat geldende verplichtingen.
 
@@ -116,7 +144,7 @@ Vervallen
 
 5. De [artikelen 4:49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), en [4:57, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn niet van toepassing op de intrekking of wijziging, bedoeld in het eerste lid.
 
-#### Artikel 10. Toezichthouders
+##### Artikel 10. Toezichthouders
 
 1. Onze Minister kan bij besluit personen aanwijzen die belast worden met het toezicht op de naleving van het bepaalde bij of krachtens deze wet.
 
@@ -126,61 +154,61 @@ Vervallen
 
 ### Hoofdstuk 2. Per boekjaar verstrekte subsidies
 
-#### Artikel 11. Toepassing
+##### Artikel 11. Toepassing
 
 Vervallen
 
-#### Artikel 12. Egalisatiereserve
+##### Artikel 12. Egalisatiereserve
 
 Vervallen
 
-#### Artikel 13. Accountantsonderzoek
+##### Artikel 13. Accountantsonderzoek
 
 Vervallen
 
-#### Artikel 14. Vergoedingsplicht
+##### Artikel 14. Vergoedingsplicht
 
 Vervallen
 
 ### Hoofdstuk 3. Projectsubsidies
 
-#### Artikel 15. Aanvraag tot subsidieverlening
+##### Artikel 15. Aanvraag tot subsidieverlening
 
 Vervallen
 
-#### Artikel 16. Vereisten subsidieaanvraag
+##### Artikel 16. Vereisten subsidieaanvraag
 
 Vervallen
 
-#### Artikel 17. Verplichtingen subsidieontvanger
+##### Artikel 17. Verplichtingen subsidieontvanger
 
 Vervallen
 
-#### Artikel 18. Aanvraag tot subsidievaststelling
+##### Artikel 18. Aanvraag tot subsidievaststelling
 
 Vervallen
 
-#### Artikel 19. Financiële verantwoording
+##### Artikel 19. Financiële verantwoording
 
 Vervallen
 
-#### Artikel 20. Subsidievaststelling
+##### Artikel 20. Subsidievaststelling
 
 Vervallen
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
-#### Artikel 21. Overgangsbepaling
+##### Artikel 21. Overgangsbepaling
 
 1. Deze wet is niet van toepassing op subsidies die voor de inwerkingtreding van deze wet zijn verleend of vastgesteld.
 
 2. De persoon of het orgaan waaraan de bevoegdheid op grond van [artikel 4, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&paragraaf=1&artikel=4&z=2019-01-01&g=2019-01-01), zoals dat luidde voor inwerkingtreding van deze wet, is gedelegeerd om besluiten omtrent subsidie te nemen, blijft die bevoegdheid houden.
 
-#### Artikel 22. Inwerkingtreding
+##### Artikel 22. Inwerkingtreding
 
 Deze wet treedt in werking met ingang van de eerste dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 1 januari 1998.
 
-#### Artikel 23. Citeertitel
+##### Artikel 23. Citeertitel
 
 Deze wet wordt aangehaald als: Wet overige OCW-subsidies.
 
@@ -196,7 +224,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ## Deel II. Onderwijsvoorzieningen voor jongeren met een handicap
 
-#### Artikel 19a. Onderwijsvoorzieningen voor jongeren met een handicap
+##### Artikel 19a. Onderwijsvoorzieningen voor jongeren met een handicap
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [artikel 1 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=1), heeft tot taak te bevorderen dat belemmeringen worden weggenomen die de ingezetene, bedoeld in [artikel 1:2 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1:2), vanwege ziekte of gebrek ondervindt bij het volgen van onderwijs, indien het een persoon betreft die:
 

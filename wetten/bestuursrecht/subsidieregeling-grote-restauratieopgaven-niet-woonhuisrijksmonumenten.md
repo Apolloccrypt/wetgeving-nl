@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling grote restauratieopgaven niet-woonhuisrijksmonumenten"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 5 februari 2026, nr. WJZ/61832636, houdende regels voor de subsidieverstrekking ten behoeve van grote restauratieopgaven van niet-woonhuisrijksmonumenten (Subsidieregeling grote restauratieopgaven niet-woonhuisrijksmonumenten)"
 identifier: "BWBR0052307"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-02-20
-laatste_update: 2026-02-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052307"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-02-20"
+last_updated: "2026-02-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052307"
+soort: "ministeriele-regeling"
+stam_id: "17762083"
+version_id: "31385922"
+internal_id: "C44851681"
+label_id: "17660224"
+dtd_version: "2.0"
+original_entry_into_force: "2026-02-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052307/2026-02-20/0"
+intitule_bron: "Stcrt.2026-7144"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-02-05"
+intitule_published: "2026-02-19"
+intitule_in_force: "2026-02-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-7144"
+original_signed_date: "2026-02-05"
+original_published_date: "2026-02-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-7144"
+entry_into_force_date: "2026-02-20"
+jci_1_3: "jci1.3:c:BWBR0052307&z=2026-02-20&g=2026-02-20"
+jci_1_0: "1.0:c:BWBR0052307&g=2026-02-20"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling grote restauratieopgaven niet-woonhuisrijksmonumenten"
+signed_date: "2026-02-05"
+entry_into_force: "2026-02-20"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 5 februari 2026, nr. WJZ/61832636, houdende regels voor de subsidieverstrekking ten behoeve van grote restauratieopgaven van niet-woonhuisrijksmonumenten (Subsidieregeling grote restauratieopgaven niet-woonhuisrijksmonumenten)
 
 Gelet op de [artikelen 7.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.3), juncto [7.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.7) en [7.5, eerste lid, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.5);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -62,13 +88,13 @@ In deze regeling wordt verstaan onder:
 
 - c. alle delen gezamenlijk van een rijksmonument, zijnde een aanleg zoals een park- of tuinaanleg, die aan één eigenaar behoren, en niet het gehele rijksmonument omvatten.
 
-#### Artikel 2. Toepassing [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) en AGVV
+##### Artikel 2. Toepassing [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) en AGVV
 
 1. Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603). Onderdeel d van de begripsomschrijving van financieel verslag, bedoeld in [artikel 1.1 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.1), de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.1) en [3.3 tot en met 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3), [artikel 4.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.3), alsmede [hoofdstuk 7 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=7) zijn niet van toepassing.
 
 2. Artikel 53 van de AGVV is van toepassing indien een aanvraag wordt ingediend door een rechtspersoon.
 
-#### Artikel 3. Te subsidiëren activiteiten
+##### Artikel 3. Te subsidiëren activiteiten
 
 1. De minister kan subsidie verstrekken aan een eigenaar voor de restauratiekosten ten behoeve van:
 
@@ -82,7 +108,7 @@ In deze regeling wordt verstaan onder:
 
 3. In afwijking van de [artikelen 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.2), en [4.3, eerste lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.3) zijn ook de restauratiekosten subsidiabel ten aanzien van de voorbereiding van de aanvraag, bestaande uit voor de restauratiewerkzaamheden noodzakelijke aanbestedingskosten, leges voor de omgevingsvergunning voor de restauratiewerkzaamheden, en kosten voor inspectie, onderzoek, planvorming of rapporten.
 
-#### Artikel 4. Hoogte subsidiebedrag
+##### Artikel 4. Hoogte subsidiebedrag
 
 1. Het subsidiepercentage bedraagt maximaal 50% van de subsidiabele restauratiekosten.
 
@@ -98,13 +124,13 @@ In deze regeling wordt verstaan onder:
 
 5. Indien een aanvraag wordt ingediend namens meerdere mede-eigenaren, en op één of meer van deze mede-eigenaren is het tweede lid van toepassing, geldt voor die aanvraag maximaal het subsidiepercentage, bedoeld in het eerste lid.
 
-#### Artikel 5. Aanvraagperiode en subsidieplafond
+##### Artikel 5. Aanvraagperiode en subsidieplafond
 
 1. De hoogte van het subsidieplafond voor enige aanvraagronde wordt bekend gemaakt in de Staatscourant.
 
 2. In enig kalenderjaar kan uitsluitend subsidie worden aangevraagd indien het subsidieplafond is bekendgemaakt in de Staatscourant. In dat geval kan een aanvraag worden ingediend in de periode van 1 september tot en met 15 september van het kalenderjaar waarvoor het subsidieplafond is bekendgemaakt.
 
-#### Artikel 6. Aanvraag subsidie
+##### Artikel 6. Aanvraag subsidie
 
 1. Een eigenaar dient een subsidieaanvraag elektronisch in bij de RCE met gebruikmaking van een aanvraagformulier dat daartoe op [www.cultureelerfgoed.nl](http://www.cultureelerfgoed.nl/) beschikbaar is gesteld.
 
@@ -164,7 +190,7 @@ In deze regeling wordt verstaan onder:
 
 - k. in het geval van meerdere eigenaren: een machtigingsformulier, ondertekend door elk van de mede-eigenaren.
 
-#### Artikel 7. Weigeringsgronden
+##### Artikel 7. Weigeringsgronden
 
 Subsidie wordt in ieder geval geweigerd:
 
@@ -202,7 +228,7 @@ Subsidie wordt in ieder geval geweigerd:
 
 - q. indien de aanvrager of één of meer mede-eigenaren een onderneming in moeilijkheden is als bedoeld in artikel 1, vierde lid, onder c, van de AGVV.
 
-#### Artikel 8. Wijze van verdeling beschikbare middelen
+##### Artikel 8. Wijze van verdeling beschikbare middelen
 
 1. Indien de totale aangevraagde subsidie van alle aanvragen hoger is dan het subsidieplafond, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052307&artikel=5&z=2026-02-20&g=2026-02-20), dan wordt op die aanvragen in de volgende volgorde beslist:
 
@@ -222,7 +248,7 @@ Subsidie wordt in ieder geval geweigerd:
 
 5. Indien het subsidieplafond voor enige aanvraagronde niet wordt bereikt, wordt het resterende bedrag toegevoegd aan het bedrag dat voor subsidieverstrekking beschikbaar is voor de eerstvolgende aanvraagronde.
 
-#### Artikel 9. Subsidieverlening en bevoorschotting
+##### Artikel 9. Subsidieverlening en bevoorschotting
 
 1. De subsidie wordt verleend binnen 22 weken na afloop van de aanvraagperiode, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052307&artikel=5&z=2026-02-20&g=2026-02-20).
 
@@ -230,7 +256,7 @@ Subsidie wordt in ieder geval geweigerd:
 
 3. De minister verleent voorschotten waarvan de hoogte en de termijnen in de verleningsbeschikking worden bepaald. De minister kan aan het verstrekken van voorschotten de voorwaarde verbinden dat offertes of facturen worden overgelegd. Het bevoorschottingsritme kan worden aangepast als de voortgang van de restauratiewerkzaamheden afwijkt van de bij de aanvraag ingediende planning, bedoeld in [artikel 6, zevende lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0052307&artikel=6&z=2026-02-20&g=2026-02-20).
 
-#### Artikel 10. Aanvullende subsidieverplichtingen
+##### Artikel 10. Aanvullende subsidieverplichtingen
 
 1. De restauratiewerkzaamheden waarvoor subsidie wordt verstrekt, worden niet uitgevoerd zonder of in afwijking van de omgevingsvergunning.
 
@@ -258,7 +284,7 @@ Subsidie wordt in ieder geval geweigerd:
 
 - j. in de opdrachtformulering voor het uitvoeren van de gesubsidieerde restauratiewerkzaamheden rekening te houden met het creëren van stage- en leerwerkplekken voor studenten.
 
-#### Artikel 11. Intrekking subsidieverlening en uitstel startdatum
+##### Artikel 11. Intrekking subsidieverlening en uitstel startdatum
 
 1. De minister kan de subsidieverlening intrekken indien de eigenaar niet voldoet aan de verplichtingen, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052307&artikel=10&z=2026-02-20&g=2026-02-20).
 
@@ -272,7 +298,7 @@ Subsidie wordt in ieder geval geweigerd:
 
 4. De subsidieontvanger dient een aanvraag als bedoeld in het tweede lid onverwijld in en uiterlijk voor de oorspronkelijke startdatum waarvoor de subsidie is verleend.
 
-#### Artikel 12. Verantwoording van subsidies tot € 125.000
+##### Artikel 12. Verantwoording van subsidies tot € 125.000
 
 1. De eigenaar legt rekening en verantwoording af aan de hand van een prestatieverklaring over de activiteiten waarvoor subsidie is verleend, met gebruikmaking van een door de minister vastgesteld model, dat daartoe op [www.cultureelerfgoed.nl](http://www.cultureelerfgoed.nl) beschikbaar is gesteld.
 
@@ -282,7 +308,7 @@ Subsidie wordt in ieder geval geweigerd:
 
 4. Onverminderd het bepaalde in het eerste en derde lid, toont de eigenaar op verzoek van de minister aan dat de activiteiten waarvoor subsidie is verleend, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen. In de verleningsbeschikking wordt aangegeven op welke wijze dit desgevraagd wordt aangetoond.
 
-#### Artikel 13. Verantwoording bij subsidies vanaf € 125.000
+##### Artikel 13. Verantwoording bij subsidies vanaf € 125.000
 
 1. De eigenaar legt rekening en verantwoording af aan de hand van een prestatieverklaring en een financieel verslag over de activiteiten waarvoor subsidie is verleend, met gebruikmaking van door de minister vastgestelde modellen, die daartoe op [www.cultureelerfgoed.nl](http://www.cultureelerfgoed.nl) beschikbaar zijn gesteld.
 
@@ -298,13 +324,13 @@ Subsidie wordt in ieder geval geweigerd:
 
 7. De minister kan de eigenaar verplichten de desbetreffende originele facturen en betalingsbewijzen te overleggen.
 
-#### Artikel 14. Vaststelling subsidie
+##### Artikel 14. Vaststelling subsidie
 
 1. De eigenaar dient uiterlijk 22 weken na afloop van de activiteitenperiode, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052307&artikel=9&z=2026-02-20&g=2026-02-20), een aanvraag tot vaststelling in, met gebruikmaking van het formulier dat daartoe op de website van de RCE beschikbaar is gesteld.
 
 2. De minister besluit binnen 22 weken op een aanvraag tot vaststelling.
 
-#### Artikel 15. Verlenging activiteitenperiode
+##### Artikel 15. Verlenging activiteitenperiode
 
 1. De minister kan de periode waarvoor subsidie is verleend, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052307&artikel=9&z=2026-02-20&g=2026-02-20), op schriftelijk verzoek van de subsidieontvanger maximaal twee keer met anderhalf jaar verlengen, indien de subsidieontvanger door overmacht of onvoorziene omstandigheden redelijkerwijs niet in staat is de activiteiten waarvoor de subsidie is verleend binnen de oorspronkelijke periode af te ronden.
 
@@ -318,13 +344,13 @@ Subsidie wordt in ieder geval geweigerd:
 
 3. De subsidieontvanger dient een aanvraag als bedoeld in het eerste lid onverwijld in en uiterlijk voor het einde van de periode waarvoor de subsidie is verleend.
 
-#### Artikel 16. Eigendomsoverdracht
+##### Artikel 16. Eigendomsoverdracht
 
 1. Indien de subsidieontvanger de eigendom of een ander zakelijk recht van een rijksmonument of een zelfstandig onderdeel overdraagt aan een nieuwe eigenaar, dient de subsidieontvanger in afwijking van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052307&artikel=14&z=2026-02-20&g=2026-02-20), binnen drie maanden na de eigendomsoverdracht een aanvraag tot vaststelling in, met gebruikmaking van het formulier dat daartoe op de website van de RCE beschikbaar is gesteld.
 
 2. Na de vaststellingsbeschikking, volgend op de aanvraag, bedoeld in het eerste lid, kan de minister de nieuwe eigenaar op aanvraag subsidie verstrekken ten behoeve van de afronding van de restauratiewerkzaamheden.
 
-#### Artikel 17. Aanvraag nieuwe eigenaar
+##### Artikel 17. Aanvraag nieuwe eigenaar
 
 1. Een nieuwe eigenaar kan een aanvraag indienen nadat de subsidie van de vorige eigenaar is vastgesteld. In afwijking van [artikel 6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052307&artikel=6&z=2026-02-20&g=2026-02-20), bevat de aanvraag alleen de gegevens en bescheiden bedoeld in de onderdelen b, c, d, e, f, h onder 1°, j en k, voor zover die afwijken van de gegevens en bescheiden die door de vorige eigenaar zijn verstrekt.
 
@@ -332,19 +358,19 @@ Subsidie wordt in ieder geval geweigerd:
 
 3. Onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052307&artikel=4&z=2026-02-20&g=2026-02-20) bedraagt het subsidiebedrag maximaal het verschil tussen de verleningsbeschikking, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0052307&artikel=9&z=2026-02-20&g=2026-02-20), en de vaststellingsbeschikking, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052307&artikel=14&z=2026-02-20&g=2026-02-20).
 
-#### Artikel 18. Terugvordering
+##### Artikel 18. Terugvordering
 
 1. De subsidieontvanger is na de subsidievaststelling verplicht een eventueel teveel ontvangen voorschot onverwijld terug te betalen.
 
 2. Bij terugvordering van onverschuldigd betaalde subsidiebedragen of voorschotten kan de minister de subsidieontvanger verplichten de met de terugvordering verband houdende kosten te voldoen.
 
-#### Artikel 19. Inwerkingtreding en vervaldatum
+##### Artikel 19. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 februari 2031, met dien verstande dat de regeling van toepassing blijft ten aanzien van subsidies die voor die datum op grond van de regeling zijn verstrekt.
 
-#### Artikel 20. Citeertitel
+##### Artikel 20. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling grote restauratieopgaven niet-woonhuisrijksmonumenten.
 

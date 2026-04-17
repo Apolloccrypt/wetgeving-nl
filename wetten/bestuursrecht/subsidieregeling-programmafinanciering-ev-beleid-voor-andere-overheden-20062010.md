@@ -1,13 +1,38 @@
 ---
-title: "Subsidieregeling programmafinanciering EV-beleid voor andere overheden 2006–2010"
+title: "Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 2 juni 2005, nr. DGM/EV2005054032, houdende regels met betrekking tot verstrekking van subsidie aan provincies ten behoeve van het externe veiligheidsbeleid voor het tijdvak 2006 tot en met 2010 (Subsidieregeling programmafinanciering EV-beleid voor andere overheden 2006–2010)"
 identifier: "BWBR0018381"
-categorie: "Bestuursrecht"
-publicatiedatum: 2007-03-30
-laatste_update: 2007-03-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018381"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2007-03-30"
+last_updated: "2007-03-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018381"
+soort: "ministeriele-regeling"
+stam_id: "7089303"
+version_id: "11963982"
+internal_id: "C16048441"
+label_id: "7077484"
+original_entry_into_force: "2005-06-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018381/2007-03-30/0"
+intitule_bron: "Stcrt.2005-111"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-06-02"
+intitule_published: "2005-06-13"
+intitule_in_force: "2005-06-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-111"
+original_signed_date: "2005-06-02"
+original_published_date: "2005-06-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-111-p20-SC70284"
+entry_into_force_date: "2005-06-15"
+jci_1_3: "jci1.3:c:BWBR0018381&z=2007-03-30&g=2007-03-30"
+jci_1_0: "1.0:c:BWBR0018381&g=2007-03-30"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling programmafinanciering EV-beleid voor andere overheden 2006–2010"
+signed_date: "2005-06-02"
+entry_into_force: "2005-06-15"
 ---
-
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 2 juni 2005, nr. DGM/EV2005054032, houdende regels met betrekking tot verstrekking van subsidie aan provincies ten behoeve van het externe veiligheidsbeleid voor het tijdvak 2006 tot en met 2010 (Subsidieregeling programmafinanciering EV-beleid voor andere overheden 2006–2010)
 
 Gelet op [artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.13);
@@ -16,7 +41,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +55,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Doel
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze regeling heeft tot doel het stimuleren van de structurele, adequate uitvoering van het externe veiligheidsbeleid en het daartoe bevorderen van de samenwerking tussen gemeenten, provincies en regionale samenwerkingsverbanden op het gebied van externe veiligheid.
 
@@ -40,7 +65,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 3. Provinciaal programma
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een provinciaal programma kan bestaan uit de volgende projecten of activiteiten op het gebied van externe veiligheid:
 
@@ -76,7 +101,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 4. Voorwaarden voor subsidie
 
-#### Artikel 4
+##### Artikel 4
 
 Een provincie komt in aanmerking voor subsidie voor de uitvoeringskosten van projecten en activiteiten gericht op de versterking van de uitvoering van het externe veiligheidsbeleid, onder de volgende voorwaarden:
 
@@ -106,7 +131,7 @@ Een provincie komt in aanmerking voor subsidie voor de uitvoeringskosten van pro
 
 #### § 5. Beoordelingscriteria
 
-#### Artikel 5
+##### Artikel 5
 
 Een provinciaal programma wordt beoordeeld op de volgende criteria:
 
@@ -122,7 +147,7 @@ Een provinciaal programma wordt beoordeeld op de volgende criteria:
 
 #### § 6. Subsidiabele kosten
 
-#### Artikel 6
+##### Artikel 6
 
 1. Als subsidiabele kosten worden in aanmerking genomen de volgende noodzakelijke, rechtstreeks aan de uitvoering van het provinciaal programma toe te rekenen en door de aanvrager tot subsidieverlening gemaakte en betaalde uitvoeringskosten:
 
@@ -142,7 +167,7 @@ Een provinciaal programma wordt beoordeeld op de volgende criteria:
 
 #### § 7. Niet-subsidiabele kosten
 
-#### Artikel 7
+##### Artikel 7
 
 De volgende kosten komen niet in aanmerking voor subsidie:
 
@@ -152,7 +177,7 @@ De volgende kosten komen niet in aanmerking voor subsidie:
 
 #### § 8. Hoogte van de subsidie
 
-#### Artikel 8
+##### Artikel 8
 
 Het subsidieplafond bedraagt voor subsidies als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018381&paragraaf=6&artikel=6&z=2007-03-30&g=2007-03-30) voor de jaren 2006 tot en met 2010 per provincie per jaar, afgerond naar duizenden euro’s:
 
@@ -173,7 +198,7 @@ Het subsidieplafond bedraagt voor subsidies als bedoeld in [artikel 6](https://w
 
 #### § 9. Bevoorschotting
 
-#### Artikel 9
+##### Artikel 9
 
 1. De minister kan op aanvraag elk kwartaal van de jaren 2006 tot en met 2010 een voorschot verstrekken van telkens 25% van de bedragen, genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018381&paragraaf=8&artikel=8&z=2007-03-30&g=2007-03-30).
 
@@ -181,7 +206,7 @@ Het subsidieplafond bedraagt voor subsidies als bedoeld in [artikel 6](https://w
 
 #### § 10. Verplichtingen van de subsidie-ontvanger
 
-#### Artikel 10
+##### Artikel 10
 
 De subsidie-ontvanger is verplicht:
 
@@ -199,7 +224,7 @@ De subsidie-ontvanger is verplicht:
 
 #### § 11. Aanvraag tot subsidieverlening en subsidievaststelling
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een aanvraag tot subsidieverlening en subsidievaststelling kan uitsluitend worden ingediend door gedeputeerde staten.
 
@@ -209,11 +234,11 @@ De subsidie-ontvanger is verplicht:
 
 #### § 12. Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling wordt aangehaald als: Subsidieregeling programmafinanciering EV-beleid voor andere overheden 2006–2010.
 

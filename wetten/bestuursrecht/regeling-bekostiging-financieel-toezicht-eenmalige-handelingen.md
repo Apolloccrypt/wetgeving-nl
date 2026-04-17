@@ -1,13 +1,39 @@
 ---
-title: "Regeling bekostiging financieel toezicht eenmalige handelingen"
+title: "Regeling van de Minister van Financiën en de Minister van Sociale Zaken en Werkgelegenheid van 6 december 2018, kenmerk 2018-0000208130, directie Financiële Markten, tot vaststelling van de tarieven voor het verrichten van eenmalige handelingen door de Autoriteit Financiële Markten en De Nederlandsche Bank (Regeling bekostiging financieel toezicht eenmalige handelingen)"
 identifier: "BWBR0041647"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-10-01
-laatste_update: 2025-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041647"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-01"
+last_updated: "2025-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041647"
+soort: "ministeriele-regeling"
+stam_id: "14897923"
+version_id: "25485432"
+internal_id: "C36367481"
+label_id: "14849294"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041647/2025-10-01/0"
+intitule_bron: "Stcrt.2018-68836"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-12-06"
+intitule_published: "2018-12-10"
+intitule_in_force: "2018-12-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-68836"
+original_signed_date: "2018-12-06"
+original_published_date: "2018-12-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-68836"
+entry_into_force_date: "2019-01-01"
+jci_1_3: "jci1.3:c:BWBR0041647&z=2025-10-01&g=2025-10-01"
+jci_1_0: "1.0:c:BWBR0041647&g=2025-10-01"
+citeertitel_status: "officieel"
+short_title: "Regeling bekostiging financieel toezicht eenmalige handelingen"
+signed_date: "2018-12-06"
+entry_into_force: "2019-01-01"
 ---
-
 # Regeling van de Minister van Financiën en de Minister van Sociale Zaken en Werkgelegenheid van 6 december 2018, kenmerk 2018-0000208130, directie Financiële Markten, tot vaststelling van de tarieven voor het verrichten van eenmalige handelingen door de Autoriteit Financiële Markten en De Nederlandsche Bank (Regeling bekostiging financieel toezicht eenmalige handelingen)
 
 Gelet op [artikel 14, tweede lid, van de Wet bekostiging financieel toezicht 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041548&artikel=14);
@@ -16,7 +42,7 @@ BESLUITEN:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - **Wta:** [Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468).
 
-#### Artikel 2. Mkb-onderneming
+##### Artikel 2. Mkb-onderneming
 
 1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2025-10-01&g=2025-10-01) wordt verstaan onder mkb-onderneming:
 
@@ -44,7 +70,7 @@ een onderneming die op grond van de laatst vastgestelde jaarrekening op het mome
 
 4. In afwijking van het eerste lid wordt een special purpose entity voor securitisatiedoeleinden als bedoeld in verordening (EU) nr. 575/2013 van het Europees parlement en de Raad van 26 juni 2013 betreffende prudentiële vereisten voor kredietinstellingen en beleggingsondernemingen en tot wijziging van verordening (EU) nr. 648/2012 (PbEU 2013, L176) niet aangemerkt als mkb-onderneming.
 
-#### Artikel 3. In rekening brengen vergoedingen
+##### Artikel 3. In rekening brengen vergoedingen
 
 1. De toezichthouder hanteert voor het verrichten van een eenmalige handeling de vergoedingen die zijn vastgesteld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2025-10-01&g=2025-10-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=3&artikel=5&z=2025-10-01&g=2025-10-01).
 
@@ -54,7 +80,7 @@ een onderneming die op grond van de laatst vastgestelde jaarrekening op het mome
 
 #### § 2. Eenmalige handelingen AFM
 
-#### Artikel 4. Vergoedingen AFM
+##### Artikel 4. Vergoedingen AFM
 
 1. De Autoriteit Financiële Markten brengt de volgende vergoedingen in rekening voor op grond van de [Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) te verrichten eenmalige handelingen:
 
@@ -243,7 +269,7 @@ een onderneming die op grond van de laatst vastgestelde jaarrekening op het mome
 
 #### § 3. Eenmalige handelingen DNB
 
-#### Artikel 5. Vergoedingen DNB
+##### Artikel 5. Vergoedingen DNB
 
 De Nederlandsche Bank brengt de volgende vergoedingen in rekening voor het verrichten van de volgende eenmalige handelingen:
 
@@ -325,11 +351,11 @@ De Nederlandsche Bank brengt de volgende vergoedingen in rekening voor het verri
 
 #### § 4. Slotbepalingen
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2019.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling bekostiging financieel toezicht eenmalige handelingen.
 

@@ -1,20 +1,46 @@
 ---
-title: "Tijdelijke subsidieregeling elektrificatie binnenvaartschepen 2023–2027"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 4 december 2023, nr. IENW/BSK-2023/360435, tot verstrekking van subsidie voor de elektrificatie van binnenvaartschepen voor de kalenderjaren 2023 tot en met 2027 (Tijdelijke subsidieregeling elektrificatie binnenvaartschepen 2023–2027)"
 identifier: "BWBR0049024"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-05-29
-laatste_update: 2025-05-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049024"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-05-29"
+last_updated: "2025-05-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049024"
+soort: "ministeriele-regeling"
+stam_id: "16952263"
+version_id: "29797152"
+internal_id: "C42709331"
+label_id: "16862764"
+dtd_version: "2.0"
+original_entry_into_force: "2023-12-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049024/2025-05-29/0"
+intitule_bron: "Stcrt.2023-33424"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-12-04"
+intitule_published: "2023-12-07"
+intitule_in_force: "2023-12-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-33424"
+original_signed_date: "2023-12-04"
+original_published_date: "2023-12-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-33424"
+entry_into_force_date: "2023-12-08"
+jci_1_3: "jci1.3:c:BWBR0049024&z=2025-05-29&g=2025-05-29"
+jci_1_0: "1.0:c:BWBR0049024&g=2025-05-29"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke subsidieregeling elektrificatie binnenvaartschepen 2023–2027"
+signed_date: "2023-12-04"
+entry_into_force: "2023-12-08"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 4 december 2023, nr. IENW/BSK-2023/360435, tot verstrekking van subsidie voor de elektrificatie van binnenvaartschepen voor de kalenderjaren 2023 tot en met 2027 (Tijdelijke subsidieregeling elektrificatie binnenvaartschepen 2023–2027)
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3) en [4 van de Kaderwet subsidie I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4) en de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [8, eerste en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=9), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22) en [23, vijfde lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=23);
 
 BESLUIT:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -44,11 +70,11 @@ In deze regeling wordt verstaan onder:
 
 - **uitvoeringsinstantie:** uitvoeringsinstantie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=6&z=2025-05-29&g=2025-05-29).
 
-#### Artikel 2. Doel en toepassingsbereik van de subsidie
+##### Artikel 2. Doel en toepassingsbereik van de subsidie
 
 Om de uitstoot van CO2, stikstof en fijnstof door de binnenvaart terug te dringen, kan de Minister op aanvraag subsidie verstrekken voor activiteiten die tot doel hebben een binnenschip volledig elektrisch te kunnen laten varen binnen de toepassing van het NGF-project.
 
-#### Artikel 3. Subsidiabele activiteiten
+##### Artikel 3. Subsidiabele activiteiten
 
 1. Subsidie kan worden verleend voor de aanschaf en de installatie van een elektrische voortstuwingsinstallatie en de bijbehorende onderdelen als bedoeld in [artikel 11.00, eerste tot en met vijfde lid, van bijlage 1.1a bij de Binnenvaartregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&bijlage=1.1a) die:
 
@@ -58,7 +84,7 @@ Om de uitstoot van CO2, stikstof en fijnstof door de binnenvaart terug te dringe
 
 2. In aanvulling op het eerste lid kan tevens subsidie worden verleend voor een industrieel onderzoeksproject ten behoeve van de verdere ontwikkeling van een elektrische voorstuwingsinstallatie.
 
-#### Artikel 4. Subsidieplafond, hoogte van de subsidie en subsidiabele kosten
+##### Artikel 4. Subsidieplafond, hoogte van de subsidie en subsidiabele kosten
 
 1. Voor de periode tot en met 31 december 2026 is voor de subsidiëring van de activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2025-05-29&g=2025-05-29), ten hoogste € 15.100.000,– beschikbaar.
 
@@ -104,7 +130,7 @@ Om de uitstoot van CO2, stikstof en fijnstof door de binnenvaart terug te dringe
 
 10. De steunintensiteit van een onderzoek als bedoeld in het zesde lid kan met 10 procentpunten worden verhoogd voor subsidie aan middelgrote ondernemingen en met 20 procentpunten voor subsidie aan kleine ondernemingen.
 
-#### Artikel 5. Verdelingsregime
+##### Artikel 5. Verdelingsregime
 
 1. De Minister verleent subsidie voor projecten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2025-05-29&g=2025-05-29), op basis van een door de uitvoeringsorganisatie schriftelijk opgestelde rangschikking conform de volgende criteria:
 
@@ -134,13 +160,13 @@ Om de uitstoot van CO2, stikstof en fijnstof door de binnenvaart terug te dringe
 
 7. Indien een aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag en met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) de gelegenheid heeft gehad de aanvraag aan te vullen, geldt, de dag waarop de aanvraag voldoet aan de wettelijke voorschriften, als datum van ontvangst.
 
-#### Artikel 6. Uitvoeringsinstantie
+##### Artikel 6. Uitvoeringsinstantie
 
 1. Als uitvoeringsinstantie wordt aangewezen het Expertise- en InnovatieCentrum Binnenvaart van de Stichting Projecten Binnenvaart te Rotterdam. De uitvoeringsinstantie beoordeelt de aanvragen en heeft tevens een adviserende rol in de rangschikking van de aanvragen.
 
 2. De uitvoeringsinstantie is niet belast met het vaststellen van besluiten tot subsidieverlening of subsidievaststelling of met de administratieve afhandeling daarvan.
 
-#### Artikel 7. Aanvraagvereisten
+##### Artikel 7. Aanvraagvereisten
 
 1. Een aanvraag wordt gericht aan de Minister.
 
@@ -150,7 +176,7 @@ Om de uitstoot van CO2, stikstof en fijnstof door de binnenvaart terug te dringe
 
 4. Een aanvrager toont bij de aanvraag aan dat het vaartuig waarvoor de subsidie wordt aangevraagd wordt ingezet ter uitvoering van het NGF-project.
 
-#### Artikel 8. Specifieke afwijzingsgronden
+##### Artikel 8. Specifieke afwijzingsgronden
 
 Onverminderd de in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=11) en [12 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=12) opgenomen afwijzingsgronden, wordt de subsidie in ieder geval afgewezen indien:
 
@@ -166,7 +192,7 @@ Onverminderd de in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR003
 
 - f. de Minister van oordeel is dat de aanvraag niet past binnen het NGF-project.
 
-#### Artikel 9. Verplichtingen van de subsidie-ontvanger
+##### Artikel 9. Verplichtingen van de subsidie-ontvanger
 
 1. De subsidie-ontvanger rondt de activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2025-05-29&g=2025-05-29), binnen 18 maanden na de subsidieverlening af.
 
@@ -180,11 +206,11 @@ Onverminderd de in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR003
 
 6. De subsidie-ontvanger is verplicht medewerking te verlenen aan controles door de uitvoeringsinstantie.
 
-#### Artikel 10. Voorschot
+##### Artikel 10. Voorschot
 
 Bij de beschikking tot subsidieverlening wordt een voorschot verleend van 100% van de subsidie.
 
-#### Artikel 11. Subsidievaststelling
+##### Artikel 11. Subsidievaststelling
 
 1. De subsidie-ontvanger verleent medewerking aan een evaluatie van de effecten van de door hem op grond van deze titel uitgevoerde activiteiten, voor zover medewerking redelijkerwijs van hem kan worden gevergd.
 
@@ -192,7 +218,7 @@ Bij de beschikking tot subsidieverlening wordt een voorschot verleend van 100% v
 
 3. In de beschikking tot subsidievaststelling stelt de Minister de subsidie vast op basis van de gegevens die bij de aanvraag zijn ingediend. De aanvraag tot subsidievaststelling gaat vergezeld van een controleverklaring als bedoeld in [artikel 24, vierde lid, onderdeel b, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24).
 
-#### Artikel 12. Evaluatie
+##### Artikel 12. Evaluatie
 
 1. De subsidie-ontvanger verleent medewerking aan een evaluatie van de effecten van de door hem op grond van deze titel uitgevoerde activiteiten, voor zover medewerking redelijkerwijs van hem kan worden gevergd.
 
@@ -200,13 +226,13 @@ Bij de beschikking tot subsidieverlening wordt een voorschot verleend van 100% v
 
 3. De Minister publiceert in 2028 een verslag over de doeltreffendheid en de effecten van de subsidie in de praktijk.
 
-#### Artikel 13. Inwerkingtreding en vervaldatum
+##### Artikel 13. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2028, met dien verstande dat zij van toepassing blijft op de voor die datum aangevraagde subsidies.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling elektrificatie binnenvaartschepen 2023–2027.
 

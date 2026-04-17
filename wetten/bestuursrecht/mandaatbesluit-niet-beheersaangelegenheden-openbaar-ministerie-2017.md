@@ -1,20 +1,46 @@
 ---
-title: "Mandaatbesluit niet-beheersaangelegenheden Openbaar Ministerie 2017"
+title: "Besluit van de Minister van Veiligheid en Justitie van 21 maart 2017, nr. 2015730 houdende verlening van mandaat, volmacht en machtiging aan de secretaris-generaal van het Ministerie van Veiligheid en Justitie en het College van procureurs-generaal ten aanzien van aangelegenheden van het openbaar ministerie die niet het beheer van het Openbaar Ministerie betreffen (Mandaatbesluit niet-beheersaangelegenheden Openbaar Ministerie)"
 identifier: "BWBR0039392"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-08-01
-laatste_update: 2025-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039392"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-08-01"
+last_updated: "2025-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039392"
+soort: "ministeriele-regeling"
+stam_id: "13965453"
+version_id: "24020932"
+internal_id: "C34521611"
+label_id: "13928504"
+dtd_version: "2.0"
+original_entry_into_force: "2017-03-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039392/2025-08-01/0"
+intitule_bron: "Stcrt.2017-17477"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-03-21"
+intitule_published: "2017-03-29"
+intitule_in_force: "2017-03-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-17477"
+original_signed_date: "2017-03-21"
+original_published_date: "2017-03-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-17477"
+entry_into_force_date: "2017-03-30"
+jci_1_3: "jci1.3:c:BWBR0039392&z=2025-08-01&g=2025-08-01"
+jci_1_0: "1.0:c:BWBR0039392&g=2025-08-01"
+citeertitel_status: "officieel"
+short_title: "Mandaatbesluit niet-beheersaangelegenheden Openbaar Ministerie 2017"
+signed_date: "2017-03-21"
+entry_into_force: "2017-03-30"
 ---
-
 # Besluit van de Minister van Veiligheid en Justitie van 21 maart 2017, nr. 2015730 houdende verlening van mandaat, volmacht en machtiging aan de secretaris-generaal van het Ministerie van Veiligheid en Justitie en het College van procureurs-generaal ten aanzien van aangelegenheden van het openbaar ministerie die niet het beheer van het Openbaar Ministerie betreffen (Mandaatbesluit niet-beheersaangelegenheden Openbaar Ministerie)
 
 Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9), en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
@@ -28,7 +54,7 @@ Besluit:
 
 2. Dit besluit heeft geen betrekking op aangelegenheden die het beheer van het Openbaar Ministerie betreffen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aan de secretaris-generaal wordt ten aanzien van aangelegenheden die het Openbaar Ministerie betreffen mandaat verleend tot:
 
@@ -44,7 +70,7 @@ Besluit:
 
 2. De secretaris-generaal wordt toegestaan om ten aanzien van het krachtens het eerste lid, onder a tot en met e verleende mandaat, ondermandaat te verlenen aan onder hem ressorterende functionarissen.
 
-#### Artikel 3
+##### Artikel 3
 
 Aan het College wordt mandaat verleend ten aanzien van de tot de verantwoordelijkheid van de minister behorende aangelegenheden op het terrein van het Openbaar Ministerie, met uitzondering van:
 
@@ -64,17 +90,17 @@ Aan het College wordt mandaat verleend ten aanzien van de tot de verantwoordelij
 
 - b. De bevoegdheden die in [artikel 2, eerste lid onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039392&artikel=2&z=2025-08-01&g=2025-08-01) aan de secretaris-generaal zijn verleend.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het College wordt toegestaan ondermandaat te verlenen aan rechtstreeks onder hem ressorterende functionarissen, voor zover in dit besluit niet anders is bepaald.
 
 2. Het ondermandaat kan steeds één hiërarchisch niveau verder worden doorgegeven, voor zover in dit besluit niet anders is bepaald.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien een krachtens mandaat te nemen besluit belangrijke politieke, bestuurlijke of maatschappelijke gevolgen kan hebben, draagt het College zorg voor voorafgaande afstemming met de secretaris-generaal.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Ondermandaat door het College tot het nemen van besluiten op verzoeken op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), de behandeling van en beslissing op bezwaarschriften tegen voornoemde besluiten en met die verzoeken of bezwaarschriften samenhangende beslissingen kan uitsluitend worden verleend aan:
 
@@ -90,7 +116,7 @@ Indien een krachtens mandaat te nemen besluit belangrijke politieke, bestuurlijk
 
 2. Het in het eerste lid bedoelde ondermandaat kan slechts twee hiërarchische niveaus verder worden doorgeven.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Ondermandaat door het College ten aanzien van het behandelen van en beslissen op beroepschriften tegen de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039392&artikel=6&z=2025-08-01&g=2025-08-01), bedoelde bezwaarschriften kan worden verleend aan:
 
@@ -102,7 +128,7 @@ Indien een krachtens mandaat te nemen besluit belangrijke politieke, bestuurlijk
 
 2. De in het eerste lid genoemde functionarissen wordt toegestaan ten aanzien van de bevoegdheid tot het behandelen van beroepschriften ondermandaat te verlenen aan onder hen ressorterende medewerkers die met die taak zijn belast.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het College wordt toegestaan ondermandaat te verlenen aan het hoofd van de afdeling Bestuurlijke en Juridische Zaken van het parket-generaal ten aanzien van:
 
@@ -114,11 +140,11 @@ Indien een krachtens mandaat te nemen besluit belangrijke politieke, bestuurlijk
 
 2. Het in het eerste en tweede lid bedoelde ondermandaat kan slechts één hiërarchisch niveau verder worden doorgeven.
 
-#### Artikel 9
+##### Artikel 9
 
 Vóór het tijdstip van inwerkingtreding van dit mandaatbesluit genomen besluiten waarin de in de Mandaatregeling niet-beheersaangelegenheden Openbaar Ministerie verleende mandaten verder zijn doorgegeven, blijven van kracht voor zover zij niet strijd zijn met het bepaalde bij of krachtens dit besluit, totdat op grond van dit besluit is voorzien in ondermandaat of het betrokken besluit wordt ingetrokken.
 
-#### Artikel 10
+##### Artikel 10
 
 Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met mandaat onderscheidenlijk ondermandaat gelijkgesteld de verlening onderscheidenlijk doorgifte van:
 
@@ -126,15 +152,15 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - b. machtiging om in naam van de minister handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn.
 
-#### Artikel 11
+##### Artikel 11
 
 De [mandaatregeling niet-beheersaangelegenheden openbaar ministerie](https://wetten.overheid.nl/jci1.3:c:BWBR0026664) (Stcrt. 2009 nr. 5602920/09) wordt ingetrokken
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit wordt aangehaald als: Mandaatbesluit niet-beheersaangelegenheden Openbaar Ministerie 2017.
 

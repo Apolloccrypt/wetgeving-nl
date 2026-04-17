@@ -1,13 +1,35 @@
 ---
 title: "Regeling vierjarige subsidies literaire organisaties Nederlands Letterenfonds 2025–2028"
 identifier: "BWBR0048979"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-12-01
-laatste_update: 2023-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048979"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-12-01"
+last_updated: "2023-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048979"
+soort: "zbo"
+stam_id: "16941733"
+version_id: "29775362"
+internal_id: "C42669741"
+label_id: "16852634"
+dtd_version: "2.0"
+original_entry_into_force: "2023-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048979/2023-12-01/0"
+intitule_bron: "Stcrt.2023-32717"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2023-11-30"
+intitule_in_force: "2023-11-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-32717"
+original_published_date: "2023-11-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-32717"
+entry_into_force_date: "2023-12-01"
+jci_1_3: "jci1.3:c:BWBR0048979&z=2023-12-01&g=2023-12-01"
+jci_1_0: "1.0:c:BWBR0048979&g=2023-12-01"
+citeertitel_status: "officieel"
+entry_into_force: "2023-12-01"
 ---
-
 # Regeling vierjarige subsidies literaire organisaties Nederlands Letterenfonds 2025–2028
 
 Gelet op het bepaalde in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
@@ -22,7 +44,7 @@ De volgende regeling Vierjarige subsidies literaire organisaties Nederlands Lett
 
 #### § 1. Algemeen
 
-#### Artikel 1.1. Definities
+##### Artikel 1.1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -64,19 +86,19 @@ In deze regeling wordt verstaan onder:
 
 - **totale baten:** het totaal aan fwinanciële middelen waarover de aanvrager jaarlijks beschikt om de voornemens met betrekking tot de activiteiten van de aanvrager, te verwezenlijken en de kosten van de organisatie te dekken.
 
-#### Artikel 1.2. Doel
+##### Artikel 1.2. Doel
 
 Het Letterenfonds beoogt door meerjarige subsidieverlening op grond van deze regeling een bijdrage te leveren aan de kwaliteit en diversiteit van het literaire landschap, de geografische spreiding van literaire activiteiten over het hele land en bij een breed publiek belangstelling te wekken voor en kennis te vergroten van literatuur.
 
-#### Artikel 1.3. Subsidieperiode
+##### Artikel 1.3. Subsidieperiode
 
 Subsidie wordt verstrekt voor de duur van de subsidieperiode, zijnde vier jaar.
 
-#### Artikel 1.4. Aanvrager
+##### Artikel 1.4. Aanvrager
 
 Subsidie kan uitsluitend worden aangevraagd door een organisatie die in hoofdzaak is gericht op het op continue basis organiseren van activiteiten van (inter)nationale betekenis door het jaar heen die een wezenlijke bijdrage leveren aan de kwaliteit en diversiteit van het literaire landschap, belangstelling wekken voor de literatuur, door middel van een publiekspresentatie zichtbaar zijn en bijdragen aan de opbouw en het bereiken van een (inter)nationaal publiek voor die activiteiten.
 
-#### Artikel 1.5. Drempelnormen aanvrager
+##### Artikel 1.5. Drempelnormen aanvrager
 
 Een aanvrager die in aanmerking wil komen voor een subsidie:
 
@@ -90,7 +112,7 @@ Een aanvrager die in aanmerking wil komen voor een subsidie:
 
 - e. voor categorie A geldt dat de aanvrager aantoont dat een substantiële financiële bijdrage is verleend of toegezegd door andere overheden voor de structurele kosten van de organisatie voor de duur van de subsidieperiode 2025–2028.
 
-#### Artikel 1.6. Weigeringsgronden
+##### Artikel 1.6. Weigeringsgronden
 
 1. De subsidie wordt in ieder geval geweigerd indien:
 
@@ -116,7 +138,7 @@ Een aanvrager die in aanmerking wil komen voor een subsidie:
 
 - c. als de aanvraag onvoldoende concreet is met betrekking tot de uit te voeren activiteiten.
 
-#### Artikel 1.7. Categorieën en subsidiebedrag
+##### Artikel 1.7. Categorieën en subsidiebedrag
 
 1. De aanvragen worden aan de hand van de totale baten van de aanvrager geplaatst in de volgende categorieën:
 
@@ -132,7 +154,7 @@ Een aanvrager die in aanmerking wil komen voor een subsidie:
 
 5. Het aangevraagde totale subsidiebedrag voor vier jaar mag niet hoger zijn dan 50% van de totale baten in 2025–2028.
 
-#### Artikel 1.8. Subsidieplafond
+##### Artikel 1.8. Subsidieplafond
 
 1. Het subsidieplafond voor de regeling is € 1.800.000.
 
@@ -142,11 +164,11 @@ Een aanvrager die in aanmerking wil komen voor een subsidie:
 
 #### § 2. Procedure
 
-#### Artikel 2.1. Indieningsperiode en termijn
+##### Artikel 2.1. Indieningsperiode en termijn
 
 Aanvragen dienen uiterlijk 1 februari 2024 om 17.00 uur door het Letterenfonds te zijn ontvangen.
 
-#### Artikel 2.2. Aanvraagformulier
+##### Artikel 2.2. Aanvraagformulier
 
 1. Een aanvraag voor subsidie wordt ingediend met behulp van een voor deze regeling opgesteld aanvraagformulier.
 
@@ -184,7 +206,7 @@ Aanvragen dienen uiterlijk 1 februari 2024 om 17.00 uur door het Letterenfonds t
 
 #### § 3. Beoordeling en besluit
 
-#### Artikel 3.1. Adviescommissie
+##### Artikel 3.1. Adviescommissie
 
 1. Aanvragen die voldoen aan de formele vereisten om voor subsidie in aanmerking te komen, worden voor advies voorgelegd aan de adviescommissie literaire organisaties meerjarige subsidies.
 
@@ -198,7 +220,7 @@ Aanvragen dienen uiterlijk 1 februari 2024 om 17.00 uur door het Letterenfonds t
 
 Tevens wordt de hoogte van de subsidie gebaseerd op de omvang van de organisatie en de activiteiten van de aanvrager.
 
-#### Artikel 3.2. Beoordelingscriteria
+##### Artikel 3.2. Beoordelingscriteria
 
 1. De adviescommissie beoordeelt de aanvragen aan de hand van de volgende criteria:
 
@@ -212,7 +234,7 @@ Tevens wordt de hoogte van de subsidie gebaseerd op de omvang van de organisatie
 
 2. Indien een aanvraag op de beoordelingscriteria als bedoeld in het eerste lid, onder a, b, c en d een onvoldoende scoort, dan wijst het bestuur de aanvraag af.
 
-#### Artikel 3.3. Honorering en verdeling budget
+##### Artikel 3.3. Honorering en verdeling budget
 
 1. De adviescommissie verdeelt de aanvragen per categorie onder in twee groepen: de Groep Honoreren en de Groep Niet Honoreren.
 
@@ -224,13 +246,13 @@ Tevens wordt de hoogte van de subsidie gebaseerd op de omvang van de organisatie
 
 5. Indien het bestuur een subsidieplafond verhoogt, wordt eerst het subsidiebedrag van een aanvraag die wegens ontoereikendheid van het budget gedeeltelijk was toegewezen alsnog verhoogd tot het geadviseerde bedrag. Vervolgens wordt steeds de eerstvolgende aanvraag in de Groep Honoreren toegewezen voor het geadviseerde subsidiebedrag totdat het subsidieplafond is bereikt.
 
-#### Artikel 3.4. Besluit
+##### Artikel 3.4. Besluit
 
 1. Het bestuur informeert de aanvrager binnen 22 weken na de uiterlijke indieningsdatum schriftelijk over zijn besluit.
 
 #### § 4. Overige bepalingen
 
-#### Artikel 4.1. Aan subsidie verbonden verplichtingen
+##### Artikel 4.1. Aan subsidie verbonden verplichtingen
 
 1. De ontvanger van subsidie meldt onverwijld aan het bestuur als:
 
@@ -248,11 +270,11 @@ Tevens wordt de hoogte van de subsidie gebaseerd op de omvang van de organisatie
 
 5. Het bestuur kan bij beschikking andere dan de in het eerste en tweede lid opgenomen verplichtingen aan subsidie verbinden.
 
-#### Artikel 4.2. Beperking
+##### Artikel 4.2. Beperking
 
 De ontvanger van subsidie op basis van deze regeling kan in de periode waarop die subsidie betrekking heeft, geen aanspraak maken op subsidie voor dezelfde activiteiten op basis van andere deelregelingen van het Letterenfonds.
 
-#### Artikel 4.3. Verantwoording
+##### Artikel 4.3. Verantwoording
 
 1. De aanvrager stuurt jaarlijks voor 1 april een verantwoording in van de uitgevoerde activiteiten in het vorige kalenderjaar.
 
@@ -266,7 +288,7 @@ De ontvanger van subsidie op basis van deze regeling kan in de periode waarop di
 
 6. De subsidieontvanger werkt mee aan dan wel draagt er zorg voor dat de accountant meewerkt aan onderzoeken naar de door de accountant verrichte (controle)werkzaamheden door een door het bestuur van het Letterenfonds aan te wijzen partij. De daaraan verbonden kosten worden geacht te zijn begrepen in de subsidie.
 
-#### Artikel 4.4. Vaststelling subsidie
+##### Artikel 4.4. Vaststelling subsidie
 
 1. Het bestuur stelt de subsidie vast na ontvangst van de complete inhoudelijke en financiële verantwoording over de vier jaren waarover subsidie is verstrekt.
 
@@ -274,21 +296,21 @@ De ontvanger van subsidie op basis van deze regeling kan in de periode waarop di
 
 3. Als het bestuur overweegt de subsidie lager vast te stellen wordt de aanvrager hierover uiterlijk binnen 4 maanden na de datum waarop de jaarverantwoording moest worden ingediend geïnformeerd.
 
-#### Artikel 4.5. Begrotingsvoorbehoud
+##### Artikel 4.5. Begrotingsvoorbehoud
 
 Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende middelen door de Minister van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 4.6. Inwerkingtreding
+##### Artikel 4.6. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 4.7. Intrekking
+##### Artikel 4.7. Intrekking
 
 1. De Regeling meerjarige subsidies Nederlandse literaire manifestaties 2021- 2024 wordt ingetrokken.
 
 2. Op subsidies die zijn verstrekt op basis van de in het eerste lid genoemde regeling, blijft het bepaalde in die regeling van toepassing.
 
-#### Artikel 4.8. Citeertitel
+##### Artikel 4.8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling vierjarige subsidies literaire organisaties Nederlands Letterenfonds 2025–2028.
 

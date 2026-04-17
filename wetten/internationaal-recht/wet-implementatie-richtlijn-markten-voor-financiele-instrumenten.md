@@ -1,14 +1,41 @@
 ---
-title: "Wet implementatie richtlijn markten voor financiële instrumenten"
+title: "Wet van 30 oktober 2007 tot wijziging van de Wet op het financieel toezicht ter implementatie van richtlijn markten voor financiële instrumenten (Wet implementatie richtlijn markten voor financiële instrumenten)"
 identifier: "BWBR0022731"
-categorie: "Internationaal recht"
-publicatiedatum: 2007-11-01
-laatste_update: 2007-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022731"
+country: "nl"
+rank: "wet"
+publication_date: "2007-11-01"
+last_updated: "2007-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022731"
+soort: "wet"
+stam_id: "9254413"
+version_id: "14842402"
+internal_id: "C20207131"
+label_id: "9232984"
+dtd_version: "2.0"
+original_entry_into_force: "2007-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022731/2007-11-01/0"
+intitule_bron: "Stb.2007-406"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-10-30"
+intitule_published: "2007-10-31"
+intitule_in_force: "2007-10-31"
+intitule_status: "goed"
+original_publication: "Stb.2007-406"
+original_signed_date: "2007-10-30"
+original_published_date: "2007-10-31"
+original_effect: "nieuwe-regeling"
+original_dossier: "31086"
+original_url_id: "stb-2007-406"
+entry_into_force_date: "2007-11-01"
+jci_1_3: "jci1.3:c:BWBR0022731&z=2007-11-01&g=2007-11-01"
+jci_1_0: "1.0:c:BWBR0022731&g=2007-11-01"
+citeertitel_status: "officieel"
+short_title: "Wet implementatie richtlijn markten voor financiële instrumenten"
+signed_date: "2007-10-30"
+entry_into_force: "2007-11-01"
 ---
-
-# Wet implementatie richtlijn markten voor financiële instrumenten
+# Wet van 30 oktober 2007 tot wijziging van de Wet op het financieel toezicht ter implementatie van richtlijn markten voor financiële instrumenten (Wet implementatie richtlijn markten voor financiële instrumenten)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,15 +43,15 @@ Alzo Wij in overweging genomen hebben, dat het noodzakelijk is de [Wet op het fi
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet op het financieel toezicht.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Algemene wet inzake rijksbelastingen, enz.
 
-#### Artikel III
+##### Artikel III
 
 - 1. Een marktexploitant die direct voorafgaand aan het tijdstip van inwerkingtreding van deze wet beschikt over een erkenning als bedoeld in [artikel 5:26, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:26), wordt na dat tijdstip geacht als marktexploitant te beschikken over de vergunning voor het exploiteren of beheren van een gereglementeerde markt, bedoeld in [artikel 5:26, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:26).
 
@@ -54,17 +81,17 @@ E. Wijzigt de Wet op het financieel toezicht.
 
 G. Wijzigt deze wet.
 
-#### Artikel IV
+##### Artikel IV
 
 1. Bij ministeriële regeling kunnen, voorzover dit noodzakelijk is voor het herstel van onbedoelde gevolgen van deze wet en zo nodig in afwijking van deze wet, tijdelijke voorzieningen worden getroffen.
 
 2. Na de plaatsing in de Staatscourant van een krachtens het eerste lid vastgestelde ministeriële regeling wordt een voorstel van wet tot regeling van het betrokken onderwerp zo spoedig mogelijk bij de Staten-Generaal ingediend. Indien het voorstel wordt ingetrokken of indien een van beide kamers der Staten-Generaal besluit het voorstel niet aan te nemen, wordt de ministeriële regeling onverwijld ingetrokken. Wordt het voorstel tot wet verheven, dan wordt de ministeriële regeling ingetrokken op het tijdstip van inwerkingtreding van die wet.
 
-#### Artikel V
+##### Artikel V
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen en onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel VI
+##### Artikel VI
 
 Deze wet wordt aangehaald als: Wet implementatie richtlijn markten voor financiële instrumenten.
 

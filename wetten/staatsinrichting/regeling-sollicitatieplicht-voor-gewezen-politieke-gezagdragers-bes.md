@@ -1,13 +1,39 @@
 ---
-title: "Regeling sollicitatieplicht voor gewezen politieke gezagdragers BES"
+title: "Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 16 september 2010, nr. 2010-0000607568, tot het stellen van nadere regels betreffende het vinden van passende arbeid voor gewezen politieke gezagdragers van de openbare lichamen Bonaire, Sint Eustatius en Saba en het opleggen van sancties aan gewezen politieke gezagdragers van de openbare lichamen Bonaire, Sint Eustatius en Saba (Regeling sollicitatieplicht voor gewezen politieke gezagdragers BES)"
 identifier: "BWBR0028593"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028593"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028593"
+soort: "ministeriele-regeling-BES"
+stam_id: "10888053"
+version_id: "17870412"
+internal_id: "C24910771"
+label_id: "10862824"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028593/2010-10-10/0"
+intitule_bron: "Stcrt.2010-14698"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-16"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-14698"
+original_signed_date: "2010-09-16"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-14698"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028593&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028593&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Regeling sollicitatieplicht voor gewezen politieke gezagdragers BES"
+signed_date: "2010-09-16"
+entry_into_force: "2010-10-10"
 ---
-
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 16 september 2010, nr. 2010-0000607568, tot het stellen van nadere regels betreffende het vinden van passende arbeid voor gewezen politieke gezagdragers van de openbare lichamen Bonaire, Sint Eustatius en Saba en het opleggen van sancties aan gewezen politieke gezagdragers van de openbare lichamen Bonaire, Sint Eustatius en Saba (Regeling sollicitatieplicht voor gewezen politieke gezagdragers BES)
 
 Gelet op de [artikelen 3a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&artikel=3a), [3b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&artikel=3b), en [3c, tweede lid, van het Pensioenbesluit politieke gezagdragers BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&artikel=3c);
@@ -18,7 +44,7 @@ Treedt in werking op het tijdstip waarop de artikelen 3a, 3b en 3c van het Pensi
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -44,11 +70,11 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Regels betreffende activiteiten om passende arbeid te vinden
 
-#### Artikel 2
+##### Artikel 2
 
 Het bevoegde gezag wijst ten behoeve van het opstellen van het plan een re-integratiebedrijf aan.
 
-#### Artikel 3
+##### Artikel 3
 
 Het plan bevat de volgende onderdelen:
 
@@ -68,7 +94,7 @@ Het plan bevat de volgende onderdelen:
 
 - h. de wijze waarop en de frequentie waarmee de contacten tussen het re-integratiebedrijf en de betrokkene zullen plaatsvinden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het re-integratiebedrijf stuurt het plan binnen drie weken na afloop van de in [artikel 3a, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&artikel=3a) genoemde periode naar het bevoegde gezag.
 
@@ -76,19 +102,19 @@ Het plan bevat de volgende onderdelen:
 
 3. Het re-integratiebedrijf informeert terstond het bevoegde gezag, indien de betrokkene de uit [artikel 3a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&artikel=3a) voortvloeiende verplichtingen niet nakomt.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het plan wordt elke drie maanden door de betrokkene en het re-integratiebedrijf geëvalueerd.
 
 2. Indien de evaluatie aanleiding geeft tot wijziging van het plan, stuurt het re-integratiebedrijf het bijgestelde plan aan het bevoegde gezag. [Artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028593&hoofdstuk=2&artikel=4&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De betrokkene voert gemiddeld een keer per twee weken een sollicitatieactiviteit uit, tenzij in het plan anders is bepaald.
 
 2. Bij het vaststellen van de mate waarin de sollicitatieactiviteiten dienen te worden ondernomen, wordt rekening gehouden met de plaatselijke arbeidsmarktsituatie en het aantal beschikbare vacatures, de mogelijkheden van de betrokkene en eventueel aanwezige medische beperkingen en het begrip passende arbeid.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De betrokkene kan per kalenderjaar gedurende twintig dagen vakantie genieten waarin geen sollicitatieactiviteiten hoeven worden uitgevoerd. Onder dagen wordt verstaan: maandag tot en met vrijdag dan wel dinsdag tot en met zaterdag.
 
@@ -96,7 +122,7 @@ Het plan bevat de volgende onderdelen:
 
 3. Het aantal dagen, berekend volgens het tweede lid, wordt rekenkundig op hele dagen afgerond.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De kosten die de betrokkene maakt voor de activiteiten, bedoeld in [artikel 3, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0028593&hoofdstuk=2&artikel=3&z=2010-10-10&g=2010-10-10), worden door het bevoegde gezag vergoed, overeenkomstig de in het vastgestelde plan opgenomen begroting, of, bij gebreke hiervan, overeenkomstig de beschikking op de aanvraag.
 
@@ -106,7 +132,7 @@ Het plan bevat de volgende onderdelen:
 
 ### Hoofdstuk 3. Planmatige begeleiding en ondersteuning
 
-#### Artikel 9
+##### Artikel 9
 
 1. De betrokkene dient bij het bevoegde gezag een aanvraag in voor een tegemoetkoming in de kosten van vrijwillige planmatige begeleiding en ondersteuning, voordat met de planmatige begeleiding en ondersteuning een aanvang is gemaakt. Vergoeding vindt uitsluitend plaats na overlegging van facturen en bewijzen van betaling tot ten hoogste het bedrag waarop op grond van de beschikking aanspraak bestaat. Kosten die niet noodzakelijk zijn voor planmatige begeleiding en ondersteuning, of die niet in redelijke verhouding staan tot geleverde prestaties, worden niet vergoed.
 
@@ -118,7 +144,7 @@ Het plan bevat de volgende onderdelen:
 
 5. De aanspraak op de tegemoetkoming, bedoeld in het eerste lid, vervalt zodra de betrokkene ophoudt mee te werken aan de planmatige begeleiding en ondersteuning of op andere wijze de oorzaak is dat de planmatige begeleiding en ondersteuning niet of niet langer bijdraagt aan het vinden van passend werk.
 
-#### Artikel 10
+##### Artikel 10
 
 Een organisatie die planmatige begeleiding en ondersteuning uitvoert, voldoet aan de volgende eisen:
 
@@ -130,7 +156,7 @@ Een organisatie die planmatige begeleiding en ondersteuning uitvoert, voldoet aa
 
 ### Hoofdstuk 4. Inhouding van de uitkering
 
-#### Artikel 11
+##### Artikel 11
 
 Het bevoegde gezag legt een inhouding op, indien het constateert dat:
 
@@ -146,7 +172,7 @@ Het bevoegde gezag legt een inhouding op, indien het constateert dat:
 
 - f. de betrokkene weigert mee te werken aan een verplicht opgelegde planmatige begeleiding en ondersteuning.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De hoogte en duur van de inhouding op grond van [artikel 3c, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&artikel=3c) bedragen:
 
@@ -158,21 +184,21 @@ Het bevoegde gezag legt een inhouding op, indien het constateert dat:
 
 3. Inhoudingen kunnen gelijktijdig opgelegd worden, met dien verstande dat nooit meer dan 100% van de uitkering wordt ingehouden.
 
-#### Artikel 13
+##### Artikel 13
 
 Een inhouding wordt opgelegd met ingang van de eerste dag dat een verplichting als bedoeld in deze regeling niet of niet behoorlijk is nagekomen.
 
-#### Artikel 14
+##### Artikel 14
 
 Indien het bevoegde gezag de betrokkene een inhouding oplegt binnen twee jaar na de bekendmaking van een inhouding wegens dezelfde grond, worden de percentages alsmede het minimumbedrag, genoemd in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028593&hoofdstuk=4&artikel=12&z=2010-10-10&g=2010-10-10), met 50% verhoogd.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 Deze regeling treedt in werking op het tijdstip waarop de [artikelen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&artikel=3a), [3b](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&artikel=3b) en [3c van het Pensioenbesluit politieke gezagdragers BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&artikel=3c) in werking treden.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling wordt aangehaald als: Regeling sollicitatieplicht voor gewezen politieke gezagdragers BES.
 

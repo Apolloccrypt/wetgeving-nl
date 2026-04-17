@@ -1,13 +1,39 @@
 ---
-title: "Besluit verlening mandaat en machtiging aan Chief Executive Officer ProRail B.V. ter uitvoering van Tijdelijke subsidieregeling spoorgoederenvervoer voor bijzondere omleidingskosten"
+title: "Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 17 mei 2016, nr. IENM/BSK-2016/77864, houdende verlening van mandaat en machtiging aan de Chief Executive Officer van ProRail B.V. voor de uitvoering van de Tijdelijke subsidieregeling spoorgoederenvervoer voor bijzondere omleidingskosten"
 identifier: "BWBR0037973"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-05-20
-laatste_update: 2016-05-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037973"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-05-20"
+last_updated: "2016-05-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037973"
+soort: "ministeriele-regeling"
+stam_id: "13555613"
+version_id: "23224322"
+internal_id: "C33532411"
+label_id: "13522424"
+dtd_version: "2.0"
+original_entry_into_force: "2016-05-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037973/2016-05-20/0"
+intitule_bron: "Stcrt.2016-24630"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-05-17"
+intitule_published: "2016-05-19"
+intitule_in_force: "2016-05-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-24630"
+original_signed_date: "2016-05-17"
+original_published_date: "2016-05-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-24630"
+entry_into_force_date: "2016-05-20"
+jci_1_3: "jci1.3:c:BWBR0037973&z=2016-05-20&g=2016-05-20"
+jci_1_0: "1.0:c:BWBR0037973&g=2016-05-20"
+citeertitel_status: "redactioneel"
+short_title: "Besluit verlening mandaat en machtiging aan Chief Executive Officer ProRail B.V. ter uitvoering van Tijdelijke subsidieregeling spoorgoederenvervoer voor bijzondere omleidingskosten"
+signed_date: "2016-05-17"
+entry_into_force: "2016-05-20"
 ---
-
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 17 mei 2016, nr. IENM/BSK-2016/77864, houdende verlening van mandaat en machtiging aan de Chief Executive Officer van ProRail B.V. voor de uitvoering van de Tijdelijke subsidieregeling spoorgoederenvervoer voor bijzondere omleidingskosten
 
 Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:6), [10:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9), en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12);
@@ -18,7 +44,7 @@ Besluit:
 
 Treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de Tijdelijke subsidieregeling spoorgoederenvervoer voor bijzondere omleidingskosten wordt geplaatst (Stcrt. 2016/25885).
 
-#### Artikel 1
+##### Artikel 1
 
 Aan de Chief Executive Officer van ProRail B.V. wordt mandaat verleend tot:
 
@@ -28,7 +54,7 @@ Aan de Chief Executive Officer van ProRail B.V. wordt mandaat verleend tot:
 
 - c. het beslissen op bezwaarschriften tegen besluiten als bedoeld in de onderdelen a en b, voor zover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen.
 
-#### Artikel 2
+##### Artikel 2
 
 Aan de Chief Executive Officer van ProRail B.V. wordt machtiging verleend tot:
 
@@ -36,15 +62,15 @@ Aan de Chief Executive Officer van ProRail B.V. wordt machtiging verleend tot:
 
 - b. het voeren van procedures bij de rechter over de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037973&artikel=1&z=2016-05-20&g=2016-05-20) bedoelde besluiten.
 
-#### Artikel 3
+##### Artikel 3
 
 De Chief Executive Officer van ProRail B.V. kan met betrekking tot de bevoegdheden, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037973&artikel=1&z=2016-05-20&g=2016-05-20) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0037973&artikel=2&z=2016-05-20&g=2016-05-20), ondermandaat en machtiging verlenen aan één of meer onder hem ressorterende functionarissen.
 
-#### Artikel 4
+##### Artikel 4
 
 Bij de uitoefening van het mandaat en de machtiging neemt de Chief Executive Officer van ProRail B.V. of degene die ondermandaat of machtiging als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037973&artikel=3&z=2016-05-20&g=2016-05-20) is verleend, de in de bijlage bij dit besluit opgenomen instructie in acht.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de [Tijdelijke subsidieregeling spoorgoederenvervoer voor bijzondere omleidingskosten](https://wetten.overheid.nl/jci1.3:c:BWBR0037971) wordt geplaatst en werkt terug tot en met 1 januari 2016.
 

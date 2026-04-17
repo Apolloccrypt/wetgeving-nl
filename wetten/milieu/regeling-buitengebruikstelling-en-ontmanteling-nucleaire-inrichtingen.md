@@ -1,13 +1,39 @@
 ---
-title: "Regeling buitengebruikstelling en ontmanteling nucleaire inrichtingen"
+title: "Regeling van de Minister van Economische Zaken, Landbouw en Innovatie en de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 23 februari 2011, nr. WJZ/11005409, houdende regels inzake buitengebruikstelling en ontmanteling van nucleaire inrichtingen en inzake de aanvraag om goedkeuring voor de wijze waarop financiële zekerheid wordt gesteld voor de kosten van buitengebruikstelling en ontmanteling van nucleaire inrichtingen waarin kernenergie kan of kon worden vrijgemaakt (Regeling buitengebruikstelling en ontmanteling nucleaire inrichtingen)"
 identifier: "BWBR0029709"
-categorie: "Milieu"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029709"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029709"
+soort: "ministeriele-regeling"
+stam_id: "11266963"
+version_id: "18454242"
+internal_id: "C25732861"
+label_id: "11241244"
+dtd_version: "2.0"
+original_entry_into_force: "2011-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029709/2025-01-01/0"
+intitule_bron: "Stcrt.2011-4386"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-02-23"
+intitule_published: "2011-03-11"
+intitule_in_force: "2011-03-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-4386"
+original_signed_date: "2011-02-23"
+original_published_date: "2011-03-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-4386"
+entry_into_force_date: "2011-04-01"
+jci_1_3: "jci1.3:c:BWBR0029709&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0029709&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling buitengebruikstelling en ontmanteling nucleaire inrichtingen"
+signed_date: "2011-02-23"
+entry_into_force: "2011-04-01"
 ---
-
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie en de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 23 februari 2011, nr. WJZ/11005409, houdende regels inzake buitengebruikstelling en ontmanteling van nucleaire inrichtingen en inzake de aanvraag om goedkeuring voor de wijze waarop financiële zekerheid wordt gesteld voor de kosten van buitengebruikstelling en ontmanteling van nucleaire inrichtingen waarin kernenergie kan of kon worden vrijgemaakt (Regeling buitengebruikstelling en ontmanteling nucleaire inrichtingen)
 
 Gelet op de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=20), [26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=26), [30b](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=30b), [30d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=30d), [30e](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=30e), [30f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=30f), en [44a, derde lid, van het Besluit kerninstallaties, splijtstoffen en ertsen](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=44a);
@@ -24,7 +50,7 @@ Besluiten:
 
 #### Paragraaf 5. Aanvraag om goedkeuring van financiële zekerheid als bedoeld in [artikel 15f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15f)
 
-#### Artikel 11
+##### Artikel 11
 
 Indien de houder van een vergunning voor het in werking brengen, het in werking houden, het buiten gebruik stellen of het ontmantelen van een inrichting waarin kernenergie kan of kon worden vrijgemaakt de financiële zekerheid, bedoeld in [artikel 15f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15f), stelt in de vorm van een borgtocht of bankgarantie, bevat de aanvraag om goedkeuring daarvan in elk geval:
 
@@ -34,7 +60,7 @@ Indien de houder van een vergunning voor het in werking brengen, het in werking 
 
 - c. een afschrift van de overeenkomst waarbij de borgtocht of bankgarantie is overeengekomen.
 
-#### Artikel 12
+##### Artikel 12
 
 Indien de houder van een vergunning voor het in werking brengen, het in werking houden, het buiten gebruik stellen of het ontmantelen van een inrichting waarin kernenergie kan of kon worden vrijgemaakt de financiële zekerheid, bedoeld in [artikel 15f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15f), stelt in de vorm van deelname aan een daartoe ingesteld fonds, bevat de aanvraag om goedkeuring daarvan in elk geval:
 
@@ -54,7 +80,7 @@ Indien de houder van een vergunning voor het in werking brengen, het in werking 
 
 - h. een afschrift van de overeenkomsten die de aanvrager met het fonds heeft gesloten.
 
-#### Artikel 13
+##### Artikel 13
 
 Indien de houder van een vergunning voor het in werking brengen, het in werking houden, het buiten gebruik stellen of het ontmantelen van een inrichting waarin kernenergie kan of kon worden vrijgemaakt de financiële zekerheid, bedoeld in [artikel 15f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15f), stelt in de vorm van enige andere voorziening dan bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=5&artikel=11&z=2025-01-01&g=2025-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=5&artikel=12&z=2025-01-01&g=2025-01-01), bevat de aanvraag om goedkeuring daarvan gegevens waaruit blijkt dat die andere voorziening de kosten van de buitengebruikstelling en ontmanteling dekt op het moment van de aanvang daarvan, waaronder in elk geval:
 
@@ -64,7 +90,7 @@ Indien de houder van een vergunning voor het in werking brengen, het in werking 
 
 - c. een afschrift van de overeenkomsten die de aanvrager heeft gesloten in het kader van deze voorziening.
 
-#### Artikel 14
+##### Artikel 14
 
 1. In afwijking van de [artikelen 11, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=5&artikel=11&z=2025-01-01&g=2025-01-01), [12, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=5&artikel=12&z=2025-01-01&g=2025-01-01), en [13, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=5&artikel=13&z=2025-01-01&g=2025-01-01), kan de aanvraag om goedkeuring voor de wijze waarop financiële zekerheid wordt gesteld, indien deze voor 1 juli 2011 wordt ingediend, in plaats van een afschrift van een overeenkomst ook een ontwerp voor een overeenkomst als bedoeld in deze artikelen bevatten.
 
@@ -74,7 +100,7 @@ Indien de houder van een vergunning voor het in werking brengen, het in werking 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -86,7 +112,7 @@ In deze regeling wordt verstaan onder:
 
 - **radioactieve afvalstof:** radioactieve afvalstof als bedoeld in [artikel 1 van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=1).
 
-#### Artikel 2
+##### Artikel 2
 
 Een ontmantelingsplan van de houder van een vergunning voor het oprichten van een inrichting bevat in ieder geval:
 
@@ -94,7 +120,7 @@ Een ontmantelingsplan van de houder van een vergunning voor het oprichten van ee
 
 - b. een beschrijving van de wijze waarop bij het ontwerp en de bouw van de inrichting wordt voorkomen dat de toekomstige buitengebruikstelling en ontmanteling van die inrichting wordt bemoeilijkt.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een ontmantelingsplan van de houder van een vergunning voor het in werking brengen of in werking houden van een inrichting bevat in ieder geval:
 
@@ -116,7 +142,7 @@ Een ontmantelingsplan van de houder van een vergunning voor het oprichten van ee
 
 2. De houder van een vergunning voor het in werking brengen of in werking houden van een inrichting zorgt er, ten genoegen van de Autoriteit, voor dat de mate van detaillering van de gegevens, bedoeld in het eerste lid, toeneemt naarmate de leeftijd van de inrichting toeneemt.
 
-#### Artikel 4
+##### Artikel 4
 
 Een ontmantelingsplan dat wordt overgelegd bij de aanvraag om een vergunning voor het buiten gebruik stellen en het ontmantelen van een inrichting bevat in ieder geval:
 
@@ -138,21 +164,21 @@ Een ontmantelingsplan dat wordt overgelegd bij de aanvraag om een vergunning voo
 
 #### Paragraaf 3. Buitengebruikstelling en ontmanteling
 
-#### Artikel 5
+##### Artikel 5
 
 1. De houder van een vergunning voor het in werking brengen of het in werking houden van een inrichting treft voorzieningen om radiologische kennis en informatie over de inrichting die relevant is voor de buitengebruikstelling en de ontmanteling te behouden. Deze voorzieningen omvatten in ieder geval een boekhouding van verrichte handelingen met splijtstoffen en radioactieve stoffen.
 
 2. De houder van een vergunning voor het buiten gebruik stellen en het ontmantelen van een inrichting treft voorzieningen om radiologische kennis en informatie die nodig is om aan te tonen dat de ontmanteling is voltooid, te behouden totdat de vergunning voor het ontmantelen is ingetrokken.
 
-#### Artikel 6
+##### Artikel 6
 
 De houder van een vergunning voor het in werking brengen, het in werking houden, het buiten gebruik stellen of het ontmantelen van een inrichting gaat bij het opstellen en het actualiseren van het ontmantelingsplan uit van de laatste stand van de techniek.
 
-#### Artikel 7
+##### Artikel 7
 
 De houder van een vergunning voor het buiten gebruik stellen en het ontmantelen van een inrichting waarin kernenergie kan of kon worden vrijgemaakt, voert de in die inrichting aanwezige splijtstoffen af zo snel als redelijkerwijs mogelijk is.
 
-#### Artikel 8
+##### Artikel 8
 
 De houder van een vergunning voor het buiten gebruik stellen en het ontmantelen van een inrichting rapporteert aan de Autoriteit omtrent de voortgang van de buitengebruikstelling en de ontmanteling en omtrent belangrijke wijzigingen van de maatregelen, bedoeld om schade te voorkomen of te beperken. Hij rapporteert in ieder geval onmiddellijk nadat:
 
@@ -160,13 +186,13 @@ De houder van een vergunning voor het buiten gebruik stellen en het ontmantelen 
 
 - b. belangrijke systemen definitief zijn uitgeschakeld.
 
-#### Artikel 9
+##### Artikel 9
 
 De houder van een vergunning voor het buiten gebruik stellen en het ontmantelen van een inrichting treft organisatorische maatregelen om te waarborgen dat schade tijdens de buitengebruikstelling en de ontmanteling van de inrichting wordt voorkomen dan wel beperkt en dat wordt voldaan aan de eisen die aan de buitengebruikstelling en de ontmanteling worden gesteld.
 
 #### Paragraaf 4. Aantonen voltooiing van de ontmanteling
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
@@ -174,13 +200,13 @@ Vervallen
 
 #### Paragraaf 6. Slotbepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 1. Deze regeling treedt, met uitzondering van [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=5&z=2025-01-01&g=2025-01-01), in werking met ingang van 1 juli 2011.
 
 2. [Paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=5&z=2025-01-01&g=2025-01-01) treedt in werking met ingang van 1 april 2011.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling wordt aangehaald als: Regeling buitengebruikstelling en ontmanteling nucleaire inrichtingen.
 

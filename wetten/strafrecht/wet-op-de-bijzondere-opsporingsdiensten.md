@@ -1,14 +1,41 @@
 ---
-title: "Wet op de bijzondere opsporingsdiensten"
+title: "Wet van 29 mei 2006 tot vaststelling van regels met betrekking tot de bijzondere opsporingsdiensten en de instelling van het functioneel parket (Wet op de bijzondere opsporingsdiensten)"
 identifier: "BWBR0019919"
-categorie: "Strafrecht"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019919"
+country: "nl"
+rank: "wet"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019919"
+soort: "wet"
+stam_id: "8421353"
+version_id: "13297062"
+internal_id: "C19706411"
+label_id: "8402304"
+dtd_version: "2.0"
+original_entry_into_force: "2007-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019919/2025-07-01/0"
+intitule_bron: "Stb.2006-285"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-05-29"
+intitule_published: "2006-06-27"
+intitule_in_force: "2007-05-22"
+intitule_status: "goed"
+original_publication: "Stb.2006-285"
+original_signed_date: "2006-05-29"
+original_published_date: "2006-06-27"
+original_effect: "nieuwe-regeling"
+original_dossier: "30182"
+original_url_id: "stb-2006-285"
+entry_into_force_date: "2007-06-01"
+jci_1_3: "jci1.3:c:BWBR0019919&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0019919&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet op de bijzondere opsporingsdiensten"
+signed_date: "2006-05-29"
+entry_into_force: "2007-06-01"
 ---
-
-# Wet op de bijzondere opsporingsdiensten
+# Wet van 29 mei 2006 tot vaststelling van regels met betrekking tot de bijzondere opsporingsdiensten en de instelling van het functioneel parket (Wet op de bijzondere opsporingsdiensten)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -28,7 +55,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. Onze betrokken Minister: Onze minister onder wie een bijzondere opsporingsdienst ressorteert.
 
-#### Artikel 2
+##### Artikel 2
 
 Er zijn vier bijzondere opsporingsdiensten, te weten:
 
@@ -42,7 +69,7 @@ Er zijn vier bijzondere opsporingsdiensten, te weten:
 
 ### Hoofdstuk II. Taken en bevoegdheden
 
-#### Artikel 3
+##### Artikel 3
 
 Een bijzondere opsporingsdienst is onder gezag van de officier van justitie belast met:
 
@@ -56,15 +83,15 @@ Een bijzondere opsporingsdienst is onder gezag van de officier van justitie bela
 
 - e. de opsporing van strafbare feiten als bedoeld in de artikelen 22 en 25 van de Verordening (EU) 2017/1939 van de Raad van 12 oktober 2017 betreffende nauwere samenwerking bij de instelling van het Europees Openbaar Ministerie («EOM») (PbEU 2017, L 283).
 
-#### Artikel 4
+##### Artikel 4
 
 De officier van justitie kan, onverlet de toepassing van [artikel 80, vierde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=80), de betrokken opsporingsambtenaren de nodige aanwijzingen geven voor de vervulling van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=II&artikel=3&z=2025-07-01&g=2025-07-01) bedoelde taken.
 
-#### Artikel 5
+##### Artikel 5
 
 De opsporingsambtenaar is bevoegd zijn taak uit te oefenen in het gehele land.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De opsporingsambtenaar is bevoegd in de rechtmatige uitoefening van zijn taak geweld te gebruiken, wanneer het daarmee beoogde doel dit, mede gelet op de aan het gebruik van geweld verbonden gevaren, rechtvaardigt en dat doel niet op een andere wijze kan worden bereikt.
 
@@ -78,7 +105,7 @@ De opsporingsambtenaar is bevoegd zijn taak uit te oefenen in het gehele land.
 
 ### Hoofdstuk III. Toezicht op de bijzondere opsporingsdiensten en opsporingsambtenaren
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het College van procureurs-generaal ziet erop toe dat de bijzondere opsporingsdiensten de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=II&artikel=3&z=2025-07-01&g=2025-07-01), naar behoren uitvoeren.
 
@@ -92,23 +119,23 @@ De opsporingsambtenaar is bevoegd zijn taak uit te oefenen in het gehele land.
 
 4. Het bepaalde in het eerste lid laat het bepaalde in [artikel 126nba, achtste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nba) onverlet.
 
-#### Artikel 8
+##### Artikel 8
 
 Het College van procureurs-generaal kan Onze betrokken Minister adviseren over de uitoefening van de taken van de bijzondere opsporingsdienst en de feitelijke toepassing van de opsporingsbevoegdheden door de opsporingsambtenaren.
 
 ### Hoofdstuk IV. Organisatie en beleid
 
-#### Artikel 9
+##### Artikel 9
 
 1. De bijzondere opsporingsdienst is als afzonderlijke organisatorische eenheid geplaatst in de organisatie van het ministerie waartoe deze behoort.
 
 2. De aanwijzing van het hoofd van de bijzondere opsporingsdienst, op voordracht van Onze betrokken Minister, geschiedt na overleg met Onze Minister van Veiligheid en Justitie. De aanwijzing eindigt van rechtswege met ingang van de datum dat de uitoefening van de functie van hoofd van de opsporingsdienst geen onderdeel meer uitmaakt van de werkzaamheden van de betreffende ambtenaar.
 
-#### Artikel 10
+##### Artikel 10
 
 Onze betrokken Minister en Onze Minister van Veiligheid en Justitie stellen, gehoord het College van procureurs-generaal, periodiek de hoofdlijnen van het beleid met betrekking tot de taakuitoefening door de bijzondere opsporingsdiensten vast.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Jaarlijks stellen Onze betrokken Minister en het College van procureurs-generaal voor het komende jaar, met inachtneming van de hoofdlijnen van het beleid met betrekking tot de taakuitoefening door de bijzondere opsporingsdiensten, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=IV&artikel=10&z=2025-07-01&g=2025-07-01), een handhavingsarrangement vast, waarin de wederzijdse afspraken over opsporing en afhandeling van de opsporingsonderzoeken zijn opgenomen.
 
@@ -116,7 +143,7 @@ Onze betrokken Minister en Onze Minister van Veiligheid en Justitie stellen, geh
 
 3. Onze betrokken Minister zendt het jaarverslag na de vaststelling ervan aan de Staten-Generaal.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Er is een eenheid binnen de bijzondere opsporingsdienst die, onder gezag van de officier van justitie, persoonsgegevens verwerkt ten behoeve van het voorkomen en opsporen van misdrijven die gezien hun ernst, frequentie of het georganiseerd verband waarin ze worden gepleegd, een ernstige inbreuk kunnen maken op de rechtsorde op de terreinen waarop de bijzondere opsporingsdienst een taak heeft als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&hoofdstuk=II&artikel=3&z=2025-07-01&g=2025-07-01).
 
@@ -124,7 +151,7 @@ Onze betrokken Minister en Onze Minister van Veiligheid en Justitie stellen, geh
 
 ### Hoofdstuk V. Samenwerking met de politie en andere diensten
 
-#### Artikel 13
+##### Artikel 13
 
 1. Onze betrokken Minister en Onze Minister van Veiligheid en Justitie kunnen tezamen bij ministeriële regeling regels geven over de samenwerking tussen de bijzondere opsporingsdienst en de politie.
 
@@ -136,7 +163,7 @@ Onze betrokken Minister en Onze Minister van Veiligheid en Justitie stellen, geh
 
 ### Hoofdstuk VI. Behandeling van klachten
 
-#### Artikel 14
+##### Artikel 14
 
 1. Onze betrokken Minister draagt zorg voor de behandeling van een klacht over een gedraging van een opsporingsambtenaar. Onze betrokken Minister stelt nadere regels vast over de behandeling van klachten over gedragingen van opsporingsambtenaren.
 
@@ -148,47 +175,47 @@ Onze betrokken Minister en Onze Minister van Veiligheid en Justitie stellen, geh
 
 - c. een jaarlijkse publicatie van de geregistreerde klachten en beslissingen.
 
-#### Artikel 15
+##### Artikel 15
 
 Tenzij reeds naar tevredenheid van de klager aan diens klacht tegemoet is gekomen, wordt van de klacht onverwijld na de ontvangst daarvan afschrift gezonden aan het functioneel parket. Het hoofd van het functioneel parket wordt in de gelegenheid gesteld advies over de afhandeling van de klacht uit te brengen.
 
-#### Artikel 16
+##### Artikel 16
 
 In afwijking van [artikel 9:11, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:11) wordt de klacht afgehandeld binnen veertien weken na de ontvangst van het klaagschrift.
 
 ### Hoofdstuk VII. Slotbepalingen
 
-#### Artikel 17
+##### Artikel 17
 
 Wijzigt het Wetboek van Strafvordering.
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt de Wet op de rechterlijke organisatie.
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
 
-#### Artikel 20
+##### Artikel 20
 
 Wijzigt de Wet wapens en munitie.
 
-#### Artikel 21
+##### Artikel 21
 
 Wijzigt de Politiewet 1993.
 
-#### Artikel 22
+##### Artikel 22
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 23
+##### Artikel 23
 
 Deze wet wordt aangehaald als: Wet op de bijzondere opsporingsdiensten.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 6a
+##### Artikel 6a
 
 De opsporingsambtenaar is bevoegd tot het vorderen van inzage in een identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) van personen, voor zover dat redelijkerwijs noodzakelijk is voor de uitoefening van zijn taak.
 

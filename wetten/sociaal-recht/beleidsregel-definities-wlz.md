@@ -1,26 +1,52 @@
 ---
-title: "Beleidsregel definities Wlz"
+title: "Beleidsregel Definities Wlz"
 identifier: "BWBR0051356"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051356"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051356"
+soort: "zbo"
+stam_id: "17498813"
+version_id: "30861042"
+internal_id: "C44223931"
+label_id: "17401104"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051356/2026-01-01/0"
+intitule_bron: "Stcrt.2025-26199"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-22"
+intitule_published: "2025-08-04"
+intitule_in_force: "2025-08-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-26199"
+original_signed_date: "2025-07-22"
+original_published_date: "2025-08-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-26199"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051356&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051356&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel definities Wlz"
+signed_date: "2025-07-22"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregel Definities Wlz
 
 Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) (Awb), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot een haar toekomende of onder haar verantwoordelijkheid uitgeoefende bevoegdheid.
 
-#### Artikel 1. Doel van de beleidsregel
+##### Artikel 1. Doel van de beleidsregel
 
 Deze beleidsregel bepaalt en geeft uitleg aan de begrippen die gebruikt worden in de regelgeving van de NZa.
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 Deze beleidsregel is van toepassing op de zorg of dienst als omschreven bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) (Wlz) die wordt geleverd doorzorgaanbieders.
 
-#### Artikel 3. Begripsbepalingen
+##### Artikel 3. Begripsbepalingen
 
 - **Aanmelding:** Aanmelding van de Wlz-uitvoerder conform [artikel 4.1.1, eerste lid, van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.1.1).
 
@@ -220,11 +246,11 @@ Deze beleidsregel is van toepassing op de zorg of dienst als omschreven bij of k
 
 - **Zorgzwaartepakket (zzp):** Een zzp bestaande uit een volledig pakket van verblijf en zorg dat aansluit op de kenmerken van de cliënt en het soort zorg dat die cliënt nodig heeft, beschreven in [artikel 3.1.1 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1).
 
-#### Artikel 4. Intrekken oude beleidsregel
+##### Artikel 4. Intrekken oude beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel definities Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0049530), met kenmerk BR/REG-24141b, ingetrokken.
 
-#### Artikel 5. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 5. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
 
 De [Beleidsregel definities Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0049530), met kenmerk BR/REG-24141b, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

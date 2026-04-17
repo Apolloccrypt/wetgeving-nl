@@ -1,13 +1,35 @@
 ---
 title: "Deelregeling meerjarige activiteitensubsidies Fonds Podiumkunsten 2017–2020"
 identifier: "BWBR0037166"
-categorie: "Bestuursrecht"
-publicatiedatum: 2015-11-11
-laatste_update: 2015-11-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037166"
+country: "nl"
+rank: "zbo"
+publication_date: "2015-11-11"
+last_updated: "2015-11-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037166"
+soort: "zbo"
+stam_id: "13297703"
+version_id: "22765342"
+internal_id: "C32909971"
+label_id: "13265904"
+dtd_version: "2.0"
+original_entry_into_force: "2015-11-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037166/2015-11-11/0"
+intitule_bron: "Stcrt.2015-39015"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2015-11-10"
+intitule_in_force: "2015-11-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-39015"
+original_published_date: "2015-11-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-39015"
+entry_into_force_date: "2015-11-11"
+jci_1_3: "jci1.3:c:BWBR0037166&z=2015-11-11&g=2015-11-11"
+jci_1_0: "1.0:c:BWBR0037166&g=2015-11-11"
+citeertitel_status: "officieel"
+entry_into_force: "2015-11-11"
 ---
-
 # Deelregeling meerjarige activiteitensubsidies Fonds Podiumkunsten 2017–2020
 
 Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement van het Nederlands Fonds voor Podiumkunsten+](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2);
@@ -16,7 +38,7 @@ Besluit
 
 #### Paragraaf 1. : Algemene bepalingen
 
-#### Artikel 1.1. Definities
+##### Artikel 1.1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -42,15 +64,15 @@ In deze regeling wordt verstaan onder:
 
 - **voorstelling of concert:** openbaar toegankelijke podiumkunstactiviteit die bedoeld is voor publiek en waarbij sprake is van een (muziek)theatraal concept of choreografisch idee of een muzikale programmatische samenhang.
 
-#### Artikel 1.2. Doel
+##### Artikel 1.2. Doel
 
 Het bestuur kan meerjarige activiteitensubsidies verstrekken voor activiteiten die bijdragen aan een kwalitatief hoogwaardig en pluriform aanbod van professionele podiumkunsten in Nederland in de jaren 2017 tot en met 2020 en het opbouwen en bereiken van een publiek daarvoor.
 
-#### Artikel 1.3. Subsidieperiode
+##### Artikel 1.3. Subsidieperiode
 
 Subsidie wordt verstrekt voor een periode van vier jaar.
 
-#### Artikel 1.4. Beschikbare subsidiebedragen
+##### Artikel 1.4. Beschikbare subsidiebedragen
 
 1. Voor de periode 2017–2020 zijn per kalenderjaar de volgende bedragen beschikbaar voor het verstrekken van subsidies voor het produceren van uitvoeringen als bedoeld in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037166&paragraaf=3&z=2015-11-11&g=2015-11-11) van deze regeling:
 
@@ -72,7 +94,7 @@ voor muziek € 6.000.000.
 
 5. Het bestuur kan eerder vastgestelde subsidieplafonds verhogen of verlagen. Een besluit tot het vaststellen, verhogen of verlagen van een subsidieplafond wordt bekendgemaakt via www.fondspodiumkunsten.nl.
 
-#### Artikel 1.5. Weigeringsgronden
+##### Artikel 1.5. Weigeringsgronden
 
 1. Het bestuur kan subsidie weigeren:
 
@@ -100,7 +122,7 @@ voor muziek € 6.000.000.
 
 - f. de Deelregeling bijdragen meerjarenprogramma’s presentatie- en erfgoedinstellingen van het Mondriaan Fonds.
 
-#### Artikel 1.6. Fusie
+##### Artikel 1.6. Fusie
 
 1. Als er sprake is of zal zijn van een juridische fusie tussen twee of meer instellingen wordt bij het bepalen of de aanvraag voldoet aan het bepaalde in deze regeling uitgegaan van het totaal van de individuele prestaties.
 
@@ -108,7 +130,7 @@ voor muziek € 6.000.000.
 
 #### Paragraaf 2. : Procedure
 
-#### Artikel 2.1. Aanvraagformulier
+##### Artikel 2.1. Aanvraagformulier
 
 1. Een aanvraag voor subsidie als bedoeld in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037166&paragraaf=3&z=2015-11-11&g=2015-11-11) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037166&paragraaf=4&z=2015-11-11&g=2015-11-11) van deze regeling wordt ingediend met behulp van een door het bestuur opgesteld formulier voor de betreffende periode.
 
@@ -116,11 +138,11 @@ voor muziek € 6.000.000.
 
 3. Het bestuur kan digitale indiening mogelijk maken. Het bepaalde in de leden een en twee is van overeenkomstige toepassing.
 
-#### Artikel 2.2. Indiening aanvraag
+##### Artikel 2.2. Indiening aanvraag
 
 Aanvragen dienen uiterlijk 1 maart 2016 om 17:00 uur te zijn ontvangen.
 
-#### Artikel 2.3. Beoordeling
+##### Artikel 2.3. Beoordeling
 
 1. Aanvragen die voldoen aan de vereisten om voor subsidie in aanmerking te komen worden voor advies voorgelegd aan een van de volgende adviescommissies: theater, muziektheater, dans, muziek of festivals.
 
@@ -130,7 +152,7 @@ Aanvragen dienen uiterlijk 1 maart 2016 om 17:00 uur te zijn ontvangen.
 
 4. De adviescommissie adviseert over de subsidiehoogte op basis van het bepaalde in deze regeling.
 
-#### Artikel 2.4. Verdeling budget
+##### Artikel 2.4. Verdeling budget
 
 1. Aanvragen voor een meerjarige productiesubsidie of een meerjarige festivalsubsidie die aan de voorwaarden voldoen om voor subsidie in aanmerking te komen worden onderverdeeld in:
 
@@ -146,17 +168,17 @@ Aanvragen dienen uiterlijk 1 maart 2016 om 17:00 uur te zijn ontvangen.
 
 4. Indien het bestuur een subsidieplafond verhoogt, wordt eerst het subsidie van een aanvraag die wegens ontoereikendheid van het budget gedeeltelijk was toegewezen alsnog verhoogd tot het geadviseerde bedrag. Vervolgens wordt steeds de eerstvolgende aanvraag toegewezen totdat het subsidieplafond is bereikt.
 
-#### Artikel 2.5. Besluit
+##### Artikel 2.5. Besluit
 
 Het bestuur informeert de aanvrager binnen 22 weken na de uiterlijke indiendatum schriftelijk over zijn besluit. Als voor de motivering van het besluit wordt verwezen naar een over de aanvraag uitgebracht advies wordt de tekst van het advies aan de aanvrager toegezonden.
 
 #### Paragraaf 3. : Meerjarige productiesubsidie
 
-#### Artikel 3.1. Wie kan aanvragen
+##### Artikel 3.1. Wie kan aanvragen
 
 Een aanvraag voor een meerjarige productiesubsidie kan uitsluitend worden gedaan door een instelling met rechtspersoonlijkheid die primair gericht is op het zelf ontwikkelen en produceren van uitvoeringen met een herkenbare artistieke signatuur.
 
-#### Artikel 3.2. Waarvoor kan worden aangevraagd
+##### Artikel 3.2. Waarvoor kan worden aangevraagd
 
 1. Een aanvraag voor meerjarige productiesubsidie kan worden ingediend voor het produceren van uitvoeringen door professionele podiumkunstenaars.
 
@@ -166,7 +188,7 @@ Een aanvraag voor een meerjarige productiesubsidie kan uitsluitend worden gedaan
 
 4. Een aanvrager dient gemiddeld minimaal 40 uitvoeringen per jaar te realiseren.
 
-#### Artikel 3.3. Drempelnormen
+##### Artikel 3.3. Drempelnormen
 
 1. Een aanvrager die over de periode 2013–2016 meerjarige activiteitensubsidie van het Fonds Podiumkunsten heeft ontvangen dient te kunnen aantonen dat hij in de jaren 2013, 2014 en 2015 minimaal gemiddeld 40 uitvoeringen per kalenderjaar heeft gerealiseerd en dat de gerealiseerde eigeninkomstenquote over deze periode minimaal 20/100ste bedraagt. Als een reeds gesubsidieerde aanvrager niet aan deze eisen voldoet, kan hij desondanks een aanvraag indienen. Het bestuur gaat alleen over tot definitieve subsidieverlening als voldoende aannemelijk is dat over de gehele periode 2013–2016 aan deze eisen wordt voldaan.
 
@@ -176,7 +198,7 @@ Een aanvraag voor een meerjarige productiesubsidie kan uitsluitend worden gedaan
 
 4. Als een aanvrager geen jaarrekening kan overleggen over enig jaar dient hij een vergelijkbaar opgave in. Het bestuur kan nadere eisen aan deze opgave stellen.
 
-#### Artikel 3.4. Beoordeling
+##### Artikel 3.4. Beoordeling
 
 1. Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
@@ -190,7 +212,7 @@ Een aanvraag voor een meerjarige productiesubsidie kan uitsluitend worden gedaan
 
 2. Bij het maken van een keuze tussen twee of meer aanvragen die ex aequo zijn geëindigd, is de bijdrage die de aanvraag zal leveren aan de pluriformiteit leidend.
 
-#### Artikel 3.5. Hoogte subsidie
+##### Artikel 3.5. Hoogte subsidie
 
 1. Het subsidie per jaar bestaat uit een vaste voet van € 75.000 per jaar plus een bedrag per uitvoering. Er wordt voor maximaal 100 uitvoeringen subsidie verstrekt voor aanvragen op het gebied van theater, muziektheater of dans en voor maximaal 80 uitvoeringen voor aanvragen op het gebied van muziek.
 
@@ -200,7 +222,7 @@ Een aanvraag voor een meerjarige productiesubsidie kan uitsluitend worden gedaan
 
 4. Er zijn verschillende bedragen voor locaties met een capaciteit tot en met 400 bezoekers en voor locaties met een capaciteit van 401 bezoekers of meer. De bedragen zijn vastgelegd in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0037166&bijlage=A&z=2015-11-11&g=2015-11-11).
 
-#### Artikel 3.6. Bijdrage talentontwikkeling
+##### Artikel 3.6. Bijdrage talentontwikkeling
 
 1. Aan aanvragers aan wie een meerjarige productiesubsidie wordt verstrekt kan aanvullend een bijdrage talentontwikkeling worden toegekend als de aanvrager activiteiten ontplooit op het gebied van talentontwikkeling in de podiumkunsten. Om in aanmerking te komen voor een bijdrage talentontwikkeling dient de aanvrager in zijn aanvraag concreet aan te geven welke activiteiten hij op dit terrein wil uitvoeren, welke extra kosten dit met zich meebrengt en wat de toegevoegde waarde van deze activiteiten is.
 
@@ -208,7 +230,7 @@ Een aanvraag voor een meerjarige productiesubsidie kan uitsluitend worden gedaan
 
 3. De bijdrage talentontwikkeling wordt alleen verstrekt voor zover de financiële middelen dat toelaten en kan voor een kortere periode worden verstrekt dan vier jaar.
 
-#### Artikel 3.7. Verplichtingen met betrekking tot te realiseren eigen inkomsten
+##### Artikel 3.7. Verplichtingen met betrekking tot te realiseren eigen inkomsten
 
 1. Aan het subsidie is de verplichting verbonden tot het realiseren van een bepaald aandeel eigen inkomsten in de vorm van een eigeninkomstenquote. De hoogte van de quote is afhankelijk van de bedragen per uitvoering die een aanvrager ontvangt en het aantal bijbehorende uitvoeringen waarvoor subsidie wordt verleend. De aan de bedragen per uitvoering verbonden quotes zijn vastgelegd in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0037166&bijlage=A&z=2015-11-11&g=2015-11-11).
 
@@ -216,15 +238,15 @@ Een aanvraag voor een meerjarige productiesubsidie kan uitsluitend worden gedaan
 
 #### Paragraaf 4. : Meerjarige festivalsubsidie
 
-#### Artikel 4.1. Wie kan aanvragen
+##### Artikel 4.1. Wie kan aanvragen
 
 Een aanvraag voor het organiseren van een festival of concours kan uitsluitend worden gedaan door een instelling met rechtspersoonlijkheid die primair gericht is op het organiseren van een festival of concours op het gebied van podiumkunsten dat jaarlijks of tweejaarlijks plaatsvindt.
 
-#### Artikel 4.2. Waarvoor kan worden aangevraagd
+##### Artikel 4.2. Waarvoor kan worden aangevraagd
 
 Een aanvraag voor meerjarige subsidie kan worden ingediend voor het organiseren van een festival of concours op het gebied van de professionele podiumkunsten dat minimaal eens per twee jaar plaatsvindt.
 
-#### Artikel 4.3. Drempelnormen
+##### Artikel 4.3. Drempelnormen
 
 1. Een aanvrager die in aanmerking wil komen voor een meerjarige subsidie dient te kunnen aantonen dat hij minimaal drie edities van het betreffende festival of concours heeft georganiseerd en dat de eigeninkomstenquote van de aanvrager in de periode 2013–2015 minimaal 20/100ste bedraagt.
 
@@ -232,7 +254,7 @@ Een aanvraag voor meerjarige subsidie kan worden ingediend voor het organiseren 
 
 3. Als een aanvrager geen jaarrekening kan overleggen over enig jaar dient hij een vergelijkbare opgave in. Het bestuur kan nadere eisen aan deze opgave stellen.
 
-#### Artikel 4.4. Categorieën
+##### Artikel 4.4. Categorieën
 
 1. Bij het beoordelen van aanvragen worden deze ingedeeld in een van de volgende categorieën: concours, klein/middelgroot festival of groot festival.
 
@@ -246,7 +268,7 @@ Overige festivals worden als klein/middelgroot aangemerkt.
 
 3. Uitgangspunt voor de categorie-indeling is de situatie in de periode 2013–2015, tenzij op basis van de aanvraag aannemelijk is dat die niet representatief is voor de periode waarvoor wordt aangevraagd.
 
-#### Artikel 4.5. Beoordeling
+##### Artikel 4.5. Beoordeling
 
 Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
@@ -262,13 +284,13 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
 - f. aanwezigheid financiële bijdrage van provincie of gemeente.
 
-#### Artikel 4.6. Hoogte subsidie
+##### Artikel 4.6. Hoogte subsidie
 
 1. Het subsidie bestaat uit een bedrag per editie.
 
 2. De hoogte van het bedrag per editie is gelijk aan het bedrag dat in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0037166&bijlage=A&z=2015-11-11&g=2015-11-11) voor de betreffende categorie is opgenomen.
 
-#### Artikel 4.7. Bijdrage (co-)productie
+##### Artikel 4.7. Bijdrage (co-)productie
 
 1. Op basis van de aanvraag kan aanvullend op een meerjarige festivalsubsidie een bijdrage worden toegekend als de aanvrager een bijzondere bijdrage levert aan het tot stand komen van nieuw aanbod als (co-)producent.
 
@@ -276,13 +298,13 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
 3. Om in aanmerking te komen voor een bijdrage (co-)productie dient de aanvrager in zijn aanvraag concreet aan te geven welke activiteiten hij op dit terrein wil uitvoeren, welke extra kosten dit met zich meebrengt en wat de toegevoegde waarde van deze activiteiten is.
 
-#### Artikel 4.8. Verplichtingen met betrekking tot te realiseren eigen inkomsten
+##### Artikel 4.8. Verplichtingen met betrekking tot te realiseren eigen inkomsten
 
 Aan het subsidie is de verplichting verbonden tot het realiseren van een bepaald aandeel eigen inkomsten in de vorm van een eigeninkomstenquote. De hoogte van de quote is afhankelijk van de hoogte van het subsidiebedrag dat een aanvrager ontvangt. De aan de subsidiebedragen verbonden eigeninkomstenquotes zijn vastgelegd in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0037166&bijlage=A&z=2015-11-11&g=2015-11-11).
 
 #### Paragraaf 5. : Verplichtingen en verantwoording
 
-#### Artikel 5.1. Aan het subsidie verbonden verplichtingen
+##### Artikel 5.1. Aan het subsidie verbonden verplichtingen
 
 1. De subsidieontvanger meldt onverwijld aan het bestuur als:
 
@@ -296,7 +318,7 @@ Aan het subsidie is de verplichting verbonden tot het realiseren van een bepaald
 
 3. Het bestuur kan bij beschikking andere dan de in het eerste en tweede lid opgenomen verplichtingen aan het subsidie verbinden.
 
-#### Artikel 5.2. Verantwoording
+##### Artikel 5.2. Verantwoording
 
 1. De subsidieontvanger stuurt jaarlijks voor 1 april een verantwoording in van de uitgevoerde activiteiten in het vorige kalenderjaar.
 
@@ -308,7 +330,7 @@ Aan het subsidie is de verplichting verbonden tot het realiseren van een bepaald
 
 5. De subsidieontvanger werkt mee dan wel draagt er zorg voor dat de accountant meewerkt aan onderzoeken naar de door de accountant verrichte (controle)werkzaamheden door een door het bestuur aan te wijzen partij. De daaraan voor de subsidieontvanger verbonden kosten komen voor zijn rekening.
 
-#### Artikel 5.3. Vaststelling subsidie
+##### Artikel 5.3. Vaststelling subsidie
 
 1. Het bestuur stelt het subsidie vast na ontvangst van de complete verantwoording over de subsidieperiode.
 
@@ -316,15 +338,15 @@ Aan het subsidie is de verplichting verbonden tot het realiseren van een bepaald
 
 #### Paragraaf 6. : Overige bepalingen
 
-#### Artikel 6.1. Begrotingsvoorbehoud
+##### Artikel 6.1. Begrotingsvoorbehoud
 
 Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende middelen door de minister van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 6.2. Inwerkingtreding
+##### Artikel 6.2. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 6.3. Citeertitel
+##### Artikel 6.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling meerjarige activiteitensubsidies Fonds Podiumkunsten 2017–2020.
 

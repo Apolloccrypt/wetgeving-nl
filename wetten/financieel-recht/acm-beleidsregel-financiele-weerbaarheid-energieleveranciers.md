@@ -1,20 +1,45 @@
 ---
 title: "ACM Beleidsregel financiële weerbaarheid energieleveranciers"
 identifier: "BWBR0052520"
-categorie: "Financieel recht"
-publicatiedatum: 2026-04-11
-laatste_update: 2026-04-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052520"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-04-11"
+last_updated: "2026-04-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052520"
+soort: "zbo"
+stam_id: "17834673"
+version_id: "31524192"
+internal_id: "C45017431"
+label_id: "17731734"
+dtd_version: "2.0"
+original_entry_into_force: "2026-04-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052520/2026-04-11/0"
+intitule_bron: "Stcrt.2026-14136"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-04-03"
+intitule_published: "2026-04-10"
+intitule_in_force: "2026-04-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-14136"
+original_signed_date: "2026-04-03"
+original_published_date: "2026-04-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-14136"
+entry_into_force_date: "2026-04-11"
+jci_1_3: "jci1.3:c:BWBR0052520&z=2026-04-11&g=2026-04-11"
+jci_1_0: "1.0:c:BWBR0052520&g=2026-04-11"
+citeertitel_status: "officieel"
+signed_date: "2026-04-03"
+entry_into_force: "2026-04-11"
 ---
-
 # ACM Beleidsregel financiële weerbaarheid energieleveranciers
 
 Gelet op de [artikelen 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [artikel 2.29 van de Energieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0051774&artikel=2.29).
 
 Besluit:
 
-#### Artikel 1. (begrippen)
+##### Artikel 1. (begrippen)
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -30,11 +55,11 @@ In deze beleidsregel wordt verstaan onder:
 
 - **Vergunning:** vergunning voor levering van elektriciteit of gas aan eindafnemers met een kleine aansluiting als bedoeld in [artikel 2.17 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.17).
 
-#### Artikel 2. (toepassingsbereik)
+##### Artikel 2. (toepassingsbereik)
 
 Bij het toezicht op de naleving van [artikel 2.18 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.18) beoordeelt de ACM onder meer of de vergunninghouder beschikt over de benodigde financiële kwaliteiten voor de levering van elektriciteit of gas aan eindafnemers met een kleine aansluiting.
 
-#### Artikel 3. (liquiditeitsprognoses)
+##### Artikel 3. (liquiditeitsprognoses)
 
 1. De ACM beoordeelt of de vergunninghouder gedurende ten minste de eerstvolgende twaalf kalendermaanden kan voldoen aan zijn betalingsverplichtingen. De ACM toetst dit aan de hand van liquiditeitsprognoses waarmee de vergunninghouder aantoont dat de stand van de liquide middelen gedurende elk van deze maanden positief is in de hierna beschreven scenario’s.
 
@@ -62,7 +87,7 @@ Bij het toezicht op de naleving van [artikel 2.18 van de Energiewet](https://wet
 
 2. De ACM kan een formulier vaststellen over de manier waarop de ACM de benodigde liquiditeitsprognoses aangeleverd wil hebben door de vergunninghouder voor de scenario’s genoemd in het eerste lid.
 
-#### Artikel 4. (inkoopstrategie)
+##### Artikel 4. (inkoopstrategie)
 
 1. De ACM controleert of een vergunninghouder beschikt over een gedegen inkoopstrategie als bedoeld in [artikel 2.30 van de Energieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0051774&artikel=2.30). Onder een gedegen inkoopstrategie wordt in elk geval verstaan:
 
@@ -78,12 +103,12 @@ Bij het toezicht op de naleving van [artikel 2.18 van de Energiewet](https://wet
 
 3. Indien de vergunninghouder de afdekking realiseert met een product dat wordt geleverd op een ander leveringspunt (marktgebied voor gas of biedzone voor elektriciteit) dan waar de eindlevering plaatsvindt, dan controleert de ACM of de vergunninghouder vooraf alle benodigde interconnectiecapaciteit (gas) en transmissierechten (elektriciteit) heeft verkregen. Ook controleert de ACM of de vergunninghouder daarbij tevens de hiermee samenhangende kosten en prijsspreads direct afdekt.
 
-#### Artikel 5. (inwerkingtreding)
+##### Artikel 5. (inwerkingtreding)
 
 1. Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
 
 2. Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
-#### Artikel 6. (citeertitel)
+##### Artikel 6. (citeertitel)
 
 Deze beleidsregel wordt aangehaald als: ACM Beleidsregel financiële weerbaarheid energieleveranciers.

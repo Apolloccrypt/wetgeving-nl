@@ -1,13 +1,39 @@
 ---
-title: "Organisatie-, mandaat- en volmachtbesluit directie Communicatie 2011"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 22 juli 2011, nr. C/2011/12042, houdende de inrichting van de organisatie van de directie Communicatie alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Communicatie (Organisatie-, mandaat- en volmachtbesluit directie Communicatie 2011)"
 identifier: "BWBR0030327"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-09-02
-laatste_update: 2023-09-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030327"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-09-02"
+last_updated: "2023-09-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030327"
+soort: "ministeriele-regeling"
+stam_id: "11417613"
+version_id: "18741852"
+internal_id: "C26147071"
+label_id: "11391254"
+dtd_version: "2.0"
+original_entry_into_force: "2011-08-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030327/2023-09-02/0"
+intitule_bron: "Stcrt.2011-13998"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-07-22"
+intitule_published: "2011-08-01"
+intitule_in_force: "2011-08-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-13998"
+original_signed_date: "2011-07-22"
+original_published_date: "2011-08-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-13998"
+entry_into_force_date: "2011-08-02"
+jci_1_3: "jci1.3:c:BWBR0030327&z=2023-09-02&g=2023-09-02"
+jci_1_0: "1.0:c:BWBR0030327&g=2023-09-02"
+citeertitel_status: "officieel"
+short_title: "Organisatie-, mandaat- en volmachtbesluit directie Communicatie 2011"
+signed_date: "2011-07-22"
+entry_into_force: "2011-08-02"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 22 juli 2011, nr. C/2011/12042, houdende de inrichting van de organisatie van de directie Communicatie alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Communicatie (Organisatie-, mandaat- en volmachtbesluit directie Communicatie 2011)
 
 Gelet op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=3), en [11 van het Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=11);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Organisatie
 
-#### Artikel 2
+##### Artikel 2
 
 Onder de directeur ressorteren de volgende afdelingen:
 
@@ -40,7 +66,7 @@ Onder de directeur ressorteren de volgende afdelingen:
 
 - d. de afdeling Omgevingskennis en Responsiviteit.
 
-#### Artikel 3
+##### Artikel 3
 
 Elk van de afdelingshoofden is verantwoordelijk voor:
 
@@ -60,7 +86,7 @@ Elk van de afdelingshoofden is verantwoordelijk voor:
 
 - h. het behandelen van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1), voor zover deze betrekking hebben op gedragingen van de onder hen ressorterende functionarissen.
 
-#### Artikel 4
+##### Artikel 4
 
 Het hoofd van de afdeling Woordvoering en Publiciteit is verantwoordelijk voor:
 
@@ -86,7 +112,7 @@ Het hoofd van de afdeling Woordvoering en Publiciteit is verantwoordelijk voor:
 
 - k. Het stimuleren van helder taalgebruik in stukken die binnen het ministerie worden geschreven. Hiervoor worden taalblogs geschreven, wordt redactiehulp aangeboden en worden workshops georganiseerd.
 
-#### Artikel 5
+##### Artikel 5
 
 Het hoofd van de afdeling Strategische Communicatie is verantwoordelijk voor:
 
@@ -116,7 +142,7 @@ Het hoofd van de afdeling Strategische Communicatie is verantwoordelijk voor:
 
 - m. het adviseren en begeleiden van de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeuren-generaal en de directeuren over en tijdens contacten met de pers en bij externe optredens.
 
-#### Artikel 6
+##### Artikel 6
 
 Het hoofd van de afdeling Creatie en Publieksinformatie is verantwoordelijk voor:
 
@@ -142,7 +168,7 @@ Het hoofd van de afdeling Creatie en Publieksinformatie is verantwoordelijk voor
 
 - k. het verzorgen van reactieve en proactieve webcare op SZW social media kanalen zoals Facebook, LinkedIn, Twitter en Instagram. Tevens het desgevraagd verzorgen van reactieve en proactieve webcare op de social mediakanalen van de bewindspersonen van SZW.
 
-#### Artikel 7
+##### Artikel 7
 
 Het hoofd van de afdeling Omgevingskennis en Responsiviteit is verantwoordelijk voor:
 
@@ -170,7 +196,7 @@ Het hoofd van de afdeling Omgevingskennis en Responsiviteit is verantwoordelijk 
 
 #### § 3. Bevoegdheden
 
-#### Artikel 8
+##### Artikel 8
 
 1. Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de taken van de eigen afdeling.
 
@@ -178,39 +204,39 @@ Het hoofd van de afdeling Omgevingskennis en Responsiviteit is verantwoordelijk 
 
 3. In aanvulling op het eerste lid wordt aan het hoofd van de afdeling Creatie en Publieksinformatie mandaat en machtiging verleend met betrekking tot het paraferen van concepten van antwoorden op persoonlijke brieven die direct aan bewindspersonen gericht zijn en op burgerbrieven die aan het ministerie gericht zijn.
 
-#### Artikel 9
+##### Artikel 9
 
 Aan de hoofden van de afdelingen wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst, voor zover deze overeenkomsten betrekking hebben op de taken die vallen onder hun verantwoordelijkheid.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door het afdelingshoofd van de afdeling Woordvoering en Publiciteit of door een andere daartoe aan te wijzen plaatsvervanger.
 
 2. Bij afwezigheid of verhindering van een afdelingshoofd worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door een ander afdelingshoofd of door een daartoe aan te wijzen plaatsvervanger.
 
-#### Artikel 11
+##### Artikel 11
 
 De hoofden van de afdelingen kunnen, na voorafgaande schriftelijke toestemming van de directeur, hun bevoegdheden doorverlenen aan onder hen ressorterende functionarissen.
 
 #### § 4. Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 Het [Organisatie-, mandaat en volmachtbesluit directie Communicatie 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026506) wordt ingetrokken.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2011.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Communicatie 2011.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-#### Artikel 7
+##### Artikel 7
 
 De coördinator van de afdeling Stafbureau is in de dagelijkse aansturing verantwoordelijk voor:
 
@@ -228,7 +254,7 @@ De coördinator van de afdeling Stafbureau is in de dagelijkse aansturing verant
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Communicatie 2011.
 

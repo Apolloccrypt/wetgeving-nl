@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling beleidsregels en subsidieplafond Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Mine Action en Clustermunitie Programma III 2025–2030)"
+title: "Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingshulp van 20 december 2024, nr. BZ2410991, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Mine Action en Clustermunitie Programma III 2025–2030)"
 identifier: "BWBR0050647"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050647"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050647"
+soort: "ministeriele-regeling"
+stam_id: "17334453"
+version_id: "30545292"
+internal_id: "C43782871"
+label_id: "17238494"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050647/2025-01-01/0"
+intitule_bron: "Stcrt.2024-42978"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-12-20"
+intitule_published: "2024-12-31"
+intitule_in_force: "2024-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-42978"
+original_signed_date: "2024-12-20"
+original_published_date: "2024-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-42978"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050647&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050647&g=2025-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling beleidsregels en subsidieplafond Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Mine Action en Clustermunitie Programma III 2025–2030)"
+signed_date: "2024-12-20"
+entry_into_force: "2025-01-01"
 ---
-
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingshulp van 20 december 2024, nr. BZ2410991, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Mine Action en Clustermunitie Programma III 2025–2030)
 
 Gelet op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=7) en [10 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=10);
@@ -16,11 +42,11 @@ Gelet op de [artikelen 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&arti
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor subsidieverlening op grond van [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=2.5) en [2.6, sub d, f en h, van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=2.6) met het oog op de financiering van activiteiten op het gebied van ontmijnen, het verwijderen van clustermunitie en capaciteitsversterking van nationale **mine action** autoriteiten, die strekken tot het bevorderen van vrede en veiligheid na afloop van een gewapend conflict (Mine Action en Clustermunitie Programma III 2025–2030), gelden de als bijlage bij dit besluit gevoegde beleidsregels.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor subsidieverlening in het kader van het Mine Action en Cluster Munitie Programma III 2025–2030 geldt voor de periode vanaf de inwerkingtreding van dit besluit tot en met 31 december 2030 een subsidieplafond van € 78.750.000, dat als volgt over de afzonderlijke typen activiteiten wordt verdeeld:
 
@@ -36,7 +62,7 @@ Voor subsidieverlening op grond van [artikel 2.5](https://wetten.overheid.nl/jci
 
 4. Meerjarige subsidies worden verleend onder de voorwaarde, bedoeld in [artikel 4:34 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34), dat daarvoor in de daarop betrekking hebbende begroting voldoende middelen ter beschikking worden gesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aanvragen voor een subsidie in het kader van het Mine Action en Cluster Munitie Programma III 2025–2030 worden ingediend aan de hand van het door de minister vastgestelde aanvraagformulier en voorzien van de op dat aanvraagformulier gevraagde bescheiden.1Het aanvraagformulier is te vinden op [https://www.government.nl/topics/grant-programmes/mine-action-and-cluster-munitions-programme-2025–2030](https://www.government.nl/topics/grant-programmes/mine-action-and-cluster-munitions-programme-2025-2030).
 
@@ -44,11 +70,11 @@ Voor subsidieverlening op grond van [artikel 2.5](https://wetten.overheid.nl/jci
 
 3. Aanvragen voor een subsidie in het kader van het Mine Action en Cluster Munitie Programma 2025–2023 voor activiteiten, bedoeld in [artikel 2, eerste lid, sub c](https://wetten.overheid.nl/jci1.3:c:BWBR0050647&artikel=2&z=2025-01-01&g=2025-01-01), worden ingediend in een of meerdere nader door de minister bekend te maken periode of perioden.
 
-#### Artikel 4
+##### Artikel 4
 
 De verdeling van de subsidieplafonds, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050647&artikel=2&z=2025-01-01&g=2025-01-01), vindt plaats op grond van een beoordeling overeenkomstig de maatstaven die in de bijlage bij dit besluit zijn neergelegd, met dien verstande dat uit alle aanvragen die voldoen aan de maatstaven, de aanvragen die daaraan het beste voldoen het eerst voor subsidieverlening in aanmerking komen, binnen het raam van een evenwichtige spreiding als bedoeld in [artikel 8, derde lid, sub d, van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=8).
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 januari 2031, met dien verstande dat het van toepassing blijft op subsidies die voor die datum zijn verleend.
 

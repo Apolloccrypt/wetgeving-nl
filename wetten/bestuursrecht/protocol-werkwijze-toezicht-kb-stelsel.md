@@ -1,13 +1,35 @@
 ---
 title: "Protocol werkwijze toezicht KB-stelsel"
 identifier: "BWBR0050398"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-11-12
-laatste_update: 2024-11-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050398"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-11-12"
+last_updated: "2024-11-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050398"
+soort: "zbo"
+stam_id: "17265823"
+version_id: "30437442"
+internal_id: "C43647581"
+label_id: "17171644"
+dtd_version: "2.0"
+original_entry_into_force: "2024-11-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050398/2024-11-12/0"
+intitule_bron: "Stcrt.2024-36606-n1"
+intitule_effect: "wijziging"
+intitule_published: "2024-11-26"
+intitule_in_force: "2024-11-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-36606-n1"
+original_published_date: "2024-11-26"
+original_effect: "wijziging"
+original_url_id: "stcrt-2024-36606-n1"
+entry_into_force_date: "2024-11-12"
+jci_1_3: "jci1.3:c:BWBR0050398&z=2024-11-12&g=2024-11-12"
+jci_1_0: "1.0:c:BWBR0050398&g=2024-11-12"
+citeertitel_status: "redactioneel"
+entry_into_force: "2024-11-12"
 ---
-
 # Protocol werkwijze toezicht KB-stelsel
 
 ### 1. Inleiding

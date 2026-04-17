@@ -1,24 +1,49 @@
 ---
 title: "Besluit Normbedragen Voorzieningen UWV 2026"
 identifier: "BWBR0052487"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2026-04-01
-laatste_update: 2026-04-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052487"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-04-01"
+last_updated: "2026-04-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052487"
+soort: "zbo"
+stam_id: "17825133"
+version_id: "31523812"
+internal_id: "C45016771"
+label_id: "17722344"
+dtd_version: "2.0"
+original_entry_into_force: "2026-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052487/2026-04-01/0"
+intitule_bron: "Stcrt.2026-12114-n1"
+intitule_effect: "wijziging"
+intitule_signed: "2025-12-09"
+intitule_published: "2026-03-31"
+intitule_in_force: "2026-03-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-12114-n1"
+original_signed_date: "2025-12-09"
+original_published_date: "2026-03-31"
+original_effect: "wijziging"
+original_url_id: "stcrt-2026-12114-n1"
+entry_into_force_date: "2026-04-01"
+jci_1_3: "jci1.3:c:BWBR0052487&z=2026-04-01&g=2026-04-01"
+jci_1_0: "1.0:c:BWBR0052487&g=2026-04-01"
+citeertitel_status: "officieel"
+signed_date: "2025-12-09"
+entry_into_force: "2026-04-01"
 ---
-
 # Besluit Normbedragen Voorzieningen UWV 2026
 
 Gelet op het bepaalde in de [artikelen 34a](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34a), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) en [36 Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=36), de [artikelen 2:22](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:22) en [2:23 Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:23) en [artikel 19a Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a), [artikel 3a.1.1 Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=3a.1.1) en de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7) en [10g Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10g);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Uitvoeringsinstituut werknemersverzekeringen hanteert bij het toekennen van voorzieningen voor de werksituatie of de onderwijssituatie en bij het toekennen van een tolkvoorziening voor de leefsituatie, de normbedragen zoals opgenomen in de bijlage bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 UWV indexeert de normbedragen voorzieningen als volgt:
 
@@ -46,23 +71,23 @@ UWV indexeert de normbedragen voorzieningen als volgt:
 
   - e. Voor normbedrag Z4 heeft het Ministerie van Sociale Zaken en Werkgelegenheid het indexcijfer vastgesteld op 3,0%.
 
-#### Artikel 3
+##### Artikel 3
 
 De subsidiebedragen voor interne Jobcoaching voor een proefplaatsing zijn exclusief BTW.
 
-#### Artikel 4
+##### Artikel 4
 
 UWV laat periodiek onafhankelijk (markt)onderzoek uitvoeren naar de actualiteit van de normbedragen.
 
-#### Artikel 5
+##### Artikel 5
 
 Het [Besluit Normbedragen Voorzieningen UWV 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050803) (Staatscourant van 26 februari 2025, nummer 3045) wordt ingetrokken.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin dit besluit is geplaatst en werkt terug tot en met 1 januari 2026.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als het Besluit Normbedragen Voorzieningen UWV 2026.
 

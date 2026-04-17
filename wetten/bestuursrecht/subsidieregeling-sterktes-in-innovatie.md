@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling sterktes in innovatie"
+title: "Regeling van de Minister van Economische Zaken van 3 december 2008, nr. WJZ/8187136, houdende vaststelling van subsidie-instrumenten op het terrein van sterktes in innovatie (Subsidieregeling sterktes in innovatie)"
 identifier: "BWBR0024881"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-10-01
-laatste_update: 2017-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024881"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-10-01"
+last_updated: "2017-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024881"
+soort: "ministeriele-regeling"
+stam_id: "9801473"
+version_id: "21690952"
+internal_id: "C31129431"
+label_id: "9780304"
+dtd_version: "2.0"
+original_entry_into_force: "2014-08-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024881/2017-10-01/0"
+intitule_bron: "Stcrt.2014-20679"
+intitule_effect: "intrekking-regeling"
+intitule_signed: "2014-07-11"
+intitule_published: "2014-08-19"
+intitule_in_force: "2014-08-19"
+intitule_status: "vervallen"
+original_publication: "Stcrt.2014-20679"
+original_signed_date: "2014-07-11"
+original_published_date: "2014-08-19"
+original_effect: "intrekking-regeling"
+original_url_id: "stcrt-2014-20679"
+entry_into_force_date: "2014-08-20"
+jci_1_3: "jci1.3:c:BWBR0024881&z=2017-10-01&g=2017-10-01"
+jci_1_0: "1.0:c:BWBR0024881&g=2017-10-01"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling sterktes in innovatie"
+signed_date: "2014-07-11"
+entry_into_force: "2014-08-20"
 ---
-
 # Regeling van de Minister van Economische Zaken van 3 december 2008, nr. WJZ/8187136, houdende vaststelling van subsidie-instrumenten op het terrein van sterktes in innovatie (Subsidieregeling sterktes in innovatie)
 
 Gelet op de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=4), [5, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=5), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=6), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=9), [12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=15), [17, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=17), [18, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=18), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=19), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=21), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=25), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=44),[50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=50), en [53, eerste lid, van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=53);
@@ -16,135 +42,135 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 Vervallen
 
-#### Artikel 1.2
+##### Artikel 1.2
 
 Vervallen
 
-#### Artikel 1.3
+##### Artikel 1.3
 
 Vervallen
 
-#### Artikel 1.4
+##### Artikel 1.4
 
 Vervallen
 
-#### Artikel 1.5
+##### Artikel 1.5
 
 Vervallen
 
 ### Hoofdstuk 1a. Toeslag voor Topconsortia voor Kennis en Innovatie (TKI-toeslag)
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 Vervallen
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 Vervallen
 
-#### Artikel 2.3
+##### Artikel 2.3
 
 Vervallen
 
-#### Artikel 2.4
+##### Artikel 2.4
 
 Vervallen
 
-#### Artikel 2.5
+##### Artikel 2.5
 
 Vervallen
 
-#### Artikel 2.6
+##### Artikel 2.6
 
 Vervallen
 
-#### Artikel 2.7
+##### Artikel 2.7
 
 Vervallen
 
-#### Artikel 2.8
+##### Artikel 2.8
 
 Vervallen
 
-#### Artikel 2.9
+##### Artikel 2.9
 
 Vervallen
 
-#### Artikel 2.10
+##### Artikel 2.10
 
 Vervallen
 
-#### Artikel 2.11
+##### Artikel 2.11
 
 Vervallen
 
-#### Artikel 2.12
+##### Artikel 2.12
 
 Vervallen
 
 ### Hoofdstuk 1b. TKI MKB-versterking
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 Vervallen
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 Vervallen
 
-#### Artikel 3.3
+##### Artikel 3.3
 
 Vervallen
 
-#### Artikel 3.4
+##### Artikel 3.4
 
 Vervallen
 
-#### Artikel 3.5
+##### Artikel 3.5
 
 Vervallen
 
-#### Artikel 3.6
+##### Artikel 3.6
 
 Vervallen
 
-#### Artikel 3.7
+##### Artikel 3.7
 
 Vervallen
 
-#### Artikel 3.8
+##### Artikel 3.8
 
 Vervallen
 
-#### Artikel 3.9
+##### Artikel 3.9
 
 Vervallen
 
-#### Artikel 3.10
+##### Artikel 3.10
 
 Vervallen
 
-#### Artikel 3.11
+##### Artikel 3.11
 
 Vervallen
 
-#### Artikel 3.12
+##### Artikel 3.12
 
 Vervallen
 
-#### Artikel 3.13
+##### Artikel 3.13
 
 Vervallen
 
-#### Artikel 3.14
+##### Artikel 3.14
 
 Vervallen
 
-#### Artikel 3.15
+##### Artikel 3.15
 
 Vervallen
 
@@ -152,83 +178,83 @@ Vervallen
 
 #### § 4. Slotbepalingen
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 Vervallen
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 Vervallen
 
-#### Artikel 4.3
+##### Artikel 4.3
 
 Vervallen
 
-#### Artikel 4.4
+##### Artikel 4.4
 
 Vervallen
 
-#### Artikel 4.5
+##### Artikel 4.5
 
 Vervallen
 
-#### Artikel 4.6
+##### Artikel 4.6
 
 Vervallen
 
-#### Artikel 4.7
+##### Artikel 4.7
 
 Vervallen
 
-#### Artikel 4.8
+##### Artikel 4.8
 
 Vervallen
 
-#### Artikel 4.9
+##### Artikel 4.9
 
 Vervallen
 
-#### Artikel 4.10
+##### Artikel 4.10
 
 Vervallen
 
 #### § 3. MIT-kennisvouchers
 
-#### Artikel 4.11
+##### Artikel 4.11
 
 Vervallen
 
-#### Artikel 4.12
+##### Artikel 4.12
 
 Vervallen
 
-#### Artikel 4.13
+##### Artikel 4.13
 
 Vervallen
 
-#### Artikel 4.14
+##### Artikel 4.14
 
 Vervallen
 
-#### Artikel 4.15
+##### Artikel 4.15
 
 Vervallen
 
-#### Artikel 4.16
+##### Artikel 4.16
 
 Vervallen
 
-#### Artikel 4.17
+##### Artikel 4.17
 
 Vervallen
 
-#### Artikel 4.18
+##### Artikel 4.18
 
 Vervallen
 
-#### Artikel 4.19
+##### Artikel 4.19
 
 Vervallen
 
@@ -236,109 +262,109 @@ Vervallen
 
 #### § 4. Hooggekwalificeerd personeel
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 Vervallen
 
 #### § 2. FND-haalbaarheidsprojecten
 
-#### Artikel 5.2
+##### Artikel 5.2
 
 Vervallen
 
-#### Artikel 5.3
+##### Artikel 5.3
 
 Vervallen
 
-#### Artikel 5.4
+##### Artikel 5.4
 
 Vervallen
 
-#### Artikel 5.5
+##### Artikel 5.5
 
 Vervallen
 
-#### Artikel 5.6
+##### Artikel 5.6
 
 Vervallen
 
-#### Artikel 5.7
+##### Artikel 5.7
 
 Vervallen
 
-#### Artikel 5.8
+##### Artikel 5.8
 
 Vervallen
 
 #### § 1. Begripsbepalingen Food & Nutrition Delta
 
-#### Artikel 5.9
+##### Artikel 5.9
 
 Vervallen
 
-#### Artikel 5.10
+##### Artikel 5.10
 
 Vervallen
 
-#### Artikel 5.11
+##### Artikel 5.11
 
 Vervallen
 
-#### Artikel 5.12
+##### Artikel 5.12
 
 Vervallen
 
-#### Artikel 5.13
+##### Artikel 5.13
 
 Vervallen
 
-#### Artikel 5.14
+##### Artikel 5.14
 
 Vervallen
 
-#### Artikel 5.15
+##### Artikel 5.15
 
 Vervallen
 
-#### Artikel 5.16
+##### Artikel 5.16
 
 Vervallen
 
-#### Artikel 5.17
+##### Artikel 5.17
 
 Vervallen
 
-#### Artikel 5.18
+##### Artikel 5.18
 
 Vervallen
 
 #### § 3. FND-innovatieprojecten
 
-#### Artikel 5.19
+##### Artikel 5.19
 
 Vervallen
 
-#### Artikel 5.20
+##### Artikel 5.20
 
 Vervallen
 
-#### Artikel 5.21
+##### Artikel 5.21
 
 Vervallen
 
-#### Artikel 5.22
+##### Artikel 5.22
 
 Vervallen
 
-#### Artikel 5.23
+##### Artikel 5.23
 
 Vervallen
 
-#### Artikel 5.24
+##### Artikel 5.24
 
 Vervallen
 
-#### Artikel 5.25
+##### Artikel 5.25
 
 Vervallen
 
@@ -346,75 +372,75 @@ Vervallen
 
 #### § 1. Begripsbepalingen HTAS-innovatieprojecten
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 Vervallen
 
 #### § 4. FND-MKB-innovatieprojecten
 
-#### Artikel 6.2
+##### Artikel 6.2
 
 Vervallen
 
-#### Artikel 6.3
+##### Artikel 6.3
 
 Vervallen
 
-#### Artikel 6.4
+##### Artikel 6.4
 
 Vervallen
 
-#### Artikel 6.5
+##### Artikel 6.5
 
 Vervallen
 
-#### Artikel 6.6
+##### Artikel 6.6
 
 Vervallen
 
-#### Artikel 6.7
+##### Artikel 6.7
 
 Vervallen
 
-#### Artikel 6.8
+##### Artikel 6.8
 
 Vervallen
 
 #### § 1. Begripsbepalingen HTAS-innovatieprojecten
 
-#### Artikel 6.9
+##### Artikel 6.9
 
 Vervallen
 
-#### Artikel 6.10
+##### Artikel 6.10
 
 Vervallen
 
-#### Artikel 6.11
+##### Artikel 6.11
 
 Vervallen
 
-#### Artikel 6.12
+##### Artikel 6.12
 
 Vervallen
 
-#### Artikel 6.13
+##### Artikel 6.13
 
 Vervallen
 
-#### Artikel 6.14
+##### Artikel 6.14
 
 Vervallen
 
-#### Artikel 6.15
+##### Artikel 6.15
 
 Vervallen
 
-#### Artikel 6.16
+##### Artikel 6.16
 
 Vervallen
 
-#### Artikel 6.17
+##### Artikel 6.17
 
 Vervallen
 
@@ -422,83 +448,83 @@ Vervallen
 
 #### § 1. Begripsbepalingen Life Sciences & Health
 
-#### Artikel 7.1
+##### Artikel 7.1
 
 Vervallen
 
 #### § 2. Subsidie aan ETB-samenwerkingsverbanden
 
-#### Artikel 7.2
+##### Artikel 7.2
 
 Vervallen
 
-#### Artikel 7.3
+##### Artikel 7.3
 
 Vervallen
 
-#### Artikel 7.4
+##### Artikel 7.4
 
 Vervallen
 
-#### Artikel 7.5
+##### Artikel 7.5
 
 Vervallen
 
-#### Artikel 7.6
+##### Artikel 7.6
 
 Vervallen
 
-#### Artikel 7.7
+##### Artikel 7.7
 
 Vervallen
 
-#### Artikel 7.8
+##### Artikel 7.8
 
 Vervallen
 
-#### Artikel 7.9
+##### Artikel 7.9
 
 Vervallen
 
-#### Artikel 7.10
+##### Artikel 7.10
 
 Vervallen
 
 #### § 3. Subsidie aan internationale MKB-samenwerkingsverbanden
 
-#### Artikel 7.11
+##### Artikel 7.11
 
 Vervallen
 
-#### Artikel 7.12
+##### Artikel 7.12
 
 Vervallen
 
-#### Artikel 7.13
+##### Artikel 7.13
 
 Vervallen
 
-#### Artikel 7.14
+##### Artikel 7.14
 
 Vervallen
 
-#### Artikel 7.15
+##### Artikel 7.15
 
 Vervallen
 
-#### Artikel 7.16
+##### Artikel 7.16
 
 Vervallen
 
-#### Artikel 7.17
+##### Artikel 7.17
 
 Vervallen
 
-#### Artikel 7.18
+##### Artikel 7.18
 
 Vervallen
 
-#### Artikel 7.19
+##### Artikel 7.19
 
 Vervallen
 
@@ -506,71 +532,71 @@ Vervallen
 
 #### § 4. HTAS-projecten elektrische voertuigtechnologie
 
-#### Artikel 8.1
+##### Artikel 8.1
 
 Vervallen
 
 #### § 2. InnoWATOR-projecten
 
-#### Artikel 8.2
+##### Artikel 8.2
 
 Vervallen
 
-#### Artikel 8.3
+##### Artikel 8.3
 
 Vervallen
 
-#### Artikel 8.4
+##### Artikel 8.4
 
 Vervallen
 
-#### Artikel 8.5
+##### Artikel 8.5
 
 Vervallen
 
-#### Artikel 8.6
+##### Artikel 8.6
 
 Vervallen
 
-#### Artikel 8.7
+##### Artikel 8.7
 
 Vervallen
 
 #### § 2. FND-haalbaarheidsprojecten
 
-#### Artikel 8.8
+##### Artikel 8.8
 
 Vervallen
 
-#### Artikel 8.9
+##### Artikel 8.9
 
 Vervallen
 
-#### Artikel 8.10
+##### Artikel 8.10
 
 Vervallen
 
-#### Artikel 8.11
+##### Artikel 8.11
 
 Vervallen
 
-#### Artikel 8.12
+##### Artikel 8.12
 
 Vervallen
 
-#### Artikel 8.13
+##### Artikel 8.13
 
 Vervallen
 
-#### Artikel 8.14
+##### Artikel 8.14
 
 Vervallen
 
-#### Artikel 8.15
+##### Artikel 8.15
 
 Vervallen
 
-#### Artikel 8.16
+##### Artikel 8.16
 
 Vervallen
 
@@ -578,105 +604,105 @@ Vervallen
 
 #### § 3. FND-innovatieprojecten
 
-#### Artikel 9.1
+##### Artikel 9.1
 
 Vervallen
 
 #### § 4. InnoWATOR-garantiefaciliteit
 
-#### Artikel 9.2
+##### Artikel 9.2
 
 Vervallen
 
-#### Artikel 9.3
+##### Artikel 9.3
 
 Vervallen
 
-#### Artikel 9.4
+##### Artikel 9.4
 
 Vervallen
 
-#### Artikel 9.5
+##### Artikel 9.5
 
 Vervallen
 
-#### Artikel 9.6
+##### Artikel 9.6
 
 Vervallen
 
-#### Artikel 9.7
+##### Artikel 9.7
 
 Vervallen
 
 #### § 3. Point One R&D-projecten
 
-#### Artikel 9.8
+##### Artikel 9.8
 
 Vervallen
 
-#### Artikel 9.9
+##### Artikel 9.9
 
 Vervallen
 
-#### Artikel 9.10
+##### Artikel 9.10
 
 Vervallen
 
-#### Artikel 9.11
+##### Artikel 9.11
 
 Vervallen
 
-#### Artikel 9.12
+##### Artikel 9.12
 
 Vervallen
 
-#### Artikel 9.13
+##### Artikel 9.13
 
 Vervallen
 
-#### Artikel 9.14
+##### Artikel 9.14
 
 Vervallen
 
-#### Artikel 9.15
+##### Artikel 9.15
 
 Vervallen
 
-#### Artikel 9.16
+##### Artikel 9.16
 
 Vervallen
 
 #### § 2. HTAS-doorbraakprojecten
 
-#### Artikel 9.17
+##### Artikel 9.17
 
 Vervallen
 
-#### Artikel 9.18
+##### Artikel 9.18
 
 Vervallen
 
-#### Artikel 9.19
+##### Artikel 9.19
 
 Vervallen
 
-#### Artikel 9.20
+##### Artikel 9.20
 
 Vervallen
 
-#### Artikel 9.21
+##### Artikel 9.21
 
 Vervallen
 
-#### Artikel 9.22
+##### Artikel 9.22
 
 Vervallen
 
-#### Artikel 9.23
+##### Artikel 9.23
 
 Vervallen
 
-#### Artikel 9.24
+##### Artikel 9.24
 
 Vervallen
 
@@ -684,79 +710,79 @@ Vervallen
 
 #### § 3. HTAS-internationale innovatieprojecten
 
-#### Artikel 10.1
+##### Artikel 10.1
 
 Vervallen
 
 #### § 3. Point One R&D-projecten
 
-#### Artikel 10.2
+##### Artikel 10.2
 
 Vervallen
 
-#### Artikel 10.3
+##### Artikel 10.3
 
 Vervallen
 
-#### Artikel 10.4
+##### Artikel 10.4
 
 Vervallen
 
-#### Artikel 10.5
+##### Artikel 10.5
 
 Vervallen
 
-#### Artikel 10.6
+##### Artikel 10.6
 
 Vervallen
 
-#### Artikel 10.7
+##### Artikel 10.7
 
 Vervallen
 
 #### § 3. Polymeren MKB-innovatieprojecten
 
-#### Artikel 10.8
+##### Artikel 10.8
 
 Vervallen
 
-#### Artikel 10.9
+##### Artikel 10.9
 
 Vervallen
 
-#### Artikel 10.10
+##### Artikel 10.10
 
 Vervallen
 
-#### Artikel 10.11
+##### Artikel 10.11
 
 Vervallen
 
-#### Artikel 10.12
+##### Artikel 10.12
 
 Vervallen
 
-#### Artikel 10.13
+##### Artikel 10.13
 
 Vervallen
 
-#### Artikel 10.14
+##### Artikel 10.14
 
 Vervallen
 
 ### Hoofdstuk 9. Point-One
 
-#### Artikel 11.1
+##### Artikel 11.1
 
 Vervallen
 
 ### Hoofdstuk 7. InnoWATOR
 
-#### Artikel 12.1
+##### Artikel 12.1
 
 Vervallen
 
-#### Artikel 12.2
+##### Artikel 12.2
 
 Vervallen
 
@@ -1060,31 +1086,31 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 #### § 4. Polymeren innovatieprojecten
 
-#### Artikel 10.15
+##### Artikel 10.15
 
 Vervallen
 
-#### Artikel 10.16
+##### Artikel 10.16
 
 Vervallen
 
-#### Artikel 10.17
+##### Artikel 10.17
 
 Vervallen
 
-#### Artikel 10.18
+##### Artikel 10.18
 
 Vervallen
 
-#### Artikel 10.19
+##### Artikel 10.19
 
 Vervallen
 
-#### Artikel 10.20
+##### Artikel 10.20
 
 Vervallen
 
-#### Artikel 10.21
+##### Artikel 10.21
 
 Vervallen
 
@@ -1302,7 +1328,7 @@ Ligt ter inzage bij SenterNovem te Den Haag.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=1.1&z=2009-03-01&g=2009-03-01), [11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.1&z=2009-03-01&g=2009-03-01), [11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.2&z=2009-03-01&g=2009-03-01) en [11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.3&z=2009-03-01&g=2009-03-01), die ter inzage worden gelegd bij SenterNovem, Juliana van Stolberglaan 3, Den Haag.
 
-#### Artikel 7.11a
+##### Artikel 7.11a
 
 Vervallen
 
@@ -1506,103 +1532,103 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 #### § 4. Polymeren innovatieprojecten
 
-#### Artikel 10a.1
+##### Artikel 10a.1
 
 Vervallen
 
 #### § 2. HighTech Topprojecten
 
-#### Artikel 10a.2
+##### Artikel 10a.2
 
 Vervallen
 
-#### Artikel 10a.3
+##### Artikel 10a.3
 
 Vervallen
 
-#### Artikel 10a.4
+##### Artikel 10a.4
 
 Vervallen
 
-#### Artikel 10a.5
+##### Artikel 10a.5
 
 Vervallen
 
-#### Artikel 10a.6
+##### Artikel 10a.6
 
 Vervallen
 
-#### Artikel 10a.7
+##### Artikel 10a.7
 
 Vervallen
 
-#### Artikel 10a.8
+##### Artikel 10a.8
 
 Vervallen
 
-#### Artikel 10a.9
+##### Artikel 10a.9
 
 Vervallen
 
-#### Artikel 10a.10
+##### Artikel 10a.10
 
 Vervallen
 
-#### Artikel 10a.11
+##### Artikel 10a.11
 
 Vervallen
 
 ### Hoofdstuk 10b. Kenniswerkers
 
-#### Artikel 10b.1
+##### Artikel 10b.1
 
 Vervallen
 
-#### Artikel 10b.2
+##### Artikel 10b.2
 
 Vervallen
 
-#### Artikel 10b.3
+##### Artikel 10b.3
 
 Vervallen
 
-#### Artikel 10b.4
+##### Artikel 10b.4
 
 Vervallen
 
-#### Artikel 10b.5
+##### Artikel 10b.5
 
 Vervallen
 
-#### Artikel 10b.6
+##### Artikel 10b.6
 
 Vervallen
 
-#### Artikel 10b.7
+##### Artikel 10b.7
 
 Vervallen
 
-#### Artikel 10b.8
+##### Artikel 10b.8
 
 Vervallen
 
-#### Artikel 10b.9
+##### Artikel 10b.9
 
 Vervallen
 
-#### Artikel 10b.10
+##### Artikel 10b.10
 
 Vervallen
 
-#### Artikel 10b.11
+##### Artikel 10b.11
 
 Vervallen
 
-#### Artikel 10b.12
+##### Artikel 10b.12
 
 Vervallen
 
-#### Artikel 10b.13
+##### Artikel 10b.13
 
 Vervallen
 
@@ -1827,39 +1853,39 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=1.1&z=2009-06-19&g=2009-06-19), [11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.1&z=2009-06-19&g=2009-06-19), [11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.2&z=2009-06-19&g=2009-06-19) en [11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.3&z=2009-06-19&g=2009-06-19), die ter inzage worden gelegd bij SenterNovem, Juliana van Stolberglaan 3, Den Haag.
 
-#### Artikel 4.20
+##### Artikel 4.20
 
 Vervallen
 
-#### Artikel 4.21
+##### Artikel 4.21
 
 Vervallen
 
-#### Artikel 4.22
+##### Artikel 4.22
 
 Vervallen
 
-#### Artikel 4.23
+##### Artikel 4.23
 
 Vervallen
 
-#### Artikel 4.24
+##### Artikel 4.24
 
 Vervallen
 
-#### Artikel 4.25
+##### Artikel 4.25
 
 Vervallen
 
-#### Artikel 4.26
+##### Artikel 4.26
 
 Vervallen
 
-#### Artikel 4.27
+##### Artikel 4.27
 
 Vervallen
 
-#### Artikel 4.28
+##### Artikel 4.28
 
 Vervallen
 
@@ -2025,51 +2051,51 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=1.1&z=2009-07-01&g=2009-07-01), [11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.1&z=2009-07-01&g=2009-07-01), [11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.2&z=2009-07-01&g=2009-07-01) en [11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.3&z=2009-07-01&g=2009-07-01), die ter inzage worden gelegd bij SenterNovem, Juliana van Stolberglaan 3, Den Haag.
 
-#### Artikel 9.2a
+##### Artikel 9.2a
 
 Vervallen
 
-#### Artikel 9.8a
+##### Artikel 9.8a
 
 Vervallen
 
-#### Artikel 9.17a
+##### Artikel 9.17a
 
 Vervallen
 
-#### Artikel 9.25
+##### Artikel 9.25
 
 Vervallen
 
-#### Artikel 9.26
+##### Artikel 9.26
 
 Vervallen
 
-#### Artikel 9.27
+##### Artikel 9.27
 
 Vervallen
 
-#### Artikel 9.28
+##### Artikel 9.28
 
 Vervallen
 
-#### Artikel 9.29
+##### Artikel 9.29
 
 Vervallen
 
-#### Artikel 9.30
+##### Artikel 9.30
 
 Vervallen
 
-#### Artikel 9.31
+##### Artikel 9.31
 
 Vervallen
 
-#### Artikel 9.32
+##### Artikel 9.32
 
 Vervallen
 
-#### Artikel 9.33
+##### Artikel 9.33
 
 Vervallen
 
@@ -2317,39 +2343,39 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=1.1&z=2009-09-01&g=2009-09-01), [11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.1&z=2009-09-01&g=2009-09-01), [11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.2&z=2009-09-01&g=2009-09-01) en [11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.3&z=2009-09-01&g=2009-09-01), die ter inzage worden gelegd bij SenterNovem, Juliana van Stolberglaan 3, Den Haag.
 
-#### Artikel 7.20
+##### Artikel 7.20
 
 Vervallen
 
-#### Artikel 7.21
+##### Artikel 7.21
 
 Vervallen
 
-#### Artikel 7.22
+##### Artikel 7.22
 
 Vervallen
 
-#### Artikel 7.23
+##### Artikel 7.23
 
 Vervallen
 
-#### Artikel 7.24
+##### Artikel 7.24
 
 Vervallen
 
-#### Artikel 7.25
+##### Artikel 7.25
 
 Vervallen
 
-#### Artikel 7.26
+##### Artikel 7.26
 
 Vervallen
 
-#### Artikel 7.27
+##### Artikel 7.27
 
 Vervallen
 
-#### Artikel 7.28
+##### Artikel 7.28
 
 Vervallen
 
@@ -2547,43 +2573,43 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 #### § 3. Subsidie aan internationale MKB-samenwerkingsverbanden
 
-#### Artikel 6.18
+##### Artikel 6.18
 
 Vervallen
 
-#### Artikel 6.19
+##### Artikel 6.19
 
 Vervallen
 
-#### Artikel 6.20
+##### Artikel 6.20
 
 Vervallen
 
-#### Artikel 6.21
+##### Artikel 6.21
 
 Vervallen
 
-#### Artikel 6.22
+##### Artikel 6.22
 
 Vervallen
 
-#### Artikel 6.23
+##### Artikel 6.23
 
 Vervallen
 
-#### Artikel 6.24
+##### Artikel 6.24
 
 Vervallen
 
-#### Artikel 6.25
+##### Artikel 6.25
 
 Vervallen
 
-#### Artikel 6.26
+##### Artikel 6.26
 
 Vervallen
 
-#### Artikel 6.27
+##### Artikel 6.27
 
 Vervallen
 
@@ -2613,153 +2639,153 @@ Vervallen
 
 ### Hoofdstuk 10c. Civiele vliegtuigontwikkeling
 
-#### Artikel 10c.1
+##### Artikel 10c.1
 
 Vervallen
 
-#### Artikel 10c.2
+##### Artikel 10c.2
 
 Vervallen
 
-#### Artikel 10c.3
+##### Artikel 10c.3
 
 Vervallen
 
-#### Artikel 10c.4
+##### Artikel 10c.4
 
 Vervallen
 
-#### Artikel 10c.5
+##### Artikel 10c.5
 
 Vervallen
 
-#### Artikel 10c.6
+##### Artikel 10c.6
 
 Vervallen
 
-#### Artikel 10c.7
+##### Artikel 10c.7
 
 Vervallen
 
-#### Artikel 10c.8
+##### Artikel 10c.8
 
 Vervallen
 
 ### Hoofdstuk 10c. Civiele vliegtuigontwikkeling
 
-#### Artikel 10d.1
+##### Artikel 10d.1
 
 Vervallen
 
-#### Artikel 10d.2
+##### Artikel 10d.2
 
 Vervallen
 
-#### Artikel 10d.3
+##### Artikel 10d.3
 
 Vervallen
 
-#### Artikel 10d.4
+##### Artikel 10d.4
 
 Vervallen
 
-#### Artikel 10d.5
+##### Artikel 10d.5
 
 Vervallen
 
-#### Artikel 10d.6
+##### Artikel 10d.6
 
 Vervallen
 
-#### Artikel 10d.7
+##### Artikel 10d.7
 
 Vervallen
 
-#### Artikel 10d.8
+##### Artikel 10d.8
 
 Vervallen
 
-#### Artikel 10d.9
+##### Artikel 10d.9
 
 Vervallen
 
-#### Artikel 10d.10
+##### Artikel 10d.10
 
 Vervallen
 
-#### Artikel 10d.11
+##### Artikel 10d.11
 
 Vervallen
 
 ### Hoofdstuk 10e. Innovatieve zeescheepsbouw
 
-#### Artikel 10e.1
+##### Artikel 10e.1
 
 Vervallen
 
-#### Artikel 10e.2
+##### Artikel 10e.2
 
 Vervallen
 
-#### Artikel 10e.3
+##### Artikel 10e.3
 
 Vervallen
 
-#### Artikel 10e.4
+##### Artikel 10e.4
 
 Vervallen
 
-#### Artikel 10e.5
+##### Artikel 10e.5
 
 Vervallen
 
-#### Artikel 10e.6
+##### Artikel 10e.6
 
 Vervallen
 
-#### Artikel 10e.7
+##### Artikel 10e.7
 
 Vervallen
 
-#### Artikel 10e.8
+##### Artikel 10e.8
 
 Vervallen
 
-#### Artikel 10e.9
+##### Artikel 10e.9
 
 Vervallen
 
-#### Artikel 10e.10
+##### Artikel 10e.10
 
 Vervallen
 
-#### Artikel 10e.11
+##### Artikel 10e.11
 
 Vervallen
 
 ### Hoofdstuk 10f. Prekwalificatie ESA-programma’s
 
-#### Artikel 10f.1
+##### Artikel 10f.1
 
 Vervallen
 
-#### Artikel 10f.2
+##### Artikel 10f.2
 
 Vervallen
 
-#### Artikel 10f.3
+##### Artikel 10f.3
 
 Vervallen
 
-#### Artikel 10f.4
+##### Artikel 10f.4
 
 Vervallen
 
-#### Artikel 10f.5
+##### Artikel 10f.5
 
 Vervallen
 
-#### Artikel 10f.6
+##### Artikel 10f.6
 
 Vervallen
 
@@ -3227,39 +3253,39 @@ U dient in het kort verslag uit te brengen over het al dan niet bereikt hebben v
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=1.1&z=2010-01-01&g=2010-01-01), [11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.1&z=2010-01-01&g=2010-01-01), [11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.2&z=2010-01-01&g=2010-01-01) en [11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.3&z=2010-01-01&g=2010-01-01), die ter inzage worden gelegd bij SenterNovem, Juliana van Stolberglaan 3, Den Haag.
 
-#### Artikel 10g.1
+##### Artikel 10g.1
 
 Vervallen
 
-#### Artikel 10g.2
+##### Artikel 10g.2
 
 Vervallen
 
-#### Artikel 10g.3
+##### Artikel 10g.3
 
 Vervallen
 
-#### Artikel 10g.4
+##### Artikel 10g.4
 
 Vervallen
 
-#### Artikel 10g.5
+##### Artikel 10g.5
 
 Vervallen
 
-#### Artikel 10g.6
+##### Artikel 10g.6
 
 Vervallen
 
-#### Artikel 10g.7
+##### Artikel 10g.7
 
 Vervallen
 
-#### Artikel 10g.8
+##### Artikel 10g.8
 
 Vervallen
 
-#### Artikel 10g.9
+##### Artikel 10g.9
 
 Vervallen
 
@@ -3610,43 +3636,43 @@ Het verzoek tot vaststelling van deze subsidie dient door een daartoe bevoegde b
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=1.1&z=2012-07-18&g=2012-07-18), [11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.1&z=2012-07-18&g=2012-07-18), [11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.2&z=2012-07-18&g=2012-07-18) en [11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.3&z=2012-07-18&g=2012-07-18), die ter inzage worden gelegd bij SenterNovem, Juliana van Stolberglaan 3, Den Haag.
 
-#### Artikel 10h.1
+##### Artikel 10h.1
 
 Vervallen
 
-#### Artikel 10h.2
+##### Artikel 10h.2
 
 Vervallen
 
-#### Artikel 10h.3
+##### Artikel 10h.3
 
 Vervallen
 
-#### Artikel 10h.4
+##### Artikel 10h.4
 
 Vervallen
 
-#### Artikel 10h.5
+##### Artikel 10h.5
 
 Vervallen
 
-#### Artikel 10h.6
+##### Artikel 10h.6
 
 Vervallen
 
-#### Artikel 10h.7
+##### Artikel 10h.7
 
 Vervallen
 
-#### Artikel 10h.8
+##### Artikel 10h.8
 
 Vervallen
 
-#### Artikel 10h.9
+##### Artikel 10h.9
 
 Vervallen
 
-#### Artikel 10h.10
+##### Artikel 10h.10
 
 Vervallen
 
@@ -3877,7 +3903,7 @@ De controle kan worden uitgevoerd door een accountant als bedoeld in [artikel 39
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=1.1&z=2010-04-15&g=2010-04-15), [11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.1&z=2010-04-15&g=2010-04-15), [11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.2&z=2010-04-15&g=2010-04-15) en [11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.3&z=2010-04-15&g=2010-04-15), die ter inzage worden gelegd bij SenterNovem, Juliana van Stolberglaan 3, Den Haag.
 
-#### Artikel 8.7a
+##### Artikel 8.7a
 
 Vervallen
 
@@ -3885,27 +3911,27 @@ Vervallen
 
 #### § 1. Begripsbepalingen Point-One
 
-#### Artikel 9.1a
+##### Artikel 9.1a
 
 Vervallen
 
-#### Artikel 9.1b
+##### Artikel 9.1b
 
 Vervallen
 
-#### Artikel 9.1c
+##### Artikel 9.1c
 
 Vervallen
 
-#### Artikel 9.1d
+##### Artikel 9.1d
 
 Vervallen
 
-#### Artikel 9.1e
+##### Artikel 9.1e
 
 Vervallen
 
-#### Artikel 9.1f
+##### Artikel 9.1f
 
 Vervallen
 
@@ -4168,7 +4194,7 @@ Er zijn verder 3 innovatieprogramma’s met thema’s die niet gepubliceerd zijn
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=1.1&z=2010-09-04&g=2010-09-04), [11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.1&z=2010-09-04&g=2010-09-04), [11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.2&z=2010-09-04&g=2010-09-04) en [11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.3&z=2010-09-04&g=2010-09-04), die ter inzage worden gelegd bij SenterNovem, Juliana van Stolberglaan 3, Den Haag.
 
-#### Artikel 1.6
+##### Artikel 1.6
 
 Vervallen
 
@@ -4428,51 +4454,51 @@ Een tweede belangrijke doelstelling is dat de projecten een bijdrage leveren aan
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=1.1&z=2012-09-01&g=2012-09-01), [11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.1&z=2012-09-01&g=2012-09-01), [11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.2&z=2012-09-01&g=2012-09-01) en [11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.3&z=2012-09-01&g=2012-09-01), die ter inzage worden gelegd bij SenterNovem, Juliana van Stolberglaan 3, Den Haag.
 
-#### Artikel 1a.1. (definities)
+##### Artikel 1a.1. (definities)
 
 Vervallen
 
-#### Artikel 1a.2. (TKI-toeslag)
+##### Artikel 1a.2. (TKI-toeslag)
 
 Vervallen
 
-#### Artikel 1a.3. (grondslag programmatoeslag)
+##### Artikel 1a.3. (grondslag programmatoeslag)
 
 Vervallen
 
-#### Artikel 1a.4. (opgave gerealiseerde private bijdragen)
+##### Artikel 1a.4. (opgave gerealiseerde private bijdragen)
 
 Vervallen
 
-#### Artikel 1a.5. (toewijzingsgronden TKI-toeslag)
+##### Artikel 1a.5. (toewijzingsgronden TKI-toeslag)
 
 Vervallen
 
-#### Artikel 1a.6. (aanwenden TKI-toeslag)
+##### Artikel 1a.6. (aanwenden TKI-toeslag)
 
 Vervallen
 
-#### Artikel 1a.7. (financieringsverhouding)
+##### Artikel 1a.7. (financieringsverhouding)
 
 Vervallen
 
-#### Artikel 1a.8. (duur aanwending TKI-toeslag)
+##### Artikel 1a.8. (duur aanwending TKI-toeslag)
 
 Vervallen
 
-#### Artikel 1a.9. (administratie)
+##### Artikel 1a.9. (administratie)
 
 Vervallen
 
-#### Artikel 1a.10. (rapportage en transparantie)
+##### Artikel 1a.10. (rapportage en transparantie)
 
 Vervallen
 
-#### Artikel 1a.11. (formulieren)
+##### Artikel 1a.11. (formulieren)
 
 Vervallen
 
-#### Artikel 1a.12. (vervaltermijn)
+##### Artikel 1a.12. (vervaltermijn)
 
 Vervallen
 
@@ -4702,7 +4728,7 @@ De controle kan worden uitgevoerd door een accountant als bedoeld in [artikel 39
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=1.1&z=2013-11-06&g=2013-11-06), [11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.1&z=2013-11-06&g=2013-11-06), [11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.2&z=2013-11-06&g=2013-11-06) en [11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.3&z=2013-11-06&g=2013-11-06), die ter inzage worden gelegd bij SenterNovem, Juliana van Stolberglaan 3, Den Haag.
 
-#### Artikel 10e.1a
+##### Artikel 10e.1a
 
 Vervallen
 
@@ -4738,185 +4764,185 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1b.1
+##### Artikel 1b.1
 
 Vervallen
 
-#### Artikel 1b.2
+##### Artikel 1b.2
 
 Vervallen
 
-#### Artikel 1b.3
+##### Artikel 1b.3
 
 Vervallen
 
 #### § 2. Netwerkactiviteiten
 
-#### Artikel 1b.4
+##### Artikel 1b.4
 
 Vervallen
 
-#### Artikel 1b.5
+##### Artikel 1b.5
 
 Vervallen
 
-#### Artikel 1b.6
+##### Artikel 1b.6
 
 Vervallen
 
 #### § 3. Ondersteuning door innovatiemakelaars
 
-#### Artikel 1b.7
+##### Artikel 1b.7
 
 Vervallen
 
-#### Artikel 1b.8
+##### Artikel 1b.8
 
 Vervallen
 
-#### Artikel 1b.9
+##### Artikel 1b.9
 
 Vervallen
 
-#### Artikel 1b.10
+##### Artikel 1b.10
 
 Vervallen
 
 #### § 4. Slotbepalingen
 
-#### Artikel 1b.11
+##### Artikel 1b.11
 
 Vervallen
 
-#### Artikel 1b.12
+##### Artikel 1b.12
 
 Vervallen
 
-#### Artikel 1b.13
+##### Artikel 1b.13
 
 Vervallen
 
 ### Hoofdstuk 1c. MKB innovatiestimulering topsectoren
 
-#### Artikel 1c.1
+##### Artikel 1c.1
 
 Vervallen
 
-#### Artikel 1c.2
+##### Artikel 1c.2
 
 Vervallen
 
-#### Artikel 1c.3
+##### Artikel 1c.3
 
 Vervallen
 
 #### § 2. MIT-haalbaarheidsstudies
 
-#### Artikel 1c.4
+##### Artikel 1c.4
 
 Vervallen
 
-#### Artikel 1c.5
+##### Artikel 1c.5
 
 Vervallen
 
-#### Artikel 1c.6
+##### Artikel 1c.6
 
 Vervallen
 
-#### Artikel 1c.7
+##### Artikel 1c.7
 
 Vervallen
 
-#### Artikel 1c.8
+##### Artikel 1c.8
 
 Vervallen
 
-#### Artikel 1c.9
+##### Artikel 1c.9
 
 Vervallen
 
-#### Artikel 1c.10
+##### Artikel 1c.10
 
 Vervallen
 
-#### Artikel 1c.11
+##### Artikel 1c.11
 
 Vervallen
 
-#### Artikel 1c.12
+##### Artikel 1c.12
 
 Vervallen
 
-#### Artikel 1c.13
+##### Artikel 1c.13
 
 Vervallen
 
 #### § 3.2. Verstrekking van subsidie aan kennisinstellingen
 
-#### Artikel 1c.14
+##### Artikel 1c.14
 
 Vervallen
 
-#### Artikel 1c.15
+##### Artikel 1c.15
 
 Vervallen
 
-#### Artikel 1c.16
+##### Artikel 1c.16
 
 Vervallen
 
-#### Artikel 1c.17
+##### Artikel 1c.17
 
 Vervallen
 
-#### Artikel 1c.18
+##### Artikel 1c.18
 
 Vervallen
 
-#### Artikel 1c.19
+##### Artikel 1c.19
 
 Vervallen
 
-#### Artikel 1c.20
+##### Artikel 1c.20
 
 Vervallen
 
 #### § 5. MIT-R&D-samenwerkingsprojecten
 
-#### Artikel 1c.21
+##### Artikel 1c.21
 
 Vervallen
 
-#### Artikel 1c.22
+##### Artikel 1c.22
 
 Vervallen
 
-#### Artikel 1c.23
+##### Artikel 1c.23
 
 Vervallen
 
-#### Artikel 1c.24
+##### Artikel 1c.24
 
 Vervallen
 
-#### Artikel 1c.25
+##### Artikel 1c.25
 
 Vervallen
 
-#### Artikel 1c.26
+##### Artikel 1c.26
 
 Vervallen
 
-#### Artikel 1c.27
+##### Artikel 1c.27
 
 Vervallen
 
-#### Artikel 1c.28
+##### Artikel 1c.28
 
 Vervallen
 
-#### Artikel 1c.29
+##### Artikel 1c.29
 
 Vervallen
 
@@ -5106,7 +5132,7 @@ Ligt ter inzage bij SenterNovem te Den Haag.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=1.1&z=2013-09-05&g=2013-09-05), [11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.1&z=2013-09-05&g=2013-09-05), [11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.2&z=2013-09-05&g=2013-09-05) en [11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&bijlage=11.3&z=2013-09-05&g=2013-09-05), die ter inzage worden gelegd bij SenterNovem, Juliana van Stolberglaan 3, Den Haag.
 
-#### Artikel 1a.4a. (projecttoeslag)
+##### Artikel 1a.4a. (projecttoeslag)
 
 1. De hoogte van de projecttoeslag bedraagt 25% van de som van de private bijdragen die in totaal voor het desbetreffende samenwerkingsproject aan onderzoeksorganisaties verschuldigd zullen worden.
 
@@ -5118,7 +5144,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 5. Op grond van dit artikel voor projecttoeslag in aanmerking genomen private bijdragen en inzet in natura worden niet in aanmerking genomen voor bepaling van de hoogte van de programmatoeslag.
 
-#### Artikel 1a.4b. (algemeen nut beogende instellingen)
+##### Artikel 1a.4b. (algemeen nut beogende instellingen)
 
 In afwijking van de [artikelen 1a.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=1a&artikel=1a.3&z=2014-03-13&g=2014-03-13), en [1a.4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=1a&artikel=1a.4a&z=2014-03-13&g=2014-03-13), worden private bijdragen afkomstig van instellingen als bedoeld in [artikel 5b, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b), die deelnemen aan samenwerkingsprojecten die passen binnen een programma als bedoeld in [artikel 1b.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024881&hoofdstuk=1b&paragraaf=1&artikel=1b.2&z=2014-03-13&g=2014-03-13), tot ten hoogste € 8.000.000 per programma, per jaar in aanmerking genomen. Indien de in een bepaalde openstellingsperiode ingediende aanvragen dit bedrag voor een bepaald programma overschrijden, worden de in de desbetreffende aanvragen opgenomen bedragen op volgorde van binnenkomst in aanmerking genomen.
 
@@ -5230,7 +5256,7 @@ Ligt ter inzage bij het Ministerie van Economische Zaken.
 
 ## Bijlage 11.5
 
-#### Artikel 1c.25a
+##### Artikel 1c.25a
 
 Vervallen
 

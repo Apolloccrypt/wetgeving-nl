@@ -1,13 +1,35 @@
 ---
-title: "Besluit houdende opheffing van 4 regimenten infanterie"
+title: "Besluit van 29 juli 1994, tot opheffing van 4 regimenten infanterie"
 identifier: "BWBR0006848"
-categorie: "Belastingrecht"
-publicatiedatum: 1994-10-01
-laatste_update: 1994-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006848"
+country: "nl"
+rank: "kb"
+publication_date: "1994-10-01"
+last_updated: "1994-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006848"
+soort: "KB"
+stam_id: "577253"
+version_id: "838312"
+internal_id: "C838311"
+label_id: "560124"
+dtd_version: "2.0"
+original_entry_into_force: "1994-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006848/1994-10-01/0"
+intitule_bron: "Stb.1994-618"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-07-29"
+intitule_status: "goed"
+original_publication: "Stb.1994-618"
+original_signed_date: "1994-07-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1994-10-01"
+jci_1_3: "jci1.3:c:BWBR0006848&z=1994-10-01&g=1994-10-01"
+jci_1_0: "1.0:c:BWBR0006848&g=1994-10-01"
+citeertitel_status: "officieel"
+short_title: "Besluit houdende opheffing van 4 regimenten infanterie"
+signed_date: "1994-07-29"
+entry_into_force: "1994-10-01"
 ---
-
 # Besluit van 29 juli 1994, tot opheffing van 4 regimenten infanterie
 
 Op de voordracht van Onze Minister van Defensie van 21 juli 1994, nr. KAB/8551, Bevelhebber der Landstrijdkrachten;
@@ -18,7 +40,7 @@ Gelet op het gestelde in het Koninklijk Besluit van 12 maart 1977, nummer 101, l
 
 Hebben goedgevonden en verstaan:
 
-#### Enig artikel
+##### Enig artikel
 
 1. De Regimenten Infanterie Johan Willem Friso, Menno van Coehoorn, Oranje Gelderland en Chassé worden opgeheven, de traditie wordt niet overgenomen noch bewaard, de vaandels zullen worden ingenomen.
 

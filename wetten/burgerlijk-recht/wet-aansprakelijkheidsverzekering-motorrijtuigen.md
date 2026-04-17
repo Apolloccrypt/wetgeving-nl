@@ -1,14 +1,41 @@
 ---
-title: "Wet aansprakelijkheidsverzekering motorrijtuigen"
+title: "Wet van 30 mei 1963, betreffende verplichte verzekering tegen wettelijke aansprakelijkheid inzake motorrijtuigen"
 identifier: "BWBR0002415"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2025-07-24
-laatste_update: 2025-07-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002415"
+country: "nl"
+rank: "wet"
+publication_date: "2025-07-24"
+last_updated: "2025-07-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002415"
+soort: "wet"
+stam_id: "1827063"
+version_id: "8628142"
+internal_id: "C11171511"
+label_id: "1782334"
+dtd_version: "2.0"
+original_entry_into_force: "2003-07-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002415/2025-07-24/0"
+intitule_bron: "Stb.1963-228"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1963-05-30"
+intitule_published: "1963-05-30"
+intitule_status: "goed"
+original_publication: "Stb.2003-275"
+original_signed_date: "2003-07-03"
+original_published_date: "2003-07-10"
+original_effect: "structuurwijziging"
+original_dossier: "28636"
+original_url_id: "stb-2003-275"
+entry_into_force_date: "2003-07-03"
+entry_into_force_dossier: "28636"
+jci_1_3: "jci1.3:c:BWBR0002415&z=2025-07-24&g=2025-07-24"
+jci_1_0: "1.0:c:BWBR0002415&g=2025-07-24"
+citeertitel_status: "officieel"
+short_title: "Wet aansprakelijkheidsverzekering motorrijtuigen"
+signed_date: "2003-07-03"
+entry_into_force: "2003-07-03"
 ---
-
-# Wet aansprakelijkheidsverzekering motorrijtuigen
+# Wet van 30 mei 1963, betreffende verplichte verzekering tegen wettelijke aansprakelijkheid inzake motorrijtuigen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze wet worden verstaan onder
 
@@ -58,7 +85,7 @@ lidstaat van herkomst: lidstaat van herkomst als bedoeld in artikel 13, onderdee
 
 richtlijn: [Richtlijn 2009/103/EG](32009L0103) van het Europees Parlement en de Raad van 16 september 2009 betreffende de verzekering tegen de wettelijke aansprakelijkheid waartoe de deelneming aan het verkeer van motorrijtuigen aanleiding kan geven en de controle op de verzekering tegen deze aansprakelijkheid (PbEU 2009, L 263), zoals gewijzigd.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De bezitter van een motorrijtuig en degene op wiens naam dit in het kentekenregister is ingeschreven, zijn verplicht voor het motorrijtuig een verzekering te sluiten en in stand te houden welke aan de bij en krachtens deze wet gestelde bepalingen voldoet, indien dat motorrijtuig op een weg wordt geplaatst of daarmee op een weg wordt gereden, indien buiten een weg met dat motorrijtuig aan het verkeer wordt deelgenomen of indien dat motorrijtuig in het kentekenregister is ingeschreven en tenaamgesteld.
 
@@ -98,7 +125,7 @@ Voor de toepassing van deze wet worden geacht gewoonlijk in het buitenland te zi
 
 9. De schadeverzekeraars die ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland hun bedrijf in de branche Aansprakelijkheid motorrijtuigen mogen uitoefenen, betalen jaarlijks aan het bureau, bedoeld in het zesde lid, de door het bureau te bepalen bijdragen, berekend op basis van de in Nederland geboekte premie of het aantal en de aard van de door ieder van hen in Nederland verzekerde motorrijtuigen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De verzekering moet tegen betaling van één enkele premie, gedurende de gehele looptijd van de verzekering, met inbegrip van de perioden waarin het motorrijtuig zich op het grondgebied van een andere lidstaat bevindt, dekken de burgerrechtelijke aansprakelijkheid, waartoe het motorrijtuig in het verkeer aanleiding kan geven, van iedere bezitter, houder en bestuurder van het verzekerde motorrijtuig, alsmede van degenen die daarmede worden vervoerd, zulks met uitzondering van de burgerrechtelijke aansprakelijkheid van hen die zich na het sluiten van de verzekering door diefstal of geweldpleging de macht over het motorrijtuig hebben verschaft en van hen die, dit wetende, dat motorrijtuig zonder geldige reden gebruiken.
 
@@ -112,7 +139,7 @@ Voor de toepassing van deze wet worden geacht gewoonlijk in het buitenland te zi
 
 6. De verzekering moet de burgerrechtelijke aansprakelijkheid voor de door het motorrijtuig veroorzaakte schade dekken zoals die aansprakelijkheid voortvloeit uit de toepasselijke wet.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Indien het een motorrijtuig betreft waarvan het maximaal toelaatbare gewicht hoger is dan 3500 kilogram, dient de verzekering voorts te dekken de aansprakelijkheid van de exploitant waartoe een gevaarlijke stof, aan boord van dat motorrijtuig, aanleiding kan geven en die is gebaseerd op de [eerste afdeling van de veertiende titel van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=1).
 
@@ -124,7 +151,7 @@ Voor de toepassing van deze wet worden geacht gewoonlijk in het buitenland te zi
 
 5. De dekking moet zich uitstrekken tot de aansprakelijkheid voor de schade, bedoeld in [artikel 1210, onderdeel **b**, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1210), veroorzaakt door de gevaarlijke stof aan boord van het in het eerste lid bedoelde motorrijtuig, zoals die aansprakelijkheid voortvloeit uit de toepasselijke wet.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De verzekering behoeft niet te dekken de aansprakelijkheid voor schade toegebracht aan de bestuurder van het motorrijtuig dat het ongeval veroorzaakt.
 
@@ -132,27 +159,27 @@ Voor de toepassing van deze wet worden geacht gewoonlijk in het buitenland te zi
 
 3. Van de verzekering kan worden uitgesloten de schade die voortvloeit uit het deelnemen van het motorrijtuig aan snelheids-, regelmatigheids- of behendigheidsritten en -wedstrijden, die plaatsvinden in een beperkt en afgebakend gebied en waarvoor de in [artikel 148 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=148) bedoelde ontheffing is verleend.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien de overeenkomst een beding inhoudt dat de verzekerde persoonlijk voor een deel in de vergoeding van de schade zal bijdragen, blijft de verzekeraar niettemin jegens de benadeelde gehouden tot betaling van de schadeloosstelling die krachtens de overeenkomst ten laste van de verzekerde blijft.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De benadeelde heeft jegens de verzekeraar door wie de aansprakelijkheid volgens deze wet is gedekt, een eigen recht op schadevergoeding. Dit eigen recht kan evenwel niet worden uitgeoefend indien een fonds of fondsen zijn gevormd overeenkomstig [artikel 1220 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1220). Het tenietgaan van zijn schuld aan de verzekerde bevrijdt de verzekeraar niet jegens de benadeelde, tenzij deze is schadeloos gesteld.
 
 2. Indien er bij een ongeval of een gebeurtenis meer dan een benadeelde is en het totaalbedrag van de verschuldigde schadeloosstellingen de verzekerde som overschrijdt, worden de rechten van de benadeelden tegen de verzekeraar naar evenredigheid teruggebracht tot het beloop van die som. Niettemin blijft de verzekeraar die, onbekend met het bestaan van vorderingen van andere benadeelden, te goeder trouw aan een benadeelde een groter bedrag dan het aan deze toekomende deel heeft uitgekeerd, jegens die anderen of, indien een fonds of fondsen zijn gevormd overeenkomstig [artikel 1220 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1220), jegens degene die dat fonds of die fondsen heeft gevormd slechts gehouden tot het beloop van het overblijvende gedeelte van de verzekerde som.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Voor de uitvoering van de bepalingen van deze wet kan de verzekeraar door de benadeelde worden gedagvaard, hetzij voor de rechter van de plaats van het feit, waaruit de schade is ontstaan, hetzij voor de rechter van de woonplaats van de benadeelde, hetzij voor de rechter van de zetel van de verzekeraar.
 
 2. De aansprakelijke persoon kan door de benadeelde worden gedagvaard, hetzij voor de rechter van de plaats van het feit, waaruit de schade is ontstaan, hetzij voor de rechter van de woonplaats van de benadeelde, hetzij voor de rechter van de woonplaats van de aansprakelijke persoon.
 
-#### Artikel 8
+##### Artikel 8
 
 De verzekerden moeten van ieder ongeval en iedere gebeurtenis waarvan zij kennis dragen, mededeling doen aan de verzekeraar, indien bij dat ongeval of die gebeurtenis het verzekerde motorrijtuig is betrokken en schade is ontstaan tot welker dekking door verzekering deze wet verplicht. De verzekeringnemer moet aan de verzekeraar alle door de verzekeringsovereenkomst voorgeschreven inlichtingen en bescheiden verschaffen. De overige verzekerden moeten aan de verzekeraar op zijn verzoek alle nodige inlichtingen en bescheiden verschaffen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Aan een vonnis gewezen in een geschil ter zake van door een motorrijtuig veroorzaakte schade, komt tegenover de verzekeraar, de verzekerde of de benadeelde gezag van gewijsde toe, indien zij in het geding de positie van een procespartij hebben gehad.
 
@@ -160,7 +187,7 @@ De verzekerden moeten van ieder ongeval en iedere gebeurtenis waarvan zij kennis
 
 3. De verzekeraar kan de verzekerde in het geding roepen, dat door de benadeelde tegenover hem wordt ingesteld. De oproeping dient te geschieden door middel van dagvaarding voor het nemen van de conclusie van antwoord. De in het geding geroepene heeft de positie van een procespartij.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een uit deze wet voortvloeiende rechtsvordering van de benadeelde tegen de verzekeraar verjaart door verloop van drie jaar te rekenen van het feit waaruit de schade is ontstaan.
 
@@ -172,13 +199,13 @@ De verzekerden moeten van ieder ongeval en iedere gebeurtenis waarvan zij kennis
 
 5. De verjaring wordt ten opzichte van een verzekeraar gestuit door iedere onderhandeling tussen de verzekeraar en de benadeelde. Een nieuwe termijn van drie jaar begint te lopen te rekenen van het ogenblik waarop een van de partijen bij deurwaardersexploot of aangetekende brief aan de andere partij heeft kennisgegeven dat zij de onderhandelingen afbreekt.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Geen uit de wettelijke bepalingen omtrent de verzekeringsovereenkomst of uit deze overeenkomst zelf voortvloeiende nietigheid, verweer of verval kan door een verzekeraar aan een benadeelde worden tegengeworpen. Het bepaalde in de vorige zin geldt niet met betrekking tot het bedrag, waarmede het van de verzekeraar gevorderde de krachtens [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=3&artikel=22&z=2025-07-24&g=2025-07-24) vastgestelde som of sommen overschrijdt.
 
 2. Het eerste lid is jegens de aansprakelijke persoon van overeenkomstige toepassing wanneer de verzekeraar wordt verzocht om een bedrag te voldoen in verband met de vorming van een fonds of fondsen overeenkomstig [artikel 1220 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1220).
 
-#### Artikel 12
+##### Artikel 12
 
 1. De verzekering met betrekking tot een motorrijtuig dat een kenteken behoeft, eindigt, wanneer de verplichting tot verzekering op een ander overgaat. De verzekeringnemer moet binnen acht dagen na de overgang daarvan mededeling doen aan de verzekeraar. Indien de overgang het gevolg is van het overlijden van de verzekeringnemer, rust de verplichting tot mededeling op diens erfgenamen en is de termijn, binnen welke de mededeling moet zijn verricht, dertig dagen.
 
@@ -186,7 +213,7 @@ De verzekerden moeten van ieder ongeval en iedere gebeurtenis waarvan zij kennis
 
 3. Van het bepaalde in dit artikel kan bij overeenkomst worden afgeweken.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De verzekeraar is verplicht ten aanzien van de verzekering waartoe deze wet verplicht met betrekking tot een motorrijtuig dat een kenteken behoeft aan de Dienst Wegverkeer, bedoeld in [artikel 4**a** van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4a), kennis te geven van:
 
@@ -214,7 +241,7 @@ alsmede van het einde van die schorsing.
 
 8. Voor de uitvoering van dit artikel en van [artikel 13**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=1&artikel=13&z=2025-07-24&g=2025-07-24) worden bij of krachtens algemene maatregel van bestuur nadere regels gesteld.
 
-#### Artikel 13a
+##### Artikel 13a
 
 1. Een kennisgeving als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=1&artikel=13&z=2025-07-24&g=2025-07-24), wordt mede gedaan ten aanzien van verzekeringen tot het dekken van de burgerrechtelijke aansprakelijkheid waartoe in het verkeer aanleiding wordt gegeven door motorrijtuigen die behoren tot de bedrijfsvoorraad van een natuurlijke persoon of rechtspersoon met een op grond van [artikel 4aud, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aud) verleende erkenning bedrijfsvoorraad.
 
@@ -230,7 +257,7 @@ alsmede van het einde van die schorsing.
 
 7. De dekking met betrekking tot het motorrijtuig eindigt van rechtswege doordat de mededeling aan de Dienst Wegverkeer waaruit blijkt dat het motorrijtuig de bedrijfsvoorraad verlaat door de Dienst Wegverkeer voor ontvangst wordt bevestigd. De verplichtingen van de verzekeraar jegens de benadeelde blijven echter bestaan voor ongevallen welke plaatsvinden binnen 16 dagen na de aanvang van de dag, volgende op die waarop de mededeling aan de Dienst Wegverkeer waaruit blijkt dat het motorrijtuig de bedrijfsvoorraad verlaat, door de Dienst Wegverkeer voor ontvangst is bevestigd.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De bestuurder van een motorrijtuig dat geen kenteken behoeft, alsmede de bestuurder van een motorrijtuig als bedoeld in [artikel 2, zevende lid, onder d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=1&artikel=2&z=2025-07-24&g=2025-07-24), moet, tenzij bij of krachtens algemene maatregel van bestuur anders is bepaald, bij zich hebben een bij of krachtens die maatregel voorgeschreven bewijs van verzekering. De bestuurder van een motorrijtuig die bij een ongeval of een gebeurtenis is betrokken, is verplicht, wanneer hij ingevolge het bepaalde in dit lid een document bij zich moet hebben, dit behoorlijk ter inzage te verstrekken aan degenen die eveneens bij dat ongeval of die gebeurtenis zijn betrokken.
 
@@ -240,19 +267,19 @@ alsmede van het einde van die schorsing.
 
 4. In afwijking van het tweede lid eindigen de verplichtingen van het bureau bedoeld in [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=1&artikel=2&z=2025-07-24&g=2025-07-24), door verloop van de geldigheidsduur van het, voor het motorrijtuig afgegeven, internationale verzekeringsbewijs, indien die verplichtingen uit de afgifte van dat bewijs voortvloeien.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De verzekeraar die ingevolge deze wet de schade van een benadeelde geheel of ten dele vergoedt, ofschoon de aansprakelijkheid voor die schade niet door een met hem gesloten verzekering was gedekt, heeft voor het bedrag der schadevergoeding verhaal op de aansprakelijke persoon. Het bepaalde in de vorige zin geldt niet ten aanzien van de aansprakelijke persoon, die niet is de verzekeringnemer, tenzij hij niet te goeder trouw mocht aannemen dat zijn aansprakelijkheid door een verzekering was gedekt.
 
 2. De verzekeraar kan zich bovendien voor de gevallen waarin hij volgens de wet of de verzekeringsovereenkomst gerechtigd mocht zijn de uitkering te weigeren of te verminderen, een recht van verhaal voorbehouden tegen de verzekeringnemer, en indien daartoe grond bestaat, tegen de verzekerde die niet is de verzekeringnemer.
 
-#### Artikel 16
+##### Artikel 16
 
 Van een bepaling van deze wet kan slechts worden afgeweken, indien de bevoegdheid daartoe uit de bepaling zelve blijkt.
 
 ### Hoofdstuk 2. Vrijstellingen
 
-#### Artikel 17
+##### Artikel 17
 
 1. De Staat is vrijgesteld van de verplichting tot het sluiten van een verzekering. Indien een motorrijtuig waarvoor de vrijstelling geldt, aanleiding geeft tot burgerrechtelijke aansprakelijkheid, heeft de benadeelde jegens de Staat de rechten welke hij overeenkomstig deze wet anders tegenover de verzekeraar zou hebben, terwijl de bepaling van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=1&artikel=7&z=2025-07-24&g=2025-07-24) van overeenkomstige toepassing is. In de gevallen genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=1&artikel=4&z=2025-07-24&g=2025-07-24), komt de benadeelde echter niet op grond van het bepaalde in de vorige zin voor een uitkering in aanmerking.
 
@@ -260,13 +287,13 @@ Van een bepaling van deze wet kan slechts worden afgeweken, indien de bevoegdhei
 
 3. Wij behouden Ons voor bij algemene maatregel van bestuur vrijstelling van de verplichting tot het sluiten van een verzekering te verlenen met betrekking tot bepaalde soorten van motorrijtuigen welke nauwelijks gevaar opleveren.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Van de verplichting tot het sluiten van een verzekering kunnen, op een daartoe aan Onze Minister van Financiën gedaan verzoek, worden vrijgesteld de in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=1&artikel=2&z=2025-07-24&g=2025-07-24), bedoelde personen die gemoedsbezwaren hebben tegen het sluiten van een verzekering. Rechtspersonen kunnen van de in de vorige zin bedoelde verplichting worden vrijgesteld, indien natuurlijke personen die bij die rechtspersonen betrokken zijn gemoedsbezwaren hebben tegen het sluiten van een verzekering. Bij algemene maatregel van bestuur kunnen omtrent het in de vorige zin bepaalde nadere regels worden gesteld. Het bepaalde in de tweede en derde zin van het eerste lid van het vorige artikel is, ingeval een vrijstelling is verleend, van overeenkomstige toepassing.
 
 2. Het verzoek geschiedt door indiening bij Onze Minister van Financiën van een door de verzoeker ondertekende verklaring, waarvan het model door Onze genoemde Minister wordt vastgesteld. Uit de verklaring moet blijken dat de verzoeker overwegende gemoedsbezwaren heeft tegen elke verzekering, welke ook, en dat hij mitsdien noch zichzelf noch iemand anders noch hem toebehorende goederen heeft verzekerd.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Indien de in [artikel 18 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=2&artikel=18&z=2025-07-24&g=2025-07-24) bedoelde verklaring naar het oordeel van Onze Minister van Financiën overeenkomstig de waarheid is, verleent hij de verzoeker de gevraagde vrijstelling. Ten bewijze van de vrijstelling reikt hij voor elk van de motorrijtuigen waarvan de vrijgestelde de bezitter, degene, op wiens naam deze in het kentekenregister zijn ingeschreven, dan wel de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=1&artikel=2&z=2025-07-24&g=2025-07-24), bedoelde houder is, tegen betaling een bewijs uit, dat ten hoogste een jaar geldig is. De bestuurders van deze motorrijtuigen moeten een geldig bewijs van vrijstelling bij zich hebben. Zolang de vrijstelling geldt, wordt het bewijs op verzoek van de vrijgestelde tegen betaling van jaar tot jaar vernieuwd. Het model van dit bewijs wordt vastgesteld door Onze voornoemde Minister.
 
@@ -282,23 +309,23 @@ Van een bepaling van deze wet kan slechts worden afgeweken, indien de bevoegdhei
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regelen omtrent het in de vorige leden bepaalde worden gesteld.
 
-#### Artikel 20
+##### Artikel 20
 
 Onze Minister van Financiën stelt jaarlijks het bedrag vast dat de verzoekers zijn verschuldigd voor het verkrijgen van het in het vorig artikel bedoelde bewijs.
 
-#### Artikel 21
+##### Artikel 21
 
 Onze Minister van Financiën betaalt jaarlijks de uit hoofde van het vorige artikel ontvangen bedragen aan het fonds.
 
 ### Hoofdstuk 3. Verzekerde sommen
 
-#### Artikel 22
+##### Artikel 22
 
 De som of sommen, waarvoor de in deze wet bedoelde verzekering ten minste moet zijn gesloten, worden door Ons bij algemene maatregel van bestuur bepaald.
 
 ### Hoofdstuk 4. Het Waarborgfonds Motorverkeer
 
-#### Artikel 23
+##### Artikel 23
 
 1. Onze Minister van Justitie en Onze Minister van Financiën wijzen een rechtspersoon met volledige rechtsbevoegdheid aan, die onder de naam Waarborgfonds Motorverkeer tot taak heeft in de gevallen, in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=4&artikel=25&z=2025-07-24&g=2025-07-24) genoemd, aan de benadeelden hun schade te vergoeden overeenkomstig het bepaalde in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=4&artikel=26&z=2025-07-24&g=2025-07-24). Deze rechtspersoon heeft bovendien tot taak in de gevallen, bedoeld in [artikel 26a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=4&artikel=26a&z=2025-07-24&g=2025-07-24), aan de benadeelden hun schade te vergoeden overeenkomstig het bepaalde in de [artikelen 26a tot en met 26c](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=4&artikel=26a&z=2025-07-24&g=2025-07-24).
 
@@ -314,17 +341,17 @@ De som of sommen, waarvoor de in deze wet bedoelde verzekering ten minste moet z
 
 5. Een aanwijzing en een intrekking van een aanwijzing als bedoeld in dit artikel worden in de **Staatscourant** bekend gemaakt.
 
-#### Artikel 23a
+##### Artikel 23a
 
 Het fonds kan zijn statuten niet wijzigen, tenzij de wijziging de instemming heeft van Onze Minister van Justitie en Onze Minister van Financiën. De [artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:28) zijn van overeenkomstige toepassing.
 
-#### Artikel 23b
+##### Artikel 23b
 
 1. Het fonds verstrekt aan Onze Minister van Justitie en Onze Minister van Financiën alle gevraagde inlichtingen omtrent de uitvoering van zijn taak.
 
 2. Het fonds zendt jaarlijks binnen zes maanden na afloop van het boekjaar aan Onze Minister van Justitie en Onze Minister van Financiën de balans en de staat van baten en lasten alsmede het bestuursverslag over het betrokken boekjaar. Deze stukken worden met inachtneming van de [artikelen 24, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=4&artikel=24&z=2025-07-24&g=2025-07-24), en [24b, vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=4&artikel=24b&z=2025-07-24&g=2025-07-24), opgesteld en gaan vergezeld van een verklaring omtrent de getrouwheid, afgelegd door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
-#### Artikel 24
+##### Artikel 24
 
 1. De schadeverzekeraars die ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland hun bedrijf in de branche Aansprakelijkheid motorrijtuigen mogen uitoefenen, betalen jaarlijks aan het fonds een door het fonds te bepalen bedrag, berekend op basis van het aantal en de aard van de door ieder van hen in Nederland verzekerde motorrijtuigen. Het fonds bepaalt op overeenkomstige wijze jaarlijks tevens het door de Staat aan het fonds te betalen bedrag. De bepaling bedoeld in de vorige volzinnen geschiedt uiterlijk op 30 juni van ieder jaar. De storting moet geschieden binnen een maand na het besluit tot bepaling van het verschuldigde bedrag.
 
@@ -334,13 +361,13 @@ Het fonds kan zijn statuten niet wijzigen, tenzij de wijziging de instemming hee
 
 4. Echter brengt het fonds van de krachtens [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=2&artikel=21&z=2025-07-24&g=2025-07-24) ontvangen bedragen jaarlijks een bedrag over naar zijn algemene middelen; voor de vaststelling hiervan gelden dezelfde maatstaven als die welke krachtens het eerste lid worden gebezigd.
 
-#### Artikel 24a
+##### Artikel 24a
 
 1. De schadeverzekeraars die ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland hun bedrijf in de branche Aansprakelijkheid motorrijtuigen mogen uitoefenen, alsmede de Staat, waarborgen, ieder overeenkomstig het aantal en de aard van de door hen in Nederland verzekerde motorrijtuigen, onderscheidenlijk overeenkomstig het aantal en de aard van de motorrijtuigen waarvan de Staat de bezitter of de houder als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=1&artikel=2&z=2025-07-24&g=2025-07-24), is, de verplichtingen van het fonds met uitzondering van de verplichtingen van het fonds ingevolge de [artikelen 26a tot en met 26c](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=4&artikel=26a&z=2025-07-24&g=2025-07-24).
 
 2. De Staat waarborgt voorts de verplichtingen van het fonds, voor zover de bedragen in het [derde lid van artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=4&artikel=24&z=2025-07-24&g=2025-07-24) bedoeld, niet toereikend zijn tot vergoeding van schade, waartoe door de in genoemd artikellid bedoelde motorrijtuigen aanleiding is gegeven.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Een benadeelde kan, wanneer er een burgerrechtelijke aansprakelijkheid voor de door een motorrijtuig veroorzaakte schade of een zodanige aansprakelijkheid als bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=1&artikel=3a&z=2025-07-24&g=2025-07-24) bestaat, een recht op schadevergoeding tegen het fonds geldend maken:
 
@@ -358,7 +385,7 @@ Het fonds kan zijn statuten niet wijzigen, tenzij de wijziging de instemming hee
 
 4. Indien het fonds en een verzekeraar het niet eens zijn over de vraag wie van hen de schade moet vergoeden, dient degene die als eerste werd aangesproken, tot vergoeding van de schade over te gaan. Indien mocht blijken dat de ander geheel of gedeeltelijk tot vergoeding van de schade gehouden is, zal deze tot verrekening overgaan.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Het fonds is niet aansprakelijk voor schade, voor zover deze de som of sommen, vastgesteld krachtens [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=3&artikel=22&z=2025-07-24&g=2025-07-24), overtreft.
 
@@ -374,7 +401,7 @@ Het fonds kan zijn statuten niet wijzigen, tenzij de wijziging de instemming hee
 
 7. [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=1&artikel=10&z=2025-07-24&g=2025-07-24) is van overeenkomstige toepassing op de rechtsvordering van de benadeelde tegenover het fonds.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Het fonds heeft een recht van verhaal tegen:
 
@@ -390,19 +417,19 @@ Het bepaalde onder a en b geldt in het geval van de [artikelen 26b, vierde lid](
 
 ### Hoofdstuk 4a. Het Informatiecentrum
 
-#### Artikel 28
+##### Artikel 28
 
 1. De [artikelen 5 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=1&artikel=5&z=2025-07-24&g=2025-07-24) blijven van toepassing op een schadeverzekeraar als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) met betrekking tot de schade tengevolge van een ongeval of een gebeurtenis dat heeft plaatsgehad voor of binnen 30 dagen na de intrekking van de vergunning dan wel de intrekking van een overeenkomstige vergunning indien het een verzekeraar met zetel in een andere lidstaat betreft, of het besluit als bedoeld in [artikel 1:58, tweede lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:58). De [Algemene Termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is op deze termijn niet van toepassing.
 
 2. Degene die met een verzekeraar die niet of niet meer in het bezit is van een vergunning dan wel een overeenkomstige vergunning indien het een verzekeraar met zetel in een andere lidstaat betreft, of ten aanzien van wie een besluit is genomen als bedoeld in [artikel 1:58, tweede lid,van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:58), een verzekering heeft gesloten waartoe deze wet verplicht, kan deze verzekering door opzegging beëindigen; de verzekeraar geeft alsdan de vooruitbetaalde premie terug voor het gedeelte dat evenredig is aan het op de datum van de ontvangst der opzegging nog niet verstreken gedeelte van de termijn, waarvoor de premie werd betaald, onder aftrek van een door de Nederlandsche Bank N.V. te bepalen percentage van het terug te betalen bedrag aan onkosten.
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
 ### Hoofdstuk 6. Verbods- en strafbepalingen
 
-#### Artikel 30
+##### Artikel 30
 
 1. Hij, die als bezitter, dan wel als degene op wiens naam een motorrijtuig in het kentekenregister is ingeschreven, dan wel als houder in de zin van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=1&artikel=2&z=2025-07-24&g=2025-07-24), een motorrijtuig op een weg doet rijden of laat staan of toelaat dat daarmede op een weg wordt gereden of gestaan, of buiten een weg met een motorrijtuig deelneemt of toelaat dat daarmede wordt deelgenomen aan het verkeer zonder dat hij voor dat motorrijtuig een verzekering overeenkomstig deze wet heeft gesloten en in stand gehouden, wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie.
 
@@ -424,19 +451,19 @@ Vervallen
 
 8. De in het vorige lid bedoelde bijkomende straf wordt ten uitvoer gelegd met overeenkomstige toepassing van de [artikelen 6:1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:1), [6:1:2](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:2), [6:4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:1), [6:4:3](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:3), [6:4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:5), [6:4:6](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:6) en [6:4:8 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:8). Het openbaar ministerie draagt er zorg voor, dat de geïnde bedragen tegen kwijting aan het Waarborgfonds Motorverkeer worden uitgekeerd.
 
-#### Artikel 31
+##### Artikel 31
 
 Op de eerste vordering van de personen, belast met de opsporing van de in deze wet strafbaar gestelde feiten is de bestuurder van een motorrijtuig verplicht het rijtuig te doen stilhouden en indien hij ingevolge [artikel 14 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=1&artikel=14&z=2025-07-24&g=2025-07-24), [artikel 17 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=2&artikel=17&z=2025-07-24&g=2025-07-24) of [artikel 19 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=2&artikel=19&z=2025-07-24&g=2025-07-24) een document bij zich moet hebben, dit behoorlijk ter inzage af te geven.
 
-#### Artikel 32
+##### Artikel 32
 
 De houder van een bewijs als bedoeld in [artikel 19 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=2&artikel=19&z=2025-07-24&g=2025-07-24) is verplicht dit, wanneer het ongeldig is geworden, op eerste aanmaning bij het bevoegde gezag in te leveren.
 
-#### Artikel 33
+##### Artikel 33
 
 Handelen in strijd met de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=6&artikel=31&z=2025-07-24&g=2025-07-24) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=6&artikel=32&z=2025-07-24&g=2025-07-24) wordt gestraft met hechtenis van ten hoogste dertig dagen of geldboete van de tweede categorie.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Indien uit het door de Dienst Wegverkeer aangehouden register niet blijkt dat ten aanzien van een motorrijtuig met betrekking waartoe gedurende een bepaald tijdvak een verplichting tot verzekering bestaat of heeft bestaan, gedurende dat tijdvak is voldaan aan de verzekeringsplicht uit hoofde van deze wet, kan een ambtenaar als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=6&artikel=37&z=2025-07-24&g=2025-07-24) van degene, op wiens naam dat motorrijtuig in het kentekenregister is ingeschreven, vorderen dat hij aantoont dat niettemin aan de verzekeringsplicht gedurende dat tijdvak voldaan is.
 
@@ -444,45 +471,45 @@ Handelen in strijd met de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWB
 
 3. Degene die niet aan de in het eerste lid bedoelde vordering voldoet, wordt gestraft met een hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie. Het [zesde tot en met het achtste lid van artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=6&artikel=30&z=2025-07-24&g=2025-07-24) zijn van overeenkomstige toepassing.
 
-#### Artikel 35
+##### Artikel 35
 
 Overtreding van het bepaalde bij of krachtens algemene maatregel van bestuur, voor zover die overtreding uitdrukkelijk als strafbaar feit is aangemerkt, wordt gestraft met hechtenis van ten hoogste dertig dagen of geldboete van de tweede categorie.
 
-#### Artikel 36
+##### Artikel 36
 
 De bij of krachtens deze wet strafbaar gestelde feiten zijn overtredingen.
 
-#### Artikel 37
+##### Artikel 37
 
 Met de opsporing van de strafbare feiten, bedoeld in dit hoofdstuk, zijn, behalve de ambtenaren bedoeld in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de ambtenaren, die krachtens [artikel 159 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=159) zijn aangewezen tot opsporing van strafbare feiten.
 
 ### Hoofdstuk 4b. Het Schadevergoedingsorgaan
 
-#### Artikel 38
+##### Artikel 38
 
 1. Voor de uitvoering van deze wet kunnen bij of krachtens algemene maatregel van bestuur nadere regelen worden gesteld.
 
 2. Inlichtingen omtrent de nakoming van de verplichting tot verzekering worden op aanvraag en tegen betaling, op de door de Dienst Wegverkeer vastgestelde wijze, van het daarvoor door deze dienst vastgestelde tarief door deze dienst verstrekt. Bij algemene maatregel van bestuur wordt vastgesteld wie tot betaling van het tarief is gehouden. [Artikel 4**q**, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4q) is van overeenkomstige toepassing.
 
-#### Artikel 39
+##### Artikel 39
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 40
+##### Artikel 40
 
 Vervallen
 
-#### Artikel 41
+##### Artikel 41
 
 De bepalingen van deze wet treden in werking op door Ons te bepalen tijdstippen.
 
-#### Artikel 42
+##### Artikel 42
 
 Deze wet kan worden aangehaald als: Wet aansprakelijkheidsverzekering motorrijtuigen.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 27a
+##### Artikel 27a
 
 Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
@@ -490,7 +517,7 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 - b. verzekeraar: de verzekeraar die in een lidstaat in het bezit is van een vergunning als bedoeld in artikel 14 of 162 van richtlijn 2009/138/EG van het Europees Parlement en de Raad van 25 november 2009 betreffende de toegang tot en uitoefening van het verzekerings- en het herverzekeringsbedrijf (Solvabiliteit II) (PbEU 2009, L 335).
 
-#### Artikel 27b
+##### Artikel 27b
 
 1. Onze Minister van Justitie en Onze Minister van Financiën wijzen een rechtspersoon met volledige rechtsbevoegdheid aan als Informatiecentrum dat tot taak heeft informatie te verstrekken aan benadeelden teneinde hen in staat te stellen een vordering tot schadevergoeding in te dienen.
 
@@ -506,19 +533,19 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 5. Een aanwijzing en een intrekking van een aanwijzing worden in de Staatscourant bekend gemaakt.
 
-#### Artikel 27c
+##### Artikel 27c
 
 Het Informatiecentrum kan zijn statuten niet wijzigen, tenzij de wijziging door Onze Minister van Justitie en Onze Minister van Financiën is goedgekeurd.
 
-#### Artikel 27d
+##### Artikel 27d
 
 Het Informatiecentrum verstrekt aan Onze Minister van Justitie en Onze Minister van Financiën alle gevraagde inlichtingen omtrent de uitvoering van zijn taak.
 
-#### Artikel 27e
+##### Artikel 27e
 
 Bij de aanwijzing, bedoeld in [artikel 27b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=4a&artikel=27b&z=2025-07-24&g=2025-07-24), wordt bepaald op welke wijze de werkzaamheden van het Informatiecentrum ter uitvoering van zijn taak, worden bekostigd.
 
-#### Artikel 27f
+##### Artikel 27f
 
 1. Het Informatiecentrum coördineert ter uitvoering van de hem op grond van [artikel 27b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=4a&artikel=27b&z=2025-07-24&g=2025-07-24), opgelegde taak de verzameling en verstrekking van de volgende gegevens:
 
@@ -540,7 +567,7 @@ Bij de aanwijzing, bedoeld in [artikel 27b, eerste lid](https://wetten.overheid.
 
 2. De in het eerste lid, onder a, b en c, genoemde gegevens worden bewaard gedurende zeven jaar na de doorhaling van de inschrijving van het motorrijtuig in het kentekenregister, bedoeld in [artikel 42, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=42) of van de beëindiging van de dekking.
 
-#### Artikel 27g
+##### Artikel 27g
 
 Indien een benadeelde binnen zeven jaar te rekenen van het feit waaruit de schade is ontstaan, daartoe een verzoek indient, verstrekt het Informatiecentrum onverwijld de volgende informatie:
 
@@ -550,7 +577,7 @@ Indien een benadeelde binnen zeven jaar te rekenen van het feit waaruit de schad
 
 - c. de naam en het adres van de schaderegelaar van de verzekeraar, bedoeld onder a.
 
-#### Artikel 27h
+##### Artikel 27h
 
 1. Indien een benadeelde er rechtmatig belang bij heeft, deelt het Informatiecentrum hem naam en adres van de bezitter, van degene, op wiens naam het motorrijtuig in het kentekenregister is ingeschreven of van de houder van het motorrijtuig mee. Het Informatiecentrum informeert daartoe in het bijzonder bij:
 
@@ -562,13 +589,13 @@ Indien een benadeelde binnen zeven jaar te rekenen van het feit waaruit de schad
 
 3. Indien voor het motorrijtuig de afwijking geldt van artikel 5, tweede lid, van de richtlijn deelt het Informatiecentrum de benadeelde de naam mee van de instantie waaronder het motorrijtuig ressorteert in de lidstaat waar het gewoonlijk is gestald.
 
-#### Artikel 27i
+##### Artikel 27i
 
 Het Informatiecentrum werkt samen met de informatiecentra die in de andere lidstaten zijn aangewezen. Ten aanzien van motorrijtuigen die vanuit een lidstaat naar een andere lidstaat worden verzonden, werkt het Informatiecentrum samen met de informatiecentra die in andere lidstaten zijn aangewezen om ervoor te zorgen de in de [artikelen 27f tot en met 27h](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=4a&artikel=27f&z=2025-07-24&g=2025-07-24) bedoelde gegevens met betrekking tot deze motorrijtuigen beschikbaar zijn.
 
 ### Hoofdstuk 4b. Het Schadevergoedingsorgaan
 
-#### Artikel 27j
+##### Artikel 27j
 
 Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
@@ -580,7 +607,7 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 - d. motorrijtuig: voertuig in de zin van artikel 1, onderdeel 1, van de richtlijn of bij algemene maatregel van bestuur aangewezen motorrijtuig als bedoeld in artikel 1 dat gewoonlijk is gestald in een bij die algemene maatregel van bestuur aangewezen lidstaat.
 
-#### Artikel 27k
+##### Artikel 27k
 
 1. Onze Minister van Justitie en Onze Minister van Financiën wijzen een rechtspersoon met volledige rechtsbevoegdheid aan als Schadevergoedingsorgaan dat tot taak heeft in de gevallen, genoemd in artikel 27o, eerste lid, schade te vergoeden aan benadeelden.
 
@@ -596,21 +623,21 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 5. Een aanwijzing en een intrekking van een aanwijzing worden in de Staatscourant bekend gemaakt.
 
-#### Artikel 27l
+##### Artikel 27l
 
 Het Schadevergoedingsorgaan kan zijn statuten niet wijzigen, tenzij de wijziging door Onze Minister van Justitie en Onze Minister van Financiën is goedgekeurd.
 
-#### Artikel 27m
+##### Artikel 27m
 
 1. Het Schadevergoedingsorgaan verstrekt aan Onze Minister van Justitie en Onze Minister van Financiën alle gevraagde inlichtingen omtrent de uitvoering van zijn taak.
 
 2. Het Schadevergoedingsorgaan zendt jaarlijks binnen zes maanden na afloop van het boekjaar aan Onze Minister van Justitie en Onze Minister van Financiën de balans en de staat van baten en lasten alsmede het bestuursverslag over het betrokken boekjaar. Deze stukken gaan vergezeld van een verklaring omtrent de getrouwheid, afgelegd door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
-#### Artikel 27n
+##### Artikel 27n
 
 Bij de aanwijzing, bedoeld in [artikel 27k, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=4b&artikel=27k&z=2025-07-24&g=2025-07-24), wordt bepaald op welke wijze de vergoeding door het Schadevergoedingsorgaan van schade als bedoeld in [artikel 27r](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=4b&artikel=27r&z=2025-07-24&g=2025-07-24), wordt bekostigd.
 
-#### Artikel 27o
+##### Artikel 27o
 
 1. Een benadeelde kan, wanneer er een burgerrechtelijke aansprakelijkheid voor schade bestaat, een verzoek schadevergoeding indienen bij het Schadevergoedingsorgaan, indien:
 
@@ -628,13 +655,13 @@ Bij de aanwijzing, bedoeld in [artikel 27k, eerste lid](https://wetten.overheid.
 
 - b. indien hij rechtstreeks tegen de verzekeraar een rechtsvordering heeft ingesteld.
 
-#### Artikel 27p
+##### Artikel 27p
 
 1. Het Schadevergoedingsorgaan neemt het verzoek tot schadevergoeding in behandeling binnen twee maanden nadat de benadeelde het verzoek heeft ingediend.
 
 2. Het Schadevergoedingsorgaan beëindigt de behandeling van het verzoek zodra de verzekeraar of diens schaderegelaar in Nederland binnen de in het eerste lid genoemde periode van twee maanden alsnog een met redenen omkleed antwoord op het verzoek heeft gegeven.
 
-#### Artikel 27q
+##### Artikel 27q
 
 Het Schadevergoedingsorgaan stelt de navolgende partijen onmiddellijk in kennis van het bij hem ingediende verzoek tot schadevergoeding met de mededeling dat het verzoek binnen twee maanden na de indiening ervan in behandeling wordt genomen:
 
@@ -644,15 +671,15 @@ Het Schadevergoedingsorgaan stelt de navolgende partijen onmiddellijk in kennis 
 
 - c. indien deze bekend is, de persoon die de schade heeft veroorzaakt.
 
-#### Artikel 27r
+##### Artikel 27r
 
 Het Schadevergoedingsorgaan gaat slechts over tot vergoeding van schade, indien de benadeelde aantoont dat hij alle bekende als zodanig aansprakelijke personen en, voor zover de aansprakelijkheid van deze personen behoort te zijn verzekerd volgens de desbetreffende wetgeving van de lidstaat waar het motorrijtuig waarmee de schade is veroorzaakt, gewoonlijk is gestald, hun verzekeraars of hun schaderegelaars in Nederland tot betaling heeft aangemaand.
 
-#### Artikel 27s
+##### Artikel 27s
 
 Het Schadevergoedingsorgaan vergoedt geen schade, hoger dan de wettelijk vastgelegde bedragen in de lidstaat waar het feit heeft plaatsgevonden waaruit de schade is ontstaan, dan wel in de lidstaat waar het motorrijtuig gewoonlijk is gestald, indien in laatstbedoelde lidstaat de dekking hoger is.
 
-#### Artikel 27t
+##### Artikel 27t
 
 1. Na vergoeding van schade aan een benadeelde heeft het Schadevergoedingsorgaan recht van verhaal:
 
@@ -676,7 +703,7 @@ Het Schadevergoedingsorgaan vergoedt geen schade, hoger dan de wettelijk vastgel
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. De verzekeringnemer heeft te allen tijde het recht van de verzekeraar een verklaring te verzoeken omtrent de ingediende schadevorderingen of het ontbreken daarvan ten aanzien van het door de verzekering gedekte motorrijtuig of de gedekte motorrijtuigen gedurende ten minste de laatste 5 voorafgaande jaren van de looptijd van de verzekering. De verzekeraar verstrekt deze verklaring binnen 15 dagen na indiening van het verzoek aan de hand van het op grond van artikel 16 van de richtlijn vastgestelde model.
 
@@ -702,7 +729,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 26d
+##### Artikel 26d
 
 Het fonds is bevoegd om overeenkomsten als bedoeld in de artikelen 10bis, dertiende lid, en 25bis, dertiende lid, van de richtlijn uit te onderhandelen en te sluiten.
 
@@ -716,7 +743,7 @@ Het fonds is bevoegd om overeenkomsten als bedoeld in de artikelen 10bis, dertie
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1a
+##### Artikel 1a
 
 In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=1&artikel=1&z=2025-07-24&g=2025-07-24) worden voor de toepassing van deze wet niet verstaan onder motorrijtuigen, de bij algemene maatregel van bestuur aangewezen rij- of voertuigen die:
 
@@ -724,7 +751,7 @@ In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoo
 
 - b. niet hebben te gelden als voertuig in de zin van artikel 1, onderdeel 1, van de richtlijn.
 
-#### Artikel 6a
+##### Artikel 6a
 
 Is bij een ongeval zowel een motorrijtuig betrokken als een aanhangwagen dat aan dit motorrijtuig is gekoppeld of na koppeling daarvan is losgemaakt of losgeraakt en is de aanhangwagen afzonderlijk verzekerd tegen de burgerrechtelijke aansprakelijkheid waartoe in het verkeer aanleiding wordt gegeven, dan stelt de verzekeraar van de aanhangwagen de benadeelde op diens verzoek onverwijld in kennis van de identiteit van de verzekeraar van het motorrijtuig, indien de verzekeraar van de aanhangwagen niet zelf gehouden is de schade van de benadeelde volledig te vergoeden. Als de verzekeraar van de aanhangwagen niet in staat is de verzekeraar van het motorrijtuig te identificeren, stelt deze de benadeelde onverwijld in kennis van de in de lidstaat van het ongeval geldende schadevergoedingsregeling overeenkomstig artikel 10 van de richtlijn.
 
@@ -732,7 +759,7 @@ Is bij een ongeval zowel een motorrijtuig betrokken als een aanhangwagen dat aan
 
 ### Hoofdstuk 4. Het Waarborgfonds Motorverkeer
 
-#### Artikel 24b
+##### Artikel 24b
 
 1. Onverminderd het bepaalde in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=4&artikel=24&z=2025-07-24&g=2025-07-24), betalen de schadeverzekeraars met zetel in Nederland die een vergunning hebben als bedoeld in [artikel 2:27, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:27) voor de uitoefening van hun bedrijf in de branche Aansprakelijkheid motorrijtuigen, jaarlijks aan het fonds een door het fonds te bepalen bedrag ter financiering van de verplichtingen van het fonds ingevolge de [artikelen 26a tot en met 26c](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=4&artikel=26a&z=2025-07-24&g=2025-07-24). Dit bedrag wordt berekend op basis van het aantal en de aard van de door ieder van hen in Nederland of in een andere lidstaat verzekerde motorrijtuigen.
 
@@ -750,7 +777,7 @@ Is bij een ongeval zowel een motorrijtuig betrokken als een aanhangwagen dat aan
 
 8. De schadeverzekeraars bedoeld in het eerste en tweede lid, waarborgen, ieder overeenkomstig het aantal en de aard van de door hen verzekerde motorrijtuigen als bedoeld in het eerste en tweede lid, de verplichtingen van het fonds ingevolge de [artikelen 26a tot en met 26c](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=4&artikel=26a&z=2025-07-24&g=2025-07-24).
 
-#### Artikel 26a
+##### Artikel 26a
 
 1. Een benadeelde met woonplaats in Nederland kan, wanneer er een burgerrechtelijke aansprakelijkheid bestaat voor de schade ten gevolge van feiten die zijn veroorzaakt door een motorrijtuig en die zich hebben voorgedaan in Nederland of die zijn veroorzaakt door een motorrijtuig dat gewoonlijk is gestald en verzekerd in een lidstaat en die zich hebben voorgedaan in een andere lidstaat dan Nederland of in een staat buiten de Europese Unie waar een bureau, groep van verzekeraars of instantie werkzaam is dat onderscheidenlijk die overeenkomt met het bureau, bedoeld in artikel 2, zesde lid, een recht op schadevergoeding tegen het fonds geldend maken, vanaf het tijdstip dat:
 
@@ -768,7 +795,7 @@ Is bij een ongeval zowel een motorrijtuig betrokken als een aanhangwagen dat aan
 
 5. Voor de toepassing van dit artikel en de [artikelen 26b](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=4&artikel=26b&z=2025-07-24&g=2025-07-24) en [26c](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=4&artikel=26c&z=2025-07-24&g=2025-07-24) wordt onder verzekeraar verstaan: de verzekeraar die in een lidstaat in het bezit is van een vergunning als bedoeld in artikel 14 of 162 van [richtlijn 2009/138/EG](32009L0138) van het Europees Parlement en de Raad van 25 november 2009 betreffende de toegang tot en uitoefening van het verzekerings- en het herverzekeringsbedrijf (Solvabiliteit II) (PbEU 2009, L 335).
 
-#### Artikel 26b
+##### Artikel 26b
 
 1. Als bij het fonds een vordering als bedoeld in [artikel 26a, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=4&artikel=26a&z=2025-07-24&g=2025-07-24), is ingediend, stelt het fonds de volgende instellingen of personen hiervan in kennis:
 
@@ -788,7 +815,7 @@ Is bij een ongeval zowel een motorrijtuig betrokken als een aanhangwagen dat aan
 
 6. De regels die op grond van het toepasselijke recht gelden voor de verjaring van de rechtsvordering van de benadeelde tegenover de verzekeraar, zijn van overeenkomstige toepassing op de rechtsvordering die de benadeelde ingevolge dit artikel en [artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=4&artikel=26a&z=2025-07-24&g=2025-07-24) tegenover het fonds heeft, met dien verstande dat deze rechtsvordering in ieder geval met overeenkomstige toepassing van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&hoofdstuk=1&artikel=10&z=2025-07-24&g=2025-07-24) verjaart door verloop van drie jaar te rekenen van het feit waaruit de schade is ontstaan.
 
-#### Artikel 26c
+##### Artikel 26c
 
 1. Het fonds stelt de organen bedoeld in de artikelen 10bis en 25bis van de richtlijn en de schadevergoedingsorganen bedoeld in artikel 24 van de richtlijn in andere lidstaten onverwijld in kennis van een beschikking als bedoeld in [artikel 213ag, derde lid, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=213ag) waarbij een verzekeraar waarvan Nederland de lidstaat van herkomst is, in staat van faillissement is verklaard.
 

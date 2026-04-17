@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling Nationaal Groeifonds"
+title: "Regeling van de Minister van Economische Zaken en Klimaat van 11 juli 2022, nr. WJZ/ 22018415, houdende regels voor de verstrekking van subsidie uit het Nationaal Groeifonds (Subsidieregeling Nationaal Groeifonds)"
 identifier: "BWBR0046995"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046995"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046995"
+soort: "ministeriele-regeling"
+stam_id: "16442203"
+version_id: "29664412"
+internal_id: "C42453901"
+label_id: "16365794"
+dtd_version: "2.0"
+original_entry_into_force: "2023-10-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046995/2024-01-01/0"
+intitule_bron: "Stcrt.2022-18250"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-07-11"
+intitule_published: "2022-07-15"
+intitule_in_force: "2022-07-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-27610"
+original_signed_date: "2023-10-09"
+original_published_date: "2023-10-10"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2023-27610"
+entry_into_force_date: "2023-10-09"
+jci_1_3: "jci1.3:c:BWBR0046995&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0046995&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling Nationaal Groeifonds"
+signed_date: "2023-10-09"
+entry_into_force: "2023-10-09"
 ---
-
 # Regeling van de Minister van Economische Zaken en Klimaat van 11 juli 2022, nr. WJZ/ 22018415, houdende regels voor de verstrekking van subsidie uit het Nationaal Groeifonds (Subsidieregeling Nationaal Groeifonds)
 
 Gelet op de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046840&artikel=2), en [8, tweede en vijfde lid, van de Tijdelijke wet Nationaal Groeifonds](https://wetten.overheid.nl/jci1.3:c:BWBR0046840&artikel=8);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -48,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 - **wet:** [Tijdelijke wet Nationaal Groeifonds](https://wetten.overheid.nl/jci1.3:c:BWBR0046840).
 
-#### Artikel 2. Openstelling en subsidieplafonds
+##### Artikel 2. Openstelling en subsidieplafonds
 
 1. De minister kan op grond van deze regeling uitsluitend subsidie verstrekken indien hij de mogelijkheid tot het doen van een aanvraag tot subsidieverlening heeft opengesteld door vaststelling van een subsidieplafond, een periode voor indiening van een vooraanmelding en een periode voor indiening van de aanvraag.
 
@@ -56,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 3. De minister kan verschillende subsidieplafonds vaststellen voor verschillende activiteiten of categorieën van aanvragers.
 
-#### Artikel 3. Subsidieaanvraag
+##### Artikel 3. Subsidieaanvraag
 
 1. De minister verstrekt op aanvraag subsidie voor een activiteit of een samenhangend geheel van activiteiten die het duurzaam verdienvermogen vergroten en die betrekking hebben op:
 
@@ -90,7 +116,7 @@ In deze regeling wordt verstaan onder:
 
 5. Een aanvraag tot het verstrekken van een specifieke uitkering als bedoeld in [artikel 7, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0046840&artikel=7) wordt beschouwd als een aanvraag als bedoeld in het eerste lid.
 
-#### Artikel 4. Hoogte subsidie
+##### Artikel 4. Hoogte subsidie
 
 1. Indien een subsidie die op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2024-01-01&g=2024-01-01), wordt verstrekt, staatssteun bevat, bedraagt de hoogte van de subsidie voor:
 
@@ -116,7 +142,7 @@ In deze regeling wordt verstaan onder:
 
 5. Indien een subsidie die op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2024-01-01&g=2024-01-01), wordt verstrekt, staatssteun bevat, wordt het bedrag van de subsidie verlaagd voor zover dit nodig is op basis van de algemene groepsvrijstellingsverordening.
 
-#### Artikel 5. Subsidiabele kosten
+##### Artikel 5. Subsidiabele kosten
 
 1. Voor subsidie komen uitsluitend in aanmerking de redelijk gemaakte kosten die direct verbonden zijn met de uitvoering van de activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2024-01-01&g=2024-01-01).
 
@@ -142,7 +168,7 @@ In deze regeling wordt verstaan onder:
 
 5. De aanvrager kiest voor de berekening van de subsidiabele kosten uit één van de systematieken, genoemd in [artikel 11, eerste lid, onderdelen a, b of c, van het Kaderbesluit nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=11).
 
-#### Artikel 6. Verdeling subsidieplafond
+##### Artikel 6. Verdeling subsidieplafond
 
 1. De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanvragen.
 
@@ -150,7 +176,7 @@ In deze regeling wordt verstaan onder:
 
 3. Indien de minister op de dag waarop het subsidieplafond is bereikt meer dan één volledige aanvraag heeft ontvangen, stelt hij de onderlinge rangschikking vast door middel van loting.
 
-#### Artikel 7. Afwijzingsgronden
+##### Artikel 7. Afwijzingsgronden
 
 De minister beslist afwijzend op een aanvraag:
 
@@ -170,17 +196,17 @@ De minister beslist afwijzend op een aanvraag:
 
 - h. voor zover de activiteiten niet voldoen aan de [artikelen 22, eerste lid, onderdelen b, c, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22), en [23, onderdelen a, c, d, e, f en g, van het Kaderbesluit nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23), zoals van toepassing verklaard in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=16&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 8. Beslissing op de aanvraag
+##### Artikel 8. Beslissing op de aanvraag
 
 1. De minister geeft een beschikking op een aanvraag om subsidie binnen 26 weken na de dag van ontvangst van de aanvraag.
 
 2. Indien een beschikking niet binnen deze termijn kan worden gegeven, kan deze termijn eenmaal met 13 weken worden verlengd.
 
-#### Artikel 9. Rangschikkingscriteria
+##### Artikel 9. Rangschikkingscriteria
 
 Vervallen
 
-#### Artikel 10. Adviescommissie Nationaal Groeifonds
+##### Artikel 10. Adviescommissie Nationaal Groeifonds
 
 1. De minister vraagt de adviescommissie advies over toepassing van de afwijzingsgrond, bedoeld in [artikel 7, aanhef, en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=7&z=2024-01-01&g=2024-01-01).
 
@@ -192,7 +218,7 @@ Vervallen
 
 3. De minister maakt een advies als bedoeld in het eerste lid openbaar.
 
-#### Artikel 11. Voorschot
+##### Artikel 11. Voorschot
 
 1. De minister verstrekt ambtshalve voorschotten.
 
@@ -202,7 +228,7 @@ Vervallen
 
 4. De minister verstrekt de voorschotten ambtshalve binnen twee weken na de momenten, bedoeld in het tweede lid.
 
-#### Artikel 12. Verplichtingen subsidieontvanger
+##### Artikel 12. Verplichtingen subsidieontvanger
 
 1. De subsidieontvanger voert de activiteiten uit overeenkomstig het bepaalde in de beschikking tot subsidieverlening.
 
@@ -234,11 +260,11 @@ Vervallen
 
 - c. in geval subsidie wordt verstrekt voor de bouw, het upgraden of de exploitatie van innovatieclusters, de verplichtingen bedoeld in artikel 27, derde en vierde lid, van de algemene groepsvrijstellingsverordening.
 
-#### Artikel 13. Informatieverplichtingen subsidieaanvraag
+##### Artikel 13. Informatieverplichtingen subsidieaanvraag
 
 Vervallen
 
-#### Artikel 14. Subsidievaststelling
+##### Artikel 14. Subsidievaststelling
 
 1. De subsidieontvanger dient zijn aanvraag om subsidievaststelling in uiterlijk dertien weken na het tijdstip waarop de activiteiten moeten zijn voltooid.
 
@@ -262,7 +288,7 @@ Vervallen
 
 8. De [artikelen 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) en [17b van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17b) zijn van overeenkomstige toepassing op een subsidie, niet zijnde een specifieke uitkering, die is verstrekt aan een gemeente of provincie en [artikel 34a van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=34a) is van overeenkomstige toepassing op een subsidie, niet zijnde een specifieke uitkering, die is verstrekt aan een openbaar lichaam of een bedrijfsvoeringsorganisatie, met dien verstande dat waar in die artikelen sprake is van specifieke uitkering, in plaats daarvan wordt gelezen: subsidie.
 
-#### Artikel 15. Staatssteun
+##### Artikel 15. Staatssteun
 
 Indien de subsidie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2024-01-01&g=2024-01-01), staatssteun bevat, wordt deze gerechtvaardigd door:
 
@@ -280,7 +306,7 @@ Indien de subsidie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.n
 
 - g. artikel 29 van de algemene groepsvrijstellingsverordening voor proces- en organisatie-innovatie.
 
-#### Artikel 16. [Kaderbesluit nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796) en [Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474)
+##### Artikel 16. [Kaderbesluit nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796) en [Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474)
 
 1. De [artikelen 10, derde, vierde, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=10), [11, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=11), [12, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=14), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=20), [22, eerste lid, onderdelen b, c, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22), [23, onderdelen a, c, d, e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=29), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=36), [36a](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=36a), [38, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=38), [39a](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=39a), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=40), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=41) en [51 van het Kaderbesluit nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=51) zijn van toepassing op de subsidie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2024-01-01&g=2024-01-01).
 
@@ -288,25 +314,25 @@ Indien de subsidie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.n
 
 3. Het uurtarief als bedoeld in de [artikelen 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=13), en [14 van het Kaderbesluit nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=14) bedraagt voor de toepassing van deze regeling € 60.
 
-#### Artikel 17. Aanwijzing toezichthouders
+##### Artikel 17. Aanwijzing toezichthouders
 
 Als personen als bedoeld in [artikel 8, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0046840&artikel=8), worden aangewezen de met toezicht belaste medewerkers van de Rijksdienst voor Ondernemend Nederland.
 
-#### Artikel 18. Vervaltermijn
+##### Artikel 18. Vervaltermijn
 
 Deze regeling vervalt met ingang van 1 januari 2028, met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn verleend.
 
-#### Artikel 19. Inwerkingtreding
+##### Artikel 19. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2023.
 
-#### Artikel 20. Citeertitel
+##### Artikel 20. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling Nationaal Groeifonds.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 6a. Vooraanmelding en informatieverplichtingen vooraanmelding
+##### Artikel 6a. Vooraanmelding en informatieverplichtingen vooraanmelding
 
 1. Een aanvraag voor subsidie wordt voorafgegaan door indiening van een daarmee verbonden vooraanmelding binnen de daarvoor vastgestelde periode, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=2&z=2024-01-01&g=2024-01-01).
 
@@ -330,7 +356,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. Indien de activiteiten zullen worden uitgevoerd door een samenwerkingsverband, bevat de vooraanmelding tevens een beschrijving van de beoogde andere deelnemers en hun rol en heeft de informatie, bedoeld in het derde lid, onderdelen e en f, betrekking op het samenwerkingsverband als geheel.
 
-#### Artikel 6b. Informatieverplichtingen subsidieaanvraag
+##### Artikel 6b. Informatieverplichtingen subsidieaanvraag
 
 1. Een aanvraag voor subsidie wordt ingediend met gebruikmaking van een middel dat door de minister beschikbaar wordt gesteld.
 

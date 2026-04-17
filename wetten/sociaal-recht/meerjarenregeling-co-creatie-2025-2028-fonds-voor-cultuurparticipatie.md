@@ -1,13 +1,38 @@
 ---
 title: "Meerjarenregeling Co-creatie 2025 – 2028 Fonds voor Cultuurparticipatie"
 identifier: "BWBR0048937"
-categorie: "Sociaal recht"
-publicatiedatum: 2023-11-23
-laatste_update: 2023-11-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048937"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-11-23"
+last_updated: "2023-11-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048937"
+soort: "zbo"
+stam_id: "16930223"
+version_id: "29754662"
+internal_id: "C42644431"
+label_id: "16842084"
+dtd_version: "2.0"
+original_entry_into_force: "2023-11-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048937/2023-11-23/0"
+intitule_bron: "Stcrt.2023-31925"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-11-14"
+intitule_published: "2023-11-22"
+intitule_in_force: "2023-11-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-31925"
+original_signed_date: "2023-11-14"
+original_published_date: "2023-11-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-31925"
+entry_into_force_date: "2023-11-23"
+jci_1_3: "jci1.3:c:BWBR0048937&z=2023-11-23&g=2023-11-23"
+jci_1_0: "1.0:c:BWBR0048937&g=2023-11-23"
+citeertitel_status: "officieel"
+signed_date: "2023-11-14"
+entry_into_force: "2023-11-23"
 ---
-
 # Meerjarenregeling Co-creatie 2025 – 2028 Fonds voor Cultuurparticipatie
 
 gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
@@ -26,7 +51,7 @@ vast te stellen de: Meerjarenregeling Co-creatie 2025 – 2028 Fonds voor Cultuu
 
 ### Hoofdstuk 1. - Algemene bepalingen
 
-#### Artikel 1.1. Gebruikte begrippen
+##### Artikel 1.1. Gebruikte begrippen
 
 - a. **Adviescommissie:** een interne of externe adviescommissie zoals bedoeld in het [Huishoudelijk Reglement van Stichting Fonds voor Cultuurparticipatie](onbekend);
 
@@ -100,23 +125,23 @@ vast te stellen de: Meerjarenregeling Co-creatie 2025 – 2028 Fonds voor Cultuu
 
 - jj. **Website van het Fonds:** [www.cultuurparticipatie.nl](onbekend)
 
-#### Artikel 1.2. Doel van de regeling
+##### Artikel 1.2. Doel van de regeling
 
 Het Fonds verstrekt in de periode 2025–2028 meerjarige stimuleringssubsidies. Het doel van deze subsidies is het duurzaam versterken van de co-creatie sector in het Koninkrijk. Manieren om dat te doen kunnen gemeenschapsontwikkeling door een instelling, organiseren van festivals of cross-sectorale samenwerkingstrajecten zijn.
 
-#### Artikel 1.3. Subsidieperiode
+##### Artikel 1.3. Subsidieperiode
 
 Subsidie in het kader van deze regeling wordt verstrekt voor de kalenderjaren 2025 tot en met 2028.
 
-#### Artikel 1.4. Subsidieplafond
+##### Artikel 1.4. Subsidieplafond
 
 Het subsidieplafond staat in de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048937&hoofdstuk=4&z=2023-11-23&g=2023-11-23), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0048937&hoofdstuk=5&z=2023-11-23&g=2023-11-23) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048937&hoofdstuk=6&z=2023-11-23&g=2023-11-23) vermeld. Het Fonds kan besluiten het subsidieplafond te wijzigen, onder andere met betrekking tot de hoogte, tijdvakken, thema’s, doelgroepen en regio’s. Wijzigingen van het subsidieplafond worden gepubliceerd op [de website van het Fonds](onbekend).
 
-#### Artikel 1.5. Aantal aanvragen
+##### Artikel 1.5. Aantal aanvragen
 
 Een aanvrager kan slechts voor een van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048937&hoofdstuk=4&z=2023-11-23&g=2023-11-23), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0048937&hoofdstuk=5&z=2023-11-23&g=2023-11-23) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048937&hoofdstuk=6&z=2023-11-23&g=2023-11-23) een aanvraag indienen. Evenmin is het mogelijk om voor zowel de [Meerjarenregeling Talentontwikkeling](https://wetten.overheid.nl/jci1.3:c:BWBR0048930) als voor de Meerjarenregeling Co-creatie een aanvraag te doen.
 
-#### Artikel 1.6. Maximale bijdrage van het Fonds
+##### Artikel 1.6. Maximale bijdrage van het Fonds
 
 - a. Voor aanvragers uit Europees Nederland draagt het Fonds maximaal 50% van de totale lasten bij.
 
@@ -126,7 +151,7 @@ Een aanvrager kan slechts voor een van de [hoofdstukken 4](https://wetten.overhe
 
 ### Hoofdstuk 2. - Voorwaarden en weigeringsgronden
 
-#### Artikel 2.1. Culturele codes
+##### Artikel 2.1. Culturele codes
 
 De aanvrager is verplicht om de Governance Code Cultuur, de Fair Practice Code en de Code Diversiteit & Inclusie te onderschrijven en toe te passen op een manier die ten minste voldoet aan de volgende bepalingen:
 
@@ -160,7 +185,7 @@ De aanvrager is verplicht om de Governance Code Cultuur, de Fair Practice Code e
 
 - b. dat in voortgangsgesprekken de voortgang en monitoring wordt toegelicht.
 
-#### Artikel 2.2. Weigeringsgronden
+##### Artikel 2.2. Weigeringsgronden
 
 1. Het Fonds weigert in ieder geval subsidie als voor hetzelfde programma in dezelfde periode reeds subsidie is of zal worden verleend:
 
@@ -192,7 +217,7 @@ De aanvrager is verplicht om de Governance Code Cultuur, de Fair Practice Code e
 
 ### Hoofdstuk 3. - Aanvraagprocedure en verantwoording
 
-#### Artikel 3.1. De aanvraagprocedure
+##### Artikel 3.1. De aanvraagprocedure
 
 1. Aanvragen wordt ingediend via het digitale systeem Mijn Fonds, dat bereikbaar is via [de](onbekend)website van het Fonds.
 
@@ -210,7 +235,7 @@ De aanvrager is verplicht om de Governance Code Cultuur, de Fair Practice Code e
 
 4. Zoals vermeld in [artikel 4, achtste lid, van het Algemeen Subsidiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&artikel=4) kunnen aanvragers gevestigd in het Caribisch deel van het Koninkrijk de kosten voor het omwisselen van valuta voor het uitvoeren van het project opnemen in de subsidieaanvraag.
 
-#### Artikel 3.2. Indiening aanvraag
+##### Artikel 3.2. Indiening aanvraag
 
 1. Aanvragen kunnen vanaf 1 december 2023, 13:00 Amsterdamse tijd worden ingediend en dienen voor 31 januari 2024, 16:00 Amsterdamse tijd door het Fonds te zijn ontvangen.
 
@@ -218,7 +243,7 @@ De aanvrager is verplicht om de Governance Code Cultuur, de Fair Practice Code e
 
 3. Een te laat ingediende aanvraag wordt niet in behandeling genomen.
 
-#### Artikel 3.3. Beoordeling
+##### Artikel 3.3. Beoordeling
 
 1. Aanvragen die volledig en op tijd zijn ingediend en voldoen aan de voorwaarden van de regeling, worden voor advies voorgelegd aan een adviescommissie.
 
@@ -232,7 +257,7 @@ De aanvrager is verplicht om de Governance Code Cultuur, de Fair Practice Code e
 
 6. De beoordelingstermijn is maximaal 22 weken. Het bestuur van het Fonds besluit over de adviezen.
 
-#### Artikel 3.4. Verdeling budget
+##### Artikel 3.4. Verdeling budget
 
 1. Aanvragen die aan alle bepalingen voldoen worden in een rangorde geplaatst en op basis daarvan onderverdeeld in:
 
@@ -248,11 +273,11 @@ De aanvrager is verplicht om de Governance Code Cultuur, de Fair Practice Code e
 
 4. Indien het Fonds een subsidieplafond verhoogt, wordt eerst gedeeltelijk toegewezen subsidie alsnog verhoogd tot het geadviseerde bedrag, tenzij dat niet meer nodig blijkt te zijn. Vervolgens wordt steeds de eerstvolgende aanvraag toegewezen totdat het subsidieplafond is bereikt.
 
-#### Artikel 3.5. Besluit
+##### Artikel 3.5. Besluit
 
 Het Fonds informeert de aanvrager schriftelijk over het besluit op de aanvraag. Het Fonds doet dat binnen 22 weken na de uiterlijke indiendatum van woensdag 31 januari 2024. Voor de motivering van het besluit wordt in beginsel verwezen naar het advies, dat door de in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048937&hoofdstuk=3&artikel=3.3&z=2023-11-23&g=2023-11-23) bedoelde adviescommissie is uitgebracht. Het besluit wordt samen met het advies aan de aanvrager toegezonden.
 
-#### Artikel 3.6. Verantwoording
+##### Artikel 3.6. Verantwoording
 
 1. De subsidieontvanger stuurt jaarlijks voor 1 mei een verantwoording in over het vorige kalenderjaar.
 
@@ -266,7 +291,7 @@ Het Fonds informeert de aanvrager schriftelijk over het besluit op de aanvraag. 
 
 6. De subsidieontvanger werkt mee aan of zorgt dat de accountant meewerkt aan onderzoeken naar de door de accountant verrichte (controle)werkzaamheden. Deze (controle)werkzaamheden worden uitgevoerd door een door het Fonds aan te wijzen partij. De daaraan voor de subsidieontvanger verbonden kosten komen voor zijn rekening.
 
-#### Artikel 3.7. Vaststelling subsidie
+##### Artikel 3.7. Vaststelling subsidie
 
 1. Het Fonds stelt de subsidie vast na ontvangst van de complete verantwoording over de subsidieperiode.
 
@@ -274,11 +299,11 @@ Het Fonds informeert de aanvrager schriftelijk over het besluit op de aanvraag. 
 
 ### Hoofdstuk 4. - Co-creatie: instellingen
 
-#### Artikel 4.1. Wie kan aanvragen
+##### Artikel 4.1. Wie kan aanvragen
 
 Subsidie op basis van dit hoofdstuk kan alleen worden aangevraagd door een in het Koninkrijk der Nederlanden gevestigde culturele instelling die de gemeenschap structureel betrekt bij de invulling van haar programmeer- of podiumfunctie en de behoefte heeft om die werkwijze verder te borgen. In beginsel vallen hieronder de instellingen die eerder gehonoreerd zijn in de [deelregeling MeeMaakPodia](https://wetten.overheid.nl/jci1.3:c:BWBR0040536), onderdeel van de [regeling Vernieuwen van cultuurmaken](https://wetten.overheid.nl/jci1.3:c:BWBR0046228).
 
-#### Artikel 4.2. Waarvoor kan worden aangevraagd
+##### Artikel 4.2. Waarvoor kan worden aangevraagd
 
 1. Culturele instellingen met een programmeer- of podiumfunctie kunnen aanvragen voor:
 
@@ -292,15 +317,15 @@ Subsidie op basis van dit hoofdstuk kan alleen worden aangevraagd door een in he
 
 2. De aanvraag is gericht op het werken aan en bereiken van outcome. De aanvrager beschrijft daarom in de aanvraag de stappen die worden gezet om het gewenste effect te realiseren. De aanvrager zet de te nemen stappen in een realistisch tijdspad.
 
-#### Artikel 4.3. Subsidieplafond
+##### Artikel 4.3. Subsidieplafond
 
 Het subsidieplafond voor dit hoofdstuk bedraagt € 1.700.000.
 
-#### Artikel 4.4. Hoogte van de aanvraag
+##### Artikel 4.4. Hoogte van de aanvraag
 
 Per aanvraag bedraagt de subsidie minimaal € 200.000 en maximaal € 500.000.
 
-#### Artikel 4.5. Voorwaarden en drempelnorm
+##### Artikel 4.5. Voorwaarden en drempelnorm
 
 1. Een aanvrager moet in beginsel al eerder subsidie ontvangen hebben onder de [deelregeling MeeMaakPodia](https://wetten.overheid.nl/jci1.3:c:BWBR0040536), onderdeel van de [regeling Vernieuwen van cultuurmaken](https://wetten.overheid.nl/jci1.3:c:BWBR0046228).
 
@@ -310,7 +335,7 @@ Per aanvraag bedraagt de subsidie minimaal € 200.000 en maximaal € 500.000.
 
 4. Als een aanvrager geen jaarrekening kan overleggen dient hij een vergelijkbare opgave in. Het Fonds kan nadere eisen aan deze opgave stellen.
 
-#### Artikel 4.6. Beoordelingscriteria
+##### Artikel 4.6. Beoordelingscriteria
 
 Aanvragen worden beoordeeld aan de hand van de volgende criteria, die in de toelichting op de regeling nader worden uitgelegd:
 
@@ -324,25 +349,25 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria, die in de toel
 
 ### Hoofdstuk 5. - Co-creatie: festivals
 
-#### Artikel 5.1. Wie kan aanvragen
+##### Artikel 5.1. Wie kan aanvragen
 
 Subsidie op basis van dit hoofdstuk kan alleen worden aangevraagd door een in het Koninkrijk der Nederlanden gevestigde culturele instelling. Deze instelling heeft het werken aan outcome en het organiseren van een festival (incl. erfgoedmanifestaties) ten behoeve van de sector co-creatie als kernactiviteit.
 
-#### Artikel 5.2. Waarvoor kan worden aangevraagd
+##### Artikel 5.2. Waarvoor kan worden aangevraagd
 
 1. Een aanvraag kan worden ingediend voor het werken aan outcome en het ontwikkelen en professionaliseren van een rol en functie in het veld van actieve cultuurparticipatie, waaronder erfgoed, gericht op het actief betrekken en laten deelnemen van de bezoeker. Hierbij behoort het organiseren van minimaal twee en maximaal vier edities in het Koninkrijk der Nederlanden van een landelijke festival, zoals een erfgoedmanifestatie, waarbij dit niet de enige activiteit kan zijn.
 
 2. De aanvraag is gericht op het werken aan en bereiken van outcome. De aanvrager beschrijft daarom in de aanvraag de stappen die worden gezet om het gewenste effect te realiseren. De aanvrager zet de te nemen stappen in een realistisch tijdspad.
 
-#### Artikel 5.3. Subsidieplafond
+##### Artikel 5.3. Subsidieplafond
 
 Het subsidieplafond voor dit hoofdstuk is € 2.892.000. Daarvan is € 1.600.000 bestemd voor erfgoedmanifestaties.
 
-#### Artikel 5.4. Hoogte van de aanvraag
+##### Artikel 5.4. Hoogte van de aanvraag
 
 Per aanvraag bedraagt de subsidie minimaal € 200.000 en maximaal € 500.000.
 
-#### Artikel 5.5. Voorwaarden en drempelnorm
+##### Artikel 5.5. Voorwaarden en drempelnorm
 
 1. Een aanvrager die in aanmerking wil komen voor subsidie moet aantonen dat hij in de drie voorafgaande jaren een rol van betekenis had in het veld van actieve cultuurparticipatie, bijvoorbeeld als organisator van erfgoedmanifestaties of soortgelijk festival.
 
@@ -350,7 +375,7 @@ Per aanvraag bedraagt de subsidie minimaal € 200.000 en maximaal € 500.000.
 
 3. Als een aanvrager geen jaarrekening kan overleggen over enig jaar dient hij een vergelijkbare opgave in. Het Fonds kan nadere eisen aan deze opgave stellen.
 
-#### Artikel 5.6. Beoordelingscriteria
+##### Artikel 5.6. Beoordelingscriteria
 
 Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
@@ -364,7 +389,7 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
 ### Hoofdstuk 6. - Co-creatie: cross-sectoraal
 
-#### Artikel 6.1. Wie kan aanvragen
+##### Artikel 6.1. Wie kan aanvragen
 
 Subsidie op basis van dit hoofdstuk kan alleen worden aangevraagd door een in het Koninkrijk der Nederlanden gevestigde:
 
@@ -372,7 +397,7 @@ Subsidie op basis van dit hoofdstuk kan alleen worden aangevraagd door een in he
 
 - b. instelling in het sociaal domein die bij de aangevraagde activiteiten samenwerkt met een culturele instelling.
 
-#### Artikel 6.2. Waarvoor kan worden aangevraagd
+##### Artikel 6.2. Waarvoor kan worden aangevraagd
 
 1. Subsidie kan alleen worden aangevraagd voor een cross-sectorale samenwerking tussen instellingen in het cultureel en sociaal domein:
 
@@ -390,15 +415,15 @@ Subsidie op basis van dit hoofdstuk kan alleen worden aangevraagd door een in he
 
 3. De aanvraag is gericht op het werken aan en bereiken van outcome. De aanvrager beschrijft daarom in de aanvraag de stappen die worden gezet om het gewenste effect te realiseren. De aanvrager zet de te nemen stappen in een realistisch tijdspad.
 
-#### Artikel 6.3. Subsidieplafond
+##### Artikel 6.3. Subsidieplafond
 
 Het subsidieplafond voor dit hoofdstuk bedraagt € 6.000.000.
 
-#### Artikel 6.4. Hoogte van de subsidie
+##### Artikel 6.4. Hoogte van de subsidie
 
 Per aanvraag bedraagt de subsidie minimaal € 250.000 en maximaal € 1.000.000.
 
-#### Artikel 6.5. Voorwaarden en drempelnorm
+##### Artikel 6.5. Voorwaarden en drempelnorm
 
 1. Een aanvrager moet in beginsel al eerder subsidie ontvangen hebben onder de [deelregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046394)
 
@@ -408,7 +433,7 @@ Per aanvraag bedraagt de subsidie minimaal € 250.000 en maximaal € 1.000.000
 
 4. Als een aanvrager geen jaarrekening kan overleggen over enig jaar dient hij een vergelijkbare opgave in. Het Fonds kan nadere eisen aan deze opgave stellen.
 
-#### Artikel 6.6. Beoordelingscriteria
+##### Artikel 6.6. Beoordelingscriteria
 
 Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
@@ -422,7 +447,7 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
 ### Hoofdstuk 7. - Subsidieverplichtingen
 
-#### Artikel 7.1. Aan de subsidie verbonden verplichtingen
+##### Artikel 7.1. Aan de subsidie verbonden verplichtingen
 
 1. De subsidieontvanger meldt direct aan het Fonds als:
 
@@ -440,7 +465,7 @@ Als achteraf blijkt dat er sprake is van een wezenlijke verandering die niet is 
 
 4. De subsidieontvanger kan verplicht worden deel te nemen aan uitwisselingsbijeenkomsten en een professionaliseringstraject. Naast de reguliere bijeenkomsten van het Fonds met en voor de instellingen binnen de regeling, kan uitwisseling en begeleiding zich richten op bijvoorbeeld Fair Practice Code, Governance Code Cultuur of Code Diversiteit & Inclusie.
 
-#### Artikel 7.2. Kennisdeling, monitoring en evaluatie
+##### Artikel 7.2. Kennisdeling, monitoring en evaluatie
 
 1. De subsidieontvanger is verplicht tot kennisdeling, monitoring en evaluatie van de activiteiten waarvoor subsidie is verstrekt. De aanvrager zet in het projectplan uiteen op welke wijze hij uitvoering geeft aan kennisdeling en het individuele monitoring- en evaluatietraject en reserveert op de begroting minimaal 2% van de totale activiteitenlasten voor monitoring en evaluatie. Van de aanvrager wordt verwacht dat deze een monitorings- en evaluatiesystematiek kent, waarbij zowel de ontwikkeling en uitvoering van de activiteiten voor deelnemers en/of publiek als het functioneren van de eigen organisatie op regelmatige basis wordt gevolgd. Het desgevraagd aanleveren van kennis bij het fonds of het Landelijk Kennisinstituut Cultuureducatie en Amateurkunst (LKCA) ten behoeve van sectorbrede monitoring en evaluatie kunnen daar onderdeel van zijn.
 
@@ -448,24 +473,24 @@ Als achteraf blijkt dat er sprake is van een wezenlijke verandering die niet is 
 
 ### Hoofdstuk 8. - Slotbepalingen
 
-#### Artikel 8.1. Begrotingsvoorbehoud
+##### Artikel 8.1. Begrotingsvoorbehoud
 
 Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende middelen door de Minister van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 8.2. Hardheidsclausule
+##### Artikel 8.2. Hardheidsclausule
 
 Het Fonds kan in uitzonderlijke gevallen ten gunste van een belanghebbende van bepalingen in dit reglement afwijken indien toepassing daarvan leidt tot onbillijkheden van overwegende aard.
 
-#### Artikel 8.3. [Algemeen Subsidiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0045516)
+##### Artikel 8.3. [Algemeen Subsidiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0045516)
 
 De bepalingen in het [Algemeen Subsidiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0045516) zijn van toepassing, tenzij in deze regeling anders is bepaald.
 
-#### Artikel 8.4. Inwerkingtreding en vervaldatum
+##### Artikel 8.4. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 31 december 2029. Op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond, blijft het bepaalde in deze regeling van overeenkomstige toepassing.
 
-#### Artikel 8.5. Citeertitel
+##### Artikel 8.5. Citeertitel
 
 Deze regeling wordt aangehaald als: Meerjarenregeling Co-creatie 2025 – 2028 Fonds voor Cultuurparticipatie

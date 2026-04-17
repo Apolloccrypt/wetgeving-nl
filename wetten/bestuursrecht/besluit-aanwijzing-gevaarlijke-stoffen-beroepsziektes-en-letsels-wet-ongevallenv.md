@@ -1,16 +1,41 @@
 ---
 title: "Besluit aanwijzing gevaarlijke stoffen, beroepsziektes en letsels Wet ongevallenverzekering BES"
 identifier: "BWBR0028546"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028546"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028546"
+soort: "AMvB-BES"
+stam_id: "10843273"
+version_id: "17920472"
+internal_id: "C25425891"
+label_id: "10817844"
+dtd_version: "2.0"
+original_entry_into_force: "2011-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028546/2020-01-01/0"
+intitule_bron: "Stb.2010-607"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-23"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-366"
+original_signed_date: "2010-09-27"
+original_published_date: "2010-10-01"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2010-366"
+entry_into_force_date: "2011-01-01"
+jci_1_3: "jci1.3:c:BWBR0028546&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0028546&g=2020-01-01"
+citeertitel_status: "officieel"
+signed_date: "2010-09-27"
+entry_into_force: "2011-01-01"
 ---
-
 # Besluit aanwijzing gevaarlijke stoffen, beroepsziektes en letsels Wet ongevallenverzekering BES
 
-#### Artikel 1. Bepaling van gevaarlijke stoffen
+##### Artikel 1. Bepaling van gevaarlijke stoffen
 
 1. Als gevaarlijke stoffen, bedoeld in [artikel 1, eerste lid, onderdeel c, onder 1°, van de Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=1) worden de stoffen aangemerkt, die worden genoemd in kolom 1 van de tabel, vermeld in het tweede lid, mits daartoe grotere hoeveelheden van deze stoffen voorradig zijn of gebruikt worden dan de hoeveelheden, die in kolom 2 van de tabel, vermeld in het tweede lid, zijn aangegeven.
 
@@ -31,7 +56,7 @@ bron: "https://wetten.overheid.nl/BWBR0028546"
 | 11°. Aceton | 3.00 |
 | 12°. Wijngeest, spiritus of ethylalcohol, houtgeest of methylalcohol en mengsels van deze stoffen onderling, evenals mengsels, waarin die stoffen voorkomen, wanneer het gehalte vijf en zeventig (75) volumepercenten alcohol te boven gaat. | 25.00 |
 
-#### Artikel 2. Ziekten, die aangemerkt worden als ongeval
+##### Artikel 2. Ziekten, die aangemerkt worden als ongeval
 
 1. Als ongeval als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=1) wordt tevens aangemerkt het lijden aan de volgende ziekten:
 
@@ -103,11 +128,11 @@ bron: "https://wetten.overheid.nl/BWBR0028546"
 
 - c. voor wat betreft de ziekten, bedoeld in het eerste lid, onderdelen f en i: binnen drie maanden.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4. Lichamelijke letsels, die aangemerkt worden als ongeval
+##### Artikel 4. Lichamelijke letsels, die aangemerkt worden als ongeval
 
 Als ongeval als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=1) worden tevens de volgende lichamelijke letsels aangemerkt:
 
@@ -123,10 +148,10 @@ Als ongeval als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wet ongev
 
 - f. ander vergelijkbaar lichamelijk letsel als de letsels, bedoeld in de onderdelen a tot en met e.
 
-#### Artikel 5. Wettelijke grondslag
+##### Artikel 5. Wettelijke grondslag
 
 Dit besluit berust op [artikel 1, eerste lid, onderdelen c, onder 1°, en f, van de Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=1).
 
-#### Artikel 6. Citeertitel
+##### Artikel 6. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit aanwijzing gevaarlijke stoffen, beroepsziekten en letsels Wet ongevallenverzekering BES.

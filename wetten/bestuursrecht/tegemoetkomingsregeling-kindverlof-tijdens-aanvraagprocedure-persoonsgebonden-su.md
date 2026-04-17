@@ -1,22 +1,48 @@
 ---
-title: "Tegemoetkomingsregeling kindverlof tijdens aanvraagprocedure persoonsgebonden subsidie"
+title: "Besluit van de raad van bestuur van de Nederlandse Organisatie van Wetenschappelijk Onderzoek van 13 februari 2019, nr. 2019 RvB 038, houdende een tegemoetkomingsregeling bij de aanvraag van persoonsgebonden subsidies ter bevordering van de gelijke behandeling van aanvragers met kindverlof"
 identifier: "BWBR0041931"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-02-23
-laatste_update: 2019-02-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041931"
+country: "nl"
+rank: "zbo"
+publication_date: "2019-02-23"
+last_updated: "2019-02-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041931"
+soort: "zbo"
+stam_id: "15008883"
+version_id: "25709072"
+internal_id: "C36672831"
+label_id: "14958784"
+dtd_version: "2.0"
+original_entry_into_force: "2019-02-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041931/2019-02-23/0"
+intitule_bron: "Stcrt.2019-9314"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-02-13"
+intitule_published: "2019-02-22"
+intitule_in_force: "2019-02-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-9314"
+original_signed_date: "2019-02-13"
+original_published_date: "2019-02-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-9314"
+entry_into_force_date: "2019-02-23"
+jci_1_3: "jci1.3:c:BWBR0041931&z=2019-02-23&g=2019-02-23"
+jci_1_0: "1.0:c:BWBR0041931&g=2019-02-23"
+citeertitel_status: "officieel"
+short_title: "Tegemoetkomingsregeling kindverlof tijdens aanvraagprocedure persoonsgebonden subsidie"
+signed_date: "2019-02-13"
+entry_into_force: "2019-02-23"
 ---
-
 # Besluit van de raad van bestuur van de Nederlandse Organisatie van Wetenschappelijk Onderzoek van 13 februari 2019, nr. 2019 RvB 038, houdende een tegemoetkomingsregeling bij de aanvraag van persoonsgebonden subsidies ter bevordering van de gelijke behandeling van aanvragers met kindverlof
 
 Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81)
 
-#### Artikel 1
+##### Artikel 1
 
 Deze tegemoetkomingsregeling treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin deze wordt geplaatst en werkt terug tot 1 januari 2019.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze tegemoetkomingsregeling wordt aangehaald als **‘Tegemoetkomingsregeling kindverlof tijdens aanvraagprocedure persoonsgebonden subsidie’**
 

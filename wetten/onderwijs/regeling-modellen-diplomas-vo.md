@@ -1,13 +1,39 @@
 ---
-title: "Regeling modellen diploma’s VO"
+title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 10 juni 2008, nr. VO/OK/2008/51284, houdende modellen diploma’s, cijferlijsten, certificaten, getuigschrift, bewijs van ontheffing met verklaring v.w.o.-h.a.v.o.-v.m.b.o. en getuigschrift praktijkonderwijs (Regeling modellen diploma’s v.w.o.-h.a.v.o.-v.m.b.o.)"
 identifier: "BWBR0024042"
-categorie: "Onderwijs"
-publicatiedatum: 2026-03-14
-laatste_update: 2026-03-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024042"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-14"
+last_updated: "2026-03-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024042"
+soort: "ministeriele-regeling"
+stam_id: "9553023"
+version_id: "26493092"
+internal_id: "C37618071"
+label_id: "9530514"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024042/2026-03-14/0"
+intitule_bron: "Stcrt.2008-123"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-06-10"
+intitule_published: "2008-06-30"
+intitule_in_force: "2008-06-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-5997"
+original_signed_date: "2020-01-24"
+original_published_date: "2020-02-04"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2020-5997"
+entry_into_force_date: "2020-01-24"
+jci_1_3: "jci1.3:c:BWBR0024042&z=2026-03-14&g=2026-03-14"
+jci_1_0: "1.0:c:BWBR0024042&g=2026-03-14"
+citeertitel_status: "officieel"
+short_title: "Regeling modellen diploma’s VO"
+signed_date: "2020-01-24"
+entry_into_force: "2020-01-24"
 ---
-
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 10 juni 2008, nr. VO/OK/2008/51284, houdende modellen diploma’s, cijferlijsten, certificaten, getuigschrift, bewijs van ontheffing met verklaring v.w.o.-h.a.v.o.-v.m.b.o. en getuigschrift praktijkonderwijs (Regeling modellen diploma’s v.w.o.-h.a.v.o.-v.m.b.o.)
 
 Mede namens de Minister van Landbouw, Natuur en Voedselkwaliteit;
@@ -32,7 +58,7 @@ Gelet op:
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -58,11 +84,11 @@ In deze regeling wordt verstaan onder:
 
 - k. college-examen rekenen: college-examen rekenen als bedoeld in [artikel 12.46, eerste lid, van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=12.46).
 
-#### Artikel 2. Richtlijnen voor het invullen van de modellen en beveiligen waardepapier
+##### Artikel 2. Richtlijnen voor het invullen van de modellen en beveiligen waardepapier
 
 Richtlijnen voor het invullen van de in de navolgende artikelen genoemde modellen en beveiligen van het waardepapier zijn vastgelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=1&z=2026-03-14&g=2026-03-14).
 
-#### Artikel 3. Modellen diploma’s vwo, havo en vmbo
+##### Artikel 3. Modellen diploma’s vwo, havo en vmbo
 
 1. Als modellen voor de diploma’s eindexamen vwo, havo en vmbo worden gehanteerd de [bijlagen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2a&z=2026-03-14&g=2026-03-14), [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2b&z=2026-03-14&g=2026-03-14) respectievelijk [2c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2c&z=2026-03-14&g=2026-03-14).
 
@@ -70,27 +96,27 @@ Richtlijnen voor het invullen van de in de navolgende artikelen genoemde modelle
 
 3. Indien een examenkandidaat voor een of meer vakken examen heeft afgelegd op een hoger niveau dan de schoolsoort of leerweg waarvoor het diploma wordt afgegeven, worden in afwijking van het eerste lid voor de diploma’s eindexamen havo en vmbo de [bijlagen 2b2](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2b2&z=2026-03-14&g=2026-03-14) respectievelijk [2c2](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2c2&z=2026-03-14&g=2026-03-14) gehanteerd. Indien op grond van de [artikelen 3.47](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.47) en [3.48 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.48) tevens recht bestaat op de vermelding van het judicium cum laude op het diploma worden voor de diploma’s eindexamen havo en vmbo de [bijlagen 2b3](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2b3&z=2026-03-14&g=2026-03-14) respectievelijk [2c3](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=2c3&z=2026-03-14&g=2026-03-14) gehanteerd.
 
-#### Artikel 4. Modellen cijferlijsten vwo, havo en vmbo
+##### Artikel 4. Modellen cijferlijsten vwo, havo en vmbo
 
 De modellen voor de cijferlijsten en de bijlagen behorend bij de cijferlijsten eindexamen vwo, havo en vmbo worden vastgesteld volgens respectievelijk de [bijlagen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=3a&z=2026-03-14&g=2026-03-14) voor vwo, [3b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=3b&z=2026-03-14&g=2026-03-14) en [3c2](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=3c2&z=2026-03-14&g=2026-03-14) voor havo en [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=3c&z=2026-03-14&g=2026-03-14) en 3c2 voor vmbo.
 
-#### Artikel 5. Modellen voorlopige cijferlijsten vwo, havo en vmbo
+##### Artikel 5. Modellen voorlopige cijferlijsten vwo, havo en vmbo
 
 De modellen voor de voorlopige cijferlijsten en de bijlagen behorend bij de voorlopige cijferlijsten eindexamen vwo, havo en vmbo worden vastgesteld volgens respectievelijk de [bijlagen 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=4a&z=2026-03-14&g=2026-03-14) voor vwo, [4b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=4b&z=2026-03-14&g=2026-03-14) voor havo, en [4c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=4c&z=2026-03-14&g=2026-03-14) voor vmbo.
 
-#### Artikel 6. Model certificaat vmbo
+##### Artikel 6. Model certificaat vmbo
 
 Het model voor het certificaat vmbo wordt vastgesteld volgens [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=5&z=2026-03-14&g=2026-03-14) bij deze regeling.
 
-#### Artikel 7. Model getuigschrift basisberoepsgerichte leerweg vmbo
+##### Artikel 7. Model getuigschrift basisberoepsgerichte leerweg vmbo
 
 Het model voor het getuigschrift basisberoepsgerichte leerweg van het vmbo wordt vastgesteld volgens [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=6&z=2026-03-14&g=2026-03-14) bij deze regeling.
 
-#### Artikel 8. Model schooldiploma praktijkonderwijs
+##### Artikel 8. Model schooldiploma praktijkonderwijs
 
 Het model voor het schooldiploma praktijkonderwijs wordt vastgesteld volgens [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=7&z=2026-03-14&g=2026-03-14) van deze regeling.
 
-#### Artikel 9. Modellen vavo cijferlijsten deeleindexamen en certificaten vwo, havo en theoretische leerweg vmbo
+##### Artikel 9. Modellen vavo cijferlijsten deeleindexamen en certificaten vwo, havo en theoretische leerweg vmbo
 
 De modellen voor:
 
@@ -98,7 +124,7 @@ De modellen voor:
 
 - b. de vavo certificaten vwo, havo en theoretische leerweg vmbo worden vastgesteld volgens respectievelijk de [bijlagen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=9a&z=2026-03-14&g=2026-03-14), [9b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=9b&z=2026-03-14&g=2026-03-14) en [9c](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=9c&z=2026-03-14&g=2026-03-14) bij deze regeling.
 
-#### Artikel 10. Modellen staatsexamen diploma’s, certificaten en cijferlijsten vwo, havo en vmbo
+##### Artikel 10. Modellen staatsexamen diploma’s, certificaten en cijferlijsten vwo, havo en vmbo
 
 1. Als modellen voor:
 
@@ -112,21 +138,21 @@ De modellen voor:
 
 2. Indien een examenkandidaat voor een of meer vakken examen heeft afgelegd op een hoger niveau dan de schoolsoort of leerweg waarvoor het diploma wordt afgegeven, worden in afwijking van het eerste lid, onderdeel a, voor de diploma’s staatsexamen havo en vmbo de [bijlagen 10b2](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=10b2&z=2026-03-14&g=2026-03-14) respectievelijk [10c2](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=10c2&z=2026-03-14&g=2026-03-14) gehanteerd. Indien op grond van de [artikelen 4.30](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=4.30) en [4.31 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=4.31) tevens recht bestaat op de vermelding van het judicium cum laude op het diploma worden voor de diploma’s staatsexamen havo en vmbo de [bijlagen 10b3](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=10b3&z=2026-03-14&g=2026-03-14) respectievelijk [10c3](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=10c3&z=2026-03-14&g=2026-03-14) gehanteerd.
 
-#### Artikel 11. Bewijs van ontheffing
+##### Artikel 11. Bewijs van ontheffing
 
 Het model voor het bewijs van ontheffing ten behoeve van het vwo, havo en vmbo en de bijbehorende verklaring worden vastgesteld volgens respectievelijk de [bijlagen 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=14a&z=2026-03-14&g=2026-03-14) en [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=14b&z=2026-03-14&g=2026-03-14) bij deze regeling.
 
-#### Artikel 12. Intrekking voorafgaande bepalingen en toepassing oude modellen diploma’s en cijferlijsten
+##### Artikel 12. Intrekking voorafgaande bepalingen en toepassing oude modellen diploma’s en cijferlijsten
 
 1. De [regeling Modellen diploma’s v.w.o.-h.a.v.o. profiel](https://wetten.overheid.nl/jci1.3:c:BWBR0012308) van 9 maart 2001, kenmerk VO/BOB/2001/10037, wordt ingetrokken.
 
 2. De in het eerste lid genoemde regeling blijft van toepassing op de volgens de bij of krachtens de [WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) gegeven voorschriften zoals luidend tot en met 31 juli 2007 afgelegde (deel)eindexamens en (deel)staatsexamens vwo en havo.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2009.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling modellen diploma’s VO.
 
@@ -1759,7 +1785,7 @@ Doorhalingen en/of wijzigingen maken dit diploma ongeldig.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 12a. Omhang
+##### Artikel 12a. Omhang
 
 Deze regeling is gebaseerd op de [artikelen 2.58, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.58) en [2.80, derde lid van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.80), en de [artikelen 3.48](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.48), [3.49](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.49). [3.67, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.67) en [4.9, vijfde lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=4.9).
 
@@ -2022,7 +2048,7 @@ Doorhalingen en/of wijzigingen maken dit diploma ongeldig.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 11a. Verklaring als bedoeld in [artikel 2.59, eerste lid, WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.59)
+##### Artikel 11a. Verklaring als bedoeld in [artikel 2.59, eerste lid, WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.59)
 
 Als model voor de verklaring bedoeld in [2.59 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.59), die wordt uitgereikt aan de leerling die de school verlaat en aan wie geen diploma, als bedoeld in [artikel 2.58, tweede en derde lid, van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.58) kan worden uitgereikt, wordt [bijlage 15](https://wetten.overheid.nl/jci1.3:c:BWBR0024042&bijlage=15&z=2026-03-14&g=2026-03-14) gehanteerd.
 

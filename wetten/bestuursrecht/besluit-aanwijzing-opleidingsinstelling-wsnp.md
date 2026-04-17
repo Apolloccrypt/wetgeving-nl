@@ -1,13 +1,35 @@
 ---
 title: "Besluit aanwijzing opleidingsinstelling Wsnp"
 identifier: "BWBR0037321"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-01-01
-laatste_update: 2016-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037321"
+country: "nl"
+rank: "zbo"
+publication_date: "2016-01-01"
+last_updated: "2016-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037321"
+soort: "zbo"
+stam_id: "13337053"
+version_id: "22855282"
+internal_id: "C33044941"
+label_id: "13304894"
+dtd_version: "2.0"
+original_entry_into_force: "2016-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037321/2016-01-01/0"
+intitule_bron: "Stcrt.2015-44931"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2015-12-11"
+intitule_in_force: "2015-12-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-44931"
+original_published_date: "2015-12-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-44931"
+entry_into_force_date: "2016-01-01"
+jci_1_3: "jci1.3:c:BWBR0037321&z=2016-01-01&g=2016-01-01"
+jci_1_0: "1.0:c:BWBR0037321&g=2016-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2016-01-01"
 ---
-
 # Besluit aanwijzing opleidingsinstelling Wsnp
 
 Gelet op:
@@ -28,7 +50,7 @@ Hoofdstuk 2.4. van de Beleidsregels inschrijving bewindvoerders en bewindvoerder
 
 stelt de Raad voor Rechtsbijstand het Besluit aanwijzing opleidingsinstelling Wsnp als volgt vast:
 
-#### Artikel 1. Begrippen en definities
+##### Artikel 1. Begrippen en definities
 
 In dit besluit wordt verstaan onder:
 
@@ -56,7 +78,7 @@ In dit besluit wordt verstaan onder:
 
 ### Voorwaarden
 
-#### Artikel 2. Verzoek tot aanwijzing
+##### Artikel 2. Verzoek tot aanwijzing
 
 1. Een opleidingsinstelling dient de Raad schriftelijk te verzoeken om haar aan te wijzen als erkende opleidingsinstelling. De aanwijzing kan gelden voor een basisopleiding tot bewindvoerder Wsnp of een opleiding in het kader van permanente educatie Wsnp.
 
@@ -66,7 +88,7 @@ In dit besluit wordt verstaan onder:
 
 4. De Raad wijst het verzoek toe, indien het kwaliteitsplan van de opleidingsinstelling voldoet aan de voorwaarden als gesteld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037321&artikel=3&z=2016-01-01&g=2016-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037321&artikel=4&z=2016-01-01&g=2016-01-01) van dit besluit
 
-#### Artikel 3. Het kwaliteitsplan
+##### Artikel 3. Het kwaliteitsplan
 
 In het kwaliteitsplan worden tenminste de volgende onderdelen uitvoerig beschreven:
 
@@ -88,7 +110,7 @@ In het kwaliteitsplan worden tenminste de volgende onderdelen uitvoerig beschrev
 
 - i. de wijze waarop alle informatie van de aangeboden scholingsactiviteiten wordt gearchiveerd.
 
-#### Artikel 4. Portfolio
+##### Artikel 4. Portfolio
 
 1. Van elke individuele scholingsactiviteit wordt een digitaal portfolio bijgehouden.
 
@@ -112,13 +134,13 @@ In het kwaliteitsplan worden tenminste de volgende onderdelen uitvoerig beschrev
 
 - i. de wijze waarop scholingsactiviteiten worden geëvalueerd.
 
-#### Artikel 5. Controle
+##### Artikel 5. Controle
 
 1. Om de kwaliteit van een erkende opleidingsinstelling te waarborgen kan de Raad audits uitvoeren.
 
 2. De erkende opleidingsinstelling overlegt op verzoek van de Raad informatie, zodat een audit kan worden uitgevoerd.
 
-#### Artikel 6. Intrekken aanwijzing
+##### Artikel 6. Intrekken aanwijzing
 
 De Raad kan een aanwijzing tot erkende opleiding intrekken indien:
 
@@ -126,12 +148,12 @@ De Raad kan een aanwijzing tot erkende opleiding intrekken indien:
 
 - b. blijkt dat de opleidingsinstelling niet meer voldoet aan het ingediende kwaliteitsplan.
 
-#### Artikel 7. Slotbepalingen
+##### Artikel 7. Slotbepalingen
 
 Dit besluit wordt aangehaald als Besluit aanwijzing opleidingsinstelling Wsnp.
 
 Met de inwerkingtreding van dit besluit komt het [Besluit basisopleiding bewindvoerder Wsnp II](https://wetten.overheid.nl/jci1.3:c:BWBR0034032) (Staatscourant 2013, 29043) te vervallen.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Dit besluit treedt in werking op 1 januari 2016.

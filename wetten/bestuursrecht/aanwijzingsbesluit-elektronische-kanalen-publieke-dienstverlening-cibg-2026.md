@@ -1,20 +1,46 @@
 ---
-title: "Aanwijzingsbesluit elektronische kanalen publieke dienstverlening CIBG 2026"
+title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 12 januari 2026, CIBG 26-09230, tot aanwijzing van elektronische kanalen voor het indienen van berichten in de zin van artikel 2:13, tweede lid, van de Algemene wet bestuursrecht bij het Agentschap CIBG (Aanwijzingsbesluit elektronische kanalen publieke dienstverlening CIBG 2026)"
 identifier: "BWBR0052205"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-03-01
-laatste_update: 2026-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052205"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-01"
+last_updated: "2026-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052205"
+soort: "ministeriele-regeling"
+stam_id: "17737673"
+version_id: "31341812"
+internal_id: "C44793901"
+label_id: "17636074"
+dtd_version: "2.0"
+original_entry_into_force: "2026-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052205/2026-03-01/0"
+intitule_bron: "Stcrt.2026-1833"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-01-12"
+intitule_published: "2026-01-23"
+intitule_in_force: "2026-01-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-1833"
+original_signed_date: "2026-01-12"
+original_published_date: "2026-01-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-1833"
+entry_into_force_date: "2026-03-01"
+jci_1_3: "jci1.3:c:BWBR0052205&z=2026-03-01&g=2026-03-01"
+jci_1_0: "1.0:c:BWBR0052205&g=2026-03-01"
+citeertitel_status: "officieel"
+short_title: "Aanwijzingsbesluit elektronische kanalen publieke dienstverlening CIBG 2026"
+signed_date: "2026-01-12"
+entry_into_force: "2026-03-01"
 ---
-
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 12 januari 2026, CIBG 26-09230, tot aanwijzing van elektronische kanalen voor het indienen van berichten in de zin van artikel 2:13, tweede lid, van de Algemene wet bestuursrecht bij het Agentschap CIBG (Aanwijzingsbesluit elektronische kanalen publieke dienstverlening CIBG 2026)
 
 Gelet op [artikel 2:13, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:13);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Dit besluit verstaat onder:
 
@@ -24,11 +50,11 @@ Dit besluit verstaat onder:
 
 - c. **CIBG:** de baten-lastendienst CIBG, als bedoeld in [artikel 4 van het Organisatiebesluit VWS 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050921&artikel=4).
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 Dit aanwijzingsbesluit is van toepassing op het CIBG.
 
-#### Artikel 3. Aanwijzing CIBG-brede kanalen
+##### Artikel 3. Aanwijzing CIBG-brede kanalen
 
 1. Dit aanwijsbesluit geeft aan op welke wijze burgers, bedrijven, stichtingen en andere rechtspersonen het CIBG digitaal kunnen benaderen. Burgers en bedrijven (en andere rechtspersonen) houden de mogelijkheid om op andere manieren te communiceren met het CIBG, zoals per telefoon of per post.
 
@@ -40,7 +66,7 @@ Dit aanwijzingsbesluit is van toepassing op het CIBG.
 
 5. Voor het indienen van een bericht in het kader van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) wordt het volgende webformulier en e-mailadres aangewezen: [https://www.rijksoverheid.nl/ministeries/ministerie-van-volksgezondheid-welzijn-en-sport/contact/woo-verzoek-indienen](https://www.rijksoverheid.nl/ministeries/ministerie-van-volksgezondheid-welzijn-en-sport/contact/woo-verzoek-indienen) en Vws.woo@minvws.nl.
 
-#### Artikel 4. Aanwijzing kanalen per afdeling
+##### Artikel 4. Aanwijzing kanalen per afdeling
 
 1. Voor berichten met betrekking tot dienstverlening van de afdeling Authenticatie en Gegevensverstrekking (A&G) wordt verwezen naar [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052205&bijlage=1&z=2026-03-01&g=2026-03-01). In de bijlage zijn de kanalen opgenomen die zijn aangewezen en die zien op specifieke processen en diensten van de afdeling Authenticatie en Gegevensverstrekking (A&G).
 
@@ -52,7 +78,7 @@ Dit aanwijzingsbesluit is van toepassing op het CIBG.
 
 5. Voor berichten met betrekking tot dienstverlening van de afdeling Bureau Buitenlandse Zorgverleners (BBZ) wordt verwezen naar [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052205&bijlage=5&z=2026-03-01&g=2026-03-01). In de bijlage zijn de kanalen opgenomen die zijn aangewezen en die zien op specifieke processen en diensten van Bureau Buitenlandse Zorgverleners (BBZ).
 
-#### Artikel 5. Citeertitel
+##### Artikel 5. Citeertitel
 
 Dit besluit wordt aangehaald als: Aanwijzingsbesluit elektronische kanalen publieke dienstverlening CIBG 2026.
 

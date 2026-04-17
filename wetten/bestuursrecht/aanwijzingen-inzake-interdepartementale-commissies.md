@@ -1,13 +1,37 @@
 ---
 title: "Aanwijzingen inzake interdepartementale commissies"
 identifier: "BWBR0004127"
-categorie: "Bestuursrecht"
-publicatiedatum: 1987-04-26
-laatste_update: 1987-04-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004127"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1987-04-26"
+last_updated: "1987-04-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004127"
+soort: "ministeriele-regeling"
+stam_id: "3799243"
+version_id: "5581972"
+internal_id: "C5775061"
+label_id: "3778854"
+dtd_version: "2.0"
+original_entry_into_force: "1987-04-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004127/1987-04-26/0"
+intitule_bron: "Stcrt.1987-67"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1987-03-11"
+intitule_published: "1987-04-06"
+intitule_in_force: "1987-04-06"
+intitule_status: "goed"
+original_publication: "Stcrt.1987-67"
+original_signed_date: "1987-03-11"
+original_published_date: "1987-04-06"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1987-04-26"
+jci_1_3: "jci1.3:c:BWBR0004127&z=1987-04-26&g=1987-04-26"
+jci_1_0: "1.0:c:BWBR0004127&g=1987-04-26"
+citeertitel_status: "officieel"
+signed_date: "1987-03-11"
+entry_into_force: "1987-04-26"
 ---
-
 # Aanwijzingen inzake interdepartementale commissies
 
 In het project Sanering interdepartementale commissies, een deelproject van het project reorganisatie rijksdienst, zijn alle in 1984–1985 bestaande ongeveer 250 ambtelijke interdepartementale commissies doorgelicht. Op grond van de voorstellen die hieruit voortvloeien heeft het kabinet beslissingen genomen over het opheffen of samenvoegen van interdepartementale commissies en over het wijzigen van hun taak, samenstelling en of werkwijze 1Kamerstukken 11, 1984–1985, 17353, nr. 23, en kamerstukken 11, 1986–1987, 17353, nr. 28..

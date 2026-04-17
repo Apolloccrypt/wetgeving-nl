@@ -1,24 +1,50 @@
 ---
-title: "Besluit aanwijzing verplaatsen en verkabelen delen elektriciteitssysteem"
+title: "Besluit van de Minister van Economische Zaken en Klimaat van 15 oktober 2018, nr. WJZ/18250666, tot aanwijzing van de delen van hoogspanningsnetten als bedoeld in artikel 22a van de Elektriciteitswet 1998"
 identifier: "BWBR0041518"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041518"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041518"
+soort: "ministeriele-regeling"
+stam_id: "14850263"
+version_id: "31233722"
+internal_id: "C44671711"
+label_id: "14801814"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041518/2026-01-01/0"
+intitule_bron: "Stcrt.2018-59037"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-10-15"
+intitule_published: "2018-11-08"
+intitule_in_force: "2018-11-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-43872"
+original_signed_date: "2025-12-14"
+original_published_date: "2025-12-17"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-43872"
+entry_into_force_date: "2025-12-14"
+jci_1_3: "jci1.3:c:BWBR0041518&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0041518&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit aanwijzing verplaatsen en verkabelen delen elektriciteitssysteem"
+signed_date: "2025-12-14"
+entry_into_force: "2025-12-14"
 ---
-
 # Besluit van de Minister van Economische Zaken en Klimaat van 15 oktober 2018, nr. WJZ/18250666, tot aanwijzing van de delen van hoogspanningsnetten als bedoeld in artikel 22a van de Elektriciteitswet 1998
 
 Gelet op [artikel 22a, eerste lid, onderdeel b, en zesde lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=22a);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Als deel van een systeem als bedoeld in [artikel 3.27, eerste lid, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.27), zijn de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041518&bijlage=1&z=2026-01-01&g=2026-01-01) bij dit besluit opgenomen delen aangewezen.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van 1 januari 2019.
 
@@ -116,11 +142,11 @@ Dit besluit treedt in werking met ingang van 1 januari 2019.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Dit besluit berust op [artikel 3.27, eerste lid, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.27).
 
-#### Artikel 2a
+##### Artikel 2a
 
 Dit besluit wordt aangehaald als: Besluit aanwijzing verplaatsen en verkabelen delen elektriciteitssysteem
 

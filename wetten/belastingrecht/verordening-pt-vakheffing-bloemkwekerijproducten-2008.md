@@ -1,13 +1,38 @@
 ---
-title: "Verordening PT vakheffing bloemkwekerijproducten 2008"
+title: "Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2007, houdende de vaststelling van een vakheffing voor bloemkwekerijproducten voor het jaar 2008 (Verordening PT vakheffing bloemkwekerijproducten 2008)"
 identifier: "BWBR0022727"
-categorie: "Belastingrecht"
-publicatiedatum: 2007-10-21
-laatste_update: 2007-10-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022727"
+country: "nl"
+rank: "pbo"
+publication_date: "2007-10-21"
+last_updated: "2007-10-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022727"
+soort: "pbo"
+stam_id: "9253563"
+version_id: "14841652"
+internal_id: "C20193531"
+label_id: "9232244"
+dtd_version: "2.0"
+original_entry_into_force: "2007-10-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022727/2007-10-21/0"
+intitule_bron: "Vbbo.2007-64"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-07-03"
+intitule_published: "2007-10-19"
+intitule_in_force: "2007-10-19"
+intitule_status: "goed"
+original_publication: "Vbbo.2007-64"
+original_signed_date: "2007-07-03"
+original_published_date: "2007-10-19"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2007-10-21"
+jci_1_3: "jci1.3:c:BWBR0022727&z=2007-10-21&g=2007-10-21"
+jci_1_0: "1.0:c:BWBR0022727&g=2007-10-21"
+citeertitel_status: "officieel"
+short_title: "Verordening PT vakheffing bloemkwekerijproducten 2008"
+signed_date: "2007-07-03"
+entry_into_force: "2007-10-21"
 ---
-
 # Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2007, houdende de vaststelling van een vakheffing voor bloemkwekerijproducten voor het jaar 2008 (Verordening PT vakheffing bloemkwekerijproducten 2008)
 
 gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126);
@@ -20,7 +45,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=1) en [2 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=2).
 
@@ -44,7 +69,7 @@ Besluit:
 
 #### § 2. Heffingsplicht
 
-#### Artikel 2
+##### Artikel 2
 
 1. De kweker, onderscheidenlijk de importeur, is over de door hem verhandelde, voor zover door hem gekweekte bloemkwekerijproducten of teeltmateriaal, onderscheidenlijk door hem geïmporteerde bloemkwekerijproducten of geïmporteerd teeltmateriaal, een heffing verschuldigd.
 
@@ -52,7 +77,7 @@ Besluit:
 
 3. De heffing als bedoeld in het eerste en tweede lid, wordt opgelegd bij wege van een aanslag, met inachtneming van het in de volgende artikelen bepaalde.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022727&paragraaf=2&artikel=2&z=2007-10-21&g=2007-10-21) doet de kweker of importeur bij het productschap aangifte van de door hem verhandelde, voor zover door hem gekweekte, onderscheidenlijk door hem geïmporteerde bloemkwekerijproducten of geïmporteerd teeltmateriaal.
 
@@ -60,7 +85,7 @@ Besluit:
 
 #### § 3. Grondslag en hoogte
 
-#### Artikel 4
+##### Artikel 4
 
 1. De heffing die de kweker of importeur is verschuldigd, wordt opgelegd naar de omzet onderscheidenlijk het totaalbedrag van de invoerwaarde, gerealiseerd in het jaar waarover de heffing verschuldigd is.
 
@@ -114,21 +139,21 @@ Voor kwekers van bloemzaden wordt bij de heffing, bij de berekening en oplegging
 
 #### § 4. Oplegging en inning
 
-#### Artikel 5
+##### Artikel 5
 
 1. De oplegging van de krachtens deze verordening verschuldigde heffing vindt plaats na afloop van het jaar waarover de heffing verschuldigd is en geschiedt door toezending of uitreiking aan de heffingsplichtige van een heffingsnota.
 
 2. In afwijking van het eerste lid kan de heffingsplichtige een voorlopige heffing worden opgelegd tot het bedrag waarop de heffing vermoedelijk zal worden vastgesteld. De voorlopige heffing wordt verrekend met de krachtens deze verordening verschuldigde heffing.
 
-#### Artikel 6
+##### Artikel 6
 
 Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een ambtshalve schatting, niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
-#### Artikel 7
+##### Artikel 7
 
 Een kweker, onderscheidenlijk een importeur van bloemkwekerijproducten wordt geacht, indien hij door hem gekweekte, onderscheidenlijk geïmporteerde bloemkwekerijproducten of teeltmateriaal door tussenkomst van een veiling verhandelt, aan zijn verplichtingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022727&paragraaf=2&artikel=2&z=2007-10-21&g=2007-10-21) ten aanzien van de op vorenbedoelde wijze verhandelde producten te hebben voldaan, indien hij de desbetreffende veiling heeft gemachtigd namens hem aan het productschap de door hem verschuldigde heffing te voldoen en deze heffing door het productschap is ontvangen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De verkoper van bloemkwekerijproducten heeft het recht aan de afnemers van door hem gekweekte bloemkwekerijproducten onderscheidenlijk van door hem rechtstreeks doorverhandelde bloemkwekerijproducten, het hieronder genoemde heffingspercentage van het verkoopbedrag van de door hem aan die afnemers verhandelde bloemkwekerijproducten in rekening te brengen van: 0,40%.
 
@@ -136,7 +161,7 @@ Een kweker, onderscheidenlijk een importeur van bloemkwekerijproducten wordt gea
 
 3. Deze bepaling is niet van toepassing op de verkoopvan bloemzaden en teeltmateriaal.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De gegevens verkregen uit hoofde van het bepaalde in deze verordening dienen in handen van de voorzitter of door deze aan te wijzen personen van het secretariaat van het productschap te worden gesteld.
 
@@ -144,11 +169,11 @@ Een kweker, onderscheidenlijk een importeur van bloemkwekerijproducten wordt gea
 
 #### § 5. Slotbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 Deze verordening treedt in werking met ingang van de tweede dag na de datum van publicatie in het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze verordening wordt aangehaald als: Verordening PT vakheffing bloemkwekerijproducten 2008.
 

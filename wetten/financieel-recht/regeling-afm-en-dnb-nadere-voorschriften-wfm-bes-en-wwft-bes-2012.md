@@ -1,13 +1,38 @@
 ---
 title: "Regeling AFM en DNB nadere voorschriften Wfm BES en Wwft BES 2012"
 identifier: "BWBR0031920"
-categorie: "Financieel recht"
-publicatiedatum: 2012-08-28
-laatste_update: 2012-08-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031920"
+country: "nl"
+rank: "zbo"
+publication_date: "2012-08-28"
+last_updated: "2012-08-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031920"
+soort: "zbo"
+stam_id: "11829373"
+version_id: "19613022"
+internal_id: "C27514781"
+label_id: "11801734"
+dtd_version: "2.0"
+original_entry_into_force: "2012-08-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031920/2012-08-28/0"
+intitule_bron: "Stcrt.2012-17536"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-08-21"
+intitule_published: "2012-08-27"
+intitule_in_force: "2012-08-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-17536"
+original_signed_date: "2012-08-21"
+original_published_date: "2012-08-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-17536"
+entry_into_force_date: "2012-08-28"
+jci_1_3: "jci1.3:c:BWBR0031920&z=2012-08-28&g=2012-08-28"
+jci_1_0: "1.0:c:BWBR0031920&g=2012-08-28"
+citeertitel_status: "officieel"
+signed_date: "2012-08-21"
+entry_into_force: "2012-08-28"
 ---
-
 # Regeling AFM en DNB nadere voorschriften Wfm BES en Wwft BES 2012
 
 Gelet op de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) (Stb. 2011, 612), in het bijzonder [hoofdstuk 3, paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&paragraaf=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&paragraaf=3), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&paragraaf=5) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&paragraaf=7);
@@ -20,7 +45,7 @@ Besljuiten:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. (definities)
+##### Artikel 1. (definities)
 
 In deze regeling wordt verstaan onder:
 
@@ -46,7 +71,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 3.1. Nadere regels van de AFM en DNB met betrekking tot de integere bedrijfsuitoefening
 
-#### Artikel 3. (integriteitsgevoelige functies)
+##### Artikel 3. (integriteitsgevoelige functies)
 
 Voor de toepassing van [artikel 3:16 van het Bfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=3:16) kwalificeren de AFM en DNB in elk geval de volgende categorieën functies bij een financiële onderneming als integriteitsgevoelig:
 
@@ -64,7 +89,7 @@ Voor de toepassing van [artikel 3:16 van het Bfm BES](https://wetten.overheid.nl
 
 #### § 3.2. Nadere regels van DNB met betrekking tot de integere en beheerste bedrijfsuitoefening
 
-#### Artikel 4. (afgeschermde rekeningen kredietinstellingen)
+##### Artikel 4. (afgeschermde rekeningen kredietinstellingen)
 
 1. In dit artikel wordt verstaan onder:
 
@@ -94,7 +119,7 @@ Voor de toepassing van [artikel 3:16 van het Bfm BES](https://wetten.overheid.nl
 
 3. Dit artikel heeft betrekking op nog open te stellen afgeschermde rekeningen die worden aangehouden bij een kredietinstelling, alsmede op afgeschermde rekeningen die reeds bestonden op het moment van inwerkingtreding van deze regeling.
 
-#### Artikel 5. (vermogensscheiding geldtransactiekantoren)
+##### Artikel 5. (vermogensscheiding geldtransactiekantoren)
 
 In het kader van de beheerste uitoefening van zijn bedrijf, bedoeld in [artikel 3:9, tweede lid, aanhef en onderdelen a en b, van de Wfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=3:9), treft een geldtransactiekantoor dat in of vanuit Caribisch Nederland geldtransacties uitvoert in de zin van onderdeel c van de definitie van **geldtransactie** in [artikel 1:1 van de Wfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=1:1), adequate maatregelen om de voor de uitvoering van dergelijke geldtransacties ontvangen en nog niet betaalde of betaalbaar gestelde gelden of geldswaarden veilig te stellen.
 
@@ -104,7 +129,7 @@ In het kader van de beheerste uitoefening van zijn bedrijf, bedoeld in [artikel 
 
 #### § 4.1. Prudentiële voorschriften met betrekking tot kredietinstellingen
 
-#### Artikel 7. (financiële waarborgen kredietinstellingen)
+##### Artikel 7. (financiële waarborgen kredietinstellingen)
 
 1. Een kredietinstelling met zetel in een openbaar lichaam berekent haar solvabiliteit en liquiditeit conform de regels ter zake in de rapportagestaten, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&hoofdstuk=4&paragraaf=4.1&artikel=8&z=2012-08-28&g=2012-08-28), en houdt zich in dat kader tevens aan de navolgende voorschriften van de CBCS:
 
@@ -142,7 +167,7 @@ In het kader van de beheerste uitoefening van zijn bedrijf, bedoeld in [artikel 
 
 7. Met betrekking tot de erkenning van kredietbeoordelingbureaus, bedoeld in [artikel 4:13 van het Bfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=4:13), is het bepaalde in [artikel 88 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=88) (Stb. 2006, 519, zoals nadien gewijzigd) van overeenkomstige toepassing.
 
-#### Artikel 8. (staten kredietinstellingen)
+##### Artikel 8. (staten kredietinstellingen)
 
 1. Een kredietinstelling met zetel in de openbare lichamen dient bij DNB de volgende staten in:
 
@@ -168,7 +193,7 @@ In het kader van de beheerste uitoefening van zijn bedrijf, bedoeld in [artikel 
 
 #### § 4.2. Prudentiële voorschriften met betrekking tot verzekeraars
 
-#### Artikel 9. (staten verzekeraars)
+##### Artikel 9. (staten verzekeraars)
 
 1. Een levensverzekeraar of schadeverzekeraar met zetel in de openbare lichamen dient bij DNB de volgende staten in:
 
@@ -192,27 +217,27 @@ In het kader van de beheerste uitoefening van zijn bedrijf, bedoeld in [artikel 
 
 #### § 4.2. Prudentiële voorschriften met betrekking tot verzekeraars
 
-#### Artikel 10. (geconsolideerd toezicht op groep van kredietinstellingen)
+##### Artikel 10. (geconsolideerd toezicht op groep van kredietinstellingen)
 
 Ter uitvoering van de [artikelen 4:48](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=4:48) en [4:49 van het Bfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=4:49) voldoet een kredietinstelling met zetel in de openbare lichamen die deel uitmaakt van een groep op geconsolideerd niveau aan de **Provisions for the Disclosure of Consolidated Financial Highlights of Domestic Banking Institutions** van de CBCS van januari 2009 en januari 2010, inclusief de bijbehorende Appendices.
 
-#### Artikel 11. (aanvullend toezicht op groep van verzekeraars)
+##### Artikel 11. (aanvullend toezicht op groep van verzekeraars)
 
 Ter uitvoering van de [artikelen 4:50](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=4:50) en [4:51 van het Bfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=4:51) voldoet een verzekeraar met zetel in Caribisch Nederland die deel uitmaakt van een groep op geconsolideerd niveau aan de **Provisions for the Disclosure of Consolidated Financial Highlights of Insurance Companies, Transacting Business in the Netherlands Antilles**van de CBCS van januari 2010, inclusief de bijbehorende Appendices 1 tot en met 3 (Life insurers) dan wel de bijbehorende Appendices 4 tot en met 6 (Indemnity insurers).
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 12. (wijzigingen van deze regeling)
+##### Artikel 12. (wijzigingen van deze regeling)
 
 Deze regeling kan worden gewijzigd bij besluit van de AFM en DNB gezamenlijk, dan wel bij afzonderlijk besluit van de AFM onderscheidenlijk van DNB, voor zover het domein van de andere toezichtautoriteit door die wijziging niet wordt geraakt.
 
-#### Artikel 13. (inwerkingtreding)
+##### Artikel 13. (inwerkingtreding)
 
 1. Met uitzondering van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&hoofdstuk=2&artikel=2&z=2012-08-28&g=2012-08-28), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&hoofdstuk=3&paragraaf=3.2&artikel=5&z=2012-08-28&g=2012-08-28) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&hoofdstuk=3&paragraaf=3.3&artikel=6&z=2012-08-28&g=2012-08-28), treedt deze regeling in werking met ingang van de dag na de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst, met terugwerkende kracht tot en met 1 juli 2012.
 
 2. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&hoofdstuk=2&artikel=2&z=2012-08-28&g=2012-08-28), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&hoofdstuk=3&paragraaf=3.2&artikel=5&z=2012-08-28&g=2012-08-28) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0031920&hoofdstuk=3&paragraaf=3.3&artikel=6&z=2012-08-28&g=2012-08-28) van deze regeling treden in werking met ingang van de dag na de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst.
 
-#### Artikel 14. (citeertitel)
+##### Artikel 14. (citeertitel)
 
 Deze regeling wordt aangehaald als: Regeling AFM en DNB nadere voorschriften Wfm BES en Wwft BES 2012.
 
@@ -234,7 +259,7 @@ Niet opgenomen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2. (beroepsaansprakelijkheidsverzekering – BAV)
+##### Artikel 2. (beroepsaansprakelijkheidsverzekering – BAV)
 
 De beroepsaansprakelijkheidsverzekering (BAV), bedoeld in [artikel 3:24 van de Wfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=3:24) en [artikel 4:47 van het Bfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=4:47), dekt de aansprakelijkheid van de adviseur, bemiddelaar, niet zijnde een bemiddelaar in effecten, of de gevolmachtigd agent of ondergevolmachtigd agent voor een bedrag van ten minste USD 50.000 per jaar.
 
@@ -246,7 +271,7 @@ De beroepsaansprakelijkheidsverzekering (BAV), bedoeld in [artikel 3:24 van de W
 
 #### § 3.3. Sanctiewetgeving
 
-#### Artikel 6. (meldingsplicht aan DNB op grond van de sanctiewetgeving)
+##### Artikel 6. (meldingsplicht aan DNB op grond van de sanctiewetgeving)
 
 1. Een melding door een financiële onderneming op grond van [artikel 3.13, eerste lid, van de Wwft BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=3.13) dat de identiteit van een relatie overeenkomt met een natuurlijk persoon, rechtspersoon of entiteit als bedoeld in de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) en de [Sanctieregeling BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029611) (Stcrt. 2011, 2873) en de op grond van die wet vastgestelde sanctieregelingen en sanctiebesluiten met betrekking tot het financieel verkeer, geschiedt door middel van het daartoe door DNB vastgestelde **Meldformat**.
 

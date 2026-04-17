@@ -1,13 +1,36 @@
 ---
-title: "Onderlinge regeling opvolging en boedelscheiding Algemeen Pensioenfonds Nederlandse Antillen en opvolging van enkele andere aanverwante regelingen"
+title: "Onderlinge regeling rechtsopvolging en boedelscheiding APNA alsmede de rechtsopvolging van een aantal niet kapitaal gefinancierde pensioen(vervangende) verplichtingen van het Land de Nederlandse Antillen"
 identifier: "BWBR0028963"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2010-10-02
-laatste_update: 2010-10-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028963"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-10-02"
+last_updated: "2010-10-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028963"
+soort: "ministeriele-regeling"
+stam_id: "11077883"
+version_id: "18106262"
+internal_id: "C25174581"
+label_id: "11052384"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028963/2010-10-02/0"
+intitule_bron: "Stcrt.2010-14723"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-14723"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-14723"
+entry_into_force_date: "2010-10-02"
+jci_1_3: "jci1.3:c:BWBR0028963&z=2010-10-02&g=2010-10-02"
+jci_1_0: "1.0:c:BWBR0028963&g=2010-10-02"
+citeertitel_status: "officieel"
+short_title: "Onderlinge regeling opvolging en boedelscheiding Algemeen Pensioenfonds Nederlandse Antillen en opvolging van enkele andere aanverwante regelingen"
+entry_into_force: "2010-10-02"
 ---
-
 # Onderlinge regeling rechtsopvolging en boedelscheiding APNA alsmede de rechtsopvolging van een aantal niet kapitaal gefinancierde pensioen(vervangende) verplichtingen van het Land de Nederlandse Antillen
 
 Hierna gezamenlijk te noemen: ‘Partijen’;
@@ -34,7 +57,7 @@ Komen het volgende overeen:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1. Begripsbepaling regeling
+##### Artikel 1. Begripsbepaling regeling
 
 1. In deze regeling wordt verstaan onder:
 
@@ -78,7 +101,7 @@ Komen het volgende overeen:
 
 #### § 2. Toedeling categorieën belanghebbenden
 
-#### Artikel 2. Toedeling deelgenoten Algemeen Pensioenfonds van de Nederlandse Antillen en het Werkliedenpensioenfonds en de verplichtingen jegens hen
+##### Artikel 2. Toedeling deelgenoten Algemeen Pensioenfonds van de Nederlandse Antillen en het Werkliedenpensioenfonds en de verplichtingen jegens hen
 
 1. De verplichtingen op grond van het recht op pensioen dat de gepensioneerde onmiddellijk voorafgaande aan het tijdstip van transitie op grond van de Pensioenlandsverordening overheidsdienaren (P.B. 1997, no 312) gaan op dat tijdstip over op:
 
@@ -102,7 +125,7 @@ Komen het volgende overeen:
 
 8. Uiterlijk voor 31 december 2011 maken partijen nadere afspraken over de verdeling van lusten en lasten ten aanzien van de aan Curaçao toegewezen deelgenoten met als laatste standplaats Aruba.
 
-#### Artikel 3. Uitvoeringsbepalingen m.b.t. de toedeling van de deelgenoten in het Algemeen Pensioenfonds Nederlandse Antillen en het Werkliedenpensioenfonds
+##### Artikel 3. Uitvoeringsbepalingen m.b.t. de toedeling van de deelgenoten in het Algemeen Pensioenfonds Nederlandse Antillen en het Werkliedenpensioenfonds
 
 1. Aan de onmiddellijk voorafgaande aan het tijdstip van transitie bestaande deelgenoten in het Algemeen Pensioenfonds Nederlandse Antillen respectievelijk het Werkliedenpensioenfonds wordt individueel bericht wat voor hun de tot aan het tijdstip van transitie voor pensioen meetellende tijd is en de pensioengrondslag is of de pensioengrondslagen zijn. De in de vorige volzin bedoelde tijd en grondslag of grondslagen worden vastgesteld door het Algemeen Pensioenfonds van de Nederlandse Antillen respectievelijk het Werkliedenpensioenfonds dan wel, na het tijdstip van transitie, elk van de landen. Dit is een formele beschikking waartegen bezwaar en beroep mogelijk is.
 
@@ -112,7 +135,7 @@ Komen het volgende overeen:
 
 4. Totdat partijen anders afspreken, blijft het Werkliedenpensioenfonds, dan wel met het land Curaçao dan wel met de op grond van [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028963&paragraaf=1&artikel=1&z=2010-10-02&g=2010-10-02) opgedragen uitvoeringsorganisatie van het land Curaçao, uitvoerder van de werkliedenverordening 1944 (PB 1978 no 376) en beheerder van de verplichtingen en het vermogen van de deelgenoten in het Werkliedenpensioenfonds. Zij legt over het gevoerde beleid en de stand van het fonds ten minste een keer per jaar verantwoording af aan de landen Curaçao, Sint Maarten en Nederland.
 
-#### Artikel 4. Toedeling deelnemers in de op omslag gefinancierde pensioen(vervangende)regelingen
+##### Artikel 4. Toedeling deelnemers in de op omslag gefinancierde pensioen(vervangende)regelingen
 
 1. De verplichtingen ten aanzien van aanspraken op de door het Algemeen Pensioenfonds van de Nederlandse Antillen uitgevoerde Duurtetoeslagregeling pensioengerechtigden 1943 (P.B. 1943 no. 77), de landsverordening verhoging leeftijdsgrens ambtenaren (P.B. 1959 no. 126), de landsverordening verhoging leeftijdsgrens 1996 (P.B. 1995 no 230), en de pensioenregeling politieke gezagsdragers (P.B. 2006, no 31), pensioenregeling ministers P.B. 1969 no. 104; Pensioenregeling leden der Staten P.B. 1990 n. 82, voor zover van toepassing op personeel en voormalig personeel in dienst van het Land Nederlandse Antillen en de eilandgebieden Bonaire, Curaçao, Saba, St. Eustatius en St. Maarten, worden overgenomen door de landen Curaçao, Sint Maarten en Nederland via de in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028963&paragraaf=2&artikel=2&z=2010-10-02&g=2010-10-02), bedoelde wetgeving.
 
@@ -124,7 +147,7 @@ Komen het volgende overeen:
 
 5. Stortingen door de overheid van de Nederlandse Antillen voor niet kapitaalgedekte uitkeringen bij het Algemeen Pensioenfonds van de Nederlandse Antillen, worden in dezelfde aandelen onder de landen Curaçao, Sint Maarten en Nederland verdeeld volgens de verdeelsleutel, genoemd in [artikel 3, eerste lid, van de Onderlinge regeling vereffening boedel Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028964&artikel=3). De daaruit resulterende bedragen voor de landen Curaçao, Sint Maarten respectievelijk Nederland worden direct bij de voorschotverlening aan die landen ter beschikking gesteld of indien het moment van storting is gelegen na het moment van voorschotbetaling, direct per moment van datum van transitie.
 
-#### Artikel 5. Uitvoeringsbepalingen m.b.t. de toedeling van de deelnemers in de op omslag gefinancierde pensioen(vervangende)regelingen
+##### Artikel 5. Uitvoeringsbepalingen m.b.t. de toedeling van de deelnemers in de op omslag gefinancierde pensioen(vervangende)regelingen
 
 1. Aan de onmiddellijk voorafgaande aan het tijdstip van transitie bestaande deelgenoten in het Algemeen Pensioenfonds Nederlandse Antillen wordt individueel bericht wat voor hun de tot aan het tijdstip van transitie voor pensioen meetellende tijd is en de pensioengrondslag is of de pensioengrondslagen zijn. De in de vorige volzin bedoelde tijd en grondslag of grondslagen worden vastgesteld door het Algemeen Pensioenfonds van de Nederlandse Antillen dan wel, na het tijdstip van transitie, elk van de landen. Dit is een formele beschikking waartegen bezwaar en beroep mogelijk is.
 
@@ -134,23 +157,23 @@ Komen het volgende overeen:
 
 #### § 3. Nadere bepalingen werkwijze toedeling belanghebbenden
 
-#### Artikel 6. Overgang beslissingen van en meldingen aan Algemeen Pensioenfonds van de Nederlandse Antillen respectievelijk het Werkliedenpensioenfonds
+##### Artikel 6. Overgang beslissingen van en meldingen aan Algemeen Pensioenfonds van de Nederlandse Antillen respectievelijk het Werkliedenpensioenfonds
 
 1. Beslissingen van het Algemeen Pensioenfonds van de Nederlandse Antillen respectievelijk het Werkliedenpensioenfonds in verband met de toepassing van een regeling als bedoeld in [artikel 1, eerste lid sub h](https://wetten.overheid.nl/jci1.3:c:BWBR0028963&paragraaf=1&artikel=1&z=2010-10-02&g=2010-10-02), genomen vóór het tijdstip van transitie, worden door het overnemende land gelijkgesteld met beslissingen van het overnemende land, dan wel de door het land opgedragen uitvoeringsorganisatie.
 
 2. Meldingen en kennisgevingen aan de Algemeen Pensioenfonds van de Nederlandse Antillen respectievelijk het Werkliedenpensioenfonds, gedaan vóór het tijdstip van transitie ter voldoening aan een op grond van een regeling als bedoeld in [artikel 1, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0028963&paragraaf=1&artikel=1&z=2010-10-02&g=2010-10-02) geldende verplichting, worden geacht te zijn ingediend bij het overnemende land, dan wel de door het land opgedragen uitvoeringsorganisatie.
 
-#### Artikel 7. Lopende aanvragen en nieuwe aanvragen met terugwerkende kracht
+##### Artikel 7. Lopende aanvragen en nieuwe aanvragen met terugwerkende kracht
 
 Vóór het tijdstip van transitie bij de Algemeen Pensioenfonds van de Nederlandse Antillen respectievelijk het Werkliedenpensioenfonds ingediende aanvragen om een uitkering gaan, indien op de aanvraag nog geen beslissing is genomen, in de staat waarin zij zich bevinden, over naar het overnemende land.
 
-#### Artikel 8. Lopende bezwaar- en beroepsprocedures
+##### Artikel 8. Lopende bezwaar- en beroepsprocedures
 
 1. Op het tijdstip van transitie bij de Algemeen Pensioenfonds van de Nederlandse Antillen respectievelijk het Werkliedenpensioenfonds aanhangige bezwaarschriften in verband met de toepassing van de in [artikel 1, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0028963&paragraaf=1&artikel=1&z=2010-10-02&g=2010-10-02) genoemde regelingen zoals deze onmiddellijk voorafgaand aan het tijdstip van transitie luiden, gaan in de stand waarin zij zich bevinden, over naar het overnemende land.
 
 2. Indien op het tijdstip van transitie het Algemeen Pensioenfonds van de Nederlandse Antillen respectievelijk het Werkliedenpensioenfonds partij is in een geding betreffende de toepassing van een regeling als bedoeld in het eerste lid, treedt het overnemende land in de plaats van de Algemeen Pensioenfonds van de Nederlandse Antillen respectievelijk het Werkliedenpensioenfonds, met overneming van procureurstelling onderscheidenlijk aanwijzing van een gemachtigde.
 
-#### Artikel 9. Archieven en Communicatie
+##### Artikel 9. Archieven en Communicatie
 
 1. Partijen komen overeen dat de uitvoeringsorganisatie van het land Curaçao op zich neemt om de archiefbescheiden ter zake overheidsdienaren en gewezen overheidsdienaren die met toepassing van de landsverordening vaststelling en verdeling van de boedel van het Algemeen Pensioenfonds van de Nederlandse Antillen respectievelijk het Werkliedenpensioenfonds aan Sint Maarten en Nederland ingaande het tijdstip van transitie worden toegedeeld, aan het overnemende land dan wel de namens dat land optredende uitvoeringsorganisatie, over te dragen.
 
@@ -158,7 +181,7 @@ De pensioengerechtigden, gewezen overheidsdienaren en actieve deelgenoten worden
 
 #### § 4. Financieel en materieel
 
-#### Artikel 10. Vermogensbepaling en – verdeling Algemeen Pensioenfonds van de Nederlandse Antillen en het Werkliedenpensioenfonds
+##### Artikel 10. Vermogensbepaling en – verdeling Algemeen Pensioenfonds van de Nederlandse Antillen en het Werkliedenpensioenfonds
 
 1. De waardering van de activa en de passiva van het Algemeen Pensioenfonds van de Nederlandse Antillen respectievelijk het Werkliedenpensioenfonds wordt per tijdstip direct voorafgaand aan het tijdstip van transitie vastgesteld.
 
@@ -180,7 +203,7 @@ De pensioengerechtigden, gewezen overheidsdienaren en actieve deelgenoten worden
 
 10. De definitieve vermogensbepaling en verdeling is uiterlijk op 31 december 2011 afgerond.
 
-#### Artikel 11. Voorschot op de verdeling en overdracht vermogen Algemeen Pensioenfonds van de Nederlandse Antillen
+##### Artikel 11. Voorschot op de verdeling en overdracht vermogen Algemeen Pensioenfonds van de Nederlandse Antillen
 
 1. De landen Curaçao, Sint Maarten en de staat der Nederlanden ontvangen op grond van [artikel 9 van de AMvRB rechtsopvolging burgerlijke rechten en verplichtingen Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028594&artikel=9) een voorschot op de verdeling van de boedel van het Algemeen Pensioenfonds Nederlandse Antillen. Partijen in deze Onderlinge Regeling spreken af dat genoemde voorschot wordt betaald op de dag na datum van uitgifte van het Staatsblad waarin de [AMvRB rechtsopvolging burgerlijke rechten en verplichtingen Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028594) in het staatsblad is geplaatst.
 
@@ -190,29 +213,29 @@ De pensioengerechtigden, gewezen overheidsdienaren en actieve deelgenoten worden
 
 #### § 5. Overleg en geschillenregeling
 
-#### Artikel 12. Overleg
+##### Artikel 12. Overleg
 
 Op uitvoerend niveau wordt namens de partijen in gericht overleg voorzien met het oog op een adequate uitvoering van deze regeling. Na het tijdstip van de transitie wordt dit overleg op een wijze gericht op een adequate uitvoering van deze regeling door of vanwege de partijen voortgezet totdat de boedelverdeling zijn beslag heeft gekregen. Hiertoe wordt onder de verantwoordelijkheid van de vereffeningcommissie een stuurgroep ingericht die maandelijks overleg pleegt over de voortgang, die actiepunten kan benoemen en die rapporteert aan de vereffeningscommissie. Naast twee leden per land, neemt hier ook het Algemeen Pensioenfonds van de Nederlandse Antillen, dan wel de op grond van [artikel 1 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028963&paragraaf=1&artikel=1&z=2010-10-02&g=2010-10-02) opgedragen uitvoeringsorganisatie van het land Curaçao aan deel.
 
-#### Artikel 13. Geschillenregeling
+##### Artikel 13. Geschillenregeling
 
 Indien zich bij de uitvoering van deze onderlinge regeling geschillen voordoen dan kunnen deze worden voorgelegd aan een geschillencommissie zoals vermeld in [paragraaf 4 van de Onderlinge Regeling inzake regeling vereffening boedel Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028964&paragraaf=4).
 
 #### § 6. Slotbepalingen
 
-#### Artikel 14. Uitvoering na transitiedatum
+##### Artikel 14. Uitvoering na transitiedatum
 
 De vereffeningcommissie is onder de verantwoordelijkheid van de landen belast met de aangelegenheden die verband houden met de definitieve afwikkeling en beëindiging van zaken na de splitsing van de Algemeen Pensioenfonds van de Nederlandse Antillen respectievelijk het Werkliedenpensioenfonds, tenzij anders wordt bepaald.
 
-#### Artikel 15. Nadere overeenkomst
+##### Artikel 15. Nadere overeenkomst
 
 Met het oog op een goede uitvoering van of ter uitwerking van het bepaalde in deze regeling kunnen tussen de besturen van de uitvoeringsorganisaties dan wel pensioenfondsen nadere afspraken worden gemaakt.
 
-#### Artikel 16. Wettelijke verankering
+##### Artikel 16. Wettelijke verankering
 
 1. De partijen verplichten zich hetgeen in deze onderlinge regeling is bepaald, in het nationale recht waar nodig van een voldoende juridische basis te voorzien In ieder geval verplichten zij zich om de garantie van de vóór de datum van transitie opgebouwde pensioenaanspraken een wettelijke basis te geven.
 
-#### Artikel 17. Inwerkingtreding en citeertitel
+##### Artikel 17. Inwerkingtreding en citeertitel
 
 1. Deze overeenkomst treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin deze wordt geplaatst. De overeenkomst wordt geplaatst in de Nederlandse Staatscourant en de Curaçaosche Courant.
 

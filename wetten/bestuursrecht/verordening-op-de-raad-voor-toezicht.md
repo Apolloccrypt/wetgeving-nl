@@ -1,13 +1,35 @@
 ---
 title: "Verordening op de Raad voor Toezicht"
 identifier: "BWBR0033787"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-07-01
-laatste_update: 2023-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033787"
+country: "nl"
+rank: "pbo"
+publication_date: "2023-07-01"
+last_updated: "2023-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033787"
+soort: "pbo"
+stam_id: "12339883"
+version_id: "20703212"
+internal_id: "C29738071"
+label_id: "12311114"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033787/2023-07-01/0"
+intitule_bron: "Stcrt.2013-23903"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-08-27"
+intitule_in_force: "2013-08-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-23903"
+original_published_date: "2013-08-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-23903"
+entry_into_force_date: "2014-01-01"
+jci_1_3: "jci1.3:c:BWBR0033787&z=2023-07-01&g=2023-07-01"
+jci_1_0: "1.0:c:BWBR0033787&g=2023-07-01"
+citeertitel_status: "officieel"
+entry_into_force: "2014-01-01"
 ---
-
 # Verordening op de Raad voor Toezicht
 
 Gelet op de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=5) en [19, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=19);
@@ -16,7 +38,7 @@ Stelt de volgende verordening vast:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze verordening wordt verstaan onder:
 
@@ -28,7 +50,7 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 ### Hoofdstuk 2. De Raad voor Toezicht
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Raad voor Toezicht, hierna te noemen: de Raad.
 
@@ -42,7 +64,7 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 4. De Raad kan in het kader van zijn taken externe deskundigen, waaronder accountants, inschakelen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Raad bestaat uit de volgende leden:
 
@@ -62,7 +84,7 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 7. Hij die benoemd is ter vervulling van een tussentijds opengevallen plaats, kan eenmaal worden herbenoemd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een lid van de Raad is onpartijdig en onafhankelijk.
 
@@ -80,7 +102,7 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 - f. het lidmaatschap van het door het bestuur ingesteld Adviescollege voor Beroepsreglementering.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het lidmaatschap van de Raad eindigt:
 
@@ -98,13 +120,13 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 2. Het lid van de Raad, dat ingevolge sub b of c van het eerste lid aftreedt, kan op verzoek van de voorzitter zijn functie behouden met betrekking tot die zaken aan welke behandeling hij heeft deelgenomen, doch die op het tijdstip van zijn aftreden nog niet zijn afgedaan.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een ieder die is betrokken bij de uitvoering van de taak van de Raad en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens geheimhouding geldt, is verplicht tot geheimhouding van die gegevens, behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn taak de noodzaak tot mededeling voortvloeit.
 
 2. De Raad kan een externe deskundige, als bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033787&hoofdstuk=2&artikel=2&z=2023-07-01&g=2023-07-01) ontheffen van de verplichting, bedoeld in het eerste lid, indien dat noodzakelijk is voor het toezicht op de beroepsuitoefening of voor het verkrijgen dan wel behouden van een accreditatie als bedoeld in [artikel 26 van de Verordening kwaliteitsbeoordelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033786&artikel=26).
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Raad vergadert zo dikwijls hij zulks nodig oordeelt.
 
@@ -118,7 +140,7 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 ### Hoofdstuk 3. Toezicht
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Raad bepaalt met inachtneming van het tweede lid van dit artikel en de grenzen van het mandaat en de volmacht welke aan hem door het bestuur zijn verleend, de invulling van de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033787&hoofdstuk=2&artikel=2&z=2023-07-01&g=2023-07-01), bedoelde taak en de daarbij te hanteren werkwijze.
 
@@ -126,31 +148,31 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 ### Hoofdstuk 4. Overige bepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 Jaarlijks voor 1 september brengt de Raad een geanonimiseerd verslag uit aan het bestuur omtrent zijn werkzaamheden in de periode 1 april tot en met 31 maart en maakt dit openbaar.
 
 ### Hoofdstuk 5. Overgangsbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 Bij de inwerkingtreding van deze verordening, wordt de Raad gevormd door de leden zoals die door het bestuur per 1 januari 2013, dan wel nadien zijn benoemd tot lid van de gezamenlijke Raad voor Toezicht van NIVRA en NOvAA, met inachtneming van het rooster van aftreden dat bij die benoemingen is vastgesteld.
 
-#### Artikel 11
+##### Artikel 11
 
 Beslissingen genomen door de gezamenlijke Raad voor Toezicht van NIVRA en NOvAA op grond van de [Verordening op de Raad voor Toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0032734) (Stcrt. 2013, 451) of de [Verordening op de Raad voor Toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0032754) (Stcrt. 2013, 730) worden geacht te zijn genomen door de Raad op grond van deze verordening.
 
 ### Hoofdstuk 6. Slotbepaling
 
-#### Artikel 12
+##### Artikel 12
 
 De [Verordening op de Raad voor Toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0032734) (Stcrt. 2013, 451) wordt ingetrokken.
 
-#### Artikel 13
+##### Artikel 13
 
 De [Verordening op de Raad voor Toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0032754) (Stcrt. 2013, 730) wordt ingetrokken.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Deze verordening treedt in werking op 1 januari 2014.
 

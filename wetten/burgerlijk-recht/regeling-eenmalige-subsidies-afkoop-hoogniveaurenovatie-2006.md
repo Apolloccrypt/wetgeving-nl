@@ -1,13 +1,39 @@
 ---
-title: "Regeling eenmalige subsidies afkoop hoogniveaurenovatie 2006"
+title: "Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 13 oktober 2006, nr. DJZ2006309392, Directie Juridische Zaken, Afdeling Wetgeving, houdende regels omtrent afkoop van jaarlijkse bijdragen, die krachtens de Regeling geldelijke steun voorzieningen aan huurwoningen 1987 zijn toegekend aan gemeenten (Regeling eenmalige subsidies afkoop hoogniveaurenovatie 2006)"
 identifier: "BWBR0020426"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2006-11-29
-laatste_update: 2006-11-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020426"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2006-11-29"
+last_updated: "2006-11-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020426"
+soort: "ministeriele-regeling"
+stam_id: "8672463"
+version_id: "13694782"
+internal_id: "C18495461"
+label_id: "8652744"
+dtd_version: "2.0"
+original_entry_into_force: "2006-10-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020426/2006-11-29/0"
+intitule_bron: "Stcrt.2006-207"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-10-13"
+intitule_published: "2006-10-24"
+intitule_in_force: "2006-10-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-207"
+original_signed_date: "2006-10-13"
+original_published_date: "2006-10-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-207-p10-SC77373"
+entry_into_force_date: "2006-10-26"
+jci_1_3: "jci1.3:c:BWBR0020426&z=2006-11-29&g=2006-11-29"
+jci_1_0: "1.0:c:BWBR0020426&g=2006-11-29"
+citeertitel_status: "officieel"
+short_title: "Regeling eenmalige subsidies afkoop hoogniveaurenovatie 2006"
+signed_date: "2006-10-13"
+entry_into_force: "2006-10-26"
 ---
-
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 13 oktober 2006, nr. DJZ2006309392, Directie Juridische Zaken, Afdeling Wetgeving, houdende regels omtrent afkoop van jaarlijkse bijdragen, die krachtens de Regeling geldelijke steun voorzieningen aan huurwoningen 1987 zijn toegekend aan gemeenten (Regeling eenmalige subsidies afkoop hoogniveaurenovatie 2006)
 
 Gelet op [artikel 2, eerste lid, van het Invoeringsbesluit Wet stedelijke vernieuwing](https://wetten.overheid.nl/jci1.3:c:BWBR0011957&artikel=2);
@@ -16,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Algemene bepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 2. Subsidie ter beëindiging van verbintenissen van het Rijk jegens gemeenten die voortvloeien uit de RGSVH
 
-#### Artikel 2
+##### Artikel 2
 
 1. De minister nodigt de gemeenten uit een aanvraag in te dienen tot vaststelling van een eenmalige subsidie ter beëindiging per 1 oktober 2006 van de verbintenissen jegens de gemeente die voortvloeien uit de RGSVH. De uitnodiging gaat in ieder geval vergezeld van een totaaloverzicht waarop die verbintenissen zijn vermeld en het totaalbedrag waartegen die verbintenissen worden afgekocht.
 
@@ -38,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 4. Indien een of meer gemeenten geen aanvraag hebben ingediend, kan de minister in afwijking van het derde lid besluiten de eenmalige subsidie vast te stellen voor de gemeenten die een aanvraag hebben ingediend.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het subsidiebedrag per verbintenis van het Rijk jegens de gemeente die voortvloeit uit de RGSVH wordt overeenkomstig het tweede tot en met het vijfde lid vastgesteld.
 
@@ -50,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 5. Indien op grond van de verbintenis een jaarlijkse bijdrage aan geldelijke steun is betaald in de periode vanaf 1 oktober 2006 tot de datum waarop de beschikking tot vaststelling van de eenmalige subsidie is genomen, wordt het overeenkomstig het vierde lid berekende bedrag verminderd met die bijdrage en met een over die bijdrage berekende rente van 4,00% per jaar over de periode vanaf de datum waarop die bijdrage is betaald tot de datum waarop de eenmalige subsidie wordt uitbetaald.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020426&paragraaf=2&artikel=3&z=2006-11-29&g=2006-11-29) wordt uitgegaan van maanden van dertig dagen en van een jaar van 360 dagen.
 
@@ -58,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 3. Voor de toepassing van [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020426&paragraaf=2&artikel=3&z=2006-11-29&g=2006-11-29), wordt de disconteringsvoet (i) gesteld op 0,0400 (4,00%).
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het bedrag van de eenmalige subsidie aan de gemeente komt overeen met het totaal aan subsidiebedragen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020426&paragraaf=2&artikel=3&z=2006-11-29&g=2006-11-29).
 
@@ -70,7 +96,7 @@ In deze regeling wordt verstaan onder:
 
 - c. aanspraken van de gemeente op het Rijk als gevolg van herziening van beschikkingen op grond van de RGSVH vervallen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien alle gemeenten tijdig een aanvraag hebben ingediend, wordt de beschikking op de aanvraag gegeven voor 4 december 2006.
 
@@ -78,7 +104,7 @@ In deze regeling wordt verstaan onder:
 
 3. Indien geen toepassing wordt gegeven aan [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020426&paragraaf=2&artikel=2&z=2006-11-29&g=2006-11-29), worden de gemeenten daarvan in kennis gesteld voor 4 december 2006.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Na de beschikking tot subsidievaststelling wordt het subsidiebedrag in december 2006 uitbetaald.
 
@@ -86,11 +112,11 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 3. Subsidie ter beëindiging van verbintenissen van gemeenten jegens natuurlijke personen of rechtspersonen die voortvloeien uit de RGSVH
 
-#### Artikel 8
+##### Artikel 8
 
 Burgemeester en wethouders van een gemeente kunnen op aanvraag van een natuurlijke persoon of rechtspersoon een eenmalige subsidie vaststellen ter beëindiging van verbintenissen van de gemeente jegens die persoon op grond van de RGSVH.
 
-#### Artikel 9
+##### Artikel 9
 
 Op de vaststelling van het subsidiebedrag en de beëindiging van verbintenissen als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020426&paragraaf=3&artikel=8&z=2006-11-29&g=2006-11-29) zijn de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020426&paragraaf=2&artikel=3&z=2006-11-29&g=2006-11-29) en [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020426&paragraaf=2&artikel=7&z=2006-11-29&g=2006-11-29), van overeenkomstige toepassing, met dien verstande dat:
 
@@ -104,11 +130,11 @@ Op de vaststelling van het subsidiebedrag en de beëindiging van verbintenissen 
 
 #### Paragraaf 4. Slotbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling eenmalige subsidies afkoop hoogniveaurenovatie 2006.
 

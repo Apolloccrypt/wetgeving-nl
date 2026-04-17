@@ -1,20 +1,46 @@
 ---
-title: "Regeling bezoldiging Rijksambtenaren BES"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 maart 2015, nr. 2015-0000162792, tot het vaststellen van de bezoldingschalen, inpastabellen en enkele toelagen voor de ambtenaren in dienst van de staat in Caribisch Nederland in verband met de formalisering van de Cao CN 2013/2014) (Regeling bezoldiging Rijksambtenaren BES 2013–2015)"
 identifier: "BWBR0036465"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036465"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036465"
+soort: "ministeriele-regeling-BES"
+stam_id: "13122333"
+version_id: "23762232"
+internal_id: "C34194871"
+label_id: "13091214"
+dtd_version: "2.0"
+original_entry_into_force: "2016-12-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036465/2026-01-01/0"
+intitule_bron: "Stcrt.2015-8483"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-03-18"
+intitule_published: "2015-03-31"
+intitule_in_force: "2015-03-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-69866"
+original_signed_date: "2016-12-20"
+original_published_date: "2016-12-30"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2016-69866"
+entry_into_force_date: "2016-12-20"
+jci_1_3: "jci1.3:c:BWBR0036465&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0036465&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling bezoldiging Rijksambtenaren BES"
+signed_date: "2016-12-20"
+entry_into_force: "2016-12-20"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 maart 2015, nr. 2015-0000162792, tot het vaststellen van de bezoldingschalen, inpastabellen en enkele toelagen voor de ambtenaren in dienst van de staat in Caribisch Nederland in verband met de formalisering van de Cao CN 2013/2014) (Regeling bezoldiging Rijksambtenaren BES 2013–2015)
 
-#### Artikel 1. Bezoldigingschalen
+##### Artikel 1. Bezoldigingschalen
 
 De bezoldigingschalen voor de ambtenaren in dienst van de staat zijn per 1 januari 2026 zoals in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=1&z=2026-01-01&g=2026-01-01) bij deze regeling is vermeld.
 
-#### Artikel 2. Garantietreden
+##### Artikel 2. Garantietreden
 
 1. De garantietreden met de aanduiding ‘GRT’ gelden uitsluitend voor de ambtenaren in dienst van de staat niet zijnde ambtenaren, bedoeld in het tweede tot en met vierde lid.
 
@@ -24,31 +50,31 @@ De bezoldigingschalen voor de ambtenaren in dienst van de staat zijn per 1 janua
 
 4. De garantietreden met de aanduiding ‘GPT’ gelden uitsluitend voor de ambtenaren in dienst van de staat en aangesteld voor de uitvoering van de politietaak en voor de aspirant alsmede voor de ambtenaren in dienst van de staat die werkzaam zijn voor de Koninklijke Marechaussee.
 
-#### Artikel 3. Inpastabellen goede beoordeling 2013
+##### Artikel 3. Inpastabellen goede beoordeling 2013
 
 Vervallen
 
-#### Artikel 4. Inpastabellen geen goede beoordeling 2013
+##### Artikel 4. Inpastabellen geen goede beoordeling 2013
 
 Vervallen
 
-#### Artikel 5. Bezoldiging geestelijke
+##### Artikel 5. Bezoldiging geestelijke
 
 In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2026-01-01&g=2026-01-01), bedraagt de bezoldiging voor de ambtenaren in dienst van de staat en werkzaam als geestelijke per 1 januari 2.026 USD 2.209.
 
-#### Artikel 6. Extra toelage IBTers etc
+##### Artikel 6. Extra toelage IBTers etc
 
 Aan de ambtenaar in dienst van de staat en werkzaam bij de Dienst Justitiële Inrichtingen BES, aan de ambtenaar in dienst van de staat die is aangesteld voor de uitvoering van de politietaak en aan de aspirant wordt, indien hij volgens dienstrooster beschikbaar is om bij calamiteiten op afroep werkzaamheden te verrichten die niet tot zijn normale werkzaamheden behoren, bij het daadwerkelijk verrichten van die werkzaamheden een toeslag toegekend van USD 6,70 per uur.
 
-#### Artikel 7. Bovenwindentoelage
+##### Artikel 7. Bovenwindentoelage
 
 De standplaatstoelage, bedoeld in [artikel 28, tweede lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=28), bedraagt zestien en drietiende procent van de bezoldiging.
 
-#### Artikel 8. Saba/Statiatoelage
+##### Artikel 8. Saba/Statiatoelage
 
 De Saba/Statiatoelage, bedoeld in [artikel 28, derde lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=28), bedraagt met ingang van 1 april 2015 tweeënhalf procent van de bezoldiging.
 
-#### Artikel 9. Vereveningstoelage
+##### Artikel 9. Vereveningstoelage
 
 De toelage, bedoeld in [artikel 28, vierde lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=28), bedraagt met ingang van 1 april 2015:
 
@@ -58,17 +84,17 @@ De toelage, bedoeld in [artikel 28, vierde lid, van het Rechtspositiebesluit amb
 
 - c. 9,5% van de bezoldiging voor de ambtenaar die werkzaam is op Saba.
 
-#### Artikel 10. Vergoeding vrijwillige ambtenaar van politie
+##### Artikel 10. Vergoeding vrijwillige ambtenaar van politie
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 1. De [Regeling bezoldiging Rijksambtenaren BES 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035545) wordt ingetrokken.
 
 2. De [Regeling standplaatstoelage ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028782) wordt ingetrokken.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Deze regeling treedt in werking met ingang van 1 april 2015.
 
@@ -78,7 +104,7 @@ Vervallen
 
 4. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=6&z=2026-01-01&g=2026-01-01) werkt terug tot en met 1 januari 2015.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling wordt aangehaald als: Regeling bezoldiging Rijksambtenaren BES.
 

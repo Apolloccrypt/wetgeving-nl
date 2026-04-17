@@ -1,20 +1,45 @@
 ---
 title: "Regeling WPG Defensie"
 identifier: "BWBR0041791"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041791"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041791"
+soort: "ministeriele-regeling"
+stam_id: "14940893"
+version_id: "25586692"
+internal_id: "C36515371"
+label_id: "14891404"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041791/2020-01-01/0"
+intitule_bron: "Stcrt.2018-72552"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-12-16"
+intitule_published: "2018-12-27"
+intitule_in_force: "2018-12-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-72552"
+original_signed_date: "2018-12-16"
+original_published_date: "2018-12-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-72552"
+entry_into_force_date: "2019-01-01"
+jci_1_3: "jci1.3:c:BWBR0041791&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0041791&g=2020-01-01"
+citeertitel_status: "officieel"
+signed_date: "2018-12-16"
+entry_into_force: "2019-01-01"
 ---
-
 # Regeling WPG Defensie
 
 Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1.1. Begrippen en definities
+##### Artikel 1.1. Begrippen en definities
 
 In deze regeling wordt verstaan onder:
 
@@ -40,11 +65,11 @@ In deze regeling wordt verstaan onder:
 
 - k. **Autoriteit persoonsgegevens:** Autoriteit persoonsgegevens als bedoeld in [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=35).
 
-#### Artikel 1.2. Reikwijdte
+##### Artikel 1.2. Reikwijdte
 
 Deze regeling is van toepassing op verwerking van politiegegevens door de Koninklijke Marechaussee en andere opsporingsambtenaren bij Defensie, welke gegevens in een bestand zijn opgenomen of die bestemd zijn daarin te worden opgenomen en waarvoor de minister de verwerkingsverantwoordelijke is in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463).
 
-#### Artikel 1.3. Wpg-beheerder en Wpg-onderbeheerder
+##### Artikel 1.3. Wpg-beheerder en Wpg-onderbeheerder
 
 1. De Commandant Koninklijke Marechaussee is Wpg-beheerder.
 
@@ -60,7 +85,7 @@ Deze regeling is van toepassing op verwerking van politiegegevens door de Konink
 
 7. De Wpg-beheerder deelt het opdragen van de taken mee aan de functionaris voor gegevensbescherming WPG.
 
-#### Artikel 1.4. Privacyfunctionaris
+##### Artikel 1.4. Privacyfunctionaris
 
 1. De Wpg-beheerder wijst binnen de Koninklijke Marechaussee één of meer privacyfunctionarissen aan. Hij deelt dit mee aan de functionaris voor gegevensbescherming WPG.
 
@@ -76,13 +101,13 @@ Deze regeling is van toepassing op verwerking van politiegegevens door de Konink
 
 3. De privacyfunctionaris rapporteert zijn bevindingen jaarlijks aan de Wpg-beheerder.
 
-#### Artikel 1.5. Verwerker
+##### Artikel 1.5. Verwerker
 
 1. De Wpg-beheerder kan politiegegevens laten verwerken door een verwerker, met inachtneming van [artikel 6c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=6c) en [artikel 6:1b van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=6:1b).
 
 2. De overeenkomst tot verwerking van de betreffende politiegegevens wordt vastgelegd in een schriftelijke verwerkersovereenkomst tussen de verwerker en de Wpg-beheerder die optreedt namens de minister.
 
-#### Artikel 1.6. Functionaris voor gegevensbescherming WPG
+##### Artikel 1.6. Functionaris voor gegevensbescherming WPG
 
 1. Er is een functionaris voor gegevensbescherming WPG. Hij wordt tijdig betrokken bij alle aangelegenheden die verband houden met de bescherming van politiegegevens.
 
@@ -98,7 +123,7 @@ Deze regeling is van toepassing op verwerking van politiegegevens door de Konink
 
 #### Paragraaf 2. Weergaven van verwerkingen van politiegegevens
 
-#### Artikel 2.1. Register
+##### Artikel 2.1. Register
 
 1. Er is een register van verwerkingsactiviteiten, als bedoeld in [artikel 31d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=31d), van het ministerie.
 
@@ -120,11 +145,11 @@ Deze regeling is van toepassing op verwerking van politiegegevens door de Konink
 
 5. De functionaris voor gegevensbescherming WPG en de Autoriteit persoonsgegevens krijgen op hun verzoek toegang tot het register.
 
-#### Artikel 2.2. Documentatie
+##### Artikel 2.2. Documentatie
 
 De Wpg-beheerder zorgt voor de schriftelijke of elektronische vastlegging van de aangelegenheden, bedoeld in [artikel 32, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=32).
 
-#### Artikel 2.3. Logging
+##### Artikel 2.3. Logging
 
 1. De Wpg-beheerder zorgt voor de elektronische vastlegging van ten minste het verzamelen, wijzigen, raadplegen, verstrekken, doorgeven, combineren of vernietigen van politiegegevens, conform [artikel 32a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=32a).
 
@@ -132,7 +157,7 @@ De Wpg-beheerder zorgt voor de schriftelijke of elektronische vastlegging van de
 
 #### Paragraaf 3. Gegevensbeschermingseffectbeoordeling / Privacy Impact Assessment
 
-#### Artikel 3. Gegevensbeschermingseffectbeoordeling
+##### Artikel 3. Gegevensbeschermingseffectbeoordeling
 
 1. De Wpg-beheerder voert de gegevensbeschermingseffectbeoordeling uit als bedoeld in [artikel 4c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=4c), aan de hand van het Model gegevensbeschermingseffectbeoordeling Rijksdienst (PIA).
 
@@ -152,7 +177,7 @@ De Wpg-beheerder zorgt voor de schriftelijke of elektronische vastlegging van de
 
 #### Paragraaf 4. Datalek
 
-#### Artikel 4.1. Melding datalek aan de Autoriteit persoonsgegevens
+##### Artikel 4.1. Melding datalek aan de Autoriteit persoonsgegevens
 
 1. De privacyfunctionaris meldt een inbreuk op de beveiliging, als bedoeld in [artikel 33a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=33a), aan de Autoriteit persoonsgegevens. Hij stuurt een kopie daarvan aan de functionaris voor gegevensbescherming WPG.
 
@@ -164,7 +189,7 @@ De Wpg-beheerder zorgt voor de schriftelijke of elektronische vastlegging van de
 
 5. Een te late melding gaat vergezeld van een motivering van de vertraging.
 
-#### Artikel 4.2. Melding datalek aan de betrokkene
+##### Artikel 4.2. Melding datalek aan de betrokkene
 
 1. De privacyfunctionaris deelt de inbreuk op de beveiliging mee aan de betrokkene wanneer deze inbreuk waarschijnlijk een hoog risico voor de rechten en vrijheden van personen met zich meebrengt.
 
@@ -190,13 +215,13 @@ De Wpg-beheerder zorgt voor de schriftelijke of elektronische vastlegging van de
 
 #### Paragraaf 5. Rechten van betrokkene
 
-#### Artikel 5.1. Informatieverstrekking aan de betrokkene
+##### Artikel 5.1. Informatieverstrekking aan de betrokkene
 
 1. Op verzoek van betrokkene wordt hem conform [artikel 24a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=24a) informatie verstrekt over de verwerking van politiegegevens. Dit wordt gedaan in beknopte en toegankelijke vorm en voor zover beveiliging dit toelaat.
 
 2. Op verzoek van betrokkene worden hem conform [artikel 24b tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=24b) de gegevens verstrekt, tenzij ten aanzien van betrokkene het gegronde vermoeden bestaat dat hij een strafbaar feit heeft gepleegd of zal gaan plegen.
 
-#### Artikel 5.2. Recht op inzage, rectificatie, aanvulling en vernietiging
+##### Artikel 5.2. Recht op inzage, rectificatie, aanvulling en vernietiging
 
 1. Betrokkene richt verzoeken om inzage, rectificatie, aanvulling en vernietiging van politiegegevens, als bedoeld in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=25) en [28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=28), aan de Wpg-beheerder.
 
@@ -234,13 +259,13 @@ De Wpg-beheerder zorgt voor de schriftelijke of elektronische vastlegging van de
 
 10. Tegen afwijzing van een verzoek als bedoeld in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=25) en [28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=28), staat beroep open conform [artikel 7.1, eerste lid, onderdeel g, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) en de Regeling rechtstreeks beroep.
 
-#### Artikel 5.3. Bezwaar
+##### Artikel 5.3. Bezwaar
 
 Vervallen
 
 #### Paragraaf 6. Juistheid, volledigheid, beveiliging en beheer
 
-#### Artikel 6.1. Dataminimalisatie, juistheid en volledigheid
+##### Artikel 6.1. Dataminimalisatie, juistheid en volledigheid
 
 1. Politiegegevens worden slechts verwerkt met inachtneming van [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=3).
 
@@ -254,11 +279,11 @@ Vervallen
 
 - d. het onderscheiden tussen feitelijke politiegegevens en politiegegevens die op een persoonlijk oordeel zijn gebaseerd.
 
-#### Artikel 6.2. Privacy by design en privacy by default
+##### Artikel 6.2. Privacy by design en privacy by default
 
 De verwerkingsverantwoordelijke treft technische en organisatorische maatregelen die zorgen voor een passend beveiligingsniveau van politiegegevens overeenkomstig de [artikelen 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=4a) en [4b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=4b) en [artikel 6:1a van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=6:1a).
 
-#### Artikel 6.3. Autorisatie
+##### Artikel 6.3. Autorisatie
 
 1. Politiegegevens worden alleen verwerkt door defensiemedewerkers in de uitoefening van de politietaak of delen van de politietaak waarmee zij zijn belast en voorzover zij voor die verwerking zijn geautoriseerd door de Wpg-beheerder.
 
@@ -268,7 +293,7 @@ De verwerkingsverantwoordelijke treft technische en organisatorische maatregelen
 
 #### Paragraaf 7. Audit
 
-#### Artikel 7. Audit Dienst Rijk
+##### Artikel 7. Audit Dienst Rijk
 
 1. De Audit Dienst Rijk voert, eventueel op verzoek van de Wpg-beheerder, een audit uit naar de naleving van deze [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) en deze regeling.
 
@@ -280,17 +305,17 @@ De verwerkingsverantwoordelijke treft technische en organisatorische maatregelen
 
 #### Paragraaf 8. Aanwijzing
 
-#### Artikel 8
+##### Artikel 8
 
 De Secretaris-Generaal kan nadere aanwijzingen geven ter uitvoering van het bepaalde in deze regeling.
 
 #### Paragraaf 9. Slotbepalingen
 
-#### Artikel 9.1. Inwerkingtreding
+##### Artikel 9.1. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2019. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 31 december 2018, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2019.
 
-#### Artikel 9.2. Citeertitel
+##### Artikel 9.2. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling WPG Defensie.
 

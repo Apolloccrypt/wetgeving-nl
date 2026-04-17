@@ -1,18 +1,40 @@
 ---
 title: "Statuten Stichting Fonds voor Cultuurparticipatie 2025"
 identifier: "BWBR0051443"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-09-02
-laatste_update: 2025-09-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051443"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-09-02"
+last_updated: "2025-09-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051443"
+soort: "zbo"
+stam_id: "17511423"
+version_id: "30899092"
+internal_id: "C44274781"
+label_id: "17413834"
+dtd_version: "2.0"
+original_entry_into_force: "2025-09-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051443/2025-09-02/0"
+intitule_bron: "Stcrt.2025-29691"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-09-02"
+intitule_in_force: "2025-09-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-29691"
+original_published_date: "2025-09-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-29691"
+entry_into_force_date: "2025-09-02"
+jci_1_3: "jci1.3:c:BWBR0051443&z=2025-09-02&g=2025-09-02"
+jci_1_0: "1.0:c:BWBR0051443&g=2025-09-02"
+citeertitel_status: "redactioneel"
+entry_into_force: "2025-09-02"
 ---
-
 # Statuten Stichting Fonds voor Cultuurparticipatie 2025
 
 ### Begripsbepalingen.
 
-#### Artikel 1
+##### Artikel 1
 
 In de statuten wordt verstaan onder:
 
@@ -28,7 +50,7 @@ In de statuten wordt verstaan onder:
 
 ### Naam en zetel.
 
-#### Artikel 2
+##### Artikel 2
 
 - 2.1. De stichting draagt de naam: **Stichting Fonds voor Cultuurparticipatie**.
 
@@ -36,7 +58,7 @@ In de statuten wordt verstaan onder:
 
 ### Doel en middelen.
 
-#### Artikel 3
+##### Artikel 3
 
 - 3.1. De stichting heeft ten doel het stimuleren van cultuurparticipatie, opdat iedereen in Nederland, te beginnen bij jongeren, actief in aanraking komt met ten minste een cultuurdiscipline.
 
@@ -50,7 +72,7 @@ In de statuten wordt verstaan onder:
 
 ### Vermogen.
 
-#### Artikel 4
+##### Artikel 4
 
 - 4.1. Het vermogen van de stichting wordt gevormd door:
 
@@ -76,7 +98,7 @@ In de statuten wordt verstaan onder:
 
 ### Bestuur: samenstelling, benoeming en defungeren.
 
-#### Artikel 5
+##### Artikel 5
 
 - 5.1. Het bestuur van de stichting bestaat uit een door de raad van toezicht vast te stellen aantal van ten minste één en ten hoogste drie natuurlijke personen. Een niet-voltallig bestuur behoudt zijn bevoegdheden. In ontstane vacatures wordt zo spoedig mogelijk voorzien.
 
@@ -110,7 +132,7 @@ In de statuten wordt verstaan onder:
 
 ### Bestuur: taak en bevoegdheden.
 
-#### Artikel 6
+##### Artikel 6
 
 - 6.1. Het bestuur is belast met het besturen van de stichting. Tot zijn taken behoort onder meer het vaststellen van een actueel beleidsplan, dat inzicht geeft in de door de stichting te verrichten werkzaamheden ter verwezenlijking van haar doelstelling, de wijze van werving van inkomsten, het beheer van het vermogen van de stichting en de besteding daarvan. Het bestuur zorgt er voor dat de beheerkosten van de stichting in redelijke verhouding staan tot de bestedingen ten behoeve van haar doelstelling.
 
@@ -136,7 +158,7 @@ In de statuten wordt verstaan onder:
 
 ### Bestuur: tegenstrijdig belang.
 
-#### Artikel 7
+##### Artikel 7
 
 - 7.1. Een bestuurder neemt niet deel aan de beraadslaging en de besluitvorming indien hij daarbij een direct of indirect persoonlijk belang heeft dat tegenstrijdig is met het belang van de stichting en de met haar verbonden organisatie.
 
@@ -144,7 +166,7 @@ In de statuten wordt verstaan onder:
 
 ### Bestuur: vertegenwoordiging.
 
-#### Artikel 8
+##### Artikel 8
 
 - 8.1. Het bestuur vertegenwoordigt de stichting.
 
@@ -154,7 +176,7 @@ In de statuten wordt verstaan onder:
 
 ### Bestuur: besluitvorming en taakverdeling.
 
-#### Artikel 9
+##### Artikel 9
 
 - 9.1. Het bestuur doet een voorstel aan de raad van toezicht omtrent de besluitvorming en de werkwijze van het bestuur waarin begrepen de informatievoorziening aan de raad van toezicht. In dat kader wordt bepaald met welke taak iedere bestuurder meer in het bijzonder zal zijn belast. Deze regels en taakverdeling worden schriftelijk vastgelegd in een bestuursreglement, welk bestuursreglement wordt vastgesteld door de raad van toezicht, met inachtneming van het bepaalde in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0051443&artikel=17&z=2025-09-02&g=2025-09-02). Doet het bestuur geen voorstel voor een bestuursreglement, dan is de raad van toezicht bevoegd het bestuursreglement vast te stellen, met inachtneming van het bepaalde in artikel 17.
 
@@ -162,7 +184,7 @@ In de statuten wordt verstaan onder:
 
 ### Goedkeuring besluiten van het bestuur.
 
-#### Artikel 10
+##### Artikel 10
 
 - 10.1. Onverminderd het elders in deze statuten bepaalde, zijn aan de goedkeuring van de raad van toezicht onderworpen de besluiten van het bestuur omtrent:
 
@@ -194,13 +216,13 @@ In de statuten wordt verstaan onder:
 
 ### Verlenen van bijdragen.
 
-#### Artikel 11
+##### Artikel 11
 
 Het bestuur beslist over het verlenen van bijdragen met inachtneming van een door het bestuur vast te stellen reglement als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0051443&artikel=17&z=2025-09-02&g=2025-09-02).
 
 ### Raad van toezicht.
 
-#### Artikel 12
+##### Artikel 12
 
 - 12.1. De stichting heeft een raad van toezicht, bestaande uit een door de minister vast te stellen aantal van ten minste drie en ten hoogste negen natuurlijke personen. In ontstane vacatures wordt zo spoedig mogelijk voorzien.
 
@@ -238,7 +260,7 @@ Het bestuur beslist over het verlenen van bijdragen met inachtneming van een doo
 
 ### Raad van toezicht: taak en bevoegdheden.
 
-#### Artikel 13
+##### Artikel 13
 
 - 13.1. De raad van toezicht heeft tot taak toezicht te houden op het beleid van het bestuur en op de algemene gang van zaken in de stichting. Hij staat het bestuur met raad terzijde. Bij de vervulling van hun taak richten de leden van de raad van toezicht zich naar het belang van de stichting en de met haar verbonden organisatie.
 
@@ -262,7 +284,7 @@ Het bestuur beslist over het verlenen van bijdragen met inachtneming van een doo
 
 ### Gemeenschappelijke vergadering van de bestuurders en de leden van de raad van toezicht.
 
-#### Artikel 14
+##### Artikel 14
 
 - 14.1. Ten minste éénmaal per jaar komen de bestuurders en de leden van de raad van toezicht in gemeenschappelijke vergadering bijeen ter bespreking van de algemene lijnen van het gevoerde en in de toekomst te voeren beleid.
 
@@ -272,7 +294,7 @@ Het bestuur beslist over het verlenen van bijdragen met inachtneming van een doo
 
 ### Boekjaar en jaarstukken.
 
-#### Artikel 15
+##### Artikel 15
 
 - 15.1. Het boekjaar van de stichting valt samen met het kalenderjaar.
 
@@ -300,7 +322,7 @@ Het bestuur beslist over het verlenen van bijdragen met inachtneming van een doo
 
 ### Vaststelling en goedkeuring van de jaarrekening.
 
-#### Artikel 16
+##### Artikel 16
 
 - 16.1. Het bestuur stelt de jaarrekening vast en legt deze ter goedkeuring over aan de raad van toezicht.
 
@@ -310,7 +332,7 @@ Het bestuur beslist over het verlenen van bijdragen met inachtneming van een doo
 
 ### Reglementen.
 
-#### Artikel 17
+##### Artikel 17
 
 - 17.1. Ter uitvoering van het in deze statuten bepaalde stelt het bestuur één of meer reglementen vast, waarin in elk geval worden geregeld de werkwijze, de procedures en de criteria die het bestuur bij het beslissen op aanvragen voor bijdragen hanteert, alsmede de voorschriften die aan een toekenning van bijdragen worden verbonden. De minister kan met betrekking tot genoemde onderwerpen het bestuur voorschrijven ter zake een reglement te wijzigen.
 
@@ -322,7 +344,7 @@ Het bestuur beslist over het verlenen van bijdragen met inachtneming van een doo
 
 ### Statutenwijziging.
 
-#### Artikel 18
+##### Artikel 18
 
 - 18.1. De raad van toezicht is bevoegd de statuten te wijzigen. Het besluit van de raad van toezicht tot statutenwijziging is onderworpen aan de voorafgaande schriftelijke goedkeuring van de minister.
 
@@ -338,7 +360,7 @@ Het bestuur beslist over het verlenen van bijdragen met inachtneming van een doo
 
 ### Ontbinding en vereffening.
 
-#### Artikel 19
+##### Artikel 19
 
 - 19.1. Het bestuur is bevoegd de stichting te ontbinden, doch niet eerder dan nadat voor dit besluit voorafgaande schriftelijke goedkeuring van de raad van toezicht en van de minister is ontvangen.
 
@@ -358,6 +380,6 @@ Het bestuur beslist over het verlenen van bijdragen met inachtneming van een doo
 
 ### Overgangsbepaling.
 
-#### Artikel 20
+##### Artikel 20
 
 In afwijking van het bepaalde in [artikel 12.8](https://wetten.overheid.nl/jci1.3:c:BWBR0051443&artikel=12&z=2025-09-02&g=2025-09-02), geldt dat ten aanzien van de huidige leden van de raad van toezicht die zijn benoemd met inachtneming van artikel 12.8, zoals die bepaling gold ten tijde van het moment van benoeming, de huidige benoemingstermijn van vijf jaren blijft gelden tot het moment van herbenoeming. Indien herbenoeming van een lid van de raad van toezicht mogelijk is ingevolge artikel 12.8, geldt bij herbenoeming de benoemingstermijn zoals opgenomen in artikel 12.8.

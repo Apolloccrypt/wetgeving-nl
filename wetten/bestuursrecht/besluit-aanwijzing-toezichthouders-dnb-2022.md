@@ -1,13 +1,38 @@
 ---
 title: "Besluit aanwijzing toezichthouders DNB 2022"
 identifier: "BWBR0046522"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-04-07
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046522"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-04-07"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046522"
+soort: "zbo"
+stam_id: "16320793"
+version_id: "28530682"
+internal_id: "C40255621"
+label_id: "16245804"
+dtd_version: "2.0"
+original_entry_into_force: "2022-04-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046522/2022-04-07/0"
+intitule_bron: "Stcrt.2022-9157"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-03-22"
+intitule_published: "2022-04-06"
+intitule_in_force: "2022-04-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-9157"
+original_signed_date: "2022-03-22"
+original_published_date: "2022-04-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-9157"
+entry_into_force_date: "2022-04-07"
+jci_1_3: "jci1.3:c:BWBR0046522&z=2022-04-07&g=2022-04-07"
+jci_1_0: "1.0:c:BWBR0046522&g=2022-04-07"
+citeertitel_status: "officieel"
+signed_date: "2022-03-22"
+entry_into_force: "2022-04-07"
 ---
-
 # Besluit aanwijzing toezichthouders DNB 2022
 
 Gelet op de [artikelen 1:72](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:72) en [1:73 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:73);
@@ -36,7 +61,7 @@ Gelet op [titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.n
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -52,23 +77,23 @@ In dit besluit wordt verstaan onder:
 
 - **Verordening (EU) 1210/2010:** [verordening (EU) nr. 1210/2010](32010R1210) van het Europese Parlement en de Raad van 15 december 2010 betreffende de echtheidscontrole van euromunten en de behandeling van euromunten die ongeschikt zijn voor circulatie (PbEU 2010, L 339/1).
 
-#### Artikel 2. [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368)
+##### Artikel 2. [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368)
 
 Als belast met het toezicht op de naleving van de bij of krachtens de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) gestelde regels worden aangewezen de medewerkers van DNB werkzaam in het expertisegebied accounttoezicht of specialistisch toezicht, alsmede de divisiedirecteuren en de afdelingshoofden, van de organisatieonderdelen van DNB die zijn belast met de uitvoering van het toezicht op de naleving van de Wet op het financieel toezicht.
 
-#### Artikel 3. [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809) en [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831)
+##### Artikel 3. [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809) en [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831)
 
 Als belast met het toezicht op de naleving van de bij of krachtens de [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809) en de [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831) gestelde regels worden aangewezen de medewerkers van DNB werkzaam in het expertisegebied accounttoezicht of specialistisch toezicht, alsmede de divisiedirecteuren en de afdelingshoofden, van de organisatieonderdelen van DNB die zijn belast met de uitvoering van het toezicht op de naleving van de Pensioenwet en Wet verplichte beroepspensioenregeling.
 
-#### Artikel 4. [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282) en [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296)
+##### Artikel 4. [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282) en [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296)
 
 Als belast met het toezicht op de naleving van de bij of krachtens de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282) en de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) gestelde regels worden aangewezen de medewerkers van DNB werkzaam in het expertisegebied accounttoezicht of specialistisch toezicht, alsmede de divisiedirecteuren en de afdelingshoofden, van de organisatieonderdelen van DNB die zijn belast met de uitvoering van het toezicht op de naleving van de Wet ter voorkoming van witwassen en financieren van terrorisme en de Sanctiewet 1977.
 
-#### Artikel 5. [Wet toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583)
+##### Artikel 5. [Wet toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583)
 
 Als belast met het toezicht op de naleving van de bij of krachtens de [Wet toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583) gestelde regels worden aangewezen de medewerkers van DNB werkzaam in het expertisegebied accounttoezicht of specialistisch toezicht, alsmede de divisiedirecteuren en de afdelingshoofden, van de organisatieonderdelen van DNB die zijn belast met de uitvoering van het toezicht op de naleving van de Wet toezicht trustkantoren 2018.
 
-#### Artikel 6. [Verordening (EG) 1338/2001](32001R1338), [Verordening (EU) 1210/2010](32010R1210) en [artikel 9a van de Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=9a)
+##### Artikel 6. [Verordening (EG) 1338/2001](32001R1338), [Verordening (EU) 1210/2010](32010R1210) en [artikel 9a van de Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=9a)
 
 Als belast met het toezicht op de naleving van de in [Verordening (EG) 1338/2001](32001R1338), [Verordening (EU) 1210/2010](32010R1210) en [artikel 9a Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508&artikel=9a) gestelde regels worden aangewezen:
 
@@ -80,11 +105,11 @@ Als belast met het toezicht op de naleving van de in [Verordening (EG) 1338/2001
 
 - –. het hoofd van de sectie Chartaal Toezicht.
 
-#### Artikel 7. [Pw BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028712), [Wfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) en [Wwft BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824)
+##### Artikel 7. [Pw BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028712), [Wfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) en [Wwft BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824)
 
 Als belast met het toezicht op de naleving van de bij of krachtens de [Pw BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028712), [Wfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) en [Wwft BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824) gestelde regels worden aangewezen de medewerkers van DNB werkzaam in het expertisegebied accounttoezicht of specialistisch toezicht, alsmede de divisiedirecteuren en de afdelingshoofden, van de organisatieonderdelen van DNB die zijn belast met de uitvoering van het toezicht op de naleving van de Pw BES, Wfm BES en Wwft BES.
 
-#### Artikel 8
+##### Artikel 8
 
 De volgende besluiten van DNB worden ingetrokken:
 
@@ -100,11 +125,11 @@ De volgende besluiten van DNB worden ingetrokken:
 
 - –. [Besluit aanwijzing toezichthouders DNB voor Caribisch Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0031922).
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2022.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders DNB 2022.
 

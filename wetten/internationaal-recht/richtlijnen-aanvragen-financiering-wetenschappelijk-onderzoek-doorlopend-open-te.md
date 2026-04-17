@@ -1,13 +1,36 @@
 ---
-title: "Richtlijnen aanvragen financiering wetenschappelijk onderzoek (doorlopend Open Technologieprogramma (OTP))"
+title: "Richtlijnen voor het aanvragen van financiering voor wetenschappelijk onderzoek in het kader van het doorlopend Open Technologieprogramma (OTP)"
 identifier: "BWBR0039841"
-categorie: "Internationaal recht"
-publicatiedatum: 2017-07-26
-laatste_update: 2017-07-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039841"
+country: "nl"
+rank: "zbo"
+publication_date: "2017-07-26"
+last_updated: "2017-07-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039841"
+soort: "zbo"
+stam_id: "14084123"
+version_id: "24252202"
+internal_id: "C34831711"
+label_id: "14047154"
+dtd_version: "2.0"
+original_entry_into_force: "2017-07-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039841/2017-07-26/0"
+intitule_bron: "Stcrt.2017-42146"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2017-07-25"
+intitule_in_force: "2017-07-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-42146"
+original_published_date: "2017-07-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-42146"
+entry_into_force_date: "2017-07-26"
+jci_1_3: "jci1.3:c:BWBR0039841&z=2017-07-26&g=2017-07-26"
+jci_1_0: "1.0:c:BWBR0039841&g=2017-07-26"
+citeertitel_status: "redactioneel"
+short_title: "Richtlijnen aanvragen financiering wetenschappelijk onderzoek (doorlopend Open Technologieprogramma (OTP))"
+entry_into_force: "2017-07-26"
 ---
-
 # Richtlijnen voor het aanvragen van financiering voor wetenschappelijk onderzoek in het kader van het doorlopend Open Technologieprogramma (OTP)
 
 ### ‘Connecting innovators’

@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsregeling huurprijzen woonruimte"
+title: "Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 15 juli 2003, nr. MJZ2003071600, Centrale Directie Juridische Zaken Afdeling Wetgeving, houdende aanpassing en samenvoeging van ministeriële regelingen als gevolg van de invoering van de Uitvoeringswet huurprijzen woonruimte (Uitvoeringsregeling huurprijzen woonruimte)"
 identifier: "BWBR0015386"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015386"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015386"
+soort: "ministeriele-regeling"
+stam_id: "5425953"
+version_id: "30179842"
+internal_id: "C43241391"
+label_id: "5401334"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015386/2026-01-01/0"
+intitule_bron: "Stcrt.2003-143"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-07-15"
+intitule_published: "2003-07-29"
+intitule_in_force: "2003-07-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-20539"
+original_signed_date: "2024-06-24"
+original_published_date: "2024-06-28"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-20539"
+entry_into_force_date: "2024-07-01"
+jci_1_3: "jci1.3:c:BWBR0015386&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0015386&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsregeling huurprijzen woonruimte"
+signed_date: "2024-06-24"
+entry_into_force: "2024-07-01"
 ---
-
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 15 juli 2003, nr. MJZ2003071600, Centrale Directie Juridische Zaken Afdeling Wetgeving, houdende aanpassing en samenvoeging van ministeriële regelingen als gevolg van de invoering van de Uitvoeringswet huurprijzen woonruimte (Uitvoeringsregeling huurprijzen woonruimte)
 
 Gelet op de [artikelen 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=10), [27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=27), [42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=42), en [47, eerste en tweede lid, onder c, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=47) en [artikel 12, eerste lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=12);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -34,31 +60,31 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Maximale huurprijsgrenzen
 
-#### Artikel 2
+##### Artikel 2
 
 De maximale huurprijsgrenzen voor woonruimten welke een zelfstandige woning vormen als bedoeld in [artikel 1, tweede lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn de bedragen, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=I&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 3
+##### Artikel 3
 
 De maximale huurprijsgrenzen voor woonruimten welke niet een zelfstandige woning vormen als bedoeld in [artikel 1, derde lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn de bedragen, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=II&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 4
+##### Artikel 4
 
 De maximale huurprijsgrenzen voor woonwagens als bedoeld in [artikel 7:235 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=235) zijn de bedragen, genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=III&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 5
+##### Artikel 5
 
 De maximale huurprijsgrenzen voor standplaatsen als bedoeld in [artikel 7:236 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=236) zijn de bedragen, genoemd in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=IV&z=2026-01-01&g=2026-01-01).
 
 #### § 3. Maximale huurverhogingspercentages
 
-#### Artikel 6
+##### Artikel 6
 
 De huurcommissie beoordeelt de redelijkheid van de huurprijs van woonruimte dan wel een daarin voorgestelde wijziging met inachtneming van de in de [bijlagen V](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=V&z=2026-01-01&g=2026-01-01) en [VI van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VI&z=2026-01-01&g=2026-01-01) vervatte schema’s.
 
 #### § 4. Bezoldiging en vergoedingen voorzitter, plaatsvervangend voorzitter, zittingsvoorzitters, zittingsleden en leden van de Raad van Advies
 
-#### Artikel 7
+##### Artikel 7
 
 1. De voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters genieten een bezoldiging overeenkomstig een van de salarisschalen van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
 
@@ -76,7 +102,7 @@ De huurcommissie beoordeelt de redelijkheid van de huurprijs van woonruimte dan 
 
 6. Indien het overlijden van de voorzitter, de plaatsvervangend voorzitter of een zittingsvoorzitter het gevolg is van een dienstongeval of beroepsziekte, is [artikel 102b van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=102b) van overeenkomstige toepassing.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De zittingsleden genieten een vergoeding ten bedrage van € 392 per zitting van de zittingscommissie, bedoeld in [artikel 21 van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=21), en per vergadering van de huurcommissie. Het bedrag van de vergoeding wordt jaarlijks per 1 april gewijzigd met het onmiddellijk daaraan voorafgaande in januari in de Staatscourant bekendgemaakte percentage, waarmee de consumentenprijzen (alle huishoudens) ten opzichte van het aan die bekendmaking voorafgaande jaar zijn gewijzigd.
 
@@ -84,7 +110,7 @@ De huurcommissie beoordeelt de redelijkheid van de huurprijs van woonruimte dan 
 
 #### § 5. Openbaar register
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het openbaar register bevat uitspraken die in de laatste vijf jaren zijn gedaan.
 
@@ -92,7 +118,7 @@ De huurcommissie beoordeelt de redelijkheid van de huurprijs van woonruimte dan 
 
 #### § 6. Formulieren
 
-#### Artikel 10
+##### Artikel 10
 
 1. De groep, bedoeld in [artikel 7:252a, zesde lid, onderdeel a, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252a), bestaat uit huishoudens waarbij:
 
@@ -110,7 +136,7 @@ De huurcommissie beoordeelt de redelijkheid van de huurprijs van woonruimte dan 
 
 #### § 7. Vrijstelling leges
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een verzoek om vrijstelling wordt uiterlijk binnen vier weken na de datum van verzending van het bericht, bedoeld in [artikel 7, vierde of zevende lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=7) of uiterlijk binnen vier weken na de datum waarop een verzoek als bedoeld in [artikel 8, eerste lid, van de Wet op het overleg huurders verhuurder](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&artikel=8) bij de huurcommissie is ingediend, op een daartoe door het bestuur beschikbaar gesteld formulier ingediend bij de voorzitter.
 
@@ -120,13 +146,13 @@ De huurcommissie beoordeelt de redelijkheid van de huurprijs van woonruimte dan 
 
 - b. een ten gunste van de verzoeker niet eerder dan zes maanden voor de indiening van het verzoek om vrijstelling krachtens de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) gegeven beschikking tot vaststelling van algemene bijstand.
 
-#### Artikel 12
+##### Artikel 12
 
 Vrijstelling kan slechts worden verleend, indien voldaan is aan het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&paragraaf=7&artikel=11&z=2026-01-01&g=2026-01-01).
 
 #### § 5. Openbaar register
 
-#### Artikel 13
+##### Artikel 13
 
 1. Bij een voorstel als bedoeld in [artikel 7:252b, eerste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252b), of indien de verhuurder een voorstel als bedoeld in [artikel 7:252a, eerste lid, van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252a) heeft gedaan en het huishoudinkomen voorwerp van geschil is, bij een verklaring als bedoeld in [artikel 7:253, eerste lid, eerste volzin, van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=253) of een verzoek als bedoeld in artikel 7:253, tweede lid, aanhef, van dat wetboek, verstrekt de huurder:
 
@@ -138,23 +164,23 @@ Vrijstelling kan slechts worden verleend, indien voldaan is aan het bepaalde in 
 
 3. Indien de verhuurder een voorstel als bedoeld in [artikel 7:252a, eerste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252a) heeft gedaan en het feit dat het huishouden bestaat uit 4 of meer personen voorwerp van geschil is, verstrekt de huurder bij een verklaring als bedoeld in [artikel 7:253, eerste lid, eerste volzin, van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=253) of een verzoek als bedoeld in artikel 7:253, tweede lid, aanhef, van dat wetboek een afschrift uit de basisregistratie personen van een van de bewoners waaruit blijkt hoeveel personen staan ingeschreven op het adres van de woning.
 
-#### Artikel 14
+##### Artikel 14
 
 Het formulier, bedoeld in [artikel 7:260, derde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=260), is het formulier als opgenomen in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VII&z=2026-01-01&g=2026-01-01).
 
 #### § 9. Slotbepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 1. De [Regeling vaststelling maximale huurprijsgrenzen woonruimten 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013654) wordt ingetrokken.
 
 2. De Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 26 april 2003, nr. MJZ2003033492, houdende wijziging van de Regeling vaststelling maximale huurprijsgrenzen woonruimten 2002 (vaststelling maximale huurprijsgrenzen onzelfstandige woonruimten 2003) (Stcrt. 90) wordt ingetrokken.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling treedt in werking met ingang van 1 augustus 2003.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling huurprijzen woonruimte.
 
@@ -1195,29 +1221,29 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 7a
+##### Artikel 7a
 
 Vervallen
 
-#### Artikel 7b
+##### Artikel 7b
 
 Vervallen
 
-#### Artikel 7c
+##### Artikel 7c
 
 Indien de plaatsvervangend voorzitter de functie van voorzitter waarneemt, kan hem een waarnemingstoelage worden toegekend overeenkomstig [artikel 14 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=14).
 
-#### Artikel 7d
+##### Artikel 7d
 
 Op het ambtsjubileum van de voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters is [artikel 79, eerste lid, van het Algemeen Rijksambtenarenregelement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=79) van overeenkomstige toepassing
 
-#### Artikel 7e
+##### Artikel 7e
 
 1. Op eenmalige of periodieke toeslagen van de voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters is [artikel 22a van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=22a) van overeenkomstige toepassing.
 
 2. De voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters hebben recht op het Individueel Keuzebudget en op de mogelijkheid om betaald meer uren te werken overeenkomstig hetgeen daarover is overeengekomen in hoofdstuk 9 van de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
-#### Artikel 7f
+##### Artikel 7f
 
 1. De voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters genieten een vergoeding voor reis- en verblijfkosten ter zake van dienstreizen overeenkomstig het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889), het [Reisbesluit buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006842) en de [Reisregeling binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005912).
 
@@ -1225,7 +1251,7 @@ Op het ambtsjubileum van de voorzitter, de plaatsvervangend voorzitter en de zit
 
 3. De voorzitter heeft recht op een vergoeding van representatiekosten overeenkomstig [artikel 68a, derde lid, onderdeel b, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=68a). De plaatsvervangend voorzitter en de zittingsvoorzitters hebben recht op een vergoeding van representatiekosten overeenkomstig artikel 68a, derde lid, onderdeel c, van het Algemeen Rijksambtenarenreglement.
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. De leden van de Raad van Advies, bedoeld in [artikel 3g van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3g), genieten een vergoeding voor het bijwonen van vergaderingen en het geven van adviezen uit hoofde van hun functie als bedoeld in dat artikel ten bedrage van € 400 per maand. Het lid van de Raad dat tevens telkenmale die vergaderingen voorzit, geniet een vergoeding van € 520 per maand. De bedragen van de vergoeding worden jaarlijks per 1 april gewijzigd met het onmiddellijk daaraan voorafgaande in januari in de Staatscourant bekendgemaakte percentage, waarmee de consumentenprijzen (alle huishoudens) ten opzichte van het aan die bekendmaking voorafgaande jaar zijn gewijzigd.
 
@@ -1303,13 +1329,13 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 12a
+##### Artikel 12a
 
 De gegevens, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=7), en [8 van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=8), worden uiterlijk binnen vier weken na de kennisgeving van ontvangst van het verzoek bij de voorzitter ingediend. De gegevens bevatten een afschrift van de huurovereenkomst.
 
 #### § 8. Gegevensverstrekking door de huurder
 
-#### Artikel 14a
+##### Artikel 14a
 
 Het bedrag, bedoeld in [artikel 18, vierde lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=18), is het bedrag, genoemd in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VIII&z=2026-01-01&g=2026-01-01).
 
@@ -1335,7 +1361,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 12b
+##### Artikel 12b
 
 Het bedrag, bedoeld in [artikel 5, tweede lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=5) bedraagt € 500.
 

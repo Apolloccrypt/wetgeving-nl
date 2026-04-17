@@ -1,13 +1,34 @@
 ---
 title: "Subsidieregeling Beurzen en stipendia 2004"
 identifier: "BWBR0014553"
-categorie: "Bestuursrecht"
-publicatiedatum: 2003-07-22
-laatste_update: 2003-07-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014553"
+country: "nl"
+rank: "zbo"
+publication_date: "2003-07-22"
+last_updated: "2003-07-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014553"
+soort: "zbo"
+stam_id: "6537863"
+version_id: "11326092"
+internal_id: "C15262181"
+label_id: "6527214"
+original_entry_into_force: "2003-07-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014553/2003-07-22/0"
+intitule_bron: "Stcrt.2003-138"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2003-07-22"
+intitule_in_force: "2003-07-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-138"
+original_published_date: "2003-07-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2003-138-p22-SC60242"
+entry_into_force_date: "2003-07-22"
+jci_1_3: "jci1.3:c:BWBR0014553&z=2003-07-22&g=2003-07-22"
+jci_1_0: "1.0:c:BWBR0014553&g=2003-07-22"
+citeertitel_status: "redactioneel"
+entry_into_force: "2003-07-22"
 ---
-
 # Subsidieregeling Beurzen en stipendia 2004
 
 Deze regeling vervangt per 1 september 2003 de regeling Beurzen en stipendia 2003.

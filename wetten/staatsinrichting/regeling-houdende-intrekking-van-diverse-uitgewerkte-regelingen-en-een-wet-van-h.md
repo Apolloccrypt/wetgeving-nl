@@ -1,13 +1,39 @@
 ---
-title: "Regeling houdende intrekking van diverse uitgewerkte regelingen en een wet van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister voor Wonen en Rijksdienst van 6 maart 2013, nr. 2013-0000117717, houdende de intrekking van uitgewerkte regelingen en een uitgewerkte wet"
 identifier: "BWBR0033152"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2013-07-01
-laatste_update: 2013-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033152"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-07-01"
+last_updated: "2013-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033152"
+soort: "ministeriele-regeling"
+stam_id: "12178443"
+version_id: "20342432"
+internal_id: "C28619301"
+label_id: "12149984"
+dtd_version: "2.0"
+original_entry_into_force: "2013-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033152/2013-07-01/0"
+intitule_bron: "Stcrt.2013-8646"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-03-06"
+intitule_published: "2013-04-05"
+intitule_in_force: "2013-04-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-8646"
+original_signed_date: "2013-03-06"
+original_published_date: "2013-04-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-8646"
+entry_into_force_date: "2013-07-01"
+jci_1_3: "jci1.3:c:BWBR0033152&z=2013-07-01&g=2013-07-01"
+jci_1_0: "1.0:c:BWBR0033152&g=2013-07-01"
+citeertitel_status: "redactioneel"
+short_title: "Regeling houdende intrekking van diverse uitgewerkte regelingen en een wet van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties"
+signed_date: "2013-03-06"
+entry_into_force: "2013-07-01"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister voor Wonen en Rijksdienst van 6 maart 2013, nr. 2013-0000117717, houdende de intrekking van uitgewerkte regelingen en een uitgewerkte wet
 
 Handelende mede namens de Minister van Buitenlandse Zaken en de Minister van Defensie, voor zover het betreft [artikel 1, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0033152&artikel=1&z=2013-07-01&g=2013-07-01);
@@ -26,7 +52,7 @@ Gelet op [artikel 2, eerste lid, van de Tijdelijke spoedwet verkiezingen Europee
 
 Besluiten:
 
-#### Artikel 1. Intrekking van regelingen met betrekking tot diverse commissies
+##### Artikel 1. Intrekking van regelingen met betrekking tot diverse commissies
 
 De volgende regelingen worden ingetrokken:
 
@@ -68,7 +94,7 @@ De volgende regelingen worden ingetrokken:
 
 - s. [Ynstellingsbeslút Stjoergroep desintralisaasje Fryske taal nei de provinsje Fryslân ta](https://wetten.overheid.nl/jci1.3:c:BWBR0025937).
 
-#### Artikel 2. Intrekking van regelingen met betrekking tot koninkrijksrelaties
+##### Artikel 2. Intrekking van regelingen met betrekking tot koninkrijksrelaties
 
 De volgende regelingen worden ingetrokken:
 
@@ -78,7 +104,7 @@ De volgende regelingen worden ingetrokken:
 
 - c. [Instelling Adviseur Bestuursakkoord/Stappenplan bestuurlijke en ambtelijke vernieuwing Sint Maarten van 30 januari 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009400), Stcrt. 36.
 
-#### Artikel 3. Intrekking van regelingen met betrekking tot de Staten-Generaal
+##### Artikel 3. Intrekking van regelingen met betrekking tot de Staten-Generaal
 
 De volgende regelingen worden ingetrokken:
 
@@ -90,7 +116,7 @@ De volgende regelingen worden ingetrokken:
 
 - d. [Regeling aanpassing beroepskostenvergoeding leden Tweede Kamer van 17 december 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0017774), Stcrt. 251.
 
-#### Artikel 4. Intrekking van regelingen met betrekking tot de organisatie van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties
+##### Artikel 4. Intrekking van regelingen met betrekking tot de organisatie van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
 De volgende regelingen worden ingetrokken:
 
@@ -110,7 +136,7 @@ De volgende regelingen worden ingetrokken:
 
 - h. [Besluit volmacht aan Uitvoeringsinstituut werknemersverzekeringen (Algemene pensioenwet politieke ambtsdragers) van 20 augustus 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0017129), Stcrt. 168.
 
-#### Artikel 5. Intrekking van regelingen met betrekking tot de uitvoering van de [Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212)
+##### Artikel 5. Intrekking van regelingen met betrekking tot de uitvoering van de [Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212)
 
 De volgende regelingen worden ingetrokken:
 
@@ -118,7 +144,7 @@ De volgende regelingen worden ingetrokken:
 
 - b. [Wijziging Paspoortuitvoeringsregeling Nederlandse Antillen en Aruba van 19 augustus 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005621), Stcrt. 1 166.
 
-#### Artikel 6. Intrekking van regelingen met betrekking tot de Nationale ombudsman
+##### Artikel 6. Intrekking van regelingen met betrekking tot de Nationale ombudsman
 
 De volgende regelingen worden ingetrokken:
 
@@ -152,7 +178,7 @@ De volgende regelingen worden ingetrokken:
 
 - o. [Regeling toepassing Wet Nationale ombudsman (gemeenten Aalten, Berkelland, enz.) van 23 maart 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018137), Stcrt. 63.
 
-#### Artikel 7. Intrekking van regelingen met betrekking tot de rechtspositie van ambtenaren
+##### Artikel 7. Intrekking van regelingen met betrekking tot de rechtspositie van ambtenaren
 
 De volgende regelingen worden ingetrokken:
 
@@ -200,7 +226,7 @@ De volgende regelingen worden ingetrokken:
 
 - v. [Besluit aanpassing bedragen Wet vergoedingen leden Eerste Kamer van 18 april 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019766), Stcrt. 80.
 
-#### Artikel 8. Intrekking van regelingen met betrekking tot het kiesrecht
+##### Artikel 8. Intrekking van regelingen met betrekking tot het kiesrecht
 
 De volgende regelingen worden ingetrokken:
 
@@ -210,17 +236,17 @@ De volgende regelingen worden ingetrokken:
 
 - c. [Besluit aanwijzing briefstembureau Philipsburg, Sint Maarten (2010) van 1 juni 2010](onbekend), Stcrt. 8615.
 
-#### Artikel 9. Intrekking [Tijdelijke spoedwet verkiezingen Europees Parlement 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016604)
+##### Artikel 9. Intrekking [Tijdelijke spoedwet verkiezingen Europees Parlement 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016604)
 
 De [Tijdelijke spoedwet verkiezingen Europees Parlement 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016604) wordt ingetrokken.
 
-#### Artikel 10. Overgangsbepalingen
+##### Artikel 10. Overgangsbepalingen
 
 1. Voor zover er ter zake nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, geschiedt deze overeenkomstig de regelingen en de wet, genoemd in de [artikelen 1 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0033152&artikel=1&z=2013-07-01&g=2013-07-01).
 
 2. Bestaande aanspraken en verplichtingen bij, op grond van of in het kader van de regelingen en de wet, genoemd in de [artikelen 1 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0033152&artikel=1&z=2013-07-01&g=2013-07-01), blijven in stand.
 
-#### Artikel 11. Slotbepaling
+##### Artikel 11. Slotbepaling
 
 Deze regeling treedt in werking met ingang van 1 juli 2013.
 

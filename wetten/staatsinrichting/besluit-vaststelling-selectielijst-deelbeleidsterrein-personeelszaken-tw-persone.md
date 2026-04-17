@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling selectielijst deelbeleidsterrein personeelszaken, t.w. personeelsdossiers (Tweede Kamer der Staten-Generaal)"
+title: "Besluit van 16 april 2009, nr. 09.001007, houdende vaststelling van een selectielijst van de Tweede Kamer der Staten-Generaal op het deelbeleidsterrein van personeelszaken, t.w. personeelsdossiers"
 identifier: "BWBR0025927"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2009-06-13
-laatste_update: 2009-06-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025927"
+country: "nl"
+rank: "kb"
+publication_date: "2009-06-13"
+last_updated: "2009-06-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025927"
+soort: "KB"
+stam_id: "10057543"
+version_id: "16437382"
+internal_id: "C22602381"
+label_id: "10033814"
+dtd_version: "2.0"
+original_entry_into_force: "2009-06-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025927/2009-06-13/0"
+intitule_bron: "Stcrt.2009-105"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-04-16"
+intitule_published: "2009-06-11"
+intitule_in_force: "2009-06-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-105"
+original_signed_date: "2009-04-16"
+original_published_date: "2009-06-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-8590"
+entry_into_force_date: "2009-06-13"
+jci_1_3: "jci1.3:c:BWBR0025927&z=2009-06-13&g=2009-06-13"
+jci_1_0: "1.0:c:BWBR0025927&g=2009-06-13"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling selectielijst deelbeleidsterrein personeelszaken, t.w. personeelsdossiers (Tweede Kamer der Staten-Generaal)"
+signed_date: "2009-04-16"
+entry_into_force: "2009-06-13"
 ---
-
 # Besluit van 16 april 2009, nr. 09.001007, houdende vaststelling van een selectielijst van de Tweede Kamer der Staten-Generaal op het deelbeleidsterrein van personeelszaken, t.w. personeelsdossiers
 
 Op de voordracht van Onze minister van Onderwijs, Cultuur en Wetenschap, dr. R.H.A. Plasterk van (d.d. 5 maart, kenmerk NA/09/558) gedaan in overeenstemming met de Tweede Kamer der Staten-Generaal;
@@ -18,11 +44,11 @@ Gezien het advies van de Raad voor Cultuur van 29 januari 2009 (kenmerk bca-2009
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘Selectielijst voor de Tweede Kamer der Staten-Generaal op het deelbeleidsterrein van personeelszaken, t.w. het personeelsdossier’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

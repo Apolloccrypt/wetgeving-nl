@@ -1,13 +1,39 @@
 ---
-title: "Regeling koopsubsidiegrenzen en koopsubsidieplafond 2026"
+title: "Regeling van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 21 november 2025, nr. 2025-0000649828, houdende vaststelling van percentages, bedragen en inkomensklassen ingevolge de Wet bevordering eigenwoningbezit en wijziging van enkele bedragen in die wet (Regeling koopsubsidiegrenzen en koopsubsidieplafond 2026)"
 identifier: "BWBR0051842"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051842"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051842"
+soort: "ministeriele-regeling"
+stam_id: "17616843"
+version_id: "31101222"
+internal_id: "C44521621"
+label_id: "17517214"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051842/2026-01-01/0"
+intitule_bron: "Stcrt.2025-39784"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-11-21"
+intitule_published: "2025-11-25"
+intitule_in_force: "2025-11-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-39784"
+original_signed_date: "2025-11-21"
+original_published_date: "2025-11-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-39784"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051842&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051842&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling koopsubsidiegrenzen en koopsubsidieplafond 2026"
+signed_date: "2025-11-21"
+entry_into_force: "2026-01-01"
 ---
-
 # Regeling van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 21 november 2025, nr. 2025-0000649828, houdende vaststelling van percentages, bedragen en inkomensklassen ingevolge de Wet bevordering eigenwoningbezit en wijziging van enkele bedragen in die wet (Regeling koopsubsidiegrenzen en koopsubsidieplafond 2026)
 
 Gelet op de [artikelen 6, zesde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&artikel=6), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&artikel=15), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&artikel=23), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&artikel=26), [29, eerste, tweede, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&artikel=29), en [41, eerste en tweede lid, van de Wet bevordering eigenwoningbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&artikel=41);
@@ -16,15 +42,15 @@ Besluit:
 
 #### § 1. Vaststelling van percentages, bedragen en inkomensklassen ingevolge de [Wet bevordering eigenwoningbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0011919)
 
-#### Artikel 1
+##### Artikel 1
 
 De rentevaste periode, bedoeld in [artikel 23 van de Wet bevordering eigenwoningbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&artikel=23), is: 10 jaar.
 
-#### Artikel 2
+##### Artikel 2
 
 Het percentage van de toetsrente, bedoeld in [artikel 26, eerste lid, van de Wet bevordering eigenwoningbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&artikel=26), bedraagt: 3,6.
 
-#### Artikel 3
+##### Artikel 3
 
 De financieringslastnorm, bedoeld in [artikel 29, eerste lid, van de Wet bevordering eigenwoningbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&artikel=29), bedraagt:
 
@@ -146,7 +172,7 @@ De financieringslastnorm, bedoeld in [artikel 29, eerste lid, van de Wet bevorde
 | 42 | 28,30% |
 | 43 | 28,30% |
 
-#### Artikel 4
+##### Artikel 4
 
 Het percentage, bedoeld in [artikel 29, tweede lid, van de Wet bevordering eigenwoningbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&artikel=29), waarmee de financieringslastnorm, bedoeld in het eerste lid van dat artikel, ten hoogste kan worden vermeerderd, bedraagt:
 
@@ -268,7 +294,7 @@ Het percentage, bedoeld in [artikel 29, tweede lid, van de Wet bevordering eigen
 | 42 | 0,03% |
 | 43 | 0,00% |
 
-#### Artikel 5
+##### Artikel 5
 
 De inkomensklassen en de daarbij behorende maximale hypothecaire leningen, bedoeld in [artikel 29, vijfde lid, van de Wet bevordering eigenwoningbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&artikel=29), zijn:
 
@@ -394,27 +420,27 @@ De inkomensklassen en de daarbij behorende maximale hypothecaire leningen, bedoe
 
 #### § 2. Wijziging van de [Wet bevordering eigenwoningbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0011919)
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt de Wet bevordering eigenwoningbezit.
 
 #### § 3. Koopsubsidieplafond
 
-#### Artikel 7
+##### Artikel 7
 
 Het bedrag, bedoeld in [artikel 6, zesde lid, onderdeel a, van de Wet bevordering eigenwoningbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&artikel=6) is voor het jaar 2026: € 0.
 
 #### § 4. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 De [Regeling koopsubsidiegrenzen en koopsubsidieplafond 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050621) wordt ingetrokken.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking met ingang van 1 januari 2026.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling koopsubsidiegrenzen en koopsubsidieplafond 2026.
 

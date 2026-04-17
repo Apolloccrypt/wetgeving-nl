@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsregeling Regeling Verpakkingen- en gebruiksartikelen i.v.m. richtlijnen 2005/31/EG en 2005/79/EG"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 juni 2006, nr. VGP/PSL 2686332, houdende een wijziging van de Regeling Verpakkingen- en gebruiksartikelen (Warenwet) in verband met richtlijnen nr. 2005/31/EG en 2005/79/EG"
 identifier: "BWBR0019946"
-categorie: "Internationaal recht"
-publicatiedatum: 2006-11-19
-laatste_update: 2006-11-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019946"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2006-11-19"
+last_updated: "2006-11-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019946"
+soort: "ministeriele-regeling"
+stam_id: "8358873"
+version_id: "13230692"
+internal_id: "C17802441"
+label_id: "8339694"
+dtd_version: "2.0"
+original_entry_into_force: "2006-06-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019946/2006-11-19/0"
+intitule_bron: "Stcrt.2006-114"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-06-08"
+intitule_published: "2006-06-15"
+intitule_in_force: "2006-06-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-114"
+original_signed_date: "2006-06-08"
+original_published_date: "2006-06-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-114-p12-SC75481"
+entry_into_force_date: "2006-06-17"
+jci_1_3: "jci1.3:c:BWBR0019946&z=2006-11-19&g=2006-11-19"
+jci_1_0: "1.0:c:BWBR0019946&g=2006-11-19"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsregeling Regeling Verpakkingen- en gebruiksartikelen i.v.m. richtlijnen 2005/31/EG en 2005/79/EG"
+signed_date: "2006-06-08"
+entry_into_force: "2006-06-17"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 juni 2006, nr. VGP/PSL 2686332, houdende een wijziging van de Regeling Verpakkingen- en gebruiksartikelen (Warenwet) in verband met richtlijnen nr. 2005/31/EG en 2005/79/EG
 
 Handelende in overeenstemming met de Minister van Economische Zaken en de Minister van Landbouw, Natuur en Voedselkwaliteit;
@@ -22,23 +48,23 @@ Gelet op:
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Regeling Verpakkingen- en gebruiksartikelen (Warenwet).
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Regeling Verpakkingen- en gebruiksartikelen (Warenwet).
 
-#### Artikel III
+##### Artikel III
 
 Materialen en voorwerpen van kunststof die bestemd zijn om met levensmiddelen in aanraking te komen en die voldoen aan [deel A, hoofdstuk I, onderdelen 1.2, 2.1, 2.2, 2.3 en 2.5, van de Regeling Verpakkingen- en gebruiksartikelen (Warenwet)](onbekend), zoals die onmiddellijk vóór de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0019946&artikel=I&z=2006-11-19&g=2006-11-19) luidde, mogen nog worden verhandeld tot 19 november 2007.
 
-#### Artikel IV
+##### Artikel IV
 
 Keramische materialen die bestemd zijn om met levensmiddelen in aanraking te komen en die voldoen aan de [Regeling Verpakkingen- en gebruiksartikelen (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0003276), zoals die onmiddellijk vóór de inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0019946&artikel=II&z=2006-11-19&g=2006-11-19) van deze regeling luidde, mogen nog worden verhandeld tot 20 mei 2007.
 
-#### Artikel V
+##### Artikel V
 
 1. Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
 

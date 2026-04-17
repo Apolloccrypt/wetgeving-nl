@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling Subsidieprogramma Versnelling Weerbaarheid Voedselsystemen Afrika"
+title: "Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 25 juni 2023, Min-BuZa.2023.15455-30, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Versnelling Weerbaarheid Voedselsystemen Afrika)"
 identifier: "BWBR0048380"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-07-11
-laatste_update: 2023-07-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048380"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-07-11"
+last_updated: "2023-07-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048380"
+soort: "ministeriele-regeling"
+stam_id: "16797853"
+version_id: "29509822"
+internal_id: "C42193391"
+label_id: "16712724"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048380/2023-07-11/0"
+intitule_bron: "Stcrt.2023-19024"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-06-25"
+intitule_published: "2023-07-10"
+intitule_in_force: "2023-07-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-19024"
+original_signed_date: "2023-06-25"
+original_published_date: "2023-07-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-19024"
+entry_into_force_date: "2023-07-11"
+jci_1_3: "jci1.3:c:BWBR0048380&z=2023-07-11&g=2023-07-11"
+jci_1_0: "1.0:c:BWBR0048380&g=2023-07-11"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling Subsidieprogramma Versnelling Weerbaarheid Voedselsystemen Afrika"
+signed_date: "2023-06-25"
+entry_into_force: "2023-07-11"
 ---
-
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 25 juni 2023, Min-BuZa.2023.15455-30, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Versnelling Weerbaarheid Voedselsystemen Afrika)
 
 Gelet op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=6) en [7 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=7);
@@ -16,27 +42,27 @@ Gelet op [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor subsidieverlening op grond van de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=5.1) en [10.2 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=10.2) met het oog op de financiering van activiteiten die gericht zijn op het verbeteren van lokale voedselsystemen, gelden voor de periode vanaf inwerkingtreding van dit besluit tot en met 31 december 2026 de als bijlage bij dit besluit gevoegde beleidsregels.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aanvragen voor subsidie in het kader van het Subsidieprogramma Versnelling Weerbaarheid Voedselsystemen Afrika worden ingediend van 2 oktober 2023, 9:00 uur tot en met 18 december 2023, 15:00 uur Nederlandse tijd.
 
 2. Aanvragen voor subsidie in het kader van het Subsidieprogramma Versnelling Weerbaarheid Voedselsystemen Afrika worden ingediend aan de hand van een door de Minister beschikbaar gesteld formulier en voorzien van de op het aanvraagformulier gevraagde bescheiden.1[https://english.rvo.nl/accelerating-resilient-food-systems-africa-arfsa](onbekend)
 
-#### Artikel 3
+##### Artikel 3
 
 Voor subsidieverlening in het kader van het Subsidieprogramma Versnelling Weerbaarheid Voedselsystemen Afrika geldt voor aanvragen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048380&artikel=2&z=2023-07-11&g=2023-07-11), een subsidieplafond van € 12 miljoen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De verdeling van het subsidieplafond bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048380&artikel=3&z=2023-07-11&g=2023-07-11), vindt plaats op grond van een beoordeling overeenkomstig de maatstaven die in de bijlage bij dit besluit zijn neergelegd, met dien verstande dat uit alle aanvragen die voldoen aan de maatstaven, de aanvragen die het beste voldoen aan die maatstaven het eerst voor subsidieverlening in aanmerking komen.
 
 2. Uit oogpunt van doelmatigheid zullen per doelland, genoemd in annex 1 van de bijlage bij dit besluit, niet meer dan twee subsidieaanvragen in aanmerking kunnen komen voor subsidieverlening. Indien twee of meer van de aanvragen die betrekking hebben op hetzelfde doelland in gelijke mate voldoen aan de maatstaven, wordt de rangschikking van de gelijk scorende aanvragen bepaald door loting.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 januari 2027, met dien verstande dat het besluit van toepassing blijft op subsidies die voor die datum zijn verleend.
 

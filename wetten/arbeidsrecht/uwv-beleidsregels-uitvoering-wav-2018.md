@@ -1,13 +1,38 @@
 ---
 title: "UWV Beleidsregels uitvoering Wav 2018"
 identifier: "BWBR0041410"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2019-10-01
-laatste_update: 2019-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041410"
+country: "nl"
+rank: "zbo"
+publication_date: "2019-10-01"
+last_updated: "2019-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041410"
+soort: "zbo"
+stam_id: "14824653"
+version_id: "25346052"
+internal_id: "C36193091"
+label_id: "14776824"
+dtd_version: "2.0"
+original_entry_into_force: "2018-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041410/2019-10-01/0"
+intitule_bron: "Stcrt.2018-54228"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-09-20"
+intitule_published: "2018-10-01"
+intitule_in_force: "2018-10-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-54228"
+original_signed_date: "2018-09-20"
+original_published_date: "2018-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-54228"
+entry_into_force_date: "2018-10-01"
+jci_1_3: "jci1.3:c:BWBR0041410&z=2019-10-01&g=2019-10-01"
+jci_1_0: "1.0:c:BWBR0041410&g=2019-10-01"
+citeertitel_status: "officieel"
+signed_date: "2018-09-20"
+entry_into_force: "2018-10-01"
 ---
-
 # UWV Beleidsregels uitvoering Wav 2018
 
 Gelet op [artikel 1 van de Regeling uitvoering Wet arbeid vreemdelingen 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034945&artikel=1) (Stcrt. 2014, nr. 8189) en gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);

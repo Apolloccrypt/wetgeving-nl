@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling IPCEI Health"
+title: "Regeling van de Minister van Volksgezondheid Welzijn en Sport van 29 juni 2022, kenmerk 3389067-1031676-GMT, houdende regels voor de subsidiëring van activiteiten die binnen de reikwijdte van Important Projects of Common European Interest op het gebied van Health vallen (Subsidieregeling IPCEI Health)"
 identifier: "BWBR0046873"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-07-26
-laatste_update: 2024-07-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046873"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-07-26"
+last_updated: "2024-07-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046873"
+soort: "ministeriele-regeling"
+stam_id: "16411843"
+version_id: "28743672"
+internal_id: "C40669091"
+label_id: "16336104"
+dtd_version: "2.0"
+original_entry_into_force: "2022-07-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046873/2024-07-26/0"
+intitule_bron: "Stcrt.2022-17724"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-06-29"
+intitule_published: "2022-07-08"
+intitule_in_force: "2022-07-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-17724"
+original_signed_date: "2022-06-29"
+original_published_date: "2022-07-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-17724"
+entry_into_force_date: "2022-07-09"
+jci_1_3: "jci1.3:c:BWBR0046873&z=2024-07-26&g=2024-07-26"
+jci_1_0: "1.0:c:BWBR0046873&g=2024-07-26"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling IPCEI Health"
+signed_date: "2022-06-29"
+entry_into_force: "2022-07-09"
 ---
-
 # Regeling van de Minister van Volksgezondheid Welzijn en Sport van 29 juni 2022, kenmerk 3389067-1031676-GMT, houdende regels voor de subsidiëring van activiteiten die binnen de reikwijdte van Important Projects of Common European Interest op het gebied van Health vallen (Subsidieregeling IPCEI Health)
 
 Gelet op [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [5 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -98,11 +124,11 @@ In deze regeling wordt verstaan onder:
 
 - **wave:** afgebakende periode in de tijd waarin Europese belangrijke projecten zijn gericht op specifieke deelonderwerpen van de IPCEI Health.
 
-#### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing, met uitzondering van de [artikelen 5.1 tot en met 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.1), [artikel 5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.11) en [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=10.1).
 
-#### Artikel 3. Subsidieverstrekking
+##### Artikel 3. Subsidieverstrekking
 
 1. De minister kan op aanvraag subsidie verstrekken aan een directe partner of een indirecte partner voor het uitvoeren van een Nederlands belangrijk project dat gericht is op het verwezenlijken van de doelstellingen van de IPCEI Health en van één of meer van de doelstellingen, bedoeld in paragraaf 3.2.1, onderdeel 14, van het IPCEI-steunkader.
 
@@ -120,7 +146,7 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 - f. proces- en organisatie-innovatie door een onderneming waarbij wordt voldaan aan de voorwaarden, bedoeld in artikel 29 van de algemene groepsvrijstellingsverordening.
 
-#### Artikel 4. Voorwaarden subsidieverstrekking
+##### Artikel 4. Voorwaarden subsidieverstrekking
 
 1. Subsidie wordt enkel verstrekt voor Nederlandse belangrijke projecten indien zij gericht zijn op de doelstellingen van de wave waar de projecten toe behoren.
 
@@ -136,13 +162,13 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 4. Subsidie wordt enkel verstrekt met inachtneming van de opschortende voorwaarden, bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=12&z=2024-07-26&g=2024-07-26).
 
-#### Artikel 5. Directe en indirecte partner
+##### Artikel 5. Directe en indirecte partner
 
 1. Als directe partner kwalificeert een in Nederland gevestigde onderneming die onderdeel uitmaakt van het betrokken Europees samenwerkingsverband, deel heeft genomen aan het Europese notificatieproces en die als zogenaamde directe partner vermeld wordt in het Europees goedkeuringsbesluit en op basis daarvan steun ontvangt vanuit het IPCEI-steunkader.
 
 2. Als indirecte partner kwalificeert een in Nederland gevestigde onderneming of onderzoeksorganisatie die onderdeel uitmaakt van het betrokken Europees samenwerkingsverband en die niet als directe partner vermeld wordt in het Europees goedkeuringsbesluit, maar op basis van de algemene groepsvrijstellingsverordening geoorloofde staatssteun ontvangt.
 
-#### Artikel 6. Hoogte subsidie
+##### Artikel 6. Hoogte subsidie
 
 1. De subsidie aan een directe partner bedraagt ten hoogste het in het Europees goedkeuringsbesluit op te nemen percentage van de financieringskloof, voor zover de kosten betrekking hebben op onderzoek, ontwikkeling en innovatie, de eerste industriële toepassing van innovatieve producten of diensten of infrastructuurprojectactiviteiten.
 
@@ -174,7 +200,7 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 4. De percentages, genoemd in het tweede lid, onder a en b, kunnen worden verhoogd overeenkomstig hetgeen is bepaald in artikel 25, zesde lid, onderdelen a tot en met d, van de algemene groepsvrijstellingsverordening tot een maximale steunintensiteit van 80% van de in aanmerking komende kosten.
 
-#### Artikel 7. Subsidiabele kosten
+##### Artikel 7. Subsidiabele kosten
 
 1. De voor subsidie in aanmerking komende kosten voor een directe partner bestaan uit de kosten voor onderzoek, ontwikkeling en innovatie, de eerste industriële toepassing van innovatieve producten of diensten of infrastructuurprojectactiviteiten, voor zover deze worden opgenomen in het Europees goedkeuringsbesluit.
 
@@ -190,7 +216,7 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 - e. de kosten, bedoeld in artikel 29, derde lid, van de algemene groepsvrijstellingsverordening, voor zover deze betrekking hebben op proces- en organisatie-innovatie als bedoeld in [artikel 3, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26), door een onderneming.
 
-#### Artikel 8. Subsidieplafond en wijze van verdeling
+##### Artikel 8. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond voor de eerste wave van IPCEI Health bedraagt € 41.800.000.
 
@@ -212,7 +238,7 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 4. Indien aan meerdere subsidieaanvragen dezelfde score is toegekend na toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=11&z=2024-07-26&g=2024-07-26), wordt door middel van loting van die aanvragen de definitieve plaats in de rangschikking bepaald.
 
-#### Artikel 9. Subsidieaanvraag
+##### Artikel 9. Subsidieaanvraag
 
 1. Een aanvraag tot subsidieverlening voor de eerste wave van de IPCEI Health kan worden ingediend in aanvraagtijdvak 1.
 
@@ -252,7 +278,7 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 - f. een plan dat betrekking heeft op de wijze waarop de kennisverspreiding plaatsvindt.
 
-#### Artikel 10. Afwijzingsgronden
+##### Artikel 10. Afwijzingsgronden
 
 De minister beslist afwijzend op een aanvraag voor subsidie indien:
 
@@ -272,7 +298,7 @@ De minister beslist afwijzend op een aanvraag voor subsidie indien:
 
 - f. in het geval er sprake is van een Nederlands samenwerkingsverband waaraan een onderzoeksorganisatie deelneemt en de onderzoeksorganisatie meer dan 65 procent van de subsidiabele kosten draagt.
 
-#### Artikel 11. Rangschikkingscriteria
+##### Artikel 11. Rangschikkingscriteria
 
 1. De minister beoordeelt de subsidieaanvragen aan de hand van de volgende rangschikkingscriteria:
 
@@ -358,7 +384,7 @@ De minister beslist afwijzend op een aanvraag voor subsidie indien:
 
 10. De minister rangschikt de subsidieaanvragen die tot een wave behoren en waarop niet afwijzend is beslist van hoog naar laag aan de hand van het totale puntenaantal dat op grond van de voorgaande leden is toegekend.
 
-#### Artikel 12. Subsidieverlening onder opschortende voorwaarden
+##### Artikel 12. Subsidieverlening onder opschortende voorwaarden
 
 1. De minister neemt uiterlijk twee weken voorafgaand aan de dag van de Europese matchmakingsbijeenkomst een besluit tot subsidieverlening onder opschortende voorwaarden.
 
@@ -370,7 +396,7 @@ De minister beslist afwijzend op een aanvraag voor subsidie indien:
 
 - b. er binnen het subsidieplafond en na toepassing van de wijze van verdeling, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=8&z=2024-07-26&g=2024-07-26), voldoende middelen zijn om de subsidie te verlenen.
 
-#### Artikel 13. Definitieve subsidieverlening
+##### Artikel 13. Definitieve subsidieverlening
 
 1. De minister neemt binnen dertien weken na publicatie van het laatste Europese goedkeuringsbesluit onder de IPCEI Health dat betrekking heeft op een besluit dat genomen is op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=12&z=2024-07-26&g=2024-07-26), een besluit tot subsidieverlening.
 
@@ -388,13 +414,13 @@ De minister beslist afwijzend op een aanvraag voor subsidie indien:
 
 - f. de wijze waarop kan worden aangetoond dat de activiteiten zijn verricht.
 
-#### Artikel 14. Algemene subsidieverplichtingen
+##### Artikel 14. Algemene subsidieverplichtingen
 
 1. Met de uitvoering van een op grond van deze regeling gesubsidieerd Nederlands belangrijk project wordt gestart binnen zes maanden na het Europese goedkeuringsbesluit.
 
 2. Een op grond van deze regeling gesubsidieerd Nederlands belangrijk project dient te worden gerealiseerd binnen acht jaar na het Europese goedkeuringsbesluit.
 
-#### Artikel 15. Verplichtingen voor onderzoeksorganisaties
+##### Artikel 15. Verplichtingen voor onderzoeksorganisaties
 
 1. Indien in het Nederlandse belangrijke project niet-economisch onafhankelijk industrieel onderzoek, experimentele ontwikkeling of een haalbaarheidsstudie door een onderzoeksorganisatie wordt verricht in een Europees of Nederlands samenwerkingsverband:
 
@@ -430,7 +456,7 @@ De minister beslist afwijzend op een aanvraag voor subsidie indien:
 
 4. De voorwaarden van een overeenkomst, gesloten ingevolge het derde lid, onderdeel c, wijken niet af van voorwaarden die onafhankelijke ondernemingen overeen zouden komen en behelzen geen enkele vorm van heimelijke verstandhouding.
 
-#### Artikel 16. Verplichtingen betreffende de subsidiabele activiteiten van ondernemingen
+##### Artikel 16. Verplichtingen betreffende de subsidiabele activiteiten van ondernemingen
 
 1. Indien in het Nederlandse belangrijke project activiteiten betreffende onderzoek, ontwikkeling en innovatie, de eerste industriële toepassing van innovatieve producten of diensten of infrastructuurprojectactiviteiten door een onderneming worden verricht, worden deze projectactiviteiten door deze onderneming overeenkomstig de in het Europese goedkeuringsbesluit opgenomen verplichtingen uitgevoerd.
 
@@ -448,7 +474,7 @@ De minister beslist afwijzend op een aanvraag voor subsidie indien:
 
 4. In afwijking van het derde lid, aanhef en onderdeel b, subonderdeel 1°, kunnen ondernemingen die ten minste 10 procent van de investeringskosten van de onderzoeksinfrastructuur hebben gefinancierd preferente toegang krijgen op gunstigere voorwaarden, indien deze toegang evenredig is aan de bijdrage van de onderneming in de investeringskosten en deze gunstigere voorwaarden publiek beschikbaar worden gesteld.
 
-#### Artikel 17. Verplichtingen betreffende voortgangsrapportages en kennisverspreiding
+##### Artikel 17. Verplichtingen betreffende voortgangsrapportages en kennisverspreiding
 
 1. Op verzoek van de minister verleent de subsidieontvanger medewerking aan het verspreiden van de resultaten van de op grond van deze titel gesubsidieerde activiteiten.
 
@@ -466,7 +492,7 @@ De minister beslist afwijzend op een aanvraag voor subsidie indien:
 
 - b. op aanvraag van de subsidieontvanger ontheffing verlenen van de verplichtingen, bedoeld in het tweede of derde lid.
 
-#### Artikel 18. Aanvraag tot subsidievaststelling
+##### Artikel 18. Aanvraag tot subsidievaststelling
 
 1. Een aanvraag tot vaststelling van de subsidie wordt ingediend binnen 13 weken na de datum waarop de activiteiten waarvoor subsidie is verleend, uiterlijk moeten zijn verricht.
 
@@ -486,7 +512,7 @@ De minister beslist afwijzend op een aanvraag voor subsidie indien:
 
 4. De minister besluit binnen 22 weken op een aanvraag tot subsidievaststelling.
 
-#### Artikel 19. Staatssteun
+##### Artikel 19. Staatssteun
 
 De subsidie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26), bevat, met uitzondering van niet-economisch industrieel onderzoek, experimentele ontwikkeling of een haalbaarheidsstudie door een onderzoeksorganisatie, staatssteun en wordt gerechtvaardigd door:
 
@@ -500,17 +526,17 @@ De subsidie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.
 
 - e. artikel 29 van de algemene groepsvrijstellingsverordening, voor zover de subsidiabele activiteiten betrekking hebben op proces- en organisatie innovatie als bedoeld in [artikel 3, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26).
 
-#### Artikel 20. Hardheidsclausule
+##### Artikel 20. Hardheidsclausule
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 21. Inwerkingtreding en vervaltermijn
+##### Artikel 21. Inwerkingtreding en vervaltermijn
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 juli 2029, met dien verstande dat deze van toepassing blijft op subsidies die voor die datum zijn verleend.
 
-#### Artikel 22. Citeertitel
+##### Artikel 22. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling IPCEI Health.
 

@@ -1,16 +1,42 @@
 ---
-title: "Besluit ondermandaat en machtiging aan functionarissen van de NVWA voor het werkterrein van VWS 2023"
+title: "Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van 14 november 2023, nr. TRCVWA/2023/4938, houdende het verlenen van ondermandaat en machtiging aan functionarissen van de Nederlandse Voedsel- en Warenautoriteit voor het werkterrein van het Ministerie van Volksgezondheid, Welzijn en Sport (Besluit ondermandaat en machtiging aan functionarissen van de NVWA voor het werkterrein van VWS 2023)"
 identifier: "BWBR0048941"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-10-12
-laatste_update: 2024-10-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048941"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-10-12"
+last_updated: "2024-10-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048941"
+soort: "ministeriele-regeling"
+stam_id: "16931273"
+version_id: "29756362"
+internal_id: "C42646251"
+label_id: "16842724"
+dtd_version: "2.0"
+original_entry_into_force: "2023-11-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048941/2024-10-12/0"
+intitule_bron: "Stcrt.2023-32216"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-11-14"
+intitule_published: "2023-11-24"
+intitule_in_force: "2023-11-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-32216"
+original_signed_date: "2023-11-14"
+original_published_date: "2023-11-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-32216"
+entry_into_force_date: "2023-11-25"
+jci_1_3: "jci1.3:c:BWBR0048941&z=2024-10-12&g=2024-10-12"
+jci_1_0: "1.0:c:BWBR0048941&g=2024-10-12"
+citeertitel_status: "officieel"
+short_title: "Besluit ondermandaat en machtiging aan functionarissen van de NVWA voor het werkterrein van VWS 2023"
+signed_date: "2023-11-14"
+entry_into_force: "2023-11-25"
 ---
-
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van 14 november 2023, nr. TRCVWA/2023/4938, houdende het verlenen van ondermandaat en machtiging aan functionarissen van de Nederlandse Voedsel- en Warenautoriteit voor het werkterrein van het Ministerie van Volksgezondheid, Welzijn en Sport (Besluit ondermandaat en machtiging aan functionarissen van de NVWA voor het werkterrein van VWS 2023)
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 - k. **de Minister:** de Minister van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aan de volgende functionarissen van de Nederlandse Voedsel- en Warenautoriteit wordt, ieder voor zich, ondermandaat en machtiging verleend voor aangelegenheden op hun werkterrein voor zover deze betrekking hebben op de uitvoering van de wetgeving van het Ministerie van Volksgezondheid, Welzijn en Sport:
 
@@ -52,15 +78,15 @@ In dit besluit wordt verstaan onder:
 
 2. De uit dit besluit voor de Chief Food Safety Officer, de Chief Product Safety Officer en de Chief Veterinary Inspector voortvloeiende bevoegdheden gaan in geval van afwezigheid, ieder voor zich, over op zijn plaatsvervanger, zijnde één van de in dit lid genoemde functionarissen.
 
-#### Artikel 3
+##### Artikel 3
 
 Aan de directeur van het COKZ wordt ondermandaat en machtiging verleend voor het verlenen van erkenningen, als bedoeld in artikel 4 van [verordening (EG) 853/2004](32004R0853), wat betreft inrichtingen waar handelingen worden verricht waarvoor bijlage III, sectie IX of X, van [verordening (EG) 853/2004](32004R0853) voorschriften bevat.
 
-#### Artikel 4
+##### Artikel 4
 
 Aan de inspecteurs van de afdeling Consument, wordt, ieder voor zich, ondermandaat verleend voor het nemen van besluiten, als bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=27) en [30, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=30).
 
-#### Artikel 5
+##### Artikel 5
 
 De volgende besluiten worden ingetrokken:
 
@@ -72,11 +98,11 @@ De volgende besluiten worden ingetrokken:
 
 - d. [Besluit ondermandaat directeur COKZ](https://wetten.overheid.nl/jci1.3:c:BWBR0044963).
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt ten aanzien van [artikel 2, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0048941&artikel=2&z=2024-10-12&g=2024-10-12), terug tot 14 december 2019.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit ondermandaat en machtiging aan functionarissen van de NVWA voor het werkterrein van VWS 2023.
 

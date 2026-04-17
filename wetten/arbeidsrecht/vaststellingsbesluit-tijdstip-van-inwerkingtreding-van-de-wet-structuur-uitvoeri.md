@@ -1,13 +1,41 @@
 ---
-title: "Vaststellingsbesluit tijdstip van inwerkingtreding van de Wet structuur uitvoeringsorganisatie werk en inkomen, enz."
+title: "Besluit van 13 december 2001, houdende vaststelling van het tijdstip van inwerkingtreding van de Wet structuur uitvoeringsorganisatie werk en inkomen en van de Invoeringswet Wet structuur uitvoeringsorganisatie werk en inkomen, van het tijdstip waarop enige artikelen van de Arbeidsvoorzieningswet 1996 vervallen en van het tijdstip waarop het Tijdelijk besluit samenwerking CWI vervalt"
 identifier: "BWBR0013178"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2001-12-27
-laatste_update: 2001-12-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013178"
+country: "nl"
+rank: "kb"
+publication_date: "2001-12-27"
+last_updated: "2001-12-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013178"
+soort: "KB"
+stam_id: "1663703"
+version_id: "2454222"
+internal_id: "C2454231"
+label_id: "1617044"
+dtd_version: "2.0"
+original_entry_into_force: "2001-12-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013178/2001-12-27/0"
+intitule_bron: "Stb.2001-682"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-12-13"
+intitule_published: "2001-12-27"
+intitule_in_force: "2001-12-27"
+intitule_status: "goed"
+original_publication: "Stb.2001-682"
+original_signed_date: "2001-12-13"
+original_published_date: "2001-12-27"
+original_effect: "nieuwe-regeling"
+original_dossier: "27665"
+original_url_id: "stb-2001-682"
+entry_into_force_date: "2001-12-27"
+entry_into_force_dossier: "27665"
+jci_1_3: "jci1.3:c:BWBR0013178&z=2001-12-27&g=2001-12-27"
+jci_1_0: "1.0:c:BWBR0013178&g=2001-12-27"
+citeertitel_status: "officieel"
+short_title: "Vaststellingsbesluit tijdstip van inwerkingtreding van de Wet structuur uitvoeringsorganisatie werk en inkomen, enz."
+signed_date: "2001-12-13"
+entry_into_force: "2001-12-27"
 ---
-
 # Besluit van 13 december 2001, houdende vaststelling van het tijdstip van inwerkingtreding van de Wet structuur uitvoeringsorganisatie werk en inkomen en van de Invoeringswet Wet structuur uitvoeringsorganisatie werk en inkomen, van het tijdstip waarop enige artikelen van de Arbeidsvoorzieningswet 1996 vervallen en van het tijdstip waarop het Tijdelijk besluit samenwerking CWI vervalt
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Sociale Zaken en Werkgelegenheid, J. F. Hoogervorst, van 10 december 2001, nr. SUWI/SEC/2001/360;
@@ -16,7 +44,7 @@ Gelet op [artikel 87, eerste lid, van de Wet structuur uitvoeringsorganisatie we
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 De[Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) treedt in werking met ingang van 1 januari 2002, met dien verstande dat:
 
@@ -28,7 +56,7 @@ De[Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid
 
 - d. [artikel 30, eerste lid, onderdelen f, g en l](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30), in werking treden met ingang van 1 april 2002.
 
-#### Artikel 2
+##### Artikel 2
 
 De[Invoeringswet Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013061) treedt in werking met ingang van 1 januari 2002, met dien verstande dat:
 
@@ -44,7 +72,7 @@ De[Invoeringswet Wet structuur uitvoeringsorganisatie werk en inkomen](https://w
 
 - f. [artikel 61, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0013061&artikel=61), in werking treedt met ingang van 1 april 2002.
 
-#### Artikel 3
+##### Artikel 3
 
 Het Tijdelijk besluit samenwerking CWI vervalt met ingang van 1 januari 2002.
 

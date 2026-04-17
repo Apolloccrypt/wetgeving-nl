@@ -1,24 +1,49 @@
 ---
 title: "Regeling nummerplan BES en tariefvoorschriften voor toegangsnummers en informatienummers BES"
 identifier: "BWBR0028614"
-categorie: "Belastingrecht"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028614"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028614"
+soort: "ministeriele-regeling-BES"
+stam_id: "10898203"
+version_id: "17881022"
+internal_id: "C24982961"
+label_id: "10872854"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028614/2020-01-01/0"
+intitule_bron: "Stcrt.2010-14867"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-09"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-14867"
+original_signed_date: "2010-09-09"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-14867"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028614&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0028614&g=2020-01-01"
+citeertitel_status: "officieel"
+signed_date: "2010-09-09"
+entry_into_force: "2010-10-10"
 ---
-
 # Regeling nummerplan BES en tariefvoorschriften voor toegangsnummers en informatienummers BES
 
-#### Artikel 1
+##### Artikel 1
 
 Deze regeling berust op de [artikelen 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=7), en [artikel 44c](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=44c) en [44e Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=44e).
 
-#### Artikel 2
+##### Artikel 2
 
 De inleiding, de hoofdstukken 1 tot en met 4 en de [bijlagen 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028614&bijlage=1&z=2020-01-01&g=2020-01-01) vormen tezamen het nummerplan BES en tariefvoorschriften voor toegangsnummers en informatienummers BES met toelichting en vormen de bijlage behorende bij deze regeling.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze Regeling wordt aangehaald als: Regeling nummerplan BES en tariefvoorschriften voor toegangsnummers en informatienummers BES.
 

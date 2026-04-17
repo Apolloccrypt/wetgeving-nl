@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzingsbesluit elektronische kanalen Ministerie van BZK 2025"
+title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 15 december 2025 houdende de aanwijzing van elektronische kanalen voor het verzenden van berichten in de zin van artikel 2:13, tweede lid, van de Algemene wet bestuursrecht (Aanwijzingsbesluit elektronische kanalen BZK 2025)"
 identifier: "BWBR0052034"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052034"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052034"
+soort: "ministeriele-regeling"
+stam_id: "17696143"
+version_id: "31228592"
+internal_id: "C44665301"
+label_id: "17595134"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052034/2026-01-01/0"
+intitule_bron: "Stcrt.2025-44250"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-15"
+intitule_published: "2025-12-22"
+intitule_in_force: "2025-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-44250"
+original_signed_date: "2025-12-15"
+original_published_date: "2025-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-44250"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0052034&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0052034&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Aanwijzingsbesluit elektronische kanalen Ministerie van BZK 2025"
+signed_date: "2025-12-15"
+entry_into_force: "2026-01-01"
 ---
-
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 15 december 2025 houdende de aanwijzing van elektronische kanalen voor het verzenden van berichten in de zin van artikel 2:13, tweede lid, van de Algemene wet bestuursrecht (Aanwijzingsbesluit elektronische kanalen BZK 2025)
 
 Overwegende,
@@ -20,7 +46,7 @@ Gelet op [artikel 2:13 tweede lid van de Algemene wet bestuursrecht](https://wet
 
 BESLUIT
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Dit besluit verstaat onder:
 
@@ -30,7 +56,7 @@ Dit besluit verstaat onder:
 
 - c. **kanaal:** een aangewezen wijze van elektronisch verzenden van berichten als bedoeld in [artikel 2:13, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:13).
 
-#### Artikel 2. Algemene bepalingen
+##### Artikel 2. Algemene bepalingen
 
 1. Dit aanwijsbesluit geeft aan op welke wijze burgers, bedrijven, stichtingen en andere rechtspersonen het Ministerie van BZK en/of haar specifieke dienstonderdelen digitaal kunnen benaderen. Burgers en bedrijven (en andere rechtspersonen) houden de mogelijkheid om op andere manieren te communiceren met het Ministerie van BZK, zoals per telefoon, per post, of via een afspraak op locatie.
 
@@ -46,17 +72,17 @@ Dit besluit verstaat onder:
 
 7. In afwijking van het eerste lid wordt, voor berichten waarvoor in dit aanwijzingsbesluit geen expliciet kanaal is aangewezen en voor zover de wet niet anders bepaalt, het algemeen contactformulier van BZK aangewezen.
 
-#### Artikel 3. Aanwijzing elektronische kanalen per proces
+##### Artikel 3. Aanwijzing elektronische kanalen per proces
 
 1. De Minister van BZK wijst op grond van [artikel 2:13 tweede lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:13) voor ieder afzonderlijk proces (diensten van BZK aan de burger) processpecifieke kanalen aan, zoals vermeld in dit besluit en aangehechte [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0052034&bijlage=1&z=2026-01-01&g=2026-01-01).
 
 2. De (plaatsvervangend) Secretaris-Generaal van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties is bevoegd tot wijziging van dit besluit en de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0052034&bijlage=1&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 Dit aanwijzingsbesluit treedt in werking met ingang van 1 januari 2026
 
-#### Artikel 5. Citeertitel
+##### Artikel 5. Citeertitel
 
 Dit besluit wordt aangehaald als: Aanwijzingsbesluit elektronische kanalen Ministerie van BZK 2025.
 

@@ -1,13 +1,38 @@
 ---
 title: "NWO Subsidieregeling"
 identifier: "BWBR0050166"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-08-31
-laatste_update: 2024-08-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050166"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-08-31"
+last_updated: "2024-08-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050166"
+soort: "zbo"
+stam_id: "17208633"
+version_id: "30307582"
+internal_id: "C43477861"
+label_id: "17115514"
+dtd_version: "2.0"
+original_entry_into_force: "2024-08-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050166/2024-08-31/0"
+intitule_bron: "Stcrt.2024-28067"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-02-21"
+intitule_published: "2024-08-30"
+intitule_in_force: "2024-08-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-28067"
+original_signed_date: "2024-02-21"
+original_published_date: "2024-08-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-28067"
+entry_into_force_date: "2024-08-31"
+jci_1_3: "jci1.3:c:BWBR0050166&z=2024-08-31&g=2024-08-31"
+jci_1_0: "1.0:c:BWBR0050166&g=2024-08-31"
+citeertitel_status: "officieel"
+signed_date: "2024-02-21"
+entry_into_force: "2024-08-31"
 ---
-
 # NWO Subsidieregeling
 
 **De raad van bestuur van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek;**

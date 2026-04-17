@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregels sturing van en toezicht op Stichting VAM"
+title: "Regeling van de Minister van Infrastructuur en Milieu, van 5 december 2012, nr. IENM/BSK-2012/240947, houdende vaststelling beleidsregels in verband met sturing van en toezicht op de Stichting VAM"
 identifier: "BWBR0032463"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032463"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032463"
+soort: "ministeriele-regeling"
+stam_id: "11960283"
+version_id: "19884112"
+internal_id: "C27919621"
+label_id: "11932294"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032463/2013-01-01/0"
+intitule_bron: "Stcrt.2012-25494"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-05"
+intitule_published: "2012-12-18"
+intitule_in_force: "2012-12-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-25494"
+original_signed_date: "2012-12-05"
+original_published_date: "2012-12-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-25494"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032463&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0032463&g=2013-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels sturing van en toezicht op Stichting VAM"
+signed_date: "2012-12-05"
+entry_into_force: "2013-01-01"
 ---
-
 # Regeling van de Minister van Infrastructuur en Milieu, van 5 december 2012, nr. IENM/BSK-2012/240947, houdende vaststelling beleidsregels in verband met sturing van en toezicht op de Stichting VAM
 
 Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [artikel 21 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In deze beleidsregels wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In deze beleidsregels wordt verstaan onder:
 
 #### § 2. Financieel toezicht
 
-#### Artikel 2. Tarieven voor taken of taakclusters op grond van [artikel 2, eerste lid, onderdeel m, van de Wet rijonderricht motorrijtuigen 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=2) en [artikel 85a, zesde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=85a)
+##### Artikel 2. Tarieven voor taken of taakclusters op grond van [artikel 2, eerste lid, onderdeel m, van de Wet rijonderricht motorrijtuigen 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=2) en [artikel 85a, zesde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=85a)
 
 De kostprijzen die ten grondslag liggen aan de tarieven conform [artikel 2, eerste lid, onderdeel m, van de Wet rijonderricht motorrijtuigen 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=2) en [artikel 85a, zesde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=85a), alsmede aan de tarieven voor andere opgedragen taken voor zover deze taken mede een andere basis hebben in of krachtens die wetten, worden op basis van bedrijfseconomisch aanvaardbare verdeelsleutels bepaald:
 
@@ -46,13 +72,13 @@ De kostprijzen die ten grondslag liggen aan de tarieven conform [artikel 2, eers
 
 - e. kruissubsidiëring, anders dan binnen taakclusters, is niet toegestaan.
 
-#### Artikel 3. Tarieven voor andere opgedragen taken, voor zover deze taken niet mede een andere basis hebben in of krachtens wettelijke bepalingen
+##### Artikel 3. Tarieven voor andere opgedragen taken, voor zover deze taken niet mede een andere basis hebben in of krachtens wettelijke bepalingen
 
 1. Bij andere door de minister opgedragen taken, voor zover deze taken niet mede een andere basis hebben in of krachtens de wet, geeft de minister bij het opdragen van die taken aan welke tarieven voor die taken in rekening mogen worden gebracht en aan welke eisen deze tarieven moeten voldoen.
 
 2. Indien voor deze tarieven een wettelijke basis noodzakelijk is, zorgt de minister hiervoor.
 
-#### Artikel 4. Inhoud tarievenvoorstel
+##### Artikel 4. Inhoud tarievenvoorstel
 
 1. De minister besteedt bij de beoordeling van het voorstel voor de tarieven en tariefwijzigingen van Stichting VAM ten behoeve van de goedkeuring op grond van [artikel 17 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=17) in ieder geval aan de volgende aspecten aandacht:
 
@@ -90,7 +116,7 @@ De kostprijzen die ten grondslag liggen aan de tarieven conform [artikel 2, eers
 
 4. Stichting VAM informeert de minister bij voorgestelde tariefwijzigingen en tarieven voor nieuwe taken of clusters van taken inzake de mogelijk aan het voorstel gekoppelde gevoeligheden.
 
-#### Artikel 5. Accountantscontrole
+##### Artikel 5. Accountantscontrole
 
 1. De aandachtspunten voor de accountantscontrole zijn uitgewerkt in de bijlage bij deze beleidsregels.
 
@@ -108,7 +134,7 @@ De kostprijzen die ten grondslag liggen aan de tarieven conform [artikel 2, eers
 
 #### § 3. Informatie-uitwisseling
 
-#### Artikel 6. Jaarrekening Stichting VAM en directieverslag IBKI
+##### Artikel 6. Jaarrekening Stichting VAM en directieverslag IBKI
 
 1. Bij de inrichting van de jaarrekening van de Stichting VAM wordt onderscheid gemaakt tussen de baten en lasten als ook ontvangsten en uitgaven uit de bij of krachtens de wet aan Stichting VAM opgedragen taken dan wel uit andere activiteiten.
 
@@ -126,7 +152,7 @@ De kostprijzen die ten grondslag liggen aan de tarieven conform [artikel 2, eers
 
 - d. de Inspectie LenT.
 
-#### Artikel 7. Verstrekking van inlichtingen
+##### Artikel 7. Verstrekking van inlichtingen
 
 Behoudens het bepaalde in [artikel 20 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=20) verstrekt de Stichting VAM jaarlijks aan de minister inlichtingen omtrent:
 
@@ -146,7 +172,7 @@ Behoudens het bepaalde in [artikel 20 van de Kaderwet](https://wetten.overheid.n
 
 - h. mededelingen omtrent de verwachte gang van zaken; daarbij wordt in het bijzonder aandacht besteed aan de omstandigheden waarvan de ontwikkeling van de omzet en van de kwaliteit van de taakuitoefening afhankelijk is.
 
-#### Artikel 8. Uitvoeringsevaluaties
+##### Artikel 8. Uitvoeringsevaluaties
 
 1. Stichting VAM verleent medewerking aan een door de minister gedaan verzoek tot evaluatie van de uitvoering van nieuw of bijgesteld beleid dan wel nieuwe of bijgestelde wet- en regelgeving.
 
@@ -154,19 +180,19 @@ Behoudens het bepaalde in [artikel 20 van de Kaderwet](https://wetten.overheid.n
 
 3. De Minister reageert op de toegezonden evaluatie en geeft daarbij in ieder geval aan hoe de evaluatie in de besluitvorming is of zal worden betrokken.
 
-#### Artikel 9. Integriteit
+##### Artikel 9. Integriteit
 
 Stichting VAM informeert de Minister over het gevoerde integriteitsbeleid.
 
 #### § 4. Taakuitoefening
 
-#### Artikel 10. Risicoprofiel en kernprestatie-indicatoren
+##### Artikel 10. Risicoprofiel en kernprestatie-indicatoren
 
 1. De Minister stelt een risicoprofiel op mede op basis van de risicoanalyse van de Stichting VAM om risicogestuurd toezicht te kunnen houden. Het risicoprofiel wordt besproken met de Stichting VAM.
 
 2. De Minister zet kernprestatie-indicatoren in. De kern prestatie indicatoren komen tot stand in afstemming tussen Stichting VAM en Minister mede op basis van het in het voorgaande lid genoemde risicoprofiel.
 
-#### Artikel 11. Oordeelsvorming
+##### Artikel 11. Oordeelsvorming
 
 De Minister vormt zich een oordeel over de kwaliteit van de taakuitoefening van Stichting VAM. Daarbij baseert hij zich onder meer op:
 
@@ -184,7 +210,7 @@ De Minister vormt zich een oordeel over de kwaliteit van de taakuitoefening van 
 
 #### § 5. Opdracht en inkadering van taken en activiteiten
 
-#### Artikel 12. Uitvoeringstoets Stichting VAM
+##### Artikel 12. Uitvoeringstoets Stichting VAM
 
 1. De Minister legt de volgende voornemens tijdig aan de de Stichting VAM voor met het oog op een uitvoeringstoets:
 
@@ -204,21 +230,21 @@ De Minister vormt zich een oordeel over de kwaliteit van de taakuitoefening van 
 
 #### § 6. Overige onderwerpen
 
-#### Artikel 13. Evaluatie conform [artikel 39 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39)
+##### Artikel 13. Evaluatie conform [artikel 39 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39)
 
 De Minister voert de evaluatie zoals bedoeld in [artikel 39 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39) uit conform de op het moment van evaluatie geldende evaluatierichtlijnen van de Minister van Financiën.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze beleidsregels worden aangehaald als: Beleidsregels sturing van en toezicht op Stichting VAM.
 
-#### Artikel 15. Overgangsrecht
+##### Artikel 15. Overgangsrecht
 
 1. Op de jaarstukken 2012 worden de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032463&paragraaf=2&artikel=5&z=2013-01-01&g=2013-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0032463&paragraaf=3&artikel=6&z=2013-01-01&g=2013-01-01) niet toegepast voor zover deze bepalingen afwijken van de eerder met de Stichting VAM gemaakte afspraken en de Stichting VAM heeft aangegeven voor de jaarstukken 2012 niet te kunnen voldoen aan de onderhavige regeling.
 
 2. Indien de Stichting VAM heeft aangegeven voor de jaarstukken 2012 niet te kunnen voldoen aan de onderhavige regeling, geldt voor de jaarstukken 2012 de regelgeving zoals deze voor inwerkingtreding van deze regeling van toepassing was.
 
-#### Artikel 16. Inwerkingtreding
+##### Artikel 16. Inwerkingtreding
 
 Deze beleidsregels treden in werking met ingang van 1 januari 2013.
 

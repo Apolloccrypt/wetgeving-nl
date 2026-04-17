@@ -1,13 +1,37 @@
 ---
 title: "Regeling toepassing mechanische middelen in penitentiaire inrichtingen"
 identifier: "BWBR0011442"
-categorie: "Strafrecht"
-publicatiedatum: 2001-05-31
-laatste_update: 2001-05-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011442"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2001-05-31"
+last_updated: "2001-05-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011442"
+soort: "ministeriele-regeling"
+stam_id: "3587223"
+version_id: "5370382"
+internal_id: "C5563471"
+label_id: "3567264"
+dtd_version: "2.0"
+original_entry_into_force: "2001-05-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011442/2001-05-31/0"
+intitule_bron: "Stcrt.2001-101"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-06-26"
+intitule_published: "2001-05-29"
+intitule_in_force: "2001-05-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-101"
+original_signed_date: "2000-06-26"
+original_published_date: "2001-05-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-05-31"
+jci_1_3: "jci1.3:c:BWBR0011442&z=2001-05-31&g=2001-05-31"
+jci_1_0: "1.0:c:BWBR0011442&g=2001-05-31"
+citeertitel_status: "officieel"
+signed_date: "2000-06-26"
+entry_into_force: "2001-05-31"
 ---
-
 # Regeling toepassing mechanische middelen in penitentiaire inrichtingen
 
 Gelet op [artikel 33, vierde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=33);
@@ -16,25 +40,25 @@ Gezien het advies van de Centrale Raad voor Strafrechtstoepassing van 19 mei 199
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
 wet: de [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Als mechanisch middel in de zin van [artikel 33, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=33) worden slechts toegepast, de middelen die zijn opgenomen in de bijlage bij deze regeling.
 
 2. Indien de toestand van de gedetineerde dit vereist, kunnen meerdere mechanische middelen tegelijkertijd worden toegepast.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De toepassing van mechanische middelen beperkt de gedetineerde niet verder in zijn vrijheid dan voor de afwending van het van de gedetineerde uitgaande ernstig gevaar voor diens gezondheid of veiligheid of die van anderen noodzakelijk is.
 
 2. Bij de keuze voor de toepassing van bepaalde mechanische middelen wordt zoveel mogelijk voorkomen dat de gedetineerde wordt belemmerd in de zelfstandige uitoefening van de lichaamsfuncties eten, drinken, urineren en ontlasten.
 
-#### Artikel 4
+##### Artikel 4
 
 Een mechanisch middel voldoet aan de volgende eisen:
 
@@ -46,7 +70,7 @@ Een mechanisch middel voldoet aan de volgende eisen:
 
 - d. het middel kan eenvoudig gereinigd worden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De directeur stelt voor de toepassing van mechanische middelen een protocol vast.
 
@@ -66,7 +90,7 @@ Een mechanisch middel voldoet aan de volgende eisen:
 
 - g. de wijze van bekendmaking van het protocol.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De daartoe aangewezen ambtenaar of medewerker stelt zich tenminste eenmaal per uur op de hoogte van de toestand van de gedetineerde en maakt daarvan verslag op.
 
@@ -74,7 +98,7 @@ Een mechanisch middel voldoet aan de volgende eisen:
 
 3. Indien het verslag van de ambtenaar of medewerker, bedoeld in het eerste lid, of de bevindingen van de arts, bedoeld in het tweede lid, daartoe aanleiding geven, doch in elk geval twee maal per etmaal, overweegt de directeur na overleg met de aan de inrichting verbonden arts of diens vervanger, of de toestand van de gedetineerde zodanig is gewijzigd dat kan worden volstaan met de bevestiging van mechanische middelen die de gedetineerde minder vergaand in zijn vrijheid beperken, dan wel dat de bevestiging van mechanische middelen kan worden beëindigd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De gedetineerde ontvangt regelmatig eten en drinken.
 
@@ -84,15 +108,15 @@ Een mechanisch middel voldoet aan de volgende eisen:
 
 4. Indien de gedetineerde door de bevestiging van mechanische middelen niet in staat is om op het toilet te urineren of zichzelf te ontlasten, wordt hij voorzien van een urinaal of ondersteek. De ambtenaar of medewerker die belast is met de verzorging van de gedetineerde is hem zonodig behulpzaam bij het gebruik van de urinaal of ondersteek.
 
-#### Artikel 8
+##### Artikel 8
 
 Hoofdstuk II. Plaatsing op het veiligheidsbed van het reglement plaatsing in de isoleercel en plaatsing op het veiligheidsbed van 19 februari 1981 (nr. 927/380) komt te vervallen.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatcourant waarin zij wordt geplaatst.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling mechanische middelen in penitentiaire inrichtingen.
 

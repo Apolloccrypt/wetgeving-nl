@@ -1,13 +1,39 @@
 ---
-title: "Regeling veiligheid Arubaanse, Curaçaose en Sint Maartense zeeschepen"
+title: "Regeling houdende nadere regels met betrekking tot de veiligheid en certificering van in de Nederlandse Antillen en Aruba geregistreerde zeeschepen (Regeling veiligheid Nederlands-Antilliaanse en Arubaanse zeeschepen)"
 identifier: "BWBR0017726"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2022-07-06
-laatste_update: 2022-07-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017726"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-07-06"
+last_updated: "2022-07-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017726"
+soort: "ministeriele-regeling"
+stam_id: "6514673"
+version_id: "22898682"
+internal_id: "C33118501"
+label_id: "6503734"
+dtd_version: "2.0"
+original_entry_into_force: "2015-12-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017726/2022-07-06/0"
+intitule_bron: "Stcrt.2004-246"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-12-16"
+intitule_published: "2004-12-21"
+intitule_in_force: "2004-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-45626"
+original_signed_date: "2015-12-10"
+original_published_date: "2015-12-22"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2015-45626"
+entry_into_force_date: "2015-12-10"
+jci_1_3: "jci1.3:c:BWBR0017726&z=2022-07-06&g=2022-07-06"
+jci_1_0: "1.0:c:BWBR0017726&g=2022-07-06"
+citeertitel_status: "officieel"
+short_title: "Regeling veiligheid Arubaanse, Curaçaose en Sint Maartense zeeschepen"
+signed_date: "2015-12-10"
+entry_into_force: "2015-12-10"
 ---
-
 # Regeling houdende nadere regels met betrekking tot de veiligheid en certificering van in de Nederlandse Antillen en Aruba geregistreerde zeeschepen (Regeling veiligheid Nederlands-Antilliaanse en Arubaanse zeeschepen)
 
 Handelende in overeenstemming met de Minister van Verkeer en Vervoer van de Nederlandse Antillen en de Minister van Toerisme en Transport van Aruba;
@@ -18,7 +44,7 @@ Besluit:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -64,7 +90,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **SPS-Code 2008:** bij resolutie MSC.266(84) van de Maritieme Veiligheidscommissie van de IMO aangenomen Code voor de veiligheid van schepen met bijzondere doeleinden 2008 (Special Purpose Ships Code, 2008).
 
-#### Artikel 2. Bouwdatum van een schip
+##### Artikel 2. Bouwdatum van een schip
 
 1. Als bouwdatum van een schip wordt aangemerkt de dag waarop de kiel van het schip is gelegd, dan wel de dag waarop met inachtneming van hetgeen dienaangaande in de op grond van deze regeling toepasselijke Codes of resoluties is bepaald, een met de kiellegging vergelijkbaar stadium is bereikt. [Artikel 2, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=2) is van overeenkomstige toepassing.
 
@@ -82,7 +108,7 @@ In deze regeling wordt verstaan onder:
 
 - c. het veiligheidscertificaat voor hogesnelheidsschepen, bedoeld in [artikel 7 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=7).
 
-#### Artikel 3. Toepassingsbereik
+##### Artikel 3. Toepassingsbereik
 
 Deze regeling is van toepassing op schepen die op grond van Arubaanse, Curaçaose of Sint Maartense rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren.
 
@@ -90,7 +116,7 @@ Deze regeling is van toepassing op schepen die op grond van Arubaanse, Curaçaos
 
 #### § 1. Benodigde certificaten
 
-#### Artikel 4. Certificaten voor verplaatsbare offshore booreenheden (IMO)
+##### Artikel 4. Certificaten voor verplaatsbare offshore booreenheden (IMO)
 
 1. Voor verplaatsbare offshore booreenheden als bedoeld in de MODU-Code 1979, de MODU-Code 1989 en de MODU-Code 2009 zijn de volgende certificaten benodigd:
 
@@ -102,23 +128,23 @@ Deze regeling is van toepassing op schepen die op grond van Arubaanse, Curaçaos
 
 2. Voor schepen als bedoeld in [artikel 6 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=6) treden de in het eerste lid bedoelde certificaten in de plaats van het voor die schepen benodigde nationaal veiligheidscertificaat.
 
-#### Artikel 5. Certificaten op grond van DSC-Code, SPS-Code en SPS-Code 2008 (IMO)
+##### Artikel 5. Certificaten op grond van DSC-Code, SPS-Code en SPS-Code 2008 (IMO)
 
 1. Voor een schip ten aanzien waarvan op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=2&artikel=8&z=2022-07-06&g=2022-07-06) is gekozen voor toepassing van de DSC-Code, de SPS-Code of de SPS-Code 2008, is het bij de desbetreffende Code behorende certificaat benodigd. Indien is gekozen voor toepassing van de DSC-Code, is voor het schip tevens de bij die Code behorende exploitatievergunning benodigd.
 
 2. Voor schepen als bedoeld in [artikel 6 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=6) treden de in het eerste lid bedoelde certificaten in de plaats van het voor die schepen benodigde nationaal veiligheidscertificaat.
 
-#### Artikel 6. Bij certificaten behorende uitrustingsrapporten, aanhangsels e.d.
+##### Artikel 6. Bij certificaten behorende uitrustingsrapporten, aanhangsels e.d.
 
 De in de [artikelen 3a tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=4&z=2022-07-06&g=2022-07-06) bedoelde certificaten gaan vergezeld van de bij die certificaten behorende uitrustingsrapporten en aanhangsels, alsmede van de in de desbetreffende Codes voorgeschreven stabiliteitsgegevens of andere gegevens met betrekking tot schip of lading.
 
 #### § 2. Onderzoeken
 
-#### Artikel 7. Onderzoeken van verplaatsbare offshore booreenheden (IMO)
+##### Artikel 7. Onderzoeken van verplaatsbare offshore booreenheden (IMO)
 
 Verplaatsbare offshore booreenheden als bedoeld in de MODU-Code 1979, de MODU-Code 1989 of de MODU-Code 2009 worden ter verkrijging van de voor die schepen benodigde certificaten en gedurende de geldigheidsduur daarvan onderworpen aan de in de desbetreffende Code voorgeschreven onderzoeken.
 
-#### Artikel 8. Onderzoeken op grond van DSC-Code, SPS-Code en SPS-Code 2008 (IMO)
+##### Artikel 8. Onderzoeken op grond van DSC-Code, SPS-Code en SPS-Code 2008 (IMO)
 
 1. De eigenaar van een schip, behorend tot een van de navolgende categorieën van schepen, kan er voor kiezen om dat schip te laten onderzoeken en certificeren met inachtneming van:
 
@@ -130,11 +156,11 @@ Verplaatsbare offshore booreenheden als bedoeld in de MODU-Code 1979, de MODU-Co
 
 2. Indien ten aanzien van een schip is gekozen voor toepassing van een in het eerste lid genoemde Code, treden de in de desbetreffende Code voorgeschreven onderzoeken in de plaats van de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=14) of [15 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=15) bedoelde onderzoeken.
 
-#### Artikel 9. Tijdstippen van onderzoek
+##### Artikel 9. Tijdstippen van onderzoek
 
 De in de [artikelen 6a tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=2&artikel=7&z=2022-07-06&g=2022-07-06) bedoelde onderzoeken vinden plaats op de in de desbetreffende Codes en resoluties voorgeschreven tijdstippen, met dien verstande dat het hernieuwde onderzoek waaraan een schip in verband met de vernieuwing van een certificaat wordt onderworpen, steeds plaatsvindt in de laatste drie maanden van de geldigheidsduur van het desbetreffende certificaat.
 
-#### Artikel 10. Uitvoering van onderzoeken
+##### Artikel 10. Uitvoering van onderzoeken
 
 1. De onderzoeken, bedoeld in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=19) en [19a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=19a), worden uitgevoerd door een daartoe krachtens [artikel 23 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=23) aangewezen organisatie naar de keuze van de eigenaar.
 
@@ -150,13 +176,13 @@ De in de [artikelen 6a tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR001
 
 5. Indien krachtens [artikel 23 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=23) voor bepaalde onderzoeken ook andere organisaties dan de in het tweede en derde lid bedoelde organisaties zijn aangewezen, mogen de desbetreffende onderzoeken in afwijking van het tweede en derde lid ook door deze andere organisaties worden uitgevoerd.
 
-#### Artikel 11. Aantekening van onderzoeken
+##### Artikel 11. Aantekening van onderzoeken
 
 Van de onderzoeken waaraan een schip ingevolge de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=2&artikel=7&z=2022-07-06&g=2022-07-06) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=2&artikel=8&z=2022-07-06&g=2022-07-06) tijdens de geldigheidsduur van een certificaat wordt onderworpen, wordt door degene die het onderzoek heeft verricht, aantekening geplaatst op het certificaat.
 
 #### § 2. Onderzoeken
 
-#### Artikel 12. Certificaten op grond van bijzondere Codes (IMO, CMOU, MCA)
+##### Artikel 12. Certificaten op grond van bijzondere Codes (IMO, CMOU, MCA)
 
 1. De in de [artikelen 3b tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=4&z=2022-07-06&g=2022-07-06) bedoelde certificaten hebben, indien zij zijn afgegeven voor een passagiersschip, een geldigheidsduur van een jaar. Indien zij zijn afgegeven voor een vrachtschip, hebben zij een geldigheidsduur van vijf jaren.
 
@@ -166,7 +192,7 @@ Van de onderzoeken waaraan een schip ingevolge de [artikelen 7](https://wetten.o
 
 #### § 1. Eisen aan schepen
 
-#### Artikel 13. Eisen op grond van bijzondere Codes (IMO, CMOU, MCA)
+##### Artikel 13. Eisen op grond van bijzondere Codes (IMO, CMOU, MCA)
 
 1. Een schip waarvoor op grond van de [artikelen 3d](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=3d&z=2022-07-06&g=2022-07-06) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=4&z=2022-07-06&g=2022-07-06) het certificaat, behorende bij de SCV-Code, de MODU-Code 1979, de MODU-Code 1989 of de MODU-Code 2009, benodigd is, of ten aanzien waarvan op grond van de [artikelen 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=2&artikel=6a&z=2022-07-06&g=2022-07-06), [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=2&artikel=6b&z=2022-07-06&g=2022-07-06), [6d](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=2&artikel=6d&z=2022-07-06&g=2022-07-06) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=2&artikel=8&z=2022-07-06&g=2022-07-06) voor toepassing van de CCSS-Code, de SCV-Code, de LY2-Code, de LY3-Code, de DSC-Code, de SPS-Code of de SPS-Code 2008 is gekozen, voldoet aan de eisen van de desbetreffende Code.
 
@@ -174,13 +200,13 @@ Van de onderzoeken waaraan een schip ingevolge de [artikelen 7](https://wetten.o
 
 3. Indien in een Code als bedoeld in het eerste lid wordt verwezen naar het Uitwateringsverdrag of het SOLAS-verdrag, wordt dat verdrag toegepast met inachtneming van alle op grond van [artikel 71 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=71) toepasselijke wijzigingen van dat verdrag.
 
-#### Artikel 14. Eisen voor offshore bevoorradings- en ondersteuningsschepen (IMO)
+##### Artikel 14. Eisen voor offshore bevoorradings- en ondersteuningsschepen (IMO)
 
 1. Een offshore bevoorradingsschip voldoet aan de eisen van resolutie MSC.235(82).
 
 2. Een offshore ondersteuningsschip als bedoeld in resolutie A.673(16), niet zijnde een offshore ondersteuningsschip als bedoeld in voorschrift 1.5.3 van die resolutie, voldoet aan de eisen van voornoemde resolutie.
 
-#### Artikel 15. Nadere regels betreffende de stabiliteit van schepen (IMO)
+##### Artikel 15. Nadere regels betreffende de stabiliteit van schepen (IMO)
 
 1. Een schip, gebouwd voor 1 juli 2010, voldoet aan de op dat schip toepasselijke stabiliteitseisen voor schepen in onbeschadigde toestand van de IS-Code.
 
@@ -188,7 +214,7 @@ Van de onderzoeken waaraan een schip ingevolge de [artikelen 7](https://wetten.o
 
 3. Dit artikel is niet van toepassing op schepen die overeenkomstig de CCSS-Code of de SCV-Code zijn gecertificeerd.
 
-#### Artikel 16. Nadere regels betreffende werktuiglijke en elektrische installaties
+##### Artikel 16. Nadere regels betreffende werktuiglijke en elektrische installaties
 
 1. De elektrische installaties aan boord van een schip voldoen aan de normen in Publicatie 92 (Elektrische installaties aan boord van schepen) van de Internationale Elektrotechnische Commissie of daaraan gelijkwaardige normen van een krachtens [artikel 36 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=36) aangewezen klassenbureau.
 
@@ -208,13 +234,13 @@ Van de onderzoeken waaraan een schip ingevolge de [artikelen 7](https://wetten.o
 
 7. Het eerste en derde lid zijn niet van toepassing op schepen die overeenkomstig de CCSS-Code of de SCV-Code zijn gecertificeerd.
 
-#### Artikel 17. Nadere regels betreffende de veiligheid van navigatie
+##### Artikel 17. Nadere regels betreffende de veiligheid van navigatie
 
 1. Voorschrift V/19.2.5.4 van het SOLAS-verdrag is van overeenkomstige toepassing op schepen van minder dan 500 GT.
 
 2. Het eerste lid is niet van toepassing op schepen die overeenkomstig de CCSS-Code of de SCV-Code zijn gecertificeerd.
 
-#### Artikel 18. Medische uitrusting
+##### Artikel 18. Medische uitrusting
 
 1. Aan boord van een schip is de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&bijlage=2&z=2022-07-06&g=2022-07-06) bij deze regeling voorgeschreven medische uitrusting met de daarbij behorende handleidingen en controlelijsten aanwezig. De eigenaar van een schip draagt voor eigen rekening zorg voor de levering en de vernieuwing van de medische uitrusting.
 
@@ -224,19 +250,19 @@ Van de onderzoeken waaraan een schip ingevolge de [artikelen 7](https://wetten.o
 
 4. Het eerste lid is eveneens van toepassing op vissersvaartuigen.
 
-#### Artikel 19. Nadere regels in relatie tot benodigde certificaten
+##### Artikel 19. Nadere regels in relatie tot benodigde certificaten
 
 1. Een schip waarvoor een internationaal veiligheidscertificaat, een nationaal veiligheidscertificaat of een certificaat als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=4&z=2022-07-06&g=2022-07-06) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=5&z=2022-07-06&g=2022-07-06) benodigd is, voldoet ter verkrijging van dat certificaat tevens aan de ingevolge de [artikelen 14 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=3&paragraaf=1&artikel=14&z=2022-07-06&g=2022-07-06) toepasselijke eisen.
 
 2. Een schip waarvoor een certificaat als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=4&z=2022-07-06&g=2022-07-06) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=5&z=2022-07-06&g=2022-07-06) benodigd is, voldoet ter verkrijging van dat certificaat bovendien aan de ingevolge [artikel 40, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=40) toepasselijke eisen van hoofdstuk V van het SOLAS-verdrag.
 
-#### Artikel 20. Gelijkwaardige voorzieningen
+##### Artikel 20. Gelijkwaardige voorzieningen
 
 Het Hoofd van de Scheepvaartinspectie kan, met inachtneming van hetgeen dienaangaande in de op grond van deze regeling toepasselijke Codes, resoluties en circulaires is bepaald, afwijking toestaan van de in de [artikelen 13 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=3&paragraaf=1&artikel=13&z=2022-07-06&g=2022-07-06) bedoelde eisen, indien aan boord van het schip een voorziening wordt getroffen die naar zijn oordeel ten minste gelijkwaardig is aan de in het voorschrift waarvan wordt afgeweken, geëiste voorziening.
 
 #### § 3. Afgifte en geldigheid van certificaten
 
-#### Artikel 21. Veiligheidscommissie (ILO)
+##### Artikel 21. Veiligheidscommissie (ILO)
 
 1. De veiligheidscommissie aan boord van een schip met een bemanning van meer dan vijftien personen bestaat uit ten minste twee bevaren schepelingen. In de commissie zijn zowel de scheepsofficieren als de scheepsgezellen vertegenwoordigd.
 
@@ -244,7 +270,7 @@ Het Hoofd van de Scheepvaartinspectie kan, met inachtneming van hetgeen dienaang
 
 3. De verplichting, bedoeld in [artikel 26e, eerste lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=26e), geldt niet voor vissersvaartuigen en schepen met een bemanning van minder dan vijf personen.
 
-#### Artikel 22. Nadere regels betreffende de beveiliging van schepen
+##### Artikel 22. Nadere regels betreffende de beveiliging van schepen
 
 1. De nationale instantie waartoe de in voorschrift XI-2/6.2.1 van het SOLAS-verdrag bedoelde, door het Ship Security Alert System gegenereerde alarmmeldingen kunnen worden gericht, is het Kustwachtcentrum Curaçao.
 
@@ -252,7 +278,7 @@ Het Hoofd van de Scheepvaartinspectie kan, met inachtneming van hetgeen dienaang
 
 #### § 1. Eisen aan schepen
 
-#### Artikel 23. Typegoedkeuringen voor scheepsuitrusting
+##### Artikel 23. Typegoedkeuringen voor scheepsuitrusting
 
 1. Uitrusting waarvoor bij plaatsing aan boord van een schip, gelet op de op dat schip toepasselijke eisen, een typegoedkeuring is vereist, is van een door het Hoofd van de Scheepvaartinspectie goedgekeurd type.
 
@@ -268,7 +294,7 @@ Het Hoofd van de Scheepvaartinspectie kan, met inachtneming van hetgeen dienaang
 
 #### § 4. Vrijstellingen
 
-#### Artikel 24. Vrijstelling op grond van bijzondere Codes (IMO, CMOU, MCA)
+##### Artikel 24. Vrijstelling op grond van bijzondere Codes (IMO, CMOU, MCA)
 
 1. Schepen waarvoor een internationaal veiligheidscertificaat als bedoeld in [artikel 5, eerste lid, onderdeel a of b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=5) benodigd is, zijn vrijgesteld van:
 
@@ -280,7 +306,7 @@ Het Hoofd van de Scheepvaartinspectie kan, met inachtneming van hetgeen dienaang
 
 2. Schepen waarvoor het SCV-veiligheidscertificaat, behorend bij de SCV-Code, benodigd is, zijn vrijgesteld van [artikel 37 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=37).
 
-#### Artikel 25. Zeilschepen en niet-werktuiglijk voortbewogen schepen
+##### Artikel 25. Zeilschepen en niet-werktuiglijk voortbewogen schepen
 
 1. Zeilschepen van minder dan 500 GT, gebruikt voor het vervoer van ten hoogste 36 passagiers, zijn vrijgesteld van de voorschriften V/20, V/22.1.1 tot en met V/22.1.5 en V/30 van het SOLAS-verdrag.
 
@@ -288,7 +314,7 @@ Het Hoofd van de Scheepvaartinspectie kan, met inachtneming van hetgeen dienaang
 
 ### Hoofdstuk 4. Vervoer van lading
 
-#### Artikel 26. Vervoer van deklast hout (IMO)
+##### Artikel 26. Vervoer van deklast hout (IMO)
 
 1. Het vervoer van deklast hout aan boord van schepen met een lengte van 24 meter of meer geschiedt met inachtneming van de in de Houtvaartcode, met uitzondering van de bijlagen bij die Code, opgenomen voorschriften.
 
@@ -302,21 +328,21 @@ Het Hoofd van de Scheepvaartinspectie kan, met inachtneming van hetgeen dienaang
 
 4. De beproeving, markering en certificering van kettingen, gebruikt bij het sjorren van deklast hout, bedoeld in voorschrift 4.5.1 van de Houtvaartcode, geschiedt overeenkomstig EN-norm 818-2 of de door het Nederlands Normalisatie-Instituut te Delft uitgegeven norm NEN-EN 818-2.
 
-#### Artikel 27. Bevoegde autoriteiten IMSBC-Code (IMO)
+##### Artikel 27. Bevoegde autoriteiten IMSBC-Code (IMO)
 
 De bevoegde autoriteiten, bedoeld in de op grond van de hoofdstukken VI, deel A, en VII, deel A-1, van het SOLAS-verdrag toepasselijke IMSBC-Code, zijn voor de in Aruba, Curaçao, onderscheidenlijk Sint Maarten geregistreerde schepen: de onderscheidenlijke Ministers, verantwoordelijk voor scheepvaartaangelegenheden.
 
-#### Artikel 28. Nadere regels betreffende het vastzetten van lading (IMO)
+##### Artikel 28. Nadere regels betreffende het vastzetten van lading (IMO)
 
 1. De Handleiding vastzetten lading, bedoeld in de voorschriften VI/5.6 en VII/5 van het SOLAS-verdrag, voldoet aan de bij circulaire MSC.1/Circ. 1353/Rev.1 van de Maritieme Veiligheidscommissie van de IMO vastgestelde Herziene richtlijnen voor het opstellen van de Handleiding vastzetten lading (Revised guidelines for the preparation of the Cargo Securing Manual).
 
 2. Op schepen die zijn ingericht voor het vervoer van standaardlading, mag worden volstaan met een verkorte versie van de Handleiding vastzetten lading.
 
-#### Artikel 29
+##### Artikel 29
 
 De bevoegde autoriteiten, bedoeld in de op grond van Hoofdstuk VII, deel A, van het SOLAS-verdrag toepasselijke IMDG-Code zijn voor de in Aruba, Curaçao, onderscheidenlijk Sint Maarten geregistreerde schepen: de onderscheidenlijke Ministers, verantwoordelijk voor scheepvaartaangelegenheden.
 
-#### Artikel 30. EmS-Gids (IMO)
+##### Artikel 30. EmS-Gids (IMO)
 
 1. Aan boord van een schip waarmee gevaarlijke stoffen als bedoeld in hoofdstuk VII van het SOLAS-verdrag worden vervoerd, is een Nederlandstalige uitgave van de EmS-Gids aanwezig.
 
@@ -326,11 +352,11 @@ De bevoegde autoriteiten, bedoeld in de op grond van Hoofdstuk VII, deel A, van 
 
 #### § 3. Toelatingseisen voor scheepsuitrusting
 
-#### Artikel 31. Voorschriften voor bijzondere scheepstypen (IMO)
+##### Artikel 31. Voorschriften voor bijzondere scheepstypen (IMO)
 
 De kapitein van een schip waarvoor op grond van [artikel 3d](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=3d&z=2022-07-06&g=2022-07-06) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=4&z=2022-07-06&g=2022-07-06) het certificaat, behorende bij de SCV-Code, de MODU-Code 1979, de MODU-Code 1989 of de MODU-Code 2009, benodigd is, of ten aanzien waarvan op grond van [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=2&artikel=6a&z=2022-07-06&g=2022-07-06), [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=2&artikel=6b&z=2022-07-06&g=2022-07-06), [6d](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=2&artikel=6d&z=2022-07-06&g=2022-07-06) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=2&artikel=8&z=2022-07-06&g=2022-07-06) voor toepassing van de CCSS-Code, de SCV-Code, de LY2-Code, de LY3-Code, de DSC-Code, de SPS-Code of de SPS-Code 2008 is gekozen, draagt er zorg voor dat aan boord van het schip de in de desbetreffende Code opgenomen voorschriften en verplichtingen worden nageleefd.
 
-#### Artikel 32. Beheer medische uitrusting
+##### Artikel 32. Beheer medische uitrusting
 
 1. De kapitein draagt er zorg voor dat de aan boord aanwezige medische uitrusting in goede staat verkeert en zo spoedig mogelijk wordt aangevuld of vernieuwd, in ieder geval met voorrang tijdens de normale bevoorradingsprocedures.
 
@@ -340,23 +366,23 @@ De kapitein van een schip waarvoor op grond van [artikel 3d](https://wetten.over
 
 4. Dit artikel is eveneens van toepassing op vissersvaartuigen, met dien verstande dat de in het eerste tot en met derde lid bedoelde verplichtingen in dat geval op de schipper van het vaartuig rusten.
 
-#### Artikel 33. Incidenten met gevaarlijke stoffen (IMO)
+##### Artikel 33. Incidenten met gevaarlijke stoffen (IMO)
 
 1. De kapitein van een schip waarmee gevaarlijke stoffen als bedoeld in hoofdstuk VII van het SOLAS-verdrag worden vervoerd, draagt er bij een incident met die stoffen zorg voor dat de in de EmS-Gids opgenomen procedures worden gevolgd.
 
 2. Meldingen van incidenten met gevaarlijke stoffen als bedoeld in voorschrift VII/6 of VII/7-4 van het SOLAS-verdrag voldoen aan de bij resolutie A.851(20) van de Algemene Vergadering van de IMO aangenomen Richtlijnen voor het rapporteren van incidenten met gevaarlijke, schadelijke of milieuverontreinigende stoffen (Guidelines for reporting incidents involving dangerous goods, harmful substances and/or marine pollutants).
 
-#### Artikel 34. Bijhouden dagboeken
+##### Artikel 34. Bijhouden dagboeken
 
 De kapitein draagt er zorg voor dat de aan boord aanwezige dagboeken worden bijgehouden met inachtneming van hetgeen dienaangaande in de op grond van deze regeling toepasselijke Codes is bepaald.
 
 #### § 2. Vrijstellingen
 
-#### Artikel 35. Beproeven van stuurinrichting op korte reizen (SOLAS)
+##### Artikel 35. Beproeven van stuurinrichting op korte reizen (SOLAS)
 
 Schepen waarmee geregeld korte reizen als bedoeld in voorschrift III/3.22 van het SOLAS-verdrag worden ondernomen, zijn vrijgesteld van de in voorschrift V/26 van dat verdrag opgenomen verplichting om voorafgaand aan elke reis de stuurinrichting te beproeven, met dien verstande dat de stuurinrichting ten minste eenmaal per week wordt beproefd.
 
-#### Artikel 36. Niet-werktuiglijk voortbewogen schepen
+##### Artikel 36. Niet-werktuiglijk voortbewogen schepen
 
 1. Schepen die niet zijn voorzien van middelen tot werktuiglijke voortstuwing, zijn vrijgesteld van de voorschriften V/26 tot en met V/28 van het SOLAS-verdrag.
 
@@ -364,27 +390,27 @@ Schepen waarmee geregeld korte reizen als bedoeld in voorschrift III/3.22 van he
 
 ### Hoofdstuk 4. Vervoer van lading
 
-#### Artikel 37. Bekendmaking van Codes e.d.
+##### Artikel 37. Bekendmaking van Codes e.d.
 
 Van de wijze van bekendmaking van de op grond van deze regeling toepasselijke Codes, resoluties en circulaires wordt mededeling gedaan in de Landscourant van Aruba, in de Curaçaosche Courant en de Landscourant van Sint Maarten.
 
-#### Artikel 38. Wijzigingen van Codes e.d.
+##### Artikel 38. Wijzigingen van Codes e.d.
 
 1. [Artikel 71, eerste tot en met derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=71) is van overeenkomstige toepassing op de ingevolge deze regeling toepasselijke Codes, resoluties en circulaires.
 
 2. Ministeriële besluiten op grond van het eerste lid worden bekendgemaakt in de Staatscourant, de Landscourant van Aruba, de Curaçaosche Courant en de Landscourant van Sint Maarten.
 
-#### Artikel 39. Inwerkingtreding
+##### Artikel 39. Inwerkingtreding
 
 Deze regeling treedt in werking op 1 januari 2005, met uitzondering van de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=4&z=2022-07-06&g=2022-07-06), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=1&artikel=5&z=2022-07-06&g=2022-07-06), die in werking treden op het tijdstip waarop [artikel 6 van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=6) in werking treedt.
 
-#### Artikel 40
+##### Artikel 40
 
 Deze regeling wordt aangehaald als: Regeling veiligheid Arubaanse, Curaçaose en Sint Maartense zeeschepen.
 
 Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.
 
-#### Artikel 3a. Model nationaal veiligheidscertificaat
+##### Artikel 3a. Model nationaal veiligheidscertificaat
 
 1. In het opschrift van het nationaal veiligheidscertificaat wordt tot uitdrukking gebracht tot welke van de navolgende categorieën het te certificeren schip behoort:
 
@@ -414,13 +440,13 @@ Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Cou
 
 3. Het nationaal veiligheidscertificaat gaat vergezeld van een uitrustingsrapport en indien van toepassing, een uitwateringschema.
 
-#### Artikel 3b. Certificaten op grond van CCSS-Code (CMOU)
+##### Artikel 3b. Certificaten op grond van CCSS-Code (CMOU)
 
 1. Voor vrachtschepen ten aanzien waarvan op grond van [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=2&artikel=6a&z=2022-07-06&g=2022-07-06) voor toepassing van de CCSS-Code is gekozen, is het bij die Code behorende veiligheidscertificaat benodigd.
 
 2. Het in het eerste lid bedoelde certificaat treedt in de plaats van het nationaal veiligheidscertificaat.
 
-#### Artikel 3c. Certificaten voor passagiersschepen op grond van SCV-Code (IMO)
+##### Artikel 3c. Certificaten voor passagiersschepen op grond van SCV-Code (IMO)
 
 1. Voor een passagiersschip waarmee internationale reizen worden ondernomen, is, indien ten aanzien van dat schip op grond van [artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=2&artikel=6b&z=2022-07-06&g=2022-07-06) voor toepassing van de SCV-Code is gekozen, tezamen met een veiligheidscertificaat voor passagiersschepen een afschrift van de kennisgeving aan de IMO met betrekking tot de gelijkwaardigheid van de SCV-Code (**notification of equivalency**) benodigd.
 
@@ -428,7 +454,7 @@ Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Cou
 
 3. Voor schepen als bedoeld in het tweede lid treedt het SCV-veiligheidscertificaat in de plaats van het nationaal veiligheidscertificaat.
 
-#### Artikel 3d. Certificaten voor vrachtschepen op grond van SCV-Code (IMO)
+##### Artikel 3d. Certificaten voor vrachtschepen op grond van SCV-Code (IMO)
 
 1. Voor vrachtschepen met een lengte van minder dan 24 meter waarmee uitsluitend reizen in de Caribische handelszone worden ondernomen, is het bij die Code behorende SCV-veiligheidscertificaat benodigd.
 
@@ -436,7 +462,7 @@ Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Cou
 
 3. Het eerste lid is zowel van toepassing op vrachtschepen die zijn voorzien van middelen tot werktuiglijke voortstuwing, als op vrachtschepen die niet van zodanige middelen zijn voorzien.
 
-#### Artikel 3e. Certificaten op grond van LY2-Code en LY3-Code (MCA)
+##### Artikel 3e. Certificaten op grond van LY2-Code en LY3-Code (MCA)
 
 1. Voor een schip van 500 GT of meer waarmee internationale reizen worden ondernomen, is, indien ten aanzien van dat schip op grond van [artikel 6d](https://wetten.overheid.nl/jci1.3:c:BWBR0017726&hoofdstuk=2&paragraaf=2&artikel=6d&z=2022-07-06&g=2022-07-06) voor toepassing van de LY2-Code is gekozen, tezamen met een veiligheidscertificaat voor vrachtschepen een afschrift van de kennisgeving aan de IMO met betrekking tot de gelijkwaardigheid van de LY2-Code (**notification of equivalency**) benodigd.
 
@@ -448,7 +474,7 @@ Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Cou
 
 5. Het in het derde en vierde lid bedoelde certificaat treedt in de plaats van het nationaal veiligheidscertificaat.
 
-#### Artikel 3f. Certificaten voor offshore bevoorradings- en ondersteuningsschepen (IMO)
+##### Artikel 3f. Certificaten voor offshore bevoorradings- en ondersteuningsschepen (IMO)
 
 1. Voor een offshore bevoorradingsschip als bedoeld in resolutie MSC.235(82) is het bij die resolutie behorende certificaat benodigd.
 
@@ -456,13 +482,13 @@ Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Cou
 
 3. Voor schepen als bedoeld in [artikel 6 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=6) treedt het certificaat, behorende bij resolutie A.673(16), in de plaats van het voor die schepen benodigde nationaal veiligheidscertificaat.
 
-#### Artikel 6a. Onderzoeken op grond van CCSS-Code (CMOU)
+##### Artikel 6a. Onderzoeken op grond van CCSS-Code (CMOU)
 
 1. De eigenaar van een vrachtschip met een lengte van 24 meter of meer, doch van minder dan 500 GT, waarmee uitsluitend reizen worden ondernomen in de Caribische handelszone, kan er voor kiezen om dat schip te laten onderzoeken en certificeren met inachtneming van de voorschriften van de CCSS-Code.
 
 2. Indien ten aanzien van een vrachtschip is gekozen voor toepassing van de CCSS-Code, treden de in die Code voorgeschreven onderzoeken in de plaats van de in [artikel 15, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=15) voorgeschreven onderzoeken.
 
-#### Artikel 6b. Onderzoeken van passagiersschepen op grond van SCV-Code (IMO)
+##### Artikel 6b. Onderzoeken van passagiersschepen op grond van SCV-Code (IMO)
 
 1. De eigenaar van een passagiersschip met een lengte van minder dan 24 meter, waarmee uitsluitend reizen in de Caribische handelszone worden ondernomen, kan er voor kiezen om dat schip te laten onderzoeken en certificeren met inachtneming van de voorschriften van de SCV-Code.
 
@@ -470,13 +496,13 @@ Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Cou
 
 3. Indien ten aanzien van een passagiersschip is gekozen voor toepassing van de SCV-Code, treden de in die Code voorgeschreven onderzoeken in de plaats van de in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=14), of [artikel 15, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=15) bedoelde onderzoeken.
 
-#### Artikel 6c. Onderzoeken van vrachtschepen tot 24 m op grond van SCV-Code (IMO)
+##### Artikel 6c. Onderzoeken van vrachtschepen tot 24 m op grond van SCV-Code (IMO)
 
 1. Een vrachtschip waarvoor het SCV-veiligheidscertificaat, behorend bij de SCV-Code, benodigd is, wordt ter verkrijging van dat certificaat en tijdens de geldigheidsduur daarvan onderworpen aan de in die Code voorgeschreven onderzoeken.
 
 2. Het eerste lid is van overeenkomstige toepassing op vrachtschepen met een lengte van minder dan 24 meter, waarvoor een nationaal veiligheidscertificaat is benodigd
 
-#### Artikel 6d. Onderzoeken op grond van de LY2-Code en LY3-Code (MCA)
+##### Artikel 6d. Onderzoeken op grond van de LY2-Code en LY3-Code (MCA)
 
 1. De eigenaar van een beroepsmatig gebruikt, zeegaand schip met een loodlijnlengte van 24 meter of meer, dat ontworpen en gebouwd is en gebruikt wordt voor uitsluitend het vervoer van niet meer dan 12 passagiers, kan ervoor kiezen het betreffende schip te laten onderzoeken en certificeren met inachtneming van de LY3-Code, met uitzondering van de hoofdstukken 16.8, 21, 22 en 26 van deze Code.
 
@@ -484,7 +510,7 @@ Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Cou
 
 3. Bij toepassing van de LY3-Code dan wel de LY2-Code strekken de in de [artikelen 13 tot en met 15 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=13) bedoelde onderzoeken er mede toe om na te gaan of aan de eisen van die Codes is voldaan.
 
-#### Artikel 7a. Onderzoeken van offshore bevoorradings- en ondersteuningsschepen (IMO)
+##### Artikel 7a. Onderzoeken van offshore bevoorradings- en ondersteuningsschepen (IMO)
 
 Een offshore bevoorradingsschip als bedoeld in resolutie MSC.235(82), onderscheidenlijk een offshore ondersteuningsschip als bedoeld in resolutie A.673(16), wordt ter verkrijging van de voor die schepen benodigde certificaten en gedurende de geldigheidsduur daarvan onderworpen aan onderzoeken ter vaststelling dat is voldaan aan de in de resoluties opgenomen richtlijnen.
 
@@ -500,13 +526,13 @@ Een offshore bevoorradingsschip als bedoeld in resolutie MSC.235(82), onderschei
 
 #### § 4. Vrijstellingen
 
-#### Artikel 23a. Vrijstelling voor bepaalde schepen ten aanzien van het standaard en reserve magnetisch kompas en kompaspeiltoestel
+##### Artikel 23a. Vrijstelling voor bepaalde schepen ten aanzien van het standaard en reserve magnetisch kompas en kompaspeiltoestel
 
 1. Op schepen van minder dan 150 GT die nationale of internationale reizen maken en schepen van minder dan 500 GT die nationale reizen maken, zijn het standaard magnetisch kompas en het kompaspeiltoestel of hun alternatieve voorziening vrijgesteld van de eis onafhankelijk te zijn van elke elektrische krachtbron opgenomen in voorschrift 19.2.1.1, onderscheidenlijk 19.2.1.2 van hoofdstuk V van het SOLAS-verdrag, mits deze voorzieningen ten minste onafhankelijk zijn van de elektrische hoofdkrachtbron.
 
 2. Schepen van 150 GT of meer, doch minder dan 500 GT, die nationale reizen maken, zijn vrijgesteld van de eis voorzien te zijn van een reserve magnetisch kompas opgenomen in voorschrift 19.2.2.1 van hoofdstuk V van het SOLAS-verdrag, mits een tweede kompas vast is opgesteld.
 
-#### Artikel 23b. Vrijstellingen voor vrachtschepen van minder dan 500 GT
+##### Artikel 23b. Vrijstellingen voor vrachtschepen van minder dan 500 GT
 
 Vrachtschepen van minder dan 500 GT, doch met een lengte van 24 meter of meer, waarvoor een nationaal veiligheidscertificaat benodigd is, zijn vrijgesteld van de navolgende voorschriften of eisen van het SOLAS-verdrag:
 
@@ -528,7 +554,7 @@ Vrachtschepen van minder dan 500 GT, doch met een lengte van 24 meter of meer, w
 
 - g. voorschrift III/32.1.1 met betrekking tot de verplichte hoeveelheid reddingboeien aan boord, mits er niet minder dan 3 reddingboeien aan boord zijn waarvan ten minste 1 met lijn en 1 met licht.
 
-#### Artikel 25a. Vrijstellingen betreffende de veiligheid van navigatie
+##### Artikel 25a. Vrijstellingen betreffende de veiligheid van navigatie
 
 Wachtalarminstallaties op de brug, die voor 1 juli 2011 zijn geplaatst, zijn vrijgesteld van de eisen van resolutie MSC.128(75) van de Maritieme Veiligheidscommissie van de IMO, inhoudende uitvoeringsnormen betreffende de wachtalarminstallatie op de brug (**Performance standards for a bridge navigational watch alarm system (BNWAS)**), of van daaraan gelijkwaardige uitvoeringsnormen.
 
@@ -542,7 +568,7 @@ Wachtalarminstallaties op de brug, die voor 1 juli 2011 zijn geplaatst, zijn vri
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 38a. Uitvoering [Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342) (medische uitrusting)
+##### Artikel 38a. Uitvoering [Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342) (medische uitrusting)
 
 Deze regeling berust mede op de [artikelen 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=6.5), [6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=6.11), [6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=6.12), [7.17](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=7.17), [7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=7.20) en [7.23 van het Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=7.23).
 
@@ -582,7 +608,7 @@ Deze regeling berust mede op de [artikelen 6.5](https://wetten.overheid.nl/jci1.
 
 Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.
 
-#### Artikel 1a. Grondslag regeling
+##### Artikel 1a. Grondslag regeling
 
 Deze regeling berust mede op de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=2), en [6, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=6).
 
@@ -598,7 +624,7 @@ Deze regeling berust mede op de [artikelen 2, derde lid](https://wetten.overheid
 
 #### § 4. Vrijstellingen
 
-#### Artikel 28a. Methode berekening geverifieerde brutomassa van een beladen container ingevolge voorschrift 2, vierde lid, onder 2, deel A, hoofdstuk VI, van het SOLAS-verdrag
+##### Artikel 28a. Methode berekening geverifieerde brutomassa van een beladen container ingevolge voorschrift 2, vierde lid, onder 2, deel A, hoofdstuk VI, van het SOLAS-verdrag
 
 1. De bepaling van de geverifieerde brutomassa van een beladen container door berekening, bedoeld in voorschrift 2, vierde lid, onder 2, deel A, hoofdstuk VI, van het SOLAS-verdrag, geschiedt door de som te nemen van de massa’s bepaald volgens de leden twee tot en met vijf.
 
@@ -612,7 +638,7 @@ Deze regeling berust mede op de [artikelen 2, derde lid](https://wetten.overheid
 
 6. Bij de bepaling van de massa van een beladen container door berekening worden de bij circulaire MSC/Circ.1475 van de Maritieme Veiligheidscommissie van de IMO vastgestelde ‘Guidelines regarding the verified gross mass of a container carrying cargo’ in acht genomen.
 
-#### Artikel 28b. Toegestane afwijkingsmarge geverifieerde massa van een beladen container
+##### Artikel 28b. Toegestane afwijkingsmarge geverifieerde massa van een beladen container
 
 De geverifieerde brutomassa van een beladen container bedoeld in voorschrift 2, vierde lid, deel A, hoofdstuk VI, van het SOLAS-verdrag wijkt niet meer af van de werkelijke massa dan:
 
@@ -628,7 +654,7 @@ De geverifieerde brutomassa van een beladen container bedoeld in voorschrift 2, 
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 36a
+##### Artikel 36a
 
 1. De geneesmiddelen waarvan de aanwezigheid in de scheepsuitrusting tot aan 1 juli 2022 was voorgeschreven kunnen worden gebruikt totdat de houdbaarheidsdatum van de desbetreffende geneesmiddelen is verstreken.
 

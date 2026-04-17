@@ -1,13 +1,39 @@
 ---
-title: "Besluit machtiging P-Direkt (Bureau Financieel Toezicht)"
+title: "Besluit van de Directeur van het Bureau Financieel Toezicht van 11 december 2018, tot het verlenen van machtiging aan P-Direkt"
 identifier: "BWBR0042208"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-03-03
-laatste_update: 2026-04-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042208"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-03-03"
+last_updated: "2026-04-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042208"
+soort: "zbo"
+stam_id: "15072813"
+version_id: "25834052"
+internal_id: "C36828431"
+label_id: "15021634"
+dtd_version: "2.0"
+original_entry_into_force: "2019-05-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042208/2026-03-03/0"
+intitule_bron: "Stcrt.2019-26477"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-04-17"
+intitule_published: "2019-05-14"
+intitule_in_force: "2019-05-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-26477"
+original_signed_date: "2019-04-17"
+original_published_date: "2019-05-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-26477"
+entry_into_force_date: "2019-05-16"
+jci_1_3: "jci1.3:c:BWBR0042208&z=2019-05-16&g=2026-03-03"
+jci_1_0: "1.0:c:BWBR0042208&g=2026-03-03"
+citeertitel_status: "redactioneel"
+short_title: "Besluit machtiging P-Direkt (Bureau Financieel Toezicht)"
+signed_date: "2019-04-17"
+entry_into_force: "2019-05-16"
 ---
-
 # Besluit van de Directeur van het Bureau Financieel Toezicht van 11 december 2018, tot het verlenen van machtiging aan P-Direkt
 
 Gelet op [artikel 10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12);
@@ -18,7 +44,7 @@ gelet op het besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelati
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **machtiging:** de bevoegdheid om in naam van de Directeur van het Bureau Financieel Toezicht handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De directeur P-Direkt wordt gemachtigd tot het verrichten van feitelijke handelingen die verband houden met de dienstverlening van P-Direkt aan het Bureau Financieel Toezicht.
 
@@ -46,15 +72,15 @@ In dit besluit wordt verstaan onder:
 
 4. Voor de toepassing van [artikel 4 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=4) worden documenten die berusten bij P-Direkt geacht te berusten bij het Bureau Financieel Toezicht. De directeur P-Direkt heeft geen machtiging namens de Directeur van het Bureau Financieel Toezicht verzoeken in het kader van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) zonder tussenkomst van of namens de Directeur van het Bureau Financieel Toezicht af te handelen.
 
-#### Artikel 3
+##### Artikel 3
 
 De uitoefening van de machtiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042208&artikel=2&z=2019-05-16&g=2026-03-03), geschiedt met inachtneming van de van toepassing zijnde wet- en regelgeving en richtlijnen.
 
-#### Artikel 4
+##### Artikel 4
 
 De directeur P-Direkt kan met betrekking tot zijn bevoegdheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042208&artikel=2&z=2019-05-16&g=2026-03-03), machtiging verlenen aan één of meer onder hem ressorterende functionarissen. De directeur P-Direkt stelt de Directeur van het Bureau Financieel Toezicht op de hoogte van een dergelijke machtiging.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De machtiging geldt voor de duur van de dienstverlening van P-Direkt aan het Bureau Financieel Toezicht.
 
@@ -62,7 +88,7 @@ De directeur P-Direkt kan met betrekking tot zijn bevoegdheden, bedoeld in [arti
 
 3. Alle besluiten van voor inwerkingtreding van dit besluit, inhoudende een machtiging aan P-Direkt of zijn rechtsvoorganger tot het verrichten van feitelijke handelingen op het gebied van personeels- en salarisadministratie, worden ingetrokken per datum van inwerkingtreding van dit besluit.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 

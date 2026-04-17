@@ -1,13 +1,39 @@
 ---
-title: "Regeling kansrijke wijk (tweede tranche)"
+title: "Regeling van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 19 juni 2025, nr. 2025-0000019371, houdende regels met betrekking tot het verstrekken van een specifieke uitkering ten behoeve van het uitvoeren van het Nationaal Programma Leefbaarheid en Veiligheid (Regeling kansrijke wijk (tweede tranche))"
 identifier: "BWBR0051138"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2025-10-01
-laatste_update: 2025-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051138"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-01"
+last_updated: "2025-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051138"
+soort: "ministeriele-regeling"
+stam_id: "17453113"
+version_id: "30945792"
+internal_id: "C44327051"
+label_id: "17356034"
+dtd_version: "2.0"
+original_entry_into_force: "2025-09-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051138/2025-10-01/0"
+intitule_bron: "Stcrt.2025-20924"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-06-19"
+intitule_published: "2025-06-25"
+intitule_in_force: "2025-06-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-32385"
+original_signed_date: "2025-09-30"
+original_published_date: "2025-10-01"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-32385"
+entry_into_force_date: "2025-09-30"
+jci_1_3: "jci1.3:c:BWBR0051138&z=2025-10-01&g=2025-10-01"
+jci_1_0: "1.0:c:BWBR0051138&g=2025-10-01"
+citeertitel_status: "officieel"
+short_title: "Regeling kansrijke wijk (tweede tranche)"
+signed_date: "2025-09-30"
+entry_into_force: "2025-09-30"
 ---
-
 # Regeling van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 19 juni 2025, nr. 2025-0000019371, houdende regels met betrekking tot het verstrekken van een specifieke uitkering ten behoeve van het uitvoeren van het Nationaal Programma Leefbaarheid en Veiligheid (Regeling kansrijke wijk (tweede tranche))
 
 Handelende in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap en de Staatssecretaris van Sociale Zaken en Werkgelegenheid;
@@ -16,7 +42,7 @@ Gelet op [artikel 2, eerste lid, onderdeel h, van het Besluit van 29 oktober 202
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -58,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 - **uitvoeringsprogramma:** integraal gebiedsprogramma van de alliantie voor een looptijd variërend tussen één en vier jaren, waarin de ambities uit het langjarige gebiedsplan zijn vertaald naar concrete inzet, afspraken en een begroting.
 
-#### Artikel 2. Specifieke uitkering
+##### Artikel 2. Specifieke uitkering
 
 1. De minister kan voor de jaren 2026, 2027 en 2028 aan een gemeente die deelneemt aan het Nationaal Programma Leefbaarheid en Veiligheid een specifieke uitkering verstrekken voor:
 
@@ -84,7 +110,7 @@ In deze regeling wordt verstaan onder:
 
 4. Aan de bekostiging van de activiteiten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051138&artikel=2&z=2025-10-01&g=2025-10-01), worden voorwaarden gesteld die in de [artikelen 3 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0051138&artikel=3&z=2025-10-01&g=2025-10-01) zijn genoemd.
 
-#### Artikel 3. Bijdrage aan organisatie uitvoeringsprogramma
+##### Artikel 3. Bijdrage aan organisatie uitvoeringsprogramma
 
 1. Voor de organisatie van het uitvoeringsprogramma worden de uitgekeerde middelen besteed aan het in stand houden van een programmaorganisatie, het in stand houden en ondersteunen van de alliantie en het alliantieoverleg, het aanjagen en bewaken van de voortgang van de uitvoering van het uitvoeringsprogramma, en het equiperen van inwoners ten behoeve van de invulling van hun rol in de alliantie en het alliantieoverleg.
 
@@ -92,13 +118,13 @@ In deze regeling wordt verstaan onder:
 
 3. De maximale hoogte van de uitkering inclusief btw per ontvangende gemeente is in de bijlage bij deze regeling opgenomen en is gebaseerd op het aantal focusgebieden binnen een ontvangende gemeente.
 
-#### Artikel 4. Bijdrage aan integraliteit
+##### Artikel 4. Bijdrage aan integraliteit
 
 1. Voor de bekostiging van integrale activiteiten kunnen de uitgekeerde middelen worden besteed aan de uitvoering van activiteiten binnen het stedelijk focusgebied ten behoeve van te behalen resultaten, die bijdragen aan een of meer doelstellingen als bedoeld in de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051138&artikel=5&z=2025-10-01&g=2025-10-01), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051138&artikel=6&z=2025-10-01&g=2025-10-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051138&artikel=7&z=2025-10-01&g=2025-10-01), [7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051138&artikel=7a&z=2025-10-01&g=2025-10-01), en [7b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051138&artikel=7b&z=2025-10-01&g=2025-10-01).
 
 2. De maximale hoogte van de uitkering inclusief btw per ontvangende gemeente is in de bijlage bij deze regeling opgenomen.
 
-#### Artikel 5. Bijdrage aan re-integratie en preventie geldzorgen
+##### Artikel 5. Bijdrage aan re-integratie en preventie geldzorgen
 
 1. Voor het thema re-integratie en preventie geldzorgen worden de uitgekeerde middelen besteed aan activiteiten ten behoeve van te behalen resultaten binnen het stedelijk focusgebied die bijdragen aan:
 
@@ -108,7 +134,7 @@ In deze regeling wordt verstaan onder:
 
 2. De maximale hoogte van de uitkering inclusief btw per ontvangende gemeente is in de bijlage bij deze regeling opgenomen.
 
-#### Artikel 6. Bijdrage aan school en omgeving
+##### Artikel 6. Bijdrage aan school en omgeving
 
 1. Voor het thema school en omgeving worden de uitgekeerde middelen besteed aan een programma School en Omgeving, dat aansluit bij het curriculum van de desbetreffende school en ten dienste staat van een succesvolle schoolloopbaan. Een programma School en Omgeving wordt ontwikkeld en uitgevoerd door een lokale coalitie en kan activiteiten omvatten ten behoeve van te behalen resultaten op de volgende ontwikkelgebieden:
 
@@ -136,19 +162,19 @@ In deze regeling wordt verstaan onder:
 
 4. De maximale hoogte van de uitkering inclusief btw per ontvangende gemeente is in de bijlage bij deze regeling opgenomen.
 
-#### Artikel 7. Bijdrage aan ontwikkeling van het jonge kind
+##### Artikel 7. Bijdrage aan ontwikkeling van het jonge kind
 
 1. Voor het thema ontwikkeling van het jonge kind worden de uitgekeerde middelen besteed aan activiteiten ten behoeve van te behalen resultaten die bijdragen aan het versterken van de voorschoolse en vroegschoolse periode van de kinderen binnen het stedelijke focusgebied, met als doel ervoor te zorgen dat ieder kind zich in de eerste belangrijke levensjaren zo goed mogelijk kan ontwikkelen en een goede start heeft van diens schoolloopbaan, en daarmee de kansengelijkheid te vergroten.
 
 2. De maximale hoogte van de uitkering inclusief btw per ontvangende gemeente is in de bijlage bij deze regeling opgenomen.
 
-#### Artikel 8. Inzet uitgekeerde middelen buiten het stedelijk focusgebied
+##### Artikel 8. Inzet uitgekeerde middelen buiten het stedelijk focusgebied
 
 1. In afwijking van de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051138&artikel=4&z=2025-10-01&g=2025-10-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051138&artikel=5&z=2025-10-01&g=2025-10-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051138&artikel=7&z=2025-10-01&g=2025-10-01), [7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051138&artikel=7a&z=2025-10-01&g=2025-10-01), en [7b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051138&artikel=7b&z=2025-10-01&g=2025-10-01), kan op voorstel van het college en beargumenteerd door de alliantie, bij uitzondering, een deel van de uitgekeerde middelen worden besteed aan activiteiten buiten het stedelijk focusgebied, mits deze activiteiten hoofdzakelijk ten goede komen aan de inwoners van of de betrokken organisaties in het stedelijk focusgebied.
 
 2. Het programma School en Omgeving wordt aangeboden voor leerlingen op alle scholen die vallen binnen de lokale coalitie, mits ten minste 85% van de scholen in die lokale coalitie in het postcodegebied van het stedelijk focusgebied staat, waarvoor de uitkering wordt aangevraagd.
 
-#### Artikel 9. Aanvraag voor de specifieke uitkering of wijziging van de uitkering
+##### Artikel 9. Aanvraag voor de specifieke uitkering of wijziging van de uitkering
 
 1. Een uitkering kan worden aangevraagd van 7 juli 2025 tot en met 17 oktober 2025.
 
@@ -164,7 +190,7 @@ In deze regeling wordt verstaan onder:
 
 5. Indien de minister de aanvraag, bedoeld in het eerste lid, geheel of gedeeltelijk heeft afgewezen, kan het college een nieuwe aanvraag indienen voor een uitkering die betrekking heeft op de afgewezen onderdelen. Deze aanvraag kan worden ingediend van 1 januari 2026 tot en met 28 februari 2026. Het tweede lid is van overeenkomstige toepassing.
 
-#### Artikel 10. Reserveringsregeling en bestedingstermijn
+##### Artikel 10. Reserveringsregeling en bestedingstermijn
 
 1. Het college zal, in samenspraak met de alliantie, in de aanvraag, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0051138&artikel=9&z=2025-10-01&g=2025-10-01), de door de minister in 2026, 2027 en 2028 uit te keren middelen reserveren voor besteding tijdens de periode 2026 tot en met 2028 aan activiteiten binnen hetzelfde thema of het integrale deel ten behoeve van te behalen resultaten.
 
@@ -176,7 +202,7 @@ In deze regeling wordt verstaan onder:
 
 5. Het college kan tussen 1 augustus en 1 oktober 2028 bij de minister een gemotiveerd verzoek indienen tot uitstel van de bestedingstermijn, bedoeld in het derde lid. Uitstel kan ten hoogste worden verleend tot en met 31 december 2029. Het verzoek tot uitstel kan enkel worden ingediend met een bijgevoegd schriftelijk akkoord van de alliantie van het desbetreffende stedelijk focusgebied.
 
-#### Artikel 11. Afwijzingsgronden
+##### Artikel 11. Afwijzingsgronden
 
 1. Een uitkering wordt niet verstrekt voor in de aanvraag, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0051138&artikel=9&z=2025-10-01&g=2025-10-01), vermelde te behalen resultaten waarvan de minister niet verwacht dat zij zullen bijdragen aan de doelen, genoemd in de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051138&artikel=4&z=2025-10-01&g=2025-10-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051138&artikel=5&z=2025-10-01&g=2025-10-01), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051138&artikel=6&z=2025-10-01&g=2025-10-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051138&artikel=7&z=2025-10-01&g=2025-10-01), [7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051138&artikel=7a&z=2025-10-01&g=2025-10-01), en [7b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051138&artikel=7b&z=2025-10-01&g=2025-10-01).
 
@@ -192,7 +218,7 @@ In deze regeling wordt verstaan onder:
 
 5. Een uitkering wordt niet verstrekt voor btw die verschuldigd is over kosten voor zover het bedrag van de btw in aanmerking komt voor compensatie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817).
 
-#### Artikel 12. Verstrekking en voorschot
+##### Artikel 12. Verstrekking en voorschot
 
 1. De minister neemt binnen negen weken na het einde van de aanvraagperiode, genoemd in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0051138&artikel=9&z=2025-10-01&g=2025-10-01), een besluit over de verlening van de uitkering.
 
@@ -216,11 +242,11 @@ In deze regeling wordt verstaan onder:
 
 4. Indien de uitkering wordt verleend, betaalt de minister een voorschot van 100% uit in jaarlijkse termijnen, die zijn genoemd in de bijlage bij deze regeling.
 
-#### Artikel 13. Verantwoording
+##### Artikel 13. Verantwoording
 
 Het college legt, in samenspraak met de alliantie, verantwoording af over de besteding van de uitkering op de wijze bepaald in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-#### Artikel 14. Vaststelling en terugvordering
+##### Artikel 14. Vaststelling en terugvordering
 
 1. De minister stelt binnen dertien weken na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), de uitkering vast over het laatste kalenderjaar van de uitkering.
 
@@ -230,11 +256,11 @@ Het college legt, in samenspraak met de alliantie, verantwoording af over de bes
 
 4. Indien uit de verantwoordingsinformatie, bedoeld in het eerste lid, blijkt dat de uitkering niet volledig of onrechtmatig is besteed, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister worden teruggevorderd. De minister doet binnen één jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan het college.
 
-#### Artikel 15. Hardheidsclausule
+##### Artikel 15. Hardheidsclausule
 
 De minister kan een bepaling van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang van het verstrekken van een uitkering voor de activiteiten ten behoeve van de te behalen resultaten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051138&artikel=2&z=2025-10-01&g=2025-10-01), zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 16. Informatie en evaluatie
+##### Artikel 16. Informatie en evaluatie
 
 1. Het college informeert, in samenspraak met de alliantie, op verzoek de minister periodiek over de voortgang van de besteding van de uitkering en over de daarmee behaalde resultaten.
 
@@ -242,11 +268,11 @@ De minister kan een bepaling van deze regeling buiten toepassing laten of daarva
 
 3. Het college verleent op verzoek van de minister medewerking en verstrekt, in samenspraak met de alliantie, op verzoek van de minister informatie ten behoeve van de evaluatie van de doeltreffendheid en doelmatigheid van deze regeling, waarbij de doeltreffendheid en doelmatigheid primair de verantwoordelijkheid is van de alliantie.
 
-#### Artikel 17. Inwerkingtreding
+##### Artikel 17. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 juli 2025.
 
-#### Artikel 18. Citeertitel
+##### Artikel 18. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling kansrijke wijk (tweede tranche).
 
@@ -824,13 +850,13 @@ De gemeenten waaraan een uitkering wordt verstrekt, de maximale hoogte van de ui
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 7a. Bijdrage aan maatschappelijke samenhang
+##### Artikel 7a. Bijdrage aan maatschappelijke samenhang
 
 1. Voor het thema maatschappelijke samenhang worden de uitgekeerde middelen besteed aan activiteiten ten behoeve van te behalen resultaten binnen het stedelijk focusgebied die bijdragen aan het bevorderen van de actieve deelname van inwoners aan de samenleving, met als doel de maatschappelijke samenhang te bevorderen.
 
 2. De maximale hoogte van de uitkering inclusief btw per ontvangende gemeente is in de bijlage bij deze regeling opgenomen.
 
-#### Artikel 7b. Bijdrage aan financiële educatie
+##### Artikel 7b. Bijdrage aan financiële educatie
 
 1. Voor het thema financiële educatie worden de uitgekeerde middelen besteed aan activiteiten ten behoeve van te behalen resultaten binnen het stedelijk focusgebied die bijdragen aan het creëren, ontwikkelen en bevorderen van structurele aandacht voor effectieve financiële educatie in onderwijsinstellingen binnen het primair onderwijs.
 

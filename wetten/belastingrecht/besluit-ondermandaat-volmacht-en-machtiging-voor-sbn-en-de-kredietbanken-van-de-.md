@@ -1,13 +1,39 @@
 ---
-title: "Besluit ondermandaat, volmacht en machtiging voor SBN en de kredietbanken van de directeur-generaal Herstelbeleid in het kader van private schulden en herstel toeslagen 2024"
+title: "Besluit van de directeur-generaal Herstelbeleid van het Ministerie van Financiën van 30 juli 2024 (2024-395919) houdende verlening van ondermandaat, volmacht en machtiging aan de Stichting Sociale Banken Nederland en de kredietbanken in het kader van schulden en herstel (Besluit ondermandaat, volmacht en machtiging voor SBN en de kredietbanken van de directeur-generaal Herstelbeleid in het kader van schulden en herstel toeslagen 2024)"
 identifier: "BWBR0050139"
-categorie: "Belastingrecht"
-publicatiedatum: 2024-08-16
-laatste_update: 2024-08-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050139"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-08-16"
+last_updated: "2024-08-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050139"
+soort: "ministeriele-regeling"
+stam_id: "17204183"
+version_id: "30294172"
+internal_id: "C43462881"
+label_id: "17110124"
+dtd_version: "2.0"
+original_entry_into_force: "2024-08-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050139/2024-08-16/0"
+intitule_bron: "Stcrt.2024-26749"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-07-30"
+intitule_published: "2024-08-15"
+intitule_in_force: "2024-08-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-26749"
+original_signed_date: "2024-07-30"
+original_published_date: "2024-08-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-26749"
+entry_into_force_date: "2024-08-16"
+jci_1_3: "jci1.3:c:BWBR0050139&z=2024-08-16&g=2024-08-16"
+jci_1_0: "1.0:c:BWBR0050139&g=2024-08-16"
+citeertitel_status: "officieel"
+short_title: "Besluit ondermandaat, volmacht en machtiging voor SBN en de kredietbanken van de directeur-generaal Herstelbeleid in het kader van private schulden en herstel toeslagen 2024"
+signed_date: "2024-07-30"
+entry_into_force: "2024-08-16"
 ---
-
 # Besluit van de directeur-generaal Herstelbeleid van het Ministerie van Financiën van 30 juli 2024 (2024-395919) houdende verlening van ondermandaat, volmacht en machtiging aan de Stichting Sociale Banken Nederland en de kredietbanken in het kader van schulden en herstel (Besluit ondermandaat, volmacht en machtiging voor SBN en de kredietbanken van de directeur-generaal Herstelbeleid in het kader van schulden en herstel toeslagen 2024)
 
 Gelet op de [artikelen 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=3.13) en[4.1 tot en met 4.4 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=4.1);
@@ -20,7 +46,7 @@ Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&art
 
 Besluit:
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In dit besluit wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 - d. **Kredietbank:** een kredietbank die is aangesloten bij SBN en die is betrokken bij de afwikkeling van de hersteloperatie van de [Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436).
 
-#### Artikel 2. Ondermandaat, volmacht en machtiging
+##### Artikel 2. Ondermandaat, volmacht en machtiging
 
 Tenzij anders is bepaald, omvat de verlening van ondermandaat mede de verlening van:
 
@@ -40,7 +66,7 @@ Tenzij anders is bepaald, omvat de verlening van ondermandaat mede de verlening 
 
 - b. machtiging: de bevoegdheid om in naam van de Minister van Financiën handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
 
-#### Artikel 3. Ondermandaatverlening SBN
+##### Artikel 3. Ondermandaatverlening SBN
 
 1. Aan de voorzitter van het bestuur van SBN wordt ondermandaat verleend voor hetgeen nodig is in verband met, en beperkt tot, de uitvoering van de [artikelen 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=3.13) en [4.1 tot en met 4.4 van de Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=4.1), waaronder:
 
@@ -60,7 +86,7 @@ Tenzij anders is bepaald, omvat de verlening van ondermandaat mede de verlening 
 
 2. Het verleende ondermandaat omvat niet de bevoegdheid tot het nemen van beslissingen op bezwaar.
 
-#### Artikel 4. Machtiging kredietbanken
+##### Artikel 4. Machtiging kredietbanken
 
 1. Aan de volgende partijen wordt een machtiging verleend voor het uitvoeren van de [artikelen 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=3.13) en [4.1 tot en met 4.4 van de Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=4.1):
 
@@ -92,7 +118,7 @@ Tenzij anders is bepaald, omvat de verlening van ondermandaat mede de verlening 
 
 - d. het uitwisselen van (persoons)gegevens, inclusief het burgerservicenummer, met derde partijen, indien en voor zover dat noodzakelijk is.
 
-#### Artikel 5. Ondermandaat
+##### Artikel 5. Ondermandaat
 
 1. De ondergemandateerden in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050139&artikel=3&z=2024-08-16&g=2024-08-16) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0050139&artikel=4&z=2024-08-16&g=2024-08-16) kunnen de aan hen ondergemandateerde bevoegdheden, afzonderlijk van elkaar, ondermandateren.
 
@@ -100,7 +126,7 @@ Tenzij anders is bepaald, omvat de verlening van ondermandaat mede de verlening 
 
 3. Degene die krachtens ondermandaat handelt, handelt in overeenstemming met hetgeen in dit besluit is bepaald.
 
-#### Artikel 6. Voorschriften en instructies
+##### Artikel 6. Voorschriften en instructies
 
 1. De uitoefening van de ondergemandateerde bevoegdheden geschiedt binnen de grenzen en met inachtneming van het ter zake geldende recht.
 
@@ -110,7 +136,7 @@ Tenzij anders is bepaald, omvat de verlening van ondermandaat mede de verlening 
 
 4. De ondergemandateerde oefent zijn bevoegdheid niet uit indien hij bij de te nemen beslissing een persoonlijk belang heeft als bedoeld in [artikel 2:4, tweede lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:4).
 
-#### Artikel 7. Informatie- en overlegplicht
+##### Artikel 7. Informatie- en overlegplicht
 
 1. De ondergemandateerde treedt in overleg met het programmadirectoraat-generaal Herstel alvorens de bevoegdheden uit te oefenen waarvan moet worden aangenomen dat kennisneming over de uitoefening van die bevoegdheden door het programmadirectoraat-generaal Herstel gewenst is. Hier is in ieder geval sprake van indien de uitoefening van de ondergemandateerde bevoegdheid naar verwachting politieke en maatschappelijke gevolgen zal hebben, of indien een besluit naar redelijke verwachting tot consequentie kan hebben dat de Staat aansprakelijk wordt gesteld of anderszins in rechte wordt aangesproken.
 
@@ -118,7 +144,7 @@ Tenzij anders is bepaald, omvat de verlening van ondermandaat mede de verlening 
 
 3. Periodiek wordt door de ondergemandateerde in samenspraak met het programmadirectoraat-generaal Herstel de mandaatverlening en de informatieverstrekking geëvalueerd.
 
-#### Artikel 8. Ondertekening
+##### Artikel 8. Ondertekening
 
 De ondertekening in mandaat en ondermandaat luidt:
 
@@ -130,15 +156,15 @@ De Minister van Financiën, namens deze,
 
 [functie van de ondergemandateerde functionaris of ondergemandateerde medewerker].
 
-#### Artikel 9. Intrekking
+##### Artikel 9. Intrekking
 
 Het [Besluit ondermandaat, volmacht en machtiging voor SBN en de kredietbanken van de directeur-generaal Ketenregie in het kader van private schulden en herstel toeslagen 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049682) (Stcrt. 2024, 14965) wordt ingetrokken.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 mei 2024.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging voor SBN en de kredietbanken van de directeur-generaal Herstelbeleid in het kader van private schulden en herstel toeslagen 2024.
 

@@ -1,24 +1,48 @@
 ---
 title: "Subsidieregeling openbare inland terminals"
 identifier: "BWBR0011721"
-categorie: "Bestuursrecht"
-publicatiedatum: 2002-01-01
-laatste_update: 2002-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011721"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2002-01-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011721"
+soort: "ministeriele-regeling"
+stam_id: "4672003"
+version_id: "6488452"
+internal_id: "C6736591"
+label_id: "4650424"
+dtd_version: "2.0"
+original_entry_into_force: "2000-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011721/2002-01-01/0"
+intitule_bron: "Stcrt.2000-210"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-10-20"
+intitule_published: "2000-10-30"
+intitule_in_force: "2000-10-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-210"
+original_signed_date: "2000-10-20"
+original_published_date: "2000-10-30"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-11-01"
+jci_1_3: "jci1.3:c:BWBR0011721&z=2002-01-01&g=2002-01-01"
+jci_1_0: "1.0:c:BWBR0011721&g=2002-01-01"
+citeertitel_status: "officieel"
+signed_date: "2000-10-20"
+entry_into_force: "2000-11-01"
 ---
-
 # Subsidieregeling openbare inland terminals
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3) en [4 van de Kaderwet subsidies Verkeer en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=4),
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 1. Op aanvraag van een overslagbedrijf kan de Minister ter bevordering van het gebruik van intermodaal en multimodaal vervoer subsidie verlenen ten behoeve van initiële of uitbreidingsinvesteringen van een overslagterminal. De subsidie kan worden verleend voor zowel investeringen in infrastructuur als in vaste en mobiele uitrusting die nodig is voor de overslag van goederen.
 
@@ -58,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 - c. naar verwachting binnen drie maanden na de datum van de subsidieverlening uitvoeringsgereed zal zijn in die zin dat de financiering van het project is verzekerd.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het subsidieplafond dat per jaar voor het verlenen van subsidies ingevolge deze regeling beschikbaar is, is gelijk aan het bedrag dat in de begroting van het Ministerie van Verkeer en Waterstaat voor dat desbetreffende jaar daarvoor op artikel IF 04.03 van het Infrastructuurfonds beschikbaar wordt gesteld, rekening houdend met uitgaven betreffende in eerdere jaren verleende subsidies.
 
@@ -92,7 +116,7 @@ In deze regeling wordt verstaan onder:
 
 6. De kosten van de subsidiabele onderdelen van het project, bedoeld in het vierde lid, worden slechts voorzover zij aantoonbaar betrekking hebben op het project, en voorzover zij in redelijkheid noodzakelijk zijn, in aanmerking genomen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een aanvraag als bedoeld in artikel 2, eerste lid, wordt vóór 1 januari 2004 ingediend bij de Minister van Verkeer en Waterstaat door tussenkomst van de directeur Algemeen Beleid van het Directoraat-Generaal Goederenvervoer.
 
@@ -128,13 +152,13 @@ In deze regeling wordt verstaan onder:
 
 - (viii). een opgave van de stand van zaken met betrekking tot de voor de uitvoering van het project noodzakelijke wettelijke procedures.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Minister beslist binnen zes maanden na ontvangst van de aanvraag.
 
 2. Zowel de beoordeling van de aanvragen als de verlening van subsidies tot het subsidieplafond, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011721&artikel=3&z=2002-01-01&g=2002-01-01), vinden plaats in volgorde van ontvangst van de aanvragen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onverminderd de [artikelen 4:25](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:25) en [4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) kan de subsidieverlening worden geweigerd indien niet wordt voldaan aan de vereisten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011721&artikel=2&z=2002-01-01&g=2002-01-01).
 
@@ -144,7 +168,7 @@ In deze regeling wordt verstaan onder:
 
 - b. meer dan één aanvraag wordt ontvangen en de som van de bedragen waarvoor subsidie verleend zou worden hoger is dan het op die datum resterende gedeelte van het budget tot het subsidieplafond, worden de aanvragen afgewezen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De beschikking tot subsidieverlening vermeldt in elk geval:
 
@@ -162,7 +186,7 @@ In deze regeling wordt verstaan onder:
 
 5. Bij de beschikking tot subsidieverlening kunnen bijzondere verplichtingen worden opgelegd in verband met de specifieke omstandigheden van de exploitatie van de terminal.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Behoudens een afwijkende beslissing van de Minister op een schriftelijke, gemotiveerde aanvraag van de subsidie-ontvanger, vangt deze binnen één jaar na de subsidieverlening met de uitvoering van het project aan.
 
@@ -182,7 +206,7 @@ In deze regeling wordt verstaan onder:
 
 6. Onverminderd het bepaalde in het vierde en het vijfde lid dient de subsidie-aanvrager binnen vier maanden na voltooiing van het project bij de Minister een verzoek tot subsidievaststelling in. Dit verzoek gaat vergezeld van een financiële verantwoording over de uitvoering van het totale project. Deze verantwoording is voorzien van een verklaring van een onafhankelijke registeraccountant of accountant-administratieconsulent. Deze verklaring wordt opgesteld aan de hand van het bij de beschikking tot subsidieverlening gevoegde controle-protocol.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Binnen acht weken nadat de subsidie-ontvanger de gegevens, bedoeld in [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011721&artikel=8&z=2002-01-01&g=2002-01-01), heeft overgelegd, wordt het bedrag van de subsidie vastgesteld overeenkomstig het tweede tot en met het vijfde lid.
 
@@ -192,7 +216,7 @@ In deze regeling wordt verstaan onder:
 
 4. Indien het vastgestelde subsidiebedrag lager is dan hetgeen reeds als voorschot ingevolge [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011721&artikel=7&z=2002-01-01&g=2002-01-01), is uitbetaald, betaalt de subsidie-ontvanger op eerste vordering van de Minister binnen een daarbij te bepalen termijn het teveel betaalde terug.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De subsidie-ontvanger draagt zorg voor een administratie die zodanig is ingericht, dat daaruit op elk gewenst tijdstip op eenvoudige en duidelijke wijze de aan de exploitatie en de overige activiteiten gerelateerde kosten zijn af te leiden.
 
@@ -200,21 +224,21 @@ In deze regeling wordt verstaan onder:
 
 3. Op verzoek van de Minister verleent de subsidie-ontvanger tussentijds alle medewerking aan een evaluatie-onderzoek, bedoeld om te beoordelen in welke mate de verlening van de subsidie heeft bijgedragen aan de door de Minister geformuleerde beleidsdoelen.
 
-#### Artikel 11
+##### Artikel 11
 
 Indien de subsidie-ontvanger zich niet houdt aan de verplichtingen ingevolge de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) of deze regeling, betaalt hij op eerste vordering van de Minister binnen een daarbij te bepalen termijn een daarbij aan te geven deel of het gehele bedrag van de ontvangen subsidie terug.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Vóór 31 december 2004 publiceert de Minister een verslag over de doeltreffendheid, de doelmatigheid en de effecten van deze regeling in de praktijk.
 
 2. De subsidie-ontvanger verstrekt alle gevraagde informatie die nodig is voor de opstelling van het verslag, bedoeld in het eerste lid.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling wordt aangehaald als: Subsidieregeling openbare inland terminals.
 

@@ -1,16 +1,43 @@
 ---
-title: "Wet verevening pensioenrechten bij scheiding"
+title: "Wet van 28 april 1994, tot vaststelling van regels met betrekking tot de verevening van pensioenrechten bij echtscheiding of scheiding van tafel en bed (Wet verevening pensioenrechten bij scheiding) en daarmede verband houdende wijzigingen in andere wetten"
 identifier: "BWBR0006641"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2021-07-10
-laatste_update: 2021-07-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006641"
+country: "nl"
+rank: "wet"
+publication_date: "2021-07-10"
+last_updated: "2021-07-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006641"
+soort: "wet"
+stam_id: "366263"
+version_id: "14020582"
+internal_id: "C19071321"
+label_id: "357864"
+dtd_version: "2.0"
+original_entry_into_force: "2006-12-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006641/2021-07-10/0"
+intitule_bron: "Stb.1994-342"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-04-28"
+intitule_published: "1994-05-19"
+intitule_status: "goed"
+original_publication: "Stb.2006-706"
+original_signed_date: "2006-12-07"
+original_published_date: "2006-12-22"
+original_effect: "structuurwijziging"
+original_dossier: "30655"
+original_url_id: "stb-2006-706"
+entry_into_force_date: "2006-12-07"
+entry_into_force_dossier: "30655"
+jci_1_3: "jci1.3:c:BWBR0006641&z=2021-07-10&g=2021-07-10"
+jci_1_0: "1.0:c:BWBR0006641&g=2021-07-10"
+citeertitel_status: "officieel"
+short_title: "Wet verevening pensioenrechten bij scheiding"
+signed_date: "2006-12-07"
+entry_into_force: "2006-12-07"
 ---
+# Wet van 28 april 1994, tot vaststelling van regels met betrekking tot de verevening van pensioenrechten bij echtscheiding of scheiding van tafel en bed (Wet verevening pensioenrechten bij scheiding) en daarmede verband houdende wijzigingen in andere wetten
 
-# Wet verevening pensioenrechten bij scheiding
-
-#### Artikel 1
+##### Artikel 1
 
 1. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
@@ -82,7 +109,7 @@ bron: "https://wetten.overheid.nl/BWBR0006641"
 
 9. Bij algemene maatregel van bestuur kunnen uitkeringen ingevolge enigerlei regeling worden aangemerkt als pensioen in de zin van deze wet.
 
-#### Artikel 2
+##### Artikel 2
 
 1. In geval van scheiding en voor zover de ene echtgenoot na de huwelijkssluiting en voor de scheiding pensioenaanspraken heeft opgebouwd, heeft de andere echtgenoot overeenkomstig het bepaalde bij of krachtens deze wet recht op pensioenverevening, tenzij de echtgenoten de toepasselijkheid van deze wet hebben uitgesloten bij huwelijkse voorwaarden of bij een bij geschrift gesloten overeenkomst met het oog op de scheiding.
 
@@ -96,7 +123,7 @@ bron: "https://wetten.overheid.nl/BWBR0006641"
 
 6. De tot verevening gerechtigde echtgenoot heeft een recht op uitbetaling jegens de andere echtgenoot indien niet ingevolge het tweede lid een recht op uitbetaling jegens het uitvoeringsorgaan is ontstaan, alsmede indien de uitbetaling ingevolge het derde lid ingaat na pensioeningang. In dit laatste geval houdt het recht op uitbetaling jegens de andere echtgenoot op zodra de uitbetaling door het uitvoeringsorgaan ingaat. Op het recht op uitbetaling jegens de andere echtgenoot is het bepaalde bij of krachtens deze wet van overeenkomstige toepassing.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het deel bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=2&z=2021-07-10&g=2021-07-10), bedraagt de helft van het pensioen dat zou moeten worden uitbetaald indien:
 
@@ -110,7 +137,7 @@ bron: "https://wetten.overheid.nl/BWBR0006641"
 
 3. Een pensioen wordt niet verevend, indien op het tijdstip van scheiding het deel van dat pensioen, waarop recht op uitbetaling ontstaat, het in [artikel 66, eerste lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=66) genoemde bedrag niet te boven gaat.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Bij huwelijkse voorwaarden of bij een bij geschrift gesloten overeenkomst met het oog op de scheiding kunnen de echtgenoten in afwijking van artikel 3, aanhef en onderdeel **a** van het eerste lid, overeenkomen het deel bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=2&z=2021-07-10&g=2021-07-10), te bepalen op een door hen te kiezen vast percentage dan wel de in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=3&z=2021-07-10&g=2021-07-10), nader bepaalde periode te wijzigen. Het bij geschrift met het oog op de scheiding door de echtgenoten overeen te komen deel kan niet worden bepaald op een percentage dat op het tijdstip van scheiding resulteert in een pensioenaanspraak gelijk aan of lager dan het in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=3&z=2021-07-10&g=2021-07-10), bedoelde bedrag.
 
@@ -118,7 +145,7 @@ bron: "https://wetten.overheid.nl/BWBR0006641"
 
 3. Na ontvangst van het afschrift of uittreksel van de in het eerste lid bedoelde overeenkomst verstrekt het uitvoeringsorgaan aan de tot verevening gerechtigde echtgenoot een bewijsstuk als bedoeld in het [vijfde lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=2&z=2021-07-10&g=2021-07-10). De andere echtgenoot ontvangt daarvan een afschrift.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Bij huwelijkse voorwaarden of bij een bij geschrift gesloten overeenkomst met het oog op de scheiding kunnen de echtgenoten in geval van echtscheiding dan wel beëindiging van het geregistreerd partnerschap anders dan door de dood of vermissing overeenkomen, dat [artikel 2, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=2&z=2021-07-10&g=2021-07-10), buiten toepassing blijft en dat de echtgenoot die anders een recht op uitbetaling van pensioen zou hebben verkregen in de plaats van dat recht en zijn aanspraak op partnerpensioen jegens het uitvoeringsorgaan een eigen recht op pensioen verkrijgt. De overeenkomst is slechts geldig indien aan de overeenkomst een verklaring van het betrokken uitvoeringsorgaan is gehecht dat het instemt met bedoelde omzetting.
 
@@ -126,13 +153,13 @@ bron: "https://wetten.overheid.nl/BWBR0006641"
 
 3. Na ontvangst van het afschrift of uittreksel van de in het eerste lid bedoelde overeenkomst verstrekt het uitvoeringsorgaan aan de tot verevening gerechtigde echtgenoot een bewijsstuk van zijn eigen recht op pensioen. De andere echtgenoot ontvangt daarvan een afschrift; hij ontvangt voorts een opgave van zijn verminderd pensioen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het uitvoeringsorgaan is bevoegd om de kosten van een verevening voor de helft aan ieder der echtgenoten in rekening te brengen dan wel in mindering te brengen op de aan hen uit te betalen bedragen.
 
 2. Met betrekking tot de in het eerste lid bedoelde kosten kunnen door onze Minister van Sociale Zaken en Werkgelegenheid in overeenstemming met onze Ministers wie dat aangaat nadere regels worden gesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Voor de toepassing van wettelijke en andere bepalingen met betrekking tot beslag, inhouding en korting wordt het deel van het pensioen dat niet aan de tot verevening verplichte echtgenoot wordt uitbetaald geacht niet tot diens pensioen te behoren.
 
@@ -144,25 +171,25 @@ bron: "https://wetten.overheid.nl/BWBR0006641"
 
 5. Voor de toepassing van wettelijke bepalingen met betrekking tot een volmacht tot invordering van pensioen wordt het deel van het pensioen dat niet aan de tot verevening verplichte echtgenoot wordt uitbetaald geacht niet tot diens pensioen te behoren.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien een pensioen wordt verlaagd of verhoogd, uitsluitend wegens ingang op een vroeger of later tijdstip dan het op grond van de desbetreffende regeling normale tijdstip, wordt het deel, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=2&z=2021-07-10&g=2021-07-10), op overeenkomstige wijze verlaagd of verhoogd.
 
 2. Indien een pensioen wordt verminderd wegens samenloop met één of meer andere te verevenen pensioenen wordt het deel, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=2&z=2021-07-10&g=2021-07-10), op overeenkomstige wijze verminderd.
 
-#### Artikel 9
+##### Artikel 9
 
 De echtgenoten, het uitvoeringsorgaan en de werkgever zijn gehouden desgevraagd elkaar over en weer die gegevens te verstrekken die noodzakelijk zijn voor de vaststelling van de rechten en verplichtingen die uit deze wet voortvloeien.
 
-#### Artikel 10
+##### Artikel 10
 
 Bij ministeriële regeling worden door onze Minister van Sociale Zaken en Werkgelegenheid in overeenstemming met onze Ministers wie dat aangaat nadere regels gesteld voor de berekening van pensioen dat betrekking heeft op de deelnemingsjaren gelegen voor de datum van inwerkingtreding van deze wet.
 
-#### Artikel 11
+##### Artikel 11
 
 Indien de echtgenoten bij huwelijkse voorwaarden gemaakt voor de inwerkingtreding van deze wet algehele gemeenschap van goederen tussen hen hebben uitgesloten of beperkt, vindt verevening van pensioenrechten als bedoeld in deze wet plaats, tenzij de echtgenoten bij huwelijkse voorwaarden of bij een bij geschrift gesloten overeenkomst met het oog op de scheiding uitdrukkelijk anders hebben bepaald.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Deze wet is niet van toepassing op een scheiding die heeft plaatsgevonden voor de datum van inwerkingtreding van deze wet.
 
@@ -170,7 +197,7 @@ Indien de echtgenoten bij huwelijkse voorwaarden gemaakt voor de inwerkingtredin
 
 3. Een recht op verevening ingevolge het tweede lid ontstaat slechts indien de mededeling, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=2&z=2021-07-10&g=2021-07-10), plaatsvindt binnen twee jaar na de inwerkingtreding van deze wet. [Artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=2&z=2021-07-10&g=2021-07-10), is niet van toepassing.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. In afwijking van [artikel 1, eerste lid, onderdeel a, respectievelijk onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=1&z=2021-07-10&g=2021-07-10), wordt onder scheiding respectievelijk tijdstip van scheiding in geval van scheiding van tafel en bed in dit artikel verstaan:
 

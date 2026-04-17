@@ -1,13 +1,39 @@
 ---
-title: "Besluit beperking openbaarheid van naar Nationaal Archief over te brengen archief penitentiaire inrichtingen Breda 1940–1975, nummer toegang 5121.003 en ’s-Hertogenbosch / Leuvense Poort 1855–1975"
+title: "Besluit van de Minister van Justitie en Veiligheid, namens deze de divisiedirecteur Gevangeniswezen en Vreemdelingenbewaring van de Dienst Justitële Inrichtingen, d.d. 10 september 2019, kenmerk GW/SB 0909191, houdende beperking van de openbaarheid van het naar het Nationaal Archief over te brengen archief van de penitentiaire inrichtingen in Breda uit de periode 1940–1975, nummer toegang 5121.003 en ’s-Hertogenbosch / Leuvense Poort uit de periode 1855–1975"
 identifier: "BWBR0042554"
-categorie: "Strafrecht"
-publicatiedatum: 2019-09-19
-laatste_update: 2019-09-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042554"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2019-09-19"
+last_updated: "2019-09-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042554"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "15165823"
+version_id: "26001252"
+internal_id: "C37031321"
+label_id: "15113244"
+dtd_version: "2.0"
+original_entry_into_force: "2019-09-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042554/2019-09-19/0"
+intitule_bron: "Stcrt.2019-51136"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-09-10"
+intitule_published: "2019-09-18"
+intitule_in_force: "2019-09-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-51136"
+original_signed_date: "2019-09-10"
+original_published_date: "2019-09-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-51136"
+entry_into_force_date: "2019-09-19"
+jci_1_3: "jci1.3:c:BWBR0042554&z=2019-09-19&g=2019-09-19"
+jci_1_0: "1.0:c:BWBR0042554&g=2019-09-19"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid van naar Nationaal Archief over te brengen archief penitentiaire inrichtingen Breda 1940–1975, nummer toegang 5121.003 en ’s-Hertogenbosch / Leuvense Poort 1855–1975"
+signed_date: "2019-09-10"
+entry_into_force: "2019-09-19"
 ---
-
 # Besluit van de Minister van Justitie en Veiligheid, namens deze de divisiedirecteur Gevangeniswezen en Vreemdelingenbewaring van de Dienst Justitële Inrichtingen, d.d. 10 september 2019, kenmerk GW/SB 0909191, houdende beperking van de openbaarheid van het naar het Nationaal Archief over te brengen archief van de penitentiaire inrichtingen in Breda uit de periode 1940–1975, nummer toegang 5121.003 en ’s-Hertogenbosch / Leuvense Poort uit de periode 1855–1975
 
 Gelet op [artikel 15, lid 1, onder a en b van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van de algemene rijksarchivaris d.d. 9 september 2019, met kenmerk 16557300
@@ -16,7 +42,7 @@ Besluit:
 
 Tot de volgende beperkingen aan de openbaarheid van het archief van de gevangenissen in Breda uit de periode 1940–1975, en ’s-Hertogenbosch / Leuvense Poort uit de periode 1855–1975
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom van onderstaande tabel beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
@@ -224,14 +250,14 @@ Gevangenissen ’s-Hertogenbosch / Leuvense Poort:
 | 698 | 2051 |
 | 700 | 2023 |
 
-#### Artikel 2
+##### Artikel 2
 
 Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042554&artikel=1&z=2019-09-19&g=2019-09-19), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de minister van Onderwijs Cultuur en Wetenschappen en namens deze de Rijksarchivaris in de provincie Noord-Brabant, die aan zijn toestemming voorwaarden kan verbinden.
 
-#### Artikel 3
+##### Artikel 3
 
 Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042554&artikel=1&z=2019-09-19&g=2019-09-19), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de minister van Onderwijs Cultuur en Wetenschappen en namens deze de Rijksarchivaris in de provincie Noord-Brabant, die aan zijn toestemming voorwaarden kan verbinden.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging’ van de archieven van de gevangenissen in Breda uit de periode 1940–1975, en ’s-Hertogenbosch / Leuvense Poort uit de periode 1855–1975.

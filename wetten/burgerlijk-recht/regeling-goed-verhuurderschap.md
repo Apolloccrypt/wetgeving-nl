@@ -1,20 +1,46 @@
 ---
-title: "Regeling goed verhuurderschap"
+title: "Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening, van 12 juni 2023, nr. 2023-0000336688, houdende vaststelling van nadere regels inzake schriftelijk verstrekken van informatie aan de huurders over de rechten en plichten van de huurder ten aanzien van het gehuurde (Regeling goed verhuurderschap)"
 identifier: "BWBR0048281"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2023-07-01
-laatste_update: 2023-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048281"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-07-01"
+last_updated: "2023-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048281"
+soort: "ministeriele-regeling"
+stam_id: "16775053"
+version_id: "29460892"
+internal_id: "C42130681"
+label_id: "16690264"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048281/2023-07-01/0"
+intitule_bron: "Stcrt.2023-16746"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-06-12"
+intitule_published: "2023-06-16"
+intitule_in_force: "2023-06-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-16746"
+original_signed_date: "2023-06-12"
+original_published_date: "2023-06-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-16746"
+entry_into_force_date: "2023-07-01"
+jci_1_3: "jci1.3:c:BWBR0048281&z=2023-07-01&g=2023-07-01"
+jci_1_0: "1.0:c:BWBR0048281&g=2023-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling goed verhuurderschap"
+signed_date: "2023-06-12"
+entry_into_force: "2023-07-01"
 ---
-
 # Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening, van 12 juni 2023, nr. 2023-0000336688, houdende vaststelling van nadere regels inzake schriftelijk verstrekken van informatie aan de huurders over de rechten en plichten van de huurder ten aanzien van het gehuurde (Regeling goed verhuurderschap)
 
 Gelet op [artikel 2, vijfde lid, van de Wet goed verhuurderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&artikel=2);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De verhuurderverstrekt aan de huurder, voor zover dit niet in de huurovereenkomst is opgenomen, schriftelijk informatie over:
 
@@ -38,11 +64,11 @@ De verhuurderverstrekt aan de huurder, voor zover dit niet in de huurovereenkoms
 
 - e. een overzicht van de onderwerpen waarvoor de huurder zich kan wenden tot de Huurcommissie of tot de kantonrechter of een verwijzing naar een website waar een dergelijk overzicht geboden wordt.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van 1 juli 2023.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling wordt aangehaald als: Regeling goed verhuurderschap.
 

@@ -1,28 +1,51 @@
 ---
-title: "Vaststellingsregeling Aanwijzingen voor convenanten 2025"
+title: "HERDRUK Regeling van de Minister-President, Minister van Algemene Zaken van 29 september 2025 nr. 9188318, tot vaststelling van de Aanwijzingen voor convenanten"
 identifier: "BWBR0051610"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-10-11
-laatste_update: 2025-10-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051610"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-11"
+last_updated: "2025-10-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051610"
+soort: "ministeriele-regeling"
+stam_id: "17551283"
+version_id: "30989532"
+internal_id: "C44381681"
+label_id: "17452474"
+dtd_version: "2.0"
+original_entry_into_force: "2025-10-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051610/2025-10-11/0"
+intitule_bron: "Stcrt.2025-34613-n1"
+intitule_effect: "wijziging"
+intitule_published: "2025-10-10"
+intitule_in_force: "2025-10-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-34613-n1"
+original_published_date: "2025-10-10"
+original_effect: "wijziging"
+original_url_id: "stcrt-2025-34613-n1"
+entry_into_force_date: "2025-10-11"
+jci_1_3: "jci1.3:c:BWBR0051610&z=2025-10-11&g=2025-10-11"
+jci_1_0: "1.0:c:BWBR0051610&g=2025-10-11"
+citeertitel_status: "redactioneel"
+short_title: "Vaststellingsregeling Aanwijzingen voor convenanten 2025"
+entry_into_force: "2025-10-11"
 ---
-
 # HERDRUK Regeling van de Minister-President, Minister van Algemene Zaken van 29 september 2025 nr. 9188318, tot vaststelling van de Aanwijzingen voor convenanten
 
 Handelende in overeenstemming met het gevoelen van de ministerraad;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De als bijlage bij deze regeling gevoegde ‘Aanwijzingen voor convenanten’ worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 De [regeling van de Minister-President, Minister van Algemene Zaken, van 21 januari 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014609), Stcrt. 18, wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 

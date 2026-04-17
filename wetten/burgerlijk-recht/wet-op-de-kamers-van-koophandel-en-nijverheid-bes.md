@@ -1,16 +1,43 @@
 ---
 title: "Wet op de Kamers van Koophandel en Nijverheid BES"
 identifier: "BWBR0028238"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028238"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028238"
+soort: "wet-BES"
+stam_id: "10718833"
+version_id: "26480942"
+internal_id: "C38973341"
+label_id: "10693724"
+dtd_version: "2.0"
+original_entry_into_force: "2022-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028238/2022-01-01/0"
+intitule_bron: "Stb.2010-436"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-15"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2020-16"
+original_signed_date: "2019-12-11"
+original_published_date: "2020-01-27"
+original_effect: "structuurwijziging"
+original_dossier: "35246"
+original_url_id: "stb-2020-16"
+entry_into_force_date: "2022-01-01"
+entry_into_force_dossier: "35246"
+jci_1_3: "jci1.3:c:BWBR0028238&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0028238&g=2022-01-01"
+citeertitel_status: "officieel"
+signed_date: "2019-12-11"
+entry_into_force: "2022-01-01"
 ---
-
 # Wet op de Kamers van Koophandel en Nijverheid BES
 
-#### Artikel 1
+##### Artikel 1
 
 In de artikelen van deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -20,7 +47,7 @@ In de artikelen van deze wet en de daarop berustende bepalingen wordt verstaan o
 
 - c. **openbaar lichaam:** het openbaar lichaam Bonaire, Sint Eustatius of Saba.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. De handel en nijverheid op Bonaire, Sint Eustatius of Saba wordt door de Kamers van Koophandel en Nijverheid vertegenwoordigd.
 
@@ -34,13 +61,13 @@ In de artikelen van deze wet en de daarop berustende bepalingen wordt verstaan o
 
 - c. ten minste een vertegenwoordiger van een onderneming of rechtspersoon, gevestigd op Saba.
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
 ## Kiesrecht
 
-#### Artikel 3
+##### Artikel 3
 
 1. De bestuursleden van de Kamers worden gekozen door de vertegenwoordigers van ondernemingen en rechtspersonen, met uitzondering van verenigingen en stichtingen, die in het handelsregister van de desbetreffende Kamer zijn ingeschreven.
 
@@ -48,13 +75,13 @@ Vervallen
 
 ## Kiezerslijst
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
 ## Verkiesbaarheid
 
-#### Artikel 5
+##### Artikel 5
 
 1. Tot bestuurslid van de Kamers kunnen worden gekozen de vertegenwoordigers van ondernemingen en rechtspersonen, met uitzondering van verenigingen en stichtingen, die
 
@@ -82,7 +109,7 @@ Vervallen
 
 ## Verkiezingen
 
-#### Artikel 6
+##### Artikel 6
 
 1. De bestuursleden van de Kamers nemen zitting in het bestuur voor een periode van drie jaren, lopend van 1 januari van het eerste jaar tot en met 31 december van derde jaar.
 
@@ -108,19 +135,19 @@ Vervallen
 
 8. Bij algemene maatregel van bestuur worden aanvullende regels gesteld met betrekking tot het tussentijds aftreden en aanvullen van bestuursleden.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
 ## Tijdperk der verkiezing
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
 ## Tijdperk der verkiezing
 
-#### Artikel 9
+##### Artikel 9
 
 1. Er is een verkiezingscommissie die verantwoordelijk is voor de verkiezingsprocedure en tot taak heeft toezicht te houden op de verkiezingen.
 
@@ -128,17 +155,17 @@ Vervallen
 
 ## Verkiezingscommissie
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
 ## Wijze van verkiezing
 
-#### Artikel 11
+##### Artikel 11
 
 De Kamers geven aan Onze Minister en aan het Bestuurscollege, van het gebied waarbinnen zij gevestigd zijn, gevraagd en ongevraagd adviezen of inlichtingen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De Kamers hebben tot taak:
 
@@ -162,15 +189,15 @@ De Kamers geven aan Onze Minister en aan het Bestuurscollege, van het gebied waa
 
 5. De bedragen ter vergoeding van de kosten die samenhangen met het verrichten van de taken, bedoeld in het tweede lid, onderdeel d, kunnen bij ministeriële regeling worden vastgesteld.
 
-#### Artikel 13
+##### Artikel 13
 
 De Kamers kunnen aan instellingen die een algemeen belang van handel en nijverheid bevorderen subsidie verlenen.
 
-#### Artikel 14
+##### Artikel 14
 
 De Kamer voor Bonaire heeft een vestiging op Bonaire. De Kamer voor Sint Eustatius en Saba heeft vestigingen op Sint Eustatius en Saba.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het bestuur van een Kamer staat aan het hoofd van de Kamer.
 
@@ -180,7 +207,7 @@ De Kamer voor Bonaire heeft een vestiging op Bonaire. De Kamer voor Sint Eustati
 
 4. De bestuursleden hebben op persoonlijke titel zitting in het bestuur en oefenen hun functie uit zonder last of ruggespraak.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het bestuur benoemt en ontslaat de secretaris.
 
@@ -192,19 +219,19 @@ De Kamer voor Bonaire heeft een vestiging op Bonaire. De Kamer voor Sint Eustati
 
 ## Vestiging, bestuur en personeel van de Kamers
 
-#### Artikel 17
+##### Artikel 17
 
 De vergaderingen zijn toegankelijk voor de kiezers. Wanneer de voorzitter of de meerderheid van de bestuursleden dat nodig vindt, wordt een besloten vergadering gehouden.
 
 ## Reglement van orde
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
 ## Geldmiddelen
 
-#### Artikel 19
+##### Artikel 19
 
 De baten van de Kamer bestaan uit:
 
@@ -220,7 +247,7 @@ De baten van de Kamer bestaan uit:
 
 ## Vergaderingen
 
-#### Artikel 20
+##### Artikel 20
 
 1. Elke Kamer brengt jaarlijks een verslag uit van haar handelingen in het voorafgaande kalenderjaar en over de toestand van handel en nijverheid in dit jaar in haar gebied.
 
@@ -230,7 +257,7 @@ De baten van de Kamer bestaan uit:
 
 ## Reglement van orde
 
-#### Artikel 21
+##### Artikel 21
 
 Aan de goedkeuring van het Bestuurscollege worden onderworpen de besluiten van het bestuur betreffende:
 
@@ -242,7 +269,7 @@ Aan de goedkeuring van het Bestuurscollege worden onderworpen de besluiten van h
 
 - d. het kopen, verkopen en bezwaren van onroerende zaken en de rechten waaraan deze zijn onderworpen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De besluiten van het bestuur kunnen, voor zover zij in strijd zijn met de wet of het algemeen belang door Onze Minister van Economische Zaken en Klimaat worden geschorst of vernietigd bij een met redenen omkleed besluit, dat, ingeval van schorsing, de duur daarvan bepaalt, en dat bekend wordt gemaakt in de Staatscourant.
 
@@ -254,11 +281,11 @@ Aan de goedkeuring van het Bestuurscollege worden onderworpen de besluiten van h
 
 5. Ingeval het bestuur ernstig nalatig is in het naleven van verplichtingen die haar ingevolge deze wet of andere wettelijke regelingen zijn opgelegd, besluit de Rijksvertegenwoordiger daarin namens het bestuur te voorzien ten koste van de nalatige Kamer. Deze voorziening brengt de bevoegdheid van de Rijksvertegenwoordiger mee om de nodige gelden uit de kas van de Kamer te putten, alsmede om over de diensten van de secretaris van de Kamer te beschikken, hem personeel toe te wijzen en hem bij gebleken ongeschiktheid of nalatigheid te ontslaan en in zijn vervanging te voorzien.
 
-#### Artikel 23
+##### Artikel 23
 
 Deze wet wordt aangehaald als: Wet op de Kamers van Koophandel en Nijverheid BES.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. Indien het aantal kandidaten dat zich verkiesbaar stelt voor het bestuur van de Kamer voor Bonaire groter is dan vijf, vinden er verkiezingen plaats. Is het aantal kandidaten gelijk aan of kleiner dan vijf, treden alle kandidaten van rechtswege toe tot het bestuur.
 
@@ -274,17 +301,17 @@ Deze wet wordt aangehaald als: Wet op de Kamers van Koophandel en Nijverheid BES
 
 ## Bevoegdheden en taken van de Kamers
 
-#### Artikel 13a
+##### Artikel 13a
 
 1. De Kamers verrichten, met de baten, bedoeld in [artikel 19, onderdelen a, b, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=19&z=2022-01-01&g=2022-01-01), geen activiteiten waarmee zij rechtstreeks concurreren met ondernemingen of vrije beroepsbeoefenaren.
 
 2. De Kamers dragen er zorg voor dat hun werkzaamheden niet leiden tot het verhinderen, beperken of vervalsen van de mededinging tussen ondernemingen of vrije beroepsbeoefenaren.
 
-#### Artikel 15a
+##### Artikel 15a
 
 Een bestuurslid vervult geen functies die ongewenst zijn met het oog op de goede vervulling van zijn functie als bestuurslid of van zijn onafhankelijkheid of het vertrouwen daarin.
 
-#### Artikel 15b
+##### Artikel 15b
 
 1. Het bestuur draagt zorg voor de uitvoering van de taken van de Kamer.
 
@@ -306,13 +333,13 @@ Een bestuurslid vervult geen functies die ongewenst zijn met het oog op de goede
 
 ## Financieel toezicht
 
-#### Artikel 22a
+##### Artikel 22a
 
 1. Het bestuur stelt de begroting en het jaarplan vast en zendt deze aan het Bestuurscollege van het desbetreffende openbaar lichaam en aan Onze Minister vóór 1 november van het jaar dat voorafgaat aan het kalenderjaar waarop de begroting betrekking heeft.
 
 2. Het bestuur stelt de jaarrekening vast en zendt deze, tegelijkertijd met het jaarverslag, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=20&z=2022-01-01&g=2022-01-01), aan het Bestuurscollege van het desbetreffende openbaar lichaam en aan Onze Minister vóór 1 mei van het jaar dat volgt op het kalenderjaar waarop de jaarrekening betrekking heeft.
 
-#### Artikel 22b
+##### Artikel 22b
 
 1. De jaarrekening, waarin rekening en verantwoording wordt afgelegd over het financieel beheer en van de geleverde prestaties in het verstreken boekjaar, wordt zoveel mogelijk met overeenkomstige toepassing van [artikel 15 van Boek 2 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&artikel=15) ingericht.
 
@@ -322,6 +349,6 @@ Een bestuurslid vervult geen functies die ongewenst zijn met het oog op de goede
 
 4. De accountant voegt bij de verklaring, bedoeld in het tweede lid, tevens een verslag van zijn bevindingen over de vraag of het beheer en de organisatie van een Kamer voldoen aan de eisen van doelmatigheid.
 
-#### Artikel 22c
+##### Artikel 22c
 
 Bij regeling van Onze Minister kunnen regels worden gesteld omtrent de inrichting van en de toelichting op de begroting en de jaarrekening, omtrent eisen met betrekking tot de hoogte en samenstelling van het eigen vermogen en omtrent aandachtspunten voor de accountantscontrole.

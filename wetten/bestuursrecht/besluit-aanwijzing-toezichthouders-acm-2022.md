@@ -1,26 +1,52 @@
 ---
-title: "Besluit aanwijzing toezichthouders ACM 2022"
+title: "Besluit van de Autoriteit Consument en Markt van 18 augustus 2022, tot aanwijzing van toezichthouders van de Autoriteit Consument en Markt (Besluit aanwijzing toezichthouders ACM 2022)"
 identifier: "BWBR0047095"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-12-25
-laatste_update: 2025-12-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047095"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-12-25"
+last_updated: "2025-12-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047095"
+soort: "zbo"
+stam_id: "16470933"
+version_id: "28857992"
+internal_id: "C40860011"
+label_id: "16393074"
+dtd_version: "2.0"
+original_entry_into_force: "2022-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047095/2025-12-25/0"
+intitule_bron: "Stcrt.2022-22913"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-08-18"
+intitule_published: "2022-08-31"
+intitule_in_force: "2022-08-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-22913"
+original_signed_date: "2022-08-18"
+original_published_date: "2022-08-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-22913"
+entry_into_force_date: "2022-09-01"
+jci_1_3: "jci1.3:c:BWBR0047095&z=2025-12-25&g=2025-12-25"
+jci_1_0: "1.0:c:BWBR0047095&g=2025-12-25"
+citeertitel_status: "officieel"
+short_title: "Besluit aanwijzing toezichthouders ACM 2022"
+signed_date: "2022-08-18"
+entry_into_force: "2022-09-01"
 ---
-
 # Besluit van de Autoriteit Consument en Markt van 18 augustus 2022, tot aanwijzing van toezichthouders van de Autoriteit Consument en Markt (Besluit aanwijzing toezichthouders ACM 2022)
 
 Gelet op [artikel 12a, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=12a);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
 - –. **Verordening (EG) nr. 1/2003:** [Verordening (EG) nr. 1/2003](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:02003R0001-20090701) van de Raad van de Europese Unie van 16 december 2002 betreffende de uitvoering van de mededingingsregels van de artikelen 81 en 82 van het Verdrag ([PbEG 2003, L 001](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32003R0001)).
 
-#### Artikel 2
+##### Artikel 2
 
 De ambtenaren werkzaam bij de Autoriteit Consument en Markt worden aangewezen als ambtenaren, bedoeld in [artikel 12a, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=12a), belast met het toezicht op de naleving van het bepaalde bij of krachtens:
 
@@ -72,7 +98,7 @@ De ambtenaren werkzaam bij de Autoriteit Consument en Markt worden aangewezen al
 
 alsmede belast met het toezicht op de naleving van Europese verordeningen als bedoeld in artikel 288 van het Verdrag betreffende de werking van de Europese Unie, voor zover dat toezicht is opgedragen aan de Autoriteit Consument en Markt.
 
-#### Artikel 3
+##### Artikel 3
 
 De ambtenaren werkzaam bij de Autoriteit Consument en Markt worden aangewezen als toezichthouders als bedoeld in:
 
@@ -80,7 +106,7 @@ De ambtenaren werkzaam bij de Autoriteit Consument en Markt worden aangewezen al
 
 - b. [Artikel 3.10, eerste lid en tweede lid, van de Aanbestedingswet op defensie- en veiligheidsgebied](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&artikel=3.10).
 
-#### Artikel 4
+##### Artikel 4
 
 De ambtenaren werkzaam bij de Autoriteit Consument en Markt worden aangewezen als personen als bedoeld in:
 
@@ -92,11 +118,11 @@ De ambtenaren werkzaam bij de Autoriteit Consument en Markt worden aangewezen al
 
 belast met het toezicht op de naleving van het bepaalde bij of krachtens deze wetten, voor zover dat toezicht is opgedragen aan de Autoriteit Consument en Markt.
 
-#### Artikel 5
+##### Artikel 5
 
 De ambtenaren werkzaam bij de Autoriteit Consument en Markt worden aangewezen als toezichthouders als bedoeld in [artikel 6.1 van de Wet elektriciteit en drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&artikel=6.1), belast met het toezicht op de naleving van het bepaalde bij deze wet, voor zover dat toezicht is opgedragen aan de Autoriteit Consument en Markt.
 
-#### Artikel 6
+##### Artikel 6
 
 De ambtenaren werkzaam bij de Autoriteit Consument en Markt worden aangewezen als functionarissen als bedoeld in:
 
@@ -104,15 +130,15 @@ De ambtenaren werkzaam bij de Autoriteit Consument en Markt worden aangewezen al
 
 - b. artikel 22, tweede lid, van de [Verordening (EG) nr. 1/2003](https://eur-lex.europa.eu/legal-content/NL/ALL/?uri=CELEX%3A32003R0001), belast met het verrichten van een inspectie op verzoek van de Europese Commissie of andere mededingingsautoriteiten.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking de dag na publicatie in de Staatscourant.
 
-#### Artikel 8
+##### Artikel 8
 
 Het [Besluit aanwijzing toezichthouders ACM](https://wetten.overheid.nl/jci1.3:c:BWBR0033227) (Stcrt. 2013, 9716) wordt ingetrokken.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders ACM 2022.
 

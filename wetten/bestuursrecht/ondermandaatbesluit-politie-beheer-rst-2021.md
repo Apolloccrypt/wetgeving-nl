@@ -1,13 +1,38 @@
 ---
 title: "(Onder)Mandaatbesluit Politie beheer RST 2021"
 identifier: "BWBR0044977"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-03-27
-laatste_update: 2021-03-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044977"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-03-27"
+last_updated: "2021-03-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044977"
+soort: "ministeriele-regeling"
+stam_id: "15907743"
+version_id: "27649402"
+internal_id: "C39008951"
+label_id: "15843104"
+dtd_version: "2.0"
+original_entry_into_force: "2021-03-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044977/2021-03-27/0"
+intitule_bron: "Stcrt.2021-14913"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-03-11"
+intitule_published: "2021-03-26"
+intitule_in_force: "2021-03-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-14913"
+original_signed_date: "2021-03-11"
+original_published_date: "2021-03-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-14913"
+entry_into_force_date: "2021-03-27"
+jci_1_3: "jci1.3:c:BWBR0044977&z=2021-03-27&g=2021-03-27"
+jci_1_0: "1.0:c:BWBR0044977&g=2021-03-27"
+citeertitel_status: "officieel"
+signed_date: "2021-03-11"
+entry_into_force: "2021-03-27"
 ---
-
 # (Onder)Mandaatbesluit Politie beheer RST 2021
 
 gelet op
@@ -52,7 +77,7 @@ besluit vast te stellen het navolgende (onder)mandaatbesluit
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -82,11 +107,11 @@ In dit besluit wordt verstaan onder:
 
 - m. **teamchef RST:** hoofd van het RST als bedoeld in artikel 7 van het Protocol;
 
-#### Artikel 2. Wet- en regelgeving
+##### Artikel 2. Wet- en regelgeving
 
 Dit besluit heeft betrekking op bevoegdheden en taken die bij of krachtens de [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788) en in ondermandaat op grond van het Protocol aan de korpschef toekomen. Dit besluit dient uit dien hoofde gelezen te worden in samenhang met het Mandaatbesluit Politie.
 
-#### Artikel 3. Volmacht en machtiging
+##### Artikel 3. Volmacht en machtiging
 
 Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt onder de verlening van mandaat mede begrepen het verlenen van:
 
@@ -100,7 +125,7 @@ De directeur PDC beheert het register waarin per functieniveau de maximale bedra
 
 ### Hoofdstuk 2. Teamchef RST
 
-#### Artikel 4. Mandaatverlening recherchesamenwerking
+##### Artikel 4. Mandaatverlening recherchesamenwerking
 
 1. Aan de teamchef RST wordt (onder)mandaat verleend ten aanzien van aangelegenheden die behoren tot zijn werkterrein en de daarbij behorende budgetverantwoordelijkheid, met inachtneming van hetgeen is bepaald in het Mandaatbesluit beheer RST en het bepaalde in onderhavig mandaatbesluit.
 
@@ -144,25 +169,25 @@ namens deze de teamchef RST,
 
 [naam]’
 
-#### Artikel 5. Mandaatverlening overige recherchesamenwerking
+##### Artikel 5. Mandaatverlening overige recherchesamenwerking
 
 1. Aan de teamchef RST wordt, binnen de grenzen van de vastgestelde formatie en het vastgestelde budget van het RST, mandaat verleend om ter tijdelijke ondersteuning van een lokaal politiekorps in het Caribisch deel van het Nederlands Koninkrijk reeds aan hem ter beschikking gesteld personeel en middelen te leveren op grond van de opdracht van de Minister als bedoeld in artikel 18 van het Protocol.
 
 2. Het mandaat bedoeld in het eerste lid wordt niet verleend met betrekking tot het additioneel vanuit Nederland ter beschikking stellen van personeel en middelen aan het RST. Daartoe is met tussenkomst van de portefeuillehouder Caribisch deel van het Nederlands Koninkrijk een afzonderlijke afweging voorbehouden aan de korpschef. Indien de korpschef additioneel personeel en middelen vanuit de politie beschikbaar stelt op grond van artikel 18 van het Protocol, wordt aan de teamchef RST mandaat verleend om zorg te dragen voor het beheer van het aan een lokaal politiekorps ter beschikking gestelde personeel en middelen.
 
-#### Artikel 6. Instructies, kaders en richtlijnen
+##### Artikel 6. Instructies, kaders en richtlijnen
 
 1. De teamchef RST oefent het (onder)mandaat uit met inachtneming van de aanwijzingen van de korpschef.
 
 2. Voorgenomen besluiten die afwijken van de in het eerste lid bedoelde aanwijzingen, dienen door de korpschef te worden goedgekeurd.
 
-#### Artikel 7. Plaatsvervanger
+##### Artikel 7. Plaatsvervanger
 
 De bevoegdheden die in dit besluit worden (onder)gemandateerd, komen ook toe aan de plaatsvervanger van de teamchef RST, indien en voor zover deze als zodanig optreedt.
 
 ### Hoofdstuk 3. Portefeuillehouder Caribisch deel van het Nederlands Koninkrijk
 
-#### Artikel 8. Mandaatverlening
+##### Artikel 8. Mandaatverlening
 
 1. Aan de portefeuillehouder Caribisch deel van het Nederlands Koninkrijk wordt mandaat verleend tot het nemen van beslissingen op bezwaarschriften die zijn ingediend door ambtenaren van politie tegen personeelsbesluiten van de teamchef RST als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044977&hoofdstuk=2&artikel=4&z=2021-03-27&g=2021-03-27).
 
@@ -176,11 +201,11 @@ namens deze de portefeuillehouder Caribisch deel van het Nederlands Koninkrijk,
 
 [naam]’
 
-#### Artikel 9. Beheeroverleg RST
+##### Artikel 9. Beheeroverleg RST
 
 Aan de portefeuillehouder Caribisch deel van het Nederlands Koninkrijk wordt mandaat verleend tot het namens de korpschef deelnemen aan het overleg als bedoeld in artikel 13, vierde lid onder b van het Protocol met het oog op de verantwoordelijkheden voor het ter beschikking stellen van personeel en middelen als bedoeld in artikel 12, vierde lid van het Protocol.
 
-#### Artikel 10. Instructies, kaders en richtlijnen
+##### Artikel 10. Instructies, kaders en richtlijnen
 
 1. De portefeuillehouder Caribisch deel van het Nederlands Koninkrijk oefent het (onder)mandaat uit met inachtneming van de aanwijzingen van de korpschef.
 
@@ -188,11 +213,11 @@ Aan de portefeuillehouder Caribisch deel van het Nederlands Koninkrijk wordt man
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Dit besluit kan worden aangehaald als: (Onder)Mandaatbesluit Politie beheer RST 2021.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Dit besluit treedt in werking op de dag nadat het is gepubliceerd, en werkt terug tot en met 27 juli 2019.
 

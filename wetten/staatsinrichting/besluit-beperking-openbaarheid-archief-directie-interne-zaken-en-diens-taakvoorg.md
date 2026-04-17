@@ -1,20 +1,46 @@
 ---
-title: "Besluit beperking openbaarheid archief Directie Interne Zaken en diens taakvoorgangers van het Ministerie van Economische Zaken over de periode 1951–1997 (2002)"
+title: "Besluit nr. DBV / 11066447 van de Minister van Economische Zaken, Landbouw en Innovatie houdende beperking van de openbaarheid van het archief van de Directie Interne Zaken en diens taakvoorgangers van het Ministerie van Economische Zaken over de periode 1951–1997 (2002)"
 identifier: "BWBR0030424"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2011-09-14
-laatste_update: 2011-09-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030424"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2011-09-14"
+last_updated: "2011-09-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030424"
+soort: "ministeriele-regeling"
+stam_id: "11437923"
+version_id: "18790012"
+internal_id: "C26231121"
+label_id: "11411264"
+dtd_version: "2.0"
+original_entry_into_force: "2011-09-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030424/2011-09-14/0"
+intitule_bron: "Stcrt.2011-15930"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-09-01"
+intitule_published: "2011-09-13"
+intitule_in_force: "2011-09-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-15930"
+original_signed_date: "2011-09-01"
+original_published_date: "2011-09-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-15930"
+entry_into_force_date: "2011-09-14"
+jci_1_3: "jci1.3:c:BWBR0030424&z=2011-09-14&g=2011-09-14"
+jci_1_0: "1.0:c:BWBR0030424&g=2011-09-14"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid archief Directie Interne Zaken en diens taakvoorgangers van het Ministerie van Economische Zaken over de periode 1951–1997 (2002)"
+signed_date: "2011-09-01"
+entry_into_force: "2011-09-14"
 ---
-
 # Besluit nr. DBV / 11066447 van de Minister van Economische Zaken, Landbouw en Innovatie houdende beperking van de openbaarheid van het archief van de Directie Interne Zaken en diens taakvoorgangers van het Ministerie van Economische Zaken over de periode 1951–1997 (2002)
 
 Gelet op [artikel 15, lid 1, onder a, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van het Nationaal Archief d.d. 21 juni 2011;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Met het oog op de eerbiediging van de persoonlijke levenssfeer van nog levende personen zijn de inventarisnummers genoemd in de eerste kolom beperkt openbaar. De beperkingen aan de openbaarheid vervallen op het moment van overlijden van de persoon op wie het dossier betrekking heeft. Indien het overlijden van die persoon niet is vastgesteld, vervalt de beperking uiterlijk 100 jaar na geboortedatum, in het jaar vermeld in de tweede kolom van onderstaande tabel.
 
@@ -1858,15 +1884,15 @@ Besluit:
 
 - c. degene die inzage vraagt een verklaring kan overleggen waaruit blijkt dat de persoon op wie het dossier betrekking heeft toestemming geeft voor inzage;
 
-#### Artikel 2
+##### Artikel 2
 
 Raadpleging van de archiefbescheiden waarvan de openbaarheid op grond van het bepaalde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030424&artikel=1&z=2011-09-14&g=2011-09-14) is beperkt, is slechts mogelijk met voorafgaand verkregen schriftelijke toestemming van de algemene Rijksarchivaris. Een verzoek tot inzage kan worden ingediend via de daarvoor bij het Nationaal Archief gebruikelijke formulieren. De algemene Rijksarchivaris kan aan zijn toestemming voorwaarden verbinden.
 
-#### Artikel 3
+##### Artikel 3
 
 Het vervaardigen van reproducties van documenten waarvan de openbaarheid is beperkt, is, tot openbaarwording van de documenten slechts mogelijk met toestemming van de algemene Rijksarchivaris. De algemene Rijksarchivaris kan aan zijn toestemming voorwaarden verbinden.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

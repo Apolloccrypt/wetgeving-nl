@@ -1,20 +1,45 @@
 ---
 title: "Regeling vervoer over de spoorweg van gevaarlijke stoffen"
 identifier: "BWBR0010053"
-categorie: "Verkeer"
-publicatiedatum: 2025-09-04
-laatste_update: 2025-09-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010053"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-09-04"
+last_updated: "2025-09-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010053"
+soort: "ministeriele-regeling"
+stam_id: "4933223"
+version_id: "30756592"
+internal_id: "C44085281"
+label_id: "4911074"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010053/2025-09-04/0"
+intitule_bron: "Stcrt.1998-241"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-12-02"
+intitule_published: "1998-12-16"
+intitule_in_force: "1998-12-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-19192"
+original_signed_date: "2025-05-26"
+original_published_date: "2025-06-05"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-19192"
+entry_into_force_date: "2025-06-06"
+jci_1_3: "jci1.3:c:BWBR0010053&z=2025-09-04&g=2025-09-04"
+jci_1_0: "1.0:c:BWBR0010053&g=2025-09-04"
+citeertitel_status: "officieel"
+signed_date: "2025-05-26"
+entry_into_force: "2025-06-06"
 ---
-
 # Regeling vervoer over de spoorweg van gevaarlijke stoffen
 
 Gelet op artikel 10 van [Richtlijn 96/49/EG](31996L0049) van de Raad van de Europese Gemeenschappen van 23 juli 1996 betreffende de onderlinge aanpassing van de wetgevingen der Lid-Staten inzake het vervoer van gevaarlijke goederen per spoor (PbEG L 235), op [artikel 4b, tweede lid, onderdeel a, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4b) en op [artikel 2 van het Besluit vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&artikel=2);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -34,7 +59,7 @@ Besluit:
 
 2. De in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1&z=2025-09-04&g=2025-09-04) opgenomen begripsbepalingen zijn van toepassing op de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=2&z=2025-09-04&g=2025-09-04) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=3&z=2025-09-04&g=2025-09-04) voorzover daarin niet anders is bepaald.
 
-#### Artikel 2
+##### Artikel 2
 
 Bij deze regeling behoren drie bijlagen:
 
@@ -44,35 +69,35 @@ Bij deze regeling behoren drie bijlagen:
 
 - c. [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=3&z=2025-09-04&g=2025-09-04): erkende instanties, bedoeld in [artikel 1, eerste lid, onderdeel b, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&artikel=1&z=2025-09-04&g=2025-09-04).
 
-#### Artikel 3
+##### Artikel 3
 
 Met voorwaardelijk tot het vervoer over de spoorweg toegelaten gevaarlijke stoffen als bedoeld in bijlage 1 mogen de handelingen, bedoeld in [artikel 2 van het Besluit vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&artikel=2), worden verricht, mits de in deze regeling gestelde voorschriften in acht worden genomen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Minister kan voorschriften vaststellen die afwijken van de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1&z=2025-09-04&g=2025-09-04), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=2&z=2025-09-04&g=2025-09-04) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=3&z=2025-09-04&g=2025-09-04), met betrekking tot het vervoer van gevaarlijke stoffen per spoor van en naar landen die partij zijn bij de Organisation for Cooperation of Railways (OSJD), indien door passende maatregelen en voorschriften handhaving van eenzelfde veiligheidsniveau als dat van het RID wordt gegarandeerd.
 
 2. De voorschriften, bedoeld in het eerste lid, gelden alleen voor het in die republieken toegelaten vervoer met spoorwegwagons van gevaarlijke goederen in colli, in bulk of in containers.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De door de bevoegde autoriteiten op voet van het RID overeengekomen tijdelijke afwijkingen worden in de vorm van een multilaterale overeenkomst aan de bevoegde autoriteiten van de andere lidstaten van de Europese Unie voorgelegd door de bevoegde autoriteit die het initiatief tot de overeenkomst neemt. Van dergelijke afwijkingen doet de Minister mededeling aan de Europese Commissie.
 
 2. De afwijkingen, bedoeld in het eerste lid, worden verleend zonder onderscheid naar nationaliteit of vestigingsplaats van de verzender, de vervoerder of de ontvanger, hebben een looptijd van ten hoogste vijf jaar en zijn niet hernieuwbaar.
 
-#### Artikel 6
+##### Artikel 6
 
 Met de in de bij deze regeling behorende [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1&z=2025-09-04&g=2025-09-04) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=2&z=2025-09-04&g=2025-09-04) vastgestelde technische normen of technische eisen worden gelijkgesteld daaraan gelijkwaardige technische normen of technische eisen, vastgesteld door of vanwege een andere lidstaat van de Europese Unie dan wel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
-#### Artikel 7
+##### Artikel 7
 
 [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1&z=2025-09-04&g=2025-09-04) wordt bekendgemaakt op [https://www.rijksoverheid.nl/ministeries/ministerie-van-infrastructuur-en-waterstaat](https://www.rijksoverheid.nl/ministeries/ministerie-van-infrastructuur-en-waterstaat).
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling treedt in werking op 1 januari 1999.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling vervoer over de spoorweg van gevaarlijke stoffen.
 
@@ -98,7 +123,7 @@ Vervallen.
 
 ## Bijlage 3. , bedoeld in [artikel 1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&artikel=1&z=2003-01-01&g=2003-01-01) en [artikel 2, onderdeel c van de Regeling vervoer over de spoorweg van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&artikel=2&z=2003-01-01&g=2003-01-01)
 
-#### Artikel 1. Erkende instanties
+##### Artikel 1. Erkende instanties
 
 In de onderstaande tabel zijn de instanties opgenomen met betrekking tot de uitvoering van de voorschriften in de vermelde randnummers van bijlage 1 voorzover bedoelde handelingen worden uitgevoerd door Nederlandse instanties.
 
@@ -319,11 +344,11 @@ In de onderstaande tabel zijn de instanties opgenomen met betrekking tot de uitv
 |   |   |
 | 7.5.2.2 voetnoot a) | TNO PML |
 
-#### Artikel 2
+##### Artikel 2
 
 In de tabel in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&artikel=1&z=2003-01-01&g=2003-01-01) wordt verstaan onder:
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Minister kan een instantie erkennen voor het uitvoeren van een of meer taken als bedoeld in artikel 1 van deze bijlage.
 

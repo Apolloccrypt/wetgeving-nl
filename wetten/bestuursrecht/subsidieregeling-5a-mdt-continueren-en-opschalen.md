@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling 5a – MDT Continueren en opschalen"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 17 februari 2022, nr. 31400808, houdende regels voor de subsidiëring van het programma maatschappelijke diensttijd 5a (Subsidieregeling 5a – MDT Continueren en innoveren door te experimenteren)"
 identifier: "BWBR0046343"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-05-15
-laatste_update: 2024-05-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046343"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-05-15"
+last_updated: "2024-05-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046343"
+soort: "ministeriele-regeling"
+stam_id: "16275273"
+version_id: "28433072"
+internal_id: "C40126221"
+label_id: "16201434"
+dtd_version: "2.0"
+original_entry_into_force: "2022-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046343/2024-05-15/0"
+intitule_bron: "Stcrt.2022-5520"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-02-17"
+intitule_published: "2022-02-25"
+intitule_in_force: "2022-02-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-5520"
+original_signed_date: "2022-02-17"
+original_published_date: "2022-02-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-5520"
+entry_into_force_date: "2022-04-01"
+jci_1_3: "jci1.3:c:BWBR0046343&z=2024-05-15&g=2024-05-15"
+jci_1_0: "1.0:c:BWBR0046343&g=2024-05-15"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling 5a – MDT Continueren en opschalen"
+signed_date: "2022-02-17"
+entry_into_force: "2022-04-01"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 17 februari 2022, nr. 31400808, houdende regels voor de subsidiëring van het programma maatschappelijke diensttijd 5a (Subsidieregeling 5a – MDT Continueren en innoveren door te experimenteren)
 
 Gelet op de[artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5), en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -52,11 +78,11 @@ In deze regeling wordt verstaan onder:
 
 - **ZonMw:** de Nederlandse organisatie voor gezondheidsonderzoek en zorginnovatie.
 
-#### Artikel 2. Toepasselijkheid Kaderregeling
+##### Artikel 2. Toepasselijkheid Kaderregeling
 
 Op deze regeling zijn de [artikelen 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.2), [4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.1), en [5.5, eerste lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.5) niet van toepassing.
 
-#### Artikel 3. Subsidiabele activiteiten
+##### Artikel 3. Subsidiabele activiteiten
 
 1. De minister kan subsidie verstrekken aan een penvoerder voor de volgende activiteiten, zoals opgenomen in het modelformulier ‘activiteitenplan’ in het kader van het faciliteren van een MDT-project:
 
@@ -82,7 +108,7 @@ Op deze regeling zijn de [artikelen 3.2, tweede lid](https://wetten.overheid.nl/
 
 2. In aanvulling op het eerste lid kan de minister subsidie verstrekken voor activiteiten die bijdragen aan de opschaling van een MDT-project en het vergroten van het bereik van dat project voor jongeren.
 
-#### Artikel 4. Hoogte van de subsidie
+##### Artikel 4. Hoogte van de subsidie
 
 1. Het subsidiebedrag voor het faciliteren van een MDT-project bedraagt 75% van een totaalbedrag, bestaande uit:
 
@@ -102,19 +128,19 @@ Op deze regeling zijn de [artikelen 3.2, tweede lid](https://wetten.overheid.nl/
 
 4. Een MDT-traject voor een jongere die reeds twee keer eerder een MDT-traject heeft voltooid, is niet subsidiabel.
 
-#### Artikel 5. Subsidieplafond en wijze van verdeling
+##### Artikel 5. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt € 170.000.000.
 
 2. Indien het subsidieplafond bij subsidieverstrekking aan alle daarvoor in aanmerking komende aanvragen zou wordt overschreden, verdeelt de minister het beschikbare bedrag evenredig over de daarvoor in aanmerking komende aanvragen.
 
-#### Artikel 6. Subsidieperiode
+##### Artikel 6. Subsidieperiode
 
 1. De subsidie wordt voor een periode van drie jaar verstrekt.
 
 2. De minister kan op verzoek van de penvoerder de projectperiode met één jaar verlengen.
 
-#### Artikel 7. Aanvraag tot verlening
+##### Artikel 7. Aanvraag tot verlening
 
 1. De aanvraag tot verlening kan worden ingediend van 1 juni 2022 tot en met 30 juni 2022 voor 17.00 uur.
 
@@ -130,7 +156,7 @@ Op deze regeling zijn de [artikelen 3.2, tweede lid](https://wetten.overheid.nl/
 
 5. De aanvragen dienen te voldoen aan de beoordelingscriteria die zijn uitgewerkt in bijlage 1 behorende bij deze subsidieregeling.
 
-#### Artikel 8. Voorwaarden
+##### Artikel 8. Voorwaarden
 
 1. Per samenwerkingsverband kan éénmaal door één penvoerder subsidie worden aangevraagd.
 
@@ -146,7 +172,7 @@ Op deze regeling zijn de [artikelen 3.2, tweede lid](https://wetten.overheid.nl/
 
 - b. een MDT-proof label te zullen behalen binnen de subsidieperiode.
 
-#### Artikel 9. Verplichtingen
+##### Artikel 9. Verplichtingen
 
 1. De penvoerder:
 
@@ -168,13 +194,13 @@ Op deze regeling zijn de [artikelen 3.2, tweede lid](https://wetten.overheid.nl/
 
 2. De minister kan op verzoek van de aanvrager toestemming verlenen om van de leeftijden, bedoeld in het eerste lid, onder e, af te wijken.
 
-#### Artikel 10. Beoordelingscommissie
+##### Artikel 10. Beoordelingscommissie
 
 1. De beoordelingscommissie adviseert de minister over de subsidieaanvragen op basis van de beoordelingscriteria, bedoeld in bijlage 1.
 
 2. De beoordelingscommissie kan waar nodig externe deskundigen vragen haar te ondersteunen.
 
-#### Artikel 11. Verlening, bevoorschotting en betaling
+##### Artikel 11. Verlening, bevoorschotting en betaling
 
 1. De minister besluit binnen 3 maanden na afloop van de periode, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046343&artikel=7&z=2024-05-15&g=2024-05-15), op de subsidieaanvraag.
 
@@ -186,19 +212,19 @@ Op deze regeling zijn de [artikelen 3.2, tweede lid](https://wetten.overheid.nl/
 
 - b. 30% uiterlijk twee maanden na ontvangst van de tweede tussentijdse rapportage, bedoeld in [artikel 9, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0046343&artikel=9&z=2024-05-15&g=2024-05-15).
 
-#### Artikel 12. Verantwoording en vaststelling
+##### Artikel 12. Verantwoording en vaststelling
 
 In aanvulling op [artikel 7.5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.5) legt de penvoerder tevens een prestatiebewijs over voor afgeronde MDT-trajecten als bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0046343&artikel=4&z=2024-05-15&g=2024-05-15), en voor niet-afgeronde MDT-trajecten als bedoeld in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046343&artikel=4&z=2024-05-15&g=2024-05-15).
 
-#### Artikel 13. Hardheidsclausule
+##### Artikel 13. Hardheidsclausule
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 14. Inwerkingtreding en vervaldatum
+##### Artikel 14. Inwerkingtreding en vervaldatum
 
 Deze regeling treedt in werking met ingang van 1 april 2022 en vervalt met ingang van 1 januari 2027, met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn verleend.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling 5a – MDT Continueren en opschalen.
 

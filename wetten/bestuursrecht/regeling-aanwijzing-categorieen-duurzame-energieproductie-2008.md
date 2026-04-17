@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanwijzing categorieën duurzame energieproductie 2008"
+title: "Regeling van de Minister van Economische Zaken van 28 februari 2008, nr. WJZ 8024254, houdende aanwijzing van categorieën productie-installaties voor de stimulering van duurzame energieproductie in het jaar 2008 (Regeling aanwijzing categorieën duurzame energieproductie 2008)"
 identifier: "BWBR0023566"
-categorie: "Bestuursrecht"
-publicatiedatum: 2009-10-09
-laatste_update: 2009-10-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023566"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2009-10-09"
+last_updated: "2009-10-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023566"
+soort: "ministeriele-regeling"
+stam_id: "9435523"
+version_id: "15192552"
+internal_id: "C20747601"
+label_id: "9413544"
+dtd_version: "2.0"
+original_entry_into_force: "2008-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023566/2009-10-09/0"
+intitule_bron: "Stcrt.2008-44"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-02-28"
+intitule_published: "2008-03-03"
+intitule_in_force: "2008-03-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-44"
+original_signed_date: "2008-02-28"
+original_published_date: "2008-03-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-44-p8-SC84784"
+entry_into_force_date: "2008-04-01"
+jci_1_3: "jci1.3:c:BWBR0023566&z=2009-10-09&g=2009-10-09"
+jci_1_0: "1.0:c:BWBR0023566&g=2009-10-09"
+citeertitel_status: "officieel"
+short_title: "Regeling aanwijzing categorieën duurzame energieproductie 2008"
+signed_date: "2008-02-28"
+entry_into_force: "2008-04-01"
 ---
-
 # Regeling van de Minister van Economische Zaken van 28 februari 2008, nr. WJZ 8024254, houdende aanwijzing van categorieën productie-installaties voor de stimulering van duurzame energieproductie in het jaar 2008 (Regeling aanwijzing categorieën duurzame energieproductie 2008)
 
 Gelet op de [artikelen 31, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=31), en [77c van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=77c) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=8), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=10), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), [15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=15), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=25), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=27), [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=28), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=29) en [32, derde lid, van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=32) en [artikel 6, eerste lid, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=6);
@@ -18,7 +44,7 @@ Treedt in werking op het tijdstip waarop het Besluit stimulering duurzame energi
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -68,43 +94,43 @@ In deze regeling wordt verstaan onder:
 
 #### § 2.1. Algemeen
 
-#### Artikel 2
+##### Artikel 2
 
 Het subsidieplafond voor het in 2008 verlenen van subsidies voor de productie van hernieuwbare elektriciteit bedraagt € 1401 miljoen.
 
 #### § 2.2. Windenergie op land
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Minister verstrekt op aanvraag subsidie aan producenten van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op land.
 
 2. Aanvragen om subsidie als bedoeld in het eerste lid, worden ingediend in de periode van 1 april 2008 tot 1 december 2008.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het subsidieplafond voor het in de [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.2&artikel=3&z=2009-10-09&g=2009-10-09), bedoelde periode verlenen van subsidie als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.2&artikel=3&z=2009-10-09&g=2009-10-09), bedraagt € 796 miljoen.
 
 2. De Minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.
 
-#### Artikel 5
+##### Artikel 5
 
 Subsidie als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.2&artikel=3&z=2009-10-09&g=2009-10-09), wordt voor een periode van 15 jaar verstrekt.
 
-#### Artikel 6
+##### Artikel 6
 
 Het maximaal aantal vollasturen voor productie-installaties voor de productie van hernieuwbare elektriciteit met behulp van windenergie op land bedraagt 1760 uren per jaar.
 
-#### Artikel 7
+##### Artikel 7
 
 Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.2&artikel=3&z=2009-10-09&g=2009-10-09), bedraagt € 0,110 per kWh.
 
-#### Artikel 8
+##### Artikel 8
 
 De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.2&artikel=3&z=2009-10-09&g=2009-10-09), bedraagt € 0,050 per kWh.
 
 #### § 2.3. Fotovoltaïsche zonnepanelen
 
-#### Artikel 9
+##### Artikel 9
 
 1. De Minister verstrekt op aanvraag subsidie aan producenten van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit uit zonlicht met behulp van fotovoltaïsche zonnepanelen met een vermogen groter dan 0,6 kWp en kleiner of gelijk aan 3,5 kWp, welke zijn geplaatst op, aan of tegen een bouwwerk waarvoor een bouwvergunning als bedoeld in de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) is verkregen.
 
@@ -112,55 +138,55 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wet
 
 3. Aanvragen om subsidie als bedoeld in het eerste lid, worden ingediend in de periode van 1 april 2008 tot 1 augustus 2008.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het subsidieplafond voor het in de [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.3&artikel=9&z=2009-10-09&g=2009-10-09), bedoelde periode verlenen van subsidie als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.3&artikel=9&z=2009-10-09&g=2009-10-09), bedraagt € 83 miljoen.
 
 2. De Minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.
 
-#### Artikel 11
+##### Artikel 11
 
 Subsidie als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.3&artikel=9&z=2009-10-09&g=2009-10-09), wordt voor een periode van 15 jaar verstrekt.
 
-#### Artikel 12
+##### Artikel 12
 
 Het maximaal aantal vollasturen voor productie-installaties voor de productie van hernieuwbare elektriciteit uit zonlicht met behulp van fotovoltaïsche zonnepanelen met een vermogen groter dan 0,6 kWp en kleiner of gelijk aan 3,5 kWp, welke zijn geplaatst op, aan of tegen een bouwwerk waarvoor een bouwvergunning als bedoeld in de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) is verkregen, bedraagt 850 uren per jaar.
 
-#### Artikel 13
+##### Artikel 13
 
 Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.3&artikel=9&z=2009-10-09&g=2009-10-09), bedraagt € 0,564 per kWh.
 
-#### Artikel 14
+##### Artikel 14
 
 De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.3&artikel=9&z=2009-10-09&g=2009-10-09), bedraagt € 0,205 per kWh.
 
 #### § 2.4. Afvalverbranding
 
-#### Artikel 15
+##### Artikel 15
 
 1. De Minister verstrekt op aanvraag subsidie aan producenten van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van afvalverbranding.
 
 2. Aanvragen om subsidie als bedoeld in het eerste lid, worden ingediend in de periode van 1 april 2008 tot 1 augustus 2008.
 
-#### Artikel 16
+##### Artikel 16
 
 Voor subsidie als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.4&artikel=15&z=2009-10-09&g=2009-10-09), is de rapportageverplichting, bedoeld in [artikel 6, eerste lid, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=6) niet van toepassing.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het subsidieplafond voor het in de [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.4&artikel=15&z=2009-10-09&g=2009-10-09), bedoelde periode verlenen van subsidie als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.4&artikel=15&z=2009-10-09&g=2009-10-09), bedraagt € 187 miljoen.
 
 2. De Minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.
 
-#### Artikel 18
+##### Artikel 18
 
 Subsidie als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.4&artikel=15&z=2009-10-09&g=2009-10-09), wordt voor een periode van 15 jaar verstrekt.
 
-#### Artikel 19
+##### Artikel 19
 
 Het maximaal aantal vollasturen voor productie-installaties voor de productie van hernieuwbare elektriciteit met behulp van afvalverbranding bedraagt 3880 uren per jaar.
 
-#### Artikel 20
+##### Artikel 20
 
 Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.4&artikel=15&z=2009-10-09&g=2009-10-09), bedraagt:
 
@@ -184,47 +210,47 @@ Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid
 
 - j. bij een gewogen maandelijks rendement groter dan 31%, € 0,137 per kWh.
 
-#### Artikel 21
+##### Artikel 21
 
 De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.4&artikel=15&z=2009-10-09&g=2009-10-09), bedraagt € 0,093 per kWh.
 
 #### § 2.5. Stortgas of biogas uit afvalwater- of rioolwaterzuiveringsinstallaties
 
-#### Artikel 22
+##### Artikel 22
 
 1. De Minister verstrekt op aanvraag subsidie aan producenten van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met gebruik van stortgas of biogas uit afvalwater- of rioolwaterzuiveringsinstallaties.
 
 2. Aanvragen om subsidie als bedoeld in het eerste lid, worden ingediend in de periode van 1 april 2008 tot 1 augustus 2008.
 
-#### Artikel 23
+##### Artikel 23
 
 Voor subsidie als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2009-10-09&g=2009-10-09), is de rapportageverplichting, bedoeld in [artikel 6, eerste lid, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=6) niet van toepassing.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Het subsidieplafond voor het in de [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2009-10-09&g=2009-10-09), bedoelde periode verlenen van subsidie als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2009-10-09&g=2009-10-09), bedraagt € 10 miljoen.
 
 2. De Minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.
 
-#### Artikel 25
+##### Artikel 25
 
 Subsidie als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2009-10-09&g=2009-10-09), wordt voor een periode van 12 jaar verstrekt.
 
-#### Artikel 26
+##### Artikel 26
 
 Het maximaal aantal vollasturen voor productie-installaties voor de productie van hernieuwbare elektriciteit met gebruik van stortgas of biogas uit afvalwater- of rioolwaterzuiveringsinstallaties bedraagt 8000 uren per jaar.
 
-#### Artikel 27
+##### Artikel 27
 
 Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2009-10-09&g=2009-10-09), bedraagt € 0,058 per kWh.
 
-#### Artikel 28
+##### Artikel 28
 
 De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.5&artikel=22&z=2009-10-09&g=2009-10-09), bedraagt € 0,045 per kWh.
 
 #### § 2.6. Biomassa
 
-#### Artikel 29
+##### Artikel 29
 
 1. De Minister verstrekt op aanvraag subsidie aan producenten van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit door:
 
@@ -236,17 +262,17 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wet
 
 2. Aanvragen om subsidie als bedoeld in het eerste lid, worden ingediend in de periode van 1 april 2008 tot 1 augustus 2008.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Het subsidieplafond voor het in de [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.6&artikel=29&z=2009-10-09&g=2009-10-09), bedoelde periode verlenen van subsidie als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.6&artikel=29&z=2009-10-09&g=2009-10-09), bedraagt € 325 miljoen.
 
 2. De Minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.
 
-#### Artikel 31
+##### Artikel 31
 
 Subsidie als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.6&artikel=29&z=2009-10-09&g=2009-10-09), wordt voor een periode van 12 jaar verstrekt.
 
-#### Artikel 32
+##### Artikel 32
 
 Het maximaal aantal vollasturen voor productie-installaties voor de productie van hernieuwbare elektriciteit door:
 
@@ -256,11 +282,11 @@ Het maximaal aantal vollasturen voor productie-installaties voor de productie va
 
 - c. inzet van warmte verkregen uit thermische conversie van vaste biomassa met een nominaal elektrisch vermogen kleiner of gelijk aan 50 MW, bedraagt 8000 uren per jaar.
 
-#### Artikel 33
+##### Artikel 33
 
 Het basisbedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), voor subsidie als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.6&artikel=29&z=2009-10-09&g=2009-10-09), bedraagt € 0,120 per kWh.
 
-#### Artikel 34
+##### Artikel 34
 
 De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), voor subsidie als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=2&sub-paragraaf=2.6&artikel=29&z=2009-10-09&g=2009-10-09), bedraagt € 0,045 per kWh.
 
@@ -268,57 +294,57 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](https://wet
 
 #### § 3.1. Algemeen
 
-#### Artikel 35
+##### Artikel 35
 
 Het subsidieplafond voor het in 2008 verlenen van subsidies voor de productie van hernieuwbaar gas bedraagt € 58 miljoen.
 
 #### § 3.2. Stortgas of biogas uit afvalwater- of rioolwaterzuiveringsinstallaties
 
-#### Artikel 36
+##### Artikel 36
 
 1. De Minister verstrekt op aanvraag subsidie aan producenten van hernieuwbaar gas geproduceerd door een productie-installatie voor de productie van hernieuwbaar gas met gebruik van stortgas of biogas uit afvalwater- of rioolwaterzuiveringsinstallaties.
 
 2. Aanvragen om subsidie als bedoeld in het eerste lid, worden ingediend in de periode van 1 april 2008 tot 1 augustus 2008.
 
-#### Artikel 37
+##### Artikel 37
 
 Voor subsidie als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.2&artikel=36&z=2009-10-09&g=2009-10-09), is de rapportageverplichting, bedoeld in [artikel 6, eerste lid, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=6) niet van toepassing.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Het subsidieplafond voor het in de [artikel 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.2&artikel=36&z=2009-10-09&g=2009-10-09), bedoelde periode verlenen van subsidie als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.2&artikel=36&z=2009-10-09&g=2009-10-09), bedraagt € 16 miljoen.
 
 2. De Minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.
 
-#### Artikel 39
+##### Artikel 39
 
 Subsidie als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.2&artikel=36&z=2009-10-09&g=2009-10-09), wordt voor een periode van 12 jaar verstrekt.
 
-#### Artikel 40
+##### Artikel 40
 
 Het maximaal aantal vollasturen voor productie-installaties voor de productie van hernieuwbaar gas met gebruik van stortgas of biogas uit afvalwater- of rioolwaterzuiveringsinstallaties bedraagt 8000 uren per jaar.
 
-#### Artikel 41
+##### Artikel 41
 
 Het basisbedrag, bedoeld in [artikel 28 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=28), voor subsidie als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.2&artikel=36&z=2009-10-09&g=2009-10-09), bedraagt € 0,277 per Nm3.
 
-#### Artikel 42
+##### Artikel 42
 
 De basisgasprijs, bedoeld in [artikel 29 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=29), voor subsidie als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.2&artikel=36&z=2009-10-09&g=2009-10-09), bedraagt € 0,140 per Nm3.
 
 #### § 4. Wijzigingen in andere regelgeving
 
-#### Artikel 43
+##### Artikel 43
 
 Wijzigt de Regeling garanties van oorsprong voor duurzame elektriciteit.
 
 #### § 5. Slotbepalingen
 
-#### Artikel 44
+##### Artikel 44
 
 Deze regeling treedt in werking op het tijdstip waarop het [Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735) in werking treedt.
 
-#### Artikel 45
+##### Artikel 45
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing categorieën duurzame energieproductie 2008.
 
@@ -344,7 +370,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 3.3. Biomassa
 
-#### Artikel 42a
+##### Artikel 42a
 
 1. De Minister verstrekt op aanvraag subsidie aan producenten van hernieuwbaar gas geproduceerd door een productie-installatie voor de productie van hernieuwbaar gas met gebruik van:
 
@@ -354,17 +380,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. Aanvragen om subsidie als bedoeld in het eerste lid, worden ingediend in de periode die aanvangt op de eerste dag van de tweede week na de dag van inwerkingtreding van de regeling tot 1 december 2008.
 
-#### Artikel 42b
+##### Artikel 42b
 
 1. Het subsidieplafond voor het in de [artikel 42a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.3&artikel=42a&z=2009-10-09&g=2009-10-09), bedoelde periode verlenen van subsidie als bedoeld in [artikel 42a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.3&artikel=42a&z=2009-10-09&g=2009-10-09), bedraagt € 42 miljoen.
 
 2. De Minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van binnenkomst van de aanvragen.
 
-#### Artikel 42c
+##### Artikel 42c
 
 Subsidie als bedoeld in [artikel 42a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.3&artikel=42a&z=2009-10-09&g=2009-10-09), wordt voor een periode van 12 jaar verstrekt.
 
-#### Artikel 42d
+##### Artikel 42d
 
 Het maximaal aantal vollasturen voor productie-installaties voor de productie van hernieuwbaar gas met gebruik van
 
@@ -374,11 +400,11 @@ Het maximaal aantal vollasturen voor productie-installaties voor de productie va
 
 bedraagt 8000 uren per jaar.
 
-#### Artikel 42e
+##### Artikel 42e
 
 Het basisbedrag, bedoeld in [artikel 28 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=28), voor subsidie als bedoeld in [artikel 42a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.3&artikel=42a&z=2009-10-09&g=2009-10-09), bedraagt € 0,44 per Nm3.
 
-#### Artikel 42f
+##### Artikel 42f
 
 De basisgasprijs, bedoeld in [artikel 29 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=29), voor subsidie als bedoeld in [artikel 42a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023566&paragraaf=3&sub-paragraaf=3.3&artikel=42a&z=2009-10-09&g=2009-10-09), bedraagt € 0,140 per Nm3.
 

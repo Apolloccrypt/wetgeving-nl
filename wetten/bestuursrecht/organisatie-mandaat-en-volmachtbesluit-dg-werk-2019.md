@@ -1,13 +1,39 @@
 ---
-title: "Organisatie-, mandaat- en volmachtbesluit DG Werk 2019"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 juli 2019, nr. 2019-0000097657, houdende toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de directeur-generaal Werk ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit DG Werk 2019)"
 identifier: "BWBR0042435"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-02-19
-laatste_update: 2026-02-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042435"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-02-19"
+last_updated: "2026-02-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042435"
+soort: "ministeriele-regeling"
+stam_id: "15127783"
+version_id: "25938952"
+internal_id: "C36953641"
+label_id: "15075864"
+dtd_version: "2.0"
+original_entry_into_force: "2019-07-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042435/2026-02-19/0"
+intitule_bron: "Stcrt.2019-41130"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-07-15"
+intitule_published: "2019-07-24"
+intitule_in_force: "2019-07-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-41130"
+original_signed_date: "2019-07-15"
+original_published_date: "2019-07-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-41130"
+entry_into_force_date: "2019-07-25"
+jci_1_3: "jci1.3:c:BWBR0042435&z=2026-02-19&g=2026-02-19"
+jci_1_0: "1.0:c:BWBR0042435&g=2026-02-19"
+citeertitel_status: "officieel"
+short_title: "Organisatie-, mandaat- en volmachtbesluit DG Werk 2019"
+signed_date: "2019-07-15"
+entry_into_force: "2019-07-25"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 juli 2019, nr. 2019-0000097657, houdende toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de directeur-generaal Werk ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit DG Werk 2019)
 
 Gelet op de [artikelen 8, derde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=8), en [23, eerste lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=23);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Organisatie
 
-#### Artikel 2
+##### Artikel 2
 
 Onder de directeur-generaal ressorteren:
 
@@ -54,7 +80,7 @@ Onder de directeur-generaal ressorteren:
 
 #### § 3. Verantwoordelijkheden
 
-#### Artikel 3
+##### Artikel 3
 
 1. Elk van de directeuren is verantwoordelijk voor:
 
@@ -88,7 +114,7 @@ Onder de directeur-generaal ressorteren:
 
 2. De directeur van de directie Arbeidsverhoudingen is verantwoordelijk voor de coördinatie, bedoeld in artikel 4, vijfde lid, van [richtlijn 2014/54](32014L0054)/EU betreffende maatregelen om de uitoefening van de in de context van het vrije verkeer van werknemers aan werknemers verleende rechten te vergemakkelijken (PbEU 2014, L 128).
 
-#### Artikel 4
+##### Artikel 4
 
 De directie Arbeidsmarkt en Sociaal-Economische Aangelegenheden adviseert over de ontwikkelingen op de arbeidsmarkt en de inkomensgevolgen van het overheidsbeleid en over het sociaal-economische en algemeen financieel beleid.
 
@@ -110,7 +136,7 @@ Dit omvat onder meer de volgende hoofdtaken:
 
 Tevens is bij de directie ASEA de Chief Science Officer ondergebracht, welke als departementale kenniscoördinator verantwoordelijk is voor het opstellen van een inhoudelijk goed onderbouwd en samenhangend programma van kennisactiviteiten en advisering over en borging van de verschillende activiteiten in de cyclus van kennis en onderzoek.
 
-#### Artikel 5
+##### Artikel 5
 
 De directie Arbeidsverhoudingen is verantwoordelijk voor de ontwikkeling van en advisering over het beleid op het gebied van de arbeidsverhoudingen. Deze taak omvat de zorg voor de reguliere contacten tussen het ministerie en sociale partners en het beleid met betrekking tot:
 
@@ -132,7 +158,7 @@ De directie Arbeidsverhoudingen is verantwoordelijk voor de ontwikkeling van en 
 
 - i. de coördinatie van onderzoek en beleidsinformatie.
 
-#### Artikel 6
+##### Artikel 6
 
 De directie Gezond en Veilig Werken is er voor verantwoordelijk dat mensen tot hun pensioen gezond, veilig en duurzaam werken. Iedereen moet fatsoenlijk kunnen werken en werk mag op korte en op lange termijn niet tot gezondheidsschade leiden. De verantwoordelijkheid hiervoor ligt primair bij werkgevers en werkenden en ook producenten en fabrikanten hebben daarbij een verantwoordelijkheid. De overheid schept de (wettelijke) kaders, informeert, stimuleert, faciliteert en monitort. Dit omvat onder meer de volgende hoofdtaken:
 
@@ -152,7 +178,7 @@ De directie Gezond en Veilig Werken is er voor verantwoordelijk dat mensen tot h
 
 - h. het beleid met betrekking tot arbeids- en rusttijden.
 
-#### Artikel 7
+##### Artikel 7
 
 De directie Internationale Zaken is verantwoordelijk voor het volgen van de ontwikkelingen in de internationale omgeving en het uitdragen van standpunten op het werkterrein van het ministerie alsmede het voeren van onderhandelingen, onder waarborging van de samenhang van het beleid van het ministerie en waar relevant van Nederland. Daarnaast draagt de directie Internationale Zaken er zorg voor dat informatie uit het internationale veld tijdig en op de juiste plaatsen binnen het ministerie van Sociale Zaken en Werkgelegenheid beschikbaar komt. Dit omvat onder meer de volgende hoofdtaken:
 
@@ -172,7 +198,7 @@ De directie Internationale Zaken is verantwoordelijk voor het volgen van de ontw
 
 - h. het toerusten van het ministerie met het oog op internationale activiteiten.
 
-#### Artikel 8
+##### Artikel 8
 
 de directie Collectieve arbeidsovereenkomsten is verantwoordelijk voor de uitvoering van wetgeving op het gebied van arbeidsverhoudingen voor zover de uitvoering daarvan aan de Minister van Sociale Zaken en Werkgelegenheid is opgedragen. Dit omvat onder meer de volgende hoofdtaken:
 
@@ -188,7 +214,7 @@ de directie Collectieve arbeidsovereenkomsten is verantwoordelijk voor de uitvoe
 
 - f. het verzorgen van beleidsinformatie met betrekking tot de aan de directie opgedragen taken.
 
-#### Artikel 9
+##### Artikel 9
 
 De directie Kinderopvang is verantwoordelijk voor het tot stand brengen van een stelsel van kwalitatief goede, toegankelijke en veilige kinderopvang. Hierdoor zijn ouders in staat arbeid en zorg makkelijker te combineren. Ook draagt kinderopvang bij aan de ontwikkeling van kinderen. Dit omvat onder meer de volgende hoofdtaken:
 
@@ -200,11 +226,11 @@ De directie Kinderopvang is verantwoordelijk voor het tot stand brengen van een 
 
 - d. het ontwikkelen van beleid ten aanzien van marktwerking in de kinderopvang en de positie van ouders;
 
-#### Artikel 10
+##### Artikel 10
 
 Het bureau Directoraat Generaal Werk-control is verantwoordelijk voor beheersmatig en beleidsinhoudelijk ondersteunen van de directeur-generaal bij de aansturing van de onder hem ressorterende directies.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De afdeling BMO is ten behoeve van de directeur-generaal en de onder de directeur-generaal ressorterende organisatieonderdelen, genoemd in [artikel 2, onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&paragraaf=2&artikel=2&z=2026-02-19&g=2026-02-19), verantwoordelijk voor de ondersteuning van de activiteiten van de directeuren zoals genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&paragraaf=3&artikel=3&z=2026-02-19&g=2026-02-19), waaronder:
 
@@ -226,7 +252,7 @@ Het bureau Directoraat Generaal Werk-control is verantwoordelijk voor beheersmat
 
 #### § 4. Bevoegdheden
 
-#### Artikel 12
+##### Artikel 12
 
 1. Elk van de directeuren is bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van zijn directie, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal of de directeur-generaal.
 
@@ -258,7 +284,7 @@ Het bureau Directoraat Generaal Werk-control is verantwoordelijk voor beheersmat
 
 6. De aansturing van het hoofd van de afdeling BMO berust bij de directeur, die door de directeur-generaal is aangewezen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&paragraaf=4&artikel=12&z=2026-02-19&g=2026-02-19) is van overeenkomstige toepassing op de bevoegdheden van het hoofd van de afdeling BMO, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de eigen afdeling.
 
@@ -272,13 +298,13 @@ Het bureau Directoraat Generaal Werk-control is verantwoordelijk voor beheersmat
 
 4. De directeur-generaal en de directeuren blijven te allen tijde bevoegd de bevoegdheden, genoemd in het tweede en derde lid, voor zover zij verband houden met de eigen directie, zelf uit te oefenen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. In afwijking van [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&paragraaf=4&artikel=12&z=2026-02-19&g=2026-02-19), wordt aan de directeur van de directie Stelsel en Volksverzekeringen mandaat verleend tot het verlenen van subsidies en rijksvergoedingen ter zake van wetten en regelingen waarvan de uitvoering is opgedragen aan de Sociale verzekeringsbank, voor zover het wetten en regelingen betreft op het werkterrein van de directie Kinderopvang en de directie Gezond en Veilig Werken.
 
 2. In afwijking van [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&paragraaf=4&artikel=12&z=2026-02-19&g=2026-02-19), wordt aan de directeur van de directie Werknemersregelingen mandaat verleend tot het verlenen van subsidies en rijksvergoedingen ter zake van wetten en regelingen waarvan de uitvoering is opgedragen aan het Uitvoeringsinstituut werknemersverzekeringen, voor zover het wetten en regelingen betreft op het werkterrein van de directie Arbeidsverhoudingen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De directeuren en het hoofd BMO kunnen hun vertegenwoordigingsbevoegdheden in een door hen te bepalen omvang doorverlenen aan onder hen ressorterende functionarissen, met dien verstande dat bevoegdheden met betrekking tot personeelsaangelegenheden slechts kunnen worden doorverleend aan rechtstreeks onder hen ressorterende functionarissen en slechts voor zover het betreft:
 
@@ -296,7 +322,7 @@ Het bureau Directoraat Generaal Werk-control is verantwoordelijk voor beheersmat
 
 #### § 5. Slotbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit directeur-generaal Werk 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024965) wordt ingetrokken.
 

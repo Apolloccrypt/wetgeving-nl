@@ -1,14 +1,41 @@
 ---
-title: "Uitvoeringswet grondkamers"
+title: "Wet van 6 december 2006 ter uitvoering van titel 7.5 (Pacht) van het Burgerlijk Wetboek inzake de samenstelling en werkwijze van de grondkamers en de centrale grondkamer (Uitvoeringswet grondkamers)"
 identifier: "BWBR0021912"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0021912"
+country: "nl"
+rank: "wet"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0021912"
+soort: "wet"
+stam_id: "9086073"
+version_id: "14503262"
+internal_id: "C19737891"
+label_id: "9065654"
+dtd_version: "2.0"
+original_entry_into_force: "2007-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0021912/2024-01-01/0"
+intitule_bron: "Stb.2007-395"
+intitule_effect: "wijziging"
+intitule_signed: "2007-10-18"
+intitule_published: "2007-10-30"
+intitule_in_force: "2007-10-30"
+intitule_status: "goed"
+original_publication: "Stb.2007-164"
+original_signed_date: "2006-12-06"
+original_published_date: "2007-05-24"
+original_effect: "nieuwe-regeling"
+original_dossier: "30833"
+original_url_id: "stb-2007-164"
+entry_into_force_date: "2007-09-01"
+jci_1_3: "jci1.3:c:BWBR0021912&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0021912&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringswet grondkamers"
+signed_date: "2006-12-06"
+entry_into_force: "2007-09-01"
 ---
-
-# Uitvoeringswet grondkamers
+# Wet van 6 december 2006 ter uitvoering van titel 7.5 (Pacht) van het Burgerlijk Wetboek inzake de samenstelling en werkwijze van de grondkamers en de centrale grondkamer (Uitvoeringswet grondkamers)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,11 +45,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Samenstelling en werkwijze van de grondkamers en van de centrale grondkamer
 
-#### Artikel 1
+##### Artikel 1
 
 Er zijn grondkamers, waarvan het rechtsgebied en de standplaats door Ons worden aangewezen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De grondkamer bestaat uit een voorzitter en ten minste vier en ten hoogste twaalf leden. Zij wordt bijgestaan door een secretaris.
 
@@ -30,7 +57,7 @@ Er zijn grondkamers, waarvan het rechtsgebied en de standplaats door Ons worden 
 
 3. Bij verhindering of ontstentenis van de voorzitter of van de plaatsvervangende voorzitter treedt het oudste lid als waarnemend voorzitter op.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Wij benoemen en ontslaan de voorzitter, de plaatsvervangende voorzitter, de leden, de secretaris alsmede de plaatsvervangende leden en de plaatsvervangende secretarissen.
 
@@ -44,7 +71,7 @@ Er zijn grondkamers, waarvan het rechtsgebied en de standplaats door Ons worden 
 
 6. Bij het bereiken van de ouderdom van zeventig jaren wordt aan de voorzitter, de plaatsvervangende voorzitter, de leden en plaatsvervangende leden ontslag verleend met ingang van de eerstvolgende maand.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor benoeming tot secretaris of plaatsvervangende secretaris komt in aanmerking degene:
 
@@ -56,7 +83,7 @@ Er zijn grondkamers, waarvan het rechtsgebied en de standplaats door Ons worden 
 
 3. Bij algemene maatregel van bestuur kunnen voorts nadere regels worden gesteld met betrekking tot de beroepsvereisten.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Onverminderd hetgeen elders is bepaald, worden de voorzitter, de plaatsvervangende voorzitter, de leden, de plaatsvervangende leden, de secretaris en de plaatsvervangende secretarissen ontslagen:
 
@@ -76,39 +103,39 @@ Er zijn grondkamers, waarvan het rechtsgebied en de standplaats door Ons worden 
 
 5. Wanneer tijdens de in het vierde lid bedoelde schorsing het besluit tot ontslag wordt genomen, blijft de schorsing van kracht tot het tijdstip, waarop het ontslag ingaat.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De voorzitter, de plaatsvervangende voorzitter, de leden, de plaatsvervangende leden, de secretaris en de plaatsvervangende secretarissen zijn verplicht het geheim te bewaren omtrent hetgeen hun als zodanig bekend wordt.
 
 2. Zij mogen zich noch direct, noch indirect in enig bijzonder onderhoud of gesprek inlaten met partijen of hun raadslieden, noch enige bijzondere onderrichting, memorie of schrifturen aannemen over enige aangelegenheid, welke aanhangig is of waarvan zij weten of vermoeden, dat deze aanhangig zal worden bij de grondkamer, waartoe zij behoren.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het is de voorzitter en de secretaris verboden zich te belasten met de consultatie omtrent en de verdediging van zaken, welke bij enige grondkamer of pachtkamer, bij de Centrale Grondkamer of bij de pachtkamer van het gerechtshof Arnhem-Leeuwarden aanhangig zijn, of waarvan zij weten of vermoeden, dat deze daarbij aanhangig zullen worden.
 
 2. Het is de plaatsvervangende voorzitter, de plaatsvervangende secretaris, de leden en de plaatsvervangende leden verboden zich te belasten met de consultatie omtrent en de verdediging van zaken, welke aanhangig zijn of waarvan zij weten of vermoeden, dat deze aanhangig zullen worden bij de grondkamer, waartoe zij behoren, of bij de Centrale Grondkamer, in het laatste geval voor zover het betreft zaken, aan de behandeling waarvan zij in de grondkamer hebben deelgenomen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De grondkamer houdt zitting en beslist met de voorzitter en twee leden.
 
 2. Beschikkingen van de grondkamer, genomen met een ander aantal personen dan in het vorige lid is vermeld, zijn nietig.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De voorzitter en de secretaris genieten een bezoldiging, die bij algemene maatregel van bestuur wordt vastgesteld. Zij genieten voorts een vergoeding voor reis- en verblijfkosten volgens bij algemene maatregel van bestuur te stellen regelen.
 
 2. De plaatsvervangende voorzitter, de leden, de plaatsvervangende leden en de plaatsvervangende secretarissen genieten een vergoeding voor reis- en verblijfkosten en verdere vergoedingen volgens bij algemene maatregel van bestuur te stellen regelen.
 
-#### Artikel 10
+##### Artikel 10
 
 Er is een Centrale Grondkamer, gevestigd te Arnhem.
 
-#### Artikel 11
+##### Artikel 11
 
 De tot de rechterlijke macht behorende leden, de deskundige leden en de plaatsvervangende deskundige leden van de pachtkamer van het gerechtshof Arnhem-Leeuwarden zijn van rechtswege tevens lid, onderscheidenlijk plaatsvervangend lid, van de Centrale Grondkamer.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Wij benoemen en ontslaan de griffier van de Centrale Grondkamer.
 
@@ -116,7 +143,7 @@ De tot de rechterlijke macht behorende leden, de deskundige leden en de plaatsve
 
 3. De griffier voldoet aan de vereisten tot benoembaarheid tot rechterlijke ambtenaar, gesteld in [artikel 5 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5).
 
-#### Artikel 13
+##### Artikel 13
 
 1. De Centrale Grondkamer houdt zitting en beslist met drie tot de rechterlijke macht behorende leden en twee niet tot de rechterlijke macht behorende deskundige leden.
 
@@ -124,17 +151,17 @@ De tot de rechterlijke macht behorende leden, de deskundige leden en de plaatsve
 
 3. Beschikkingen van de Centrale Grondkamer, genomen met een ander aantal personen dan in het eerste lid is vermeld, zijn nietig.
 
-#### Artikel 14
+##### Artikel 14
 
 De [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=1&artikel=6&z=2024-01-01&g=2024-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=1&artikel=7&z=2024-01-01&g=2024-01-01) vinden ten aanzien van de leden, de plaatsvervangende leden, de griffier en de plaatsvervangende griffier van de Centrale Grondkamer overeenkomstige toepassing.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De griffier geniet een bezoldiging, die bij algemene maatregel van bestuur wordt vastgesteld. Hij geniet voorts een vergoeding voor reis- en verblijfkosten volgens bij algemene maatregel van bestuur te stellen regels.
 
 2. De leden, de plaatsvervangende leden en de plaatsvervangende griffier van de Centrale Grondkamer genieten een vergoeding voor reis- en verblijfkosten en verdere vergoedingen volgens bij algemene maatregel van bestuur te stellen regelen.
 
-#### Artikel 16
+##### Artikel 16
 
 Bij algemene maatregel van bestuur worden nadere voorschriften gegeven ter uitvoering van dit hoofdstuk alsmede omtrent de werkwijze van de grondkamers en de Centrale Grondkamer.
 
@@ -142,7 +169,7 @@ Bij algemene maatregel van bestuur worden nadere voorschriften gegeven ter uitvo
 
 #### Paragraaf 1. De indiening
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het verzoek tot goedkeuring van een pachtovereenkomst en van een overeenkomst tot wijziging of beëindiging van een pachtovereenkomst geschiedt door indiening bij de grondkamer van een door partijen ondertekende akte of een notarieel afschrift, met zoveel ongetekende afschriften als er meer dan twee partijen bij de overeenkomst zijn betrokken.
 
@@ -150,17 +177,17 @@ Bij algemene maatregel van bestuur worden nadere voorschriften gegeven ter uitvo
 
 3. Indien de goedkeuring van de pachtovereenkomst of van de overeenkomst tot wijziging van een pachtovereenkomst wordt verlangd op grond van [artikel 324, derde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=324), wordt tevens de beschikking van de grondkamer, waarbij de ontwerp-overeenkomst werd goedgekeurd, vermeld.
 
-#### Artikel 18
+##### Artikel 18
 
 Het verzoek tot goedkeuring van een ontwerp-pachtovereenkomst of van een ontwerp-overeenkomst tot wijziging van een pachtovereenkomst wordt ingediend bij de grondkamer. Het moet zijn ondertekend door degenen, die in de ontwerp-overeenkomst als partijen zijn genoemd of hun gemachtigden. Daarbij wordt overgelegd een ongetekend exemplaar van de ontwerp-overeenkomst, vermeerderd met zoveel ongetekende exemplaren als er verzoekers zijn. Het verpachte moet met de kadastrale aanduiding zijn aangeduid.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De verzoeken, bedoeld in de [artikelen 325, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=325), [326, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=326), [328, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=328), [333, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=333), [345, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=345), [348, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=348), [354, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=354), [379, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=379), [380, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=380) en [381, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=381), vinden plaats door indiening van een verzoekschrift bij de grondkamer met zoveel afschriften als er wederpartijen bij de overeenkomst of belanghebbenden zijn.
 
 2. Het verzoekschrift vermeldt de naam, de voornamen en de woonplaats van de verzoeker, de naam en de woonplaats van de wederpartij of van de belanghebbenden, als deze er zijn, voorts de gronden, waarop het verzoek steunt, en de gevraagde beslissing.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Bij het verzoek, bedoeld in [artikel 381, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=381), wordt een verklaring overgelegd van burgemeester en wethouders, waaruit blijkt, dat die doeleinden niet in strijd zijn met een geldend of een in ontwerp ter inzage gelegd omgevingsplan.
 
@@ -174,13 +201,13 @@ Het verzoek tot goedkeuring van een ontwerp-pachtovereenkomst of van een ontwerp
 
 6. De grondkamer neemt een verklaring, waarin een of meer van de in het vijfde lid bedoelde gegevens ontbreken, niet in aanmerking.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De verzoeken, bedoeld in de [artikelen 385](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=385) en [399e, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=399e), worden gedaan bij een verzoekschrift, dat bij de grondkamer wordt ingediend.
 
 2. Het verzoekschrift vermeldt de naam, de voornamen en de woonplaats van de verzoeker, voorts de gronden, waarop het verzoek steunt en de gevraagde beslissing.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De in deze afdeling bedoelde verzoeken moeten worden ingediend bij de grondkamer, binnen het rechtsgebied waarvan de onroerende zaak of het grootste gedeelte daarvan is gelegen. Indien het een hoeve betreft, wordt het verzoek ingediend bij de grondkamer, binnen het rechtsgebied waarvan het hoofdgebouw, tot de hoeve behorend, gelegen is.
 
@@ -188,7 +215,7 @@ Het verzoek tot goedkeuring van een ontwerp-pachtovereenkomst of van een ontwerp
 
 #### Paragraaf 2. Het onderzoek
 
-#### Artikel 23
+##### Artikel 23
 
 1. De grondkamer kan een onderzoek naar aanleiding van het bij haar ingediende verzoek gelasten. Zij zal hiermee een of meer leden of een of meer door haar aan te wijzen deskundigen belasten. Deze aanwijzing geschiedt in het algemeen, dan wel voor een bepaald geval.
 
@@ -196,7 +223,7 @@ Het verzoek tot goedkeuring van een ontwerp-pachtovereenkomst of van een ontwerp
 
 3. Binnen een maand na het gelasten van het onderzoek doet de grondkamer daarvan mededeling aan de verzoeker en de bij de overeenkomst of ontwerp-overeenkomst betrokken partijen onder vermelding van de plaats waar en het tijdstip waarop het onderzoek wordt gehouden.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De verzoeker en de bij de overeenkomst of ontwerp-overeenkomst betrokken partijen of belanghebbenden zijn verplicht aan degene, aan wie het onderzoek is opgedragen, desgevraagd de ter uitvoering van zijn opdracht nodige inlichtingen te verstrekken.
 
@@ -206,7 +233,7 @@ Het verzoek tot goedkeuring van een ontwerp-pachtovereenkomst of van een ontwerp
 
 #### Paragraaf 3. De behandeling
 
-#### Artikel 25
+##### Artikel 25
 
 1. Indien de grondkamer een pachtovereenkomst of een overeenkomst tot wijziging of beëindiging van een pachtovereenkomst niet aanstonds kan goedkeuren, deelt zij aan partijen haar bezwaren mede en geeft zij aan of en op welke wijze deze kunnen worden opgeheven.
 
@@ -218,7 +245,7 @@ Het verzoek tot goedkeuring van een ontwerp-pachtovereenkomst of van een ontwerp
 
 5. Indien de partijen de door de grondkamer nodig geoordeelde wijzigingen niet overnemen, wijzigt de grondkamer de overeenkomst, of, indien zij oordeelt dat door wijziging haar in het eerste lid bedoelde bezwaren niet kunnen worden opgeheven, vernietigt zij haar.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Indien de grondkamer een ontwerp-pachtovereenkomst of een ontwerp-overeenkomst tot wijziging van een pachtovereenkomst niet aanstonds kan goedkeuren, deelt zij aan de personen, die in de ontwerp-overeenkomst als partijen zijn genoemd, haar bezwaren mee en geeft zij aan of en op welke wijze deze kunnen worden opgeheven.
 
@@ -228,29 +255,29 @@ Het verzoek tot goedkeuring van een ontwerp-pachtovereenkomst of van een ontwerp
 
 4. Indien de grondkamer de ontwerp-overeenkomst niet kan goedkeuren en zij van oordeel is, dat haar bezwaren door wijziging van de ontwerp-overeenkomst kunnen worden opgeheven, vermeldt zij deze wijzigingen in haar beschikking.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Indien bij een beslissing op een verzoek in andere dan de in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=25&z=2024-01-01&g=2024-01-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=26&z=2024-01-01&g=2024-01-01) bedoelde gevallen naar het oordeel van de grondkamer behalve de verzoeker ook anderen belang hebben, deelt de grondkamer, onder gelijktijdige kennisgeving van de eventuele bezwaren, aan de verzoeker en de andere belanghebbenden mede, binnen welke termijn zij schriftelijke opmerkingen aan de grondkamer kunnen inzenden en een mondelinge behandeling kunnen verzoeken.
 
 2. Indien een onderzoek door een van haar leden of door een deskundige heeft plaats gehad, zendt de grondkamer aan de verzoeker en de andere belanghebbenden, tegelijk met haar mededeling, een afschrift van het rapport van het onderzoek toe.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Indien bij een beslissing op een verzoek in andere dan de in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=25&z=2024-01-01&g=2024-01-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=26&z=2024-01-01&g=2024-01-01) bedoelde gevallen naar het oordeel van de grondkamer uitsluitend de verzoeker belang heeft en de grondkamer het verzoek niet aanstonds kan toewijzen, is de grondkamer bevoegd – en op een daartoe strekkend verzoek verplicht – een mondelinge behandeling van het bij haar ingediende verzoek te doen plaats hebben op een door haar te bepalen zitting.
 
 2. Indien een onderzoek door een van haar leden of door een deskundige heeft plaats gehad, zendt de grondkamer aan de verzoeker, tegelijk met haar oproep voor de mondelinge behandeling, een afschrift van het rapport van het onderzoek toe.
 
-#### Artikel 29
+##### Artikel 29
 
 De secretaris maakt een verslag van hetgeen bij de mondelinge behandeling voorvalt met vermelding van de zakelijke inhoud van de afgelegde verklaringen. Het verslag wordt door de voorzitter en de secretaris vastgesteld en ondertekend. Desgevraagd ontvangen partijen daarvan afschrift.
 
-#### Artikel 30
+##### Artikel 30
 
 1. De partijen bij de overeenkomst en de verzoeker kunnen zich doen bijstaan of vertegenwoordigen.
 
 2. De partijen bij de overeenkomst en de verzoeker kunnen getuigen ter zitting meebrengen.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De partijen bij de overeenkomst en de verzoeker kunnen met machtiging van de grondkamer bij deurwaardersexploot getuigen oproepen om aldaar te verschijnen.
 
@@ -266,27 +293,27 @@ De secretaris maakt een verslag van hetgeen bij de mondelinge behandeling voorva
 
 7. Getuigen ontvangen desgevraagd ten laste van degene, die hen heeft voorgebracht, schadevergoeding, door de voorzitter te begroten overeenkomstig het bij en krachtens de [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899) bepaalde.
 
-#### Artikel 32
+##### Artikel 32
 
 Bij de behandeling van een verzoek tot goedkeuring van een ontwerp-pachtovereenkomst of van een ontwerp-overeenkomst tot wijziging van een pachtovereenkomst vinden de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=29&z=2024-01-01&g=2024-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=30&z=2024-01-01&g=2024-01-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=31&z=2024-01-01&g=2024-01-01) overeenkomstige toepassing.
 
-#### Artikel 33
+##### Artikel 33
 
 Indien de grondkamer de pachtovereenkomst of de overeenkomst tot wijziging of beëindiging van de pachtovereenkomst ongewijzigd goedkeurt, zendt de secretaris aan iedere partij een exemplaar of een afschrift van de overeenkomst, waarop de beslissing, die de grondkamer heeft genomen, is aangetekend.
 
-#### Artikel 34
+##### Artikel 34
 
 1. De beschikkingen van de grondkamer zijn met redenen omkleed, met uitzondering van de beschikkingen die overeenkomstig [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=33&z=2024-01-01&g=2024-01-01) zijn genomen.
 
 2. Een expeditie van de beschikking wordt aan de bij de overeenkomst of ontwerp-overeenkomst betrokken partijen of belanghebbenden alsmede aan de verzoeker toegezonden. De dag van verzending wordt op de expeditie aangetekend.
 
-#### Artikel 35
+##### Artikel 35
 
 De voorzitter en de leden van de grondkamers alsmede hun plaatsvervangers kunnen worden gewraakt op de wijze en in de gevallen, omschreven in de [vierde afdeling van de eerste titel van het eerste boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&afdeling=Vierde), met dien verstande, dat het onderzoek van de redenen van wraking en het beslissen over de wraking geschiedt door de grondkamer.
 
 #### Paragraaf 4. De behandeling in hoger beroep
 
-#### Artikel 36
+##### Artikel 36
 
 1. Tegen de beschikkingen van de grondkamer staat, behoudens het in het derde lid bepaalde, aan partijen, belanghebbenden, alsmede aan de verzoeker binnen een maand, nadat de beschikking aan hen is verzonden, beroep open bij de Centrale Grondkamer.
 
@@ -294,7 +321,7 @@ De voorzitter en de leden van de grondkamers alsmede hun plaatsvervangers kunnen
 
 3. Geen beroep kan door de pachter of door de verpachter worden ingesteld, indien de pachtovereenkomst of een overeenkomst tot wijziging van een pachtovereenkomst dan wel het ontwerp van een van deze overeenkomsten ongewijzigd wordt goedgekeurd. Geen beroep kan door de pachter worden ingesteld, indien de wijziging door de grondkamer ingevolge [artikel 320 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=320) betrekking heeft op verlaging van de overeengekomen pachtprijs. Geen beroep kan door de verpachter worden ingesteld, indien bedoelde wijziging betrekking heeft op een verlaging van de overeengekomen pachtprijs met minder dan 10 procent.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Het beroep wordt ingesteld door indiening van een beroepschrift bij de Centrale Grondkamer. Bij het beroepschrift wordt een expeditie van de beroepen beschikking gevoegd.
 
@@ -308,19 +335,19 @@ De voorzitter en de leden van de grondkamers alsmede hun plaatsvervangers kunnen
 
 6. Het beroepschrift wordt mondeling ter zitting behandeld, indien de Centrale Grondkamer dit nodig oordeelt, dan wel een van de partijen of belanghebbenden dit verzoekt. Overigens vinden de bepalingen van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=2&z=2024-01-01&g=2024-01-01) en van [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&z=2024-01-01&g=2024-01-01) overeenkomstige toepassing.
 
-#### Artikel 38
+##### Artikel 38
 
 1. De Centrale Grondkamer bevestigt of vernietigt de beschikking waartegen hoger beroep is ingesteld.
 
 2. Bij vernietiging van de beschikking doet de Centrale Grondkamer hetgeen de grondkamer had behoren te doen, tenzij zij reden mocht vinden de zaak naar de grondkamer terug te wijzen.
 
-#### Artikel 39
+##### Artikel 39
 
 1. De secretaris van de grondkamer zendt desgevraagd de stukken van de eerste aanleg of afschriften daarvan aan de griffier van de Centrale Grondkamer.
 
 2. De griffier van de Centrale Grondkamer zendt afschrift van de beschikkingen van de Centrale Grondkamer aan de grondkamer, tegen welker beschikking beroep is ingesteld.
 
-#### Artikel 40
+##### Artikel 40
 
 1. Onze Minister van Landbouw, Natuur en Voedselkwaliteit kan beroep tegen een beschikking van de grondkamer instellen.
 
@@ -330,21 +357,21 @@ De voorzitter en de leden van de grondkamers alsmede hun plaatsvervangers kunnen
 
 ### Hoofdstuk 3. Competentiegeschillen
 
-#### Artikel 41
+##### Artikel 41
 
 Competentie-geschillen tussen grondkamers worden door de Centrale Grondkamer beslist.
 
 ### Hoofdstuk 4. Algemene bepalingen
 
-#### Artikel 42
+##### Artikel 42
 
 Bij algemene maatregel van bestuur worden regelen gesteld over de wijze waarop de kennisgevingen en de toezending van stukken door de secretaris van de grondkamer en door de griffier van de Centrale Grondkamer geschieden.
 
-#### Artikel 43
+##### Artikel 43
 
 Vervallen
 
-#### Artikel 44
+##### Artikel 44
 
 1. Bij algemene maatregel van bestuur wordt een tarief vastgesteld van de door de grondkamers en de Centrale Grondkamer voor haar verrichtingen te heffen kosten.
 
@@ -352,79 +379,79 @@ Vervallen
 
 ### Hoofdstuk 5. Bijzondere processuele bepaling
 
-#### Artikel 45
+##### Artikel 45
 
 Indien binnen de in de wet gestelde termijn een verzoek is ingediend of een vordering is ingesteld bij de pachtkamer van de rechtbank en deze beslist, dat zij niet bevoegd is daarvan kennis te nemen, kan het verzoek, indien de grondkamer bevoegd is daarvan kennis te nemen en een wettelijke termijn, waarbinnen het verzoek bij de grondkamer moet worden ingediend, niet meer in acht kan worden genomen, niettemin nog binnen een maand na de beslissing van de pachtkamer bij de grondkamer worden ingediend. Hetzelfde geldt, indien een dergelijke beslissing door de pachtkamer van het gerechtshof Arnhem-Leeuwarden wordt bevestigd dan wel door haar de pachtkamer bij de rechtbank alsnog niet bevoegd wordt verklaard van het verzoek of van de vordering kennis te nemen.
 
 ### Hoofdstuk 6. [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
 
-#### Artikel 46
+##### Artikel 46
 
 Op het bepaalde in deze wet is de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) niet van toepassing.
 
 ### Hoofdstuk 7. Aanpassing wetgeving
 
-#### Artikel 47
+##### Artikel 47
 
 Wijzigt de Gemeentewet.
 
-#### Artikel 48
+##### Artikel 48
 
 Wijzigt de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën.
 
-#### Artikel 49
+##### Artikel 49
 
 Vervallen
 
-#### Artikel 50
+##### Artikel 50
 
 Wijzigt de Onteigeningswet.
 
-#### Artikel 51
+##### Artikel 51
 
 Vervallen
 
-#### Artikel 52
+##### Artikel 52
 
 Wijzigt de Reconstructiewet Midden-Delfland.
 
-#### Artikel 53
+##### Artikel 53
 
 Wijzigt de Wet agrarisch grondverkeer.
 
-#### Artikel 54
+##### Artikel 54
 
 Wijzigt de Wet voorkeursrecht gemeenten.
 
 ### Hoofdstuk 8. Slotartikelen
 
-#### Artikel 55
+##### Artikel 55
 
 De [Pachtwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002269) wordt ingetrokken.
 
-#### Artikel 56
+##### Artikel 56
 
 De [Wet van 28 juli 1924, houdende regeling omtrent het dragen der kosten van openbare verpachtingen en het uitloven van premiën bij openbare verkoopingen en verpachtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0001920), wordt ingetrokken.
 
-#### Artikel 57
+##### Artikel 57
 
 De [Wet van 12 oktober 1995 tot wijziging van de Pachtwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007605) (Stb. 1995, 204) wordt ingetrokken.
 
-#### Artikel 58
+##### Artikel 58
 
 Wijzigt deze wet.
 
-#### Artikel 59
+##### Artikel 59
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 60
+##### Artikel 60
 
 Deze wet wordt aangehaald als: Uitvoeringswet grondkamers.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Op de grondkamers is de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) van toepassing, met uitzondering van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=12), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=14), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=22).
 

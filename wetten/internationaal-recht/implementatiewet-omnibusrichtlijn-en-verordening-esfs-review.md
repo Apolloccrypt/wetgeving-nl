@@ -1,14 +1,42 @@
 ---
-title: "Implementatiewet omnibusrichtlijn en -verordening ESFS-review"
+title: "Wet van 22 augustus 2022 tot wijziging van de Wet op het financieel toezicht en de Wet op de economische delicten ter implementatie van Richtlijn (EU) 2019/2177 en ter uitvoering van Verordening (EU) 2019/2175 tot wijziging van diverse richtlijnen en verordeningen betreffende het Europees systeem voor financieel toezicht (Implementatiewet omnibusrichtlijn en -verordening ESFS-review)"
 identifier: "BWBR0047113"
-categorie: "Internationaal recht"
-publicatiedatum: 2022-09-03
-laatste_update: 2022-09-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047113"
+country: "nl"
+rank: "wet"
+publication_date: "2022-09-03"
+last_updated: "2022-09-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047113"
+soort: "wet"
+stam_id: "16474343"
+version_id: "28866992"
+internal_id: "C40870681"
+label_id: "16396184"
+dtd_version: "2.0"
+original_entry_into_force: "2022-09-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047113/2022-09-03/0"
+intitule_bron: "Stb.2022-340"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-08-22"
+intitule_published: "2022-09-02"
+intitule_in_force: "2022-09-02"
+intitule_status: "goed"
+original_publication: "Stb.2022-340"
+original_signed_date: "2022-08-22"
+original_published_date: "2022-09-02"
+original_effect: "nieuwe-regeling"
+original_dossier: "36073"
+original_url_id: "stb-2022-340"
+entry_into_force_date: "2022-09-03"
+entry_into_force_dossier: "36073"
+jci_1_3: "jci1.3:c:BWBR0047113&z=2022-09-03&g=2022-09-03"
+jci_1_0: "1.0:c:BWBR0047113&g=2022-09-03"
+citeertitel_status: "officieel"
+short_title: "Implementatiewet omnibusrichtlijn en -verordening ESFS-review"
+signed_date: "2022-08-22"
+entry_into_force: "2022-09-03"
 ---
-
-# Implementatiewet omnibusrichtlijn en -verordening ESFS-review
+# Wet van 22 augustus 2022 tot wijziging van de Wet op het financieel toezicht en de Wet op de economische delicten ter implementatie van Richtlijn (EU) 2019/2177 en ter uitvoering van Verordening (EU) 2019/2175 tot wijziging van diverse richtlijnen en verordeningen betreffende het Europees systeem voor financieel toezicht (Implementatiewet omnibusrichtlijn en -verordening ESFS-review)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,19 +44,19 @@ Alzo Wij in overweging genomen hebben, dat het noodzakelijk is om regels te stel
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten‑Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet op het financieel toezicht.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel III
+##### Artikel III
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-#### Artikel IV
+##### Artikel IV
 
 Deze wet wordt aangehaald als: Implementatiewet omnibusrichtlijn en -verordening ESFS-review.
 

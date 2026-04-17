@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling Impuls open leermateriaal"
+title: "Regeling van de Minister voor Primair en Voortgezet Onderwijs van 21 augustus 2023, nr. VO/40200768, houdende regels voor de subsidieverstrekking voor het uitvoeren van projecten van het programma Impuls open Leermateriaal (Subsidieregeling Impuls open leermateriaal)"
 identifier: "BWBR0048594"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-09-19
-laatste_update: 2024-09-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048594"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-09-19"
+last_updated: "2024-09-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048594"
+soort: "ministeriele-regeling"
+stam_id: "16849043"
+version_id: "30327302"
+internal_id: "C43502381"
+label_id: "16761364"
+dtd_version: "2.0"
+original_entry_into_force: "2024-09-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048594/2024-09-19/0"
+intitule_bron: "Stcrt.2023-24277"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-08-21"
+intitule_published: "2023-09-01"
+intitule_in_force: "2023-09-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-30381"
+original_signed_date: "2024-09-17"
+original_published_date: "2024-09-18"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-30381"
+entry_into_force_date: "2024-09-19"
+jci_1_3: "jci1.3:c:BWBR0048594&z=2024-09-19&g=2024-09-19"
+jci_1_0: "1.0:c:BWBR0048594&g=2024-09-19"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling Impuls open leermateriaal"
+signed_date: "2024-09-17"
+entry_into_force: "2024-09-19"
 ---
-
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 21 augustus 2023, nr. VO/40200768, houdende regels voor de subsidieverstrekking voor het uitvoeren van projecten van het programma Impuls open Leermateriaal (Subsidieregeling Impuls open leermateriaal)
 
 Gelet op [artikel 71 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=71), [artikel 5.11 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.11), [artikel 71 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=71), [artikel 67 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=67), de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en[5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -64,11 +90,11 @@ In deze regeling wordt verstaan onder:
 
 - **WVO 2020:** [Wet op het voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Doelgroep en te subsidiëren activiteiten
+##### Artikel 3. Doelgroep en te subsidiëren activiteiten
 
 1. De minister kan in 2023 voor één of meer van de schooljaren 2024–2025, 2025–2026 en 2026–2027 aan een aanvrager subsidie verstrekken voor deelname aan de activiteiten die worden ontwikkeld in het kader van het programma Impuls open leermateriaal.
 
@@ -86,7 +112,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - b. een vakvereniging of een profiel onderwijsorganisatie.
 
-#### Artikel 4. Aanvraag subsidie
+##### Artikel 4. Aanvraag subsidie
 
 1. Indien het project door meerdere partijen wordt uitgevoerd, treedt één van deze partijen als penvoerder op.
 
@@ -94,13 +120,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 3. Op de aanvrager rusten alle aan de subsidie verbonden verplichtingen, ongeacht welke partij feitelijk is belast met de uitvoering van de daarop betrekking hebbende werkzaamheden.
 
-#### Artikel 5. Aanvraagperiode
+##### Artikel 5. Aanvraagperiode
 
 1. De subsidieaanvraag kan in het eerste aanvraagtijdvak worden ingediend in de periode van 13 september 2023 tot en met 1 november 2023, 16:00 uur.
 
 2. Aanvragen die buiten een aanvraagtijdvak worden ingediend, worden afgewezen.
 
-#### Artikel 6. Aanvraagvereisten
+##### Artikel 6. Aanvraagvereisten
 
 1. De subsidie wordt aangevraagd met gebruikmaking van het aanvraagformulier dat daartoe op de website van DUS-I beschikbaar is gesteld.
 
@@ -114,7 +140,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 3. Door het indienen van een aanvraag stemt de subsidieaanvrager ermee in dat het activiteitenplan, met uitzondering van persoonsgegevens, openbaar kan worden gemaakt op de website van DUS-I.
 
-#### Artikel 7. Weigeringsgronden
+##### Artikel 7. Weigeringsgronden
 
 1. Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt een subsidie in elk geval geweigerd:
 
@@ -122,11 +148,11 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - b. indien een aanvraag activiteiten bevat waarvoor reeds middelen zijn verstrekt vanuit het programma Impuls open leermateriaal.
 
-#### Artikel 8. Subsidieplafond
+##### Artikel 8. Subsidieplafond
 
 Voor verstrekking van de subsidie op grond van dit hoofdstuk is voor de schooljaren 2024–2025, 2025–2026 en 2026–2027 in totaal een bedrag beschikbaar van € 3.777.117,–.
 
-#### Artikel 9. Subsidiebedrag
+##### Artikel 9. Subsidiebedrag
 
 1. De subsidie bedraagt ten hoogste € 120.000,– per subsidieaanvraag voor projecten gericht op activiteiten als bedoeld in [artikel 3, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&hoofdstuk=2&artikel=3&z=2024-09-19&g=2024-09-19), verdeeld over de maximale looptijd van drie schooljaren.
 
@@ -140,7 +166,7 @@ Voor verstrekking van de subsidie op grond van dit hoofdstuk is voor de schoolja
 
 6. Een voorschot of betaling van het subsidiebedrag op Caribisch Nederland wordt uitbetaald in US-dollars tegen de op dat moment vastgestelde wisselkoers.
 
-#### Artikel 10. Wijze van verdeling beschikbare middelen
+##### Artikel 10. Wijze van verdeling beschikbare middelen
 
 1. De minister stelt een onafhankelijke beoordelingscommissie in die de minister adviseert over de ingediende subsidieaanvragen.
 
@@ -164,7 +190,7 @@ Voor verstrekking van de subsidie op grond van dit hoofdstuk is voor de schoolja
 
 - b. activiteiten als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&hoofdstuk=2&artikel=3&z=2024-09-19&g=2024-09-19), en activiteiten als bedoeld in artikel 3, tweede lid, onderdeel b.
 
-#### Artikel 11. Subsidieverplichtingen
+##### Artikel 11. Subsidieverplichtingen
 
 In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) worden aan de subsidieontvanger de volgende verplichtingen opgelegd:
 
@@ -176,7 +202,7 @@ In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/j
 
 - d. de subsidieontvanger stelt de activiteiten, genoemd in het project of de resultaten van het project gratis beschikbaar aan het hele onderwijsveld in Nederland. Bij ontwikkeling van open leermateriaal wordt het materiaal ontsloten via de licentie CC BY of CC BY-SA versie 4.0 en gemetadateerd via de publieke open-ict-infrastructuur Edurep.
 
-#### Artikel 12. Subsidievaststelling, betaling en verantwoording voor bekostigde onderwijsinstellingen
+##### Artikel 12. Subsidievaststelling, betaling en verantwoording voor bekostigde onderwijsinstellingen
 
 1. De subsidie wordt voor een bevoegd gezag als bedoeld in [artikel 3, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&hoofdstuk=2&artikel=3&z=2024-09-19&g=2024-09-19), direct vastgesteld binnen 16 weken na de sluitingsdatum van de betreffende aanvraagperiode, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&hoofdstuk=2&artikel=5&z=2024-09-19&g=2024-09-19).
 
@@ -188,7 +214,7 @@ In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/j
 
 5. De minister betaalt het subsidiebedrag in jaarlijkse termijnen. De eerste betaling vindt plaats uiterlijk 6 weken na de beschikkingsdatum. De volgende betalingen vinden plaats op uiterlijk dezelfde datum in de daaropvolgende jaren.
 
-#### Artikel 13. Subsidievaststelling, betaling en verantwoording voor profiel onderwijsorganisaties vakverenigingen bij subsidies tot 25.000,–
+##### Artikel 13. Subsidievaststelling, betaling en verantwoording voor profiel onderwijsorganisaties vakverenigingen bij subsidies tot 25.000,–
 
 1. De subsidie wordt voor een vakvereniging of profiel onderwijsorganisatie als bedoeld in [artikel 3, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&hoofdstuk=2&artikel=3&z=2024-09-19&g=2024-09-19), verleend binnen 16 weken na de sluitingsdatum van de betreffende aanvraagperiode, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&hoofdstuk=2&artikel=5&z=2024-09-19&g=2024-09-19).
 
@@ -200,7 +226,7 @@ In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/j
 
 5. De minister verleent een voorschot van 100% en betaalt het subsidiebedrag in jaarlijkse termijnen. De eerste betaling vindt plaats uiterlijk 6 weken na de beschikkingsdatum. De volgende betalingen vinden plaats op uiterlijk dezelfde datum in de daaropvolgende jaren.
 
-#### Artikel 14. Subsidievaststelling, betaling en verantwoording voor profiel onderwijsorganisaties of vakverenigingen bij subsidies vanaf 25.000,–
+##### Artikel 14. Subsidievaststelling, betaling en verantwoording voor profiel onderwijsorganisaties of vakverenigingen bij subsidies vanaf 25.000,–
 
 1. De subsidie wordt voor een vakvereniging of profiel onderwijsorganisatie als bedoeld in [artikel 3, vierde lid onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&hoofdstuk=2&artikel=3&z=2024-09-19&g=2024-09-19), verleend binnen 16 weken na de sluitingsdatum van de betreffende aanvraagperiode, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&hoofdstuk=2&artikel=5&z=2024-09-19&g=2024-09-19).
 
@@ -214,17 +240,17 @@ In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/j
 
 6. De minister verleent een voorschot van 100% en betaalt het subsidiebedrag in jaarlijkse termijnen. De eerste betaling vindt plaats uiterlijk 6 weken na de beschikkingsdatum. De volgende betalingen vinden plaats op uiterlijk dezelfde datum in de daaropvolgende jaren.
 
-#### Artikel 15. Hardheidsclausule
+##### Artikel 15. Hardheidsclausule
 
 De minister kan één of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing daarvan, gelet op het belang dat de desbetreffende bepaling beoogt te beschermen zou leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 16. Inwerkingtreding en vervaldatum
+##### Artikel 16. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 september 2028, met dien verstande dat de regeling van toepassing blijft ten aanzien van de subsidies die op grond van de regeling zijn verstrekt.
 
-#### Artikel 17. Citeertitel
+##### Artikel 17. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling Impuls open leermateriaal.
 
@@ -248,7 +274,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 3. Aanvraagronde 2024
 
-#### Artikel 14a. Doelgroep en te subsidiëren activiteiten
+##### Artikel 14a. Doelgroep en te subsidiëren activiteiten
 
 1. De minister kan in 2024 voor de looptijd van de schooljaren 2025–2026, 2026–2027 en 2027–2028 aan een aanvrager subsidie verstrekken voor deelname aan activiteiten die worden ontwikkeld in het kader van het programma Impuls open leermateriaal.
 
@@ -292,7 +318,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. voor activiteiten als bedoeld in het tweede lid, onderdeel b, door het bevoegd gezag van een bekostigde onderwijsinstelling.
 
-#### Artikel 14b. Subsidieplafond
+##### Artikel 14b. Subsidieplafond
 
 Voor verstrekking van de subsidie op grond van dit hoofdstuk is voor de schooljaren 2025–2026, 2026–2027 en 2027–2028 in totaal een bedrag beschikbaar van € 2.430.000,–, waarvan:
 
@@ -300,7 +326,7 @@ Voor verstrekking van de subsidie op grond van dit hoofdstuk is voor de schoolja
 
 - b. € 1.080.000,– beschikbaar is voor deelname aan de activiteiten, bedoeld in [artikel 14a, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&hoofdstuk=3&artikel=14a&z=2024-09-19&g=2024-09-19).
 
-#### Artikel 14c. Aanvraag
+##### Artikel 14c. Aanvraag
 
 1. De subsidieaanvraag kan worden ingediend in de periode van 18 september 2024 tot en met 2 november 2024.
 
@@ -308,7 +334,7 @@ Voor verstrekking van de subsidie op grond van dit hoofdstuk is voor de schoolja
 
 3. Ten aanzien van de aanvraag zijn de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&hoofdstuk=2&artikel=4&z=2024-09-19&g=2024-09-19) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&hoofdstuk=2&artikel=6&z=2024-09-19&g=2024-09-19) van overeenkomstige toepassing.
 
-#### Artikel 14d. Subsidiebedrag
+##### Artikel 14d. Subsidiebedrag
 
 1. De subsidie bedraagt ten hoogste € 120.000,– per subsidieaanvraag voor projecten gericht op activiteiten als bedoeld in [artikel 14a, tweede lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&hoofdstuk=3&artikel=14a&z=2024-09-19&g=2024-09-19).
 
@@ -316,11 +342,11 @@ Voor verstrekking van de subsidie op grond van dit hoofdstuk is voor de schoolja
 
 3. Het voorschot en de betaling van het subsidiebedrag op Caribisch Nederland worden uitbetaald in US-dollars tegen de op dat moment vastgestelde wisselkoers.
 
-#### Artikel 14e. Overeenkomstige toepassing weigeringsgronden
+##### Artikel 14e. Overeenkomstige toepassing weigeringsgronden
 
 De weigeringsgronden, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&hoofdstuk=2&artikel=7&z=2024-09-19&g=2024-09-19), zijn van overeenkomstige toepassing voor de subsidieverstrekking op grond van dit hoofdstuk.
 
-#### Artikel 14f. Wijze van verdeling beschikbare middelen
+##### Artikel 14f. Wijze van verdeling beschikbare middelen
 
 1. De onafhankelijke beoordelingscommissie, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&hoofdstuk=2&artikel=10&z=2024-09-19&g=2024-09-19), adviseert de minister over de op grond van dit hoofdstuk ingediende subsidieaanvragen en de rangschikking van de aanvragen op basis van het tweede tot en met vijfde lid.
 
@@ -352,7 +378,7 @@ De weigeringsgronden, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c
 
 5. Naast de in het tweede lid bedoelde criteria wordt, in de beoordeling van aanvragen als bedoeld in [artikel 14a, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&hoofdstuk=3&artikel=14a&z=2024-09-19&g=2024-09-19), door de beoordelingscommissie bij gelijke kwaliteit gestreefd naar een gebalanceerde verdeling tussen de specifieke thema’s.
 
-#### Artikel 14g. Subsidieverplichtingen
+##### Artikel 14g. Subsidieverplichtingen
 
 In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) worden aan de subsidieontvanger de volgende verplichtingen opgelegd:
 
@@ -366,7 +392,7 @@ In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/j
 
 - e. de subsidieontvanger borgt de kwaliteit van activiteiten en ontwikkelde dan wel gebruikte materialen door evidence-informed te werken. De subsidieontvanger maakt daartoe gebruik van het kwaliteitsmodel, opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&bijlage=3&z=2024-09-19&g=2024-09-19) bij deze regeling.
 
-#### Artikel 14h. Subsidievaststelling, betaling en verantwoording
+##### Artikel 14h. Subsidievaststelling, betaling en verantwoording
 
 1. Ten aanzien van de subsidievaststelling, de betaling of bevoorschotting van de subsidie en de verantwoording van de subsidie zijn de [artikelen 12 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&hoofdstuk=2&artikel=12&z=2024-09-19&g=2024-09-19) van overeenkomstige toepassing.
 

@@ -1,14 +1,41 @@
 ---
-title: "Wijzigingswet Wet op de Ruimtelijke Ordening (verjaring van en heffing bij planschadevergoedingsaanspraken, alsmede planschadevergoedingsovereenkomsten)"
+title: "Wet van 8 juni 2005 tot wijziging van de Wet op de Ruimtelijke Ordening (verjaring van en heffing bij planschadevergoedingsaanspraken, alsmede planschadevergoedingsovereenkomsten)"
 identifier: "BWBR0018400"
-categorie: "Belastingrecht"
-publicatiedatum: 2005-09-01
-laatste_update: 2005-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018400"
+country: "nl"
+rank: "wet"
+publication_date: "2005-09-01"
+last_updated: "2005-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018400"
+soort: "wet"
+stam_id: "7104563"
+version_id: "11994142"
+internal_id: "C16084631"
+label_id: "7092484"
+original_entry_into_force: "2005-06-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018400/2005-09-01/0"
+intitule_bron: "Stb.2005-305"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-06-08"
+intitule_published: "2005-06-21"
+intitule_in_force: "2005-06-21"
+intitule_status: "goed"
+original_publication: "Stb.2005-305"
+original_signed_date: "2005-06-08"
+original_published_date: "2005-06-21"
+original_effect: "nieuwe-regeling"
+original_dossier: "29490"
+original_url_id: "stb-2005-305"
+entry_into_force_date: "2005-06-22"
+entry_into_force_dossier: "29490"
+jci_1_3: "jci1.3:c:BWBR0018400&z=2005-09-01&g=2005-09-01"
+jci_1_0: "1.0:c:BWBR0018400&g=2005-09-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingswet Wet op de Ruimtelijke Ordening (verjaring van en heffing bij planschadevergoedingsaanspraken, alsmede planschadevergoedingsovereenkomsten)"
+signed_date: "2005-06-08"
+entry_into_force: "2005-06-22"
 ---
-
-# Wijzigingswet Wet op de Ruimtelijke Ordening (verjaring van en heffing bij planschadevergoedingsaanspraken, alsmede planschadevergoedingsovereenkomsten)
+# Wet van 8 juni 2005 tot wijziging van de Wet op de Ruimtelijke Ordening (verjaring van en heffing bij planschadevergoedingsaanspraken, alsmede planschadevergoedingsovereenkomsten)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,11 +45,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16, eerste lid, van de Tijdelijke referendumwet.
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet op de Ruimtelijke Ordening.
 
-#### Artikel II
+##### Artikel II
 
 1. [Artikel 49 van de Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=49), zoals dat luidde voor het tijdstip van inwerkingtreding van deze wet, blijft van toepassing op aanvragen om vergoeding van schade die voor dat tijdstip zijn ingediend.
 
@@ -30,7 +57,7 @@ Wijzigt de Wet op de Ruimtelijke Ordening.
 
 3. Een aanvraag om vergoeding van schade als bedoeld in [artikel 49, eerste lid, onder d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0002375&artikel=49), moet voorzover de bestemmingsplanbepaling ten behoeve waarvan de aanhouding heeft plaatsgevonden, onderscheidenlijk het deel van het bestemmingsplan op de totstandkoming waarvan de aanwijzing is gericht, voor het tijdstip van inwerkingtreding van deze wet onherroepelijk is geworden, binnen vijf jaar na dat tijdstip worden ingediend.
 
-#### Artikel III
+##### Artikel III
 
 Deze wet treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0018400&artikel=I&z=2005-09-01&g=2005-09-01), dat onder toepassing van [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) in werking treedt met ingang van de dag na de hiervoor aangeduide datum.
 

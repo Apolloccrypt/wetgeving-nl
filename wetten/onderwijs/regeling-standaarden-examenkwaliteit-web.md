@@ -1,36 +1,62 @@
 ---
-title: "Regeling standaarden examenkwaliteit WEB"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 21 augustus 2021, nr. MBO/26721259, houdende vaststelling van de landelijke standaarden voor de kwaliteit van de examens van de beroepsopleidingen (Regeling standaarden examenkwaliteit beroepsonderwijs 2021)"
 identifier: "BWBR0045580"
-categorie: "Onderwijs"
-publicatiedatum: 2022-08-01
-laatste_update: 2022-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045580"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-08-01"
+last_updated: "2022-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045580"
+soort: "ministeriele-regeling"
+stam_id: "16069973"
+version_id: "28779232"
+internal_id: "C40742711"
+label_id: "16001824"
+dtd_version: "2.0"
+original_entry_into_force: "2022-07-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045580/2022-08-01/0"
+intitule_bron: "Stcrt.2021-39863"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-08-21"
+intitule_published: "2021-09-03"
+intitule_in_force: "2021-09-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-18469"
+original_signed_date: "2022-07-05"
+original_published_date: "2022-07-22"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-18469"
+entry_into_force_date: "2022-07-05"
+jci_1_3: "jci1.3:c:BWBR0045580&z=2022-08-01&g=2022-08-01"
+jci_1_0: "1.0:c:BWBR0045580&g=2022-08-01"
+citeertitel_status: "officieel"
+short_title: "Regeling standaarden examenkwaliteit WEB"
+signed_date: "2022-07-05"
+entry_into_force: "2022-07-05"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 21 augustus 2021, nr. MBO/26721259, houdende vaststelling van de landelijke standaarden voor de kwaliteit van de examens van de beroepsopleidingen (Regeling standaarden examenkwaliteit beroepsonderwijs 2021)
 
 Gelet op [artikel 7.4.4 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.4) en [artikel 7.4.5 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=7.4.5);
 
 Besluit:
 
-#### Artikel 1. Standaarden examenkwaliteit beroepsopleidingen
+##### Artikel 1. Standaarden examenkwaliteit beroepsopleidingen
 
 De landelijke standaarden, bedoeld in [artikel 7.4.4 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.4), worden vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045580&bijlage=1&z=2022-08-01&g=2022-08-01) behorend bij deze regeling.
 
-#### Artikel 2. Standaarden examenkwaliteit beroepsopleidingen BES
+##### Artikel 2. Standaarden examenkwaliteit beroepsopleidingen BES
 
 De landelijke standaarden, bedoeld in [artikel 7.4.5 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=7.4.5), worden vastgesteld overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045580&bijlage=2&z=2022-08-01&g=2022-08-01) behorend bij deze regeling.
 
-#### Artikel 3. Intrekking andere regelingen
+##### Artikel 3. Intrekking andere regelingen
 
 De [Regeling standaarden examenkwaliteit mbo 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039422) en de [Regeling standaarden examenkwaliteit mbo BES 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039837) worden ingetrokken.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 5. Citeertitel
+##### Artikel 5. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling standaarden examenkwaliteit WEB.
 
@@ -68,11 +94,11 @@ Er is sprake van onvoldoende examenkwaliteit bij een opleiding als één van de 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2a. Standaarden examenkwaliteit taalschakeltrajecten
+##### Artikel 2a. Standaarden examenkwaliteit taalschakeltrajecten
 
 De landelijke standaarden, bedoeld in de [artikelen 7.4.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.3), en [7.4.4 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.4), worden voor de opleidingen educatie, bedoeld in [artikel 1, tweede lid, van de Regeling aanwijzing opleidingen educatie](https://wetten.overheid.nl/jci1.3:c:BWBR0040019&artikel=1), vastgesteld overeenkomstig [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045580&bijlage=3&z=2022-08-01&g=2022-08-01) behorend bij deze regeling.
 
-#### Artikel 3a. Grondslagen
+##### Artikel 3a. Grondslagen
 
 Deze regeling berust mede op [artikel 7.4.3, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.3).
 

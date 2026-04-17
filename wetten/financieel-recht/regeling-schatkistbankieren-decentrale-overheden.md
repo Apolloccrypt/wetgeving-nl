@@ -1,13 +1,40 @@
 ---
-title: "Regeling schatkistbankieren decentrale overheden"
+title: "Regeling van de Ministers van Financiën, Binnenlandse Zaken en Koninkrijksrelaties en Infrastructuur en Milieu van 5 december 2013 houdende de vaststelling van regels ter uitvoering van het verplicht schatkistbankieren voor decentrale overheden (Regeling schatkistbankieren decentrale overheden)"
 identifier: "BWBR0034336"
-categorie: "Financieel recht"
-publicatiedatum: 2023-10-05
-laatste_update: 2023-10-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034336"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-10-05"
+last_updated: "2023-10-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034336"
+soort: "ministeriele-regeling"
+stam_id: "12472213"
+version_id: "20970872"
+internal_id: "C30134611"
+label_id: "12443004"
+dtd_version: "2.0"
+original_entry_into_force: "2013-12-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034336/2023-10-05/0"
+intitule_bron: "Stcrt.2013-34041"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-12-05"
+intitule_published: "2013-12-13"
+intitule_in_force: "2013-12-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-34041"
+original_signed_date: "2013-12-05"
+original_published_date: "2013-12-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-34041"
+entry_into_force_date: "2013-12-15"
+entry_into_force_dossier: "33540"
+jci_1_3: "jci1.3:c:BWBR0034336&z=2023-10-05&g=2023-10-05"
+jci_1_0: "1.0:c:BWBR0034336&g=2023-10-05"
+citeertitel_status: "redactioneel"
+short_title: "Regeling schatkistbankieren decentrale overheden"
+signed_date: "2013-12-05"
+entry_into_force: "2013-12-15"
 ---
-
 # Regeling van de Ministers van Financiën, Binnenlandse Zaken en Koninkrijksrelaties en Infrastructuur en Milieu van 5 december 2013 houdende de vaststelling van regels ter uitvoering van het verplicht schatkistbankieren voor decentrale overheden (Regeling schatkistbankieren decentrale overheden)
 
 Gelet op [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=2), en [artikel 2b, tweede en derde lid, van de Wet financiering decentrale overheden](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=2b);
@@ -16,7 +43,7 @@ Besluiten:
 
 Treedt in werking op het tijdstip waarop de Wijzigingswet Wet financiering decentrale overheden (verplicht schatkistbankieren) in werking treedt.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -40,7 +67,7 @@ In deze regeling wordt verstaan onder:
 
 - **zero-balancing:** de aanzuivering dan wel de afroming van de tussenrekening ten laste dan wel ten gunste van de rekening-courant.
 
-#### Artikel 2. De tussenrekening
+##### Artikel 2. De tussenrekening
 
 1. Het openbaar lichaam heeft op eigen naam een tussenrekening bij een of meer banken.
 
@@ -54,7 +81,7 @@ In deze regeling wordt verstaan onder:
 
 6. Alle kosten verbonden aan de tussenrekening die banken in rekening brengen bij het openbaar lichaam komen voor rekening van het openbaar lichaam.
 
-#### Artikel 3. De rekening-courant
+##### Artikel 3. De rekening-courant
 
 1. De staat opent op naam van het openbaar lichaam een rekening-courant, waarop het openbaar lichaam de krachtens [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=2) bedoelde middelen aanhoudt.
 
@@ -64,7 +91,7 @@ In deze regeling wordt verstaan onder:
 
 4. Het Ministerie van Financiën mag een debetstand op de rekeningcourant van een openbaar lichaam, nadat een rappel aan het openbaar lichaam is gestuurd om de debetstand op te heffen, verrekenen met een positief saldo op een depositorekening van datzelfde openbaar lichaam als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034336&artikel=4&z=2023-10-05&g=2023-10-05) van deze regeling.
 
-#### Artikel 4. Deposito
+##### Artikel 4. Deposito
 
 1. Een openbaar lichaam kan aan de rekening-courant een depositorekening koppelen.
 
@@ -72,13 +99,13 @@ In deze regeling wordt verstaan onder:
 
 3. Het vervroegd laten vrijvallen van een deposito is uitsluitend mogelijk indien de middelen, of een deel daarvan, benodigd zijn voor het uitoefenen van de publieke taak bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=2). Het vervroegd laten vrijvallen gebeurt tegen de actuele marktwaarde.
 
-#### Artikel 5. De modelovereenkomst
+##### Artikel 5. De modelovereenkomst
 
 1. De modelovereenkomst, bedoeld in [artikel 2b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=2b), is opgenomen in de bij deze regeling behorende bijlage.
 
 2. De staat gebruikt de informatie waarover zij uit hoofde van de rekening-courantovereenkomst beschikt uitsluitend ten behoeve van de uitvoering van de rekening-courantovereenkomst en de verantwoording die daarover moet worden afgelegd.
 
-#### Artikel 6. Rente
+##### Artikel 6. Rente
 
 1. Over de in rekening-courant aangehouden middelen wordt de daggeldrente vergoed.
 
@@ -92,7 +119,7 @@ In deze regeling wordt verstaan onder:
 
 Indien de overeengekomen rentevastperiode minimaal gelijk is aan een jaar en een dag worden zowel het jaar als de periode waarop de rente betrekking heeft op het juiste aantal dagen gesteld, resulterend in de formule ‘actual/actual’.
 
-#### Artikel 7. Uitgezonderde middelen
+##### Artikel 7. Uitgezonderde middelen
 
 1. Uitgezonderd van de verplichting om in de schatkist van het Rijk te worden aangehouden, zijn:
 
@@ -104,11 +131,11 @@ Indien de overeengekomen rentevastperiode minimaal gelijk is aan een jaar en een
 
 2. Het drempelbedrag, genoemd in het eerste lid, onder a, wordt bepaald op basis van het begrotingstotaal van het openbaar lichaam. Voor openbare lichamen met een begrotingstotaal kleiner dan of gelijk aan € 500 miljoen is het drempelbedrag gelijk aan 2,0% van het begrotingstotaal, waarbij het drempelbedrag minimaal € 1 miljoen bedraagt. Voor openbare lichamen met een begrotingstotaal groter dan € 500 miljoen is het drempelbedrag gelijk aan € 10 miljoen, vermeerderd met 0,2% van het deel van het begrotingstotaal dat de € 500 miljoen te boven gaat.
 
-#### Artikel 8. Garantie
+##### Artikel 8. Garantie
 
 De Minister van Financiën kan een garantie toestaan ten aanzien van de liquide middelen die een openbaar lichaam in de schatkist van het Rijk aanhoudt, indien het openbaar lichaam daartoe een verzoek bij de Minister van Financiën heeft ingediend en de liquide middelen, die het in de schatkist van het Rijk aanhoudt, toereikend zijn.
 
-#### Artikel 9. Uitzonderingen
+##### Artikel 9. Uitzonderingen
 
 1. De minister van Financiën kan een openbaar lichaam op diens verzoek uitzonderen van de verplichting, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034336&artikel=2&z=2023-10-05&g=2023-10-05), indien sprake is van een van de volgende omstandigheden:
 
@@ -118,15 +145,15 @@ De Minister van Financiën kan een garantie toestaan ten aanzien van de liquide 
 
 2. Een lijst van de openbare lichamen die zijn uitgezonderd op grond van het eerste lid wordt gepubliceerd op de website van het Agentschap. Een openbaar lichaam dat is uitgezonderd op grond van het eerste lid stelt het Agentschap zo spoedig mogelijk op de hoogte van wijzigingen in de omstandigheden op grond waarvan de uitzondering is verleend.
 
-#### Artikel 10. Overgangsbepalingen
+##### Artikel 10. Overgangsbepalingen
 
 Vervallen
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Deze regeling treedt in werking op het tijdstip dat de wet tot wijziging van de Wet financiering decentrale overheden in verband met het rentedragend aanhouden van liquide middelen in ’s Rijks schatkist (verplicht schatkistbankieren) in werking treedt.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling schatkistbankieren decentrale overheden.
 

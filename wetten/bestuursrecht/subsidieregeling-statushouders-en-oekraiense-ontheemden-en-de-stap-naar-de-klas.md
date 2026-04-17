@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling Statushouders en Oekraïense ontheemden en de stap naar de klas"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 22 juni 2023, nr. VO/1410371, houdende regels voor subsidieverstrekking voor Statushouders en de stap naar de klas (Subsidieregeling Statushouders en de stap naar de klas)"
 identifier: "BWBR0048409"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-09-26
-laatste_update: 2025-09-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048409"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-09-26"
+last_updated: "2025-09-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048409"
+soort: "ministeriele-regeling"
+stam_id: "16805873"
+version_id: "29525032"
+internal_id: "C42210661"
+label_id: "16719474"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048409/2025-09-26/0"
+intitule_bron: "Stcrt.2023-19924"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-06-22"
+intitule_published: "2023-07-17"
+intitule_in_force: "2023-07-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-19924"
+original_signed_date: "2023-06-22"
+original_published_date: "2023-07-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-19924"
+entry_into_force_date: "2023-07-18"
+jci_1_3: "jci1.3:c:BWBR0048409&z=2025-09-26&g=2025-09-26"
+jci_1_0: "1.0:c:BWBR0048409&g=2025-09-26"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling Statushouders en Oekraïense ontheemden en de stap naar de klas"
+signed_date: "2023-06-22"
+entry_into_force: "2023-07-18"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 22 juni 2023, nr. VO/1410371, houdende regels voor subsidieverstrekking voor Statushouders en de stap naar de klas (Subsidieregeling Statushouders en de stap naar de klas)
 
 Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en
@@ -16,7 +42,7 @@ Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artike
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -48,15 +74,15 @@ In deze regeling wordt verstaan onder:
 
 - **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Doel van de regeling en te subsidiëren activiteiten
+##### Artikel 3. Doel van de regeling en te subsidiëren activiteiten
 
 De minister kan aan een bevoegd gezag subsidie verstrekken als tegemoetkoming in de opleidings- en begeleidingskosten die een school maakt voor het bieden van een ondersteuningsprogramma aan een statushouder of Oekraïense ontheemde in de toeleiding naar het beroep van leraar.
 
-#### Artikel 4. Subsidievoorwaarden
+##### Artikel 4. Subsidievoorwaarden
 
 1. De regeling staat open voor statushouders of Oekraïense ontheemden met:
 
@@ -86,7 +112,7 @@ De minister kan aan een bevoegd gezag subsidie verstrekken als tegemoetkoming in
 
 - d. voor een subsidieaanvraag als bedoeld in [artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048409&artikel=5&z=2025-09-26&g=2025-09-26), afspraken met de statushouder of Oekraïense ontheemde waarin staat hoe de subsidieontvanger gedurende een periode van minimaal zes maanden na het verlopen van het ondersteuningsprogramma nazorg krijgt.
 
-#### Artikel 5. Aanvraag subsidie
+##### Artikel 5. Aanvraag subsidie
 
 1. Een bevoegd gezag kan per statushouder of Oekraïense ontheemde één aanvraag voor de subsidie indienen, tot een maximum van vijf aanvragen per bevoegd gezag. Voor iedere statushouder of Oekraïense ontheemde kan één keer subsidie verstrekt worden.
 
@@ -116,7 +142,7 @@ De minister kan aan een bevoegd gezag subsidie verstrekken als tegemoetkoming in
 
 10. Indien een aanvraag onvolledig is, krijgt de aanvrager onder toepassing van [artikel 4:5, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) tien werkdagen de tijd om de aanvraag aan te vullen.
 
-#### Artikel 6. Subsidieplafond en verdeling
+##### Artikel 6. Subsidieplafond en verdeling
 
 1. Voor het verstrekken van subsidie is voor het kalenderjaar 2023 in totaal een bedrag beschikbaar van ten hoogste € 1.000.000,–.
 
@@ -138,15 +164,15 @@ De minister kan aan een bevoegd gezag subsidie verstrekken als tegemoetkoming in
 
 6. Indien na toepassing van het vierde lid het beschikbare bedrag, bedoeld in het tweede lid, onderdeel a, nog niet is uitgeput, wordt het resterende bedrag toegevoegd aan het beschikbare bedrag, bedoeld in het tweede lid, onderdeel b. Indien na toepassing van het vierde lid het beschikbare bedrag, bedoeld in het tweede lid, onderdeel b, nog niet is uitgeput, wordt het resterende bedrag toegevoegd aan het beschikbare bedrag, bedoeld in het tweede lid, onderdeel a. Bij de verdeling van een ingevolge de eerste of tweede volzin toegevoegd budget, zijn het derde en vierde lid van overeenkomstige toepassing.
 
-#### Artikel 7. Subsidiebedrag
+##### Artikel 7. Subsidiebedrag
 
 De subsidie bedraagt € 10.000,– per statushouder of Oekraïense ontheemde.
 
-#### Artikel 8. Afwijzingsgrond
+##### Artikel 8. Afwijzingsgrond
 
 Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt een subsidie in elk geval geweigerd indien de aanvraag niet voldoet aan de in deze regeling gestelde regels.
 
-#### Artikel 9. Subsidieverplichtingen
+##### Artikel 9. Subsidieverplichtingen
 
 In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) worden de volgende verplichtingen opgelegd aan de subsidieontvanger:
 
@@ -158,7 +184,7 @@ In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/j
 
 - 4. de subsidiabele activiteiten worden uiterlijk binnen twee jaar na de subsidieverstrekking afgerond.
 
-#### Artikel 10. Subsidieverstrekking, besteding en verantwoording
+##### Artikel 10. Subsidieverstrekking, besteding en verantwoording
 
 1. De subsidie wordt binnen dertien weken na ontvangst van de aanvraag direct vastgesteld.
 
@@ -172,17 +198,17 @@ In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/j
 
 6. De subsidieontvanger toont op verzoek van de minister aan dat de activiteiten waarvoor subsidie is verstrekt zijn verricht en dat is voldaan aan de subsidieverplichtingen die aan de subsidie verbonden zijn. Het bevoegd gezag werkt mee aan monitoring of evaluatie van deze subsidie.
 
-#### Artikel 11. Hardheidsclausule
+##### Artikel 11. Hardheidsclausule
 
 De minister kan één of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing daarvan, gelet op het belang dat de desbetreffende bepaling beoogt te beschermen zou leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 12. Inwerkingtreding en vervaldatum
+##### Artikel 12. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 augustus 2027, met dien verstande dat zij van toepassing blijft ten aanzien van de subsidies die op grond van deze regeling zijn verstrekt.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling Statushouders en Oekraïense ontheemden en de stap naar de klas.
 

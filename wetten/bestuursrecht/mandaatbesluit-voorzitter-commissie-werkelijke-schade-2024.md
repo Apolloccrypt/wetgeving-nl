@@ -1,13 +1,39 @@
 ---
-title: "Mandaatbesluit voorzitter Commissie Werkelijke Schade 2024"
+title: "Besluit van de secretaris-generaal van het Ministerie van Financiën van 6 januari 2025, kenmerk 2024-0000582936, houdende verlening van ondermandaat aan de voorzitter van de Commissie Werkelijke Schade inzake budget en personeel (Mandaatbesluit voorzitter Commissie Werkelijke Schade 2024)"
 identifier: "BWBR0050690"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-01-22
-laatste_update: 2025-01-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050690"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-22"
+last_updated: "2025-01-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050690"
+soort: "ministeriele-regeling"
+stam_id: "17344783"
+version_id: "30569072"
+internal_id: "C43821311"
+label_id: "17248814"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050690/2025-01-22/0"
+intitule_bron: "Stcrt.2025-2288"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-01-06"
+intitule_published: "2025-01-21"
+intitule_in_force: "2025-01-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-2288"
+original_signed_date: "2025-01-06"
+original_published_date: "2025-01-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-2288"
+entry_into_force_date: "2025-01-22"
+jci_1_3: "jci1.3:c:BWBR0050690&z=2025-01-22&g=2025-01-22"
+jci_1_0: "1.0:c:BWBR0050690&g=2025-01-22"
+citeertitel_status: "officieel"
+short_title: "Mandaatbesluit voorzitter Commissie Werkelijke Schade 2024"
+signed_date: "2025-01-06"
+entry_into_force: "2025-01-22"
 ---
-
 # Besluit van de secretaris-generaal van het Ministerie van Financiën van 6 januari 2025, kenmerk 2024-0000582936, houdende verlening van ondermandaat aan de voorzitter van de Commissie Werkelijke Schade inzake budget en personeel (Mandaatbesluit voorzitter Commissie Werkelijke Schade 2024)
 
 Gelet op de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&artikel=8), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&artikel=12) en [13 van het Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&artikel=13), [artikel 15 van het Mandaatbesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&artikel=15), [artikel 5.1 van de Wet hersteloperatie Toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=5.1), [artikel 5a van de Instellingsregeling Commissie aanvullende schadevergoeding werkelijke schade](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=5a) en [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4) en [10:6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:6),
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - c). **De operationeel directeur van de CWS:** de operationeel directeur als bedoeld in [artikel 5a, tweede lid van de Instellingsregeling Commissie aanvullende schadevergoeding werkelijke schade](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=5a);
 
-#### Artikel 2. Ondervolmacht en ondermachtiging
+##### Artikel 2. Ondervolmacht en ondermachtiging
 
 Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt, tenzij anders bepaald in dit besluit, met de verlening van ondermandaat gelijkgesteld de verlening van:
 
@@ -36,7 +62,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt, ten
 
 ### Hoofdstuk 2. Ondermandaten en ondervolmachten
 
-#### Artikel 3. Personeelsbeleid
+##### Artikel 3. Personeelsbeleid
 
 1. Met inachtneming van de [hoofdstuk 4 van het Mandaatbesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4) wordt een ondermandaat afgegeven aan de voorzitter van de CWS voor de volgende bevoegdheden ten aanzien van medewerkers die taken hoofdzakelijk ten behoeve van CWS verrichten. Het nemen van beslissingen betreffende:
 
@@ -86,7 +112,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt, ten
 
 2. [Artikel 12 van het Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&artikel=12) wordt van overeenkomstige toepassing verklaard.
 
-#### Artikel 4. Budgethouderschap
+##### Artikel 4. Budgethouderschap
 
 1. Aan de voorzitter van de CWS wordt een ondervolmacht afgegeven om financiële verplichtingen aan te gaan namens de Staat der Nederlanden voor zover deze behoren binnen het kader van de tijdelijke CWS.
 
@@ -100,11 +126,11 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt, ten
 
 3. [Artikel 8 van het Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&artikel=8) wordt van overeenkomstige toepassing verklaard.
 
-#### Artikel 5. Mandaat bij afwezigheid/verhindering
+##### Artikel 5. Mandaat bij afwezigheid/verhindering
 
 Bij afwezigheid of verhindering van de voorzitter is de operationeel directeur bevoegd om als diens plaatsvervanger op te treden.
 
-#### Artikel 6. Ondermandaat/volmacht/machtiging
+##### Artikel 6. Ondermandaat/volmacht/machtiging
 
 1. De voorzitter kan enkele bevoegdheden, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050690&hoofdstuk=2&artikel=3&z=2025-01-22&g=2025-01-22) van dit besluit, ondermandateren aan de operationeel directeur als bedoeld in [artikel 5a, tweede lid van de Instellingsregeling Commissie aanvullende schadevergoeding werkelijke schade](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=5a). Het nemen van beslissingen betreffende:
 
@@ -132,24 +158,24 @@ Bij afwezigheid of verhindering van de voorzitter is de operationeel directeur b
 
 3. In een ondermandaat wordt de omvang ervan aangegeven.
 
-#### Artikel 7. Overleg met de secretaris-generaal
+##### Artikel 7. Overleg met de secretaris-generaal
 
 Over vraagstukken betreffende de bevoegdheden die worden genoemd in dit besluit en die van politiek gevoelige of anderszins zwaarwegende aard zijn, treedt de gemandateerde in overleg met de SG voordat van bevoegdheden gebruik wordt gemaakt.
 
-#### Artikel 8. Ondertekening
+##### Artikel 8. Ondertekening
 
 De ondertekening van uitgaande stukken zal luiden overeenkomstig [artikel 6 van het Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&artikel=6).
 
-#### Artikel 9. Instructies
+##### Artikel 9. Instructies
 
 1. De instructies, die de SG kan geven, hebben in ieder geval betrekking op de verantwoordingscyclus binnen de CWS.
 
 2. De bij of krachtens dit besluit gemandateerde of gevolmachtigde bevoegdheden worden uitgeoefend met inachtneming van de gegeven instructies.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin dit besluit wordt geplaatst en werkt terug tot en met 18 oktober 2024.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Dit besluit wordt aangehaald als: Mandaatbesluit voorzitter Commissie Werkelijke Schade 2024. Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

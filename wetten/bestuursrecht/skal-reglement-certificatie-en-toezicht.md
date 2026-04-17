@@ -1,13 +1,38 @@
 ---
 title: "Skal-Reglement Certificatie en Toezicht"
 identifier: "BWBR0052005"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052005"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052005"
+soort: "zbo"
+stam_id: "17688883"
+version_id: "31213912"
+internal_id: "C44647461"
+label_id: "17588294"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052005/2026-01-01/0"
+intitule_bron: "Stcrt.2025-42672"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-09"
+intitule_published: "2025-12-16"
+intitule_in_force: "2025-12-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-42672"
+original_signed_date: "2025-12-09"
+original_published_date: "2025-12-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-42672"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0052005&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0052005&g=2026-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2025-12-09"
+entry_into_force: "2026-01-01"
 ---
-
 # Skal-Reglement Certificatie en Toezicht
 
 Dit reglement is door het bestuur van stichting Skal vastgesteld op, 26-11-2025
@@ -20,7 +45,7 @@ De regelgeving voor biologische productie bestaat uit Europese verordeningen, Ne
 
 De verschillende inspectietypes worden gedefinieerd. In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052005&bijlage=1&z=2026-01-01&g=2026-01-01) vindt u het overzicht van de maatregelen die Skal als controleautoriteit of als bevoegde autoriteit op basis van de basisverordening en controleverordening bevoegd is te nemen bij geconstateerde tekortkomingen in de naleving (zogenoemde non-conformiteiten) bij exploitanten van de regelgeving voor biologische productie.
 
-#### Artikel 1. Voorwerp
+##### Artikel 1. Voorwerp
 
 In dit reglement worden de beginselen van de certificatie voor biologische productie vastgesteld alsmede registratie, productregistratie en controle. Ook het toezicht op de plantaardige productie, dierlijke productie en het bewerken, verwerken en verhandelen van biologische producten in Nederland valt onder dit reglement.
 
@@ -28,13 +53,13 @@ De grondslag voor de taken van Skal vormt de aanwijzing van Skal als controleaut
 
 Daarnaast is Skal geaccrediteerd conform de ISO/IEC 17065:2012 voor de borging van de kwaliteit van controle- en toezichtprocessen.
 
-#### Artikel 2. Toepassingsgebied
+##### Artikel 2. Toepassingsgebied
 
 Dit reglement is van toepassing op elke exploitant die, in elk stadium van de biologische productie, bereiding of distributie, betrokken is bij activiteiten met betrekking tot de in artikel 2 van [Verordening (EU) 2018/848](32018R0848) genoemde producten.
 
 In dit reglement Certificatie en Toezicht staan de regels ter uitvoering van de biologische certificatie door Skal. De verschillende inspectietypes worden gedefinieerd.
 
-#### Artikel 3. Definities
+##### Artikel 3. Definities
 
 Aanvullend op definities uit [verordening 2018/848](32748R2018) heeft Skal de volgende begrippen toegelicht.
 
@@ -56,7 +81,7 @@ Aanvullend op definities uit [verordening 2018/848](32748R2018) heeft Skal de vo
 
 - 9. **Onderaannemer:** exploitanten aan wie activiteiten worden uitbesteed en op wie volledig dan wel deels de verantwoordelijkheid voor de biologische productie schriftelijk is overgedragen.
 
-#### Artikel 4. Certificatievoorwaarden
+##### Artikel 4. Certificatievoorwaarden
 
 1. De leveringsvoorwaarden van de exploitant mogen niet in strijd zijn met dit reglement. Wanneer dit wel het geval is, prevaleren de bepalingen van dit reglement.
 
@@ -64,11 +89,11 @@ Aanvullend op definities uit [verordening 2018/848](32748R2018) heeft Skal de vo
 
 3. Skal kan de uitvoering van toelatingsonderzoeken en/of inspectie na het verstrekken of hernieuwen van een bio-certificaat, of onderdelen daarvan, uitbesteden aan derden (onafhankelijke en onpartijdige deskundigen, onderzoek- of inspectie-instellingen of laboratoria), voor zover de publieke voorschriften zich daar niet tegen verzetten.
 
-#### Artikel 5. Overeenkomst tussen exploitant en Skal
+##### Artikel 5. Overeenkomst tussen exploitant en Skal
 
 Voor de uitvoering van de aanmelding en/of het afgeven van een bio-certificaat en het toezicht sluiten de exploitant en Skal een overeenkomst. De overeenkomst komt tot stand nadat Skal een volledig ingevuld en ondertekend aanmeldingsformulier inclusief bijbehorende bijlagen heeft ontvangen, en Skal de aanmelding aan de exploitant schriftelijk heeft bevestigd.
 
-#### Artikel 6. Certificaathouder
+##### Artikel 6. Certificaathouder
 
 1. Alleen exploitanten die activiteiten uitvoeren genoemd in [Verordening (EU) 2018/848](32018R0848) kunnen beschikken over een bio-certificaat (‘certificaathouder zijn’).
 
@@ -86,7 +111,7 @@ Voor de uitvoering van de aanmelding en/of het afgeven van een bio-certificaat e
 
 5. De exploitant moet Skal onmiddellijk op de hoogte stellen van wijzigingen of het ontstaan van situaties die direct verband (kunnen) hebben met het al dan niet voldoen aan de gestelde eisen. Skal stelt daarop vast of aanvullend onderzoek noodzakelijk is en stelt de exploitant daarvan op de hoogte. Indien aanvullend onderzoek nodig is kan Skal het bio-certificaat opschorten. De opschorting wordt opgeheven zodra Skal de exploitant van het positieve resultaat van het aanvullend onderzoek op de hoogte heeft gesteld.
 
-#### Artikel 7. bio-certificaat
+##### Artikel 7. bio-certificaat
 
 1. Een bio-certificaat van Skal betekent dat:
 
@@ -102,7 +127,7 @@ Voor de uitvoering van de aanmelding en/of het afgeven van een bio-certificaat e
 
 5. De geldigheid van het bio-certificaat vervalt bij beëindiging van de aanmelding bij Skal en/of beëindiging van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052005&artikel=5&z=2026-01-01&g=2026-01-01) van dit reglement bedoelde overeenkomst tussen Skal en de exploitant.
 
-#### Artikel 8. Etikettering van biologische producten
+##### Artikel 8. Etikettering van biologische producten
 
 1. Nadat door Skal het bio-certificaat is afgegeven heeft de exploitant de plicht om aanduidingen aan te brengen op producten die onder het bio-certificaat als biologisch in de handel worden gebracht.
 
@@ -110,7 +135,7 @@ Voor de uitvoering van de aanmelding en/of het afgeven van een bio-certificaat e
 
 3. Producten die niet voldoen aan of die niet zijn voortgebracht volgens de in de certificatievoorwaarden gestelde eisen, mogen niet worden voorzien van een biologische aanduiding. De exploitant is verplicht om hierop toe te zien en eventueel reeds aangebrachte aanduidingen te verwijderen.
 
-#### Artikel 9. Vergoedingen
+##### Artikel 9. Vergoedingen
 
 Van de tariefvergoeding die de exploitant verplicht is te betalen (bijdrage) aan Skal, zijn de aard, de hoogte en de overige voorwaarden geregeld in:
 
@@ -118,7 +143,7 @@ Van de tariefvergoeding die de exploitant verplicht is te betalen (bijdrage) aan
 
 - −. het jaarlijks vastgestelde Skal-Tarievenblad (R16).
 
-#### Artikel 10. Openbaarmaking
+##### Artikel 10. Openbaarmaking
 
 1. De exploitant mag publiceren dat zijn activiteiten gecertificeerd zijn, maar uitsluitend en ondubbelzinnig voor de in het bio-certificaat gespecificeerde producten of activiteiten. Elke andere wijze van openbaarmaking wordt door Skal beschouwd als oneigenlijk gebruik van het bio-certificaat.
 
@@ -130,7 +155,7 @@ Van de tariefvergoeding die de exploitant verplicht is te betalen (bijdrage) aan
 
 ### Het verstrekken van een bio-certificaat
 
-#### Artikel 11. Procedure
+##### Artikel 11. Procedure
 
 1. Skal zal een exploitant die daarom verzoekt op de hoogte stellen van de hoofdzaken van de aanvraagprocedure, de daarbij te hanteren werkwijze en kosten.
 
@@ -140,7 +165,7 @@ Van de tariefvergoeding die de exploitant verplicht is te betalen (bijdrage) aan
 
 4. De exploitant mag niet de indruk wekken dat de producten of activiteiten, waarvoor hij een aanvraag heeft ingediend, zijn gecertificeerd zolang het aangevraagde bio-certificaat niet is verstrekt. Overtreding van deze bepaling wordt door Skal beschouwd als oneigenlijk gebruik van het bio-certificaat in de zin van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0052005&artikel=20&z=2026-01-01&g=2026-01-01) van dit reglement.
 
-#### Artikel 12. Toelatingsonderzoek
+##### Artikel 12. Toelatingsonderzoek
 
 1. Het toelatingsonderzoek vindt plaats aan de hand van de geldende certificatievoorwaarden, en omvat tenminste:
 
@@ -200,7 +225,7 @@ Van de tariefvergoeding die de exploitant verplicht is te betalen (bijdrage) aan
 
 11. Degene die het toelatingsonderzoek heeft uitgevoerd legt zijn bevindingen vast in een rapport. Dit rapport wordt digitaal verwerkt en de exploitant krijgt deze per mail toegestuurd.
 
-#### Artikel 13. Besluit op de certificatieaanvraag
+##### Artikel 13. Besluit op de certificatieaanvraag
 
 Skal beslist over de aanvraag binnen een maand nadat het onderzoek en de rapportage daarover zijn afgerond. Het certificatiebesluit wordt meegedeeld aan de exploitant.
 
@@ -208,7 +233,7 @@ Skal beslist over de aanvraag binnen een maand nadat het onderzoek en de rapport
 
 - −. Bij een negatief certificatiebesluit wijst Skal de aanvraag af onder vermelding van de redenen die tot dit besluit hebben geleid. Hiermee vervalt de met de exploitant gesloten in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052005&artikel=5&z=2026-01-01&g=2026-01-01) van dit reglement bedoelde overeenkomst en wordt de exploitant uitgeschreven tenzij er nog een in artikel 5 van dit reglement bedoelde overeenkomst voor een ander product of activiteiten bestaat of wanneer de exploitant wel onder de aanmeldplicht valt.
 
-#### Artikel 14. Beëindiging van de aanvraag
+##### Artikel 14. Beëindiging van de aanvraag
 
 1. Indien bij de behandeling van de aanvraag, naar het oordeel van Skal, blijkt dat de exploitant geen of onvoldoende maatregelen treft om te voldoen aan de gestelde eisen of onvoldoende medewerking verleent om dit aan te tonen, kan Skal de behandeling van de certificatieaanvraag beëindigen.
 
@@ -218,7 +243,7 @@ Skal beslist over de aanvraag binnen een maand nadat het onderzoek en de rapport
 
 4. Bij beëindiging van de aanvraag eindigt de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052005&artikel=5&z=2026-01-01&g=2026-01-01) van dit reglement bedoelde overeenkomst en wordt de exploitant uitgeschreven, tenzij er nog een in artikel 5 van dit reglement bedoelde overeenkomst voor een ander product en/of activiteit(en) bestaat of wanneer de exploitant wel onder het toezicht valt.
 
-#### Artikel 15. Registratie van een product
+##### Artikel 15. Registratie van een product
 
 Om een product op het biologische certificaat te laten vermelden kan de exploitant een productregistratie aanvragen bij Skal.
 
@@ -232,25 +257,25 @@ Om een product op het biologische certificaat te laten vermelden kan de exploita
 
 ### Toezicht
 
-#### Artikel 16. Algemeen
+##### Artikel 16. Algemeen
 
 Het toezicht door Skal strekt zich uit tot aangemelde en niet-aangemelde exploitanten en wordt uitgevoerd door toezichthouders, in de zin van [artikel 5:11 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:11), aangewezen op grond van [artikel 15 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=15) en [artikel 26 van de Landbouwkwaliteitsregeling 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&artikel=26), [artikel 8.1 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.1), [artikel 2.10 van het Besluit Dierlijke Producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=2.10) en [artikel 2.5 van het Besluit Diervoeders](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&artikel=2.5).
 
-#### Artikel 17. Risicoclassificatie
+##### Artikel 17. Risicoclassificatie
 
 Voor de uitvoering van officiële controles en andere officiële activiteiten om de naleving van de eisen van [verordening (EU) 2018/848](32018R0848) na te gaan, ter waarborging van de biologische status in alle stadia van de productie, bereiding en distributie, zijn er in de verordeningen controleregels opgesteld.
 
 Voor de invulling van de controles vereist [Verordening (EU) 2018/848](32018R0848), artikel 38 dat een risicoanalyse/ risicoclassificatie wordt gemaakt van de gecertificeerde exploitanten. Op basis van deze risicoclassificatie worden de exploitanten ingedeeld. Op basis van de indeling wordt een exploitant meer, minder vaak geïnspecteerd.
 
-#### Artikel 17 bis. Risicomodel
+##### Artikel 17 bis. Risicomodel
 
 Op basis van de minimale verplichte punten uit de verordening en aanvullende punten wordt er jaarlijks door Skal op basis van een risicomodel een risicoclassificatie gemaakt. De uitgangspunten van het risicomodel zijn te vinden op de website van Skal. De uitkomst van de berekening door het risicomodel geeft een rangschikking van de gecertificeerde exploitanten. Exploitanten die rechtstreeks aan consumenten verkopen vallen in de categorie “Verkoop aan consumenten”.
 
-#### Artikel 17 ter. Risico hoog, normaal en laag
+##### Artikel 17 ter. Risico hoog, normaal en laag
 
 [Verordening (EU) 2018/848](32018R0848) artikel 38 beschrijft dat de verschillende risicoclassificaties een verschillende hoeveelheid inspecties per periode kunnen krijgen. Lid 3 beschrijft dat alle exploitanten minimaal éénmaal per jaar geïnspecteerd moeten worden. Wanneer aan specifiek beschreven voorwaarden is voldaan mag volgens lid 3 een exploitant éénmaal per 24 maanden geïnspecteerd worden. Skal zal dat aangeven als laag risico. Lid 4 geeft aan dat hoog risico exploitanten extra controles moeten krijgen. Skal hanteert als hoog risico de bovenste 10% van de ranking uit het risicomodel. Deze exploitanten zullen in het toezichtarrangement ‘Hoog risico’ ingedeeld worden en jaarlijks een tweede inspectie krijgen. De overige exploitanten die niet in het risico laag of hoog vallen worden ingedeeld in de categorie normaal risico.
 
-#### Artikel 18. Toezichtarrangementen
+##### Artikel 18. Toezichtarrangementen
 
 Om het risico gebaseerde toezicht in te richten is een model gemaakt waarin de exploitanten worden ingedeeld. Dit model bestaat uit vijf categorieën. De categorieën die gelden zijn:
 
@@ -264,7 +289,7 @@ Om het risico gebaseerde toezicht in te richten is een model gemaakt waarin de e
 
 - −. De categorie niet aangemeld of gecertificeerd. Deze categorie betreft het toezicht dat Skal houdt op de gehele markt in Nederland op het gebruik van biologische aanduidingen.
 
-#### Artikel 19. Inspecties
+##### Artikel 19. Inspecties
 
 1. Skal voert regelmatig inspecties uit om de naleving door de exploitanten te controleren. Deze inspecties vinden in principe éénmaal per kalenderjaar op willekeurige tijdstippen plaats op het bedrijf van de exploitant.
 
@@ -314,7 +339,7 @@ Bij exploitanten die in de laag risico categorie vallen zal er minimaal eens in 
 
 7. Skal verstrekt aan de exploitant een rapport over de uitgevoerde inspectie. Dit inspectierapport wordt mede ondertekend voor gezien door de exploitant zoals wordt verplicht door [verordening (EU) 2018/848](32018R0848) artikel 38 lid 6.
 
-#### Artikel 20. Oneigenlijk gebruik van biocertificaten en -aanduidingen
+##### Artikel 20. Oneigenlijk gebruik van biocertificaten en -aanduidingen
 
 1. Skal ziet er op toe dat geen oneigenlijk gebruik wordt gemaakt van biocertificaten en biologische aanduidingen door exploitant of door derden. Als oneigenlijk gebruik wordt in ieder geval beschouwd:
 
@@ -334,7 +359,7 @@ Bij exploitanten die in de laag risico categorie vallen zal er minimaal eens in 
 
 ### Catalogus van maatregelen
 
-#### Artikel 21. Algemeen
+##### Artikel 21. Algemeen
 
 Maatregelen bij non-conformiteiten:
 
@@ -352,7 +377,7 @@ Maatregelen bij non-conformiteiten:
 
 - 7. Skal publiceert bij intrekking van het bio-certificaat of de registratie, conform [artikel 10 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052005&artikel=10&z=2026-01-01&g=2026-01-01) van dit reglement, informatie met betrekking tot de intrekking op haar website.
 
-#### Artikel 22. Opmerking en indeling van NC’s in categorieën
+##### Artikel 22. Opmerking en indeling van NC’s in categorieën
 
 1. Opmerking (een aandachtspunt dat opvolging verdiend):
 
@@ -380,7 +405,7 @@ De ernstige NC moet binnen de gestelde termijn van maximaal 3 maanden structuree
 
 Een kritieke NC kent geen hersteltermijn. De exploitant moet per direct de kritieke NC herstellen (Critical Non-Conformity).
 
-#### Artikel 22 bis. Herstel non-conformiteiten (NC’s)
+##### Artikel 22 bis. Herstel non-conformiteiten (NC’s)
 
 Een NC wordt, afhankelijk van de ernst, op onderstaande wijze afgehandeld.
 
@@ -396,15 +421,15 @@ Een NC wordt, afhankelijk van de ernst, op onderstaande wijze afgehandeld.
 
 - 6. Een bio-certificaat wordt slechts verstrekt c.q. uitgebreid, indien bij het toelatingsonderzoek is vastgesteld dat geen NC’s (meer) aanwezig zijn. Indien bij het toelatingsonderzoek een NC wordt geconstateerd zal dus geen bio-certificaat worden verstrekt of uitgebreid, totdat deze NC is opgeheven.
 
-#### Artikel 22 ter. Verwijdering biologische aanduiding
+##### Artikel 22 ter. Verwijdering biologische aanduiding
 
 Bij een kritieke NC op productniveau moet elke verwijzing naar de biologische productiemethode van de betreffende producten verwijderd worden. Bij andere NC’s kan de verplichting worden opgelegd de biologisch aanduiding(en) te verwijderen van of deze niet aan te brengen op de betreffende producten.
 
-#### Artikel 22 quater. Verscherpt toezicht
+##### Artikel 22 quater. Verscherpt toezicht
 
 Verscherpt toezicht bestaat uit gerichte en herinspectie(s) die bij de exploitant in rekening worden gebracht volgens het geldende tarievenblad en is gericht op het structurele herstel van vastgestelde NC's.
 
-#### Artikel 23. Opschorting van het bio-certificaat of deel/scope daarvan
+##### Artikel 23. Opschorting van het bio-certificaat of deel/scope daarvan
 
 1. Een bio-certificaat of deel/scope daarvan kan door Skal worden opgeschort in de volgende gevallen:
 
@@ -428,7 +453,7 @@ Verscherpt toezicht bestaat uit gerichte en herinspectie(s) die bij de exploitan
 
 5. Opschorting van het bio-certificaat houdt tevens in dat de exploitant gedurende de periode waarin de opschorting van het bio-certificaat van kracht is, geen recht heeft op een (her)nieuw(d) bio-certificaat voor dezelfde scope(s) of sterk overeenkomende activiteit of product als waarop het opschortingsbesluit ziet.
 
-#### Artikel 24. Intrekking van het bio-certificaat of deel/scope daarvan
+##### Artikel 24. Intrekking van het bio-certificaat of deel/scope daarvan
 
 1. Een bio-certificaat of deel daarvan kan door Skal met onmiddellijke ingang worden ingetrokken in de volgende gevallen:
 
@@ -458,7 +483,7 @@ Verscherpt toezicht bestaat uit gerichte en herinspectie(s) die bij de exploitan
 
 7. Voordat de periode van intrekking van het bio-certificaat is afgelopen, controleert Skal op de naleving als bedoeld in de leden 1 t/m 4 van artikel 38 van de basisverordening. Na een positief resultaat op de verificatie van de naleving, wordt het bio-certificaat hernieuwd (afgegeven).
 
-#### Artikel 24 bis. Beëindiging van de aanmelding/registratie en/of de overeenkomst
+##### Artikel 24 bis. Beëindiging van de aanmelding/registratie en/of de overeenkomst
 
 1. De aanmelding/registratie bij Skal en/of de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052005&artikel=5&z=2026-01-01&g=2026-01-01) van dit reglement bedoelde overeenkomst kunnen met onmiddellijke ingang worden beëindigd indien:
 
@@ -486,7 +511,7 @@ Deze beëindiging moet per brief aan de andere partij worden meegedeeld, onder v
 
 5. Tot en met negen maanden na beëindiging van de aanmelding/registratie bij Skal en/of de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052005&artikel=5&z=2026-01-01&g=2026-01-01) van dit reglement bedoelde overeenkomst, blijft de exploitant verplicht om alle inlichtingen aan Skal te verschaffen, die Skal nodig acht voor de afhandeling en/of verificatie van de (contractuele) verplichtingen van de exploitant.
 
-#### Artikel 25. Tuchtrecht
+##### Artikel 25. Tuchtrecht
 
 1. Skal kan bij een ernstige of kritieke NC overwegen een Tuchtrechtelijke Verklaring (TV) aan te zeggen ten behoeve van het kunnen opleggen van een sanctie. Een Tuchtrechtelijke Verklaring wordt, ter afhandeling voorgelegd aan het Tuchtgerecht.
 
@@ -496,7 +521,7 @@ Deze beëindiging moet per brief aan de andere partij worden meegedeeld, onder v
 
 ### Klachten, bezwaar en beroep
 
-#### Artikel 26. Klachten
+##### Artikel 26. Klachten
 
 1. Skal behoudt zich het recht voor om naar aanleiding van een ontvangen klacht, aangebracht door een derde, over een exploitant een onafhankelijk onderzoek in te stellen.
 
@@ -508,13 +533,13 @@ Deze beëindiging moet per brief aan de andere partij worden meegedeeld, onder v
 
 5. Wanneer een klacht niet naar tevredenheid van de klager is afgehandeld kan deze zijn bevindingen binnen één jaar voorleggen aan de Nationale ombudsman.
 
-#### Artikel 27. Bezwaar
+##### Artikel 27. Bezwaar
 
 1. Tegen een schriftelijk besluit van Skal kan door belanghebbenden binnen een termijn van zes weken na dagtekening van het betrokken schriftelijke besluit bezwaar worden ingediend bij de Skal-commissie bezwaarschriften, overeenkomstig het Skal-Reglement bezwaar.
 
 2. Het maken van bezwaar laat het besluit of de maatregel van Skal onverlet, tenzij bij of krachtens wettelijk voorschrift anders is bepaald, totdat dienaangaande een uitspraak is gedaan.
 
-#### Artikel 28. Beroep
+##### Artikel 28. Beroep
 
 1. Het instellen van beroep tegen een beslissing op bezwaar vindt plaats overeenkomstig het Skal-Reglement bezwaar (R17).
 
@@ -524,17 +549,17 @@ Deze beëindiging moet per brief aan de andere partij worden meegedeeld, onder v
 
 ### Overige bepalingen
 
-#### Artikel 29. Arbeidsomstandigheden
+##### Artikel 29. Arbeidsomstandigheden
 
 De exploitant dient er zorg voor te dragen dat de arbeidsomstandigheden in zijn bedrijf en op plaatsen waar de werkzaamheden worden uitgevoerd zodanig zijn dat geen gevaar bestaat voor de veiligheid en de gezondheid van medewerkers van Skal en de door Skal ingeschakelde derden als bedoeld in [artikel 4 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052005&artikel=4&z=2026-01-01&g=2026-01-01) van dit Reglement bij de uitvoering van hun werkzaamheden. Zo nodig dient de exploitant veiligheidsmiddelen ter beschikking te stellen met de daarbij behorende instructie.
 
-#### Artikel 30. Geheimhouding
+##### Artikel 30. Geheimhouding
 
 1. Skal medewerkers zijn ambtenaren in de zin van [artikel 1, eerste lid, van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1), daarbij gelet op [artikel 2, eerste lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=2), van genoemde wet, en zijn op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=9) van die wet verplicht tot geheimhouding tegenover derden, met uitzondering van het bevoegd gezag1Onder het bevoegd gezag wordt verstaan het bevoegd gezag van een ander EU-lidstaat en door dit bevoegd gezag erkende controleorganisaties c.q. toezichthoudende organisaties in de uitvoering van hun wettelijke taken., over alle gegevens, waarvan zij kennisnemen in het kader van hun werkzaamheden voor Skal. Skal is een overheidswerkgever en voert conform [artikel 4 van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=4) een integriteitsbeleid uit dat onder andere gericht is op het bevorderen van goed en integer handelen van het personeel en zorgt voor het afleggen van de eed of belofte van Skal medewerkers als bedoeld in [artikel 5, eerste lid, onder a, van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=5).
 
 2. Bij de inschakeling van derden bij de uitvoering van de werkzaamheden voor Skal zullen deze een verklaring ondertekenen, waarin de geheimhoudingsplicht als bedoeld in het eerste lid is geregeld.
 
-#### Artikel 31. Wijziging van dit reglement
+##### Artikel 31. Wijziging van dit reglement
 
 1. Skal informeert exploitanten tijdig over een te verwachten wijziging van dit reglement, de datum van inwerkingtreding en de eventuele overgangstermijn. Wanneer de exploitant niet akkoord gaat met de wijzigingen moet hij dit binnen een door Skal gestelde termijn schriftelijk melden. In dat geval zal op de datum waarop het gewijzigde reglement in werking treedt:
 
@@ -544,13 +569,13 @@ De exploitant dient er zorg voor te dragen dat de arbeidsomstandigheden in zijn 
 
 - −. de geldigheid van het bio-certificaat zijn vervallen.
 
-#### Artikel 32. Aansprakelijkheid
+##### Artikel 32. Aansprakelijkheid
 
 1. Skal is jegens de exploitant aansprakelijk voor tekortkomingen in de uitvoering van haar werkzaamheden, voor zover deze het gevolg zijn van het niet in acht nemen door Skal van de zorgvuldigheid, deskundigheid en het vakmanschap waarop bij het uitvoeren van de werkzaamheden mag worden vertrouwd.
 
 2. Eventuele aanspraken van de exploitant dienen binnen één jaar na het ontstaan van de schade te zijn ingediend, bij gebreke waarvan de exploitant zijn rechten heeft verwerkt.
 
-#### Artikel 33. Slotbepalingen
+##### Artikel 33. Slotbepalingen
 
 1. Dit reglement vervangt alle voorgaande versies van het Skal-Reglement Certificatie en Toezicht.
 

@@ -1,20 +1,45 @@
 ---
 title: "Beleidsregels Scholing en voorwaarden vergoeding scholingskosten UWV 2026"
 identifier: "BWBR0052200"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2026-01-20
-laatste_update: 2026-01-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052200"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-20"
+last_updated: "2026-01-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052200"
+soort: "zbo"
+stam_id: "17736783"
+version_id: "31339912"
+internal_id: "C44790411"
+label_id: "17635244"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052200/2026-01-20/0"
+intitule_bron: "Stcrt.2026-1079"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-09"
+intitule_published: "2026-01-19"
+intitule_in_force: "2026-01-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-1079"
+original_signed_date: "2025-12-09"
+original_published_date: "2026-01-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-1079"
+entry_into_force_date: "2026-01-20"
+jci_1_3: "jci1.3:c:BWBR0052200&z=2026-01-20&g=2026-01-20"
+jci_1_0: "1.0:c:BWBR0052200&g=2026-01-20"
+citeertitel_status: "officieel"
+signed_date: "2025-12-09"
+entry_into_force: "2026-01-20"
 ---
-
 # Beleidsregels Scholing en voorwaarden vergoeding scholingskosten UWV 2026
 
 Gelet op het bepaalde in [artikel 65f Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65f), [artikel 67d Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67d), [artikelen 26 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=26) en [34 Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34), [artikelen 2:18](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:18) en [3:66 Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:66), [artikel 76 Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=76), [artikel 11 Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=11) en [artikel 30a Wet Suwi](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30a);
 
 besluit:
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In deze beleidsregels wordt verstaan onder:
 
@@ -74,11 +99,11 @@ In deze beleidsregels wordt verstaan onder:
 
 ### Onderdeel A. Bepalen inzet en noodzaak tot scholing
 
-#### Artikel 2. Scholing is de meest effectieve en efficiënte weg naar duurzaam werk
+##### Artikel 2. Scholing is de meest effectieve en efficiënte weg naar duurzaam werk
 
 Cliënten kunnen uitsluitend met instemming van UWV een scholing met behoud van uitkering volgen als er een noodzaak bestaat om duurzaam aan het werk te komen. De scholing vormt voor de cliënt – gelet op diens persoonlijke situatie – de meest effectieve en efficiënte weg naar duurzaam werk.
 
-#### Artikel 3. Noodzaak tot scholing
+##### Artikel 3. Noodzaak tot scholing
 
 1. Er is sprake van een noodzaak tot het volgen van scholing als aan **alle** navolgende vereisten is voldaan:
 
@@ -90,7 +115,7 @@ Cliënten kunnen uitsluitend met instemming van UWV een scholing met behoud van 
 
 2. Wanneer de duur van de scholing maximaal 4 weken bedraagt, dan gaat UWV er vanuit dat de cliënt schoolbaar is.
 
-#### Artikel 4. Arbeidsmarktrelevantie van de scholing
+##### Artikel 4. Arbeidsmarktrelevantie van de scholing
 
 Een scholing is arbeidsmarktrelevant als bedoeld in [artikel 3, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0052200&deel=A&artikel=3&z=2026-01-20&g=2026-01-20), als aan één van de navolgende vereisten is voldaan:
 
@@ -100,7 +125,7 @@ Een scholing is arbeidsmarktrelevant als bedoeld in [artikel 3, sub a](https://w
 
 - c). De cliënt maakt naar genoegen van UWV inzichtelijk dat hij na het volgen van de scholing een reële kans heeft op (duurzaam) werk in dienstbetrekking of om als zelfstandig ondernemer in zijn levensonderhoud te kunnen voorzien. De cliënt maakt hiervoor inzichtelijk tot welk (zelfstandig) beroep of functie de scholing opleidt. Wil de cliënt in een dienstbetrekking gaan werken, dan geeft hij inzicht in de vacatures die hij na het afronden van zijn scholing kan vervullen. Wil de cliënt als zelfstandig ondernemer gaan werken dan maakt de cliënt inzichtelijk op welke wijze hij na het volgen van de scholing als zelfstandig ondernemer in zijn onderhoud kan voorzien.
 
-#### Artikel 5. Maximum duur van de scholing
+##### Artikel 5. Maximum duur van de scholing
 
 1. De scholing mag maximaal één jaar duren.
 
@@ -108,7 +133,7 @@ Een scholing is arbeidsmarktrelevant als bedoeld in [artikel 3, sub a](https://w
 
 3. In afwijking van het eerste en tweede lid, kan UWV in individuele gevallen een langere scholingsduur toestaan.
 
-#### Artikel 6. Schoolbaar
+##### Artikel 6. Schoolbaar
 
 1. UWV toetst of de cliënt schoolbaar is aan de hand van de navolgende drie criteria:
 
@@ -122,7 +147,7 @@ Een scholing is arbeidsmarktrelevant als bedoeld in [artikel 3, sub a](https://w
 
 ### Onderdeel B. Voorwaarden vergoeding scholingskosten door UWV
 
-#### Artikel 7. Doelgroep vergoeding scholingskosten
+##### Artikel 7. Doelgroep vergoeding scholingskosten
 
 1. UWV kan scholingskosten voor cliënten vergoeden als de noodzaak tot het volgen van een scholing is vastgesteld.
 
@@ -130,7 +155,7 @@ Een scholing is arbeidsmarktrelevant als bedoeld in [artikel 3, sub a](https://w
 
 3. De grote kans op werkloosheid of de zwakke tot matige arbeidsmarktpositie als bedoeld in het tweede lid van dit artikel is vastgesteld op basis van uitkomsten van de Werkverkenner dan wel op basis van een gemotiveerde en onderbouwde beoordeling van een UWV-adviseur.
 
-#### Artikel 8. Scholingskosten die voor vergoeding in aanmerking komen
+##### Artikel 8. Scholingskosten die voor vergoeding in aanmerking komen
 
 1. UWV verstrekt een vergoeding voor de scholingskosten voor zover de cliënt voor deze kosten geen recht heeft op een voorliggende voorziening.
 
@@ -146,7 +171,7 @@ Een scholing is arbeidsmarktrelevant als bedoeld in [artikel 3, sub a](https://w
 
 3. UWV vergoedt geen algemeen gebruikelijke middelen als leermiddel. Als algemeen gebruikelijke middelen worden in ieder geval aangemerkt elektronische apparatuur (zoals een laptop, tablet, smartphone).
 
-#### Artikel 9. Voorwaarden voor financiering
+##### Artikel 9. Voorwaarden voor financiering
 
 1. Als voorwaarden voor de financiering van een noodzakelijke scholing door UWV geldt dat:
 
@@ -164,15 +189,15 @@ Een scholing is arbeidsmarktrelevant als bedoeld in [artikel 3, sub a](https://w
 
 4. UWV vergoedt geen scholingskosten die uitsluitend toezien op het ontwikkelen van algemene vaardigheden.
 
-#### Artikel 10. Intrekking [Beleidsregels Scholing en voorwaarden vergoeding scholingskosten UWV 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049584)
+##### Artikel 10. Intrekking [Beleidsregels Scholing en voorwaarden vergoeding scholingskosten UWV 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049584)
 
 Het besluit [Beleidsregels Scholing en voorwaarden vergoeding scholingskosten UWV 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049584), gepubliceerd in de Staatscourant van 18 april 2024, nummer 12538 wordt ingetrokken.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2026.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Beleidsregels Scholing en voorwaarden vergoeding scholingskosten UWV 2026.
 

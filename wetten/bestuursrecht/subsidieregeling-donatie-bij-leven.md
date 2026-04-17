@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling donatie bij leven"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 12 mei 2009, nr. GMT/IB/2929135, houdende tegemoetkoming in kosten voor het ter beschikking stellen van een orgaan bij leven (Subsidieregeling donatie bij leven)"
 identifier: "BWBR0025870"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025870"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025870"
+soort: "ministeriele-regeling"
+stam_id: "10047823"
+version_id: "23542522"
+internal_id: "C33970111"
+label_id: "10024194"
+dtd_version: "2.0"
+original_entry_into_force: "2016-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025870/2024-01-01/0"
+intitule_bron: "Stcrt.2009-97"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-05-12"
+intitule_published: "2009-05-29"
+intitule_in_force: "2009-05-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-44145"
+original_signed_date: "2016-08-15"
+original_published_date: "2016-08-23"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2016-44145"
+entry_into_force_date: "2016-09-01"
+jci_1_3: "jci1.3:c:BWBR0025870&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0025870&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling donatie bij leven"
+signed_date: "2016-08-15"
+entry_into_force: "2016-09-01"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 12 mei 2009, nr. GMT/IB/2929135, houdende tegemoetkoming in kosten voor het ter beschikking stellen van een orgaan bij leven (Subsidieregeling donatie bij leven)
 
 Gelet op [artikel 3 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -38,15 +64,15 @@ In deze regeling wordt verstaan onder:
 
 - h. **peiljaar:** het kalenderjaar onmiddellijk voorafgaande aan het jaar waarin de donatie wordt uitgevoerd of, indien de belastbare inkomsten in dat jaar lager waren dan het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel b, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), vijf kalenderjaren onmiddellijk voorafgaande aan het jaar waarin de donatie wordt uitgevoerd.
 
-#### Artikel 2
+##### Artikel 2
 
 De minister kan aan een donor een subsidie verstrekken ten behoeve van de voorbereiding van, de uitvoering van of het herstel na een donatie.
 
-#### Artikel 3
+##### Artikel 3
 
 De subsidie wordt uitsluitend verstrekt ten behoeve van een donatie die ingevolge de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) tot de verzekerde prestaties behoort van de zorgverzekering van de ontvanger van het orgaan.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De subsidie bestaat uit:
 
@@ -110,7 +136,7 @@ De subsidie wordt uitsluitend verstrekt ten behoeve van een donatie die ingevolg
 
 In afwijking van het tweede lid, onderdeel a, wordt in geval van een subsidie berekend op basis van de inkomenscomponenten, bedoeld in het eerste lid, onderdeel a, onder 2° of 3°, bij de berekening uitgegaan van een periode van 6 weken herstel na de datum van ontslag van de donor uit het ziekenhuis waar de donatie is uitgevoerd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De subsidie wordt op aanvraag verstrekt.
 
@@ -126,37 +152,37 @@ In afwijking van het tweede lid, onderdeel a, wordt in geval van een subsidie be
 
 7. In aanvulling op het vijfde en zesde lid kan de aanvraag worden aangevuld, dan wel kan een aanvullende aanvraag worden ingediend door het verschaffen van de nodige aanvullende gegevens en bescheiden, onder vermelding van de naam en het dossiernummer van de donor.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien zich na de indiening van de aanvraag omstandigheden voordoen die van belang kunnen zijn voor de beslissing tot vaststelling van de subsidie, doet de donor daarvan zo spoedig mogelijk schriftelijk mededeling aan de minister onder overlegging van de relevante stukken.
 
 2. Binnen dertien weken na ontvangst van de aanvraag geeft de minister een beschikking tot vaststelling van de subsidie.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De minister kan bij de vaststelling van de subsidie verplichtingen opleggen die strekken tot verwezenlijking van het doel van de subsidie.
 
 2. De ontvanger van een subsidie werkt mee aan door of namens de minister ingestelde onderzoekingen die erop zijn gericht de minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van het beleid.
 
-#### Artikel 8
+##### Artikel 8
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling wordt uitgevoerd door de Nederlandse Transplantatie Stichting.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling vervalt met ingang van 1 september 2026.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling wordt aangehaald als: Subsidieregeling donatie bij leven.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. Onverminderd [artikel 4, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2024-01-01&g=2024-01-01), kan de minister de subsidie verhogen indien de gederfde inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het peiljaar lager zijn dan de gederfde inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het jaar waarin de donatie wordt uitgevoerd.
 
@@ -168,13 +194,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 10a
+##### Artikel 10a
 
 Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling examenprogramma Staatsexamen Nt2 2024"
+title: "Regeling van het College voor toetsen en examens van 28 november 2022, CvTE-23.00009, houdende vaststelling van het examenprogramma Staatsexamen Nederlands als tweede taal voor de examenjaren vanaf examenjaar 2024 (Regeling examenprogramma Staatsexamen Nt2 2024)"
 identifier: "BWBR0047815"
-categorie: "Onderwijs"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047815"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047815"
+soort: "zbo"
+stam_id: "16659053"
+version_id: "29217682"
+internal_id: "C41513041"
+label_id: "16576924"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047815/2024-01-01/0"
+intitule_bron: "Stcrt.2023-3058"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-11-28"
+intitule_published: "2023-01-25"
+intitule_in_force: "2023-01-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-3058"
+original_signed_date: "2022-11-28"
+original_published_date: "2023-01-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-3058"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0047815&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0047815&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling examenprogramma Staatsexamen Nt2 2024"
+signed_date: "2022-11-28"
+entry_into_force: "2024-01-01"
 ---
-
 # Regeling van het College voor toetsen en examens van 28 november 2022, CvTE-23.00009, houdende vaststelling van het examenprogramma Staatsexamen Nederlands als tweede taal voor de examenjaren vanaf examenjaar 2024 (Regeling examenprogramma Staatsexamen Nt2 2024)
 
 Gelet op [artikel 2, vijfde lid, aanhef en onderdeel a, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) en [artikel 10, eerste lid, van het Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=10);
@@ -16,19 +42,19 @@ Gezien de goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap van 1
 
 Besluit:
 
-#### Artikel 1. Examenprogramma Staatsexamen Nederlands als tweede taal
+##### Artikel 1. Examenprogramma Staatsexamen Nederlands als tweede taal
 
 Het examenprogramma Staatsexamen Nederlands als tweede taal wordt vastgesteld overeenkomstig de bijlage bij deze regeling.
 
-#### Artikel 2. Intrekking
+##### Artikel 2. Intrekking
 
 De [Regeling examenprogramma Staatsexamens Nt2](https://wetten.overheid.nl/jci1.3:c:BWBR0043065) wordt ingetrokken met ingang van 1 januari 2024.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2024.
 
-#### Artikel 4. Citeertitel en bekendmaking
+##### Artikel 4. Citeertitel en bekendmaking
 
 Deze regeling wordt aangehaald als: Regeling examenprogramma Staatsexamen Nt2 2024.
 

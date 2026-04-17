@@ -1,13 +1,35 @@
 ---
 title: "Aanwijzing feitgecodeerde misdrijven, overtredingen en muldergedragingen"
 identifier: "BWBR0040422"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-01-01
-laatste_update: 2018-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040422"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-01-01"
+last_updated: "2018-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040422"
+soort: "ministeriele-regeling"
+stam_id: "14459353"
+version_id: "24732462"
+internal_id: "C35385181"
+label_id: "14419874"
+dtd_version: "2.0"
+original_entry_into_force: "2018-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040422/2018-01-01/0"
+intitule_bron: "Stcrt.2017-70942"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2017-12-21"
+intitule_in_force: "2017-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-70942"
+original_published_date: "2017-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-70942"
+entry_into_force_date: "2018-01-01"
+jci_1_3: "jci1.3:c:BWBR0040422&z=2018-01-01&g=2018-01-01"
+jci_1_0: "1.0:c:BWBR0040422&g=2018-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2018-01-01"
 ---
-
 # Aanwijzing feitgecodeerde misdrijven, overtredingen en muldergedragingen
 
 ### Samenvatting

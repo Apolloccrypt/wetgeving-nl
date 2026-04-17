@@ -1,13 +1,39 @@
 ---
-title: "Regeling studiefaciliteiten politie"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 27 april 2009, nr. 2009-0000225698, houdende regels betreffende het toekennen van studieverlof en vergoeding van studiekosten ten behoeve van politie-ambtenaren (Regeling studiefaciliteiten politie)"
 identifier: "BWBR0025814"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2025-09-04
-laatste_update: 2025-09-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025814"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-09-04"
+last_updated: "2025-09-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025814"
+soort: "ministeriele-regeling"
+stam_id: "10023123"
+version_id: "16383512"
+internal_id: "C22524791"
+label_id: "9999594"
+dtd_version: "2.0"
+original_entry_into_force: "2009-05-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025814/2025-09-04/0"
+intitule_bron: "Stcrt.2009-85"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-04-27"
+intitule_published: "2009-05-11"
+intitule_in_force: "2009-05-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-85"
+original_signed_date: "2009-04-27"
+original_published_date: "2009-05-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-6828"
+entry_into_force_date: "2009-05-13"
+jci_1_3: "jci1.3:c:BWBR0025814&z=2025-09-04&g=2025-09-04"
+jci_1_0: "1.0:c:BWBR0025814&g=2025-09-04"
+citeertitel_status: "officieel"
+short_title: "Regeling studiefaciliteiten politie"
+signed_date: "2009-04-27"
+entry_into_force: "2009-05-13"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 27 april 2009, nr. 2009-0000225698, houdende regels betreffende het toekennen van studieverlof en vergoeding van studiekosten ten behoeve van politie-ambtenaren (Regeling studiefaciliteiten politie)
 
 Gelet op [artikel 58, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=58), en [67, vijfde lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=67);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. : Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -44,15 +70,15 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. : Aanspraken
 
-#### Artikel 2
+##### Artikel 2
 
 De aanspraken die op grond van deze regeling kunnen worden toegekend, zijn niet van toepassing op krachtens [artikel 2c van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleidingen.
 
-#### Artikel 3
+##### Artikel 3
 
 Indien anders dan op grond van deze regeling een tegemoetkoming, vergoeding of voorziening is toegekend voor de in deze regeling bedoelde uitgaven, wordt de tegemoetkoming, vergoeding of voorziening, bedoeld in deze regeling, slechts toegekend tot het bedrag waarmee deze de aanspraak op andere basis overschrijdt.
 
-#### Artikel 4
+##### Artikel 4
 
 Het bevoegd gezag kent aan de ambtenaar die een functiegerichte opleiding, niet zijnde een zelfstudie-opleiding, volgt, toe:
 
@@ -64,7 +90,7 @@ Het bevoegd gezag kent aan de ambtenaar die een functiegerichte opleiding, niet 
 
 - d. een vergoeding van 100% van de studiekosten op declaratiebasis.
 
-#### Artikel 5
+##### Artikel 5
 
 Het bevoegd gezag kent aan de ambtenaar die een loopbaangerichte opleiding volgt, niet zijnde een zelfstudie-opleiding, op zijn aanvraag toe:
 
@@ -84,7 +110,7 @@ Het bevoegd gezag kent aan de ambtenaar die een loopbaangerichte opleiding volgt
 
 - c. een vergoeding van 50% van de studiekosten op declaratiebasis.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij het bepalen van de mate van het organisatiebelang betrekt het bevoegd gezag in ieder geval:
 
@@ -102,7 +128,7 @@ Het bevoegd gezag kent aan de ambtenaar die een loopbaangerichte opleiding volgt
 
 4. Het bevoegd gezag betrekt bij de vaststelling van het organisatiebelang het belang van de eigen regionale of landelijke eenheid of ondersteunende dienst, het belang van de politiedienst en het belang van een loopbaanpad buiten de politiedienst.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het bevoegd gezag kent aan de ambtenaar die een niet-functiegerichte opleiding volgt, op zijn aanvraag toe:
 
@@ -112,7 +138,7 @@ Het bevoegd gezag kent aan de ambtenaar die een loopbaangerichte opleiding volgt
 
 2. Iedere drie jaar wordt de hoogte van het in het eerste lid, onder b, genoemde bedrag herzien.
 
-#### Artikel 8
+##### Artikel 8
 
 Het bevoegd gezag kent aan de ambtenaar die een functiegerichte opleiding in de vorm van een zelfstudie-opleiding volgt, toe:
 
@@ -124,7 +150,7 @@ Het bevoegd gezag kent aan de ambtenaar die een functiegerichte opleiding in de 
 
 - d. een vergoeding van 100% van de studiekosten op declaratiebasis.
 
-#### Artikel 9
+##### Artikel 9
 
 Het bevoegd gezag kent aan de ambtenaar die een loopbaangerichte opleiding in de vorm van een zelfstudie-opleiding volgt, op zijn aanvraag toe:
 
@@ -138,7 +164,7 @@ Het bevoegd gezag kent aan de ambtenaar die een loopbaangerichte opleiding in de
 
 ### Hoofdstuk 3. : Verplichtingen ambtenaar
 
-#### Artikel 10
+##### Artikel 10
 
 1. De ambtenaar, aan wie studieverlof, zelfstudieverlof of vergoeding van studiekosten wordt toegekend, is verplicht:
 
@@ -152,7 +178,7 @@ Het bevoegd gezag kent aan de ambtenaar die een loopbaangerichte opleiding in de
 
 2. In afwijking van het eerste lid, onder b, kan onder bijzondere omstandigheden door het bevoegd gezag een verlenging van de studieduur worden toegestaan.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De terugbetalingsverplichting, bedoeld in [artikel 67, eerste lid, van Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=67), wordt niet opgelegd bij functiegerichte opleidingen, met uitzondering van functiegerichte opleidingen waarvan de kennis niet specifiek de politie betreft en die meer dan € 12.500 per opleiding kosten.
 
@@ -166,7 +192,7 @@ Het bevoegd gezag kent aan de ambtenaar die een loopbaangerichte opleiding in de
 
 6. Het bevoegd gezag kan besluiten de toekenning van studiefaciliteiten te beëindigen, indien de ambtenaar volgens de normen van de onderwijsinstelling onvoldoende voortgang boekt of indien blijkt dat de ambtenaar de aan hem op grond van deze regeling toegekende aanspraken niet benut voor de opleiding.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De ambtenaar dient voorafgaand aan de opleiding het bevoegd gezag schriftelijk te verzoeken om in aanmerking te komen voor studiefaciliteiten voor een loopbaangerichte- of niet-functiegerichte opleiding.
 
@@ -174,15 +200,15 @@ Het bevoegd gezag kent aan de ambtenaar die een loopbaangerichte opleiding in de
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 De ambtenaar behoudt de op het moment van inwerkingtreding van deze regeling reeds toegekende studiefaciliteiten.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2009.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze regeling wordt aangehaald als: Regeling studiefaciliteiten politie.
 

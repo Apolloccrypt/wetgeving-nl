@@ -1,20 +1,46 @@
 ---
-title: "Regeling hoofdlijnen beleid en beheer meldkamers"
+title: "Regeling van de Minister van Justitie en Veiligheid, van 22 juni 2020, kenmerk 2944128, houdende de hoofdlijnen van beleid en beheer met betrekking tot de meldkamers, waaronder de multidisciplinaire sturing en de beleids- en beheercyclus voor de vaststelling van het beleids- en bestedingsplan (Regeling hoofdlijnen beleid en beheer meldkamers)"
 identifier: "BWBR0043762"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2020-07-01
-laatste_update: 2020-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043762"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-07-01"
+last_updated: "2020-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043762"
+soort: "ministeriele-regeling"
+stam_id: "15533383"
+version_id: "26835272"
+internal_id: "C38019611"
+label_id: "15475704"
+dtd_version: "2.0"
+original_entry_into_force: "2020-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043762/2020-07-01/0"
+intitule_bron: "Stcrt.2020-33877"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-06-22"
+intitule_published: "2020-06-30"
+intitule_in_force: "2020-06-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-33877"
+original_signed_date: "2020-06-22"
+original_published_date: "2020-06-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-33877"
+entry_into_force_date: "2020-07-01"
+jci_1_3: "jci1.3:c:BWBR0043762&z=2020-07-01&g=2020-07-01"
+jci_1_0: "1.0:c:BWBR0043762&g=2020-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling hoofdlijnen beleid en beheer meldkamers"
+signed_date: "2020-06-22"
+entry_into_force: "2020-07-01"
 ---
-
 # Regeling van de Minister van Justitie en Veiligheid, van 22 juni 2020, kenmerk 2944128, houdende de hoofdlijnen van beleid en beheer met betrekking tot de meldkamers, waaronder de multidisciplinaire sturing en de beleids- en beheercyclus voor de vaststelling van het beleids- en bestedingsplan (Regeling hoofdlijnen beleid en beheer meldkamers)
 
 Gelet op [artikel 23a, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=23a);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - f. **gebied:** het werkgebied van een meldkamer, zoals aangewezen in artikel 1 van het Besluit aanwijzing meldkamers.
 
-#### Artikel 2. Beleidsdoelen en beleidskaders
+##### Artikel 2. Beleidsdoelen en beleidskaders
 
 1. De beleidsdoelen zijn:
 
@@ -58,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 3. De Landelijke Meldkamer Samenwerking voert het beheer van de meldkamers uit volgens de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043762&artikel=3&z=2020-07-01&g=2020-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043762&artikel=4&z=2020-07-01&g=2020-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0043762&artikel=5&z=2020-07-01&g=2020-07-01) opgenomen multidisciplinaire sturingslijn en met inachtneming van de in dit artikel opgenomen beleidsdoelen en beleidskaders.
 
-#### Artikel 3. Het Bestuurlijk Meldkamer Beraad
+##### Artikel 3. Het Bestuurlijk Meldkamer Beraad
 
 1. Er is een Bestuurlijk Meldkamer Beraad ten behoeve van de landelijke sturing op het beleid en beheer van de meldkamers.
 
@@ -76,7 +102,7 @@ In deze regeling wordt verstaan onder:
 
 8. De vertegenwoordiger van de Minister Justitie en Veiligheid is voorzitter van het Bestuurlijke Meldkamer Beraad. De voorzitter van het Strategisch Meldkamer Beraad kan de vergadering van het Bestuurlijk Meldkamer Beraad bijwonen.
 
-#### Artikel 4. Het Strategisch Meldkamer Beraad
+##### Artikel 4. Het Strategisch Meldkamer Beraad
 
 1. Er is een Strategisch Meldkamer Beraad ten behoeve van de landelijke strategische sturing op het beleid en beheer van de meldkamers.
 
@@ -108,7 +134,7 @@ In deze regeling wordt verstaan onder:
 
 8. De leden leggen, indien zij niet tot overeenstemming komen, het beslispunt voor aan het Bestuurlijk Meldkamer Beraad, onder vermelding van hun opvatting over het beslispunt. Het Bestuurlijk Meldkamer Beraad neemt op basis van deze inbreng een besluit.
 
-#### Artikel 5. Gebiedsniveau
+##### Artikel 5. Gebiedsniveau
 
 1. Een meldkamer heeft een directieoverleg op gebiedsniveau ten behoeve van de afstemming van het landelijke beleid met het beleid en beheer van de meldkamer en voor de samenwerking tussen de partijen in het werkgebied van de meldkamer.
 
@@ -132,7 +158,7 @@ In deze regeling wordt verstaan onder:
 
 7. De leden van het directieoverleg leggen, indien zij niet tot overeenstemming komen, het beslispunt voor aan het Strategisch Meldkamer Beraad, onder vermelding van hun opvatting over het beslispunt. Het Strategisch Meldkamer Beraad neemt op basis van deze inbreng een besluit.
 
-#### Artikel 6. Beleids- en beheercyclus
+##### Artikel 6. Beleids- en beheercyclus
 
 1. Het beleids- en bestedingsplan komt tot stand door middel van een beleids- en beheercyclus voor het beheer van de meldkamers, met inbreng van de partijen.
 
@@ -160,11 +186,11 @@ In deze regeling wordt verstaan onder:
 
 5. De hoofdlijnen van het beleids- en bestedingsplan worden opgenomen in de begroting en het beheerplan van de politie. De politie verantwoordt de werkelijk gemaakte kosten in de jaarrekening.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 juli 2020.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling hoofdlijnen beleid en beheer meldkamers.
 

@@ -1,14 +1,41 @@
 ---
-title: "Wijzigingswet Uitvoeringswet huurprijzen woonruimte (wettelijke grondslag verschillende waardering energieprestaties huurwoningen)"
+title: "Wet van 7 april 2011 tot wijziging van de Uitvoeringswet huurprijzen woonruimte (wettelijke grondslag verschillende waardering energieprestaties huurwoningen)"
 identifier: "BWBR0029908"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2014-01-01
-laatste_update: 2014-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029908"
+country: "nl"
+rank: "wet"
+publication_date: "2014-01-01"
+last_updated: "2014-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029908"
+soort: "wet"
+stam_id: "11305623"
+version_id: "18524002"
+internal_id: "C26032361"
+label_id: "11279664"
+dtd_version: "2.0"
+original_entry_into_force: "2011-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029908/2014-01-01/0"
+intitule_bron: "Stb.2011-191"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-04-07"
+intitule_published: "2011-04-27"
+intitule_in_force: "2011-06-28"
+intitule_status: "goed"
+original_publication: "Stb.2011-191"
+original_signed_date: "2011-04-07"
+original_published_date: "2011-04-27"
+original_effect: "nieuwe-regeling"
+original_dossier: "32302"
+original_url_id: "stb-2011-191"
+entry_into_force_date: "2011-07-01"
+jci_1_3: "jci1.3:c:BWBR0029908&z=2014-01-01&g=2014-01-01"
+jci_1_0: "1.0:c:BWBR0029908&g=2014-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingswet Uitvoeringswet huurprijzen woonruimte (wettelijke grondslag verschillende waardering energieprestaties huurwoningen)"
+signed_date: "2011-04-07"
+entry_into_force: "2011-07-01"
 ---
-
-# Wijzigingswet Uitvoeringswet huurprijzen woonruimte (wettelijke grondslag verschillende waardering energieprestaties huurwoningen)
+# Wet van 7 april 2011 tot wijziging van de Uitvoeringswet huurprijzen woonruimte (wettelijke grondslag verschillende waardering energieprestaties huurwoningen)
 
 Allen die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,11 +43,11 @@ Alzo Wij in overweging genomen hebben dat het wenselijk is een wettelijke gronds
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Uitvoeringswet huurprijzen woonruimte.
 
-#### Artikel aIa
+##### Artikel aIa
 
 In de [artikelen IA tot en met IE](https://wetten.overheid.nl/jci1.3:c:BWBR0029908&artikel=Ia&z=2014-01-01&g=2014-01-01) wordt verstaan onder:
 
@@ -30,23 +57,23 @@ In de [artikelen IA tot en met IE](https://wetten.overheid.nl/jci1.3:c:BWBR00299
 
 - c. **zelfstandige woning:** zelfstandige woning als bedoeld in [artikel 7: 234 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=234).
 
-#### Artikel Ia
+##### Artikel Ia
 
 De op het tijdstip van inwerkingtreding van [artikel I, onderdeel Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0029908&artikel=I&z=2014-01-01&g=2014-01-01), van deze wet bij de huurcommissie aanhangige verzoeken als bedoeld in [artikel 9a, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=9a), zoals dat lid laatstelijk luidde voor de inwerkingtreding van artikel I, onderdeel Aa, van deze wet, worden behandeld met toepassing van dat lid, zoals dat laatstelijk luidde voor de inwerkingtreding van artikel I, onderdeel Aa, van deze wet.
 
-#### Artikel Ib
+##### Artikel Ib
 
 Vervallen
 
-#### Artikel Ic
+##### Artikel Ic
 
 Vervallen
 
-#### Artikel Id
+##### Artikel Id
 
 Vervallen
 
-#### Artikel Ie
+##### Artikel Ie
 
 De [artikelen IB](https://wetten.overheid.nl/jci1.3:c:BWBR0029908&artikel=Ib&z=2014-01-01&g=2014-01-01), [IC](https://wetten.overheid.nl/jci1.3:c:BWBR0029908&artikel=Ic&z=2014-01-01&g=2014-01-01) en [ID](https://wetten.overheid.nl/jci1.3:c:BWBR0029908&artikel=Id&z=2014-01-01&g=2014-01-01) van deze wet vervallen met ingang van 1 januari 2014, met dien verstande dat:
 
@@ -54,11 +81,11 @@ De [artikelen IB](https://wetten.overheid.nl/jci1.3:c:BWBR0029908&artikel=Ib&z=2
 
 - b. [artikel ID](https://wetten.overheid.nl/jci1.3:c:BWBR0029908&artikel=Id&z=2014-01-01&g=2014-01-01) van toepassing blijft op uitspraken van de huurcommissie of van de rechter die leiden tot een datum van ingang van de in rekening te brengen lagere huurprijs voor 1 januari 2014.
 
-#### Artikel If
+##### Artikel If
 
 Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zendt binnen drie jaar na de datum, genoemd in [artikel IE](https://wetten.overheid.nl/jci1.3:c:BWBR0029908&artikel=Ie&z=2014-01-01&g=2014-01-01), en vervolgens telkens na drie jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van de op grond van [artikel 10, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=10) gegeven regels omtrent de energieprestatie van de woonruimte, zoals die komen te luiden na de inwerkingtreding van deze wet.
 
-#### Artikel II
+##### Artikel II
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

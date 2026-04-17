@@ -1,13 +1,38 @@
 ---
 title: "Meerjarenregeling Talentontwikkeling 2025–2028 Fonds voor Cultuurparticipatie"
 identifier: "BWBR0048930"
-categorie: "Sociaal recht"
-publicatiedatum: 2023-11-23
-laatste_update: 2023-11-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048930"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-11-23"
+last_updated: "2023-11-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048930"
+soort: "zbo"
+stam_id: "16927793"
+version_id: "29750862"
+internal_id: "C42640041"
+label_id: "16839584"
+dtd_version: "2.0"
+original_entry_into_force: "2023-11-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048930/2023-11-23/0"
+intitule_bron: "Stcrt.2023-31926"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-11-14"
+intitule_published: "2023-11-22"
+intitule_in_force: "2023-11-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-31926"
+original_signed_date: "2023-11-14"
+original_published_date: "2023-11-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-31926"
+entry_into_force_date: "2023-11-23"
+jci_1_3: "jci1.3:c:BWBR0048930&z=2023-11-23&g=2023-11-23"
+jci_1_0: "1.0:c:BWBR0048930&g=2023-11-23"
+citeertitel_status: "officieel"
+signed_date: "2023-11-14"
+entry_into_force: "2023-11-23"
 ---
-
 # Meerjarenregeling Talentontwikkeling 2025–2028 Fonds voor Cultuurparticipatie
 
 gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
@@ -24,7 +49,7 @@ besluit vast te stellen de Meerjarenregeling Talentontwikkeling 2025–2028 Fond
 
 ### Hoofdstuk 1. – Algemene bepalingen
 
-#### Artikel 1.1. Gebruikte begrippen
+##### Artikel 1.1. Gebruikte begrippen
 
 - a. **Adviescommissie:** een interne of externe adviescommissie zoals bedoeld in het [Huishoudelijk Reglement van Stichting Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026366);
 
@@ -94,23 +119,23 @@ besluit vast te stellen de Meerjarenregeling Talentontwikkeling 2025–2028 Fond
 
 - gg. **Website van het Fonds:** [www.cultuurparticipatie.nl](onbekend).
 
-#### Artikel 1.2. Doel van de regeling
+##### Artikel 1.2. Doel van de regeling
 
 Het Fonds verstrekt in de periode 2025–2028 meerjarige stimuleringssubsidies. Het doel van deze subsidies is het duurzaam versterken van de kwaliteit van talentontwikkeling. Dit vergroot de kansengelijkheid van amateurs om zich te ontwikkelen richting een professionele praktijk, ongeacht hun achtergrond, kunstvorm, culturele stroming of voorkeur zich via informele netwerken en wegen te ontwikkelen. Manieren om dat te doen kunnen ontwikkelinstellingen of het organiseren van festivals zijn.
 
-#### Artikel 1.3. Subsidieperiode
+##### Artikel 1.3. Subsidieperiode
 
 Subsidie in het kader van deze regeling wordt verstrekt voor de kalenderjaren 2025 tot en met 2028.
 
-#### Artikel 1.4. Subsidieplafond
+##### Artikel 1.4. Subsidieplafond
 
 Het subsidieplafond staat in de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048930&hoofdstuk=4&z=2023-11-23&g=2023-11-23) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0048930&hoofdstuk=5&z=2023-11-23&g=2023-11-23) vermeld. Het Fonds kan besluiten het subsidieplafond te wijzigen, onder andere met betrekking tot de hoogte, tijdvakken, thema’s, doelgroepen en regio’s. Wijzigingen van het subsidieplafond worden gepubliceerd op [de website van het Fonds](onbekend).
 
-#### Artikel 1.5. Aantal aanvragen
+##### Artikel 1.5. Aantal aanvragen
 
 Een aanvrager kan slechts voor een van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048930&hoofdstuk=4&z=2023-11-23&g=2023-11-23) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0048930&hoofdstuk=5&z=2023-11-23&g=2023-11-23) een aanvraag indienen. Het is niet mogelijk om voor zowel de Meerjarenregeling Talentontwikkeling als voor de Meerjarenregeling Co-creatie een aanvraag te doen.
 
-#### Artikel 1.6. Maximale bijdrage van het Fonds
+##### Artikel 1.6. Maximale bijdrage van het Fonds
 
 - a. Voor aanvragers uit Europees Nederland draagt het Fonds maximaal 50% van de totale lasten bij.
 
@@ -120,7 +145,7 @@ Een aanvrager kan slechts voor een van de [hoofdstukken 4](https://wetten.overhe
 
 ### Hoofdstuk 2. – Voorwaarden en weigeringsgronden
 
-#### Artikel 2.1. Culturele codes
+##### Artikel 2.1. Culturele codes
 
 De aanvrager is verplicht om de Governance Code Cultuur, de Fair Practice Code en de Code Diversiteit & Inclusie te onderschrijven en toe te passen, op een wijze die ten minste voldoet aan de volgende bepalingen:
 
@@ -154,7 +179,7 @@ De aanvrager is verplicht om de Governance Code Cultuur, de Fair Practice Code e
 
 - b. dat in voortgangsgesprekken de voortgang en monitoring wordt toegelicht.
 
-#### Artikel 2.2. Weigeringsgronden
+##### Artikel 2.2. Weigeringsgronden
 
 1. Het Fonds weigert in ieder geval subsidie als voor hetzelfde programma in dezelfde periode reeds subsidie is of zal worden verleend:
 
@@ -186,7 +211,7 @@ De aanvrager is verplicht om de Governance Code Cultuur, de Fair Practice Code e
 
 ### Hoofdstuk 3. – Aanvraagprocedure en verantwoording
 
-#### Artikel 3.1. De aanvraagprocedure
+##### Artikel 3.1. De aanvraagprocedure
 
 1. Een aanvraag wordt ingediend via het digitale systeem Mijn Fonds, dat bereikbaar is via [de website van het Fonds](onbekend).
 
@@ -204,7 +229,7 @@ De aanvrager is verplicht om de Governance Code Cultuur, de Fair Practice Code e
 
 4. Zoals vermeld in [artikel 4, achtste lid, van het Algemeen Subsidiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&artikel=4) kunnen aanvragers gevestigd in het Caribisch deel van het Koninkrijk de kosten voor het omwisselen van valuta voor het uitvoeren van het project opnemen in de subsidieaanvraag.
 
-#### Artikel 3.2. Indiening aanvraag
+##### Artikel 3.2. Indiening aanvraag
 
 1. Aanvragen kunnen vanaf 1 december 2023, 13:00 Amsterdamse tijd worden ingediend en dienen voor 31 januari 2024, 16:00 Amsterdamse tijd door het Fonds te zijn ontvangen.
 
@@ -212,7 +237,7 @@ De aanvrager is verplicht om de Governance Code Cultuur, de Fair Practice Code e
 
 3. Een te laat ingediende aanvraag wordt niet in behandeling genomen.
 
-#### Artikel 3.3. Beoordeling
+##### Artikel 3.3. Beoordeling
 
 1. Aanvragen die volledig en op tijd zijn ingediend en voldoen aan de voorwaarden van de regeling, worden voor advies voorgelegd aan een adviescommissie.
 
@@ -226,7 +251,7 @@ De aanvrager is verplicht om de Governance Code Cultuur, de Fair Practice Code e
 
 6. De beoordelingstermijn is maximaal 22 weken. Het bestuur van het Fonds besluit over de adviezen.
 
-#### Artikel 3.4. Verdeling budget
+##### Artikel 3.4. Verdeling budget
 
 1. Aanvragen die aan alle bepalingen voldoen worden in een rangorde geplaats en op basis daarvan onderverdeeld in:
 
@@ -242,11 +267,11 @@ De aanvrager is verplicht om de Governance Code Cultuur, de Fair Practice Code e
 
 4. Indien het Fonds een subsidieplafond verhoogt, wordt eerst de gedeeltelijk toegewezen subsidie alsnog verhoogd tot het geadviseerde bedrag, tenzij dat niet meer nodig blijkt te zijn. Vervolgens wordt steeds de eerstvolgende aanvraag toegewezen totdat het subsidieplafond is bereikt.
 
-#### Artikel 3.5. Besluit
+##### Artikel 3.5. Besluit
 
 Het Fonds informeert de aanvrager schriftelijk over zijn besluit over de aanvraag. Het Fonds doet dat binnen 22 weken na de uiterlijke indiendatum van woensdag 31 januari 2024. De motivering van het besluit vindt de aanvrager in het advies, dat door de in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048930&hoofdstuk=3&artikel=3.3&z=2023-11-23&g=2023-11-23) bedoelde adviescommissie is uitgebracht. De aanvrager krijgt zowel het besluit als het advies toegezonden.
 
-#### Artikel 3.6. Verantwoording
+##### Artikel 3.6. Verantwoording
 
 1. De subsidieontvanger stuurt jaarlijks voor 1 mei een verantwoording in over het vorige kalenderjaar.
 
@@ -260,7 +285,7 @@ Het Fonds informeert de aanvrager schriftelijk over zijn besluit over de aanvraa
 
 6. De subsidieontvanger werkt mee aan, of zorgt dat de accountant meewerkt aan onderzoeken naar de door de accountant verrichte (controle)werkzaamheden door een door het Fonds aan te wijzen partij. De daaraan voor de subsidieontvanger verbonden kosten komen voor zijn rekening.
 
-#### Artikel 3.7. Vaststelling subsidie
+##### Artikel 3.7. Vaststelling subsidie
 
 1. Het Fonds stelt de subsidie vast na ontvangst van de complete verantwoording over de subsidieperiode.
 
@@ -268,25 +293,25 @@ Het Fonds informeert de aanvrager schriftelijk over zijn besluit over de aanvraa
 
 ### Hoofdstuk 4. – Talentontwikkeling: instellingen
 
-#### Artikel 4.1. Wie kan aanvragen
+##### Artikel 4.1. Wie kan aanvragen
 
 Subsidie op basis van dit hoofdstuk kan uitsluitend worden ingediend door een in het Koninkrijk der Nederlanden gevestigde culturele instelling. Deze instelling heeft het werken aan outcome en de organisatie van activiteiten op het gebied van talentontwikkeling in de amateurkunst als kernactiviteit.
 
-#### Artikel 4.2. Waarvoor kan worden aangevraagd
+##### Artikel 4.2. Waarvoor kan worden aangevraagd
 
 1. Culturele instellingen kunnen subsidie aanvragen voor een talentontwikkelingsprogramma binnen de amateurkunst. Dit programma sluit aan bij de behoefte van de doelgroep en trekt, vanwege de hoge kwaliteit en het landelijke belang ervan, divers jong talent aan en draagt bij aan hun ontwikkeling en toeleiding naar het kunstvakonderwijs, professionele werkveld of een alternatieve vervolgroute.
 
 2. De aanvraag is gericht op het werken aan en bereiken van outcome. De aanvrager beschrijft daarom in de aanvraag de stappen die worden gezet om het gewenste effect te realiseren. Zet de te nemen stappen in een realistisch tijdspad.
 
-#### Artikel 4.3. Subsidieplafond
+##### Artikel 4.3. Subsidieplafond
 
 Het subsidieplafond voor dit hoofdstuk bedraagt € 16.000.000.
 
-#### Artikel 4.4. Hoogte van de aanvraag
+##### Artikel 4.4. Hoogte van de aanvraag
 
 Per aanvraag bedraagt de subsidie minimaal € 250.000 en maximaal € 2.500.000.
 
-#### Artikel 4.5. Voorwaarden en drempelnorm
+##### Artikel 4.5. Voorwaarden en drempelnorm
 
 1. Als een aanvrager in aanmerking wil komen voor een meerjarige subsidie dient hij aan te tonen dat de instelling in de drie voorafgaande jaren van betekenis was in het Koninkrijk.
 
@@ -294,7 +319,7 @@ Per aanvraag bedraagt de subsidie minimaal € 250.000 en maximaal € 2.500.000
 
 3. Als een aanvrager geen jaarrekening kan overleggen over enig jaar dient hij een vergelijkbare opgave in. Het Fonds kan nadere eisen aan deze opgave stellen.
 
-#### Artikel 4.6. Beoordelingscriteria
+##### Artikel 4.6. Beoordelingscriteria
 
 Aanvragen worden beoordeeld aan de hand van de volgende criteria, die in de toelichting op deze regeling worden uitgelegd:
 
@@ -308,25 +333,25 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria, die in de toel
 
 ### Hoofdstuk 5. – Talentontwikkeling: festivals
 
-#### Artikel 5.1. Wie kan aanvragen
+##### Artikel 5.1. Wie kan aanvragen
 
 Een aanvraag voor een meerjarige subsidie op grond van dit hoofdstuk kan uitsluitend worden ingediend door een in het Koninkrijk der Nederlandse gevestigde culturele instelling. Deze instelling heeft het werken aan outcome en het organiseren van een festival (incl concoursen) ten behoeve van talentontwikkeling in de amateurkunst als kernactiviteit.
 
-#### Artikel 5.2. Waarvoor kan worden aangevraagd
+##### Artikel 5.2. Waarvoor kan worden aangevraagd
 
 1. Culturele instellingen kunnen subsidie aanvragen voor het werken aan outcome op gebied van en het organiseren van minimaal twee en maximaal vier edities van een in het Koninkrijk der Nederlanden georganiseerd (inter)nationaal festival (of concours), gericht op talentontwikkeling in de amateurkunst.
 
 2. De aanvraag is gericht op het werken aan en bereiken van outcome. De aanvrager beschrijft daarom in de aanvraag de stappen die worden gezet om het gewenste effect te realiseren. Zet de te nemen stappen in een realistisch tijdspad.
 
-#### Artikel 5.3. Subsidieplafond
+##### Artikel 5.3. Subsidieplafond
 
 Het subsidieplafond voor dit hoofdstuk bedraagt € 4.000.000.
 
-#### Artikel 5.4. Hoogte van de aanvraag
+##### Artikel 5.4. Hoogte van de aanvraag
 
 Per aanvraag bedraagt de subsidie minimaal € 250.000 en maximaal € 1.000.000.
 
-#### Artikel 5.5. Voorwaarden en drempelnorm
+##### Artikel 5.5. Voorwaarden en drempelnorm
 
 1. Als een aanvrager in aanmerking wil komen voor een meerjarige subsidie dient hij aan te tonen dat hij de drie voorafgaande jaren van landelijke betekenis was.
 
@@ -334,7 +359,7 @@ Per aanvraag bedraagt de subsidie minimaal € 250.000 en maximaal € 1.000.000
 
 3. Als een aanvrager geen jaarrekening kan overleggen over enig jaar dient hij een vergelijkbare opgave in. Het Fonds kan nadere eisen aan deze opgave stellen.
 
-#### Artikel 5.6. Beoordelingscriteria:
+##### Artikel 5.6. Beoordelingscriteria:
 
 Aanvragen worden beoordeeld aan de hand van de volgende criteria, die in de toelichting op deze regeling worden uitgelegd:
 
@@ -348,7 +373,7 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria, die in de toel
 
 ### Hoofdstuk 6. – Subsidieverplichtingen
 
-#### Artikel 6.1. Aan de subsidie verbonden verplichtingen
+##### Artikel 6.1. Aan de subsidie verbonden verplichtingen
 
 1. De subsidieontvanger meldt direct aan het Fonds als:
 
@@ -364,7 +389,7 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria, die in de toel
 
 4. De subsidieontvanger kan verplicht worden deel te nemen aan uitwisselingsbijeenkomsten en een professionaliseringstraject.
 
-#### Artikel 6.2. Kennisdeling, monitoring en evaluatie
+##### Artikel 6.2. Kennisdeling, monitoring en evaluatie
 
 1. De subsidieontvanger is verplicht tot kennisdeling, monitoring en evaluatie van het programma waarvoor subsidie is verstrekt. De aanvrager zet in het projectplan uiteen op welke wijze hij uitvoering geeft aan kennisdeling en het individuele monitoring- en evaluatietraject en reserveert op de begroting minimaal 2% van de totale activiteitenlasten voor monitoring en evaluatie.
 
@@ -372,24 +397,24 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria, die in de toel
 
 ### Hoofdstuk 7. – Slotbepalingen
 
-#### Artikel 7.1. Begrotingsvoorbehoud
+##### Artikel 7.1. Begrotingsvoorbehoud
 
 Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende middelen door de Minister van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 7.2. Hardheidsclausule
+##### Artikel 7.2. Hardheidsclausule
 
 Het Fonds kan in uitzonderlijke gevallen ten gunste van een belanghebbende van bepalingen in dit reglement afwijken indien toepassing daarvan leidt tot onbillijkheden van overwegende aard.
 
-#### Artikel 7.3. [Algemeen Subsidiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0045516)
+##### Artikel 7.3. [Algemeen Subsidiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0045516)
 
 De bepalingen in het [Algemeen Subsidiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0045516) zijn van toepassing, tenzij in deze regeling anders is bepaald.
 
-#### Artikel 7.4. Inwerkingtreding en vervaldatum
+##### Artikel 7.4. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 31 december 2029. Op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond, blijft het bepaalde in deze regeling van overeenkomstige toepassing.
 
-#### Artikel 7.5. Citeertitel
+##### Artikel 7.5. Citeertitel
 
 Deze regeling wordt aangehaald als: Meerjarenregeling Talentontwikkeling 2025–2028 Fonds voor Cultuurparticipatie

@@ -1,13 +1,39 @@
 ---
-title: "Organisatie-, Mandaat- en Volmachtbesluit directie CIV SZW 2020"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 25 mei 2020, nr. 2020-0000058877, houdende de inrichting van de directie CIO-office en Integrale Veiligheid alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur CIO-office en Integrale Veiligheid (Organisatie-, mandaat- en volmachtbesluit directie CIV SZW 2020)"
 identifier: "BWBR0043597"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-11-27
-laatste_update: 2025-11-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043597"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-11-27"
+last_updated: "2025-11-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043597"
+soort: "ministeriele-regeling"
+stam_id: "15477743"
+version_id: "26745782"
+internal_id: "C37906741"
+label_id: "15420584"
+dtd_version: "2.0"
+original_entry_into_force: "2020-06-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043597/2025-11-27/0"
+intitule_bron: "Stcrt.2020-29113"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-05-25"
+intitule_published: "2020-06-04"
+intitule_in_force: "2020-06-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-29113"
+original_signed_date: "2020-05-25"
+original_published_date: "2020-06-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-29113"
+entry_into_force_date: "2020-06-05"
+jci_1_3: "jci1.3:c:BWBR0043597&z=2025-11-27&g=2025-11-27"
+jci_1_0: "1.0:c:BWBR0043597&g=2025-11-27"
+citeertitel_status: "officieel"
+short_title: "Organisatie-, Mandaat- en Volmachtbesluit directie CIV SZW 2020"
+signed_date: "2020-05-25"
+entry_into_force: "2020-06-05"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 25 mei 2020, nr. 2020-0000058877, houdende de inrichting van de directie CIO-office en Integrale Veiligheid alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur CIO-office en Integrale Veiligheid (Organisatie-, mandaat- en volmachtbesluit directie CIV SZW 2020)
 
 Gelet op de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&artikel=3), en [8, van het Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal 2009 SZW](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&artikel=8);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Organisatie
 
-#### Artikel 2
+##### Artikel 2
 
 1. De directie CIV bestaat uit de volgende onderdelen:
 
@@ -60,7 +86,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 3. Verantwoordelijkheden
 
-#### Artikel 3
+##### Artikel 3
 
 1. De directeur wordt voor de dagelijkse aansturing van de directie ondersteund door het managementteam. De directeur is hierbij verantwoordelijk voor de volgende taken:
 
@@ -92,7 +118,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. het stimuleren van het op een verantwoorde manier datagedreven werken bij het ministerie.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De beveiligingsautoriteit is, onverminderd het bepaalde in de Algemene Verordening Gegevensbescherming, verantwoordelijk voor de taken als bedoeld in [artikel 4 van het Besluit BVA-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044617&artikel=4) en:
 
@@ -110,7 +136,7 @@ Op de aangewezen piketmedewerker van de afdeling Veiligheid is [artikel 5 van he
 
 #### § 4. Bevoegdheden
 
-#### Artikel 5
+##### Artikel 5
 
 Aan elk van de afdelingshoofden wordt mandaat, volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het ondertekenen van stukken die betrekking hebben op:
 
@@ -126,11 +152,11 @@ Aan elk van de afdelingshoofden wordt mandaat, volmacht en machtiging verleend t
 
 - 4°. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur maximaal € 150.
 
-#### Artikel 6
+##### Artikel 6
 
 Elk van de afdelingshoofden is gevolmachtigd tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst, voor zover deze betrekking hebben op de activiteiten die vallen onder hun verantwoordelijkheid.
 
-#### Artikel 7
+##### Artikel 7
 
 Aan elk van de afdelingshoofden wordt mandaat en machtiging verleend met betrekking tot:
 
@@ -138,13 +164,13 @@ Aan elk van de afdelingshoofden wordt mandaat en machtiging verleend met betrekk
 
 - b. het paraferen van stukken waar de directie geen voortouw in heeft, met uitzondering van stukken waarvan gelet op het belang daarvan redelijkerwijs vermoed kan worden dat deze door de directeur afgedaan moeten worden.
 
-#### Artikel 8
+##### Artikel 8
 
 Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door de plaatsvervangend directeur.
 
 #### § 5. Slotbepaling
 
-#### Artikel 9
+##### Artikel 9
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 mei 2020.
 
@@ -152,15 +178,15 @@ Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afw
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a
+##### Artikel 3a
 
 Het afdelingshoofd CIO-office is verantwoordelijk voor de ondersteuning van de directeur bij de uitoefening van haar taken.
 
-#### Artikel 3b
+##### Artikel 3b
 
 De CISO is belast met de ontwikkeling en coördinatie van het informatiebeveiligingsbeleid als bedoeld in [artikel 3 van het Besluit Voorschrift Informatiebeveiliging Rijksdienst 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022141&artikel=3) en [artikel 3 van het Besluit Voorschrift Informatiebeveiliging Rijksdienst – Bijzondere Informatie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033507&artikel=3) en het ondersteunen van het verantwoordelijke lijnmanagement bij de implementatie en naleving hiervan. Voorts is de CISO verantwoordelijk voor de taken als bedoeld in [artikel 7 van het Besluit CIO-stelsel](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=7).
 
-#### Artikel 3c
+##### Artikel 3c
 
 Het afdelingshoofd Informatie voor Beleid en Bedrijfsvoering is verantwoordelijk voor de volgende taken:
 

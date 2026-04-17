@@ -1,14 +1,38 @@
 ---
-title: "Toeslagwet Indonesische pensioenen 1956"
+title: "Wet van 23 juli 1957, houdende egalisatie en aanpassing van Indonesische pensioenen en daarmede in aard overeenkomende uitkeringen"
 identifier: "BWBR0002251"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002251"
+country: "nl"
+rank: "wet"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002251"
+soort: "wet"
+stam_id: "1773173"
+version_id: "2636262"
+internal_id: "C2636261"
+label_id: "1729604"
+dtd_version: "2.0"
+original_entry_into_force: "1957-08-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002251/2015-01-01/0"
+intitule_bron: "Stb.1957-319"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1957-07-23"
+intitule_status: "goed"
+original_publication: "Stb.1957-319"
+original_signed_date: "1957-07-23"
+original_effect: "nieuwe-regeling"
+original_dossier: "4683"
+entry_into_force_date: "1957-08-10"
+entry_into_force_dossier: "4683"
+jci_1_3: "jci1.3:c:BWBR0002251&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0002251&g=2015-01-01"
+citeertitel_status: "officieel"
+short_title: "Toeslagwet Indonesische pensioenen 1956"
+signed_date: "1957-07-23"
+entry_into_force: "1957-08-10"
 ---
-
-# Toeslagwet Indonesische pensioenen 1956
+# Wet van 23 juli 1957, houdende egalisatie en aanpassing van Indonesische pensioenen en daarmede in aard overeenkomende uitkeringen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +42,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Op het tijdstip van inwerkingtreding van deze wet worden buiten werking gesteld:
 
@@ -28,7 +52,7 @@ Op het tijdstip van inwerkingtreding van deze wet worden buiten werking gesteld:
 
 - c. de Toeslagwet-1954 Indonesische uitkeringen (**Stb.** 1955, 401), ten aanzien van uitkeringen, welke voor een aanpassingstoeslag krachtens deze wet in aanmerking komen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. In deze wet wordt verstaan onder:
 
@@ -58,207 +82,207 @@ Op het tijdstip van inwerkingtreding van deze wet worden buiten werking gesteld:
 
 3. Tenzij anders blijkt, worden voor de toepassing van deze wet pensioenen, weduwenpensioenen, wezenonderstanden en overige uitkeringen geacht in euro's te luiden.
 
-#### Artikel 2a
+##### Artikel 2a
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
 ### Hoofdstuk I-A. Vervallen
 
-#### Artikel 3a
+##### Artikel 3a
 
 Vervallen
 
-#### Artikel 3b
+##### Artikel 3b
 
 Vervallen
 
-#### Artikel 3c
+##### Artikel 3c
 
 Vervallen
 
-#### Artikel 3d
+##### Artikel 3d
 
 Vervallen
 
-#### Artikel 3e
+##### Artikel 3e
 
 Vervallen
 
 ### Hoofdstuk II. Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
 ### Hoofdstuk III. Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
 ### Hoofdstuk IV. Vervallen
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
 ### Hoofdstuk V. Vervallen
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen
 
 ### Hoofdstuk V-A. Vervallen
 
-#### Artikel 30a
+##### Artikel 30a
 
 Vervallen
 
-#### Artikel 30b
+##### Artikel 30b
 
 Vervallen
 
-#### Artikel 30c
+##### Artikel 30c
 
 Vervallen
 
-#### Artikel 30d
+##### Artikel 30d
 
 Vervallen
 
-#### Artikel 30e
+##### Artikel 30e
 
 Vervallen
 
-#### Artikel 30f
+##### Artikel 30f
 
 Vervallen
 
-#### Artikel 30g
+##### Artikel 30g
 
 Vervallen
 
 ### Hoofdstuk VI. Slotbepalingen
 
-#### Artikel 31
+##### Artikel 31
 
 1. Indien een persoon, die recht heeft op pensioen, weduwenpensioen, wezenonderstand of overige uitkering ingevolge het bepaalde bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) een bijdrage verschuldigd is in de kosten van zorg, is het orgaan, dat belast is met de uitbetaling van het pensioen, het weduwenpensioen, de wezenonderstand of de overige uitkering en toeslagen krachtens deze wet, bevoegd het pensioen, het weduwenpensioen, de wezenonderstand, de overige uitkering en de toeslagen tot ten hoogste het bedrag van die bijdrage in plaats van aan die persoon zonder diens machtiging uit te betalen aan het Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58).
 
 2. Het in het voorgaande lid bepaalde is van overeenkomstige toepassing ten aanzien van uitbetaling van pensioenen als bedoeld in de Bijzondere Ongevallenregeling Dienst- en Reserveplichtigen (**Ind. Stb.** 1947, 154) en daarop verleende toeslagen.
 
-#### Artikel 32
+##### Artikel 32
 
 1. In de gevallen, waarin deze wet niet of niet naar billijkheid voorziet en welke betrekking hebben op weduwenpensioenen en wezenonderstanden, is Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties bevoegd in overeenstemming met Onze Minister van Financiën voorzieningen te treffen.
 
 2. In alle overige gevallen, waarin deze wet niet of niet naar billijkheid voorziet, is Onze Minister van Buitenlandse Zaken bevoegd in overeenstemming met Onze Minister van Financiën voorzieningen te treffen.
 
-#### Artikel 33
+##### Artikel 33
 
 1. De kosten van deze wet komen ten laste van Hoofdstuk VII der Rijksbegroting.
 
 2. Onze Ministers van Buitenlandse Zaken en van Binnenlandse Zaken en Koninkrijksrelaties wijzen de organen aan, welke de toeslagen en toelagen verlenen en/of uitbetalen.
 
-#### Artikel 34
+##### Artikel 34
 
 Deze wet kan worden aangehaald als "Toeslagwet Indonesische pensioenen 1956".
 
-#### Artikel 35
+##### Artikel 35
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij wordt geplaatst.
 

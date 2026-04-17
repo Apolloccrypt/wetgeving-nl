@@ -1,14 +1,41 @@
 ---
-title: "Wijzigingswet Kernenergiewet (vereenvoudiging bevoegd gezag, invoering verplichting tot financiële zekerheidstelling en enkele andere wijzigingen)"
+title: "Wet van 19 november 2009 tot wijziging van de Kernenergiewet in verband met vereenvoudiging van het bevoegd gezag, invoering van een verplichting tot financiële zekerheidstelling en enkele andere wijzigingen"
 identifier: "BWBR0027098"
-categorie: "Milieu"
-publicatiedatum: 2014-01-01
-laatste_update: 2014-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027098"
+country: "nl"
+rank: "wet"
+publication_date: "2014-01-01"
+last_updated: "2014-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027098"
+soort: "wet"
+stam_id: "10390283"
+version_id: "17092862"
+internal_id: "C23948501"
+label_id: "10365654"
+dtd_version: "2.0"
+original_entry_into_force: "2010-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027098/2014-01-01/0"
+intitule_bron: "Stb.2010-18"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-11-19"
+intitule_published: "2010-01-21"
+intitule_in_force: "2010-05-26"
+intitule_status: "goed"
+original_publication: "Stb.2010-18"
+original_signed_date: "2009-11-19"
+original_published_date: "2010-01-21"
+original_effect: "nieuwe-regeling"
+original_dossier: "30429"
+original_url_id: "stb-2010-18"
+entry_into_force_date: "2010-07-01"
+jci_1_3: "jci1.3:c:BWBR0027098&z=2014-01-01&g=2014-01-01"
+jci_1_0: "1.0:c:BWBR0027098&g=2014-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingswet Kernenergiewet (vereenvoudiging bevoegd gezag, invoering verplichting tot financiële zekerheidstelling en enkele andere wijzigingen)"
+signed_date: "2009-11-19"
+entry_into_force: "2010-07-01"
 ---
-
-# Wijzigingswet Kernenergiewet (vereenvoudiging bevoegd gezag, invoering verplichting tot financiële zekerheidstelling en enkele andere wijzigingen)
+# Wet van 19 november 2009 tot wijziging van de Kernenergiewet in verband met vereenvoudiging van het bevoegd gezag, invoering van een verplichting tot financiële zekerheidstelling en enkele andere wijzigingen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,19 +45,19 @@ dat het daarnaast wenselijk is het aantal bij het bevoegd gezag betrokken minist
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Kernenergiewet.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel IIa
+##### Artikel IIa
 
 [Artikel 1a, onder 1°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1a) is voor wat betreft de zinsnede met betrekking tot [artikel 15f, eerste en zesde lid, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15f) niet van toepassing op de houder van een vergunning als bedoeld in [artikel 15, onder b, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) voor het buiten gebruik stellen van een inrichting waarin kernenergie kon worden vrijgemaakt, indien de inrichting op het tijdstip van inwerkingtreding van deze wet reeds buiten gebruik is gesteld.
 
-#### Artikel III
+##### Artikel III
 
 1. Deze wet, met uitzondering van de [artikelen I, onder G](https://wetten.overheid.nl/jci1.3:c:BWBR0027098&artikel=I&z=2014-01-01&g=2014-01-01), en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0027098&artikel=II&z=2014-01-01&g=2014-01-01), treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 

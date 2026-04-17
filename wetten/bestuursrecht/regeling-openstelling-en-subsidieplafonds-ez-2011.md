@@ -1,20 +1,46 @@
 ---
-title: "Regeling openstelling en subsidieplafonds EZ 2011"
+title: "Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 17 december 2010, nr. WJZ/10182918, tot vaststelling van subsidieplafonds en termijnen van openstelling van EZ-subsidieregelingen (Regeling openstelling en subsidieplafonds EZ 2011)"
 identifier: "BWBR0029264"
-categorie: "Bestuursrecht"
-publicatiedatum: 2011-12-21
-laatste_update: 2011-12-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029264"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2011-12-21"
+last_updated: "2011-12-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029264"
+soort: "ministeriele-regeling"
+stam_id: "11164943"
+version_id: "18261122"
+internal_id: "C25404231"
+label_id: "11139254"
+dtd_version: "2.0"
+original_entry_into_force: "2011-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029264/2011-12-21/0"
+intitule_bron: "Stcrt.2010-20886"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-12-17"
+intitule_published: "2010-12-27"
+intitule_in_force: "2010-12-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-20886"
+original_signed_date: "2010-12-17"
+original_published_date: "2010-12-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-20886"
+entry_into_force_date: "2011-01-01"
+jci_1_3: "jci1.3:c:BWBR0029264&z=2011-12-21&g=2011-12-21"
+jci_1_0: "1.0:c:BWBR0029264&g=2011-12-21"
+citeertitel_status: "officieel"
+short_title: "Regeling openstelling en subsidieplafonds EZ 2011"
+signed_date: "2010-12-17"
+entry_into_force: "2011-01-01"
 ---
-
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 17 december 2010, nr. WJZ/10182918, tot vaststelling van subsidieplafonds en termijnen van openstelling van EZ-subsidieregelingen (Regeling openstelling en subsidieplafonds EZ 2011)
 
 Gelet op [artikel 16 van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796) en de [artikelen 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=3.9), [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5.5) en [5a.5 van de Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5a.5);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Als perioden in 2011, waarin subsidie–aanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; aanvragen moeten zijn ontvangen op de genoemde einddatum om 17.00 uur.
 
@@ -144,7 +170,7 @@ Besluit:
 | 7.5 | Subsidieregeling internationaal excelleren (opkomende markten) | 5.8 |   | – | – |
 | 7.6 | Subsidieregeling internationaal excelleren (opkomende markten) | 5.19 |   | 01-01 t/m 31-12 | 2.000.000 |
 
-#### Artikel 2
+##### Artikel 2
 
 1. Als perioden, waarin subsidie-aanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; aanvragen moeten zijn ontvangen op de genoemde einddatum om 17.00 uur.
 
@@ -166,7 +192,7 @@ Besluit:
 | 8 | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) (veiligheid kleine bedrijven) | 9.7 |   | 01-02-2011 t/m 01-06-2012 | 7.000.000 |
 |   |   |   |   |   |   |
 
-#### Artikel 3
+##### Artikel 3
 
 De percentages, bedoeld in [artikel 3.9 van de Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=3.9), bedragen voor de in 2011 aangevraagde subsidies voor innovatiekredieten:
 
@@ -178,11 +204,11 @@ De percentages, bedoeld in [artikel 3.9 van de Subsidieregeling innoveren](https
 
 - d. de opslag voor het terugbetalingsrisico: 3 procent per jaar.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van 1 januari 2011.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling openstelling en subsidieplafonds EZ 2011.
 

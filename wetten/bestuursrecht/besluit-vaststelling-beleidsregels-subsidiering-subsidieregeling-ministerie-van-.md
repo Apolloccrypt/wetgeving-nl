@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling beleidsregels subsidiëring Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Strategische partnerschappen pleiten en beïnvloeden 2016–2020)"
+title: "Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 7 mei 2014, nr. DSO/MO-113/2014 tot vaststelling van beleidsregels voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Strategische partnerschappen pleiten en beïnvloeden 2016–2020)"
 identifier: "BWBR0035110"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-07-10
-laatste_update: 2014-07-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035110"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-07-10"
+last_updated: "2014-07-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035110"
+soort: "ministeriele-regeling"
+stam_id: "12670513"
+version_id: "21406782"
+internal_id: "C30735081"
+label_id: "12640614"
+dtd_version: "2.0"
+original_entry_into_force: "2014-05-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035110/2014-07-10/0"
+intitule_bron: "Stcrt.2014-13509"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-05-07"
+intitule_published: "2014-05-14"
+intitule_in_force: "2014-05-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-13509"
+original_signed_date: "2014-05-07"
+original_published_date: "2014-05-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-13509"
+entry_into_force_date: "2014-05-05"
+jci_1_3: "jci1.3:c:BWBR0035110&z=2014-07-10&g=2014-07-10"
+jci_1_0: "1.0:c:BWBR0035110&g=2014-07-10"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling beleidsregels subsidiëring Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Strategische partnerschappen pleiten en beïnvloeden 2016–2020)"
+signed_date: "2014-05-07"
+entry_into_force: "2014-05-05"
 ---
-
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 7 mei 2014, nr. DSO/MO-113/2014 tot vaststelling van beleidsregels voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Strategische partnerschappen pleiten en beïnvloeden 2016–2020)
 
 Gelet op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=6) en [7 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=7);
@@ -16,19 +42,19 @@ Gelet op de [artikelen 4.1 tot en met 4.7 van de Subsidieregeling Ministerie van
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor subsidieverlening op grond van [afdeling 4 Strategische partnerschappen pleiten en beïnvloeden van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=4) gelden voor de periode vanaf de inwerkingtreding van dit besluit tot en met 31 december 2020 de als bijlage bij dit besluit gevoegde beleidsregels.
 
-#### Artikel 2
+##### Artikel 2
 
 Aanvragen om in aanmerking te komen voor een strategisch partnerschap in het kader van Strategische partnerschappen pleiten en beïnvloeden 2016–2020 worden ingediend in de periode vanaf de datum van inwerkingtreding van dit besluit tot 1 september 2014 12.00 uur aan de hand van het daartoe door de minister vastgestelde aanvraagformulier en voorzien van de op het aanvraagformulier gevraagde bescheiden.1Het aanvraagformulier is met de daarbij behorende annexen, ook geplaatst op http://www.rijksoverheid.nl/onderwerpen/subsidies-voor-ontwikkelingssamenwerkig-en-europa/subsidies-maatschappelijke-organisaties.
 
-#### Artikel 3
+##### Artikel 3
 
 De selectie van de strategische partners vindt plaats op grond van een beoordeling overeenkomstig de maatstaven die in de bijlage bij dit besluit zijn neergelegd, met dien verstande dat uit alle aanvragen die voldoen aan de maatstaven, de aanvragen die het beste voldoen aan die maatstaven het eerst voor een strategisch partnerschap in aanmerking komen, binnen het raam van een evenwichtige spreiding als bedoeld in [artikel 8, derde lid, sub d, van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=8).
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 januari 2021 met dien verstande dat het van toepassing blijft op subsidies die voor die datum zijn verleend.
 

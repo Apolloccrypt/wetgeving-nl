@@ -1,20 +1,46 @@
 ---
-title: "Regeling aanvullende bekostiging technisch vmbo 2018-2019"
+title: "Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 13 juni 2018 nr. VO/1364203, houdende regels voor aanvullende bekostiging voor technisch onderwijs in het voorbereidend middelbaar beroepsonderwijs in de kalenderjaren 2018 en 2019 (Regeling aanvullende bekostiging technisch vmbo 2018 en 2019)"
 identifier: "BWBR0041042"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2019-09-27
-laatste_update: 2019-09-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041042"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-09-27"
+last_updated: "2019-09-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041042"
+soort: "ministeriele-regeling"
+stam_id: "14652643"
+version_id: "25249192"
+internal_id: "C36082641"
+label_id: "14605564"
+dtd_version: "2.0"
+original_entry_into_force: "2018-09-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041042/2019-09-27/0"
+intitule_bron: "Stcrt.2018-34118"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-06-13"
+intitule_published: "2018-06-20"
+intitule_in_force: "2018-06-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-49427"
+original_signed_date: "2018-08-17"
+original_published_date: "2018-09-04"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2018-49427"
+entry_into_force_date: "2018-09-05"
+jci_1_3: "jci1.3:c:BWBR0041042&z=2019-09-27&g=2019-09-27"
+jci_1_0: "1.0:c:BWBR0041042&g=2019-09-27"
+citeertitel_status: "officieel"
+short_title: "Regeling aanvullende bekostiging technisch vmbo 2018-2019"
+signed_date: "2018-08-17"
+entry_into_force: "2018-09-05"
 ---
-
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 13 juni 2018 nr. VO/1364203, houdende regels voor aanvullende bekostiging voor technisch onderwijs in het voorbereidend middelbaar beroepsonderwijs in de kalenderjaren 2018 en 2019 (Regeling aanvullende bekostiging technisch vmbo 2018 en 2019)
 
 Gelet op de [artikelen 85a](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=85a) en [89 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=89) en [artikel 2.2.3, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.3);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -40,11 +66,11 @@ In deze regeling wordt verstaan onder:
 
 - **vmbo:** voorbereidend beroepsonderwijs als bedoeld in [artikel 10a van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10a), middelbaar algemeen voortgezet onderwijs als bedoeld in [artikel 9 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=9), voorbereidend beroepsonderwijs als bedoeld in [artikel 17 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=17) of middelbaar algemeen voortgezet onderwijs als bedoeld in [artikel 15 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=15).
 
-#### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Te bekostigen activiteiten
+##### Artikel 3. Te bekostigen activiteiten
 
 1. De Minister verstrekt voor de kalenderjaren 2018 en 2019 jaarlijks aanvullende bekostiging aan het bevoegd gezag van scholen die technisch vmbo aanbieden, voor:
 
@@ -66,13 +92,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 4. De Minister verstrekt de aanvullende bekostiging, bedoeld in het eerste en tweede lid, op aanvraag, aan het bevoegd gezag van een school als bedoeld in [artikel 1 van Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1). Het bevoegd gezag dient op uiterlijk 1 mei 2019 een aanvraag voor aanvullende bekostiging voor de kalenderjaren 2018 en 2019 in met gebruikmaking van het daarvoor beschikbaar gestelde formulier op de website www.duo.nl. Aanvragen ontvangen na 1 mei 2019 worden afgewezen.
 
-#### Artikel 4. Bekostigingsplafond
+##### Artikel 4. Bekostigingsplafond
 
 1. Voor het verstrekken van de aanvullende bekostiging, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=3&z=2019-09-27&g=2019-09-27), is in het kalenderjaar 2018 een bedrag van € 32 miljoen en in het kalenderjaar 2019 een bedrag van € 63,5 miljoen beschikbaar.
 
 2. Voor het verstrekken van de aanvullende bekostiging, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=3&z=2019-09-27&g=2019-09-27), is in het kalenderjaar 2018 een bedrag van € 2 miljoen en in het kalenderjaar 2019 een bedrag van € 4,5 miljoen beschikbaar.
 
-#### Artikel 5. Wijze van verdelen beschikbare middelen
+##### Artikel 5. Wijze van verdelen beschikbare middelen
 
 1. Het bekostigingsplafond, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=4&z=2019-09-27&g=2019-09-27), wordt verdeeld over de scholen die technisch vmbo aanbieden op basis van het aantal leerlingen, dat is ingeschreven in het technisch vmbo. De teldata zijn respectievelijk:
 
@@ -90,11 +116,11 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 6. De Minister kan de bedragen, bedoeld in het tweede en vierde lid, wijzigen, indien het beschikbare budget, bedoeld in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=4&z=2019-09-27&g=2019-09-27), wordt overschreden of niet volledig wordt uitgeput.
 
-#### Artikel 6. Besteding aanvullende bekostiging
+##### Artikel 6. Besteding aanvullende bekostiging
 
 Als de activiteiten zijn uitgevoerd en aan de verplichtingen is voldaan, kan het niet aangewende deel van de aanvullende bekostiging worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
-#### Artikel 7. Betaling
+##### Artikel 7. Betaling
 
 1. De Minister stelt de aanvullende bekostiging direct vast en betaalt het bedrag van de aanvullende bekostiging aan scholen als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), [artikel 1 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=1) of een agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.3) ineens:
 
@@ -104,7 +130,7 @@ Als de activiteiten zijn uitgevoerd en aan de verplichtingen is voldaan, kan het
 
 2. De Minister stelt de aanvullende bekostiging direct vast binnen 4 maanden na ontvangst van de aanvraag en betaalt het bedrag van de aanvullende bekostiging aan een school als bedoeld in [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), voor de kalenderjaren 2018 en 2019 uiterlijk in september 2019.
 
-#### Artikel 8. Verantwoording
+##### Artikel 8. Verantwoording
 
 1. De verantwoording van de aanvullende bekostiging geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132) onderscheidenlijk de [Regeling jaarverslaggeving onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031801) met model G, onderdeel 1, zoals bedoeld in richtlijn 660 van de Raad voor de Jaarverslaggeving.
 
@@ -112,7 +138,7 @@ Als de activiteiten zijn uitgevoerd en aan de verplichtingen is voldaan, kan het
 
 3. De ontvanger van de bekostiging toont op verzoek van de minister aan dat het aantal leerlingen op basis waarvan de bekostiging is ontvangen overeenkomt met het aantal leerlingen dat onderwijs heeft gevolgd in het technisch vmbo.
 
-#### Artikel 9. Inwerkingtreding en vervaldatum
+##### Artikel 9. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2018.
 
@@ -120,7 +146,7 @@ Als de activiteiten zijn uitgevoerd en aan de verplichtingen is voldaan, kan het
 
 3. Deze regeling berust mede op de [artikelen 155](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=155) en [157 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=157), alsmede op de [artikelen 113](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=113) en [117 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=117).
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling aanvullende bekostiging technisch vmbo 2018-2019.
 
@@ -277,7 +303,7 @@ Deze regeling wordt aangehaald als: Regeling aanvullende bekostiging technisch v
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5a. Afwijkende bepalingen BES
+##### Artikel 5a. Afwijkende bepalingen BES
 
 1. In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041042&artikel=1&z=2019-09-27&g=2019-09-27) wordt in Caribisch Nederland onder technisch vmbo mede verstaan: het technisch beroepsgericht onderwijs en technische en technologische componenten binnen de Caribbean Vocational Qualification-structuur in het derde en vierde leerjaar.
 

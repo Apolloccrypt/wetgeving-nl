@@ -1,13 +1,38 @@
 ---
-title: "Verordening algemene heffing groenten en fruit 2010"
+title: "Besluit van het bestuur van het Productschap Tuinbouw van 11 november 2009, houdende de vaststelling van een algemene heffing groenten en fruit 2010 (Verordening PT algemene heffing groenten en fruit 2010)"
 identifier: "BWBR0027564"
-categorie: "Belastingrecht"
-publicatiedatum: 2011-09-11
-laatste_update: 2011-09-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027564"
+country: "nl"
+rank: "pbo"
+publication_date: "2011-09-11"
+last_updated: "2011-09-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027564"
+soort: "pbo"
+stam_id: "10509813"
+version_id: "17312452"
+internal_id: "C23884251"
+label_id: "10484944"
+dtd_version: "2.0"
+original_entry_into_force: "2010-03-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027564/2011-09-11/0"
+intitule_bron: "Vbbo.2010-15"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-11-11"
+intitule_published: "2010-03-12"
+intitule_in_force: "2010-03-12"
+intitule_status: "goed"
+original_publication: "Vbbo.2010-15"
+original_signed_date: "2009-11-11"
+original_published_date: "2010-03-12"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2010-03-14"
+jci_1_3: "jci1.3:c:BWBR0027564&z=2011-09-11&g=2011-09-11"
+jci_1_0: "1.0:c:BWBR0027564&g=2011-09-11"
+citeertitel_status: "officieel"
+short_title: "Verordening algemene heffing groenten en fruit 2010"
+signed_date: "2009-11-11"
+entry_into_force: "2010-03-14"
 ---
-
 # Besluit van het bestuur van het Productschap Tuinbouw van 11 november 2009, houdende de vaststelling van een algemene heffing groenten en fruit 2010 (Verordening PT algemene heffing groenten en fruit 2010)
 
 gelet op de [artikelen 93](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=93) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126);
@@ -20,7 +45,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Deze verordening verstaat onder:
 
@@ -54,7 +79,7 @@ Besluit:
 
 #### § 2. Heffingsplicht
 
-#### Artikel 2
+##### Artikel 2
 
 1. De ondernemer die een onderneming drijft, met als activiteit het handelen in groenten en fruit, het bewerken, het telen of verduurzamen van groenten en fruit, is verplicht aan het productschap jaarlijks een heffing te betalen. Uit de opbrengst van deze heffing worden de bestuurskosten en de huishoudelijke kosten van het productschap gefinancierd.
 
@@ -62,7 +87,7 @@ Besluit:
 
 #### § 3. Grondslag en hoogte
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan de ondernemer, die de hieronder genoemde groenten en fruit teelt, wordt de heffing opgelegd naar het grondgebruik. De heffing wordt berekend naar de oppervlakte van de bij zijn onderneming behorende cultuurgrond en bedraagt voor:
 
@@ -163,7 +188,7 @@ Besluit:
 | b) | Overige paddenstoelen: | 0,052% van de omzet |
 | c) | Uitgangsmateriaal: | 0,012% van de omzet |
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor de toepassing van [artikel 3, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027564&paragraaf=3&artikel=3&z=2011-09-11&g=2011-09-11), wordt onder de bij zijn onderneming behorende cultuurgrond mede verstaan de cultuurgrond die:
 
@@ -179,7 +204,7 @@ Besluit:
 
 3. De belasting van gedeelten van groepen met als eenheid hectare of are of centiare is evenredig aan de voor die groepen bedoelde bedragen. Gedeelten van een hectare of are worden naar beneden afgerond, tot een veelvoud van respectievelijk are en centiare.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Aan de ondernemer die handelt in groenten en fruit, wordt de heffing opgelegd naar de grondslag “aankoopwaarde handel”. Aan de ondernemer die groenten en fruit bewerkt, wordt de heffing ook opgelegd naar de grondslag “aankoopwaarde handel”. Indien groenten en fruit zijn aangekocht uit het buitenland wordt voor “aankoopwaarde handel” gebruik gemaakt van de CIF-waarde. Voor de ondernemer die handelt in groenten en fruit of die groenten en fruit bewerkt, bedraagt de heffing 0,02% van de “aankoopwaarde handel”.
 
@@ -187,7 +212,7 @@ Besluit:
 
 3. Het eerste en tweede lid van dit artikel zijn van overeenkomstige toepassing op de afzetorganisatie/bemiddelaar die producten voor eigen rekening en risico verhandelt.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Aan de ondernemer die groenten en fruit verduurzaamt wordt de heffing opgelegd naar de grondslag omzet “af fabriek”. Voor de ondernemer die groenten en fruit verduurzaamt, bedraagt de heffing 0,025% van de omzet “af fabriek”.
 
@@ -195,23 +220,23 @@ Besluit:
 
 #### § 4. Oplegging en inning
 
-#### Artikel 7
+##### Artikel 7
 
 1. De oplegging van de krachtens deze verordening verschuldigde heffing vindt plaats in of na afloop van het betreffende kalenderjaar en geschiedt door toezending of uitreiking aan de ondernemer van een heffingsnota.
 
 2. In afwijking van het eerste lid, kan aan de ondernemer een voorlopige heffing worden opgelegd tot het bedrag waarop de heffing vermoedelijk zal worden vastgesteld. De voorlopige heffing wordt verrekend met de krachtens deze verordening verschuldigde heffing.
 
-#### Artikel 8
+##### Artikel 8
 
 Indien uit de ter beschikking van het productschap gekomen gegevens blijkt dat verstrekte gegevens of een raming als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027564&paragraaf=4&artikel=7&z=2011-09-11&g=2011-09-11), niet in overeenstemming zijn met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De gegevens verkregen uit hoofde van het bepaalde in deze verordening worden in handen van de secretaris of door deze aan te wijzen personen van het secretariaat van het productschap gesteld.
 
 2. Deze gegevens worden uitsluitend gebruikt door de vervulling van de taak van het productschap.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het bestuur is belast met de uitvoering van het bij of krachtens deze verordening bepaalde en is bevoegd omtrent de bij of krachtens deze verordening geregelde onderwerpen nadere uitvoeringsvoorschriften te geven.
 
@@ -221,10 +246,10 @@ Indien uit de ter beschikking van het productschap gekomen gegevens blijkt dat v
 
 #### § 5. Slotbepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 Deze verordening treedt in werking op 1 januari 2010. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2010, treedt zij in werking op de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2010.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze verordening wordt aangehaald als: Verordening algemene heffing groenten en fruit 2010.

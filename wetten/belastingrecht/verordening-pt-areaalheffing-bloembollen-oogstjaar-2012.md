@@ -1,13 +1,38 @@
 ---
-title: "Verordening PT areaalheffing bloembollen oogstjaar 2012"
+title: "Besluit van het bestuur van het Productschap Tuinbouw 27 maart 2012, houdende de vaststelling van een aan telers van bloembollen op te leggen heffing voor het oogstjaar 2012 (Verordening PT areaalheffing bloembollen oogstjaar 2012)"
 identifier: "BWBR0033948"
-categorie: "Belastingrecht"
-publicatiedatum: 2013-09-22
-laatste_update: 2013-09-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033948"
+country: "nl"
+rank: "pbo"
+publication_date: "2013-09-22"
+last_updated: "2013-09-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033948"
+soort: "pbo"
+stam_id: "12378163"
+version_id: "20774402"
+internal_id: "C29838261"
+label_id: "12349244"
+dtd_version: "2.0"
+original_entry_into_force: "2013-09-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033948/2013-09-22/0"
+intitule_bron: "Vbbo.2013-44"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-03-27"
+intitule_published: "2013-09-20"
+intitule_in_force: "2013-09-20"
+intitule_status: "goed"
+original_publication: "Vbbo.2013-44"
+original_signed_date: "2012-03-27"
+original_published_date: "2013-09-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2013-09-22"
+jci_1_3: "jci1.3:c:BWBR0033948&z=2013-09-22&g=2013-09-22"
+jci_1_0: "1.0:c:BWBR0033948&g=2013-09-22"
+citeertitel_status: "officieel"
+short_title: "Verordening PT areaalheffing bloembollen oogstjaar 2012"
+signed_date: "2012-03-27"
+entry_into_force: "2013-09-22"
 ---
-
 # Besluit van het bestuur van het Productschap Tuinbouw 27 maart 2012, houdende de vaststelling van een aan telers van bloembollen op te leggen heffing voor het oogstjaar 2012 (Verordening PT areaalheffing bloembollen oogstjaar 2012)
 
 gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126);
@@ -20,7 +45,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze verordening worden overgenomen de begripsbepalingen van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=1) en [2 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=2).
 
@@ -35,7 +60,7 @@ Besluit:
 
 #### § 2. Heffingsplicht
 
-#### Artikel 2
+##### Artikel 2
 
 1. De ondernemer die een onderneming drijft waarin bloembollen worden geteeld, is verplicht aan het productschap jaarlijks een heffing te betalen.
 
@@ -43,7 +68,7 @@ Besluit:
 
 #### § 3. Grondslag en hoogte
 
-#### Artikel 3
+##### Artikel 3
 
 1. De heffing die is verschuldigd wordt opgelegd naar de grondslag grondgebruik, één en ander overeenkomstig de volgende artikelen.
 
@@ -74,7 +99,7 @@ Besluit:
 
 5. De belasting van gedeelten van groepen met als eenheid hectare of are is evenredig aan de voor die groepen bedoelde bedragen. Gedeelten van een are worden naar beneden afgerond.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De berekening van de heffing vindt plaats op basis van de door de ondernemer aan de Bloembollenkeuringsdienst (BKD) verstrekte areaalgegevens.
 
@@ -88,17 +113,17 @@ Besluit:
 
 #### § 4. Oplegging en inning
 
-#### Artikel 5
+##### Artikel 5
 
 1. De oplegging van de krachtens deze verordening verschuldigde heffing vindt plaats in of na afloop van het oogstjaar 2012 en geschiedt door toezending of uitreiking aan de ondernemer van een heffingsnota.
 
 2. In afwijking van het eerste lid kan aan de ondernemer een voorlopige heffing worden opgelegd tot het bedrag waarop de heffing vermoedelijk zal worden vastgesteld. De voorlopige heffing wordt verrekend met de krachtens deze verordening verschuldigde heffing.
 
-#### Artikel 6
+##### Artikel 6
 
 Indien uit ter beschikking van het productschap gekomen gegevens blijkt dat verstrekte gegevens of een raming als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033948&paragraaf=4&artikel=5&z=2013-09-22&g=2013-09-22), niet in overeenstemming zijn met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De gegevens, verkregen uit hoofde van het bepaalde in deze verordening worden in handen van de secretaris of door deze aan te wijzen personen van het secretariaat van het productschap gesteld.
 
@@ -106,10 +131,10 @@ Indien uit ter beschikking van het productschap gekomen gegevens blijkt dat vers
 
 #### § 5. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Deze verordening treedt in werking op 1 juni 2012. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 juni 2012, treedt zij in werking op de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 juni 2012.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze verordening wordt aangehaald als: Verordening PT areaalheffing bloembollen oogstjaar 2012.

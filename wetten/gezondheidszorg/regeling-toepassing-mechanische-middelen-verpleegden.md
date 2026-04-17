@@ -1,13 +1,37 @@
 ---
 title: "Regeling toepassing mechanische middelen verpleegden"
 identifier: "BWBR0011109"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2000-01-27
-laatste_update: 2000-01-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011109"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2000-01-27"
+last_updated: "2000-01-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011109"
+soort: "ministeriele-regeling"
+stam_id: "3611233"
+version_id: "5394362"
+internal_id: "C5587451"
+label_id: "3591244"
+dtd_version: "2.0"
+original_entry_into_force: "2000-01-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011109/2000-01-27/0"
+intitule_bron: "Stcrt.2000-17"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-01-20"
+intitule_published: "2000-01-25"
+intitule_in_force: "2000-01-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-17"
+original_signed_date: "2000-01-20"
+original_published_date: "2000-01-25"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-01-27"
+jci_1_3: "jci1.3:c:BWBR0011109&z=2000-01-27&g=2000-01-27"
+jci_1_0: "1.0:c:BWBR0011109&g=2000-01-27"
+citeertitel_status: "officieel"
+signed_date: "2000-01-20"
+entry_into_force: "2000-01-27"
 ---
-
 # Regeling toepassing mechanische middelen verpleegden
 
 Gelet op [artikel 27, vierde lid, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=27);
@@ -16,23 +40,23 @@ Gezien het advies van de Centrale Raad voor Strafrechtstoepassing van 13 mei 199
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 1. Als mechanisch middel in de zin van [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=27) worden slechts toegepast, de middelen die zijn opgenomen in de bijlage van deze regeling.
 
 2. Indien de toestand van de verpleegde dit vereist, kunnen meerdere mechanische middelen tegelijkertijd worden toegepast.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De toepassing van mechanische middelen beperkt de verpleegde niet verder in zijn vrijheid, dan voor de afwending van het van de verpleegde uitgaande ernstig gevaar voor diens gezondheid of veiligheid of die van anderen noodzakelijk is.
 
 2. Bij de keuze voor de toepassing van bepaalde mechanische middelen wordt zoveel mogelijk voorkomen dat de verpleegde wordt belemmerd in de zelfstandige uitvoering van de lichaamsfuncties eten, drinken, urineren en ontlasten.
 
-#### Artikel 4
+##### Artikel 4
 
 Een mechanisch middel voldoet aan de volgende eisen:
 
@@ -44,7 +68,7 @@ Een mechanisch middel voldoet aan de volgende eisen:
 
 - d. het middel kan eenvoudig gereinigd worden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het hoofd van de inrichting stelt voor de toepassing van mechanische middelen een protocol vast.
 
@@ -64,7 +88,7 @@ Een mechanisch middel voldoet aan de volgende eisen:
 
 - g. de wijze van bekendmaking van het protocol.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het daartoe aangewezen personeelslid of de medewerker stelt zich tenminste eenmaal per uur op de hoogte van de toestand van de verpleegde en maakt daarvan verslag op.
 
@@ -72,7 +96,7 @@ Een mechanisch middel voldoet aan de volgende eisen:
 
 3. Indien het verslag van het personeelslid of de medewerker, bedoeld in het eerste lid, of de bevindingen van de arts, bedoeld in het tweede lid daartoe aanleiding geven, doch in elk geval tweemaal per dag, overweegt het hoofd van de inrichting, na overleg met de aan de inrichting verbonden arts of diens vervanger, of de toestand van de verpleegde zodanig is gewijzigd dat kan worden volstaan met de toepassing van mechanische middelen die de verpleegde minder vergaand in zijn vrijheid beperken, dan wel de toepassing van mechanische middelen kan worden beëindigd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De verpleegde ontvangt regelmatig eten en drinken.
 
@@ -84,11 +108,11 @@ Een mechanisch middel voldoet aan de volgende eisen:
 
 5. Indien de verpleegde door de toepassing van de mechanische middelen niet in staat is om op het toilet te urineren of zich te ontlasten, wordt hij voorzien van een urinaal of ondersteek. Het personeelslid of de medewerker die is belast met de verzorging van de verpleegde is hem zonodig behulpzaam bij het gebruik van de urinaal of ondersteek.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling toepassing mechanische middelen verpleegden.
 

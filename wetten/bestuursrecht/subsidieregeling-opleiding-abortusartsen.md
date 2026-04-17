@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling opleiding abortusartsen"
+title: "Regeling van de Minister voor Medische Zorg van 29 september 2020, kenmerk 1746006-210301-PG, houdende regels voor het verstrekken van subsidie aan abortusklinieken voor de opleiding van abortusartsen (Subsidieregeling opleiding abortusartsen)"
 identifier: "BWBR0044185"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-12-31
-laatste_update: 2025-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044185"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-12-31"
+last_updated: "2025-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044185"
+soort: "ministeriele-regeling"
+stam_id: "15653873"
+version_id: "27063212"
+internal_id: "C38284411"
+label_id: "15593544"
+dtd_version: "2.0"
+original_entry_into_force: "2021-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044185/2025-12-31/0"
+intitule_bron: "Stcrt.2020-51826"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-09-29"
+intitule_published: "2020-10-08"
+intitule_in_force: "2020-10-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-51826"
+original_signed_date: "2020-09-29"
+original_published_date: "2020-10-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-51826"
+entry_into_force_date: "2021-01-01"
+jci_1_3: "jci1.3:c:BWBR0044185&z=2025-12-31&g=2025-12-31"
+jci_1_0: "1.0:c:BWBR0044185&g=2025-12-31"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling opleiding abortusartsen"
+signed_date: "2020-09-29"
+entry_into_force: "2021-01-01"
 ---
-
 # Regeling van de Minister voor Medische Zorg van 29 september 2020, kenmerk 1746006-210301-PG, houdende regels voor het verstrekken van subsidie aan abortusklinieken voor de opleiding van abortusartsen (Subsidieregeling opleiding abortusartsen)
 
 Gelet op [artikel 3 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -34,11 +60,11 @@ In deze regeling wordt verstaan onder:
 
 - h. **samenwerkingsverband:** meerdere abortusklinieken die gezamenlijk een opleiding tot abortusarts of sedationist verzorgen.
 
-#### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing, met uitzondering van de [artikelen 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.2), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.4), [5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.6), [5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.7) en [5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.10).
 
-#### Artikel 3. Subsidiabele activiteiten
+##### Artikel 3. Subsidiabele activiteiten
 
 1. De minister kan op aanvraag aan een abortuskliniek een subsidie verlenen voor het verzorgen van een opleiding tot abortusarts of sedationist.
 
@@ -46,11 +72,11 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 3. Op verzoek kan de in het tweede lid genoemde termijn verlengd worden.
 
-#### Artikel 4. Voorwaarden
+##### Artikel 4. Voorwaarden
 
 Subsidie kan uitsluitend verstrekt worden aan een abortuskliniek die in het bezit is van een erkenning.
 
-#### Artikel 5. Hoogte van de subsidie
+##### Artikel 5. Hoogte van de subsidie
 
 1. De subsidie voor het verzorgen van een opleiding tot abortusarts bedraagt maximaal:
 
@@ -70,7 +96,7 @@ Subsidie kan uitsluitend verstrekt worden aan een abortuskliniek die in het bezi
 
 - d. € 24.891 per opleidingsplaats voor een tweede trimester B abortusarts.
 
-#### Artikel 6. Aanvraag tot verlening van subsidie
+##### Artikel 6. Aanvraag tot verlening van subsidie
 
 1. Voor de aanvraag tot verlening van een subsidie wordt een door de minister vastgesteld formulier gebruikt.
 
@@ -82,7 +108,7 @@ Subsidie kan uitsluitend verstrekt worden aan een abortuskliniek die in het bezi
 
 5. Een aanvraag tot verlening van een subsidie wordt in ieder geval ingediend voor aanvang van de periode waarvoor subsidie wordt aangevraagd.
 
-#### Artikel 7. Verlening en bevoorschotting
+##### Artikel 7. Verlening en bevoorschotting
 
 1. De minister besluit binnen 13 weken na ontvangst van de aanvraag tot subsidieverlening.
 
@@ -90,17 +116,17 @@ Subsidie kan uitsluitend verstrekt worden aan een abortuskliniek die in het bezi
 
 3. De Minister verleent bij het besluit tot verlening van de subsidie ambtshalve voorschotten. De voorschotten worden gelijkmatig betaald over het aantal maanden waarvoor de subsidie wordt verleend.
 
-#### Artikel 8. Verplichtingen
+##### Artikel 8. Verplichtingen
 
 De abortuskliniek is voor de duur van de subsidie in het bezit van een geldige erkenning.
 
-#### Artikel 9. Subsidievaststelling
+##### Artikel 9. Subsidievaststelling
 
 1. De subsidie wordt vastgesteld op een bedrag per gerealiseerde opleidingsplaats voor ten hoogste het maximum aantal opleidingsplaatsen dat door de minister bij de verlening is genoemd.
 
 2. Indien een opleiding niet wordt afgerond, wordt de subsidie vastgesteld naar rato van het aantal weken dat de opleiding wel is gevolgd.
 
-#### Artikel 10. Aanvraag tot vaststelling
+##### Artikel 10. Aanvraag tot vaststelling
 
 1. Voor de aanvraag tot vaststelling van een subsidie wordt een door de minister vastgesteld formulier gebruikt.
 
@@ -112,25 +138,25 @@ De abortuskliniek is voor de duur van de subsidie in het bezit van een geldige e
 
 5. Indien de abortuskliniek niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag tot vaststelling of indien de verstrekte gegevens onvoldoende zijn voor de beoordeling van de aanvraag, stelt de minister de abortuskliniek in de gelegenheid de aanvraag binnen vier weken aan te vullen. In het geval de aanvraag tot vaststelling binnen die termijn niet of onvoldoende is aangevuld, wordt de subsidie vastgesteld op basis van de beschikbare gegevens.
 
-#### Artikel 11. Aanvraagtermijn
+##### Artikel 11. Aanvraagtermijn
 
 1. De aanvraag tot vaststelling wordt ingediend binnen 22 weken na de datum waarop de activiteiten waarvoor subsidie is verleend, uiterlijk moeten zijn verricht.
 
 2. De minister kan vrijstelling of ontheffing verlenen van de termijn, bedoeld in het eerste lid.
 
-#### Artikel 12. Vaststelling
+##### Artikel 12. Vaststelling
 
 De minister besluit binnen 22 weken op een aanvraag tot vaststelling.
 
-#### Artikel 13. Hardheidsclausule
+##### Artikel 13. Hardheidsclausule
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2021 en vervalt met ingang van 1 januari 2031.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling opleiding abortusartsen.
 

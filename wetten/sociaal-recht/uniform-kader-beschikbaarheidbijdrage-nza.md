@@ -1,18 +1,43 @@
 ---
 title: "Uniform kader beschikbaarheidbijdrage NZa"
 identifier: "BWBR0051351"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051351"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051351"
+soort: "zbo"
+stam_id: "17498023"
+version_id: "30859512"
+internal_id: "C44222221"
+label_id: "17400404"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051351/2026-01-01/0"
+intitule_bron: "Stcrt.2025-26132"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-22"
+intitule_published: "2025-08-01"
+intitule_in_force: "2025-08-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-26132"
+original_signed_date: "2025-07-22"
+original_published_date: "2025-08-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-26132"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051351&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051351&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-07-22"
+entry_into_force: "2026-01-01"
 ---
-
 # Uniform kader beschikbaarheidbijdrage NZa
 
 Gelet op [artikel 57, eerste lid, onderdeel e, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid tot het toekennen van een beschikbaarheidbijdrage als bedoeld in [artikel 56a van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a).
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -36,7 +61,7 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - **Accountantsproduct:** Verzamelnaam voor de verklaringen of rapporten die een accountant kan afgeven. Voor de beschikbaarheidbijdragen kan dit een controleverklaring, een rapport van feitelijke bevindingen of een assurance-rapport zijn.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Voor een aantal activiteiten en voorzieningen van zorgaanbieders is het niet mogelijk en/of wenselijk om deze rechtstreeks aan zorgproducten voor individuele consumenten toe te rekenen. Het gaat om specifieke functies of kenmerken van de zorgverlening, zoals beschikbaarheid, specifieke deskundigheid of specifieke voorzieningen.
 
@@ -44,7 +69,7 @@ In deze beleidsregel is het beleid neergelegd dat de NZa hanteert bij het verlen
 
 De ‘Beleidsregel Beschikbaarheidbijdrage op aanvraag’, ‘Beleidsregel Beschikbaarheidbijdrage (medische) Vervolgopleidingen’, ‘Beleidsregel beschikbaarheidbijdrage kapitaallasten academische zorg universitaire medische centra’ en de ‘Beleidsregel beschikbaarheidbijdrage academische zorg’ zijn naast het Uniform kader aanvullend van toepassing op de daarin genoemde beschikbaarheidbijdragen.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op het toekennen van beschikbaarheidbijdragen voor de volgende vormen van zorg als omschreven in de [bijlage behorende bij artikel 2 van het Besluit beschikbaarheidbijdrage WMG](onbekend) (Stb. 2012, 396):
 
@@ -78,7 +103,7 @@ Deze beleidsregel is van toepassing op het toekennen van beschikbaarheidbijdrage
 
 Voor zover de beschikbaarheidbijdrage voor de bovenstaande vormen van zorg door de NZa ambtshalve verstrekt wordt, zijn de [artikelen 4.2.1 tot en met 4.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0051351&artikel=4&z=2026-01-01&g=2026-01-01) en de [artikelen 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0051351&artikel=6&z=2026-01-01&g=2026-01-01) van onderhavige beleidsregel van toepassing.
 
-#### Artikel 4. Verlening
+##### Artikel 4. Verlening
 
 - 4.1.1. De zorgaanbieder dient vóór 1 oktober voorafgaand aan het subsidiejaar een aanvraag voor verlening van een beschikbaarheidbijdrage in bij de NZa.
 
@@ -112,7 +137,7 @@ Voor zover de beschikbaarheidbijdrage voor de bovenstaande vormen van zorg door 
 
 - b. de zorgaanbieder niet heeft voldaan aan de bij de beschikbaarheidbijdrage gestelde verplichtingen.
 
-#### Artikel 5. Vaststelling
+##### Artikel 5. Vaststelling
 
 - 5.1.1. De zorgaanbieder dient vóór 1 juni na afloop van het subsidiejaar een aanvraag voor vaststelling van een beschikbaarheidbijdrage in bij de NZa.
 
@@ -183,7 +208,7 @@ Voor zover de beschikbaarheidbijdrage voor de bovenstaande vormen van zorg door 
 
 - 5.3.4. Indien de zorgaanbieder ook na de finale termijn niet overgaat tot (volledige) indiening van de aanvraag, kan de NZa de beschikbaarheidbijdrage op nihil vaststellen en alle reeds ontvangen voorschotten terugvorderen.
 
-#### Artikel 6. Voorwaarden & voorschriften
+##### Artikel 6. Voorwaarden & voorschriften
 
 - 6.1. De beschikbaarheidbijdrage wordt uitsluitend besteed aan de activiteiten en daarmee verband houdende kosten van de activiteiten waarvoor deze is verleend.
 
@@ -209,7 +234,7 @@ Voor zover de beschikbaarheidbijdrage voor de bovenstaande vormen van zorg door 
 
 - d. 3% van het bedrag van de verstrekte beschikbaarheidbijdrage indien het bedrag van de verstrekte beschikbaarheidbijdrage met 15% tot 25% wordt verlaagd op grond van de omstandigheden waarvan de ontvanger ervan geen melding of geen tijdige melding heeft gedaan.
 
-#### Artikel 7. Betalen
+##### Artikel 7. Betalen
 
 - 7.1.1. De NZa vermeldt op de beschikking op welke manier de betaling plaatsvindt: in voorschotten of in zijn geheel bij de vaststelling van de beschikbaarheidbijdrage.
 
@@ -225,11 +250,11 @@ Voor zover de beschikbaarheidbijdrage voor de bovenstaande vormen van zorg door 
 
 - 7.2.4. Indien de zorgaanbieder binnen de gestelde termijn van 6 weken niet terugbetaalt, zal een terugvorderingsprocedure gestart worden.
 
-#### Artikel 8. Indexering
+##### Artikel 8. Indexering
 
 Bij de verlening van de beschikbaarheidbijdrage voorafgaand aan het subsidiejaar wordt rekening gehouden met de voorlopige indexen van het betreffende subsidiejaar. Bij de vaststelling van de beschikbaarheidbijdrage na afloop van het subsidiejaar wordt rekening gehouden met de definitieve indexen van het betreffende subsidiejaar.
 
-#### Artikel 9. Afbouwperiode
+##### Artikel 9. Afbouwperiode
 
 - 9.1. De NZa neemt bij beëindiging van de beschikbaarheidbijdrage vanwege veranderde omstandigheden of gewijzigde inzichten een redelijke termijn in acht, indien aan een zorgaanbieder voor drie of meer achtereenvolgende jaren subsidie is verstrekt voor (in hoofdzaak) dezelfde voortdurende activiteiten.
 
@@ -247,15 +272,15 @@ Bij de verlening van de beschikbaarheidbijdrage voorafgaand aan het subsidiejaar
 
 - d. eventuele verplichtingen jegens derden die de ontvanger redelijkerwijze aan mocht gaan.
 
-#### Artikel 10. Intrekking oude beleidsregel
+##### Artikel 10. Intrekking oude beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de beleidsregel ‘[Uniform kader beschikbaarheidbijdrage NZa](https://wetten.overheid.nl/jci1.3:c:BWBR0050096)’, met kenmerk BR/REG-25117, ingetrokken.
 
-#### Artikel 11. Overgangsbepaling
+##### Artikel 11. Overgangsbepaling
 
 De beleidsregel '[Uniform kader beschikbaarheidbijdrage NZa](https://wetten.overheid.nl/jci1.3:c:BWBR0050096)', met kenmerk BR/REG-25117, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2026.
 
@@ -263,6 +288,6 @@ Ingevolge [artikel 5, aanhef en onder e, van de Bekendmakingswet](https://wetten
 
 De beleidsregel ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](http://www.nza.nl).
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Uniform kader beschikbaarheidbijdrage NZa.

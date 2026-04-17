@@ -1,13 +1,38 @@
 ---
-title: "Wijzigingsbesluit Besluit buitengewoon opsporingsambtenaren reinigingsagenten Dienst Stadstoezicht Amsterdam 2000"
+title: "Besluit van de Minister van Justitie van 14 januari 2004, kenmerk 5263664/DBZ/04, strekkende tot wijziging van het besluit buitengewoon opsporingsambtenaren reinigingsagenten Dienst Stadstoezicht Amsterdam 2000"
 identifier: "BWBR0016279"
-categorie: "Strafrecht"
-publicatiedatum: 2004-01-24
-laatste_update: 2004-01-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016279"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2004-01-24"
+last_updated: "2004-01-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016279"
+soort: "ministeriele-regeling"
+stam_id: "5649463"
+version_id: "10095692"
+internal_id: "C13639831"
+label_id: "5629934"
+original_entry_into_force: "2004-01-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016279/2004-01-24/0"
+intitule_bron: "Stcrt.2004-14"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-01-14"
+intitule_published: "2004-01-22"
+intitule_in_force: "2004-01-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-14"
+original_signed_date: "2004-01-14"
+original_published_date: "2004-01-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-14-p12-SC63325"
+entry_into_force_date: "2004-01-24"
+jci_1_3: "jci1.3:c:BWBR0016279&z=2004-01-24&g=2004-01-24"
+jci_1_0: "1.0:c:BWBR0016279&g=2004-01-24"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Besluit buitengewoon opsporingsambtenaren reinigingsagenten Dienst Stadstoezicht Amsterdam 2000"
+signed_date: "2004-01-14"
+entry_into_force: "2004-01-24"
 ---
-
 # Besluit van de Minister van Justitie van 14 januari 2004, kenmerk 5263664/DBZ/04, strekkende tot wijziging van het besluit buitengewoon opsporingsambtenaren reinigingsagenten Dienst Stadstoezicht Amsterdam 2000
 
 Handelende in overeenstemming met de betrokken Ministers;
@@ -26,15 +51,15 @@ Gelet op:
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Wijzigt het Besluit buitengewoon opsporingsambtenaar Reinigingsagenten Dienst Stadstoezicht Amsterdam 2000
 
-#### Artikel 2
+##### Artikel 2
 
 De op naam gestelde akten van opsporingsbevoegdheid en beëdiging en de overige benoemingsbescheiden van de buitengewoon opsporingsambtenaren die in dienst van de dienst Stadstoezicht Amsterdam de functie van reinigingsagent vervullen, worden voor de duur van hun geldigheid of tot daarover nader zal zijn beslist, geacht te zijn akten en overige benoemingsbescheiden afgegeven mede op basis van onderhavige besluit.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treed in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.
 

@@ -1,13 +1,37 @@
 ---
 title: "Aanpassing wetgeving inzake gemeenschappelijke bepalingen voor hef- en verladingsapparatuur SZW – Uitvoering EEG-richtlijnen"
 identifier: "BWBR0004166"
-categorie: "Internationaal recht"
-publicatiedatum: 1999-04-03
-laatste_update: 1999-04-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004166"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1999-04-03"
+last_updated: "1999-04-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004166"
+soort: "ministeriele-regeling"
+stam_id: "5227373"
+version_id: "9416072"
+internal_id: "C12612771"
+label_id: "5201944"
+dtd_version: "2.0"
+original_entry_into_force: "1987-07-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004166/1999-04-03/0"
+intitule_bron: "Stcrt.1987-124"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1987-06-16"
+intitule_published: "1987-07-02"
+intitule_in_force: "1987-07-02"
+intitule_status: "goed"
+original_publication: "Stcrt.1987-124"
+original_signed_date: "1987-06-16"
+original_published_date: "1987-07-02"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1987-07-03"
+jci_1_3: "jci1.3:c:BWBR0004166&z=1999-04-03&g=1999-04-03"
+jci_1_0: "1.0:c:BWBR0004166&g=1999-04-03"
+citeertitel_status: "officieel"
+signed_date: "1987-06-16"
+entry_into_force: "1987-07-03"
 ---
-
 # Aanpassing wetgeving inzake gemeenschappelijke bepalingen voor hef- en verladingsapparatuur SZW – Uitvoering EEG-richtlijnen
 
 Overwegende, dat ter uitvoering van de Richtlijnen van de Raad van de Europese Gemeenschappen van 17 september 1984 betreffende de onderlinge aanpassing van de wetgevingen der lid-staten inzake gemeenschappelijke bepalingen voor hef- en verladingsapparatuur (84/528/EEG, PbEG L 300/72) en betreffende de onderlinge aanpassing van de wetgevingen der lid-staten inzake liften met elektrische aandrijving (84/529/EEG, PbEG L 300/86), een instantie moet worden aangewezen, die belast is met het verrichten van het EEG-typeonderzoek en van de EEG-controle met betrekking tot onderdelen voor liften met elektrische aandrijving als bedoeld in laatstgenoemde richtlijn alsmede van de daarmede samenhangende werkzaamheden;
@@ -16,7 +40,7 @@ dat de Stichting Nederlands Instituut voor Lifttechniek (Liftinstituut) te Amste
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -30,13 +54,13 @@ In deze regeling wordt verstaan onder:
 
 - e. ‘**het Liftinstituut**’: De Stichting Nederlands Instituut voor Lifttechniek (Liftinstituut), genoemd in artikel 2.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Als instantie, belast met het verrichten van het EEG-typeonderzoek en van de EEG-controle met betrekking tot liftonderdelene alsmede van de daarmee samenhangende werkzaamheden, wordt aangewezen de Stichting Nederlands Instituut voor Lifttechniek (Liftinstituut), Buikslotermeerplein 381, 1025 XE Amsterdam.
 
 2. Het Liftinstituut mag proeven, welke een onderdeel vormen van het EEG-typeonderzoek en van de EEG-controle, door anderen laten verrichten, indien deze voldoen aan het bepaalde in de punten 2, 3, 4 en 7 van bijlage II van de Richtlijn. Het Liftinstituut behoeft hiervoor de instemming van de minister van Sociale Zaken en Werkgelegenheid.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het Liftinstituut gaat eerst over tot het verrichten van het EEG-typeonderzoek nadat een aanvraag daartoe bij het Liftinstituut is ingediend door de fabrikant of diens binnen de Europese Economische Gemeenschap, of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte (Trb. 1992, 132) gevestigde gevolmachtigde en deze daarbij voldoet aan het tweede en derde lid.
 
@@ -46,17 +70,17 @@ In deze regeling wordt verstaan onder:
 
 4. Het Liftinstituut waarborgt het vertrouwelijk karakter van de hem overgelegde gegevens en documentatie.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien uit het EEG-typeonderzoek met betrekking tot een type van een liftonderdeel is gebleken, dat dat type voldoet aan de voorschriften bedoeld in bijlage I van de bijzondere Richtlijn en voorts de aanvrager aan het Liftinstituut schriftelijk heeft verklaard, dat hij zal voldoen aan [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004166&artikel=7&z=1999-04-03&g=1999-04-03), reikt het Liftinstituut aan de aanvrager met betrekking tot dat type een verklaring van EEG-typeonderzoek uit, waarvan het model is opgenomen in bijlage 1 van deze regeling.
 
 2. Een verklaring van EEG-typeonderzoek is geldig gedurende tien jaren na de dagtekening ervan. Op verzoek van de aanvrager wordt de geldigheidsduur van een verklaring door het Liftinstituut telkens voor een periode van tien jaren verlengd nadat uit een door het Liftinstituut verricht EEG-typeonderzoek is gebleken dat het type waarop de verklaring betrekking heeft, nog voldoet aan de voorschriften bedoeld in het eerste lid.
 
-#### Artikel 5
+##### Artikel 5
 
 Van de beslissing op een aanvraag wordt binnen zes maanden na de ontvangst van de aanvraag bij gedagtekend schrijven aan de aanvrager kennisgegeven; deze termijn kan worden verlengd na kennisgeving aan de aanvrager. Een weigering tot afgifte van een verklaring van EEG-typeonderzoek is met redenen omkleed.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De aanvrager mag liftonderdelen van een type ten aanzien waarvan een verklaring van EEG-typeonderzoek is afgegeven, voorzien van het EEG-merkteken en met betrekking tot die onderdelen een certificaat van overeenstemming afgeven.
 
@@ -64,7 +88,7 @@ Van de beslissing op een aanvraag wordt binnen zes maanden na de ontvangst van d
 
 3. Het EEG-merkteken moet duurzaam op een duidelijk zichtbare plaats zijn aangebracht en goed leesbaar zijn.
 
-#### Artikel 7
+##### Artikel 7
 
 De aanvrager, die overgaat tot de vervaardiging van liftonderdelen van een type ten aanzien waarvan aan hem door het Liftinstituut een verklaring van EEG-typeonderzoek is afgegeven:
 
@@ -74,7 +98,7 @@ De aanvrager, die overgaat tot de vervaardiging van liftonderdelen van een type 
 
 - c. dient een fabrikagecontrole te organiseren of te doen organiseren en te beschikken over de benodigde uitrusting die hem in staat stelt om regelmatig op adequate wijze te controleren of de vervaardigde onderdelen overeenstemmen met het type ten aanzien waarvan de verklaring van EEG-typeonderzoek is afgegeven.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het Liftinstituut verricht ten hoogste één maal per tijdvak van twaalf maanden een EEG-controle met betrekking tot liftonderdelen van een type ten aanzien waarvan door hem een verklaring van EEG-typeonderzoek is afgegeven. Het gaat daarbij na:
 
@@ -84,11 +108,11 @@ De aanvrager, die overgaat tot de vervaardiging van liftonderdelen van een type 
 
 - c. of op die onderdelen geen merktekens en aanduidingen zijn aangebracht, die tot verwarring met het EEG-merkteken aanleiding kunnen geven. Indien de plaats waar het monster moet worden genomen, op het grondgebied van een andere lid-staat van de Europese Economische Gemeenschap, of van een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte’ is gelegen, verzoekt het Liftinstituut een door die lid-staat erkende instantie na te gaan of voldaan is aan het gestelde in de eerste zin, onder b, en hem van het resultaat daarvan in kennis te stellen.
 
-#### Artikel 9
+##### Artikel 9
 
 De aanvrager is voor een EEG-typeonderzoek alsmede voor een EEG-controle aan het Liftinstituut een vergoeding verschuldigd van f 151 per daaraan besteed uur of gedeelte daarvan, vermeerderd met de daaraan verbonden, volgens Rijksregeling toegestane reis- en verblijfkosten, een en ander vermeerderd met f 151 per uur arbeid dat in verband daarmede ten kantore is verricht en met de kosten die verbonden zijn aan laboratoriumonderzoek, de opstelling van proefstukken en het gebruik van proef- en meettoestellen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien uit de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004166&artikel=8&z=1999-04-03&g=1999-04-03) bedoelde controles blijkt dat een liftonderdeel niet overeenstemt met het type ten aanzien waarvan door het Liftinstituut een verklaring van EEG-typeonderzoek is afgegeven, doet het Liftinstituut, indien de geconstateerde afwijkingen gering zijn en ten gevolge daarvan de veiligheid of de gezondheid niet in gevaar wordt gebracht, aan de aanvrager een schriftelijke waarschuwing toekomen, vergezeld van een verzoek de geconstateerde afwijkingen binnen een daarbij aangegeven termijn ongedaan te maken. Het Liftinstituut kan afzien van het doen van een verzoek bedoeld in de eerste zin. In dit geval dat het over tot een verhoging van het aantal controles bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004166&artikel=8&z=1999-04-03&g=1999-04-03).
 
@@ -108,17 +132,17 @@ De aanvrager is voor een EEG-typeonderzoek alsmede voor een EEG-controle aan het
 
 5. De beslissing tot schorsing of intrekking van een verklaring van EEG-typeonderzoek is met redenen omkleed en wordt bij gedagtekend schrijven medegedeeld aan de aanvrager.
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het Liftinstituut zendt, gelijktijdig met de toezending van een verklaring van EEG-typeonderzoek aan de aanvrager, een afschrift van die verklaring aan de Europese Commissie, de lid-staten van de Europese Economische Gemeenschap, de andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en hun erkende instanties. Het zendt dezen desgevraagd tevens een afschrift van het betrokken technisch dossier en van de betrokken keurings- en beproevingsrapporten.
 
 2. Het Liftinstituut zendt, gelijktijdig met de toezending van een besluit tot weigering, schorsing of intrekking van een verklaring van EEG-typeonderzoek , aan de aanvrager, een afschrift daarvan aan de Europese Commissie, de lid-staten van de Europese Economische Gemeenschap, de andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en hun erkende instanties.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Deze regeling wordt met de daarbij behorende bijlagen en toelichting in de Nederlandse Staatscourant geplaatst.
 

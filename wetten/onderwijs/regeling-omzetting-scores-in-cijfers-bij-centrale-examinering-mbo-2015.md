@@ -1,13 +1,39 @@
 ---
-title: "Regeling omzetting scores in cijfers bij centrale examinering mbo (2015)"
+title: "Regeling van het College voor Toetsen en Examens van 15 juni 2015, nummer CvTE-15.01457, houdende vaststelling van regels voor de omzetting van scores in cijfers bij centrale examinering in het mbo (Regeling omzetting scores in cijfers bij centrale examinering mbo (2015))"
 identifier: "BWBR0036876"
-categorie: "Onderwijs"
-publicatiedatum: 2017-08-01
-laatste_update: 2017-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036876"
+country: "nl"
+rank: "zbo"
+publication_date: "2017-08-01"
+last_updated: "2017-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036876"
+soort: "zbo"
+stam_id: "13228343"
+version_id: "24134302"
+internal_id: "C34758841"
+label_id: "13196594"
+dtd_version: "2.0"
+original_entry_into_force: "2017-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036876/2017-08-01/0"
+intitule_bron: "Stcrt.2015-21320"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-06-15"
+intitule_published: "2015-07-23"
+intitule_in_force: "2015-07-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-31868"
+original_signed_date: "2017-04-18"
+original_published_date: "2017-06-12"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2017-31868"
+entry_into_force_date: "2017-08-01"
+jci_1_3: "jci1.3:c:BWBR0036876&z=2017-08-01&g=2017-08-01"
+jci_1_0: "1.0:c:BWBR0036876&g=2017-08-01"
+citeertitel_status: "officieel"
+short_title: "Regeling omzetting scores in cijfers bij centrale examinering mbo (2015)"
+signed_date: "2017-04-18"
+entry_into_force: "2017-08-01"
 ---
-
 # Regeling van het College voor Toetsen en Examens van 15 juni 2015, nummer CvTE-15.01457, houdende vaststelling van regels voor de omzetting van scores in cijfers bij centrale examinering in het mbo (Regeling omzetting scores in cijfers bij centrale examinering mbo (2015))
 
 Gelet op [artikel 3 van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3); en het [Examen- en kwalificatiebesluit beroepsopleidingen WEB artikel 6, eerste lid onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=6).
@@ -16,25 +42,25 @@ Gezien de goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap, gege
 
 Besluit:
 
-#### Artikel 1. Omzetting score in cijfers
+##### Artikel 1. Omzetting score in cijfers
 
 1. De omzetting van scores in cijfers, bedoeld in [artikel 6, eerste lid onderdeel g van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=6) geschiedt voor de centrale examens Nederlandse taal en rekenen op de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036876&bijlage=1&z=2017-08-01&g=2017-08-01) bij deze regeling vastgestelde wijze.
 
 2. De omzetting van scores in cijfers, bedoeld in [artikel 6, eerste lid, onderdeel g, van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=6) geschiedt voor de centrale examens Engels B1 en Engels B2 op de in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036876&bijlage=2&z=2017-08-01&g=2017-08-01) vastgestelde wijze.
 
-#### Artikel 2. Bekendmaking
+##### Artikel 2. Bekendmaking
 
 De regeling zal met de bijlage en toelichting in de Staatscourant worden geplaatst. De bijlage kan ook geraadpleegd worden op Examenbladmbo.nl.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 augustus 2015.
 
-#### Artikel 4. Intrekking
+##### Artikel 4. Intrekking
 
 De [Regeling omzetting scores in cijfers bij centrale examinering mbo](https://wetten.overheid.nl/jci1.3:c:BWBR0035250), van 15 april 2014 wordt ingetrokken.
 
-#### Artikel 5. Citeertitel
+##### Artikel 5. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling omzetting scores in cijfers bij centrale examinering mbo (2015).
 

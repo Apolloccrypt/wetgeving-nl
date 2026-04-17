@@ -1,13 +1,39 @@
 ---
-title: "Rijksbesluit rechtspositie Gemeenschappelijk Hof van Justitie"
+title: "Besluit van 27 september 2010, houdende regels ter uitvoering van de Rijkswet Gemeenschappelijk Hof van Justitie (Rijksbesluit rechtspositie Gemeenschappelijk Hof van Justitie)"
 identifier: "BWBR0028548"
-categorie: "Strafrecht"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028548"
+country: "nl"
+rank: "rijks_kb"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028548"
+soort: "rijksKB"
+stam_id: "10844223"
+version_id: "17825102"
+internal_id: "C24665011"
+label_id: "10819674"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028548/2010-10-10/0"
+intitule_bron: "Stb.2010-358"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-27"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-01"
+intitule_status: "goed"
+original_publication: "Stb.2010-358"
+original_signed_date: "2010-09-27"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-358"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028548&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028548&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Rijksbesluit rechtspositie Gemeenschappelijk Hof van Justitie"
+signed_date: "2010-09-27"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit van 27 september 2010, houdende regels ter uitvoering van de Rijkswet Gemeenschappelijk Hof van Justitie (Rijksbesluit rechtspositie Gemeenschappelijk Hof van Justitie)
 
 Op de voordracht van Onze Minister van Justitie van 13 juli 2010, nr. 5656881/10/6;
@@ -26,7 +52,7 @@ Treedt in werking op het tijdstip waarop de Rijkswet Gemeenschappelijk Hof van J
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze algemene maatregel van rijksbestuur en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -42,7 +68,7 @@ Treedt in werking op het tijdstip waarop de Rijkswet Gemeenschappelijk Hof van J
 
 - **echtgenoot:** de partner in een in Nederland geregistreerd partnerschap alsmede de partner in een buiten Nederland geregistreerd partnerschap dat op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016986&artikel=2) en [3 van de Wet conflictenrecht geregistreerd partnerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0016986&artikel=3) wordt erkend.
 
-#### Artikel 2
+##### Artikel 2
 
 Indien op grond van deze algemene maatregel van rijksbestuur regels worden gesteld bij ministeriële rijksregeling, dan komen deze regels in overeenstemming met de regeringen van de landen tot stand.
 
@@ -50,7 +76,7 @@ Indien op grond van deze algemene maatregel van rijksbestuur regels worden geste
 
 #### Paragraaf 1. Algemeen
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het bestuur van het Hof draagt zorg voor de totstandkoming van:
 
@@ -74,7 +100,7 @@ Indien op grond van deze algemene maatregel van rijksbestuur regels worden geste
 
 #### Paragraaf 2. De rechtspositie van de bestuursleden van het Hof
 
-#### Artikel 4
+##### Artikel 4
 
 1. De bestuursleden van het Hof, die tevens lid van het Hof zijn, ontvangen naast het salaris als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-10-10&g=2010-10-10), een toelage in verband met het uitoefenen van de bestuursfunctie.
 
@@ -82,7 +108,7 @@ Indien op grond van deze algemene maatregel van rijksbestuur regels worden geste
 
 3. Onze Ministers passen de toelage jaarlijks aan op basis van het gemiddelde van de ontwikkeling van de salarissen van de ambtenaren van de landen in het voorafgaande kalenderjaar.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=8&z=2010-10-10&g=2010-10-10), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=9&z=2010-10-10&g=2010-10-10), [12 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-10-10&g=2010-10-10), [18, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=18&z=2010-10-10&g=2010-10-10), [19 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=19&z=2010-10-10&g=2010-10-10), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=2&artikel=28&z=2010-10-10&g=2010-10-10), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=2&artikel=29&z=2010-10-10&g=2010-10-10) zijn van overeenkomstige toepassing op de rechtspositie van de directeur bedrijfsvoering.
 
@@ -96,7 +122,7 @@ Indien op grond van deze algemene maatregel van rijksbestuur regels worden geste
 
 6. De directeur bedrijfsvoering heeft per kalenderjaar aanspraak op 224 uren vakantie met behoud van salaris en toelagen.
 
-#### Artikel 6
+##### Artikel 6
 
 Bij ministeriële rijksregeling kunnen regels worden gesteld over de rechtspositie van de leden van het bestuur van het Hof.
 
@@ -104,7 +130,7 @@ Bij ministeriële rijksregeling kunnen regels worden gesteld over de rechtsposit
 
 #### Paragraaf 1. Rechten en verplichtingen
 
-#### Artikel 7
+##### Artikel 7
 
 1. Om benoemd te kunnen worden als lid of plaatsvervangend lid van het Hof, dient het afsluitend examen van een opleiding op het gebied van het recht, bedoeld in [artikel 24, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=24), met goed gevolg te worden afgelegd aan een universiteit dan wel Open Universiteit als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) dan wel de Landsverordening Universiteit van Aruba of de Landsverordening Universiteit Nederlandse Antillen dan wel de Landsverordening die de Landsverordening Universiteit Nederlandse Antillen vervangt en waarbij geen wijzigingen zijn aangebracht in de bepalingen die zien op de opleiding op het gebied van het recht.
 
@@ -112,7 +138,7 @@ Bij ministeriële rijksregeling kunnen regels worden gesteld over de rechtsposit
 
 3. Het schakelprogramma, bedoeld in het tweede lid, omvat onderwijseenheden op het gebied van het recht, die worden aangeboden door een universiteit of Open Universiteit als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), met een totale studielast van ten minste 60 studiepunten als bedoeld in [artikel 7.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.4).
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het benoemingsbesluit voor een rechter vermeldt in elk geval:
 
@@ -138,11 +164,11 @@ Bij ministeriële rijksregeling kunnen regels worden gesteld over de rechtsposit
 
 6. Het besluit als bedoeld in het vierde en vijfde lid wordt op schrift gesteld en met redenen omkleed.
 
-#### Artikel 9
+##### Artikel 9
 
 De volledige arbeidsduur voor de leden van het Hof bedraagt gemiddeld 40 uur per week.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een plaatsvervangend lid van het Hof of een rechter-plaatsvervanger in eerste aanleg wordt niet aangesteld voor het vervullen van een volledige of gedeeltelijke functie.
 
@@ -152,7 +178,7 @@ De volledige arbeidsduur voor de leden van het Hof bedraagt gemiddeld 40 uur per
 
 4. Onze Ministers passen de vergoeding van een plaatsvervangend lid van het Hof en van een rechter-plaatsvervanger in eerste aanleg jaarlijks aan op basis van het gemiddelde van de ontwikkeling van de salarissen van de ambtenaren van de landen in het voorafgaande kalenderjaar.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Op eigen verzoek kan een plaatsvervangend lid van het Hof of een rechter-plaatsvervanger in eerste aanleg tijdelijk worden aangewezen voor het vervullen van een volledige of gedeeltelijke functie.
 
@@ -182,7 +208,7 @@ De volledige arbeidsduur voor de leden van het Hof bedraagt gemiddeld 40 uur per
 
 6. Gedurende de periode van aanwijzing, bedoeld in het eerste lid, zijn de [artikelen 12 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-10-10&g=2010-10-10), [16 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=16&z=2010-10-10&g=2010-10-10), [20 eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=20&z=2010-10-10&g=2010-10-10), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=21&z=2010-10-10&g=2010-10-10)[22](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=22&z=2010-10-10&g=2010-10-10), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=24&z=2010-10-10&g=2010-10-10) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=26&z=2010-10-10&g=2010-10-10), van overeenkomstige toepassing.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het genot van het salaris van de leden van het Hof vangt aan op de dag van indiensttreding. Het salaris wordt per maand genoten.
 
@@ -192,7 +218,7 @@ De volledige arbeidsduur voor de leden van het Hof bedraagt gemiddeld 40 uur per
 
 4. Onze Ministers passen het salaris van de leden van het Hof jaarlijks aan op basis van het gemiddelde van de ontwikkeling van de salarissen van de ambtenaren van de landen in het voorafgaande kalenderjaar.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Een toelage wordt genoten indien en zolang aan de voorwaarden die aan de toelage zijn gesteld, wordt voldaan.
 
@@ -202,25 +228,25 @@ De volledige arbeidsduur voor de leden van het Hof bedraagt gemiddeld 40 uur per
 
 4. Een toelage wordt tegelijkertijd met het salaris uitbetaald.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Afhankelijk van de standplaats kunnen de leden van het Hof in aanmerking komen voor een toelage die het verschil in koopkracht tussen de landen compenseert.
 
 2. Onze Ministers stellen, op voorstel van het bestuur van het Hof na goedkeuring van de Beheerraad, jaarlijks de hoogte vast van een toelage die het verschil in koopkracht tussen de landen compenseert.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De rechter heeft in geval van dienstreizen recht op vergoeding van reis- en verblijfskosten.
 
 2. Onze Ministers stellen, op voorstel van het bestuur van het Hof na goedkeuring van de Beheerraad, een regeling vast over reis- en verblijfkosten.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Aan een lid van het Hof dat naar een andere standplaats wordt overgeplaatst of in zijn standplaats ten behoeve van de dienst verplicht wordt van woning te wisselen, wordt een verhuiskostenvergoeding toegekend.
 
 2. Onze Ministers stellen, op voorstel van het bestuur van het Hof na goedkeuring van de Beheerraad, een regeling vast betreffende een verhuiskostenvergoeding als bedoeld in het eerste lid.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Boven en behalve het vastgestelde salaris geniet een lid van het Hof voor de ongehuwde kinderen beneden de leeftijd van achttien jaar tot wie hij in familierechtelijke betrekking staat, of zijn ongehuwde stiefkinderen beneden de leeftijd van achttien jaar, laatstgenoemden voor zover zij geheel ten laste van het lid van het Hof komen, een kindertoelage.
 
@@ -236,7 +262,7 @@ De volledige arbeidsduur voor de leden van het Hof bedraagt gemiddeld 40 uur per
 
 7. Onze Ministers stellen, op voorstel van het bestuur van het Hof na goedkeuring van de Beheerraad, de kindertoelage vast.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Een lid van het Hof heeft per kalenderjaar aanspraak op 240 uren vakantie met behoud van salaris en toelagen.
 
@@ -248,7 +274,7 @@ De volledige arbeidsduur voor de leden van het Hof bedraagt gemiddeld 40 uur per
 
 5. Een lid van het Hof heeft aanspraak op een vakantie-uitkering van 7 procent voor elke kalendermaand, waarin hij op grond van [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-10-10&g=2010-10-10), salaris heeft genoten.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Een lid van het Hof heeft verlof op de dagen dat de overheidsdienst in het land van standplaats gesloten is wegens een zaterdag, zondag of erkende feestdag.
 
@@ -262,7 +288,7 @@ De volledige arbeidsduur voor de leden van het Hof bedraagt gemiddeld 40 uur per
 
 6. Indien een rechter op grond van het tweede lid verhinderd is zijn dienst te verrichten, doet hij daarvan onder opgave van redenen, zo tijdig mogelijk mededeling aan het bestuur van het Hof of een door het bestuur van het Hof daartoe aangewezen functionaris.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Een lid van het Hof is, in geval van ziekte en wanneer het bestuur van het Hof of een door het bestuur van het Hof daartoe aangewezen functionaris dat in verband met de gezondheidstoestand nodig acht, verplicht zich te onderwerpen aan een onderzoek van een of meer door het bestuur van het Hof aangewezen geneeskundigen.
 
@@ -278,11 +304,11 @@ De volledige arbeidsduur voor de leden van het Hof bedraagt gemiddeld 40 uur per
 
 - c. tachtig procent van zijn salaris gedurende de resterende maanden.
 
-#### Artikel 21
+##### Artikel 21
 
 Onze Ministers stellen, op voorstel van het bestuur van het Hof na goedkeuring door de Beheerraad, vast welke pensioenregeling van toepassing is op de leden van het Hof.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Het salaris en de toelagen worden niet langer uitbetaald dan tot en met de dag van overlijden.
 
@@ -296,13 +322,13 @@ Onze Ministers stellen, op voorstel van het bestuur van het Hof na goedkeuring d
 
 6. Laat het overleden lid ook geen betrekkingen als in het vijfde lid bedoeld na, dan kan het in het eerste lid bedoelde bedrag geheel of ten dele worden uitgekeerd voor de betaling van kosten van de laatste ziekte en van de begrafenis, indien de nalatenschap van het overleden lid van het Hof voor de betaling van die kosten ontoereikend is.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Indien een rechter is overleden ten gevolge van ziekte of gebreken, die zijn ontstaan in en door de uitoefening van zijn functie en niet aan de schuld of grove nalatigheid van de overleden rechter is te wijten, komen de werkelijke kosten van de begrafenis, doch ten hoogste van een bedrag van ANG 3.750 ten laste van het Hof en wordt een bedrag van ANG 100.000 uitgekeerd aan de langstlevende echtgenoot dan wel de partner waarmee de rechter tot aan zijn overlijden een duurzame gemeenschappelijke huishouding voerde.
 
 2. Indien de overleden rechter geen betrekking als bedoeld in het eerste lid nalaat, geschiedt de uitkering ten behoeve van de kinderen tot wie de rechter in familierechtelijke betrekking stond die de leeftijd van eenentwintig jaar nog niet hebben bereikt en niet gehuwd zijn of gehuwd zijn geweest. Ontbreken ook zodanige kinderen, dan geschiedt de uitkering, indien de overledene kostwinner was van ouders, broeders, zusters of overige kinderen, ten behoeve van deze betrekkingen.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Op het door het bestuur van het Hof verschuldigde salaris kan, gehoord de Beheerraad, hetgeen een lid van het Hof aan het Hof verschuldigd is, worden ingehouden.
 
@@ -314,17 +340,17 @@ Onze Ministers stellen, op voorstel van het bestuur van het Hof na goedkeuring d
 
 5. Onze Ministers stellen, op voorstel van het bestuur van het Hof na goedkeuring door de Beheerraad, een regeling vast over het inhouden, het beslag en de korting op het salaris, dan wel overdracht of in pandgeving van het salaris.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Aan een rechter kan, na goedkeuring door de Beheerraad, door het bestuur van het Hof naar billijkheid een schadeloosstelling, een vergoeding van kosten of overigens een geldelijke tegemoetkoming worden verleend.
 
 2. Bij ministeriële rijksregeling kunnen regels worden gesteld over schadeloosstelling, kostenvergoedingen en overige geldelijke tegemoetkomingen aan rechters.
 
-#### Artikel 26
+##### Artikel 26
 
 Onze Ministers stellen, op voorstel van het bestuur van het Hof na goedkeuring van de Beheerraad, een regeling vast over ambtsjubilea van de leden van het Hof.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Bij ministeriële rijksregeling kunnen regels worden gesteld over de rechtspositie van rechters.
 
@@ -332,7 +358,7 @@ Onze Ministers stellen, op voorstel van het bestuur van het Hof na goedkeuring v
 
 #### Paragraaf 2. Functionerings- en beoordelingsgesprekken
 
-#### Artikel 28
+##### Artikel 28
 
 1. Ten minste éénmaal per kalenderjaar wordt een functioneringsgesprek gevoerd met een rechter.
 
@@ -346,7 +372,7 @@ Onze Ministers stellen, op voorstel van het bestuur van het Hof na goedkeuring v
 
 6. Indien de rechter zich niet kan verenigen met de inhoud van het verslag van het functioneringsgesprek, kan hij een beoordelingsgesprek aanvragen.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Een schriftelijke beoordeling wordt opgemaakt indien:
 
@@ -360,7 +386,7 @@ Onze Ministers stellen, op voorstel van het bestuur van het Hof na goedkeuring v
 
 4. Ten aanzien van het opmaken van de beoordeling en het voeren van een beoordelingsgesprek zijn de [leden 2, 3 en 5, van artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=2&artikel=28&z=2010-10-10&g=2010-10-10), van overeenkomstige toepassing.
 
-#### Artikel 30
+##### Artikel 30
 
 In de functioneringsgesprekken en beoordelingsgesprekken met rechters wordt niet gesproken over de:
 
@@ -372,13 +398,13 @@ In de functioneringsgesprekken en beoordelingsgesprekken met rechters wordt niet
 
 #### Paragraaf 3. Het ambtskostuum
 
-#### Artikel 31
+##### Artikel 31
 
 1. Rechters zijn ter terechtzitting of bij vervulling van een ambtsverrichting, waarbij het dragen van een ambtskostuum gepast is, gekleed in een ambtskostuum.
 
 2. Het ambtskostuum bestaat uit een toga en een bef.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De toga is een lange wijde mantel met een staande kraag ter hoogte van ongeveer 4 cm, welke kraag aan de voorzijde in het midden een opening heeft van 8 cm. De toga is geheel gemaakt van zwarte stof, neerhangende tot ongeveer 10 cm boven de grond, in het midden van de achterzijde onder de kraag, evenals zijwaarts aan de bovenkant van de wijde mouwen, geplooid ingenomen, met aan de onderkant der mouwen omslagen ter breedte van ongeveer 20 cm en aan de voorzijde in het midden van boven tot onder om de 5 cm voorzien van een niet glimmende kleine zwarte knoop.
 
@@ -388,7 +414,7 @@ In de functioneringsgesprekken en beoordelingsgesprekken met rechters wordt niet
 
 4. De toga is van dof grein of van een hierop gelijkende stof met banen en mouwomslagen van zwarte zijde.
 
-#### Artikel 33
+##### Artikel 33
 
 1. De bef bestaat uit twee aan de bovenzijde aan elkaar bevestigde stukken geplooid wit batist of een hierop gelijkende stof, beide stukken tezamen in geplooide toestand aan de bovenzijde 8 cm breed.
 
@@ -398,7 +424,7 @@ In de functioneringsgesprekken en beoordelingsgesprekken met rechters wordt niet
 
 #### Paragraaf 1. Algemeen
 
-#### Artikel 34
+##### Artikel 34
 
 1. Een rechterlijk ambtenaar in opleiding kan niet tevens zijn:
 
@@ -430,11 +456,11 @@ In de functioneringsgesprekken en beoordelingsgesprekken met rechters wordt niet
 
 #### Paragraaf 2. Selectie
 
-#### Artikel 35
+##### Artikel 35
 
 Er is een opleiding die ten doel heeft toekomstige rechters en officieren van justitie de kennis, de vaardigheden en de ervaring te verschaffen, die nodig zijn om een rechtsprekende functie, dan wel de functie van officier van justitie uit te oefenen.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Ten minste éénmaal per jaar maakt het bestuur van het Hof in ten minste twee van de in Aruba, Curaçao, Sint Maarten en Bonaire, Sint Eustatius en Saba en Nederland verschijnende dagbladen bekend dat zich bij hen personen kunnen melden die bij voorkeur aan de vereisten van [artikel 24, eerste en tweede lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=24) voldoen, teneinde in aanmerking te komen voor een aanstelling in een opleidingsfunctie tot rechter of officier van justitie.
 
@@ -442,7 +468,7 @@ Er is een opleiding die ten doel heeft toekomstige rechters en officieren van ju
 
 3. Het bestuur van het Hof stelt vervolgens de ontvangen aanmeldingen in handen van de selectiecommissie.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Er wordt een selectiecommissie ingesteld, die bestaat uit vijf leden, te weten:
 
@@ -464,7 +490,7 @@ Er is een opleiding die ten doel heeft toekomstige rechters en officieren van ju
 
 - d. worden beide door de president van het Hof en de procureurs-generaal van de landen benoemde leden elk vervangen door een voor gelijke duur en onder gelijke beperking tot hun vervanging benoemd lid.
 
-#### Artikel 38
+##### Artikel 38
 
 1. De selectiecommissie onderzoekt wie in aanmerking komen voor een aanstelling en zendt daartoe een aanbeveling aan het bestuur van het Hof.
 
@@ -472,7 +498,7 @@ Er is een opleiding die ten doel heeft toekomstige rechters en officieren van ju
 
 #### Paragraaf 3. Aanstelling en opleiding
 
-#### Artikel 39
+##### Artikel 39
 
 1. De daartoe ingevolge [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=4&paragraaf=2&artikel=38&z=2010-10-10&g=2010-10-10) door de selectiecommissie aanbevolene kan worden toegelaten tot de opleiding voor rechterlijk ambtenaar in opleiding door aanstelling bij het Hof in de functie van rechterlijk ambtenaar in opleiding.
 
@@ -490,7 +516,7 @@ Er is een opleiding die ten doel heeft toekomstige rechters en officieren van ju
 
 - f. zijn standplaats.
 
-#### Artikel 40
+##### Artikel 40
 
 1. Het bestuur van het Hof en de procureurs-generaal van de landen stellen, gehoord de hofvergadering, gezamenlijk een opleidingsreglement voor de rechterlijke ambtenaren in opleiding vast.
 
@@ -506,7 +532,7 @@ Er is een opleiding die ten doel heeft toekomstige rechters en officieren van ju
 
 - e. periodieke beoordeling.
 
-#### Artikel 41
+##### Artikel 41
 
 1. De rechterlijk ambtenaar in opleiding legt bij aanvang van de opleiding de eed of belofte af overeenkomstig het als bijlage bij deze algemene maatregel van rijksbestuur gehechte formulier.
 
@@ -518,13 +544,13 @@ Er is een opleiding die ten doel heeft toekomstige rechters en officieren van ju
 
 5. Een gewaarmerkt afschrift van het origineel van het formulier wordt aan de rechterlijk ambtenaar in opleiding uitgereikt.
 
-#### Artikel 42
+##### Artikel 42
 
 Nadat een rechterlijk ambtenaar in opleiding, de opleiding met gunstig resultaat heeft voltooid, kan hij op grond van de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=23) en [25 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=25) of op grond van [artikel 17, derde lid, van de Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028072&artikel=17), voorgedragen worden voor benoeming tot rechter of substituut-officier van justitie.
 
 #### Paragraaf 4. Schorsing en ontslag
 
-#### Artikel 43
+##### Artikel 43
 
 1. Het bestuur van het Hof, gehoord de procureurs-generaal van de landen, schorst een rechterlijk ambtenaar in opleiding indien hij:
 
@@ -548,7 +574,7 @@ Nadat een rechterlijk ambtenaar in opleiding, de opleiding met gunstig resultaat
 
 6. Indien de schorsing anders dan door ontslag eindigt, kan het bestuur van het Hof beslissen dat het niet genoten salaris geheel of voor een daarbij te bepalen gedeelte alsnog zal worden uitbetaald.
 
-#### Artikel 44
+##### Artikel 44
 
 Het bestuur van het Hof, gehoord de procureurs-generaal van de landen, ontslaat een rechterlijk ambtenaar in opleiding:
 
@@ -560,7 +586,7 @@ Het bestuur van het Hof, gehoord de procureurs-generaal van de landen, ontslaat 
 
 - d. bij gebleken ongeschiktheid voor zijn functie, anders dan wegens ziekte.
 
-#### Artikel 45
+##### Artikel 45
 
 Het bestuur van het Hof, gehoord de procureurs-generaal van de landen, kan een rechterlijk ambtenaar in opleiding ontslaan:
 
@@ -578,19 +604,19 @@ Het bestuur van het Hof, gehoord de procureurs-generaal van de landen, kan een r
 
 - 2°. de verplichting wordt opgelegd een geheim te bewaren.
 
-#### Artikel 46
+##### Artikel 46
 
 Alvorens een besluit op grond van de [artikelen 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=4&paragraaf=4&artikel=43&z=2010-10-10&g=2010-10-10), [44, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=4&paragraaf=4&artikel=44&z=2010-10-10&g=2010-10-10), en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=4&paragraaf=4&artikel=45&z=2010-10-10&g=2010-10-10) wordt genomen wordt de rechterlijk ambtenaar in opleiding door het bestuur van het Hof in de gelegenheid gesteld zijn zienswijze mondeling of schriftelijk naar voren te brengen.
 
 #### Paragraaf 5. Arbeidsvoorwaarden
 
-#### Artikel 47
+##### Artikel 47
 
 1. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=7&z=2010-10-10&g=2010-10-10), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=9&z=2010-10-10&g=2010-10-10), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=12&z=2010-10-10&g=2010-10-10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=13&z=2010-10-10&g=2010-10-10), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=14&z=2010-10-10&g=2010-10-10), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=15&z=2010-10-10&g=2010-10-10), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=16&z=2010-10-10&g=2010-10-10), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=17&z=2010-10-10&g=2010-10-10), [18, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=18&z=2010-10-10&g=2010-10-10), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=19&z=2010-10-10&g=2010-10-10), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=20&z=2010-10-10&g=2010-10-10), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=21&z=2010-10-10&g=2010-10-10), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=22&z=2010-10-10&g=2010-10-10), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=23&z=2010-10-10&g=2010-10-10), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=24&z=2010-10-10&g=2010-10-10), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=25&z=2010-10-10&g=2010-10-10), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=1&artikel=26&z=2010-10-10&g=2010-10-10), en de [artikelen 31 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=3&paragraaf=3&artikel=31&z=2010-10-10&g=2010-10-10), zijn van overeenkomstige toepassing op de rechterlijke ambtenaren in opleiding.
 
 2. De rechterlijk ambtenaar in opleiding heeft in het eerste opleidingsjaar aanspraak op 176 uren vakantie en met ingang van het tweede opleidingsjaar aanspraak op 200 uren vakantie, met behoud van salaris en toelagen.
 
-#### Artikel 48
+##### Artikel 48
 
 1. Bij ministeriële rijksregeling kunnen regels worden gesteld over de rechtspositie van rechterlijke ambtenaren in opleiding.
 
@@ -598,7 +624,7 @@ Alvorens een besluit op grond van de [artikelen 43, tweede lid](https://wetten.o
 
 ### Hoofdstuk 5. Leden beheerraad
 
-#### Artikel 49
+##### Artikel 49
 
 1. Alvorens zitting te nemen leggen de leden van de Beheerraad de eed of belofte af volgens het formulier zoals vastgesteld in de bijlage bij deze algemene maatregel rijksbestuur.
 
@@ -606,7 +632,7 @@ Alvorens een besluit op grond van de [artikelen 43, tweede lid](https://wetten.o
 
 3. Bij herbenoeming is het afleggen van een nieuwe eed of het uitspreken van een nieuwe belofte niet vereist.
 
-#### Artikel 50
+##### Artikel 50
 
 1. Voor het verrichten van werkzaamheden in het kader van de Beheerraad ontvangen de leden van de Beheerraad een vergoeding.
 
@@ -614,7 +640,7 @@ Alvorens een besluit op grond van de [artikelen 43, tweede lid](https://wetten.o
 
 3. De reis- en verblijfskostenregeling voor rechters is van overeenkomstige toepassing op de leden van de Beheerraad.
 
-#### Artikel 51
+##### Artikel 51
 
 1. Een lid van de Beheerraad wordt door Onze Ministers geschorst, indien hij:
 
@@ -634,7 +660,7 @@ Alvorens een besluit op grond van de [artikelen 43, tweede lid](https://wetten.o
 
 4. De schorsing wordt beëindigd zodra de grond voor deze maatregel is vervallen.
 
-#### Artikel 52
+##### Artikel 52
 
 1. Een lid van de Beheerraad wordt op eigen verzoek bij koninklijk besluit ontslagen.
 
@@ -656,7 +682,7 @@ Alvorens een besluit op grond van de [artikelen 43, tweede lid](https://wetten.o
 
 ### Hoofdstuk 6. Klachten
 
-#### Artikel 53
+##### Artikel 53
 
 1. Een ieder heeft het recht om over de wijze waarop een rechter van het Hof zich in een bepaalde aangelegenheid jegens hem of een ander heeft gedragen, bij het bestuur van het Hof een klacht in te dienen. Niet geklaagd kan worden over de inhoud en de motivering van een beslissing van een rechter noch over de totstandkoming van een rechterlijke beslissing met inbegrip van de in dat kader genomen beslissingen van procedurele aard.
 
@@ -666,7 +692,7 @@ Alvorens een besluit op grond van de [artikelen 43, tweede lid](https://wetten.o
 
 4. Tegen een besluit inzake de behandeling van een klacht over een gedraging van het Hof kan geen beroep worden ingesteld.
 
-#### Artikel 54
+##### Artikel 54
 
 1. Een klaagschrift wordt ondertekend en bevat tenminste:
 
@@ -684,7 +710,7 @@ Alvorens een besluit op grond van de [artikelen 43, tweede lid](https://wetten.o
 
 5. Het bestuur van het Hof kan besluiten het klaagschrift dat niet aan de vereisten genoemd in het eerste, derde, en of vierde lid voldoet, niet te behandelen, mits de klager in de gelegenheid is gesteld het klaagschrift binnen een door het bestuur van het Hof te stellen termijn aan te vullen.
 
-#### Artikel 55
+##### Artikel 55
 
 1. Het bestuur van het Hof is niet verplicht de klacht te behandelen indien zij betrekking heeft op een gedraging:
 
@@ -700,7 +726,7 @@ Alvorens een besluit op grond van de [artikelen 43, tweede lid](https://wetten.o
 
 3. Van het niet in behandeling nemen van de klacht stelt het bestuur van het Hof de klager zo spoedig mogelijk doch uiterlijk binnen vier weken na ontvangst van het klaagschrift schriftelijk in kennis.
 
-#### Artikel 56
+##### Artikel 56
 
 1. Het bestuur van het Hof bevestigt de ontvangst van het klaagschrift schriftelijk onder de mededeling van de datum van ontvangst van het klaagschrift.
 
@@ -714,7 +740,7 @@ Alvorens een besluit op grond van de [artikelen 43, tweede lid](https://wetten.o
 
 6. Het aantal geregistreerde klachten wordt jaarlijks gepubliceerd met vermelding van de aard van de klacht.
 
-#### Artikel 57
+##### Artikel 57
 
 1. Het bestuur van het Hof stelt de klager en de beklaagde in de gelegenheid te worden gehoord.
 
@@ -724,7 +750,7 @@ Alvorens een besluit op grond van de [artikelen 43, tweede lid](https://wetten.o
 
 4. Van het horen wordt een verslag gemaakt.
 
-#### Artikel 58
+##### Artikel 58
 
 1. De klager en de beklaagde kunnen zich door een gemachtigde laten bijstaan of laten vertegenwoordigen.
 
@@ -732,13 +758,13 @@ Alvorens een besluit op grond van de [artikelen 43, tweede lid](https://wetten.o
 
 3. Het tweede lid is niet van toepassing op advocaten.
 
-#### Artikel 59
+##### Artikel 59
 
 1. In elke fase van de klachtbehandeling kan het bestuur van het Hof nagaan of de klager door middel van een informele afhandeling van zijn klacht tevreden gesteld kan worden.
 
 2. Zodra het bestuur van het Hof naar tevredenheid van de klager aan diens klacht tegemoet is gekomen, kan de klachtprocedure worden afgesloten. De klager ontvangt in dat geval een schriftelijke kennisgeving van de afsluiting van deze procedure. Aan de beklaagde wordt een kopie van deze kennisgeving verstrekt.
 
-#### Artikel 60
+##### Artikel 60
 
 1. Het bestuur van het Hof handelt de klacht binnen zes weken of, – indien aan het bepaalde in [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=6&artikel=62&z=2010-10-10&g=2010-10-10), toepassing wordt gegeven – binnen tien weken na ontvangst van het klaagschrift af.
 
@@ -746,11 +772,11 @@ Alvorens een besluit op grond van de [artikelen 43, tweede lid](https://wetten.o
 
 3. Wanneer de klacht een lid van het bestuur van het Hof betreft, neemt dit lid niet aan de behandeling van de klacht deel. Dit lid wordt vervangen door een ander lid van het Hof.
 
-#### Artikel 61
+##### Artikel 61
 
 Het bestuur van het Hof stelt de klager en de beklaagde schriftelijk en gemotiveerd in kennis van de bevindingen van het onderzoek naar de klacht en van de eventuele conclusies die het daaraan verbindt.
 
-#### Artikel 62
+##### Artikel 62
 
 1. Het bestuur van het Hof kan een klachtadviescommissie met de advisering over een klacht belasten. Een klachtadviescommissie bestaat uit drie leden.
 
@@ -762,7 +788,7 @@ Het bestuur van het Hof stelt de klager en de beklaagde schriftelijk en gemotive
 
 5. Het bestuur van het Hof kan de klachtadviescommissie alleen algemene aanwijzingen geven.
 
-#### Artikel 63
+##### Artikel 63
 
 1. Zodra het bestuur van het Hof besluit de klachtadviescommissie in te schakelen, deelt het bestuur de klager en de beklaagde mee dat een klachtadviescommissie met de advisering over de klacht is belast.
 
@@ -776,13 +802,13 @@ Het bestuur van het Hof stelt de klager en de beklaagde schriftelijk en gemotive
 
 6. Het rapport bevat het verslag van het horen.
 
-#### Artikel 64
+##### Artikel 64
 
 Indien de conclusies van het bestuur van het Hof afwijken van het advies van de klachtadviescommissie, wordt in die conclusies de reden voor die afwijking vermeld en wordt het advies meegezonden met de kennisgeving, bedoeld in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0028548&hoofdstuk=6&artikel=61&z=2010-10-10&g=2010-10-10).
 
 ### Hoofdstuk 7. Overgangs-en slotbepalingen
 
-#### Artikel 65
+##### Artikel 65
 
 1. Degene die op grond van [artikel 60, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=60) benoemd wordt tot president van het Hof, behoudt zijn rechtspositie zoals die gold voor de functie van president van het Gemeenschappelijk Hof van de Nederlandse Antillen en Aruba op de dag vóór inwerkingtreding van de [rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028070), tenzij anders overeengekomen.
 
@@ -790,17 +816,17 @@ Indien de conclusies van het bestuur van het Hof afwijken van het advies van de 
 
 3. Voor wat betreft de ontwikkelingen in de arbeidsvoorwaarden van degene die op grond van [artikel 60, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=60) wordt benoemd, wordt aangesloten bij de ontwikkelingen in de arbeidsvoorwaarden van de ambtenaren van het land Curaçao.
 
-#### Artikel 66
+##### Artikel 66
 
 1. Indien een rechter of een rechterlijk ambtenaar in opleiding voorafgaand aan de inwerkingtreding van deze algemene maatregel van rijksbestuur is benoemd, dan behoudt deze rechter of rechterlijk ambtenaar in opleiding de rechtspositie zoals die gold op de dag vóór inwerkingtreding van dit rijksbesluit, tenzij anders overeengekomen.
 
 2. Voor wat betreft de ontwikkelingen in de arbeidsvoorwaarden van de rechter of de rechterlijk ambtenaar in opleiding, bedoeld in het eerste lid, wordt aangesloten bij de ontwikkelingen in de arbeidsvoorwaarden van de ambtenaren van het land Curaçao.
 
-#### Artikel 67
+##### Artikel 67
 
 Deze algemene maatregel van rijksbestuur treedt in werking op de dag van inwerkingtreding van de [rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028070).
 
-#### Artikel 68
+##### Artikel 68
 
 Deze algemene maatregel van rijksbestuur wordt aangehaald als: Rijksbesluit rechtspositie Gemeenschappelijk Hof van Justitie.
 

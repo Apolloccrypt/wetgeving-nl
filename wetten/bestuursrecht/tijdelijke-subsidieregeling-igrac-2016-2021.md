@@ -1,20 +1,46 @@
 ---
-title: "Tijdelijke subsidieregeling IGRAC 2016-2021"
+title: "Regeling van de Minister van Infrastructuur en Milieu, van 27 juni 2017, nr. IENM/BSK-2017/67339, houdende regels voor de verstrekking van een tijdelijke subsidie aan het International Groundwater Resources Assessment Centre (Tijdelijke subsidieregeling IGRAC 2016-2021)"
 identifier: "BWBR0039771"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-07-13
-laatste_update: 2017-07-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039771"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-07-13"
+last_updated: "2017-07-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039771"
+soort: "ministeriele-regeling"
+stam_id: "14067653"
+version_id: "24220022"
+internal_id: "C34790951"
+label_id: "14028814"
+dtd_version: "2.0"
+original_entry_into_force: "2017-07-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039771/2017-07-13/0"
+intitule_bron: "Stcrt.2017-37560"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-06-27"
+intitule_published: "2017-07-12"
+intitule_in_force: "2017-07-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-37560"
+original_signed_date: "2017-06-27"
+original_published_date: "2017-07-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-37560"
+entry_into_force_date: "2017-07-13"
+jci_1_3: "jci1.3:c:BWBR0039771&z=2017-07-13&g=2017-07-13"
+jci_1_0: "1.0:c:BWBR0039771&g=2017-07-13"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke subsidieregeling IGRAC 2016-2021"
+signed_date: "2017-06-27"
+entry_into_force: "2017-07-13"
 ---
-
 # Regeling van de Minister van Infrastructuur en Milieu, van 27 juni 2017, nr. IENM/BSK-2017/67339, houdende regels voor de verstrekking van een tijdelijke subsidie aan het International Groundwater Resources Assessment Centre (Tijdelijke subsidieregeling IGRAC 2016-2021)
 
 Gelet op de [artikelen 3, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), en [5 van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5) en de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2), en [4 van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -24,27 +50,27 @@ In deze regeling wordt verstaan onder:
 
 - **subsidieontvanger:** IGRAC.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Minister kan voor de periode van 1 januari 2016 tot en met 31 december 2021 op aanvraag per twee boekjaren subsidie verstrekken aan de subsidieontvanger voor het verrichten van niet-economische activiteiten door IGRAC als bedoeld in artikel 6 van het op 6 december 2016 te Parijs tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur (UNESCO) inzake het International Groundwater Resources Assessment Centre in Nederland als een centrum onder auspiciën van UNESCO (categorie 2) (Trb. 2016, 198).
 
 2. Voor activiteiten van IGRAC als bedoeld in het eerste lid, wordt geen subsidie verstrekt voor zover voor dergelijke activiteiten een subsidie is of wordt verstrekt door een ander bestuursorgaan dan wel hiervoor andere inkomsten van derden zonder tegenprestatie zijn of worden verkregen.
 
-#### Artikel 3
+##### Artikel 3
 
 [Afdeling 4.2.8. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.8), met uitzondering van de [artikelen 4:60](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:60) en [4:73 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:73), is van toepassing op aan de subsidieontvanger verstrekte subsidies.
 
-#### Artikel 4
+##### Artikel 4
 
 Het subsidieplafond bedraagt voor de jaren 2016 tot en met 2021 maximaal € 2.960.000,–.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Als subsidiabele kosten worden uitsluitend in aanmerking genomen de naar het oordeel van de Minister noodzakelijke, rechtstreeks aan de activiteiten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039771&artikel=2&z=2017-07-13&g=2017-07-13), toe te rekenen en door de subsidieontvanger gemaakte en betaalde kosten.
 
 2. Subsidiabele kosten kunnen ook betrekking hebben op de voor indiening van de subsidieaanvraag gemaakte kosten in 2016 en 2017.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De aanvraag tot subsidie voor twee aaneengesloten boekjaren wordt uiterlijk op 1 november voorafgaand aan de twee boekjaren waarvoor subsidie wordt aangevraagd schriftelijk ingediend bij de Minister per adres Postbus 93144, 2509 AC Den Haag.
 
@@ -52,19 +78,19 @@ Het subsidieplafond bedraagt voor de jaren 2016 tot en met 2021 maximaal € 2.9
 
 3. Onverminderd [artikel 4:65 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:65) gaat de aanvraag vergezeld van een liquiditeitsbegroting.
 
-#### Artikel 7
+##### Artikel 7
 
 In aanvulling op [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) kan de Minister de subsidieverlening geheel of gedeeltelijk weigeren indien naar zijn oordeel de aanvraag niet voldoet aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039771&artikel=2&z=2017-07-13&g=2017-07-13).
 
-#### Artikel 8
+##### Artikel 8
 
 De Minister geeft de beschikking tot subsidieverlening binnen dertien weken na ontvangst van de aanvraag.
 
-#### Artikel 9
+##### Artikel 9
 
 Voor zover de subsidie wordt verleend ten laste van de nog niet door de Staten-Generaal aangenomen rijksbegroting, onderdeel Infrastructuur en Milieu, wordt in de beschikking tot subsidieverlening vermeld dat de subsidieverlening plaatsvindt onder de voorwaarde dat voldoende gelden ter beschikking worden gesteld in de wet tot vaststelling van de rijksbegroting, onderdeel Infrastructuur en Milieu.
 
-#### Artikel 10
+##### Artikel 10
 
 1. In aanvulling op de verplichtingen op grond van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) is de subsidieontvanger verplicht tot:
 
@@ -98,7 +124,7 @@ Voor zover de subsidie wordt verleend ten laste van de nog niet door de Staten-G
 
 - b. een onderzoek als bedoeld in [artikel 4:79, eerste lid, van de Algemenen wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:79) wordt uitgevoerd.
 
-#### Artikel 11
+##### Artikel 11
 
 De Minister kan bij de beschikking tot subsidieverlening verplichtingen opleggen met betrekking tot:
 
@@ -114,7 +140,7 @@ De Minister kan bij de beschikking tot subsidieverlening verplichtingen opleggen
 
 - f. de omvang van de egalisatiereserve.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De Minister kan een voorschot verlenen. De beschikking daartoe wordt ambtshalve gelijktijdig met de beschikking tot subsidieverlening gegeven.
 
@@ -124,7 +150,7 @@ De Minister kan bij de beschikking tot subsidieverlening verplichtingen opleggen
 
 4. Voor het jaar 2016 is het voorschot in de beschikking voor het jaar 2016 opgenomen.
 
-#### Artikel 13
+##### Artikel 13
 
 De subsidieontvanger behoeft toestemming van de Minister voor:
 
@@ -136,7 +162,7 @@ De subsidieontvanger behoeft toestemming van de Minister voor:
 
 - d. het doen van aangifte tot faillissement of het aanvragen van surseance van betaling.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De subsidieontvanger dient de aanvraag tot subsidievaststelling in bij de Minister binnen dertien weken volgend op het tweede boekjaar waarvoor de subsidie is verleend.
 
@@ -148,7 +174,7 @@ De subsidieontvanger behoeft toestemming van de Minister voor:
 
 - c. een verklaring van een accountant als bedoeld in [artikel 4:79, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:79).
 
-#### Artikel 15
+##### Artikel 15
 
 1. De Minister geeft een beschikking tot subsidievaststelling binnen tweeëntwintig weken na ontvangst van de aanvraag tot subsidievaststelling.
 
@@ -156,17 +182,17 @@ De subsidieontvanger behoeft toestemming van de Minister voor:
 
 3. De Minister is bevoegd tot ambtshalve vaststelling van de subsidie indien de subsidieontvanger niet tijdig de aanvraag tot vaststelling heeft ingediend.
 
-#### Artikel 16
+##### Artikel 16
 
 De omvang van de egalisatiereserve aan het einde van het laatste boekjaar wordt bestemd ten gunste van de Minister ingeval van beëindiging van de subsidieverstrekking. De subsidieontvanger draagt in het laatste geval zorg voor storting van het bedrag binnen een door de Minister te stellen termijn.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 1 januari 2016.
 
 2. Deze regeling vervalt met ingang van 1 januari 2022, met dien verstande dat zij van toepassing blijft op de reeds verleende subsidie.
 
-#### Artikel 18
+##### Artikel 18
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling IGRAC 2016-2021.
 

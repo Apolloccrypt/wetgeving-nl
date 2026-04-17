@@ -1,14 +1,41 @@
 ---
-title: "Wet ter Bescherming Koopvaardij"
+title: "Wet van 15 mei 2019, houdende regels voor de inzet van gewapende particuliere maritieme beveiligers aan boord van Nederlandse koopvaardijschepen (Wet ter Bescherming Koopvaardij)"
 identifier: "BWBR0042278"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2022-02-01
-laatste_update: 2022-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042278"
+country: "nl"
+rank: "wet"
+publication_date: "2022-02-01"
+last_updated: "2022-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042278"
+soort: "wet"
+stam_id: "15090263"
+version_id: "25865562"
+internal_id: "C39924061"
+label_id: "15039014"
+dtd_version: "2.0"
+original_entry_into_force: "2022-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042278/2022-02-01/0"
+intitule_bron: "Stb.2019-186"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-05-15"
+intitule_published: "2019-06-07"
+intitule_in_force: "2022-01-04"
+intitule_status: "goed"
+original_publication: "Stb.2019-186"
+original_signed_date: "2019-05-15"
+original_published_date: "2019-06-07"
+original_effect: "nieuwe-regeling"
+original_dossier: "34558"
+original_url_id: "stb-2019-186"
+entry_into_force_date: "2022-02-01"
+jci_1_3: "jci1.3:c:BWBR0042278&z=2022-02-01&g=2022-02-01"
+jci_1_0: "1.0:c:BWBR0042278&g=2022-02-01"
+citeertitel_status: "officieel"
+short_title: "Wet ter Bescherming Koopvaardij"
+signed_date: "2019-05-15"
+entry_into_force: "2022-02-01"
 ---
-
-# Wet ter Bescherming Koopvaardij
+# Wet van 15 mei 2019, houdende regels voor de inzet van gewapende particuliere maritieme beveiligers aan boord van Nederlandse koopvaardijschepen (Wet ter Bescherming Koopvaardij)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -62,11 +89,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **zeevarende:** de natuurlijke persoon die in enige hoedanigheid werkzaamheden verricht aan boord van een schip.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze wet is van toepassing op gewapende maritieme beveiligingswerkzaamheden die buiten de territoriale zee van een staat worden verricht aan boord van schepen die op grond van Nederlandse rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren, voor zover zij varen in of door de zeegebieden, aangewezen door Onze Minister bij algemene maatregel van bestuur.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het is verboden zonder vergunning van Onze Minister gewapende maritieme beveiligingswerkzaamheden aan te bieden of te verrichten.
 
@@ -76,7 +103,7 @@ Deze wet is van toepassing op gewapende maritieme beveiligingswerkzaamheden die 
 
 ### Hoofdstuk 2. De toestemming voor de inzet van particulier maritiem beveiligingspersoneel
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onze Minister beslist op een verzoek van de scheepsbeheerder om toestemming als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&hoofdstuk=1&artikel=3&z=2022-02-01&g=2022-02-01).
 
@@ -92,11 +119,11 @@ Deze wet is van toepassing op gewapende maritieme beveiligingswerkzaamheden die 
 
 5. De voordracht voor een krachtens dit artikel vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 5
+##### Artikel 5
 
 Onze Minister van Defensie verstrekt Onze Minister alle gegevens die door de scheepsbeheerder bij een verzoek om beveiliging van een transport zijn verstrekt voor zover deze nodig zijn voor het verlenen van de toestemming, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&hoofdstuk=1&artikel=3&z=2022-02-01&g=2022-02-01).
 
-#### Artikel 6
+##### Artikel 6
 
 1. De kapitein en de scheepsbeheerder passen voorafgaand aan en tijdens een transport waarop particulier maritiem beveiligingspersoneel wordt ingezet alle redelijkerwijs mogelijke, bij ministeriële regeling aan te wijzen beschermingsmaatregelen toe.
 
@@ -108,15 +135,15 @@ Onze Minister van Defensie verstrekt Onze Minister alle gegevens die door de sch
 
 ### Hoofdstuk 3. De inzet van particulier maritiem beveiligingspersoneel
 
-#### Artikel 7
+##### Artikel 7
 
 Het particulier maritiem beveiligingspersoneel dat op een transport wordt ingezet wordt niet als zeevarend aangemerkt.
 
-#### Artikel 8
+##### Artikel 8
 
 Het particulier maritiem beveiligingspersoneel maakt bij de uitvoering van maritieme beveiligingswerkzaamheden geen gebruik van andere dan de door Onze Minister bij algemene maatregel van bestuur aangewezen geweldsmiddelen. Bij of krachtens algemene maatregel van bestuur worden tevens regels gesteld over de wijze van opslag van de aangewezen geweldsmiddelen op het schip.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het particulier maritiem beveiligingspersoneel is bevoegd bij dreigend gevaar van piraterij de aangewezen geweldsmiddelen ter hand te nemen, op te stellen en dreigend te tonen.
 
@@ -136,7 +163,7 @@ Het particulier maritiem beveiligingspersoneel maakt bij de uitvoering van marit
 
 9. De voordracht voor een krachtens het achtste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het particulier maritiem beveiligingspersoneel is bevoegd tot het dragen van handboeien.
 
@@ -144,7 +171,7 @@ Het particulier maritiem beveiligingspersoneel maakt bij de uitvoering van marit
 
 3. Aangehouden personen worden door het particulier maritiem beveiligingspersoneel onverwijld overgeleverd aan de kapitein. Het bepaalde in [titel VIB van het vierde boek van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=VIb) is van overeenkomstige toepassing.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het particulier maritiem beveiligingspersoneel maakt bij de uitvoering van maritieme beveiligingswerkzaamheden gebruik van camera’s en microfoons.
 
@@ -166,7 +193,7 @@ Het particulier maritiem beveiligingspersoneel maakt bij de uitvoering van marit
 
 6. De voordracht voor een krachtens het vijfde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Van ieder transport waarop particulier maritiem beveiligingspersoneel is ingezet wordt na afloop van het transport volgens door Onze Minister te geven regels een rapportage in de Nederlandse of Engelse taal opgesteld door de kapitein en door de teamleider van het particulier maritiem beveiligingspersoneel afzonderlijk.
 
@@ -176,7 +203,7 @@ Het particulier maritiem beveiligingspersoneel maakt bij de uitvoering van marit
 
 ### Hoofdstuk 4. De vergunning
 
-#### Artikel 13
+##### Artikel 13
 
 1. De vergunning, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&hoofdstuk=1&artikel=3&z=2022-02-01&g=2022-02-01), kan op aanvraag van een maritiem beveiligingsbedrijf worden verleend indien de bij algemene maatregel van bestuur te bepalen certificaten worden overgelegd en aan de bij of krachtens deze wet gestelde regels wordt voldaan.
 
@@ -188,7 +215,7 @@ Het particulier maritiem beveiligingspersoneel maakt bij de uitvoering van marit
 
 5. Bij of krachtens algemene maatregel van bestuur worden in ieder geval regels gesteld over de aanvraag, de duur, de overgang, de schorsing en de verlenging van een vergunning en over de voorschriften, bedoeld in het derde lid.
 
-#### Artikel 14
+##### Artikel 14
 
 Onze Minister kan de vergunning intrekken of schorsen indien:
 
@@ -204,7 +231,7 @@ Onze Minister kan de vergunning intrekken of schorsen indien:
 
 - f. de vergunninghouder handelt in strijd met hetgeen van een goed maritiem beveiligingsbedrijf in het maatschappelijk verkeer mag worden verwacht.
 
-#### Artikel 14a
+##### Artikel 14a
 
 1. Gelet op artikel 10 van de Algemene verordening gegevensbescherming, kan Onze Minister persoonsgegevens van strafrechtelijke aard als bedoeld in [paragraaf 3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.2) verwerken, voor zover die verwerking noodzakelijk is, in het kader van de betrouwbaarheidstoetsing van de onderneming bij het verlenen van een vergunning.
 
@@ -216,7 +243,7 @@ Onze Minister kan de vergunning intrekken of schorsen indien:
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over het bewaren en vernietigen van de in het eerste en tweede lid bedoelde persoonsgegevens en over andere waarborgen.
 
-#### Artikel 15
+##### Artikel 15
 
 De vergunninghouder:
 
@@ -226,13 +253,13 @@ De vergunninghouder:
 
 ### Hoofdstuk 5. Toezicht en handhaving
 
-#### Artikel 16
+##### Artikel 16
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, zijn belast de bij besluit van Onze Minister aangewezen ambtenaren. Onze Minister kan aan deze ambtenaren algemene en bijzondere aanwijzingen geven omtrent de uitvoering van het toezicht.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Onze Minister kan aan de vergunninghouder een bestuurlijke boete opleggen van een bij ministeriële regeling te bepalen bedrag ter zake van overtreding van de bij of krachtens deze wet gestelde regels en van de aan de vergunning verbonden voorschriften.
 
@@ -250,7 +277,7 @@ De vergunninghouder:
 
 3. De op grond van het eerste of tweede lid vast te stellen bestuurlijke boete bedraagt ten hoogste het bedrag dat is vastgesteld voor de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
-#### Artikel 17a
+##### Artikel 17a
 
 1. Onze Minister stelt ten behoeve van het toezicht op en de handhaving van de bij en krachtens deze wet gestelde regels driejaarlijks een werkplan op.
 
@@ -258,31 +285,31 @@ De vergunninghouder:
 
 3. Het in het tweede lid bedoelde verslag bevat tevens informatie over de ontvangen rapportages, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&hoofdstuk=3&artikel=12&z=2022-02-01&g=2022-02-01), en de meldingen, bedoeld in artikel 12, derde lid, die door een kapitein bij het openbaar ministerie zijn gedaan.
 
-#### Artikel 17b
+##### Artikel 17b
 
 1. Onze Minister werkt in het kader van vergunningverlening, toezicht op en handhaving van de bij en krachtens deze wet gestelde regels samen met instanties die krachtens het recht van de staat die het betreft met vergunningverlening, toezicht op en handhaving van maritieme beveiligingswetgeving zijn belast.
 
 2. In het kader van vergunningverlening, toezicht op en handhaving van de bij en krachtens deze wet gestelde regels kunnen de met toezicht belaste ambtenaren gegevens uitwisselen met buitenlandse instanties.
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt de Wet wapens en munitie.
 
-#### Artikel 20
+##### Artikel 20
 
 Onze Minister zendt binnen drie jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen ervan verschillend kan worden vastgesteld, en vervalt op het tijdstip dat een rijkswet houdende regels voor de inzet van gewapende particuliere maritieme beveiligers aan boord van schepen die de vlag van het Koninkrijk voeren, in werking treedt.
 
-#### Artikel 22
+##### Artikel 22
 
 Deze wet wordt aangehaald als: Wet ter Bescherming Koopvaardij.
 

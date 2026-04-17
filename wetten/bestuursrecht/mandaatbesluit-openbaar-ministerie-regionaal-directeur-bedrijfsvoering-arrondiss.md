@@ -1,13 +1,39 @@
 ---
-title: "Mandaatbesluit openbaar ministerie regionaal directeur bedrijfsvoering arrondissementsparketten te Dordrecht en Rotterdam 2009"
+title: "Regeling van de hoofdofficieren van justitie van de Arrondissementsparketten Dordrecht en Rotterdam houdende het verlenen van mandaat, volmacht en machtiging aan de regionaal directeur bedrijfsvoering"
 identifier: "BWBR0028931"
-categorie: "Bestuursrecht"
-publicatiedatum: 2010-11-14
-laatste_update: 2010-11-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028931"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-11-14"
+last_updated: "2010-11-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028931"
+soort: "ministeriele-regeling"
+stam_id: "11072853"
+version_id: "18095992"
+internal_id: "C25159871"
+label_id: "11047334"
+dtd_version: "2.0"
+original_entry_into_force: "2010-11-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028931/2010-11-14/0"
+intitule_bron: "Stcrt.2010-17692"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-06-23"
+intitule_published: "2010-11-12"
+intitule_in_force: "2010-11-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-17692"
+original_signed_date: "2010-06-23"
+original_published_date: "2010-11-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-17692"
+entry_into_force_date: "2010-11-14"
+jci_1_3: "jci1.3:c:BWBR0028931&z=2010-11-14&g=2010-11-14"
+jci_1_0: "1.0:c:BWBR0028931&g=2010-11-14"
+citeertitel_status: "officieel"
+short_title: "Mandaatbesluit openbaar ministerie regionaal directeur bedrijfsvoering arrondissementsparketten te Dordrecht en Rotterdam 2009"
+signed_date: "2010-06-23"
+entry_into_force: "2010-11-14"
 ---
-
 # Regeling van de hoofdofficieren van justitie van de Arrondissementsparketten Dordrecht en Rotterdam houdende het verlenen van mandaat, volmacht en machtiging aan de regionaal directeur bedrijfsvoering
 
 Overwegende dat bij besluit van 18 december 2009, nummer PaG/14389 het mandaat, de volmacht en de machtiging verleend aan de voorzitter van het Bestuur, is geregeld;
@@ -26,7 +52,7 @@ Besluit:
 
 #### Paragraaf 1. **Definities**
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -62,7 +88,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 2. **De bevoegdheden**
 
-#### Artikel 2. De bevoegdheden van de regionaal directeur bedrijfsvoering
+##### Artikel 2. De bevoegdheden van de regionaal directeur bedrijfsvoering
 
 - 1). Volmacht privaatrechtelijke rechtshandelingen Aan de regionaal directeur bedrijfsvoering wordt volmacht verleend om ten behoeve van de bedrijfsvoering van de arrondissementsparketten Dordrecht en Rotterdam:
 
@@ -88,7 +114,7 @@ In dit besluit wordt verstaan onder:
 
 - b). Aan de regionaal directeur bedrijfsvoering wordt mandaat verleend de bevoegdheden uit te oefenen die op grond van de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) vereist zijn.
 
-#### Artikel 3. Voorwaarden verbonden aan het uitoefenen van het mandaat, volmacht en machtiging
+##### Artikel 3. Voorwaarden verbonden aan het uitoefenen van het mandaat, volmacht en machtiging
 
 - 1). De regionaal directeur bedrijfsvoering is gehouden bij het uitoefenen van bevoegdheden de verplichting na te leven tot het vaststellen van de hoofdlijnen van arbeidsomstandighedenbeleid gericht op het bevorderen van een zo groot mogelijke veiligheid, een zo goed mogelijke bescherming van de veiligheid, een zo goed mogelijke bescherming van de gezondheid en het welzijn van de binnen zijn gezagsbereik werkzame ambtenaren in verband met de arbeid.
 
@@ -128,7 +154,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 4. **Beslissingen op bezwaar en beroep**
 
-#### Artikel 4. Beslissingen op bezwaar en beroep
+##### Artikel 4. Beslissingen op bezwaar en beroep
 
 - 1). De hoofdofficier van justitie van het arrondissementsparket te Rotterdam beslist op een bezwaar of een beroep dat is gericht tegen een beslissing die is genomen door de regionaal directeur bedrijfsvoering, evenals op een daarmee verband houdend verzoek als bedoeld in [artikel 7:1a, eerste lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1a).
 
@@ -136,7 +162,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 5. **Verlenen van ondermandaat**
 
-#### Artikel 5. Ondermandaat
+##### Artikel 5. Ondermandaat
 
 - 1). De regionaal directeur bedrijfsvoering wordt toegestaan – met de nadrukkelijke instemming van het Bestuur – ondermandaat te verlenen en de aan hem toegekende volmacht en machtiging door te geven aan onder hem ressorterende functionarissen.
 
@@ -144,10 +170,10 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 6. **Overgangs- en slotbepalingen**
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 20 november 2009.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit kan worden aangehaald als: Mandaatbesluit openbaar ministerie regionaal directeur bedrijfsvoering arrondissementsparketten te Dordrecht en Rotterdam 2009.

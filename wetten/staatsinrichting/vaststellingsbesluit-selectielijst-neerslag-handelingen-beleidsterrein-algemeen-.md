@@ -1,13 +1,38 @@
 ---
 title: "Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Algemeen Wetenschappelijke voorbereiding van het regeringsbeleid vanaf 1945 (Minister van Binnenlandse Zaken en Koninkrijksrelaties)"
 identifier: "BWBR0019894"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2006-08-05
-laatste_update: 2006-08-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019894"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2006-08-05"
+last_updated: "2006-08-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019894"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "8545223"
+version_id: "13460462"
+internal_id: "C25319041"
+label_id: "8525534"
+dtd_version: "2.0"
+original_entry_into_force: "2006-08-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019894/2006-08-05/0"
+intitule_bron: "Stcrt.2006-149"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-05-22"
+intitule_published: "2006-08-03"
+intitule_in_force: "2006-08-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-149"
+original_signed_date: "2006-05-22"
+original_published_date: "2006-08-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-149-p9-SC76099"
+entry_into_force_date: "2006-08-05"
+jci_1_3: "jci1.3:c:BWBR0019894&z=2006-08-05&g=2006-08-05"
+jci_1_0: "1.0:c:BWBR0019894&g=2006-08-05"
+citeertitel_status: "redactioneel"
+signed_date: "2006-05-22"
+entry_into_force: "2006-08-05"
 ---
-
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Algemeen Wetenschappelijke voorbereiding van het regeringsbeleid vanaf 1945 (Minister van Binnenlandse Zaken en Koninkrijksrelaties)
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,11 +41,11 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 2 oktober 2003
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘[selectielijst voor de neerslag van de handelingen van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de onder hem ressorterende actoren op het beleidsterrein Algemeen Wetenschappelijke voorbereiding van het regeringsbeleid over de periode vanaf 1945](onbekend)’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

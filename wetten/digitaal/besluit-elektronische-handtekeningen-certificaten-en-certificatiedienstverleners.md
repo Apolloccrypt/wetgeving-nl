@@ -1,18 +1,43 @@
 ---
 title: "Besluit elektronische handtekeningen, certificaten en certificatiedienstverleners BES"
 identifier: "BWBR0028373"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028373"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028373"
+soort: "AMvB-BES"
+stam_id: "10763443"
+version_id: "17738832"
+internal_id: "C24738091"
+label_id: "10738094"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028373/2010-10-10/0"
+intitule_bron: "Stb.2010-539"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-16"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-539"
+original_signed_date: "2010-09-16"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-539"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028373&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028373&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-16"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit elektronische handtekeningen, certificaten en certificatiedienstverleners BES
 
 #### § 1. Elektronische handtekening
 
-#### Artikel 1
+##### Artikel 1
 
 Aan een elektronische handtekening worden de volgende eisen gesteld:
 
@@ -24,7 +49,7 @@ Aan een elektronische handtekening worden de volgende eisen gesteld:
 
 - d. zij is zodanig aan elektronische gegevens gekoppeld dat indien deze gegevens worden gewijzigd, de elektronische handtekening ongeldig wordt.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor het aanmaken van elektronische handtekeningen worden de volgende veilige middelen geëist:
 
@@ -40,7 +65,7 @@ Aan een elektronische handtekening worden de volgende eisen gesteld:
 
 2. Voordat tot de aanmaak van een elektronische handtekening wordt overgegaan, wordt de ondertekenaar adequaat voorgelicht over de risico’s die aan de gekozen techniek zijn verbonden, zulks mede in vergelijking tot andere technieken.
 
-#### Artikel 3
+##### Artikel 3
 
 Tijdens het proces voor het verifiëren van elektronische handtekeningen worden met het oog op de veiligheid met redelijke zekerheid gewaarborgd dat:
 
@@ -60,7 +85,7 @@ Tijdens het proces voor het verifiëren van elektronische handtekeningen worden 
 
 #### § 2. Certificatiedienstverleners
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onverminderd eisen ter zake van vestiging en uitoefening van een bedrijf in de openbare lichamen Bonaire, Sint Eustatius en Saba mogen certificatiedienstverleners in de openbare lichamen Bonaire, Sint Eustatius en Saba hun diensten slechts aanbieden indien zij als zodanig zijn erkend.
 
@@ -74,7 +99,7 @@ Tijdens het proces voor het verifiëren van elektronische handtekeningen worden 
 
 6. Onze Minister van Economische Zaken houdt een register bij waarin alle erkenningen en doorhalingen van erkenningen zijn opgenomen. Een ieder heeft kosteloos inzage in het register.
 
-#### Artikel 5
+##### Artikel 5
 
 Aan certificatiedienstverleners worden de navolgende eisen gesteld:
 
@@ -114,13 +139,13 @@ Aan certificatiedienstverleners worden de navolgende eisen gesteld:
 
 - 4°. elke technische wijziging die de bovengenoemde beveiligingsvoorschriften in gevaar kan brengen, voor de gebruiker duidelijk is.
 
-#### Artikel 5a
+##### Artikel 5a
 
 Dit besluit berust op [artikel 7, derde lid, Wet overeenkomsten langs elektronische weg BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028237&artikel=7).
 
 #### § 3. Certificaten
 
-#### Artikel 6
+##### Artikel 6
 
 1. Door certificaatdienstverleners af te geven certificaten bevatten de navolgende gegevens:
 
@@ -142,6 +167,6 @@ Dit besluit berust op [artikel 7, derde lid, Wet overeenkomsten langs elektronis
 
 2. Op een gemotiveerd verzoek van een certificatiedienstverlener kan Onze Minister van Economische Zaken hem ter zake van één of meer van de in het eerste lid voorgeschreven vermeldingen ontheffing verlenen. Aan een dergelijke ontheffing kunnen voorwaarden worden verbonden en een zodanig ontheffing kan onder beperkingen worden verleend.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit elektronische handtekeningen, certificaten en certificatiedienstverleners BES.

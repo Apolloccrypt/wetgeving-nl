@@ -1,20 +1,46 @@
 ---
-title: "Regeling aanwijzing aanbieders essentiële diensten EZK"
+title: "Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 23 april 2021, nr. WJZ/ 21033154, houdende aanwijzing van aanbieders van essentiële diensten op het terrein van economische zaken (Regeling aanwijzing aanbieders essentiële diensten EZK)"
 identifier: "BWBR0045077"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-07-01
-laatste_update: 2023-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045077"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-07-01"
+last_updated: "2023-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045077"
+soort: "ministeriele-regeling"
+stam_id: "15939863"
+version_id: "29083942"
+internal_id: "C41342111"
+label_id: "15874384"
+dtd_version: "2.0"
+original_entry_into_force: "2022-11-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045077/2023-07-01/0"
+intitule_bron: "Stcrt.2021-22401"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-04-23"
+intitule_published: "2021-04-29"
+intitule_in_force: "2021-04-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-31324"
+original_signed_date: "2022-11-17"
+original_published_date: "2022-12-05"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-31324"
+entry_into_force_date: "2022-11-17"
+jci_1_3: "jci1.3:c:BWBR0045077&z=2023-07-01&g=2023-07-01"
+jci_1_0: "1.0:c:BWBR0045077&g=2023-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling aanwijzing aanbieders essentiële diensten EZK"
+signed_date: "2022-11-17"
+entry_into_force: "2022-11-17"
 ---
-
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 23 april 2021, nr. WJZ/ 21033154, houdende aanwijzing van aanbieders van essentiële diensten op het terrein van economische zaken (Regeling aanwijzing aanbieders essentiële diensten EZK)
 
 Gelet op [artikel 2 van het Besluit beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=2);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -22,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - **richtlijn 2009/73/EG:** [richtlijn (EG) 2009/73/EG](32009L0073) van het Europees Parlement en de Raad van 13 juli 2009 betreffende gemeenschappelijke regels voor de interne markt voor aardgas en tot intrekking van [Richtlijn 2003/55/EG](32003L0055) (PbEU 2009, L 211).
 
-#### Artikel 2
+##### Artikel 2
 
 Als aanbieders van een essentiële dienst of categorieën van zodanige aanbieders worden aangewezen:
 
@@ -38,18 +64,18 @@ Als aanbieders van een essentiële dienst of categorieën van zodanige aanbieder
 | Energie: gas | Een LNG-bedrijf als bedoeld in [artikel 1, eerste lid, onderdeel i, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=1). | Het vloeibaar maken van aardgas of de invoer, de verlading en de hervergassing van LNG |
 | Energie: gas | Een gasopslagbedrijf als bedoeld in [artikel 1, eerste lid, onderdeel g, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=1) voor gasopslagen te Bergermeer, Grijpskerk en Alkmaar | Opslag van gas |
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van 1 mei 2021.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van 1 mei 2021.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing aanbieders essentiële diensten EZK.

@@ -1,13 +1,39 @@
 ---
-title: "Landelijke beëindigingsregeling veehouderijlocaties voor stikstofreductie"
+title: "Regeling van de Minister voor Natuur en Stikstof van 5 juni 2023, nr. WJZ/ 27312647, houdende regels voor de verstrekking van subsidie voor het sluiten van veehouderijlocaties voor de reductie van stikstofdepositie op natuurgebieden (Landelijke beëindigingsregeling veehouderijlocaties voor stikstofreductie)"
 identifier: "BWBR0048258"
-categorie: "Milieu"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048258"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048258"
+soort: "ministeriele-regeling"
+stam_id: "16768463"
+version_id: "29450262"
+internal_id: "C42117181"
+label_id: "16684014"
+dtd_version: "2.0"
+original_entry_into_force: "2023-06-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048258/2025-07-01/0"
+intitule_bron: "Stcrt.2023-14992"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-06-05"
+intitule_published: "2023-06-12"
+intitule_in_force: "2023-06-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-14992"
+original_signed_date: "2023-06-05"
+original_published_date: "2023-06-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-14992"
+entry_into_force_date: "2023-06-13"
+jci_1_3: "jci1.3:c:BWBR0048258&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0048258&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Landelijke beëindigingsregeling veehouderijlocaties voor stikstofreductie"
+signed_date: "2023-06-05"
+entry_into_force: "2023-06-13"
 ---
-
 # Regeling van de Minister voor Natuur en Stikstof van 5 juni 2023, nr. WJZ/ 27312647, houdende regels voor de verstrekking van subsidie voor het sluiten van veehouderijlocaties voor de reductie van stikstofdepositie op natuurgebieden (Landelijke beëindigingsregeling veehouderijlocaties voor stikstofreductie)
 
 Gelet op [artikel 3 van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemeen
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In deze regeling wordt verstaan onder:
 
@@ -64,7 +90,7 @@ In deze regeling wordt verstaan onder:
 
 - **veehouderijlocatie:** vestigingsplaats van een veehouderij, bestaande uit het erf, bedoeld in artikel 1 van [bijlage II van het Besluit omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027464&bijlage=II), dan wel, na inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), bedoeld in [bijlage I, onder A, bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I), van de vestiging.
 
-#### Artikel 2. Bepaling stikstofvracht
+##### Artikel 2. Bepaling stikstofvracht
 
 1. De stikstofvracht wordt bepaald met gebruik van AERIUS Check.
 
@@ -76,13 +102,13 @@ In deze regeling wordt verstaan onder:
 
 3. Indien de veehouder aannemelijk kan maken dat de situatie in 2021 niet representatief is voor het jaarlijks gemiddeld gehouden aantal landbouwhuisdieren, kan worden uitgegaan van het aantal landbouwhuisdieren dat gemiddeld is gehouden in 2019 of 2020.
 
-#### Artikel 3. [Kaderbesluit nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796)
+##### Artikel 3. [Kaderbesluit nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796)
 
 De [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=6), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=26), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=28), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=36), [36a](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=36a), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=41), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=43), [52 van het Kaderbesluit nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=52) zijn van overeenkomstige toepassing.
 
 #### § 2. Criteria voor subsidieverstrekking
 
-#### Artikel 4. Grondslag
+##### Artikel 4. Grondslag
 
 1. De minister kan een veehouder die een veehouderij met productierecht drijft, op aanvraag subsidie verstrekken voor de onomkeerbare sluiting van een veehouderijlocatie indien de stikstofvracht die deze locatie veroorzaakt op een overbelast Natura 2000-gebied, ten minste gelijk is aan de minimale stikstofvracht die voor dat gebied is vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048258&bijlage=1&z=2025-07-01&g=2025-07-01).
 
@@ -90,7 +116,7 @@ De [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=6), [22
 
 3. Voor subsidieverstrekking op grond van het eerste lid komt niet in aanmerking een veehouder wiens veehouderij niet voldoet aan de in artikel 2, eerste lid, van bijlage I bij [Verordening (EU) nr. 2472/2022](32022R2472) vastgestelde criteria.
 
-#### Artikel 5. Vereisten
+##### Artikel 5. Vereisten
 
 1. Er is sprake van een onomkeerbare sluiting van een veehouderijlocatie als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048258&paragraaf=2&artikel=4&z=2025-07-01&g=2025-07-01), indien:
 
@@ -134,7 +160,7 @@ De [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=6), [22
 
 2. De minister kan ontheffing verlenen van het vereiste, bedoeld in het eerste lid, onderdeel i, voor zover de veehouder productiecapaciteit langdurig gaat gebruiken voor andere activiteiten dan voor een veehouderij, mits het bevoegd gezag op grond van de [Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779) en de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) dan wel, na de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), op grond van die wet, met dat gebruik instemt.
 
-#### Artikel 6. Afwijzingsgronden
+##### Artikel 6. Afwijzingsgronden
 
 1. De aanvraag van de veehouder wordt afgewezen indien de veehouder op de veehouderijlocatie niet daadwerkelijk een veehouderij met productierecht drijft en voor zover de desbetreffende productiecapaciteit niet onafgebroken gedurende de vijf jaren voorafgaande aan het tijdstip van indiening van de aanvraag op bedrijfseconomisch gangbare wijze gebruikt is.
 
@@ -152,7 +178,7 @@ De [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=6), [22
 
 #### § 3. Subsidiebedrag
 
-#### Artikel 7. Subsidiecomponenten
+##### Artikel 7. Subsidiecomponenten
 
 De subsidie omvat:
 
@@ -160,7 +186,7 @@ De subsidie omvat:
 
 - b. een bijdrage in verband met het verlies van de waarde van de voor de veehouderij met productierecht op de veehouderijlocatie gebruikte productiecapaciteit als gevolg van de onomkeerbare sluiting van de veehouderijlocatie, behoudens voor zover ontheffing van de verplichting tot afbraak en verwijdering van de productiecapaciteit is verleend op grond van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048258&paragraaf=2&artikel=5&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 8. Bijdrage vervallen productierecht
+##### Artikel 8. Bijdrage vervallen productierecht
 
 1. De in [artikel 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0048258&paragraaf=3&artikel=7&z=2025-07-01&g=2025-07-01), bedoelde bijdrage bedraagt 100% van de waarde van het geheel of gedeeltelijk vervallen productierecht, voor zover dat vervallen productierecht niet meer bedraagt dan het productierecht dat vereist is voor het aantal dieren, uitgedrukt in varkenseenheden, pluimvee-eenheden respectievelijk kilogrammen fosfaat, dat gemiddeld in het voor de berekening van de stikstofvracht gebruikte referentiejaar op de veehouderijlocatie is gehouden.
 
@@ -172,7 +198,7 @@ De subsidie omvat:
 
 3. De minister stelt met het oog op de toepassing van dit artikel de marktwaarde van het productierecht benodigd voor een varkenseenheid, een pluimvee-eenheid en een kilogram fosfaat vast aan de hand van de actuele marktprijs, waarbij voor zover het gaat om varkensrecht en pluimveerecht onderscheid wordt gemaakt tussen de concentratiegebieden Zuid en Oost, aangeduid in [bijlage I van de Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&bijlage=I), en het overige gebied, en maakt deze bedragen uiterlijk bekend op de dag voor de aanvang van de openstellingsperiode, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048258&paragraaf=4&artikel=10&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 9. Bijdrage waardeverlies
+##### Artikel 9. Bijdrage waardeverlies
 
 1. De in [artikel 7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048258&paragraaf=3&artikel=7&z=2025-07-01&g=2025-07-01), bedoelde bijdrage bedraagt 100% van de gecorrigeerde vervangingswaarde van de voor de veehouderij met productierecht op de veehouderijlocatie gebruikte productiecapaciteit, behoudens voor zover ontheffing van de verplichting tot afbraak en verwijdering van de productiecapaciteit is verleend op grond van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048258&paragraaf=2&artikel=5&z=2025-07-01&g=2025-07-01).
 
@@ -180,13 +206,13 @@ De subsidie omvat:
 
 #### § 4. Aanvraag tot subsidieverlening
 
-#### Artikel 10. Openstellingsperiode en subsidieplafond
+##### Artikel 10. Openstellingsperiode en subsidieplafond
 
 1. Subsidieaanvragen kunnen worden ingediend in de periode van 3 juli 2023 tot en met 1 december 2023.
 
 2. Het subsidieplafond voor de verstrekking van subsidies op aanvragen die zijn ingediend in de in het eerste lid bedoelde periode, bedraagt € 1.102.000.000,–.
 
-#### Artikel 11. Aanvraag subsidieverlening
+##### Artikel 11. Aanvraag subsidieverlening
 
 1. Een subsidieaanvraag wordt ingediend bij de minister met gebruikmaking van een daartoe door de minister ter beschikking gesteld middel.
 
@@ -232,7 +258,7 @@ De subsidie omvat:
 
 #### § 5. Verdeling subsidieplafond
 
-#### Artikel 12. Verdeling subsidieplafond
+##### Artikel 12. Verdeling subsidieplafond
 
 1. De minister verdeelt het in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048258&paragraaf=4&artikel=10&z=2025-07-01&g=2025-07-01), bedoelde subsidieplafond op volgorde van rangschikking van de aanvragen.
 
@@ -240,7 +266,7 @@ De subsidie omvat:
 
 #### § 6. Verplichtingen van de subsidieontvanger
 
-#### Artikel 13. Fasering sluiting van een veehouderijlocatie
+##### Artikel 13. Fasering sluiting van een veehouderijlocatie
 
 1. De subsidieontvanger voldoet aan:
 
@@ -252,7 +278,7 @@ De subsidie omvat:
 
 2. Het afbreken en verwijderen van de productiecapaciteit, bedoeld in [artikel 5, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0048258&paragraaf=2&artikel=5&z=2025-07-01&g=2025-07-01), vindt niet eerder plaats dan nadat de minister heeft geconstateerd dat uitvoering is gegeven aan de in artikel 5, eerste lid, onderdelen a en b, bedoelde vereisten.
 
-#### Artikel 14. Informatieverplichting voortgang
+##### Artikel 14. Informatieverplichting voortgang
 
 1. De subsidieontvanger verstrekt de minister op diens verzoek informatie over de uitvoering van de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048258&paragraaf=2&artikel=5&z=2025-07-01&g=2025-07-01), bedoelde vereisten.
 
@@ -272,7 +298,7 @@ De subsidie omvat:
 
 - e. een kopie van het verzoek, bedoeld in [artikel 5, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0048258&paragraaf=2&artikel=5&z=2025-07-01&g=2025-07-01), en van een bericht van de gemeente waaruit blijkt dat het verzoek in behandeling is genomen.
 
-#### Artikel 15. Overige verplichtingen
+##### Artikel 15. Overige verplichtingen
 
 1. De subsidieontvanger houdt zich aan de verplichtingen die hij jegens de Staat der Nederlanden is aangegaan op grond van [artikel 5, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0048258&paragraaf=2&artikel=5&z=2025-07-01&g=2025-07-01).
 
@@ -280,7 +306,7 @@ De subsidie omvat:
 
 #### § 7. Gegevensverwerking
 
-#### Artikel 16. Gegevensverwerking
+##### Artikel 16. Gegevensverwerking
 
 1. De minister kan voor een beoordeling van de juistheid van de informatie die is verstrekt bij de indiening van aanvragen op grond van deze regeling gebruikmaken van de daarvoor noodzakelijke gegevens die zijn opgenomen in registraties op grond van de [Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054), de [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250), de [Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252), de [Verordening (EU) 2016/429](32329R2016) van het Europees Parlement en de Raad van 9 maart 2016 (PB EU 2016, L 84) en de Gedelegeerde [verordening (EU) 2019/2035](32035R2019) van de Commissie (Pb EU 2019, L 314).
 
@@ -294,7 +320,7 @@ De subsidie omvat:
 
 #### § 8. Bevoorschotting
 
-#### Artikel 17. Bevoorschotting
+##### Artikel 17. Bevoorschotting
 
 1. De minister verstrekt de subsidieontvanger uiterlijk zes weken na ontvangst van de ondertekende overeenkomst, bedoeld in [artikel 5, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0048258&paragraaf=2&artikel=5&z=2025-07-01&g=2025-07-01), een voorschot van 20% van het subsidiebedrag.
 
@@ -302,13 +328,13 @@ De subsidie omvat:
 
 #### § 9. Subsidievaststelling
 
-#### Artikel 18. Subsidievaststelling
+##### Artikel 18. Subsidievaststelling
 
 De aanvraag om subsidievaststelling wordt uiterlijk dertien weken na afloop van de in [artikel 13, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048258&paragraaf=6&artikel=13&z=2025-07-01&g=2025-07-01), bedoelde termijn van 28 maanden ingediend met gebruikmaking van een middel dat door de minister beschikbaar wordt gesteld.
 
 #### § 10. Slotbepalingen
 
-#### Artikel 19. Staatssteun
+##### Artikel 19. Staatssteun
 
 1. De subsidie, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048258&paragraaf=2&artikel=4&z=2025-07-01&g=2025-07-01), bevat staatssteun.
 
@@ -328,13 +354,13 @@ De aanvraag om subsidievaststelling wordt uiterlijk dertien weken na afloop van 
 
 3. De gegevens, bedoeld in het tweede lid, blijven ten minste tien jaar openbaar beschikbaar.
 
-#### Artikel 20. Inwerkingtreding
+##### Artikel 20. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt vijf jaren na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat zij van toepassing blijft op subsidies die voor die datum zijn verleend.
 
-#### Artikel 21. Citeertitel
+##### Artikel 21. Citeertitel
 
 Deze regeling wordt aangehaald als: Landelijke beëindigingsregeling veehouderijlocaties voor stikstofreductie.
 

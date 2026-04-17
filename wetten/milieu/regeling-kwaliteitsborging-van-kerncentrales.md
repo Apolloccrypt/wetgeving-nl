@@ -1,28 +1,53 @@
 ---
-title: "Regeling kwaliteitsborging van kerncentrales"
+title: "Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 18 februari 2004, Nr. SAS/2004011401 inzake de eisen aan de uitvoering van het kwaliteitsmanagement bij kerncentrales (Regeling kwaliteitsborging van kerncentrales)"
 identifier: "BWBR0016405"
-categorie: "Milieu"
-publicatiedatum: 2010-12-02
-laatste_update: 2010-12-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016405"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-12-02"
+last_updated: "2010-12-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016405"
+soort: "ministeriele-regeling"
+stam_id: "5785943"
+version_id: "10348052"
+internal_id: "C13998251"
+label_id: "5766144"
+original_entry_into_force: "2004-03-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016405/2010-12-02/0"
+intitule_bron: "Stcrt.2004-55"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-02-18"
+intitule_published: "2004-03-19"
+intitule_in_force: "2004-03-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-55"
+original_signed_date: "2004-02-18"
+original_published_date: "2004-03-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-55-p17-SC64121"
+entry_into_force_date: "2004-03-21"
+jci_1_3: "jci1.3:c:BWBR0016405&z=2010-12-02&g=2010-12-02"
+jci_1_0: "1.0:c:BWBR0016405&g=2010-12-02"
+citeertitel_status: "officieel"
+short_title: "Regeling kwaliteitsborging van kerncentrales"
+signed_date: "2004-02-18"
+entry_into_force: "2004-03-21"
 ---
-
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 18 februari 2004, Nr. SAS/2004011401 inzake de eisen aan de uitvoering van het kwaliteitsmanagement bij kerncentrales (Regeling kwaliteitsborging van kerncentrales)
 
 Gelet op [artikel 20 van het Besluit kerninstallaties, splijtstoffen en ertsen](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=20);
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 Inrichtingen als bedoeld in [artikel 15, onder b, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), waarin kernenergie kan of kon worden vrijgemaakt met het oogmerk om energie op te wekken, voldoen aan de Code and Safety Guides Q1 tot en met Q7 en Q10 tot en met Q14, Quality Assurance for Safety in Nuclear Power Plants and other Nuclear Installations, uitgave 1996, van het International Atomic Energy Agency te Wenen, zoals gewijzigd overeenkomstig de bijlage bij deze regeling.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling wordt aangehaald als: Regeling kwaliteitsborging van kerncentrales.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 

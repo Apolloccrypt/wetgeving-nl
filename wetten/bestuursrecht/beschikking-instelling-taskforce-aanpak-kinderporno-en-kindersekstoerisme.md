@@ -1,22 +1,48 @@
 ---
-title: "Beschikking instelling taskforce aanpak kinderporno en kindersekstoerisme"
+title: "Beschikking van de minister van Justitie van 6 november 2009, nr. 5627198/09, houdende instelling van de taskforce aanpak kinderporno en kindersekstoerisme"
 identifier: "BWBR0026642"
-categorie: "Bestuursrecht"
-publicatiedatum: 2009-11-18
-laatste_update: 2009-11-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026642"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2009-11-18"
+last_updated: "2009-11-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026642"
+soort: "ministeriele-regeling"
+stam_id: "10275103"
+version_id: "16816612"
+internal_id: "C23151391"
+label_id: "10250554"
+dtd_version: "2.0"
+original_entry_into_force: "2009-11-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026642/2009-11-18/0"
+intitule_bron: "Stcrt.2009-17325"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-11-06"
+intitule_published: "2009-11-17"
+intitule_in_force: "2009-11-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-17325"
+original_signed_date: "2009-11-06"
+original_published_date: "2009-11-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-17325"
+entry_into_force_date: "2009-11-18"
+jci_1_3: "jci1.3:c:BWBR0026642&z=2009-11-18&g=2009-11-18"
+jci_1_0: "1.0:c:BWBR0026642&g=2009-11-18"
+citeertitel_status: "redactioneel"
+short_title: "Beschikking instelling taskforce aanpak kinderporno en kindersekstoerisme"
+signed_date: "2009-11-06"
+entry_into_force: "2009-11-18"
 ---
-
 # Beschikking van de minister van Justitie van 6 november 2009, nr. 5627198/09, houdende instelling van de taskforce aanpak kinderporno en kindersekstoerisme
 
 Besluit als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een taskforce bestrijding vervaardigen, verspreiden en downloaden van kinderpornografisch materiaal en bestrijding kindersekstoerisme.
 
-#### Artikel 2
+##### Artikel 2
 
 De taskforce levert een bijdrage aan het bereiken van de volgende doelstellingen:
 
@@ -32,11 +58,11 @@ De taskforce levert een bijdrage aan het bereiken van de volgende doelstellingen
 
 - •. het bevorderen van een bewustwordingsproces van de risico’s die kleven aan het gebruik van internet.
 
-#### Artikel 3
+##### Artikel 3
 
 De taskforce bestaat uit de daarvoor aangewezen partijen die betrokken zijn bij de problematiek van de kinderpornografie en die een bijdrage kunnen leveren aan het voorkomen en aanpakken daarvan. De partijen die aan de taskforce deelnemen, doen dat met behoud van hun eigen verantwoordelijkheid.
 
-#### Artikel 4
+##### Artikel 4
 
 De taskforce heeft als taken:
 
@@ -52,15 +78,15 @@ De taskforce heeft als taken:
 
 De taskforce stimuleert de oplossing van knelpunten op bovengenoemde deelaspecten vanuit de eigen verantwoordelijkheid van de deelnemers en met oog voor de maatschappelijke noodzaak tot een gemeenschappelijke aanpak van het fenomeen.
 
-#### Artikel 5
+##### Artikel 5
 
 De taskforce wordt ingesteld voor een periode van 3 jaar. De taskforce zal twee en een half jaar na oprichting zijn werkzaamheden evalueren en hierover aanbevelingen doen aan de Minister van Justitie. Deze zal bezien of het voortbestaan van de taskforce noodzakelijk is.
 
-#### Artikel 6
+##### Artikel 6
 
 De taskforce komt vier maal per jaar bijeen.
 
-#### Artikel 7
+##### Artikel 7
 
 In de taskforce worden benoemd:
 
@@ -82,10 +108,10 @@ In de taskforce worden benoemd:
 
 - –. Mw. M. Van den Heuvel, Plaatsvervangend Directeur Mensenrechten, Emancipatie, Goed Bestuur en Humanitaire Hulp en tevens Hoofd Afdeling Mensenrechten van het ministerie van Buitenlandse Zaken.
 
-#### Arikel 8
+##### Arikel 8
 
 Het secretariaat van de taskforce wordt gevoerd door politie en OM.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt geplaatst in de Nederlandse Staatscourant en treedt in werking met ingang van de dag na dagtekening.

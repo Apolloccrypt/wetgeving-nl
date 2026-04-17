@@ -1,13 +1,39 @@
 ---
-title: "Organisatie- en mandaatbesluit BZK-BES 2012"
+title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 juni 2012, nr. 2012-262679, houdende verlening van mandaat en machtiging van bevoegdheden van het bevoegd gezag ten aanzien van de rijksambtenaren BES (Organisatie en mandaatbesluit BZK-BES 2012)"
 identifier: "BWBR0031745"
-categorie: "Bestuursrecht"
-publicatiedatum: 2012-07-04
-laatste_update: 2012-07-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031745"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2012-07-04"
+last_updated: "2012-07-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031745"
+soort: "ministeriele-regeling-BES"
+stam_id: "11781033"
+version_id: "19488552"
+internal_id: "C27326911"
+label_id: "11753424"
+dtd_version: "2.0"
+original_entry_into_force: "2012-07-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031745/2012-07-04/0"
+intitule_bron: "Stcrt.2012-13366"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-06-18"
+intitule_published: "2012-07-03"
+intitule_in_force: "2012-07-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-13366"
+original_signed_date: "2012-06-18"
+original_published_date: "2012-07-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-13366"
+entry_into_force_date: "2012-07-04"
+jci_1_3: "jci1.3:c:BWBR0031745&z=2012-07-04&g=2012-07-04"
+jci_1_0: "1.0:c:BWBR0031745&g=2012-07-04"
+citeertitel_status: "officieel"
+short_title: "Organisatie- en mandaatbesluit BZK-BES 2012"
+signed_date: "2012-06-18"
+entry_into_force: "2012-07-04"
 ---
-
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 juni 2012, nr. 2012-262679, houdende verlening van mandaat en machtiging van bevoegdheden van het bevoegd gezag ten aanzien van de rijksambtenaren BES (Organisatie en mandaatbesluit BZK-BES 2012)
 
 Handelende in overeenstemming met de Minister van Veiligheid en Justitie;
@@ -18,7 +44,7 @@ Besluit:
 
 #### Paragraaf 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -36,13 +62,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - g. **brandweerkorps:** het brandweerkorps Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met de verlening van mandaat gelijk gesteld de verlening van machtiging om in naam van de Minister handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
 
 #### Paragraaf 2. Organisatie
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onverminderd [artikel 3.23, derde lid van het Organisatiebesluit BZK 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027412&artikel=3.23) is de Rijksdienst Caribisch Nederland een organisatieonderdeel van het directoraat-generaal Bestuur en Koninkrijksrelaties.
 
@@ -58,7 +84,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 #### Paragraaf 3. Bevoegdheden directeur-generaal Bestuur en Koninkrijksrelaties
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onverminderd de [artikelen 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0027413&artikel=1.2), [2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0027413&artikel=2.1), [3.2, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0027413&artikel=3.2), [4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0027413&artikel=4.1), [4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0027413&artikel=4.11) en [4.13 van het Mandaatbesluit BZK 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027413&artikel=4.13) wordt aan de directeur-generaal Bestuur en Koninkrijksrelaties mandaat verleend ten aanzien van:
 
@@ -78,11 +104,11 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 #### Paragraaf 4. Bevoegdheden gemandateerd korpsbeheerder
 
-#### Artikel 5
+##### Artikel 5
 
 Onverminderd de [artikelen 2.1, met uitzondering van onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0027413&artikel=2.1), en [3.2, onderdeel h, van het Mandaatbesluit BZK 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027413&artikel=3.2) wordt aan de gemandateerd korpsbeheerder mandaat verleend ten aanzien van de bevoegdheden van het bevoegd gezag van de ambtenaren van politie van het politiekorps en van het brandweerkorps, voor zover deze aangelegenheden naar aard en inhoud niet een zodanig gewicht hebben dat zij door de Minister dienen te worden afgedaan.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het mandaat, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031745&paragraaf=4&artikel=5&z=2012-07-04&g=2012-07-04), strekt zich in ieder geval uit tot:
 
@@ -102,7 +128,7 @@ Onverminderd de [artikelen 2.1, met uitzondering van onderdeel k](https://wetten
 
 3. De directeur-generaal Politie is bevoegd, in overeenstemming met de Minister, tot het verlenen van ondermandaat van de in het eerste lid, bedoelde bevoegdheden aan de korpschef van het politiekorps of de algemeen commandant van het brandweerkorps, onderscheidenlijk tot het beperken of het intrekken daarvan.
 
-#### Artikel 7
+##### Artikel 7
 
 1. In afwijking van het [Mandaatbesluit BZK 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027413) vindt ondertekening van besluiten en stukken op grond van het mandaat aan de gemandateerd korpsbeheerder met betrekking tot de bevoegdheden van het bevoegd gezag op basis van dit besluit plaats op de volgende wijze:
 
@@ -130,21 +156,21 @@ namens deze,
 
 #### Paragraaf 5. Overige bepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het [Organisatie- en mandaatbesluit BZK-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028832) wordt ingetrokken.
 
 2. Het [Instellingsbesluit Regionaal Service Centrum BES-eilanden](https://wetten.overheid.nl/jci1.3:c:BWBR0024746) wordt ingetrokken.
 
-#### Artikel 9
+##### Artikel 9
 
 Besluiten of handelingen van de directeur-generaal Politie, de korpschef van het politiekorps, de algemeen commandant van het brandweerkorps of de directeur van de Rijksdienst Caribisch Nederland ten aanzien van het bevoegd gezag van de ambtenaren die zijn geplaatst bij het politiekorps of het brandweerkorps, die zijn genomen of verricht in de periode van 14 oktober 2010 tot de datum van inwerkingtreding van dit besluit, zijn genomen of verricht namens de Minister.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit wordt aangehaald als: Organisatie- en mandaatbesluit BZK-BES 2012.
 

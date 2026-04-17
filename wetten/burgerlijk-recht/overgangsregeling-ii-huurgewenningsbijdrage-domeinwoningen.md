@@ -1,18 +1,42 @@
 ---
 title: "Overgangsregeling II huurgewenningsbijdrage domeinwoningen"
 identifier: "BWBR0005448"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1992-04-11
-laatste_update: 1992-04-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005448"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1992-04-11"
+last_updated: "1992-04-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005448"
+soort: "ministeriele-regeling"
+stam_id: "3736403"
+version_id: "5519262"
+internal_id: "C5712351"
+label_id: "3716144"
+dtd_version: "2.0"
+original_entry_into_force: "1992-04-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005448/1992-04-11/0"
+intitule_bron: "Stcrt.1992-71"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-03-13"
+intitule_published: "1992-04-09"
+intitule_in_force: "1992-04-09"
+intitule_status: "goed"
+original_publication: "Stcrt.1992-71"
+original_signed_date: "1992-03-13"
+original_published_date: "1992-04-09"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1992-04-11"
+jci_1_3: "jci1.3:c:BWBR0005448&z=1992-04-11&g=1992-04-11"
+jci_1_0: "1.0:c:BWBR0005448&g=1992-04-11"
+citeertitel_status: "officieel"
+signed_date: "1992-03-13"
+entry_into_force: "1992-04-11"
 ---
-
 # Overgangsregeling II huurgewenningsbijdrage domeinwoningen
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 De Regeling huurgewenningsbijdrage, zoals zij laatstelijk luidde voor 1 juli 1988 (Stcrt. 1987, 75) wordt, bij toepassing van de [Overgangsregeling huurgewenningsbijdrage domeinwoningen](https://wetten.overheid.nl/jci1.3:c:BWBR0004464) (Stcrt. 1988, 253) gelezen als volgt:
 
@@ -68,11 +92,11 @@ Aanvragen om verstrekking van een bijdrage worden, ingeval het een woning betref
 
 De bijdrage is per jaar betaalbaar, voor de eerste maal vanaf de datum, bedoeld in het eerste lid, met betrekking tot alle maanden die op dat tijdstip zijn verstreken sinds de datum van 1 juli, met ingang waarvan ingevolge artikel 12 de bijdrage wordt verstrekt, en vervolgens telkens in het derde kwartaal van het daarop volgende kalenderjaar.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Overgangsregeling huurgewenningsbijdrage domeinwoningen.
 
-#### Artikel III
+##### Artikel III
 
 1. Deze regeling treedt in werking met ingang van de tweede dag na de datum van uitgifte van de Staatscourant, waarin zij wordt geplaatst, en werkt terug tot en met 1 januari 1992.
 

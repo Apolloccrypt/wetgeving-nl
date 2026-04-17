@@ -1,20 +1,45 @@
 ---
 title: "Gewijzigde tijdelijke subsidieregels Aangepast Lezen 2023–2026"
 identifier: "BWBR0049915"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-07-05
-laatste_update: 2024-07-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049915"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-07-05"
+last_updated: "2024-07-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049915"
+soort: "zbo"
+stam_id: "17156693"
+version_id: "30196662"
+internal_id: "C43260501"
+label_id: "17064924"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049915/2024-07-05/0"
+intitule_bron: "Stcrt.2024-21453"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-25"
+intitule_published: "2024-07-04"
+intitule_in_force: "2024-07-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-21453"
+original_signed_date: "2024-06-25"
+original_published_date: "2024-07-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-21453"
+entry_into_force_date: "2024-07-05"
+jci_1_3: "jci1.3:c:BWBR0049915&z=2024-07-05&g=2024-07-05"
+jci_1_0: "1.0:c:BWBR0049915&g=2024-07-05"
+citeertitel_status: "officieel"
+signed_date: "2024-06-25"
+entry_into_force: "2024-07-05"
 ---
-
 # Gewijzigde tijdelijke subsidieregels Aangepast Lezen 2023–2026
 
 gelet op de [artikelen 1.2, eerste lid aanhef en onder c en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048999&artikel=1.2), en [1.4 van het Subsidiereglement Koninklijke Bibliotheek 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0048999&artikel=1.4);
 
 besluit: vast te stellen de navolgende Gewijzigde tijdelijke subsidieregels Aangepast Lezen 2023–2026
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regels wordt verstaan onder:
 
@@ -38,11 +63,11 @@ In deze regels wordt verstaan onder:
 
 - –. **toegelaten entiteit:** een entiteit als bedoeld in [artikel 15m onder d van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=15m), die door Nederland is gemachtigd of erkend om zonder winstoogmerk onderwijs, opleiding, aangepast lezen of toegang tot informatie aan leesgehandicapten te bieden. Hieronder wordt mede verstaan openbare instellingen of organisaties zonder winstoogmerk die leesgehandicapten dezelfde diensten aanbieden als een van hun hoofdactiviteiten, institutionele verplichtingen of in het kader van hun taken van openbaar belang.
 
-#### Artikel 2. Verhouding [Subsidiereglement Koninklijke Bibliotheek 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0048999)
+##### Artikel 2. Verhouding [Subsidiereglement Koninklijke Bibliotheek 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0048999)
 
 Voor zover in deze regeling niet iets anders is bepaald, is het bepaalde in het [Subsidiereglement Koninklijke Bibliotheek 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0048999) van toepassing.
 
-#### Artikel 3. Subsidiabele activiteiten
+##### Artikel 3. Subsidiabele activiteiten
 
 1. In het kader van de activiteit het verzorgen van een bibliotheekvoorziening van noodzakelijk omgezette werken voor personen met een handicap als bedoeld in [artikel 1.2, eerste lid aanhef en onder c, van het Subsidiereglement Koninklijke Bibliotheek 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0048999&artikel=1.2) kan het Algemeen Bestuurscollege de volgende activiteiten subsidiëren:
 
@@ -60,7 +85,7 @@ Voor zover in deze regeling niet iets anders is bepaald, is het bepaalde in het 
 
 2. De uitvoering van de activiteiten sluit aan bij het op het moment van indiening van de aanvraag geldende beleidsplan en het beleidskader Aangepast Lezen van de KB en de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049915&artikel=4&z=2024-07-05&g=2024-07-05) genoemde doelstellingen.
 
-#### Artikel 4. Doelstellingen
+##### Artikel 4. Doelstellingen
 
 Met het verstrekken van subsidies voor het verzorgen van een bibliotheekvoorziening van noodzakelijk omgezette werken voor personen met een handicap streeft de KB de volgende doelstellingen na:
 
@@ -72,7 +97,7 @@ Met het verstrekken van subsidies voor het verzorgen van een bibliotheekvoorzien
 
 - d. het werken aan innovatie en verbetering van diensten, producten en productie.
 
-#### Artikel 5. Subsidieplafonds
+##### Artikel 5. Subsidieplafonds
 
 1. Het Algemeen Bestuurscollege stelt de subsidieplafonds voor de activiteiten als bedoeld in de [artikelen 3 eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0049915&artikel=3&z=2024-07-05&g=2024-07-05), jaarlijks vast. De plafonds worden bekend gemaakt in de Staatscourant, waarbij de wijze van verdeling wordt vermeld.
 
@@ -82,7 +107,7 @@ Met het verstrekken van subsidies voor het verzorgen van een bibliotheekvoorzien
 
 4. De bekendmaking van een verlaging van een subsidieplafond na aanvang van het tijdvak waarvoor het subsidieplafond is vastgesteld, heeft geen gevolgen voor voordien ingediende aanvragen.
 
-#### Artikel 6. Verzorging eerstelijnsvoorziening voor het publiek
+##### Artikel 6. Verzorging eerstelijnsvoorziening voor het publiek
 
 1. Voor de verzorging van de eerstelijnsvoorziening voor het publiek als bedoeld in [artikel 3, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049915&artikel=3&z=2024-07-05&g=2024-07-05), wordt uitsluitend subsidie verleend wanneer deze activiteit voldoet aan de volgende criteria:
 
@@ -116,7 +141,7 @@ Met het verstrekken van subsidies voor het verzorgen van een bibliotheekvoorzien
 
 8. Subsidie wordt verstrekt voor de rechtstreeks aan de activiteiten toe te rekenen kosten, voor zover deze naar het oordeel van het Algemeen Bestuurscollege noodzakelijk, sober en doelmatig zijn.
 
-#### Artikel 7. Productie
+##### Artikel 7. Productie
 
 1. Voor de productie van boeken, kranten en tijdschriften en in beperkte mate van andere media in aangepaste leesvormen, de rechtstreekse levering hiervan aan de klant, in opdracht van de eerstelijnsvoorziening en de hierop gerichte innovatie wordt uitsluitend subsidie verstrekt wanneer deze activiteit voldoet aan de volgende criteria:
 
@@ -158,7 +183,7 @@ Met het verstrekken van subsidies voor het verzorgen van een bibliotheekvoorzien
 
 9. Subsidie wordt verstrekt voor de rechtstreeks aan de activiteiten toe te rekenen kosten, voor zover deze naar het oordeel van het Algemeen Bestuurscollege noodzakelijk, sober en doelmatig zijn.
 
-#### Artikel 8. Projecten Doorontwikkeling Aangepast Lezen
+##### Artikel 8. Projecten Doorontwikkeling Aangepast Lezen
 
 1. Het Algemeen Bestuurscollege stelt één of meerdere keren per jaar een apart besluit vast voor het verstrekken van projectsubsidies als bedoeld in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0049915&artikel=3&z=2024-07-05&g=2024-07-05), met daarin een nadere invulling van de doelgroep, de aanvraag, de subsidiabele activiteiten, het indieningstijdvak, de verplichtingen en de beslistermijn.
 
@@ -170,11 +195,11 @@ Met het verstrekken van subsidies voor het verzorgen van een bibliotheekvoorzien
 
 5. Wanneer het subsidiebedrag gebaseerd is op rechtstreeks aan de activiteiten toe te rekenen kosten, wordt de subsidie verleend voor zover deze kosten naar het oordeel van het Algemeen Bestuurscollege noodzakelijk, sober en doelmatig zijn.
 
-#### Artikel 9. Intrekking
+##### Artikel 9. Intrekking
 
 De [Tijdelijke subsidieregels aangepast lezen 2023 – 2026](https://wetten.overheid.nl/jci1.3:c:BWBR0046877) worden ingetrokken.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 1. Deze regels treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst.
 
@@ -182,6 +207,6 @@ De [Tijdelijke subsidieregels aangepast lezen 2023 – 2026](https://wetten.over
 
 3. Op subsidies die op grond van deze regels zijn verstrekt, blijven deze regels van toepassing.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regels worden aangehaald als: Gewijzigde tijdelijke subsidieregels Aangepast Lezen 2023–2026.

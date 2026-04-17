@@ -1,13 +1,38 @@
 ---
-title: "Besluit PT verlening mandaat, volmacht en machtiging voorzitter en secretaris Productschap Tuinbouw"
+title: "Besluit van het bestuur van het Productschap Tuinbouw besluit, d.d. 25 april 2006, tot verlening van mandaat, volmacht en machtiging aan de voorzitter en secretaris van het Productschap Tuinbouw (Besluit PT verlening mandaat, volmacht en machtiging voorzitter en secretaris Productschap Tuinbouw)"
 identifier: "BWBR0019834"
-categorie: "Bestuursrecht"
-publicatiedatum: 2006-05-21
-laatste_update: 2006-05-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019834"
+country: "nl"
+rank: "pbo"
+publication_date: "2006-05-21"
+last_updated: "2006-05-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019834"
+soort: "pbo"
+stam_id: "8313653"
+version_id: "13181082"
+internal_id: "C17750011"
+label_id: "8294674"
+dtd_version: "2.0"
+original_entry_into_force: "2006-05-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019834/2006-05-21/0"
+intitule_bron: "Vbbo.2006-25"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-05-08"
+intitule_published: "2006-05-19"
+intitule_in_force: "2006-05-19"
+intitule_status: "goed"
+original_publication: "Vbbo.2006-25"
+original_signed_date: "2006-05-08"
+original_published_date: "2006-05-19"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2006-05-21"
+jci_1_3: "jci1.3:c:BWBR0019834&z=2006-05-21&g=2006-05-21"
+jci_1_0: "1.0:c:BWBR0019834&g=2006-05-21"
+citeertitel_status: "officieel"
+short_title: "Besluit PT verlening mandaat, volmacht en machtiging voorzitter en secretaris Productschap Tuinbouw"
+signed_date: "2006-05-08"
+entry_into_force: "2006-05-21"
 ---
-
 # Besluit van het bestuur van het Productschap Tuinbouw besluit, d.d. 25 april 2006, tot verlening van mandaat, volmacht en machtiging aan de voorzitter en secretaris van het Productschap Tuinbouw (Besluit PT verlening mandaat, volmacht en machtiging voorzitter en secretaris Productschap Tuinbouw)
 
 Gelet op [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=86), [92](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=92), [93](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=93), [95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95),[104](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=104), [118](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=118),[127 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127)
@@ -18,7 +43,7 @@ BESLUIT:
 
 #### Inleiding
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop berustende bepalingen worden de begrippen overgenomen van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=1) en [2 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=2) en de [Verordening PT algemene bepalingen 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0016684).
 
@@ -36,7 +61,7 @@ BESLUIT:
 
 #### De voorzitter
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aan de voorzitter is voorbehouden de bevoegdheid tot het nemen van een besluit en het verrichten van een privaatrechtelijke rechtshandeling, neergelegd in een document, gericht tot:
 
@@ -62,7 +87,7 @@ BESLUIT:
 
 #### Secretaris
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019834&artikel=2&z=2006-05-21&g=2006-05-21), wordt aan de secretaris - overeenkomstig de aan hen toedeelde taken (zie [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019834&bijlage=2&z=2006-05-21&g=2006-05-21))- mandaat verleend.
 
@@ -70,7 +95,7 @@ BESLUIT:
 
 #### Ondermandaat
 
-#### Artikel 4
+##### Artikel 4
 
 1. De secretaris kan van het aan hem verleende mandaat ondermandaat verlenen aan:
 
@@ -88,7 +113,7 @@ BESLUIT:
 
 #### Volmacht en machtiging
 
-#### Artikel 5
+##### Artikel 5
 
 1. Onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019834&artikel=4&z=2006-05-21&g=2006-05-21) wordt aan de secretaris volmacht en machtiging verstrekt.
 
@@ -96,13 +121,13 @@ BESLUIT:
 
 3. [Artikel 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019834&artikel=4&z=2006-05-21&g=2006-05-21) is van overeenkomstige toepassing.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het hoofd van Stafafdeling houdt een register bij van de besluiten als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019834&artikel=4&z=2006-05-21&g=2006-05-21)en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0019834&artikel=5&z=2006-05-21&g=2006-05-21).
 
 2. Een afschrift van het in het eerste lid genoemde register ligt ter inzage bij de Stafafdeling, Louis Pasteurlaan 6, Zoetermeer.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het in een document vastleggen van een besluit, een privaatrechtelijke of een andere handeling, dient te geschieden op briefpapier van het productschap met het hoofd:
 
@@ -120,11 +145,11 @@ namens deze, ",
 
 gevolgd door de handtekening, de naam van de functionaris en functieaanduiding.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit en de daarbij behorende bijlage wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie en treedt in werking de tweede dag na publicatie.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit kan worden aangehaald als: Besluit PT verlening mandaat, volmacht en machtiging voorzitter en secretaris Productschap Tuinbouw.
 

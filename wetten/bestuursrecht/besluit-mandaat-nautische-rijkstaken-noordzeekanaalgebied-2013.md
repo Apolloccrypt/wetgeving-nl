@@ -1,13 +1,39 @@
 ---
-title: "Besluit mandaat nautische rijkstaken Noordzeekanaalgebied 2013"
+title: "Besluit van de Directeur-Generaal van Rijkswaterstaat en de Minister van Infrastructuur en Milieu houdende de verlening van mandaat voor het uitvoeren van de nautische rijkstaken in het Noordzeekanaalgebied aan de directeur van het openbaar lichaam Centraal Nautisch Beheer Noordzeekanaalgebied (Besluit mandaat nautische rijkstaken Noordzeekanaalgebied 2013)"
 identifier: "BWBR0033217"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-06-01
-laatste_update: 2013-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033217"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-06-01"
+last_updated: "2013-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033217"
+soort: "ministeriele-regeling"
+stam_id: "12198823"
+version_id: "20409572"
+internal_id: "C28688551"
+label_id: "12170224"
+dtd_version: "2.0"
+original_entry_into_force: "2013-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033217/2013-06-01/0"
+intitule_bron: "Stcrt.2013-9184"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-03-19"
+intitule_published: "2013-04-11"
+intitule_in_force: "2013-04-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-9184"
+original_signed_date: "2013-03-19"
+original_published_date: "2013-04-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-9184"
+entry_into_force_date: "2013-06-01"
+jci_1_3: "jci1.3:c:BWBR0033217&z=2013-06-01&g=2013-06-01"
+jci_1_0: "1.0:c:BWBR0033217&g=2013-06-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit mandaat nautische rijkstaken Noordzeekanaalgebied 2013"
+signed_date: "2013-03-19"
+entry_into_force: "2013-06-01"
 ---
-
 # Besluit van de Directeur-Generaal van Rijkswaterstaat en de Minister van Infrastructuur en Milieu houdende de verlening van mandaat voor het uitvoeren van de nautische rijkstaken in het Noordzeekanaalgebied aan de directeur van het openbaar lichaam Centraal Nautisch Beheer Noordzeekanaalgebied (Besluit mandaat nautische rijkstaken Noordzeekanaalgebied 2013)
 
 Gelet op:
@@ -42,7 +68,7 @@ Dit besluit aangeeft welke bevoegdheden en taken onderwerp zijn van het mandaat.
 
 Besluit:
 
-#### Artikel 1. Mandaatverlening
+##### Artikel 1. Mandaatverlening
 
 1. De Directeur-Generaal Rijkswaterstaat verleent mandaat voor de nautische rijkstaken en bevoegdheden genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033217&artikel=3&z=2013-06-01&g=2013-06-01) aan de directeur van het Centraal Nautisch Beheer Noordzeekanaalgebied, voor zover deze worden uitgeoefend in het Noordzeekanaalgebied zoals genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033217&artikel=2&z=2013-06-01&g=2013-06-01) van dit besluit.
 
@@ -52,7 +78,7 @@ Besluit:
 
 4. Onder ‘directeur van het openbaar lichaam Centraal Nautisch Beheer Noordzeekanaalgebied’ wordt tevens verstaan diens plaatsvervanger, voor zover deze als (onbezoldigd) rijksambtenaar van Rijkswaterstaat is aangesteld.
 
-#### Artikel 2. Noordzeekanaalgebied
+##### Artikel 2. Noordzeekanaalgebied
 
 Onder Noordzeekanaalgebied, mandaatgebied voor de rijkstaken, wordt verstaan:
 
@@ -70,7 +96,7 @@ Onder Noordzeekanaalgebied, mandaatgebied voor de rijkstaken, wordt verstaan:
 
 - 7e. het Noordzeekanaal en het Afgesloten IJ, overal tussen de vaarwegbegrenzing tenzij anders genoemd, incl. “Kruithaven”: van km 0 tot de denkbeeldige lijn door de boeien IJ10 – IJ11 aansluitend op de grens van het waterstaatkundig beheer (positie boei IJ10: 52°22´97 N 004°55´91 E of X: 123.916 Y: 488.431); Positie boei IJ11: 52°22´90 N 004°55´90 E of X:123.924 Y: 488.307).
 
-#### Artikel 3. Bevoegdheden/taken
+##### Artikel 3. Bevoegdheden/taken
 
 Het namens het bevoegd gezag zorg dragen voor vlotte, veilige en milieuverantwoorde afwikkeling van het scheepvaartverkeer.
 
@@ -82,7 +108,7 @@ Het namens de bevoegde plaatselijke autoriteit RVGZ uitoefenen van de bevoegdhed
 
 Het namens het bevoegde gezag in spoedeisende gevallen opleggen van een last onder bestuursdwang zoals bedoeld in [artikel 5:31 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:31).
 
-#### Artikel 4. Voorschriften
+##### Artikel 4. Voorschriften
 
 1. De directeur van het Centraal Nautisch Beheer Noordzeekanaalgebied neemt de instructies, aanwijzingen, en het beleid van de Directeur-Generaal Rijkswaterstaat in acht;
 
@@ -92,10 +118,10 @@ Het namens het bevoegde gezag in spoedeisende gevallen opleggen van een last ond
 
 4. Elke 5 jaar, en eenmalig voor het eerst na twee jaar na vaststelling van dit besluit, vindt een evaluatie van het besluit plaats. Dit besluit wordt vijfjaarlijks geëvalueerd.
 
-#### Artikel 5. Aanwijzing toezichthouders
+##### Artikel 5. Aanwijzing toezichthouders
 
 Aan te wijzen als toezichthouders in het kader van de uitoefening van de bevoegdheden zoals vermeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033217&artikel=3&z=2013-06-01&g=2013-06-01), de nautische medewerkers die onder de verantwoordelijkheid van Havenmeester Amsterdam vallen, met uitzondering van hen die alleen administratieve werkzaamheden uitoefenen.
 
-#### Artikel 6. Bekendmaking
+##### Artikel 6. Bekendmaking
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en werkt terug tot 1 april 2013.

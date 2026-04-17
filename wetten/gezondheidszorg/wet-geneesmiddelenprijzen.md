@@ -1,14 +1,41 @@
 ---
-title: "Wet geneesmiddelenprijzen"
+title: "Wet van 25 januari 1996, houdende regels omtrent de vaststelling van maximumprijzen voor geneesmiddelen"
 identifier: "BWBR0007867"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2020-03-19
-laatste_update: 2020-03-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007867"
+country: "nl"
+rank: "wet"
+publication_date: "2020-03-19"
+last_updated: "2020-03-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007867"
+soort: "wet"
+stam_id: "353273"
+version_id: "520322"
+internal_id: "C520321"
+label_id: "345324"
+dtd_version: "2.0"
+original_entry_into_force: "1996-02-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007867/2020-03-19/0"
+intitule_bron: "Stb.1996-90"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-01-25"
+intitule_published: "1996-02-15"
+intitule_in_force: "1996-02-22"
+intitule_status: "goed"
+original_publication: "Stb.1996-90"
+original_signed_date: "1996-01-25"
+original_published_date: "1996-02-15"
+original_effect: "nieuwe-regeling"
+original_dossier: "24266"
+original_url_id: "stb-1996-90"
+entry_into_force_date: "1996-02-23"
+jci_1_3: "jci1.3:c:BWBR0007867&z=2020-03-19&g=2020-03-19"
+jci_1_0: "1.0:c:BWBR0007867&g=2020-03-19"
+citeertitel_status: "officieel"
+short_title: "Wet geneesmiddelenprijzen"
+signed_date: "1996-01-25"
+entry_into_force: "1996-02-23"
 ---
-
-# Wet geneesmiddelenprijzen
+# Wet van 25 januari 1996, houdende regels omtrent de vaststelling van maximumprijzen voor geneesmiddelen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +43,7 @@ Alzo Wij in overweging genomen hebben, dat het ter bevordering van de volksgezon
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -30,7 +57,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Bij algemene maatregel van bestuur kan worden bepaald dat farmaceutische vormen in daarbij aangegeven gevallen voor de toepassing van deze wet worden aangemerkt als dezelfde farmaceutische vorm.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Bij ministeriële regeling kan voor een geneesmiddel, waarvan de beschikbaarheid voor een ieder naar het oordeel van Onze Minister door de overheid dient te worden gewaarborgd, een maximumprijs worden vastgesteld. De maximumprijs wordt uitgedrukt in een bedrag per daarbij aan te geven hoeveelheid. Op de voorbereiding van de regeling is [Afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing. Het ontwerp van de regeling wordt ten minste vier weken voor de vaststelling overgelegd aan de beide kamers der Staten-Generaal.
 
@@ -46,7 +73,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 7. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de wijze waarop maximumprijzen worden vastgesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Ten minste tweemaal per jaar onderzoekt Onze Minister of er aanleiding is de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=2&z=2020-03-19&g=2020-03-19), bedoelde regeling te wijzigen. Zonodig past Onze Minister de regeling binnen 90 dagen na het begin van dit onderzoek aan.
 
@@ -60,75 +87,75 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 6. Ingeval van een uitzonderlijk groot aantal aanvragen kan Onze Minister de in het vijfde lid bedoelde termijn eenmaal met 60 dagen verlengen. Een besluit tot verlenging van de termijn wordt voor het verstrijken van de in het vijfde lid bedoelde termijn bekend gemaakt aan de aanvrager.
 
-#### Artikel 4
+##### Artikel 4
 
 Het is verboden een geneesmiddel tegen een hogere prijs dan de maximumprijs te koop aan te bieden, te verkopen of krachtens verkoop te leveren dan wel een hogere prijs dan de maximumprijs in rekening te brengen aan een persoon, een rechtspersoon daaronder begrepen, die ingevolge de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505) bevoegd is tot het afleveren van geneesmiddelen aan particuliere gebruikers.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een ieder die een geneesmiddel te koop aanbiedt, verkoopt of krachtens verkoop levert aan een persoon, een rechtspersoon daaronder begrepen, die ingevolge de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505) bevoegd is tot het afleveren van geneesmiddelen aan particuliere gebruikers, is verplicht een administratie te voeren, waaruit per transactie blijkt aan wie en tegen welke prijs hij het desbetreffende geneesmiddel heeft verkocht, alsmede de verpakkingsgrootte.
 
 2. De administratie, bedoeld in het eerste lid, wordt gedurende ten minste drie kalenderjaren na het jaar waarop zij betrekking heeft, bewaard. Indien terzake van een transactie waarop de administratie betrekking heeft, een boete is opgelegd, wordt de administratie bewaard totdat de beschikking tot oplegging van de boete onherroepelijk is geworden.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen ambtenaren. Van een besluit als bedoeld in de eerste volzin wordt mededeling gedaan door plaatsing in de **Staatscourant**.
 
 2. De toezichthouders beschikken niet over de bevoegdheden, genoemd in de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Onze Minister kan een bestuurlijke boete opleggen van ten hoogste € 45 000 ter zake van overtreding van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=4&z=2020-03-19&g=2020-03-19) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=5&z=2020-03-19&g=2020-03-19).
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Onze Minister zendt binnen achttien maanden nadat voor het eerst een regeling als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=2&z=2020-03-19&g=2020-03-19), is vastgesteld, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 19
+##### Artikel 19
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Zij vervalt met ingang van de eerste dag van het vijfde kalenderjaar na dat waarin voor het laatst een regeling ingevolge [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007867&artikel=2&z=2020-03-19&g=2020-03-19), heeft gegolden.
 
-#### Artikel 20
+##### Artikel 20
 
 Deze wet wordt aangehaald als: Wet geneesmiddelenprijzen.
 

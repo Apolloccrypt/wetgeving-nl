@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit externe begeleidingscommissie Onderzoek hersteloperatie toeslagen"
+title: "Besluit van de Staatssecretaris van Financiën van 4 juni 2025, nr. 2025-149559, houdende instelling van een externe commissie ter begeleiding van Onderzoek hersteloperatie toeslagen (Instellingsbesluit externe begeleidingscommissie Onderzoek hersteloperatie toeslagen)"
 identifier: "BWBR0051164"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-07-02
-laatste_update: 2025-07-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051164"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-02"
+last_updated: "2025-07-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051164"
+soort: "ministeriele-regeling"
+stam_id: "17458343"
+version_id: "30790302"
+internal_id: "C44134031"
+label_id: "17360924"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051164/2025-07-02/0"
+intitule_bron: "Stcrt.2025-22135"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-06-04"
+intitule_published: "2025-07-01"
+intitule_in_force: "2025-07-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-22135"
+original_signed_date: "2025-06-04"
+original_published_date: "2025-07-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-22135"
+entry_into_force_date: "2025-07-02"
+jci_1_3: "jci1.3:c:BWBR0051164&z=2025-07-02&g=2025-07-02"
+jci_1_0: "1.0:c:BWBR0051164&g=2025-07-02"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit externe begeleidingscommissie Onderzoek hersteloperatie toeslagen"
+signed_date: "2025-06-04"
+entry_into_force: "2025-07-02"
 ---
-
 # Besluit van de Staatssecretaris van Financiën van 4 juni 2025, nr. 2025-149559, houdende instelling van een externe commissie ter begeleiding van Onderzoek hersteloperatie toeslagen (Instellingsbesluit externe begeleidingscommissie Onderzoek hersteloperatie toeslagen)
 
 Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In dit besluit wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 - e). **externe onderzoeksbureau:** de uitvoerder van het onderzoek die via een inkoopprocedure wordt gekozen.
 
-#### Artikel 2. Instelling en taak
+##### Artikel 2. Instelling en taak
 
 1. Er is een begeleidingscommissie voor de begeleiding van het Onderzoek.
 
@@ -38,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 - b. een appreciatie te geven van de tussenrapportages en het eindrapport.
 
-#### Artikel 3. Samenstelling, benoeming, ontslag
+##### Artikel 3. Samenstelling, benoeming, ontslag
 
 1. De begeleidingscommissie bestaat uit een voorzitter en ten minste vier leden.
 
@@ -56,7 +82,7 @@ In dit besluit wordt verstaan onder:
 
 8. Het door de voorzitter of een lid niet voldoen aan het tweede of zevende lid vormt een zwaarwegende grond als bedoeld in het vijfde lid.
 
-#### Artikel 4. Leden
+##### Artikel 4. Leden
 
 Tot lid van de begeleidingscommissie worden met ingang van de inwerkingtreding van dit besluit benoemd:
 
@@ -70,19 +96,19 @@ Tot lid van de begeleidingscommissie worden met ingang van de inwerkingtreding v
 
 - e. Drs. A. Janssen.
 
-#### Artikel 5. Instellingsduur
+##### Artikel 5. Instellingsduur
 
 1. De begeleidingscommissie wordt ingesteld voor de duur van de looptijd van het Onderzoek, te rekenen vanaf de datum van inwerkingtreding van dit besluit.
 
 2. De begeleidingscommissie wordt vier weken nadat het eindrapport van het Onderzoek is uitgebracht opgeheven.
 
-#### Artikel 6. Ondersteuning
+##### Artikel 6. Ondersteuning
 
 1. De Staatssecretaris voorziet met de ambtelijke werkgroep in de ondersteuning van de begeleidingscommissie.
 
 2. De ambtelijke werkgroep draagt zorg voor het doorgeleiden van de adviezen en reacties van de begeleidingscommissie naar het externe onderzoeksbureau.
 
-#### Artikel 7. Werkwijze en geheimhouding
+##### Artikel 7. Werkwijze en geheimhouding
 
 1. De begeleidingscommissie stelt haar eigen werkwijze vast.
 
@@ -96,25 +122,25 @@ Tot lid van de begeleidingscommissie worden met ingang van de inwerkingtreding v
 
 6. De leden van de externe begeleidingscommissie zijn verplicht tot geheimhouding van hetgeen hen in het verband van de werkzaamheden bekend is geworden.
 
-#### Artikel 8. Vergoeding
+##### Artikel 8. Vergoeding
 
 1. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, zoals vastgelegd in de CAO Rijk en de arbeidsduurfactor op 1,5/36.
 
 2. Aan de andere leden wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, zoals vastgelegd in de CAO Rijk en de arbeidsduurfactor op 1/36.
 
-#### Artikel 9. Openbaarmaking
+##### Artikel 9. Openbaarmaking
 
 Rapporten, notities, verslagen en adviezen die door of namens de begeleidingscommissie worden vervaardigd of vergaard worden niet door de begeleidingscommissie openbaar gemaakt, maar uitsluitend aan de Staatssecretaris uitgebracht of overgedragen.
 
-#### Artikel 10. Archiefbescheiden
+##### Artikel 10. Archiefbescheiden
 
 De begeleidingscommissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden of, indien de omstandigheden daartoe aanleiding geven, op een eerder moment, de stukken en gegevens betreffende die werkzaamheden over aan het archief van het programmadirectoraat-generaal Herstel van het Ministerie van Financiën.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 mei 2025.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit externe begeleidingscommissie Onderzoek hersteloperatie toeslagen.
 

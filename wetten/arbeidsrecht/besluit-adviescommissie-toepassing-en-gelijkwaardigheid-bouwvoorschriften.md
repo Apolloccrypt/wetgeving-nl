@@ -1,18 +1,44 @@
 ---
-title: "Besluit Adviescommissie toepassing en gelijkwaardigheid bouwvoorschriften"
+title: "Besluit van de Minister voor Wonen en Rijksdienst van 15 oktober 2015, nummer 2015-0000436097, houdende instelling van de Adviescommissie toepassing en gelijkwaardigheid bouwvoorschriften"
 identifier: "BWBR0037131"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2025-04-02
-laatste_update: 2025-04-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037131"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-04-02"
+last_updated: "2025-04-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037131"
+soort: "ministeriele-regeling"
+stam_id: "13289963"
+version_id: "22747102"
+internal_id: "C32889581"
+label_id: "13257974"
+dtd_version: "2.0"
+original_entry_into_force: "2015-10-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037131/2025-04-02/0"
+intitule_bron: "Stcrt.2015-37507"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-10-15"
+intitule_published: "2015-10-30"
+intitule_in_force: "2015-10-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-37507"
+original_signed_date: "2015-10-15"
+original_published_date: "2015-10-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-37507"
+entry_into_force_date: "2015-10-31"
+jci_1_3: "jci1.3:c:BWBR0037131&z=2025-04-02&g=2025-04-02"
+jci_1_0: "1.0:c:BWBR0037131&g=2025-04-02"
+citeertitel_status: "officieel"
+short_title: "Besluit Adviescommissie toepassing en gelijkwaardigheid bouwvoorschriften"
+signed_date: "2015-10-15"
+entry_into_force: "2015-10-31"
 ---
-
 # Besluit van de Minister voor Wonen en Rijksdienst van 15 oktober 2015, nummer 2015-0000436097, houdende instelling van de Adviescommissie toepassing en gelijkwaardigheid bouwvoorschriften
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -20,11 +46,11 @@ In dit besluit wordt verstaan onder:
 
 - b. **minister:** Minister voor Wonen en Rijksdienst.
 
-#### Artikel 2
+##### Artikel 2
 
 Er is een Adviescommissie toepassing en gelijkwaardigheid bouwvoorschriften.
 
-#### Artikel 3
+##### Artikel 3
 
 De commissie heeft tot taak te adviseren over:
 
@@ -32,7 +58,7 @@ De commissie heeft tot taak te adviseren over:
 
 - b. de toepassing van de technische voorschriften aangaande het bouwen, gebruiken of de staat van bouwwerken gesteld bij of krachtens de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) of de regels over bouwactiviteiten of het gebruik en het in stand houden van bouwwerken gesteld bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), in de in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037131&artikel=4&z=2025-04-02&g=2025-04-02), genoemde gevallen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De commissie adviseert uitsluitend in geval:
 
@@ -66,7 +92,7 @@ De commissie heeft tot taak te adviseren over:
 
 3. Indien omtrent de toepassing van die voorschriften naar het oordeel van de commissie reeds voldoende relevante informatie ter beschikking van verzoekers is, kan de commissie het verzoek afwijzen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De commissie bestaat uit maximaal negen deskundigen op het terrein van het bouwproces en de technische voorschriften over het bouwen, gebruiken of de staat van bouwwerken, gesteld bij of krachtens [artikel 2 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=2) en de regels over bouwactiviteiten en het gebruik en het in stand houden van bouwwerken gesteld bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885).
 
@@ -82,7 +108,7 @@ De commissie heeft tot taak te adviseren over:
 
 7. De leden kunnen tussentijds niet geschorst of ontslagen worden, anders dan wegens ongeschiktheid of onbekwaamheid voor de vervulde functie dan wel wegens andere zwaarwegende redenen die in de persoon van de betrokkene zijn gelegen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De bij de behandeling van een verzoek betrokken leden van de commissie stellen het advies van de commissie vast bij meerderheid van stemmen. Geen van de betrokken leden onthoudt zich van stemming.
 
@@ -90,7 +116,7 @@ De commissie heeft tot taak te adviseren over:
 
 3. Voor het overige regelt de commissie zelf haar werkwijze en legt deze schriftelijk vast.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De leden van de commissie hebben zitting zonder last.
 
@@ -102,27 +128,27 @@ De commissie heeft tot taak te adviseren over:
 
 - c. een aanvraag betreft waarbij hij op enigerlei wijze betrokken is geweest.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een advies wordt uitgebracht aan verzoeker en de betrokken partij met wie verschil van inzicht bestaat over de zaak die onderwerp is van het verzoek om advies.
 
 2. Adviezen van de commissie worden, ontdaan van gegevens die herleidbaar zijn tot verzoeker en betrokken partij met wie het verschil in inzicht over de zaak bestaat, openbaar gemaakt, in ieder geval door opname op een website.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De commissie draagt zorg voor de nodige technische en organisatorische voorzieningen ter beveiliging van de gegevens tegen verlies of aantasting en tegen onbevoegde kennisneming, wijziging en verstrekking van die gegevens.
 
 2. De commissie draagt zorg voor de goede archivering van de verzoeken, de adviezen en de overige documenten.
 
-#### Artikel 10
+##### Artikel 10
 
 De commissie rapporteert jaarlijks op basis van de adviezen en ervaringen met de praktijk aan de minister over de toepassing van de voorschriften gesteld bij of krachtens de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) aangaande het bouwen, gebruiken en slopen van bouwwerken, de staat van bouwwerken en het uitvoeren van bouw- en sloopwerkzaamheden en de toepassing van de regels over bouwactiviteiten, sloopactiviteiten en het gebruik en het in stand houden van bouwwerken gesteld bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885).
 
-#### Artikel 11
+##### Artikel 11
 
 Een ieder die is betrokken bij de uitvoering van de werkzaamheden van de commissie en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding van die gegevens, behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn taak bij de uitvoering van de taken in dit besluit noodzaak tot mededeling voortvloeit.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Er is één voorzitter. De voorzitter ontvangt een vaste vergoeding overeenkomend met het maximumsalaris van schaal 18, vermeld in paragraaf 6.3 van de CAO Rijk, waarbij de arbeidsduurfactor wordt vastgesteld op 4,6/36;
 
@@ -132,12 +158,12 @@ Een ieder die is betrokken bij de uitvoering van de werkzaamheden van de commiss
 
 4. De secretaris ontvangt een vaste vergoeding overeenkomend met het maximumsalaris van schaal 16, vermeld in paragraaf 6.3 van de CAO Rijk, waarbij de arbeidsduur wordt vastgesteld op 10/36 uur per week.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het [Besluit instelling onafhankelijke adviescommissie en raad voor praktijktoepassing brandveiligheidsvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0026383) wordt ingetrokken.
 
 2. Dit besluit treedt in werking met ingang van de dag na plaatsing in de Staatscourant en werkt terug tot en met 1 juli 2015.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit besluit wordt aangehaald als: Besluit Adviescommissie toepassing en gelijkwaardigheid bouwvoorschriften.

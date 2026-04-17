@@ -1,20 +1,46 @@
 ---
-title: "Regeling nadere regels goede afwikkeling Wet op de toegang tot ziektekostenverzekeringen 1998 (uitvoering wachtgeldregeling personeel Stichting Uitvoering Omslagregelingen)"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 september 2010, nr. Z/M-3020417, houdende nadere regels omtrent een goede afwikkeling van de Wet op de toegang tot ziektekostenverzekeringen 1998 met betrekking tot de uitvoering van de wachtgeldregeling van het personeel van de Stichting Uitvoering Omslagregelingen"
 identifier: "BWBR0028277"
-categorie: "Financieel recht"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028277"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028277"
+soort: "ministeriele-regeling"
+stam_id: "10734703"
+version_id: "17707612"
+internal_id: "C24474031"
+label_id: "10709324"
+dtd_version: "2.0"
+original_entry_into_force: "2010-09-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028277/2020-01-01/0"
+intitule_bron: "Stcrt.2010-14321"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-07"
+intitule_published: "2010-09-17"
+intitule_in_force: "2010-09-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-14321"
+original_signed_date: "2010-09-07"
+original_published_date: "2010-09-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-14321"
+entry_into_force_date: "2010-09-18"
+jci_1_3: "jci1.3:c:BWBR0028277&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0028277&g=2020-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Regeling nadere regels goede afwikkeling Wet op de toegang tot ziektekostenverzekeringen 1998 (uitvoering wachtgeldregeling personeel Stichting Uitvoering Omslagregelingen)"
+signed_date: "2010-09-07"
+entry_into_force: "2010-09-18"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 september 2010, nr. Z/M-3020417, houdende nadere regels omtrent een goede afwikkeling van de Wet op de toegang tot ziektekostenverzekeringen 1998 met betrekking tot de uitvoering van de wachtgeldregeling van het personeel van de Stichting Uitvoering Omslagregelingen
 
 Gelet op [artikel 2.2.2, zevende lid van de Invoerings- en aanpassingswet Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&artikel=2.2.2);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - c. **Minister:** de Minister van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het bestuur van de Stichting Uitvoering Omslagregelingen bestaat uit ten hoogste drie leden, onder wie de voorzitter.
 
@@ -36,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 5. Het lidmaatschap van het bestuur eindigt tussentijds door overlijden, ontslag op eigen verzoek of ontslag om zwaarwichtige redenen door de Minister.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan de bestuursleden van de Stichting Uitvoering Omslagregelingen wordt per vergadering van het bestuur een vergoeding toegekend, alsmede een vergoeding van reis- en verblijfkosten.
 
@@ -44,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 3. De in het eerste lid genoemde personen ontvangen een vergoeding van reis en verblijfkosten overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Stichting Uitvoering Omslagregelingen stelt jaarlijks een begroting vast van:
 
@@ -62,7 +88,7 @@ In deze regeling wordt verstaan onder:
 
 6. De Stichting Uitvoering Omslagregelingen informeert de Minister onverwijld over een dreigende overschrijding van de begroting.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Stichting Uitvoering Omslagregelingen zendt jaarlijks voor 1 juli een jaarverslag van de uitvoering van de wachtgeldregeling in het afgelopen kalenderjaar aan de Minister.
 
@@ -100,13 +126,13 @@ In deze regeling wordt verstaan onder:
 
 9. Het jaarverslag behoeft de goedkeuring van de Minister.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De kosten van de Stichting Uitvoering Omslagregelingen, waaronder zijn begrepen de kosten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028277&artikel=3&z=2020-01-01&g=2020-01-01), [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028277&artikel=4&z=2020-01-01&g=2020-01-01) en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028277&artikel=5&z=2020-01-01&g=2020-01-01), worden ten laste gebracht van de financiële voorziening voor de (uitvoering van de) wachtgeldregeling.
 
 2. De rentebaten over de financiële voorziening voor de wachtgeldregeling en de uitvoering ervan worden tot deze voorziening gerekend.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 september 2010.
 

@@ -1,20 +1,45 @@
 ---
 title: "Archiefbeheersregeling Kamer van Koophandel 2024"
 identifier: "BWBR0050410"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2024-11-15
-laatste_update: 2024-11-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050410"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-11-15"
+last_updated: "2024-11-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050410"
+soort: "zbo"
+stam_id: "17269103"
+version_id: "30415452"
+internal_id: "C43618831"
+label_id: "17174434"
+dtd_version: "2.0"
+original_entry_into_force: "2024-11-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050410/2024-11-15/0"
+intitule_bron: "Stcrt.2024-36949"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-08-14"
+intitule_published: "2024-11-14"
+intitule_in_force: "2024-11-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-36949"
+original_signed_date: "2024-08-14"
+original_published_date: "2024-11-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-36949"
+entry_into_force_date: "2024-11-15"
+jci_1_3: "jci1.3:c:BWBR0050410&z=2024-11-15&g=2024-11-15"
+jci_1_0: "1.0:c:BWBR0050410&g=2024-11-15"
+citeertitel_status: "officieel"
+signed_date: "2024-08-14"
+entry_into_force: "2024-11-15"
 ---
-
 # Archiefbeheersregeling Kamer van Koophandel 2024
 
 Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14),
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -52,11 +77,11 @@ In deze regeling wordt verstaan onder:
 
 - **zorgdrager:** degene die bij of krachtens de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) belast is met de zorg voor archiefbescheiden van de KVK.
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 De Archiefbeheersregeling is van toepassing op het beheer van alle archiefbescheiden van KVK. De zorg van KVK eindigt door overbrenging, vervreemding of vernietiging van de archiefbescheiden van KVK.
 
-#### Artikel 3. Verantwoordelijkheden
+##### Artikel 3. Verantwoordelijkheden
 
 1. **De Raad van Bestuur**
 
@@ -110,7 +135,7 @@ De Archiefbeheersregeling is van toepassing op het beheer van alle archiefbesche
 
 - b. de medewerker in het proces is verantwoordelijk voor de (inhoudelijke) juistheid informatie- en archiefbestanden.
 
-#### Artikel 4. Overgangs- en slotbepalingen
+##### Artikel 4. Overgangs- en slotbepalingen
 
 1. **Intrekking**
 

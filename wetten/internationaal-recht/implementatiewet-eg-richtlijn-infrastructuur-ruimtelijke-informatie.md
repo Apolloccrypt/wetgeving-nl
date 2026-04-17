@@ -1,14 +1,41 @@
 ---
-title: "Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie"
+title: "Wet van 2 juli 2009 tot implementatie van richtlijn nr. 2007/2/EG van het Europees Parlement en de Raad van de Europese Unie van 14 maart 2007 tot oprichting van een infrastructuur voor ruimtelijke informatie in de Gemeenschap (Inspire) (Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie)"
 identifier: "BWBR0026158"
-categorie: "Internationaal recht"
-publicatiedatum: 2025-02-12
-laatste_update: 2025-02-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026158"
+country: "nl"
+rank: "wet"
+publication_date: "2025-02-12"
+last_updated: "2025-02-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026158"
+soort: "wet"
+stam_id: "10137503"
+version_id: "16574332"
+internal_id: "C22882031"
+label_id: "10113754"
+dtd_version: "2.0"
+original_entry_into_force: "2009-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026158/2025-02-12/0"
+intitule_bron: "Stb.2009-310"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-07-02"
+intitule_published: "2009-07-27"
+intitule_in_force: "2009-08-25"
+intitule_status: "goed"
+original_publication: "Stb.2009-310"
+original_signed_date: "2009-07-02"
+original_published_date: "2009-07-27"
+original_effect: "nieuwe-regeling"
+original_dossier: "31771"
+original_url_id: "stb-2009-310"
+entry_into_force_date: "2009-09-01"
+jci_1_3: "jci1.3:c:BWBR0026158&z=2025-02-12&g=2025-02-12"
+jci_1_0: "1.0:c:BWBR0026158&g=2025-02-12"
+citeertitel_status: "officieel"
+short_title: "Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie"
+signed_date: "2009-07-02"
+entry_into_force: "2009-09-01"
 ---
-
-# Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie
+# Wet van 2 juli 2009 tot implementatie van richtlijn nr. 2007/2/EG van het Europees Parlement en de Raad van de Europese Unie van 14 maart 2007 tot oprichting van een infrastructuur voor ruimtelijke informatie in de Gemeenschap (Inspire) (Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -42,7 +69,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. In deze wet en de daarop berustende bepalingen wordt onder bestuursorgaan mede verstaan een onder verantwoordelijkheid van een bestuursorgaan werkzame instelling, dienst of bedrijf.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze wet is van toepassing op een verzameling ruimtelijke gegevens die:
 
@@ -62,17 +89,17 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Deze wet is tevens van toepassing op diensten met betrekking tot ruimtelijke gegevens die onderdeel zijn van een verzameling ruimtelijke gegevens als bedoeld in het eerste lid.
 
-#### Artikel 3
+##### Artikel 3
 
 In afwijking van [artikel 2, eerste lid, aanhef en onderdeel c, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=1&artikel=2&z=2025-02-12&g=2025-02-12), is deze wet op een verzameling ruimtelijke gegevens die wordt bewaard door of namens een orgaan van een gemeente of een waterschap uitsluitend van toepassing, indien deze gegevens worden verzameld dan wel verspreid op grond van een bij of krachtens een wet gegeven regel.
 
-#### Artikel 4
+##### Artikel 4
 
 In afwijking van [artikel 2, eerste lid, aanhef en onderdeel c, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=1&artikel=2&z=2025-02-12&g=2025-02-12), is ingeval door of namens een bestuursorgaan een verzameling ruimtelijke gegevens wordt bewaard ten aanzien waarvan een derde partij intellectuele eigendomsrechten heeft, deze wet op die verzameling ruimtelijke gegevens uitsluitend van toepassing voor zover die derde partij daarmee heeft ingestemd.
 
 #### § 2. Verplichtingen bestuursorganen
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een bestuursorgaan door of namens welke een verzameling ruimtelijke gegevens wordt bewaard stelt hiervoor en voor de diensten met betrekking tot ruimtelijke gegevens metagegevens op en werkt die bij.
 
@@ -80,7 +107,7 @@ In afwijking van [artikel 2, eerste lid, aanhef en onderdeel c, onder 1°](https
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent het opstellen en bijwerken van metagegevens.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een bestuursorgaan door of namens welke een verzameling ruimtelijke gegevens wordt bewaard, koppelt aan het netwerk:
 
@@ -94,7 +121,7 @@ In afwijking van [artikel 2, eerste lid, aanhef en onderdeel c, onder 1°](https
 
 #### § 3. Derde partijen
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onze Minister verleent op verzoek van een derde partij instemming om een door of namens die derde partij bewaarde verzameling ruimtelijke gegevens, de diensten met betrekking tot ruimtelijke gegevens en de op die verzameling en diensten betrekking hebbende metagegevens te koppelen aan het netwerk.
 
@@ -112,7 +139,7 @@ In afwijking van [artikel 2, eerste lid, aanhef en onderdeel c, onder 1°](https
 
 #### § 4. Toegang tot verzamelingen ruimtelijke gegevens en diensten met betrekking tot ruimtelijke gegevens
 
-#### Artikel 8
+##### Artikel 8
 
 Tot de aan het netwerk gekoppelde verzamelingen ruimtelijke gegevens en diensten met betrekking tot ruimtelijke gegevens wordt toegang verleend via:
 
@@ -120,7 +147,7 @@ Tot de aan het netwerk gekoppelde verzamelingen ruimtelijke gegevens en diensten
 
 - b. een nationaal toegangspunt.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Ten aanzien van de aan het netwerk gekoppelde verzamelingen ruimtelijke gegevens en diensten met betrekking tot ruimtelijke gegevens kan een ieder gebruik maken van de diensten, bedoeld in artikel 11, eerste lid, van de EG-richtlijn infrastructuur ruimtelijke informatie. Deze diensten betreffen:
 
@@ -136,7 +163,7 @@ Tot de aan het netwerk gekoppelde verzamelingen ruimtelijke gegevens en diensten
 
 2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de diensten, bedoeld in het eerste lid. Deze regels hebben ten minste betrekking op zoekcriteria voor de in het eerste lid, onderdeel a, bedoelde diensten.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent het uitwisselen van verzamelingen ruimtelijke gegevens en diensten met betrekking tot ruimtelijke gegevens die van invloed kunnen zijn op het milieu, tussen Nederlandse bestuursorganen via de diensten, bedoeld in [artikel 9, eerste lid, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=9&z=2025-02-12&g=2025-02-12). Deze regels hebben ten minste betrekking op het voorkomen van praktische belemmeringen op de plaats van gebruik bij het uitwisselen van verzamelingen en diensten.
 
@@ -146,11 +173,11 @@ Tot de aan het netwerk gekoppelde verzamelingen ruimtelijke gegevens en diensten
 
 4. Het uitwisselen van de verzamelingen ruimtelijke gegevens en diensten, als bedoeld in het tweede lid, met het oog op het gebruik van die verzamelingen en diensten voor publieke taken die van invloed kunnen zijn op het milieu, kan uitsluitend worden beperkt met overeenkomstige toepassing van [artikel 5.1, eerste lid, onderdeel b, en tweede lid, onderdelen a, c en h, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1).
 
-#### Artikel 11
+##### Artikel 11
 
 In afwijking van het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=9&z=2025-02-12&g=2025-02-12) kan de publieke toegang tot verzamelingen ruimtelijke gegevens en diensten met betrekking tot ruimtelijke gegevens via de diensten, bedoeld in het eerste lid van [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=9&z=2025-02-12&g=2025-02-12), en diensten, die de elektronische handel in die diensten mogelijk maken, worden beperkt met overeenkomstige toepassing van [artikel 5.1, eerste, tweede en vijfde lid, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1), met dien verstande dat op de diensten bedoeld in het [eerste lid, onderdeel a, van artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=9&z=2025-02-12&g=2025-02-12), uitsluitend de gronden, bedoeld in [artikel 5.1, eerste lid, onderdeel b, en tweede lid, onderdelen a en h, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) van overeenkomstige toepassing zijn.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het gebruik van de diensten, bedoeld in [artikel 9, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=9&z=2025-02-12&g=2025-02-12), is voor een ieder kosteloos. Voor de overige in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=9&z=2025-02-12&g=2025-02-12), bedoelde diensten kunnen vergoedingen in rekening worden gebracht.
 
@@ -160,7 +187,7 @@ In afwijking van het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c
 
 4. Bij of krachtens algemene maatregel van bestuur kunnen omtrent de uitvoering van het eerste tot en met het derde lid nadere regels worden gesteld. Deze regels kunnen tevens betrekking hebben op een tariefsystematiek.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Indien een bestuursorgaan voor het uitwisselen van gegevens, bedoeld in [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=10&z=2025-02-12&g=2025-02-12), vergoedingen in rekening brengt, gelden dezelfde vergoedingen voor Nederlandse bestuursorganen, bestuursorganen van andere lidstaten, instellingen en organen van de Europese Gemeenschappen, en organen die zijn opgericht bij internationale overeenkomsten waarbij de Gemeenschap en de lidstaten partij zijn als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026158&paragraaf=4&artikel=10&z=2025-02-12&g=2025-02-12), en blijven deze vergoedingen beperkt tot het bedrag dat ten minste nodig is om de noodzakelijke kwaliteit en beschikbaarheid van de gegevens te garanderen, vermeerderd met een redelijk rendement op de investering en met inachtneming van, voor zover van toepassing, vereisten inzake zelffinanciering van het desbetreffende bestuursorgaan.
 
@@ -170,11 +197,11 @@ In afwijking van het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c
 
 #### § 5. Coördinatie en uitvoering
 
-#### Artikel 14
+##### Artikel 14
 
 Als nationaal contactpunt, als bedoeld in artikel 19, tweede lid, van de EG-richtlijn infrastructuur ruimtelijke informatie, wordt Onze Minister aangewezen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Onze Minister draagt aan een of meerdere door hem aan te wijzen instanties op:
 
@@ -186,11 +213,11 @@ Als nationaal contactpunt, als bedoeld in artikel 19, tweede lid, van de EG-rich
 
 #### § 6. Slotbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze wet wordt aangehaald als: Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie.
 

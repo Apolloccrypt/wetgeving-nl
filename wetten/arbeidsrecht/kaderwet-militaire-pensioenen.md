@@ -1,14 +1,42 @@
 ---
-title: "Kaderwet militaire pensioenen"
+title: "Wet van 13 december 2000 tot vaststelling van een kader voor de vereenvoudiging en de vernieuwing van het militaire pensioenstelsel (Kaderwet militaire pensioenen)"
 identifier: "BWBR0011955"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011955"
+country: "nl"
+rank: "wet"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011955"
+soort: "wet"
+stam_id: "1516753"
+version_id: "2259102"
+internal_id: "C2259101"
+label_id: "1473194"
+dtd_version: "2.0"
+original_entry_into_force: "2001-01-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011955/2020-01-01/0"
+intitule_bron: "Stb.2001-37"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-12-13"
+intitule_published: "2001-01-30"
+intitule_in_force: "2001-01-30"
+intitule_status: "goed"
+original_publication: "Stb.2001-37"
+original_signed_date: "2000-12-13"
+original_published_date: "2001-01-30"
+original_effect: "nieuwe-regeling"
+original_dossier: "26686"
+original_url_id: "stb-2001-37"
+entry_into_force_date: "2001-01-31"
+entry_into_force_dossier: "26686"
+jci_1_3: "jci1.3:c:BWBR0011955&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0011955&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Kaderwet militaire pensioenen"
+signed_date: "2000-12-13"
+entry_into_force: "2001-01-31"
 ---
-
-# Kaderwet militaire pensioenen
+# Wet van 13 december 2000 tot vaststelling van een kader voor de vereenvoudiging en de vernieuwing van het militaire pensioenstelsel (Kaderwet militaire pensioenen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +44,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is het militaire pensio
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -34,7 +62,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - g. pensioenreglement: pensioenreglement van het fonds.
 
-#### Artikel 2. Het stelsel
+##### Artikel 2. Het stelsel
 
 1. De aanspraken op ouderdoms- en nabestaandenpensioen en de daarmee samenhangende verplichtingen van de beroepsmilitair, de gewezen beroepsmilitair en hun nagelaten betrekkingen worden, met inachtneming van de bij of op grond van deze wet vastgestelde afwijkingen en aanvullingen, neergelegd in de overeenkomst naar burgerlijk recht, bedoeld in [artikel 4, eerste lid, van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=4).
 
@@ -48,7 +76,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 6. De noodzakelijke nadere regels ter uitvoering van de in het vijfde lid bedoelde algemene maatregelen van bestuur worden vastgesteld door Onze Minister.
 
-#### Artikel 3. Lopende pensioenen en uitzichten
+##### Artikel 3. Lopende pensioenen en uitzichten
 
 1. De wetten en regelingen waaraan de militairen en hun nagelaten betrekkingen op de datum van inwerkingtreding van deze wet een aanspraak op pensioen kunnen ontlenen, worden met ingang van een bij koninklijk besluit te bepalen datum, die voor de verschillende wetten of regelingen of groepen van rechthebbenden binnen die wetten of regelingen een andere kan zijn en niet kan liggen voor de datum waarop in de vervangende aanspraken is voorzien, buiten werking gesteld of ingetrokken.
 
@@ -60,7 +88,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Van de in het derde lid bedoelde omzettingen ontvangt de belanghebbende zo spoedig mogelijk een overzicht van Onze Minister. Dat overzicht geeft een beeld van de oude en de nieuwe pensioensituatie op het omzettingsmoment of, voor zover van toepassing, op de in het vierde lid bedoelde peildatum.
 
-#### Artikel 4. Financiering/uitvoering
+##### Artikel 4. Financiering/uitvoering
 
 1. De aan de uitvoering van deze wet verbonden kosten komen ten laste van Hoofdstuk X van de Rijksbegroting, wat de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=2&z=2020-01-01&g=2020-01-01),bedoelde pensioenaanspraken betreft, voor zoveel mogelijk in de vorm van een premie, nodig voor de instandhouding van een kapitaaldekkingsstelsel, en voor het overige als rechtstreekse begrotingslast.
 
@@ -74,11 +102,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Met het oog op het aanvullende of aanverwante karakter daarvan is Onze Minister bevoegd ook de uitvoering van het niet door het tweede lid bestreken deel van de militaire pensioenvoorzieningen in zijn geheel of in delen buiten het ministerie van Defensie onder te brengen. Met het betreffende uitvoeringsorgaan sluit Onze Minister alsdan een overeenkomst naar burgerlijk recht, ten minste inhoudende de wijze waarop en de voorwaarden waaronder de bedoelde aanvullende pensioenlasten en daarmee samenhangende extra uitvoeringskosten bij hem kunnen worden gedeclareerd.
 
-#### Artikel 5. Eigen bijdrage
+##### Artikel 5. Eigen bijdrage
 
 De eigen bijdrage van de beroepsmilitair aan de op deze wet steunende pensioenvoorzieningen wordt, voor zover de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=2&z=2020-01-01&g=2020-01-01), bedoelde overeenkomst daarin niet voorziet, vastgesteld bij algemene maatregel van bestuur.
 
-#### Artikel 6. Pensioenwet
+##### Artikel 6. Pensioenwet
 
 1. De [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809) is van toepassing op de nadere overeenkomst, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=2&z=2020-01-01&g=2020-01-01).
 
@@ -88,7 +116,7 @@ De eigen bijdrage van de beroepsmilitair aan de op deze wet steunende pensioenvo
 
 - b. de nagelaten betrekkingen van de militair, die zijn afgeleid van de aanspraak dan wel het recht op ouderdomspensioen voor zover dat is opgebouwd tot aan de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=3&z=2020-01-01&g=2020-01-01), bedoelde datum.
 
-#### Artikel 7. Intrekking bestaande wetgeving
+##### Artikel 7. Intrekking bestaande wetgeving
 
 1. Overeenkomstig het bepaalde in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=3&z=2020-01-01&g=2020-01-01), zullen, zo nodig na een voorafgaande groepsgewijze buiten werking stelling als daar bedoeld, worden ingetrokken:
 
@@ -116,15 +144,15 @@ De eigen bijdrage van de beroepsmilitair aan de op deze wet steunende pensioenvo
 
 2. De [artikelen 2, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=2), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=9), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=16) en [28 tot en met 31 van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=28) vervallen met dien verstande, dat voor het buiten werking stellen of intrekken van het op [artikel 28 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=28) steunende Nabestaandenreglement militairen en het op artikel 31 daarvan steunende Besluit bijzondere voorzieningen militair nabestaandenpensioen dezelfde procedure zal gelden als voor de in het eerste lid genoemde wetten.
 
-#### Artikel 8. Nadere pensioenovereenkomst
+##### Artikel 8. Nadere pensioenovereenkomst
 
 Onze Minister is bevoegd om, in overeenstemming met de meerderheid van de Centrales van Overheidspersoneel die in het Sectoroverleg Defensie vertegenwoordigd zijn, ter uitwerking van hetgeen in deze wet wordt bepaald een nadere pensioenovereenkomst te sluiten met de Pensioenkamer van de Raad voor het Overheidspersoneelsbeleid.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze wet wordt aangehaald als: Kaderwet militaire pensioenen.
 

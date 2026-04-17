@@ -1,28 +1,54 @@
 ---
-title: "Warenwetregeling aanwijzing algemene veiligheidsnormen"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 21 mei 2007, nr. VGP/PSL 2769921, houdende aanwijzing van Europese normen die voldoen aan het algemeen veiligheidsvereiste van richtlijn 2001/95/EG (Warenwetregeling aanwijzing algemene veiligheidsnormen)"
 identifier: "BWBR0021921"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-03-13
-laatste_update: 2026-03-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0021921"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-13"
+last_updated: "2026-03-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0021921"
+soort: "ministeriele-regeling"
+stam_id: "9087763"
+version_id: "14508862"
+internal_id: "C19730571"
+label_id: "9066654"
+dtd_version: "2.0"
+original_entry_into_force: "2007-05-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0021921/2026-03-13/0"
+intitule_bron: "Stcrt.2007-99"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-05-21"
+intitule_published: "2007-05-25"
+intitule_in_force: "2007-05-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-99"
+original_signed_date: "2007-05-21"
+original_published_date: "2007-05-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-99-p19-SC80601"
+entry_into_force_date: "2007-05-27"
+jci_1_3: "jci1.3:c:BWBR0021921&z=2026-03-13&g=2026-03-13"
+jci_1_0: "1.0:c:BWBR0021921&g=2026-03-13"
+citeertitel_status: "officieel"
+short_title: "Warenwetregeling aanwijzing algemene veiligheidsnormen"
+signed_date: "2007-05-21"
+entry_into_force: "2007-05-27"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 21 mei 2007, nr. VGP/PSL 2769921, houdende aanwijzing van Europese normen die voldoen aan het algemeen veiligheidsvereiste van richtlijn 2001/95/EG (Warenwetregeling aanwijzing algemene veiligheidsnormen)
 
 Gelet op de beschikkingen van de Europese Commissie van 13 oktober 2005 en 20 juli 2006 betreffende de overeenstemming van bepaalde normen met het algemene veiligheidsvereiste van [Richtlijn 2001/95/EG](32001L0095) van het Europees Parlement en de Raad en de bekendmaking van de referenties ervan in het Publicatieblad (Pb EG 2005 L 271 en Pb EG 2006 L 200), de mededeling van de Europese Commissie in het kader van de uitvoering van [Richtlijn 2001/95/EG](32001L0095) van het Europees Parlement en de Raad inzake algemene productveiligheid (Pb EG 2006 C 171) en [artikel 18a, tweede lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=18a);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Als normen bedoeld in [artikel 18a, eerste lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=18a), worden aangewezen de normen vermeld in de bijlage van deze regeling.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling kan worden aangehaald als: Warenwetregeling aanwijzing algemene veiligheidsnormen.
 

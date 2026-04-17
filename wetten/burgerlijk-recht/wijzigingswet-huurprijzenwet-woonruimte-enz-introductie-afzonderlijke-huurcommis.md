@@ -1,14 +1,41 @@
 ---
-title: "Wijzigingswet Huurprijzenwet woonruimte enz. (introductie afzonderlijke huurcommissie-procedure, wijziging regeling m.b.t. aan de Staat verschuldigde vergoeding voor advies of uitspraak door huurcommissie en wijziging toezicht op de huurcommissies)"
+title: "Wet van 17 mei 1999 tot wijziging van de Huurprijzenwet woonruimte, de Wet op de huurcommissies en enkele andere wetten (introductie van een afzonderlijke huurcommissie-procedure ter bevordering van het opheffen van gebreken aan of tekortkomingen ten aanzien van de woonruimte, wijziging van de regeling met betrekking tot de aan de Staat verschuldigde vergoeding voor een advies of een uitspraak door de huurcommissie en wijziging van het toezicht op de huurcommissies)"
 identifier: "BWBR0010464"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1999-11-30
-laatste_update: 1999-11-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010464"
+country: "nl"
+rank: "wet"
+publication_date: "1999-11-30"
+last_updated: "1999-11-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010464"
+soort: "wet"
+stam_id: "1100853"
+version_id: "1620102"
+internal_id: "C1620101"
+label_id: "1067234"
+dtd_version: "2.0"
+original_entry_into_force: "1999-11-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010464/1999-11-30/0"
+intitule_bron: "Stb.1999-233"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-05-17"
+intitule_published: "1999-06-17"
+intitule_in_force: "1999-10-26"
+intitule_status: "goed"
+original_publication: "Stb.1999-233"
+original_signed_date: "1999-05-17"
+original_published_date: "1999-06-17"
+original_effect: "nieuwe-regeling"
+original_dossier: "25445"
+original_url_id: "stb-1999-233"
+entry_into_force_date: "1999-11-30"
+jci_1_3: "jci1.3:c:BWBR0010464&z=1999-11-30&g=1999-11-30"
+jci_1_0: "1.0:c:BWBR0010464&g=1999-11-30"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Huurprijzenwet woonruimte enz. (introductie afzonderlijke huurcommissie-procedure, wijziging regeling m.b.t. aan de Staat verschuldigde vergoeding voor advies of uitspraak door huurcommissie en wijziging toezicht op de huurcommissies)"
+signed_date: "1999-05-17"
+entry_into_force: "1999-11-30"
 ---
-
-# Wijzigingswet Huurprijzenwet woonruimte enz. (introductie afzonderlijke huurcommissie-procedure, wijziging regeling m.b.t. aan de Staat verschuldigde vergoeding voor advies of uitspraak door huurcommissie en wijziging toezicht op de huurcommissies)
+# Wet van 17 mei 1999 tot wijziging van de Huurprijzenwet woonruimte, de Wet op de huurcommissies en enkele andere wetten (introductie van een afzonderlijke huurcommissie-procedure ter bevordering van het opheffen van gebreken aan of tekortkomingen ten aanzien van de woonruimte, wijziging van de regeling met betrekking tot de aan de Staat verschuldigde vergoeding voor een advies of een uitspraak door de huurcommissie en wijziging van het toezicht op de huurcommissies)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,23 +43,23 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Huurprijzenwet w
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Huurprijzenwet woonruimte.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op de huurcommissies.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Huisvestingswet.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Huursubsidiewet.
 
-#### Artikel V
+##### Artikel V
 
 1. Na de inwerkingtreding van deze wet berust:
 
@@ -48,11 +75,11 @@ Wijzigt de Huursubsidiewet.
 
 5. Een voor het tijdstip van inwerkingtreding van deze wet gedane aanzegging door de huurder van woonruimte aan de verhuurder van die woonruimte, waarin gebreken of tekortkomingen ten aanzien van de woonruimte zijn gesteld, wordt voor de toepassing van [artikel 18, eerste lid, van de Huurprijzenwet woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003221&artikel=18) aangemerkt als een aanzegging, gedaan op het tijdstip van inwerkingtreding van deze wet.
 
-#### Artikel VI
+##### Artikel VI
 
 De tekst van de [Huurprijzenwet woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003221) en de tekst van de [Wet op de huurcommissies](https://wetten.overheid.nl/jci1.3:c:BWBR0003222) worden in het Staatsblad geplaatst. Voor de plaatsing in het Staatsblad worden deze teksten door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer overgebracht in de geldende spelling.
 
-#### Artikel VII
+##### Artikel VII
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

@@ -1,13 +1,37 @@
 ---
-title: "Mandaatbesluit Joint Implementation"
+title: "Mandaatbesluit Senter Joint Implementation"
 identifier: "BWBR0008795"
-categorie: "Bestuursrecht"
-publicatiedatum: 1997-09-01
-laatste_update: 1997-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008795"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1997-09-01"
+last_updated: "1997-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008795"
+soort: "ministeriele-regeling"
+stam_id: "3545553"
+version_id: "5328632"
+internal_id: "C5521721"
+label_id: "3525504"
+original_entry_into_force: "1997-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008795/1997-09-01/0"
+intitule_bron: "Stcrt.1997-137"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-07-03"
+intitule_published: "1997-07-22"
+intitule_in_force: "1997-07-22"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-137"
+original_signed_date: "1997-07-03"
+original_published_date: "1997-07-22"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1997-09-01"
+jci_1_3: "jci1.3:c:BWBR0008795&z=1997-09-01&g=1997-09-01"
+jci_1_0: "1.0:c:BWBR0008795&g=1997-09-01"
+citeertitel_status: "officieel"
+short_title: "Mandaatbesluit Joint Implementation"
+signed_date: "1997-07-03"
+entry_into_force: "1997-09-01"
 ---
-
 # Mandaatbesluit Senter Joint Implementation
 
 verleent hierbij de projectleider van het Joint Implementation Registratie Centrum, met recht van substitutie, mandaat om namens hem:

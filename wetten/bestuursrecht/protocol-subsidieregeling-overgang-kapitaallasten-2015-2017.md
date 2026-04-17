@@ -1,13 +1,35 @@
 ---
 title: "Protocol Subsidieregeling overgang kapitaallasten 2015-2017"
 identifier: "BWBR0037670"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-03-02
-laatste_update: 2016-03-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037670"
+country: "nl"
+rank: "zbo"
+publication_date: "2016-03-02"
+last_updated: "2016-03-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037670"
+soort: "zbo"
+stam_id: "13429013"
+version_id: "23047042"
+internal_id: "C33310731"
+label_id: "13396534"
+dtd_version: "2.0"
+original_entry_into_force: "2016-03-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037670/2016-03-02/0"
+intitule_bron: "Stcrt.2016-10710"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2016-03-02"
+intitule_in_force: "2016-03-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-10710"
+original_published_date: "2016-03-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-10710"
+entry_into_force_date: "2016-03-02"
+jci_1_3: "jci1.3:c:BWBR0037670&z=2016-03-02&g=2016-03-02"
+jci_1_0: "1.0:c:BWBR0037670&g=2016-03-02"
+citeertitel_status: "redactioneel"
+entry_into_force: "2016-03-02"
 ---
-
 # Protocol Subsidieregeling overgang kapitaallasten 2015-2017
 
 ### Subsidie- en verantwoordingsjaren 2015, 2016 en 2017

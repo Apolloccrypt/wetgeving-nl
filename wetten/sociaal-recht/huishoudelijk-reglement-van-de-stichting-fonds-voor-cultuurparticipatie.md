@@ -1,16 +1,41 @@
 ---
 title: "Huishoudelijk reglement van de Stichting Fonds voor Cultuurparticipatie"
 identifier: "BWBR0026366"
-categorie: "Sociaal recht"
-publicatiedatum: 2009-05-09
-laatste_update: 2009-05-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026366"
+country: "nl"
+rank: "zbo"
+publication_date: "2009-05-09"
+last_updated: "2009-05-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026366"
+soort: "zbo"
+stam_id: "10174423"
+version_id: "16647842"
+internal_id: "C22919111"
+label_id: "10150414"
+dtd_version: "2.0"
+original_entry_into_force: "2009-05-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026366/2009-05-09/0"
+intitule_bron: "Stcrt.2009-83"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-02-05"
+intitule_published: "2009-05-07"
+intitule_in_force: "2009-05-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-83"
+original_signed_date: "2009-02-05"
+original_published_date: "2009-05-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-6685"
+entry_into_force_date: "2009-05-09"
+jci_1_3: "jci1.3:c:BWBR0026366&z=2009-05-09&g=2009-05-09"
+jci_1_0: "1.0:c:BWBR0026366&g=2009-05-09"
+citeertitel_status: "officieel"
+signed_date: "2009-02-05"
+entry_into_force: "2009-05-09"
 ---
-
 # Huishoudelijk reglement van de Stichting Fonds voor Cultuurparticipatie
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit reglement wordt verstaan onder:
 
@@ -30,7 +55,7 @@ In dit reglement wordt verstaan onder:
 
 - h). **De minister:** de minister voor Onderwijs, Cultuur en Wetenschap
 
-#### Artikel 2. Inrichting van de organisatie
+##### Artikel 2. Inrichting van de organisatie
 
 Het Fonds kent:
 
@@ -44,7 +69,7 @@ Het Fonds kent:
 
 - e). een Bezwarenadviescommissie;
 
-#### Artikel 3. Het bestuur
+##### Artikel 3. Het bestuur
 
 1. Het Fonds wordt bestuurd door het bestuur, bestaande uit een door de Raad van Toezicht vast te stellen aantal van ten minste één en ten hoogste drie natuurlijke personen, onder toezicht van de Raad van Toezicht.
 
@@ -66,7 +91,7 @@ Het Fonds kent:
 
 10. Leden van het bestuur melden hun functies en nevenfuncties aan de Raad van Toezicht.
 
-#### Artikel 4. Raad van Toezicht
+##### Artikel 4. Raad van Toezicht
 
 1. De Raad van Toezicht bestaat uit minimaal 3 en maximaal 9 leden, de voorzitter en de andere leden worden benoemd door de minister. De voorzitter benoemt een vice-voorzitter.
 
@@ -84,7 +109,7 @@ Het Fonds kent:
 
 8. Leden van de Raad van Toezicht melden hun functies en nevenfuncties aan de Raad van Toezicht en aan de minister.
 
-#### Artikel 5. Transparantie en verantwoording
+##### Artikel 5. Transparantie en verantwoording
 
 1. Het bestuur hoort periodiek de secretarissen en adviseurs en informeert de Raad van Toezicht over de verschillende subsidie-instrumenten en de verschillende onderdelen van de organisatie en verwerkt de resultaten hiervan in beleid.
 
@@ -92,7 +117,7 @@ Het Fonds kent:
 
 3. Het bestuur draagt er zorg voor dat in het kader van kwaliteitszorg voorzieningen getroffen worden waardoor personen en instellingen die met het Fonds in aanraking komen in de gelegenheid worden gesteld om voorstellen te doen ter verbetering van de werkwijzen en procedures. In het jaarverslag wordt hier melding van gemaakt.
 
-#### Artikel 6. De secretarissen
+##### Artikel 6. De secretarissen
 
 1. Secretarissen worden door het bestuur aangesteld als aanspreekpunt en gezicht voor de instellingen/gezelschappen en natuurlijke personen in hun sector. Daarnaast fungeren zij in hun rol als programmacoördinator als aanspreekpunt voor gemeenten en provincies. Zij zijn de deskundige op het gebied van amateurkunst, cultuureducatie en/of volkscultuur.
 
@@ -108,7 +133,7 @@ Het Fonds kent:
 
 4. De secretarissen melden hun functies en nevenfuncties aan het bestuur.
 
-#### Artikel 7. De adviseurs
+##### Artikel 7. De adviseurs
 
 1. Adviseurs worden extern geworven en geselecteerd door een onafhankelijke, door het bestuur ingestelde benoemingsadviescommissie. Deze commissie draagt kandidaten voor aan het bestuur, voor de functies van adviseur en voorzitter van de adviescommissies.
 
@@ -136,7 +161,7 @@ Het Fonds kent:
 
 9. Reguliere aanvragen voor instellingen en natuurlijke personen worden in beginsel voor inhoudelijke beoordeling voorgelegd aan een adviescommissie of adviseur. In het kader van een integrale afweging met het oog op de gestelde prioriteiten kan het bestuur ook direct voorzien in de afhandeling van de vragen;
 
-#### Artikel 8. Adviescommissies
+##### Artikel 8. Adviescommissies
 
 1. Per adviesronde wordt door het bestuur een adviescommissie samengesteld bestaande uit minimaal drie adviseurs, inclusief de voorzitter.
 
@@ -166,7 +191,7 @@ Het Fonds kent:
 
 8. Adviseurs zijn verplicht aan derden geen mededelingen te doen over de inhoud van de beraadslaging over de ingediende subsidieaanvragen, over de (uitkomsten van) de behandeling van de aanvragen en over de inhoud van de adviezen.
 
-#### Artikel 9. Integriteit
+##### Artikel 9. Integriteit
 
 9.1. Indien in een adviescommissievergadering kwesties aan de orde komen, waarbij een adviseur middellijk of onmiddellijk een eigen belang heeft, of kan hebben of wanneer het gaat om belangen van rechtspersonen waarbij hij als lid van het bestuur, adviseur of commissaris of functionaris is betrokken, dan woont hij de beraadslaging en besluitvorming over het desbetreffende onderwerp niet bij. Het is de plicht van de adviseur om dit onverwijld aan de secretaris mede te delen. Het is de taak van de secretaris om dit gedurende het beoordelingsproces strikt te bewaken.
 
@@ -176,7 +201,7 @@ Het Fonds kent:
 
 9.4. Adviseurs melden hun functies en nevenfuncties aan het bestuur.
 
-#### Artikel 10. Bureau
+##### Artikel 10. Bureau
 
 1. Het bestuur wordt ondersteund door een bureau dat bestaat uit een hoofd, secretarissen, stafmedewerkers en bureaumedewerkers.
 
@@ -184,7 +209,7 @@ Het Fonds kent:
 
 3. Het bureau kan, met goedkeuring van het bestuur, extern advies inwinnen indien het van oordeel is dat met betrekking tot een of meer aanvragen of criteria extra deskundigheid is vereist.
 
-#### Artikel 11. Beoordeling subsidieaanvragen van instellingen en natuurlijke personen
+##### Artikel 11. Beoordeling subsidieaanvragen van instellingen en natuurlijke personen
 
 1. De secretaris biedt subsidieaanvragen voor instellingen en natuurlijke personen zoveel mogelijk per cluster aan de adviescommissie aan.
 
@@ -210,7 +235,7 @@ Het Fonds kent:
 
 9. Een overzicht van de gehonoreerde aanvragen wordt geplaatst op de website. Het Fonds publiceert periodiek de gehonoreerde en niet gehonoreerde aanvragen.
 
-#### Artikel 12. Beoordeling subsidieaanvragen van gemeenten en provincies
+##### Artikel 12. Beoordeling subsidieaanvragen van gemeenten en provincies
 
 1. De secretaris beoordeelt de aanvragen/verklaringen van gemeenten en provincies aan de hand van de criteria uit de van toepassing zijnde subsidiereglementen.
 
@@ -218,7 +243,7 @@ Het Fonds kent:
 
 3. Er is een afstemmingsoverleg met vertegenwoordigers van gemeenten, provincies, het Ministerie van OCW en het Fonds voor Cultuurparticipatie. Dit heeft als taken: ondersteuning bij de uitvoering van de Regeling cultuurparticipatie voor provincies en gemeenten 2009–2012, begeleiding van de monitoring en evaluatie plus advisering aan de bestuurlijke partners over relevante algemene ontwikkelingen. Het overleg komt ten minste twee maal per jaar bijeen.
 
-#### Artikel 13. Bezwarenadviescommissie
+##### Artikel 13. Bezwarenadviescommissie
 
 1. Bezwaarschriften worden behandeld door een door het bestuur aan te wijzen bezwarenadviescommissie.
 
@@ -240,13 +265,13 @@ Het Fonds kent:
 
 10. Het bestuur van het Fonds neemt het besluit op een bezwaarschrift met inachtneming van het advies van de functionaris of het advies van de bezwarenadviescommissie en subcommissies.
 
-#### Artikel 14. Klachten
+##### Artikel 14. Klachten
 
 1. Klachten worden behandeld door een daartoe door het bestuur aan te wijzen functionaris en kunnen aan de bezwarenadviescommissie worden voorgelegd.
 
 2. Het bestuur zendt binnen 6 weken na ontvangst een reactie op een klacht.
 
-#### Artikel 15. Slotbepaling
+##### Artikel 15. Slotbepaling
 
 1. Dit Huishoudelijk reglement kan worden aangehaald als: Huishoudelijk reglement van de Stichting Fonds voor Cultuurparticipatie.
 

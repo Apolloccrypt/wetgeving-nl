@@ -1,14 +1,42 @@
 ---
-title: "Tariefwet 2001"
+title: "Wet van 14 december 2000 tot wijziging van enkele belastingwetten c.a. (Tariefwet 2001)"
 identifier: "BWBR0011984"
-categorie: "Belastingrecht"
-publicatiedatum: 2001-10-31
-laatste_update: 2001-10-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011984"
+country: "nl"
+rank: "wet"
+publication_date: "2001-10-31"
+last_updated: "2001-10-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011984"
+soort: "wet"
+stam_id: "1458503"
+version_id: "2185282"
+internal_id: "C2185281"
+label_id: "1417204"
+dtd_version: "2.0"
+original_entry_into_force: "2001-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011984/2001-10-31/0"
+intitule_bron: "Stb.2000-568"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-12-14"
+intitule_published: "2000-12-27"
+intitule_in_force: "2000-12-27"
+intitule_status: "goed"
+original_publication: "Stb.2000-568"
+original_signed_date: "2000-12-14"
+original_published_date: "2000-12-27"
+original_effect: "nieuwe-regeling"
+original_dossier: "27415"
+original_url_id: "stb-2000-568"
+entry_into_force_date: "2001-01-01"
+entry_into_force_dossier: "27415"
+jci_1_3: "jci1.3:c:BWBR0011984&z=2001-10-31&g=2001-10-31"
+jci_1_0: "1.0:c:BWBR0011984&g=2001-10-31"
+citeertitel_status: "officieel"
+short_title: "Tariefwet 2001"
+signed_date: "2000-12-14"
+entry_into_force: "2001-01-01"
 ---
-
-# Tariefwet 2001
+# Wet van 14 december 2000 tot wijziging van enkele belastingwetten c.a. (Tariefwet 2001)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,31 +48,31 @@ dat het met het oog op de verdere vergroening van het fiscale stelsel wenselijk 
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekering.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Coördinatiewet Sociale Verzekering.
 
-#### Artikel IVA
+##### Artikel IVA
 
 Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
-#### Artikel IVB
+##### Artikel IVB
 
 In afwijking van [**artikel 83**van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=83) wordt teruggaaf van motorrijtuigenbelasting verleend over tijdvakken die nog niet zijn aangevangen op 1 januari 2001 met betrekking tot motorrijtuigen, niet zijnde vrachtauto's. De teruggaaf bedraagt het verschil tussen de betaalde belasting en de belasting die is verschuldigd op grond van onderscheidenlijk de artikelen 23, 24, 25, 25b en 47, eerste lid, van die wet.
 
-#### Artikel V
+##### Artikel V
 
 1. De accijns voor sigaretten wordt met ingang van 1 januari 2001 zodanig verhoogd dat de totale accijns voor de meest gevraagde prijsklasse sigaretten f 6,84 per 1000 stuks hoger zal liggen dan het accijnsbedrag voor deze prijsklasse op 31 december 2000. Indien met ingang van 1 januari 2001 het aldus berekende accijnsbedrag lager is dan het bedrag dat overeenkomt met 57 percent van de kleinhandelsprijs van de meest gevraagde prijsklasse sigaretten, berekend per 1000 stuks, geldt het laatstbedoelde bedrag.
 
@@ -52,11 +80,11 @@ In afwijking van [**artikel 83**van de Wet op de motorrijtuigenbelasting 1994](h
 
 3. Bij ministeriële regeling worden met ingang van 1 januari 2001 de tarieven van de accijns, bedoeld in [artikel 35, eerste lid, onderdelen b en c, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=35) aangepast. De aanpassing geschiedt zodanig dat voor sigaretten en rooktabak van de meest gevraagde prijsklasse het specifieke gedeelte van de accijns 50% bedraagt van de som van de totale accijns en de omzetbelasting. Daarbij dient het bedrag van de totale accijns gelijk te blijven aan het bedrag van de totale accijns dat na de verhoging van de accijns verschuldigd zou zijn zonder de aanpassing. Bij de aanpassing vindt afronding plaats van het specifieke gedeelte van de accijns op een veelvoud van vijf centen en van het procentuele gedeelte van de accijns op honderdsten van een percent.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel VII
+##### Artikel VII
 
 1. Deze wet treedt in werking met ingang van 1 januari 2001.
 
@@ -66,7 +94,7 @@ Wijzigt de Wet belastingen op milieugrondslag.
 
 4. [Artikel VI, onderdelen B, C en H](https://wetten.overheid.nl/jci1.3:c:BWBR0011984&artikel=VI&z=2001-10-31&g=2001-10-31), vinden toepassing nadat [artikel 37a van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=37a) bij het begin van het kalenderjaar 2001 is toegepast, met dien verstande dat per 1 januari 2001 de aanpassing op grond van [artikel 37a van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=37a) van de in de artikelen 9, eerste en derde lid, 10, en 36i, eerste lid, onderdelen a tot en met e, en zevende lid, van die wet vermelde bedragen, geen toepassing vindt.
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. Ter zake van het bij het ingaan van 1 januari 2001 voorhanden hebben in een opslagplaats van halfzware olie, gasolie of vloeibaar gemaakt petroleumgas als bedoeld in [artikel 36b, onderdelen a, b en c, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36b), wordt regulerende energiebelasting geheven, die voor halfzware olie en gasolie per 1000 L bij een temperatuur van 15° C gelijk is aan f 104,45 respectievelijk f 105,50 en voor vloeibaar gemaakt petroleumgas per 1000 kg gelijk is aan f 124,70.
 

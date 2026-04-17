@@ -1,13 +1,39 @@
 ---
-title: "Organisatie-, mandaat- en volmachtbesluit programma-directeur-generaal Werk aan Uitvoering 2023"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 maart 2025, nr. 2025-0000025341, houdende de inrichting van het programma-directoraat-generaal Werk aan Uitvoering en doorverlening van vertegenwoordigingsbevoegdheden aan onder de programma-directeur-generaal Werk aan Uitvoering ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit programma-directeur-generaal Werk aan Uitvoering 2023)"
 identifier: "BWBR0050859"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-03-21
-laatste_update: 2025-03-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050859"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-03-21"
+last_updated: "2025-03-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050859"
+soort: "ministeriele-regeling"
+stam_id: "17385693"
+version_id: "30649882"
+internal_id: "C43940871"
+label_id: "17288904"
+dtd_version: "2.0"
+original_entry_into_force: "2025-03-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050859/2025-03-21/0"
+intitule_bron: "Stcrt.2025-9769"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-03-12"
+intitule_published: "2025-03-20"
+intitule_in_force: "2025-03-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-9769"
+original_signed_date: "2025-03-12"
+original_published_date: "2025-03-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-9769"
+entry_into_force_date: "2025-03-21"
+jci_1_3: "jci1.3:c:BWBR0050859&z=2025-03-21&g=2025-03-21"
+jci_1_0: "1.0:c:BWBR0050859&g=2025-03-21"
+citeertitel_status: "officieel"
+short_title: "Organisatie-, mandaat- en volmachtbesluit programma-directeur-generaal Werk aan Uitvoering 2023"
+signed_date: "2025-03-12"
+entry_into_force: "2025-03-21"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 maart 2025, nr. 2025-0000025341, houdende de inrichting van het programma-directoraat-generaal Werk aan Uitvoering en doorverlening van vertegenwoordigingsbevoegdheden aan onder de programma-directeur-generaal Werk aan Uitvoering ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit programma-directeur-generaal Werk aan Uitvoering 2023)
 
 Gelet op de [artikelen 8, derde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=8), en [23, eerste lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=23);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Organisatie
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onder de programma-directeur-generaal ressorteren:
 
@@ -40,7 +66,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 3. Verantwoordelijkheden
 
-#### Artikel 3
+##### Artikel 3
 
 Elk van de programmadirecteuren is verantwoordelijk voor:
 
@@ -70,7 +96,7 @@ Elk van de programmadirecteuren is verantwoordelijk voor:
 
 - m. het dynamisch archiefbeheer van de eigen programmadirectie, te weten postbehandeling, registratie, voortgang- en afdoeningsbewaking, dossierbeheer, informatievoorziening, selectie, vernietiging en overdracht aan de directie Organisatie, Bedrijfsvoering en Personeel alsmede het opstellen, vaststellen en onderhouden van het ordeningsplan van de eigen programmadirectie.
 
-#### Artikel 4
+##### Artikel 4
 
 De programmadirectie Werk aan Uitvoering is verantwoordelijk voor:
 
@@ -84,7 +110,7 @@ De programmadirectie Werk aan Uitvoering is verantwoordelijk voor:
 
 - e. het inzicht geven in de resultaten en voortgang van de opgaven en het anticiperen op maatschappelijke veranderingen die de koers van de opgaven kunnen beïnvloeden.
 
-#### Artikel 5
+##### Artikel 5
 
 De programmadirectie Vereenvoudiging Inkomensondersteuning voor Mensen is verantwoordelijk voor:
 
@@ -96,7 +122,7 @@ De programmadirectie Vereenvoudiging Inkomensondersteuning voor Mensen is verant
 
 #### § 4. Bevoegdheden programmadirecteuren
 
-#### Artikel 6
+##### Artikel 6
 
 1. Elk van de programmadirecteuren is bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van de eigen programmadirectie, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal of de programma-directeur-generaal.
 
@@ -124,7 +150,7 @@ De programmadirectie Vereenvoudiging Inkomensondersteuning voor Mensen is verant
 
 - f. overeenkomsten met betrekking tot incidentele beleidsinformatie, met uitzondering van overeenkomsten met het Centraal bureau voor de statistiek.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De programmadirecteuren kunnen hun vertegenwoordigingsbevoegdheden in een door hen te bepalen omvang doorverlenen aan onder hen ressorterende functionarissen, met dien verstande dat bevoegdheden met betrekking tot personeelsaangelegenheden slechts kunnen worden doorverleend aan rechtstreeks onder hen ressorterende functionarissen en slechts voor zover het betreft:
 
@@ -142,7 +168,7 @@ De programmadirectie Vereenvoudiging Inkomensondersteuning voor Mensen is verant
 
 #### § 5. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 17 april 2023.
 

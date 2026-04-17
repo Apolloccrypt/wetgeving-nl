@@ -1,13 +1,39 @@
 ---
-title: "Organisatie-, mandaat- en volmachtbesluit UAW 2019"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 juli 2019, nr. 2019-0000097655, houdende de inrichting van de directie Uitvoeringstaken Arbeidsvoorwaardenwetgeving, alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Uitvoeringstaken Arbeidsvoorwaardenwetgeving (Organisatie-, mandaat- en volmachtbesluit directie UAW 2019)"
 identifier: "BWBR0042450"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-02-19
-laatste_update: 2026-02-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042450"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-02-19"
+last_updated: "2026-02-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042450"
+soort: "ministeriele-regeling"
+stam_id: "15131113"
+version_id: "25946252"
+internal_id: "C36962421"
+label_id: "15079094"
+dtd_version: "2.0"
+original_entry_into_force: "2019-07-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042450/2026-02-19/0"
+intitule_bron: "Stcrt.2019-41142"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-07-15"
+intitule_published: "2019-07-24"
+intitule_in_force: "2019-07-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-41142"
+original_signed_date: "2019-07-15"
+original_published_date: "2019-07-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-41142"
+entry_into_force_date: "2019-07-26"
+jci_1_3: "jci1.3:c:BWBR0042450&z=2026-02-19&g=2026-02-19"
+jci_1_0: "1.0:c:BWBR0042450&g=2026-02-19"
+citeertitel_status: "officieel"
+short_title: "Organisatie-, mandaat- en volmachtbesluit UAW 2019"
+signed_date: "2019-07-15"
+entry_into_force: "2019-07-26"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 juli 2019, nr. 2019-0000097655, houdende de inrichting van de directie Uitvoeringstaken Arbeidsvoorwaardenwetgeving, alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Uitvoeringstaken Arbeidsvoorwaardenwetgeving (Organisatie-, mandaat- en volmachtbesluit directie UAW 2019)
 
 Gelet op de [artikelen 3, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&artikel=3), en [15 van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Werk 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&artikel=15);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Organisatie en taken
 
-#### Artikel 2
+##### Artikel 2
 
 De directie bestaat uit de volgende afdelingen:
 
@@ -36,7 +62,7 @@ De directie bestaat uit de volgende afdelingen:
 
 - c. de afdeling Collectieve Arbeidsvoorwaarden.
 
-#### Artikel 3
+##### Artikel 3
 
 Het hoofd van de afdeling Cao Onderzoek en Beleidsinformatie is verantwoordelijk voor:
 
@@ -44,11 +70,11 @@ Het hoofd van de afdeling Cao Onderzoek en Beleidsinformatie is verantwoordelijk
 
 - b. Het genereren van beleidsinformatie ten aanzien van de overige uitvoeringstaken die tot de taak van de directie behoren.
 
-#### Artikel 4
+##### Artikel 4
 
 De Teamleider Functioneel Beheer is verantwoordelijk voor alle processen van de directie, betreffende het functioneel beheer van alle directie specifieke automatisering en de daaruit voortvloeiende managementinformatievoorziening.
 
-#### Artikel 5
+##### Artikel 5
 
 Het hoofd van de afdeling Collectieve Arbeidsvoorwaarden is verantwoordelijk voor:
 
@@ -74,11 +100,11 @@ Het hoofd van de afdeling Collectieve Arbeidsvoorwaarden is verantwoordelijk voo
 
 #### § 3. Bevoegdheden
 
-#### Artikel 6
+##### Artikel 6
 
 Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door het afdelingshoofd dat is aangewezen als plaatsvervangend directeur.
 
-#### Artikel 7
+##### Artikel 7
 
 Aan de hoofden van de afdelingen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042450&paragraaf=2&artikel=2&z=2026-02-19&g=2026-02-19), wordt mandaat, volmacht en machtiging verleend met betrekking tot:
 
@@ -96,7 +122,7 @@ Aan de hoofden van de afdelingen, genoemd in [artikel 2](https://wetten.overheid
 
 - b. het afdoen van stukken met uitzondering van stukken waarvan, gelet op het belang daarvan, redelijkerwijs kan worden vermoed, dat deze door de directeur moeten worden afgedaan.
 
-#### Artikel 8
+##### Artikel 8
 
 Bij financiële uitgaven krijgen afdelingshoofden de bevoegdheid om tot een bedrag van € 75.000,– inclusief BTW te tekenen en de teamleider Functioneel Beheer tot een bedrag van € 5.000,– inclusief BTW. Dit geldt voor:
 
@@ -106,13 +132,13 @@ Bij financiële uitgaven krijgen afdelingshoofden de bevoegdheid om tot een bedr
 
 - c. personele ontwikkeling van medewerkers zoals opleidingen en begeleiding.
 
-#### Artikel 9
+##### Artikel 9
 
 Doorverlening van bevoegdheden is slechts toegestaan na voorafgaande schriftelijk toestemming van de directeur.
 
 #### § 4. Slotbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit Uitvoeringstaken Arbeidsvoorwaardenwetgeving 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025294) wordt ingetrokken.
 

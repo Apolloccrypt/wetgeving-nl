@@ -1,13 +1,39 @@
 ---
-title: "Prestatiebeschrijvingsbeschikking (DM type 2, CVR, COPD) 2010"
+title: "Prestatiebeschrijvingsbeschikking"
 identifier: "BWBR0027949"
-categorie: "Bestuursrecht"
-publicatiedatum: 2010-07-20
-laatste_update: 2010-07-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027949"
+country: "nl"
+rank: "zbo"
+publication_date: "2010-07-20"
+last_updated: "2010-07-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027949"
+soort: "zbo"
+stam_id: "10617443"
+version_id: "17537932"
+internal_id: "C24267011"
+label_id: "10592314"
+dtd_version: "2.0"
+original_entry_into_force: "2010-07-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027949/2010-07-20/0"
+intitule_bron: "Stcrt.2010-11287"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-07-08"
+intitule_published: "2010-07-20"
+intitule_in_force: "2010-07-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-11287"
+original_signed_date: "2010-07-08"
+original_published_date: "2010-07-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-11287"
+entry_into_force_date: "2010-07-20"
+jci_1_3: "jci1.3:c:BWBR0027949&z=2010-07-20&g=2010-07-20"
+jci_1_0: "1.0:c:BWBR0027949&g=2010-07-20"
+citeertitel_status: "redactioneel"
+short_title: "Prestatiebeschrijvingsbeschikking (DM type 2, CVR, COPD) 2010"
+signed_date: "2010-07-08"
+entry_into_force: "2010-07-20"
 ---
-
 # Prestatiebeschrijvingsbeschikking
 
 De Nederlandse Zorgautoriteit,

@@ -1,20 +1,45 @@
 ---
 title: "ACM Werkwijze geheimhoudingsprivilege advocaat 2024"
 identifier: "BWBR0050118"
-categorie: "Financieel recht"
-publicatiedatum: 2024-08-09
-laatste_update: 2024-08-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050118"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-08-09"
+last_updated: "2024-08-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050118"
+soort: "zbo"
+stam_id: "17199513"
+version_id: "30282742"
+internal_id: "C43448441"
+label_id: "17105904"
+dtd_version: "2.0"
+original_entry_into_force: "2024-08-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050118/2024-08-09/0"
+intitule_bron: "Stcrt.2024-26001"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-07-18"
+intitule_published: "2024-08-08"
+intitule_in_force: "2024-08-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-26001"
+original_signed_date: "2024-07-18"
+original_published_date: "2024-08-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-26001"
+entry_into_force_date: "2024-08-09"
+jci_1_3: "jci1.3:c:BWBR0050118&z=2024-08-09&g=2024-08-09"
+jci_1_0: "1.0:c:BWBR0050118&g=2024-08-09"
+citeertitel_status: "officieel"
+signed_date: "2024-07-18"
+entry_into_force: "2024-08-09"
 ---
-
 # ACM Werkwijze geheimhoudingsprivilege advocaat 2024
 
 Gelet op de [artikelen 5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16), [5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) en [5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), [artikel 12g van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=12g) en de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047095&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0047095&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0047095&artikel=4) en [5 van Besluit aanwijzing toezichthouders ACM 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0047095&artikel=5).
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -42,7 +67,7 @@ In dit besluit wordt verstaan onder:
 
 - 10. **Veiligstellen:** overzetten van gegevens door een toezichthoudend ambtenaar op een gegevensdrager van een toezichthoudend ambtenaar.
 
-#### Artikel 2. Functionaris verschoningsrecht
+##### Artikel 2. Functionaris verschoningsrecht
 
 1. De ACM-organisatie heeft één of meer functionarissen verschoningsrecht die toezien op het recht op geprivilegieerde correspondentie met een verschoningsgerechtigde/advocaat.
 
@@ -52,7 +77,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofstuk II. Het inzien, vorderen of verzoeken van gegevens
 
-#### Artikel 3. Het inzien en/of vorderen in aanwezigheid van de betrokkene
+##### Artikel 3. Het inzien en/of vorderen in aanwezigheid van de betrokkene
 
 1. De toezichthoudend ambtenaar stelt de betrokkene in de gelegenheid kenbaar te maken dat er een concreet redelijk vermoeden is dat er geprivilegieerd materiaal kan worden aangetroffen.
 
@@ -62,13 +87,13 @@ In dit besluit wordt verstaan onder:
 
 4. In het geval dat een toezichthoudend ambtenaar desondanks mogelijk geprivilegieerde gegevens aantreft in die niet als zodanig door de betrokkene zijn geclaimd, legt hij deze gegevens terzijde en legt hij deze gegevens ter beoordeling voor aan de functionaris verschoningsrecht.
 
-#### Artikel 4. Schriftelijke verzoeken of vorderingen
+##### Artikel 4. Schriftelijke verzoeken of vorderingen
 
 In het geval van een schriftelijk verzoek om gegevens op grond van de [artikelen 5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16), [5:17 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) jo [art 5:20 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) of [artikel 6b, eerste lid, Instellingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=6b) kan de betrokkene alvorens de gevorderde of verzochte gegevens aan de toezichthoudend ambtenaar te verstrekken aan de functionaris verschoningsrecht verzoeken het geprivilegieerde karakter van deze gegevens te toetsen. De procedure van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050118&hoofdstuk=III&artikel=5&z=2024-08-09&g=2024-08-09) is vervolgens van toepassing.
 
 ### Hoofdstuk III. Procedure en toetsing geclaimde geprivilegieerde gegevens
 
-#### Artikel 5
+##### Artikel 5
 
 1. De functionaris verschoningsrecht toetst het geprivilegieerde karakter van de door betrokkene als zodanig geclaimde gegevens in het licht van de door betrokkene aangedragen toelichting. De functionaris verschoningsrecht kan aan de betrokkene om een nadere toelichting vragen.
 
@@ -88,7 +113,7 @@ In het geval van een schriftelijk verzoek om gegevens op grond van de [artikelen
 
 ### Hoofdstuk IV. Overige bepalingen
 
-#### Artikel 6. Het (her)gebruik, de externe verstrekking van gegevens en het bewaren van correspondentie
+##### Artikel 6. Het (her)gebruik, de externe verstrekking van gegevens en het bewaren van correspondentie
 
 1. De gegevens waarvan de claims door de functionaris verschoningsrecht zijn gehonoreerd, worden nimmer aan de toezichthoudend ambtenaar overgedragen.
 
@@ -96,26 +121,26 @@ In het geval van een schriftelijk verzoek om gegevens op grond van de [artikelen
 
 3. De functionaris verschoningsrecht vernietigt de tussen hem en de betrokkene uitgewisselde correspondentie. De vernietiging van de tussen hem en de betrokkene uitgewisselde correspondentie loopt uiterlijk gelijk met de bewaartermijn als beschreven in [artikel 2.6 van de ACM Werkwijze onderzoek in digitale gegevens 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034802&artikel=2.6).
 
-#### Artikel 7. Ondersteuning functionaris verschoningsrecht
+##### Artikel 7. Ondersteuning functionaris verschoningsrecht
 
 Vanaf het moment dat een betrokkene heeft aangegeven welke gegevens geprivilegieerde correspondentie betreffen, worden de ondersteunende forensische IT-werkzaamheden betreffende deze gegevens uitsluitend uitgevoerd door een toezichthoudend ambtenaar die niet is betrokken en niet zal worden betrokken als toezichthoudend ambtenaar bij het betreffende onderzoek, noch bij een ander onderzoek waarvoor (een deel van) de gegevens uit het eerstbedoelde onderzoek worden gebruikt.
 
 ### Hoofdstuk V. Wijziging [ACM Werkwijze onderzoek in digitale gegevens 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034802)
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt de ACM Werkwijze voor onderzoek in digitale gegevens 2014.
 
 ### Hoofdstuk VI. Slotbepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 Het besluit [ACM Werkwijze geheimhoudingsprivilege advocaat 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034801) wordt ingetrokken.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit treedt in werking met ingang van de dag na de datum van publicatie van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit wordt aangehaald als: ACM Werkwijze geheimhoudingsprivilege advocaat 2024.

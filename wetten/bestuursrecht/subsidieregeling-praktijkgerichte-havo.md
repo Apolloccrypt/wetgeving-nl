@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling praktijkgerichte havo"
+title: "Regeling van de Minister voor Primair en Voortgezet Onderwijs van 16 mei 2023, nr. VO/38233241 houdende regels voor de subsidieverstrekking aan scholen voor deelnemen aan het doorontwikkeltraject van praktijkgerichte programma’s voor het havo en voor het deelnemen aan de pilot met de praktijkroute havo-Educatie (Subsidieregeling praktijkgerichte havo)"
 identifier: "BWBR0048176"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-11-28
-laatste_update: 2025-11-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048176"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-11-28"
+last_updated: "2025-11-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048176"
+soort: "ministeriele-regeling"
+stam_id: "16749683"
+version_id: "31111962"
+internal_id: "C44534151"
+label_id: "16665674"
+dtd_version: "2.0"
+original_entry_into_force: "2025-11-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048176/2025-11-28/0"
+intitule_bron: "Stcrt.2023-14832"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-05-16"
+intitule_published: "2023-05-22"
+intitule_in_force: "2023-05-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-40388"
+original_signed_date: "2025-11-17"
+original_published_date: "2025-11-27"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-40388"
+entry_into_force_date: "2025-11-17"
+jci_1_3: "jci1.3:c:BWBR0048176&z=2025-11-28&g=2025-11-28"
+jci_1_0: "1.0:c:BWBR0048176&g=2025-11-28"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling praktijkgerichte havo"
+signed_date: "2025-11-17"
+entry_into_force: "2025-11-17"
 ---
-
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 16 mei 2023, nr. VO/38233241 houdende regels voor de subsidieverstrekking aan scholen voor deelnemen aan het doorontwikkeltraject van praktijkgerichte programma’s voor het havo en voor het deelnemen aan de pilot met de praktijkroute havo-Educatie (Subsidieregeling praktijkgerichte havo)
 
 Gelet op [artikel 5.11 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.11), [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -58,11 +84,11 @@ In deze regeling wordt verstaan onder:
 
 - **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Doel van de regeling en te subsidiëren activiteiten
+##### Artikel 3. Doel van de regeling en te subsidiëren activiteiten
 
 1. De minister kan aan een bevoegd gezag van een school die havo aanbiedt of een vavo-instelling die havo aanbiedt, toestemming verlenen op grond van [artikel 9.3 WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=9.3) om deel te nemen aan het doorontwikkeltraject of de pilot met de praktijkroute havo-Educatie voor de schooljaren 2023/2024 tot en met 2026/2027.
 
@@ -84,7 +110,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 5. De minister verstrekt aan de bevoegde gezagsorganen van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048176&bijlage=1&z=2025-11-28&g=2025-11-28) genoemde vestigingen voor de kalenderjaren 2025, 2026 en 2027 ambtshalve jaarlijks een aanvullende subsidie voor de uitvoering van de activiteiten, bedoeld in het tweede lid.
 
-#### Artikel 4. Aanvraag subsidie
+##### Artikel 4. Aanvraag subsidie
 
 1. Een bevoegd gezag kan per vestiging een aanvraag indienen voor de activiteiten, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048176&artikel=3&z=2025-11-28&g=2025-11-28).
 
@@ -120,7 +146,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - 4°. de vestiging direct start met het aanbieden van het concept-examenprogramma als schoolexamenvak of dat het jaar waarin subsidie wordt aangevraagd, gebruikt wordt als voorbereiding om het eerstvolgende schooljaar te starten met leerlingen in het vierde leerjaar van het havo.
 
-#### Artikel 5. Subsidieplafond en subsidiebedrag
+##### Artikel 5. Subsidieplafond en subsidiebedrag
 
 1. Voor de subsidieverstrekking op grond van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048176&artikel=3&z=2025-11-28&g=2025-11-28) deze regeling is een bedrag beschikbaar van:
 
@@ -146,13 +172,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 5. Het subsidiebedrag wordt aan een bevoegd gezag op Caribisch Nederland uitbetaald in dollars tegen de vastgestelde wisselkoers.
 
-#### Artikel 6. Wijze van verdeling beschikbare middelen
+##### Artikel 6. Wijze van verdeling beschikbare middelen
 
 1. Indien de toewijzing van alle daarvoor in aanmerking komende aanvragen voor een subsidie zou leiden tot overschrijding van het subsidieplafond, bedoeld in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048176&artikel=5&z=2025-11-28&g=2025-11-28), krijgen de aanvragen van de vestigingen van scholen die reeds toestemming hebben gekregen van de minister om vanaf 2022 of 2023 deel te nemen aan het doorontwikkeltraject voorrang.
 
 2. Indien de toewijzing van alle daarvoor in aanmerking komende aanvragen voor een subsidie zou leiden tot overschrijding van een subsidieplafond als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048176&artikel=5&z=2025-11-28&g=2025-11-28), worden de aanvragen, in voorkomend geval na toepassing van het eerste lid, door middel van loting gerangschikt. Scholen krijgen volgens de rangschikking subsidie toegekend tot het subsidieplafond is bereikt.
 
-#### Artikel 7. Subsidieverplichtingen
+##### Artikel 7. Subsidieverplichtingen
 
 1. In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) worden aan de subsidieontvanger de volgende verplichtingen opgelegd. De subsidieontvanger:
 
@@ -164,7 +190,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 3. In afwijking van het eerste lid worden aan de subsidieontvanger die toestemming heeft gekregen om de pilot praktijkroute havo-Educatie aan te bieden de subsidieverplichtingen, bedoeld in het eerste lid, uitsluitend opgelegd tot en met schooljaar 2024/2025.
 
-#### Artikel 8. Verstrekking, besteding en verantwoording
+##### Artikel 8. Verstrekking, besteding en verantwoording
 
 1. De subsidie als bedoeld in [artikel 3, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048176&artikel=3&z=2025-11-28&g=2025-11-28) wordt direct vastgesteld binnen 13 weken na sluiting van de desbetreffende aanvraagperiode.
 
@@ -176,23 +202,23 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 5. De subsidieontvanger toont op verzoek van de minister aan dat de activiteiten waarvoor subsidie is verstrekt, zijn verricht en dat is voldaan aan de verplichtingen die aan de subsidie verbonden zijn. Niet bestede middelen worden teruggevorderd.
 
-#### Artikel 9. Betaling
+##### Artikel 9. Betaling
 
 1. De minister bepaalt het betaalritme van de subsidie, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048176&artikel=3&z=2025-11-28&g=2025-11-28), in de beschikking tot vaststelling.
 
 2. De minister betaalt de subsidie, bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048176&artikel=3&z=2025-11-28&g=2025-11-28), als bedrag ineens op uiterlijk 31 december 2025 voor het kalenderjaar 2025, op 1 augustus 2026 voor het kalenderjaar 2026 en op 1 augustus 2027 voor het kalenderjaar 2027.
 
-#### Artikel 10. Hardheidsclausule
+##### Artikel 10. Hardheidsclausule
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing daarvan, gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zou leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 11. Inwerkingtreding en vervaldatum
+##### Artikel 11. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 mei 2028, met dien verstande dat zij van toepassing blijft ten aanzien van de subsidies die op grond van deze regeling zijn verstrekt.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling praktijkgerichte havo.
 

@@ -1,13 +1,39 @@
 ---
-title: "Tijdelijke subsidieregeling financiering kinderopvang Caribisch Nederland"
+title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 8 mei 2020, nr. 2020-0000031778, tot vaststelling van een tijdelijke subsidieregeling voor de financiering van kinderopvang in Caribisch Nederland (Tijdelijke subsidieregeling financiering kinderopvang Caribisch Nederland)"
 identifier: "BWBR0043533"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043533"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043533"
+soort: "ministeriele-regeling-BES"
+stam_id: "15455053"
+version_id: "26702842"
+internal_id: "C37858301"
+label_id: "15398454"
+dtd_version: "2.0"
+original_entry_into_force: "2020-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043533/2026-01-01/0"
+intitule_bron: "Stcrt.2020-26622"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-05-08"
+intitule_published: "2020-05-15"
+intitule_in_force: "2020-05-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-26622"
+original_signed_date: "2020-05-08"
+original_published_date: "2020-05-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-26622"
+entry_into_force_date: "2020-07-01"
+jci_1_3: "jci1.3:c:BWBR0043533&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0043533&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke subsidieregeling financiering kinderopvang Caribisch Nederland"
+signed_date: "2020-05-08"
+entry_into_force: "2020-07-01"
 ---
-
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 8 mei 2020, nr. 2020-0000031778, tot vaststelling van een tijdelijke subsidieregeling voor de financiering van kinderopvang in Caribisch Nederland (Tijdelijke subsidieregeling financiering kinderopvang Caribisch Nederland)
 
 Gelet op de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3), en [5 van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=5);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -66,21 +92,21 @@ In deze regeling wordt verstaan onder:
 
 - **transitieplan:** een door het openbaar lichaam goedgekeurd plan van een kinderopvangorganisatie waarin de kinderopvangorganisatie vastlegt welk deel van de subsidie wordt gebruikt voor het verlagen van het door de ouders te betalen bedrag aan kinderopvang en welk deel wordt ingezet voor investeringen in de kwaliteit van de kinderopvang.
 
-#### Artikel 2. Doel subsidie
+##### Artikel 2. Doel subsidie
 
 Voor de periode van 1 januari 2020 tot en met 31 maart 2026 worden tijdelijk financiële middelen beschikbaar gesteld voor het verlagen van de kosten van kinderopvang voor ouders van kinderen in Caribisch Nederland om de financiële toegankelijkheid van de kinderopvang en buitenschoolse opvang te verbeteren en tegelijkertijd de kwaliteit van de opvang te verbeteren.
 
-#### Artikel 3. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 3. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) van toepassing voor zover daar in deze regeling niet van wordt afgeweken.
 
-#### Artikel 4. Aanvraagtijdvak
+##### Artikel 4. Aanvraagtijdvak
 
 Subsidieaanvragen worden ingediend van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst, 09:00 uur tot en met 31 januari 2026, 17:00 uur, lokale tijd.
 
 ### Hoofdstuk 2. Subsidieverlening
 
-#### Artikel 5. Subsidieplafond Sint Eustatius kostprijs verlagende subsidie
+##### Artikel 5. Subsidieplafond Sint Eustatius kostprijs verlagende subsidie
 
 1. Voor het verlenen van een kostprijs verlagende subsidie op grond van deze regeling is voor kinderopvang op Sint Eustatius voor de periode van 1 juli 2020 tot en met 30 juni 2021 een bedrag van $ 1.058.400 beschikbaar.
 
@@ -96,7 +122,7 @@ Subsidieaanvragen worden ingediend van de dag na de datum van uitgifte van de St
 
 7. Voor het verlenen van een kostprijs verlagende subsidie op grond van deze regeling is voor kinderopvang op Sint Eustatius voor de periode van 1 januari 2026 tot en met 31 maart 2026 een bedrag van $ 805.000 beschikbaar.
 
-#### Artikel 6. Subsidieplafond Bonaire kostprijs verlagende subsidie
+##### Artikel 6. Subsidieplafond Bonaire kostprijs verlagende subsidie
 
 1. Voor het verlenen van een kostprijs verlagende subsidie op grond van deze regeling is voor kinderopvang op Bonaire voor de periode van 1 juli 2020 tot en met 30 juni 2021 een bedrag van $ 5.760.000 beschikbaar.
 
@@ -112,7 +138,7 @@ Subsidieaanvragen worden ingediend van de dag na de datum van uitgifte van de St
 
 7. Voor het verlenen van een kostprijs verlagende subsidie op grond van deze regeling is voor kinderopvang op Bonaire voor de periode van 1 januari 2026 tot en met 31 maart 2026 een bedrag van $ 4.945.000 beschikbaar.
 
-#### Artikel 7. Subsidieplafond Saba kostprijs verlagende subsidie
+##### Artikel 7. Subsidieplafond Saba kostprijs verlagende subsidie
 
 1. Voor het verlenen van een kostprijs verlagende subsidie op grond van deze regeling is voor kinderopvang op Saba voor de periode van 1 juli 2020 tot en met 31 december 2020 een bedrag van $ 0 beschikbaar.
 
@@ -130,7 +156,7 @@ Subsidieaanvragen worden ingediend van de dag na de datum van uitgifte van de St
 
 8. Voor het verlenen van een kostprijs verlagende subsidie op grond van deze regeling is voor kinderopvang op Saba voor de periode van 1 januari 2026 tot en met 31 maart 2026 een bedrag van $ 440.000 beschikbaar.
 
-#### Artikel 8. Wijze van verdeling beschikbare middelen kostprijs verlagende subsidie
+##### Artikel 8. Wijze van verdeling beschikbare middelen kostprijs verlagende subsidie
 
 1. Voor het bepalen van het bereiken van het subsidieplafond worden de subsidieaanvragen op volgorde van binnenkomst behandeld, waarbij alleen een volledige aanvraag in behandeling wordt genomen.
 
@@ -138,7 +164,7 @@ Subsidieaanvragen worden ingediend van de dag na de datum van uitgifte van de St
 
 3. Als tijdstip van ontvangst als bedoeld in het eerste lid geldt het tijdstip waarop de volledige aanvraag is ontvangen.
 
-#### Artikel 9. Subsidieaanvraag kostprijs verlagende subsidie
+##### Artikel 9. Subsidieaanvraag kostprijs verlagende subsidie
 
 1. Aanvragen voor een kostprijs verlagende subsidie worden ingediend bij de minister door middel van een door de minister vastgesteld aanvraagformulier dat beschikbaar is op www.mijnuitvoeringvanbeleidszw.nl.
 
@@ -170,7 +196,7 @@ Subsidieaanvragen worden ingediend van de dag na de datum van uitgifte van de St
 
 8. De kinderopvangorganisatie moet op uiterlijk de laatste dag van de eerste maand van het kwartaal een aanvraag hebben ingediend om voor de uitbetaling van de subsidie voor het desbetreffende kwartaal in aanmerking te komen.
 
-#### Artikel 10. Voorwaarden kostprijs verlagende subsidie
+##### Artikel 10. Voorwaarden kostprijs verlagende subsidie
 
 1. Alleen kinderopvangorganisaties die in het bezit zijn van een exploitatievergunning, dan wel in afwachting zijn van een beslissing omtrent de aanvraag van een exploitatievergunning en in 2019 aantoonbaar kinderen hebben opgevangen komen in aanmerking voor een kostprijs verlagende subsidie.
 
@@ -188,7 +214,7 @@ Subsidieaanvragen worden ingediend van de dag na de datum van uitgifte van de St
 
 8. De minister kan indien niet wordt voldaan aan de voorwaarde, bedoeld in het derde lid, op advies van het openbaar lichaam een uitzondering maken in het belang van het kind.
 
-#### Artikel 11. Verplichtingen kostprijs verlagende subsidie
+##### Artikel 11. Verplichtingen kostprijs verlagende subsidie
 
 1. Indien er geen sprake is van een kindplaatssubsidie die de ouderbijdrage volledig compenseert, is de kinderopvangorganisatie verplicht een ouderbijdrage aan de ouder in rekening te brengen.
 
@@ -196,7 +222,7 @@ Subsidieaanvragen worden ingediend van de dag na de datum van uitgifte van de St
 
 3. De kinderopvangorganisatie werkt mee aan het programma BES(t) 4 kids en kostprijsonderzoeken die in het kader van het programma worden uitgevoerd.
 
-#### Artikel 12. Hoogte kostprijs verlagende subsidie
+##### Artikel 12. Hoogte kostprijs verlagende subsidie
 
 1. De hoogte van de kostprijs verlagende subsidie per dagdeel per kind voor de dagopvang bedraagt voor de periode van:
 
@@ -284,7 +310,7 @@ Subsidieaanvragen worden ingediend van de dag na de datum van uitgifte van de St
 
 8. De aanhef van het zevende lid is van overeenkomstige toepassing op de periode van 1 januari 2026 tot en met 31 maart 2026, met dien verstande dat de peildatum 1 januari 2026 is. De verhoging bedraagt voor die periode $ 800 op Bonaire, $ 887 op Sint Eustatius en $ 944 op Saba per kind dat op de peildatum jonger is dan een jaar.
 
-#### Artikel 13. Hoogte ouderbijdrage
+##### Artikel 13. Hoogte ouderbijdrage
 
 1. Voor de periode van 1 juli 2020 tot en met 30 juni 2021 bedraagt voor de ouders op Bonaire de ouderbijdrage bij het maximale aantal dagdelen per maand, bedoeld in [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=12&z=2026-01-01&g=2026-01-01), voor de:
 
@@ -344,7 +370,7 @@ Subsidieaanvragen worden ingediend van de dag na de datum van uitgifte van de St
 
 9. Indien de kinderopvangorganisatie een hogere ouderbijdrage in rekening heeft gebracht dan op grond van dit artikel is toegestaan, kan de subsidie worden gekort met het te veel in rekening gebrachte bedrag.
 
-#### Artikel 14. Kindplaatssubsidie
+##### Artikel 14. Kindplaatssubsidie
 
 1. De kinderopvangorganisatie kan in aanvulling op de kostprijs verlagende subsidie in aanmerking komen voor een kindplaatssubsidie.
 
@@ -360,7 +386,7 @@ Subsidieaanvragen worden ingediend van de dag na de datum van uitgifte van de St
 
 - c. de hoogte van de ouderbijdrage.
 
-#### Artikel 15. Subsidieverlening en betaling
+##### Artikel 15. Subsidieverlening en betaling
 
 1. In de verleningsbeschikking voor de kostprijs verlagende subsidie en kindplaatssubsidie is de hoogte van het subsidiebedrag opgenomen.
 
@@ -384,7 +410,7 @@ Subsidieaanvragen worden ingediend van de dag na de datum van uitgifte van de St
 
 11. Het zevende en achtste lid zijn niet van toepassing op de periode van 1 januari 2026 tot en met 31 maart 2026.
 
-#### Artikel 16. Informatieverplichtingen
+##### Artikel 16. Informatieverplichtingen
 
 1. Na afloop van ieder halfjaar dat is aangevangen op 1 januari of 1 juli en na afloop van het eerste kwartaal, indien dit is aangevangen op 1 april of 1 oktober, is de kinderopvangorganisatie verplicht om in een door de minister verstrekt formulier de afname van het aantal dagdelen per kind van dat halfjaar, onderscheidenlijk dat eerste kwartaal, op te nemen en aan de minister te verstrekken alsmede een actualisatie van de gegevens met betrekking tot het aantal kinderen dat in het daaropvolgende halfjaar wordt verwacht en het aantal af te nemen dagdelen.
 
@@ -418,7 +444,7 @@ Subsidieaanvragen worden ingediend van de dag na de datum van uitgifte van de St
 
 8. In afwijking van het eerste lid is de kinderopvangorganisatie na afloop van het eerste kwartaal van 2026 verplicht om in een door de minister verstrekt formulier de afname van het aantal dagdelen per kind van dat kwartaal op te nemen en aan te minister te verstrekken. De kinderopvangorganisatie verstrekt geen actualisatie van de gegevens met betrekking tot het aantal kinderen dat in het daaropvolgende halfjaar wordt verwacht en het aantal af te nemen dagdelen.
 
-#### Artikel 17. Weigeringsgronden
+##### Artikel 17. Weigeringsgronden
 
 De subsidie wordt in ieder geval niet verleend indien:
 
@@ -426,7 +452,7 @@ De subsidie wordt in ieder geval niet verleend indien:
 
 - b. de subsidieplafonds bedoeld in de [artikelen vijf tot en met zeven](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=5&z=2026-01-01&g=2026-01-01), reeds door eerder ingediende aanvragen zijn uitgeput.
 
-#### Artikel 18. Intrekking subsidie
+##### Artikel 18. Intrekking subsidie
 
 1. Indien de exploitatievergunning van de kinderopvangorganisatie wordt ingetrokken stopt de subsidie per datum waarop de exploitatievergunning is ingetrokken en wordt de beschikking ingetrokken.
 
@@ -438,7 +464,7 @@ De subsidie wordt in ieder geval niet verleend indien:
 
 5. Het vierde lid is niet van toepassing, indien de beschikking tot subsidieverlening wordt ingetrokken omdat niet is voldaan aan [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=10&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 19. Verantwoording en vaststellen subsidie
+##### Artikel 19. Verantwoording en vaststellen subsidie
 
 1. De ontvanger van een subsidie, toont op verzoek van de minister op de in de beschikking aangegeven wijze aan dat de activiteiten waarvoor de subsidie is verleend, zijn verricht en dat is voldaan aan de aan de verleende subsidie verbonden verplichtingen.
 
@@ -446,19 +472,19 @@ De subsidie wordt in ieder geval niet verleend indien:
 
 3. De subsidie wordt vastgesteld op een bedrag tot ten hoogste het in de verleningsbeschikking genoemde bedrag.
 
-#### Artikel 20. Inwerkingtreding en vervaldatum
+##### Artikel 20. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van 1 juli 2020.
 
 2. Deze regeling vervalt met ingang van 1 juli 2026, met dien verstande dat de regeling zoals deze luidde op 30 juni 2026 van toepassing blijft op de afwikkeling van subsidieaanvragen en ingestelde gerechtelijke procedures op grond van deze regeling.
 
-#### Artikel 21. Citeertitel
+##### Artikel 21. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling financiering kinderopvang Caribisch Nederland.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 19a. Vrijstelling
+##### Artikel 19a. Vrijstelling
 
 1. De minister kan op verzoek van het openbaar lichaam, voor zover het belang van de veiligheid of de gezondheid van de kinderen of het personeel zich daartegen niet verzet, een kinderopvangorganisatie of gastouder voor een periode van ten hoogste drie maanden vrijstelling verlenen van de [artikelen 10, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=10&z=2026-01-01&g=2026-01-01), of [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043533&hoofdstuk=2&artikel=11&z=2026-01-01&g=2026-01-01), indien die organisatie of gastouder als gevolg van een calamiteit niet aan de in die artikelen genoemde voorwaarden kan voldoen.
 

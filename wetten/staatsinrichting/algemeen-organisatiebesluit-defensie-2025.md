@@ -1,18 +1,43 @@
 ---
 title: "Algemeen organisatiebesluit Defensie 2025"
 identifier: "BWBR0051326"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2025-07-26
-laatste_update: 2025-07-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051326"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-26"
+last_updated: "2025-07-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051326"
+soort: "ministeriele-regeling"
+stam_id: "17489473"
+version_id: "30847722"
+internal_id: "C44204241"
+label_id: "17392044"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051326/2025-07-26/0"
+intitule_bron: "Stcrt.2025-25342"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-15"
+intitule_published: "2025-07-25"
+intitule_in_force: "2025-07-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-25342"
+original_signed_date: "2025-07-15"
+original_published_date: "2025-07-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-25342"
+entry_into_force_date: "2025-07-26"
+jci_1_3: "jci1.3:c:BWBR0051326&z=2025-07-26&g=2025-07-26"
+jci_1_0: "1.0:c:BWBR0051326&g=2025-07-26"
+citeertitel_status: "officieel"
+signed_date: "2025-07-15"
+entry_into_force: "2025-07-26"
 ---
-
 # Algemeen organisatiebesluit Defensie 2025
 
 Besluit:
 
-#### Artikel 1. De inrichting van het Ministerie van Defensie
+##### Artikel 1. De inrichting van het Ministerie van Defensie
 
 - 1. Het Ministerie van Defensie kent de volgende verantwoordelijken:
 
@@ -120,7 +145,7 @@ Besluit:
 
 - 5. Het Ministerie van Defensie kent de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=27&z=2025-07-26&g=2025-07-26) genoemde toezichthouders.
 
-#### Artikel 2. De Secretaris-Generaal
+##### Artikel 2. De Secretaris-Generaal
 
 - a. Overeenkomstig [artikel 1 van het Koninklijk Besluit regeling functie en verantwoordelijkheid van de Secretaris-Generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0004419&artikel=1) (Stb. 1988, 499) is de Secretaris-Generaal belast met de ambtelijke leiding van al hetgeen het Ministerie van Defensie betreft.
 
@@ -130,7 +155,7 @@ Besluit:
 
 - d. De Plaatsvervangend Secretaris-Generaal vervangt de Secretaris-Generaal tijdens diens afwezigheid, met uitzondering van deelname aan de Raad voor de Veiligheids- en Inlichtingendiensten, de Commissie voor de Inlichtingen- en Veiligheidsdiensten en het behandelen van verzoeken om toestemming tot inzet van algemene en bijzondere bevoegdheden ingevolge de [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896).
 
-#### Artikel 3. De Plaatsvervangend Secretaris-Generaal
+##### Artikel 3. De Plaatsvervangend Secretaris-Generaal
 
 - a. De Plaatsvervangend Secretaris-Generaal is verantwoordelijk voor een samenhangende defensiebrede bedrijfsvoering en geeft sturing aan het kerndepartement ten aanzien van bedrijfsvoeringsaspecten.
 
@@ -142,7 +167,7 @@ Besluit:
 
 - e. De Secretaris-Generaal vervangt de Plaatsvervangend Secretaris-Generaal tijdens diens afwezigheid.
 
-#### Artikel 4. De Commandant der Strijdkrachten
+##### Artikel 4. De Commandant der Strijdkrachten
 
 De Commandant der Strijdkrachten is belast met:
 
@@ -166,7 +191,7 @@ De Commandant der Strijdkrachten is belast met:
 
 - j. de bi- en multilaterale militaire samenwerking binnen de kaders van het vastgestelde internationaal beleid en de samenhang en eenduidigheid van de inbreng in internationaal militair verband.
 
-#### Artikel 5. De Directeur-Generaal Beleid
+##### Artikel 5. De Directeur-Generaal Beleid
 
 1. De Directeur-Generaal Beleid is belast met:
 
@@ -184,7 +209,7 @@ De Commandant der Strijdkrachten is belast met:
 
 2. Binnen het Directoraat-Generaal Beleid is de Hoofddirecteur Personeel, met inachtneming van de aanwijzingen van de Minister van Defensie, belast met de defensiebrede verantwoordelijkheden voor het werkgeverschap, waaronder in elk geval wordt verstaan de verantwoordelijkheid die volgt uit het [Besluit georganiseerd overleg sector Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006042).
 
-#### Artikel 6. De Hoofddirecteur Financiën en Control
+##### Artikel 6. De Hoofddirecteur Financiën en Control
 
 De Hoofddirecteur Financiën en Control is belast met:
 
@@ -208,7 +233,7 @@ De Hoofddirecteur Financiën en Control is belast met:
 
 - j. het uitvoeren van voorafgaand financieel toezicht en beleidscontrol waarbij getoetst wordt op de kwaliteit, doeltreffendheid, doelmatigheid, rechtmatigheid en financiële inpasbaarheid.
 
-#### Artikel 7. De Chief Information Officer
+##### Artikel 7. De Chief Information Officer
 
 De Chief Information Officer is belast met:
 
@@ -230,7 +255,7 @@ De Chief Information Officer is belast met:
 
 - i. de rol van Chief Information Security Officer (CISO) en Chief Data Officer (CDO).
 
-#### Artikel 8. De Directeur Communicatie
+##### Artikel 8. De Directeur Communicatie
 
 De Directeur Communicatie is belast met:
 
@@ -244,7 +269,7 @@ De Directeur Communicatie is belast met:
 
 - e. het ontwikkelen, coördineren en handhaven van integraal en uitvoerend communicatiebeleid in afstemming met de Directeur-Generaal Beleid en de Rijksvoorlichtingsdienst.
 
-#### Artikel 9. De Directeur Juridische Zaken
+##### Artikel 9. De Directeur Juridische Zaken
 
 De Directeur Juridische Zaken is belast met:
 
@@ -256,7 +281,7 @@ De Directeur Juridische Zaken is belast met:
 
 - d. het optreden als vertegenwoordiger en adviseur van de Minister van Defensie en de Secretaris-Generaal bij de verlening van bijstand op grond van de [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788).
 
-#### Artikel 10. De Directeur Bestuursondersteuning en Advies
+##### Artikel 10. De Directeur Bestuursondersteuning en Advies
 
 De Directeur Bestuursondersteuning en Advies is belast met:
 
@@ -270,7 +295,7 @@ De Directeur Bestuursondersteuning en Advies is belast met:
 
 - e. het leveren van facilitaire, secretariële en protocollaire ondersteuning aan de bewindspersonen en de ambtelijke departementsleiding.
 
-#### Artikel 11. De Directeur Human Resources en Bedrijfsvoering
+##### Artikel 11. De Directeur Human Resources en Bedrijfsvoering
 
 De Directeur Human Resources en Bedrijfsvoering is belast met:
 
@@ -284,7 +309,7 @@ De Directeur Human Resources en Bedrijfsvoering is belast met:
 
 - e. de beveiligingscoördinatie van het kerndepartement.
 
-#### Artikel 12. De Directeur Financiën & Control Bestuursstaf
+##### Artikel 12. De Directeur Financiën & Control Bestuursstaf
 
 De Directeur Financiën & Control Bestuursstaf is belast met
 
@@ -298,7 +323,7 @@ De Directeur Financiën & Control Bestuursstaf is belast met
 
 - e. de totstandkoming van het activiteitenplan en de werkbegroting voor het kerndepartement met uitzondering van de Defensiestaf, inclusief de raming van de financiële consequenties.
 
-#### Artikel 13. De Commandant Zeestrijdkrachten
+##### Artikel 13. De Commandant Zeestrijdkrachten
 
 De Commandant Zeestrijdkrachten is belast met:
 
@@ -314,7 +339,7 @@ De Commandant Zeestrijdkrachten is belast met:
 
 - f. de advisering op het gebied van militair maritiem optreden.
 
-#### Artikel 14. De Commandant Landstrijdkrachten
+##### Artikel 14. De Commandant Landstrijdkrachten
 
 De Commandant Landstrijdkrachten is belast met:
 
@@ -328,7 +353,7 @@ De Commandant Landstrijdkrachten is belast met:
 
 - e. de advisering op het gebied van militair landoptreden.
 
-#### Artikel 15. De Commandant Lucht- en Ruimtestrijdkrachten
+##### Artikel 15. De Commandant Lucht- en Ruimtestrijdkrachten
 
 De Commandant Lucht- en Ruimtestrijdkrachten is belast met:
 
@@ -342,7 +367,7 @@ De Commandant Lucht- en Ruimtestrijdkrachten is belast met:
 
 - e. de advisering op het gebied van militair lucht- en ruimteoptreden.
 
-#### Artikel 16. De Commandant Koninklijke Marechaussee
+##### Artikel 16. De Commandant Koninklijke Marechaussee
 
 De Commandant Koninklijke Marechaussee is belast met:
 
@@ -356,7 +381,7 @@ De Commandant Koninklijke Marechaussee is belast met:
 
 - e. de advisering op het gebied van het (militaire) politieoptreden.
 
-#### Artikel 17. De Commandant Defensie Ondersteuningscommando
+##### Artikel 17. De Commandant Defensie Ondersteuningscommando
 
 De Commandant Defensie Ondersteuningscommando is belast met:
 
@@ -370,7 +395,7 @@ De Commandant Defensie Ondersteuningscommando is belast met:
 
 - e. de advisering op de toegewezen functiegebieden en het van daaruit ondersteunen van de overige defensieonderdelen.
 
-#### Artikel 18. De Commandant Commando Materieel en IT
+##### Artikel 18. De Commandant Commando Materieel en IT
 
 De Commandant Commando Materieel en IT is belast met:
 
@@ -388,7 +413,7 @@ De Commandant Commando Materieel en IT is belast met:
 
 - g. de advisering op het toegewezen functiegebied en het van daaruit ondersteunen van de overige defensieonderdelen.
 
-#### Artikel 19. De Directeur Militaire Inlichtingen- en Veiligheidsdienst
+##### Artikel 19. De Directeur Militaire Inlichtingen- en Veiligheidsdienst
 
 De Directeur Militaire Inlichtingen- en Veiligheidsdienst is belast met:
 
@@ -398,7 +423,7 @@ De Directeur Militaire Inlichtingen- en Veiligheidsdienst is belast met:
 
 - c. het signaleren van aangelegenheden die de gehele inlichtingenketen betreffen en de aandacht behoeven van Commandant der Strijdkrachten en Secretaris-Generaal.
 
-#### Artikel 20. De Inspecteur-Generaal der Krijgsmacht
+##### Artikel 20. De Inspecteur-Generaal der Krijgsmacht
 
 De Inspecteur-Generaal der Krijgsmacht is belast met:
 
@@ -410,7 +435,7 @@ De Inspecteur-Generaal der Krijgsmacht is belast met:
 
 - d. het als speciale representant van de Minister van Defensie (Inspecteur der Veteranen) bijwonen van de grote manifestaties van veteranen en het adviseren van de Minister van Defensie over het veteranenbeleid.
 
-#### Artikel 21. De Inspecteur-Generaal Veiligheid
+##### Artikel 21. De Inspecteur-Generaal Veiligheid
 
 De Inspecteur-Generaal Veiligheid is belast met:
 
@@ -424,7 +449,7 @@ De Inspecteur-Generaal Veiligheid is belast met:
 
 - e. het gevraagd en ongevraagd adviseren van de Minister van Defensie ten aanzien van alle vraagstukken de veiligheid betreffende.
 
-#### Artikel 22. De Directeur Militaire Luchtvaart Autoriteit
+##### Artikel 22. De Directeur Militaire Luchtvaart Autoriteit
 
 De Directeur Militaire Luchtvaart Autoriteit is belast met:
 
@@ -434,7 +459,7 @@ De Directeur Militaire Luchtvaart Autoriteit is belast met:
 
 - c. het namens de Minister van Defensie nemen van besluiten en het verrichten van andere handelingen ter uitvoering van de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267) en de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) en het formuleren van richtlijnen en eisen omtrent Air Traffic Management.
 
-#### Artikel 23. De Directeur Centrale Organisatie Integriteit Defensie
+##### Artikel 23. De Directeur Centrale Organisatie Integriteit Defensie
 
 De Directeur Centrale Organisatie Integriteit Defensie is belast met:
 
@@ -450,7 +475,7 @@ De Directeur Centrale Organisatie Integriteit Defensie is belast met:
 
 - f. het onderhouden van een nationaal en internationaal netwerk in het integriteitsveld.
 
-#### Artikel 24. De Inspecteur Militaire Gezondheidszorg
+##### Artikel 24. De Inspecteur Militaire Gezondheidszorg
 
 De Inspecteur Militaire Gezondheidszorg is belast met:
 
@@ -462,7 +487,7 @@ De Inspecteur Militaire Gezondheidszorg is belast met:
 
 - d. het houden van toezicht op de naleving van wettelijke voorschriften op het gebied van de gezondheidszorg en de militair geneeskundige verzorging.
 
-#### Artikel 25. De Directeur Diensten Geestelijke Verzorging
+##### Artikel 25. De Directeur Diensten Geestelijke Verzorging
 
 De Directeur Diensten Geestelijke Verzorging is belast met:
 
@@ -472,7 +497,7 @@ De Directeur Diensten Geestelijke Verzorging is belast met:
 
 - c. de verantwoordelijkheid voor de implementatie van het door het College van Hoofden voorgestane beleid, dat binnen het Ministerie van Defensie een plaats dient te krijgen.
 
-#### Artikel 26. Verantwoordelijkheden vanuit leiding geven
+##### Artikel 26. Verantwoordelijkheden vanuit leiding geven
 
 Alle functionarissen die conform dit besluit zijn belast met het geven van leiding binnen het Ministerie van Defensie, zijn vanuit die hoedanigheid tevens belast met:
 
@@ -482,7 +507,7 @@ Alle functionarissen die conform dit besluit zijn belast met het geven van leidi
 
 - c. de verantwoordelijkheid voor de borging van de veiligheid conform de van toepassing zijnde wet- en regelgeving.
 
-#### Artikel 27. Toezichthouders
+##### Artikel 27. Toezichthouders
 
 1. Het Ministerie van Defensie kent de volgende toezichthouders die zijn verenigd in een Toezichtberaad:
 
@@ -504,24 +529,24 @@ Alle functionarissen die conform dit besluit zijn belast met het geven van leidi
 
 4. De Inspecteur-Generaal Veiligheid, de Directeur Militaire Luchtvaart Autoriteit, de Inspecteur Militaire Gezondheidszorg en de Functionaris Gegevensbescherming zijn administratief ondergebracht bij het kerndepartement; de Commandant Korps Militaire Controleurs Gevaarlijke Stoffen is ondergebracht bij het Commando Koninklijke Marechaussee; de rol van Beveiligingsautoriteit is ondergebracht bij de Directeur Directie Bedrijfsvoering en Evaluatie binnen het Directoraat-Generaal Beleid.
 
-#### Artikel 28. Subtaakbesluiten
+##### Artikel 28. Subtaakbesluiten
 
 De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=1&z=2025-07-26&g=2025-07-26) genoemde verantwoordelijken kunnen op basis van dit besluit subtaakbesluiten vaststellen ten aanzien van de eenheden waaraan zij leiding geven. Deze subtaakbesluiten worden vastgesteld na goedkeuring door de Secretaris-Generaal of, indien de Secretaris-Generaal het subtaakbesluit vaststelt, na goedkeuring door de Minister van Defensie.
 
-#### Artikel 29. Overgangsbepaling
+##### Artikel 29. Overgangsbepaling
 
 Na de inwerkingtreding van dit besluit berusten de besluiten gebaseerd op [artikel 26 van het Algemeen organisatiebesluit Defensie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044746&artikel=26) op [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=28&z=2025-07-26&g=2025-07-26) van dit besluit.
 
-#### Artikel 30. Intrekking [Algemeen organisatiebesluit Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0044746)
+##### Artikel 30. Intrekking [Algemeen organisatiebesluit Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0044746)
 
 Het [Algemeen organisatiebesluit Defensie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044746) wordt ingetrokken.
 
-#### Artikel 31. Inwerkingtreding
+##### Artikel 31. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 Deze regeling wordt met de toelichting in de Staatscourant geplaatst.
 
-#### Artikel 32. Citeertitel
+##### Artikel 32. Citeertitel
 
 Dit besluit wordt aangehaald als: Algemeen organisatiebesluit Defensie 2025.

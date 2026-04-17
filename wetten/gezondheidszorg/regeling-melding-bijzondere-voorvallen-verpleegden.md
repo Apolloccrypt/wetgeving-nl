@@ -1,13 +1,38 @@
 ---
 title: "Regeling melding bijzondere voorvallen verpleegden"
 identifier: "BWBR0010963"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2019-07-16
-laatste_update: 2019-07-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010963"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-07-16"
+last_updated: "2019-07-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010963"
+soort: "ministeriele-regeling"
+stam_id: "3588333"
+version_id: "25925042"
+internal_id: "C36938161"
+label_id: "3568324"
+dtd_version: "2.0"
+original_entry_into_force: "2019-07-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010963/2019-07-16/0"
+intitule_bron: "Stcrt.2000-13"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-12-14"
+intitule_published: "2000-01-19"
+intitule_in_force: "2000-01-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-38718"
+original_signed_date: "2019-07-05"
+original_published_date: "2019-07-15"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2019-38718"
+entry_into_force_date: "2019-07-05"
+jci_1_3: "jci1.3:c:BWBR0010963&z=2019-07-16&g=2019-07-16"
+jci_1_0: "1.0:c:BWBR0010963&g=2019-07-16"
+citeertitel_status: "officieel"
+signed_date: "2019-07-05"
+entry_into_force: "2019-07-05"
 ---
-
 # Regeling melding bijzondere voorvallen verpleegden
 
 Gelet op [artikel 24 van het Reglement verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&artikel=24);
@@ -16,11 +41,11 @@ Gezien het advies van de Centrale Raad voor Strafrechtstoepassing van 8 november
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen.
+##### Artikel 1. Begripsbepalingen.
 
 In deze regeling wordt verstaan onder:
 
-#### Artikel 2. Melding bijzondere voorvallen
+##### Artikel 2. Melding bijzondere voorvallen
 
 1. Bijzondere voorvallen die zeer spoedig door het hoofd van de inrichting telefonisch aan de Minister van Veiligheid en Justitie worden gemeld, zijn de volgende:
 
@@ -52,11 +77,11 @@ In gevallen als bedoeld onder e) wordt het bijzonder voorval gemeld door het hoo
 
 4. De afloop van bijzonder voorvallen wordt schriftelijk gemeld met gebruikmaking van het Protocol afloop/afhandeling bijzonder voorval dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010963&bijlage=2&z=2019-07-16&g=2019-07-16) bij deze regeling is gevoegd.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling melding bijzondere voorvallen verpleegden.
 
@@ -182,7 +207,7 @@ Protocol melding bijzonder geval
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Deze regeling berust mede op [artikel 6.11, tweede lid, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=6.11).
 

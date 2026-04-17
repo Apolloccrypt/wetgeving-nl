@@ -1,13 +1,39 @@
 ---
-title: "Organisatie-, mandaat- en volmachtbesluit programmadirectie Huisvesting SZW en VWS"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 16 juli 2012, HVSV/2012/9664, houdende de inrichting van de programmadirectie Huisvesting SZW en VWS alsmede de doorverlening van de vertegenwoordigingsbevoegdheden van de programmadirecteur Huisvesting SZW en VWS (Organisatie-, mandaat- en volmachtbesluit programmadirectie Huisvesting SZW en VWS)"
 identifier: "BWBR0031924"
-categorie: "Bestuursrecht"
-publicatiedatum: 2012-08-29
-laatste_update: 2012-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031924"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2012-08-29"
+last_updated: "2012-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031924"
+soort: "ministeriele-regeling"
+stam_id: "11830283"
+version_id: "19614552"
+internal_id: "C27516911"
+label_id: "11802474"
+dtd_version: "2.0"
+original_entry_into_force: "2012-08-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031924/2012-08-29/0"
+intitule_bron: "Stcrt.2012-17375"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-07-16"
+intitule_published: "2012-08-28"
+intitule_in_force: "2012-08-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-17375"
+original_signed_date: "2012-07-16"
+original_published_date: "2012-08-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-17375"
+entry_into_force_date: "2012-08-29"
+jci_1_3: "jci1.3:c:BWBR0031924&z=2012-08-29&g=2012-08-29"
+jci_1_0: "1.0:c:BWBR0031924&g=2012-08-29"
+citeertitel_status: "officieel"
+short_title: "Organisatie-, mandaat- en volmachtbesluit programmadirectie Huisvesting SZW en VWS"
+signed_date: "2012-07-16"
+entry_into_force: "2012-08-29"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 16 juli 2012, HVSV/2012/9664, houdende de inrichting van de programmadirectie Huisvesting SZW en VWS alsmede de doorverlening van de vertegenwoordigingsbevoegdheden van de programmadirecteur Huisvesting SZW en VWS (Organisatie-, mandaat- en volmachtbesluit programmadirectie Huisvesting SZW en VWS)
 
 Gelet op de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&artikel=3), en [8 van het Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal 2009 SZW](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&artikel=8);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. **Algemeen**
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. **Organisatie**
 
-#### Artikel 2
+##### Artikel 2
 
 1. De programmadirectie heeft geen afdelingen.
 
@@ -38,7 +64,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 3. **Verantwoordelijkheden**
 
-#### Artikel 3
+##### Artikel 3
 
 De twee projectmanagers zijn verantwoordelijk voor:
 
@@ -62,7 +88,7 @@ De twee projectmanagers zijn verantwoordelijk voor:
 
 #### § 4. **Bevoegdheden**
 
-#### Artikel 4
+##### Artikel 4
 
 Aan de twee projectmanagers wordt mandaat en machtiging verleend tot het nemen van besluiten over en het ondertekenen van stukken die betrekking hebben op:
 
@@ -78,17 +104,17 @@ Aan de twee projectmanagers wordt mandaat en machtiging verleend tot het nemen v
 
 - 4˚. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur.
 
-#### Artikel 5
+##### Artikel 5
 
 De twee projectmanagers zijn gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot het voorbereiden en realiseren van het Haagse huisvestingsprogramma van het ministerie van Sociale Zaken en Werkgelegenheid en het ministerie van Volksgezondheid, Welzijn en Sport tot een waarde van € 50.000,- per overeenkomst.
 
-#### Artikel 6
+##### Artikel 6
 
 Bij afwezigheid of verhindering van de programmadirecteur worden diens taken en bevoegdheden, voor de duur van de afwezigheid of verhindering, door de twee projectmanagers waargenomen.
 
 #### § 5. **Slotbepalingen**
 
-#### Artikel 7
+##### Artikel 7
 
 1. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2012.
 

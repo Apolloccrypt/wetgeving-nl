@@ -1,13 +1,38 @@
 ---
 title: "Besluit vaststelling Aanwijzingen voor de rijksdienst inzake toepassing van uitzondering inzake het algemeen belang"
 identifier: "BWBR0031649"
-categorie: "Bestuursrecht"
-publicatiedatum: 2012-07-01
-laatste_update: 2012-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031649"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2012-07-01"
+last_updated: "2012-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031649"
+soort: "ministeriele-regeling"
+stam_id: "11755843"
+version_id: "19430732"
+internal_id: "C27241611"
+label_id: "11728184"
+dtd_version: "2.0"
+original_entry_into_force: "2012-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031649/2012-07-01/0"
+intitule_bron: "Stcrt.2012-11736"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-06-04"
+intitule_published: "2012-06-14"
+intitule_in_force: "2012-06-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-11736"
+original_signed_date: "2012-06-04"
+original_published_date: "2012-06-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-11736"
+entry_into_force_date: "2012-07-01"
+jci_1_3: "jci1.3:c:BWBR0031649&z=2012-07-01&g=2012-07-01"
+jci_1_0: "1.0:c:BWBR0031649&g=2012-07-01"
+citeertitel_status: "redactioneel"
+signed_date: "2012-06-04"
+entry_into_force: "2012-07-01"
 ---
-
 # Besluit vaststelling Aanwijzingen voor de rijksdienst inzake toepassing van uitzondering inzake het algemeen belang
 
 Handelende in overeenstemming met het gevoelen van de ministerraad;
@@ -16,15 +41,15 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop de Wijzigingswet Mededingingswet (invoering regels ondernemingen die deel uitmaken van een publiekrechtelijke rechtspersoon of hiermee zijn verbonden) in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 Vastgesteld worden de als bijlage bij dit besluit gevoegde aanwijzingen inzake het vaststellen voor de rijksdienst dat economische activiteiten of het bevoordelen van een overheidsbedrijf plaatsvinden respectievelijk plaatsvindt in het algemeen belang.
 
-#### Artikel 2
+##### Artikel 2
 
 Het [Besluit van de Minister-President van 8 mei 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009603)/Nr. 98M004561 (Stcrt. 1998, 95) en de als [bijlage bij dat besluit](onbekend) gevoegde aanwijzingen inzake het verrichten van marktactiviteiten door organisaties binnen de rijksdienst worden ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking op het tijdstip waarop de [Wijziging van de Mededingingswet ter invoering van regels inzake ondernemingen die deel uitmaken van een publiekrechtelijke rechtspersoon of die hiermee verbonden zijn (aanpassing Mededingingswet ter invoering van gedragsregels voor de overheid)](https://wetten.overheid.nl/jci1.3:c:BWBR0029818) (Stb. 2011, 162) in werking treedt.
 

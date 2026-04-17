@@ -1,13 +1,39 @@
 ---
-title: "Besluit grenzen openbare lichamen Bonaire, Sint Eustatius en Saba"
+title: "Besluit van 30 september 2010, houdende vaststelling van de grenzen van de openbare lichamen Bonaire, Sint Eustatius en Saba (Besluit grenzen openbare lichamen Bonaire, Sint Eustatius en Saba)"
 identifier: "BWBR0028715"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028715"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028715"
+soort: "AMvB-BES"
+stam_id: "10941273"
+version_id: "17926852"
+internal_id: "C24891791"
+label_id: "10915784"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028715/2010-10-10/0"
+intitule_bron: "Stb.2010-381"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-30"
+intitule_published: "2010-10-05"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-381"
+original_signed_date: "2010-09-30"
+original_published_date: "2010-10-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-381"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028715&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028715&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Besluit grenzen openbare lichamen Bonaire, Sint Eustatius en Saba"
+signed_date: "2010-09-30"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit van 30 september 2010, houdende vaststelling van de grenzen van de openbare lichamen Bonaire, Sint Eustatius en Saba (Besluit grenzen openbare lichamen Bonaire, Sint Eustatius en Saba)
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 26 augustus 2010, nr. 2010-0000561155, CZW/WSG;
@@ -22,11 +48,11 @@ Hebben goedgevonden en verstaan:
 
 Treedt in werking op het tijdstip waarop de Wet openbare lichamen Bonaire, Sint Eustatius en Saba in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028715&artikel=2&z=2010-10-10&g=2010-10-10) vallen de grenzen van de openbare lichamen Bonaire, Sint Eustatius en Saba samen met de buitengrens van de territoriale zee van het Koninkrijk rond elk van de desbetreffende eilanden, zoals vastgesteld in de [Rijkswet uitbreiding territoriale zee van het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0003749).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Met inachtneming van het vierde lid, wordt de grens tussen het openbaar lichaam Sint Eustatius en het openbaar lichaam Saba gevormd door de bogen van grootcirkels tussen de volgende punten in de volgorde zoals hieronder aangegeven:
 
@@ -56,11 +82,11 @@ Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028715&artikel
 
 4. In noordelijke richting is het eindpunt van de grenslijn tussen het openbaar lichaam Sint Eustatius en het openbaar lichaam Saba het snijpunt van het eerste lijnstuk van deze grenslijn met de buitengrens van de territoriale zee, en in zuidelijke richting is het eindpunt van de grenslijn het snijpunt van het laatste lijnstuk van deze grenslijn met de buitengrens van de territoriale zee.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking op het tijdstip waarop de [Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142) in werking treedt.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Besluit grenzen openbare lichamen Bonaire, Sint Eustatius en Saba.
 

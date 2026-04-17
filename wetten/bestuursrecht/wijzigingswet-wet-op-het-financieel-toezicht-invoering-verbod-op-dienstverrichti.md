@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet Wet op het financieel toezicht (invoering verbod op dienstverrichting door derdelandverzekeraars)"
+title: "Wet van 3 maart 2021 tot wijziging van de Wet op het financieel toezicht in verband met de invoering van een verbod op dienstverrichting door derdelandverzekeraars"
 identifier: "BWBR0044936"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-03-17
-laatste_update: 2021-03-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044936"
+country: "nl"
+rank: "wet"
+publication_date: "2021-03-17"
+last_updated: "2021-03-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044936"
+soort: "wet"
+stam_id: "15890353"
+version_id: "27615642"
+internal_id: "C38971561"
+label_id: "15825684"
+dtd_version: "2.0"
+original_entry_into_force: "2021-03-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044936/2021-03-17/0"
+intitule_bron: "Stb.2021-131"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-03-03"
+intitule_published: "2021-03-16"
+intitule_in_force: "2021-03-16"
+intitule_status: "goed"
+original_publication: "Stb.2021-131"
+original_signed_date: "2021-03-03"
+original_published_date: "2021-03-16"
+original_effect: "nieuwe-regeling"
+original_dossier: "35599"
+original_url_id: "stb-2021-131"
+entry_into_force_date: "2021-03-17"
+entry_into_force_dossier: "35599"
+jci_1_3: "jci1.3:c:BWBR0044936&z=2021-03-17&g=2021-03-17"
+jci_1_0: "1.0:c:BWBR0044936&g=2021-03-17"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingswet Wet op het financieel toezicht (invoering verbod op dienstverrichting door derdelandverzekeraars)"
+signed_date: "2021-03-03"
+entry_into_force: "2021-03-17"
 ---
-
-# Wijzigingswet Wet op het financieel toezicht (invoering verbod op dienstverrichting door derdelandverzekeraars)
+# Wet van 3 maart 2021 tot wijziging van de Wet op het financieel toezicht in verband met de invoering van een verbod op dienstverrichting door derdelandverzekeraars
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,11 +44,11 @@ Alzo Wij in overweging genomen hebben, dat het noodzakelijk is de [Wet op het fi
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet op het financieel toezicht.
 
-#### Artikel II
+##### Artikel II
 
 1. Het is een levensverzekeraar of schadeverzekeraar, niet zijnde een verzekeraar met beperkte risico-omvang, met zetel in een staat die geen lidstaat is na het tijdstip van inwerkingtreding van deze wet toegestaan om in afwijking van [artikel 2:45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:45), onderscheidenlijk [artikel 2:46, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:46) het verzekeringsbedrijf uit te oefenen, indien hij:
 
@@ -72,7 +100,7 @@ Wijzigt de Wet op het financieel toezicht.
 
 9. De Nederlandsche Bank kan de termijn, bedoeld in het zevende lid, aanhef en achtste lid, aanhef, met maximaal 12maanden verlengen indien dat redelijkerwijze noodzakelijk is voor de afwikkeling van de verzekeringsactiviteiten via dienstverrichting van de betrokken verzekeraar.
 
-#### Artikel III
+##### Artikel III
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 

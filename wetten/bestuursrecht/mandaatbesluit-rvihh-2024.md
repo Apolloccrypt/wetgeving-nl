@@ -1,13 +1,35 @@
 ---
 title: "Mandaatbesluit RvIHH 2024"
 identifier: "BWBR0050191"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-12-25
-laatste_update: 2024-12-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050191"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-12-25"
+last_updated: "2024-12-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050191"
+soort: "ministeriele-regeling"
+stam_id: "17214803"
+version_id: "30318792"
+internal_id: "C43492461"
+label_id: "17120714"
+dtd_version: "2.0"
+original_entry_into_force: "2024-09-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050191/2024-12-25/0"
+intitule_bron: "Stcrt.2024-28659"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-09-05"
+intitule_in_force: "2024-09-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-28659"
+original_published_date: "2024-09-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-28659"
+entry_into_force_date: "2024-09-05"
+jci_1_3: "jci1.3:c:BWBR0050191&z=2024-12-25&g=2024-12-25"
+jci_1_0: "1.0:c:BWBR0050191&g=2024-12-25"
+citeertitel_status: "officieel"
+entry_into_force: "2024-09-05"
 ---
-
 # Mandaatbesluit RvIHH 2024
 
 Gelet op het **Mandaatbesluit BZK 2023** inzake het mandaat, ondermandaat en plaatsvervanging van directeuren;
@@ -18,7 +40,7 @@ Besluit inzake ondermandaat, volmacht en machtiging het navolgende:
 
 De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
-#### Artikel 1. Leiding
+##### Artikel 1. Leiding
 
 1. De directeur RvIHH (CEO) (functietitel: algemeen directeur) vormt de algemene leiding van de RvIHH.
 
@@ -34,7 +56,7 @@ De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 3. De plaatsvervanger van de directeur RvIHH is de manager van de Unit Strategie & Kennis (CIO).
 
-#### Artikel 2. Organisatie-eenheden en vervanging
+##### Artikel 2. Organisatie-eenheden en vervanging
 
 1. RvIHH bestaat uit vier eenheden:
 
@@ -52,7 +74,7 @@ De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 4. Bij afwezigheid van een manager mag een daartoe aangewezen andere manager op hetzelfde niveau en binnen dezelfde eenheid diens ondermandaat tijdelijk overnemen (horizontale vervanging), tenzij de hogere manager dit ondermandaat terugneemt.
 
-#### Artikel 3. Financieel mandaat
+##### Artikel 3. Financieel mandaat
 
 1. Het mandaat van de **directeur RvIHH** is opgenomen in het [Mandaatbesluit BZK 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048593). Daarmee is aan de directeur RvIHH mandaat verleend tot het aangaan van financiële verplichtingen voor inkopen tot een bedrag van **€ 5 miljoen** inclusief BTW, voor zover deze passen binnen de door de (plaatsvervangend) directeur-generaal VBR goedgekeurde begroting van RvIHH.
 
@@ -66,7 +88,7 @@ De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 6. De directeur RvIHH kan voor een bepaalde periode centraal **voorafgaand toezicht** instellen, waardoor het ondermandaat van managers niet wordt aangepast, maar een voorgenomen besluit wel eerst centraal moet worden voorgelegd.
 
-#### Artikel 4. Bestelgemachtigde
+##### Artikel 4. Bestelgemachtigde
 
 1. De bestelgemachtigden hebben de bevoegdheid binnen het inkoopportaal namens de gemandateerde manager (de budgethouder) zelfstandig aankopen te doen tot een bedrag van **€ 2.000** inclusief BTW.
 
@@ -74,7 +96,7 @@ De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 De lijst met bestelgemachtigden wordt bijgehouden in het financiële of inkoopsysteem.
 
-#### Artikel 5. Personeelsmandaat
+##### Artikel 5. Personeelsmandaat
 
 1. Voor het nemen van besluiten en het ondertekenen van stukken met betrekking tot indiensttreding, disciplinaire straf, schorsing of ontslag is enkel de directeur RvIHH gemandateerd.
 
@@ -82,13 +104,13 @@ De lijst met bestelgemachtigden wordt bijgehouden in het financiële of inkoopsy
 
 3. Het ondermandaat aan de directeur, de managers van de organisatie-eenheden, de afdelingshoofden en de teamleiders met betrekking tot het nemen van personele besluiten is verleend voor de in de **bijlage 2** vermelde personele aangelegenheden.
 
-#### Artikel 6. Verkoopmandaat
+##### Artikel 6. Verkoopmandaat
 
 1. Voor het nemen van besluiten tot het aangaan van verbintenissen tot het leveren van bestaande diensten door RvIHH aan bestaande klanten en het ondertekenen van desbetreffende stukken heeft, binnen de grenzen van het financiële mandaat, ondermandaat: de manager van de in [artikel 2 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050191&artikel=2&z=2024-12-25&g=2024-12-25) genoemde organisatie-eenheden en de daarbinnen opererende afdelingshoofden en teammanagers voor wat betreft de eigen organisatie-eenheid.
 
 2. Nieuwe dienstverleningsafspraken boven de € 5 miljoen worden voorgelegd aan de (plaatsvervangend) directeur-generaal VBR en boven de € 10 miljoen aan de secretaris-generaal.
 
-#### Artikel 7. Volmacht en machtiging
+##### Artikel 7. Volmacht en machtiging
 
 1. Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met de verlening van ondermandaat gelijkgesteld de verlening van:
 
@@ -98,7 +120,7 @@ De lijst met bestelgemachtigden wordt bijgehouden in het financiële of inkoopsy
 
 2. Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met het nemen van besluiten gelijkgesteld het verrichten van privaatrechtelijke rechtshandelingen en handelingen die een besluit noch een privaatrechtelijke rechtshandeling zijn.
 
-#### Artikel 8. Ondermandaatbesluiten en mandaatregister
+##### Artikel 8. Ondermandaatbesluiten en mandaatregister
 
 1. De **afdelingsmanager Financiën & Control** is de beheerder van het mandaatregister en verantwoordelijk voor:
 
@@ -112,15 +134,15 @@ De lijst met bestelgemachtigden wordt bijgehouden in het financiële of inkoopsy
 
 3. De managers worden geacht alle wijzigingen ten aanzien van namen, functies en bevoegdheden tijdig te laten melden aan de beheerder van het mandaatregister.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Deze regeling wordt gepubliceerd in de Staatscourant en treedt in werking per 1 september 2024
 
-#### Artikel 10. Intrekking voorgaande besluiten
+##### Artikel 10. Intrekking voorgaande besluiten
 
 Dit besluit vervangt alle voorgaande mandaatregelingen van RvIHH en haar rechtsvoorgangers.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Dit besluit wordt aangehaald als: **Mandaatbesluit RvIHH 2024**.
 

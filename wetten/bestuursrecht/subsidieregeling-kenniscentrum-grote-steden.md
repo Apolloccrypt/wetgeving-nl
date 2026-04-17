@@ -1,13 +1,38 @@
 ---
 title: "Subsidieregeling Kenniscentrum Grote Steden"
 identifier: "BWBR0018429"
-categorie: "Bestuursrecht"
-publicatiedatum: 2005-08-25
-laatste_update: 2005-08-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018429"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2005-08-25"
+last_updated: "2005-08-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018429"
+soort: "ministeriele-regeling"
+stam_id: "7298383"
+version_id: "12231962"
+internal_id: "C16464991"
+label_id: "7286324"
+dtd_version: "2.0"
+original_entry_into_force: "2005-08-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018429/2005-08-25/0"
+intitule_bron: "Stcrt.2005-162"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-06-13"
+intitule_published: "2005-08-23"
+intitule_in_force: "2005-08-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-162"
+original_signed_date: "2005-06-13"
+original_published_date: "2005-08-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-162-p9-SC71243"
+entry_into_force_date: "2005-08-25"
+jci_1_3: "jci1.3:c:BWBR0018429&z=2005-08-25&g=2005-08-25"
+jci_1_0: "1.0:c:BWBR0018429&g=2005-08-25"
+citeertitel_status: "officieel"
+signed_date: "2005-06-13"
+entry_into_force: "2005-08-25"
 ---
-
 # Subsidieregeling Kenniscentrum Grote Steden
 
 Gelet op [artikel 2 van de Wet overige BiZa-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009055&artikel=2) en [artikel 34 van het Besluit brede doeluitkering sociaal, integratie en veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=34);
@@ -16,7 +41,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +55,7 @@ In deze regeling wordt verstaan onder:
 
 - e. het basisprogramma Grote Steden: het door het Rijk en de Steden gezamenlijk te subsidiëren programma voor een bepaald kalenderjaar, waarin de aard, de omvang en de doelstelling van de activiteiten worden beschreven.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Minister verstrekt jaarlijks een subsidie aan het Kenniscentrum overeenkomstig deze regeling ten behoeve van het uitvoeren van het door het Kenniscentrum opgestelde basisprogramma Grote Steden.
 
@@ -38,7 +63,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. De subsidieverlening en vaststelling
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het Kenniscentrum dient de aanvraag tot subsidieverlening voor het volgende jaar uiterlijk in op 15 oktober voorafgaand aan het kalenderjaar waarop de subsidie betrekking heeft.
 
@@ -50,7 +75,7 @@ In deze regeling wordt verstaan onder:
 
 - c. een raming van de kosten en de baten (begroting).
 
-#### Artikel 4
+##### Artikel 4
 
 1. De minister beoordeelt voor 1 januari de subsidieaanvraag, mede aan de hand van de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018429&paragraaf=2&artikel=3&z=2005-08-25&g=2005-08-25), genoemde gegevens.
 
@@ -58,7 +83,7 @@ In deze regeling wordt verstaan onder:
 
 3. De subsidie wordt verleend onder de voorwaarde dat door de begrotingswetgever voldoende middelen ter beschikking worden gesteld.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De minister verleent voorschotten per kalenderjaar.
 
@@ -72,7 +97,7 @@ In deze regeling wordt verstaan onder:
 
 4. De minister kan een voorschot een maand eerder of later verlenen, nadat het Kenniscentrum hiervan in kennis is gesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De aanvraag tot subsidievaststelling wordt uiterlijk 1 juni van het jaar na het kalenderjaar ingediend bij de minister.
 
@@ -90,17 +115,17 @@ In deze regeling wordt verstaan onder:
 
 #### § 3. De verplichtingen van de subsidieontvanger
 
-#### Artikel 7
+##### Artikel 7
 
 1. De uitvoering van het basisprogramma Grote Steden start binnen het jaar waarvoor de subsidie is verleend.
 
 2. Indien het Kenniscentrum een wijziging aanbrengt in de doelstelling, looptijd of financiering van het basisprogramma Grote Steden dan wel afziet van de in het basisprogramma Grote Steden vermelde activiteiten, deelt het Kenniscentrum dit onverwijld schriftelijk mede aan de minister.
 
-#### Artikel 8
+##### Artikel 8
 
 Het Kenniscentrum verschaft de minister op diens verzoek te allen tijde inlichtingen omtrent de voortgang en de resultaten van de activiteiten ingevolge het basisprogramma Grote Steden.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Voor de activiteiten van het Kenniscentrum die op basis van het basisprogramma Grote Steden worden verricht en voor de overige activiteiten van het Kenniscentrum wordt een gescheiden administratie gevoerd.
 
@@ -108,11 +133,11 @@ Het Kenniscentrum verschaft de minister op diens verzoek te allen tijde inlichti
 
 #### § 4. Overige en slotbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling wordt aangehaald als: Subsidieregeling Kenniscentrum Grote Steden.
 

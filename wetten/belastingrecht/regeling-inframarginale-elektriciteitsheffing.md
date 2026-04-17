@@ -1,20 +1,46 @@
 ---
-title: "Regeling inframarginale elektriciteitsheffing"
+title: "Regeling van de Minister van Klimaat en Groene Groei en de Staatssecretaris van Financiën van 14 juli 2024, nr. WJZ/ 34586198, houdende nadere regels voor de berekening van marktinkomsten uit de productie van elektriciteit ten behoeve van de Tijdelijke wet inframarginale elektriciteitsheffing en aanvulling van de Regeling elektronisch berichtenverkeer Belastingdienst (Regeling inframarginale elektriciteitsheffing)"
 identifier: "BWBR0050062"
-categorie: "Belastingrecht"
-publicatiedatum: 2024-07-25
-laatste_update: 2024-07-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050062"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-07-25"
+last_updated: "2024-07-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050062"
+soort: "ministeriele-regeling"
+stam_id: "17189213"
+version_id: "30260862"
+internal_id: "C43339991"
+label_id: "17097154"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050062/2024-07-25/0"
+intitule_bron: "Stcrt.2024-23670"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-07-14"
+intitule_published: "2024-07-24"
+intitule_in_force: "2024-07-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-23670"
+original_signed_date: "2024-07-14"
+original_published_date: "2024-07-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-23670"
+entry_into_force_date: "2024-07-25"
+jci_1_3: "jci1.3:c:BWBR0050062&z=2024-07-25&g=2024-07-25"
+jci_1_0: "1.0:c:BWBR0050062&g=2024-07-25"
+citeertitel_status: "officieel"
+short_title: "Regeling inframarginale elektriciteitsheffing"
+signed_date: "2024-07-14"
+entry_into_force: "2024-07-25"
 ---
-
 # Regeling van de Minister van Klimaat en Groene Groei en de Staatssecretaris van Financiën van 14 juli 2024, nr. WJZ/ 34586198, houdende nadere regels voor de berekening van marktinkomsten uit de productie van elektriciteit ten behoeve van de Tijdelijke wet inframarginale elektriciteitsheffing en aanvulling van de Regeling elektronisch berichtenverkeer Belastingdienst (Regeling inframarginale elektriciteitsheffing)
 
 Gelet op de [artikelen 7, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&artikel=7), [8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&artikel=8), [10, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&artikel=10), en [11, zesde lid, van de Tijdelijke wet inframarginale elektriciteitsheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&artikel=11), [artikel 3a, derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=3a) en [artikel 7c, tweede en derde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=7c);
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - **wet:** [Tijdelijke wet inframarginale elektriciteitsheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0050059).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De hoeveelheid opgewekte en ingevoede elektriciteit, bedoeld in de [artikelen 7, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&artikel=7), [8, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&artikel=8), en [10, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&artikel=10) is de hoeveelheid ingevoede elektriciteit die is gemeten op de aansluiting van de productie-installatie conform de krachtens de [Meetcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037946) gestelde regels met betrekking tot het meten.
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 4. De hoeveelheid opgewekte en ingevoede elektriciteit die is ingezet voor redispatch of compensatiehandel, bedoeld in de [artikelen 7, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&artikel=7), [8, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&artikel=8), en [10, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&artikel=10) is de totale hoeveelheid elektriciteit waarvoor de producent voor de betreffende productie-installatie overeenkomsten voor redispatch of compensatiehandel heeft gesloten.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De onbalanskosten, bedoeld in [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&artikel=8), zijn voor de maand december 2022 gelijk aan de absolute onbalanskosten die ten grondslag liggen aan de krachtens de [Regeling vaststelling definitieve correcties duurzame energieproductie en klimaattransitie 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0048099) en het [Besluit vaststelling definitieve correctiebedragen voor 2022 bij de Subsidieregeling coöperatieve energieopwekking](https://wetten.overheid.nl/jci1.3:c:BWBR0048103) vastgestelde correctiebedragen en bedragen:
 
@@ -64,11 +90,11 @@ In deze regeling wordt verstaan onder:
 
 - c. € 17,20 per megawattuur voor elektriciteit opgewekt uit zonne-energie.
 
-#### Artikel 4
+##### Artikel 4
 
 De prijs voor elektriciteit op de day-ahead-markt voor de biedzone Nederland voor de uren in de kalendermaanden van het heffingstijdvak, bedoeld in [artikel 8, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&artikel=8), is de prijs zoals opgenomen in de bijlage bij deze regeling.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een vergelijkbare aankoopovereenkomst als bedoeld in [artikel 10, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&artikel=10) is het aanbod tegen de afwikkelingsprijs van een EEX Dutch Power Future van dezelfde datum, voor hetzelfde leveringsprofiel en voor dezelfde periode van levering als van de te vergelijken overeenkomst.
 
@@ -104,15 +130,15 @@ De prijs voor elektriciteit op de day-ahead-markt voor de biedzone Nederland voo
 
 - b. de uitgaven voor aankoop van elektriciteit bij de te vergelijken aankoopovereenkomst ten minste 30% lager zijn dan de vergelijkbare aankoopovereenkomst, bedoeld in het tweede lid.
 
-#### Artikel 6
+##### Artikel 6
 
 De producent dient het marktinkomstenverslag digitaal in bij de Nederlandse emissieautoriteit en maakt hierbij gebruik van het model dat de Nederlandse emissieautoriteit digitaal ter beschikking stelt.
 
-#### Artikel 7
+##### Artikel 7
 
 De verificatie van de getrouwheid van het marktinkomstenverslag, bedoeld in [artikel 11, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&artikel=11), vindt plaats conform het protocol dat de Nederlandse emissieautoriteit hiervoor digitaal ter beschikking stelt.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt de Regeling elektronisch berichtenverkeer Belastingdienst.
 

@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsregeling 2009 Rijksoctrooiwet 1995"
+title: "Regeling van de Minister van Economische Zaken van 6 november 2009, nr. WJZ / 9196477, houdende vaststelling van regels ter uitvoering van de Rijksoctrooiwet 1995 en het Uitvoeringsbesluit Rijksoctrooiwet 1995 (Uitvoeringsregeling 2009 Rijksoctrooiwet 1995)"
 identifier: "BWBR0026646"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2010-04-01
-laatste_update: 2010-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026646"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-04-01"
+last_updated: "2010-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026646"
+soort: "ministeriele-regeling"
+stam_id: "10275743"
+version_id: "16817792"
+internal_id: "C23152581"
+label_id: "10251454"
+dtd_version: "2.0"
+original_entry_into_force: "2010-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026646/2010-04-01/0"
+intitule_bron: "Stcrt.2009-17294"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-11-06"
+intitule_published: "2009-11-17"
+intitule_in_force: "2009-11-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-17294"
+original_signed_date: "2009-11-06"
+original_published_date: "2009-11-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-17294"
+entry_into_force_date: "2010-04-01"
+jci_1_3: "jci1.3:c:BWBR0026646&z=2010-04-01&g=2010-04-01"
+jci_1_0: "1.0:c:BWBR0026646&g=2010-04-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsregeling 2009 Rijksoctrooiwet 1995"
+signed_date: "2009-11-06"
+entry_into_force: "2010-04-01"
 ---
-
 # Regeling van de Minister van Economische Zaken van 6 november 2009, nr. WJZ / 9196477, houdende vaststelling van regels ter uitvoering van de Rijksoctrooiwet 1995 en het Uitvoeringsbesluit Rijksoctrooiwet 1995 (Uitvoeringsregeling 2009 Rijksoctrooiwet 1995)
 
 Gelet op de [artikelen 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=24), en [52, tweede lid, van de Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=52) en de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&artikel=13), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&artikel=14a) en [14c van het Uitvoeringsbesluit Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&artikel=14c);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 1. Algemeen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een mededeling anders dan een aanvrage om octrooi is een schriftelijk door de afzender ondertekend stuk dat ten minste bevat:
 
@@ -42,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 3. Indien de afzender, bedoeld in het eerste lid, namens een aanvrager om octrooi, octrooihouder of andere belanghebbende bij een octrooi optreedt, bevat de mededeling tevens de naam en het adres van degene namens wie hij optreedt. Indien een gemachtigde optreedt, geldt het adres van de gemachtigde als het correspondentieadres tenzij degene voor wie hij optreedt uitdrukkelijk een afwijkend correspondentieadres heeft vermeld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Indien niet is voldaan aan een of meer voorschriften als bedoeld in [artikel 15, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&artikel=15) brengt het bureau de betrokkene hiervan zo spoedig mogelijk op de hoogte en stelt hem in de gelegenheid hieraan alsnog te voldoen binnen drie maanden te rekenen vanaf de datum waarop een desbetreffende kennisgeving is gedaan.
 
@@ -50,13 +76,13 @@ In deze regeling wordt verstaan onder:
 
 3. Indien het bureau redelijke grond voor twijfel heeft over de identiteit of de kwalificaties van de ondertekenaar van een mededeling, kan het bureau van betrokkene ter zake bewijs verlangen.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien dagtekening van een mededeling krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118) is vereist en deze ontbreekt, geldt als dagtekening de dag waarop het bureau de mededeling heeft ontvangen.
 
 #### § 2. Octrooiaanvragen
 
-#### Artikel 5
+##### Artikel 5
 
 1. De aanvrage om octrooi en de bij een aanvrage om octrooi behorende beschrijving, tekeningen en uittreksel worden in enkelvoud ingediend.
 
@@ -68,11 +94,11 @@ Indien dagtekening van een mededeling krachtens de [wet](https://wetten.overheid
 
 5. Wanneer bij een niet-elektronisch ingediende aanvrage de dagtekening ontbreekt, geldt als dagtekening de datum waarop het bureau de ondertekende aanvrage heeft ontvangen.
 
-#### Artikel 6
+##### Artikel 6
 
 Op een aanvrage als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026646&hoofdstuk=2&paragraaf=2&artikel=5&z=2010-04-01&g=2010-04-01), zijn niet van toepassing de [artikelen 8, onderdelen a en b, uitgezonderd het voorschrift de beschrijving op formaat A4 (29,7 x 21 cm) te plaatsen, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0026646&hoofdstuk=2&paragraaf=2&artikel=8&z=2010-04-01&g=2010-04-01), [9, onderdelen a, uitgezonderd het voorschrift de tekening op formaat A4 (29,7 x 21 cm) te plaatsen, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0026646&hoofdstuk=2&paragraaf=2&artikel=9&z=2010-04-01&g=2010-04-01), en [10, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0026646&hoofdstuk=2&paragraaf=2&artikel=10&z=2010-04-01&g=2010-04-01), uitgezonderd het voorschrift het uittreksel op formaat A4 (29,7 x 21 cm) te plaatsen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De in [artikel 52 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=52) bedoelde vertalingen van Europese octrooischriften en de verbeterde vertalingen daarvan worden in tweevoud ingediend.
 
@@ -84,7 +110,7 @@ Op een aanvrage als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl
 
 5. Van aanvragen en documenten die zowel elektronisch als op papier zijn ingediend, wordt de papieren versie onmiddellijk teruggezonden onder de mededeling dat de elektronische versie in behandeling zal worden genomen.
 
-#### Artikel 8
+##### Artikel 8
 
 De bij een aanvrage om octrooi behorende beschrijving voldoet aan de volgende voorschriften:
 
@@ -128,7 +154,7 @@ De bij een aanvrage om octrooi behorende beschrijving voldoet aan de volgende vo
 
 - 2°. wordt de aanvrage vergezeld van een elektronische gegevensdrager die de onder 1° bedoelde sequentie-opsomming bevat in een machine-leesbare vorm die voldoet aan de door het Europees Octrooibureau vastgestelde criteria.
 
-#### Artikel 9
+##### Artikel 9
 
 De bij een aanvrage om octrooi behorende tekeningen voldoen aan de volgende vormvoorschriften:
 
@@ -154,7 +180,7 @@ De bij een aanvrage om octrooi behorende tekeningen voldoen aan de volgende vorm
 
 - k. de tekeningen bevatten geen verklarende tekst met uitzondering van in het Nederlands gestelde aanduidingen als water, stoom, II-II (voor een doorsnede), open, dicht en, wat elektrische blokschema’s of fabricageschema’s betreft, de aanduidingen nodig voor een goed begrip daarvan.
 
-#### Artikel 10
+##### Artikel 10
 
 Het bij een aanvrage om octrooi behorende uittreksel voldoet aan de volgende vereisten:
 
@@ -164,13 +190,13 @@ Het bij een aanvrage om octrooi behorende uittreksel voldoet aan de volgende ver
 
 - c. het bevat in beginsel slechts één figuur die op een afzonderlijk blad A4 wordt ingediend.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Aan het vereiste van ondertekening van een aanvrage om octrooi is voldaan door een elektronische handtekening, indien de methode die daarbij voor authentificatie is gebruikt voldoende betrouwbaar is, gelet op de aard en de inhoud van het elektronische bericht en het doel waarvoor het wordt gebruikt. De [artikelen 15a, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15a), en [15b van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15b) zijn van overeenkomstige toepassing, voor zover de aard van het bericht zich daartegen niet verzet.
 
 2. Wanneer bij een niet-elektronisch ingediende aanvrage de dagtekening ontbreekt, geldt als dagtekening de datum waarop het bureau de ondertekende aanvrage heeft ontvangen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Als tijdstip waarop een bericht door het bureau elektronisch is verzonden, geldt het tijdstip waarop het bericht een systeem voor gegevensverwerking bereikt waarover het bureau geen controle heeft of, indien het bureau en de geadresseerde gebruik maken van hetzelfde systeem voor gegevensverwerking, het tijdstip waarop het bericht toegankelijk wordt voor de geadresseerde.
 
@@ -178,7 +204,7 @@ Het bij een aanvrage om octrooi behorende uittreksel voldoet aan de volgende ver
 
 #### § 3. Verzoek tot wijziging van naam of adres
 
-#### Artikel 13
+##### Artikel 13
 
 1. Een door de aanvrager om octrooi of octrooihouder ondertekend en ingediend verzoek tot wijziging van zijn naam of adres bevat:
 
@@ -194,19 +220,19 @@ Het bij een aanvrage om octrooi behorende uittreksel voldoet aan de volgende ver
 
 3. Een enkel verzoek volstaat ook wanneer de wijziging betrekking heeft op meer dan één aanvrage of octrooi van dezelfde persoon dan wel op een of meer aanvragen en een of meer octrooien van dezelfde persoon, mits de nummers van de aanvragen en octrooien in het verzoekschrift worden vermeld.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Indien niet is voldaan aan een of meer voorschriften als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0026646&hoofdstuk=2&paragraaf=3&artikel=13&z=2010-04-01&g=2010-04-01), stelt het bureau de betrokkene hiervan zo spoedig mogelijk in kennis en biedt het deze de gelegenheid hieraan alsnog te voldoen binnen twee maanden te rekenen vanaf de datum waarop een desbetreffende kennisgeving is gedaan.
 
 2. Het bureau kan de verzochte wijziging weigeren in het octrooiregister aan te tekenen, indien niet binnen de termijn de ontbrekende of juiste gegevens zijn verstrekt.
 
-#### Artikel 15
+##### Artikel 15
 
 De [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0026646&hoofdstuk=2&paragraaf=3&artikel=13&z=2010-04-01&g=2010-04-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0026646&hoofdstuk=2&paragraaf=3&artikel=14&z=2010-04-01&g=2010-04-01) zijn van overeenkomstige toepassing op de gemachtigde.
 
 #### § 4. Verzoek tot wijziging van aanvrager om octrooi of octrooihouder
 
-#### Artikel 16
+##### Artikel 16
 
 1. Wanneer een wijziging plaatsvindt in de persoon van een aanvrager om een octrooi of een octrooihouder aanvaardt het bureau een door de aanvrager of de houder dan wel van diens rechtsopvolger ondertekend en ingediend verzoek tot inschrijving van de wijziging in het octrooiregister.
 
@@ -234,11 +260,11 @@ De [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0026646&hoofdstuk=2&pa
 
 6. Indien een verzoek tot wijziging van de tenaamstelling van een octrooiaanvrage of het houderschap van een octrooi niet alle mede-aanvragers of mede-houders betreft, kan het bureau van elke mede-aanvrager of mede-eigenaar ten aanzien van wie geen wijzigingen plaatsvindt bewijs van instemming met de wijziging verlangen.
 
-#### Artikel 17
+##### Artikel 17
 
 Een enkel verzoek tot wijziging van de tenaamstelling van een octrooiaanvrage of het houderschap van een octrooi volstaat zelfs wanneer de wijziging betrekking heeft op meer dan één aanvrage of octrooi van dezelfde persoon dan wel op een of meer aanvragen en een of meer octrooien van dezelfde persoon, mits deze wijziging van de aanvrager of houder dezelfde is voor alle betrokken aanvragen en octrooien en de nummers ervan in het verzoek worden vermeld.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Indien het verzoek niet voldoet aan het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026646&hoofdstuk=2&paragraaf=4&artikel=16&z=2010-04-01&g=2010-04-01), stelt het bureau de indiener van het verzoek hiervan in kennis en biedt hem gelegenheid hieraan alsnog te voldoen binnen twee maanden te rekenen vanaf de datum waarop een desbetreffende kennisgeving is gedaan.
 
@@ -246,7 +272,7 @@ Een enkel verzoek tot wijziging van de tenaamstelling van een octrooiaanvrage of
 
 ### Hoofdstuk 3. Inschrijving licentie, pandrecht en beslag
 
-#### Artikel 19
+##### Artikel 19
 
 1. Een aanvrage tot inschrijving van een licentie kan worden gedaan door middel van een door de licentiegever of de licentienemer ondertekende mededeling die de volgende gegevens bevat:
 
@@ -268,33 +294,33 @@ Een enkel verzoek tot wijziging van de tenaamstelling van een octrooiaanvrage of
 
 - b. een notarieel gewaarmerkt uittreksel van de overeenkomst waaruit in elk geval de gelicentieerde rechten en de strekking van deze rechten blijken.
 
-#### Artikel 20
+##### Artikel 20
 
 Een enkel verzoek tot inschrijving van een licentie volstaat zelfs wanneer het verzoek betrekking heeft op meer dan één octrooi van dezelfde persoon of op één of meer octrooien van dezelfde persoon, mits de inschrijving dezelfde is voor alle betrokken licenties en de nummers ervan in het verzoek worden vermeld.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Indien niet is voldaan aan een of meer voorschriften, gesteld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026646&hoofdstuk=3&artikel=19&z=2010-04-01&g=2010-04-01), stelt het bureau de betrokkene hiervan zo spoedig mogelijk in kennis en biedt het deze de gelegenheid hieraan alsnog te voldoen binnen twee maanden te rekenen vanaf de datum waarop een desbetreffende kennisgeving is gedaan.
 
 2. Het bureau kan het verzoek om inschrijving van een licentie als bedoeld in het eerste lid weigeren in behandeling te nemen, indien niet binnen de termijn, bedoeld in het eerste lid, de ontbrekende of juiste gegevens zijn verstrekt.
 
-#### Artikel 22
+##### Artikel 22
 
 Op een verzoek tot inschrijving van een pandrecht op een octrooi of een aanvrage om octrooi zijn de [artikelen 19 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0026646&hoofdstuk=3&artikel=19&z=2010-04-01&g=2010-04-01) van overeenkomstige toepassing.
 
-#### Artikel 23
+##### Artikel 23
 
 Op een verzoek tot inschrijving van een beslag op een octrooi of een aanvrage om octrooi zijn de [artikelen 19 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0026646&hoofdstuk=3&artikel=19&z=2010-04-01&g=2010-04-01) van overeenkomstige toepassing.
 
-#### Artikel 24
+##### Artikel 24
 
 De [Uitvoeringsregeling Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0014998) wordt ingetrokken.
 
-#### Artikel 25
+##### Artikel 25
 
 Deze regeling treedt in werking met ingang van 1 april 2010.
 
-#### Artikel 26
+##### Artikel 26
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling 2009 Rijksoctrooiwet 1995.
 

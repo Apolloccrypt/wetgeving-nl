@@ -1,20 +1,46 @@
 ---
-title: "Besluit openstelling Subsidieregeling coöperatieve energieopwekking 2024"
+title: "Besluit van de Minister voor Klimaat en Energie van 18 maart 2024, nr. WJZ/ 45338525, tot openstelling van de Subsidieregeling coöperatieve energieopwekking 2024 (Besluit openstelling Subsidieregeling coöperatieve energieopwekking 2024)"
 identifier: "BWBR0049501"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-04-02
-laatste_update: 2024-04-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049501"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-04-02"
+last_updated: "2024-04-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049501"
+soort: "ministeriele-regeling"
+stam_id: "17058893"
+version_id: "30017132"
+internal_id: "C43027241"
+label_id: "16968334"
+dtd_version: "2.0"
+original_entry_into_force: "2024-04-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049501/2024-04-02/0"
+intitule_bron: "Stcrt.2024-8915"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-03-18"
+intitule_published: "2024-03-22"
+intitule_in_force: "2024-03-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-8915"
+original_signed_date: "2024-03-18"
+original_published_date: "2024-03-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-8915"
+entry_into_force_date: "2024-04-02"
+jci_1_3: "jci1.3:c:BWBR0049501&z=2024-04-02&g=2024-04-02"
+jci_1_0: "1.0:c:BWBR0049501&g=2024-04-02"
+citeertitel_status: "officieel"
+short_title: "Besluit openstelling Subsidieregeling coöperatieve energieopwekking 2024"
+signed_date: "2024-03-18"
+entry_into_force: "2024-04-02"
 ---
-
 # Besluit van de Minister voor Klimaat en Energie van 18 maart 2024, nr. WJZ/ 45338525, tot openstelling van de Subsidieregeling coöperatieve energieopwekking 2024 (Besluit openstelling Subsidieregeling coöperatieve energieopwekking 2024)
 
 Gelet op [artikel 3 van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3) en de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=2), [4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=4), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=5), [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=8), [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=9), en [24, tweede lid, van de Subsidieregeling coöperatieve energieopwekking](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=24);
 
 Besluit:
 
-#### Artikel 1. (begripsbepalingen)
+##### Artikel 1. (begripsbepalingen)
 
 In dit besluit wordt verstaan onder:
 
@@ -26,13 +52,13 @@ In dit besluit wordt verstaan onder:
 
 - **regeling:** [Subsidieregeling coöperatieve energieopwekking](https://wetten.overheid.nl/jci1.3:c:BWBR0044882).
 
-#### Artikel 2. (subsidieplafond en aanvraagperiode)
+##### Artikel 2. (subsidieplafond en aanvraagperiode)
 
 1. Het subsidieplafond voor het verlenen van subsidie voor de productie van hernieuwbare elektriciteit op grond van [artikel 2, derde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=2), die wordt aangevraagd in de periode van 2 april 2024, 09:00 uur, tot 1 november 2024, 17:00 uur, wordt vastgesteld op € 100.000.000.
 
 2. Per categorie productie-installaties kan in de periode, bedoeld in het eerste lid, per locatie waarop de productie-installatie wordt aangebracht, ten hoogste één aanvraag worden ingediend.
 
-#### Artikel 3. (aanwijzing categorieën productie-installaties)
+##### Artikel 3. (aanwijzing categorieën productie-installaties)
 
 1. Als categorieën productie-installaties waarvoor op grond van [artikel 2, derde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=2) een aanvraag tot subsidieverlening kan worden ingediend, worden aangewezen:
 
@@ -82,7 +108,7 @@ In dit besluit wordt verstaan onder:
 
 2. Het additioneel gecontracteerde terugleververmogen voor een productie-installatie voor de productie van hernieuwbare elektriciteit uit zonne-energie uitsluitend met een of meer fotovoltaïsche zonnepanelen, die zijn aangesloten op het elektriciteitsnet met een grootverbruikersaansluiting als bedoeld in het eerste lid, onderdelen b, c, d en e, bedraagt maximaal 50% van het piekvermogen van de zonnepanelen.
 
-#### Artikel 4. (uiterste ingebruiknametermijn productie-installatie)
+##### Artikel 4. (uiterste ingebruiknametermijn productie-installatie)
 
 De uiterste periodes voor het in gebruik nemen van een productie-installatie op grond van [artikel 24, tweede lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=24), worden vastgesteld op:
 
@@ -98,7 +124,7 @@ De uiterste periodes voor het in gebruik nemen van een productie-installatie op 
 
 - f. voor een productie-installatie voor de productie van hernieuwbare elektriciteit uit waterkracht bedoeld in [artikel 3, eerste lid, onderdelen i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0049501&artikel=3&z=2024-04-02&g=2024-04-02): drie jaar na de datum van de beschikking tot subsidieverlening.
 
-#### Artikel 5. (vaststelling basisbedrag, maximum aantal vollasturen, basiselektriciteitsprijs en voorlopig correctiebedrag)
+##### Artikel 5. (vaststelling basisbedrag, maximum aantal vollasturen, basiselektriciteitsprijs en voorlopig correctiebedrag)
 
 Voor een categorie productie-installaties als bedoeld in de eerste en tweede kolom van onderstaande tabel wordt:
 
@@ -138,11 +164,11 @@ Voor een categorie productie-installaties als bedoeld in de eerste en tweede kol
 | [Artikel 3, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0049501&artikel=3&z=2024-04-02&g=2024-04-02) | Waterkracht, kleinverbruikers-aansluiting, ≥ 15 kW en ≤ 100 kW | 0,170 | 5000 | Netlevering: 0,060 | Netlevering: 0,144 |
 | [Artikel 3, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0049501&artikel=3&z=2024-04-02&g=2024-04-02) | Waterkracht, grootverbruikers-aansluiting, ≥ 15 kW en ≤ 150 kW | 0,170 | 5000 | Netlevering: 0,060 | Netlevering: 0,149 |
 
-#### Artikel 5*. (inwerkingtreding)
+##### Artikel 5*. (inwerkingtreding)
 
 Dit besluit treedt in werking met ingang van 2 april 2024.
 
-#### Artikel 6. (citeertitel)
+##### Artikel 6. (citeertitel)
 
 Dit besluit wordt aangehaald als: Besluit openstelling Subsidieregeling coöperatieve energieopwekking 2024.
 

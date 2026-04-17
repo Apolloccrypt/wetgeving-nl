@@ -1,20 +1,46 @@
 ---
-title: "Besluit openstelling Subsidieregeling coöperatieve energieopwekking 2023"
+title: "Besluit van de Minister voor Klimaat en Energie van 21 november 2022, nr. WJZ/ 22484211, tot openstelling van de Subsidieregeling coöperatieve energieopwekking 2023"
 identifier: "BWBR0047507"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047507"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047507"
+soort: "ministeriele-regeling"
+stam_id: "16573093"
+version_id: "29055952"
+internal_id: "C41303091"
+label_id: "16492694"
+dtd_version: "2.0"
+original_entry_into_force: "2023-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047507/2023-01-01/0"
+intitule_bron: "Stcrt.2022-31819"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-11-21"
+intitule_published: "2022-11-23"
+intitule_in_force: "2022-11-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-31819"
+original_signed_date: "2022-11-21"
+original_published_date: "2022-11-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-31819"
+entry_into_force_date: "2023-01-01"
+jci_1_3: "jci1.3:c:BWBR0047507&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0047507&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit openstelling Subsidieregeling coöperatieve energieopwekking 2023"
+signed_date: "2022-11-21"
+entry_into_force: "2023-01-01"
 ---
-
 # Besluit van de Minister voor Klimaat en Energie van 21 november 2022, nr. WJZ/ 22484211, tot openstelling van de Subsidieregeling coöperatieve energieopwekking 2023
 
 Gelet op [artikel 3 van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3) en de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=2), [4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=4), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=5), [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=8), en [9, tweede lid, van de Subsidieregeling coöperatieve energieopwekking](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=9);
 
 Besluit:
 
-#### Artikel 1. (begripsbepalingen)
+##### Artikel 1. (begripsbepalingen)
 
 In dit besluit wordt verstaan onder:
 
@@ -26,13 +52,13 @@ In dit besluit wordt verstaan onder:
 
 - **regeling:** [Subsidieregeling coöperatieve energieopwekking](https://wetten.overheid.nl/jci1.3:c:BWBR0044882).
 
-#### Artikel 2. (subsidieplafond en aanvraagperiode)
+##### Artikel 2. (subsidieplafond en aanvraagperiode)
 
 1. Het subsidieplafond voor het verlenen van subsidie voor de productie van hernieuwbare elektriciteit op grond van [artikel 2, derde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=2), die wordt aangevraagd in de periode van 9 januari 2023, 09:00 uur, tot 1 november 2023, 17:00 uur, wordt vastgesteld op € 150.000.000.
 
 2. Per categorie productie-installaties kan in de periode, bedoeld in het eerste lid, per locatie waarop de productie-installatie wordt aangebracht, ten hoogste één aanvraag worden ingediend.
 
-#### Artikel 3. (aanwijzing categorieën productie-installaties)
+##### Artikel 3. (aanwijzing categorieën productie-installaties)
 
 1. Als categorieën productie-installaties waarvoor op grond van [artikel 2, derde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=2) een aanvraag tot subsidieverlening kan worden ingediend, worden aangewezen:
 
@@ -62,7 +88,7 @@ In dit besluit wordt verstaan onder:
 
 2. Het additioneel gecontracteerde terugleververmogen voor een productie-installatie als bedoeld in het eerste lid, onderdeel b, bedraagt maximaal 50% van het piekvermogen van de zonnepanelen.
 
-#### Artikel 4. (vaststelling basisbedrag, maximum aantal vollasturen, basiselektriciteitsprijs en voorlopig correctiebedrag)
+##### Artikel 4. (vaststelling basisbedrag, maximum aantal vollasturen, basiselektriciteitsprijs en voorlopig correctiebedrag)
 
 Voor een categorie productie-installaties als bedoeld in de eerste en tweede kolom van onderstaande tabel, wordt:
 
@@ -90,11 +116,11 @@ Voor een categorie productie-installaties als bedoeld in de eerste en tweede kol
 | [Artikel 3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0047507&artikel=3&z=2023-01-01&g=2023-01-01) | Waterkracht kleinverbruikersaansluiting ≥ 15 kW en ≤ 100 kW | 0,171 | 5000 | 0,060 | 0,225 |
 | [Artikel 3, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0047507&artikel=3&z=2023-01-01&g=2023-01-01) | Waterkracht grootverbruikersaansluiting ≥ 15 kW en ≤ 150 kW | 0,171 | 5000 | 0,060 | 0,225 |
 
-#### Artikel 5. (inwerkingtreding)
+##### Artikel 5. (inwerkingtreding)
 
 Dit besluit treedt in werking met ingang van 1 januari 2023.
 
-#### Artikel 6. (citeertitel)
+##### Artikel 6. (citeertitel)
 
 Dit besluit wordt aangehaald als: Besluit openstelling Subsidieregeling coöperatieve energieopwekking 2023.
 

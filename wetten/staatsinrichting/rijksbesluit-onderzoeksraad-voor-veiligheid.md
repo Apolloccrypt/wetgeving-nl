@@ -1,13 +1,38 @@
 ---
-title: "Rijksbesluit Onderzoeksraad voor veiligheid"
+title: "Besluit van 10 december 2004, houdende regels ter uitvoering van de Rijkswet Onderzoeksraad voor veiligheid (Rijksbesluit Onderzoeksraad voor veiligheid)"
 identifier: "BWBR0017680"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2005-10-12
-laatste_update: 2005-10-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017680"
+country: "nl"
+rank: "rijks_kb"
+publication_date: "2005-10-12"
+last_updated: "2005-10-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017680"
+soort: "rijksKB"
+stam_id: "6504313"
+version_id: "11192312"
+internal_id: "C15482621"
+label_id: "6493034"
+original_entry_into_force: "2005-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017680/2005-10-12/0"
+intitule_bron: "Stb.2004-679"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-12-10"
+intitule_published: "2004-12-23"
+intitule_in_force: "2005-01-18"
+intitule_status: "goed"
+original_publication: "Stb.2004-679"
+original_signed_date: "2004-12-10"
+original_published_date: "2004-12-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2004-679"
+entry_into_force_date: "2005-02-01"
+jci_1_3: "jci1.3:c:BWBR0017680&z=2005-10-12&g=2005-10-12"
+jci_1_0: "1.0:c:BWBR0017680&g=2005-10-12"
+citeertitel_status: "officieel"
+short_title: "Rijksbesluit Onderzoeksraad voor veiligheid"
+signed_date: "2004-12-10"
+entry_into_force: "2005-02-01"
 ---
-
 # Besluit van 10 december 2004, houdende regels ter uitvoering van de Rijkswet Onderzoeksraad voor veiligheid (Rijksbesluit Onderzoeksraad voor veiligheid)
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 14 juni 2004, nr. PRO 2004/67264, Directoraat-generaal Veiligheid, project PRO;
@@ -26,13 +51,13 @@ Treedt in werking op het tijdstip waarop de Rijkswet Onderzoeksraad voor veiligh
 
 #### § 1. Begripsomschrijving
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder rijkswet: [Rijkswet Onderzoeksraad voor veiligheid](onbekend).
 
 #### § 2. Deskundigheid van de raad
 
-#### Artikel 2
+##### Artikel 2
 
 1. De keuze van de leden van de raad, bedoeld in [artikel 6, eerste lid, van de rijkswet](onbekend), geschiedt op zodanige wijze dat in de raad ten minste deskundigheid aanwezig is op het terrein van bestuurlijke zaken, gedragswetenschappen, veiligheidskunde, milieukunde en onderzoeksmethodologie.
 
@@ -40,7 +65,7 @@ In dit besluit wordt verstaan onder rijkswet: [Rijkswet Onderzoeksraad voor veil
 
 #### § 3. Eed of belofte
 
-#### Artikel 3
+##### Artikel 3
 
 1. Alvorens zitting te nemen legt de voorzitter van de raad ofwel in handen van Onze Minister de eed af waarvan de tekst is weergegeven in het tweede lid, ofwel spreekt hij ten overstaan van Onze Minister de belofte uit, waarvan de tekst is weergegeven in het derde lid.
 
@@ -54,7 +79,7 @@ In dit besluit wordt verstaan onder rijkswet: [Rijkswet Onderzoeksraad voor veil
 
 #### § 4. Vergoedingen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor het verrichten van hun werkzaamheden in het kader van de raad ontvangen de in het tweede lid genoemde personen een vergoeding overeenkomstig het tweede tot en met het vierde en het zesde lid.
 
@@ -76,7 +101,7 @@ In dit besluit wordt verstaan onder rijkswet: [Rijkswet Onderzoeksraad voor veil
 
 #### § 5. Bevoegdheden met betrekking tot informatiemateriaal
 
-#### Artikel 5
+##### Artikel 5
 
 1. In de gevallen waarin geen maatregelen getroffen worden om de situatie ter plaatse van een voorval ongewijzigd te laten, nemen personen genoemd in [artikel 30, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=30), deze maatregelen indien de voorzitter van de raad met het oog op het door de raad te verrichten onderzoek hierom verzoekt.
 
@@ -84,7 +109,7 @@ In dit besluit wordt verstaan onder rijkswet: [Rijkswet Onderzoeksraad voor veil
 
 3. Indien de personen, genoemd in [artikel 30, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=30), om redenen genoemd in het tweede lid, niet kunnen voldoen aan het verzoek van de voorzitter, als bedoeld in het eerste lid, stellen zij de voorzitter daarvan onverwijld in kennis.
 
-#### Artikel 6
+##### Artikel 6
 
 1. In geval bij een voorval er risico bestaat voor het teloor gaan van zaken, is de voorzitter van de raad bevoegd bij een voorval direct betrokken zaken ter beschikking van de raad te stellen.
 
@@ -96,7 +121,7 @@ In dit besluit wordt verstaan onder rijkswet: [Rijkswet Onderzoeksraad voor veil
 
 #### § 6. Bevoegdheden vertegenwoordigers van een andere staat en deskundigen
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een vertegenwoordiger als bedoeld in [artikel 45, eerste, tweede of derde lid, van de rijkswet](onbekend), is, onder leiding van een door de raad aangewezen onderzoeker die de leiding over het onderzoek heeft, bevoegd:
 
@@ -126,7 +151,7 @@ In dit besluit wordt verstaan onder rijkswet: [Rijkswet Onderzoeksraad voor veil
 
 #### § 7. Zitting
 
-#### Artikel 8
+##### Artikel 8
 
 1. De voorzitter van de raad heeft de leiding over het onderzoek op de zitting. De voorzitter van de raad kan zich door de plaatsvervangende voorzitter van de raad laten vervangen. In geval van vervanging is het tweede tot en met het vijfde lid eveneens van toepassing op de plaatsvervangende voorzitter.
 
@@ -140,7 +165,7 @@ In dit besluit wordt verstaan onder rijkswet: [Rijkswet Onderzoeksraad voor veil
 
 #### § 8. Onderzoek
 
-#### Artikel 9
+##### Artikel 9
 
 1. Zodra de raad besluit tot het instellen van een onderzoek, wijst de raad een onderzoeker aan die de leiding heeft over het onderzoek.
 
@@ -148,15 +173,15 @@ In dit besluit wordt verstaan onder rijkswet: [Rijkswet Onderzoeksraad voor veil
 
 #### § 9. Slot- en strafbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 Het is een ieder verboden om onbevoegd bij een voorval betrokken zaken weg te nemen of op andere wijze aan het onderzoek te onttrekken in geval de voorzitter van de raad toepassing heeft geeft aan [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017680&paragraaf=5&artikel=6&z=2005-10-12&g=2005-10-12).
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit treedt in werking op het krachtens [artikel 97, eerste lid, eerste volzin, van de rijkswet](onbekend) vastgestelde tijdstip.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit rijksbesluit wordt aangehaald als: Rijksbesluit Onderzoeksraad voor veiligheid.
 

@@ -1,20 +1,44 @@
 ---
 title: "Instellingsbeschikking Rijksbureau voor Aardolieprodukten 1973"
 identifier: "BWBR0002909"
-categorie: "Bestuursrecht"
-publicatiedatum: 1973-11-14
-laatste_update: 1973-11-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002909"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1973-11-14"
+last_updated: "1973-11-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002909"
+soort: "ministeriele-regeling"
+stam_id: "3718593"
+version_id: "5501502"
+internal_id: "C5694591"
+label_id: "3698384"
+dtd_version: "2.0"
+original_entry_into_force: "1973-11-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002909/1973-11-14/0"
+intitule_bron: "Stcrt.1973-220"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1973-11-13"
+intitule_published: "1973-11-13"
+intitule_in_force: "1973-11-13"
+intitule_status: "goed"
+original_publication: "Stcrt.1973-220"
+original_signed_date: "1973-11-13"
+original_published_date: "1973-11-13"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1973-11-14"
+jci_1_3: "jci1.3:c:BWBR0002909&z=1973-11-14&g=1973-11-14"
+jci_1_0: "1.0:c:BWBR0002909&g=1973-11-14"
+citeertitel_status: "officieel"
+signed_date: "1973-11-13"
+entry_into_force: "1973-11-14"
 ---
-
 # Instellingsbeschikking Rijksbureau voor Aardolieprodukten 1973
 
 Gelet op de [Distributiewet 1939](https://wetten.overheid.nl/jci1.3:c:BWBR0001997) (Stb. 633),
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
 
@@ -26,7 +50,7 @@ In deze beschikking wordt verstaan onder:
 
 - D. minister: de Minister van Economische Zaken.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is voor aangelegenheden, de distributie van aardolie en aardolieprodukten betreffende, een Rijksbureau voor Aardolieprodukten. Het Rijksbureau staat onder leiding van een directeur.
 
@@ -34,7 +58,7 @@ In deze beschikking wordt verstaan onder:
 
 3. Voor de vervulling van zijn taak kan de directeur, onder goedkeuring van de minister, werkzaamheden laten verrichten door andere dan bij het Rijksbureau voor Aardolieprodukten werkzame personen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Ondernemers die hun bedrijf maken van de handel in benzine, petroleum, gasolie of stookoliën en in het voorafgaande kalenderjaar ten minste 150 m⁳ van deze produkten aan andere verbruikers dan weggebruikers hebben afgeleverd, zijn verplicht zich schriftelijk aan te melden door inzending bij het Rijksbureau voor Aardolieprodukten van een behoorlijk ingevuld en door hen ondertekend aanmeldingsformulier, dat hiertoe door genoemd Rijksbureau verkrijgbaar wordt gesteld. De tekst van dit formulier wordt door de minister vastgesteld.
 
@@ -48,18 +72,18 @@ In deze beschikking wordt verstaan onder:
 
 4. Een krachtens het tweede lid vastgestelde beschikking wordt in de Staatscourant bekendgemaakt.
 
-#### Artikel 4
+##### Artikel 4
 
 Ondernemers en verbruikers, die ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002909&artikel=3&z=1973-11-14&g=1973-11-14) verplicht zijn tot de in dat artikel bedoelde aanmelding, zijn, indien de minister dat verzoekt, tevens verplicht de gegevens, gevraagd in het krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002909&artikel=3&z=1973-11-14&g=1973-11-14) vastgestelde aanmeldingsformulier, te verstrekken met betrekking tot andere tijdsruimten of tijdstippen dan die, welke in dat formulier zijn aangegeven.
 
-#### Artikel 5
+##### Artikel 5
 
 Van de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002909&artikel=3&z=1973-11-14&g=1973-11-14) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002909&artikel=4&z=1973-11-14&g=1973-11-14) genoemde verplichtingen kan de minister, op verzoek, ontheffing verlenen. De ontheffingen kunnen onder beperkingen worden verleend. Aan de ontheffingen kunnen voorschriften worden verbonden.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze beschikking kan worden aangehaald als ‘Instellingsbeschikking Rijksbureau voor Aardolieprodukten 1973’.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze beschikking wordt in de Staatscourant bekendgemaakt. Zij treedt in werking met ingang van de dag volgende op die van haar bekendmaking.

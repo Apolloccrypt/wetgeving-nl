@@ -1,20 +1,46 @@
 ---
-title: "Toezichtbeleidsbrief erkenninghouders RDW 2018"
+title: "Toezichtbeleid erkenninghouders RDW 2018"
 identifier: "BWBR0040731"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-06-25
-laatste_update: 2019-06-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040731"
+country: "nl"
+rank: "zbo"
+publication_date: "2019-06-25"
+last_updated: "2019-06-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040731"
+soort: "zbo"
+stam_id: "14570243"
+version_id: "25891762"
+internal_id: "C36898301"
+label_id: "14523984"
+dtd_version: "2.0"
+original_entry_into_force: "2019-06-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040731/2019-06-25/0"
+intitule_bron: "Stcrt.2018-14949"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-03-05"
+intitule_published: "2018-03-19"
+intitule_in_force: "2018-03-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-34410"
+original_signed_date: "2019-06-03"
+original_published_date: "2019-06-24"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2019-34410"
+entry_into_force_date: "2019-06-03"
+jci_1_3: "jci1.3:c:BWBR0040731&z=2019-06-25&g=2019-06-25"
+jci_1_0: "1.0:c:BWBR0040731&g=2019-06-25"
+citeertitel_status: "officieel"
+short_title: "Toezichtbeleidsbrief erkenninghouders RDW 2018"
+signed_date: "2019-06-03"
+entry_into_force: "2019-06-03"
 ---
-
 # Toezichtbeleid erkenninghouders RDW 2018
 
 Gelet op de [Wegenverkeerswet 1994](onbekend), het [Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951), de [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671), het [Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386), het [Besluit Personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) en [artikel 4:83 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:83);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het toezichtbeleid erkenninghouders RDW wordt vastgesteld volgens [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0040731&bijlage=I&z=2019-06-25&g=2019-06-25).
 
@@ -44,7 +70,7 @@ Besluit:
 
 - l. Bijlage Tachograaftechnicus 2019.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze beleidsregel treedt in werking met ingang van 1 april 2018.
 

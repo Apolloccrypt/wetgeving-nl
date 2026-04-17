@@ -1,13 +1,39 @@
 ---
-title: "Regeling ziek- en hersteldmelding defensiepersoneel"
+title: "Ministeriële regeling van 7 mei 2003, afdeling pensioenen en sociale zekerheid, nr. P/2003002682"
 identifier: "BWBR0015042"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2007-01-01
-laatste_update: 2007-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015042"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2007-01-01"
+last_updated: "2007-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015042"
+soort: "ministeriele-regeling"
+stam_id: "4396713"
+version_id: "6173142"
+internal_id: "C14208981"
+label_id: "4375224"
+dtd_version: "2.0"
+original_entry_into_force: "2004-05-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015042/2007-01-01/0"
+intitule_bron: "Stcrt.2003-90"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-05-07"
+intitule_published: "2003-05-12"
+intitule_in_force: "2004-05-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-90"
+original_signed_date: "2003-05-07"
+original_published_date: "2003-05-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2003-090-p8-SC39888"
+entry_into_force_date: "2004-05-28"
+jci_1_3: "jci1.3:c:BWBR0015042&z=2007-01-01&g=2007-01-01"
+jci_1_0: "1.0:c:BWBR0015042&g=2007-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling ziek- en hersteldmelding defensiepersoneel"
+signed_date: "2003-05-07"
+entry_into_force: "2004-05-28"
 ---
-
 # Ministeriële regeling van 7 mei 2003, afdeling pensioenen en sociale zekerheid, nr. P/2003002682
 
 Gelet op:
@@ -20,7 +46,7 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop de wijziging van artikel 74 van het Burgerlijk Ambtenarenreglement Defensie, houdende het scheppen van een basis voor deze regeling, in werking treedt.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -56,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 - l. **verzuimbegeleiding:** de begeleiding van de werknemer die door ziekte niet in staat is zijn arbeid te verrichten, zoals genoemd in de [Arbo-wet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346).
 
-#### Artikel 2. Verplichtingen van de werknemer
+##### Artikel 2. Verplichtingen van de werknemer
 
 1. De werknemer die wegens ziekte of anderszins verhinderd is zijn arbeid te verrichten, dient zo spoedig mogelijk, doch uiterlijk anderhalf uur na het tijdstip waarop hij zijn arbeid had behoren aan te vangen, persoonlijk zijn directe chef in te lichten omtrent deze verhindering.
 
@@ -84,7 +110,7 @@ Indien de werknemer arbeid verricht in ploegen- of continudienst dient hij zo sp
 
 8. Na de terugmelding wordt een aanspraak op teruggave van vakantieverlofdagen uitsluitend verleend voor de vakantiedagen gedurende welke, blijkens een verklaring van de behandelend arts, verhindering tot dienstverrichting zou hebben bestaan.
 
-#### Artikel 3. Verplichtingen en bevoegdheden van de commandant
+##### Artikel 3. Verplichtingen en bevoegdheden van de commandant
 
 1. De commandant is verantwoordelijk voor de verzuimbegeleiding van de werknemers werkzaam in zijn verantwoordelijkheidsgebied. Daartoe laat hij zich bijstaan door een Arbo-dienst. Van ziek- of herstelmeldingen wordt zo mogelijk op de dag van de melding, doch uiterlijk binnen de eerste drie daaropvolgende werkdagen melding gedaan aan de Arbo-dienst.
 
@@ -92,10 +118,10 @@ Indien de werknemer arbeid verricht in ploegen- of continudienst dient hij zo sp
 
 3. De commandant is bevoegd om binnen zijn ressort functionarissen aan te wijzen die namens hem de aan hem in het kader van deze regeling opgedragen handelingen verrichten.
 
-#### Artikel 4. Intrekking bestaande regelgeving
+##### Artikel 4. Intrekking bestaande regelgeving
 
 De algemene aanwijzingen bij ziekte van burgerpersoneel, DBP/BO, nummer PB 90/1512/1496, d.d. 01-05-1990, (MP 33-207/B101), de regeling ziekmelden burger- en militair personeel Koninklijke Luchtmacht (RZBMKlu), nr. P/99004871, d.d. 27-07-1999 (MP 31109/4110), de Regeling procedure ziek- en hersteldmelding KM 1997, nr. P34151 d.d. 25-03-1997 (MP 31-109/2110) en de Regeling Sociaal medische begeleiding bij ziekteverzuim militair personeel Koninklijke Landmacht, CDPO/POO, nr. KL 14.199/2-E, d.d. 16-06-1997 (MP 31-109) worden ingetrokken met ingang van de inwerkingtreding van deze regeling.
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de datum waarop de wijziging van [artikel 74 BARD](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=74), houdende het scheppen van een basis voor deze regeling, in werking treedt en kan worden aangehaald als 'Regeling ziek- en hersteldmelding defensiepersoneel'.

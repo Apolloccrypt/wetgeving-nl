@@ -1,18 +1,43 @@
 ---
 title: "Mandaatregeling Defensie Wet vervoer gevaarlijke stoffen 2010"
 identifier: "BWBR0027614"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-10-28
-laatste_update: 2022-10-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027614"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-10-28"
+last_updated: "2022-10-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027614"
+soort: "ministeriele-regeling"
+stam_id: "10519253"
+version_id: "17332152"
+internal_id: "C23917081"
+label_id: "10494204"
+dtd_version: "2.0"
+original_entry_into_force: "2010-05-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027614/2022-10-28/0"
+intitule_bron: "Stcrt.2010-6653"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-04-20"
+intitule_published: "2010-05-03"
+intitule_in_force: "2010-05-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-6653"
+original_signed_date: "2010-04-20"
+original_published_date: "2010-05-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-6653"
+entry_into_force_date: "2010-05-05"
+jci_1_3: "jci1.3:c:BWBR0027614&z=2022-10-28&g=2022-10-28"
+jci_1_0: "1.0:c:BWBR0027614&g=2022-10-28"
+citeertitel_status: "redactioneel"
+signed_date: "2010-04-20"
+entry_into_force: "2010-05-05"
 ---
-
 # Mandaatregeling Defensie Wet vervoer gevaarlijke stoffen 2010
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Mandaat en machtiging worden verleend aan:
 
@@ -36,11 +61,11 @@ Besluit:
 
 3. De functionaris, bedoeld in het eerste lid, onder a, kan de in het eerste lid, onder a bedoelde bevoegdheden geheel of gedeeltelijk schriftelijk doormandateren aan de onder hem ressorterende souschef logistiek.
 
-#### Artikel 2
+##### Artikel 2
 
 Inzake het verlenen van ontheffingen of vrijstellingen als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027614&artikel=1&z=2022-10-28&g=2022-10-28) van deze regeling wordt de voorzitter Regie overleg gevaarlijke stoffen vooraf geïnformeerd.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij de uitoefening van de machtiging respectievelijk het mandaat, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027614&artikel=1&z=2022-10-28&g=2022-10-28) van deze regeling, brengt de functionaris, bedoeld in artikel 1 van deze regeling, in de ondertekening van stukken die op basis hiervan worden ondertekend, de machtiging respectievelijk het mandaat tot uitdrukking door het opnemen van de volgende formule:
 
@@ -54,11 +79,11 @@ Handtekening
 
 Naam en voorzover van toepassing de militaire rang
 
-#### Artikel 4
+##### Artikel 4
 
 De [Mandaatregeling Defensie Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0016879) van 18 juni 2004, nr. C/2004004124 (Stcrt. 2004, nr. 123), wordt ingetrokken.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 

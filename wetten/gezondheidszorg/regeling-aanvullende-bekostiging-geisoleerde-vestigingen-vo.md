@@ -1,20 +1,46 @@
 ---
-title: "Regeling aanvullende bekostiging geïsoleerde vestigingen vo"
+title: "Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 30 augustus 2021, nr. VO/29098214, houdende regels voor de verstrekking van aanvullende bekostiging voor geïsoleerde vestigingen in het voortgezet onderwijs (Regeling aanvullende bekostiging geïsoleerde vestigingen vo)"
 identifier: "BWBR0045604"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2023-03-16
-laatste_update: 2023-03-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045604"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-03-16"
+last_updated: "2023-03-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045604"
+soort: "ministeriele-regeling"
+stam_id: "16074443"
+version_id: "28423162"
+internal_id: "C40109031"
+label_id: "16006344"
+dtd_version: "2.0"
+original_entry_into_force: "2022-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045604/2023-03-16/0"
+intitule_bron: "Stcrt.2021-40671"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-08-30"
+intitule_published: "2021-09-13"
+intitule_in_force: "2021-09-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-993"
+original_signed_date: "2021-12-07"
+original_published_date: "2022-02-09"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-993"
+entry_into_force_date: "2022-08-01"
+jci_1_3: "jci1.3:c:BWBR0045604&z=2023-03-16&g=2023-03-16"
+jci_1_0: "1.0:c:BWBR0045604&g=2023-03-16"
+citeertitel_status: "officieel"
+short_title: "Regeling aanvullende bekostiging geïsoleerde vestigingen vo"
+signed_date: "2021-12-07"
+entry_into_force: "2022-08-01"
 ---
-
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 30 augustus 2021, nr. VO/29098214, houdende regels voor de verstrekking van aanvullende bekostiging voor geïsoleerde vestigingen in het voortgezet onderwijs (Regeling aanvullende bekostiging geïsoleerde vestigingen vo)
 
 Gelet op [artikel 82 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=82) en [artikel 2.2.3 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.3);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -52,7 +78,7 @@ In deze regeling wordt verstaan onder:
 
 - **wet:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 1. De minister verstrekt aan een bevoegd gezag aanvullende bekostiging ten behoeve van geïsoleerde vestigingen in het voortgezet onderwijs. De aanvullende bekostiging bestaat uit:
 
@@ -64,7 +90,7 @@ In deze regeling wordt verstaan onder:
 
 3. Bovendien wordt geen aanvullende bekostiging verstrekt voor vestigingen die reeds op grond van [artikel 2 van de Regeling aanvullende bekostiging vo-scholen in uitzonderlijke omstandigheden](https://wetten.overheid.nl/jci1.3:c:BWBR0045607) voor aanvullende bekostiging in aanmerking komen.
 
-#### Artikel 3. Afbakening geïsoleerde vestiging
+##### Artikel 3. Afbakening geïsoleerde vestiging
 
 1. Een geïsoleerde vestiging voldoet aan ten minste één van de twee voorwaarden:
 
@@ -78,13 +104,13 @@ In deze regeling wordt verstaan onder:
 
 4. De hemelsbreed gemeten afstand tussen twee vestigingen wordt berekend door de afstand in meters te bepalen met de formule: √((x1 – x2)2 + (y1 – y2)2), waarin x1 en y1 de BAG-coördinaten zijn van het ene adres en x2 en y2 de BAG-coördinaten zijn van het andere adres.
 
-#### Artikel 4. Toeslag voor geïsoleerde vestigingen
+##### Artikel 4. Toeslag voor geïsoleerde vestigingen
 
 1. De minister verstrekt aan het bevoegd gezag van een geïsoleerde vestiging, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=3&z=2023-03-16&g=2023-03-16), daarvoor een toeslag. De hoogte van de toeslag is gelijk aan het vaste bedrag voor de hoofdvestiging van een school, bedoeld in [artikel 2, eerste lid, onderdeel a, van de Regeling bekostiging vo-scholen](onbekend).
 
 2. Indien onder een bevoegd gezag meerdere geïsoleerde vestigingen vallen die binnen 5 kilometer hemelsbreed gemeten afstand van één of meer andere geïsoleerde vestigingen van het bevoegd gezag zijn gevestigd, delen deze geïsoleerde vestigingen de in het eerste lid bedoelde toeslag.
 
-#### Artikel 5. Extra toeslag voor kleine geïsoleerde brede scholengemeenschappen
+##### Artikel 5. Extra toeslag voor kleine geïsoleerde brede scholengemeenschappen
 
 1. Een kleine geïsoleerde brede scholengemeenschap is een brede scholengemeenschap die voldoet aan de volgende voorwaarden:
 
@@ -104,7 +130,7 @@ LLX = het aantal leerlingen dat als werkelijk schoolgaand op de scholengemeensch
 
 3. Indien het aantal leerlingen op de school lager ligt dan 900, wordt in afwijking van het aantal dat volgt uit LLX gerekend met een aantal van 900 leerlingen.
 
-#### Artikel 6. Extra toeslag voor kleine brede geïsoleerde vestigingen van brede scholengemeenschappen
+##### Artikel 6. Extra toeslag voor kleine brede geïsoleerde vestigingen van brede scholengemeenschappen
 
 1. Indien op een brede scholengemeenschap op de teldatum 1.200 leerlingen of meer als werkelijk schoolgaand staan ingeschreven, verstrekt de minister aan het bevoegd gezag een extra toeslag voor een vestiging die voldoet aan de volgende voorwaarden:
 
@@ -124,7 +150,7 @@ LLY = het aantal leerlingen dat als werkelijk schoolgaand op de vestiging op de 
 
 3. Indien het aantal leerlingen op de vestiging lager ligt dan 900, wordt in afwijking van het aantal dat volgt uit LLY gerekend met een aantal van 900 leerlingen.
 
-#### Artikel 7. Beschikking en betaling
+##### Artikel 7. Beschikking en betaling
 
 1. De aanvullende bekostiging, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=4&z=2023-03-16&g=2023-03-16), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=5&z=2023-03-16&g=2023-03-16) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=6&z=2023-03-16&g=2023-03-16), wordt jaarlijks ambtshalve uiterlijk in de maand mei verstrekt.
 
@@ -136,23 +162,23 @@ LLY = het aantal leerlingen dat als werkelijk schoolgaand op de vestiging op de 
 
 3. De minister betaalt de aanvullende bekostiging ineens.
 
-#### Artikel 8. Besteding en verantwoording
+##### Artikel 8. Besteding en verantwoording
 
 1. Het bevoegd gezag besteedt de aanvullende bekostiging, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=4&z=2023-03-16&g=2023-03-16), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=5&z=2023-03-16&g=2023-03-16) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=6&z=2023-03-16&g=2023-03-16), overeenkomstig [artikel 5.39 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.39).
 
 2. De verantwoording van de aanvullende bekostiging geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132).
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 De regeling treedt in werking met ingang van 1 januari 2022.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling aanvullende bekostiging geïsoleerde vestigingen vo.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 8a. Omhang
+##### Artikel 8a. Omhang
 
 Deze regeling is mede gebaseerd op [artikel 5.9 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.9).
 

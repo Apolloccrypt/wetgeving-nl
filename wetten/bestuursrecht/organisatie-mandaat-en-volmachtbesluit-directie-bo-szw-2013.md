@@ -1,18 +1,44 @@
 ---
-title: "Organisatie-, Mandaat- en Volmachtbesluit directie BO SZW 2013"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 17 december 2013, houdende de inrichting van de directie Bestuursondersteuning alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Bestuursondersteuning (Organisatie-, mandaat- en volmachtbesluit directie BO SZW 2013)"
 identifier: "BWBR0034588"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-11-02
-laatste_update: 2023-11-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034588"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-11-02"
+last_updated: "2023-11-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034588"
+soort: "ministeriele-regeling"
+stam_id: "12533383"
+version_id: "21098422"
+internal_id: "C30285031"
+label_id: "12504034"
+dtd_version: "2.0"
+original_entry_into_force: "2013-12-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034588/2023-11-02/0"
+intitule_bron: "Stcrt.2013-36211"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-12-17"
+intitule_published: "2013-12-27"
+intitule_in_force: "2013-12-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-36211"
+original_signed_date: "2013-12-17"
+original_published_date: "2013-12-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-36211"
+entry_into_force_date: "2013-12-28"
+jci_1_3: "jci1.3:c:BWBR0034588&z=2023-11-02&g=2023-11-02"
+jci_1_0: "1.0:c:BWBR0034588&g=2023-11-02"
+citeertitel_status: "officieel"
+short_title: "Organisatie-, Mandaat- en Volmachtbesluit directie BO SZW 2013"
+signed_date: "2013-12-17"
+entry_into_force: "2013-12-28"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 17 december 2013, houdende de inrichting van de directie Bestuursondersteuning alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Bestuursondersteuning (Organisatie-, mandaat- en volmachtbesluit directie BO SZW 2013)
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Organisatie
 
-#### Artikel 2
+##### Artikel 2
 
 De directie BO bestaat uit de volgende onderdelen:
 
@@ -40,7 +66,7 @@ De directie BO bestaat uit de volgende onderdelen:
 
 #### § 3. Verantwoordelijkheden
 
-#### Artikel 3
+##### Artikel 3
 
 Het hoofd van de afdeling Bestuursadvies is verantwoordelijk voor de volgende algemene taken:
 
@@ -72,7 +98,7 @@ Het hoofd van de afdeling Bestuursadvies is verantwoordelijk voor de volgende al
 
 - n. het adviseren van de voorzitter van het Departementaal Crisiscentrum (DCC).
 
-#### Artikel 4
+##### Artikel 4
 
 Het hoofd van de afdeling Kabinetszaken, Managementondersteuning en Stukkenverkeer is verantwoordelijk voor de volgende algemene taken:
 
@@ -112,17 +138,17 @@ Het hoofd van de afdeling Kabinetszaken, Managementondersteuning en Stukkenverke
 
 - r. het uitvoeren van het rouwprotocol van SZW.
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Programmamanagers ressorterend onder de directeur BO zijn verantwoordelijk voor de uitvoering van een programma. De verantwoordelijkheden en taken worden per programma in een overeenkomst tussen de directeur BO en programmamanager expliciet beschreven.
 
 #### § 4. Bevoegdheden
 
-#### Artikel 7
+##### Artikel 7
 
 Aan de afdelingshoofden, alsmede aan de programmamanagers ressorterend onder de directie BO wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het ondertekenen van stukken die betrekking hebben op:
 
@@ -140,19 +166,19 @@ Aan de afdelingshoofden, alsmede aan de programmamanagers ressorterend onder de 
 
 - c. de door de eigen afdeling ingediende voorstellen/uitgaven zoals opgenomen in het vastgestelde bestedingsplan van de directie.
 
-#### Artikel 8
+##### Artikel 8
 
 De afdelingshoofden zijn gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=3&artikel=3&z=2023-11-02&g=2023-11-02), [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=3&artikel=4&z=2023-11-02&g=2023-11-02) en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=3&artikel=5&z=2023-11-02&g=2023-11-02), tot een bedrag van € 75.000,– inclusief BTW per overeenkomst.
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Programmamanagers ressorterend onder de directeur Bestuursondersteuning zijn gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=3&artikel=6&z=2023-11-02&g=2023-11-02), tot een bedrag van € 5.000,– per overeenkomst.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Bij afwezigheid van de directeur worden diens taken en bevoegdheden verricht onderscheidenlijk uitgeoefend door de door hem aangewezen functionarissen voor de duur van de afwezigheid of verhindering.
 
@@ -174,7 +200,7 @@ Besluit:
 
 #### § 5. Slotbepaling
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit directie BO SZW 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030337) wordt ingetrokken.
 
@@ -184,7 +210,7 @@ Besluit:
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-#### Artikel 11a
+##### Artikel 11a
 
 Aan de teamleider wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op personeelsaangelegenheden ten behoeve van medewerkers van de eigen organisatorische eenheid, met uitzondering van het vaststellen van beoordelingen en bijzondere beloningen.
 
@@ -192,7 +218,7 @@ Aan de teamleider wordt volmacht en machtiging verleend tot het verrichten van p
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 

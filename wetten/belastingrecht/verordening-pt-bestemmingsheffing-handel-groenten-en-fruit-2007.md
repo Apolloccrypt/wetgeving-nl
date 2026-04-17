@@ -1,13 +1,38 @@
 ---
-title: "Verordening PT bestemmingsheffing handel groenten en fruit 2007"
+title: "Besluit van het bestuur van het Productschap Tuinbouw van 27 juni 2006, houdende de vaststelling van een bestemmingsheffing ten behoeve van de handel in groenten en fruit voor het jaar 2007 (Verordening PT bestemmingsheffing handel groenten en fruit 2007)"
 identifier: "BWBR0021286"
-categorie: "Belastingrecht"
-publicatiedatum: 2007-02-11
-laatste_update: 2007-02-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0021286"
+country: "nl"
+rank: "pbo"
+publication_date: "2007-02-11"
+last_updated: "2007-02-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0021286"
+soort: "pbo"
+stam_id: "8931933"
+version_id: "14203082"
+internal_id: "C19334581"
+label_id: "8911224"
+dtd_version: "2.0"
+original_entry_into_force: "2007-02-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0021286/2007-02-11/0"
+intitule_bron: "Vbbo.2007-9"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-07-06"
+intitule_published: "2007-02-09"
+intitule_in_force: "2007-02-09"
+intitule_status: "goed"
+original_publication: "Vbbo.2007-9"
+original_signed_date: "2006-07-06"
+original_published_date: "2007-02-09"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2007-02-11"
+jci_1_3: "jci1.3:c:BWBR0021286&z=2007-02-11&g=2007-02-11"
+jci_1_0: "1.0:c:BWBR0021286&g=2007-02-11"
+citeertitel_status: "officieel"
+short_title: "Verordening PT bestemmingsheffing handel groenten en fruit 2007"
+signed_date: "2006-07-06"
+entry_into_force: "2007-02-11"
 ---
-
 # Besluit van het bestuur van het Productschap Tuinbouw van 27 juni 2006, houdende de vaststelling van een bestemmingsheffing ten behoeve van de handel in groenten en fruit voor het jaar 2007 (Verordening PT bestemmingsheffing handel groenten en fruit 2007)
 
 Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en gelet op de [artikelen 12 tot en met 14, van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=12);
@@ -18,7 +43,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=1) en [2 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=2).
 
@@ -48,7 +73,7 @@ Besluit:
 
 #### § 2. Heffingsplicht
 
-#### Artikel 2
+##### Artikel 2
 
 1. De ondernemer is jaarlijks aan het productschap een heffing verschuldigd ten behoeve van onder andere aangelegenheden als: milieuprojecten, kwaliteitscontrole, onderzoek en afzetbevordering.
 
@@ -56,7 +81,7 @@ Besluit:
 
 #### § 3. Grondslag en hoogte
 
-#### Artikel 3
+##### Artikel 3
 
 1. De heffing die de ondernemer is verschuldigd, wordt opgelegd naar de grondslag aankoopwaarde handel over het kalenderjaar 2007.
 
@@ -82,7 +107,7 @@ Besluit:
 
 #### § 4. Oplegging en inning
 
-#### Artikel 4
+##### Artikel 4
 
 1.
 
@@ -94,17 +119,17 @@ De oplegging van de krachtens deze verordening verschuldigde heffing vindt plaat
 
 4. Voorschotten als bedoeld in het vierde lid, worden verrekend met de krachtens deze verordening verschuldigde heffing.
 
-#### Artikel 5
+##### Artikel 5
 
 De voorzitter kan, indien hem uit te zijner beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0021286&paragraaf=4&artikel=4&z=2007-02-11&g=2007-02-11), niet in overeenstemming blijkt met de werkelijkheid, een opgelegde heffing aan de hand van deze gegevens herzien en opnieuw opleggen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De gegevens verkregen uit hoofde van het bepaalde in deze verordening dienen in handen van de voorzitter of door deze aan te wijzen personen van het secretariaat van het productschap te worden gesteld.
 
 2. Deze gegevens mogen slechts worden gebezigd voor de vervulling van de taak van het productschap.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het bestuur van het productschap is belast met de uitvoering van het bij of krachtens deze verordening bepaalde en is in verband daarmee bevoegd omtrent de bij of krachtens deze verordening geregelde onderwerpen nadere uitvoeringsvoorschriftente geven.
 
@@ -112,11 +137,11 @@ De voorzitter kan, indien hem uit te zijner beschikking gekomen gegevens blijkt 
 
 #### § 5. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Deze verordening treedt in werking met ingang van de tweede dag na de datum van publicatie in het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze verordening wordt aangehaald als: Verordening PT bestemmingsheffing handel groenten en fruit 2007.
 

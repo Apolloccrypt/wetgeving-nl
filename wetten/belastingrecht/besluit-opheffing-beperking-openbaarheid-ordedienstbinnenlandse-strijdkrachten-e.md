@@ -1,13 +1,38 @@
 ---
 title: "Besluit opheffing beperking openbaarheid Ordedienst/Binnenlandse Strijdkrachten en afwikkelingsbureau, 1941–1956"
 identifier: "BWBR0034194"
-categorie: "Belastingrecht"
-publicatiedatum: 2013-11-23
-laatste_update: 2013-11-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034194"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-11-23"
+last_updated: "2013-11-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034194"
+soort: "ministeriele-regeling"
+stam_id: "12430993"
+version_id: "20883892"
+internal_id: "C29983381"
+label_id: "12401804"
+dtd_version: "2.0"
+original_entry_into_force: "2013-11-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034194/2013-11-23/0"
+intitule_bron: "Stcrt.2013-32490"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-11-14"
+intitule_published: "2013-11-22"
+intitule_in_force: "2013-11-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-32490"
+original_signed_date: "2013-11-14"
+original_published_date: "2013-11-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-32490"
+entry_into_force_date: "2013-11-23"
+jci_1_3: "jci1.3:c:BWBR0034194&z=2013-11-23&g=2013-11-23"
+jci_1_0: "1.0:c:BWBR0034194&g=2013-11-23"
+citeertitel_status: "redactioneel"
+signed_date: "2013-11-14"
+entry_into_force: "2013-11-23"
 ---
-
 # Besluit opheffing beperking openbaarheid Ordedienst/Binnenlandse Strijdkrachten en afwikkelingsbureau, 1941–1956
 
 Gelet op [artikel 15, derde lid Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15),

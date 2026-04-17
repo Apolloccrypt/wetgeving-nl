@@ -1,26 +1,52 @@
 ---
-title: "Besluit aanwijzing beheerder van het register van verantwoordelijkheidstekens"
+title: "Besluit van de Minister van Economische Zaken van 17 augustus 2025, nr. WJZ/ 86617580, houdende aanwijzing beheerder van het register van verantwoordelijkheidstekens als bedoeld in artikel 10, tweede lid, van de Waarborgwet 2019 (Besluit aanwijzing beheerder van het register van verantwoordelijkheidstekens)"
 identifier: "BWBR0051409"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-08-22
-laatste_update: 2025-08-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051409"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-08-22"
+last_updated: "2025-08-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051409"
+soort: "ministeriele-regeling"
+stam_id: "17507263"
+version_id: "30886732"
+internal_id: "C44260401"
+label_id: "17409364"
+dtd_version: "2.0"
+original_entry_into_force: "2025-08-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051409/2025-08-22/0"
+intitule_bron: "Stcrt.2025-28724"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-08-17"
+intitule_published: "2025-08-21"
+intitule_in_force: "2025-08-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-28724"
+original_signed_date: "2025-08-17"
+original_published_date: "2025-08-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-28724"
+entry_into_force_date: "2025-08-22"
+jci_1_3: "jci1.3:c:BWBR0051409&z=2025-08-22&g=2025-08-22"
+jci_1_0: "1.0:c:BWBR0051409&g=2025-08-22"
+citeertitel_status: "officieel"
+short_title: "Besluit aanwijzing beheerder van het register van verantwoordelijkheidstekens"
+signed_date: "2025-08-17"
+entry_into_force: "2025-08-22"
 ---
-
 # Besluit van de Minister van Economische Zaken van 17 augustus 2025, nr. WJZ/ 86617580, houdende aanwijzing beheerder van het register van verantwoordelijkheidstekens als bedoeld in artikel 10, tweede lid, van de Waarborgwet 2019 (Besluit aanwijzing beheerder van het register van verantwoordelijkheidstekens)
 
 Gelet op [artikel 10, tweede lid, van de Waarborgwet 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&artikel=10);
 
 Besluit:
 
-#### Artikel 1. (Aanwijzing)
+##### Artikel 1. (Aanwijzing)
 
 1. WaarborgHolland B.V. wordt aangewezen als beheerder van het register van verantwoordelijkheidstekens als bedoeld in [artikel 10, tweede lid, van de Waarborgwet 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&artikel=10).
 
 2. Onze Minister kan WaarborgHolland B.V. aanwijzingen geven met betrekking tot de uitoefening van haar taak.
 
-#### Artikel 2. (Verplichtingen)
+##### Artikel 2. (Verplichtingen)
 
 1. WaarborgHolland B.V. beschikt over een accreditatie als bedoeld in [artikel 15 van de Waarborgregeling 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0043723&artikel=15).
 
@@ -34,7 +60,7 @@ Besluit:
 
 3. WaarborgHolland B.V. neemt de door een andere waarborginstelling goedkeurde tekens binnen een redelijke termijn in het register van verantwoordelijkheidstekens op.
 
-#### Artikel 3. (Intrekking en schorsing aanwijzing)
+##### Artikel 3. (Intrekking en schorsing aanwijzing)
 
 1. De aanwijzing kan worden ingetrokken of geschorst indien:
 
@@ -54,7 +80,7 @@ Besluit:
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Besluit aanwijzing beheerder van het register van verantwoordelijkheidstekens.
 

@@ -1,13 +1,35 @@
 ---
 title: "Tijdelijke overbruggingsregeling projectsubsidies voor makers van boeken"
 identifier: "BWBR0052362"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-02-26
-laatste_update: 2026-02-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052362"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-02-26"
+last_updated: "2026-02-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052362"
+soort: "zbo"
+stam_id: "17780113"
+version_id: "31441622"
+internal_id: "C44910981"
+label_id: "17678104"
+dtd_version: "2.0"
+original_entry_into_force: "2026-02-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052362/2026-02-26/0"
+intitule_bron: "Stcrt.2026-7730"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2026-02-25"
+intitule_in_force: "2026-02-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-7730"
+original_published_date: "2026-02-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-7730"
+entry_into_force_date: "2026-02-26"
+jci_1_3: "jci1.3:c:BWBR0052362&z=2026-02-26&g=2026-02-26"
+jci_1_0: "1.0:c:BWBR0052362&g=2026-02-26"
+citeertitel_status: "officieel"
+entry_into_force: "2026-02-26"
 ---
-
 # Tijdelijke overbruggingsregeling projectsubsidies voor makers van boeken
 
 gelet op de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
@@ -18,7 +40,7 @@ gelet op het [Algemeen reglement Nederlands Letterenfonds](https://wetten.overhe
 
 besluit: de volgende Tijdelijke overbruggingsregeling projectsubsidies voor makers van boeken vast te stellen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -36,11 +58,11 @@ In deze regeling wordt verstaan onder:
 
 - g. **website:** de website van het Letterenfonds, zijnde [www.letterenfonds.nl](http://www.letterenfonds.nl).
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Het Letterenfonds wil met deze overbruggingsregeling tijdelijk ondersteuning bieden aan auteurs die nadelige gevolgen ondervinden van de per 1 januari 2026 in werking getreden [regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0051439)**Projectsubsidies voor makers van boeken**.
 
-#### Artikel 3. Voor welke gevallen is subsidie mogelijk?
+##### Artikel 3. Voor welke gevallen is subsidie mogelijk?
 
 1. Aanvragers kunnen op basis van deze overbruggingsregeling eenmalig subsidie ontvangen in de volgende situaties:
 
@@ -52,7 +74,7 @@ Het Letterenfonds wil met deze overbruggingsregeling tijdelijk ondersteuning bie
 
 2. Als aanvrager bezwaar heeft gemaakt of beroep heeft ingesteld over een subsidiebeschikking op basis van de [regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0051439)**Projectsubsidies voor makers van boeken**, dan wordt de aanvraag voor een subsidie op basis van deze overbruggingsregeling aangehouden tot het moment dat er onherroepelijk over het bestreden subsidiebesluit is beslist.
 
-#### Artikel 4. Vereisten aanvrager
+##### Artikel 4. Vereisten aanvrager
 
 1. De aanvrager voor subsidie voldoet aan de volgende voorwaarden:
 
@@ -60,7 +82,7 @@ Het Letterenfonds wil met deze overbruggingsregeling tijdelijk ondersteuning bie
 
 - b. het gemiddelde belastbaar verzamelinkomen van aanvrager in het tijdvak waarvoor het subsidiebedrag wordt verleend, is naar verwachting niet hoger dan de inkomensgrens die het Letterenfonds vaststelt. Het tijdvak beslaat maximaal drie jaar. De hoogte van de inkomensgrens wordt bekendgemaakt in de Staatscourant en op de website van het Letterenfonds.
 
-#### Artikel 5. Vereisten aanvraag
+##### Artikel 5. Vereisten aanvraag
 
 1. Een aanvraag voor subsidie wordt ingediend via de website met gebruikmaking van het op de website ter beschikking gestelde aanvraagformulier via ’Start je aanvraag’.
 
@@ -80,7 +102,7 @@ Het Letterenfonds wil met deze overbruggingsregeling tijdelijk ondersteuning bie
 
 5. Het derde lid, onder d, is niet van toepassing op de aanvrager die subsidie aanvraagt voor een letterkundige biografie.
 
-#### Artikel 6. Weigeringsgronden
+##### Artikel 6. Weigeringsgronden
 
 Een aanvraag voor subsidie kan worden afgewezen:
 
@@ -100,7 +122,7 @@ Een aanvraag voor subsidie kan worden afgewezen:
 
 - h. indien het subsidieplafond is bereikt.
 
-#### Artikel 7. Hoogte van het subsidiebedrag
+##### Artikel 7. Hoogte van het subsidiebedrag
 
 1. Als aanvrager subsidie heeft aangevraagd op grond van de [regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0051439)**Projectsubsidies voor makers van boeken** en deze aanvraag is op basis van inhoudelijke of budgettaire gronden afgewezen, dan wordt de hoogte van het subsidiebedrag op basis van deze overbruggingsregeling bepaald op 75% van het ijkbedrag, maar ten minste op € 12.500.
 
@@ -110,7 +132,7 @@ Een aanvraag voor subsidie kan worden afgewezen:
 
 4. In afwijking van het derde lid, wordt de hoogte van het subsidiebedrag bepaald op 75% van het ijkbedrag als voor de boekpublicatie tevens in 2025 een subsidie is aangevraagd op basis van **Regeling projectsubsidies voor publicaties**en die aanvraag is afgewezen op budgettaire gronden, op basis van de prioriteringsregels.
 
-#### Artikel 8. Aanvraagperiode en subsidieplafond
+##### Artikel 8. Aanvraagperiode en subsidieplafond
 
 1. Het Letterenfonds behandelt de aanvragen in de jaren 2026 en 2027 doorlopend op volgorde van binnenkomst. Aanvragen kunnen worden ingediend tot en met 1 december 2027. In afwijking van [artikel 11, zesde lid, van het Algemeen reglement Nederlands Letterenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0032735&artikel=11) geldt het moment waarop sprake is van een complete aanvraag als moment van indiening.
 
@@ -118,7 +140,7 @@ Een aanvraag voor subsidie kan worden afgewezen:
 
 3. Als een aanvraag niet kan worden gehonoreerd als gevolg van overschrijding van het subsidieplafond, dan wordt de aanvraag afgewezen.
 
-#### Artikel 9. Subsidieverplichtingen
+##### Artikel 9. Subsidieverplichtingen
 
 1. De subsidieontvanger besteedt de subsidie aan de totstandkoming van de in de aanvraag omschreven publicatie.
 
@@ -142,7 +164,7 @@ Een aanvraag voor subsidie kan worden afgewezen:
 
 11. De subsidieontvanger werkt mee aan door of namens het Letterenfonds ingesteld onderzoek dat erop is gericht het Letterenfonds inlichtingen te verschaffen ten behoeve van de ontwikkeling van het beleid.
 
-#### Artikel 10. Termijnen, subsidieverlening en -vaststelling
+##### Artikel 10. Termijnen, subsidieverlening en -vaststelling
 
 1. Het bestuur beslist binnen 6 weken na het moment waarop de aanvraag is ingediend.
 
@@ -150,7 +172,7 @@ Een aanvraag voor subsidie kan worden afgewezen:
 
 3. In de beschikking wordt de wijze van betaling van de subsidie bepaald.
 
-#### Artikel 11. Intrekkingsgronden
+##### Artikel 11. Intrekkingsgronden
 
 1. Het bestuur kan de subsidievaststelling intrekken of wijzigen als de subsidieontvanger niet heeft voldaan aan de subsidie verbonden verplichtingen.
 
@@ -164,15 +186,15 @@ Een aanvraag voor subsidie kan worden afgewezen:
 
 6. Het bedrag waarmee de subsidie eventueel wordt verlaagd, wordt verrekend met eventueel nog te betalen gedeelten van de subsidie of teruggevorderd
 
-#### Artikel 12. Hardheidsclausule
+##### Artikel 12. Hardheidsclausule
 
 Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een artikel van deze regeling buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard.
 
-#### Artikel 13. Begrotingsvoorbehoud
+##### Artikel 13. Begrotingsvoorbehoud
 
 Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende middelen door de Minister van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 14. Inwerkingtreding en citeertitel
+##### Artikel 14. Inwerkingtreding en citeertitel
 
 1. Deze regeling treedt in werking met ingang van de dag na plaatsing in de Staatscourant en eindigt op 2 december 2027.
 

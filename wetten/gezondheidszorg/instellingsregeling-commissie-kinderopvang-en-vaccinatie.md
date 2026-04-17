@@ -1,20 +1,46 @@
 ---
-title: "Instellingsregeling Commissie kinderopvang en vaccinatie"
+title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, mede namens de Staatssecretaris van Volksgezondheid, Welzijn en Sport, van 19 december 2018, nr.2018-0000816616, tot instelling van een Commissie kinderopvang en vaccinatie (Instellingsregeling Commissie kinderopvang en vaccinatie)"
 identifier: "BWBR0041787"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041787"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041787"
+soort: "ministeriele-regeling"
+stam_id: "14940263"
+version_id: "25585842"
+internal_id: "C36514291"
+label_id: "14890574"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041787/2019-01-01/0"
+intitule_bron: "Stcrt.2018-73427"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-12-19"
+intitule_published: "2018-12-31"
+intitule_in_force: "2018-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-73427"
+original_signed_date: "2018-12-19"
+original_published_date: "2018-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-73427"
+entry_into_force_date: "2019-01-01"
+jci_1_3: "jci1.3:c:BWBR0041787&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0041787&g=2019-01-01"
+citeertitel_status: "officieel"
+short_title: "Instellingsregeling Commissie kinderopvang en vaccinatie"
+signed_date: "2018-12-19"
+entry_into_force: "2019-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, mede namens de Staatssecretaris van Volksgezondheid, Welzijn en Sport, van 19 december 2018, nr.2018-0000816616, tot instelling van een Commissie kinderopvang en vaccinatie (Instellingsregeling Commissie kinderopvang en vaccinatie)
 
 Gelet op [artikel 6, eerste lid, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=6);
 
 Besluiten:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -22,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - b. **de commissie:** de Commissie kinderopvang en vaccinatie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041787&artikel=2&z=2019-01-01&g=2019-01-01).
 
-#### Artikel 2. Instelling, taak, opheffing
+##### Artikel 2. Instelling, taak, opheffing
 
 1. Er is een Commissie kinderopvang en vaccinatie.
 
@@ -34,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 - b. die praktisch werkbaar zijn voor een kindercentrum als bedoeld in de [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) en een voorziening voor gastouderopvang.
 
-#### Artikel 3. Samenstelling en benoeming
+##### Artikel 3. Samenstelling en benoeming
 
 1. De commissie bestaat uit een voorzitter en ten hoogste zeven andere leden.
 
@@ -44,11 +70,11 @@ In deze regeling wordt verstaan onder:
 
 4. Bij tussentijds vertrek van een lid kan de staatssecretaris een ander lid benoemen.
 
-#### Artikel 4. Secretariaat
+##### Artikel 4. Secretariaat
 
 In het secretariaat wordt voorzien door de staatssecretaris en de Staatssecretaris van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 5. Kosten van de commissie
+##### Artikel 5. Kosten van de commissie
 
 1. De kosten van de commissie komen ten laste van de begroting van het Ministerie van Sociale Zaken en Werkgelegenheid. Onder kosten worden in ieder geval verstaan:
 
@@ -60,7 +86,7 @@ In het secretariaat wordt voorzien door de staatssecretaris en de Staatssecretar
 
 2. De commissie biedt zo spoedig mogelijk na haar instelling een begroting aan de staatssecretaris aan.
 
-#### Artikel 6. Rapport
+##### Artikel 6. Rapport
 
 1. De commissie brengt uiterlijk 1 mei 2019 een rapport uit.
 
@@ -70,15 +96,15 @@ In het secretariaat wordt voorzien door de staatssecretaris en de Staatssecretar
 
 4. Indien onvoorziene omstandigheden naar het oordeel van de commissie in de weg staan aan het tijdig uitbrengen van het rapport, dan stelt zij de staatssecretaris daarvan onverwijld op de hoogte.
 
-#### Artikel 7. Archivering
+##### Artikel 7. Archivering
 
 De archiefbescheiden van de commissie worden na haar opheffing of, zo de omstandigheden daartoe eerder aanleiding geven, zoveel eerder, overgebracht naar het archief van het Ministerie van Sociale Zaken en Werkgelegenheid.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze wordt geplaatst.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Instellingsregeling Commissie kinderopvang en vaccinatie.
 

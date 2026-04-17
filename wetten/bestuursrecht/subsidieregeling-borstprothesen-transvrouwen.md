@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling borstprothesen transvrouwen"
+title: "Regeling van de Minister voor Medische Zorg van 21 december 2018, kenmerk 1463057-185477-CZ, houdende regels voor het verstrekken van subsidie voor het operatief plaatsen van borstprothesen bij transvrouwen (Subsidieregeling borstprothesen transvrouwen)"
 identifier: "BWBR0041856"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-31
-laatste_update: 2024-01-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041856"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-31"
+last_updated: "2024-01-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041856"
+soort: "ministeriele-regeling"
+stam_id: "14964263"
+version_id: "29722912"
+internal_id: "C42599401"
+label_id: "14914494"
+dtd_version: "2.0"
+original_entry_into_force: "2023-11-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041856/2024-01-31/0"
+intitule_bron: "Stcrt.2019-3441"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-12-21"
+intitule_published: "2019-01-30"
+intitule_in_force: "2019-01-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-31117"
+original_signed_date: "2023-11-07"
+original_published_date: "2023-11-14"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2023-31117"
+entry_into_force_date: "2023-11-07"
+jci_1_3: "jci1.3:c:BWBR0041856&z=2024-01-31&g=2024-01-31"
+jci_1_0: "1.0:c:BWBR0041856&g=2024-01-31"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling borstprothesen transvrouwen"
+signed_date: "2023-11-07"
+entry_into_force: "2023-11-07"
 ---
-
 # Regeling van de Minister voor Medische Zorg van 21 december 2018, kenmerk 1463057-185477-CZ, houdende regels voor het verstrekken van subsidie voor het operatief plaatsen van borstprothesen bij transvrouwen (Subsidieregeling borstprothesen transvrouwen)
 
 Gelet op [artikel 3 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -24,15 +50,15 @@ In deze regeling wordt verstaan onder:
 
 - c. **BIG-geregistreerde arts:** een zorgverlener die is ingeschreven in het register, bedoeld in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3).
 
-#### Artikel 2
+##### Artikel 2
 
 Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
 
-#### Artikel 3
+##### Artikel 3
 
 De Minister kan aan een transvrouw eenmalig een subsidie verstrekken ten behoeve van een behandeling van plastisch-chirurgische aard die strekt tot borstconstructie bij een transvrouw en die voldoet aan de stand van de wetenschap en praktijk en de medisch noodzakelijke kosten die samenhangen met deze behandeling.
 
-#### Artikel 4
+##### Artikel 4
 
 Subsidie wordt uitsluitend verstrekt aan transvrouwen die:
 
@@ -50,7 +76,7 @@ Subsidie wordt uitsluitend verstrekt aan transvrouwen die:
 
 - –. Geen aanspraak kunnen maken op vergoeding van een behandeling van plastisch-chirurgische aard die strekt tot borstconstructie op grond van [artikel 2.1, onderdeel c, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=2.1).
 
-#### Artikel 5
+##### Artikel 5
 
 De subsidie bedraagt:
 
@@ -58,13 +84,13 @@ De subsidie bedraagt:
 
 - b. € 13.720, indien de behandeling, bedoeld in artikel 3, geschiedt op een andere wijze dan door middel van het operatief plaatsen van borstprothesen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De subsidie wordt op aanvraag verstrekt.
 
 2. Voor de aanvraag tot verlening van de subsidie wordt een door de Minister vastgesteld formulier gebruikt.
 
-#### Artikel 7
+##### Artikel 7
 
 Bij de aanvraag tot verlening van de subsidie worden de volgende gegevens verstrekt:
 
@@ -82,7 +108,7 @@ Bij de aanvraag tot verlening van de subsidie worden de volgende gegevens verstr
 
 - –. een verklaring van een BIG-geregistreerde arts, waarin is aangegeven welk type behandeling bij de transvrouw zal worden uitgevoerd: het operatief plaatsen van borstprothesen, of een andere behandeling van plastisch-chirurgische aard die strekt tot borstconstructie bij een transvrouw en die voldoet aan de stand van de wetenschap en praktijk.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Minister geeft binnen dertien weken na ontvangst van de aanvraag een beschikking tot verlening van de subsidie.
 
@@ -92,11 +118,11 @@ Bij de aanvraag tot verlening van de subsidie worden de volgende gegevens verstr
 
 4. De Minister kan vrijstelling of ontheffing verlenen van de termijn, bedoeld in het derde lid.
 
-#### Artikel 9
+##### Artikel 9
 
 Indien zich na indiening van de aanvraag omstandigheden voordoen die van belang kunnen zijn voor de beslissing tot vaststelling van de subsidie, doet de transvrouw daarvan zo spoedig mogelijk schriftelijk mededeling aan de Minister zo mogelijk onder overlegging van de relevante stukken.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De subsidie wordt ambtshalve vastgesteld op een bedrag tot ten hoogste het in de verleningsbeschikking genoemde bedrag.
 
@@ -104,23 +130,23 @@ Indien zich na indiening van de aanvraag omstandigheden voordoen die van belang 
 
 3. De Minister neemt binnen 22 weken na afloop van de datum waarop de activiteit waarvoor de subsidie wordt verleend, moet zijn verricht, ambtshalve een besluit over de vaststelling van de subsidie.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling treedt in werking met ingang van 1 februari 2019 en vervalt met ingang van 1 februari 2028.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling wordt aangehaald als: Subsidieregeling borstprothesen transvrouwen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 10a
+##### Artikel 10a
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. Er is een subsidieplafond van € 1.500.000 per jaar.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit buitengewoon opsporingsambtenaar Dienst Justitiële Inrichtingen, Penitentiaire Inrichting Middelburg 2022"
+title: "Besluit van de Minister voor Rechtsbescherming van 12 juli 2022, nr. BOACAT2022/046, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Dienst Justitiële Inrichtingen, Penitentiaire Inrichting Middelburg"
 identifier: "BWBR0046946"
-categorie: "Strafrecht"
-publicatiedatum: 2022-07-20
-laatste_update: 2022-07-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046946"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-07-20"
+last_updated: "2022-07-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046946"
+soort: "ministeriele-regeling"
+stam_id: "16428263"
+version_id: "28774132"
+internal_id: "C40732371"
+label_id: "16352324"
+dtd_version: "2.0"
+original_entry_into_force: "2022-07-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046946/2022-07-20/0"
+intitule_bron: "Stcrt.2022-18926"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-07-12"
+intitule_published: "2022-07-19"
+intitule_in_force: "2022-07-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-18926"
+original_signed_date: "2022-07-12"
+original_published_date: "2022-07-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-18926"
+entry_into_force_date: "2022-07-20"
+jci_1_3: "jci1.3:c:BWBR0046946&z=2022-07-20&g=2022-07-20"
+jci_1_0: "1.0:c:BWBR0046946&g=2022-07-20"
+citeertitel_status: "officieel"
+short_title: "Besluit buitengewoon opsporingsambtenaar Dienst Justitiële Inrichtingen, Penitentiaire Inrichting Middelburg 2022"
+signed_date: "2022-07-12"
+entry_into_force: "2022-07-20"
 ---
-
 # Besluit van de Minister voor Rechtsbescherming van 12 juli 2022, nr. BOACAT2022/046, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Dienst Justitiële Inrichtingen, Penitentiaire Inrichting Middelburg
 
 Gelezen het verzoek van de Directeur-generaal van de Dienst Justitiële Inrichtingen van 29 juni 2022 en de brief van de Minister van Justitie en Veiligheid en de adviezen van de hoofdofficier van justitie bij het Landelijk Parket en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
@@ -30,15 +56,15 @@ de [Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/j
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046946&artikel=2&z=2022-07-20&g=2022-07-20).
 
-#### Artikel 2
+##### Artikel 2
 
 De personen, werkzaam in de functie van arrestantenverzorgers in dienst van de Dienst Justitiële Inrichtingen, Penitentiaire Inrichting Middelburg, zijn aangewezen als buitengewoon opsporingsambtenaar.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein VI, Generieke Opsporing, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
 
@@ -46,21 +72,21 @@ De personen, werkzaam in de functie van arrestantenverzorgers in dienst van de D
 
 3. De buitengewoon opsporingsambtenaar vermeldt in zijn processen-verbaal en schriftelijke verslagleggingen het in het eerste lid genoemde domein.
 
-#### Artikel 4
+##### Artikel 4
 
 Op grond van dit besluit kunnen maximaal 30 personen als buitengewoon opsporingsambtenaar worden beëdigd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de hoofdofficier van justitie bij het Landelijk Parket.
 
 2. Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27).
 
-#### Artikel 6
+##### Artikel 6
 
 De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde en vierde lid (vervoersfouillering/insluitingsfouillering), van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) omschreven bevoegdheden uitoefenen met gebruikmaking van handboeien en/of korte wapenstok en/of pepperspray.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Directeur-generaal van de Dienst Justitiële Inrichtingen brengt jaarlijks, voor 1 april, verslag uit over:
 
@@ -72,11 +98,11 @@ De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde en vierd
 
 2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046946&artikel=5&z=2022-07-20&g=2022-07-20) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en vervalt vijf jaar na het tijdstip van inwerkingtreding.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Dienst Justitiële Inrichtingen, Penitentiaire Inrichting Middelburg 2022.
 

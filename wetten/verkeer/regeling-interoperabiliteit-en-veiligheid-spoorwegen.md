@@ -1,13 +1,39 @@
 ---
-title: "Regeling interoperabiliteit en veiligheid spoorwegen"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 4 juni 2019, nr. IENW/BSK- 2019/122715, houdende nadere implementatie van richtlijn (EU) 2016/797 van het Europees Parlement en de Raad van 11 mei 2016 betreffende de interoperabiliteit van het spoorwegsysteem in de Europese Unie (PbEU 2016, L 138/44) en van richtlijn (EU) 2016/798 van het Europees Parlement en de Raad van 11 mei 2016 inzake veiligheid op het spoor (PbEU 2016, L 138/102) (Regeling interoperabiliteit en veiligheid spoorwegen)"
 identifier: "BWBR0042287"
-categorie: "Verkeer"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042287"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042287"
+soort: "ministeriele-regeling"
+stam_id: "15092643"
+version_id: "25871322"
+internal_id: "C36873141"
+label_id: "15041654"
+dtd_version: "2.0"
+original_entry_into_force: "2019-06-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042287/2025-01-01/0"
+intitule_bron: "Stcrt.2019-30931"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-06-04"
+intitule_published: "2019-06-13"
+intitule_in_force: "2019-06-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-30931"
+original_signed_date: "2019-06-04"
+original_published_date: "2019-06-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-30931"
+entry_into_force_date: "2019-06-16"
+jci_1_3: "jci1.3:c:BWBR0042287&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0042287&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling interoperabiliteit en veiligheid spoorwegen"
+signed_date: "2019-06-04"
+entry_into_force: "2019-06-16"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 4 juni 2019, nr. IENW/BSK- 2019/122715, houdende nadere implementatie van richtlijn (EU) 2016/797 van het Europees Parlement en de Raad van 11 mei 2016 betreffende de interoperabiliteit van het spoorwegsysteem in de Europese Unie (PbEU 2016, L 138/44) en van richtlijn (EU) 2016/798 van het Europees Parlement en de Raad van 11 mei 2016 inzake veiligheid op het spoor (PbEU 2016, L 138/102) (Regeling interoperabiliteit en veiligheid spoorwegen)
 
 Handelende in overeenstemming met de Minister van Justitie en Veiligheid;
@@ -18,7 +44,7 @@ BESLUIT:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Definitiebepalingen
+##### Artikel 1. Definitiebepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -50,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 1. Interoperabiliteitsonderdelen
 
-#### Artikel 2. Voorwaarden voor het afgeven van een EG-verklaring van conformiteit of geschiktheid voor gebruik
+##### Artikel 2. Voorwaarden voor het afgeven van een EG-verklaring van conformiteit of geschiktheid voor gebruik
 
 1. Een EG-verklaring van conformiteit of geschiktheid voor gebruik wordt afgegeven indien:
 
@@ -66,21 +92,21 @@ In deze regeling wordt verstaan onder:
 
 - c. nog geen herziene TSI is vastgesteld.
 
-#### Artikel 3. Eisen aan de EG-verklaring van conformiteit of geschiktheid voor gebruik
+##### Artikel 3. Eisen aan de EG-verklaring van conformiteit of geschiktheid voor gebruik
 
 Vervallen
 
-#### Artikel 4. Vrijstelling voor reserveonderdelen
+##### Artikel 4. Vrijstelling voor reserveonderdelen
 
 [Artikel 26a, eerste lid, onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26a) zijn niet van toepassing op reserveonderdelen voor subsystemen die reeds in dienst zijn gesteld op het moment dat wijzigingen in de toepasselijke TSI’s voor die interoperabiliteitsonderdelen van kracht worden.
 
 #### § 2. Subsystemen
 
-#### Artikel 5. Keuringsprocedure
+##### Artikel 5. Keuringsprocedure
 
 Een conformiteitsbeoordelingsinstantie keurt een subsysteem volgens de procedure van bijlage IV van de interoperabiliteitsrichtlijn, en indien van toepassing met inachtneming van artikel 6, derde lid, van de interoperabiliteitsrichtlijn.
 
-#### Artikel 6. Ontheffing TSI’s
+##### Artikel 6. Ontheffing TSI’s
 
 1. Een aanvraag voor een ontheffing als bedoeld in [artikel 26f, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26f) bevat de volgende gegevens:
 
@@ -96,7 +122,7 @@ Een conformiteitsbeoordelingsinstantie keurt een subsysteem volgens de procedure
 
 #### § 3. Vergunning voor het in dienst stellen van subsystemen die deel uitmaken van hoofdspoorweginfrastructuur
 
-#### Artikel 7. Technische compatibiliteit en veilige integratie
+##### Artikel 7. Technische compatibiliteit en veilige integratie
 
 1. De technische compatibiliteit, bedoeld in [artikel 26h, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26h), wordt aangetoond op basis van:
 
@@ -110,7 +136,7 @@ Een conformiteitsbeoordelingsinstantie keurt een subsysteem volgens de procedure
 
 - b. gemeenschappelijke veiligheidsmethoden als bedoeld in artikel 6 van de spoorwegveiligheidsrichtlijn die op het desbetreffende subsysteem van toepassing zijn.
 
-#### Artikel 8. Vernieuwing of verbetering van de hoofdspoorweginfrastructuur
+##### Artikel 8. Vernieuwing of verbetering van de hoofdspoorweginfrastructuur
 
 1. De minister hanteert bij een beoordeling als bedoeld in [artikel 26i, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26i), de volgende beoordelingscriteria:
 
@@ -124,7 +150,7 @@ Een conformiteitsbeoordelingsinstantie keurt een subsysteem volgens de procedure
 
 #### § 4. Conformiteitsbeoordelingsinstanties
 
-#### Artikel 9. Eisen aan te melden instantie
+##### Artikel 9. Eisen aan te melden instantie
 
 1. Om te worden aangemeld als bedoeld in [artikel 26u, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26u), voldoet een instantie aan de volgende eisen van de interoperabiliteitsrichtlijn:
 
@@ -138,7 +164,7 @@ Een conformiteitsbeoordelingsinstantie keurt een subsysteem volgens de procedure
 
 3. Een instantie als bedoeld in het eerste lid beschikt over een accreditatiecertificaat van de Raad voor Accreditatie waarmee wordt aangetoond dat wordt voldaan aan de eisen, bedoeld in het eerste lid.
 
-#### Artikel 10. Aanmeldingsprocedure
+##### Artikel 10. Aanmeldingsprocedure
 
 1. Een aanvraag als bedoeld in [artikel 26u, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26u) gaat vergezeld van:
 
@@ -148,7 +174,7 @@ Een conformiteitsbeoordelingsinstantie keurt een subsysteem volgens de procedure
 
 2. De minister meldt een instantie als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042287&hoofdstuk=2&paragraaf=4&artikel=9&z=2025-01-01&g=2025-01-01), aan overeenkomstig artikel 37, tweede lid, van de interoperabiliteitsrichtlijn.
 
-#### Artikel 11. Eisen aan te wijzen instantie
+##### Artikel 11. Eisen aan te wijzen instantie
 
 1. Om te worden aangewezen als bedoeld in [artikel 26v, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26v) voldoet een instantie aan de volgende eisen van de interoperabiliteitsrichtlijn met inachtneming van artikel 45, eerste lid, onderdeel a, van de interoperabiliteitsrichtlijn:
 
@@ -164,7 +190,7 @@ Een conformiteitsbeoordelingsinstantie keurt een subsysteem volgens de procedure
 
 4. Wanneer een instantie als bedoeld in het eerste lid aantoont dat zij voldoet aan de criteria in de toepasselijke geharmoniseerde normen of delen ervan waarvan de referentienummers in het Publicatieblad van de Europese Unie zijn bekendgemaakt, wordt zij geacht aan de eisen, bedoeld in het eerste lid, te voldoen, op voorwaarde dat de van toepassing zijnde geharmoniseerde normen deze eisen dekken.
 
-#### Artikel 12. Aanvraag aanwijzing
+##### Artikel 12. Aanvraag aanwijzing
 
 Een aanvraag als bedoeld in [artikel 26v, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26v) gaat vergezeld van:
 
@@ -172,13 +198,13 @@ Een aanvraag als bedoeld in [artikel 26v, eerste lid, van de wet](https://wetten
 
 - b. een accreditatiecertificaat dat is afgegeven door de Raad voor Accreditatie, waarin wordt verklaard dat de instantie voldoet aan de eisen, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042287&hoofdstuk=2&paragraaf=4&artikel=11&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 13. Uitbesteden van werkzaamheden
+##### Artikel 13. Uitbesteden van werkzaamheden
 
 1. Een aangemelde instantie die taken uitbesteedt of door dochterondernemingen laat uitvoeren, voldoet aan artikel 34 van de interoperabiliteitsrichtlijn.
 
 2. Een aangewezen instantie die taken uitbesteedt of door dochterondernemingen laat uitvoeren, voldoet aan artikel 34 van de interoperabiliteitsrichtlijn met inachtneming van artikel 45, eerste lid, onderdeel a, van de interoperabiliteitsrichtlijn.
 
-#### Artikel 14. Eisen geaccrediteerde interne instantie
+##### Artikel 14. Eisen geaccrediteerde interne instantie
 
 1. Een geaccrediteerde interne instantie als bedoeld in [artikel 26y](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26y) kan ten aanzien van de volgende modules conformiteitsbeoordelingsactiviteiten verrichten:
 
@@ -190,7 +216,7 @@ Een aanvraag als bedoeld in [artikel 26v, eerste lid, van de wet](https://wetten
 
 3. Op verzoek van de minister verstrekt de onderneming waar de geaccrediteerde interne instantie deel van uitmaakt, of de Raad voor Accreditatie, informatie over de accreditatie van de interne instantie.
 
-#### Artikel 15. Operationele verplichtingen van conformiteitsbeoordelingsinstanties
+##### Artikel 15. Operationele verplichtingen van conformiteitsbeoordelingsinstanties
 
 1. De conformiteitsbeoordelingen worden op evenredige wijze uitgevoerd met inachtneming van artikel 41, tweede lid, van de interoperabiliteitsrichtlijn.
 
@@ -198,7 +224,7 @@ Een aanvraag als bedoeld in [artikel 26v, eerste lid, van de wet](https://wetten
 
 3. De operationele verplichtingen, bedoeld in het eerste en tweede lid, zijn van overeenkomstige toepassing op aangewezen instanties met dien verstande dat de verplichtingen verband houden met nationale voorschriften en niet met TSI's.
 
-#### Artikel 16. Informatieverplichtingen van conformiteitsbeoordelingsinstanties
+##### Artikel 16. Informatieverplichtingen van conformiteitsbeoordelingsinstanties
 
 1. Aangemelde instanties brengen de minister op de hoogte van:
 
@@ -218,7 +244,7 @@ Een aanvraag als bedoeld in [artikel 26v, eerste lid, van de wet](https://wetten
 
 #### § 5. Infrastructuurregister
 
-#### Artikel 17. Het infrastructuurregister
+##### Artikel 17. Het infrastructuurregister
 
 Vervallen
 
@@ -226,19 +252,19 @@ Vervallen
 
 #### § 1. Veiligheidsvergunning
 
-#### Artikel 18. Eisen veiligheidsbeheersysteem beheerder
+##### Artikel 18. Eisen veiligheidsbeheersysteem beheerder
 
 Onverminderd bijlage II bij gedelegeerde verordening (EU) 2018/762, voldoet het veiligheidsbeheersysteem van een beheerder aan de eisen, bedoeld in artikel 9, eerste tot en met vijfde lid, eerste en tweede alinea, van de spoorwegveiligheidsrichtlijn.
 
-#### Artikel 19. Aanvraag veiligheidsvergunning
+##### Artikel 19. Aanvraag veiligheidsvergunning
 
 Bij een aanvraag tot verlening van een veiligheidsvergunning als bedoeld in [artikel 16f, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=16f) wordt een beschrijving van het veiligheidsbeheersysteem dan wel worden andere documenten gevoegd teneinde de overeenstemming met de eisen, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0042287&hoofdstuk=3&paragraaf=1&artikel=18&z=2025-01-01&g=2025-01-01) aan te tonen.
 
-#### Artikel 20. Geldigheidsduur veiligheidsvergunning
+##### Artikel 20. Geldigheidsduur veiligheidsvergunning
 
 Een veiligheidsvergunning als bedoeld in [artikel 16f, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=16f) is vijf jaar geldig.
 
-#### Artikel 21. Melden van wijzigingen door beheerder
+##### Artikel 21. Melden van wijzigingen door beheerder
 
 De houder van een veiligheidsvergunning informeert de minister onverwijld over elke ingrijpende wijziging van:
 
@@ -246,31 +272,31 @@ De houder van een veiligheidsvergunning informeert de minister onverwijld over e
 
 - b. de beginselen van de exploitatie en onderhoud van een subsysteem als bedoeld in onderdeel a.
 
-#### Artikel 22. Wijziging veiligheidsvergunning
+##### Artikel 22. Wijziging veiligheidsvergunning
 
 De minister kan besluiten dat een wijziging van een bestaande veiligheidsvergunning is vereist, indien de informatie, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0042287&hoofdstuk=3&paragraaf=1&artikel=21&z=2025-01-01&g=2025-01-01), daartoe aanleiding geeft.
 
 #### § 2. Spoorwegondernemingen
 
-#### Artikel 23. Eisen veiligheidsbeheersysteem spoorwegonderneming
+##### Artikel 23. Eisen veiligheidsbeheersysteem spoorwegonderneming
 
 Onverminderd bijlage I bij gedelegeerde verordening (EU) 2018/762, voldoet het veiligheidsbeheersysteem van een spoorwegonderneming die over een geldig veiligheidscertificaat beschikt en met een exploitatiegebied dat de hoofdspoorweginfrastructuur binnen Nederland of een gedeelte daarvan omvat, aan de eisen, bedoeld in artikel 9, eerste tot en met vierde lid, van de spoorwegveiligheidsrichtlijn.
 
-#### Artikel 24. Aanvraag veiligheidscertificaat
+##### Artikel 24. Aanvraag veiligheidscertificaat
 
 1. Onverminderd bijlage I bij [uitvoeringsverordening (EU) 2018/763](32018R0763), vermeldt een aanvraag voor een veiligheidscertificaat als bedoeld in [artikel 32, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=32) de omvang van het vervoer.
 
 2. Op een aanvraag tot uitbreiding van het exploitatiegebied van een veiligheidscertificaat als bedoeld in [artikel 32, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=32) is het eerste lid van overeenkomstige toepassing, met dien verstande dat alleen gegevens en bescheiden behoeven te worden verstrekt die betrekking hebben op de uitbreiding van het exploitatiegebied.
 
-#### Artikel 25. Inhoud veiligheidscertificaat
+##### Artikel 25. Inhoud veiligheidscertificaat
 
 Vervallen
 
-#### Artikel 26. Geldigheidsduur veiligheidscertificaat
+##### Artikel 26. Geldigheidsduur veiligheidscertificaat
 
 Vervallen
 
-#### Artikel 27. Meldingen door spoorwegonderneming
+##### Artikel 27. Meldingen door spoorwegonderneming
 
 1. De houder van een veiligheidscertificaat als bedoeld in [artikel 32, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=32) meldt elke geplande nieuwe spoorwegvervoersactiviteit uiterlijk twee maanden voor aanvang daarvan, aan de minister. In deze melding worden de volgende gegevens opgenomen:
 
@@ -290,13 +316,13 @@ Vervallen
 
 - b. de omvang van het vervoer ingrijpend wijzigt.
 
-#### Artikel 28. Wijziging veiligheidscertificaat
+##### Artikel 28. Wijziging veiligheidscertificaat
 
 De minister kan besluiten dat een wijziging van het bestaande veiligheidscertificaat is vereist, indien de informatie, bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042287&hoofdstuk=3&paragraaf=2&artikel=27&z=2025-01-01&g=2025-01-01), daartoe aanleiding geeft.
 
 #### § 3. Jaarlijks verslag over spoorwegveiligheid
 
-#### Artikel 29. Jaarlijks verslag over spoorwegveiligheid
+##### Artikel 29. Jaarlijks verslag over spoorwegveiligheid
 
 1. De houder van een veiligheidscertificaat, met uitzondering van een beheerder als bedoeld in [artikel 32, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=32), stelt jaarlijks een verslag op met betrekking tot de spoorwegveiligheid en zendt dat jaarlijks voor 31 mei aan de minister.
 
@@ -306,7 +332,7 @@ De minister kan besluiten dat een wijziging van het bestaande veiligheidscertifi
 
 #### § 4. Veiligheidsbeheersysteem in geval van vrijstelling
 
-#### Artikel 30. Eisen veiligheidsbeheersysteem in geval van vrijstelling
+##### Artikel 30. Eisen veiligheidsbeheersysteem in geval van vrijstelling
 
 1. Met een veiligheidsbeheersysteem als bedoeld in de [artikelen 16b, onderdeel c, van het Besluit bedrijfsvergunning veiligheidscertificaat hoofdspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0017623&artikel=16b) wordt gewaarborgd dat de spoorwegonderneming:
 
@@ -334,7 +360,7 @@ De minister kan besluiten dat een wijziging van het bestaande veiligheidscertifi
 
 - e. procedures voor het samenwerken met andere partijen aan spoorveiligheid en in het geval van calamiteiten.
 
-#### Artikel 31. Maatregelen
+##### Artikel 31. Maatregelen
 
 1. Op basis van de inventarisatie, bedoeld in [artikel 30, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042287&hoofdstuk=3&paragraaf=4&artikel=30&z=2025-01-01&g=2025-01-01), beoordeelt de spoorwegonderneming of maatregelen noodzakelijk zijn.
 
@@ -342,19 +368,19 @@ De minister kan besluiten dat een wijziging van het bestaande veiligheidscertifi
 
 #### § 5. Beoordelingsinstanties als bedoeld in uitvoeringsverordening (EU) 402/2013
 
-#### Artikel 32. Eisen aan beoordelingsinstanties
+##### Artikel 32. Eisen aan beoordelingsinstanties
 
 1. Een in Nederland gevestigde beoordelingsinstantie als bedoeld in artikel 3, onderdeel 14, van uitvoeringsverordening (EU) 402/2013 beschikt, overeenkomstig die uitvoeringsverordening, over een accreditatiecertificaat, verleend door de Raad voor Accreditatie.
 
 2. Erkenningen van beoordelingsinstanties als bedoeld in artikel 3, onderdeel 14, van uitvoeringsverordening (EU) 402/2013, die zijn verleend voor 16 juni 2019, blijven geldig onder de voorwaarden waaronder zij zijn verleend.
 
-#### Artikel 33. Aanmelding beoordelingsinstanties
+##### Artikel 33. Aanmelding beoordelingsinstanties
 
 De minister meldt de beoordelingsinstanties als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042287&hoofdstuk=3&paragraaf=5&artikel=32&z=2025-01-01&g=2025-01-01), aan overeenkomstig artikel 13 van uitvoeringsverordening (EU) 402/2013.
 
 #### § 6. Veiligheid en risicobeheersing van, op en rond spoorwegen
 
-#### Artikel 34. Veiligheid en risicobeheersing
+##### Artikel 34. Veiligheid en risicobeheersing
 
 1. Onverminderd het bepaalde in [uitvoeringsverordening (EU) 402/2013](32013R0402) en gedelegeerde [verordening (EU) 2018/762](32018R0762) voldoen spoorwegondernemingen en een beheerder aan de eisen, bedoeld in artikel 4, derde lid, onderdeel d, van de spoorwegveiligheidsrichtlijn.
 
@@ -366,7 +392,7 @@ De minister meldt de beoordelingsinstanties als bedoeld in [artikel 32, eerste l
 
 ### Hoofdstuk 4. Handhaving
 
-#### Artikel 35. Handhaving uitvoeringshandelingen en gedelegeerde handelingen
+##### Artikel 35. Handhaving uitvoeringshandelingen en gedelegeerde handelingen
 
 1. Met het toezicht op de naleving van de gedelegeerde handelingen die overeenkomstig artikel 27 van de spoorwegveiligheidsrichtlijn of artikel 50 van de interoperabiliteitsrichtlijn zijn vastgesteld en de uitvoeringshandelingen die overeenkomstig artikel 28, derde lid van de spoorwegveiligheidsrichtlijn of artikel 51 van de interoperabiliteitsrichtlijn zijn vastgesteld, zijn belast de bij besluit van de minister daartoe aangewezen personen.
 
@@ -394,33 +420,33 @@ De minister meldt de beoordelingsinstanties als bedoeld in [artikel 32, eerste l
 
 #### § 1. Wijziging van de [Regeling indienststelling spoorvoertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0031350)
 
-#### Artikel 36
+##### Artikel 36
 
 Wijzigt de Regeling indienststelling spoorvoertuigen.
 
 #### § 2. Wijziging van de [Regeling Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017940)
 
-#### Artikel 37
+##### Artikel 37
 
 wijzigt de Regeling Onderzoeksraad voor veiligheid.
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
-#### Artikel 38. Intrekking regelingen
+##### Artikel 38. Intrekking regelingen
 
 De [Regeling eisen keuringsinstanties Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0017709) en de [Regeling aanvraag veiligheidscertificaat en eisen veiligheidsbeheersysteem hoofdspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0038025) worden ingetrokken.
 
-#### Artikel 39. Inwerkingtreding
+##### Artikel 39. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 16 juni 2019.
 
-#### Artikel 40. Citeertitel
+##### Artikel 40. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling interoperabiliteit en veiligheid spoorwegen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 34a. Spoorvoertuig voor strikt historisch gebruik
+##### Artikel 34a. Spoorvoertuig voor strikt historisch gebruik
 
 1. Ten aanzien van een spoorvoertuig voor strikt historisch gebruik dat hoofdzakelijk wordt gebruikt op infrastructuur als bedoeld in artikel 2, derde lid, onderdeel b, van de spoorwegveiligheidsrichtlijn, is aan de verplichting, bedoeld in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=36), voldaan als de met het onderhoud belaste entiteit een onderhoudssysteem heeft dat voldoet aan Bijlage III van de spoorwegveiligheidsrichtlijn.
 

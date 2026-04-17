@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling voortzetting financieel toezicht op Curaçao en Sint Maarten"
+title: "Besluit van 5 juli 2022, nr. 2022001458 houdende de vaststelling tot voortzetting van het financieel toezicht op Curaçao en Sint Maarten"
 identifier: "BWBR0046983"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-09-01
-laatste_update: 2022-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046983"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-09-01"
+last_updated: "2022-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046983"
+soort: "ministeriele-regeling"
+stam_id: "16439273"
+version_id: "28799032"
+internal_id: "C40778631"
+label_id: "16363304"
+dtd_version: "2.0"
+original_entry_into_force: "2022-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046983/2022-09-01/0"
+intitule_bron: "Stcrt.2022-18830"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-07-05"
+intitule_published: "2022-07-19"
+intitule_in_force: "2022-07-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-18830"
+original_signed_date: "2022-07-05"
+original_published_date: "2022-07-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-18830"
+entry_into_force_date: "2022-09-01"
+jci_1_3: "jci1.3:c:BWBR0046983&z=2022-09-01&g=2022-09-01"
+jci_1_0: "1.0:c:BWBR0046983&g=2022-09-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling voortzetting financieel toezicht op Curaçao en Sint Maarten"
+signed_date: "2022-07-05"
+entry_into_force: "2022-09-01"
 ---
-
 # Besluit van 5 juli 2022, nr. 2022001458 houdende de vaststelling tot voortzetting van het financieel toezicht op Curaçao en Sint Maarten
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 21 juni 2022, nr. 2022-0000342624

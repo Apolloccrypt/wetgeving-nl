@@ -1,13 +1,37 @@
 ---
 title: "Regeling centraal examen 2006"
 identifier: "BWBR0024727"
-categorie: "Onderwijs"
-publicatiedatum: 2004-08-01
-laatste_update: 2004-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024727"
+country: "nl"
+rank: "zbo"
+publication_date: "2004-08-01"
+last_updated: "2004-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024727"
+soort: "zbo"
+stam_id: "9772263"
+version_id: "15851232"
+internal_id: "C21739181"
+label_id: "9749204"
+dtd_version: "2.0"
+original_entry_into_force: "2004-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024727/2004-08-01/0"
+intitule_bron: "Uitleg.2004-11/12"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-06-17"
+intitule_published: "2004-07-07"
+intitule_in_force: "2004-07-07"
+intitule_status: "goed"
+original_publication: "Uitleg.2004-11/12"
+original_signed_date: "2004-06-17"
+original_published_date: "2004-07-07"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2004-08-01"
+jci_1_3: "jci1.3:c:BWBR0024727&z=2004-08-01&g=2004-08-01"
+jci_1_0: "1.0:c:BWBR0024727&g=2004-08-01"
+citeertitel_status: "officieel"
+signed_date: "2004-06-17"
+entry_into_force: "2004-08-01"
 ---
-
 # Regeling centraal examen 2006
 
 Gelet op:
@@ -20,7 +44,7 @@ Besluit:
 
 #### Paragraaf 1. Centraal examen 2005
 
-#### Artikel 1. Examenstof tekenen, handenarbeid, textiele werkvormen vwo en havo
+##### Artikel 1. Examenstof tekenen, handenarbeid, textiele werkvormen vwo en havo
 
 1. Het thema voor het c.s.e. tehatex vwo 2005 is: kunst, kennis, kunde. Raakvlakken tussen kunst, wetenschap en techniek.
 
@@ -28,7 +52,7 @@ Besluit:
 
 3. De eindtermen en stofbeperking van dit Thema staan in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024727&bijlage=5&z=2004-08-01&g=2004-08-01).
 
-#### Artikel 2. Centraal examen geschiedenis en aardrijkskunde vmbo
+##### Artikel 2. Centraal examen geschiedenis en aardrijkskunde vmbo
 
 1. In september wordt een explicitering bekend gemaakt van de exameneenheden waarover het centraal examen zich in 2005 uitstrekt.
 
@@ -36,7 +60,7 @@ Besluit:
 
 #### Paragraaf 2. Centraal examen 2006
 
-#### Artikel 3. Examenrooster
+##### Artikel 3. Examenrooster
 
 1. De dagen waarop in 2006 de centrale examens beginnen zijn:
 
@@ -62,17 +86,17 @@ Besluit:
 
 #### Paragraaf 3. Vaststelling van domeinen, onderwerpen en stofomschrijvingen 2006 en volgende jaren
 
-#### Artikel 4. Examen CKV2
+##### Artikel 4. Examen CKV2
 
 De examentoets culturele en kunstzinnige vorming 2 (CKV2) in 2006 en volgende jaren heeft betrekking op de domeinen zoals aangegeven in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024727&bijlage=4&z=2004-08-01&g=2004-08-01).
 
-#### Artikel 5. Centraal schriftelijk examen tekenen, handenarbeid en textiele werkvormen v.w.o.
+##### Artikel 5. Centraal schriftelijk examen tekenen, handenarbeid en textiele werkvormen v.w.o.
 
 1. Het thema voor het c.s.e. tehatex vwo 2006 is: Utopia.
 
 2. De probleemstellingen en stofbeperking naar aanleiding van dit thema worden bekend gemaakt in juni 2005.
 
-#### Artikel 6. Examenonderwerpen filosofie
+##### Artikel 6. Examenonderwerpen filosofie
 
 1. De regeling VO/BOB-2002/56626 van 12 februari 2003, Gele katern 2003, nr. 1 wordt verlengd
 
@@ -84,7 +108,7 @@ De examentoets culturele en kunstzinnige vorming 2 (CKV2) in 2006 en volgende ja
 
 3. Voor het vwo is in de examenjaren 2008 en 2009 domein B, wijsgerige antropologie, het domein voor het centraal examen. Het onderwerp van het centraal examen is Rede en religie. Dit onderwerp heeft mede betrekking op domein D, kennisleer.
 
-#### Artikel 7. Thema centraal examen geschiedenis v.w.o. en h.a.v.o
+##### Artikel 7. Thema centraal examen geschiedenis v.w.o. en h.a.v.o
 
 1. Voor het havo en het vwo is in 2006 en 2007 het thema voor het centraal examen geschiedenis Van kind tot burger, Volksopvoeding via het onderwijs in Nederland (1780-1920), Dit thema behoort bij domein C, primaire samenlevingsverbanden, subdomein primaire samenlevingsverbanden en opvoeding.
 
@@ -92,7 +116,7 @@ De examentoets culturele en kunstzinnige vorming 2 (CKV2) in 2006 en volgende ja
 
 3. Voor het havo en het vwo is in 2007 en 2008 het thema voor het centraal examen geschiedenis Indië/Indonesië. Dit thema behoort bij het domein F, ontmoetingen tussen culturen, subdomein contacten tussen westerse en ’niet westerse’ samenlevingen.
 
-#### Artikel 8. Domeinen centraal examen maatschappijleer v.w.o. en h.a.v.o.
+##### Artikel 8. Domeinen centraal examen maatschappijleer v.w.o. en h.a.v.o.
 
 1. De regeling VO/BOB-2002/23003 van 25 juli 2002, Gele katern 2002, nr. 18 wordt als volgt toegepast.
 
@@ -102,7 +126,7 @@ De examentoets culturele en kunstzinnige vorming 2 (CKV2) in 2006 en volgende ja
 
 2. Voor het eindexamen h.a.v.o. wordt in september 2004 een toelichting bekend gemaakt van het domein mens en werk. Een concept van deze toelichting wordt geplaatst op www.cevo.nl
 
-#### Artikel 9. Explicitering examenstof vmbo
+##### Artikel 9. Explicitering examenstof vmbo
 
 1. Voor nader te bepalen vakken maakt de CEVO een explicitering van de examenstof bekend.
 
@@ -114,17 +138,17 @@ De examentoets culturele en kunstzinnige vorming 2 (CKV2) in 2006 en volgende ja
 
 #### Paragraaf 4. Slotbepalingen
 
-#### Artikel 8. Bekendmaking
+##### Artikel 8. Bekendmaking
 
 1. Deze regeling wordt met de toelichting en de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024727&bijlage=1&z=2004-08-01&g=2004-08-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0024727&bijlage=2&z=2004-08-01&g=2004-08-01),[3](https://wetten.overheid.nl/jci1.3:c:BWBR0024727&bijlage=3&z=2004-08-01&g=2004-08-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0024727&bijlage=4&z=2004-08-01&g=2004-08-01) bekend gemaakt in het officiële publicatieblad van het Ministerie van Onderwijs, Cultuur en Wetenschap. Van deze bekendmaking wordt mededeling gedaan in de Staatscourant.
 
 2. De [bijlagen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024727&bijlage=5&z=2004-08-01&g=2004-08-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024727&bijlage=6&z=2004-08-01&g=2004-08-01) bij deze regeling worden bekend gemaakt op www.cfi.nl en op Het Examenblad.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Deze regeling treed in werking op 1 augustus 2004.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze regeling kan worden aangehaald als de Regeling centraal examen 2006.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit buitengewoon opsporingsambtenaar Rijksinspectie Digitale Infrastructuur 2022"
+title: "Besluit van de Minister voor Rechtsbescherming van 15 augustus 2022 nr. BOACAT2022/058, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Agentschap Telecom"
 identifier: "BWBR0047059"
-categorie: "Strafrecht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047059"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047059"
+soort: "ministeriele-regeling"
+stam_id: "16457613"
+version_id: "28834342"
+internal_id: "C40828211"
+label_id: "16380344"
+dtd_version: "2.0"
+original_entry_into_force: "2022-08-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047059/2023-01-01/0"
+intitule_bron: "Stcrt.2022-21994"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-08-15"
+intitule_published: "2022-08-23"
+intitule_in_force: "2022-08-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-21994"
+original_signed_date: "2022-08-15"
+original_published_date: "2022-08-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-21994"
+entry_into_force_date: "2022-08-24"
+jci_1_3: "jci1.3:c:BWBR0047059&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0047059&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit buitengewoon opsporingsambtenaar Rijksinspectie Digitale Infrastructuur 2022"
+signed_date: "2022-08-15"
+entry_into_force: "2022-08-24"
 ---
-
 # Besluit van de Minister voor Rechtsbescherming van 15 augustus 2022 nr. BOACAT2022/058, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Agentschap Telecom
 
 Gelezen het verzoek van Agentschap Telecom van 2 augustus 2022 en de adviezen van hoofdofficier van justitie bij het arrondissementsparket Noord-Nederland en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
@@ -28,15 +54,15 @@ de [Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/j
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047059&artikel=2&z=2023-01-01&g=2023-01-01).
 
-#### Artikel 2
+##### Artikel 2
 
 De personen, werkzaam in de functie van inspecteur en senior inspecteur in dienst van de Rijksinspectie Digitale Infrastructuur, zijn aangewezen als buitengewoon opsporingsambtenaar.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein VI, Generieke Opsporing, zoals opgenomen in de bijlage bij de [Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0041447).
 
@@ -44,17 +70,17 @@ De personen, werkzaam in de functie van inspecteur en senior inspecteur in diens
 
 3. De buitengewoon opsporingsambtenaar vermeldt in zijn processen-verbaal en schriftelijke verslagleggingen het in het eerste lid genoemde domein.
 
-#### Artikel 4
+##### Artikel 4
 
 Op grond van dit besluit kunnen maximaal 40 personen als buitengewoon opsporingsambtenaar worden beëdigd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de hoofdofficier van justitie bij het arrondissementsparket Noord-Nederland.
 
 2. Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27).
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Rijksinspectie Digitale Infrastructuur brengt jaarlijks, voor 1 april, verslag uit over:
 
@@ -66,11 +92,11 @@ Op grond van dit besluit kunnen maximaal 40 personen als buitengewoon opsporings
 
 2. Dit verslag wordt toegezonden aan de in artikel 5 bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Rijksinspectie Digitale Infrastructuur 2022.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en vervalt vijf jaar na het tijdstip van inwerkingtreding.
 

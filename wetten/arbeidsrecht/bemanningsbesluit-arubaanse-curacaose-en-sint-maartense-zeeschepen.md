@@ -1,13 +1,39 @@
 ---
-title: "Bemanningsbesluit Arubaanse, Curaçaose en Sint Maartense zeeschepen"
+title: "Besluit van 22 januari 2002, houdende regels omtrent de bemanning van zeeschepen, varende onder de vlag van het Koninkrijk met een Nederlands-Antilliaanse of Arubaanse zeebrief (Bemanningsbesluit Nederlands-Antilliaanse en Arubaanse zeeschepen)"
 identifier: "BWBR0013361"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013361"
+country: "nl"
+rank: "rijks_kb"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013361"
+soort: "rijksKB"
+stam_id: "1664493"
+version_id: "2456682"
+internal_id: "C2456681"
+label_id: "1619224"
+dtd_version: "2.0"
+original_entry_into_force: "2002-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013361/2010-10-10/0"
+intitule_bron: "Stb.2002-44"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-01-22"
+intitule_published: "2002-01-31"
+intitule_in_force: "2002-01-31"
+intitule_status: "goed"
+original_publication: "Stb.2002-44"
+original_signed_date: "2002-01-22"
+original_published_date: "2002-01-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2002-44"
+entry_into_force_date: "2002-02-01"
+jci_1_3: "jci1.3:c:BWBR0013361&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0013361&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Bemanningsbesluit Arubaanse, Curaçaose en Sint Maartense zeeschepen"
+signed_date: "2002-01-22"
+entry_into_force: "2002-02-01"
 ---
-
 # Besluit van 22 januari 2002, houdende regels omtrent de bemanning van zeeschepen, varende onder de vlag van het Koninkrijk met een Nederlands-Antilliaanse of Arubaanse zeebrief (Bemanningsbesluit Nederlands-Antilliaanse en Arubaanse zeeschepen)
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 30 oktober 2001, nr. DGG/J-01/006289, Directoraat-Generaal Goederenvervoer, Stafafdeling Wetgeving, Bestuurlijke en Juridische Zaken;
@@ -26,7 +52,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Definities en reikwijdte
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -82,7 +108,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - z. Onze Minister: Onze Minister van Aruba, Curaçao, onderscheidenlijk Sint Maarten, verantwoordelijk voor scheepvaart.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Dit besluit is van toepassing ten aanzien van in de vaart zijnde schepen, voorzien van een Arubaanse, Curaçaose, onderscheidenlijk Sint Maartense zeebrief.
 
@@ -102,13 +128,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 1. Algemene bepalingen met betrekking tot de aanstelling en handhaving van een veilige bemanning
 
-#### Artikel 3
+##### Artikel 3
 
 1. De scheepsbeheerder draagt zorg voor het voldoende en op doelmatige wijze bemannen van een schip met inachtneming van dit besluit en de hierop berustende bepalingen, alsmede wat betreft de bemanningssamenstelling, van de op hem rustende verplichting ingevolge artikel 458 van het Wetboek van Koophandel van Aruba, van Curaçao, onderscheidenlijk van Sint Maarten.
 
 2. De scheepsbeheerder verschaft de kapitein de middelen die hem in staat stellen om aan zijn verplichtingen ingevolge dit besluit te voldoen.
 
-#### Artikel 4
+##### Artikel 4
 
 De scheepsbeheerder houdt, ten behoeve van de met het toezicht op de naleving van dit besluit belaste autoriteiten, per schip van elk daarop dienstdoend bemanningslid een overzicht bij van ten minste het volgende:
 
@@ -120,11 +146,11 @@ De scheepsbeheerder houdt, ten behoeve van de met het toezicht op de naleving va
 
 - d. de medische geschiktheid.
 
-#### Artikel 5
+##### Artikel 5
 
 De scheepsbeheerder draagt ervoor zorg dat de bemanningsleden bij hun tewerkstelling aan boord vertrouwd zijn met hun specifieke taken, de regelingen en procedures aan boord, alsmede de installaties, uitrusting en kenmerken van het schip, die verband houden met hun taken zowel onder normale omstandigheden als in noodsituaties.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien de feiten of omstandigheden daartoe aanleiding geven, verzoekt de kapitein de scheepsbeheerder hem vóór een bepaald tijdstip de benodigde aanvullende middelen te verschaffen. Een mondeling verzoek wordt zo spoedig mogelijk schriftelijk bevestigd.
 
@@ -132,7 +158,7 @@ De scheepsbeheerder draagt ervoor zorg dat de bemanningsleden bij hun tewerkstel
 
 3. De kapitein houdt aantekening in het scheepsdagboek van de feiten en omstandigheden, alsmede van het tijdstip van het mondeling verzoek.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De scheepsbeheerder draagt ervoor zorg dat alle bemanningsleden die als chef van de wacht als bedoeld in sectie A-VIII/2, onderdeel 1 van de STCW-Code, zijn aangesteld, alsmede de bemanningsleden die dienstdoen als wachtgezel, niet minder dan zeventig uur rust wordt gegeven gedurende elke periode van zeven dagen.
 
@@ -144,13 +170,13 @@ De scheepsbeheerder draagt ervoor zorg dat de bemanningsleden bij hun tewerkstel
 
 #### § 2. Bemanningscertificaat
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een schip is voorzien van een geldig bemanningscertificaat als bedoeld in Hoofdstuk V, voorschrift 13, onderdeel (b), van het SOLAS-Verdrag, afgegeven door het hoofd van de Scheepvaartinspectie op aanvraag van de scheepsbeheerder.
 
 2. Een schip is ten minste bemand overeenkomstig het bemanningscertificaat.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Op het bemanningscertificaat worden de kenmerken van het schip en, zo nodig, de bijzonderheden ten aanzien van het gebruik van het schip in relatie tot de bemanning vermeld.
 
@@ -158,25 +184,25 @@ De scheepsbeheerder draagt ervoor zorg dat de bemanningsleden bij hun tewerkstel
 
 3. De kapitein zorgt er voor dat een van de exemplaren van het geldigebemanningscertificaat op een voor eenieder duidelijk zichtbare plaats aan boord van het schip wordt opgehangen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien voor een schip meer dan een bemanningssamenstelling is toegestaan, wordt voor elke bemanningssamenstelling een bemanningscertificaat afgegeven.
 
 2. Bij wisseling van bemanningssamenstelling tekent de kapitein in het scheepsdagboek aan volgens welke samenstelling het schip vanaf dat tijdstip is bemand.
 
-#### Artikel 11
+##### Artikel 11
 
 Nadat een nieuw bemanningscertificaat voor een schip is afgegeven, draagt de scheepsbeheerder ervoor zorg dat het oude bemanningscertificaat zo spoedig mogelijk aan het hoofd van de Scheepvaartinspectie wordt gezonden.
 
 #### § 3. Regels voor het geven van ontheffing
 
-#### Artikel 12
+##### Artikel 12
 
 Op aanvraag van de scheepsbeheerder kan het hoofd van de Scheepvaartinspectie tot de aankomst in de eerstvolgende haven ontheffing verlenen van de verplichting om het schip te bemannen in overeenstemming met het bemanningscertificaat, indien blijkt dat korte tijd voor het vertrek van het schip uit de haven een of meer leden van de bemanning niet beschikbaar zijn, en dringende omstandigheden ertoe nopen het vertrek niet langer uit te stellen, mits met de aan boord aanwezige bemanning, gelet op de bijzonderheden van de reis, het schip deze reis zonder gevaar kan ondernemen.
 
 #### § 4. Aanvullende eisen ten aanzien van de bemanning
 
-#### Artikel 13
+##### Artikel 13
 
 1. Bemanningsleden, aan wie in de alarmrol van het schip een veiligheidstaak wordt opgedragen, dan wel die een taak ten aanzien van het voorkomen van verontreiniging van de zee hebben, zijn in het bezit van een kennisbewijs waaruit blijkt dat zij met goed gevolg een erkende training en opleiding «basisveiligheid» als bedoeld in [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=4&paragraaf=7&artikel=65&z=2010-10-10&g=2010-10-10) hebben gevolgd, tenzij zij aan de hand van een monsterboekje of van een soortgelijk document kunnen aantonen dat zij reeds vóór 1 augustus 1998 aan boord van zeeschepen werkzaam waren.
 
@@ -196,7 +222,7 @@ Op aanvraag van de scheepsbeheerder kan het hoofd van de Scheepvaartinspectie to
 
 - f. de brand- en waterdichte deuren, met uitzondering van die ter afsluiting van openingen in de romp, te kunnen sluiten en openen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De kapitein van een schip zorgt er voor dat vóór het ondernemen van een reis en gedurende de reis voldoende sloepsgasten, in het bezit van het kennisbewijs, bedoeld in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=4&paragraaf=7&artikel=66&z=2010-10-10&g=2010-10-10), aan boord zijn overeenkomstig [artikel 10, derde lid, van Bijlage XIA van het Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=XIA).
 
@@ -204,7 +230,7 @@ Op aanvraag van de scheepsbeheerder kan het hoofd van de Scheepvaartinspectie to
 
 3. De kapitein van een schip dat is uitgerust met snelle hulpverleningsboten zorgt er voor dat voor het ondernemen van een reis en gedurende de reis voor elke snelle hulpverleningsboot tenminste twee bemanningsleden beschikbaar zijn die het kennisbewijs «bekwaamheid in het gebruik van snelle hulpverleningsboten», als bedoeld in [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=4&paragraaf=7&artikel=67&z=2010-10-10&g=2010-10-10), bezitten.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De kapitein en het bemanningslid aan wie door de kapitein, onder diens verantwoordelijkheid, de zorg voor het gebruik en het beheer van de medische uitrusting is opgedragen, zijn in het bezit van het kennisbewijs «scheepsgezondheidszorg-O (onbeperkt)», bedoeld in [artikel 69, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=4&paragraaf=7&artikel=69&z=2010-10-10&g=2010-10-10). Indien aan het schip een certificaat van deugdelijkheid voor beperkt vaargebied is afgegeven in die zin dat het schip uitsluitend reizen onderneemt in zeegebied A2, zoals omschreven in [artikel 2 van Bijlage V van het Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=V), kan worden volstaan met het bezit van het kennisbewijs «scheepsgezondheidszorg-B (beperkt)», bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=4&paragraaf=7&artikel=69&z=2010-10-10&g=2010-10-10).
 
@@ -214,7 +240,7 @@ Op aanvraag van de scheepsbeheerder kan het hoofd van de Scheepvaartinspectie to
 
 4. Bij landsbesluit, houdende algemene maatregelen, kunnen nadere regels worden gesteld ter uitvoering van dit artikel.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Op een schip dat op een internationaal traject van meer dan drie dagen vaart met een bemanning en overig personeel aan boord van honderd personen of meer, is een arts aanwezig. Deze verplichting geldt ongeacht in welke hoedanigheid deze personen aan boord ten behoeve van het schip in dienst of tewerkgesteld zijn, en betreft tevens stagiairs en leerlingen, alsmede personen die werkzaam zijn als loods.
 
@@ -222,7 +248,7 @@ Op aanvraag van de scheepsbeheerder kan het hoofd van de Scheepvaartinspectie to
 
 3. Indien aan het eerste lid is voldaan, kan in afwijking van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=2&paragraaf=4&artikel=15&z=2010-10-10&g=2010-10-10), voor de kapitein worden volstaan met het bezit van het kennisbewijs «scheepsgezondheidszorg-B», bedoeld in [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=4&paragraaf=7&artikel=69&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 17
+##### Artikel 17
 
 1. Aan boord van een schip dat reizen onderneemt buiten het zeegebied A1, zoals omschreven in [artikel 2 van Bijlage V van het Schepenbesluit 1965](onbekend), is ten minste één persoon die kan optreden als chef van de wacht, bedoeld in sectie A-VIII/2, onderdeel 1 van de STCW-Code, in het bezit van een algemeen certificaat «maritieme radiocommunicatie», afgegeven in overeenstemming met de wettelijke voorschriften dienaangaande van Aruba, Curaçao, onderscheidenlijk Sint Maarten.
 
@@ -230,7 +256,7 @@ Op aanvraag van de scheepsbeheerder kan het hoofd van de Scheepvaartinspectie to
 
 3. Aan boord van een schip dat uitsluitend reizen onderneemt in zeegebied A1, is ten minste één persoon, die als chef van de wacht kan optreden, in het bezit van het beperkt certificaat «maritieme radiocommunicatie», afgegeven in overeenstemming met de wettelijke voorschriften dienaangaande van Aruba, Curaçao, onderscheidenlijk Sint Maarten.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De kapitein van een passagierschip zorgt er voor dat:
 
@@ -246,7 +272,7 @@ Op aanvraag van de scheepsbeheerder kan het hoofd van de Scheepvaartinspectie to
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 19
+##### Artikel 19
 
 1. Eenieder die aan boord van een schip een functie verricht, waarvoor krachtens dit besluit eisen zijn gesteld, is in het bezit van een geldig vaarbevoegdheidsbewijs voor die functie.
 
@@ -262,7 +288,7 @@ Op aanvraag van de scheepsbeheerder kan het hoofd van de Scheepvaartinspectie to
 
 - e. gezel.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De vaarbevoegdheden kunnen alleen worden uitgeoefend aan boord van olietankschepen, chemicaliëntankschepen, gastankschepen, stoomschepen of op een andere bij landsbesluit, houdende algemene maatregelen, aan te wijzen categorie van schepen, indien dit uitdrukkelijk is aangegeven op het vaarbevoegdheidsbewijs.
 
@@ -270,21 +296,21 @@ Op aanvraag van de scheepsbeheerder kan het hoofd van de Scheepvaartinspectie to
 
 3. De vaarbevoegdheden als eerste maritiem officier kleine schepen en maritiem officier kleine schepen zijn uitsluitend geldig op schepen van minder dan 3000 GT en een voortstuwingsvermogen van minder dan 3000 kW.
 
-#### Artikel 21
+##### Artikel 21
 
 Een vaarbevoegdheidsbewijs is geldig tot ten hoogste vijf jaar na de datum van afgifte.
 
-#### Artikel 22
+##### Artikel 22
 
 Tenzij uitdrukkelijk anders is bepaald wordt de ervaring of diensttijd uitgedrukt in jaren en behaald in ten minste de functie van wachtstuurman, wachtwerktuigkundige of maritiem officier.
 
 #### § 2. Aanvraag en afgifte
 
-#### Artikel 23
+##### Artikel 23
 
 Een vaarbevoegdheidsbewijs wordt afgegeven door het hoofd van de Scheepvaartinspectie, indien de aanvrager aantoont te beschikken over de ingevolge dit besluit vereiste kennis, ervaring en medische geschiktheid, mits het kennisbewijs ten hoogste vier jaar vóór het indienen van de aanvraag is afgegeven.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Een vaarbevoegdheidsbewijs dat verloren is gegaan, kan worden vervangen door een duplicaat vaarbevoegdheidsbewijs, waarvan de datum van het verstrijken van de geldigheidsduur overeenkomt met die op het originele document.
 
@@ -294,7 +320,7 @@ Een vaarbevoegdheidsbewijs wordt afgegeven door het hoofd van de Scheepvaartinsp
 
 #### § 3. Aanvullende en beperkende bepalingen op vaarbevoegdheidsbewijzen
 
-#### Artikel 25
+##### Artikel 25
 
 1. Indien het een aanvraag betreft voor een vaarbevoegdheidsbewijs voor het dienstdoen op alle schepen, dan wel op schepen minder dan 3000 GT of met een voortstuwingsvermogen van minder dan 3000 kW, wordt op verzoek van de belanghebbende door het hoofd van de Scheepvaartinspectie een aantekening aangebracht dat het mede geldig is voor een of meer van de in het tweede lid genoemde scheepstypen, mits belanghebbende bij de aanvraag de desbetreffende kennisbewijzen en bewijzen van diensttijd heeft overlegd.
 
@@ -302,7 +328,7 @@ Een vaarbevoegdheidsbewijs wordt afgegeven door het hoofd van de Scheepvaartinsp
 
 3. Indien het een aanvraag betreft van een vaarbevoegdheidsbewijs voor het dienstdoen als radio-operator plaatst het hoofd van de Scheepvaartinspectie op grond van de bij de aanvraag overlegde kennisbewijzen de aantekening «Algemeen» dan wel «Beperkt» op het vaarbevoegdheidsbewijs.
 
-#### Artikel 26
+##### Artikel 26
 
 Indien de aanvraag een vaarbevoegdheidsbewijs betreft voor het uitsluitend dienstdoen op schepen van minder dan 3000 GT of met een voortstuwingsvermogen van minder dan 3000 kW, kan het hoofd van de Scheepvaartinspectie op grond van de overgelegde kennisbewijzen en bewijzen van diensttijd de volgende beperkende aantekeningen of combinaties daarvan op het vaarbevoegdheidsbewijs aanbrengen:
 
@@ -312,7 +338,7 @@ Indien de aanvraag een vaarbevoegdheidsbewijs betreft voor het uitsluitend diens
 
 #### § 4. Vernieuwing
 
-#### Artikel 27
+##### Artikel 27
 
 Een vaarbevoegdheidsbewijs of een aanvulling daarop kan vernieuwd worden, indien de houder in de periode van vijf jaar voorafgaand aan de datum van de aanvraag tot vernieuwing, ten minste één jaar heeft dienstgedaan in een naar het oordeel van het hoofd van de Scheepvaartinspectie relevante functie waarvoor een vaarbevoegdheid is vereist, en die door de houder op grond van de aan hem toegekende vaarbevoegdheden mocht worden vervuld, dan wel in een van de volgende functies:
 
@@ -348,7 +374,7 @@ Een vaarbevoegdheidsbewijs of een aanvulling daarop kan vernieuwd worden, indien
 
 - d. voor de functie van radio-operator: radio-operator werkzaam in de operationele dienst van de kustwacht en bedrijfspersoneel betrokken bij de bediening, installatie of reparatie van radiocommunicatie- en radionavigatie-apparatuur.
 
-#### Artikel 28
+##### Artikel 28
 
 Voor de vernieuwing van een aanvullende aantekening op het vaarbevoegdheidsbewijs dat tevens geldig is voor het dienstdoen aan boord van een van de volgende categorieën schepen, legt de aanvrager een bewijs over dat hij voldoet aan het bij elke categorie genoemde vereiste:
 
@@ -364,7 +390,7 @@ Voor de vernieuwing van een aanvullende aantekening op het vaarbevoegdheidsbewij
 
 - f. ro-ro passagiersschepen: het in een periode van vijf jaar voorafgaand aan de datum van de aanvraag tot vernieuwing ten minste één jaar dienst hebben gedaan aan boord van ro-ro passagiersschepen.
 
-#### Artikel 29
+##### Artikel 29
 
 1. In een geval van vernieuwing als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=3&paragraaf=4&artikel=28&z=2010-10-10&g=2010-10-10), wordt het oorspronkelijke vaarbevoegdheidsbewijs dat is vernieuwd, ingenomen of, zonodig, ongeldig gemaakt.
 
@@ -378,7 +404,7 @@ Voor de vernieuwing van een aanvullende aantekening op het vaarbevoegdheidsbewij
 
 #### § 5. Intrekking van vaarbevoegdheden
 
-#### Artikel 30
+##### Artikel 30
 
 1. Onze Minister, onderzoekt schriftelijke meldingen over of aanwijzingen van onbekwaamheid tot het uitoefenen van een functie aan boord van houders van een vaarbevoegdheidsbewijs als bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=3&paragraaf=1&artikel=19&z=2010-10-10&g=2010-10-10), of [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=3&paragraaf=7&artikel=33&z=2010-10-10&g=2010-10-10).
 
@@ -388,7 +414,7 @@ Voor de vernieuwing van een aanvullende aantekening op het vaarbevoegdheidsbewij
 
 4. Indien de houder van een vaarbevoegdheidsbewijs niet aan de in het tweede lid bedoelde verplichting voldoet, zonder dat van een geldige reden daartoe blijkt, kan het hoofd van de Scheepvaartinspectie zonder nader onderzoek het afgegeven vaarbevoegdheidsbewijs ongeldig verklaren.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Het hoofd van de Scheepvaartinspectie trekt een vaarbevoegdheidsbewijs als bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=3&paragraaf=1&artikel=19&z=2010-10-10&g=2010-10-10) of [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=3&paragraaf=7&artikel=33&z=2010-10-10&g=2010-10-10), in, indien uit een onderzoek naar de bekwaamheid, bedoeld in [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=3&paragraaf=5&artikel=30&z=2010-10-10&g=2010-10-10), blijkt dat de houder niet meer voldoet aan de in [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=4&z=2010-10-10&g=2010-10-10) bedoelde beroepsvereisten.
 
@@ -402,7 +428,7 @@ Voor de vernieuwing van een aanvullende aantekening op het vaarbevoegdheidsbewij
 
 #### § 6. Ontheffingen
 
-#### Artikel 32
+##### Artikel 32
 
 1. Het hoofd van de Scheepvaartinspectie kan ten aanzien van een bemanningslid voor een bepaald schip en voor een periode van ten hoogste zes maanden ontheffing verlenen van de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=3&paragraaf=5&artikel=31&z=2010-10-10&g=2010-10-10), bedoelde verplichting om in het bezit te zijn van een geldig vaarbevoegdheidsbewijs, indien:
 
@@ -416,13 +442,13 @@ Voor de vernieuwing van een aanvullende aantekening op het vaarbevoegdheidsbewij
 
 #### § 7. Erkenning van vaarbevoegdheden
 
-#### Artikel 33
+##### Artikel 33
 
 1. Bij landsbesluit, houdende algemene maatregelen, worden vaarbevoegdheidsbewijzen, diploma's of certificaten erkend, die zijn afgegeven door een bevoegde autoriteit van een andere partij bij het STCW-Verdrag, indien met die partij een schriftelijke afspraak is gemaakt, zoals voorgeschreven in voorschrift I/10 van de bijlage van het STCW-Verdrag.
 
 2. Indien een vaarbevoegdheidsbewijs, diploma of kennisbewijs wordt erkend als gelijkwaardig aan een vaarbevoegdheidsbewijs als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=3&paragraaf=1&artikel=19&z=2010-10-10&g=2010-10-10), wordt aan de aanvrager, met inachtneming van [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=3&paragraaf=1&artikel=19&z=2010-10-10&g=2010-10-10), het overeenkomstige vaarbevoegdheidsbewijs van erkenning afgegeven.
 
-#### Artikel 34
+##### Artikel 34
 
 Voor de afgifte van een vaarbevoegdheidsbewijs van erkenning als kapitein, eerste stuurman of hoofdwerktuigkundige, legt de aanvrager het bewijs over dat hij een door Onze Minister, vastgestelde opleidingsmodule «wetgeving» met gunstig gevolg heeft afgesloten.
 
@@ -430,17 +456,17 @@ Voor de afgifte van een vaarbevoegdheidsbewijs van erkenning als kapitein, eerst
 
 #### § 1. Algemeen
 
-#### Artikel 35
+##### Artikel 35
 
 Een maritieme opleidingsinstelling en maritieme studie- en opleidingsprogramma's en cursussen, zowel binnen als buiten Aruba, Curaçao, onderscheidenlijk Sint Maarten gevestigd, kunnen door de landen worden erkend, indien zij voldoen aan de criteria die zijn vastgelegd in Secties A-I/6 en A-I/8 van de STCW-Code.
 
-#### Artikel 36
+##### Artikel 36
 
 Een kennisbewijs in de zin van dit besluit wordt afgegeven door het bevoegd gezag van een door Aruba, Curaçao, onderscheidenlijk Sint Maarten erkende opleiding of exameninstelling.
 
 #### § 2. Beroepsvereisten handelsvaart
 
-#### Artikel 37
+##### Artikel 37
 
 Voor de afgifte van het kennisbewijs «middelbaar maritiem officier»,
 
@@ -470,7 +496,7 @@ Voor de afgifte van het kennisbewijs «middelbaar maritiem officier»,
 
 - c. heeft de aanvrager een goedgekeurde stage aan boord vervuld van ten minste een jaar, als onderdeel van de onder b bedoelde opleiding, onder bijhouding van een goedgekeurd stageboek, en tijdens deze stage gedurende ten minste een half jaar wachtdienst op de brug gelopen onder toezicht van de kapitein, een bevoegde stuurman of een bevoegd maritiem officier en gedurende ten minste een half jaar dienst gedaan in de machinekamer.
 
-#### Artikel 38
+##### Artikel 38
 
 Voor de afgifte van het kennisbewijs «baggeraar-stuurman» of «wachtstuurman»,
 
@@ -492,7 +518,7 @@ Voor de afgifte van het kennisbewijs «baggeraar-stuurman» of «wachtstuurman»
 
 - c. heeft de aanvrager een goedgekeurde stage aan boord vervuld van ten minste een jaar, als onderdeel van de onder b bedoelde opleiding, onder bijhouding van een goedgekeurd stageboek, en tijdens deze stage gedurende ten minste een half jaar wachtdienst op de brug gelopen onder toezicht van de kapitein,een bevoegde stuurman of een bevoegd maritiem officier.
 
-#### Artikel 39
+##### Artikel 39
 
 Voor de afgifte van het kennisbewijs «aanvulling stuurman handelsvaart» is de aanvrager in het bezit van het kennisbewijs «stuurman grote zeilvaart» en
 
@@ -512,7 +538,7 @@ Voor de afgifte van het kennisbewijs «aanvulling stuurman handelsvaart» is de 
 
 - –. sectie A-V/1, paragrafen 2 tot en met 7 van de STCW-Code.
 
-#### Artikel 40
+##### Artikel 40
 
 Voor de afgifte van een kennisbewijs «baggeraar-machinist» of «wachtwerktuigkundige»,
 
@@ -534,7 +560,7 @@ Voor de afgifte van een kennisbewijs «baggeraar-machinist» of «wachtwerktuigk
 
 - c. heeft de aanvrager een goedgekeurde stage aan boord vervuld van ten minste een half jaar dienst in de machinekamer, als onderdeel van de onder b bedoelde opleiding, onder bijhouding van een goedgekeurd stageboek.
 
-#### Artikel 41
+##### Artikel 41
 
 Voor de afgifte van het kennisbewijs «stuurman-werktuigkundige kleine schepen»,
 
@@ -562,7 +588,7 @@ Voor de afgifte van het kennisbewijs «stuurman-werktuigkundige kleine schepen»
 
 - c. heeft de aanvrager een goedgekeurde stage aan boord vervuld van ten minste een jaar, als onderdeel van de onder b bedoelde opleiding, onder bijhouding van een goedgekeurd stageboek, en tijdens deze stage gedurende ten minste een half jaar buitengaats wachtdienst op de brug gelopen onder toezicht van de kapitein, een bevoegde stuurman of een bevoegd maritiem officier, en gedurende ten minste een half jaar dienst gedaan in de machinekamer.
 
-#### Artikel 42
+##### Artikel 42
 
 Voor de afgifte van het kennisbewijs «wachtstuurman tot 3000 GT»,
 
@@ -584,7 +610,7 @@ Voor de afgifte van het kennisbewijs «wachtstuurman tot 3000 GT»,
 
 - c. heeft de aanvrager een goedgekeurde stage aan boord vervuld van ten minste een jaar, als onderdeel van de onder b bedoelde opleiding, onder bijhouding van een goedgekeurd stageboek, en tijdens deze stage wachtdienst op de brug gelopen onder toezicht van de kapitein, een bevoegde stuurman of een bevoegd maritiem officier.
 
-#### Artikel 43
+##### Artikel 43
 
 Voor de afgifte van het kennisbewijs «wachtwerktuigkundige tot 3000 kW»,
 
@@ -606,7 +632,7 @@ Voor de afgifte van het kennisbewijs «wachtwerktuigkundige tot 3000 kW»,
 
 - c. heeft de aanvrager een goedgekeurde stage aan boord vervuld van ten minste een half jaar dienst in de machinekamer, als onderdeel van de onder b bedoelde opleiding, onder bijhouding van een goedgekeurd stageboek.
 
-#### Artikel 44
+##### Artikel 44
 
 Voor de afgifte van het kennisbewijs «schipper-machinist reizen nabij de kust»,
 
@@ -624,7 +650,7 @@ Voor de afgifte van het kennisbewijs «schipper-machinist reizen nabij de kust»
 
 - c. heeft de aanvrager een goedgekeurde stage van ten minste een half jaar aan boord vervuld, als onderdeel van de onder b bedoelde opleiding, onder bijhouding van een goedgekeurd stageboek, en tijdens deze stage gedurende ten minste een half jaar wachtdienst op de brug gelopen onder toezicht van de kapitein, van een bevoegde stuurman of een bevoegd maritiem officier.
 
-#### Artikel 45
+##### Artikel 45
 
 Voor de afgifte van het kennisbewijs «gezel» met de beperking tot de dekdienst,
 
@@ -634,7 +660,7 @@ Voor de afgifte van het kennisbewijs «gezel» met de beperking tot de dekdienst
 
 - c. heeft de aanvrager een goedgekeurde stage als aankomend gezel dekdienst aan boord vervuld van ten minste twee maanden, als onderdeel van de onder b. bedoelde opleiding, en onder bijhouding van een praktijkboek.
 
-#### Artikel 46
+##### Artikel 46
 
 Voor de afgifte van het kennisbewijs «gezel» met de beperking tot de machinekamerdienst,
 
@@ -644,15 +670,15 @@ Voor de afgifte van het kennisbewijs «gezel» met de beperking tot de machineka
 
 - c. heeft de aanvrager een goedgekeurde stage als aankomend gezel machinekamerdienst aan boord vervuld van ten minste twee maanden, als onderdeel van de onder b. bedoelde opleiding, en onder bijhouding van een praktijkboek.
 
-#### Artikel 47
+##### Artikel 47
 
 Voor de afgifte van het kennisbewijs «scheepsmanagement-N» heeft de aanvrager met goed gevolg examen afgelegd ter afsluiting van een opleiding die ten minste voldoet aan sectie A-II/2 van de STCW-Code, met name de aspecten coördinatie reddingsacties, opstellen wachtschema's en orders, bridge resource management, reageren op noodsituaties en personeelsmanagement.
 
-#### Artikel 48
+##### Artikel 48
 
 Voor de afgifte van het kennisbewijs «scheepsmanagement-W» heeft de aanvrager met goed gevolg examen afgelegd ter afsluiting van een, opleiding die ten minste voldoet aan sectie A-III/2 van de STCW-Code, met name de aspecten opstellen wachtschema's en orders, engine room resource management, reageren op noodsituaties en personeelsmanagement.
 
-#### Artikel 49
+##### Artikel 49
 
 Voor de afgifte van het kennisbewijs «radarnavigator» heeft de aanvrager met goed gevolg examen afgelegd ter afsluiting van een, opleiding en training die voldoet aan:
 
@@ -662,7 +688,7 @@ Voor de afgifte van het kennisbewijs «radarnavigator» heeft de aanvrager met g
 
 #### § 3. Beroepsvereisten ten aanzien van veiligheidstrainingen voor tankschepen
 
-#### Artikel 50
+##### Artikel 50
 
 Voor de afgifte van het kennisbewijs «behandeling en vervoer van aardolie en aardolieproducten in bulk aan boord van olietankschepen»,
 
@@ -672,7 +698,7 @@ Voor de afgifte van het kennisbewijs «behandeling en vervoer van aardolie en aa
 
 - c. heeft de aanvrager met goed gevolg een opleiding afgerond die voldoet aan sectie A-V/1, paragraaf 8 tot en met 14 van de STCW-Code.
 
-#### Artikel 51
+##### Artikel 51
 
 Voor de afgifte van het kennisbewijs «behandeling en vervoer van chemicaliën in bulk aan boord van chemicaliëntankschepen»,
 
@@ -682,7 +708,7 @@ Voor de afgifte van het kennisbewijs «behandeling en vervoer van chemicaliën i
 
 - c. heeft de aanvrager met goed gevolg een opleiding afgerond die voldoet aan sectie A-V/1, paragraaf 15 tot en met 21 van de STCW-Code.
 
-#### Artikel 52
+##### Artikel 52
 
 Voor de afgifte van het kennisbewijs «behandeling en vervoer van tot vloeistof verdichte of samengeperste gassen in bulk aan boord van gastankschepen»,
 
@@ -694,55 +720,55 @@ Voor de afgifte van het kennisbewijs «behandeling en vervoer van tot vloeistof 
 
 #### § 4. Beroepsvereisten ten aanzien van veiligheidstrainingen voor passagiersschepen
 
-#### Artikel 53
+##### Artikel 53
 
 Voor de afgifte van het bewijs «groepsbegeleiding in noodsituaties aan boord van passagiersschepen» heeft de aanvrager met goed gevolg een training afgerond die voldoet aan voorschrift V/3, paragraaf 4 van de bijlage bij het STCW-Verdrag en sectie A-V/3, paragraaf 1 van de STCW-Code.
 
-#### Artikel 54
+##### Artikel 54
 
 Voor de afgifte van het bewijs «familiarisatietraining passagiersschepen» heeft de aanvrager met goed gevolg een instructie en training afgerond die voldoet aan voorschrift V/3, paragraaf 5 van de bijlage bij het STCW-Verdrag en sectie A-V/3, paragraaf 2 van de STCW-Code.
 
-#### Artikel 55
+##### Artikel 55
 
 Voor de afgifte van het bewijs «hotelpersoneel passagiersschepen» heeft de aanvrager met goed gevolg een veiligheidstraining afgerond die voldoet aan voorschrift V/3, paragraaf 6 van de bijlage bij het STCW-Verdrag en sectie A-V/3, paragraaf 3 van de STCW-Code.
 
-#### Artikel 56
+##### Artikel 56
 
 Voor de afgifte van het kennisbewijs «passagiersveiligheid» heeft de aanvrager met goed gevolg een opleiding en training afgerond die voldoet aan voorschrift V/3, paragraaf 7 van de bijlage bij het STCW-Verdrag en sectie A-V/3, paragraaf 4 van de STCW-Code.
 
-#### Artikel 57
+##### Artikel 57
 
 Voor de afgifte van het kennisbewijs «crisisbeheersing en menselijk gedrag» heeft de aanvrager met goed gevolg een opleiding en training afgerond die voldoet aan voorschrift V/3, paragraaf 8 van de bijlage bij het STCW-Verdrag en sectie A-V/3, paragraaf 5 van de STCW-Code.
 
 #### § 5. Beroepsvereisten ten aanzien van veiligheidstrainingen voor ro-ro passagiersschepen
 
-#### Artikel 58
+##### Artikel 58
 
 Voor de afgifte van het bewijs «groepsbegeleiding in noodsituaties aan boord van ro-ro passagiersschepen» heeft de aanvrager met goed gevolg een training afgerond die voldoet aan voorschrift V/2, paragraaf 4 van de bijlage bij het STCW-Verdrag en sectie A-V/2, paragraaf 1 van de STCW-Code.
 
-#### Artikel 59
+##### Artikel 59
 
 Voor de afgifte van het bewijs «familiarisatietraining ro-ro passagierschepen» heeft de aanvrager met goed gevolg een instructie en training afgerond die voldoet aan voorschrift V/2, paragraaf 5 van de bijlage bij het STCW-Verdrag en sectie A-V/2, paragraaf 2 van de STCW-Code.
 
-#### Artikel 60
+##### Artikel 60
 
 Voor de afgifte van het bewijs «hotelpersoneel ro-ro passagiersschepen» heeft de aanvrager met goed gevolg een veiligheidstraining afgerond die voldoet aan voorschrift V/2, paragraaf 6 van de bijlage bij het STCW-Verdrag en sectie A-V/2, paragraaf 3 van de STCW-Code.
 
-#### Artikel 61
+##### Artikel 61
 
 Voor de afgifte van het kennisbewijs «passagiersveiligheid, ladingveiligheid en integriteit van de romp ro-ro passagiersschepen», heeft de aanvrager met goed gevolg een door de Nederlandse Antillen, onderscheidenlijk van Aruba, goedgekeurde instructie en training afgerond die voldoet aan voorschrift V/2, paragraaf 7 van de bijlage bij het STCW-Verdrag en sectie A-V/2, paragraaf 4 van de STCW-Code.
 
-#### Artikel 62
+##### Artikel 62
 
 Voor de afgifte van het kennisbewijs «crisisbeheersing en menselijk gedrag», heeft de aanvrager met goed gevolg een opleiding en training afgerond die voldoet aan voorschrift V/2, paragraaf 8 van de bijlage bij het STCW-Verdrag en sectie A-V/2, paragraaf 5 van de STCW-Code.
 
 #### § 6. Beroepsvereisten ten aanzien van bijzondere typen voortbewogen schepen
 
-#### Artikel 63
+##### Artikel 63
 
 Voor de afgifte van het kennisbewijs «stoomvoortstuwing» heeft de houder van ten minste het kennisbewijs «wachtwerktuigkundige», dan wel van ten minste het kennisbewijs A als scheepswerktuigkundige, met goed gevolg examen afgelegd ter afsluiting van een opleiding die ten minste voldoet aan sectie A-III/1 en sectie A-III/2 van de STCW-Code voor wat betreft de functie scheepswerktuigkunde, en met name de aspecten stoomketels, stoomturbines en veiligheidsvoorschriften.
 
-#### Artikel 64
+##### Artikel 64
 
 1. Voor de afgifte van een «type rating certificate» voor de dienst aan boord van een bepaald hogesnelheidsvaartuig heeft de aanvrager met goed gevolg een opleiding en training afgerond die voldoet aan voorschrift 18.3.3 van de High Speed Craft Code.
 
@@ -750,7 +776,7 @@ Voor de afgifte van het kennisbewijs «stoomvoortstuwing» heeft de houder van t
 
 #### § 7. Beroepsvereisten overige veiligheidstrainingen
 
-#### Artikel 65
+##### Artikel 65
 
 Voor de afgifte van het kennisbewijs «basisveiligheid» heeft de aanvrager met goed gevolg een opleiding en training afgerond die voldoet aan:
 
@@ -758,19 +784,19 @@ Voor de afgifte van het kennisbewijs «basisveiligheid» heeft de aanvrager met 
 
 - –. sectie A-VI/1, paragraaf 2 van de STCW-Code.
 
-#### Artikel 66
+##### Artikel 66
 
 Voor de afgifte van het kennisbewijs «sloepsgast» heeft de aanvrager met goed gevolg een opleiding en training afgerond die voldoet aan voorschrift VI/2, paragraaf 1 van de bijlage bij het STCW-Verdrag en sectie A-VI/2, paragraaf 1 tot en met 4, van de STCW-Code.
 
-#### Artikel 67
+##### Artikel 67
 
 Voor de afgifte van het kennisbewijs «bekwaamheid in het gebruik van snelle hulpverleningsboten» voldoet de aanvrager aan voorschrift VI/2, paragraaf 2 van de bijlage bij het STCW-Verdrag en heeft de aanvrager met goed gevolg een opleiding en training afgerond die voldoet aan sectie A-VI/2, paragraaf 5 tot en met 8, van de STCW-Code.
 
-#### Artikel 68
+##### Artikel 68
 
 Voor de afgifte van het kennisbewijs «brandbestrijding voor gevorderden» heeft de aanvrager met goed gevolg een opleiding en training afgerond die voldoet aan voorschrift VI/3, van de bijlage bij het STCW-Verdrag en sectie A-VI/3 van de STCW-Code.
 
-#### Artikel 69
+##### Artikel 69
 
 1. Voor de afgifte van het kennisbewijs «scheepsgezondheidszorg-B», heeft de aanvrager met goed gevolg een opleiding en training afgerond die voldoet aan sectie A-V1/4 van de STCW-Code. Deze opleiding en training omvatten in elk geval:
 
@@ -796,7 +822,7 @@ Voor de afgifte van het kennisbewijs «brandbestrijding voor gevorderden» heeft
 
 #### § 1. Kennisbewijzen
 
-#### Artikel 70
+##### Artikel 70
 
 1. De kennisbewijzen voor de afgifte van een vaarbevoegdheidsbewijs om daarmee dienst te kunnen doen aan boord van schepen in de functie van kapitein, maritiem officier of stuurman zijn, in neerdalende lijn:
 
@@ -846,7 +872,7 @@ Voor de afgifte van het kennisbewijs «brandbestrijding voor gevorderden» heeft
 
 10. Onder de zeevaartdiploma's, bedoeld in het derde en zesde lid, worden mede verstaan de diploma's, voor inwerkingtreding van dit besluit verkregen op grond van het Besluit van 3 april 1941 (Stb. B 32; P.B. no. 58), houdende bepalingen betreffende gelijkstelling van de Zeevaartdiploma's uitgereikt door of vanwege den Gouverneur van Curaçao met de diploma's uitgereikt door de commissie ingesteld ingevolge de Wet op de Zeevaartdiploma's (Staatsblad 1935 No. 456), alsmede de diploma's, voor inwerkingtreding van dit besluit verkregen op grond van het Besluit van 12 september 1942 (Stb. C 55), houdende gelijkstelling van diploma's voor stuurlieden en machinisten.
 
-#### Artikel 71
+##### Artikel 71
 
 Onverminderd [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=3&paragraaf=2&artikel=23&z=2010-10-10&g=2010-10-10), geeft het bezit van het kennisbewijs «middelbaar maritiem officier» de aanvrager recht op het vaarbevoegdheidsbewijs voor alle schepen als:
 
@@ -864,7 +890,7 @@ Onverminderd [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofds
 
 - g. kapitein, indien hij naast de certificaten genoemd in de onderdelen a en c, een diensttijd heeft van ten minste vier jaar als stuurman of maritiem officier, waarvan ten minste een jaar als eerste stuurman of eerste maritiem officier.
 
-#### Artikel 72
+##### Artikel 72
 
 Onverminderd [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=3&paragraaf=2&artikel=23&z=2010-10-10&g=2010-10-10), geeft het bezit van het kennisbewijs «baggeraar-stuurman», het kennisbewijs «wachtstuurman alle schepen» dan wel het diploma als derde stuurman voor de grote handelsvaart de aanvrager recht op het vaarbevoegdheidsbewijs voor alle schepen als:
 
@@ -874,7 +900,7 @@ Onverminderd [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofds
 
 - c. kapitein, indien hij, naast de certificaten ,genoemd in de onderdeel a en b, een diensttijd heeft van ten minste drie jaar als stuurman, dan wel ten minste twee jaar als stuurman waarvan ten minste een jaar als eerste stuurman.
 
-#### Artikel 73
+##### Artikel 73
 
 Onverminderd [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=3&paragraaf=2&artikel=23&z=2010-10-10&g=2010-10-10), geeft het bezit van het kennisbewijs «stuurman-werktuigkundige kleine schepen» de aanvrager recht op het vaarbevoegdheidsbewijs als:
 
@@ -888,7 +914,7 @@ Onverminderd [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofds
 
 - e. kapitein tot 3000 GT, indien hij naast het certificaat in onderdeel a, in het bezit is van het kennisbewijs «radarnavigator» en het kennisbewijs «scheepsmanagement-N», en een diensttijd heeft van ten minste twee jaar als stuurman of maritiem officier, waarvan ten minste een jaar als eerste stuurman of eerste maritiem officier.
 
-#### Artikel 74
+##### Artikel 74
 
 Onverminderd [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=3&paragraaf=2&artikel=23&z=2010-10-10&g=2010-10-10), geeft het bezit van het kennisbewijs «stuurman tot 3000 GT» de aanvrager recht op het vaarbevoegdheidsbewijs als:
 
@@ -896,7 +922,7 @@ Onverminderd [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofds
 
 - b. kapitein tot 3000 GT, indien hij, naast het certificaat, genoemd in onderdeel a, in het bezit is van het kennisbewijs «radarnavigator» en het kennisbewijs «scheepsmanagement-N», en een diensttijd heeft van ten minste drie jaar als stuurman, dan wel ten minste twee jaar als stuurman, waarvan ten minste een jaar als eerste stuurman.
 
-#### Artikel 75
+##### Artikel 75
 
 Onverminderd [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=3&paragraaf=2&artikel=23&z=2010-10-10&g=2010-10-10), geeft het bezit van het kennisbewijs «baggeraar-machinist», het kennisbewijs «wachtwerktuigkundige alle schepen», dan wel het diploma A als scheepswerktuigkundige de aanvrager recht op het vaarbevoegdheidsbewijs voor alle schepen als:
 
@@ -906,7 +932,7 @@ Onverminderd [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofds
 
 - c. hoofdwerktuigkundige, indien hij in het bezit is van het kennisbewijs «scheepsmanagement-W», en een diensttijd heeft van ten minste drie jaar als werktuigkundige, waarvan ten minste een jaar in het bezit van de bevoegdheid als tweede werktuigkundige;
 
-#### Artikel 76
+##### Artikel 76
 
 Onverminderd [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=3&paragraaf=2&artikel=23&z=2010-10-10&g=2010-10-10), geeft het bezit van het diploma als motordrijver de aanvrager recht op het vaarbevoegdheidsbewijs als:
 
@@ -916,7 +942,7 @@ Onverminderd [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofds
 
 - c. hoofdwerktuigkundige tot 3000 kW, indien hij een diensttijd heeft van ten minste twee jaar als werktuigkundige, waarvan ten minste een jaar in het bezit van de bevoegdheid als tweede werktuigkundige.
 
-#### Artikel 77
+##### Artikel 77
 
 Onverminderd [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=3&paragraaf=2&artikel=23&z=2010-10-10&g=2010-10-10), geeft het bezit van het kennisbewijs «werktuigkundige tot 3000 kW» de aanvrager recht op het vaarbevoegdheidsbewijs als:
 
@@ -924,7 +950,7 @@ Onverminderd [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofds
 
 - b. hoofdwerktuigkundige tot 3000 kW, als hij een diensttijd heeft van ten minste twee jaar als werktuigkundige waarvan tenminste een jaar in het bezit van de bevoegdheid als tweede werktuigkundige.
 
-#### Artikel 78
+##### Artikel 78
 
 Onverminderd [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=3&paragraaf=2&artikel=23&z=2010-10-10&g=2010-10-10), geeft het bezit van het kennisbewijs «schipper-machinist reizen nabij de kust» de aanvrager recht op het vaarbevoegdheidsbewijs als:
 
@@ -932,7 +958,7 @@ Onverminderd [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofds
 
 - b. kapitein op reizen nabij de kust, indien hij, naast het certificaat, genoemd in onderdeel a, een leeftijd heeft bereikt van 20 jaar, en hij een diensttijd heeft van ten minste een jaar, zo nodig aangevuld met de eisen die voortvloeien uit een overeenkomst met een andere staat binnen wiens territoir de reizen nabij de kust plaatsvinden.
 
-#### Artikel 79
+##### Artikel 79
 
 Onverminderd [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=3&paragraaf=2&artikel=23&z=2010-10-10&g=2010-10-10), geeft het bezit van het kennisbewijs «schipper-machinist reizen nabij de kust» de aanvrager recht op het vaarbevoegdheidsbewijs als:
 
@@ -940,15 +966,15 @@ Onverminderd [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofds
 
 - b. kapitein op reizen nabij de kust met de verdere beperking tot ten hoogste 30 mijl vanuit de kusten van Aruba, Curaçao en Klein Curaçao, indien hij, naast het certificaat, genoemd in onderdeel a, een leeftijd heeft bereikt van 20 jaar, en hij een diensttijd heeft van ten minste een jaar.
 
-#### Artikel 80
+##### Artikel 80
 
 Voor de afgifte van een vaarbevoegdheidsbewijs als radio-operator is vereist het «algemeen certificaat maritieme radiocommunicatie», afgegeven in overeenstemming met de wettelijke voorschriften dienaangaande van Aruba, Curaçao, onderscheidenlijk Sint Maarten, alsmede de leeftijd van 18 jaar.
 
-#### Artikel 81
+##### Artikel 81
 
 Voor de afgifte van een vaarbevoegdheidsbewijs als radio-operator met de beperking tot het gebruik van VHF/UHF radio-communicatieapparatuur zijn vereist het «beperkt certificaat maritieme radiocommunicatie», afgegeven in overeenstemming met de wettelijke voorschriften inzake de telecommunicatie voor de scheepvaart van Aruba, Curaçao, onderscheidenlijk Sint Maarten, alsmede de leeftijd van 18 jaar.
 
-#### Artikel 82
+##### Artikel 82
 
 Voor de afgifte van een vaarbevoegdheidsbewijs als gezel met de beperking tot de dekdienst is ten minste vereist:
 
@@ -956,7 +982,7 @@ Voor de afgifte van een vaarbevoegdheidsbewijs als gezel met de beperking tot de
 
 - b. een schriftelijke verklaring van de kapitein dat betrokkene met goed gevolg heeft aangetoond te voldoen aan de eisen van bekwaamheid, als bedoeld in sectie A-II/4 van de STCW-Code, en hij een ervaring heeft van ten minste een half jaar als aankomend gezel dekdienst op zeeschepen, hij in het bezit is van het kennisbewijs «basisveiligheidstraining» en hij een leeftijd heeft bereikt van 16 jaar.
 
-#### Artikel 83
+##### Artikel 83
 
 Voor de afgifte van een vaarbevoegdheidsbewijs als gezel met de beperking tot de machinekamerdienst is ten minste vereist:
 
@@ -964,21 +990,21 @@ Voor de afgifte van een vaarbevoegdheidsbewijs als gezel met de beperking tot de
 
 - b. een schriftelijke verklaring van de hoofdwerktuigkundige dat betrokkene met goed gevolg heeft aangetoond te voldoen aan de eisen van bekwaamheid, als bedoeld in sectie A-III/4 van de STCW-Code, en hij een ervaring heeft van ten minste een half jaar als aankomend gezel machinekamerdienst op zeeschepen, hij in het bezit is van het kennisbewijs «basisveiligheidstraining» en hij een leeftijd heeft bereikt van 16 jaar.
 
-#### Artikel 84
+##### Artikel 84
 
 Onverminderd de [artikelen 71 tot en met 74](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=5&paragraaf=1&artikel=71&z=2010-10-10&g=2010-10-10), is de houder van een vaarbevoegdheidsbewijs als kapitein, eerste maritiem officier of eerste stuurman alle schepen, alsmede als kapitein tot 3000 GT met ingang van 1 februari 2002 in het bezit van het kennisbewijs «radarnavigator».
 
-#### Artikel 85
+##### Artikel 85
 
 Onverminderd de [artikelen 71 tot en met 74](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=5&paragraaf=1&artikel=71&z=2010-10-10&g=2010-10-10), is de houder van een vaarbevoegdheidsbewijs als kapitein, eerste maritiem officier, maritiem officier, eerste stuurman en wachtstuurman alle schepen, eerste maritiem officier en maritiem officier kleine schepen, alsmede eerste stuurman tot 3000 GT met ingang van 1 februari 2002 in het bezit van het kennisbewijs «brandbestrijding voor gevorderden».
 
-#### Artikel 86
+##### Artikel 86
 
 Onverminderd de [artikelen 71 tot en met 77](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=5&paragraaf=1&artikel=71&z=2010-10-10&g=2010-10-10), is de houder van een vaarbevoegdheidsbewijs als hoofdwerktuigkundige, tweede werktuigkundige of wachtwerktuigkundige alle schepen, alsmede als hoofdwerktuigkundige en tweede werktuigkundige tot 3000 kW met ingang van 1 februari 2002 in het bezit van het kennisbewijs «brandbestrijding voor gevorderden».
 
 #### § 2. Aanvullende vereisten voor het dienstdoen aan boord van bijzondere typen schepen
 
-#### Artikel 87
+##### Artikel 87
 
 1. Voor de uitoefening door bemanningsleden van speciale taken en verantwoordelijkheden met betrekking tot de lading en de daarbij behorende uitrusting op tankschepen is vereist:
 
@@ -1006,7 +1032,7 @@ Onverminderd de [artikelen 71 tot en met 77](https://wetten.overheid.nl/jci1.3:c
 
 4. Het hoofd van de Scheepvaartinspectie zorgt er voor dat op het vaarbevoegdheidsbewijs van kapiteins en officieren, die voldoen aan het eerste, tweede of derde lid, de desbetreffende aantekening wordt gemaakt.
 
-#### Artikel 88
+##### Artikel 88
 
 1. Dit artikel is van toepassing op kapiteins, maritiem officieren, stuurlieden, werktuigkundigen en ander personeel met een veiligheidstaak aan boord van passagiersschepen.
 
@@ -1024,11 +1050,11 @@ Onverminderd de [artikelen 71 tot en met 77](https://wetten.overheid.nl/jci1.3:c
 
 8. Kapiteins, eerste stuurlieden, eerste maritiem officieren, hoofdwerktuigkundigen, tweede werktuigkundigen en anderen aan boord van passagiersschepen die verantwoordelijkheid dragen voor de veiligheid van passagiers in noodsituaties, zijn in het bezit van het kennisbewijs «crisisbeheersing en menselijk gedrag», bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=4&paragraaf=4&artikel=57&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 89
+##### Artikel 89
 
 In plaats van het bezit van de bewijzen en kennisbewijzen, genoemd in [artikel 53 tot en met 57](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=4&paragraaf=4&artikel=53&z=2010-10-10&g=2010-10-10), door de zeevarende kan de scheepsbeheerder volstaan met het aantekenen van de door de bemanningsleden gevolgde opleiding of training in het krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=2&paragraaf=1&artikel=4&z=2010-10-10&g=2010-10-10) bij te houden overzicht.
 
-#### Artikel 90
+##### Artikel 90
 
 1. Dit artikel is uitsluitend van toepassing op de bemanningsleden aan boord van ro-ro passagiersschepen.
 
@@ -1046,13 +1072,13 @@ In plaats van het bezit van de bewijzen en kennisbewijzen, genoemd in [artikel 5
 
 8. Kapiteins, eerste maritiem officieren, eerste stuurlieden, hoofdwerktuigkundigen, tweede werktuigkundigen en iedereen aan boord van ro-ro passagiersschepen, die verantwoordelijkheid draagt voor de veiligheid van passagiers in noodsituaties, zijn in het bezit van het kennisbewijs «crisisbeheersing en menselijk gedrag», bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=4&paragraaf=5&artikel=62&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 91
+##### Artikel 91
 
 In plaats van het bezit van de bewijzen en kennisbewijzen, genoemd in de [artikelen 58 tot en met 62](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=4&paragraaf=5&artikel=58&z=2010-10-10&g=2010-10-10), door de zeevarende, kan de scheepsbeheerder volstaan met het aantekenen van de door de bemanningsleden gevolgde opleiding of training in het krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=2&paragraaf=1&artikel=4&z=2010-10-10&g=2010-10-10) bij te houden overzicht.
 
 #### § 3. Aanvullende vereisten voor het dienstdoen aan boord van bijzonder voortbewogen schepen
 
-#### Artikel 92
+##### Artikel 92
 
 1. Werktuigkundigen en maritiem officieren aan boord van schepen, voorzien van een stoomvoortstuwingsinstallatie met een voortstuwingsvermogen van 3000 kW of meer, hebben een erkende opleiding stoomvoortstuwing voltooid, als bedoeld in [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=4&paragraaf=6&artikel=63&z=2010-10-10&g=2010-10-10).
 
@@ -1062,13 +1088,13 @@ In plaats van het bezit van de bewijzen en kennisbewijzen, genoemd in de [artike
 
 4. Het hoofd van de Scheepvaartinspectie zorgt er voor dat op het vaarbevoegdheidsbewijs van werktuigkundigen en maritiem officieren, die voldoen aan dit artikel, de betreffende aantekening wordt gemaakt.
 
-#### Artikel 93
+##### Artikel 93
 
 Kapiteins, maritiem officieren, stuurlieden en werktuigkundigen van hogesnelheidsvaartuigen zijn, naast het voor het desbetreffende schip vereiste vaarbevoegdheidsbewijs, in het bezit van een «type rating certificate», als bedoeld in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&hoofdstuk=4&paragraaf=6&artikel=64&z=2010-10-10&g=2010-10-10), voor het hogesnelheidsvaartuig waarop zij dienstdoen.
 
 ### Hoofdstuk 6. Medische keuring van de bemanning
 
-#### Artikel 94
+##### Artikel 94
 
 1. Elk bemanningslid is in het bezit van een geldige geneeskundige verklaring van geschiktheid voor de zeevaart als bedoeld in artikel 560 van het Wetboek van Koophandel van Aruba, van Curaçao, onderscheidenlijk van Sint Maarten.
 
@@ -1078,43 +1104,43 @@ Kapiteins, maritiem officieren, stuurlieden en werktuigkundigen van hogesnelheid
 
 #### § 1. Uitvoering van verdragen en besluiten van volkenrechtelijke organisaties
 
-#### Artikel 95
+##### Artikel 95
 
 Bij of krachtens landsbesluit, houdende algemene maatregelen, van Aruba, Curaçao, onderscheidenlijk Sint Maarten, kunnen, ter uitvoering van het STCW-Verdrag, alsmede van andere verdragen of besluiten van volkenrechtelijke organisaties, regels met betrekking tot de bemanning van zeeschepen worden gesteld ter waarborging van de veilige en milieuverantwoorde vaart.
 
 #### § 2. Centraal register bemanningsgegevens
 
-#### Artikel 96
+##### Artikel 96
 
 In Aruba, Curaçao en Sint Maarten zijn Centrale Registers Bemanningsgegevens, waarin het hoofd van de Scheepvaartinspectie de afgegeven, ongeldig verklaarde en ingetrokken vaarbevoegdheidsbewijzen en de gegeven vrijstellingen en ontheffingen registreert.
 
 #### § 3. Aanvragen
 
-#### Artikel 97
+##### Artikel 97
 
 Bij landsbesluit, houdende algemene maatregelen, van Aruba, Curaçao, onderscheidenlijk Sint Maarten, worden nadere regels gesteld met betrekking tot de aanvragen op grond van dit besluit.
 
 ### Hoofdstuk 8. Overgangsbepalingen
 
-#### Artikel 98
+##### Artikel 98
 
 De documenten, houdende de minimum voorgeschreven bemanningssamenstelling met de functies van de bemanningsleden, die zijn afgegeven vóór inwerkingtreding van dit besluit, behouden hun geldigheid tot de datum van het verstrijken van de geldigheid van het certificaat van deugdelijkheid waar zij bij behoren.
 
-#### Artikel 99
+##### Artikel 99
 
 1. De verklaringen van geschiktheid en bekwaamheid, die op grond van [Hoofdstuk VII van het Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=VII) zijn afgegeven vóór de datum van inwerkingtreding van dit besluit, behouden hun geldigheidsduur overeenkomstig de daarop aangegeven datum van het verstrijken van de geldigheid.
 
 2. Verklaringen van geschiktheid en bekwaamheid, waarop geen datum van het verstrijken van de geldigheidsduur is vermeld, zijn geldig tot de eerste dag van de maand, volgend op die van het bereiken van het 65ste jaar van de houder.
 
-#### Artikel 100
+##### Artikel 100
 
 De geneeskundige verklaringen van geschiktheid voor de zeevaart, die zijn afgegeven vóór inwerkingtreding van dit besluit, behouden hun geldigheid overeenkomstig de daarop aangegeven datum van het verstrijken van de geldigheid.
 
-#### Artikel 101
+##### Artikel 101
 
 Op aanvragen voor bemanningsdocumenten, verklaringen van geschiktheid en bekwaamheid, monsterboekjes en geneeskundige verklaringen voor de zeevaart, die zijn ingediend vóór de inwerkingtreding van dit besluit en op dat tijdstip nog in behandeling zijn, wordt besloten met inachtneming van het bepaalde bij of krachtens dit besluit.
 
-#### Artikel 102
+##### Artikel 102
 
 1. De houders van een verklaring van geschiktheid en bekwaamheid als vermeld in kolom I, afgegeven op grond van [artikel 119 van het Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&artikel=119), zoals dit luidde vóór de inwerkingtreding van dit besluit, hebben aanspraak op de bevoegdheid met de beperkingen als, vermeld in kolom II van onderstaande tabel:
 
@@ -1181,11 +1207,11 @@ Op aanvragen voor bemanningsdocumenten, verklaringen van geschiktheid en bekwaam
 
 2. Voor de verkrijging van een vaarbevoegdheidsbewijs als kapitein, eerste stuurman, dan wel hoofdwerktuigkundige alle schepen is het bezit van het kennisbewijs «scheepsmanagement N» of «scheepsmanagement W» niet vereist voor de houder van het diploma als eerste stuurman voor de grote handelsvaart, respectievelijk het diploma C als scheepswerktuigkundige, dan wel van het bewijs dat de bijscholingscursus 6000–9000 GT met goed gevolg werd afgesloten, alsmede voor degenen die voor de datum van inwerkingtreding van dit besluit dienst doen als kapitein of hoofdwerktuigkundige.
 
-#### Artikel 103
+##### Artikel 103
 
 Een vaarbevoegdheidsbewijs als kapitein tot 3000 GT wordt afgegeven aan de houder van het diploma als stuurman voor de kleine handelsvaart, afgegeven vóór 3 mei 1988, die in het bezit is van het kennisbewijs «radarnavigator» en het «algemeen certificaat maritieme radiocommunicatie».
 
-#### Artikel 104
+##### Artikel 104
 
 Een vaarbevoegdheidsbewijs als kapitein op reizen nabij de kust wordt afgegeven aan:
 
@@ -1197,7 +1223,7 @@ Een vaarbevoegdheidsbewijs als kapitein op reizen nabij de kust wordt afgegeven 
 
 - d. de houder van het kennisbewijs «schipper-machinist reizen nabij de kust», afgegeven vóór de datum van het van kracht worden van dit besluit, die in het bezit is van het «beperkt certificaat maritiem radio-communicatie» en een diensttijd heeft behaald van ten minste twee jaar, zo nodig aangevuld met de eisen die voortvloeien uit een overeenkomst met een andere staat binnen wiens territoir de reizen nabij de kust plaatsvinden.
 
-#### Artikel 105
+##### Artikel 105
 
 Een vaarbevoegdheidsbewijs als eerste stuurman tot 3000 GT wordt afgegeven aan:
 
@@ -1205,7 +1231,7 @@ Een vaarbevoegdheidsbewijs als eerste stuurman tot 3000 GT wordt afgegeven aan:
 
 - b. de houder van het diploma als stuurman voor de kleine handelsvaart met aantekening, uitgereikt krachtens artikel 8, derde lid, aanhef en onderdeel a, van de Wet op de zeevaartdiploma's, in verband met artikel 23, aanhef en onderdeel a, van het Besluit zeevaartdiploma's, die in het bezit is van het «algemeen certificaat maritieme radiocommunicatie».
 
-#### Artikel 106
+##### Artikel 106
 
 Een vaarbevoegdheidsbewijs als eerste stuurman op reizen nabij de kust, wordt afgegeven aan:
 
@@ -1217,11 +1243,11 @@ Een vaarbevoegdheidsbewijs als eerste stuurman op reizen nabij de kust, wordt af
 
 - d. de houder van het kennisbewijs «schipper-machinist reizen nabij de kust», afgegeven vóór de datum van het van kracht worden van dit besluit, die in het bezit is van het «beperkt certificaat maritieme radio-communicatie», zo nodig aangevuld met de eisen die voortvloeien uit een overeenkomst met een andere staat binnen wiens territoir de reizen nabij de kust plaatsvinden.
 
-#### Artikel 107
+##### Artikel 107
 
 Een vaarbevoegdheidsbewijs als hoofdwerktuigkundige tot 3000 kW, wordt afgegeven aan de houder van het diploma als motordrijver met aantekening, uitgereikt krachtens artikel 8, derde lid, aanhef en onderdeel a, van de Wet op de zeevaartdiploma's, in verband met artikel 23, aanhef en onderdeel b, van het Besluit zeevaartdiploma's, die een diensttijd heeft behaald van ten minste twee jaar.
 
-#### Artikel 108
+##### Artikel 108
 
 Een vaarbevoegdheidsbewijs als tweede werktuigkundige tot 3000 kW wordt afgegeven aan:
 
@@ -1231,17 +1257,17 @@ Een vaarbevoegdheidsbewijs als tweede werktuigkundige tot 3000 kW wordt afgegeve
 
 - c. de houder van het diploma machinist aannemersmaterieel met aantekening, uitgereikt krachtens artikel 8, derde lid, aanhef en onderdeel b, van de Wet op de zeevaartdiploma's, in verband met artikel 24 van het Besluit Zeevaartdiploma's.
 
-#### Artikel 109
+##### Artikel 109
 
 Een vaarbevoegdheidsbewijs als gezel wordt afgegeven aan de houder van het kennisbewijs «scheepstechnicus», uitgereikt door het hoofd van de Scheepvaartinspectie.
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 110
+##### Artikel 110
 
 Dit besluit wordt aangehaald als: Bemanningsbesluit Arubaanse, Curaçaose en Sint Maartense zeeschepen.
 
-#### Artikel 111
+##### Artikel 111
 
 Dit besluit treedt in werking met ingang van 1 februari 2002.
 

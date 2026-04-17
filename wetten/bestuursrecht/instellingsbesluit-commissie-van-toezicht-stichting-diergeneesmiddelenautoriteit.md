@@ -1,13 +1,35 @@
 ---
 title: "Instellingsbesluit Commissie van Toezicht Stichting Diergeneesmiddelenautoriteit"
 identifier: "BWBR0033369"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-04-07
-laatste_update: 2018-04-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033369"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-04-07"
+last_updated: "2018-04-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033369"
+soort: "ministeriele-regeling"
+stam_id: "12244763"
+version_id: "20487652"
+internal_id: "C28816241"
+label_id: "12216144"
+dtd_version: "2.0"
+original_entry_into_force: "2012-09-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033369/2018-04-07/0"
+intitule_bron: "Stcrt.2013-12795"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-05-10"
+intitule_in_force: "2013-05-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-12795"
+original_published_date: "2013-05-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-12795"
+entry_into_force_date: "2012-09-20"
+jci_1_3: "jci1.3:c:BWBR0033369&z=2018-04-07&g=2018-04-07"
+jci_1_0: "1.0:c:BWBR0033369&g=2018-04-07"
+citeertitel_status: "redactioneel"
+entry_into_force: "2012-09-20"
 ---
-
 # Instellingsbesluit Commissie van Toezicht Stichting Diergeneesmiddelenautoriteit
 
 handelend in overeenstemming met de Minister van Volksgezondheid, Welzijn en Sport
@@ -16,7 +38,7 @@ Besluit:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -30,13 +52,13 @@ In dit besluit wordt verstaan onder:
 
 - e. **bestuur:** bestuur van de Stichting Diergeneesmiddelenautoriteit.
 
-#### Artikel 2. Instelling van de commissie van toezicht SDa
+##### Artikel 2. Instelling van de commissie van toezicht SDa
 
 1. Om de onafhankelijke positie van de SDa te versterken is er een commissie van toezicht SDa.
 
 2. De werkwijze en de taken van de commissie worden geregeld in dit besluit.
 
-#### Artikel 3. Taken van de commissie van toezicht
+##### Artikel 3. Taken van de commissie van toezicht
 
 1. De commissie heeft tot taak om, vanuit maatschappelijk belang, toezicht te houden op een onafhankelijke taakuitoefening van de SDa, en de staatssecretaris en de minister op de hoogte te stellen van haar bevindingen.
 
@@ -54,7 +76,7 @@ In dit besluit wordt verstaan onder:
 
 - b. het bevorderen van een verantwoord gebruik van diergeneesmiddelen.
 
-#### Artikel 4. Benoeming leden van de commissie
+##### Artikel 4. Benoeming leden van de commissie
 
 1. De leden van de commissie worden door de staatssecretaris in overeenstemming met de minister benoemd, de voorzitter van het bestuur gehoord hebbend.
 
@@ -98,7 +120,7 @@ In dit besluit wordt verstaan onder:
 
 10. Indien een (neven)functie strijdig is of kan zijn met het lidmaatschap van de commissie, zal het lidmaatschap van de commissie aan betrokkene worden onthouden, dan wel zal het betrokken lid worden ontheven van het lidmaatschap van de commissie.
 
-#### Artikel 5. Werkwijze van de commissie
+##### Artikel 5. Werkwijze van de commissie
 
 1. De commissie vergadert zo vaak de commissie dat nodig acht, met dien verstande dat de commissie ten minste twee keer per kalenderjaar vergadert met het bestuur.
 
@@ -118,16 +140,16 @@ In dit besluit wordt verstaan onder:
 
 7. De commissie oordeelt bij unanimiteit.
 
-#### Artikel 6. Overige bepalingen
+##### Artikel 6. Overige bepalingen
 
 1. De commissie evalueert jaarlijks met de staatssecretaris en de minister het eigen functioneren.
 
 2. De leden van de commissie zijn verplicht tot geheimhouding jegens derden van hetgeen hen uit hoofde van hun lidmaatschap ter kennis is gekomen voor zover die verplichting uit de aard van de zaak volgt of hen uitdrukkelijk is opgelegd. Deze verplichting eindigt niet bij de beëindiging van het lidmaatschap van de commissie.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 20 september 2012.
 
-#### Artikel 8. Kennisgeving
+##### Artikel 8. Kennisgeving
 
 Afschrift van dit besluit wordt gezonden aan de leden van de commissie en aan de voorzitter van het bestuur.

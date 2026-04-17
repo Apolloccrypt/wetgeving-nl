@@ -1,13 +1,37 @@
 ---
-title: "Verordening PT algemene heffing handel groenten en fruit 2002"
+title: "Verordening van het Productschap Tuinbouw van 3 juli 2001, houdende de vaststelling van een algemene heffing op de handel in groenten en fruit voor het jaar 2002 (Verordening PT algemene heffing handel groenten en fruit 2002)"
 identifier: "BWBR0012632"
-categorie: "Belastingrecht"
-publicatiedatum: 2003-04-19
-laatste_update: 2003-04-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012632"
+country: "nl"
+rank: "pbo"
+publication_date: "2003-04-19"
+last_updated: "2003-04-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012632"
+soort: "pbo"
+stam_id: "6896703"
+version_id: "11778072"
+internal_id: "C29855371"
+label_id: "6884904"
+original_entry_into_force: "2003-04-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012632/2003-04-19/0"
+intitule_bron: "Vbbo.2001-43"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-07-03"
+intitule_published: "2001-10-05"
+intitule_in_force: "2001-10-05"
+intitule_status: "goed"
+original_publication: "Vbbo.2003-26"
+original_signed_date: "2002-07-03"
+original_published_date: "2003-04-18"
+original_effect: "structuurwijziging"
+entry_into_force_date: "2003-04-19"
+jci_1_3: "jci1.3:c:BWBR0012632&z=2003-04-19&g=2003-04-19"
+jci_1_0: "1.0:c:BWBR0012632&g=2003-04-19"
+citeertitel_status: "officieel"
+short_title: "Verordening PT algemene heffing handel groenten en fruit 2002"
+signed_date: "2002-07-03"
+entry_into_force: "2003-04-19"
 ---
-
 # Verordening van het Productschap Tuinbouw van 3 juli 2001, houdende de vaststelling van een algemene heffing op de handel in groenten en fruit voor het jaar 2002 (Verordening PT algemene heffing handel groenten en fruit 2002)
 
 Op voorstel van de Sectorcommissie voor groenten en fruit;
@@ -16,7 +40,7 @@ Gelet op [artikel 126 van de Wet op de bedrijfsorganisatie](https://wetten.overh
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de artikelen 1 en 2 van de Instellingsverordening Productschap Tuinbouw 1998.
 
@@ -48,13 +72,13 @@ Besluit:
 
 4. Met de ondernemer bedoeld in het tweede lid onder e, wordt ook gelijkgesteld de telersvereniging of afzetorganisatie die producten van telers aankoopt en deze vervolgens verkoopt aan anderen dan consumenten voor hun persoonlijke behoeften.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De ondernemer is jaarlijks aan het Productschap Tuinbouw een heffing verschuldigd ten behoeve van de algemene kosten van het Productschap Tuinbouw.
 
 2. De heffing, bedoeld in het eerste lid wordt opgelegd door de voorzitter, met inachtneming van de volgende artikelen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De heffing die de ondernemer is verschuldigd, wordt opgelegd naar de grondslag aankoopwaarde handel van het jaar waarover de heffing verschuldigd is.
 
@@ -66,11 +90,11 @@ Besluit:
 
 5. De hoogte van de heffing, bedoeld in het derde en vierde lid wordt jaarlijks door het bestuur vastgesteld, waarbij voor verschillende hoogten van de aankoopwaarde, onderscheidenlijk aantal aangekochte kilogrammen, verschillende percentages, respectievelijk bedragen, kunnen worden vastgesteld.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien de heffingsplichtige de gegevens die hem krachtens de Verordening PT Algemene bepalingen ten behoeve van de onderhavige verordening zijn gevraagd, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan door de voorzitter te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing met € 40 wordt verhoogd in verband met administratiekosten.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De oplegging van de krachtens deze verordening verschuldigde heffing vindt plaats na afloop van het jaar waarover de heffing verschuldigd is en geschiedt door de voorzitter middels toezending of uitreiking aan de heffingsplichtige van een heffingsnota.
 
@@ -88,11 +112,11 @@ Indien de heffingsplichtige de gegevens die hem krachtens de Verordening PT Alge
 
 5. Voorschotten als bedoeld in het vierde lid worden verrekend met de krachtens deze verordening verschuldigde heffing.
 
-#### Artikel 6
+##### Artikel 6
 
 De voorzitter kan, indien hem uit te zijner beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012632&artikel=4&z=2003-04-19&g=2003-04-19), niet in overeenstemming blijkt met de werkelijkheid, een opgelegde heffing aan de hand van deze gegevens herzien en opnieuw opleggen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Betaling geschiedt binnen 30 dagen na dagtekening van de heffingsnota.
 
@@ -104,17 +128,17 @@ De voorzitter kan, indien hem uit te zijner beschikking gekomen gegevens blijkt 
 
 - c. zodra de ondernemer zich metterwoon in het buitenland heeft gevestigd of van het voornemen daartoe blijkt.
 
-#### Artikel 8
+##### Artikel 8
 
 Aan de heffingsplichtige, die niet of niet geheel binnen de bedoelde termijn heeft betaald, kunnen de daaruit voortvloeiende extra kosten van maximaal € 22,50 in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127).
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het bestuur van het Productschap Tuinbouw is belast met de uitvoering van het bij of krachtens deze verordening bepaalde en is in verband daarmee bevoegd omtrent de bij of krachtens deze verordening geregelde onderwerpen nadere uitvoeringsvoorschriften te geven.
 
 2. Het bestuur van het Productschap Tuinbouw is bevoegd van het bij of krachtens deze verordening bepaalde gehele of gedeeltelijke ontheffing te verlenen en aan zodanige ontheffing voorschriften te verbinden, bij welker niet, niet tijdige of niet behoorlijke nakoming de desbetreffende ontheffing geacht wordt niet te zijn verleend.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Deze verordening wordt aangehaald als: Verordening PT algemene heffing handel groenten en fruit 2002.
 

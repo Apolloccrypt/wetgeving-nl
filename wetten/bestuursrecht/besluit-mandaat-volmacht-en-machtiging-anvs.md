@@ -1,13 +1,39 @@
 ---
-title: "Besluit mandaat, volmacht en machtiging ANVS"
+title: "Besluit van de Minister van Infrastructuur en Milieu, van 27 juni 2017, nr. IENM/BSK-2017/159853, houdende regels inzake de verlening van mandaat, volmacht en machtiging aan de Autoriteit Nucleaire Veiligheid en Stralingsbescherming (Besluit mandaat, volmacht en machtiging ANVS)"
 identifier: "BWBR0039796"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-03-01
-laatste_update: 2024-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039796"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-03-01"
+last_updated: "2024-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039796"
+soort: "ministeriele-regeling"
+stam_id: "14073843"
+version_id: "24233892"
+internal_id: "C34809201"
+label_id: "14034914"
+dtd_version: "2.0"
+original_entry_into_force: "2017-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039796/2024-03-01/0"
+intitule_bron: "Stcrt.2017-36874"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-06-27"
+intitule_published: "2017-07-19"
+intitule_in_force: "2017-07-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-36874"
+original_signed_date: "2017-06-27"
+original_published_date: "2017-07-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-36874"
+entry_into_force_date: "2017-08-01"
+jci_1_3: "jci1.3:c:BWBR0039796&z=2024-03-01&g=2024-03-01"
+jci_1_0: "1.0:c:BWBR0039796&g=2024-03-01"
+citeertitel_status: "officieel"
+short_title: "Besluit mandaat, volmacht en machtiging ANVS"
+signed_date: "2017-06-27"
+entry_into_force: "2017-08-01"
 ---
-
 # Besluit van de Minister van Infrastructuur en Milieu, van 27 juni 2017, nr. IENM/BSK-2017/159853, houdende regels inzake de verlening van mandaat, volmacht en machtiging aan de Autoriteit Nucleaire Veiligheid en Stralingsbescherming (Besluit mandaat, volmacht en machtiging ANVS)
 
 Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9), en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Mandaat, volmacht en machtiging
 
-#### Artikel 2. Bestuursrechtelijke bevoegdheden
+##### Artikel 2. Bestuursrechtelijke bevoegdheden
 
 1. Aan de ANVS wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die verband houden met:
 
@@ -44,7 +70,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Indien de minister de ANVS een algemene of bijzondere instructie geeft ter zake van de uitoefening van de in het eerste lid, onder b, gemandateerde bevoegdheid, doet de minister daarvan onverwijld mededeling in de Staatscourant.
 
-#### Artikel 3. Personeel en organisatie
+##### Artikel 3. Personeel en organisatie
 
 1. Aan de ANVS wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van overige handelingen die verband houden met aangelegenheden op het gebied van personeel, organisatie en formatie en het daarmee samenhangende budget ten aanzien van het personeel dat de minister de ANVS ter beschikking stelt.
 
@@ -56,11 +82,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. het voeren van de personeels- en salarisadministratie.
 
-#### Artikel 4. Privaatrechtelijke rechtshandelingen
+##### Artikel 4. Privaatrechtelijke rechtshandelingen
 
 Aan de ANVS wordt op haar werkterrein volmacht en machtiging verleend voor het verrichten van privaatrechtelijke rechtshandelingen en voor de daarmee samenhangende feitelijke handelingen.
 
-#### Artikel 5. Procedures
+##### Artikel 5. Procedures
 
 Aan de ANVS wordt mandaat, volmacht en machtiging verleend:
 
@@ -68,7 +94,7 @@ Aan de ANVS wordt mandaat, volmacht en machtiging verleend:
 
 - b. voor het indienen van of behandelen van verzoekschriften en vorderingen gericht tegen besluiten en rechtshandelingen als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=3&z=2024-03-01&g=2024-03-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=4&z=2024-03-01&g=2024-03-01), waaronder begrepen het instellen van (hoger) beroep.
 
-#### Artikel 6. Ondermandaat
+##### Artikel 6. Ondermandaat
 
 1. De ANVS kan de aan haar gemandateerde bevoegdheden in ondermandaat verlenen aan:
 
@@ -80,17 +106,17 @@ Aan de ANVS wordt mandaat, volmacht en machtiging verleend:
 
 ### Hoofdstuk 3. Overige bepalingen mandaat, volmacht en machtiging
 
-#### Artikel 7. Voorbehouden bevoegdheden secretaris-generaal
+##### Artikel 7. Voorbehouden bevoegdheden secretaris-generaal
 
 Aan de secretaris-generaal is de bevoegdheid voorbehouden tot het doen van de mededeling, bedoeld in [artikel 9:36, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:36), dat een aanbeveling van de Nationale ombudsman niet wordt opgevolgd, voor zover deze aanbeveling betrekking heeft op de in dit besluit gemandateerde bevoegdheden.
 
-#### Artikel 8. Mandaat en ondermandaat beslissen op bezwaar
+##### Artikel 8. Mandaat en ondermandaat beslissen op bezwaar
 
 1. In afwijking van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=5&z=2024-03-01&g=2024-03-01) en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=6&z=2024-03-01&g=2024-03-01), mag de beslissing op bezwaar niet in mandaat of ondermandaat worden genomen door degene die het besluit waartegen het bezwaar is gericht, heeft genomen.
 
 2. In afwijking van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=6&z=2024-03-01&g=2024-03-01), mag de beslissing op bezwaar niet in ondermandaat worden genomen door degene die in de hiërarchische verhoudingen ressorteert onder degene die het besluit waartegen het bezwaar zich richt, heeft genomen.
 
-#### Artikel 9. Kaders uitoefening bevoegdheden
+##### Artikel 9. Kaders uitoefening bevoegdheden
 
 De uitoefening van bevoegdheden die bij of krachtens dit besluit zijn verleend, geschiedt met inachtneming van:
 
@@ -110,13 +136,13 @@ De uitoefening van bevoegdheden die bij of krachtens dit besluit zijn verleend, 
 
 - h. de overige ter zake geldende wet- en regelgeving en beleidsregels.
 
-#### Artikel 10. Informatieplicht
+##### Artikel 10. Informatieplicht
 
 1. De ANVS is verplicht de minister en de secretaris-generaal te informeren over de gebruikmaking van de gemandateerde bevoegdheden en zwaarwegende en politiek-bestuurlijk gevoelige omstandigheden en gebeurtenissen die betrekking hebben op de gemandateerde bevoegdheden.
 
 2. Het eerste lid is van overeenkomstige toepassing op bevoegdheden die zijn verleend op basis van volmacht en machtiging.
 
-#### Artikel 11. Register
+##### Artikel 11. Register
 
 In het register, bedoeld in [artikel 31 van het Organisatie- en mandaatbesluit Infrastructuur en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0040610&artikel=31), worden opgenomen:
 
@@ -126,7 +152,7 @@ In het register, bedoeld in [artikel 31 van het Organisatie- en mandaatbesluit I
 
 - c. alle besluiten tot wijziging of intrekking van de onder a en b genoemde besluiten.
 
-#### Artikel 12. Wijze van ondertekening
+##### Artikel 12. Wijze van ondertekening
 
 1. Het in een document vastleggen van een besluit, een privaatrechtelijke rechtshandeling of een andere handeling, geschiedt op briefpapier van het ministerie met het hoofd:
 
@@ -158,11 +184,11 @@ DE STAATSSECRETARIS VAN INFRASTRUCTUUR EN WATERSTAAT.
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 augustus 2017.
 
-#### Artikel 14. Titel
+##### Artikel 14. Titel
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging ANVS.
 

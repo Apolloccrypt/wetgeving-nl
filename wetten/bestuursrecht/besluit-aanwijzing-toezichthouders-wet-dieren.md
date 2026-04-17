@@ -1,20 +1,46 @@
 ---
-title: "Besluit aanwijzing toezichthouders Wet dieren"
+title: "Besluit van de Minister van Economische Zaken van 12 december 2012, nr. WJZ/12375497, tot aanwijzing van toezichthouders voor de Wet dieren"
 identifier: "BWBR0032516"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-10-18
-laatste_update: 2023-10-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032516"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-10-18"
+last_updated: "2023-10-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032516"
+soort: "ministeriele-regeling"
+stam_id: "11973763"
+version_id: "27700642"
+internal_id: "C39080941"
+label_id: "11945584"
+dtd_version: "2.0"
+original_entry_into_force: "2021-04-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032516/2023-10-18/0"
+intitule_bron: "Stcrt.2012-26393"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-12"
+intitule_published: "2012-12-20"
+intitule_in_force: "2012-12-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-17802"
+original_signed_date: "2021-04-12"
+original_published_date: "2021-04-16"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2021-17802"
+entry_into_force_date: "2021-04-12"
+jci_1_3: "jci1.3:c:BWBR0032516&z=2023-10-18&g=2023-10-18"
+jci_1_0: "1.0:c:BWBR0032516&g=2023-10-18"
+citeertitel_status: "officieel"
+short_title: "Besluit aanwijzing toezichthouders Wet dieren"
+signed_date: "2021-04-12"
+entry_into_force: "2021-04-12"
 ---
-
 # Besluit van de Minister van Economische Zaken van 12 december 2012, nr. WJZ/12375497, tot aanwijzing van toezichthouders voor de Wet dieren
 
 Gelet op [artikel 8.1 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.1);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
@@ -26,7 +52,7 @@ Besluit:
 
 2. Dit besluit berust mede op [artikel 5.9, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.9).
 
-#### Artikel 2
+##### Artikel 2
 
 Met het toezicht op de naleving, bedoeld in [artikel 8.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.1), zijn belast:
 
@@ -96,17 +122,17 @@ Met het toezicht op de naleving, bedoeld in [artikel 8.1, eerste lid, van de wet
 
 - 4°. ambtenaren van de Inspectie Leefomgeving en Transport.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van 1 januari 2013.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders Wet dieren.
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Als ambtenaren als bedoeld in [artikel 5.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.9), worden aangewezen de in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032516&artikel=2&z=2023-10-18&g=2023-10-18), bedoelde ambtenaren.
 

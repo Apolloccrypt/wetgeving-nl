@@ -1,24 +1,48 @@
 ---
 title: "Regeling leningen huurwoonwagens ten behoeve van toegelaten instellingen"
 identifier: "BWBR0005692"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1993-01-01
-laatste_update: 1993-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005692"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1993-01-01"
+last_updated: "1993-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005692"
+soort: "ministeriele-regeling"
+stam_id: "3583603"
+version_id: "5366772"
+internal_id: "C5559861"
+label_id: "3563654"
+dtd_version: "2.0"
+original_entry_into_force: "1993-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005692/1993-01-01/0"
+intitule_bron: "Stcrt.1992-204"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-10-15"
+intitule_published: "1992-10-21"
+intitule_in_force: "1992-10-21"
+intitule_status: "goed"
+original_publication: "Stcrt.1992-204"
+original_signed_date: "1992-10-15"
+original_published_date: "1992-10-21"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1993-01-01"
+jci_1_3: "jci1.3:c:BWBR0005692&z=1993-01-01&g=1993-01-01"
+jci_1_0: "1.0:c:BWBR0005692&g=1993-01-01"
+citeertitel_status: "officieel"
+signed_date: "1992-10-15"
+entry_into_force: "1993-01-01"
 ---
-
 # Regeling leningen huurwoonwagens ten behoeve van toegelaten instellingen
 
 Gelet op artikel 52 van het Besluit woninggebonden subsidies (Stb. 1991, 440).
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder ‘minister’: Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
-#### Artikel 2
+##### Artikel 2
 
 De minister kan aan een gemeente een lening verstrekken voor de bouw van een huurwoonwagen door een toegelaten instelling, indien:
 
@@ -26,7 +50,7 @@ De minister kan aan een gemeente een lening verstrekken voor de bouw van een huu
 
 - b. de raad van die gemeente daarvoor een lening heeft verstrekt aan die toegelaten instelling.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De gemeente dient bij de minister een aanvraag in om verstrekking van een lening voor de bouw van een huurwoonwagen, op een door de gemeente volledig ingevuld formulier, als opgenomen in de bijlage bij deze regeling.
 
@@ -40,11 +64,11 @@ De minister kan aan een gemeente een lening verstrekken voor de bouw van een huu
 
 4. Binnen twee maanden nadat de aanvraag bij de minister is ingediend beslist de minister en deelt hij de beslissing schriftelijk aan de gemeente mee.
 
-#### Artikel 4
+##### Artikel 4
 
 De gemeente betaalt de ontvangen gelden uiterlijk een maand na ontvangst uit aan de toegelaten instelling.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De lening wordt vastgesteld op de hoogte van de kosten van het verkrijgen in eigendom van de woonwagen.
 
@@ -56,7 +80,7 @@ De gemeente betaalt de ontvangen gelden uiterlijk een maand na ontvangst uit aan
 
 - c. de kosten van aansluiting op de nutsvoorzieningen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De looptijd van de lening is ten hoogste 25 jaar, beginnende met de eerste van de maand die volgt op het tijdstip waarop de woonwagen voor bewoning gereed is.
 
@@ -66,7 +90,7 @@ De gemeente betaalt de ontvangen gelden uiterlijk een maand na ontvangst uit aan
 
 4. De minister kan de in het derde lid bedoelde rente met ingang van het 11e of met ingang van het 21e jaar van de looptijd van de lening wijzigen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De gemeente betaalt het Rijk jaarlijks rente en aflossing volgens het systeem van gelijkblijvende annuïteiten, berekend met inachtneming van de looptijd van de lening, voor het eerst nadat een jaar van de looptijd van de lening is verstreken en vervolgens telkens een jaar nadien.
 
@@ -78,11 +102,11 @@ De gemeente betaalt de ontvangen gelden uiterlijk een maand na ontvangst uit aan
 
 3. Een vervroegd te betalen bedrag aan aflossing bedraagt ten minste **f** 10.000.
 
-#### Artikel 8
+##### Artikel 8
 
 Indien vervroegde aflossing plaatsvindt voordat 15 jaar van de looptijd van de lening zijn verstreken, is de gemeente aan het Rijk een bedrag verschuldigd, dat 4 procent bedraagt van het van het Rijk geleende bedrag.
 
-#### Artikel 9
+##### Artikel 9
 
 De minister kan het besluit tot verstrekking van de lening intrekken, indien:
 
@@ -90,11 +114,11 @@ De minister kan het besluit tot verstrekking van de lening intrekken, indien:
 
 - b. niet is voldaan aan de overige ingevolge deze regeling geldende voorwaarden of bepalingen.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling treedt in werking met ingang van 1 januari 1993.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling kan worden aangehaald als: Regeling leningen huurwoonwagens ten behoeve van toegelaten instellingen.
 

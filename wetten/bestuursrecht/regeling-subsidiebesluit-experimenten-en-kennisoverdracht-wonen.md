@@ -1,13 +1,39 @@
 ---
-title: "Regeling Subsidiebesluit experimenten en kennisoverdracht wonen"
+title: "Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 18 september 2006, nr. DJZ2006303617, houdende vaststelling van de bij de aanvraag, bedoeld in artikel 3, eerste lid, van het Subsidiebesluit experimenten en kennisoverdracht wonen over te leggen gegevens en bescheiden alsmede van het model voor de verklaring, bedoeld in artikel 6, derde lid, van dat besluit en het model voor de accountantsverklaring, bedoeld in artikel 14, derde lid, van dat besluit (Regeling Subsidiebesluit experimenten en kennisoverdracht wonen)"
 identifier: "BWBR0020311"
-categorie: "Bestuursrecht"
-publicatiedatum: 2006-12-11
-laatste_update: 2006-12-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020311"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2006-12-11"
+last_updated: "2006-12-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020311"
+soort: "ministeriele-regeling"
+stam_id: "8637203"
+version_id: "13624702"
+internal_id: "C18646481"
+label_id: "8617444"
+dtd_version: "2.0"
+original_entry_into_force: "2006-12-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020311/2006-12-11/0"
+intitule_bron: "Stcrt.2006-195"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-09-18"
+intitule_published: "2006-10-06"
+intitule_in_force: "2006-12-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-195"
+original_signed_date: "2006-09-18"
+original_published_date: "2006-10-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-195-p7-SC77087"
+entry_into_force_date: "2006-12-11"
+jci_1_3: "jci1.3:c:BWBR0020311&z=2006-12-11&g=2006-12-11"
+jci_1_0: "1.0:c:BWBR0020311&g=2006-12-11"
+citeertitel_status: "officieel"
+short_title: "Regeling Subsidiebesluit experimenten en kennisoverdracht wonen"
+signed_date: "2006-09-18"
+entry_into_force: "2006-12-11"
 ---
-
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 18 september 2006, nr. DJZ2006303617, houdende vaststelling van de bij de aanvraag, bedoeld in artikel 3, eerste lid, van het Subsidiebesluit experimenten en kennisoverdracht wonen over te leggen gegevens en bescheiden alsmede van het model voor de verklaring, bedoeld in artikel 6, derde lid, van dat besluit en het model voor de accountantsverklaring, bedoeld in artikel 14, derde lid, van dat besluit (Regeling Subsidiebesluit experimenten en kennisoverdracht wonen)
 
 Gelet op de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020333&artikel=3), [6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020333&artikel=6), en [14, vierde lid, van het Subsidiebesluit experimenten en kennisoverdracht wonen](https://wetten.overheid.nl/jci1.3:c:BWBR0020333&artikel=14);
@@ -16,23 +42,23 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop het Subsidiebesluit experimenten en kennisoverdracht wonen in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 Bij de aanvraag tot subsidieverlening, bedoeld in [artikel 3, eerste lid, van het Subsidiebesluit experimenten en kennisoverdracht wonen](https://wetten.overheid.nl/jci1.3:c:BWBR0020333&artikel=3), worden de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0020311&bijlage=I&z=2006-12-11&g=2006-12-11) bij deze regeling genoemde gegevens en bescheiden overgelegd.
 
-#### Artikel 2
+##### Artikel 2
 
 De verklaring omtrent de minimis-steun, bedoeld in [artikel 6, derde lid, van het Subsidiebesluit experimenten en kennisoverdracht wonen](https://wetten.overheid.nl/jci1.3:c:BWBR0020333&artikel=6), wordt opgesteld overeenkomstig het in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0020311&bijlage=II&z=2006-12-11&g=2006-12-11) bij deze regeling opgenomen model.
 
-#### Artikel 3
+##### Artikel 3
 
 De verklaring, bedoeld in [artikel 14, derde lid, van het Subsidiebesluit experimenten en kennisoverdracht wonen](https://wetten.overheid.nl/jci1.3:c:BWBR0020333&artikel=14), wordt opgesteld overeenkomstig het in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0020311&bijlage=III&z=2006-12-11&g=2006-12-11) bij deze regeling opgenomen model.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking op het tijdstip waarop het [Subsidiebesluit experimenten en kennisoverdracht wonen](https://wetten.overheid.nl/jci1.3:c:BWBR0020333) in werking treedt.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling Subsidiebesluit experimenten en kennisoverdracht wonen.
 

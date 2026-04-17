@@ -1,13 +1,35 @@
 ---
 title: "Besluit vaststelling personele ondermandaten Rijksorganisatie voor Ontwikkeling, Digitalisering en Innovatie"
 identifier: "BWBR0050273"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2024-10-08
-laatste_update: 2024-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050273"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-10-08"
+last_updated: "2024-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050273"
+soort: "ministeriele-regeling"
+stam_id: "17236003"
+version_id: "30355632"
+internal_id: "C43535581"
+label_id: "17141684"
+dtd_version: "2.0"
+original_entry_into_force: "2024-10-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050273/2024-10-08/0"
+intitule_bron: "Stcrt.2024-31938"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-10-08"
+intitule_in_force: "2024-10-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-31938"
+original_published_date: "2024-10-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-31938"
+entry_into_force_date: "2024-10-08"
+jci_1_3: "jci1.3:c:BWBR0050273&z=2024-10-08&g=2024-10-08"
+jci_1_0: "1.0:c:BWBR0050273&g=2024-10-08"
+citeertitel_status: "officieel"
+entry_into_force: "2024-10-08"
 ---
-
 # Besluit vaststelling personele ondermandaten Rijksorganisatie voor Ontwikkeling, Digitalisering en Innovatie
 
 gelet op [artikel 7.7 van het Mandaatbesluit BZK 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048593&artikel=7.7),

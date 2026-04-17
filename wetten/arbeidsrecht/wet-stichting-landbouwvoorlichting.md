@@ -1,14 +1,37 @@
 ---
-title: "Wet Stichting Landbouwvoorlichting"
+title: "Wet van 3 september 1992, houdende regelen met betrekking tot de oprichting van de Stichting Landbouwvoorlichting"
 identifier: "BWBR0005639"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1993-08-01
-laatste_update: 1993-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005639"
+country: "nl"
+rank: "wet"
+publication_date: "1993-08-01"
+last_updated: "1993-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005639"
+soort: "wet"
+stam_id: "132093"
+version_id: "180932"
+internal_id: "C180931"
+label_id: "131654"
+dtd_version: "2.0"
+original_entry_into_force: "1993-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005639/1993-08-01/0"
+intitule_bron: "Stb.1992-619"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-09-03"
+intitule_status: "goed"
+original_publication: "Stb.1992-619"
+original_signed_date: "1992-09-03"
+original_effect: "nieuwe-regeling"
+original_dossier: "21432"
+entry_into_force_date: "1993-08-01"
+jci_1_3: "jci1.3:c:BWBR0005639&z=1993-08-01&g=1993-08-01"
+jci_1_0: "1.0:c:BWBR0005639&g=1993-08-01"
+citeertitel_status: "officieel"
+short_title: "Wet Stichting Landbouwvoorlichting"
+signed_date: "1992-09-03"
+entry_into_force: "1993-08-01"
 ---
-
-# Wet Stichting Landbouwvoorlichting
+# Wet van 3 september 1992, houdende regelen met betrekking tot de oprichting van de Stichting Landbouwvoorlichting
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +39,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de Dienst Landbouwvo
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -30,7 +53,7 @@ In deze wet wordt verstaan onder:
 
 - e. overgangsdatum: door Onze Minister te bepalen datum waarop ingevolge [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005639&artikel=5&z=1993-08-01&g=1993-08-01), het personeelslid overgaat in dienst van de stichting.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onze Minister wordt gemachtigd om namens de Staat der Nederlanden op te richten dan wel mede op te richten de Stichting Landbouwvoorlichting.
 
@@ -38,7 +61,7 @@ In deze wet wordt verstaan onder:
 
 3. De stichting tracht haar doel met name te bereiken door het verstrekken van technisch-economische voorlichting aan de werkenden in de primaire sector in de land- en tuinbouw.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Behoudens het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005639&artikel=5&z=1993-08-01&g=1993-08-01) gaan de vermogensbestanddelen van de Staat welke aan de Dienst Landbouwvoorlichting worden toegerekend op de datum van oprichting van de stichting onder algemene titel over op de stichting.
 
@@ -46,11 +69,11 @@ In deze wet wordt verstaan onder:
 
 3. Onze Minister doet van de vermogensbestanddelen welke ingevolge de voorgaande leden overgaan op de stichting door een registeraccountant of een accountant die een vergunning heeft als bedoeld in [artikel 70**b**, eerste lid, onder **b**, van de Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374&artikel=70b) (**Stb.** 1962, 258), een verklaring opstellen, die door de stichting wordt neergelegd ten kantore van het register, bedoeld in artikel 289 van Boek 2 van het Burgerlijk Wetboek.
 
-#### Artikel 4
+##### Artikel 4
 
 Bij de vaststelling van de arbeidsvoorwaarden van het personeel van de stichting is het Sociaal Statuut Privatisering Landbouwvoorlichting van toepassing.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Ieder personeelslid ten aanzien van wie Onze Minister niet anders heeft beslist gaat over in dienst bij de stichting op een arbeidsovereenkomst naar burgerlijk recht, ingaande op de overgangsdatum.
 
@@ -74,19 +97,19 @@ Bij de vaststelling van de arbeidsvoorwaarden van het personeel van de stichting
 
 11. Indien Onze Minister op of na de overgangsdatum de bezwaren geheel of gedeeltelijk gegrond verklaart, kan hij beslissen dat het personeelslid niet overgaat in dienst bij de stichting dan wel de stichting verplichten het personeelslid een arbeidsovereenkomst aan te bieden, waarvan de inhoud in overeenstemming is met zijn beslissing.
 
-#### Artikel 6
+##### Artikel 6
 
 De onder de Dienst Landbouwvoorlichting berustende archiefbescheiden worden voor een tijdvak van twintig jaar ter beschikking gesteld van de stichting.
 
-#### Artikel 7
+##### Artikel 7
 
 Ter zake van de verkrijging ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005639&artikel=3&z=1993-08-01&g=1993-08-01) door de stichting van vermogensbestanddelen van de Staat blijft heffing van overdrachtsbelasting achterwege.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat niet eerder kan worden vastgesteld dan nadat met de bonden van overheidspersoneel, vertegenwoordigd in de Bijzondere Commissie, bedoeld in [artikel 113 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=113) (**Stb.** 1931, 248) overeenstemming is bereikt over de arbeidsvoorwaarden.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze wet kan worden aangehaald als Wet Stichting Landbouwvoorlichting.
 

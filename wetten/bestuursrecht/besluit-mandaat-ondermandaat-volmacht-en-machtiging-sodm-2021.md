@@ -1,13 +1,39 @@
 ---
-title: "Besluit mandaat, ondermandaat, volmacht en machtiging SodM 2021"
+title: "Besluit van de Inspecteur-generaal der Mijnen van 23 maart 2022, houdende verlening van mandaat, ondermandaat, volmacht en machtiging voor het Staatstoezicht op de Mijnen (Besluit mandaat, ondermandaat, volmacht en machtiging SodM 2021)"
 identifier: "BWBR0046579"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-04-22
-laatste_update: 2022-04-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046579"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-04-22"
+last_updated: "2022-04-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046579"
+soort: "ministeriele-regeling"
+stam_id: "16332943"
+version_id: "28567932"
+internal_id: "C40313891"
+label_id: "16257814"
+dtd_version: "2.0"
+original_entry_into_force: "2022-04-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046579/2022-04-22/0"
+intitule_bron: "Stcrt.2022-11165"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-03-23"
+intitule_published: "2022-04-21"
+intitule_in_force: "2022-04-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-11165"
+original_signed_date: "2022-03-23"
+original_published_date: "2022-04-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-11165"
+entry_into_force_date: "2022-04-22"
+jci_1_3: "jci1.3:c:BWBR0046579&z=2022-04-22&g=2022-04-22"
+jci_1_0: "1.0:c:BWBR0046579&g=2022-04-22"
+citeertitel_status: "officieel"
+short_title: "Besluit mandaat, ondermandaat, volmacht en machtiging SodM 2021"
+signed_date: "2022-03-23"
+entry_into_force: "2022-04-22"
 ---
-
 # Besluit van de Inspecteur-generaal der Mijnen van 23 maart 2022, houdende verlening van mandaat, ondermandaat, volmacht en machtiging voor het Staatstoezicht op de Mijnen (Besluit mandaat, ondermandaat, volmacht en machtiging SodM 2021)
 
 Gelet op [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1), [artikel 19, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041776&artikel=19), en [20 van het Besluit mandaat, volmacht en machtiging EZK 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041776&artikel=20), [artikel 4 van de Regeling mandaatverlening inzake de bevoegdheid tot handhaving van de regels m.b.t. indeling, etikettering en verpakking van stoffen en mengsels](https://wetten.overheid.nl/jci1.3:c:BWBR0035209&artikel=4), en [artikel 2 van het Besluit mandaat en machtiging inspecteur-generaal der mijnen Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0039425&artikel=2);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -54,7 +80,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. Taakverdeling
 
-#### Artikel 2
+##### Artikel 2
 
 Aan de Inspecteur-generaal is voorbehouden:
 
@@ -78,7 +104,7 @@ Aan de Inspecteur-generaal is voorbehouden:
 
 - c. het instellen van hoger beroep.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan de directeuren wordt, ieder voor zich, mandaat, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op hun werkterrein met inbegrip van het nemen van besluiten en met dien verstande dat het aangaan van financiële verplichtingen enkel betrekking heeft op operationele kosten en een bedrag van € 10.000 per verplichting niet te boven gaat.
 
@@ -108,7 +134,7 @@ Aan de Inspecteur-generaal is voorbehouden:
 
 - d. het instellen van een voorlopige voorziening, het voeren van verweer, het voeren van correspondentie en het vertegenwoordigen in een voorlopige voorzieningsprocedure bij de bestuursrechter.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aan de managers wordt, ieder voor zich, mandaat, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op hun werkterrein. Het aangaan van financiële verplichtingen is hiervan uitgesloten, tenzij het verplichtingen betreft genoemd in het tweede tot en met vijfde lid.
 
@@ -130,7 +156,7 @@ Aan de Inspecteur-generaal is voorbehouden:
 
 6. Aan de manager Centrale Expertise wordt tevens volmacht en machtiging verleend voor het aangaan van financiële verplichtingen op het gebied van wetenschappelijke en inventariserende onderzoeken, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 50.000 per verplichting niet te boven gaat.
 
-#### Artikel 5
+##### Artikel 5
 
 Aan de operationeel manager wordt, voor de onder hem ressorterende medewerkers, ondermandaat, volmacht en machtiging verleend voor:
 
@@ -142,7 +168,7 @@ Aan de operationeel manager wordt, voor de onder hem ressorterende medewerkers, 
 
 - d. het accorderen van aanvragen voor binnenlandse dienstreizen en het goedkeuren van reiskostendeclaraties, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 5.000 per verplichting niet te boven gaat.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Aan de coördinerend/specialistisch inspecteurs, senior inspecteurs en inspecteurs, coördinerend/specialistisch adviseurs, senior adviseurs, adviseurs, coördinerend jurist, senior juristen, juristen en medewerkers behandelen en ontwikkelen wordt machtiging verleend voor het afhandelen van correspondentie op hun werkterrein.
 
@@ -160,7 +186,7 @@ Aan de operationeel manager wordt, voor de onder hem ressorterende medewerkers, 
 
 #### § 3. Vervanging
 
-#### Artikel 7
+##### Artikel 7
 
 1. In het geval van afwezigheid van de Inspecteur-generaal gaan de volgende bevoegdheden als volgt over:
 
@@ -182,11 +208,11 @@ Aan de operationeel manager wordt, voor de onder hem ressorterende medewerkers, 
 
 #### § 4. Instructie
 
-#### Artikel 8
+##### Artikel 8
 
 Mandaat, ondermandaat, volmacht en machtiging worden uitgeoefend met inachtneming van ter zake geldende en door de inspecteur-generaal en de directeuren vastgesteld reglement.
 
-#### Artikel 9
+##### Artikel 9
 
 Het krachtens mandaat ondertekenen van stukken geschiedt als volgt:
 
@@ -202,15 +228,15 @@ namens deze:
 
 #### § 5. Slotbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 Het [Besluit mandaat, ondermandaat, volmacht en machtiging SodM 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0017230) wordt ingetrokken.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 1 mei 2021.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit mandaat, ondermandaat, volmacht en machtiging SodM 2021.
 

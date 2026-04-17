@@ -1,13 +1,38 @@
 ---
 title: "Regeling Cultuureducatie in het mbo 2025–2028"
 identifier: "BWBR0050780"
-categorie: "Onderwijs"
-publicatiedatum: 2025-02-18
-laatste_update: 2025-02-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050780"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-02-18"
+last_updated: "2025-02-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050780"
+soort: "zbo"
+stam_id: "17368843"
+version_id: "30617462"
+internal_id: "C43883341"
+label_id: "17272124"
+dtd_version: "2.0"
+original_entry_into_force: "2025-02-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050780/2025-02-18/0"
+intitule_bron: "Stcrt.2025-4896"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-03-27"
+intitule_published: "2025-02-17"
+intitule_in_force: "2025-02-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-4896"
+original_signed_date: "2023-03-27"
+original_published_date: "2025-02-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-4896"
+entry_into_force_date: "2025-02-18"
+jci_1_3: "jci1.3:c:BWBR0050780&z=2025-02-18&g=2025-02-18"
+jci_1_0: "1.0:c:BWBR0050780&g=2025-02-18"
+citeertitel_status: "officieel"
+signed_date: "2023-03-27"
+entry_into_force: "2025-02-18"
 ---
-
 # Regeling Cultuureducatie in het mbo 2025–2028
 
 gelet op [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10), van de **Wet op het specifiek cultuurbeleid**;
@@ -24,7 +49,7 @@ besluit:
 
 ### Hoofdstuk 1. – Algemene bepalingen
 
-#### Artikel 1.1. Gebruikte begrippen
+##### Artikel 1.1. Gebruikte begrippen
 
 1. In deze regeling worden onderstaande begrippen gebruikt.
 
@@ -74,11 +99,11 @@ besluit:
 
 - w. **Website van het Fonds:** [www.cultuurparticipatie.nl](http://www.cultuurparticipatie.nl/).
 
-#### Artikel 1.2. Doel van de regeling
+##### Artikel 1.2. Doel van de regeling
 
 Met deze regeling stimuleert het Fonds het ontwikkelen en uitvoeren van activiteiten gericht op cultuureducatie in het mbo, in het Koninkrijk der Nederlanden. Dit wordt gerealiseerd door een samenwerking tussen een mbo-instelling en een culturele instelling, met waar mogelijk inbreng van studenten.
 
-#### Artikel 1.3. Wie kan aanvragen?
+##### Artikel 1.3. Wie kan aanvragen?
 
 Subsidie op grond van deze regeling kan uitsluitend worden aangevraagd door:
 
@@ -88,7 +113,7 @@ Subsidie op grond van deze regeling kan uitsluitend worden aangevraagd door:
 
 De aanvraag is altijd voor de samenwerking tussen de culturele instelling en de mbo-instelling.
 
-#### Artikel 1.4. Subsidieplafond en flexibiliteit
+##### Artikel 1.4. Subsidieplafond en flexibiliteit
 
 1. Het Fonds kan besluiten de subsidieplafonds te wijzigen. Deze wijzigingen kunnen ook op specifieke categorieën van activiteiten zijn of gelden voor bepaalde tijdvakken, thema’s, doelgroepen en regio’s.
 
@@ -96,7 +121,7 @@ De aanvraag is altijd voor de samenwerking tussen de culturele instelling en de 
 
 3. Een besluit op grond van het eerste of tweede lid wordt gepubliceerd op de website van het Fonds.
 
-#### Artikel 1.5. Algemene weigeringsgronden
+##### Artikel 1.5. Algemene weigeringsgronden
 
 1. Het Fonds weigert subsidie als:
 
@@ -128,7 +153,7 @@ De aanvraag is altijd voor de samenwerking tussen de culturele instelling en de 
 
 5. Het Fonds kan subsidie weigeren als de aanvraag gericht is op reguliere of terugkerende activiteiten of activiteiten die redelijkerwijs gefinancierd kunnen worden uit het reguliere budget van de aanvrager.
 
-#### Artikel 1.6. Voorwaarden
+##### Artikel 1.6. Voorwaarden
 
 1. Alleen kosten die direct verband houden met de projecten of activiteiten komen in aanmerking voor subsidiëring.
 
@@ -142,7 +167,7 @@ De aanvraag is altijd voor de samenwerking tussen de culturele instelling en de 
 
 3. Aanvragers gevestigd in het Caribisch deel van het Koninkrijk kunnen de benodigde kosten voor het omwisselen van valuta voor het uitvoeren van het project opnemen in de subsidieaanvraag.
 
-#### Artikel 1.7. Verplichtingen
+##### Artikel 1.7. Verplichtingen
 
 1. Met deelname aan deze regeling geeft de aanvrager toestemming aan het Fonds om gegevens uit de aanvraag en de eventuele verantwoording in te zetten voor kennisdeling en onderzoeksdoeleinden. Als het ten dienste staat aan het behalen van de doelstelling van de regeling, kan het Fonds de aanvrager verplichten tot deelname aan een bijeenkomst of begeleidingstraject.
 
@@ -164,17 +189,17 @@ De aanvraag is altijd voor de samenwerking tussen de culturele instelling en de 
 
 7. Gehonoreerde aanvragers zijn verplicht mee te werken aan monitoring en evaluatie door of namens het Fonds.
 
-#### Artikel 1.8. Indieningstermijnen
+##### Artikel 1.8. Indieningstermijnen
 
 1. Aanvragen op grond van deze regeling kunnen worden ingediend vanaf 17 februari 2025, 13.00 uur tot en met 30 augustus 2028, 13.00 uur. De tijdsaanduiding betreft de tijd die geldt in het Europees deel van Nederland.
 
 2. Het Fonds kan indieningstermijnen hanteren die van het eerste lid afwijken. Als dat gebeurt, worden de afwijkende indieningstermijnen op de website van het Fonds gepubliceerd.
 
-#### Artikel 1.9. Verplichtingen voor het indienen
+##### Artikel 1.9. Verplichtingen voor het indienen
 
 Aanvragen worden ingediend via een volledig ingevuld digitaal aanvraagformulier in de online aanvraagomgeving Mijn Fonds, via de website van het Fonds.
 
-#### Artikel 1.10. Beoordelen van aanvragen
+##### Artikel 1.10. Beoordelen van aanvragen
 
 1. Het Fonds beoordeelt de aanvragen overeenkomstig met de regeling.
 
@@ -194,7 +219,7 @@ Aanvragen worden ingediend via een volledig ingevuld digitaal aanvraagformulier 
 
 9. Op aanvragen tot € 25.000 wordt binnen uiterlijk acht weken beslist. Op aanvragen vanaf € 25.000 wordt binnen uiterlijk dertien weken beslist.
 
-#### Artikel 1.11. Voorschotten
+##### Artikel 1.11. Voorschotten
 
 1. Voor subsidie tot en met € 25.000 en die niet direct wordt vastgesteld, verleent het Fonds een voorschot van 100% van het subsidiebedrag.
 
@@ -204,7 +229,7 @@ Aanvragen worden ingediend via een volledig ingevuld digitaal aanvraagformulier 
 
 4. Het Fonds kan de bevoorschotting, al dan niet tijdelijk, stoppen als aanvragers hun subsidieverplichtingen onvoldoende nakomen. Dat kan het Fonds ook doen wanneer de omstandigheden zodanig zijn veranderd dat het aannemelijk is dat de activiteiten of projecten niet op dezelfde manier kunnen worden voortgezet.
 
-#### Artikel 1.12. Verantwoording en vaststelling
+##### Artikel 1.12. Verantwoording en vaststelling
 
 1. Subsidieontvangers die achteraf verantwoording dienen af te leggen over de activiteiten of projecten, doen dit door middel van een activiteitenverslag en een financieel verslag.
 
@@ -214,7 +239,7 @@ Aanvragen worden ingediend via een volledig ingevuld digitaal aanvraagformulier 
 
 #### Paragraaf 1. Verkenningen
 
-#### Artikel 2.1. Doel en effecten
+##### Artikel 2.1. Doel en effecten
 
 In deze paragraaf stimuleren wij Verkenningen gericht op cultuureducatie in het mbo in het Koninkrijk der Nederlanden. Verkenningen worden gedaan door middel van een samenwerking tussen een culturele instelling en een mbo-instelling.
 
@@ -226,11 +251,11 @@ Met de bepalingen in deze paragraaf stimuleert het Fonds activiteiten of project
 
 - c. effect c: Kansengelijkheid.
 
-#### Artikel 2.2. Waarvoor kan worden aangevraagd
+##### Artikel 2.2. Waarvoor kan worden aangevraagd
 
 Subsidie kan worden aangevraagd voor het verkennen van een lokale samenwerking tussen een culturele instelling en een mbo-instelling. Het gaat hierbij om activiteiten zoals gesprekken, het ontwikkelen van plannen, het maken van afspraken over onder andere de inhoud, taakverdeling en financiering en het uitproberen van activiteiten. De verkenning is gericht op cultuureducatie voor studenten in het mbo.
 
-#### Artikel 2.3. Hoogte van de subsidie
+##### Artikel 2.3. Hoogte van de subsidie
 
 Voor een project in deze paragraaf:
 
@@ -238,11 +263,11 @@ Voor een project in deze paragraaf:
 
 - 2. bedraagt de subsidie maximaal 100% van de totale projectkosten.
 
-#### Artikel 2.4. Subsidieplafond
+##### Artikel 2.4. Subsidieplafond
 
 Het subsidieplafond voor deze paragraaf is € 851.305.
 
-#### Artikel 2.5. Beoordelingscriteria
+##### Artikel 2.5. Beoordelingscriteria
 
 Aanvragen worden beoordeeld aan de hand van de volgende criteria. In de toelichting is uiteengezet op welke wijze die worden getoetst:
 
@@ -250,7 +275,7 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria. In de toelicht
 
 - b. organisatorische kwaliteit.
 
-#### Artikel 2.6. Verplichtingen voor het indienen
+##### Artikel 2.6. Verplichtingen voor het indienen
 
 Een aanvraag wordt pas in behandeling genomen als het volledig ingevulde aanvraagformulier op tijd is ontvangen met hierin opgenomen:
 
@@ -260,11 +285,11 @@ Een aanvraag wordt pas in behandeling genomen als het volledig ingevulde aanvraa
 
 - c. een sluitende begroting.
 
-#### Artikel 2.7. Specifieke weigeringsgronden
+##### Artikel 2.7. Specifieke weigeringsgronden
 
 Onverminderd de overige weigeringsgronden, wordt de subsidieaanvraag geweigerd als er al vier aanvragen van dezelfde aanvrager zijn gehonoreerd in deze regeling.
 
-#### Artikel 2.8. Bijzondere verplichtingen
+##### Artikel 2.8. Bijzondere verplichtingen
 
 Het project:
 
@@ -278,7 +303,7 @@ Het Fonds kan bij besluit van deze termijnen afwijken.
 
 #### Paragraaf 2. Projecten
 
-#### Artikel 2.9. Doel en effecten
+##### Artikel 2.9. Doel en effecten
 
 In deze paragraaf stimuleren wij Projecten gericht op cultuureducatie in het mbo, in het Koninkrijk der Nederlanden. Projecten worden gedaan door middel van een lokale samenwerking tussen een culturele instelling en een mbo-instelling.
 
@@ -294,11 +319,11 @@ Met de bepalingen in deze paragraaf stimuleert het Fonds projecten die gericht z
 
 - e. effect e: Verbinding.
 
-#### Artikel 2.10. Waarvoor kan worden aangevraagd
+##### Artikel 2.10. Waarvoor kan worden aangevraagd
 
 In deze paragraaf kan een aanvraag worden ingediend voor het ontwikkelen en uitvoeren van een cultuureducatief project. Het gaat hierbij om activiteiten zoals het (door)ontwikkelen van het project, en de voorbereiding, uitvoering en evaluatie van het cultuureducatieve project. De basis van het project is de vraag van de mbo-instelling.
 
-#### Artikel 2.11. Hoogte van de subsidie
+##### Artikel 2.11. Hoogte van de subsidie
 
 Voor een project in deze paragraaf:
 
@@ -306,11 +331,11 @@ Voor een project in deze paragraaf:
 
 - 2. bedraagt de subsidie maximaal 80% van de totale projectkosten als de aanvrager is gevestigd in het Europees deel van Nederland; voor een aanvrager die gevestigd is in het Caribisch deel van het Koninkrijk is dat maximaal 100%.
 
-#### Artikel 2.12. Subsidieplafond
+##### Artikel 2.12. Subsidieplafond
 
 Het subsidieplafond voor deze paragraaf is € 1.276.957.
 
-#### Artikel 2.13. Beoordelingscriteria
+##### Artikel 2.13. Beoordelingscriteria
 
 Aanvragen worden beoordeeld aan de hand van de volgende criteria. In de toelichting is uiteengezet op welke wijze die worden getoetst:
 
@@ -320,7 +345,7 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria. In de toelicht
 
 - c. organisatorische kwaliteit.
 
-#### Artikel 2.14. Verplichtingen voor het indienen
+##### Artikel 2.14. Verplichtingen voor het indienen
 
 Een aanvraag wordt pas in behandeling genomen als het volledig ingevulde aanvraagformulier op tijd is ontvangen met hierin opgenomen:
 
@@ -330,11 +355,11 @@ Een aanvraag wordt pas in behandeling genomen als het volledig ingevulde aanvraa
 
 - c. een sluitende begroting.
 
-#### Artikel 2.15. Specifieke weigeringsgronden
+##### Artikel 2.15. Specifieke weigeringsgronden
 
 Onverminderd de overige weigeringsgronden, wordt de subsidieaanvraag geweigerd als er al vier aanvragen van dezelfde aanvrager zijn gehonoreerd in deze regeling.
 
-#### Artikel 2.16. Bijzondere verplichtingen
+##### Artikel 2.16. Bijzondere verplichtingen
 
 Het project:
 
@@ -350,16 +375,16 @@ Het Fonds kan bij besluit van deze termijnen afwijken.
 
 ### Hoofdstuk 3. – Slotbepalingen
 
-#### Artikel 3.1. Hardheidsclausule
+##### Artikel 3.1. Hardheidsclausule
 
 Het Fonds kan afwijken van de rechten en plichten in deze regeling. Dat kan alleen in het voordeel van de aanvrager en in bijzondere gevallen die een onredelijke uitwerking hebben waarmee geen rekening is gehouden bij het opstellen van deze regeling.
 
-#### Artikel 3.2. Inwerkingtreding en vervaldatum
+##### Artikel 3.2. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking op de dag na de datum van uitgifte van de Staatscourant waarin zij wordt gepubliceerd.
 
 2. Deze regeling vervalt met ingang van 31 december 2028. Deze regeling blijft van toepassing op gehonoreerde aanvragen en eventuele bezwaar- en beroepsprocedures die daaruit voortvloeien.
 
-#### Artikel 3.3. Citeertitel
+##### Artikel 3.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Cultuureducatie in het mbo 2025–2028.

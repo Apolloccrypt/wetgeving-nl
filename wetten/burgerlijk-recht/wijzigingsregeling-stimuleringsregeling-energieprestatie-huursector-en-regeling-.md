@@ -1,28 +1,54 @@
 ---
-title: "Wijzigingsregeling Stimuleringsregeling energieprestatie huursector en Regeling fonds energiebesparing huursector (extra waarborgen subsidieaanvraag)"
+title: "Regeling van de Minister voor Wonen en Rijksdienst van 23 juli 2015, nr. 2015-00000415760, houdende wijziging van de Stimuleringsregeling energieprestatie huursector en de Regeling fonds energiebesparing huursector (extra waarborgen subsidieaanvraag)"
 identifier: "BWBR0036897"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2016-07-01
-laatste_update: 2016-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036897"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-07-01"
+last_updated: "2016-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036897"
+soort: "ministeriele-regeling"
+stam_id: "13234963"
+version_id: "22622032"
+internal_id: "C32433771"
+label_id: "13203094"
+dtd_version: "2.0"
+original_entry_into_force: "2015-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036897/2016-07-01/0"
+intitule_bron: "Stcrt.2015-22304"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-07-23"
+intitule_published: "2015-07-29"
+intitule_in_force: "2015-07-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-22304"
+original_signed_date: "2015-07-23"
+original_published_date: "2015-07-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-22304"
+entry_into_force_date: "2015-09-01"
+jci_1_3: "jci1.3:c:BWBR0036897&z=2016-07-01&g=2016-07-01"
+jci_1_0: "1.0:c:BWBR0036897&g=2016-07-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsregeling Stimuleringsregeling energieprestatie huursector en Regeling fonds energiebesparing huursector (extra waarborgen subsidieaanvraag)"
+signed_date: "2015-07-23"
+entry_into_force: "2015-09-01"
 ---
-
 # Regeling van de Minister voor Wonen en Rijksdienst van 23 juli 2015, nr. 2015-00000415760, houdende wijziging van de Stimuleringsregeling energieprestatie huursector en de Regeling fonds energiebesparing huursector (extra waarborgen subsidieaanvraag)
 
 Gelet op [artikel 4, eerste lid, onderdelen d en e, van de Kaderwet overige BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=4) en [artikel 11, derde lid, van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11);
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Stimuleringsregeling energieprestatie huursector.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Regeling fonds energiebesparing huursector.
 
-#### Artikel III. Overgangsrecht [STEP](https://wetten.overheid.nl/jci1.3:c:BWBR0035224)
+##### Artikel III. Overgangsrecht [STEP](https://wetten.overheid.nl/jci1.3:c:BWBR0035224)
 
 1. In dit artikel wordt verstaan onder **STEP**: de [Stimuleringsregeling energieprestatie huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0035224).
 
@@ -36,7 +62,7 @@ Wijzigt de Regeling fonds energiebesparing huursector.
 
 - b. voor geen van de overige woningen ten behoeve waarvan subsidie wordt aangevraagd reeds subsidie is aangevraagd op grond van de [STEP](https://wetten.overheid.nl/jci1.3:c:BWBR0035224).
 
-#### Artikel IV. Overgangsrecht [FEH](https://wetten.overheid.nl/jci1.3:c:BWBR0035608)
+##### Artikel IV. Overgangsrecht [FEH](https://wetten.overheid.nl/jci1.3:c:BWBR0035608)
 
 1. In dit artikel wordt verstaan onder:
 
@@ -62,11 +88,11 @@ Wijzigt de Regeling fonds energiebesparing huursector.
 
 - b. voor geen van de overige woningen die deel uitmaken van het project reeds deel uitmaken van een ander project waarvoor subsidie is aangevraagd op grond van de [FEH](https://wetten.overheid.nl/jci1.3:c:BWBR0035608).
 
-#### Artikel V
+##### Artikel V
 
 De uitvoering van de [Stimuleringsregeling energieprestatie huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0035224) en de [Regeling fonds energiebesparing huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0035608) wordt binnen zes maanden na de inwerkingtreding van deze regeling geëvalueerd.
 
-#### Artikel VI
+##### Artikel VI
 
 Deze regeling treedt inwerking met ingang van 1 september 2015.
 

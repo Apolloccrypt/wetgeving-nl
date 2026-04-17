@@ -1,20 +1,46 @@
 ---
-title: "Tijdelijke subsidieregeling innovaties duurzame binnenvaart 2018–2019"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 12 september 2018, nr. IENW/BSK-2018/116306, houdende vaststelling van de Tijdelijke subsidieregeling innovaties duurzame binnenvaart 2018–2019 (Tijdelijke subsidieregeling innovaties duurzame binnenvaart 2018–2019)"
 identifier: "BWBR0041347"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-10-12
-laatste_update: 2019-10-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041347"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-10-12"
+last_updated: "2019-10-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041347"
+soort: "ministeriele-regeling"
+stam_id: "14799703"
+version_id: "25303732"
+internal_id: "C36139981"
+label_id: "14751894"
+dtd_version: "2.0"
+original_entry_into_force: "2018-09-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041347/2019-10-12/0"
+intitule_bron: "Stcrt.2018-51849"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-09-12"
+intitule_published: "2018-09-17"
+intitule_in_force: "2018-09-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-51849"
+original_signed_date: "2018-09-12"
+original_published_date: "2018-09-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-51849"
+entry_into_force_date: "2018-09-18"
+jci_1_3: "jci1.3:c:BWBR0041347&z=2019-10-12&g=2019-10-12"
+jci_1_0: "1.0:c:BWBR0041347&g=2019-10-12"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke subsidieregeling innovaties duurzame binnenvaart 2018–2019"
+signed_date: "2018-09-12"
+entry_into_force: "2018-09-18"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 12 september 2018, nr. IENW/BSK-2018/116306, houdende vaststelling van de Tijdelijke subsidieregeling innovaties duurzame binnenvaart 2018–2019 (Tijdelijke subsidieregeling innovaties duurzame binnenvaart 2018–2019)
 
 Gelet op de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [8, eerste lid en tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=9), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22) en [23, vijfde lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=23);
 
 BESLUIT:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -28,11 +54,11 @@ In deze regeling wordt verstaan onder:
 
 - **staatssteun:** steunmaatregelen als omschreven in artikel 107 van het Verdrag betreffende de werking van de Europese Unie.
 
-#### Artikel 2. Doel van de subsidieregeling
+##### Artikel 2. Doel van de subsidieregeling
 
 Doel van deze regeling is het verstrekken van financiële bijdragen aan de binnenvaartsector ten behoeve van projecten die bijdragen aan de duurzaamheid van de sector door reductie van CO2-, NOX-, PM- emissies of methaanslip.
 
-#### Artikel 3. Subsidiabele projecten
+##### Artikel 3. Subsidiabele projecten
 
 1. Projecten zijn subsidiabel indien deze gericht zijn op het gebruik van alternatieve brandstoffen, alternatief motorgebruik, voor- of nabehandelingstechnieken of motormanagement, inrichting en gebruik van het schip ten behoeve van de reductie van CO2-, NOX- en PM-emissies of methaanslip bij de voortstuwing van voor de binnenvaart gebruikte schepen.
 
@@ -50,7 +76,7 @@ Doel van deze regeling is het verstrekken van financiële bijdragen aan de binne
 
 - f. **innovatiecluster-investeringsproject:** een samenhangend geheel van activiteiten gericht op het opzetten of uitbreiden van een innovatiecluster door de rechtspersoon die het innovatiecluster exploiteert.
 
-#### Artikel 4. Verdeelsleutel
+##### Artikel 4. Verdeelsleutel
 
 1. De Minister verleent subsidie voor projecten op basis van een door de Innovatieraad Binnenvaart schriftelijk opgestelde rangschikking conform de volgende criteria:
 
@@ -64,7 +90,7 @@ Doel van deze regeling is het verstrekken van financiële bijdragen aan de binne
 
 3. Indien twee of meer projecten na de rangschikking op dezelfde plaats in de rangschikking terechtkomen wordt door middel van loting de definitieve plaats in de rangschikking bepaald.
 
-#### Artikel 5. Subsidieplafond
+##### Artikel 5. Subsidieplafond
 
 Voor de subsidie is ten hoogste beschikbaar:
 
@@ -72,7 +98,7 @@ Voor de subsidie is ten hoogste beschikbaar:
 
 - b. € 1.400.000,– in 2019.
 
-#### Artikel 6. Subsidiemaximum en subsidiabele kosten
+##### Artikel 6. Subsidiemaximum en subsidiabele kosten
 
 1. De subsidie bedraagt ten hoogste € 250.000,– per project.
 
@@ -122,19 +148,19 @@ Voor de subsidie is ten hoogste beschikbaar:
 
 5. Indien geen loonkosten als bedoeld in het tweede lid, onderdeel b, subonderdeel 1°, worden gemaakt, maar niettemin arbeid ten behoeve van het project wordt verricht, geldt daarvoor een uurtarief van € 35,–. Het bepaalde in subonderdeel 2°, is op dit tarief niet van toepassing.
 
-#### Artikel 7. Cumulatie
+##### Artikel 7. Cumulatie
 
 Voor een project waarvoor eerder door een bestuursorgaan of de Europese Commissie aan de aanvrager staatssteun is verstrekt kan alleen subsidie worden verleend met inachtneming van de criteria uit artikel 8 van de algemene groepsvrijstellingsverordening.
 
-#### Artikel 8. Specifieke afwijzingsgrond
+##### Artikel 8. Specifieke afwijzingsgrond
 
 De subsidie wordt afgewezen indien de subsidie wordt aangevraagd door een ondernemer in moeilijkheden als bedoeld in artikel 2, achttiende lid, van de algemene groepsvrijstellingsverordening.
 
-#### Artikel 9. Uitvoeringsinstantie
+##### Artikel 9. Uitvoeringsinstantie
 
 Als uitvoeringsinstantie wordt aangewezen het Expertise- en InnovatieCentrum Binnenvaart van de Stichting Projecten Binnenvaart te Rotterdam. De uitvoeringsinstantie heeft tevens een adviserende rol in de rangschikking van de aanvragen.
 
-#### Artikel 10. Indiening aanvraag
+##### Artikel 10. Indiening aanvraag
 
 1. Een aanvraag wordt gericht aan de Minister.
 
@@ -144,7 +170,7 @@ Als uitvoeringsinstantie wordt aangewezen het Expertise- en InnovatieCentrum Bin
 
 4. De aanvraag bevat de in [artikel 10, vierde lid, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10) genoemde gegevens en wordt ingediend met gebruikmaking van een volledig ingevuld aanvraagformulier als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041347&bijlage=1&z=2019-10-12&g=2019-10-12) van deze subsidieregeling.
 
-#### Artikel 11. Subsidieverstrekking en -vaststelling
+##### Artikel 11. Subsidieverstrekking en -vaststelling
 
 1. De hoogte van de subsidie wordt bepaald op basis van gegevens die worden ingediend bij de aanvraag.
 
@@ -156,13 +182,13 @@ Als uitvoeringsinstantie wordt aangewezen het Expertise- en InnovatieCentrum Bin
 
 - b. desgevraagd, op door de uitvoeringsinstantie van tevoren aangegeven wijze, aan te tonen dat de activiteiten waarvoor de subsidie is verleend, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2020, met dien verstande dat zij van toepassing blijft op de voor die datum verleende subsidies.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling innovaties duurzame binnenvaart 2018–2019.
 

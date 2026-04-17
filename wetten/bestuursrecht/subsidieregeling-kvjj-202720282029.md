@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling KVJJ 2027–2028/2029"
+title: "Regeling van 12 februari 2026 van de Staatssecretaris van Justitie en Veiligheid, kenmerk 7151130, houdende vaststelling van een subsidieregeling voor Kleinschalige Voorzieningen Justitiële Jeugd"
 identifier: "BWBR0052368"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-03-01
-laatste_update: 2026-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052368"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-01"
+last_updated: "2026-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052368"
+soort: "ministeriele-regeling"
+stam_id: "17781823"
+version_id: "31444822"
+internal_id: "C44914621"
+label_id: "17680034"
+dtd_version: "2.0"
+original_entry_into_force: "2026-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052368/2026-03-01/0"
+intitule_bron: "Stcrt.2026-7906"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-02-12"
+intitule_published: "2026-02-27"
+intitule_in_force: "2026-02-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-7906"
+original_signed_date: "2026-02-12"
+original_published_date: "2026-02-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-7906"
+entry_into_force_date: "2026-03-01"
+jci_1_3: "jci1.3:c:BWBR0052368&z=2026-03-01&g=2026-03-01"
+jci_1_0: "1.0:c:BWBR0052368&g=2026-03-01"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling KVJJ 2027–2028/2029"
+signed_date: "2026-02-12"
+entry_into_force: "2026-03-01"
 ---
-
 # Regeling van 12 februari 2026 van de Staatssecretaris van Justitie en Veiligheid, kenmerk 7151130, houdende vaststelling van een subsidieregeling voor Kleinschalige Voorzieningen Justitiële Jeugd
 
 Gelet op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044954&artikel=3) en [4 van de Kaderwet overige JenV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0044954&artikel=4);
@@ -16,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1.1. Definities
+##### Artikel 1.1. Definities
 
 - a. **Staatssecretaris:** de Staatssecretaris van Justitie en Veiligheid;
 
@@ -30,7 +56,7 @@ Besluit:
 
 - f. **Jeugdige:** de jeugdige, bedoeld in [artikel 8, eerste lid, onderdelen a, b, e en i, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=8);
 
-#### Artikel 1.2. Doel
+##### Artikel 1.2. Doel
 
 1. De Staatssecretaris verstrekt subsidie ten behoeve van de opvang van jeugdigen in een Kleinschalige Voorziening Justitiële Jeugd in de:
 
@@ -46,15 +72,15 @@ Besluit:
 
 2. In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052368&bijlage=2&z=2026-03-01&g=2026-03-01) wordt een overzicht gegeven van de regio-indeling.
 
-#### Artikel 1.3. Grondslag voor de subsidieverstrekking
+##### Artikel 1.3. Grondslag voor de subsidieverstrekking
 
 De grondslag voor de subsidieverstrekking is [artikel 2, onder b en f, van de Kaderwet overige JenV subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0044954&artikel=2).
 
-#### Artikel 1.4. Van toepassing verklaring
+##### Artikel 1.4. Van toepassing verklaring
 
 [Afdeling 4.2.8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.8) is van toepassing op de subsidieverstrekking aan Kleinschalige Voorzieningen Justitiële Jeugd op grond van deze regeling met dien verstande dat de [artikelen 4:71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:71), [4:77](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:77), en [4:79 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:79) eveneens van toepassing zijn.
 
-#### Artikel 1.5. Subsidieperiode
+##### Artikel 1.5. Subsidieperiode
 
 1. De subsidie wordt eenmalig verstrekt voor:
 
@@ -70,15 +96,15 @@ De grondslag voor de subsidieverstrekking is [artikel 2, onder b en f, van de Ka
 
 3. In geval van een verlenging kan er niet van onderhavige regeling worden afgeweken.
 
-#### Artikel 1.6. Begrotingsvoorbehoud
+##### Artikel 1.6. Begrotingsvoorbehoud
 
 Subsidie wordt verleend onder de voorwaarde, bedoeld in artikel 34 van de Algemene wet bestuursrecht.
 
-#### Artikel 1.7. Subsidieplafond
+##### Artikel 1.7. Subsidieplafond
 
 Per regio geldt een subsidieplafond van € 1.931.703,– per jaar (prijspeil 2025) in de zin van [artikel 4:25 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:25) met dien verstande dat de bedragen jaarlijks voor normatief 85% kunnen worden geïndexeerd op basis van de door het Ministerie van VWS vastgestelde Overheidsbijdrage in de Arbeidskosten Ontwikkeling (OVA) Percentage en voor normatief 15% voor het door het Ministerie van Financiën toegekende percentage (materiële) prijsbijstelling. Bij afzonderlijk besluit zal de indexatie aan de subsidieontvanger bekend worden gemaakt.
 
-#### Artikel 1.8. Subsidiabele kosten
+##### Artikel 1.8. Subsidiabele kosten
 
 1. Voor de verstrekking van subsidie komen de volgende kostenposten in aanmerking:
 
@@ -96,17 +122,17 @@ Per regio geldt een subsidieplafond van € 1.931.703,– per jaar (prijspeil 20
 
 3. Geen subsidie wordt verstrekt voor kosten die vóór de subsidieverdeling, bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052368&paragraaf=2&artikel=2.4&z=2026-03-01&g=2026-03-01), zijn gemaakt.
 
-#### Artikel 1.9. Toepassingsgebied
+##### Artikel 1.9. Toepassingsgebied
 
 Deze regeling is van toepassing in het Europese gedeelte van Land Nederland van het Koninkrijk der Nederlanden.
 
 #### Paragraaf 2. Subsidieverlening
 
-#### Artikel 2.1. Rechtspersoon met volledige rechtsbevoegdheid
+##### Artikel 2.1. Rechtspersoon met volledige rechtsbevoegdheid
 
 Alleen rechtspersonen met volledige rechtsbevoegdheid kunnen een aanvraag om subsidieverlening indienen.
 
-#### Artikel 2.2. Digitaal indienen van de aanvraag
+##### Artikel 2.2. Digitaal indienen van de aanvraag
 
 1. De aanvraag voor de subsidieperiode geschiedt digitaal en dient toegezonden te worden aan inkoopforensischezorg@dji.minjus.nl.
 
@@ -116,11 +142,11 @@ Alleen rechtspersonen met volledige rechtsbevoegdheid kunnen een aanvraag om sub
 
 4. Indien de aanvraag niet volledig is ingevuld dan wel de vereiste bijlagen niet zijn meegezonden, ontvangt de aanvrager zo spoedig mogelijk een mail met een verzoek om gelet op [artikel 4.5, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) het gebrek voor maandag 9 april 2026 om 24.00 per mail te herstellen. Indien de mail niet voor bovengenoemde dag en tijdstip is ontvangen, wordt de aanvraag niet in behandeling genomen. Indien de ontvangen informatie niet leidt tot het gewenste herstel dan wordt de aanvraag niet in behandeling genomen.
 
-#### Artikel 2.3. Beoordelingscriteria en -matrix van de aanvraag
+##### Artikel 2.3. Beoordelingscriteria en -matrix van de aanvraag
 
 De subsidie wordt verleend op basis van een beoordeling en waardering van het ingevulde aanvraagformulier (bijlage 3) en de bij de aanvraag bijgevoegde informatie en/of documenten aan de hand van het Programma van eisen ([bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052368&bijlage=4&z=2026-03-01&g=2026-03-01)) en het Beoordelingskader ([bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052368&bijlage=5&z=2026-03-01&g=2026-03-01)).
 
-#### Artikel 2.4. Besluitvorming in primo
+##### Artikel 2.4. Besluitvorming in primo
 
 1. Namens de Staatssecretaris beslist de Directeur op de aanvraag voor subsidieverlening uiterlijk voor 1 augustus 2026.
 
@@ -136,7 +162,7 @@ De subsidie wordt verleend op basis van een beoordeling en waardering van het in
 
 7. In geval de subsidieperiode is verlengd op grond van [artikel 1.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052368&paragraaf=1&artikel=1.5&z=2026-03-01&g=2026-03-01), verleent de Directeur namens de Staatssecretaris subsidie op basis van een aanvraag van de subsidieontvanger aan wie voor de aanvang van verlenging in dezelfde regio subsidie is verleend. Het vijfde en het zesde lid zijn van toepassing.
 
-#### Artikel 2.5. Besluitvorming beslissing op bezwaar
+##### Artikel 2.5. Besluitvorming beslissing op bezwaar
 
 1. Namens de Staatssecretaris beslist het Lid dienstleiding uiterlijk voor 1 januari 2027 op een bezwaarschrift tegen het besluit tot subsidieverlening.
 
@@ -146,13 +172,13 @@ De subsidie wordt verleend op basis van een beoordeling en waardering van het in
 
 4. Tijdens de hoorzitting wordt de voorzitter van de bezwarenadviescommissie, bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052368&paragraaf=2&artikel=2.4&z=2026-03-01&g=2026-03-01), als vertegenwoordiger van de Staatssecretaris uitgenodigd om een toelichting te geven op het bestreden besluit.
 
-#### Artikel 2.6. Bezoldiging voorzitter en onafhankelijke leden van de commissies
+##### Artikel 2.6. Bezoldiging voorzitter en onafhankelijke leden van de commissies
 
 De bezoldiging van de voorzitter en onafhankelijke leden van de commissies, bedoeld in de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052368&paragraaf=2&artikel=2.4&z=2026-03-01&g=2026-03-01) en [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0052368&paragraaf=2&artikel=2.5&z=2026-03-01&g=2026-03-01) geschiedt op basis van de [Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775).
 
 #### Paragraaf 3. Subsidievaststelling
 
-#### Artikel 3.1. Aanvraag
+##### Artikel 3.1. Aanvraag
 
 - 1. De aanvraag voor subsidievaststelling wordt uiterlijk:
 
@@ -166,7 +192,7 @@ De bezoldiging van de voorzitter en onafhankelijke leden van de commissies, bedo
 
 - 3. De aanvraag dient inhoudelijk te voldoen aan de voorwaarden die zijn gesteld in de Handleiding Planning & Control Kleinschalige Voorzieningen Justitiële Jeugd die als [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0052368&bijlage=6&z=2026-03-01&g=2026-03-01) is toegevoegd. Deze handleiding wordt jaarlijks herzien. Een gewijzigde Handleiding wordt toegezonden aan de subsidieontvangers.
 
-#### Artikel 3.2. Besluitvorming
+##### Artikel 3.2. Besluitvorming
 
 - 1. Namens de Staatssecretaris beslist de Directeur binnen 22 weken na ontvangst van de aanvraag daarvan.
 
@@ -174,11 +200,11 @@ De bezoldiging van de voorzitter en onafhankelijke leden van de commissies, bedo
 
 #### Paragraaf 4. Overige bepalingen
 
-#### Artikel 4.1. Inwerkingtredingsbepaling
+##### Artikel 4.1. Inwerkingtredingsbepaling
 
 Deze regeling treedt in werking op 1 maart 2026.
 
-#### Artikel 4.1*. Citeertitel
+##### Artikel 4.1*. Citeertitel
 
 Deze regeling wordt aangehaald als Subsidieregeling KVJJ 2027–2028/2029.
 

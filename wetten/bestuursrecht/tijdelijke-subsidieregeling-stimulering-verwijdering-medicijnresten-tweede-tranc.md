@@ -1,20 +1,46 @@
 ---
-title: "Tijdelijke subsidieregeling stimulering verwijdering medicijnresten tweede tranche"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 23 oktober 2025 nr. IENW/BSK-2025/258966, houdende vaststelling van tijdelijke regels ter stimulering van aanvullende zuiveringstechnieken bij rioolwaterzuiveringsinstallaties (Tijdelijke subsidieregeling stimulering verwijdering medicijnresten tweede tranche) [KetenID WGK 26712]"
 identifier: "BWBR0051651"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-10-25
-laatste_update: 2025-10-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051651"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-25"
+last_updated: "2025-10-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051651"
+soort: "ministeriele-regeling"
+stam_id: "17561693"
+version_id: "30990012"
+internal_id: "C44382401"
+label_id: "17462884"
+dtd_version: "2.0"
+original_entry_into_force: "2025-10-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051651/2025-10-25/0"
+intitule_bron: "Stcrt.2025-35618"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-10-23"
+intitule_published: "2025-10-24"
+intitule_in_force: "2025-10-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-35618"
+original_signed_date: "2025-10-23"
+original_published_date: "2025-10-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-35618"
+entry_into_force_date: "2025-10-25"
+jci_1_3: "jci1.3:c:BWBR0051651&z=2025-10-25&g=2025-10-25"
+jci_1_0: "1.0:c:BWBR0051651&g=2025-10-25"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke subsidieregeling stimulering verwijdering medicijnresten tweede tranche"
+signed_date: "2025-10-23"
+entry_into_force: "2025-10-25"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 23 oktober 2025 nr. IENW/BSK-2025/258966, houdende vaststelling van tijdelijke regels ter stimulering van aanvullende zuiveringstechnieken bij rioolwaterzuiveringsinstallaties (Tijdelijke subsidieregeling stimulering verwijdering medicijnresten tweede tranche) [KetenID WGK 26712]
 
 Gelet op de [artikelen 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [6, eerste lid, tweede lid, onderdeel b, en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22), en [24, eerste lid, tweede volzin, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24);
 
 BESLUIT:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -70,15 +96,15 @@ In deze regeling wordt verstaan onder:
 
 - **zuiveringtechnisch werk:** werk voor het zuiveren van stedelijk afvalwater, in exploitatie bij een waterschap of een gemeente, dan wel een rechtspersoon die door het bestuur van een waterschap met de zuivering van stedelijk afvalwater is belast, met inbegrip van het bij dat werk behorende werk voor het transport van stedelijk afvalwater.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Deze regeling heeft tot doel met subsidieverstrekking aan een waterschap de implementatie en kennisontwikkeling van vergaande zuiveringstechnieken op rioolwaterzuiveringen door waterschappen te stimuleren, om medicijnresten en andere organische microverontreinigingen vergaand te verwijderen uit stedelijk afvalwater ter bevordering van de waterkwaliteit.
 
-#### Artikel 3. Artikelen [Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381) van overeenkomstige toepassing
+##### Artikel 3. Artikelen [Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381) van overeenkomstige toepassing
 
 De [artikelen 4, eerste lid, onder a, b, e, f, h, en k](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [6, eerste vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [8, eerste lid en tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [10, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=12), [14, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=14), [17, eerste lid, onder a, b, c, e en f en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=21), [24, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24), en [25 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=25), zijn van overeenkomstige toepassing op een subsidie die op grond van deze regeling wordt verstrekt.
 
-#### Artikel 4. Kosten die in aanmerking komen voor een subsidie
+##### Artikel 4. Kosten die in aanmerking komen voor een subsidie
 
 1. De minister kan op aanvraag van een waterschap subsidie verstrekken voor de kosten die zijn gemaakt voor 31 december 2028 en die direct verbonden zijn met de uitvoering van de volgende activiteiten:
 
@@ -90,7 +116,7 @@ De [artikelen 4, eerste lid, onder a, b, e, f, h, en k](https://wetten.overheid.
 
 2. De voor indiening van de aanvraag gemaakte kosten die rechtstreeks samenhangen met de activiteiten, bedoeld in het eerste lid, komen ook voor subsidie in aanmerking.
 
-#### Artikel 5. Kosten die niet voor subsidie in aanmerking komen
+##### Artikel 5. Kosten die niet voor subsidie in aanmerking komen
 
 De volgende kosten komen niet voor subsidie in aanmerking:
 
@@ -104,7 +130,7 @@ De volgende kosten komen niet voor subsidie in aanmerking:
 
 - e. kosten waarvoor uit andere hoofde een subsidie of een bijdrage of vergoeding voor de kosten van de activiteiten, bedoeld in [artikel 4, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051651&artikel=4&z=2025-10-25&g=2025-10-25), door derden is of wordt verstrekt.
 
-#### Artikel 6. Subsidieplafond en verdeling
+##### Artikel 6. Subsidieplafond en verdeling
 
 1. Het subsidieplafond bedraagt € 32.600.000,–.
 
@@ -118,7 +144,7 @@ De volgende kosten komen niet voor subsidie in aanmerking:
 
 4. De subsidie wordt verdeeld op volgorde van binnenkomst van de volledige aanvragen.
 
-#### Artikel 7. Aanvraag
+##### Artikel 7. Aanvraag
 
 1. Een subsidie kan op aanvraag van een waterschap worden verstrekt.
 
@@ -138,7 +164,7 @@ De volgende kosten komen niet voor subsidie in aanmerking:
 
 4. Waterschappen die de installatie voor 1 december 2025 in bedrijf hebben gesteld, overleggen in aanvulling op het derde lid, ook de gegevens en bescheiden, bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051651&artikel=12&z=2025-10-25&g=2025-10-25), bij de aanvraag.
 
-#### Artikel 8. Verlening
+##### Artikel 8. Verlening
 
 Een besluit tot verlening van de subsidie vermeldt in ieder geval:
 
@@ -148,13 +174,13 @@ Een besluit tot verlening van de subsidie vermeldt in ieder geval:
 
 - c. de wijze waarop het bedrag van de subsidie is bepaald.
 
-#### Artikel 9. Voorwaarden
+##### Artikel 9. Voorwaarden
 
 1. De subsidie wordt uitsluitend besteed aan activiteiten waarvoor de subsidie is verleend.
 
 2. Er wordt voldaan aan de verplichtingen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0051651&artikel=10&z=2025-10-25&g=2025-10-25).
 
-#### Artikel 10. Verplichtingen van de subsidieontvanger
+##### Artikel 10. Verplichtingen van de subsidieontvanger
 
 1. De subsidieontvanger wijst een projectcoördinator aan, die het project coördineert en die aanspreekpunt is voor de minister.
 
@@ -172,11 +198,11 @@ Een besluit tot verlening van de subsidie vermeldt in ieder geval:
 
 8. De rapportage, bedoeld in het zevende lid, bevat de gegevens, bedoeld in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0051651&bijlage=III&z=2025-10-25&g=2025-10-25), bij deze regeling.
 
-#### Artikel 11. Openbaarheid
+##### Artikel 11. Openbaarheid
 
 De binnen het project gegenereerde resultaten en de opgedane kennis en ervaring worden door de subsidieontvanger beschikbaar gesteld voor de Nederlandse zuiveringspraktijk.
 
-#### Artikel 12. Vaststelling
+##### Artikel 12. Vaststelling
 
 1. De subsidieontvanger dient uiterlijk binnen dertien weken na het functioneel in bedrijf stellen van de installatie een aanvraag voor subsidievaststelling in bij de minister.
 
@@ -188,19 +214,19 @@ De binnen het project gegenereerde resultaten en de opgedane kennis en ervaring 
 
 - b. de datum van functionele inbedrijfstelling van de installatie.
 
-#### Artikel 13. Evaluatie
+##### Artikel 13. Evaluatie
 
 De minister publiceert uiterlijk op 31 december 2030 een verslag over de doeltreffendheid en de effecten van de subsidie in de praktijk.
 
-#### Artikel 14. Wijziging [Subsidieregeling stimulering verwijdering medicijnresten eerste tranche](https://wetten.overheid.nl/jci1.3:c:BWBR0048998)
+##### Artikel 14. Wijziging [Subsidieregeling stimulering verwijdering medicijnresten eerste tranche](https://wetten.overheid.nl/jci1.3:c:BWBR0048998)
 
 Wijzigt de Subsidieregeling stimulering verwijdering medicijnresten eerste tranche.
 
-#### Artikel 15. Inwerkingtreding en horizonbepaling
+##### Artikel 15. Inwerkingtreding en horizonbepaling
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt op 15 oktober 2030, met dien verstande dat zij van toepassing blijft op subsidies die voor die datum zijn verleend.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling stimulering verwijdering medicijnresten tweede tranche.
 

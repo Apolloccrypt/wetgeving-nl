@@ -1,13 +1,39 @@
 ---
-title: "Bekostigingsregeling eerste opvang ontheemden Oekraïne door Regionale openbare lichamen"
+title: "Regeling van de Staatssecretaris van Justitie en Veiligheid van 21 december 2023, nr. 5111654, houdende een specifieke uitkering voor regionale openbare lichamen, provincies of gemeenten in verband met de bekostiging van acute opvang aan ontheemden uit Oekraïne vanwege de oorlogssituatie in Oekraïne (Bekostigingsregeling eerste opvang ontheemden Oekraïne door Regionale openbare lichamen)"
 identifier: "BWBR0049203"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049203"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049203"
+soort: "ministeriele-regeling"
+stam_id: "16992283"
+version_id: "29883452"
+internal_id: "C42841271"
+label_id: "16902654"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049203/2026-01-01/0"
+intitule_bron: "Stcrt.2024-325"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-12-21"
+intitule_published: "2024-01-08"
+intitule_in_force: "2024-01-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-325"
+original_signed_date: "2023-12-21"
+original_published_date: "2024-01-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-325"
+entry_into_force_date: "2024-01-09"
+jci_1_3: "jci1.3:c:BWBR0049203&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0049203&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Bekostigingsregeling eerste opvang ontheemden Oekraïne door Regionale openbare lichamen"
+signed_date: "2023-12-21"
+entry_into_force: "2024-01-09"
 ---
-
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 21 december 2023, nr. 5111654, houdende een specifieke uitkering voor regionale openbare lichamen, provincies of gemeenten in verband met de bekostiging van acute opvang aan ontheemden uit Oekraïne vanwege de oorlogssituatie in Oekraïne (Bekostigingsregeling eerste opvang ontheemden Oekraïne door Regionale openbare lichamen)
 
 De Staatssecretaris van Justitie en Veiligheid,
@@ -16,7 +42,7 @@ Gelet op [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wet
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - f. **minister:** de Minister van Asiel en Migratie.
 
-#### Artikel 2. Verstrekking van een specifieke uitkering
+##### Artikel 2. Verstrekking van een specifieke uitkering
 
 1. De Minister kan een specifieke uitkering verstrekken aan een regionaal openbaar lichaam, een provincie of een gemeente, die namens meerdere gemeenten, die tot het territoriale gebied van één of meerdere veiligheidsregio’s binnen één provincie behoren, de operationele coördinatie en eerste opvang van ontheemden uit Oekraïne uitvoert.
 
@@ -44,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 5. Het regionaal openbaar lichaam, de provincie of de gemeente, bedoeld in het eerste lid, verstrekt op verzoek van de Minister een onderbouwing van de wijze waarop zij invulling geeft aan een continue en voldoende betrouwbare uitvoering van de taak bedoeld in het tweede lid.
 
-#### Artikel 3. Voorwaarden aanvraag
+##### Artikel 3. Voorwaarden aanvraag
 
 1. De aanvraag bevat in ieder geval
 
@@ -72,13 +98,13 @@ In deze regeling wordt verstaan onder:
 
 - c. de kosten zijn of worden gemaakt in het betreffende boekjaar.
 
-#### Artikel 4. Verlening en bevoorschotting
+##### Artikel 4. Verlening en bevoorschotting
 
 1. De Minister beslist binnen dertien weken na ontvangst van de aanvraag.
 
 2. De Minister verstrekt zo spoedig mogelijk na de beschikking een voorschot van 100% van de totale kosten voor de periode waarop de aanvraag betrekking heeft.
 
-#### Artikel 5. Voor vergoeding in aanmerking komende kosten
+##### Artikel 5. Voor vergoeding in aanmerking komende kosten
 
 1. De specifieke uitkering wordt alleen verstrekt ter bekostiging van de in een periode als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049203&artikel=2&z=2026-01-01&g=2026-01-01), gemaakte kosten door:
 
@@ -96,13 +122,13 @@ In deze regeling wordt verstaan onder:
 
 - b. btw waarvoor op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) recht op aftrek van omzetbelasting bestaat, dan wel recht bestaat op compensatie op grond van de [Wet op het btw-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817).
 
-#### Artikel 6. Verantwoording
+##### Artikel 6. Verantwoording
 
 1. Het regionaal openbaar lichaam, de provincie of de gemeente, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049203&artikel=2&z=2026-01-01&g=2026-01-01), legt uiterlijk 15 juli van het jaar dat volgt op het jaar van besteding verantwoording af over de besteding van de specifieke uitkering.
 
 2. Daar waar sprake is van overdracht van middelen naar een medeoverheid is SiSa tussen medeoverheden van toepassing conform [artikel 17a, tweede lid van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-#### Artikel 7. Procedure tot vaststelling van de specifieke uitkering
+##### Artikel 7. Procedure tot vaststelling van de specifieke uitkering
 
 1. Nadat de minister de verantwoordingsinformatie, als bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), heeft ontvangen van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, stelt de minister de uitkering binnen 22 weken vast.
 
@@ -116,7 +142,7 @@ In deze regeling wordt verstaan onder:
 
 - d. Voor zover de besteding of een deel van de besteding volgens de controlerende accountant onjuist, onzeker en/of onrechtmatig is.
 
-#### Artikel 8. Terugvordering
+##### Artikel 8. Terugvordering
 
 1. De specifieke uitkering kan worden teruggevorderd voor het deel dat blijkens de verantwoordingsinformatie niet is uitgegeven.
 
@@ -124,15 +150,15 @@ In deze regeling wordt verstaan onder:
 
 3. Onverschuldigd betaalde bedragen en voorschotten kunnen worden teruggevorderd, voor zover na de dag waarop de beschikking waarbij de specifieke uitkering wordt vastgesteld is bekendgemaakt, nog geen vijf jaren zijn verstreken.
 
-#### Artikel 9. Intrekking
+##### Artikel 9. Intrekking
 
 Het [Bekostigingsbesluit eerste opvang ontheemden Oekraïne door veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0046892) wordt ingetrokken met ingang van 1 januari 2024.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2024.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Bekostigingsregeling eerste opvang ontheemden Oekraïne door Regionale openbare lichamen.
 

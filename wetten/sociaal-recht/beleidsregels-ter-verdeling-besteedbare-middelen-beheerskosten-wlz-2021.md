@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregels ter verdeling besteedbare middelen beheerskosten Wlz 2021"
+title: "Besluit van de Raad van Bestuur van Zorginstituut Nederland van 9 februari 2021 (kenmerk 2020049797), ter verdeling van de besteedbare middelen beheerskosten Wlz 2021"
 identifier: "BWBR0044868"
-categorie: "Sociaal recht"
-publicatiedatum: 2022-03-01
-laatste_update: 2022-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044868"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-03-01"
+last_updated: "2022-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044868"
+soort: "zbo"
+stam_id: "15862963"
+version_id: "27565102"
+internal_id: "C38890051"
+label_id: "15798184"
+dtd_version: "2.0"
+original_entry_into_force: "2021-03-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044868/2022-03-01/0"
+intitule_bron: "Stcrt.2021-9758"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-02-09"
+intitule_published: "2021-03-01"
+intitule_in_force: "2021-03-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-9758"
+original_signed_date: "2021-02-09"
+original_published_date: "2021-03-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-9758"
+entry_into_force_date: "2021-03-02"
+jci_1_3: "jci1.3:c:BWBR0044868&z=2022-03-01&g=2022-03-01"
+jci_1_0: "1.0:c:BWBR0044868&g=2022-03-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels ter verdeling besteedbare middelen beheerskosten Wlz 2021"
+signed_date: "2021-02-09"
+entry_into_force: "2021-03-02"
 ---
-
 # Besluit van de Raad van Bestuur van Zorginstituut Nederland van 9 februari 2021 (kenmerk 2020049797), ter verdeling van de besteedbare middelen beheerskosten Wlz 2021
 
 Gelet op [artikel 91, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=91), [artikel 4.4, derde lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4) en [artikel 4.5, eerste lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.5);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beleidsregels wordt verstaan onder:
 
@@ -62,21 +88,21 @@ In deze beleidsregels wordt verstaan onder:
 
 - –. **ZN:** Zorgverzekeraars Nederland.
 
-#### Artikel 2
+##### Artikel 2
 
 Het Zorginstituut stelt een voorlopig, nader en definitief beheerskostenbudget vast met inachtneming van de in de [Aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0044421) genoemde bedragen.
 
-#### Artikel 3
+##### Artikel 3
 
 Het Zorginstituut rondt het voorlopige, het nadere en het definitieve beheerskostenbudget af op hele euro's, waarbij het Zorginstituut bedragen van een halve euro en hoger afrondt naar boven en overige bedragen naar beneden.
 
 #### § 2. Voorlopige vaststelling beheerskostenbudget 2021
 
-#### Artikel 4
+##### Artikel 4
 
 Het Zorginstituut stelt in februari 2021 voor ieder zorgkantoor, iedere Wlz- uitvoerder en de SVB een beheerskostenbudget voorlopig vast met inachtneming van de in de [Aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0044421) genoemde bedragen.
 
-#### Artikel 5
+##### Artikel 5
 
 Het Zorginstituut verdeelt het bedrag voor de zorgkantoren voor de taken, bedoeld in [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4), als volgt:
 
@@ -98,7 +124,7 @@ Het Zorginstituut verdeelt het bedrag voor de zorgkantoren voor de taken, bedoel
 
 - i. een bedrag van € 0,611 miljoen wordt verdeeld op basis van een uitvraag van ZN voor de kosten met betrekking tot de werkzaamheden in het kader van Te goeder trouw.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het Zorginstituut verdeelt 15 procent van het na toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044868&paragraaf=2&artikel=5&z=2022-03-01&g=2022-03-01) resterende bedrag als volgt:
 
@@ -112,7 +138,7 @@ Het Zorginstituut verdeelt het bedrag voor de zorgkantoren voor de taken, bedoel
 
 2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044868&paragraaf=2&artikel=5&z=2022-03-01&g=2022-03-01) resterende bedrag op basis van het aantal inwoners per 1 januari 2020 in de regio’s waarvoor het zorgkantoor als zodanig is aangewezen. Inwoners die op die datum vijfenzestig jaar of ouder zijn tellen daarbij dubbel. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
 
-#### Artikel 7
+##### Artikel 7
 
 Het Zorginstituut verdeelt het bedrag voor de Wlz-uitvoerders voor de overige bij of krachtens die wet geregelde taken van de Wlz-uitvoerders bedoeld in [artikel 4.4, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4) als volgt:
 
@@ -140,29 +166,29 @@ Het Zorginstituut verdeelt het bedrag voor de Wlz-uitvoerders voor de overige bi
 
 - l. een bedrag van € 80,009 miljoen wordt verdeeld op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), waarbij verzekerden, die op 1 juli 2020 vijfenzestig jaar of ouder zijn, dubbel tellen.
 
-#### Artikel 8
+##### Artikel 8
 
 Voor de bepaling van het aantal verzekerden, bedoeld in [artikel 7, onderdeel a, b en l](https://wetten.overheid.nl/jci1.3:c:BWBR0044868&paragraaf=2&artikel=7&z=2022-03-01&g=2022-03-01), gebruikt het Zorginstituut de opgaven van de verzekerdenaantallen per 1 juli 2020 van de Wlz-uitvoerder. Deze opgave maakt onderdeel uit van de tweede kwartaalstaat [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) voor de Wlz-uitvoerder 2020. Deze opgave dient te zijn voorzien van een bestuursverklaring.
 
-#### Artikel 9
+##### Artikel 9
 
 Indien een Wlz-uitvoerder zijn overige taken, bedoeld in [artikel 4.4, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4), geheel of gedeeltelijk uitbesteedt, betaalt hij aan het zorgkantoor waaraan hij deze taken uitbesteedt per verzekerde een bedrag van € 3,8922359 als vergoeding in de beheerskosten.
 
-#### Artikel 10
+##### Artikel 10
 
 Voor een nieuwe Wlz-uitvoerder, die geen rechtsopvolger is van een of meer bestaande Wlz-uitvoerders, kan het Zorginstituut uitgaan van andere dan in dit besluit genoemde verzekerdenaantallen.
 
-#### Artikel 11
+##### Artikel 11
 
 Het Zorginstituut stelt het bedrag zoals bedoeld voor de SVB voor de uitvoering van de taak, bedoeld in [artikel 3.3.3, zevende lid, van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.3) voorlopig vast op € 34,503 miljoen.
 
 #### § 3. Nadere vaststelling beheerskostenbudget 2021
 
-#### Artikel 12
+##### Artikel 12
 
 Uiterlijk op de eerste werkdag van mei 2022 stelt het Zorginstituut het beheerskostenbudget voor het jaar 2021 voor de zorgkantoren, de Wlz-uitvoerders en de SVB nader vast op basis van de Nadere aanwijzing.
 
-#### Artikel 13
+##### Artikel 13
 
 Het Zorginstituut verdeelt het bedrag voor de zorgkantoren voor de taken, bedoeld in [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4), als volgt:
 
@@ -186,7 +212,7 @@ Het Zorginstituut verdeelt het bedrag voor de zorgkantoren voor de taken, bedoel
 
 - j. een bedrag van € 0,568 miljoen voor de kosten van de structurele uitvoering PGB 2.0 wordt verdeeld op basis van een uitvraag van ZN.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het Zorginstituut verdeelt 15 procent van het na toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044868&paragraaf=3&artikel=13&z=2022-03-01&g=2022-03-01) resterende bedrag als volgt:
 
@@ -200,7 +226,7 @@ Het Zorginstituut verdeelt het bedrag voor de zorgkantoren voor de taken, bedoel
 
 2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044868&paragraaf=3&artikel=13&z=2022-03-01&g=2022-03-01) resterende bedrag op basis van het aantal inwoners per 1 januari 2021 in de regio’s waarvoor het zorgkantoor als zodanig is aangewezen. Inwoners die op die datum vijfenzestig jaar of ouder zijn tellen daarbij dubbel. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
 
-#### Artikel 15
+##### Artikel 15
 
 Het Zorginstituut verdeelt het bedrag voor de Wlz-uitvoerders voor de overige bij of krachtens die wet geregelde taken van de Wlz-uitvoerders bedoeld in [artikel 4.4, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4) als volgt:
 
@@ -230,25 +256,25 @@ Het Zorginstituut verdeelt het bedrag voor de Wlz-uitvoerders voor de overige bi
 
 - m. een bedrag van € 80,009 miljoen wordt verdeeld op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), waarbij verzekerden, die op 1 juli 2021 vijfenzestig jaar of ouder zijn, dubbel tellen.
 
-#### Artikel 16
+##### Artikel 16
 
 Voor de bepaling van het aantal verzekerden, bedoeld in [artikel 15, onderdeel a, b en l](https://wetten.overheid.nl/jci1.3:c:BWBR0044868&paragraaf=3&artikel=15&z=2022-03-01&g=2022-03-01), gebruikt het Zorginstituut de opgaven van de verzekerdenaantallen per 1 juli 2021 van de Wlz-uitvoerder. Deze opgave maakt onderdeel uit van de tweede kwartaalstaat [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) voor de Wlz-uitvoerder 2021. Deze opgave dient te zijn voorzien van een bestuursverklaring.
 
-#### Artikel 17
+##### Artikel 17
 
 Indien een Wlz-uitvoerder zijn overige taken, bedoeld in [artikel 4.4, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4), geheel of gedeeltelijk uitbesteedt, betaalt hij aan het zorgkantoor waaraan hij deze taken uitbesteedt per verzekerde een bedrag van € 3,8680547 als vergoeding in de beheerskosten.
 
-#### Artikel 18
+##### Artikel 18
 
 Het Zorginstituut brengt op de nader vastgestelde beheerskostenbudgetten de door het Zorginstituut uitgekeerde voorschotten in mindering.
 
 #### § 4. Definitieve vaststelling beheerskostenbudget 2021
 
-#### Artikel 19
+##### Artikel 19
 
 Uiterlijk in 2024 stelt het Zorginstituut het beheerskostenbudget voor het jaar 2021 voor de zorgkantoren, de Wlz-uitvoerders en de SVB definitief vast.
 
-#### Artikel 20
+##### Artikel 20
 
 Het Zorginstituut verdeelt het bedrag voor de zorgkantoren voor de taken, bedoeld in [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4), als volgt:
 
@@ -272,7 +298,7 @@ Het Zorginstituut verdeelt het bedrag voor de zorgkantoren voor de taken, bedoel
 
 - j. een bedrag van € 0,568 miljoen voor de kosten van de structurele uitvoering PGB 2.0. wordt verdeeld op basis van een uitvraag van ZN.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het Zorginstituut verdeelt 15 procent van het na toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044868&paragraaf=3&artikel=13&z=2022-03-01&g=2022-03-01) resterende bedrag als volgt:
 
@@ -286,7 +312,7 @@ Het Zorginstituut verdeelt het bedrag voor de zorgkantoren voor de taken, bedoel
 
 2. Het Zorginstituut verdeelt 85 procent van het na toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044868&paragraaf=3&artikel=13&z=2022-03-01&g=2022-03-01) resterende bedrag op basis van het aantal inwoners per 1 januari 2021 in de regio’s waarvoor het zorgkantoor als zodanig is aangewezen. Inwoners die op die datum vijfenzestig jaar of ouder zijn tellen daarbij dubbel. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het Zorginstituut de gegevens van het Centraal Bureau voor de Statistiek.
 
-#### Artikel 22
+##### Artikel 22
 
 Bij de definitieve vaststelling verdeelt het Zorginstituut het bedrag voor de Wlz-uitvoerders voor de overige bij of krachtens die wet geregelde taken van de Wlz-uitvoerders bedoeld in [artikel 4.4, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4) als volgt:
 
@@ -316,19 +342,19 @@ Bij de definitieve vaststelling verdeelt het Zorginstituut het bedrag voor de Wl
 
 - m. een bedrag van € 80,009 miljoen wordt verdeeld op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), waarbij verzekerden, die op 1 juli 2021 vijfenzestig jaar of ouder zijn, dubbel tellen.
 
-#### Artikel 23
+##### Artikel 23
 
 Voor de bepaling van het aantal verzekerden, bedoeld in [artikel 22, onderdeel a, b en l](https://wetten.overheid.nl/jci1.3:c:BWBR0044868&paragraaf=4&artikel=22&z=2022-03-01&g=2022-03-01), gebruikt het Zorginstituut de opgaven van de verzekerdenaantallen per 1 juli 2021 van de Wlz-uitvoerder. Deze opgave maakt onderdeel uit van de tweede kwartaalstaat Wlz voor de Wlz-uitvoerder 2021. Deze opgave dient te zijn voorzien van een bestuursverklaring.
 
-#### Artikel 24
+##### Artikel 24
 
 Indien een Wlz-uitvoerder zijn overige taken, bedoeld in [artikel 4.4, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4), geheel of gedeeltelijk uitbesteedt, betaalt hij aan het zorgkantoor waaraan hij deze taken uitbesteedt per verzekerde een bedrag van € 3,8680547 als vergoeding in de beheerskosten.
 
-#### Artikel 25
+##### Artikel 25
 
 Het Zorginstituut brengt op de definitief vastgestelde beheerskostenbudgetten de door het Zorginstituut berekende nader vastgestelde beheerskostenbudgetten in mindering.
 
-#### Artikel 26
+##### Artikel 26
 
 Het Zorginstituut keert het voor ieder zorgkantoor, iedere Wlz-uitvoerder en de SVB definitief vastgestelde beheerskostenbudget voor het jaar 2021 uit met inachtneming van de
 
@@ -336,17 +362,17 @@ Het Zorginstituut keert het voor ieder zorgkantoor, iedere Wlz-uitvoerder en de 
 
 #### § 5. Slotbepalingen
 
-#### Artikel 27
+##### Artikel 27
 
 Deze beleidsregels treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst, en werken terug tot en met 1 januari 2021.
 
-#### Artikel 28
+##### Artikel 28
 
 Deze beleidsregels worden aangehaald als: Beleidsregels ter verdeling besteedbare middelen beheerskosten Wlz 2021.
 
 Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 17a
+##### Artikel 17a
 
 Het Zorginstituut stelt het bedrag voor de SVB voor de uitvoering van de taak, bedoeld in [artikel 3.3.3, zevende lid, van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.3), vast op € 36,237 miljoen.
 

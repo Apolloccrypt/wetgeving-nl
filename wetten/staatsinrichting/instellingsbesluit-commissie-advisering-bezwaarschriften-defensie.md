@@ -1,18 +1,43 @@
 ---
 title: "Instellingsbesluit Commissie advisering bezwaarschriften Defensie"
 identifier: "BWBR0052025"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2025-12-25
-laatste_update: 2025-12-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052025"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-12-25"
+last_updated: "2025-12-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052025"
+soort: "ministeriele-regeling"
+stam_id: "17694403"
+version_id: "31224512"
+internal_id: "C44661201"
+label_id: "17593414"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052025/2025-12-25/0"
+intitule_bron: "Stcrt.2025-44423"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-16"
+intitule_published: "2025-12-24"
+intitule_in_force: "2025-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-44423"
+original_signed_date: "2025-12-16"
+original_published_date: "2025-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-44423"
+entry_into_force_date: "2025-12-25"
+jci_1_3: "jci1.3:c:BWBR0052025&z=2025-12-25&g=2025-12-25"
+jci_1_0: "1.0:c:BWBR0052025&g=2025-12-25"
+citeertitel_status: "officieel"
+signed_date: "2025-12-16"
+entry_into_force: "2025-12-25"
 ---
-
 # Instellingsbesluit Commissie advisering bezwaarschriften Defensie
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -24,7 +49,7 @@ In dit besluit wordt verstaan onder:
 
 - d. **het ministerie:** het Ministerie van Defensie.
 
-#### Artikel 2. Instelling en taak
+##### Artikel 2. Instelling en taak
 
 1. Er is een Commissie advisering bezwaarschriften Defensie.
 
@@ -34,7 +59,7 @@ In dit besluit wordt verstaan onder:
 
 4. De voorzitter van de commissie kan de behandeling van een bezwaarschrift overdragen aan een andere adviescommissie of instantie van het ministerie.
 
-#### Artikel 3. Samenstelling
+##### Artikel 3. Samenstelling
 
 1. De commissie bestaat uit ten minste een voorzitter en twee leden.
 
@@ -50,7 +75,7 @@ In dit besluit wordt verstaan onder:
 
 5. Van de samenstelling van de commissie wordt de indiener van het bezwaarschrift in kennis gesteld.
 
-#### Artikel 4. Benoeming, vergoeding en ontslag
+##### Artikel 4. Benoeming, vergoeding en ontslag
 
 1. De voorzitter van de commissie wordt door de minister benoemd.
 
@@ -66,7 +91,7 @@ In dit besluit wordt verstaan onder:
 
 7. De voorzitter en de plaatsvervangend voorzitters kunnen op eigen verzoek of wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden worden geschorst en ontslagen door de minister.
 
-#### Artikel 5. Secretariaat
+##### Artikel 5. Secretariaat
 
 1. De commissie wordt bijgestaan door een secretaris.
 
@@ -74,7 +99,7 @@ In dit besluit wordt verstaan onder:
 
 3. De voorzitter kan, in overleg met de directeur Dienstencentrum Juridische Dienstverlening, één of meer plaatsvervangende secretarissen aanwijzen.
 
-#### Artikel 6. Behandeling van een bezwaarschrift
+##### Artikel 6. Behandeling van een bezwaarschrift
 
 1. De commissie stelt de belanghebbenden en het betrokken bestuursorgaan in de gelegenheid te worden gehoord.
 
@@ -92,18 +117,18 @@ In dit besluit wordt verstaan onder:
 
 8. De commissie draagt zorg voor naleving van de Algemene Verordening Gegevensbescherming.
 
-#### Artikel 7. Geheimhouding
+##### Artikel 7. Geheimhouding
 
 De (plaatsvervangend) voorzitter, leden en secretaris van de commissie zijn gehouden geheimhouding te betrachten omtrent de door de commissie te behandelen aangelegenheden.
 
-#### Artikel 8. Intrekking
+##### Artikel 8. Intrekking
 
 Het [besluit van 1 juli 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010572), houdende instelling van de Commissie Advisering Bezwaarschriften Defensie, wordt ingetrokken.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie advisering bezwaarschriften Defensie.

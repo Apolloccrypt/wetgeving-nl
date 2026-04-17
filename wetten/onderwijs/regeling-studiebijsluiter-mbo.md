@@ -1,20 +1,46 @@
 ---
-title: "Regeling studiebijsluiter mbo"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 11 maart 2019, nr. MBO-105280, houdende nadere specificaties over de vorm en inhoud van de informatie die nodig is voor deelnemers voor het vergelijken van opleidingen en het kiezen van een passende opleiding (Regeling studiebijsluiter mbo)"
 identifier: "BWBR0042000"
-categorie: "Onderwijs"
-publicatiedatum: 2022-08-01
-laatste_update: 2022-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042000"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-08-01"
+last_updated: "2022-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042000"
+soort: "ministeriele-regeling"
+stam_id: "15023763"
+version_id: "25739012"
+internal_id: "C36711901"
+label_id: "14973364"
+dtd_version: "2.0"
+original_entry_into_force: "2019-03-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042000/2022-08-01/0"
+intitule_bron: "Stcrt.2019-14635"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-03-11"
+intitule_published: "2019-03-19"
+intitule_in_force: "2019-03-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-14635"
+original_signed_date: "2019-03-11"
+original_published_date: "2019-03-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-14635"
+entry_into_force_date: "2019-03-20"
+jci_1_3: "jci1.3:c:BWBR0042000&z=2022-08-01&g=2022-08-01"
+jci_1_0: "1.0:c:BWBR0042000&g=2022-08-01"
+citeertitel_status: "officieel"
+short_title: "Regeling studiebijsluiter mbo"
+signed_date: "2019-03-11"
+entry_into_force: "2019-03-20"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 11 maart 2019, nr. MBO-105280, houdende nadere specificaties over de vorm en inhoud van de informatie die nodig is voor deelnemers voor het vergelijken van opleidingen en het kiezen van een passende opleiding (Regeling studiebijsluiter mbo)
 
 Gelet op [artikel 6.1.3a, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.3a);
 
 Besluit:
 
-#### Artikel 1. Informatie instellingen
+##### Artikel 1. Informatie instellingen
 
 1. Het bevoegd gezag van een instelling als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) levert voor iedere beroepsopleiding de informatie, bedoeld in [artikel 6.1.3a, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.3a), ten aanzien van de volgende indicatoren:
 
@@ -42,11 +68,11 @@ Besluit:
 
 5. De instelling maakt de gegevens bekend op een voor een ieder toegankelijke plaats.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling wordt aangehaald als: Regeling studiebijsluiter mbo.
 

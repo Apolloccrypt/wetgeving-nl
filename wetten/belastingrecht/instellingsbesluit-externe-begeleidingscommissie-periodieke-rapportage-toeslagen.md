@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Externe begeleidingscommissie Periodieke Rapportage Toeslagen"
+title: "Besluit van de Staatssecretaris van Financiën van 4 december 2025, kenmerk 2025-0000596560, houdende instelling van een externe commissie ter begeleiding van de Periodieke Rapportage Toeslagen"
 identifier: "BWBR0051928"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-12-10
-laatste_update: 2025-12-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051928"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-12-10"
+last_updated: "2025-12-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051928"
+soort: "ministeriele-regeling"
+stam_id: "17671073"
+version_id: "31174682"
+internal_id: "C44598891"
+label_id: "17570344"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051928/2025-12-10/0"
+intitule_bron: "Stcrt.2025-42019"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-04"
+intitule_published: "2025-12-09"
+intitule_in_force: "2025-12-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-42019"
+original_signed_date: "2025-12-04"
+original_published_date: "2025-12-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-42019"
+entry_into_force_date: "2025-12-10"
+jci_1_3: "jci1.3:c:BWBR0051928&z=2025-12-10&g=2025-12-10"
+jci_1_0: "1.0:c:BWBR0051928&g=2025-12-10"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Externe begeleidingscommissie Periodieke Rapportage Toeslagen"
+signed_date: "2025-12-04"
+entry_into_force: "2025-12-10"
 ---
-
 # Besluit van de Staatssecretaris van Financiën van 4 december 2025, kenmerk 2025-0000596560, houdende instelling van een externe commissie ter begeleiding van de Periodieke Rapportage Toeslagen
 
 Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 - f. **Extern onderzoeksbureau:** Het onderzoek wordt uitgevoerd door een extern onderzoeksbureau dat via een inkoopprocedure wordt gekozen.
 
-#### Artikel 2. Instelling en taak
+##### Artikel 2. Instelling en taak
 
 1. Er is een commissie ter begeleiding van de Periodieke Rapportage Toeslagen.
 
@@ -46,7 +72,7 @@ In dit besluit wordt verstaan onder:
 
 4. In onderling overleg tussen de ambtelijke werkgroep en de leden van de commissie krijgt de rol van de commissie verdere invulling.
 
-#### Artikel 3. Samenstelling, benoeming, ontslag
+##### Artikel 3. Samenstelling, benoeming, ontslag
 
 1. De externe begeleidingscommissie bestaat uit drie externe leden.
 
@@ -58,7 +84,7 @@ In dit besluit wordt verstaan onder:
 
 5. De leden van de commissie maken geen deel uit van het ministerie en zijn niet werkzaam onder verantwoordelijkheid van de minister.
 
-#### Artikel 4. Leden
+##### Artikel 4. Leden
 
 Voor de duur van de commissie worden tot lid van de commissie benoemd:
 
@@ -68,15 +94,15 @@ Voor de duur van de commissie worden tot lid van de commissie benoemd:
 
 - 3. Dr. J. J. van Dijk | Onderzoeksleider Sociaal beleid en Functioneren overheid bij het Instituut voor Publieke Economie.
 
-#### Artikel 5. Instellingsduur
+##### Artikel 5. Instellingsduur
 
 De commissie wordt ingesteld voor de duur van de looptijd van het onderzoek Periodieke Rapportage Toeslagen ingesteld, te rekenen vanaf de datum van inwerkingtreding van dit besluit.
 
-#### Artikel 6. Ondersteuning
+##### Artikel 6. Ondersteuning
 
 De staatssecretaris voorziet met de ambtelijke werkgroep in de ondersteuning van de externe begeleidingscommissie.
 
-#### Artikel 7. Werkwijze en geheimhouding
+##### Artikel 7. Werkwijze en geheimhouding
 
 1. De externe begeleidingscommissie stelt haar eigen werkwijze vast en ook het eventueel benoemen van een voorzitter.
 
@@ -84,23 +110,23 @@ De staatssecretaris voorziet met de ambtelijke werkgroep in de ondersteuning van
 
 3. De leden van de externe begeleidingscommissie zijn verplicht tot geheimhouding van hetgeen hen in het verband van de werkzaamheden bekend is geworden.
 
-#### Artikel 8. Vergoeding
+##### Artikel 8. Vergoeding
 
 Aan de drie leden wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10 zoals vastgelegd in de CAO-Rijk en de arbeidsduurfactor op [1/36].
 
-#### Artikel 9. Openbaarmaking
+##### Artikel 9. Openbaarmaking
 
 Rapporten, notities, verslagen en adviezen die door of namens de begeleidingscommissie worden vervaardigd of vergaard worden niet door de begeleidingscommissie openbaar gemaakt, maar uitsluitend aan de staatssecretaris uitgebracht of overgedragen.
 
-#### Artikel 10. Archiefbescheiden
+##### Artikel 10. Archiefbescheiden
 
 De begeleidingscommissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden of, indien de omstandigheden daartoe aanleiding geven, op een eerder moment, de stukken en gegevens betreffende de werkzaamheden over aan het archief van DG Fiscale Zaken en DG Toeslagen.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 november 2025.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Externe begeleidingscommissie Periodieke Rapportage Toeslagen.
 

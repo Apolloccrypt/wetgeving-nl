@@ -1,14 +1,42 @@
 ---
-title: "Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba"
+title: "Wet van 17 mei 2010 tot invoering van de regelgeving met betrekking tot de openbare lichamen Bonaire, Sint Eustatius en Saba (Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba)"
 identifier: "BWBR0028063"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028063"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028063"
+soort: "wet-BES"
+stam_id: "10640333"
+version_id: "18222242"
+internal_id: "C25355191"
+label_id: "10615774"
+dtd_version: "2.0"
+original_entry_into_force: "2010-12-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028063/2025-01-01/0"
+intitule_bron: "Stb.2010-346"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-05-17"
+intitule_published: "2010-09-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-829"
+original_signed_date: "2010-12-16"
+original_published_date: "2010-12-24"
+original_effect: "structuurwijziging"
+original_dossier: "32368"
+original_url_id: "stb-2010-829"
+entry_into_force_date: "2010-12-16"
+entry_into_force_dossier: "32368"
+jci_1_3: "jci1.3:c:BWBR0028063&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0028063&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba"
+signed_date: "2010-12-16"
+entry_into_force: "2010-12-16"
 ---
-
-# Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba
+# Wet van 17 mei 2010 tot invoering van de regelgeving met betrekking tot de openbare lichamen Bonaire, Sint Eustatius en Saba (Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +48,7 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uu
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder
 
@@ -32,7 +60,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder
 
 ### Hoofdstuk 2. Het toepasselijke recht
 
-#### Artikel 2
+##### Artikel 2
 
 1. In de openbare lichamen zijn de doorlopende teksten van de in de bijlage bij deze wet genoemde Nederlands-Antilliaanse regelingen, zoals deze bij besluit van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 oktober 2010 zijn vastgesteld en ter inzage zijn gelegd bij het ministerie van Binnenlandse Zaken en Koninkrijksrelaties, als wet, algemene maatregel van bestuur of ministeriële regeling van toepassing overeenkomstig de status die de bijlage vermeldt. De regelingen worden in hun aldus verkregen status aangehaald op de wijze die de bijlage vermeldt.
 
@@ -46,7 +74,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder
 
 4. Voorzieningen van overgangsrechtelijke aard die zijn vastgesteld ten aanzien van de in de bijlage genoemde regelingen blijven van toepassing, tenzij bij wettelijk voorschrift anders is bepaald.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), met uitzondering van [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9), is niet van toepassing op besluiten en handelingen van bestuursorganen die hun zetel hebben in het Europese deel van Nederland, ter uitvoering van:
 
@@ -66,19 +94,19 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder
 
 7. Het eerste en tweede lid zijn evenmin van toepassing op de heffing en inning van belastingen of van rechten bij invoer.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien in een wettelijk voorschrift dat niet ingevolge [artikel 2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=2&artikel=2&z=2025-01-01&g=2025-01-01), van toepassing is in de openbare lichamen, onderscheid wordt gemaakt tussen het land Nederland en de andere landen van het Koninkrijk, wordt, tenzij bij wettelijk voorschrift anders is bepaald, onder «Nederland» verstaan het Europese deel van Nederland en worden de openbare lichamen gelijkgesteld met andere landen van het Koninkrijk.
 
 ### Hoofdstuk 2a. Publiekrechtelijke rechtsgevolgen huwelijk en geregistreerd partnerschap
 
-#### Artikel 5
+##### Artikel 5
 
 Vonnissen, door de rechter in het Europese deel van Nederland of in de openbare lichamen gewezen, en bevelen door hem uitgevaardigd, alsmede grossen van authentieke akten, aldaar verleden, kunnen overal in Nederland worden ten uitvoer gelegd, met inachtneming van de wettelijke bepalingen die van kracht zijn op de plaats waar de tenuitvoerlegging plaatsvindt. Bij algemene maatregel van bestuur kunnen dienaangaande en over de erkenning van vonnissen, bevelen en authentieke akten van andere landen nadere regels worden gegeven.
 
 ### Hoofdstuk 2b. De taal in het bestuurlijk verkeer
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien de bevoegdheid van een Nederlands-Antilliaans bestuursorgaan tot het nemen van beslissingen in verband met de overgang van de eilandgebieden naar de status van openbaar lichaam binnen het Nederlandse staatsbestel is overgegaan op een Nederlands bestuursorgaan, worden beslissingen die op grond van die bevoegdheid vóór het tijdstip van transitie zijn genomen, gelijkgesteld met beslissingen die zijn genomen door het vanaf het tijdstip van transitie bevoegde Nederlandse bestuursorgaan.
 
@@ -94,43 +122,43 @@ Vonnissen, door de rechter in het Europese deel van Nederland of in de openbare 
 
 5. Met ingang van het tijdstip van transitie zijn de ambtenaren en werklieden die tot dat tijdstip in dienst waren van de onderscheiden eilandgebieden van rechtswege aangesteld als ambtenaar onderscheidenlijk werkman in dienst van de onderscheiden openbare lichamen met een rechtspositie die gelijkwaardig is aan die welke voor elk van hen gold bij het eilandgebied.
 
-#### Artikel 7
+##### Artikel 7
 
 Onverminderd de [artikelen 215](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=215) en [216 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=216), worden eilandsverordeningen en eilandsbesluiten, houdende algemene maatregelen, die door de eilandsraad, onderscheidenlijk het bestuurscollege van een eilandgebied zijn vastgesteld ten behoeve van een openbaar lichaam, met ingang van het tijdstip van transitie aangemerkt als door de eilandsraad onderscheidenlijk het bestuurscollege van het desbetreffende openbaar lichaam vastgestelde eilandsverordeningen onderscheidenlijk eilandsbesluiten, houdende algemene maatregelen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien een strafbaar feit vóór het tijdstip van transitie is begaan, worden de strafbepalingen toegepast die gelden op het tijdstip van transitie, tenzij de strafbepalingen die golden op het tijdstip waarop het feit is begaan, voor de verdachte gunstiger zijn.
 
 2. Bepalingen over strafverzwaring, ingeval van herhaling van strafbare feiten, worden toegepast ook indien de vroegere veroordeling wegens een soortgelijk feit of de vrijwillige betaling van de geldboete vóór het tijdstip van transitie heeft plaatsgevonden.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Indien voor het tijdstip van transitie in een strafzaak een dagvaarding in eerste aanleg is uitgebracht, wordt het strafprocesrecht toegepast dat gold op het tijdstip van het uitbrengen van die dagvaarding.
 
 2. Indien voor het tijdstip van transitie strafrechtelijk onderzoek heeft plaatsgevonden en vóór het tijdstip van transitie geen dagvaarding in eerste aanleg is uitgebracht, wordt dit onderzoek geacht te hebben plaatsgevonden op basis van het strafprocesrecht dat geldt op het tijdstip van transitie.
 
-#### Artikel 10
+##### Artikel 10
 
 Op vragen van overgangsrecht waartoe, als gevolg van invoering van deze wet en de [Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028129), de aanpassing van wetgeving van Nederlands-Antilliaanse oorsprong op het terrein van het privaatrecht aanleiding geeft, zijn de [Overgangswet nieuw Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028466) en de [Overgangswet nieuw Burgerlijk Wetboek BES, tweede gedeelte](https://wetten.overheid.nl/jci1.3:c:BWBR0028301), van overeenkomstige toepassing.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Ten aanzien van rechten en verplichtingen naar burgerlijk recht van de eilandgebieden treden de openbare lichamen op het tijdstip van transitie voor de eilandgebieden in de plaats.
 
 2. Wettelijke procedures en rechtsgedingen waarbij een eilandgebied betrokken was, worden met ingang van het tijdstip van transitie voortgezet door of tegen het desbetreffende openbaar lichaam, voor zover dat openbaar lichaam op grond van het eerste lid in de plaats treedt voor dat eilandgebied. Ten aanzien van de rechtsgedingen is de [elfde afdeling van titel 2 van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&afdeling=11) van overeenkomstige toepassing.
 
-#### Artikel 12
+##### Artikel 12
 
 Op de dag voor het tijdstip van transitie bestaande rechten, gebaseerd op wettelijke regelingen die op het tijdstip van transitie hun rechtskracht verliezen, kunnen daarna geldend worden gemaakt, indien de redelijkheid en billijkheid dit vorderen.
 
-#### Artikel 13
+##### Artikel 13
 
 Indien in regelingen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=2&artikel=2&z=2025-01-01&g=2025-01-01), sprake is van een bevoegdheid tot het vaststellen van een eilandsbesluit, houdende algemene maatregelen, komt deze bevoegdheid toe aan de bestuurscolleges van de openbare lichamen.
 
 ### Hoofdstuk 5. Toepassing noodbevoegdheden buiten een noodtoestand in Bonaire, Sint Eustatius en Saba
 
-#### Artikel 14
+##### Artikel 14
 
 De bepalingen die voorkomen op de bij de [Coördinatiewet uitzonderingstoestanden behorende lijst A](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&bijlage=A) zijn van overeenkomstige toepassing in de openbare lichamen, voor zover deze bepalingen niet reeds van toepassing zijn in de openbare lichamen, met dien verstande dat telkens in die bepalingen wordt gelezen voor:
 
@@ -138,7 +166,7 @@ De bepalingen die voorkomen op de bij de [Coördinatiewet uitzonderingstoestande
 
 - b. «Onze Commissaris van de Koning», «Onze Commissaris in de provincie» en «Onze commissaris in de provincie»: de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8), kunnen, indien buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, bepalingen die voorkomen op de bij de [Coördinatiewet uitzonderingstoestanden behorende lijst A](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&bijlage=A) voor de openbare lichamen gezamenlijk of ieder afzonderlijk in werking worden gesteld.
 
@@ -150,11 +178,11 @@ De bepalingen die voorkomen op de bij de [Coördinatiewet uitzonderingstoestande
 
 5. Een koninklijk besluit als bedoeld in het eerste, tweede en vierde lid, wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking. Het besluit wordt in ieder geval geplaatst in het Staatsblad.
 
-#### Artikel 16
+##### Artikel 16
 
 Indien in een koninklijk besluit als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=5&artikel=15&z=2025-01-01&g=2025-01-01) voor de openbare lichamen gezamenlijk of ieder afzonderlijk één of meerdere bepalingen in werking worden gesteld, kunnen hiermee samenhangende in een koninklijk besluit aan te wijzen bepalingen bij dat besluit van overeenkomstige toepassing worden verklaard in de openbare lichamen.
 
-#### Artikel 17
+##### Artikel 17
 
 Onze Minister wie het aangaat kan aan de gezaghebber of de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba mandaat verlenen tot het uitoefenen in de openbare lichamen van de bevoegdheden die zijn opgenomen in op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=5&artikel=15&z=2025-01-01&g=2025-01-01) in werking gestelde artikelen.
 
@@ -162,13 +190,13 @@ Onze Minister wie het aangaat kan aan de gezaghebber of de Rijksvertegenwoordige
 
 #### § 1. Minister voor Jeugd en Gezin
 
-#### Artikel 18.1
+##### Artikel 18.1
 
 Vervallen
 
 #### § 1. Minister voor Jeugd en Gezin
 
-#### Artikel 18.2.1
+##### Artikel 18.2.1
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over het voorkomen en bestrijden van een besmettelijke dierziekte.
 
@@ -184,7 +212,7 @@ Vervallen
 
 - e. een verplichting tot het doden van dieren of het onschadelijk maken van producten van dierlijke oorsprong, alsmede van andere producten en voorwerpen die dragers van smetstof kunnen zijn.
 
-#### Artikel 18.2.2
+##### Artikel 18.2.2
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over het invoeren en doorvoeren van dieren, producten van dierlijke oorsprong, alsmede van andere producten en voorwerpen die dragers van smetstof kunnen zijn.
 
@@ -204,7 +232,7 @@ Vervallen
 
 - g. de bij de in het eerste lid bedoelde dieren, producten of voorwerpen te verrichten onderzoeken en controles of het plaatsen in tijdelijke afzondering.
 
-#### Artikel 18.2.3
+##### Artikel 18.2.3
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de identificatie en registratie van dieren behorende tot bij die maatregel aangewezen diersoorten of diercategorieën.
 
@@ -226,7 +254,7 @@ Vervallen
 
 - h. het heffen van een vergoeding van kosten.
 
-#### Artikel 18.2.4
+##### Artikel 18.2.4
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over het doden van dieren en de productie van vlees na het slachten van dieren.
 
@@ -260,7 +288,7 @@ Vervallen
 
 - n. het bijhouden en overleggen van gegevens.
 
-#### Artikel 18.2.4a
+##### Artikel 18.2.4a
 
 Voor de toepassing van de [artikelen 18.2.4b](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=2&artikel=18.2.4b&z=2025-01-01&g=2025-01-01), [18.2.4c](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=2&artikel=18.2.4c&z=2025-01-01&g=2025-01-01), [18.2.4d](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=2&artikel=18.2.4d&z=2025-01-01&g=2025-01-01) en [18.2.4e](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=2&artikel=18.2.4e&z=2025-01-01&g=2025-01-01) wordt verstaan onder:
 
@@ -280,7 +308,7 @@ Voor de toepassing van de [artikelen 18.2.4b](https://wetten.overheid.nl/jci1.3:
 
 - h. **«telen»:** brengen of houden van planten in grond of in een ander cultuurmedium.
 
-#### Artikel 18.2.4b
+##### Artikel 18.2.4b
 
 1. Ter voorkoming van het optreden en van de verbreiding van schadelijke organismen, kan Onze Minister de in- en uitvoer van schadelijke organismen, van planten of plantaardige producten, van grond of andere cultuurmedia en van voor planten of plantaardige producten gebruikt verpakkingsmateriaal verbieden of regels stellen waaraan voor, bij of na de invoer, onderscheidenlijk voor of bij de uitvoer moet worden voldaan.
 
@@ -304,7 +332,7 @@ Voor de toepassing van de [artikelen 18.2.4b](https://wetten.overheid.nl/jci1.3:
 
 4. Een ieder wie zulks aangaat is verplicht planten, plantaardige producten, grond of andere cultuurmedia en schadelijke organismen, die op grond van het krachtens de voorgaande leden bepaalde niet hadden mogen worden ingevoerd, overeenkomstig een hem door de directeur gegeven bevel binnen de daarin gestelde termijn uit te voeren dan wel te behandelen of te vernietigen en zo nodig daartoe op de in het bevel aangegeven wijze naar een daarin bepaalde plaats te brengen.
 
-#### Artikel 18.2.4c
+##### Artikel 18.2.4c
 
 1. Ter voorkoming van het optreden en van de verbreiding van schadelijke organismen en ter bestrijding daarvan kunnen door Onze Minister regels worden gesteld omtrent:
 
@@ -324,39 +352,39 @@ Voor de toepassing van de [artikelen 18.2.4b](https://wetten.overheid.nl/jci1.3:
 
 2. Indien een onmiddellijke voorziening geboden is, is Onze Minister bevoegd om, voor een termijn van ten hoogste vier maanden, ten aanzien van individuele gevallen voorschriften te geven betreffende hetgeen in het eerste lid is vermeld.
 
-#### Artikel 18.2.4d
+##### Artikel 18.2.4d
 
 Onze Minister is bevoegd in gevallen waarin de schade, welke het gevolg is van het toepassen van krachtens artikel 18.3.4c gegeven voorschriften, onevenredig zwaar op een of meer personen zou drukken, uit ’s Rijks schatkist een tegemoetkoming te verlenen in de geleden schade.
 
-#### Artikel 18.2.4e
+##### Artikel 18.2.4e
 
 Onze Minister kan, wanneer de toepassing van [18.2.4c](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=2&artikel=18.2.4c&z=2025-01-01&g=2025-01-01) tot onbillijkheden aanleiding zou geven door of vanwege de directeur op ’s Rijks kosten bepaalde maatregelen tot wering en bestrijding van schadelijke organismen doen nemen.
 
-#### Artikel 18.2.5
+##### Artikel 18.2.5
 
 1. De voordracht voor een krachtens de [artikelen 18.2.1 tot en met 18.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=2&artikel=18.2.1&z=2025-01-01&g=2025-01-01) vast te stellen algemene maatregel van bestuur wordt gedaan door Onze Minister van Landbouw, Natuur en Voedselkwaliteit.
 
 2. Voor de toepassing van de artikelen in deze paragraaf wordt onder Onze Minister verstaan: Onze Minister van Landbouw, Natuur en Voedselkwaliteit.
 
-#### Artikel 18.2.6
+##### Artikel 18.2.6
 
 1. Onze Minister kan, voor zover het belang van de gezondheid van de mens, dieren of planten, het belang van het welzijn van dieren of het belang van het milieu zich daartegen niet verzetten, van het bepaalde krachtens deze wet vrijstelling of ontheffing verlenen.
 
 2. Aan een vrijstelling en een ontheffing kunnen voorschriften of voorwaarden worden verbonden. Zij kunnen onder beperkingen worden verleend.
 
-#### Artikel 18.2.7
+##### Artikel 18.2.7
 
 1. Gedragingen in strijd met de voorschriften, gesteld krachtens de [artikelen 18.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=2&artikel=18.2.1&z=2025-01-01&g=2025-01-01), [18.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=2&artikel=18.2.2&z=2025-01-01&g=2025-01-01) en [18.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=2&artikel=18.2.3&z=2025-01-01&g=2025-01-01), zijn overtredingen.
 
 2. Gedragingen in strijd met de voorschriften, gesteld krachtens de [artikelen 18.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=2&artikel=18.2.1&z=2025-01-01&g=2025-01-01), [18.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=2&artikel=18.2.2&z=2025-01-01&g=2025-01-01) en [18.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=2&artikel=18.2.3&z=2025-01-01&g=2025-01-01), worden gestraft met een hechtenis van ten hoogste een maand of een geldboete van de tweede categorie.
 
-#### Artikel 18.2.8
+##### Artikel 18.2.8
 
 1. Gedragingen in strijd met de voorschriften, gesteld krachtens [artikel 18.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=2&artikel=18.2.4&z=2025-01-01&g=2025-01-01) zijn misdrijven.
 
 2. Gedragingen in strijd met de voorschriften, gesteld krachtens [artikel 18.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=2&artikel=18.2.4&z=2025-01-01&g=2025-01-01), worden gestraft met een hechtenis van ten hoogste twee maanden of een geldboete van de tweede categorie.
 
-#### Artikel 18.2.9
+##### Artikel 18.2.9
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze paragraaf zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
 
@@ -366,7 +394,7 @@ Onze Minister kan, wanneer de toepassing van [18.2.4c](https://wetten.overheid.n
 
 4. Van een besluit als bedoeld in dit artikel wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 18.2.10
+##### Artikel 18.2.10
 
 1. Toezichthouders zijn, uitsluitend voor zover dat voor de vervulling van hun taak redelijkerwijze noodzakelijk is, bevoegd:
 
@@ -384,19 +412,19 @@ Onze Minister kan, wanneer de toepassing van [18.2.4c](https://wetten.overheid.n
 
 3. Een ieder is verplicht aan de toezichthouder alle medewerking te verlenen die op grond van het tweede lid wordt gevorderd.
 
-#### Artikel 18.2.10a
+##### Artikel 18.2.10a
 
 1. Onze Minister kan bepalen dat vergoeding van kosten wordt geheven volgens een door Onze Minister vastgesteld tarief voor in het kader van de haar opgedragen taak door de bij of krachtens [artikel 18.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=2&artikel=18.2.9&z=2025-01-01&g=2025-01-01) aangewezen ambtenaren gedane onderzoekingen of verrichtingen.
 
 2. Onze Minister kan regelen stellen met betrekking tot het heffen en betalen van de vergoeding. Daarbij kan worden bepaald dat de vergoeding wordt geheven door de instelling die de onderzoekingen of verrichtingen uitvoert.
 
-#### Artikel 18.2.11
+##### Artikel 18.2.11
 
 De [artikelen 12 tot en met 35 van de Wet voorschriften bestrijdingsmiddelen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028176&artikel=12) zijn van overeenkomstige toepassing.
 
 #### § 3. Minister van Sociale Zaken en Werkgelegenheid
 
-#### Artikel 18.3
+##### Artikel 18.3
 
 1. Personen die rechtmatig woonachtig zijn in de openbare lichamen en die niet kunnen voorzien in de noodzakelijke kosten van het bestaan hebben onder bij algemene maatregel van bestuur op voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid te stellen voorwaarden recht op algemene of bijzondere onderstand van overheidswege.
 
@@ -426,7 +454,7 @@ De [artikelen 12 tot en met 35 van de Wet voorschriften bestrijdingsmiddelen BES
 
 #### § 3. Minister van Sociale Zaken en Werkgelegenheid
 
-#### Artikel 18.4.1
+##### Artikel 18.4.1
 
 1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld op grond waarvan bij die maatregel aan te wijzen personen op de openbare lichamen tegen een daarbij te bepalen premie van rechtswege verzekerd zijn tegen de behoefte aan bij of krachtens die maatregel te bepalen zorg.
 
@@ -440,7 +468,7 @@ De [artikelen 12 tot en met 35 van de Wet voorschriften bestrijdingsmiddelen BES
 
 6. Bij of krachtens algemene maatregel van bestuur kan bepaald worden dat Onze Minister recht heeft op verhaal van kosten die zijn veroorzaakt door degene die in verband met het in lid 5 bedoelde feit jegens de verzekerde naar burgerlijk recht tot schadevergoeding is verplicht, overeenkomstig daarbij te stellen regels.
 
-#### Artikel 18.4.2
+##### Artikel 18.4.2
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot:
 
@@ -450,7 +478,7 @@ De [artikelen 12 tot en met 35 van de Wet voorschriften bestrijdingsmiddelen BES
 
 2. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt gedaan door Onze Minister van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 18.4.3
+##### Artikel 18.4.3
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent het in rekening brengen door zorgaanbieders van tarieven voor door die zorgaanbieders geleverde zorg. Tot die regels kan onder meer behoren het verbod om een tarief in rekening te brengen dat niet op een bij de maatregel omschreven wijze is vastgesteld, alsmede het toezicht op de naleving van de gestelde tariefsvoorschriften.
 
@@ -470,7 +498,7 @@ De [artikelen 12 tot en met 35 van de Wet voorschriften bestrijdingsmiddelen BES
 
 3. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt gedaan door Onze Minister van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 18.4.4
+##### Artikel 18.4.4
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot:
 
@@ -498,7 +526,7 @@ De [artikelen 12 tot en met 35 van de Wet voorschriften bestrijdingsmiddelen BES
 
 8. Geen vervolging van een in het vijfde of zesde lid bedoeld strafbaar feit heeft plaats dan op klacht van degene, tegen wie het feit is gepleegd, of, indien het tegen een rechtspersoon, vennootschap zonder rechtspersoonlijkheid, een maatschap, enige andere vereniging van personen of een doelvermogen is gepleegd, op klacht van de bestuurder en indien er meer bestuurders zijn, van één van hen.
 
-#### Artikel 18.4.5
+##### Artikel 18.4.5
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot:
 
@@ -518,13 +546,13 @@ De [artikelen 12 tot en met 35 van de Wet voorschriften bestrijdingsmiddelen BES
 
 3. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt gedaan door Onze Minister van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 18.4.6
+##### Artikel 18.4.6
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de publieke gezondheidszorg.
 
 2. Onder publieke gezondheidszorg wordt verstaan: de gezondheidsbeschermende en gezondheidsbevorderende maatregelen voor de bevolking of specifieke groepen daaruit, waaronder begrepen het voorkómen en het vroegtijdig opsporen van ziekten.
 
-#### Artikel 18.4.7
+##### Artikel 18.4.7
 
 Ter zake van de infectieziektebestrijding kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld over:
 
@@ -540,11 +568,11 @@ Ter zake van de infectieziektebestrijding kunnen bij of krachtens algemene maatr
 
 - f. het onderwerpen van personen aan de maatregelen van isolatie en quarantaine;
 
-#### Artikel 18.4.8
+##### Artikel 18.4.8
 
 De voordracht voor een krachtens de [artikelen 18.4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.6&z=2025-01-01&g=2025-01-01), [18.4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7&z=2025-01-01&g=2025-01-01) en [18.4.7i](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7i&z=2025-01-01&g=2025-01-01) vast te stellen algemene maatregel van bestuur wordt gedaan door Onze Minister van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 18.4.9
+##### Artikel 18.4.9
 
 1. Gedragingen in strijd met de voorschriften, gesteld krachtens [artikel 18.4.7, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7&z=2025-01-01&g=2025-01-01), worden bestraft met een hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie.
 
@@ -552,13 +580,13 @@ De voordracht voor een krachtens de [artikelen 18.4.6](https://wetten.overheid.n
 
 3. Gedragingen in strijd met de voorschriften, gesteld krachtens [artikel 18.4.7, onder b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7&z=2025-01-01&g=2025-01-01), zijn overtredingen.
 
-#### Artikel 18.4.10
+##### Artikel 18.4.10
 
 1. Gedragingen in strijd met de voorschriften, gesteld krachtens [artikel 18.4.7, onder e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7&z=2025-01-01&g=2025-01-01), worden bestraft met een gevangenisstraf van vier jaar of geldboete van de vijfde categorie.
 
 2. Gedragingen in strijd met de voorschriften, gesteld krachtens [artikel 18.4.7, onder e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7&z=2025-01-01&g=2025-01-01), zijn misdrijven.
 
-#### Artikel 18.4.11
+##### Artikel 18.4.11
 
 1. De [artikelen 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13), [5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), [5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16), [5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) en [5:20](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) en [titel 5.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.3) zijn van toepassing.
 
@@ -566,7 +594,7 @@ De voordracht voor een krachtens de [artikelen 18.4.6](https://wetten.overheid.n
 
 3. Onze Minister die het aangaat is bevoegd tot overeenkomstige toepassing van [artikel 5:20, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) ten aanzien van de in het tweede lid bedoelde onderzoek.
 
-#### Artikel 18.4.12
+##### Artikel 18.4.12
 
 1. Met het toezicht op de naleving van de krachtens de [artikelen 18.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.4&z=2025-01-01&g=2025-01-01), [18.4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.6&z=2025-01-01&g=2025-01-01) en [18.4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7&z=2025-01-01&g=2025-01-01) gestelde regels zijn belast de ambtenaren van de Inspectie gezondheidszorg en jeugd.
 
@@ -574,23 +602,23 @@ De voordracht voor een krachtens de [artikelen 18.4.6](https://wetten.overheid.n
 
 3. Met het opsporen van de bij [artikel 18.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.4&z=2025-01-01&g=2025-01-01)strafbaar gestelde feiten zijn, naast de bij [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184) aangewezen personen, belast de daartoe bij ministeriële regeling aangewezen medewerkers van de Inspectie gezondheidszorg en jeugd. Een zodanige aanwijzing wordt bekendgemaakt in de Staatscourant.
 
-#### Artikel 18.4.13
+##### Artikel 18.4.13
 
 Bij regeling van Onze Minister van Volksgezondheid, Welzijn en Sport wordt een rechtspersoon aangewezen die tot taak heeft laboratoriumonderzoeken te verrichten op het terrein van volksgezondheid en justitie en worden regels gesteld over welke instanties met een publiekrechtelijke taak een beroep op deze rechtspersoon kunnen doen.
 
-#### Artikel 18.4.14
+##### Artikel 18.4.14
 
 Het ontwerp van een krachtens de [artikelen 18.4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.1&z=2025-01-01&g=2025-01-01), [18.4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.3&z=2025-01-01&g=2025-01-01), [18.4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.5&z=2025-01-01&g=2025-01-01), of [18.4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.6&z=2025-01-01&g=2025-01-01), vast te stellen algemene maatregel van bestuur wordt aan de beide kamers der Staten-Generaal overgelegd. De voordracht voor de vast te stellen algemene maatregel van bestuur kan worden gedaan nadat vier weken na de overlegging zijn verstreken, tenzij binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen worden gegeven dat het onderwerp van de algemene maatregel van bestuur bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend.
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 19
+##### Artikel 19
 
 1. De bijlage kan worden gewijzigd bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met Onze Ministers wie het mede aangaat, die in werking treedt op dezelfde dag waarop deze wet in werking treedt, met dien verstande dat toevoeging aan of verwijdering uit de bijlage van regelingen die de status van wet of algemene maatregel van bestuur verkrijgen of zouden verkrijgen slechts geschiedt, indien het ontbreken of vóórkomen van die regelingen in de bijlage zal leiden tot onaanvaardbare gevolgen.
 
 2. Bij de ministeriële regeling, bedoeld in het eerste lid, worden de doorlopende teksten vastgesteld van de regelingen die worden toegevoegd aan de bijlage.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Regelingen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=2&artikel=2&z=2025-01-01&g=2025-01-01), die de status van wet hebben verkregen, kunnen tot een jaar na het tijdstip van transitie bij regeling van Onze Minister wie het aangaat worden gewijzigd voor zover dit noodzakelijk is voor de toepassing van die regelingen of ter voorkoming van onaanvaardbare gevolgen.
 
@@ -602,19 +630,19 @@ Het ontwerp van een krachtens de [artikelen 18.4.1, eerste lid](https://wetten.o
 
 5. Bij regeling van Onze Minister wie het aangaat kunnen algemene maatregelen van bestuur tot een jaar na het tijdstip van transitie worden gewijzigd voor zover dit noodzakelijk is in verband met de verwijdering uit of toevoeging aan de bijlage van regelingen op grond van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=7&artikel=19&z=2025-01-01&g=2025-01-01) of in verband met wijziging van regelingen op grond van het tweede lid.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Na de inwerkingtreding van een krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=7&artikel=19&z=2025-01-01&g=2025-01-01) of [artikel 20, eerste of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=7&artikel=20&z=2025-01-01&g=2025-01-01), vastgestelde ministeriële regeling wordt zo spoedig mogelijk een voorstel van wet tot goedkeuring van de ministeriële regeling bij de Staten-Generaal ingediend. Indien het voorstel wordt ingetrokken of indien een van de Kamers van de Staten-Generaal besluit het voorstel niet aan te nemen, wordt de wijziging van de bijlage onderscheidenlijk van de betreffende regeling onverwijld bij ministeriële regeling ongedaan gemaakt.
 
 2. Na de inwerkingtreding van een krachtens [artikel 20, tweede of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=7&artikel=20&z=2025-01-01&g=2025-01-01), vastgestelde ministeriële regeling wordt zo spoedig mogelijk een algemene maatregel van bestuur tot goedkeuring van de ministeriële regeling vastgesteld. Indien een zodanige algemene maatregel van bestuur niet wordt vastgesteld, wordt de wijziging van de betreffende regeling onverwijld bij ministeriële regeling ongedaan gemaakt.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Bij regeling van Onze Minister wie het aangaat kunnen tot een jaar na het tijdstip van transitie met het oog op een goede invoering van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=2&artikel=2&z=2025-01-01&g=2025-01-01), bedoelde regelingen, die de status van wet of algemene maatregel van bestuur hebben verkregen, of ter voorkoming van onaanvaardbare gevolgen voorzieningen worden getroffen, waarbij zo nodig kan worden afgeweken van de desbetreffende wet of algemene maatregel van bestuur.
 
 2. Indien een voorziening die bij ministeriële regeling is getroffen een structurele afwijking van de wet betreft, wordt zo spoedig mogelijk een wetsvoorstel ingediend dat ertoe strekt de wet zodanig te wijzigen dat de voorziening bij ministeriële regeling niet langer noodzakelijk is. Indien een voorziening die bij ministeriële regeling is getroffen een structurele afwijking van een algemene maatregel van bestuur betreft, wordt zo spoedig mogelijk een ontwerpbesluit in procedure gebracht die ertoe strekt de algemene maatregel van bestuur zodanig te wijzigen dat de voorziening bij ministeriële regeling niet langer noodzakelijk is.
 
-#### Artikel 22a
+##### Artikel 22a
 
 1. Dit artikel is van toepassing indien het tijdstip van transitie niet valt op 1 januari van enig kalenderjaar.
 
@@ -632,17 +660,17 @@ Het ontwerp van een krachtens de [artikelen 18.4.1, eerste lid](https://wetten.o
 
 5. Indien op grond van het derde lid, onder a, bij ministeriële regeling een Nederlands-Antilliaanse regeling als wet, algemene maatregel van bestuur of ministeriële regeling van toepassing wordt verklaard, wordt de doorlopende tekst van die Nederlands-Antilliaanse regeling als bijlage aan deze ministeriële regeling gevoegd.
 
-#### Artikel 23
+##### Artikel 23
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan en voor de verschillende in de bijlage genoemde regelingen verschillend kan worden vastgesteld.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De teksten van de in de bijlage genoemde regelingen, zoals deze op het tijdstip van transitie bij wet of algemene maatregel van bestuur worden gewijzigd, worden in het Staatsblad geplaatst voor zover zij de status hebben van wet onderscheidenlijk algemene maatregel van bestuur.
 
 2. De teksten van de in de bijlage genoemde regelingen, zoals deze op het tijdstip van transitie worden gewijzigd, worden in de Staatscourant geplaatst voor zover zij de status hebben van ministeriële regeling.
 
-#### Artikel 25
+##### Artikel 25
 
 Deze wet wordt aangehaald als: Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba.
 
@@ -850,13 +878,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 4a
+##### Artikel 4a
 
 In wettelijke regelingen en voorschriften zoals deze van toepassing zijn in de openbare lichamen wordt geen onderscheid gemaakt ten aanzien van de publiekrechtelijke rechtsgevolgen van huwelijken of geregistreerd partnerschappen voltrokken op grond van het in het Europese deel van Nederland geldende Burgerlijk Wetboek, en huwelijken, gesloten op grond van [Boek 1 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743) in een van de openbare lichamen.
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 4b
+##### Artikel 4b
 
 1. Dit hoofdstuk is van toepassing op:
 
@@ -868,7 +896,7 @@ In wettelijke regelingen en voorschriften zoals deze van toepassing zijn in de o
 
 2. In dit hoofdstuk worden onder «de organen van de openbare lichamen» en «de Rijksvertegenwoordiger» mede begrepen de onder hun onderscheidenlijk zijn verantwoordelijkheid werkzame personen.
 
-#### Artikel 4c
+##### Artikel 4c
 
 1. De in [artikel 4b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=2b&paragraaf=1&artikel=4b&z=2025-01-01&g=2025-01-01), bedoelde organen en personen gebruiken de Nederlandse taal, tenzij bij of krachtens dit hoofdstuk anders is bepaald.
 
@@ -876,7 +904,7 @@ In wettelijke regelingen en voorschriften zoals deze van toepassing zijn in de o
 
 #### § 2. Het bestuurlijk verkeer tussen de overheid en particulieren
 
-#### Artikel 4d
+##### Artikel 4d
 
 1. Een ieder kan de Nederlandse taal gebruiken in het verkeer met de in [artikel 4b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=2b&paragraaf=1&artikel=4b&z=2025-01-01&g=2025-01-01), bedoelde organen en personen.
 
@@ -890,7 +918,7 @@ In wettelijke regelingen en voorschriften zoals deze van toepassing zijn in de o
 
 4. Het tweede en derde lid gelden niet, indien het orgaan of de persoon heeft verzocht de Nederlandse taal te gebruiken op de grond, dat het gebruik van het Papiaments of het Engels tot een onevenredige belasting van het bestuurlijk verkeer zou leiden.
 
-#### Artikel 4e
+##### Artikel 4e
 
 1. De organen van het openbaar lichaam Bonaire kunnen in het mondeling verkeer met een ieder het Papiaments gebruiken.
 
@@ -902,7 +930,7 @@ In wettelijke regelingen en voorschriften zoals deze van toepassing zijn in de o
 
 #### § 3. Het bestuurlijk verkeer bij de overheden en tussen hen onderling
 
-#### Artikel 4f
+##### Artikel 4f
 
 1. De in [artikel 4b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=2b&paragraaf=1&artikel=4b&z=2025-01-01&g=2025-01-01), bedoelde organen en personen maken in hun onderling schriftelijk verkeer en in het schriftelijke verkeer met in het Europese deel van Nederland gevestigde organen alleen gebruik van het Nederlands.
 
@@ -914,7 +942,7 @@ In wettelijke regelingen en voorschriften zoals deze van toepassing zijn in de o
 
 3. De in [artikel 4b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=2b&paragraaf=1&artikel=4b&z=2025-01-01&g=2025-01-01), bedoelde organen en personen kunnen in hun onderling mondeling verkeer alleen gebruik van het Papiaments ofwel het Engels maken indien het gebruik daarvan doelmatiger is en de belangen van derden daardoor niet onevenredig worden geschaad.
 
-#### Artikel 4g
+##### Artikel 4g
 
 1. Een ieder kan in vergaderingen van de eilandsraad van het openbaar lichaam Bonaire dan wel van het openbaar lichaam Sint Eustatius of Saba het Papiaments onderscheidenlijk het Engels gebruiken.
 
@@ -922,7 +950,7 @@ In wettelijke regelingen en voorschriften zoals deze van toepassing zijn in de o
 
 #### § 4. Bijzondere bepalingen inzake schriftelijke stukken van de overheid
 
-#### Artikel 4h
+##### Artikel 4h
 
 Onverminderd [artikel 4f](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=2b&paragraaf=3&artikel=4f&z=2025-01-01&g=2025-01-01) kan:
 
@@ -932,7 +960,7 @@ Onverminderd [artikel 4f](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofds
 
 - c. Onze Minister wie het aangaat voor personen die in de openbare lichamen werkzaam zijn onder verantwoordelijkheid van de centrale overheid, regels stellen over het gebruik van het Papiaments ofwel het Engels in schriftelijke stukken.
 
-#### Artikel 4i
+##### Artikel 4i
 
 1. Indien een schriftelijk stuk in het Papiaments ofwel het Engels is opgesteld, verstrekken de in [artikel 4b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=2b&paragraaf=1&artikel=4b&z=2025-01-01&g=2025-01-01), bedoelde organen en personen daarvan op verzoek van een natuurlijk persoon of rechtspersoon die ingezetene is van of gevestigd is in de openbare lichamen een vertaling in de Nederlandse taal, tenzij het verstrekken tot een onevenredige belasting van het bestuurlijk verkeer zou leiden.
 
@@ -944,7 +972,7 @@ Onverminderd [artikel 4f](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofds
 
 - b. een besluit of andere handeling inhoudt waarbij de verzoeker belanghebbende is.
 
-#### Artikel 4j
+##### Artikel 4j
 
 1. Een schriftelijk stuk in het Papiaments of in het Engels wordt tevens in de Nederlandse taal opgesteld, indien het:
 
@@ -1002,7 +1030,7 @@ Onverminderd [artikel 4f](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofds
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 18.4.7a
+##### Artikel 18.4.7a
 
 Voor de toepassing van de [artikelen 18.4.7b](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7b&z=2025-01-01&g=2025-01-01), [18.4.7c](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7c&z=2025-01-01&g=2025-01-01), [18.4.7d](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7d&z=2025-01-01&g=2025-01-01), [18.4.7e](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7e&z=2025-01-01&g=2025-01-01), [18.4.7f](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7f&z=2025-01-01&g=2025-01-01), [18.4.7g](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7g&z=2025-01-01&g=2025-01-01), [18.4.7h](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7h&z=2025-01-01&g=2025-01-01) en [18.4.7i](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7i&z=2025-01-01&g=2025-01-01) wordt verstaan onder:
 
@@ -1080,19 +1108,19 @@ Voor de toepassing van de [artikelen 18.4.7b](https://wetten.overheid.nl/jci1.3:
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 18.4.7b
+##### Artikel 18.4.7b
 
 1. Een aanbieder van jeugdzorg verleent verantwoorde jeugdzorg. Onder verantwoorde jeugdzorg wordt verstaan: jeugdzorg van goed niveau, die in ieder geval veilig, doeltreffend, doelmatig en cliëntgericht wordt verleend en die is afgestemd op de reële behoefte van de jeugdige.
 
 2. De verlening van verantwoorde jeugdzorg omvat mede de systematische bewaking, beheersing en verbetering van de kwaliteit van jeugdzorg.
 
-#### Artikel 18.4.7c
+##### Artikel 18.4.7c
 
 1. De (gezins)voogdij-instelling voert verantwoorde gezinsvoogdij uit en oefent verantwoorde voogdij uit. Onder verantwoorde (gezins)voogdij wordt verstaan: (gezins)voogdij van goed niveau, die in ieder geval veilig, doeltreffend, doelmatig en cliëntgericht wordt verleend en die is afgestemd op de reële behoefte van de jeugdige.
 
 2. De verlening van verantwoorde (gezins)voogdij omvat mede de systematische bewaking, beheersing en verbetering van de kwaliteit van (gezins)voogdij.
 
-#### Artikel 18.4.7d
+##### Artikel 18.4.7d
 
 1. De aanbieder van jeugdzorg en de (gezins)voogdij-instelling doen aan de ambtenaren, bedoeld in [artikel 18.4.7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7e&z=2025-01-01&g=2025-01-01), onverwijld melding van:
 
@@ -1104,7 +1132,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. Voor zover bij het onderzoeken van een melding gegevens van een jeugdige ter beschikking van de ambtenaren, bedoeld in [artikel 18.4.7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7e&z=2025-01-01&g=2025-01-01), zijn gekomen, ter zake waarvan de betrokken beroepsbeoefenaar uit hoofde van zijn beroep tot geheimhouding verplicht is, geldt gelijke verplichting voor de betrokken ambtenaren van de Inspectie gezondheidszorg en jeugd.
 
-#### Artikel 18.4.7e
+##### Artikel 18.4.7e
 
 1. De ambtenaren van de Inspectie gezondheidszorg en jeugd zijn belast:
 
@@ -1122,7 +1150,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 4. De Inspectie gezondheidszorg en jeugd verricht haar taak uit eigen beweging of op verzoek van een van Onze Ministers.
 
-#### Artikel 18.4.7f
+##### Artikel 18.4.7f
 
 1. Indien een van Onze Ministers van oordeel is dat [artikel 18.4.7b](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7b&z=2025-01-01&g=2025-01-01), [artikel 18.4.7c](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7c&z=2025-01-01&g=2025-01-01), [artikel 18.4.7d](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7d&z=2025-01-01&g=2025-01-01) of de krachtens [artikel 18.4.7i](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7i&z=2025-01-01&g=2025-01-01) gestelde regels niet of in onvoldoende mate of op onjuiste wijze worden nageleefd, kan hij de aanbieder van jeugdzorg, dan wel de (gezins)voogdij-instelling een aanwijzing geven.
 
@@ -1136,11 +1164,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 6. Mandaat tot het verlengen van de geldigheidsduur van een bevel wordt niet verleend aan de ambtenaren, bedoeld in [artikel 18.4.7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7e&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 18.4.7g
+##### Artikel 18.4.7g
 
 De Minister die het aangaat is bevoegd een last onder bestuursdwang op te leggen ter zake van een gedraging die in strijd is met een krachtens [artikel 18.4.7f](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7f&z=2025-01-01&g=2025-01-01) gegeven aanwijzing of bevel.
 
-#### Artikel 18.4.7h
+##### Artikel 18.4.7h
 
 1. De ambtenaren, bedoeld in [artikel 18.4.7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7e&z=2025-01-01&g=2025-01-01), verwerken gegevens ten behoeve van de taken bedoeld in [artikel 18.4.7d](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7d&z=2025-01-01&g=2025-01-01) en [18.4.7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7e&z=2025-01-01&g=2025-01-01).
 
@@ -1154,7 +1182,7 @@ De Minister die het aangaat is bevoegd een last onder bestuursdwang op te leggen
 
 6. Voor zover de betrokken beroepsbeoefenaar uit hoofde van ambt, beroep of wettelijk voorschrift tot geheimhouding van het dossier verplicht is, kan de beroepsbeoefenaar deze verplichting, in afwijking van [artikel 5:20, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), niet inroepen tegenover de ambtenaren, bedoeld in [artikel 18.4.7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&hoofdstuk=6&paragraaf=4&artikel=18.4.7e&z=2025-01-01&g=2025-01-01). Op deze ambtenaren rust dezelfde geheimhoudingsplicht als op de betrokken beroepsbeoefenaar.
 
-#### Artikel 18.4.7i
+##### Artikel 18.4.7i
 
 Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent jeugdzorg in de openbare lichamen, met inbegrip van de toegang, het aanbod, de kwaliteit, de bekostiging en een bijdrage in de kosten van de jeugdzorg.
 
@@ -1180,7 +1208,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omt
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 18.4.5a
+##### Artikel 18.4.5a
 
 Derden die beroepshalve beschikken over inlichtingen die noodzakelijk kunnen worden geacht om een situatie van huiselijk geweld of kindermishandeling te beëindigen of de veiligheidssituatie, in geval van een redelijk vermoeden van huiselijk geweld of kindermishandeling, te beoordelen, kunnen aan een AMHK als bedoeld in artikel 1.1 van het Besluit maatschappelijk ondersteuning en bestrijding huiselijk geweld en kindermishandeling BES deze inlichtingen verstrekken zonder toestemming van degene die het betreft en indien nodig met doorbreking van de plicht tot geheimhouding op grond van een wettelijk voorschrift of op grond van hun ambt of beroep.
 

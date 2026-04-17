@@ -1,20 +1,46 @@
 ---
-title: "Regeling erkenning EG-beroepskwalificaties politiepersoneel"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 14 augustus 2008, nr. STAF/CZW/WVOB 2008-00000287353, houdende regels betreffende de beroepserkenning van executief politiepersoneel (Regeling erkenning EG-beroepskwalificaties politiepersoneel)"
 identifier: "BWBR0024380"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2025-09-04
-laatste_update: 2025-09-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024380"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-09-04"
+last_updated: "2025-09-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024380"
+soort: "ministeriele-regeling"
+stam_id: "9699583"
+version_id: "15674992"
+internal_id: "C21408891"
+label_id: "9676584"
+dtd_version: "2.0"
+original_entry_into_force: "2008-08-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024380/2025-09-04/0"
+intitule_bron: "Stcrt.2008-159"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-08-14"
+intitule_published: "2008-08-19"
+intitule_in_force: "2008-08-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-159"
+original_signed_date: "2008-08-14"
+original_published_date: "2008-08-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-159-p7-SC87156"
+entry_into_force_date: "2008-08-21"
+jci_1_3: "jci1.3:c:BWBR0024380&z=2025-09-04&g=2025-09-04"
+jci_1_0: "1.0:c:BWBR0024380&g=2025-09-04"
+citeertitel_status: "officieel"
+short_title: "Regeling erkenning EG-beroepskwalificaties politiepersoneel"
+signed_date: "2008-08-14"
+entry_into_force: "2008-08-21"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 14 augustus 2008, nr. STAF/CZW/WVOB 2008-00000287353, houdende regels betreffende de beroepserkenning van executief politiepersoneel (Regeling erkenning EG-beroepskwalificaties politiepersoneel)
 
 Gelet op [artikel 33, eerste en tweede lid, van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - f. lidstaat van oorsprong of herkomst: lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese economische ruimte of Zwitserland.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling is van toepassing op:
 
@@ -38,7 +64,7 @@ Deze regeling is van toepassing op:
 
 - b. de verklaring vooraf, bedoeld in [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23), van een dienstverrichter die een gereglementeerd beroep als bedoeld in onderdeel a, wil uitoefenen.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij de aanvraag tot erkenning van een beroepskwalificatie worden de volgende gegevens en documenten verschaft:
 
@@ -60,7 +86,7 @@ Bij de aanvraag tot erkenning van een beroepskwalificatie worden de volgende geg
 
 - g. Indien de aanvraag en de onder b tot en met f bedoelde stukken in een andere dan de Nederlandse, Duitse of Engelse taal zijn gesteld, een door een beëdigde tolk of vertaler opgestelde vertaling daarvan in één van deze talen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In het geval de Minister een compenserende maatregel noodzakelijk vindt en de aanvrager voor een aanpassingsstage kiest, wordt de aanvrager meegedeeld:
 
@@ -80,7 +106,7 @@ Bij de aanvraag tot erkenning van een beroepskwalificatie worden de volgende geg
 
 5. De Minister deelt het resultaat van de aanpassingsstage zo spoedig mogelijk mee aan de aanvrager.
 
-#### Artikel 5
+##### Artikel 5
 
 1. In het geval de Minister een compenserende maatregel noodzakelijk vindt en de aanvrager voor een proeve van bekwaamheid kiest, wordt de aanvrager meegedeeld:
 
@@ -92,7 +118,7 @@ Bij de aanvraag tot erkenning van een beroepskwalificatie worden de volgende geg
 
 2. De Minister deelt het resultaat van de proeve van bekwaamheid zo spoedig mogelijk mee aan de aanvrager.
 
-#### Artikel 6
+##### Artikel 6
 
 Een dienstverrichter verstrekt aan de Minister de volgende documenten, bedoeld in [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23):
 
@@ -110,11 +136,11 @@ Een dienstverrichter verstrekt aan de Minister de volgende documenten, bedoeld i
 
 - e. voor gevallen als bedoeld in [artikel 22, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=22), een bewijs van de daar omschreven beroepservaring.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling erkenning EG-beroepskwalificaties politiepersoneel.
 

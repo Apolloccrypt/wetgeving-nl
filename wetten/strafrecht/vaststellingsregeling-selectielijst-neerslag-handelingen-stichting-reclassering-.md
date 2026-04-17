@@ -1,13 +1,37 @@
 ---
 title: "Vaststellingsregeling selectielijst neerslag handelingen Stichting Reclassering Nederland op het beleidsterrein Reclassering over de periode 1948–1999"
 identifier: "BWBR0014815"
-categorie: "Strafrecht"
-publicatiedatum: 2004-07-23
-laatste_update: 2004-07-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014815"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2004-07-23"
+last_updated: "2004-07-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014815"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "5969523"
+version_id: "10575562"
+internal_id: "C25311351"
+label_id: "5958974"
+original_entry_into_force: "2004-07-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014815/2004-07-23/0"
+intitule_bron: "Stcrt.2004-137"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-03-17"
+intitule_published: "2004-07-21"
+intitule_in_force: "2004-07-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-137"
+original_signed_date: "2003-03-17"
+original_published_date: "2004-07-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-137-p14-SC65878"
+entry_into_force_date: "2004-07-23"
+jci_1_3: "jci1.3:c:BWBR0014815&z=2004-07-23&g=2004-07-23"
+jci_1_0: "1.0:c:BWBR0014815&g=2004-07-23"
+citeertitel_status: "redactioneel"
+signed_date: "2003-03-17"
+entry_into_force: "2004-07-23"
 ---
-
 # Vaststellingsregeling selectielijst neerslag handelingen Stichting Reclassering Nederland op het beleidsterrein Reclassering over de periode 1948–1999
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995;](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5)
@@ -16,11 +40,11 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 4 september 20
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Stichting Reclassering Nederland op het beleidsterrein Reclassering over de periode 1948–1999’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

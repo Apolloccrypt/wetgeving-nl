@@ -1,13 +1,39 @@
 ---
-title: "Besluit intrekking toezichtkaders onder vaststelling beleidsregels Onderzoekskaders 2017"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap, van 23 juni 2017, nr. 1214771 tot intrekking van toezichtkaders onder vaststelling van beleidsregels houdende Onderzoekskaders 2017"
 identifier: "BWBR0039788"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-08-01
-laatste_update: 2021-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039788"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-08-01"
+last_updated: "2021-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039788"
+soort: "ministeriele-regeling"
+stam_id: "14072093"
+version_id: "24230872"
+internal_id: "C34805461"
+label_id: "14033074"
+dtd_version: "2.0"
+original_entry_into_force: "2017-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039788/2021-08-01/0"
+intitule_bron: "Stcrt.2017-38522"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-06-23"
+intitule_published: "2017-07-14"
+intitule_in_force: "2017-07-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-38522"
+original_signed_date: "2017-06-23"
+original_published_date: "2017-07-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-38522"
+entry_into_force_date: "2017-08-01"
+jci_1_3: "jci1.3:c:BWBR0039788&z=2021-08-01&g=2021-08-01"
+jci_1_0: "1.0:c:BWBR0039788&g=2021-08-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit intrekking toezichtkaders onder vaststelling beleidsregels Onderzoekskaders 2017"
+signed_date: "2017-06-23"
+entry_into_force: "2017-08-01"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap, van 23 juni 2017, nr. 1214771 tot intrekking van toezichtkaders onder vaststelling van beleidsregels houdende Onderzoekskaders 2017
 
 Gelet op [artikel 13, eerste lid, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=13);
@@ -16,7 +42,7 @@ Gezien de voordracht van de Inspecteur-generaal van het onderwijs van 12 juni 20
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De volgende beleidsregels worden vastgesteld:
 
@@ -28,7 +54,7 @@ De volgende beleidsregels worden vastgesteld:
 
 - d. Onderzoekskader 2017 voor het toezicht op het middelbaar beroepsonderwijs ([bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0039788&bijlage=IV&z=2021-08-01&g=2021-08-01)).
 
-#### Artikel 2
+##### Artikel 2
 
 De volgende beleidsregels worden ingetrokken:
 
@@ -40,7 +66,7 @@ De volgende beleidsregels worden ingetrokken:
 
 - d. [Onderzoekskader 2017 voor het toezicht op het middelbaar beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0039177&bijlage=IV), zoals gepubliceerd in Staatscourant 2017, 5924.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van 1 augustus 2017.
 

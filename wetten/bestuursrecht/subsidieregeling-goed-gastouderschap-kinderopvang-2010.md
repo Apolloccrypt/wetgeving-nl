@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling goed gastouderschap kinderopvang 2010"
+title: "Regeling van de Staatsecretaris van Onderwijs, Cultuur en Wetenschap van 30 november 2009, nr. WJZ/172902 (2709), houdende regels voor het verstrekken van subsidie ten behoeve van het volgen van een certificeringsprocedure door gastouders kinderopvang (Subsidieregeling goed gastouderschap kinderopvang 2010)"
 identifier: "BWBR0026796"
-categorie: "Bestuursrecht"
-publicatiedatum: 2010-10-14
-laatste_update: 2010-10-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026796"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-10-14"
+last_updated: "2010-10-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026796"
+soort: "ministeriele-regeling"
+stam_id: "10305633"
+version_id: "16886622"
+internal_id: "C23257901"
+label_id: "10281234"
+dtd_version: "2.0"
+original_entry_into_force: "2009-12-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026796/2010-10-14/0"
+intitule_bron: "Stcrt.2009-18809"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-11-30"
+intitule_published: "2009-12-10"
+intitule_in_force: "2009-12-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-18809"
+original_signed_date: "2009-11-30"
+original_published_date: "2009-12-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-18809"
+entry_into_force_date: "2009-12-11"
+jci_1_3: "jci1.3:c:BWBR0026796&z=2010-10-14&g=2010-10-14"
+jci_1_0: "1.0:c:BWBR0026796&g=2010-10-14"
+citeertitel_status: "redactioneel"
+short_title: "Subsidieregeling goed gastouderschap kinderopvang 2010"
+signed_date: "2009-11-30"
+entry_into_force: "2009-12-11"
 ---
-
 # Regeling van de Staatsecretaris van Onderwijs, Cultuur en Wetenschap van 30 november 2009, nr. WJZ/172902 (2709), houdende regels voor het verstrekken van subsidie ten behoeve van het volgen van een certificeringsprocedure door gastouders kinderopvang (Subsidieregeling goed gastouderschap kinderopvang 2010)
 
 Gelet op [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=2), juncto [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4), en [artikel 10 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=10), alsmede [artikel 10:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -36,11 +62,11 @@ In deze regeling wordt verstaan onder:
 
 - i. **werkelijke kosten van de certificeringsprocedure:** de netto kosten die het gastouderbureau betaalt aan de aanbieder voor de certificeringsprocedure, niet zijnde de vergoeding die de aanbieder betaalt aan het gastouderbureau of aan de gastouder voor activiteiten die door het gastouderbureau of de gastouder worden verricht in het kader van de certificeringsprocedure.
 
-#### Artikel 2. Doelomschrijving
+##### Artikel 2. Doelomschrijving
 
 De minister verstrekt subsidie met als doel gastouders die op de datum van inwerkingtreding van deze regeling gastouder in de zin van de [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) zijn en als zodanig werkzaam zijn, in het jaar 2009 en 2010 tegemoet te komen in de kosten voor het kunnen voldoen aan de deskundigheidseisen op grond van de Wet kinderopvang zoals luidend met ingang van 1 januari 2010.
 
-#### Artikel 3. Te subsidiëren activiteiten
+##### Artikel 3. Te subsidiëren activiteiten
 
 1. Voor subsidie met het oog op en binnen de doelstelling, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026796&hoofdstuk=1&artikel=2&z=2010-10-14&g=2010-10-14), komen uitsluitend in aanmerking de werkelijke kosten van de certificeringsprocedure die wordt afgesloten met een certificaat goed gastouderschap indien wordt voldaan aan de volgende voorwaarden:
 
@@ -80,25 +106,25 @@ De minister verstrekt subsidie met als doel gastouders die op de datum van inwer
 
 2. Voor de subsidie, bedoeld in het eerste lid, komt het gastouderbureau onverminderd het eerste lid uitsluitend in aanmerking ten aanzien van gastouders die door hun gastouderbureau bij BKK zijn aangemeld uiterlijk op 31 december 2009.
 
-#### Artikel 4. Subsidieaanvrager
+##### Artikel 4. Subsidieaanvrager
 
 Subsidie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026796&hoofdstuk=1&artikel=3&z=2010-10-14&g=2010-10-14) wordt uitsluitend verleend aan gastouderbureaus.
 
-#### Artikel 5. Tijdvak subsidiëring
+##### Artikel 5. Tijdvak subsidiëring
 
 De subsidie wordt uitsluitend verstrekt voor activiteiten die worden verricht tot en met 30 september 2010.
 
-#### Artikel 6. Subsidiebedrag
+##### Artikel 6. Subsidiebedrag
 
 De subsidie per gastouder bedraagt ten hoogste 75% van de werkelijke kosten van een certificeringsprocedure, met een maximum van 675 Euro.
 
 ### Hoofdstuk 2. Subsidieaanvraag
 
-#### Artikel 7. Subsidieaanvraag
+##### Artikel 7. Subsidieaanvraag
 
 De subsidie wordt op aanvraag verleend.
 
-#### Artikel 8. Indiening aanvraag
+##### Artikel 8. Indiening aanvraag
 
 1. Subsidieaanvragen worden elektronisch ingediend bij BKK via de website www.stichtingbkk.nl.
 
@@ -106,7 +132,7 @@ De subsidie wordt op aanvraag verleend.
 
 3. De minister kan om reden van bijzondere omstandigheden een latere uiterste indieningsdatum vaststellen dan 1 april 2010.
 
-#### Artikel 9. Vereisten subsidieaanvraag
+##### Artikel 9. Vereisten subsidieaanvraag
 
 Bij de subsidieaanvraag worden overgelegd:
 
@@ -116,11 +142,11 @@ Bij de subsidieaanvraag worden overgelegd:
 
 ### Hoofdstuk 3. Subsidieverlening
 
-#### Artikel 10. Beslissing op de aanvraag
+##### Artikel 10. Beslissing op de aanvraag
 
 De minister beslist op een aanvraag als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026796&hoofdstuk=2&artikel=7&z=2010-10-14&g=2010-10-14) binnen acht weken na ontvangst van de aanvraag.
 
-#### Artikel 11. Aanvullende weigeringsgronden
+##### Artikel 11. Aanvullende weigeringsgronden
 
 Onverminderd de [artikelen 4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) en [4.35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) kan de minister subsidieverlening weigeren indien:
 
@@ -132,7 +158,7 @@ Onverminderd de [artikelen 4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&
 
 ### Hoofdstuk 4. Verplichtingen subsidieontvanger
 
-#### Artikel 12. Informatieplicht
+##### Artikel 12. Informatieplicht
 
 1. De subsidieontvanger werkt mee aan door of namens de minister ingestelde onderzoeken die erop zijn gericht de minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van het beleid.
 
@@ -140,7 +166,7 @@ Onverminderd de [artikelen 4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&
 
 ### Hoofdstuk 5. Subsidievaststelling
 
-#### Artikel 13. Aanvraag tot vaststelling
+##### Artikel 13. Aanvraag tot vaststelling
 
 1. Nadat de gastouder het certificaat goed gastouderschap heeft behaald doch voor 1 december 2010, dient de subsidieontvanger een aanvraag tot subsidievaststelling in, onder overlegging van:
 
@@ -152,23 +178,23 @@ Onverminderd de [artikelen 4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&
 
 2. De voor subsidievaststelling in aanmerking komende kosten worden met bewijsstukken gestaafd en zijn overzichtelijk en gespecificeerd gepresenteerd.
 
-#### Artikel 14. Beslissing tot vaststelling
+##### Artikel 14. Beslissing tot vaststelling
 
 De minister neemt binnen dertien weken na de datum van ontvangst van de subsidieaanvraag een beschikking op de aanvraag.
 
 ### Hoofdstuk 6. Betaling
 
-#### Artikel 15. Betaling van de subsidie
+##### Artikel 15. Betaling van de subsidie
 
 Het subsidiebedrag wordt binnen een maand na de subsidievaststelling uitbetaald aan de subsidieontvanger.
 
 ### Hoofdstuk 7. Terugvordering
 
-#### Artikel 16. Terugvordering subsidie
+##### Artikel 16. Terugvordering subsidie
 
 De minister kan de subsidie terugvorderen voor zover het betreft een gastouder die met gebruikmaking van de op grond van deze regeling ontvangen subsidie een certificaat goed gastouderschap heeft behaald, voor 1 oktober 2012 tevens een diploma van een uit ’s Rijks kas bekostigde instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) heeft verkregen ten bewijze dat hij voldoet aan de eisen, genoemd in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0026796&hoofdstuk=1&artikel=3&z=2010-10-14&g=2010-10-14).
 
-#### Artikel 17. Mandaatverlening BBK
+##### Artikel 17. Mandaatverlening BBK
 
 Aan het bestuur van BKK wordt mandaat verleend, met de bevoegdheid tot het verlenen van ondermandaat en met inachtneming van het gestelde in [artikel 10:3, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), om op grond van deze regeling namens de minister besluiten te nemen over:
 
@@ -180,21 +206,21 @@ Aan het bestuur van BKK wordt mandaat verleend, met de bevoegdheid tot het verle
 
 ### Hoofdstuk 8. Toezicht
 
-#### Artikel 18. Inspectie
+##### Artikel 18. Inspectie
 
 Het toezicht op de activiteiten die in het kader van deze regeling worden verricht, wordt uitgeoefend door de Inspectie van het onderwijs of andere door de minister aan te wijzen ambtenaren.
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 19. Hardheidsclausule
+##### Artikel 19. Hardheidsclausule
 
 De minister kan voor bepaalde gevallen onderdelen van deze regeling buiten toepassing verklaren of daarvan afwijken voor zover deze toepassing, gelet op het belang dat deze regeling beoogt te beschermen, zal leiden tot onbillijkheid van overwegende aard.
 
-#### Artikel 20. Inwerkingtreding
+##### Artikel 20. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij is geplaatst en vervalt met ingang van 1 januari 2020.
 
-#### Artikel 21. Citeertitel
+##### Artikel 21. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling goed gastouderschap kinderopvang 2010.
 

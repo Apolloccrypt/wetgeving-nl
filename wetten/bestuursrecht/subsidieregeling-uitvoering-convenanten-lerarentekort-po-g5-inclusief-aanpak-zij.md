@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling uitvoering convenanten lerarentekort PO G5 inclusief aanpak zij-instroom PO G5"
+title: "Regeling van de Minister voor Primair en Voortgezet Onderwijs van 14 juni 2024, nr. PO/44103786, houdende regels voor de subsidieverstrekking voor de uitvoering van de convenanten voor de aanpak van het lerarentekort in het primair onderwijs, inclusief de integrale aanpak van zij-instroom in het primair onderwijs, in de gemeenten Amsterdam, Rotterdam, Den Haag, Utrecht en Almere (Subsidieregeling uitvoering convenanten lerarentekort PO G5 inclusief aanpak zij-instroom PO G5)"
 identifier: "BWBR0049973"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-07-12
-laatste_update: 2024-07-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049973"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-07-12"
+last_updated: "2024-07-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049973"
+soort: "ministeriele-regeling"
+stam_id: "17168563"
+version_id: "30220332"
+internal_id: "C43291741"
+label_id: "17076644"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049973/2024-07-12/0"
+intitule_bron: "Stcrt.2024-21835"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-14"
+intitule_published: "2024-07-11"
+intitule_in_force: "2024-07-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-21835"
+original_signed_date: "2024-06-14"
+original_published_date: "2024-07-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-21835"
+entry_into_force_date: "2024-07-12"
+jci_1_3: "jci1.3:c:BWBR0049973&z=2024-07-12&g=2024-07-12"
+jci_1_0: "1.0:c:BWBR0049973&g=2024-07-12"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling uitvoering convenanten lerarentekort PO G5 inclusief aanpak zij-instroom PO G5"
+signed_date: "2024-06-14"
+entry_into_force: "2024-07-12"
 ---
-
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 14 juni 2024, nr. PO/44103786, houdende regels voor de subsidieverstrekking voor de uitvoering van de convenanten voor de aanpak van het lerarentekort in het primair onderwijs, inclusief de integrale aanpak van zij-instroom in het primair onderwijs, in de gemeenten Amsterdam, Rotterdam, Den Haag, Utrecht en Almere (Subsidieregeling uitvoering convenanten lerarentekort PO G5 inclusief aanpak zij-instroom PO G5)
 
 Gelet op [artikel 71 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=71) en [artikel 71 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=71);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -44,11 +70,11 @@ In deze regeling wordt verstaan onder:
 
 - **zij-instromer:** degene die beschikt over een geschiktheidsverklaring als bedoeld in [artikel 171 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=171) of [artikel 151 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=151).
 
-#### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Te subsidiëren activiteiten
+##### Artikel 3. Te subsidiëren activiteiten
 
 1. De minister kan subsidie verstrekken aan een bevoegd gezag dat een vestiging heeft in een G5-gemeente en optreedt als penvoerder voor de uitvoering van de maatregelen, bedoeld in artikel 3 van het convenant dat voor die G5-gemeente gesloten is, en de daarbij gemaakte afspraken bedoeld in de artikelen 4 en 5 van het convenant dat voor de desbetreffende G5-gemeente gesloten is.
 
@@ -58,7 +84,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 4. In afwijking van [artikel 4.3, eerste lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.3) kunnen de activiteiten waarvoor subsidie wordt verstrekt, worden uitgevoerd in de periode van 1 augustus 2024 tot en met 31 december 2025.
 
-#### Artikel 4. Subsidieplafond en verdeling
+##### Artikel 4. Subsidieplafond en verdeling
 
 In 2024 zijn voor subsidieverstrekking op grond van deze regeling per G5-gemeente ten hoogste de volgende bedragen beschikbaar, voor de periode van 1 augustus 2024 tot en met 31 december 2025:
 
@@ -70,7 +96,7 @@ In 2024 zijn voor subsidieverstrekking op grond van deze regeling per G5-gemeent
 | Utrecht | € 5.365.553,49 |
 | Almere | € 3.619.961,03 |
 
-#### Artikel 5. Penvoerderschap
+##### Artikel 5. Penvoerderschap
 
 1. Een bevoegd gezag dat een vestiging heeft in een G5-gemeente treedt als penvoerder op namens de andere partijen die betrokken zijn bij de uitvoering van de activiteiten uit het betreffende convenant.
 
@@ -78,7 +104,7 @@ In 2024 zijn voor subsidieverstrekking op grond van deze regeling per G5-gemeent
 
 3. Op de penvoerder rusten alle aan de subsidie verbonden verplichtingen, alsmede de verantwoordelijkheid voor de uitvoering van de activiteiten in het convenant, ongeacht welke partij feitelijk met de uitvoering van de activiteiten is belast.
 
-#### Artikel 6. De aanvraag
+##### Artikel 6. De aanvraag
 
 1. Een aanvraag kan worden ingediend vanaf 09:00 uur op de dag na publicatie van de regeling tot en met 30 augustus 2024 16:00 uur met gebruikmaking van het format dat daartoe door DUS-I beschikbaar wordt gesteld.
 
@@ -102,7 +128,7 @@ In 2024 zijn voor subsidieverstrekking op grond van deze regeling per G5-gemeent
 
 - f. een verklaring dat zij alle gegevens die noodzakelijk zijn voor de verantwoording door de penvoerder van de besteding van de subsidie op verzoek aan de penvoerder zullen verstrekken.
 
-#### Artikel 7. Vaststelling, uitbetaling en verantwoording
+##### Artikel 7. Vaststelling, uitbetaling en verantwoording
 
 1. In afwijking van [artikel 9.1, vierde lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=9.1) wordt de subsidie aan de penvoerder binnen 13 weken na sluiting van de aanvraagperiode verleend. De minister verstrekt een voorschot van 100%, dat in twee delen wordt uitbetaald.
 
@@ -140,17 +166,17 @@ In 2024 zijn voor subsidieverstrekking op grond van deze regeling per G5-gemeent
 
 9. Als de activiteiten zijn uitgevoerd en aan de verplichtingen is voldaan, kan het niet aangewende deel van de subsidie worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
-#### Artikel 8. Hardheidsclausule
+##### Artikel 8. Hardheidsclausule
 
 De minister kan deze regeling in bijzondere gevallen buiten toepassing verklaren of daarvan afwijken, voor zover de toepassing, gelet op het belang dat deze regeling beoogt te beschermen, tot een onbillijkheid van overwegende aard zal leiden.
 
-#### Artikel 9. Inwerkingtreding en geldingsduur
+##### Artikel 9. Inwerkingtreding en geldingsduur
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 juni 2029, met dien verstande dat de regeling van toepassing blijft ten aanzien van de subsidies die voor die datum op grond van de regeling zijn verstrekt.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling uitvoering convenanten lerarentekort PO G5 inclusief aanpak zij-instroom PO G5.
 

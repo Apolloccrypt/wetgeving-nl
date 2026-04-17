@@ -1,13 +1,39 @@
 ---
-title: "Examenprogramma basisexamen inburgering"
+title: "Regeling van de Minister voor Vreemdelingenzaken en Integratie van 14 februari 2006, nr. 5403489/06, tot vaststelling van het examenprogramma voor het basisexamen inburgering (Examenprogramma basisexamen inburgering)"
 identifier: "BWBR0019568"
-categorie: "Onderwijs"
-publicatiedatum: 2023-05-18
-laatste_update: 2023-05-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019568"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-05-18"
+last_updated: "2023-05-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019568"
+soort: "ministeriele-regeling"
+stam_id: "8108793"
+version_id: "22719222"
+internal_id: "C32848821"
+label_id: "8089904"
+dtd_version: "2.0"
+original_entry_into_force: "2015-10-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019568/2023-05-18/0"
+intitule_bron: "Stcrt.2006-51"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-02-14"
+intitule_published: "2006-03-13"
+intitule_in_force: "2006-02-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-34287"
+original_signed_date: "2015-10-05"
+original_published_date: "2015-10-13"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2015-34287"
+entry_into_force_date: "2015-10-05"
+jci_1_3: "jci1.3:c:BWBR0019568&z=2023-05-18&g=2023-05-18"
+jci_1_0: "1.0:c:BWBR0019568&g=2023-05-18"
+citeertitel_status: "officieel"
+short_title: "Examenprogramma basisexamen inburgering"
+signed_date: "2015-10-05"
+entry_into_force: "2015-10-05"
 ---
-
 # Regeling van de Minister voor Vreemdelingenzaken en Integratie van 14 februari 2006, nr. 5403489/06, tot vaststelling van het examenprogramma voor het basisexamen inburgering (Examenprogramma basisexamen inburgering)
 
 Handelende in overeenstemming met de Minister van Buitenlandse Zaken;
@@ -18,15 +44,15 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop de Wet inburgering in het buitenland (Stb. 2006/28) in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 Het examenprogramma voor de vereiste lees-, luister- en spreekvaardigheid, bedoeld in [artikel 3.98a, derde lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.98a), en het examenprogramma voor de vereiste kennis van de Nederlandse samenleving, bedoeld in [artikel 3.98a, zesde lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.98a), worden vastgesteld als in de bijlage van deze regeling is aangegeven.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking op het tijdstip waarop de Wet inburgering in het buitenland in werking treedt.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling wordt aangehaald als: Examenprogramma basisexamen inburgering.
 
@@ -270,7 +296,7 @@ Deze regeling wordt in de Staatscourant geplaatst.
 
 Deze regeling wordt in de Staatscourant geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 De Staat der Nederlanden (Ministerie van Sociale Zaken en Werkgelegenheid) maakt een voorbehoud als bedoeld in [artikel 15b van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=15b) met betrekking tot de inhoud van het basisexamen inburgering.
 

@@ -1,20 +1,46 @@
 ---
-title: "Tijdelijke regeling groot onderhoud banenstelsel Schiphol 2026"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat van 10 februari 2026, nr. IENW/BSK-2026/15842, houdende vaststelling van vervangende grenswaarden geluidbelasting en vrijstelling van regels in het Luchthavenverkeerbesluit Schiphol in verband met groot onderhoud aan het banenstelsel op de luchthaven Schiphol (Tijdelijke regeling groot onderhoud banenstelsel Schiphol 2026) [KetenID WGK028341]"
 identifier: "BWBR0052298"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2026-03-09
-laatste_update: 2026-03-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052298"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-09"
+last_updated: "2026-03-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052298"
+soort: "ministeriele-regeling"
+stam_id: "17760183"
+version_id: "31378652"
+internal_id: "C44843211"
+label_id: "17658194"
+dtd_version: "2.0"
+original_entry_into_force: "2026-03-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052298/2026-03-09/0"
+intitule_bron: "Stcrt.2026-6436"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-02-10"
+intitule_published: "2026-02-17"
+intitule_in_force: "2026-02-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-6436"
+original_signed_date: "2026-02-10"
+original_published_date: "2026-02-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-6436"
+entry_into_force_date: "2026-03-09"
+jci_1_3: "jci1.3:c:BWBR0052298&z=2026-03-09&g=2026-03-09"
+jci_1_0: "1.0:c:BWBR0052298&g=2026-03-09"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke regeling groot onderhoud banenstelsel Schiphol 2026"
+signed_date: "2026-02-10"
+entry_into_force: "2026-03-09"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat van 10 februari 2026, nr. IENW/BSK-2026/15842, houdende vaststelling van vervangende grenswaarden geluidbelasting en vrijstelling van regels in het Luchthavenverkeerbesluit Schiphol in verband met groot onderhoud aan het banenstelsel op de luchthaven Schiphol (Tijdelijke regeling groot onderhoud banenstelsel Schiphol 2026) [KetenID WGK028341]
 
 Gelet op [artikel 8.23, eerste lid, onderdelen a en b, en vijfde lid van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.23);
 
 BESLUIT:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **LVNL:** Luchtverkeersleidng Nederland.
 
-#### Artikel 2. Vervangende grenswaarden geluidbelasting
+##### Artikel 2. Vervangende grenswaarden geluidbelasting
 
 1. In plaats van de grenswaarden, genoemd in [bijlage 2 van het LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&bijlage=2), gelden in het gebruiksjaar 2026 voor de in de onderstaande tabel genoemde handhavingspunten, de volgende vervangende grenswaarden:
 
@@ -96,7 +122,7 @@ In deze regeling wordt verstaan onder:
 | **24** | 46,15 | 40,82 | 40,98 | –0,16 | 45,99 | 46,99 |
 | **25** | 48,84 | 44,73 | 44,71 | 0,02 | 48,84 | 49,84 |
 
-#### Artikel 3. Vrijstellingen
+##### Artikel 3. Vrijstellingen
 
 1. Gedurende de periode van 4 mei 2026 tot en met 12 mei 2026 waarin de Polderbaan niet beschikbaar is vanwege groot onderhoud, geldt een vrijstelling voor het tijdvak tussen 23.00 uur en 6.00 uur van [artikel 3.1.5, vierde lid, van het LVB](https://wetten.overheid.nl/jci1.3:c:BWBR0014330&artikel=3.1.5) voor starts vanaf baan 36C (Zwanenburgbaan richting het noorden).
 
@@ -114,7 +140,7 @@ In deze regeling wordt verstaan onder:
 
 - c. landingen op baan 22 (Oostbaan richting het zuidwesten) voor zover geen van de andere banen beschikbaar of bruikbaar is.
 
-#### Artikel 4. Beperkingen en voorschriften
+##### Artikel 4. Beperkingen en voorschriften
 
 1. Met het oog op de beperking van de geluidhinder wordt gedurende de periode van 9 maart 2026 tot en met 13 oktober 2026 de keuze voor het in gebruik nemen van een baancombinatie gebaseerd op de navolgende baanpreferentietabellen voor de periode van 6.00 uur tot 23.00 uur (tabel 1 tot en met 6) en voor de periode van 23.00 uur tot 6.00 uur (tabel 7 tot en met 9). Bij overschrijding van een grenswaarde in een handhavingspunt worden deze baanpreferentietabellen in het kader van het anticiperend handhaven betrokken bij de verantwoording van het baangebruik door LVNL.
 
@@ -195,11 +221,11 @@ In deze regeling wordt verstaan onder:
 
 - b. 28 januari 2026 van 07.35 uur tot en met 14.40 uur.
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 9 maart 2026 en vervalt met ingang van 1 november 2026.
 
-#### Artikel 6. Citeertitel
+##### Artikel 6. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke regeling groot onderhoud banenstelsel Schiphol 2026.
 

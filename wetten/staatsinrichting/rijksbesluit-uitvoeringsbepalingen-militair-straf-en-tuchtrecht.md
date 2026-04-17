@@ -1,13 +1,39 @@
 ---
-title: "Rijksbesluit uitvoeringsbepalingen militair straf- en tuchtrecht"
+title: "Rijksbesluit van 25 november 1999, houdende regels met betrekking tot de uitvoeringsbepalingen ingevolge het Wetboek van Militair Strafrecht, de Wet militair tuchtrecht en de Wet militaire strafrechtspraak (Rijksbesluit uitvoeringsbepalingen militair straf- en tuchtrecht)"
 identifier: "BWBR0010902"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2017-01-01
-laatste_update: 2017-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010902"
+country: "nl"
+rank: "rijks_kb"
+publication_date: "2017-01-01"
+last_updated: "2017-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010902"
+soort: "rijksKB"
+stam_id: "1181353"
+version_id: "1743982"
+internal_id: "C1743981"
+label_id: "1144794"
+dtd_version: "2.0"
+original_entry_into_force: "2000-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010902/2017-01-01/0"
+intitule_bron: "Stb.1999-497"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-11-25"
+intitule_published: "1999-11-30"
+intitule_in_force: "1999-11-30"
+intitule_status: "goed"
+original_publication: "Stb.1999-497"
+original_signed_date: "1999-11-25"
+original_published_date: "1999-11-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1999-497"
+entry_into_force_date: "2000-01-01"
+jci_1_3: "jci1.3:c:BWBR0010902&z=2017-01-01&g=2017-01-01"
+jci_1_0: "1.0:c:BWBR0010902&g=2017-01-01"
+citeertitel_status: "officieel"
+short_title: "Rijksbesluit uitvoeringsbepalingen militair straf- en tuchtrecht"
+signed_date: "1999-11-25"
+entry_into_force: "2000-01-01"
 ---
-
 # Rijksbesluit van 25 november 1999, houdende regels met betrekking tot de uitvoeringsbepalingen ingevolge het Wetboek van Militair Strafrecht, de Wet militair tuchtrecht en de Wet militaire strafrechtspraak (Rijksbesluit uitvoeringsbepalingen militair straf- en tuchtrecht)
 
 Op de voordracht van de Staatssecretaris van Defensie van 14 juli 1999, nr. CST99/0117/016 99002114, directie juridische zaken, gedaan mede namens Onze Minister van Justitie;
@@ -26,7 +52,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Tenuitvoerlegging buiten het Europese deel van Nederland en buiten het Koninkrijk
 
-#### Artikel 1
+##### Artikel 1
 
 1. Tenuitvoerlegging in strafinrichtingen in Aruba, Curaçao of Sint Maarten of in Bonaire, Sint Eustatius of Saba als bedoeld in [artikel 21, eerste lid, van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=21), kan plaatsvinden, indien:
 
@@ -44,7 +70,7 @@ Hebben goedgevonden en verstaan:
 
 - c. hechtenis: in een huis van bewaring.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Tenuitvoerlegging als bedoeld in [artikel 21, tweede lid, van het Wetboek van Militair Strafrecht,](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=21) kan plaatsvinden in een strafinrichting buiten het Koninkrijk, die naar het oordeel van het met de tenuitvoerlegging belaste gezag daarvoor genoegzaam geschikt is, of, doch voor ten hoogste vier weken, op een plaats bestemd of geschikt voor het ondergaan van een tuchtrechtelijke straf. Tenzij het feitelijk onmogelijk is de veroordeelde zijn verdere straf in een strafinrichting binnen het Koninkrijk te doen ondergaan, vindt, zonder diens schriftelijke toestemming, de tenuitvoerlegging voor ten hoogste zes maanden in een strafinrichting buiten het Koninkrijk plaats.
 
@@ -54,7 +80,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 2. Tijdstip van ingang bijkomende straf
 
-#### Artikel 3
+##### Artikel 3
 
 1. Met betrekking tot het tijdstip van ingang van de bijkomende straf van ontzegging van de bevoegdheid motorrijtuigen te besturen, genoemd in [artikel 36 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=36), of de luchtvaart uit te oefenen, genoemd in [artikel 36a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=36a), en de daaraan verbonden administratieve gevolgen wordt die straf gelijkgesteld met de overeenkomstige straf van het burgerlijk strafrecht van het rijksdeel, waar de veroordeelde op het tijdstip van het onherroepelijk worden van de rechterlijke uitspraak woont, of, zo hij op dat tijdstip militair is, is gestationeerd. Is de veroordeelde buiten het Koninkrijk woonachtig onderscheidenlijk gestationeerd, dan vindt gelijkstelling met de overeenkomstige straf in het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) van het Europese deel van Nederland plaats.
 
@@ -68,7 +94,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 3. Verpleging in Aruba, Curaçao of Sint Maarten of in Bonaire, Sint Eustatius of Saba
 
-#### Artikel 4
+##### Artikel 4
 
 1. De verpleging van personen, bedoeld in [artikel 44a van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=44a), kan plaatsvinden in Aruba, Curaçao of Sint Maarten of in Bonaire, Sint Eustatius of Saba, indien
 
@@ -80,7 +106,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 4. Strafbeschikking
 
-#### Artikel 5
+##### Artikel 5
 
 1. De bevoegdheid tot het uitvaardigen van een strafbeschikking als bedoeld in [artikel 59, eerste lid, van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=59), kan slechts worden uitgeoefend in zaken die betrekking hebben op een strafbaar feit omschreven in:
 
@@ -94,7 +120,7 @@ Hebben goedgevonden en verstaan:
 
 4. De strafbeschikking vermeldt, in aanvulling op de gegevens, bedoeld in [artikel 257a, zesde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a) van het Europees deel van Nederland, de naam en rang van de bevelvoerende militair die de strafbeschikking uitvaardigt.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De bevelvoerende militair die de strafbeschikking uitvaardigt, verstrekt de officier van justitie, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010902&hoofdstuk=I&paragraaf=4&artikel=5&z=2017-01-01&g=2017-01-01), de gegevens die nodig zijn voor de uitvoering van dit artikel en voor de tenuitvoerlegging van de opgelegde geldboete of verplichting tot betaling aan de staat van een som gelds ten behoeve van het slachtoffer.
 
@@ -120,7 +146,7 @@ Hebben goedgevonden en verstaan:
 
 - e. de datum van ontvangst van het afschrift.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De bevelvoerende militair die de strafbeschikking uitvaardigt, wijst ten behoeve van de verdachte die wil voldoen aan de opgelegde geldboete of verplichting tot betaling aan de staat van een som gelds ten behoeve van het slachtoffer, een plaats aan waar en een persoon bij wie kan worden overgegaan tot betaling.
 
@@ -132,7 +158,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 5. Bekendmaking «tijd van oorlog»
 
-#### Artikel 8
+##### Artikel 8
 
 1. De officier van justitie, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010902&hoofdstuk=I&paragraaf=4&artikel=5&z=2017-01-01&g=2017-01-01), draagt zorg dat de krachtens [artikel 59, eerste lid, van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=59) aangewezen bevelvoerende militairen door tussenkomst van de commandanten van de operationele commando's in het bezit worden gesteld van de richtlijnen, bedoeld in artikel 59, derde lid, van het Wetboek van Militair Strafrecht, waarin per delictscategorie de geldboetebedragen worden aangegeven. Aan de betrokken personen verleent de bevelvoerende militair ter gelegenheid van de uitoefening van de bevoegdheid, bedoeld in artikel 5, desgevraagd inzage in de richtlijn.
 
@@ -144,7 +170,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 6. Dienstvoorschriften
 
-#### Artikel 9
+##### Artikel 9
 
 1. Onder de in [artikel 135 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=135) bedoelde besluiten van algemene strekking worden, naast de in dit besluit vervatte regelen van algemene strekking, mede verstaan de schriftelijke besluiten van algemene strekking welke voor de inwerkingtreding van de Rijkswet van 14 juni 1990, tot wijziging van het Wetboek van Militair Strafrecht in verband met de herziening van het militair tuchtrecht en ter afschaffing van de doodstraf, door Onze Minister van Defensie of door het gezag dat op grond van de Wet op de Krijgstucht alstoen bevoegd was tot het opleggen van krijgstuchtelijke straffen, werden vastgesteld en bekendgemaakt. Bij de toepassing van [artikel 135 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=135) worden dergelijke besluiten gelijkgesteld met besluiten die zijn vastgesteld krachtens dit besluit.
 
@@ -164,7 +190,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Tuchtrechtelijke geldboete
 
-#### Artikel 10
+##### Artikel 10
 
 1. De betaling, de administratie, het beheer en de verantwoording van geïnde geldboeten geschiedt volgens door Onze Minister van Defensie te stellen regels. Als betaling worden in ieder geval aangemerkt:
 
@@ -176,7 +202,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 2. Vergoeding voor advocaat, getuige en deskundige
 
-#### Artikel 11
+##### Artikel 11
 
 1. Vergoedingen als bedoeld in [artikel 65 van de Wet militair tuchtrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&artikel=65) van door niet-militaire getuigen en deskundigen gemaakte onkosten worden berekend naar de regelen, vervat in de [artikelen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002429&artikel=1), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002429&artikel=6) en [7a van het Besluit tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002429&artikel=7a).
 
@@ -184,7 +210,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 3. Herstel geleden nadeel
 
-#### Artikel 12
+##### Artikel 12
 
 Herstel van het geleden nadeel ingeval een beklag of beroep over de wijze van tenuitvoerlegging van een straf van strafdienst of van uitgaansverbod geheel of gedeeltelijk gegrond is verklaard, geschiedt als volgt:
 
@@ -196,7 +222,7 @@ Herstel van het geleden nadeel ingeval een beklag of beroep over de wijze van te
 
 - 2E. en de straf is ondergaan op een werkdag: voor iedere dag waarop de wijze van tenuitvoerlegging niet passend wordt geacht, wordt een vergoeding in vrije tijd voor de duur van een uur toegekend.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Herstel van het geleden nadeel van een bij de beslissing op beklag of in beroep geheel of gedeeltelijk teniet-gedane of verminderde reeds ondergane straf van strafdienst of van uitgaansverbod, geschiedt als volgt:
 
@@ -208,7 +234,7 @@ Herstel van het geleden nadeel ingeval een beklag of beroep over de wijze van te
 
 2. Indien een dag uitgaansverbod ten onrechte gedeeltelijk is ondergaan, wordt 12 uur of meer met vrije tijd voor de duur van een hele werkdag vergoed en wordt minder dan 12 uur vergoed met vrije tijd voor de duur van een halve werkdag.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Op het verlenen van verlof in verband met herstel van het geleden nadeel als bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0010902&hoofdstuk=II&paragraaf=3&artikel=12&z=2017-01-01&g=2017-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0010902&hoofdstuk=II&paragraaf=3&artikel=13&z=2017-01-01&g=2017-01-01) zijn de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=63), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=64), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=65) en [67 van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=67) van overeenkomstige toepassing.
 
@@ -218,7 +244,7 @@ Herstel van het geleden nadeel ingeval een beklag of beroep over de wijze van te
 
 #### § 4. Bewaring van en klachten ten aanzien van ingenomen voorwerpen en geschriften
 
-#### Artikel 15
+##### Artikel 15
 
 1. Op grond van [artikel 103 van de Wet militair tuchtrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&artikel=103) ingenomen geschriften of voorwerpen worden zo spoedig mogelijk na inneming deugdelijk gewaarmerkt en bewaard door de commandant van de rechthebbende in een goed afgesloten kast of ruimte, welke niet voor derden toegankelijk is.
 
@@ -230,7 +256,7 @@ Herstel van het geleden nadeel ingeval een beklag of beroep over de wijze van te
 
 3. De bewaarder geeft een geschrift of voorwerp uitsluitend af aan de rechthebbende tegen een bewijs, waarin de datum der afgifte, de aard van het geschrift of voorwerp en de naam, de rang en het registratienummer van de ontvanger zijn vermeld.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De rechthebbende en eventuele andere belanghebbenden kunnen schriftelijk klagen bij de voorzitter van de militaire kamer, bedoeld in [artikel 87 van de Wet militair tuchtrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&artikel=87), over het gebruik van de ingenomen voorwerpen of geschriften, over de wijze van bewaring, het voortduren der inneming, over het uitblijven en de wijze van teruggave.
 
@@ -242,15 +268,15 @@ Herstel van het geleden nadeel ingeval een beklag of beroep over de wijze van te
 
 #### § 5. Uitvoering tuchtstraffen opgelegd aan krijgsgevangenen
 
-#### Artikel 17
+##### Artikel 17
 
 De duur van de straf van arrest, genoemd in artikel 89, eerste lid, onder 4, van het Verdrag van Genève betreffende de behandeling van krijgsgevangenen, is ten hoogste dertig dagen.
 
-#### Artikel 18
+##### Artikel 18
 
 Bij de oplegging van de straf van arrest kan door de kampcommandant voor gestraften die op grond van hun persoonlijkheid niet geschikt zijn om in gemeenschap te worden geplaatst of op gronden ontleend aan de veiligheid, worden bepaald welk deel van dat arrest in afzondering wordt ondergaan.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het arrest wordt door de krijgsgevangene ondergaan:
 
@@ -262,11 +288,11 @@ Bij de oplegging van de straf van arrest kan door de kampcommandant voor gestraf
 
 3. Het arrest, genoemd in het eerste lid, onder a, mag niet worden ondergaan in gemeenschap met niet met arrest gestrafte krijgsgevangenen, behoudens tijdens het verrichten van werkzaamheden welke de met arrest gestrafte krijgsgevangene zijn opgedragen.
 
-#### Artikel 20
+##### Artikel 20
 
 Het is de met arrest gestrafte krijgsgevangene verboden de plaats waar hij zijn straf moet ondergaan gedurende zijn straftijd zonder noodzaak te verlaten of zonder daartoe verkregen toestemming aldaar bezoek te ontvangen. De kampcommandant kan de gestrafte toestemming verlenen tot het bijwonen van godsdienstoefeningen.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Aan een krijgsgevangene, verdacht van een tuchtvergrijp, kan voorlopig arrest worden aangezegd, indien de orde en tucht in het krijgsgevangenkamp zulks vereisen of indien hij zich schuldig heeft gemaakt aan een van de vergrijpen als bedoeld in [artikel 105, onder d, van de Wet militair tuchtrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&artikel=105).
 
@@ -276,7 +302,7 @@ Het is de met arrest gestrafte krijgsgevangene verboden de plaats waar hij zijn 
 
 #### § 1. Reis- en verblijfskosten, eedsaflegging en tenue van de militaire leden
 
-#### Artikel 22
+##### Artikel 22
 
 1. De militaire leden genieten een vergoeding van reis- en verblijfkosten overeenkomstig de bepalingen welke te dien aanzien voor de burgerlijke ambtenaren werkzaam op de ministeries zijn of zullen worden vastgesteld.
 
@@ -290,7 +316,7 @@ Het is de met arrest gestrafte krijgsgevangene verboden de plaats waar hij zijn 
 
 #### § 2. Bevelsgebied commandant der zeemacht in het Caraïbisch gebied
 
-#### Artikel 23
+##### Artikel 23
 
 Het bevelsgebied, bedoeld in [artikel 17, eerste lid, van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=17), van de commandant der zeemacht in het Caraïbisch gebied beslaat het grond- en watergebied van Aruba, Curaçao en Sint Maarten en van Bonaire, Sint Eustatius en Saba en het zeegebied van de Atlantische Oceaan, de Caraïbische Zee en de Golf van Mexico begrensd:
 
@@ -304,17 +330,17 @@ Het bevelsgebied, bedoeld in [artikel 17, eerste lid, van de Wet militaire straf
 
 #### § 3. Reis- en verblijfskostenvergoeding voor de officier-raadsman en voor de verdachte
 
-#### Artikel 24
+##### Artikel 24
 
 Voor de vergoeding van de kosten, bedoeld in [artikel 23, vijfde lid, van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=23), van de officier die als raadsman optreedt en van de kosten, bedoeld in [artikel 33, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=33), van de verdachte die in verband met de uitoefening van de dienst in een ander land verblijft dan waarin de rechter zitting houdt en wiens verschijnen in persoon door de rechter is bevolen, is het [Besluit dienstreizen defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0007956) van toepassing.
 
 #### § 4. Bevoegdheden van de opsporingsambtenaren buiten het Koninkrijk
 
-#### Artikel 25
+##### Artikel 25
 
 Voorzover aan de opsporingsambtenaren, bedoeld in de [artikelen 141](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), [142](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142) en [154 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=154) van het Europese deel van Nederland, bevoegdheden toekomen in verband met het opsporen van feiten, waarvan de rechter bedoeld in de Wet militaire strafrechtspraak kennis neemt, kunnen zij die bevoegdheid buiten het Koninkrijk slechts uitoefenen, voor zover het volkenrecht dit toelaat.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Buiten het Koninkrijk zijn de in de [artikelen 141](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), [142](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142) en [154 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=154) van het Europese deel van Nederland bedoelde opsporingsambtenaren bevoegd van de aan de militaire rechtsmacht onderworpen bestuurder van een motorrijtuig de overgifte te vorderen van het hem ingevolge enige binnen het Koninkrijk geldende regeling afgegeven rijbewijs, dan wel van het hem in het buitenland uitgereikte internationaal rijbewijs, indien tegen deze bestuurder proces-verbaal wordt opgemaakt ter zake van overtreding van:
 
@@ -332,15 +358,15 @@ De bestuurder is op de eerste vordering van de opsporingsambtenaar verplicht tot
 
 ### Hoofdstuk IV. Slotbepalingen
 
-#### Artikel 27
+##### Artikel 27
 
 Het Besluit uitvoeringsbepalingen militair straf- en tuchtrecht wordt ingetrokken.
 
-#### Artikel 28
+##### Artikel 28
 
 Dit besluit treedt in werking op het tijdstip dat de [Rijkswet van 2 juni 1999 tot wijziging van de Wet militair tuchtrecht, het Wetboek van militair strafrecht en de Wet militaire strafrechtspraak naar aanleiding van het gehouden evaluatie-onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0010497) in werking treedt.
 
-#### Artikel 29
+##### Artikel 29
 
 Dit besluit wordt aangehaald als: Rijksbesluit uitvoeringsbepalingen militair straf- en tuchtrecht.
 

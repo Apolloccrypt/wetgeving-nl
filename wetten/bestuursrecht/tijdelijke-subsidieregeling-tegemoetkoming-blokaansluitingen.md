@@ -1,13 +1,39 @@
 ---
-title: "Tijdelijke subsidieregeling tegemoetkoming blokaansluitingen"
+title: "Regeling van de Minister voor Klimaat en Energie van 4 april 2023, nr. WJZ/ 22558560, houdende tijdelijke regels inzake subsidie voor tegemoetkoming in energiekosten voor bewoners achter een blokaansluiting voor elektriciteit of warmte"
 identifier: "BWBR0048035"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-09-29
-laatste_update: 2023-09-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048035"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-09-29"
+last_updated: "2023-09-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048035"
+soort: "ministeriele-regeling"
+stam_id: "16718183"
+version_id: "29326102"
+internal_id: "C41769841"
+label_id: "16635014"
+dtd_version: "2.0"
+original_entry_into_force: "2023-04-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048035/2023-09-29/0"
+intitule_bron: "Stcrt.2023-10699"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-04-04"
+intitule_published: "2023-04-06"
+intitule_in_force: "2023-04-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-10699"
+original_signed_date: "2023-04-04"
+original_published_date: "2023-04-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-10699"
+entry_into_force_date: "2023-04-07"
+jci_1_3: "jci1.3:c:BWBR0048035&z=2023-09-29&g=2023-09-29"
+jci_1_0: "1.0:c:BWBR0048035&g=2023-09-29"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke subsidieregeling tegemoetkoming blokaansluitingen"
+signed_date: "2023-04-04"
+entry_into_force: "2023-04-07"
 ---
-
 # Regeling van de Minister voor Klimaat en Energie van 4 april 2023, nr. WJZ/ 22558560, houdende tijdelijke regels inzake subsidie voor tegemoetkoming in energiekosten voor bewoners achter een blokaansluiting voor elektriciteit of warmte
 
 Handelende in overeenstemming met de Staatssecretaris van Financiën – Fiscaliteit en Belastingdienst;
@@ -18,7 +44,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1.1. (begripsbepalingen)
+##### Artikel 1.1. (begripsbepalingen)
 
 In deze regeling wordt verstaan onder:
 
@@ -78,7 +104,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Criteria voor subsidieverlening
 
-#### Artikel 2.1. (subsidieverlening)
+##### Artikel 2.1. (subsidieverlening)
 
 1. De minister kan op aanvraag subsidie verlenen voor het ten goede laten komen van een tegemoetkoming voor hoge elektriciteits- of warmtetarieven aan bewoners van wooneenheden die zijn aangesloten op een blokaansluiting voor elektriciteit of warmte.
 
@@ -104,7 +130,7 @@ In deze regeling wordt verstaan onder:
 
 - c. elektriciteit van € 0,204588512 per kWh of lager.
 
-#### Artikel 2.2. (aanvrager)
+##### Artikel 2.2. (aanvrager)
 
 1. De subsidie voor een blokaansluiting voor elektriciteit kan worden aangevraagd door de persoon die een overeenkomst heeft met een elektriciteitsleverancier voor de levering van elektriciteit aan de blokaansluiting voor elektriciteit.
 
@@ -124,7 +150,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 3. Berekening van de hoogte van de subsidie
 
-#### Artikel 3.1. (subsidie voor een blokaansluiting voor elektriciteit)
+##### Artikel 3.1. (subsidie voor een blokaansluiting voor elektriciteit)
 
 1. De subsidie voor een blokaansluiting voor elektriciteit bedraagt de som van de tegemoetkoming voor bewoners van wooneenheden die op een blokaansluiting voor elektriciteit zijn aangesloten, en de vergoeding voor de uitvoeringskosten van de subsidieontvanger.
 
@@ -148,7 +174,7 @@ In deze regeling wordt verstaan onder:
 
 3. De vergoeding voor de uitvoeringskosten, bedoeld in het eerste lid, bedraagt het product van € 8,62 en het aantal zelfstandige en onzelfstandige wooneenheden dat op de blokaansluiting voor elektriciteit is aangesloten.
 
-#### Artikel 3.2. (subsidie voor een blokaansluiting voor warmte)
+##### Artikel 3.2. (subsidie voor een blokaansluiting voor warmte)
 
 1. De subsidie voor een blokaansluiting voor warmte bedraagt de som van de tegemoetkoming voor bewoners van wooneenheden die op de blokaansluiting voor warmte zijn aangesloten, en de vergoeding voor de uitvoeringskosten van de subsidieontvanger.
 
@@ -172,7 +198,7 @@ In deze regeling wordt verstaan onder:
 
 3. De vergoeding voor de uitvoeringskosten, bedoeld in het eerste lid, bedraagt het product van € 8,62 en het aantal zelfstandige en onzelfstandige wooneenheden dat op de blokaansluiting voor warmte is aangesloten.
 
-#### Artikel 3.3. (bepaling aantal wooneenheden)
+##### Artikel 3.3. (bepaling aantal wooneenheden)
 
 1. Het aantal onzelfstandige wooneenheden, bedoeld in [artikel 3.1, tweede lid, onderdelen b en d, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.1&z=2023-09-29&g=2023-09-29), en [artikel 3.2, tweede lid, onderdelen b en d, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.2&z=2023-09-29&g=2023-09-29), is de som van:
 
@@ -184,7 +210,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 4. De subsidieverlening
 
-#### Artikel 4.1. (aanvraag)
+##### Artikel 4.1. (aanvraag)
 
 1. Een aanvraag voor subsidie kan worden ingediend in de periode van 25 april 2023 9:00 uur tot en met 31 oktober 2023, 17:00 uur.
 
@@ -214,7 +240,7 @@ In deze regeling wordt verstaan onder:
 
 - 2°. het aantal onzelfstandige wooneenheden dat is aangesloten op de blokaansluiting waarvoor de subsidie wordt aangevraagd, overeenkomstig het bepaalde in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.3&z=2023-09-29&g=2023-09-29).
 
-#### Artikel 4.2. (gegevensverstrekking)
+##### Artikel 4.2. (gegevensverstrekking)
 
 1. De Belastingdienst verstrekt aan de minister gegevens uit de basisregistratie personen, bedoeld in [artikel 1.2 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.2), waaruit blijkt of op een adres één of meer natuurlijke personen zijn ingeschreven en indien dat het geval is, hoeveel personen op dat adres zijn ingeschreven.
 
@@ -228,13 +254,13 @@ In deze regeling wordt verstaan onder:
 
 - d. de naam van de elektriciteitsleverancier of gasleverancier.
 
-#### Artikel 4.3. (beslistermijn)
+##### Artikel 4.3. (beslistermijn)
 
 1. De minister beslist op een aanvraag voor subsidie binnen 13 weken na ontvangst van de volledige aanvraag.
 
 2. De termijn, bedoeld in het eerste lid, kan eenmaal met ten hoogste 13 weken worden verlengd.
 
-#### Artikel 4.4. (afwijzingsgronden)
+##### Artikel 4.4. (afwijzingsgronden)
 
 De minister beslist afwijzend op een aanvraag voor subsidie, indien:
 
@@ -244,13 +270,13 @@ De minister beslist afwijzend op een aanvraag voor subsidie, indien:
 
 - c. de subsidieaanvrager reeds subsidie heeft ontvangen voor het in 2023 toepassen van een prijsplafond overeenkomstig de [Subsidieregeling bekostiging plafond energietarieven kleinverbruikers 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047628) voor het leveren van elektriciteit, gas of warmte aan de wooneenheden die zijn aangesloten op de blokaansluiting waarvoor de aanvraag wordt ingediend.
 
-#### Artikel 4.5. (transparantie)
+##### Artikel 4.5. (transparantie)
 
 De minister maakt gegevens bekend waaruit blijkt voor welke blokaansluiting een subsidieaanvraag is ingediend, toegewezen of afgewezen, zo spoedig mogelijk nadat een aanvraag is ingediend of na een besluit op een aanvraag.
 
 ### Hoofdstuk 5. Verplichtingen voor de subsidieontvanger
 
-#### Artikel 5.1. (verrekenen van de tegemoetkoming)
+##### Artikel 5.1. (verrekenen van de tegemoetkoming)
 
 1. De subsidieontvanger brengt de tegemoetkoming voor bewoners van wooneenheden die op een blokaansluiting voor elektriciteit zijn aangesloten, bedoeld in [artikel 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.1&z=2023-09-29&g=2023-09-29), of de tegemoetkoming voor bewoners van wooneenheden die op een blokaansluiting voor warmte zijn aangesloten, bedoeld in [artikel 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.2&z=2023-09-29&g=2023-09-29), volledig in mindering of laat die in mindering brengen op de betalingsverplichtingen voor de kosten voor elektriciteit of warmte in 2023 van bewoners waarbij:
 
@@ -284,7 +310,7 @@ De minister maakt gegevens bekend waaruit blijkt voor welke blokaansluiting een 
 
 - d. € 445,46 voor de tegemoetkoming voor warmte voor een onzelfstandige wooneenheid.
 
-#### Artikel 5.2. (administratie)
+##### Artikel 5.2. (administratie)
 
 1. De subsidieontvanger voert een zodanige administratie dat daaruit te allen tijde op een eenvoudige en duidelijke wijze is af te leiden dat de ontvanger voldoet aan de bij deze regeling gestelde eisen.
 
@@ -292,11 +318,11 @@ De minister maakt gegevens bekend waaruit blijkt voor welke blokaansluiting een 
 
 3. De subsidieontvanger verleent gedurende vijf jaar na de datum van de beschikking tot subsidievaststelling medewerking aan een evaluatie van de doeltreffendheid en de effecten van de aan hem verleende subsidie, voor zover medewerking redelijkerwijs van hem kan worden verlangd.
 
-#### Artikel 5.3. (gegevens accountant)
+##### Artikel 5.3. (gegevens accountant)
 
 Indien bij de controle op de naleving van de aan de subsidieverstrekking verbonden voorwaarden en verplichtingen onregelmatigheden worden geconstateerd, kan de minister van de subsidieontvanger een rapport van feitelijke bevindingen van een accountant verlangen, opgesteld volgens de door de minister gegeven aanwijzingen.
 
-#### Artikel 5.4. (overige gegevens)
+##### Artikel 5.4. (overige gegevens)
 
 1. De subsidieontvanger deelt onverwijld de indiening bij de rechtbank van een verzoek tot faillietverklaring van hem, tot verlening van surseance van betaling aan hem of tot toepassing van de schuldsaneringsregeling natuurlijke personen over hem schriftelijk mee aan de minister.
 
@@ -304,7 +330,7 @@ Indien bij de controle op de naleving van de aan de subsidieverstrekking verbond
 
 ### Hoofdstuk 6. Bevoorschotting en vaststelling
 
-#### Artikel 6.1. (voorschotten subsidieverlening voor 1 augustus 2023)
+##### Artikel 6.1. (voorschotten subsidieverlening voor 1 augustus 2023)
 
 1. Indien de subsidieverlening voor 1 augustus 2023 geschiedt, verleent de minister twee voorschotten waarbij:
 
@@ -324,29 +350,29 @@ Indien bij de controle op de naleving van de aan de subsidieverstrekking verbond
 
 - b. het tweede voorschot 100% van de som van de bedragen, bedoeld in [artikel 3.2, tweede lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.2&z=2023-09-29&g=2023-09-29).
 
-#### Artikel 6.2. (voorschotten subsidieverlening na 31 juli 2023)
+##### Artikel 6.2. (voorschotten subsidieverlening na 31 juli 2023)
 
 1. Indien de subsidieverlening na 31 juli 2023 geschiedt, verleent de minister één voorschot van 100% van het bedrag, bedoeld in de [artikelen 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.1&z=2023-09-29&g=2023-09-29), of [3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.2&z=2023-09-29&g=2023-09-29).
 
 2. Het voorschot, bedoeld in het eerste lid, wordt uitgekeerd binnen twee weken nadat de subsidie is verleend.
 
-#### Artikel 6.3. (subsidievaststelling)
+##### Artikel 6.3. (subsidievaststelling)
 
 De minister stelt uiterlijk op 1 oktober 2024 de subsidie ambtshalve vast.
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 7.1. (mandaat)
+##### Artikel 7.1. (mandaat)
 
 De minister kan mandaat verlenen aan de directeur-generaal Belastingdienst van het Ministerie van Financiën voor het uitvoeren van deze regeling.
 
-#### Artikel 7.2. (inwerkingtreding en vervaldatum)
+##### Artikel 7.2. (inwerkingtreding en vervaldatum)
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 april 2028, met dien verstande dat zij van toepassing blijft op subsidies die voor die datum zijn verstrekt.
 
-#### Artikel 7.3. (citeertitel)
+##### Artikel 7.3. (citeertitel)
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling tegemoetkoming blokaansluitingen.
 

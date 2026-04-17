@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling Uitvoeringsagenda Faro"
+title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 7 juli 2023, nr. WJZ/39385155, houdende regeling voor subsidieverstrekking ter implementatie van de Uitvoeringsagenda Faro (Subsidieregeling Uitvoeringsagenda Faro)"
 identifier: "BWBR0048419"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-11-25
-laatste_update: 2025-11-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048419"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-11-25"
+last_updated: "2025-11-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048419"
+soort: "ministeriele-regeling"
+stam_id: "16808153"
+version_id: "31094662"
+internal_id: "C44514571"
+label_id: "16721904"
+dtd_version: "2.0"
+original_entry_into_force: "2025-11-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048419/2025-11-25/0"
+intitule_bron: "Stcrt.2023-20169"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-07-07"
+intitule_published: "2023-07-19"
+intitule_in_force: "2023-07-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-40377"
+original_signed_date: "2025-11-19"
+original_published_date: "2025-11-24"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-40377"
+entry_into_force_date: "2025-11-19"
+jci_1_3: "jci1.3:c:BWBR0048419&z=2025-11-25&g=2025-11-25"
+jci_1_0: "1.0:c:BWBR0048419&g=2025-11-25"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling Uitvoeringsagenda Faro"
+signed_date: "2025-11-19"
+entry_into_force: "2025-11-19"
 ---
-
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 7 juli 2023, nr. WJZ/39385155, houdende regeling voor subsidieverstrekking ter implementatie van de Uitvoeringsagenda Faro (Subsidieregeling Uitvoeringsagenda Faro)
 
 Gelet op de [artikelen 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.1) juncto [7.7, tweede lid, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.7), de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -44,17 +70,17 @@ In deze regeling wordt verstaan onder:
 
 - **Uitvoeringsagenda Faro:** publicatie ‘Onderweg naar Faro. De betekenis van het Verdrag van Faro voor het Nederlandse erfgoedveld en een vertaling in ambities. Uitvoeringsagenda Faro – deel I’, Rijksdienst voor het Cultureel Erfgoed, december 2022, gepubliceerd op de website [www.cultureelerfgoed.nl](http://www.cultureelerfgoed.nl).
 
-#### Artikel 2. Toepassing [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Subsidiabele activiteiten en doelgroep
+##### Artikel 3. Subsidiabele activiteiten en doelgroep
 
 1. De Minister kan op aanvraag subsidie verstrekken voor initiatieven op de Selectielijst Uitvoeringsagenda Faro.
 
 2. Subsidie wordt uitsluitend verstrekt aan initiatiefnemers die voor het desbetreffende initiatief worden genoemd op de Selectielijst Uitvoeringsagenda Faro voor het desbetreffende aanvraagtijdvak.
 
-#### Artikel 4. Subsidieplafonds
+##### Artikel 4. Subsidieplafonds
 
 1. De bedragen die ten hoogste voor subsidieverstrekking beschikbaar zijn, zullen voorafgaand aan de opening van elk in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=7&z=2025-11-25&g=2025-11-25), bedoeld aanvraagtijdvak, door wijziging van dit artikel aan de regeling worden toegevoegd, met dien verstande dat het totaalbedrag van deze subsidieplafonds niet meer kan bedragen dan € 4.800.000,–.
 
@@ -64,13 +90,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 4. Voor subsidieverstrekking die betrekking heeft op het derde aanvraagtijdvak, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=7&z=2025-11-25&g=2025-11-25), ten behoeve van initiatieven die zijn opgenomen in de 'Selectielijst Uitvoeringsagenda Faro: derde aanvraagtijdvak', zoals vastgesteld als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&bijlage=3&z=2025-11-25&g=2025-11-25) bij deze regeling, is in totaal een bedrag van ten hoogste € 1.995.441 beschikbaar.
 
-#### Artikel 5. Hoogte subsidiebedrag
+##### Artikel 5. Hoogte subsidiebedrag
 
 1. De subsidie per initiatief bedraagt ten hoogste het bedrag dat is opgenomen in de Selectielijst Uitvoeringsagenda Faro.
 
 2. Een voorschot of betaling van het subsidiebedrag wordt aan een initiatiefnemer op Caribisch Nederland uitbetaald in US-dollars tegen de op dat moment geldende wisselkoers.
 
-#### Artikel 6. Subsidiabele kosten
+##### Artikel 6. Subsidiabele kosten
 
 1. Voor subsidie komen uitsluitend in aanmerking de redelijke kosten die noodzakelijk zijn voor de uitvoering van de initiatieven, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=3&z=2025-11-25&g=2025-11-25).
 
@@ -78,7 +104,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 3. Kosten van een vrijwilligersvergoeding komen niet voor subsidie in aanmerking.
 
-#### Artikel 7. Aanvraag subsidie
+##### Artikel 7. Aanvraag subsidie
 
 1. Aanvragen om subsidie als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=3&z=2025-11-25&g=2025-11-25), kunnen worden ingediend gedurende twee weken na de dag van bekendmaking van de Selectielijst Uitvoeringsagenda Faro in de Staatscourant. Op deze wijze zullen in totaal ten hoogste drie aanvraagtijdvakken worden opengesteld.
 
@@ -96,7 +122,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 6. In afwijking van het eerste lid kan de Minister de initiatiefnemer van een initiatief uit onderdeel B van de Selectielijst Uitvoeringsagenda Faro, bedoeld in [artikel 8, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=8&z=2025-11-25&g=2025-11-25), dat met inachtneming van de rangorde in aanmerking komt en waarvan de aanvraag volledig kan worden gehonoreerd, in de gelegenheid stellen om binnen twee weken na een schriftelijke mededeling van de Minister een aanvraag om subsidie in te dienen, indien er na beoordeling van de aanvragen voor initiatieven uit onderdeel A, bedoeld in artikel 8, derde lid, onderdeel a, nog budget resteert.
 
-#### Artikel 8. Selectievoorstel Uitvoeringsagenda Faro
+##### Artikel 8. Selectievoorstel Uitvoeringsagenda Faro
 
 1. Het Faro-netwerk doet een selectievoorstel Uitvoeringsagenda Faro aan de Minister, waarbij de waardering en prioritering van de initiatieven worden bepaald aan de hand van de mate waarin het desbetreffende initiatief bijdraagt aan de implementatie van het Faro-gedachtegoed.
 
@@ -148,11 +174,11 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 8. Indien een initiatief op meerdere Faro-thema’s betrekking heeft, rekent het Faro-netwerk dat initiatief voor de toepassing van het zevende lid toe aan het Faro-thema waarop de aanvraag overwegend betrekking heeft.
 
-#### Artikel 9. Selectielijst Uitvoeringsagenda Faro
+##### Artikel 9. Selectielijst Uitvoeringsagenda Faro
 
 De Minister stelt aan de hand van het selectievoorstel Uitvoeringsagenda Faro een Selectielijst Uitvoeringsagenda Faro vast als bijlage bij deze regeling, met voorstellen voor initiatieven die op grond van deze regeling voor subsidie in aanmerking kunnen komen.
 
-#### Artikel 10. Verstrekking subsidie en bevoorschotting
+##### Artikel 10. Verstrekking subsidie en bevoorschotting
 
 1. De Minister beslist op een aanvraag:
 
@@ -162,7 +188,7 @@ De Minister stelt aan de hand van het selectievoorstel Uitvoeringsagenda Faro ee
 
 2. Onverminderd [artikel 6.1 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=6.1) stemt de Minister de hoogte en het betalingsritme van voorschotten af op de door de subsidieontvanger aangegeven liquiditeitsbehoefte en de begrotingssystematiek van het Rijk.
 
-#### Artikel 11. Specifieke weigeringsgronden
+##### Artikel 11. Specifieke weigeringsgronden
 
 Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) kan de subsidie geheel of gedeeltelijk worden geweigerd voor zover:
 
@@ -170,17 +196,17 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 - b. de aanvraag om subsidie afwijkt van de informatie op basis waarvan de Selectielijst Uitvoeringsagenda Faro tot stand is gekomen.
 
-#### Artikel 12. Subsidieverplichting
+##### Artikel 12. Subsidieverplichting
 
 Voor de subsidieontvanger geldt in aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) de verplichting om het Faro-netwerk en andere relevante doelgroepen tenminste via het Faro-platform op [https://faro.cultureelerfgoed.nl](https://faro.cultureelerfgoed.nl) te informeren over de resultaten van het initiatief en aanbevelingen voor vergelijkbare initiatieven te delen.
 
-#### Artikel 13. Verantwoording en vaststelling subsidies tot € 25.000
+##### Artikel 13. Verantwoording en vaststelling subsidies tot € 25.000
 
 1. Indien de verleende subsidie minder dan € 25.000 bedraagt, stelt de Minister de subsidie ambtshalve vast binnen 22 weken na de datum, waarop de activiteiten uiterlijk moeten zijn verricht.
 
 2. De ontvanger van de subsidie toont op verzoek van de Minister op de in de beschikking aangegeven wijze aan dat de activiteiten waarvoor de subsidie is verleend, zijn verricht en dat is voldaan aan de aan de verleende subsidie verbonden verplichtingen.
 
-#### Artikel 14. Verantwoording en vaststelling subsidies vanaf € 25.000
+##### Artikel 14. Verantwoording en vaststelling subsidies vanaf € 25.000
 
 1. De subsidieontvanger dient binnen 22 weken na de datum waarop de activiteiten uiterlijk moeten zijn verricht een aanvraag tot vaststelling van de subsidie in, met gebruikmaking van het formulier dat daartoe door de Rijksdienst voor het Cultureel Erfgoed beschikbaar wordt gesteld.
 
@@ -190,7 +216,7 @@ Voor de subsidieontvanger geldt in aanvulling op [hoofdstuk 5 van de Kaderregeli
 
 4. De Minister besluit binnen 22 weken op een aanvraag om vaststelling.
 
-#### Artikel 15. Verantwoording en vaststelling subsidies aan bekostigde onderwijsinstellingen
+##### Artikel 15. Verantwoording en vaststelling subsidies aan bekostigde onderwijsinstellingen
 
 1. Indien de subsidieontvanger een bekostigde onderwijsinstelling is als bedoeld in [artikel 9.1 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=9.1), zijn de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=13&z=2025-11-25&g=2025-11-25) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0048419&artikel=14&z=2025-11-25&g=2025-11-25) niet van toepassing.
 
@@ -204,11 +230,11 @@ Voor de subsidieontvanger geldt in aanvulling op [hoofdstuk 5 van de Kaderregeli
 
 6. Subsidies als bedoeld in het vijfde lid kunnen uitsluitend worden aangewend voor het doel waarvoor de subsidie is verstrekt. Niet-bestede middelen worden teruggevorderd.
 
-#### Artikel 16. Inwerkingtreding en vervaldatum
+##### Artikel 16. Inwerkingtreding en vervaldatum
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt op 1 juli 2028.
 
-#### Artikel 17. Citeertitel
+##### Artikel 17. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling Uitvoeringsagenda Faro.
 

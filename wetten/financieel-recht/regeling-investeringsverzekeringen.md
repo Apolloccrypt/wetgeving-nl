@@ -1,20 +1,45 @@
 ---
 title: "Regeling investeringsverzekeringen"
 identifier: "BWBR0029242"
-categorie: "Financieel recht"
-publicatiedatum: 2010-12-25
-laatste_update: 2010-12-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029242"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-12-25"
+last_updated: "2010-12-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029242"
+soort: "ministeriele-regeling"
+stam_id: "11152513"
+version_id: "18242472"
+internal_id: "C25381781"
+label_id: "11126844"
+dtd_version: "2.0"
+original_entry_into_force: "2010-12-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029242/2010-12-25/0"
+intitule_bron: "Stcrt.2010-20978"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-12-16"
+intitule_published: "2010-12-24"
+intitule_in_force: "2010-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-20978"
+original_signed_date: "2010-12-16"
+original_published_date: "2010-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-20978"
+entry_into_force_date: "2010-12-25"
+jci_1_3: "jci1.3:c:BWBR0029242&z=2010-12-25&g=2010-12-25"
+jci_1_0: "1.0:c:BWBR0029242&g=2010-12-25"
+citeertitel_status: "redactioneel"
+signed_date: "2010-12-16"
+entry_into_force: "2010-12-25"
 ---
-
 # Regeling investeringsverzekeringen
 
 Gelet op [artikel 3, tweede en vijfde lid, van de Kaderwet financiële verstrekkingen Financiën](https://wetten.overheid.nl/jci1.3:c:BWBR0007886&artikel=3);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 1. In deze regeling wordt verstaan onder:
 
@@ -48,7 +73,7 @@ Besluit:
 
 3. Deze regeling is niet van toepassing op een ondernemer die geen economische activiteiten verricht van industriële of commerciële aard, bestaande in het aanbieden vangoederen of diensten op de markt en die behoort tot een groep waarvan de rechtspersoon die, alleen of samen met een andere groepsmaatschappij, aan het hoofd staat van die groep volgens zijn statuten buiten Nederland zijn zetel heeft.
 
-#### Artikel 2. Niet-commercieel risico
+##### Artikel 2. Niet-commercieel risico
 
 1. Met inachtneming van deze regeling kan de Staat het niet-commercieel risico van een ondernemer dat is verbonden aan een investering of een lening in verzekering nemen.
 
@@ -62,7 +87,7 @@ Besluit:
 
 - d. niet-nakoming of niet-erkenning van een aan de investering ten grondslag liggende overeenkomst door de autoriteiten van het investeringsland waarmee die overeenkomst is gesloten, voor zover dit bij een onherroepelijke uitspraak van een terzake bevoegde rechter of van een door partijen aangewezen arbiter is vastgesteld en die uitspraak niet door de autoriteiten van het investeringsland wordt opgevolgd.
 
-#### Artikel 3. Aan de investering en de lening gestelde eisen
+##### Artikel 3. Aan de investering en de lening gestelde eisen
 
 1. Voor verzekering komt alleen in aanmerking het niet-commercieel risico:
 
@@ -78,7 +103,7 @@ Besluit:
 
 - b. van een lening die wordt verstrekt in samenhang met een investering als bedoeld onder a.
 
-#### Artikel 4. Aan de verzekering te stellen eisen
+##### Artikel 4. Aan de verzekering te stellen eisen
 
 De Staat kan alleen een verzekering sluiten onder de volgende voorwaarden:
 
@@ -96,7 +121,7 @@ De Staat kan alleen een verzekering sluiten onder de volgende voorwaarden:
 
 - d. de verzekering vervalt indien niet langer wordt voldaan aan de criteria om te kunnen spreken van een investering of een lening.
 
-#### Artikel 5. Het sluiten van de verzekering
+##### Artikel 5. Het sluiten van de verzekering
 
 1. De Staat kan, alvorens hij een verzekering sluit, advies inwinnen bij derden.
 
@@ -104,7 +129,7 @@ De Staat kan alleen een verzekering sluiten onder de volgende voorwaarden:
 
 3. De behandeling van een verzekeringsaanvraag en van een eventuele schadeclaim geschieden uitsluitend via de uitvoerder.
 
-#### Artikel 6. Gevallen, waarin geen verzekering wordt gesloten
+##### Artikel 6. Gevallen, waarin geen verzekering wordt gesloten
 
 De Staat sluit in ieder geval geen verzekering, indien:
 
@@ -114,7 +139,7 @@ De Staat sluit in ieder geval geen verzekering, indien:
 
 - c. het sluiten van de verzekering tot gevolg heeft dat het totaal uit hoofde van deze regeling te verzekeren bedrag voor enig investeringsland dat de Minister kan vaststellen te boven gaat.
 
-#### Artikel 7. Slotbepaling
+##### Artikel 7. Slotbepaling
 
 1. De Tijdelijke Regeling herverzekering investeringen wordt ingetrokken.
 

@@ -1,13 +1,37 @@
 ---
 title: "Regeling reserve-overdracht door ABP en Spoorwegpensioenfonds"
 identifier: "BWBR0004706"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1990-10-01
-laatste_update: 1990-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004706"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1990-10-01"
+last_updated: "1990-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004706"
+soort: "ministeriele-regeling"
+stam_id: "4655893"
+version_id: "6472082"
+internal_id: "C6718961"
+label_id: "4634084"
+dtd_version: "2.0"
+original_entry_into_force: "1990-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004706/1990-10-01/0"
+intitule_bron: "Stcrt.1990-188"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-01-30"
+intitule_published: "1990-09-27"
+intitule_in_force: "1990-09-27"
+intitule_status: "goed"
+original_publication: "Stcrt.1990-188"
+original_signed_date: "1990-01-30"
+original_published_date: "1990-09-27"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1990-10-01"
+jci_1_3: "jci1.3:c:BWBR0004706&z=1990-10-01&g=1990-10-01"
+jci_1_0: "1.0:c:BWBR0004706&g=1990-10-01"
+citeertitel_status: "officieel"
+signed_date: "1990-01-30"
+entry_into_force: "1990-10-01"
 ---
-
 # Regeling reserve-overdracht door ABP en Spoorwegpensioenfonds
 
 Gelet op artikel 3 van het Besluit reserve-overdracht ambtenaren (Stb. 1988, 154) en [artikel 3 van het Besluit reserve-overdracht N.S.-personeel](https://wetten.overheid.nl/jci1.3:c:BWBR0004300&artikel=3) (Stb. 1988, 153);
@@ -20,7 +44,7 @@ Besluit:
 
 #### Ouderdomspensioen
 
-#### Artikel 1
+##### Artikel 1
 
 De contante-waardefactoren bij oplopende leeftijden in gehele jaren voor de berekening van de overdrachtswaarde van een ouderdomspensioen hebben een grootte als vastgesteld in de volgende tabellen:
 
@@ -86,7 +110,7 @@ De contante-waardefactoren bij oplopende leeftijden in gehele jaren voor de bere
 
 #### (Bijzonder) Weduwenpensioen/Weduwnaarspensioen
 
-#### Artikel 2
+##### Artikel 2
 
 De contante-waardefactoren bij oplopende leeftijden in gehele jaren voor de berekening van de overdrachtswaarde van een weduwenpensioen of weduwnaarspensioen en van een bijzonder weduwenpensioen of weduwnaarspensioen hebben een grootte als vastgesteld in de volgende tabellen:
 
@@ -150,11 +174,11 @@ De contante-waardefactoren bij oplopende leeftijden in gehele jaren voor de bere
 | 4,6212 | 0,1697 | 64 | 1,1704 | 0,0000 |
 | 4,6293 | 0,1059 | 65 | 1,1705 | 0,0000 |
 
-#### Artikel 3
+##### Artikel 3
 
 De regeling van de Minister van Binnenlandse Zaken van 25 april 1988 (Stcrt. 107) wordt ingetrokken.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling, die met de toelichting in de Nederlandse Staatscourant zal worden geplaatst, treedt in werking met ingang van de eerste kalendermaand na de datum van uitgifte van de Nederlandse Staatscourant waarin zij wordt geplaatst.
 

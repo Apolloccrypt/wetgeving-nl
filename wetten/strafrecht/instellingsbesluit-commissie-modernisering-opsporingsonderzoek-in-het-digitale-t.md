@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Commissie modernisering opsporingsonderzoek in het digitale tijdperk"
+title: "Besluit van de Minister van Veiligheid en Justitie van 3 juli 2017, nr.2094030, houdende instelling van de Commissie modernisering opsporingsonderzoek in het digitale tijdperk (Instellingsbesluit Commissie modernisering opsporingsonderzoek in het digitale tijdperk)"
 identifier: "BWBR0039770"
-categorie: "Strafrecht"
-publicatiedatum: 2018-01-01
-laatste_update: 2018-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039770"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-01-01"
+last_updated: "2018-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039770"
+soort: "ministeriele-regeling"
+stam_id: "14067493"
+version_id: "24219762"
+internal_id: "C34790691"
+label_id: "14028564"
+dtd_version: "2.0"
+original_entry_into_force: "2017-07-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039770/2018-01-01/0"
+intitule_bron: "Stcrt.2017-39081"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-07-03"
+intitule_published: "2017-07-12"
+intitule_in_force: "2017-07-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-39081"
+original_signed_date: "2017-07-03"
+original_published_date: "2017-07-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-39081"
+entry_into_force_date: "2017-07-13"
+jci_1_3: "jci1.3:c:BWBR0039770&z=2018-01-01&g=2018-01-01"
+jci_1_0: "1.0:c:BWBR0039770&g=2018-01-01"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Commissie modernisering opsporingsonderzoek in het digitale tijdperk"
+signed_date: "2017-07-03"
+entry_into_force: "2017-07-13"
 ---
-
 # Besluit van de Minister van Veiligheid en Justitie van 3 juli 2017, nr.2094030, houdende instelling van de Commissie modernisering opsporingsonderzoek in het digitale tijdperk (Instellingsbesluit Commissie modernisering opsporingsonderzoek in het digitale tijdperk)
 
 Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -22,13 +48,13 @@ In dit besluit wordt verstaan onder:
 
 - b. **commissie:** de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039770&artikel=2&z=2018-01-01&g=2018-01-01).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een commissie modernisering opsporingsonderzoek in het digitale tijdperk.
 
 2. De commissie heeft tot taak de Ministers te adviseren over de opdracht als gevoegd in de bijlage, inzake de modernisering van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903).
 
-#### Artikel 3
+##### Artikel 3
 
 1. De commissie bestaat uit de volgende leden:
 
@@ -70,7 +96,7 @@ In dit besluit wordt verstaan onder:
 
 3. Bij tussentijds vertrek van een lid kunnen de Ministers een ander lid benoemen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De commissie wordt ingesteld voor de periode van1 juni 2017 tot 1 mei 2018
 
@@ -78,19 +104,19 @@ In dit besluit wordt verstaan onder:
 
 3. De commissie kan zich door andere personen doen bijstaan voor zover dat voor de vervulling van haar taak nodig is.
 
-#### Artikel 5
+##### Artikel 5
 
 De voorzitter van de Commissie modernisering opsporingsonderzoek in het digitale tijdperk ontvangt een vaste vergoeding, waarbij de salarisschaal wordt vastgesteld op schaal 18 trede 10 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 0,2 (1 dag per week).
 
-#### Artikel 6
+##### Artikel 6
 
 De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden de eventuele bescheiden betreffende die werkzaamheden over aan het archief van de Directie Wetgeving en Juridische Zaken van het Ministerie van Justitie en Veiligheid.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juni 2017.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie modernisering opsporingsonderzoek in het digitale tijdperk.
 

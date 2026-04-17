@@ -1,13 +1,37 @@
 ---
-title: "Subsidieregeling LAKS, JOB en Combo"
+title: "Regeling houdende een subsidieregeling voor leerling- en deelnemersorganisaties binnen het voortgezet onderwijs (vo) en het beroepsonderwijs en volwasseneneducatie (bve)"
 identifier: "BWBR0018144"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-08-01
-laatste_update: 2022-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018144"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-08-01"
+last_updated: "2022-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018144"
+soort: "ministeriele-regeling"
+stam_id: "6946163"
+version_id: "11816932"
+internal_id: "C29158401"
+label_id: "6934364"
+original_entry_into_force: "2005-04-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018144/2022-08-01/0"
+intitule_bron: "Uitleg.2005-6"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-03-24"
+intitule_published: "2005-04-20"
+intitule_in_force: "2005-04-20"
+intitule_status: "goed"
+original_publication: "Uitleg.2005-6"
+original_signed_date: "2005-03-24"
+original_published_date: "2005-04-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2005-04-22"
+jci_1_3: "jci1.3:c:BWBR0018144&z=2022-08-01&g=2022-08-01"
+jci_1_0: "1.0:c:BWBR0018144&g=2022-08-01"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling LAKS, JOB en Combo"
+signed_date: "2005-03-24"
+entry_into_force: "2005-04-22"
 ---
-
 # Regeling houdende een subsidieregeling voor leerling- en deelnemersorganisaties binnen het voortgezet onderwijs (vo) en het beroepsonderwijs en volwasseneneducatie (bve)
 
 Gelet op:
@@ -18,7 +42,7 @@ Besluit
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -40,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - i. subsidieontvanger: LAKS - de vereniging Landelijk Aktie Komitee Scholieren, gevestigd te Amsterdam, JOB - de vereniging Jongerenorganisatie Beroepsonderwijs, gevestigd te Amsterdam, en Combo - de Stichting Combinatie Onderwijsorganisatie, een uitvoeringsorganisatie, gevestigd te Amsterdam.
 
-#### Artikel 2. Doel van de subsidie voor LAKS en JOB
+##### Artikel 2. Doel van de subsidie voor LAKS en JOB
 
 1. De minister verstrekt LAKS en JOB subsidie per boekjaar voor het ontwikkelen en in stand houden van herkenbare belangenorganisaties voor het voortgezet onderwijs onderscheidenlijk de BVE-sector die tot taak heeft:
 
@@ -58,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 - d. het organiseren en coördineren van regionale en landelijke acties en activiteiten.
 
-#### Artikel 3. Doel van de subsidie voor Combo
+##### Artikel 3. Doel van de subsidie voor Combo
 
 1. De minister verstrekt Combo subsidie per boekjaar voor in ieder geval het ontwikkelen en in stand houden van een servicecentrum dat en een facilitaire organisatie die, ten behoeve van LAKS en JOB, tot taak heeft:
 
@@ -86,7 +110,7 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 2. Subsidieaanvraag
 
-#### Artikel 4. Subsidieaanvraag LAKS en JOB
+##### Artikel 4. Subsidieaanvraag LAKS en JOB
 
 1. Subsidie wordt jaarlijks op aanvraag verleend na goedkeuring door de directie VO, onderscheidenlijk BVE van het door LAKS en JOB bij de desbetreffende directie ingediende activiteitenplan en de daarbij behorende begroting.
 
@@ -106,7 +130,7 @@ In deze regeling wordt verstaan onder:
 
 5. De minister kan nadere eisen stellen aan de wijze waarop de onderdelen van de subsidieaanvraag, bedoeld in het eerste lid, worden uitgewerkt.
 
-#### Artikel 5. Subsidieaanvraag Combo
+##### Artikel 5. Subsidieaanvraag Combo
 
 1. Subsidie wordt jaarlijks op aanvraag verleend na goedkeuring van het door Combo ingediende activiteitenplan en de daarbij behorende begroting.
 
@@ -132,27 +156,27 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 3. Subsidieverlening
 
-#### Artikel 6. Tijdvak subsidieverlening
+##### Artikel 6. Tijdvak subsidieverlening
 
 Subsidie wordt telkens verleend voor een boekjaar.
 
-#### Artikel 7. Niet vervullen begrotingsvoorwaarde
+##### Artikel 7. Niet vervullen begrotingsvoorwaarde
 
 In geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34), worden de op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018144&paragraaf=2&artikel=4&z=2022-08-01&g=2022-08-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0018144&paragraaf=2&artikel=5&z=2022-08-01&g=2022-08-01) verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting ter beschikking staat.
 
-#### Artikel 8. Voorschotten
+##### Artikel 8. Voorschotten
 
 De minister betaalt per kwartaal een voorschot op de verleende subsidies.
 
 #### Paragraaf 4. Subsidieverplichtingen
 
-#### Artikel 9. Egalisatiereserve
+##### Artikel 9. Egalisatiereserve
 
 1. De subsidieontvanger kan een egalisatiereserve vormen als bedoeld in [artikel 4:72 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:72).
 
 2. Bij de subsidieverlening kan de omvang van de egalisatiereserve in aanmerking worden genomen.
 
-#### Artikel 10. Voorafgaande instemming met rechtshandelingen na subsidieverlening
+##### Artikel 10. Voorafgaande instemming met rechtshandelingen na subsidieverlening
 
 1. Voor de navolgende handelingen is door de subsidieontvanger toestemming van de minister vereist:
 
@@ -174,7 +198,7 @@ De minister betaalt per kwartaal een voorschot op de verleende subsidies.
 
 2. LAKS, JOB en Combo dienen wijzingen van de statuten ten minste drie maanden voor de verwachtte datum van de gewenste wijziging mee te delen aan het Ministerie van OCW.
 
-#### Artikel 11. Subsidievaststelling
+##### Artikel 11. Subsidievaststelling
 
 1. De subsidieontvanger doet jaarlijks uiterlijk 1 juli na afloop van het boekjaar een aanvraag tot vaststelling van de subsidie voor het voorafgaande kalenderjaar.
 
@@ -190,7 +214,7 @@ De minister betaalt per kwartaal een voorschot op de verleende subsidies.
 
 7. In het subsidiebedrag zijn de kosten van de verklaring bedoeld in het tweede lid begrepen.
 
-#### Artikel 12. Informatieplicht
+##### Artikel 12. Informatieplicht
 
 1. De subsidieontvanger verstrekt aan de minister en de door hem aangewezen personen de gevraagde inlichtingen.
 
@@ -204,11 +228,11 @@ De minister betaalt per kwartaal een voorschot op de verleende subsidies.
 
 #### Paragraaf 5. Slotbepalingen
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 De regeling treedt in werking met ingang van de tweede dag na de dagtekening van het Gele Katern waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2005.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als Subsidieregeling LAKS, JOB en Combo.
 

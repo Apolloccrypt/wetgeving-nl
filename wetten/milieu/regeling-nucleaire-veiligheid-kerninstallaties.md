@@ -1,13 +1,39 @@
 ---
-title: "Regeling nucleaire veiligheid kerninstallaties"
+title: "Regeling van de Minister van Infrastructuur en Milieu en de Minister van Sociale Zaken en Werkgelegenheid van 6 juni 2017, nr. IENM/BSK-2017/128532, houdende algemene regels inzake de nucleaire veiligheid van kerninstallaties (Regeling nucleaire veiligheid kerninstallaties)"
 identifier: "BWBR0039625"
-categorie: "Milieu"
-publicatiedatum: 2018-02-06
-laatste_update: 2018-02-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039625"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-02-06"
+last_updated: "2018-02-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039625"
+soort: "ministeriele-regeling"
+stam_id: "14019293"
+version_id: "24137692"
+internal_id: "C34680811"
+label_id: "13981474"
+dtd_version: "2.0"
+original_entry_into_force: "2017-06-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039625/2018-02-06/0"
+intitule_bron: "Stcrt.2017-30889"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-06-06"
+intitule_published: "2017-06-13"
+intitule_in_force: "2017-06-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-30889"
+original_signed_date: "2017-06-06"
+original_published_date: "2017-06-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-30889"
+entry_into_force_date: "2017-06-14"
+jci_1_3: "jci1.3:c:BWBR0039625&z=2018-02-06&g=2018-02-06"
+jci_1_0: "1.0:c:BWBR0039625&g=2018-02-06"
+citeertitel_status: "officieel"
+short_title: "Regeling nucleaire veiligheid kerninstallaties"
+signed_date: "2017-06-06"
+entry_into_force: "2017-06-14"
 ---
-
 # Regeling van de Minister van Infrastructuur en Milieu en de Minister van Sociale Zaken en Werkgelegenheid van 6 juni 2017, nr. IENM/BSK-2017/128532, houdende algemene regels inzake de nucleaire veiligheid van kerninstallaties (Regeling nucleaire veiligheid kerninstallaties)
 
 Gelet op [Richtlijn 2014/87](32014L0087)/Euratom van de Raad van 8 juli 2014 tot wijziging van [Richtlijn 2009/71](32009L0071)/Euratom tot vaststelling van een communautair kader voor de nucleaire veiligheid van kerninstallaties (PbEU 2014, L 219) en de [artikelen 15c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15c), [18a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=18a), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=21), en [67, eerste lid, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=67), in samenhang met [artikel 76, vierde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=76);
@@ -16,11 +42,11 @@ Besluiten:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. (onderwerp en toepassingsgebied)
+##### Artikel 1. (onderwerp en toepassingsgebied)
 
 Deze regeling heeft betrekking op de nucleaire veiligheid van kerninstallaties.
 
-#### Artikel 2. (begripsomschrijvingen)
+##### Artikel 2. (begripsomschrijvingen)
 
 In deze regeling wordt verstaan onder:
 
@@ -52,7 +78,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Verantwoordelijkheden en verplichtingen van vergunninghouders
 
-#### Artikel 3. (verantwoordelijkheid voor nucleaire veiligheid)
+##### Artikel 3. (verantwoordelijkheid voor nucleaire veiligheid)
 
 1. De vergunninghouder is verantwoordelijk voor de nucleaire veiligheid van de kerninstallatie.
 
@@ -60,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 3. De vergunninghouder kan de verantwoordelijkheid voor de nucleaire veiligheid van de kerninstallatie niet overdragen.
 
-#### Artikel 4. (financiële en personele middelen)
+##### Artikel 4. (financiële en personele middelen)
 
 1. De vergunninghouder beschikt over voldoende financiële en personele middelen om te voldoen aan de verplichtingen inzake de nucleaire veiligheid van de kerninstallatie.
 
@@ -74,7 +100,7 @@ In deze regeling wordt verstaan onder:
 
 4. De vergunninghouder volgt de aanwijzing volledig, juist en binnen de gestelde termijn op.
 
-#### Artikel 5. (informatievoorziening bevolking en autoriteiten)
+##### Artikel 5. (informatievoorziening bevolking en autoriteiten)
 
 1. De vergunninghouder verstrekt aan de bevolking, lokale autoriteiten en belanghebbenden in de nabijheid van de kerninstallatie noodzakelijke informatie over de nucleaire veiligheid van de kerninstallatie.
 
@@ -92,7 +118,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 3. Specifieke verplichtingen vergunninghouders in verband met de nucleaire veiligheidsdoelstelling
 
-#### Artikel 6. (nucleaire veiligheidsdoelstelling voor kerninstallaties)
+##### Artikel 6. (nucleaire veiligheidsdoelstelling voor kerninstallaties)
 
 1. De vergunninghouder van een kerninstallatie waarvoor na 14 augustus 2014 een vergunning voor het oprichten ervan is of wordt verleend, stelt zich bij het oprichten, in werking brengen, in werking houden, het buiten gebruik stellen en het ontmantelen van de kerninstallatie ten doel om, en neemt alle maatregelen die nodig zijn om, ongevallen te voorkomen, of, als een ongeval zich voordoet, de gevolgen van dat ongeval te beperken en te vermijden dat:
 
@@ -102,7 +128,7 @@ In deze regeling wordt verstaan onder:
 
 2. Ten aanzien van een kerninstallatie waarvoor vóór 14 augustus 2014 een vergunning voor het oprichten ervan is verleend geldt de doelstelling, bedoeld in het eerste lid, als referentie- en beoordelingskader, in ieder geval bij de veiligheidsevaluatie, bedoeld in artikel 11, voor het door de vergunninghouder tijdig nemen van redelijkerwijs haalbare maatregelen ter verbetering van de nucleaire veiligheid van die kerninstallatie.
 
-#### Artikel 7. (verdediging in de diepte)
+##### Artikel 7. (verdediging in de diepte)
 
 1. Ter verwezenlijking van de nucleaire veiligheidsdoelstelling, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=6&z=2018-02-06&g=2018-02-06), en ter waarborging van een hoog niveau van nucleaire veiligheid past de vergunninghouder van een kerninstallatie het principe van verdediging in de diepte toe.
 
@@ -122,7 +148,7 @@ In deze regeling wordt verstaan onder:
 
 3. De vergunninghouder van een kerninstallatie als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=6&z=2018-02-06&g=2018-02-06), neemt ter uitvoering van het eerste en tweede lid de redelijkerwijs haalbare maatregelen.
 
-#### Artikel 8. (effectieve nucleaire veiligheidscultuur)
+##### Artikel 8. (effectieve nucleaire veiligheidscultuur)
 
 1. Ter verwezenlijking van de nucleaire veiligheidsdoelstelling, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=6&z=2018-02-06&g=2018-02-06), en ter waarborging van een hoog niveau van nucleaire veiligheid neemt de vergunninghouder van een kerninstallatie maatregelen om een effectieve nucleaire veiligheidscultuur binnen de kerninstallatie te bevorderen en te versterken.
 
@@ -146,7 +172,7 @@ In deze regeling wordt verstaan onder:
 
 - g. het zorgen voor algemene opleidings- en trainingsdoelstellingen en voorzieningen als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=10&z=2018-02-06&g=2018-02-06) voor het veilig in werking hebben van de kerninstallatie, inclusief organisatorische doelstellingen met betrekking tot het menselijk handelen.
 
-#### Artikel 9. (managementsysteem)
+##### Artikel 9. (managementsysteem)
 
 1. Bij de inrichting en uitvoering van het managementsysteem, geeft de vergunninghouder van een kerninstallatie de hoogste prioriteit aan de nucleaire veiligheid van de kerninstallatie. Het managementsysteem omvat in elk geval:
 
@@ -166,7 +192,7 @@ In deze regeling wordt verstaan onder:
 
 3. De documentatie van het managementsysteem moet begrijpelijk zijn voor een ieder die er gebruik van maakt. De documenten moeten actueel, leesbaar, snel identificeerbaar en beschikbaar zijn op de plaatsen waar ze moeten worden gebruikt.
 
-#### Artikel 10. (opleidings- en trainingsdoelstellingen)
+##### Artikel 10. (opleidings- en trainingsdoelstellingen)
 
 1. De vergunninghouder van een kerninstallatie legt de opleidings- en trainingsdoelstellingen, bedoeld in [artikel 8, tweede lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=8&z=2018-02-06&g=2018-02-06), vast in een strategisch document en evalueert en actualiseert deze doelstellingen regelmatig, waarbij hij rekening houdt met de interne en externe ontwikkelingen op het gebied van nucleaire veiligheid.
 
@@ -180,7 +206,7 @@ In deze regeling wordt verstaan onder:
 
 - c. instructies en praktijkoefeningen voor werknemers voor een normale werking van de kerninstallatie en de gevallen, bedoeld onder b.
 
-#### Artikel 11. (continue verbetering en veiligheidsevaluaties)
+##### Artikel 11. (continue verbetering en veiligheidsevaluaties)
 
 1. De vergunninghouder van een kerninstallatie zorgt voor het continu verbeteren van de nucleaire veiligheid.
 
@@ -210,13 +236,13 @@ In deze regeling wordt verstaan onder:
 
 5. De Autoriteit kan, indien dat naar haar oordeel met het oog op de nucleaire veiligheid wenselijk is, de vergunninghouder verplichten om binnen het tijdvak van tien jaar tussentijds een periodieke veiligheidsevaluatie uit te voeren.
 
-#### Artikel 12. (maatregelen ter verbetering van de nucleaire veiligheid)
+##### Artikel 12. (maatregelen ter verbetering van de nucleaire veiligheid)
 
 1. Wanneer de onderzoeken en evaluaties, bedoeld in [artikel 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=11&z=2018-02-06&g=2018-02-06), daartoe aanleiding geven, neemt de vergunninghouder van een kerninstallatie de redelijkerwijs haalbare maatregelen om de nucleaire veiligheid te verbeteren.
 
 2. Indien maatregelen ter verbetering van de nucleaire veiligheid aanpassing van vergunningvoorschriften vergen, doet de vergunninghouder bij de Autoriteit zo spoedig mogelijk een aanvraag tot wijziging van die voorschriften, bij nalaten waarvan de Autoriteit ambtshalve de vergunning wijzigt.
 
-#### Artikel 13. (verslaglegging continue verbetering en beleidsevaluaties)
+##### Artikel 13. (verslaglegging continue verbetering en beleidsevaluaties)
 
 1. De vergunninghouder van een kerninstallatie maakt verslagen van de evaluaties en onderzoeken, bedoeld in [artikel 11, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=11&z=2018-02-06&g=2018-02-06), waarin hij de gevolgde meet- en onderzoeksmethodes verantwoordt en de mogelijkheden om de nucleaire veiligheid van de kerninstallatie te verbeteren beschrijft, met het daarbij behorende tijdpad voor de uitvoering van deze verbeteringen.
 
@@ -226,7 +252,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 4. Voorzieningen bij ongevallen
 
-#### Artikel 14. (voorzieningen voor ongevallen)
+##### Artikel 14. (voorzieningen voor ongevallen)
 
 1. De vergunninghouder van een kerninstallatie beschikt over procedures en maatregelen voor het beheer van ongevallen die zich kunnen voordoen in operationele modi van de kerninstallatie en voor ongevallen waarbij verschillende eenheden binnen de kerninstallatie tegelijkertijd betrokken zijn of die van invloed zijn op verschillende eenheden tegelijkertijd.
 
@@ -252,13 +278,13 @@ In deze regeling wordt verstaan onder:
 
 #### § 5. Nadere eisen ten aanzien van algemene regels
 
-#### Artikel 15. (nadere eisen in vergunningen)
+##### Artikel 15. (nadere eisen in vergunningen)
 
 De Autoriteit kan aan een vergunning als bedoeld in [artikel 15, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), in het belang van de nucleaire veiligheid van de kerninstallatie voorschriften verbinden waarin nadere eisen worden gesteld ten aanzien van de in deze regeling opgenomen verplichtingen.
 
 #### § 6. Verplichtingen voor bestuursorganen
 
-#### Artikel 16. (effectieve nucleaire veiligheidscultuur)
+##### Artikel 16. (effectieve nucleaire veiligheidscultuur)
 
 1. Ter verwezenlijking van de nucleaire veiligheidsdoelstelling, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=6&z=2018-02-06&g=2018-02-06), en ter waarborging van een hoog niveau van nucleaire veiligheid neemt de Autoriteit maatregelen om een effectieve nucleaire veiligheidscultuur binnen de organisatie te bevorderen, te versterken en continu te verbeteren.
 
@@ -270,13 +296,13 @@ De Autoriteit kan aan een vergunning als bedoeld in [artikel 15, onderdeel b, va
 
 - c. een gedetailleerde en volledige beschrijving van de organisatiestructuur, de organisatieonderdelen en de daarvoor benodigde functies, inclusief taken, verantwoordelijkheden, bevoegdheden en processen, en van de systemen van kwaliteitsborging.
 
-#### Artikel 17. (informatievoorziening)
+##### Artikel 17. (informatievoorziening)
 
 1. De Autoriteit, in het kader van de crisisvoorbereiding, en de minister, in het kader van de crisisbeheersing, verstrekken bij een ongeval onmiddellijk informatie aan de bevoegde autoriteiten van andere lidstaten in de nabijheid van de kerninstallatie.
 
 2. [Artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=2&artikel=5&z=2018-02-06&g=2018-02-06), is van overeenkomstige toepassing.
 
-#### Artikel 18. (opleiding en training werknemers)
+##### Artikel 18. (opleiding en training werknemers)
 
 1. De Autoriteit voorziet in opleidingen en trainingen van haar werknemers en anderen die onder haar gezag staan, die werkzaamheden verrichten op het terrein van nucleaire veiligheid van kerninstallaties.
 
@@ -286,15 +312,15 @@ De Autoriteit kan aan een vergunning als bedoeld in [artikel 15, onderdeel b, va
 
 - b. crisisvoorbereiding.
 
-#### Artikel 19. (overgangsrecht)
+##### Artikel 19. (overgangsrecht)
 
 Een op het tijdstip van inwerkingtreding van deze regeling binnen een tijdvak van tien jaar daarvoor uitgebracht verslag als bedoeld in [artikel 2, vierde lid, van de Regeling implementatie richtlijn nr. 2009/71/Euratom inzake nucleaire veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0030274&artikel=2) geldt als een verslag als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039625&paragraaf=3&artikel=13&z=2018-02-06&g=2018-02-06), totdat het tijdvak van tien jaar is verstreken.
 
-#### Artikel 20
+##### Artikel 20
 
 De [Regeling implementatie richtlijn nr. 2009/71/Euratom inzake nucleaire veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0030274) wordt ingetrokken.
 
-#### Artikel 21. (inwerkingtreding)
+##### Artikel 21. (inwerkingtreding)
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
@@ -304,7 +330,7 @@ De [Regeling implementatie richtlijn nr. 2009/71/Euratom inzake nucleaire veilig
 
 - b. gelden de op of na het tijdstip van inwerkingtreding van deze regeling krachtens de genoemde bepalingen door de minister verrichte handelingen met ingang van het tijdstip van inwerkingtreding van de genoemde wet als handelingen, verricht door de Autoriteit.
 
-#### Artikel 22. (citeertitel)
+##### Artikel 22. (citeertitel)
 
 Deze regeling wordt aangehaald als: Regeling nucleaire veiligheid kerninstallaties.
 

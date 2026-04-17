@@ -1,18 +1,43 @@
 ---
 title: "Havenbeveiligingswet BES"
 identifier: "BWBR0028253"
-categorie: "Verkeer"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028253"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028253"
+soort: "wet-BES"
+stam_id: "10722073"
+version_id: "17690892"
+internal_id: "C24837501"
+label_id: "10696954"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028253/2010-10-10/0"
+intitule_bron: "Stb.2010-625"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-15"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-625"
+original_signed_date: "2010-09-15"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-625"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028253&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028253&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-15"
+entry_into_force: "2010-10-10"
 ---
-
 # Havenbeveiligingswet BES
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -56,27 +81,27 @@ In deze wet wordt verstaan onder:
 
 - q. **gezaghebber:** de gezaghebber van een openbaar lichaam.
 
-#### Artikel 2
+##### Artikel 2
 
 1. [vervallen]
 
 2. De bepalingen gegeven bij deze wet zijn van toepassing op de havenfaciliteiten gelegen op Bonaire, Sint Eustatius of Saba die schepen bedienen, ongeacht dezer nationaliteit of hoedanigheid.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het bestuurscollege wijst havenfaciliteiten aan.
 
 2. De gezaghebber is de bevoegde autoriteit, bedoeld in Voorschrift 1, eerste lid, onder 11, voor de uitvoering, respectievelijk toepassing van Voorschrift 10, tweede en derde lid, en de paragrafen 15 en 16 van Deel A van de Code.
 
-#### Artikel 4
+##### Artikel 4
 
 Het bestuurscollege in overeenstemming met Onze Minister wijst het contactpunt aan, bedoeld in Voorschrift 7, tweede lid.
 
-#### Artikel 5
+##### Artikel 5
 
 Voor de krachtens deze wet af te geven certificaten worden de modellen gebruikt zoals opgenomen in de appendix van de delen A en B behorende bij de Code. De certificaten worden in het Engels en Nederlands gesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 [vervallen]
 
@@ -84,7 +109,7 @@ Voor de krachtens deze wet af te geven certificaten worden de modellen gebruikt 
 
 #### § 2.1. Beveiligingsniveau havenfaciliteiten
 
-#### Artikel 7
+##### Artikel 7
 
 1. De vaststelling en aanpassing van het beveiligingsniveau waarop een havenfaciliteit functioneert geschiedt in overeenstemming met paragraaf 14 van Deel A van de Code.
 
@@ -94,7 +119,7 @@ Voor de krachtens deze wet af te geven certificaten worden de modellen gebruikt 
 
 4. Een verhoging respectievelijk verlaging van het beveiligingsniveau van een havenfaciliteit, wordt onverwijld aan de gezaghebber gemeld, alsmede aan de beveiligingsfunctionarissen van de desbetreffende havenfaciliteiten, opdat beveiligingsmaatregelen als bedoeld in het derde lid, kunnen worden uitgevoerd.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De verhoging respectievelijk verlaging van het beveiligingsniveau van een of meer havenfaciliteiten wordt onverwijld medegedeeld aan de schepen die zich in de territoriale zee rond Bonaire, rond Sint Eustatius en rond Saba bevinden of kennis hebben gegeven van het voornemen de territoriale zee binnen te zullen varen, onder vermelding van:
 
@@ -106,7 +131,7 @@ Voor de krachtens deze wet af te geven certificaten worden de modellen gebruikt 
 
 #### § 2.2
 
-#### Artikel 9
+##### Artikel 9
 
 [vervallen]
 
@@ -114,7 +139,7 @@ Voor de krachtens deze wet af te geven certificaten worden de modellen gebruikt 
 
 #### § 3.1. Beveiligingscertificaten
 
-#### Artikel 10
+##### Artikel 10
 
 1. Elke havenfaciliteit gelegen op Bonaire, Sint Eustatius of Saba voldoet aan Voorschrift 10, eerste lid, en beschikt over een geldig beveiligingscertificaat, dat door de gezaghebber wordt verleend. Een beveiligingscertificaat heeft een geldigheidsduur van maximaal vijf jaar.
 
@@ -128,7 +153,7 @@ Voor de krachtens deze wet af te geven certificaten worden de modellen gebruikt 
 
 6. Het is de beheerder van een havenfaciliteit niet toegestaan een activiteit als bedoeld in Voorschrift 1.1.8 in zijn havenfaciliteit te verrichten of toe te laten dat deze wordt verricht, indien de beheerder niet in het bezit is van een geldig beveiligingscertificaat of een ontheffing.
 
-#### Artikel 11
+##### Artikel 11
 
 1. In elk van de openbare lichamen kan een commissie inzake havenbeveiliging worden ingesteld.
 
@@ -138,13 +163,13 @@ Voor de krachtens deze wet af te geven certificaten worden de modellen gebruikt 
 
 - b. de uitvoering van de Code door de beheerders van de havenfaciliteiten gelegen in het eilandgebied.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De aanvraag voor een beveiligingscertificaat of de wijziging van beveiligingscertificaat dat reeds is verleend, wordt door de beheerder ingediend bij de gezaghebber van het openbaar lichaam waarin de havenfaciliteit is gelegen.
 
 2. In afwijking van het eerste lid, draagt het desbetreffende bestuurscollege er zorg voor dat de gegevens en informatie, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028253&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2010-10-10&g=2010-10-10) aan de gezaghebber ter beschikking worden gesteld, indien het beheer van een havenfaciliteit behoort tot de zorg van het openbaar lichaam.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De aanvraag voor de afgifte of wijziging van een beveiligingscertificaat omvat in elk geval:
 
@@ -160,19 +185,19 @@ Voor de krachtens deze wet af te geven certificaten worden de modellen gebruikt 
 
 - b. deel uitmaken van een reeds bestaand rampenbestrijdingsplan, mits de geheimhouding van het beveiligingsplan is gewaarborgd.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Een beveiligingscertificaat wordt in elk geval geweigerd, indien het voorgestelde beveiligingsplan niet voldoet aan paragraaf 16.3 van Deel A van de Code.
 
 2. Een beveiligingscertificaat kan worden geweigerd, indien naar het oordeel van de gezaghebber het voorgestelde beveiligingsplan in samenhang met geconstateerde relevante informatie, onvoldoende garantie biedt voor een afdoende beveiliging van de havenfaciliteit en de schepen die haar aandoen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Een beveiligingscertificaat wordt door de gezaghebber ingetrokken, indien bij de aanvraag onjuiste of onvolledige gegevens zijn verstrekt en de verstrekking van de juiste en volledige gegevens tot een ander besluit op de aanvraag zou hebben geleid.
 
 2. De gezaghebber kan een beveiligingscertificaat intrekken, indien de beheerder heeft gehandeld in strijd met het beveiligingsplan of heeft nagelaten te handelen in overeenstemming met dit plan.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Indien de gezaghebber constateert dat een havenfaciliteit niet voldoet aan het daarvoor vastgestelde beveiligingsplan, dan wordt de beheerder in de gelegenheid gesteld om binnen een door de gezaghebber vastgestelde termijn, de situatie in die havenfaciliteit wederom in overeenstemming te brengen met het beveiligingsplan.
 
@@ -180,7 +205,7 @@ Voor de krachtens deze wet af te geven certificaten worden de modellen gebruikt 
 
 3. Het bestuurscollege draagt er zorg voor dat de beveiligingsfunctionaris in staat wordt gesteld te voldoen aan het tweede lid.
 
-#### Artikel 17
+##### Artikel 17
 
 De gezaghebber meldt onverwijld aan Onze Minister:
 
@@ -194,7 +219,7 @@ De gezaghebber meldt onverwijld aan Onze Minister:
 
 #### § 3.2. Havenbeveiligingsfunctionaris
 
-#### Artikel 18
+##### Artikel 18
 
 1. Elke havenfaciliteit gelegen in een openbaar lichaam beschikt over een havenbeveiligingsfunctionaris die door de beheerder van de havenfaciliteit wordt aangewezen.
 
@@ -202,7 +227,7 @@ De gezaghebber meldt onverwijld aan Onze Minister:
 
 3. De beheerder stelt de havenbeveiligingsfunctionaris in staat en verschaft hem de middelen noodzakelijk voor het juist en tijdig vervullen van zijn taken en bevoegdheden ingevolge deze wet.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Een havenbeveiligingsfunctionaris is in elk geval belast met de uitvoering van paragraaf 17, onderdeel 2 en paragraaf 18 van Deel A van de Code.
 
@@ -210,13 +235,13 @@ De gezaghebber meldt onverwijld aan Onze Minister:
 
 3. De havenbeveiligingsfunctionaris treedt onverwijld in overleg met de gezaghebber, indien naar zijn oordeel het beveiligingsniveau van een havenfaciliteit moet worden verhoogd.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De havenbeveiligingsfunctionaris is bevoegd maatregelen als bedoeld in paragraaf 14, onderdeel 6, van Deel A van de Code, toe te passen, indien dit naar zijn oordeel en gelet op de veiligheid van de havenfaciliteit, geen uitstel duldt.
 
 2. De gezaghebber wordt door de havenbeveiligingsfunctionaris onverwijld geïnformeerd over de getroffen maatregelen.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De beheerder is bevoegd van een ieder die om toegang tot een havenfaciliteit verzoekt, te eisen dat hij zich identificeert door middel van een geldig identiteitsbewijs. Een gelijke bevoegdheid bestaat ten aanzien van degene die zich in een havenfaciliteit bevindt.
 
@@ -230,7 +255,7 @@ De gezaghebber meldt onverwijld aan Onze Minister:
 
 ### Hoofdstuk 5. Toezicht
 
-#### Artikel 27
+##### Artikel 27
 
 1. Voor zover de medewerking wordt gevorderd van de openbare lichamen wijst het bestuurscollege de ambtenaren of personen aan die zijn belast met het toezicht op de naleving van deze wet.
 
@@ -238,14 +263,14 @@ De gezaghebber meldt onverwijld aan Onze Minister:
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 28
+##### Artikel 28
 
 [vervallen]
 
-#### Artikel 28a
+##### Artikel 28a
 
 Handelen in strijd met de [artikelen 10, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028253&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2010-10-10&g=2010-10-10), [18, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028253&hoofdstuk=3&paragraaf=3.2&artikel=18&z=2010-10-10&g=2010-10-10), en [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028253&hoofdstuk=3&paragraaf=3.2&artikel=20&z=2010-10-10&g=2010-10-10), is een overtreding en wordt gestraft met een geldboete van ten hoogste de vijfde categorie. Bovendien kan als bijkomende straf gehele of gedeeltelijke stillegging van de onderneming van de veroordeelde, waarin de overtreding is begaan, worden opgelegd, voor een tijd van ten hoogste een jaar.
 
-#### Artikel 29
+##### Artikel 29
 
 Deze wet wordt aangehaald als: Havenbeveiligingswet BES.

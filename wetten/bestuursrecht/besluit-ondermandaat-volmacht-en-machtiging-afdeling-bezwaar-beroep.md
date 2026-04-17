@@ -1,13 +1,38 @@
 ---
 title: "Besluit ondermandaat, volmacht en machtiging afdeling Bezwaar & Beroep"
 identifier: "BWBR0037523"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-01-01
-laatste_update: 2016-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037523"
+country: "nl"
+rank: "zbo"
+publication_date: "2016-01-01"
+last_updated: "2016-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037523"
+soort: "zbo"
+stam_id: "13390623"
+version_id: "22963292"
+internal_id: "C33196121"
+label_id: "13358344"
+dtd_version: "2.0"
+original_entry_into_force: "2016-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037523/2016-01-01/0"
+intitule_bron: "Stcrt.2016-962"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-01-05"
+intitule_published: "2016-01-13"
+intitule_in_force: "2016-01-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-962"
+original_signed_date: "2016-01-05"
+original_published_date: "2016-01-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-962"
+entry_into_force_date: "2016-01-01"
+jci_1_3: "jci1.3:c:BWBR0037523&z=2016-01-01&g=2016-01-01"
+jci_1_0: "1.0:c:BWBR0037523&g=2016-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2016-01-05"
+entry_into_force: "2016-01-01"
 ---
-
 # Besluit ondermandaat, volmacht en machtiging afdeling Bezwaar & Beroep
 
 Gezien [artikel 13 van het Besluit mandaat, volmacht en machtiging CAK](https://wetten.overheid.nl/jci1.3:c:BWBR0037487&artikel=13) van 15 december 2015, waarbij aan hem mandaat, volmacht en machtiging is verleend voor bevoegdheden in het kader van de afwikkeling van bezwaar- en beroepschriften en mediation;
@@ -16,7 +41,7 @@ Gelezen de in [artikel 15 van het Besluit mandaat, volmacht en machtiging CAK](h
 
 Besluit:
 
-#### Artikel 1. definities
+##### Artikel 1. definities
 
 In dit besluit wordt verstaan onder:
 
@@ -30,7 +55,7 @@ In dit besluit wordt verstaan onder:
 
 - e. **mediationvertegenwoordigers:** medewerkers van het CAK die zijn aangewezen om het CAK te vertegenwoordigen in mediation.
 
-#### Artikel 2. behandelen bezwaarschriften
+##### Artikel 2. behandelen bezwaarschriften
 
 De manager verleent ondermandaat, volmacht en machtiging
 
@@ -42,7 +67,7 @@ De manager verleent ondermandaat, volmacht en machtiging
 
 aan de senior functionarissen, alsmede aan de functionarissen.
 
-#### Artikel 3. besluiten op bezwaarschriften
+##### Artikel 3. besluiten op bezwaarschriften
 
 De manager verleent ondermandaat, volmacht en machtiging
 
@@ -50,7 +75,7 @@ De manager verleent ondermandaat, volmacht en machtiging
 
 aan de senior functionarissen, alsmede aan de functionarissen.
 
-#### Artikel 4. behandelen (hoger) beroepschriften en verzoekschriften
+##### Artikel 4. behandelen (hoger) beroepschriften en verzoekschriften
 
 De manager verleent ondermandaat, volmacht en machtiging
 
@@ -64,7 +89,7 @@ De manager verleent ondermandaat, volmacht en machtiging
 
 aan de senior functionarissen, alsmede aan de functionarissen.
 
-#### Artikel 5. instellen hoger beroep
+##### Artikel 5. instellen hoger beroep
 
 De manager verleent ondermandaat, volmacht en machtiging
 
@@ -72,7 +97,7 @@ De manager verleent ondermandaat, volmacht en machtiging
 
 aan de senior functionarissen, alsmede aan de functionarissen.
 
-#### Artikel 6. mediation
+##### Artikel 6. mediation
 
 De manager verleent ondermandaat, volmacht en machtiging
 
@@ -84,7 +109,7 @@ De manager verleent ondermandaat, volmacht en machtiging
 
 aan de senior functionarissen, alsmede aan de mediationvertegenwoordigers.
 
-#### Artikel 7. instructies
+##### Artikel 7. instructies
 
 1. De manager bepaalt dat de functionarissen alleen bij afwezigheid van de senior functionarissen, of – bij aanwezigheid – op verzoek van de senior functionarissen, gebruik maken van het ondermandaat tot het nemen van een beslissing op bezwaar.
 
@@ -94,16 +119,16 @@ aan de senior functionarissen, alsmede aan de mediationvertegenwoordigers.
 
 4. De manager bepaalt dat de senior functionarissen en de mediationvertegenwoordigers zich houden aan de werkinstructie die is opgesteld voor mediation.
 
-#### Artikel 8. informatie
+##### Artikel 8. informatie
 
 De senior functionarissen en de functionarissen informeren de manager desgevraagd, al dan niet periodiek, over de manier waarop zij invulling geven aan het verleende ondermandaat, de volmacht en de machtiging.
 
-#### Artikel 9. bekendmaking
+##### Artikel 9. bekendmaking
 
 1. Dit besluit wordt bekendgemaakt via publicatie in de Staatscourant.
 
 2. Een afschrift van dit besluit wordt gezonden aan de directie van het CAK, aan de afdeling Interne Controle en aan degenen aan wie krachtens deze regeling ondermandaat, volmacht en machtiging is verleend.
 
-#### Artikel 10. inwerkingtreding
+##### Artikel 10. inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2016.

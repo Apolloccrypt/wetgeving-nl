@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling beleidsregels en subsidieplafond Subsidieprogramma Verantwoord Ondernemen"
+title: "Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingshulp van 19 juli 2024, nr.BZ2403369, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Verantwoord Ondernemen)"
 identifier: "BWBR0050119"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-07-12
-laatste_update: 2025-07-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050119"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-12"
+last_updated: "2025-07-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050119"
+soort: "ministeriele-regeling"
+stam_id: "17199753"
+version_id: "30282872"
+internal_id: "C43448571"
+label_id: "17106034"
+dtd_version: "2.0"
+original_entry_into_force: "2024-08-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050119/2025-07-12/0"
+intitule_bron: "Stcrt.2024-25711"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-07-19"
+intitule_published: "2024-08-06"
+intitule_in_force: "2024-08-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-25711"
+original_signed_date: "2024-07-19"
+original_published_date: "2024-08-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-25711"
+entry_into_force_date: "2024-08-07"
+jci_1_3: "jci1.3:c:BWBR0050119&z=2025-07-12&g=2025-07-12"
+jci_1_0: "1.0:c:BWBR0050119&g=2025-07-12"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling beleidsregels en subsidieplafond Subsidieprogramma Verantwoord Ondernemen"
+signed_date: "2024-07-19"
+entry_into_force: "2024-08-07"
 ---
-
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingshulp van 19 juli 2024, nr.BZ2403369, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Verantwoord Ondernemen)
 
 Gelet op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=6) en [7 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=7);
@@ -16,11 +42,11 @@ Gelet op [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor subsidieverlening op grond van de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=5.1) en [7.2 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=7.2) met het oog op subsidiëring van activiteiten gericht op het bevorderen van sociale duurzaamheid in internationale productieketens, gelden voor de periode vanaf inwerkingtreding van dit besluit tot en met 31 december 2027 de als bijlage bij dit besluit gevoegde beleidsregels.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aanvragen voor subsidie in de eerste openstelling van het Subsidieprogramma Verantwoord Ondernemen worden ingediend vanaf 20 augustus 2024 tot en met 7 oktober 2024, 15.00 uur Nederlandse tijd.
 
@@ -28,7 +54,7 @@ Voor subsidieverlening op grond van de [artikelen 5.1](https://wetten.overheid.n
 
 3. Aanvragen voor subsidie in het kader van het Subsidieprogramma Verantwoord Ondernemen worden ingediend aan de hand van een door de Minister beschikbaar gesteld formulier en voorzien van de op het aanvraagformulier gevraagde bescheiden.1[https://english.rvo.nl/subsidies-programmes/ssf](https://english.rvo.nl/subsidies-programmes/ssf)
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor subsidieverlening in het kader van het Subsidieprogramma Verantwoord ondernemen geldt, voor aanvragen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050119&artikel=2&z=2025-07-12&g=2025-07-12), voor de periode vanaf inwerkingtreding van dit besluit tot en met 31 december 2027, een totaal subsidieplafond van € 4.249.144, onderverdeeld in de volgende subsidieplafonds:
 
@@ -44,11 +70,11 @@ Voor subsidieverlening op grond van de [artikelen 5.1](https://wetten.overheid.n
 
 5. Voor subsidieverlening in het kader van het Subsidieprogramma Verantwoord Ondernemen gelden voor aanvragen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050119&artikel=2&z=2025-07-12&g=2025-07-12), nader bekend te maken subsidieplafonds.
 
-#### Artikel 4
+##### Artikel 4
 
 Het [Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 26 september 2023, Min-BuZa.2023.19898-15, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0048686)(Subsidieprogramma Social Sustainability) en het [Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 5 februari 2024, MINBUZA-2024.20415-7, tot vaststelling van een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 en tot wijziging van het Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 26 september 2023, Min-BuZa.2023.19898-15, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0049348) (Tweede openstelling en wijziging beleidsregels Subsidieprogramma Social Sustainability) worden ingetrokken, met dien verstande dat deze besluiten zoals deze luidden voorafgaand aan de inwerkingtreding van dit besluit van toepassing blijven op reeds voor die dag ingediende aanvragen en verleende subsidies.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt met ingang 1 januari 2028 met dien verstande dat het besluit van toepassing blijft op subsidies die voor die datum zijn verleend.
 

@@ -1,20 +1,45 @@
 ---
 title: "Besluit beperking openbaarheid archiefbescheiden Strijdkrachten in Nederlands Nieuw-Guinea van het Ministerie van Defensie, 1950–1962"
 identifier: "BWBR0029265"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2010-12-29
-laatste_update: 2010-12-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029265"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-12-29"
+last_updated: "2010-12-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029265"
+soort: "ministeriele-regeling"
+stam_id: "11165073"
+version_id: "18261342"
+internal_id: "C25404471"
+label_id: "11139374"
+dtd_version: "2.0"
+original_entry_into_force: "2010-12-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029265/2010-12-29/0"
+intitule_bron: "Stcrt.2010-21113"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-12-14"
+intitule_published: "2010-12-27"
+intitule_in_force: "2010-12-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-21113"
+original_signed_date: "2010-12-14"
+original_published_date: "2010-12-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-21113"
+entry_into_force_date: "2010-12-29"
+jci_1_3: "jci1.3:c:BWBR0029265&z=2010-12-29&g=2010-12-29"
+jci_1_0: "1.0:c:BWBR0029265&g=2010-12-29"
+citeertitel_status: "redactioneel"
+signed_date: "2010-12-14"
+entry_into_force: "2010-12-29"
 ---
-
 # Besluit beperking openbaarheid archiefbescheiden Strijdkrachten in Nederlands Nieuw-Guinea van het Ministerie van Defensie, 1950–1962
 
 Gelet op [artikel 15, lid 1, onder a, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van het Nationaal Archief;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, zijn de inventarisnummers, genoemd in de eerste kolom, van het archief van de **Strijdkrachten in Nederlands Nieuw-Guinea van het Ministerie van Defensie, 1950–1962**, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
@@ -99,15 +124,15 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 | 2062 | 2035 |
 | 2063 | 2035 |
 
-#### Artikel 2
+##### Artikel 2
 
 Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029265&artikel=1&z=2010-12-29&g=2010-12-29) is, tot verval van de beperking op de openbaarheid, slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.
 
-#### Artikel 3
+##### Artikel 3
 
 Het vervaardigen van reproducties van documenten, geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029265&artikel=1&z=2010-12-29&g=2010-12-29) is, tot verval van de beperking op de openbaarheid slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.
 

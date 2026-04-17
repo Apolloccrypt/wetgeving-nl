@@ -1,13 +1,39 @@
 ---
-title: "Regeling implementatie EETS-richtlijn"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 15 september 2021, nr. IENW/BSK-2021/108251, houdende regels voor een goede uitvoering van de Wet implementatie EETS-richtlijn (Regeling implementatie EETS-richtlijn)"
 identifier: "BWBR0045661"
-categorie: "Internationaal recht"
-publicatiedatum: 2021-10-19
-laatste_update: 2021-10-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045661"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-10-19"
+last_updated: "2021-10-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045661"
+soort: "ministeriele-regeling"
+stam_id: "16090343"
+version_id: "28056702"
+internal_id: "C39568981"
+label_id: "16021504"
+dtd_version: "2.0"
+original_entry_into_force: "2021-10-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045661/2021-10-19/0"
+intitule_bron: "Stcrt.2021-41535"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-09-15"
+intitule_published: "2021-10-04"
+intitule_in_force: "2021-10-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-41535"
+original_signed_date: "2021-09-15"
+original_published_date: "2021-10-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-41535"
+entry_into_force_date: "2021-10-19"
+jci_1_3: "jci1.3:c:BWBR0045661&z=2021-10-19&g=2021-10-19"
+jci_1_0: "1.0:c:BWBR0045661&g=2021-10-19"
+citeertitel_status: "officieel"
+short_title: "Regeling implementatie EETS-richtlijn"
+signed_date: "2021-09-15"
+entry_into_force: "2021-10-19"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 15 september 2021, nr. IENW/BSK-2021/108251, houdende regels voor een goede uitvoering van de Wet implementatie EETS-richtlijn (Regeling implementatie EETS-richtlijn)
 
 Gelet op [Richtlijn (EU) 2019/520](32019L0520) van het Europees parlement en de Raad van 19 maart 2019 betreffende de interoperabiliteit van elektronische tolheffingssystemen voor het wegverkeer en ter facilitering van de grensoverschrijdende uitwisseling van informatie over niet-betaling van wegentol in de Unie (PbEU 2019, L 91) en de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=5), [7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=7), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=35) en [40, zevende lid, van de Wet implementatie EETS-richtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=40);
@@ -18,7 +44,7 @@ Treedt in werking op het tijdstip waarop de Wet implementatie EETS-richtlijn in 
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. (begripsbepalingen)
+##### Artikel 1. (begripsbepalingen)
 
 Voor de toepassing van deze regeling wordt verstaan onder:
 
@@ -26,7 +52,7 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Registratie EETS-aanbieders
 
-#### Artikel 2. (gegevens en bescheiden aanvraag registratie)
+##### Artikel 2. (gegevens en bescheiden aanvraag registratie)
 
 1. Bij een aanvraag om een registratie als EETS-aanbieder, [bedoeld in artikel 7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=7), worden de volgende gegevens en bescheiden aan de Dienst Wegverkeer verstrekt:
 
@@ -70,7 +96,7 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 3. Voor het indienen van de aanvraag wordt gebruik gemaakt van een formulier dat door de Dienst Wegverkeer is vastgesteld.
 
-#### Artikel 3. (gegevens en bescheiden onderzoek EETS-aanbieder)
+##### Artikel 3. (gegevens en bescheiden onderzoek EETS-aanbieder)
 
 1. Voor het onderzoek, bedoeld in [artikel 7, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=7), verstrekt een in Nederland geregistreerde EETS-aanbieder, op een de door de Dienst Wegverkeer te bepalen wijze, de volgende gegevens en bescheiden aan deze dienst:
 
@@ -102,35 +128,35 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 3. Verkeersbeleid en -managementgegevens
 
-#### Artikel 4. (aanwijzing van instantie verkeergegevens)
+##### Artikel 4. (aanwijzing van instantie verkeergegevens)
 
 Het Samenwerkingsverband Nationaal Dataportaal Wegverkeer is de instantie, bedoeld in [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=35), waaraan de tolheffer de geanonimiseerde verkeersgegevens van de klanten van de dienstaanbieders verstrekt.
 
 ### Hoofdstuk 4. Aanwijzing contactbureau en contactpunt
 
-#### Artikel 5. (aanwijzing contactbureau)
+##### Artikel 5. (aanwijzing contactbureau)
 
 Als contactbureau, bedoeld in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=5), wordt aangewezen de Dienst Wegverkeer.
 
-#### Artikel 6. (aanwijzing nationaal contactpunt)
+##### Artikel 6. (aanwijzing nationaal contactpunt)
 
 Als nationaal contactpunt, bedoeld in [artikel 40, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=40), wordt aangewezen de Dienst Wegverkeer.
 
 ### Hoofstuk 5. Overige en slotbepalingen
 
-#### Artikel 7. (wijziging [Regeling taken Dienst Wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0008144))
+##### Artikel 7. (wijziging [Regeling taken Dienst Wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0008144))
 
 wijzigt de Regeling taken Dienst Wegverkeer.
 
-#### Artikel 8. (intrekken [Regeling elektronische tolheffingssystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0018998))
+##### Artikel 8. (intrekken [Regeling elektronische tolheffingssystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0018998))
 
 De [Regeling elektronische tolheffingssystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0018998) wordt ingetrokken.
 
-#### Artikel 9. (inwerkingtreding)
+##### Artikel 9. (inwerkingtreding)
 
 Deze regeling treedt in werking op het tijdstip waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0045586) in werking treedt.
 
-#### Artikel 10. (citeertitel)
+##### Artikel 10. (citeertitel)
 
 Deze regeling wordt aangehaald als: Regeling implementatie EETS-richtlijn.
 

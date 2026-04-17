@@ -1,20 +1,44 @@
 ---
 title: "Regeling aanwijzing bedrijven voor het verwerken, het opslaan, het drogen of het sorteren van vlees niet bestemd voor menselijke consumptie"
 identifier: "BWBR0006893"
-categorie: "Bestuursrecht"
-publicatiedatum: 1999-07-29
-laatste_update: 1999-07-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006893"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1999-07-29"
+last_updated: "1999-07-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006893"
+soort: "ministeriele-regeling"
+stam_id: "4330903"
+version_id: "6095152"
+internal_id: "C6298661"
+label_id: "4309444"
+dtd_version: "2.0"
+original_entry_into_force: "1994-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006893/1999-07-29/0"
+intitule_bron: "Stcrt.1994-165"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-08-26"
+intitule_published: "1994-08-30"
+intitule_in_force: "1994-08-30"
+intitule_status: "goed"
+original_publication: "Stcrt.1994-165"
+original_signed_date: "1994-08-26"
+original_published_date: "1994-08-30"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1994-09-01"
+jci_1_3: "jci1.3:c:BWBR0006893&z=1999-07-29&g=1999-07-29"
+jci_1_0: "1.0:c:BWBR0006893&g=1999-07-29"
+citeertitel_status: "officieel"
+signed_date: "1994-08-26"
+entry_into_force: "1994-09-01"
 ---
-
 # Regeling aanwijzing bedrijven voor het verwerken, het opslaan, het drogen of het sorteren van vlees niet bestemd voor menselijke consumptie
 
 Gelet op [artikel 2 van de Regeling Invoer vlees, bestemd voor ander gebruik dan menselijke consumptie](https://wetten.overheid.nl/jci1.3:c:BWBR0006785&artikel=2),
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Als bedrijven waar het verwerken, het opslaan, het drogen of het sorteren van vlees uit andere lid-staten van de Europese Unie en uit derde landen mag plaatsvinden als bedoeld in [artikel 2, onder a tot en met d, van de Regeling invoer vlees, bestemd voor ander gebruik dan menselijke consumptie](https://wetten.overheid.nl/jci1.3:c:BWBR0006785&artikel=2), worden aangewezen:
 
@@ -162,7 +186,7 @@ Als bedrijven waar het verwerken, het opslaan, het drogen of het sorteren van vl
 
 - 1. G. H. Prins en Zonen B.V., Nieuwe Hemweg 55 te Amsterdam.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze regeling treedt in werking met ingang van 1 september 1994.
 

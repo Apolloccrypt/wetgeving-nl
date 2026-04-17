@@ -1,13 +1,38 @@
 ---
 title: "Besluit ondermandaat Nederlandse vertegenwoordigingen"
 identifier: "BWBR0037762"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-03-25
-laatste_update: 2016-03-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037762"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-03-25"
+last_updated: "2016-03-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037762"
+soort: "ministeriele-regeling"
+stam_id: "13445283"
+version_id: "23078482"
+internal_id: "C33352141"
+label_id: "13412344"
+dtd_version: "2.0"
+original_entry_into_force: "2016-03-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037762/2016-03-25/0"
+intitule_bron: "Stcrt.2016-15744"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-03-09"
+intitule_published: "2016-03-25"
+intitule_in_force: "2016-03-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-15744"
+original_signed_date: "2016-03-09"
+original_published_date: "2016-03-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-15744"
+entry_into_force_date: "2016-03-25"
+jci_1_3: "jci1.3:c:BWBR0037762&z=2016-03-25&g=2016-03-25"
+jci_1_0: "1.0:c:BWBR0037762&g=2016-03-25"
+citeertitel_status: "redactioneel"
+signed_date: "2016-03-09"
+entry_into_force: "2016-03-25"
 ---
-
 # Besluit ondermandaat Nederlandse vertegenwoordigingen
 
 Gelet op [artikel 4.12 van het mandaatbesluit BZK 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031837&artikel=4.12) en [artikel 10:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3);

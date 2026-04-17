@@ -1,13 +1,39 @@
 ---
-title: "Besluit mandaatverlening aan korpschef Korps Politie Caribisch Nederland en algemeen commandant Brandweerkorps Caribisch Nederland 2024"
+title: "Besluit van de directeur-generaal Politie en Veiligheidsregio’s van het Ministerie van Justitie en Veiligheid van 24 juni 2024 met kenmerk 4958432 houdende verlening van ondermandaat, volmacht en machtiging aan de korpschef van het politiekorps van Bonaire, Sint Eustatius en Saba en aan de algemeen commandant van het brandweerkorps van Bonaire, Sint Eustatius en Saba (Besluit mandaatverlening aan korpschef Korps Politie Caribisch Nederland en algemeen commandant Brandweerkorps Caribisch Nederland 2024)"
 identifier: "BWBR0049910"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-07-02
-laatste_update: 2024-07-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049910"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-07-02"
+last_updated: "2024-07-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049910"
+soort: "ministeriele-regeling"
+stam_id: "17154983"
+version_id: "30194122"
+internal_id: "C43257281"
+label_id: "17063264"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049910/2024-07-02/0"
+intitule_bron: "Stcrt.2024-21031"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-24"
+intitule_published: "2024-07-01"
+intitule_in_force: "2024-07-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-21031"
+original_signed_date: "2024-06-24"
+original_published_date: "2024-07-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-21031"
+entry_into_force_date: "2024-07-02"
+jci_1_3: "jci1.3:c:BWBR0049910&z=2024-07-02&g=2024-07-02"
+jci_1_0: "1.0:c:BWBR0049910&g=2024-07-02"
+citeertitel_status: "officieel"
+short_title: "Besluit mandaatverlening aan korpschef Korps Politie Caribisch Nederland en algemeen commandant Brandweerkorps Caribisch Nederland 2024"
+signed_date: "2024-06-24"
+entry_into_force: "2024-07-02"
 ---
-
 # Besluit van de directeur-generaal Politie en Veiligheidsregio’s van het Ministerie van Justitie en Veiligheid van 24 juni 2024 met kenmerk 4958432 houdende verlening van ondermandaat, volmacht en machtiging aan de korpschef van het politiekorps van Bonaire, Sint Eustatius en Saba en aan de algemeen commandant van het brandweerkorps van Bonaire, Sint Eustatius en Saba (Besluit mandaatverlening aan korpschef Korps Politie Caribisch Nederland en algemeen commandant Brandweerkorps Caribisch Nederland 2024)
 
 Gelet op de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031763&artikel=3), en [7, tweede lid, van de Regeling doormandatering korpsbeheer politie en brandweer BES 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031763&artikel=7);
@@ -16,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Bevoegdheden korpschef politie
 
-#### Artikel 1
+##### Artikel 1
 
 Van het ingevolge [artikel 1 van de Regeling doormandatering korpsbeheer politie en brandweer BES 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031763&artikel=1) aan de directeur-generaal Politie en Veiligheidsregio’s verleende ondermandaat, wordt ondermandaat verleend aan de korpschef met dien verstande dat aan de directeur-generaal Politie en Veiligheidsregio’s blijft voorbehouden:
 
@@ -48,7 +74,7 @@ Van het ingevolge [artikel 1 van de Regeling doormandatering korpsbeheer politie
 
 - n. het uitreiken, registreren en innemen van het politielegitimatiebewijs aan de korpschef conform de [Regeling politielegitimatiebewijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028800).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De korpschef wordt toegestaan ten aanzien van de bevoegdheden, bedoeld in de [aanhef van artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049910&paragraaf=1&artikel=1&z=2024-07-02&g=2024-07-02), ondermandaat te verlenen aan onder hem ressorterende functionarissen van het politiekorps, met uitzondering van de bevoegdheid tot:
 
@@ -70,7 +96,7 @@ Van het ingevolge [artikel 1 van de Regeling doormandatering korpsbeheer politie
 
 3. Door de korpschef verleend ondermandaat kan niet verder worden doorgeven.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Ondertekening van besluiten en stukken op grond van het ondermandaat aan de korpschef, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049910&paragraaf=1&artikel=1&z=2024-07-02&g=2024-07-02), met betrekking tot het beheer van het politiekorps vindt plaats op de volgende wijze:
 
@@ -96,7 +122,7 @@ namens deze,
 
 **Korpschef van het korps politie Bonaire, Sint Eustatius en Saba**
 
-#### Artikel 4
+##### Artikel 4
 
 1. Bij afwezigheid of ontstentenis van de korpschef wordt diens mandaat volledig uitgeoefend door de plaatsvervangend korpschef.
 
@@ -104,7 +130,7 @@ namens deze,
 
 #### Paragraaf 2. Bevoegdheden algemeen commandant brandweer
 
-#### Artikel 5
+##### Artikel 5
 
 Van het ingevolge [artikel 5 van de Regeling doormandatering korpsbeheer politie en brandweer BES 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031763&artikel=5) aan de directeur-generaal Politie en Veiligheidsregio’s verleende ondermandaat, wordt ondermandaat verleend aan de algemeen commandant met dien verstande dat aan de directeur-generaal Politie en Veiligheidsregio’s blijft voorbehouden:
 
@@ -132,7 +158,7 @@ Van het ingevolge [artikel 5 van de Regeling doormandatering korpsbeheer politie
 
 - l. het sluiten van een convenant, bedoeld in [artikel 65 van de Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=65).
 
-#### Artikel 6
+##### Artikel 6
 
 1. De algemeen commandant wordt toegestaan ten aanzien van de bevoegdheden, bedoeld in de [aanhef van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049910&paragraaf=2&artikel=5&z=2024-07-02&g=2024-07-02), ondermandaat te verlenen aan onder hem ressorterende functionarissen van het brandweerkorps, met uitzondering van de bevoegdheid tot:
 
@@ -148,7 +174,7 @@ Van het ingevolge [artikel 5 van de Regeling doormandatering korpsbeheer politie
 
 3. Door de algemeen commandant verleend ondermandaat kan niet verder worden doorgegeven.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Ondertekening van besluiten en stukken op grond van het ondermandaat aan de algemeen commandant, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049910&paragraaf=2&artikel=5&z=2024-07-02&g=2024-07-02), met betrekking tot het beheer van het brandweerkorps vindt plaats op de volgende wijze:
 
@@ -174,7 +200,7 @@ namens deze,
 
 **Algemeen commandant van het brandweerkorps Bonaire, Sint Eustatius en Saba**
 
-#### Artikel 8
+##### Artikel 8
 
 1. Bij afwezigheid of ontstentenis van de algemeen commandant wordt diens mandaat volledig uitgeoefend door de waarnemend algemeen commandant.
 
@@ -184,7 +210,7 @@ namens deze,
 
 #### Paragraaf 3. Overige bepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 1. De directeur-generaal Politie en Veiligheidsregio’s is bevoegd de gemandateerde bevoegdheden uit te oefenen en kan het mandaat te allen tijde intrekken.
 
@@ -192,7 +218,7 @@ namens deze,
 
 3. De directeur-generaal Politie en Veiligheidsregio’s kan de korpschef of de algemeen commandant per geval of in het algemeen instructies geven inzake de uitoefening van de gemandateerde bevoegdheden.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het ondermandaat van de korpschef en de algemeen commandant aan de onder hen ressorterende functionarissen wordt schriftelijk verleend.
 
@@ -208,15 +234,15 @@ namens deze,
 
 7. Het ondermandaat treedt in werking na publicatie in de Staatscourant.
 
-#### Artikel 11
+##### Artikel 11
 
 Het [Besluit mandaatverlening aan korpschef KPBES en algemeen commandant brandweer BES 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0037328) wordt ingetrokken.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit wordt aangehaald als: Besluit mandaatverlening aan korpschef Korps Politie Caribisch Nederland en algemeen commandant Brandweerkorps Caribisch Nederland 2024.
 

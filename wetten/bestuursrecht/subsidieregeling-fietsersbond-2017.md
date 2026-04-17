@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling Fietsersbond 2017"
+title: "Regeling van de Minister van Infrastructuur en Milieu, van 15 maart 2017, nr. IenM/BSK-2017/67200, houdende verstrekking van subsidie aan de vereniging Fietsersbond (Subsidieregeling Fietsersbond 2017)"
 identifier: "BWBR0039406"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-07-01
-laatste_update: 2017-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039406"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-07-01"
+last_updated: "2017-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039406"
+soort: "ministeriele-regeling"
+stam_id: "13967583"
+version_id: "24026612"
+internal_id: "C34529731"
+label_id: "13930734"
+dtd_version: "2.0"
+original_entry_into_force: "2017-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039406/2017-07-01/0"
+intitule_bron: "Stcrt.2017-19198"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-03-15"
+intitule_published: "2017-03-31"
+intitule_in_force: "2017-03-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-19198"
+original_signed_date: "2017-03-15"
+original_published_date: "2017-03-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-19198"
+entry_into_force_date: "2017-07-01"
+jci_1_3: "jci1.3:c:BWBR0039406&z=2017-07-01&g=2017-07-01"
+jci_1_0: "1.0:c:BWBR0039406&g=2017-07-01"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling Fietsersbond 2017"
+signed_date: "2017-03-15"
+entry_into_force: "2017-07-01"
 ---
-
 # Regeling van de Minister van Infrastructuur en Milieu, van 15 maart 2017, nr. IenM/BSK-2017/67200, houdende verstrekking van subsidie aan de vereniging Fietsersbond (Subsidieregeling Fietsersbond 2017)
 
 Gelet op de [artikelen 3, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), en [5, van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5), [2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2) en [4 van het Kaderbesluit I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4);
 
 Besluit:
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 In deze regeling wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - **xls file:** een door de minister vast te stellen bestand met een format voor ramingen en realisaties van de gesubsidieerde projecten en producten ten behoeve van de subsidieverlening en subsidievaststelling.
 
-#### Artikel 2. Doel subsidie
+##### Artikel 2. Doel subsidie
 
 1. De minister kan op aanvraag per boekjaar een subsidie verstrekken aan de subsidieontvanger voor het uitvoeren van projecten en producten, gericht op de behartiging van belangen van fietsers in de besluitvorming van overheden, openbaar vervoersbedrijven en marktpartijen, onder meer door het verzamelen van feiten en gegevens over de lokale, regionale of landelijke staat van de fietsvoorzieningen of over het beleid van overheden en vervoerbedrijven ten gunste van de belangenbehartiging.
 
@@ -42,11 +68,11 @@ In deze regeling wordt verstaan onder:
 
 - b. voor zover de projecten en producten zijn te kwalificeren als economische activiteiten.
 
-#### Artikel 3. Toepassing [Afdeling 4.2.8 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.8)
+##### Artikel 3. Toepassing [Afdeling 4.2.8 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.8)
 
 [Afdeling 4.2.8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.8) is van toepassing.
 
-#### Artikel 4. Subsidieplafond en subsidiabele kosten
+##### Artikel 4. Subsidieplafond en subsidiabele kosten
 
 1. Het subsidieplafond bedraagt € 581.767,11 per boekjaar. Indien op grond van [artikel 8 van de Subsidieregeling Fietsersbond 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0031938&artikel=8) een compensatie wordt gegeven voor de arbeidskostenontwikkeling 2017, wordt het bedrag van het plafond per boekjaar vermeerderd met het bedrag van deze compensatie.
 
@@ -54,11 +80,11 @@ In deze regeling wordt verstaan onder:
 
 3. Het forfaitair uurtarief wordt goedgekeurd door de minister en geldt voor de subsidies die op basis van deze regeling worden verstrekt.
 
-#### Artikel 5. Concept-activiteitenplan
+##### Artikel 5. Concept-activiteitenplan
 
 Uiterlijk op 1 september van het jaar voorafgaand aan het boekjaar waarvoor subsidie wordt aangevraagd, zendt de subsidieontvanger een concept van het activiteitenplan, bedoeld in [artikel 6, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039406&artikel=6&z=2017-07-01&g=2017-07-01), aan de minister.
 
-#### Artikel 6. Aanvraag tot subsidieverlening en tot goedkeuring forfaitair uurtarief
+##### Artikel 6. Aanvraag tot subsidieverlening en tot goedkeuring forfaitair uurtarief
 
 1. De subsidieontvanger dient de aanvraag tot subsidieverlening in bij de minister, uiterlijk op 1 november van het jaar voorafgaand aan het boekjaar waarvoor subsidie wordt aangevraagd. De aanvraag bevat het bedrag van de gevraagde subsidie.
 
@@ -80,7 +106,7 @@ Uiterlijk op 1 september van het jaar voorafgaand aan het boekjaar waarvoor subs
 
 - 3°. het gehanteerde tarief gebaseerd is op de in de cao voor de welzijnssector vastgelegde salarisschalen.
 
-#### Artikel 7. Beschikking tot subsidieverlening
+##### Artikel 7. Beschikking tot subsidieverlening
 
 1. De minister neemt de beschikking tot subsidieverlening binnen dertien weken na ontvangst van de aanvraag.
 
@@ -96,7 +122,7 @@ Uiterlijk op 1 september van het jaar voorafgaand aan het boekjaar waarvoor subs
 
 - e. de inhoud van het controleprotocol.
 
-#### Artikel 8. Weigeringsgronden
+##### Artikel 8. Weigeringsgronden
 
 In aanvulling op [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) kan de minister de subsidieverlening geheel of gedeeltelijk weigeren indien naar zijn oordeel:
 
@@ -106,11 +132,11 @@ In aanvulling op [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten
 
 - c. er in voorgaande boekjaren ten aanzien van de subsidieverlening dan wel subsidievaststelling toepassing is gegeven aan de [artikelen 4:48](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48), [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) en [4:50 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:50).
 
-#### Artikel 9. Voorwaarde begrotingsvoorbehoud
+##### Artikel 9. Voorwaarde begrotingsvoorbehoud
 
 Voor zover de subsidie wordt verleend ten laste van de nog niet door de Staten-Generaal aangenomen rijksbegroting, onderdeel Infrastructuur en Milieu, wordt in de beschikking tot subsidieverlening vermeld dat de subsidieverlening plaatsvindt onder de voorwaarde dat voldoende gelden ter beschikking worden gesteld in de wet tot vaststelling van de rijksbegroting, onderdeel Infrastructuur en Milieu.
 
-#### Artikel 10. Voorschotverlening
+##### Artikel 10. Voorschotverlening
 
 1. De minister kan een voorschot verlenen. Deze beschikking wordt ambtshalve en gelijktijdig met de beschikking tot subsidieverlening gegeven.
 
@@ -118,7 +144,7 @@ Voor zover de subsidie wordt verleend ten laste van de nog niet door de Staten-G
 
 3. Het voorschot wordt uitgekeerd in termijnen waarvan de hoogte en de tijdstippen in de beschikking tot bevoorschotting worden bepaald met dien verstande dat de voorschotverlening ten hoogste 95 procent van de verleende subsidie per boekjaar bedraagt.
 
-#### Artikel 11. Verplichtingen subsidieontvanger
+##### Artikel 11. Verplichtingen subsidieontvanger
 
 1. In aanvulling op de verplichtingen op grond van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) is de subsidieontvanger verplicht tot:
 
@@ -160,7 +186,7 @@ Voor zover de subsidie wordt verleend ten laste van de nog niet door de Staten-G
 
 - c. geen staatssteun wordt verleend aan ondernemingen door middel van de subsidie.
 
-#### Artikel 12. Aanvraag tot subsidievaststelling
+##### Artikel 12. Aanvraag tot subsidievaststelling
 
 1. De subsidieontvanger dient de aanvraag tot subsidievaststelling in bij de minister binnen vier maanden volgend op het boekjaar waarvoor de subsidie is verleend.
 
@@ -180,19 +206,19 @@ Voor zover de subsidie wordt verleend ten laste van de nog niet door de Staten-G
 
 - g. een verklaring van een accountant als bedoeld in [artikel 4:79, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:79).
 
-#### Artikel 13. Beschikking tot subsidievaststelling
+##### Artikel 13. Beschikking tot subsidievaststelling
 
 1. De minister neemt de beschikking tot subsidievaststelling binnen tweeëntwintig weken na ontvangst van de aanvraag.
 
 2. De minister is bevoegd tot ambtshalve vaststelling van de subsidie indien de subsidieontvanger niet tijdig de aanvraag tot vaststelling heeft ingediend.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van 1 juli 2017.
 
 2. Deze regeling vervalt met ingang van 1 januari 2022, met dien verstande dat zij van toepassing blijft op de subsidies die voor die datum zijn verleend.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling Fietsersbond 2017.
 

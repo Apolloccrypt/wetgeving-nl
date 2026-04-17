@@ -1,28 +1,54 @@
 ---
-title: "Regeling examenreglement Staatsexamen Nt2 2026"
+title: "Regeling van het College voor toetsen en examens van 23 juni 2025, nr. CvTE-25.00953, houdende vaststelling van het examenreglement Staatsexamen Nederlands als tweede taal 2026 (Regeling examenreglement Staatsexamen Nt2 2026)"
 identifier: "BWBR0051202"
-categorie: "Onderwijs"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051202"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051202"
+soort: "zbo"
+stam_id: "17465023"
+version_id: "30802402"
+internal_id: "C44147271"
+label_id: "17367294"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051202/2026-01-01/0"
+intitule_bron: "Stcrt.2025-22377"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-06-23"
+intitule_published: "2025-07-02"
+intitule_in_force: "2025-07-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-22377"
+original_signed_date: "2025-06-23"
+original_published_date: "2025-07-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-22377"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051202&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051202&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling examenreglement Staatsexamen Nt2 2026"
+signed_date: "2025-06-23"
+entry_into_force: "2026-01-01"
 ---
-
 # Regeling van het College voor toetsen en examens van 23 juni 2025, nr. CvTE-25.00953, houdende vaststelling van het examenreglement Staatsexamen Nederlands als tweede taal 2026 (Regeling examenreglement Staatsexamen Nt2 2026)
 
 Gelet op [artikel 2, derde lid, aanhef en onderdeel a, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) en [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=10), en [artikel 16, vierde lid, van het Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=16);
 
 Besluit:
 
-#### Artikel 1. Examenreglement Staatsexamen Nederlands als tweede taal 2026
+##### Artikel 1. Examenreglement Staatsexamen Nederlands als tweede taal 2026
 
 Het examenreglement Staatsexamen Nederlands als tweede taal, als bedoeld in [artikel 10, tweede lid, van het Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=10), is vastgesteld voor het jaar 2026 in de bijlage bij deze regeling.
 
-#### Artikel 2. Inwerkingtreding
+##### Artikel 2. Inwerkingtreding
 
 Deze regeling ten behoeve van het Staatsexamen Nt2 treedt in werking met ingang van 1 januari 2026 en vervalt per 31 december 2026.
 
-#### Artikel 3. Citeertitel
+##### Artikel 3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling examenreglement Staatsexamen Nt2 2026.
 

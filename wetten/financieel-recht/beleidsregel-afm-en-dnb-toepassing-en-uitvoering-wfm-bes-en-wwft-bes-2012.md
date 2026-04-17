@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel AFM en DNB toepassing en uitvoering Wfm BES en Wwft BES 2012"
 identifier: "BWBR0031919"
-categorie: "Financieel recht"
-publicatiedatum: 2012-08-28
-laatste_update: 2012-08-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031919"
+country: "nl"
+rank: "zbo"
+publication_date: "2012-08-28"
+last_updated: "2012-08-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031919"
+soort: "zbo"
+stam_id: "11829063"
+version_id: "19612662"
+internal_id: "C27514401"
+label_id: "11801374"
+dtd_version: "2.0"
+original_entry_into_force: "2012-08-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031919/2012-08-28/0"
+intitule_bron: "Stcrt.2012-17541"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-08-21"
+intitule_published: "2012-08-27"
+intitule_in_force: "2012-08-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-17541"
+original_signed_date: "2012-08-21"
+original_published_date: "2012-08-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-17541"
+entry_into_force_date: "2012-08-28"
+jci_1_3: "jci1.3:c:BWBR0031919&z=2012-08-28&g=2012-08-28"
+jci_1_0: "1.0:c:BWBR0031919&g=2012-08-28"
+citeertitel_status: "officieel"
+signed_date: "2012-08-21"
+entry_into_force: "2012-08-28"
 ---
-
 # Beleidsregel AFM en DNB toepassing en uitvoering Wfm BES en Wwft BES 2012
 
 Gelet op de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) (Stb. 2011, 612), in het bijzonder de [artikelen 2:23](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=2:23), [3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=3:5), [3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=3:8) en [3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=3:9), [3:30](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=3:30), [3:38](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=3:38), [3:44](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=3:44) en [10:5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=10:5) en [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7);
@@ -22,7 +47,7 @@ BESLUITEN:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. (definities)
+##### Artikel 1. (definities)
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -44,7 +69,7 @@ In deze beleidsregel wordt verstaan onder:
 
 #### § 2.1. Geschiktheid
 
-#### Artikel 2. (geschiktheid van dagelijks beleidsbepalers en commissarissen)
+##### Artikel 2. (geschiktheid van dagelijks beleidsbepalers en commissarissen)
 
 1. Dit artikel is niet van toepassing met betrekking tot de uitoefening van het bedrijf van bemiddelaar in schadeverzekeringen of levensverzekeringen, gevolmachtigd agent of ondergevolmachtigd agent, bedoeld in [artikel 3:4 van het Bfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=3:4).
 
@@ -56,7 +81,7 @@ In deze beleidsregel wordt verstaan onder:
 
 #### § 2.2. Betrouwbaarheid
 
-#### Artikel 3. (conflicterende belangen en fungerende en niet-fungerende lokale PEPs)
+##### Artikel 3. (conflicterende belangen en fungerende en niet-fungerende lokale PEPs)
 
 1. In het kader van betrouwbaarheidstoetsingen op grond van [artikel 3:4 van de Wfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=3:4) en onverminderd het bepaalde in de [artikelen 3:1 tot en met 3:3 van het Bfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=3:1), beoordelen de AFM en DNB in het bijzonder of met betrekking tot de te toetsen persoon sprake is of kan zijn van conflicterende belangen. Daarbij wordt onder meer aansluiting gezocht bij de **Corporate Governance Guidelines** voor goed bestuur van de CBCS.
 
@@ -68,7 +93,7 @@ In deze beleidsregel wordt verstaan onder:
 
 #### § 2.3. Integere bedrijfsuitoefening
 
-#### Artikel 4. (voorkoming van witwassen en financieren van terrorisme)
+##### Artikel 4. (voorkoming van witwassen en financieren van terrorisme)
 
 In het toezicht op de naleving van de verplichtingen krachtens de [Wwft BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824) en van de regels met betrekking tot de integere bedrijfsuitoefening, bedoeld in [artikel 3:8 van de Wfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=3:8), geven de AFM en DNB overeenkomstige toepassing aan de **Provisions and Guidelines on the Detection and Deterrence of Money Laundering and Terrorist Financing** van de CBCS, zoals die voor de verschillende sectoren zijn vastgesteld en zoals deze luiden of komen te luiden, alsmede voor zover hiervan niet expliciet wordt afgeweken bij door de AFM of DNB gestelde (nadere) regels of beleidsregels met betrekking tot de voorkoming van witwassen en financieren van terrorisme of de integere bedrijfsuitoefening. Dit betreft de volgende **Provisions and Guidelines**:
 
@@ -84,7 +109,7 @@ In het toezicht op de naleving van de verplichtingen krachtens de [Wwft BES](htt
 
 steeds met inbegrip van de **Appendix I and II Policy Rule of June 2011**, voor zover relevant.
 
-#### Artikel 5. (beleidsregels en guidelines van de CBCS inzake integere bedrijfsvoering)
+##### Artikel 5. (beleidsregels en guidelines van de CBCS inzake integere bedrijfsvoering)
 
 In het toezicht op de naleving van de regels met betrekking tot de integere bedrijfsuitoefening, bedoeld in [artikel 3:8 van de Wfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=3:8), geven de AFM en DNB overeenkomstige toepassing aan de volgende beleidsregels en **guidelines** van de CBCS, voor zover deze relevant zijn voor de betrokken financiële onderneming en zoals deze luiden of komen te luiden, alsmede voor zover hiervan niet expliciet wordt afgeweken bij door de AFM of DNB gestelde (nadere) regels of beleidsregels met betrekking tot de integere bedrijfsuitoefening:
 
@@ -92,7 +117,7 @@ In het toezicht op de naleving van de regels met betrekking tot de integere bedr
 
 - b. **Corporate Governance – Summary of Best Practice Guidelines** van november 2006.
 
-#### Artikel 6. (procedures en maatregelen met betrekking tot incidenten)
+##### Artikel 6. (procedures en maatregelen met betrekking tot incidenten)
 
 In ieder geval in de volgende situaties wordt een financiële onderneming geacht onverwijld, schriftelijk en uit eigen beweging melding te doen aan DNB dan wel aan de AFM van een incident, in de zin van [artikel 3:14 van het Bfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=3:14):
 
@@ -114,7 +139,7 @@ In ieder geval in de volgende situaties wordt een financiële onderneming geacht
 
 #### § 2.4. Verrichten van diensten in de openbare lichamen vanuit een vestiging in het buitenland
 
-#### Artikel 7. (‘initiative test’ bij verrichten van diensten in de openbare lichamen)
+##### Artikel 7. (‘initiative test’ bij verrichten van diensten in de openbare lichamen)
 
 1. Dit artikel is niet van toepassing op trustkantoren met zetel in het buitenland die als trustkantoor werkzaam zijn in de openbare lichamen door middel van het verrichten van diensten vanuit een vestiging in het buitenland.
 
@@ -124,7 +149,7 @@ In ieder geval in de volgende situaties wordt een financiële onderneming geacht
 
 #### § 3.1. Inkomende dienstverrichting verzekeraars
 
-#### Artikel 8. (begrip ‘inkomende dienstverrichting verzekeraars’)
+##### Artikel 8. (begrip ‘inkomende dienstverrichting verzekeraars’)
 
 1. Bij de toepassing van [artikel 2:23 van de Wfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=2:23) wordt onder ‘het verrichten van diensten in de openbare lichamen vanuit een vestiging in het buitenland’ of onder ‘inkomende dienstverrichting’ verstaan:
 
@@ -136,7 +161,7 @@ In ieder geval in de volgende situaties wordt een financiële onderneming geacht
 
 2. Van inkomende dienstverrichting in de zin van [artikel 2:23 van de Wfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=2:23) is in ieder geval sprake, indien voor of namens dan wel voor rekening van de betrokken verzekeraar met zetel in het buitenland een of meer adviseurs, bemiddelaars, gevolmachtigd of ondergevolmachtigd agenten in de openbare lichamen optreden.
 
-#### Artikel 9. (termijnen voor notificaties op grond van [artikel 2:23 van de Wfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=2:23))
+##### Artikel 9. (termijnen voor notificaties op grond van [artikel 2:23 van de Wfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=2:23))
 
 1. In het geval een verzekeraar met zetel in het buitenland niet langer kan aantonen dat is voldaan aan de **initiative test**, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031919&hoofdstuk=2&paragraaf=2.4&artikel=7&z=2012-08-28&g=2012-08-28), wordt de betrokken verzekeraar geacht zo spoedig mogelijk, maar uiterlijk binnen vier weken nadat die situatie is ontstaan, de in [artikel 2:23 van de Wfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=2:23) bedoelde kennisgeving aan DNB te doen. Bij die kennisgeving verstrekt de verzekeraar tevens de gegevens en bescheiden op basis waarvan DNB kan beoordelen dat is voldaan aan de vereisten van [artikel 2:23, eerste lid, van de Wfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=2:23).
 
@@ -144,7 +169,7 @@ In ieder geval in de volgende situaties wordt een financiële onderneming geacht
 
 #### § 3.2. Integere en beheerste bedrijfsuitoefening
 
-#### Artikel 10. (provisions, guidelines en policy memoranda van de CBCS)
+##### Artikel 10. (provisions, guidelines en policy memoranda van de CBCS)
 
 In het toezicht op de naleving van de regels met betrekking tot de beheerste bedrijfsuitoefening, bedoeld in [artikel 3:9 van de Wfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=3:9), geeft DNB overeenkomstige toepassing aan de volgende **provisions and guidelines** en **policy memoranda** van de CBCS, voor zover deze relevant zijn en zoals deze luiden of komen te luiden:
 
@@ -154,21 +179,21 @@ In het toezicht op de naleving van de regels met betrekking tot de beheerste bed
 
 - c. **Policy Memorandum – Management of Computer Risks for Senior Management.**
 
-#### Artikel 11. (bedrijfsvoering van een hoofd van een financiële groep)
+##### Artikel 11. (bedrijfsvoering van een hoofd van een financiële groep)
 
 Op de beheerste bedrijfsvoering, bedoeld in [artikel 3:44, eerste lid, van de Wfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=3:44), van een onderneming met zetel in de openbare lichamen die aan het hoofd staat van een groep kredietinstellingen of een groep verzekeraars als bedoeld in [artikel 3:45](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=3:45) of [3:46 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=3:46), is het bepaalde in [artikel 3:19 van het Bfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=3:19) ten aanzien van de algemene aspecten van de beheerste bedrijfsvoering en [artikel 3:21 van het Bfm BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=3:21) inzake risicomanagement van overeenkomstige toepassing.
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 12. (wijzigingen van deze beleidsregel)
+##### Artikel 12. (wijzigingen van deze beleidsregel)
 
 Deze beleidsregel kan worden gewijzigd bij besluit van de AFM en DNB gezamenlijk, dan wel bij afzonderlijk besluit van de AFM onderscheidenlijk van DNB, voor zover het domein van de andere toezichtautoriteit door die wijziging niet wordt geraakt.
 
-#### Artikel 13. (inwerkingtreding)
+##### Artikel 13. (inwerkingtreding)
 
 Deze beleidsregel treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst, met terugwerkende kracht tot en met 1 juli 2012.
 
-#### Artikel 14. (citeertitel)
+##### Artikel 14. (citeertitel)
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel AFM en DNB toepassing en uitvoering Wfm BES en Wwft BES 2012.
 

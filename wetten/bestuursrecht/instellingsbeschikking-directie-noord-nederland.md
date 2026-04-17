@@ -1,13 +1,37 @@
 ---
 title: "Instellingsbeschikking Directie Noord-Nederland"
 identifier: "BWBR0006316"
-categorie: "Bestuursrecht"
-publicatiedatum: 2009-12-22
-laatste_update: 2009-12-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006316"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2009-12-22"
+last_updated: "2009-12-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006316"
+soort: "ministeriele-regeling"
+stam_id: "3717773"
+version_id: "5500622"
+internal_id: "C5693711"
+label_id: "3697504"
+dtd_version: "2.0"
+original_entry_into_force: "1994-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006316/2009-12-22/0"
+intitule_bron: "Stcrt.1993-244"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-12-15"
+intitule_published: "1993-12-20"
+intitule_in_force: "1993-12-20"
+intitule_status: "goed"
+original_publication: "Stcrt.1993-244"
+original_signed_date: "1993-12-15"
+original_published_date: "1993-12-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1994-02-01"
+jci_1_3: "jci1.3:c:BWBR0006316&z=2009-12-22&g=2009-12-22"
+jci_1_0: "1.0:c:BWBR0006316&g=2009-12-22"
+citeertitel_status: "officieel"
+signed_date: "1993-12-15"
+entry_into_force: "1994-02-01"
 ---
-
 # Instellingsbeschikking Directie Noord-Nederland
 
 gelet op [artikel 8 van het Organiek Besluit Rijkswaterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0002743&artikel=8) van 14 januari 1971, Stb. 42;

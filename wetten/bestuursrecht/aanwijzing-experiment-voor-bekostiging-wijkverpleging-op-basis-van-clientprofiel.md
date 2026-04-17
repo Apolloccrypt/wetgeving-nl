@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzing experiment voor bekostiging wijkverpleging op basis van cliëntprofielen volgens het DKDLmodel"
+title: "Aanwijzing van de Minister voor Langdurige Zorg en Sport van 17 juli 2023, kenmerk 3613517-1050013-PZO, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake het experiment voor bekostiging wijkverpleging op basis van cliëntprofielen volgens het Draagkracht Draaglast model"
 identifier: "BWBR0048443"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-07-25
-laatste_update: 2023-07-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048443"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-07-25"
+last_updated: "2023-07-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048443"
+soort: "ministeriele-regeling"
+stam_id: "16813993"
+version_id: "29539612"
+internal_id: "C42228201"
+label_id: "16727564"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048443/2023-07-25/0"
+intitule_bron: "Stcrt.2023-20725"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-07-17"
+intitule_published: "2023-07-25"
+intitule_in_force: "2023-07-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-20725"
+original_signed_date: "2023-07-17"
+original_published_date: "2023-07-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-20725"
+entry_into_force_date: "2023-07-25"
+jci_1_3: "jci1.3:c:BWBR0048443&z=2023-07-25&g=2023-07-25"
+jci_1_0: "1.0:c:BWBR0048443&g=2023-07-25"
+citeertitel_status: "officieel"
+short_title: "Aanwijzing experiment voor bekostiging wijkverpleging op basis van cliëntprofielen volgens het DKDLmodel"
+signed_date: "2023-07-17"
+entry_into_force: "2023-07-25"
 ---
-
 # Aanwijzing van de Minister voor Langdurige Zorg en Sport van 17 juli 2023, kenmerk 3613517-1050013-PZO, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake het experiment voor bekostiging wijkverpleging op basis van cliëntprofielen volgens het Draagkracht Draaglast model
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -18,7 +44,7 @@ Gezien de inbreng op 3 juli 2023 van de vaste commissie voor Volksgezondheid, We
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -30,11 +56,11 @@ In deze aanwijzing wordt verstaan onder:
 
 - –. **zorgautoriteit:** de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3).
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Deze aanwijzing is van toepassing op wijkverpleging.
 
-#### Artikel 3. Experiment cliëntprofielen volgens het Draagkracht Draaglast model
+##### Artikel 3. Experiment cliëntprofielen volgens het Draagkracht Draaglast model
 
 1. De zorgautoriteit voorziet met ingang van 1 januari 2024 in een experiment voor bekostiging op basis van cliëntprofielen in de wijkverpleging. De zorgautoriteit hanteert hierbij:
 
@@ -48,7 +74,7 @@ Deze aanwijzing is van toepassing op wijkverpleging.
 
 3. De zorgautoriteit behoudt expliciet de mogelijkheid om de prestatiebeschrijvingen als bedoeld in het eerste lid verder door te ontwikkelen.
 
-#### Artikel 4. Uitgangspunten experiment
+##### Artikel 4. Uitgangspunten experiment
 
 De zorgautoriteit neemt bij de vaststelling van de regelgeving voor het experiment als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048443&artikel=3&z=2023-07-25&g=2023-07-25) de volgende uitgangspunten in acht:
 
@@ -66,19 +92,19 @@ De zorgautoriteit neemt bij de vaststelling van de regelgeving voor het experime
 
 - g. Personen aan wie zorg wordt verleend in het kader van wijkverpleging, komen door het experiment niet in een nadeliger positie te verkeren, dan wanneer het experiment niet zou plaatsvinden.
 
-#### Artikel 6. Looptijd
+##### Artikel 6. Looptijd
 
 Het experiment heeft een looptijd van maximaal 5 jaar en eindigt uiterlijk op 31 december 2028.
 
-#### Artikel 7. Evaluatie experiment
+##### Artikel 7. Evaluatie experiment
 
 De zorgautoriteit evalueert de effecten van het experiment als bedoeld in het zesde lid van [artikel 58 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=58).
 
-#### Artikel 8. Beëindigen experiment bekostiging via cliëntprofielen in de wijkverpleging
+##### Artikel 8. Beëindigen experiment bekostiging via cliëntprofielen in de wijkverpleging
 
 De zorgautoriteit beëindigt met ingang van 1 januari 2024 de uitvoering van het experiment bekostiging via cliëntprofielen in de wijkverpleging, als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044769&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0044769&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0044769&artikel=6), en [7 van de aanwijzing van 25 januari 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044769&artikel=7) (**Stcrt.** 2021, 4639).
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Deze aanwijzing wordt aangehaald als: Aanwijzing experiment voor bekostiging wijkverpleging op basis van cliëntprofielen volgens het DKDLmodel.
 

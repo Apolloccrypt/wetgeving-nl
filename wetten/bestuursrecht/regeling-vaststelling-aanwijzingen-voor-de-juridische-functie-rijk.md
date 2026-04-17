@@ -1,24 +1,50 @@
 ---
-title: "Regeling vaststelling Aanwijzingen voor de juridische functie Rijk"
+title: "Regeling van de Minister-President, Minister van Algemene Zaken van 24 maart 2021 nr. 4196055, houdende vaststelling van Aanwijzingen voor de juridische functie Rijk"
 identifier: "BWBR0045032"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-04-09
-laatste_update: 2021-04-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045032"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-04-09"
+last_updated: "2021-04-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045032"
+soort: "ministeriele-regeling"
+stam_id: "15923793"
+version_id: "27683862"
+internal_id: "C39053611"
+label_id: "15858764"
+dtd_version: "2.0"
+original_entry_into_force: "2021-04-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045032/2021-04-09/0"
+intitule_bron: "Stcrt.2021-17243"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-03-24"
+intitule_published: "2021-04-08"
+intitule_in_force: "2021-04-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-17243"
+original_signed_date: "2021-03-24"
+original_published_date: "2021-04-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-17243"
+entry_into_force_date: "2021-04-09"
+jci_1_3: "jci1.3:c:BWBR0045032&z=2021-04-09&g=2021-04-09"
+jci_1_0: "1.0:c:BWBR0045032&g=2021-04-09"
+citeertitel_status: "redactioneel"
+short_title: "Regeling vaststelling Aanwijzingen voor de juridische functie Rijk"
+signed_date: "2021-03-24"
+entry_into_force: "2021-04-09"
 ---
-
 # Regeling van de Minister-President, Minister van Algemene Zaken van 24 maart 2021 nr. 4196055, houdende vaststelling van Aanwijzingen voor de juridische functie Rijk
 
 Handelende in overeenstemming met het gevoelen van de ministerraad,
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 Vastgesteld worden de als bijlage bij deze regeling gevoegde Aanwijzingen voor de juridische functie Rijk.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 

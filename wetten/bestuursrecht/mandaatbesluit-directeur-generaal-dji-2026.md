@@ -1,20 +1,46 @@
 ---
-title: "Mandaatbesluit directeur-generaal DJI 2026"
+title: "Besluit van de directeur-generaal Dienst Justitiële Inrichtingen van 24 december 2025, nr. 7034938, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de directeur-generaal Dienst Justitiële Inrichtingen ressorterende ambtenaren (Mandaatbesluit directeur-generaal DJI 2026)"
 identifier: "BWBR0052143"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-16
-laatste_update: 2026-01-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052143"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-16"
+last_updated: "2026-01-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052143"
+soort: "ministeriele-regeling"
+stam_id: "17728263"
+version_id: "31286262"
+internal_id: "C44730481"
+label_id: "17626854"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052143/2026-01-16/0"
+intitule_bron: "Stcrt.2026-724"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-24"
+intitule_published: "2026-01-15"
+intitule_in_force: "2026-01-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-724"
+original_signed_date: "2025-12-24"
+original_published_date: "2026-01-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-724"
+entry_into_force_date: "2026-01-16"
+jci_1_3: "jci1.3:c:BWBR0052143&z=2026-01-16&g=2026-01-16"
+jci_1_0: "1.0:c:BWBR0052143&g=2026-01-16"
+citeertitel_status: "officieel"
+short_title: "Mandaatbesluit directeur-generaal DJI 2026"
+signed_date: "2025-12-24"
+entry_into_force: "2026-01-16"
 ---
-
 # Besluit van de directeur-generaal Dienst Justitiële Inrichtingen van 24 december 2025, nr. 7034938, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de directeur-generaal Dienst Justitiële Inrichtingen ressorterende ambtenaren (Mandaatbesluit directeur-generaal DJI 2026)
 
 Gelet op [artikel 3, tweede lid, van het Mandaatbesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=3) en de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=2) en [6, eerste lid, van het Mandaatbesluit hoofden taakorganisaties Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=6);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Van het ingevolge [artikel 1 van het Mandaatbesluit hoofden taakorganisaties Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1) aan de directeur-generaal van de baten-lastendienst Dienst Justitiële Inrichtingen verleende ondermandaat wordt ten aanzien van de aangelegenheden die hun portefeuille of dienstonderdeel betreffen ondermandaat verleend aan:
 
@@ -32,13 +58,13 @@ Van het ingevolge [artikel 1 van het Mandaatbesluit hoofden taakorganisaties Min
 
 - g. de directeur Bestuursondersteuning en Strategie.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aan de ambtenaren, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052143&bijlage=1&z=2026-01-16&g=2026-01-16) bij dit besluit, wordt volmacht verleend om op te treden als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
 
 2. Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de ambtenaren, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052143&bijlage=2&z=2026-01-16&g=2026-01-16) bij deze regeling voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan de directeur-generaal Dienst Justitiële Inrichtingen blijft voorbehouden:
 
@@ -48,19 +74,19 @@ Van het ingevolge [artikel 1 van het Mandaatbesluit hoofden taakorganisaties Min
 
 - c. de bevoegdheid om te besluiten tot een belangrijke wijziging in de organisatie van het hoofdkantoor en van DJI als geheel, dan wel in de verdeling van bevoegdheden in het hoofdkantoor en binnen DJI als geheel.
 
-#### Artikel 4
+##### Artikel 4
 
 De directeur-generaal Dienst Justitiële Inrichtingen wordt bij afwezigheid vervangen door een lid van de dienstleiding.
 
-#### Artikel 5
+##### Artikel 5
 
 Het [Mandaatbesluit directeur-generaal DJI](https://wetten.overheid.nl/jci1.3:c:BWBR0047761) en het [Mandaatbesluit plaatsvervangend directeur-generaal DJI](https://wetten.overheid.nl/jci1.3:c:BWBR0047762) worden ingetrokken.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2026.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als: Mandaatbesluit directeur-generaal DJI 2026.
 

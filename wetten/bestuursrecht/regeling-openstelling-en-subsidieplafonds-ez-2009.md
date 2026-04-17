@@ -1,20 +1,46 @@
 ---
-title: "Regeling openstelling en subsidieplafonds EZ 2009"
+title: "Regeling van de Minister van Economische Zaken van 8 december 2008, nr. WJZ/8184558, houdende vaststelling van subsidieplafonds en termijnen van openstelling van EZ-subsidieregelingen (Regeling openstelling en subsidieplafonds EZ 2009)"
 identifier: "BWBR0024957"
-categorie: "Bestuursrecht"
-publicatiedatum: 2010-06-05
-laatste_update: 2010-06-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024957"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-06-05"
+last_updated: "2010-06-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024957"
+soort: "ministeriele-regeling"
+stam_id: "9825133"
+version_id: "16627882"
+internal_id: "C22894441"
+label_id: "9801654"
+dtd_version: "2.0"
+original_entry_into_force: "2009-08-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024957/2010-06-05/0"
+intitule_bron: "Stcrt.2008-249"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-12-08"
+intitule_published: "2008-12-23"
+intitule_in_force: "2008-12-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-12836"
+original_signed_date: "2009-08-19"
+original_published_date: "2009-08-28"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2009-12836"
+entry_into_force_date: "2009-08-19"
+jci_1_3: "jci1.3:c:BWBR0024957&z=2010-06-05&g=2010-06-05"
+jci_1_0: "1.0:c:BWBR0024957&g=2010-06-05"
+citeertitel_status: "officieel"
+short_title: "Regeling openstelling en subsidieplafonds EZ 2009"
+signed_date: "2009-08-19"
+entry_into_force: "2009-08-19"
 ---
-
 # Regeling van de Minister van Economische Zaken van 8 december 2008, nr. WJZ/8184558, houdende vaststelling van subsidieplafonds en termijnen van openstelling van EZ-subsidieregelingen (Regeling openstelling en subsidieplafonds EZ 2009)
 
 Gelet op [artikel 3 van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3), [artikel 16 van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=16), [artikel 3.9 van de Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=3.9), [artikel 17, tweede lid, onderdeel g, van het Besluit subsidies civiele vliegtuigontwikkeling](https://wetten.overheid.nl/jci1.3:c:BWBR0011247&artikel=17) en de bepalingen in de EZ-subsidieregelingen die betrekking hebben op de openstelling van de subsidie en de vaststelling van subsidieplafonds;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Als perioden in 2009, waarin subsidie-aanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; deze perioden eindigen op de genoemde datum om 17.00 uur.
 
@@ -143,7 +169,7 @@ Besluit:
 |   |   | [5.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=5.2) | Unieke kansen project scholen/kantoren | 01-07-09 t/m 03-12-09 | 6.456.550 |
 | 17.5 | [Tijdelijke energieregeling markt en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024452) (Duurzame biomassa-import) | [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=6.2) |   | Datum van inwerkingtreding van [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024452&artikel=6.2) t/m 15-10-09 | 4.000.000 |
 
-#### Artikel 2
+##### Artikel 2
 
 De percentages, bedoeld in [artikel 3.9 van de Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=3.9), bedragen voor de in 2009 aangevraagde subsidies voor innovatiekredieten:
 
@@ -155,19 +181,19 @@ De percentages, bedoeld in [artikel 3.9 van de Subsidieregeling innoveren](https
 
 - d. de opslag voor het terugbetalingsrisico: 3 procent per jaar.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt de Uitvoeringsregeling CVO.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling openstelling en subsidieplafonds EZ 2009.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. Als perioden in 2009 en 2010, waarin subsidie-aanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; deze perioden eindigen op de genoemde datum om 17.00 uur.
 

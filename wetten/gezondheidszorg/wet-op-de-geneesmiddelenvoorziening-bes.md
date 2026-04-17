@@ -1,18 +1,43 @@
 ---
 title: "Wet op de geneesmiddelenvoorziening BES"
 identifier: "BWBR0028486"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028486"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028486"
+soort: "wet-BES"
+stam_id: "10813223"
+version_id: "17792092"
+internal_id: "C24818841"
+label_id: "10788554"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028486/2025-01-01/0"
+intitule_bron: "Stb.2010-638"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-27"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-638"
+original_signed_date: "2010-09-27"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-638"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028486&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0028486&g=2025-01-01"
+citeertitel_status: "officieel"
+signed_date: "2010-09-27"
+entry_into_force: "2010-10-10"
 ---
-
 # Wet op de geneesmiddelenvoorziening BES
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze wet en de uitvoering daarvan te geven voorschriften wordt verstaan onder:
 
@@ -52,7 +77,7 @@ Voor de toepassing van deze wet en de uitvoering daarvan te geven voorschriften 
 
 - j. **ziekenhuis:** een inrichting bestemd voor of gebezigd tot verpleging van personen, opgenomen voor het ondergaan van genees-, heel- of verloskundige behandelingen of genees-, heel of verloskundig onderzoek.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onze Minister wijst zelfstandigheden aan, welke zowel als geneesmiddel als voor ander dan geneeskundig doel plegen te worden gebruikt en die onder de voorwaarden, die Onze Minister stelt, niet worden geacht te zijn geneesmiddel.
 
@@ -66,7 +91,7 @@ Voor de toepassing van deze wet en de uitvoering daarvan te geven voorschriften 
 
 ### Hoofdstuk II. Het uitoefenen der artsenijbereidkunde
 
-#### Artikel 3
+##### Artikel 3
 
 1. Tot uitoefening der artsenijbereidkunde zijn bevoegd:
 
@@ -84,7 +109,7 @@ Voor de toepassing van deze wet en de uitvoering daarvan te geven voorschriften 
 
 4. [vervallen]
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Voor een vergunning, als bedoeld in [artikel 3, eerste lid, onderdeel d, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=II&artikel=3&z=2025-01-01&g=2025-01-01), wordt jaarlijks een vergoeding geheven overeenkomstig regelen bij algemene maatregel van bestuur, vast te stellen.
 
@@ -96,7 +121,7 @@ Voor de toepassing van deze wet en de uitvoering daarvan te geven voorschriften 
 
 - c. indien de krachtens het eerste lid verschuldigde vergoeding niet is betaald.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Hij, die de artsenijbereidkunde uitoefent, is gehouden dit met nauwkeurigheid en met inachtneming van de wettelijke voorschriften te doen.
 
@@ -104,7 +129,7 @@ Voor de toepassing van deze wet en de uitvoering daarvan te geven voorschriften 
 
 ### Hoofdstuk III. Verpakte geneesmiddelen
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het is verboden verpakte geneesmiddelen welke niet staan in het register, bedoeld in [artikel 53 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=53), te bereiden, in voorraad te hebben, te verkopen, af te leveren, ter hand te stellen, in te voeren, of te verhandelen.
 
@@ -118,7 +143,7 @@ Voor de toepassing van deze wet en de uitvoering daarvan te geven voorschriften 
 
 3. Indien het belang van de volksgezondheid zulks vordert, is onze Minister bevoegd ten aanzien van een geneesmiddel, welk staat in het register, bedoeld in [artikel 53 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=53), te bepalen, dat gedurende een bij zijn beschikking aan te wijzen tijdvak van ten hoogste twaalf maanden niet mag worden afgeleverd of terhandgesteld dan met inachtneming van bij die beschikking gestelde voorwaarden.
 
-#### Artikel 6
+##### Artikel 6
 
 Bij algemene maatregel van bestuur kunnen regels worden vastgesteld nopens de bereiding, het in voorraad hebben, het verkopen, het afleveren, de ter hand stelling, de invoer, de handel en het ter aflevering in voorraad hebben, de aanprijzing en de verpakking van verpakte geneesmiddelen. Bij algemene maatregel van bestuur, kan, in het belang van de volksgezondheid bepaald worden dat een of meer van die voorschriften niet van toepassing zullen zijn op een verpakt geneesmiddel, of wel van toepassing zullen zijn op enige zelfstandigheid.
 
@@ -126,7 +151,7 @@ Bij algemene maatregel van bestuur kunnen regels worden vastgesteld nopens de be
 
 #### § 1. De inschrijving
 
-#### Artikel 7
+##### Artikel 7
 
 1. Hij, die de hoedanigheid van apotheker bezit, mag van zijn bevoegdheid tot uitoefening artsenijbereidkunde geen gebruik maken voordat hij op zijn verzoek door de Inspecteur in het register der apothekers die de artsenijbereidkunde uitoefenen is ingeschreven.
 
@@ -142,7 +167,7 @@ Bij algemene maatregel van bestuur kunnen regels worden vastgesteld nopens de be
 
 - b. ingeval de verzoeker een persoon is die voornemens is de artsenijbereidkunde uit te oefenen in dienst van een apotheker, van een instelling van apothekers, van personen die geen apotheker zijn of van instellingen die geen instellingen van apothekers zijn, een door de werkgever ondertekende verklaring, waaruit ten genoegen van de Inspecteur moet blijken dat de verzoeker in staat wordt gesteld de artsenijbereidkunde in onafhankelijkheid en naar behoren uit te oefenen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De inschrijving wordt door de Inspecteur geweigerd, indien de aanvrager in de uitoefening zijner bevoegdheid is geschorst en de termijn van schorsing nog niet is verstreken, zomede indien hem deze bevoegdheid is ontnomen.
 
@@ -152,7 +177,7 @@ Bij algemene maatregel van bestuur kunnen regels worden vastgesteld nopens de be
 
 - b. indien niet de nodige waarborgen aanwezig zijn voor de aflevering van deugdelijke geneesmiddelen. Onder deze waarborgen is mede begrepen, dat het door de apotheker in zijn apotheek uit te oefenen toezicht voldoende zal zijn.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De inschrijving vervalt:
 
@@ -166,37 +191,37 @@ Bij algemene maatregel van bestuur kunnen regels worden vastgesteld nopens de be
 
 3. In de gevallen, bedoeld in het eerste en tweede lid, is de Inspecteur bevoegd de apotheek te sluiten en de toegang te verzegelen en verzegeld te houden zolang geen nieuwe inschrijving is geschied.
 
-#### Artikel 10
+##### Artikel 10
 
 [vervallen]
 
-#### Artikel 11
+##### Artikel 11
 
 De apotheker is verplicht, zodra hij ophoudt de artsenijbereidkunde uit te oefenen in de apotheek waarvoor hij is ingeschreven, daarvan schriftelijk kennis te geven aan de Inspecteur.
 
 #### § 2. De uitoefening van het beroep
 
-#### Artikel 12
+##### Artikel 12
 
 De apotheker mag de artsenijbereidkunde slechts in één apotheek uitoefenen, behoudens in de gevallen bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=6&artikel=24&z=2025-01-01&g=2025-01-01) en het tweede lid laatste zin van [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IX&artikel=44&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 13
+##### Artikel 13
 
 Indien in een apotheek meer dan één apotheker de artsenijbereidkunde uitoefent, rusten alle verplichtingen, welke deze wet of de ter uitvoering daarvan te geven voorschriften de apotheker oplegt, op de oudste in leeftijd, tenzij de betrokken apothekers schriftelijk anders zijn overeengekomen en de Inspecteur aan belanghebbenden schriftelijk van zijn instemming met deze overeenkomst heeft doen blijken.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De apotheker is verplicht zorg te dragen, dat de in zijn apotheek werkzame personen de bij of krachtens deze wet vastgestelde bepalingen naleven.
 
 2. Hij is van de verplichting, bedoeld in het eerste lid van dit artikel, bevrijd, voor zover hij kan aantonen, dat hij gedaan heeft wat redelijkerwijze mogelijk was om een overtreding te voorkomen.
 
-#### Artikel 15
+##### Artikel 15
 
 Het is de apotheker verboden, met een geneeskundige, tandheelkundige of vroedvrouw rechtstreeks of zijdelings enige overeenkomst betreffende het leveren van geneesmiddelen aan derden aan te gaan, waardoor voor hen, die het gebruik der geneesmiddelen voorschrijft, deze bereidt of deze aflevert, rechtstreeks of zijdelings geldelijk of in geld waardeerbaar belang bij de levering zou bestaan.
 
 #### § 3. De terhandstelling van geneesmiddelen
 
-#### Artikel 16
+##### Artikel 16
 
 1. De apotheker stelt geneesmiddelen terhand op recept of op enig ander verzoek met inachtneming van het bepaalde bij het [tweede lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=II&artikel=4&z=2025-01-01&g=2025-01-01).
 
@@ -204,7 +229,7 @@ Het is de apotheker verboden, met een geneeskundige, tandheelkundige of vroedvro
 
 3. Een apotheker die in een apotheek werkt, is bevoegd in spoedgevallen geneesmiddelen, bedoeld in het tweede lid van dit artikel, ter hand te stellen zonder dat een recept wordt overgelegd, indien hij zich voldoende zekerheid heeft verschaft dat gevaar voor misbruik niet kan ontstaan.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De apotheker stelt op recept geen geneesmiddelen terhand dan nauwkeurig volgens het recept en van deugdelijke bestanddelen bereid.
 
@@ -212,7 +237,7 @@ Het is de apotheker verboden, met een geneeskundige, tandheelkundige of vroedvro
 
 3. Hij wordt geacht zekerheid te hebben verkregen, indien hij zijn vermoeden en de gronden waarop dit vermoeden steunt heeft kenbaar gemaakt aan degene die het recept voorschreef en deze de juistheid van het recept schriftelijk heeft bevestigd of een tweede gelijkluidend recept heeft afgegeven.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De apotheker zorgt, dat aan of op elk voorwerp waarin hij een geneesmiddel op recept terhandstelt, een papier gehecht is, waarop de naam van degene te wiens behoeve het is voorgeschreven is vermeld, dan wel diens initialen of een cijfer ter vervanging daarvan, alsmede de wijze van gebruik, de dag der aflevering en zijn naam.
 
@@ -220,13 +245,13 @@ Het is de apotheker verboden, met een geneeskundige, tandheelkundige of vroedvro
 
 #### § 4. De tijd en de wijze van bewaring en het ter inzage geven van recepten
 
-#### Artikel 19
+##### Artikel 19
 
 1. De apothekers liasseren de hun aangeboden en bereide recepten naar de volgorde der bereiding en bewaren die aldus gedurende vijf jaren. De bewaring van de recepten dient in de apotheek te geschieden en wel op geordende en overzichtelijke wijze overeenkomstig door de Inspecteur vast te stellen richtlijnen of te geven aanwijzingen.
 
 2. Bij overgang van de apotheek op een andere apotheker gaan ook de recepten op deze over; bij opheffing der apotheek worden zij door de naaste belanghebbende aan de Inspecteur overgegeven.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De apotheker mag, behoudens het in het volgende artikel bepaalde, een recept aan niemand ter inzage geven, nog afschrift daarvan verstrekken, noch mededelingen daaromtrent doen dan aan:
 
@@ -242,7 +267,7 @@ Het is de apotheker verboden, met een geneeskundige, tandheelkundige of vroedvro
 
 2. De apotheker is verplicht éénmaal een afschrift van een recept af te geven aan een der in het vorige lid van dit artikel bedoelde personen, indien dit door deze wordt verlangd.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De apotheker geeft, wanneer dit door een der in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=4&artikel=20&z=2025-01-01&g=2025-01-01) genoemde personen verlangd wordt, een gespecificeerde rekening der geleverde geneesmiddelen.
 
@@ -252,7 +277,7 @@ Het is de apotheker verboden, met een geneeskundige, tandheelkundige of vroedvro
 
 #### § 5. De aflevering van giftige zelfstandigheden
 
-#### Artikel 22
+##### Artikel 22
 
 1. De apotheker levert geen giftige zelfstandigheden af dan op voorschrift van een geneeskundige, tandheelkundige of vroedvrouw of aan apothekers aan geneeskundigen als in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2025-01-01&g=2025-01-01) bedoeld, of op schriftelijke en ondertekende aanvraag, met opgave van het doel waartoe de giftige zelfstandigheden dienen moeten, aan andere, doch bij hem bekende personen.
 
@@ -260,7 +285,7 @@ Het is de apotheker verboden, met een geneeskundige, tandheelkundige of vroedvro
 
 3. Dit artikel is niet van toepassing op giftige zelfstandigheden, welke in het algemeen ook buiten de apotheek in de handel verkrijgbaar zijn.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De apotheker schrijft zonder uitstel in een register elke aflevering van vergiften met vermelding van de dag waarop en van naam en adres van de persoon aan wie de aflevering is gedaan.
 
@@ -270,7 +295,7 @@ Het is de apotheker verboden, met een geneeskundige, tandheelkundige of vroedvro
 
 #### § 6. De waarneming
 
-#### Artikel 24
+##### Artikel 24
 
 1. Indien een apotheker door ziekte of tijdelijke afwezigheid verhinderd is de artsenijbereidkunde in zijn apotheek uit te oefenen, dan wel de inschrijving volgens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=1&artikel=9&z=2025-01-01&g=2025-01-01) is vervallen of ingetrokken, kan de Inspecteur aan een andere apotheker op diens verzoek toestaan de artsenijbereidkunde in die apotheek als waarnemende apotheker uit te oefenen. De Inspecteur kan aan deze toestemming voorwaarden verbinden.
 
@@ -284,7 +309,7 @@ Het is de apotheker verboden, met een geneeskundige, tandheelkundige of vroedvro
 
 ### Hoofdstuk V. De apothekers-assistenten en -leerlingen
 
-#### Artikel 25
+##### Artikel 25
 
 1. De apotheker kan zich doen bijstaan door een of meer apothekers-assistenten, die onverminderd het bepaalde in het [eerste lid van artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=I&artikel=1&z=2025-01-01&g=2025-01-01) verantwoordelijk zijn voor hetgeen door hen in de uitoefening van hun beroep wordt gedaan of nagelaten.
 
@@ -296,7 +321,7 @@ Het is de apotheker verboden, met een geneeskundige, tandheelkundige of vroedvro
 
 5. Het bepaalde in de [artikelen 7 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=1&artikel=7&z=2025-01-01&g=2025-01-01) en [9 lid l onder a. en c](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=1&artikel=9&z=2025-01-01&g=2025-01-01). is van overeenkomstige toepassing.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Het is de apotheker geoorloofd aan een of meer personen in opleiding tot apotheker of apothekersassistent, gelegenheid te geven in zijn apotheek werkzaam te zijn.
 
@@ -304,7 +329,7 @@ Het is de apotheker verboden, met een geneeskundige, tandheelkundige of vroedvro
 
 ### Hoofdstuk VI. De apotheek
 
-#### Artikel 26a
+##### Artikel 26a
 
 1. Het is verboden, middellijk of onmiddellijk, een apotheek te vestigen, te verplaatsen, over te nemen dan wel te drijven, zonder een daartoe door Onze Minister verleende vergunning.
 
@@ -318,13 +343,13 @@ Het is de apotheker verboden, met een geneeskundige, tandheelkundige of vroedvro
 
 6. Onze Minister beslist niet eerder tot toekenning, weigering of intrekking van een vergunning als bedoeld in het eerste lid, dan nadat een bij Onze Minister aan te wijzen commissie is gehoord. Bij regeling van Onze Minister kunnen regels worden gesteld over de uitvoering van de werkzaamheden van de commissie.
 
-#### Artikel 26b
+##### Artikel 26b
 
 1. In het belang van een goede uitvoering van [artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=26a&z=2025-01-01&g=2025-01-01) kunnen door Onze Minister nadere regelen worden gegeven.
 
 2. [Artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=26a&z=2025-01-01&g=2025-01-01) is niet van toepassing op apotheken in ziekenhuizen als bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IX&artikel=44&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 27
+##### Artikel 27
 
 1. Een lokaal mag aan het publiek alleen dan als apotheek kenbaar worden gemaakt, wanneer het als zodanig in gebruik is bij een apotheker en voldoet aan de voor een apotheek gestelde eisen.
 
@@ -332,7 +357,7 @@ Het is de apotheker verboden, met een geneeskundige, tandheelkundige of vroedvro
 
 3. Bij algemene maatregel van bestuur, worden nadere voorschriften gegeven betreffende de inrichting van het lokaal of de lokalen waarin de apotheek wordt gevestigd.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Het openings- en sluitingsuur van de openbare apotheken wordt bij eialgemene maatregel van bestuur, zodanig geregeld dat er steeds voldoende gelegenheid tot het verkrijgen van geneesmiddelen is.
 
@@ -342,11 +367,11 @@ Het is de apotheker verboden, met een geneeskundige, tandheelkundige of vroedvro
 
 4. Het in [artikel 27 leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=27&z=2025-01-01&g=2025-01-01) en in de vorige leden van dit artikel gestelde is niet van toepassing op de apotheken in ziekenhuizen en poliklinieken van ondernemingen ondergebracht.
 
-#### Artikel 29
+##### Artikel 29
 
 Onverminderd de bepaling van het [tweede lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=II&artikel=3&z=2025-01-01&g=2025-01-01) mogen in een apotheek slechts werkzaamheden, die geacht kunnen worden betrekking te hebben op de uitoefening van de artsenijbereidkunde of op wetenschappelijke onderzoekingen, worden verricht.
 
-#### Artikel 30
+##### Artikel 30
 
 1. In elke apotheek moeten steeds schouwbaar voorhanden zijn:
 
@@ -370,15 +395,15 @@ Onverminderd de bepaling van het [tweede lid van artikel 3](https://wetten.overh
 
 - e. cosmetica, zomede andere bij algemene maatregel van bestuur, aan te wijzen artikelen.
 
-#### Artikel 31
+##### Artikel 31
 
 Elke geneesmiddel moet voldoen aan de vereisten vermeld in de laatste uitgave van de Nederlandse Farmacopee en bewaard worden in een daartoe geschikt voorwerp, hetwelk de officiële of de meest gebruikelijke naam van het middel duidelijk leesbaar ten opschrift heeft.
 
-#### Artikel 32
+##### Artikel 32
 
 Giftige zelfstandigheden vermeld op een bij algemene maatregel van bestuur vast te stellen lijst, worden bewaard in een of meer gesloten kasten, waarvan de sleutels uitsluitend bij de apotheker of de apothekersassistent berusten.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Indien een apotheek wordt verkocht is de verkoper verplicht zorg te dragen, dat de verkoop van de in de apotheek aanwezige voorraad geneesmiddelen en giftige zelfstandigheden alleen geschiedt aan een apotheker of een geneeskundige als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2025-01-01&g=2025-01-01) of aan de houder ener vergunning als bedoeld in [artikel 3 onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=II&artikel=3&z=2025-01-01&g=2025-01-01).
 
@@ -386,11 +411,11 @@ Giftige zelfstandigheden vermeld op een bij algemene maatregel van bestuur vast 
 
 ### Hoofdstuk VII. De uitoefening der artsenijbereidkunde door geneeskundigen
 
-#### Artikel 34
+##### Artikel 34
 
 De uitoefening van de artsenijbereidkunde is aan geneeskundigen die tevens de hoedanigheid van apotheker bezien, verboden zolang zij de geneeskundige praktijk uitoefenen, behoudens het bepaalde in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 35
+##### Artikel 35
 
 1. Onze Minister kan, de Inspecteur gehoord, in het belang van een goede geneesmiddelenvoorziening de bevoegdheid tot het uitoefenen van de artsenijbereidkunde verlenen aan geneeskundigen, die zich in een van de openbare lichamen Bonaire, Sint Eustatius of Saba vestigen, doch uitsluitend in dat openbaar lichaam.
 
@@ -404,7 +429,7 @@ De uitoefening van de artsenijbereidkunde is aan geneeskundigen die tevens de ho
 
 6. [Artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=26a&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing.
 
-#### Artikel 36
+##### Artikel 36
 
 1. De in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2025-01-01&g=2025-01-01) bedoelde geneeskundigen stellen geen geneesmiddelen ter hand dan na in een daartoe bestemd register aantekening te hebben gehouden van de naam of samenstelling van het geneesmiddel, met vermelding van de dag waarop en van. de persoon ten behoeve van wie de aflevering is gedaan.
 
@@ -412,7 +437,7 @@ De uitoefening van de artsenijbereidkunde is aan geneeskundigen die tevens de ho
 
 3. Overigens zijn op hen de bij of krachtens deze wet voor apothekers geldende bepalingen, voor zover deze voor hen geen uitdrukkelijke afwijking inhouden, van overeenkomstige toepassing.
 
-#### Artikel 37
+##### Artikel 37
 
 1. De in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2025-01-01&g=2025-01-01) bedoelde geneeskundigen moeten, behalve nauwkeurige maten, gewichten en balansen, de geneesmiddelen en giftige zelfstandigheden, vermeld op een voor hen bij algemene maatregel van bestuur, vastgestelde lijst, voorradig houden, zomede een exemplaar van de laatste uitgave van de Nederlandse Farmacopee.
 
@@ -426,21 +451,21 @@ De uitoefening van de artsenijbereidkunde is aan geneeskundigen die tevens de ho
 
 - c. stoffen, werktuigen en verdere benodigdheden welke voor wetenschappelijke onderzoekingen nodig zijn.
 
-#### Artikel 38
+##### Artikel 38
 
 De in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2025-01-01&g=2025-01-01) bedoelde geneeskundigen kunnen zich doen bijstaan door een of meer apothekers-assistenten. [Artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=V&artikel=25&z=2025-01-01&g=2025-01-01) is alsdan van overeenkomstige toepassing.
 
-#### Artikel 39
+##### Artikel 39
 
 Indien de praktijk van een geneeskundige, aan wie de bevoegdheid tot uitoefening van de artsenijbereidkunde ingevolge [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2025-01-01&g=2025-01-01) is verleend, door een andere geneeskundige wordt waargenomen, gaan tijdens de waarneming de bevoegdheden en verplichtingen, welke de eerstgenoemde geneeskundige ingevolge deze wet heeft, over op degene die zijn praktijk waarneemt.
 
 ### Hoofdstuk VIII. De uitoefening van de artsenijbereidkunde aan boord van schepen
 
-#### Artikel 40
+##### Artikel 40
 
 De geneeskundige, die zich als zodanig voor de dienst op een van de openbare lichamen Bonaire, Sint Eustatius of Saba thuis behorend schip heeft verbonden, is aan boord van dat schip bevoegd tot de uitoefening van de artsenijbereidkunde ten behoeve van de opvarenden.
 
-#### Artikel 41
+##### Artikel 41
 
 1. De reder van een schip waarop zich een geneeskundige voor de dienst heeft verbonden, is verplicht er zorg voor te dragen dat tijdig voor iedere reis de zelfstandigheden, werktuigen en verdere benodigdheden, vermeld op een door de geneeskundige opgemaakte en door hem ondertekende lijst, in deugdelijke staat en in voldoende hoeveelheid aan boord van het schip aanwezig zijn in een daartoe geschikte ruimte, alsmede dat de geneeskundige de ingevolge bij of krachtens deze wet op hem rustende verplichtingen kan nakomen.
 
@@ -448,7 +473,7 @@ De geneeskundige, die zich als zodanig voor de dienst op een van de openbare lic
 
 3. Op de in het eerste lid bedoelde lijst mogen de door Onze Minister aan te wijzen zelfstandigheden niet ontbreken.
 
-#### Artikel 42
+##### Artikel 42
 
 1. De kapitein maakt, telkens wanneer hij van oordeel is dat de geneeskundige een der bij of krachtens deze wet vastgestelde bepalingen heeft overtreden, daarvan melding in het scheepsdagboek.
 
@@ -456,7 +481,7 @@ De geneeskundige, die zich als zodanig voor de dienst op een van de openbare lic
 
 ### Hoofdstuk IX. Het in voorraad houden en verstrekken van geneesmiddelen in ziekenhuizen en poliklinieken van ondernemingen
 
-#### Artikel 43
+##### Artikel 43
 
 1. Aan het bestuur van een ziekenhuis kan, op een daartoe tot de Inspecteur gericht verzoek, door de Inspecteur, al of niet onder door hem te bepalen voorwaarden, vergunning worden verleend tot het in voorraad hebben en verstrekken van geneesmiddelen. Daarnaast kan een vergunning door de Inspecteur, al dan niet onder het stellen van voorwaarden, worden verleend tot het bereiden van geneesmiddelen, mits zulks geschiedt onder toezicht van een apotheker.
 
@@ -464,7 +489,7 @@ De geneeskundige, die zich als zodanig voor de dienst op een van de openbare lic
 
 3. Voor een vergunning als bedoeld in het eerste lid, eerste volzin, wordt jaarlijks een vergoeding geheven overeenkomstig regelen bij algemene maatregel van bestuur, vast te stellen.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Onze Minister kan als verplichting voorschrijven dat de geneesmiddelenvoorziening van ieder ziekenhuis, dat een door hem te bepalen, grootte te boven gaat, zal plaats vinden door een apotheker, die de artsenijbereidkunde uitsluitend uitoefent ten behoeve van de verpleegden van dat ziekenhuis in een daartoe door Onze Minister goedgekeurde in het ziekenhuis onder gebrachte apotheek.
 
@@ -472,7 +497,7 @@ De geneeskundige, die zich als zodanig voor de dienst op een van de openbare lic
 
 ### Hoofdstuk X. Het toezicht
 
-#### Artikel 45
+##### Artikel 45
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de ambtenaren van de inspectie, alsmede de bij ministeriële regeling aangewezen personen. Een zodanige aanwijzing wordt bekendgemaakt in de Staatscourant.
 
@@ -498,15 +523,15 @@ De geneeskundige, die zich als zodanig voor de dienst op een van de openbare lic
 
 6. Een ieder is verplicht aan de krachtens het eerste lid aangewezen personen alle medewerking te verlenen die op grond van het tweede lid wordt gevorderd.
 
-#### Artikel 46
+##### Artikel 46
 
 [vervallen]
 
-#### Artikel 47
+##### Artikel 47
 
 Indien aan de in [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=X&artikel=45&z=2025-01-01&g=2025-01-01), bedoelde personen blijkt dat niet is of wordt voldaan aan het bij of krachtens deze wet bepaalde, doen zij daarvan mededeling aan de betrokkene en stellen zij, onverminderd de bevoegdheid tot voorlopige inbeslagneming als bedoeld in artikel 45, tweede lid, onderdeel f, een termijn waarbinnen daaraan alsnog moet zijn voldaan.
 
-#### Artikel 48
+##### Artikel 48
 
 1. De Inspecteur is bevoegd apothekers en krachtens [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VII&artikel=35&z=2025-01-01&g=2025-01-01) tot uitoefening van de artsenijbereidkunde bevoegde geneeskundigen aanwijzingen te geven ter verbetering van de inrichting en de toestand van de apotheek en van de wijze waarop daarin de artsenijbereidkunde wordt uitgeoefend.
 
@@ -516,19 +541,19 @@ Indien aan de in [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BW
 
 ### Hoofdstuk Xa. De eigenaar
 
-#### Artikel 48a
+##### Artikel 48a
 
 Het bepaalde in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=2&artikel=14&z=2025-01-01&g=2025-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=IV&paragraaf=2&artikel=15&z=2025-01-01&g=2025-01-01), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=X&artikel=47&z=2025-01-01&g=2025-01-01) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=X&artikel=48&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing ten aanzien van de eigenaar van een apotheek.
 
-#### Artikel 48b
+##### Artikel 48b
 
 Het is de eigenaar, bedoeld in [artikel 48a](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=Xa&artikel=48a&z=2025-01-01&g=2025-01-01), verboden te handelen of handelingen na te laten in strijd met het bij of krachtens deze wet bepaalde.
 
-#### Artikel 48c
+##### Artikel 48c
 
 Het is de eigenaar, bedoeld in [artikel 48a](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=Xa&artikel=48a&z=2025-01-01&g=2025-01-01), voorts verboden in strijd met het bepaalde bij of krachtens deze wet te doen handelen of handelingen te doen nalaten dan wel zodanige beletselen op te werpen dat anderen de aan hen bij of krachtens deze wet opgelegde verplichtingen niet kunnen nakomen.
 
-#### Artikel 49
+##### Artikel 49
 
 1. Met hechtenis van ten hoogste zes maanden of geldboete van ten hoogste de tweede categorie wordt gestraft hij, die:
 
@@ -546,36 +571,36 @@ Het is de eigenaar, bedoeld in [artikel 48a](https://wetten.overheid.nl/jci1.3:c
 
 3. Op de bij dit artikel strafbaar gestelde feiten zijn niet van toepassing de strafbepalingen, voorkomende in de Algemene Verordening I.U. & D. 1908 (P.B. 1949, no 62).
 
-#### Artikel 50
+##### Artikel 50
 
 [vervallen]
 
 ### Hoofdstuk XII. Overgangs- en slotbepalingen
 
-#### Artikel 51
+##### Artikel 51
 
 Het is verboden geneesmiddelen als bedoeld in [artikel XIX van de Derde Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0029250&artikel=XIX), af te leveren of ter hand te stellen zonder dat daarbij wordt voldaan aan de door Onze Minister gestelde voorschriften of beperkingen.
 
-#### Artikel 52
+##### Artikel 52
 
 [vervallen]
 
-#### Artikel 53
+##### Artikel 53
 
 [vervallen]
 
-#### Artikel 54
+##### Artikel 54
 
 [vervallen]
 
-#### Artikel 55
+##### Artikel 55
 
 [vervallen]
 
-#### Artikel 56
+##### Artikel 56
 
 De besluiten van de Gouverneur van de 25ste juli 1906 (P.B. 1906, No. 33) en van de 25ste juli 1906 (P.B. 1906, no. 34) ter uitvoering van respectievelijk artikel 5 en artikel 8 van de Verordening van de 30ste oktober 1873 (P.B. 1874, No. 6), regelende de uitoefening van de artsenijmengkunst in de Nederlandse Antillen, zoals gewijzigd, blijven van kracht totdat zij zijn vervangen door de landsbesluiten, houdende algemene maatregelen, bedoeld in de [artikelen 30, lid 1 sub d](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=30&z=2025-01-01&g=2025-01-01) en [32, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&hoofdstuk=VI&artikel=32&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 57
+##### Artikel 57
 
 Deze wet wordt aangehaald als: Wet op de geneesmiddelenvoorziening BES.

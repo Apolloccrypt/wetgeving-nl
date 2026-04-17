@@ -1,20 +1,46 @@
 ---
-title: "Aanwijzingsbesluit elektronische kanalen Rijksdienst voor het Cultureel Erfgoed"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 23 december 2025, nr. RCE/1792420, houdende de aanwijzing van de juiste wijze van verzenden van berichten aan de Rijksdienst voor het Cultureel Erfgoed in de zin van de artikelen 2:13 en 2:14 van de Algemene wet bestuursrecht (Aanwijzingsbesluit elektronische kanalen Rijksdienst voor het Cultureel Erfgoed)"
 identifier: "BWBR0052122"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-06
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052122"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-06"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052122"
+soort: "ministeriele-regeling"
+stam_id: "17725253"
+version_id: "31281282"
+internal_id: "C44724031"
+label_id: "17623824"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052122/2026-01-06/0"
+intitule_bron: "Stcrt.2026-92"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-23"
+intitule_published: "2026-01-05"
+intitule_in_force: "2026-01-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-92"
+original_signed_date: "2025-12-23"
+original_published_date: "2026-01-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-92"
+entry_into_force_date: "2026-01-06"
+jci_1_3: "jci1.3:c:BWBR0052122&z=2026-01-06&g=2026-01-06"
+jci_1_0: "1.0:c:BWBR0052122&g=2026-01-06"
+citeertitel_status: "officieel"
+short_title: "Aanwijzingsbesluit elektronische kanalen Rijksdienst voor het Cultureel Erfgoed"
+signed_date: "2025-12-23"
+entry_into_force: "2026-01-06"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 23 december 2025, nr. RCE/1792420, houdende de aanwijzing van de juiste wijze van verzenden van berichten aan de Rijksdienst voor het Cultureel Erfgoed in de zin van de artikelen 2:13 en 2:14 van de Algemene wet bestuursrecht (Aanwijzingsbesluit elektronische kanalen Rijksdienst voor het Cultureel Erfgoed)
 
 Gelet op [artikel 2:13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:13), en [2:14 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:14);
 
 **Besluit:**
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Dit besluit verstaat onder:
 
@@ -24,7 +50,7 @@ Dit besluit verstaat onder:
 
 - c. **rijksdienst:** Rijksdienst voor het Cultureel Erfgoed;
 
-#### Artikel 2. Algemene bepalingen
+##### Artikel 2. Algemene bepalingen
 
 1. Dit aanwijzingsbesluit geeft aan op welke wijze burgers, bedrijven, stichtingen en andere rechtspersonen de rijksdienst digitaal kunnen benaderen. Burgers, bedrijven, stichtingen en andere rechtspersonen houden de mogelijkheid om op andere manieren te communiceren met de rijksdienst, zoals per telefoon, per post, of via een afspraak op locatie.
 
@@ -34,15 +60,15 @@ Dit besluit verstaat onder:
 
 4. In afwijking van het eerste lid wordt voor berichten waarvoor in dit aanwijzingsbesluit geen expliciet kanaal is aangewezen en voor zover de wet niet anders bepaalt het algemeen contactformulier van de rijksdienst aangewezen ([Contactformulier | Rijksdienst voor het Cultureel Erfgoed](https://www.cultureelerfgoed.nl/service/contact/contactformulier)).
 
-#### Artikel 3. Aanwijzing elektronische kanalen per proces
+##### Artikel 3. Aanwijzing elektronische kanalen per proces
 
 De algemeen directeur van de rijksdienst wijst op grond van [artikel 2:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:13) voor ieder afzonderlijk door de rijksdienst uitgevoerd proces voor diensten aan de burger proces-specifieke kanalen aan, zoals vermeld in dit besluit en de bij dit besluit behorende bijlage.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2026. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2025, treedt het in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt het terug tot en met 1 januari 2026.
 
-#### Artikel 5. Citeertitel
+##### Artikel 5. Citeertitel
 
 Dit besluit wordt aangehaald als: Aanwijzingsbesluit elektronische kanalen Rijksdienst voor het Cultureel Erfgoed.
 

@@ -1,13 +1,38 @@
 ---
 title: "Besluit beperking openbaarheid Veiligheidsonderzoeken Nederlandse Spoorwegen, Inspectie Leefomgeving en Transport"
 identifier: "BWBR0046720"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-06-02
-laatste_update: 2022-06-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046720"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-06-02"
+last_updated: "2022-06-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046720"
+soort: "ministeriele-regeling"
+stam_id: "16372723"
+version_id: "28658172"
+internal_id: "C40464041"
+label_id: "16296924"
+dtd_version: "2.0"
+original_entry_into_force: "2022-06-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046720/2022-06-02/0"
+intitule_bron: "Stcrt.2022-14572"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-04-20"
+intitule_published: "2022-06-01"
+intitule_in_force: "2022-06-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-14572"
+original_signed_date: "2022-04-20"
+original_published_date: "2022-06-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-14572"
+entry_into_force_date: "2022-06-02"
+jci_1_3: "jci1.3:c:BWBR0046720&z=2022-06-02&g=2022-06-02"
+jci_1_0: "1.0:c:BWBR0046720&g=2022-06-02"
+citeertitel_status: "redactioneel"
+signed_date: "2022-04-20"
+entry_into_force: "2022-06-02"
 ---
-
 # Besluit beperking openbaarheid Veiligheidsonderzoeken Nederlandse Spoorwegen, Inspectie Leefomgeving en Transport
 
 Gelet op [artikel 15, lid 1, onder a Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van het Nationaal Archief d.d. 18 februari 2022, met kenmerk NA-2022/31535709.
@@ -16,7 +41,7 @@ Besluit:
 
 Tot de volgende beperkingen aan de openbaarheid van Veiligheidsonderzoeken van de Dienst Exploitatie van de Nederlandse Spoorwegen, periode 1962 – 1993
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot **1 januari** van het jaar, genoemd in de tweede kolom.
 
@@ -217,14 +242,14 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 | 222 | 2069 |
 | 223 | 2058 |
 
-#### Artikel 2
+##### Artikel 2
 
 Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in **artikel 1**, is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de rijksarchivaris in de provincie Utrecht, die aan zijn/ haar toestemming voorwaarden kan verbinden.
 
-#### Artikel 3
+##### Artikel 3
 
 Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046720&artikel=1&z=2022-06-02&g=2022-06-02), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de rijksarchivaris in de provincie Utrecht, die aan zijn/ haar toestemming voorwaarden kan verbinden.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van archief van de veiligheidsonderzoeken van de Dienst Exploitatie van de Nederlandse Spoorwegen, 1962 – 1993’.

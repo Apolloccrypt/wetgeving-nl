@@ -1,28 +1,53 @@
 ---
 title: "Beleidsregel huisartsendienstenstructuur"
 identifier: "BWBR0051274"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051274"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051274"
+soort: "zbo"
+stam_id: "17477373"
+version_id: "30823812"
+internal_id: "C44174111"
+label_id: "17379734"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051274/2026-01-01/0"
+intitule_bron: "Stcrt.2025-24306"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-06-24"
+intitule_published: "2025-07-18"
+intitule_in_force: "2025-07-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-24306"
+original_signed_date: "2025-06-24"
+original_published_date: "2025-07-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-24306"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051274&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051274&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-06-24"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregel huisartsendienstenstructuur
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
 
 Gelet op [artikel 52, aanhef en onderdeel e, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=52), worden tarieven die uit de voorliggende beleidsregel voortvloeien ambtshalve vastgesteld door de NZa.
 
-#### Artikel 1. Doel van de beleidsregel
+##### Artikel 1. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheden om tarieven en prestatiebeschrijvingen vast te stellen op het gebied van spoedeisende huisartsenzorg in avond, nacht en weekend die wordt geleverd door huisartsendienstenstructuren (HDS).
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 Deze beleidsregel is van toepassing op geneeskundige zorg zoals huisartsen die plegen te bieden (huisartsenzorg) als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw), die wordt geleverd in een rechtspersoonlijkheid bezittend organisatorisch verband, opgericht ten behoeve van spoedeisende huisartsenzorg in avond, nacht en weekend en op officiële feestdagen (nieuwjaarsdag, Goede Vrijdag, eerste paasdag, tweede paasdag, Koningsdag, Bevrijdingsdag, Hemelvaartsdag, eerste pinksterdag, tweede pinksterdag, eerste kerstdag en tweede kerstdag), aangevuld met kerst- en oudjaarsavond.
 
-#### Artikel 3. Prestatiebeschrijvingen
+##### Artikel 3. Prestatiebeschrijvingen
 
 1. In het kader van deze beleidsregel worden de volgende prestatiebeschrijvingen onderscheiden:
 
@@ -52,7 +77,7 @@ Als de triage wordt afgesloten met de afspraak dat deze zal worden gevolgd door 
 
 Als het triageconsult als afgesloten wordt beschouwd en een waarneemretourbericht is aangemaakt, en er volgt opnieuw een contact met de HDS, dan kan het eerste triageconsult in rekening worden gebracht. Voor het tweede contact gelden bovenstaande bepalingen.
 
-#### Artikel 4. Budgetvaststelling
+##### Artikel 4. Budgetvaststelling
 
 1. De NZa stelt op basis van een gezamenlijk door de HDS en de representerende zorgverzekeraars ingediende tariefaanvraag een budget voor het jaar t+1 vast. Het vast te stellen budget van de HDS is opgebouwd uit de volgende budgetonderdelen:
 
@@ -160,7 +185,7 @@ Indien in de loop van het jaar t+1 blijkt dat het volume en/of de hoogte van het
 
 Op basis van de gewijzigde productieverwachtingen en/of hoogte van het benodigde kostenbudget zal de NZa een nieuw tarief voor het jaar t+1 vaststellen. De vaststelling van het tarief leidt tot de afgifte van een nieuwe tariefbeschikking voor de HDS. De afgifte van de tariefbeschikking zal niet met terugwerkende kracht worden doorgevoerd.
 
-#### Artikel 5. Tariefopbouw
+##### Artikel 5. Tariefopbouw
 
 1. De HDS kan van 18.00 uur tot 08.00 uur ten behoeve van de geleverde zorg aan patiënten en/of zorgverzekeraar een vast tarief per triageconsult, consult en visite in rekening brengen. Deze uren betreffen tevens de tijdsperiode tussen zaterdagmorgen 08.00 uur en zaterdagavond 18.00 uur en de tijdsperiode tussen zondagmorgen 08.00 uur en zondagavond 18.00 uur alsmede de tijdsperiode tussen 08.00 uur en 18.00 uur op officiële feestdagen (nieuwjaarsdag, Goede Vrijdag, eerste paasdag, tweede paasdag, Koningsdag, Bevrijdingsdag, Hemelvaartsdag, eerste pinksterdag, tweede pinksterdag, eerste kerstdag en tweede kerstdag), aangevuld met kerst- en oudjaarsavond.
 
@@ -174,7 +199,7 @@ Op basis van de gewijzigde productieverwachtingen en/of hoogte van het benodigde
 
 6. De hoogte van het maximum tarief voor contractueel overeengekomen huisartsenzorg aan patiënten in Wlz-instellingen en/of penitentiaire inrichtingen is maximaal tweemaal de hoogte van het vaste tarief van een triageconsult, consult of visite (volgens artikel 5.2, artikel 5.4 en artikel 5.5) of maximaal tweemaal het maximale budgetbedrag per inwoner (van een Wlz-instelling en/of penitentiaire inrichting) per jaar (volgens [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051274&artikel=4&z=2026-01-01&g=2026-01-01)).
 
-#### Artikel 6. Nacalculatiesystematiek
+##### Artikel 6. Nacalculatiesystematiek
 
 1. De verrekening over het jaar t heeft betrekking op zowel de totale verantwoorde kosten als opbrengsten van het jaar t. Een over- of onderbesteding van de aanvaardbare infrastructurele- en honorariumkosten jaar t ten opzichte van het vastgestelde budget over dat jaar wordt ten laste/bate gebracht van de Reserve Aanvaardbare Kosten (RAK).
 
@@ -208,7 +233,7 @@ De jaarrekening (en het bijbehorende verantwoordingsformulier) van jaar t, bevat
 
 - –. de eventuele opgave van de besparing op de kosten van zelfverwijzers in de 2e lijn.
 
-#### Artikel 7. Niet-aanvaardbare kosten
+##### Artikel 7. Niet-aanvaardbare kosten
 
 De volgende kostenposten zijn aangewezen als niet-aanvaardbare infrastructurele en/of honorariumkosten voor de HDS:
 
@@ -224,15 +249,15 @@ De volgende kostenposten zijn aangewezen als niet-aanvaardbare infrastructurele 
 
 - –. afschrijvingskosten hoger dan op grond van de vastgestelde afschrijvingspercentages in rekening had mogen worden gebracht. (Voor stenen gebouwen geldt een afschrijvingspercentage van 2%, voor semi-permanente gebouwen en verbouwingen 5%, voor houten paviljoens 10%, voor inventaris en instrumentarium 10% en voor automatisering en telecom 20%).
 
-#### Artikel 8. Intrekking oude beleidsregel
+##### Artikel 8. Intrekking oude beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt [Beleidsregel huisartsendienstenstructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0050004), met kenmerk BR/REG-25138, ingetrokken.
 
-#### Artikel 9. Toepasselijkheid voorafgaande beleidsregel
+##### Artikel 9. Toepasselijkheid voorafgaande beleidsregel
 
 De [Beleidsregel huisartsendienstenstructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0050004), met kenmerk BR/REG-25138, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 
-#### Artikel 10. Inwerkingtreding en bekendmaking
+##### Artikel 10. Inwerkingtreding en bekendmaking
 
 Deze beleidsregel treedt in werking op 1 januari 2026.
 
@@ -240,6 +265,6 @@ Ingevolge [artikel 5, aanhef en onder e, van de Bekendmakingswet](https://wetten
 
 De beleidsregel ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](http://www.nza.nl).
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel huisartsendienstenstructuur.

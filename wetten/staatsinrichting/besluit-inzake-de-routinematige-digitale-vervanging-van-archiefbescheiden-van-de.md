@@ -1,13 +1,39 @@
 ---
-title: "Besluit inzake de (routinematige) digitale vervanging van archiefbescheiden van de Rijksdienst voor het Cultureel Erfgoed"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 13 augustus 2015, nr. MT/2015/77, inzake de (routinematige) digitale vervanging van archiefbescheiden van de Rijksdienst voor het Cultureel Erfgoed"
 identifier: "BWBR0036982"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2015-11-01
-laatste_update: 2015-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036982"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-11-01"
+last_updated: "2015-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036982"
+soort: "ministeriele-regeling"
+stam_id: "13251633"
+version_id: "22668102"
+internal_id: "C32498691"
+label_id: "13219614"
+dtd_version: "2.0"
+original_entry_into_force: "2015-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036982/2015-11-01/0"
+intitule_bron: "Stcrt.2015-27359"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-08-13"
+intitule_published: "2015-09-11"
+intitule_in_force: "2015-09-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-27359"
+original_signed_date: "2015-08-13"
+original_published_date: "2015-09-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-27359"
+entry_into_force_date: "2015-11-01"
+jci_1_3: "jci1.3:c:BWBR0036982&z=2015-11-01&g=2015-11-01"
+jci_1_0: "1.0:c:BWBR0036982&g=2015-11-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit inzake de (routinematige) digitale vervanging van archiefbescheiden van de Rijksdienst voor het Cultureel Erfgoed"
+signed_date: "2015-08-13"
+entry_into_force: "2015-11-01"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 13 augustus 2015, nr. MT/2015/77, inzake de (routinematige) digitale vervanging van archiefbescheiden van de Rijksdienst voor het Cultureel Erfgoed
 
 Gelet op [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7);

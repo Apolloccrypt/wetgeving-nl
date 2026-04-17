@@ -1,13 +1,39 @@
 ---
-title: "Subsidiereglement Koninklijke Bibliotheek 2024"
+title: "Reglement van de Koninklijke Bibliotheek van 1 januari 2024, houdende regels voor de subsidiëring van de activiteiten genoemd in artikel 9 van de Wet stelsel openbare bibliotheekvoorzieningen (hierna: wet)"
 identifier: "BWBR0048999"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-12-05
-laatste_update: 2023-12-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048999"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-12-05"
+last_updated: "2023-12-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048999"
+soort: "zbo"
+stam_id: "16945933"
+version_id: "29787012"
+internal_id: "C42691441"
+label_id: "16856734"
+dtd_version: "2.0"
+original_entry_into_force: "2023-12-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048999/2023-12-05/0"
+intitule_bron: "Stcrt.2023-33170"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-10-17"
+intitule_published: "2023-12-04"
+intitule_in_force: "2023-12-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-33170"
+original_signed_date: "2023-10-17"
+original_published_date: "2023-12-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-33170"
+entry_into_force_date: "2023-12-05"
+jci_1_3: "jci1.3:c:BWBR0048999&z=2023-12-05&g=2023-12-05"
+jci_1_0: "1.0:c:BWBR0048999&g=2023-12-05"
+citeertitel_status: "officieel"
+short_title: "Subsidiereglement Koninklijke Bibliotheek 2024"
+signed_date: "2023-10-17"
+entry_into_force: "2023-12-05"
 ---
-
 # Reglement van de Koninklijke Bibliotheek van 1 januari 2024, houdende regels voor de subsidiëring van de activiteiten genoemd in artikel 9 van de Wet stelsel openbare bibliotheekvoorzieningen (hierna: wet)
 
 gelet op [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=9) en [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=20), en [Titel 4.2. Subsidies en overige relevante bepalingen van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) (hierna: Awb).
@@ -16,7 +42,7 @@ Besluit:
 
 ### 1. Inleidende bepalingen
 
-#### 1.1. Begripsbepalingen
+##### 1.1. Begripsbepalingen
 
 In dit reglement wordt verstaan onder:
 
@@ -52,7 +78,7 @@ In dit reglement wordt verstaan onder:
 
 - −. **wet:** [Wet stelsel openbare bibliotheekvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0035878).
 
-#### 1.2. Reikwijdte
+##### 1.2. Reikwijdte
 
 1. Dit reglement is mede van toepassing in de openbare lichamen BES.
 
@@ -84,7 +110,7 @@ In dit reglement wordt verstaan onder:
 
 5. Bekendmaking van de nadere regels vindt plaats in de Staatscourant.
 
-#### 1.3. Doelgroep aanvragers
+##### 1.3. Doelgroep aanvragers
 
 1. Subsidie kan worden aangevraagd door een instelling die aantoonbare kennis en kunde heeft op één van de volgende gebieden:
 
@@ -104,7 +130,7 @@ In dit reglement wordt verstaan onder:
 
 2. Een instellingssubsidie kan uitsluitend worden aangevraagd door een instelling die naar de statutaire doelstelling en feitelijke werkzaamheden gericht is op de uitvoering van, het bijdragen aan of het ondersteunen van de activiteiten als bedoeld in [artikel 1.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048999&hoofdstuk=1&artikel=1.2&z=2023-12-05&g=2023-12-05).
 
-#### 1.4. Subsidieplafond
+##### 1.4. Subsidieplafond
 
 1. De Koninklijke Bibliotheek kan bij besluit periodiek een subsidieplafond vaststellen.
 
@@ -118,7 +144,7 @@ In dit reglement wordt verstaan onder:
 
 ### 2. Subsidieaanvraag
 
-#### 2.1. Algemeen
+##### 2.1. Algemeen
 
 1. De Koninklijke Bibliotheek kan op aanvraag een éénjarige, tweejarige en vierjarige instellingssubsidie alsmede een projectsubsidie verstrekken.
 
@@ -128,7 +154,7 @@ In dit reglement wordt verstaan onder:
 
 4. Een instellingssubsidie wordt niet verstrekt voor vier aansluitende kalenderjaren indien het subsidiebedrag per kalenderjaar minder dan € 25.000,- bedraagt.
 
-#### 2.2. Aanvraagtermijnen
+##### 2.2. Aanvraagtermijnen
 
 1. Uiterlijk dertien weken voor aanvang van het subsidietijdvak, dient de instelling de aanvraag voor een éénjarige instellingssubsidie in.
 
@@ -138,7 +164,7 @@ In dit reglement wordt verstaan onder:
 
 4. De Koninklijke Bibliotheek kan in bijzondere gevallen een te laat ingediende aanvraag in behandeling nemen.
 
-#### 2.3. In te dienen documenten
+##### 2.3. In te dienen documenten
 
 1. De subsidieaanvraag gaat in ieder geval vergezeld van:
 
@@ -162,7 +188,7 @@ In dit reglement wordt verstaan onder:
 
 7. De subsidieaanvraag wordt in de Nederlandse taal ingediend.
 
-#### 2.4. Begroting
+##### 2.4. Begroting
 
 1. De begroting voor de aanvraag van een instellingssubsidie behelst een overzicht van de voor het kalenderjaar onderscheidenlijk de kalenderjaren geraamde baten en lasten van de aanvrager, voor zover deze betrekking hebben op de activiteiten waarvoor een subsidie wordt gevraagd.
 
@@ -174,11 +200,11 @@ In dit reglement wordt verstaan onder:
 
 5. De Koninklijke Bibliotheek kan aangeven dat de begroting uitgaat van een prijspeil van een door haar bepaald jaar.
 
-#### 2.5. Melden gelijke subsidieaanvragen
+##### 2.5. Melden gelijke subsidieaanvragen
 
 Voor zover de aanvrager voor dezelfde begrote lasten tevens subsidie heeft aangevraagd bij een of meer andere organisaties, maakt hij dat inzichtelijk in de aanvraag.
 
-#### 2.6. Subsidie voor reeds verrichte activiteiten
+##### 2.6. Subsidie voor reeds verrichte activiteiten
 
 1. Een subsidieaanvraag voor reeds verrichte activiteiten gaat vergezeld van een verslag van de aard, duur en omvang van de gerealiseerde activiteiten en een jaarrekening of een financieel verslag. Op de jaarrekening respectievelijk het financieel verslag zijn de [artikelen 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048999&hoofdstuk=5&artikel=5.4&z=2023-12-05&g=2023-12-05) en [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0048999&hoofdstuk=5&artikel=5.5&z=2023-12-05&g=2023-12-05) van overeenkomstige toepassing.
 
@@ -186,7 +212,7 @@ Voor zover de aanvrager voor dezelfde begrote lasten tevens subsidie heeft aange
 
 ### 3. Subsidieverlening
 
-#### 3.1. Beslistermijn bij subsidieverlening
+##### 3.1. Beslistermijn bij subsidieverlening
 
 1. De Koninklijke Bibliotheek beslist op de volledige aanvraag voor een instellingssubsidie of een projectsubsidie binnen 13 weken na de uiterste datum voor indiening van de aanvraag zoals bekendgemaakt in een nadere regel als bedoeld in[artikel 1.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048999&hoofdstuk=1&artikel=1.2&z=2023-12-05&g=2023-12-05), of een besluit als bedoeld in [artikel 1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048999&hoofdstuk=1&artikel=1.4&z=2023-12-05&g=2023-12-05). Indien geen uiterste datum voor indiening van de aanvraag is bekendgemaakt, beslist de Koninklijke Bibliotheek binnen 13 weken na ontvangst van die aanvraag.
 
@@ -194,7 +220,7 @@ Voor zover de aanvrager voor dezelfde begrote lasten tevens subsidie heeft aange
 
 3. Een beschikking tot verlening van een subsidie vermeldt de activiteiten waarvoor subsidie wordt verleend, het subsidiebedrag en de datum waarop de activiteiten uiterlijk zijn afgerond.
 
-#### 3.2. Weigeringsgronden
+##### 3.2. Weigeringsgronden
 
 1. Onverminderd [artikel 4:35 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35), wordt de subsidieverlening in ieder geval geweigerd voor zover:
 
@@ -226,17 +252,17 @@ Voor zover de aanvrager voor dezelfde begrote lasten tevens subsidie heeft aange
 
 ### 4. Verplichtingen subsidieontvanger
 
-#### 4.1. Algemeen
+##### 4.1. Algemeen
 
 1. De Koninklijke Bibliotheek kan bij nadere regeling of subsidiebeschikking aan de subsidieontvanger ook andere verplichtingen dan bedoeld in [artikel 4:37, eerste lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:37) en in dit reglement opleggen, voor zover deze strekken tot verwezenlijking van het doel van de subsidie.
 
 2. De Koninklijke Bibliotheek kan bij nadere regeling verplichtingen aan de subsidie verbinden die niet strekken tot verwezenlijking van het doel van de subsidie, voor zover deze verplichtingen betrekking hebben op de wijze waarop of de middelen waarmee de gesubsidieerde activiteit wordt verricht.
 
-#### 4.2. Uitvoeringsovereenkomst
+##### 4.2. Uitvoeringsovereenkomst
 
 De Koninklijke Bibliotheek kan de subsidie verlenen onder de voorwaarde dat de subsidieontvanger meewerkt aan de totstandkoming van een overeenkomst ter uitvoering van de beschikking tot subsidieverlening. In de uitvoeringsovereenkomst kunnen de te subsidiëren activiteiten en de bijbehorende verplichtingen nader worden uitgewerkt.
 
-#### 4.3. Te voeren administratie
+##### 4.3. Te voeren administratie
 
 1. De subsidieontvanger voert een zodanig ingerichte administratie dat daaruit te allen tijde de voor de vaststelling van de subsidie van belang zijnde rechten en verplichtingen evenals de baten en lasten kunnen worden nagegaan.
 
@@ -246,7 +272,7 @@ De Koninklijke Bibliotheek kan de subsidie verlenen onder de voorwaarde dat de s
 
 4. De subsidieontvanger van een instellingssubsidie stelt het boekjaar gelijk aan het kalenderjaar.
 
-#### 4.4. Meldingsplicht
+##### 4.4. Meldingsplicht
 
 1. Indien gedurende de subsidieperiode aanmerkelijke verschillen ontstaan of dreigen te ontstaan tussen de werkelijke baten en lasten en de begrote baten en lasten doet de subsidieontvanger daarvan onverwijld mededeling aan de Koninklijke Bibliotheek onder vermelding van de oorzaak van de verschillen.
 
@@ -266,7 +292,7 @@ De Koninklijke Bibliotheek kan de subsidie verlenen onder de voorwaarde dat de s
 
 - f. er een wijziging van de statuten is voor zover het betreft de vorm van de rechtspersoon, de persoon van de bestuurder(s) en het doel van de rechtspersoon.
 
-#### 4.5. Periodieke verslaglegging bij tweejarige en vierjarige instellingssubsidies
+##### 4.5. Periodieke verslaglegging bij tweejarige en vierjarige instellingssubsidies
 
 1. De subsidieontvanger dient na het eerste jaar van de tweejarige instellingssubsidie, respectievelijk na het eerste, tweede en derde jaar van de vierjarige instellingssubsidie, over het desbetreffende jaar binnen dertien weken een bestuursverslag en een jaarrekening in.
 
@@ -294,7 +320,7 @@ De Koninklijke Bibliotheek kan de subsidie verlenen onder de voorwaarde dat de s
 
 5. Op de jaarrekening zijn de [artikelen 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048999&hoofdstuk=5&artikel=5.4&z=2023-12-05&g=2023-12-05) en [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0048999&hoofdstuk=5&artikel=5.5&z=2023-12-05&g=2023-12-05) van toepassing.
 
-#### 4.6. Vergoeding voor vermogensvorming
+##### 4.6. Vergoeding voor vermogensvorming
 
 1. In de gevallen, bedoeld in [artikel 4:41, tweede lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:41), is de subsidieontvanger aan de Koninklijke Bibliotheek een door haar te bepalen vergoeding voor vermogensvorming verschuldigd.
 
@@ -304,7 +330,7 @@ De Koninklijke Bibliotheek kan de subsidie verlenen onder de voorwaarde dat de s
 
 4. Dit artikel is niet van toepassing op projectsubsidies die minder dan € 125.000,- bedragen.
 
-#### 4.7. Vergoeding aan derden
+##### 4.7. Vergoeding aan derden
 
 1. De vergoeding die een subsidieontvanger betaalt aan een natuurlijke persoon of rechtspersoon die zich de ondersteuning van één of meer instellingen die op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035878) subsidie ontvangen ten doel stelt, voor door die natuurlijke persoon of rechtspersoon aan de subsidieontvanger ter beschikking gestelde goederen, is niet hoger dan het bedrag dat op grond van de historische kostprijs berekend wordt, rekening houdend met de geldende afschrijvingspercentages.
 
@@ -312,15 +338,15 @@ De Koninklijke Bibliotheek kan de subsidie verlenen onder de voorwaarde dat de s
 
 3. De vergoeding die een subsidieontvanger betaalt aan een natuurlijke persoon of rechtspersoon voor door die natuurlijke persoon of rechtspersoon aan de subsidieontvanger geleverde diensten, anders dan de in het tweede lid bedoelde diensten, is niet hoger dan het bedrag dat voor het doen verrichten van dergelijke diensten door andere organisaties gebruikelijk kan worden geacht.
 
-#### 4.8. Vergoeding van derden
+##### 4.8. Vergoeding van derden
 
 De subsidieontvanger die aan derden goederen ter beschikking stelt of voor derden diensten verricht, brengt daarvoor een vergoeding in rekening die ten minste kostendekkend is, tenzij het derden betreft voor wie de gesubsidieerde activiteiten bestemd zijn.
 
-#### 4.9. Onderzoeken
+##### 4.9. Onderzoeken
 
 De subsidieontvanger werkt mee aan door of namens de Koninklijke Bibliotheek ingestelde onderzoeken die erop zijn gericht de Koninklijke Bibliotheek of de Minister van Onderwijs, Cultuur en Wetenschap inlichtingen te verschaffen ten behoeve van de ontwikkeling van hun beleid.
 
-#### 4.10. Intellectuele eigendomsrechtenop te creëren werken
+##### 4.10. Intellectuele eigendomsrechtenop te creëren werken
 
 1. Indien gesubsidieerde activiteiten leiden tot een publicatie of een instelling een publicatie realiseert waarvan de kosten voor 50% of meer worden gedragen door een instellingssubsidie, draagt de subsidieontvanger er zorg voor dat bij de publicatie wordt aangegeven wie de publicatie heeft gerealiseerd en wie de subsidieverstrekker is geweest.
 
@@ -336,7 +362,7 @@ De subsidieontvanger werkt mee aan door of namens de Koninklijke Bibliotheek ing
 
 ### 5. Subsidievaststelling
 
-#### 5.1. Termijn aanvraag tot vaststelling
+##### 5.1. Termijn aanvraag tot vaststelling
 
 1. Tussen acht en dertien weken na afloop van de subsidieperiode dient de ontvanger van een instellingssubsidie of projectsubsidie een aanvraag tot vaststelling van de subsidie in.
 
@@ -354,13 +380,13 @@ waarbij voor beide alternatieven geldt dat de verantwoording van de subsidie daa
 
 5. In afwijking van het eerste lid en onverminderd het tweede en derde lid, kan de Koninklijke Bibliotheek bij de subsidieverlening bepalen dat de ontvanger van een projectsubsidie voor een project dat twee of meer jaren bestrijkt, jaarlijks voor een in de beschikking tot verlening van de subsidie op te nemen datum een aanvraag tot vaststelling indient.
 
-#### 5.2. Aanvraag voor vaststelling van een subsidie onder € 125.000,-
+##### 5.2. Aanvraag voor vaststelling van een subsidie onder € 125.000,-
 
 1. De aanvraag tot vaststelling van een subsidie die over de gehele periode waarvoor de subsidie is verleend minder dan € 125.000,- bedraagt, gaat vergezeld van een bestuursverslag als bedoeld in [artikel 4.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048999&hoofdstuk=4&artikel=4.5&z=2023-12-05&g=2023-12-05), of een activiteitenverslag met daarin een beschrijving van de met de activiteiten bereikte resultaten, alsmede van een financiële verantwoording.
 
 2. De financiële verantwoording geeft een zodanig inzicht dat een verantwoord oordeel kan worden gevormd omtrent de besteding van de subsidie door de subsidieontvanger. De financiële verantwoording sluit aan op de indeling van de begroting, die voorafgaand aan de subsidieverlening is overgelegd. Belangrijke verschillen tussen de financiële verantwoording en de begroting worden toegelicht. De Koninklijke Bibliotheek kan nadere eisen stellen aan het bestuursverslag, aan het activiteitenverslag en aan de financiële verantwoording.
 
-#### 5.3. Aanvraag voor vaststelling van subsidie vanaf € 125.000,-
+##### 5.3. Aanvraag voor vaststelling van subsidie vanaf € 125.000,-
 
 1. De aanvraag tot vaststelling van de subsidie die over de gehele periode waarvoor de subsidie is verleend € 125.000,- of meer bedraagt, gaat vergezeld van een activiteitenverslag en van een jaarrekening of een financieel verslag.
 
@@ -374,7 +400,7 @@ waarbij voor beide alternatieven geldt dat de verantwoording van de subsidie daa
 
 6. Subsidieontvangers bewaren de administratie en de stukken die daarbij horen gedurende zeven jaar na vaststelling van de subsidie.
 
-#### 5.4. Jaarrekening
+##### 5.4. Jaarrekening
 
 1. [Titel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), met uitzondering van de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=1) en [11 tot en met 16, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=11) is van toepassing op de jaarrekening met dien verstande dat de winst- en verliesrekening wordt vervangen door een exploitatierekening; op deze exploitatierekening zijn de bepalingen omtrent de winst- en verliesrekening van overeenkomstige toepassing. Bepalingen omtrent winst en verlies zijn van overeenkomstige toepassing op het exploitatiesaldo.
 
@@ -386,7 +412,7 @@ waarbij voor beide alternatieven geldt dat de verantwoording van de subsidie daa
 
 5. De jaarrekening van een ontvanger van een instellingssubsidie gaat vergezeld van de jaarrekeningen van dochtermaatschappijen van de instelling als bedoeld in [artikel 24a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24a) of andere rechtspersonen waarop zij een overheersende zeggenschap kan uitoefenen of waarover zij de centrale leiding heeft.
 
-#### 5.5. Accountantsverklaring en rapport van feitelijke bevindingen
+##### 5.5. Accountantsverklaring en rapport van feitelijke bevindingen
 
 1. De jaarrekening is voorzien van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
@@ -394,7 +420,7 @@ waarbij voor beide alternatieven geldt dat de verantwoording van de subsidie daa
 
 3. In de verklaring, bedoeld in het eerste lid, doet de accountant een uitspraak over de naleving van de subsidiebepalingen door de subsidieontvanger.
 
-#### 5.6. Vaststelling
+##### 5.6. Vaststelling
 
 1. Na ontvangst van de volledige aanvraag tot vaststelling van de subsidie stelt de Koninklijke Bibliotheek de subsidie binnen 22 weken vast.
 
@@ -402,13 +428,13 @@ waarbij voor beide alternatieven geldt dat de verantwoording van de subsidie daa
 
 ### 6. Bevoorschotting, betaling en terugvordering
 
-#### 6.1. Verlenen van voorschotten
+##### 6.1. Verlenen van voorschotten
 
 1. De Koninklijke Bibliotheek bepaalt in het verleningsbesluit het aantal termijnen waarin een voorschot wordt verleend alsmede de momenten waarop de voorschotten worden betaald. De Koninklijke Bibliotheek houdt hierbij rekening met de liquiditeitsbehoefte van de subsidieontvanger.
 
 2. De liquiditeitsbehoefte, bedoeld in het eerste lid, volgt uit documenten van de aanvrager, of wordt ambtshalve vastgesteld door de Koninklijke Bibliotheek.
 
-#### 6.2. Bijstelling subsidiebedrag tweejarige en vierjarige instellingssubsidies
+##### 6.2. Bijstelling subsidiebedrag tweejarige en vierjarige instellingssubsidies
 
 1. Bij de verlening van een tweejarige en vierjarige instellingssubsidie kan de Koninklijke Bibliotheek bepalen dat het subsidiebedrag jaarlijks door haar wordt bijgesteld, rekening houdend met de ontwikkeling van de kosten in de arbeidsvoorwaarden.
 
@@ -418,7 +444,7 @@ waarbij voor beide alternatieven geldt dat de verantwoording van de subsidie daa
 
 4. Als de subsidie met toepassing van het eerste of tweede lid wordt bijgesteld, kan de bevoorschotting overeenkomstig die bijstelling worden gewijzigd.
 
-#### 6.3. Terugvordering
+##### 6.3. Terugvordering
 
 1. De Koninklijke Bibliotheek kan onverschuldigd betaalde subsidiebedragen of voorschotten terugvorderen. Het terug te vorderen bedrag kan worden verrekend met een nieuwe subsidie voor dezelfde activiteiten.
 
@@ -426,7 +452,7 @@ waarbij voor beide alternatieven geldt dat de verantwoording van de subsidie daa
 
 ### 7. Slotbepalingen
 
-#### 7.1. Bezwaar
+##### 7.1. Bezwaar
 
 1. Belanghebbenden die het niet eens zijn met een subsidiebesluit, kunnen daartegen een bezwaarschrift indienen bij de Koninklijke Bibliotheek conform de bepalingen van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
 
@@ -434,15 +460,15 @@ waarbij voor beide alternatieven geldt dat de verantwoording van de subsidie daa
 
 3. Bezwaarprocedures met betrekking tot besluiten genomen op grond van dit reglement vinden plaats conform de [Regeling bezwarenprocedure KB](https://wetten.overheid.nl/jci1.3:c:BWBR0039456).
 
-#### 7.2. Hardheidsclausule
+##### 7.2. Hardheidsclausule
 
 De Koninklijke Bibliotheek kan, gelet op het belang dat dit reglement beoogt te beschermen, artikelen of onderdelen daarvan buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard.
 
-#### 7.3. Intrekking oud reglement
+##### 7.3. Intrekking oud reglement
 
 Het [Subsidiereglement Koninklijke Bibliotheek 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041687) wordt ingetrokken.
 
-#### 7.4. Overgangsbepalingen
+##### 7.4. Overgangsbepalingen
 
 1. Op aanvragen om verlening van subsidie die zijn ingediend en subsidiebeschikkingen die zijn genomen vóór het tijdstip van inwerkingtreding van dit reglement, blijft het [Subsidiereglement Koninklijke Bibliotheek 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041687) van toepassing.
 
@@ -450,11 +476,11 @@ Het [Subsidiereglement Koninklijke Bibliotheek 2019](https://wetten.overheid.nl/
 
 3. Daar waar in nadere regels als bedoeld in het tweede lid wordt verwezen naar het [Subsidiereglement Koninklijke Bibliotheek 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041687) moet die verwijzing, als het aanvragen om subsidie betreft die zijn ingediend op of na de datum van inwerkingtreding van het Subsidiereglement Koninklijke Bibliotheek 2024, worden gelezen als een verwijzing naar het Subsidiereglement Koninklijke Bibliotheek 2024.
 
-#### 7.5. Inwerkingtredingsbepaling
+##### 7.5. Inwerkingtredingsbepaling
 
 Dit reglement treedt in werking een dag na bekendmaking van de vaststelling ervan in de Staatscourant.
 
-#### 7.6. Citeertitel
+##### 7.6. Citeertitel
 
 Dit reglement wordt aangehaald als: Subsidiereglement Koninklijke Bibliotheek 2024.
 

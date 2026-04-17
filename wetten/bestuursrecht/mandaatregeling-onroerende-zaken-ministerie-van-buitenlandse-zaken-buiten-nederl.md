@@ -1,13 +1,38 @@
 ---
 title: "Mandaatregeling onroerende zaken Ministerie van Buitenlandse Zaken buiten Nederland"
 identifier: "BWBR0043426"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-04-25
-laatste_update: 2020-04-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043426"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-04-25"
+last_updated: "2020-04-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043426"
+soort: "ministeriele-regeling"
+stam_id: "15419823"
+version_id: "26651242"
+internal_id: "C37802841"
+label_id: "15363654"
+dtd_version: "2.0"
+original_entry_into_force: "2020-04-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043426/2020-04-25/0"
+intitule_bron: "Stcrt.2020-23665"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-04-17"
+intitule_published: "2020-04-24"
+intitule_in_force: "2020-04-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-23665"
+original_signed_date: "2020-04-17"
+original_published_date: "2020-04-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-23665"
+entry_into_force_date: "2020-04-25"
+jci_1_3: "jci1.3:c:BWBR0043426&z=2020-04-25&g=2020-04-25"
+jci_1_0: "1.0:c:BWBR0043426&g=2020-04-25"
+citeertitel_status: "officieel"
+signed_date: "2020-04-17"
+entry_into_force: "2020-04-25"
 ---
-
 # Mandaatregeling onroerende zaken Ministerie van Buitenlandse Zaken buiten Nederland
 
 handelende in overeenstemming met de Minister van Buitenlandse Zaken,
@@ -24,7 +49,7 @@ gelet op [artikel 6, zevende lid, van de Regeling beheer onroerende zaken Rijk 2
 
 BESLUIT
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -42,11 +67,11 @@ In deze regeling wordt verstaan onder:
 
 - g. **overtollig stellen:** vaststellen dat een onroerende zaak van het Rijk niet langer benodigd is voor de uitvoering van een bij of krachtens wet aan een minister opgedragen taak of beleid.
 
-#### Artikel 2. Gelijkstelling
+##### Artikel 2. Gelijkstelling
 
 Voor de toepassing van deze regeling en de daarop berustende bepalingen wordt onder mandaat tevens verstaan volmacht en machtiging.
 
-#### Artikel 3. Mandaat
+##### Artikel 3. Mandaat
 
 Aan de secretaris-generaal wordt mandaat verleend om:
 
@@ -58,17 +83,17 @@ Aan de secretaris-generaal wordt mandaat verleend om:
 
 - d. met betrekking tot buiten Nederland gelegen onroerende zaken van de Staat der Nederlanden, welke door de Minister van Buitenlandse Zaken overtollig zijn gesteld, namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties feitelijke handelingen te verrichten die samenhangen met de vervreemding van die onroerende zaken.
 
-#### Artikel 4. Ondermandaat
+##### Artikel 4. Ondermandaat
 
 1. De secretaris-generaal is bevoegd tot het verlenen van ondermandaat aan onder hem ressorterende functionarissen.
 
 2. De secretaris-generaal is bevoegd om bij het verlenen van ondermandaat aan de ondergemandateerden tevens de bevoegdheid toe te kennen tot het verlenen van ondermandaat aan onder hen ressorterende functionarissen.
 
-#### Artikel 5. Acceptatie mandaatverlening
+##### Artikel 5. Acceptatie mandaatverlening
 
 De secretaris-generaal wordt geacht te hebben ingestemd met de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043426&artikel=3&z=2020-04-25&g=2020-04-25) genoemde mandaatverlening, zodra hij van dit mandaat gebruik heeft gemaakt of ter zake ondermandaat heeft verleend.
 
-#### Artikel 6. Ondertekening
+##### Artikel 6. Ondertekening
 
 1. Ondertekening van documenten waarmee mandaat op grond van deze regeling wordt uitgeoefend, vindt plaats op de volgende wijze:
 
@@ -80,15 +105,15 @@ namens deze,
 
 2. Bij ondertekening van documenten op grond van volmacht wordt de aanduiding van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties voorafgegaan door: Namens de Staat der Nederlanden.
 
-#### Artikel 7. Slotbepaling
+##### Artikel 7. Slotbepaling
 
 Besluiten en handelingen als bedoeld in [artikel 3, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0043426&artikel=3&z=2020-04-25&g=2020-04-25), die na 5 november 2012 tot de datum van inwerkingtreding van dit besluit zijn genomen of verricht door de secretaris-generaal, of door hem daartoe aangewezen functionarissen, worden aangemerkt als te zijn genomen of verricht namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Mandaatregeling onroerende zaken Ministerie van Buitenlandse Zaken buiten Nederland.
 

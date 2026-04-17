@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzing bekostigingsexperiment vermindering administratieve lasten tijdschrijven ggz/fz"
+title: "Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 14 december 2020, kenmerk 1713813-207587-PZo, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake bekostigingsexperiment vermindering administratieve lasten tijdschrijven ggz/fz"
 identifier: "BWBR0044556"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-12-22
-laatste_update: 2020-12-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044556"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-12-22"
+last_updated: "2020-12-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044556"
+soort: "ministeriele-regeling"
+stam_id: "15772213"
+version_id: "27334142"
+internal_id: "C38604511"
+label_id: "15710304"
+dtd_version: "2.0"
+original_entry_into_force: "2020-12-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044556/2020-12-22/0"
+intitule_bron: "Stcrt.2020-66973"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-12-14"
+intitule_published: "2020-12-22"
+intitule_in_force: "2020-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-66973"
+original_signed_date: "2020-12-14"
+original_published_date: "2020-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-66973"
+entry_into_force_date: "2020-12-22"
+jci_1_3: "jci1.3:c:BWBR0044556&z=2020-12-22&g=2020-12-22"
+jci_1_0: "1.0:c:BWBR0044556&g=2020-12-22"
+citeertitel_status: "redactioneel"
+short_title: "Aanwijzing bekostigingsexperiment vermindering administratieve lasten tijdschrijven ggz/fz"
+signed_date: "2020-12-14"
+entry_into_force: "2020-12-22"
 ---
-
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 14 december 2020, kenmerk 1713813-207587-PZo, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake bekostigingsexperiment vermindering administratieve lasten tijdschrijven ggz/fz
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -20,7 +46,7 @@ Gelet op het verslag schriftelijk overleg van de vaste commissie voor Volksgezon
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In deze aanwijzing wordt verstaan onder:
 
 - –. **zorgautoriteit:** de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3).
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Deze aanwijzing is van toepassing op:
 
@@ -46,11 +72,11 @@ Deze aanwijzing is van toepassing op:
 
 - –. forensische zorg.
 
-#### Artikel 3. opdracht
+##### Artikel 3. opdracht
 
 De zorgautoriteit voorziet op zo kort mogelijke termijn in een experiment vermindering administratieve lasten tijdschrijven ggz/fz.
 
-#### Artikel 4. Uitgangspunten experiment
+##### Artikel 4. Uitgangspunten experiment
 
 De zorgautoriteit neemt bij de vaststelling van de regelgeving voor het experiment als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044556&artikel=3&z=2020-12-22&g=2020-12-22) de volgende uitgangspunten in acht:
 
@@ -66,11 +92,11 @@ De zorgautoriteit neemt bij de vaststelling van de regelgeving voor het experime
 
 - f. Personen aan wie zorg wordt verleend in het kader van gespecialiseerde ggz en forensische zorg, komen door het experiment niet in een nadeliger positie te verkeren, dan wanneer het experiment niet zou plaatsvinden.
 
-#### Artikel 5. Macrobudgettair kader
+##### Artikel 5. Macrobudgettair kader
 
 Het [macrobudgettair kader voor de geneeskundige ggz](https://wetten.overheid.nl/jci1.3:c:BWBR0034296) (28 november 2013, Stcrt. 2013, nr. 34324) is van toepassing voor zover het experiment ziet op gespecialiseerde ggz. Voor de forensische zorg vindt het experiment plaats binnen het macrobudgettair kader voor de forensische zorg.
 
-#### Artikel 6. Evaluatie experiment
+##### Artikel 6. Evaluatie experiment
 
 De zorgautoriteit evalueert de effecten van het experiment.
 

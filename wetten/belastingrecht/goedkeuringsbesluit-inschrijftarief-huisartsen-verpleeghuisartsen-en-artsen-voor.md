@@ -1,13 +1,37 @@
 ---
-title: "Goedkeuringsbesluit inschrijftarief huisartsen, verpleeghuisartsen en artsen voor verstandelijk gehandicapten"
+title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 27 oktober 2003, IBE/BO-2419434, houdende goedkeuring van het besluit van de Huisarts en Verpleeghuisarts Registratie Commissie inzake het tarief voor (hernieuwde) inschrijving in de registers van huisartsen, verpleeghuisartsen en artsen voor verstandelijk gehandicapten"
 identifier: "BWBR0015802"
-categorie: "Belastingrecht"
-publicatiedatum: 2003-11-04
-laatste_update: 2003-11-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015802"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2003-11-04"
+last_updated: "2003-11-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015802"
+soort: "ministeriele-regeling"
+stam_id: "5456833"
+version_id: "9835102"
+internal_id: "C13293251"
+label_id: "5431324"
+original_entry_into_force: "2003-11-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015802/2003-11-04/0"
+intitule_bron: "Stcrt.2003-213"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-10-27"
+intitule_published: "2003-11-04"
+intitule_in_force: "2003-11-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-213"
+original_signed_date: "2003-10-27"
+original_published_date: "2003-11-04"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-11-04"
+jci_1_3: "jci1.3:c:BWBR0015802&z=2003-11-04&g=2003-11-04"
+jci_1_0: "1.0:c:BWBR0015802&g=2003-11-04"
+citeertitel_status: "redactioneel"
+short_title: "Goedkeuringsbesluit inschrijftarief huisartsen, verpleeghuisartsen en artsen voor verstandelijk gehandicapten"
+signed_date: "2003-10-27"
+entry_into_force: "2003-11-04"
 ---
-
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 27 oktober 2003, IBE/BO-2419434, houdende goedkeuring van het besluit van de Huisarts en Verpleeghuisarts Registratie Commissie inzake het tarief voor (hernieuwde) inschrijving in de registers van huisartsen, verpleeghuisartsen en artsen voor verstandelijk gehandicapten
 
 Gelet op [artikel 14, tweede lid, onder f, van de Wet op de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14);

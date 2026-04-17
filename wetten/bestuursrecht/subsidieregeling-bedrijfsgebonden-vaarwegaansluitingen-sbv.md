@@ -1,13 +1,37 @@
 ---
 title: "Subsidieregeling bedrijfsgebonden vaarwegaansluitingen (SBV)"
 identifier: "BWBR0012284"
-categorie: "Bestuursrecht"
-publicatiedatum: 2001-03-10
-laatste_update: 2001-03-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012284"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2001-03-10"
+last_updated: "2001-03-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012284"
+soort: "ministeriele-regeling"
+stam_id: "5077043"
+version_id: "9132962"
+internal_id: "C12140221"
+label_id: "5052984"
+dtd_version: "2.0"
+original_entry_into_force: "2001-03-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012284/2001-03-10/0"
+intitule_bron: "Stcrt.2001-48"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-03-02"
+intitule_published: "2001-03-08"
+intitule_in_force: "2001-03-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-48"
+original_signed_date: "2001-03-02"
+original_published_date: "2001-03-08"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-03-10"
+jci_1_3: "jci1.3:c:BWBR0012284&z=2001-03-10&g=2001-03-10"
+jci_1_0: "1.0:c:BWBR0012284&g=2001-03-10"
+citeertitel_status: "officieel"
+signed_date: "2001-03-02"
+entry_into_force: "2001-03-10"
 ---
-
 # Subsidieregeling bedrijfsgebonden vaarwegaansluitingen (SBV)
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3) en [4 van de Kaderwet subsidies Verkeer en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=4);
@@ -16,11 +40,11 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 1. Op aanvraag van een verlader kan de Minister ter bevordering van de modal shift van het vervoer van goederen van de weg naar het water subsidie verlenen ten behoeve van initiële of uitbreidingsinvesteringen in bedrijfsgebonden vaarwegaansluitingen, waaronder begrepen het opnieuw in gebruik nemen van in onbruik geraakte bedrijfsgebonden vaarwegaansluitingen. De subsidie kan worden verleend voor zowel investeringen in de infrastructuur als in de vast geïnstalleerde en mobiele uitrusting die nodig is voor de overslag van goederen van en naar de vaarweg.
 
@@ -58,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 - f. is op het tijdstip waarop de volledige aanvraag is ontvangen niet reeds geheel of gedeeltelijk in uitvoering genomen of gestaakt dan wel reeds voltooid.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het subsidieplafond dat per jaar voor het verlenen van subsidies ingevolge deze regeling beschikbaar is, is gelijk aan het bedrag dat in de begroting van het Ministerie van Verkeer en Waterstaat voor dat desbetreffende jaar daarvoor op artikel IF 02.02.02 van het Infrastructuurfonds beschikbaar wordt gesteld, rekening houdend met uitgaven betreffende in eerdere jaren verleende subsidies.
 
@@ -72,7 +96,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Aanvraag van de subsidie
 
-#### Artikel 4
+##### Artikel 4
 
 1. De aanvraag voor een subsidie kan tot en met 31 december 2003 worden ingediend. Zij wordt gericht aan de Minister en ingediend bij de hoofdingenieur-directeur van de betrokken regionale directie van de Rijkswaterstaat.
 
@@ -124,7 +148,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 3. Beslissing op de aanvraag en voorschotverlening
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Minister beslist op een aanvraag om subsidie binnen zes maanden na ontvangst van de volledige aanvraag.
 
@@ -136,7 +160,7 @@ In deze regeling wordt verstaan onder:
 
 5. Bij de beoordeling van de aanvragen wordt rekening gehouden met de aanwezigheid van openbare mogelijkheden van overslag van en naar de vaarweg in de nabije omgeving.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Minister beslist afwijzend op een aanvraag indien:
 
@@ -150,7 +174,7 @@ In deze regeling wordt verstaan onder:
 
 2. Indien de subsidie wordt afgewezen vanwege overschrijding van het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012284&paragraaf=1&artikel=3&z=2001-03-10&g=2001-03-10), bedoelde subsidieplafond, kan de Minister bij de beschikking tot afwijzing van de subsidie bepalen dat in het daaropvolgende begrotingsjaar, zonder nieuwe indiening van de aanvraag, opnieuw een beschikking op de aanvraag wordt gegeven.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De beschikking tot subsidieverlening vermeldt in elk geval:
 
@@ -172,7 +196,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 4. Verplichtingen van de subsidieontvanger
 
-#### Artikel 8
+##### Artikel 8
 
 1. De subsidieontvanger
 
@@ -208,7 +232,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 5. Vaststelling en uitbetaling van de subsidie
 
-#### Artikel 9
+##### Artikel 9
 
 1. Binnen twaalf weken na ontvangst van de in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012284&paragraaf=4&artikel=8&z=2001-03-10&g=2001-03-10), bedoelde aanvraag tot vaststelling van de subsidie en de daarbij behorende bescheiden en gegevens, stelt de Minister de subsidie vast. Binnen tien weken na de subsidievaststelling wordt het subsidiebedrag uitbetaald.
 
@@ -224,7 +248,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 6. Intrekking van de subsidie
 
-#### Artikel 10
+##### Artikel 10
 
 Zolang de subsidie niet is vastgesteld kan de Minister de subsidieverlening intrekken of ten nadele van de subsidieontvanger wijzigen, indien:
 
@@ -236,13 +260,13 @@ Zolang de subsidie niet is vastgesteld kan de Minister de subsidieverlening intr
 
 #### § 7. Toezicht
 
-#### Artikel 11
+##### Artikel 11
 
 Met het toezicht op de naleving van de bij en krachtens deze regeling aan de subsidieontvanger opgelegde verplichtingen zijn belast de daartoe door de Minister voor het desbetreffende project aangewezen medewerkers van de desbetreffende regionale directie van de Rijkswaterstaat.
 
 #### § 8. Evaluatie van de regeling
 
-#### Artikel 12
+##### Artikel 12
 
 1. Voor 1 juli 2005 publiceert de Minister een verslag over de doeltreffendheid, de doelmatigheid en de effecten van deze regeling in de praktijk. Dit verslag zal tevens worden toegezonden aan de Europese Commissie.
 
@@ -250,11 +274,11 @@ Met het toezicht op de naleving van de bij en krachtens deze regeling aan de sub
 
 #### § 9. Slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2001.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling wordt aangehaald als: Subsidieregeling bedrijfsgebonden vaarwegaansluitingen (SBV).
 

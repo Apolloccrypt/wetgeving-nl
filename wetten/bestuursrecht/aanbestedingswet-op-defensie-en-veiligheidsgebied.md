@@ -1,14 +1,41 @@
 ---
-title: "Aanbestedingswet op defensie- en veiligheidsgebied"
+title: "Wet van 28 januari 2013 inzake implementatie van richtlijn nr. 2009/81/EG van het Europees Parlement en de Raad van 13 juli 2009 betreffende de coördinatie van de procedures voor het plaatsen door aanbestedende diensten van bepaalde opdrachten voor werken, leveringen en diensten op defensie- en veiligheidsgebied, en tot wijziging van richtlijnen 2004/17/EG en 2004/18/EG (Aanbestedingswet op defensie- en veiligheidsgebied)"
 identifier: "BWBR0032898"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-04-18
-laatste_update: 2019-04-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032898"
+country: "nl"
+rank: "wet"
+publication_date: "2019-04-18"
+last_updated: "2019-04-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032898"
+soort: "wet"
+stam_id: "12106463"
+version_id: "20191502"
+internal_id: "C28399871"
+label_id: "12080344"
+dtd_version: "2.0"
+original_entry_into_force: "2013-02-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032898/2019-04-18/0"
+intitule_bron: "Stb.2013-44"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-01-28"
+intitule_published: "2013-02-15"
+intitule_in_force: "2013-02-15"
+intitule_status: "goed"
+original_publication: "Stb.2013-44"
+original_signed_date: "2013-01-28"
+original_published_date: "2013-02-15"
+original_effect: "nieuwe-regeling"
+original_dossier: "32768"
+original_url_id: "stb-2013-44"
+entry_into_force_date: "2013-02-16"
+jci_1_3: "jci1.3:c:BWBR0032898&z=2019-04-18&g=2019-04-18"
+jci_1_0: "1.0:c:BWBR0032898&g=2019-04-18"
+citeertitel_status: "officieel"
+short_title: "Aanbestedingswet op defensie- en veiligheidsgebied"
+signed_date: "2013-01-28"
+entry_into_force: "2013-02-16"
 ---
-
-# Aanbestedingswet op defensie- en veiligheidsgebied
+# Wet van 28 januari 2013 inzake implementatie van richtlijn nr. 2009/81/EG van het Europees Parlement en de Raad van 13 juli 2009 betreffende de coördinatie van de procedures voor het plaatsen door aanbestedende diensten van bepaalde opdrachten voor werken, leveringen en diensten op defensie- en veiligheidsgebied, en tot wijziging van richtlijnen 2004/17/EG en 2004/18/EG (Aanbestedingswet op defensie- en veiligheidsgebied)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +47,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1.1. Begripsbepalingen
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -132,7 +159,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **werk:** het product van het geheel van bouwkundige of civieltechnische werken dat ertoe bestemd is als zodanig een economische of technische functie te vervullen.
 
-#### Artikel 1.2
+##### Artikel 1.2
 
 1. Een wijziging van bijlage I of bijlage II van [richtlijn nr. 2009/81/EG](32009L0081) gaat voor de toepassing van de in deze wet gegeven omschrijving van opdracht voor diensten gelden met ingang van de dag waarop het desbetreffende besluit van de Europese Commissie in werking treedt.
 
@@ -140,17 +167,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 1.2. Gelijkheid, non-discriminatie, transparantie en proportionaliteit
 
-#### Artikel 1.3
+##### Artikel 1.3
 
 1. De bepalingen in dit hoofdstuk gelden voor aanbestedende diensten en speciale-sectorbedrijven bij het plaatsen van een opdracht die op grond van het bepaalde bij of krachtens [hoofdstuk 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.1&z=2019-04-18&g=2019-04-18) onder het toepassingsgebied en -bereik van deze wet valt.
 
 2. De bepalingen in dit hoofdstuk zijn van overeenkomstige toepassing op inschrijvers die een opdracht in onderaanneming bij een derde plaatsen met een duidelijk grensoverschrijdend belang ter uitvoering van een overeenkomst die als resultaat van een gunning voor een opdracht als bedoeld in het eerste lid, met hen is gesloten.
 
-#### Artikel 1.4
+##### Artikel 1.4
 
 Een aanbestedende dienst of een speciale-sectorbedrijf behandelt ondernemers op gelijke en niet-discriminerende wijze.
 
-#### Artikel 1.5
+##### Artikel 1.5
 
 1. Een aanbestedende dienst,of een speciale-sectorbedrijf handelt transparant.
 
@@ -160,13 +187,13 @@ Een aanbestedende dienst of een speciale-sectorbedrijf behandelt ondernemers op 
 
 4. Onverminderd de overeenkomstige toepassing van de voorgaande leden op een opdracht in onderaanneming, is het tweede lid niet van toepassing op een opdracht in onderaanneming indien bij overeenkomstige toepassing van [artikel 2.136](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.2&paragraaf=2.4.2.2&artikel=2.136&z=2019-04-18&g=2019-04-18) geen verplichting geldt tot het bekendmaken van een aankondiging van het voornemen tot het plaatsen van die opdracht.
 
-#### Artikel 1.6
+##### Artikel 1.6
 
 Een aanbestedende dienst of een speciale-sectorbedrijf stelt bij de voorbereiding van en het tot stand brengen van een opdracht uitsluitend eisen, voorwaarden en criteria aan de inschrijvers en de inschrijvingen die in een redelijke verhouding staan tot het voorwerp van de opdracht.
 
 ### Hoofdstuk 1.3. Derde landen
 
-#### Artikel 1.7
+##### Artikel 1.7
 
 Een aanbestedende dienst of een speciale-sectorbedrijf kan ondernemers die niet binnen de Europese Unie gevestigd zijn van deelname aan een aanbestedingsprocedure uitsluiten, tenzij dit niet is toegestaan op grond van een voor Nederland verbindend verdrag of besluit.
 
@@ -178,7 +205,7 @@ Een aanbestedende dienst of een speciale-sectorbedrijf kan ondernemers die niet 
 
 #### § 2.1.1.1. Toepassingsgebied
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 1. Het bepaalde bij of krachtens deze wet is van toepassing op het plaatsen van opdrachten voor:
 
@@ -192,7 +219,7 @@ Een aanbestedende dienst of een speciale-sectorbedrijf kan ondernemers die niet 
 
 2. Het eerste lid laat de toepasselijkheid van de artikelen 36, 51, 52, 62 en 346 van het Verdrag betreffende de werking van de Europese Unie onverlet.
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 1. Het bepaalde bij of krachtens deze wet is van toepassing op het plaatsen van een opdracht die voor een deel binnen het toepassingsgebied van deze wet en voor een deel binnen dat van de [Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203) valt, indien de gunning er van als één geheel om objectieve redenen gerechtvaardigd is.
 
@@ -202,7 +229,7 @@ Een aanbestedende dienst of een speciale-sectorbedrijf kan ondernemers die niet 
 
 #### § 2.1.1.2. Toepassingsbereik
 
-#### Artikel 2.3
+##### Artikel 2.3
 
 1. Het bepaalde bij of krachtens deze wet is van toepassing op opdrachten voor:
 
@@ -212,13 +239,13 @@ Een aanbestedende dienst of een speciale-sectorbedrijf kan ondernemers die niet 
 
 2. Ongeacht de geraamde waarde van een opdracht als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2019-04-18&g=2019-04-18) zijn de [hoofdstukken 1.2 tot en met 1.4 van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&hoofdstuk=1.2) daarop niet van toepassing.
 
-#### Artikel 2.4
+##### Artikel 2.4
 
 1. Een wijziging van de bedragen, genoemd in artikel 8 van [richtlijn nr. 2009/81/EG](32009L0081) gaat voor de toepassing van [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.2&artikel=2.3&z=2019-04-18&g=2019-04-18) gelden met ingang van de dag waarop het desbetreffende besluit van de Europese Commissie in werking treedt.
 
 2. Onze Minister doet mededeling in de Staatscourant van een besluit als bedoeld in het eerste lid.
 
-#### Artikel 2.5
+##### Artikel 2.5
 
 1. Een aanbestedende dienst of een speciale-sectorbedrijf kan via een aankoopcentrale een opdracht plaatsen, mits de aankoopcentrale het bij of krachtens deze wet bepaalde met betrekking tot die opdracht naleeft of, indien de aankoopcentrale geen aanbestedende dienst is, met inachtneming van het bij of krachtens deze wet bepaalde handelt en efficiënte rechtsmiddelen ter beschikking staan tegen het plaatsen van opdrachten door de aankoopcentrale, die vergelijkbaar zijn met die, bedoeld in [hoofdstuk 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=3&hoofdstuk=3.2&z=2019-04-18&g=2019-04-18).
 
@@ -228,11 +255,11 @@ Een aanbestedende dienst of een speciale-sectorbedrijf kan ondernemers die niet 
 
 #### § 2.1.2.1. Algemene bepalingen
 
-#### Artikel 2.6
+##### Artikel 2.6
 
 De aanbestedende dienst of het speciale-sectorbedrijf raamt de waarde van de voorgenomen opdracht overeenkomstig de [artikelen 2.7 tot en met 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.1&afdeling=2.1.2&paragraaf=2.1.2.1&artikel=2.7&z=2019-04-18&g=2019-04-18).
 
-#### Artikel 2.7
+##### Artikel 2.7
 
 1. De aanbestedende dienst of het speciale-sectorbedrijf splitst de voorgenomen opdracht niet met het oogmerk om zich te onttrekken aan de toepassing van deze wet.
 
@@ -240,7 +267,7 @@ De aanbestedende dienst of het speciale-sectorbedrijf raamt de waarde van de voo
 
 #### § 2.1.2.2. De raming van opdrachten
 
-#### Artikel 2.8
+##### Artikel 2.8
 
 1. De waarde van een opdracht wordt geraamd naar de waarde op het tijdstip van verzending van de aankondiging van die opdracht of, indien een aankondiging niet is vereist, naar de waarde op het tijdstip waarop de procedure voor de gunning door de aanbestedende dienst of het speciale-sectorbedrijf wordt ingeleid.
 
@@ -248,11 +275,11 @@ De aanbestedende dienst of het speciale-sectorbedrijf raamt de waarde van de voo
 
 3. De aanbestedende dienst of het speciale-sectorbedrijf gaat bij de berekening van de waarde van een raamovereenkomst uit van de geraamde waarde van alle voor de duur van de raamovereenkomst voorgenomen opdrachten.
 
-#### Artikel 2.9
+##### Artikel 2.9
 
 Bij de raming van de waarde van een opdracht voor werken houdt de aanbestedende dienst of het speciale-sectorbedrijf rekening met de waarde van de werken en met de geraamde totale waarde van de voor de uitvoering van die werken noodzakelijke leveringen en diensten die door de aanbestedende dienst of het speciale-sectorbedrijf ter beschikking van de aannemer worden gesteld.
 
-#### Artikel 2.10
+##### Artikel 2.10
 
 De aanbestedende dienst of het speciale-sectorbedrijf raamt de waarde van een opdracht voor diensten:
 
@@ -264,7 +291,7 @@ De aanbestedende dienst of het speciale-sectorbedrijf raamt de waarde van een op
 
 - d. waarin geen totale prijs is vermeld en die voor onbepaalde duur is of een looptijd heeft die langer is dan 48 maanden: het maandelijks te betalen bedrag vermenigvuldigd met 48.
 
-#### Artikel 2.11
+##### Artikel 2.11
 
 1. Indien een voorgenomen werk of een voorgenomen aankoop van diensten kan leiden tot opdrachten die gelijktijdig in afzonderlijke percelen worden geplaatst, neemt de aanbestedende dienst of het speciale-sectorbedrijf de geraamde totale waarde van deze percelen als grondslag.
 
@@ -278,7 +305,7 @@ De aanbestedende dienst of het speciale-sectorbedrijf raamt de waarde van een op
 
 mits de totale geraamde waarde van de onder a of b bedoelde percelen gezamenlijk niet meer bedraagt dan 20% van de totale waarde van alle percelen.
 
-#### Artikel 2.12
+##### Artikel 2.12
 
 1. Indien een voorgenomen verkrijging van homogene leveringen kan leiden tot opdrachten die gelijktijdig in afzonderlijke percelen worden geplaatst, neemt de aanbestedende dienst of het speciale-sectorbedrijf de geraamde totale waarde van deze percelen als grondslag voor de raming.
 
@@ -286,7 +313,7 @@ mits de totale geraamde waarde van de onder a of b bedoelde percelen gezamenlijk
 
 3. Het tweede lid is niet van toepassing op percelen waarvan de geraamde waarde niet meer bedraagt dan € 80 000, exclusief omzetbelasting, mits de totale geraamde waarde van die percelen gezamenlijk niet meer bedraagt dan 20% van de totale waarde van alle percelen.
 
-#### Artikel 2.13
+##### Artikel 2.13
 
 De aanbestedende dienst of het speciale-sectorbedrijf raamt de waarde van opdrachten voor leveringen die betrekking hebben op leasing, huur of huurkoop van producten op de volgende grondslag:
 
@@ -294,7 +321,7 @@ De aanbestedende dienst of het speciale-sectorbedrijf raamt de waarde van opdrac
 
 - b. bij opdrachten voor leveringen voor onbepaalde duur of waarvan de looptijd niet kan worden bepaald: het maandelijks te betalen bedrag vermenigvuldigd met 48.
 
-#### Artikel 2.14
+##### Artikel 2.14
 
 De aanbestedende dienst of het speciale-sectorbedrijf raamt de waarde van opdrachten voor leveringen of voor diensten die met een zekere regelmaat worden verricht of die de aanbestedende dienst of het speciale-sectorbedrijf gedurende een bepaalde periode wil hernieuwen, op de volgende grondslag:
 
@@ -304,11 +331,11 @@ De aanbestedende dienst of het speciale-sectorbedrijf raamt de waarde van opdrac
 
 ### Afdeling 2.1.3. Uitgezonderde opdrachten
 
-#### Artikel 2.15
+##### Artikel 2.15
 
 De aanbestedende dienst of het speciale-sectorbedrijf past het in deze afdeling bepaalde niet toe om zich aan de toepassing van deze wet te onttrekken.
 
-#### Artikel 2.16
+##### Artikel 2.16
 
 In afwijking van de [artikelen 2.1 tot en met 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2019-04-18&g=2019-04-18) is het bepaalde bij of krachtens deze wet niet van toepassing op opdrachten:
 
@@ -328,7 +355,7 @@ In afwijking van de [artikelen 2.1 tot en met 2.3](https://wetten.overheid.nl/jc
 
 - h. die door een Nederlandse overheidsinstantie aan een overheidsinstantie van een andere staat worden gegund en die vallen binnen de reikwijdte van [artikel 2.1 onderdelen a, b, of c](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2019-04-18&g=2019-04-18), voor zover die opdrachten betrekking hebben op werken of diensten, of d.
 
-#### Artikel 2.17
+##### Artikel 2.17
 
 In afwijking van de [artikelen 2.1 tot en met 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.1&artikel=2.1&z=2019-04-18&g=2019-04-18) is het bepaalde bij of krachtens deze wet niet van toepassing op opdrachten voor diensten:
 
@@ -346,11 +373,11 @@ In afwijking van de [artikelen 2.1 tot en met 2.3](https://wetten.overheid.nl/jc
 
 ### Afdeling 2.2.1. Niet-openbare procedure en onderhandelingsprocedure met aankondiging
 
-#### Artikel 2.18
+##### Artikel 2.18
 
 De aanbestedende dienst of het speciale-sectorbedrijf past voor het plaatsen van een opdracht de niet-openbare procedure of de onderhandelingsprocedure met aankondiging toe.
 
-#### Artikel 2.19
+##### Artikel 2.19
 
 De aanbestedende dienst die of het speciale-sectorbedrijf dat de niet-openbare procedure toepast doorloopt de volgende stappen. De aanbestedende dienst of het speciale-sectorbedrijf:
 
@@ -376,7 +403,7 @@ De aanbestedende dienst die of het speciale-sectorbedrijf dat de niet-openbare p
 
 - k. maakt de aankondiging van de gegunde opdracht bekend.
 
-#### Artikel 2.20
+##### Artikel 2.20
 
 De aanbestedende dienst die of het speciale-sectorbedrijf dat de onderhandelingsprocedure met aankondiging toepast doorloopt de volgende stappen. De aanbestedende dienst of het speciale-sectorbedrijf:
 
@@ -408,7 +435,7 @@ De aanbestedende dienst die of het speciale-sectorbedrijf dat de onderhandelings
 
 #### § 2.2.2.1. Procedure van de concurrentiegerichte dialoog
 
-#### Artikel 2.21
+##### Artikel 2.21
 
 1. De aanbestedende dienst of het speciale-sectorbedrijf kan, indien het naar zijn oordeel niet mogelijk is door toepassing van de niet-openbare procedure of de onderhandelingsprocedure met aankondiging een bijzonder complexe opdracht te plaatsen, de procedure van de concurrentiegerichte dialoog toepassen.
 
@@ -418,7 +445,7 @@ De aanbestedende dienst die of het speciale-sectorbedrijf dat de onderhandelings
 
 - b. de juridische of financiële voorwaarden van een project te specificeren.
 
-#### Artikel 2.22
+##### Artikel 2.22
 
 De aanbestedende dienst die of het speciale-sectorbedrijf dat de procedure van de concurrentiegerichte dialoog toepast doorloopt de volgende stappen. De aanbestedende dienst of het speciale-sectorbedrijf:
 
@@ -450,7 +477,7 @@ De aanbestedende dienst die of het speciale-sectorbedrijf dat de procedure van d
 
 #### § 2.2.2.2. Onderhandelingsprocedure zonder aankondiging
 
-#### Artikel 2.23
+##### Artikel 2.23
 
 1. De aanbestedende dienst of het speciale-sectorbedrijf kan de onderhandelingsprocedure zonder aankondiging toepassen indien:
 
@@ -466,7 +493,7 @@ De aanbestedende dienst die of het speciale-sectorbedrijf dat de procedure van d
 
 2. Indien de aanbestedende dienst of het speciale-sectorbedrijf toepassing heeft gegeven aan het eerste lid, onderdeel e, nodigt hij gelijktijdig en schriftelijk uitsluitend de inschrijvers uit die in de niet-openbare procedure, de onderhandelingsprocedure met aankondiging of de procedure van de concurrentiegerichte dialoog een inschrijving hebben gedaan die voldeed aan de geschiktheidscriteria en selectiecriteria, en die aan de formele eisen van de procedure voor het gunnen van opdrachten voldoen.
 
-#### Artikel 2.24
+##### Artikel 2.24
 
 1. De aanbestedende dienst of het speciale-sectorbedrijf kan de onderhandelingsprocedure zonder aankondiging toepassen:
 
@@ -486,7 +513,7 @@ De aanbestedende dienst die of het speciale-sectorbedrijf dat de procedure van d
 
 2. De looptijd van de opdrachten en nabestellingen, bedoeld in het eerste lid, onderdeel c, is niet langer dan vijf jaar, tenzij sprake is van uitzonderlijke omstandigheden op de vaststelling waarvan de verwachte levensduur van geleverde objecten, installaties of systemen en de technische moeilijkheden die een verandering van leverancier kan veroorzaken van invloed zijn.
 
-#### Artikel 2.25
+##### Artikel 2.25
 
 De aanbestedende dienst of het speciale-sectorbedrijf kan voor aanvullende werken of diensten de onderhandelingsprocedure zonder aankondiging toepassen voor zover die diensten of werken noch in het oorspronkelijk gegunde ontwerp, noch in de oorspronkelijk gegunde opdracht waren opgenomen en technisch of economisch niet los van de oorspronkelijke opdracht kunnen worden uitgevoerd zonder dat dit tot grote ongemakken voor de aanbestedende dienst of het speciale-sectorbedrijf leidt dan wel de aanvullende werken of diensten strikt noodzakelijk zijn om de oorspronkelijke opdracht te vervolmaken en:
 
@@ -496,7 +523,7 @@ De aanbestedende dienst of het speciale-sectorbedrijf kan voor aanvullende werke
 
 - 3°. het totale bedrag van de voor de aanvullende werken of diensten gegunde opdracht niet hoger is dan 50 procent van het bedrag van de oorspronkelijke opdracht.
 
-#### Artikel 2.26
+##### Artikel 2.26
 
 1. De aanbestedende dienst of het speciale-sectorbedrijf kan voor nieuwe werken of diensten tot vijf jaar volgend op de gunning van de oorspronkelijke opdracht de onderhandelingsprocedure zonder aankondiging toepassen, voor zover die werken of diensten bestaan uit herhaling van soortgelijke werken of diensten die door dezelfde aanbestedende diensten of speciale-sectorbedrijven worden toevertrouwd aan de ondernemer waaraan de oorspronkelijke opdracht werd gegund en:
 
@@ -508,11 +535,11 @@ De aanbestedende dienst of het speciale-sectorbedrijf kan voor aanvullende werke
 
 2. De aanbestedende dienst of het speciale-sectorbedrijf kan in uitzonderlijke omstandigheden als bedoeld in [artikel 2.24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.2&afdeling=2.2.2&paragraaf=2.2.2.2&artikel=2.24&z=2019-04-18&g=2019-04-18), ook na de vijf jaar volgend op de gunning van de oorspronkelijke opdracht de onderhandelingsprocedure zonder aankondiging toepassen.
 
-#### Artikel 2.27
+##### Artikel 2.27
 
 De aanbestedende dienst of het speciale-sectorbedrijf kan voor opdrachten in verband met de levering van vervoersdiensten in de lucht en ter zee voor de strijdkrachten of veiligheidsdiensten die in het buitenland zijn of zullen worden ingezet de onderhandelingsprocedure zonder aankondiging toepassen, indien de aanbestedende dienst of het speciale-sectorbedrijf zich genoodzaakt ziet een opdracht voor deze diensten te plaatsen bij ondernemers die de geldigheid van een inschrijving voor zodanig korte periodes garanderen dat de termijn, bedoeld in [artikel 2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.3&artikel=2.57&z=2019-04-18&g=2019-04-18), voor de niet-openbare procedure of de onderhandelingsprocedure met aankondiging van een opdracht niet kan worden nageleefd.
 
-#### Artikel 2.28
+##### Artikel 2.28
 
 De aanbestedende dienst die of het speciale-sectorbedrijf dat de onderhandelingsprocedure zonder aankondiging toepast doorloopt de volgende stappen. De aanbestedende dienst of het speciale-sectorbedrijf:
 
@@ -528,13 +555,13 @@ De aanbestedende dienst die of het speciale-sectorbedrijf dat de onderhandelings
 
 #### § 2.2.2.3. Bijzondere voorschriften betreffende het plaatsen van opdrachten voor bijlage II- diensten
 
-#### Artikel 2.29
+##### Artikel 2.29
 
 1. De aanbestedende dienst of het speciale-sectorbedrijf kan voor een opdracht betreffende diensten die zijn opgenomen in bijlage II van [richtlijn nr. 2009/81/EG](32009L0081) de procedure voor bijlage II diensten toepassen.
 
 2. Indien de opdracht, bedoeld in het eerste lid, zowel betrekking heeft op diensten als bedoeld in bijlage I van [richtlijn nr. 2009/81/EG](32009L0081) als op diensten als bedoeld in bijlage II van [richtlijn nr. 2009/81/EG](32009L0081) kan de aanbestedende dienst of het speciale-sectorbedrijf de procedure voor bijlage II diensten toepassen indien de geraamde waarde van de bijlage II diensten gelijk is aan of hoger is dan die van de bijlage I diensten.
 
-#### Artikel 2.30
+##### Artikel 2.30
 
 1. De aanbestedende dienst of het speciale-sectorbedrijf die de procedure voor bijlage II diensten toepast doorloopt de volgende stappen. De aanbestedende dienst of het speciale-sectorbedrijf:
 
@@ -550,7 +577,7 @@ De aanbestedende dienst die of het speciale-sectorbedrijf dat de onderhandelings
 
 ### Afdeling 2.2.3. Bijzondere procedure voor het sluiten van een raamovereenkomst
 
-#### Artikel 2.31
+##### Artikel 2.31
 
 Een aanbestedende dienst die of een speciale-sectorbedrijf dat een raamovereenkomst wil sluiten, past daartoe een van de volgende procedures toe:
 
@@ -564,17 +591,17 @@ Een aanbestedende dienst die of een speciale-sectorbedrijf dat een raamovereenko
 
 - e. indien dat op grond van [artikel 2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.2&afdeling=2.2.2&paragraaf=2.2.2.3&artikel=2.29&z=2019-04-18&g=2019-04-18) is toegestaan, de procedure voor bijlage II diensten.
 
-#### Artikel 2.32
+##### Artikel 2.32
 
 1. Een aanbestedende dienst die of een speciale-sectorbedrijf dat een opdracht wil plaatsen met gebruikmaking van een raamovereenkomst die hij gesloten heeft met een enkele ondernemer, past de procedure voor het gunnen van een opdracht via een raamovereenkomst met een enkele ondernemer toe, indien deze raamovereenkomst overeenkomstig [artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.2&afdeling=2.2.3&artikel=2.31&z=2019-04-18&g=2019-04-18) is gesloten.
 
 2. In het in het eerste lid bedoelde geval gunt de aanbestedende dienst of het speciale-sectorbedrijf de opdracht op basis van de in de raamovereenkomst gestelde voorwaarden.
 
-#### Artikel 2.33
+##### Artikel 2.33
 
 Een aanbestedende dienst die of een speciale-sectorbedrijf dat een opdracht wil plaatsen met gebruikmaking van een raamovereenkomst die hij gesloten heeft met meerdere ondernemers, past de procedure voor het gunnen van een opdracht door middel van een raamovereenkomst met meerdere ondernemers toe, indien deze raamovereenkomst overeenkomstig [artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.2&afdeling=2.2.3&artikel=2.31&z=2019-04-18&g=2019-04-18) is gesloten.
 
-#### Artikel 2.34
+##### Artikel 2.34
 
 1. In het in [artikel 2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.2&afdeling=2.2.3&artikel=2.33&z=2019-04-18&g=2019-04-18) bedoelde geval past de aanbestedende dienst of het speciale-sectorbedrijf de voorwaarden van de raamovereenkomst toe, zonder de betrokken ondernemers opnieuw tot mededinging op te roepen.
 
@@ -594,7 +621,7 @@ Een aanbestedende dienst die of een speciale-sectorbedrijf dat een opdracht wil 
 
 #### § 2.3.1.1. Ondernemers
 
-#### Artikel 2.35
+##### Artikel 2.35
 
 1. Een aanbestedende dienst of een speciale-sectorbedrijf wijst gegadigden of inschrijvers die krachtens de wetgeving van de lidstaat waarin zij zijn gevestigd, gerechtigd zijn de desbetreffende verrichting uit te voeren, niet af louter op grond van het feit dat zij een natuurlijke persoon of een rechtspersoon zijn.
 
@@ -608,7 +635,7 @@ Een aanbestedende dienst die of een speciale-sectorbedrijf dat een opdracht wil 
 
 #### § 2.3.1.2. Communicatie en inlichtingen
 
-#### Artikel 2.36
+##### Artikel 2.36
 
 1. Een ondernemer kan inlichtingen vragen over een specifieke aanbesteding.
 
@@ -616,27 +643,27 @@ Een aanbestedende dienst die of een speciale-sectorbedrijf dat een opdracht wil 
 
 3. Een ondernemer kan de aanbestedende dienst of het speciale-sectorbedrijf verzoeken om bepaalde informatie niet in de nota van inlichtingen op te nemen indien openbaarmaking van deze informatie schade zou toebrengen aan de gerechtvaardigde economische belangen van de onderneming.
 
-#### Artikel 2.37
+##### Artikel 2.37
 
 1. Een aanbestedende dienst of een speciale-sectorbedrijf verstrekt nadere inlichtingen over de aanbestedingsstukken uiterlijk zes dagen voor de uiterste datum voor het indienen van de inschrijvingen, mits het verzoek om inlichtingen tijdig voor de uiterste datum voor het indienen van de inschrijvingen is gedaan.
 
 2. In afwijking van het eerste lid bedraagt de in dat lid bedoelde termijn in geval van toepassing van de niet-openbare procedure of onderhandelingsprocedure, waarbij toepassing wordt gegeven aan [artikel 2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.3&artikel=2.57&z=2019-04-18&g=2019-04-18), vier dagen.
 
-#### Artikel 2.38
+##### Artikel 2.38
 
 Een aanbestedende dienst of een speciale-sectorbedrijf kan een ondernemer vragen om zijn inschrijving of verzoek om deelneming nader toe te lichten of aan te vullen met inachtneming van de [artikelen 2.74](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.4&artikel=2.74&z=2019-04-18&g=2019-04-18), [2.75](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.4&artikel=2.75&z=2019-04-18&g=2019-04-18) en [2.93](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.4&artikel=2.93&z=2019-04-18&g=2019-04-18).
 
-#### Artikel 2.39
+##### Artikel 2.39
 
 1. Een aanbestedende dienst of speciale-sectorbedrijf is niet gehouden gerubriceerde gegevens met betrekking tot een specifieke aanbesteding te verstrekken aan een ondernemer, indien die niet voldoet aan eisen die de aanbestedende dienst of het speciale-sectorbedrijf ter bescherming van die gegevens aan de verstrekking daarvan heeft gesteld.
 
 2. Een eis als bedoeld in het eerste lid kan inhouden dat een ondernemer er voor zorg dient te dragen dat door hem in te schakelen onderaannemers eveneens aan de eisen, bedoeld in het eerste lid, voldoen.
 
-#### Artikel 2.40
+##### Artikel 2.40
 
 Een aanbestedende dienst of een speciale-sectorbedrijf neemt passende maatregelen om het verloop van een langs elektronische weg gevoerde procedure te documenteren.
 
-#### Artikel 2.41
+##### Artikel 2.41
 
 1. Onverminderd het in deze wet bepaalde maakt een aanbestedende dienst of een speciale-sectorbedrijf informatie die hem door een ondernemer als vertrouwelijk is verstrekt niet openbaar.
 
@@ -646,7 +673,7 @@ Een aanbestedende dienst of een speciale-sectorbedrijf neemt passende maatregele
 
 #### § 2.3.2.1. Vooraankondiging
 
-#### Artikel 2.42
+##### Artikel 2.42
 
 Een aanbestedende dienst of het speciale-sectorbedrijf kan een vooraankondiging bekendmaken waarin wordt vermeld:
 
@@ -656,17 +683,17 @@ Een aanbestedende dienst of het speciale-sectorbedrijf kan een vooraankondiging 
 
 - c. het overeenkomstig [afdeling 2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.1&afdeling=2.1.2&z=2019-04-18&g=2019-04-18) geraamde totale bedrag per dienstencategorie van de opdrachten voor diensten voor elk van de dienstencategorieën, die de aanbestedende dienst of het speciale-sectorbedrijf voornemens is in de loop van de komende twaalf maanden te plaatsen.
 
-#### Artikel 2.43
+##### Artikel 2.43
 
 1. De bekendmaking van de vooraankondiging geschiedt langs elektronische weg, met gebruikmaking van het elektronisch systeem voor aanbestedingen.
 
 2. De aanbestedende dienst of het speciale-sectorbedrijf gebruikt voor de bekendmaking van de vooraankondiging het daartoe door middel van het elektronisch systeem voor aanbestedingen beschikbaar gestelde formulier.
 
-#### Artikel 2.44
+##### Artikel 2.44
 
 Een aanbestedende dienst of een speciale-sectorbedrijf zendt de vooraankondiging, bedoeld in [artikel 2.42](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.1&artikel=2.42&z=2019-04-18&g=2019-04-18), zo spoedig mogelijk nadat de beslissing is genomen tot goedkeuring van het programma voor de opdrachten of de raamovereenkomsten die de aanbestedende dienst of het speciale-sectorbedrijf voornemens is te plaatsen of te sluiten, met behulp van het elektronisch systeem voor aanbestedingen toe aan de Europese Commissie.
 
-#### Artikel 2.45
+##### Artikel 2.45
 
 1. In afwijking van [artikel 2.44](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.1&artikel=2.44&z=2019-04-18&g=2019-04-18) kan de aanbestedende dienst of het speciale-sectorbedrijf de vooraankondiging ook bekend maken op zijn kopersprofiel.
 
@@ -682,7 +709,7 @@ Een aanbestedende dienst of een speciale-sectorbedrijf zendt de vooraankondiging
 
 #### § 2.3.2.2. Aankondiging
 
-#### Artikel 2.46
+##### Artikel 2.46
 
 1. De aanbestedende dienst die of het speciale-sectorbedrijf dat voornemens is een opdracht te gunnen maakt hiertoe een aankondiging van de opdracht bekend.
 
@@ -692,27 +719,27 @@ Een aanbestedende dienst of een speciale-sectorbedrijf zendt de vooraankondiging
 
 4. Het eerste lid is niet van toepassing indien de aanbestedende dienst of het speciale-sectorbedrijf de onderhandelingsprocedure zonder aankondiging toepast.
 
-#### Artikel 2.47
+##### Artikel 2.47
 
 De aanbestedende dienst of het speciale-sectorbedrijf geeft in de aankondiging of in de uitnodiging tot inschrijving aan welke bewijsmiddelen hij van de ondernemer verlangt, waaronder die met betrekking tot de financiële en economische draagkracht en de technische- en beroepsbekwaamheid.
 
-#### Artikel 2.48
+##### Artikel 2.48
 
 De aanbestedende dienst of het speciale-sectorbedrijf kan met behulp van de bevestiging van ontvangst van de bekendmaking van de Europese Commissie aantonen dat hij een aankondiging heeft bekendgemaakt.
 
-#### Artikel 2.49
+##### Artikel 2.49
 
 1. De aanbestedende dienst of het speciale-sectorbedrijf kan de aankondiging of de inhoud ervan niet eerder op een andere wijze dan bedoeld in [artikel 2.46](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.2&artikel=2.46&z=2019-04-18&g=2019-04-18) bekendmaken dan nadat deze aan de Europese Commissie is gezonden.
 
 2. Indien de aanbestedende dienst of het speciale-sectorbedrijf de aankondiging ook op een andere wijze dan met gebruikmaking van het elektronisch systeem voor aanbestedingen bekend maakt, bevat die aankondiging geen andere informatie dan die welke aan de Europese Commissie is gezonden of via het kopersprofiel is bekendgemaakt en bevat deze in ieder geval de datum van toezending aan de Europese Commissie dan wel de datum van de bekendmaking op het kopersprofiel.
 
-#### Artikel 2.50
+##### Artikel 2.50
 
 1. De aanbestedende dienst of het speciale-sectorbedrijf stelt de aanbestedingsstukken voor de opdracht op enigerlei wijze kosteloos ter beschikking.
 
 2. Indien de aanbestedende dienst of het speciale-sectorbedrijf de aanbestedingsstukken voor de opdracht ook op andere wijze dan ter uitvoering van het eerste lid beschikbaar stelt, kan de aanbestedende dienst of het speciale-sectorbedrijf de kosten voor die wijze van verstrekking in rekening brengen bij degenen die om die andere wijze van verstrekking van de aanbestedingsstukken hebben gevraagd.
 
-#### Artikel 2.51
+##### Artikel 2.51
 
 1. De aanbestedende dienst of het speciale-sectorbedrijf kan een rectificatie van een eerder gedane aankondiging bekendmaken.
 
@@ -720,17 +747,17 @@ De aanbestedende dienst of het speciale-sectorbedrijf kan met behulp van de beve
 
 3. De aanbestedende dienst of het speciale-sectorbedrijf gebruikt voor de bekendmaking van de rectificatie het daartoe door middel van het elektronisch systeem voor aanbestedingen beschikbaar gestelde formulier.
 
-#### Artikel 2.52
+##### Artikel 2.52
 
 Indien de aanbestedingsstukken bij een andere instantie moeten worden opgevraagd vermeldt de aanbestedende dienst of het speciale-sectorbedrijf in de uitnodiging tot deelname aan een niet-openbare procedure, de concurrentiegerichte dialoog of een onderhandelingsprocedure met aankondiging, het adres van deze instantie en, in voorkomend geval, de uiterste datum voor dit verzoek.
 
 #### § 2.3.2.3. Termijnen
 
-#### Artikel 2.53
+##### Artikel 2.53
 
 De aanbestedende dienst of het speciale-sectorbedrijf stelt de termijn voor het indienen van verzoeken tot deelneming of inschrijvingen vast met inachtneming van het voorwerp van de opdracht, de voor de voorbereiding van het verzoek of de inschrijving benodigde tijd en de in deze paragraaf gestelde regels omtrent termijnen.
 
-#### Artikel 2.54
+##### Artikel 2.54
 
 1. Voor niet-openbare procedures, onderhandelingsprocedures met aankondiging en de concurrentiegerichte dialoog bedraagt de termijn voor het indienen van de verzoeken tot deelneming ten minste 30 dagen, te rekenen vanaf de verzenddatum van de aankondiging van de opdracht.
 
@@ -740,15 +767,15 @@ De aanbestedende dienst of het speciale-sectorbedrijf stelt de termijn voor het 
 
 4. Het inkorten van de termijn, bedoeld in het derde lid, is uitsluitend toegestaan, indien de vooraankondiging alle informatie bevat die in de aankondiging van de opdracht, bedoeld in bijlage IV van [richtlijn nr. 2009/81/EG](32009L0081), wordt verlangd, voor zover deze informatie beschikbaar is op het tijdstip dat de vooraankondiging wordt bekendgemaakt en mits deze vooraankondiging ten minste 52 dagen en ten hoogste 12 maanden voor de verzenddatum van de aankondiging van de opdracht ter bekendmaking is verzonden.
 
-#### Artikel 2.55
+##### Artikel 2.55
 
 Een aanbestedende dienst of een speciale-sectorbedrijf kan de termijnen voor het indienen van inschrijvingen, bedoeld in [artikel 2.54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.3&artikel=2.54&z=2019-04-18&g=2019-04-18), met vijf dagen inkorten indien hij met elektronische middelen en vanaf het doen van de aankondiging vrije, rechtstreekse en volledige toegang biedt tot de aanbestedingsstukken, met inachtneming van [paragraaf 2.3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.2&z=2019-04-18&g=2019-04-18), en in de aankondiging het internetadres vermeldt dat toegang biedt tot deze documenten.
 
-#### Artikel 2.56
+##### Artikel 2.56
 
 Indien de tijdig aangevraagde aanbestedingsstukken en de aanvullende stukken of nadere inlichtingen niet binnen de in [artikel 2.37](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.1&paragraaf=2.3.1.2&artikel=2.37&z=2019-04-18&g=2019-04-18) gestelde termijn zijn verstrekt, of indien de inschrijvingen slechts na een bezichtiging ter plaatse, of na inzage ter plaatse van de bij de aanbestedingsstukken behorende stukken kunnen worden gedaan, verlengt de aanbestedende dienst of het speciale-sectorbedrijf de termijn voor het indienen van de inschrijvingen zodanig dat alle betrokken ondernemers van alle nodige informatie voor de opstelling van de inschrijvingen kennis kunnen nemen.
 
-#### Artikel 2.57
+##### Artikel 2.57
 
 Indien om dringende redenen de in de [artikelen 2.54 tot en met 2.56](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.3&artikel=2.54&z=2019-04-18&g=2019-04-18) bepaalde termijnen niet in acht kunnen worden genomen, kan een aanbestedende dienst of een speciale-sectorbedrijf bij een niet-openbare procedure, de procedure van de concurrentiegerichte dialoog of een onderhandelingsprocedure met aankondiging, de volgende termijnen vaststellen:
 
@@ -760,13 +787,13 @@ Indien om dringende redenen de in de [artikelen 2.54 tot en met 2.56](https://we
 
 #### § 2.3.3.1. Technische specificaties
 
-#### Artikel 2.58
+##### Artikel 2.58
 
 1. Een aanbestedende dienst of een speciale-sectorbedrijf neemt de door hem gestelde technische specificaties op in de aanbestedingsstukken.
 
 2. De technische specificaties bieden de inschrijvers gelijke toegang en leiden niet tot ongerechtvaardigde belemmeringen in de openstelling van opdrachten voor mededinging.
 
-#### Artikel 2.59
+##### Artikel 2.59
 
 1. Onverminderd technische eisen die verenigbaar zijn met het Unierecht en waarvan het gebruik bij of krachtens de wet verplicht is gesteld of aan welke op grond van internationale normalisatieovereenkomsten voldaan moet worden om de krachtens deze overeenkomsten vereiste interoperabiliteit te garanderen, formuleert een aanbestedende dienst of een speciale-sectorbedrijf de technische specificaties:
 
@@ -800,7 +827,7 @@ Indien om dringende redenen de in de [artikelen 2.54 tot en met 2.56](https://we
 
 - b. deze melding of verwijzing vergezeld gaat van de woorden «of gelijkwaardig».
 
-#### Artikel 2.60
+##### Artikel 2.60
 
 1. Een aanbestedende dienst die of een speciale-sectorbedrijf dat verwijst naar de specificaties, bedoeld in [artikel 2.59, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.1&artikel=2.59&z=2019-04-18&g=2019-04-18), wijst een inschrijving niet af omdat de aangeboden producten en diensten niet voldoen aan de specificaties waarnaar hij heeft verwezen, indien de inschrijver in zijn inschrijving tot voldoening van de aanbestedende dienst of het speciale-sectorbedrijf aantoont dat de door hem voorgestelde oplossingen op gelijkwaardige wijze voldoen aan de eisen in die technische specificaties.
 
@@ -822,13 +849,13 @@ indien de in de onderdelen a tot en met e bedoelde specificaties betrekking hebb
 
 4. Een aanbestedende dienst of een speciale-sectorbedrijf aanvaardt certificaten van in andere lidstaten van de Europese Unie gevestigde erkende organisaties.
 
-#### Artikel 2.61
+##### Artikel 2.61
 
 Een inschrijver toont in zijn inschrijving aan dat het product, de dienst of het werk in overeenstemming is met de norm en voldoet aan de functionele en prestatie-eisen van de aanbestedende dienst of het speciale-sectorbedrijf.
 
 #### § 2.3.3.2. Onderaanneming
 
-#### Artikel 2.62
+##### Artikel 2.62
 
 1. De aanbestedende dienst of het speciale-sectorbedrijf kan de gegadigden die worden uitgenodigd tot inschrijving voor een opdracht verzoeken in hun inschrijving te vermelden of zij voornemens zijn een gedeelte van de opdracht aan derden in onderaanneming te geven.
 
@@ -842,7 +869,7 @@ Een inschrijver toont in zijn inschrijving aan dat het product, de dienst of het
 
 3. Het eerste en tweede lid zijn niet van toepassing, indien de aanbestedende dienst of het speciale-sectorbedrijf [artikel 2.63](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.2&artikel=2.63&z=2019-04-18&g=2019-04-18) toepast.
 
-#### Artikel 2.63
+##### Artikel 2.63
 
 1. De aanbestedende dienst of het speciale-sectorbedrijf kan de gegadigden die worden uitgenodigd tot inschrijving voor een opdracht verzoeken in hun inschrijving te vermelden dat zij een percentage van de waarde van de opdracht aan derden in onderaanneming zullen uitbesteden dat niet ligt buiten een door de aanbestedende dienst of het speciale-sectorbedrijf vastgesteld bereik waarvan een minimum- en maximumpercentage van de waarde van de opdracht de uitersten zijn.
 
@@ -852,13 +879,13 @@ Een inschrijver toont in zijn inschrijving aan dat het product, de dienst of het
 
 4. De aanbestedende dienst die of het speciale-sectorbedrijf dat een eis als bedoeld in het eerste lid stelt, verzoekt de inschrijvers tevens om in hun inschrijving te specificeren welk deel of welke delen van de opdracht zij voornemens zijn aan derden uit te besteden als opdracht in onderaanneming binnen de percentages, bedoeld in het eerste lid.
 
-#### Artikel 2.64
+##### Artikel 2.64
 
 1. Het is een inschrijver toegestaan in zijn inschrijving voor te stellen een deel van de totale waarde van de opdracht dat uitstijgt boven het door de aanbestedende dienst of het speciale-sectorbedrijf vastgestelde maximumpercentage, bedoeld in [artikel 2.63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.2&artikel=2.63&z=2019-04-18&g=2019-04-18), aan derden in onderaanneming uit te besteden.
 
 2. Een aanbestedende dienst of een speciale-sectorbedrijf kan een inschrijver verzoeken het deel van de opdracht te specificeren dat boven het vastgestelde maximumpercentage, bedoeld in [artikel 2.63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.2&artikel=2.63&z=2019-04-18&g=2019-04-18), uitstijgt en, in voorkomend geval, aan te geven welke onderaannemers daarvoor reeds zijn gekozen.
 
-#### Artikel 2.65
+##### Artikel 2.65
 
 1. Een samenwerkingsverband van ondernemingen dat gevormd is om een opdracht te verwerven, of met dit samenwerkingsverband verbonden ondernemingen, worden niet als derden als bedoeld in deze paragraaf of in [afdeling 2.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.2&z=2019-04-18&g=2019-04-18), beschouwd.
 
@@ -878,7 +905,7 @@ Een inschrijver toont in zijn inschrijving aan dat het product, de dienst of het
 
 - c. meer dan de helft van de leden van het bestuurs-, leidinggevend of toezichthoudend orgaan van het bedrijf kan benoemen.
 
-#### Artikel 2.66
+##### Artikel 2.66
 
 1. De aanbestedende dienst of het speciale-sectorbedrijf kan gedurende de fase van selectie of gunning van een opdracht de in een inschrijving opgenomen keuzes van onderaannemers afwijzen, mits die afwijzing is gebaseerd op selectiecriteria, technische specificaties, eisen of normen, of oplossingen die aan de uitvoering van de opdracht zijn gesteld.
 
@@ -888,13 +915,13 @@ Een inschrijver toont in zijn inschrijving aan dat het product, de dienst of het
 
 4. Het derde lid is van overeenkomstige toepassing op een afwijzing als bedoeld in het tweede lid.
 
-#### Artikel 2.67
+##### Artikel 2.67
 
 De aanbestedende dienst of het speciale-sectorbedrijf vermeldt in de aankondiging de eisen die hij op grond van de [artikelen 2.62 tot en met 2.66](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.2&artikel=2.62&z=2019-04-18&g=2019-04-18) stelt.
 
 #### § 2.3.3.3. Gegevensbeveiliging
 
-#### Artikel 2.68
+##### Artikel 2.68
 
 1. Bij een opdracht die op gerubriceerde gegevens betrekking heeft, die gerubriceerde gegevens noodzakelijk maakt, of die gerubriceerde gegevens bevat, vermeldt de aanbestedende dienst of het speciale-sectorbedrijf in de aanbestedingsstukken de maatregelen en eisen die noodzakelijk zijn om het vereiste beveiligingsniveau van deze gegevens te waarborgen.
 
@@ -920,7 +947,7 @@ erkent die aanbestedende dienst of dat speciale-sectorbedrijf ook een daarmee ge
 
 #### § 2.3.3.4. Bevoorradingszekerheid
 
-#### Artikel 2.69
+##### Artikel 2.69
 
 1. De aanbestedende dienst of het speciale-sectorbedrijf specificeert in de aanbestedingstukken zijn eisen op het gebied van bevoorradingszekerheid.
 
@@ -946,13 +973,13 @@ erkent die aanbestedende dienst of dat speciale-sectorbedrijf ook een daarmee ge
 
 #### § 2.3.3.5. Bijzondere voorwaarden
 
-#### Artikel 2.70
+##### Artikel 2.70
 
 1. Een aanbestedende dienst of een speciale-sectorbedrijf kan bijzondere voorwaarden verbinden aan de uitvoering van een opdracht, mits dergelijke voorwaarden met het Verdrag betreffende de werking van de Europese Unie verenigbaar zijn en in de aanbestedingsstukken vermeld zijn.
 
 2. De voorwaarden waaronder een opdracht wordt uitgevoerd, kunnen betrekking hebben op onderaanneming of ten doel hebben de door de aanbestedende dienst of het speciale-sectorbedrijf overeenkomstig de [artikelen 2.68](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.3&artikel=2.68&z=2019-04-18&g=2019-04-18) en [2.69](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.4&artikel=2.69&z=2019-04-18&g=2019-04-18) vereiste beveiliging van gerubriceerde gegevens en bevoorradingszekerheid te waarborgen, dan wel met sociale of milieuoverwegingen verband houden.
 
-#### Artikel 2.71
+##### Artikel 2.71
 
 1. In de aanbestedingsstukken kan een aanbestedende dienst of een speciale-sectorbedrijf aangeven bij welk orgaan de inschrijvers informatie kunnen verkrijgen over verplichtingen omtrent de bepalingen inzake belastingen, milieubescherming, arbeidsbescherming en arbeidsvoorwaarden die gelden in Nederland of, indien de verrichtingen buiten Nederland worden uitgevoerd, die gelden in het gebied of de plaats waar de verrichtingen worden uitgevoerd en die gedurende de uitvoering van de opdracht op die verrichtingen van toepassing zullen zijn.
 
@@ -960,7 +987,7 @@ erkent die aanbestedende dienst of dat speciale-sectorbedrijf ook een daarmee ge
 
 #### § 2.3.3.6. Voorbehouden opdracht
 
-#### Artikel 2.72
+##### Artikel 2.72
 
 1. De aanbestedende dienst of het speciale-sectorbedrijf kan de deelneming aan een procedure voor de gunning van een opdracht of de uitvoering ervan voorbehouden aan sociale werkplaatsen in het kader van programma’s voor beschermde arbeid indien de meerderheid van de betrokken werknemers personen met een handicap zijn die wegens de aard of de ernst van hun handicaps geen beroepsactiviteit in normale omstandigheden kunnen uitvoeren.
 
@@ -968,7 +995,7 @@ erkent die aanbestedende dienst of dat speciale-sectorbedrijf ook een daarmee ge
 
 #### § 2.3.3.7. Varianten
 
-#### Artikel 2.73
+##### Artikel 2.73
 
 1. Een aanbestedende dienst of een speciale-sectorbedrijf kan de inschrijvers toestaan varianten voor te stellen, indien hij voor de gunning het criterium van de economisch meest voordelige inschrijving hanteert.
 
@@ -982,13 +1009,13 @@ erkent die aanbestedende dienst of dat speciale-sectorbedrijf ook een daarmee ge
 
 ### Afdeling 2.3.4. Eigen verklaring
 
-#### Artikel 2.74
+##### Artikel 2.74
 
 1. Een eigen verklaring is een verklaring van een ondernemer waarin deze aangeeft of uitsluitingsgronden op hem van toepassing zijn, of hij voldoet aan de in de aankondiging of in de aanbestedingsstukken gestelde geschiktheidseisen en op welke wijze hij voldoet aan de selectiecriteria.
 
 2. De gegevens en inlichtingen die in een verklaring kunnen worden verlangd worden bij of krachtens algemene maatregel van bestuur vastgesteld.
 
-#### Artikel 2.75
+##### Artikel 2.75
 
 1. De aanbestedende dienst of het speciale-sectorbedrijf verlangt van een ondernemer dat hij bij zijn verzoek tot deelneming of zijn inschrijving een eigen verklaring indient en geeft daarbij aan welke gegevens en inlichtingen in de eigen verklaring moeten worden verstrekt.
 
@@ -1000,7 +1027,7 @@ erkent die aanbestedende dienst of dat speciale-sectorbedrijf ook een daarmee ge
 
 #### § 2.3.5.1. Uitsluitingsgronden
 
-#### Artikel 2.76
+##### Artikel 2.76
 
 1. Een aanbestedende dienst of een speciale-sectorbedrijf sluit een gegadigde of inschrijver jegens wie bij een onherroepelijk geworden rechterlijke uitspraak een veroordeling als bedoeld in het tweede lid is uitgesproken waarvan de aanbestedende dienst of het speciale-sectorbedrijf kennis heeft, uit van deelneming aan een opdracht of een aanbestedingsprocedure.
 
@@ -1020,7 +1047,7 @@ erkent die aanbestedende dienst of dat speciale-sectorbedrijf ook een daarmee ge
 
 4. De aanbestedende dienst of het speciale-sectorbedrijf betrekt bij de toepassing van het eerste lid uitsluitend rechterlijke uitspraken die in de vier jaar voorafgaand aan het tijdstip van het indienen van het verzoek tot deelneming of de inschrijving onherroepelijk zijn geworden.
 
-#### Artikel 2.77
+##### Artikel 2.77
 
 1. De aanbestedende dienst of het speciale-sectorbedrijf kan een inschrijver of gegadigde uitsluiten van deelneming aan een opdracht of een aanbestedingsprocedure op de volgende gronden:
 
@@ -1038,7 +1065,7 @@ erkent die aanbestedende dienst of dat speciale-sectorbedrijf ook een daarmee ge
 
 2. De aanbestedende dienst of het speciale-sectorbedrijf betrekt bij de toepassing van het eerste lid, onderdeel b, uitsluitend onherroepelijke uitspraken die in de vier jaar voorafgaand aan het tijdstip van het indienen van het verzoek tot deelneming of de inschrijving onherroepelijk zijn geworden en bij de toepassing van het eerste lid, onderdeel c, uitsluitend ernstige fouten die zich in de vier jaar voorafgaand aan het genoemde tijdstip hebben voorgedaan.
 
-#### Artikel 2.78
+##### Artikel 2.78
 
 De aanbestedende dienst of het speciale-sectorbedrijf kan afzien van toepassing van [artikel 2.76](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.76&z=2019-04-18&g=2019-04-18) of [artikel 2.77](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.77&z=2019-04-18&g=2019-04-18):
 
@@ -1050,7 +1077,7 @@ De aanbestedende dienst of het speciale-sectorbedrijf kan afzien van toepassing 
 
 #### § 2.3.5.2. Bewijsstukken uitsluitingsgronden
 
-#### Artikel 2.79
+##### Artikel 2.79
 
 1. Een gegadigde of inschrijver kan door middel van een uittreksel uit het handelsregister, dat op het tijdstip van het indienen van het verzoek tot deelneming of de inschrijving niet ouder is dan zes maanden, aantonen dat de uitsluitingsgrond van [artikel 2.77, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.77&z=2019-04-18&g=2019-04-18), op hem niet van toepassing is.
 
@@ -1064,7 +1091,7 @@ De aanbestedende dienst of het speciale-sectorbedrijf kan afzien van toepassing 
 
 #### § 2.3.6.1. Geschiktheidseisen
 
-#### Artikel 2.80
+##### Artikel 2.80
 
 1. Een aanbestedende dienst of een speciale-sectorbedrijf kan geschiktheidseisen stellen aan gegadigden en inschrijvers.
 
@@ -1078,7 +1105,7 @@ De aanbestedende dienst of het speciale-sectorbedrijf kan afzien van toepassing 
 
 3. Een aanbestedende dienst of een speciale-sectorbedrijf stelt bij de voorbereiding en het tot stand brengen van een overeenkomst uitsluitend eisen aan de inschrijver en de inschrijving die verband houden met en in een redelijke verhouding staan tot het voorwerp van de opdracht.
 
-#### Artikel 2.81
+##### Artikel 2.81
 
 1. Een ondernemer kan zijn financiële en economische draagkracht in ieder geval aantonen door een of meer van de volgende middelen:
 
@@ -1090,13 +1117,13 @@ De aanbestedende dienst of het speciale-sectorbedrijf kan afzien van toepassing 
 
 2. Indien de ondernemer om gegronde redenen niet in staat is de door de aanbestedende dienst of het speciale-sectorbedrijf gevraagde bewijsstukken over te leggen, kan hij zijn economische en financiële draagkracht aantonen met andere bescheiden die de aanbestedende dienst of het speciale-sectorbedrijf geschikt acht.
 
-#### Artikel 2.82
+##### Artikel 2.82
 
 1. Een ondernemer kan zich voor een bepaalde opdracht beroepen op de financiële en economische draagkracht van andere natuurlijke personen of rechtspersonen, ongeacht de juridische aard van zijn banden met die natuurlijke personen of rechtspersonen. Een ondernemer toont in dat geval bij de aanbestedende dienst of het speciale-sectorbedrijf aan dat hij daadwerkelijk kan beschikken over de voor de uitvoering van de opdracht noodzakelijke middelen van die natuurlijke personen of rechtspersonen.
 
 2. Onder de voorwaarden, genoemd in het eerste lid, kan een samenwerkingsverband van ondernemers zich beroepen op de draagkracht van de deelnemers aan het samenwerkingsverband of van andere natuurlijke personen of rechtspersonen.
 
-#### Artikel 2.83
+##### Artikel 2.83
 
 1. Een ondernemer kan zijn technische bekwaamheid of beroepsbekwaamheid op een of meer van de volgende manieren aantonen, afhankelijk van de aard, de hoeveelheid of omvang en het doel van de werken, leveringen of diensten:
 
@@ -1130,27 +1157,27 @@ De aanbestedende dienst of het speciale-sectorbedrijf kan afzien van toepassing 
 
 5. Indien een gegadigde een persoon wenst te belasten met een functie die is aangewezen als vertrouwensfunctie als bedoeld in de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277) is [artikel 2.68, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.3&artikel=2.68&z=2019-04-18&g=2019-04-18), van overeenkomstige toepassing.
 
-#### Artikel 2.84
+##### Artikel 2.84
 
 1. Een ondernemer kan zich voor bepaalde opdrachten beroepen op de bekwaamheid van andere natuurlijke personen of rechtspersonen, ongeacht de juridische aard van zijn banden met die natuurlijke personen of rechtspersonen, mits hij aantoont dat hij kan beschikken over de voor de uitvoering van de opdracht noodzakelijke middelen.
 
 2. Onder de voorwaarden, genoemd in het eerste lid, kan een samenwerkingsverband van ondernemers zich beroepen op de bekwaamheid van de deelnemers aan het samenwerkingsverband of van andere natuurlijke personen of rechtspersonen.
 
-#### Artikel 2.85
+##### Artikel 2.85
 
 De aanbestedende dienst of het speciale-sectorbedrijf kan bij opdrachten voor werken, bij opdrachten voor leveringen waarvoor plaatsings- of installatiewerkzaamheden nodig zijn, en bij opdrachten voor diensten de geschiktheid van ondernemers om die diensten te verlenen of die installatiewerkzaamheden of werken uit te voeren, beoordelen op grond van met name hun praktische vaardigheden, technische kennis, efficiëntie, ervaring en betrouwbaarheid.
 
-#### Artikel 2.86
+##### Artikel 2.86
 
 Indien de ondernemer om gegronde redenen niet in staat is de door de aanbestedende dienst of het speciale-sectorbedrijf gevraagde bewijsstukken over te leggen, kan hij zijn technische- en beroepsbekwaamheid aantonen met andere bescheiden die de aanbestedende dienst of het speciale-sectorbedrijf geschikt acht.
 
-#### Artikel 2.87
+##### Artikel 2.87
 
 1. Indien een aanbestedende dienst of een speciale-sectorbedrijf de overlegging verlangt van een door een onafhankelijke geaccrediteerde instantie opgestelde verklaring dat de ondernemer aan bepaalde normen van kwaliteitsmanagementsystemen voldoet, verwijst hij naar kwaliteitsmanagementsystemen die op de Europese normenreeksen op dit terrein zijn gebaseerd en die zijn gecertificeerd door onafhankelijke geaccrediteerde instanties die voldoen aan de Europese normenreeks voor certificering.
 
 2. Een aanbestedende dienst of een speciale-sectorbedrijf aanvaardt gelijkwaardige certificaten van in andere lidstaten van de Europese Unie gevestigde onafhankelijke geaccrediteerde instanties. Een aanbestedende dienst of een speciale-sectorbedrijf aanvaardt eveneens andere bewijzen inzake gelijkwaardige kwaliteitsmanagementsystemen.
 
-#### Artikel 2.88
+##### Artikel 2.88
 
 1. Indien een aanbestedende dienst of een speciale-sectorbedrijf in een geval als bedoeld in [artikel 2.83, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.1&artikel=2.83&z=2019-04-18&g=2019-04-18), de overlegging verlangt van een door een onafhankelijk instantie opgestelde verklaring dat de ondernemer aan bepaalde normen inzake milieubeheer voldoet, verwijst hij naar het communautair milieubeheer- en milieuauditsysteem of naar normen inzake milieubeheer die gebaseerd zijn op de desbetreffende Europese of internationale normen die gecertificeerd zijn door erkende organisaties of organisaties die beantwoorden of aan de relevante Europese of internationale normen voor certificering.
 
@@ -1158,7 +1185,7 @@ Indien de ondernemer om gegronde redenen niet in staat is de door de aanbesteden
 
 #### § 2.3.6.2. Beroepsbevoegdheid
 
-#### Artikel 2.89
+##### Artikel 2.89
 
 1. Indien een gegadigde of inschrijver zijn beroepsactiviteit niet mag uitoefenen zonder ingeschreven te zijn in een beroeps- of handelsregister in zijn lidstaat van herkomst of vestiging, kan de aanbestedende dienst of het speciale-sectorbedrijf hem verzoeken aan te tonen dat hij in het desbetreffende register is ingeschreven, of een verklaring onder ede of een attest te verstrekken.
 
@@ -1166,13 +1193,13 @@ Indien de ondernemer om gegronde redenen niet in staat is de door de aanbesteden
 
 #### § 2.3.6.3. Selectie
 
-#### Artikel 2.90
+##### Artikel 2.90
 
 1. De aanbestedende dienst of het speciale-sectorbedrijf kan bij toepassing van de niet-openbare procedure, de onderhandelingsprocedure met aankondiging en de concurrentiegerichte dialoog het aantal gegadigden dat hij zal uitnodigen tot inschrijving, deelneming of onderhandeling beperken met inachtneming van hetgeen in deze paragraaf is bepaald.
 
 2. Een beperking van het aantal gegadigden als bedoeld in het eerste lid vindt op een objectieve en niet-discriminerende wijze plaats, met behulp van in de aankondiging vermelde regels of selectiecriteria en weging.
 
-#### Artikel 2.91
+##### Artikel 2.91
 
 1. De aanbestedende dienst of het speciale-sectorbedrijf vermeldt in de aankondiging het aantal gegadigden dat hij voornemens is ten minste en, in voorkomend geval, ten hoogste uit te nodigen.
 
@@ -1184,7 +1211,7 @@ Indien de ondernemer om gegronde redenen niet in staat is de door de aanbesteden
 
 5. Indien het aantal gegadigden dat niet wordt uitgesloten en dat aan de geschiktheidseisen en selectiecriteria voldoet onder het aantal ligt dat de aanbestedende dienst of het speciale-sectorbedrijf in de aankondiging als minimum voor het aantal uit te nodigen gegadigden heeft vermeld, kan de aanbestedende dienst of het speciale-sectorbedrijf de procedure voortzetten. In dat geval nodigt hij in afwijking van het vierde lid de gegadigde of gegadigden uit die niet worden uitgesloten en die aan de geschiktheidseisen voldoen.
 
-#### Artikel 2.92
+##### Artikel 2.92
 
 1. Indien het aantal gegadigden dat aan de geschiktheidseisen voldoet en waarop geen uitsluitingsgrond van toepassing is te laag is om een daadwerkelijke mededinging te waarborgen, kan de aanbestedende dienst of het speciale-sectorbedrijf de procedure opschorten en maakt hij in dat geval de oorspronkelijke aankondiging van de opdracht opnieuw bekend met inachtneming van [artikel 2.46, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.2&artikel=2.46&z=2019-04-18&g=2019-04-18).
 
@@ -1198,7 +1225,7 @@ Indien de ondernemer om gegronde redenen niet in staat is de door de aanbesteden
 
 #### § 2.3.6.4. Controle van uitsluitingsgronden, geschiktheidseisen en selectiecriteria
 
-#### Artikel 2.93
+##### Artikel 2.93
 
 1. De aanbestedende of het speciale-sectorbedrijf kan de juistheid nagaan van een of meer gegevens of inlichtingen in de eigen verklaring van de gegadigden die hij wil uitnodigen om een inschrijving in te dienen of van de inschrijvers bij welke hij voornemens is de opdracht te plaatsen.
 
@@ -1206,7 +1233,7 @@ Indien de ondernemer om gegronde redenen niet in staat is de door de aanbesteden
 
 ### Afdeling 2.3.7. Mededeling van uitsluiting en afwijzing
 
-#### Artikel 2.94
+##### Artikel 2.94
 
 1. Een aanbestedende dienst of speciale-sectorbedrijf deelt de afwijzing of uitsluiting van betrokken gegadigden en betrokken inschrijvers zo spoedig mogelijk schriftelijk mede.
 
@@ -1216,7 +1243,7 @@ Indien de ondernemer om gegronde redenen niet in staat is de door de aanbesteden
 
 4. Indien de afwijzing betrekking heeft op de gevallen bedoeld in de [artikelen 2.68](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.3&artikel=2.68&z=2019-04-18&g=2019-04-18) en [2.69](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.4&artikel=2.69&z=2019-04-18&g=2019-04-18), bevat de kennisgeving, bedoeld in het derde lid, de redenen dat niet aan de vereisten op het gebied van gegevensbeveiliging en bevoorradingszekerheid is voldaan.
 
-#### Artikel 2.95
+##### Artikel 2.95
 
 De aanbestedende dienst die of het speciale-sectorbedrijf dat een mededeling als bedoeld in [artikel 2.94, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.7&artikel=2.94&z=2019-04-18&g=2019-04-18), doet, verstrekt daarbij geen gegevens voor zover dat:
 
@@ -1232,11 +1259,11 @@ De aanbestedende dienst die of het speciale-sectorbedrijf dat een mededeling als
 
 #### § 2.3.8.1. Uitnodiging tot inschrijving
 
-#### Artikel 2.96
+##### Artikel 2.96
 
 Bij toepassing van de niet-openbare procedure, de concurrentiegerichte dialoog of de onderhandelingsprocedure met aankondiging nodigt de aanbestedende dienst of het speciale-sectorbedrijf met inachtneming van [paragraaf 2.3.6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.6&paragraaf=2.3.6.3&z=2019-04-18&g=2019-04-18) de niet-uitgesloten en niet-afgewezen gegadigden gelijktijdig en schriftelijk uit tot inschrijving, tot deelneming aan de dialoog of tot onderhandelingen.
 
-#### Artikel 2.97
+##### Artikel 2.97
 
 1. De uitnodiging aan de gegadigden, bedoeld in [artikel 2.96](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.1&artikel=2.96&z=2019-04-18&g=2019-04-18), bevat een exemplaar van de aanbestedingsstukken, of indien de aanbestedingstukken overeenkomstig [artikel 2.55](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.2&paragraaf=2.3.2.3&artikel=2.55&z=2019-04-18&g=2019-04-18) langs elektronische weg beschikbaar zijn gesteld, vermeldt de wijze van toegang tot de aanbestedingsstukken.
 
@@ -1254,17 +1281,17 @@ Bij toepassing van de niet-openbare procedure, de concurrentiegerichte dialoog o
 
 #### § 2.3.8.2. Inschrijving
 
-#### Artikel 2.98
+##### Artikel 2.98
 
 1. De inschrijving geschiedt schriftelijk.
 
 2. De aanbestedende dienst of het speciale-sectorbedrijf bepaalt de wijze van het indienen van de inschrijving.
 
-#### Artikel 2.99
+##### Artikel 2.99
 
 De aanbestedende dienst of het speciale-sectorbedrijf neemt geen kennis van de inhoud van de inschrijving voordat de uiterste termijn voor het indienen is verstreken.
 
-#### Artikel 2.100
+##### Artikel 2.100
 
 1. In geval van een storing van het elektronische systeem door middel waarvan de inschrijving ingediend moet worden, waardoor het indienen van de inschrijving kort voor het verstrijken van de uiterste termijn niet mogelijk is, kan de aanbestedende dienst of het speciale-sectorbedrijf deze termijn na afloop van de uiterste termijn verlengen, mits hij nog geen kennis heeft genomen van de inhoud van enige inschrijving.
 
@@ -1272,7 +1299,7 @@ De aanbestedende dienst of het speciale-sectorbedrijf neemt geen kennis van de i
 
 #### § 2.3.8.3. Dialoog
 
-#### Artikel 2.101
+##### Artikel 2.101
 
 1. Bij toepassing van de concurrentiegerichte dialoog geschiedt de gunning van de opdracht op basis van het criterium van de economisch meest voordelige inschrijving.
 
@@ -1286,7 +1313,7 @@ De aanbestedende dienst of het speciale-sectorbedrijf neemt geen kennis van de i
 
 6. De aanbestedende dienst of het speciale-sectorbedrijf deelt de voorgestelde oplossingen of andere door een deelnemer aan de dialoog verstrekte vertrouwelijke inlichtingen niet aan de andere deelnemers mee zonder de instemming van de desbetreffende deelnemer.
 
-#### Artikel 2.102
+##### Artikel 2.102
 
 1. Een aanbestedende dienst of een speciale-sectorbedrijf kan bepalen dat de procedure van de concurrentiegerichte dialoog in opeenvolgende fasen verloopt, zodat het aantal in de dialoogfase te bespreken oplossingen kan worden beperkt door middel van de gunningscriteria die in de aankondiging van de opdracht of in de aanbestedingsstukken zijn vermeld.
 
@@ -1306,7 +1333,7 @@ De aanbestedende dienst of het speciale-sectorbedrijf neemt geen kennis van de i
 
 9. Indien een verzoek als bedoeld in het achtste lid wordt gedaan wijzigt de inschrijver de basiselementen van de inschrijving of de aanbesteding niet wezenlijk.
 
-#### Artikel 2.103
+##### Artikel 2.103
 
 1. Een aanbestedende dienst of een speciale-sectorbedrijf beoordeelt de ontvangen inschrijvingen op basis van de in de aankondiging van de opdracht of in de aanbestedingsstukken bepaalde gunningscriteria en kiest de economisch voordeligste inschrijving overeenkomstig [artikel 2.106](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.4&artikel=2.106&z=2019-04-18&g=2019-04-18).
 
@@ -1316,11 +1343,11 @@ De aanbestedende dienst of het speciale-sectorbedrijf neemt geen kennis van de i
 
 #### § 2.3.8.4. Gunningscriteria
 
-#### Artikel 2.104
+##### Artikel 2.104
 
 De aanbestedende dienst of het speciale-sectorbedrijf toetst de inschrijvingen aan de door hem in de aankondiging of de aanbestedingsstukken gestelde normen, functionele eisen en eisen aan de prestatie.
 
-#### Artikel 2.105
+##### Artikel 2.105
 
 De aanbestedende dienst of het speciale-sectorbedrijf gunt een opdracht op grond van een van de volgende gunningscriteria:
 
@@ -1328,7 +1355,7 @@ De aanbestedende dienst of het speciale-sectorbedrijf gunt een opdracht op grond
 
 - b. de laagste prijs.
 
-#### Artikel 2.106
+##### Artikel 2.106
 
 1. De aanbestedende dienst die of het speciale-sectorbedrijf dat het criterium «economisch meest voordelige inschrijving» toepast, maakt in de aankondiging van de opdracht bekend welke nadere criteria hij stelt met het oog op de toepassing van dit criterium.
 
@@ -1368,7 +1395,7 @@ De aanbestedende dienst of het speciale-sectorbedrijf gunt een opdracht op grond
 
 #### § 2.3.8.5. Abnormaal lage inschrijvingen
 
-#### Artikel 2.107
+##### Artikel 2.107
 
 1. Indien een inschrijving voor een opdracht wordt gedaan die in verhouding tot de te verrichten werken, leveringen of diensten abnormaal laag lijkt, verzoekt de aanbestedende dienst of het speciale-sectorbedrijf, voordat hij deze inschrijving afwijst, schriftelijk om de door hem noodzakelijk geachte verduidelijkingen over de samenstelling van de desbetreffende inschrijving.
 
@@ -1392,7 +1419,7 @@ De aanbestedende dienst of het speciale-sectorbedrijf gunt een opdracht op grond
 
 #### § 2.3.8.6. Elektronische veiling
 
-#### Artikel 2.108
+##### Artikel 2.108
 
 1. De aanbestedende dienst of het speciale-sectorbedrijf kan bij de niet-openbare procedure en de onderhandelingsprocedure met aankondiging de gunningsbeslissing vooraf laten gaan door een elektronische veiling, indien:
 
@@ -1406,11 +1433,11 @@ De aanbestedende dienst of het speciale-sectorbedrijf gunt een opdracht op grond
 
 3. De aanbestedende dienst of het speciale-sectorbedrijf maakt geen misbruik van de methode van elektronische veiling, noch gebruikt hij de methode om concurrentie te beletten, te beperken of vervalsen of om wezenlijke wijzigingen aan te brengen in het voorwerp van de opdracht zoals omschreven in de aankondiging en vastgelegd in de aanbestedingsstukken.
 
-#### Artikel 2.109
+##### Artikel 2.109
 
 In het kader van een raamovereenkomst die met meerdere ondernemers is gesloten als bedoeld in [artikel 2.132, tweede lid, onderdeel b, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.1&artikel=2.132&z=2019-04-18&g=2019-04-18), kan een aanbestedende dienst of een speciale-sectorbedrijf de gunning van de opdracht vooraf laten gaan door een elektronische veiling, indien nauwkeurige specificaties voor de opdracht kunnen worden opgesteld.
 
-#### Artikel 2.110
+##### Artikel 2.110
 
 De aanbestedingsstukken over een elektronische veiling bevatten in ieder geval de volgende informatie:
 
@@ -1426,21 +1453,21 @@ De aanbestedingsstukken over een elektronische veiling bevatten in ieder geval d
 
 - f. relevante informatie betreffende het gebruikte elektronische systeem en de nadere technische bepalingen en specificaties voor de verbinding.
 
-#### Artikel 2.111
+##### Artikel 2.111
 
 Alvorens over te gaan tot de elektronische veiling, verricht een aanbestedende dienst of een speciale-sectorbedrijf een eerste, volledige beoordeling van de inschrijvingen aan de hand van de vastgestelde gunningscriteria en de vastgestelde weging daarvan.
 
-#### Artikel 2.112
+##### Artikel 2.112
 
 1. Een aanbestedende dienst of een speciale-sectorbedrijf waarborgt dat alle inschrijvers die een aan de functionele en prestatie-eisen beantwoordende inschrijving hebben gedaan, tegelijkertijd langs elektronische weg worden uitgenodigd om nieuwe prijzen of nieuwe waarden in te dienen.
 
 2. Een aanbestedende dienst of een speciale-sectorbedrijf waarborgt dat het verzoek, bedoeld in het eerste lid, alle relevante informatie bevat voor de individuele verbinding met het gebruikte elektronische systeem en de datum en het aanvangsuur van de elektronische veiling preciseert.
 
-#### Artikel 2.113
+##### Artikel 2.113
 
 Een aanbestedende dienst of een speciale-sectorbedrijf kan de elektronische veiling in verschillende fasen laten verlopen.
 
-#### Artikel 2.114
+##### Artikel 2.114
 
 1. Een aanbestedende dienst of een speciale-sectorbedrijf verstuurt de uitnodigingen voor een elektronische veiling uiterlijk twee werkdagen voor de aanvang van de veiling.
 
@@ -1454,7 +1481,7 @@ Een aanbestedende dienst of een speciale-sectorbedrijf kan de elektronische veil
 
 4. Een aanbestedende dienst of een speciale-sectorbedrijf die varianten toestaat, verstrekt voor iedere variant de afzonderlijke formule.
 
-#### Artikel 2.115
+##### Artikel 2.115
 
 1. Tijdens alle fasen van de elektronische veiling deelt de aanbestedende dienst of het speciale-sectorbedrijf onverwijld aan alle inschrijvers in ieder geval de informatie mee die hen de mogelijkheid biedt op elk moment hun respectieve klassering te kennen. Indien dat in de aanbestedingsstukken vermeld is, kan de aanbestedende dienst of het speciale-sectorbedrijf ook andere informatie betreffende andere ingediende prijzen of waarden meedelen.
 
@@ -1462,7 +1489,7 @@ Een aanbestedende dienst of een speciale-sectorbedrijf kan de elektronische veil
 
 3. Een aanbestedende dienst of een speciale-sectorbedrijf deelt tijdens het verloop van de elektronische veiling in geen geval de identiteit van de inschrijvers mee.
 
-#### Artikel 2.116
+##### Artikel 2.116
 
 1. Een aanbestedende dienst of een speciale-sectorbedrijf sluit de elektronische veiling op een of meer van de onderstaande wijzen af:
 
@@ -1478,7 +1505,7 @@ Een aanbestedende dienst of een speciale-sectorbedrijf kan de elektronische veil
 
 #### § 2.3.8.7. Onderhandelingen
 
-#### Artikel 2.117
+##### Artikel 2.117
 
 1. Bij toepassing van de onderhandelingsprocedure met aankondiging onderhandelt de aanbestedende dienst of het speciale-sectorbedrijf met de inschrijvers over de door hen ingediende inschrijvingen, teneinde deze aan te passen aan de eisen die de aanbestedende dienst of het speciale-sectorbedrijf in de aankondiging van de opdracht, de aanbestedingsstukken en de eventuele aanvullende documenten heeft gesteld en teneinde het beste bod voor de gunning van de opdracht te zoeken.
 
@@ -1492,7 +1519,7 @@ Een aanbestedende dienst of een speciale-sectorbedrijf kan de elektronische veil
 
 #### § 2.3.8.8. Gunningsbeslissing
 
-#### Artikel 2.118
+##### Artikel 2.118
 
 1. Een aanbestedende dienst of een speciale-sectorbedrijf neemt een opschortende termijn in acht voordat hij de met de gunningsbeslissing beoogde overeenkomst sluit.
 
@@ -1508,17 +1535,17 @@ Een aanbestedende dienst of een speciale-sectorbedrijf kan de elektronische veil
 
 - c. het gaat om opdrachten op grond van een raamovereenkomst.
 
-#### Artikel 2.119
+##### Artikel 2.119
 
 1. Een betrokken inschrijver als bedoeld in [2 118, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.8&artikel=2.118&z=2019-04-18&g=2019-04-18), is iedere inschrijver die niet definitief is uitgesloten. De uitsluiting is definitief wanneer de betrokken inschrijvers daarvan in kennis zijn gesteld en wanneer de uitsluiting rechtmatig is bevonden door een rechter, dan wel er niet langer een rechtsmiddel kan worden aangewend tegen de uitsluiting.
 
 2. Een betrokken gegadigde als bedoeld in [2 118, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.8&artikel=2.118&z=2019-04-18&g=2019-04-18), is iedere gegadigde aan wie de aanbestedende dienst of het speciale-sectorbedrijf geen informatie over de afwijzing van hun verzoek tot deelneming ter beschikking heeft gesteld voordat de betrokken inschrijvers in kennis werden gesteld van de gunningsbeslissing.
 
-#### Artikel 2.120
+##### Artikel 2.120
 
 De mededeling van de gunningsbeslissing van een aanbestedende dienst of een speciale-sectorbedrijf houdt geen aanvaarding in als bedoeld in [artikel 217, eerste lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=217) van een aanbod van een ondernemer.
 
-#### Artikel 2.121
+##### Artikel 2.121
 
 1. De mededeling van de gunningsbeslissing aan iedere betrokken inschrijver of betrokken gegadigde bevat de relevante redenen voor die beslissing, alsmede een nauwkeurige omschrijving van de opschortende termijn, bedoeld in [artikel 2.118, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.8&artikel=2.118&z=2019-04-18&g=2019-04-18), die van toepassing is.
 
@@ -1526,13 +1553,13 @@ De mededeling van de gunningsbeslissing van een aanbestedende dienst of een spec
 
 3. De mededeling, bedoeld in het eerste lid, wordt in ieder geval elektronisch of per fax verzonden.
 
-#### Artikel 2.122
+##### Artikel 2.122
 
 Indien gedurende de opschortende termijn, bedoeld in [artikel 2.118, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.8&artikel=2.118&z=2019-04-18&g=2019-04-18), een onmiddellijke voorziening bij voorraad wordt verzocht met betrekking tot de desbetreffende gunningsbeslissing, sluit de aanbestedende dienst of het speciale-sectorbedrijf de met die beslissing beoogde overeenkomst niet eerder dan nadat de rechter dan wel het scheidsgerecht een beslissing heeft genomen over het verzoek tot voorlopige maatregelen en de opschortende termijn is verstreken.
 
 #### § 2.3.8.9. Verslaglegging en bekendmaking
 
-#### Artikel 2.123
+##### Artikel 2.123
 
 De aanbestedende dienst of het speciale-sectorbedrijf stelt over de gunning van een opdracht een proces-verbaal op dat, indien van toepassing, in ieder geval de volgende gegevens bevat:
 
@@ -1564,21 +1591,21 @@ De aanbestedende dienst of het speciale-sectorbedrijf stelt over de gunning van 
 
 - l. in voorkomend geval de redenen waarom de aanbestedende dienst of het speciale-sectorbedrijf besloten heeft een opdracht niet te gunnen.
 
-#### Artikel 2.124
+##### Artikel 2.124
 
 Een aanbestedende dienst of een speciale-sectorbedrijf zendt het proces-verbaal, bedoeld in [artikel 2.123](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.9&artikel=2.123&z=2019-04-18&g=2019-04-18), op haar verzoek aan de Europese Commissie.
 
-#### Artikel 2.125
+##### Artikel 2.125
 
 1. De aanbestedende dienst die of het speciale-sectorbedrijf dat een opdracht heeft gegund maakt de aankondiging van de gegunde opdracht bekend met behulp van het elektronisch systeem voor aanbestedingen binnen 48 dagen na de gunning van die opdracht.
 
 2. De aanbestedende dienst of het speciale-sectorbedrijf gebruikt voor de mededeling van het resultaat van de procedure het daartoe door middel van het elektronisch systeem voor aanbestedingen beschikbaar gestelde formulier.
 
-#### Artikel 2.126
+##### Artikel 2.126
 
 [Artikel 2.125](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.8&paragraaf=2.3.8.9&artikel=2.125&z=2019-04-18&g=2019-04-18) is niet van toepassing op opdrachten die op basis van een overeenkomstig [afdeling 2.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.1&z=2019-04-18&g=2019-04-18) gesloten raamovereenkomst gegund worden.
 
-#### Artikel 2.127
+##### Artikel 2.127
 
 De aanbestedende dienst of het speciale-sectorbedrijf maakt bepaalde gegevens betreffende de gunning van een opdracht niet bekend, indien openbaarmaking van die gegevens:
 
@@ -1594,11 +1621,11 @@ De aanbestedende dienst of het speciale-sectorbedrijf maakt bepaalde gegevens be
 
 ### Afdeling 2.4.1. Bijzondere voorschriften bij het plaatsen van een opdracht via een raamovereenkomst
 
-#### Artikel 2.128
+##### Artikel 2.128
 
 Een aanbestedende dienst die of een speciale-sectorbedrijf dat een raamovereenkomst sluit na toepassing van een procedure als bedoeld in de [afdelingen 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.2&afdeling=2.2.1&z=2019-04-18&g=2019-04-18) of [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.2&afdeling=2.2.2&z=2019-04-18&g=2019-04-18), kan op basis van die raamovereenkomst opdrachten plaatsen overeenkomstig de procedures, bedoeld in [artikel 2.131](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.1&artikel=2.131&z=2019-04-18&g=2019-04-18) of [artikel 2.132](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.1&artikel=2.132&z=2019-04-18&g=2019-04-18).
 
-#### Artikel 2.129
+##### Artikel 2.129
 
 1. De procedures, bedoeld in de [artikelen 2.131](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.1&artikel=2.131&z=2019-04-18&g=2019-04-18) en [2.132](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.1&artikel=2.132&z=2019-04-18&g=2019-04-18), kunnen uitsluitend worden toegepast tussen een aanbestedende dienst of een speciale-sectorbedrijf en de ondernemers die oorspronkelijk bij de raamovereenkomst partij zijn.
 
@@ -1606,17 +1633,17 @@ Een aanbestedende dienst die of een speciale-sectorbedrijf dat een raamovereenko
 
 3. De looptijd van een raamovereenkomst is niet langer dan zeven jaar, behalve in uitzonderingsgevallen voor het bepalen waarvan rekening wordt gehouden met de verwachte levensduur van geleverde objecten, installaties of systemen, en met de technische moeilijkheden die een verandering van leverancier kunnen veroorzaken.
 
-#### Artikel 2.130
+##### Artikel 2.130
 
 Een aanbestedende dienst of een speciale-sectorbedrijf gebruikt een raamovereenkomst niet om de mededinging te hinderen, te beperken of te vervalsen en maakt geen oneigenlijk gebruik van een raamovereenkomst.
 
-#### Artikel 2.131
+##### Artikel 2.131
 
 1. Indien een raamovereenkomst is gesloten met een enkele ondernemer worden de op die raamovereenkomst gebaseerde opdrachten gegund volgens de in de raamovereenkomst gestelde voorwaarden.
 
 2. Opdrachten op basis van raamovereenkomsten met een enkele ondernemer kunnen worden gegund door die ondernemer schriftelijk te raadplegen en hem indien nodig te verzoeken zijn inschrijvingen aan te vullen.
 
-#### Artikel 2.132
+##### Artikel 2.132
 
 1. Als een raamovereenkomst wordt gesloten met meerdere ondernemers, wordt deze raamovereenkomst met ten minste drie ondernemers gesloten, mits het aantal ondernemers dat aan de selectiecriteria voldoet, of het aantal inschrijvingen dat aan de gunningscriteria voldoet, voldoende groot is.
 
@@ -1638,13 +1665,13 @@ Een aanbestedende dienst of een speciale-sectorbedrijf gebruikt een raamovereenk
 
 #### § 2.4.2.1. Algemene bepalingen en toepasselijkheid
 
-#### Artikel 2.133
+##### Artikel 2.133
 
 1. De aanbestedende dienst die of het speciale-sectorbedrijf dat als resultaat van een gunning met een inschrijver een overeenkomst sluit, belemmert die inschrijver bij het plaatsen van opdrachten in onderaanneming niet zijn onderaannemers vrij te kiezen en stelt in het bijzonder geen vereisten waardoor de inschrijver bij het plaatsen van opdrachten mogelijke onderaannemers op grond van nationaliteit discrimineert.
 
 2. Indien op het plaatsen van een opdracht in onderaanneming de [paragrafen 2.4.2.2 tot en met 2.4.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.2&paragraaf=2.4.2.2&z=2019-04-18&g=2019-04-18) van toepassing zijn, is het eerste lid van toepassing voor zover deze paragrafen zich daar niet tegen verzetten.
 
-#### Artikel 2.134
+##### Artikel 2.134
 
 1. De aanbestedende dienst die of het speciale-sectorbedrijf dat als resultaat van een gunning een overeenkomst sluit met een inschrijver die op grond van [artikel 2.62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.3&paragraaf=2.3.3.2&artikel=2.62&z=2019-04-18&g=2019-04-18), zijn voornemens tot het plaatsen van opdrachten in onderaanneming in de inschrijving heeft vermeld, kan hem in die overeenkomst verplichten alle of delen van die voornemens met inachtneming van de [paragrafen 2.4.2.2 tot en met 2.4.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.2&paragraaf=2.4.2.2&z=2019-04-18&g=2019-04-18) uit te voeren.
 
@@ -1656,7 +1683,7 @@ Een aanbestedende dienst of een speciale-sectorbedrijf gebruikt een raamovereenk
 
 5. Een aanbestedende dienst die of een speciale-sectorbedrijf dat als resultaat van de gunning een overeenkomst sluit met een inschrijver waarin die wordt verplicht zijn voornemens tot het plaatsen van opdrachten in onderaanneming met inachtneming van de [paragrafen 2.4.2.2 tot en met 2.4.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.2&paragraaf=2.4.2.2&z=2019-04-18&g=2019-04-18) uit te voeren, waarborgt dat die inschrijver de in deze paragrafen gestelde eisen bij het plaatsen van die opdrachten in acht neemt.
 
-#### Artikel 2.135
+##### Artikel 2.135
 
 1. Een inschrijver met wie een aanbestedende dienst of een speciale-sectorbedrijf als resultaat van een gunning een overeenkomst sluit, is anders dan op grond van [artikel 2.134](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.2&paragraaf=2.4.2.1&artikel=2.134&z=2019-04-18&g=2019-04-18) niet verplicht de [paragrafen 2.4.2.2 tot en met 2.4.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.2&paragraaf=2.4.2.2&z=2019-04-18&g=2019-04-18) in acht te nemen bij de uitvoering van zijn voornemens tot het plaatsen van opdrachten in onderaanneming.
 
@@ -1664,7 +1691,7 @@ Een aanbestedende dienst of een speciale-sectorbedrijf gebruikt een raamovereenk
 
 #### § 2.4.2.2. Aankondiging
 
-#### Artikel 2.136
+##### Artikel 2.136
 
 1. De inschrijver met wie als resultaat van een gunningsbeslissing een overeenkomst is gesloten en die voornemens is een opdracht in onderaanneming te gunnen, maakt hiertoe een aankondiging bekend, indien de geraamde waarde van die opdracht ten minste gelijk is aan het drempelbedrag, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.1&afdeling=2.1.1&paragraaf=2.1.1.2&artikel=2.3&z=2019-04-18&g=2019-04-18), dat op die opdracht van toepassing is.
 
@@ -1672,19 +1699,19 @@ Een aanbestedende dienst of een speciale-sectorbedrijf gebruikt een raamovereenk
 
 3. Het eerste lid is niet van toepassing indien de inschrijver voornemens is de onderhandelingsprocedure zonder aankondiging toe te passen.
 
-#### Artikel 2.137
+##### Artikel 2.137
 
 1. Een aankondiging van een opdracht in onderaanneming als bedoeld in [artikel 2.136, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.2&paragraaf=2.4.2.2&artikel=2.136&z=2019-04-18&g=2019-04-18), bevat de informatie, bedoeld in bijlage V van [richtlijn nr. 2009/81/EG](32009L0081) en, indien nodig met goedkeuring van de aanbestedende dienst of het speciale-sectorbedrijf, alle andere informatie die de inschrijver nuttig acht.
 
 2. Een aankondiging van een opdracht in onderaanneming wordt opgesteld door middel van het formulier dat door de Europese Commissie overeenkomstig de in artikel 67, tweede lid, van [richtlijn nr. 2009/81/EG](32009L0081) bedoelde procedure is vastgesteld.
 
-#### Artikel 2.138
+##### Artikel 2.138
 
 1. Een aankondiging van een opdracht in onderaanneming wordt met gebruikmaking van het formulier, bedoeld in [artikel 2.137, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.2&paragraaf=2.4.2.2&artikel=2.137&z=2019-04-18&g=2019-04-18), ter bekendmaking naar de Europese Commissie langs elektronische weg op de wijze, bedoeld in het derde punt van bijlage VI van [richtlijn nr. 2009/81/EG](32009L0081) of met andere middelen verzonden.
 
 2. De bekendmaking van de aankondiging, bedoeld in het eerste lid, kan geschieden door middel van het elektronisch systeem voor aanbestedingen.
 
-#### Artikel 2.139
+##### Artikel 2.139
 
 1. Een door de Europese Commissie overeenkomstig de in artikel 67, tweede lid, van [richtlijn nr. 2009/81/EG](32009L0081) bedoelde procedure vastgestelde wijziging van het formulier, bedoeld in [artikel 2.137, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.2&paragraaf=2.4.2.2&artikel=2.137&z=2019-04-18&g=2019-04-18), of van de wijze van verzending, bedoeld in [artikel 2.138, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.2&paragraaf=2.4.2.2&artikel=2.138&z=2019-04-18&g=2019-04-18), gaat voor de toepassing van deze wet gelden met ingang van de dag waarop het desbetreffende besluit van de Europese Commissie in werking treedt.
 
@@ -1692,11 +1719,11 @@ Een aanbestedende dienst of een speciale-sectorbedrijf gebruikt een raamovereenk
 
 3. De inschrijver met wie als resultaat van een gunningsbeslissing een overeenkomst is gesloten, verzendt eerst de aankondiging van een opdracht in onderaanneming ter bekendmaking naar de Europese Commissie met inachtneming van het bepaalde in de [artikelen 2.137, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.2&paragraaf=2.4.2.2&artikel=2.137&z=2019-04-18&g=2019-04-18), [2.138](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.2&paragraaf=2.4.2.2&artikel=2.138&z=2019-04-18&g=2019-04-18) en [2.139](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.2&paragraaf=2.4.2.2&artikel=2.139&z=2019-04-18&g=2019-04-18), alvorens op andere wijze de aankondiging of de inhoud ervan bekend te maken.
 
-#### Artikel 2.140
+##### Artikel 2.140
 
 De inschrijver met wie als resultaat van een gunningsbeslissing een overeenkomst is gesloten, kan een aankondiging van een opdracht in onderaanneming overeenkomstig [artikel 2.138](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.2&paragraaf=2.4.2.2&artikel=2.138&z=2019-04-18&g=2019-04-18) bekendmaken, ook indien dit niet vereist is.
 
-#### Artikel 2.141
+##### Artikel 2.141
 
 1. De inschrijver met wie als resultaat van een gunningsbeslissing een overeenkomst is gesloten, kan een rectificatie van een eerder gedane aankondiging van een opdracht in onderaanneming bekendmaken.
 
@@ -1706,7 +1733,7 @@ De inschrijver met wie als resultaat van een gunningsbeslissing een overeenkomst
 
 #### § 2.4.2.3. Uitsluiting en geschiktheid
 
-#### Artikel 2.142
+##### Artikel 2.142
 
 1. De inschrijver met wie als resultaat van een gunningsbeslissing een overeenkomst is gesloten vermeldt in de aankondiging voor een opdracht in onderaanneming de door hem toe te passen criteria met betrekking tot uitsluiting en geschiktheid.
 
@@ -1716,13 +1743,13 @@ De inschrijver met wie als resultaat van een gunningsbeslissing een overeenkomst
 
 4. De criteria met betrekking tot geschiktheid, bedoeld in het eerste lid, staan in redelijke verhouding tot de opdracht in onderaanneming en houden, zover die de bekwaamheid betreffen rechtstreeks verband met het voorwerp van de opdracht in onderaanneming.
 
-#### Artikel 2.143
+##### Artikel 2.143
 
 De inschrijver met wie als resultaat van een gunningsbeslissing een overeenkomst is gesloten, is niet gehouden opdrachten in onderaanneming te gunnen, indien hij tot tevredenheid van de aanbestedende dienst of het speciale-sectorbedrijf bewijst dat geen van de onderaannemers die aan de aanbesteding deelnemen voldoen aan uitsluitings- en geschiktheidscriteria of, indien één of meer onderaannemers daar wel aan voldoen, de inschrijvingen van die onderaannemers niet voldoen aan selectiecriteria, technische specificaties, eisen of normen, of oplossingen, die in de aankondiging van de opdracht in onderaanneming of in de aanbestedingsstukken zijn vermeld.
 
 #### § 2.4.2.4. Raamovereenkomsten
 
-#### Artikel 2.144
+##### Artikel 2.144
 
 1. De inschrijver met wie als resultaat van een gunningsbeslissing een overeenkomst wordt gesloten, kan een opdracht in onderaanneming plaatsen op basis van een raamovereenkomst die wordt gesloten met inachtneming van de [artikelen 2.136 tot en met 2.143](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.4&afdeling=2.4.2&paragraaf=2.4.2.2&artikel=2.136&z=2019-04-18&g=2019-04-18).
 
@@ -1740,7 +1767,7 @@ De inschrijver met wie als resultaat van een gunningsbeslissing een overeenkomst
 
 ### Afdeling 3.1.1. Nadere regels ter uitvoering van [richtlijn nr. 2009/81/eg](32009L0081)
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 1. Ter uitvoering van [richtlijn nr. 2009/81/EG](32009L0081) en [richtlijn 2014/55](32014L0055)/EU worden bij of krachtens algemene maatregel van bestuur nadere regels gesteld omtrent:
 
@@ -1754,7 +1781,7 @@ De inschrijver met wie als resultaat van een gunningsbeslissing een overeenkomst
 
 ### Afdeling 3.2.1. Vernietigbaarheid
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 1. Een als resultaat van een gunningsbeslissing gesloten overeenkomst is in rechte vernietigbaar op een van de volgende gronden:
 
@@ -1774,7 +1801,7 @@ De inschrijver met wie als resultaat van een gunningsbeslissing een overeenkomst
 
 - b. in andere gevallen dan bedoeld in onderdeel a, voor het verstrijken van een periode van zes maanden, ingaande op de dag na de datum waarop de overeenkomst is gesloten.
 
-#### Artikel 3.3
+##### Artikel 3.3
 
 1. [Artikel 3.2, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=3&hoofdstuk=3.2&afdeling=3.2.1&artikel=3.2&z=2019-04-18&g=2019-04-18), is niet van toepassing indien de aanbestedende dienst of het speciale-sectorbedrijf:
 
@@ -1792,7 +1819,7 @@ De inschrijver met wie als resultaat van een gunningsbeslissing een overeenkomst
 
 - c. de overeenkomst niet is gesloten vóór het verstrijken van een termijn van ten minste vijftien kalenderdagen, ingaande op de dag na de datum waarop het besluit tot gunning van de opdracht aan de betrokken inschrijvers is gezonden.
 
-#### Artikel 3.4
+##### Artikel 3.4
 
 1. De aankondiging, bedoeld in [artikel 3.3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=3&hoofdstuk=3.2&afdeling=3.2.1&artikel=3.3&z=2019-04-18&g=2019-04-18), bevat tenminste de volgende gegevens:
 
@@ -1810,7 +1837,7 @@ De inschrijver met wie als resultaat van een gunningsbeslissing een overeenkomst
 
 3. De aanbestedende dienst of het speciale-sectorbedrijf gebruikt voor de bekendmaking van de aankondiging, bedoeld in het eerste lid, het daartoe door middel van het elektronisch systeem voor aanbestedingen beschikbaar gestelde formulier.
 
-#### Artikel 3.5
+##### Artikel 3.5
 
 1. De rechter kan besluiten een overeenkomst niet te vernietigen indien, alle relevante aspecten in aanmerking genomen, dwingende redenen van algemeen belang het noodzakelijk maken dat de overeenkomst in stand blijft.
 
@@ -1818,13 +1845,13 @@ De inschrijver met wie als resultaat van een gunningsbeslissing een overeenkomst
 
 3. Economische belangen mogen alleen als een dwingende reden als bedoeld in het eerste lid worden beschouwd indien vernietiging in uitzonderlijke omstandigheden onevenredig grote gevolgen zou hebben. Economische belangen die rechtstreeks verband houden met de betrokken overeenkomst, mogen evenwel geen dwingende reden als bedoeld in het eerste lid vormen. Zodanige belangen omvatten onder meer de kosten die voortvloeien uit vertraging bij de uitvoering van de overeenkomst, de kosten van een nieuwe aanbestedingsprocedure, de kosten die veroorzaakt worden door het feit dat een andere onderneming de overeenkomst uitvoert, en de kosten van de wettelijke verplichtingen die voortvloeien uit de vernietiging.
 
-#### Artikel 3.6
+##### Artikel 3.6
 
 1. Indien de rechter toepassing geeft aan [artikel 3.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=3&hoofdstuk=3.2&afdeling=3.2.1&artikel=3.5&z=2019-04-18&g=2019-04-18), kan de rechter op verzoek van een belanghebbende of ambtshalve de looptijd van de overeenkomst verkorten.
 
 2. De rechter houdt in ieder geval rekening met de ernst van de overtreding, het gedrag van de aanbestedende dienst of het speciale-sectorbedrijf, de aard van de overeenkomst en, in voorkomend geval, met de mogelijkheid om de werking van een vernietiging te beperken.
 
-#### Artikel 3.7
+##### Artikel 3.7
 
 1. Indien de rechter toepassing heeft gegeven aan [artikel 3.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=3&hoofdstuk=3.2&afdeling=3.2.1&artikel=3.5&z=2019-04-18&g=2019-04-18), of indien de overeenkomst wel wordt vernietigd op grond van [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=3&hoofdstuk=3.2&afdeling=3.2.1&artikel=3.2&z=2019-04-18&g=2019-04-18), maar aan die vernietiging de werking geheel of gedeeltelijk wordt ontzegd, wordt door de griffie van de rechtbank onverwijld en kosteloos een afschrift van de uitspraak gezonden aan Onze Minister en aan de Autoriteit Consument en Markt.
 
@@ -1832,7 +1859,7 @@ De inschrijver met wie als resultaat van een gunningsbeslissing een overeenkomst
 
 ### Afdeling 3.2.2. Boete
 
-#### Artikel 3.8
+##### Artikel 3.8
 
 1. De Autoriteit Consument en Markt legt de aanbestedende dienst die of het speciale-sectorbedrijf dat partij is bij een overeenkomst waarbij toepassing is gegeven aan [artikel 3.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=3&hoofdstuk=3.2&afdeling=3.2.1&artikel=3.5&z=2019-04-18&g=2019-04-18), een bestuurlijke boete op.
 
@@ -1842,11 +1869,11 @@ De inschrijver met wie als resultaat van een gunningsbeslissing een overeenkomst
 
 4. De bestuurlijke boete bedraagt ten hoogste vijftien procent van de geraamde waarde van de desbetreffende opdracht. Bij het bepalen van de hoogte van de boete neemt de Autoriteit Consument en Markt de relevante omstandigheden van het geval, waaronder de ernst van de overtreding, in acht.
 
-#### Artikel 3.9
+##### Artikel 3.9
 
 De Autoriteit Consument en Markt neemt de beschikking, bedoeld in [artikel 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=3&hoofdstuk=3.2&afdeling=3.2.2&artikel=3.8&z=2019-04-18&g=2019-04-18), niet dan nadat de uitspraak, bedoeld in [artikel 3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=3&hoofdstuk=3.2&afdeling=3.2.1&artikel=3.7&z=2019-04-18&g=2019-04-18), kracht van gewijsde heeft gekregen.
 
-#### Artikel 3.10
+##### Artikel 3.10
 
 1. De Autoriteit Consument en Markt kan onder haar ressorterende ambtenaren aanwijzen als toezichthouders ten behoeve van het opmaken van een rapport als bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48).
 
@@ -1856,15 +1883,15 @@ De Autoriteit Consument en Markt neemt de beschikking, bedoeld in [artikel 3.8, 
 
 4. Bij overtreding van het derde lid is [artikel 12m, derde lid, van de Instellingswet Autoriteit Consument en Markt](onbekend) van overeenkomstige toepassing.
 
-#### Artikel 3.11
+##### Artikel 3.11
 
 Indien de overeenkomst, bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=3&hoofdstuk=3.2&afdeling=3.2.2&artikel=3.8&z=2019-04-18&g=2019-04-18), is gesloten of mede is gesloten ten bate van de Autoriteit Consument en Markt, worden de bevoegdheden van de [artikelen 3.8 tot en met 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=3&hoofdstuk=3.2&afdeling=3.2.2&artikel=3.8&z=2019-04-18&g=2019-04-18) uitgeoefend door Onze Minister.
 
-#### Artikel 3.12
+##### Artikel 3.12
 
 Vervallen
 
-#### Artikel 3.13
+##### Artikel 3.13
 
 Indien terzake van een aanbestedingsgeschil arbitrage is overeengekomen:
 
@@ -1874,37 +1901,37 @@ Indien terzake van een aanbestedingsgeschil arbitrage is overeengekomen:
 
 ### Hoofdstuk 3.3. Overgangs- en slotbepalingen
 
-#### Artikel 3.14
+##### Artikel 3.14
 
 1. Indien een aanbestedende dienst of een speciale-sectorbedrijf voor het tijdstip van inwerkingtreding van [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&z=2019-04-18&g=2019-04-18) van deze wet een aankondiging van een aanbesteding heeft gedaan dan wel een aanbestedingsprocedure zonder aankondiging is gestart en in het kader daarvan een of meer ondernemers heeft verzocht een inschrijving in te dienen, is op die aanbestedingsprocedure het recht van toepassing zoals dat gold onmiddellijk voor het tijdstip van inwerkingtreding van [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&z=2019-04-18&g=2019-04-18) van deze wet.
 
 2. Indien een inschrijver met wie een aanbestedende dienst of een speciale-sectorbedrijf als resultaat van een gunningsbeslissing een overeenkomst heeft gesloten voor het tijdstip van inwerkingtreding van [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&z=2019-04-18&g=2019-04-18) van deze wet een aankondiging tot het aanbesteden van een opdracht in onderaanneming heeft gedaan dan wel een aanbestedingsprocedure zonder aankondiging is gestart en in het kader daarvan een of meer ondernemers heeft verzocht een inschrijving in te dienen, is op die aanbestedingsprocedure het recht van toepassing zoals dat gold onmiddellijk voor het tijdstip van inwerkingtreding van [deel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&z=2019-04-18&g=2019-04-18) van deze wet.
 
-#### Artikel 3.15
+##### Artikel 3.15
 
 Wijzigt deze wet.
 
-#### Artikel 3.16
+##### Artikel 3.16
 
 Wijzigt deze wet.
 
-#### Artikel 3.17
+##### Artikel 3.17
 
 Wijzigt de Aanbestedingswet 2012.
 
-#### Artikel 3.18
+##### Artikel 3.18
 
 Vervallen
 
-#### Artikel 3.19
+##### Artikel 3.19
 
 Wijzigt deze wet en de Algemene wet bestuursrecht.
 
-#### Artikel 3.20
+##### Artikel 3.20
 
 Deze wet treedt in werking op een bij koninklijk besluit bepaald tijdstip, dat voor verschillende artikelen of onderdelen daarvan, verschillend kan worden vastgesteld.
 
-#### Artikel 3.21
+##### Artikel 3.21
 
 Deze wet wordt aangehaald als: Aanbestedingswet op defensie- en veiligheidsgebied.
 
@@ -1912,13 +1939,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Afdeling 3.1.2. Het elektronisch systeem voor aanbesteden
 
-#### Artikel 3.1a
+##### Artikel 3.1a
 
 1. Onze Minister draagt er zorg voor dat de met behulp van het elektronisch systeem voor aanbestedingen te vervullen functies, bedoeld in [artikel 4.13, eerste lid, onderdelen a tot en met d, van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=4.13) tevens strekken tot uitvoering van deze wet en richtlijn nr. 2009/81/EG.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de toegang tot en aansluiting op het elektronische systeem voor aanbestedingen ten behoeve van het vervullen van de functies, bedoeld in [artikel 4.13, eerste lid, onderdelen a en b, van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=4.13) ter uitvoering van deze wet en richtlijn nr. 2009/81/EG.
 
-#### Artikel 3.1b
+##### Artikel 3.1b
 
 1. Onze Minister stelt door middel van het elektronisch systeem van aanbesteden de door de Europese Commissie met inachtneming van de artikelen 52, tweede lid, en 69 van richtlijn nr. 2009/81/EG vastgestelde formulieren beschikbaar voor:
 
@@ -1956,7 +1983,7 @@ overeenkomstig het model dat door de Europese Commissie overeenkomstig de in art
 
 ### Hoofdstuk 3.3. Overgangs- en slotbepalingen
 
-#### Artikel 3.14a
+##### Artikel 3.14a
 
 Tot een jaar na het tijdstip van inwerkingtreding van [artikel 3.15, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=3&hoofdstuk=3.3&artikel=3.15&z=2019-04-18&g=2019-04-18), kan een gegadigde of een inschrijver, in afwijking van [artikel 2.79, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.2&artikel=2.79&z=2019-04-18&g=2019-04-18), door middel van een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28) die op het tijdstip van het indienen van het verzoek tot deelneming of de inschrijving niet ouder is dan twee jaar, aantonen dat de uitsluitingsgronden, bedoeld in de [artikelen 2.76](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.76&z=2019-04-18&g=2019-04-18) en [2.77, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&deel=2&hoofdstuk=2.3&afdeling=2.3.5&paragraaf=2.3.5.1&artikel=2.77&z=2019-04-18&g=2019-04-18), op hem niet van toepassing zijn.
 

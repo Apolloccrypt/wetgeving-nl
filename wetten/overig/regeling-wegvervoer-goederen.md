@@ -1,0 +1,347 @@
+---
+title: "Regeling tot uitvoering van de Wet wegvervoer goederen (Regeling wegvervoer goederen)"
+identifier: "BWBR0025704"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025704"
+soort: "ministeriele-regeling"
+stam_id: "9983873"
+version_id: "16304142"
+internal_id: "C22452121"
+label_id: "9960474"
+dtd_version: "2.0"
+original_entry_into_force: "2009-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025704/2024-01-01/0"
+intitule_bron: "Stcrt.2009-75"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-04-07"
+intitule_published: "2009-04-21"
+intitule_in_force: "2009-04-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-75"
+original_signed_date: "2009-04-07"
+original_published_date: "2009-04-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-5906"
+entry_into_force_date: "2009-05-01"
+jci_1_3: "jci1.3:c:BWBR0025704&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0025704&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling wegvervoer goederen"
+signed_date: "2009-04-07"
+entry_into_force: "2009-05-01"
+---
+# Regeling tot uitvoering van de Wet wegvervoer goederen (Regeling wegvervoer goederen)
+
+Gelet op de [artikelen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=1.1), [2.1, derde lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.1), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.2), [2.3, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.3), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.6), [2.8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.8), [2.11, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.11), [2.13, tweede lid, onderdeel b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.13), [4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=4.1), en [4.3, tweede lid, van de Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=4.3);
+
+Besluit:
+
+Treedt in werking op het tijdstip waarop de Wet wegvervoer goederen, met uitzondering van artikel 8.4, onderdelen A tot en met D, in werking treedt.
+
+### Hoofdstuk 1. Inleidende bepalingen
+
+##### Artikel 1
+
+In deze regeling wordt verstaan onder:
+
+- **besluit:** Besluit wegvervoer goederen;
+
+- **wet:** Wet wegvervoer goederen.
+
+##### Artikel 2
+
+1. Als beroepsverordening voor het wegvervoer wordt aangewezen verordening (EG) nr. 1071/2009 van het Europees parlement en de Raad van de Europese Unie van 21 oktober 2009 tot vaststelling van gemeenschappelijke voorwaarden waaraan moet zijn voldaan om het beroep van wegvervoerondernemer uit te oefenen en tot intrekking van Richtlijn 96/26/EG van de Raad (PbEU L 300).
+
+2. Als marktverordening voor het wegvervoer wordt aangewezen verordening (EG) nr. 1072/2009 van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gemeenschappelijke regels voor toegang tot de markt voor internationaal goederenvervoer over de weg (PbEU L 300).
+
+### Hoofdstuk 2. Toegang tot de markt
+
+##### Artikel 3
+
+Als vervoer, bedoeld in [artikel 4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033600&artikel=4) wordt aangewezen:
+
+- a. vervoer bij de verwijdering van huishoudelijke afvalstoffen die vrijkomen uit percelen waar zodanige stoffen geregeld in particuliere huishoudens ontstaan;
+
+- b. vervoer bij de verwijdering van afvalstoffen die vrijkomen bij de uitvoering van reinigingswerken welke door, of in opdracht van, gemeentelijke diensten worden verricht;
+
+- c. vervoer van beer, kolkafval, spoel- en sproeiwater voor het reinigen van de openbare weg, en zand en chemicaliën voor de bestrijding van gladheid van wegen en destructiemateriaal als bedoeld in [artikel 2 van de Destructiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002244&artikel=2), voor zover dit vervoer geschiedt met in het bijzonder voor deze doelen ingerichte of uitgeruste vrachtauto's;
+
+- d. vervoer van landbouwproducten of goederen, te gebruiken bij het verrichten van landbouwwerkzaamheden, met een landbouwtrekker als bedoeld in [afdeling 5.8 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&afdeling=8), alsmede de daardoor voortbewogen aanhangwagens, mits het betreft eigen vervoer verricht door een landbouwer ten dienste van zijn landbouwbedrijf, dan wel vervoer dat plaatsvindt rechtstreeks ten behoeve van een landbouwbedrijf en onmiddellijk vooraf gaat aan of volgt op, alsmede in direct verband staat met de uitvoering van landbouwwerkzaamheden;
+
+- e. vervoer van kranten, tijdschriften, reclamedrukwerken, verricht in een distributie- of verspreidbedrijf, mits dit bedrijf de beschikking heeft over niet meer dan één vrachtauto of over twee vrachtauto's, mits één daarvan een aanhangwagen is, en waarbij geldt dat het ledig gewicht, vermeerderd met het laadvermogen, van de vrachtauto, dan wel van de beide vrachtauto's gezamenlijk, niet meer bedraagt dan 3500 kg;
+
+- f. vervoer binnen Nederland of naar Nederland van voertuigen met toebehoren die tengevolge van een defect van het voertuig, ongeval of uitvallen van de bestuurder hun bestemming niet zonder hulp kunnen bereiken, alsmede vervoer binnen Nederland van in beslag genomen voertuigen, voor zover verricht met daartoe speciaal ingerichte vrachtauto's met een maximum laadvermogen van 3500 kg, en overeenkomstige aanhangwagens met een maximum laadvermogen van 1500 kg, in opdracht van organisaties, die zich krachtens polis- of lidmaatschapsvoorwaarden jegens verzekerden, dan wel leden hebben verbonden tot hulpverlening in vorengenoemde omstandigheden, dan wel in opdracht van Nederlandse overheidsinstanties.
+
+- g. vervoer binnen Nederland van betonmortelspecie met daartoe speciaal ingerichte vrachtauto's van de betonmortelfabriek naar in aanbouw zijnde bouwobjecten.
+
+##### Artikel 4
+
+Vervallen
+
+### Hoofdstuk 3. Toegang tot het beroep
+
+##### Artikel 5
+
+1. Aan de eis van vakbekwaamheid wordt voldaan door degene die een getuigschrift overlegt, dat is afgegeven door het Centraal Bureau Rijvaardigheidsbewijzen, waarbij ten minste de kennis is vastgesteld van de onderwerpen en het opleidingsniveau van bijlage I, deel I, van de beroepsverordening voor het wegvervoer en die overeenkomstig die bijlage zijn georganiseerd.
+
+2. Het Centraal Bureau Rijvaardigheidsbewijzen verstrekt een getuigschrift als bedoeld in het eerste lid aan een houder van een door het daartoe bevoegde gezag in het Verenigd Koninkrijk afgegeven getuigschrift inzake de vakbekwaamheid van vervoersmanagers in overeenstemming met de beroepsverordening voor het wegvervoer, indien:
+
+- a. het getuigschrift is afgegeven voor het einde van de overgangsperiode, bedoeld in artikel 126 van het Akkoord inzake de terugtrekking van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland uit de Europese Unie en de Europese Gemeenschap voor Atoomenergie; en
+
+- b. de houder was of is aangewezen als vervoersmanager door een in Nederland gevestigde vervoerder.
+
+##### Artikel 6
+
+1. Ter voldoening aan de eis van financiële draagkracht beschikt de vervoerder aan kapitaal en reserves over een bedrag van € 9000 wanneer slechts één voertuig wordt gebruikt en € 5000 voor ieder volgend voertuig.
+
+2. Bij een aanvraag voor verlening en verlenging van een communautaire vergunning wordt als kapitaal en reserves aangemerkt het beschikbare risicodragend vermogen, bestaande uit het eigen vermogen, eventueel aangevuld met een achtergestelde lening, of uit een bankgarantie.
+
+3. De vervoerder toont zijn financiële draagkracht aan door overlegging van een openingsbalans, een tussentijdse balans of de jaarcijfers, voorzien van een vermogensopstelling indien het eigen vermogen onvoldoende is.
+
+4. De in het derde lid bedoelde documenten zijn voorzien van een verklaring, inhoudende dat de waardering van het beschikbare risicodragend vermogen is geschied volgens normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd, en dat dit vermogen voldoet aan de in het eerste lid gestelde eisen.
+
+5. Indien de vervoerder een rechtspersoon is, die op grond van [titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) verplicht is om een jaarrekening op te maken, kan hij volstaan met het overleggen van zijn jaarrekening over het voorafgaande kalenderjaar, voorzien van een verklaring waaruit blijkt dat het beschikbare risicodragend vermogen voldoet aan de in het eerste lid gestelde eisen.
+
+6. De verklaringen, bedoeld in het vierde en vijfde lid, zijn afgegeven door:
+
+- a. een registeraccountant of een Accountant-administratieconsulent als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393);
+
+- b. een belastingdeskundige die is aangesloten bij Nederlandse Orde van Administratie- en Belastingdeskundigen;
+
+- c. een belastingadviseur die is ingeschreven in het Register Belastingadviseurs; ofd. een accountant of belastingdeskundige, aangesloten bij een door de NIWO na goedkeuring van de Minister daartoe aangewezen instelling.
+
+7. Omtrent het voldoen aan de eis van financiële draagkracht stelt de NIWO een onderzoek in als bedoeld in [artikel 3, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01) van de beroepsrichtlijn voor het wegvervoer.
+
+8. De NIWO kan de vervoerder een uitstel van ten hoogste zes maanden verlenen om te voldoen aan de eis van financiële draagkracht indien hij heeft aangetoond dat het op grond van de algemene economische situatie van zijn vervoeronderneming waarschijnlijk is dat hij voor afloop van het verleende uitstel zal voldoen aan de eis van financiële draagkracht.
+
+9. Een vervoerder, wiens land van herkomst of oorsprong een andere lidstaat, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland is, voldoet aan de eis van financiële draagkracht, indien een verklaring overgelegd wordt die overeenkomstig artikel 9 van de beroepsrichtlijn voor het wegvervoer in die andere staat is afgegeven en die niet ouder is dan drie maanden.
+
+### Hoofdstuk 4. CEMT-vergunningen en ritmachtigingen
+
+##### Artikel 7
+
+Aanvragen om een CEMT-vergunning, geldig voor het volgende kalenderjaar, worden vóór een door de NIWO te bepalen datum bij de NIWO ingediend; aanvragen om een CEMT-vergunning voor het lopende kalenderjaar kunnen gedurende dat jaar bij de NIWO worden ingediend.
+
+##### Artikel 8
+
+1. De houder van een CEMT-vergunning houdt het daarbij behorende rittenboekje bij.
+
+2. De NIWO reikt aan de houder van een CEMT-vergunning op zijn verzoek de nodige rittenboekjes uit. De NIWO draagt zorg voor de invulling van de omslag van het boekje.
+
+3. De houder van een CEMT-vergunning maakt een verslag van het verrichte vervoer op voor elke beladen rit, afgelegd tussen elke plaats waar geladen of gelost wordt, alsmede voor elke ledige rit, met inachtneming van de in het rittenboekje gegeven aanwijzingen.
+
+4. De verslagen van het verrichte vervoer worden zodanig opgesteld, dat de chronologische volgorde van de voor de verschillende al dan niet beladen ritten afgelegde trajecten wordt aangehouden.
+
+5. De houder van een CEMT-vergunning zendt de verslagen binnen twee weken na het verstrijken van de maand waarop zij betrekking hebben, aan de NIWO toe.
+
+##### Artikel 9
+
+1. Een ritmachtiging wordt aan de vervoerder verleend voor een vrachtauto al dan niet met een aanhangwagen, of voor een samenstel van een trekker en een oplegger, waarbij het trekkend voertuig in Nederland geregistreerd is.
+
+2. Op de ritmachtiging worden vermeld:
+
+- a. naam en adres van de houder;
+
+- b. de datum waarop op het verzoek om de ritmachtiging is beslist;
+
+- c. de geldigheidsduur, en
+
+- d. de voorwaarden waaronder zij is verleend.
+
+##### Artikel 10
+
+Degene, die krachtens een CEMT-vergunning dan wel krachtens een ritmachtiging grensoverschrijdend beroepsvervoer met een vrachtauto verricht, alsmede de bestuurder van die vrachtauto zorgt ervoor dat de geldige CEMT-vergunning en het bijbehorende rittenboekje, onderscheidenlijk de ritmachtiging, bij de vrachtauto aanwezig zijn.
+
+##### Artikel 11
+
+1. Geen CEMT-vergunning onderscheidenlijk ritmachtiging is vereist ten aanzien van vervoer waarvoor vrijstellingen zijn verleend ingevolge besluiten van de Conferentie van de Europese Ministers van Transport onderscheidenlijk bilaterale verdragen.
+
+2. De in het eerste lid bedoelde vrijstellingen worden door de NIWO bekend gemaakt.
+
+### Hoofdstuk 5. Dienstbetrekking
+
+##### Artikel 12
+
+Het model voor een verklaring als bedoeld in [artikel 2.11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.11) wordt vastgesteld overeenkomstig de bij deze regeling behorende bijlage, die ter inzage ligt ten kantore van het ministerie van Verkeer en Waterstaat, Koningskade 4 te 's-Gravenhage.
+
+##### Artikel 13
+
+1. Van [artikel 2.11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.11), wordt ontheffing verleend indien vervoer wordt verricht met een of meer vrachtauto’s met een laadvermogen van niet meer dan 500 kg.
+
+2. Van [artikel 2.11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.11), wordt ontheffing verleend indien gebruik wordt gemaakt van:
+
+- a. een werknemer die gedurende een periode van ten hoogste zes weken bij wijze van hulpbetoon zonder winstoogmerk aan een vergunninghouder ter beschikking is gesteld door een andere vergunninghouder bij wie die werknemer in dienstbetrekking is en die ten bewijze daarvan een verklaring van dienstbetrekking kan tonen; of
+
+- b. een werknemer die door een instelling aan een vergunninghouder ter beschikking is gesteld en die ten bewijze daarvan een door deze instelling afgegeven verklaring kan tonen.
+
+##### Artikel 14
+
+1. Een instelling die een werknemer aan een vergunninghouder ter beschikking wil stellen, verkrijgt daartoe op aanvraag een aanwijzing van de Minister van Infrastructuur en Milieu.
+
+2. Een aanwijzing, die op het tijdstip van inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024800) reeds was verleend, wordt aangemerkt als aanwijzing als bedoeld in het eerste lid.
+
+### Hoofdstuk 6. Vrachtbrief
+
+##### Artikel 15
+
+1. Op de vrachtbrief worden de volgende aanduidingen vermeld:
+
+- a. de naam en het adres van de afzender;
+
+- b. de naam en het adres van de vervoerder;
+
+- c. de naam en het adres van de geadresseerde;
+
+- d. de gebruikelijke aanduiding van de aard van de goederen;
+
+- e. het brutogewicht of de op andere wijze aangegeven hoeveelheid van de goederen.
+
+2. De vergunninghouder draagt er zorg voor dat:
+
+- a. de vrachtbrief in de vrachtauto, waarmee de goederen vervoerd worden, aanwezig is;
+
+- b. de vrachtbrief bij het ten vervoer aannemen van de goederen aan de afzender ten bewijze van ontvangst wordt afgegeven;
+
+- c. bij aflevering van de goederen de vrachtbrief tegelijk met de goederen wordt afgegeven tegen aftekening voor ontvangst van een daarvoor bestemd deel van de vrachtbrief.
+
+3. Het tweede lid is niet van toepassing indien het beroepsvervoer betreft waarvan de op dat vervoer betrekking hebbende vrachtbriefgegevens gestructureerd en genormeerd via een elektronisch systeem worden uitgewisseld.
+
+4. Het verbod, bedoeld in [artikel 2.13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.13), is niet van toepassing op binnenlands beroepsvervoer dat:
+
+- a. wordt verricht met een of meer vrachtauto’s met een toegestaan laadvermogen van niet meer dan 500 kg; of
+
+- b. het vervoer betreft van:
+
+- 1°. levende dieren;
+
+- 2°. landbouwproducten van de teeltplaats naar de veiling en van tot dit vervoer gebezigde ledige verpakkingsmiddelen van de veiling naar de teeltplaats;
+
+- 3°. inboedels;
+
+- 4°. losgestorte goederen; of
+
+- 5°. postzendingen.
+
+5. Het verbod, bedoeld in [artikel 2.13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.13), richt zich tot:
+
+- a. de vervoerder indien:
+
+- 1°. met betrekking tot dat vervoer geen vrachtbrief is opgemaakt;
+
+- 2°. de naam en het adres van de vervoerder niet of onjuist op de vrachtbrief zijn vermeld; of
+
+- 3°. de vrachtbrief niet getoond kan worden bij eerste vordering door de op grond van [artikel 5.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=5.1) aangewezen personen;
+
+- b. de afzender indien:
+
+- 1°. met betrekking tot binnenlands beroepsvervoer de aanduidingen, bedoeld in het eerste lid, onderdelen a en c tot en met e, onvolledig of onjuist op de vrachtbrief zijn vermeld; of
+
+- 2°. met betrekking tot grensoverschrijdend beroepsvervoer de volgende aanduidingen onvolledig of onjuist op de vrachtbrief zijn vermeld:
+
+- a. de naam en het adres van de afzender;
+
+- b. de plaats en de datum van inontvangstneming der goederen en de plaats bestemd voor de aflevering der goederen;
+
+- c. de naam en het adres van de geadresseerde;
+
+- d. de gebruikelijke aanduiding van de aard der goederen en de wijze van verpakking en, voor gevaarlijke goederen, hun algemeen erkende benaming;
+
+- e. het aantal colli, hun bijzondere merken en hun nummers;
+
+- f. het bruto-gewicht of de op andere wijze aangegeven hoeveelheid van de goederen; en
+
+- g. de voor het vervullen van douane- en andere formaliteiten nodige instructies.
+
+### Hoofdstuk 7. Bestuur NIWO
+
+##### Artikel 16
+
+In het bestuur van de NIWO worden benoemd door:
+
+- a. TLN, Transport en Logistiek Nederland: 3 leden;
+
+- b. KNV, Koninklijk Nederlands Vervoer: 1 lid;
+
+- c. Vervoersbond FNV: 1 lid;
+
+- d. Vervoersbond CNV: 1 lid;
+
+- e. EVO, Ondernemersorganisatie voor logistiek en transport: 1 lid;
+
+- f. stichting VERN, Verenigde Eigen Rijders Nederland: 1 lid.
+
+### Hoofdstuk 8. Taken NIWO
+
+##### Artikel 17
+
+De NIWO is mede belast met de afgifte van uitnodigingen als bedoeld in artikel 4, eerste lid, onderdeel c) van de overeenkomst tussen de Europese Gemeenschap en de Russische Federatie inzake de versoepeling van de afgifte van visa aan burgers van de Europese Unie en de Russische Federatie (PbEU 129), voor zover deze betrekking hebben op goederenvervoer, verricht in opdracht van een in Nederland gevestigde vervoerder.
+
+### Hoofdstuk 9. Aanduiding als strafbare feiten
+
+##### Artikel 18
+
+1. Overtreding van de [artikelen 8, eerste en derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=4&artikel=8&z=2024-01-01&g=2024-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=4&artikel=10&z=2024-01-01&g=2024-01-01) vormt een strafbaar feit.
+
+2. Als bepalingen, bedoeld in [artikel 2.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.6), worden aangewezen:
+
+- a. [artikel 9, eerste, tweede, vierde, vijfde, zevende, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=9), [72, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72), [107, eerste lid, en tweede lid, onderdeel b,](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107) en [151c, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=151c);
+
+- b. [artikel 5.1.1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.1), juncto [artikel 5.3.15, tweede tot en met vierde lid, van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.3.15);
+
+- c. [artikel 5.1.1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.1), juncto [hoofdstuk 5, afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&afdeling=3) en [12, van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&afdeling=12), voor zover overtreding van [artikel 5.1.1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.1), leidt tot een bevel ingevolge [artikel 160, zevende lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=160) om het voertuig te herstellen alvorens het weer aan het verkeer mag deelnemen;
+
+- d. [artikel 5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.2) juncto de [artikelen 5.18.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.11), [5.18.14](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.14), [5.18.17a tot en met 5.18.17g](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17a) of juncto de [artikelen 5.18.25 tot en met 5.18.25d van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25).
+
+3. Als bepalingen, bedoeld in [artikel 2.6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.6), worden aangewezen [artikel 5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.2) in verbinding met de [artikelen 5.18.17a tot en met 5.18.17g](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17a) of in verbinding met [artikel 5.18.25 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25).
+
+### Hoofdstuk 10. Wijziging andere regelingen
+
+##### Artikel 19
+
+Wijzigt de Regeling getuigschrift vakbekwaamheid.
+
+### Hoofdstuk 11. Slotbepalingen
+
+##### Artikel 20
+
+Deze regeling treedt in werking met ingang van het tijdstip waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024800), met uitzondering van [artikel 8.4, onderdelen A tot en met D van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=8.4), in werking treedt.
+
+##### Artikel 21
+
+Deze regeling wordt aangehaald als: Regeling wegvervoer goederen.
+
+## Bijlage
+
+Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat te Den Haag.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 6a
+
+De vervoerder voldoet aan de voorwaarden inzake de vestigingseis, bedoeld in artikel 5, eerste en tweede lid, van de beroepsverordening voor het wegvervoer.
+
+### Hoofdstuk 4. CEMT-vergunningen en ritmachtigingen
+
+### Hoofdstuk 5. Dienstbetrekking
+
+### Hoofdstuk 6. Vrachtbrief
+
+### Hoofdstuk 7. Bestuur NIWO
+
+### Hoofdstuk 8. Taken NIWO
+
+### Hoofdstuk 9. Aanduiding als strafbare feiten
+
+### Hoofdstuk 10. Wijziging andere regelingen
+
+### Hoofdstuk 11. Slotbepalingen
+
+## Bijlage
+
+Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat te Den Haag.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,13 +1,39 @@
 ---
-title: "Regeling intrekking subsidieregelingen (EZ 2009)"
+title: "Regeling van de Minister van Economische Zaken van 2 december 2009, nr. WJZ/9165300, houdende intrekking van een aantal subsidieregelingen in verband met de stroomlijning hiervan"
 identifier: "BWBR0026869"
-categorie: "Bestuursrecht"
-publicatiedatum: 2011-06-16
-laatste_update: 2011-06-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026869"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2011-06-16"
+last_updated: "2011-06-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026869"
+soort: "ministeriele-regeling"
+stam_id: "10324993"
+version_id: "18613892"
+internal_id: "C25971621"
+label_id: "10300424"
+dtd_version: "2.0"
+original_entry_into_force: "2011-06-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026869/2011-06-16/0"
+intitule_bron: "Stcrt.2009-19654"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-12-02"
+intitule_published: "2009-12-18"
+intitule_in_force: "2009-12-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-10258"
+original_signed_date: "2011-06-06"
+original_published_date: "2011-06-15"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2011-10258"
+entry_into_force_date: "2011-06-06"
+jci_1_3: "jci1.3:c:BWBR0026869&z=2011-06-16&g=2011-06-16"
+jci_1_0: "1.0:c:BWBR0026869&g=2011-06-16"
+citeertitel_status: "redactioneel"
+short_title: "Regeling intrekking subsidieregelingen (EZ 2009)"
+signed_date: "2011-06-06"
+entry_into_force: "2011-06-06"
 ---
-
 # Regeling van de Minister van Economische Zaken van 2 december 2009, nr. WJZ/9165300, houdende intrekking van een aantal subsidieregelingen in verband met de stroomlijning hiervan
 
 Gelet op [artikel 3 van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Intrekking regelingen op het terrein van ondernemen en innovatie
 
-#### Artikel I
+##### Artikel I
 
 De volgende regelingen worden ingetrokken:
 
@@ -32,7 +58,7 @@ De volgende regelingen worden ingetrokken:
 
 #### § 2. Intrekking regelingen op het terrein van energie en telecom
 
-#### Artikel II
+##### Artikel II
 
 De volgende regelingen worden ingetrokken:
 
@@ -50,7 +76,7 @@ De volgende regelingen worden ingetrokken:
 
 #### § 3. Intrekking regelingen op het terrein van buitenlandse economische betrekkingen
 
-#### Artikel III
+##### Artikel III
 
 De volgende regelingen worden ingetrokken:
 
@@ -64,7 +90,7 @@ De volgende regelingen worden ingetrokken:
 
 #### § 4. Intrekking wijzigings- en intrekkingsregelingen van subsidieregelingen en overige regelingen
 
-#### Artikel IV
+##### Artikel IV
 
 De volgende regelingen worden ingetrokken:
 
@@ -108,7 +134,7 @@ De volgende regelingen worden ingetrokken:
 
 #### § 5. Overgangs- en slotbepalingen
 
-#### Artikel V
+##### Artikel V
 
 1. Voor zover nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze plaats overeenkomstig de regelingen, bedoeld in de [artikelen I tot en met IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026869&paragraaf=1&artikel=I&z=2011-06-16&g=2011-06-16), met dien verstande dat:
 
@@ -141,7 +167,7 @@ De volgende regelingen worden ingetrokken:
 | Adviescommissie 2getthere | Subsidieregeling 2getthere | 24 | Adviescommissie 2getthere | Subsidieregeling internationaal excelleren | 2.6 |
 | Adviescommissie Tijdelijke subsidieregeling PSOM | Tijdelijke subsidieregeling opkomende markten | 6 | Adviescommissie subsidiëring opkomende markten | Subsidieregeling internationaal excelleren | 5.13 |
 
-#### Artikel VI
+##### Artikel VI
 
 Deze regeling treedt in werking met ingang van 1 januari 2010.
 

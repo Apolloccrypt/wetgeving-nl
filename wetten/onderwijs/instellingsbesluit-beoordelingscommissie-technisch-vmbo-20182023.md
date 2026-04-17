@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit beoordelingscommissie technisch vmbo 2018–2023"
+title: "Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media van 17 december 2018, nr. VO/1433973, houdende instelling van de beoordelingscommissie technisch vmbo voor de periode 2018 tot en met 2023 (Instellingsbesluit beoordelingscommissie technisch vmbo 2018–2023)"
 identifier: "BWBR0041757"
-categorie: "Onderwijs"
-publicatiedatum: 2018-12-28
-laatste_update: 2018-12-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041757"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-12-28"
+last_updated: "2018-12-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041757"
+soort: "ministeriele-regeling"
+stam_id: "14928263"
+version_id: "25553912"
+internal_id: "C36478281"
+label_id: "14879344"
+dtd_version: "2.0"
+original_entry_into_force: "2018-12-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041757/2018-12-28/0"
+intitule_bron: "Stcrt.2018-72812"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-12-17"
+intitule_published: "2018-12-27"
+intitule_in_force: "2018-12-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-72812"
+original_signed_date: "2018-12-17"
+original_published_date: "2018-12-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-72812"
+entry_into_force_date: "2018-12-28"
+jci_1_3: "jci1.3:c:BWBR0041757&z=2018-12-28&g=2018-12-28"
+jci_1_0: "1.0:c:BWBR0041757&g=2018-12-28"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit beoordelingscommissie technisch vmbo 2018–2023"
+signed_date: "2018-12-17"
+entry_into_force: "2018-12-28"
 ---
-
 # Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media van 17 december 2018, nr. VO/1433973, houdende instelling van de beoordelingscommissie technisch vmbo voor de periode 2018 tot en met 2023 (Instellingsbesluit beoordelingscommissie technisch vmbo 2018–2023)
 
 Gelet op [artikel 2 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In dit besluit wordt verstaan onder:
 
 - **regeling:** [Subsidieregeling sterk techniekonderwijs 2020–2023](https://wetten.overheid.nl/jci1.3:c:BWBR0041334).
 
-#### Artikel 2. Instelling en taak
+##### Artikel 2. Instelling en taak
 
 1. Er is een Beoordelingscommissie sterk techniekonderwijs.
 
@@ -46,7 +72,7 @@ In dit besluit wordt verstaan onder:
 
 5. Leden van de commissie zijn ook na 1 januari 2025 te consulteren door de Minister in verband met de rechten en plichten die voortvloeien uit de in het derde lid genoemde taken van de commissie.
 
-#### Artikel 3. Samenstelling, benoeming en ontslag
+##### Artikel 3. Samenstelling, benoeming en ontslag
 
 1. De commissie bestaat uit een voorzitter en ten hoogste vijftien andere leden.
 
@@ -64,7 +90,7 @@ In dit besluit wordt verstaan onder:
 
 5. Een lid neemt niet deel aan de beoordeling van of advisering over een subsidieaanvraag, indien het de beoordeling van of het advies over een aanvraag betreft, waarbij dat lid een persoonlijk of zakelijk belang heeft.
 
-#### Artikel 4. Leden
+##### Artikel 4. Leden
 
 Tot leden van de commissie worden benoemd:
 
@@ -100,7 +126,7 @@ Tot leden van de commissie worden benoemd:
 
 - p. mevrouw J. Westerhuis.
 
-#### Artikel 5. Secretariaat
+##### Artikel 5. Secretariaat
 
 1. De commissie wordt ondersteund door een secretariaat.
 
@@ -108,17 +134,17 @@ Tot leden van de commissie worden benoemd:
 
 3. In het secretariaat wordt voorzien door de Minister.
 
-#### Artikel 6. Werkwijze
+##### Artikel 6. Werkwijze
 
 1. De commissie stelt haar eigen werkwijze vast.
 
 2. De commissie kan zich, na toestemming van de Minister, door andere personen doen bijstaan voor zover dat voor de vervulling van haar taak nodig is.
 
-#### Artikel 7. Informatieplicht
+##### Artikel 7. Informatieplicht
 
 De commissie verstrekt aan de Minister desgevraagd de door hem gewenste inlichtingen. De Minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
-#### Artikel 8. Vergoeding
+##### Artikel 8. Vergoeding
 
 1. De vergoeding van de voorzitter van de commissie bedraagt 333 euro per dagdeel.
 
@@ -126,25 +152,25 @@ De commissie verstrekt aan de Minister desgevraagd de door hem gewenste inlichti
 
 3. Per beoordeelde aanvraag worden voor een commissielid ten hoogste vier dagdelen vergoed, blijkend uit de taakverdeling tussen de commissieleden.
 
-#### Artikel 9. Kosten van de commissie
+##### Artikel 9. Kosten van de commissie
 
 De kosten van de commissie komen, voor zover goedgekeurd, voor rekening van de Minister. Onder kosten worden in ieder geval verstaan de kosten voor de faciliteiten van vergaderingen.
 
-#### Artikel 10. Openbaarmaking
+##### Artikel 10. Openbaarmaking
 
 Rapporten, notities, verslagen, adviezen en andere producten die door of namens de commissie worden vervaardigd of vergaard, worden niet door de commissie openbaar gemaakt, maar uitsluitend aan de Minister uitgebracht of overgedragen.
 
-#### Artikel 11. Archiefbescheiden
+##### Artikel 11. Archiefbescheiden
 
 De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden de bescheiden betreffende die werkzaamheden over aan het archief van de Directie Voortgezet Onderwijs van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 12. Inwerkingtreding en vervaldatum
+##### Artikel 12. Inwerkingtreding en vervaldatum
 
 1. Dit besluit treedt in werking met ingang van de dag na uitgifte van de Staatscourant, waarin het wordt geplaatst.
 
 2. Dit besluit vervalt met ingang van 1 januari 2026.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit beoordelingscommissie technisch vmbo 2018–2023.
 

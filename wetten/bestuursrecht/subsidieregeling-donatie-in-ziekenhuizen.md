@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling donatie in ziekenhuizen"
+title: "Regeling van de Minister voor Medische Zorg van 19 augustus 2020, kenmerk 1733131-209016-GMT, houdende regels voor het verstrekken van subsidie aan ziekenhuizen voor de inzet van professionals die betrokken zijn bij donatie in ziekenhuizen (Subsidieregeling donatie in ziekenhuizen)"
 identifier: "BWBR0044035"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-08-22
-laatste_update: 2025-08-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044035"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-08-22"
+last_updated: "2025-08-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044035"
+soort: "ministeriele-regeling"
+stam_id: "15614723"
+version_id: "26993862"
+internal_id: "C38201321"
+label_id: "15555334"
+dtd_version: "2.0"
+original_entry_into_force: "2021-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044035/2025-08-22/0"
+intitule_bron: "Stcrt.2020-44644"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-08-19"
+intitule_published: "2020-09-01"
+intitule_in_force: "2020-09-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-44644"
+original_signed_date: "2020-08-19"
+original_published_date: "2020-09-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-44644"
+entry_into_force_date: "2021-01-01"
+jci_1_3: "jci1.3:c:BWBR0044035&z=2025-08-22&g=2025-08-22"
+jci_1_0: "1.0:c:BWBR0044035&g=2025-08-22"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling donatie in ziekenhuizen"
+signed_date: "2020-08-19"
+entry_into_force: "2021-01-01"
 ---
-
 # Regeling van de Minister voor Medische Zorg van 19 augustus 2020, kenmerk 1733131-209016-GMT, houdende regels voor het verstrekken van subsidie aan ziekenhuizen voor de inzet van professionals die betrokken zijn bij donatie in ziekenhuizen (Subsidieregeling donatie in ziekenhuizen)
 
 Gelet op [artikel 3 van de Kaderwet VWS-Subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [artikel 1.3 Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -30,17 +56,17 @@ In deze regeling wordt verstaan onder:
 
 - **NTS:** Nederlandse Transplantatie Stichting.
 
-#### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037336)
+##### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037336)
 
 Op deze regeling is de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) van toepassing.
 
-#### Artikel 3. Staatssteun
+##### Artikel 3. Staatssteun
 
 1. Het uitvoeren van de activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044035&artikel=4&z=2025-08-22&g=2025-08-22), wordt aangewezen als een dienst van algemeen economisch belang in de zin van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie.
 
 2. Subsidie wordt uitsluitend verstrekt indien de aanvrager met de Staat een overeenkomst sluit waarbij de Staat hem belast met en hij zich verplicht tot het verrichten van de dienst van algemeen economisch belang, bedoeld in het eerste lid.
 
-#### Artikel 4. Subsidiabele activiteiten
+##### Artikel 4. Subsidiabele activiteiten
 
 1. De minister kan op aanvraag aan een kernziekenhuis subsidie verstrekken voor het uitoefenen van structurele functies door professionals die betrokken zijn bij donatiezorg en daarmee samenhangende activiteiten.
 
@@ -62,7 +88,7 @@ Op deze regeling is de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 3. In afwijking van het eerste lid, kan subsidie voor het uitvoeren van de structurele functies, bedoeld in het tweede lid, onder a tot en met e, uitsluitend door een universitair medisch centrum worden aangevraagd.
 
-#### Artikel 5. Hoogte van de subsidie
+##### Artikel 5. Hoogte van de subsidie
 
 1. De subsidie voor het uitoefenen van een structurele functie of daarmee samenhangende activiteiten als hieronder vermeld, bedraagt maximaal:
 
@@ -84,13 +110,13 @@ Op deze regeling is de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 2. De hoogte van de subsidie voor de onderdelen a tot en met e is gebaseerd op één volledige fte.
 
-#### Artikel 6. Periode van de subsidie
+##### Artikel 6. Periode van de subsidie
 
 1. De subsidie wordt per boekjaar verleend.
 
 2. De subsidieontvanger stelt het boekjaar gelijk aan het kalenderjaar, tenzij bij de subsidieverlening anders is bepaald.
 
-#### Artikel 7. Aanvraag tot verlening van subsidie
+##### Artikel 7. Aanvraag tot verlening van subsidie
 
 1. Voor de aanvraag tot verlening van de subsidie wordt een door de minister vastgesteld formulier gebruikt.
 
@@ -98,13 +124,13 @@ Op deze regeling is de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 3. In aanvulling op het tweede lid gaat de aanvraag tot verlening van de subsidie van een universitair medisch centrum vergezeld van een schriftelijke verklaring over de geldigheidsduur van bestaande convenanten met het betrokken kernziekenhuis en dienstverleningsovereenkomsten met de NTS.
 
-#### Artikel 8. Aanvraagtermijn
+##### Artikel 8. Aanvraagtermijn
 
 1. De aanvraag tot verlening van de subsidie wordt ingediend uiterlijk dertien weken voor de aanvang van het boekjaar waarvoor de subsidie wordt aangevraagd.
 
 2. De minister kan vrijstelling of ontheffing verlenen voor de termijn, bedoeld in het eerste lid.
 
-#### Artikel 9. Verlening en bevoorschotting
+##### Artikel 9. Verlening en bevoorschotting
 
 1. De minister besluit binnen 13 weken na ontvangst van de aanvraag tot subsidieverlening.
 
@@ -112,7 +138,7 @@ Op deze regeling is de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 3. De minister verleent bij het besluit tot verlening van de subsidie ambtshalve de volgende voorschotten: in januari 8%, februari 8%, maart 8%, april 7%, mei 16%, juni 7%, juli 8%, augustus 8%, september 7%, oktober 8%, november 8% en december 7% van het bedrag van de verleende subsidie.
 
-#### Artikel 10. Vaststelling
+##### Artikel 10. Vaststelling
 
 1. Voor de aanvraag tot vaststelling van een subsidie wordt een door de minister vastgesteld formulier gebruikt.
 
@@ -124,15 +150,15 @@ Op deze regeling is de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 5. De minister besluit binnen 22 weken op een aanvraag tot vaststelling.
 
-#### Artikel 11. Hardheidsclausule
+##### Artikel 11. Hardheidsclausule
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 12. Inwerkingtreding en vervaldatum
+##### Artikel 12. Inwerkingtreding en vervaldatum
 
 Deze regeling treedt in werking met ingang van 1 januari 2021 en vervalt met ingang van 1 januari 2028.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling donatie in ziekenhuizen.
 

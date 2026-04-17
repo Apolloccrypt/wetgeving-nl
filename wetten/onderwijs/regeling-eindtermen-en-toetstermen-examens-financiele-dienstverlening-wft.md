@@ -1,24 +1,50 @@
 ---
-title: "Regeling eindtermen en toetstermen examens financiële dienstverlening Wft"
+title: "Regeling van de Minister van Financiën van 26 februari 2013, kenmerk: FM 2013/372M, houdende regels tot vaststelling van de eindtermen en toetstermen voor examens financiële dienstverlening Wft (Regeling eindtermen en toetstermen examens financiële dienstverlening Wft)"
 identifier: "BWBR0032957"
-categorie: "Onderwijs"
-publicatiedatum: 2026-04-01
-laatste_update: 2026-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032957"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-01"
+last_updated: "2026-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032957"
+soort: "ministeriele-regeling"
+stam_id: "12125093"
+version_id: "25778892"
+internal_id: "C36757621"
+label_id: "12096704"
+dtd_version: "2.0"
+original_entry_into_force: "2019-03-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032957/2026-04-01/0"
+intitule_bron: "Stcrt.2013-5677"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-02-26"
+intitule_published: "2013-03-06"
+intitule_in_force: "2013-03-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-17391"
+original_signed_date: "2019-03-22"
+original_published_date: "2019-04-01"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2019-17391"
+entry_into_force_date: "2019-03-22"
+jci_1_3: "jci1.3:c:BWBR0032957&z=2026-04-01&g=2026-04-01"
+jci_1_0: "1.0:c:BWBR0032957&g=2026-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling eindtermen en toetstermen examens financiële dienstverlening Wft"
+signed_date: "2019-03-22"
+entry_into_force: "2019-03-22"
 ---
-
 # Regeling van de Minister van Financiën van 26 februari 2013, kenmerk: FM 2013/372M, houdende regels tot vaststelling van de eindtermen en toetstermen voor examens financiële dienstverlening Wft (Regeling eindtermen en toetstermen examens financiële dienstverlening Wft)
 
 Gelet op [artikel 9, tweede lid, van het Besluit Gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=9);
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder besluit: [Besluit Gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421).
 
-#### Artikel 2
+##### Artikel 2
 
 De eindtermen en toetstermen behorende bij de verschillende modules, bedoeld in [artikel 9, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=9), worden vastgesteld overeenkomstig de volgende bijlagen:
 
@@ -40,7 +66,7 @@ De eindtermen en toetstermen behorende bij de verschillende modules, bedoeld in 
 
 - i. module zorgverzekeringen: de eindtermen en toetstermen in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=9&z=2026-04-01&g=2026-04-01).
 
-#### Artikel 3
+##### Artikel 3
 
 In de [bijlagen 1 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=1&z=2026-04-01&g=2026-04-01) wordt het beheersniveau van de toetstermen aangeduid met de taxonomiecodes:
 
@@ -52,15 +78,15 @@ In de [bijlagen 1 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0032957
 
 - d. C (=Competentie).
 
-#### Artikel 4
+##### Artikel 4
 
 De [Regeling vaststelling toetstermen examens financiële dienstverlening Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0021186) en de [Regeling toetstermen voor permanente educatie financiële dienstverlening Wft 2011–2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030186) worden ingetrokken.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking met ingang van 1 januari 2014.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling eindtermen en toetstermen examens financiële dienstverlening Wft.
 
@@ -291,7 +317,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2a
+##### Artikel 2a
 
 De toetstermen behorende bij de periodieke examens, bedoeld in [artikel 11, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=11), worden vastgesteld overeenkomstig [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=12&z=2026-04-01&g=2026-04-01).
 
@@ -345,7 +371,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2b
+##### Artikel 2b
 
 De eindtermen en toetstermen behorende bij de bijzondere examens, bedoeld in [artikel 11, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=11), worden vastgesteld overeenkomstig [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=13&z=2026-04-01&g=2026-04-01).
 

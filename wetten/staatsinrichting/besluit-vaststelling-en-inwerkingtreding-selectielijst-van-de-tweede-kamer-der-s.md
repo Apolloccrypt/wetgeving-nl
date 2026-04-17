@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling en inwerkingtreding Selectielijst van de Tweede Kamer der Staten-Generaal vanaf 5 mei 1945"
+title: "Besluit van 14 juni 2024, nr. 2024000297, houdende vaststelling en inwerkingtreding van de Selectielijst van de Tweede Kamer der Staten-Generaal vanaf 5 mei 1945"
 identifier: "BWBR0049940"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2024-07-06
-laatste_update: 1945-05-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049940"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2024-07-06"
+last_updated: "1945-05-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049940"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "17161693"
+version_id: "30205682"
+internal_id: "C43272881"
+label_id: "17069784"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049940/2024-07-06/0"
+intitule_bron: "Stcrt.2024-20712"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-14"
+intitule_published: "2024-07-05"
+intitule_in_force: "2024-07-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-20712"
+original_signed_date: "2024-06-14"
+original_published_date: "2024-07-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-20712"
+entry_into_force_date: "2024-07-06"
+jci_1_3: "jci1.3:c:BWBR0049940&z=2024-07-06&g=2024-07-06"
+jci_1_0: "1.0:c:BWBR0049940&g=2024-07-06"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling en inwerkingtreding Selectielijst van de Tweede Kamer der Staten-Generaal vanaf 5 mei 1945"
+signed_date: "2024-06-14"
+entry_into_force: "2024-07-06"
 ---
-
 # Besluit van 14 juni 2024, nr. 2024000297, houdende vaststelling en inwerkingtreding van de Selectielijst van de Tweede Kamer der Staten-Generaal vanaf 5 mei 1945
 
 Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 7 juni 2024, nr. NA/45956130, afdeling Kennis en Advies (NA);
@@ -16,17 +42,17 @@ Gelet op [artikel 5, 2e lid, onder a, van de Archiefwet 1995](https://wetten.ove
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 De Selectielijst van de Tweede Kamer der Staten-Generaal vanaf 5 mei 1945 wordt vastgesteld zoals deze is opgenomen in de bijlage bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 De met dit besluit vastgestelde selectielijst vervangt de volgende selectielijst met betrekking tot de Tweede Kamer der Staten-Generaal, welke derhalve komt te vervallen:
 
 - •. Selectielijst van de Tweede Kamer der Staten-Generaal vanaf 5 mei 1945 (Staatscourant 2020, 10766);
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de dag na publicatie in de Staatscourant waarin dit besluit wordt geplaatst en werkt terug tot 5 mei 1945.
 

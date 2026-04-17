@@ -1,13 +1,35 @@
 ---
-title: "Instellingsbesluit gemengde ambtelijke werkgroep modernisering Statuut voor het Koninkrijk der Nederlanden"
+title: "Besluit van 30 augustus 1991, houdende instelling van een gemengde ambtelijke werkgroep met als taak de voorbereiding van de vereenvoudiging en modernisering van het Statuut voor het Koninkrijk der Nederlanden"
 identifier: "BWBR0005188"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 1991-11-01
-laatste_update: 1991-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005188"
+country: "nl"
+rank: "kb"
+publication_date: "1991-11-01"
+last_updated: "1991-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005188"
+soort: "KB"
+stam_id: "398833"
+version_id: "586472"
+internal_id: "C586471"
+label_id: "388594"
+dtd_version: "2.0"
+original_entry_into_force: "1991-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005188/1991-11-01/0"
+intitule_bron: "Stb.1991-454"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-08-30"
+intitule_status: "goed"
+original_publication: "Stb.1991-454"
+original_signed_date: "1991-08-30"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1991-11-01"
+jci_1_3: "jci1.3:c:BWBR0005188&z=1991-11-01&g=1991-11-01"
+jci_1_0: "1.0:c:BWBR0005188&g=1991-11-01"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit gemengde ambtelijke werkgroep modernisering Statuut voor het Koninkrijk der Nederlanden"
+signed_date: "1991-08-30"
+entry_into_force: "1991-11-01"
 ---
-
 # Besluit van 30 augustus 1991, houdende instelling van een gemengde ambtelijke werkgroep met als taak de voorbereiding van de vereenvoudiging en modernisering van het Statuut voor het Koninkrijk der Nederlanden
 
 Op de voordracht van Onze Minister voor Nederlands-Antilliaanse en Arubaanse Zaken van 28 augustus 1991, nr 31795;
@@ -18,7 +40,7 @@ Artikel 10 van het Statuut voor het Koninkrijk in acht genomen zijnde;
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Er is een gemengde ambtelijke werkgroep die tot taak heeft voorstellen voor te bereiden voor vereenvoudiging en modernisering van het [Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154), waarbij vooral dient te worden bezien op welke wijze de democratische en rechtsstatelijke waarborgen een versterkte nadruk kunnen krijgen (Gemengde werkgroep modernisering Statuut).
 
@@ -32,7 +54,7 @@ Hebben goedgevonden en verstaan:
 
 6. Op verzoek van de werkgroep kunnen de regeringen van de landen in gezamenlijk overleg tussentijds nadere richtlijnen voor de uitvoering van de werkzaamheden geven.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De werkgroep bestaat ten hoogste uit tien leden.
 
@@ -44,17 +66,17 @@ Hebben goedgevonden en verstaan:
 
 5. De regering van het Koninkrijk wijst ten hoogste drie deskundigen als lid aan.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De werkgroep is bevoegd voor haar werkzaamheden de medewerking in te roepen van de organen van openbaar bestuur en de onder deze ressorterende instellingen, diensten en bedrijven in de Nederlandse Antillen, Aruba en Nederland.
 
 2. De werkgroep is bevoegd deskundigen uit te nodigen om haar van raad te dienen.
 
-#### Artikel 4
+##### Artikel 4
 
 Elk der landen draagt de kosten die door de door of op voorstel van hen aangewezen leden worden gemaakt in het kader van de werkzaamheden van de werkgroep.
 
-#### Artikel 5
+##### Artikel 5
 
 De leden van de werkgroep en een ieder die bij de werkzaamheden van de werkgroep wordt betrokken en daarbij de beschikking krijgt over gegevens waarvan hij of zij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift terzake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem of haar tot bekendmaking verplicht of uit zijn of haar taak bij de uitvoering van de werkzaamheden van de werkgroep de noodzaak tot bekendmaking voortvloeit.
 

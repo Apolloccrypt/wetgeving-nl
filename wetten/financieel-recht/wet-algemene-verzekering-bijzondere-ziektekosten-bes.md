@@ -1,18 +1,43 @@
 ---
 title: "Wet algemene verzekering bijzondere ziektekosten BES"
 identifier: "BWBR0028294"
-categorie: "Financieel recht"
-publicatiedatum: 2012-07-01
-laatste_update: 2012-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028294"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2012-07-01"
+last_updated: "2012-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028294"
+soort: "wet-BES"
+stam_id: "10744183"
+version_id: "17718152"
+internal_id: "C24812971"
+label_id: "10719514"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028294/2012-07-01/0"
+intitule_bron: "Stb.2010-644"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-16"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-644"
+original_signed_date: "2010-09-16"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-644"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028294&z=2012-07-01&g=2012-07-01"
+jci_1_0: "1.0:c:BWBR0028294&g=2012-07-01"
+citeertitel_status: "officieel"
+signed_date: "2010-09-16"
+entry_into_force: "2010-10-10"
 ---
-
 # Wet algemene verzekering bijzondere ziektekosten BES
 
 ### Hoofdstuk I. Algemene Bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -62,19 +87,19 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - o. **prijsindexcijfer van de gezinsconsumptie:** het door het Centraal Bureau voor de Statistiek vastgestelde afgeleide prijsindexcijfer van de gezinsconsumptie in Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius of Saba.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Waar een lichaam feitelijk gevestigd is, wordt naar de omstandigheden beoordeeld.
 
 2. Degene die Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius of Saba metterwoon heeft verlaten en binnen één jaar nadien metterwoon terugkeert zonder inmiddels in Nederland, Aruba of op het grondgebied van een andere mogendheid te hebben gewoond, wordt ook voor de duur van zijn afwezigheid geacht in Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius of Saba te hebben gewoond.
 
-#### Artikel 3
+##### Artikel 3
 
 Behoudens hetgeen in deze wet ten aanzien van de heffing en de invordering van premies is bepaald, wordt in de uitvoering van de in deze wet geregelde verzekering voorzien door het Uitvoeringsorgaan.
 
 ### Hoofdstuk II. Kring der verzekerden
 
-#### Artikel 4
+##### Artikel 4
 
 1. Verzekerd ingevolge deze wet is degene die:
 
@@ -88,7 +113,7 @@ Behoudens hetgeen in deze wet ten aanzien van de heffing en de invordering van p
 
 ### Hoofdstuk III. Aanspraken
 
-#### Artikel 5
+##### Artikel 5
 
 1. Verzekerden hebben met inachtneming van het bepaalde bij of krachtens het tweede lid aanspraak op de volgende vormen van zorg in Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius of Saba:
 
@@ -136,7 +161,7 @@ Behoudens hetgeen in deze wet ten aanzien van de heffing en de invordering van p
 
 5. Aanspraken op zorg als bedoeld in het eerste lid kunnen slechts geldend gemaakt worden indien daarop niet krachtens een andere wettelijke voorziening noch krachtens een particuliere ziektekostenverzekering aanspraak gemaakt kan worden. Bij algemene maatregel van bestuur, kunnen nadere regels worden gesteld ten aanzien van het in de eerste volzin bepaalde.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het Uitvoeringsorgaan draagt zorg, dat de aanspraken van verzekerden tot gelding kunnen worden gebracht. Ten aanzien van de wijze waarop aanspraken tot gelding kunnen worden gebracht, kunnen bij algemene maatregel van bestuur regels worden gesteld.
 
@@ -146,13 +171,13 @@ Behoudens hetgeen in deze wet ten aanzien van de heffing en de invordering van p
 
 4. De verzekerde die zijn aanspraak op zorg daadwerkelijk tot gelding wil brengen, wendt zich na de beslissing, bedoeld in het tweede lid, voor de gewenste zorg tot de door het Uitvoeringsorgaan bij de beslissing aangewezen instelling of tot een zorgverlener.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Bij algemene maatregel van bestuur, wordt bepaald in welke mate en onder welke voorwaarden aanspraak bestaat op vergoeding wegens kosten terzake van in of buiten Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius of Saba verleende zorg als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=III&artikel=5&z=2012-07-01&g=2012-07-01), in gevallen, waarin aan een verzekerde als gevolg van in dat algemene maatregel van bestuur omschreven omstandigheden zorg is verleend, welke deze, indien die omstandigheden zich niet zouden hebben voorgedaan, op de krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=III&artikel=6&z=2012-07-01&g=2012-07-01) omschreven wijze had kunnen verkrijgen.
 
 2. Onverminderd het bepaalde krachtens [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=III&artikel=5&z=2012-07-01&g=2012-07-01), kan het Uitvoeringsorgaan degene die zorg behoeft, en aan wiens opzet of grove schuld is te wijten dat hij deze zorg behoeft, extra in de kosten van de te verlenen zorg doen bijdragen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Ieder is verplicht aan het Uitvoeringsorgaan of aan een daartoe door of vanwege het Uitvoeringsorgaan aangewezen persoon de ten behoeve van de uitvoering van deze wet van hem verlangde inlichtingen te geven.
 
@@ -162,7 +187,7 @@ Behoudens hetgeen in deze wet ten aanzien van de heffing en de invordering van p
 
 4. Alle ambtenaren tot afgifte van uittreksels uit de registers van de burgerlijke stand bevoegd, zijn verplicht aan het Uitvoeringsorgaan de door deze gevraagde uittreksels uit die registers kosteloos te verstrekken. Publiekrechtelijke lichamen zijn verplicht op de door de Minister aan te geven wijze kosteloos hun medewerking te verlenen tot het verkrijgen van de inlichtingen, benodigd voor de uitvoering van deze wet.
 
-#### Artikel 9
+##### Artikel 9
 
 Het Uitvoeringsorgaan vordert van degene die, zonder daartoe gerechtigd te zijn, aanspraken heeft doen gelden, alsmede van degene die met wetenschap daarvan zijn medewerking daaraan heeft verleend, het bedrag aan ten onrechte of te veel verleende zorg terug.
 
@@ -170,7 +195,7 @@ Het Uitvoeringsorgaan vordert van degene die, zonder daartoe gerechtigd te zijn,
 
 #### § 1. Uitvoeringsorgaan
 
-#### Artikel 10
+##### Artikel 10
 
 1. Met de uitvoering van deze wet wordt belast de Stichting Bureau Ziektekostenvoorzieningen.
 
@@ -186,7 +211,7 @@ Het Uitvoeringsorgaan vordert van degene die, zonder daartoe gerechtigd te zijn,
 
 5. Onze Minister kan het Uitvoeringsorgaan met het oog op de uitvoering van deze wet aanwijzingen geven.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het Uitvoeringsorgaan stelt een meerjarenbeleidsplan op dat een periode van ten minste drie jaren omvat en dat jaarlijks wordt bijgesteld. Dit plan behoeft de goedkeuring van Onze Minister.
 
@@ -204,7 +229,7 @@ Het Uitvoeringsorgaan vordert van degene die, zonder daartoe gerechtigd te zijn,
 
 #### § 2. Indicatiecommissie Bijzondere Ziektekosten
 
-#### Artikel 12
+##### Artikel 12
 
 1. Er is een Indicatiecommissie Bijzondere Ziektekosten.
 
@@ -246,7 +271,7 @@ Het Uitvoeringsorgaan vordert van degene die, zonder daartoe gerechtigd te zijn,
 
 #### § 3. Instellingen en zorgverleners
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het Uitvoeringsorgaan sluit met in Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius of Saba gevestigde instellingen en zorgverleners overeenkomsten ter verwezenlijking van de aanspraken van verzekerden, neergelegd in hoofdstuk III, in zodanige omvang dat het in staat is zijn verplichtingen jegens de verzekerden naar behoren na te komen.
 
@@ -276,21 +301,21 @@ Het Uitvoeringsorgaan vordert van degene die, zonder daartoe gerechtigd te zijn,
 
 5. Het Uitvoeringsorgaan brengt een overeenkomst ter kennis van Onze Minister.
 
-#### Artikel 14
+##### Artikel 14
 
 Het Uitvoeringsorgaan stelt kwaliteitseisen vast voor instellingen en zorgverleners die worden gehanteerd bij het aangaan van de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=IV&paragraaf=3&artikel=13&z=2012-07-01&g=2012-07-01), bedoelde overeenkomsten. Deze kwaliteitseisen behoeven de goedkeuring van Onze Minister.
 
-#### Artikel 15
+##### Artikel 15
 
 Onze Minister stelt, gehoord het Uitvoeringsorgaan, eens per vier jaren per instelling het jaarlijkse totaalbedrag vast van de ten laste van het Fonds komende middelen ter dekking van de kosten van de ingevolge deze wet door die instelling te verlenen zorg.
 
-#### Artikel 16
+##### Artikel 16
 
 Elke bepaling in de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=IV&paragraaf=3&artikel=13&z=2012-07-01&g=2012-07-01), bedoelde overeenkomsten, die in strijd is met deze wet of de daarop berustende bepalingen is nietig.
 
 #### § 4. Toezicht op het Uitvoeringsorgaan
 
-#### Artikel 17
+##### Artikel 17
 
 1. Onze Minister houdt toezicht op het Uitvoeringsorgaan. Zij adviseert, op verzoek of uit eigen beweging, Onze Minister, de Minister van Financiën en het Uitvoeringsorgaan met betrekking tot aangelegenheden het Uitvoeringsorgaan betreffende, overeenkomstig de bij of krachtens de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) met betrekking tot de uitoefening van het verzekeringsbedrijf gestelde regels.
 
@@ -302,7 +327,7 @@ Elke bepaling in de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.
 
 ### Hoofdstuk V. Dekking van de kosten
 
-#### Artikel 18
+##### Artikel 18
 
 1. Er is een Algemeen Fonds Bijzondere Ziektekosten.
 
@@ -322,11 +347,11 @@ Elke bepaling in de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.
 
 5. Bij algemene maatregel van bestuur, kunnen regels worden gesteld met betrekking tot belegging van de gelden van het Fonds.
 
-#### Artikel 19
+##### Artikel 19
 
 Onze Minister geeft jaarlijks, gehoord het Uitvoeringsorgaan, een aanwijzing voor het totaal van de ten laste van het Fonds komende besteedbare middelen ter dekking van de kosten van de ingevolge deze wet te verlenen zorg.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De premie, bedoeld in [artikel 18, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=18&z=2012-07-01&g=2012-07-01), wordt, met inachtneming van het bepaalde in de navolgende leden, geheven naar de maatstaf van het door de verzekerde in een kalenderjaar genoten inkomen en bedraagt een percentage van dat inkomen. Ten aanzien van degene, die slechts een gedeelte van een kalenderjaar verzekerd is geweest, treedt dit gedeelte voor het kalenderjaar in de plaats.
 
@@ -336,7 +361,7 @@ Onze Minister geeft jaarlijks, gehoord het Uitvoeringsorgaan, een aanwijzing voo
 
 4. Bij algemene maatregel van bestuur, kunnen met betrekking tot het bepaalde in het eerste en tweede lid nadere regelen worden gesteld.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het premiepercentage, bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=20&z=2012-07-01&g=2012-07-01), wordt bij algemene maatregel van bestuur, gehoord het Uitvoeringsorgaan en de Sociaal-Economische Raad, vastgesteld.
 
@@ -356,7 +381,7 @@ Onze Minister geeft jaarlijks, gehoord het Uitvoeringsorgaan, een aanwijzing voo
 
 9. Het is een werkgever verboden de voor hem uit de bepalingen van deze wet voortvloeiende kosten geheel of gedeeltelijk te verhalen op het loon van de werknemer.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Tenzij bij of krachtens deze wet anders is bepaald, geschiedt de heffing van de ingevolge deze wet verschuldigde premie, onder verrekening van eventueel krachtens het derde lid geheven premie, bij wege van aanslag en met overeenkomstige toepassing van de voor de heffing van de inkomstenbelasting geldende regelen.
 
@@ -376,11 +401,11 @@ Onze Minister geeft jaarlijks, gehoord het Uitvoeringsorgaan, een aanwijzing voo
 
 7. Onze Minister en de Minister van Financiën kunnen nadere regels geven inzake de heffing, de invordering en de afdracht van de premie ingevolge deze wet.
 
-#### Artikel 23
+##### Artikel 23
 
 De Minister van Financiën is bevoegd, met inachtneming van het vastgestelde premiepercentage, bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=20&z=2012-07-01&g=2012-07-01), de ingevolge deze wet verschuldigde premie te doen berekenen volgens tabellen. Bij het opstellen van deze tabellen en voor de toepassing daarvan bepaalt de Minister van Financiën de door hem nodig geachte afrondingen.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De werkgever is verplicht de premie, die hij over een tijdvak van een maand of korter heeft ingehouden of had moeten inhouden te zamen met de te zijnen laste komende toeslag, vóór de zestiende dag van de daarop volgende maand, op aangifte af te dragen. Indien de inhouding over een tijdvak van langer dan een maand geschiedt, is de werkgever verplicht de premie vóór de zestiende dag na het einde van dat tijdvak op aangifte af te dragen.
 
@@ -396,7 +421,7 @@ De Minister van Financiën is bevoegd, met inachtneming van het vastgestelde pre
 
 7. Ook in de gevallen, dat geen premie behoeft te worden ingehouden, moet de aangifte op de in de vorige leden aangegeven tijden ingediend worden. Personen, die stellen geen werkgever te zijn, moeten niettemin de hen verstrekte aangifteformulieren vóór de zestiende dag van de daarop volgende maand, waarin de aangifteformulieren aan hen zijn verstrekt, indienen.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De Inspecteur verstrekt de inhoudingsplichtige het benodigde aantal aangifteformulieren, hetzij op diens verzoek, hetzij ambtshalve. De werkgever is, in het geval hij deze formulieren niet van de Inspecteur heeft ontvangen, verplicht om de Inspecteur te verzoeken deze te verstrekken.
 
@@ -404,11 +429,11 @@ De Minister van Financiën is bevoegd, met inachtneming van het vastgestelde pre
 
 3. Onze Minister stelt het model voor het aangifteformulier vast
 
-#### Artikel 26
+##### Artikel 26
 
 Indien de premie geheel of gedeeltelijk niet binnen de voorgeschreven termijn door de werkgever is afgedragen, kan de niet of te weinig afgedragen premie door middel van een aanslag, op te leggen ten name van de werkgever, door de Inspecteur nageheven worden, zolang niet sedert het einde van het kalenderjaar, waarin de premieschuld is ontstaan, vijf jaren zijn verstreken. De werkgever is gerechtigd het nageheven bedrag te verhalen op zijn werknemer voor zover het betrekking heeft op van de werknemer ten onrechte niet ingehouden premie.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Indien de werkgever niet binnen de voorgeschreven termijn aangifte en afdracht doet, dan wel het aangifteformulier onjuist of onvolledig invult, wordt het bedrag van de premie verhoogd met ten hoogste 100%.
 
@@ -418,7 +443,7 @@ Indien de premie geheel of gedeeltelijk niet binnen de voorgeschreven termijn do
 
 4. Dwanginvordering geschiedt overeenkomstig de regels in [Hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII).
 
-#### Artikel 28
+##### Artikel 28
 
 1. Indien bij het vaststellen van de premie-aanslag of bij controle van de door de werkgever ingehouden premie blijkt dat teveel of te weinig is ingehouden dan wel teveel of te weinig is betaald op een voorlopige premie-aanslag, wordt gedurende een periode van ten hoogste vijf jaren de teveel ingehouden premie gerestitueerd of verrekend en de te weinig ingehouden premie alsnog ingevorderd.
 
@@ -426,7 +451,7 @@ Indien de premie geheel of gedeeltelijk niet binnen de voorgeschreven termijn do
 
 3. In een geval als bedoeld in het tweede lid blijft het opleggen van de definitieve premieaanslag achterwege.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De werkgever is gehouden een loonadministratie te voeren, waaruit duidelijk blijkt aan de hand waarvan en de wijze waarop de premie is berekend en ingehouden.
 
@@ -434,7 +459,7 @@ Indien de premie geheel of gedeeltelijk niet binnen de voorgeschreven termijn do
 
 3. De loonadministratie moet gedurende tien jaren na het einde van het kalenderjaar waarop het betrekking heeft, worden bewaard.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Hoofdelijk aansprakelijk is:
 
@@ -452,7 +477,7 @@ Indien de premie geheel of gedeeltelijk niet binnen de voorgeschreven termijn do
 
 5. De heffing van de premie ingevolge het eerste tot en met het vierde lid geschiedt door middel van een aanslag.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De werkgever, diens vaste vertegenwoordiger, de leider van de vaste inrichting van de werkgever of degene die de leiding heeft van de hier te lande verrichte werkzaamheden is desgevraagd gehouden aan de Inspecteur of aan de door deze aangewezen personen en deskundigen inzage te verlenen of afschrift te verstrekken van de boeken, bescheiden en geschriften, welke voor de vaststelling van de premie redelijkerwijs van belang zijn.
 
@@ -460,7 +485,7 @@ Indien de premie geheel of gedeeltelijk niet binnen de voorgeschreven termijn do
 
 3. Bij een weigering om te voldoen aan een verplichting als bedoeld in het eerste lid, kan een werkgever, diens vaste vertegenwoordiger, de leider van de vaste inrichting van de werkgever of degene die de leiding heeft van de hier te lande verrichte werkzaamheden, niet met vrucht een beroep doen op de omstandigheid dat hij uit hoofde van zijn stand, zijn beroep of zijn ambt tot geheimhouding verplicht is, zelfs al mocht deze hem bij enig wettelijk voorschrift zijn opgelegd.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De jaarlijkse bijdrage van het Land, bedoeld in [artikel 18, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=18&z=2012-07-01&g=2012-07-01), wordt bij algemene maatregel van bestuur, vastgesteld.
 
@@ -472,7 +497,7 @@ Indien de premie geheel of gedeeltelijk niet binnen de voorgeschreven termijn do
 
 ### Hoofdstuk VI. Bezwaar en beroep
 
-#### Artikel 33
+##### Artikel 33
 
 1. Aan de belanghebbende wordt schriftelijk kennis gegeven van een beslissing betreffende:
 
@@ -482,7 +507,7 @@ Indien de premie geheel of gedeeltelijk niet binnen de voorgeschreven termijn do
 
 2. Een kennisgeving als bedoeld in het eerste lid vermeldt de dagtekening van de beslissing, de gronden waarop deze berust, alsmede de rechtsmiddelen die tegen de beslissing openstaan.
 
-#### Artikel 34
+##### Artikel 34
 
 1. De belanghebbende die bezwaar heeft tegen een beslissing van het Uitvoeringsorgaan, kan binnen zes weken na de dagtekening daarvan een met redenen omkleed bezwaarschrift indienen bij het Uitvoeringsorgaan. Een bezwaarschrift kan tevens worden ingediend, indien het Uitvoeringsorgaan, na daartoe schriftelijk te zijn aangemaand, niet binnen zes weken na de aanmaning een beslissing heeft genomen. In laatstgenoemd geval vangt de termijn van zes weken aan op de dag volgend op die waarop de termijn van zes weken na de aanmaning verstreken is.
 
@@ -492,7 +517,7 @@ Indien de premie geheel of gedeeltelijk niet binnen de voorgeschreven termijn do
 
 4. Het bezwaarschrift heeft geen schorsende werking.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Het Uitvoeringsorgaan beschikt op een bezwaarschrift als bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VI&artikel=34&z=2012-07-01&g=2012-07-01).
 
@@ -502,7 +527,7 @@ Indien de premie geheel of gedeeltelijk niet binnen de voorgeschreven termijn do
 
 4. De reclamant is, desgevraagd, gehouden aan het Uitvoeringsorgaan of aan de door deze aangewezen personen inzage te verlenen van boeken of andere bescheiden, die tot staving zijner beweringen kunnen dienen.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Het Uitvoeringsorgaan beschikt binnen zes weken na ontvangst van het bezwaarschrift. In voorkomende gevallen kan het Uitvoeringsorgaan onder schriftelijke mededeling aan de reclamant de genoemde termijn met ten hoogste zes weken verlengen. Indien het Uitvoeringsorgaan niet binnen bedoelde termijn heeft beschikt, geldt zulks als een weigering om te beschikken.
 
@@ -510,15 +535,15 @@ Indien de premie geheel of gedeeltelijk niet binnen de voorgeschreven termijn do
 
 3. Afschrift wordt door het Uitvoeringsorgaan aan de reclamant uitgereikt bij aangetekende brief of tegen gedagtekend ontvangstbewijs.
 
-#### Artikel 37
+##### Artikel 37
 
 Tegen een beschikking van het Uitvoeringsorgaan staat voor belanghebbende binnen zes weken na de dag waarop deze is gegeven, beroep open bij het Gerecht in eerste aanleg van Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius of Saba.
 
-#### Artikel 38
+##### Artikel 38
 
 [vervallen]
 
-#### Artikel 39
+##### Artikel 39
 
 1. Voor zover bij of krachtens deze wet niet anders is bepaald, zijn ter zake van de ingevolge deze wet verschuldigde premies, die bij wege van aanslag dan wel bij wijze van inhouding worden geheven, de rechtsmiddelen die gelden in het kader van de heffing van de inkomstenbelasting, bedoeld in de artikelen 43 tot en met 47 van de [Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281) en in [Hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII) van overeenkomstige toepassing.
 
@@ -530,7 +555,7 @@ Tegen een beschikking van het Uitvoeringsorgaan staat voor belanghebbende binnen
 
 ### Hoofdstuk VII. Toezicht en opsporing
 
-#### Artikel 40
+##### Artikel 40
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast:
 
@@ -542,7 +567,7 @@ Tegen een beschikking van het Uitvoeringsorgaan staat voor belanghebbende binnen
 
 3. Bij algemene maatregel van bestuur, kunnen regels worden gesteld met betrekking tot de wijze van taakuitoefening van de krachtens het eerste lid aangewezen personen.
 
-#### Artikel 41
+##### Artikel 41
 
 1. Bij de uitoefening van hun taak dragen de toezichthouders een legitimatiebewijs bij zich.
 
@@ -550,7 +575,7 @@ Tegen een beschikking van het Uitvoeringsorgaan staat voor belanghebbende binnen
 
 3. Het legitimatiebewijs bevat een foto van de toezichthouder en vermeldt in ieder geval diens naam en hoedanigheid.
 
-#### Artikel 42
+##### Artikel 42
 
 1. De toezichthouders zijn bevoegd, met medeneming van de benodigde apparatuur, elke plaats te betreden voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is.
 
@@ -562,11 +587,11 @@ Tegen een beschikking van het Uitvoeringsorgaan staat voor belanghebbende binnen
 
 5. Op het binnentreden in woningen is [Titel X van het Derde Boek van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=X) van overeenkomstige toepassing, met uitzondering van de [artikelen 155, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=155), [156, tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=156), [157, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=157), [158, eerste lid, laatste zinsnede](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=158), en [160, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=160) en met dien verstande dat de machtiging wordt verleend door de procureur-generaal.
 
-#### Artikel 43
+##### Artikel 43
 
 Toezichthouders zijn bevoegd inlichtingen te verlangen, voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Toezichthouders zijn bevoegd inzage te verlangen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is.
 
@@ -576,13 +601,13 @@ Toezichthouders zijn bevoegd inlichtingen te verlangen, voor zover dat voor de v
 
 4. Indien zulks voor de uitoefening van hun taak wenselijk is, kunnen zij de hulp van deskundigen inroepen voor de beoordeling van gegevens en bescheiden, bedoeld in het eerste lid.
 
-#### Artikel 45
+##### Artikel 45
 
 1. Een ieder is verplicht aan toezichthouders alle medewerking te verlenen die deze redelijkerwijs kunnen vorderen ter uitoefening van hun bevoegdheden.
 
 2. Zij die uit hoofde van ambt, beroep of wettelijk voorschrift verplicht zijn tot geheimhouding, kunnen het verlenen van medewerking weigeren, voor zover dit uit hun geheimhoudingsplicht voortvloeit.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Met het opsporen van de feiten, strafbaar gesteld bij of krachtens deze wet zijn, behalve de ambtenaren, bedoeld in [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184), belast de bij wet aangewezen:
 
@@ -598,7 +623,7 @@ Toezichthouders zijn bevoegd inlichtingen te verlangen, voor zover dat voor de v
 
 ### Hoofdstuk VIII. Strafbepalingen
 
-#### Artikel 47
+##### Artikel 47
 
 1. Op overtreding van [artikel 21, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=21&z=2012-07-01&g=2012-07-01), en het niet of niet tijdig nakomen van een van de verplichtingen gesteld bij de [artikelen 24, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=24&z=2012-07-01&g=2012-07-01), [30, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=30&z=2012-07-01&g=2012-07-01), [31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=31&z=2012-07-01&g=2012-07-01), [45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VII&artikel=45&z=2012-07-01&g=2012-07-01), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=X&artikel=61&z=2012-07-01&g=2012-07-01), en in krachtens deze wet gegeven regels wordt een administratieve boete geheven van ten hoogste een boete van de tweede categorie.
 
@@ -610,17 +635,17 @@ Toezichthouders zijn bevoegd inlichtingen te verlangen, voor zover dat voor de v
 
 5. De boete wordt geheven door middel van aanslagen.
 
-#### Artikel 48
+##### Artikel 48
 
 1. De werkgever die de voor hem uit de bepalingen van deze wet voortvloeiende kosten geheel of gedeeltelijk verhaalt op het loon van de werknemer wordt gestraft, hetzij met hechtenis van ten hoogste zes maanden, hetzij met een geldboete van ten hoogste de vijfde categorie, hetzij met beide straffen.
 
 2. De werkgever, die niet voldoet aan de verplichting, opgelegd krachtens [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=21&z=2012-07-01&g=2012-07-01), wordt gestraft, hetzij met hechtenis van ten hoogste zes maanden, hetzij met een geldboete van ten hoogste de vijfde categorie, hetzij met beide straffen. Deze straffen kunnen worden opgelegd voor elk geval waarin een werkgever voor één zijner werknemers de in dit lid bedoelde verplichting niet nakomt.
 
-#### Artikel 49
+##### Artikel 49
 
 Degene, die niet voldoet aan een der verplichtingen opgelegd in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=27&z=2012-07-01&g=2012-07-01) wordt gestraft, hetzij met hechtenis van ten hoogste zes maanden, hetzij met een geldboete van ten hoogste de vijfde categorie, hetzij met beide straffen.
 
-#### Artikel 50
+##### Artikel 50
 
 1. Degene, die de bij [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=X&artikel=61&z=2012-07-01&g=2012-07-01) opgelegde geheimhouding opzettelijk schendt, wordt gestraft, hetzij met gevangenisstraf van ten hoogste twee jaren, hetzij met een geldboete van ten hoogste de zesde categorie, hetzij met beide straffen.
 
@@ -628,33 +653,33 @@ Degene, die niet voldoet aan een der verplichtingen opgelegd in [artikel 27](htt
 
 3. Geen vervolging heeft plaats dan op klacht van hem, te wiens aanzien de geheimhouding is geschonden.
 
-#### Artikel 51
+##### Artikel 51
 
 Degene, die op grond van de bij of krachtens deze wet vastgestelde bepalingen gehouden is inlichtingen of gegevens te verstrekken, een aangifte of mededeling te doen of een verklaring af te leggen en daarbij opzettelijk een valse opgave doet dan wel opzettelijk in strijd met bedoelde gehoudenheid iets verzwijgt, wordt gestraft, hetzij met gevangenisstraf van ten hoogste twee jaren, hetzij met een geldboete van ten hoogste de zesde categorie, hetzij met beide straffen
 
-#### Artikel 52
+##### Artikel 52
 
 Degene, die op andere wijze dan door het valselijk opmaken of vervalsen van een geschrift, dat bestemd is tot bewijs van enig feit te dienen opzettelijk een opgave doet in strijd met de waarheid, zulks met het oogmerk om aldus de verlening van zorg of een uitgebreidere verlening van zorg te verkrijgen, wordt gestraft, hetzij met gevangenisstraf van ten hoogste twee jaren, hetzij met een geldboete van ten hoogste de zesde categorie, hetzij met beide straffen.
 
-#### Artikel 53
+##### Artikel 53
 
 Overtredingen van bepalingen van een krachtens deze wet vastgesteld algemene maatregel van bestuur, voor zover uitdrukkelijk als strafbaar feit in de zin van dit artikel aangeduid, worden gestraft, hetzij met hechtenis van ten hoogste zes maanden, hetzij met een geldboete van ten hoogste de vijfde categorie hetzij met beide straffen.
 
-#### Artikel 54
+##### Artikel 54
 
 De in de [artikelen 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VIII&artikel=50&z=2012-07-01&g=2012-07-01), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VIII&artikel=51&z=2012-07-01&g=2012-07-01) en [52](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VIII&artikel=52&z=2012-07-01&g=2012-07-01) bedoelde strafbare feiten zijn misdrijven, de in de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VIII&artikel=48&z=2012-07-01&g=2012-07-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VIII&artikel=49&z=2012-07-01&g=2012-07-01), [50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VIII&artikel=50&z=2012-07-01&g=2012-07-01), en [53](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=VIII&artikel=53&z=2012-07-01&g=2012-07-01), bedoelde strafbare feiten zijn overtredingen.
 
-#### Artikel 55
+##### Artikel 55
 
 [vervallen]
 
-#### Artikel 56
+##### Artikel 56
 
 Een administratieve boete vervalt, indien degene die haar heeft belopen, wegens het feit op grond waarvan boete is verschuldigd, onherroepelijk is veroordeeld, is vrijgesproken of is ontslagen van rechtsvervolging.
 
 ### Hoofdstuk X. Overgangs- en slotbepalingen
 
-#### Artikel 57
+##### Artikel 57
 
 1. Verzekerden die op het tijdstip van het in werking treden van deze wet krachtens enige wettelijke voorziening of particuliere verzekering zorg genieten als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=III&artikel=5&z=2012-07-01&g=2012-07-01), en zoals nader uitgewerkt ingevolge het tweede lid van dat artikel, genieten, in afwijking van [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=III&artikel=5&z=2012-07-01&g=2012-07-01), deze zorg krachtens deze wet met ingang van het tijdstip waarop deze wet in werking treedt.
 
@@ -662,23 +687,23 @@ Een administratieve boete vervalt, indien degene die haar heeft belopen, wegens 
 
 3. De premie, welke degene wiens verzekering krachtens het bepaalde in het tweede lid geheel of gedeeltelijk is vervallen, heeft vooruitbetaald, wordt door de ziektekostenverzekeraar al naar gelang van het vervallen gedeelte der overeenkomst, terugbetaald onder aftrek van ten hoogste 25 percent van het terug te betalen bedrag voor administratiekosten.
 
-#### Artikel 58
+##### Artikel 58
 
 Zolang de Landsontvanger nog niet over de mogelijkheid beschikt tot dwanginvordering over te gaan, geschiedt de dwanginvordering op verzoek van de Landsontvanger door de Eilandsontvanger. [Artikel 27, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=27&z=2012-07-01&g=2012-07-01), is van toepassing.
 
-#### Artikel 59
+##### Artikel 59
 
 Het Uitvoeringsorgaan is voor de bij of krachtens deze wet opgedragen taken geen winstbelasting verschuldigd.
 
-#### Artikel 60
+##### Artikel 60
 
 Alle ingevolge deze wet opgemaakte of overgelegde stukken, verzoekschriften en beschikkingen, zijn vrij van recht van zegel en formaliteit van registratie.
 
-#### Artikel 61
+##### Artikel 61
 
 Een ieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij de uitvoering van deze wet de noodzaak tot bekendmaking voortvloeit.
 
-#### Artikel 62
+##### Artikel 62
 
 1. Ieder beding dat de aansprakelijkheid van de werkgever ingevolge de bepalingen van deze wet uitsluit of vermindert, is nietig.
 
@@ -686,15 +711,15 @@ Een ieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikk
 
 3. Degene die gehouden is tot vergoeding der schade door de verzekerde geleden als gevolg van ziekte of ongeval, is voor ingevolge deze wet aan de verzekerde verleende zorg aansprakelijk jegens het Uitvoeringsorgaan.
 
-#### Artikel 63
+##### Artikel 63
 
 Het meerjarenbeleidsplan, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=IV&paragraaf=1&artikel=11&z=2012-07-01&g=2012-07-01), wordt voor de eerste keer vastgesteld binnen zes maanden na de inwerkingtreding van deze wet.
 
-#### Artikel 64
+##### Artikel 64
 
 De bijdrage van het Land, bedoeld in [artikel 18, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=18&z=2012-07-01&g=2012-07-01), bedraagt in het jaar 1997 NAF. 21.753.130,–.
 
-#### Artikel 65
+##### Artikel 65
 
 1. Het premiepercentage, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=21&z=2012-07-01&g=2012-07-01), bedraagt voor de jaren 1997 en 1998: 2.
 
@@ -704,10 +729,10 @@ De bijdrage van het Land, bedoeld in [artikel 18, tweede lid, onderdeel c](https
 
 4. Het toeslagpercentage, bedoeld in [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&hoofdstuk=V&artikel=21&z=2012-07-01&g=2012-07-01), bedraagt voor de jaren 1997 en 1998: 0,5
 
-#### Artikel 66
+##### Artikel 66
 
 Deze wet treedt in werking met ingang van 1 januari 1997.
 
-#### Artikel 67
+##### Artikel 67
 
 Deze wet kan worden aangehaald als: Wet algemene verzekering bijzondere ziektekosten BES.

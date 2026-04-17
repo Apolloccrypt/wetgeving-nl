@@ -1,0 +1,813 @@
+---
+title: "Besluit van 23 december 2010 tot vaststelling van een inkomensbesluit voor de volksverzekeringen en de sociale voorzieningen (Inkomensbesluit volksverzekeringen en sociale voorzieningen)"
+identifier: "BWBR0029368"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029368"
+soort: "AMvB"
+stam_id: "11192943"
+version_id: "18316662"
+internal_id: "C25501341"
+label_id: "11167354"
+dtd_version: "2.0"
+original_entry_into_force: "2010-12-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029368/2026-01-01/0"
+intitule_bron: "Stb.2010-869"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-12-23"
+intitule_published: "2010-12-29"
+intitule_in_force: "2010-12-29"
+intitule_status: "goed"
+original_publication: "Stb.2010-869"
+original_signed_date: "2010-12-23"
+original_published_date: "2010-12-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-869"
+entry_into_force_date: "2010-12-30"
+jci_1_3: "jci1.3:c:BWBR0029368&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0029368&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Algemeen inkomensbesluit socialezekerheidswetten"
+signed_date: "2010-12-23"
+entry_into_force: "2010-12-30"
+---
+# Besluit van 23 december 2010 tot vaststelling van een inkomensbesluit voor de volksverzekeringen en de sociale voorzieningen (Inkomensbesluit volksverzekeringen en sociale voorzieningen)
+
+Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 27 sepember 2010, nr. IVV/I/2010/18284;
+
+Gelet op de [artikelen 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=10), en [20 van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=20), [12a van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=12a), [8, derde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=8), [8, vierde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=8), [47, tweede lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=47), [10, zesde lid, van de Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=10), [2:6 van de Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:6), [52, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=52), [60, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=60), en [61, negende lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=61), [8, tweede lid, van de Tijdelijke wet pilot loondispensatie](https://wetten.overheid.nl/jci1.3:c:BWBR0027707&artikel=8) en [45a, vijfde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=45a);
+
+De Afdeling advisering van de Raad van State gehoord (advies van 27 oktober 2010, nr. W12.10.0475/III);
+
+Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid van 21 december 2010, nr. IVV/FB/2010/21595;
+
+Hebben goedgevonden en verstaan:
+
+### Hoofdstuk 1. Algemeen
+
+### Hoofdstuk 2. Volksverzekeringen en sociale voorzieningen
+
+### Hoofdstuk 2. Volksverzekeringen en sociale voorzieningen
+
+### Hoofdstuk 4. Bepaling van het inkomen
+
+### Hoofdstuk 5. Slotbepalingen
+
+##### Artikel 5:1. Overgangsrecht
+
+1. Voor het bepalen van het inkomen, bedoeld in de [artikelen 52, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=52), en [61, achtste lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=61) of [artikel 35aa, eerste lid, onderdeel b, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=35aa) wordt onder verlof als bedoeld in [artikel 3:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=1&artikel=3:3&z=2026-01-01&g=2026-01-01), tevens verstaan verlof als bedoeld in de [artikelen 3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:1) en [3:2 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:2), en wordt in afwijking van artikel 3:2, eerste lid, onderdeel a, niet onder inkomen verstaan een uitkering op grond van [hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&paragraaf=1), indien dit verlof is aangevangen voor inwerkingtreding van het besluit van 22 februari 2012 tot wijziging van het Inkomensbesluit volksverzekeringen en sociale voorzieningen in verband met toepassing op de Toeslagenwet, Wet inkomensvoorziening oudere werklozen, Wet werk en arbeidsondersteuning jonggehandicapten en werknemersverzekeringen (Stb. 79).
+
+2. Voor het bepalen van het inkomen, bedoeld in [artikel 35aa, eerste lid, onderdeel b, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=35aa), geldt dat indien voor de uitkeringsgerechtigde naast een uitkering op grond van de Werkloosheidswet:
+
+- a. recht ontstaat op een uitkering op grond van [artikel 29, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29)of [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=II) of [III van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III); en
+
+- b. het recht, bedoeld onder a, is ontstaan voor de inwerkingtreding van het besluit van 22 februari 2012 tot wijziging van het Inkomensbesluit volksverzekeringen en sociale voorzieningen in verband met toepassing op de Toeslagenwet, Wet inkomensvoorziening oudere werklozen, Wet werk en arbeidsondersteuning jonggehandicapten en werknemersverzekeringen (Stb. 79);
+
+voor de duur van dat recht, bedoeld in [onderdeel a, artikel 3:3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=1&artikel=3:3&z=2026-01-01&g=2026-01-01), niet van toepassing is en wordt tevens onder inkomen wordt verstaan het inkomen, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=1&artikel=3:2&z=2026-01-01&g=2026-01-01), dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin recht ontstond op die uitkering.
+
+3. Voor het bepalen van het inkomen, bedoeld in de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), geldt dat indien voor de uitkeringsgerechtigde naast een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen:
+
+- a. recht bestaat op een uitkering op grond van [artikel 29, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29) of [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=II) of [III van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III); en
+
+- b. het recht op uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) en het recht, bedoeld onder a, zijn ontstaan voor de inwerkingtreding van het besluit van 22 februari 2012 tot wijziging van het Inkomensbesluit volksverzekeringen en sociale voorzieningen in verband met toepassing op de Toeslagenwet, Wet inkomensvoorziening oudere werklozen, Wet werk en arbeidsondersteuning jonggehandicapten en werknemersverzekeringen (Stb. 79);
+
+voor de duur van het recht, bedoeld in [onderdeel a, artikel 3:3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=1&artikel=3:3&z=2026-01-01&g=2026-01-01), niet van toepassing is en tevens onder inkomen wordt verstaan het inkomen, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=1&artikel=3:2&z=2026-01-01&g=2026-01-01), dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin recht bestond op die uitkering.
+
+4. In geval van een uitkeringsgerechtigde waarvan het recht op een uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) en het ontvangen van ziekengeld op grond van [artikel 29, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29) zijn ontstaan voor inwerkingtreding van het besluit van 22 februari 2012 tot wijziging van het Inkomensbesluit volksverzekeringen en sociale voorzieningen in verband met toepassing op de Toeslagenwet, Wet inkomensvoorziening oudere werklozen, Wet werk en arbeidsondersteuning jonggehandicapten en werknemersverzekeringen (Stb. 79) is, voor de duur van dat recht op grond van artikel 29, tweede lid, van de Ziektewet, [artikel 3:4, tweede lid, onderdelen a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=2&artikel=3:4&z=2026-01-01&g=2026-01-01), niet van toepassing.
+
+5. Ingeval van een uitkeringsgerechtigde die recht heeft op een uitkering op grond [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) en recht heeft op een uitkering op grond van een vrijwillige verzekering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) of [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) op de dag voor inwerkingtreding van het besluit van 22 februari 2012 tot wijziging van het Inkomensbesluit volksverzekeringen en sociale voorzieningen in verband met toepassing op de Toeslagenwet, Wet inkomensvoorziening oudere werklozen, Wet werk en arbeidsondersteuning jonggehandicapten en werknemersverzekeringen (Stb. 79) is [artikel 3:6, onderdeel b, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=2&artikel=3:6&z=2026-01-01&g=2026-01-01), voor zover het de uitkering op grond van een vrijwillige verzekering betreft, niet van toepassing gedurende de duur van die uitkering doch ten hoogste gedurende twee jaar.
+
+##### Artikel 5:2. Intrekking besluiten en overgangsrecht
+
+Vervallen
+
+##### Artikel 5:3. [Inkomensbesluit IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004091)
+
+Vervallen
+
+##### Artikel 5:4. Grondslag besluit
+
+Dit besluit berust mede op de [artikelen 6, tweede lid, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=6), [10, vijfde lid, van de Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=10), [1b, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=1b), en [47, tweede lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=47), [1a:4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1a:4), [2:6](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:6) en [3:2a van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](onbekend), [21, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=21), [52, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=52), [60, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=60), en [61, achtste lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=61) en [31, derde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=31).
+
+##### Artikel 5:5. Inwerkingtreding
+
+Dit besluit treedt in werking met ingang van 1 januari 2011 met uitzondering van [artikel 5:5](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=5&artikel=5:5&z=2026-01-01&g=2026-01-01), dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst en terug werkt tot en met 9 juni 2010.
+
+##### Artikel 5:6. Citeertitel
+
+Dit besluit wordt aangehaald als: Algemeen inkomensbesluit socialezekerheidswetten.
+
+##### Artikel 5:7. Intrekking besluiten en overgangsrecht
+
+1. De volgende besluiten worden ingetrokken:
+
+- a. [Inkomens- en samenloopbesluit Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0008086);
+
+- b. [Inkomensbesluit IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004091);
+
+- c. [Inkomensbesluit IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004167); en
+
+- d. [Inkomensbesluit AOW 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008136).
+
+2. Ingeval ter zake van het belastbare loon [artikel 39c van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39c) wordt toegepast wordt voor toepassing van [artikel 2:2, eerste lid, onderdeel b, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:2&z=2012-01-01&g=2012-01-01), onder eindheffingsbestanddelen als bedoeld in [artikel 31, eerste lid, onderdelen b tot en met h, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31) verstaan eindheffingsbestanddelen als bedoeld in artikel 31, eerste lid, onderdelen b tot en met h, van die wet, zoals dat artikel luidde op 31 december 2010.
+
+3. Het tweede lid vervalt met ingang van de dag waarop [artikel 39c van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39c) vervalt.
+
+##### Artikel 5:8. [Inkomensbesluit IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004091)
+
+In afwijking van [artikel 5:7](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=5&artikel=5:7&z=2012-01-01&g=2012-01-01) blijft [artikel 9b van het Inkomensbesluit IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004091&artikel=9b) van toepassing in wettelijke procedures en rechtsgedingen inzake besluiten die op grond van artikel 9b van het Inkomensbesluit IOAW zijn genomen, dan wel op tegen deze besluiten in te stellen of ingestelde beroepen, zowel in eerste aanleg als in verdere instantie.
+
+##### Artikel 5:9. Wijzigingen in verband met [artikel 12 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=12)
+
+Wijzigt dit besluit.
+
+##### Artikel 5:10. Inwerkingtreding
+
+Dit besluit treedt in werking met ingang van 1 januari 2011 met uitzondering van [artikel 5:5](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=5&artikel=5:5&z=2012-01-01&g=2012-01-01), dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst en terug werkt tot en met 9 juni 2010.
+
+##### Artikel 5:11. Citeertitel
+
+Dit besluit wordt aangehaald als: Inkomensbesluit volksverzekeringen en sociale voorzieningen.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1:1. Begripsbepalingen
+
+1. In dit besluit wordt verstaan onder:
+
+- **aangiftetijdvak:** het tijdvak van vier weken dan wel een maand waarop de aangifte op basis waarvan de ingehouden loonbelasting wordt afgedragen betrekking heeft;
+
+- **arbeidsvoorwaardenbedrag:** het aan de werknemer toegekende en in geld uitgedrukte toekomstige loonbestanddeel, niet zijnde een afzonderlijke opbouw van vakantiebijslag, dat in is opgebouwd ingevolge afspraken in de individuele of collectieve arbeidsovereenkomst, voor zover dit toekomstige loonbestanddeel kan leiden tot loon als bedoeld in [artikel 16 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=16);
+
+- **college:** college van burgemeester en wethouders;
+
+- **loondoorbetaling:** doorbetaling van loon als bedoeld in [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629), doorbetaling van bezoldiging op grond van [artikel 76a van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76a) of loondoorbetaling of bezoldiging die naar aard en strekking daarmee overeenkomt;
+
+- **reguliere WW-uitkering:** een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), niet zijnde een uitkering op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=18) of [hoofdstuk IV van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV);
+
+- **stamrecht:** recht op periodieke uitkeringen ter vervanging van gederfd of te derven loon;
+
+- **SVB:** Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6);
+
+- **uitbetaalde looncomponenten ten laste van een arbeidsvoorwaardenbedrag:** door de werkgever als loon in de zin van [artikel 16 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=16) uitbetaalde bedragen ten laste van een arbeidsvoorwaardenbedrag voor zover dit loon belastbaar is op grond van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471);
+
+- **uitkeringsgerechtigde:** de persoon die recht heeft op een uitkering, toeslag of inkomensvoorziening op grond van een wet als bedoeld in de [artikelen 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2026-01-01&g=2026-01-01) en [3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=1&artikel=3:1&z=2026-01-01&g=2026-01-01);
+
+- **UWV:** Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
+
+- **verlof:** een tussen werkgever en werknemer voor een gedeelte of het geheel van de arbeidstijd overeengekomen tijdvak, waarin de werknemer geen arbeid jegens de werkgever verricht, met uitzondering van verlof als bedoeld in de [artikelen 3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:1), [3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:2), [4:2a](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=4:2a)[en 6:3 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=6:3);
+
+- **werknemersverzekering:** werknemersverzekering, bedoeld in [artikel 2, onderdeel c, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=2).
+
+2. In geval van toepassing van dit besluit voor het bepalen van het inkomen, bedoeld in [artikel 12 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=12), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163), wordt onder uitkeringsgerechtigde mede verstaan de echtgenoot van de uitkeringsgerechtigde, bedoeld in het eerste lid.
+
+3. In geval van toepassing van dit besluit voor het bepalen van het inkomen, bedoeld in de [artikelen 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8), [10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=10), en [11 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=11), wordt, in afwijking van het eerste lid, onder uitkeringsgerechtigde verstaan de echtgenoot van de pensioengerechtigde.
+
+4. Indien een uitkeringsgerechtigde recht heeft op een uitkering op grond van [artikel 29, tweede lid, onderdeel d, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29) wordt die uitkering steeds aangemerkt als een reguliere WW-uitkering.
+
+#### Paragraaf 1. Algemeen
+
+##### Artikel 2:1. Toepassing hoofdstuk 2
+
+Dit hoofdstuk is van toepassing op het bepalen van inkomen als bedoeld in de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) en de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163).
+
+##### Artikel 2:2. Inkomen uit arbeid
+
+1. Onder inkomen uit arbeid wordt verstaan:
+
+- a. hetgeen onder loon wordt verstaan op grond van [artikel 16 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=16) voor de werknemer, bedoeld in [artikel 1, onderdeel o, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=1) met dien verstande dat niet tot het inkomen uit arbeid worden gerekend uitkeringen op grond van een werknemersverzekering of wachtgeld als bedoeld in [artikel 6, vijfde lid, tweede zin, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=6), al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat of stond;
+
+- b. het loon, bedoeld in de [artikelen 9 tot en met 13 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=9), voor zover de uitkeringsgerechtigde niet als werknemer als bedoeld in onderdeel a inkomen verdient, met dien verstande dat niet tot het inkomen uit arbeid worden gerekend:
+
+- 1°. hetgeen uit een vroegere dienstbetrekking als bedoeld in die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) wordt genoten;
+
+- 2°. vervallen;
+
+- 3°. de eindheffingsbestanddelen, bedoeld in [artikel 31, eerste lid, onderdelen b tot en met h, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31);
+
+- c. het belastbaar loon of het belastbaar resultaat uit overige werkzaamheden, bedoeld in [paragraaf 3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&paragraaf=3.3.1) onderscheidenlijk [paragraaf 3.4.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&paragraaf=3.4.1), behoudens voor zover het een werkzaamheid betreft als bedoeld in de [artikelen 3.91, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.91), en [3.92 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92), voor zover de uitkeringsgerechtigde geen werknemer is als bedoeld in de onderdelen a en b;
+
+- d. de belastbare winst uit onderneming, bedoeld in [paragraaf 3.2.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&paragraaf=3.2.1), vermeerderd met de ondernemersaftrek en de MKB-winstvrijstelling, bedoeld in de [artikelen 3.74](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.74) en [3.79a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.79a), met dien verstande dat de bestanddelen van de winst, bedoeld in [artikel 3.78, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.78), niet geacht worden te behoren tot de winst;
+
+- e. een uitkering op grond van de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) aan de zelfstandige of de beroepsbeoefenaar op arbeidsovereenkomst, bedoeld in [artikel 3:17, eerste lid, onder a en b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:17) waaronder mede wordt verstaan een uitkering als bedoeld in [artikel 4:2b, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=4:2b), of [artikel 6:3, zevende lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=6:3) aan die persoon;
+
+- f. een uitkering op grond van [artikel 29, tweede lid, onderdelen e tot en met g, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29), indien tevens sprake is van een privaatrechtelijke of een publiekrechtelijke dienstbetrekking als bedoeld in [artikel 3, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=3).
+
+2. Indien het inkomen, bedoeld in het eerste lid, onderdelen c of d, een negatief bedrag is, dan wordt dat inkomen op nihil gesteld.
+
+3. Indien geen recht op loondoorbetaling bestaat door toepassing van [artikel 629, derde of negende lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) of een algemeen verbindend voorschrift als bedoeld in [artikel 76b, eerste tot en met het derde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76b), dan wel de betaling daarvan geheel of gedeeltelijk is opgeschort door toepassing van artikel 629, zesde lid, van Boek 7 van het Burgerlijk Wetboek, wordt voor de toepassing van dit artikel het loon of de bezoldiging in aanmerking genomen als ware er wel recht op doorbetaling en ware deze niet geheel of gedeeltelijk opgeschort.
+
+##### Artikel 2:3. Uitbreiding inkomen uit arbeid in bepaalde situaties van werkloosheid en verlof
+
+1. Gedurende de periode dat de uitkeringsgerechtigde:
+
+- a. recht heeft op een uitkering als bedoeld in [hoofdstuk IV van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV);
+
+- b. recht heeft op een uitkering in verband met werkloosheid als bedoeld in [artikel 18, eerste lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=18);
+
+- c. recht heeft op een uitkering in verband met werkloosheid die uitsluitend het gevolg is van verkorting van de werktijd, waarvoor op grond van [artikel 8, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&artikel=8) ontheffing is verleend; of
+
+- d. met verlof is,
+
+wordt als inkomen uit arbeid beschouwd het inkomen dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin:
+
+- 1°. het recht ontstond op een uitkering als bedoeld in de onderdelen a tot en met c.
+
+- 2°. het verlof aanving.
+
+2. Niet als inkomen uit arbeid wordt beschouwd het loon dat door de uitkeringsgerechtigde wordt genoten indien hij tegelijkertijd uit hoofde van dezelfde arbeidsrelatie inkomen als bedoeld in het eerste lid geniet.
+
+##### Artikel 2:4. Overig inkomen
+
+1. Onder overig inkomen wordt verstaan:
+
+- a. een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) met uitzondering van de uitkeringen, bedoeld in [artikel 2:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2026-01-01&g=2026-01-01);
+
+- b. een uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
+
+- c. een uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057);
+
+- d. een uitkering op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656);
+
+- e. een uitkering of inkomensvoorziening op grond van de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
+
+- f. een uitkering op grond van de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822);
+
+- g. een uitkering op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) als bedoeld in [artikel 29, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29), tenzij artikel [2:2, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:2&z=2026-01-01&g=2026-01-01), van toepassing is;
+
+- h. een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043);
+
+- i. een uitkering op grond van de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394);
+
+- j. een uitkering op grond van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795);
+
+- k. een uitkering op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221);
+
+- l. een uitkering op grond van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044);
+
+- m. een uitkering op grond van een pensioenregeling als bedoeld in de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471), op grond van een regeling voor vervroegde uittreding of op grond van functioneel leeftijdsontslag;
+
+- n. een basisbeurs of een aanvullende beurs op grond van de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453);
+
+- o. een uitkering, toeslag of een beurs die naar aard en strekking overeenkomt met een uitkering, toeslag of beurs als bedoeld in de onderdelen a tot en met n;
+
+- p. een uitkering als bedoeld in onderdeel o, waarop recht bestaat, maar die niet wordt uitbetaald, omdat onder de toepasselijke wetgeving gebruik is gemaakt van het daarin voorziene recht af te zien van het recht op die uitkering of de uitbetaling daarvan; en
+
+- q. loon dat uit een vroegere dienstbetrekking wordt genoten.
+
+2. In afwijking van het eerste lid wordt niet als overig inkomen beschouwd:
+
+- a. het bedrag waarmee de uitkering of inkomensvoorziening op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) of de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) is verhoogd wegens hulpbehoevendheid op grond van [artikel 22 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=22), de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=53) of [63 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=63), [artikel 10 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=10), de [artikelen 1a:5](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1a:5), [2:51](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:51) of [3:9 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:9) of een combinatie van deze artikelen;
+
+- b. een eenmalige uitkering die na beëindiging van de dienstbetrekking aan een werknemer in verband met die beëindiging wordt betaald;
+
+- c. periodieke uitkeringen uit hoofde van een stamrecht, dat is verkregen uit een eenmalige uitkering welke na beëindiging van de dienstbetrekking aan de werknemer in verband met die beëindiging is toegekend, mits de werknemer aantoont dat de eenmalige uitkering door de werkgever betaalbaar is gesteld om naar eigen inzicht van de werknemer te besteden;
+
+- d. de uitbetaalde afkoopwaarde van een klein pensioen als bedoeld in [artikel 66 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=66) en [artikel 78 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=78).
+
+3. Indien een uitkering, toeslag of beurs als bedoeld in het eerste lid, geheel of gedeeltelijk wordt geweigerd in verband met enig handelen of nalaten van betrokkene dat hem redelijkerwijs kan worden verweten, wordt voor de toepassing van dit artikel de uitkering, toeslag of beurs in aanmerking genomen als ware deze niet geheel of gedeeltelijk geweigerd.
+
+4. In afwijking van [artikel 2:2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:2&z=2026-01-01&g=2026-01-01), wordt onder overig inkomen mede verstaan een uitkering op grond van [hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&paragraaf=1), indien het recht op die uitkering is ontstaan omdat recht op een uitkering als bedoeld in het eerste lid bestond.
+
+5. Indien een recht op uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) geheel of gedeeltelijk is geëindigd omdat de uitkeringsgerechtigde minder beschikbaar is voor arbeid dan het aantal arbeidsuren dat hij heeft verloren wordt die uitkering in aanmerking genomen alsof die eindiging niet heeft plaatsgevonden.
+
+##### Artikel 2:5. Vakantiebijslag
+
+1. In afwijking van de [artikelen 2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:2&z=2026-01-01&g=2026-01-01), [2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2026-01-01&g=2026-01-01) en [2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:4&z=2026-01-01&g=2026-01-01) wordt vakantiebijslag, vakantiebon of een aanspraak die naar aard en strekking daarmee overeenkomt niet als inkomen uit arbeid of als overig inkomen beschouwd.
+
+2. Indien over het inkomen uit arbeid of overig inkomen geen aanspraak op vakantiebijslag bestaat, wordt van dit inkomen slechts in aanmerking genomen:
+
+100 x B / (100 + A)
+
+waarbij:
+
+A staat voor het percentage van de vakantiebijslag, bedoeld in [artikel 15, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=15); en
+
+B staat voor het inkomen.
+
+3. Het tweede lid is van overeenkomstige toepassing indien de vakantiebijslag wordt betaald als onderdeel van het periodieke loon of als onderdeel van een arbeidsvoorwaardenbedrag.
+
+#### Paragraaf 2. Uitzonderingen
+
+##### Artikel 2:6. Uitzonderingen voor de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
+
+1. Voor het bepalen van inkomen als bedoeld in de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) geldt dat:
+
+- a. in afwijking van [artikel 2:4, eerste lid, onderdelen h, j tot en met l en o](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:4&z=2026-01-01&g=2026-01-01), een uitkering of toeslag als bedoeld in artikel 2:4, eerste lid, onderdelen h, j tot en met l, en een uitkering of toeslag die naar aard en strekking overeenkomt met een uitkering of toeslag als bedoeld in artikel 2:4, eerste lid, onderdelen h, j tot en met l, niet wordt aangemerkt als inkomen;
+
+- b. in afwijking van [artikel 2:4, eerste lid, onderdelen m, o en q](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:4&z=2026-01-01&g=2026-01-01):
+
+- 1°. een uitkering op grond van een particuliere verzekering wegens derving van inkomen, die ten behoeve van de uitkeringsgerechtigde in het kader van een individuele of collectieve arbeidsovereenkomst is afgesloten en het loon, bedoeld in [artikel 2:4, eerste lid, onderdeel q](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:4&z=2026-01-01&g=2026-01-01), wordt aangemerkt als inkomen uit arbeid; en
+
+- 2°. een uitkering als bedoeld in [artikel 2:4, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:4&z=2026-01-01&g=2026-01-01), en een uitkering die naar aard en strekking overeenkomt met een uitkering als bedoeld in artikel 2:4, eerste lid, onderdeel m, wordt aangemerkt als inkomen uit arbeid, met dien verstande dat een weduwen-, weduwnaars- en partnerpensioen niet wordt aangemerkt als inkomen; en
+
+- c. de [artikelen 2:2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:2&z=2026-01-01&g=2026-01-01), [2:3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2026-01-01&g=2026-01-01), en [2:4, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:4&z=2026-01-01&g=2026-01-01), niet van toepassing zijn.
+
+2. Een op grond van de wetgeving van:
+
+- a. een andere mogendheid;
+
+- b. Nederland ten behoeve van de openbare lichamen Bonaire, Sint Eustatius en Saba;
+
+- c. Aruba, Curaçao of Sint Maarten; of
+
+- d. een volkenrechtelijke organisatie,
+
+toegekende uitkering, waaronder mede begrepen een verhoging van een uitkering, die naar aard en strekking overeenkomt met een gehele of een deel van een uitkering als bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=14) of [26 van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=26) anders dan op grond van de vrijwillige verzekering, wordt op de uitkering, bedoeld in de artikelen 14 respectievelijk 26 van de Algemene nabestaandenwet in mindering gebracht.
+
+3. [Artikel 2:4, eerste lid, onderdeel P, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:4&z=2026-01-01&g=2026-01-01), zijn van overeenkomstige toepassing op het tweede lid.
+
+##### Artikel 2:7. Uitzonderingen voor de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
+
+1. Voor het bepalen van inkomen als bedoeld in de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) geldt dat:
+
+- a. in afwijking van [artikel 2:4, eerste lid, onderdelen h, k, l en o](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:4&z=2026-01-01&g=2026-01-01), een uitkering of toeslag als bedoeld in artikel 2:4, eerste lid, onderdelen h, k en l, en een uitkering of toeslag die naar aard en strekking overeenkomt met een uitkering of toeslag als bedoeld in artikel 2:4, eerste lid, onderdelen h, k en l, niet aangemerkt wordt als inkomen;
+
+- b. indien de pensioengerechtigde en zijn echtgenoot samenwerken in de uitoefening van een bedrijf of in de zelfstandige uitoefening van een beroep en de echtgenoot dan wel de pensioengerechtigde geen vergoeding ontvangt ter zake van de in de onderneming verrichte arbeid, ter vaststelling van het deel van de met inachtneming van het bepaalde in [artikel 2:2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:2&z=2026-01-01&g=2026-01-01), berekende winst, dat de echtgenoot toekomt, de winst wordt vermenigvuldigd met de factor X/(X+Y), waarbij: X staat voor het loon van de werknemer, die in dienstbetrekking een gelijkwaardige functie uitoefent als de echtgenoot, en Y staat voor het loon van de werknemer die in dienstbetrekking een gelijkwaardige functie uitoefent als de pensioengerechtigde; en
+
+- c. de [artikelen 2:2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:2&z=2026-01-01&g=2026-01-01), [2:3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2026-01-01&g=2026-01-01), en [2:4, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:4&z=2026-01-01&g=2026-01-01), niet van toepassing zijn.
+
+2. In afwijking van het eerste lid, onderdeel a, en [artikel 1.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=1&artikel=1:1&z=2026-01-01&g=2026-01-01), wordt voor het bepalen van het gezamenlijke inkomen, bedoeld in [artikel 12, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=12) een uitkering van een pensioengerechtigde die naar aard en strekking overeenkomt met een uitkering als bedoeld in [artikel 2:4, eerste lid, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:4&z=2026-01-01&g=2026-01-01), aangemerkt als overig inkomen.
+
+3. Voor de echtgenoot van de pensioengerechtigde waarop [artikel 64a van de Algemene Ouderomdswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=64a) van toepassing is, wordt het inkomen dat is vastgesteld op grond van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=10) en [11 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=11), zoals deze luidden voor de inwerkingtreding van de [Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0029334), eveneens aangemerkt als het inkomen van die echtgenoot in het kader van [artikel 12 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=12).
+
+##### Artikel 2:8. Uitzonderingen voor de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044)
+
+1. Voor het bepalen van inkomen als bedoeld in de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) geldt dat in afwijking van [artikel 2:4, eerste lid, onderdelen l en o](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:4&z=2026-01-01&g=2026-01-01), niet als overig inkomen wordt aangemerkt:
+
+- a. een uitkering als bedoeld in [artikel 2:4, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:4&z=2026-01-01&g=2026-01-01), en een uitkering die naar aard en strekking overeenkomt met een uitkering als bedoeld in artikel 2:4, eerste lid, onderdeel l;
+
+- b. een eenmalige premie die door burgemeester en wethouders kan worden toegekend in het kader van een voorziening gericht op arbeidsinschakeling van ten hoogste € 3.398,00 per kalenderjaar; en
+
+- c. een kostenvergoeding voor het verrichten van vrijwilligerswerk van ten hoogste de in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2), genoemde gezamenlijke waarden per maand en per kalenderjaar.
+
+2. De bedragen, genoemd in het eerste lid, onderdelen b en c, worden gewijzigd indien de ontwikkeling van de in [artikel 31, tweede lid, onderdelen j en k, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=31), genoemde bedragen daartoe aanleiding geeft. De gewijzigde bedragen en de dag waarop deze wijziging ingaat, worden door of namens Onze Minister medegedeeld in de Staatscourant.
+
+3. Voor het bepalen van inkomen als bedoeld in de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) is [artikel 2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:5&z=2026-01-01&g=2026-01-01) niet van toepassing.
+
+##### Artikel 2:9. Uitzonderingen voor de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163)
+
+1. Voor het bepalen van inkomen als bedoeld in [artikel 5, tweede lid, onder 2° en 3°, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=5) geldt dat:
+
+- a. in geval van een gewezen zelfstandige die een onderneming heeft uitgeoefend in de vorm van een naamloze vennootschap of een besloten vennootschap in afwijking van [artikel 2:2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:2&z=2026-01-01&g=2026-01-01), onder belastbare winst uit onderneming wordt verstaan hetgeen ingevolge het bepaalde bij of krachtens [Hoofdstuk II van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II) onder winst wordt verstaan alsmede de betalingen die aan de echtgenoot worden gedaan ter zake van in de onderneming verrichte arbeid;
+
+- b. de winst, bedoeld in onderdeel a, wordt gecorrigeerd met alle geldelijke voor- en nadelen voor de gewezen zelfstandige, die uit diens verhouding tot de besloten of naamloze vennootschap voortvloeien, tenzij het inkomen uit arbeid of overig inkomen betreft als bedoeld in [artikel 2:2, eerste lid, onderdeel a tot en met c, e en f,](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:2&z=2026-01-01&g=2026-01-01) en [artikel 2:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:4&z=2026-01-01&g=2026-01-01);
+
+- c. in aanvulling op [artikel 2:2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:2&z=2026-01-01&g=2026-01-01), mede onder belastbare winst uit onderneming wordt verstaan de partnervergoeding, bedoeld in [artikel 3:16, vierde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.16), indien deze vergoeding € 5.000,– of hoger is, en de winst van de echtgenoot van de gewezen zelfstandige, indien het bedrijf en beroep mede voor rekening van de echtgenoot wordt uitgeoefend;
+
+- d. in afwijking van [artikel 1:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=1&artikel=1:1&z=2026-01-01&g=2026-01-01), en behoudens het bepaalde in onderdeel c onder inkomen uit arbeid en overig inkomen niet wordt verstaan het inkomen van de echtgenoot; en
+
+- e. [artikel 2:8, eerste lid, aanhef en onderdelen b en c, en het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=2&artikel=2:8&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing zijn.
+
+2. Voor het bepalen van inkomen als bedoeld in [artikel 8, eerste lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=8) geldt dat:
+
+- a. in afwijking van [artikel 2:2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:2&z=2026-01-01&g=2026-01-01), belastbare winst uit onderneming niet tot het inkomen wordt gerekend; en
+
+- b. [artikel 2:8, eerste lid, aanhef en onderdelen b en c, en het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=2&artikel=2:8&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing zijn.
+
+### Hoofdstuk 3. Werknemersverzekeringen en [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
+
+### Hoofdstuk 4. Bepaling van het inkomen
+
+##### Artikel 4:1. Vaststelling inkomen
+
+1. Het inkomen voor de toepassing van:
+
+- a. de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394), de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) wordt herleid tot een bedrag per kalendermaand;
+
+- b. de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en de [artikelen 1a:4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1a:4), [2:6](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:6) en [3:2a van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:2a) wordt herleid tot een bedrag per dag.
+
+2. Voor de toepassing van het eerste lid wordt de kalendermaand gesteld op 21,75 dagen. De kalenderweek wordt gesteld op vijf dagen. Het boek- of kalenderjaar wordt gesteld op 261 dagen.
+
+3. Bij de toepassing van het eerste lid wordt het loon of het inkomen in verband met arbeid, bedoeld in [artikel 3:5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2026-01-01&g=2026-01-01), door de uitkeringsgerechtigde geacht te zijn genoten in het aangiftetijdvak waarover de werkgever of de inhoudingsplichtige van dat loon of dat inkomen in verband met arbeid opgave heeft gedaan.
+
+4. Bij de toepassing van het eerste lid worden betalingen van het overig inkomen toegerekend aan de perioden waarin hierop recht bestaat.
+
+5. Bij de toepassing van het eerste lid worden het belastbaar loon, het belastbaar resultaat uit overige werkzaamheden, de belastbare winst uit onderneming en de uitkering, bedoeld in de [artikelen 2:2, eerste lid, onderdelen c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:2&z=2026-01-01&g=2026-01-01), en [3:2, eerste lid, onderdelen c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=1&artikel=3:2&z=2026-01-01&g=2026-01-01), evenredig toegerekend aan de betreffende kalendermaanden in het boek- of kalenderjaar.
+
+6. De SVB of het UWV kunnen op basis van een geschat inkomen een gemiddeld inkomen per kalendermaand bepalen, waarna per periode van ten hoogste twaalf maanden een herberekening plaatsvindt en het gemiddeld inkomen per periode kan worden toegerekend aan maanden in die periode.
+
+7. De SVB of het UWV kan bij de vaststelling van het inkomen het loon dat door de uitkeringsgerechtigde is genoten in een aangiftetijdvak, toerekenen aan de dag waarop dat loon betrekking heeft.
+
+8. De SVB kan bij de vaststelling van het inkomen het in een aangiftetijdvak opgebouwde bedrag aan vakantiebijslag en de in een aangiftetijdvak opgebouwde looncomponenten ten behoeve van een arbeidsvoorwaardenbedrag in aanmerking nemen, waarbij het betaalde bedrag aan vakantiebijslag en de uitbetaalde looncomponenten ten laste van een arbeidsvoorwaardenbedrag niet in aanmerking worden genomen. Het UWV neemt bij de vaststelling van het inkomen het in een aangiftetijdvak opgebouwde bedrag aan vakantiebijslag en de opgebouwde looncomponenten ten behoeve van een arbeidsvoorwaardenbedrag in aanmerking, waarbij het betaalde bedrag aan vakantiebijslag en de uitbetaalde looncomponenten ten laste van een arbeidsvoorwaardenbedrag niet in aanmerking worden genomen.
+
+9. In afwijking van het derde lid, wordt voor de vaststelling van het inkomen voor de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) het inkomen over een aangiftetijdvak van vier weken geacht te zijn genoten in de kalendermaand waarin het aangiftetijdvak van vier weken eindigt.
+
+10. In afwijking van het achtste lid neemt het UWV voor de vaststelling van het inkomen voor de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) het in een aangiftetijdvak betaalde bedrag aan vakantiebijslag en de in een aangiftetijdvak uitbetaalde componenten ten laste van een arbeidsvoorwaardenbedrag in aanmerking voor zover deze componenten zijn aan te merken als loon als bedoeld in [artikel 16 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=16), waarbij de opgebouwde bedragen en looncomponenten niet in aanmerking worden genomen.
+
+11. Indien toepassing van dit artikel leidt tot een kennelijk onredelijk resultaat bepaalt de SVB of het UWV het inkomen op een andere wijze.
+
+12. Het UWV kan bij de toepassing van het eerste lid het genoten inkomen in verband met arbeid, bedoeld in [artikel 3:5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2026-01-01&g=2026-01-01), toerekenen aan de perioden waarin hierop recht bestaat.
+
+##### Artikel 4:2. Vaststelling inkomen voor de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) en de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163)
+
+Voor het bepalen van inkomen als bedoeld in de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) of de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) geldt dat:
+
+- a. Het inkomen uit arbeid of overig inkomen wordt toegerekend aan de perioden waarin hierop recht bestaat en wordt vervolgens herleid tot een bedrag per kalendermaand;
+
+- b. indien op grond van [artikel 21, tweede lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=21) de uitkering over een kortere periode dan een maand wordt uitbetaald, het inkomen en de uitkering eerst per maand vastgesteld worden, waarna de uitkering over een kortere periode naar evenredigheid wordt vastgesteld;
+
+- c. indien aannemelijk is dat een inkomensbestanddeel geen juiste maatstaf biedt voor de bepaling van het in onderdeel a bedoelde inkomen, dat bestanddeel per maand vastgesteld wordt op 1/3 onderscheidenlijk 1/12 van het bedrag, dat over drie maanden onderscheidenlijk een jaar is verworven;
+
+- d. indien winst als bedoeld in [artikel 2:2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:2&z=2026-01-01&g=2026-01-01), wordt genoten, het daaruit voortvloeiende inkomensbestanddeel per maand vastgesteld wordt op 1/12 van de winst, genoten over het kalenderjaar of het niet met het kalenderjaar samenvallend boekjaar, voorafgaand aan de maand waarover aanspraak op uitkering wordt gemaakt; en
+
+- e. indien de toepassing van de onderdelen a tot en met d gelet op het tijdstip van verwerving van een inkomensbestanddeel, tot een kennelijk onredelijk resultaat leidt, het college bepaalt op welke periode dat inkomensbestanddeel geacht moet worden betrekking te hebben en hoe dit geacht moet worden over deze periode te zijn verdeeld.
+
+##### Artikel 4:3. Omrekening
+
+1. Indien het bij de toepassing van dit hoofdstuk noodzakelijk is om niet in euro’s uitgedrukt inkomen om te rekenen in euro’s, geschiedt dat met behulp van de door de Europese Centrale Bank geadviseerde wisselkoersen.
+
+2. Een wijziging van een wisselkoers als bedoeld in het eerste lid beïnvloedt het vastgestelde inkomen niet, met dien verstande dat:
+
+- a. bij wijziging van het inkomen, anders dan ten gevolge van de koersmutaties, een omrekening plaatsvindt; en
+
+- b. ten minste eens per jaar een omrekening plaatsvindt.
+
+### Hoofdstuk 5. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 2:10. Uitzonderingen voor de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
+
+Voor het bepalen van inkomen als bedoeld in de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) geldt in afwijking van de [artikelen 2:2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:2&z=2026-01-01&g=2026-01-01), en [2:4, eerste lid, onderdelen l en o](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:4&z=2026-01-01&g=2026-01-01), dat:
+
+- a. loondoorbetaling wordt aangemerkt als overig inkomen;
+
+- b. niet als inkomen wordt aangemerkt een uitkering als bedoeld in [artikel 2:4, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:4&z=2026-01-01&g=2026-01-01), of een uitkering die naar aard en strekking daarmee overeenkomt; en
+
+- c. indien op grond van [artikel 7, eerste lid, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=7) van het inkomen uit arbeid een gedeelte is vrijgelaten, de op dat inkomen betrekking hebbende uitkeringen op grond van de verplichte verzekering van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), op grond van [hoofdstuk 3, afdeling 2, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&paragraaf=1), [artikel 4:2b](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=4:2b) of [6:3 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=6:3) aan de werknemer of gelijkgestelde, bedoeld in [artikel 3:6, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:6) en op grond van de verplichte verzekering van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), voor zolang de dienstbetrekking voortduurt, alsmede aanvullingen op die uitkeringen als inkomen uit arbeid worden beschouwd.
+
+##### Artikel 2:11. Uitzonderingen voor de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394)
+
+Voor het bepalen van inkomen als bedoeld in de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394) geldt in afwijking van [artikel 2:4, eerste lid, onderdelen h tot en met l en o](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:4&z=2026-01-01&g=2026-01-01), dat niet als overig inkomen wordt aangemerkt:
+
+- a. een uitkering of toeslag als bedoeld in [artikel 2:4, eerste lid, onderdelen h tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:4&z=2026-01-01&g=2026-01-01); of
+
+- b. een uitkering of toeslag die naar aard en strekking overeenkomt met een uitkering of toeslag als bedoeld in onderdeel a.
+
+### Hoofdstuk 3. Werknemersverzekeringen en [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
+
+#### Paragraaf 1. Algemeen
+
+##### Artikel 3:1. Toepassing hoofdstuk 3
+
+Dit hoofdstuk is van toepassing op het bepalen van inkomen als bedoeld in de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) en de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888).
+
+##### Artikel 3:2. Inkomen
+
+1. Onder inkomen wordt verstaan:
+
+- a. hetgeen onder loon wordt verstaan op grond van [artikel 16 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=16) voor de werknemer, bedoeld in [artikel 1, onderdeel o, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=1), met dien verstande dat niet tot het inkomen worden gerekend:
+
+- 1°. uitkeringen op grond van een werknemersverzekering of wachtgeld als bedoeld in [artikel 6, vijfde lid, tweede zin, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=6), al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat;
+
+- 2°. hetgeen wordt genoten uit loondoorbetaling indien het overeengekomen loon niet volledig wordt doorbetaald, al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat;
+
+- b. het loon, bedoeld in [hoofdstuk II van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=II), voor zover de uitkeringsgerechtigde niet als werknemer als bedoeld in onderdeel a inkomen verdient, met dien verstande dat niet tot het inkomen worden gerekend:
+
+- 1°. hetgeen uit een vroegere dienstbetrekking als bedoeld in die wet wordt genoten;
+
+- 2°. de eindheffingsbestanddelen, bedoeld in [artikel 31, eerste lid, onderdelen b tot en met h, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31);
+
+- c. het belastbaar loon of het belastbaar resultaat uit overige werkzaamheden, bedoeld in [paragraaf 3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&paragraaf=3.3.1) onderscheidenlijk [paragraaf 3.4.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&paragraaf=3.4.1), behoudens voor zover het een werkzaamheid betreft als bedoeld in de [artikelen 3.91, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.91), en [3.92 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92), voor zover de uitkeringsgerechtigde geen werknemer is als bedoeld in de onderdelen a en b;
+
+- d. de belastbare winst uit onderneming, bedoeld in [paragraaf 3.2.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&paragraaf=3.2.1), vermeerderd met de ondernemersaftrek en de MKB-winstvrijstelling, bedoeld in de [artikelen 3.74](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.74) en [3.79a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.79a), met dien verstande dat de bestanddelen van de winst, bedoeld in [artikel 3.78, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.78), niet geacht worden te behoren tot de winst;
+
+- e. een uitkering op grond van de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) aan de zelfstandige of de beroepsbeoefenaar op arbeidsovereenkomst, bedoeld in [artikel 3:17, eerste lid, onder a en b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:17) waaronder mede wordt verstaan een uitkering als bedoeld in [artikel 4:2b, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=4:2b), of [artikel 6:3, zevende lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=6:3) aan die persoon.
+
+2. Indien het inkomen, bedoeld in het eerste lid, onderdelen c of d, een negatief bedrag is, dan wordt dat inkomen op nihil gesteld.
+
+3. In afwijking van het eerste lid, wordt niet tot het inkomen gerekend:
+
+inkomen dat is verdiend in uren die reeds via de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) met de uitkering op grond van die wet zijn verrekend.
+
+4. Voor zover de uitkeringsgerechtigde op de dag voorafgaand aan:
+
+- a. de dag waarop het recht op een uitkering op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=18) of [hoofdstuk IV van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV) is ontstaan; of
+
+- b. de eerste dag van de ongeschiktheid tot werken, bedoeld in [artikel 29, derde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29), in geval de uitkeringsgerechtigde recht heeft op een uitkering op grond van artikel 29, tweede lid, van de Ziektewet,
+
+inkomen als bedoeld in het eerste lid, ontvangt uit andere werkzaamheden dan de werkzaamheden waaruit het recht op de uitkering op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=18) of [hoofdstuk IV van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV) of [artikel 29, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29) is ontstaan, wordt dat inkomen niet in aanmerking genomen voor die uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) respectievelijk de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888).
+
+5. Voor zover de uitkeringsgerechtigde die recht heeft op een uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) op de dag voorafgaand aan de eerste dag van de wachttijd, bedoeld in [artikel 23 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=23), inkomen ontvangt als bedoeld in eerste lid, onderdelen b tot en met d, uit andere werkzaamheden dan de werkzaamheden waaruit het recht op uitkering is ontstaan, wordt dat inkomen niet in aanmerking genomen voor de uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen.
+
+6. Voor zover een uitkeringsgerechtigde die recht heeft op een uitkering op grond van [artikel 29, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29):
+
+- a. op de dag voorafgaand aan de eerste dag van de ongeschiktheid tot werken, bedoeld in [artikel 29, derde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29), recht had op een uitkering op grond van de [artikelen 3:7](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:7), [3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:8), [3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:9) of [3:10 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:10); en
+
+- b. op de dag voorafgaand aan de dag waarop dat recht op een uitkering op grond van de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) is ontstaan inkomen als bedoeld in het eerste lid, onderdeel a, ontvangt uit een andere dienstbetrekking dan de dienstbetrekking waaruit het recht op hiervoor genoemde uitkering op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) is ontstaan;
+
+wordt dat inkomen niet in aanmerking genomen.
+
+7. Voor zover een uitkeringsgerechtigde die recht heeft op een uitkering op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=18) of [hoofdstuk IV van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV):
+
+- a. op de dag voorafgaand aan de dag waarop het recht op een uitkering op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=18) of [hoofdstuk IV van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV) is ontstaan recht had op een uitkering op grond van de [artikelen 3:7](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:7), [3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:8), [3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:9) of [3:10 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:10); en
+
+- b. op de dag voorafgaand aan de dag waarop dat recht op een uitkering op grond van de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) is ontstaan inkomen als bedoeld in het eerste lid, onderdeel a, ontvangt uit een andere dienstbetrekking dan de dienstbetrekking waaruit het recht op hiervoor genoemde uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) is ontstaan;
+
+wordt dat inkomen niet in aanmerking genomen.
+
+8. Indien een uitkeringsgerechtigde inkomen als bedoeld in het eerste lid ontvangt uit dezelfde werkzaamheden als de werkzaamheden waaruit een recht op uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), [artikel 29, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29) of [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) of recht op loondoorbetaling bestaat, wordt dat inkomen uitsluitend in aanmerking genomen voor die uitkering of loondoorbetaling.
+
+9. Indien de uitkeringsgerechtigde:
+
+- a. een recht op uitkering heeft op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), [artikel 29, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29) of de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) dan wel recht bestaat op loondoorbetaling;
+
+- b. daarnaast een recht op uitkering heeft op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), [artikel 29, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29) of de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) dan wel recht bestaat op loondoorbetaling; en
+
+- c. inkomen als bedoeld in het eerste lid ontvangt uit werkzaamheden die zijn aangevangen nadat het eerste recht op uitkering of loondoorbetaling is ontstaan, uit andere werkzaamheden dan de werkzaamheden waaruit de rechten op uitkering of loondoorbetaling zijn ontstaan en voordat het tweede recht op uitkering of loondoorbetaling is ontstaan,
+
+wordt dat inkomen in aanmerking genomen voor de uitkering of loondoorbetaling waarvan het recht als eerste is ontstaan.
+
+10. Indien de uitkeringsgerechtigde:
+
+- a. een recht op uitkering heeft op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), [artikel 29, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29) of de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) dan wel recht bestaat op loondoorbetaling;
+
+- b. daarnaast een recht op uitkering heeft op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), [artikel 29, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29) of de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) dan wel recht bestaat op loondoorbetaling; en
+
+- c. daarna inkomen als bedoeld in het eerste lid ontvangt uit andere werkzaamheden dan de werkzaamheden waaruit de rechten op uitkering of loondoorbetaling zijn ontstaan,
+
+dan wordt dat inkomen in aanmerking genomen voor de uitkering of loondoorbetaling waarvan het recht als tweede is ontstaan.
+
+11. In afwijking van het tiende lid, wordt, indien de uitkeringsgerechtigde:
+
+- a. een recht op uitkering heeft op grond van [artikel 29, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29) dan wel recht heeft op loondoorbetaling;
+
+- b. een recht op uitkering heeft op grond van [artikel 29, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29) dan wel recht heeft op loondoorbetaling; en
+
+- c. daarna inkomen als bedoeld in het eerste lid ontvangt uit andere werkzaamheden dan de werkzaamheden waaruit de rechten op uitkering of loondoorbetaling zijn ontstaan,
+
+dat inkomen pro rata in aanmerking genomen voor de twee uitkeringen of rechten op loondoorbetaling.
+
+12. In afwijking van het achtste en negende lid wordt, indien de uitkeringsgerechtigde recht heeft op twee reguliere WW-uitkeringen en daarnaast inkomen als bedoeld in het eerste lid ontvangt, dat inkomen in aanmerking genomen voor de uitkering waarvan het recht als tweede is ontstaan.
+
+13. In afwijking van het negende en tiende lid wordt, indien de uitkeringsgerechtigde recht heeft op:
+
+- a. een reguliere WW-uitkering;
+
+- b. een uitkering op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=18) of [hoofdstuk IV van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV); en
+
+- c. tevens inkomen als bedoeld in het eerste lid ontvangt,
+
+het inkomen in aanmerking genomen voor de reguliere WW-uitkering.
+
+14. In afwijking van het achtste, negende en tiende lid wordt, indien de uitkeringsgerechtigde recht heeft op:
+
+- a. een reguliere WW-uitkering;
+
+- b. een uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057); en
+
+- c. tevens inkomen als bedoeld in het eerste lid ontvangt,
+
+het inkomen in aanmerking genomen voor de reguliere WW-uitkering.
+
+15. In afwijking van het negende en tiende lid wordt, indien de uitkeringsgerechtigde recht heeft op:
+
+- a. een uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057);
+
+- b. een uitkering op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=18) of [hoofdstuk IV van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV); en
+
+- c. tevens inkomen als bedoeld in het eerste lid ontvangt,
+
+het inkomen in aanmerking genomen voor de uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057).
+
+16. In afwijking van het tiende lid wordt, indien de uitkeringsgerechtigde recht heeft op:
+
+- a. een uitkering op grond van [artikel 29, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29);
+
+- b. een uitkering op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=18) of [hoofdstuk IV van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV); en
+
+- c. tevens inkomen als bedoeld in het eerste lid ontvangt,
+
+het inkomen in aanmerking genomen voor de uitkering op grond van [artikel 29, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29).
+
+17. In afwijking van het tiende lid wordt, indien de uitkeringsgerechtigde recht heeft op:
+
+- a. een uitkering op grond van [artikel 18 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=18);
+
+- b. een uitkering op grond van [hoofdstuk IV van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV); en
+
+- c. tevens inkomen als bedoeld in het eerste lid, onderdeel a, ontvangt,
+
+het inkomen in aanmerking genomen voor de op grond van [hoofdstuk IV van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV) ontstane uitkering.
+
+18. In afwijking van het negende en veertiende lid wordt, indien een uitkeringsgerechtigde recht heeft op:
+
+- a. een uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057);
+
+- b. een reguliere WW-uitkering; en
+
+- c. na aanvang van de wachttijd, bedoeld in [artikel 23 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=23), tevens inkomen ontvangt als bedoeld in het eerste lid, onderdeel b, c, d of e ontvangt,
+
+het inkomen in aanmerking genomen voor de uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057).
+
+19. Voor de toepassing van het achtste, negende, tiende, veertiende tot en met zestiende lid geldt dat, indien het inkomen, bedoeld in het eerste lid, meer bedraagt dan het dag- of maandloon op grond waarvan de uitkering waarvoor dat inkomen in aanmerking is genomen, wordt berekend, wordt dat meerdere in aanmerking genomen voor de andere uitkering.
+
+20. Indien de uitkeringsgerechtigde voor wie een van de leden acht tot en met achttien van toepassing is met verlof gaat of recht ontstaat op een uitkering die voorafgaat aan een uitkering bij wijze van oudedagsvoorziening of het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), wordt voor de toepassing van het achtste, tot en met negentiende lid het inkomen dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin het verlof aanving respectievelijk het recht op die uitkering ontstond aangemerkt als inkomen als bedoeld in het eerste lid.
+
+##### Artikel 3:3. Uitbreiding inkomen
+
+1. Ingeval van een uitkeringsgerechtigde voor wie naast recht op een uitkering op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=18) of [hoofdstuk IV van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV) of [artikel 29, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29) recht ontstaat op:
+
+- a. loondoorbetaling, indien het overeengekomen loon niet volledig wordt doorbetaald;
+
+- b. een uitkering als bedoeld in [hoofdstuk IV van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV) of een op basis van een wettelijke regeling verstrekte uitkering die naar aard en strekking daarmee overeenkomt;
+
+- c. een uit een dienstbetrekking voortvloeiende periodieke uitkering bij wijze van oudedagsvoorziening, dan wel een uitkering die voorafgaat aan die uitkering of het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), of een op basis van een wettelijke regeling verstrekte uitkering die naar aard en strekking daarmee overeenkomt;
+
+- d. een op basis van een wettelijke regeling verstrekte uitkering die naar aard en strekking overeenkomt met een uitkering als bedoeld in het vierde lid,
+
+wordt tevens onder inkomen verstaan het inkomen, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=1&artikel=3:2&z=2026-01-01&g=2026-01-01), dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin recht ontstond op loon, bezoldiging respectievelijk uitkering. Dit lid is uitsluitend van toepassing indien het recht op uitkering, bezoldiging of loon is ontstaan uit hoofde van werkzaamheden die zijn gestart nadat het recht op uitkering op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=18) of [hoofdstuk IV van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV) of [artikel 29, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29) is ontstaan.
+
+2. Ingeval van een uitkeringsgerechtigde voor wie naast recht op een uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) of recht op een reguliere WW-uitkering recht bestaat op:
+
+- a. loondoorbetaling, indien het overeengekomen loon niet volledig wordt doorbetaald;
+
+- b. een uitkering als bedoeld in [hoofdstuk IV van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV) of een op basis van een wettelijke regeling verstrekte uitkering die naar aard en strekking daarmee overeenkomt;
+
+- c. een uit een dienstbetrekking voortvloeiende periodieke uitkering bij wijze van oudedagsvoorziening, dan wel een uitkering die voorafgaat aan die uitkering of het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), of een op basis van een wettelijke regeling verstrekte uitkering die naar aard en strekking daarmee overeenkomt;
+
+- d. een op basis van een wettelijke regeling verstrekte uitkering die naar aard en strekking overeenkomt met:
+
+- 1°. uitkering als bedoeld in het vijfde lid, onderdeel a; of
+
+- 2°. uitkering als bedoeld in het vijfde lid, onderdeel b, met uitzondering van een bovenwettelijke werkloosheidsuitkering voor overheidswerknemers als bedoeld in [artikel 1, onderdeel j, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=1)
+
+wordt tevens onder inkomen verstaan het inkomen, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=1&artikel=3:2&z=2026-01-01&g=2026-01-01), dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin recht ontstond op loon, bezoldiging respectievelijk uitkering.
+
+3. Indien de uitkeringsgerechtigde die recht heeft op een uitkering op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=18) of [hoofdstuk IV van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV) of [artikel 29, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29) met verlof gaat, wordt tevens onder inkomen verstaan het inkomen als bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=1&artikel=3:2&z=2026-01-01&g=2026-01-01), dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin het verlof aanving, mits het recht op verlof is ontstaan uit werkzaamheden die zijn gestart nadat een eerder recht op uitkering op grond van artikel 18 of hoofdstuk IV van de Werkloosheidswet of artikel 29, tweede lid, van de Ziektewet is ontstaan.
+
+4. Indien voor de uitkeringsgerechtigde voor wie naast recht op een uitkering op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=18) of [hoofdstuk IV van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV) of [artikel 29, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29), recht ontstaat op:
+
+- a. een uitkering op grond van [artikel 29, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29); of
+
+- b. een uitkering op grond van [artikel 18 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=18),
+
+wordt tevens onder inkomen verstaan het dag- of maandloon op grond waarvan de uitkering, bedoeld in onderdeel a of b, wordt berekend, mits dat recht op uitkering is ontstaan uit hoofde van werkzaamheden die zijn gestart nadat het recht op uitkering op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=18) of [hoofdstuk IV van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV) of [artikel 29, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29) is ontstaan.
+
+5. Indien voor de uitkeringsgerechtigde naast een recht op uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) recht bestaat op:
+
+- a. een uitkering op grond [artikel 29, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29); of
+
+- b. een reguliere WW-uitkering of een uitkering op grond van [artikel 18 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=18),
+
+wordt tevens onder inkomen verstaan het dag- of maandloon op grond waarvan de uitkering, bedoeld in onderdeel a of b, wordt berekend.
+
+6. In geval van een uitkeringsgerechtigde voor wie naast een reguliere WW-uitkering, recht bestaat op:
+
+- a. een uitkering op grond van [artikel 29, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29); of
+
+- b. een uitkering op grond van [artikel 18 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=18);
+
+wordt tevens onder inkomen verstaan het dag- of maandloon op grond waarvan de uitkering, bedoeld in onderdeel a of b, wordt berekend.
+
+7. In geval van een uitkeringsgerechtigde voor wie naast een reguliere WW-uitkering nog een recht ontstaat op een reguliere WW-uitkering,
+
+wordt het maandloon van de laatst ontstane uitkering aangemerkt als inkomen voor het eerst ontstane recht.
+
+8. Indien de uitkeringsgerechtigde, die recht heeft op een reguliere WW-uitkering of op een uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) met verlof is, wordt tevens onder inkomen verstaan het inkomen als bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=1&artikel=3:2&z=2026-01-01&g=2026-01-01), dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin het verlof aanving.
+
+9. Voor zover de uitkeringsgerechtigde die recht heeft op een uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) op de dag voorafgaand aan de eerste dag van de wachttijd, bedoeld in [artikel 23 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=23), recht heeft op een uitkering als bedoeld in het tweede lid, onderdeel c, wordt die uitkering niet aangemerkt als inkomen.
+
+10. Indien geen recht op loondoorbetaling bestaat door toepassing van [artikel 629, derde of negende lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) of een algemeen verbindend voorschrift als bedoeld in [artikel 76b, eerste tot en met het derde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76b), of op gronden die naar aard en strekking daarmee overeenkomen, wordt voor de toepassing van dit artikel het loon of bezoldiging in aanmerking genomen als ware er wel recht op doorbetaling.
+
+11. Indien de uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) is geëindigd omdat de uitkeringsgerechtigde niet beschikbaar is voor arbeid, wordt die uitkering in aanmerking genomen alsof die eindiging niet heeft plaatsgevonden.
+
+12. Na het bepalen van het inkomen op grond van het vierde tot en met zesde lid wordt voor de toepassing van die leden het dagloon niet herzien als bedoeld in de [artikelen 16 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=16) of [1b, zevende lid van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=1b).
+
+13. Indien er sprake is van een per aangiftetijdvak wisselend inkomen, wordt, in afwijking van het eerste, tweede, derde of achtste lid of [artikel 3:2, twintigste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=1&artikel=3:2&z=2026-01-01&g=2026-01-01) als inkomen aangemerkt het gemiddelde van het inkomen in de drie aangiftetijdvakken voor het aangiftetijdvak waarin het recht ontstond op de doorbetaling van loon, bezoldiging of uitkering, bedoeld in het eerste of tweede lid, of [artikel 3:2, twintigste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=1&artikel=3:2&z=2026-01-01&g=2026-01-01), of het verlof, bedoeld in het derde of achtste lid, aanving, met dien verstande dat bij de toepassing van dit lid het veertiende lid van overeenkomstige toepassing is.
+
+14. Indien het inkomen in het voorliggende aangiftetijdvak, bedoeld in het eerste, tweede, derde, achtste of dertiende lid, of [artikel 3:2, twintigste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=1&artikel=3:2&z=2026-01-01&g=2026-01-01), minder bedraagt dan het inkomen, de loondoorbetaling, bezoldiging of uitkering in het te vervangen aangiftetijdvak, bedoeld in de genoemde leden, wordt in afwijking van de genoemde leden, als inkomen aangemerkt het inkomen dat, of de loondoorbetaling, bezoldiging of uitkering die is genoten in het te vervangen aangiftetijdvak.
+
+15. Bij de toepassing van het eerste, tweede, derde, achtste, dertiende of veertiende lid, of [artikel 3:2, twintigste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=1&artikel=3:2&z=2026-01-01&g=2026-01-01), wordt het betaalde bedrag aan vakantiebijslag en het betaalde arbeidsvoorwaardenbedrag:
+
+- a. tevens onder inkomen verstaan voor zover dat bedrag is betaald in het te vervangen aangiftetijdvak, bedoeld in de genoemde leden, en dat bedrag nog niet in aanmerking is genomen;
+
+- b. niet onder inkomen verstaan voor zover dat bedrag is betaald in het voorliggende aangiftetijdvak, bedoeld in de genoemde leden, en dat bedrag reeds als inkomen in aanmerking is genomen.
+
+#### Paragraaf 2. Uitzonderingen
+
+##### Artikel 3:4. Uitzonderingen voor de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
+
+1. Voor het bepalen van het inkomen, bedoeld in [artikel 52, vierde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=52), geldt dat het loon dat door de werkgever wordt betaald, voordat het recht op loondoorbetaling, bedoeld in [artikel 629, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) voor het eerst is geëindigd, niet als inkomen wordt aangemerkt, indien:
+
+- a. sprake is van een verkorte wachttijd als bedoeld in [artikel 23, zesde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=23);
+
+- b. de uitkeringsgerechtigde geen recht had op een WGA-uitkering omdat hij minder dan 35% arbeidsongeschikt was na afloop van de wachttijd, bedoeld in [artikel 23, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=23) en de volledige en duurzame arbeidsongeschiktheid intreedt binnen vijf jaar daarna en voortkomt uit dezelfde oorzaak als op grond waarvan hij gedurende die wachttijd ongeschikt was tot het verrichten van arbeid; of
+
+- c. de uitkeringsgerechtigde op de dag voorafgaand aan het intreden van de volledige en duurzame arbeidsongeschiktheid recht had op een WGA-uitkering.
+
+2. Voor het bepalen van het inkomen, bedoeld in de [artikelen 60, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=60), en [61, tweede en vierde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=61), geldt dat:
+
+- a. indien de uitkeringsgerechtigde recht heeft op een uitkering op grond van [artikel 29, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29), [artikel 3:2, achtste, negende of tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=1&artikel=3:2&z=2026-01-01&g=2026-01-01), uitsluitend van toepassing is indien de dienstbetrekking voortduurt op grond waarvan het recht op uitkering ontstond;
+
+- b. [artikel 3:3, tweede lid, onderdeel d, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=1&artikel=3:3&z=2026-01-01&g=2026-01-01), uitsluitend van toepassing is indien de dienstbetrekking voortduurt op grond waarvan het recht op uitkering ontstond;
+
+- c. [artikel 3:3, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=1&artikel=3:3&z=2026-01-01&g=2026-01-01), uitsluitend van toepassing is indien het verlof als bedoeld in de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) betreft;
+
+- d. [artikel 3:3, vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=1&artikel=3:3&z=2026-01-01&g=2026-01-01), uitsluitend van toepassing is, indien de dienstbetrekking voortduurt op grond waarvan het recht op uitkering ontstond;
+
+- e. indien de uitkeringsgerechtigde recht heeft op een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) zijn [artikelen 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=1&artikel=3:2&z=2026-01-01&g=2026-01-01) en [3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=1&artikel=3:3&z=2026-01-01&g=2026-01-01) niet van toepassing met dien verstande dat onder inkomen wordt verstaan:
+
+- 1°. indien het een reguliere WW-uitkering of een uitkering op grond van [hoofdstuk III van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=III) betreft, het inkomen, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=1&artikel=3:2&z=2026-01-01&g=2026-01-01);
+
+- 2°. indien het een WW-uitkering op grond van [hoofdstuk IV van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV) of een naar aard en strekking overeenkomstige regeling betreft, het inkomen, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=1&artikel=3:2&z=2026-01-01&g=2026-01-01), dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin recht ontstond op die uitkering en het inkomen, bedoeld in artikel 3:2, eerste lid, tenzij dat inkomen wordt ontvangen uit de dienstbetrekking waaruit de uitkeringsgerechtigde werkloos is geworden;
+
+- 3°. indien het een uitkering op grond van [artikel 18 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=18) betreft, het dagloon op grond waarvan die uitkering wordt berekend en het inkomen, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=1&artikel=3:2&z=2026-01-01&g=2026-01-01), tenzij dat inkomen wordt ontvangen uit de dienstbetrekking waaruit de uitkeringsgerechtigde werkloos is geworden.
+
+##### Artikel 3:5. Uitzonderingen voor de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
+
+1. [Artikel 3:2, eerste lid, onderdeel b, c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=1&artikel=3:2&z=2026-01-01&g=2026-01-01), is niet van toepassing bij de vaststelling van het inkomen voor de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), tenzij
+
+- a. deze onderdelen betrekking hebben op bezoldiging in verband met het uitoefenen van werkzaamheden als lid van de Eerste Kamer der Staten-Generaal, van een vertegenwoordigend orgaan van een publiekrechtelijk lichaam, dat bij rechtstreekse verkiezing wordt samengesteld, of van een algemeen bestuur van een waterschap;
+
+- b. [artikel 3:2, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=1&artikel=3:2&z=2026-01-01&g=2026-01-01), betrekking heeft op een uitkering als bedoeld in [artikel 4:2b, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=4:2b), of [artikel 6:3, zevende lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=6:3).
+
+2. [Artikel 3:3, eerste lid, onderdeel c en tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=1&artikel=3:3&z=2026-01-01&g=2026-01-01) zijn niet van toepassing bij de vaststelling van inkomen voor de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045).
+
+3. Voor zover de uitkeringsgerechtigde op de dag voorafgaand aan de eerste dag van werkloosheid, bedoeld in [artikel 16a van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16a), inkomen ontvangt als bedoeld in het eerste lid, wordt dat inkomen niet in aanmerking genomen voor de uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045).
+
+4. Voor de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) wordt als inkomen in verband met arbeid beschouwd:
+
+- a. een uit een dienstbetrekking voortvloeiende periodieke uitkering bij wijze van oudedagsvoorziening, dan wel een uitkering die voorafgaat aan die uitkering of het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a);
+
+- b. een uitkering op grond van het bepaalde bij of krachtens dan wel op de voet van de [Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691); en
+
+- c. een wettelijke buitenlandse uitkering wegens arbeidsongeschiktheid.
+
+5. In afwijking van het vierde lid, onderdeel a, wordt niet tot het inkomen in verband met arbeid gerekend de uitkering, bedoeld in het vierde lid, onderdeel a, indien die uitkering door de uitkeringsgerechtigde voor het intreden van de werkloosheid werd ontvangen en die samenhangt met een eerder verlies van arbeidsuren.
+
+6. In afwijking van het vierde lid, onderdeel b, wordt de uitkering op grond van het bepaalde bij of krachtens dan wel op de voet van de [Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691), voor een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) niet tot inkomen in verband met arbeid gerekend, indien die uitkering:
+
+- a. door de uitkeringsgerechtigde reeds voor het intreden van de werkloosheid werd ontvangen naast de dienstbetrekking waaruit hij werkloos is geworden; of
+
+- b. door de uitkeringsgerechtigde na het intreden van de werkloosheid wordt ontvangen uit werkzaamheden die voor het intreden van de werkloosheid reeds werden verricht naast de dienstbetrekking waaruit de werkloosheid is ontstaan of een dienstbetrekking waarvoor de dienstbetrekking waaruit de werkloosheid is ontstaan in de plaats is getreden.
+
+7. In afwijking van het vierde lid, onderdeel a, wordt niet tot inkomen in verband met arbeid gerekend een uitkering die door de uitkeringsgerechtigde reeds werd ontvangen voorafgaand aan het ontstaan van de dienstbetrekking waaruit het recht op uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) is ontstaan.
+
+8. In afwijking van het vierde lid, onderdeel a, wordt niet tot inkomen in verband met arbeid gerekend het inkomen dat op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) reeds in aanmerking genomen is voor een uitkering op grond van de Werkloosheidswet.
+
+##### Artikel 3:6. Uitzonderingen voor de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
+
+1. Bij het bepalen van het inkomen, bedoeld in de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), zijn de [artikelen 2:2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:2&z=2026-01-01&g=2026-01-01), [2:4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:4&z=2026-01-01&g=2026-01-01), [2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:5&z=2026-01-01&g=2026-01-01) en [3:3, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=1&artikel=3:3&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing.
+
+2. Bij het bepalen van het inkomen, bedoeld in het eerste lid wordt, in afwijking van [artikel 3:2, eerste lid, onderdeel a, onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=3&paragraaf=1&artikel=3:2&z=2026-01-01&g=2026-01-01), onder inkomen verstaan hetgeen onder loon wordt verstaan op grond van [artikel 16 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=16) voor de werknemer, bedoeld in [artikel 1, onderdeel o, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=1).
+
+3. Bij het bepalen van het inkomen, bedoeld in het eerste lid, wordt tevens onder inkomen verstaan:
+
+- a. hetgeen wordt genoten op grond van een wettelijke regeling die naar aard en strekking overeenkomt met een uitkering op grond van een werknemersverzekering;
+
+- b. hetgeen wordt genoten op grond van een wettelijke regeling die naar aard en strekking overeenkomt met [artikel 629 van Boek 7 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) of daarmee overeenkomende regeling die geldt voor een werknemer met een publiekrechtelijke dienstbetrekking; en
+
+- c. een uit een dienstbetrekking voortvloeiende periodieke uitkering bij wijze van oudedagsvoorziening, dan wel een uitkering die voorafgaat aan die uitkering of het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a).
+
+4. Bij het bepalen van het inkomen, bedoeld in het eerste lid, wordt in afwijking van het derde lid niet tot het inkomen gerekend:
+
+- a. een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043); en
+
+- b. de aanvulling op een uitkering op grond van een werknemersverzekering van degene tot wie de werknemer in dienstbetrekking staat.
+
+### Hoofdstuk 4. Bepaling van het inkomen
+
+##### Artikel 4:2a. Uitzonderingen voor de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
+
+Vervallen
+
+##### Artikel 4:2b. Uitzonderingen voor de vaststelling van het inkomen
+
+Vervallen
+
+### Hoofdstuk 5. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 5:1a. Overgangsrecht in verband met de [Wet werk en zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBR0035254)
+
+1. Indien:
+
+- a. meer dan een recht op uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) dan wel de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) bestaat;
+
+- b. voor de uitkeringsgerechtigde zowel het Algemeen inkomensbesluit socialezekerheidswetten van toepassing zou zijn, zoals dat luidde voor het tijdstip van inwerkingtreding van [artikel XXVI, onderdeel S, van de Wet werk en zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBR0035254&artikel=XXVI), als het Algemeen inkomensbesluit sociale zekerheidswetten, zoals dat luidde na het tijdstip van inwerkingtreding van artikel XXVI, onderdeel S, onderdeel V dan wel onderdeel C van de Wet werk en zekerheid; en
+
+- c. inkomen, verrekend zou worden met een andere uitkering op grond van het Algemeen inkomensbesluit socialezekerheidswetten, zoals dat luidde voor het tijdstip van inwerkingtreding van [artikel XXVI, onderdeel S, van de Wet werk en zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBR0035254&artikel=XXVI) dan op grond van het eveneens van toepassing zijnde Algemeen inkomensbesluit socialezekerheidswetten, zoals dat luidde na dat tijdstip,
+
+dan wordt de op de samenloop betrekking hebbende bepaling uit Algemeen inkomensbesluit socialezekerheidswetten toegepast, zoals die bepaling luidde voor het tijdstip van inwerkingtreding van [artikel XXVI, onderdeel S, van de Wet werk en zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBR0035254&artikel=XXVI).
+
+2. Het eerste lid is niet langer van toepassing als er sprake is van een recht op uitkering op grond van [hoofdstuk II van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=II), niet zijnde een uitkering op grond van [artikel 18 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=18), dat op grond van [artikel 130z](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=130z) of [130aa van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=130aa) is omgezet.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 5:1b. Overgangsrecht in verband met het vaststellen van inkomen in verband met [artikel 8 BBA 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&artikel=8)
+
+[Artikel 2:3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2026-01-01&g=2026-01-01), zoals dat luidde voor de inwerkingtreding van artikel I, onderdeel A, van het besluit van 18 juni 2015, houdende wijziging van enige algemene maatregelen van bestuur in verband met de Wet werk en zekerheid, het invoeren van een ontheffing in verband met de zorg voor een pasgeboren kind bij overlijden van de moeder, een wijziging van het Remigratiebesluit in verband met de berekenwijze van de jaarlijkse indexatie van de remigratie-uitkeringen, het vrijlaten van de afkoopsom klein pensioen voor verschillende uitkeringen in het Algemeen inkomensbesluit socialezekerheidswetten alsmede enkele technische wijzigingen in enkele besluiten (Stb. 242), blijft van toepassing op de uitkeringsgerechtigde die recht heeft op een uitkering in verband met werkloosheid die uitsluitend het gevolg is van verkorting van de werktijd, waarvoor op grond van [artikel 8, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&artikel=8) ontheffing is verleend.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 5:1c. Overgangsrecht in verband met aanpassingen vanwege het arbeidsvoorwaardenbedrag
+
+Over de periode van 1 juli 2021 tot 1 januari 2022 wordt in afwijking van [artikel 4:1, achtste en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&hoofdstuk=4&artikel=4:1&z=2026-01-01&g=2026-01-01), voor de vaststelling van het inkomen voor de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), het uitbetaalde bedrag aan vakantiebijslag als inkomen aangemerkt.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

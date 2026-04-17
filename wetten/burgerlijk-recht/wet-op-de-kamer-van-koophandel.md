@@ -1,14 +1,41 @@
 ---
-title: "Wet op de Kamer van Koophandel"
+title: "Wet van 25 november 2013, houdende regels omtrent de Kamer van Koophandel (Wet op de Kamer van Koophandel)"
 identifier: "BWBR0034331"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2021-07-01
-laatste_update: 2021-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034331"
+country: "nl"
+rank: "wet"
+publication_date: "2021-07-01"
+last_updated: "2021-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034331"
+soort: "wet"
+stam_id: "12469573"
+version_id: "20964162"
+internal_id: "C30439291"
+label_id: "12441304"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034331/2021-07-01/0"
+intitule_bron: "Stb.2013-507"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-11-25"
+intitule_published: "2013-12-10"
+intitule_in_force: "2013-12-10"
+intitule_status: "goed"
+original_publication: "Stb.2013-507"
+original_signed_date: "2013-11-25"
+original_published_date: "2013-12-10"
+original_effect: "nieuwe-regeling"
+original_dossier: "33553"
+original_url_id: "stb-2013-507"
+entry_into_force_date: "2014-01-01"
+jci_1_3: "jci1.3:c:BWBR0034331&z=2021-07-01&g=2021-07-01"
+jci_1_0: "1.0:c:BWBR0034331&g=2021-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet op de Kamer van Koophandel"
+signed_date: "2013-11-25"
+entry_into_force: "2014-01-01"
 ---
-
-# Wet op de Kamer van Koophandel
+# Wet van 25 november 2013, houdende regels omtrent de Kamer van Koophandel (Wet op de Kamer van Koophandel)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. **Algemeen**
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -34,7 +61,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 2. **Instelling en indeling van de Kamer**
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Kamer van Koophandel die tot doel heeft het stimuleren van economische ontwikkeling door middel van het informeren en ondersteunen op het gebied van ondernemen en innovatie van personen die een onderneming drijven of overwegen een onderneming op te richten.
 
@@ -42,7 +69,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 3. De Kamer bezit rechtspersoonlijkheid.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Kamer stelt regio’s vast en stelt per regio één of meer regionale vestigingen in.
 
@@ -52,7 +79,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 4. Bij ministeriële regeling kunnen regels worden gesteld ten aanzien van de instelling en opheffing van regio’s en regionale vestigingen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Kamer stelt regionale ondernemerspleinen in, welke worden ondergebracht bij regionale vestigingen.
 
@@ -64,7 +91,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 5. Onze Minister kan bij regeling voorschriften geven voor deelneming aan ondernemerspleinen, waaronder voorschriften die deelneming in bepaalde gevallen of door bepaalde organisaties uitsluit, beperkt of onderwerpt aan zijn voorafgaande instemming.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties draagt zorg voor de inrichting, instandhouding, werking en beveiliging van een digitaal ondernemersplein met behulp waarvan ten behoeve van personen die een onderneming drijven of overwegen een onderneming op te richten:
 
@@ -76,13 +103,13 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 3. **Samenstelling van de Kamer**
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Kamer bestaat uit een voorzitter en ten hoogste vier overige leden.
 
 2. De leden oefenen hun functie uit zonder last of ruggespraak.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De leden van de Kamer worden benoemd op voordracht van de Kamer.
 
@@ -92,7 +119,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 4. Onze Minister kan een tijdstip bepalen waarop een voordracht als bedoeld in het tweede of derde lid moet zijn gedaan. Indien op dat tijdstip de voordracht niet is gedaan, kan zonder voordracht worden benoemd.
 
-#### Artikel 8
+##### Artikel 8
 
 De leden van de Kamer worden benoemd voor een periode van vier jaren. Zij kunnen ten hoogste tweemaal worden herbenoemd.
 
@@ -100,7 +127,7 @@ De leden van de Kamer worden benoemd voor een periode van vier jaren. Zij kunnen
 
 #### § 1. **Centrale Raad**
 
-#### Artikel 9
+##### Artikel 9
 
 1. Er is een Centrale Raad, bestaande uit ten hoogste twaalf leden.
 
@@ -108,7 +135,7 @@ De leden van de Kamer worden benoemd voor een periode van vier jaren. Zij kunnen
 
 3. Een lid van de Centrale Raad kan niet tevens lid zijn van de Kamer of in dienst zijn van de Kamer.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Onze Minister benoemt, schorst en ontslaat de leden van de Centrale Raad.
 
@@ -124,11 +151,11 @@ De leden van de Kamer worden benoemd voor een periode van vier jaren. Zij kunnen
 
 7. De Kamer zendt een voordracht niet aan Onze Minister dan nadat hij heeft vastgesteld dat deze in overeenstemming is met de bepalingen van dit artikel.
 
-#### Artikel 11
+##### Artikel 11
 
 Onze Minister stelt de schadeloosstelling van de leden van de Centrale Raad vast.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De leden van de Centrale Raad worden benoemd voor een periode van vier jaren. Zij treden tegelijk af en kunnen ten hoogste eenmaal worden herbenoemd.
 
@@ -136,7 +163,7 @@ Onze Minister stelt de schadeloosstelling van de leden van de Centrale Raad vast
 
 #### § 2. **Regionale raden**
 
-#### Artikel 13
+##### Artikel 13
 
 1. Er is per regio een regionale raad, bestaande uit ten hoogste twaalf leden.
 
@@ -144,7 +171,7 @@ Onze Minister stelt de schadeloosstelling van de leden van de Centrale Raad vast
 
 3. Een lid van een regionale raad kan niet tevens lid zijn van de Kamer, lid zijn van de Centrale Raad of in dienst zijn van de Kamer.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De Kamer benoemt, schorst en ontslaat de leden van een regionale raad.
 
@@ -158,11 +185,11 @@ Onze Minister stelt de schadeloosstelling van de leden van de Centrale Raad vast
 
 6. De Kamer bepaalt het tijdstip waarop voordrachten moeten zijn gedaan. Indien op dat tijdstip een bepaalde voordracht niet is gedaan, kan de Kamer zonder voordracht overgaan tot benoeming met inachtneming van al naargelang het tweede of derde lid.
 
-#### Artikel 15
+##### Artikel 15
 
 Onze Minister stelt de schadeloosstelling van de leden van de regionale raden vast.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De leden van de regionale raden worden benoemd voor een periode van vier jaren. Zij treden tegelijk af en kunnen ten hoogste eenmaal worden herbenoemd.
 
@@ -170,7 +197,7 @@ Onze Minister stelt de schadeloosstelling van de leden van de regionale raden va
 
 ### Hoofdstuk 5. **Werkwijze van de Kamer**
 
-#### Artikel 17
+##### Artikel 17
 
 1. De Centrale Raad stelt ten minste eenmaal in de vijf jaren het ontwerp voor het meerjarenprogramma vast. Het ontwerp legt op hoofdlijnen vast welke werkzaamheden de Kamer zal uitvoeren.
 
@@ -182,7 +209,7 @@ Onze Minister stelt de schadeloosstelling van de leden van de regionale raden va
 
 5. Onze Minister kan het tijdstip vaststellen waarop het meerjarenprogramma en het standpunt moeten zijn ontvangen.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De Kamer stelt jaarlijks een activiteitenplan vast voor het daaropvolgende jaar. De Kamer kan het activiteitenplan tussentijds wijzigen.
 
@@ -190,17 +217,17 @@ Onze Minister stelt de schadeloosstelling van de leden van de regionale raden va
 
 3. Een regionale raad doet de Kamer jaarlijks voor een door de Kamer te bepalen tijdstip een voorstel voor de ter uitvoering van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=28&z=2021-07-01&g=2021-07-01) voor de desbetreffende regio in het activiteitenplan op te nemen werkzaamheden. Ten aanzien van vastlegging van deze activiteiten in het activiteitenplan neemt de Kamer het voor die regio op grond van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=6&artikel=23&z=2021-07-01&g=2021-07-01) vastgestelde regionale meerjarenprogramma in acht.
 
-#### Artikel 19
+##### Artikel 19
 
 De Kamer legt het activiteitenplan en de wijzigingen in het activiteitenplan voor advies voor aan de Centrale Raad.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De Kamer zendt jaarlijks het activiteitenplan aan Onze Minister, vergezeld van het advies van de Centrale Raad.
 
 2. Onze Minister kan het tijdstip vaststellen waarop het activiteitenplan moet zijn ontvangen.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De Kamer stelt een bestuursreglement vast.
 
@@ -208,7 +235,7 @@ De Kamer legt het activiteitenplan en de wijzigingen in het activiteitenplan voo
 
 ### Hoofdstuk 6. **Taak en werkwijze van de Centrale Raad en de regionale raden**
 
-#### Artikel 22
+##### Artikel 22
 
 De Centrale Raad adviseert de Kamer desgevraagd of uit eigen beweging met betrekking tot:
 
@@ -220,7 +247,7 @@ De Centrale Raad adviseert de Kamer desgevraagd of uit eigen beweging met betrek
 
 - d. de vergoedingen voor de activiteiten ter uitvoering van de taken, bedoeld in de [artikelen 25 tot en met 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=25&z=2021-07-01&g=2021-07-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=30&z=2021-07-01&g=2021-07-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=31&z=2021-07-01&g=2021-07-01).
 
-#### Artikel 23
+##### Artikel 23
 
 1. De regionale raden adviseren de Kamer desgevraagd of uit eigen beweging over regionale aangelegenheden.
 
@@ -232,15 +259,15 @@ De Centrale Raad adviseert de Kamer desgevraagd of uit eigen beweging met betrek
 
 ### Hoofdstuk 7. **Taken van de Kamer en voorwaarden voor de taakuitoefening**
 
-#### Artikel 24
+##### Artikel 24
 
 De Kamer is belast met de inrichting en het beheer van de regionale ondernemerspleinen.
 
-#### Artikel 25
+##### Artikel 25
 
 De Kamer heeft tot taak desgevraagd inlichtingen van algemene aard te verstrekken ten aanzien van het oprichten en drijven van een onderneming.
 
-#### Artikel 26
+##### Artikel 26
 
 De Kamer heeft tot taak:
 
@@ -248,11 +275,11 @@ De Kamer heeft tot taak:
 
 - b. voorlichting te geven over aangelegenheden op juridisch en economisch terrein aan groepen van personen die een onderneming drijven of overwegen een onderneming op te richten.
 
-#### Artikel 27
+##### Artikel 27
 
 De Kamer heeft tot taak het stimuleren van economische ontwikkeling door middel van het adviseren van ondernemingen over innovatieve ontwikkelingen alsmede het in voorkomende gevallen begeleiden van personen of groepen van personen die een onderneming drijven of overwegen een onderneming op te richten bij het ontwikkelen en implementeren van innovaties.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De Kamer heeft tot taak het stimuleren van economische ontwikkeling in een regio door middel van het bevorderen van onderzoeken, overleg- en samenwerkingsvormen en het desgevraagd informeren van openbare lichamen over aangelegenheden die de economische ontwikkeling van handel, industrie, ambacht en dienstverlening raken.
 
@@ -262,11 +289,11 @@ De Kamer heeft tot taak het stimuleren van economische ontwikkeling door middel 
 
 4. Een regeling behoeft de goedkeuring van Onze Minister en wordt bekendgemaakt in de Staatscourant.
 
-#### Artikel 29
+##### Artikel 29
 
 Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ten aanzien van de in de [artikelen 24 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=24&z=2021-07-01&g=2021-07-01) bedoelde taken.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Voor zover daaromtrent geen andere regeling geldt, kan de Kamer in één of meer regio’s de volgende taken uitvoeren:
 
@@ -278,7 +305,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ten aanzi
 
 2. Bij ministeriële regeling kunnen ter implementatie van bepalingen uit bindende rechtshandelingen van de Raad van de Europese Unie of het Europees Parlement en de Raad gezamenlijk, die betrekking hebben op het afgeven van verklaringen als bedoeld in het eerste lid, onderdeel a, regels worden gesteld.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De Kamer kan besluiten in één of meer regio’s nog andere dan de taken, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=30&z=2021-07-01&g=2021-07-01), uit te voeren, voor zover deze passen binnen de doelstelling van de Kamer, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2021-07-01&g=2021-07-01) van deze wet.
 
@@ -286,7 +313,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ten aanzi
 
 3. Het uitvoeren van taken als bedoeld in het eerste lid en als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=30&z=2021-07-01&g=2021-07-01) wordt vermeld in het activiteitenplan en het jaarverslag.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Onverminderd [hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9) hebben ondernemers, vrije beroepsbeoefenaren en rechtspersonen die krachtens hun doelstellingen en blijkens hun feitelijke werkzaamheden de algemene en collectieve belangen van ondernemers of vrije beroepsbeoefenaren behartigen het recht om bij de Kamer een mededingingsklacht in te dienen.
 
@@ -306,7 +333,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ten aanzi
 
 - f. [9:13 tot en met 9:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:13).
 
-#### Artikel 33
+##### Artikel 33
 
 1. Indien de Kamer, al dan niet naar aanleiding van een mededingingsklacht, vaststelt dat een werkzaamheid ter uitvoering van een taak leidt tot uit oogpunt van goede marktwerking ongewenste mededinging met ondernemingen of vrije beroepsbeoefenaren, wordt de uitoefening van de desbetreffende werkzaamheid binnen een jaar beëindigd.
 
@@ -314,7 +341,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ten aanzi
 
 ### Hoofdstuk 8. **Financiering**
 
-#### Artikel 34
+##### Artikel 34
 
 1. Voor activiteiten ter uitvoering van de taken, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=5&z=2021-07-01&g=2021-07-01), [24 tot en met 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=24&z=2021-07-01&g=2021-07-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=30&z=2021-07-01&g=2021-07-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=31&z=2021-07-01&g=2021-07-01), stelt Onze Minister ter gehele of gedeeltelijke financiering van de aan de uitvoering van die activiteiten voor de Kamer verbonden kosten, de vergoedingen vast.
 
@@ -324,7 +351,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ten aanzi
 
 4. De Kamer is bevoegd de betaling van de vergoedingen, bedoeld in het eerste lid, af te dwingen door het uitvaardigen van een dwangbevel.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Indien de Kamer besluit tot het uitvoeren van taken als bedoeld in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=30&z=2021-07-01&g=2021-07-01) of [31](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=31&z=2021-07-01&g=2021-07-01), geschiedt zulks tegen vergoeding van de aan de uitvoering van die taken voor de Kamer verbonden integrale kosten.
 
@@ -334,17 +361,17 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ten aanzi
 
 ### Hoofdstuk 9. **Informatievoorziening**
 
-#### Artikel 36
+##### Artikel 36
 
 1. De Kamer stelt het jaarverslag vast.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld over de inrichting van het jaarverslag.
 
-#### Artikel 37
+##### Artikel 37
 
 Het vastgestelde jaarverslag ligt gedurende acht weken ter inzage bij de Kamer. Hiervan geeft de Kamer kennis in de Staatscourant.
 
-#### Artikel 38
+##### Artikel 38
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de gegevensuitwisseling, bedoeld in [artikel 20, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=20).
 
@@ -352,7 +379,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking to
 
 #### § 1. **Begroting**
 
-#### Artikel 39
+##### Artikel 39
 
 1. De baten van de Kamer bestaan uit:
 
@@ -366,15 +393,15 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking to
 
 2. De kosten van de Kamer volgens de goedgekeurde begroting komen ten laste van de rijksbegroting, voor zover deze niet uit de baten worden bestreden.
 
-#### Artikel 40
+##### Artikel 40
 
 Het voorstel, bedoeld in [artikel 28, eerste lid, onder a, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=28), bevat een onderverdeling naar de taken, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=5&z=2021-07-01&g=2021-07-01) en [24 tot en met 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=24&z=2021-07-01&g=2021-07-01), en de overige bij of krachtens de wet aan de Kamer opgedragen taken.
 
-#### Artikel 41
+##### Artikel 41
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld over de inrichting van en de toelichting op de begroting alsmede eisen met betrekking tot de hoogte en samenstelling van het eigen vermogen.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Onverminderd [artikel 29, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=29) kan Onze Minister aan de begroting goedkeuring onthouden indien hij bezwaar heeft tegen de hoogte van het voorgestelde bedrag dat met toepassing van [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=10&paragraaf=1&artikel=39&z=2021-07-01&g=2021-07-01) in de rijksbegroting zal worden opgenomen.
 
@@ -386,13 +413,13 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld over de inrichtin
 
 #### § 2. **Beheer en verantwoording**
 
-#### Artikel 43
+##### Artikel 43
 
 1. De Kamer stelt de jaarrekening vast.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld over de inrichting van en de toelichting op de jaarrekening alsmede omtrent aandachtspunten voor de accountantscontrole.
 
-#### Artikel 44
+##### Artikel 44
 
 1. De Kamer behoeft de voorafgaande instemming van Onze Minister voor:
 
@@ -408,11 +435,11 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld over de inrichtin
 
 ### Hoofdstuk 11. **Informatievoorziening, sturing en toezicht**
 
-#### Artikel 45
+##### Artikel 45
 
 De verplichting, bedoeld in [artikel 20, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=20), geldt ook ten aanzien van rechtspersonen van wie de meerderheid van de aandelen of de stemrechten in de algemene vergadering direct of indirect in handen is van de Kamer of van wie de meerderheid van de bestuurders of de commissarissen direct of indirect door de Kamer wordt benoemd.
 
-#### Artikel 46
+##### Artikel 46
 
 1. De Kamer stelt een gedragscode op ter bevordering van de integriteit van het gedrag van de leden van de Kamer en de werkwijze van de Kamer.
 
@@ -422,91 +449,91 @@ De verplichting, bedoeld in [artikel 20, eerste lid, van de Kaderwet zelfstandig
 
 ### Hoofdstuk 12. **Wijzigingen in andere wetten**
 
-#### Artikel 47
+##### Artikel 47
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel 48
+##### Artikel 48
 
 Wijzigt het Burgerlijk Wetboek Boek 2.
 
-#### Artikel 49
+##### Artikel 49
 
 Wijzigt het Burgerlijk Wetboek Boek 6.
 
-#### Artikel 50
+##### Artikel 50
 
 Wijzigt de Comptabiliteitswet 2001.
 
-#### Artikel 51
+##### Artikel 51
 
 Wijzigt de Handelsregisterwet 2007.
 
-#### Artikel 52
+##### Artikel 52
 
 Wijzigt de Handelsnaamwet.
 
-#### Artikel 53
+##### Artikel 53
 
 Wijzigt de Uitvoeringswet EGTS-verordening.
 
-#### Artikel 54
+##### Artikel 54
 
 Wijzigt de Waterschapswet.
 
-#### Artikel 55
+##### Artikel 55
 
 Wijzigt de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.
 
-#### Artikel 56
+##### Artikel 56
 
 Wijzigt het Wetboek van Koophandel.
 
-#### Artikel 57
+##### Artikel 57
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.
 
-#### Artikel 58
+##### Artikel 58
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.
 
-#### Artikel 59
+##### Artikel 59
 
 Wijzigt de Wet justitiële en strafvorderlijke gegevens.
 
-#### Artikel 60
+##### Artikel 60
 
 Wijzigt de Wet op de formeel buitenlandse vennootschappen.
 
-#### Artikel 61
+##### Artikel 61
 
 Wijzigt de Wet op de kansspelen.
 
-#### Artikel 62
+##### Artikel 62
 
 Wijzigt de Wet privatisering FVP.
 
-#### Artikel 63
+##### Artikel 63
 
 Wijzigt Wet structuur uitvoeringsorganisatie werk en inkomen.
 
-#### Artikel 64
+##### Artikel 64
 
 Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme.
 
-#### Artikel 65
+##### Artikel 65
 
 Wijzigt de Wet toezicht accountantsorganisaties.
 
-#### Artikel 66
+##### Artikel 66
 
 Wijzigt de Wet toezicht trustkantoren.
 
-#### Artikel 67
+##### Artikel 67
 
 Wijzigt de Wet werk en bijstand.
 
-#### Artikel 68
+##### Artikel 68
 
 Wijzigt de Woningwet.
 
@@ -514,15 +541,15 @@ Wijzigt de Woningwet.
 
 #### § 1. **Beëindiging bestaande rechtspersonen**
 
-#### Artikel 69
+##### Artikel 69
 
 De vereniging Kamer van Koophandel Nederland is ontbonden en houdt op te bestaan.
 
-#### Artikel 70
+##### Artikel 70
 
 De stichting Syntens is ontbonden en houdt op te bestaan.
 
-#### Artikel 71
+##### Artikel 71
 
 1. Binnen acht dagen na inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2021-07-01&g=2021-07-01) zorgt de Kamer voor doorhaling van de inschrijving van de kamers van koophandel en fabrieken in het handelsregister.
 
@@ -530,7 +557,7 @@ De stichting Syntens is ontbonden en houdt op te bestaan.
 
 #### § 2. **Overgang personeel**
 
-#### Artikel 72
+##### Artikel 72
 
 1. Op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2021-07-01&g=2021-07-01) van deze wet zijn de personeelsleden van de kamers van koophandel en fabrieken van rechtswege ontslagen en aangesteld in dienst van de Kamer.
 
@@ -538,13 +565,13 @@ De stichting Syntens is ontbonden en houdt op te bestaan.
 
 3. Bij toepassing van het tweede lid worden personeelsleden die op grond van een tijdelijk dienstverband werkzaam zijn bij de kamers van koophandel en fabrieken aangesteld in dienst van de Kamer voor de resterende duur van dat dienstverband.
 
-#### Artikel 73
+##### Artikel 73
 
 1. Op het tijdstip van inwerkingtreding van [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=69&z=2021-07-01&g=2021-07-01) van deze wet zijn de personeelsleden van de vereniging Kamer van Koophandel Nederland van rechtswege ontslagen en aangesteld in dienst van de Kamer.
 
 2. [Artikel 72, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=2&artikel=72&z=2021-07-01&g=2021-07-01), is van overeenkomstige toepassing.
 
-#### Artikel 74
+##### Artikel 74
 
 1. Op het tijdstip van inwerkingtreding van [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=70&z=2021-07-01&g=2021-07-01) van deze wet zijn de personeelsleden van de Stichting Syntens van rechtswege ontslagen en aangesteld in dienst van de Kamer.
 
@@ -552,7 +579,7 @@ De stichting Syntens is ontbonden en houdt op te bestaan.
 
 #### § 3. **Overgang rechten en verplichtingen**
 
-#### Artikel 75
+##### Artikel 75
 
 1. De vermogensbestanddelen van de kamers van koophandel en fabrieken, van de vereniging Kamer van Koophandel Nederland en van de stichting Syntens gaan op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2021-07-01&g=2021-07-01), [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=69&z=2021-07-01&g=2021-07-01) onderscheidenlijk [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=70&z=2021-07-01&g=2021-07-01) van deze wet onder algemene titel over op de Kamer.
 
@@ -560,7 +587,7 @@ De stichting Syntens is ontbonden en houdt op te bestaan.
 
 3. Ter zake van de overgang van vermogensbestanddelen blijft heffing van overdrachtsbelasting achterwege.
 
-#### Artikel 76
+##### Artikel 76
 
 1. Alle rechten en verplichtingen van de kamers van koophandel en fabrieken, van de vereniging Kamer van Koophandel Nederland en van stichting Syntens, van welke aard ook, gaan op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2021-07-01&g=2021-07-01), [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=69&z=2021-07-01&g=2021-07-01) onderscheidenlijk [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=1&artikel=70&z=2021-07-01&g=2021-07-01) van deze wet, over op de Kamer.
 
@@ -578,19 +605,19 @@ De stichting Syntens is ontbonden en houdt op te bestaan.
 
 8. In afwijking van het eerste lid en [artikel 75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=13&paragraaf=3&artikel=75&z=2021-07-01&g=2021-07-01), gaan op het tijdstip, bedoeld in die leden, de rechten en verplichtingen die de vereniging Kamer van Koophandel Nederland heeft onderscheidenlijk is aangegaan met het oog op de zorg van Onze Minister voor inrichting, instandhouding, werking en beveiliging van het digitaal ondernemersplein, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=5&z=2021-07-01&g=2021-07-01) van deze wet, over op de Staat.
 
-#### Artikel 77
+##### Artikel 77
 
 Archiefbescheiden van de kamers van koophandel en fabrieken, van de vereniging Kamer van Koophandel Nederland en van stichting Syntens worden overgedragen aan de Kamer, voor zover zij niet overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
 
 ### Hoofdstuk 14. **Overgangsrecht**
 
-#### Artikel 78
+##### Artikel 78
 
 1. In afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=3&artikel=7&z=2021-07-01&g=2021-07-01) benoemt Onze Minister voor de eerste maal de leden van de Kamer ambtshalve, gehoord de naar zijn oordeel algemeen erkende centrale algemene werkgeversorganisaties en de naar zijn oordeel algemeen erkende centrale algemene werknemersorganisaties. Gehoord voor inwerkingtreding van deze wet geldt als gehoord in de zin van de eerste volzin.
 
 2. De leden van de Centrale Raad en de leden van de regionale raden worden binnen een jaar na inwerkingtreding van deze wet benoemd. Zo lang de leden niet zijn benoemd vinden voorschriften van deze wet die strekken tot advies of betrokkenheid van de Centrale Raad of een regionale raad in zoverre geen toepassing.
 
-#### Artikel 79
+##### Artikel 79
 
 1. [Artikel 18, eerste lid, eerste volzin, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) en [artikel 34, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34) vinden ten aanzien van de Kamer voor de eerste maal toepassing in het jaar volgend op het jaar waarin [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2021-07-01&g=2021-07-01) van deze wet in werking treedt.
 
@@ -604,39 +631,39 @@ Archiefbescheiden van de kamers van koophandel en fabrieken, van de vereniging K
 
 6. De Kamer legt voor 15 maart van het jaar volgend op het jaar waarin [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=2&artikel=2&z=2021-07-01&g=2021-07-01) in werking treedt rekening en verantwoording af van het financieel beheer en van de geleverde prestaties door de Kamer in de periode tussen inwerkingtreding van artikel 2 en het einde van dat jaar. [Artikel 34, tweede en derde lid van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34) en [artikel 35 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=35) zijn van overeenkomstige toepassing.
 
-#### Artikel 80
+##### Artikel 80
 
 In afwijking van [artikel 26 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26) stelt de Kamer de begroting voor de rest van het jaar waarin deze wet in werking treedt zo spoedig mogelijk vast en zendt deze zo spoedig mogelijk aan Onze Minister. Tot de begroting op de voet van [artikel 29, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=29) door Onze Minister is goedgekeurd, is de Kamer gerechtigd uitgaven te doen tot ten hoogste een door Onze Minister vastgesteld bedrag.
 
-#### Artikel 81
+##### Artikel 81
 
 In afwijking van [artikel 41, eerste lid, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=41) vindt de eerste keer dat de Kamer op grond van dat artikellid een controle door een accountant laat plaatsvinden binnen drie jaren na inwerkingtreding van deze wet plaats onder aftrek van de periode die is gelegen tussen de laatste accountantscontrole die de kamers hebben laten uitvoeren en het tijdstip van intrekking van de [Wet op de kamers van koophandel en fabrieken 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0009276).
 
-#### Artikel 82
+##### Artikel 82
 
 Na de inwerkingtreding van deze wet berust de [Aanwijzingsregeling vestiging in de EU 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022642) op [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=7&artikel=30&z=2021-07-01&g=2021-07-01), van deze wet.
 
-#### Artikel 83
+##### Artikel 83
 
 Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de gevolgen van de inwerkingtreding van deze wet voor zover een goede overgang naar de Kamer dit vordert. Deze regels gelden uiterlijk tot en met 31 december van het kalenderjaar volgend op het jaar waarin zij in werking zijn getreden.
 
 ### Hoofdstuk 15. **Slotbepalingen**
 
-#### Artikel 84
+##### Artikel 84
 
 De [Wet op de kamers van koophandel en fabrieken 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0009276) wordt ingetrokken.
 
-#### Artikel 85
+##### Artikel 85
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende hoofdstukken, artikelen of onderdelen daarvan verschillend kan worden gesteld.
 
-#### Artikel 86
+##### Artikel 86
 
 Deze wet wordt aangehaald als: Wet op de Kamer van Koophandel.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 35a
+##### Artikel 35a
 
 De [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=8&artikel=34&z=2021-07-01&g=2021-07-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&hoofdstuk=8&artikel=35&z=2021-07-01&g=2021-07-01) zijn van overeenkomstige toepassing op de uitvoering van bij of krachtens andere wetten dan deze wet geregelde taken, voor zover bij of krachtens die wetten de financiering van de aan de uitvoering van die taken verbonden kosten niet geregeld is.
 

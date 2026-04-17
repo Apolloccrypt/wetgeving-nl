@@ -1,13 +1,37 @@
 ---
 title: "Instelling Commissie TBS en Sanctietoepassing Geestelijk Gestoorde Delinquenten"
 identifier: "BWBR0005392"
-categorie: "Strafrecht"
-publicatiedatum: 1992-02-15
-laatste_update: 1992-02-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005392"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1992-02-15"
+last_updated: "1992-02-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005392"
+soort: "ministeriele-regeling"
+stam_id: "4284403"
+version_id: "6047972"
+internal_id: "C6251371"
+label_id: "4262944"
+dtd_version: "2.0"
+original_entry_into_force: "1992-02-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005392/1992-02-15/0"
+intitule_bron: "Stcrt.1992-32"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-01-15"
+intitule_published: "1992-02-14"
+intitule_in_force: "1992-02-14"
+intitule_status: "goed"
+original_publication: "Stcrt.1992-32"
+original_signed_date: "1992-01-15"
+original_published_date: "1992-02-14"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1992-02-15"
+jci_1_3: "jci1.3:c:BWBR0005392&z=1992-02-15&g=1992-02-15"
+jci_1_0: "1.0:c:BWBR0005392&g=1992-02-15"
+citeertitel_status: "officieel"
+signed_date: "1992-01-15"
+entry_into_force: "1992-02-15"
 ---
-
 # Instelling Commissie TBS en Sanctietoepassing Geestelijk Gestoorde Delinquenten
 
 Overwegende dat in de nota ‘TBS, een bijzondere maatregel’ (TK, 1991–1992, nr. 22329) is vastgesteld dat
@@ -24,11 +48,11 @@ Overwegende dat deze onderwerpen dienen te worden bestudeerd op basis van de in 
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In te stellen een Commissie TBS en Sanctietoepassing Geestelijk Gestoorde Delinquenten.
 
-#### Artikel 2
+##### Artikel 2
 
 De Commissie de volgende vragen voor advies voor te leggen:
 
@@ -44,7 +68,7 @@ De Commissie de volgende vragen voor advies voor te leggen:
 
 - d. Welke consequenties hebben de onder a tot en met c genoemde voorstellen voor het bij de sanctietoepassing en de sanctietenuitvoerlegging ten aanzien van ter beschikking gestelde en andere geestelijk gestoorde delinquenten gevoerde beleid?
 
-#### Artikel 3
+##### Artikel 3
 
 In de Commissie te benoemen:
 
@@ -58,13 +82,13 @@ In de Commissie te benoemen:
 
 - **adjunct-secretaris**: mw. mr. M. F. M. de Groot, juridisch medewerker van de afdeling Juridische Zaken, directie Delinquentenzorg en Jeugdinrichtingen van het ministerie van Justitie.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De commissie kan interimrapporten uitbrengen over onderwerpen die zich daartoe naar haar oordeel lenen.
 
 2. De commissie zal binnen twee maanden na aanvang van haar werkzaamheden haar werkplan, vóór 1 oktober 1992 een voortgangsbericht en vóór 1 mei 1993 haar eindrapport uitbrengen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Commissie kan zich zo nodig doen bijstaan door derden. In het bijzonder kan hierbij worden gedacht aan een door het WODC of andere onderzoeksinstelling te verrichten enquête naar de terbeschikkingstelling zonder verpleging bij leden van de rechterlijke macht, de districtspsychiatrische diensten en de reclassering.
 
@@ -72,12 +96,12 @@ In de Commissie te benoemen:
 
 3. De commissie is bevoegd deskundigen uit te nodigen om aan de beraadslagingen van de commissie deel te nemen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De commissie kan voor onderdelen van haar taak subcommissies instellen waarin ook personen van buiten de commissie zitting kunnen hebben.
 
 2. In overeenstemming met het gevoelen van de commissie benoemt de voorzitter de leden van de subcommissie en regelt hij het voorzitterschap en het secretariaat daarvan.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit, dat zal worden geplaatst in de Staatscourant en waarvan afschrift zal worden gezonden aan de Algemene Rekenkamer, treedt in werking met ingang van de dag na die van dagtekening.

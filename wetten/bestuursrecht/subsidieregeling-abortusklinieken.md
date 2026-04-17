@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling abortusklinieken"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 29 juli 2014, kenmerk 641412-123384 PG, houdende regels voor de subsidiëring van abortusklinieken (Subsidieregeling abortusklinieken)"
 identifier: "BWBR0035433"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-12-31
-laatste_update: 2025-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035433"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-12-31"
+last_updated: "2025-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035433"
+soort: "ministeriele-regeling"
+stam_id: "12752353"
+version_id: "26988462"
+internal_id: "C38192931"
+label_id: "12722354"
+dtd_version: "2.0"
+original_entry_into_force: "2021-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035433/2025-12-31/0"
+intitule_bron: "Stcrt.2014-22349"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-07-29"
+intitule_published: "2014-08-07"
+intitule_in_force: "2014-08-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-44442"
+original_signed_date: "2020-08-18"
+original_published_date: "2020-08-27"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2020-44442"
+entry_into_force_date: "2021-01-01"
+jci_1_3: "jci1.3:c:BWBR0035433&z=2025-12-31&g=2025-12-31"
+jci_1_0: "1.0:c:BWBR0035433&g=2025-12-31"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling abortusklinieken"
+signed_date: "2020-08-18"
+entry_into_force: "2021-01-01"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 29 juli 2014, kenmerk 641412-123384 PG, houdende regels voor de subsidiëring van abortusklinieken (Subsidieregeling abortusklinieken)
 
 Gelet op [artikel 3 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3);
@@ -16,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -58,7 +84,7 @@ Besluit:
 
 2. Voor de toepassing van deze regeling wordt onder zwangerschapsafbreking tevens verstaan overtijdbehandeling.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De minister kan op aanvraag aan een abortuskliniek als bedoeld in [artikel 1 van de Wet afbreking zwangerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=1) subsidie verlenen voor het verrichten van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2025-12-31&g=2025-12-31) genoemde activiteiten.
 
@@ -72,7 +98,7 @@ Besluit:
 
 - b. in de abortuskliniek ten behoeve waarvan de subsidie wordt verleend.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Subsidie wordt slechts verleend indien:
 
@@ -84,7 +110,7 @@ Besluit:
 
 2. Het eerste lid, onderdelen b en c, zijn niet van toepassing op rechtspersonen krachtens publiekrecht ingesteld.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De subsidie voor een activiteit als hieronder vermeld, bedraagt maximaal:
 
@@ -112,7 +138,7 @@ Besluit:
 
 2. De in het eerste lid, onder b tot en met j, vermelde bedragen omvatten mede de kosten van gesprekken, nazorg en nacontrole.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De subsidie wordt voor de periode van een boekjaar verleend.
 
@@ -120,7 +146,7 @@ Besluit:
 
 #### Paragraaf 2. Aanvraag tot verlening
 
-#### Artikel 6
+##### Artikel 6
 
 1. De aanvraag tot verlening van de subsidie wordt ingediend uiterlijk dertien weken voor de aanvang van het boekjaar waarvoor de subsidie wordt aangevraagd.
 
@@ -136,7 +162,7 @@ Besluit:
 
 - b. een ondertekende overeenkomst voor het vestigen van een dienst van algemeen economisch belang, als bedoeld in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=1b&z=2025-12-31&g=2025-12-31).
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien de aanvraag tot verlening van de subsidie wordt ingediend door een privaatrechtelijke rechtspersoon waaraan de minister geen subsidie heeft verstrekt ten behoeve van het boekjaar voorafgaand aan het boekjaar waarvoor de subsidie wordt aangevraagd, gaat de aanvraag voorts vergezeld van:
 
@@ -148,11 +174,11 @@ Besluit:
 
 #### Paragraaf 3. Verlening en bevoorschotting
 
-#### Artikel 8
+##### Artikel 8
 
 De minister besluit binnen dertien weken na ontvangst van de aanvraag over de verlening van de subsidie.
 
-#### Artikel 9
+##### Artikel 9
 
 De minister bepaalt bij het besluit tot verlening van de subsidie:
 
@@ -168,23 +194,23 @@ De minister bepaalt bij het besluit tot verlening van de subsidie:
 
 - f. op welke wijze de subsidieontvanger kan aantonen dat voldaan is aan de verplichtingen die verbonden zijn aan de verleende subsidie.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De minister verleent bij het besluit tot verlening van een subsidie ambtshalve tevens de volgende voorschotten: in januari 8%, februari 8%, maart 8%, april 7%, mei 16%, juni 7%, juli 8%, augustus 8%, september 7%, oktober 8%, november 8% en december 7% van het bedrag van de verleende subsidie.
 
 2. Op verzoek van de subsidieontvanger of indien een aanvraag van een subsidie later is ingediend dan in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=2&artikel=6&z=2025-12-31&g=2025-12-31) is bepaald, kan de minister van het eerste lid afwijken.
 
-#### Artikel 11
+##### Artikel 11
 
 Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34).
 
 #### Paragraaf 4. Verplichtingen
 
-#### Artikel 12
+##### Artikel 12
 
 De subsidieontvanger draagt er zorg voor dat geen betalingen van verzekerden als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=2&z=2025-12-31&g=2025-12-31), worden gevraagd voor de gesubsidieerde activiteiten.
 
-#### Artikel 13
+##### Artikel 13
 
 De subsidieontvanger zorgt ervoor dat:
 
@@ -194,7 +220,7 @@ De subsidieontvanger zorgt ervoor dat:
 
 - c. de voor de uitvoering van de gesubsidieerde activiteiten benodigde middelen op verantwoorde wijze worden beheerd.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De subsidieontvanger neemt het volgende op in zijn administratie:
 
@@ -206,7 +232,7 @@ De subsidieontvanger zorgt ervoor dat:
 
 3. De administratie en de daartoe behorende bescheiden worden gedurende tien jaren bewaard.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De subsidieontvanger meldt meteen aan de minister als:
 
@@ -218,11 +244,11 @@ De subsidieontvanger zorgt ervoor dat:
 
 2. De melding wordt schriftelijk gedaan. De melding wordt voorzien van een toelichting. Bij de melding worden de relevante stukken overgelegd.
 
-#### Artikel 16
+##### Artikel 16
 
 De subsidieontvanger die aan derden goederen ter beschikking stelt of voor derden diensten verricht, brengt daarvoor een vergoeding in rekening die ten minste kostendekkend is, tenzij het derden betreft voor wie de gesubsidieerde activiteiten bestemd zijn.
 
-#### Artikel 17
+##### Artikel 17
 
 De subsidieontvanger werkt, onder meer door het verschaffen van de daartoe benodigde inlichtingen, gegevens en bescheiden, mee aan door of namens de minister ingesteld onderzoek dat erop is gericht de minister inlichtingen te verschaffen:
 
@@ -234,7 +260,7 @@ De subsidieontvanger werkt, onder meer door het verschaffen van de daartoe benod
 
 - d. voor het verkrijgen van een volledig en recent overzicht van de financiële situatie van de subsidieontvanger, alsook van de rechtspersoon of rechtspersonen waarover de subsidieontvanger direct of indirect zeggenschap uitoefent.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De subsidieontvanger verzekert haar roerende en onroerende zaken op afdoende wijze tegen het risico van diefstal en brand alsmede tegen het risico van wettelijke aansprakelijkheid tegenover derden.
 
@@ -242,15 +268,15 @@ De subsidieontvanger werkt, onder meer door het verschaffen van de daartoe benod
 
 3. Op verzoek van de subsidieontvanger kan de minister ontheffing verlenen van het eerste of tweede lid.
 
-#### Artikel 19
+##### Artikel 19
 
 [Artikel 4:71 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:71) is van overeenkomstige toepassing, met uitzondering van het eerste lid, onderdelen b, c, d, e, g, h, i en j.
 
-#### Artikel 20
+##### Artikel 20
 
 Indien de activiteiten waarvoor de subsidie is verstrekt geheel of gedeeltelijk worden beëindigd of indien de subsidie wordt beëindigd, verstrekt de subsidieontvanger aan de minister op diens verzoek alle gegevens, bescheiden, informatie, medewerking en gebruiksrechten op auteursrechten die redelijkerwijs verlangd kan worden of kunnen worden voor de continuïteit van de activiteiten waarvoor de subsidie is verstrekt.
 
-#### Artikel 21
+##### Artikel 21
 
 1. In de gevallen, bedoeld in [artikel 4:41, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:41), is de subsidieontvanger aan de minister een door de minister te bepalen vergoeding verschuldigd.
 
@@ -268,19 +294,19 @@ Indien de activiteiten waarvoor de subsidie is verstrekt geheel of gedeeltelijk 
 
 5. De minister kan de vergoeding in afwijking van het vierde lid op een lager bedrag bepalen.
 
-#### Artikel 22
+##### Artikel 22
 
 De minister kan bij de verlening van de subsidie verplichtingen opleggen als bedoeld in de [artikelen 4:38](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:38) en [4:39 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:39).
 
 #### Paragraaf 5. Aanvraag tot vaststelling
 
-#### Artikel 23
+##### Artikel 23
 
 1. De subsidieontvanger dient binnen tweeëntwintig weken na afloop van het boekjaar waarvoor de subsidie is verleend een aanvraag tot vaststelling van de subsidie in.
 
 2. De minister kan vrijstelling en ontheffing verlenen van de termijn, bedoeld in het eerste lid.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Voor een aanvraag van de vaststelling van een subsidie wordt een door de minister vastgesteld formulier gebruikt.
 
@@ -298,7 +324,7 @@ De minister kan bij de verlening van de subsidie verplichtingen opleggen als bed
 
 #### Paragraaf 6. Vaststelling
 
-#### Artikel 25
+##### Artikel 25
 
 1. Binnen tweeëntwintig weken na ontvangst van de aanvraag tot vaststelling van de subsidie neemt de minister een besluit op de aanvraag.
 
@@ -306,7 +332,7 @@ De minister kan bij de verlening van de subsidie verplichtingen opleggen als bed
 
 #### Paragraaf 6. Vaststelling
 
-#### Artikel 26
+##### Artikel 26
 
 1. De subsidieontvanger vormt in de jaarrekening als onderdeel van het eigen vermogen een egalisatiereserve.
 
@@ -314,13 +340,13 @@ De minister kan bij de verlening van de subsidie verplichtingen opleggen als bed
 
 3. Voor een periode van drie jaar na aanvang van het boekjaar waarvoor de subsidie voor het eerst is verstrekt bedraagt de egalisatiereserve ten hoogste 20% van het bij het besluit tot vaststelling bepaalde bedrag van de subsidie.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De egalisatiereserve wordt in een boekjaar uitsluitend besteed aan activiteiten waarvoor de subsidie in dat boekjaar is verleend.
 
 2. De besteding van de egalisatiereserve wordt verantwoord in de jaarrekening.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De maximale toevoeging aan de egalisatiereserve is het bedrag dat aan de egalisatiereserve kan worden toegevoegd zonder de maximale omvang daarvan te overschrijden. De maximale onttrekking aan de egalisatiereserve is het bedrag van de egalisatiereserve.
 
@@ -330,13 +356,13 @@ De minister kan bij de verlening van de subsidie verplichtingen opleggen als bed
 
 4. Kosten die worden veroorzaakt door toevoegingen aan voorzieningen zijn geen onderdeel van het resultaat uit gesubsidieerde abortushulpverlening, tenzij de minister met deze toevoegingen schriftelijk heeft ingestemd.
 
-#### Artikel 29
+##### Artikel 29
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
 
@@ -354,7 +380,7 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1b
+##### Artikel 1b
 
 1. Het verrichten van de activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=2&z=2025-12-31&g=2025-12-31), wordt aangewezen als een dienst van algemeen economisch belang in de zin van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie.
 
@@ -372,11 +398,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### Paragraaf 8. Slotbepalingen
 
-#### Artikel 30
+##### Artikel 30
 
 Deze regeling treedt in werking met ingang van 1 januari 2021 en vervalt met ingang van 1 januari 2031.
 
-#### Artikel 31
+##### Artikel 31
 
 Deze regeling wordt aangehaald als: Subsidieregeling abortusklinieken.
 

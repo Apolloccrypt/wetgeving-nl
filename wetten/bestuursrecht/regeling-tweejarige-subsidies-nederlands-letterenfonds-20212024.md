@@ -1,13 +1,38 @@
 ---
 title: "Regeling tweejarige subsidies Nederlands Letterenfonds 2021–2024"
 identifier: "BWBR0043900"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-07-01
-laatste_update: 2020-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043900"
+country: "nl"
+rank: "zbo"
+publication_date: "2020-07-01"
+last_updated: "2020-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043900"
+soort: "zbo"
+stam_id: "15571163"
+version_id: "26900922"
+internal_id: "C38091421"
+label_id: "15512724"
+dtd_version: "2.0"
+original_entry_into_force: "2020-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043900/2020-07-01/0"
+intitule_bron: "Stcrt.2020-37859"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-06-23"
+intitule_published: "2020-07-16"
+intitule_in_force: "2020-07-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-37859"
+original_signed_date: "2020-06-23"
+original_published_date: "2020-07-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-37859"
+entry_into_force_date: "2020-07-01"
+jci_1_3: "jci1.3:c:BWBR0043900&z=2020-07-01&g=2020-07-01"
+jci_1_0: "1.0:c:BWBR0043900&g=2020-07-01"
+citeertitel_status: "officieel"
+signed_date: "2020-06-23"
+entry_into_force: "2020-07-01"
 ---
-
 # Regeling tweejarige subsidies Nederlands Letterenfonds 2021–2024
 
 gelet op het bepaalde in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
@@ -20,7 +45,7 @@ besluit:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -86,11 +111,11 @@ In deze regeling wordt verstaan onder:
 
 - **totale baten:** het totaal aan financiële middelen waarover de aanvrager jaarlijks beschikt om de voornemens met betrekking tot zijn activiteiten te verwezenlijken en de kosten van de organisatie te dekken.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Het Letterenfonds beoogt door tweejarige subsidieverlening op grond van deze regeling een bijdrage te leveren aan de kwaliteit en diversiteit van het literaire landschap en bij een breed publiek belangstelling te wekken voor en kennis te vergroten van literatuur.
 
-#### Artikel 3. Aanvraag
+##### Artikel 3. Aanvraag
 
 1. Een aanvraag wordt uitsluitend ingediend met behulp van het aanvraagformulier op de website van het Letterenfonds.
 
@@ -100,7 +125,7 @@ Het Letterenfonds beoogt door tweejarige subsidieverlening op grond van deze reg
 
 4. Een aanvraag die niet voldoet aan het bepaalde in deze regeling wordt afgewezen.
 
-#### Artikel 4. Formele toetsing en weigeringsgronden
+##### Artikel 4. Formele toetsing en weigeringsgronden
 
 1. Een aanvraag wordt niet in behandeling genomen als het aanvraagformulier onjuist of onvolledig is ingevuld of de vereiste bijlagen ontbreken, nadat de aanvrager gedurende een periode van twee weken in staat is gesteld de benodigde gegevens alsnog te verstrekken.
 
@@ -132,7 +157,7 @@ Het Letterenfonds beoogt door tweejarige subsidieverlening op grond van deze reg
 
 - f. als de aanvrager niet aan het bepaalde in deze regeling voldoet.
 
-#### Artikel 5. Beoordelingscriteria
+##### Artikel 5. Beoordelingscriteria
 
 De adviescommissie beoordeelt de ingediende aanvragen op grond van de volgende criteria:
 
@@ -144,7 +169,7 @@ De adviescommissie beoordeelt de ingediende aanvragen op grond van de volgende c
 
 - d. kwaliteit organisatie en professionaliteit bedrijfsvoering.
 
-#### Artikel 6. Adviescommissie
+##### Artikel 6. Adviescommissie
 
 1. Aanvragen die in aanmerking komen voor een inhoudelijke beoordeling worden voor advies voorgelegd aan de adviescommissie.
 
@@ -154,7 +179,7 @@ De adviescommissie beoordeelt de ingediende aanvragen op grond van de volgende c
 
 4. Voor toekenning van de aanvraag dient het oordeel over de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043900&artikel=5&z=2020-07-01&g=2020-07-01) genoemde criteria aan de hand van het puntensysteem gemiddeld voldoende te zijn, waarbij er sowieso een positief oordeel moet zijn over het criterium genoemd in artikel 5, onderdeel b.
 
-#### Artikel 7. Hoogte subsidiebedrag en subsidieplafond
+##### Artikel 7. Hoogte subsidiebedrag en subsidieplafond
 
 1. Het bestuur verstrekt subsidies met een maximum van € 800.000,– in totaal over een beleidsperiode en een maximum van € 400.000,– per ronde. Deze maxima gelden als subsidieplafond. Het bestuur kan dit subsidieplafond verhogen of verlagen.
 
@@ -170,13 +195,13 @@ De adviescommissie beoordeelt de ingediende aanvragen op grond van de volgende c
 
 7. Een besluit tot het vaststellen, verhogen of verlagen van een subsidieplafond wordt bekendgemaakt op de website van het Letterenfonds.
 
-#### Artikel 8. Rondes
+##### Artikel 8. Rondes
 
 1. Het bestuur behandelt de aanvragen in één ronde per twee jaar.
 
 2. Het Letterenfonds publiceert de sluitingsdata van rondes op zijn website.
 
-#### Artikel 9. Verdeling budget
+##### Artikel 9. Verdeling budget
 
 1. Indien het budget tekortschiet om alle aanvragen te honoreren, worden de aanvragen die aan de voorwaarden voldoen om voor subsidie in aanmerking te komen, onderverdeeld in drie groepen:
 
@@ -192,7 +217,7 @@ De adviescommissie beoordeelt de ingediende aanvragen op grond van de volgende c
 
 4. Indien het bestuur het subsidieplafond verhoogt, worden de subsidiebedragen van de aanvragen in groep B die wegens ontoereikendheid van het budget waren afgewezen, toegewezen voor het geadviseerde subsidiebedrag in volgorde van de rangorde, tot de aanvraag waarvan toewijzing van de gevraagde subsidie het subsidieplafond te boven gaat. Die aanvraag en de volgende worden afgewezen.
 
-#### Artikel 10. Vaststelling van de subsidie
+##### Artikel 10. Vaststelling van de subsidie
 
 1. Het bestuur stelt de subsidie vast na ontvangst van de complete verantwoording over de twee jaren waarover subsidie is verstrekt.
 
@@ -200,7 +225,7 @@ De adviescommissie beoordeelt de ingediende aanvragen op grond van de volgende c
 
 3. Als het bestuur overweegt de subsidie lager vast te stellen wordt de aanvrager hierover uiterlijk binnen vier maanden na de datum waarop de jaarverantwoording moest worden ingediend geïnformeerd.
 
-#### Artikel 11. Verantwoording bij subsidieverlening
+##### Artikel 11. Verantwoording bij subsidieverlening
 
 1. De aanvrager stuurt jaarlijks voor 1 april een verantwoording in van de uitgevoerde activiteiten in het vorige kalenderjaar.
 
@@ -214,11 +239,11 @@ De adviescommissie beoordeelt de ingediende aanvragen op grond van de volgende c
 
 6. De subsidieontvanger werkt mee aan dan wel draagt er zorg voor dat de accountant meewerkt aan onderzoeken naar de door de accountant verrichte (controle)werkzaamheden door een door het bestuur van het fonds aan te wijzen partij. De daaraan verbonden kosten worden geacht te zijn begrepen in de subsidie.
 
-#### Artikel 12. Begrotingsvoorbehoud
+##### Artikel 12. Begrotingsvoorbehoud
 
 Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende middelen door de Minister van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 13. Verplichtingen subsidieontvanger
+##### Artikel 13. Verplichtingen subsidieontvanger
 
 1. De subsidieontvanger plaatst op alle publieksuitingen die betrekking hebben op de gesubsidieerde activiteiten het logo van het Letterenfonds.
 
@@ -238,17 +263,17 @@ Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende mi
 
 6. Het bestuur kan in de beschikking nadere verplichtingen aan de subsidieontvanger opleggen.
 
-#### Artikel 14. Hardheidsclausule
+##### Artikel 14. Hardheidsclausule
 
 Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een artikel buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard.
 
-#### Artikel 15. Intrekking, overgangsbepalingen en inwerkingtreding
+##### Artikel 15. Intrekking, overgangsbepalingen en inwerkingtreding
 
 1. Wijzigt de Regeling literaire manifestaties en activiteiten, incidenteel en tweejarig.
 
 2. Deze regeling treedt in werking met ingang van 1 juli 2020 en vervalt op een bij besluit door het Letterenfonds te bepalen tijdstip.
 
-#### Artikel 16. Slotbepalingen en citeertitel
+##### Artikel 16. Slotbepalingen en citeertitel
 
 1. In alle gevallen waarin deze regeling niet voorziet, beslist het bestuur.
 

@@ -1,13 +1,37 @@
 ---
-title: "Verordening PT heffing verduurzaamde groenten en fruit 2004"
+title: "Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2003, houdende de vaststelling van een heffing op verduurzaamde producten voor het jaar 2004 (Verordening PT heffing verduurzaamde groenten en fruit 2004)"
 identifier: "BWBR0015315"
-categorie: "Belastingrecht"
-publicatiedatum: 2004-11-20
-laatste_update: 2004-11-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015315"
+country: "nl"
+rank: "pbo"
+publication_date: "2004-11-20"
+last_updated: "2004-11-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015315"
+soort: "pbo"
+stam_id: "6726823"
+version_id: "11578442"
+internal_id: "C29134331"
+label_id: "6715294"
+original_entry_into_force: "2004-11-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015315/2004-11-20/0"
+intitule_bron: "Vbbo.2004-68"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-07-01"
+intitule_published: "2004-11-19"
+intitule_in_force: "2004-11-19"
+intitule_status: "goed"
+original_publication: "Vbbo.2004-68"
+original_signed_date: "2003-07-01"
+original_published_date: "2004-11-19"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2004-11-20"
+jci_1_3: "jci1.3:c:BWBR0015315&z=2004-11-20&g=2004-11-20"
+jci_1_0: "1.0:c:BWBR0015315&g=2004-11-20"
+citeertitel_status: "officieel"
+short_title: "Verordening PT heffing verduurzaamde groenten en fruit 2004"
+signed_date: "2003-07-01"
+entry_into_force: "2004-11-20"
 ---
-
 # Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2003, houdende de vaststelling van een heffing op verduurzaamde producten voor het jaar 2004 (Verordening PT heffing verduurzaamde groenten en fruit 2004)
 
 gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
@@ -20,7 +44,7 @@ BESLUIT:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=1) en [2 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=2).
 
@@ -36,7 +60,7 @@ BESLUIT:
 
 #### § 2. Heffingsplicht
 
-#### Artikel 2
+##### Artikel 2
 
 1. De fabrikant is jaarlijks aan het Productschap Tuinbouw een heffing verschuldigd ten behoeve van aangelegenheden als milieuprojecten, onderzoek, kwaliteitscontrole en afzetbevordering, alsmede de algemene kosten van het Productschap Tuinbouw.
 
@@ -44,7 +68,7 @@ BESLUIT:
 
 #### § 3. Grondslag en hoogte
 
-#### Artikel 3
+##### Artikel 3
 
 1. De heffing die de fabrikant is verschuldigd, wordt opgelegd naar de grondslag omzet over het kalenderjaar 2004.
 
@@ -56,17 +80,17 @@ BESLUIT:
 
 #### § 4. Oplegging en inning
 
-#### Artikel 4
+##### Artikel 4
 
 1. De hoogte van de heffing als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015315&paragraaf=3&artikel=3&z=2004-11-20&g=2004-11-20) wordt door middel van een besluit van het bestuur vastgesteld, waarbij voor verschillende hoogten van de omzet verschillende percentages kunnen worden vastgesteld.
 
 2. Van de fabrikant die champignons verduurzaamt, kan de heffing met een door het bestuurvast te stellen percentage worden verlaagd voor zover het de kwaliteitscontrole betreft, indien de fabrikant beschikt over een controlesysteem dat voldoet aan door het bestuur te stellen nadere regels.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien de heffingsplichtige de gegevens die hem krachtens de [Verordening PT algemene bepalingen](https://wetten.overheid.nl/jci1.3:c:BWBR0016684), ten behoeve van de onderhavige verordening zijn gevraagd, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan door de voorzitter te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing wordt verhoogd met € 40,= in verband met administratiekosten.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De oplegging van de krachtens deze verordening verschuldigde heffing vindt plaats na afloop van het jaar waarover de heffing verschuldigd is en geschiedt door de voorzitter door middel van toezending of uitreiking aan de heffingsplichtige van een heffingsnota.
 
@@ -80,11 +104,11 @@ Indien de heffingsplichtige de gegevens die hem krachtens de [Verordening PT alg
 
 3. In afwijking van het eerste lid kan de voorzitter de heffingsplichtige een voorlopige heffing opleggen tot het bedrag waarop de heffing vermoedelijk zal worden vastgesteld. De voorlopige heffing wordt verrekend met de krachtens deze verordening verschuldigde heffing.
 
-#### Artikel 7
+##### Artikel 7
 
 De voorzitter kan, indien hem uit te zijner beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015315&paragraaf=4&artikel=6&z=2004-11-20&g=2004-11-20), niet in overeenstemming blijkt met de werkelijkheid, een opgelegde heffing aan de hand van deze gegevens herzien en opnieuw opleggen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Betaling geschiedt binnen 30 dagen na dagtekening van de heffingsnota.
 
@@ -96,19 +120,19 @@ De voorzitter kan, indien hem uit te zijner beschikking gekomen gegevens blijkt 
 
 - c. zodra de ondernemer zich metterwoon in het buitenland heeft gevestigd of van het voornemen daartoe blijkt.
 
-#### Artikel 9
+##### Artikel 9
 
 Aan de heffingsplichtige, die niet of niet geheel binnen de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0015315&paragraaf=4&artikel=8&z=2004-11-20&g=2004-11-20) bedoelde termijn heeft betaald, kunnen de daaruit voortvloeiende extra kosten van € 22,50 in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127).
 
-#### Artikel 10
+##### Artikel 10
 
 De invorderingskosten voortvloeiend uit het niet betalen binnen de gestelde termijn als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0015315&paragraaf=4&artikel=8&z=2004-11-20&g=2004-11-20) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0015315&paragraaf=4&artikel=9&z=2004-11-20&g=2004-11-20), zijn voor rekening en risico van de ondernemer.
 
-#### Artikel 11
+##### Artikel 11
 
 De voorzitter is belast met de oplegging en inning van de heffing en de daarmee samenhangende kosten als bedoeld in de [artikelen 5 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0015315&paragraaf=4&artikel=5&z=2004-11-20&g=2004-11-20).
 
-#### Artikel 12
+##### Artikel 12
 
 1. De gegevens verkregen uit hoofde van het bepaalde in deze verordening dienen in handen van de voorzitter of door deze aan te wijzen personen van het secretariaat van het productschap te worden gesteld.
 
@@ -116,13 +140,13 @@ De voorzitter is belast met de oplegging en inning van de heffing en de daarmee 
 
 #### § 5. Slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 1. Deze verordening treedt in werking op 1 januari 2004.
 
 2. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst. wordt uitgegeven na 31 december 2003 treedt zij in werking met ingang van de dag na de datum van publicatie in het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2004.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze verordening wordt aangehaald als: Verordening PT heffing verduurzaamde groenten en fruit 2004.
 

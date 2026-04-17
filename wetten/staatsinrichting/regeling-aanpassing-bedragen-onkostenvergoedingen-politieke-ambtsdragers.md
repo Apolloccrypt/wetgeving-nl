@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanpassing bedragen onkostenvergoedingen politieke ambtsdragers"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties voor aanpassing van de bedragen van de onkostenvergoedingen van politieke ambtsdragers"
 identifier: "BWBR0021103"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2007-02-01
-laatste_update: 2007-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0021103"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2007-02-01"
+last_updated: "2007-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0021103"
+soort: "ministeriele-regeling"
+stam_id: "8884633"
+version_id: "14111072"
+internal_id: "C19227741"
+label_id: "8863904"
+dtd_version: "2.0"
+original_entry_into_force: "2007-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0021103/2007-02-01/0"
+intitule_bron: "Stcrt.2007-21"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-01-17"
+intitule_published: "2007-01-30"
+intitule_in_force: "2007-01-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-21"
+original_signed_date: "2007-01-17"
+original_published_date: "2007-01-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-21-p9-SC78954"
+entry_into_force_date: "2007-02-01"
+jci_1_3: "jci1.3:c:BWBR0021103&z=2007-02-01&g=2007-02-01"
+jci_1_0: "1.0:c:BWBR0021103&g=2007-02-01"
+citeertitel_status: "redactioneel"
+short_title: "Regeling aanpassing bedragen onkostenvergoedingen politieke ambtsdragers"
+signed_date: "2007-01-17"
+entry_into_force: "2007-02-01"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties voor aanpassing van de bedragen van de onkostenvergoedingen van politieke ambtsdragers
 
 Gelet op:
@@ -22,7 +48,7 @@ Gelet op:
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 In de [Wet schadeloosstelling leden Tweede Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0004939) worden ingaande 1 januari 2007 de volgende bedragen gewijzigd:
 
@@ -39,7 +65,7 @@ b. Het bedrag in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 c. Het bedrag in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&artikel=9), komt te luiden: € 2.293,41.
 
-#### Artikel II
+##### Artikel II
 
 In de [Wet vergoedingen leden Eerste Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0007402) worden ingaande 1 januari 2007 de volgende bedragen gewijzigd:
 
@@ -58,7 +84,7 @@ d. De bedragen in [artikel 18, tweede en derde lid](https://wetten.overheid.nl/j
 | 75 km | € | 5.309,05 | € | 11.060,53 |
 | 150 km | € | 8.627,34 | € | 17.973,64 |
 
-#### Artikel III
+##### Artikel III
 
 De bedragen in [artikel 1, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0005966&artikel=1), en in [artikel 2, eerste lid, onder a en b, van de Regeling van een vergoeding voor de vice-president van de Raad van State en de staatsraden, alsmede de president en de overige leden in gewone dienst van de Algemene Rekenkamer](https://wetten.overheid.nl/jci1.3:c:BWBR0005966&artikel=2) komen met ingang van 1 januari 2007 als volgt te luiden:
 
@@ -66,7 +92,7 @@ De bedragen in [artikel 1, eerste lid, onder a en b](https://wetten.overheid.nl/
 
 - b. € 522,–
 
-#### Artikel IV
+##### Artikel IV
 
 De bedragen in [artikel 2, eerste lid, onder a en b, van de nadere regeling van de rechtspositie van de Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0004905&artikel=2), komen met ingang van 1 januari 2007 als volgt te luiden:
 
@@ -74,7 +100,7 @@ De bedragen in [artikel 2, eerste lid, onder a en b, van de nadere regeling van 
 
 - b. € 522,–
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 

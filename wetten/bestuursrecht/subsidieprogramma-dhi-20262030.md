@@ -1,13 +1,39 @@
 ---
-title: "Subsidieprogramma DHI 2026–2030"
+title: "Besluit van de Staatssecretaris van Buitenlandse Zaken van 16 februari 2026, nr. BZ2624775, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma DHI 2026–2030)"
 identifier: "BWBR0052361"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-02-27
-laatste_update: 2026-02-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052361"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-02-27"
+last_updated: "2026-02-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052361"
+soort: "ministeriele-regeling"
+stam_id: "17779983"
+version_id: "31441292"
+internal_id: "C44910621"
+label_id: "17677894"
+dtd_version: "2.0"
+original_entry_into_force: "2026-02-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052361/2026-02-27/0"
+intitule_bron: "Stcrt.2026-7891"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-02-16"
+intitule_published: "2026-02-26"
+intitule_in_force: "2026-02-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-7891"
+original_signed_date: "2026-02-16"
+original_published_date: "2026-02-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-7891"
+entry_into_force_date: "2026-02-27"
+jci_1_3: "jci1.3:c:BWBR0052361&z=2026-02-27&g=2026-02-27"
+jci_1_0: "1.0:c:BWBR0052361&g=2026-02-27"
+citeertitel_status: "officieel"
+short_title: "Subsidieprogramma DHI 2026–2030"
+signed_date: "2026-02-16"
+entry_into_force: "2026-02-27"
 ---
-
 # Besluit van de Staatssecretaris van Buitenlandse Zaken van 16 februari 2026, nr. BZ2624775, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma DHI 2026–2030)
 
 Gelet op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=6) en [7 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=7);
@@ -16,11 +42,11 @@ Gelet op [artikel 7.2 van de Subsidieregeling Ministerie van Buitenlandse Zaken 
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor subsidieverlening op grond van [artikel 7.2 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=7.2) met het oog op subsidiëring van activiteiten op het gebied van demonstratieprojecten, haalbaarheidsstudies, investeringsvoorbereidingsprojecten en marktvalidaties van startups, gelden voor de periode vanaf inwerkingtreding van dit besluit tot en met 31 december 2030 de als bijlage bij dit besluit gevoegde beleidsregels.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aanvragen voor subsidie in het kader van het Subsidieprogramma DHI 2026–2030 worden ingediend in jaarlijkse openstellingen.
 
@@ -30,7 +56,7 @@ Voor subsidieverlening op grond van [artikel 7.2 van de Subsidieregeling Ministe
 
 4. Aanvragen voor subsidies in het kader van het Subsidieprogramma DHI 2026–2030 worden ingediend aan de hand van een door de minister beschikbaar gesteld formulier en voorzien van de op het aanvraagformulier gevraagde bescheiden.1[www.rvo.nl/dhi](http://www.rvo.nl/dhi)
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor subsidieverlening in het kader van het Subsidieprogramma DHI 2026–2030 geldt voor aanvragen bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052361&artikel=2&z=2026-02-27&g=2026-02-27), een totaal subsidieplafond van € 8,5 miljoen, onderverdeeld in de volgende subsidieplafonds:
 
@@ -42,11 +68,11 @@ Voor subsidieverlening op grond van [artikel 7.2 van de Subsidieregeling Ministe
 
 3. Voor subsidieverlening in het kader van het Subsidieprogramma DHI 2026–2030 gelden voor aanvragen bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052361&artikel=2&z=2026-02-27&g=2026-02-27), nader bekend te maken subsidieplafonds.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 januari 2031, met dien verstande dat het besluit van toepassing blijft op subsidies die voor die datum zijn verleend.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Subsidieprogramma DHI 2026–2030.
 

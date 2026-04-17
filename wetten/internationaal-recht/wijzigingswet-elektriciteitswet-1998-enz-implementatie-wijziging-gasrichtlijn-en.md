@@ -1,28 +1,56 @@
 ---
-title: "Wijzigingswet Elektriciteitswet 1998, enz. (implementatie wijziging Gasrichtlijn en verordeningen elektriciteit en gas)"
+title: "Wet van 10 juni 2020 tot wijziging van de Elektriciteitswet 1998 en Gaswet (implementatie wijziging Gasrichtlijn en een aantal verordeningen op het gebied van elektriciteit en gas)"
 identifier: "BWBR0043813"
-categorie: "Internationaal recht"
-publicatiedatum: 2020-07-10
-laatste_update: 2020-07-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043813"
+country: "nl"
+rank: "wet"
+publication_date: "2020-07-10"
+last_updated: "2020-07-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043813"
+soort: "wet"
+stam_id: "15548003"
+version_id: "26862992"
+internal_id: "C38049781"
+label_id: "15489734"
+dtd_version: "2.0"
+original_entry_into_force: "2020-07-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043813/2020-07-10/0"
+intitule_bron: "Stb.2020-236"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-06-10"
+intitule_published: "2020-07-09"
+intitule_in_force: "2020-07-09"
+intitule_status: "goed"
+original_publication: "Stb.2020-236"
+original_signed_date: "2020-06-10"
+original_published_date: "2020-07-09"
+original_effect: "nieuwe-regeling"
+original_dossier: "35283"
+original_url_id: "stb-2020-236"
+entry_into_force_date: "2020-07-10"
+entry_into_force_dossier: "35283"
+jci_1_3: "jci1.3:c:BWBR0043813&z=2020-07-10&g=2020-07-10"
+jci_1_0: "1.0:c:BWBR0043813&g=2020-07-10"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingswet Elektriciteitswet 1998, enz. (implementatie wijziging Gasrichtlijn en verordeningen elektriciteit en gas)"
+signed_date: "2020-06-10"
+entry_into_force: "2020-07-10"
 ---
+# Wet van 10 juni 2020 tot wijziging van de Elektriciteitswet 1998 en Gaswet (implementatie wijziging Gasrichtlijn en een aantal verordeningen op het gebied van elektriciteit en gas)
 
-# Wijzigingswet Elektriciteitswet 1998, enz. (implementatie wijziging Gasrichtlijn en verordeningen elektriciteit en gas)
-
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Elektriciteitswet 1998.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Gaswet.
 
-#### Artikel III
+##### Artikel III
 
 Op ontheffingen die zijn verleend op basis van [artikel 18h van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=18h) zoals dit luidde voor het tijdstip van inwerkingtreding van [artikel II, onder K](https://wetten.overheid.nl/jci1.3:c:BWBR0043813&artikel=II&z=2020-07-10&g=2020-07-10), blijven de bepalingen van toepassing zoals die golden ingevolge de [Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440) zoals dat luidde op de dag voor het tijdstip van inwerkingtreding van artikel II, onder K.
 
-#### Artikel IV
+##### Artikel IV
 
 1. [Artikel I, onderdelen A, onder 1, subonderdeel a, B, E, onder 1, subonderdeel a, en onder 2, subonderdeel b, en onder 3, F, onder 1, G, H, I, onder 1 en onder 2, subonderdelen b, c en d, J, K tot en met N, O, onder 1, Q, onder 1, subonderdeel b, onder 2, subonderdeel b, en R](https://wetten.overheid.nl/jci1.3:c:BWBR0043813&artikel=I&z=2020-07-10&g=2020-07-10), treedt in werking met ingang van 1 januari 2020 of, indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 2019, met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 

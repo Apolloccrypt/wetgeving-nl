@@ -1,13 +1,39 @@
 ---
-title: "Regeling melden interne collectieve waardeoverdracht pensioenfondsen bij transitie"
+title: "Regeling van De Nederlandsche Bank N.V. (DNB) van 23 juni 2023 houdende regels met betrekking tot het melden van een interne collectieve waardeoverdracht bij transitie als bedoeld in artikel 150m van de Pensioenwet en artikel 145l van de Wet verplichte beroepspensioenregeling (Regeling melden interne collectieve waardeoverdracht pensioenfondsen bij transitie)"
 identifier: "BWBR0048348"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048348"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048348"
+soort: "zbo"
+stam_id: "16790183"
+version_id: "29712522"
+internal_id: "C42574031"
+label_id: "16705144"
+dtd_version: "2.0"
+original_entry_into_force: "2023-10-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048348/2025-07-01/0"
+intitule_bron: "Stcrt.2023-18235"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-06-23"
+intitule_published: "2023-07-03"
+intitule_in_force: "2023-06-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-30262"
+original_signed_date: "2023-10-30"
+original_published_date: "2023-11-07"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2023-30262"
+entry_into_force_date: "2023-10-30"
+jci_1_3: "jci1.3:c:BWBR0048348&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0048348&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling melden interne collectieve waardeoverdracht pensioenfondsen bij transitie"
+signed_date: "2023-10-30"
+entry_into_force: "2023-10-30"
 ---
-
 # Regeling van De Nederlandsche Bank N.V. (DNB) van 23 juni 2023 houdende regels met betrekking tot het melden van een interne collectieve waardeoverdracht bij transitie als bedoeld in artikel 150m van de Pensioenwet en artikel 145l van de Wet verplichte beroepspensioenregeling (Regeling melden interne collectieve waardeoverdracht pensioenfondsen bij transitie)
 
 Gelet op [artikel 150m, tweede lid, laatste volzin, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=150m);
@@ -20,7 +46,7 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop de Wet toekomst pensioenen in werking treedt.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 1. Voor de toepassing van deze regeling wordt verstaan onder:
 
@@ -40,15 +66,15 @@ Treedt in werking op het tijdstip waarop de Wet toekomst pensioenen in werking t
 
 2. Voor de toepassing van deze regeling wordt onder ‘werkgever’ mede verstaan de partijen die de wijziging van de pensioenregeling zijn overeengekomen.
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 Deze regeling is van toepassing op fondsen die een voornemen tot waardeoverdracht melden bij DNB, overeenkomstig [artikel 150m, tweede lid, Pw](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=150m), of [artikel 145l, tweede lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=145l).
 
-#### Artikel 3. Melding interne collectieve waardeoverdracht bij transitie
+##### Artikel 3. Melding interne collectieve waardeoverdracht bij transitie
 
 Een fonds meldt het voornemen tot waardeoverdracht bij DNB door middel van het formulier ‘Melding invaarbesluit en implementatieplan pensioenfondsen’ via 'Mijn DNB’, dienst ‘Toezicht aanvragen' van DNB.
 
-#### Artikel 4. Aan te leveren gegevens
+##### Artikel 4. Aan te leveren gegevens
 
 1. Bij de melding als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048348&artikel=3&z=2025-07-01&g=2025-07-01) dienen in ieder geval de volgende gegevens te worden overgelegd:
 
@@ -92,23 +118,23 @@ Een fonds meldt het voornemen tot waardeoverdracht bij DNB door middel van het f
 
 2. De melding wordt pas geacht te zijn ingediend nadat minimaal de gegevens als bedoeld in het eerste lid zijn verstrekt aan DNB op de wijze als voorgeschreven in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048348&artikel=5&z=2025-07-01&g=2025-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048348&artikel=6&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 5. Model voor de gegevensverstrekking
+##### Artikel 5. Model voor de gegevensverstrekking
 
 Bij de melding als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048348&artikel=3&z=2025-07-01&g=2025-07-01) dient het ingevulde invaarsjabloon als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048348&bijlage=1&z=2025-07-01&g=2025-07-01) bij deze Regeling te worden overgelegd.
 
-#### Artikel 6. Eisen aan de gegevensverstrekking
+##### Artikel 6. Eisen aan de gegevensverstrekking
 
 Gegevens die niet via [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048348&bijlage=1&z=2025-07-01&g=2025-07-01) kunnen worden overgelegd dienen te worden overgelegd in de vorm van een tekst-gebaseerd pdf-bestand of een xls(x)-bestand.
 
-#### Artikel 7. Indieningstermijn
+##### Artikel 7. Indieningstermijn
 
 De melding van een voornemen tot waardeoverdracht dient uiterlijk binnen twee weken nadat het besluit tot waardeoverdracht is genomen bij DNB te worden gemeld.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Deze regeling treedt in werking op het tijdstip waarop de [Wet toekomst pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0048328) in werking treedt.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling melden interne collectieve waardeoverdracht pensioenfondsen bij transitie.
 

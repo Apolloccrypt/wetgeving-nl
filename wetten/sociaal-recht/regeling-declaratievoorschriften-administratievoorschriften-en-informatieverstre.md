@@ -1,20 +1,45 @@
 ---
 title: "Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2026"
 identifier: "BWBR0052453"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-03-25
-laatste_update: 2026-03-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052453"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-03-25"
+last_updated: "2026-03-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052453"
+soort: "zbo"
+stam_id: "17819513"
+version_id: "31496672"
+internal_id: "C44978821"
+label_id: "17716734"
+dtd_version: "2.0"
+original_entry_into_force: "2026-03-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052453/2026-03-25/0"
+intitule_bron: "Stcrt.2026-11176"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-03-10"
+intitule_published: "2026-03-24"
+intitule_in_force: "2026-03-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-11176"
+original_signed_date: "2026-03-10"
+original_published_date: "2026-03-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-11176"
+entry_into_force_date: "2026-03-25"
+jci_1_3: "jci1.3:c:BWBR0052453&z=2026-03-25&g=2026-03-25"
+jci_1_0: "1.0:c:BWBR0052453&g=2026-03-25"
+citeertitel_status: "officieel"
+signed_date: "2026-03-10"
+entry_into_force: "2026-03-25"
 ---
-
 # Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2026
 
 **Grondslag**
 
 Gelet op [artikel 36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36), [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37), [artikel 38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38), [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=62), en [artikel 68 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van de administratie, registratie en declaratie van Wlz-zorg, het stellen van regels op het gebied van de administratieve organisatie en interne controle voor Wlz-zorgaanbieders, en het stellen van regels op het gebied van informatie die benodigd is om de aanvaardbare kosten [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) definitief te kunnen vaststellen.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
@@ -118,17 +143,17 @@ In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
 - **zzp-meerzorg:** zzp-meerzorg is een declarabele prestatie voor de bekostiging van zorg zoals bepaald in [artikel 3.1.1, tweede lid, van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.1.1) en [artikel 2.2 van de Regeling langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&artikel=2.2). De prestatie staat omschreven in de Beleidsregel prestatiebeschrijving en tarief zzp-meerzorg Wlz.
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Deze regeling beoogt inzichtelijke, rechtmatige declaraties te bevorderen en dubbele declaraties te voorkomen. Tevens beoogt deze regeling aan te geven welke informatie zorgaanbieders aan de NZa moeten verstrekken voor de definitieve vaststelling van de aanvaardbare kosten [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917).
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze regeling is, met uitzondering van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0052453&artikel=6&z=2026-03-25&g=2026-03-25), van toepassing op zorgaanbieders die zorg of een dienst leveren als omschreven bij of krachtens de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917).
 
 Deze regeling is, met uitzondering van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052453&artikel=4&z=2026-03-25&g=2026-03-25), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0052453&artikel=5&z=2026-03-25&g=2026-03-25), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0052453&artikel=7&z=2026-03-25&g=2026-03-25), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0052453&artikel=8&z=2026-03-25&g=2026-03-25) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0052453&artikel=9&z=2026-03-25&g=2026-03-25), tevens van toepassing op instellingen voor medisch specialistische zorg die zorg of een dienst leveren in combinatie met verblijf als omschreven bij of krachtens de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917).
 
-#### Artikel 4. Declaratievoorschriften Wlz-zorg
+##### Artikel 4. Declaratievoorschriften Wlz-zorg
 
 1. **Wijze van declareren**
 
@@ -364,7 +389,7 @@ Er kunnen geen declaraties plaatsvinden voor cliënten die niet of niet meer aan
 
 In het proces van de coördinatiekosten levensloopfunctie wordt door de Zorg- en Veiligheidshuizen de datum inclusie vastgelegd. Daar vindt ook de controle op de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) indicatie plaats. De levensloopaanbieder die de coördinatie gaat leveren, krijgt een bevestiging van de datum inclusie plus het bestaan van de Wlz-indicatie.
 
-#### Artikel 5. Administratie- en declaratievoorschriften zzp-meerzorg
+##### Artikel 5. Administratie- en declaratievoorschriften zzp-meerzorg
 
 1. **Administratievoorschriften zzp-meerzorg**
 
@@ -420,7 +445,7 @@ In het proces van de coördinatiekosten levensloopfunctie wordt door de Zorg- en
 
 - g. Zorgaanbieders maken bij declaratie in de factuur het zzp-meerzorg dat in rekening wordt gebracht duidelijk zichtbaar en welk tarief daarbij wordt gehanteerd. De declaratie van zzp-meerzorg vindt plaats op cliëntniveau. Dit houdt in dat de declaratie bestaat uit een overzicht van het per cliënt geleverde aantal dagen zzp-meerzorg en het gehanteerde zzp-meerzorg tarief.
 
-#### Artikel 6. Declaratievoorschrift Verkeerde bed Wlz
+##### Artikel 6. Declaratievoorschrift Verkeerde bed Wlz
 
 1. **Wijze van declareren verkeerde bed medisch specialistische zorg**
 
@@ -464,7 +489,7 @@ De zorgaanbieder die de zorg in onderaanneming uitvoert of aan wie de zorgverlen
 
 - h. Wanneer er sprake is van onderaanneming of uitbesteding wordt de prestatie alleen in rekening gebracht door de zorgaanbieder die door het zorgkantoor/de Wlz-uitvoerder voor de betreffende prestatie is gecontracteerd als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052453&artikel=7&z=2026-03-25&g=2026-03-25) (Tarifering onderlinge dienstverlening Wlz) van de Beleidsregel bekostigingscyclus Wlz 2026. De zorgaanbieder die de zorg in onderaanneming uitvoert of aan wie de zorgverlening is uitbesteed levert aan de zorgaanbieder die door het zorgkantoor/de Wlz-uitvoerder voor de betreffende prestatie is gecontracteerd de daarvoor benodigde persoonsgegevens aan. De zorgaanbieder die de zorg in onderaanneming uitvoert of aan wie de zorgverlening is uitbesteed, mag noch een afzonderlijke prestatie noch een deel van de prestatie in rekening brengen aan het zorgkantoor/de Wlz-uitvoerder.
 
-#### Artikel 7. Administratie- en declaratievoorschriften inzet crisis- en ondersteuningsteam (COT)
+##### Artikel 7. Administratie- en declaratievoorschriften inzet crisis- en ondersteuningsteam (COT)
 
 1. **Administratievoorschriften COT advies**
 
@@ -510,7 +535,7 @@ De zorgaanbieder die de zorg in onderaanneming uitvoert of aan wie de zorgverlen
 
 - j. De zorgaanbieder is verplicht bij einde inzet COT een melding einde zorg te doen bij het zorgkantoor.
 
-#### Artikel 8. Administratieve organisatie en interne controle Wlz-zorgaanbieders
+##### Artikel 8. Administratieve organisatie en interne controle Wlz-zorgaanbieders
 
 1. **Vastlegging van de zorgprestaties**
 
@@ -578,7 +603,7 @@ In het kader van onderaanneming c.q. uitbesteding is de opdrachtgevende zorgaanb
 
 - F. Artikel 8, vierde lid, is niet van toepassing op zelfstandige zorgverleners zonder personeel.
 
-#### Artikel 9. Informatieverstrekking en verplichtingen definitieve vaststelling aanvaardbare kosten [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
+##### Artikel 9. Informatieverstrekking en verplichtingen definitieve vaststelling aanvaardbare kosten [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
 
 1. **Te verstrekken informatie; nacalculatie-opgave**
 
@@ -666,13 +691,13 @@ Bovendien hoeft de gehele nacalculatie-opgave 2026 en eventuele toelichting(en) 
 
 Het zorgkantoor/de Wlz-uitvoerder controleert de door de zorgaanbieder ingevulde nacalculatie-opgave 2026. Waar nodig corrigeert het zorgkantoor /de Wlz-uitvoerder die opgave.
 
-#### Artikel 10. Intrekken/Vervallen oude regeling
+##### Artikel 10. Intrekken/Vervallen oude regeling
 
 Gelijktijdig met de inwerkingtreding van deze regeling wordt de [Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0051080), met kenmerk NR/REG-2516c, ingetrokken.
 
 Gelijktijdig met de inwerkingtreding van deze regeling wordt de [Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2026](https://wetten.overheid.nl/jci1.3:c:BWBR0051364), met kenmerk NR/REG-2614, ingetrokken
 
-#### Artikel 11. Toepasselijkheid voorafgaande regeling, bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 11. Toepasselijkheid voorafgaande regeling, bekendmaking, inwerkingtreding en citeertitel
 
 De [Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0051080) met kenmerk NR/REG-2516c blijft van toepassing op gedragingen (handelen en nalaten) van zorgaanbieders die onder de werkingssfeer van die regelingen vielen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regeling gold.
 

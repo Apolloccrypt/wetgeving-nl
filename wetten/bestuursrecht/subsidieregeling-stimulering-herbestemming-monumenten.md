@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling stimulering herbestemming monumenten"
+title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 12 oktober 2011, nr. WJZ/337681 (8299), houdende voorschriften betreffende de verstrekking van subsidie in 2011 en volgende jaren voor de instelling van een haalbaarheidsonderzoek voor de herbestemming van monumenten en voor het treffen van tijdelijke maatregelen ter voorkoming van het verval van monumenten (Subsidieregeling stimulering herbestemming monumenten)"
 identifier: "BWBR0030544"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-07-31
-laatste_update: 2024-07-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030544"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-07-31"
+last_updated: "2024-07-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030544"
+soort: "ministeriele-regeling"
+stam_id: "11467473"
+version_id: "26893552"
+internal_id: "C38081401"
+label_id: "11441244"
+dtd_version: "2.0"
+original_entry_into_force: "2020-07-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030544/2024-07-31/0"
+intitule_bron: "Stcrt.2011-19007"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-10-12"
+intitule_published: "2011-10-21"
+intitule_in_force: "2011-10-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-37639"
+original_signed_date: "2020-07-06"
+original_published_date: "2020-07-15"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2020-37639"
+entry_into_force_date: "2020-07-06"
+jci_1_3: "jci1.3:c:BWBR0030544&z=2024-07-31&g=2024-07-31"
+jci_1_0: "1.0:c:BWBR0030544&g=2024-07-31"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling stimulering herbestemming monumenten"
+signed_date: "2020-07-06"
+entry_into_force: "2020-07-06"
 ---
-
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 12 oktober 2011, nr. WJZ/337681 (8299), houdende voorschriften betreffende de verstrekking van subsidie in 2011 en volgende jaren voor de instelling van een haalbaarheidsonderzoek voor de herbestemming van monumenten en voor het treffen van tijdelijke maatregelen ter voorkoming van het verval van monumenten (Subsidieregeling stimulering herbestemming monumenten)
 
 Gelet op [artikel 34, zesde en zevende lid, van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=34);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 1. In deze regeling wordt verstaan onder:
 
@@ -50,11 +76,11 @@ Besluit:
 
 2. In deze regeling wordt onder monument tevens zelfstandig onderdeel begrepen, tenzij het tegendeel blijkt.
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 Subsidie kan worden verstrekt ten behoeve van een op grond van de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521), een omgevingsplan als bedoeld in [artikel 2.4 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4), een omgevingsverordening als bedoeld in [artikel 2.6 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.6), of een gemeentelijke verordening beschermd monument dan wel ten behoeve van een monument dat niet op grond van een van die regelingen is beschermd.
 
-#### Artikel 3. Begrotingsvoorbehoud
+##### Artikel 3. Begrotingsvoorbehoud
 
 Vervallen
 
@@ -62,7 +88,7 @@ Vervallen
 
 #### Paragraaf 2.1. **Algemeen**
 
-#### Artikel 4. Begripsbepalingen hoofdstuk 2
+##### Artikel 4. Begripsbepalingen hoofdstuk 2
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -70,7 +96,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - b. **aanvraag:** een aanvraag als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2024-07-31&g=2024-07-31).
 
-#### Artikel 5. Te subsidiëren activiteiten
+##### Artikel 5. Te subsidiëren activiteiten
 
 1. De minister kan subsidie verstrekken ten behoeve van:
 
@@ -114,7 +140,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 7. Onverminderd het zesde lid kan een aanvrager per monument per drie jaar ten hoogste één aanvraag indienen. Indien een monument uit meerdere zelfstandige onderdelen bestaat, kan een aanvrager per zelfstandig onderdeel per drie jaar ten hoogste één aanvraag indienen.
 
-#### Artikel 6. Aanvragers
+##### Artikel 6. Aanvragers
 
 1. Subsidie kan worden aangevraagd door:
 
@@ -130,7 +156,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 2. Voor de toepassing van dit artikel wordt onder een ander monument dan een woonhuis tevens begrepen een woonhuis dat onderdeel is van een samenstel van monumenten. Subsidie voor een woonhuis als bedoeld in de eerste volzin kan uitsluitend worden aangevraagd, indien voor dat samenstel van monumenten dan wel voor een of meer onderdelen daarvan tevens subsidie is aangevraagd.
 
-#### Artikel 7. Subsidieplafonds
+##### Artikel 7. Subsidieplafonds
 
 1. Voor subsidieverstrekking op grond van dit hoofdstuk is per subsidietijdvak is telkens een bedrag beschikbaar van:
 
@@ -146,7 +172,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 3. Indien in enig subsidietijdvak een beschikbaar bedrag als bedoeld in het eerste lid, onderdeel b, niet geheel wordt verstrekt, voegt de minister het resterende bedrag toe aan het subsidieplafond, bedoeld in dat onderdeel, voor het volgende subsidietijdvak.
 
-#### Artikel 8. Subsidiebedrag en subsidiabele kosten
+##### Artikel 8. Subsidiebedrag en subsidiabele kosten
 
 1. De subsidie voor een haalbaarheidsonderzoek, een interactief of procesgericht onderzoek, danwel een verduurzamingsonderzoek, bedraagt 70 procent van de kosten van dat onderzoek.
 
@@ -158,7 +184,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 #### Paragraaf 2.2. **Aanvraag**
 
-#### Artikel 9. Aanvraag en indieningsvereisten
+##### Artikel 9. Aanvraag en indieningsvereisten
 
 1. De subsidie wordt op aanvraag verstrekt.
 
@@ -194,7 +220,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - 2°. een verklaring van de eigenaar van het monument, waaruit blijkt dat hij medewerking zal verlenen aan de uitvoering van het desbetreffende onderzoek.
 
-#### Artikel 10. Indieningstermijn
+##### Artikel 10. Indieningstermijn
 
 1. De aanvraag wordt per subsidietijdvak ingediend van 1 oktober tot en met 30 november.
 
@@ -202,7 +228,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 #### Paragraaf 2.3. **Subsidievaststelling**
 
-#### Artikel 11. Weigeringsgronden
+##### Artikel 11. Weigeringsgronden
 
 Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt de verstrekking van een subsidie in elk geval geweigerd, voor zover:
 
@@ -214,7 +240,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 - d. de rechtspersoon, bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2024-07-31&g=2024-07-31), naar het oordeel van de minister onvoldoende of geen belang bij de herbestemming van het monument heeft.
 
-#### Artikel 12. Wijze van verdeling van de beschikbare middelen
+##### Artikel 12. Wijze van verdeling van de beschikbare middelen
 
 1. De minister voorziet in een gelijktijdige beslissing op aanvragen om subsidie met betrekking tot de activiteiten, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2024-07-31&g=2024-07-31).
 
@@ -228,7 +254,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 4. Indien bij toepassing van het tweede lid het subsidieplafond, bedoeld in [artikel 7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2024-07-31&g=2024-07-31), dreigt te worden overschreden of wordt overschreden door subsidieverstrekking aan alle aanvragers in een van de categorieën aanvragen als bedoeld in het tweede lid, wordt op de aanvragen voor verduurzamingsonderzoeken beslist aan de hand van de volgorde, bedoeld in het derde lid.
 
-#### Artikel 13. Beschikking tot subsidievaststelling
+##### Artikel 13. Beschikking tot subsidievaststelling
 
 1. De minister beslist binnen 13 weken na afloop van de periode, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2024-07-31&g=2024-07-31), op de aanvragen in de volgorde van de rangschikking, bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2024-07-31&g=2024-07-31), en zonodig met toepassing van artikel 12, derde lid.
 
@@ -248,7 +274,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 #### Paragraaf 2.4. **Verplichtingen en verantwoording**
 
-#### Artikel 14. Subsidieverplichtingen
+##### Artikel 14. Subsidieverplichtingen
 
 1. De ontvanger van een subsidie voltooit het haalbaarheidsonderzoek, hetzij het interactief of procesgericht onderzoek uiterlijk op het tijdstip, bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2024-07-31&g=2024-07-31).
 
@@ -258,7 +284,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 4. De ontvanger van een subsidie doet onmiddellijk schriftelijk mededeling aan de minister, indien aannemelijk is dat de activiteiten waarvoor de subsidie is verstrekt niet voor het tijdstip, bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2024-07-31&g=2024-07-31), zijn verricht dan wel niet of niet geheel zullen worden verricht.
 
-#### Artikel 15. Desgevraagd verantwoorden
+##### Artikel 15. Desgevraagd verantwoorden
 
 1. De ontvanger van een subsidie toont op verzoek van de minister aan dat:
 
@@ -272,7 +298,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 #### Paragraaf 3.1. **Algemeen**
 
-#### Artikel 16. Begripsbepalingen hoofdstuk 3
+##### Artikel 16. Begripsbepalingen hoofdstuk 3
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -280,7 +306,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - b. **aanvraag:** een aanvraag als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.2&artikel=23&z=2024-07-31&g=2024-07-31).
 
-#### Artikel 17. Te subsidiëren activiteiten
+##### Artikel 17. Te subsidiëren activiteiten
 
 1. De minister kan subsidie verstrekken ten behoeve van het treffen van tijdelijke maatregelen die er toe strekken om een monument wind- en waterdicht te maken dan wel om verval, verzakking of instorting van een monument te voorkomen met het oog op mogelijke herbestemming van een monument.
 
@@ -292,13 +318,13 @@ In dit hoofdstuk wordt verstaan onder:
 
 5. Indien een monument uit zelfstandige onderdelen bestaat of indien er sprake is van een samenstel van monumenten, kunnen voor dat monument onderscheidenlijk dat samenstel ten hoogste twee aanvragen om subsidie worden ingediend.
 
-#### Artikel 18. Aanvragers
+##### Artikel 18. Aanvragers
 
 1. Subsidie kan worden aangevraagd door eigenaren van een ander monument dan een woonhuis.
 
 2. Voor de toepassing van dit artikel wordt onder een ander monument dan een woonhuis tevens begrepen een woonhuis dat onderdeel is van een samenstel van monumenten.
 
-#### Artikel 19. Subsidieplafond
+##### Artikel 19. Subsidieplafond
 
 1. Voor de subsidieverstrekking op grond van dit hoofdstuk is per subsidietijdvak telkens een bedrag van € 720.000,– beschikbaar.
 
@@ -308,7 +334,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - b. het subsidieplafond, bedoeld in het eerste lid, voor het volgende subsidietijdvak.
 
-#### Artikel 20. Subsidiabele kosten
+##### Artikel 20. Subsidiabele kosten
 
 1. Als subsidiabele kosten worden aangemerkt de rechtstreeks aan het treffen van tijdelijke maatregelen toe te rekenen kosten, voor zover de werkzaamheden ter uitvoering van die maatregelen naar het oordeel van de minister technisch noodzakelijk zijn en sober en doelmatig zijn.
 
@@ -318,7 +344,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - b. kosten van het materiaal benodigd voor de in onderdeel a bedoelde werkzaamheden.
 
-#### Artikel 21. Niet-subsidiabele kosten
+##### Artikel 21. Niet-subsidiabele kosten
 
 1. Niet voor subsidie komen in ieder geval in aanmerking:
 
@@ -344,7 +370,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 2. Voorts komen niet voor subsidie in aanmerking kosten, voor zover die in geval van schade op grond van een verzekering worden vergoed.
 
-#### Artikel 22. Subsidiebedrag; minimum- en maximumbedrag aan subsidiabele kosten
+##### Artikel 22. Subsidiebedrag; minimum- en maximumbedrag aan subsidiabele kosten
 
 1. De subsidie voor tijdelijke maatregelen bedraagt 70 procent van de subsidiabele kosten.
 
@@ -352,7 +378,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 #### Paragraaf 3.2. **Aanvraag**
 
-#### Artikel 23. Aanvraag en indieningsvereisten
+##### Artikel 23. Aanvraag en indieningsvereisten
 
 1. De subsidie wordt op aanvraag verleend.
 
@@ -374,7 +400,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - e. in geval van een monument dat niet op grond van de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521), een omgevingsplan als bedoeld in [artikel 2.4 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4), een omgevingsverordening als bedoeld in [artikel 2.6 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.6), of een gemeentelijke verordening is beschermd, een verklaring van het college van burgemeester en wethouders van de desbetreffende gemeente dat het monument van algemeen belang is wegens zijn schoonheid, zijn betekenis voor de wetenschap of zijn cultuurhistorische waarde.
 
-#### Artikel 24. Indieningstermijn
+##### Artikel 24. Indieningstermijn
 
 1. De aanvraag wordt per subsidietijdvak ingediend van 1 oktober tot en met 30 november.
 
@@ -382,7 +408,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 #### Paragraaf 3.3. **Subsidieverstrekking**
 
-#### Artikel 25. Weigeringsgronden
+##### Artikel 25. Weigeringsgronden
 
 Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt de verstrekking van een subsidie in elk geval geweigerd, voor zover:
 
@@ -394,7 +420,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 - d. met het treffen van tijdelijke maatregelen is begonnen, voordat de aanvraag is ingediend.
 
-#### Artikel 26. Wijze van verdeling van de beschikbare middelen
+##### Artikel 26. Wijze van verdeling van de beschikbare middelen
 
 1. De minister voorziet in een gelijktijdige beslissing op aanvragen om subsidie met betrekking tot de activiteiten, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2024-07-31&g=2024-07-31).
 
@@ -406,7 +432,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 3. Indien bij toepassing van het tweede lid het subsidieplafond, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.1&artikel=19&z=2024-07-31&g=2024-07-31), dreigt te worden overschreden of wordt overschreden door subsidieverstrekking aan alle aanvragers in een van de categorieën aanvragen als bedoeld in het tweede lid, wordt op de aanvragen in die categorie beslist in de volgorde van de opgave van de kosten, bedoeld in [artikel 23, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.2&artikel=23&z=2024-07-31&g=2024-07-31), waarvoor subsidie wordt aangevraagd, waarbij een aanvraag met een lagere opgave van de kosten voorrang krijgt.
 
-#### Artikel 27. Beschikking op de subsidieaanvraag
+##### Artikel 27. Beschikking op de subsidieaanvraag
 
 1. Indien de te verstrekken subsidie € 25.000 of meer bedraagt, geeft de minister de beschikking tot subsidieverlening binnen 13 weken na afloop van de periode, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.2&artikel=24&z=2024-07-31&g=2024-07-31), in de volgorde van de rangschikking, bedoeld in [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.3&artikel=26&z=2024-07-31&g=2024-07-31), en zonodig met toepassing van artikel 26, derde lid.
 
@@ -416,11 +442,11 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 #### Paragraaf 3.4. **Bevoorschotting en verplichtingen**
 
-#### Artikel 28. Bevoorschotting
+##### Artikel 28. Bevoorschotting
 
 Indien de subsidie € 25.000 of meer bedraagt, verstrekt de minister een voorschot van 90 procent van het verleende subsidiebedrag onmiddellijk na de verlening van de subsidie. De minister verstrekt het resterende voorschot onmiddellijk na indiening van de prestatieverklaring, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.5&artikel=31&z=2024-07-31&g=2024-07-31).
 
-#### Artikel 29. Subsidieverplichtingen
+##### Artikel 29. Subsidieverplichtingen
 
 1. De ontvanger van een subsidie voltooit de werkzaamheden uiterlijk op het tijdstip, bedoeld in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.3&artikel=27&z=2024-07-31&g=2024-07-31).
 
@@ -428,23 +454,23 @@ Indien de subsidie € 25.000 of meer bedraagt, verstrekt de minister een voorsc
 
 #### Paragraaf 3.5. **Subsidievaststelling en verantwoording**
 
-#### Artikel 30. Aanvraag tot subsidievaststelling
+##### Artikel 30. Aanvraag tot subsidievaststelling
 
 1. Indien de subsidie € 25.000 of meer bedraagt, dient de ontvanger van een subsidie binnen 13 weken na het tijdstip, bedoeld in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.3&artikel=27&z=2024-07-31&g=2024-07-31), een aanvraag tot vaststelling van de subsidie in.
 
 2. De aanvraag wordt ingediend bij de Rijksdienst voor het Cultureel Erfgoed te Amersfoort.
 
-#### Artikel 31. Verantwoording
+##### Artikel 31. Verantwoording
 
 1. Indien de subsidie € 25.000 of meer bedraagt, toont de ontvanger van een subsidie aan de hand van een prestatieverklaring aan dat de activiteiten waarvoor de subsidie is verstrekt, zijn verricht en dat aan de aan de subsidie verbonden verplichtingen is voldaan. De minister stelt voor de prestatieverklaring een model vast. De prestatieverklaring wordt gevoegd bij de aanvraag, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.5&artikel=30&z=2024-07-31&g=2024-07-31).
 
 2. Indien de subsidie minder dan € 25.000 bedraagt, is [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.4&artikel=15&z=2024-07-31&g=2024-07-31), van toepassing. Aan de eerste volzin is in elk geval toepassing gegeven, indien de ontvanger van een subsidie een prestatieverklaring als bedoeld in het eerste lid overlegt.
 
-#### Artikel 32. Subsidievaststelling
+##### Artikel 32. Subsidievaststelling
 
 Indien de subsidie € 25.000 of meer bedraagt, stelt de minister de subsidie vast binnen 22 weken na ontvangst van de aanvraag, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.5&artikel=30&z=2024-07-31&g=2024-07-31).
 
-#### Artikel 33. Terugvordering
+##### Artikel 33. Terugvordering
 
 1. De subsidieontvanger is na de subsidievaststelling, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=3&paragraaf=3.5&artikel=32&z=2024-07-31&g=2024-07-31), verplicht onverschuldigd betaalde subsidiebedragen onmiddellijk terug te betalen, tenzij de minister tot verrekening heeft besloten.
 
@@ -452,27 +478,27 @@ Indien de subsidie € 25.000 of meer bedraagt, stelt de minister de subsidie va
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 34. Inwerkingtreding
+##### Artikel 34. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 november 2011.
 
-#### Artikel 35. Citeertitel
+##### Artikel 35. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling stimulering herbestemming monumenten.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 33a. Vervaldatum regeling
+##### Artikel 33a. Vervaldatum regeling
 
 Deze regeling vervalt met ingang van 1 oktober 2027.
 
-#### Artikel 33b. Vermindering subsidieplafond verduurzamingsonderzoeken 2024
+##### Artikel 33b. Vermindering subsidieplafond verduurzamingsonderzoeken 2024
 
 Voor het subsidietijdvak in 2024 is [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030544&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2024-07-31&g=2024-07-31), niet van toepassing ten aanzien van het beschikbare bedrag, bedoeld in artikel 7, eerste lid, onderdeel b.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a. Grondslag
+##### Artikel 1a. Grondslag
 
 Deze regeling berust op [artikel 7.7, eerste lid, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.7).
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit intrekking toezichtkaders onder vaststelling van beleidsregels Onderzoekskaders NBO PO 2017 en NBO VO 2017"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap, van 23 juni 2017, nr. 1201114, tot intrekking van toezichtkaders onder vaststelling van de beleidsregels Onderzoekskaders NBO PO 2017 en NBO VO 2017"
 identifier: "BWBR0039762"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-08-01
-laatste_update: 2017-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039762"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-08-01"
+last_updated: "2017-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039762"
+soort: "ministeriele-regeling"
+stam_id: "14061633"
+version_id: "24211862"
+internal_id: "C34781101"
+label_id: "14022664"
+dtd_version: "2.0"
+original_entry_into_force: "2017-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039762/2017-08-01/0"
+intitule_bron: "Stcrt.2017-38507"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-06-23"
+intitule_published: "2017-07-10"
+intitule_in_force: "2017-07-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-38507"
+original_signed_date: "2017-06-23"
+original_published_date: "2017-07-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-38507"
+entry_into_force_date: "2017-08-01"
+jci_1_3: "jci1.3:c:BWBR0039762&z=2017-08-01&g=2017-08-01"
+jci_1_0: "1.0:c:BWBR0039762&g=2017-08-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit intrekking toezichtkaders onder vaststelling van beleidsregels Onderzoekskaders NBO PO 2017 en NBO VO 2017"
+signed_date: "2017-06-23"
+entry_into_force: "2017-08-01"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap, van 23 juni 2017, nr. 1201114, tot intrekking van toezichtkaders onder vaststelling van de beleidsregels Onderzoekskaders NBO PO 2017 en NBO VO 2017
 
 Gelet op [artikel 13, eerste lid, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=13);
@@ -16,7 +42,7 @@ Gezien de voordracht van de Inspecteur-generaal van het onderwijs van 2 juni 201
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De volgende beleidsregels worden vastgesteld:
 
@@ -24,7 +50,7 @@ De volgende beleidsregels worden vastgesteld:
 
 - 2. Onderzoekskader NBO VO 2017 (bijlage II).
 
-#### Artikel 2
+##### Artikel 2
 
 De volgende beleidsregels worden ingetrokken:
 
@@ -36,7 +62,7 @@ De volgende beleidsregels worden ingetrokken:
 
 - d. Handelwijze bij het uitbrengen advies voortgezet onderwijs (Stcrt. 2008, 66).
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van 1 augustus 2017.
 

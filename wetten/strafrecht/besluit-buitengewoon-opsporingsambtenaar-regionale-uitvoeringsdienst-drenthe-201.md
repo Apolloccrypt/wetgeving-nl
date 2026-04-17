@@ -1,13 +1,39 @@
 ---
-title: "Besluit buitengewoon opsporingsambtenaar Regionale Uitvoeringsdienst Drenthe 2018"
+title: "Besluit van de Minister voor Rechtsbescherming van 27 december 2018 nr. BOACAT2018/065, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Regionale Uitvoeringsdienst Drenthe"
 identifier: "BWBR0041804"
-categorie: "Strafrecht"
-publicatiedatum: 2019-01-09
-laatste_update: 2019-01-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041804"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-01-09"
+last_updated: "2019-01-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041804"
+soort: "ministeriele-regeling"
+stam_id: "14945113"
+version_id: "25599192"
+internal_id: "C36530881"
+label_id: "14894984"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041804/2019-01-09/0"
+intitule_bron: "Stcrt.2019-517"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-12-27"
+intitule_published: "2019-01-08"
+intitule_in_force: "2019-01-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-517"
+original_signed_date: "2018-12-27"
+original_published_date: "2019-01-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-517"
+entry_into_force_date: "2019-01-09"
+jci_1_3: "jci1.3:c:BWBR0041804&z=2019-01-09&g=2019-01-09"
+jci_1_0: "1.0:c:BWBR0041804&g=2019-01-09"
+citeertitel_status: "officieel"
+short_title: "Besluit buitengewoon opsporingsambtenaar Regionale Uitvoeringsdienst Drenthe 2018"
+signed_date: "2018-12-27"
+entry_into_force: "2019-01-09"
 ---
-
 # Besluit van de Minister voor Rechtsbescherming van 27 december 2018 nr. BOACAT2018/065, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Regionale Uitvoeringsdienst Drenthe
 
 Gelezen het verzoek van de Regionale Uitvoeringsdienst Drenthe van 20 december 2018 en de adviezen van de hoofdofficier van justitie bij het Functioneel Parket en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
@@ -26,15 +52,15 @@ de [Beleidsregels buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/j
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041804&artikel=2&z=2019-01-09&g=2019-01-09).
 
-#### Artikel 2
+##### Artikel 2
 
 De personen, werkzaam in de functie van toezichthouders milieu, bodem, asbest, vuurwerk, Integrale toezicht in dienst van de Regionale Uitvoeringsdienst Drenthe, zijn aangewezen als buitengewoon opsporingsambtenaar.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein II, Milieu, welzijn en infrastructuur, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
 
@@ -42,17 +68,17 @@ De personen, werkzaam in de functie van toezichthouders milieu, bodem, asbest, v
 
 3. De buitengewoon opsporingsambtenaar vermeldt in zijn processen-verbaal en schriftelijke verslagleggingen het in het eerste lid genoemde domein.
 
-#### Artikel 4
+##### Artikel 4
 
 Op grond van dit besluit kunnen maximaal 10 personen als buitengewoon opsporingsambtenaar worden beëdigd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Als toezichthouder als bedoeld in artikel [36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de hoofdofficier van justitie bij het Functioneel Parket.
 
 2. Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27).
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Regionale Uitvoeringsdienst Drenthe brengt jaarlijks, voor 1 april, verslag uit over:
 
@@ -64,11 +90,11 @@ Op grond van dit besluit kunnen maximaal 10 personen als buitengewoon opsporings
 
 2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041804&artikel=5&z=2019-01-09&g=2019-01-09) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en vervalt vijf jaar na het tijdstip van inwerkingtreding.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Regionale Uitvoeringsdienst Drenthe 2018.
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling Europese EZK- en LNV-subsidies"
+title: "Regeling van de Staatssecretaris van Economische Zaken van 28 juni 2015, nr. WJZ / 15083650, houdende vaststelling van subsidie-instrumenten in het kader van de Europese structuur- en investeringsfondsen op het terrein van Economische Zaken (Regeling Europese EZ-subsidies)"
 identifier: "BWBR0036758"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-12-31
-laatste_update: 2025-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036758"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-12-31"
+last_updated: "2025-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036758"
+soort: "ministeriele-regeling"
+stam_id: "13192923"
+version_id: "28249302"
+internal_id: "C39828181"
+label_id: "13162294"
+dtd_version: "2.0"
+original_entry_into_force: "2021-12-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036758/2025-12-31/0"
+intitule_bron: "Stcrt.2015-18094"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-06-28"
+intitule_published: "2015-06-30"
+intitule_in_force: "2015-06-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-49546"
+original_signed_date: "2021-12-11"
+original_published_date: "2021-12-17"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2021-49546"
+entry_into_force_date: "2021-12-11"
+jci_1_3: "jci1.3:c:BWBR0036758&z=2025-12-31&g=2025-12-31"
+jci_1_0: "1.0:c:BWBR0036758&g=2025-12-31"
+citeertitel_status: "officieel"
+short_title: "Regeling Europese EZK- en LNV-subsidies"
+signed_date: "2021-12-11"
+entry_into_force: "2021-12-11"
 ---
-
 # Regeling van de Staatssecretaris van Economische Zaken van 28 juni 2015, nr. WJZ / 15083650, houdende vaststelling van subsidie-instrumenten in het kader van de Europese structuur- en investeringsfondsen op het terrein van Economische Zaken (Regeling Europese EZ-subsidies)
 
 Gelet op:
@@ -42,7 +68,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -82,11 +108,11 @@ In deze regeling wordt verstaan onder:
 
 - **verordening 508/2014:** verordening (EU) nr. 508/2014 van het Europees Parlement en de Raad van 15 mei 2014 inzake het Europees Fonds voor maritieme zaken en visserij en tot intrekking van de [Verordeningen (EG) nr. 2328/2003](32003R2328), [(EG) nr. 861/2006](32006R0861), [(EG) nr. 1198/2006](32006R1198) en [(EG) nr. 791/2007](32007R0791) van de Raad en Verordening (EU) [nr. 1255/2011](32011R1255) van het Europees Parlement en de Raad (PbEU 2014, L149).
 
-#### Artikel 1.2. Cumulatie
+##### Artikel 1.2. Cumulatie
 
 Onverminderd artikel 65, elfde lid, van [verordening 1303/2013](onbekend), wordt, indien reeds door een bestuursorgaan of de Europese Commissie subsidie is verstrekt voor de subsidiabele kosten of een deel daarvan, slechts een zodanig bedrag aan subsidie verstrekt dat het totale bedrag aan subsidies niet meer bedraagt dan het bedrag dat volgens de toepasselijke Europese verordeningen toegestaan is.
 
-#### Artikel 1.3. Subsidiabele kosten
+##### Artikel 1.3. Subsidiabele kosten
 
 1. Voor zover zij direct verbonden zijn met de uitvoering van de desbetreffende subsidiabele activiteit, komen als subsidiabele kosten in aanmerking:
 
@@ -102,7 +128,7 @@ Onverminderd artikel 65, elfde lid, van [verordening 1303/2013](onbekend), wordt
 
 3. Het eerste lid is niet van toepassing op het verstrekken van subsidie in het kader van Europese territoriale samenwerking als bedoeld in [paragraaf 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=5&paragraaf=4&z=2025-12-31&g=2025-12-31).
 
-#### Artikel 1.4. Berekening loonkosten en eigen arbeid
+##### Artikel 1.4. Berekening loonkosten en eigen arbeid
 
 1. Loonkosten worden berekend:
 
@@ -130,7 +156,7 @@ Onverminderd artikel 65, elfde lid, van [verordening 1303/2013](onbekend), wordt
 
 5. Indien wordt gekozen voor de integrale kostensystematiek, zijn [artikel 12, derde lid, van het Kaderbesluit nationale EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=12) en [artikel 1.2, eerste lid, van de Regeling nationale EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=1.2), van overeenkomstige toepassing.
 
-#### Artikel 1.5. Niet-subsidiabele kosten
+##### Artikel 1.5. Niet-subsidiabele kosten
 
 Onverminderd artikel 69, derde lid, van [verordening 1303/2013](32013R1303), komen in geval van [artikel 1.3, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=1&artikel=1.3&z=2025-12-31&g=2025-12-31), de volgende kosten niet in aanmerking voor subsidie:
 
@@ -150,33 +176,33 @@ Onverminderd artikel 69, derde lid, van [verordening 1303/2013](32013R1303), kom
 
 - h. kosten van outplacementtraject.
 
-#### Artikel 1.6. Wettelijke rente bij terugvordering
+##### Artikel 1.6. Wettelijke rente bij terugvordering
 
 Indien toepassing wordt gegeven aan [artikel 4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57), [artikel 6 van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=6) of in geval van terugvordering op grond van [verordening 1303/2013](onbekend), [verordening 1301/2013](onbekend), [verordening 1305/2013](onbekend), [verordening 508/2014](onbekend) of [verordening 809/2014](onbekend), worden terug te vorderen bedragen vermeerderd met de wettelijke rente, bedoeld in [artikel 6:120, eerste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=120), die wordt berekend over de periode vanaf de datum van het verstrijken van de termijn waarbinnen betaling door de subsidieontvanger moet plaatsvinden en de datum van terugbetaling door de subsidieontvanger.
 
-#### Artikel 1.7. Methode verrekenen van netto-inkomsten
+##### Artikel 1.7. Methode verrekenen van netto-inkomsten
 
 In geval een project of investering netto-inkomsten als bedoeld in artikel 61 van [verordening 1303/2013](onbekend) genereert, brengt de bevoegde autoriteit de netto-inkomsten bij de beschikking tot subsidieverlening in mindering op de subsidiabele kosten overeenkomstig de methode, bedoeld in artikel 61, derde lid, onderdeel b, van [verordening 1303/2013](onbekend), tenzij de bevoegde autoriteit voor de desbetreffende sector of subsector heeft gekozen voor een vast netto-inkomstenpercentage als bedoeld in artikel 61, derde lid, onderdeel a, van [verordening 1303/2013](onbekend).
 
-#### Artikel 1.8. Vaststelling beleidsregels
+##### Artikel 1.8. Vaststelling beleidsregels
 
 De bevoegde autoriteit stelt beleidsregels vast voor de toepassing van financiële correcties, als bedoeld in artikel 143, tweede lid, van [verordening 1303/2013](onbekend).
 
-#### Artikel 1.9. Vaststelling procedure
+##### Artikel 1.9. Vaststelling procedure
 
 Als procedure, bedoeld in artikel 140, vijfde lid, van [verordening 1303/2013](32013R1303) wordt vastgesteld de procedure van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&bijlage=1&z=2025-12-31&g=2025-12-31) bij deze regeling.
 
 ### Hoofdstuk 2. Regels omtrent subsidieverstrekking door de minister
 
-#### Artikel 2.1. Reikwijdte
+##### Artikel 2.1. Reikwijdte
 
 Dit hoofdstuk is van toepassing op [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=3&z=2025-12-31&g=2025-12-31) en [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=4&z=2025-12-31&g=2025-12-31), met uitzondering van [titel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=4&titeldeel=4.1&z=2025-12-31&g=2025-12-31).
 
-#### Artikel 2.2. Subsidiabele activiteiten
+##### Artikel 2.2. Subsidiabele activiteiten
 
 De minister kan op aanvraag voor activiteiten op de gebieden, genoemd in [artikel 2 van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=2), en voor activiteiten als bedoeld in [verordening 508/2014](onbekend) subsidie verstrekken.
 
-#### Artikel 2.3. Openstelling
+##### Artikel 2.3. Openstelling
 
 1. De minister kan op grond van deze regeling uitsluitend subsidie verstrekken indien hij de mogelijkheid tot het doen van een aanvraag tot subsidieverlening heeft opengesteld door vaststelling van een subsidieplafond en een periode voor indiening van de aanvraag.
 
@@ -184,7 +210,7 @@ De minister kan op aanvraag voor activiteiten op de gebieden, genoemd in [artike
 
 3. De minister kan verschillende subsidieplafonds vaststellen voor verschillende activiteiten of categorieën van aanvragers.
 
-#### Artikel 2.4. Wijze van verdelen
+##### Artikel 2.4. Wijze van verdelen
 
 De minister verdeelt het subsidieplafond:
 
@@ -196,7 +222,7 @@ De minister verdeelt het subsidieplafond:
 
 - d. door loting.
 
-#### Artikel 2.5. Verdeling op volgorde van binnenkomst
+##### Artikel 2.5. Verdeling op volgorde van binnenkomst
 
 1. Indien wordt gekozen voor verdeling van het subsidieplafond op volgorde van binnenkomst van de aanvragen, komt de aanvraag die het eerst is binnengekomen, het eerst voor subsidie in aanmerking.
 
@@ -204,17 +230,17 @@ De minister verdeelt het subsidieplafond:
 
 3. Indien de minister op de dag dat het subsidieplafond wordt bereikt meer dan één aanvraag ontvangt, en de volgorde van die aanvragen niet op grond van het tijdstip van binnenkomst kan worden vastgesteld, stelt hij de onderlinge rangschikking van die aanvragen vast door middel van loting.
 
-#### Artikel 2.6. Verdeling op volgorde van rangschikking
+##### Artikel 2.6. Verdeling op volgorde van rangschikking
 
 1. Indien wordt gekozen voor verdeling van het subsidieplafond op volgorde van rangschikking van de aanvragen, komt de aanvraag die naar het oordeel van de minister de grootste bijdrage levert aan de doelstelling van de subsidie, het eerst voor subsidie in aanmerking.
 
 2. Voor zover het subsidieplafond wordt overschreden, stelt de minister de onderlinge rangschikking van die aanvragen die bij de beoordeling gelijk zijn gerangschikt vast door middel van loting.
 
-#### Artikel 2.7. Verdeling van subsidieplafond per categorie
+##### Artikel 2.7. Verdeling van subsidieplafond per categorie
 
 Indien per categorie van aanvragers of activiteiten een subsidieplafond is vastgesteld, vindt de verdeling, bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=2&artikel=2.4&z=2025-12-31&g=2025-12-31), plaats per categorie.
 
-#### Artikel 2.8. Adviescommissie
+##### Artikel 2.8. Adviescommissie
 
 1. De minister kan een adviescommissie instellen.
 
@@ -240,7 +266,7 @@ Indien per categorie van aanvragers of activiteiten een subsidieplafond is vastg
 
 12. Een adviescommissie verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
-#### Artikel 2.9. Indienen van de aanvraag tot subsidieverlening
+##### Artikel 2.9. Indienen van de aanvraag tot subsidieverlening
 
 1. Een aanvraag tot subsidieverlening wordt ingediend met gebruikmaking van een middel, dat door de minister beschikbaar wordt gesteld.
 
@@ -274,11 +300,11 @@ Indien per categorie van aanvragers of activiteiten een subsidieplafond is vastg
 
 5. Indien aanvragers van subsidie samenwerken in een samenwerkingsverband, dient de penvoerder een aanvraag in.
 
-#### Artikel 2.10. Niet-subsidiabele kosten samenwerkingsverband
+##### Artikel 2.10. Niet-subsidiabele kosten samenwerkingsverband
 
 Onverminderd [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=1&artikel=1.5&z=2025-12-31&g=2025-12-31), komen in geval van een samenwerkingsverband, kosten die een deelnemer van het samenwerkingsverband in rekening brengt bij een andere deelnemer aan het samenwerkingsverband niet voor subsidie in aanmerking.
 
-#### Artikel 2.11. Afwijzingsgronden
+##### Artikel 2.11. Afwijzingsgronden
 
 1. De minister beslist afwijzend op een aanvraag tot subsidieverlening indien de aanvraag niet voldoet aan de bij deze regeling gestelde regels.
 
@@ -292,17 +318,17 @@ Onverminderd [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofd
 
 - d. de activiteiten onvoldoende bijdragen aan de doelstellingen van de subsidie.
 
-#### Artikel 2.12. Beslissing op de aanvraag
+##### Artikel 2.12. Beslissing op de aanvraag
 
 1. Indien het subsidieplafond wordt verdeeld op volgorde van rangschikking, wordt een beschikking tot subsidieverlening gegeven binnen 22 weken na afloop van de periode van het aanvragen van de subsidie.
 
 2. Indien het subsidieplafond op een andere wijze wordt verdeeld, wordt een beschikking tot subsidieverlening gegeven binnen 13 weken na afloop van het aanvragen van de subsidie.
 
-#### Artikel 2.13. Beslissing samenwerkingsverband
+##### Artikel 2.13. Beslissing samenwerkingsverband
 
 Indien de subsidie wordt verleend aan deelnemers in een samenwerkingsverband, verzendt de minister de beschikkingen tot subsidieverlening aan de penvoerder.
 
-#### Artikel 2.14. Bevoorschotting
+##### Artikel 2.14. Bevoorschotting
 
 1. Indien in deze regeling is bepaald dat er voorschotten worden verstrekt, bedraagt het voorschot ten hoogste 90% van de te verlenen subsidie.
 
@@ -322,7 +348,7 @@ Indien de subsidie wordt verleend aan deelnemers in een samenwerkingsverband, ve
 
 5. Voor zover van toepassing gaat een aanvraag om een voorschot vergezeld van gegevens over de netto-inkomsten, bedoeld in artikel 65, achtste lid, van verordening 1303/2013.
 
-#### Artikel 2.15. Algemene verplichtingen subsidieontvanger
+##### Artikel 2.15. Algemene verplichtingen subsidieontvanger
 
 1. De subsidieontvanger of de penvoerder doet onverwijld schriftelijk mededeling aan de minister van de indiening bij de rechtbank van een verzoek tot het op hem respectievelijk op een van de deelnemers van het samenwerkingsverband van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen, tot verlening van surseance van betaling aan hem respectievelijk aan een van de deelnemers van het samenwerkingsverband, of tot faillietverklaring van hem respectievelijk van een van de deelnemers van het samenwerkingsverband.
 
@@ -332,7 +358,7 @@ Indien de subsidie wordt verleend aan deelnemers in een samenwerkingsverband, ve
 
 - b. niet, niet tijdig of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan.
 
-#### Artikel 2.16. Uitvoering projectplan
+##### Artikel 2.16. Uitvoering projectplan
 
 1. Aan de beschikking tot subsidieverlening is, in geval deze betrekking heeft op een projectplan, de verplichting verbonden om de activiteiten overeenkomstig dit plan uit te voeren.
 
@@ -342,7 +368,7 @@ Indien de subsidie wordt verleend aan deelnemers in een samenwerkingsverband, ve
 
 4. Voor de toepassing van het derde lid geldt de voorwaarde dat door de ontheffing geen afbreuk wordt gedaan aan de activiteit waarvoor subsidie is verleend, het doel van de subsidie of de voorwaarden van de subsidieverstrekking, niet indien aan de verplichting, bedoeld in het eerste lid, niet kan worden voldaan uitsluitend als direct gevolg van de crisis in verband met COVID-19.
 
-#### Artikel 2.17. Administratieve verplichtingen subsidieontvanger
+##### Artikel 2.17. Administratieve verplichtingen subsidieontvanger
 
 1. De subsidieontvanger of penvoerder voert een zodanige administratie dat daaruit te allen tijde op eenvoudige en duidelijke wijze is af te leiden:
 
@@ -360,13 +386,13 @@ Indien de subsidie wordt verleend aan deelnemers in een samenwerkingsverband, ve
 
 3. De administratie wordt ten minste zeven jaar na de datum van de laatste betaling bewaard.
 
-#### Artikel 2.18. Tussenrapportage projecten
+##### Artikel 2.18. Tussenrapportage projecten
 
 1. Indien de periode van uitvoering van een project dat voor subsidie in aanmerking komt meer dan twaalf maanden in beslag neemt, wordt bij de beschikking tot subsidieverlening de verplichting opgelegd tot indiening van één of meer rapportages waarin de voortgang van het project wordt beschreven, waarbij rekening wordt gehouden met de mijlpalen van het project.
 
 2. Indien subsidieontvangers samenwerken in een samenwerkingsverband, kan de penvoerder hun rapportages indienen.
 
-#### Artikel 2.19. Instandhouding investering
+##### Artikel 2.19. Instandhouding investering
 
 1. Indien subsidie wordt verstrekt voor een investering als bedoeld in artikel 71, eerste lid, van [verordening 1303/2013](onbekend), wordt de beschikking tot subsidievaststelling onverminderd [artikel 4:49 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) ingetrokken of ten nadele van de subsidieontvanger gewijzigd indien de investering gedurende vijf jaar te rekenen vanaf de datum van de laatste betaling een belangrijke wijziging ondergaat die:
 
@@ -380,7 +406,7 @@ Indien de subsidie wordt verleend aan deelnemers in een samenwerkingsverband, ve
 
 3. Het tweede lid is niet van toepassing op het mkb.
 
-#### Artikel 2.20. Indienen aanvraag subsidievaststelling
+##### Artikel 2.20. Indienen aanvraag subsidievaststelling
 
 1. De subsidieontvanger dient zijn aanvraag tot subsidievaststelling in binnen dertien weken na het tijdstip waarop de activiteiten moeten zijn voltooid.
 
@@ -406,11 +432,11 @@ Indien de subsidie wordt verleend aan deelnemers in een samenwerkingsverband, ve
 
 - d. de wijze waarop de kennis en informatie, bedoeld in onderdeel c, openbaar is of zal worden gemaakt, indien in deze regeling is bepaald dat openbaarmaking plaatsvindt.
 
-#### Artikel 2.21. Indienen aanvraag subsidievaststelling samenwerkingsverband
+##### Artikel 2.21. Indienen aanvraag subsidievaststelling samenwerkingsverband
 
 Indien subsidieontvangers samenwerken in een samenwerkingsverband, dient de penvoerder hun aanvraag tot subsidievaststelling in.
 
-#### Artikel 2.22. Beschikking subsidievaststelling
+##### Artikel 2.22. Beschikking subsidievaststelling
 
 1. De minister geeft de beschikking tot subsidievaststelling binnen dertien weken na ontvangst van de aanvraag daartoe dan wel nadat de voor het indienen ervan geldende termijn is verstreken.
 
@@ -420,7 +446,7 @@ Indien subsidieontvangers samenwerken in een samenwerkingsverband, dient de penv
 
 ## Titel 3.1. Algemene bepalingen
 
-#### Artikel 3.1.1. Begripsbepalingen
+##### Artikel 3.1.1. Begripsbepalingen
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -498,11 +524,11 @@ In dit hoofdstuk wordt verstaan onder:
 
 - **zeevisserij:** zeevisserij als bedoeld in [artikel 1, vierde lid, onderdeel b, van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=1).
 
-#### Artikel 3.1.2. Niet-subsidiabele kosten
+##### Artikel 3.1.2. Niet-subsidiabele kosten
 
 Onverminderd [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=1&artikel=1.5&z=2025-12-31&g=2025-12-31), komen de kosten van de activiteiten bedoeld in artikel 11 van [verordening 508/2014](32014R0508) niet voor subsidie in aanmerking.
 
-#### Artikel 3.1.3. Afwijzingsgronden
+##### Artikel 3.1.3. Afwijzingsgronden
 
 Onverminderd [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=2&artikel=2.11&z=2025-12-31&g=2025-12-31), beslist de minister afwijzend op een aanvraag tot subsidieverlening indien:
 
@@ -512,7 +538,7 @@ Onverminderd [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoof
 
 - c. de subsidieaanvrager niet voldoet aan de verplichting tot het verstrekken van informatie, bedoeld in artikel 111 van [verordening 508/2014](32014R0508).
 
-#### Artikel 3.1.4. Indiening aanvraag tot subsidieverlening
+##### Artikel 3.1.4. Indiening aanvraag tot subsidieverlening
 
 Onverminderd [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=2&artikel=2.9&z=2025-12-31&g=2025-12-31) bevat een aanvraag tot subsidieverlening in ieder geval:
 
@@ -530,7 +556,7 @@ Onverminderd [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofd
 
 - g. een beschrijving van de communicatieactiviteiten, bedoeld in Bijlage V, paragraaf 3.1, tweede lid, onderdeel e, van verordening 508/2014 die de subsidieontvanger of het samenwerkingsverband wil gaan ondernemen.
 
-#### Artikel 3.1.5. Indiening aanvraag tot subsidievaststelling
+##### Artikel 3.1.5. Indiening aanvraag tot subsidievaststelling
 
 1. Onverminderd [artikel 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=2&artikel=2.20&z=2025-12-31&g=2025-12-31), bevat de aanvraag tot subsidievaststelling:
 
@@ -544,7 +570,7 @@ Onverminderd [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofd
 
 2. De aanvrager dient uiterlijk 31 oktober 2023 een aanvraag tot vaststelling van de subsidie in.
 
-#### Artikel 3.1.6. Verplichtingen subsidieontvanger
+##### Artikel 3.1.6. Verplichtingen subsidieontvanger
 
 1. De subsidieontvanger blijft gedurende ten minste vijf jaar na de datum van de laatste betaling voldoen aan de voorwaarden van artikel 10, eerste lid, van [verordening 508/2014](32014R0508).
 
@@ -564,7 +590,7 @@ Onverminderd [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofd
 
 9. De subsidieontvanger verleent de Europese Audit Autoriteit, de Europese Commissie of de Europese Rekenkamer alle medewerking die deze redelijkerwijs kan vorderen bij de uitoefening van hun taken.
 
-#### Artikel 3.1.7. Instandhouding van investeringen
+##### Artikel 3.1.7. Instandhouding van investeringen
 
 1. Indien subsidie wordt verstrekt aan een eigenaar van een vissersvaartuig als bedoeld in artikel 25 van [verordening 508/2014](onbekend), wordt de beschikking tot subsidievaststelling onverminderd [artikel 4:49 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) ingetrokken of ten nadele van de subsidieontvanger gewijzigd indien het vissersvaartuig binnen vijf jaar te rekenen vanaf de datum van de laatste betaling naar buiten de Europese Unie wordt overgedragen.
 
@@ -572,47 +598,47 @@ Onverminderd [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofd
 
 ## Titel 3.2. Jonge vissers
 
-#### Artikel 3.2.1. Begripsbepalingen
+##### Artikel 3.2.1. Begripsbepalingen
 
 Vervallen
 
-#### Artikel 3.2.2. Subsidiabele activiteiten
+##### Artikel 3.2.2. Subsidiabele activiteiten
 
 Vervallen
 
-#### Artikel 3.2.3. Indiening aanvraag tot subsidieverlening
+##### Artikel 3.2.3. Indiening aanvraag tot subsidieverlening
 
 Vervallen
 
-#### Artikel 3.2.4. Verdeling van het subsidieplafond
+##### Artikel 3.2.4. Verdeling van het subsidieplafond
 
 Vervallen
 
-#### Artikel 3.2.5. Subsidiabele kosten
+##### Artikel 3.2.5. Subsidiabele kosten
 
 Vervallen
 
-#### Artikel 3.2.6. Niet-subsidiabele kosten
+##### Artikel 3.2.6. Niet-subsidiabele kosten
 
 Vervallen
 
-#### Artikel 3.2.7. Hoogte van de subsidie
+##### Artikel 3.2.7. Hoogte van de subsidie
 
 Vervallen
 
-#### Artikel 3.2.8. Realisatietermijn
+##### Artikel 3.2.8. Realisatietermijn
 
 Vervallen
 
-#### Artikel 3.2.9. Afwijzingsgronden
+##### Artikel 3.2.9. Afwijzingsgronden
 
 Vervallen
 
-#### Artikel 3.2.10. Indienen aanvraag subsidievaststelling
+##### Artikel 3.2.10. Indienen aanvraag subsidievaststelling
 
 Vervallen
 
-#### Artikel 3.2.11
+##### Artikel 3.2.11
 
 Vervallen
 
@@ -622,85 +648,85 @@ Vervallen
 
 #### Paragraaf 4.1.1. Algemene bepalingen
 
-#### Artikel 4.1.1. Begripsbepalingen
+##### Artikel 4.1.1. Begripsbepalingen
 
 Vervallen
 
 #### Paragraaf 4.1.2. Voorschriften inzake de landbouwer
 
-#### Artikel 4.1.2. Subsidieaanvraag
+##### Artikel 4.1.2. Subsidieaanvraag
 
 Vervallen
 
-#### Artikel 4.1.3. Afwijzingsgronden
+##### Artikel 4.1.3. Afwijzingsgronden
 
 Vervallen
 
-#### Artikel 4.1.4. Hoogte van de subsidie
+##### Artikel 4.1.4. Hoogte van de subsidie
 
 Vervallen
 
-#### Artikel 4.1.5. Verdeling subsidieplafond
+##### Artikel 4.1.5. Verdeling subsidieplafond
 
 Vervallen
 
-#### Artikel 4.1.6. Aanvullende afwijzingsgronden
+##### Artikel 4.1.6. Aanvullende afwijzingsgronden
 
 Vervallen
 
-#### Artikel 4.1.7. Beslistermijn aanvraag
+##### Artikel 4.1.7. Beslistermijn aanvraag
 
 Vervallen
 
-#### Artikel 4.1.8. Verplichtingen aanvrager
+##### Artikel 4.1.8. Verplichtingen aanvrager
 
 Vervallen
 
-#### Artikel 4.1.9. Betaling subsidie
+##### Artikel 4.1.9. Betaling subsidie
 
 Vervallen
 
 #### Paragraaf 4.1.2. Voorschriften inzake de verzekeraar
 
-#### Artikel 4.1.10. Aanvraag verzekeraar
+##### Artikel 4.1.10. Aanvraag verzekeraar
 
 Vervallen
 
-#### Artikel 4.1.11. Voorwaarden goedkeuring verzekering
+##### Artikel 4.1.11. Voorwaarden goedkeuring verzekering
 
 Vervallen
 
-#### Artikel 4.1.12. Verlenging goedkeuring
+##### Artikel 4.1.12. Verlenging goedkeuring
 
 Vervallen
 
-#### Artikel 4.1.13. Ongunstige weersomstandigheden
+##### Artikel 4.1.13. Ongunstige weersomstandigheden
 
 Vervallen
 
-#### Artikel 4.1.14. Bijzondere voorwaarden
+##### Artikel 4.1.14. Bijzondere voorwaarden
 
 Vervallen
 
-#### Artikel 4.1.15. Rekenmodel
+##### Artikel 4.1.15. Rekenmodel
 
 Vervallen
 
 #### Paragraaf 4.1.3. Controles en sancties
 
-#### Artikel 4.1.16. Onregelmatigheden
+##### Artikel 4.1.16. Onregelmatigheden
 
 Vervallen
 
-#### Artikel 4.1.17. Administratieve controles en controles ter plaatse
+##### Artikel 4.1.17. Administratieve controles en controles ter plaatse
 
 Vervallen
 
-#### Artikel 4.1.18. Onverschuldigde betalingen, sancties en terugvorderingen
+##### Artikel 4.1.18. Onverschuldigde betalingen, sancties en terugvorderingen
 
 Vervallen
 
-#### Artikel 4.1.19. Vervaldatum
+##### Artikel 4.1.19. Vervaldatum
 
 Vervallen
 
@@ -708,7 +734,7 @@ Vervallen
 
 #### § 5.1. Algemene bepalingen
 
-#### Artikel 5.1.1. Begripsbepalingen
+##### Artikel 5.1.1. Begripsbepalingen
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -722,19 +748,19 @@ In dit hoofdstuk wordt verstaan onder:
 
 - **verordening 1299/2013:** verordening (EU) nr. 1299/2013 van het Europees Parlement en de Raad van 17 december 2013 betreffende specifieke bepalingen voor steun uit het Europees Fonds voor regionale ontwikkeling ter verwezenlijking van de doelstelling ‘Europese territoriale samenwerking’ (PbEU 2013, L347).
 
-#### Artikel 5.1.2. Vervaldatum
+##### Artikel 5.1.2. Vervaldatum
 
 Dit hoofdstuk vervalt met ingang van 1 januari 2024.
 
 #### § 5.2. Regels omtrent subsidieverstrekking door de managementautoriteit
 
-#### Artikel 5.2.1. Subsidiabele activiteiten
+##### Artikel 5.2.1. Subsidiabele activiteiten
 
 1. De managementautoriteit verstrekt subsidie voor activiteiten passend binnen het programma waarvoor de managementautoriteit is aangewezen.
 
 2. Een subsidie als bedoeld in het eerste lid kan worden verstrekt in de vorm van een bijdrage aan een financieringsinstrument.
 
-#### Artikel 5.2.2. Subsidieplafond en subsidiebedrag
+##### Artikel 5.2.2. Subsidieplafond en subsidiebedrag
 
 1. De managementautoriteit stelt een subsidieplafond of twee of meer deelplafonds ter uitvoering van deze regeling vast, alsmede de wijze van verdeling van het beschikbare bedrag onder het desbetreffende plafond.
 
@@ -742,17 +768,17 @@ Dit hoofdstuk vervalt met ingang van 1 januari 2024.
 
 3. De managementautoriteit maakt de criteria, bedoeld in artikel 125, derde lid, van [verordening 1303/2013](onbekend), die worden gehanteerd binnen de wijze van verdeling, bedoeld in het eerste lid, bekend.
 
-#### Artikel 5.2.3. Indiening subsidieaanvraag
+##### Artikel 5.2.3. Indiening subsidieaanvraag
 
 Een aanvraag om subsidie wordt ingediend met gebruikmaking van een middel dat door de managementautoriteit beschikbaar wordt gesteld.
 
-#### Artikel 5.2.4. Beslissing op de aanvraag
+##### Artikel 5.2.4. Beslissing op de aanvraag
 
 1. De managementautoriteit geeft binnen 26 weken een beschikking op een aanvraag tot subsidieverlening.
 
 2. In het geval van de verdeling van een beschikbaar subsidiebedrag, als bedoeld in [artikel 5.2.6, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=5&paragraaf=5.2&artikel=5.2.6&z=2023-11-02&g=2023-11-02), begint de termijn, bedoeld in het eerste lid, op de eerste dag na afloop van de aanvraagperiode.
 
-#### Artikel 5.2.5. Afwijzingsgronden
+##### Artikel 5.2.5. Afwijzingsgronden
 
 1. De managementautoriteit beslist afwijzend op een aanvraag indien:
 
@@ -774,7 +800,7 @@ Een aanvraag om subsidie wordt ingediend met gebruikmaking van een middel dat do
 
 4. Het eerste lid, onderdeel a, is niet van toepassing op het verstrekken van subsidie door de managementautoriteit van het programma, bedoeld in [artikel 5.4.2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=5&paragraaf=4&artikel=5.4.2&z=2023-11-02&g=2023-11-02).
 
-#### Artikel 5.2.6. Verdeling subsidiebedrag
+##### Artikel 5.2.6. Verdeling subsidiebedrag
 
 Behoudens de bijdrage aan een financieringsinstrument, bedoeld in [artikel 5.2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=5&paragraaf=5.2&artikel=5.2.2&z=2023-11-02&g=2023-11-02), verdeelt de managementautoriteit een beschikbaar subsidiebedrag
 
@@ -782,7 +808,7 @@ Behoudens de bijdrage aan een financieringsinstrument, bedoeld in [artikel 5.2.2
 
 - b. op basis van rangschikking naar geschiktheid, overeenkomstig [artikel 5.2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=5&paragraaf=5.2&artikel=5.2.8&z=2023-11-02&g=2023-11-02).
 
-#### Artikel 5.2.7. Volgorde van ontvangst
+##### Artikel 5.2.7. Volgorde van ontvangst
 
 1. Volgens de volgorde van ontvangst, bedoeld in [artikel 5.2.6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=5&paragraaf=5.2&artikel=5.2.6&z=2023-11-02&g=2023-11-02), komt de eerst ontvangen aanvraag het eerst voor subsidie in aanmerking.
 
@@ -790,19 +816,19 @@ Behoudens de bijdrage aan een financieringsinstrument, bedoeld in [artikel 5.2.2
 
 3. Indien de managementautoriteit op de dag dat het subsidieplafond wordt bereikt meer dan één aanvraag ontvangt, stelt zij de onderlinge rangschikking van die aanvragen vast door middel van loting.
 
-#### Artikel 5.2.8. Rangschikking naar geschiktheid
+##### Artikel 5.2.8. Rangschikking naar geschiktheid
 
 1. Volgens de rangschikking naar geschiktheid, bedoeld in [artikel 5.2.6, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=5&paragraaf=5.2&artikel=5.2.6&z=2023-11-02&g=2023-11-02), komt de hoogst gerangschikte aanvraag het eerst voor subsidie in aanmerking.
 
 2. Voor zover het subsidieplafond dreigt te worden overschreden, stelt de managementautoriteit de onderlinge rangschikking van die aanvragen die bij de beoordeling gelijk zijn gerangschikt vast door middel van loting.
 
-#### Artikel 5.2.9. Verplichtingen subsidieontvanger
+##### Artikel 5.2.9. Verplichtingen subsidieontvanger
 
 1. De subsidieontvanger voert het project uit overeenkomstig het projectplan waarop de subsidieverlening betrekking heeft en voltooit het uiterlijk op het bij de verlening bepaalde tijdstip.
 
 2. De in artikel 71, eerste lid, van [verordening 1303/2013](onbekend) bedoelde termijn van vijf jaar wordt in geval van het behoud van investeringen of van door het mkb gecreëerde werkgelegenheid, verkort tot drie jaar.
 
-#### Artikel 5.2.10. Wijziging project
+##### Artikel 5.2.10. Wijziging project
 
 Een wijziging van een project waarvoor subsidie wordt verstrekt, betreffende
 
@@ -816,7 +842,7 @@ Een wijziging van een project waarvoor subsidie wordt verstrekt, betreffende
 
 behoeft de goedkeuring van de managementautoriteit.
 
-#### Artikel 5.2.11. Meldingsplicht subsidieontvanger
+##### Artikel 5.2.11. Meldingsplicht subsidieontvanger
 
 De subsidieontvanger doet onverwijld schriftelijk melding aan de managementautoriteit zodra aannemelijk is dat
 
@@ -824,29 +850,29 @@ De subsidieontvanger doet onverwijld schriftelijk melding aan de managementautor
 
 - b. niet, niet tijdig of niet geheel aan de aan de beschikking tot subsidieverlening verbonden verplichtingen zal worden voldaan.
 
-#### Artikel 5.2.12. Administratie
+##### Artikel 5.2.12. Administratie
 
 1. De subsidieontvanger voert een administratie die zodanig is ingericht dat daaruit te allen tijde op eenvoudige en duidelijke wijze alle door hem gemaakte en betaalde kosten en de aan het project toe te rekenen opbrengsten kunnen worden afgelezen en gespecificeerd, met dien verstande dat ter zake van de kosten bedoeld in [artikel 1.4, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=1&artikel=1.4&z=2023-11-02&g=2023-11-02), een door middel van een inzichtelijke tijdschrijving controleerbare urenverantwoording per werknemer aanwezig dient te zijn.
 
 2. Indien de subsidieontvanger werkgever is, stelt deze voor personen als bedoeld in [artikel 1.4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=1&artikel=1.4&z=2023-11-02&g=2023-11-02), een document op met vermelding van het vaste percentage, bedoeld in dat onderdeel.
 
-#### Artikel 5.2.13. Verplichtingen
+##### Artikel 5.2.13. Verplichtingen
 
 1. De managementautoriteit kan verplichtingen verbinden aan de subsidie.
 
 2. De managementautoriteit verbindt zodanig verplichtingen aan de subsidie dat de subsidieontvanger aan de certificeringsautoriteit en de auditautoriteit de medewerking verleent die zij voor hun taakvervulling nodig hebben.
 
-#### Artikel 5.2.14. Aanvraag om subsidievaststelling
+##### Artikel 5.2.14. Aanvraag om subsidievaststelling
 
 Een aanvraag om subsidievaststelling wordt ingediend met gebruikmaking van een middel dat door de managementautoriteit beschikbaar wordt gesteld.
 
-#### Artikel 5.2.15. Beslissing op de aanvraag om subsidievaststelling
+##### Artikel 5.2.15. Beslissing op de aanvraag om subsidievaststelling
 
 De managementautoriteit geeft binnen 26 weken een beschikking op een aanvraag tot subsidievaststelling.
 
 #### § 5.1. Algemene bepalingen
 
-#### Artikel 5.3.1. Subsidieaanvraag
+##### Artikel 5.3.1. Subsidieaanvraag
 
 1. De minister verstrekt op aanvraag subsidie aan degene die een project tot stand brengt dat past in een programma en dat bijdraagt aan de realisatie van het Rijksbeleid op het gebied van innovatie of koolstofarme economie.
 
@@ -856,7 +882,7 @@ De managementautoriteit geeft binnen 26 weken een beschikking op een aanvraag to
 
 - b. de bevordering van het crisisherstel in de context van de COVID-19-pandemie en de voorbereiding van een groen, digitaal en veerkrachtig herstel van de economie.
 
-#### Artikel 5.3.2. Subsidieplafond
+##### Artikel 5.3.2. Subsidieplafond
 
 1. Het subsidieplafond voor subsidies als bedoeld in [artikel 5.3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2023-11-02&g=2023-11-02), is voor de gehele programmaperiode:
 
@@ -880,7 +906,7 @@ De managementautoriteit geeft binnen 26 weken een beschikking op een aanvraag to
 
 3. Het voor de cofinanciering beschikbare bedrag wordt in jaarlijkse tranches beschikbaar gesteld.
 
-#### Artikel 5.3.3. Afwijzingsgronden
+##### Artikel 5.3.3. Afwijzingsgronden
 
 De minister beslist afwijzend op een aanvraag om subsidie, indien:
 
@@ -890,19 +916,19 @@ De minister beslist afwijzend op een aanvraag om subsidie, indien:
 
 - c. de subsidieaanvrager niet in aanmerking komt voor subsidie op grond van [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=5&paragraaf=5.2&z=2023-11-02&g=2023-11-02).
 
-#### Artikel 5.3.4. Schakelbepaling
+##### Artikel 5.3.4. Schakelbepaling
 
 In afwijking van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=2&z=2023-11-02&g=2023-11-02), zijn de [artikelen 5.2.3 tot en met 5.2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=5&paragraaf=5.2&artikel=5.2.3&z=2023-11-02&g=2023-11-02) van overeenkomstige toepassing.
 
 #### Paragraaf 4.1.1. Algemene bepalingen
 
-#### Artikel 5.4.1. Subsidieaanvraag
+##### Artikel 5.4.1. Subsidieaanvraag
 
 1. De Minister verstrekt op aanvraag een programmasubsidie voor de programma’s, bedoeld in [artikel 5.4.2, eerste lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=5&paragraaf=4&artikel=5.4.2&z=2023-11-02&g=2023-11-02).
 
 2. De Minister verstrekt op aanvraag een subsidie aan degene die een project tot stand brengt dat past in het programma, bedoeld in [artikel 5.4.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=5&paragraaf=4&artikel=5.4.2&z=2023-11-02&g=2023-11-02).
 
-#### Artikel 5.4.2. Subsidieplafond
+##### Artikel 5.4.2. Subsidieplafond
 
 1. Het subsidieplafond voor subsidies als bedoeld in [artikel 5.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=5&paragraaf=4&artikel=5.4.1&z=2023-11-02&g=2023-11-02) is voor de gehele programmaperiode:
 
@@ -918,7 +944,7 @@ In afwijking van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&h
 
 3. Rentebaten over een voorschot worden op dezelfde wijze besteed als de programmasubsidie of als de subsidie, bedoeld in [artikel 5.4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=5&paragraaf=4&artikel=5.4.1&z=2023-11-02&g=2023-11-02).
 
-#### Artikel 5.4.3. Instemming Minister en afwijzingsgronden
+##### Artikel 5.4.3. Instemming Minister en afwijzingsgronden
 
 1. De ontvanger van een programmasubsidie als bedoeld in [artikel 5.4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=5&paragraaf=4&artikel=5.4.1&z=2023-11-02&g=2023-11-02), financiert geen projecten ten laste van de programmasubsidie als bedoeld in artikel 5.4.1, eerste lid, zonder voorafgaande schriftelijke instemming van de minister.
 
@@ -960,11 +986,11 @@ In afwijking van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&h
 
 ### Hoofdstuk 6. Overige bepalingen en slotbepalingen
 
-#### Artikel 6.1. Wijziging van de [Regeling openstelling EZ-subsidies 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035991)
+##### Artikel 6.1. Wijziging van de [Regeling openstelling EZ-subsidies 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035991)
 
 Wijzigt de Regeling openstelling EZ-subsidies 2015.
 
-#### Artikel 6.2. Overgangsrecht
+##### Artikel 6.2. Overgangsrecht
 
 1. Het recht zoals dat luidde voor 1 juli 2015, blijft van toepassing op:
 
@@ -984,7 +1010,7 @@ Wijzigt de Regeling openstelling EZ-subsidies 2015.
 
 3. Op aanvragen om subsidie die zijn ingediend voor het tijdstip van inwerkingtreding van een wijziging van deze regeling, op subsidies die voor dat tijdstip zijn verleend en op subsidies die voor dat tijdstip zijn vastgesteld, blijft deze regeling van toepassing zoals deze luidde voor dat tijdstip tenzij de wijziging met terugwerkende kracht in werking treedt.
 
-#### Artikel 6.3. Intrekken regelingen
+##### Artikel 6.3. Intrekken regelingen
 
 1. De [Regeling LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0021281) wordt ingetrokken.
 
@@ -992,11 +1018,11 @@ Wijzigt de Regeling openstelling EZ-subsidies 2015.
 
 3. De [Regeling Subsidiëring brede weersverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0036188) wordt ingetrokken.
 
-#### Artikel 6.4. Inwerkingtreding
+##### Artikel 6.4. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 juli 2015, met uitzondering van [artikel 6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=6&artikel=6.3&z=2025-12-31&g=2025-12-31), dat in werking treedt met ingang van 1 januari 2016.
 
-#### Artikel 6.5. Citeertitel
+##### Artikel 6.5. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Europese EZK- en LNV-subsidies.
 
@@ -1024,7 +1050,7 @@ Indien een subsidieontvanger gebruik maakt van elektronische documenten waarbij 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3.1.8. Adviescommissie
+##### Artikel 3.1.8. Adviescommissie
 
 1. Er is een adviescommissie EFMZV die tot taak heeft de minister te adviseren over de afwijzingsgrond, bedoeld in [artikel 2.11, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=2&artikel=2.11&z=2025-12-31&g=2025-12-31), en de rangschikking van aanvragen tot subsidieverlening, indien de verdeling van een subsidieplafond overeenkomstig [artikel 2.4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=2&artikel=2.4&z=2025-12-31&g=2025-12-31), wordt bepaald.
 
@@ -1034,71 +1060,71 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Titel 3.2. Jonge vissers
 
-#### Artikel 3.3.1. Begripsbepalingen
+##### Artikel 3.3.1. Begripsbepalingen
 
 Vervallen
 
-#### Artikel 3.3.2. Subsidiabele activiteiten
+##### Artikel 3.3.2. Subsidiabele activiteiten
 
 Vervallen
 
-#### Artikel 3.3.3. Betrokkenheid van een technische of wetenschappelijke organisatie
+##### Artikel 3.3.3. Betrokkenheid van een technische of wetenschappelijke organisatie
 
 Vervallen
 
-#### Artikel 3.3.4. Indiening aanvraag tot subsidieverlening
+##### Artikel 3.3.4. Indiening aanvraag tot subsidieverlening
 
 Vervallen
 
-#### Artikel 3.3.5. Verdeling van het subsidieplafond
+##### Artikel 3.3.5. Verdeling van het subsidieplafond
 
 Vervallen
 
-#### Artikel 3.3.6. Rangschikkingscriteria
+##### Artikel 3.3.6. Rangschikkingscriteria
 
 Vervallen
 
-#### Artikel 3.3.7. Beschikkingen onder opschortende voorwaarde
+##### Artikel 3.3.7. Beschikkingen onder opschortende voorwaarde
 
 Vervallen
 
-#### Artikel 3.3.8. Niet subsidiabele kosten
+##### Artikel 3.3.8. Niet subsidiabele kosten
 
 Vervallen
 
-#### Artikel 3.3.9. Hoogte van de subsidie
+##### Artikel 3.3.9. Hoogte van de subsidie
 
 Vervallen
 
-#### Artikel 3.3.10. Start- en realisatietermijn
+##### Artikel 3.3.10. Start- en realisatietermijn
 
 Vervallen
 
-#### Artikel 3.3.11. Verplichtingen subsidieontvanger
+##### Artikel 3.3.11. Verplichtingen subsidieontvanger
 
 Vervallen
 
-#### Artikel 3.3.12. Afwijzingsgrond
+##### Artikel 3.3.12. Afwijzingsgrond
 
 Vervallen
 
-#### Artikel 3.3.13. Intellectuele eigendomsrechten
+##### Artikel 3.3.13. Intellectuele eigendomsrechten
 
 Vervallen
 
-#### Artikel 3.3.14. Voorschot
+##### Artikel 3.3.14. Voorschot
 
 Vervallen
 
-#### Artikel 3.3.15. Verrekening van netto-inkomsten
+##### Artikel 3.3.15. Verrekening van netto-inkomsten
 
 Vervallen
 
-#### Artikel 3.3.16. Indienen aanvraag tot subsidievaststelling
+##### Artikel 3.3.16. Indienen aanvraag tot subsidievaststelling
 
 Vervallen
 
-#### Artikel 3.3.17. Vervaltermijn
+##### Artikel 3.3.17. Vervaltermijn
 
 Vervallen
 
@@ -1194,59 +1220,59 @@ Indien een subsidieontvanger gebruik maakt van elektronische documenten waarbij 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3.4.1. Begripsbepaling
+##### Artikel 3.4.1. Begripsbepaling
 
 Vervallen
 
-#### Artikel 3.4.2. Subsidiabele activiteiten
+##### Artikel 3.4.2. Subsidiabele activiteiten
 
 Vervallen
 
-#### Artikel 3.4.3. Betrokkenheid van een technische of wetenschappelijke organisatie
+##### Artikel 3.4.3. Betrokkenheid van een technische of wetenschappelijke organisatie
 
 Vervallen
 
-#### Artikel 3.4.4. Indiening aanvraag tot subsidieverlening
+##### Artikel 3.4.4. Indiening aanvraag tot subsidieverlening
 
 Vervallen
 
-#### Artikel 3.4.5. Verdeling van het subsidieplafond
+##### Artikel 3.4.5. Verdeling van het subsidieplafond
 
 Vervallen
 
-#### Artikel 3.4.6. Rangschikkingscriteria
+##### Artikel 3.4.6. Rangschikkingscriteria
 
 Vervallen
 
-#### Artikel 3.4.7. Niet subsidiabele kosten
+##### Artikel 3.4.7. Niet subsidiabele kosten
 
 Vervallen
 
-#### Artikel 3.4.8. Hoogte van de subsidie
+##### Artikel 3.4.8. Hoogte van de subsidie
 
 Vervallen
 
-#### Artikel 3.4.9. Start- en realisatietermijn
+##### Artikel 3.4.9. Start- en realisatietermijn
 
 Vervallen
 
-#### Artikel 3.4.10. Toepassing [artikel 3.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=3&titeldeel=3.1&artikel=3.1.7&z=2025-12-31&g=2025-12-31)
+##### Artikel 3.4.10. Toepassing [artikel 3.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=3&titeldeel=3.1&artikel=3.1.7&z=2025-12-31&g=2025-12-31)
 
 Vervallen
 
-#### Artikel 3.4.11. Afwijzingsgrond
+##### Artikel 3.4.11. Afwijzingsgrond
 
 Vervallen
 
-#### Artikel 3.4.12. Voorschot
+##### Artikel 3.4.12. Voorschot
 
 Vervallen
 
-#### Artikel 3.4.13. Indienen aanvraag tot subsidievaststelling
+##### Artikel 3.4.13. Indienen aanvraag tot subsidievaststelling
 
 Vervallen
 
-#### Artikel 3.4.14. Vervaltermijn
+##### Artikel 3.4.14. Vervaltermijn
 
 Vervallen
 
@@ -1300,55 +1326,55 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Titel 3.5. Aquacultuurinnovatieprojecten
 
-#### Artikel 3.5.1. Begripsbepalingen
+##### Artikel 3.5.1. Begripsbepalingen
 
 Vervallen
 
-#### Artikel 3.5.2. Subsidiabele activiteiten
+##### Artikel 3.5.2. Subsidiabele activiteiten
 
 Vervallen
 
-#### Artikel 3.5.3. Betrokkenheid van een technische of wetenschappelijke organisatie
+##### Artikel 3.5.3. Betrokkenheid van een technische of wetenschappelijke organisatie
 
 Vervallen
 
-#### Artikel 3.5.4. Indiening aanvraag tot subsidieverlening
+##### Artikel 3.5.4. Indiening aanvraag tot subsidieverlening
 
 Vervallen
 
-#### Artikel 3.5.5. Verdeling van het subsidieplafond
+##### Artikel 3.5.5. Verdeling van het subsidieplafond
 
 Vervallen
 
-#### Artikel 3.5.6. Rangschikkingscriteria
+##### Artikel 3.5.6. Rangschikkingscriteria
 
 Vervallen
 
-#### Artikel 3.5.7. Hoogte van de subsidie
+##### Artikel 3.5.7. Hoogte van de subsidie
 
 Vervallen
 
-#### Artikel 3.5.8. Start- en realisatietermijn
+##### Artikel 3.5.8. Start- en realisatietermijn
 
 Vervallen
 
-#### Artikel 3.5.9. Milieueffecten
+##### Artikel 3.5.9. Milieueffecten
 
 Vervallen
 
-#### Artikel 3.5.10. Afwijzingsgronden
+##### Artikel 3.5.10. Afwijzingsgronden
 
 Vervallen
 
-#### Artikel 3.5.11. Voorschot
+##### Artikel 3.5.11. Voorschot
 
 Vervallen
 
-#### Artikel 3.5.12. Indienen aanvraag tot subsidievaststelling
+##### Artikel 3.5.12. Indienen aanvraag tot subsidievaststelling
 
 Vervallen
 
-#### Artikel 3.5.13. Vervaltermijn
+##### Artikel 3.5.13. Vervaltermijn
 
 Vervallen
 
@@ -1396,7 +1422,7 @@ Indien een subsidieontvanger gebruik maakt van elektronische documenten waarbij 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3.1.4.a. Voorschotverlening en opdrachtgunning
+##### Artikel 3.1.4.a. Voorschotverlening en opdrachtgunning
 
 Voor zover de subsidieontvanger voor de kosten waarvoor hij een voorschot als bedoeld in [artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=2&artikel=2.14&z=2025-12-31&g=2025-12-31) aanvraagt, een opdracht als bedoeld in [artikel 3.1.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=3&titeldeel=3.1&artikel=3.1.6&z=2025-12-31&g=2025-12-31), heeft verleend, bevat de aanvraag tot voorschotverlening als bedoeld in artikel 2.14, kopieën van de opgevraagde offertes als bedoeld in artikel 3.1.6, tweede lid, en de relevante redenen voor een op basis van deze offertes genomen gunningsbeslissing.
 
@@ -1406,39 +1432,39 @@ Voor zover de subsidieontvanger voor de kosten waarvoor hij een voorschot als be
 
 ## Titel 3.6. Afzetbevorderingsprojecten
 
-#### Artikel 3.7.1. Begripsbepalingen
+##### Artikel 3.7.1. Begripsbepalingen
 
 Vervallen
 
-#### Artikel 3.7.2. Subsidiabele activiteiten
+##### Artikel 3.7.2. Subsidiabele activiteiten
 
 Vervallen
 
-#### Artikel 3.7.3. Aantal aanvragen
+##### Artikel 3.7.3. Aantal aanvragen
 
 Vervallen
 
-#### Artikel 3.7.4. Verdeling van het subsidieplafond
+##### Artikel 3.7.4. Verdeling van het subsidieplafond
 
 Vervallen
 
-#### Artikel 3.7.5. Hoogte van de subsidie
+##### Artikel 3.7.5. Hoogte van de subsidie
 
 Vervallen
 
-#### Artikel 3.7.6. Afwijzingsgronden
+##### Artikel 3.7.6. Afwijzingsgronden
 
 Vervallen
 
-#### Artikel 3.7.7. Realisatietermijn
+##### Artikel 3.7.7. Realisatietermijn
 
 Vervallen
 
-#### Artikel 3.7.8. Verplichtingen
+##### Artikel 3.7.8. Verplichtingen
 
 Vervallen
 
-#### Artikel 3.7.9. Vervaltermijn
+##### Artikel 3.7.9. Vervaltermijn
 
 Vervallen
 
@@ -1488,39 +1514,39 @@ Indien een subsidieontvanger gebruik maakt van elektronische documenten waarbij 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3.6.1. Begripsbepalingen
+##### Artikel 3.6.1. Begripsbepalingen
 
 Vervallen
 
-#### Artikel 3.6.2. Subsidiabele activiteiten
+##### Artikel 3.6.2. Subsidiabele activiteiten
 
 Vervallen
 
-#### Artikel 3.6.3. Verdeling van het subsidieplafond
+##### Artikel 3.6.3. Verdeling van het subsidieplafond
 
 Vervallen
 
-#### Artikel 3.6.4. Rangschikkingscriteria
+##### Artikel 3.6.4. Rangschikkingscriteria
 
 Vervallen
 
-#### Artikel 3.6.5. Hoogte van de subsidie
+##### Artikel 3.6.5. Hoogte van de subsidie
 
 Vervallen
 
-#### Artikel 3.6.6. Start- en realisatietermijn
+##### Artikel 3.6.6. Start- en realisatietermijn
 
 Vervallen
 
-#### Artikel 3.6.7. Afwijzingsgrond
+##### Artikel 3.6.7. Afwijzingsgrond
 
 Vervallen
 
-#### Artikel 3.6.8. Voorschot
+##### Artikel 3.6.8. Voorschot
 
 Vervallen
 
-#### Artikel 3.6.9. Vervaltermijn
+##### Artikel 3.6.9. Vervaltermijn
 
 Vervallen
 
@@ -1568,7 +1594,7 @@ Indien een subsidieontvanger gebruik maakt van elektronische documenten waarbij 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3.1.9. Verrekening netto-inkomsten
+##### Artikel 3.1.9. Verrekening netto-inkomsten
 
 1. Voor zover van toepassing worden bij subsidieverlening de subsidiabele kosten overeenkomstig artikel 61 of artikel 65, achtste lid, van verordening 1303/2013 verminderd met de netto-inkomsten, bedoeld in de artikelen 61 of 65, achtste lid, van die verordening.
 
@@ -1596,75 +1622,75 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### Paragraaf 4.2.1. Algemene bepalingen
 
-#### Artikel 4.2.1. Begripsbepalingen
+##### Artikel 4.2.1. Begripsbepalingen
 
 Vervallen
 
 #### Paragraaf 4.2.2. Voorschriften inzake de erkenning van een kwaliteitsregeling
 
-#### Artikel 4.2.2. Eisen aan erkenning
+##### Artikel 4.2.2. Eisen aan erkenning
 
 Vervallen
 
-#### Artikel 4.2.3. Aanvraag en verlening erkenning
+##### Artikel 4.2.3. Aanvraag en verlening erkenning
 
 Vervallen
 
-#### Artikel 4.2.4. Schorsing en intrekking erkenning
+##### Artikel 4.2.4. Schorsing en intrekking erkenning
 
 Vervallen
 
-#### Artikel 4.2.5. Wijzigingen doorgeven
+##### Artikel 4.2.5. Wijzigingen doorgeven
 
 Vervallen
 
-#### Artikel 4.2.6. Verplichtingen certificerende instantie
+##### Artikel 4.2.6. Verplichtingen certificerende instantie
 
 Vervallen
 
-#### Artikel 4.2.7. Subsidieaanvraag en openstellingsperiode
+##### Artikel 4.2.7. Subsidieaanvraag en openstellingsperiode
 
 Vervallen
 
-#### Artikel 4.2.8. Absolute weigeringsgronden
+##### Artikel 4.2.8. Absolute weigeringsgronden
 
 Vervallen
 
-#### Artikel 4.2.9. Subsidiabele activiteiten en kosten
+##### Artikel 4.2.9. Subsidiabele activiteiten en kosten
 
 Vervallen
 
-#### Artikel 4.2.10. Hoogte van de subsidie
+##### Artikel 4.2.10. Hoogte van de subsidie
 
 Vervallen
 
-#### Artikel 4.2.11. Subsidieplafond en verdeling
+##### Artikel 4.2.11. Subsidieplafond en verdeling
 
 Vervallen
 
-#### Artikel 4.2.12. Rangschikkingscriteria
+##### Artikel 4.2.12. Rangschikkingscriteria
 
 Vervallen
 
-#### Artikel 4.2.13. Verplichtingen aanvrager
+##### Artikel 4.2.13. Verplichtingen aanvrager
 
 Vervallen
 
-#### Artikel 4.2.14. Betaling subsidie
+##### Artikel 4.2.14. Betaling subsidie
 
 Vervallen
 
-#### Artikel 4.2.15. Overdracht van bedrijf
+##### Artikel 4.2.15. Overdracht van bedrijf
 
 Vervallen
 
 #### Paragraaf 4.2.4. Controles en sancties
 
-#### Artikel 4.2.16. Onregelmatigheden, controles en sancties
+##### Artikel 4.2.16. Onregelmatigheden, controles en sancties
 
 Vervallen
 
-#### Artikel 4.2.17. Vervaldatum
+##### Artikel 4.2.17. Vervaldatum
 
 Vervallen
 
@@ -1842,75 +1868,75 @@ Indien een subsidieontvanger gebruik maakt van elektronische documenten waarbij 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3.8.1. Begripsbepalingen
+##### Artikel 3.8.1. Begripsbepalingen
 
 Vervallen
 
-#### Artikel 3.8.2. Subsidiabele activiteiten
+##### Artikel 3.8.2. Subsidiabele activiteiten
 
 Vervallen
 
-#### Artikel 3.8.3. Betrokkenheid van een wetenschappelijke of technische organisatie
+##### Artikel 3.8.3. Betrokkenheid van een wetenschappelijke of technische organisatie
 
 Vervallen
 
-#### Artikel 3.8.4. Validatie door een wetenschappelijke organisatie
+##### Artikel 3.8.4. Validatie door een wetenschappelijke organisatie
 
 Vervallen
 
-#### Artikel 3.8.5. Indiening aanvraag tot subsidieverlening
+##### Artikel 3.8.5. Indiening aanvraag tot subsidieverlening
 
 Vervallen
 
-#### Artikel 3.8.6. Verdeling van het subsidieplafond
+##### Artikel 3.8.6. Verdeling van het subsidieplafond
 
 Vervallen
 
-#### Artikel 3.8.7. Rangschikkingscriteria
+##### Artikel 3.8.7. Rangschikkingscriteria
 
 Vervallen
 
-#### Artikel 3.8.8. Beschikkingen onder opschortende voorwaarde
+##### Artikel 3.8.8. Beschikkingen onder opschortende voorwaarde
 
 Vervallen
 
-#### Artikel 3.8.9. Niet-subsidiabele kosten
+##### Artikel 3.8.9. Niet-subsidiabele kosten
 
 Vervallen
 
-#### Artikel 3.8.10. Hoogte van de subsidie
+##### Artikel 3.8.10. Hoogte van de subsidie
 
 Vervallen
 
-#### Artikel 3.8.11. Start- en realisatietermijn
+##### Artikel 3.8.11. Start- en realisatietermijn
 
 Vervallen
 
-#### Artikel 3.8.12. Verplichtingen subsidieontvanger
+##### Artikel 3.8.12. Verplichtingen subsidieontvanger
 
 Vervallen
 
-#### Artikel 3.8.13. Afwijzingsgrond
+##### Artikel 3.8.13. Afwijzingsgrond
 
 Vervallen
 
-#### Artikel 3.8.14. Intellectuele eigendomsrechten
+##### Artikel 3.8.14. Intellectuele eigendomsrechten
 
 Vervallen
 
-#### Artikel 3.8.15. Voorschot
+##### Artikel 3.8.15. Voorschot
 
 Vervallen
 
-#### Artikel 3.8.16. Netto-inkomsten
+##### Artikel 3.8.16. Netto-inkomsten
 
 Vervallen
 
-#### Artikel 3.8.17. Indienen aanvraag tot subsidievaststelling
+##### Artikel 3.8.17. Indienen aanvraag tot subsidievaststelling
 
 Vervallen
 
-#### Artikel 3.8.18. Vervaltermijn
+##### Artikel 3.8.18. Vervaltermijn
 
 Vervallen
 
@@ -2110,17 +2136,17 @@ Indien een subsidieontvanger gebruik maakt van elektronische documenten waarbij 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3.4.3a. Validatie door een wetenschappelijke organisatie
+##### Artikel 3.4.3a. Validatie door een wetenschappelijke organisatie
 
 Vervallen
 
 ## Titel 3.5. Aquacultuurinnovatieprojecten
 
-#### Artikel 3.5.3a. Validatie door een wetenschappelijke organisatie
+##### Artikel 3.5.3a. Validatie door een wetenschappelijke organisatie
 
 De resultaten van het project worden door een wetenschappelijke organisatie gevalideerd.
 
-#### Artikel 3.5.6a. Niet subsidiabele kosten
+##### Artikel 3.5.6a. Niet subsidiabele kosten
 
 Onverminderd de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=1&artikel=1.5&z=2021-03-24&g=2021-03-24) en [3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=3&titeldeel=3.1&artikel=3.1.2&z=2021-03-24&g=2021-03-24), komen kosten voor vervanging of modernisering van hoofd- of hulpmotoren niet in aanmerking voor subsidie.
 
@@ -2132,55 +2158,55 @@ Onverminderd de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&
 
 ## Titel 3.9. Samenwerkingsprojecten wetenschap en visserij
 
-#### Artikel 3.9.1. Begripsbepalingen
+##### Artikel 3.9.1. Begripsbepalingen
 
 Vervallen
 
-#### Artikel 3.9.2. Subsidiabele activiteiten
+##### Artikel 3.9.2. Subsidiabele activiteiten
 
 Vervallen
 
-#### Artikel 3.9.3. Indiening aanvraag tot subsidieverlening
+##### Artikel 3.9.3. Indiening aanvraag tot subsidieverlening
 
 Vervallen
 
-#### Artikel 3.9.4. Verdeling van het subsidieplafond
+##### Artikel 3.9.4. Verdeling van het subsidieplafond
 
 Vervallen
 
-#### Artikel 3.9.5. Rangschikkingscriteria
+##### Artikel 3.9.5. Rangschikkingscriteria
 
 Vervallen
 
-#### Artikel 3.9.6. Niet-subsidiabele kosten
+##### Artikel 3.9.6. Niet-subsidiabele kosten
 
 Vervallen
 
-#### Artikel 3.9.7. Hoogte van de subsidie
+##### Artikel 3.9.7. Hoogte van de subsidie
 
 Vervallen
 
-#### Artikel 3.9.8. Start- en realisatietermijn
+##### Artikel 3.9.8. Start- en realisatietermijn
 
 Vervallen
 
-#### Artikel 3.9.9. Verplichtingen subsidieontvanger
+##### Artikel 3.9.9. Verplichtingen subsidieontvanger
 
 Vervallen
 
-#### Artikel 3.9.10. Afwijzingsgronden
+##### Artikel 3.9.10. Afwijzingsgronden
 
 Vervallen
 
-#### Artikel 3.9.11. Voorschot
+##### Artikel 3.9.11. Voorschot
 
 Vervallen
 
-#### Artikel 3.9.12. Adviescommissie
+##### Artikel 3.9.12. Adviescommissie
 
 Vervallen
 
-#### Artikel 3.9.13. Vervaltermijn
+##### Artikel 3.9.13. Vervaltermijn
 
 Vervallen
 
@@ -2376,39 +2402,39 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Titel 3.10. Investeringen voor toegevoegde waarde van visserijproducten
 
-#### Artikel 3.10.1. Subsidiabele activiteiten
+##### Artikel 3.10.1. Subsidiabele activiteiten
 
 Vervallen
 
-#### Artikel 3.10.2. Aantal aanvragen
+##### Artikel 3.10.2. Aantal aanvragen
 
 Vervallen
 
-#### Artikel 3.10.3. Indiening aanvraag tot subsidieverlening
+##### Artikel 3.10.3. Indiening aanvraag tot subsidieverlening
 
 Vervallen
 
-#### Artikel 3.10.4. Verdeling van het subsidieplafond
+##### Artikel 3.10.4. Verdeling van het subsidieplafond
 
 Vervallen
 
-#### Artikel 3.10.5. Hoogte van de subsidie
+##### Artikel 3.10.5. Hoogte van de subsidie
 
 Vervallen
 
-#### Artikel 3.10.6. Realisatietermijn
+##### Artikel 3.10.6. Realisatietermijn
 
 Vervallen
 
-#### Artikel 3.10.7. Afwijzingsgronden
+##### Artikel 3.10.7. Afwijzingsgronden
 
 Vervallen
 
-#### Artikel 3.10.8. Indiening aanvraag tot subsidievaststelling
+##### Artikel 3.10.8. Indiening aanvraag tot subsidievaststelling
 
 Vervallen
 
-#### Artikel 3.10.9. Vervaltermijn
+##### Artikel 3.10.9. Vervaltermijn
 
 Vervallen
 
@@ -2608,91 +2634,91 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Titel 4.3. Welzijnsvriendelijke stalvloeren voor vleeskalveren
 
-#### Artikel 4.3.1. Begripsbepalingen
+##### Artikel 4.3.1. Begripsbepalingen
 
 Vervallen
 
 #### Paragraaf 4.3.1. Algemene bepalingen
 
-#### Artikel 4.3.2. Subsidieaanvraag en hoogte subsidie
+##### Artikel 4.3.2. Subsidieaanvraag en hoogte subsidie
 
 Vervallen
 
-#### Artikel 4.3.3. Absolute afwijzingsgronden
+##### Artikel 4.3.3. Absolute afwijzingsgronden
 
 Vervallen
 
-#### Artikel 4.3.4. Subsidieplafond en verdeling
+##### Artikel 4.3.4. Subsidieplafond en verdeling
 
 Vervallen
 
-#### Artikel 4.3.5. Rangschikkingscriteria
+##### Artikel 4.3.5. Rangschikkingscriteria
 
 Vervallen
 
-#### Artikel 4.3.6. Niet-subsidiabele kosten
+##### Artikel 4.3.6. Niet-subsidiabele kosten
 
 Vervallen
 
-#### Artikel 4.3.7. Realisatietermijn
+##### Artikel 4.3.7. Realisatietermijn
 
 Vervallen
 
-#### Artikel 4.3.8. Indienen aanvraag subsidievaststelling
+##### Artikel 4.3.8. Indienen aanvraag subsidievaststelling
 
 Vervallen
 
 #### Paragraaf 4.3.3. Controles en sancties
 
-#### Artikel 4.3.9. Onregelmatigheden, controles en sancties
+##### Artikel 4.3.9. Onregelmatigheden, controles en sancties
 
 Vervallen
 
-#### Artikel 4.3.10. Vervaldatum
+##### Artikel 4.3.10. Vervaldatum
 
 Vervallen
 
 ## Titel 4.4. Ammoniakreductie in stallen voor vleeskalveren
 
-#### Artikel 4.4.1. Begripsbepalingen
+##### Artikel 4.4.1. Begripsbepalingen
 
 Vervallen
 
 #### Paragraaf 4.4.1. Algemene bepalingen
 
-#### Artikel 4.4.2. Subsidieaanvraag en hoogte subsidie
+##### Artikel 4.4.2. Subsidieaanvraag en hoogte subsidie
 
 Vervallen
 
-#### Artikel 4.4.3. Absolute afwijzingsgronden
+##### Artikel 4.4.3. Absolute afwijzingsgronden
 
 Vervallen
 
-#### Artikel 4.4.4. Subsidieplafond en verdeling
+##### Artikel 4.4.4. Subsidieplafond en verdeling
 
 Vervallen
 
-#### Artikel 4.4.5. Rangschikkingscriteria
+##### Artikel 4.4.5. Rangschikkingscriteria
 
 Vervallen
 
-#### Artikel 4.4.6. Niet-subsidiabele kosten
+##### Artikel 4.4.6. Niet-subsidiabele kosten
 
 Vervallen
 
-#### Artikel 4.4.7. Realisatietermijn
+##### Artikel 4.4.7. Realisatietermijn
 
 Vervallen
 
-#### Artikel 4.4.8. Indienen aanvraag subsidievaststelling
+##### Artikel 4.4.8. Indienen aanvraag subsidievaststelling
 
 Vervallen
 
-#### Artikel 4.4.9. Onregelmatigheden, controles en sancties
+##### Artikel 4.4.9. Onregelmatigheden, controles en sancties
 
 Vervallen
 
-#### Artikel 4.4.10. Vervaldatum
+##### Artikel 4.4.10. Vervaldatum
 
 Vervallen
 
@@ -2908,11 +2934,11 @@ De fabrikant geeft op deze vloer ten minste 5 jaar garantie op slijtage, product
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5.4.4. Schakelbepaling
+##### Artikel 5.4.4. Schakelbepaling
 
 Voor het programma, bedoeld in [artikel 5.4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=5&paragraaf=4&artikel=5.4.1&z=2023-11-02&g=2023-11-02), is [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=5&paragraaf=5.2&z=2023-11-02&g=2023-11-02), met uitzondering van de [artikelen 5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=5&paragraaf=5.2&artikel=5.2.2&z=2023-11-02&g=2023-11-02), [5.2.6, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=5&paragraaf=5.2&artikel=5.2.6&z=2023-11-02&g=2023-11-02), en [5.2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=5&paragraaf=5.2&artikel=5.2.8&z=2023-11-02&g=2023-11-02), van overeenkomstige toepassing, met dien verstande dat voor ‘de managementautoriteit’ telkens wordt gelezen: ‘de Minister’.
 
-#### Artikel 5.4.5. Hoogte van de subsidie
+##### Artikel 5.4.5. Hoogte van de subsidie
 
 De subsidie, bedoeld in [artikel 5.4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=5&paragraaf=4&artikel=5.4.1&z=2023-11-02&g=2023-11-02), bedraagt ten hoogste 15 procent van de subsidiabele kosten van het project.
 
@@ -3106,7 +3132,7 @@ De fabrikant geeft op deze vloer ten minste 5 jaar garantie op slijtage, product
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1.4a. Berekening overige subsidiabele kosten
+##### Artikel 1.4a. Berekening overige subsidiabele kosten
 
 De kosten, bedoeld in [artikel 1.3, eerste lid, onderdelen b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=1&artikel=1.3&z=2025-12-31&g=2025-12-31), kunnen worden berekend door de loonkosten, berekend overeenkomstig [artikel 1.4, eerste lid, onderdeel a, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=1&artikel=1.4&z=2025-12-31&g=2025-12-31), te vermenigvuldigen met 40%.
 
@@ -3166,61 +3192,61 @@ De kosten, bedoeld in [artikel 1.3, eerste lid, onderdelen b tot en met d](https
 
 ## Titel 4.5. Pilots toekomstbestendige landbouw nieuw GLB
 
-#### Artikel 4.5.1. Begripsbepalingen
+##### Artikel 4.5.1. Begripsbepalingen
 
 Vervallen
 
-#### Artikel 4.5.2. Subsidieaanvraag
+##### Artikel 4.5.2. Subsidieaanvraag
 
 Vervallen
 
-#### Artikel 4.5.3. Begunstigden
+##### Artikel 4.5.3. Begunstigden
 
 Vervallen
 
-#### Artikel 4.5.4. Hoogte subsidie
+##### Artikel 4.5.4. Hoogte subsidie
 
 Vervallen
 
-#### Artikel 4.5.5. Verdeling subsidieplafond
+##### Artikel 4.5.5. Verdeling subsidieplafond
 
 Vervallen
 
-#### Artikel 4.5.6. Realisatietermijn
+##### Artikel 4.5.6. Realisatietermijn
 
 Vervallen
 
-#### Artikel 4.5.7. Afwijzingsgronden
+##### Artikel 4.5.7. Afwijzingsgronden
 
 Vervallen
 
-#### Artikel 4.5.8. Rangschikkingscriteria
+##### Artikel 4.5.8. Rangschikkingscriteria
 
 Vervallen
 
-#### Artikel 4.5.9. Verplichtingen subsidieontvanger
+##### Artikel 4.5.9. Verplichtingen subsidieontvanger
 
 Vervallen
 
-#### Artikel 4.5.10. Voorschotverlening
+##### Artikel 4.5.10. Voorschotverlening
 
 Vervallen
 
-#### Artikel 4.5.11. Onregelmatigheden, administratieve controles en controles ter plaatse
+##### Artikel 4.5.11. Onregelmatigheden, administratieve controles en controles ter plaatse
 
 Vervallen
 
-#### Artikel 4.5.12. Onverschuldigde betalingen, sancties en terugvorderingen
+##### Artikel 4.5.12. Onverschuldigde betalingen, sancties en terugvorderingen
 
 Vervallen
 
-#### Artikel 4.5.13. Vervaltermijn
+##### Artikel 4.5.13. Vervaltermijn
 
 Vervallen
 
 ## Titel 4.6. Niet-productieve investeringen agrarisch natuurbeheer leefgebieden weidevogels en akkervogels
 
-#### Artikel 4.6.1. Begripsbepalingen
+##### Artikel 4.6.1. Begripsbepalingen
 
 In deze titel wordt verstaan onder:
 
@@ -3230,7 +3256,7 @@ In deze titel wordt verstaan onder:
 
 - **verordening 1306/2013** : verordening (EU) nr. 1306/2013 van het Europees Parlement en de Raad van 17 december 2013 inzake de financiering, het beheer en de monitoring van het gemeenschappelijk landbouwbeleid en tot intrekking van [Verordeningen (EEG) nr. 352/78](31978R0352), [(EG) nr. 165/94](31994R0165), [(EG) nr. 2799/98](31998R2799), [(EG) nr. 814/2000](32000R0814), [(EG) nr. 1290/2005](32005R1290) en [(EG) nr. 485/2008](32008R0485) van de Raad (PbEU 2013, L 347).
 
-#### Artikel 4.6.2. Subsidieaanvraag
+##### Artikel 4.6.2. Subsidieaanvraag
 
 1. De minister verstrekt op aanvraag subsidie voor een gezamenlijk project bestaande uit niet-productieve investeringen die:
 
@@ -3298,11 +3324,11 @@ In deze titel wordt verstaan onder:
 
 - e. het plaatsen van muizenruiters.
 
-#### Artikel 4.6.3. Hoogte subsidie
+##### Artikel 4.6.3. Hoogte subsidie
 
 De subsidie bedraagt 100% van de subsidiabele kosten, doch ten hoogste € 1.000.000.
 
-#### Artikel 4.6.4. Subsidiabele kosten
+##### Artikel 4.6.4. Subsidiabele kosten
 
 1. Voor subsidie komen uitsluitend kosten als bedoeld in [artikel 1.3, eerste lid, onderdelen a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=1&artikel=1.3&z=2021-12-18&g=2021-12-18), in aanmerking, voor zover deze bestaan uit:
 
@@ -3330,15 +3356,15 @@ De subsidie bedraagt 100% van de subsidiabele kosten, doch ten hoogste € 1.000
 
 2. De kosten, bedoeld in het eerste lid, onderdelen e, f, g en k, bedragen tezamen ten hoogste 15% van de totale kosten.
 
-#### Artikel 4.6.5. Verdeling subsidieplafond
+##### Artikel 4.6.5. Verdeling subsidieplafond
 
 De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aanvragen.
 
-#### Artikel 4.6.6. Realisatietermijn
+##### Artikel 4.6.6. Realisatietermijn
 
 De investering is afgerond op 31 december 2022.
 
-#### Artikel 4.6.7. Afwijzingsgronden
+##### Artikel 4.6.7. Afwijzingsgronden
 
 Onverminderd [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=2&artikel=2.11&z=2021-12-18&g=2021-12-18) beslist de minister afwijzend op een aanvraag voor subsidieverlening indien:
 
@@ -3346,7 +3372,7 @@ Onverminderd [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoof
 
 - b. aan een aanvraag minder dan 18 punten zijn toegekend op grond van [artikel 4.6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=4&titeldeel=4.6&artikel=4.6.8&z=2021-12-18&g=2021-12-18).
 
-#### Artikel 4.6.8. Rangschikkingscriteria
+##### Artikel 4.6.8. Rangschikkingscriteria
 
 1. De minister kent aan een aanvraag een hoger aantal punten toe naarmate naar verwachting:
 
@@ -3364,19 +3390,19 @@ Onverminderd [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoof
 
 5. Indien aan twee of meer aanvragen in totaal een gelijk aantal punten is toegekend, wordt een aanvraag hoger gerangschikt naarmate meer punten zijn toegekend aan respectievelijk onderdeel a, b, en c, van het eerste lid.
 
-#### Artikel 4.6.9. Bevoorschotting
+##### Artikel 4.6.9. Bevoorschotting
 
 1. De minister verleent ten hoogste vier maal per jaar een voorschot.
 
 2. Onverminderd [artikel 2.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=2&artikel=2.14&z=2021-12-18&g=2021-12-18), bedraagt het voorschot ten minste € 25.000.
 
-#### Artikel 4.6.10. Onregelmatigheden, administratieve controles en controles ter plaatse
+##### Artikel 4.6.10. Onregelmatigheden, administratieve controles en controles ter plaatse
 
 1. De minister geeft in voorkomende gevallen uitvoering aan artikel 54, eerste en derde lid, en artikel 56 van [verordening 1306/2013](32013R1306).
 
 2. De minister verricht de controles, bedoeld in artikel 59 van [verordening 1306/2013](32013R1306).
 
-#### Artikel 4.6.11. Onverschuldigde betalingen, sancties en terugvorderingen
+##### Artikel 4.6.11. Onverschuldigde betalingen, sancties en terugvorderingen
 
 1. De minister besluit tot het niet betalen dan wel de gehele of gedeeltelijke intrekking van de subsidie overeenkomstig artikel 63, eerste lid, van [verordening 1306/2013](32013R1306).
 
@@ -3384,7 +3410,7 @@ Onverminderd [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoof
 
 3. De minister geeft bij de uitvoering van de bevoegdheden, genoemd in het eerste en tweede lid, toepassing aan artikel 63 van [verordening 809/2014](32014R0809).
 
-#### Artikel 4.6.12. Vervaldatum
+##### Artikel 4.6.12. Vervaldatum
 
 Deze titel vervalt met ingang van 31 december 2021, met dien verstande dat deze van toepassing blijft op subsidies die voor die datum zijn verleend.
 
@@ -3664,39 +3690,39 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3.11.1. Begripsomschrijvingen
+##### Artikel 3.11.1. Begripsomschrijvingen
 
 Vervallen
 
-#### Artikel 3.11.2. Subsidiabele activiteiten
+##### Artikel 3.11.2. Subsidiabele activiteiten
 
 Vervallen
 
-#### Artikel 3.11.3. Hoogte subsidie
+##### Artikel 3.11.3. Hoogte subsidie
 
 Vervallen
 
-#### Artikel 3.11.4. Verdeling subsidieplafond
+##### Artikel 3.11.4. Verdeling subsidieplafond
 
 Vervallen
 
-#### Artikel 3.11.5. Afwijzingsgronden
+##### Artikel 3.11.5. Afwijzingsgronden
 
 Vervallen
 
-#### Artikel 3.11.6. Indiening aanvraag tot subsidieverlening
+##### Artikel 3.11.6. Indiening aanvraag tot subsidieverlening
 
 Vervallen
 
-#### Artikel 3.11.7. Verplichtingen subsidieontvanger
+##### Artikel 3.11.7. Verplichtingen subsidieontvanger
 
 Vervallen
 
-#### Artikel 3.11.8. Subsidievaststelling
+##### Artikel 3.11.8. Subsidievaststelling
 
 Vervallen
 
-#### Artikel 3.11.9. Vervaltermijn
+##### Artikel 3.11.9. Vervaltermijn
 
 Vervallen
 
@@ -3948,31 +3974,31 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Titel 3.12. Tijdelijke vermindering van productie of verkoop van aquacultuurdieren als gevolg van COVID-19
 
-#### Artikel 3.12.1. Begripsomschrijvingen
+##### Artikel 3.12.1. Begripsomschrijvingen
 
 Vervallen
 
-#### Artikel 3.12.2. Subsidiabele activiteiten
+##### Artikel 3.12.2. Subsidiabele activiteiten
 
 Vervallen
 
-#### Artikel 3.12.3. Hoogte subsidie
+##### Artikel 3.12.3. Hoogte subsidie
 
 Vervallen
 
-#### Artikel 3.12.4. Verdeling subsidieplafond
+##### Artikel 3.12.4. Verdeling subsidieplafond
 
 Vervallen
 
-#### Artikel 3.12.5. Afwijzingsgronden
+##### Artikel 3.12.5. Afwijzingsgronden
 
 Vervallen
 
-#### Artikel 3.12.6. Subsidieverstrekking
+##### Artikel 3.12.6. Subsidieverstrekking
 
 Vervallen
 
-#### Artikel 3.12.7. Vervaltermijn
+##### Artikel 3.12.7. Vervaltermijn
 
 Vervallen
 
@@ -4434,7 +4460,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Titel 4.7. Investeren in groen-economisch herstel
 
-#### Artikel 4.7.1. Begripsbepalingen
+##### Artikel 4.7.1. Begripsbepalingen
 
 In deze titel wordt verstaan onder:
 
@@ -4446,7 +4472,7 @@ In deze titel wordt verstaan onder:
 
 - **verordening 1306/2013:** [verordening (EU) nr. 1306/2013](32013R1306) van het Europees Parlement en de Raad van 17 december 2013 inzake de financiering, het beheer en de monitoring van het gemeenschappelijk landbouwbeleid en tot intrekking van Verordeningen (EEG) nr. 352/78, (EG) nr. 165/94, (EG) nr. 2799/98, (EG) nr. 814/2000, (EG) nr. 1290/2005 en (EG) nr. 485/2008 van de Raad (PbEU 2013, L 347).
 
-#### Artikel 4.7.2. Subsidieaanvraag
+##### Artikel 4.7.2. Subsidieaanvraag
 
 1. De minister verstrekt op aanvraag subsidie voor een investering, opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&bijlage=5&z=2024-12-31&g=2024-12-31) bij deze regeling, in een van de volgende categorieën:
 
@@ -4470,19 +4496,19 @@ In deze titel wordt verstaan onder:
 
 - c. de voor de investering of investeringen benodigde bewijsstukken, opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&bijlage=5&z=2024-12-31&g=2024-12-31).
 
-#### Artikel 4.7.3. Begunstigden
+##### Artikel 4.7.3. Begunstigden
 
 1. De subsidie wordt verstrekt aan landbouwers.
 
 2. De voorwaarden die aan een actieve landbouwer worden gesteld in [artikel 2.3 van de Uitvoeringsregeling rechtstreekse betalingen GLB](https://wetten.overheid.nl/jci1.3:c:BWBR0035925&artikel=2.3) zijn van overeenkomstige toepassing op een landbouwer als bedoeld in het eerste lid.
 
-#### Artikel 4.7.4. Hoogte subsidie
+##### Artikel 4.7.4. Hoogte subsidie
 
 1. De subsidie bedraagt 40% van de subsidiabele kosten.
 
 2. De hoogte van de subsidie bedraagt voor de in [artikel 4.7.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=4&titeldeel=4.7&artikel=4.7.2&z=2024-12-31&g=2024-12-31), genoemde investeringen minimaal € 20.000 en maximaal € 150.000.
 
-#### Artikel 4.7.5. Niet-subsidiabele kosten
+##### Artikel 4.7.5. Niet-subsidiabele kosten
 
 Onverminderd [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=1&artikel=1.5&z=2024-12-31&g=2024-12-31) en in afwijking van [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=1&artikel=1.3&z=2024-12-31&g=2024-12-31) komen de volgende kosten niet in aanmerking voor subsidie:
 
@@ -4494,17 +4520,17 @@ Onverminderd [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofd
 
 - d. loonkosten.
 
-#### Artikel 4.7.6. Verdeling subsidieplafond
+##### Artikel 4.7.6. Verdeling subsidieplafond
 
 1. De minister verdeelt het subsidieplafond per categorie, bedoeld in [artikel 4.7.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=4&titeldeel=4.7&artikel=4.7.2&z=2024-12-31&g=2024-12-31), op volgorde van rangschikking van de aanvragen als bedoeld in de [artikelen 2.4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=2&artikel=2.4&z=2024-12-31&g=2024-12-31), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=2&artikel=2.6&z=2024-12-31&g=2024-12-31) en [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=2&artikel=2.7&z=2024-12-31&g=2024-12-31).
 
 2. Indien blijkt dat het totale bedrag van de te verlenen subsidies voor investeringen in één van de categorieën als bedoeld in [artikel 4.7.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=4&titeldeel=4.7&artikel=4.7.2&z=2024-12-31&g=2024-12-31), lager is dan het daarvoor vastgestelde subsidieplafond, wordt het overblijvende bedrag aan het subsidieplafond voor investeringen in een of meer van de overige categorieën als bedoeld in artikel 4.7.2, eerste lid, toegevoegd.
 
-#### Artikel 4.7.7. Realisatietermijn
+##### Artikel 4.7.7. Realisatietermijn
 
 De betaling, levering en installatie van de investering vinden plaats binnen anderhalf jaar na de datum van subsidieverlening en voor het indienen van de aanvraag tot subsidievaststelling, bedoeld in [artikel 4.7.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=4&titeldeel=4.7&artikel=4.7.10&z=2024-12-31&g=2024-12-31).
 
-#### Artikel 4.7.8. Afwijzingsgronden
+##### Artikel 4.7.8. Afwijzingsgronden
 
 Onverminderd [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=2&artikel=2.11&z=2024-12-31&g=2024-12-31) beslist de minister afwijzend op een aanvraag voor subsidieverlening indien:
 
@@ -4514,7 +4540,7 @@ Onverminderd [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoof
 
 - c. voor het moment van subsidieaanvraag door de begunstigde reeds verplichtingen zijn aangegaan ten aanzien van de investeringen waarvoor subsidie is aangevraagd.
 
-#### Artikel 4.7.9. Rangschikkingscriteria
+##### Artikel 4.7.9. Rangschikkingscriteria
 
 1. De minister kent aan een aanvraag een aantal punten toe op basis van de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&bijlage=5&z=2024-12-31&g=2024-12-31) opgenomen lijst van investeringen.
 
@@ -4522,7 +4548,7 @@ Onverminderd [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoof
 
 3. De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate gemiddeld meer punten aan de aanvraag zijn toegekend.
 
-#### Artikel 4.7.10. Aanvraag subsidievaststelling
+##### Artikel 4.7.10. Aanvraag subsidievaststelling
 
 1. Onverminderd [artikel 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=2&artikel=2.20&z=2024-12-31&g=2024-12-31) bevat de aanvraag tot subsidievaststelling:
 
@@ -4536,13 +4562,13 @@ Onverminderd [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoof
 
 2. In afwijking van [artikel 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoofdstuk=2&artikel=2.20&z=2024-12-31&g=2024-12-31) wordt de aanvraag tot subsidievaststelling uiterlijk op 31 december 2024 ingediend.
 
-#### Artikel 4.7.11. Onregelmatigheden, administratieve controles en controles ter plaatse
+##### Artikel 4.7.11. Onregelmatigheden, administratieve controles en controles ter plaatse
 
 1. De minister geeft in voorkomende gevallen uitvoering aan artikel 54, eerste en derde lid, en artikel 56 van [verordening 1306/2013](32013R1306).
 
 2. De minister verricht de controles, bedoeld in artikel 59 van [verordening 1306/2013](32013R1306).
 
-#### Artikel 4.7.12. Onverschuldigde betalingen, sancties en terugvorderingen
+##### Artikel 4.7.12. Onverschuldigde betalingen, sancties en terugvorderingen
 
 1. De minister besluit tot het niet betalen dan wel de gehele of gedeeltelijke intrekking van de subsidie overeenkomstig artikel 63, eerste lid, van [verordening 1306/2013](32013R1306).
 
@@ -4550,69 +4576,69 @@ Onverminderd [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&hoof
 
 3. De minister geeft bij de uitvoering van de bevoegdheden, genoemd in het eerste en tweede lid, toepassing aan artikel 63 van [verordening 809/2014](32014R0809).
 
-#### Artikel 4.7.13. Vervaltermijn
+##### Artikel 4.7.13. Vervaltermijn
 
 Deze titel en [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&bijlage=5&z=2024-12-31&g=2024-12-31) vervallen met ingang van 31 december 2025, met dien verstande dat deze van toepassing blijven op subsidies die voor die datum zijn verleend.
 
 ## Titel 4.8. Samenwerken aan groen-economisch herstel
 
-#### Artikel 4.8.1. Begripsbepalingen
+##### Artikel 4.8.1. Begripsbepalingen
 
 Vervallen
 
-#### Artikel 4.8.2. Subsidieaanvraag
+##### Artikel 4.8.2. Subsidieaanvraag
 
 Vervallen
 
-#### Artikel 4.8.3. Begunstigden
+##### Artikel 4.8.3. Begunstigden
 
 Vervallen
 
-#### Artikel 4.8.4. Hoogte subsidie
+##### Artikel 4.8.4. Hoogte subsidie
 
 Vervallen
 
-#### Artikel 4.8.5. Subsidiabele kosten
+##### Artikel 4.8.5. Subsidiabele kosten
 
 Vervallen
 
-#### Artikel 4.8.6. Verdeling subsidieplafond
+##### Artikel 4.8.6. Verdeling subsidieplafond
 
 Vervallen
 
-#### Artikel 4.8.7. Realisatietermijn
+##### Artikel 4.8.7. Realisatietermijn
 
 Vervallen
 
-#### Artikel 4.8.8. Afwijzingsgronden
+##### Artikel 4.8.8. Afwijzingsgronden
 
 Vervallen
 
-#### Artikel 4.8.9. Rangschikkingscriteria
+##### Artikel 4.8.9. Rangschikkingscriteria
 
 Vervallen
 
-#### Artikel 4.8.10. Adviescommissie
+##### Artikel 4.8.10. Adviescommissie
 
 Vervallen
 
-#### Artikel 4.8.11. Verplichtingen subsidieontvanger
+##### Artikel 4.8.11. Verplichtingen subsidieontvanger
 
 Vervallen
 
-#### Artikel 4.8.12. Voorschotverlening
+##### Artikel 4.8.12. Voorschotverlening
 
 Vervallen
 
-#### Artikel 4.8.13. Onregelmatigheden, administratieve controles en controles ter plaatse
+##### Artikel 4.8.13. Onregelmatigheden, administratieve controles en controles ter plaatse
 
 Vervallen
 
-#### Artikel 4.8.14. Onverschuldigde betalingen, sancties en terugvorderingen
+##### Artikel 4.8.14. Onverschuldigde betalingen, sancties en terugvorderingen
 
 Vervallen
 
-#### Artikel 4.8.15. Vervaltermijn
+##### Artikel 4.8.15. Vervaltermijn
 
 Vervallen
 
@@ -5192,113 +5218,113 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Titel 4.9. Pilots gezonde kalverketen
 
-#### Artikel 4.9.1. Begripsbepalingen
+##### Artikel 4.9.1. Begripsbepalingen
 
 Vervallen
 
-#### Artikel 4.9.2. Subsidieaanvraag
+##### Artikel 4.9.2. Subsidieaanvraag
 
 Vervallen
 
-#### Artikel 4.9.3. Begunstigden
+##### Artikel 4.9.3. Begunstigden
 
 Vervallen
 
-#### Artikel 4.9.4. Hoogte subsidie
+##### Artikel 4.9.4. Hoogte subsidie
 
 Vervallen
 
-#### Artikel 4.9.5. Subsidiabele kosten
+##### Artikel 4.9.5. Subsidiabele kosten
 
 Vervallen
 
-#### Artikel 4.9.6. Verdeling subsidieplafond
+##### Artikel 4.9.6. Verdeling subsidieplafond
 
 Vervallen
 
-#### Artikel 4.9.7. Realisatietermijn
+##### Artikel 4.9.7. Realisatietermijn
 
 Vervallen
 
-#### Artikel 4.9.8. Afwijzingsgronden
+##### Artikel 4.9.8. Afwijzingsgronden
 
 Vervallen
 
-#### Artikel 4.9.9. Rangschikkingscriteria
+##### Artikel 4.9.9. Rangschikkingscriteria
 
 Vervallen
 
-#### Artikel 4.9.10. Verplichtingen subsidieontvanger
+##### Artikel 4.9.10. Verplichtingen subsidieontvanger
 
 Vervallen
 
-#### Artikel 4.9.11. Voorschotverlening
+##### Artikel 4.9.11. Voorschotverlening
 
 Vervallen
 
-#### Artikel 4.9.12. Onregelmatigheden, administratieve controles en controles ter plaatse
+##### Artikel 4.9.12. Onregelmatigheden, administratieve controles en controles ter plaatse
 
 Vervallen
 
-#### Artikel 4.9.13. Onverschuldigde betalingen, sancties en terugvorderingen
+##### Artikel 4.9.13. Onverschuldigde betalingen, sancties en terugvorderingen
 
 Vervallen
 
-#### Artikel 4.9.14. Vervaltermijn
+##### Artikel 4.9.14. Vervaltermijn
 
 Vervallen
 
 ## Titel 4.10. Kennisoverdracht ten behoeve van een samenwerkingsverband van landbouwondernemingen
 
-#### Artikel 4.10.1. Subsidieaanvraag
+##### Artikel 4.10.1. Subsidieaanvraag
 
 Vervallen
 
-#### Artikel 4.10.2. Subsidiabele kosten
+##### Artikel 4.10.2. Subsidiabele kosten
 
 Vervallen
 
-#### Artikel 4.10.3. Begunstigden
+##### Artikel 4.10.3. Begunstigden
 
 Vervallen
 
-#### Artikel 4.10.4. Hoogte subsidie en verdeling subsidieplafond
+##### Artikel 4.10.4. Hoogte subsidie en verdeling subsidieplafond
 
 Vervallen
 
-#### Artikel 4.10.5. Realisatietermijn
+##### Artikel 4.10.5. Realisatietermijn
 
 Vervallen
 
-#### Artikel 4.10.6. Afwijzingsgronden
+##### Artikel 4.10.6. Afwijzingsgronden
 
 Vervallen
 
-#### Artikel 4.10.7. Rangschikkingscriteria
+##### Artikel 4.10.7. Rangschikkingscriteria
 
 Vervallen
 
-#### Artikel 4.10.8. Verplichtingen subsidieontvanger
+##### Artikel 4.10.8. Verplichtingen subsidieontvanger
 
 Vervallen
 
-#### Artikel 4.10.9. Voorschotverlening
+##### Artikel 4.10.9. Voorschotverlening
 
 Vervallen
 
-#### Artikel 4.10.10. Verrekening netto inkomsten gedurende uitvoering
+##### Artikel 4.10.10. Verrekening netto inkomsten gedurende uitvoering
 
 Vervallen
 
-#### Artikel 4.10.11. Administratieve controles en controles ter plaatse
+##### Artikel 4.10.11. Administratieve controles en controles ter plaatse
 
 Vervallen
 
-#### Artikel 4.10.12. Onverschuldigde betalingen, sancties en terugvorderingen
+##### Artikel 4.10.12. Onverschuldigde betalingen, sancties en terugvorderingen
 
 Vervallen
 
-#### Artikel 4.10.13. Vervaltermijn
+##### Artikel 4.10.13. Vervaltermijn
 
 Vervallen
 
@@ -5470,59 +5496,59 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Titel 4.11. Niet-productieve investeringen voor landbouw- en veenweidegebieden
 
-#### Artikel 4.11.1. Begripsbepalingen
+##### Artikel 4.11.1. Begripsbepalingen
 
 Vervallen
 
-#### Artikel 4.11.2. Subsidieverstrekking
+##### Artikel 4.11.2. Subsidieverstrekking
 
 Vervallen
 
-#### Artikel 4.11.3. Aanvraag tot subsidieverlening
+##### Artikel 4.11.3. Aanvraag tot subsidieverlening
 
 Vervallen
 
-#### Artikel 4.11.4. Hoogte subsidie
+##### Artikel 4.11.4. Hoogte subsidie
 
 Vervallen
 
-#### Artikel 4.11.5. Subsidiabele kosten
+##### Artikel 4.11.5. Subsidiabele kosten
 
 Vervallen
 
-#### Artikel 4.11.6. Verdeling subsidieplafond
+##### Artikel 4.11.6. Verdeling subsidieplafond
 
 Vervallen
 
-#### Artikel 4.11.7. Start- en realisatietermijn
+##### Artikel 4.11.7. Start- en realisatietermijn
 
 Vervallen
 
-#### Artikel 4.11.8. Afwijzingsgronden
+##### Artikel 4.11.8. Afwijzingsgronden
 
 Vervallen
 
-#### Artikel 4.11.9. Rangschikkingscriteria
+##### Artikel 4.11.9. Rangschikkingscriteria
 
 Vervallen
 
-#### Artikel 4.11.10. Verplichtingen subsidieontvanger
+##### Artikel 4.11.10. Verplichtingen subsidieontvanger
 
 Vervallen
 
-#### Artikel 4.11.11. Onregelmatigheden, administratieve controles en controles ter plaatse
+##### Artikel 4.11.11. Onregelmatigheden, administratieve controles en controles ter plaatse
 
 Vervallen
 
-#### Artikel 4.11.12. Onverschuldigde betalingen, sancties en terugvorderingen
+##### Artikel 4.11.12. Onverschuldigde betalingen, sancties en terugvorderingen
 
 Vervallen
 
-#### Artikel 4.11.13. Indiening aanvraag tot subsidievaststelling
+##### Artikel 4.11.13. Indiening aanvraag tot subsidievaststelling
 
 Vervallen
 
-#### Artikel 4.11.14. Vervaldatum
+##### Artikel 4.11.14. Vervaldatum
 
 Vervallen
 

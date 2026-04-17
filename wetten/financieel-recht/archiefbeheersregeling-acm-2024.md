@@ -1,13 +1,39 @@
 ---
-title: "Archiefbeheersregeling ACM 2024"
+title: "Besluit van de Autoriteit Consument en Markt (hierna: ACM) van 7 mei 2024, ACM/24/189053, tot vaststelling van archiefbeheersregels (Archiefbeheersregeling ACM 2024)"
 identifier: "BWBR0049724"
-categorie: "Financieel recht"
-publicatiedatum: 2024-05-24
-laatste_update: 2024-05-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049724"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-05-24"
+last_updated: "2024-05-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049724"
+soort: "zbo"
+stam_id: "17110043"
+version_id: "30112222"
+internal_id: "C43146111"
+label_id: "17018564"
+dtd_version: "2.0"
+original_entry_into_force: "2024-05-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049724/2024-05-24/0"
+intitule_bron: "Stcrt.2024-16556"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-05-07"
+intitule_published: "2024-05-23"
+intitule_in_force: "2024-05-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-16556"
+original_signed_date: "2024-05-07"
+original_published_date: "2024-05-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-16556"
+entry_into_force_date: "2024-05-24"
+jci_1_3: "jci1.3:c:BWBR0049724&z=2024-05-24&g=2024-05-24"
+jci_1_0: "1.0:c:BWBR0049724&g=2024-05-24"
+citeertitel_status: "officieel"
+short_title: "Archiefbeheersregeling ACM 2024"
+signed_date: "2024-05-07"
+entry_into_force: "2024-05-24"
 ---
-
 # Besluit van de Autoriteit Consument en Markt (hierna: ACM) van 7 mei 2024, ACM/24/189053, tot vaststelling van archiefbeheersregels (Archiefbeheersregeling ACM 2024)
 
 Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Verantwoordelijkheden en bevoegdheden
 
-#### Artikel 2
+##### Artikel 2
 
 1. Dit besluit is van toepassing op de archieven van de ACM-organisatie en op alle archiefbescheiden van de ACM, tenzij bij wettelijk voorschrift anders is bepaald.
 
@@ -54,11 +80,11 @@ In dit besluit wordt verstaan onder:
 
 3. Indien de ACM namens de minister bevoegdheden uitoefent, berust de zorg voor de archiefbescheiden die in dat kader worden gevormd bij de minister.
 
-#### Artikel 3
+##### Artikel 3
 
 De ACM is zorgdrager in de zin van [artikel 1 lid d van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1) voor de archiefbescheiden van de ACM.
 
-#### Artikel 4
+##### Artikel 4
 
 De CIO:
 
@@ -74,7 +100,7 @@ De CIO:
 
 - 6. onderkent dat de beschreven verantwoordelijkheden gelden voor zowel digitaal als fysiek document- en archiefbeheer.
 
-#### Artikel 5
+##### Artikel 5
 
 De teammanager CIO-office:
 
@@ -82,7 +108,7 @@ De teammanager CIO-office:
 
 - 2. is verantwoordelijk voor het opstellen van procedures en algemene voorschriften op het gebied van archiefbeheer.
 
-#### Artikel 6
+##### Artikel 6
 
 De teammanager DIV:
 
@@ -98,7 +124,7 @@ De teammanager DIV:
 
 - 6. informeert gevraagd en ongevraagd de CIO over de staat van archiefbescheiden en over de wijze waarop het document- en archiefbeheer wordt vormgegeven.
 
-#### Artikel 7
+##### Artikel 7
 
 De directeur van een directie van de ACM:
 
@@ -112,7 +138,7 @@ De directeur van een directie van de ACM:
 
 ### Hoofdstuk 3. Beheer
 
-#### Artikel 8
+##### Artikel 8
 
 1. Vervanging is geregeld in het Besluit tot vervanging van papieren archiefstukken door digitale bestanden Autoriteit Consument en Markt 2017;
 
@@ -120,14 +146,14 @@ De directeur van een directie van de ACM:
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 De [Archiefbeheersregeling ACM 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033165) (Staatscourant 2013, 9715) wordt ingetrokken.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit treedt in werking met ingang van de dag na de datum van publicatie in de Staatscourant.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit wordt aangehaald als: Archiefbeheersregeling ACM 2024.

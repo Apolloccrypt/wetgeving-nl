@@ -1,20 +1,46 @@
 ---
-title: "Regeling beoordelingsnormen Staatsexamens vo"
+title: "Regeling van het College voor Toetsen en Examens van 9 februari 2015, nummer CvTE-15.00619 houdende vaststelling van de beoordelingsnormen voor de staatsexamens VO en staatsexamens VO BES (Regeling beoordelingsnormen staatsexamens VO en staatsexamens VO BES 2015)"
 identifier: "BWBR0036344"
-categorie: "Onderwijs"
-publicatiedatum: 2026-03-01
-laatste_update: 2026-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036344"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-03-01"
+last_updated: "2026-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036344"
+soort: "zbo"
+stam_id: "12996863"
+version_id: "22179832"
+internal_id: "C31800881"
+label_id: "12965784"
+dtd_version: "2.0"
+original_entry_into_force: "2015-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036344/2026-03-01/0"
+intitule_bron: "Stcrt.2015-5302"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-02-09"
+intitule_published: "2015-02-26"
+intitule_in_force: "2015-02-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-5302"
+original_signed_date: "2015-02-09"
+original_published_date: "2015-02-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-5302"
+entry_into_force_date: "2015-04-01"
+jci_1_3: "jci1.3:c:BWBR0036344&z=2026-03-01&g=2026-03-01"
+jci_1_0: "1.0:c:BWBR0036344&g=2026-03-01"
+citeertitel_status: "officieel"
+short_title: "Regeling beoordelingsnormen Staatsexamens vo"
+signed_date: "2015-02-09"
+entry_into_force: "2015-04-01"
 ---
-
 # Regeling van het College voor Toetsen en Examens van 9 februari 2015, nummer CvTE-15.00619 houdende vaststelling van de beoordelingsnormen voor de staatsexamens VO en staatsexamens VO BES (Regeling beoordelingsnormen staatsexamens VO en staatsexamens VO BES 2015)
 
 Gelet op [artikel 2, vierde lid, onderdeel c Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 - •. tweede corrector: door het College voor Toetsen en Examens aangewezen medebeoordelaar van een schriftelijke toets.
 
-#### Artikel 2. Beoordeling schriftelijke toetsen
+##### Artikel 2. Beoordeling schriftelijke toetsen
 
 1. De beoordelingsnormen voor de schriftelijke toetsen worden weergegeven in een voorschrift voor de beoordeling bij ieder examen. Dit bestaat uit:
 
@@ -46,15 +72,15 @@ In deze regeling wordt verstaan onder:
 
 2. Het beoordelingsmodel wordt door het College voor Toetsen en Examens vastgesteld voor elke schriftelijke toets zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 3. Algemene aanwijzing bij beoordeling schriftelijke toetsen
+##### Artikel 3. Algemene aanwijzing bij beoordeling schriftelijke toetsen
 
 Voor de uitvoering van een opdracht worden door de eerste en door de tweede corrector scorepunten toegekend, in overeenstemming met het bij de schriftelijke toets behorende beoordelingsmodel.
 
-#### Artikel 4. Beoordelingsmodel bij iedere schriftelijke toets
+##### Artikel 4. Beoordelingsmodel bij iedere schriftelijke toets
 
 Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=2&z=2026-03-01&g=2026-03-01), wordt door het College voor Toetsen en Examens niet eerder bekendgemaakt dan wanneer het College voor Toetsen en Examens heeft vastgesteld, dat de betreffende toetsen zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2026-03-01&g=2026-03-01), geen onderdeel meer van een college-examen zullen uitmaken.
 
-#### Artikel 5. Beoordeling mondelinge examens
+##### Artikel 5. Beoordeling mondelinge examens
 
 1. De beoordelingsnormen voor de mondelinge examens worden weergegeven in het Programma voor Toetsing en Afsluiting zoals voor elk vak en elke schoolsoort jaarlijks bij regeling door het College voor Toetsen en Examens wordt vastgesteld.
 
@@ -62,7 +88,7 @@ Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eer
 
 3. Het voorschrift voor de beoordeling van de mondelinge examens wordt door het College voor Toetsen en Examens vastgesteld voor elk mondeling examen zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=2&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 6. Beoordeling praktische examens
+##### Artikel 6. Beoordeling praktische examens
 
 1. De beoordelingsnormen voor de praktische examens worden weergegeven in het Programma voor Toetsing en Afsluiting zoals voor elk vak en elke schoolsoort jaarlijks bij regeling door het College voor Toetsen en Examens wordt vastgesteld.
 
@@ -70,31 +96,31 @@ Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eer
 
 3. Het voorschrift voor de beoordeling van de praktische examens wordt door het College voor Toetsen en Examens vastgesteld voor elk praktisch examen zoals vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=3&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 7. Afwijking
+##### Artikel 7. Afwijking
 
 Het College voor Toetsen en Examens of de voorzitter kan beslissen dat voor een of meer opdrachten aan alle kandidaten het maximale aantal scorepunten of ten minste een aantal kleiner dan het maximum aantal scorepunten wordt toegekend.
 
-#### Artikel 8. Aanvullende regels
+##### Artikel 8. Aanvullende regels
 
 Het College voor Toetsen en Examens kan beslissen, dat in het voorschrift voor de beoordeling bij een schriftelijke toets aanvullende regels worden opgenomen, waaronder regels voor aftrek van scorepunten. Deze zijn evenzeer verbindend als hetgeen in deze regeling is voorgeschreven.
 
-#### Artikel 9. Aanpassing
+##### Artikel 9. Aanpassing
 
 De voorzitter is gemachtigd de vaststellingen als opgenomen in [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2026-03-01&g=2026-03-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=2&z=2026-03-01&g=2026-03-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=3&z=2026-03-01&g=2026-03-01) op onderdelen aan te passen.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking op 1 april 2015.
 
-#### Artikel 11. Bekendmaking
+##### Artikel 11. Bekendmaking
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 12. Intrekking
+##### Artikel 12. Intrekking
 
 De [Regeling beoordelingsnormen staatsexamens Voortgezet Onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0029946) van 19 april 2011 wordt ingetrokken.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling wordt aangehaald als: Regeling beoordelingsnormen Staatsexamens vo.
 

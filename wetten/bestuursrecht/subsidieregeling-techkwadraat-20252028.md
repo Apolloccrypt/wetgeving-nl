@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling Techkwadraat 2025–2028"
+title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap en van de Minister van Onderwijs, Cultuur en Wetenschap van 19 november 2024, nr. OVO/49012382, houdende regels voor de subsidieverstrekking voor technologieonderwijs in het primair en voortgezet onderwijs (Subsidieregeling Techkwadraat 2025–2028)"
 identifier: "BWBR0050458"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-10-25
-laatste_update: 2025-10-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050458"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-25"
+last_updated: "2025-10-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050458"
+soort: "ministeriele-regeling"
+stam_id: "17283633"
+version_id: "30441612"
+internal_id: "C43652741"
+label_id: "17187964"
+dtd_version: "2.0"
+original_entry_into_force: "2024-11-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050458/2025-10-25/0"
+intitule_bron: "Stcrt.2024-39093"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-19"
+intitule_published: "2024-11-26"
+intitule_in_force: "2024-11-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-39093"
+original_signed_date: "2024-11-19"
+original_published_date: "2024-11-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-39093"
+entry_into_force_date: "2024-11-27"
+jci_1_3: "jci1.3:c:BWBR0050458&z=2025-10-25&g=2025-10-25"
+jci_1_0: "1.0:c:BWBR0050458&g=2025-10-25"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling Techkwadraat 2025–2028"
+signed_date: "2024-11-19"
+entry_into_force: "2024-11-27"
 ---
-
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap en van de Minister van Onderwijs, Cultuur en Wetenschap van 19 november 2024, nr. OVO/49012382, houdende regels voor de subsidieverstrekking voor technologieonderwijs in het primair en voortgezet onderwijs (Subsidieregeling Techkwadraat 2025–2028)
 
 Gelet op [artikel 5.11 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.11), [artikel 71 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=71)[artikel 67 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=67) en [artikel 71 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=71);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 - **bedrijf:** organisatie, ongeacht haar rechtsvorm, die economische activiteiten uitoefent;
 
@@ -114,11 +140,11 @@ Besluit:
 
 - **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 1.2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 1.2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 1.3. Doel van de regeling en te subsidiëren activiteiten
+##### Artikel 1.3. Doel van de regeling en te subsidiëren activiteiten
 
 1. De minister kan subsidie verstrekken aan een penvoerder van een Techkwadraatregio om in regioverband in de schooljaren 2025/2026, 2026/2027 en 2027/2028 vorm te geven aan toekomstbestendig, dekkend en kwalitatief hoogstaand technologieonderwijs binnen het bekostigd funderend onderwijs, voor:
 
@@ -146,7 +172,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - d. activiteiten waarvoor de minister reeds subsidie heeft verstrekt op grond van de [Regeling Regionaal investeringsfonds mbo 2024–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0048883) of de [Subsidieregeling sterk techniekonderwijs 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0049520).
 
-#### Artikel 1.4. Cofinanciering
+##### Artikel 1.4. Cofinanciering
 
 1. Aan het einde van de subsidieperiode moet een cofinanciering van ten minste 20% van de totale meerjarenbegroting van het project zijn behaald door bedrijven, organisaties uit buitenschoolse leeromgevingen of andere publieke en private partijen. De cofinanciering moet in geld of in geld waardeerbaar zijn.
 
@@ -154,7 +180,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 3. De penvoerder staat garant voor de cofinanciering.
 
-#### Artikel 1.5. Penvoerder
+##### Artikel 1.5. Penvoerder
 
 1. Het bevoegd gezag van één van de vestigingen van een school die deel uitmaakt van de Techkwadraatregio, treedt namens de vestigingen in de samenwerkingsovereenkomst op als penvoerder.
 
@@ -162,7 +188,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 3. Bij de aanvraag wordt een door alle vestigingen in de Techkwadraatregio getekende verklaring gevoegd waarin zij verklaren dat de penvoerder gemachtigd is om hen in het kader van de subsidieverstrekking in en buiten rechte te vertegenwoordigen, en dat alle gegevens die noodzakelijk zijn voor de verantwoording door de penvoerder over de besteding van de subsidie, op verzoek aan de penvoerder worden verstrekt.
 
-#### Artikel 1.6. Techkwadraatregio
+##### Artikel 1.6. Techkwadraatregio
 
 1. Een Techkwadraatregio is een regio waarbinnen onderwijs, bedrijfsleven en organisaties actief in de buitenschoolse leeromgeving gezamenlijk vormgeven aan toekomstbestendig, dekkend en kwalitatief hoogstaand technologieonderwijs binnen het bekostigd funderend onderwijs waarbij wordt gestimuleerd en gefaciliteerd dat alle leerlingen in het funderend onderwijs structureel in aanraking komen met kwalitatief hoogstaand technologieonderwijs, en waarvoor een aanvraag kan worden ingediend als bedoeld in het tweede lid.
 
@@ -182,7 +208,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 3. Een vestiging van een school kan aan maximaal één Techkwadraatregio deelnemen.
 
-#### Artikel 1.7. Vooraanmelding subsidieaanvraag 2025
+##### Artikel 1.7. Vooraanmelding subsidieaanvraag 2025
 
 1. Voorafgaand aan een subsidieaanvraag als bedoeld in [artikel 1.3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&hoofdstuk=1&artikel=1.3&z=2025-10-25&g=2025-10-25) kan de penvoerder een vooraanmelding doen.
 
@@ -196,7 +222,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 4. De vooraanmelding wordt ingediend van 1 september 2025 tot en met 26 september 2025.
 
-#### Artikel 1.8. Subsidieaanvraag
+##### Artikel 1.8. Subsidieaanvraag
 
 1. Voor de subsidieaanvraag wordt gebruik gemaakt van het aanvraagformulier dat wordt bekendgemaakt op de website [www.dus-i.nl](http://www.dus-i.nl).
 
@@ -252,7 +278,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 4. Aanvragen die worden ingediend buiten een in het derde lid bedoeld aanvraagtijdvak, worden afgewezen.
 
-#### Artikel 1.9. Aanvullen subsidieaanvraag bij uitbreiding in 2026
+##### Artikel 1.9. Aanvullen subsidieaanvraag bij uitbreiding in 2026
 
 1. Als het subsidieplafond, bedoeld in [artikel 1.14](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&hoofdstuk=1&artikel=1.14&z=2025-10-25&g=2025-10-25), nog niet is uitgeput krijgt de penvoerder van een Techkwadraatregio, als bedoeld in [artikel 1.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&hoofdstuk=1&artikel=1.3&z=2025-10-25&g=2025-10-25), de gelegenheid om aanvullende subsidie aan te vragen indien de Techkwadraatregio wordt uitgebreid met minimaal één vestiging van een vo-school of drie vestigingen van po-scholen.
 
@@ -270,7 +296,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 5. De aanvullende aanvragen die worden ingediend na sluiting van het aanvraagtijdvak als bedoeld in het vierde lid worden afgewezen.
 
-#### Artikel 1.10. Beoordeling adviescommissie
+##### Artikel 1.10. Beoordeling adviescommissie
 
 1. De minister stelt een onafhankelijke adviescommissie in die de minister adviseert over de subsidieaanvragen, bedoeld in de [artikelen 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&hoofdstuk=1&artikel=1.8&z=2025-10-25&g=2025-10-25) en [1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&hoofdstuk=1&artikel=1.9&z=2025-10-25&g=2025-10-25).
 
@@ -296,7 +322,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 4. De subsidie wordt slechts verleend indien de aanvraag op alle deelaspecten minimaal 6 van de 10 punten en een voldoende op de onderbouwde en sluitende begroting scoort, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&bijlage=1&z=2025-10-25&g=2025-10-25).
 
-#### Artikel 1.11. Besluitvorming en gewijzigde aanvraag
+##### Artikel 1.11. Besluitvorming en gewijzigde aanvraag
 
 1. De minister beslist uiterlijk:
 
@@ -310,7 +336,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - b. kan voor aanvragen als bedoeld in [artikel 1.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&hoofdstuk=1&artikel=1.3&z=2025-10-25&g=2025-10-25), en voor aanvragen als bedoeld in [artikel 1.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&hoofdstuk=1&artikel=1.9&z=2025-10-25&g=2025-10-25), van 2 juni 2026, 9.00 uur tot 2 juli 2026, 13.00 uur een gewijzigde aanvraag worden ingediend. De minister besluit op de gewijzigde aanvraag uiterlijk 11 september 2026.
 
-#### Artikel 1.12. Algemene verplichtingen subsidie
+##### Artikel 1.12. Algemene verplichtingen subsidie
 
 1. Aan de subsidieverstrekking zijn de volgende verplichtingen verbonden:
 
@@ -326,7 +352,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 2. De minister kan een formulier vaststellen ten behoeve van het eindverslag.
 
-#### Artikel 1.13. Verplichtingen voortgangsrapportage
+##### Artikel 1.13. Verplichtingen voortgangsrapportage
 
 1. De voortgangsrapportage, bedoeld in [artikel 1.12, eerste lid, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&hoofdstuk=1&artikel=1.12&z=2025-10-25&g=2025-10-25), omvat ten minste:
 
@@ -340,11 +366,11 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 2. De minister kan een formulier vaststellen ten behoeve van de voortgangsrapportage.
 
-#### Artikel 1.14. Subsidieplafond
+##### Artikel 1.14. Subsidieplafond
 
 Voor subsidieverstrekking op grond van deze regeling is in totaal € 129 miljoen beschikbaar.
 
-#### Artikel 1.15. Subsidiebedrag
+##### Artikel 1.15. Subsidiebedrag
 
 1. Het subsidiebedrag per aanvraag als bedoeld in de [artikel 1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&hoofdstuk=1&artikel=1.3&z=2025-10-25&g=2025-10-25) en [artikel 1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&hoofdstuk=1&artikel=1.9&z=2025-10-25&g=2025-10-25), bestaat uit:
 
@@ -370,7 +396,7 @@ Voor subsidieverstrekking op grond van deze regeling is in totaal € 129 miljoe
 
 6. Het aanvullende subsidiebedrag als bedoeld in [artikel 1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&hoofdstuk=1&artikel=1.9&z=2025-10-25&g=2025-10-25) wordt berekend door de bedragen uit het tweede en derde lid bij elkaar op te tellen voor de vestigingen waarmee de Techkwadraatregio is uitgebreid.
 
-#### Artikel 1.16. Wijze van verdeling beschikbare middelen eerste aanvraagperiode
+##### Artikel 1.16. Wijze van verdeling beschikbare middelen eerste aanvraagperiode
 
 1. Indien de toewijzing van alle daarvoor in aanmerking komende volledige aanvragen als bedoeld in [artikel 1.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&hoofdstuk=1&artikel=1.3&z=2025-10-25&g=2025-10-25), voor een subsidie leidt tot overschrijding van het subsidieplafond, bedoeld in [artikel 1.14](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&hoofdstuk=1&artikel=1.14&z=2025-10-25&g=2025-10-25), krijgt de aanvraag voor de Techkwadraatregio van Caribisch Nederland, bedoeld in [artikel 2.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&hoofdstuk=2&artikel=2.1&z=2025-10-25&g=2025-10-25), voorrang.
 
@@ -382,7 +408,7 @@ Voor subsidieverstrekking op grond van deze regeling is in totaal € 129 miljoe
 
 3. Indien na toepassing van het eerste en tweede lid nog middelen resteren en de toewijzing van alle daarvoor in aanmerking komende aanvragen als bedoeld [artikel 1.11, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&hoofdstuk=1&artikel=1.11&z=2025-10-25&g=2025-10-25), leidt tot overschrijding van het subsidieplafond als bedoeld in [artikel 1.14](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&hoofdstuk=1&artikel=1.14&z=2025-10-25&g=2025-10-25), wordt het beschikbare bedrag door loting verdeeld.
 
-#### Artikel 1.17. Wijze van verdeling beschikbare middelen tweede aanvraagperiode en aanvullende aanvragen
+##### Artikel 1.17. Wijze van verdeling beschikbare middelen tweede aanvraagperiode en aanvullende aanvragen
 
 1. Indien het subsidieplafond, bedoeld in [artikel 1.14](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&hoofdstuk=1&artikel=1.14&z=2025-10-25&g=2025-10-25), na het verstrekken van subsidie als bedoeld in [artikel 1.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&hoofdstuk=1&artikel=1.3&z=2025-10-25&g=2025-10-25), nog niet is uitgeput worden de resterende gelden als volgt verdeeld:
 
@@ -398,13 +424,13 @@ Voor subsidieverstrekking op grond van deze regeling is in totaal € 129 miljoe
 
 2. Indien na toepassing van het eerste lid nog middelen resteren en de toewijzing van alle daarvoor in aanmerking komende aanvragen als bedoeld [artikel 1.11, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&hoofdstuk=1&artikel=1.11&z=2025-10-25&g=2025-10-25), leidt tot overschrijding van het subsidieplafond als bedoeld in [artikel 1.14](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&hoofdstuk=1&artikel=1.14&z=2025-10-25&g=2025-10-25), is lid 1a van overeenkomstig toepassing.
 
-#### Artikel 1.18. Besteding subsidie
+##### Artikel 1.18. Besteding subsidie
 
 1. De subsidie wordt uitsluitend besteed aan de activiteiten waarvoor deze wordt verleend. Niet bestede middelen worden teruggevorderd.
 
 2. De subsidie wordt voor 31 augustus 2028 besteed.
 
-#### Artikel 1.19. Verlening en betaling subsidie
+##### Artikel 1.19. Verlening en betaling subsidie
 
 1. Bij goedkeuring wordt de subsidie verleend binnen 22 weken na sluiting van de aanvraagtermijn.
 
@@ -412,7 +438,7 @@ Voor subsidieverstrekking op grond van deze regeling is in totaal € 129 miljoe
 
 3. Het voorschot wordt in drie gelijke delen uitbetaald over de jaren 2025, 2026 en 2027 bij een aanvraag als bedoeld in [artikel 1.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&hoofdstuk=1&artikel=1.3&z=2025-10-25&g=2025-10-25) en [artikel 1.11, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&hoofdstuk=1&artikel=1.11&z=2025-10-25&g=2025-10-25). Een aanvraag als bedoeld in [artikel 1.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&hoofdstuk=1&artikel=1.3&z=2025-10-25&g=2025-10-25), [artikel 1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&hoofdstuk=1&artikel=1.9&z=2025-10-25&g=2025-10-25) en [artikel 1.11, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&hoofdstuk=1&artikel=1.11&z=2025-10-25&g=2025-10-25) worden uitbetaald in twee gelijke delen in de jaren 2026 en 2027.
 
-#### Artikel 1.20. Verantwoording
+##### Artikel 1.20. Verantwoording
 
 1. De financiële verantwoording van de subsidie geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132) met model G2, zoals bedoeld in [bijlage 4 van de Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=4).
 
@@ -420,7 +446,7 @@ Voor subsidieverstrekking op grond van deze regeling is in totaal € 129 miljoe
 
 ### Hoofdstuk 2. Caribisch nederland
 
-#### Artikel 2.1. Bijzonderheden Caribisch Nederland
+##### Artikel 2.1. Bijzonderheden Caribisch Nederland
 
 Bij subsidieverstrekking aan scholen in Caribisch Nederland:
 
@@ -442,17 +468,17 @@ Bij subsidieverstrekking aan scholen in Caribisch Nederland:
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 3.1. Hardheidsclausule
+##### Artikel 3.1. Hardheidsclausule
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat deze regeling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 3.2. Inwerkingtreding en vervaldatum
+##### Artikel 3.2. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 31 augustus 2029.
 
-#### Artikel 3.3. Citeertitel
+##### Artikel 3.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling Techkwadraat 2025–2028.
 

@@ -1,16 +1,42 @@
 ---
-title: "Subsidieregeling Maatschappelijke Diensttijd (MDT)"
+title: "Regeling van de Minister voor Primair en Voortgezet Onderwijs van 24 april 2023, nr. 37179289, houdende regels voor de subsidiëring van het programma Maatschappelijke Diensttijd (Subsidieregeling MDT 2023)"
 identifier: "BWBR0048113"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-04-08
-laatste_update: 2026-04-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048113"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-08"
+last_updated: "2026-04-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048113"
+soort: "ministeriele-regeling"
+stam_id: "16735063"
+version_id: "31515302"
+internal_id: "C45001951"
+label_id: "16651334"
+dtd_version: "2.0"
+original_entry_into_force: "2026-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048113/2026-04-08/0"
+intitule_bron: "Stcrt.2023-12901"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-04-24"
+intitule_published: "2023-05-01"
+intitule_in_force: "2023-05-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-13740"
+original_signed_date: "2026-04-01"
+original_published_date: "2026-04-07"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2026-13740"
+entry_into_force_date: "2026-04-01"
+jci_1_3: "jci1.3:c:BWBR0048113&z=2026-04-08&g=2026-04-08"
+jci_1_0: "1.0:c:BWBR0048113&g=2026-04-08"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling Maatschappelijke Diensttijd (MDT)"
+signed_date: "2026-04-01"
+entry_into_force: "2026-04-01"
 ---
-
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 24 april 2023, nr. 37179289, houdende regels voor de subsidiëring van het programma Maatschappelijke Diensttijd (Subsidieregeling MDT 2023)
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -66,11 +92,11 @@ In deze regeling wordt verstaan onder:
 
 - **werkkapitaal:** financiële middelen die een onderneming beschikbaar heeft op basis van de jaarrekening om op korte termijn aan haar verplichtingen te kunnen voldoen, bestaande uit de vlottende activa minus de vlottende passiva.
 
-#### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603). Ten aanzien van deze regeling is [artikel 4.1, eerste lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.1) niet van toepassing. Er is sprake van subsidie als bedoeld in [artikel 1.5, onderdeel d, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.5).
 
-#### Artikel 3. Doel van de regeling
+##### Artikel 3. Doel van de regeling
 
 Het doel van de regeling is het beschikbaar stellen van middelen ten behoeve van:
 
@@ -78,7 +104,7 @@ Het doel van de regeling is het beschikbaar stellen van middelen ten behoeve van
 
 - b. het bijdragen aan de doorontwikkeling van het MDT-programma, zodat het voor elke jongere mogelijk is om een passend MDT-traject te volgen.
 
-#### Artikel 4. Subsidiabele activiteiten
+##### Artikel 4. Subsidiabele activiteiten
 
 1. De minister verstrekt subsidie voor de volgende activiteiten:
 
@@ -98,7 +124,7 @@ Het doel van de regeling is het beschikbaar stellen van middelen ten behoeve van
 
 3. Activiteiten die reeds op andere wijze worden gefinancierd komen niet voor subsidie in aanmerking.
 
-#### Artikel 5. Penvoerderschap
+##### Artikel 5. Penvoerderschap
 
 1. De subsidie wordt verleend aan en verantwoord door de penvoerder.
 
@@ -106,7 +132,7 @@ Het doel van de regeling is het beschikbaar stellen van middelen ten behoeve van
 
 3. Een penvoerder dient een aanvraag in namens een partnerschap.
 
-#### Artikel 6. Hoogte van de subsidie
+##### Artikel 6. Hoogte van de subsidie
 
 1. De subsidie voor het uitvoeren van MDT-projecten bedraagt:
 
@@ -130,13 +156,13 @@ Het doel van de regeling is het beschikbaar stellen van middelen ten behoeve van
 
 5. De penvoerder kan bij de aanvraag tot verlening van subsidie voor maximaal 5% van de totale kosten van het desbetreffende MDT-project, garant staan voor de cofinanciering, bedoeld in het derde lid.
 
-#### Artikel 7. Subsidieplafond en wijze van verdeling
+##### Artikel 7. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt € 150.000.000.
 
 2. Indien het subsidieplafond bij subsidieverstrekking aan alle daarvoor in aanmerking komende aanvragen zou worden overschreden, verdeelt de minister het beschikbare bedrag middels een evenredige korting over de daarvoor in aanmerking komende aanvragen.
 
-#### Artikel 8. Aanvraag tot verlening
+##### Artikel 8. Aanvraag tot verlening
 
 1. Een penvoerder kan in 2024 en 2025 op grond van deze regeling subsidie aanvragen.
 
@@ -162,7 +188,7 @@ Het doel van de regeling is het beschikbaar stellen van middelen ten behoeve van
 
 9. Deze subsidieregeling is niet van toepassing op het Caribisch deel van het Koninkrijk.
 
-#### Artikel 9. Verplichtingen
+##### Artikel 9. Verplichtingen
 
 1. De penvoerder:
 
@@ -200,7 +226,7 @@ Het doel van de regeling is het beschikbaar stellen van middelen ten behoeve van
 
 - vi. een vragenlijst na verlening: de penvoerder overlegt binnen twee maanden na verlening een ingevulde vragenlijst ten behoeve van de registratie van het MDT-project en startmeting van onderzoek.
 
-#### Artikel 10. Beoordelingscommissie
+##### Artikel 10. Beoordelingscommissie
 
 1. Een door de minister ingestelde beoordelingscommissie adviseert de minister op basis van de beoordelingscriteria, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&bijlage=1&z=2026-04-08&g=2026-04-08), over de volledige subsidieaanvragen, met uitzondering van subsidieaanvragen die worden geweigerd op grond van [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) of omdat de penvoerder niet voldoet aan de eisen, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&hoofdstuk=1&artikel=5&z=2026-04-08&g=2026-04-08), in samenhang met [artikel 9f](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&hoofdstuk=3&artikel=9f&z=2026-04-08&g=2026-04-08).
 
@@ -242,11 +268,11 @@ Het doel van de regeling is het beschikbaar stellen van middelen ten behoeve van
 
 11. Aanvragen die ingevolge het negende en het tiende lid niet in aanmerking komen voor verdere beoordeling op de criteria 1 tot en met 6 als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&bijlage=2&z=2026-04-08&g=2026-04-08), worden afgewezen.
 
-#### Artikel 11. Beslistermijn
+##### Artikel 11. Beslistermijn
 
 De minister besluit op volledige aanvragen binnen 22 weken na afloop van de periode, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&hoofdstuk=2&artikel=8&z=2026-04-08&g=2026-04-08), [artikel 9b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&hoofdstuk=3&artikel=9b&z=2026-04-08&g=2026-04-08), of [artikel 9j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&hoofdstuk=3a&artikel=9j&z=2026-04-08&g=2026-04-08), op de aanvragen tot verlening.
 
-#### Artikel 12. Bevoorschotting en betaling
+##### Artikel 12. Bevoorschotting en betaling
 
 1. De minister betaalt een voorschot van 90% van de verleende subsidie.
 
@@ -260,7 +286,7 @@ De minister besluit op volledige aanvragen binnen 22 weken na afloop van de peri
 
 4. Onverminderd het tweede lid, onderdeel b, wordt het daar bedoelde voorschot niet eerder uitbetaald dan in 2028, voor zover het subsidies betreft die zijn verleend naar aanleiding van aanvragen die zijn ingediend in de aanvraagperiode, bedoeld in [artikel 9j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&hoofdstuk=3a&artikel=9j&z=2026-04-08&g=2026-04-08).
 
-#### Artikel 13. Verantwoording en vaststelling
+##### Artikel 13. Verantwoording en vaststelling
 
 1. Indien de penvoerder een onderwijsinstelling is als bedoeld in [artikel 1, onderdeel a, van de Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=1):
 
@@ -288,15 +314,15 @@ De minister besluit op volledige aanvragen binnen 22 weken na afloop van de peri
 
 5. In afwijking van [artikel 7.2 van de Kaderregeling OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.2) wordt een aanvraag tot subsidievaststelling ingediend binnen 17 weken nadat de activiteiten waarvoor subsidie wordt gevraagd, zijn verricht.
 
-#### Artikel 14. Hardheidsclausule
+##### Artikel 14. Hardheidsclausule
 
 De minister kan één of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 15. Inwerkingtreding en vervaldatum
+##### Artikel 15. Inwerkingtreding en vervaldatum
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en regeling vervalt met ingang van 1 april 2028.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling Maatschappelijke Diensttijd (MDT).
 
@@ -318,7 +344,7 @@ De criteria aan de hand waarvan een subsidieaanvraag beoordeeld wordt, zijn:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 15a. Overgangsbepaling subsidieverstrekking 2023
+##### Artikel 15a. Overgangsbepaling subsidieverstrekking 2023
 
 Ten aanzien van de subsidies die in 2023 op grond van deze regeling zijn verstrekt, blijft de regeling van toepassing zoals zij luidde op 2 mei 2023.
 
@@ -365,17 +391,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 2. Aanvraagronde 2024
 
-#### Artikel 5a. Reikwijdte hoofdstuk 2
+##### Artikel 5a. Reikwijdte hoofdstuk 2
 
 Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor de uitvoering van activiteiten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&hoofdstuk=1&artikel=4&z=2026-04-08&g=2026-04-08), naar aanleiding van aanvragen die zijn ingediend in de in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&hoofdstuk=2&artikel=8&z=2026-04-08&g=2026-04-08), bedoelde aanvraagperiode.
 
 ### Hoofdstuk 3. Aanvraagronde 2025
 
-#### Artikel 9a. Reikwijdte hoofdstuk 3
+##### Artikel 9a. Reikwijdte hoofdstuk 3
 
 Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor de uitvoering van activiteiten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&hoofdstuk=1&artikel=4&z=2026-04-08&g=2026-04-08), naar aanleiding van aanvragen die zijn ingediend in de in [artikel 9b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&hoofdstuk=3&artikel=9b&z=2026-04-08&g=2026-04-08), bedoelde aanvraagperiode.
 
-#### Artikel 9b. Aanvraag subsidie
+##### Artikel 9b. Aanvraag subsidie
 
 1. In 2025 kan een aanvraag voor subsidie worden ingediend van 5 juni 2025, 09.00 uur tot en met 3 juli 2025, 13.00 uur. Aanvragen die buiten de aanvraagperiode worden ingediend, worden afgewezen.
 
@@ -391,11 +417,11 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 3. De begroting en de cofinancieringsverklaring worden ingediend met gebruikmaking van het standaardformulier dat is bekendgemaakt op de website van DUS-I.
 
-#### Artikel 9c. Penvoerderschap
+##### Artikel 9c. Penvoerderschap
 
 [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&hoofdstuk=1&artikel=5&z=2026-04-08&g=2026-04-08) is van overeenkomstige toepassing met dien verstande dat de penvoerder op 1 juli 2025 minimaal een jaar ingeschreven staat bij de Kamer van Koophandel.
 
-#### Artikel 9d. Subsidieplafond en hoogte van de subsidie
+##### Artikel 9d. Subsidieplafond en hoogte van de subsidie
 
 1. Het subsidieplafond voor subsidieverstrekking in 2025 bedraagt ten hoogste € 125 miljoen.
 
@@ -413,11 +439,11 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 - iv. maximaal € 3.967,– per MDT-intensief-traject.
 
-#### Artikel 9e. Wijze van verdeling beschikbare middelen
+##### Artikel 9e. Wijze van verdeling beschikbare middelen
 
 Indien het subsidieplafond, bedoeld in [artikel 9d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&hoofdstuk=3&artikel=9d&z=2026-04-08&g=2026-04-08), ontoereikend is om alle voor verlening in aanmerking komende aanvragen die op grond van het beoordelingskader, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&bijlage=1&z=2026-04-08&g=2026-04-08), als voldoende zijn beoordeeld toe te wijzen, wordt door middel van loting bepaald welke subsidieaanvragen gehonoreerd worden.
 
-#### Artikel 9f. Afwijzingsgronden
+##### Artikel 9f. Afwijzingsgronden
 
 1. Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) kan subsidieverlening in ieder geval geweigerd worden, indien het werkkapitaal van de penvoerder minder dan 10% bedraagt van het totaal aangevraagde subsidiebedrag, op basis van de jaarrekening of balans, bedoeld in [artikel 9b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&hoofdstuk=3&artikel=9b&z=2026-04-08&g=2026-04-08).
 
@@ -425,7 +451,7 @@ Indien het subsidieplafond, bedoeld in [artikel 9d, eerste lid](https://wetten.o
 
 3. Indien de penvoerder een onderwijsinstelling is als bedoeld in [artikel 1, onderdeel a, van de Regeling jaarverslaggeving](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=1), is dit artikel niet van toepassing.
 
-#### Artikel 9g. Subsidieverplichtingen
+##### Artikel 9g. Subsidieverplichtingen
 
 De subsidieverplichtingen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&hoofdstuk=2&artikel=9&z=2026-04-08&g=2026-04-08), zijn van overeenkomstige toepassing voor de subsidieverstrekking op grond van dit hoofdstuk, met dien verstande dat:
 
@@ -475,7 +501,7 @@ De beoordelingscommissie beoordeelt de kwaliteit van de aanvragen voor nieuwe pe
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 12a. Budgetneutrale verlenging subsidieperiode
+##### Artikel 12a. Budgetneutrale verlenging subsidieperiode
 
 1. De minister kan op verzoek van de penvoerder eenmalig de looptijd van het MDT-project met ten hoogste drie maanden verlengen. Verlenging kan worden verleend indien dit noodzakelijk is voor de afronding van MDT-trajecten.
 
@@ -515,11 +541,11 @@ De beoordelingscommissie beoordeelt de kwaliteit van de aanvragen voor nieuwe pe
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 9h. Reikwijdte [hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&hoofdstuk=3a&z=2026-04-08&g=2026-04-08)
+##### Artikel 9h. Reikwijdte [hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&hoofdstuk=3a&z=2026-04-08&g=2026-04-08)
 
 Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor de uitvoering van activiteiten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&hoofdstuk=1&artikel=4&z=2026-04-08&g=2026-04-08), naar aanleiding van aanvragen die zijn ingediend in de in [artikel 9j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&hoofdstuk=3a&artikel=9j&z=2026-04-08&g=2026-04-08), bedoelde aanvraagperiode.
 
-#### Artikel 9i. Vooraanmelding
+##### Artikel 9i. Vooraanmelding
 
 1. Een aanvraag voor subsidie wordt voorafgegaan door indiening van een vooraanmelding binnen de periode, genoemd in het vierde lid. Indien de penvoerder van een aanvraag geen onderdeel is van een beoogd partnerschap waarvoor een vooraanmelding is gedaan, wordt de aanvraag afgewezen.
 
@@ -533,7 +559,7 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 4. De vooraanmelding wordt ingediend in de periode van 9 april 2026, 9.00 uur tot en met 30 april 2026, 13.00 uur. Indien de vooraanmelding na 30 april 2026, 13.00 uur, is ingediend wordt een aanvraag als bedoeld in [artikel 9j](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&hoofdstuk=3a&artikel=9j&z=2026-04-08&g=2026-04-08) afgewezen.
 
-#### Artikel 9j. Aanvraag subsidie
+##### Artikel 9j. Aanvraag subsidie
 
 1. In 2026 kan een aanvraag voor subsidie worden ingediend in de periode van 7 mei 2026, 9.00 uur tot en met 2 juli 2026, 13.00 uur. Aanvragen die buiten de aanvraagperiode zijn ingediend, worden afgewezen.
 
@@ -567,13 +593,13 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 9. Een subsidieaanvraag wordt beoordeeld aan de hand van het beoordelingskader, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&bijlage=2&z=2026-04-08&g=2026-04-08).
 
-#### Artikel 9k. Penvoerderschap
+##### Artikel 9k. Penvoerderschap
 
 1. De penvoerder sluit met elke samenwerkingspartner een Data Sharing Agreement om gegevensuitwisseling mogelijk te maken. Deze overeenkomst wordt bij de eerste tussentijdse rapportage aan de minister overgelegd.
 
 2. De penvoerder draagt er zorg voor dat deelname aan een MDT-traject vrijwillig is. De mate van vrijwillige deelname wordt beoordeeld aan de hand van de beschrijving van deelcriterium 1d in het beoordelingskader in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&bijlage=2&z=2026-04-08&g=2026-04-08). Indien dit deelcriterium als ‘voldoet niet’ wordt beoordeeld, wordt de aanvraag afgewezen.
 
-#### Artikel 9l. Subsidieplafond, hoogte van de subsidie en maximum uurtarief
+##### Artikel 9l. Subsidieplafond, hoogte van de subsidie en maximum uurtarief
 
 1. Voor subsidieverstrekking is in 2026 een bedrag van ten hoogste € 115.000.000 beschikbaar.
 
@@ -593,7 +619,7 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 5. Voor de inzet van intern personeel of extern personeel geldt een maximumuurtarief van € 130,– inclusief BTW en overheadkosten. In bijzondere gevallen kan van dit tarief onderbouwd worden afgeweken.
 
-#### Artikel 9m. Cofinanciering
+##### Artikel 9m. Cofinanciering
 
 1. De penvoerder realiseert minimaal 30% cofinanciering van de totale kosten van het desbetreffende MDT-project waarbij de cofinanciering in geld is, of wordt gewaardeerd in geld.
 
@@ -601,7 +627,7 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 3. Voor de cofinanciering, bedoeld in het eerste lid, wordt uitsluitend cofinanciering in aanmerking genomen die afkomstig is van een instelling of van instellingen die op 1 juni 2026 ten minste een jaar stonden ingeschreven bij de Kamer van Koophandel.
 
-#### Artikel 9n. Wijze van verdeling beschikbare middelen
+##### Artikel 9n. Wijze van verdeling beschikbare middelen
 
 1. Indien het subsidieplafond, bedoeld in [artikel 9l, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&hoofdstuk=3a&artikel=9l&z=2026-04-08&g=2026-04-08), ontoereikend is om alle aanvragen met een voldoende beoordeling als bedoeld in [artikel 10, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&hoofdstuk=4&artikel=10&z=2026-04-08&g=2026-04-08), toe te wijzen, wordt het beschikbare bedrag verdeeld op basis van de rangschikking in gewogen eindscore, bedoeld in artikel 10, achtste lid, totdat het budget is uitgeput.
 
@@ -609,7 +635,7 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 3. Indien het subsidieplafond niet volledig is uitgeput, maar het resterende voor subsidieverstrekking beschikbare bedrag onvoldoende is om een aanvraag volledig te kunnen honoreren, kan aan de desbetreffende subsidieaanvrager gevraagd worden om projectaanpassingen door te voeren. Indien deze aanvrager hiermee niet akkoord gaat, wordt zijn aanvraag afgewezen.
 
-#### Artikel 9o. Afwijzingsgronden
+##### Artikel 9o. Afwijzingsgronden
 
 1. Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt subsidieverlening in ieder geval geweigerd, indien het resultaat van de som werkkapitaal minus bestemmingsfondsen van de penvoerder minder dan 10% bedraagt van het totaal aangevraagde subsidiebedrag, op basis van de meest recente jaarrekening, bedoeld in [artikel 9j, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&hoofdstuk=3a&artikel=9j&z=2026-04-08&g=2026-04-08).
 
@@ -629,7 +655,7 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 4. Indien de penvoerder een onderwijsinstelling is als bedoeld in [artikel 1, onderdeel a, van de Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=1), is dit artikel niet van toepassing.
 
-#### Artikel 9p. Subsidieverplichtingen
+##### Artikel 9p. Subsidieverplichtingen
 
 Aan de subsidie zijn de volgende verplichtingen verbonden:
 
@@ -669,7 +695,7 @@ Aan de subsidie zijn de volgende verplichtingen verbonden:
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 15b. Caribisch Nederland
+##### Artikel 15b. Caribisch Nederland
 
 Deze regeling is niet van toepassing in Caribisch Nederland.
 

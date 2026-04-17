@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel bekostigingscyclus Wlz 2025"
 identifier: "BWBR0050013"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050013"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050013"
+soort: "zbo"
+stam_id: "17177963"
+version_id: "30240772"
+internal_id: "C43316851"
+label_id: "17085914"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050013/2025-01-01/0"
+intitule_bron: "Stcrt.2024-22676"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-07-02"
+intitule_published: "2024-07-12"
+intitule_in_force: "2024-07-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-22676"
+original_signed_date: "2024-07-02"
+original_published_date: "2024-07-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-22676"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050013&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050013&g=2025-01-01"
+citeertitel_status: "officieel"
+signed_date: "2024-07-02"
+entry_into_force: "2025-01-01"
 ---
-
 # Beleidsregel bekostigingscyclus Wlz 2025
 
 **Grondslag**
@@ -16,7 +41,7 @@ Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening ge
 
 Gelet op [artikel 52, aanhef en onderdeel e, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=52), worden tarieven en prestatiebeschrijvingen die uit [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050013&artikel=6&z=2025-01-01&g=2025-01-01) van deze beleidsregel voortvloeien, ambtshalve vastgesteld door de NZa.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -88,7 +113,7 @@ Een anders dan tweezijdig ingediende nacalculatie-opgave beschouwt de NZa als ee
 
 Voor overige begrippen die in deze beleidsregel gebruikt worden, maar niet hierboven vermeld staan, wordt verwezen naar de Beleidsregel definities Wlz.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is het vastleggen/vaststellen van de voorwaarden voor:
 
@@ -100,11 +125,11 @@ Het doel van deze beleidsregel is het vastleggen/vaststellen van de voorwaarden 
 
 - d). de wijze waarop de NZa gebruik maakt van haar bevoegdheid om de tarifering van onderlinge dienstverlening tussen zorgaanbieders te reguleren.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op de zorg of dienst als omschreven bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) (Wlz) die wordt geleverd door zorgaanbieders.
 
-#### Artikel 4. Aanvaardbare kosten 2025
+##### Artikel 4. Aanvaardbare kosten 2025
 
 De aanvaardbare kosten voor het jaar 2025 worden berekend door de toepassing van de beleidsregels als genoemd in artikel 4, eerste lid.
 
@@ -138,7 +163,7 @@ De aanvaardbare kosten voor het jaar 2025 worden berekend door de toepassing van
 
 - b. Met betrekking tot de kostencomponenten die ten grondslag liggen aan de aanvaardbare kosten, geldt dat bij de boeking van kosten, opbrengsten en doorberekende kosten een bestendige gedragslijn gevolgd moet worden.
 
-#### Artikel 5. Nacalculatie-opgave 2025
+##### Artikel 5. Nacalculatie-opgave 2025
 
 1. **Indiening**
 
@@ -206,7 +231,7 @@ De financiële waarde van de overige onderdelen die naast de financieel gerealis
 
 - b. Beoordeling en afhandeling De nacalculatie-opgave 2025 van een failliete zorgaanbieder wordt conform de reguliere procedure beoordeeld en afgehandeld. Indien de nacalculatie-opgave 2025 wordt ingediend zonder nadere onderbouwing en over deze opgave geen overeenstemming bestaat tussen (i) de failliete zorgaanbieder/curator en (ii) het zorgkantoor/de Wlz-uitvoerder, stelt de NZa de aanvaardbare kosten vast op de laagste opgave. Indien één eenzijdige aanvraag wordt ingediend, waarbij sprake is van een door de rechter uitgesproken faillissement van de zorgaanbieder, vergewist de NZa zich van de grondslag van weigering van het zorgkantoor/Wlz-uitvoerder of zorgaanbieder/curator om de aanvraag mede te ondertekenen. Een eenzijdige aanpassing van de gehonoreerde productieafspraak in geval van faillissement is mogelijk. De NZa volgt in dat geval de enige eenzijdige opgave, ingediend door de zorgaanbieder/curator dan wel door zorgkantoor/Wlz-uitvoerder.
 
-#### Artikel 6. Indexaties
+##### Artikel 6. Indexaties
 
 1. Indexatie loonkosten
 
@@ -266,7 +291,7 @@ Uitzondering hierop vormt de indexatie van de nhc en van de nic. Die indexaties 
 
 - c. Indexatie van de beleidsregelwaarden in de Beleidsregel overige kosten Wlz 2025 (artikel 5 Vergoeding van inrichtingskosten bij gedwongen verhuizing) Bij de indexatie van de beleidsregelwaarden in deze beleidsregel wordt uitgegaan van het afzonderlijke indexcijfer voor materiële kosten. Er is hierbij dus geen sprake van een gecombineerde index. De beleidsregelwaarden van deze prestaties zijn gebaseerd op de definitieve index van jaar t–1 voor materiële kosten.
 
-#### Artikel 7. Tarifering onderlinge dienstverlening [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
+##### Artikel 7. Tarifering onderlinge dienstverlening [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
 
 1. **Prestatie en tarief**
 
@@ -278,11 +303,11 @@ Uitzondering hierop vormt de indexatie van de nhc en van de nic. Die indexaties 
 
 Als sprake is van onderlinge dienstverlening brengt de uitvoerende zorgaanbieder de kosten in rekening bij de opdrachtgevende zorgaanbieder.
 
-#### Artikel 8. Vervallen en intrekken oude beleidsregel
+##### Artikel 8. Vervallen en intrekken oude beleidsregel
 
 De [Beleidsregel bekostigingscyclus Wlz 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049479), met kenmerk BR/REG-24115b, die een geldigheidsduur heeft tot en met 31 december 2025, komt na afloop van laatstgenoemde datum van rechtswege te vervallen.
 
-#### Artikel 9. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 9. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
 
 De [Beleidsregel bekostigingscyclus Wlz 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049479), met kenmerk BR/REG-24115b, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

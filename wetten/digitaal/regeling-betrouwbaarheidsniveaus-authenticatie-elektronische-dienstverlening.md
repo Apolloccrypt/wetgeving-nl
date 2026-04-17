@@ -1,20 +1,46 @@
 ---
-title: "Regeling betrouwbaarheidsniveaus authenticatie elektronische dienstverlening"
+title: "Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 8 mei 2023, nr 23-0000244782, houdende regels betreffende de bepaling van het vereiste betrouwbaarheidsniveau van authenticatie voor de verlening van elektronisch diensten en overgangsrecht met betrekking tot betrouwbaarheidsniveaus (Regeling betrouwbaarheidsniveaus authenticatie elektronische dienstverlening)"
 identifier: "BWBR0048168"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2025-07-10
-laatste_update: 2025-07-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048168"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-10"
+last_updated: "2025-07-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048168"
+soort: "ministeriele-regeling"
+stam_id: "16747953"
+version_id: "29409272"
+internal_id: "C42047621"
+label_id: "16663924"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048168/2025-07-10/0"
+intitule_bron: "Stcrt.2023-13656"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-05-08"
+intitule_published: "2023-05-17"
+intitule_in_force: "2023-05-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-13656"
+original_signed_date: "2023-05-08"
+original_published_date: "2023-05-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-13656"
+entry_into_force_date: "2023-07-01"
+jci_1_3: "jci1.3:c:BWBR0048168&z=2025-07-10&g=2025-07-10"
+jci_1_0: "1.0:c:BWBR0048168&g=2025-07-10"
+citeertitel_status: "officieel"
+short_title: "Regeling betrouwbaarheidsniveaus authenticatie elektronische dienstverlening"
+signed_date: "2023-05-08"
+entry_into_force: "2023-07-01"
 ---
-
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 8 mei 2023, nr 23-0000244782, houdende regels betreffende de bepaling van het vereiste betrouwbaarheidsniveau van authenticatie voor de verlening van elektronisch diensten en overgangsrecht met betrekking tot betrouwbaarheidsniveaus (Regeling betrouwbaarheidsniveaus authenticatie elektronische dienstverlening)
 
 Gelet op [artikel 6, tweede, derde en vierde lid, van de Wet digitale overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&artikel=6);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 - −. **wet:** [Wet digitale overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156).
 
-#### Artikel 2. Bepalen betrouwbaarheidsniveau voor een dienst
+##### Artikel 2. Bepalen betrouwbaarheidsniveau voor een dienst
 
 1. Indien voor een elektronische dienst niet bij wettelijk voorschrift is bepaald dat een specifieke wijze van authenticatie voor die dienst vereist is of ten minste vereist is, bepaalt een bestuursorgaan of aangewezen organisatie dat niveau overeenkomstig het tweede tot en met vijfde lid.
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 5. Een bestuursorgaan of aangewezen organisatie bepaalt dat geen authenticatie is vereist indien voor geen van de aspecten van die dienst een van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048168&bijlage=2&z=2025-07-10&g=2025-07-10) bij deze regeling genoemde criteria op de dienst van toepassing is.
 
-#### Artikel 3. Risico verlagende factoren
+##### Artikel 3. Risico verlagende factoren
 
 1. Onverminderd de toepasselijkheid van een wettelijk voorschrift dat bepaalt dat een specifieke wijze van authenticatie voor die dienst vereist is of ten minste vereist is, kan, in afwijking van [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048168&artikel=2&z=2025-07-10&g=2025-07-10), een bestuursorgaan of aangewezen organisatie voor een elektronische dienst authenticatie op één betrouwbaarheidsniveau lager vaststellen, indien:
 
@@ -56,11 +82,11 @@ In deze regeling wordt verstaan onder:
 
 2. Toepassing van het eerste lid sluit gelijktijdige toepassing van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048168&artikel=6&z=2025-07-10&g=2025-07-10) uit.
 
-#### Artikel 4. Risicoverhogende factoren
+##### Artikel 4. Risicoverhogende factoren
 
 Indien naar het oordeel van het bestuursorgaan of de aangewezen organisatie, gelet op de aard van de dienst, sprake is van risicoverhogende factoren waaronder identiteitsfraude of misbruik van de dienst, wordt een volledige risicoanalyse uitgevoerd teneinde het passende betrouwbaarheidsniveau voor die dienst te kunnen bepalen.
 
-#### Artikel 5. Machtigen
+##### Artikel 5. Machtigen
 
 1. Afgifte en intrekking van een machtiging wordt elektronisch geregistreerd.
 
@@ -80,21 +106,21 @@ Indien naar het oordeel van het bestuursorgaan of de aangewezen organisatie, gel
 
 7. Het bestuursorgaan of de aangewezen organisatie kan bepalen dat de betrouwbaarheid van een machtigingsregistratie lager mag zijn dan het betrouwbaarheidsniveau dat voor de authenticatie van de dienst vereist is, mits adequate aanvullende maatregelen in het proces van dienstverlening of toegangsverlening worden getroffen.
 
-#### Artikel 6. Tijdelijk toestaan van een lager niveau
+##### Artikel 6. Tijdelijk toestaan van een lager niveau
 
 1. Onverminderd de toepasselijkheid van een wettelijk voorschrift dat bepaalt dat een specifieke wijze van authenticatie voor die dienst vereist is of ten minste vereist is, kan een bestuursorgaan of aangewezen organisatie, indien de beschikbaarheid of het gebruik van identificatiemiddelen op de betrouwbaarheidsniveaus substantieel en hoog of de mogelijkheid om deze te gebruiken om toegang te krijgen tot dienstverlening onvoldoende is, voor een elektronische dienst, waarvoor op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048168&artikel=2&z=2025-07-10&g=2025-07-10) authenticatie op betrouwbaarheidsniveau hoog respectievelijk substantieel benodigd is, tot 1 juli 2028 voor toegang tot die dienst tevens het gebruik van een toegelaten of erkend middel op betrouwbaarheidsniveau substantieel respectievelijk een middel op betrouwbaarheidsniveau laag toestaan.
 
 2. Toepassing van het eerste lid sluit gelijktijdige toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048168&artikel=3&z=2025-07-10&g=2025-07-10) uit.
 
-#### Artikel 7. Kenbaarheid betrouwbaarheidsniveau
+##### Artikel 7. Kenbaarheid betrouwbaarheidsniveau
 
 Het bestuursorgaan dat of de aangewezen organisatie die de dienst verleent maakt op de eigen website kenbaar welk betrouwbaarheidsniveau van authenticatie op grond van de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048168&artikel=2&z=2025-07-10&g=2025-07-10) ten minste vereist is.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling betrouwbaarheidsniveaus authenticatie elektronische dienstverlening.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 juli 2023.
 

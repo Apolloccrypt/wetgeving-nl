@@ -1,14 +1,41 @@
 ---
-title: "Wijzigingswet Politiewet 2012, enz. (inbedding Politieacademie in nieuwe politiebestel)"
+title: "Wet van 25 mei 2016 tot wijziging van de Politiewet 2012 in verband met de inbedding van de Politieacademie in het nieuwe politiebestel"
 identifier: "BWBR0038021"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2017-01-01
-laatste_update: 2017-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038021"
+country: "nl"
+rank: "wet"
+publication_date: "2017-01-01"
+last_updated: "2017-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038021"
+soort: "wet"
+stam_id: "13644923"
+version_id: "23356922"
+internal_id: "C34065841"
+label_id: "13611614"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038021/2017-01-01/0"
+intitule_bron: "Stb.2016-203"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-05-25"
+intitule_published: "2016-06-07"
+intitule_in_force: "2016-11-25"
+intitule_status: "goed"
+original_publication: "Stb.2016-203"
+original_signed_date: "2016-05-25"
+original_published_date: "2016-06-07"
+original_effect: "nieuwe-regeling"
+original_dossier: "34129"
+original_url_id: "stb-2016-203"
+entry_into_force_date: "2017-01-01"
+jci_1_3: "jci1.3:c:BWBR0038021&z=2017-01-01&g=2017-01-01"
+jci_1_0: "1.0:c:BWBR0038021&g=2017-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingswet Politiewet 2012, enz. (inbedding Politieacademie in nieuwe politiebestel)"
+signed_date: "2016-05-25"
+entry_into_force: "2017-01-01"
 ---
-
-# Wijzigingswet Politiewet 2012, enz. (inbedding Politieacademie in nieuwe politiebestel)
+# Wet van 25 mei 2016 tot wijziging van de Politiewet 2012 in verband met de inbedding van de Politieacademie in het nieuwe politiebestel
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,19 +43,19 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is tot een nauwere aans
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Politiewet 2012.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet veiligheidsregio’s.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel IV
+##### Artikel IV
 
 a.
 
@@ -66,11 +93,11 @@ d. Het personeel van de Politieacademie, bedoeld in [artikel 10, eerste lid, ond
 
 - 4. Na inwerkingtreding van deze wet berust de [Regeling landelijke politieopleidingen PO2002](https://wetten.overheid.nl/jci1.3:c:BWBR0016193) op de [artikel 87, eerste, tweede en derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=87).
 
-#### Artikel V
+##### Artikel V
 
 De [Wet op het LSOP en het politieonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0014623) wordt ingetrokken.
 
-#### Artikel VI
+##### Artikel VI
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 

@@ -1,20 +1,46 @@
 ---
-title: "Regeling informatievoorziening PO/VO/MBO BES"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Primair en Voortgezet Onderwijs, van 4 juli 2022, nr. VO/28164592, houdende regels omtrent informatievoorziening in het primair en voortgezet onderwijs en beroepsonderwijs in Bonaire, Sint Eustatius en Saba (Regeling informatievoorziening PO/VO/MBO BES)"
 identifier: "BWBR0046964"
-categorie: "Onderwijs"
-publicatiedatum: 2022-08-01
-laatste_update: 2022-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046964"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2022-08-01"
+last_updated: "2022-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046964"
+soort: "ministeriele-regeling-BES"
+stam_id: "16431833"
+version_id: "28784152"
+internal_id: "C40757251"
+label_id: "16355974"
+dtd_version: "2.0"
+original_entry_into_force: "2022-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046964/2022-08-01/0"
+intitule_bron: "Stcrt.2022-18284"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-07-04"
+intitule_published: "2022-07-26"
+intitule_in_force: "2022-07-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-18284"
+original_signed_date: "2022-07-04"
+original_published_date: "2022-07-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-18284"
+entry_into_force_date: "2022-08-01"
+jci_1_3: "jci1.3:c:BWBR0046964&z=2022-08-01&g=2022-08-01"
+jci_1_0: "1.0:c:BWBR0046964&g=2022-08-01"
+citeertitel_status: "officieel"
+short_title: "Regeling informatievoorziening PO/VO/MBO BES"
+signed_date: "2022-07-04"
+entry_into_force: "2022-08-01"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Primair en Voortgezet Onderwijs, van 4 juli 2022, nr. VO/28164592, houdende regels omtrent informatievoorziening in het primair en voortgezet onderwijs en beroepsonderwijs in Bonaire, Sint Eustatius en Saba (Regeling informatievoorziening PO/VO/MBO BES)
 
 Gelet op [artikel 2, tweede lid, van het Besluit bekostiging WPO BES 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046152&artikel=2), [artikel 4 van het Besluit informatievoorziening WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=4), [artikel 2.68, tweede lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.68) en [artikel 3 van het Uitvoeringsbesluit WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029696&artikel=3);
 
 Besluiten:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 - **voortgezet onderwijs:** voortgezet onderwijs als bedoeld in de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212), aan een school in het openbaar lichaam Bonaire, Saba of Sint Eustatius.
 
-#### Artikel 2. Verstrekking gegevens primair onderwijs in de openbare lichamen Bonaire, Sint Eustatius en Saba
+##### Artikel 2. Verstrekking gegevens primair onderwijs in de openbare lichamen Bonaire, Sint Eustatius en Saba
 
 1. Het bevoegd gezag van een school voor primair onderwijs verstrekt jaarlijks aan de minister de volgende gegevens op de teldata 1 februari en 1 oktober van elk kalenderjaar:
 
@@ -62,7 +88,7 @@ In deze regeling wordt verstaan onder:
 
 3. De formulieren, bedoeld in het tweede lid, moeten uiterlijk op 15 februari en 15 oktober van het kalenderjaar door DUO zijn ontvangen.
 
-#### Artikel 3. Verstrekking gegevens voortgezet onderwijs en beroepsonderwijs in het openbaar lichaam Bonaire
+##### Artikel 3. Verstrekking gegevens voortgezet onderwijs en beroepsonderwijs in het openbaar lichaam Bonaire
 
 1. Het bevoegd gezag van een school voor voortgezet onderwijs in het openbaar lichaam Bonaire verstrekt jaarlijks aan de minister de volgende gegevens op de teldatum 1 oktober van elk kalenderjaar:
 
@@ -106,7 +132,7 @@ In deze regeling wordt verstaan onder:
 
 4. Het formulier, bedoeld in het derde lid, moet uiterlijk op 15 oktober van het betreffende kalenderjaar door DUO zijn ontvangen.
 
-#### Artikel 4. Verstrekking gegevens voortgezet onderwijs in de openbare lichamen Saba en Sint Eustatius
+##### Artikel 4. Verstrekking gegevens voortgezet onderwijs in de openbare lichamen Saba en Sint Eustatius
 
 1. Het bevoegd gezag van een school voor voortgezet onderwijs in het openbaar lichaam Saba of Sint Eustatius verstrekt jaarlijks aan de minister de volgende gegevens op de teldatum 1 oktober van elk kalenderjaar:
 
@@ -132,31 +158,31 @@ In deze regeling wordt verstaan onder:
 
 3. Het formulier moet uiterlijk op 15 oktober van het betreffende kalenderjaar door DUO zijn ontvangen.
 
-#### Artikel 5. Verstrekking organisatiegegevens
+##### Artikel 5. Verstrekking organisatiegegevens
 
 1. Het bevoegd gezag van een school voor primair onderwijs of van een school voor voortgezet onderwijs ten aanzien waarvan de minister heeft medegedeeld dat de bekostiging een aanvang kan nemen, zendt uiterlijk drie maanden voor de datum van ingang van de bekostiging de organisatiegegevens van de school aan de minister op basis van een formulier waarvan een model als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046964&bijlage=1&z=2022-08-01&g=2022-08-01) bij deze regeling is opgenomen. Het formulier gaat vergezeld van een kopie van de akte van oprichting, ondertekend door een notaris.
 
 2. Het bevoegd gezag van een school voor primair onderwijs of van een school voor voortgezet onderwijs zendt wijzigingen in de organisatiegegevens van de school binnen vier weken na de mutatiedatum aan de minister.
 
-#### Artikel 6. Verstrekking personele gegevens
+##### Artikel 6. Verstrekking personele gegevens
 
 1. Het bevoegd gezag levert de personele gegevens, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046964&bijlage=2&z=2022-08-01&g=2022-08-01), overeenkomstig de beschrijving en op de wijze als vermeld in die bijlage, aan de minister.
 
 2. Het bevoegd gezag dat na overleg met de minister, door de minister niet in staat wordt geacht de gegevens op de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046964&bijlage=2&z=2022-08-01&g=2022-08-01) genoemde wijze te leveren, levert de gegevens op de wijze die door de minister wordt vastgesteld na overleg met het bevoegd gezag.
 
-#### Artikel 7. Tijdstip van levering personele gegevens
+##### Artikel 7. Tijdstip van levering personele gegevens
 
 Het bevoegd gezag levert uiterlijk op 15 maart van ieder jaar de personele gegevens, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046964&artikel=6&z=2022-08-01&g=2022-08-01), over het daaraan voorafgaande jaar.
 
-#### Artikel 8. Intrekken [Regeling gegevenslevering PO/VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029686)
+##### Artikel 8. Intrekken [Regeling gegevenslevering PO/VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029686)
 
 De [Regeling gegevenslevering PO/VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029686) wordt ingetrokken.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 augustus 2022.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling informatievoorziening PO/VO/MBO BES.
 

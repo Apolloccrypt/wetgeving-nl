@@ -1,13 +1,38 @@
 ---
 title: "Regeling aanwijzing niet c.e.-stof profielen 2008 en 2009"
 identifier: "BWBR0024728"
-categorie: "Bestuursrecht"
-publicatiedatum: 2006-01-01
-laatste_update: 2006-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024728"
+country: "nl"
+rank: "zbo"
+publication_date: "2006-01-01"
+last_updated: "2006-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024728"
+soort: "zbo"
+stam_id: "9772553"
+version_id: "15851402"
+internal_id: "C21739361"
+label_id: "9749364"
+dtd_version: "2.0"
+original_entry_into_force: "2006-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024728/2006-01-01/0"
+intitule_bron: "Stcrt.2005-198"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-10-01"
+intitule_published: "2005-10-12"
+intitule_in_force: "2005-10-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-198"
+original_signed_date: "2005-10-01"
+original_published_date: "2005-10-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-198-p15-SC71909"
+entry_into_force_date: "2006-01-01"
+jci_1_3: "jci1.3:c:BWBR0024728&z=2006-01-01&g=2006-01-01"
+jci_1_0: "1.0:c:BWBR0024728&g=2006-01-01"
+citeertitel_status: "officieel"
+signed_date: "2005-10-01"
+entry_into_force: "2006-01-01"
 ---
-
 # Regeling aanwijzing niet c.e.-stof profielen 2008 en 2009
 
 Gelet op:
@@ -20,27 +45,27 @@ Het [Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o., artikel 39](https://wett
 
 Besluit:
 
-#### Artikel 1. Aanwijzing vwo
+##### Artikel 1. Aanwijzing vwo
 
 Bij de centrale examens vwo van 2008 respectievelijk 2009 worden geen vragen gesteld over de domeinen, dan wel subdomeinen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024728&bijlage=1&z=2006-01-01&g=2006-01-01).
 
-#### Artikel 2. Aanwijzing havo
+##### Artikel 2. Aanwijzing havo
 
 Bij de centrale examens havo van 2008 worden geen vragen gesteld over de domeinen, dan wel subdomeinen, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024728&bijlage=2&z=2006-01-01&g=2006-01-01).
 
-#### Artikel 3. Keuzedomeinen centraal examen
+##### Artikel 3. Keuzedomeinen centraal examen
 
 Bij de centrale examens van 2007, 2008 en 2009 heeft het centraal examen betrekking op de Domeinen zoals genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024728&bijlage=3&z=2006-01-01&g=2006-01-01).
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 Deze regeling treedt in werking op 1 januari 2006
 
-#### Artikel 5. Bekendmaking
+##### Artikel 5. Bekendmaking
 
 Deze regeling wordt gepubliceerd in de Staatscourant. Daarnaast wordt zij geplaatst op de internetsite www.cfi.nl van CFI, Agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 6. Citeertitel
+##### Artikel 6. Citeertitel
 
 Deze regeling kan worden aangehaald als de Regeling aanwijzing niet c.e.-stof profielen 2008 en 2009.
 

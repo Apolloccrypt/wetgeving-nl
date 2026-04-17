@@ -1,14 +1,41 @@
 ---
-title: "Invoeringswet fiscaal stelsel BES"
+title: "Wet van 16 december 2010 tot vaststelling van de Wet invoeringswet fiscaal stelsel BES (Invoeringswet fiscaal stelsel BES)"
 identifier: "BWBR0029268"
-categorie: "Belastingrecht"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029268"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029268"
+soort: "wet-BES"
+stam_id: "11165913"
+version_id: "18263022"
+internal_id: "C25453381"
+label_id: "11140734"
+dtd_version: "2.0"
+original_entry_into_force: "2011-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029268/2019-01-01/0"
+intitule_bron: "Stb.2010-847"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-12-16"
+intitule_published: "2010-12-28"
+intitule_in_force: "2010-12-28"
+intitule_status: "goed"
+original_publication: "Stb.2010-847"
+original_signed_date: "2010-12-16"
+original_published_date: "2010-12-28"
+original_effect: "nieuwe-regeling"
+original_dossier: "32276"
+original_url_id: "stb-2010-847"
+entry_into_force_date: "2011-01-01"
+jci_1_3: "jci1.3:c:BWBR0029268&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0029268&g=2019-01-01"
+citeertitel_status: "officieel"
+short_title: "Invoeringswet fiscaal stelsel BES"
+signed_date: "2010-12-16"
+entry_into_force: "2011-01-01"
 ---
-
-# Invoeringswet fiscaal stelsel BES
+# Wet van 16 december 2010 tot vaststelling van de Wet invoeringswet fiscaal stelsel BES (Invoeringswet fiscaal stelsel BES)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,59 +47,59 @@ Treedt in werking om 00:00 uur in de openbare lichamen Bonaire, Sint Eustatius e
 
 ### Hoofdstuk I. Aanpassingen
 
-#### Artikel I
+##### Artikel I
 
 [vervallen]
 
-#### Artikel II
+##### Artikel II
 
 [vervallen]
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel IV
+##### Artikel IV
 
 [vervallen]
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Invorderingswet 1990.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Kostenwet invordering rijksbelastingen.
 
-#### Artikel VII
+##### Artikel VII
 
 [vervallen]
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet op de dividendbelasting 1965.
 
-#### Artikel X
+##### Artikel X
 
 [vervallen]
 
-#### Artikel XI
+##### Artikel XI
 
 [vervallen]
 
-#### Artikel XII
+##### Artikel XII
 
 [vervallen]
 
-#### Artikel XIII
+##### Artikel XIII
 
 [vervallen]
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
@@ -100,7 +127,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Afdeling 1. Afwikkeling Nederlands-Antilliaans fiscaal stelsel
 
-#### Artikel I
+##### Artikel I
 
 1. Dit hoofdstuk is van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba en verstaat onder:
 
@@ -112,29 +139,29 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 2. Op dit hoofdstuk zijn [artikel 1.3 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=1.3) en [artikel 1.1 van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=1.1) van overeenkomstige toepassing.
 
-#### Artikel II
+##### Artikel II
 
 [vervallen]
 
-#### Artikel III
+##### Artikel III
 
 [vervallen]
 
-#### Artikel IV
+##### Artikel IV
 
 [vervallen]
 
-#### Artikel V
+##### Artikel V
 
 [vervallen]
 
 ### Afdeling 2. Specifiek overgangsrecht
 
-#### Artikel VI
+##### Artikel VI
 
 De in [artikel 8 121, tweede lid, van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.121) en [artikel 37, tweede lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=37) bedoelde algemene maatregel van bestuur behoeft niet te worden overgelegd aan beide kamers der Staten-Generaal indien de datum van plaatsing van deze wet in het Staatsblad is gelegen binnen twee maanden voorafgaand aan het tijdstip van inwerkingtreding.
 
-#### Artikel VII
+##### Artikel VII
 
 1. Op grond van de in de overgangsperiode als wet van toepassing zijnde in [artikel 13b, eerste lid, onderdelen j tot en met n, van de Wet geldstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13b) bedoelde verordeningen en de daarop gebaseerde regelingen verleende vergunningen voor het vervaardigen van accijnsgoederen, voor het opslaan van accijnsgoederen onder krediet voor de accijns of voor het opslaan van accijnsgoederen zonder verschuldigdheid van de accijns, worden tot wederopzegging aangemerkt als krachtens de [Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236) verleende vergunningen voor een accijnsgoederenplaats.
 
@@ -148,7 +175,7 @@ De in [artikel 8 121, tweede lid, van de Belastingwet BES](https://wetten.overhe
 
 4. In afwijking van [artikel 4.53 van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=4.53) kunnen tot inwerkingtreding van de [artikelen 4.1, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=4.1), [4.15, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=4.15), en [4.18 tot en met 4.21 van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=4.18) accijnszegels voor sigaren, cigarillo’s en rooktabak worden aangevraagd door degene die een verzoek om vergunning voor een accijnsgoederenplaats op grond van [hoofdstuk IV, titel 3, eerste](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&afdeling=1) en [tweede afdeling van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&afdeling=2) heeft gedaan.
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. Een op grond van de in de overgangsperiode als wet van toepassing zijnde Landsverordening economische zones 2000 ingestelde economische zone op de BES eilanden wordt aangemerkt als een krachtens de [Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236) door onze Minister ingesteld handels- en dienstenentrepot.
 
@@ -156,7 +183,7 @@ De in [artikel 8 121, tweede lid, van de Belastingwet BES](https://wetten.overhe
 
 3. De inspecteur beslist bij voor bezwaar vatbare beschikking binnen twee jaar na het tijdstip van inwerkingtreding of de ingevolge het tweede lid toegelaten bedrijven tot een handels- en dienstenentrepot voldoen aan de bij of krachtens de [Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236) gestelde voorwaarden voor de toelating tot een handels- en dienstenentrepot met uitzondering van de in [artikel 5.4, tweede lid, onderdeel c, van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=5.4) bedoelde voorwaarde. Een ingevolge het tweede lid toegelaten bedrijf dat niet voldoet aan de bij of krachtens de [Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236) gestelde voorwaarden voor de toelating tot een handels- en dienstenentrepot wordt na twee jaar na het tijdstip van inwerkingtreding geacht uit de handels- en dienstenentrepot te zijn verwijderd.
 
-#### Artikel IX
+##### Artikel IX
 
 1. Dit artikel verstaat onder:
 
@@ -182,7 +209,7 @@ de ter zake verschuldigde belasting bij wijze van verrekening in mindering gebra
 
 7. De verrekening bedoeld in het zesde lid, vindt slechts toepassing op verzoek van de ondernemer en voor zover de ondernemer de in het zesde lid bedoelde verschuldigde belasting heeft voldaan. De verrekening wordt slechts toegepast voor zover de ondernemer zijn verzoek vóór het tijdstip van verschuldigdheid van de in het zesde lid bedoelde algemene bestedingsbelasting schriftelijk indient bij de inspecteur. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
 
-#### Artikel X
+##### Artikel X
 
 1. Voor een belastingplichtige die op de BES eilanden woont en die op de aan tijdstip van inwerkingtreding voorafgaande dag in aanmerking komt voor toepassing van de in de artikelen 23B, 23C, 23D en 23E van de op basis van de [Wet geldstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028551) in de overgangsperiode als wet van toepassing zijnde Landsverordening op de inkomstenbelasting 1943 opgenomen regeling voor penshonado’s, dan wel op grond van de artikelen 77 tot en met 82 van die op basis van de Wet geldstelsel BES in de overgangsperiode als wet van toepassing zijnde Landsverordening opgenomen overgangsregeling in aanmerking komt voor toepassing van de in de artikelen 23B, 23C, 23D en 23E opgenomen regeling voor penshonado’s, geldt, voor maximaal vier jaar na het tijdstip van inwerkingtreding voor zover hij op de BES eilanden woont en voldoet aan de in genoemde artikelen gestelde voorwaarden, dat, voor zover de belastbare som bestaat uit opbrengst van buitenlandse bronnen en voor zover dat tezamen met de overige bestanddelen van de belastbare som meer bedraagt dan USD 26 396:
 
@@ -192,7 +219,7 @@ de ter zake verschuldigde belasting bij wijze van verrekening in mindering gebra
 
 2. Ten aanzien van een belastingplichtige die in aanmerking komt voor toepassing van het eerste lid, zijn de in de [Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281) opgenomen bepalingen omtrent persoonlijke lasten en buitengewone lasten, niet van toepassing.
 
-#### Artikel XI
+##### Artikel XI
 
 1. Onder opbrengst van buitenlandse bronnen als bedoeld in [artikel X, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029268&hoofdstuk=II&afdeling=2&artikel=X&z=2019-01-01&g=2019-01-01), wordt verstaan de som van de volgende zuivere inkomsten:
 
@@ -228,13 +255,13 @@ de ter zake verschuldigde belasting bij wijze van verrekening in mindering gebra
 
 6. Het deel van de belastbare som waarop het tarief als bedoeld in [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0029268&hoofdstuk=II&afdeling=2&artikel=X&z=2019-01-01&g=2019-01-01) niet van toepassing is, wordt belast op basis van [artikel 24A van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=24a). Bij de berekening van de belasting over het inkomen waarop het tarief van artikel X niet van toepassing is, worden de inkomsten waarop dit tarief wel van toepassing is, buiten beschouwing gelaten.
 
-#### Artikel XII
+##### Artikel XII
 
 1. Indien een op de BES eilanden gevestigd lichaam op het tijdstip dat onmiddellijk voorafgaat aan het tijdstip van inwerkingtreding eindafrekeningswinst geniet als bedoeld in artikel 4, derde lid, van de op basis van de [Wet geldstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028551) in de overgangsperiode als wet van toepassing zijnde Landsverordening op de winstbelasting 1940 en het lichaam vanaf het tijdstip van inwerkingtreding door de toepassing van [artikel 5.2 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=5.2) in Nederland wordt geacht te zijn gevestigd, wordt de verschuldigde winstbelasting over die eindafrekeningswinst niet ingevorderd. In dat geval wordt voor de toepassing van de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) bij het in de eerste volzin bedoelde lichaam vanaf het tijdstip van inwerkingtreding de boekwaarde van de vermogensbestanddelen gesteld op de boekwaarde zoals deze gold bij de op het tijdstip dat onmiddellijk voorafging aan het tijdstip van inwerkingtreding nog op de BES eilanden gevestigde lichaam.
 
 2. Indien een niet op de BES eilanden gevestigd lichaam, dat met behulp van een vaste inrichting of een vaste vertegenwoordiger op de BES eilanden een onderneming drijft, op het tijdstip dat onmiddellijk voorafgaat aan het tijdstip van inwerkingtreding eindafrekeningswinst geniet als bedoeld in artikel 4, vierde lid, van de op basis van de [Wet geldstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028551) in de overgangsperiode als wet van toepassing zijnde Landsverordening op de winstbelasting 1940 en het bedoelde lichaam vanaf het tijdstip van inwerkingtreding in Nederland als buitenlandse belastingplichtige wordt aangemerkt op grond van [artikel 3, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=3), in samenhang met [artikel 17, derde lid, onderdeel c, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=17), wordt de verschuldigde winstbelasting over die eindafrekeningswinst niet ingevorderd. In dat geval wordt voor de toepassing van de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) bij de in de eerste volzin bedoelde vaste inrichting of vaste vertegenwoordiger vanaf het tijdstip van inwerkingtreding de boekwaarde van de vermogensbestanddelen gesteld op de boekwaarde zoals deze gold bij de op het tijdstip dat onmiddellijk voorafging aan het tijdstip van inwerkingtreding nog op de BES eilanden gevestigde vaste inrichting of vaste vertegenwoordiger.
 
-#### Artikel XIII
+##### Artikel XIII
 
 1. Indien een op de BES eilanden gevestigd lichaam op het tijdstip dat onmiddellijk voorafgaat aan het tijdstip van inwerkingtreding eindafrekeningswinst geniet als bedoeld in [artikel 4, derde lid, van de op basis van de Wet geldstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=4) in de overgangsperiode als wet van toepassing zijnde Landsverordening op de winstbelasting 1940 en het lichaam vanaf het tijdstip van inwerkingtreding door de toepassing van [artikel 5.2 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=5.2) wordt geacht op de BES eilanden te zijn gevestigd, verleent de ontvanger voor de periode lopend vanaf het tijdstip van inwerkingtreding tot en met 31 december 2015 renteloos uitstel van betaling voor de verschuldigde belasting ter zake van die eindafrekeningswinst. Het uitstel wordt beëindigd ingeval [artikel 5.8 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=5.8) toepassing vindt.
 
@@ -242,23 +269,23 @@ de ter zake verschuldigde belasting bij wijze van verrekening in mindering gebra
 
 3. De ontvanger verleent op verzoek van het in het eerste of tweede lid bedoelde lichaam kwijtschelding van de in het eerste onderscheidenlijk tweede lid bedoelde winstbelasting tot een bedrag gelijk aan de door dat lichaam onderscheidenlijk de op de vaste inrichting of vaste vertegenwoordiger betrekking hebbende, verschuldigde vastgoedbelasting als bedoeld in [hoofdstuk IV van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=IV). Voorts wordt het op 1 januari 2016 nog openstaande bedrag kwijtgescholden.
 
-#### Artikel XIV
+##### Artikel XIV
 
 [vervallen]
 
-#### Artikel XV
+##### Artikel XV
 
 [vervallen]
 
 ### Afdeling 3. Wijzigingen [Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244)
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Belastingwet BES.
 
 ### Afdeling 4. Overgang naar fiscaal stelsel voor de BES eilanden
 
-#### Artikel XVII
+##### Artikel XVII
 
 Bij ministeriële regeling kunnen nadere regels worden vastgesteld ter zake van de overgang van tot het tijdstip van inwerkingtreding op de BES eilanden geheven belastingen naar de [Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244), de [Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236), de [Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281) en de [Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283).
 
@@ -280,11 +307,11 @@ Bij ministeriële regeling kunnen nadere regels worden vastgesteld ter zake van 
 
 ### Hoofdstuk III. Slotbepalingen
 
-#### Artikel I
+##### Artikel I
 
 Bij ministeriële regeling kunnen regels worden gesteld ter zake van de uitvoering van deze wet.
 
-#### Artikel II
+##### Artikel II
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende hoofdstukken, artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
@@ -292,7 +319,7 @@ Bij ministeriële regeling kunnen regels worden gesteld ter zake van de uitvoeri
 
 3. In afwijking van het eerste lid treedt [hoofdstuk II, artikel XVI, onderdelen B tot en met D](https://wetten.overheid.nl/jci1.3:c:BWBR0029268&hoofdstuk=II&afdeling=3&artikel=XVI&z=2019-01-01&g=2019-01-01), in werking met ingang van 1 januari 2015.
 
-#### Artikel III
+##### Artikel III
 
 Deze wet wordt aangehaald als: Invoeringswet fiscaal stelsel BES.
 

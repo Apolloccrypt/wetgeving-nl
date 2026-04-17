@@ -1,13 +1,39 @@
 ---
-title: "Kiesbesluit Kamers van Koophandel en Nijverheid BES 2021"
+title: "Besluit van 15 januari 2021, houdende regels over de verkiezing van de bestuursleden van de Kamers van Koophandel en Nijverheid BES (Kiesbesluit Kamers van Koophandel en Nijverheid BES 2021)"
 identifier: "BWBR0044819"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044819"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044819"
+soort: "AMvB-BES"
+stam_id: "15846053"
+version_id: "27526352"
+internal_id: "C38968581"
+label_id: "15782124"
+dtd_version: "2.0"
+original_entry_into_force: "2022-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044819/2022-01-01/0"
+intitule_bron: "Stb.2021-70"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-01-15"
+intitule_published: "2021-02-16"
+intitule_in_force: "2021-03-15"
+intitule_status: "goed"
+original_publication: "Stb.2021-70"
+original_signed_date: "2021-01-15"
+original_published_date: "2021-02-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2021-70"
+entry_into_force_date: "2022-01-01"
+jci_1_3: "jci1.3:c:BWBR0044819&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0044819&g=2022-01-01"
+citeertitel_status: "officieel"
+short_title: "Kiesbesluit Kamers van Koophandel en Nijverheid BES 2021"
+signed_date: "2021-01-15"
+entry_into_force: "2022-01-01"
 ---
-
 # Besluit van 15 januari 2021, houdende regels over de verkiezing van de bestuursleden van de Kamers van Koophandel en Nijverheid BES (Kiesbesluit Kamers van Koophandel en Nijverheid BES 2021)
 
 Op de voordracht van de Staatssecretaris van Economische Zaken en Klimaat van 3 november 2020, nr. WJZ / 20267079;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 2. Vertegenwoordiger van een onderneming of een rechtspersoon die kiesgerechtigde is
 
-#### Artikel 2
+##### Artikel 2
 
 1. De vertegenwoordiger van een onderneming of een rechtspersoon, met uitzondering van verenigingen en stichtingen, bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=3), en [5, vierde lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=5), die de bestuursleden van de Kamers kiest en die in het handelsregister van de betreffende Kamer is ingeschreven als bedoeld in artikel 5, eerste lid onder a, van de wet, is een van de volgende personen:
 
@@ -52,7 +78,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 3. Herbenoeming, ontslag en tussentijds aftreden bestuursleden
 
-#### Artikel 3
+##### Artikel 3
 
 1. De bestuursleden kunnen ten hoogste drie maal worden herbenoemd.
 
@@ -66,7 +92,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 4. Samenstelling verkiezingscommissie
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een verkiezingscommissie bestaat uit een voorzitter, twee leden en drie plaatsvervangende leden die voor een kalenderjaar uit de kiesgerechtigden voor de Kamer door het Bestuurscollege worden benoemd.
 
@@ -78,15 +104,15 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 5.1. Opgave van kandidaten
 
-#### Artikel 5
+##### Artikel 5
 
 De Kamer kondigt in een of meer dag-, nieuws- of huis-aan-huisbladen, of op een andere geschikte wijze, de datum, plaats en tijd van de verkiezingen aan, minimaal twee weken voor de periode, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044819&paragraaf=5&sub-paragraaf=5.1&artikel=6&z=2022-01-01&g=2022-01-01).
 
-#### Artikel 6
+##### Artikel 6
 
 In de periode van 1 tot en met 14 november in het betreffende jaar kunnen kandidaten gesteld worden voor de verkiezing van de leden van de Kamer.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Gedurende de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044819&paragraaf=5&sub-paragraaf=5.1&artikel=6&z=2022-01-01&g=2022-01-01) genoemde periode kunnen kiesgerechtigden namen van kandidaten schriftelijk opgeven op het kantoor van de Kamer tijdens de reguliere openingstijden. Deze opgave is vergezeld van:
 
@@ -100,19 +126,19 @@ In de periode van 1 tot en met 14 november in het betreffende jaar kunnen kandid
 
 4. Eén van de in het eerste lid bedoelde kiesgerechtigden levert de opgave van een kandidaat persoonlijk in en ontvangt daarvan een bewijs.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Bij de opgave, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044819&paragraaf=5&sub-paragraaf=5.1&artikel=7&z=2022-01-01&g=2022-01-01) overleggen de kiesgerechtigden de schriftelijke verklaringen tot ondersteuning van hun kandidatuur tot bestuurslid, bedoeld in [artikel 5, eerste lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=5).
 
 2. Een verklaring tot ondersteuning wordt afgelegd door het plaatsen van de voornaam, de achternaam, het adres, de geboortedatum, de geboorteplaats, de registratie in het handelsregister en de handtekening van de kiesgerechtigde op een lijst.
 
-#### Artikel 9
+##### Artikel 9
 
 Nadat de termijn van kandidaatstelling is verstreken, zendt de secretaris de ingekomen kandidatenopgaven aan de verkiezingscommissie.
 
 #### Paragraaf 5.2. Het onderzoek van de kandidatenlijst
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien een opgave van een kandidaat niet is vergezeld van de schriftelijke verklaring van de kandidaat bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044819&paragraaf=5&sub-paragraaf=5.1&artikel=7&z=2022-01-01&g=2022-01-01), of de schriftelijke verklaringen van de kiesgerechtigden, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044819&paragraaf=5&sub-paragraaf=5.1&artikel=8&z=2022-01-01&g=2022-01-01), zal de verkiezingscommissie schriftelijk kennis geven van het betreffende gebrek aan de persoon die de opgave inleverde. Daartoe stelt hij de opgave onverwijld weer ter beschikking van die persoon.
 
@@ -126,7 +152,7 @@ Nadat de termijn van kandidaatstelling is verstreken, zendt de secretaris de ing
 
 - c. de opgave de naam van meer dan één kandidaat bevat.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De verkiezingscommissie geeft schriftelijk kennis van de ongeldigverklaring van een opgave aan de persoon die de opgave inleverde.
 
@@ -136,13 +162,13 @@ Nadat de termijn van kandidaatstelling is verstreken, zendt de secretaris de ing
 
 #### Paragraaf 5.3. De vaststelling en openbaarmaking van de kandidatenlijst
 
-#### Artikel 12
+##### Artikel 12
 
 1. Nadat de termijn van beroep is verstreken, of, ingeval van beroep, na de uitspraak van het Gerecht, stelt de verkiezingscommissie een definitieve kandidatenlijst vast en stuurt een afschrift hiervan aan de Kamer.
 
 2. De kandidatenlijst wordt door de Kamer binnen drie werkdagen openbaar gemaakt in een of meer in Bonaire, dan wel in Sint Eustatius of Saba verschijnende dag-, nieuws-, of huis-aan-huisbladen of op een andere geschikte wijze, en verder voor een ieder ter inzage gelegd op het kantoor van de Kamer.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Indien het aantal van de op de kandidatenlijst voorkomende kandidaten gelijk is aan het aantal te vervullen plaatsen, verklaart de verkiezingscommissie alle op de lijst geplaatste kandidaten gekozen en geeft hiervan kennis aan het Bestuurscollege.
 
@@ -156,11 +182,11 @@ Nadat de termijn van kandidaatstelling is verstreken, zendt de secretaris de ing
 
 6. De Kamer informeert het Bestuurscollege uiterlijk tien werkdagen voor de stemming over de datum van de stemming.
 
-#### Artikel 14
+##### Artikel 14
 
 Indien de verkiezingscommissie heeft beslist dat verkiezing door stemming zal plaatsvinden, en voor de stemming een kandidaat overlijdt of onbekwaam wordt voor het lidmaatschap van de Kamer, waardoor het aantal kandidaten kleiner wordt dan het aantal te vervullen zetels, wordt op voordracht van de overige bestuursleden een bestuurslid benoemd door het Bestuurscollege.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De voorzitter van de Kamer maakt de datum, de plaats en het tijdstip van de stemming en het aantal te vervullen plaatsen ten minste drie weken vóór de dag van de stemming bekend op de wijze, bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044819&paragraaf=5&sub-paragraaf=5.3&artikel=12&z=2022-01-01&g=2022-01-01).
 
@@ -168,7 +194,7 @@ Indien de verkiezingscommissie heeft beslist dat verkiezing door stemming zal pl
 
 #### Paragraaf 5.4. De stemming algemeen
 
-#### Artikel 16
+##### Artikel 16
 
 1. Op de verkiezingsdag vindt de stemming plaats van 09:00 tot 13:00 uur op het kantoor van de Kamer.
 
@@ -182,7 +208,7 @@ Indien de verkiezingscommissie heeft beslist dat verkiezing door stemming zal pl
 
 6. Zijn geen plaatsvervangende leden beschikbaar, dan worden door de voorzitter uit de in de ruimte aanwezige kiezers een of meer leden benoemd voor de tijd dat de plaatsvervangende leden afwezig zijn.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Op de tafel van de verkiezingscommissie liggen een exemplaar van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028238), een exemplaar van dit besluit en een door de Kamers opgestelde lijst van kiesgerechtigden.
 
@@ -192,7 +218,7 @@ Indien de verkiezingscommissie heeft beslist dat verkiezing door stemming zal pl
 
 #### Paragraaf 5.5. De stembiljetten
 
-#### Artikel 18
+##### Artikel 18
 
 1. De voorzitter van de verkiezingscommissie draagt er zorg voor dat uiterlijk een uur voor het tijdstip van aanvang van de stemming voldoende stembiljetten aanwezig zijn.
 
@@ -204,7 +230,7 @@ Indien de verkiezingscommissie heeft beslist dat verkiezing door stemming zal pl
 
 5. Nadat de voorzitter en de leden van de verkiezingscommissie zich ervan overtuigd hebben dat de stembus leeg is, sluit de voorzitter de stembus en draagt hij zorg voor een veilige bewaring van de sleutel.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Tot de stembus worden alleen de kiesgerechtigden toegelaten.
 
@@ -212,7 +238,7 @@ Indien de verkiezingscommissie heeft beslist dat verkiezing door stemming zal pl
 
 #### Paragraaf 5.6. Het uitbrengen van de stem
 
-#### Artikel 20
+##### Artikel 20
 
 1. De kiezer legitimeert zich met een geldig legitimatiebewijs als bedoeld in [artikel 2 van de Wet identificatieplicht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028575&artikel=2) bij de voorzitter van de verkiezingscommissie, die de naam van de kiezer hardop voorleest.
 
@@ -224,13 +250,13 @@ Indien de verkiezingscommissie heeft beslist dat verkiezing door stemming zal pl
 
 5. Hij vouwt het stembiljet dicht zodat zijn keuze niet aan de buitenzijde leesbaar is, en steekt vervolgens het stembiljet persoonlijk in de stembus.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Een kiezer kan, wanneer hij zich bij de invulling van zijn stembiljet vergist, eenmaal een nieuw stembiljet aanvragen, indien hij het eerder overhandigde stembiljet teruggeeft. De voorzitter maakt dat vervolgens onbruikbaar.
 
 2. De onbruikbaarmaking van teruggegeven stembiljetten geschiedt door het aanbrengen van het woord «onbruikbaar» op het stembiljet.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De bij de zitting aanwezige kiesgerechtigden kunnen, wanneer de stemming niet overeenkomstig dit besluit plaatsvindt, bezwaren indienen, waar de verkiezingscommissie op beslist.
 
@@ -244,13 +270,13 @@ Indien de verkiezingscommissie heeft beslist dat verkiezing door stemming zal pl
 
 3. De voorzitter van de verkiezingscommissie is belast met de handhaving van de orde tijdens de zitting.
 
-#### Artikel 23
+##### Artikel 23
 
 Zodra de voor de stemming bepaalde tijd verstreken is, wordt dit door de voorzitter van de verkiezingscommissie aangekondigd, en worden alleen de op het ogenblik van deze aankondiging in of bij de deur van het stemlokaal aanwezige kiezers nog tot de stemming toegelaten.
 
 #### Paragraaf 5.7. Het tellen van de stemmen en de uitslag
 
-#### Artikel 24
+##### Artikel 24
 
 1. Onmiddellijk nadat de stemming is beëindigd, vindt het tellen van de stemmen plaats.
 
@@ -268,7 +294,7 @@ Zodra de voor de stemming bepaalde tijd verstreken is, wordt dit door de voorzit
 
 5. Indien een van de in het lokaal aanwezige kiezers dit verlangt, moet het stembiljet aan die persoon worden getoond.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Direct nadat alle stembiljetten zijn geopend, en de daarop uitgebrachte stemmen zijn opgenomen, stelt de voorzitter van de verkiezingscommissie het aantal geldige stembiljetten vast.
 
@@ -290,19 +316,19 @@ Zodra de voor de stemming bepaalde tijd verstreken is, wordt dit door de voorzit
 
 10. Het Bestuurscollege bewaart het proces-verbaal. Hij vernietigt de stembiljetten een jaar na de ontvangst daarvan.
 
-#### Artikel 26
+##### Artikel 26
 
 De voorzitter van de Kamer zorgt ervoor dat een afschrift van het proces-verbaal op het kantoor van de Kamer voor een ieder ter inzage ligt, en maakt de uitslag van de stemming bekend op de wijze, bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044819&paragraaf=5&sub-paragraaf=5.3&artikel=12&z=2022-01-01&g=2022-01-01).
 
 #### Paragraaf 5.8. Aanvaarding van de verkiezing
 
-#### Artikel 27
+##### Artikel 27
 
 1. De kandidaat die gekozen is met toepassing van [artikel 13, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044819&paragraaf=5&sub-paragraaf=5.3&artikel=13&z=2022-01-01&g=2022-01-01), ontvangt van de voorzitter van de verkiezingscommissie zo spoedig mogelijk van zijn verkiezing een schriftelijke mededeling en een uittreksel uit het proces-verbaal.
 
 2. De kandidaat die gekozen is na de verkiezing ontvangt van de voorzitter van de verkiezingscommissie zo spoedig mogelijk een uittreksel uit het proces-verbaal.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Nadat de gekozene de kennisgeving, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0044819&paragraaf=5&sub-paragraaf=5.8&artikel=27&z=2022-01-01&g=2022-01-01), heeft ontvangen, stuurt de voorzitter van de verkiezingscommissie een afschrift hiervan aan de voorzitter van de Kamer.
 
@@ -312,7 +338,7 @@ De voorzitter van de Kamer zorgt ervoor dat een afschrift van het proces-verbaal
 
 #### Paragraaf 5.9. Het onderzoek en de toelating
 
-#### Artikel 29
+##### Artikel 29
 
 1. De Kamer onderzoekt in de eerste op de verkiezing volgende vergadering de bescheiden, bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0044819&paragraaf=5&sub-paragraaf=5.8&artikel=27&z=2022-01-01&g=2022-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0044819&paragraaf=5&sub-paragraaf=5.8&artikel=28&z=2022-01-01&g=2022-01-01).
 
@@ -324,13 +350,13 @@ De voorzitter van de Kamer zorgt ervoor dat een afschrift van het proces-verbaal
 
 5. De Kamer zendt aan de gekozene of benoemde schriftelijk de uitkomst van het onderzoek, en informeert het Bestuurscollege en de verkiezingscommissie hierover.
 
-#### Artikel 30
+##### Artikel 30
 
 1. De gekozene of benoemde kan tegen een beslissing tot niet-toelating als lid van de Kamer binnen acht dagen na verzending van de uitkomst van het onderzoek, bedoeld in [artikel 29, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044819&paragraaf=5&sub-paragraaf=5.9&artikel=29&z=2022-01-01&g=2022-01-01), beroep instellen bij het Gerecht.
 
 2. Het Gerecht beslist op het beroepschrift binnen acht werkdagen na ontvangst daarvan, en zendt een kennisgeving van zijn beslissing aan de gekozene of benoemde, onder toezending van een afschrift van de beslissing aan de verkiezingscommissie en de Kamer.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Zodra een beslissing tot niet-toelating onherroepelijk is geworden, wordt de kandidaat die bij de stemming als eerstvolgende is geëindigd na de kandidaat die niet toegelaten wordt, als gekozen beschouwd.
 
@@ -342,15 +368,15 @@ De voorzitter van de Kamer zorgt ervoor dat een afschrift van het proces-verbaal
 
 #### Paragraaf 6. Slotbepalingen
 
-#### Artikel 32
+##### Artikel 32
 
 Het [Kiesbesluit voor de Kamers van Koophandel en Nijverheid BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028493) wordt ingetrokken.
 
-#### Artikel 33
+##### Artikel 33
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 34
+##### Artikel 34
 
 Dit besluit wordt aangehaald als: Kiesbesluit Kamers van Koophandel en Nijverheid BES 2021.
 

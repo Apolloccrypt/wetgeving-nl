@@ -1,13 +1,39 @@
 ---
-title: "Organisatie-, mandaat- en volmachtbesluit AV 2019"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 juli 2019, nr. 2019-0000097642, houdende de inrichting van de directie Arbeidsverhoudingen alsmede doorverlening van vertegenwoordigings-bevoegdheden van de directeur Arbeidsverhoudingen (Organisatie-, mandaat- en volmachtbesluit AV 2019)"
 identifier: "BWBR0042442"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-10-06
-laatste_update: 2023-10-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042442"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-10-06"
+last_updated: "2023-10-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042442"
+soort: "ministeriele-regeling"
+stam_id: "15129783"
+version_id: "25943912"
+internal_id: "C36959461"
+label_id: "15077774"
+dtd_version: "2.0"
+original_entry_into_force: "2019-07-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042442/2023-10-06/0"
+intitule_bron: "Stcrt.2019-41150"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-07-15"
+intitule_published: "2019-07-24"
+intitule_in_force: "2019-07-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-41150"
+original_signed_date: "2019-07-15"
+original_published_date: "2019-07-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-41150"
+entry_into_force_date: "2019-07-26"
+jci_1_3: "jci1.3:c:BWBR0042442&z=2023-10-06&g=2023-10-06"
+jci_1_0: "1.0:c:BWBR0042442&g=2023-10-06"
+citeertitel_status: "officieel"
+short_title: "Organisatie-, mandaat- en volmachtbesluit AV 2019"
+signed_date: "2019-07-15"
+entry_into_force: "2019-07-26"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 juli 2019, nr. 2019-0000097642, houdende de inrichting van de directie Arbeidsverhoudingen alsmede doorverlening van vertegenwoordigings-bevoegdheden van de directeur Arbeidsverhoudingen (Organisatie-, mandaat- en volmachtbesluit AV 2019)
 
 Gelet op de [artikelen 3, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&artikel=3), en [15 van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Werk 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&artikel=15);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Organisatie en taken
 
-#### Artikel 2
+##### Artikel 2
 
 De directie bestaat uit de volgende afdelingen:
 
@@ -36,7 +62,7 @@ De directie bestaat uit de volgende afdelingen:
 
 - c. de afdeling Pensioenbeleid.
 
-#### Artikel 3
+##### Artikel 3
 
 Het hoofd van de afdeling Sociale Dialoog en Arbeidsmigratie is verantwoordelijk voor:
 
@@ -52,7 +78,7 @@ Het hoofd van de afdeling Sociale Dialoog en Arbeidsmigratie is verantwoordelijk
 
 - f. het wettelijk minimumloon en de minimumvakantiebijslag, met uitzondering van de sociaaleconomische aspecten.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het hoofd van de afdeling Arbeidsrecht en Diversiteit is verantwoordelijk voor:
 
@@ -80,7 +106,7 @@ Het hoofd van de afdeling Sociale Dialoog en Arbeidsmigratie is verantwoordelijk
 
 2. Het hoofd van de afdeling Arbeidsrecht en Diversiteit is voorts verantwoordelijk voor de coördinatie van internationale aangelegenheden die de directie betreffen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het hoofd van de afdeling Pensioenbeleid is verantwoordelijk voor:
 
@@ -92,11 +118,11 @@ Het hoofd van de afdeling Sociale Dialoog en Arbeidsmigratie is verantwoordelijk
 
 #### § 3. Bevoegdheden
 
-#### Artikel 6
+##### Artikel 6
 
 Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door het afdelingshoofd dat is aangewezen als plaatsvervangend directeur.
 
-#### Artikel 7
+##### Artikel 7
 
 Aan de hoofden van de afdelingen en het hoofd van het directiesecretariaat wordt mandaat, volmacht en machtiging verleend met betrekking tot:
 
@@ -114,7 +140,7 @@ Aan de hoofden van de afdelingen en het hoofd van het directiesecretariaat wordt
 
 - b. het afdoen van stukken met uitzondering van stukken waarvan, gelet op het belang daarvan, redelijkerwijs kan worden vermoed, dat deze door de directeur moeten worden afgedaan.
 
-#### Artikel 8
+##### Artikel 8
 
 Bij financiële uitgaven krijgen afdelingshoofden de bevoegdheid om tot een bedrag van € 75.000,– inclusief BTW te tekenen. Dit geldt voor:
 
@@ -124,13 +150,13 @@ Bij financiële uitgaven krijgen afdelingshoofden de bevoegdheid om tot een bedr
 
 - c. personele ontwikkeling van medewerkers zoals opleidingen en begeleiding.
 
-#### Artikel 9
+##### Artikel 9
 
 Doorverlening van bevoegdheden is slechts toegestaan na voorafgaande schriftelijk toestemming van de directeur.
 
 #### § 3. Slotbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit directie Arbeidsverhoudingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025285) wordt ingetrokken.
 

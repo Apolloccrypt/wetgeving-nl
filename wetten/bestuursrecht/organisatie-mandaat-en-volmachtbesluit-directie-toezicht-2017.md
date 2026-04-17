@@ -1,13 +1,39 @@
 ---
-title: "Organisatie-, mandaat- en volmachtbesluit directie Toezicht 2017"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 31 augustus 2017, 2017-0000141577, tot de inrichting van de directie Toezicht, alsmede de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan de onder de directeur ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directie Toezicht 2017)"
 identifier: "BWBR0039967"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-03-19
-laatste_update: 2024-03-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039967"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-03-19"
+last_updated: "2024-03-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039967"
+soort: "ministeriele-regeling"
+stam_id: "14165023"
+version_id: "24361542"
+internal_id: "C34958661"
+label_id: "14125894"
+dtd_version: "2.0"
+original_entry_into_force: "2017-09-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039967/2024-03-19/0"
+intitule_bron: "Stcrt.2017-50934"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-08-31"
+intitule_published: "2017-09-11"
+intitule_in_force: "2017-09-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-50934"
+original_signed_date: "2017-08-31"
+original_published_date: "2017-09-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-50934"
+entry_into_force_date: "2017-09-12"
+jci_1_3: "jci1.3:c:BWBR0039967&z=2024-03-19&g=2024-03-19"
+jci_1_0: "1.0:c:BWBR0039967&g=2024-03-19"
+citeertitel_status: "officieel"
+short_title: "Organisatie-, mandaat- en volmachtbesluit directie Toezicht 2017"
+signed_date: "2017-08-31"
+entry_into_force: "2017-09-12"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 31 augustus 2017, 2017-0000141577, tot de inrichting van de directie Toezicht, alsmede de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan de onder de directeur ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directie Toezicht 2017)
 
 Gelet op de [artikelen 5, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=5), en [12 van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=12);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepaling
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Organisatie
 
-#### Artikel 2. Organisatie directie
+##### Artikel 2. Organisatie directie
 
 1. De directie bestaat uit:
 
@@ -68,7 +94,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 3. Taken en verantwoordelijkheden
 
-#### Artikel 3. Verantwoordelijkheden programmamanagers op tactisch niveau
+##### Artikel 3. Verantwoordelijkheden programmamanagers op tactisch niveau
 
 De programmanagers op tactisch niveau zijn verantwoordelijk voor de volgende algemene taken:
 
@@ -108,19 +134,19 @@ De programmanagers op tactisch niveau zijn verantwoordelijk voor de volgende alg
 
 #### § 4. Bevoegdheden
 
-#### Artikel 4. Algemeen
+##### Artikel 4. Algemeen
 
 De programmamanagers en de projectleiders zijn bevoegd om namens een bewindspersoon besluiten te nemen en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met het werkterrein van hun organisatieonderdeel en voor zover zij niet zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de inspecteur-generaal of de directeur.
 
-#### Artikel 5. Machtiging effectuering stillegging in verband met recidive
+##### Artikel 5. Machtiging effectuering stillegging in verband met recidive
 
 De onder de directeur en de directeur Meldingen en Verzoeken ressorterende ambtenaren, belast met toezicht, zijn gemachtigd om een beschikking tot stillegging van werkzaamheden in verband met recidive te effectueren door het treffen van de nodige maatregelen, het geven van de nodige aanwijzingen en het inroepen van de hulp van de sterke arm.
 
-#### Artikel 6. Mandaat openbaarmaking inspectiegegevens
+##### Artikel 6. Mandaat openbaarmaking inspectiegegevens
 
 De onder de directeur Meldingen en Verzoeken ressorterende ambtenaren, belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616), de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) en de [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638), zijn bevoegd om namens een bewindspersoon te besluiten tot openbaarmaking van het feit dat na een afgerond onderzoek geen overtreding is geconstateerd.
 
-#### Artikel 7. Volmacht programmamanagers, vakgroephoofden en afdelingshoofd
+##### Artikel 7. Volmacht programmamanagers, vakgroephoofden en afdelingshoofd
 
 1. De programmamanagers op tactisch niveau, de programmamanagers op operationeel niveau, de vakgroephoofden en het afdelingshoofd zijn binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vaststelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst betreffende de ontwikkeling, uitvoering en verantwoording van programma’s en projecten.
 
@@ -130,7 +156,7 @@ De onder de directeur Meldingen en Verzoeken ressorterende ambtenaren, belast me
 
 - b. activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor de eigen vakgroep.
 
-#### Artikel 8. Plaatsvervanging
+##### Artikel 8. Plaatsvervanging
 
 1. Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, de taken en bevoegdheden van de directeur geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
 
@@ -140,21 +166,21 @@ De onder de directeur Meldingen en Verzoeken ressorterende ambtenaren, belast me
 
 #### § 5. Slotbepalingen
 
-#### Artikel 9. Intrekking regelingen
+##### Artikel 9. Intrekking regelingen
 
 Het [Organisatie-, mandaat- en volmachtbesluit directie Arbeidsmarktfraude 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031925), het [Organisatie-, mandaat- en volmachtbesluit directie Arbeidsomstandigheden 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031937) en het [Organisatie-, mandaat- en volmachtbesluit directie Major Hazard Control 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031934) worden ingetrokken.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 2017.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Toezicht 2017.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-#### Artikel 3a. Verantwoordelijkheden vakgroephoofden
+##### Artikel 3a. Verantwoordelijkheden vakgroephoofden
 
 De vakgroephoofden zijn verantwoordelijk voor de volgende algemene taken:
 
@@ -182,7 +208,7 @@ De vakgroephoofden zijn verantwoordelijk voor de volgende algemene taken:
 
 - l. het als tactisch manager participeren in het ontwikkelen en implementeren van plannen van de Nederlandse Arbeidsinspectie.
 
-#### Artikel 3b. Verantwoordelijkheden afdelingshoofd IKC
+##### Artikel 3b. Verantwoordelijkheden afdelingshoofd IKC
 
 Het afdelingshoofd IKC is verantwoordelijk voor de volgende algemene taken:
 
@@ -204,7 +230,7 @@ Het afdelingshoofd IKC is verantwoordelijk voor de volgende algemene taken:
 
 - i. het actief bijdragen aan het platform voor kennisuitwisseling en netwerkbeheer op het vakgebied van het afdelingshoofd.
 
-#### Artikel 3c. Verantwoordelijkheden teammanagers
+##### Artikel 3c. Verantwoordelijkheden teammanagers
 
 De teammanagers zijn verantwoordelijk voor de volgende algemene taken:
 
@@ -248,7 +274,7 @@ De teammanagers zijn verantwoordelijk voor de volgende algemene taken:
 
 #### § 4. Bevoegdheden
 
-#### Artikel 6a. Volmacht en machtiging betreffende personeelsaangelegenheden
+##### Artikel 6a. Volmacht en machtiging betreffende personeelsaangelegenheden
 
 1. Aan de vakgroephoofden, het afdelingshoofd, de teammanagers en de teamleiders van de directie wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van medewerkers van de eigen organisatorische eenheid, voor zover het betreft:
 
@@ -264,7 +290,7 @@ De teammanagers zijn verantwoordelijk voor de volgende algemene taken:
 
 2. In aanvulling op het eerste lid wordt in het geval een teammanager of een teamleider de beoordeling van een medewerker opmaakt, aan het vakgroephoofd of het afdelingshoofd dat boven de teammanager of de teamleider ressorteert ook volmacht en machtiging verleend met betrekking tot het vaststellen van deze beoordeling.
 
-#### Artikel 7a. Volmacht teammanagers en teamleiders
+##### Artikel 7a. Volmacht teammanagers en teamleiders
 
 De teammanagers en teamleiders zijn gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 5.000,– inclusief BTW per overeenkomst betreffende activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor het eigen team binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders.
 
@@ -272,7 +298,7 @@ De teammanagers en teamleiders zijn gevolmachtigd tot het aangaan van overeenkom
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-#### Artikel 3d. Verantwoordelijkheden teamleiders
+##### Artikel 3d. Verantwoordelijkheden teamleiders
 
 De teamleiders zijn verantwoordelijk voor de volgende algemene taken:
 
@@ -310,7 +336,7 @@ De teamleiders zijn verantwoordelijk voor de volgende algemene taken:
 
 - l. het als operationeel manager participeren in het ontwikkelen en implementeren van plannen van de Nederlandse Arbeidsinspectie.
 
-#### Artikel 3e. Taken en verantwoordelijkheden vakgroep P&P
+##### Artikel 3e. Taken en verantwoordelijkheden vakgroep P&P
 
 1. De vakgroep P&P draagt ten behoeve van het aansturen of ondersteunen van programma’s en projecten zorg voor het voorzien in vakbekwame programmamanagers, projectleiders of programma- en projectsecretarissen en verleent ondersteuning van projecten van de Nederlandse Arbeidsinspectie.
 
@@ -360,11 +386,11 @@ De teamleiders zijn verantwoordelijk voor de volgende algemene taken:
 
 - f. het als operationeel manager participeren in het ontwikkelen en implementeren van plannen van de Nederlandse Arbeidsinspectie.
 
-#### Artikel 3f. Taken en verantwoordelijkheden vakgroep MHC
+##### Artikel 3f. Taken en verantwoordelijkheden vakgroep MHC
 
 De vakgroep MHC draagt ten behoeve van programma’s en projecten zorg voor het voorzien in vakbekwame medewerkers voor de uitvoering van het toezicht op de naleving door werkgevers en werknemers van wet- en regelgeving op het terrein van arbeidsomstandigheden, met name op het terrein van risico’s op zware ongevallen en – waar voorgeschreven – het beschikken over aanvullende risico-inventarisaties en evaluaties, alsmede het in verband daarmee opsporen van strafbare feiten, dit mede ter zake van de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 3g. Taken en verantwoordelijkheden afdeling IKC
+##### Artikel 3g. Taken en verantwoordelijkheden afdeling IKC
 
 De afdeling IKC is verantwoordelijk voor:
 

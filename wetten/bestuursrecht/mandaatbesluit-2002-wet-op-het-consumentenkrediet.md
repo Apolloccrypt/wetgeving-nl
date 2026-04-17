@@ -1,13 +1,37 @@
 ---
 title: "Mandaatbesluit 2002 Wet op het consumentenkrediet"
 identifier: "BWBR0013461"
-categorie: "Bestuursrecht"
-publicatiedatum: 2002-03-03
-laatste_update: 2002-03-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013461"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2002-03-03"
+last_updated: "2002-03-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013461"
+soort: "ministeriele-regeling"
+stam_id: "4035103"
+version_id: "5808232"
+internal_id: "C6010971"
+label_id: "4015104"
+dtd_version: "2.0"
+original_entry_into_force: "2002-03-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013461/2002-03-03/0"
+intitule_bron: "Stcrt.2002-43"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-02-27"
+intitule_published: "2002-03-01"
+intitule_in_force: "2002-03-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2002-43"
+original_signed_date: "2002-02-27"
+original_published_date: "2002-03-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-03-03"
+jci_1_3: "jci1.3:c:BWBR0013461&z=2002-03-03&g=2002-03-03"
+jci_1_0: "1.0:c:BWBR0013461&g=2002-03-03"
+citeertitel_status: "officieel"
+signed_date: "2002-02-27"
+entry_into_force: "2002-03-03"
 ---
-
 # Mandaatbesluit 2002 Wet op het consumentenkrediet
 
 Gelet op [artikel 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:8) en [10:9 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9);
@@ -18,11 +42,11 @@ Gezien [artikel 10:4 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 De Autoriteit Financiële Markten oefent in naam van de Minister de volgende bevoegdheden uit:
 
@@ -52,19 +76,19 @@ De Autoriteit Financiële Markten oefent in naam van de Minister de volgende bev
 
 - m. het ingevolge [artikel 67 Wet op het consumentenkrediet](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&artikel=67) publiceren in de Staatscourant van een mededeling met betrekking tot een beschikking als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&artikel=11), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&artikel=17) of [65 Wet op het consumentenkrediet](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&artikel=65).
 
-#### Artikel 3
+##### Artikel 3
 
 De Autoriteit Financiële Markten is bevoegd tot het verlenen van ondermandaat voor de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013461&artikel=2&z=2002-03-03&g=2002-03-03) genoemde bevoegdheden. Op het ondermandaat zijn de artikelen van dit besluit van overeenkomstige toepassing.
 
-#### Artikel 4
+##### Artikel 4
 
 De Autoriteit Financiële Markten adviseert de Minister inzake de aan de Minister op grond van [artikel 63, tweede lid, Wet op het consumentenkrediet](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&artikel=63) voorgelegde begroting van de kosten die zijn gemoeid met de door de in [artikel 62 Wet op het consumentenkrediet](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&artikel=62) bedoelde accountants en organisatie verrichte werkzaamheden. De Autoriteit Financiële Markten adviseert de Minister voorts inzake de op grond van [artikel 63, tweede lid, Wet op het consumentenkrediet](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&artikel=63) te stellen regels aangaande de berekening van de bijdragen van de vergunninghouders.
 
-#### Artikel 5
+##### Artikel 5
 
 De Autoriteit Financiële Markten verschaft de Minister elk half jaar schriftelijk genoegzame informatie over de wijze waarop zij namens de Minister haar bevoegdheden uitoefent die zij heeft op grond van dit besluit.
 
-#### Artikel 6
+##### Artikel 6
 
 Een document dat is opgesteld door de Autoriteit Financiële Markten en waarin is vastgelegd een besluit of handeling genomen respectievelijk verricht op grond van dit mandaatbesluit, vermeldt aan het slot:
 
@@ -76,14 +100,14 @@ Een document dat is opgesteld door de Autoriteit Financiële Markten en waarin i
 
 In geval van ondermandaat wordt daaraan toegevoegd de functie van de ondergemandateerde.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 8
+##### Artikel 8
 
 Het [Mandaatbesluit Wet op het consumentenkrediet](https://wetten.overheid.nl/jci1.3:c:BWBR0012499) wordt ingetrokken.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit kan worden aangehaald als `Mandaatbesluit 2002 Wet op het consumentenkrediet'.

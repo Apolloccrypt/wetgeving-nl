@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel ontheffingen verslagstaten Pensioenwet en Wet verplichte beroepspensioenregeling 2015"
+title: "Besluit van De Nederlandsche Bank N.V. (DNB) van 31 augustus 2015 tot vaststelling van de beleidsregel ontheffingen verslagstaten Pensioenwet en Wet verplichte beroepspensioenregeling 2015, en tot intrekking van een drietal andere beleidsregels"
 identifier: "BWBR0036987"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2015-09-09
-laatste_update: 2015-09-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036987"
+country: "nl"
+rank: "zbo"
+publication_date: "2015-09-09"
+last_updated: "2015-09-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036987"
+soort: "zbo"
+stam_id: "13252213"
+version_id: "22668872"
+internal_id: "C32499841"
+label_id: "13220264"
+dtd_version: "2.0"
+original_entry_into_force: "2015-09-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036987/2015-09-09/0"
+intitule_bron: "Stcrt.2015-28409"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-08-31"
+intitule_published: "2015-09-08"
+intitule_in_force: "2015-09-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-28409"
+original_signed_date: "2015-08-31"
+original_published_date: "2015-09-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-28409"
+entry_into_force_date: "2015-09-09"
+jci_1_3: "jci1.3:c:BWBR0036987&z=2015-09-09&g=2015-09-09"
+jci_1_0: "1.0:c:BWBR0036987&g=2015-09-09"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel ontheffingen verslagstaten Pensioenwet en Wet verplichte beroepspensioenregeling 2015"
+signed_date: "2015-08-31"
+entry_into_force: "2015-09-09"
 ---
-
 # Besluit van De Nederlandsche Bank N.V. (DNB) van 31 augustus 2015 tot vaststelling van de beleidsregel ontheffingen verslagstaten Pensioenwet en Wet verplichte beroepspensioenregeling 2015, en tot intrekking van een drietal andere beleidsregels
 
 Gelet op de [artikelen 147](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=147), [212](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=212) en [213 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=213);
@@ -24,7 +50,7 @@ Na overleg met de representatieve organisaties van (beroeps)pensioenfondsen;
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van deze beleidsregel wordt verstaan onder:
 
@@ -42,7 +68,7 @@ Voor de toepassing van deze beleidsregel wordt verstaan onder:
 
 - g. **maandstaten:** de maandstaten, bedoeld in [hoofdstuk 4 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&hoofdstuk=4).
 
-#### Artikel 2. Boekjaar
+##### Artikel 2. Boekjaar
 
 1. DNB verleent een fonds in enig jaar desgevraagd ontheffing van het bepaalde in [artikel 147, eerste lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=147) of [artikel 142, eerste lid, van de Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=142), indien het fonds:
 
@@ -58,7 +84,7 @@ Voor de toepassing van deze beleidsregel wordt verstaan onder:
 
 2. Een verzoek tot ontheffing als bedoeld in het eerste lid, onderdeel b wordt uiterlijk ingediend op 15 mei van het in voornoemd artikellid bedoelde boekjaar.
 
-#### Artikel 3. Indieningstermijn jaarstaten
+##### Artikel 3. Indieningstermijn jaarstaten
 
 1. DNB verleent een fonds desgevraagd ontheffing van het bepaalde in [artikel 147, tweede lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=147) of [artikel 142, tweede lid, van de Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=142) in samenhang met [artikel 2:3, tweede lid, van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&artikel=2.3) met betrekking tot de indieningstermijn van jaarstaten, indien sprake is van een incidentele en ingrijpende gebeurtenis die redelijkerwijs niet voor rekening en risico van het fonds komt.
 
@@ -70,7 +96,7 @@ Voor de toepassing van deze beleidsregel wordt verstaan onder:
 
 5. Nadat een fonds een ontheffing op grond van het eerste lid heeft gekregen, kan het met betrekking tot dezelfde jaarstaten eenmaal om een nieuwe verlenging van de indieningstermijn met drie maanden verzoeken.
 
-#### Artikel 4. Indieningstermijn kwartaalstaten
+##### Artikel 4. Indieningstermijn kwartaalstaten
 
 1. DNB verleent een fonds desgevraagd ontheffing van het bepaalde in [artikel 147, tweede lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=147) of [artikel 142, tweede lid, van de Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=142) in samenhang met [artikel 3:3, tweede lid, van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&artikel=3.3) met betrekking tot de indieningstermijn van kwartaalstaten, indien sprake is van een incidentele en ingrijpende gebeurtenis die redelijkerwijs niet voor rekening en risico van het fonds komt.
 
@@ -82,7 +108,7 @@ Voor de toepassing van deze beleidsregel wordt verstaan onder:
 
 5. Dit artikel is niet van toepassing op de kwartaalstaten K501 en K502 inzake informatie over een herstelplan, alsmede op kwartaalstaat K702 inzake informatie over de haalbaarheidstoets.
 
-#### Artikel 5. Indieningstermijn maandstaten
+##### Artikel 5. Indieningstermijn maandstaten
 
 1. DNB verleent een fonds desgevraagd ontheffing van het bepaalde in [artikel 147, tweede lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=147) of [artikel 142, tweede lid, van de Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=142) in samenhang met [artikel 4:3, tweede lid, van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036189&artikel=4.3) met betrekking tot de indieningstermijn van maandstaten, indien sprake is van een incidentele en ingrijpende gebeurtenis die redelijkerwijs niet voor rekening en risico van het fonds komt.
 
@@ -92,7 +118,7 @@ Voor de toepassing van deze beleidsregel wordt verstaan onder:
 
 4. Nadat een fonds een ontheffing op grond van het eerste lid heeft gekregen, kan het met betrekking tot dezelfde maandstaten eenmaal om een nieuwe verlenging van de indieningstermijn met een maand verzoeken.
 
-#### Artikel 6. Liquidatie
+##### Artikel 6. Liquidatie
 
 1. DNB verleent een fonds desgevraagd ontheffing van het bepaalde in [artikel 147, tweede lid van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=147) of [artikel 142, tweede lid, van de Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=142), indien het fonds in liquidatie is en het fonds op de eerste dag van de periode waarover kwartaalstaten of jaarstaten moeten worden verstrekt geen technische voorzieningen meer heeft, en het fonds niet meer resterende middelen heeft dan nodig ter dekking van de operationele kosten.
 
@@ -104,15 +130,15 @@ Voor de toepassing van deze beleidsregel wordt verstaan onder:
 
 - b. in geval het jaarstaten betreft: uiterlijk 15 mei volgend op het jaar waarop de staten betrekking hebben.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin deze wordt geplaatst en is voor de eerste keer van toepassing op de jaarstaten die betrekking hebben op het boekjaar 2015, op de kwartaalstaten die betrekking hebben op het derde kwartaal van 2015, onderscheidenlijk op de maandstaten die betrekking hebben op de maand september 2015.
 
-#### Artikel 8. Intrekking [Beleidsregel ontheffingen Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0022475) van 28 augustus 2007
+##### Artikel 8. Intrekking [Beleidsregel ontheffingen Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0022475) van 28 augustus 2007
 
 De [Beleidsregel ontheffingen Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0022475) van 28 augustus 2007 wordt ingetrokken.
 
-#### Artikel 8*. Citeertitel
+##### Artikel 8*. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel ontheffingen verslagstaten Pensioenwet en Wet verplichte beroepspensioenregeling 2015.
 

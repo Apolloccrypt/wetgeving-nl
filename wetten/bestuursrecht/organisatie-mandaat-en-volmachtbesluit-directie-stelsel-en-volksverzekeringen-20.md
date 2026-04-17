@@ -1,13 +1,39 @@
 ---
-title: "Organisatie-, mandaat- en volmachtbesluit directie Stelsel en Volksverzekeringen 2015"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 14 december 2015, 2015-0000305694, houdende de inrichting van de directie Stelsel en Volksverzekeringen alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Stelsel en Volksverzekeringen (Organisatie-, mandaat- en volmachtbesluit directie Stelsel en Volksverzekeringen 2015)"
 identifier: "BWBR0037455"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-12-09
-laatste_update: 2023-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037455"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-12-09"
+last_updated: "2023-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037455"
+soort: "ministeriele-regeling"
+stam_id: "13369323"
+version_id: "22922292"
+internal_id: "C33147471"
+label_id: "13337164"
+dtd_version: "2.0"
+original_entry_into_force: "2015-12-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037455/2023-12-09/0"
+intitule_bron: "Stcrt.2015-47961"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-12-14"
+intitule_published: "2015-12-29"
+intitule_in_force: "2015-12-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-47961"
+original_signed_date: "2015-12-14"
+original_published_date: "2015-12-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-47961"
+entry_into_force_date: "2015-12-30"
+jci_1_3: "jci1.3:c:BWBR0037455&z=2023-12-09&g=2023-12-09"
+jci_1_0: "1.0:c:BWBR0037455&g=2023-12-09"
+citeertitel_status: "officieel"
+short_title: "Organisatie-, mandaat- en volmachtbesluit directie Stelsel en Volksverzekeringen 2015"
+signed_date: "2015-12-14"
+entry_into_force: "2015-12-30"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 14 december 2015, 2015-0000305694, houdende de inrichting van de directie Stelsel en Volksverzekeringen alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Stelsel en Volksverzekeringen (Organisatie-, mandaat- en volmachtbesluit directie Stelsel en Volksverzekeringen 2015)
 
 Gelet op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&artikel=3), en [10 van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Sociale Zekerheid en Integratie 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&artikel=10);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Organisatie en taken afdelingen
 
-#### Artikel 2
+##### Artikel 2
 
 De directie SV bestaat uit de volgende taakvelden:
 
@@ -40,7 +66,7 @@ De directie SV bestaat uit de volgende taakvelden:
 
 - d. taakveld Volksverzekeringen.
 
-#### Artikel 3
+##### Artikel 3
 
 Het hoofd van het taakveld Strategie & Stelsel, Kennis & Onderzoek is verantwoordelijk voor de volgende algemene taken:
 
@@ -58,7 +84,7 @@ Het hoofd van het taakveld Strategie & Stelsel, Kennis & Onderzoek is verantwoor
 
 - g. het periodiek evalueren van de [Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060).
 
-#### Artikel 4
+##### Artikel 4
 
 Het hoofd van het taakveld Eigenaarschap zbo’s is verantwoordelijk voor de volgende algemene taken:
 
@@ -84,7 +110,7 @@ Het hoofd van het taakveld Eigenaarschap zbo’s is verantwoordelijk voor de vol
 
 - k. de toetsing van benoemingen en nevenfuncties van bestuurders van de zelfstandige bestuursorganen.
 
-#### Artikel 5
+##### Artikel 5
 
 Het hoofd van het taakveld Handhaving en Gegevensuitwisseling is verantwoordelijk voor de volgende algemene taken:
 
@@ -108,7 +134,7 @@ Het hoofd van het taakveld Handhaving en Gegevensuitwisseling is verantwoordelij
 
 - j. het intra- en interdepartementaal coördineren van de regeldrukprogramma’s voor bedrijven, burgers, professionals en medeoverheden.
 
-#### Artikel 6
+##### Artikel 6
 
 Het hoofd van het taakveld Volksverzekeringen is verantwoordelijk voor de volgende algemene taken:
 
@@ -124,7 +150,7 @@ Het hoofd van het taakveld Volksverzekeringen is verantwoordelijk voor de volgen
 
 #### § 3. Bevoegdheden
 
-#### Artikel 7
+##### Artikel 7
 
 Aan de hoofden van de taakvelden wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden van de eigen organisatorische eenheid, voor zover het betreft:
 
@@ -136,7 +162,7 @@ Aan de hoofden van de taakvelden wordt volmacht en machtiging verleend tot het v
 
 - d. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur.
 
-#### Artikel 8
+##### Artikel 8
 
 Aan de hoofden van de taakvelden wordt mandaat en machtiging verleend met betrekking tot:
 
@@ -146,15 +172,15 @@ Aan de hoofden van de taakvelden wordt mandaat en machtiging verleend met betrek
 
 #### § 4. Slotbepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 De hoofden van de taakvelden kunnen na voorafgaande schriftelijke toestemming van de directeur SV bevoegdheden doorverlenen aan onder hen ressorterende functionarissen.
 
-#### Artikel 10
+##### Artikel 10
 
 Bij afwezigheid of verhindering van de directeur SV worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door de plaatsvervangend directeur.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het[Organisatie-, mandaat- en volmachtbesluit UBN 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0033484) wordt ingetrokken.
 
@@ -164,7 +190,7 @@ Bij afwezigheid of verhindering van de directeur SV worden, voor de duur van de 
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-#### Artikel 8a
+##### Artikel 8a
 
 Aan de hoofden van de taakvelden wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– per overeenkomst inclusief btw. Dit geldt voor:
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling beheer wapens en munitie politie 2015"
+title: "Regeling van de Minister van Veiligheid en Justitie van 16 juni 2015, nr. 609500, houdende regels omtrent het dragen, het onderhoud en het in een inbraakwerende ruimte bewaren van wapens en munitie door ambtenaren van politie (Regeling beheer wapens en munitie politie 2015)"
 identifier: "BWBR0036730"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2015-08-01
-laatste_update: 2015-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036730"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-08-01"
+last_updated: "2015-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036730"
+soort: "ministeriele-regeling"
+stam_id: "13187053"
+version_id: "22474752"
+internal_id: "C32254601"
+label_id: "13155364"
+dtd_version: "2.0"
+original_entry_into_force: "2015-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036730/2015-08-01/0"
+intitule_bron: "Stcrt.2015-17308"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-06-16"
+intitule_published: "2015-06-26"
+intitule_in_force: "2015-06-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-17308"
+original_signed_date: "2015-06-16"
+original_published_date: "2015-06-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-17308"
+entry_into_force_date: "2015-08-01"
+jci_1_3: "jci1.3:c:BWBR0036730&z=2015-08-01&g=2015-08-01"
+jci_1_0: "1.0:c:BWBR0036730&g=2015-08-01"
+citeertitel_status: "officieel"
+short_title: "Regeling beheer wapens en munitie politie 2015"
+signed_date: "2015-06-16"
+entry_into_force: "2015-08-01"
 ---
-
 # Regeling van de Minister van Veiligheid en Justitie van 16 juni 2015, nr. 609500, houdende regels omtrent het dragen, het onderhoud en het in een inbraakwerende ruimte bewaren van wapens en munitie door ambtenaren van politie (Regeling beheer wapens en munitie politie 2015)
 
 Handelende in overeenstemming met de Minister van Defensie;
@@ -16,7 +42,7 @@ Gelet op [artikel 21, eerste en tweede lid, van het Besluit bewapening en uitrus
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -44,7 +70,7 @@ Besluit:
 
 3. In deze regeling wordt onder pistool mede verstaan de krachtens [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=15), of [artikel 19 van het Besluit bewapening en uitrusting politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=19) goedgekeurde patroonhouder en munitie voor het pistool.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Tijdens de uitoefening van de operationele dienst is de ambtenaar verplicht tot het dragen van de aan hem verstrekte wapens.
 
@@ -56,7 +82,7 @@ Besluit:
 
 5. In afwijking van het eerste lid kan de korpschef de ambtenaar toestemming verlenen om van de verplichting, bedoeld in het eerste lid, geheel of gedeeltelijk af te wijken.
 
-#### Artikel 3
+##### Artikel 3
 
 Het dragen of vervoeren van de aan de ambtenaar verstrekte wapens is buiten de uitoefening van de dienst slechts toegestaan ten behoeve van:
 
@@ -68,7 +94,7 @@ Het dragen of vervoeren van de aan de ambtenaar verstrekte wapens is buiten de u
 
 - d. de veiligheid van de ambtenaar of van burgers, na voorafgaande schriftelijke toestemming van de korpschef.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De ambtenaar is verantwoordelijk voor het opbergen en in een inbraakwerende ruimte bewaren van de aan hem verstrekte wapens.
 
@@ -86,7 +112,7 @@ Het dragen of vervoeren van de aan de ambtenaar verstrekte wapens is buiten de u
 
 - d. de veiligheid van de ambtenaar of van burgers, na voorafgaande schriftelijke toestemming van de korpschef.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De ambtenaar die is uitgerust met een vuurwapen is verantwoordelijk voor het regulier onderhoud van het vuurwapen zoals voorgeschreven in de bij het vuurwapen verstrekte instructie van de korpschef.
 
@@ -100,15 +126,15 @@ Het dragen of vervoeren van de aan de ambtenaar verstrekte wapens is buiten de u
 
 6. De ambtenaar dient het vuurwapen minimaal eenmaal per jaar ter inspectie aan te bieden aan de wapenkamerbeheerder.
 
-#### Artikel 6
+##### Artikel 6
 
 De [Regeling beheer wapens en munitie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032612) wordt ingetrokken.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling treedt in werking met ingang van 1 augustus 2015.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling beheer wapens en munitie politie 2015.
 

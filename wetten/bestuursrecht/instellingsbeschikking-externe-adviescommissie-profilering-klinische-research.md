@@ -1,28 +1,52 @@
 ---
 title: "Instellingsbeschikking externe adviescommissie profilering klinische research"
 identifier: "BWBR0005249"
-categorie: "Bestuursrecht"
-publicatiedatum: 1991-11-20
-laatste_update: 1991-11-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005249"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1991-11-20"
+last_updated: "1991-11-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005249"
+soort: "ministeriele-regeling"
+stam_id: "3811313"
+version_id: "5594112"
+internal_id: "C5787201"
+label_id: "3790994"
+dtd_version: "2.0"
+original_entry_into_force: "1991-11-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005249/1991-11-20/0"
+intitule_bron: "Uitleg.1991-28"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-10-30"
+intitule_published: "1991-11-20"
+intitule_in_force: "1991-11-20"
+intitule_status: "goed"
+original_publication: "Uitleg.1991-28"
+original_signed_date: "1991-10-30"
+original_published_date: "1991-11-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1991-11-20"
+jci_1_3: "jci1.3:c:BWBR0005249&z=1991-11-20&g=1991-11-20"
+jci_1_0: "1.0:c:BWBR0005249&g=1991-11-20"
+citeertitel_status: "officieel"
+signed_date: "1991-10-30"
+entry_into_force: "1991-11-20"
 ---
-
 # Instellingsbeschikking externe adviescommissie profilering klinische research
 
 Overwegende, dat het wenselijk is een advies te ontvangen ten aanzien van de werkplaatsfunctie van de academische ziekenhuizen in relatie tot de ontwikkelingen van onderzoekscholen, de spreiding van topklinische voorzieningen en dit tevens in een internationale context;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 Er is een externe adviescommissie profilering klinische research.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De taak van de commissie bestaat uit het uitbrengen van een advies over de werkplaatsfunctie van de academische ziekenhuizen vanuit de volgende invalshoeken:
 
@@ -34,11 +58,11 @@ Er is een externe adviescommissie profilering klinische research.
 
 2. De commissie adviseert tevens over de vraag of in het licht van het bepaalde in het eerste lid onder a en b verdere concentratie uitsluitend op het niveau van de academische ziekenhuizen, dan wel binnen deze sector vanuit zorgoogpunt de voorkeur verdient.
 
-#### Artikel 4
+##### Artikel 4
 
 De commissie brengt vóór 31 mei 1992 haar advies uit.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De commissie bestaat uit vier leden.
 
@@ -62,17 +86,17 @@ De commissie brengt vóór 31 mei 1992 haar advies uit.
 
 6. De commissie voorziet zelf in haar secretariaat.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De commissie bepaalt haar eigen werkwijze.
 
 2. Het beheer van de stukken van de commissie geschiedt met inachtneming van de terzake geldende bepalingen van besluit algemene secretariële aangelegenheden rijksadministratie (Stb. 1980, 182) overeenkomstig de bij het Ministerie van Onderwijs en Wetenschapen geldende regels. Na de opheffing van de commissie wordt het archief overgedragen aan de onderafdeling centrale archiefbewaarplaats van genoemd ministerie.
 
-#### Artikel 7
+##### Artikel 7
 
 [Artikel 3 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=3) (Stb. 1979 581) is van toepassing.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De kosten van de commissie komen, voorzover goedgekeurd, voor rekening van de minister. De commissie biedt zo spoedig mogelijk na haar instelling aan de minister een begroting aan.
 
@@ -86,7 +110,7 @@ Onder de in het eerste lid bedoelde kosten worden in ieder geval verstaan:
 
 Het [Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317) (Stb. 1988, 205) en het Reisbesluit 1971 (Stb. 1970, 602) zijn van toepassing.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de dag van publikatie.
 

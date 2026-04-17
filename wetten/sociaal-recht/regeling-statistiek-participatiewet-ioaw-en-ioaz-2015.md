@@ -1,20 +1,46 @@
 ---
-title: "Regeling statistiek Participatiewet, IOAW en IOAZ 2015"
+title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 17 juli 2012, IVV/OOG/2012/11022, houdende regels inzake de verstrekking van statistische gegevens met betrekking tot de Wet werk en bijstand, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers en de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen (Regeling statistiek WWB, IOAW en IOAZ 2013)"
 identifier: "BWBR0031830"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031830"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031830"
+soort: "ministeriele-regeling"
+stam_id: "11804313"
+version_id: "22685322"
+internal_id: "C32812581"
+label_id: "11776544"
+dtd_version: "2.0"
+original_entry_into_force: "2015-09-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031830/2026-01-01/0"
+intitule_bron: "Stcrt.2012-15265"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-07-17"
+intitule_published: "2012-07-24"
+intitule_in_force: "2012-07-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-31250"
+original_signed_date: "2015-09-15"
+original_published_date: "2015-09-24"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2015-31250"
+entry_into_force_date: "2015-09-15"
+jci_1_3: "jci1.3:c:BWBR0031830&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0031830&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling statistiek Participatiewet, IOAW en IOAZ 2015"
+signed_date: "2015-09-15"
+entry_into_force: "2015-09-15"
 ---
-
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 17 juli 2012, IVV/OOG/2012/11022, houdende regels inzake de verstrekking van statistische gegevens met betrekking tot de Wet werk en bijstand, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers en de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen (Regeling statistiek WWB, IOAW en IOAZ 2013)
 
 Gelet op [artikel 77 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=77), [artikel 78, derde lid, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=78), [artikel 55, tweede lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=55), [artikel 55, tweede lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=55) en [artikel 5, derde lid, van de Wet participatiebudget](https://wetten.overheid.nl/jci1.3:c:BWBR0025039&artikel=5);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -36,19 +62,19 @@ In deze regeling wordt verstaan onder:
 
 - i. **SVB:** de Sociale verzekeringsbank.
 
-#### Artikel 2. Statistiek uitkeringen gemeenten
+##### Artikel 2. Statistiek uitkeringen gemeenten
 
 De minister ontvangt van het college uiterlijk vier weken na afloop van iedere kalendermaand, overeenkomstig het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=1&z=2026-01-01&g=2026-01-01) bij deze regeling opgenomen model, gegevens over uitkeringen en over de personen aan wie in de desbetreffende maand een uitkering is verleend, of ten behoeve van wie loonkostensubsidie is verstrekt.
 
-#### Artikel 3. Statistiek re-integratievoorzieningen gemeenten
+##### Artikel 3. Statistiek re-integratievoorzieningen gemeenten
 
 De minister ontvangt van het college uiterlijk vier weken na afloop van iedere kalendermaand overeenkomstig het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=2&z=2026-01-01&g=2026-01-01) bij deze regeling opgenomen model, gegevens over voorzieningen gericht op arbeidsinschakeling als bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7), en [artikel 7a, eerste lid, onderdeel a, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7a), en over de personen die van die voorziening feitelijk gebruik hebben gemaakt.
 
-#### Artikel 4. Statistiek vorderingen, boeten en sancties gemeenten
+##### Artikel 4. Statistiek vorderingen, boeten en sancties gemeenten
 
 De minister ontvangt van het college uiterlijk vier weken na afloop van iedere kalendermaand, overeenkomstig het in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=3&z=2026-01-01&g=2026-01-01) bij deze regeling opgenomen model, gegevens over vorderingen in verband met opgelegde betalings- of aflossingsverplichtingen, over ontvangsten op die vorderingen en gegevens over opgelegde bestuurlijke boeten, sancties en aansprakelijkheidstellingen en gegevens over de personen ten aanzien van wie in het kader van de uitvoering van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163), de [WIJ](https://wetten.overheid.nl/jci1.3:c:BWBR0026054) en de [WWIK](https://wetten.overheid.nl/jci1.3:c:BWBR0017837) dergelijke verplichtingen, vorderingen, boetes en sancties zijn opgelegd.
 
-#### Artikel 5. Centraal Bureau voor de Statistiek of bewerker
+##### Artikel 5. Centraal Bureau voor de Statistiek of bewerker
 
 1. Het college verstrekt de gegevens, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=2&z=2026-01-01&g=2026-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=3&z=2026-01-01&g=2026-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=4&z=2026-01-01&g=2026-01-01), door tussenkomst van het Centraal Bureau voor de Statistiek, waarbij de gegevensverstrekking plaatsvindt op een door de directeur-generaal van de statistiek te bepalen wijze, of door tussenkomst van een door de minister aan te wijzen externe bewerker.
 
@@ -60,23 +86,23 @@ De minister ontvangt van het college uiterlijk vier weken na afloop van iedere k
 
 5. De minister kan persoonsgegevens als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=2&z=2026-01-01&g=2026-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=3&z=2026-01-01&g=2026-01-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=4&z=2026-01-01&g=2026-01-01) die door tussenkomst van een bewerker worden verkregen verstrekken aan het Centraal Bureau voor de Statistiek ten behoeve van het verrichten van statistisch onderzoek.
 
-#### Artikel 6. Statistieken door SVB
+##### Artikel 6. Statistieken door SVB
 
 1. Ten aanzien van de uitvoering van de taak, bedoeld in [artikel 47a, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=47a) ontvangt de minister van de SVB uiterlijk vier weken na afloop van iedere kalendermaand overeenkomstig het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=1&z=2026-01-01&g=2026-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=3&z=2026-01-01&g=2026-01-01) bij deze regeling opgenomen model, gegevens als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=2&z=2026-01-01&g=2026-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=4&z=2026-01-01&g=2026-01-01).
 
 2. De SVB verstrekt de gegevens, bedoeld in het eerste lid, zonder tussenkomst van het Centraal Bureau voor de Statistiek, maar op de door de directeur-generaal van de statistiek te bepalen wijze, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=5&z=2026-01-01&g=2026-01-01), of indien een bewerker is aangewezen als bedoeld in artikel 5 op een door de minister te bepalen wijze.
 
-#### Artikel 7. Intrekking regeling
+##### Artikel 7. Intrekking regeling
 
 1. De [Regeling statistiek WWB, IOAW en IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0017194)wordt ingetrokken.
 
 2. De [Regeling statistiek WWB, IOAW en IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0017194) blijft van toepassing op de afwikkeling van de inlichtingen verkregen en nog te verkrijgen op grond van die regeling.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2013.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als : Regeling statistiek Participatiewet, IOAW en IOAZ 2015
 
@@ -621,7 +647,7 @@ Met 12 wordt bedoeld: exact de waarde ‘12’
 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
 
-#### Artikel 6a. Gegevens ten behoeve van de doelgroepregistratie
+##### Artikel 6a. Gegevens ten behoeve van de doelgroepregistratie
 
 1. De gegevens, bedoeld in [artikel 3.4, eerste lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=3.4), betreffen het gegeven of een persoon werkzaam is op een ID-baan of WIW-baan en het burgerservicenummer van de betrokken persoon als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=2&z=2026-01-01&g=2026-01-01) bij deze regeling.
 

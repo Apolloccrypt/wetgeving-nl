@@ -1,18 +1,43 @@
 ---
 title: "Regeling pensioenen BES"
 identifier: "BWBR0029319"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2011-01-01
-laatste_update: 2011-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029319"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2011-01-01"
+last_updated: "2011-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029319"
+soort: "ministeriele-regeling-BES"
+stam_id: "11179843"
+version_id: "18285902"
+internal_id: "C25450091"
+label_id: "11154194"
+dtd_version: "2.0"
+original_entry_into_force: "2011-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029319/2011-01-01/0"
+intitule_bron: "Stcrt.2010-21108"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-12-23"
+intitule_published: "2010-12-29"
+intitule_in_force: "2010-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-21108"
+original_signed_date: "2010-12-23"
+original_published_date: "2010-12-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-21108"
+entry_into_force_date: "2011-01-01"
+jci_1_3: "jci1.3:c:BWBR0029319&z=2011-01-01&g=2011-01-01"
+jci_1_0: "1.0:c:BWBR0029319&g=2011-01-01"
+citeertitel_status: "officieel"
+signed_date: "2010-12-23"
+entry_into_force: "2011-01-01"
 ---
-
 # Regeling pensioenen BES
 
 Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 05.00 uur in het Europese deel van Nederland.
 
-#### Artikel 1
+##### Artikel 1
 
 1. Als verzekeraar van een pensioen kan slechts optreden:
 
@@ -38,7 +63,7 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 05.00 uu
 
 3. In afwijking van het eerste lid, onder d, kan een stichting of doelvermogen niet als een verzekeraar van een pensioen optreden.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een maatschappelijk aanvaardbaar ouderdomspensioen wordt opgebouwd met inachtneming van algemeen aanvaarde actuariële grondslagen en bedraagt maximaal 100 percent van het pensioengevend loon op het tijdstip van ingang. De opbouw per jaar bedraagt maximaal 2 percent bij een op een eindloonstelsel gebaseerd ouderdomspensioen en 2,25 percent per jaar bij een op een middelloon gebaseerd ouderdomspensioen. Een op een beschikbare-premiestelsel gebaseerd ouderdomspensioen wordt tijdsevenredig opgebouwd en is gericht op een pensioen dat na 35 jaren opbouw maximaal 70 percent van het pensioengevend loon bedraagt, waarbij de beschikbare premie ten hoogste wordt bepaald met inachtneming van de volgende uitgangspunten:
 
@@ -72,7 +97,7 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 05.00 uu
 
 8. Een partnerpensioen is toegestaan onder de voorwaarde dat de pensioengerechtigde een duurzame gemeenschappelijke huishouding voert met zijn partner, niet zijnde een bloed- of aanverwant in de rechte lijn. Van een duurzame gemeenschappelijke huishouding is sprake indien twee personen zich wederzijds verplicht hebben tot een bijdrage in de kosten van de huishouding krachtens een notarieel verleden samenlevingscontract dat ten minste één jaar eerder is ingegaan en de partners op hetzelfde adres ingeschreven staan en daar ook feitelijk samenwonen.
 
-#### Artikel 2A
+##### Artikel 2A
 
 1. In afwijking van [artikel 2, tweede lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0029319&artikel=2&z=2011-01-01&g=2011-01-01), wordt:
 
@@ -84,7 +109,7 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 05.00 uu
 
 - d. voor degene die in 2015 de leeftijd van 60 jaar bereikt in de plaats van ‘65-jarige leeftijd’ gelezen: 64-jarige leeftijd.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het pensioengevend loon omvat maximaal alle structurele, vaste loonbestanddelen.
 
@@ -94,13 +119,13 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 05.00 uu
 
 4. Een loonverlaging kan buiten beschouwing blijven, voor zover deze het gevolg is van het aanvaarden van een deeltijdfunctie die tenminste 50 percent van een voltijdfunctie beloopt, dan wel het terugtreden naar een lager gekwalificeerde functie, in de periode van 10 jaren direct voorafgaand aan de in de pensioenregeling vastgestelde ingangsdatum.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De waardering van pensioenverplichtingen vindt plaats met inachtneming van algemeen aanvaarde actuariële grondslagen, waarbij een rekenrente in aanmerking wordt genomen van tenminste 4 percent.
 
 2. Het pensioenlichaam kan een algemene reserve van maximaal 10 percent van de wiskundige reserve aanhouden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De in te bouwen uitkeringen ingevolge de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459) worden gesteld op ten minste de voor dat jaar geldende uitkeringen voor een gehuwde persoon.
 
@@ -108,7 +133,7 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 05.00 uu
 
 3. De werknemersbijdrage bedraagt maximaal 50 percent van de pensioenlasten en niet meer dan 15 percent van het pensioengevend loon.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De pensioenregeling van een werknemer die tijdelijk op de BES eilanden werkzaam is en die is ondergebracht bij een ander lichaam dan bedoeld in [artikel 6A, eerste lid onder b, van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6a) wordt op een daartoe strekkend verzoek als een pensioenregeling in de zin van artikel 6A aangewezen indien:
 
@@ -136,7 +161,7 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 05.00 uu
 
 3. De in het eerste lid genoemde aanwijzing geldt voor een periode van 5 jaar en kan worden ingetrokken zodra de verzekeraar of het pensioenfonds met betrekking tot één of meer van de bij deze verzekeraar of pensioenfonds verzekerde aanspraken ingevolge een pensioenregeling, niet meer aan de verplichtingen met betrekking tot het verschaffen van inlichtingen en gegevens voldoet dan wel geen of onvoldoende medewerking verleent bij de invordering van de verschuldigde belasting. Als dan zijn de totale pensioenaanspraken belast.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien op de BES eilanden opgebouwde pensioenaanspraken worden overgedragen aan een niet op de BES eilanden gevestigde professionele verzekeraar of een niet op de BES eilanden gevestigd pensioenfonds wegens het aanvaarden van een dienstbetrekking buiten de BES eilanden, kan de ontvanger ter zake van de verschuldigde belasting op verzoek van de belastingschuldige uitstel van betaling verlenen voor een periode van 10 jaar.
 
@@ -160,7 +185,7 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 05.00 uu
 
 - h. ter zake van de overdracht of inkoop geen enkele aftrek op het inkomen van de belanghebbende en/of van zijn echtgenote of partner wordt toegepast.
 
-#### Artikel 8
+##### Artikel 8
 
 Bij het verzoek om overdracht van pensioenkapitaal en uitstel van betaling dat bij de inspecteur wordt ingediend, worden de volgende bescheiden overgelegd en gegevens verstrekt:
 
@@ -176,11 +201,11 @@ Bij het verzoek om overdracht van pensioenkapitaal en uitstel van betaling dat b
 
 - f. een verklaring van de werkgever waaruit blijkt dat een dienstbetrekking van tenminste 30 uren per week is aangegaan voor tenminste drie jaar.
 
-#### Artikel 9
+##### Artikel 9
 
 Het verleende uitstel van betaling wordt ingetrokken en de verschuldigde belasting is direct invorderbaar indien de pensioenregeling niet op reguliere wijze wordt uitgevoerd dan wel de verzekeraar of het pensioenfonds met betrekking tot één of meer van de bij deze verzekeraar of pensioenfonds verzekerde aanspraken niet meer voldoet aan de verplichtingen met betrekking tot het verstrekken van inlichtingen en gegevens.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Ten aanzien van pensioenaanspraken van werknemers die op 31 december 2000 in dienst waren van een op de BES eilanden gevestigde werkgever en waarvan een ander lichaam dan bedoeld in [artikel 6A, eerste lid onder b, van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6a) als verzekeraar optreedt, wordt de voorwaarde dat het pensioenlichaam, de pensioenverplichting tot het binnenlands ondernemingsvermogen moet rekenen niet gesteld indien:
 
@@ -214,7 +239,7 @@ Het verleende uitstel van betaling wordt ingetrokken en de verschuldigde belasti
 
 4. [vervallen]
 
-#### Artikel 11
+##### Artikel 11
 
 1. Indien een verzekeraar van een pensioen moet overgaan naar een actuarieel stelsel van waardering van pensioenverplichtingen wordt, zolang de waarde van de verplichtingen volgens het nieuwe stelsel uitkomt op een bedrag dat lager is dan de in aanmerking genomen waarde aan het einde van het laatste jaar waarin het oude stelsel nog toepassing vond, de laatstgenoemde waarde in aanmerking genomen.
 
@@ -222,22 +247,22 @@ Het verleende uitstel van betaling wordt ingetrokken en de verschuldigde belasti
 
 3. [vervallen]
 
-#### Artikel 12
+##### Artikel 12
 
 [vervallen]
 
-#### Artikel 13
+##### Artikel 13
 
 [vervallen]
 
-#### Artikel 14
+##### Artikel 14
 
 De inspecteur wordt hierbij gemachtigd namens Onze Minister van Financiën onder voorwaarden, onzuivere pensioenregelingen aan te wijzen als een pensioenregeling in de zin van [artikel 6A, eerste lid van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6a) en de overdracht van pensioenverplichtingen goed te keuren overeenkomstig [artikel 6B, derde lid, van eerder genoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6b).
 
-#### Artikel 15
+##### Artikel 15
 
 [vervallen]
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling wordt aangehaald als: Regeling pensioenen BES.

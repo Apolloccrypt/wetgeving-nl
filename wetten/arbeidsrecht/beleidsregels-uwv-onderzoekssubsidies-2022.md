@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregels UWV Onderzoekssubsidies 2022"
 identifier: "BWBR0047125"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2022-09-10
-laatste_update: 2022-09-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047125"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-09-10"
+last_updated: "2022-09-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047125"
+soort: "zbo"
+stam_id: "16476263"
+version_id: "28871702"
+internal_id: "C40876921"
+label_id: "16398254"
+dtd_version: "2.0"
+original_entry_into_force: "2022-09-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047125/2022-09-10/0"
+intitule_bron: "Stcrt.2022-23757"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-08-23"
+intitule_published: "2022-09-09"
+intitule_in_force: "2022-09-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-23757"
+original_signed_date: "2022-08-23"
+original_published_date: "2022-09-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-23757"
+entry_into_force_date: "2022-09-10"
+jci_1_3: "jci1.3:c:BWBR0047125&z=2022-09-10&g=2022-09-10"
+jci_1_0: "1.0:c:BWBR0047125&g=2022-09-10"
+citeertitel_status: "officieel"
+signed_date: "2022-08-23"
+entry_into_force: "2022-09-10"
 ---
-
 # Beleidsregels UWV Onderzoekssubsidies 2022
 
 Gelet op:
@@ -16,7 +41,7 @@ Gelet op:
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -42,7 +67,7 @@ In dit besluit wordt verstaan onder:
 
 - 11. **Startnotitie:** bijlage bij het themabesluit waarin de context, probleemstelling en beoordelingscriteria van het subsidiethema nader worden toegelicht.
 
-#### Artikel 2. Subsidiethema’s
+##### Artikel 2. Subsidiethema’s
 
 1. UWV stelt een subsidiethema vast op basis van kennisthema’s die in de UWV Kennisagenda zijn gepubliceerd of op basis van kennisvragen die door externe stakeholders worden ingediend en door UWV als relevant subsidiethema in het domein werk en inkomen worden beoordeeld.
 
@@ -62,7 +87,7 @@ In dit besluit wordt verstaan onder:
 
 9. UWV kan subsidie verstrekken voor een vervolgonderzoek naar aanleiding van een afgesloten subsidieonderzoek.
 
-#### Artikel 3. Criteria subsidieaanvraag onderzoekssubsidies
+##### Artikel 3. Criteria subsidieaanvraag onderzoekssubsidies
 
 UWV hanteert voor subsidieonderzoek de volgende criteria:
 
@@ -80,7 +105,7 @@ UWV hanteert voor subsidieonderzoek de volgende criteria:
 
 - 7. Subsidieaanvragen voor projecten die voldoen aan bovenstaande criteria 1 t/m 6, worden door UWV beoordeeld op kwaliteit aan de hand van beoordelingscriteria en de procedure zoals beschreven in de startnotitie.
 
-#### Artikel 4. Inschrijving UWV Marktplaats en subsidieaanvragen
+##### Artikel 4. Inschrijving UWV Marktplaats en subsidieaanvragen
 
 1. Subsidieaanvragen worden bij voorkeur digitaal ingediend via UWV Marktplaats.
 
@@ -102,19 +127,19 @@ UWV hanteert voor subsidieonderzoek de volgende criteria:
 
 10. De beoordelingscommissie adviseert UWV aan welke aanvragers subsidie wordt toegekend op basis van de beoordelingscriteria zoals beschreven in de startnotitie, zoals vermeld in [artikel 3 lid 7](https://wetten.overheid.nl/jci1.3:c:BWBR0047125&artikel=3&z=2022-09-10&g=2022-09-10).
 
-#### Artikel 5. Beslistermijn subsidieverlening
+##### Artikel 5. Beslistermijn subsidieverlening
 
 1. UWV beslist op ingediende aanvragen binnen 13 weken na afloop van de periode waarin de aanvragen kunnen worden ingediend.
 
 2. De in het eerste lid bedoelde termijn bedraagt 22 weken indien er sprake is van cofinanciering, over de aanvraag advies wordt ingewonnen dan wel een nader onderzoek is ingesteld.
 
-#### Artikel 6. Verlening van subsidie
+##### Artikel 6. Verlening van subsidie
 
 1. Bij het besluit tot verlenen van de subsidie geeft UWV aan op welke wijze de verantwoording van de te ontvangen subsidie plaatsvindt en binnen welke termijn dit dient te gebeuren.
 
 2. UWV is bevoegd om verplichtingen aan de beschikking tot subsidieverlening te verbinden.
 
-#### Artikel 7. Betaling en bevoorschotting
+##### Artikel 7. Betaling en bevoorschotting
 
 1. Indien een beschikking tot subsidievaststelling als bedoeld in [artikel 11, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047125&artikel=11&z=2022-09-10&g=2022-09-10), wordt gegeven, vindt de betaling van de subsidie in één bedrag plaats.
 
@@ -122,15 +147,15 @@ UWV hanteert voor subsidieonderzoek de volgende criteria:
 
 3. Indien besloten wordt tot bevoorschotting van de subsidie, worden in het besluit tot subsidieverlening, de hoogte en de termijnen van de voorschotten bepaald.
 
-#### Artikel 8. Tussentijdse rapportage
+##### Artikel 8. Tussentijdse rapportage
 
 Bij subsidies hoger dan € 25.000 welke verleend worden voor activiteiten die meer dan een jaar in beslag nemen, kan UWV de verplichting opleggen tot het tussentijds afleggen van rekening en verantwoording omtrent de verrichte activiteiten en de daaraan verbonden uitgaven en inkomsten. Een dergelijke tussenrapportage wordt niet vaker dan één maal per jaar gevraagd.
 
-#### Artikel 9. Meldingsplicht
+##### Artikel 9. Meldingsplicht
 
 De subsidieontvanger doet onverwijld schriftelijk melding aan UWV, zodra aannemelijk is dat de activiteiten waarvoor de subsidie is verleend niet, niet tijdig of niet geheel zullen worden verricht of dat niet, niet tijdig of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan. Bij ingrijpende wijzigingen dient de onderzoeksinstelling een schriftelijk verzoek in bij UWV om een nieuwe beschikking te verlenen.
 
-#### Artikel 10. Overige verplichtingen van de subsidieontvanger
+##### Artikel 10. Overige verplichtingen van de subsidieontvanger
 
 1. De subsidieontvanger wendt de subsidie uitsluitend aan ter realisering van het project.
 
@@ -152,7 +177,7 @@ De subsidieontvanger doet onverwijld schriftelijk melding aan UWV, zodra aanneme
 
 10. UWV kan het project bij gemotiveerde twijfel aan een zinvolle voortzetting daarvan, gehoord de subsidieontvanger en de begeleidingscommissie indien deze is ingesteld, beëindigen.
 
-#### Artikel 11. Subsidies tot € 25.000
+##### Artikel 11. Subsidies tot € 25.000
 
 1. Subsidies tot € 25.000 worden door UWV:
 
@@ -162,7 +187,7 @@ De subsidieontvanger doet onverwijld schriftelijk melding aan UWV, zodra aanneme
 
 2. Bij een ambtshalve vaststelling als bedoeld in het eerste lid, onderdeel b, zal UWV de aanvrager verplichten om op door hem aangegeven wijze aan te tonen dat de activiteiten, waarvoor de subsidie wordt verstrekt, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.
 
-#### Artikel 12. Subsidies vanaf € 25.000 tot € 125.000
+##### Artikel 12. Subsidies vanaf € 25.000 tot € 125.000
 
 1. Indien de subsidieverlening meer bedraagt dan € 25.000, maar minder dan € 125.000, dient de subsidieontvanger uiterlijk 13 weken na het einde van de activiteiten een aanvraag tot vaststelling in bij UWV.
 
@@ -170,7 +195,7 @@ De subsidieontvanger doet onverwijld schriftelijk melding aan UWV, zodra aanneme
 
 3. UWV kan bepalen dat ook andere, of minder, dan de in dit artikel bedoelde gegevens en bescheiden die voor de vaststelling van belang zijn, worden overgelegd.
 
-#### Artikel 13. Subsidies vanaf € 125.000
+##### Artikel 13. Subsidies vanaf € 125.000
 
 1. Indien de subsidieverlening meer bedraagt dan € 125.000, dient de subsidieontvanger uiterlijk binnen 13 weken na het verricht zijn van de activiteiten een aanvraag tot vaststelling in bij UWV.
 
@@ -184,7 +209,7 @@ De subsidieontvanger doet onverwijld schriftelijk melding aan UWV, zodra aanneme
 
 3. UWV kan bepalen dat ook andere, of minder, dan de in dit artikel bedoelde gegevens en bescheiden die voor de vaststelling van belang zijn, worden overgelegd.
 
-#### Artikel 14. Vaststelling subsidie
+##### Artikel 14. Vaststelling subsidie
 
 1. UWV stelt binnen 13 weken na ontvangst van de aanvraag tot subsidievaststelling de subsidie vast.
 
@@ -192,19 +217,19 @@ De subsidieontvanger doet onverwijld schriftelijk melding aan UWV, zodra aanneme
 
 3. Indien de aanvraag tot subsidievaststelling niet tijdig is ingediend, gaat UWV zes weken na een eenmalig rappel over tot ambtshalve vaststelling.
 
-#### Artikel 15. Intrekking
+##### Artikel 15. Intrekking
 
 De [Beleidsregels UWV Onderzoekssubsidies 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034059) worden ingetrokken.
 
-#### Artikel 16. Overgangsbepaling
+##### Artikel 16. Overgangsbepaling
 
 Aanvragen om subsidie die zijn ingediend voor datum inwerkingtreding van dit besluit worden afgedaan volgens de bepalingen van de [Beleidsregels UWV Onderzoekssubsidies 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034059).
 
-#### Artikel 17. Inwerkingtreding
+##### Artikel 17. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 18. Citeertitel
+##### Artikel 18. Citeertitel
 
 Dit besluit wordt aangehaald als: Beleidsregels UWV Onderzoekssubsidies 2022.
 

@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling intergenerationeel wonen"
+title: "Regeling van de Minister voor Langdurige Zorg en Sport van 7 juli 2023, kenmerk 3633224-1050445-DMO, houdende regels voor de verstrekking van subsidie voor woonruimte waar jongeren betaalbaar kunnen samenleven met ouderen en de begeleiding daarbij (Subsidieregeling intergenerationeel wonen)"
 identifier: "BWBR0048391"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-11-16
-laatste_update: 2024-11-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048391"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-11-16"
+last_updated: "2024-11-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048391"
+soort: "ministeriele-regeling"
+stam_id: "16802293"
+version_id: "29518812"
+internal_id: "C42203871"
+label_id: "16716084"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048391/2024-11-16/0"
+intitule_bron: "Stcrt.2023-19743"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-07-07"
+intitule_published: "2023-07-14"
+intitule_in_force: "2023-07-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-19743"
+original_signed_date: "2023-07-07"
+original_published_date: "2023-07-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-19743"
+entry_into_force_date: "2023-07-15"
+jci_1_3: "jci1.3:c:BWBR0048391&z=2024-11-16&g=2024-11-16"
+jci_1_0: "1.0:c:BWBR0048391&g=2024-11-16"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling intergenerationeel wonen"
+signed_date: "2023-07-07"
+entry_into_force: "2023-07-15"
 ---
-
 # Regeling van de Minister voor Langdurige Zorg en Sport van 7 juli 2023, kenmerk 3633224-1050445-DMO, houdende regels voor de verstrekking van subsidie voor woonruimte waar jongeren betaalbaar kunnen samenleven met ouderen en de begeleiding daarbij (Subsidieregeling intergenerationeel wonen)
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [5 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -48,11 +74,11 @@ In deze regeling wordt verstaan onder:
 
 - **woonruimte:** een gebouwde onroerende zaak voor zover deze als zelfstandige woning, als bedoeld in [artikel 234 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=234), dan wel als niet zelfstandige woning wordt verhuurd.
 
-#### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Op deze regeling is [artikel 10.1 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=10.1) niet van toepassing.
 
-#### Artikel 3. Subsidiabele activiteiten en hoogte van de subsidie
+##### Artikel 3. Subsidiabele activiteiten en hoogte van de subsidie
 
 1. De minister kan op aanvraag subsidie verstrekken aan een verhuurder voor:
 
@@ -72,19 +98,19 @@ Op deze regeling is [artikel 10.1 van de Kaderregeling](https://wetten.overheid.
 
 - c. maximaal € 1.000.000 per verhuurder per periode bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=6&z=2024-11-16&g=2024-11-16).
 
-#### Artikel 4. Wijze van subsidieverstrekking
+##### Artikel 4. Wijze van subsidieverstrekking
 
 1. Indien de subsidie minder dan € 25.000 bedraagt wordt de subsidie ambtshalve vastgesteld tot ten hoogste het bedrag waarvan de hoogte door de minister bij de verlening is genoemd, overeenkomstig [artikel 1.5, onder a, onder 2°, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.5).
 
 2. Indien de subsidie € 25.000 of meer bedraagt bestaan de te subsidiëren activiteiten uit meetbare prestatie-eenheden en wordt de subsidie vastgesteld op een bedrag per gerealiseerde prestatie-eenheid waarvan de hoogte door de minister bij de verlening is genoemd, voor ten hoogste het maximum aantal prestatie-eenheden dat door de minister bij de verlening is genoemd, overeenkomstig [artikel 1.5, onder b, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.5).
 
-#### Artikel 5. Staatssteun
+##### Artikel 5. Staatssteun
 
 1. De uitvoering van de activiteiten, zoals genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=3&z=2024-11-16&g=2024-11-16), worden aangewezen als een DAEB.
 
 2. Subsidie wordt uitsluitend verstrekt indien de subsidieaanvrager met de Staat een overeenkomst sluit waarbij de Staat hem belast met en hij zich verplicht tot het verrichten van de DAEB, bedoeld in het eerste lid.
 
-#### Artikel 6. Subsidievoorwaarden
+##### Artikel 6. Subsidievoorwaarden
 
 1. Subsidie wordt enkel verstrekt aan een verhuurder die op 1 januari van het jaar van het indienen van een aanvraag tot subsidieverlening in het handelsregister stond ingeschreven met een hoofd- of nevenactiviteit met een bijhorende SBI-code die in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&bijlage=1&z=2024-11-16&g=2024-11-16) is opgenomen.
 
@@ -128,13 +154,13 @@ Op deze regeling is [artikel 10.1 van de Kaderregeling](https://wetten.overheid.
 
 6. Subsidie wordt enkel opnieuw verstrekt aan een verhuurder na afloop van de periode, bedoeld in het tweede lid, van de reeds aan die verhuurder op grond van deze regeling verstrekte subsidie.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het subsidieplafond bedraagt voor het jaar 2025 € 1.000.000,–.
 
 2. De Minister verdeelt het ingevolge het subsidieplafond beschikbare bedrag op volgorde van binnenkomst van de aanvragen, met dien verstande dat wanneer de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld als datum van ontvangst geldt.
 
-#### Artikel 8. Aanvraag tot subsidieverlening
+##### Artikel 8. Aanvraag tot subsidieverlening
 
 1. Een aanvraag tot subsidieverlening voor het kalenderjaar 2023 kan worden ingediend van 17 juli 2023 om 9.00 uur tot en met 15 september 2023 om 16.00 uur.
 
@@ -162,13 +188,13 @@ Op deze regeling is [artikel 10.1 van de Kaderregeling](https://wetten.overheid.
 
 - d. een door de minister vastgestelde DAEB de-minimisverklaring.
 
-#### Artikel 9. Bevoorschotting
+##### Artikel 9. Bevoorschotting
 
 1. Indien de subsidie minder dan € 25.000 bedraagt verstrekt de minister bij het besluit tot subsidieverlening een voorschot ter hoogte van 100% van het in de subsidieverlening opgenomen subsidiebedrag, dat in één keer wordt uitbetaald.
 
 2. Indien de subsidie € 25.000 of meer bedraagt verstrekt de minister bij het besluit tot subsidieverlening een voorschot ter hoogte van 50% van het in de subsidieverlening opgenomen subsidiebedrag, dat in één keer wordt uitbetaald.
 
-#### Artikel 10. Verplichtingen
+##### Artikel 10. Verplichtingen
 
 1. Indien sprake is van leegstand van de woonruimte meldt de verhuurder dit schriftelijk in aanvulling op en in afwijking van [artikel 5.7, eerste lid, van de Kaderreling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.7):
 
@@ -182,19 +208,19 @@ Op deze regeling is [artikel 10.1 van de Kaderregeling](https://wetten.overheid.
 
 2. De betaalde kale huurprijs mag niet hoger zijn dan die in de huurovereenkomst is opgenomen, behoudens verhogingen conform wet- en regelgeving.
 
-#### Artikel 11. Aanvraag tot subsidievaststelling
+##### Artikel 11. Aanvraag tot subsidievaststelling
 
 Indien een verleende subsidie € 25.000 of meer bedraagt vraagt de verhuurder vaststelling van de subsidie aan binnen 22 weken na de datum, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=6&z=2024-11-16&g=2024-11-16).
 
-#### Artikel 12. Hardheidsclausule
+##### Artikel 12. Hardheidsclausule
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 13. Inwerkingtreding en vervaldatum
+##### Artikel 13. Inwerkingtreding en vervaldatum
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte in de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 november 2030, met dien verstande dat deze van toepassing blijft op de subsidies die voor deze datum zijn aangevraagd en vastgesteld.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling intergenerationeel wonen.
 

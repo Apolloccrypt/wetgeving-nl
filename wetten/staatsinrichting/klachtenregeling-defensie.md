@@ -1,13 +1,38 @@
 ---
 title: "Klachtenregeling Defensie"
 identifier: "BWBR0038198"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2018-10-01
-laatste_update: 2018-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038198"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-10-01"
+last_updated: "2018-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038198"
+soort: "ministeriele-regeling"
+stam_id: "13678403"
+version_id: "23430022"
+internal_id: "C33755971"
+label_id: "13644984"
+dtd_version: "2.0"
+original_entry_into_force: "2016-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038198/2018-10-01/0"
+intitule_bron: "Stcrt.2016-34928"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-06-27"
+intitule_published: "2016-07-06"
+intitule_in_force: "2016-07-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-34928"
+original_signed_date: "2016-06-27"
+original_published_date: "2016-07-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-34928"
+entry_into_force_date: "2016-07-01"
+jci_1_3: "jci1.3:c:BWBR0038198&z=2018-10-01&g=2018-10-01"
+jci_1_0: "1.0:c:BWBR0038198&g=2018-10-01"
+citeertitel_status: "officieel"
+signed_date: "2016-06-27"
+entry_into_force: "2016-07-01"
 ---
-
 # Klachtenregeling Defensie
 
 Gelet op:
@@ -18,7 +43,7 @@ Gelet op:
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -82,7 +107,7 @@ In deze regeling wordt verstaan onder:
 
 - aa. **Commissie Ongewenst Gedrag:** door de Minister ingestelde klachtadviesinstantie, die klachten inzake ongewenst gedrag behandelt en daarover adviseert.
 
-#### Artikel 2. Doel en reikwijdte
+##### Artikel 2. Doel en reikwijdte
 
 1. Een ieder kan een klacht indienen over de wijze waarop een bestuursorgaan, dan wel een functionaris in de uitoefening van zijn functie zich heeft gedragen.
 
@@ -102,7 +127,7 @@ In deze regeling wordt verstaan onder:
 
 - f. de Klachtenregeling MIVD.
 
-#### Artikel 3. Het indienen van een klacht
+##### Artikel 3. Het indienen van een klacht
 
 1. Een klager die een mondelinge klacht wil indienen, richt zich bij voorkeur tot de leidinggevende van aangeklaagde.
 
@@ -116,7 +141,7 @@ In deze regeling wordt verstaan onder:
 
 6. Met het indienen van een schriftelijke klacht wordt gelijk gesteld het door klager aan de klachtbehandelaar op elektronische wijze toezenden van de klacht, indien aan [artikel 6, eerste lid, onder de aanhef en a. tot en met c.](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=6&z=2018-10-01&g=2018-10-01) is voldaan.
 
-#### Artikel 4. Geen verplichting tot het behandelen van een klacht
+##### Artikel 4. Geen verplichting tot het behandelen van een klacht
 
 1. Geen verplichting tot behandeling van een klacht bestaat, indien deze betrekking heeft op een gedraging:
 
@@ -138,7 +163,7 @@ In deze regeling wordt verstaan onder:
 
 5. Indien de klachtadviesinstantie geconfronteerd wordt met een mogelijk strafbaar feit dan informeert deze onmiddellijk de klachtbehandelaar. Voor sommige ernstige strafbare feiten, ambtsmisdrijven of personen (commandanten) bestaat een aangifteplicht. Bij twijfel of er sprake is van een mogelijk strafbaar feit of dat er aangifteplicht bestaat, overlegt de klachtbehandelaar met een juridisch adviseur. Verdere behandeling van de klacht vindt plaats na toestemming als bedoeld in het vorige lid.
 
-#### Artikel 5. Behandeling van een mondelinge klacht
+##### Artikel 5. Behandeling van een mondelinge klacht
 
 1. Een mondeling ingediende klacht dient zorgvuldig en zo spoedig mogelijk te worden afgehandeld.
 
@@ -150,7 +175,7 @@ In deze regeling wordt verstaan onder:
 
 5. Indien de behandeling van de mondelinge klacht niet leidt tot genoegdoening van klager, kan klager een schriftelijke klacht indienen.
 
-#### Artikel 6. Vereisten voor het indienen van een schriftelijke klacht
+##### Artikel 6. Vereisten voor het indienen van een schriftelijke klacht
 
 1. Een schriftelijke klacht wordt door klager ondertekend en bevat ten minste:
 
@@ -164,7 +189,7 @@ In deze regeling wordt verstaan onder:
 
 3. Voor het op schrift stellen van een klacht inzake ongewenst gedrag kan klager zich laten bijstaan door de CVP van zijn defensieonderdeel.
 
-#### Artikel 7. Behandelaar van een schriftelijke klacht
+##### Artikel 7. Behandelaar van een schriftelijke klacht
 
 Schriftelijke klachten worden behandeld en afgedaan:
 
@@ -176,7 +201,7 @@ Schriftelijke klachten worden behandeld en afgedaan:
 
 - –. indien het klachten betreft welke zich niet richten tegen gedragingen van een specifiek persoon, door of namens het hoofd defensieonderdeel onder wiens verantwoordelijkheid de gedraging jegens klager valt.
 
-#### Artikel 8. Coördinator vertrouwenspersoon (CVP) / vertrouwenspersoon (VP)
+##### Artikel 8. Coördinator vertrouwenspersoon (CVP) / vertrouwenspersoon (VP)
 
 1. Een functionaris kan, onverminderd het recht om een klacht over ongewenst gedrag in te dienen, zich wenden tot een VP, waarbij kan worden bezien of op informele wijze een aanvaardbare oplossing kan worden gevonden.
 
@@ -184,7 +209,7 @@ Schriftelijke klachten worden behandeld en afgedaan:
 
 3. Klager mag zich bij de indiening en behandeling van een klacht inzake ongewenst gedrag laten bijstaan door de (C)VP.
 
-#### Artikel 9. Klachtencoördinator (KC) en Decentraal Klachtencoördinatiepunt (DKP)
+##### Artikel 9. Klachtencoördinator (KC) en Decentraal Klachtencoördinatiepunt (DKP)
 
 1. De KC draagt zorg voor het registreren van de schriftelijke klacht en het verzamelen van gegevens voor rapportages als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=19&z=2018-10-01&g=2018-10-01).
 
@@ -196,7 +221,7 @@ Schriftelijke klachten worden behandeld en afgedaan:
 
 5. Schriftelijke klachten die rechtstreeks zijn ingediend bij de klachtbehandelaar worden door diens zorg aangemeld bij het DKP ten behoeve van de taken zoals genoemd in het eerste lid.
 
-#### Artikel 10. Actie bij ontvangst van een schriftelijke klacht
+##### Artikel 10. Actie bij ontvangst van een schriftelijke klacht
 
 1. De klachtbehandelaar:
 
@@ -218,13 +243,13 @@ Schriftelijke klachten worden behandeld en afgedaan:
 
 7. Het hoofd defensieonderdeel is bevoegd, in bijzondere gevallen en met redenen omkleed, de klachtbehandeling op zich te nemen wanneer de aard en de omstandigheden van het geval daartoe aanleiding geven.
 
-#### Artikel 11. Ontvangstbevestiging schriftelijke klacht
+##### Artikel 11. Ontvangstbevestiging schriftelijke klacht
 
 1. Zo spoedig mogelijk, doch uiterlijk binnen twee weken na ontvangst van de klacht, wordt door de klachtbehandelaar schriftelijk aan klager bevestigd, dat de klacht is ontvangen. De klachtbehandelaar vermeldt daarbij de te volgen procedure van klachtbehandeling en de eventuele aanwijzing van de klachtadviesinstantie.
 
 2. Indien de klacht niet voldoet aan de vereisten van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=6&z=2018-10-01&g=2018-10-01), wordt klager in de gelegenheid gesteld dit verzuim te herstellen binnen een door de klachtbehandelaar gestelde redelijke termijn. Pas na het herstel van het verzuim vangt de termijn van behandeling als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=15&z=2018-10-01&g=2018-10-01) aan.
 
-#### Artikel 12. Behandeling van een schriftelijke klacht
+##### Artikel 12. Behandeling van een schriftelijke klacht
 
 1. De behandeling van een klacht is niet openbaar.
 
@@ -244,7 +269,7 @@ Schriftelijke klachten worden behandeld en afgedaan:
 
 9. Indien de behandeling van de klacht voor afronding van het onderzoek heeft geleid tot genoegdoening van klager, kan met de behandeling worden gestopt. Dit wordt schriftelijk bevestigd aan klager en aangeklaagde en bij een klacht inzake ongewenst gedrag geregistreerd in het MVV.
 
-#### Artikel 13. Behandeling door een klachtadviesinstantie
+##### Artikel 13. Behandeling door een klachtadviesinstantie
 
 In aanvulling op [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=12&z=2018-10-01&g=2018-10-01) gelden bij een behandeling door een klachtadviesinstantie de navolgende bepalingen:
 
@@ -282,7 +307,7 @@ In aanvulling op [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&ar
 
 - 9. Bij het advies worden alle hoorverslagen en gebruikte informatie gevoegd.
 
-#### Artikel 14. Behandeling door de Commissie Ongewenst Gedrag
+##### Artikel 14. Behandeling door de Commissie Ongewenst Gedrag
 
 1. De Commissie Ongewenst Gedrag is ingesteld met een afzonderlijk instellingsbesluit waarin de samenstelling, taken, bevoegdheden, beheer en administratieve aangelegenheden zijn geregeld.
 
@@ -296,7 +321,7 @@ In aanvulling op [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&ar
 
 - d. De Commissie Ongewenst Gedrag adviseert in het geval aangeklaagde is aan te merken als bestuursorgaan ook over de behoorlijkheid van een door deze Commissie vastgestelde gedraging. Dit vindt slechts plaats in het geval dat de Commissie adviseert dat er geen sprake is van ongewenst gedrag als bedoeld in [artikel 1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=1&z=2018-10-01&g=2018-10-01) van deze regeling. De behoorlijkheidsnormen van de Nationale ombudsman en de Gedragscode Defensie gelden als uitgangspunt voor het oordeel over hetgeen is vastgesteld.
 
-#### Artikel 15. Termijnen voor behandeling
+##### Artikel 15. Termijnen voor behandeling
 
 1. De klacht wordt binnen zes weken na ontvangst van de schriftelijke klacht door de klachtbehandelaar afgedaan.
 
@@ -316,7 +341,7 @@ In aanvulling op [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&ar
 
 9. Zolang klager die een schriftelijke klacht over ongewenst gedrag heeft ingediend geen besluit heeft genomen over de wijze van behandeling als bedoeld in [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=10&z=2018-10-01&g=2018-10-01), wordt de termijn van behandeling als opgeschort beschouwd. Klager maakt deze keuze binnen een redelijke termijn.
 
-#### Artikel 16. Afdoening
+##### Artikel 16. Afdoening
 
 1. In de afdoeningsbrief stelt de klachtbehandelaar klager en aangeklaagde schriftelijk en gemotiveerd in kennis van de bevindingen van het onderzoek naar de schriftelijke klacht, zijn oordeel daarover alsmede van de eventuele conclusies die hij daaraan verbindt.
 
@@ -330,17 +355,17 @@ In aanvulling op [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&ar
 
 6. De klachtbehandelaar is eigenaar van het klachtbehandelingdossier en draagt zorg voor een deugdelijke opslag van het dossier. De klachtbehandelaar informeert de KC van zijn defensieonderdeel ten behoeve van de registratie van de afdoening van de klacht.
 
-#### Artikel 17. Rechtsbescherming
+##### Artikel 17. Rechtsbescherming
 
 1. Klager die ingevolge deze regeling te goeder trouw een klacht heeft ingediend, wordt op geen enkele wijze in zijn positie benadeeld als gevolg hiervan.
 
 2. De leden van een klachtadviesinstantie en andere personen die uit hoofde van hun functie betrokken zijn bij de indiening en/of behandeling van een klacht mogen op geen enkele wijze benadeeld worden als gevolg van het uitoefenen van hun taken.
 
-#### Artikel 18. Geheimhoudingsplicht
+##### Artikel 18. Geheimhoudingsplicht
 
 Een ieder die ingevolge deze regeling op de hoogte is gebracht van feiten dan wel in het bezit is gekomen van documenten, is verplicht tot geheimhouding van deze feiten en documenten voor zover dit uit de aard van de zaak voortvloeit.
 
-#### Artikel 19. Registratie, rapportage en verantwoording
+##### Artikel 19. Registratie, rapportage en verantwoording
 
 1. Het hoofd defensieonderdeel laat de schriftelijk bij dat onderdeel ingediende klachten registreren. Indien een klacht uit meerdere klachtonderdelen bestaat, worden deze klachtonderdelen apart geregistreerd.
 
@@ -356,21 +381,21 @@ Een ieder die ingevolge deze regeling op de hoogte is gebracht van feiten dan we
 
 4. Het hoofd defensieonderdeel rapporteert jaarlijks de geregistreerde schriftelijke klachten inzake ongewenst gedrag, gedifferentieerd naar de gedragingen als bedoeld in [artikel 1, onder e tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=1&z=2018-10-01&g=2018-10-01), aan de SG in het jaarverslag Integriteit. Daarbij vermeldt hij tevens het oordeel over de klacht.
 
-#### Artikel 20. Hardheidsclausule
+##### Artikel 20. Hardheidsclausule
 
 1. De Minister kan het gestelde in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0038198&artikel=4&z=2018-10-01&g=2018-10-01) buiten toepassing laten voor zover toepassing daarvan, gelet op de belangen die deze regeling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
 2. In de gevallen waarin de regeling niet voorziet beslist de Minister.
 
-#### Artikel 21. Intrekking
+##### Artikel 21. Intrekking
 
 De Klachtenregeling gedragingen Defensiepersoneel wordt ingetrokken.
 
-#### Artikel 22. Inwerkingtreding
+##### Artikel 22. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 juli 2016
 
-#### Artikel 23. Citeertitel
+##### Artikel 23. Citeertitel
 
 Deze regeling wordt aangehaald als ‘Klachtenregeling Defensie’.
 

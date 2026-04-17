@@ -1,13 +1,39 @@
 ---
-title: "Regeling beheer onroerende zaken Rijk 2024"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 13 mei 2024, nr. 2024-0000249690, houdende bepalingen omtrent het materieelbeheer en privaatrechtelijk beheer van onroerende zaken van het Rijk (Regeling beheer onroerende zaken Rijk 2024)"
 identifier: "BWBR0049701"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2025-11-12
-laatste_update: 2025-11-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049701"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-11-12"
+last_updated: "2025-11-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049701"
+soort: "ministeriele-regeling"
+stam_id: "17101993"
+version_id: "30098672"
+internal_id: "C43125351"
+label_id: "17010814"
+dtd_version: "2.0"
+original_entry_into_force: "2024-05-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049701/2025-11-12/0"
+intitule_bron: "Stcrt.2024-13638"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-05-13"
+intitule_published: "2024-05-14"
+intitule_in_force: "2024-05-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-13638"
+original_signed_date: "2024-05-13"
+original_published_date: "2024-05-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-13638"
+entry_into_force_date: "2024-05-15"
+jci_1_3: "jci1.3:c:BWBR0049701&z=2025-11-12&g=2025-11-12"
+jci_1_0: "1.0:c:BWBR0049701&g=2025-11-12"
+citeertitel_status: "officieel"
+short_title: "Regeling beheer onroerende zaken Rijk 2024"
+signed_date: "2024-05-13"
+entry_into_force: "2024-05-15"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 13 mei 2024, nr. 2024-0000249690, houdende bepalingen omtrent het materieelbeheer en privaatrechtelijk beheer van onroerende zaken van het Rijk (Regeling beheer onroerende zaken Rijk 2024)
 
 Gelet op [artikel 4.20, vijfde lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=4.20) en [artikel 3, tweede lid, van het Coördinatiebesluit organisatie, bedrijfsvoering en informatiesystemen rijksdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In deze regeling wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Materieelbeheer van onroerende zaken van het rijk en de administraties die ten behoeve van dat beheer worden bijgehouden
 
-#### Artikel 2. Doelstellingen van materieelbeheer
+##### Artikel 2. Doelstellingen van materieelbeheer
 
 Onroerende zaken worden zodanig door een minister beheerd of gebruikt dat:
 
@@ -42,7 +68,7 @@ Onroerende zaken worden zodanig door een minister beheerd of gebruikt dat:
 
 - c. de kans op schade aan derden of aansprakelijkstelling door derden zoveel mogelijk wordt voorkomen.
 
-#### Artikel 3. Risico-inventarisatie
+##### Artikel 3. Risico-inventarisatie
 
 De minister inventariseert de risico’s dat:
 
@@ -50,7 +76,7 @@ De minister inventariseert de risico’s dat:
 
 - b. met de onder zijn materieelbeheer vallende onroerende zaken aanzienlijke schade aan derden kan worden toegebracht.
 
-#### Artikel 4. Maatregelen
+##### Artikel 4. Maatregelen
 
 1. Aan de hand van de inschatting van de kans dat de geïnventariseerde risico’s, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049701&hoofdstuk=2&artikel=3&z=2025-11-12&g=2025-11-12), zich zullen voordoen, besluit de minister of en zo ja welke preventieve maatregelen moeten worden genomen ter voorkoming of beperking van de vastgestelde risico’s.
 
@@ -60,7 +86,7 @@ De minister inventariseert de risico’s dat:
 
 4. In overleg tussen de minister en de Minister van Volkshuisvesting en Ruimtelijke Ordening kan worden besloten dat de afwikkeling van een schade of aansprakelijkstelling door de Minister van Volkshuisvesting en Ruimtelijke Ordening geschiedt.
 
-#### Artikel 5. Beschrijving administratieve organisatie en bijhouden administratie materieelbeheer
+##### Artikel 5. Beschrijving administratieve organisatie en bijhouden administratie materieelbeheer
 
 De minister zorgt voor:
 
@@ -70,7 +96,7 @@ De minister zorgt voor:
 
 - c. het bijhouden van een adequate administratie van het gevoerde materieelbeheer van onroerende zaken.
 
-#### Artikel 6. Overtolligstelling onroerende zaken
+##### Artikel 6. Overtolligstelling onroerende zaken
 
 1. Een minister stelt een onroerende zaak overtollig wanneer deze niet langer nodig is voor de uitvoering van het beleid en de bedrijfsvoering die aan de begroting van deze minister ten grondslag liggen en doet daarvan mededeling aan de Minister van Volkshuisvesting en Ruimtelijke Ordening.
 
@@ -88,7 +114,7 @@ De minister zorgt voor:
 
 - b. andere onroerende zaken die een minister uitsluitend heeft verworven en aanhoudt om het beleid dat aan zijn begroting ten grondslag ligt uit te voeren door toekomstige vervreemding of ingebruikgeving van die onroerende zaak.
 
-#### Artikel 7. Overdracht van overtollig gestelde onroerende zaken
+##### Artikel 7. Overdracht van overtollig gestelde onroerende zaken
 
 1. Direct na de overtolligstelling van een onroerende zaak draagt de minister het materieelbeheer daarvan over aan de Minister van Volkshuisvesting en Ruimtelijke Ordening.
 
@@ -102,7 +128,7 @@ De minister zorgt voor:
 
 6. De minister en de Minister van Volkshuisvesting en Ruimtelijke Ordening kunnen in onderling overleg afwijken van het eerste lid. De afwijking wordt schriftelijk vastgelegd.
 
-#### Artikel 8. Herbestemming binnen het Rijk
+##### Artikel 8. Herbestemming binnen het Rijk
 
 1. Na de overdracht, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049701&hoofdstuk=2&artikel=7&z=2025-11-12&g=2025-11-12), gaat de Minister van Volkshuisvesting en Ruimtelijke Ordening eerst na of hijzelf of een andere minister de overtollig gestelde onroerende zaak nodig heeft voor de uitvoering van het beleid en de bedrijfsvoering die aan zijn begroting respectievelijk de begroting van de andere minister ten grondslag liggen.
 
@@ -116,7 +142,7 @@ De minister zorgt voor:
 
 6. De minister zorgt voor een interne betaling aan de Minister van Volkshuisvesting en Ruimtelijke Ordening van een bedrag gebaseerd op een marktconforme verkoopprijs voor de onroerende zaak.
 
-#### Artikel 9. Beslissing over vervreemding van onroerende zaken
+##### Artikel 9. Beslissing over vervreemding van onroerende zaken
 
 1. De Minister van Volkshuisvesting en Ruimtelijke Ordening kan beslissen een overtollig gestelde onroerende zaak te vervreemden indien:
 
@@ -130,7 +156,7 @@ De minister zorgt voor:
 
 ### Hoofdstuk 3. Privaatrechtelijk beheer van de onroerende zaken van het rijk
 
-#### Artikel 10. Openbare verkoop van onroerende zaken van het Rijk aan derden
+##### Artikel 10. Openbare verkoop van onroerende zaken van het Rijk aan derden
 
 1. Als de Minister van Volkshuisvesting en Ruimtelijke Ordening een overtollig gestelde onroerende zaak of een onroerende zaak als bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049701&hoofdstuk=2&artikel=6&z=2025-11-12&g=2025-11-12), vervreemdt draagt hij zorg voor een openbare aanbieding van het eigendomsrecht van de onroerende zaak door publicatie op [www.biedboek.nl](http://www.biedboek.nl).
 
@@ -142,7 +168,7 @@ De minister zorgt voor:
 
 5. De voorwaarden, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049701&hoofdstuk=2&artikel=6&z=2025-11-12&g=2025-11-12), en [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049701&hoofdstuk=2&artikel=9&z=2025-11-12&g=2025-11-12), worden door de Minister van Volkshuisvesting en Ruimtelijke Ordening bij de overdracht van het eigendomsrecht aan de nieuwe eigenaar gesteld.
 
-#### Artikel 11. Onderhandse vervreemding onroerende zaken van het Rijk
+##### Artikel 11. Onderhandse vervreemding onroerende zaken van het Rijk
 
 1. De Minister van Volkshuisvesting en Ruimtelijke Ordening kan besluiten tot vervreemding zonder openbare aanbieding van:
 
@@ -174,7 +200,7 @@ De minister zorgt voor:
 
 8. [Artikel 10, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049701&hoofdstuk=3&artikel=10&z=2025-11-12&g=2025-11-12), is van overeenkomstige toepassing.
 
-#### Artikel 12. Ruiling van rijksvastgoed
+##### Artikel 12. Ruiling van rijksvastgoed
 
 1. De Minister van Volkshuisvesting en Ruimtelijke Ordening kan beslissen medewerking te verlenen aan een ruiling als er slechts één serieuze gegadigde is. In dat geval draagt hij zorg voor een tijdige aankondiging van de voorgenomen vervreemding zonder openbare aanbieding van de onroerende zaak van de Staat in het kader van die ruiling, door publicatie op [www.biedboek.nl](http://www.biedboek.nl/) met vermelding van de criteria op basis waarvan wordt vastgesteld dat er slechts een serieuze gegadigde bestaat.
 
@@ -190,7 +216,7 @@ De minister zorgt voor:
 
 4. [Artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049701&hoofdstuk=3&artikel=10&z=2025-11-12&g=2025-11-12), is van toepassing.
 
-#### Artikel 13. Verlening gebruiksrechten
+##### Artikel 13. Verlening gebruiksrechten
 
 1. De Minister van Volkshuisvesting en Ruimtelijke Ordening kan met betrekking tot een overtollig gestelde onroerende zaak en een onroerende zaak als bedoeld in [artikel 6, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049701&hoofdstuk=2&artikel=6&z=2025-11-12&g=2025-11-12), een gebruiksrecht verlenen. De Minister van Volkshuisvesting en Ruimtelijke Ordening kan voorwaarden stellen bij het verlenen van het gebruiksrecht. Indien voorwaarden zijn gesteld als bedoeld in artikel 6, tweede lid, worden deze bij het verlenen van het gebruiksrecht gesteld.
 
@@ -212,7 +238,7 @@ De minister zorgt voor:
 
 8. Degenen aan wie een gebruiksrecht is verleend, zorgen er zelf voor dat zij beschikken over de voor het overeengekomen gebruik van de onroerende zaak benodigde publiekrechtelijke vergunningen en ontheffingen.
 
-#### Artikel 14. Onderhandse verlening gebruiksrechten
+##### Artikel 14. Onderhandse verlening gebruiksrechten
 
 1. De Minister van Volkshuisvesting en Ruimtelijke Ordening kan beslissen een gebruiksrecht met betrekking tot een onroerende zaak zonder openbare aanbieding te verlenen.
 
@@ -244,7 +270,7 @@ De minister zorgt voor:
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 15. Overgangsrecht
+##### Artikel 15. Overgangsrecht
 
 1. Een verzoek om overname van het eigendomsrecht als bedoeld in [artikel 9 van de Regeling beheer onroerende zaken Rijk 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0040452&artikel=9) geldt als verzoek als bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049701&hoofdstuk=3&artikel=11&z=2025-11-12&g=2025-11-12), van deze regeling.
 
@@ -252,7 +278,7 @@ De minister zorgt voor:
 
 3. De bij overtolligstelling gestelde voorwaarden, bedoeld in [artikel 6, tweede lid, van de Regeling beheer onroerende zaken Rijk 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0040452&artikel=6), gelden als voorwaarden gesteld bij overtolligstelling in de zin van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049701&hoofdstuk=2&artikel=6&z=2025-11-12&g=2025-11-12), van deze regeling.
 
-#### Artikel 16. Intrekking besluiten en regelingen
+##### Artikel 16. Intrekking besluiten en regelingen
 
 De volgende besluiten en regelingen worden ingetrokken:
 
@@ -262,21 +288,21 @@ De volgende besluiten en regelingen worden ingetrokken:
 
 - c. De [Regeling taken en werkwijze Raad voor Vastgoed Rijksoverheid](https://wetten.overheid.nl/jci1.3:c:BWBR0018406).
 
-#### Artikel 17. Wijzigingen [Besluit taak RVB 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0040475)
+##### Artikel 17. Wijzigingen [Besluit taak RVB 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0040475)
 
 Wijzigt het Besluit taak RVB 2017.
 
-#### Artikel 18. Inwerkingtreding
+##### Artikel 18. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 19. Citeertitel
+##### Artikel 19. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling beheer onroerende zaken Rijk 2024.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 14a. Toezenden afschriften
+##### Artikel 14a. Toezenden afschriften
 
 De Minister van Infrastructuur en Waterstaat zendt een afschrift van een aanvraag om een omgevingsvergunning, een melding en een omgevingsvergunning voor beperkingengebiedactiviteiten met betrekking tot een waterstaatswerk in beheer bij het Rijk, de Noordzee, en een weg in beheer bij het Rijk, bedoeld in [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=6), onderscheidenlijk [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=7), onderscheidenlijk [hoofdstuk 8 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=8), onverwijld aan de Minister van Volkshuisvesting en Ruimtelijke Ordening, voor zover de betreffende vergunningsaanvragen en meldingen betrekking hebben op onroerende zaken die in eigendom zijn van de Staat.
 

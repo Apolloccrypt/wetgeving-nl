@@ -1,13 +1,37 @@
 ---
 title: "Instelling en benoeming Commissie Huurders-Verhuurders"
 identifier: "BWBR0005704"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1993-01-01
-laatste_update: 1993-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005704"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1993-01-01"
+last_updated: "1993-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005704"
+soort: "ministeriele-regeling"
+stam_id: "4265703"
+version_id: "6029032"
+internal_id: "C6232421"
+label_id: "4244174"
+dtd_version: "2.0"
+original_entry_into_force: "1993-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005704/1993-01-01/0"
+intitule_bron: "Stcrt.1992-221"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-11-04"
+intitule_published: "1992-11-13"
+intitule_in_force: "1992-11-13"
+intitule_status: "goed"
+original_publication: "Stcrt.1992-221"
+original_signed_date: "1992-11-04"
+original_published_date: "1992-11-13"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1993-01-01"
+jci_1_3: "jci1.3:c:BWBR0005704&z=1993-01-01&g=1993-01-01"
+jci_1_0: "1.0:c:BWBR0005704&g=1993-01-01"
+citeertitel_status: "officieel"
+signed_date: "1992-11-04"
+entry_into_force: "1993-01-01"
 ---
-
 # Instelling en benoeming Commissie Huurders-Verhuurders
 
 Overwegende, dat het naast een vergroting van de zelfstandigheid van sociale verhuurders gewenst is de positie van huurders en hun organisaties nader te ordenen,

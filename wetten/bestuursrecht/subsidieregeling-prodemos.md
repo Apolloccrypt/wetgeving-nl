@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling ProDemos"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 juni 2013, nr. 2013-0000329553, houdende regels voor de subsidiëring van het Huis voor democratie en rechtsstaat (Subsidieregeling ProDemos)"
 identifier: "BWBR0033558"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-10-29
-laatste_update: 2021-10-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033558"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-10-29"
+last_updated: "2021-10-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033558"
+soort: "ministeriele-regeling"
+stam_id: "12288973"
+version_id: "20579502"
+internal_id: "C28945161"
+label_id: "12260344"
+dtd_version: "2.0"
+original_entry_into_force: "2013-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033558/2021-10-29/0"
+intitule_bron: "Stcrt.2013-16475"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-06-10"
+intitule_published: "2013-06-20"
+intitule_in_force: "2013-06-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-16475"
+original_signed_date: "2013-06-10"
+original_published_date: "2013-06-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-16475"
+entry_into_force_date: "2013-07-01"
+jci_1_3: "jci1.3:c:BWBR0033558&z=2021-10-29&g=2021-10-29"
+jci_1_0: "1.0:c:BWBR0033558&g=2021-10-29"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling ProDemos"
+signed_date: "2013-06-10"
+entry_into_force: "2013-07-01"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 juni 2013, nr. 2013-0000329553, houdende regels voor de subsidiëring van het Huis voor democratie en rechtsstaat (Subsidieregeling ProDemos)
 
 Gelet op de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=3), en [4, eerste lid, onderdelen d en f, van de Kaderwet overige BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=4) en de [artikelen 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11), en [18, eerste lid, van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=18);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - b. **stichting:** Stichting Huis voor democratie en rechtsstaat.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De minister verstrekt aan de stichting een subsidie met het oog op:
 
@@ -50,13 +76,13 @@ In deze regeling wordt verstaan onder:
 
 2. De subsidie wordt per boekjaar verstrekt. Het boekjaar is gelijk aan het kalenderjaar.
 
-#### Artikel 3
+##### Artikel 3
 
 De subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033558&paragraaf=1&artikel=2&z=2021-10-29&g=2021-10-29), bedraagt ten hoogste het bedrag dat uit de begroting van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties blijkt.
 
 #### § 2. De subsidieverlening
 
-#### Artikel 4
+##### Artikel 4
 
 1. De stichting dient de aanvraag tot subsidieverlening uiterlijk in op 1 oktober voorafgaand aan het kalenderjaar waarop de subsidie betrekking heeft.
 
@@ -66,7 +92,7 @@ De subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.
 
 #### § 3. Voorschotverlening
 
-#### Artikel 5
+##### Artikel 5
 
 1. De minister verstrekt voorschotten per boekjaar.
 
@@ -82,7 +108,7 @@ De subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.
 
 #### § 4. De verplichtingen van de subsidieontvanger
 
-#### Artikel 6
+##### Artikel 6
 
 1. De stichting vormt een egalisatiereserve als bedoeld in [artikel 4:72 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:72).
 
@@ -90,7 +116,7 @@ De subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.
 
 3. De egalisatiereserve wordt uitsluitend aangewend voor kosten die direct samenhangen met de activiteiten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033558&paragraaf=1&artikel=2&z=2021-10-29&g=2021-10-29).
 
-#### Artikel 7
+##### Artikel 7
 
 1. De stichting hanteert voor de bezoekers van het gebouw, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033558&paragraaf=1&artikel=2&z=2021-10-29&g=2021-10-29), en voor het ontvangen en rondleiden van bezoekers van het Binnenhofcomplex tarieven die door de minister zijn goedgekeurd.
 
@@ -98,15 +124,15 @@ De subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.
 
 #### § 5. Overgangs- en slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Een subsidie die is verleend krachtens de [Subsidieregeling Huis voor democratie en rechtsstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0028205) wordt aangemerkt als een subsidie, verleend krachtens deze regeling.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking met ingang van 1 juli 2013 en vervalt met ingang van 1 januari 2027.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Subsidieregeling ProDemos.
 

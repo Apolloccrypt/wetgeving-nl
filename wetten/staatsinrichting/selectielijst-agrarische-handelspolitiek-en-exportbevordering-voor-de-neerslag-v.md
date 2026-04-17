@@ -1,13 +1,37 @@
 ---
 title: "Selectielijst Agrarische handelspolitiek en exportbevordering voor de neerslag van handelingen vanaf 1945 van de Minister van LNV en taakvoorgangers"
 identifier: "BWBR0011665"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2000-11-19
-laatste_update: 2000-11-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011665"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2000-11-19"
+last_updated: "2000-11-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011665"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "5008913"
+version_id: "8676622"
+internal_id: "C25310221"
+label_id: "4985314"
+dtd_version: "2.0"
+original_entry_into_force: "2000-11-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011665/2000-11-19/0"
+intitule_bron: "Stcrt.2000-224"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-09-27"
+intitule_published: "2000-11-17"
+intitule_in_force: "2000-11-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-224"
+original_signed_date: "2000-09-27"
+original_published_date: "2000-11-17"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-11-19"
+jci_1_3: "jci1.3:c:BWBR0011665&z=2000-11-19&g=2000-11-19"
+jci_1_0: "1.0:c:BWBR0011665&g=2000-11-19"
+citeertitel_status: "officieel"
+signed_date: "2000-09-27"
+entry_into_force: "2000-11-19"
 ---
-
 # Selectielijst Agrarische handelspolitiek en exportbevordering voor de neerslag van handelingen vanaf 1945 van de Minister van LNV en taakvoorgangers
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,15 +40,15 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 25 februari 20
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde `selectielijst voor de neerslag van de handelingen van de Minister van Landbouw, Natuurbeheer en Visserij en de onder hem ressorterende actoren op het beleidsterrein agrarische handelspolitiek en exportbevordering over de periode vanaf 1945' en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Van de `Lijst houdende opgaaf van voor vernietiging in aanmerking komende stukken in de archieven van het Ministerie van Landbouw en Visserij en in de archieven van de onder dat Ministerie ressorterende commissies en ambtenaren' (vastgesteld bij beschikking van de Minister van Landbouw en Visserij en de Minister van Cultuur, Recreatie en Maatschappelijk werk, nr. PAZ 400, Afdeling Post- en Archiefzaken d.d. 29 december 1966 en beschikking nr. 133349, Afdeling Oudheidkunde en Natuurbescherming d.d. 3 februari 1967, laatstelijk gewijzigd bij beschikkingen van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen en de Minister van Landbouw, Natuurbeheer en Visserij, nrs. R&B/OSTA/99/469 en R&B/OSTA/ 99/471 d.d. 3 augustus 1999 (gepubliceerd in de Staatscourant nr. 216 van 9 november 1999)) worden categorieën 21, 79, 86, 92 en 114 ingetrokken voor wat betreft de agrarische handelspolitiek en exportbevordering.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

@@ -1,18 +1,39 @@
 ---
 title: "Wetboek van Koophandel"
 identifier: "BWBR0001838"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0001838"
+country: "nl"
+rank: "wet"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001838"
+soort: "wet"
+stam_id: "1327143"
+version_id: "2003882"
+internal_id: "C2003881"
+label_id: "1308524"
+dtd_version: "2.0"
+original_entry_into_force: "1838-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001838/2025-07-01/0"
+intitule_bron: "Stb.1838-12"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1838-04-10"
+intitule_status: "goed"
+original_publication: "Stb.1838-12"
+original_signed_date: "1838-04-10"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1838-10-01"
+jci_1_3: "jci1.3:c:BWBR0001838&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0001838&g=2025-07-01"
+citeertitel_status: "officieel"
+signed_date: "1838-04-10"
+entry_into_force: "1838-10-01"
 ---
-
 # Wetboek van Koophandel
 
 ## Algemeene bepaling
 
-#### Artikel 1
+##### Artikel 1
 
 Het Burgerlijk Wetboek is, voor zoo verre daarvan bij dit Wetboek niet bijzonderlijk is afgeweken, ook op de in dit Wetboek behandelde onderwerpen toepasselijk.
 
@@ -20,81 +41,81 @@ Het Burgerlijk Wetboek is, voor zoo verre daarvan bij dit Wetboek niet bijzonder
 
 ## titel Eerste. Van kooplieden en van daden van koophandel
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
 ## titel Tweede. Vervallen.
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
 ## titel Derde. Van de vennootschap onder ene firma en van die bij wijze van geldschieting of "en commandite" genaamd
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 De in dezen titel genoemde vennootschappen worden geregeerd door de overeenkomsten van partijen, door dit Wetboek en door het Burgerlijk Regt.
 
-#### Artikel 16
+##### Artikel 16
 
 De vennootschap onder eene firma is de maatschap, tot de uitoefening van een bedrijf onder eenen gemeenschappelijken naam aangegaan.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Elk der vennooten, die daarvan niet is uitgesloten, is bevoegd ten name der vennootschap te handelen, gelden uit te geven en te ontvangen, en de vennootschap aan derden, en derden aan de vennootschap te verbinden.
 
 2. Handelingen welke niet tot de vennootschap betrekkelijk zijn, of tot welke de vennooten volgens de overeenkomst onbevoegd zijn, worden onder deze bepaling niet begrepen.
 
-#### Artikel 18
+##### Artikel 18
 
 In vennootschappen onder eene firma is elk der vennooten, wegens de verbindtenissen der vennootschap, hoofdelijk verbonden.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De vennootschap bij wijze van geldschieting, anders **en commandite** genaamd, wordt aangegaan tusschen eenen persoon, of tusschen meerdere hoofdelijk verbonden vennoten, en eenen of meer andere personen als geldschieters.
 
@@ -102,7 +123,7 @@ In vennootschappen onder eene firma is elk der vennooten, wegens de verbindtenis
 
 3. De vennootschap bij wijze van geldschieting heeft geen in aandelen verdeeld kapitaal.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Behoudens de uitzondering, in het tweede lid van [art. 30](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Eerste&titeldeel=Derde&artikel=30&z=2025-07-01&g=2025-07-01) voorkomende, mag de naam van den vennoot bij wijze van geldschieting in de firma niet worden gebezigd.
 
@@ -110,159 +131,159 @@ In vennootschappen onder eene firma is elk der vennooten, wegens de verbindtenis
 
 3. Hij draagt niet verder in de schade dan ten beloope der gelden, welke hij in de vennootschap heeft ingebragt of heeft moeten inbrengen, zonder dat hij immer tot teruggave van genotene winsten verpligt zij.
 
-#### Artikel 21
+##### Artikel 21
 
 De vennoot bij wijze van geldschieting, die de bepalingen van het eerste of van het tweede lid van het vorige artikel overtreedt, is wegens alle de schulden en verbindtenissen van de vennootschap hoofdelijk verbonden.
 
-#### Artikel 22
+##### Artikel 22
 
 De vennootschappen onder eene firma moeten worden aangegaan bij authentieke of bij onderhandsche akte, zonder dat het gemis eener akte aan derden kan worden tegengeworpen.
 
-#### Artikel 23
+##### Artikel 23
 
 De vennooten onder eene firma zijn verpligt de vennootschap te doen inschrijven in het handelsregister, overeenkomstig de daarvoor geldende wettelijke bepalingen.
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 Zoolang de inschrijving in het handelsregister niet is geschied, zal de vennootschap onder eene firma, ten aanzien van derden, worden aangemerkt als algemeen voor alle zaken, als aangegaan voor eenen onbepaalden tijd, en als geenen der vennooten uitsluitende van het regt om voor de firma te handelen en te teekenen.
 
-#### Artikel 30
+##### Artikel 30
 
 1. De firma van eene ontbondene vennootschap kan, het zij uit kracht der overeenkomst, het zij indien de gewezen vennoot, wiens naam in de firma voorkwam, daarin uitdrukkelijk toestemt, of, bij overlijden, deszelfs erfgenamen zich niet daartegen verzetten, door eenen of meer personen worden aangehouden, welke, ten blijke daarvan, eene akte moeten uitbrengen, en dezelve doen inschrijven in het handelsregister, overeenkomstig de daarvoor geldende wettelijke bepalingen.
 
 2. De bepaling van het eerste lid van [art. 20](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Eerste&titeldeel=Derde&artikel=20&z=2025-07-01&g=2025-07-01) is niet toepasselijk, indien de afgetredene, van vennoot onder eene firma, vennoot bij wijze van geldschieting is geworden.
 
-#### Artikel 31
+##### Artikel 31
 
 De ontbinding eener vennootschap onder eene firma vóór den tijd bij de overeenkomst bepaald, of door afstand of opzegging tot stand gebragt, derzelver verlenging na verloop van het bepaalde tijdstip, mitsgaders alle veranderingen in de oorspronkelijke overeenkomst gemaakt, welke derden aangaan, zijn aan de voormelde inschrijving onderworpen.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Bij de ontbinding der vennootschap zullen de vennooten, die het regt van beheer hebben gehad, de zaken der gewezen vennootschap moeten vereffenen in naam van dezelfde firma, ten zij bij de overeenkomst anders ware bepaald, of de gezamenlijke vennooten (die bij wijze van geldschieting niet daaronder begrepen), hoofdelijk en bij meerderheid van stemmen, eenen anderen vereffenaar hadden benoemd.
 
 2. Indien de stemmen staken beschikt de rechtbank, zoodanig als zij in het belang der ontbondene vennootschap meest geraden zal achten.
 
-#### Artikel 33
+##### Artikel 33
 
 Indien de staat der kas van de ontbondene vennootschap niet toereikt om de opeischbare schulden te betalen, zullen zij, die met de vereffening belast zijn, de benoodigde penningen kunnen vorderen, welke door elk der vennooten, voor zijn aandeel in de vennootschap, zullen moeten worden ingebragt.
 
-#### Artikel 34
+##### Artikel 34
 
 De gelden die gedurende de vereffening uit de kas der vennootschap kunnen gemist worden, zullen voorloopig worden verdeeld.
 
-#### Artikel 35
+##### Artikel 35
 
 Vervallen
 
-#### Artikel 36
+##### Artikel 36
 
 Vervallen
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
-#### Artikel 38
+##### Artikel 38
 
 Vervallen
 
-#### Artikel 39
+##### Artikel 39
 
 Vervallen
 
-#### Artikel 40
+##### Artikel 40
 
 Vervallen
 
-#### Artikel 41
+##### Artikel 41
 
 Vervallen
 
-#### Artikel 42
+##### Artikel 42
 
 Vervallen
 
-#### Artikel 43
+##### Artikel 43
 
 Vervallen
 
-#### Artikel 44
+##### Artikel 44
 
 Vervallen
 
-#### Artikel 45
+##### Artikel 45
 
 Vervallen
 
-#### Artikel 46
+##### Artikel 46
 
 Vervallen
 
-#### Artikel 47
+##### Artikel 47
 
 Vervallen
 
-#### Artikel 48
+##### Artikel 48
 
 Vervallen
 
-#### Artikel 49
+##### Artikel 49
 
 Vervallen
 
-#### Artikel 50
+##### Artikel 50
 
 Vervallen
 
-#### Artikel 51
+##### Artikel 51
 
 Vervallen
 
-#### Artikel 52
+##### Artikel 52
 
 Vervallen
 
-#### Artikel 53
+##### Artikel 53
 
 Vervallen
 
-#### Artikel 54
+##### Artikel 54
 
 Vervallen
 
-#### Artikel 55
+##### Artikel 55
 
 Vervallen
 
-#### Artikel 56
+##### Artikel 56
 
 Vervallen
 
-#### Artikel 57
+##### Artikel 57
 
 Vervallen
 
-#### Artikel 58
+##### Artikel 58
 
 Vervallen
 
@@ -270,23 +291,23 @@ Vervallen
 
 ### afdeeling Eerste. Van beurzen van koophandel
 
-#### Artikel 59
+##### Artikel 59
 
 De beurs van koophandel is de zamenkomst van kooplieden, schippers, tussenpersonen, kassiers en andere personen tot den koophandel in betrekking staande. Zij heeft plaats op gezag van het plaatselijk bestuur.
 
-#### Artikel 60
+##### Artikel 60
 
 1. Uit de handelingen en afspraken, ter beurze gesloten, worden opgemaakt de bepaling van den wisselkoers, de prijs der koopmanschappen, der assurantien, der zeevrachten, der kosten van vervoer te water en te lande, der binnen- en buitenlandsche obligatien, fondsen en andere papieren, die voor bepaling van koers vatbaar zijn.
 
 2. Deze onderscheidene koersen of prijzen worden volgens plaatselijke reglementen of gebruiken opgemaakt.
 
-#### Artikel 61
+##### Artikel 61
 
 Het uur van het aangaan en afloopen der beurs, en alles wat de goede orde aldaar betreft, wordt door plaatselijke reglementen bepaald.
 
 ### afdeeling Tweede. Van tussenpersonen
 
-#### Artikel 62
+##### Artikel 62
 
 1. Onder tussenpersoon wordt verstaan degene die:
 
@@ -298,311 +319,311 @@ Het uur van het aangaan en afloopen der beurs, en alles wat de goede orde aldaar
 
 2. Het in het eerste lid bedoelde bedrijf kan mede omvatten het bemonsteren en waarderen van goederen en het uitbrengen van deskundigenberichten.
 
-#### Artikel 63
+##### Artikel 63
 
 Vervallen
 
-#### Artikel 63a
+##### Artikel 63a
 
 Vervallen
 
-#### Artikel 63b
+##### Artikel 63b
 
 Vervallen
 
-#### Artikel 63c
+##### Artikel 63c
 
 Vervallen
 
-#### Artikel 63cc
+##### Artikel 63cc
 
 Vervallen
 
-#### Artikel 63d
+##### Artikel 63d
 
 Vervallen
 
-#### Artikel 63e
+##### Artikel 63e
 
 Vervallen
 
-#### Artikel 64
+##### Artikel 64
 
 Vervallen
 
-#### Artikel 65
+##### Artikel 65
 
 Vervallen
 
-#### Artikel 65a
+##### Artikel 65a
 
 Vervallen
 
-#### Artikel 65b
+##### Artikel 65b
 
 Vervallen
 
-#### Artikel 65c
+##### Artikel 65c
 
 Vervallen
 
-#### Artikel 66
+##### Artikel 66
 
 Vervallen
 
-#### Artikel 66a
+##### Artikel 66a
 
 Vervallen
 
-#### Artikel 66b
+##### Artikel 66b
 
 Vervallen
 
-#### Artikel 67
+##### Artikel 67
 
 Vervallen
 
-#### Artikel 67a
+##### Artikel 67a
 
 Vervallen
 
-#### Artikel 68
+##### Artikel 68
 
 De tussenpersoon is verplicht van iedere door hem gesloten overeenkomst aantekening te houden; hij doet van de aantekening aan ieder der partijen terstond een door hem gewaarmerkt afschrift toekomen.
 
-#### Artikel 68a
+##### Artikel 68a
 
 Vervallen
 
-#### Artikel 68b
+##### Artikel 68b
 
 1. Tenzij hij daarvan door partijen is ontslagen, is de tussenpersoon verplicht van elke door hem op monster verkochte partij goederen het monster, voorzien van een duidelijk herkenningsteken, te bewaren gedurende een redelijke termijn overeenkomstig de gebruiken in de handel.
 
 2. De rechter kan aan een tussenpersoon de overlegging van het door hem bewaarde monster in rechte bevelen teneinde dit te bezichtigen en hij kan daaromtrent zijn toelichting vorderen.
 
-#### Artikel 69
+##### Artikel 69
 
 De tussenpersoon die een door hem verhandelde wisselbrief of ander handelspapier aan de koper ter hand stelt, staat in voor de echtheid van de zich daarop bevindende handtekening van de verkoper.
 
-#### Artikel 70
+##### Artikel 70
 
 De [artikelen 68](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Eerste&titeldeel=Vierde&afdeling=Tweede&artikel=68&z=2025-07-01&g=2025-07-01), [68b](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Eerste&titeldeel=Vierde&afdeling=Tweede&artikel=68b&z=2025-07-01&g=2025-07-01) en [69](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Eerste&titeldeel=Vierde&afdeling=Tweede&artikel=69&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing op de vennootschap en de rechtspersoon die bemiddeling door middel van tussenpersonen tot bedrijf hebben.
 
-#### Artikel 71
+##### Artikel 71
 
 Vervallen
 
-#### Artikel 72
+##### Artikel 72
 
 Vervallen
 
-#### Artikel 73
+##### Artikel 73
 
 Vervallen
 
 ### afdeling Derde. Van de agentuurovereenkomst
 
-#### Artikel 74
+##### Artikel 74
 
 Vervallen
 
-#### Artikel 74a
+##### Artikel 74a
 
 Vervallen
 
-#### Artikel 74b
+##### Artikel 74b
 
 Vervallen
 
-#### Artikel 74c
+##### Artikel 74c
 
 Vervallen
 
-#### Artikel 74d
+##### Artikel 74d
 
 Vervallen
 
-#### Artikel 74e
+##### Artikel 74e
 
 Vervallen
 
-#### Artikel 74f
+##### Artikel 74f
 
 Vervallen
 
-#### Artikel 74g
+##### Artikel 74g
 
 Vervallen
 
-#### Artikel 74h
+##### Artikel 74h
 
 Vervallen
 
-#### Artikel 74i
+##### Artikel 74i
 
 Vervallen
 
-#### Artikel 74j
+##### Artikel 74j
 
 Vervallen
 
-#### Artikel 74k
+##### Artikel 74k
 
 Vervallen
 
-#### Artikel 74l
+##### Artikel 74l
 
 Vervallen
 
-#### Artikel 74m
+##### Artikel 74m
 
 Vervallen
 
-#### Artikel 74n
+##### Artikel 74n
 
 Vervallen
 
-#### Artikel 74o
+##### Artikel 74o
 
 Vervallen
 
-#### Artikel 74p
+##### Artikel 74p
 
 Vervallen
 
-#### Artikel 74q
+##### Artikel 74q
 
 Vervallen
 
-#### Artikel 74r
+##### Artikel 74r
 
 Vervallen
 
-#### Artikel 74s
+##### Artikel 74s
 
 Vervallen
 
 ### afdeling Vierde. Van de handelsreizigersovereenkomst
 
-#### Artikel 75
+##### Artikel 75
 
 Vervallen
 
-#### Artikel 75a
+##### Artikel 75a
 
 Vervallen
 
-#### Artikel 75b
+##### Artikel 75b
 
 Vervallen
 
-#### Artikel 75c
+##### Artikel 75c
 
 Vervallen
 
 ## titel Vijfde. Van commissionairs
 
-#### Artikel 76
+##### Artikel 76
 
 Vervallen
 
-#### Artikel 77
+##### Artikel 77
 
 Vervallen
 
-#### Artikel 78
+##### Artikel 78
 
 Vervallen
 
-#### Artikel 79
+##### Artikel 79
 
 Vervallen
 
-#### Artikel 80
+##### Artikel 80
 
 Vervallen
 
-#### Artikel 81
+##### Artikel 81
 
 Vervallen
 
-#### Artikel 82
+##### Artikel 82
 
 Vervallen
 
-#### Artikel 83
+##### Artikel 83
 
 Vervallen
 
-#### Artikel 84
+##### Artikel 84
 
 Vervallen
 
-#### Artikel 85
+##### Artikel 85
 
 Vervallen
 
-#### Artikel 85a
+##### Artikel 85a
 
 Vervallen
 
-#### Artikel 86
+##### Artikel 86
 
 Vervallen
 
-#### Artikel 87
+##### Artikel 87
 
 Vervallen
 
-#### Artikel 88
+##### Artikel 88
 
 Vervallen
 
-#### Artikel 89
+##### Artikel 89
 
 Vervallen
 
-#### Artikel 90
+##### Artikel 90
 
 Vervallen
 
-#### Artikel 91
+##### Artikel 91
 
 Vervallen
 
-#### Artikel 92
+##### Artikel 92
 
 Vervallen
 
-#### Artikel 93
+##### Artikel 93
 
 Vervallen
 
-#### Artikel 94
+##### Artikel 94
 
 Vervallen
 
-#### Artikel 95
+##### Artikel 95
 
 Vervallen
 
-#### Artikel 96
+##### Artikel 96
 
 Vervallen
 
-#### Artikel 97
+##### Artikel 97
 
 Vervallen
 
-#### Artikel 98
+##### Artikel 98
 
 Vervallen
 
-#### Artikel 99
+##### Artikel 99
 
 Vervallen
 
-#### Artikel 99a
+##### Artikel 99a
 
 Vervallen
 
@@ -610,7 +631,7 @@ Vervallen
 
 ### afdeeling Eerste. Van de uitgifte en den vorm van den wisselbrief
 
-#### Artikel 100
+##### Artikel 100
 
 De wisselbrief behelst:
 
@@ -630,7 +651,7 @@ De wisselbrief behelst:
 
 - 8°. de handteekening van dengene, die den wisselbrief uitgeeft (trekker).
 
-#### Artikel 101
+##### Artikel 101
 
 1. De titel, waarin ééne der vermeldingen, in het voorgaande artikel aangegeven, ontbreekt, geldt niet als wisselbrief, behoudens in de hieronder genoemde gevallen:
 
@@ -640,7 +661,7 @@ De wisselbrief behelst:
 
 4. De wisselbrief, welke niet de plaats aanwijst, waar hij is getrokken, wordt geacht te zijn onderteekend in de plaats, aangegeven naast den naam des trekkers.
 
-#### Artikel 102
+##### Artikel 102
 
 1. De wisselbrief kan aan de order van den trekker luiden.
 
@@ -648,7 +669,7 @@ De wisselbrief behelst:
 
 3. Hij kan worden getrokken voor rekening van eenen derde. De trekker wordt geacht voor zijne eigene rekening te hebben getrokken, indien uit den wisselbrief of uit den adviesbrief niet blijkt, voor wiens rekening zulks is geschied.
 
-#### Artikel 102a
+##### Artikel 102a
 
 1. Wanneer de trekker op den wisselbrief de vermelding "waarde ter incasseering", "ter incasso", "in lastgeving", of eenige andere vermelding met zich brengend een bloote opdracht tot inning, heeft geplaatst, kan de nemer alle uit den wisselbrief voortvloeiende rechten uitoefenen, maar hij kan dezen niet anders endosseeren dan bijwege van lastgeving.
 
@@ -656,11 +677,11 @@ De wisselbrief behelst:
 
 3. De opdracht, vervat in een incasso-wisselbrief, eindigt niet door den dood of de latere onbekwaamheid van den lastgever.
 
-#### Artikel 103
+##### Artikel 103
 
 Een wisselbrief kan betaalbaar zijn aan de woonplaats van eenen derde, hetzij in de plaats, waar de betrokkene zijn domicilie heeft, hetzij in een andere plaats.
 
-#### Artikel 104
+##### Artikel 104
 
 1. In eenen wisselbrief, betaalbaar op zicht of een zekeren tijd na zicht, kan de trekker bepalen, dat de som rente draagt. In elken anderen wisselbrief wordt deze clausule voor niet geschreven gehouden.
 
@@ -668,45 +689,45 @@ Een wisselbrief kan betaalbaar zijn aan de woonplaats van eenen derde, hetzij in
 
 3. De rente loopt te rekenen van de dagteekening van den wisselbrief, tenzij een andere dag is aangegeven.
 
-#### Artikel 105
+##### Artikel 105
 
 1. De wisselbrief, waarvan het bedrag voluit in letters en tevens in cijfers is geschreven, geldt, in geval van verschil, ten beloope van de som, voluit in letters geschreven.
 
 2. De wisselbrief, waarvan het bedrag meermalen is geschreven, hetzij voluit in letters, hetzij in cijfers, geldt, in geval van verschil, slechts ten beloope van de kleinste som.
 
-#### Artikel 106
+##### Artikel 106
 
 Indien de wisselbrief handteekeningen bevat van personen, die onbekwaam zijn zich door middel van eenen wisselbrief te verbinden, valsche handteekeningen, of handteekeningen van verdichte personen, of handteekeningen, welke, onverschillig om welke andere reden, de personen, die die handteekeningen hebben geplaatst of in wier naam zulks is geschied, niet kunnen verbinden, zijn de verbintenissen der andere personen, wier handteekeningen op den wisselbrief voorkomen, desniettemin geldig.
 
-#### Artikel 107
+##### Artikel 107
 
 Ieder, die zijne handteekening op eenen wisselbrief plaatst als vertegenwoordiger van eenen persoon, voor wien hij niet de bevoegdheid had te handelen, is zelf krachtens den wisselbrief verbonden, en heeft, betaald hebbende, dezelfde rechten, als de beweerde vertegenwoordigde zou hebben gehad. Hetzelfde geldt ten aanzien van den vertegenwoordiger, die zijne bevoegdheid heeft overschreden.
 
-#### Artikel 108
+##### Artikel 108
 
 1. De trekker staat in voor de acceptatie en voor de betaling.
 
 2. Hij kan zijne verplichting, voor de acceptatie in te staan, uitsluiten; elke clausule, waarbij hij de verplichting, voor de betaling in te staan, uitsluit, wordt voor niet-geschreven gehouden.
 
-#### Artikel 109
+##### Artikel 109
 
 Indien een wisselbrief, onvolledig ten tijde der uitgifte, is volledig gemaakt in strijd met de aangegane overeenkomsten, kan de niet-naleving van die overeenkomsten niet worden tegengeworpen aan den houder, die de wissel te goeder trouw heeft verkregen.
 
-#### Artikel 109a
+##### Artikel 109a
 
 De trekker is verplicht, ter keuze van den nemer, den wisselbrief te stellen betaalbaar aan den nemer zelven, of aan eenigen anderen persoon, in beide gevallen aan order of zonder bijvoeging van order dan wel met bijvoeging van eene uitdrukking, als bedoeld in [artikel 110, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Eerste&titeldeel=Zesde&afdeling=Tweede&artikel=110&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 109b
+##### Artikel 109b
 
 De trekker, of degene voor wiens rekening de wisselbrief is getrokken, is verplicht zorg te dragen, dat de betrokkene, ten vervaldage, in handen hebbe het noodige fonds tot betaling, zelfs indien de wisselbrief bij eenen derde is betaalbaar gesteld, met dien verstande echter, dat de trekker zelf in alle gevallen aan den houder en de vroegere endossanten persoonlijk verantwoordelijk blijft.
 
-#### Artikel 109c
+##### Artikel 109c
 
 De betrokkene wordt geacht, het noodige fonds in handen te hebben, indien hij bij het vervallen van den wisselbrief of op het tijdstip, waarop ingevolge het [derde lid van artikel 142](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Eerste&titeldeel=Zesde&afdeling=Zevende&artikel=142&z=2025-07-01&g=2025-07-01) de houder regres kan nemen, aan den trekker of aan dengene voor wiens rekening is getrokken, eene opeischbare som schuldig is, ten minste gelijkstaande met het beloop van den wisselbrief.
 
 ### afdeeling Tweede. Van het endossement
 
-#### Artikel 110
+##### Artikel 110
 
 1. Elke wisselbrief, ook die welke niet uitdrukkelijk aan order luidt, kan door middel van endossement worden overgedragen.
 
@@ -714,7 +735,7 @@ De betrokkene wordt geacht, het noodige fonds in handen te hebben, indien hij bi
 
 3. Het endossement kan worden gesteld zelfs ten voordeele van den betrokkene, al of niet acceptant, van den trekker, of van elken anderen wisselschuldenaar. Deze personen kunnen den wisselbrief opnieuw endosseeren.
 
-#### Artikel 111
+##### Artikel 111
 
 1. Het endossement moet onvoorwaardelijk zijn. Elke daarin opgenomen voorwaarde wordt voor niet-geschreven gehouden.
 
@@ -722,13 +743,13 @@ De betrokkene wordt geacht, het noodige fonds in handen te hebben, indien hij bi
 
 3. Het endossement aan toonder geldt als endossement in blanco.
 
-#### Artikel 112
+##### Artikel 112
 
 1. Het endossement moet worden gesteld op den wisselbrief of op een daaraan vastgehecht blad (verlengstuk). Het moet worden onderteekend door den endossant.
 
 2. Het endossement kan den geëndosseerde onvermeld laten of bestaan uit de enkele handteekening van den endossant (endossement in blanco). In het laatste geval moet het endossement, om geldig te zijn, op de rugzijde van den wisselbrief of op het verlengstuk worden gesteld.
 
-#### Artikel 113
+##### Artikel 113
 
 1. Door het endossement worden alle uit den wisselbrief voortvloeiende rechten overgedragen.
 
@@ -740,23 +761,23 @@ De betrokkene wordt geacht, het noodige fonds in handen te hebben, indien hij bi
 
 - 3°. den wisselbrief aan eenen derde overgeven, zonder het blanco in te vullen en zonder hem te endosseeren.
 
-#### Artikel 114
+##### Artikel 114
 
 1. Tenzij het tegendeel bedongen is, staat de endossant in voor de acceptatie en voor de betaling.
 
 2. Hij kan een nieuw endossement verbieden; in dat geval staat hij tegenover de personen, aan wie de wisselbrief later is geëndosseerd, niet in voor de acceptatie en voor de betaling.
 
-#### Artikel 115
+##### Artikel 115
 
 1. Hij, die eenen wisselbrief onder zich heeft, wordt beschouwd als de rechtmatige houder, indien hij van zijn recht doet blijken door een ononderbroken reeks van endossementen, zelfs indien het laatste endossement in blanco is gesteld. De doorgehaalde endossementen worden te dien aanzien voor niet geschreven gehouden. Wanneer een endossement in blanco door een ander endossement is gevolgd, wordt de onderteekenaar van dit laatste geacht den wisselbrief door een endossement in blanco verkregen te hebben.
 
 2. Indien iemand, op welke wijze dan ook, het bezit van den wisselbrief heeft verloren, is de houder, die van zijn recht doet blijken op de wijze, bij het voorgaande lid aangegeven, niet verplicht den wisselbrief af te geven, indien hij deze te goeder trouw heeft verkregen.
 
-#### Artikel 116
+##### Artikel 116
 
 Zij, die uit hoofde van den wisselbrief worden aangesproken, kunnen de verweermiddelen, gegrond op hun persoonlijke verhouding tot den trekker of tot vroegere houders, niet aan den houder tegenwerpen, tenzij deze bij de verkrijging van den wisselbrief desbewust ten nadeele van den schuldenaar heeft gehandeld.
 
-#### Artikel 117
+##### Artikel 117
 
 1. Wanneer het endossement de vermelding bevat: "waarde ter incasseering", "ter incasso", "in lastgeving", of eenige andere vermelding, met zich brengend een bloote opdracht tot inning, kan de houder alle uit den wisselbrief voortvloeiende rechten uitoefenen, maar hij kan dezen niet anders endosseeren dan bij wege van lastgeving.
 
@@ -764,13 +785,13 @@ Zij, die uit hoofde van den wisselbrief worden aangesproken, kunnen de verweermi
 
 3. De opdracht, vervat in een incasso-endossement, eindigt niet door den dood of door de latere onbekwaamheid van den lastgever.
 
-#### Artikel 118
+##### Artikel 118
 
 1. Wanneer een endossement de vermelding bevat: "waarde tot zekerheid", "waarde tot pand", of eenige andere vermelding, welke inpandgeving met zich brengt, kan de houder alle uit den wisselbrief voortvloeiende rechten uitoefenen, maar een door hem gesteld endossement geldt slechts als endossement bij wege van lastgeving.
 
 2. De wisselschuldenaren kunnen den houder de verweermiddelen, gegrond op hun persoonlijke verhouding tot den endossant, niet tegenwerpen, tenzij de houder bij de ontvangst van den wisselbrief desbewust ten nadeele van den schuldenaar heeft gehandeld.
 
-#### Artikel 119
+##### Artikel 119
 
 1. Een endossement, gesteld na den vervaldag, heeft dezelfde gevolgen als een endossement, gesteld vóór den vervaldag. Echter heeft het endossement, gesteld na het protest van non-betaling of na het verstrijken van den termijn, voor het opmaken van het protest bepaald, slechts de gevolgen eener gewone cessie.
 
@@ -778,11 +799,11 @@ Zij, die uit hoofde van den wisselbrief worden aangesproken, kunnen de verweermi
 
 ### afdeeling Derde. Van de acceptatie
 
-#### Artikel 120
+##### Artikel 120
 
 De wisselbrief kan tot den vervaldag door den houder of door iemand, die hem enkel onder zich heeft, aan den betrokkene te zijner woonplaats ter acceptatie worden aangeboden.
 
-#### Artikel 121
+##### Artikel 121
 
 1. In elken wisselbrief kan de trekker, al dan niet met vaststelling van een termijn, bepalen, dat deze ter acceptatie moet worden aangeboden.
 
@@ -792,7 +813,7 @@ De wisselbrief kan tot den vervaldag door den houder of door iemand, die hem enk
 
 4. Tenzij de trekker heeft verklaard, dat de wisselbrief niet vatbaar is voor acceptatie, kan elke endossant, al dan niet met vaststelling van eenen termijn, bepalen, dat hij ter acceptatie moet worden aangeboden.
 
-#### Artikel 122
+##### Artikel 122
 
 1. Wisselbrieven, betaalbaar een zekeren tijd na zicht, moeten ter acceptatie worden aangeboden binnen een jaar na hunne dagteekening.
 
@@ -800,41 +821,41 @@ De wisselbrief kan tot den vervaldag door den houder of door iemand, die hem enk
 
 3. De endossanten kunnen deze termijnen verkorten.
 
-#### Artikel 123
+##### Artikel 123
 
 1. De betrokkene kan verzoeken, dat hem een tweede aanbieding wordt gedaan den dag, volgende op de eerste. Belanghebbenden zullen zich er niet op mogen beroepen, dat aan dit verzoek geen gevolg is gegeven, tenzij het verzoek in het protest is vermeld.
 
 2. De houder is niet verplicht, den ter acceptatie aangeboden wisselbrief aan den betrokkene af te geven.
 
-#### Artikel 124
+##### Artikel 124
 
 1. De acceptatie wordt op den wisselbrief gesteld. Zij wordt uitgedrukt door het woord: "geaccepteerd", of door een soortgelijk woord; zij wordt door den betrokkene onderteekend. De enkele handteekening van den betrokkene, op de voorzijde van den wisselbrief gesteld, geldt als acceptatie.
 
 2. Wanneer de wisselbrief betaalbaar is een zekeren tijd na zicht, of wanneer hij krachtens een uitdrukkelijk beding ter acceptatie moet worden aangeboden binnen een bepaalden termijn, moet de acceptatie als dagteekening inhouden den dag, waarop zij is geschied, tenzij de houder dien van de aanbieding eischt. Bij gebreke van dagteekening moet de houder dit verzuim door een tijdig protest doen vaststellen, op straffe van verlies van zijn recht van regres op de endossanten en op den trekker, die fonds heeft bezorgd.
 
-#### Artikel 125
+##### Artikel 125
 
 1. De acceptatie is onvoorwaardelijk, maar de betrokkene kan haar beperken tot een gedeelte van de som.
 
 2. Elke andere wijziging, door den acceptant met betrekking tot het in den wisselbrief vermelde aangebracht, geldt als weigering van acceptatie. De acceptant is echter gehouden overeenkomstig den inhoud zijner acceptatie.
 
-#### Artikel 126
+##### Artikel 126
 
 1. Wanneer de trekker den wisselbrief op een andere plaats dan die van het domicilie des betrokkenen heeft betaalbaar gesteld, zonder eenen derde aan te wijzen, bij wien de betaling moet worden gedaan, kan de betrokkene dezen bij de acceptatie aanwijzen. Bij gebreke van zoodanige aanwijzing wordt de acceptant geacht zich verbonden te hebben zelf te betalen op de plaats van betaling.
 
 2. Indien de wisselbrief betaalbaar is aan het domicilie des betrokkenen, kan deze, in de acceptatie, een adres aanwijzen, in dezelfde plaats, waar de betaling moet worden gedaan.
 
-#### Artikel 127
+##### Artikel 127
 
 1. Door de acceptatie verbindt de betrokkene zich, den wisselbrief op den vervaldag te betalen.
 
 2. Bij gebreke van betaling heeft de houder, al ware hij de trekker, tegen den acceptant een rechtstreeksche vordering, uit den wisselbrief voortspruitend, voor al hetgeen kan worden gevorderd krachtens de [artikelen 147](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Eerste&titeldeel=Zesde&afdeling=Zevende&artikel=147&z=2025-07-01&g=2025-07-01) en [148](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Eerste&titeldeel=Zesde&afdeling=Zevende&artikel=148&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 127a
+##### Artikel 127a
 
 Hij, die het noodige fonds in handen heeft, bijzonderlijk bestemd tot de betaling van eenen getrokken wisselbrief, is, op straffe van schadevergoeding jegens den trekker, tot de acceptatie verplicht.
 
-#### Artikel 127b
+##### Artikel 127b
 
 1. Belofte om eenen wisselbrief te zullen accepteeren geldt niet als acceptatie, maar geeft aan den trekker eene rechtsvordering tot schadevergoeding tegen den belover, die weigert zijne belofte gestand te doen.
 
@@ -842,15 +863,15 @@ Hij, die het noodige fonds in handen heeft, bijzonderlijk bestemd tot de betalin
 
 3. Wanneer de trekking voor rekening van eenen derde was gedaan, bestaat de schade in de kosten van protest en herwissel, en in het beloop van hetgeen de trekker, uit hoofde van de bekomene toezegging van den belover, aan dien derde, op het crediet van den wisselbrief, heeft voorgeschoten.
 
-#### Artikel 127c
+##### Artikel 127c
 
 De trekker is verplicht aan den betrokkene tijdig kennis of advies te geven van den door hem getrokken wisselbrief, en, bij nalatigheid daarvan, gehouden tot vergoeding van de kosten, door weigering van acceptatie of betaling uit dien hoofde gevallen.
 
-#### Artikel 127d
+##### Artikel 127d
 
 Indien de wisselbrief voor rekening van eenen derde is getrokken, is deze alleen daarvoor aan den acceptant verbonden.
 
-#### Artikel 128
+##### Artikel 128
 
 1. Indien de betrokkene zijn op den wisselbrief gestelde acceptatie heeft doorgehaald vóór de teruggave van den wisselbrief, wordt de acceptatie geacht te zijn geweigerd. Behoudens tegenbewijs wordt de doorhaling geacht te zijn geschied vóór de teruggave van den wisselbrief.
 
@@ -858,13 +879,13 @@ Indien de wisselbrief voor rekening van eenen derde is getrokken, is deze alleen
 
 ### afdeeling Vierde. Van het aval
 
-#### Artikel 129
+##### Artikel 129
 
 1. De betaling van eenen wisselbrief kan voor het geheel of een gedeelte van de wisselsom door eenen borgtocht (aval) worden verzekerd.
 
 2. Deze borgtocht kan door eenen derde, of zelfs door iemand, wiens handteekening op den wisselbrief voorkomt, worden gegeven.
 
-#### Artikel 130
+##### Artikel 130
 
 1. Het aval wordt op den wisselbrief of op een verlengstuk gesteld.
 
@@ -876,7 +897,7 @@ Indien de wisselbrief voor rekening van eenen derde is getrokken, is deze alleen
 
 5. In het aval moet worden vermeld, voor wien het is gegeven. Bij gebreke hiervan wordt het geacht voor den trekker te zijn gegeven.
 
-#### Artikel 131
+##### Artikel 131
 
 1. De avalgever is op dezelfde wijze verbonden als degenen, voor wien het aval is gegeven.
 
@@ -886,7 +907,7 @@ Indien de wisselbrief voor rekening van eenen derde is getrokken, is deze alleen
 
 ### afdeeling Vijfde. Van den vervaldag
 
-#### Artikel 132
+##### Artikel 132
 
 1. Een wisselbrief kan worden getrokken:
 
@@ -900,19 +921,19 @@ op een bepaalden dag.
 
 2. Wisselbrieven met anders bepaalde vervaldagen of in termijnen betaalbaar zijn nietig.
 
-#### Artikel 133
+##### Artikel 133
 
 1. De wisselbrief, getrokken op zicht, is betaalbaar bij de aanbieding. Hij moet ter betaling worden aangeboden binnen een jaar na zijne dagteekening. De trekker kan dezen termijn verkorten of verlengen. De endossanten kunnen deze termijnen verkorten.
 
 2. De trekker kan voorschrijven, dat een wisselbrief niet ter betaling mag worden aangeboden vóór een bepaalden dag. In dat geval loopt de termijn van aanbieding van dien dag af.
 
-#### Artikel 134
+##### Artikel 134
 
 1. De vervaldag van eenen wisselbrief, getrokken op een zekeren tijd na zicht, wordt bepaald, hetzij door de dagteekening der acceptatie, hetzij door die van het protest.
 
 2. Bij gebreke van protest wordt de niet-gedagteekende acceptatie ten aanzien van den acceptant geacht te zijn gedaan op den laatsten dag van den termijn, voor de aanbieding ter acceptatie voorgeschreven.
 
-#### Artikel 135
+##### Artikel 135
 
 1. De wisselbrief, getrokken op een of meer maanden na dagteekening of na zicht, vervalt op den overeenkomstigen dag van de maand, waarin de betaling moet worden gedaan. Bij gebreke van een overeenkomstigen dag vervalt een zoodanige wisselbrief op den laatsten dag van die maand.
 
@@ -924,7 +945,7 @@ op een bepaalden dag.
 
 5. De uitdrukking "halve maand" duidt eenen termijn van vijftien dagen aan.
 
-#### Artikel 136
+##### Artikel 136
 
 1. De vervaldag van eenen wisselbrief, betaalbaar op een bepaalden dag, in eene plaats, waar de tijdrekening een andere is dan die van de plaats van uitgifte, wordt geacht te zijn vastgesteld volgens de tijdrekening van de plaats van betaling.
 
@@ -936,13 +957,13 @@ op een bepaalden dag.
 
 ### afdeeling Zesde. Van de betaling
 
-#### Artikel 137
+##### Artikel 137
 
 1. De houder van eenen wisselbrief, betaalbaar op een bepaalden dag of een zekeren tijd na dagteekening of na zicht, moet dezen ter betaling aanbieden, hetzij den dag, waarop hij betaalbaar is, hetzij eenen der twee daaropvolgende werkdagen.
 
 2. De aanbieding van eenen wisselbrief aan eene verrekeningskamer geldt als aanbieding ter betaling. Bij algemeenen maatregel van bestuur zullen de instellingen worden aangewezen, die in den zin van dezen Titel als verrekeningskamers worden beschouwd.
 
-#### Artikel 138
+##### Artikel 138
 
 1. Buiten het geval, in [artikel 167b](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Eerste&titeldeel=Zesde&afdeling=Negende&paragraaf=3&artikel=167b&z=2025-07-01&g=2025-07-01) vermeld, kan de betrokkene, den wisselbrief betalende, vorderen, dat hem deze, van behoorlijke kwijting van den houder voorzien, wordt uitgeleverd.
 
@@ -950,7 +971,7 @@ op een bepaalden dag.
 
 3. In geval van gedeeltelijke betaling kan de betrokkene vorderen, dat van die betaling op den wisselbrief melding wordt gemaakt en dat hem daarvoor kwijting wordt gegeven.
 
-#### Artikel 139
+##### Artikel 139
 
 1. De houder van eenen wisselbrief kan niet genoodzaakt worden, vóór den vervaldag betaling te ontvangen.
 
@@ -960,7 +981,7 @@ op een bepaalden dag.
 
 4. Indien hij, niet bevrijdend betaald hebbende, verplicht wordt, ten tweede male te betalen, heeft hij verhaal op allen die de wissel niet te goeder trouw hebben verkregen.
 
-#### Artikel 140
+##### Artikel 140
 
 1. Een wisselbrief, waarvan de betaling is bedongen in ander geld dan dat van de plaats van betaling, kan worden betaald in het geld van het land volgens zijne waarde op den vervaldag. Indien de schuldenaar in gebreke is, kan de houder te zijner keuze vorderen, dat de wisselsom betaald wordt in het geld van het land volgens den koers, hetzij van den vervaldag, hetzij van den dag van betaling.
 
@@ -970,13 +991,13 @@ op een bepaalden dag.
 
 4. Indien het bedrag van den wisselbrief is aangegeven in geld, hetwelk dezelfde benaming, maar eene verschillende waarde heeft in het land van uitgifte en in dat van betaling, wordt men vermoed het geld van de plaats van betaling te hebben bedoeld.
 
-#### Artikel 141
+##### Artikel 141
 
 Bij gebreke van aanbieding ter betaling van den wisselbrief binnen den termijn, bij [artikel 137](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Eerste&titeldeel=Zesde&afdeling=Zesde&artikel=137&z=2025-07-01&g=2025-07-01) vastgesteld, heeft elke schuldenaar de bevoegdheid, het bedrag te bevoegder plaatse in consignatie te geven, op kosten en onder verantwoordelijkheid van den houder.
 
 ### afdeeling Zevende. Van het recht van regres in geval van non-acceptatie of non-betaling
 
-#### Artikel 142
+##### Artikel 142
 
 1. De houder kan zijn recht van regres op de endossanten, den trekker en de andere wisselschuldenaren uitoefenen:
 
@@ -992,7 +1013,7 @@ indien de betaling niet heeft plaats gehad;
 
 - 3°. in geval van faillissement van den trekker of het ten aanzien van hem van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen van een niet voor acceptatie vatbaren wisselbrief.
 
-#### Artikel 143
+##### Artikel 143
 
 1. De weigering van acceptatie of van betaling moet worden vastgesteld bij authentieke acte (protest van non-acceptatie of van non-betaling).
 
@@ -1008,7 +1029,7 @@ indien de betaling niet heeft plaats gehad;
 
 7. Het zesde lid is van overeenkomstige toepassing indien de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard.
 
-#### Artikel 143a
+##### Artikel 143a
 
 1. De betaling van eenen wisselbrief moet gevraagd en het daarop volgende protest gedaan worden ter woonplaats van den betrokkene.
 
@@ -1016,7 +1037,7 @@ indien de betaling niet heeft plaats gehad;
 
 3. [Artikel 54 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=54) is van overeenkomstige toepassing.
 
-#### Artikel 143b
+##### Artikel 143b
 
 1. De protesten, zowel van non-acceptatie als van non-betaling, worden gedaan door een deurwaarder. Deze kan zich desverkiezende doen vergezellen door een of twee getuigen.
 
@@ -1034,15 +1055,15 @@ indien de betaling niet heeft plaats gehad;
 
 3. Indien het protest een vermisten wisselbrief betreft, volstaat, in plaats van het bepaalde onder 1°. van het voorgaande lid, eene zoo nauwkeurig mogelijke omschrijving van den inhoud des wisselbriefs.
 
-#### Artikel 143c
+##### Artikel 143c
 
 De deurwaarders zijn verplicht, op straffe van schadevergoeding, afschrift van het protest te laten, en hiervan melding in het afschrift te maken, en hetzelve, naar orde des tijds, in te schrijven in een bijzonder register, genommerd en gewaarmerkt door de kantonrechter van de rechtbank van het arrondissement waarin hun woonplaats is gelegen, en om wijders, zulks begeerd wordende, een of meer afschriften van het protest aan de belanghebbenden te leveren.
 
-#### Artikel 143d
+##### Artikel 143d
 
 Als protest van non-acceptatie, onderscheidenlijk van non-betaling geldt de door dengene, aan wien de acceptatie of de betaling wordt afgevraagd, met toestemming van den houder op den wisselbrief gestelde, gedagteekende en onderteekende verklaring, dat hij dezelve weigert, tenzij de trekker heeft aangeteekend, dat hij een authentiek protest verlangt.
 
-#### Artikel 144
+##### Artikel 144
 
 1. De houder moet van de non-acceptatie of van de non-betaling kennis geven aan zijnen endossant en aan den trekker binnen de vier werkdagen, volgende op den dag van het protest of, indien de wisselbrief getrokken is met de clausule zonder kosten, volgende op dien der aanbieding. Elke endossant moet binnen de twee werkdagen, volgende op den dag van ontvangst der kennisgeving, de door hem ontvangen kennisgeving aan zijnen endossant mededeelen, met aanwijzing van de namen en adressen van degenen, die de voorafgaande kennisgevingen hebben gedaan, en zoo vervolgens, teruggaande tot den trekker. Deze termijnen loopen van de ontvangst der voorafgaande kennisgeving af.
 
@@ -1056,7 +1077,7 @@ Als protest van non-acceptatie, onderscheidenlijk van non-betaling geldt de door
 
 6. Hij, die de kennisgeving niet binnen den bovenvermelden termijn doet, stelt zich niet bloot aan verval van zijn recht; hij is, indien daartoe aanleiding bestaat, verantwoordelijk voor de schade, door zijne nalatigheid veroorzaakt, zonder dat echter de schadevergoeding de wisselsom kan te boven gaan.
 
-#### Artikel 145
+##### Artikel 145
 
 1. De trekker, een endossant of een avalgever kan, door de clausule "zonder kosten", "zonder protest", of een andere soortgelijke op den wisselbrief gestelde en onderteekende clausule, den houder van het opmaken van een protest van non-acceptatie of van non-betaling, ter uitoefening van zijn recht van regres, ontslaan.
 
@@ -1064,7 +1085,7 @@ Als protest van non-acceptatie, onderscheidenlijk van non-betaling geldt de door
 
 3. Is de clausule door den trekker gesteld, dan heeft zij gevolgen ten aanzien van allen, wier handteekeningen op den wisselbrief voorkomen; is zij door eenen endossant of door eenen avalgever gesteld, dan heeft zij gevolgen alleen voor dezen endossant of avalgever. Indien de houder, ondanks de door den trekker gestelde clausule, toch protest doet opmaken, zijn de kosten daarvan voor zijne rekening. Indien de clausule van eenen endossant of eenen avalgever afkomstig is, kunnen de kosten van het protest, indien dit is opgemaakt, op allen, wier handteekeningen op den wisselbrief voorkomen, worden verhaald.
 
-#### Artikel 146
+##### Artikel 146
 
 1. Allen, die eenen wisselbrief hebben getrokken, geaccepteerd, geëndosseerd, of voor aval geteekend, zijn hoofdelijk tegenover den houder verbonden. Bovendien is ook de derde, voor wiens rekening de wisselbrief is getrokken en die de waarde daarvoor heeft genoten, jegens den houder aansprakelijk.
 
@@ -1074,7 +1095,7 @@ Als protest van non-acceptatie, onderscheidenlijk van non-betaling geldt de door
 
 4. De vordering, ingesteld tegen éénen der wisselschuldenaren, belet niet de anderen aan te spreken, al hadden dezen zich later verbonden dan de eerst aangesprokene.
 
-#### Artikel 146a
+##### Artikel 146a
 
 1. De houder van eenen geprotesteerden wisselbrief heeft in geen geval eenig recht op het fonds, dat de betrokkene van den trekker in handen heeft.
 
@@ -1082,7 +1103,7 @@ Als protest van non-acceptatie, onderscheidenlijk van non-betaling geldt de door
 
 3. In geval van acceptatie, blijft het fonds, tot het beloop van den wisselbrief, aan den betrokkene, behoudens de verplichting van dezen om jegens den houder aan zijne acceptatie te voldoen.
 
-#### Artikel 147
+##### Artikel 147
 
 1. De houder kan van dengene, tegen wien hij zijn recht van regres uitoefent, vorderen:
 
@@ -1094,7 +1115,7 @@ Als protest van non-acceptatie, onderscheidenlijk van non-betaling geldt de door
 
 2. Zoo de uitoefening van het recht van regres vóór den vervaldag plaats heeft, wordt op de wisselsom eene korting toegepast. Deze korting wordt berekend volgens het officiëele disconto (bankdisconto), geldende ter woonplaats van den houder, op den dag van de uitoefening van het recht van regres.
 
-#### Artikel 148
+##### Artikel 148
 
 Hij, die ter voldoening aan zijnen regresplicht den wisselbrief heeft betaald, kan van degenen, die tegenover hem regresplichtig zijn, vorderen:
 
@@ -1104,17 +1125,17 @@ Hij, die ter voldoening aan zijnen regresplicht den wisselbrief heeft betaald, k
 
 - 3°. de door hem gemaakte kosten.
 
-#### Artikel 149
+##### Artikel 149
 
 1. Elke wisselschuldenaar, tegen wien het recht van regres wordt of kan worden uitgeoefend, kan, tegen betaling ter voldoening aan zijnen regresplicht, de afgifte vorderen van den wisselbrief met het protest, alsmede een voor voldaan geteekende rekening.
 
 2. Elke endossant, die ter voldoening aan zijnen regresplicht den wisselbrief heeft betaald, kan zijn endossement en dat van de volgende endossanten doorhalen.
 
-#### Artikel 150
+##### Artikel 150
 
 Bij gedeeltelijke acceptatie kan degene, die ter voldoening aan zijnen regresplicht het niet geaccepteerde gedeelte van de wisselsom heeft betaald, vorderen, dat die betaling op den wisselbrief wordt vermeld en dat hem daarvan kwijting wordt gegeven. De houder moet hem daarenboven uitleveren een voor eensluidend geteekend afschrift van den wisselbrief, alsmede het protest, om hem de uitoefening van zijn verdere regresrechten mogelijk te maken.
 
-#### Artikel 151
+##### Artikel 151
 
 1. Ieder, die een recht van regres kan uitoefenen, kan, tenzij het tegendeel bedongen is, zich de vergoeding bezorgen door middel van een nieuwen wisselbrief (herwissel), getrokken op zicht op éénen van degenen, die tegenover hem regresplichtig zijn en betaalbaar te diens woonplaats.
 
@@ -1122,7 +1143,7 @@ Bij gedeeltelijke acceptatie kan degene, die ter voldoening aan zijnen regrespli
 
 3. Indien de herwissel door den houder is getrokken, wordt het bedrag bepaald volgens den koers van eenen zichtwissel, getrokken van de plaats, waar de oorspronkelijke wisselbrief betaalbaar was, op de woonplaats van den regresplichtige. Indien de herwissel is getrokken door eenen endossant, wordt het bedrag bepaald volgens den koers van eenen zichtwissel, getrokken van de woonplaats van den trekker van den herwissel op de woonplaats van den regresplichtige.
 
-#### Artikel 152
+##### Artikel 152
 
 1. Na afloop van de termijnen vastgesteld:
 
@@ -1138,13 +1159,13 @@ vervalt het recht van den houder tegen de endossanten, tegen den trekker, en teg
 
 3. Indien de bepaling van eenen termijn voor de aanbieding in een endossement is vervat, kan alleen de endossant daarop een beroep doen.
 
-#### Artikel 152a
+##### Artikel 152a
 
 1. De wisselbrief van non-acceptatie of van non-betaling zijnde geprotesteerd, is niettemin de trekker, al ware het protest niet intijds gedaan, tot vrijwaring gehouden, tenzij hij bewees, dat de betrokkene op den vervaldag het noodige fonds tot betaling des wisselbriefs in handen had. Indien het vereischte fonds slechts gedeeltelijk aanwezig was, is de trekker voor het ontbrekende gehouden.
 
 2. Was de wisselbrief niet geaccepteerd, dan is, ingeval van niet tijdig protest, de trekker, op straffe van tot vrijwaring te zijn gehouden, verplicht, den houder af te staan en over te dragen de vordering op het fonds, dat de betrokkene van hem ten vervaldage heeft in handen gehad, en zulks tot het beloop van den wisselbrief; en hij moet aan den houder, te diens koste, de noodige bewijzen verschaffen om die vordering te doen gelden. Indien de trekker in staat van faillissement is verklaard of ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, zijn de curatoren onderscheidenlijk de bewindvoerders in zijnen boedel tot dezelfde verplichtingen gehouden, ten ware deze mochten verkiezen, den houder als schuldeischer, voor het beloop van den wisselbrief, toe te laten.
 
-#### Artikel 153
+##### Artikel 153
 
 1. Wanneer de aanbieding van den wisselbrief of het opmaken van het protest binnen de voorgeschreven termijnen wordt verhinderd door een onoverkomelijk beletsel (wettelijk voorschrift van eenigen Staat of ander geval van overmacht), worden deze termijnen verlengd.
 
@@ -1162,7 +1183,7 @@ vervalt het recht van den houder tegen de endossanten, tegen den trekker, en teg
 
 #### 1. Algemeene bepalingen
 
-#### Artikel 154
+##### Artikel 154
 
 1. De trekker, een endossant, of een avalgever, kan iemand aanwijzen om, in geval van nood, te accepteeren of te betalen.
 
@@ -1174,7 +1195,7 @@ vervalt het recht van den houder tegen de endossanten, tegen den trekker, en teg
 
 #### 2. Acceptatie bij tusschenkomst
 
-#### Artikel 155
+##### Artikel 155
 
 1. De acceptatie bij tusschenkomst kan plaats hebben in alle gevallen, waarin de houder van eenen voor acceptatie vatbaren wisselbrief vóór den vervaldag recht van regres kan uitoefenen.
 
@@ -1182,11 +1203,11 @@ vervalt het recht van den houder tegen de endossanten, tegen den trekker, en teg
 
 3. In de andere gevallen van tusschenkomst kan de houder de acceptatie bij tusschenkomst weigeren. Indien hij haar echter aanneemt, verliest hij zijn recht van regres, hetwelk hem vóór den vervaldag toekomt tegen dengene, voor wien de acceptatie is gedaan, en tegen hen, die daarna hunne handteekeningen op den wisselbrief hebben geplaatst.
 
-#### Artikel 156
+##### Artikel 156
 
 De acceptatie bij tusschenkomst wordt op den wisselbrief vermeld; zij wordt door den interveniënt onderteekend. Zij wijst aan, voor wien zij is geschied; bij gebreke van die aanwijzing wordt zij geacht voor den trekker te zijn geschied.
 
-#### Artikel 157
+##### Artikel 157
 
 1. De acceptant bij tusschenkomst is tegenover den houder en tegenover de endossanten, die den wisselbrief hebben geëndosseerd na dengene, voor wien de tusschenkomst is geschied, op dezelfde wijze als deze laatste verbonden.
 
@@ -1194,7 +1215,7 @@ De acceptatie bij tusschenkomst wordt op den wisselbrief vermeld; zij wordt door
 
 #### 3. Betaling bij tusschenkomst
 
-#### Artikel 158
+##### Artikel 158
 
 1. De betaling bij tusschenkomst kan plaats hebben in alle gevallen, waarin, hetzij op den vervaldag, hetzij vóór den vervaldag, de houder recht van regres heeft.
 
@@ -1202,23 +1223,23 @@ De acceptatie bij tusschenkomst wordt op den wisselbrief vermeld; zij wordt door
 
 3. Zij moet plaats hebben uiterlijk op den dag volgende op den laatsten dag, waarop het protest van non-betaling kan worden opgemaakt.
 
-#### Artikel 159
+##### Artikel 159
 
 1. Indien de wisselbrief is geaccepteerd door interveniënten, wier domicilie ter plaatse van betaling is gevestigd, of indien personen, wier domicilie in dezelfde plaats is gevestigd, zijn aangeduid om in geval van nood te betalen, moet de houder den wisselbrief aan al die personen aanbieden, en, indien daartoe aanleiding bestaat, protest van non-betaling doen opmaken uiterlijk op den dag volgende op den laatsten dag, waarop dit kan geschieden.
 
 2. Bij gebreke van protest binnen dien termijn zijn degene, die het noodadres heeft gesteld of voor wien de wisselbrief is geaccepteerd, en de latere endossanten van hunne verbintenis bevrijd.
 
-#### Artikel 160
+##### Artikel 160
 
 De houder, die weigert de betaling bij tusschenkomst aan te nemen, verliest zijn recht van regres op hen, die daardoor zouden zijn bevrijd.
 
-#### Artikel 161
+##### Artikel 161
 
 1. De betaling bij tusschenkomst moet worden vastgesteld door eene kwijting, geplaatst op den wisselbrief met aanwijzing van dengene, voor wien zij is gedaan. Bij gebreke van die aanwijzing wordt de betaling geacht voor den trekker te zijn gedaan.
 
 2. De wisselbrief en het protest, indien dit is opgemaakt, moeten worden uitgeleverd aan hem, die bij tusschenkomst betaalt.
 
-#### Artikel 162
+##### Artikel 162
 
 1. Hij, die bij tusschenkomst betaalt, verkrijgt de rechten, uit den wisselbrief voortvloeiende, tegen dengene, voor wien hij heeft betaald, en tegen degenen, die tegenover dezen laatste krachtens den wisselbrief verbonden zijn. Hij mag echter den wisselbrief niet opnieuw endosseeren.
 
@@ -1230,7 +1251,7 @@ De houder, die weigert de betaling bij tusschenkomst aan te nemen, verliest zijn
 
 #### 1. Wisselexemplaren
 
-#### Artikel 163
+##### Artikel 163
 
 1. De wisselbrief kan in meer gelijkluidende exemplaren worden getrokken.
 
@@ -1238,13 +1259,13 @@ De houder, die weigert de betaling bij tusschenkomst aan te nemen, verliest zijn
 
 3. Iedere houder van eenen wisselbrief, waarin niet is vermeld, dat deze in een enkel exemplaar getrokken is, kan op zijne kosten de levering van meer exemplaren vorderen. Te dien einde moet hij zich tot zijn onmiddellijken endossant wenden, die verplicht is zijne medewerking te verleenen om zijn eigen endossant aan te spreken, en zoo vervolgens, teruggaande tot den trekker. De endossanten zijn verplicht, de endossementen ook op de nieuwe exemplaren aan te brengen.
 
-#### Artikel 164
+##### Artikel 164
 
 1. De betaling, op één der exemplaren gedaan, bevrijdt, ook al ware niet bedongen, dat die betaling de kracht der andere exemplaren te niet doet. Echter blijft de betrokkene verbonden wegens elk geaccepteerd exemplaar, dat hem niet is uitgeleverd.
 
 2. De endossant, die de exemplaren aan verschillende personen heeft overgedragen, alsook de latere endossanten, zijn verbonden wegens alle exemplaren, die hunne handteekening dragen en die niet zijn uitgeleverd.
 
-#### Artikel 165
+##### Artikel 165
 
 1. Hij, die één der exemplaren ter acceptatie heeft gezonden, moet op de andere exemplaren den naam van den persoon aanwijzen, in wiens handen dat exemplaar zich bevindt. Deze is verplicht, dit aan den rechtmatigen houder van een ander exemplaar uit te leveren.
 
@@ -1256,7 +1277,7 @@ De houder, die weigert de betaling bij tusschenkomst aan te nemen, verliest zijn
 
 #### 2. Wisselafschriften
 
-#### Artikel 166
+##### Artikel 166
 
 1. Elke houder van eenen wisselbrief heeft het recht, daarvan afschriften te vervaardigen.
 
@@ -1264,7 +1285,7 @@ De houder, die weigert de betaling bij tusschenkomst aan te nemen, verliest zijn
 
 3. Het kan worden geëndosseerd en voor aval geteekend op dezelfde wijze en met dezelfde gevolgen, als het oorspronkelijke.
 
-#### Artikel 167
+##### Artikel 167
 
 1. Het afschrift moet dengene, in wiens handen het oorspronkelijke stuk zich bevindt, vermelden. Deze is verplicht het oorspronkelijke stuk aan den rechtmatigen houder van het afschrift uit te leveren.
 
@@ -1274,27 +1295,27 @@ De houder, die weigert de betaling bij tusschenkomst aan te nemen, verliest zijn
 
 #### 3. Vermiste wisselbrieven
 
-#### Artikel 167a
+##### Artikel 167a
 
 Degene die een wisselbrief, waarvan hij houder was, vermist, kan met inachtneming van [artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=49) van de betrokkene betaling vragen.
 
-#### Artikel 167b
+##### Artikel 167b
 
 Degene die een wisselbrief waarvan hij houder was, en welke is vervallen, en, zoveel nodig, geprotesteerd, vermist, kan met inachtneming van [artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=49), zijn rechten alleen tegen de acceptant en tegen de trekker uitoefenen.
 
 ### afdeeling Tiende. Van veranderingen
 
-#### Artikel 168
+##### Artikel 168
 
 In geval van verandering van den tekst van eenen wisselbrief, zijn zij, die daarna hunne handteekeningen op den wisselbrief geplaatst hebben, volgens den veranderden tekst verbonden; zij, die daarvoor hunne handteekeningen op den wisselbrief geplaatst hebben, zijn verbonden volgens den oorspronkelijken tekst.
 
 ### afdeeling Elfde. Van verjaring
 
-#### Artikel 168a
+##### Artikel 168a
 
 Behoudens de bepaling van het volgende artikel gaat wisselschuld te niet door alle middelen van schuldbevrijding, bij het Burgerlijk Wetboek aangewezen.
 
-#### Artikel 169
+##### Artikel 169
 
 1. Alle rechtsvorderingen, welke uit den wisselbrief tegen den acceptant voortspruiten, verjaren door een tijdsverloop van drie jaren, te rekenen van den vervaldag.
 
@@ -1304,7 +1325,7 @@ Behoudens de bepaling van het volgende artikel gaat wisselschuld te niet door al
 
 4. De in het eerste lid bedoelde verjaring kan niet worden ingeroepen door den acceptant, indien of voor zoover hij fonds heeft ontvangen of zich ongerechtvaardigd zou hebben verrijkt; evenmin kan de in het tweede en derde lid bedoelde verjaring worden ingeroepen door den trekker, indien of voor zoover hij geen fonds heeft bezorgd noch door den trekker of de endossanten, die zich ongerechtvaardigd zouden hebben verrijkt; alles onverminderd het bepaalde in [artikel 306 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=306).
 
-#### Artikel 170
+##### Artikel 170
 
 1. De stuiting der verjaring is slechts van kracht tegen dengene, ten aanzien van wien de stuitingshandeling heeft plaats gehad.
 
@@ -1312,27 +1333,27 @@ Behoudens de bepaling van het volgende artikel gaat wisselschuld te niet door al
 
 ### afdeeling Twaalfde. Algemene bepalingen
 
-#### Artikel 171
+##### Artikel 171
 
 1. De betaling van eenen wisselbrief, waarvan de vervaldag een wettelijke feestdag is, kan eerst worden gevorderd op den eerstvolgenden werkdag. Evenzoo kunnen alle andere handelingen met betrekking tot wisselbrieven, met name de aanbieding ter acceptatie en het protest, niet plaats hebben dan op eenen werkdag.
 
 2. Wanneer ééne van die handelingen moet worden verricht binnen een zekeren termijn, waarvan de laatste dag een wettelijke feestdag is, wordt deze termijn verlengd tot den eersten werkdag, volgende op het einde van dien termijn. De tusschenliggende feestdagen zijn begrepen in de berekening van den termijn.
 
-#### Artikel 171a
+##### Artikel 171a
 
 Als wettelijke feestdag in den zin van deze Afdeeling worden beschouwd de Zondag, de Nieuwjaarsdag, de Christelijke tweede Paasch- en Pinksterdagen, de beide Kerstdagen, de Hemelvaartsdag en de verjaardag van de Koning.
 
-#### Artikel 172
+##### Artikel 172
 
 In de wettelijke of bij overeenkomst vastgestelde termijnen is niet begrepen de dag, waarop deze termijnen beginnen te loopen.
 
-#### Artikel 173
+##### Artikel 173
 
 Geen enkele respijtdag, noch wettelijke, noch rechterlijke, is toegestaan.
 
 ### afdeeling Dertiende. Van orderbriefjes
 
-#### Artikel 174
+##### Artikel 174
 
 Het orderbriefje behelst:
 
@@ -1350,7 +1371,7 @@ Het orderbriefje behelst:
 
 - 7°. de handteekening van hem, die den titel uitgeeft (onderteekenaar).
 
-#### Artikel 175
+##### Artikel 175
 
 1. De titel, waarin ééne der vermeldingen, in het voorgaande artikel aangegeven, ontbreekt, geldt niet als orderbriefje, behoudens in de hieronder genoemde gevallen.
 
@@ -1360,7 +1381,7 @@ Het orderbriefje behelst:
 
 4. Het orderbriefje, dat de plaats van zijne onderteekening niet vermeldt, wordt geacht te zijn onderteekend in de plaats, aangegeven naast den naam van den onderteekenaar.
 
-#### Artikel 176
+##### Artikel 176
 
 1. Voor zooverre zij niet onvereenigbaar zijn met den aard van het orderbriefje, zijn daarop toepasselijk de bepalingen over wisselbrieven betreffende:
 
@@ -1388,7 +1409,7 @@ de feestdagen, de berekening der termijnen en het verbod van respijtdagen ([arti
 
 3. Eveneens zijn op het orderbriefje toepasselijk de bepalingen betreffende het aval ([artikelen 129-131](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Eerste&titeldeel=Zesde&afdeling=Vierde&artikel=129&z=2025-07-01&g=2025-07-01)); indien overeenkomstig hetgeen is bepaald bij [artikel 130, laatste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Eerste&titeldeel=Zesde&afdeling=Vierde&artikel=130&z=2025-07-01&g=2025-07-01), het aval niet vermeldt, voor wien het is gegeven, wordt het geacht voor rekening van den onderteekenaar van het orderbriefje te zijn gegeven.
 
-#### Artikel 177
+##### Artikel 177
 
 1. De onderteekenaar van een orderbriefje is op dezelfde wijze verbonden als de acceptant van eenen wisselbrief.
 
@@ -1398,7 +1419,7 @@ de feestdagen, de berekening der termijnen en het verbod van respijtdagen ([arti
 
 ### afdeeling Eerste. Van de uitgifte en den vorm van de chèque
 
-#### Artikel 178
+##### Artikel 178
 
 De chèque behelst:
 
@@ -1414,7 +1435,7 @@ De chèque behelst:
 
 - 6°. de handteekening van dengene, die de chèque uitgeeft (trekker).
 
-#### Artikel 179
+##### Artikel 179
 
 1. De titel, waarin ééne der vermeldingen, in het voorgaande artikel aangegeven, ontbreekt, geldt niet als chèque, behoudens in de hieronder genoemde gevallen.
 
@@ -1424,15 +1445,15 @@ De chèque behelst:
 
 4. De chèque, welke niet de plaats aanwijst, waar zij is getrokken, wordt geacht te zijn onderteekend in de plaats, aangegeven naast den naam des trekkers.
 
-#### Artikel 180
+##### Artikel 180
 
 De chèque moet worden getrokken op eenen bankier, die fonds onder zich heeft ter beschikking van den trekker, en krachtens een uitdrukkelijke of stilzwijgende overeenkomst, volgens welke de trekker het recht heeft per chèque over dat fonds te beschikken. In geval van niet-inachtneming van die voorschriften blijft de titel echter als chèque geldig.
 
-#### Artikel 181
+##### Artikel 181
 
 De chèque kan niet worden geaccepteerd. Eene vermelding van acceptatie, op de chèque gesteld, wordt voor niet geschreven gehouden.
 
-#### Artikel 182
+##### Artikel 182
 
 1. De chèque kan betaalbaar worden gesteld:
 
@@ -1446,7 +1467,7 @@ aan toonder.
 
 3. De chèque zonder vermelding van den nemer geldt als chèque aan toonder.
 
-#### Artikel 183
+##### Artikel 183
 
 1. De chèque kan aan de order van den trekker luiden.
 
@@ -1454,7 +1475,7 @@ aan toonder.
 
 3. De chèque kan op den trekker zelf getrokken worden.
 
-#### Artikel 183a
+##### Artikel 183a
 
 1. Wanneer de trekker op de chèque de vermelding "waarde ter incasseering", "ter incasso", "in lastgeving" of eenige andere vermelding, met zich brengend een bloote opdracht tot inning, heeft geplaatst, kan de nemer alle uit de chèque voortvloeiende rechten uitoefenen, maar hij kan deze niet anders overdragen dan bijwege van lastgeving.
 
@@ -1462,47 +1483,47 @@ aan toonder.
 
 3. De opdracht, vervat in een incasso-chèque, eindigt niet door dood of latere onbekwaamheid van den lastgever.
 
-#### Artikel 184
+##### Artikel 184
 
 Eene in de chèque opgenomen renteclausule wordt voor niet geschreven gehouden.
 
-#### Artikel 185
+##### Artikel 185
 
 De chèque kan betaalbaar zijn aan de woonplaats van eenen derde, hetzij in de plaats, waar de betrokkene zijn domicilie heeft, hetzij in een andere plaats.
 
-#### Artikel 186
+##### Artikel 186
 
 1. De chèque, waarvan het bedrag voluit in letters en tevens in cijfers is geschreven, geldt, in geval van verschil, ten beloope van de som, voluit in letters geschreven.
 
 2. De chèque, waarvan het bedrag meermalen is geschreven, hetzij voluit in letters, hetzij in cijfers, geldt, in geval van verschil, slechts ten beloope van de kleinste som.
 
-#### Artikel 187
+##### Artikel 187
 
 Indien de chèque handteekeningen bevat van personen, die onbekwaam zijn zich door middel van een chèque te verbinden, valsche handteekeningen of handteekeningen van verdichte personen, of handteekeningen, welke, onverschillig om welke andere reden, de personen, die die handteekeningen hebben geplaatst of in wier naam zulks is geschied, niet kunnen verbinden, zijn de verbintenissen der andere personen, wier handteekeningen op de chèque voorkomen, desniettemin geldig.
 
-#### Artikel 188
+##### Artikel 188
 
 Ieder, die zijne handteekening op eene chèque plaatst als vertegenwoordiger van eenen persoon, voor wien hij niet de bevoegdheid had te handelen, is zelf krachtens de chèque verbonden, en heeft, betaald hebbende, dezelfde rechten, als de beweerde vertegenwoordigde zou hebben gehad. Hetzelfde geldt ten aanzien van den vertegenwoordiger, die zijne bevoegdheid heeft overschreden.
 
-#### Artikel 189
+##### Artikel 189
 
 De trekker staat in voor de betaling. Elke clausule, waarbij hij deze verplichting uitsluit, wordt voor niet geschreven gehouden.
 
-#### Artikel 190
+##### Artikel 190
 
 Indien eene chèque, onvolledig ten tijde der uitgifte, is volledig gemaakt in strijd met de aangegane overeenkomsten, kan de niet-naleving van die overeenkomsten niet worden tegengeworpen aan den houder, die de cheque te goeder trouw heeft verkregen.
 
-#### Artikel 190a
+##### Artikel 190a
 
 De trekker, of degene voor wiens rekening de chèque is getrokken, is verplicht zorg te dragen dat het noodige fonds tot betaling op den dag der aanbieding in handen van den betrokkene zij, zelfs indien de chèque bij eenen derde is betaalbaar gesteld, onverminderd de verplichting van den trekker overeenkomstig [artikel 189](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Eerste&titeldeel=Zevende&afdeling=Eerste&artikel=189&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 190b
+##### Artikel 190b
 
 De betrokkene wordt geacht, het noodige fonds in handen te hebben, indien hij bij de aanbieding van de chèque aan den trekker of aan dengene voor wiens rekening is getrokken, een opeischbare som schuldig is, ten minste gelijkstaande met het beloop van de chèque.
 
 ### afdeeling Tweede. Van de overdracht
 
-#### Artikel 191
+##### Artikel 191
 
 1. De chèque, die betaalbaar is gesteld aan een met name genoemden persoon met of zonder uitdrukkelijke clausule: "aan order", kan door middel van endossement worden overgedragen.
 
@@ -1510,7 +1531,7 @@ De betrokkene wordt geacht, het noodige fonds in handen te hebben, indien hij bi
 
 3. Het endossement kan worden gesteld zelfs ten voordeele van den trekker of van iederen anderen chèqueschuldenaar. Deze personen kunnen de chèque opnieuw endosseeren.
 
-#### Artikel 192
+##### Artikel 192
 
 1. Het endossement moet onvoorwaardelijk zijn. Elke daarin opgenomen voorwaarde wordt voor niet geschreven gehouden.
 
@@ -1522,13 +1543,13 @@ De betrokkene wordt geacht, het noodige fonds in handen te hebben, indien hij bi
 
 5. Het endossement aan den betrokkene geldt slechts als kwijting, behoudens wanneer de betrokkene meer kantoren heeft en wanneer het endossement is gesteld ten voordeele van een ander kantoor dan dat, waarop de chèque is getrokken.
 
-#### Artikel 193
+##### Artikel 193
 
 1. Het endossement moet gesteld worden op de chèque of op een vastgehecht blad (verlengstuk). Het moet worden onderteekend door den endossant.
 
 2. Het endossement kan den geëndosseerde onvermeld laten, of bestaan uit de enkele handteekening van den endossant (endossement in blanco). In het laatste geval moet het endossement om geldig te zijn, op de rugzijde van de chèque of op het verlengstuk worden gesteld.
 
-#### Artikel 194
+##### Artikel 194
 
 1. Door het endossement worden alle uit de chèque voortvloeiende rechten overgedragen.
 
@@ -1540,29 +1561,29 @@ De betrokkene wordt geacht, het noodige fonds in handen te hebben, indien hij bi
 
 - 3°. de chèque aan eenen derde overgeven, zonder het blanco in te vullen, en zonder haar te endosseeren.
 
-#### Artikel 195
+##### Artikel 195
 
 1. Tenzij het tegendeel bedongen is, staat de endossant in voor de betaling.
 
 2. Hij kan een nieuw endossement verbieden; in dat geval staat hij tegenover de personen, aan wie de chèque later is geëndosseerd, niet in voor de betaling.
 
-#### Artikel 196
+##### Artikel 196
 
 Hij, die een door endossement overdraagbare chèque onder zich heeft, wordt beschouwd als de rechtmatige houder, indien hij van zijn recht doet blijken door een ononderbroken reeks van endossementen, zelfs indien het laatste endossement in blanco is gesteld. De doorgehaalde endossementen worden te dien aanzien voor niet geschreven gehouden. Wanneer een endossement in blanco door een ander endossement is gevolgd, wordt de onderteekenaar van dit laatste geacht, de chèque door het endossement in blanco verkregen te hebben.
 
-#### Artikel 197
+##### Artikel 197
 
 Een op eene chèque aan toonder voorkomend endossement maakt den endossant verantwoordelijk overeenkomstig de bepalingen betreffende het recht van regres; het maakt overigens den titel niet tot eene chèque aan order.
 
-#### Artikel 198
+##### Artikel 198
 
 Indien iemand, op welke wijze dan ook, het bezit van de chèque heeft verloren, is de houder, in wiens handen de chèque zich bevindt, niet verplicht de chèque af te geven, indien hij deze te goeder trouw heeft verkregen en zulks onverschillig of het betreft eene chèque aan toonder, dan wel een voor endossement vatbare chèque, ten aanzien van welke de houder op de wijze in [artikel 196](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Eerste&titeldeel=Zevende&afdeling=Tweede&artikel=196&z=2025-07-01&g=2025-07-01) voorzien van zijn recht doet blijken.
 
-#### Artikel 199
+##### Artikel 199
 
 Zij, die uit hoofde van de chèque worden aangesproken, kunnen de verweermiddelen, gegrond op hun persoonlijke verhouding tot den trekker of tot vroegere houders, niet aan den houder tegenwerpen, tenzij deze bij de verkrijging van de chèque desbewust ten nadeele van den schuldenaar heeft gehandeld.
 
-#### Artikel 200
+##### Artikel 200
 
 1. Wanneer het endossement de vermelding bevat: "waarde ter incasseering", "ter incasso", "in lastgeving" of eenige andere vermelding, met zich brengend een bloote opdracht tot inning, kan de houder alle uit de chèque voortvloeiende rechten uitoefenen, maar hij kan deze niet anders endosseeren dan bijwege van lastgeving.
 
@@ -1570,7 +1591,7 @@ Zij, die uit hoofde van de chèque worden aangesproken, kunnen de verweermiddele
 
 3. De opdracht, vervat in een incasso-endossement, eindigt niet door den dood of door de latere onbekwaamheid van den lastgever.
 
-#### Artikel 201
+##### Artikel 201
 
 1. Het endossement, na het protest of de daarmede gelijkstaande verklaring, of na het einde van den aanbiedingstermijn op de chèque gesteld, heeft slechts de gevolgen eener gewone cessie.
 
@@ -1578,13 +1599,13 @@ Zij, die uit hoofde van de chèque worden aangesproken, kunnen de verweermiddele
 
 ### afdeeling Derde. Van het aval
 
-#### Artikel 202
+##### Artikel 202
 
 1. De betaling van de chèque kan zoowel voor haar geheele bedrag als voor een gedeelte daarvan door eenen borgtocht (aval) worden verzekerd.
 
 2. Deze borgtocht kan door eenen derde, behalve door den betrokkene, of zelfs door iemand, wiens handteekening op de chèque voorkomt, worden gegeven.
 
-#### Artikel 203
+##### Artikel 203
 
 1. Het aval wordt op de chèque of op een verlengstuk gesteld.
 
@@ -1596,7 +1617,7 @@ Zij, die uit hoofde van de chèque worden aangesproken, kunnen de verweermiddele
 
 5. In het aval moet worden vermeld, voor wien het is gegeven. Bij gebreke hiervan wordt het geacht voor den trekker te zijn gegeven.
 
-#### Artikel 204
+##### Artikel 204
 
 1. De avalgever is op dezelfde wijze verbonden als degene, voor wien het aval is gegeven.
 
@@ -1606,13 +1627,13 @@ Zij, die uit hoofde van de chèque worden aangesproken, kunnen de verweermiddele
 
 ### afdeeling Vierde. Van de aanbieding en van de betaling
 
-#### Artikel 205
+##### Artikel 205
 
 1. De chèque is betaalbaar op zicht. Elke vermelding van het tegendeel wordt voor niet geschreven gehouden.
 
 2. De chèque, die ter betaling wordt aangeboden vóór den dag, vermeld als datum van uitgifte, is betaalbaar op den dag van de aanbieding.
 
-#### Artikel 206
+##### Artikel 206
 
 1. De chèque, die in hetzelfde land uitgegeven en betaalbaar is, moet binnen den termijn van acht dagen ter betaling worden aangeboden. Indien echter uit de chèque zelve blijkt, dat zij bestemd is om in een ander land te circuleeren, wordt deze termijn verlengd, hetzij tot twintig, hetzij tot zeventig dagen, al naar gelang zij bestemd was in hetzelfde of in een ander werelddeel te circuleeren. Te dien aanzien worden de chèques, uitgegeven en betaalbaar in een land in Europa en bestemd om te circuleeren in een kustland van de Middellandsche Zee of omgekeerd, beschouwd als bestemd om te circuleeren in hetzelfde werelddeel.
 
@@ -1624,27 +1645,27 @@ Zij, die uit hoofde van de chèque worden aangesproken, kunnen de verweermiddele
 
 5. De bovengenoemde termijnen beginnen te loopen van den dag, op de chèque als datum van uitgifte vermeld.
 
-#### Artikel 207
+##### Artikel 207
 
 De dag van uitgifte van eene chèque, getrokken tusschen twee plaatsen met verschillende tijdrekening, wordt herleid tot den overeenkomstigen dag van de tijdrekening van de plaats van betaling.
 
-#### Artikel 208
+##### Artikel 208
 
 1. De aanbieding aan eene verrekeningskamer geldt als aanbieding ter betaling.
 
 2. Bij algemeenen maatregel van bestuur zullen de instellingen worden aangewezen, die in den zin van dezen Titel als verrekeningskamers worden beschouwd.
 
-#### Artikel 209
+##### Artikel 209
 
 1. De herroeping van de chèque is slechts van kracht na het einde van den termijn van aanbieding.
 
 2. Indien geene herroeping plaats heeft, kan de betrokkene zelfs na het einde van dien termijn betalen.
 
-#### Artikel 210
+##### Artikel 210
 
 Noch de dood van den trekker, noch zijn na de uitgifte opkomende onbekwaamheid zijn van invloed op de gevolgen van de chèque.
 
-#### Artikel 211
+##### Artikel 211
 
 1. Buiten het geval, in [artikel 227a](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Eerste&titeldeel=Zevende&afdeling=Zevende&artikel=227a&z=2025-07-01&g=2025-07-01) vermeld, kan de betrokkene de chèque betalende, vorderen, dat hem deze, van behoorlijke kwijting van den houder voorzien, wordt uitgeleverd.
 
@@ -1652,13 +1673,13 @@ Noch de dood van den trekker, noch zijn na de uitgifte opkomende onbekwaamheid z
 
 3. In geval van gedeeltelijke betaling kan de betrokkene vorderen, dat van die betaling op de chèque melding wordt gemaakt en dat hem daarvoor kwijting wordt gegeven.
 
-#### Artikel 212
+##### Artikel 212
 
 1. De betrokkene, die een door endossement overdraagbare chèque betaalt, is gehouden de regelmatigheid van de reeks van endossementen, maar niet de handteekening der endossanten te onderzoeken.
 
 2. Indien hij, niet bevrijdend betaald hebbende, verplicht wordt, ten tweede male te betalen, heeft hij verhaal op allen die de cheque niet te goeder trouw hebben verkregen.
 
-#### Artikel 213
+##### Artikel 213
 
 1. Eene chèque, waarvan de betaling is bedongen in ander geld dan dat van de plaats van betaling, kan binnen den termijn van aanbieding worden betaald in het geld van het land volgens zijne waarde op den dag van betaling. Indien de betaling niet heeft plaats gehad bij de aanbieding, kan de houder te zijner keuze vorderen, dat de chèquesom voldaan wordt in het geld van het land volgens den koers, hetzij van den dag van aanbieding, hetzij van den dag van betaling.
 
@@ -1670,7 +1691,7 @@ Noch de dood van den trekker, noch zijn na de uitgifte opkomende onbekwaamheid z
 
 ### afdeeling Vijfde. Van de gekruiste chèque en van de verrekeningschèque
 
-#### Artikel 214
+##### Artikel 214
 
 1. De trekker of de houder van eene chèque kan deze kruisen met de in het volgende artikel genoemde gevolgen.
 
@@ -1682,7 +1703,7 @@ Noch de dood van den trekker, noch zijn na de uitgifte opkomende onbekwaamheid z
 
 5. De doorhaling van de kruising of van den naam van den aangewezen bankier wordt geacht niet te zijn geschied.
 
-#### Artikel 215
+##### Artikel 215
 
 1. Eene chèque met algemeene kruising kan door den betrokkene slechts worden betaald aan eenen bankier of aan eenen cliënt van den betrokkene.
 
@@ -1694,7 +1715,7 @@ Noch de dood van den trekker, noch zijn na de uitgifte opkomende onbekwaamheid z
 
 5. De betrokkene of de bankier, die de bovenstaande bepalingen niet naleeft, is verantwoordelijk voor de schade tot beloop van het bedrag van de chèque.
 
-#### Artikel 216
+##### Artikel 216
 
 1. De trekker, alsmede de houder van eene chèque, kan verbieden, dat deze in baar geld betaald wordt door op de voorzijde in schuinsche richting te vermelden: "in rekening te brengen", of een soortgelijke uitdrukking op te nemen.
 
@@ -1706,7 +1727,7 @@ Noch de dood van den trekker, noch zijn na de uitgifte opkomende onbekwaamheid z
 
 ### afdeeling Zesde. Van het recht van regres in geval van non-betaling
 
-#### Artikel 217
+##### Artikel 217
 
 De houder kan zijn recht van regres uitoefenen op de endossanten, den trekker en de andere chèqueschuldenaren, indien de chèque, tijdig aangeboden, niet wordt betaald en indien de weigering van betaling wordt vastgesteld:
 
@@ -1716,19 +1737,19 @@ De houder kan zijn recht van regres uitoefenen op de endossanten, den trekker en
 
 - 3°. hetzij door een gedagteekende verklaring van eene verrekeningskamer, waarbij vastgesteld wordt, dat de chèque tijdig aangeboden en niet betaald is.
 
-#### Artikel 217a
+##### Artikel 217a
 
 1. Indien de non-betaling van de chèque door protest of een daarmede gelijkstaande verklaring is vastgesteld, is niettemin de trekker, al ware het protest niet in tijds gedaan of de met protest gelijkstaande verklaring niet in tijds afgegeven, tot vrijwaring gehouden, tenzij hij bewees, dat de betrokkene op den dag der aanbieding het noodige fonds tot betaling van de chèque in handen had. Indien het vereischte fonds slechts gedeeltelijk aanwezig was, is de trekker voor het ontbrekende gehouden.
 
 2. In geval van niet tijdig protest of niet tijdige met protest gelijkstaande verklaring is de trekker, op straffe van tot vrijwaring te zijn gehouden, verplicht, den houder af te staan en over te dragen de vordering op het fonds, dat de betrokkene van hem op den dag der aanbieding heeft in handen gehad, en zulks tot het beloop van de chèque; en hij moet aan den houder, te diens koste, de noodige bewijzen verschaffen om die vordering te doen gelden. Indien de trekker in staat van faillissement is verklaard of ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, zijn de curatoren onderscheidenlijk de bewindvoerders in zijnen boedel tot dezelfde verplichtingen gehouden, ten ware deze mochten verkiezen, den houder als schuldeischer, voor het beloop van de chèque, toe te laten.
 
-#### Artikel 218
+##### Artikel 218
 
 1. Het protest of de daarmede gelijkstaande verklaring moet worden gedaan vóór het einde van den termijn van aanbieding.
 
 2. Indien de aanbieding plaats heeft op den laatsten dag van den termijn, kan het protest of de daarmede gelijkstaande verklaring op den eerstvolgenden werkdag worden gedaan.
 
-#### Artikel 218a
+##### Artikel 218a
 
 1. De betaling van eene chèque moet gevraagd en het daaropvolgend protest gedaan worden ter woonplaatse van den betrokkene.
 
@@ -1736,7 +1757,7 @@ De houder kan zijn recht van regres uitoefenen op de endossanten, den trekker en
 
 3. [Artikel 54 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=54) is van overeenkomstige toepassing.
 
-#### Artikel 218b
+##### Artikel 218b
 
 1. Het protest van non-betaling wordt gedaan door een deurwaarder. Deze kan zich desverkiezende doen vergezellen door een of twee getuigen.
 
@@ -1754,11 +1775,11 @@ De houder kan zijn recht van regres uitoefenen op de endossanten, den trekker en
 
 3. Indien het protest een vermiste chèque betreft, volstaat, in plaats van het bepaalde onder 1°. van het voorgaande lid, een zoo nauwkeurig mogelijke omschrijving van den inhoud der chèque.
 
-#### Artikel 218c
+##### Artikel 218c
 
 De deurwaarders zijn verplicht, op straffe van schadevergoeding, afschrift van het protest te laten, en hiervan melding in het afschrift te maken, en hetzelve, naar orde des tijds, in te schrijven in een bijzonder register, genommerd en gewaarmerkt door de kantonrechter van de rechtbank van het arrondissement waarin hun woonplaats is gelegen, en om wijders, zulks begeerd wordende, een of meer afschriften van het protest aan de belanghebbenden te leveren.
 
-#### Artikel 219
+##### Artikel 219
 
 1. De houder moet van de non-betaling kennisgeven aan zijnen endossant en aan den trekker binnen de vier werkdagen, volgende op den dag van het protest of de daarmede gelijkstaande verklaring en, indien de chèque getrokken is met de clausule zonder kosten, volgende op dien der aanbieding. Elke endossant moet binnen de twee werkdagen, volgende op den dag van ontvangst der kennisgeving, de door hem ontvangen kennisgeving aan zijnen endossant mededeelen, met aanwijzing van de namen en adressen van degenen, die de voorafgaande kennisgevingen hebben gedaan, en zoo vervolgens, teruggaande tot den trekker. Deze termijnen loopen van de ontvangst der voorafgaande kennisgeving af.
 
@@ -1772,7 +1793,7 @@ De deurwaarders zijn verplicht, op straffe van schadevergoeding, afschrift van h
 
 6. Hij, die de kennisgeving niet binnen den bovenvermelden termijn doet, stelt zich niet bloot aan verval van zijn recht, hij is, indien daartoe aanleiding bestaat, verantwoordelijk voor de schade, door zijne nalatigheid veroorzaakt, zonder dat echter de schadevergoeding de chèquesom kan te boven gaan.
 
-#### Artikel 220
+##### Artikel 220
 
 1. De trekker, een endossant of een avalgever kan door de clausule "zonder kosten", "zonder protest", of een andere soortgelijke op de chèque gestelde en onderteekende clausule, den houder van het opmaken van een protest of een daarmede gelijkstaande verklaring ter uitoefening van zijn recht van regres ontslaan.
 
@@ -1780,7 +1801,7 @@ De deurwaarders zijn verplicht, op straffe van schadevergoeding, afschrift van h
 
 3. Is de clausule door den trekker gesteld, dan heeft zij gevolgen ten aanzien van allen, wier handteekeningen op de chèque voorkomen; is zij door eenen endossant of door eenen avalgever gesteld, dan heeft zij gevolgen alleen voor dezen endossant of avalgever. Indien de houder, ondanks de door den trekker gestelde clausule, toch de weigering van betaling doet vaststellen door protest of een daarmede gelijkstaande verklaring, zijn de kosten daarvan voor zijne rekening. Indien de clausule van eenen endossant of eenen avalgever afkomstig is, kunnen de kosten van het protest of van de daarmede gelijkstaande verklaring, indien een akte van dien aard is opgesteld, op allen, wier handteekeningen op de chèque voorkomen, worden verhaald.
 
-#### Artikel 221
+##### Artikel 221
 
 1. Allen, die uit hoofde van eene chèque verbonden zijn, zijn hoofdelijk jegens den houder verbonden. Bovendien is ook de derde, voor wiens rekening de chèque is getrokken en die de waarde daarvoor heeft genoten, jegens den houder aansprakelijk.
 
@@ -1790,13 +1811,13 @@ De deurwaarders zijn verplicht, op straffe van schadevergoeding, afschrift van h
 
 4. De vordering, ingesteld tegen éénen der chèqueschuldenaren, belet niet de anderen aan te spreken, al hadden dezen zich later verbonden dan de eerst aangesprokene.
 
-#### Artikel 221a
+##### Artikel 221a
 
 1. De houder van eene chèque, waarvan de non-betaling door protest of een daarmede gelijk staande verklaring is vastgesteld, heeft in geen geval eenig recht op het fonds, dat de betrokkene van den trekker in handen heeft.
 
 2. Bij faillissement van den trekker of indien ten aanzien van hem van de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard behooren die penningen aan diens boedel.
 
-#### Artikel 222
+##### Artikel 222
 
 De houder kan van dengene, tegen wien hij zijn recht van regres uitoefent, vorderen:
 
@@ -1806,7 +1827,7 @@ De houder kan van dengene, tegen wien hij zijn recht van regres uitoefent, vorde
 
 - 3°. de kosten van protest of van de daarmede gelijkstaande verklaring, die van de gedane kennisgevingen, alsmede de andere kosten.
 
-#### Artikel 223
+##### Artikel 223
 
 Hij, die ter voldoening aan zijnen regresplicht de chèque heeft betaald, kan van degenen, die tegenover hem regresplichtig zijn, vorderen:
 
@@ -1816,13 +1837,13 @@ Hij, die ter voldoening aan zijnen regresplicht de chèque heeft betaald, kan va
 
 - 3°. de door hem gemaakte kosten.
 
-#### Artikel 224
+##### Artikel 224
 
 1. Elke chèqueschuldenaar, tegen wien het recht van regres wordt of kan worden uitgeoefend, kan, tegen betaling ter voldoening aan zijnen regresplicht, de afgifte vorderen van de chèque met het protest, of de daarmede gelijkstaande verklaring, alsmede een voor voldaan geteekende rekening.
 
 2. Elke endossant, die ter voldoening aan zijnen regresplicht, de chèque heeft betaald, kan zijn endossement en dat van de volgende endossanten doorhalen.
 
-#### Artikel 225
+##### Artikel 225
 
 1. Wanneer de aanbieding van de chèque, het opmaken van het protest, of de daarmede gelijkstaande verklaring, binnen de voorgeschreven termijnen wordt verhinderd door een onoverkomelijk beletsel (wettelijk voorschrift van eenigen Staat of ander geval van overmacht), worden deze termijnen verlengd.
 
@@ -1836,37 +1857,37 @@ Hij, die ter voldoening aan zijnen regresplicht de chèque heeft betaald, kan va
 
 ### afdeeling Zevende. Van chèque-exemplaren en vermiste chèques
 
-#### Artikel 226
+##### Artikel 226
 
 Behoudens de chèques aan toonder, kan elke chèque, uitgegeven in een land en betaalbaar in een ander land of in een overzeesch gebied van hetzelfde land en omgekeerd, of wel uitgegeven en betaalbaar in een zelfde overzeesch gebied of in verschillende overzeesche gebieden van hetzelfde land, in meer gelijkluidende exemplaren worden getrokken. Wanneer eene chèque in meer exemplaren is getrokken, moeten die exemplaren in den tekst zelf van den titel worden genummerd bij gebreke waarvan elk exemplaar wordt beschouwd als een afzonderlijke chèque.
 
-#### Artikel 227
+##### Artikel 227
 
 1. De betaling op één der exemplaren gedaan, bevrijdt, ook al ware niet bedongen, dat die betaling de kracht der andere exemplaren te niet doet.
 
 2. De endossant, die de exemplaren aan verschillende personen heeft overgedragen, alsook de latere endossanten, zijn verbonden wegens alle exemplaren, die hunne handteekening dragen en die niet zijn uitgeleverd.
 
-#### Artikel 227a
+##### Artikel 227a
 
 Degene die de cheque waarvan hij houder was, vermist, kan met inachtneming van [artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=49) van de betrokkene betaling vragen.
 
-#### Artikel 227b
+##### Artikel 227b
 
 Degene die een cheque waarvan hij houder was, en welke is vervallen en, zoveel nodig, geprotesteerd, vermist, kan met inachtneming van [artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=49) zijn rechten alleen tegen de trekker uitoefenen.
 
 ### afdeeling Achtste. Van veranderingen
 
-#### Artikel 228
+##### Artikel 228
 
 In geval van verandering van den tekst van eene chèque zijn zij, die daarna hunne handteekeningen op de chèque geplaatst hebben, volgens den veranderden tekst verbonden; zij, die daarvoor hunne handteekeningen op de chèque geplaatst hebben, zijn verbonden volgens den oorspronkelijken tekst.
 
 ### afdeeling Negende. Van verjaring
 
-#### Artikel 228a
+##### Artikel 228a
 
 Behoudens de bepalingen van het volgende artikel gaat schuld uit eene chèque te niet door alle middelen van schuldbevrijding, bij het Burgerlijk Wetboek aangewezen.
 
-#### Artikel 229
+##### Artikel 229
 
 1. De regresvorderingen van den houder tegen de endossanten, den trekker en de andere chèqueschuldenaren, verjaren door een tijdsverloop van zes maanden, te rekenen van het einde van den termijn van aanbieding.
 
@@ -1874,7 +1895,7 @@ Behoudens de bepalingen van het volgende artikel gaat schuld uit eene chèque te
 
 3. De in het eerste en tweede lid bedoelde verjaring kan niet worden ingeroepen door den trekker, indien of voor zoover hij geen fonds heeft bezorgd noch door den trekker of de endossanten, die zich ongerechtvaardigd zouden hebben verrijkt; alles onverminderd het bepaalde in [artikel 306 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=306).
 
-#### Artikel 229a
+##### Artikel 229a
 
 1. De stuiting der verjaring is slechts van kracht tegen dengene, ten aanzien van wien de stuitingshandeling heeft plaats gehad.
 
@@ -1882,63 +1903,63 @@ Behoudens de bepalingen van het volgende artikel gaat schuld uit eene chèque te
 
 ### afdeeling Tiende. Algemeene bepalingen
 
-#### Artikel 229abis
+##### Artikel 229abis
 
 Met bankiers, genoemd in de voorafgaande Afdeelingen van dezen Titel worden gelijkgesteld alle personen of instellingen, die in hun werkzaamheid regelmatig gelden ter onmiddellijke beschikking van anderen houden.
 
-#### Artikel 229b
+##### Artikel 229b
 
 1. De aanbieding en het protest van eene chèque kunnen niet plaats hebben dan op eenen werkdag.
 
 2. Wanneer de laatste dag van den termijn, door de wet gesteld voor het verrichten van handelingen nopens de chèque, met name voor de aanbieding en voor het opmaken van het protest of een daarmede gelijkstaande verklaring, een wettelijke feestdag is, wordt deze termijn verlengd tot den eersten werkdag, volgende op het einde van dien termijn. De tusschenliggende feestdagen zijn begrepen in de berekening van den termijn.
 
-#### Artikel 229bbis
+##### Artikel 229bbis
 
 Als wettelijke feestdag in den zin van deze Afdeeling worden beschouwd de Zondag, de Nieuwjaarsdag, de Christelijke tweede Paasch- en Pinksterdagen, de beide Kerstdagen, de Hemelvaartsdag en de verjaardag van de Koning.
 
-#### Artikel 229c
+##### Artikel 229c
 
 In de termijnen, bij de voorafgaande Afdeelingen van dezen Titel voorzien, is niet begrepen de dag, waarop deze termijnen beginnen te loopen.
 
-#### Artikel 229d
+##### Artikel 229d
 
 Geen enkele respijtdag, noch wettelijke, noch rechterlijke, is toegestaan.
 
-#### Artikel 229dbis
+##### Artikel 229dbis
 
 Vervallen
 
 ### afdeeling Elfde. Van quitantiën en promessen aan toonder
 
-#### Artikel 229e
+##### Artikel 229e
 
 Quitantiën en promessen aan toonder moeten de juiste dagteekening der oorspronkelijke uitgifte bevatten.
 
-#### Artikel 229f
+##### Artikel 229f
 
 De oorspronkelijke uitgever van quitantiën aan toonder, door eenen derde betaalbaar, is jegens iederen houder voor de voldoening aansprakelijk gedurende tien dagen na de dagteekening, die dag niet daaronder begrepen.
 
-#### Artikel 229g
+##### Artikel 229g
 
 1. De verantwoordelijkheid van den oorspronkelijken uitgever blijft echter voortduren, tenzij hij bewees, dat hij, gedurende den bij het vorige artikel bepaalden tijd, fonds ten beloope van het uitgegeven papier bij den persoon, op wien hetzelve is afgegeven, heeft gehad.
 
 2. De oorspronkelijke uitgever is, op straffe van voortduring van zijne verantwoordelijkheid, verpligt den houder af te staan en over te dragen de vordering op het fonds, dat de persoon, op wien het papier is afgegeven van hem ten vervaldage heeft in handen gehad, en zulks ten beloope van het uitgegeven papier; en hij moet aan den houder, te diens koste, de noodige bewijzen verschaffen om die vordering te doen gelden. Indien de oorspronkelijke uitgever in staat van faillissement is verklaard of ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, zijn de curatoren onderscheidenlijk de bewindvoerders in zijnen boedel tot dezelfde verpligtingen gehouden, ten ware deze mogten verkiezen, den houder als schuldeischer, ten beloope van het uitgegeven papier, toe te laten.
 
-#### Artikel 229h
+##### Artikel 229h
 
 Buiten den oorspronkelijken uitgever, blijft een ieder die het voormeld papier in betaling heeft gegeven, gedurende den tijd van drie dagen daarna, de dag der uitgifte niet daaronder begrepen, aansprakelijk jegens dengenen die het van hem heeft ontvangen.
 
-#### Artikel 229i
+##### Artikel 229i
 
 1. De houder eener promesse aan toonder is verpligt voldoening te vorderen binnen den tijd van drie dagen na den dag, op welken hij dat papier heeft in betaling genomen, die dag niet daaronder gerekend, en hij moet, bij wanbetaling, binnen een gelijken termijn daarna, de promesse ter intrekking aanbieden aan dengenen die hem dezelve heeft in betaling gegeven, alles op verbeurte van zijn verhaal tegen denzelven, doch onverminderd zijn regt tegen dengenen die de promesse heeft geteekend.
 
 2. Indien bij de promesse de dag is uitgedrukt op welken dezelve betaalbaar is, begint de termijn van drie dagen eerst te loopen daags na den uitgedrukten betaaldag.
 
-#### Artikel 229j
+##### Artikel 229j
 
 Indien de laatste dag van eenigen termijn, waaromtrent in deze Afdeeling eenige bepaling voorkomt, invalt op eenen wettelijken feestdag in den zin van [art. 229b bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Eerste&titeldeel=Zevende&afdeling=Tiende&artikel=229bbis&z=2025-07-01&g=2025-07-01), blijft de verpligting en verantwoordelijkheid voortduren tot en met den eersten daaropvolgenden dag, welke geen wettelijke feestdag is.
 
-#### Artikel 229k
+##### Artikel 229k
 
 1. Alle regtsvordering tegen de in deze Afdeeling vermelde uitgevers van papier, of tegen hen, die buiten den oorspronkelijken uitgever het papier in betaling hebben gegeven, verjaart door tijdsverloop van zes maanden, te rekenen van den dag der oorspronkelijke uitgifte.
 
@@ -1948,233 +1969,233 @@ Indien de laatste dag van eenigen termijn, waaromtrent in deze Afdeeling eenige 
 
 ## titel Achtste. Van reclame of terugvordering in geval van faillissement
 
-#### Artikel 230
+##### Artikel 230
 
 Vervallen
 
-#### Artikel 231
+##### Artikel 231
 
 Vervallen
 
-#### Artikel 232
+##### Artikel 232
 
 Vervallen
 
-#### Artikel 233
+##### Artikel 233
 
 Vervallen
 
-#### Artikel 234
+##### Artikel 234
 
 Vervallen
 
-#### Artikel 235
+##### Artikel 235
 
 Vervallen
 
-#### Artikel 236
+##### Artikel 236
 
 Vervallen
 
-#### Artikel 237
+##### Artikel 237
 
 Vervallen
 
-#### Artikel 238
+##### Artikel 238
 
 Vervallen
 
-#### Artikel 239
+##### Artikel 239
 
 Vervallen
 
-#### Artikel 240
+##### Artikel 240
 
 Vervallen
 
-#### Artikel 241
+##### Artikel 241
 
 Vervallen
 
-#### Artikel 242
+##### Artikel 242
 
 Vervallen
 
-#### Artikel 243
+##### Artikel 243
 
 Vervallen
 
-#### Artikel 244
+##### Artikel 244
 
 Vervallen
 
-#### Artikel 245
+##### Artikel 245
 
 Vervallen
 
 ## titel Negende. Van assurantie of verzekering in het algemeen
 
-#### Artikel 246
+##### Artikel 246
 
 Vervallen
 
-#### Artikel 247
+##### Artikel 247
 
 Vervallen
 
-#### Artikel 248
+##### Artikel 248
 
 Vervallen
 
-#### Artikel 249
+##### Artikel 249
 
 Vervallen
 
-#### Artikel 250
+##### Artikel 250
 
 Vervallen
 
-#### Artikel 251
+##### Artikel 251
 
 Vervallen
 
-#### Artikel 252
+##### Artikel 252
 
 Vervallen
 
-#### Artikel 253
+##### Artikel 253
 
 Vervallen
 
-#### Artikel 254
+##### Artikel 254
 
 Vervallen
 
-#### Artikel 255
+##### Artikel 255
 
 Vervallen
 
-#### Artikel 256
+##### Artikel 256
 
 Vervallen
 
-#### Artikel 257
+##### Artikel 257
 
 Vervallen
 
-#### Artikel 258
+##### Artikel 258
 
 Vervallen
 
-#### Artikel 259
+##### Artikel 259
 
 Vervallen
 
-#### Artikel 260
+##### Artikel 260
 
 Vervallen
 
-#### Artikel 261
+##### Artikel 261
 
 Vervallen
 
-#### Artikel 262
+##### Artikel 262
 
 Vervallen
 
-#### Artikel 263
+##### Artikel 263
 
 Vervallen
 
-#### Artikel 264
+##### Artikel 264
 
 Vervallen
 
-#### Artikel 265
+##### Artikel 265
 
 Vervallen
 
-#### Artikel 266
+##### Artikel 266
 
 Vervallen
 
-#### Artikel 267
+##### Artikel 267
 
 Vervallen
 
-#### Artikel 268
+##### Artikel 268
 
 Vervallen
 
-#### Artikel 269
+##### Artikel 269
 
 Vervallen
 
-#### Artikel 270
+##### Artikel 270
 
 Vervallen
 
-#### Artikel 271
+##### Artikel 271
 
 Vervallen
 
-#### Artikel 272
+##### Artikel 272
 
 Vervallen
 
-#### Artikel 273
+##### Artikel 273
 
 Vervallen
 
-#### Artikel 274
+##### Artikel 274
 
 Vervallen
 
-#### Artikel 275
+##### Artikel 275
 
 Vervallen
 
-#### Artikel 276
+##### Artikel 276
 
 Vervallen
 
-#### Artikel 277
+##### Artikel 277
 
 Vervallen
 
-#### Artikel 278
+##### Artikel 278
 
 Vervallen
 
-#### Artikel 279
+##### Artikel 279
 
 Vervallen
 
-#### Artikel 280
+##### Artikel 280
 
 Vervallen
 
-#### Artikel 281
+##### Artikel 281
 
 Vervallen
 
-#### Artikel 282
+##### Artikel 282
 
 Vervallen
 
-#### Artikel 283
+##### Artikel 283
 
 Vervallen
 
-#### Artikel 284
+##### Artikel 284
 
 Vervallen
 
-#### Artikel 285
+##### Artikel 285
 
 Vervallen
 
-#### Artikel 286
+##### Artikel 286
 
 Vervallen
 
@@ -2182,95 +2203,95 @@ Vervallen
 
 ### afdeeling Eerste. Van verzekering tegen gevaren van brand
 
-#### Artikel 287
+##### Artikel 287
 
 Vervallen
 
-#### Artikel 288
+##### Artikel 288
 
 Vervallen
 
-#### Artikel 289
+##### Artikel 289
 
 Vervallen
 
-#### Artikel 290
+##### Artikel 290
 
 Vervallen
 
-#### Artikel 291
+##### Artikel 291
 
 Vervallen
 
-#### Artikel 292
+##### Artikel 292
 
 Vervallen
 
-#### Artikel 293
+##### Artikel 293
 
 Vervallen
 
-#### Artikel 294
+##### Artikel 294
 
 Vervallen
 
-#### Artikel 295
+##### Artikel 295
 
 Vervallen
 
-#### Artikel 296
+##### Artikel 296
 
 Vervallen
 
-#### Artikel 297
+##### Artikel 297
 
 Vervallen
 
-#### Artikel 298
+##### Artikel 298
 
 Vervallen
 
 ### afdeeling Tweede. Van verzekering tegen de gevaren waaraan de voortbrengselen van den landbouw te velde onderhevig zijn
 
-#### Artikel 299
+##### Artikel 299
 
 Vervallen
 
-#### Artikel 300
+##### Artikel 300
 
 Vervallen
 
-#### Artikel 301
+##### Artikel 301
 
 Vervallen
 
 ### afdeeling Derde. Van levensverzekering
 
-#### Artikel 302
+##### Artikel 302
 
 Vervallen
 
-#### Artikel 303
+##### Artikel 303
 
 Vervallen
 
-#### Artikel 304
+##### Artikel 304
 
 Vervallen
 
-#### Artikel 305
+##### Artikel 305
 
 Vervallen
 
-#### Artikel 306
+##### Artikel 306
 
 Vervallen
 
-#### Artikel 307
+##### Artikel 307
 
 Vervallen
 
-#### Artikel 308
+##### Artikel 308
 
 Vervallen
 
@@ -2278,307 +2299,307 @@ Vervallen
 
 ## Algemeene Bepaling
 
-#### Artikel 309
+##### Artikel 309
 
 1. De betekenis van begrippen voorkomende in [Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034), met uitzondering van die voorkomende in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=7) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=10), geldt evenzeer voor dit wetboek.
 
 ## titel Eerste. Van zeeschepen
 
-#### Artikel 310
+##### Artikel 310
 
 In de [eerste tot en met derde titel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Tweede&titeldeel=Eerste&z=2025-07-01&g=2025-07-01) van dit boek worden onder schepen uitsluitend verstaan zeeschepen.
 
-#### Artikel 311
+##### Artikel 311
 
 Vervallen
 
-#### Artikel 311a
+##### Artikel 311a
 
 Vervallen
 
-#### Artikel 311b
+##### Artikel 311b
 
 Vervallen
 
-#### Artikel 312
+##### Artikel 312
 
 Vervallen
 
-#### Artikel 313
+##### Artikel 313
 
 Vervallen
 
-#### Artikel 314
+##### Artikel 314
 
 Vervallen
 
-#### Artikel 315
+##### Artikel 315
 
 Vervallen
 
-#### Artikel 316
+##### Artikel 316
 
 Vervallen
 
-#### Artikel 317
+##### Artikel 317
 
 Vervallen
 
-#### Artikel 318
+##### Artikel 318
 
 Vervallen
 
-#### Artikel 318a
+##### Artikel 318a
 
 Vervallen
 
-#### Artikel 318b
+##### Artikel 318b
 
 Vervallen
 
-#### Artikel 318c
+##### Artikel 318c
 
 Vervallen
 
-#### Artikel 318d
+##### Artikel 318d
 
 Vervallen
 
-#### Artikel 318e
+##### Artikel 318e
 
 Vervallen
 
-#### Artikel 318f
+##### Artikel 318f
 
 Vervallen
 
-#### Artikel 318g
+##### Artikel 318g
 
 Vervallen
 
-#### Artikel 318h
+##### Artikel 318h
 
 Vervallen
 
-#### Artikel 318i
+##### Artikel 318i
 
 Vervallen
 
-#### Artikel 318j
+##### Artikel 318j
 
 Vervallen
 
-#### Artikel 318k
+##### Artikel 318k
 
 Vervallen
 
-#### Artikel 318l
+##### Artikel 318l
 
 Vervallen
 
-#### Artikel 318m
+##### Artikel 318m
 
 Vervallen
 
-#### Artikel 318n
+##### Artikel 318n
 
 Vervallen
 
-#### Artikel 318o
+##### Artikel 318o
 
 Vervallen
 
-#### Artikel 318p
+##### Artikel 318p
 
 Vervallen
 
-#### Artikel 318q
+##### Artikel 318q
 
 Vervallen
 
-#### Artikel 318r
+##### Artikel 318r
 
 Vervallen
 
-#### Artikel 318s
+##### Artikel 318s
 
 Vervallen
 
-#### Artikel 318t
+##### Artikel 318t
 
 Vervallen
 
-#### Artikel 318u
+##### Artikel 318u
 
 Vervallen
 
-#### Artikel 318v
+##### Artikel 318v
 
 Vervallen
 
-#### Artikel 319
+##### Artikel 319
 
 Vervallen
 
-#### Artikel 319a
+##### Artikel 319a
 
 Vervallen
 
-#### Artikel 319b
+##### Artikel 319b
 
 Vervallen
 
 ## titel Tweede
 
-#### Artikel 320
+##### Artikel 320
 
 Vervallen
 
-#### Artikel 321
+##### Artikel 321
 
 Vervallen
 
-#### Artikel 322
+##### Artikel 322
 
 Vervallen
 
-#### Artikel 323
+##### Artikel 323
 
 Vervallen
 
-#### Artikel 324
+##### Artikel 324
 
 Vervallen
 
-#### Artikel 325
+##### Artikel 325
 
 Vervallen
 
-#### Artikel 326
+##### Artikel 326
 
 Vervallen
 
-#### Artikel 327
+##### Artikel 327
 
 Vervallen
 
-#### Artikel 328
+##### Artikel 328
 
 Vervallen
 
-#### Artikel 329
+##### Artikel 329
 
 Vervallen
 
-#### Artikel 330
+##### Artikel 330
 
 Vervallen
 
-#### Artikel 331
+##### Artikel 331
 
 Vervallen
 
-#### Artikel 332
+##### Artikel 332
 
 Vervallen
 
-#### Artikel 333
+##### Artikel 333
 
 Vervallen
 
-#### Artikel 334
+##### Artikel 334
 
 Vervallen
 
-#### Artikel 335
+##### Artikel 335
 
 Vervallen
 
-#### Artikel 336
+##### Artikel 336
 
 Vervallen
 
-#### Artikel 337
+##### Artikel 337
 
 Vervallen
 
-#### Artikel 338
+##### Artikel 338
 
 Vervallen
 
-#### Artikel 339
+##### Artikel 339
 
 Vervallen
 
-#### Artikel 340
+##### Artikel 340
 
 Vervallen
 
-#### Artikel 340a
+##### Artikel 340a
 
 Vervallen
 
-#### Artikel 340b
+##### Artikel 340b
 
 Vervallen
 
-#### Artikel 340c
+##### Artikel 340c
 
 Vervallen
 
-#### Artikel 340d
+##### Artikel 340d
 
 Vervallen
 
-#### Artikel 340e
+##### Artikel 340e
 
 Vervallen
 
-#### Artikel 340f
+##### Artikel 340f
 
 Vervallen
 
-#### Artikel 340g
+##### Artikel 340g
 
 Vervallen
 
 ## titel Derde. Van den kapitein
 
-#### Artikel 341
+##### Artikel 341
 
 Onder opvarenden worden in dezen titel verstaan allen, die zich aan boord bevinden, buiten den kapitein.
 
-#### Artikel 341a
+##### Artikel 341a
 
 Vervallen
 
-#### Artikel 341b
+##### Artikel 341b
 
 Vervallen
 
-#### Artikel 342
+##### Artikel 342
 
 De kapitein is verplicht met zoodanige bekwaamheid en nauwgezetheid en met zoodanig beleid te handelen als voor eene behoorlijke vervulling zijner taak noodig is.
 
-#### Artikel 343
+##### Artikel 343
 
 1. De kapitein is verplicht de gebruikelijke regels en de bestaande voorschriften ter verzekering van de zeewaardigheid en de veiligheid van het schip, van de veiligheid der opvarenden en der zaken aan boord, met nauwgezetheid op te volgen.
 
 2. Hij onderneemt de reis niet, tenzij het schip tot het volvoeren daarvan geschikt, naar behooren uitgerust en voldoende bemand is.
 
-#### Artikel 344
+##### Artikel 344
 
 De kapitein is verplicht overal waar de wet, de gewoonte of de voorzichtigheid dit gebiedt, zich van een loods te bedienen.
 
-#### Artikel 345
+##### Artikel 345
 
 De kapitein mag gedurende de vaart of bij dreigend gevaar het schip niet verlaten, tenzij zijne afwezigheid volstrekt noodzakelijk is of de zorg voor lijfsbehoud hem daartoe dwingt.
 
-#### Artikel 346
+##### Artikel 346
 
 Vervallen
 
-#### Artikel 347
+##### Artikel 347
 
 1. De kapitein moet aan boord voorzien zijn van:
 
@@ -2590,13 +2611,13 @@ de Nederlandsche wetten en reglementen op de reis van toepassing, en alle verder
 
 2. Ten aanzien van de charter-partij en de cognossementen geldt deze verplichting niet in de door Ons te omschrijven omstandigheden.
 
-#### Artikel 348
+##### Artikel 348
 
 1. De kapitein zorgt, dat aan boord een scheepsdagboek (**dagregister** of **journaal**) wordt gehouden, waarin alles van eenig belang, dat op de reis voorvalt, nauwkeurig wordt opgeteekend.
 
 2. De kapitein van een schip, dat door mechanische kracht wordt voortbewogen, zorgt bovendien, dat door een lid van het machinekamer-personeel een machine-dagboek wordt gehouden.
 
-#### Artikel 349
+##### Artikel 349
 
 1. Op Nederlandse schepen mogen alleen dagboeken in gebruik worden genomen, welke blad voor blad zijn genummerd.
 
@@ -2604,19 +2625,19 @@ de Nederlandsche wetten en reglementen op de reis van toepassing, en alle verder
 
 3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot het inrichten van de dagboeken.
 
-#### Artikel 350
+##### Artikel 350
 
 De kapitein, de eigenaar en de rompbevrachter zijn verplicht aan belanghebbenden op hunne aanvrage inzage en, tegen betaling van de kosten, afschrift van de dagboeken te geven.
 
-#### Artikel 351
+##### Artikel 351
 
 Wanneer de kapitein zich in zaken van aanbelang met leden van de bemanning heeft beraden, wordt van de hem gegeven adviezen in het scheepsdagboek melding gemaakt.
 
-#### Artikel 352
+##### Artikel 352
 
 Vervallen
 
-#### Artikel 353
+##### Artikel 353
 
 1. Na aankomst in een haven kan de kapitein door een notaris eene scheepsverklaring doen opmaken omtrent de voorvallen der reis.
 
@@ -2626,29 +2647,29 @@ Vervallen
 
 4. De notaris is verplicht van scheepsverklaringen tegen betaling der kosten afschrift uit te reiken aan ieder die het verlangt.
 
-#### Artikel 354
+##### Artikel 354
 
 1. Bij het berekenen van de in [artikel 353](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Tweede&titeldeel=Derde&artikel=353&z=2025-07-01&g=2025-07-01) genoemde wettelijke termijn tellen de Zondag en de daarmede gelijkgestelde dagen en, in het buitenland, de aldaar algemeen erkende wettelijke feestdagen niet mede.
 
 2. Met den Zondag worden gelijkgesteld de Nieuwjaarsdag, de Christelijke tweede Paasch- en Pinksterdagen, de beide Kerstdagen en de Hemelvaartsdag.
 
-#### Artikel 355
+##### Artikel 355
 
 De door den kapitein aan te wijzen zeevarenden zijn verplicht bij het opmaken van de scheepsverklaring hunne medewerking te verleenen door van hunne bevinding verklaring af te leggen.
 
-#### Artikel 356
+##### Artikel 356
 
 De beoordeeling van de bewijskracht van scheepsdagboeken en scheepsverklaringen, ten aanzien van de daarin vermelde voorvallen der reis, is voor ieder geval aan den rechter overgelaten.
 
-#### Artikel 357
+##### Artikel 357
 
 De kapitein is bevoegd, indien dit tot behoud van schip of lading noodzakelijk is, scheepstoebehooren en bestanddeelen van de lading zoowel over boord te werpen als te verbruiken.
 
-#### Artikel 358
+##### Artikel 358
 
 De kapitein is in geval van nood gedurende de reis bevoegd, levensmiddelen, welke in het bezit zijn van opvarenden of tot de lading behooren, tegen schadevergoeding tot zich te nemen, ten einde die te verbruiken in het belang van allen die zich aan boord bevinden.
 
-#### Artikel 358a
+##### Artikel 358a
 
 1. De kapitein is verplicht aan personen, die in gevaar verkeeren, en in het bijzonder, als zijn schip bij eene aanvaring betrokken is geweest, aan de andere daarbij betrokken schepen en de personen, die zich aan boord dier schepen bevinden, de hulp te verleenen, waartoe hij bij machte is, zonder zijn eigen schip en de opvarenden daarvan aan ernstig gevaar bloot te stellen.
 
@@ -2656,155 +2677,155 @@ De kapitein is in geval van nood gedurende de reis bevoegd, levensmiddelen, welk
 
 3. Niet-nakoming van deze verplichtingen door den kapitein geeft geen aanspraak tegen hem, die uit welken hoofde dan ook verantwoordelijk is voor het optreden van de kapitein.
 
-#### Artikel 358b
+##### Artikel 358b
 
 1. De kapitein van een Nederlandsch, naar Nederland bestemd schip, in eene buitenlandsche haven vertoevend, is verplicht, zich daar bevindende, hulpbehoevende Nederlandsche zeelieden, voorzoover aan boord voor hen plaats is, op verlangen van den Nederlandschen consulairen ambtenaar of, waar deze ontbreekt, van de plaatselijke overheid, naar Nederland over te brengen.
 
 2. De kosten hiervan zijn voor rekening van den Staat. De vaststelling dier kosten geschiedt op den grondslag door Ons te bepalen.
 
-#### Artikel 359
+##### Artikel 359
 
 De kapitein heeft de zorg voor alles wat met het beladen en het lossen van het schip in verband staat, voor zooverre niet andere personen daarmee zijn belast.
 
-#### Artikel 360
+##### Artikel 360
 
 Vervallen
 
-#### Artikel 361
+##### Artikel 361
 
 Vervallen
 
-#### Artikel 362
+##### Artikel 362
 
 Vervallen
 
-#### Artikel 363
+##### Artikel 363
 
 Vervallen
 
-#### Artikel 364
+##### Artikel 364
 
 Vervallen
 
-#### Artikel 365
+##### Artikel 365
 
 Vervallen
 
-#### Artikel 366
+##### Artikel 366
 
 Vervallen
 
-#### Artikel 367
+##### Artikel 367
 
 De kapitein, vernemende dat de vlag, waaronder hij vaart, onvrij is geworden, is verplicht in de meest in de nabijheid gelegen onzijdige haven binnen te loopen en aldaar te blijven liggen, totdat hij op veilige wijze kan vertrekken of van hem die daartoe bevoegd is stellige orders om te vertrekken heeft ontvangen.
 
-#### Artikel 368
+##### Artikel 368
 
 Indien den kapitein blijkt, dat de haven, waarheen het schip is bestemd, wordt geblokkeerd, is hij verplicht in de meest geschikte in de nabijheid gelegen haven binnen te loopen.
 
-#### Artikel 369
+##### Artikel 369
 
 Vervallen
 
-#### Artikel 370
+##### Artikel 370
 
 De kapitein mag van den koers, welken hij moet volgen, afwijken ter redding van menschenlevens.
 
-#### Artikel 371
+##### Artikel 371
 
 Vervallen
 
-#### Artikel 371a
+##### Artikel 371a
 
 Indien gedurende de reis iemand aan boord wordt ontdekt, die niet in het bezit is van een geldig reisbiljet en niet bereid of niet in staat is op eerste aanmaning van den kapitein vracht te betalen, heeft deze het recht hem aan boord werk te laten verrichten, waartoe hij in staat is, en hem bij de eerste gelegenheid die zich voordoet van boord te verwijderen.
 
-#### Artikel 372
+##### Artikel 372
 
 Noch de kapitein, noch een opvarende mag voor eigen rekening goederen in het schip vervoeren, tenzij krachtens overeenkomst met of verlof van de eigenaar en, indien het schip is vervracht, ook van den bevrachter.
 
-#### Artikel 373
+##### Artikel 373
 
 Vervallen
 
-#### Artikel 374
+##### Artikel 374
 
 1. [Artikel 347](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Tweede&titeldeel=Derde&artikel=347&z=2025-07-01&g=2025-07-01), het [tweede lid van artikel 348](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Tweede&titeldeel=Derde&artikel=348&z=2025-07-01&g=2025-07-01) en [artikel 349, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&boek=Tweede&titeldeel=Derde&artikel=349&z=2025-07-01&g=2025-07-01), zijn niet van toepassing op zeevissersschepen.
 
 2. Aan boord moeten aanwezig zijn een uittreksel uit de registratie voor schepen als bedoeld in [artikel 101, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=101) vermeldende tenminste de gegevens, bedoeld in [artikel 85, tweede lid, onder **a**, **c**, **d**, **e**, **f**, **g** en **j**, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=85), alsmede de gegevens omtrent niet doorgehaalde voorlopige aantekeningen, welk uittreksel op een zodanig tijdstip moet zijn afgegeven door de bewaarder van het kadaster en de openbare registers dat de daarin vermelde gegevens overeenstemmen met die welke in de registratie voor schepen ten aanzien van het betrokken schip staan vermeld ten tijde van het uitvaren van dat schip, en de wetten en reglementen op deze schepen van toepassing.
 
-#### Artikel 375
+##### Artikel 375
 
 Vervallen
 
-#### Artikel 376
+##### Artikel 376
 
 Vervallen
 
-#### Artikel 377
+##### Artikel 377
 
 Vervallen
 
-#### Artikel 378
+##### Artikel 378
 
 Vervallen
 
-#### Artikel 379
+##### Artikel 379
 
 Vervallen
 
-#### Artikel 380
+##### Artikel 380
 
 Vervallen
 
-#### Artikel 381
+##### Artikel 381
 
 Vervallen
 
-#### Artikel 382
+##### Artikel 382
 
 Vervallen
 
-#### Artikel 383
+##### Artikel 383
 
 Vervallen
 
-#### Artikel 384
+##### Artikel 384
 
 Vervallen
 
-#### Artikel 385
+##### Artikel 385
 
 Vervallen
 
-#### Artikel 386
+##### Artikel 386
 
 Vervallen
 
-#### Artikel 387
+##### Artikel 387
 
 Vervallen
 
-#### Artikel 388
+##### Artikel 388
 
 Na afloop van eene reis is de kapitein verplicht de scheepspapieren aan de werkgever af te geven tegen ontvangstbewijs.
 
-#### Artikel 389
+##### Artikel 389
 
 Vervallen
 
-#### Artikel 390
+##### Artikel 390
 
 Vervallen
 
-#### Artikel 391
+##### Artikel 391
 
 Vervallen
 
-#### Artikel 392
+##### Artikel 392
 
 Vervallen
 
-#### Artikel 392a
+##### Artikel 392a
 
 Vervallen
 
@@ -2812,445 +2833,445 @@ Vervallen
 
 #### § 1. Algemeene bepalingen
 
-#### Artikel 393
+##### Artikel 393
 
 Vervallen
 
-#### Artikel 394
+##### Artikel 394
 
 Vervallen
 
-#### Artikel 395
+##### Artikel 395
 
 Vervallen
 
 #### § 2. Van de arbeidsovereenkomst tot de vaart ter zee
 
-#### Artikel 396
+##### Artikel 396
 
 Vervallen
 
-#### Artikel 397
+##### Artikel 397
 
 Vervallen
 
-#### Artikel 398
+##### Artikel 398
 
 Vervallen
 
-#### Artikel 399
+##### Artikel 399
 
 Vervallen
 
-#### Artikel 400
+##### Artikel 400
 
 Vervallen
 
-#### Artikel 401
+##### Artikel 401
 
 Vervallen
 
-#### Artikel 402
+##### Artikel 402
 
 Vervallen
 
-#### Artikel 403
+##### Artikel 403
 
 Vervallen
 
-#### Artikel 404
+##### Artikel 404
 
 Vervallen
 
-#### Artikel 405
+##### Artikel 405
 
 Vervallen
 
-#### Artikel 406
+##### Artikel 406
 
 Vervallen
 
-#### Artikel 407
+##### Artikel 407
 
 Vervallen
 
-#### Artikel 408
+##### Artikel 408
 
 Vervallen
 
-#### Artikel 409
+##### Artikel 409
 
 Vervallen
 
-#### Artikel 410
+##### Artikel 410
 
 Vervallen
 
-#### Artikel 411
+##### Artikel 411
 
 Vervallen
 
-#### Artikel 412
+##### Artikel 412
 
 Vervallen
 
-#### Artikel 413
+##### Artikel 413
 
 Vervallen
 
-#### Artikel 414
+##### Artikel 414
 
 Vervallen
 
-#### Artikel 415
+##### Artikel 415
 
 Vervallen
 
-#### Artikel 415a
+##### Artikel 415a
 
 Vervallen
 
-#### Artikel 415b
+##### Artikel 415b
 
 Vervallen
 
-#### Artikel 415c
+##### Artikel 415c
 
 Vervallen
 
-#### Artikel 415d
+##### Artikel 415d
 
 Vervallen
 
-#### Artikel 415e
+##### Artikel 415e
 
 Vervallen
 
-#### Artikel 415f
+##### Artikel 415f
 
 Vervallen
 
-#### Artikel 415g
+##### Artikel 415g
 
 Vervallen
 
-#### Artikel 415h
+##### Artikel 415h
 
 Vervallen
 
-#### Artikel 415i
+##### Artikel 415i
 
 Vervallen
 
-#### Artikel 416
+##### Artikel 416
 
 Vervallen
 
-#### Artikel 417
+##### Artikel 417
 
 Vervallen
 
-#### Artikel 418
+##### Artikel 418
 
 Vervallen
 
-#### Artikel 419
+##### Artikel 419
 
 Vervallen
 
-#### Artikel 420
+##### Artikel 420
 
 Vervallen
 
-#### Artikel 421
+##### Artikel 421
 
 Vervallen
 
-#### Artikel 422
+##### Artikel 422
 
 Vervallen
 
-#### Artikel 423
+##### Artikel 423
 
 Vervallen
 
-#### Artikel 424
+##### Artikel 424
 
 Vervallen
 
-#### Artikel 425
+##### Artikel 425
 
 Vervallen
 
-#### Artikel 426
+##### Artikel 426
 
 Vervallen
 
-#### Artikel 427
+##### Artikel 427
 
 Vervallen
 
-#### Artikel 428
+##### Artikel 428
 
 Vervallen
 
-#### Artikel 429
+##### Artikel 429
 
 Vervallen
 
-#### Artikel 430
+##### Artikel 430
 
 Vervallen
 
-#### Artikel 431
+##### Artikel 431
 
 Vervallen
 
-#### Artikel 432
+##### Artikel 432
 
 Vervallen
 
-#### Artikel 433
+##### Artikel 433
 
 Vervallen
 
-#### Artikel 434
+##### Artikel 434
 
 Vervallen
 
-#### Artikel 435
+##### Artikel 435
 
 Vervallen
 
-#### Artikel 436
+##### Artikel 436
 
 Vervallen
 
-#### Artikel 437
+##### Artikel 437
 
 Vervallen
 
-#### Artikel 438
+##### Artikel 438
 
 Vervallen
 
-#### Artikel 439
+##### Artikel 439
 
 Vervallen
 
-#### Artikel 440
+##### Artikel 440
 
 Vervallen
 
-#### Artikel 441
+##### Artikel 441
 
 Vervallen
 
-#### Artikel 442
+##### Artikel 442
 
 Vervallen
 
-#### Artikel 443
+##### Artikel 443
 
 Vervallen
 
-#### Artikel 444
+##### Artikel 444
 
 Vervallen
 
-#### Artikel 445
+##### Artikel 445
 
 Vervallen
 
-#### Artikel 446
+##### Artikel 446
 
 Vervallen
 
-#### Artikel 447
+##### Artikel 447
 
 Vervallen
 
-#### Artikel 448
+##### Artikel 448
 
 Vervallen
 
-#### Artikel 449
+##### Artikel 449
 
 Vervallen
 
-#### Artikel 450
+##### Artikel 450
 
 Vervallen
 
-#### Artikel 450a
+##### Artikel 450a
 
 Vervallen
 
-#### Artikel 450aa
+##### Artikel 450aa
 
 Vervallen
 
-#### Artikel 450b
+##### Artikel 450b
 
 Vervallen
 
-#### Artikel 450c
+##### Artikel 450c
 
 Vervallen
 
-#### Artikel 450d
+##### Artikel 450d
 
 Vervallen
 
 #### § 3. Van de monsterrol en het monsterboekje
 
-#### Artikel 450e
+##### Artikel 450e
 
 Vervallen
 
-#### Artikel 451
+##### Artikel 451
 
 Vervallen
 
-#### Artikel 451a
+##### Artikel 451a
 
 Vervallen
 
-#### Artikel 451b
+##### Artikel 451b
 
 Vervallen
 
-#### Artikel 451c
+##### Artikel 451c
 
 Vervallen
 
-#### Artikel 451d
+##### Artikel 451d
 
 Vervallen
 
-#### Artikel 451e
+##### Artikel 451e
 
 Vervallen
 
-#### Artikel 451f
+##### Artikel 451f
 
 Vervallen
 
-#### Artikel 451g
+##### Artikel 451g
 
 Vervallen
 
-#### Artikel 451h
+##### Artikel 451h
 
 Vervallen
 
-#### Artikel 451i
+##### Artikel 451i
 
 Vervallen
 
-#### Artikel 451j
+##### Artikel 451j
 
 Vervallen
 
 #### § 4. Van de schepelingen ter visscherij
 
-#### Artikel 452
+##### Artikel 452
 
 Vervallen
 
 #### § 5. Van de schepelingen ter zeevisserij die een arbeidsovereenkomst met de zeewerkgever hebben gesloten
 
-#### Artikel 452a
+##### Artikel 452a
 
 Vervallen
 
-#### Artikel 452b
+##### Artikel 452b
 
 Vervallen
 
-#### Artikel 452c
+##### Artikel 452c
 
 Vervallen
 
-#### Artikel 452d
+##### Artikel 452d
 
 Vervallen
 
-#### Artikel 452e
+##### Artikel 452e
 
 Vervallen
 
-#### Artikel 452f
+##### Artikel 452f
 
 Vervallen
 
-#### Artikel 452g
+##### Artikel 452g
 
 Vervallen
 
-#### Artikel 452h
+##### Artikel 452h
 
 Vervallen
 
-#### Artikel 452i
+##### Artikel 452i
 
 Vervallen
 
-#### Artikel 452j
+##### Artikel 452j
 
 Vervallen
 
-#### Artikel 452k
+##### Artikel 452k
 
 Vervallen
 
-#### Artikel 452l
+##### Artikel 452l
 
 Vervallen
 
-#### Artikel 452m
+##### Artikel 452m
 
 Vervallen
 
-#### Artikel 452n
+##### Artikel 452n
 
 Vervallen
 
-#### Artikel 452o
+##### Artikel 452o
 
 Vervallen
 
-#### Artikel 452p
+##### Artikel 452p
 
 Vervallen
 
 #### § 6. Van de kapitein en de schepelingen ter zeevisserij die een maatschapsovereenkomst hebben gesloten
 
-#### Artikel 452q
+##### Artikel 452q
 
 Vervallen
 
-#### Artikel 452r
+##### Artikel 452r
 
 Vervallen
 
-#### Artikel 452s
+##### Artikel 452s
 
 Vervallen
 
-#### Artikel 452t
+##### Artikel 452t
 
 Vervallen
 
-#### Artikel 452u
+##### Artikel 452u
 
 Vervallen
 
-#### Artikel 452v
+##### Artikel 452v
 
 Vervallen
 
-#### Artikel 452w
+##### Artikel 452w
 
 Vervallen
 
@@ -3258,61 +3279,61 @@ Vervallen
 
 #### § 1. Algemeene bepalingen
 
-#### Artikel 453
+##### Artikel 453
 
 Vervallen
 
-#### Artikel 454
+##### Artikel 454
 
 Vervallen
 
-#### Artikel 455
+##### Artikel 455
 
 Vervallen
 
-#### Artikel 456
+##### Artikel 456
 
 Vervallen
 
-#### Artikel 457
+##### Artikel 457
 
 Vervallen
 
-#### Artikel 458
+##### Artikel 458
 
 Vervallen
 
-#### Artikel 459
+##### Artikel 459
 
 Vervallen
 
-#### Artikel 459a
+##### Artikel 459a
 
 Vervallen
 
 #### § 2. Tijd-bevrachting
 
-#### Artikel 460
+##### Artikel 460
 
 Vervallen
 
-#### Artikel 461
+##### Artikel 461
 
 Vervallen
 
-#### Artikel 462
+##### Artikel 462
 
 Vervallen
 
-#### Artikel 463
+##### Artikel 463
 
 Vervallen
 
-#### Artikel 464
+##### Artikel 464
 
 Vervallen
 
-#### Artikel 465
+##### Artikel 465
 
 Vervallen
 
@@ -3320,655 +3341,655 @@ Vervallen
 
 #### § 1. Algemeene bepalingen
 
-#### Artikel 466
+##### Artikel 466
 
 Vervallen
 
-#### Artikel 467
+##### Artikel 467
 
 Vervallen
 
-#### Artikel 467a
+##### Artikel 467a
 
 Vervallen
 
-#### Artikel 468
+##### Artikel 468
 
 Vervallen
 
-#### Artikel 469
+##### Artikel 469
 
 Vervallen
 
-#### Artikel 469a
+##### Artikel 469a
 
 Vervallen
 
-#### Artikel 469b
+##### Artikel 469b
 
 Vervallen
 
-#### Artikel 470
+##### Artikel 470
 
 Vervallen
 
-#### Artikel 470a
+##### Artikel 470a
 
 Vervallen
 
-#### Artikel 471
+##### Artikel 471
 
 Vervallen
 
-#### Artikel 472
+##### Artikel 472
 
 Vervallen
 
-#### Artikel 473
+##### Artikel 473
 
 Vervallen
 
-#### Artikel 473a
+##### Artikel 473a
 
 Vervallen
 
-#### Artikel 474
+##### Artikel 474
 
 Vervallen
 
-#### Artikel 475
+##### Artikel 475
 
 Vervallen
 
-#### Artikel 476
+##### Artikel 476
 
 Vervallen
 
-#### Artikel 477
+##### Artikel 477
 
 Vervallen
 
-#### Artikel 478
+##### Artikel 478
 
 Vervallen
 
-#### Artikel 479
+##### Artikel 479
 
 Vervallen
 
-#### Artikel 480
+##### Artikel 480
 
 Vervallen
 
-#### Artikel 481
+##### Artikel 481
 
 Vervallen
 
-#### Artikel 482
+##### Artikel 482
 
 Vervallen
 
-#### Artikel 483
+##### Artikel 483
 
 Vervallen
 
-#### Artikel 484
+##### Artikel 484
 
 Vervallen
 
-#### Artikel 485
+##### Artikel 485
 
 Vervallen
 
-#### Artikel 486
+##### Artikel 486
 
 Vervallen
 
-#### Artikel 487
+##### Artikel 487
 
 Vervallen
 
-#### Artikel 488
+##### Artikel 488
 
 Vervallen
 
-#### Artikel 489
+##### Artikel 489
 
 Vervallen
 
-#### Artikel 490
+##### Artikel 490
 
 Vervallen
 
-#### Artikel 491
+##### Artikel 491
 
 Vervallen
 
-#### Artikel 492
+##### Artikel 492
 
 Vervallen
 
-#### Artikel 493
+##### Artikel 493
 
 Vervallen
 
-#### Artikel 494
+##### Artikel 494
 
 Vervallen
 
-#### Artikel 495
+##### Artikel 495
 
 Vervallen
 
-#### Artikel 496
+##### Artikel 496
 
 Vervallen
 
-#### Artikel 497
+##### Artikel 497
 
 Vervallen
 
-#### Artikel 498
+##### Artikel 498
 
 Vervallen
 
-#### Artikel 499
+##### Artikel 499
 
 Vervallen
 
-#### Artikel 500
+##### Artikel 500
 
 Vervallen
 
-#### Artikel 501
+##### Artikel 501
 
 Vervallen
 
-#### Artikel 502
+##### Artikel 502
 
 Vervallen
 
-#### Artikel 503
+##### Artikel 503
 
 Vervallen
 
-#### Artikel 504
+##### Artikel 504
 
 Vervallen
 
-#### Artikel 505
+##### Artikel 505
 
 Vervallen
 
-#### Artikel 506
+##### Artikel 506
 
 Vervallen
 
-#### Artikel 507
+##### Artikel 507
 
 Vervallen
 
-#### Artikel 508
+##### Artikel 508
 
 Vervallen
 
-#### Artikel 509
+##### Artikel 509
 
 Vervallen
 
-#### Artikel 510
+##### Artikel 510
 
 Vervallen
 
-#### Artikel 511
+##### Artikel 511
 
 Vervallen
 
-#### Artikel 512
+##### Artikel 512
 
 Vervallen
 
-#### Artikel 513
+##### Artikel 513
 
 Vervallen
 
-#### Artikel 513a
+##### Artikel 513a
 
 Vervallen
 
-#### Artikel 514
+##### Artikel 514
 
 Vervallen
 
-#### Artikel 515
+##### Artikel 515
 
 Vervallen
 
-#### Artikel 516
+##### Artikel 516
 
 Vervallen
 
-#### Artikel 517
+##### Artikel 517
 
 Vervallen
 
-#### Artikel 517a
+##### Artikel 517a
 
 Vervallen
 
-#### Artikel 517b
+##### Artikel 517b
 
 Vervallen
 
-#### Artikel 517c
+##### Artikel 517c
 
 Vervallen
 
-#### Artikel 517d
+##### Artikel 517d
 
 Vervallen
 
 #### § 2. Vaste lijnen
 
-#### Artikel 517e
+##### Artikel 517e
 
 Vervallen
 
-#### Artikel 517f
+##### Artikel 517f
 
 Vervallen
 
-#### Artikel 517g
+##### Artikel 517g
 
 Vervallen
 
-#### Artikel 517h
+##### Artikel 517h
 
 Vervallen
 
-#### Artikel 517i
+##### Artikel 517i
 
 Vervallen
 
-#### Artikel 517j
+##### Artikel 517j
 
 Vervallen
 
-#### Artikel 517k
+##### Artikel 517k
 
 Vervallen
 
-#### Artikel 517l
+##### Artikel 517l
 
 Vervallen
 
-#### Artikel 517m
+##### Artikel 517m
 
 Vervallen
 
-#### Artikel 517n
+##### Artikel 517n
 
 Vervallen
 
-#### Artikel 517o
+##### Artikel 517o
 
 Vervallen
 
-#### Artikel 517p
+##### Artikel 517p
 
 Vervallen
 
-#### Artikel 517q
+##### Artikel 517q
 
 Vervallen
 
-#### Artikel 517r
+##### Artikel 517r
 
 Vervallen
 
-#### Artikel 517s
+##### Artikel 517s
 
 Vervallen
 
-#### Artikel 517t
+##### Artikel 517t
 
 Vervallen
 
-#### Artikel 517u
+##### Artikel 517u
 
 Vervallen
 
-#### Artikel 517ubis
+##### Artikel 517ubis
 
 Vervallen
 
-#### Artikel 517v
+##### Artikel 517v
 
 Vervallen
 
-#### Artikel 517w
+##### Artikel 517w
 
 Vervallen
 
-#### Artikel 517x
+##### Artikel 517x
 
 Vervallen
 
-#### Artikel 517ij
+##### Artikel 517ij
 
 Vervallen
 
 #### § 3. Tijd-bevrachting
 
-#### Artikel 517z
+##### Artikel 517z
 
 Vervallen
 
-#### Artikel 518
+##### Artikel 518
 
 Vervallen
 
-#### Artikel 518a
+##### Artikel 518a
 
 Vervallen
 
-#### Artikel 518b
+##### Artikel 518b
 
 Vervallen
 
-#### Artikel 518c
+##### Artikel 518c
 
 Vervallen
 
-#### Artikel 518d
+##### Artikel 518d
 
 Vervallen
 
-#### Artikel 518e
+##### Artikel 518e
 
 Vervallen
 
-#### Artikel 518f
+##### Artikel 518f
 
 Vervallen
 
-#### Artikel 518g
+##### Artikel 518g
 
 Vervallen
 
 #### § 4. Reis-bevrachting
 
-#### Artikel 518h
+##### Artikel 518h
 
 Vervallen
 
-#### Artikel 518i
+##### Artikel 518i
 
 Vervallen
 
-#### Artikel 518j
+##### Artikel 518j
 
 Vervallen
 
-#### Artikel 518k
+##### Artikel 518k
 
 Vervallen
 
-#### Artikel 518l
+##### Artikel 518l
 
 Vervallen
 
-#### Artikel 518m
+##### Artikel 518m
 
 Vervallen
 
-#### Artikel 518n
+##### Artikel 518n
 
 Vervallen
 
-#### Artikel 518o
+##### Artikel 518o
 
 Vervallen
 
-#### Artikel 518p
+##### Artikel 518p
 
 Vervallen
 
-#### Artikel 518q
+##### Artikel 518q
 
 Vervallen
 
-#### Artikel 518r
+##### Artikel 518r
 
 Vervallen
 
-#### Artikel 518s
+##### Artikel 518s
 
 Vervallen
 
-#### Artikel 518t
+##### Artikel 518t
 
 Vervallen
 
-#### Artikel 518u
+##### Artikel 518u
 
 Vervallen
 
-#### Artikel 518v
+##### Artikel 518v
 
 Vervallen
 
-#### Artikel 518w
+##### Artikel 518w
 
 Vervallen
 
-#### Artikel 518x
+##### Artikel 518x
 
 Vervallen
 
-#### Artikel 518ij
+##### Artikel 518ij
 
 Vervallen
 
-#### Artikel 518z
+##### Artikel 518z
 
 Vervallen
 
-#### Artikel 519
+##### Artikel 519
 
 Vervallen
 
-#### Artikel 519a
+##### Artikel 519a
 
 Vervallen
 
-#### Artikel 519b
+##### Artikel 519b
 
 Vervallen
 
-#### Artikel 519c
+##### Artikel 519c
 
 Vervallen
 
-#### Artikel 519d
+##### Artikel 519d
 
 Vervallen
 
-#### Artikel 519e
+##### Artikel 519e
 
 Vervallen
 
-#### Artikel 519f
+##### Artikel 519f
 
 Vervallen
 
-#### Artikel 519g
+##### Artikel 519g
 
 Vervallen
 
-#### Artikel 519h
+##### Artikel 519h
 
 Vervallen
 
-#### Artikel 519i
+##### Artikel 519i
 
 Vervallen
 
-#### Artikel 519j
+##### Artikel 519j
 
 Vervallen
 
-#### Artikel 519k
+##### Artikel 519k
 
 Vervallen
 
-#### Artikel 519l
+##### Artikel 519l
 
 Vervallen
 
-#### Artikel 519m
+##### Artikel 519m
 
 Vervallen
 
-#### Artikel 519n
+##### Artikel 519n
 
 Vervallen
 
-#### Artikel 519o
+##### Artikel 519o
 
 Vervallen
 
-#### Artikel 519p
+##### Artikel 519p
 
 Vervallen
 
-#### Artikel 519q
+##### Artikel 519q
 
 Vervallen
 
-#### Artikel 519r
+##### Artikel 519r
 
 Vervallen
 
-#### Artikel 519s
+##### Artikel 519s
 
 Vervallen
 
-#### Artikel 519t
+##### Artikel 519t
 
 Vervallen
 
-#### Artikel 519u
+##### Artikel 519u
 
 Vervallen
 
-#### Artikel 519v
+##### Artikel 519v
 
 Vervallen
 
-#### Artikel 519w
+##### Artikel 519w
 
 Vervallen
 
-#### Artikel 519x
+##### Artikel 519x
 
 Vervallen
 
-#### Artikel 519ij
+##### Artikel 519ij
 
 Vervallen
 
-#### Artikel 519z
+##### Artikel 519z
 
 Vervallen
 
-#### Artikel 520
+##### Artikel 520
 
 Vervallen
 
-#### Artikel 520a
+##### Artikel 520a
 
 Vervallen
 
-#### Artikel 520abis
+##### Artikel 520abis
 
 Vervallen
 
-#### Artikel 520b
+##### Artikel 520b
 
 Vervallen
 
-#### Artikel 520c
+##### Artikel 520c
 
 Vervallen
 
-#### Artikel 520d
+##### Artikel 520d
 
 Vervallen
 
-#### Artikel 520e
+##### Artikel 520e
 
 Vervallen
 
-#### Artikel 520f
+##### Artikel 520f
 
 Vervallen
 
 #### § 5. Vervoer van stukgoederen
 
-#### Artikel 520g
+##### Artikel 520g
 
 Vervallen
 
-#### Artikel 520h
+##### Artikel 520h
 
 Vervallen
 
-#### Artikel 520i
+##### Artikel 520i
 
 Vervallen
 
-#### Artikel 520j
+##### Artikel 520j
 
 Vervallen
 
-#### Artikel 520k
+##### Artikel 520k
 
 Vervallen
 
-#### Artikel 520l
+##### Artikel 520l
 
 Vervallen
 
-#### Artikel 520m
+##### Artikel 520m
 
 Vervallen
 
-#### Artikel 520n
+##### Artikel 520n
 
 Vervallen
 
-#### Artikel 520o
+##### Artikel 520o
 
 Vervallen
 
-#### Artikel 520p
+##### Artikel 520p
 
 Vervallen
 
-#### Artikel 520q
+##### Artikel 520q
 
 Vervallen
 
-#### Artikel 520r
+##### Artikel 520r
 
 Vervallen
 
-#### Artikel 520s
+##### Artikel 520s
 
 Vervallen
 
-#### Artikel 520t
+##### Artikel 520t
 
 Vervallen
 
@@ -3976,425 +3997,425 @@ Vervallen
 
 #### § 1. Algemeene bepalingen
 
-#### Artikel 521
+##### Artikel 521
 
 Vervallen
 
-#### Artikel 522
+##### Artikel 522
 
 Vervallen
 
-#### Artikel 523
+##### Artikel 523
 
 Vervallen
 
-#### Artikel 524
+##### Artikel 524
 
 Vervallen
 
-#### Artikel 524a
+##### Artikel 524a
 
 Vervallen
 
-#### Artikel 524b
+##### Artikel 524b
 
 Vervallen
 
-#### Artikel 525
+##### Artikel 525
 
 Vervallen
 
-#### Artikel 526
+##### Artikel 526
 
 Vervallen
 
-#### Artikel 527
+##### Artikel 527
 
 Vervallen
 
-#### Artikel 528
+##### Artikel 528
 
 Vervallen
 
-#### Artikel 529
+##### Artikel 529
 
 Vervallen
 
-#### Artikel 530
+##### Artikel 530
 
 Vervallen
 
-#### Artikel 531
+##### Artikel 531
 
 Vervallen
 
-#### Artikel 532
+##### Artikel 532
 
 Vervallen
 
-#### Artikel 533
+##### Artikel 533
 
 Vervallen
 
-#### Artikel 533a
+##### Artikel 533a
 
 Vervallen
 
-#### Artikel 533b
+##### Artikel 533b
 
 Vervallen
 
-#### Artikel 533c
+##### Artikel 533c
 
 Vervallen
 
 #### § 2. Vaste lijnen
 
-#### Artikel 533d
+##### Artikel 533d
 
 Vervallen
 
-#### Artikel 533e
+##### Artikel 533e
 
 Vervallen
 
-#### Artikel 533f
+##### Artikel 533f
 
 Vervallen
 
-#### Artikel 533g
+##### Artikel 533g
 
 Vervallen
 
-#### Artikel 533h
+##### Artikel 533h
 
 Vervallen
 
-#### Artikel 533i
+##### Artikel 533i
 
 Vervallen
 
-#### Artikel 533j
+##### Artikel 533j
 
 Vervallen
 
-#### Artikel 533k
+##### Artikel 533k
 
 Vervallen
 
-#### Artikel 533l
+##### Artikel 533l
 
 Vervallen
 
-#### Artikel 533m
+##### Artikel 533m
 
 Vervallen
 
-#### Artikel 533mbis
+##### Artikel 533mbis
 
 Vervallen
 
 #### § 3. Tijd-bevrachting
 
-#### Artikel 533n
+##### Artikel 533n
 
 Vervallen
 
-#### Artikel 533o
+##### Artikel 533o
 
 Vervallen
 
-#### Artikel 533p
+##### Artikel 533p
 
 Vervallen
 
 #### § 4. Reis-bevrachting
 
-#### Artikel 533q
+##### Artikel 533q
 
 Vervallen
 
-#### Artikel 533r
+##### Artikel 533r
 
 Vervallen
 
-#### Artikel 533s
+##### Artikel 533s
 
 Vervallen
 
-#### Artikel 533t
+##### Artikel 533t
 
 Vervallen
 
-#### Artikel 533u
+##### Artikel 533u
 
 Vervallen
 
 #### § 5. Vervoer van enkele personen
 
-#### Artikel 533v
+##### Artikel 533v
 
 Vervallen
 
-#### Artikel 533w
+##### Artikel 533w
 
 Vervallen
 
-#### Artikel 533x
+##### Artikel 533x
 
 Vervallen
 
-#### Artikel 533ij
+##### Artikel 533ij
 
 Vervallen
 
-#### Artikel 533z
+##### Artikel 533z
 
 Vervallen
 
 ## titel Zesde. Van aanvaring
 
-#### Artikel 534
+##### Artikel 534
 
 Vervallen
 
-#### Artikel 535
+##### Artikel 535
 
 Vervallen
 
-#### Artikel 536
+##### Artikel 536
 
 Vervallen
 
-#### Artikel 536a
+##### Artikel 536a
 
 Vervallen
 
-#### Artikel 537
+##### Artikel 537
 
 Vervallen
 
-#### Artikel 538
+##### Artikel 538
 
 Vervallen
 
-#### Artikel 539
+##### Artikel 539
 
 Vervallen
 
-#### Artikel 540
+##### Artikel 540
 
 Vervallen
 
-#### Artikel 541
+##### Artikel 541
 
 Vervallen
 
-#### Artikel 542
+##### Artikel 542
 
 Vervallen
 
-#### Artikel 543
+##### Artikel 543
 
 Vervallen
 
-#### Artikel 544
+##### Artikel 544
 
 Vervallen
 
-#### Artikel 544a
+##### Artikel 544a
 
 Vervallen
 
 ## titel Zevende. Van hulp en berging
 
-#### Artikel 545
+##### Artikel 545
 
 Vervallen
 
-#### Artikel 546
+##### Artikel 546
 
 Vervallen
 
-#### Artikel 547
+##### Artikel 547
 
 Vervallen
 
-#### Artikel 548
+##### Artikel 548
 
 Vervallen
 
-#### Artikel 549
+##### Artikel 549
 
 Vervallen
 
-#### Artikel 550
+##### Artikel 550
 
 Vervallen
 
-#### Artikel 551
+##### Artikel 551
 
 Vervallen
 
-#### Artikel 552
+##### Artikel 552
 
 Vervallen
 
-#### Artikel 553
+##### Artikel 553
 
 Vervallen
 
-#### Artikel 554
+##### Artikel 554
 
 Vervallen
 
-#### Artikel 555
+##### Artikel 555
 
 Vervallen
 
-#### Artikel 556
+##### Artikel 556
 
 Vervallen
 
-#### Artikel 557
+##### Artikel 557
 
 Vervallen
 
-#### Artikel 558
+##### Artikel 558
 
 Vervallen
 
-#### Artikel 559
+##### Artikel 559
 
 Vervallen
 
-#### Artikel 560
+##### Artikel 560
 
 Vervallen
 
-#### Artikel 561
+##### Artikel 561
 
 Vervallen
 
-#### Artikel 562
+##### Artikel 562
 
 Vervallen
 
-#### Artikel 563
+##### Artikel 563
 
 Vervallen
 
-#### Artikel 564
+##### Artikel 564
 
 Vervallen
 
-#### Artikel 565
+##### Artikel 565
 
 Vervallen
 
-#### Artikel 566
+##### Artikel 566
 
 Vervallen
 
-#### Artikel 567
+##### Artikel 567
 
 Vervallen
 
-#### Artikel 568
+##### Artikel 568
 
 Vervallen
 
-#### Artikel 569
+##### Artikel 569
 
 Vervallen
 
-#### Artikel 570
+##### Artikel 570
 
 Vervallen
 
-#### Artikel 571
+##### Artikel 571
 
 Vervallen
 
-#### Artikel 572
+##### Artikel 572
 
 Vervallen
 
-#### Artikel 573
+##### Artikel 573
 
 Vervallen
 
-#### Artikel 574
+##### Artikel 574
 
 Vervallen
 
-#### Artikel 575
+##### Artikel 575
 
 Vervallen
 
-#### Artikel 576
+##### Artikel 576
 
 Vervallen
 
 ## titel Achtste. Van bodemerij
 
-#### Artikel 577
+##### Artikel 577
 
 Vervallen
 
-#### Artikel 578
+##### Artikel 578
 
 Vervallen
 
-#### Artikel 579
+##### Artikel 579
 
 Vervallen
 
-#### Artikel 580
+##### Artikel 580
 
 Vervallen
 
-#### Artikel 581
+##### Artikel 581
 
 Vervallen
 
-#### Artikel 582
+##### Artikel 582
 
 Vervallen
 
-#### Artikel 583
+##### Artikel 583
 
 Vervallen
 
-#### Artikel 584
+##### Artikel 584
 
 Vervallen
 
-#### Artikel 585
+##### Artikel 585
 
 Vervallen
 
-#### Artikel 586
+##### Artikel 586
 
 Vervallen
 
-#### Artikel 587
+##### Artikel 587
 
 Vervallen
 
-#### Artikel 588
+##### Artikel 588
 
 Vervallen
 
-#### Artikel 589
+##### Artikel 589
 
 Vervallen
 
-#### Artikel 590
+##### Artikel 590
 
 Vervallen
 
-#### Artikel 591
+##### Artikel 591
 
 Vervallen
 
@@ -4402,689 +4423,689 @@ Vervallen
 
 ### afdeeling Eerste. Van den vorm en den inhoud der verzekering
 
-#### Artikel 592
+##### Artikel 592
 
 Vervallen
 
-#### Artikel 593
+##### Artikel 593
 
 Vervallen
 
-#### Artikel 594
+##### Artikel 594
 
 Vervallen
 
-#### Artikel 595
+##### Artikel 595
 
 Vervallen
 
-#### Artikel 596
+##### Artikel 596
 
 Vervallen
 
-#### Artikel 597
+##### Artikel 597
 
 Vervallen
 
-#### Artikel 598
+##### Artikel 598
 
 Vervallen
 
-#### Artikel 599
+##### Artikel 599
 
 Vervallen
 
-#### Artikel 600
+##### Artikel 600
 
 Vervallen
 
-#### Artikel 601
+##### Artikel 601
 
 Vervallen
 
-#### Artikel 602
+##### Artikel 602
 
 Vervallen
 
-#### Artikel 603
+##### Artikel 603
 
 Vervallen
 
-#### Artikel 604
+##### Artikel 604
 
 Vervallen
 
-#### Artikel 605
+##### Artikel 605
 
 Vervallen
 
-#### Artikel 606
+##### Artikel 606
 
 Vervallen
 
-#### Artikel 607
+##### Artikel 607
 
 Vervallen
 
-#### Artikel 608
+##### Artikel 608
 
 Vervallen
 
-#### Artikel 609
+##### Artikel 609
 
 Vervallen
 
-#### Artikel 610
+##### Artikel 610
 
 Vervallen
 
-#### Artikel 611
+##### Artikel 611
 
 Vervallen
 
-#### Artikel 612
+##### Artikel 612
 
 Vervallen
 
-#### Artikel 613
+##### Artikel 613
 
 Vervallen
 
-#### Artikel 614
+##### Artikel 614
 
 Vervallen
 
-#### Artikel 615
+##### Artikel 615
 
 Vervallen
 
-#### Artikel 616
+##### Artikel 616
 
 Vervallen
 
-#### Artikel 617
+##### Artikel 617
 
 Vervallen
 
-#### Artikel 618
+##### Artikel 618
 
 Vervallen
 
 ### afdeeling Tweede. Van de begrooting der verzekerde voorwerpen
 
-#### Artikel 619
+##### Artikel 619
 
 Vervallen
 
-#### Artikel 620
+##### Artikel 620
 
 Vervallen
 
-#### Artikel 621
+##### Artikel 621
 
 Vervallen
 
-#### Artikel 622
+##### Artikel 622
 
 Vervallen
 
-#### Artikel 623
+##### Artikel 623
 
 Vervallen
 
 ### afdeeling Derde. Van het begin en het einde van het gevaar
 
-#### Artikel 624
+##### Artikel 624
 
 Vervallen
 
-#### Artikel 625
+##### Artikel 625
 
 Vervallen
 
-#### Artikel 626
+##### Artikel 626
 
 Vervallen
 
-#### Artikel 627
+##### Artikel 627
 
 Vervallen
 
-#### Artikel 628
+##### Artikel 628
 
 Vervallen
 
-#### Artikel 629
+##### Artikel 629
 
 Vervallen
 
-#### Artikel 630
+##### Artikel 630
 
 Vervallen
 
-#### Artikel 631
+##### Artikel 631
 
 Vervallen
 
-#### Artikel 632
+##### Artikel 632
 
 Vervallen
 
-#### Artikel 633
+##### Artikel 633
 
 Vervallen
 
-#### Artikel 634
+##### Artikel 634
 
 Vervallen
 
 ### afdeeling Vierde. Van de regten en pligten van den verzekeraar en den verzekerde
 
-#### Artikel 635
+##### Artikel 635
 
 Vervallen
 
-#### Artikel 636
+##### Artikel 636
 
 Vervallen
 
-#### Artikel 637
+##### Artikel 637
 
 Vervallen
 
-#### Artikel 638
+##### Artikel 638
 
 Vervallen
 
-#### Artikel 639
+##### Artikel 639
 
 Vervallen
 
-#### Artikel 640
+##### Artikel 640
 
 Vervallen
 
-#### Artikel 641
+##### Artikel 641
 
 Vervallen
 
-#### Artikel 642
+##### Artikel 642
 
 Vervallen
 
-#### Artikel 643
+##### Artikel 643
 
 Vervallen
 
-#### Artikel 644
+##### Artikel 644
 
 Vervallen
 
-#### Artikel 645
+##### Artikel 645
 
 Vervallen
 
-#### Artikel 646
+##### Artikel 646
 
 Vervallen
 
-#### Artikel 647
+##### Artikel 647
 
 Vervallen
 
-#### Artikel 648
+##### Artikel 648
 
 Vervallen
 
-#### Artikel 649
+##### Artikel 649
 
 Vervallen
 
-#### Artikel 650
+##### Artikel 650
 
 Vervallen
 
-#### Artikel 651
+##### Artikel 651
 
 Vervallen
 
-#### Artikel 652
+##### Artikel 652
 
 Vervallen
 
-#### Artikel 653
+##### Artikel 653
 
 Vervallen
 
-#### Artikel 654
+##### Artikel 654
 
 Vervallen
 
-#### Artikel 655
+##### Artikel 655
 
 Vervallen
 
-#### Artikel 656
+##### Artikel 656
 
 Vervallen
 
-#### Artikel 657
+##### Artikel 657
 
 Vervallen
 
-#### Artikel 658
+##### Artikel 658
 
 Vervallen
 
-#### Artikel 659
+##### Artikel 659
 
 Vervallen
 
-#### Artikel 660
+##### Artikel 660
 
 Vervallen
 
-#### Artikel 661
+##### Artikel 661
 
 Vervallen
 
-#### Artikel 662
+##### Artikel 662
 
 Vervallen
 
 ### afdeeling Vijfde. Van abandonnement
 
-#### Artikel 663
+##### Artikel 663
 
 Vervallen
 
-#### Artikel 664
+##### Artikel 664
 
 Vervallen
 
-#### Artikel 665
+##### Artikel 665
 
 Vervallen
 
-#### Artikel 666
+##### Artikel 666
 
 Vervallen
 
-#### Artikel 667
+##### Artikel 667
 
 Vervallen
 
-#### Artikel 668
+##### Artikel 668
 
 Vervallen
 
-#### Artikel 669
+##### Artikel 669
 
 Vervallen
 
-#### Artikel 670
+##### Artikel 670
 
 Vervallen
 
-#### Artikel 671
+##### Artikel 671
 
 Vervallen
 
-#### Artikel 672
+##### Artikel 672
 
 Vervallen
 
-#### Artikel 673
+##### Artikel 673
 
 Vervallen
 
-#### Artikel 674
+##### Artikel 674
 
 Vervallen
 
-#### Artikel 675
+##### Artikel 675
 
 Vervallen
 
-#### Artikel 676
+##### Artikel 676
 
 Vervallen
 
-#### Artikel 677
+##### Artikel 677
 
 Vervallen
 
-#### Artikel 678
+##### Artikel 678
 
 Vervallen
 
-#### Artikel 679
+##### Artikel 679
 
 Vervallen
 
-#### Artikel 680
+##### Artikel 680
 
 Vervallen
 
 ### afdeeling Zesde. Van de plichten en rechten van tussenpersonen in zee-assurantiën
 
-#### Artikel 681
+##### Artikel 681
 
 Vervallen
 
-#### Artikel 682
+##### Artikel 682
 
 Vervallen
 
-#### Artikel 683
+##### Artikel 683
 
 Vervallen
 
-#### Artikel 684
+##### Artikel 684
 
 Vervallen
 
-#### Artikel 685
+##### Artikel 685
 
 Vervallen
 
-#### Artikel 685a
+##### Artikel 685a
 
 Vervallen
 
 ## titel Tiende. Van verzekering tegen de gevaren van den vervoer te lande en op binnenwateren
 
-#### Artikel 686
+##### Artikel 686
 
 Vervallen
 
-#### Artikel 687
+##### Artikel 687
 
 Vervallen
 
-#### Artikel 688
+##### Artikel 688
 
 Vervallen
 
-#### Artikel 689
+##### Artikel 689
 
 Vervallen
 
-#### Artikel 690
+##### Artikel 690
 
 Vervallen
 
-#### Artikel 691
+##### Artikel 691
 
 Vervallen
 
-#### Artikel 692
+##### Artikel 692
 
 Vervallen
 
-#### Artikel 693
+##### Artikel 693
 
 Vervallen
 
-#### Artikel 694
+##### Artikel 694
 
 Vervallen
 
-#### Artikel 695
+##### Artikel 695
 
 Vervallen
 
 ## titel Elfde. Van avarijen
 
-#### Artikel 696
+##### Artikel 696
 
 Vervallen
 
-#### Artikel 697
+##### Artikel 697
 
 Vervallen
 
-#### Artikel 698
+##### Artikel 698
 
 Vervallen
 
-#### Artikel 699
+##### Artikel 699
 
 Vervallen
 
-#### Artikel 700
+##### Artikel 700
 
 Vervallen
 
-#### Artikel 701
+##### Artikel 701
 
 Vervallen
 
-#### Artikel 702
+##### Artikel 702
 
 Vervallen
 
-#### Artikel 703
+##### Artikel 703
 
 Vervallen
 
-#### Artikel 704
+##### Artikel 704
 
 Vervallen
 
-#### Artikel 705
+##### Artikel 705
 
 Vervallen
 
-#### Artikel 706
+##### Artikel 706
 
 Vervallen
 
-#### Artikel 707
+##### Artikel 707
 
 Vervallen
 
-#### Artikel 708
+##### Artikel 708
 
 Vervallen
 
-#### Artikel 709
+##### Artikel 709
 
 Vervallen
 
-#### Artikel 710
+##### Artikel 710
 
 Vervallen
 
-#### Artikel 711
+##### Artikel 711
 
 Vervallen
 
-#### Artikel 712
+##### Artikel 712
 
 Vervallen
 
-#### Artikel 713
+##### Artikel 713
 
 Vervallen
 
-#### Artikel 714
+##### Artikel 714
 
 Vervallen
 
-#### Artikel 715
+##### Artikel 715
 
 Vervallen
 
-#### Artikel 716
+##### Artikel 716
 
 Vervallen
 
-#### Artikel 717
+##### Artikel 717
 
 Vervallen
 
-#### Artikel 718
+##### Artikel 718
 
 Vervallen
 
-#### Artikel 719
+##### Artikel 719
 
 Vervallen
 
-#### Artikel 720
+##### Artikel 720
 
 Vervallen
 
-#### Artikel 721
+##### Artikel 721
 
 Vervallen
 
-#### Artikel 722
+##### Artikel 722
 
 Vervallen
 
-#### Artikel 723
+##### Artikel 723
 
 Vervallen
 
-#### Artikel 724
+##### Artikel 724
 
 Vervallen
 
-#### Artikel 725
+##### Artikel 725
 
 Vervallen
 
-#### Artikel 726
+##### Artikel 726
 
 Vervallen
 
-#### Artikel 727
+##### Artikel 727
 
 Vervallen
 
-#### Artikel 728
+##### Artikel 728
 
 Vervallen
 
-#### Artikel 729
+##### Artikel 729
 
 Vervallen
 
-#### Artikel 730
+##### Artikel 730
 
 Vervallen
 
-#### Artikel 731
+##### Artikel 731
 
 Vervallen
 
-#### Artikel 732
+##### Artikel 732
 
 Vervallen
 
-#### Artikel 733
+##### Artikel 733
 
 Vervallen
 
-#### Artikel 734
+##### Artikel 734
 
 Vervallen
 
-#### Artikel 735
+##### Artikel 735
 
 Vervallen
 
-#### Artikel 736
+##### Artikel 736
 
 Vervallen
 
-#### Artikel 737
+##### Artikel 737
 
 Vervallen
 
-#### Artikel 738
+##### Artikel 738
 
 Vervallen
 
-#### Artikel 739
+##### Artikel 739
 
 Vervallen
 
-#### Artikel 740
+##### Artikel 740
 
 Vervallen
 
 ## Elfde titel A. Van de beperking der aansprakelijkheid
 
-#### Artikel 740a
+##### Artikel 740a
 
 Vervallen
 
-#### Artikel 740b
+##### Artikel 740b
 
 Vervallen
 
-#### Artikel 740c
+##### Artikel 740c
 
 Vervallen
 
-#### Artikel 740d
+##### Artikel 740d
 
 Vervallen
 
-#### Artikel 740e
+##### Artikel 740e
 
 Vervallen
 
-#### Artikel 740f
+##### Artikel 740f
 
 Vervallen
 
-#### Artikel 740g
+##### Artikel 740g
 
 Vervallen
 
-#### Artikel 740h
+##### Artikel 740h
 
 Vervallen
 
-#### Artikel 740i
+##### Artikel 740i
 
 Vervallen
 
-#### Artikel 740j
+##### Artikel 740j
 
 Vervallen
 
 ## titel Twaalfde. Van het te niet gaan der verbindtenissen in den zeehandel
 
-#### Artikel 741
+##### Artikel 741
 
 Vervallen
 
-#### Artikel 742
+##### Artikel 742
 
 Vervallen
 
-#### Artikel 743
+##### Artikel 743
 
 Vervallen
 
-#### Artikel 744
+##### Artikel 744
 
 Vervallen
 
-#### Artikel 745
+##### Artikel 745
 
 Vervallen
 
-#### Artikel 746
+##### Artikel 746
 
 Vervallen
 
-#### Artikel 747
+##### Artikel 747
 
 Vervallen
 
@@ -5094,247 +5115,247 @@ Vervallen
 
 #### § 1. Rechten op binnenschepen
 
-#### Artikel 748
+##### Artikel 748
 
 Vervallen
 
-#### Artikel 749
+##### Artikel 749
 
 Vervallen
 
-#### Artikel 750
+##### Artikel 750
 
 Vervallen
 
-#### Artikel 751
+##### Artikel 751
 
 Vervallen
 
-#### Artikel 752
+##### Artikel 752
 
 Vervallen
 
-#### Artikel 753
+##### Artikel 753
 
 Vervallen
 
-#### Artikel 754
+##### Artikel 754
 
 Vervallen
 
-#### Artikel 755
+##### Artikel 755
 
 Vervallen
 
-#### Artikel 756
+##### Artikel 756
 
 Vervallen
 
-#### Artikel 757
+##### Artikel 757
 
 Vervallen
 
-#### Artikel 758
+##### Artikel 758
 
 Vervallen
 
-#### Artikel 759
+##### Artikel 759
 
 Vervallen
 
-#### Artikel 760
+##### Artikel 760
 
 Vervallen
 
-#### Artikel 761
+##### Artikel 761
 
 Vervallen
 
-#### Artikel 762
+##### Artikel 762
 
 Vervallen
 
-#### Artikel 763
+##### Artikel 763
 
 Vervallen
 
-#### Artikel 764
+##### Artikel 764
 
 Vervallen
 
-#### Artikel 765
+##### Artikel 765
 
 Vervallen
 
-#### Artikel 765a
+##### Artikel 765a
 
 Vervallen
 
-#### Artikel 765b
+##### Artikel 765b
 
 Vervallen
 
-#### Artikel 765c
+##### Artikel 765c
 
 Vervallen
 
-#### Artikel 765d
+##### Artikel 765d
 
 Vervallen
 
-#### Artikel 765e
+##### Artikel 765e
 
 Vervallen
 
-#### Artikel 765f
+##### Artikel 765f
 
 Vervallen
 
-#### Artikel 765g
+##### Artikel 765g
 
 Vervallen
 
-#### Artikel 765h
+##### Artikel 765h
 
 Vervallen
 
-#### Artikel 765i
+##### Artikel 765i
 
 Vervallen
 
-#### Artikel 765j
+##### Artikel 765j
 
 Vervallen
 
-#### Artikel 765k
+##### Artikel 765k
 
 Vervallen
 
-#### Artikel 765l
+##### Artikel 765l
 
 Vervallen
 
-#### Artikel 765m
+##### Artikel 765m
 
 Vervallen
 
-#### Artikel 765n
+##### Artikel 765n
 
 Vervallen
 
 #### § 2. Voorrechten op binnenschepen
 
-#### Artikel 766
+##### Artikel 766
 
 Vervallen
 
-#### Artikel 767
+##### Artikel 767
 
 Vervallen
 
-#### Artikel 768
+##### Artikel 768
 
 Vervallen
 
-#### Artikel 769
+##### Artikel 769
 
 Vervallen
 
-#### Artikel 770
+##### Artikel 770
 
 Vervallen
 
-#### Artikel 771
+##### Artikel 771
 
 Vervallen
 
-#### Artikel 772
+##### Artikel 772
 
 Vervallen
 
-#### Artikel 773
+##### Artikel 773
 
 Vervallen
 
-#### Artikel 774
+##### Artikel 774
 
 Vervallen
 
 #### § 3. Voorrechten op voorwerpen aan boord van binnenschepen
 
-#### Artikel 775
+##### Artikel 775
 
 Vervallen
 
-#### Artikel 775a
+##### Artikel 775a
 
 Vervallen
 
-#### Artikel 775b
+##### Artikel 775b
 
 Vervallen
 
-#### Artikel 775c
+##### Artikel 775c
 
 Vervallen
 
-#### Artikel 775d
+##### Artikel 775d
 
 Vervallen
 
-#### Artikel 775e
+##### Artikel 775e
 
 Vervallen
 
-#### Artikel 775f
+##### Artikel 775f
 
 Vervallen
 
-#### Artikel 776
+##### Artikel 776
 
 Vervallen
 
-#### Artikel 777
+##### Artikel 777
 
 Vervallen
 
-#### Artikel 778
+##### Artikel 778
 
 Vervallen
 
-#### Artikel 779
+##### Artikel 779
 
 Vervallen
 
 ### afdeeling Tweede. Van den eigenaar en den gebruiker van een binnenschip
 
-#### Artikel 780
+##### Artikel 780
 
 Vervallen
 
-#### Artikel 781
+##### Artikel 781
 
 Vervallen
 
 ### afdeeling Derde. Van den schipper en de schepelingen
 
-#### Artikel 782
+##### Artikel 782
 
 1. De schipper is verplicht de gebruikelijke regels en de bestaande voorschriften ter verzekering van de deugdelijkheid en de veiligheid van het schip voor de vaart op binnenwateren, van de veiligheid der opvarenden en der zaken aan boord met nauwgezetheid op te volgen.
 
 2. Hij onderneemt de reis niet, tenzij het schip tot het volvoeren daarvan geschikt, naar behooren uitgerust en voldoende bemand is.
 
-#### Artikel 783
+##### Artikel 783
 
 1. De schipper kan na aankomst in eene haven door een notaris eene scheepsverklaring doen opmaken omtrent de voorvallen der reis. Buiten Nederland wendt hij zich tot den Nederlandschen consulairen ambtenaar of, bij ontstentenis van zoodanigen ambtenaar, tot het bevoegde gezag.
 
 2. De notaris en de consulaire ambtenaar zijn verplicht van scheepsverklaringen tegen betaling van kosten afschrift uit te reiken aan ieder, die het verlangt.
 
-#### Artikel 784
+##### Artikel 784
 
 Vervallen
 
-#### Artikel 785
+##### Artikel 785
 
 1. De schipper is verplicht aan personen, die in gevaar verkeeren, en in het bijzonder, als zijn schip bij eene aanvaring betrokken is geweest, aan de andere daarbij betrokken schepen en de personen, die zich aan boord dier schepen bevinden, de hulp te verleenen, waartoe hij bij machte is zonder zijn eigen schip en de opvarenden daarvan aan ernstig gevaar bloot te stellen.
 
@@ -5342,769 +5363,769 @@ Vervallen
 
 3. Niet-nakoming van deze verplichtingen door den schipper geeft geen aanspraak jegens hem, die uit welken hoofde dan ook verantwoordelijk is voor het optreden van de schipper.
 
-#### Artikel 786
+##### Artikel 786
 
 Vervallen
 
-#### Artikel 787
+##### Artikel 787
 
 Vervallen
 
 ### afdeeling Vierde. Van vervrachting en bevrachting van binnenschepen in het algemeen
 
-#### Artikel 788
+##### Artikel 788
 
 Vervallen
 
-#### Artikel 789
+##### Artikel 789
 
 Vervallen
 
-#### Artikel 790
+##### Artikel 790
 
 Vervallen
 
-#### Artikel 791
+##### Artikel 791
 
 Vervallen
 
-#### Artikel 791a
+##### Artikel 791a
 
 Vervallen
 
-#### Artikel 792
+##### Artikel 792
 
 Vervallen
 
-#### Artikel 793
+##### Artikel 793
 
 Vervallen
 
-#### Artikel 794
+##### Artikel 794
 
 Vervallen
 
-#### Artikel 795
+##### Artikel 795
 
 Vervallen
 
-#### Artikel 796
+##### Artikel 796
 
 Vervallen
 
-#### Artikel 797
+##### Artikel 797
 
 Vervallen
 
-#### Artikel 798
+##### Artikel 798
 
 Vervallen
 
-#### Artikel 799
+##### Artikel 799
 
 Vervallen
 
-#### Artikel 800
+##### Artikel 800
 
 Vervallen
 
-#### Artikel 801
+##### Artikel 801
 
 Vervallen
 
-#### Artikel 802
+##### Artikel 802
 
 Vervallen
 
-#### Artikel 803
+##### Artikel 803
 
 Vervallen
 
-#### Artikel 804
+##### Artikel 804
 
 Vervallen
 
-#### Artikel 805
+##### Artikel 805
 
 Vervallen
 
-#### Artikel 806
+##### Artikel 806
 
 Vervallen
 
-#### Artikel 807
+##### Artikel 807
 
 Vervallen
 
-#### Artikel 808
+##### Artikel 808
 
 Vervallen
 
 ### afdeeling Vijfde. Van het vervoer van goederen
 
-#### Artikel 809
+##### Artikel 809
 
 Vervallen
 
-#### Artikel 810
+##### Artikel 810
 
 Vervallen
 
-#### Artikel 811
+##### Artikel 811
 
 Vervallen
 
-#### Artikel 812
+##### Artikel 812
 
 Vervallen
 
-#### Artikel 813
+##### Artikel 813
 
 Vervallen
 
-#### Artikel 814
+##### Artikel 814
 
 Vervallen
 
-#### Artikel 815
+##### Artikel 815
 
 Vervallen
 
-#### Artikel 815a
+##### Artikel 815a
 
 Vervallen
 
-#### Artikel 816
+##### Artikel 816
 
 Vervallen
 
-#### Artikel 817
+##### Artikel 817
 
 Vervallen
 
-#### Artikel 818
+##### Artikel 818
 
 Vervallen
 
-#### Artikel 819
+##### Artikel 819
 
 Vervallen
 
-#### Artikel 820
+##### Artikel 820
 
 Vervallen
 
-#### Artikel 821
+##### Artikel 821
 
 Vervallen
 
-#### Artikel 822
+##### Artikel 822
 
 Vervallen
 
-#### Artikel 823
+##### Artikel 823
 
 Vervallen
 
-#### Artikel 824
+##### Artikel 824
 
 Vervallen
 
-#### Artikel 825
+##### Artikel 825
 
 Vervallen
 
-#### Artikel 826
+##### Artikel 826
 
 Vervallen
 
-#### Artikel 827
+##### Artikel 827
 
 Vervallen
 
-#### Artikel 828
+##### Artikel 828
 
 Vervallen
 
-#### Artikel 829
+##### Artikel 829
 
 Vervallen
 
-#### Artikel 830
+##### Artikel 830
 
 Vervallen
 
-#### Artikel 831
+##### Artikel 831
 
 Vervallen
 
-#### Artikel 832
+##### Artikel 832
 
 Vervallen
 
-#### Artikel 833
+##### Artikel 833
 
 Vervallen
 
-#### Artikel 834
+##### Artikel 834
 
 Vervallen
 
-#### Artikel 835
+##### Artikel 835
 
 Vervallen
 
-#### Artikel 836
+##### Artikel 836
 
 Vervallen
 
-#### Artikel 837
+##### Artikel 837
 
 Vervallen
 
-#### Artikel 838
+##### Artikel 838
 
 Vervallen
 
-#### Artikel 839
+##### Artikel 839
 
 Vervallen
 
-#### Artikel 840
+##### Artikel 840
 
 Vervallen
 
-#### Artikel 841
+##### Artikel 841
 
 Vervallen
 
-#### Artikel 842
+##### Artikel 842
 
 Vervallen
 
-#### Artikel 843
+##### Artikel 843
 
 Vervallen
 
-#### Artikel 844
+##### Artikel 844
 
 Vervallen
 
-#### Artikel 845
+##### Artikel 845
 
 Vervallen
 
-#### Artikel 846
+##### Artikel 846
 
 Vervallen
 
-#### Artikel 847
+##### Artikel 847
 
 Vervallen
 
-#### Artikel 848
+##### Artikel 848
 
 Vervallen
 
-#### Artikel 849
+##### Artikel 849
 
 Vervallen
 
-#### Artikel 850
+##### Artikel 850
 
 Vervallen
 
-#### Artikel 851
+##### Artikel 851
 
 Vervallen
 
-#### Artikel 852
+##### Artikel 852
 
 Vervallen
 
-#### Artikel 853
+##### Artikel 853
 
 Vervallen
 
-#### Artikel 854
+##### Artikel 854
 
 Vervallen
 
 #### § 2. Beurtvaart
 
-#### Artikel 855
+##### Artikel 855
 
 Vervallen
 
-#### Artikel 856
+##### Artikel 856
 
 Vervallen
 
-#### Artikel 857
+##### Artikel 857
 
 Vervallen
 
-#### Artikel 858
+##### Artikel 858
 
 Vervallen
 
-#### Artikel 859
+##### Artikel 859
 
 Vervallen
 
-#### Artikel 860
+##### Artikel 860
 
 Vervallen
 
-#### Artikel 861
+##### Artikel 861
 
 Vervallen
 
-#### Artikel 862
+##### Artikel 862
 
 Vervallen
 
-#### Artikel 863
+##### Artikel 863
 
 Vervallen
 
-#### Artikel 864
+##### Artikel 864
 
 Vervallen
 
-#### Artikel 865
+##### Artikel 865
 
 Vervallen
 
-#### Artikel 866
+##### Artikel 866
 
 Vervallen
 
-#### Artikel 867
+##### Artikel 867
 
 Vervallen
 
-#### Artikel 868
+##### Artikel 868
 
 Vervallen
 
-#### Artikel 869
+##### Artikel 869
 
 Vervallen
 
-#### Artikel 870
+##### Artikel 870
 
 Vervallen
 
-#### Artikel 871
+##### Artikel 871
 
 Vervallen
 
-#### Artikel 872
+##### Artikel 872
 
 Vervallen
 
-#### Artikel 873
+##### Artikel 873
 
 Vervallen
 
 #### § 3. Reisbevrachting
 
-#### Artikel 874
+##### Artikel 874
 
 Vervallen
 
-#### Artikel 875
+##### Artikel 875
 
 Vervallen
 
-#### Artikel 876
+##### Artikel 876
 
 Vervallen
 
-#### Artikel 877
+##### Artikel 877
 
 Vervallen
 
-#### Artikel 878
+##### Artikel 878
 
 Vervallen
 
-#### Artikel 879
+##### Artikel 879
 
 Vervallen
 
-#### Artikel 880
+##### Artikel 880
 
 Vervallen
 
-#### Artikel 881
+##### Artikel 881
 
 Vervallen
 
-#### Artikel 882
+##### Artikel 882
 
 Vervallen
 
-#### Artikel 883
+##### Artikel 883
 
 Vervallen
 
-#### Artikel 884
+##### Artikel 884
 
 Vervallen
 
-#### Artikel 885
+##### Artikel 885
 
 Vervallen
 
-#### Artikel 886
+##### Artikel 886
 
 Vervallen
 
-#### Artikel 887
+##### Artikel 887
 
 Vervallen
 
-#### Artikel 888
+##### Artikel 888
 
 Vervallen
 
-#### Artikel 889
+##### Artikel 889
 
 Vervallen
 
-#### Artikel 890
+##### Artikel 890
 
 Vervallen
 
-#### Artikel 891
+##### Artikel 891
 
 Vervallen
 
-#### Artikel 892
+##### Artikel 892
 
 Vervallen
 
-#### Artikel 893
+##### Artikel 893
 
 Vervallen
 
-#### Artikel 894
+##### Artikel 894
 
 Vervallen
 
-#### Artikel 895
+##### Artikel 895
 
 Vervallen
 
-#### Artikel 896
+##### Artikel 896
 
 Vervallen
 
-#### Artikel 897
+##### Artikel 897
 
 Vervallen
 
-#### Artikel 898
+##### Artikel 898
 
 Vervallen
 
-#### Artikel 899
+##### Artikel 899
 
 Vervallen
 
-#### Artikel 900
+##### Artikel 900
 
 Vervallen
 
-#### Artikel 901
+##### Artikel 901
 
 Vervallen
 
-#### Artikel 902
+##### Artikel 902
 
 Vervallen
 
-#### Artikel 903
+##### Artikel 903
 
 Vervallen
 
-#### Artikel 904
+##### Artikel 904
 
 Vervallen
 
-#### Artikel 905
+##### Artikel 905
 
 Vervallen
 
-#### Artikel 906
+##### Artikel 906
 
 Vervallen
 
 #### § 4. Bevrachting voor liggen en/of varen
 
-#### Artikel 907
+##### Artikel 907
 
 Vervallen
 
-#### Artikel 908
+##### Artikel 908
 
 Vervallen
 
-#### Artikel 909
+##### Artikel 909
 
 Vervallen
 
-#### Artikel 910
+##### Artikel 910
 
 Vervallen
 
-#### Artikel 911
+##### Artikel 911
 
 Vervallen
 
-#### Artikel 912
+##### Artikel 912
 
 Vervallen
 
-#### Artikel 913
+##### Artikel 913
 
 Vervallen
 
-#### Artikel 914
+##### Artikel 914
 
 Vervallen
 
-#### Artikel 915
+##### Artikel 915
 
 Vervallen
 
-#### Artikel 916
+##### Artikel 916
 
 Vervallen
 
-#### Artikel 917
+##### Artikel 917
 
 Vervallen
 
-#### Artikel 918
+##### Artikel 918
 
 Vervallen
 
 ### afdeeling Zesde. Van het vervoer van personen
 
-#### Artikel 919
+##### Artikel 919
 
 Vervallen
 
-#### Artikel 920
+##### Artikel 920
 
 Vervallen
 
-#### Artikel 921
+##### Artikel 921
 
 Vervallen
 
-#### Artikel 921a
+##### Artikel 921a
 
 Vervallen
 
-#### Artikel 922
+##### Artikel 922
 
 Vervallen
 
-#### Artikel 923
+##### Artikel 923
 
 Vervallen
 
-#### Artikel 924
+##### Artikel 924
 
 Vervallen
 
 ### afdeeling Zevende. Van het sleepen van binnenschepen
 
-#### Artikel 925
+##### Artikel 925
 
 Vervallen
 
-#### Artikel 926
+##### Artikel 926
 
 Vervallen
 
-#### Artikel 927
+##### Artikel 927
 
 Vervallen
 
-#### Artikel 928
+##### Artikel 928
 
 Vervallen
 
-#### Artikel 929
+##### Artikel 929
 
 Vervallen
 
-#### Artikel 930
+##### Artikel 930
 
 Vervallen
 
-#### Artikel 931
+##### Artikel 931
 
 Vervallen
 
-#### Artikel 931a
+##### Artikel 931a
 
 Vervallen
 
-#### Artikel 932
+##### Artikel 932
 
 Vervallen
 
-#### Artikel 933
+##### Artikel 933
 
 Vervallen
 
-#### Artikel 934
+##### Artikel 934
 
 Vervallen
 
-#### Artikel 935
+##### Artikel 935
 
 Vervallen
 
 ### afdeeling Achtste. Van aanvaring
 
-#### Artikel 936
+##### Artikel 936
 
 Vervallen
 
-#### Artikel 937
+##### Artikel 937
 
 Vervallen
 
-#### Artikel 938
+##### Artikel 938
 
 Vervallen
 
-#### Artikel 939
+##### Artikel 939
 
 Vervallen
 
-#### Artikel 940
+##### Artikel 940
 
 Vervallen
 
-#### Artikel 940a
+##### Artikel 940a
 
 Vervallen
 
-#### Artikel 941
+##### Artikel 941
 
 Vervallen
 
-#### Artikel 942
+##### Artikel 942
 
 Vervallen
 
-#### Artikel 943
+##### Artikel 943
 
 Vervallen
 
-#### Artikel 944
+##### Artikel 944
 
 Vervallen
 
-#### Artikel 945
+##### Artikel 945
 
 Vervallen
 
-#### Artikel 946
+##### Artikel 946
 
 Vervallen
 
-#### Artikel 947
+##### Artikel 947
 
 Vervallen
 
-#### Artikel 948
+##### Artikel 948
 
 Vervallen
 
-#### Artikel 949
+##### Artikel 949
 
 Vervallen
 
 ### afdeeling Negende. Van hulp en berging
 
-#### Artikel 950
+##### Artikel 950
 
 Vervallen
 
 ### afdeeling Tiende. Van avarijen
 
-#### Artikel 951
+##### Artikel 951
 
 Vervallen
 
 ### Afdeling 10A. Van de beperking der aansprakelijkheid
 
-#### Artikel 951a
+##### Artikel 951a
 
 Vervallen
 
-#### Artikel 951b
+##### Artikel 951b
 
 Vervallen
 
-#### Artikel 951c
+##### Artikel 951c
 
 Vervallen
 
-#### Artikel 951d
+##### Artikel 951d
 
 Vervallen
 
-#### Artikel 951e
+##### Artikel 951e
 
 Vervallen
 
-#### Artikel 951f
+##### Artikel 951f
 
 Vervallen
 
-#### Artikel 951g
+##### Artikel 951g
 
 Vervallen
 
 ### afdeeling Elfde. Van verjaring en verval
 
-#### Artikel 952
+##### Artikel 952
 
 Vervallen
 
-#### Artikel 953
+##### Artikel 953
 
 Vervallen
 
-#### Artikel 954
+##### Artikel 954
 
 Vervallen
 
-#### Artikel 955
+##### Artikel 955
 
 Vervallen
 
-#### Artikel 956
+##### Artikel 956
 
 Vervallen
 
-#### Artikel 957
+##### Artikel 957
 
 Vervallen
 
 ## Algemene slotbepaling
 
-#### Artikel 958
+##### Artikel 958
 
 De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is niet van toepassing op de termijnen, gesteld in de hierna genoemde onderdelen van dit wetboek:
 

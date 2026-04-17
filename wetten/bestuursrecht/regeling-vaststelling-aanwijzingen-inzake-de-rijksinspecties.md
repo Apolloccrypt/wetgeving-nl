@@ -1,28 +1,54 @@
 ---
-title: "Regeling vaststelling Aanwijzingen inzake de rijksinspecties"
+title: "Regeling van de Minister-President, Minister van Algemene Zaken van 30 september 2015, nr. 3151041, houdende de vaststelling van de Aanwijzingen inzake de rijksinspecties"
 identifier: "BWBR0037073"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037073"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037073"
+soort: "ministeriele-regeling"
+stam_id: "13270633"
+version_id: "22711092"
+internal_id: "C32840591"
+label_id: "13238604"
+dtd_version: "2.0"
+original_entry_into_force: "2016-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037073/2022-01-01/0"
+intitule_bron: "Stcrt.2015-33574"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-09-30"
+intitule_published: "2015-10-08"
+intitule_in_force: "2015-10-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-33574"
+original_signed_date: "2015-09-30"
+original_published_date: "2015-10-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-33574"
+entry_into_force_date: "2016-01-01"
+jci_1_3: "jci1.3:c:BWBR0037073&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0037073&g=2022-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Regeling vaststelling Aanwijzingen inzake de rijksinspecties"
+signed_date: "2015-09-30"
+entry_into_force: "2016-01-01"
 ---
-
 # Regeling van de Minister-President, Minister van Algemene Zaken van 30 september 2015, nr. 3151041, houdende de vaststelling van de Aanwijzingen inzake de rijksinspecties
 
 Handelende in overeenstemming met het gevoelen van de ministerraad,
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij deze regeling gevoegde ‘Aanwijzingen inzake de rijksinspecties’ worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 De Minister voor Wonen en Rijksdienst zendt binnen vijf jaar na de inwerkingtreding van deze regeling een verslag aan de ministerraad over de doeltreffendheid en de effecten in de praktijk van de bij deze regeling gevoegde ‘Aanwijzingen inzake de rijksinspecties’.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van 1 januari 2016.
 

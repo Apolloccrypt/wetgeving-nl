@@ -1,24 +1,50 @@
 ---
-title: "Regeling vaststelling Aanwijzingen inzake instelling functie regeringscommissaris"
+title: "Regeling van de Minister-President, Minister van Algemene Zaken, van 13 maart 2025, nr. 4446101 houdende de vaststelling van de Aanwijzingen inzake de instelling van de functie van regeringscommissaris"
 identifier: "BWBR0050853"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-03-21
-laatste_update: 2025-03-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050853"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-03-21"
+last_updated: "2025-03-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050853"
+soort: "ministeriele-regeling"
+stam_id: "17384673"
+version_id: "30647782"
+internal_id: "C43938491"
+label_id: "17287804"
+dtd_version: "2.0"
+original_entry_into_force: "2025-03-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050853/2025-03-21/0"
+intitule_bron: "Stcrt.2025-9776"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-03-13"
+intitule_published: "2025-03-20"
+intitule_in_force: "2025-03-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-9776"
+original_signed_date: "2025-03-13"
+original_published_date: "2025-03-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-9776"
+entry_into_force_date: "2025-03-21"
+jci_1_3: "jci1.3:c:BWBR0050853&z=2025-03-21&g=2025-03-21"
+jci_1_0: "1.0:c:BWBR0050853&g=2025-03-21"
+citeertitel_status: "redactioneel"
+short_title: "Regeling vaststelling Aanwijzingen inzake instelling functie regeringscommissaris"
+signed_date: "2025-03-13"
+entry_into_force: "2025-03-21"
 ---
-
 # Regeling van de Minister-President, Minister van Algemene Zaken, van 13 maart 2025, nr. 4446101 houdende de vaststelling van de Aanwijzingen inzake de instelling van de functie van regeringscommissaris
 
 Handelende in overeenstemming met het gevoelen van de ministerraad,
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij deze regeling gevoegde ‘Aanwijzingen inzake de instelling van de functie van regeringscommissaris’ worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 

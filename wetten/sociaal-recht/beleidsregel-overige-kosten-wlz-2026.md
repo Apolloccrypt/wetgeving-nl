@@ -1,20 +1,45 @@
 ---
 title: "Beleidsregel overige kosten Wlz 2026"
 identifier: "BWBR0051344"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051344"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051344"
+soort: "zbo"
+stam_id: "17496683"
+version_id: "30857142"
+internal_id: "C44214641"
+label_id: "17399014"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051344/2026-01-01/0"
+intitule_bron: "Stcrt.2025-26195"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-22"
+intitule_published: "2025-08-01"
+intitule_in_force: "2025-08-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-26195"
+original_signed_date: "2025-07-22"
+original_published_date: "2025-08-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-26195"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051344&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051344&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-07-22"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregel overige kosten Wlz 2026
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
 
 Gelet op [artikel 52, aanhef en onderdeel e, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=52), worden tarieven die uit de voorliggende beleidsregel voortvloeien ambtshalve vastgesteld door de NZa.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -22,7 +47,7 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 Voor overige begrippen die in deze beleidsregel gebruikt worden, maar niet hierboven vermeld staan, wordt verwezen naar de [Beleidsregel definities Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0049530).
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is het vastleggen van de voorwaarden voor vergoeding aan zorgaanbieders van:
 
@@ -32,13 +57,13 @@ Het doel van deze beleidsregel is het vastleggen van de voorwaarden voor vergoed
 
 een onvrijwillige verhuizing van cliënten in verband met renovatie en/of vervangende nieuwbouw en/of het permanent sluiten van woningen voor Wlz-zorg.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is met uitzondering van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051344&artikel=5&z=2026-01-01&g=2026-01-01) van toepassing op de zorg of dienst als omschreven bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) (Wlz) die wordt geleverd door zorgaanbieders.
 
 Met uitzondering van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051344&artikel=4&z=2026-01-01&g=2026-01-01) is deze beleidsregel van toepassing op de zorg of dienst als omschreven bij of krachtens de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) die wordt geleverd door zorgaanbieders in combinatie met verblijf als omschreven bij of krachtens de Wlz.
 
-#### Artikel 4. Extreme kosten van zorggebonden materiaal en geneesmiddelen
+##### Artikel 4. Extreme kosten van zorggebonden materiaal en geneesmiddelen
 
 De prestaties en tarieven van artikel 4 zijn van toepassing voor cliënten geïndiceerd voor of aangewezen op verblijf
 
@@ -62,7 +87,7 @@ Voor het bepalen van de kosten van materiaal en geneesmiddelen dient te worden u
 
 - e. Om in aanmerking te komen voor opname van de overeengekomen tarieven in de aanvaardbare kosten dient aan de voorwaarden in deze beleidsregel voldaan te zijn.
 
-#### Artikel 5. Vergoeding van inrichtingskosten bij gedwongen verhuizing
+##### Artikel 5. Vergoeding van inrichtingskosten bij gedwongen verhuizing
 
 Inrichtingskosten van een eenpersoonswoning bij gedwongen verhuizing van een cliënt wegens (i) renovatie en/of (ii) vervangende nieuwbouw en/of (iii) het permanent sluiten van de woning waar de cliënt verblijft voor Wlz-zorg.
 
@@ -91,7 +116,7 @@ De in tabel 1 genoemde bedragen zijn gebaseerd op de definitieve materiële kost
 
 - 2°. In de nacalculatie-opgave kunnen de aantallen afgesproken prestaties worden verantwoord. De nacalculatie-opgave kan op dit onderdeel, uitsluitend tweezijdig worden ingediend.
 
-#### Artikel 6. Wijze van indienen bij de NZa
+##### Artikel 6. Wijze van indienen bij de NZa
 
 De nacalculatie-opgave met betrekking tot de in deze beleidsregel genoemde prestaties/tarieven kan uitsluitend tweezijdig bij de NZa worden ingediend.
 
@@ -115,11 +140,11 @@ Waar de NZa tweezijdige indiening tot uitgangspunt neemt, kunnen zorgaanbieder e
 
 Indien een eenzijdige aanvraag of opgave wordt ingediend, vergewist de NZa zich van de grondslag van de weigering van het zorgkantoor/de Wlz-uitvoerder of de zorgaanbieder om de aanvraag/opgave mede te ondertekenen. Een eenzijdige aanvraag/opgave wijst de NZa af tenzij de NZa de weigering van het zorgkantoor/de Wlz-uitvoerder of de zorgaanbieder kennelijk onredelijk acht.
 
-#### Artikel 7. Intrekken oude beleidsregel
+##### Artikel 7. Intrekken oude beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel overige kosten Wlz 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050031), met kenmerk BR/REG-25126, ingetrokken.
 
-#### Artikel 8. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
+##### Artikel 8. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
 
 De [Beleidsregel overige kosten Wlz 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050031), met kenmerk BR/REG-25126, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

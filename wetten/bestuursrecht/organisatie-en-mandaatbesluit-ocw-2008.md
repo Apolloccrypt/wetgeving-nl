@@ -1,13 +1,39 @@
 ---
-title: "Organisatie- en mandaatbesluit OCW 2008"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 19 februari 2008, nr. P&O/2007/53275, houdende vaststelling van het Organisatie- en mandaatbesluit OCW 2008 (Organisatie- en mandaatbesluit OCW 2008)"
 identifier: "BWBR0023543"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-03-18
-laatste_update: 2026-03-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023543"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-18"
+last_updated: "2026-03-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023543"
+soort: "ministeriele-regeling"
+stam_id: "9431723"
+version_id: "22381582"
+internal_id: "C32039161"
+label_id: "9409374"
+dtd_version: "2.0"
+original_entry_into_force: "2015-03-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023543/2026-03-18/0"
+intitule_bron: "Stcrt.2008-40"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-02-19"
+intitule_published: "2008-02-26"
+intitule_in_force: "2008-02-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-10036"
+original_signed_date: "2015-03-30"
+original_published_date: "2015-04-14"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2015-10036"
+entry_into_force_date: "2015-03-30"
+jci_1_3: "jci1.3:c:BWBR0023543&z=2026-03-18&g=2026-03-18"
+jci_1_0: "1.0:c:BWBR0023543&g=2026-03-18"
+citeertitel_status: "officieel"
+short_title: "Organisatie- en mandaatbesluit OCW 2008"
+signed_date: "2015-03-30"
+entry_into_force: "2015-03-30"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 19 februari 2008, nr. P&O/2007/53275, houdende vaststelling van het Organisatie- en mandaatbesluit OCW 2008 (Organisatie- en mandaatbesluit OCW 2008)
 
 Gelet op [artikel 10:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3);
@@ -16,7 +42,7 @@ Gehoord de departementale ondernemingsraad;
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -58,7 +84,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - p. **personeelsreglement:** verzameling van decentraal gemaakte collectieve afspraken en instructies ten behoeve van de ambtenaren die op basis van een arbeidsovereenkomst in dienst zijn bij de Staat der Nederlanden en werkzaam zijn bij OCW.
 
-#### Artikel 2. Mandaat, volmacht en machtiging
+##### Artikel 2. Mandaat, volmacht en machtiging
 
 Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met de verlening van mandaat gelijkgesteld de verlening van:
 
@@ -66,7 +92,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - b. machtiging om in naam van een bewindspersoon handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn.
 
-#### Artikel 3. Organisatie van het Ministerie
+##### Artikel 3. Organisatie van het Ministerie
 
 1. Het Ministerie bestaat uit:
 
@@ -88,7 +114,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 5. De directeur Organisatie & Bedrijfsvoering draagt zorg voor bekendmaking van de bijlage door plaatsing op het intranet en de internetsite van het Ministerie.
 
-#### Artikel 4. Voorbehouden aan bewindspersonen
+##### Artikel 4. Voorbehouden aan bewindspersonen
 
 1. Aan de bewindspersoon is voorbehouden het afdoen en ondertekenen van stukken:
 
@@ -116,7 +142,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 3. De secretaris-generaal kan de stukken, bedoeld in het eerste lid, onderdelen a tot en met h, afdoen en ondertekenen indien daarover afspraken zijn gemaakt tussen een bewindspersoon en de secretaris-generaal. De directeur Bestuursondersteuning en Advies draagt zorg voor bekendmaking van de afspraken en door plaatsing op het intranet en de internetsite van het Ministerie.
 
-#### Artikel 5. Mandaat aan SG
+##### Artikel 5. Mandaat aan SG
 
 1. De secretaris-generaal heeft mandaat voor al hetgeen het Ministerie betreft met inachtneming van de managementafspraak tussen de minister en de secretaris-generaal.
 
@@ -124,7 +150,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 3. Voor zover de secretaris-generaal rechtstreeks leiding geeft aan de hoofden van de volgens de bijlage onder hem ressorterende dienstonderdelen, zijn de voorschriften die van toepassing zijn op directeuren-generaal, van overeenkomstige toepassing.
 
-#### Artikel 6. Mandaat aan de plaatsvervangend secretaris-generaal en de DG’s
+##### Artikel 6. Mandaat aan de plaatsvervangend secretaris-generaal en de DG’s
 
 1. De plaatsvervangend secretaris-generaal en directeuren-generaal hebben, onverminderd de mandaatverlening aan de secretaris-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden op hun werkterrein.
 
@@ -132,7 +158,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 3. De plaatsvervangend secretaris-generaal en directeuren-generaal zijn budgethouder voor de hen door de secretaris-generaal toegewezen budgetten. De plaatsvervangend secretaris-generaal en directeuren-generaal kennen aan de volgens de bijlage onder hen ressorterende hoofden de budgetten toe waarover zij kunnen beschikken.
 
-#### Artikel 7. Mandaat aan de hoofden van inspecties
+##### Artikel 7. Mandaat aan de hoofden van inspecties
 
 1. De inspecteur-generaal van het onderwijs heeft, onverminderd de mandaatverlening aan de secretaris-generaal, met inachtneming van de [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800) en binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
 
@@ -154,19 +180,19 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - f. in afwijking van [artikel 14b](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14b&z=2026-03-18&g=2026-03-18) te beslissen op een aan de Inspectie van het Onderwijs gericht verzoek om informatie in de zin van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), alsmede op een tegen een dergelijk besluit of een besluit als bedoeld in de onderdelen a tot en met e ingediend bezwaarschrift.
 
-#### Artikel 8. Mandaat aan het hoofd van de baten-lastendienst Nationaal Archief
+##### Artikel 8. Mandaat aan het hoofd van de baten-lastendienst Nationaal Archief
 
 1. Het hoofd van het Nationaal Archief heeft, onverminderd [artikel 4, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2026-03-18&g=2026-03-18), en de mandaatverlening aan de secretaris-generaal en de directeur-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
 
 2. Het hoofd van het Nationaal Archief is budgethouder voor de hem door de secretaris-generaal toegewezen budgetten.
 
-#### Artikel 9. Mandaat aan directeuren
+##### Artikel 9. Mandaat aan directeuren
 
 1. De directeuren hebben, onverminderd de mandaatverlening aan de secretaris-generaal, de plaatsvervangend secretaris-generaal en de directeuren-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van de aangelegenheden die verband houden met de taken en verantwoordelijkheden op hun werkterrein.
 
 2. De directeuren zijn budgethouder voor de hun door de secretaris-generaal, plaatsvervangend secretaris-generaal of directeur-generaal toegewezen budgetten.
 
-#### Artikel 10. Managementafspraken
+##### Artikel 10. Managementafspraken
 
 1. De secretaris-generaal maakt managementafspraken met de plaatsvervangend secretaris-generaal, de directeuren-generaal en met de volgens de bijlage onder de secretaris-generaal ressorterende hoofden van de in de bijlage opgenomen organisatieonderdelen.
 
@@ -174,7 +200,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 3. De directeur Organisatie & Bedrijfsvoering draagt zorg voor bekendmaking van de managementafspraken voor zover het betreft daarin opgenomen beperkingen of uitbreidingen van een mandaat dat op grond van dit besluit is verleend, door plaatsing op het intranet en de internetsite van het Ministerie.
 
-#### Artikel 11. Ondermandaat
+##### Artikel 11. Ondermandaat
 
 1. Ondermandaat van de in dit besluit gemandateerde bevoegdheden is mogelijk, tenzij in dit besluit anders is bepaald. Bij het verlenen van ondermandaat wordt aangegeven in hoeverre het verlenen van verder ondermandaat mogelijk is.
 
@@ -182,7 +208,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 3. Krachtens dit besluit verleende algemene ondermandaten worden gepubliceerd in de Staatscourant en geplaatst op het intranet en de internetsite van het Ministerie of het betreffende dienstonderdeel.
 
-#### Artikel 12. Voorbehouden aan SG
+##### Artikel 12. Voorbehouden aan SG
 
 1. De secretaris-generaal is met uitsluiting van anderen gemandateerd met betrekking tot:
 
@@ -204,7 +230,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 2. Het verlenen van ondermandaat van de bevoegdheden in dit artikel is niet mogelijk, met uitzondering van de bevoegdheid bedoeld in het eerste lid onder c.
 
-#### Artikel 13. Voorbehouden aan de plaatsvervangend SG, de DG’s, hoofden inspecties en het hoofd van het Nationaal Archief
+##### Artikel 13. Voorbehouden aan de plaatsvervangend SG, de DG’s, hoofden inspecties en het hoofd van het Nationaal Archief
 
 1. De plaatsvervangend secretaris-generaal, directeuren-generaal, de hoofden van inspecties en het hoofd van het Nationaal Archief zijn met uitsluiting van anderen, met uitzondering van de secretaris-generaal, gemandateerd met betrekking tot:
 
@@ -220,7 +246,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 4. Met uitzondering van de bevoegdheid bedoeld in het tweede lid is ondermandaat van de bevoegdheden, bedoeld in dit artikel niet mogelijk.
 
-#### Artikel 14. Personele bevoegdheden
+##### Artikel 14. Personele bevoegdheden
 
 1. De secretaris-generaal heeft bij uitsluiting van anderen mandaat ten aanzien van:
 
@@ -236,7 +262,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 5. Het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=16&z=2026-03-18&g=2026-03-18) is niet van toepassing op de in het vorige lid genoemde personele aangelegenheden die via het P-direktportaal worden afgehandeld.
 
-#### Artikel 15. Afwezigheid of verhindering
+##### Artikel 15. Afwezigheid of verhindering
 
 1. De plaatsvervangend secretaris-generaal kan de secretaris-generaal vervangen in alle gevallen waarin de secretaris-generaal dat geboden acht. De secretaris-generaal voorziet voorts in zijn (verdere) vervanging bij afwezigheid of verhindering, de vervanging bij afwezigheid of verhindering van de plaatsvervangend secretaris-generaal en van een directeur-generaal, met uitzondering van de directeur-generaal DUO. Bij afwezigheid of verhindering van de plaatsvervangend secretaris-generaal of een directeur-generaal wordt voor de duur van de afwezigheid of verhindering, diens bevoegdheid uitgeoefend door de plaatsvervanger en bij diens afwezigheid door de tweede plaatsvervanger, met dien verstande dat het mandaat van de eerste vervanger niet de bevoegdheid omvat tot het verlenen, wijzigen of intrekken van mandaat en dat het mandaat van de tweede plaatsvervanger is beperkt tot het ondertekenen van stukken.
 
@@ -246,7 +272,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 4. De directeur Bestuursondersteuning en Advies draagt zorg voor bekendmaking van de vervanging, bedoeld in het eerste lid, door plaatsing op het intranet en de internetsite van het Ministerie. De directeur-generaal DUO, de hoofden van de inspecties, het hoofd van het Nationaal Archief en de directeuren dragen zorg voor bekendmaking van de vervanging, bedoeld in het tweede lid, door plaatsing op het intranet en de internetsite van het Ministerie of het betreffende dienstonderdeel.
 
-#### Artikel 16. Wijze van ondertekening
+##### Artikel 16. Wijze van ondertekening
 
 1. De gemandateerde is gehouden in de ondertekening van stukken zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
 
@@ -290,7 +316,7 @@ Het vierde lid is van overeenkomstige toepassing.
 
 5. Indien het mandaat, bedoeld in het eerste lid, berust op een bevoegdheid van een andere bewindspersoon dan de Minister, dan wordt dit in de in het eerste lid bedoelde formule dienovereenkomstig tot uitdrukking gebracht. In het geval dat de in het eerste lid bedoelde gemandateerde ondertekent namens meerdere bewindspersonen, worden alle betrokken bewindspersonen in de eerder bedoelde formule opgenomen.
 
-#### Artikel 17. Intrekking
+##### Artikel 17. Intrekking
 
 1. Het [Organisatie- en mandaatbesluit OCW 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018382) (Regeling van 2 juni 2005, Stcrt. 2005, nr. 113) wordt ingetrokken.
 
@@ -298,11 +324,11 @@ Het vierde lid is van overeenkomstige toepassing.
 
 3. Mandaten die zijn verleend op grond van het [Organisatie- en mandaatbesluit OCW 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018382) en die gelden op de dag voor inwerkingtreding van dit besluit, worden geacht te zijn verleend op grond van dit besluit met dien verstande dat beperkingen op grond van dit besluit ook gelden voor de verleende ondermandaten.
 
-#### Artikel 18. Inwerkingtreding
+##### Artikel 18. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 maart 2008.
 
-#### Artikel 19. Citeertitel
+##### Artikel 19. Citeertitel
 
 Dit besluit wordt aangehaald als: Organisatie- en mandaatbesluit OCW 2008.
 
@@ -682,7 +708,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 14a. Mandaatbesluit beschermde stads- en dorpsgezichten
+##### Artikel 14a. Mandaatbesluit beschermde stads- en dorpsgezichten
 
 1. De directeur van de Rijksdienst voor het Cultureel Erfgoed is gemandateerd om, namens de secretaris-generaal, mede namens de Minister van Binnenlandse Zaken en Koninkrijksrelaties besluiten te nemen als bedoeld in [artikel 1, eerste lid, aanhef en onder a en d, van het Mandaatbesluit beschermde stads- en dorpsgezichten](https://wetten.overheid.nl/jci1.3:c:BWBR0027565&artikel=1). Hij kan met betrekking tot dit mandaat ondermandaat verlenen aan één of meer onder hem ressorterende functionarissen.
 
@@ -958,11 +984,11 @@ Er zijn de volgende bureaus die onafhankelijke of zelfstandige organisaties onde
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 14b. Voorbehouden aan de directeur Wetgeving en Juridische Zaken
+##### Artikel 14b. Voorbehouden aan de directeur Wetgeving en Juridische Zaken
 
 De directeur Wetgeving en Juridische Zaken is gemandateerd te beslissen over een verzoek om informatie op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) en tot de gehele of gedeeltelijke afwijzing van een verzoek op grond van de [Wet hergebruik van overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795). Hij kan met betrekking tot dit mandaat ondermandaat verlenen. Als hij ondermandaat verleent aan een functionaris die niet onder hem ressorteert, behoeft deze instemming van de gemandateerde en diens direct-leidinggevende.
 
-#### Artikel 14c. Bestedingsplan
+##### Artikel 14c. Bestedingsplan
 
 1. Aan de minister is voorbehouden het vaststellen van het departementale bestedingsplan.
 
@@ -1244,7 +1270,7 @@ Er zijn de volgende bureaus die onafhankelijke of zelfstandige organisaties onde
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 14d. Rijksinkoop en departementale inkoopfunctie
+##### Artikel 14d. Rijksinkoop en departementale inkoopfunctie
 
 1. De Coördinerend Directeur Inkoop (CDI) is verantwoordelijk voor het goed functioneren van het CDI/CPO-stelsel binnen het Ministerie. De CDI wordt betrokken bij alle grote en/of risicovolle inkooptrajecten en wordt in de gelegenheid gesteld deze vooraf te beoordelen, conform de interdepartementale afspraken die dienaangaande gemaakt zijn in het Uitvoeringsprogramma Compacte Rijksdienst en binnen het CDI/CPO-stelsel.
 

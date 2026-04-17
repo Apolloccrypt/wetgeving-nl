@@ -1,13 +1,39 @@
 ---
-title: "Organisatie-, mandaat- en volmachtbesluit directie Participatie en Decentrale Voorzieningen 2015"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 8 december 2015, 2015-0000305412, houdende de inrichting van de directie Participatie en Decentrale Voorzieningen alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Participatie en Decentrale Voorzieningen (Organisatie-, mandaat- en volmachtbesluit directie Participatie en Decentrale Voorzieningen 2015)"
 identifier: "BWBR0037454"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-04-05
-laatste_update: 2025-04-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037454"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-04-05"
+last_updated: "2025-04-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037454"
+soort: "ministeriele-regeling"
+stam_id: "13369103"
+version_id: "22921602"
+internal_id: "C33146741"
+label_id: "13336944"
+dtd_version: "2.0"
+original_entry_into_force: "2015-12-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037454/2025-04-05/0"
+intitule_bron: "Stcrt.2015-47959"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-12-08"
+intitule_published: "2015-12-29"
+intitule_in_force: "2015-12-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-47959"
+original_signed_date: "2015-12-08"
+original_published_date: "2015-12-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-47959"
+entry_into_force_date: "2015-12-30"
+jci_1_3: "jci1.3:c:BWBR0037454&z=2025-04-05&g=2025-04-05"
+jci_1_0: "1.0:c:BWBR0037454&g=2025-04-05"
+citeertitel_status: "officieel"
+short_title: "Organisatie-, mandaat- en volmachtbesluit directie Participatie en Decentrale Voorzieningen 2015"
+signed_date: "2015-12-08"
+entry_into_force: "2015-12-30"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 8 december 2015, 2015-0000305412, houdende de inrichting van de directie Participatie en Decentrale Voorzieningen alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Participatie en Decentrale Voorzieningen (Organisatie-, mandaat- en volmachtbesluit directie Participatie en Decentrale Voorzieningen 2015)
 
 Gelet op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&artikel=3), en [10 van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Sociale Zekerheid en Integratie 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&artikel=10);
@@ -16,13 +42,13 @@ Besluit:
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder directie Participatie en Decentrale Voorzieningen: de directie Participatie en Decentrale Voorzieningen van het ministerie.
 
 #### § 2. Organisatie en taken afdelingen
 
-#### Artikel 2
+##### Artikel 2
 
 De directie Participatie en Decentrale Voorzieningen bestaat uit de volgende afdelingen:
 
@@ -34,7 +60,7 @@ De directie Participatie en Decentrale Voorzieningen bestaat uit de volgende afd
 
 - d. de afdeling Participatie en Financiële Sturing.
 
-#### Artikel 3
+##### Artikel 3
 
 Het hoofd van de afdeling Generieke Participatievoorzieningen is verantwoordelijk voor:
 
@@ -44,7 +70,7 @@ Het hoofd van de afdeling Generieke Participatievoorzieningen is verantwoordelij
 
 - c. de vormgeving en organisatie van de bestuurlijke overleggen met de Vereniging van Nederlandse Gemeenten.
 
-#### Artikel 4
+##### Artikel 4
 
 Het hoofd van de afdeling Re-integratie en Participatie is verantwoordelijk voor:
 
@@ -60,7 +86,7 @@ Het hoofd van de afdeling Re-integratie en Participatie is verantwoordelijk voor
 
 - f. het accounthouderschap van de Directie Dienstverlening, Samenwerkingsverbanden en Uitvoering met betrekking tot de uitvoering van regelingen door de Directie Dienstverlening, Samenwerkingsverbanden en Uitvoering.
 
-#### Artikel 5
+##### Artikel 5
 
 Het hoofd van de afdeling Participatie en Arbeidsmarktregio’s is verantwoordelijk voor:
 
@@ -78,7 +104,7 @@ Het hoofd van de afdeling Participatie en Arbeidsmarktregio’s is verantwoordel
 
 - g. de beleidsvorming op het terrein van cliëntparticipatie en de bestuurlijke relatie met de Landelijke Cliëntenraad.
 
-#### Artikel 6
+##### Artikel 6
 
 Het hoofd van de afdeling Participatie en Financiële Sturing is verantwoordelijk voor:
 
@@ -96,7 +122,7 @@ Het hoofd van de afdeling Participatie en Financiële Sturing is verantwoordelij
 
 #### § 3. Bevoegdheden
 
-#### Artikel 7
+##### Artikel 7
 
 Aan de hoofden van de afdelingen wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van de eigen organisatorische eenheid, voor zover het betreft:
 
@@ -110,7 +136,7 @@ Aan de hoofden van de afdelingen wordt volmacht en machtiging verleend tot het v
 
 - e. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur Participatie en Decentrale Voorzieningen.
 
-#### Artikel 8
+##### Artikel 8
 
 Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrekking tot:
 
@@ -120,15 +146,15 @@ Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrek
 
 #### § 4. Slotbepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 Doorverlening van bevoegdheden door afdelingshoofden is slechts toegestaan na voorafgaande schriftelijke toestemming van de directeur Participatie en Decentrale Voorzieningen.
 
-#### Artikel 10
+##### Artikel 10
 
 Bij afwezigheid van de directeur Participatie en Decentrale Voorzieningen worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door het afdelingshoofd dat is aangewezen als de plaatsvervangende directeur.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit Re-integratie en Participatie 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024987) wordt ingetrokken.
 
@@ -138,7 +164,7 @@ Bij afwezigheid van de directeur Participatie en Decentrale Voorzieningen worden
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-#### Artikel 8a
+##### Artikel 8a
 
 Aan de hoofden van de afdelingen wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– per overeenkomst inclusief btw. Dit geldt voor:
 

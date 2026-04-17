@@ -1,18 +1,43 @@
 ---
-title: "Verordening PT vakheffing bloembollen oogstjaar 2009"
+title: "Besluit van het bestuur van het Productschap Tuinbouw van 24 maart 2009, houdende de vaststelling van een aan telers van en handelaren in bloembollen op te leggen heffing voor het oogstjaar 2009 (Verordening PT vakheffing bloembollen oogstjaar 2009)"
 identifier: "BWBR0026188"
-categorie: "Belastingrecht"
-publicatiedatum: 2011-09-11
-laatste_update: 2011-09-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026188"
+country: "nl"
+rank: "pbo"
+publication_date: "2011-09-11"
+last_updated: "2011-09-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026188"
+soort: "pbo"
+stam_id: "10144163"
+version_id: "16592592"
+internal_id: "C22845481"
+label_id: "10120454"
+dtd_version: "2.0"
+original_entry_into_force: "2009-06-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026188/2011-09-11/0"
+intitule_bron: "Vbbo.2009-36"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-03-24"
+intitule_published: "2009-06-05"
+intitule_in_force: "2009-06-05"
+intitule_status: "goed"
+original_publication: "Vbbo.2009-36"
+original_signed_date: "2009-03-24"
+original_published_date: "2009-06-05"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2009-06-07"
+jci_1_3: "jci1.3:c:BWBR0026188&z=2011-09-11&g=2011-09-11"
+jci_1_0: "1.0:c:BWBR0026188&g=2011-09-11"
+citeertitel_status: "officieel"
+short_title: "Verordening PT vakheffing bloembollen oogstjaar 2009"
+signed_date: "2009-03-24"
+entry_into_force: "2009-06-07"
 ---
-
 # Besluit van het bestuur van het Productschap Tuinbouw van 24 maart 2009, houdende de vaststelling van een aan telers van en handelaren in bloembollen op te leggen heffing voor het oogstjaar 2009 (Verordening PT vakheffing bloembollen oogstjaar 2009)
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze verordening worden overgenomen de begripsbepalingen van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=1) en [2 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=2).
 
@@ -43,7 +68,7 @@ bron: "https://wetten.overheid.nl/BWBR0026188"
 
 #### § 2. Heffingsplicht
 
-#### Artikel 2
+##### Artikel 2
 
 1. De koper en verkoper van bloembollen, waaronder tevens dient te worden verstaan de zelftelende broeier als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0026188&paragraaf=3&artikel=10&z=2011-09-11&g=2011-09-11) van deze verordening, zijn aan het productschap een heffing verschuldigd.
 
@@ -51,7 +76,7 @@ bron: "https://wetten.overheid.nl/BWBR0026188"
 
 3. De heffing als bedoeld in het eerste lid, wordt opgelegd bij wege van een aanslag, met in achtneming van het in de volgende artikelen bepaalde.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026188&paragraaf=2&artikel=2&z=2011-09-11&g=2011-09-11) doen de koper en verkoper bij het productschap aangifte van de door hen gekochte, respectievelijk verkochte bloembollen.
 
@@ -59,7 +84,7 @@ bron: "https://wetten.overheid.nl/BWBR0026188"
 
 #### § 3. Grondslag en hoogte
 
-#### Artikel 4
+##### Artikel 4
 
 1. De heffing die de koperen verkoper van bloembollen zijn verschuldigd, wordt over iedere transactie opgelegd.
 
@@ -84,7 +109,7 @@ Voor de zelftelende broeier: 1,0% van de verkoopwaarde.
 | Narcis | Vanaf december | 0,15 / kg |
 | Tulpen | Vanaf december | 4,80 / 1000 stuks |
 
-#### Artikel 5
+##### Artikel 5
 
 1. Degene die bloembollen verkoopt of heeft verkocht door tussenkomst van een veiling, is aan het productschap een heffing verschuldigd over iedere transactie.
 
@@ -96,7 +121,7 @@ De aldus geïncasseerde heffing wordt rechtstreeks aan het productschap overgema
 
 4. Het derde lid laat onverlet de bevoegdheid van het productschap om in voorkomende gevallen zelf tot oplegging en invordering van de ingevolge het eerste lid verschuldigde heffing over te gaan.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Degene die bloembollen koopt of heeft gekocht door tussenkomst van een veiling is aan het productschap een heffing verschuldigd over iedere transactie.
 
@@ -106,11 +131,11 @@ De aldus geïncasseerde heffing wordt rechtstreeks aan het productschap overgema
 
 4. Het derde lid laat onverlet de bevoegdheid van het productschap om in voorkomende gevallen zelf tot oplegging en invordering van de ingevolge het eerste lid verschuldigde heffing over te gaan.
 
-#### Artikel 7
+##### Artikel 7
 
 Degene die zonder tussenkomst van een veiling bloembollen verkoopt, is verplicht: 1,0% van het factuurbedrag van de door hem aldus verkochte bollen aan de desbetreffende kopers door te berekenen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Degene die zonder tussenkomst van een veiling bloembollen koopt is aan het productschap een heffing verschuldigd over iedere transactie.
 
@@ -124,7 +149,7 @@ Het derdelid laat onverlet de bevoegdheid van het productschap om in voorkomende
 
 5. Indien en voor zover daartoe termen aanwezig zijn, kan bij de toepassing van het eerste lid als factuurbedrag worden aangemerkt de marktwaarde van de desbetreffende bloembollen op het tijdstip van koop.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Degene die zonder tussenkomst van een veiling bloembollen verkoopt is aan het productschap een heffing verschuldigd over iedere transactie.
 
@@ -136,7 +161,7 @@ Het derdelid laat onverlet de bevoegdheid van het productschap om in voorkomende
 
 5. Indien en voor zover daartoe termen aanwezig zijn, kan bij de toepassing van het eerste lid als factuurbedrag worden aangemerkt de marktwaarde van de desbetreffende bloembollen op het tijdstip van verkoop.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Degene die bloembollen afkomstig uit eigen kraam aanwendt voor de teelt van bolbloemen is over die bloembollen aan het productschap een heffing verschuldigd.
 
@@ -144,7 +169,7 @@ Het derdelid laat onverlet de bevoegdheid van het productschap om in voorkomende
 
 3. De verkoopwaarde van de bloembollen wordt door het PT vastgesteld op basis van de gemiddelde verkoopprijzen in het betreffende oogstjaar.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Degene die aantoont:
 
@@ -184,19 +209,19 @@ Besluit:
 
 #### § 3. Grondslag en hoogte
 
-#### Artikel 12
+##### Artikel 12
 
 In die gevallen dat de heffing niet is voldaan op de wijze bedoeld in de [artikelen 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026188&paragraaf=3&artikel=5&z=2011-09-11&g=2011-09-11), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026188&paragraaf=3&artikel=6&z=2011-09-11&g=2011-09-11), [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026188&paragraaf=3&artikel=8&z=2011-09-11&g=2011-09-11), en [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026188&paragraaf=3&artikel=9&z=2011-09-11&g=2011-09-11), vindt de oplegging van de krachtens deze verordening verschuldigde heffing plaats na afloop van het jaar waarover de heffing verschuldigd is en geschiedt deze door toezending of uitreiking aan de heffingsplichtige van een heffingsnota.
 
-#### Artikel 13
+##### Artikel 13
 
 Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming, niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
-#### Artikel 14
+##### Artikel 14
 
 Een koper of verkoper van bloembollen wordt geacht, indien hij bloembollen door tussenkomst van een veiling verhandelt, aan zijn verplichtingen als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026188&paragraaf=2&artikel=2&z=2011-09-11&g=2011-09-11) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0026188&paragraaf=2&artikel=3&z=2011-09-11&g=2011-09-11) ten aanzien van de op vorenbedoelde wijze verhandelde producten te hebben voldaan, indien hij de desbetreffende veiling heeft gemachtigd namens hem aan het productschap de door hem verschuldigde heffing te voldoen en de verschuldigde heffing door het productschap is ontvangen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De gegevens verkregen uit hoofde van het bepaalde in deze verordening dienen in handen van de voorzitter of door deze aan te wijzen personen van het secretariaat van het productschap te worden gesteld.
 
@@ -204,10 +229,10 @@ Een koper of verkoper van bloembollen wordt geacht, indien hij bloembollen door 
 
 #### § 5. Slotbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 Deze verordening treedt in werking met ingang van de tweede dag na de datum van publicatie in het Verordeningenblad Bedrijfsorganisatie.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze verordening wordt aangehaald als: Verordening PT vakheffing bloembollen oogstjaar 2009.

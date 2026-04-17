@@ -1,13 +1,36 @@
 ---
 title: "Subsidieregeling nieuwe agrarische schadeverzekeringen 2003"
 identifier: "BWBR0015740"
-categorie: "Bestuursrecht"
-publicatiedatum: 2007-11-25
-laatste_update: 2007-11-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015740"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2007-11-25"
+last_updated: "2007-11-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015740"
+soort: "ministeriele-regeling"
+stam_id: "5448263"
+version_id: "9820552"
+internal_id: "C13277711"
+label_id: "5423094"
+original_entry_into_force: "2003-10-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015740/2007-11-25/0"
+intitule_bron: "Stcrt.2003-203"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-10-17"
+intitule_published: "2003-10-21"
+intitule_in_force: "2003-10-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-203"
+original_signed_date: "2003-10-17"
+original_published_date: "2003-10-21"
+original_effect: "structuurwijziging"
+entry_into_force_date: "2003-10-23"
+jci_1_3: "jci1.3:c:BWBR0015740&z=2007-11-25&g=2007-11-25"
+jci_1_0: "1.0:c:BWBR0015740&g=2007-11-25"
+citeertitel_status: "officieel"
+signed_date: "2003-10-17"
+entry_into_force: "2003-10-23"
 ---
-
 # Subsidieregeling nieuwe agrarische schadeverzekeringen 2003
 
 Handelende in overeenstemming met de Minister van Financiën;
@@ -28,7 +51,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -52,7 +75,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Subsidie
 
-#### Artikel 2
+##### Artikel 2
 
 1. De minister kan in overeenstemming met de Minister van Financiën aan verzekeraars subsidie in de vorm van een garantie verlenen ten behoeve van door een verzekeraar af te sluiten verzekeringen, voor de volgende schade:
 
@@ -64,7 +87,7 @@ In deze regeling wordt verstaan onder:
 
 3. De subsidie, bedoeld in het eerste lid, onder b, wordt verleend voor de resterende periode tot 1 november 2017.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aanvragen tot verlening van een subsidie als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=2&artikel=2&z=2007-11-25&g=2007-11-25), kunnen door verzekeraars worden ingediend in de periode van 7 april 2008 tot en met 25 april 2008.
 
@@ -72,7 +95,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 3. Voorwaarden subsidie
 
-#### Artikel 4
+##### Artikel 4
 
 1. De subsidie, bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=2&artikel=2&z=2007-11-25&g=2007-11-25) wordt slechts verleend indien de verzekering voldoet aan elk van de navolgende voorwaarden:
 
@@ -104,7 +127,7 @@ In deze regeling wordt verstaan onder:
 
 - d. de voorwaarden, bedoeld in het eerste lid, onder b en e.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De subsidie, bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=2&artikel=2&z=2007-11-25&g=2007-11-25), wordt slechts verleend indien en voorzover de financiële verplichtingen van de verzekeraar het bedrag van € 46.500.000,– overschrijden bij de verzekerde waarde, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=4&artikel=7&z=2007-11-25&g=2007-11-25), met dien verstande dat dit bedrag rechtevenredig afneemt met de eventuele afname van de door de verzekeraar totale verzekerde waarde.
 
@@ -112,11 +135,11 @@ In deze regeling wordt verstaan onder:
 
 #### § 4. Omvang subsidie
 
-#### Artikel 6
+##### Artikel 6
 
 De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=2&artikel=2&z=2007-11-25&g=2007-11-25) bedraagt na de omrekening van de garantie tot een subsidie-equivalent als bedoeld in [artikel 1, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=1&artikel=1&z=2007-11-25&g=2007-11-25), maximaal 50% van het bedrag dat verzekeringsnemers in een verzekeringsperiode van één jaar in totaal aan premies aan de verzekeraar zijn verschuldigd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het subsidieplafond van de subsidie, bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=2&artikel=2&z=2007-11-25&g=2007-11-25), bedraagt € 46.500.000,– bij een maximale verzekerde waarde van € 3.255.000.000,– met dien verstande dat dit bedrag rechtevenredig afneemt met de eventuele afname van de totale verzekerde waarde.
 
@@ -124,13 +147,13 @@ De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015
 
 3. De minister kan de hoogte van het subsidieplafond en de daarbij behorende maximale verzekerde waarde, bedoeld in het eerste en tweede lid, wijzigen indien inflatiegegevens daartoe aanleiding geven.
 
-#### Artikel 8
+##### Artikel 8
 
 De minister kan bepalen dat indien met de door alle verzekeraars afgesloten verzekeringspolissen de maximale verzekerde waarde, bedoeld in [artikel 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=4&artikel=7&z=2007-11-25&g=2007-11-25), is bereikt, de garantieovereenkomst slechts betrekking heeft op de verzekerde waarde die op dat tijdstip door de afgesloten verzekeringspolissen wordt vertegenwoordigd.
 
 #### § 5. Aanvraag subsidieverlening
 
-#### Artikel 9
+##### Artikel 9
 
 1. De aanvraag voor de verlening van de subsidie wordt ingediend bij Dienst Regelingen, op een daartoe vastgesteld formulier.
 
@@ -152,7 +175,7 @@ De minister kan bepalen dat indien met de door alle verzekeraars afgesloten verz
 
 #### § 6. Garantieovereenkomst
 
-#### Artikel 10
+##### Artikel 10
 
 1. De garantieovereenkomst, bedoeld in het [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=5&artikel=9&z=2007-11-25&g=2007-11-25), bevat in ieder geval de volgende elementen:
 
@@ -178,7 +201,7 @@ De minister kan bepalen dat indien met de door alle verzekeraars afgesloten verz
 
 #### § 7. Monitoring
 
-#### Artikel 11
+##### Artikel 11
 
 1. Na het afsluiten van de garantieovereenkomst wordt door de verzekeraar jaarlijks de volgende informatie aan Dienst Regelingen verstrekt:
 
@@ -204,7 +227,7 @@ De minister kan bepalen dat indien met de door alle verzekeraars afgesloten verz
 
 #### § 8. Subsidieverlening
 
-#### Artikel 12
+##### Artikel 12
 
 1. Binnen één maand na afloop van de periode, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=2&artikel=3&z=2007-11-25&g=2007-11-25), neemt de minister een besluit op de aanvragen.
 
@@ -214,7 +237,7 @@ De minister kan bepalen dat indien met de door alle verzekeraars afgesloten verz
 
 4. De subsidie wordt verleend voor de totale door de verzekeraar verzekerde waarde, mits de maximale verzekerde waarde, bedoeld in [artikel 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=4&artikel=7&z=2007-11-25&g=2007-11-25), niet wordt overschreden en de verzekeraar voldoet aan de eisen van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=7&artikel=11&z=2007-11-25&g=2007-11-25).
 
-#### Artikel 13
+##### Artikel 13
 
 1. Op verzoek van de verzekeraar, ingediend overeenkomstig de procedure, bedoeld in [artikel 10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=6&artikel=10&z=2007-11-25&g=2007-11-25), besluit de minister tot uitbetaling van een voorschot ten bedrage van 100% van het subsidiebedrag voor de daadwerkelijk geleden schade, indien is voldaan aan de financiële vereisten van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=3&artikel=5&z=2007-11-25&g=2007-11-25).
 
@@ -222,7 +245,7 @@ De minister kan bepalen dat indien met de door alle verzekeraars afgesloten verz
 
 #### § 9. Weigering, wijziging of intrekkingsubsidie
 
-#### Artikel 14
+##### Artikel 14
 
 1. De subsidieverlening wordt geweigerd indien:
 
@@ -240,7 +263,7 @@ De minister kan bepalen dat indien met de door alle verzekeraars afgesloten verz
 
 #### § 10. Evaluatie
 
-#### Artikel 15
+##### Artikel 15
 
 1. Gedurende de looptijd van de garantie wordt deze regeling iedere twee jaar door de minister geëvalueerd.
 
@@ -264,7 +287,7 @@ De minister kan bepalen dat indien met de door alle verzekeraars afgesloten verz
 
 #### § 11. Vaststelling subsidie
 
-#### Artikel 16
+##### Artikel 16
 
 1. De aanvraag voor de vaststelling van de subsidie wordt binnen zes maanden na afloop van het laatste jaar waarop de garantieovereenkomst van toepassing is, ingediend bij Dienst Regelingen op een daartoe vastgesteld formulier.
 
@@ -278,25 +301,25 @@ De minister kan bepalen dat indien met de door alle verzekeraars afgesloten verz
 
 - d. een totaaloverzicht van de op grond van de afgesloten verzekeringsovereenkomsten uitgekeerde schadevergoedingen over de periode waarop de garantieovereenkomst van toepassing is.
 
-#### Artikel 17
+##### Artikel 17
 
 De minister stelt, in overeenstemming met de Minister van Financiën, na ontvangst van de in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015740&paragraaf=11&artikel=16&z=2007-11-25&g=2007-11-25), bedoelde bescheiden, de subsidie vast.
 
 #### § 12. Overige bepalingen
 
-#### Artikel 18
+##### Artikel 18
 
 Als toezichthouders worden door de minister ambtenaren van het Ministerie van Landbouw, Natuur en Voedselkwaliteit aangewezen.
 
-#### Artikel 19
+##### Artikel 19
 
 De Subsidieregeling nieuwe agrarische schadeverzekeringen wordt ingetrokken.
 
-#### Artikel 20
+##### Artikel 20
 
 Deze regeling wordt aangehaald als: Subsidieregeling nieuwe agrarische schadeverzekeringen 2003.
 
-#### Artikel 21
+##### Artikel 21
 
 Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
 

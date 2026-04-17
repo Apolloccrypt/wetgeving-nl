@@ -1,13 +1,39 @@
 ---
-title: "Besluit buitengewoon opsporingsambtenaar Koninklijke Marechaussee OPSCENT 2024"
+title: "Besluit van de Minister voor Rechtsbescherming van 16 april 2024 nr. BOACAT2024/032, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Koninklijke Marechaussee OPSCENT"
 identifier: "BWBR0049589"
-categorie: "Strafrecht"
-publicatiedatum: 2024-04-24
-laatste_update: 2024-04-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049589"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-04-24"
+last_updated: "2024-04-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049589"
+soort: "ministeriele-regeling"
+stam_id: "17077643"
+version_id: "30055182"
+internal_id: "C43074391"
+label_id: "16986404"
+dtd_version: "2.0"
+original_entry_into_force: "2024-04-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049589/2024-04-24/0"
+intitule_bron: "Stcrt.2024-13146"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-04-16"
+intitule_published: "2024-04-23"
+intitule_in_force: "2024-04-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-13146"
+original_signed_date: "2024-04-16"
+original_published_date: "2024-04-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-13146"
+entry_into_force_date: "2024-04-24"
+jci_1_3: "jci1.3:c:BWBR0049589&z=2024-04-24&g=2024-04-24"
+jci_1_0: "1.0:c:BWBR0049589&g=2024-04-24"
+citeertitel_status: "officieel"
+short_title: "Besluit buitengewoon opsporingsambtenaar Koninklijke Marechaussee OPSCENT 2024"
+signed_date: "2024-04-16"
+entry_into_force: "2024-04-24"
 ---
-
 # Besluit van de Minister voor Rechtsbescherming van 16 april 2024 nr. BOACAT2024/032, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Koninklijke Marechaussee OPSCENT
 
 Gelezen het verzoek van Directie Operaties van de Koninklijke Marechaussee van 19 maart 2024 en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket Oost-Nederland;
@@ -26,15 +52,15 @@ de [Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/j
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049589&artikel=2&z=2024-04-24&g=2024-04-24).
 
-#### Artikel 2
+##### Artikel 2
 
 De personen, werkzaam in de functie Sr Centralist, Centralist, Sr Mdw KCC en Mdw KCC in dienst van de Koninklijke Marechaussee, zijn aangewezen als buitengewoon opsporingsambtenaar.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein VI, Generieke Opsporing, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
 
@@ -42,17 +68,17 @@ De personen, werkzaam in de functie Sr Centralist, Centralist, Sr Mdw KCC en Mdw
 
 3. De buitengewoon opsporingsambtenaar vermeldt in zijn processen-verbaal en schriftelijke verslagleggingen het in het eerste lid genoemde domein.
 
-#### Artikel 4
+##### Artikel 4
 
 Op grond van dit besluit kunnen maximaal 30 personen als buitengewoon opsporingsambtenaar worden beëdigd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de hoofdofficier van justitie bij het arrondissementsparket Oost-Nederland.
 
 2. Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de commandant der Koninklijke Marechaussee.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Directie Operaties van de Koninklijke Marechaussee brengt jaarlijks, voor 1 april, verslag uit over:
 
@@ -64,11 +90,11 @@ Op grond van dit besluit kunnen maximaal 30 personen als buitengewoon opsporings
 
 2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049589&artikel=5&z=2024-04-24&g=2024-04-24) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en vervalt vijf jaar na het tijdstip van inwerkingtreding.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Koninklijke Marechaussee OPSCENT 2024.
 

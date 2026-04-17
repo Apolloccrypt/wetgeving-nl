@@ -1,13 +1,35 @@
 ---
 title: "Besluit instelling Klachtencommissie Ongewenste Omgangsvormen Rijk"
 identifier: "BWBR0051145"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2025-06-28
-laatste_update: 2025-06-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051145"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-06-28"
+last_updated: "2025-06-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051145"
+soort: "ministeriele-regeling"
+stam_id: "17454543"
+version_id: "30782272"
+internal_id: "C44123081"
+label_id: "17357404"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051145/2025-06-28/0"
+intitule_bron: "Stcrt.2025-19890"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-06-27"
+intitule_in_force: "2025-06-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-19890"
+original_published_date: "2025-06-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-19890"
+entry_into_force_date: "2025-06-28"
+jci_1_3: "jci1.3:c:BWBR0051145&z=2025-06-28&g=2025-06-28"
+jci_1_0: "1.0:c:BWBR0051145&g=2025-06-28"
+citeertitel_status: "officieel"
+entry_into_force: "2025-06-28"
 ---
-
 # Besluit instelling Klachtencommissie Ongewenste Omgangsvormen Rijk
 
 Gelet op [hoofdstuk 9, titel 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.1) en [artikel 9:14 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:14) en [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en de Klachtenregeling Ongewenste Omgangsvormen Rijk;
@@ -16,7 +38,7 @@ Gehoord de Groepsondernemingsraad Rijk (GOR Rijk);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -30,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 - e. **De Klachtencommissie:** **Klachtencommissie Ongewenste Omgangsvormen Rijk;**
 
-#### Artikel 2. Instelling en taak
+##### Artikel 2. Instelling en taak
 
 1. Er is een Klachtencommissie Ongewenste Omgangsvormen Rijk.
 
@@ -46,7 +68,7 @@ In dit besluit wordt verstaan onder:
 
 - e. De Klachtencommissie draagt zorg voor jaarlijkse rapportages.
 
-#### Artikel 3. Leden Klachtencommissie, benoeming en ontslag
+##### Artikel 3. Leden Klachtencommissie, benoeming en ontslag
 
 1. De Klachtencommissie bestaat uit een algemeen voorzitter, maximaal 5 plaatsvervangende voorzitters en maximaal 30 leden.
 
@@ -64,7 +86,7 @@ In dit besluit wordt verstaan onder:
 
 8. De namen en functies van de voorzitters en leden van de Klachtencommissie worden opgenomen in een register dat wordt beheerd door het CAOP.
 
-#### Artikel 4. Samenstelling Afgevaardigde Klachtencommissie
+##### Artikel 4. Samenstelling Afgevaardigde Klachtencommissie
 
 1. Voor de daadwerkelijke behandeling van een klacht wordt uit de Klachtencommissie, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051145&artikel=3&z=2025-06-28&g=2025-06-28), een afgevaardigde Klachtencommissie samengesteld.
 
@@ -74,13 +96,13 @@ In dit besluit wordt verstaan onder:
 
 4. De afvaardiging van de Klachtencommissie wordt zoveel mogelijk divers samengesteld.
 
-#### Artikel 5. Secretariaat
+##### Artikel 5. Secretariaat
 
 1. De Klachtencommissie, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051145&artikel=3&z=2025-06-28&g=2025-06-28), en de afgevaardigde Klachtencommissie, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051145&artikel=4&z=2025-06-28&g=2025-06-28), worden in het gehele proces van het opstellen van de jaarlijkse rapportages dan wel de klachtbehandeling ondersteund door een secretaris en/of plaatsvervangend secretaris van het CAOP.
 
 2. Voor de inhoudelijke uitvoering van haar taken is het secretariaat uitsluitend verantwoording verschuldigd aan de Klachtencommissie.
 
-#### Artikel 6. Meldpunt en Werkwijze
+##### Artikel 6. Meldpunt en Werkwijze
 
 1. De Klachtencommissie, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051145&artikel=3&z=2025-06-28&g=2025-06-28), maakt gebruik van een meldpunt waartoe medewerkers zich rechtstreeks kunnen wenden met hun klacht.
 
@@ -88,15 +110,15 @@ In dit besluit wordt verstaan onder:
 
 3. In de Klachtenregeling Ongewenste Omgangsvormen Rijk is de werkwijze van de Klachtencommissie vastgelegd.
 
-#### Artikel 7. Vergoeding voorzitter en leden
+##### Artikel 7. Vergoeding voorzitter en leden
 
 Vergoedingen aan de voorzitter, plaatsvervangend voorzitters en leden van de Klachtencommissie zullen, voor zover deze geen Rijksambtenaar zijn, plaatsvinden conform de [Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775) en het [Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279).
 
-#### Artikel 8. Kosten
+##### Artikel 8. Kosten
 
 De kosten voor de Klachtencommissie en het secretariaat worden de eerste twee jaar na de inwerkingtreding van dit besluit gedragen door het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. Na deze periode wordt hierover een nader besluit genomen door de ICOP.
 
-#### Artikel 9. Archivering
+##### Artikel 9. Archivering
 
 1. Het secretariaat van de Klachtencommissie draagt gedurende de behandeling van de klacht zorg voor een goede dossiervorming en de opslag van het dossier. Het dossier is alleen toegankelijk voor het secretariaat en de afgevaardigde Klachtencommissie. Bij het bewaren houdt de Klachtencommissie de toepasselijke regelgeving zoals de Algemene Verordening Gegevensbescherming (AVG) en de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) in acht.
 
@@ -104,7 +126,7 @@ De kosten voor de Klachtencommissie en het secretariaat worden de eerste twee ja
 
 3. Zeven jaar nadat het onderzoeksrapport aan de hoogst leidinggevende is gestuurd wordt het dossier vernietigd.
 
-#### Artikel 10. Overgangsbepaling
+##### Artikel 10. Overgangsbepaling
 
 1. De Klachtencommissie neemt klachten in behandeling die na de datum van inwerkingtreding van dit besluit door haar worden ontvangen. Klachten die op de dag van inwerkingtreding bij een andere klachtencommissie in behandeling zijn dan wel zijn geweest worden niet door de Klachtencommissie in behandeling genomen.
 
@@ -112,15 +134,15 @@ De kosten voor de Klachtencommissie en het secretariaat worden de eerste twee ja
 
 3. In afwijking van lid 1 en 2 neemt de Klachtencommissie niet eerder dan na het afronden van de noodzakelijke procedurele stappen klachten in behandeling die betrekking hebben op de AIVD. De departementale klachtregeling blijft tot dat moment voor wat betreft de AIVD van kracht.
 
-#### Artikel 11. Evaluatie
+##### Artikel 11. Evaluatie
 
 De Klachtencommissie zal twee jaar na inwerkingtreding van dit besluit worden geëvalueerd.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit instelling Klachtencommissie Ongewenste Omgangsvormen Rijk.
 

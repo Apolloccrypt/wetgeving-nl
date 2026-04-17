@@ -1,20 +1,46 @@
 ---
-title: "Regeling stimulering schoon en emissieloos bouwen voor medeoverheden"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 5 april 2024, nr. IENW/BSK-2024/91785, houdende regels voor het verstrekken van een rijksbijdrage voor schoon en emissieloos bouwen (Regeling stimulering schoon en emissieloos bouwen voor medeoverheden)"
 identifier: "BWBR0049544"
-categorie: "Milieu"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049544"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049544"
+soort: "ministeriele-regeling"
+stam_id: "17067843"
+version_id: "30035802"
+internal_id: "C43050751"
+label_id: "16976744"
+dtd_version: "2.0"
+original_entry_into_force: "2024-04-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049544/2026-01-01/0"
+intitule_bron: "Stcrt.2024-10962"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-04-05"
+intitule_published: "2024-04-08"
+intitule_in_force: "2024-04-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-10962"
+original_signed_date: "2024-04-05"
+original_published_date: "2024-04-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-10962"
+entry_into_force_date: "2024-04-09"
+jci_1_3: "jci1.3:c:BWBR0049544&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0049544&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling stimulering schoon en emissieloos bouwen voor medeoverheden"
+signed_date: "2024-04-05"
+entry_into_force: "2024-04-09"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 5 april 2024, nr. IENW/BSK-2024/91785, houdende regels voor het verstrekken van een rijksbijdrage voor schoon en emissieloos bouwen (Regeling stimulering schoon en emissieloos bouwen voor medeoverheden)
 
 Gelet op [artikel 17, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17), [artikel 3, eerste lid, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), en [5, van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5) en [artikel 6, tweede lid, onderdeel a, van de Wet Mobiliteitsfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0044860&artikel=6) en [artikel 2, derde lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2);
 
 BESLUIT:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -64,21 +90,21 @@ In deze regeling wordt verstaan onder:
 
 - **vaartuig:** binnenvaartschip of drijvend werktuig als bedoeld in de [richtlijn (EU) 2016/1629](32016L1629) van het Europees Parlement en de Raad van 14 september 2016 tot vaststelling van de technische voorschriften voor binnenschepen, tot wijziging van [Richtlijn 2009/100/EG](32009L0100) en tot intrekking van [Richtlijn 2006/87/EG](32006L0087).
 
-#### Artikel 2. Toepasselijkheid [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381)
+##### Artikel 2. Toepasselijkheid [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381)
 
 De [artikelen, 6, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=11), [12, aanhef en onder c, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=12), [14, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=14), [17, eerste lid, aanhef en onder a tot en met c en f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=18) en, voor zover het een rijksbijdrage aan een waterschap betreft [artikel 15, tweede lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=15), [artikel 24, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24) en [artikel 25, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=25) zijn van overeenkomstige toepassing op een rijksbijdrage die op grond van deze regeling wordt verstrekt.
 
-#### Artikel 3. Doel
+##### Artikel 3. Doel
 
 Het doel van deze regeling is het stimuleren van medeoverheden om emissieloos bouwmaterieel toe te passen bij aanbestedingen, daartoe het Convenant Schoon en Emissieloos Bouwen te ondertekenen en daarmee bij te dragen aan doelen op het gebied van stikstofreductie, klimaat en gezondheid.
 
-#### Artikel 4. Kosten die in aanmerking komen voor een rijksbijdrage
+##### Artikel 4. Kosten die in aanmerking komen voor een rijksbijdrage
 
 1. De Minister kan een rijksbijdrage verstrekken voor kosten van de inzet van emissieloze bouwmachines en emissieloze vaartuigen bij aanbestede bouwwerkzaamheden ten behoeve van een publieke taak waarvoor de aanvrager financieel verantwoordelijk is.
 
 2. Kosten waarvoor reeds een specifieke uitkering of een andere subsidie door het Rijk, een provinciebestuur of een gemeentebestuur is verstrekt aan de aanvrager voor de inzet van emissieloos bouwmaterieel bij de bouwwerkzaamheid of waarvoor reeds gebruik is gemaakt van Europese subsidies voor de inzet van emissieloos bouwmaterieel bij de bouwwerkzaamheid komen niet voor een rijksbijdrage in aanmerking.
 
-#### Artikel 5. Plafond en wijze van verdeling
+##### Artikel 5. Plafond en wijze van verdeling
 
 1. Het totale rijksbijdrageplafond voor de gehele looptijd van de regeling bedraagt in totaal € 216.000.000 inclusief btw.
 
@@ -118,13 +144,13 @@ Het doel van deze regeling is het stimuleren van medeoverheden om emissieloos bo
 
 10. In afwijking van het negende lid hebben nieuwe toetreders tot het Convenant Schoon en Emissieloos Bouwen in het betreffende jaar voorrang boven medeoverheden die reeds een jaarlijks individueel uitkeringsplafond hebben ontvangen.
 
-#### Artikel 6. Hoogte van de rijksbijdrage
+##### Artikel 6. Hoogte van de rijksbijdrage
 
 1. De hoogte van de rijksbijdrage exclusief btw wordt bepaald volgens de tabellen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&bijlage=3&z=2026-01-01&g=2026-01-01), waarbij € 2.400 inclusief btw wordt opgeteld als forfaitair startbedrag.
 
 2. De som van de uitgekeerde rijksbijdragen per aanvrager gedurende de looptijd van de regeling bedraagt ten hoogste € 5.000.000 inclusief de gemaakte kosten aan btw.
 
-#### Artikel 7. Aanvraag tot verlening
+##### Artikel 7. Aanvraag tot verlening
 
 1. Een rijksbijdrage wordt op aanvraag verstrekt.
 
@@ -156,7 +182,7 @@ Het doel van deze regeling is het stimuleren van medeoverheden om emissieloos bo
 
 - g. het bankrekeningnummer waarop het rijksbijdragebedrag dient te worden gestort.
 
-#### Artikel 8. Voorwaarden
+##### Artikel 8. Voorwaarden
 
 Uitsluitend aanvragen die voldoen aan de volgende voorwaarden worden in behandeling genomen:
 
@@ -166,7 +192,7 @@ Uitsluitend aanvragen die voldoen aan de volgende voorwaarden worden in behandel
 
 - c. de eerste inzet bij de bouwwerkzaamheid van de in het inzetplan emissieloos materieel genoemde bouwmachines of vaartuigen is uiterlijk vijf maanden voor de aanvraagdatum gestart.
 
-#### Artikel 9. Verlening
+##### Artikel 9. Verlening
 
 Een besluit tot verlening vermeldt in ieder geval:
 
@@ -182,11 +208,11 @@ Een besluit tot verlening vermeldt in ieder geval:
 
 - f. indien het een rijksbijdrage van minder dan € 25.000,- betreft aan een waterschap: de datum waarop de subsidie ambtshalve wordt vastgesteld.
 
-#### Artikel 10. Voorwaardelijke verlening
+##### Artikel 10. Voorwaardelijke verlening
 
 Een rijksbijdrage ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34).
 
-#### Artikel 11. Verplichtingen ontvanger
+##### Artikel 11. Verplichtingen ontvanger
 
 1. De bouwwerkzaamheid start uiterlijk binnen 12 maanden na verlening en is uiterlijk binnen vier jaar na verlening van de rijksbijdrage afgerond.
 
@@ -198,15 +224,15 @@ Een rijksbijdrage ten laste van een begroting die nog niet is vastgesteld, wordt
 
 5. De aanvrager verleent binnen een door de Minister te stellen termijn medewerking aan een door de Minister ingesteld evaluatieonderzoek.
 
-#### Artikel 12. Bevoorschotting
+##### Artikel 12. Bevoorschotting
 
 De Minister verstrekt bij het besluit tot verlening, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&artikel=9&z=2026-01-01&g=2026-01-01), een voorschot van 100%, dat binnen vier weken na de beschikking tot verlening wordt betaald.
 
-#### Artikel 13. Verantwoording gemeenten en provincies
+##### Artikel 13. Verantwoording gemeenten en provincies
 
 Gemeenten en provincies leggen verantwoording af over de besteding van de rijksbijdrage op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-#### Artikel 14. Vaststelling van de rijksbijdrage
+##### Artikel 14. Vaststelling van de rijksbijdrage
 
 1. De Minister stelt de rijksbijdrage voor provincies en gemeenten vast uiterlijk op 31 december van het jaar waarin de eindverantwoording, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&artikel=13&z=2026-01-01&g=2026-01-01) heeft plaatsgevonden.
 
@@ -222,17 +248,17 @@ Gemeenten en provincies leggen verantwoording af over de besteding van de rijksb
 
 - c. wanneer van toepassing, het terug te vorderen bedrag.
 
-#### Artikel 15. Evaluatieverslag
+##### Artikel 15. Evaluatieverslag
 
 De Minister publiceert uiterlijk op 1 oktober 2029 een verslag over de doeltreffendheid en de effecten van de rijksbijdrage in de praktijk.
 
-#### Artikel 16. Inwerkingtreding en vervaldatum
+##### Artikel 16. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de regeling wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 april 2029, met dien verstande dat zij van toepassing blijft op een rijksbijdrage die voor die datum is aangevraagd.
 
-#### Artikel 17. Citeertitel
+##### Artikel 17. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling stimulering schoon en emissieloos bouwen voor medeoverheden.
 

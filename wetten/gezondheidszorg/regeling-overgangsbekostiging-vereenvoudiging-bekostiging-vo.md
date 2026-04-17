@@ -1,13 +1,39 @@
 ---
-title: "Regeling overgangsbekostiging vereenvoudiging bekostiging vo"
+title: "Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 30 augustus 2021, nr. VO/29098712, houdende regels voor de overgangsbekostiging in het kader van de vereenvoudiging van de bekostiging voortgezet onderwijs (Regeling overgangsbekostiging vereenvoudiging bekostiging vo)"
 identifier: "BWBR0045608"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2022-08-01
-laatste_update: 2022-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045608"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-08-01"
+last_updated: "2022-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045608"
+soort: "ministeriele-regeling"
+stam_id: "16075213"
+version_id: "27999552"
+internal_id: "C39493791"
+label_id: "16007164"
+dtd_version: "2.0"
+original_entry_into_force: "2021-11-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045608/2022-08-01/0"
+intitule_bron: "Stcrt.2021-40678"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-08-30"
+intitule_published: "2021-09-13"
+intitule_in_force: "2021-09-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-40678"
+original_signed_date: "2021-08-30"
+original_published_date: "2021-09-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-40678"
+entry_into_force_date: "2021-11-15"
+jci_1_3: "jci1.3:c:BWBR0045608&z=2022-08-01&g=2022-08-01"
+jci_1_0: "1.0:c:BWBR0045608&g=2022-08-01"
+citeertitel_status: "officieel"
+short_title: "Regeling overgangsbekostiging vereenvoudiging bekostiging vo"
+signed_date: "2021-08-30"
+entry_into_force: "2021-11-15"
 ---
-
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 30 augustus 2021, nr. VO/29098712, houdende regels voor de overgangsbekostiging in het kader van de vereenvoudiging van de bekostiging voortgezet onderwijs (Regeling overgangsbekostiging vereenvoudiging bekostiging vo)
 
 Gelet op [artikel 118ll, vijfde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118ll);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Bekostiging personeelskosten vo per 1 januari 2022
 
-#### Artikel 2. Vaststelling landelijke gemiddelde personeelslast per 1 januari 2022
+##### Artikel 2. Vaststelling landelijke gemiddelde personeelslast per 1 januari 2022
 
 1. Voor de directie bedraagt de landelijke gemiddelde personeelslast per formatieplaats, bedoeld in [artikel 84, eerste lid, onderdeel a, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=84), zoals die luidde op 30 september 2021, per 1 januari 2022:
 
@@ -72,15 +98,15 @@ In deze regeling wordt verstaan onder:
 
 #### § 3. Bekostiging exploitatiekosten vo per 1 januari 2022
 
-#### Artikel 3. Bedrag per school
+##### Artikel 3. Bedrag per school
 
 Het bedrag per school, bedoeld in [artikel 86, derde lid, onderdeel a, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=86), zoals die luidde op 30 september 2021, wordt per 1 januari 2022 vastgesteld op € 20.862,62.
 
-#### Artikel 4. Bedrag afhankelijk van de normatieve ruimtebehoefte
+##### Artikel 4. Bedrag afhankelijk van de normatieve ruimtebehoefte
 
 Het bedrag, bedoeld in [artikel 86, derde lid, onderdeel b, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=86), zoals die luidde op 30 september 2021, bestaat uit een vast bedrag per school en een bedrag per leerling. Het vaste bedrag per school wordt per 1 januari 2022 vastgesteld op € 19.045,93 en het bedrag per leerling is opgenomen in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045608&paragraaf=3&artikel=5&z=2022-08-01&g=2022-08-01).
 
-#### Artikel 5. Bedragen per leerling
+##### Artikel 5. Bedragen per leerling
 
 1. Het bedrag per leerling, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045608&paragraaf=3&artikel=4&z=2022-08-01&g=2022-08-01), is per 1 januari 2022 het bedrag van de desbetreffende schoolsoort, leerjaren of profiel zoals aangegeven in kolom II van tabel 1.
 
@@ -102,7 +128,7 @@ Het bedrag, bedoeld in [artikel 86, derde lid, onderdeel b, van de Wet op het vo
 
 1 **De theoretische leerweg valt onder de schoolsoort mavo; de beroepsgerichte leerwegen vallen onder de schoolsoort vbo.**
 
-#### Artikel 6. Bekostiging categoriale vbo-school voor landbouw
+##### Artikel 6. Bekostiging categoriale vbo-school voor landbouw
 
 In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045608&paragraaf=3&artikel=5&z=2022-08-01&g=2022-08-01) zijn de bedragen per 1 januari 2022 voor de bekostiging van de exploitatiekosten per leerling van een categoriale vbo-school voor landbouw genoemd in tabel 2.
 
@@ -110,23 +136,23 @@ In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045608&par
 | --- | --- | --- | --- | --- | --- |
 | Vbo | alle leerjaren van het profiel Groen, en de leerjaren 3, 4, 5 en 6 van: Experiment doorlopende leerlijnen | 189,26 | 134,63 | 651,63 | 975,52 |
 
-#### Artikel 7. Lesmateriaal
+##### Artikel 7. Lesmateriaal
 
 De bekostiging voor het beschikbaar stellen van lesmaterialen, bedoeld in [artikel 6, eerste lid, van de Regeling bekostiging exploitatiekosten VO](https://wetten.overheid.nl/jci1.3:c:BWBR0040016&artikel=6), zoals die regeling luidde op 30 september 2021 wordt per 1 januari 2022 vastgesteld op € 339,92 per leerling.
 
 #### § 4. Slotbepalingen
 
-#### Artikel 8. Beschikking en betaling
+##### Artikel 8. Beschikking en betaling
 
 1. De vermindering of vermeerdering van de bekostiging, bedoeld in [artikel 12.47, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=12.47), wordt in december voorafgaand aan het betreffende bekostigingsjaar vastgesteld en volgt het betaalritme van de bekostiging.
 
 2. De vermindering of vermeerdering van de bekostiging wordt uiterlijk in de maand december gewijzigd vastgesteld op basis van de bijdrage voor loon- en prijsontwikkeling. Hierbij wordt dezelfde procentuele bijstelling gehanteerd als de procentuele bijstelling van de bedragen in de [Regeling bekostiging vo-scholen en samenwerkingsverbanden vo](https://wetten.overheid.nl/jci1.3:c:BWBR0045605).
 
-#### Artikel 9. Inwerkingtreding en vervaldatum
+##### Artikel 9. Inwerkingtreding en vervaldatum
 
 Deze regeling treedt in werking met ingang van 15 november 2021 en vervalt met ingang van 1 januari 2027.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling overgangsbekostiging vereenvoudiging bekostiging vo.
 
@@ -140,7 +166,7 @@ De onderwijsinhoudcodes van de schoolsoort vbo hebben betrekking op de beroepsge
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 8a. Nevenvestiging met spreidingsnoodzaak
+##### Artikel 8a. Nevenvestiging met spreidingsnoodzaak
 
 Ten aanzien van een nevenvestiging met spreidingsnoodzaak als bedoeld in [artikel 2 van de Regeling aanvullende bekostiging nevenvestiging, nieuwe scholen en samenvoeging vo](https://wetten.overheid.nl/jci1.3:c:BWBR0024237&artikel=2), zoals die luidde op 31 december 2021, blijft [hoofdstuk I van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024237&hoofdstuk=I), zoals dat luidde op die datum van toepassing met dien verstande dat:
 
@@ -158,7 +184,7 @@ De onderwijsinhoudcodes van de schoolsoort vbo hebben betrekking op de beroepsge
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 8b. Omhang
+##### Artikel 8b. Omhang
 
 Deze regeling berust op [artikel 12.47 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=12.47).
 

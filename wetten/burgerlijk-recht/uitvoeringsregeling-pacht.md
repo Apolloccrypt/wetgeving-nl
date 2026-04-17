@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsregeling pacht"
+title: "Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 24 augustus 2007, nr. TRCJZ/2007/2722, houdende vaststelling van de hoogst toelaatbare pachtprijzen en wijziging van enkele regelingen in verband met de invoering van titel 5 (Pacht) van Boek 7 van het Burgerlijk Wetboek (Regeling pachtprijzen)"
 identifier: "BWBR0022465"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022465"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022465"
+soort: "ministeriele-regeling"
+stam_id: "9197543"
+version_id: "18670372"
+internal_id: "C26051501"
+label_id: "9176334"
+dtd_version: "2.0"
+original_entry_into_force: "2011-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022465/2025-07-01/0"
+intitule_bron: "Stcrt.2007-168"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-08-24"
+intitule_published: "2007-08-31"
+intitule_in_force: "2007-08-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-11493"
+original_signed_date: "2011-06-24"
+original_published_date: "2011-06-30"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2011-11493"
+entry_into_force_date: "2011-07-01"
+jci_1_3: "jci1.3:c:BWBR0022465&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0022465&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsregeling pacht"
+signed_date: "2011-06-24"
+entry_into_force: "2011-07-01"
 ---
-
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 24 augustus 2007, nr. TRCJZ/2007/2722, houdende vaststelling van de hoogst toelaatbare pachtprijzen en wijziging van enkele regelingen in verband met de invoering van titel 5 (Pacht) van Boek 7 van het Burgerlijk Wetboek (Regeling pachtprijzen)
 
 Handelende in overeenstemming met de Staatssecretaris van Financiën;
@@ -18,7 +44,7 @@ Besluit:
 
 ### Hoofdstuk 1. Pachtprijzen
 
-#### Artikel 1
+##### Artikel 1
 
 Met betrekking tot pachtovereenkomsten voor land zonder woningen of andere opstallen:
 
@@ -26,7 +52,7 @@ Met betrekking tot pachtovereenkomsten voor land zonder woningen of andere opsta
 
 - b. is het percentage, bedoeld in [artikel 2, tweede lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=2), waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd, voor de onderscheiden pachtprijsgebieden het percentage dat is vermeld in [bijlage 1, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=1&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 2
+##### Artikel 2
 
 Met betrekking tot pachtovereenkomsten voor tuinland:
 
@@ -34,7 +60,7 @@ Met betrekking tot pachtovereenkomsten voor tuinland:
 
 - b. is het percentage, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=11) in samenhang met [artikel 2, tweede lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=2), waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd, in Westelijk Holland 8% en in de Rest van Nederland 13%.
 
-#### Artikel 3
+##### Artikel 3
 
 Met betrekking tot pachtovereenkomsten voor een tot een boerderij of tuinderij behorende woning of woongedeelte en voor een tot de boerderij behorende arbeiders- of dienstwoning:
 
@@ -44,7 +70,7 @@ Met betrekking tot pachtovereenkomsten voor een tot een boerderij of tuinderij b
 
 - c. is het percentage, bedoeld in [artikel 15, eerste lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=15), waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd: 5,0%.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De hoogst toelaatbare pachtprijs per hectare van een overeenkomst voor de bedrijfsgebouwen van akkerbouw- en melkveebedrijven en overige bedrijven, bedoeld in [artikel 16, tweede lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=16) komt overeen met de bedragen, genoemd in de tabel, opgenomen in [bijlage 2A](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=2a&z=2025-07-01&g=2025-07-01).
 
@@ -52,7 +78,7 @@ Met betrekking tot pachtovereenkomsten voor een tot een boerderij of tuinderij b
 
 ### Hoofdstuk 2. Overige zaken betreffende pacht
 
-#### Artikel 5
+##### Artikel 5
 
 Goedgekeurd worden de besluiten van:
 
@@ -60,11 +86,11 @@ Goedgekeurd worden de besluiten van:
 
 - b. de grondkamer Zuidwest van 21 september 2007 als opgenomen in [bijlage 3, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=3&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 6
+##### Artikel 6
 
 Het bedrag, bedoeld in [artikel 23, eerste lid, van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=23), dat door de verpachter aan de pachter kan worden doorberekend, indien op het verpachte land een ruilverkavelingsrente dan wel een landinrichtingsrente rust, bedraagt maximaal € 25,– per hectare per jaar.
 
-#### Artikel 7
+##### Artikel 7
 
 Als model voor het formulier, bedoeld in [artikel 24 van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=24), wordt vastgesteld:
 
@@ -72,17 +98,17 @@ Als model voor het formulier, bedoeld in [artikel 24 van het Pachtprijzenbesluit
 
 - b. voor de hoogst toelaatbare pachtprijs voor pachtovereenkomsten die zijn ingegaan voor 1 september 2007, het model opgenomen in [bijlage 4, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0022465&bijlage=4&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling berust mede op [artikel 395 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=395), op de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=23) en [24 van het Pachtprijzenbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022448&artikel=24) en op [artikel 18, vierde lid, Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=18).
 
 ### Hoofdstuk 3. Slotartikelen
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking op 1 september 2007.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling pacht.
 

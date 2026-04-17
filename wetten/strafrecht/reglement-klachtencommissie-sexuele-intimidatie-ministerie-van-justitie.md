@@ -1,13 +1,37 @@
 ---
 title: "Reglement klachtencommissie sexuele intimidatie Ministerie van Justitie"
 identifier: "BWBR0007347"
-categorie: "Strafrecht"
-publicatiedatum: 1995-05-01
-laatste_update: 1995-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007347"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1995-05-01"
+last_updated: "1995-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007347"
+soort: "ministeriele-regeling"
+stam_id: "3627313"
+version_id: "5410552"
+internal_id: "C5603641"
+label_id: "3607434"
+dtd_version: "2.0"
+original_entry_into_force: "1995-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007347/1995-05-01/0"
+intitule_bron: "Stcrt.1995-83"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-04-19"
+intitule_published: "1995-04-28"
+intitule_in_force: "1995-04-28"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-83"
+original_signed_date: "1995-04-19"
+original_published_date: "1995-04-28"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1995-05-01"
+jci_1_3: "jci1.3:c:BWBR0007347&z=1995-05-01&g=1995-05-01"
+jci_1_0: "1.0:c:BWBR0007347&g=1995-05-01"
+citeertitel_status: "officieel"
+signed_date: "1995-04-19"
+entry_into_force: "1995-05-01"
 ---
-
 # Reglement klachtencommissie sexuele intimidatie Ministerie van Justitie
 
 Gelet op artikel 6 van het Besluit van de Minister van Binnenlandse Zaken van 22 juli 1994, nummer AD94/U854 inzake de klachtenregeling sexuele intimidatie burgerlijk rijkspersoneel;
@@ -22,19 +46,19 @@ Besluit:
 
 #### Begripsomschrijvingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
 #### Taak en samenstelling van de commissie
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een commissie, genaamd klachtencommissie sexuele intimidatie Justitie.
 
 2. De commissie heeft tot taak het onderzoeken en beoordelen van klachten betreffende sexuele intimidatie en het adviseren aan het bevoegde gezag danwel aan de Minister over de afhandeling van een klacht.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De commissie bestaat uit een voorzitter en ten minste twee doch ten hoogste zes leden met dien verstande dat bij een even aantal tenminste de helft en bij oneven aantal de meerderheid uit vrouwen moet bestaan.
 
@@ -44,13 +68,13 @@ In dit besluit wordt verstaan onder:
 
 4. De zittingsduur van het lid, dat is benoemd op een tussentijds opengevallen plaats, is gelijk aan de duur van de resterende zittingsperiode van het lid in wiens plaats dit lid is benoemd.
 
-#### Artikel 4
+##### Artikel 4
 
 De minister voegt aan de commissie een secretaris toe.
 
 #### Het indienen van een klacht
 
-#### Artikel 5
+##### Artikel 5
 
 1. Ieder persoon werkzaam in dienst van of onder het gezag van de Minister kan een klacht indienen over daden, gedragingen of uitingen van personen werkend in dienst van of onder het gezag van de Minister die door de indiener van de klacht als sexuele intimidatie worden ervaren.
 
@@ -70,7 +94,7 @@ b) de klager schriftelijk de wens te kennen heeft gegeven prijs te stellen op on
 
 De commissie onderzoekt geen klachten tegen personen die van rechtswege van hun vrijheid zijn beroofd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Binnen drie weken na ontvangst van een klacht, waaruit blijkt dat de indiener behandeling door de commissie wenst, zendt het bevoegd gezag onderscheidenlijk de vertrouwenspersoon de klacht door naar de commissie en bericht het bevoegd gezag onderscheidenlijk de vertrouwenspersoon aan de klager dat doorzending heeft plaatsgevonden.
 
@@ -78,15 +102,15 @@ De commissie onderzoekt geen klachten tegen personen die van rechtswege van hun 
 
 #### Werkwijze van de commissie
 
-#### Artikel 7
+##### Artikel 7
 
 Zo spoedig mogelijk doch uiterlijk binnen twee weken na ontvangst van een klacht zendt de secretaris van de commissie de klager bericht van ontvangst van de klacht en een beknopt overzicht van de werkwijze van de commissie.
 
-#### Artikel 8
+##### Artikel 8
 
 Binnen vier weken na ontvangst van een klacht doet de voorzitter een uitspraak omtrent de ontvankelijkheid van de klacht en/of de bevoegdheid van de commissie. Tegen de uitspraak dat een klacht niet ontvankelijk is, kan de klager binnen zes weken na de datum van de uitspraak bedenkingen indienen bij de commissie. De commissie beslist binnen drie weken over de ontvankelijkheid of de gegrondheid van de bedenkingen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De commissie behandelt een klacht in de volgende samenstelling:
 
@@ -102,7 +126,7 @@ Binnen vier weken na ontvangst van een klacht doet de voorzitter een uitspraak o
 
 5. Op verzoek van een der partijen kan een hoorzitting worden aangehouden, met dien verstande dat een hoorzitting binnen vijf maanden na ontvangst van de klacht dient te zijn gehouden.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De commissie is bevoegd personen werkzaam in dienst van of onder het gezag van de Minister op te roepen voor hoorzittingen of het afleggen van verklaringen.
 
@@ -114,13 +138,13 @@ Binnen vier weken na ontvangst van een klacht doet de voorzitter een uitspraak o
 
 5. Getuigen die vanwege mogelijke bedreiging door een der partijen anoniem wensen te blijven, kunnen een verzoek tot bescherming van de gegevens omtrent de identiteit doen aan de commissie. Indien dit verzoek wordt toegestaan, wordt de betrokken getuige door de voorzitter en ten minste één lid van de commissie in het bijzijn van de secretaris in een afzonderlijke hoorzitting gehoord.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Indien de klager of de beklaagde van rechtswege van hun vrijheid zijn beroofd nadat de klacht is ingediend, vindt de hoorzitting plaats in een beveiligde inrichting.
 
 2. Indien een getuige van rechtswege van zijn vrijheid is beroofd nadat de klacht is ingediend, wordt de betrokken getuige in een beveiligde inrichting gehoord door de voorzitter en ten minste één lid van de commissie in het bijzijn van de secretaris in een afzonderlijke hoorzitting.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Van de hoorzitting maakt de secretaris een schriftelijk verslag.
 
@@ -134,7 +158,7 @@ In geval van toepassing van [artikel 10, vijfde lid](https://wetten.overheid.nl/
 
 #### Klachten van derden
 
-#### Artikel 13
+##### Artikel 13
 
 1. Een derde kan een klacht indienen bij de commissie over daden, gedragingen of uitingen van personen werkend in dienst van of onder het gezag van de Minister die door de derde als sexuele intimidatie wordt ervaren, indien deze sexuele intimidatie heeft plaatsgevonden tijdens een functioneel contact tussen de derde en de beklaagde.
 
@@ -142,7 +166,7 @@ In geval van toepassing van [artikel 10, vijfde lid](https://wetten.overheid.nl/
 
 #### Bijstand
 
-#### Artikel 14
+##### Artikel 14
 
 1. De bij de klacht betrokken partijen kunnen zich laten bijstaan door een vertegenwoordiger.
 
@@ -150,10 +174,10 @@ In geval van toepassing van [artikel 10, vijfde lid](https://wetten.overheid.nl/
 
 #### Slotbepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 Dit besluit treedt in werking op 1 mei 1995.
 
-#### Artikel 16
+##### Artikel 16
 
 Dit besluit kan worden aangehaald als Reglement klachtencommissie sexuele intimidatie Ministerie van Justitie.

@@ -1,13 +1,35 @@
 ---
 title: "Regeling Cultuureducatie voor het Caribisch deel van het Koninkrijk 2025–2028"
 identifier: "BWBR0050434"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2025-05-01
-laatste_update: 2025-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050434"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-05-01"
+last_updated: "2025-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050434"
+soort: "zbo"
+stam_id: "17274953"
+version_id: "30425462"
+internal_id: "C43630801"
+label_id: "17180534"
+dtd_version: "2.0"
+original_entry_into_force: "2024-11-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050434/2025-05-01/0"
+intitule_bron: "Stcrt.2024-37642"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-11-19"
+intitule_in_force: "2024-11-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-37642"
+original_published_date: "2024-11-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-37642"
+entry_into_force_date: "2024-11-20"
+jci_1_3: "jci1.3:c:BWBR0050434&z=2025-05-01&g=2025-05-01"
+jci_1_0: "1.0:c:BWBR0050434&g=2025-05-01"
+citeertitel_status: "officieel"
+entry_into_force: "2024-11-20"
 ---
-
 # Regeling Cultuureducatie voor het Caribisch deel van het Koninkrijk 2025–2028
 
 gelet op [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10), van de **Wet op het specifiek cultuurbeleid**;
@@ -24,7 +46,7 @@ en voor de gewijzigde versie op 27 maart 2023;
 
 ### Hoofdstuk 1. – Algemene bepalingen
 
-#### Artikel 1.1. Gebruikte begrippen
+##### Artikel 1.1. Gebruikte begrippen
 
 1. In deze regeling worden onderstaande begrippen gebruikt.
 
@@ -70,11 +92,11 @@ en voor de gewijzigde versie op 27 maart 2023;
 
 2. In [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050434&hoofdstuk=2&z=2025-05-01&g=2025-05-01) en de daaropvolgende hoofdstukken staat wat wordt verstaan onder de begrippen die in het bijzonder bij het desbetreffende hoofdstuk behoren.
 
-#### Artikel 1.2. Doel van de regeling
+##### Artikel 1.2. Doel van de regeling
 
 Met deze regeling stimuleert het Fonds het ontwikkelen en uitvoeren van projecten die bijdragen aan meer en betere cultuureducatie. Dit is gekoppeld aan de onderwijsvisie van scholen in het primair, gespecialiseerd, voortgezet onderwijs en middelbaar beroepsonderwijs in het Caribisch deel van het Koninkrijk.
 
-#### Artikel 1.3. Subsidieplafond en flexibiliteit
+##### Artikel 1.3. Subsidieplafond en flexibiliteit
 
 1. In [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050434&hoofdstuk=2&z=2025-05-01&g=2025-05-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0050434&hoofdstuk=3&z=2025-05-01&g=2025-05-01) staat beschreven hoe hoog de subsidieplafonds zijn. Het Fonds kan besluiten de subsidieplafonds te wijzigen. Deze wijzigingen kunnen ook zien op specifieke categorieën van activiteiten of voor bepaalde regio's.
 
@@ -82,7 +104,7 @@ Met deze regeling stimuleert het Fonds het ontwikkelen en uitvoeren van projecte
 
 3. Een besluit op grond van het eerste of tweede lid wordt gepubliceerd op de website van het Fonds.
 
-#### Artikel 1.4. Algemene weigeringsgronden
+##### Artikel 1.4. Algemene weigeringsgronden
 
 1. Het Fonds weigert subsidie als:
 
@@ -112,7 +134,7 @@ Met deze regeling stimuleert het Fonds het ontwikkelen en uitvoeren van projecte
 
 4. Het Fonds kan weigeren om subsidie te verstrekken als de aanvraag op enige wijze niet in overeenstemming is met de regeling.
 
-#### Artikel 1.5. Voorwaarden en beperkingen
+##### Artikel 1.5. Voorwaarden en beperkingen
 
 1. Alleen kosten die direct verband houden met de projecten of activiteiten komen in aanmerking voor subsidiëring.
 
@@ -130,7 +152,7 @@ Met deze regeling stimuleert het Fonds het ontwikkelen en uitvoeren van projecte
 
 5. De kosten voor een verplichte accountantsverklaring, kunnen als subsidiabele kosten in de begroting worden opgenomen.
 
-#### Artikel 1.6. Verplichtingen
+##### Artikel 1.6. Verplichtingen
 
 1. Met deelname aan deze regeling geeft de aanvrager toestemming aan het Fonds om gegevens uit de aanvraag en de eventuele verantwoording in te zetten voor kennisdeling en onderzoeksdoeleinden.
 
@@ -156,7 +178,7 @@ Met deze regeling stimuleert het Fonds het ontwikkelen en uitvoeren van projecte
 
 - b. aangevraagd bedrag meer dan € 25.000: pas de codes toe, leg uit waar dit nog niet volledig lukt, benoem hierbij de ambities en reflecteer hier achteraf op in de verantwoording.
 
-#### Artikel 1.7. Indieningsvereisten
+##### Artikel 1.7. Indieningsvereisten
 
 1. Aanvragen worden ingediend via een volledig ingevuld digitaal aanvraagformulier in de online aanvraagomgeving Mijn Fonds, via de website van het Fonds.
 
@@ -166,7 +188,7 @@ Met deze regeling stimuleert het Fonds het ontwikkelen en uitvoeren van projecte
 
 - b. een sluitende begroting. De begroting mag geen tekort of overschot bevatten.
 
-#### Artikel 1.8. Beoordelen aanvragen
+##### Artikel 1.8. Beoordelen aanvragen
 
 1. Het Fonds beoordeelt de aanvragen overeenkomstig de regeling. Bij het behandelen van de aanvraag, worden de volgende bepalingen in acht genomen:
 
@@ -180,13 +202,13 @@ Met deze regeling stimuleert het Fonds het ontwikkelen en uitvoeren van projecte
 
 - e. Op de aanvraag wordt binnen uiterlijk dertien weken beslist.
 
-#### Artikel 1.9. Voorschotten
+##### Artikel 1.9. Voorschotten
 
 1. Als bij de vaststelling blijkt dat het project in overeenstemming met de aanvraag is uitgevoerd en de begrootte kosten zijn gemaakt, wordt de resterende 10% zo spoedig mogelijk na verzending van het vaststellingsbesluit overgemaakt.
 
 2. Het Fonds kan de bevoorschotting, al dan niet tijdelijk, stoppen als aanvragers hun subsidieverplichtingen niet nakomen. Dat kan het Fonds ook doen wanneer de omstandigheden buiten aanvragers om zodanig zijn veranderd dat het aannemelijk is dat de subsidiabele activiteiten niet op dezelfde manier kunnen worden voortgezet.
 
-#### Artikel 1.10. Verantwoording en vaststelling
+##### Artikel 1.10. Verantwoording en vaststelling
 
 1. Subsidieontvangers die een vaststellingsaanvraag moeten doen, doen dit door middel van een activiteitenverslag en een financieel verslag.
 
@@ -194,7 +216,7 @@ Met deze regeling stimuleert het Fonds het ontwikkelen en uitvoeren van projecte
 
 ### Hoofdstuk 2. Bonaire, Sint Eustatius en Saba
 
-#### Artikel 2.1. Gebruikte begrippen
+##### Artikel 2.1. Gebruikte begrippen
 
 1. In deze regeling worden onderstaande begrippen gebruikt.
 
@@ -204,7 +226,7 @@ Met deze regeling stimuleert het Fonds het ontwikkelen en uitvoeren van projecte
 
 - c. **Penvoerder:** een culturele instelling die voor zichzelf, en in samenwerking met andere culturele partners en het onderwijs, een subsidieaanvraag indient. De penvoerder is de projectleider en intermediair van het project.
 
-#### Artikel 2.2. Doel en effecten
+##### Artikel 2.2. Doel en effecten
 
 Op grond van dit hoofdstuk kan subsidie worden aangevraagd voor een meerjarig project. Dit project is gericht op meer en betere cultuureducatie in het primair, gespecialiseerd en voortgezet onderwijs en middelbaar beroepsonderwijs in Caribisch Nederland. Scholen, culturele partners en de penvoerder werken samen in het ontwikkelen en uitvoeren van cultuureducatie die is gekoppeld aan de visie van de scholen.
 
@@ -220,7 +242,7 @@ Op grond van dit hoofdstuk kan subsidie worden aangevraagd voor een meerjarig pr
 
 - e. effect e: Kansengelijkheid.
 
-#### Artikel 2.3. Wie kan aanvragen?
+##### Artikel 2.3. Wie kan aanvragen?
 
 Subsidie op grond van dit hoofdstuk kan uitsluitend worden aangevraagd door een in het Caribische deel van Nederland gevestigde:
 
@@ -228,7 +250,7 @@ Subsidie op grond van dit hoofdstuk kan uitsluitend worden aangevraagd door een 
 
 - b. de aanvrager is gevestigd op het eiland waarvoor de aanvraag wordt ingediend.
 
-#### Artikel 2.4. Waarvoor kan worden aangevraagd
+##### Artikel 2.4. Waarvoor kan worden aangevraagd
 
 Subsidie kan alleen worden aangevraagd voor:
 
@@ -244,7 +266,7 @@ Met aandacht voor:
 
 - e. waar mogelijk het gebruik van digitale technologie om bovenstaande te bevorderen.
 
-#### Artikel 2.5. Hoogte van de subsidie
+##### Artikel 2.5. Hoogte van de subsidie
 
 Voor een project:
 
@@ -258,7 +280,7 @@ Voor een project:
 
 - b. bedraagt de subsidie maximaal 100% van de totale projectkosten.
 
-#### Artikel 2.6. Beoordelingscriteria
+##### Artikel 2.6. Beoordelingscriteria
 
 Aanvragen worden beoordeeld aan de hand van de volgende criteria. In de toelichting is uiteengezet op welke wijze die worden getoetst:
 
@@ -266,7 +288,7 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria. In de toelicht
 
 - b. organisatorische kwaliteit.
 
-#### Artikel 2.7. Indieningsvereisten
+##### Artikel 2.7. Indieningsvereisten
 
 Een aanvraag wordt alleen in behandeling genomen als het volledig ingevulde aanvraagformulier op tijd is ontvangen en vergezeld gaat van:
 
@@ -284,21 +306,21 @@ Een aanvraag wordt alleen in behandeling genomen als het volledig ingevulde aanv
 
 - g. in geval van (een samenwerking met) een culturele instelling die gesubsidieerd wordt uit de [Subsidieregeling culturele basisinfrastructuur 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0048968): een toelichting op de reguliere taken voor cultuureducatie.
 
-#### Artikel 2.8. Indieningstermijnen
+##### Artikel 2.8. Indieningstermijnen
 
 1. Aanvragen op grond van dit hoofdstuk kunnen worden ingediend vanaf de dag dat de regeling is gepubliceerd in de Staatscourant 13.00 uur tot en met 6 december 2024, 13.00 uur. De tijdsaanduiding betreft de tijd die geldt in het Europees deel van Nederland.
 
 2. Het Fonds kan indieningstermijnen hanteren die van het eerste lid afwijken. Als dat gebeurt, worden de afwijkende indieningstermijnen op de website van het Fonds gepubliceerd.
 
-#### Artikel 2.9. Beoordelen aanvragen
+##### Artikel 2.9. Beoordelen aanvragen
 
 Aanvragen die voldoen aan de eisen van de regeling, worden aan een interne adviescommissie voorgelegd voor advies. Aanvragen die niet voldoen aan de regeling kunnen worden afgewezen zonder de een adviescommissie om advies te vragen.
 
-#### Artikel 2.10. Voorschotten
+##### Artikel 2.10. Voorschotten
 
 Zo spoedig mogelijk na het verzenden van het subsidieverleningsbesluit betaalt het Fonds 40% van de subsidie uit. In jaar 2 en 3 zal jaarlijks 30% worden voorgeschoten.
 
-#### Artikel 2.11. Specifieke weigeringsgronden
+##### Artikel 2.11. Specifieke weigeringsgronden
 
 Onverminderd de overige weigeringsgronden, wordt de subsidieaanvraag geweigerd als:
 
@@ -308,7 +330,7 @@ Onverminderd de overige weigeringsgronden, wordt de subsidieaanvraag geweigerd a
 
 - c. er is voor het betreffende eiland al subsidie is verleend binnen dit hoofdstuk van de regeling.
 
-#### Artikel 2.12. Bijzondere verplichtingen
+##### Artikel 2.12. Bijzondere verplichtingen
 
 1. De penvoerder:
 
@@ -336,7 +358,7 @@ Onverminderd de overige weigeringsgronden, wordt de subsidieaanvraag geweigerd a
 
 - b. heeft een looptijd van 15 maart 2025 tot en met uiterlijk 31 december 2028. Het Fonds kan besluiten van deze termijnen afwijken.
 
-#### Artikel 2.13. Subsidieplafond
+##### Artikel 2.13. Subsidieplafond
 
 Het subsidieplafond voor de projecten in dit hoofdstuk tezamen is € 1.024.000.
 
@@ -344,23 +366,23 @@ Het subsidieplafond voor de projecten in dit hoofdstuk tezamen is € 1.024.000.
 
 ### Hoofdstuk 4. – Slotbepalingen
 
-#### Artikel 4.1. Hardheidsclausule
+##### Artikel 4.1. Hardheidsclausule
 
 Het Fonds kan afwijken van de rechten en plichten in deze regeling. Dat kan alleen in het voordeel van de aanvrager en alleen in bijzondere gevallen die een onredelijke uitwerking hebben waarmee geen rekening is gehouden bij het opstellen van deze regeling.
 
-#### Artikel 4.2. Inwerkingtreding en vervaldatum
+##### Artikel 4.2. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking op de dag na de datum van uitgifte van de Staatscourant waarin zij wordt gepubliceerd.
 
 2. Deze regeling vervalt met ingang van 31 december 2028. Deze regeling blijft van toepassing op gehonoreerde aanvragen en eventuele bezwaar- en beroepsprocedures die daaruit voortvloeien.
 
-#### Artikel 4.3. Citeertitel
+##### Artikel 4.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Cultuureducatie voor het Caribisch deel van het Koninkrijk 2025–2028.
 
 #### Paragraaf 1. Algemeen
 
-#### Artikel 3.1. Gebruikte begrippen
+##### Artikel 3.1. Gebruikte begrippen
 
 Aanvullend op [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050434&hoofdstuk=1&z=2025-05-01&g=2025-05-01) gebruiken we in dit hoofdstuk ook onderstaande begrippen:
 
@@ -376,7 +398,7 @@ Aanvullend op [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050434&hoof
 
 - c. **Rechtspersoon:** De rechtspersonen genoemd in [artikel 2:3, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=3).
 
-#### Artikel 3.2. Wie kan aanvragen?
+##### Artikel 3.2. Wie kan aanvragen?
 
 Subsidie op grond van deze paragraaf kan uitsluitend worden aangevraagd door een op Curaçao, Aruba of Sint-Maarten gevestigde:
 
@@ -386,19 +408,19 @@ Subsidie op grond van deze paragraaf kan uitsluitend worden aangevraagd door een
 
 Zowel de aanvrager als de school of scholen zijn gevestigd op het eiland waarvoor de aanvraag wordt ingediend.
 
-#### Artikel 3.3. Indieningstermijnen
+##### Artikel 3.3. Indieningstermijnen
 
 1. Aanvragen op grond van deze paragraaf kunnen worden ingediend van 2 juni 2025, 13.00 uur tot en met 9 december 2026, 13.00 uur. De tijdsaanduiding betreft de tijd die geldt in het Europees deel van Nederland.
 
 2. Het Fonds kan indieningstermijnen hanteren die van het eerste lid afwijken. Als dat gebeurt, worden de afwijkende indieningstermijnen op de website van het Fonds gepubliceerd.
 
-#### Artikel 3.4. Beoordelen aanvragen
+##### Artikel 3.4. Beoordelen aanvragen
 
 Aanvragen tot en met € 25.000 en die voldoen aan de eisen van de regeling, worden aan een interne adviescommissie voorgelegd voor advies. Aanvragen voor meer dan € 25.000 en die voldoen aan de eisen van de regeling worden aan een externe commissie voorgelegd. Aanvragen die niet voldoen aan de regeling kunnen worden afgewezen zonder een adviescommissie om advies te vragen.
 
 #### Paragraaf 2. Verkenningen
 
-#### Artikel 3.5. Doel en effecten
+##### Artikel 3.5. Doel en effecten
 
 In deze paragraaf stimuleren wij Verkenningen gericht op cultuureducatie in het primair en (voortgezet) gespecialiseerd onderwijs op Curaçao, Aruba en Sint-Maarten. Verkenningen worden gedaan door een samenwerking tussen een culturele instelling of professional en een of meerdere scholen.
 
@@ -408,11 +430,11 @@ Met de bepalingen in deze paragraaf stimuleert het Fonds activiteiten die gerich
 
 - b. Kansengelijkheid.
 
-#### Artikel 3.6. Waarvoor kan worden aangevraagd
+##### Artikel 3.6. Waarvoor kan worden aangevraagd
 
 Subsidie kan worden aangevraagd voor het verkennen van een samenwerking tussen een culturele instelling en een school. Het gaat hierbij om activiteiten zoals bijvoorbeeld gesprekken, het ontwikkelen van plannen, deskundigheidsbevordering, het maken van afspraken over onder andere een cultuureducatieproject, taakverdeling en financiering en het uitproberen van activiteiten. De verkenning is gericht op cultuureducatie voor de leerlingen van de school.
 
-#### Artikel 3.7. Hoogte van de subsidie
+##### Artikel 3.7. Hoogte van de subsidie
 
 Voor een Verkenning in deze paragraaf:
 
@@ -420,7 +442,7 @@ Voor een Verkenning in deze paragraaf:
 
 - b. bedraagt de subsidie maximaal 100% van de totale projectkosten.
 
-#### Artikel 3.8. Subsidieplafond
+##### Artikel 3.8. Subsidieplafond
 
 Het subsidieplafond voor deze paragraaf is € 200.000. Per land is het volgende budget beschikbaar:
 
@@ -430,7 +452,7 @@ Het subsidieplafond voor deze paragraaf is € 200.000. Per land is het volgende
 
 - c. Sint-Maarten: € 47.753
 
-#### Artikel 3.9. Beoordelingscriteria
+##### Artikel 3.9. Beoordelingscriteria
 
 Aanvragen worden beoordeeld aan de hand van de volgende criteria. In de toelichting is uitgelegd op welke wijze die worden getoetst:
 
@@ -438,7 +460,7 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria. In de toelicht
 
 - b. organisatorische kwaliteit.
 
-#### Artikel 3.10. Verplichtingen voor het indienen
+##### Artikel 3.10. Verplichtingen voor het indienen
 
 Een aanvraag wordt pas in behandeling genomen als het volledig ingevulde aanvraagformulier op tijd is ontvangen. Onderdeel van het aanvraagformulier zijn:
 
@@ -448,11 +470,11 @@ Een aanvraag wordt pas in behandeling genomen als het volledig ingevulde aanvraa
 
 - c. een sluitende begroting.
 
-#### Artikel 3.11. Specifieke weigeringsgronden
+##### Artikel 3.11. Specifieke weigeringsgronden
 
 Onverminderd de overige weigeringsgronden, wordt de subsidieaanvraag geweigerd als er al twee aanvragen van dezelfde aanvrager zijn gehonoreerd in deze paragraaf.
 
-#### Artikel 3.12. Bijzondere verplichtingen
+##### Artikel 3.12. Bijzondere verplichtingen
 
 De Verkenning:
 
@@ -468,7 +490,7 @@ Gehonoreerde aanvragers zijn verplicht deel te nemen aan kennisdelingsactiviteit
 
 #### Paragraaf 3. Projecten
 
-#### Artikel 3.13. Doel en effecten
+##### Artikel 3.13. Doel en effecten
 
 In deze paragraaf stimuleren wij Projecten gericht op cultuureducatie in het primair en gespecialiseerd onderwijs op Curaçao, Aruba en Sint-Maarten. Projecten worden uitgevoerd door een culturele instelling of een professional en een of meerdere scholen.
 
@@ -480,11 +502,11 @@ Met de bepalingen in deze paragraaf stimuleert het Fonds projecten die gericht z
 
 - c. Kansengelijkheid.
 
-#### Artikel 3.14. Waarvoor kan worden aangevraagd
+##### Artikel 3.14. Waarvoor kan worden aangevraagd
 
 Subsidie kan worden aangevraagd voor het ontwikkelen en uitvoeren van een Project door een samenwerking tussen een culturele instelling of professional en een school. Het gaat hierbij om activiteiten zoals het (door)ontwikkelen, voorbereiden, uitvoeren en evalueren van het cultuureducatieve project. Eventuele benodigde deskundigheidsbevordering van leerkrachten of culturele partners kan ook onderdeel zijn van de aanvraag. De basis van het project is de vraag van de school of scholen, zodat het Project waar mogelijk kan worden ingebed in het onderwijsprogramma. Het project is gericht op cultuureducatie voor de leerlingen.
 
-#### Artikel 3.15. Hoogte van de subsidie
+##### Artikel 3.15. Hoogte van de subsidie
 
 Voor een Project in deze paragraaf:
 
@@ -492,7 +514,7 @@ Voor een Project in deze paragraaf:
 
 - b. bedraagt de subsidie maximaal 100% van de totale projectkosten.
 
-#### Artikel 3.16. Subsidieplafond
+##### Artikel 3.16. Subsidieplafond
 
 Het subsidieplafond voor deze paragraaf is € 800.000. Per land is het volgende budget beschikbaar:
 
@@ -502,7 +524,7 @@ Het subsidieplafond voor deze paragraaf is € 800.000. Per land is het volgende
 
 - c. Sint-Maarten: € 191.013
 
-#### Artikel 3.17. Beoordelingscriteria
+##### Artikel 3.17. Beoordelingscriteria
 
 Aanvragen worden beoordeeld aan de hand van de volgende criteria. In de toelichting is uitgelegd op welke wijze die worden getoetst:
 
@@ -510,7 +532,7 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria. In de toelicht
 
 - b. organisatorische kwaliteit.
 
-#### Artikel 3.18. Verplichtingen voor het indienen
+##### Artikel 3.18. Verplichtingen voor het indienen
 
 Een aanvraag wordt pas in behandeling genomen als het volledig ingevulde aanvraagformulier op tijd is ontvangen. Aanvullend op het aanvraagformulier zijn ook verplicht:
 
@@ -524,11 +546,11 @@ Een aanvraag wordt pas in behandeling genomen als het volledig ingevulde aanvraa
 
 Het projectplan, de samenwerkingsovereenkomst, planning en begroting worden aangeleverd overeenkomstig het door het Fonds beschikbaar gestelde formats.
 
-#### Artikel 3.19. Specifieke weigeringsgronden
+##### Artikel 3.19. Specifieke weigeringsgronden
 
 Onverminderd de overige weigeringsgronden, wordt de subsidieaanvraag geweigerd als er al twee aanvragen van dezelfde aanvrager zijn gehonoreerd in deze paragraaf.
 
-#### Artikel 3.20. Bijzondere verplichtingen
+##### Artikel 3.20. Bijzondere verplichtingen
 
 1. Voor aanvragen tot en met € 25.000 geldt:
 

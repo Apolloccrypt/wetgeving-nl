@@ -1,13 +1,39 @@
 ---
-title: "Regeling bekostiging vo-scholen en samenwerkingsverbanden vo"
+title: "Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 30 augustus 2021, nr. VO/29097500, houdende regels voor de bekostiging van vo-scholen en samenwerkingsverbanden VO in Europees en scholen in Caribisch Nederland (Regeling bekostiging vo-scholen en samenwerkingsverbanden vo)"
 identifier: "BWBR0045605"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045605"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045605"
+soort: "ministeriele-regeling"
+stam_id: "16074613"
+version_id: "27998032"
+internal_id: "C39492271"
+label_id: "16006574"
+dtd_version: "2.0"
+original_entry_into_force: "2021-11-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045605/2026-01-01/0"
+intitule_bron: "Stcrt.2021-40676"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-08-30"
+intitule_published: "2021-09-13"
+intitule_in_force: "2021-09-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-40676"
+original_signed_date: "2021-08-30"
+original_published_date: "2021-09-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-40676"
+entry_into_force_date: "2021-11-15"
+jci_1_3: "jci1.3:c:BWBR0045605&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0045605&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling bekostiging vo-scholen en samenwerkingsverbanden vo"
+signed_date: "2021-08-30"
+entry_into_force: "2021-11-15"
 ---
-
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 30 augustus 2021, nr. VO/29097500, houdende regels voor de bekostiging van vo-scholen en samenwerkingsverbanden VO in Europees en scholen in Caribisch Nederland (Regeling bekostiging vo-scholen en samenwerkingsverbanden vo)
 
 Gelet op de [artikelen 80, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=80), [85, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=85), en [90 vierde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=90), [artikel 153 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=153), [artikel 2.2.2, derde lid, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=2.2.2), [artikel 17, derde lid, van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=17) en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029598&artikel=9) en [artikel 11, derde lid, van het Bekostigingsbesluit WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029598&artikel=11);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Bekostiging vo-scholen Europees Nederland
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -48,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 - **wet:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Bedragen bekostiging vo-scholen Europees Nederland kalenderjaar 2026
+##### Artikel 2. Bedragen bekostiging vo-scholen Europees Nederland kalenderjaar 2026
 
 1. De bedragen per vestiging, bedoeld in [artikel 5.4, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.4), worden voor het kalenderjaar 2026 vastgesteld op:
 
@@ -62,7 +88,7 @@ In deze regeling wordt verstaan onder:
 
 - b. € 11.170,89 per leerling in het pro of in het derde of vierde leerjaar van de basisberoepsgerichte of kaderberoepsgerichte leerweg van het vbo.
 
-#### Artikel 3. Aanvullende bekostiging lwoo en pro en regionale ondersteuning kalenderjaar 2026
+##### Artikel 3. Aanvullende bekostiging lwoo en pro en regionale ondersteuning kalenderjaar 2026
 
 1. De aanvullende bekostiging voor lwoo en pro, bedoeld in [artikel 5.5, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.5), wordt voor het kalenderjaar 2026 vastgesteld op € 6.107,54 per leerling.
 
@@ -70,7 +96,7 @@ In deze regeling wordt verstaan onder:
 
 3. De aanvullende bekostiging voor regionale ondersteuning, bedoeld in [artikel 5.13, eerste en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.13), wordt voor het kalenderjaar 2026 vastgesteld op € 128,72 per leerling.
 
-#### Artikel 4. Bedragen bekostiging vo-scholen Europees Nederland kalenderjaar 2027
+##### Artikel 4. Bedragen bekostiging vo-scholen Europees Nederland kalenderjaar 2027
 
 1. De bedragen per vestiging, bedoeld in [artikel 5.4, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.4), worden per 1 januari 2027 vastgesteld op:
 
@@ -84,7 +110,7 @@ In deze regeling wordt verstaan onder:
 
 - b. € 11.170,89 per leerling in het pro of in het derde of vierde leerjaar van de basisberoepsgerichte of kaderberoepsgerichte leerweg van het vbo.
 
-#### Artikel 5. Aanvullende bekostiging lwoo en pro en regionale ondersteuning kalenderjaar 2027
+##### Artikel 5. Aanvullende bekostiging lwoo en pro en regionale ondersteuning kalenderjaar 2027
 
 1. De aanvullende bekostiging voor lwoo en pro, bedoeld in [artikel 5.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.5), wordt voor het kalenderjaar 2027 vastgesteld op € 6.107,54 per leerling.
 
@@ -92,13 +118,13 @@ In deze regeling wordt verstaan onder:
 
 3. De aanvullende bekostiging voor regionale ondersteuning, bedoeld in [artikel 5.13, eerste en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.13), wordt per 1 januari 2027 vastgesteld op € 128,72 per leerling.
 
-#### Artikel 6. Betaalritme bekostiging vo-scholen Europees Nederland
+##### Artikel 6. Betaalritme bekostiging vo-scholen Europees Nederland
 
 De minister stelt de bekostiging, bedoeld in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01), in december voorafgaande aan het jaar waarop de bekostiging betrekking heeft vast. De bekostiging wordt betaald in maandelijkse termijnen van gelijke omvang. De eerste termijn wordt betaald in januari van het jaar waarop de bekostiging betrekking heeft.
 
 #### § 2. Bekostiging vo-scholen Caribisch Nederland
 
-#### Artikel 7. Begripsbepalingen
+##### Artikel 7. Begripsbepalingen
 
 In deze paragraaf wordt verstaan onder:
 
@@ -116,7 +142,7 @@ In deze paragraaf wordt verstaan onder:
 
 - **lower forms:** de eerste drie leerjaren van het voortgezet onderwijs aan scholen op Sint Eustatius en Saba, dat wordt ingevuld met CCSLC, eventueel aangevuld met vakken van CSEC en CVQ.
 
-#### Artikel 8. Bedragen bekostiging vo-scholen Caribisch Nederland kalenderjaar 2026
+##### Artikel 8. Bedragen bekostiging vo-scholen Caribisch Nederland kalenderjaar 2026
 
 1. Het bedrag per school, bedoeld in [artikel 11.56, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.56), wordt voor het kalenderjaar 2026 vastgesteld op:
 
@@ -164,7 +190,7 @@ In deze paragraaf wordt verstaan onder:
 
 - f. USD 1.228.502,37 bij een leerlingenaantal van 50 of minder.
 
-#### Artikel 9. Bedragen bekostiging vo-scholen Caribisch Nederland kalenderjaar 2027
+##### Artikel 9. Bedragen bekostiging vo-scholen Caribisch Nederland kalenderjaar 2027
 
 1. Het bedrag per school, bedoeld in [11.56, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.56), wordt per 1 januari 2027 vastgesteld op:
 
@@ -212,7 +238,7 @@ In deze paragraaf wordt verstaan onder:
 
 - f. USD 1.228.502,37 bij een leerlingenaantal van 50 of minder.
 
-#### Artikel 10. Betaalritme bekostiging vo-scholen Caribisch Nederland
+##### Artikel 10. Betaalritme bekostiging vo-scholen Caribisch Nederland
 
 De minister stelt de bekostiging, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&paragraaf=2&artikel=9&z=2026-01-01&g=2026-01-01), in december voorafgaande aan het jaar waarop de bekostiging betrekking heeft vast. De bekostiging wordt betaald vanaf januari van het jaar waarop de bekostiging betrekking heeft conform de percentages in tabel 1.
 
@@ -226,21 +252,21 @@ De minister stelt de bekostiging, bedoeld in de [artikelen 8](https://wetten.ove
 
 #### § 3. Slotbepalingen
 
-#### Artikel 11. Verhouding personeel en exploitatie bij kabinetsbijdrage voor loon- en prijsontwikkeling
+##### Artikel 11. Verhouding personeel en exploitatie bij kabinetsbijdrage voor loon- en prijsontwikkeling
 
 Bij de verwerking van de kabinetsbijdrage voor loon- en prijsontwikkeling in de bedragen die in deze regeling zijn opgenomen, wordt een verhouding gehanteerd van 85 procent voor loonontwikkeling en 15 procent voor prijsontwikkeling.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 15 november 2021.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling bekostiging vo-scholen en samenwerkingsverbanden vo.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 11a. Omhangbepaling
+##### Artikel 11a. Omhangbepaling
 
 Deze regeling is gebaseerd op de [artikelen 5.6, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.6), en [5.13, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.13), [artikel 2.2.2, derde lid, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=2.2.2) en de [artikelen 6.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.11), [9.25, eerste lid, onderdeel c, en tweede lid, onderdelen c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=9.25), en [9.35, tweede lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=9.35).
 

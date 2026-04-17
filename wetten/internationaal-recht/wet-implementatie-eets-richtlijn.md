@@ -1,14 +1,41 @@
 ---
-title: "Wet implementatie EETS-richtlijn"
+title: "Wet van 7 juli 2021, houdende regels voor de implementatie van Richtlijn (EU) 2019/520 van het Europese Parlement en de Raad van 19 maart 2019 betreffende de interoperabiliteit van elektronische tolheffingssystemen voor het wegverkeer en ter facilitering van de grensoverschrijdende uitwisseling van informatie over niet-betaling van wegentol in de Unie (Wet implementatie EETS-richtlijn)"
 identifier: "BWBR0045586"
-categorie: "Internationaal recht"
-publicatiedatum: 2021-10-19
-laatste_update: 2021-10-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045586"
+country: "nl"
+rank: "wet"
+publication_date: "2021-10-19"
+last_updated: "2021-10-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045586"
+soort: "wet"
+stam_id: "16070963"
+version_id: "27992582"
+internal_id: "C39575301"
+label_id: "16003354"
+dtd_version: "2.0"
+original_entry_into_force: "2021-10-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045586/2021-10-19/0"
+intitule_bron: "Stb.2021-418"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-07-07"
+intitule_published: "2021-09-03"
+intitule_in_force: "2021-10-04"
+intitule_status: "goed"
+original_publication: "Stb.2021-418"
+original_signed_date: "2021-07-07"
+original_published_date: "2021-09-03"
+original_effect: "nieuwe-regeling"
+original_dossier: "35762"
+original_url_id: "stb-2021-418"
+entry_into_force_date: "2021-10-19"
+jci_1_3: "jci1.3:c:BWBR0045586&z=2021-10-19&g=2021-10-19"
+jci_1_0: "1.0:c:BWBR0045586&g=2021-10-19"
+citeertitel_status: "officieel"
+short_title: "Wet implementatie EETS-richtlijn"
+signed_date: "2021-07-07"
+entry_into_force: "2021-10-19"
 ---
-
-# Wet implementatie EETS-richtlijn
+# Wet van 7 juli 2021, houdende regels voor de implementatie van Richtlijn (EU) 2019/520 van het Europese Parlement en de Raad van 19 maart 2019 betreffende de interoperabiliteit van elektronische tolheffingssystemen voor het wegverkeer en ter facilitering van de grensoverschrijdende uitwisseling van informatie over niet-betaling van wegentol in de Unie (Wet implementatie EETS-richtlijn)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. (begripsbepalingen)
+##### Artikel 1. (begripsbepalingen)
 
 Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -102,7 +129,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 - **wegentol:** vergoeding die door de weggebruiker moet worden betaald om zich te mogen verplaatsen op een weg, een wegennet, een kunstwerk, zoals een brug of een tunnel, of een veerpont.
 
-#### Artikel 2. (toepassingsbereik)
+##### Artikel 2. (toepassingsbereik)
 
 1. Deze wet is van toepassing op EETS-gebieden en grensoverschrijdende uitwisseling van voertuigregistratiegegevens met betrekking tot voertuigen en de eigenaren of houders van voertuigen waarvoor in de Unie geen wegentol is betaald.
 
@@ -118,7 +145,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 ### Hoofdstuk 2. Technologische oplossingen
 
-#### Artikel 3. (technologische vereisten tolheffingssystemen)
+##### Artikel 3. (technologische vereisten tolheffingssystemen)
 
 1. Een nieuw elektronisch tolheffingssysteem voor het wegverkeer waarvoor boordapparatuur moet worden geïnstalleerd of gebruikt, maakt voor de afhandeling van elektronische toltransacties gebruik van een of meer van de volgende technologieën:
 
@@ -130,7 +157,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 2. Op elektronische tolheffingssystemen voor het wegverkeer waarvoor boordapparatuur moet worden geïnstalleerd of gebruikt en die voor 19 oktober 2021 in gebruik waren en die andere technologieën gebruiken dan bedoeld in het eerste lid, is dat lid van overeenkomstige toepassing vanaf het tijdstip waarop substantiële technologische verbeteringen zijn uitgevoerd.
 
-#### Artikel 4. (technologische vereisten boordapparatuur)
+##### Artikel 4. (technologische vereisten boordapparatuur)
 
 1. EETS-aanbieders stellen boordapparatuur ter beschikking van de EETS-gebruikers die:
 
@@ -154,7 +181,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 ### Hoofdstuk 3. EETS-register en registratie EETS-aanbieders
 
-#### Artikel 5. (contactbureau)
+##### Artikel 5. (contactbureau)
 
 1. Bij ministeriele regeling wordt het contactbureau aangewezen.
 
@@ -164,7 +191,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 4. Het contactbureau kan een natuurlijk persoon of een publiek- of privaatrechtelijke entiteit zijn.
 
-#### Artikel 6. (EETS-register)
+##### Artikel 6. (EETS-register)
 
 1. De Dienst Wegverkeer houdt een EETS-register bij van:
 
@@ -194,7 +221,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 6. Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering van dit artikel.
 
-#### Artikel 7. (registratie EETS-aanbieders)
+##### Artikel 7. (registratie EETS-aanbieders)
 
 1. Een in Nederland gevestigde entiteit kan bij de Dienst Wegverkeer een aanvraag indienen om te worden geregistreerd als EETS-aanbieder in het EETS-register.
 
@@ -226,7 +253,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 ### Hoofdstuk 4. Accreditatie
 
-#### Artikel 8. (EETS-overeenkomsten)
+##### Artikel 8. (EETS-overeenkomsten)
 
 1. In Nederland geregistreerde EETS-aanbieders sluiten overeenkomsten met de tolheffers voor alle EETS-gebieden op het grondgebied van ten minste vier lidstaten, binnen een termijn van 36 maanden na registratie als EETS-aanbieder als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&hoofdstuk=3&artikel=7&z=2021-10-19&g=2021-10-19).
 
@@ -236,7 +263,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 4. Van EETS-aanbieders wordt niet verlangd dat zij specifieke technische oplossingen of processen gebruiken die de interoperabiliteit van de interoperabiliteitsonderdelen van een EETS-aanbieder met elektronische tolheffingssystemen voor het wegverkeer in andere EETS-gebieden belemmeren.
 
-#### Artikel 9. (non-discriminatoire toegang)
+##### Artikel 9. (non-discriminatoire toegang)
 
 1. Tolheffers die verantwoordelijk zijn voor EETS-gebieden in Nederland, verlenen op niet-discriminerende wijze toegang aan elke EETS-aanbieder die EETS wenst aan te bieden in een of meer van deze EETS-gebieden.
 
@@ -244,7 +271,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 3. Tolheffers werken op niet-discriminerende wijze samen met EETS-aanbieders, fabrikanten of aangemelde instanties bij de beoordeling van de geschiktheid voor gebruik van interoperabiliteitsonderdelen in hun EETS-gebied.
 
-#### Artikel 10. (EETS-gebiedsverklaring)
+##### Artikel 10. (EETS-gebiedsverklaring)
 
 1. De tolheffer stelt een EETS-gebiedsverklaring op.
 
@@ -258,13 +285,13 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 - d. overige op grond van artikel 6, negende lid, van [Richtlijn (EU) 2019/520](32019L0520) door middel van uitvoeringshandelingen vastgestelde eisen aan de inhoud van de EETS-gebiedsverklaring.
 
-#### Artikel 11. (tijdige bekendmaking EETS-gebiedsverklaring)
+##### Artikel 11. (tijdige bekendmaking EETS-gebiedsverklaring)
 
 1. Een toekomstige tolheffer die verantwoordelijk is voor een nieuw in gebruik te nemen elektronisch tolheffingssysteem voor het wegverkeer in Nederland, maakt de EETS-gebiedsverklaring tijdig genoeg via elektronische weg bekend om geïnteresseerde EETS-aanbieders uiterlijk een maand voor de operationele start van het systeem te kunnen accrediteren. Daarbij neemt de tolheffer de planning, bedoeld in [artikel 10, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&hoofdstuk=4&artikel=10&z=2021-10-19&g=2021-10-19), in acht.
 
 2. Een tolheffer die verantwoordelijk is voor een voor 19 oktober 2021 bestaand elektronisch tolheffingssysteem voor het wegverkeer in Nederland dat op of na 19 oktober 2021 ingrijpend wordt gewijzigd, maakt de EETS-gebiedsverklaring tijdig genoeg bekend om geïnteresseerde EETS-aanbieders uiterlijk een maand voor de operationele start van het gewijzigde systeem te kunnen accrediteren en om reeds geaccrediteerde EETS-aanbieders in staat te stellen hun interoperabiliteitsonderdelen aan te passen aan de nieuwe vereisten en om hen uiterlijk een maand voor de start van het gewijzigde systeem opnieuw te kunnen accrediteren. Daarbij neemt de tolheffer de duur van de procedure in acht, bedoeld in [artikel 10, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&hoofdstuk=4&artikel=10&z=2021-10-19&g=2021-10-19).
 
-#### Artikel 12. (testomgeving boordapparatuur)
+##### Artikel 12. (testomgeving boordapparatuur)
 
 1. Een tolheffer die verantwoordelijk is voor een EETS-gebied in Nederland brengt een testomgeving tot stand waarin de EETS-aanbieder of zijn gemachtigde kan controleren of zijn boordapparatuur geschikt is voor gebruik in het EETS-gebied van de tolheffer en certificering kan krijgen voor de succesvolle voltooiing van de tests.
 
@@ -274,7 +301,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 4. Tolheffers kunnen van EETS-aanbieders of hun gemachtigden verlangen de kosten van de tests te dragen.
 
-#### Artikel 13. (eisen aan interoperabiliteitsonderdelen)
+##### Artikel 13. (eisen aan interoperabiliteitsonderdelen)
 
 1. Interoperabiliteitsonderdelen voldoen aan:
 
@@ -286,7 +313,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 2. De inhoud en de vorm van de EG-verklaringen van conformiteit met de specificaties of van de geschiktheid voor het gebruik, waartoe de procedure, bedoeld in [artikel 10, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&hoofdstuk=4&artikel=10&z=2021-10-19&g=2021-10-19), kan leiden als wordt aangetoond dat is voldaan aan de eisen, bedoeld in het eerste lid, voldoen aan het bepaalde, krachtens artikel 15, zevende lid, van [Richtlijn (EU) 2019/520](32019L0520).
 
-#### Artikel 14. (vrijwaringsprocedure)
+##### Artikel 14. (vrijwaringsprocedure)
 
 1. Onze Minister kan met betrekking tot interoperabiliteitsonderdelen met CE-markering die in de handel zijn gebracht en worden gebruikt overeenkomstig hun bestemming, en die naar verwachting niet aan de daaraan te stellen eisen voldoen, het toepassingsgebied daarvan beperken, het gebruik ervan verbieden, of ze uit de handel nemen.
 
@@ -294,11 +321,11 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 3. Met betrekking tot een interoperabiliteitsonderdeel met CE-markering dat niet aan de interoperabiliteitseisen voldoet, verzoekt Onze Minister de fabrikant of diens gemachtigde voor zover die een vestiging in Nederland heeft, om de conformiteit met de specificaties of de geschiktheid voor het gebruik van het interoperabiliteitsonderdeel te herstellen onder daarbij te stellen voorschriften. Van dat besluit wordt kennisgegeven aan de Europese Commissie en de andere lidstaten van de Europese Unie.
 
-#### Artikel 15. (transparantie van beoordelingen)
+##### Artikel 15. (transparantie van beoordelingen)
 
 Op beslissingen betreffende de beoordeling van de conformiteit met de specificaties of de geschiktheid voor het gebruik van de interoperabiliteitsonderdelen, door tolheffers die geen bestuursorgaan zijn, zijn de [artikelen 3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:40), [3:41](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:41), [3:45](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:45) en [3:46 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:46) van overeenkomstige toepassing.
 
-#### Artikel 16. (aangemelde instanties)
+##### Artikel 16. (aangemelde instanties)
 
 1. Onze Minister kan een of meer instanties aanwijzen die belast zijn met de uitvoering van, of het toezicht op de op grond van artikel 15, zevende lid, van [Richtlijn (EU) 2019/520](32019L0520) bepaalde procedure voor de beoordeling van de conformiteit met de specificaties of de geschiktheid voor het gebruik van interoperabiliteitsonderdelen, als de betreffende instantie voldoet aan de vereisten die door middel van gedelegeerde handelingen zijn vastgesteld, op grond van artikel 19, tweede lid, van [Richtlijn (EU) 2019/520](32019L0520).
 
@@ -306,7 +333,7 @@ Op beslissingen betreffende de beoordeling van de conformiteit met de specificat
 
 3. Als een door Onze Minister aangemelde instantie niet meer voldoet aan de criteria, bedoeld in het eerste lid, trekt Onze Minister de aanwijzing en aanmelding van die instantie in en brengt de Europese Commissie en de andere lidstaten van de Europese Unie daarvan op de hoogte.
 
-#### Artikel 17. (operationele boordapparatuur)
+##### Artikel 17. (operationele boordapparatuur)
 
 Tolheffers laten in hun EETS-gebieden alle operationele boordapparatuur toe die wordt gebruikt door EETS-aanbieders met wie zij een contractuele relatie onderhouden, als:
 
@@ -314,7 +341,7 @@ Tolheffers laten in hun EETS-gebieden alle operationele boordapparatuur toe die 
 
 - b. de apparatuur niet voorkomt op een lijst van ongeldig verklaarde boordapparatuur als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&hoofdstuk=4&artikel=18&z=2021-10-19&g=2021-10-19).
 
-#### Artikel 18. (lijsten van ongeldige boordapparatuur)
+##### Artikel 18. (lijsten van ongeldige boordapparatuur)
 
 1. EETS-aanbieders die in Nederland EETS aanbieden houden lijsten bij van ongeldig verklaarde boordapparatuur die verband houdt met hun EETS-overeenkomst met de EETS-gebruikers.
 
@@ -332,13 +359,13 @@ Tolheffers laten in hun EETS-gebieden alle operationele boordapparatuur toe die 
 
 ### Hoofdstuk 5. EETS-transacties
 
-#### Artikel 19. (facturering tolgeld door EETS-aanbieder bij EETS-gebruiker)
+##### Artikel 19. (facturering tolgeld door EETS-aanbieder bij EETS-gebruiker)
 
 1. Een overeenkomst tussen de tolheffer en de EETS-aanbieder, voor het aanbieden van EETS in Nederland, maakt het mogelijk dat de factuur voor het tolgeld rechtstreeks door de EETS-aanbieder aan de EETS-gebruiker wordt gestuurd.
 
 2. De tolheffer kan eisen dat de EETS-aanbieder de factuur voor de gebruiker uitschrijft in naam van en voor rekening van de tolheffer. De EETS-aanbieder voldoet aan die eis.
 
-#### Artikel 20. (betaling EETS-gebruiker aan EETS-aanbieder geldt als tolbetaling)
+##### Artikel 20. (betaling EETS-gebruiker aan EETS-aanbieder geldt als tolbetaling)
 
 1. De betaling van tolgeld door de EETS-gebruiker aan zijn EETS-aanbieder geldt als voldoening van de betalingsverplichtingen van de EETS-gebruiker ten aanzien van de betrokken tolheffer.
 
@@ -346,19 +373,19 @@ Tolheffers laten in hun EETS-gebieden alle operationele boordapparatuur toe die 
 
 3. EETS-gebruikers voldoen aan de verplichtingen voor de verstrekking van gegevens aan de EETS-aanbieder en het gebruik van en de behandeling van de boordapparatuur, die zijn vastgesteld krachtens artikel 10, derde lid, van [Richtlijn (EU) 2019/520](32019L0520).
 
-#### Artikel 21. (EETS-aanbieder rechtstreeks aansprakelijk voor elke tolmelding)
+##### Artikel 21. (EETS-aanbieder rechtstreeks aansprakelijk voor elke tolmelding)
 
 1. De tolheffer kan van een EETS-aanbieder eisen dat hij de tolheffer betaalt voor elke onderbouwde tolmelding en voor elke onderbouwde niet-tolmelding die betrekking heeft op een door de EETS-aanbieder beheerde EETS-gebruikersrekening.
 
 2. Wanneer, voor het vaststellen van het toltarief dat voor een gegeven voertuig geldt, de voertuigclassificatie van een EETS-aanbieder afwijkt van die van een tolheffer, prevaleert de classificatie van de tolheffer, tenzij wordt aangetoond dat sprake is van een fout.
 
-#### Artikel 22. (tolgelden)
+##### Artikel 22. (tolgelden)
 
 1. De tolheffer heft van EETS-gebruikers niet meer tolgeld dan hij van andere gebruikers heft overeenkomstig het nationale of lokale tolgeld.
 
 2. Het eerste lid laat de mogelijkheid van restituties of kortingen door de tolheffer voor het gebruik van elektronische tolbetalingen onverlet. Restituties of kortingen aan gebruikers van boordapparatuur zijn transparant, openbaar aangekondigd en onder dezelfde voorwaarden beschikbaar voor klanten van EETS-aanbieders.
 
-#### Artikel 23. (vergoeding)
+##### Artikel 23. (vergoeding)
 
 1. EETS-aanbieders hebben het recht om door de tolheffer te worden vergoed voor het innen van tolgelden namens de tolheffer.
 
@@ -370,7 +397,7 @@ Tolheffers laten in hun EETS-gebieden alle operationele boordapparatuur toe die 
 
 - b. de noodzaak om van de vergoeding van EETS-aanbieders de vaste kosten af te trekken die door de tolheffer worden opgelegd op grond van de kosten die de tolheffer maakt door in zijn tolgebied een EETS-conform systeem beschikbaar te stellen, te bedienen en te onderhouden, met inbegrip van de accreditatiekosten, wanneer die kosten niet in het tolgeld zijn opgenomen.
 
-#### Artikel 24. (boekhouding)
+##### Artikel 24. (boekhouding)
 
 1. Entiteiten die toldiensten aanbieden houden een financiële administratie bij waarin een duidelijk onderscheid kan worden gemaakt tussen de kosten en inkomsten in verband met het verlenen van toldiensten en de kosten en inkomsten in verband met andere activiteiten.
 
@@ -380,13 +407,13 @@ Tolheffers laten in hun EETS-gebieden alle operationele boordapparatuur toe die 
 
 ### Hoofdstuk 6. EETS aanbieden
 
-#### Artikel 25. (dekking)
+##### Artikel 25. (dekking)
 
 1. In Nederland geregistreerde EETS-aanbieders bestrijken te allen tijde alle EETS-gebieden zodra zij daarvoor overeenkomsten hebben gesloten.
 
 2. Een EETS-aanbieder die een EETS-gebied niet kan blijven bestrijken als gevolg van het niet-naleven van deze wet door de tolheffer, herstelt de dienstverlening voor het betrokken gebied zo snel mogelijk nadat het gebrek door de tolheffer hersteld is.
 
-#### Artikel 26. (informatie dekkingsgebied)
+##### Artikel 26. (informatie dekkingsgebied)
 
 Een in Nederland geregistreerde EETS-aanbieder maakt via elektronische weg bekend:
 
@@ -396,23 +423,23 @@ Een in Nederland geregistreerde EETS-aanbieder maakt via elektronische weg beken
 
 - c. gedetailleerde, jaarlijks bijgewerkte plannen over uitbreiding van diensten naar andere EETS-gebieden.
 
-#### Artikel 27. (transparant contracteerbeleid)
+##### Artikel 27. (transparant contracteerbeleid)
 
 In Nederland geregistreerde EETS-aanbieders maken het beleid dat zij toepassen bij het sluiten van overeenkomsten met EETS-gebruikers via elektronische weg openbaar.
 
-#### Artikel 28. (aan tolheffer toerekenbare EETS-storing)
+##### Artikel 28. (aan tolheffer toerekenbare EETS-storing)
 
 Bij een aan de tolheffer toerekenbare EETS-storing voorziet de tolheffer in een beperkte dienstverlening. De tolheffer draagt er zorgt voor dat voertuigen die zijn uitgerust met operationele boordapparatuur als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&hoofdstuk=4&artikel=17&z=2021-10-19&g=2021-10-19) zich veilig kunnen verplaatsen met zo min mogelijk oponthoud en zonder ervan te worden verdacht geen wegentol te hebben betaald.
 
 ### Hoofdstuk 7. Gebruik van EETS
 
-#### Artikel 29. (abonneren op de EETS)
+##### Artikel 29. (abonneren op de EETS)
 
 1. EETS-gebruikers kunnen met elke EETS-aanbieder een overeenkomst sluiten, ongeacht nationaliteit, lidstaat van verblijf of de lidstaat waar hun voertuig is ingeschreven.
 
 2. Bij het sluiten van de overeenkomst met een EETS-aanbieder wordt de EETS-gebruiker naar behoren geïnformeerd over geldige betaalmiddelen en, overeenkomstig [Verordening (EU) 2016/679](32579R2016) van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van [Richtlijn 95/46/EG](31995L0046) (algemene verordening gegevensbescherming) (PbEU 2016, L 119), over de verwerking van hun persoonsgegevens en de rechten die voortvloeien uit de geldende wetgeving inzake de bescherming van persoonsgegevens.
 
-#### Artikel 30. (één ononderbroken dienst)
+##### Artikel 30. (één ononderbroken dienst)
 
 EETS wordt aan EETS-gebruikers aangeboden als één ononderbroken dienst, wat inhoudt dat:
 
@@ -420,7 +447,7 @@ EETS wordt aan EETS-gebruikers aangeboden als één ononderbroken dienst, wat in
 
 - b. de menselijke interactie met een specifiek onderdeel van boordapparatuur identiek is voor elk EETS-gebied.
 
-#### Artikel 31. (beperkte interactie met tolheffer)
+##### Artikel 31. (beperkte interactie met tolheffer)
 
 1. EETS-gebruikers hebben geen andere interactie met tolheffers als onderdeel van EETS dan:
 
@@ -432,7 +459,7 @@ EETS wordt aan EETS-gebruikers aangeboden als één ononderbroken dienst, wat in
 
 ### Hoofdstuk 8. Gegevensuitwisseling tussen EETS-aanbieder en tolheffer
 
-#### Artikel 32. (gegevensverstrekking aan tolheffers)
+##### Artikel 32. (gegevensverstrekking aan tolheffers)
 
 1. EETS-aanbieders die in Nederland EETS aanbieden, verstrekken aan tolheffers van het betreffende tolgebied:
 
@@ -442,7 +469,7 @@ EETS wordt aan EETS-gebruikers aangeboden als één ononderbroken dienst, wat in
 
 2. Tolheffers in tolheffingssystemen die werken op basis van microgolven, verstrekken onderbouwde tolmeldingen aan de EETS-aanbieders met betrekking tot de verschuldigde tolgelden van hun EETS-gebruikers.
 
-#### Artikel 33. (samenwerkingsverplichting)
+##### Artikel 33. (samenwerkingsverplichting)
 
 1. EETS-aanbieders die in Nederland EETS aanbieden, werken met de tolheffers samen om vermoedelijke overtreders van de verplichting om wegentol te betalen te identificeren.
 
@@ -450,7 +477,7 @@ EETS wordt aan EETS-gebruikers aangeboden als één ononderbroken dienst, wat in
 
 3. De tolheffer maakt de gegevens, bedoeld in het tweede lid, niet bekend aan andere toldienstaanbieders. Als de tolheffer en een toldienstaanbieder deel uitmaken van één entiteit, worden de gegevens uitsluitend gebruikt voor het identificeren van vermeende overtreders.
 
-#### Artikel 34. (gegevens EETS-aanbieder)
+##### Artikel 34. (gegevens EETS-aanbieder)
 
 1. Een tolheffer die verantwoordelijk is voor een EETS-gebied in Nederland kan bij een EETS-aanbieder opvragen:
 
@@ -462,13 +489,13 @@ EETS wordt aan EETS-gebruikers aangeboden als één ononderbroken dienst, wat in
 
 3. De tolheffer maakt de gegevens, bedoeld in het eerste lid, niet bekend aan andere toldienstaanbieders. Als de tolheffer en een toldienstaanbieder deel uitmaken van één entiteit, worden de gegevens uitsluitend gebruikt voor het nakomen van verplichtingen ten aanzien van de belastingautoriteiten.
 
-#### Artikel 35. (verkeersbeleid en -managementgegevens)
+##### Artikel 35. (verkeersbeleid en -managementgegevens)
 
 Op verzoek verstrekken de toldienstaanbieders, met inbegrip van EETS-aanbieders, aan de tolheffer de geanonimiseerde verkeersgegevens van hun klanten. Bij ministeriële regeling wordt bepaald aan welke instantie de tolheffer de gegevens verstrekt. Deze gegevens worden alleen gebruikt ten behoeve van verkeersbeleid en ter verbetering van het verkeersmanagement.
 
 ### Hoofdstuk 9. Experimentele systemen
 
-#### Artikel 36. (experimentele tolheffingssystemen)
+##### Artikel 36. (experimentele tolheffingssystemen)
 
 1. Met een toestemming van de Europese Commissie als bedoeld in artikel 22, derde lid, van [Richtlijn (EU) 2019/520](32019L0520), kan Onze Minister op verzoek van een tolheffer ontheffing verlenen van één of meer bepalingen van deze wet om tijdelijk, gedurende de looptijd van de toestemming van de Europese Commissie, in beperkte delen van hun tolgebied, experimentele tolheffingssystemen toe te passen, parallel aan het EETS-conform systeem, voor het gebruiken van nieuwe tolheffingstechnologieën of concepten die niet voldoen aan die betreffende bepalingen.
 
@@ -480,7 +507,7 @@ Op verzoek verstrekken de toldienstaanbieders, met inbegrip van EETS-aanbieders,
 
 ### Hoofdstuk 10. Bemiddeling
 
-#### Artikel 37. (bemiddelende instantie)
+##### Artikel 37. (bemiddelende instantie)
 
 1. De NIWO is de bemiddelende instantie.
 
@@ -504,7 +531,7 @@ Op verzoek verstrekken de toldienstaanbieders, met inbegrip van EETS-aanbieders,
 
 7. [Artikel 21 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21) is niet van toepassing.
 
-#### Artikel 38. (bemiddelingsprocedure)
+##### Artikel 38. (bemiddelingsprocedure)
 
 1. Een tolheffer of een EETS-aanbieder kan de NIWO verzoeken tussenbeide te komen in geschillen over hun contractuele relatie of onderhandelingen.
 
@@ -514,11 +541,11 @@ Op verzoek verstrekken de toldienstaanbieders, met inbegrip van EETS-aanbieders,
 
 ### Hoofdstuk 11. Afhandelingsprocedure bij niet-betalen van wegentol
 
-#### Artikel 39. (model kennisgeving bij niet-betaling wegentol)
+##### Artikel 39. (model kennisgeving bij niet-betaling wegentol)
 
 Als, overeenkomstig de voor het betreffende EETS-gebied geldende procedure, degene die ervan verdacht wordt de wegentol niet te hebben betaald, daarvan in kennis wordt gesteld, is de kennisgeving gebaseerd op het kennisgevingsmodel, bedoeld in bijlage II bij [Richtlijn (EU) 2019/520](32019L0520), in de taal van het kentekenbewijs van het voertuig of in een van de officiële talen van de lidstaat van inschrijving.
 
-#### Artikel 40. (grensoverschrijdende gegevensuitwisseling bij niet-betaling wegentol)
+##### Artikel 40. (grensoverschrijdende gegevensuitwisseling bij niet-betaling wegentol)
 
 1. Het faciliteren van de grensoverschrijdende uitwisseling van voertuigregistratiegegevens in het kader van het niet betalen van wegentol in de Unie vindt plaats aan de hand van de softwaretoepassing Eucaris, bedoeld in artikel 23, vierde lid, van [Richtlijn (EU) 2019/520](32019L0520).
 
@@ -540,29 +567,29 @@ Als, overeenkomstig de voor het betreffende EETS-gebied geldende procedure, dege
 
 ### Hoofdstuk 12. Handhaving
 
-#### Artikel 41. (bestuursrechtelijk toezicht)
+##### Artikel 41. (bestuursrechtelijk toezicht)
 
 Met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&hoofdstuk=2&artikel=3&z=2021-10-19&g=2021-10-19), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&hoofdstuk=2&artikel=4&z=2021-10-19&g=2021-10-19), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&hoofdstuk=4&artikel=10&z=2021-10-19&g=2021-10-19), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&hoofdstuk=4&artikel=11&z=2021-10-19&g=2021-10-19), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&hoofdstuk=4&artikel=12&z=2021-10-19&g=2021-10-19), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&hoofdstuk=4&artikel=13&z=2021-10-19&g=2021-10-19), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&hoofdstuk=4&artikel=17&z=2021-10-19&g=2021-10-19), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&hoofdstuk=4&artikel=18&z=2021-10-19&g=2021-10-19), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&hoofdstuk=5&artikel=19&z=2021-10-19&g=2021-10-19), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&hoofdstuk=5&artikel=22&z=2021-10-19&g=2021-10-19), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&hoofdstuk=5&artikel=24&z=2021-10-19&g=2021-10-19), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&hoofdstuk=6&artikel=26&z=2021-10-19&g=2021-10-19), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&hoofdstuk=6&artikel=27&z=2021-10-19&g=2021-10-19), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&hoofdstuk=6&artikel=28&z=2021-10-19&g=2021-10-19), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&hoofdstuk=7&artikel=29&z=2021-10-19&g=2021-10-19), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&hoofdstuk=7&artikel=30&z=2021-10-19&g=2021-10-19), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&hoofdstuk=7&artikel=31&z=2021-10-19&g=2021-10-19), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&hoofdstuk=8&artikel=34&z=2021-10-19&g=2021-10-19) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&hoofdstuk=8&artikel=35&z=2021-10-19&g=2021-10-19) zijn belast de bij besluit van Onze Minister aangewezen ambtenaren. De aanwijzing kan inhouden, dat de betrokken ambtenaar slechts belast is met het toezicht op de naleving van een of enkele in die aanwijzing genoemde artikelen gesteld bij of krachtens deze wet.
 
-#### Artikel 42. (bestuursdwang)
+##### Artikel 42. (bestuursdwang)
 
 Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de voorschriften, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&hoofdstuk=12&artikel=41&z=2021-10-19&g=2021-10-19).
 
 ### Hoofdstuk 13. Slotbepalingen
 
-#### Artikel 43. (wijziging [Wegenverkeerswet 1994](onbekend))
+##### Artikel 43. (wijziging [Wegenverkeerswet 1994](onbekend))
 
 Wijzigt de Wegenverkeerswet 1994.
 
-#### Artikel 44. (geldig blijven bestaande registraties EETS-aanbieders)
+##### Artikel 44. (geldig blijven bestaande registraties EETS-aanbieders)
 
 Een beschikking op grond van [artikel 1a van de Regeling elektronische tolheffingssystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0018998&artikel=1a) wordt voor de inwerkingtreding van deze wet aangemerkt als een beschikking voor de registratie op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&hoofdstuk=3&artikel=7&z=2021-10-19&g=2021-10-19) van deze wet.
 
-#### Artikel 45. (inwerkingtreding)
+##### Artikel 45. (inwerkingtreding)
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 46. (citeertitel)
+##### Artikel 46. (citeertitel)
 
 Deze wet wordt aangehaald als: Wet implementatie EETS-richtlijn.
 

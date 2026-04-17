@@ -1,20 +1,45 @@
 ---
 title: "Huishoudelijk reglement penitentiaire inrichtingen BES"
 identifier: "BWBR0028812"
-categorie: "Strafrecht"
-publicatiedatum: 2023-10-01
-laatste_update: 2023-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028812"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2023-10-01"
+last_updated: "2023-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028812"
+soort: "ministeriele-regeling-BES"
+stam_id: "11032073"
+version_id: "18025532"
+internal_id: "C25056141"
+label_id: "11006874"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028812/2023-10-01/0"
+intitule_bron: "Stcrt.2010-15704"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-27"
+intitule_published: "2010-10-08"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-15704"
+original_signed_date: "2010-09-27"
+original_published_date: "2010-10-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-15704"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028812&z=2023-10-01&g=2023-10-01"
+jci_1_0: "1.0:c:BWBR0028812&g=2023-10-01"
+citeertitel_status: "officieel"
+signed_date: "2010-09-27"
+entry_into_force: "2010-10-10"
 ---
-
 # Huishoudelijk reglement penitentiaire inrichtingen BES
 
 Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van Nederland.
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In.deze regeling wordt verstaan onder:
 
@@ -28,11 +53,11 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uu
 
 #### § 2. De opneming van een gedetineerde in het gesticht.
 
-#### Artikel 2
+##### Artikel 2
 
 De opneming van gedetineerden in een gesticht kan te allen tijde geschieden met dien verstande dat zij slechts bij uitzondering naar een gesticht overgebracht zullen worden voor 8.00 uur en na 22.00 uur.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Na binnenkomst van een gedetineerde doet de directeur de bescheiden of last tot insluiting onverwijld onderzoeken.
 
@@ -42,7 +67,7 @@ De opneming van gedetineerden in een gesticht kan te allen tijde geschieden met 
 
 4. De gedetineerde kan bij opneming of op een later tijdstip aangeven of en zo ja met welke geestelijke raadsman hij in contact wenst te treden. Betreft de opgave een niet aan het gesticht verbonden geestelijk raadsman dan beslist de directeur omtrent diens toelating. Toelating kan door de directeur worden geweigerd, indien de veiligheid, orde of goede gang van zaken in het gesticht daartoe, naar zijn oordeel, bepaaldelijk aanleiding geeft.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Van de bij opneming of op een later tijdstip aangetroffen en in bewaring genomen gelden, waardepapieren en andere goederen, die de gedetineerde niet onder zijn berusting mag houden, wordt aantekening gemaakt in het bewaarnemingsregister. De gedetineerde dient, zo mogelijk, voor akkoord te tekenen.
 
@@ -52,7 +77,7 @@ De opneming van gedetineerden in een gesticht kan te allen tijde geschieden met 
 
 4. In bewaring genomen waardepapieren en andere goederen worden de gedetineerde, onverminderd [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=7&artikel=20&z=2023-10-01&g=2023-10-01), bij zijn invrijheidstelling teruggegeven tegen getekend bewijs van ontvangst.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Zo spoedig mogelijk, doch in ieder geval binnen 24 uren na opneming, wordt de gedetineerde geïnformeerd omtrent de [Gevangenismaatregel 1999 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028513), deze regeling en de overige dienstberichten en regelingen die voor hem van belang zijn.
 
@@ -62,7 +87,7 @@ De opneming van gedetineerden in een gesticht kan te allen tijde geschieden met 
 
 #### § 3. Wijze van tenuitvoerlegging van de detentie
 
-#### Artikel 6
+##### Artikel 6
 
 1. De tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel in een gesticht vindt als regel plaats in gemeenschap.
 
@@ -72,11 +97,11 @@ De opneming van gedetineerden in een gesticht kan te allen tijde geschieden met 
 
 #### § 4. Persoonlijke verzorging
 
-#### Artikel 7
+##### Artikel 7
 
 De gedetineerde is verplicht de hem toegewezen woon- en slaapruimte, met de zich daarin bevindende voorwerpen, in zindelijke staat te houden.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De directeur doet, zo vaak als redelijkerwijs nodig, aan de gedetineerde verstrekken: zeep, tandpasta, een tandenborstel, toiletpapier, eet- en drinkgerei, een hoofdkussen, een matras, een deken en een laken tegen getekend bewijs van ontvangst.
 
@@ -84,21 +109,21 @@ De gedetineerde is verplicht de hem toegewezen woon- en slaapruimte, met de zich
 
 #### § 5. Beheer en besteedbaarheid geldelijke middelen gedetineerde
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het beheer van de rekening-courant van de gedetineerde, bedoeld in [artikel 19, tweede lid, van de Gevangenismaatregel 1999 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028513&artikel=19), berust bij de directeur of een door deze aangewezen gestichtsmedewerker.
 
 2. De directeur dan wel de gestichtsmedewerker bedoeld in het eerste lid, doet van het beheer rekening en verantwoording aan de gedetineerde bij diens invrijheidstelling.
 
-#### Artikel 10
+##### Artikel 10
 
 Het door de gedetineerde in een kalendermaand met arbeid verdiende bedrag bedoeld in [artikel 21, tweede lid, van de Gevangenismaatregel 1999 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028513&artikel=21), wordt uiterlijk op de zevende dag van de volgende kalendermaand geboekt op de rekening bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=5&artikel=9&z=2023-10-01&g=2023-10-01), met inachtneming van artikel 21, tweede lid, van de Gevangenismaatregel 1999 BES.
 
-#### Artikel 11
+##### Artikel 11
 
 (vervallen)
 
-#### Artikel 12
+##### Artikel 12
 
 1. De gelden geboekt als ‘Eigen geld’ op de rekening bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=5&artikel=9&z=2023-10-01&g=2023-10-01), staan niet ter beschikking van de gedetineerde, tenzij bij of krachtens de [Wet beginselen gevangeniswezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028596) anders is bepaald.
 
@@ -106,13 +131,13 @@ Het door de gedetineerde in een kalendermaand met arbeid verdiende bedrag bedoel
 
 3. Indien de gedetineerde in een kalendermaand meer geld van derden ontvangt dan het maximaal toegestane bedrag bedoeld in [artikel 23 van de Gevangenismaatregel 1999 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028513&artikel=23), wordt het meerdere aan de afzender geretourneerd. Is zulks niet mogelijk, dan wordt het meerdere apart bewaard op een door de directeur aangewezen plaats om de daarop volgende maand of maanden met in achtneming van evengenoemd artikel 23 te worden geboekt als ‘Eigen geld’.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De gelden geboekt als ‘Zakgeld’ op de rekening bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=5&artikel=9&z=2023-10-01&g=2023-10-01), staan ter beschikking van de gedetineerde voor de aankoop van kantine-artikelen alsmede voor andere doeleinden. Bij zijn invrijheidstelling worden de resterende gelden hem meegegeven tegen getekend bewijs van ontvangst.
 
 2. Door de directeur kan het worden verboden om de gelden geboekt als ‘Zakgeld’ te gebruiken voor een bepaald doel indien dat naar zijn oordeel is vereist in het belang van de veiligheid, orde of goede gang van zaken in het gesticht, de voorkoming of opsporing van strafbare feiten, dan wel het tegengaan van vluchtgevaar.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De gelden geboekt als ‘Uitgaanskas’ op de rekening bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=5&artikel=9&z=2023-10-01&g=2023-10-01), staan niet ter beschikking van de gedetineerde, tenzij bij of krachtens de [Wet beginselen gevangeniswezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028596) anders is bepaald.
 
@@ -122,13 +147,13 @@ Het door de gedetineerde in een kalendermaand met arbeid verdiende bedrag bedoel
 
 - b. indien dit met het oog op de reclassering of anderszins wenselijk is, op met redenen omkleed advies van de maatschappelijk hulpverlener van het gesticht, geheel of gedeeltelijk overmaken aan een autoriteit, instelling of persoon om door deze in eens of in termijnen aan de gedetineerde te worden verstrekt.
 
-#### Artikel 15
+##### Artikel 15
 
 Op verzoek van de gedetineerde besteed of verzonden geld doet de directeur afboeken van de post ‘Zakgeld’ van de rekening bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=5&artikel=9&z=2023-10-01&g=2023-10-01). Kosten in verband met medisch onderzoek of medische behandeling kunnen voor zover nodig ook worden afgeboekt van de post ‘Eigen geld’. De gedetineerde dient, zo mogelijk, voor akkoord te tekenen.
 
 #### § 6. Werktijden, arbeidsduur en arbeidsloon
 
-#### Artikel 16
+##### Artikel 16
 
 1. De werktijd voor de gedetineerde ligt tussen 06.00 uur en 19.00 uur, met dien verstande dat de directeur voor gedetineerden die huisdienst verrichten in het gesticht afwijkende werktijden kan vaststellen.
 
@@ -138,13 +163,13 @@ Op verzoek van de gedetineerde besteed of verzonden geld doet de directeur afboe
 
 4. De arbeid wordt onderbroken door een pauze in de loop van de ochtend, middag en, voor zover van toepassing, avond van telkens tenminste één kwartier, met dien verstande dat de pauze voor de middag- en, voor zover van toepassing, avondmaaltijd ten tenminste 45 minuten bedraagt.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Op zater-, zon- en feestdagen wordt geen arbeid verricht, tenzij het betreft gedetineerden die huisdienst verrichten in het gesticht.
 
 2. Indien de gedetineerde uit hoofde van zijn levensovertuiging de wekelijkse rustdag op een andere dag dan zater- of zondag wenst te houden, wordt door de directeur met die wens, voorzover dat redelijkerwijs mogelijk is, rekening gehouden.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De gedetineerde die arbeid verricht, ontvangt voor ieder vol uur daadwerkelijk
 
@@ -154,7 +179,7 @@ Op verzoek van de gedetineerde besteed of verzonden geld doet de directeur afboe
 
 2. Op zater-, zon- of feestdagen ontvangt de gedetineerde voor ieder vol uur daadwerkelijk verrichte arbeid naast het netto bedrag bedoeld in het eerste lid, een netto toeslag van 50% van dat bedrag.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Van het aantal volle uren dat de gedetineerde op die dag arbeid heeft verricht, doet de directeur aantekening houden in het arbeidsregister van het gesticht.
 
@@ -162,13 +187,13 @@ Op verzoek van de gedetineerde besteed of verzonden geld doet de directeur afboe
 
 #### § 7. Ontvangst, bezit en verzenden van goederen, anders dan gelden, tijdens het verblijf in het gesticht.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Van het op verzoek van de gedetineerde verzenden van goederen doet de directeur aantekening maken in het bewaarnemingsregister bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=2&artikel=4&z=2023-10-01&g=2023-10-01). De gedetineerde dient, zo mogelijk voor akkoord te tekenen.
 
 2. Op de inbewaarneming van ten behoeve van de gedetineerde ontvangen goederen die hij niet onder zijn berusting mag houden, en de teruggave daarvan bij zijn invrijheidstelling is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=2&artikel=4&z=2023-10-01&g=2023-10-01) van overeenkomstige toepassing.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Indien de gedetineerde bij de opneming medicamenten bij zich heeft of in een later stadium voorgeschreven krijgt, beslist de directeur, na overleg met de aan het gesticht verbonden arts, of hij deze medicamenten onder zijn berusting mag hebben.
 
@@ -176,7 +201,7 @@ Op verzoek van de gedetineerde besteed of verzonden geld doet de directeur afboe
 
 3. Het is een gedetineerde verboden om medicijnen op een andere wijze te gebruiken dan is voorgeschreven.
 
-#### Artikel 22
+##### Artikel 22
 
 Buiten de bij zijn opneming aanwezige of op een later tijdstip van derden ontvangen goederen die hij ingevolge toestemming van de directeur onder zijn berusting mag hebben, alsmede de goederen die hem door de directeur zijn verstrekt, is het de gedetineerde slechts toegestaan tot zijn beschikking te hebben:
 
@@ -188,7 +213,7 @@ Buiten de bij zijn opneming aanwezige of op een later tijdstip van derden ontvan
 
 #### § 8. Bezoek en contacten in en buiten het gesticht
 
-#### Artikel 23
+##### Artikel 23
 
 1. De directeur stelt de tijdstippen vast gedurende welke de gedetineerde bezoek mag ontvangen in het gesticht.
 
@@ -196,7 +221,7 @@ Buiten de bij zijn opneming aanwezige of op een later tijdstip van derden ontvan
 
 3. De in [artikel 26, eerste lid, van de Gevangenismaatregel 1999 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028513&artikel=26) genoemde ambten en personen, alsmede andere door Onze Minister aangewezen personen worden te allen tijde in het gesticht toegelaten om de gedetineerde te bezoeken.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De directeur beslist omtrent de toelating van personen die zich voor bezoek hebben aangemeld.
 
@@ -214,7 +239,7 @@ Buiten de bij zijn opneming aanwezige of op een later tijdstip van derden ontvan
 
 6. De regels en een eventueel afwijkend besluit bedoeld in het vijfde lid, doet de directeur tijdig kenbaar maken aan de gedetineerde.
 
-#### Artikel 25
+##### Artikel 25
 
 Door de directeur wordt, voor zover dat redelijkerwijs nodig is, met betrekking tot de bezoektijd en bezoekuren een gunstiger regeling getroffen ten aanzien van:
 
@@ -226,7 +251,7 @@ Door de directeur wordt, voor zover dat redelijkerwijs nodig is, met betrekking 
 
 - d. in het ziekenhuis opgenomen gedetineerden.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Nabij de ingang van het gesticht worden op duidelijk leesbare wijze de voor bezoekers van belang zijnde voorschriften opgehangen.
 
@@ -236,7 +261,7 @@ Door de directeur wordt, voor zover dat redelijkerwijs nodig is, met betrekking 
 
 4. Bij overtreding door een bezoeker van de voor het bezoek geldende voorschriften of aanwijzingen bedoeld in het derde lid, kan deze uit het gesticht worden verwijderd.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Het is een bezoeker niet toegestaan de gedetineerde enig voorwerp te overhandigen of van hem enig voorwerp aan te nemen.
 
@@ -244,23 +269,23 @@ Door de directeur wordt, voor zover dat redelijkerwijs nodig is, met betrekking 
 
 3. Voorwerpen waarvan het bezit door de gedetineerde verboden is, zulks ter beoordeling van de directeur, worden niet aangenomen dan wel terstond teruggegeven aan de bezoeker.
 
-#### Artikel 28
+##### Artikel 28
 
 Gedetineerden van wie aannemelijk is dat hun gezinsbetrekkingen verblijven buiten één van de openbare lichamen Bonaire, Sint Eustatius of Saba alwaar de detentie plaatsvindt, wordt toegestaan om voor eigen rekening dan wel voor rekening van derden en in aanwezigheid van een door de directeur aangewezen gestichtsmedewerker éénmaal per twee weken één uur telefonisch contact te hebben met de door hen opgegeven gezinsbetrekkingen.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Indien een gedetineerde ernstig ziek is of in levensgevaar verkeert, doet de directeur onverwijld waarschuwen de levenspartner of een andere naaste verwant van de gedetineerde, dan wel enig ander persoon ten aanzien van wie de gedetineerde zulks te kennen heeft gegeven.
 
 2. Tevens doet de directeur zo spoedig mogelijk mededeling aan de eventuele geestelijke raadsman bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=2&artikel=3&z=2023-10-01&g=2023-10-01).
 
-#### Artikel 30
+##### Artikel 30
 
 De gedetineerde heeft het recht om, wanneer het weer zulks toelaat, gedurende ten minste één uur des voormiddags en één uur des namiddags in de open lucht te verblijven ter plaatse waar zulks door de directeur is bepaald.
 
 #### § 9. Tijdelijk verlaten van het gesticht.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Onze Minister kan een gedetineerde die is veroordeeld tot onvoorwaardelijke hechtenis of tot een onvoorwaardelijke gevangenisstraf als bedoeld in dit artikel, op zijn schriftelijk verzoek toestaan om in een op basis van het derde lid vast te stellen periode voorafgaand aan de datum van zijn vermoedelijke invrijheidstelling voor een op basis van het vierde lid vast te stellen aantal keren van drie aaneengesloten dagen naar zijn gezinsbetrekkingen of, bij ontbreken daarvan, naar een andere, door Onze Minister goed te keuren, bestemming te gaan.
 
@@ -286,7 +311,7 @@ De gedetineerde heeft het recht om, wanneer het weer zulks toelaat, gedurende te
 
 6. Bij de in het eerste lid vast te stellen periode buiten het gesticht wordt, indien de bestemming Sint Eustatius of Saba betreft, de reistijd niet meegerekend.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Het verzoek bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=9&artikel=31&z=2023-10-01&g=2023-10-01), moet worden ingediend door tussenkomst van de directeur, die zijn advies ter zake bijvoegt.
 
@@ -306,7 +331,7 @@ De gedetineerde heeft het recht om, wanneer het weer zulks toelaat, gedurende te
 
 6. De minister kan zijn toestemming geheel of gedeeltelijk intrekken indien de openbare veiligheid, openbare orde of een door de directeur getroffen disciplinaire maatregel bedoeld in het vijfde lid, daartoe naar zijn oordeel aanleiding geeft.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Indien een gedetineerde krachtens wettelijk voorschrift verplicht is om in de openbare lichamen Bonaire, Sint Eustatius en Saba hetzij als getuige hetzij anderszins voor een rechterlijk of administratief college of orgaan te verschijnen, wordt hij daartoe in staat gesteld. Het voorgaande is van overeenkomstige toepassing in het geval de gedetineerde moet verschijnen voor het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire Sint Eustatius en Saba.
 
@@ -318,17 +343,17 @@ De gedetineerde heeft het recht om, wanneer het weer zulks toelaat, gedurende te
 
 5. De uit dit artikel voortvloeiende reis- en verblijfkosten zijn voor rekening van ’s Rijks kas.
 
-#### Artikel 34
+##### Artikel 34
 
 In buitengewone gevallen kan Onze Minister een gedetineerde vergunnen om maximaal twee maal per kalenderjaar voor maximaal vijf dagen, onder door hem te stellen voorwaarden, het gesticht te verlaten. De [artikelen 31, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=9&artikel=31&z=2023-10-01&g=2023-10-01), en [32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=9&artikel=32&z=2023-10-01&g=2023-10-01), zijn van overeenkomstige toepassing.
 
 #### § 11. Slot- en overgangsbepalingen
 
-#### Artikel 35
+##### Artikel 35
 
 Deze regeling wordt aangehaald als: Huishoudelijk reglement penitentiaire inrichtingen BES.
 
-#### Artikel 19a
+##### Artikel 19a
 
 Het is verboden om de volgende voorwerpen in de instelling in bezit te hebben:
 

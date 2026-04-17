@@ -1,28 +1,54 @@
 ---
-title: "Instructie rijksdienst bij aanschaf ICT-diensten of ICT-producten"
+title: "Besluit van de Staatssecretaris van Economische Zaken van 8 november 2008, nr. WJZ/8157380, tot vaststelling Instructie rijksdienst inzake aanschaf ICT-diensten en ICT-producten"
 identifier: "BWBR0024717"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2008-11-23
-laatste_update: 2008-11-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024717"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2008-11-23"
+last_updated: "2008-11-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024717"
+soort: "ministeriele-regeling"
+stam_id: "9769913"
+version_id: "15844792"
+internal_id: "C21732261"
+label_id: "9746664"
+dtd_version: "2.0"
+original_entry_into_force: "2008-11-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024717/2008-11-23/0"
+intitule_bron: "Stcrt.2008-227"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-11-08"
+intitule_published: "2008-11-21"
+intitule_in_force: "2008-11-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-227"
+original_signed_date: "2008-11-08"
+original_published_date: "2008-11-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-837"
+entry_into_force_date: "2008-11-23"
+jci_1_3: "jci1.3:c:BWBR0024717&z=2008-11-23&g=2008-11-23"
+jci_1_0: "1.0:c:BWBR0024717&g=2008-11-23"
+citeertitel_status: "officieel"
+short_title: "Instructie rijksdienst bij aanschaf ICT-diensten of ICT-producten"
+signed_date: "2008-11-08"
+entry_into_force: "2008-11-23"
 ---
-
 # Besluit van de Staatssecretaris van Economische Zaken van 8 november 2008, nr. WJZ/8157380, tot vaststelling Instructie rijksdienst inzake aanschaf ICT-diensten en ICT-producten
 
 Handelende mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties en in overeenstemming met het gevoelen van de ministerraad;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Vastgesteld wordt de als bijlage bij dit besluit gevoegde instructie rijksdienst bij aanschaf ICT-diensten of ICT-producten.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt aangehaald als ‘Instructie rijksdienst bij aanschaf ICT-diensten of ICT-producten’.
 

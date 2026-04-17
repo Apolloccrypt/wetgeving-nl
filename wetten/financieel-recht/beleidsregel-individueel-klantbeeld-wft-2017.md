@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel Individueel Klantbeeld Wft 2017"
+title: "Beleidsregel van De Nederlandsche Bank N.V. van 10 juli 2017 houdende regels met betrekking tot het samenstellen door banken van individuele klantbeelden ten behoeve van het depositogarantiestelsel en het afwikkelinstrumentarium (Beleidsregel Individueel Klantbeeld)"
 identifier: "BWBR0039826"
-categorie: "Financieel recht"
-publicatiedatum: 2025-04-01
-laatste_update: 2025-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039826"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-04-01"
+last_updated: "2025-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039826"
+soort: "zbo"
+stam_id: "14079063"
+version_id: "24244222"
+internal_id: "C34823671"
+label_id: "14040264"
+dtd_version: "2.0"
+original_entry_into_force: "2017-07-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039826/2025-04-01/0"
+intitule_bron: "Stcrt.2017-41434"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-07-10"
+intitule_published: "2017-07-21"
+intitule_in_force: "2017-07-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-41434"
+original_signed_date: "2017-07-10"
+original_published_date: "2017-07-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-41434"
+entry_into_force_date: "2017-07-22"
+jci_1_3: "jci1.3:c:BWBR0039826&z=2025-04-01&g=2025-04-01"
+jci_1_0: "1.0:c:BWBR0039826&g=2025-04-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel Individueel Klantbeeld Wft 2017"
+signed_date: "2017-07-10"
+entry_into_force: "2017-07-22"
 ---
-
 # Beleidsregel van De Nederlandsche Bank N.V. van 10 juli 2017 houdende regels met betrekking tot het samenstellen door banken van individuele klantbeelden ten behoeve van het depositogarantiestelsel en het afwikkelinstrumentarium (Beleidsregel Individueel Klantbeeld)
 
 Gelet op [artikel 3:17, tweede lid, aanhef en onderdeel d van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17) en [artikel 26a van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=26a);
@@ -22,7 +48,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 De begrippen in deze beleidsregel hebben dezelfde betekenis als in de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) en de daarop gebaseerde lagere regelgeving, tenzij deze begrippen uitdrukkelijk anders worden gedefinieerd in deze beleidsregel.
 
@@ -68,7 +94,7 @@ In deze beleidsregel wordt verstaan onder:
 
 ### Afdeling 2.1. Aanlevering en samenstelling IKB-bestand
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een bank stelt een IKB-bestand samen, dat alle gegevens bevat die noodzakelijk zijn voor de uitvoering van het depositogarantiestelsel, conform een door DNB voorgeschreven datamodel, en dat op een zodanige wijze is vormgegeven dat depositogegevens gekoppeld zijn aan de gegevens van depositohouders en eventuele vertegenwoordigers.
 
@@ -152,7 +178,7 @@ In deze beleidsregel wordt verstaan onder:
 
 6. Indien een IKB-bestand voor een betreffende vertegenwoordiger de gegevens bedoeld in het derde lid van dit artikel, onderdeel d, bevat, geldt in afwijking van het derde lid van dit artikel, onderdeel b, dat voor wat betreft de aldaar genoemde gegevens kan worden volstaan met ten minste de voorletters of de voornamen zoals geregistreerd in het identiteitsbewijs, naast de achternaam zoals geregistreerd in het identiteitsbewijs en de geboortedatum.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=2&z=2025-04-01&g=2025-04-01), neemt een bank het volgende in acht:
 
@@ -170,7 +196,7 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 ### Afdeling 2.2. Berekening in aanmerking komende en gegarandeerde bedragen
 
-#### Artikel 4
+##### Artikel 4
 
 1. In aanvulling op het IKB-bestand is een bank in staat zowel het in aanmerking komende bedrag als het gegarandeerde bedrag in euro’s van elke depositohouder te berekenen.
 
@@ -216,7 +242,7 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 ### Afdeling 2.3. Identificatie deposito’s en depositohouders
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een bank identificeert en administreert de kenmerken op grond waarvan een depositohouder kan worden geïdentificeerd zodanig dat de identiteit van een depositohouder met een hoge mate van betrouwbaarheid kan worden vastgesteld.
 
@@ -226,7 +252,7 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 4. Een bank administreert voor elke niet-natuurlijk persoon de bijbehorende bedrijfscategorie conform de in een door DNB voorgeschreven datamodel gegeven opties en aan de hand van door DNB vastgestelde definities.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een bank markeert de hierna genoemde groepen van deposito’s en depositohouders op een dusdanige manier dat deze onmiddellijk te identificeren zijn:
 
@@ -262,7 +288,7 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 ### Hoofdstuk 3. Afwikkeling banken
 
-#### Artikel 7
+##### Artikel 7
 
 1. Voor het opstellen en bijhouden van een afwikkelingsplan levert een bank onder meer een gedetailleerde omschrijving aan van de samenstelling van de deposito’s die bij deze bank worden aangehouden.
 
@@ -272,7 +298,7 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 - b. Is een bank in staat een overzicht samen te stellen van deposito’s als bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=3&z=2025-04-01&g=2025-04-01).
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien het op die bank betrekking hebbende afwikkelingsplan daar aanleiding toe geeft, beschikt een bank over procedures en maatregelen om:
 
@@ -288,7 +314,7 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 ### Hoofdstuk 4. Gegevensaanlevering
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een bank voorziet DNB van het IKB-bestand binnen drie werkdagen nadat:
 
@@ -310,7 +336,7 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 ### Afdeling 5.1. Beheersmaatregelen van een bank
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het IKB-systeem van een bank waarborgt de juistheid en volledigheid van de volgende gegevens op een zodanige manier dat DNB met een hoge betrouwbaarheid tot een uitkering aan depositohouders zou kunnen overgaan:
 
@@ -324,7 +350,7 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 3. Een bank waarborgt dat de gegevens in het IKB-bestand als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.1&artikel=2&z=2025-04-01&g=2025-04-01), de bedragen als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&hoofdstuk=2&afdeling=2.2&artikel=4&z=2025-04-01&g=2025-04-01), en de berekening van de depositobasis als bedoeld in artikel 4, derde lid aansluiten op de rapportages aan de toezichthoudende autoriteit die gebaseerd zijn op uitvoeringsverordening (EU) 680/2014.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een bank beschikt ten minste over de volgende beheersmaatregelen:
 
@@ -342,7 +368,7 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 ### Afdeling 5.2. Toezicht
 
-#### Artikel 12
+##### Artikel 12
 
 1. Om over het verslagjaar een oordeel te vormen over de mate waarin de voorschriften uit deze beleidsregel worden nageleefd, geeft een bank jaarlijks een opdracht aan een externe accountant, gebaseerd op ISAE 3402, waarbij niet alleen opzet en bestaan, maar ook de werking onderdeel van toetsing is (type 2).
 
@@ -350,7 +376,7 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 3. Het rapport dat een externe accountant opstelt naar aanleiding van de opdracht als bedoeld in het eerste lid, wordt uiterlijk binnen vijf maanden na afloop van het verslagjaar gedeeld met DNB.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Een bank informeert DNB zo spoedig mogelijk indien zij voornemens is wijzigingen door te voeren die materiële implicaties kunnen hebben voor het IKB-systeem, doch uiterlijk drie maanden voor de beoogde ingangsdatum van de wijziging.
 
@@ -362,7 +388,7 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 5. De notificatie als bedoeld in het tweede lid en de notificatie als bedoeld in de tweede volzin van het derde lid worden vergezeld van een door de bank afgegeven verklaring dat het IKB-systeem in lijn is met deze beleidsregel.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Indien een bank tot het DGS toetreedt na inwerkingtreding van deze beleidsregel, verstrekt een bank aan DNB:
 
@@ -376,7 +402,7 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 2. De bepalingen in het eerste lid zijn overeenkomstig van toepassing bij fusies of overnames.
 
-#### Artikel 15
+##### Artikel 15
 
 1. DNB beoordeelt de kwaliteit van het aangeleverde IKB-bestand en de beheersing van het IKB-systeem.
 
@@ -388,15 +414,15 @@ Bij het samenstellen van het IKB-bestand, als vastgelegd in [artikel 2](https://
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 Deze beleidsregel treedt in werking met ingang van de dag na publicatie daarvan in de Staatscourant.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel Individueel Klantbeeld Wft 2017.
 
-#### Artikel 18
+##### Artikel 18
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel Individueel Klantbeeld Wft 2017.
 

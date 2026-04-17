@@ -1,20 +1,45 @@
 ---
 title: "Regeling Wlz-indiceerbaren"
 identifier: "BWBR0036418"
-categorie: "Sociaal recht"
-publicatiedatum: 2015-03-19
-laatste_update: 2015-03-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036418"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-03-19"
+last_updated: "2015-03-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036418"
+soort: "ministeriele-regeling"
+stam_id: "13012073"
+version_id: "22237702"
+internal_id: "C31883321"
+label_id: "12980914"
+dtd_version: "2.0"
+original_entry_into_force: "2015-03-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036418/2015-03-19/0"
+intitule_bron: "Stcrt.2015-7653"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-03-13"
+intitule_published: "2015-03-18"
+intitule_in_force: "2015-03-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-7653"
+original_signed_date: "2015-03-13"
+original_published_date: "2015-03-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-7653"
+entry_into_force_date: "2015-03-19"
+jci_1_3: "jci1.3:c:BWBR0036418&z=2015-03-19&g=2015-03-19"
+jci_1_0: "1.0:c:BWBR0036418&g=2015-03-19"
+citeertitel_status: "officieel"
+signed_date: "2015-03-13"
+entry_into_force: "2015-03-19"
 ---
-
 # Regeling Wlz-indiceerbaren
 
 Gelet op [artikel 11.1.1, zesde lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.1);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -50,7 +75,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **voortgezet verblijf:** hetgeen daaronder wordt verstaan in de [artikel 13 van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=13).
 
-#### Artikel 2
+##### Artikel 2
 
 De groepen, bedoeld in [artikel 11.1.1, zesde lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.1) worden in de [artikelen 3 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036418&artikel=3&z=2015-03-19&g=2015-03-19) van deze regeling omschreven, met dien verstande dat tot de daar bedoelde groepen niet behoren:
 
@@ -66,7 +91,7 @@ De groepen, bedoeld in [artikel 11.1.1, zesde lid, van de Wet langdurige zorg](h
 
 - f. verzekerden van vijf jaar of ouder maar jonger dan achttien jaar die krachtens hun indicatiebesluit zijn aangewezen op verpleging in verband met een behoefte aan thuisbeademing, tenzij zij tevens zijn aangewezen op zorg in verband met een verstandelijke handicap.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Verzekerden die in verband met een somatische of psychogeriatrische aandoening of beperking of een verstandelijke, lichamelijke of zintuiglijke handicap krachtens hun indicatiebesluit voor een totaal aantal van ten minste negentien dagdelen per week zijn aangewezen op begeleiding in een groep, behandeling in een groep, kortdurend verblijf of tijdelijk verblijf.
 
@@ -78,11 +103,11 @@ De groepen, bedoeld in [artikel 11.1.1, zesde lid, van de Wet langdurige zorg](h
 
 - c. een bepaalde klasse voor ‘kortdurend verblijf’ of ‘tijdelijk verblijf’ als een indicatie voor het aantal dagdelen ‘kortdurend verblijf’ of ‘tijdelijk verblijf’ dat gelijk is aan het klassenummer, vermenigvuldigd met zes.
 
-#### Artikel 4
+##### Artikel 4
 
 Verzekerden die op 1 januari 2015 de leeftijd van vijf maar nog niet die van twintig jaar hebben bereikt, in wier indicatiebesluit een verstandelijke handicap, naast een somatische aandoening of beperking of een lichamelijke handicap, als grondslag voor de geïndiceerde zorg wordt genoemd en die daarnaast krachtens hun indicatiebesluit zijn aangewezen op intensieve kindzorg.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Verzekerden die in verband met een verstandelijke handicap krachtens hun indicatiebesluit:
 
@@ -94,25 +119,25 @@ Verzekerden die op 1 januari 2015 de leeftijd van vijf maar nog niet die van twi
 
 3. Een behandelende zorgverlener die werkzaam is in het kinderdienstencentrum waarvan een verzekerde als bedoeld in het eerste lid, onderdeel b, de daar bedoelde zorg ontvangt, geeft desgevraagd een verklaring af waaruit blijkt op grond van welke in dat lid genoemde prestatiecode de zorg wordt gedeclareerd of geleverd dan wel dat zorg wordt geleverd als omschreven bij de prestatiecodes H817 of H819.
 
-#### Artikel 6
+##### Artikel 6
 
 Verzekerden die krachtens een indicatiebesluit dat op of na 1 januari 2011 is vastgesteld, zijn aangewezen op kortdurend verblijf.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Verzekerden die in verband met een lichamelijke handicap, al dan niet in combinatie met een somatische aandoening of beperking of met een zintuiglijke handicap, krachtens hun indicatiebesluit zijn aangewezen op een totaal aantal van ten minste 25 uren per week individuele begeleiding, persoonlijke verzorging of verpleging.
 
 2. De berekening van het aantal uren, bedoeld in het eerste lid, geschiedt op de in de bijlage geregelde wijze.
 
-#### Artikel 8
+##### Artikel 8
 
 Verzekerden die op 1 januari 2015 achttien jaar of ouder zijn en krachtens hun indicatiebesluit zijn aangewezen op verpleging in verband met een behoefte aan individueel verpleegkundig toezicht bij thuisbeademing.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling Wlz-indiceerbaren.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 oktober 2014.
 

@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzing experiment zinnig en simpel verantwoorden"
+title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 3 november 2023, kenmerk 3712418-1055833-PZo, inzake het experiment zinnig en simpel verantwoorden in de langdurige zorg"
 identifier: "BWBR0048871"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-11-13
-laatste_update: 2023-11-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048871"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-11-13"
+last_updated: "2023-11-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048871"
+soort: "ministeriele-regeling"
+stam_id: "16911133"
+version_id: "29721552"
+internal_id: "C42596191"
+label_id: "16822564"
+dtd_version: "2.0"
+original_entry_into_force: "2023-11-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048871/2023-11-13/0"
+intitule_bron: "Stcrt.2023-30843"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-11-03"
+intitule_published: "2023-11-13"
+intitule_in_force: "2023-11-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-30843"
+original_signed_date: "2023-11-03"
+original_published_date: "2023-11-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-30843"
+entry_into_force_date: "2023-11-13"
+jci_1_3: "jci1.3:c:BWBR0048871&z=2023-11-13&g=2023-11-13"
+jci_1_0: "1.0:c:BWBR0048871&g=2023-11-13"
+citeertitel_status: "officieel"
+short_title: "Aanwijzing experiment zinnig en simpel verantwoorden"
+signed_date: "2023-11-03"
+entry_into_force: "2023-11-13"
 ---
-
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 3 november 2023, kenmerk 3712418-1055833-PZo, inzake het experiment zinnig en simpel verantwoorden in de langdurige zorg
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -16,7 +42,7 @@ Na op 25 september 2023 schriftelijk mededeling te hebben gedaan aan de Eerste e
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -24,11 +50,11 @@ In deze aanwijzing wordt verstaan onder:
 
 - –. **zorgautoriteit:** Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3).
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Deze aanwijzing is van toepassing op zorg als bedoeld in de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917).
 
-#### Artikel 3. Opdracht experiment
+##### Artikel 3. Opdracht experiment
 
 1. De zorgautoriteit voorziet met ingang van 1 januari 2024, met toepassing van [artikel 58 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=58), in regelgeving voor een experiment inzake zinnig en simpel verantwoorden.
 
@@ -38,7 +64,7 @@ Deze aanwijzing is van toepassing op zorg als bedoeld in de [Wet langdurige zorg
 
 4. De zorgautoriteit kan het aantal experimenten alsmede de experimentonderwerpen met het oog op de uitvoerbaarheid en beheersbaarheid beperken.
 
-#### Artikel 4. Uitgangspunten experiment
+##### Artikel 4. Uitgangspunten experiment
 
 De zorgautoriteit neemt bij de vaststelling van de regelgeving voor het experiment als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048871&artikel=3&z=2023-11-13&g=2023-11-13) de volgende uitgangspunten in acht:
 
@@ -60,15 +86,15 @@ De zorgautoriteit neemt bij de vaststelling van de regelgeving voor het experime
 
 - i. De zorgautoriteit behoudt zich het recht voor een experiment, indien en voor zover het haar bevoegdheidsdomein betreft, onmiddellijk te beëindigen indien een experiment naar haar oordeel niet meer voldoet aan één van de bovengenoemde uitgangspunten en informeert mij hier onmiddellijk over.
 
-#### Artikel 5. Looptijd
+##### Artikel 5. Looptijd
 
 Het experiment heeft een looptijd van maximaal vijf jaar en eindigt uiterlijk op 1 januari 2029.
 
-#### Artikel 6. Evaluatie experiment
+##### Artikel 6. Evaluatie experiment
 
 De zorgautoriteit evalueert de effecten van het experiment als bedoeld in het [zesde lid van artikel 58 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=58).
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze aanwijzing wordt aangehaald als: Aanwijzing experiment zinnig en simpel verantwoorden.
 

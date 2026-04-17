@@ -1,13 +1,39 @@
 ---
-title: "Instellingsbesluit Rijksalarmcentrale (RAC)"
+title: "Instellingsbesluit van de Minister van Justitie en de Minister van BZK aangaande de Rijksalarmcentrale (Rac)"
 identifier: "BWBR0023694"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2007-03-28
-laatste_update: 2007-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023694"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2007-03-28"
+last_updated: "2007-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023694"
+soort: "ministeriele-regeling"
+stam_id: "9460173"
+version_id: "15233912"
+internal_id: "C29399661"
+label_id: "9437654"
+dtd_version: "2.0"
+original_entry_into_force: "2007-03-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023694/2007-03-28/0"
+intitule_bron: "Stcrt.2008-61"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-01-22"
+intitule_published: "2008-03-28"
+intitule_in_force: "2008-03-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-61"
+original_signed_date: "2008-01-22"
+original_published_date: "2008-03-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-61-p21-SC85086"
+entry_into_force_date: "2007-03-28"
+jci_1_3: "jci1.3:c:BWBR0023694&z=2007-03-28&g=2007-03-28"
+jci_1_0: "1.0:c:BWBR0023694&g=2007-03-28"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Rijksalarmcentrale (RAC)"
+signed_date: "2008-01-22"
+entry_into_force: "2007-03-28"
 ---
-
 # Instellingsbesluit van de Minister van Justitie en de Minister van BZK aangaande de Rijksalarmcentrale (Rac)
 
 Overwegende dat:
@@ -24,11 +50,11 @@ Overwegende dat:
 
 Besluiten:
 
-#### Artikel 1. Rijks Alarm Centrale
+##### Artikel 1. Rijks Alarm Centrale
 
 Er is een Rijks Alarm Centrale (RAC), die deel uitmaakt van het Korps landelijke politiediensten (KLPD).
 
-#### Artikel 2. Doelstelling en reikwijdte RAC
+##### Artikel 2. Doelstelling en reikwijdte RAC
 
 1. De RAC is de ontvangstcentrale voor alarmeringen met betrekking tot personen, objecten of informatie, waarvoor de rijksoverheid een bijzondere (veiligheids)verantwoordelijkheid kent.
 
@@ -36,7 +62,7 @@ Er is een Rijks Alarm Centrale (RAC), die deel uitmaakt van het Korps landelijke
 
 3. Aan de leden van de rechterlijke macht en politieambtenaren als bedoeld in [artikel 3 van de Politiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3), worden in het kader van preventieve informatiebeveiliging slechts aansluitingen op de RAC verstekt, indien zij voldoen aan de – door de stuurgroep goedgekeurde – vereiste criteria.
 
-#### Artikel 3. Rac-stuurgroep
+##### Artikel 3. Rac-stuurgroep
 
 1. Er is een RAC-stuurgroep, onder voorzitterschap van de NCTb, waarvan de volgende personen deel uitmaken, danwel door hen aangewezen vertegenwoordigers:
 
@@ -60,7 +86,7 @@ Er is een Rijks Alarm Centrale (RAC), die deel uitmaakt van het Korps landelijke
 
 4. In het geval er onduidelijkheid bestaat over de beslissingsbevoegdheid ten aanzien van de aansluiting van een persoon of object op de RAC, wordt deze beslissing door de voorzitter van de stuurgroep genomen, nadat deze de overige leden van de stuurgroep heeft gehoord.
 
-#### Artikel 4. Begroting en Verantwoording
+##### Artikel 4. Begroting en Verantwoording
 
 In het kader van het verantwoordingsstramien van het KLPD aan de beheerder legt het KLPD:
 
@@ -68,7 +94,7 @@ In het kader van het verantwoordingsstramien van het KLPD aan de beheerder legt 
 
 - –. uiterlijk aan het einde van het eerste kwartaal volgend op het jaar waarin de kosten daadwerkelijk zijn gemaakt, verantwoording af aan de RAC-stuurgroep over de gemaakte kosten door middel van een specificatie in de jaarrekening KLPD.
 
-#### Artikel 5. Financiering
+##### Artikel 5. Financiering
 
 1. De RAC wordt centraal gefinancierd.
 
@@ -76,14 +102,14 @@ In het kader van het verantwoordingsstramien van het KLPD aan de beheerder legt 
 
 3. Onder de RAC-gelden vallen niet de benodigde financiën op de klantlocatie, te weten: het het aanbrengen/installeren en alle daarmee verband houdende exploitatielasten van de installatie en de huur van data/ISDN-lijnen.
 
-#### Artikel 6. Publicatie
+##### Artikel 6. Publicatie
 
 Dit besluit zal worden gepubliceerd in de Staatscourant.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Dit besluit treedt in werking met terugwerkende kracht met ingang van 1 januari 2007.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Dit besluit wordt aangehaald als Instellingsbesluit Rijksalarmcentrale (RAC).

@@ -1,20 +1,45 @@
 ---
 title: "Beleidsregels UWV normbedragen voorzieningen 2014"
 identifier: "BWBR0034890"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2014-07-10
-laatste_update: 2014-07-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034890"
+country: "nl"
+rank: "zbo"
+publication_date: "2014-07-10"
+last_updated: "2014-07-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034890"
+soort: "zbo"
+stam_id: "12594853"
+version_id: "21262752"
+internal_id: "C30535061"
+label_id: "12565394"
+dtd_version: "2.0"
+original_entry_into_force: "2014-03-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034890/2014-07-10/0"
+intitule_bron: "Stcrt.2014-6743"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-12-20"
+intitule_published: "2014-03-11"
+intitule_in_force: "2014-03-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-6743"
+original_signed_date: "2013-12-20"
+original_published_date: "2014-03-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-6743"
+entry_into_force_date: "2014-03-12"
+jci_1_3: "jci1.3:c:BWBR0034890&z=2014-07-10&g=2014-07-10"
+jci_1_0: "1.0:c:BWBR0034890&g=2014-07-10"
+citeertitel_status: "officieel"
+signed_date: "2013-12-20"
+entry_into_force: "2014-03-12"
 ---
-
 # Beleidsregels UWV normbedragen voorzieningen 2014
 
 Besluit:
 
 ### Hoofdstuk 1. Wettelijk kader
 
-#### Artikel 1. Wettelijk kader
+##### Artikel 1. Wettelijk kader
 
 De normbedragen voor voorzieningen, als bedoeld in:
 
@@ -30,7 +55,7 @@ De normbedragen voor voorzieningen, als bedoeld in:
 
 worden vastgesteld op de bedragen, genoemd in de bijlage bij dit Besluit.
 
-#### Artikel 2. Algemene begrippen
+##### Artikel 2. Algemene begrippen
 
 In dit besluit wordt verstaan onder:
 
@@ -54,13 +79,13 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Vervoersvoorzieningen
 
-#### Artikel 3. Kilometervergoeding
+##### Artikel 3. Kilometervergoeding
 
 1. De kilometervergoedingen volgens de normbedragen C221De codes verwijzen naar de codelijst zoals opgenomen in de Bijlage bij deze Beleidsregels, C25-I en C25-V worden verstrekt op basis van de woon- werkafstand of woon-schoolafstand, volgens de ANWB-routeplanner ‘snelste route’, op basis van volledige postcodes en per enkele reis afgerond naar boven.
 
 2. De aftrek van de eigen bijdrage, genoemd in de normbedragen C26-I en C26-II, wordt op dezelfde wijze vastgesteld als in het eerste lid.
 
-#### Artikel 4. Taxikostenvergoeding
+##### Artikel 4. Taxikostenvergoeding
 
 1. Vergoeding volgens het normbedrag C31 wordt verstrekt als de cliënt niet meer dan 100 meter kan lopen en voor iedere verplaatsing buitenshuis gebruik moet maken van een taxi.
 
@@ -68,7 +93,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 3. Tolken gebarentaal, schrijftolken, communicatie-assistenten en overige dienstverleners van intermediaire activiteiten
 
-#### Artikel 5. Uurvergoeding tolken en overige dienstverleners
+##### Artikel 5. Uurvergoeding tolken en overige dienstverleners
 
 1. De uurvergoeding volgens de normbedragen E17-I en E17-III wordt uitsluitend verstrekt voor feitelijke dienstverlening en bij een minimale inzet van:
 
@@ -94,7 +119,7 @@ Afronding van de te vergoeden getolkte tijd vindt per opdracht en locatie per et
 |   |   |   |
 | Opdrachten buitenland: | alle dagen,uren en tijdstippen: | 100% |
 
-#### Artikel 6. Specifieke regels voor opdrachten in het onderwijs
+##### Artikel 6. Specifieke regels voor opdrachten in het onderwijs
 
 1. Voor opdrachten in het onderwijs wordt de uurvergoeding als volgt gedifferentieerd in percentages van de normbedragen E17-I en E17-III.
 
@@ -106,7 +131,7 @@ Afronding van de te vergoeden getolkte tijd vindt per opdracht en locatie per et
 
 2. De in het eerste lid genoemde percentages worden alleen gewijzigd na overleg met het ministerie van OCW.
 
-#### Artikel 7. Reisvergoeding van tolken en overige verleners van intermediaire activiteiten
+##### Artikel 7. Reisvergoeding van tolken en overige verleners van intermediaire activiteiten
 
 1. Onder reisvergoeding wordt verstaan de vergoeding van de gereden kilometers, die als werktijd van de dienstverlener wordt beschouwd, tezamen met de fiscaal toegestane norm onkostenvergoeding per kilometer.
 
@@ -118,7 +143,7 @@ Afronding van de te vergoeden getolkte tijd vindt per opdracht en locatie per et
 
 5. Ten aanzien van cliënten, die doof en blind of doof en zeer slechtziend zijn, geldt geen maximum voor het aantal te reizen kilometers. Het is toegestaan dat de dienstverlener binnen redelijke grenzen extra kilometers rijdt voor het ophalen en/of thuisbrengen van deze cliënt.
 
-#### Artikel 8. Afwijkende vergoeding tolkopdrachten
+##### Artikel 8. Afwijkende vergoeding tolkopdrachten
 
 1. Voor groepsgewijze toepassingen en opdrachten in het buitenland wordt afgeweken van de vergoedingen als bedoeld in [artikel 5 eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034890&hoofdstuk=3&artikel=5&z=2014-07-10&g=2014-07-10), en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034890&hoofdstuk=3&artikel=7&z=2014-07-10&g=2014-07-10) en wordt op basis van maatwerk een passende vergoeding verstrekt.
 
@@ -146,7 +171,7 @@ De voorwaarden hiervoor zijn:
 
 7. Voor de tolk op afstand als bedoeld in het zesde lid wordt de uurvergoeding E 17-I gehanteerd. Een extra vergoeding van 30% boven de uurvergoeding E 17-1 voor voorbereiding en afronding van de opdracht wordt in aanvulling op de uurvergoeding verstrekt. De tolk op afstand kan naast de uurvergoeding E 17-I ook de reisvergoeding E17-AI in rekening brengen. Beide aanvullende vergoedingen naast de uurvergoeding E 17-1 worden niet verstrekt.
 
-#### Artikel 9. Annulering van tolkopdrachten
+##### Artikel 9. Annulering van tolkopdrachten
 
 1. Een opdracht, die aantoonbaar binnen 24 uur voor het afgesproken tijdstip van uitvoering wordt geannuleerd, wordt voor 50% van de geldende norm vergoed.
 
@@ -158,11 +183,11 @@ De voorwaarden hiervoor zijn:
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Dit besluit wordt aangehaald als: Beleidsregels UWV normbedragen voorzieningen 2014.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2014.
 

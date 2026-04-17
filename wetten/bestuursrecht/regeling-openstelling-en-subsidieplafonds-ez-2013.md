@@ -1,20 +1,46 @@
 ---
-title: "Regeling openstelling en subsidieplafonds EZ 2013"
+title: "Regeling van de Minister van Economische Zaken van 12 december 2012, nr. WJZ/12347494, tot vaststelling van de subsidieplafonds en termijnen van openstelling van EZ-subsidieregelingen (Regeling openstelling en subsidieplafonds EZ 2013)"
 identifier: "BWBR0032500"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-11-29
-laatste_update: 2013-11-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032500"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-11-29"
+last_updated: "2013-11-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032500"
+soort: "ministeriele-regeling"
+stam_id: "11970593"
+version_id: "20621792"
+internal_id: "C29508871"
+label_id: "11942424"
+dtd_version: "2.0"
+original_entry_into_force: "2013-06-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032500/2013-11-29/0"
+intitule_bron: "Stcrt.2012-26512"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-12"
+intitule_published: "2012-12-20"
+intitule_in_force: "2012-12-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-17352"
+original_signed_date: "2013-06-18"
+original_published_date: "2013-07-02"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2013-17352"
+entry_into_force_date: "2013-06-18"
+jci_1_3: "jci1.3:c:BWBR0032500&z=2013-11-29&g=2013-11-29"
+jci_1_0: "1.0:c:BWBR0032500&g=2013-11-29"
+citeertitel_status: "officieel"
+short_title: "Regeling openstelling en subsidieplafonds EZ 2013"
+signed_date: "2013-06-18"
+entry_into_force: "2013-06-18"
 ---
-
 # Regeling van de Minister van Economische Zaken van 12 december 2012, nr. WJZ/12347494, tot vaststelling van de subsidieplafonds en termijnen van openstelling van EZ-subsidieregelingen (Regeling openstelling en subsidieplafonds EZ 2013)
 
 Gelet op [artikel 16 van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=16) en de [artikelen 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=3.9), [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5.5) en [5a.5 van de Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5a.5);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Als perioden in 2013, waarin subsidieaanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; aanvragen moeten zijn ontvangen op de genoemde einddatum vóór 17.00 uur.
 
@@ -140,7 +166,7 @@ Besluit:
 | 5.14 | Subsidieregeling energie en innovatie (smart grids) | 3.10.2 |   |   |   |
 | 5.15 | Subsidieregeling energie en innovatie (smart grids) | 3.10.2 |   |   |   |
 
-#### Artikel 2
+##### Artikel 2
 
 1. Als perioden, waarin subsidieaanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; aanvragen moeten zijn ontvangen op de genoemde einddatum vóór 17.00 uur.
 
@@ -154,7 +180,7 @@ Besluit:
 | **Subsidieregeling energie en innovatie** | **Subsidieregeling energie en innovatie** | **Subsidieregeling energie en innovatie** | **Subsidieregeling energie en innovatie** | **Subsidieregeling energie en innovatie** | **Subsidieregeling energie en innovatie** |
 | 2 | [Subsidieregeling energie en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026952) (fotovoltaïsche zonnepanelen) | 3.11.2 |   | 02-07-2012 t/m 28-12-2013 | 50.882.000 |
 
-#### Artikel 3
+##### Artikel 3
 
 De percentages, bedoeld in [artikel 3.9 van de Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=3.9), bedragen voor de in 2013 aangevraagde subsidies voor innovatiekredieten:
 
@@ -166,17 +192,17 @@ De percentages, bedoeld in [artikel 3.9 van de Subsidieregeling innoveren](https
 
 - d. de opslag voor het terugbetalingsrisico: 3 procent per jaar.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van 1 januari 2013.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling openstelling en subsidieplafonds EZ 2013.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Als perioden, waarin subsidieaanvragen kunnen worden ingediend krachtens de [Subsidieregeling sterktes in innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024881) voor de in kolom 1 genoemde artikelen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 4; aanvragen moeten zijn ontvangen op de genoemde einddatum vóór 17.00 uur.
 
@@ -202,7 +228,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3b
+##### Artikel 3b
 
 1. Als perioden waarin subsidieaanvragen kunnen worden ingediend krachtens de [Subsidieregeling energie en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026952) voor de in kolom 1 genoemde paragrafen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 3; aanvragen moeten zijn ontvangen op de genoemde einddatum vóór 17.00 uur.
 

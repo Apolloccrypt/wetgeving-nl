@@ -1,13 +1,35 @@
 ---
 title: "Mandaatbesluit NVAO 2017"
 identifier: "BWBR0039777"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-09-01
-laatste_update: 2017-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039777"
+country: "nl"
+rank: "zbo"
+publication_date: "2017-09-01"
+last_updated: "2017-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039777"
+soort: "zbo"
+stam_id: "14069613"
+version_id: "24225662"
+internal_id: "C34797161"
+label_id: "14030634"
+dtd_version: "2.0"
+original_entry_into_force: "2017-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039777/2017-09-01/0"
+intitule_bron: "Stcrt.2017-39592"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2017-07-14"
+intitule_in_force: "2017-07-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-39592"
+original_published_date: "2017-07-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-39592"
+entry_into_force_date: "2017-09-01"
+jci_1_3: "jci1.3:c:BWBR0039777&z=2017-09-01&g=2017-09-01"
+jci_1_0: "1.0:c:BWBR0039777&g=2017-09-01"
+citeertitel_status: "officieel"
+entry_into_force: "2017-09-01"
 ---
-
 # Mandaatbesluit NVAO 2017
 
 Gelet op:
@@ -36,7 +58,7 @@ hetgeen wat betreft aanvragen van instellingen gevat in het decreet tot bekracht
 
 Besluit
 
-#### Artikel 1. Mandaat
+##### Artikel 1. Mandaat
 
 1. Het Algemeen Bestuur van de NVAO mandateert de volgende bevoegdheden die verband houden met de besluiten in eerste aanleg op aanvragen bij of krachtens de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) van Nederlandse hoger onderwijsinstellingen alsmede die verband houden met het vaststellen van adviezen bij of krachtens de Wet op het hoger onderwijs en wetenschappelijk onderzoek aan de minister van Onderwijs, Cultuur en Wetenschap respectievelijk de minister van Economische Zaken1Voor zover het betreft het onderwijs en onderzoek op het gebied van landbouw en natuurlijke omgeving., die op diens verzoek in concrete dossiers worden uitgebracht, met uitzondering van de adviezen over het gebruik van de bevoegdheid van de minister om een accreditatie of een toets nieuwe opleiding in te trekken aan het Dagelijks Bestuur van de NVAO:
 
@@ -76,7 +98,7 @@ Besluit
 
 - g. het valideren van Domeinspecifieke leerresultatenkaders.
 
-#### Artikel 2. Ondermandaat
+##### Artikel 2. Ondermandaat
 
 1. Het Dagelijks Bestuur van de NVAO mandateert met instemming van het Algemeen Bestuur zijn ingevolge [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039777&artikel=1&z=2017-09-01&g=2017-09-01), gemandateerde bevoegdheden aan de Directeur Nederland dan wel diens plaatsvervanger die het Dagelijks Bestuur geschikt acht voor afhandeling in een vereenvoudigde procedure met uitzondering van:
 
@@ -96,18 +118,18 @@ Besluit
 
 3. Het Dagelijks Bestuur wijst een plaatsvervanger voor de directeur Nederland aan.
 
-#### Artikel 3. Vermelding bestuursorgaan
+##### Artikel 3. Vermelding bestuursorgaan
 
 Bij de uitoefening van de bevoegdheid brengt de (onder)gemandateerde in alle gevallen tot uitdrukking dat besloten wordt namens de NVAO.
 
-#### Artikel 4. Slotbepaling
+##### Artikel 4. Slotbepaling
 
 De regeling van 1 januari 2010 betreffende de omschrijving van sommige werkingsaspecten van de NVAO treedt terug, voor zover het Mandaatbesluit NVAO 2017 een regeling bevat.
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 september 2017 en wordt met toelichting in de Staatscourant gepubliceerd.
 
-#### Artikel 6. Citeertitel
+##### Artikel 6. Citeertitel
 
 Dit besluit wordt aangehaald als: Mandaatbesluit NVAO 2017.

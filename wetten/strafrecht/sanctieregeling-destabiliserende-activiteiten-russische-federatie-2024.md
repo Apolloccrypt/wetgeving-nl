@@ -1,13 +1,39 @@
 ---
-title: "Sanctieregeling destabiliserende activiteiten Russische Federatie 2024"
+title: "Regeling van de Minister van Buitenlandse Zaken van 11 december 2024, nr. BZ2410228, houdende beperkende maatregelen naar aanleiding van destabiliserende activiteiten door de Russische Federatie (Sanctieregeling destabiliserende activiteiten Russische Federatie 2024)"
 identifier: "BWBR0050553"
-categorie: "Strafrecht"
-publicatiedatum: 2025-04-01
-laatste_update: 2025-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050553"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-04-01"
+last_updated: "2025-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050553"
+soort: "ministeriele-regeling"
+stam_id: "17305973"
+version_id: "30480192"
+internal_id: "C43702711"
+label_id: "17209974"
+dtd_version: "2.0"
+original_entry_into_force: "2024-12-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050553/2025-04-01/0"
+intitule_bron: "Stcrt.2024-41510"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-12-11"
+intitule_published: "2024-12-12"
+intitule_in_force: "2024-12-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-41510"
+original_signed_date: "2024-12-11"
+original_published_date: "2024-12-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-41510"
+entry_into_force_date: "2024-12-13"
+jci_1_3: "jci1.3:c:BWBR0050553&z=2025-04-01&g=2025-04-01"
+jci_1_0: "1.0:c:BWBR0050553&g=2025-04-01"
+citeertitel_status: "officieel"
+short_title: "Sanctieregeling destabiliserende activiteiten Russische Federatie 2024"
+signed_date: "2024-12-11"
+entry_into_force: "2024-12-13"
 ---
-
 # Regeling van de Minister van Buitenlandse Zaken van 11 december 2024, nr. BZ2410228, houdende beperkende maatregelen naar aanleiding van destabiliserende activiteiten door de Russische Federatie (Sanctieregeling destabiliserende activiteiten Russische Federatie 2024)
 
 Handelende in overeenstemming met de Minister van Financiën, de Minister voor Buitenlandse Handel en Ontwikkelingshulp, de Minister van Volkshuisvesting en Ruimtelijke Ordening, de Minister van Economische Zaken, de Minister van Onderwijs, Cultuur en Wetenschap en de Minister van Infrastructuur en Waterstaat;
@@ -16,17 +42,17 @@ Gelet op [Verordening (EU) nr. 2024/2642](32024R2642) van de Raad van de Europes
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder **Verordening (EU) 2024/2642**: [Verordening (EU) 2024/2642](32024R2642) van de Raad van de Europese Unie van 8 oktober 2024 betreffende beperkende maatregelen naar aanleiding van de destabiliserende activiteiten van Rusland (PbEU L 2024/2642).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden te handelen in strijd met de artikelen 2, eerste en tweede lid, 8, eerste lid, en 9, eerste en tweede lid, van [Verordening (EU) 2024/2642](32024R2642).
 
 2. Een verbod als bedoeld in het eerste lid is niet van toepassing in gevallen waarin de artikelen 3, eerste lid, 4, eerste of derde lid, 5, eerste lid, 6, eerste lid, of 7 van [Verordening (EU) 2024/2642](32024R2642) van toepassing is.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De bevoegde autoriteit, bedoeld in de artikelen 3, eerste lid, 4, derde en vierde lid, 5, eerste lid, 6, eerste lid, 7, eerste lid, en 8, eerste lid, van [Verordening (EU) 2024/2642](32024R2642) is de Minister van Financiën voor zover het betreft de vrijgave of beschikbaarstelling van tegoeden of informatie van financiële aard, met dien verstande dat instellingen als bedoeld in [artikel 10, tweede lid, onder a, c, e tot en met j en, voor zover het een bank of elektronischgeldinstelling betreft die cryptoactivadiensten aanbiedt, l, van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10) de informatie, bedoeld in artikel 8, eerste lid, van [Verordening (EU) 2024/2642](32024R2642) verstrekken aan De Nederlandsche Bank en instellingen als bedoeld in artikel 10, tweede lid, onder b, d, k en, voor zover het een andere instelling betreft dan een bank of elektronischgeldinstelling die cryptoactivadiensten aanbiedt, l, van de Sanctiewet 1977 de informatie, bedoeld in artikel 8, eerste lid, van [Verordening (EU) 2024/2642](32024R2642) verstrekken aan de Autoriteit Financiële Markten. De Nederlandsche Bank en de Autoriteit Financiële Markten zijn ten behoeve van de uitvoering van voornoemd artikel 8 bevoegd de ontvangen informatie aan de Minister van Financiën te verstrekken.
 
@@ -54,11 +80,11 @@ In deze regeling wordt verstaan onder **Verordening (EU) 2024/2642**: [Verordeni
 
 - c. of alle autoriteiten of beheerders van registers die bij of krachtens de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) belast zijn met de uitvoering van [Verordening (EU) 2024/2642](32024R2642).
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling wordt aangehaald als: Sanctieregeling destabiliserende activiteiten Russische Federatie 2024.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 

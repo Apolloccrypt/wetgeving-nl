@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling verbinding po-vo"
+title: "Regeling van de Minister voor Primair en Voortgezet Onderwijs van 5 februari 2024, nr. 43729265, houdende regels voor subsidieverstrekking ten behoeve van de verbetering van de verbinding tussen het primair en voortgezet onderwijs (Subsidieregeling verbinding po-vo)"
 identifier: "BWBR0049346"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-04-27
-laatste_update: 2024-04-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049346"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-04-27"
+last_updated: "2024-04-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049346"
+soort: "ministeriele-regeling"
+stam_id: "17026403"
+version_id: "29957772"
+internal_id: "C42944851"
+label_id: "16936094"
+dtd_version: "2.0"
+original_entry_into_force: "2024-02-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049346/2024-04-27/0"
+intitule_bron: "Stcrt.2024-4474"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-02-05"
+intitule_published: "2024-02-09"
+intitule_in_force: "2024-02-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-4474"
+original_signed_date: "2024-02-05"
+original_published_date: "2024-02-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-4474"
+entry_into_force_date: "2024-02-10"
+jci_1_3: "jci1.3:c:BWBR0049346&z=2024-04-27&g=2024-04-27"
+jci_1_0: "1.0:c:BWBR0049346&g=2024-04-27"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling verbinding po-vo"
+signed_date: "2024-02-05"
+entry_into_force: "2024-02-10"
 ---
-
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 5 februari 2024, nr. 43729265, houdende regels voor subsidieverstrekking ten behoeve van de verbetering van de verbinding tussen het primair en voortgezet onderwijs (Subsidieregeling verbinding po-vo)
 
 Gelet op [artikel 71 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=71), [artikel 67 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=67), [artikel 5.11 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.11) en [artikel 71 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=71);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -42,11 +68,11 @@ In deze regeling wordt verstaan onder:
 
 - **vo-school:** uit ’s Rijks kas bekostigde school als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1).
 
-#### Artikel 2. Toepassing Kaderregeling subsidies OCW, SZW en VWS
+##### Artikel 2. Toepassing Kaderregeling subsidies OCW, SZW en VWS
 
 Deze regeling geldt in aanvulling op de Kaderregeling subsidies OCW, SZW en VWS.
 
-#### Artikel 3. Doel van de regeling en te subsidiëren activiteiten
+##### Artikel 3. Doel van de regeling en te subsidiëren activiteiten
 
 1. De minister kan op grond van deze regeling subsidie verstrekken met als doel scholen te stimuleren om actiever samen te werken, teneinde de doorstroom van het primair onderwijs naar het voortgezet onderwijs te versoepelen.
 
@@ -56,7 +82,7 @@ Deze regeling geldt in aanvulling op de Kaderregeling subsidies OCW, SZW en VWS.
 
 - b. het uitvoeren van de afspraken in het verbindingsplan in de schooljaren 2025–2026 en 2026–2027.
 
-#### Artikel 4. Coalitievorming
+##### Artikel 4. Coalitievorming
 
 1. Een coalitie bestaat uit vestigingen van ten minste twee po-scholen en één vo-school.
 
@@ -64,11 +90,11 @@ Deze regeling geldt in aanvulling op de Kaderregeling subsidies OCW, SZW en VWS.
 
 3. Deelname van dezelfde combinaties van po-scholen en vo-scholen aan meer dan één coalitie is niet toegestaan.
 
-#### Artikel 5. Subsidieplafond
+##### Artikel 5. Subsidieplafond
 
 Voor subsidieverstrekking op grond van deze regeling is in totaal een bedrag van € 61.200.000 beschikbaar.
 
-#### Artikel 6. Penvoerderschap
+##### Artikel 6. Penvoerderschap
 
 1. De subsidie wordt verstrekt aan en verantwoord door de penvoerder.
 
@@ -76,7 +102,7 @@ Voor subsidieverstrekking op grond van deze regeling is in totaal een bedrag van
 
 3. De penvoerder is verantwoordelijk voor het informeren van de bevoegde gezagsorganen van de betrokken scholen in de coalitie over de verplichtingen, bedoeld in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=11&z=2024-04-27&g=2024-04-27) en [artikel 14, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=14&z=2024-04-27&g=2024-04-27).
 
-#### Artikel 7. Aanvraag
+##### Artikel 7. Aanvraag
 
 1. De subsidieaanvraag kan door de penvoerder worden ingediend van 14 februari 2024 tot en met 13 maart 2024.
 
@@ -90,7 +116,7 @@ Voor subsidieverstrekking op grond van deze regeling is in totaal een bedrag van
 
 3. Bij de aanvraag wordt een samenwerkingsverklaring gevoegd, die is opgesteld met gebruikmaking van het model dat daartoe is bekendgemaakt op de website [www.dus-i.nl](onbekend). De samenwerkingsverklaring bevat een ondertekende verklaring van het bevoegd gezag van elke school die deelneemt aan de coalitie dat de penvoerder gemachtigd is om hen in het kader van de subsidieverstrekking in en buiten rechte te vertegenwoordigen, en dat alle gegevens die noodzakelijk zijn voor de verantwoording door de penvoerder van de besteding van de subsidie, op verzoek aan de penvoerder worden verstrekt.
 
-#### Artikel 8. Inhoud verbindingsplan
+##### Artikel 8. Inhoud verbindingsplan
 
 1. In het verbindingsplan, bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=3&z=2024-04-27&g=2024-04-27), worden in ieder geval afspraken gemaakt over:
 
@@ -124,7 +150,7 @@ Voor subsidieverstrekking op grond van deze regeling is in totaal een bedrag van
 
 - d. indien gekozen wordt voor inzet op het onderwerp, bedoeld in het tweede lid, onderdeel d: het aanbieden van vaardigheden op de po-school die van belang zijn binnen het vo, vooruitlopend op en in afstemming met het aanbod hiervan op de vo-school.
 
-#### Artikel 9. Omvang en besteding subsidie
+##### Artikel 9. Omvang en besteding subsidie
 
 1. Het door een coalitie voor de gehele subsidieperiode te ontvangen subsidiebedrag wordt berekend door het aantal deelnemende po-, vo- en so-scholen in de coalitie met € 60.000 te vermenigvuldigen en door het aantal leerlingen, bedoeld in[artikel 7, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=7&z=2024-04-27&g=2024-04-27), te vermenigvuldigen met € 225. In afwijking van de vorige volzin wordt het subsidiebedrag, indien een po-school deelneemt aan twee coalities, berekend door het aantal leerlingen, bedoeld in artikel 7, tweede lid, onderdeel b, van de betreffende po-school te vermenigvuldigen met € 112,50.
 
@@ -132,7 +158,7 @@ Voor subsidieverstrekking op grond van deze regeling is in totaal een bedrag van
 
 3. Als de activiteiten zijn uitgevoerd en aan de verplichtingen is voldaan, kan het niet aangewende deel van de subsidie worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
-#### Artikel 10. Wijze van verdeling beschikbare middelen
+##### Artikel 10. Wijze van verdeling beschikbare middelen
 
 1. Indien het voor subsidieverstrekking beschikbare bedrag, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=5&z=2024-04-27&g=2024-04-27), ontoereikend is om alle daarvoor in aanmerking komende aanvragen toe te wijzen, wordt voorrang verleend aan de aanvragen voor scholen in Caribisch Nederland.
 
@@ -148,7 +174,7 @@ Voor subsidieverstrekking op grond van deze regeling is in totaal een bedrag van
 
 5. Indien niet genoeg middelen resteren om aanvragen met een gelijke definitieve rangschikking, als bedoeld in de eerste volzin van het tweede lid, te honoreren, dan wordt er tussen deze aanvragen geloot.
 
-#### Artikel 11. Verplichtingen subsidie
+##### Artikel 11. Verplichtingen subsidie
 
 1. De penvoerder zendt voor 1 februari 2025 een verbindingsplan aan DUS-I, dat voldoet aan het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=8&z=2024-04-27&g=2024-04-27).
 
@@ -158,11 +184,11 @@ Voor subsidieverstrekking op grond van deze regeling is in totaal een bedrag van
 
 4. De coalities werken mee aan door of namens de minister ingestelde onderzoeken die erop gericht zijn de minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van het door of namens de minister te voeren beleid.
 
-#### Artikel 12. Inzet externe partijen
+##### Artikel 12. Inzet externe partijen
 
 In het verbindingsplan wordt opgenomen op welke wijze gebruik gemaakt wordt van externe partijen bij de uitvoering van de afspraken, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=8&z=2024-04-27&g=2024-04-27).
 
-#### Artikel 13. Beoordeling en weigeringsgronden
+##### Artikel 13. Beoordeling en weigeringsgronden
 
 1. De minister meldt de penvoerder uiterlijk op 30 april 2025 of het verbindingsplan, bedoeld in [artikel 3 tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=3&z=2024-04-27&g=2024-04-27), voldoet aan de daaraan gestelde voorwaarden bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=8&z=2024-04-27&g=2024-04-27).
 
@@ -170,7 +196,7 @@ In het verbindingsplan wordt opgenomen op welke wijze gebruik gemaakt wordt van 
 
 3. Indien het aangepaste verbindingsplan, bedoeld in het tweede lid, niet voldoet aan de gestelde voorwaarden, wordt de subsidie lager vastgesteld.
 
-#### Artikel 14. Verlening, vaststelling en verantwoording
+##### Artikel 14. Verlening, vaststelling en verantwoording
 
 1. Subsidie op grond van deze regeling wordt binnen 13 weken na sluiting van de aanvraagperiode verleend. De minister verstrekt ambtshalve een voorschot van 100%. Het voorschot wordt in drie gelijke delen uitbetaald over de jaren 2024, 2025 en 2026.
 
@@ -186,17 +212,17 @@ In het verbindingsplan wordt opgenomen op welke wijze gebruik gemaakt wordt van 
 
 7. In afwijking van [artikel 9.1, vierde lid onderdeel a, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=9.1), stelt de minister de subsidie ambtshalve vast binnen een jaar na indiening van de jaarverslaggeving over het laatste jaar van de activiteitenperiode.
 
-#### Artikel 15. Hardheidsclausule
+##### Artikel 15. Hardheidsclausule
 
 De minister kan de bepalingen in deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat deze regeling beoogt te beschermen zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 16. Inwerkingtreding en vervaldatum
+##### Artikel 16. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2029.
 
-#### Artikel 17. Citeertitel
+##### Artikel 17. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling verbinding po-vo.
 

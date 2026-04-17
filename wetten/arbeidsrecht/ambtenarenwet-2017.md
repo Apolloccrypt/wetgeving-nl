@@ -1,14 +1,39 @@
 ---
-title: "Ambtenarenwet 2017"
+title: "Wet van 12 december 1929, houdende regelen betreffende den rechtstoestand van ambtenaren"
 identifier: "BWBR0001947"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0001947"
+country: "nl"
+rank: "wet"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001947"
+soort: "wet"
+stam_id: "1242473"
+version_id: "25831732"
+internal_id: "C37233371"
+label_id: "1204814"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001947/2025-07-01/0"
+intitule_bron: "Stb.1929-530"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1929-12-12"
+intitule_status: "goed"
+original_publication: "Stb.2017-123"
+original_signed_date: "2017-03-09"
+original_published_date: "2017-03-28"
+original_effect: "structuurwijziging"
+original_dossier: "32550"
+original_url_id: "stb-2017-123"
+entry_into_force_date: "2020-01-01"
+jci_1_3: "jci1.3:c:BWBR0001947&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0001947&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Ambtenarenwet 2017"
+signed_date: "2017-03-09"
+entry_into_force: "2020-01-01"
 ---
-
-# Ambtenarenwet 2017
+# Wet van 12 december 1929, houdende regelen betreffende den rechtstoestand van ambtenaren
 
 Allen, die deze zullen zien of hooren lezen, salut! doen te weten:
 
@@ -18,13 +43,13 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 ## Titel I. Algemeene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Ambtenaar in de zin van deze wet is degene die krachtens een arbeidsovereenkomst naar Nederlands recht met een overheidswerkgever werkzaam is.
 
 2. Ambtenaar is tevens degene die met een overheidswerkgever is overeengekomen zonder aanspraak op loon als bedoeld in [artikel 610 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610) een functie te vervullen die is aangewezen bij algemene maatregel van bestuur, waarvan de voordracht geschiedt door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Overheidswerkgever in de zin van deze wet zijn:
 
@@ -62,7 +87,7 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 - g. de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO, genoemd in [artikel 3, eerste lid, van de TNO-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003906&artikel=3).
 
-#### Artikel 3
+##### Artikel 3
 
 Een overheidswerkgever sluit geen arbeidsovereenkomst met:
 
@@ -108,7 +133,7 @@ Een overheidswerkgever sluit geen arbeidsovereenkomst met:
 
 - f. de ambtenaren van de politie, bedoeld in [artikel 2 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), en de plaatsvervanger van de directeur van de Politieacademie, bedoeld in [artikel 76, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=76).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een overheidswerkgever voert een integriteitsbeleid dat is gericht op het bevorderen van goed ambtelijk handelen en dat in ieder geval aandacht besteedt aan het bevorderen van integriteitsbewustzijn en aan het voorkomen van misbruik van bevoegdheden, belangenverstrengeling en discriminatie.
 
@@ -120,7 +145,7 @@ Een overheidswerkgever sluit geen arbeidsovereenkomst met:
 
 5. Bij algemene maatregel van bestuur kunnen nadere regels worden vastgesteld met betrekking tot het derde lid.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een overheidswerkgever draagt zorg voor:
 
@@ -136,17 +161,17 @@ Een overheidswerkgever sluit geen arbeidsovereenkomst met:
 
 2. Bij algemene maatregel van bestuur kunnen nadere regels worden vastgesteld met betrekking tot het bepaalde in het eerste lid.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De ambtenaar is gehouden de bij of krachtens de wet op hem rustende en uit zijn functie voortvloeiende verplichtingen te vervullen en zich ook overigens te gedragen zoals een goed ambtenaar betaamt.
 
 2. Het niet naleven van het eerste lid geldt voor de toepassing van het Burgerlijk Wetboek als een tekortkoming in het nakomen van de plichten welke de arbeidsovereenkomst aan de ambtenaar oplegt.
 
-#### Artikel 7
+##### Artikel 7
 
 De ambtenaar legt een eed of belofte af, overeenkomstig een bij algemene maatregel van bestuur vastgesteld formulier, dat voor verschillende functies verschillend kan zijn.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het is de ambtenaar niet toegestaan:
 
@@ -168,11 +193,11 @@ De ambtenaar legt een eed of belofte af, overeenkomstig een bij algemene maatreg
 
 3. Bij algemene maatregel van bestuur kunnen regels worden gesteld over de toepassing van het eerste en tweede lid.
 
-#### Artikel 9
+##### Artikel 9
 
 De ambtenaar en de gewezen ambtenaar zijn verplicht tot geheimhouding van hetgeen hen in verband met hun functie ter kennis is gekomen, voor zover die verplichting uit de aard der zaak volgt.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De ambtenaar onthoudt zich van het openbaren van gedachten of gevoelens of van de uitoefening van het recht tot vereniging, tot vergadering en tot betoging, indien door de uitoefening van deze rechten de goede vervulling van zijn functie of de goede functionering van de openbare dienst, voor zover deze in verband staat met zijn functievervulling, niet in redelijkheid zou zijn verzekerd.
 
@@ -182,11 +207,11 @@ De ambtenaar en de gewezen ambtenaar zijn verplicht tot geheimhouding van hetgee
 
 - b. een vakvereniging.
 
-#### Artikel 11
+##### Artikel 11
 
 De ambtenaar is verplicht tijdens het verblijf op zijn werk zich te onderwerpen aan een in het belang van de dienst door de overheidswerkgever gelast onderzoek aan zijn lichaam of aan zijn kleding of van zijn daar aanwezige goederen. De overheidswerkgever op wiens last het onderzoek plaatsheeft, neemt de nodige maatregelen ten einde daarbij een onredelijke of onbehoorlijke bejegening te voorkomen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Voor de vervulling van een vertrouwensfunctie komt slechts in aanmerking degene die Nederlander is. Degene die geen Nederlander is, kan niettemin in aanmerking komen wanneer het dienstbelang dat bepaaldelijk vordert.
 
@@ -194,7 +219,7 @@ De ambtenaar is verplicht tijdens het verblijf op zijn werk zich te onderwerpen 
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld ter zake van het bepaalde in dit artikel.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Bij algemene maatregel van bestuur kunnen voor categorieën van ambtenaren met wie de staat een arbeidsovereenkomst is aangegaan en die uit hoofde van hun functie kennis kunnen nemen van zeer geheime of geheime gegevens betreffende de veiligheid of andere gewichtige belangen van de staat, voorschriften worden gesteld betreffende de verplichtingen waaraan deze ambtenaren zijn onderworpen in verband met het anders dan in de uitoefening van hun functie reizen naar en het verblijven in landen waarin het verblijf door deze ambtenaren een bijzonder risico voor de veiligheid of andere gewichtige belangen van de staat kan opleveren en die er toe strekken dit risico zoveel mogelijk te beperken.
 
@@ -202,7 +227,7 @@ De ambtenaar is verplicht tijdens het verblijf op zijn werk zich te onderwerpen 
 
 3. Een algemene maatregel van bestuur als bedoeld in het eerste lid treedt niet eerder in werking dan twee maanden na de datum van uitgifte van het Staatsblad waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide Kamers der Staten-Generaal.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Met ingang van het tijdstip van inwerkingtreding van [artikel I van de Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393&artikel=I) wordt de aanstelling die voor dat tijdstip is verleend aan een ambtenaar als bedoeld in artikel 1, eerste lid, van de Ambtenarenwet, die op het tijdstip van inwerkingtreding van artikel I van de Wet normalisering rechtspositie ambtenaren aanspraak had op bezoldiging als bedoeld in artikel 115 van de Ambtenarenwet die kwalificeert als loon in de zin van [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610) van rechtswege omgezet in een arbeidsovereenkomst naar burgerlijk recht. Van de arbeidsovereenkomst maken deel uit de op dat tijdstip ten aanzien van de ambtenaar bestaande beslissingen, afspraken en toezeggingen inzake zijn arbeidsvoorwaarden, waaronder in ieder geval zijn begrepen: duur van het dienstverband, bezoldiging, werktijden, rooster, verlof, faciliteiten voor de uitoefening van de functie en studiefaciliteiten.
 
@@ -212,23 +237,23 @@ De ambtenaar is verplicht tijdens het verblijf op zijn werk zich te onderwerpen 
 
 4. De voorgaande leden zijn niet van toepassing op personen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=1&artikel=3&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 14a
+##### Artikel 14a
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 1. [Artikel 5:6, eerste lid, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:6) is van toepassing in geval de ambtenaar voorafgaande aan het tijdstip van inwerkingtreding van [artikel I van de Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393&artikel=I) wegens de aard van de arbeid op regelmatige basis op zondag werkzaam was, ongeacht de aanwezigheid van een beding over die arbeid op zondag.
 
 2. De ambtenaar die op het in het eerste lid bedoelde tijdstip is benoemd of gekozen in een functie als bedoeld in artikel 125c, eerste of tweede lid, zoals dat luidde voorafgaand aan dat tijdstip, behoudt de verleende ontheffing van de waarneming van zijn ambt onderscheidenlijk het verleende buitengewoon verlof. Ingeval op de bezoldiging een inhouding wordt toegepast over de tijd dat hij verlof geniet, blijven deze inhouding en de daarop van toepassing zijnde regels van kracht.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Krachtens deze wet genomen besluiten die zijn genomen voorafgaand aan het tijdstip van inwerkingtreding van [artikel I van de Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393&artikel=I), behouden hun geldigheid.
 
 2. Ten aanzien van de mogelijkheid om bezwaar te maken of beroep in te stellen alsmede de behandeling van zodanig bezwaar of beroep tegen een op grond van deze wet genomen besluit of handeling dat voor het in het eerste lid bedoelde tijdstip is bekendgemaakt, blijft het recht van toepassing zoals dat gold voor dat tijdstip.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De krachtens deze wet en [artikel 15, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=15), zoals deze luidden voorafgaand aan het tijdstip van inwerkingtreding van [artikel I van de Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393&artikel=I), vastgestelde algemeen verbindende voorschriften vervallen.
 
@@ -238,433 +263,433 @@ Vervallen
 
 4. Het eerste tot en met derde lid zijn niet van toepassing op algemeen verbindende voorschriften, voor zover zij betrekking hebben op de rechtspositie van degenen met wie op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&paragraaf=1&artikel=3&z=2025-07-01&g=2025-07-01) geen arbeidsovereenkomst wordt gesloten.
 
-#### Artikel 18
+##### Artikel 18
 
 Deze wet wordt aangehaald als: Ambtenarenwet 2017.
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 22a
+##### Artikel 22a
 
 Vervallen
 
-#### Artikel 22b
+##### Artikel 22b
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 23a
+##### Artikel 23a
 
 Vervallen
 
-#### Artikel 23b
+##### Artikel 23b
 
 Vervallen
 
-#### Artikel 23c
+##### Artikel 23c
 
 Vervallen
 
-#### Artikel 23d
+##### Artikel 23d
 
 Vervallen
 
-#### Artikel 23e
+##### Artikel 23e
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 
-#### Artikel 35
+##### Artikel 35
 
 Vervallen
 
-#### Artikel 36
+##### Artikel 36
 
 Vervallen
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
-#### Artikel 38
+##### Artikel 38
 
 Vervallen
 
-#### Artikel 39
+##### Artikel 39
 
 Vervallen
 
-#### Artikel 40
+##### Artikel 40
 
 Vervallen
 
-#### Artikel 41
+##### Artikel 41
 
 Vervallen
 
-#### Artikel 42
+##### Artikel 42
 
 Vervallen
 
-#### Artikel 43
+##### Artikel 43
 
 Vervallen
 
-#### Artikel 44
+##### Artikel 44
 
 Vervallen
 
-#### Artikel 45
+##### Artikel 45
 
 Vervallen
 
-#### Artikel 46
+##### Artikel 46
 
 Vervallen
 
-#### Artikel 47
+##### Artikel 47
 
 Vervallen
 
-#### Artikel 48
+##### Artikel 48
 
 Vervallen
 
-#### Artikel 50
+##### Artikel 50
 
 Vervallen
 
-#### Artikel 51a
+##### Artikel 51a
 
 Vervallen
 
-#### Artikel 52
+##### Artikel 52
 
 Vervallen
 
-#### Artikel 53
+##### Artikel 53
 
 Vervallen
 
-#### Artikel 54
+##### Artikel 54
 
 Vervallen
 
-#### Artikel 55
+##### Artikel 55
 
 Vervallen
 
-#### Artikel 56
+##### Artikel 56
 
 Vervallen
 
-#### Artikel 57
+##### Artikel 57
 
 Vervallen
 
-#### Artikel 58
+##### Artikel 58
 
 Vervallen
 
-#### Artikel 59
+##### Artikel 59
 
 Vervallen
 
-#### Artikel 60
+##### Artikel 60
 
 Vervallen
 
-#### Artikel 61
+##### Artikel 61
 
 Vervallen
 
-#### Artikel 62
+##### Artikel 62
 
 Vervallen
 
-#### Artikel 63
+##### Artikel 63
 
 Vervallen
 
-#### Artikel 64
+##### Artikel 64
 
 Vervallen
 
-#### Artikel 65
+##### Artikel 65
 
 Vervallen
 
-#### Artikel 66
+##### Artikel 66
 
 Vervallen
 
-#### Artikel 67
+##### Artikel 67
 
 Vervallen
 
-#### Artikel 68
+##### Artikel 68
 
 Vervallen
 
-#### Artikel 69
+##### Artikel 69
 
 Vervallen
 
-#### Artikel 70
+##### Artikel 70
 
 Vervallen
 
-#### Artikel 71
+##### Artikel 71
 
 Vervallen
 
-#### Artikel 72
+##### Artikel 72
 
 Vervallen
 
-#### Artikel 73
+##### Artikel 73
 
 Vervallen
 
-#### Artikel 74
+##### Artikel 74
 
 Vervallen
 
-#### Artikel 75
+##### Artikel 75
 
 Vervallen
 
-#### Artikel 76
+##### Artikel 76
 
 Vervallen
 
-#### Artikel 77
+##### Artikel 77
 
 Vervallen
 
-#### Artikel 78
+##### Artikel 78
 
 Vervallen
 
-#### Artikel 79
+##### Artikel 79
 
 Vervallen
 
-#### Artikel 80
+##### Artikel 80
 
 Vervallen
 
-#### Artikel 81
+##### Artikel 81
 
 Vervallen
 
-#### Artikel 82
+##### Artikel 82
 
 Vervallen
 
-#### Artikel 83
+##### Artikel 83
 
 Vervallen
 
-#### Artikel 84
+##### Artikel 84
 
 Vervallen
 
-#### Artikel 85
+##### Artikel 85
 
 Vervallen
 
-#### Artikel 86
+##### Artikel 86
 
 Vervallen
 
-#### Artikel 87
+##### Artikel 87
 
 Vervallen
 
-#### Artikel 88
+##### Artikel 88
 
 Vervallen
 
-#### Artikel 89
+##### Artikel 89
 
 Vervallen
 
-#### Artikel 90
+##### Artikel 90
 
 Vervallen
 
-#### Artikel 91
+##### Artikel 91
 
 Vervallen
 
-#### Artikel 92
+##### Artikel 92
 
 Vervallen
 
-#### Artikel 93
+##### Artikel 93
 
 Vervallen
 
-#### Artikel 94
+##### Artikel 94
 
 Vervallen
 
-#### Artikel 95
+##### Artikel 95
 
 Vervallen
 
-#### Artikel 96
+##### Artikel 96
 
 Vervallen
 
-#### Artikel 97
+##### Artikel 97
 
 Vervallen
 
-#### Artikel 98
+##### Artikel 98
 
 Vervallen
 
-#### Artikel 98a
+##### Artikel 98a
 
 Vervallen
 
-#### Artikel 99
+##### Artikel 99
 
 Vervallen
 
-#### Artikel 100
+##### Artikel 100
 
 Vervallen
 
-#### Artikel 101
+##### Artikel 101
 
 Vervallen
 
-#### Artikel 101a
+##### Artikel 101a
 
 Vervallen
 
-#### Artikel 101b
+##### Artikel 101b
 
 Vervallen
 
-#### Artikel 102
+##### Artikel 102
 
 Vervallen
 
-#### Artikel 103
+##### Artikel 103
 
 Vervallen
 
-#### Artikel 104
+##### Artikel 104
 
 Vervallen
 
-#### Artikel 105
+##### Artikel 105
 
 Vervallen
 
-#### Artikel 106
+##### Artikel 106
 
 Vervallen
 
-#### Artikel 107
+##### Artikel 107
 
 Vervallen
 
-#### Artikel 108
+##### Artikel 108
 
 Vervallen
 
-#### Artikel 109
+##### Artikel 109
 
 Vervallen
 
-#### Artikel 110
+##### Artikel 110
 
 Vervallen
 
-#### Artikel 110a
+##### Artikel 110a
 
 Vervallen
 
-#### Artikel 110b
+##### Artikel 110b
 
 Vervallen
 
-#### Artikel 111
+##### Artikel 111
 
 Vervallen
 
-#### Artikel 112
+##### Artikel 112
 
 Vervallen
 
-#### Artikel 113
+##### Artikel 113
 
 Vervallen
 
-#### Artikel 114
+##### Artikel 114
 
 Vervallen
 
 ## Titel II. Beslag, terugvordering, verrekening en korting
 
-#### Artikel 115
+##### Artikel 115
 
 1. In deze titel wordt verstaan onder bezoldiging:
 
@@ -676,13 +701,13 @@ Vervallen
 
 3. Beslag omvat in deze titel ook de vordering bedoeld in [artikel 19 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=19) (**Stb.** 221).
 
-#### Artikel 116
+##### Artikel 116
 
 1. Op bezoldiging is, voor zover in deze titel niet anders is bepaald, beslag mogelijk overeenkomstig de voorschriften van het gemene recht.
 
 2. Kostenvergoedingen welke verband houden met de dienstverrichting zijn niet vatbaar voor beslag.
 
-#### Artikel 117
+##### Artikel 117
 
 1. Met de door de Staat of de openbare lichamen verschuldigde bezoldiging kan worden verrekend hetgeen de ambtenaar als zodanig aan hen zelf verschuldigd is.
 
@@ -690,7 +715,7 @@ Vervallen
 
 3. Verrekening is slechts in zoverre geldig als een beslag op die bezoldiging geldig zou zijn, met dien verstande dat verrekening van hetgeen wegens genoten huisvesting of voeding is verschuldigd eveneens kan plaatsvinden met dat deel van de bezoldiging dat de beslagvrije voet als bedoeld in [artikel 475**d** van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475d) vormt.
 
-#### Artikel 118
+##### Artikel 118
 
 1. De Staat en de openbare lichamen kunnen op de bezoldiging ten behoeve van een schuldeiser van de ambtenaar een korting toepassen, mits de ambtenaar de vordering van de schuldeiser erkent of het bestaan van de vordering blijkt uit een in kracht van gewijsde gegane rechterlijke uitspraak dan wel uit een authentieke akte.
 
@@ -698,43 +723,43 @@ Vervallen
 
 3. Beslag, faillissement, surséance van betaling en toepassing ten aanzien van de ambtenaar van de schuldsaneringsregeling natuurlijke personen sluiten korting uit.
 
-#### Artikel 119
+##### Artikel 119
 
 Voor de toepassing van de [artikelen 475**b**, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475b), en [475**d** vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475d) worden, onverminderd [artikel 117, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=II&artikel=117&z=2018-07-28&g=2018-07-28), en [artikel 118, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=II&artikel=118&z=2018-07-28&g=2018-07-28), verrekening en korting gelijkgesteld met beslag.
 
-#### Artikel 120
+##### Artikel 120
 
 Indien verscheidene schuldeisers uit hoofde van beslag of korting aanspraak hebben op een deel van de bezoldiging geschiedt de verdeling naar evenredigheid der inschulden, voor zover niet de ene schuldeiser voorrang heeft boven de anderen.
 
-#### Artikel 121
+##### Artikel 121
 
 1. Overdracht, inpandgeving of elke andere handeling, waardoor de ambtenaar enig recht op zijn bezoldiging aan een derde toekent is slechts geldig voor dat deel van de bezoldiging waarop beslag geldig zou zijn.
 
 2. Een volmacht tot voldoening of invordering van de bezoldiging is slechts geldig indien zij schriftelijk is verleend en is steeds herroepelijk.
 
-#### Artikel 122
+##### Artikel 122
 
 Betaling of afgifte aan een gemachtigde, nadat een volmacht tot voldoening of invorderingen van bezoldiging is geëindigd, ontlasten de Staat of het openbare lichaam, indien een gegeven opdracht tot de betaling of afgifte niet meer tijdig kon worden ingetrokken, toen de Staat of het openbare lichaam van het eindigen van de volmacht kennis kreeg.
 
-#### Artikel 123
+##### Artikel 123
 
 Vervallen
 
-#### Artikel 123a
+##### Artikel 123a
 
 Vervallen
 
-#### Artikel 123b
+##### Artikel 123b
 
 Vervallen
 
-#### Artikel 124
+##### Artikel 124
 
 De bepalingen van deze titel vinden overeenkomstige toepassing op de bezoldiging, ingevolge enig algemeen verbindend voorschrift verschuldigd door de Staat of enig openbaar lichaam hier te lande aan personen, die niet zijn ambtenaar, gewezen ambtenaar of nagelaten betrekking van een ambtenaar.
 
 ## Titel III. Bepalingen van materieel recht
 
-#### Artikel 125
+##### Artikel 125
 
 1. Voor zover deze onderwerpen niet reeds bij of krachtens de wet zijn geregeld, worden voor de ambtenaren, door of vanwege het rijk aangesteld, bij of krachtens algemene maatregel van bestuur voorschriften vastgesteld betreffende:
 
@@ -768,7 +793,7 @@ De bepalingen van deze titel vinden overeenkomstige toepassing op de bezoldiging
 
 2. Het bevoegd gezag van provincies, gemeenten en waterschappen stelt voor de ambtenaar door of vanwege deze lichamen aangesteld, onder gelijk voorbehoud voorschriften vast omtrent de onderwerpen, genoemd in het eerste lid. Als ambtenaar aangesteld door of vanwege een waterschap wordt aangemerkt hij die is aangesteld door het in het reglement van die instelling daartoe aangewezen gezag teneinde in dienst van het waterschap werkzaam te zijn.
 
-#### Artikel 125bis
+##### Artikel 125bis
 
 Het is de voorzitter, de leden en de secretaris van commissies als bedoeld in [artikel 125, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-07-28&g=2018-07-28), alsmede hun plaatsvervangers verboden:
 
@@ -778,7 +803,7 @@ Het is de voorzitter, de leden en de secretaris van commissies als bedoeld in [a
 
 - c. over een voor hen aanhangige zaak of over een zaak die naar zij weten of redelijkerwijs kunnen vermoeden voor hen aanhangig zal worden, op enigerlei bijzondere wijze in contact te treden met partijen, hun gemachtigden of hun raadslieden.
 
-#### Artikel 125a
+##### Artikel 125a
 
 1. De ambtenaar dient zich te onthouden van het openbaren van gedachten of gevoelens of van de uitoefening van het recht tot vereniging, tot vergadering en tot betoging, indien door de uitoefening van deze rechten de goede vervulling van zijn functie of de goede functionering van de openbare dienst, voor zover deze in verband staat met zijn functievervulling, niet in redelijkheid zou zijn verzekerd.
 
@@ -790,11 +815,11 @@ Het is de voorzitter, de leden en de secretaris van commissies als bedoeld in [a
 
 3. De ambtenaar is verplicht tot geheimhouding van hetgeen hem in verband met zijn functie ter kennis is gekomen, voor zover die verplichting uit de aard der zaak volgt.
 
-#### Artikel 125b
+##### Artikel 125b
 
 De ambtenaar is niet gehouden tot dienstverrichting op voor hem op grond van zijn godsdienst of levensovertuiging geldende feest- en rustdagen, tenzij het dienstbelang dit onvermijdelijk maakt.
 
-#### Artikel 125c
+##### Artikel 125c
 
 1. Een ambtenaar, die een functie in publiekrechtelijke colleges, waarin hij is benoemd of verkozen, gezien de omvang van de daaruit voortvloeiende werkzaamheden, niet gelijktijdig kan vervullen met zijn ambt, wordt in verband daarmede tijdelijk ontheven van de waarneming van zijn ambt, tenzij het dienstbelang zich tegen ontheffing verzet. Betreffende het doorbetalen van bezoldiging kunnen bij of krachtens algemene maatregel van bestuur voor de door of vanwege het rijk aangestelde ambtenaren, dan wel door het bevoegde gezag der provincies, gemeenten en waterschappen voor de ambtenaren door of vanwege deze lichamen aangesteld, regels worden gesteld.
 
@@ -802,11 +827,11 @@ De ambtenaar is niet gehouden tot dienstverrichting op voor hem op grond van zij
 
 3. Aan de ambtenaar wordt, tenzij het dienstbelang zich tegen verlofverlening verzet, buitengewoon verlof verleend voor aan te wijzen activiteiten van of voor vakorganisaties van overheidspersoneel overeenkomstig regels te stellen bij of krachtens algemene maatregel van bestuur voor de door of vanwege het rijk aangestelde ambtenaren, dan wel door het bevoegde gezag der provinciën, gemeenten en waterschappen voor de ambtenaren door of vanwege deze lichamen aangesteld.
 
-#### Artikel 125d
+##### Artikel 125d
 
 De ambtenaar is verplicht tijdens het verblijf op zijn werk zich te onderwerpen aan een in het belang van de dienst door het bevoegde gezag gelast onderzoek aan zijn lichaam of aan zijn kleding of van zijn daar aanwezige goederen. Het bevoegd gezag, op wiens last het onderzoek plaatsheeft, neemt de nodige maatregelen ten einde daarbij een onredelijke of onbehoorlijke bejegening te voorkomen.
 
-#### Artikel 125e
+##### Artikel 125e
 
 1. Voor de vervulling van een vertrouwensfunctie komt slechts in aanmerking degene die Nederlander is. Degene die geen Nederlander is, kan niettemin worden aangesteld wanneer het dienstbelang dat bepaaldelijk vordert.
 
@@ -814,13 +839,13 @@ De ambtenaar is verplicht tijdens het verblijf op zijn werk zich te onderwerpen 
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld ter zake van het bepaalde in dit artikel.
 
-#### Artikel 125f
+##### Artikel 125f
 
 1. Bij algemene maatregel van bestuur kunnen voor categorieën van ambtenaren die door of vanwege het Rijk zijn aangesteld en die uit hoofde van hun functie kennis kunnen nemen van zeer geheime of geheime gegevens betreffende de veiligheid of andere gewichtige belangen van de staat, voorschriften worden gesteld betreffende de verplichtingen waaraan deze ambtenaren zijn onderworpen in verband met het anders dan in de uitoefening van hun functie reizen naar en het verblijven in landen waarin het verblijf door deze ambtenaren een bijzonder risico voor de veiligheid of andere gewichtige belangen van de staat kan opleveren en die er toe strekken dit risico zoveel mogelijk te beperken.
 
 2. Een algemene maatregel van bestuur als bedoeld in het eerste lid treedt niet eerder in werking dan twee maanden na de datum van uitgifte van het **Staatsblad** waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide Kamers der Staten-Generaal.
 
-#### Artikel 125g
+##### Artikel 125g
 
 1. Het bevoegd gezag mag geen onderscheid maken tussen ambtenaren op grond van een verschil in arbeidsduur in de voorwaarden waaronder een aanstelling wordt verleend, verlengd dan wel beëindigd, tenzij een dergelijk onderscheid objectief gerechtvaardigd is.
 
@@ -830,13 +855,13 @@ De ambtenaar is verplicht tijdens het verblijf op zijn werk zich te onderwerpen 
 
 4. Het bevoegd gezag mag de werknemer niet benadelen wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op het bepaalde in het eerste lid of terzake bijstand heeft verleend.
 
-#### Artikel 126
+##### Artikel 126
 
 1. Indien het bevoegd gezag van een waterschap niet of niet naar behoren uitvoering geeft aan [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-07-28&g=2018-07-28) of [artikel 125quinquies](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125quinquies&z=2018-07-28&g=2018-07-28), zijn de [artikelen 121 tot en met 121f van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=121) van overeenkomstige toepassing.
 
 2. [Hoofdstuk XVIII van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&hoofdstuk=XVIII) is van overeenkomstige toepassing ten aanzien van door het bevoegd gezag van een waterschap krachtens [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-07-28&g=2018-07-28) of [artikel 125quinquies](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125quinquies&z=2018-07-28&g=2018-07-28) vastgestelde uitvoeringsvoorschriften.
 
-#### Artikel 127
+##### Artikel 127
 
 1. Voor de ambtenaar die de in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) bedoelde leeftijd heeft bereikt en die is aangesteld in tijdelijke dienst wordt bij voorschriften of regels op grond van [artikel 125, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-07-28&g=2018-07-28), van de Ambtenarenwet en van [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47) bepaald dat die aanstelling als een aanstelling in vaste dienst geldt vanaf de dag waarop:
 
@@ -848,29 +873,29 @@ De ambtenaar is verplicht tijdens het verblijf op zijn werk zich te onderwerpen 
 
 ## Titel IV. Overgangs- en slotbepalingen
 
-#### Artikel 128
+##### Artikel 128
 
 Vervallen
 
 #### § 1. Overgangsbepalingen
 
-#### Artikel 129
+##### Artikel 129
 
 Vervallen
 
-#### Artikel 130
+##### Artikel 130
 
 Vervallen
 
-#### Artikel 131
+##### Artikel 131
 
 Vervallen
 
-#### Artikel 132
+##### Artikel 132
 
 Vervallen
 
-#### Artikel 133
+##### Artikel 133
 
 1. Binnen één jaar na de invoering van [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-07-28&g=2018-07-28) moet aan dit artikel uitvoering zijn gegeven.
 
@@ -878,7 +903,7 @@ Vervallen
 
 #### § 2. Slotbepalingen
 
-#### Artikel 134
+##### Artikel 134
 
 1. Bij of krachtens algemene maatregel van bestuur worden bepalingen vastgesteld betreffende de gevallen waarin en de voorwaarden waaronder door of vanwege het rijk indienstneming op arbeidsovereenkomst naar burgerlijk recht kan plaatshebben. De [artikelen 125**a** tot en met 125**f** van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125a&z=2018-07-28&g=2018-07-28) en [artikel 648 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=648) zijn van overeenkomstige toepassing.
 
@@ -886,21 +911,21 @@ Vervallen
 
 3. Het tweede lid is niet van toepassing op de dienstbetrekking, bedoeld in de [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903).
 
-#### Artikel 135
+##### Artikel 135
 
 Vervallen
 
-#### Artikel 136
+##### Artikel 136
 
 Vervallen
 
-#### Artikel 137
+##### Artikel 137
 
 Deze wet wordt aangehaald als: Ambtenarenwet.
 
 Lasten en bevelen, dat deze met eene indeeling in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 125h
+##### Artikel 125h
 
 1. Het bevoegd gezag mag geen onderscheid maken tussen ambtenaren in de arbeidsvoorwaarden op grond van het al dan niet tijdelijk karakter van de aanstelling, tenzij een dergelijk onderscheid objectief gerechtvaardigd is.
 
@@ -920,11 +945,11 @@ Lasten en bevelen, dat deze met eene indeeling in het **Staatsblad** zal worden 
 
 Lasten en bevelen, dat deze met eene indeeling in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 125ter
+##### Artikel 125ter
 
 Het bevoegd gezag en de ambtenaar zijn verplicht zich als een goed werkgever en een goed ambtenaar te gedragen.
 
-#### Artikel 125quater
+##### Artikel 125quater
 
 Het bevoegd gezag van ambtenaren die door of vanwege het rijk, de provincies, de gemeenten of de waterschappen zijn aangesteld,
 
@@ -936,7 +961,7 @@ Het bevoegd gezag van ambtenaren die door of vanwege het rijk, de provincies, de
 
 - d. stelt in overeenstemming met de Tweede Kamer, onderscheidenlijk provinciale staten, de raad of het algemeen bestuur, vast op welke wijze jaarlijks verantwoording wordt afgelegd over het gevoerde integriteitsbeleid en over de naleving van de gedragscode.
 
-#### Artikel 125quinquies
+##### Artikel 125quinquies
 
 1. Voor zover deze onderwerpen niet bij of krachtens de wet zijn geregeld, worden voor de ambtenaren, door of vanwege het rijk aangesteld, bij of krachtens algemene maatregel van bestuur voorschriften vastgesteld betreffende:
 
@@ -964,7 +989,7 @@ Het bevoegd gezag van ambtenaren die door of vanwege het rijk, de provincies, de
 
 Lasten en bevelen, dat deze met eene indeeling in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 116a
+##### Artikel 116a
 
 Door de Staat of de openbare lichamen onverschuldigd betaalde bezoldiging kan worden teruggevorderd.
 
@@ -978,17 +1003,17 @@ Door de Staat of de openbare lichamen onverschuldigd betaalde bezoldiging kan wo
 
 Lasten en bevelen, dat deze met eene indeeling in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 127a
+##### Artikel 127a
 
 Indien bij voorschriften of regels op grond van [artikel 125, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-07-28&g=2018-07-28), van de Ambtenarenwet of van [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47) een in acht te nemen termijn van opzegging van het dienstverband van de ambtenaar is bepaald, bedraagt die termijn voor de ambtenaar die de in [artikel 127, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=IIIa&artikel=127&z=2018-07-28&g=2018-07-28), bedoelde leeftijd heeft bereikt, een maand.
 
-#### Artikel 127b
+##### Artikel 127b
 
 1. Voor zover in verband met een reorganisatie arbeidsplaatsen vervallen, wordt de ambtenaar die de in [artikel 127, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=IIIa&artikel=127&z=2018-07-28&g=2018-07-28), bedoelde leeftijd heeft bereikt het eerst voor ontslag in aanmerking gebracht. In deze leeftijdsgroep worden vervolgens de ambtenaren met het kortste dienstverband het eerst voor ontslag in aanmerking gebracht.
 
 2. Bij voorschriften of regels op grond van [artikel 125, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-07-28&g=2018-07-28), van de Ambtenarenwet of van [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47) wordt bepaald welke diensttijd wordt meegeteld voor de berekening van de duur van het dienstverband, bedoeld in de tweede volzin van het eerste lid.
 
-#### Artikel 127c
+##### Artikel 127c
 
 1. De ambtenaar die de in [artikel 127, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=IIIa&artikel=127&z=2018-07-28&g=2018-07-28), bedoelde leeftijd heeft bereikt, kan worden ontslagen op grond van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte, indien:
 
@@ -1002,7 +1027,7 @@ Indien de ongeschiktheid wegens ziekte een aanvang heeft genomen voor de datum w
 
 3. Om te beoordelen of sprake is van een situatie als bedoeld in het eerste lid, onderdeel a en b, kan het bevoegd gezag een onderzoek naar en een oordeel over het bestaan van ongeschiktheid tot werken als bedoeld in [artikel 32, zesde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=32) aanvragen.
 
-#### Artikel 127ca
+##### Artikel 127ca
 
 1. In afwijking van de in [artikel 127c, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=IIIa&artikel=127c&z=2018-07-28&g=2018-07-28), genoemde termijn van 6 weken, geldt tot een bij koninklijk besluit te bepalen tijdstip een termijn van dertien weken voor de werknemer die de in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) bedoelde leeftijd heeft bereikt.
 
@@ -1016,7 +1041,7 @@ Indien de ongeschiktheid wegens ziekte een aanvang heeft genomen voor de datum w
 
 - b. acht weken zijn verstreken nadat het voornemen tot het vaststellen van dat tijdstip is meegedeeld aan de beide kamers der Staten-Generaal.
 
-#### Artikel 127d
+##### Artikel 127d
 
 1. De op grond van [artikel 125, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-07-28&g=2018-07-28), van de Ambtenarenwet of van [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47), vastgestelde voorschriften of regels, voor zover het de daarin opgenomen bepalingen betreffende ontslag op grond van ongeschiktheid voor zijn arbeid wegens ziekte of gebrek betreft, zoals deze bepalingen luidden voor het tijdstip van inwerkingtreding van [artikel II van de Wet werken na de AOW-gerechtigde leeftijd](https://wetten.overheid.nl/jci1.3:c:BWBR0037099&artikel=II), blijven gedurende zes maanden na dat tijdstip van inwerkingtreding van toepassing op de ambtenaar:
 
@@ -1026,7 +1051,7 @@ Indien de ongeschiktheid wegens ziekte een aanvang heeft genomen voor de datum w
 
 2. Na afloop van de in het eerste lid genoemde termijn van zes maanden, geldt de in [artikel 127ca, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=IIIa&artikel=127ca&z=2018-07-28&g=2018-07-28), genoemde termijn van dertien weken, voor zover het totale tijdvak niet meer bedraagt dan 104 weken.
 
-#### Artikel 127e
+##### Artikel 127e
 
 Bij voorschriften of regels op grond van [artikel 125, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=III&artikel=125&z=2018-07-28&g=2018-07-28), van de Ambtenarenwet en van [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47), kan ten gunste van de ambtenaar die de in [artikel 127, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=IIIa&artikel=127&z=2018-07-28&g=2018-07-28), bedoelde leeftijd heeft bereikt, van de [artikelen 127 tot en met 127d](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&titeldeel=I&artikel=13&z=2018-07-28&g=2018-07-28) worden afgeweken.
 
@@ -1040,7 +1065,7 @@ Lasten en bevelen, dat deze met eene indeeling in het **Staatsblad** zal worden 
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Overheidswerkgevers kunnen een onderzoek naar de geschiktheid en de bekwaamheid voor een functie als ambtenaar doen. Indien noodzakelijk kunnen zij daarbij bijzondere categorieën van persoonsgegevens en persoonsgegevens van strafrechtelijke aard als bedoeld in [paragraaf 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.1) onderscheidenlijk [paragraaf 3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.2) verwerken.
 
@@ -1054,11 +1079,11 @@ Lasten en bevelen, dat deze met eene indeeling in het **Staatsblad** zal worden 
 
 #### § 4a. De Staat
 
-#### Artikel 13a
+##### Artikel 13a
 
 Bij koninklijk besluit wordt besloten tot het aangaan van een arbeidsovereenkomst ter zake van bij of krachtens algemene maatregel van bestuur aangewezen functies. Tot beëindiging van de arbeidsovereenkomst wordt bij koninklijk besluit besloten, tenzij de Staat de arbeidsovereenkomst opzegt op grond van [artikel 677 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=677).
 
-#### Artikel 13b
+##### Artikel 13b
 
 1. Ten aanzien van de ambtenaren van de Staten-Generaal gelden de voor alle ambtenaren geldende arbeidsvoorwaarden die zijn opgenomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 

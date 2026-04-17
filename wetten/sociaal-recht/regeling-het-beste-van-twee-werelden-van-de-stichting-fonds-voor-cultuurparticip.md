@@ -1,13 +1,38 @@
 ---
 title: "Regeling ‘Het beste van twee werelden’ van de Stichting Fonds voor Cultuurparticipatie"
 identifier: "BWBR0027611"
-categorie: "Sociaal recht"
-publicatiedatum: 2010-05-04
-laatste_update: 2010-05-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027611"
+country: "nl"
+rank: "zbo"
+publication_date: "2010-05-04"
+last_updated: "2010-05-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027611"
+soort: "zbo"
+stam_id: "10518663"
+version_id: "17330922"
+internal_id: "C23915611"
+label_id: "10493684"
+dtd_version: "2.0"
+original_entry_into_force: "2010-05-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027611/2010-05-04/0"
+intitule_bron: "Stcrt.2010-6671"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-04-09"
+intitule_published: "2010-05-03"
+intitule_in_force: "2010-05-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-6671"
+original_signed_date: "2010-04-09"
+original_published_date: "2010-05-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-6671"
+entry_into_force_date: "2010-05-04"
+jci_1_3: "jci1.3:c:BWBR0027611&z=2010-05-04&g=2010-05-04"
+jci_1_0: "1.0:c:BWBR0027611&g=2010-05-04"
+citeertitel_status: "officieel"
+signed_date: "2010-04-09"
+entry_into_force: "2010-05-04"
 ---
-
 # Regeling ‘Het beste van twee werelden’ van de Stichting Fonds voor Cultuurparticipatie
 
 Het Fonds voor Cultuurparticipatie wil met de deelregeling **Het beste van twee werelden** professionele cultuurinstellingen stimuleren bij te dragen aan de ontwikkeling van de amateursector. Om dit doel te bereiken ondersteunt het fonds innovatieve voorbeeldprojecten waaruit een duurzame betrokkenheid van professionele cultuurinstellingen bij de amateursector spreekt. Deze betrokkenheid kan bestaan uit het voornemen de artistieke of inhoudelijke samenwerking tussen professionals en amateurs of erfgoedvrijwilligers te bevorderen, de ondersteuning en zichtbaarheid van de amateursector te verbeteren of talentontwikkeling van amateurs te stimuleren. Binnen het programma is nadrukkelijk aandacht voor culturele diversiteit.
@@ -26,7 +51,7 @@ De Stichting Fonds voor Cultuurparticipatie, gelet op [artikel 10 lid 4 van de W
 
 Besluit:
 
-#### Artikel 1. Ondersteuningsmogelijkheden
+##### Artikel 1. Ondersteuningsmogelijkheden
 
 Het Fonds voor Cultuurparticipatie ondersteunt onder de noemer ‘Het beste van twee werelden’ projecten afkomstig van cultuurinstellingen die zijn gericht op:
 
@@ -36,13 +61,13 @@ Het Fonds voor Cultuurparticipatie ondersteunt onder de noemer ‘Het beste van 
 
 - c). de ontwikkeling van doorgroeimogelijkheden voor talentvolle amateurs, met name op die gebieden waar de amateursector nog onvoldoende aansluiting biedt op het kunstvakonderwijs, zoals op het gebied van urban arts, circustheater, creative design, wereldmuziek en -dans.
 
-#### Artikel 2. Ontvankelijkheid en indientermijn
+##### Artikel 2. Ontvankelijkheid en indientermijn
 
 1. Aanvragen kunnen worden ingediend door organisaties zonder winstoogmerk met een culturele doelstelling die rechtspersoonlijkheid bezitten en gevestigd zijn in het Koninkrijk der Nederlanden. Het hiervoor benodigde formulier kan worden gedownload via de website van het fonds (www.cultuurparticipatie.nl).
 
 2. Voor toekenning van subsidie aan projecten zoals genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027611&artikel=1&z=2010-05-04&g=2010-05-04) wordt gebruik gemaakt van een tender. In beginsel gelden er twee indieningrondes. De termijn voor indiening van aanvragen voor de eerste ronde eindigt op 15 juni 2010 en voor de tweede ronde op 15 oktober 2010. Een aanvraag mag niet eerder dan drie maanden na sluitingsdatum van een ronde beginnen.
 
-#### Artikel 3. Voorwaarden voor in behandeling nemen aanvraag
+##### Artikel 3. Voorwaarden voor in behandeling nemen aanvraag
 
 Voor alle categorieën projecten geldt dat het project:
 
@@ -54,7 +79,7 @@ Voor alle categorieën projecten geldt dat het project:
 
 - d). wordt gemonitord en geëvalueerd.
 
-#### Artikel 4. Niet in aanmerking voor subsidie komen:
+##### Artikel 4. Niet in aanmerking voor subsidie komen:
 
 - –. instellingen waarvan het toezicht op het doelmatig en verantwoord functioneren onvoldoende is;
 
@@ -68,13 +93,13 @@ Voor alle categorieën projecten geldt dat het project:
 
 - –. projecten die zijn ingediend zonder gebruikmaking van het daarvoor onder [artikel 2 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027611&artikel=2&z=2010-05-04&g=2010-05-04) bedoelde aanvraagformulier.
 
-#### Artikel 5. Beslissing op de aanvraag
+##### Artikel 5. Beslissing op de aanvraag
 
 Het bestuur van het fonds kan een subsidieaanvraag ter advisering voorleggen aan een adviescommissie. In geval de aanvraag kennelijk niet-ontvankelijk is kan het bestuur van het fonds besluiten de aanvraag onmiddellijk af te wijzen zonder nader onderzoek. Gelet op de voorwaarden die gelden bij gebruikmaking van een tender mag het bestuur van het fonds, na het moment van indiening van de aanvraag geen aanvullende informatie meer accepteren.
 
 Uiterlijk binnen 3 maanden na indiening van de aanvraag, stelt het bestuur van het fonds de aanvrager schriftelijk van zijn besluit in kennis. Indien niet binnen de gestelde termijn op de aanvraag kan worden beslist, stelt het bestuur van het fonds de aanvrager daarvan in kennis en noemt hij de termijn waarbinnen de beslissing tegemoet kan worden gezien.Voor aanvragen ingediend tussen 15 juni en 15 augustus van het subsidiejaar geldt dat de besluittermijn vanwege de vakantieperiode met 5 weken wordt verlengd.Tijdens de behandeling van een aanvraag wordt over de voortgang daarvan geen inhoudelijke informatie verstrekt.
 
-#### Artikel 6. Beoordelingscriteria
+##### Artikel 6. Beoordelingscriteria
 
 Voor alle drie de categorieën projecten geldt dat:
 
@@ -88,7 +113,7 @@ Voor alle drie de categorieën projecten geldt dat:
 
 - e). de begroting realistisch en inzichtelijk is.
 
-#### Artikel 7. Hoogte en duur van de bijdrage
+##### Artikel 7. Hoogte en duur van de bijdrage
 
 1. hoogte:
 
@@ -110,7 +135,7 @@ Voor alle drie de categorieën projecten geldt dat:
 
 Projecten kunnen binnen de regeling ‘Het beste van twee werelden’ worden ondersteund voor maximaal 3 kalenderjaren.
 
-#### Artikel 8. Subsidieplafond
+##### Artikel 8. Subsidieplafond
 
 1. Het totale beschikbare bedrag dat het bestuur van het fonds voor projecten zoals genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027611&artikel=1&z=2010-05-04&g=2010-05-04) in het kader van deze regeling kan verdelen bedraagt tot en met kalenderjaar 2012 € 6.000.000,– onder voorbehoud van verstrekking van deze middelen door de Minister van Onderwijs, Cultuur en Wetenschap.
 
@@ -118,7 +143,7 @@ Projecten kunnen binnen de regeling ‘Het beste van twee werelden’ worden ond
 
 3. Het bestuur van het fonds zal het bedrag zoals dat in het eerste lid bedoeld is verdelen over twee rondes. Voor de eerste ronde is € 3.500.000,– beschikbaar en voor de tweede ronde € 2.500.000,–. Indien ook na de tweede ronde nog subsidiegelden resteren, kan het bestuur van het fonds een of meer vervolgrondes inlassen.
 
-#### Artikel 9. Tenderprioritering
+##### Artikel 9. Tenderprioritering
 
 1. Het beschikbare bedrag als bedoeld in [artikel 8 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027611&artikel=8&z=2010-05-04&g=2010-05-04) zal verdeeld worden over aanvragen die voldoen aan de criteria zoals genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027611&artikel=6&z=2010-05-04&g=2010-05-04). Wanneer er meer aanvragen zijn dan er budget is, zal in het kader van de tender bij de beoordeling van projecten zoals genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027611&artikel=1&z=2010-05-04&g=2010-05-04) voor de verdere prioritering gebruik worden gemaakt van de volgende criteria:
 
@@ -144,10 +169,10 @@ Bij de beoordeling van de projectplannen zoals genoemd in [artikel 1 onder c](ht
 
 - a). het project nieuwe mogelijkheden onderzoekt voor de ontwikkeling van bestendige doorgroeimogelijkheden voor talentvolle jongeren die niet of nog in onvoldoende mate de kans hebben zich te ontwikkelen via reguliere kunstopleidingen. Prioriteit daarbij hebben projecten waarin urban arts, circustheater, creative design, wereldmuziek en -dans, interdisciplinaire of cultureel diverse activiteiten centraal staan.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de eerste dag na de uitgifte van de Staatscourant waarin de regeling ‘Het beste van twee werelden’ is geplaatst.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: de regeling ‘Het beste van twee werelden’ van de Stichting Fonds voor Cultuurparticipatie.

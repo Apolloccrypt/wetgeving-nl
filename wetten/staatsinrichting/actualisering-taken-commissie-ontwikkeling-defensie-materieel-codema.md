@@ -1,13 +1,37 @@
 ---
 title: "Actualisering taken Commissie Ontwikkeling Defensie Materieel (CODEMA)"
 identifier: "BWBR0004520"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 1989-04-03
-laatste_update: 1989-04-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004520"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1989-04-03"
+last_updated: "1989-04-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004520"
+soort: "ministeriele-regeling"
+stam_id: "3680553"
+version_id: "5463552"
+internal_id: "C5656641"
+label_id: "3660434"
+dtd_version: "2.0"
+original_entry_into_force: "1989-04-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004520/1989-04-03/0"
+intitule_bron: "Stcrt.1989-94"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1989-04-03"
+intitule_published: "1989-05-18"
+intitule_in_force: "1989-05-18"
+intitule_status: "goed"
+original_publication: "Stcrt.1989-94"
+original_signed_date: "1989-04-03"
+original_published_date: "1989-05-18"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1989-04-03"
+jci_1_3: "jci1.3:c:BWBR0004520&z=1989-04-03&g=1989-04-03"
+jci_1_0: "1.0:c:BWBR0004520&g=1989-04-03"
+citeertitel_status: "officieel"
+signed_date: "1989-04-03"
+entry_into_force: "1989-04-03"
 ---
-
 # Actualisering taken Commissie Ontwikkeling Defensie Materieel (CODEMA)
 
 Handelende in overeenstemming met de ministers van Buitenlandse Zaken, van Economische Zaken en van Financiën;
@@ -16,7 +40,7 @@ Overwegende dat de intstellingsbeschikking van de Commissie Ontwikkeling Defensi
 
 Besluit:
 
-#### Artikel 1. Doelstelling en taken CODEMA
+##### Artikel 1. Doelstelling en taken CODEMA
 
 1. De CODEMA heeft tot doel het stimuleren van ontwikkelingsprojecten op het gebied van defensie-materieel, mede in het licht van het versterken van de concurrentiepositie van het Nederlands bedrijfsleven. Dit doel wordt verwezenlijkt door middel van een financieringsregeling voor het uitvoeren van c.q. deelnemen aan ontwikkelingsprojecten op basis van verwachtbare defensiebehoeften of in het kader van relevante economische factoren.
 
@@ -30,7 +54,7 @@ Besluit:
 
 - d. het formuleren van het beleid inzake ontwikkelingsprojecten en het geven van richtlijnen ten aanzien van de uitvoering van dat beleid. Deze richtlijnen worden bekend gesteld in de vorm van de CODEMA-werkwijze.
 
-#### Artikel 2. Samenstelling CODEMA
+##### Artikel 2. Samenstelling CODEMA
 
 1. De CODEMA bestaat uit de volgende leden:
 
@@ -60,7 +84,7 @@ Besluit:
 
 5. Andere niet-leden kunnen ter vergadering worden uitgenodigd voor het geven van toelichting/advies.
 
-#### Artikel 3. Secretariaat en werkwijze
+##### Artikel 3. Secretariaat en werkwijze
 
 1. De CODEMA komt naar behoefte bijeen voor overleg en besluitvorming.
 
@@ -70,11 +94,11 @@ Besluit:
 
 4. De krijgsmachtdelen zijn verantwoordelijk voor de voorbereiding en uitvoering van de CODEMA-projecten.
 
-#### Artikel 4
+##### Artikel 4
 
 De beschikking van de minister van Defensie, dd. 20 november 1978, nr. 391694/Q, laatstelijk gewijzigd bij beschikking van 7 oktober 1980, nr. 391694/T, wordt ingetrokken.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze beschikking treedt in werking met ingang van 3 april 1989.
 

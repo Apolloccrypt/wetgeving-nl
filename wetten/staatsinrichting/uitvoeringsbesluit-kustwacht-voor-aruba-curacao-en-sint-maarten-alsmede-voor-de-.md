@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsbesluit Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba"
+title: "Besluit van 7 januari 2009, houdende bepalingen ter uitvoering van de Rijkswet Kustwacht voor de Nederlandse Antillen en Aruba (Uitvoeringsbesluit Kustwacht voor de Nederlandse Antillen en Aruba)"
 identifier: "BWBR0025441"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025441"
+country: "nl"
+rank: "rijks_kb"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025441"
+soort: "rijksKB"
+stam_id: "9933573"
+version_id: "16198062"
+internal_id: "C22215921"
+label_id: "9910264"
+dtd_version: "2.0"
+original_entry_into_force: "2009-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025441/2010-10-10/0"
+intitule_bron: "Stb.2009-114"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-01-07"
+intitule_published: "2009-03-12"
+intitule_in_force: "2009-03-12"
+intitule_status: "goed"
+original_publication: "Stb.2009-114"
+original_signed_date: "2009-01-07"
+original_published_date: "2009-03-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2009-114"
+entry_into_force_date: "2009-05-01"
+jci_1_3: "jci1.3:c:BWBR0025441&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0025441&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba"
+signed_date: "2009-01-07"
+entry_into_force: "2009-05-01"
 ---
-
 # Besluit van 7 januari 2009, houdende bepalingen ter uitvoering van de Rijkswet Kustwacht voor de Nederlandse Antillen en Aruba (Uitvoeringsbesluit Kustwacht voor de Nederlandse Antillen en Aruba)
 
 Op de voordracht van Onze Minister van Defensie van 3 november 2008, nr. C/2008027300, directie juridische zaken, sector wet- en regelgeving;
@@ -24,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
@@ -44,7 +70,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 2. Uiterlijke kentekenen van kustwachtschepen en kustwachtluchtvaartuigen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een kustwachtschip voert duidelijk kenbaar de volgende uiterlijke kentekenen:
 
@@ -58,7 +84,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 3. Algemene geweldbepalingen
 
-#### Artikel 3
+##### Artikel 3
 
 Het gebruik van een geweldmiddel ter uitvoering van de taken van de Kustwacht is uitsluitend toegestaan aan de commandant, onderscheidenlijk aan een aangewezen opvarende:
 
@@ -66,11 +92,11 @@ Het gebruik van een geweldmiddel ter uitvoering van de taken van de Kustwacht is
 
 - b. die in het gebruik van dat geweldmiddel is geoefend.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien de aangewezen opvarende onder leiding van een ter plaatse aanwezige commandant optreedt, gebruikt hij geen geweld dan na een vooraf gegeven uitdrukkelijke last van deze commandant. De commandant geeft daarbij aan van welk geweldmiddel gebruik wordt gemaakt.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Tenzij de omstandigheden dit niet toelaten, gaat aan het gebruik van geweld een duidelijke waarschuwing vooraf.
 
@@ -78,7 +104,7 @@ Indien de aangewezen opvarende onder leiding van een ter plaatse aanwezige comma
 
 3. Een waarschuwingsschot wordt op een zodanige wijze gegeven dat gevaar voor personen of zaken zoveel mogelijk wordt vermeden.
 
-#### Artikel 6
+##### Artikel 6
 
 De commandant, onderscheidenlijk de aangewezen opvarende, mag naast het gebruik van fysiek geweld uitsluitend gebruik maken van de volgende geweldmiddelen:
 
@@ -94,11 +120,11 @@ De commandant, onderscheidenlijk de aangewezen opvarende, mag naast het gebruik 
 
 - f. pepperspray.
 
-#### Artikel 7
+##### Artikel 7
 
 Bij gebruik van fysiek geweld dan wel een geweldmiddel wordt in verhouding tot het beoogde doel de meest lichte vorm van geweld gebruikt en worden de daaraan verbonden risico’s zo veel mogelijk beperkt.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De commandant, onderscheidenlijk de aangewezen opvarende, die geweld heeft aangewend, waaronder begrepen het geven van een waarschuwingsschot, meldt de feiten en omstandigheden dienaangaande, alsmede de gevolgen hiervan, onverwijld aan een door de directeur van de Kustwacht aangewezen functionaris.
 
@@ -114,7 +140,7 @@ Bij gebruik van fysiek geweld dan wel een geweldmiddel wordt in verhouding tot h
 
 #### § 4. Vuurwapens
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het gebruik van een vuurwapen ten behoeve van niet-automatisch vuur is slechts geoorloofd:
 
@@ -124,7 +150,7 @@ Bij gebruik van fysiek geweld dan wel een geweldmiddel wordt in verhouding tot h
 
 2. Onder het plegen van een misdrijf als bedoeld in het eerste lid, onder b, worden mede begrepen poging tot en deelneming aan het misdrijf.
 
-#### Artikel 10
+##### Artikel 10
 
 Bij gebruik van een vuurwapen ten behoeve van niet-automatisch vuur wordt het volgende in acht genomen:
 
@@ -134,11 +160,11 @@ Bij gebruik van een vuurwapen ten behoeve van niet-automatisch vuur wordt het vo
 
 - c. risico’s voor derden worden zo veel mogelijk vermeden.
 
-#### Artikel 11
+##### Artikel 11
 
 De commandant, onderscheidenlijk de aangewezen opvarende, mag slechts uit voorzorg een vuurwapen ten behoeve van niet-automatisch vuur ter hand nemen indien redelijkerwijs mag worden aangenomen dat een situatie als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0025441&paragraaf=4&artikel=9&z=2010-10-10&g=2010-10-10) ontstaat, waarin hij bevoegd is het vuurwapen te gebruiken. Zodra blijkt dat een dergelijke situatie zich niet voordoet, wordt het ter hand nemen van het vuurwapen beëindigd.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het gebruik van een vuurwapen ingesteld op automatisch vuur is slechts geoorloofd tegen personen, vervoermiddelen, vaartuigen en luchtvaartuigen, waarin of waarop zich personen bevinden in een situatie waarin sprake is van een ogenblikkelijke wederrechtelijke aanranding van eigen of eens anders lijf.
 
@@ -150,7 +176,7 @@ De commandant, onderscheidenlijk de aangewezen opvarende, mag slechts uit voorzo
 
 3. Het ter hand nemen van een vuurwapen ingesteld op automatisch vuur in het geval, bedoeld in het tweede lid, onder b, is slechts toegestaan na toestemming van de officier van justitie of, indien diens optreden niet kan worden afgewacht, van de officier van piket bij de Kustwacht.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De commandant, onderscheidenlijk de aangewezen opvarende, is bevoegd om boordvuurwapens op een vaartuig te richten indien door de gezagvoerder van dat vaartuig niet terstond aan een vordering als bedoeld in [artikel 4 van de Rijkswet Kustwacht voor Aruba, Curaçao en Sint Maarten](https://wetten.overheid.nl/jci1.3:c:BWBR0023731&artikel=4) alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba wordt voldaan.
 
@@ -176,11 +202,11 @@ De commandant, onderscheidenlijk de aangewezen opvarende, mag slechts uit voorzo
 
 #### § 5. Niet-penetrerende munitie
 
-#### Artikel 14
+##### Artikel 14
 
 [Paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025441&paragraaf=4&z=2010-10-10&g=2010-10-10) is niet van toepassing op het gebruik en het ter hand nemen van een vuurwapen dat is geladen met niet-penetrerende munitie.
 
-#### Artikel 15
+##### Artikel 15
 
 Het gebruik van een vuurwapen dat is geladen met niet-penetrerende munitie is slechts geoorloofd:
 
@@ -188,17 +214,17 @@ Het gebruik van een vuurwapen dat is geladen met niet-penetrerende munitie is sl
 
 - b. om een persoon aan te houden die zich aan zijn aanhouding, voorgeleiding of andere rechtmatige vrijheidsbeneming tracht te onttrekken of heeft onttrokken.
 
-#### Artikel 16
+##### Artikel 16
 
 De commandant, onderscheidenlijk de aangewezen opvarende, waarschuwt onmiddellijk voordat hij gericht met een vuurwapen dat is geladen met niet-penetrerende munitie zal schieten, met luide stem of op andere niet mis te verstane wijze dat geschoten zal worden, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing blijft slechts achterwege, wanneer de omstandigheden de waarschuwing niet toelaten.
 
-#### Artikel 17
+##### Artikel 17
 
 De [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0025441&paragraaf=5&artikel=15&z=2010-10-10&g=2010-10-10) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0025441&paragraaf=5&artikel=16&z=2010-10-10&g=2010-10-10) zijn van overeenkomstige toepassing indien de niet-penetrerende munitie wordt afgegeven met een ander hulpmiddel dan een vuurwapen.
 
 #### § 6. Handboeien
 
-#### Artikel 18
+##### Artikel 18
 
 1. De commandant, onderscheidenlijk de aangewezen opvarende, is bevoegd tot het dragen van handboeien.
 
@@ -206,7 +232,7 @@ De [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0025441&paragraaf=5&ar
 
 #### § 7. Pepperspray
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het gebruik van pepperspray is slechts geoorloofd:
 
@@ -228,21 +254,21 @@ De [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0025441&paragraaf=5&ar
 
 3. Bij gebruik van pepperspray wordt niet op de mond gericht.
 
-#### Artikel 20
+##### Artikel 20
 
 De commandant, onderscheidenlijk de aangewezen opvarende, waarschuwt onmiddellijk voordat hij gericht pepperspray tegen een persoon zal gebruiken, met luide stem of op andere niet mis te verstane wijze dat pepperspray gebruikt zal worden, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing blijft achterwege indien de omstandigheden de waarschuwing redelijkerwijs niet toelaten.
 
-#### Artikel 21
+##### Artikel 21
 
 Pepperspray wordt tegen een persoon per geval ten hoogste twee maal voor de duur van niet langer dan ongeveer een seconde gebruikt en op een afstand van ten minste een meter.
 
 #### § 8. Slotbepalingen
 
-#### Artikel 22
+##### Artikel 22
 
 De [Voorlopige regeling Kustwacht voor de Nederlandse Antillen en Aruba](https://wetten.overheid.nl/jci1.3:c:BWBR0007735) wordt ingetrokken.
 
-#### Artikel 23
+##### Artikel 23
 
 Met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst treden in werking:
 
@@ -250,7 +276,7 @@ Met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgift
 
 - b. dit besluit.
 
-#### Artikel 24
+##### Artikel 24
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba.
 

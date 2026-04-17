@@ -1,13 +1,37 @@
 ---
 title: "Besluit instelling Stuurgroep 'Handhaven op niveau'"
 identifier: "BWBR0011857"
-categorie: "Verkeer"
-publicatiedatum: 2003-10-31
-laatste_update: 2003-10-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011857"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2003-10-31"
+last_updated: "2003-10-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011857"
+soort: "ministeriele-regeling"
+stam_id: "4810343"
+version_id: "6616842"
+internal_id: "C7074081"
+label_id: "4788514"
+dtd_version: "2.0"
+original_entry_into_force: "2000-12-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011857/2003-10-31/0"
+intitule_bron: "Stcrt.2000-234"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-11-29"
+intitule_published: "2000-12-01"
+intitule_in_force: "2000-12-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-234"
+original_signed_date: "2000-11-29"
+original_published_date: "2000-12-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-12-03"
+jci_1_3: "jci1.3:c:BWBR0011857&z=2003-10-31&g=2003-10-31"
+jci_1_0: "1.0:c:BWBR0011857&g=2003-10-31"
+citeertitel_status: "officieel"
+signed_date: "2000-11-29"
+entry_into_force: "2000-12-03"
 ---
-
 # Besluit instelling Stuurgroep 'Handhaven op niveau'
 
 Overwegende dat de uitvoering van het kabinetsstandpunt `Handhaven op niveau' een groot aantal werkzaamheden met zich meebrengt die in nauwe samenspraak met de bestuurlijke partners en de handhavende organisaties moeten worden ontplooid en uitgevoerd;
@@ -16,11 +40,11 @@ Besluit:
 
 #### Instelling en taak
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een stuurgroep 'Handhaven op niveau', hierna te noemen stuurgroep.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De stuurgroep heeft tot taak:
 
@@ -38,7 +62,7 @@ Er is een stuurgroep 'Handhaven op niveau', hierna te noemen stuurgroep.
 
 #### Samenstelling
 
-#### Artikel 3
+##### Artikel 3
 
 In de stuurgroep hebben zitting:
 
@@ -48,7 +72,7 @@ In de stuurgroep hebben zitting:
 
 - c. als secretarissen: drs. M.L. Hagen, directie Handhaving van het Ministerie van Justitie; mevr. ing. E.M. Jägers, directie Handhaving van het Ministerie van Justitie.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De stuurgroep kan derden uitnodigen om aan de beraadslagingen van de stuurgroep deel te nemen.
 
@@ -56,44 +80,44 @@ In de stuurgroep hebben zitting:
 
 #### Werkwijze
 
-#### Artikel 5
+##### Artikel 5
 
 De stuurgroep kan ter voorbereiding van haar voorstellen studies door derden doen verrichten.
 
 Studieopdrachten behoeven de voorafgaande instemming van de Minister van Justitie.
 
-#### Artikel 6
+##### Artikel 6
 
 De stuurgroep kan zich wenden tot onder de verantwoordelijkheid van de Minister van Justitie ressorterende diensten en instellingen voor het verkrijgen van inlichtingen die zij behoeft.
 
-#### Artikel 7
+##### Artikel 7
 
 De stuurgroep brengt periodiek, doch minstens eenmaal per jaar, aan de Minister van Justitie verslag uit over de voortgang van haar werkzaamheden.
 
-#### Artikel 8
+##### Artikel 8
 
 De stuurgroep kan nadere regels stellen omtrent haar werkwijze.
 
-#### Artikel 9
+##### Artikel 9
 
 De Minister van Justitie kan de stuurgroep ten aanzien van de uitvoering van haar taak als bedoeld in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011857&artikel=2&z=2003-10-31&g=2003-10-31) bijzondere aanwijzingen geven.
 
-#### Artikel 10
+##### Artikel 10
 
 De kosten verbonden aan de uitvoering van het actieprogramma 'Handhaven op niveau' komen ten laste van de begroting van de Minister van Justitie.
 
 #### Instellingstermijn
 
-#### Artikel 11
+##### Artikel 11
 
 De stuurgroep beëindigt haar werkzaamheden op 31 december 2005.
 
 #### Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst, en werkt terug tot 1 mei 2000.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit wordt aangehaald als: Besluit instelling Stuurgroep 'Handhaven op niveau'.

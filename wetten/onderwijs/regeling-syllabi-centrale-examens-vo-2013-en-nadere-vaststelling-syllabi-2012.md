@@ -1,13 +1,39 @@
 ---
-title: "Regeling syllabi centrale examens VO 2013 en nadere vaststelling syllabi 2012"
+title: "Regeling van het College voor examens van 19 april 2011, nr. Cve-11.00404, houdende vaststelling van de syllabi voor de centrale examens in het v.w.o. h.a.v.o. en v.m.b.o. 2013 en nadere vaststelling syllabi voor de centrale examens in het v.w.o. en v.m.b.o. 2012, tevens preliminaire vaststelling van de syllabus voor het centraal examen aardrijkskunde v.m.b.o. 2015 (Regeling syllabi centrale examens VO 2013 en nadere vaststelling 2012)"
 identifier: "BWBR0030708"
-categorie: "Onderwijs"
-publicatiedatum: 2016-01-01
-laatste_update: 2016-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030708"
+country: "nl"
+rank: "zbo"
+publication_date: "2016-01-01"
+last_updated: "2016-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030708"
+soort: "zbo"
+stam_id: "11510803"
+version_id: "18942712"
+internal_id: "C26437321"
+label_id: "11484154"
+dtd_version: "2.0"
+original_entry_into_force: "2011-12-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030708/2016-01-01/0"
+intitule_bron: "Stcrt.2011-21734"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-04-19"
+intitule_published: "2011-12-02"
+intitule_in_force: "2011-12-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-21734"
+original_signed_date: "2011-04-19"
+original_published_date: "2011-12-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-21734"
+entry_into_force_date: "2011-12-03"
+jci_1_3: "jci1.3:c:BWBR0030708&z=2016-01-01&g=2016-01-01"
+jci_1_0: "1.0:c:BWBR0030708&g=2016-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling syllabi centrale examens VO 2013 en nadere vaststelling syllabi 2012"
+signed_date: "2011-04-19"
+entry_into_force: "2011-12-03"
 ---
-
 # Regeling van het College voor examens van 19 april 2011, nr. Cve-11.00404, houdende vaststelling van de syllabi voor de centrale examens in het v.w.o. h.a.v.o. en v.m.b.o. 2013 en nadere vaststelling syllabi voor de centrale examens in het v.w.o. en v.m.b.o. 2012, tevens preliminaire vaststelling van de syllabus voor het centraal examen aardrijkskunde v.m.b.o. 2015 (Regeling syllabi centrale examens VO 2013 en nadere vaststelling 2012)
 
 Gelet op [artikel 2, tweede lid, aanhef en onderdeel f, van de Wet College voor examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2);
@@ -16,19 +42,19 @@ Gezien de goedkeuring van de Staatssecretaris van Onderwijs, Cultuur en Wetensch
 
 Besluit:
 
-#### Artikel 1. Syllabi 2013
+##### Artikel 1. Syllabi 2013
 
 Vervallen
 
-#### Artikel 2. Nadere vaststelling syllabi 2012
+##### Artikel 2. Nadere vaststelling syllabi 2012
 
 Vervallen
 
-#### Artikel 3. Preliminaire vaststelling syllabi 2015
+##### Artikel 3. Preliminaire vaststelling syllabi 2015
 
 Vervallen
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt:
 
@@ -38,11 +64,11 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 - 3. betreffende [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&artikel=3&z=2016-01-01&g=2016-01-01): per 1 januari 2016.
 
-#### Artikel 5. Citeertitel
+##### Artikel 5. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling syllabi centrale examens VO 2013 en nadere vaststelling syllabi 2012.
 
-#### Artikel 6. Bekendmaking
+##### Artikel 6. Bekendmaking
 
 1. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 

@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling verbetering basisvaardigheden"
+title: "Regeling van de Minister voor Primair en Voortgezet Onderwijs van 3 augustus 2022, nr. PO/32243538, houdende regels voor de subsidieverstrekking aan scholen voor het verbeteren van de basisvaardigheden met evidence informed interventies (Subsidieregeling verbetering basisvaardigheden)"
 identifier: "BWBR0047050"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-03-25
-laatste_update: 2023-03-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047050"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-03-25"
+last_updated: "2023-03-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047050"
+soort: "ministeriele-regeling"
+stam_id: "16456123"
+version_id: "28830742"
+internal_id: "C40821781"
+label_id: "16378934"
+dtd_version: "2.0"
+original_entry_into_force: "2022-08-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047050/2023-03-25/0"
+intitule_bron: "Stcrt.2022-21667"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-08-03"
+intitule_published: "2022-08-15"
+intitule_in_force: "2022-08-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-21667"
+original_signed_date: "2022-08-03"
+original_published_date: "2022-08-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-21667"
+entry_into_force_date: "2022-08-16"
+jci_1_3: "jci1.3:c:BWBR0047050&z=2023-03-25&g=2023-03-25"
+jci_1_0: "1.0:c:BWBR0047050&g=2023-03-25"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling verbetering basisvaardigheden"
+signed_date: "2022-08-03"
+entry_into_force: "2022-08-16"
 ---
-
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 3 augustus 2022, nr. PO/32243538, houdende regels voor de subsidieverstrekking aan scholen voor het verbeteren van de basisvaardigheden met evidence informed interventies (Subsidieregeling verbetering basisvaardigheden)
 
 Gelet op de [artikelen 71 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=71), [5.11 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.11), [71 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=71), [127e van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=127e) en [67 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=67), de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5), en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -64,11 +90,11 @@ In deze regeling wordt verstaan onder:
 
 - **WVO 2020:** [Wet op het voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Doel van de regeling en te subsidiëren activiteiten
+##### Artikel 3. Doel van de regeling en te subsidiëren activiteiten
 
 1. De minister kan aan een bevoegd gezag voor het schooljaar 2022/2023 en een deel van het schooljaar 2023/2024, tot en met 31 januari 2024, een basissubsidie verstrekken ter verbetering van de basisvaardigheden via evidence informed interventies zoals opgenomen in de menukaart.
 
@@ -76,7 +102,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 3. In aanvulling op de basissubsidie, bedoeld in het eerste lid, kan de minister een aanvullende subsidie verstrekken, inclusief verplichte ondersteuning in de vorm van een basisteam. De aanvullende subsidie kan worden besteed aan één of meerdere interventies en voor monitoringsdoeleinden.
 
-#### Artikel 4. Aanvraag basissubsidie
+##### Artikel 4. Aanvraag basissubsidie
 
 1. Een bevoegd gezag kan per vestiging een aanvraag voor de basissubsidie indienen.
 
@@ -96,7 +122,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - d. een verklaring waaruit blijkt dat de medezeggenschapsraad van de school is geïnformeerd over de aanvraag.
 
-#### Artikel 5. Aanvraag aanvullende subsidie
+##### Artikel 5. Aanvraag aanvullende subsidie
 
 1. Een bevoegd gezag kan per vestiging een aanvraag voor aanvullende subsidie indienen, indien voor de betreffende vestiging ook een basissubsidie wordt aangevraagd.
 
@@ -118,7 +144,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - e. een verklaring waaruit blijkt dat het bevoegd gezag gebruik wil maken van de ondersteuning van een basisteam, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047050&artikel=3&z=2023-03-25&g=2023-03-25). En een inventarisatie van de behoefte aan begeleiding van de school, waar het ondersteuning vanuit een basisteam betreft.
 
-#### Artikel 6. Subsidieplafonds basissubsidie en aanvullende subsidie
+##### Artikel 6. Subsidieplafonds basissubsidie en aanvullende subsidie
 
 1. Voor verstrekking van de basissubsidie is een bedrag beschikbaar van:
 
@@ -136,7 +162,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 4. Indien één of meerdere bedragen, bedoeld in het eerste of tweede lid, ook na toepassing van het derde lid niet volledig wordt of worden benut, worden de resterende middelen naar rato verdeeld over de verschillende subsidieplafonds van het andere lid.
 
-#### Artikel 7. Subsidiebedrag
+##### Artikel 7. Subsidiebedrag
 
 1. Het bedrag van de basissubsidie, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047050&artikel=4&z=2023-03-25&g=2023-03-25), wordt berekend door het aantal leerlingen dat op 1 oktober 2021 stond ingeschreven op de desbetreffende vestiging te vermenigvuldigen met een bedrag van:
 
@@ -154,15 +180,15 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 4. Het subsidiebedrag, bedoeld in het eerste lid, onderdeel b, en het tweede lid, onderdeel b, wordt berekend op basis van het door de accountant gevalideerde aantal leerlingen op 1 oktober 2021.
 
-#### Artikel 8. Wijze van verdeling beschikbare middelen
+##### Artikel 8. Wijze van verdeling beschikbare middelen
 
 Indien de toewijzing van alle daarvoor in aanmerking komende aanvragen voor een basissubsidie of een aanvullende subsidie leidt tot overschrijding van een subsidieplafond als bedoeld in [artikel 6, eerste lid en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047050&artikel=5&z=2023-03-25&g=2023-03-25), krijgen de aanvragen van de scholen op Caribisch Nederland voorrang. Vervolgens worden de overige aanvragen ten laste van het betreffende subsidieplafond door middel van loting gerangschikt. Scholen krijgen volgens de rangschikking subsidie toegekend tot het subsidieplafond is bereikt.
 
-#### Artikel 9. Afwijzingsgrond
+##### Artikel 9. Afwijzingsgrond
 
 Indien de aanvraag van de basissubsidie, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047050&artikel=4&z=2023-03-25&g=2023-03-25), voor een vestiging wordt afgewezen, wordt ook de aanvraag voor aanvullende subsidie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047050&artikel=5&z=2023-03-25&g=2023-03-25), voor die vestiging afgewezen.
 
-#### Artikel 10. Subsidieverplichtingen
+##### Artikel 10. Subsidieverplichtingen
 
 In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) worden aan de subsidieontvanger de volgende verplichtingen opgelegd:
 
@@ -174,7 +200,7 @@ In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/j
 
 - d. de activiteiten waarvoor subsidie is verstrekt worden uiterlijk tot en met 31 juli 2024 uitgevoerd.
 
-#### Artikel 11. Verstrekking, besteding en verantwoording
+##### Artikel 11. Verstrekking, besteding en verantwoording
 
 1. De subsidie wordt direct vastgesteld binnen 13 weken na sluiting van de aanvraagperiode.
 
@@ -184,21 +210,21 @@ In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/j
 
 4. De subsidieontvanger toont op verzoek van de minister aan dat de activiteiten waarvoor subsidie is verstrekt, zijn verricht en dat is voldaan aan de verplichtingen die aan de subsidie verbonden zijn. In dit kader zal in ieder geval een steekproefcontrole plaatsvinden.
 
-#### Artikel 12. Betaling
+##### Artikel 12. Betaling
 
 De minister bepaalt het betaalritme van het subsidiebedrag in de beschikking.
 
-#### Artikel 13. Hardheidsclausule
+##### Artikel 13. Hardheidsclausule
 
 De minister kan één of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing daarvan, gelet op het belang dat de desbetreffende bepaling beoogt te beschermen zou leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 14. Inwerkingtreding en vervaldatum
+##### Artikel 14. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 juni 2027.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling verbetering basisvaardigheden.
 

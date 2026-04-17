@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling heterogene brugklassen"
+title: "Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 23 september 2021, nr. VO/29518735, houdende regels voor de subsidieverstrekking voor heterogene brugklassen (Subsidieregeling heterogene brugklassen)"
 identifier: "BWBR0045657"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-08-01
-laatste_update: 2023-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045657"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-08-01"
+last_updated: "2023-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045657"
+soort: "ministeriele-regeling"
+stam_id: "16089153"
+version_id: "28569952"
+internal_id: "C40316051"
+label_id: "16020284"
+dtd_version: "2.0"
+original_entry_into_force: "2021-12-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045657/2023-08-01/0"
+intitule_bron: "Stcrt.2021-42182"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-09-23"
+intitule_published: "2021-09-30"
+intitule_in_force: "2021-09-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-993"
+original_signed_date: "2021-12-07"
+original_published_date: "2022-02-09"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-993"
+entry_into_force_date: "2021-12-07"
+jci_1_3: "jci1.3:c:BWBR0045657&z=2023-08-01&g=2023-08-01"
+jci_1_0: "1.0:c:BWBR0045657&g=2023-08-01"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling heterogene brugklassen"
+signed_date: "2021-12-07"
+entry_into_force: "2021-12-07"
 ---
-
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 23 september 2021, nr. VO/29518735, houdende regels voor de subsidieverstrekking voor heterogene brugklassen (Subsidieregeling heterogene brugklassen)
 
 Gelet op [artikel 75a van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=75a), [artikel 71 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=71) en [127e van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=127e), de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1) en de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -48,11 +74,11 @@ In deze regeling wordt verstaan onder:
 
 - **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Doel van de regeling en te subsidiëren activiteiten
+##### Artikel 3. Doel van de regeling en te subsidiëren activiteiten
 
 1. Het doel van de regeling is dat scholen die van de regeling gebruik maken ten minste vanaf schooljaar 2023/2024 aantoonbaar een groter of beter aanbod hebben van heterogene brugklassen.
 
@@ -68,7 +94,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 3. Onderdeel a van het tweede lid is niet van toepassing op scholen voor praktijkonderwijs.
 
-#### Artikel 4. Subsidieplafonds
+##### Artikel 4. Subsidieplafonds
 
 Op grond van deze regeling is:
 
@@ -76,13 +102,13 @@ Op grond van deze regeling is:
 
 - b. voor subsidieverstrekking in 2023 in totaal een bedrag van € 21,25 miljoen beschikbaar.
 
-#### Artikel 5. Subsidiebedrag
+##### Artikel 5. Subsidiebedrag
 
 1. Het subsidiebedrag per vestiging bedraagt € 100.000.
 
 2. Het subsidiebedrag per aanvraag door een bevoegd gezag op Bonaire, Sint Eustatius en Saba wordt uitbetaald in dollars tegen de vastgestelde wisselkoers.
 
-#### Artikel 6. Aanvraag
+##### Artikel 6. Aanvraag
 
 1. Per vestiging wordt een aanvraag ingediend. Een bevoegd gezag kan voor meerdere vestigingen aanvragen indienen.
 
@@ -98,7 +124,7 @@ Op grond van deze regeling is:
 
 7. Voor de subsidieaanvraag moet gebruik worden gemaakt van het digitale aanvraagformulier voor deze regeling dat beschikbaar is gesteld op de website [www.dus-i.nl](onbekend). In afwijking van [artikel 3.3 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) bevat de aanvraag een beschrijving van de activiteiten waarvoor subsidie wordt aangevraagd en een globale planning.
 
-#### Artikel 7. Wijze van verdeling beschikbare middelen
+##### Artikel 7. Wijze van verdeling beschikbare middelen
 
 1. Indien het voor subsidieverstrekking beschikbare bedrag ontoereikend is om alle binnengekomen aanvragen te honoreren en de toekenning van een subsidiebedrag van ten minste 90% voor de aanvragen een overschrijding van het subsidieplafond zou voorkomen, wordt voor ten minste een bedrag van 90% de subsidie toegekend.
 
@@ -108,7 +134,7 @@ Op grond van deze regeling is:
 
 4. Indien na toepassing van het tweede en derde lid nog middelen resteren, worden de overige binnengekomen aanvragen door middel van loting gerangschikt.
 
-#### Artikel 8. Subsidieverplichtingen
+##### Artikel 8. Subsidieverplichtingen
 
 In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) voldoet de subsidieontvanger aan de volgende verplichtingen:
 
@@ -138,7 +164,7 @@ In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/j
 
 - h. de subsidieontvanger informeert ouders, leerlingen en andere belanghebbenden, bijvoorbeeld via de website van de school, over het soort brugklassen waarin leerlingen onderwijs kunnen volgen.
 
-#### Artikel 9. Besteding subsidie en verantwoording
+##### Artikel 9. Besteding subsidie en verantwoording
 
 1. De activiteiten waarvoor subsidie wordt verstrekt, worden vóór 1 januari 2025 uitgevoerd. Als de activiteiten zijn uitgevoerd en aan de verplichtingen is voldaan, kan het niet aangewende deel van de subsidie worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
@@ -152,29 +178,29 @@ In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/j
 
 6. Indien de uitkomst van de pilot pro/vmbo-onderbouwklassen aanleiding geeft om heterogene brugklassen waarin praktijkonderwijs wordt gecombineerd met één of meer andere schoolsoorten niet wettelijk mogelijk te maken, kan de minister bepalen ervan af te zien subsidie terug te vorderen bij scholen die deelnamen aan die pilot.
 
-#### Artikel 10. Betaling
+##### Artikel 10. Betaling
 
 1. De subsidie wordt vastgesteld binnen 13 weken na sluiting van het desbetreffende aanvraagtijdvak.
 
 2. De minister betaalt het subsidiebedrag ineens.
 
-#### Artikel 11. Inwerkingtreding en vervaldatum
+##### Artikel 11. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 augustus 2026, met dien verstande dat zij van toepassing blijft ten aanzien van de subsidies die op grond van deze regeling zijn verstrekt.
 
-#### Artikel 12. Evaluatie
+##### Artikel 12. Evaluatie
 
 De minister evalueert de subsidieregeling uiterlijk vanaf 2024.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling heterogene brugklassen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 10a. Omhang
+##### Artikel 10a. Omhang
 
 Deze regeling is mede gebaseerd op [artikel 5.11 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.11).
 

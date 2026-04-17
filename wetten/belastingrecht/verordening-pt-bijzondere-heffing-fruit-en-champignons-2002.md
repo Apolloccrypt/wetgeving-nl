@@ -1,13 +1,37 @@
 ---
-title: "Verordening PT Bijzondere heffing fruit en champignons 2002"
+title: "Verordening van het Productschap Tuinbouw van 3 juli 2001, houdende de vaststelling van een bijzondere heffing over de teelt van fruit en champignons voor het jaar 2002"
 identifier: "BWBR0012630"
-categorie: "Belastingrecht"
-publicatiedatum: 2002-04-20
-laatste_update: 2002-04-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012630"
+country: "nl"
+rank: "pbo"
+publication_date: "2002-04-20"
+last_updated: "2002-04-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012630"
+soort: "pbo"
+stam_id: "6037543"
+version_id: "10653682"
+internal_id: "C14476621"
+label_id: "6026954"
+original_entry_into_force: "2002-04-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012630/2002-04-20/0"
+intitule_bron: "Vbbo.2002-22"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-07-03"
+intitule_published: "2002-04-19"
+intitule_in_force: "2002-04-19"
+intitule_status: "goed"
+original_publication: "Vbbo.2002-22"
+original_signed_date: "2001-07-03"
+original_published_date: "2002-04-19"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-04-20"
+jci_1_3: "jci1.3:c:BWBR0012630&z=2002-04-20&g=2002-04-20"
+jci_1_0: "1.0:c:BWBR0012630&g=2002-04-20"
+citeertitel_status: "officieel"
+short_title: "Verordening PT Bijzondere heffing fruit en champignons 2002"
+signed_date: "2001-07-03"
+entry_into_force: "2002-04-20"
 ---
-
 # Verordening van het Productschap Tuinbouw van 3 juli 2001, houdende de vaststelling van een bijzondere heffing over de teelt van fruit en champignons voor het jaar 2002
 
 op voorstel van de Sectorcommissie Groenten en Fruit;
@@ -18,7 +42,7 @@ besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze verordening worden overgenomen de begripsbepalingen van de [artikelen 2](onbekend) en [3 van de Instellingsverordening Productschap Tuinbouw](onbekend).
 
@@ -39,7 +63,7 @@ besluit:
 
 #### § 2. Heffingsplicht
 
-#### Artikel 2
+##### Artikel 2
 
 1. De ondernemer, die in het jaar 2002 een onderneming drijft waarin fruit of champignons worden geteeld, is voor dat jaar aan het productschap een heffing verschuldigd
 
@@ -51,11 +75,11 @@ besluit:
 
 #### § 3. Grondslag en hoogte
 
-#### Artikel 3
+##### Artikel 3
 
 De heffing die is verschuldigd wordt opgelegd naar de grondslag grondgebruik, een en ander overeenkomstig de volgende artikelen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De heffing naar de grondslag grondgebruik wordt berekend naar de oppervlakte van de bij tuinbouwonderneming behorende cultuurgrond en bedraagt ten hoogste voor:
 
@@ -70,7 +94,7 @@ De heffing die is verschuldigd wordt opgelegd naar de grondslag grondgebruik, ee
 
 2. De hoogte van de heffing, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012630&paragraaf=3&artikel=3&z=2002-04-20&g=2002-04-20) en [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012630&paragraaf=3&artikel=4&z=2002-04-20&g=2002-04-20), wordt jaarlijks door het bestuur vastgesteld.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012630&paragraaf=3&artikel=4&z=2002-04-20&g=2002-04-20) wordt onder de bij de landbouwonderneming behorende cultuurgrond mede verstaan cultuurgrond die:
 
@@ -90,11 +114,11 @@ De heffing die is verschuldigd wordt opgelegd naar de grondslag grondgebruik, ee
 
 #### § 4. Oplegging en inning
 
-#### Artikel 6
+##### Artikel 6
 
 Indien een heffingsplichtige gegevens, die hem krachtens deze verordening of de [Verordening PT Registratie en verstrekking van gegevens 1997](onbekend) ten behoeve van de onderhavige verordening zijn gevraagd, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing wordt verhoogd met € 40 in verband met administratiekosten.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De oplegging van de krachtens deze verordening verschuldigde heffing vindt plaats na afloop van het jaar waarover de heffing verschuldigd is en geschiedt door toezending of uitreiking aan de heffingsplichtige van een heffingsnota.
 
@@ -108,11 +132,11 @@ Indien een heffingsplichtige gegevens, die hem krachtens deze verordening of de 
 
 3. In afwijking van het eerste lid kan de heffingsplichtige een voorlopige heffing worden opgelegd tot het bedrag waarop de heffing vermoedelijk zal worden vastgesteld. De voorlopige heffing wordt verrekend met de krachtens deze verordening verschuldigde heffing.
 
-#### Artikel 8
+##### Artikel 8
 
 Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming, als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012630&paragraaf=4&artikel=6&z=2002-04-20&g=2002-04-20), niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Betaling geschiedt binnen 30 dagen na dagtekening van de heffingsnota.
 
@@ -124,17 +148,17 @@ Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de
 
 - c. zodra de ondernemer zich metterwoon in het buitenland heeft gevestigd of van het voornemen daartoe blijkt.
 
-#### Artikel 10
+##### Artikel 10
 
 Aan de heffingsplichtige, die niet of niet geheel binnen de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012630&paragraaf=4&artikel=9&z=2002-04-20&g=2002-04-20) bedoelde termijn heeft betaald, kunnen de daaruit voortvloeiende extra kosten van maximaal € 22,50 in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127).
 
-#### Artikel 11
+##### Artikel 11
 
 De voorzitter is belast met de oplegging en inning van de heffing en de daarmee samenhangende kosten, bedoeld in de [artikelen 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012630&paragraaf=4&artikel=6&z=2002-04-20&g=2002-04-20).
 
 #### § 5. Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 1. Deze verordening wordt aangehaald als: Verordening PT Bijzondere heffing fruit en champignons 2002.
 

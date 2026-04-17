@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling Generieke Selectielijst Defensie (GSD) over de periode vanaf 1945"
+title: "Besluit vaststelling van de Generieke Selectielijst Defensie (GSD) over de periode vanaf 1945"
 identifier: "BWBR0034869"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2014-03-07
-laatste_update: 2014-03-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034869"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2014-03-07"
+last_updated: "2014-03-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034869"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "12590983"
+version_id: "21253252"
+internal_id: "C30520921"
+label_id: "12561454"
+dtd_version: "2.0"
+original_entry_into_force: "2014-03-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034869/2014-03-07/0"
+intitule_bron: "Stcrt.2014-5937"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-02-17"
+intitule_published: "2014-03-05"
+intitule_in_force: "2014-03-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-5937"
+original_signed_date: "2014-02-17"
+original_published_date: "2014-03-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-5937"
+entry_into_force_date: "2014-03-07"
+jci_1_3: "jci1.3:c:BWBR0034869&z=2014-03-07&g=2014-03-07"
+jci_1_0: "1.0:c:BWBR0034869&g=2014-03-07"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling Generieke Selectielijst Defensie (GSD) over de periode vanaf 1945"
+signed_date: "2014-02-17"
+entry_into_force: "2014-03-07"
 ---
-
 # Besluit vaststelling van de Generieke Selectielijst Defensie (GSD) over de periode vanaf 1945
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,11 +42,11 @@ Gehoord de deskundige als bedoeld in [art. 3, eerste lid, onder d, van het Archi
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘**generieke selectielijst voor de archiefbescheiden van het ministerie van defensie vanaf 1945**’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Met de vaststelling van deze selectielijst worden de volgende selectielijsten voor de zorgdrager Minister van Defensie ingetrokken:
 
@@ -150,7 +176,7 @@ Met de vaststelling van deze selectielijst worden de volgende selectielijsten vo
 
 - •. De [selectielijst stay behind organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0024140), vastgesteld 18-6-2008 (Staatscourant 129 van 8-7-2008).
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

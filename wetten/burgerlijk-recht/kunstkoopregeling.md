@@ -1,13 +1,34 @@
 ---
 title: "KunstKoopregeling"
 identifier: "BWBR0013322"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2002-08-26
-laatste_update: 2002-08-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013322"
+country: "nl"
+rank: "zbo"
+publication_date: "2002-08-26"
+last_updated: "2002-08-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013322"
+soort: "zbo"
+stam_id: "6534543"
+version_id: "11321252"
+internal_id: "C15255701"
+label_id: "6523204"
+original_entry_into_force: "2002-08-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013322/2002-08-26/0"
+intitule_bron: "Stcrt.2002-162"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2002-08-26"
+intitule_in_force: "2002-08-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2002-162"
+original_published_date: "2002-08-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2002-162-p12-SC36029"
+entry_into_force_date: "2002-08-26"
+jci_1_3: "jci1.3:c:BWBR0013322&z=2002-08-26&g=2002-08-26"
+jci_1_0: "1.0:c:BWBR0013322&g=2002-08-26"
+citeertitel_status: "redactioneel"
+entry_into_force: "2002-08-26"
 ---
-
 # KunstKoopregeling
 
 ### 1. Inleiding

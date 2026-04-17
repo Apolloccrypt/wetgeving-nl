@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling Meerurenmaatwerk"
+title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 23 mei 2025, nr. FEZ/50777613, houdende regels voor de subsidieverstrekking voor de pilot meer uren werken in het primair onderwijs (Subsidieregeling Meerurenmaatwerk)"
 identifier: "BWBR0051093"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-06-11
-laatste_update: 2025-06-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051093"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-06-11"
+last_updated: "2025-06-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051093"
+soort: "ministeriele-regeling"
+stam_id: "17443373"
+version_id: "30758952"
+internal_id: "C44088361"
+label_id: "17346254"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051093/2025-06-11/0"
+intitule_bron: "Stcrt.2025-19356"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-05-23"
+intitule_published: "2025-06-10"
+intitule_in_force: "2025-06-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-19356"
+original_signed_date: "2025-05-23"
+original_published_date: "2025-06-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-19356"
+entry_into_force_date: "2025-06-11"
+jci_1_3: "jci1.3:c:BWBR0051093&z=2025-06-11&g=2025-06-11"
+jci_1_0: "1.0:c:BWBR0051093&g=2025-06-11"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling Meerurenmaatwerk"
+signed_date: "2025-05-23"
+entry_into_force: "2025-06-11"
 ---
-
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 23 mei 2025, nr. FEZ/50777613, houdende regels voor de subsidieverstrekking voor de pilot meer uren werken in het primair onderwijs (Subsidieregeling Meerurenmaatwerk)
 
 Gelet op de [artikel 71 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=71) en [artikel 71 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=71);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -36,11 +62,11 @@ In deze regeling wordt verstaan onder:
 
 - **school:** school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) of [artikel 1 van de Wet op de experticecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1).
 
-#### Artikel 2. Toepassing [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Te subsidiëren activiteiten
+##### Artikel 3. Te subsidiëren activiteiten
 
 1. De minister kan aan een bevoegd gezag van een school subsidie verstrekken ten behoeve van het op één of meerdere onder het bevoegd gezag ressorterende scholen aanbieden en uitvoeren van:
 
@@ -74,7 +100,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - b. Urenuitbreiding: voor leraren die hun arbeidsduur uitbreiden met minimaal 0,1 fte.
 
-#### Artikel 4. Subsidieplafond
+##### Artikel 4. Subsidieplafond
 
 1. Voor subsidieverstrekking op grond van deze regeling is in 2025 tot en met 2028 een totaalbedrag van € 14.812.000 beschikbaar, waarvan:
 
@@ -86,7 +112,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 3. Indien één van de bedragen, bedoeld in het eerste lid, in zijn geheel niet wordt benut, is het tweede lid niet van toepassing.
 
-#### Artikel 5. Hoogte subsidiebedrag
+##### Artikel 5. Hoogte subsidiebedrag
 
 1. De subsidie voor de variant bedoeld in [artikel 3, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051093&artikel=3&z=2025-06-11&g=2025-06-11), bedraagt ten hoogste € 8.695.000,– per bevoegd gezag. Het totale subsidiebedrag per bevoegd gezag bestaat uit:
 
@@ -104,7 +130,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 4. Onverminderd het tweede lid bedraagt de subsidie voor de variant, bedoeld in [artikel 3, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051093&artikel=3&z=2025-06-11&g=2025-06-11), niet meer dan 97,5% van de gerealiseerde kosten.
 
-#### Artikel 6. Aanvraag subsidie
+##### Artikel 6. Aanvraag subsidie
 
 1. Een aanvraag voor de subsidie kan worden ingediend van 1 juli 2025 9:00 uur tot en met 5 september 2025 13:00 uur. Aanvragen die buiten het aanvraagtijdvak worden ingediend, worden afgewezen.
 
@@ -132,7 +158,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 6. De subsidie wordt aangevraagd met het aanvraagformulier dat is bekendgemaakt op [www.dus-i.nl](http://www.dus-i.nl). Het activiteitenplan en de begroting worden opgesteld met gebruik making van de formats die daartoe op [www.dus-i.nl](http://www.dus-i.nl) beschikbaar zijn gesteld.
 
-#### Artikel 7. Wijze van verdeling beschikbare middelen
+##### Artikel 7. Wijze van verdeling beschikbare middelen
 
 1. De minister verdeelt het beschikbare bedrag op volgorde van binnenkomst van de volledige aanvragen.
 
@@ -140,7 +166,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 3. Indien de aanvrager geen gebruik maakt van de gelegenheid de aanvraag aan te passen, bedoeld in het tweede lid, wordt aan de aanvrager van de eerstvolgende binnengekomen aanvraag op de ranglijst de gelegenheid, bedoeld in het tweede lid, geboden totdat het subsidieplafond bereikt is of geen aanvragers meer op de ranglijst staan.
 
-#### Artikel 8. Verplichtingen subsidie
+##### Artikel 8. Verplichtingen subsidie
 
 Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
@@ -164,7 +190,7 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
 - j. De subsidieontvanger werkt mee aan de door de minister ingestelde monitoring en evaluatie.
 
-#### Artikel 9. Verstrekking, betaling, besteding en verantwoording subsidie
+##### Artikel 9. Verstrekking, betaling, besteding en verantwoording subsidie
 
 1. De minister beslist op de aanvragen binnen 13 weken na het einde van het in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051093&artikel=6&z=2025-06-11&g=2025-06-11), bedoelde aanvraagtijdvak.
 
@@ -176,17 +202,17 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
 5. De subsidie wordt uitsluitend besteed aan de activiteiten waarvoor deze wordt verleend. Niet bestede middelen worden teruggevorderd.
 
-#### Artikel 10. Inwerkingtreding en vervaldatum
+##### Artikel 10. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 mei 2030, met dien verstande dat de regeling van toepassing blijft ten aanzien van de subsidies die voor die datum op grond van deze regeling zijn verstrekt.
 
-#### Artikel 11. Hardheidsclausule
+##### Artikel 11. Hardheidsclausule
 
 1. De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat deze regeling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling Meerurenmaatwerk.
 

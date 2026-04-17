@@ -1,13 +1,39 @@
 ---
-title: "Besluit buitengewoon opsporingsambtenaar regionale eenheid Oost-Nederland, Team TBA 2025"
+title: "Besluit van de Staatssecretaris van Justitie en Veiligheid van 17 oktober 2025 nr. BOACAT2025/188, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij regionale eenheid Oost-Nederland, Team Buitengerechtelijke Afdoening"
 identifier: "BWBR0051646"
-categorie: "Strafrecht"
-publicatiedatum: 2025-10-29
-laatste_update: 2025-10-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051646"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-29"
+last_updated: "2025-10-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051646"
+soort: "ministeriele-regeling"
+stam_id: "17559713"
+version_id: "30986512"
+internal_id: "C44376711"
+label_id: "17460884"
+dtd_version: "2.0"
+original_entry_into_force: "2025-10-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051646/2025-10-29/0"
+intitule_bron: "Stcrt.2025-36060"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-10-17"
+intitule_published: "2025-10-24"
+intitule_in_force: "2025-10-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-36060"
+original_signed_date: "2025-10-17"
+original_published_date: "2025-10-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-36060"
+entry_into_force_date: "2025-10-29"
+jci_1_3: "jci1.3:c:BWBR0051646&z=2025-10-29&g=2025-10-29"
+jci_1_0: "1.0:c:BWBR0051646&g=2025-10-29"
+citeertitel_status: "officieel"
+short_title: "Besluit buitengewoon opsporingsambtenaar regionale eenheid Oost-Nederland, Team TBA 2025"
+signed_date: "2025-10-17"
+entry_into_force: "2025-10-29"
 ---
-
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 17 oktober 2025 nr. BOACAT2025/188, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij regionale eenheid Oost-Nederland, Team Buitengerechtelijke Afdoening
 
 Gelezen het verzoek van regionale eenheid Oost-Nederland van 10 oktober 2025 en de adviezen van de hoofdofficier van Justitie van het arrondissementsparket Oost-Nederland en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
@@ -26,17 +52,17 @@ de [Beleidsregels buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/j
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051646&artikel=2&z=2025-10-29&g=2025-10-29).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Als buitengewoon opsporingsambtenaar worden aangewezen de ambtenaren van politie, bedoeld in [artikel 2, onder b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), werkzaam bij het Team Buitengerechtelijke Afdoening, in de functie van Assistent Intake en Service A, Assistent Intake en Service B, medewerker Intake en Service, generalist Intake en Service, senior Intake en Service en de Operationeel expert Intake en Service die hun werkgebied hebben in de regionale eenheid Oost-Nederland.
 
 2. Als buitengewoon opsporingsambtenaar worden aangewezen de vrijwillig ambtenaren van politie bedoeld in [artikel 2, onder c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2) voor zover zij zijn aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie, die hun werkgebied hebben in de regionale eenheid Oost-Nederland.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein VI, Generieke Opsporing, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
 
@@ -44,17 +70,17 @@ In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon
 
 3. De buitengewoon opsporingsambtenaar vermeldt in zijn processen-verbaal en schriftelijke verslagleggingen het in het eerste lid genoemde domein.
 
-#### Artikel 4
+##### Artikel 4
 
 Op grond van dit besluit kunnen maximaal 25 personen als buitengewoon opsporingsambtenaar worden beëdigd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen hoofdofficier van Justitie van het arrondissementsparket Oost-Nederland.
 
 2. Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de korpschef als bedoeld in [artikel 27 van de Politiewet2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27).
 
-#### Artikel 6
+##### Artikel 6
 
 1. De korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27) brengt jaarlijks, voor 1 april, verslag uit over:
 
@@ -66,7 +92,7 @@ Op grond van dit besluit kunnen maximaal 25 personen als buitengewoon opsporings
 
 2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051646&artikel=5&z=2025-10-29&g=2025-10-29) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
-#### Artikel 7
+##### Artikel 7
 
 Aan de buitengewoon opsporingsambtenaar wordt op grond van het gestelde in het onderdeel Beperkte opsporingsbevoegdheden van [bijlage H van de Beleidsregels Buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=H), ontheffing verleend van het bepaalde in [artikel 16, eerste lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=16).
 
@@ -74,13 +100,13 @@ De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afg
 
 Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven aktes.
 
-#### Artikel 8
+##### Artikel 8
 
 Het [Besluit buitengewoon opsporingsambtenaar regionale eenheid Oost-Nederland, Team TBA 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044259) nr. BOACAT2020/056 zal vervallen op 29 oktober 2025.
 
 Dit besluit treedt in werking met ingang van 29 oktober 2025 en vervalt met ingang van 29 oktober 2030.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar regionale eenheid Oost-Nederland, Team TBA 2025.
 

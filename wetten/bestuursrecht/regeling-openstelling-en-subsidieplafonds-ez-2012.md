@@ -1,20 +1,46 @@
 ---
-title: "Regeling openstelling en subsidieplafonds EZ 2012"
+title: "Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 15 december 2011, nr. WJZ / 11144835, tot vaststelling van subsidieplafonds en termijnen van openstelling van EZ-subsidieregelingen (Regeling openstelling en subsidieplafonds EZ 2012)"
 identifier: "BWBR0030873"
-categorie: "Bestuursrecht"
-publicatiedatum: 2012-12-29
-laatste_update: 2012-12-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030873"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2012-12-29"
+last_updated: "2012-12-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030873"
+soort: "ministeriele-regeling"
+stam_id: "11552303"
+version_id: "19041712"
+internal_id: "C26557781"
+label_id: "11525454"
+dtd_version: "2.0"
+original_entry_into_force: "2012-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030873/2012-12-29/0"
+intitule_bron: "Stcrt.2011-23060"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-12-15"
+intitule_published: "2011-12-21"
+intitule_in_force: "2011-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-23060"
+original_signed_date: "2011-12-15"
+original_published_date: "2011-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-23060"
+entry_into_force_date: "2012-01-01"
+jci_1_3: "jci1.3:c:BWBR0030873&z=2012-12-29&g=2012-12-29"
+jci_1_0: "1.0:c:BWBR0030873&g=2012-12-29"
+citeertitel_status: "officieel"
+short_title: "Regeling openstelling en subsidieplafonds EZ 2012"
+signed_date: "2011-12-15"
+entry_into_force: "2012-01-01"
 ---
-
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 15 december 2011, nr. WJZ / 11144835, tot vaststelling van subsidieplafonds en termijnen van openstelling van EZ-subsidieregelingen (Regeling openstelling en subsidieplafonds EZ 2012)
 
 Gelet op [artikel 16 van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=16) en de [artikelen 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=3.9), [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5.5) en [5a.5 van de Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=5a.5);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Als perioden in 2012, waarin subsidieaanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; aanvragen moeten zijn ontvangen op de genoemde einddatum vóór 17.00 uur.
 
@@ -152,7 +178,7 @@ Besluit:
 | 7.7 | Subsidieregeling internationaal excelleren (demonstratieprojecten, 2xplore, opkomende markten kennisverwerving) | 3.1, 4.1 en 5.19 | Projecten, betrekking hebbend op de doellanden Colombia (sectoren agro, inclusief biobased economy, klimaat-adaptatie en groene technologie; water; gezondheid; logistiek; energie), Vietnam (sectoren agro; water; energie; maritieme industrie; logistiek; financiën) en Zuid-Afrika (sectoren water; transport en logistiek; duurzame energie; agro). | 01-07 t/m 31-12 | 2.400.000 |
 | 7.8 | Subsidieregeling internationaal excelleren (demonstratieprojecten, 2xplore, opkomende markten kennisverwerving) | 3.1, 4.1 en 5.19 | Projecten, betrekking hebbend op de doellanden Colombia, Vietnam en Zuid-Afrika (overige sectoren). | 01-07 t/m 31-12 | 600.000 |
 
-#### Artikel 2
+##### Artikel 2
 
 1. Als perioden, waarin subsidieaanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; aanvragen moeten zijn ontvangen op de genoemde einddatum vóór 17.00 uur.
 
@@ -171,7 +197,7 @@ Besluit:
 |   | Subsidieregeling sterktes in innovatie (IOP’s) | 3.2 | Photonic devices | 26-3-2012 t/m 20-4-2012 | 4.750.000 |
 | 6 | [Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855) (innovatieprestatiecontracten) | 4.18 |   | 22-11-2011 t/m 17-1-2012 | 17.500.000 |
 
-#### Artikel 3
+##### Artikel 3
 
 De percentages, bedoeld in [artikel 3.9 van de Subsidieregeling innoveren](https://wetten.overheid.nl/jci1.3:c:BWBR0024855&artikel=3.9), bedragen voor de in 2012 aangevraagde subsidies voor innovatiekredieten:
 
@@ -183,11 +209,11 @@ De percentages, bedoeld in [artikel 3.9 van de Subsidieregeling innoveren](https
 
 - d. de opslag voor het terugbetalingsrisico: 3 procent per jaar.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van 1 januari 2012.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling openstelling en subsidieplafonds EZ 2012.
 

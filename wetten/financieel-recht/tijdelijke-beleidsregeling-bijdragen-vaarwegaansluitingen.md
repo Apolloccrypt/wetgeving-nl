@@ -1,28 +1,52 @@
 ---
 title: "Tijdelijke beleidsregeling bijdragen vaarwegaansluitingen"
 identifier: "BWBR0007716"
-categorie: "Financieel recht"
-publicatiedatum: 1996-01-01
-laatste_update: 1996-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007716"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1996-01-01"
+last_updated: "1996-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007716"
+soort: "ministeriele-regeling"
+stam_id: "3632133"
+version_id: "5415382"
+internal_id: "C5608471"
+label_id: "3612264"
+dtd_version: "2.0"
+original_entry_into_force: "1996-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007716/1996-01-01/0"
+intitule_bron: "Stcrt.1995-247"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-12-11"
+intitule_published: "1995-12-20"
+intitule_in_force: "1995-12-20"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-247"
+original_signed_date: "1995-12-11"
+original_published_date: "1995-12-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1996-01-01"
+jci_1_3: "jci1.3:c:BWBR0007716&z=1996-01-01&g=1996-01-01"
+jci_1_0: "1.0:c:BWBR0007716&g=1996-01-01"
+citeertitel_status: "officieel"
+signed_date: "1995-12-11"
+entry_into_force: "1996-01-01"
 ---
-
 # Tijdelijke beleidsregeling bijdragen vaarwegaansluitingen
 
 Besluit:
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 De Minister kan bijdragen verstrekken in de investeringskosten ten behoeve van vaarwegaansluitingen, waaronder mede begrepen de uitbreiding of verbetering van bestaande vaarwegaansluitingen of het reactiveren van in onbruik geraakte vaarwegaansluitingen in het kader van de stimulering van intermodaal en multimodaal vervoer. De bijdrage kan worden verstrekt voor zowel investeringen ten behoeve van de infrastructuur als ten behoeve van de vast geïnstalleerde en mobiele uitrusting die nodig is voor de overslag van en naar de vaarweg.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het subsidieplafond bedraagt voor het jaar 1996 f 5.000.000,‐.
 
@@ -30,7 +54,7 @@ De Minister kan bijdragen verstrekken in de investeringskosten ten behoeve van v
 
 #### § 2. Aanvraag om een bijdrage
 
-#### Artikel 4
+##### Artikel 4
 
 1. De aanvraag om een bijdrage wordt ingediend door tussenkomst van de Hoofdingenieur-Directeur van Rijkswaterstaat in de betrokken regio.
 
@@ -50,11 +74,11 @@ De Minister kan bijdragen verstrekken in de investeringskosten ten behoeve van v
 
 #### § 3. Beslissing op de aanvraag
 
-#### Artikel 5
+##### Artikel 5
 
 De Minister beslist niet op de aanvraag zolang op een verzoek tot surséance van betaling of faillissement van de aanvrager de rechter niet onherroepelijk heeft beslist.
 
-#### Artikel 6
+##### Artikel 6
 
 De Minister wijst de aanvraag in ieder geval af, indien:
 
@@ -72,7 +96,7 @@ De Minister wijst de aanvraag in ieder geval af, indien:
 
 - g. het project niet voor ten minste 50% met niet van overheidswege verstrekte middelen wordt gefinancierd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De bijdrage voor een project bedraagt ten hoogste 50% van de geraamde kosten van infrastructuur en van de vast geïnstalleerde en mobiele uitrusting die nodig is voor de overslag van en naar de vaarweg, doch niet meer dan f 1.500.000,-.
 
@@ -82,7 +106,7 @@ De Minister wijst de aanvraag in ieder geval af, indien:
 
 #### § 4. Verplichtingen van de aanvrager
 
-#### Artikel 8
+##### Artikel 8
 
 De aanvrager:
 
@@ -106,7 +130,7 @@ De aanvrager:
 
 #### § 5. Toezicht
 
-#### Artikel 9
+##### Artikel 9
 
 1. De Minister wijst toezichthouders aan, die bevoegd zijn inlichtingen te verlangen en inzage te verlangen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is.
 
@@ -114,7 +138,7 @@ De aanvrager:
 
 3. Indien het maken van kopieën niet ter plaatse kan geschieden, zijn zij bevoegd de gegevens en bescheiden voor dat doel gedurende korte tijd mee te nemen tegen een bewijs van ontvangst.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De door de Minister aangewezen toezichthouders zijn bevoegd elke plaats te betreden, met uitzondering van een woning zonder toestemming van de bewoner, voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is.
 
@@ -122,7 +146,7 @@ De aanvrager:
 
 #### § 6. Vaststelling, uitbetaling en verantwoording van de bijdrage
 
-#### Artikel 11
+##### Artikel 11
 
 1. De Minister stelt de definitieve bijdrage vast binnen vier weken na de indiening van de stukken, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006264&artikel=14), van het Besluit.
 
@@ -134,13 +158,13 @@ De aanvrager:
 
 #### § 7. Beëindiging van het project
 
-#### Artikel 12
+##### Artikel 12
 
 Het project kan met toestemming van de Minister tussentijds worden beëindigd. Aan deze toestemming kan de Minister nadere voorwaarden verbinden.
 
 #### § 8. Intrekking van de bijdrage
 
-#### Artikel 13
+##### Artikel 13
 
 1. In ieder geval kan de Minister de bijdrage geheel of gedeeltelijk intrekken, indien:
 
@@ -158,19 +182,19 @@ Het project kan met toestemming van de Minister tussentijds worden beëindigd. A
 
 #### § 9. Evaluatiebepaling
 
-#### Artikel 14
+##### Artikel 14
 
 In 2001 brengt de Minister een rapport uit, houdende evaluatie van de doelmatigheid en doeltreffendheid van deze regeling.
 
 #### § 10. Slotbepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 1. Deze regeling treedt in werking met ingang van 1 januari 1996.
 
 2. De Minister geeft voor het laatst in 2000 toepassing aan [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007716&paragraaf=3&z=1996-01-01&g=1996-01-01).
 
-#### Artikel 16
+##### Artikel 16
 
 Deze beleidsregeling wordt aangehaald als: Tijdelijke beleidsregeling bijdragen vaarwegaansluitingen.
 

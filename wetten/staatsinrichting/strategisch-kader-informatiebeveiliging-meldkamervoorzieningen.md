@@ -1,20 +1,46 @@
 ---
-title: "Strategisch kader informatiebeveiliging meldkamervoorzieningen"
+title: "Regeling van de Minister van Justitie en Veiligheid van 13 februari 2024, kenmerk 4644372, inzake het strategisch kader informatiebeveiliging voor de meldkamervoorzieningen die door de hoofdgebruikers worden gebruikt bij de uitvoering van hun meldkamerfunctie en worden beheerd door de beheerder (Strategisch kader informatiebeveiliging meldkamervoorzieningen)"
 identifier: "BWBR0049397"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2024-02-24
-laatste_update: 2024-02-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049397"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-02-24"
+last_updated: "2024-02-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049397"
+soort: "ministeriele-regeling"
+stam_id: "17037203"
+version_id: "29977792"
+internal_id: "C42980761"
+label_id: "16946754"
+dtd_version: "2.0"
+original_entry_into_force: "2024-02-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049397/2024-02-24/0"
+intitule_bron: "Stcrt.2024-5405"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-02-13"
+intitule_published: "2024-02-23"
+intitule_in_force: "2024-02-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-5405"
+original_signed_date: "2024-02-13"
+original_published_date: "2024-02-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-5405"
+entry_into_force_date: "2024-02-24"
+jci_1_3: "jci1.3:c:BWBR0049397&z=2024-02-24&g=2024-02-24"
+jci_1_0: "1.0:c:BWBR0049397&g=2024-02-24"
+citeertitel_status: "officieel"
+short_title: "Strategisch kader informatiebeveiliging meldkamervoorzieningen"
+signed_date: "2024-02-13"
+entry_into_force: "2024-02-24"
 ---
-
 # Regeling van de Minister van Justitie en Veiligheid van 13 februari 2024, kenmerk 4644372, inzake het strategisch kader informatiebeveiliging voor de meldkamervoorzieningen die door de hoofdgebruikers worden gebruikt bij de uitvoering van hun meldkamerfunctie en worden beheerd door de beheerder (Strategisch kader informatiebeveiliging meldkamervoorzieningen)
 
 Gelet op [artikel 23, eerste en tweede lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=23);
 
 Besluit:
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In dit strategisch kader wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In dit strategisch kader wordt verstaan onder:
 
 - k). **ICV:** in-controlverklaring, een beschrijving van de kwaliteit van de bedrijfsvoering van de betreffende organisatie met betrekking tot de verplichtingen die voortvloeien uit deze regeling en het informatiebeveiligingsbeleidsbeleid meldkamervoorzieningen.
 
-#### Artikel 2. Algemeen kader
+##### Artikel 2. Algemeen kader
 
 1. De informatiebeveiliging van de meldkamervoorzieningen wordt ingericht volgens ten minste de BIO.
 
@@ -56,7 +82,7 @@ In dit strategisch kader wordt verstaan onder:
 
 4. De beheerder en de hoofdgebruikers rapporteren periodiek over de voortgang van de uitvoering van de implementatieplannen aan de multidisciplinaire sturingslijn via de PDCA-cyclus van het beleids- en bestedingsplan meldkamers.
 
-#### Artikel 3. Bestuurlijk Meldkamer Beraad en Strategisch Meldkamer Beraad
+##### Artikel 3. Bestuurlijk Meldkamer Beraad en Strategisch Meldkamer Beraad
 
 1. Wijziging van het informatiebeveiligingsbeleid van de meldkamervoorzieningen vindt plaats na overleg met het Strategisch Meldkamer Beraad, bedoeld in [artikel 4, eerste lid, van de Regeling hoofdlijnen beleid en beheer meldkamers](https://wetten.overheid.nl/jci1.3:c:BWBR0043762&artikel=4), en wordt vastgesteld door het Bestuurlijk Meldkamer Beraad, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043762&artikel=3), van die regeling.
 
@@ -72,7 +98,7 @@ In dit strategisch kader wordt verstaan onder:
 
 7. Voor het realiseren van de taken, zoals genoemd in dit artikel, kan het Strategisch Meldkamer Beraad een hulpstructuur instellen.
 
-#### Artikel 4. Beheerder meldkamervoorzieningen
+##### Artikel 4. Beheerder meldkamervoorzieningen
 
 1. De beheerder is verantwoordelijk voor het implementeren en naleven van het informatiebeveiligingsbeleid meldkamervoorzieningen door de eigen organisatie.
 
@@ -88,7 +114,7 @@ In dit strategisch kader wordt verstaan onder:
 
 5. De beheerder stelt jaarlijks een ICV op ten aanzien van het beheer van de meldkamervoorzieningen.
 
-#### Artikel 5. Hoofdgebruikers en medegebruikers meldkamervoorziening
+##### Artikel 5. Hoofdgebruikers en medegebruikers meldkamervoorziening
 
 1. Elke hoofdgebruiker is zelf verantwoordelijk voor het implementeren en naleven van het voor zijn organisatie van toepassing zijnde informatiebeveiligingsbeleid meldkamervoorzieningen binnen de eigen organisatie.
 
@@ -100,15 +126,15 @@ In dit strategisch kader wordt verstaan onder:
 
 5. Elke hoofdgebruiker is verplicht jaarlijks een ICV af te geven voor bespreking in het Strategisch Meldkamer Beraad. In de ICV van de hoofdgebruiker worden ook de medegebruikers die onder de verantwoordelijkheid van de hoofdgebruiker vallen meegenomen.
 
-#### Artikel 6. Evaluatie
+##### Artikel 6. Evaluatie
 
 De Minister van Justitie en Veiligheid zal minstens eens in de vijf jaar de doeltreffendheid en de effecten van het strategisch kader evalueren door middel van audits.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Strategisch kader informatiebeveiliging meldkamervoorzieningen.
 

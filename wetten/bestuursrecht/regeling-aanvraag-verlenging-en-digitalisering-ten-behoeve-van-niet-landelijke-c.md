@@ -1,20 +1,46 @@
 ---
-title: "Regeling aanvraag verlenging en digitalisering ten behoeve van niet-landelijke commerciële radio-omroep 2021"
+title: "Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 2 september 2021, nr. WJZ/ 21144379, houdende regels inzake de aanvraag verlenging en digitalisering commerciële radio-omroep (middengolf en niet-landelijke FM) en verlenging niet-gekoppelde vergunning voor digitale radio-omroep (laag 4) (Regeling aanvraag verlenging en digitalisering ten behoeve van niet-landelijke commerciële radio-omroep 2021)"
 identifier: "BWBR0045603"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-09-11
-laatste_update: 2021-09-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045603"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-09-11"
+last_updated: "2021-09-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045603"
+soort: "ministeriele-regeling"
+stam_id: "16074133"
+version_id: "27997202"
+internal_id: "C39491281"
+label_id: "16006064"
+dtd_version: "2.0"
+original_entry_into_force: "2021-09-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045603/2021-09-11/0"
+intitule_bron: "Stcrt.2021-40095"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-09-02"
+intitule_published: "2021-09-10"
+intitule_in_force: "2021-09-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-40095"
+original_signed_date: "2021-09-02"
+original_published_date: "2021-09-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-40095"
+entry_into_force_date: "2021-09-11"
+jci_1_3: "jci1.3:c:BWBR0045603&z=2021-09-11&g=2021-09-11"
+jci_1_0: "1.0:c:BWBR0045603&g=2021-09-11"
+citeertitel_status: "officieel"
+short_title: "Regeling aanvraag verlenging en digitalisering ten behoeve van niet-landelijke commerciële radio-omroep 2021"
+signed_date: "2021-09-02"
+entry_into_force: "2021-09-11"
 ---
-
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 2 september 2021, nr. WJZ/ 21144379, houdende regels inzake de aanvraag verlenging en digitalisering commerciële radio-omroep (middengolf en niet-landelijke FM) en verlenging niet-gekoppelde vergunning voor digitale radio-omroep (laag 4) (Regeling aanvraag verlenging en digitalisering ten behoeve van niet-landelijke commerciële radio-omroep 2021)
 
 Gelet op [artikel 3.17 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.17) en [artikel 18, vijfde en elfde lid, van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=18),
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - **verlengbaarheidsbesluit:** Besluit verlengbaarheid vergunningen niet-landelijke commerciële radio FM-band, vergunningen voor commerciële radio-omroep in de AM-band en niet-gekoppelde vergunningen voor digitale radio-omroep in laag 4 (2021).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een aanvraag tot verlenging van de looptijd tot 1 september 2025 van een FM-vergunning, een middengolfvergunning of een niet-gekoppelde vergunning voor digitale radio-omroep in laag 4 wordt ingediend bij de Minister.
 
@@ -46,13 +72,13 @@ In deze regeling wordt verstaan onder:
 
 6. In de aanvraag wordt, voor zover deze betrekking heeft op verlenging van een FM-vergunning en voor zover van toepassing, vermeld van welke vergunningen voor landelijke of niet-landelijke commerciële radio in de FM-band de aanvrager en een met de aanvrager verbonden instelling reeds houder zijn.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De aanvrager van een verlenging van een FM-vergunning of middengolfvergunning dient gelijktijdig met de aanvraag, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045603&artikel=2&z=2021-09-11&g=2021-09-11), een aanvraag voor één of twee gekoppelde vergunningenvoor digitale radio-omroep in, conform nationale voetnoot HOL006 van het [Nationaal Frequentieplan 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035791).
 
 2. [Artikel 2, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045603&artikel=2&z=2021-09-11&g=2021-09-11), is van overeenkomstige toepassing.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De aanvrager verstrekt ter onderbouwing van zijn financiële draagkracht om te kunnen voldoen aan de aan de aangevraagde gekoppelde vergunning voor digitale radio-omroep verbonden verplichtingen en de daaruit voortvloeiende investeringen:
 
@@ -62,7 +88,7 @@ In deze regeling wordt verstaan onder:
 
 2. Het eerste lid is van overeenkomstige toepassing op de degene die een aanvraag indient als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045603&artikel=2&z=2021-09-11&g=2021-09-11), tot verlenging van een niet-gekoppelde vergunning voor digitale radio-omroep in laag 4.
 
-#### Artikel 5
+##### Artikel 5
 
 De Minister wijst de aanvraag tot verlenging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045603&artikel=2&z=2021-09-11&g=2021-09-11), in ieder geval af indien:
 
@@ -70,7 +96,7 @@ De Minister wijst de aanvraag tot verlenging, bedoeld in [artikel 2, eerste lid]
 
 - b. de aanvraag voor de gekoppelde vergunning voor digitale radio-omroep, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045603&artikel=3&z=2021-09-11&g=2021-09-11), geheel of gedeeltelijk wordt afgewezen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien de aanvrager niet heeft voldaan aan een van de in [artikel 2, vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045603&artikel=2&z=2021-09-11&g=2021-09-11), in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045603&artikel=3&z=2021-09-11&g=2021-09-11) of in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045603&artikel=4&z=2021-09-11&g=2021-09-11) gestelde eisen, deelt de Minister dit de aanvrager mee en stelt de Minister de aanvrager in de gelegenheid het verzuim te herstellen.
 
@@ -80,7 +106,7 @@ De Minister wijst de aanvraag tot verlenging, bedoeld in [artikel 2, eerste lid]
 
 4. Indien het verzuim niet binnen de termijn, bedoeld in het tweede lid, en niet op de wijze, vermeld in het derde lid, is hersteld of de aanvrager na herstel niet heeft voldaan aan de in [artikel 2, vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045603&artikel=2&z=2021-09-11&g=2021-09-11), in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045603&artikel=3&z=2021-09-11&g=2021-09-11) of in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045603&artikel=4&z=2021-09-11&g=2021-09-11) gestelde eisen, kan de Minister besluiten de aanvraag niet te behandelen.
 
-#### Artikel 7
+##### Artikel 7
 
 Een aanvraag tot verlenging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045603&artikel=2&z=2021-09-11&g=2021-09-11), wordt toegewezen, voor zover de aanvraag:
 
@@ -90,19 +116,19 @@ Een aanvraag tot verlenging, bedoeld in [artikel 2, eerste lid](https://wetten.o
 
 - c. door de Minister niet wordt afgewezen op grond van [artikel 3.19, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.19), welke gronden van overeenkomstige toepassing worden verklaard op de aanvraag tot verlenging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045603&artikel=2&z=2021-09-11&g=2021-09-11).
 
-#### Artikel 8
+##### Artikel 8
 
 De aanvraag op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045603&artikel=3&z=2021-09-11&g=2021-09-11), wordt in ieder geval afgewezen indien de aanvraag, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045603&artikel=2&z=2021-09-11&g=2021-09-11), niet wordt toegewezen.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt de Regeling extra vergunningen publieke mediadienst.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling aanvraag verlenging en digitalisering ten behoeve van niet-landelijke commerciële radio-omroep 2021.
 

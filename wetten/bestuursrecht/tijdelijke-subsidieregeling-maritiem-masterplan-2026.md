@@ -1,20 +1,46 @@
 ---
-title: "Tijdelijke subsidieregeling Maritiem Masterplan 2026"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat van 9 februari 2026, nr. IENW/BSK-2026/15968, houdende tijdelijke regels ter stimulering van demonstraties binnen het Maritiem Masterplan 2026 (Tijdelijke subsidieregeling Maritiem Masterplan 2026) [KetenID WGK 028498]"
 identifier: "BWBR0052305"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-02-20
-laatste_update: 2026-02-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052305"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-02-20"
+last_updated: "2026-02-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052305"
+soort: "ministeriele-regeling"
+stam_id: "17761573"
+version_id: "31385012"
+internal_id: "C44850621"
+label_id: "17659784"
+dtd_version: "2.0"
+original_entry_into_force: "2026-02-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052305/2026-02-20/0"
+intitule_bron: "Stcrt.2026-3599"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-02-09"
+intitule_published: "2026-02-19"
+intitule_in_force: "2026-02-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-3599"
+original_signed_date: "2026-02-09"
+original_published_date: "2026-02-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-3599"
+entry_into_force_date: "2026-02-20"
+jci_1_3: "jci1.3:c:BWBR0052305&z=2026-02-20&g=2026-02-20"
+jci_1_0: "1.0:c:BWBR0052305&g=2026-02-20"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke subsidieregeling Maritiem Masterplan 2026"
+signed_date: "2026-02-09"
+entry_into_force: "2026-02-20"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat van 9 februari 2026, nr. IENW/BSK-2026/15968, houdende tijdelijke regels ter stimulering van demonstraties binnen het Maritiem Masterplan 2026 (Tijdelijke subsidieregeling Maritiem Masterplan 2026) [KetenID WGK 028498]
 
 Gelet op [artikel 3, eerste lid, onderdeel e, van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3) en de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=9), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=13), [15, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=15), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22), [23, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=23) en [26, eerste lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=26);
 
 BESLUIT:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -48,11 +74,11 @@ In deze regeling wordt verstaan onder:
 
 - **RVO:** Rijksdienst voor Ondernemend Nederland.
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Deze regeling heeft als doel het stimuleren van onderzoek naar en demonstraties van duurzame energielijnen teneinde de maritieme sector te verduurzamen en te versterken.
 
-#### Artikel 3. Subsidiabele activiteiten
+##### Artikel 3. Subsidiabele activiteiten
 
 1. De minister kan aan een aanvrager subsidie verstrekken voor een O&D-project.
 
@@ -60,7 +86,7 @@ Deze regeling heeft als doel het stimuleren van onderzoek naar en demonstraties 
 
 3. Een O&D-project bestaat uit een fase ontwerpen en ontwikkelen en een fase demonstreren en monitoren.
 
-#### Artikel 4. Aanvrager
+##### Artikel 4. Aanvrager
 
 1. Een aanvraag voor subsidie wordt ingediend door een samenwerkingsverband.
 
@@ -70,7 +96,7 @@ Deze regeling heeft als doel het stimuleren van onderzoek naar en demonstraties 
 
 4. Binnen acht weken na dagtekening van de beschikking tot subsidieverlening verstrekt de aanvrager een overeenkomst waarin de samenwerking tussen de deelnemers in het samenwerkingsverband is geregeld.
 
-#### Artikel 5. Subsidiabele kosten
+##### Artikel 5. Subsidiabele kosten
 
 1. Als subsidiabele kosten komen uitsluitend in aanmerking de kosten, bedoeld in artikel 25, derde lid, onderdelen a tot en met e, van de algemene groepsvrijstellingsverordening.
 
@@ -84,13 +110,13 @@ Deze regeling heeft als doel het stimuleren van onderzoek naar en demonstraties 
 
 - c. een forfaitair vastgesteld uurtarief voor loonkosten.
 
-#### Artikel 6. Berekening subsidiabele kosten bij toepassing integrale kostensystematiek
+##### Artikel 6. Berekening subsidiabele kosten bij toepassing integrale kostensystematiek
 
 1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 5, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052305&artikel=5&z=2026-02-20&g=2026-02-20), worden de directe en indirecte kosten per kostendrager in een tarief per eenheid van deze kostendrager berekend.
 
 2. De subsidiabele kosten worden berekend door het aantal eenheden van de kostendrager te vermenigvuldigen met het ingevolge het eerste lid berekende tarief, vermeerderd met de aan derden betaalde kosten voor zover deze geen deel uitmaken van het ingevolge het eerste lid vastgestelde tarief.
 
-#### Artikel 7. Berekening subsidiabele kosten bij toepassing kosten per kostendrager met opslag
+##### Artikel 7. Berekening subsidiabele kosten bij toepassing kosten per kostendrager met opslag
 
 1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 5, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0052305&artikel=5&z=2026-02-20&g=2026-02-20), worden de directe loonkosten per uur vermenigvuldigd met het aantal uren dat direct bij de subsidiabele activiteiten betrokken personen ten behoeve van deze activiteiten hebben gewerkt.
 
@@ -104,7 +130,7 @@ Deze regeling heeft als doel het stimuleren van onderzoek naar en demonstraties 
 
 3. Voor zover er geen loonkosten worden gemaakt, maar niettemin arbeid wordt verricht, wordt voor de berekening van de kosten van de arbeid uitgegaan van € 80,– per uur.
 
-#### Artikel 8. Berekening met forfaitair uurtarief loonkosten
+##### Artikel 8. Berekening met forfaitair uurtarief loonkosten
 
 1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 5, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0052305&artikel=5&z=2026-02-20&g=2026-02-20), wordt een uurtarief gehanteerd van € 80,– per uur.
 
@@ -114,7 +140,7 @@ Deze regeling heeft als doel het stimuleren van onderzoek naar en demonstraties 
 
 - b. aan derden betaalde kosten.
 
-#### Artikel 9. Hoogte subsidie
+##### Artikel 9. Hoogte subsidie
 
 1. De subsidie bedraagt ten hoogste:
 
@@ -142,7 +168,7 @@ Deze regeling heeft als doel het stimuleren van onderzoek naar en demonstraties 
 
 8. De subsidiabele kosten bedragen niet minder dan € 25.000,– per deelnemer aan het samenwerkingsverband.
 
-#### Artikel 10. Subsidieplafond en wijze van verdelen
+##### Artikel 10. Subsidieplafond en wijze van verdelen
 
 1. Het subsidieplafond bedraagt voor het jaar 2026 in totaal ten hoogste € 33,6 miljoen, met als specifiek subsidieplafond:
 
@@ -158,7 +184,7 @@ Deze regeling heeft als doel het stimuleren van onderzoek naar en demonstraties 
 
 5. Er wordt slechts aan één project dat valt binnen de energielijnen ammoniak of bio-ethanol, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052305&bijlage=1&z=2026-02-20&g=2026-02-20), subsidie verleend.
 
-#### Artikel 11. Rangschikkingscriteria
+##### Artikel 11. Rangschikkingscriteria
 
 1. De minister kent aan een O&D-project een hoger aantal punten toe naarmate:
 
@@ -178,7 +204,7 @@ Deze regeling heeft als doel het stimuleren van onderzoek naar en demonstraties 
 
 2. De minister kent per onderdeel van het eerste lid ten hoogste 20 punten toe.
 
-#### Artikel 12. Adviescommissie
+##### Artikel 12. Adviescommissie
 
 1. Er is een Adviescommissie O&D-projecten 2026, die tot taak heeft de minister te adviseren omtrent de rangschikking en toekenning van punten op basis van de rangschikkingscriteria, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0052305&artikel=11&z=2026-02-20&g=2026-02-20).
 
@@ -186,11 +212,11 @@ Deze regeling heeft als doel het stimuleren van onderzoek naar en demonstraties 
 
 3. De voorzitter en de andere leden van de commissie worden door de minister voor een termijn van ten hoogste één jaar benoemd.
 
-#### Artikel 13. Aanvraagperiode
+##### Artikel 13. Aanvraagperiode
 
 De aanvraag voor subsidieverlening kan worden ingediend van 19 mei 2026, 9.00 uur tot en met 3 november 2026, 17.00 uur.
 
-#### Artikel 14. Aanvraag
+##### Artikel 14. Aanvraag
 
 1. Een aanvraag om subsidie heeft betrekking op één energielijn.
 
@@ -204,7 +230,7 @@ De aanvraag voor subsidieverlening kan worden ingediend van 19 mei 2026, 9.00 uu
 
 - c. de gegevens, bedoeld in artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening.
 
-#### Artikel 15. Afwijzingsgronden
+##### Artikel 15. Afwijzingsgronden
 
 Onverminderd de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=11) en [12 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=12) wordt een subsidieaanvraag afgewezen indien:
 
@@ -228,11 +254,11 @@ Onverminderd de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&a
 
 - j. al subsidie is verstrekt voor hetzelfde project op grond van de [Tijdelijke subsidieregeling Maritiem Masterplan](https://wetten.overheid.nl/jci1.3:c:BWBR0049626).
 
-#### Artikel 16. Beschikking tot verlening
+##### Artikel 16. Beschikking tot verlening
 
 Voor zover de subsidie wordt verleend ten laste van de nog niet door de Staten-Generaal aangenomen rijksbegroting, onderdeel Infrastructuur en Waterstaat, wordt in de beschikking tot verlening van een subsidie vermeld dat de verlening plaatsvindt onder de voorwaarde dat voldoende gelden ter beschikking worden gesteld in de Wet tot vaststelling van de rijksbegroting, onderdeel Infrastructuur en Waterstaat.
 
-#### Artikel 17. Verplichtingen subsidieontvanger
+##### Artikel 17. Verplichtingen subsidieontvanger
 
 1. Met de uitvoering van een O&D-project wordt gestart binnen 6 maanden na de subsidieverlening.
 
@@ -240,7 +266,7 @@ Voor zover de subsidie wordt verleend ten laste van de nog niet door de Staten-G
 
 3. Het O&D-project is uiterlijk op 31 juli 2033 afgerond.
 
-#### Artikel 18. Verplichtingen voor onderzoeksorganisaties
+##### Artikel 18. Verplichtingen voor onderzoeksorganisaties
 
 1. Indien in het O&D-project niet-economisch industrieel onderzoek of experimentele ontwikkeling door een onderzoeksorganisatie wordt verricht:
 
@@ -274,7 +300,7 @@ Voor zover de subsidie wordt verleend ten laste van de nog niet door de Staten-G
 
 4. De voorwaarden van een overeenkomst, gesloten ingevolge het derde lid, onderdeel c, wijken niet af van voorwaarden die onafhankelijke ondernemingen overeen zouden komen en behelzen geen enkele vorm van heimelijke verstandhouding.
 
-#### Artikel 19. Verplichtingen betreffende voorlichting
+##### Artikel 19. Verplichtingen betreffende voorlichting
 
 1. Op verzoek van de minister verleent de subsidieontvanger medewerking aan het verspreiden van de resultaten van de op grond van deze regeling gesubsidieerde activiteiten.
 
@@ -286,7 +312,7 @@ Voor zover de subsidie wordt verleend ten laste van de nog niet door de Staten-G
 
 5. De informatie, bedoeld in het tweede en derde lid, wordt verstrekt met gebruikmaking van een door de minister beschikbaar gesteld formulier dat wordt geplaatst op de website van RVO.
 
-#### Artikel 20. Voorschot
+##### Artikel 20. Voorschot
 
 1. De minister verstrekt ambtshalve een voorschot, verdeeld over de volgende termijnen:
 
@@ -298,7 +324,7 @@ Voor zover de subsidie wordt verleend ten laste van de nog niet door de Staten-G
 
 2. De minister verstrekt het resterende bedrag bij de vaststelling van de subsidie.
 
-#### Artikel 21. Subsidievaststelling
+##### Artikel 21. Subsidievaststelling
 
 1. De aanvrager dient bij de minister een aanvraag tot vaststelling van de subsidie in door middel van een daartoe vastgesteld formulier dat beschikbaar is via de website van RVO.
 
@@ -308,19 +334,19 @@ Voor zover de subsidie wordt verleend ten laste van de nog niet door de Staten-G
 
 - b. op welke wijze het O&D-project heeft bijgedragen aan het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052305&artikel=2&z=2026-02-20&g=2026-02-20), en de energielijnen, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052305&artikel=3&z=2026-02-20&g=2026-02-20).
 
-#### Artikel 22. Staatssteun
+##### Artikel 22. Staatssteun
 
 De subsidie voor de subsidiabele activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052305&artikel=3&z=2026-02-20&g=2026-02-20), bevat voor zover een O&D-project betrekking heeft op industrieel onderzoek of experimentele ontwikkeling door een onderneming staatssteun en wordt gerechtvaardigd door artikel 25 van de algemene groepsvrijstellingsverordening.
 
-#### Artikel 23. Evaluatie
+##### Artikel 23. Evaluatie
 
 De minister publiceert uiterlijk op 1 februari 2031 een tussentijds verslag en uiterlijk op 31 december 2033 een eindverslag over de doeltreffendheid en de effecten van de subsidie in de praktijk.
 
-#### Artikel 24. Inwerkingtreding en horizonbepaling
+##### Artikel 24. Inwerkingtreding en horizonbepaling
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 februari 2031, met dien verstande dat zij van toepassing blijft op subsidies die voor die datum zijn aangevraagd.
 
-#### Artikel 25. Citeertitel
+##### Artikel 25. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling Maritiem Masterplan 2026.
 

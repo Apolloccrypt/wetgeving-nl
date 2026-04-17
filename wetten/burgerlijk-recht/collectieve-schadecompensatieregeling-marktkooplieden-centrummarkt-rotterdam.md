@@ -1,13 +1,38 @@
 ---
-title: "Collectieve Schadecompensatieregeling Marktkooplieden Centrummarkt Rotterdam"
+title: "Collectieve Schadecompensatieregeling marktkooplieden Centrummarkt Rotterdam"
 identifier: "BWBR0003961"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1986-05-06
-laatste_update: 1986-05-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003961"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1986-05-06"
+last_updated: "1986-05-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003961"
+soort: "ministeriele-regeling"
+stam_id: "3708303"
+version_id: "5491352"
+internal_id: "C5684441"
+label_id: "3688234"
+dtd_version: "2.0"
+original_entry_into_force: "1986-05-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003961/1986-05-06/0"
+intitule_bron: "Stcrt.1990-18"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1986-05-06"
+intitule_published: "1990-01-25"
+intitule_in_force: "1990-01-25"
+intitule_status: "goed"
+original_publication: "Stcrt.1990-18"
+original_signed_date: "1986-05-06"
+original_published_date: "1990-01-25"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1986-05-06"
+jci_1_3: "jci1.3:c:BWBR0003961&z=1986-05-06&g=1986-05-06"
+jci_1_0: "1.0:c:BWBR0003961&g=1986-05-06"
+citeertitel_status: "officieel"
+short_title: "Collectieve Schadecompensatieregeling Marktkooplieden Centrummarkt Rotterdam"
+signed_date: "1986-05-06"
+entry_into_force: "1986-05-06"
 ---
-
 # Collectieve Schadecompensatieregeling marktkooplieden Centrummarkt Rotterdam
 
 Gezien de brief van de minister van Verkeer en Waterstaat aan de Tweede Kamer d.d. 17 november 1983 kenmerk WBJ/V 305 (blz. 4);
@@ -20,13 +45,13 @@ Stelt de volgende regeling vast.
 
 ### Hoofdstuk I. Algemene Bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk II. Bepalingen inzake de collectieve schadecompensatie
 
-#### Artikel 2. Onafhankelijke deskundigen
+##### Artikel 2. Onafhankelijke deskundigen
 
 De minister benoemt na overleg met de gemeente Rotterdam en de Nederlandse Spoorwegen, gehoord hebbend de ter plaatse opererende Verenigingen van ambulante handelaren, onafhankelijke deskundigen die geen enkel belang hebben bij of binding hebben met de aanleg van de Willemsspoortunnel en over de nodige deskundigheid en reputatie beschikken; zij hebben als taak de minister te adviseren over de hoogte van het bedrag der collectieve schadecompensatie, Daartoe maken deze deskundigen een taxatierapport op. De onafhankelijke deskundigen baseren zich bij de opstelling van het rapport op:
 
@@ -40,7 +65,7 @@ De minister benoemt na overleg met de gemeente Rotterdam en de Nederlandse Spoor
 
 - 5. Eigen waarneming.
 
-#### Artikel 3. Vaststelling van het bedrag der collectieve schadecompensatie
+##### Artikel 3. Vaststelling van het bedrag der collectieve schadecompensatie
 
 1. De marktkooplieden welke voor een schadecompensatie in aanmerking wensen te komen zijn verplicht de omzetcijfers alsmede de fiscale winstcijfers van hun totale marktactiviteiten over de drie jaren voorafgaand aan het jaar van de gedwongen verplaatsing van de Centrummarkt in verband met de aanleg van de Willemsspoortunnel, alsmede het omzetcijfer en het fiscale winstcijfer van hun totale marktactiviteiten over het jaar waarop de aanvragen betrekking hebben ter beschikking te stellen van de deskundigen als genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003961&hoofdstuk=II&artikel=2&z=1986-05-06&g=1986-05-06).
 
@@ -52,7 +77,7 @@ De minister benoemt na overleg met de gemeente Rotterdam en de Nederlandse Spoor
 
 5. De winstcijfers en de omzetcijfers van de eerste twee jaren van de drie jaren voorafgaande aan het jaar van de gedwongen verplaatsing van de Centrummarkt zullen ten opzichte van het laatste derde jaar (= 100) gecorrigeerd worden met de door het Centraal Bureau voor de Statistiek (CBS) gepubliceerde prijsindexcijfers voor de gezinsconsumptie, reeks voor werknemersgezinnen met in 1985 een gezinsinkomen beneden de loongrens van de ziekenfondsverzekering. Het aldus verkregen gecorrigeerde gemiddelde winst- en omzetcijfer van de drie jaren voorafgaande aan het jaar van de gedwongen verplaatsing van de Centrummarkt wordt herleid tot het jaar waarin aanspraak wordt gemaakt op een schadecompensatie met behulp van het prijsindexcijfer voor de gezinsconsumptie van het jaar waarin aanspraak wordt gemaakt op een schadecompensatie.
 
-#### Artikel 4. Advies onafhankelijke deskundigen, vaststelling bedrag minister.
+##### Artikel 4. Advies onafhankelijke deskundigen, vaststelling bedrag minister.
 
 1. De onafhankelijke deskundigen adviseren binnen vijftien maanden na 31 december van het jaar waarvoor het collectieve bedrag zal worden vastgesteld de minister over de hoogte van het bedrag der collectieve schadecompensatie.
 
@@ -64,7 +89,7 @@ De minister benoemt na overleg met de gemeente Rotterdam en de Nederlandse Spoor
 
 ### Hoofdstuk III. Bepalingen inzake de individuele schadecompensatie
 
-#### Artikel 5. Het Advies College
+##### Artikel 5. Het Advies College
 
 1. Er is een Advies College dat zal worden ingesteld door de minister na overleg met de gemeente Rotterdam, de Nederlandse Spoorwegen en de ter plaatse opererende Verenigingen van ambulante handelaren. Het college bestaat uit vertegenwoordigers van het ministerie van Verkeer en Waterstaat, vertegenwoordigers van de Dienst Midden- en Kleinbedrijf, Marktwezen en Vrij-Entrepot van de gemeente Rotterdam, vertegenwoordigers van de ter plaatse opererende Verenigingen van Ambulante Handelaren en één vertegenwoordiger van de Nederlandse Spoorwegen.
 
@@ -78,7 +103,7 @@ De minister benoemt na overleg met de gemeente Rotterdam en de Nederlandse Spoor
 
 6. De vergaderingen worden gehouden te Rotterdam tenzij de voorzitter het nodig acht die elders te houden.
 
-#### Artikel 6. Indiening van een verzoek om schadecompensatie
+##### Artikel 6. Indiening van een verzoek om schadecompensatie
 
 1. Een marktkoopman, die in het jaar waarop de aanvraag betrekking heeft handel heeft gedreven op de Centrummarkt, kan gedurende het jaar na 31 december van het jaar waarop het verzoek tot schadecompensatie betrekking heeft een aanvraag indienen voor een individuele schadecompensatie.
 
@@ -94,7 +119,7 @@ De minister benoemt na overleg met de gemeente Rotterdam en de Nederlandse Spoor
 
 7. Een aanvraag die bij het Advies College wordt ingediend na verloop van de termijn als genoemd in lid 1 zal door het Advies College niet meer in behandeling worden genomen.
 
-#### Artikel 7. Behandeling van de verzoeken om een schadecompensatie door het Advies College
+##### Artikel 7. Behandeling van de verzoeken om een schadecompensatie door het Advies College
 
 1. Binnen drie maanden nadat de minister het bedrag der Collectieve schadecompensatie heeft vastgesteld adviseert het Advies College de minister over de verdeling van het collectieve bedrag der schadecompensatie onder de marktkooplieden.
 
@@ -104,11 +129,11 @@ De minister benoemt na overleg met de gemeente Rotterdam en de Nederlandse Spoor
 
 4. Een advies van het College wordt opgesteld overeenkomstig het gevoelen van de meerderheid van de ter vergadering aanwezige leden of hun plaatsvervangers. Van afwijkende gevoelens wordt desverlangd in het advies melding gemaakt. Bij het staken der stemmen wordt het nemen van een advies aangehouden tot de volgende vergadering. Wanneer de stemmen ook dan staken, beslist de voorzitter.
 
-#### Artikel 8. De financiële compensatie
+##### Artikel 8. De financiële compensatie
 
 Aan marktkooplieden die schade lijden, welke niet geacht moet worden te behoren tot hun normaal maatschappelijk risico, en welke redelijkerwijs niet of niet geheel ten laste van hen behoren te blijven wordt, indien voldaan is aan de in deze regeling gestelde voorwaarden een naar billijkheid te bepalen individuele financiële schadecompensatie verstrekt, indien en voor zover de vergoeding niet anderszins is verzekerd.
 
-#### Artikel 9. Gevallen waarin geen individuele schadecompensatie wordt verstrekt
+##### Artikel 9. Gevallen waarin geen individuele schadecompensatie wordt verstrekt
 
 De minister beslist in ieder geval geheel of gedeeltelijk afwijzend op een verzoek om een schadecompensatie indien en voor zover naar zijn oordeel:
 
@@ -122,13 +147,13 @@ De minister beslist in ieder geval geheel of gedeeltelijk afwijzend op een verzo
 
 - e. De marktkoopman de aanvraag niet binnen de in [artikel 6 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003961&hoofdstuk=III&artikel=6&z=1986-05-06&g=1986-05-06) genoemde termijn heeft ingediend bij de voorzitter van het Advies College.
 
-#### Artikel 10. Verdeling van het bedrag der collectieve schadecompensatie onder de individuele marktkooplieden
+##### Artikel 10. Verdeling van het bedrag der collectieve schadecompensatie onder de individuele marktkooplieden
 
 1. Het Advies College stelt een rapport op inhoudende een verdeling van de door de minister vastgestelde collectieve financiële compensatie onder de individuele marktkooplieden. De verdeling zal plaatsvinden op basis van de geleden schade en op grond van collectieve correcties.
 
 2. In bijzondere gevallen kan het Advies College individuele correcties toepassen.
 
-#### Artikel 11. De beslissing op de verzoeken om schadecompensatie
+##### Artikel 11. De beslissing op de verzoeken om schadecompensatie
 
 1. Binnen een maand na ontvangst van het advies van het Advies College beslist de minister op het ingediende verzoek om een schadecompensatie.
 
@@ -138,11 +163,11 @@ De minister beslist in ieder geval geheel of gedeeltelijk afwijzend op een verzo
 
 ### Hoofdstuk IV. Overige bepalingen
 
-#### Artikel 12. Hardheidsclausule
+##### Artikel 12. Hardheidsclausule
 
 Indien een strikte toepassing van deze collectieve schadecompensatieregeling zou leiden tot een beslissing die onmiskenbaar als onredelijk moet worden aangemerkt kan de minister in bijzondere gevallen van het gestelde in deze regeling afwijken.
 
-#### Artikel 13. Geheimhouding
+##### Artikel 13. Geheimhouding
 
 1. Allen die betrokken zijn of zijn geweest bij de uitvoering van deze regeling, tevens allen die zitting hebben of hebben gehad in het Advies College, alsmede anderen die vergaderingen van het Advies College bijwonen of hebben bijgewoond dan wel optreden of zijn opgetreden als adviseurs van de leden van het Advies College en allen die zijn opgetreden als onafhankelijke deskundigen en de beschikking krijgen over gegevens waarvan zij het vertrouwelijk karakter kennen of redelijkerwijs moeten vermoeden en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, zijn verplicht tot geheimhouding ervan.
 
@@ -150,7 +175,7 @@ De minister zal er voor zorgdragen dat ter realisering van onderhavige geheimhou
 
 2. De in het vorige lid bedoelde geheimhoudingsplicht bestaat niet tegenover degenen die bevoegd zijn van de inhoud van het door hun uitgebrachte advies kennis te nemen.
 
-#### Artikel 14. Voorschot hangende een verzoek om een financiële compensatie
+##### Artikel 14. Voorschot hangende een verzoek om een financiële compensatie
 
 1. De minister kan gehoord het Advies College op verzoek van een marktkoopman die naar redelijkerwijs te verwachten valt in aanmerking komt voor een individuele schadecompensatie een voorschot verstrekken op de uiteindelijk vast te stellen schadecompensatie. De marktkoopman kan zijn verzoek om een voorschot bij de minister indienen gelijktijdig met de indiening van zijn verzoek om een schadecompensatie bij de voorzitter van het Advies College.
 
@@ -158,14 +183,14 @@ De minister zal er voor zorgdragen dat ter realisering van onderhavige geheimhou
 
 3. Het voorschot wordt alleen verleend indien de marktkoopman schriftelijk de verplichting aanvaardt tot zijnerzijds gehele of gedeeltelijke terugbetaling wanneer op grond van latere definitieve gegevens blijkt dat het voorschot geheel of gedeeltelijk ten onrechte is verstrekt.
 
-#### Artikel 15. Bijdrage in de deskundigenkosten van de marktkoopman.
+##### Artikel 15. Bijdrage in de deskundigenkosten van de marktkoopman.
 
 Aan de marktkoopman die een verzoek om een financiële compensatie op grond van onderhavige regeling indient, kan door de minister op advies van het Advies College een bijdrage in de door hem gemaakte deskundigenkosten, dienende om zijn verzoek om een financiële compensatie correct en volledig te kunnen behandelen, worden toegekend.
 
-#### Artikel 16. Verhouding Collectieve Schadecompensatieregeling tot Schade-compensatieregeling Willemsspoortunnel.
+##### Artikel 16. Verhouding Collectieve Schadecompensatieregeling tot Schade-compensatieregeling Willemsspoortunnel.
 
 De marktkoopman kan geen rechten ontlenen aan, dan wel aanspraak doen gelden op de [Schadecompensatieregeling Willemsspoortunnel](https://wetten.overheid.nl/jci1.3:c:BWBR0003962) ingevolge het gestelde in artikel 9, sub b van die regeling.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze regeling kan worden aangehaald als: Collectieve Schadecompensatieregeling Marktkooplieden Centrummarkt Rotterdam.

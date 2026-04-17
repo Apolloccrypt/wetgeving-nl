@@ -1,13 +1,35 @@
 ---
 title: "Regeling projectsubsidies voor literaire vertalingen"
 identifier: "BWBR0051470"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-09-10
-laatste_update: 2025-09-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051470"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-09-10"
+last_updated: "2025-09-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051470"
+soort: "zbo"
+stam_id: "17518213"
+version_id: "30911492"
+internal_id: "C44287801"
+label_id: "17420404"
+dtd_version: "2.0"
+original_entry_into_force: "2025-09-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051470/2025-09-10/0"
+intitule_bron: "Stcrt.2025-29426"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-09-09"
+intitule_in_force: "2025-09-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-29426"
+original_published_date: "2025-09-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-29426"
+entry_into_force_date: "2025-09-10"
+jci_1_3: "jci1.3:c:BWBR0051470&z=2025-09-10&g=2025-09-10"
+jci_1_0: "1.0:c:BWBR0051470&g=2025-09-10"
+citeertitel_status: "officieel"
+entry_into_force: "2025-09-10"
 ---
-
 # Regeling projectsubsidies voor literaire vertalingen
 
 gelet op de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
@@ -20,7 +42,7 @@ besluit:
 
 De volgende regeling Projectsubsidies voor literair vertalers vast te stellen.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -56,11 +78,11 @@ In deze regeling wordt verstaan onder:
 
 - m. **website:** de website van het Letterenfonds, zijnde [www.letterenfonds.nl](http://www.letterenfonds.nl).
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Op grond van deze regeling kan het Letterenfonds projectsubsidies verstrekken voor starters en gevorderde vertalers voor de totstandkoming van een literaire vertaling.
 
-#### Artikel 3. Vereisten vertaling
+##### Artikel 3. Vereisten vertaling
 
 De vertaling waarvoor subsidie wordt aangevraagd voldoet aan de volgende voorwaarden:
 
@@ -74,7 +96,7 @@ De vertaling waarvoor subsidie wordt aangevraagd voldoet aan de volgende voorwaa
 
 - e. in de vertaling komt een naamsvermelding van de vertaler in het colofon en op het omslag.
 
-#### Artikel 4. Vereisten aanvrager
+##### Artikel 4. Vereisten aanvrager
 
 1. Als de aanvrager een starter is, moet de aanvrager voldoen aan de volgende voorwaarden:
 
@@ -110,7 +132,7 @@ De vertaling waarvoor subsidie wordt aangevraagd voldoet aan de volgende voorwaa
 
 3. De hoogte van de inkomensgrens, bedoeld in het eerste lid, onderdeel a, en tweede lid, onderdeel a, wordt bekendgemaakt in de Staatscourant en op de website van het Letterenfonds.
 
-#### Artikel 5. Uitgaven op de Cariben
+##### Artikel 5. Uitgaven op de Cariben
 
 Als de vertaling op de Cariben verschijnt, is een modelcontract met een uitgever of een intentieverklaring van een uitgever niet vereist. In plaats daarvan gelden de volgende voorwaarden:
 
@@ -128,7 +150,7 @@ Als de vertaling op de Cariben verschijnt, is een modelcontract met een uitgever
 
 - g. de vertaling wordt in boekvorm gepubliceerd binnen twee jaar na de bekendmaking van het subsidiebesluit door het Letterenfonds door diegene die daar volgens de afspraken in het uitgeefplan verantwoordelijk voor is.
 
-#### Artikel 6. Weigeringsgronden
+##### Artikel 6. Weigeringsgronden
 
 Een aanvraag voor subsidie kan worden afgewezen:
 
@@ -144,7 +166,7 @@ Een aanvraag voor subsidie kan worden afgewezen:
 
 - f. als het geplande tijdpad voor de vertaling uitgaat van meer dan 40.000 woorden per maand.
 
-#### Artikel 7. Aanvraag
+##### Artikel 7. Aanvraag
 
 1. Een aanvraag bestaat uit de volgende verplichte onderdelen:
 
@@ -162,7 +184,7 @@ Een aanvraag voor subsidie kan worden afgewezen:
 
 7. Als een eerdere aanvraag van de aanvrager is afgewezen op grond van het criterium vertaalkwaliteit, genoemd in [artikel 10, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051470&artikel=10&z=2025-09-10&g=2025-09-10), kan pas een nieuwe aanvraag worden ingediend als een nieuw werk op dat criterium kan worden beoordeeld.
 
-#### Artikel 8. Aanvraagperiode, verdelingssysteem en subsidieplafond
+##### Artikel 8. Aanvraagperiode, verdelingssysteem en subsidieplafond
 
 1. Het Letterenfonds behandelt de aanvragen van starters doorlopend op volgorde van binnenkomst.
 
@@ -176,7 +198,7 @@ Een aanvraag voor subsidie kan worden afgewezen:
 
 6. Als het subsidieplafond voor één van de categorieën in het desbetreffende jaar of de desbetreffende ronde niet wordt bereikt, kan het bestuur besluiten om het resterende bedrag aan het subsidieplafond van de andere categorie toe te voegen.
 
-#### Artikel 9. Hoogte van de subsidie
+##### Artikel 9. Hoogte van de subsidie
 
 1. De hoogte van de subsidie is als volgt:
 
@@ -202,7 +224,7 @@ Een aanvraag voor subsidie kan worden afgewezen:
 
 3. Het subsidiebedrag zoals berekend op basis van het eerste en tweede lid, wordt voor de gevorderde vertaler aangevuld met een subsidiebedrag gelijk aan 150% van het honorarium dat de uitgever beschikbaar stelt voor het voor- of nawoord, onder de voorwaarde dat het honorarium schriftelijk is vastgelegd.
 
-#### Artikel 10. Beoordelingscriteria
+##### Artikel 10. Beoordelingscriteria
 
 1. De aanvraag van een starter wordt getoetst op overtuigingskracht van de motivering.
 
@@ -216,13 +238,13 @@ Een aanvraag voor subsidie kan worden afgewezen:
 
 3. Indien de vertaalkwaliteit van een aanvrager in een eerdere subsidietoekenning door het Letterenfonds positief is beoordeeld, kan het Letterenfonds deze beoordeling tot uitgangspunt nemen.
 
-#### Artikel 11. Adviesprocedure
+##### Artikel 11. Adviesprocedure
 
 1. Het bureau beoordeelt de aanvragen van starters op basis van het beoordelingscriterium van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051470&artikel=10&z=2025-09-10&g=2025-09-10).
 
 2. Een adviescommissie samengesteld uit leden van de Raad van advies als bedoeld in het Huishoudelijk reglement van het Letterenfonds, adviseert het bestuur over de mate waarin de aanvragen van gevorderde vertalers voldoen aan de beoordelingscriteria in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051470&artikel=10&z=2025-09-10&g=2025-09-10), en adviseert over de hoogte van de subsidie. De adviescommissie kan zich laten bijstaan door één of meer externe adviseurs.
 
-#### Artikel 12. Verdeling budget
+##### Artikel 12. Verdeling budget
 
 1. Een subsidieaanvraag van een starter wordt geweigerd als door verstrekking van de subsidie voor zover het subsidieplafond voor starters zou worden overschreden.
 
@@ -242,7 +264,7 @@ Een aanvraag voor subsidie kan worden afgewezen:
 
 5. Als er na toepassing van het vierde lid nog een bedrag resteert, verdeelt het bestuur dat bedrag over de resterende positief beoordeelde aanvragen van gevorderde vertalers naar rato van het aantal te vertalen woorden.
 
-#### Artikel 13. Besluit
+##### Artikel 13. Besluit
 
 1. Het bestuur beslist binnen 8 weken na het moment waarop de aanvraag van een starter compleet is ontvangen.
 
@@ -254,7 +276,7 @@ Een aanvraag voor subsidie kan worden afgewezen:
 
 5. In de beschikking wordt de wijze van betaling van de subsidie bepaald.
 
-#### Artikel 14. Verplichtingen subsidieontvanger
+##### Artikel 14. Verplichtingen subsidieontvanger
 
 1. De subsidie wordt door de subsidieontvanger besteed aan de totstandkoming van de in de aanvraag omschreven vertaling.
 
@@ -276,7 +298,7 @@ Een aanvraag voor subsidie kan worden afgewezen:
 
 10. De subsidieontvanger werkt mee aan door of namens het Letterenfonds ingesteld onderzoek dat erop is gericht het Letterenfonds inlichtingen te verschaffen ten behoeve van de ontwikkeling van het beleid.
 
-#### Artikel 15. Intrekkings- en wijzigingsgronden subsidievaststelling
+##### Artikel 15. Intrekkings- en wijzigingsgronden subsidievaststelling
 
 1. Het bestuur kan de subsidievaststelling intrekken of wijzigen als de subsidieontvanger niet heeft voldaan aan de aan de subsidie verbonden verplichtingen.
 
@@ -290,11 +312,11 @@ Een aanvraag voor subsidie kan worden afgewezen:
 
 6. Het bedrag waarmee de subsidie eventueel wordt verlaagd, wordt verrekend met eventueel nog te betalen gedeelten van de subsidie of teruggevorderd.
 
-#### Artikel 16. Hardheidsclausule
+##### Artikel 16. Hardheidsclausule
 
 Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een artikel buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard.
 
-#### Artikel 17. Slotbepalingen
+##### Artikel 17. Slotbepalingen
 
 1. In alle gevallen waarin deze regeling niet voorziet, beslist het bestuur.
 
@@ -302,11 +324,11 @@ Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een
 
 3. In afwijking van het tweede lid blijft de Regeling projectsubsidies voor literaire vertalingen van toepassing op voor het tijdstip van inwerkingtreding van deze regeling verleende subsidies en tijdig ingestelde bezwaar- en beroepschriften.
 
-#### Artikel 18. Inwerkingtreding
+##### Artikel 18. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 10 september 2025.
 
-#### Artikel 19. Citeertitel
+##### Artikel 19. Citeertitel
 
 Deze regeling wordt aangehaald als Regeling projectsubsidies voor literaire vertalingen.
 

@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel subsidies NOvA"
+title: "Besluit van de algemene raad van 4 september 2017 houdende de vaststelling van de beleidsregel inzake de verlening van subsidies, de vaststelling van subsidies en de procedure voor het aanvragen van subsidie (Beleidsregel subsidies NOvA)"
 identifier: "BWBR0039970"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039970"
+country: "nl"
+rank: "pbo"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039970"
+soort: "pbo"
+stam_id: "14165453"
+version_id: "24363302"
+internal_id: "C34960421"
+label_id: "14126244"
+dtd_version: "2.0"
+original_entry_into_force: "2017-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039970/2022-01-01/0"
+intitule_bron: "Stcrt.2017-51905"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-09-04"
+intitule_published: "2017-09-12"
+intitule_in_force: "2017-09-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-51905"
+original_signed_date: "2017-09-04"
+original_published_date: "2017-09-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-51905"
+entry_into_force_date: "2017-10-01"
+jci_1_3: "jci1.3:c:BWBR0039970&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0039970&g=2022-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel subsidies NOvA"
+signed_date: "2017-09-04"
+entry_into_force: "2017-10-01"
 ---
-
 # Besluit van de algemene raad van 4 september 2017 houdende de vaststelling van de beleidsregel inzake de verlening van subsidies, de vaststelling van subsidies en de procedure voor het aanvragen van subsidie (Beleidsregel subsidies NOvA)
 
 gelet op [32, eerste lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=32);
@@ -18,11 +44,11 @@ gelet op [paragraaf 2.2.4 van de Verordening op de advocatuur](https://wetten.ov
 
 stelt het navolgende besluit vast:
 
-#### Artikel 1. Reikwijdte
+##### Artikel 1. Reikwijdte
 
 Deze beleidsregel is van toepassing op het verlenen van subsidie voor activiteiten die door de stichting ondersteuning tuchtcolleges advocatuur worden uitgevoerd en welke passen binnen de statutaire doelstellingen van de stichting en op het verlenen van subsidies op grond van [artikel 4:23, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23).
 
-#### Artikel 2. subsidiecriteria
+##### Artikel 2. subsidiecriteria
 
 1. De algemene raad verleent uitsluitend subsidie voor activiteiten die:
 
@@ -44,7 +70,7 @@ Deze beleidsregel is van toepassing op het verlenen van subsidie voor activiteit
 
 - e. de aanvrager geen andere financiers heeft, wier belangen kunnen conflicteren of niet in lijn zijn met de belangen van de Nederlandse orde van advocaten.
 
-#### Artikel 3. Subsidieplafond en hoogte subsidie
+##### Artikel 3. Subsidieplafond en hoogte subsidie
 
 1. De algemene raad stelt krachtens [artikel 2.36c van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=2.36c) jaarlijks voorafgaand aan het boekjaar het subsidieplafond vast.
 
@@ -56,7 +82,7 @@ Deze beleidsregel is van toepassing op het verlenen van subsidie voor activiteit
 
 3. De algemene raad verstrekt uitsluitend subsidie voor kosten van activiteiten die de algemene raad noodzakelijk acht voor het bereiken van de doelstelling van de Nederlandse orde van advocaten of van de subsidie-ontvanger.
 
-#### Artikel 4. Verplichtingen
+##### Artikel 4. Verplichtingen
 
 De algemene raad legt de subsidie-ontvanger verplichtingen op met betrekking tot:
 
@@ -74,7 +100,7 @@ De algemene raad legt de subsidie-ontvanger verplichtingen op met betrekking tot
 
 - g. de wijze waarop het betalingsverkeer en de autorisatie van een betaling plaatsvindt, namelijk door dubbele autorisatie voor alle opdrachten en betalingen, waarbij de bevoegdheden zijn neergelegd op management- of bestuursniveau.
 
-#### Artikel 5. Benodigde toestemming
+##### Artikel 5. Benodigde toestemming
 
 De algemene raad legt bij de subsidiebeschikking de vereisten op dat de subsidie-ontvanger de toestemming van de algemene raad nodig heeft voor:
 
@@ -104,7 +130,7 @@ De algemene raad legt bij de subsidiebeschikking de vereisten op dat de subsidie
 
 - m. de aanpassing van de berekening van uurtarieven, kostenbegrippen en productienormen;
 
-#### Artikel 6. Egalisatiereserve
+##### Artikel 6. Egalisatiereserve
 
 1. De egalisatiereserve wordt gevormd uit exploitatieoverschotten (verschil tussen vastgestelde subsidie en de kosten van de activiteiten waarvoor de subsidie werd verleend), met als doel om eventuele toekomstige tekorten op te vangen en daarmee tot een gelijkmatige verdeling van lasten te komen.
 
@@ -118,7 +144,7 @@ De algemene raad legt bij de subsidiebeschikking de vereisten op dat de subsidie
 
 6. Bij gehele of gedeeltelijke beëindiging van de gesubsidieerde activiteiten, bij intrekking van de subsidieverlening of subsidievaststelling, bij beëindiging van de subsidie en bij ontbinding van de rechtspersoon die de subsidie ontving wordt de met de subsidie gevormde egalisatiereserve teruggevorderd.
 
-#### Artikel 7. Uitbetaling subsidie
+##### Artikel 7. Uitbetaling subsidie
 
 Indien de aanvraag en verlening een subsidie betreffen hoger dan € 5.000,– verstrekt de algemene raad de verleende subsidie in drie termijnen, namelijk:
 
@@ -128,10 +154,10 @@ Indien de aanvraag en verlening een subsidie betreffen hoger dan € 5.000,– v
 
 - –. één vierde deel in van de totaal verleende subsidie in september.
 
-#### Artikel 8. inwerkingtreding
+##### Artikel 8. inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van 1 oktober 2017.
 
-#### Artikel 9. citeertitel
+##### Artikel 9. citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel subsidies NOvA.

@@ -1,13 +1,34 @@
 ---
 title: "Reprises van producties, onderdeel van de subsidieregeling Onderzoek en producties 2004"
 identifier: "BWBR0014560"
-categorie: "Bestuursrecht"
-publicatiedatum: 2003-09-02
-laatste_update: 2003-09-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014560"
+country: "nl"
+rank: "zbo"
+publication_date: "2003-09-02"
+last_updated: "2003-09-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014560"
+soort: "zbo"
+stam_id: "6341363"
+version_id: "10995852"
+internal_id: "C14888631"
+label_id: "6330404"
+original_entry_into_force: "2003-09-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014560/2003-09-02/0"
+intitule_bron: "Stcrt.2003-168"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2003-09-02"
+intitule_in_force: "2003-09-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-168"
+original_published_date: "2003-09-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2003-168-p15-SC60842"
+entry_into_force_date: "2003-09-02"
+jci_1_3: "jci1.3:c:BWBR0014560&z=2003-09-02&g=2003-09-02"
+jci_1_0: "1.0:c:BWBR0014560&g=2003-09-02"
+citeertitel_status: "redactioneel"
+entry_into_force: "2003-09-02"
 ---
-
 # Reprises van producties, onderdeel van de subsidieregeling Onderzoek en producties 2004
 
 ### 1. Doel van de subsidieregeling

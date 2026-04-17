@@ -1,14 +1,41 @@
 ---
-title: "Algemene douanewet"
+title: "Wet van 3 april 2008 tot algehele herziening van de douanewetgeving (Algemene douanewet)"
 identifier: "BWBR0023746"
-categorie: "Belastingrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023746"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023746"
+soort: "wet"
+stam_id: "9474963"
+version_id: "15267142"
+internal_id: "C21257161"
+label_id: "9453784"
+dtd_version: "2.0"
+original_entry_into_force: "2008-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023746/2026-01-01/0"
+intitule_bron: "Stb.2008-111"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-04-03"
+intitule_published: "2008-04-15"
+intitule_in_force: "2008-07-22"
+intitule_status: "goed"
+original_publication: "Stb.2008-111"
+original_signed_date: "2008-04-03"
+original_published_date: "2008-04-15"
+original_effect: "nieuwe-regeling"
+original_dossier: "30580"
+original_url_id: "stb-2008-111"
+entry_into_force_date: "2008-08-01"
+jci_1_3: "jci1.3:c:BWBR0023746&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0023746&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Algemene douanewet"
+signed_date: "2008-04-03"
+entry_into_force: "2008-08-01"
 ---
-
-# Algemene douanewet
+# Wet van 3 april 2008 tot algehele herziening van de douanewetgeving (Algemene douanewet)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +47,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Afdeling 1.1. Toepassingsgebied en basisdefinities
 
-#### Artikel 1:1
+##### Artikel 1:1
 
 1. De bepalingen bij of krachtens deze wet vormen de nationale bepalingen ter uitvoering van:
 
@@ -44,11 +71,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 6. Bij algemene maatregel van bestuur kunnen wijzigingen worden aangebracht in de bijlage bij deze wet.
 
-#### Artikel 1:2
+##### Artikel 1:2
 
 Deze wet is van toepassing op het grondgebied van Nederland met inbegrip van zijn luchtruim, zijn maritieme binnenwateren en territoriale zee, en elk gebied buiten deze territoriale zee waarin Nederland, in overeenstemming met het internationale recht, jurisdictie of soevereine rechten uitoefent met betrekking tot de zeebodem, de ondergrond daarvan, het bovenliggende water en luchtruim.
 
-#### Artikel 1:3
+##### Artikel 1:3
 
 1. In aanvulling op de begripsbepalingen van het Douanewetboek van de Unie, de krachtens dat wetboek vastgestelde Gedelegeerde Verordening Douanewetboek van de Unie, Uitvoeringsverordening Douanewetboek van de Unie en andere bindende EU-rechtshandelingen wordt verstaan onder:
 
@@ -98,7 +125,7 @@ Deze wet is van toepassing op het grondgebied van Nederland met inbegrip van zij
 
 8. Onze Minister van Financiën is de verwerkingsverantwoordelijke, bedoeld in artikel 4, zevende lid, van Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van gegevens en tot intrekking van [Richtlijn 95/46/EG](31995L0046) (algemene verordening gegevensbescherming) (PbEU 2016, L 119).
 
-#### Artikel 1:4
+##### Artikel 1:4
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen, ter uitwerking van interregionaal recht, het Koninkrijk verbindende verdragen en in al hun onderdelen verbindende besluiten van bij zodanige verdragen opgerichte volkenrechtelijke organisaties, regels van uitvoerende aard worden gesteld, die op goederen bij het binnenbrengen in, onderscheidenlijk verlaten van de gebieden, bedoeld in [artikel 1:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:2&z=2026-01-01&g=2026-01-01), van toepassing zijn.
 
@@ -108,11 +135,11 @@ Deze wet is van toepassing op het grondgebied van Nederland met inbegrip van zij
 
 4. Onze Minister wie het aangaat, kan bevoegdheden, welke hem ingevolge het gestelde bij de in het eerste lid bedoelde algemene maatregel van bestuur toekomen, in een bij of krachtens die maatregel te bepalen omvang, aan het bestuur van een zelfstandig bestuursorgaan overdragen en ten aanzien van de uitvoering ervan regels stellen.
 
-#### Artikel 1:5
+##### Artikel 1:5
 
 Bij de toepassing van de bepalingen bij of krachtens deze wet ingevolge [artikel 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:1&z=2026-01-01&g=2026-01-01), tweede tot en met vijfde lid, zijn de bepalingen van titel I, hoofdstuk 1, de artikelen 12, 14, 15, 22 tot en met 30, 43 tot en met 48, 51, 52 en 55, en de bepalingen van titel II, hoofdstukken 1 en 2, afdeling 1, van het Douanewetboek van de Unie, de bepalingen van titel I, hoofdstuk 1, de artikelen 8 tot en met 18, en de bepalingen van titel II, hoofdstuk 1, afdeling 1, van de Gedelegeerde Verordening Douanewetboek van de Unie en de bepalingen van titel I, hoofdstuk 1, de artikelen 8, 9, 12 en 15, en de bepalingen van titel II, hoofdstuk 2, afdeling 1, van de Uitvoeringsverordening Douanewetboek van de Unie van overeenkomstige toepassing.
 
-#### Artikel 1:6
+##### Artikel 1:6
 
 1. De [artikelen 2:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:13), [2:21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:21), [2:22](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:22), [2:23](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:23) en [2:25 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:25) zijn niet van toepassing.
 
@@ -128,7 +155,7 @@ Bij de toepassing van de bepalingen bij of krachtens deze wet ingevolge [artikel
 
 4. [Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) is niet van toepassing.
 
-#### Artikel 1:7
+##### Artikel 1:7
 
 Waar een persoon woont dan wel is gevestigd, wordt naar de omstandigheden beoordeeld.
 
@@ -136,57 +163,57 @@ Waar een persoon woont dan wel is gevestigd, wordt naar de omstandigheden beoord
 
 #### Paragraaf 1.2.1. Vertegenwoordiging
 
-#### Artikel 1:8
+##### Artikel 1:8
 
 De [artikelen 2:1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:1), en [2:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:2) zijn alleen van toepassing in geval van het instellen van bezwaar en de daarbij behorende procedure.
 
-#### Artikel 1:9
+##### Artikel 1:9
 
 Vervallen
 
-#### Artikel 1:10
+##### Artikel 1:10
 
 1. Een douanevertegenwoordiger die een persoon vertegenwoordigt bij het doen van een douaneaangifte, een aangifte tot tijdelijke opslag, een summiere aangifte bij binnenbrengen, een summiere aangifte bij uitgaan, een aangifte tot wederuitvoer of een kennisgeving van wederuitvoer moet voldoen aan de criteria van artikel 39, onderdelen a tot en met d, van het Douanewetboek van de Unie.
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitwerking van het eerste lid.
 
-#### Artikel 1:11
+##### Artikel 1:11
 
 De douanevertegenwoordiger, bedoeld in [artikel 1:10](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.1&artikel=1:10&z=2026-01-01&g=2026-01-01), is gehouden aan zijn opdrachtgever een factuur te verstrekken waarin ten behoeve van deze laatste aan het Rijk betaalde rechten bij invoer, andere belastingen, heffingen, retributies, dan wel rente, interest, kosten en bestuurlijke boeten voorzover aan zijn opdrachtgever te wijten, afzonderlijk zijn omschreven.
 
-#### Artikel 1:12
+##### Artikel 1:12
 
 1. Douanevertegenwoordigers als bedoeld in [artikel 1:10](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.1&artikel=1:10&z=2026-01-01&g=2026-01-01) hebben een voorrecht op alle vermogensbestanddelen van de opdrachtgever voor de door hen ten behoeve van hun opdrachtgever betaalde rechten bij invoer, andere belastingen, heffingen, retributies dan wel rente, interest, kosten en bestuurlijke boeten voor zover aan zijn opdrachtgever te wijten gedurende een jaar na de aan het Rijk gedane betaling.
 
 2. Het in het eerste lid toegekende voorrecht heeft gelijke rangorde als het in [artikel 21 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=21) toegekende voorrecht van ’s Rijks schatkist, met dien verstande dat dit laatste voorrecht voorgaat.
 
-#### Artikel 1:13
+##### Artikel 1:13
 
 Vervallen
 
-#### Artikel 1:14
+##### Artikel 1:14
 
 De bevoegdheden van een persoon, anders dan een natuurlijk persoon, kunnen worden uitgeoefend en zijn verplichtingen kunnen worden nagekomen door iedere bestuurder.
 
-#### Artikel 1:15
+##### Artikel 1:15
 
 1. De bevoegdheden en de verplichtingen van een minderjarige, een onder curatele gestelde, iemand die in staat van faillissement is verklaard of ten aanzien van wie de schuldsaneringsregeling natuurlijke personen van toepassing is, of iemand wiens vermogen onder bewind is gesteld, kunnen worden uitgeoefend en nagekomen door een wettelijke vertegenwoordiger, curator of bewindvoerder. Op vordering van de inspecteur zijn laatstgenoemden tot nakoming van de verplichtingen gehouden.
 
 2. Om geldige redenen kan de inspecteur de vertegenwoordiging, bedoeld in het eerste lid, uitsluiten in de nakoming van een verplichting van hem die zelf tot die nakoming in staat is.
 
-#### Artikel 1:16
+##### Artikel 1:16
 
 1. Na iemands overlijden kunnen zijn rechtverkrijgenden onder algemene titel in het uitoefenen van de bevoegdheden en in het nakomen van de verplichtingen, welke de overledene zou hebben gehad, ware hij in leven gebleven, worden vertegenwoordigd door een hunner, de executeur, de door de rechter benoemde vereffenaar van de nalatenschap of de bewindvoerder over de nalatenschap. Op vordering van de inspecteur is ieder der in dit lid genoemde personen tot nakoming van die verplichtingen gehouden.
 
 2. Stukken betreffende de aangelegenheden van de overledene kunnen worden gericht aan een van de in het eerste lid genoemde personen.
 
-#### Artikel 1:17
+##### Artikel 1:17
 
 Deze paragraaf is niet van toepassing op strafvordering.
 
 #### Paragraaf 1.2.2. Beschikkingen
 
-#### Artikel 1:18
+##### Artikel 1:18
 
 1. Een beschikking als bedoeld in artikel 5, aanhef en onderdeel 39, van het Douanewetboek van de Unie wordt gelijkgesteld met een beschikking als bedoeld in [artikel 1:3, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3).
 
@@ -212,7 +239,7 @@ Deze paragraaf is niet van toepassing op strafvordering.
 
 #### Paragraaf 1.2.3. Kosten ambtelijke werkzaamheden
 
-#### Artikel 1:19
+##### Artikel 1:19
 
 1. Bij algemene maatregel van bestuur worden de gevallen vastgesteld waarin de belanghebbende ter zake van het verrichten van werkzaamheden kosten aan het Rijk is verschuldigd.
 
@@ -224,15 +251,15 @@ Deze paragraaf is niet van toepassing op strafvordering.
 
 #### Paragraaf 1.2.4. Overige bepalingen inzake douanetoezicht en douanecontrole
 
-#### Artikel 1:20
+##### Artikel 1:20
 
 Deze paragraaf is van toepassing op douanetoezicht of douanecontrole op de voet van het bij of krachtens deze wet bepaalde.
 
-#### Artikel 1:21
+##### Artikel 1:21
 
 De inspecteur maakt van zijn bevoegdheden slechts gebruik voorzover dat redelijkerwijs voor de vervulling van zijn taak nodig is.
 
-#### Artikel 1:22
+##### Artikel 1:22
 
 1. Bij de uitoefening van zijn taak namens de inspecteur draagt de ambtenaar een legitimatiebewijs bij zich, afgegeven door Onze Minister wie het aangaat of een door hem aangewezen ambtenaar.
 
@@ -240,7 +267,7 @@ De inspecteur maakt van zijn bevoegdheden slechts gebruik voorzover dat redelijk
 
 3. Het model van het legitimatiebewijs is het krachtens [artikel 5:12, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12) vastgestelde model.
 
-#### Artikel 1:23
+##### Artikel 1:23
 
 1. De inspecteur is bevoegd, met medeneming van de benodigde apparatuur of dieren elke plaats te betreden.
 
@@ -252,7 +279,7 @@ De inspecteur maakt van zijn bevoegdheden slechts gebruik voorzover dat redelijk
 
 5. Ten aanzien van woningen op of in vervoermiddelen zijn de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=5), en [7 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=7) niet van toepassing.
 
-#### Artikel 1:24
+##### Artikel 1:24
 
 1. De inspecteur is bevoegd over te gaan tot een onderzoek van goederen en het eventueel nemen van monsters voor analyse of grondige controle ingeval geen aanvaarding van een douaneaangifte heeft plaatsgevonden.
 
@@ -264,7 +291,7 @@ De inspecteur maakt van zijn bevoegdheden slechts gebruik voorzover dat redelijk
 
 5. De belanghebbende bij de goederen wordt voor de werking van dit artikel aangemerkt als aangever.
 
-#### Artikel 1:25
+##### Artikel 1:25
 
 1. Het onderzoek van een groep of partij goederen of de controle achteraf van de aangiften kan geschieden door middel van een gedeeltelijk onderzoek.
 
@@ -274,7 +301,7 @@ De inspecteur maakt van zijn bevoegdheden slechts gebruik voorzover dat redelijk
 
 4. Voor de toepassing van dit artikel is, voor zover het een gedeeltelijk onderzoek van goederen betreft, artikel 190, eerste lid, tweede alinea, van het Douanewetboek van de Unie van overeenkomstige toepassing, met dien verstande dat de belanghebbende bij de goederen wordt aangemerkt als aangever.
 
-#### Artikel 1:26
+##### Artikel 1:26
 
 1. De inspecteur is bevoegd aan controle te onderwerpen:
 
@@ -298,13 +325,13 @@ De inspecteur maakt van zijn bevoegdheden slechts gebruik voorzover dat redelijk
 
 2. Onder controle in de zin van het eerste lid wordt mede verstaan doorzoeking.
 
-#### Artikel 1:27
+##### Artikel 1:27
 
 1. De inspecteur is bevoegd met het oog op de uitoefening van de bevoegdheden, bedoeld in de [artikelen 1:23](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:23&z=2026-01-01&g=2026-01-01), [1:24](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:24&z=2026-01-01&g=2026-01-01) dan wel [1:26, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:26&z=2026-01-01&g=2026-01-01), van de bestuurder dan wel de gezagvoerder van het vervoermiddel te vorderen dat deze zijn vervoermiddel vaart laat minderen, bijdraait, landt, stilhoudt, naar een door hem aangewezen plaats overbrengt, aanlegt en de motor buiten werking stelt. De in dit lid bedoelde personen zijn gehouden aan de vordering te voldoen.
 
 2. Bij regeling van Onze Minister van Justitie en Veiligheid wordt bepaald op welke wijze de vordering tot stilhouden wordt gedaan.
 
-#### Artikel 1:28
+##### Artikel 1:28
 
 1. De inspecteur is bevoegd personen die aanwezig zijn in of op de in [artikel 1:26](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:26&z=2026-01-01&g=2026-01-01) bedoelde locaties of vervoermiddelen of deze juist gaan betreden of hebben verlaten aan lijfsvisitatie te onderwerpen.
 
@@ -332,11 +359,11 @@ De inspecteur maakt van zijn bevoegdheden slechts gebruik voorzover dat redelijk
 
 8. Bij of krachtens algemene maatregel van bestuur kunnen regels worden vastgesteld met betrekking tot het geheel ontkleden of het onderzoek van het onderlichaam en met betrekking tot de apparatuur waarmee door kleding van personen kan worden gekeken en het gebruik daarvan. Hierbij kan worden bepaald dat het vierde lid niet van toepassing is bij het gebruik van deze apparatuur.
 
-#### Artikel 1:29
+##### Artikel 1:29
 
 Onze Minister van Financiën is bevoegd, na overleg met Onze Minister wie het mede aangaat, te bepalen, dat in het belang van controle en onderzoek op openbare land- en waterwegen versperringen worden aangebracht.
 
-#### Artikel 1:30
+##### Artikel 1:30
 
 1. De inspecteur en de ambtenaren die namens hem een taak uitoefenen zijn bevoegd bij een controle geweld te gebruiken wanneer het daarmee beoogde doel dit, mede gelet op de aan het gebruik van geweld verbonden gevaren, rechtvaardigt en dat doel niet op een andere wijze kan worden bereikt.
 
@@ -350,13 +377,13 @@ Onze Minister van Financiën is bevoegd, na overleg met Onze Minister wie het me
 
 6. Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de toepassing van dit artikel.
 
-#### Artikel 1:31
+##### Artikel 1:31
 
 1. Het nemen van de nodige maatregelen, bedoeld in de artikelen 147, vierde lid, 198, eerste lid, en 215, derde lid, van het Douanewetboek van de Unie, wordt aangemerkt als het opleggen van een last onder bestuursdwang.
 
 2. Onverminderd het eerste lid is de inspecteur bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens de in [artikel 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:1&z=2026-01-01&g=2026-01-01) bedoelde regelingen of bij of krachtens deze wet gestelde verplichtingen.
 
-#### Artikel 1:32
+##### Artikel 1:32
 
 1. Onverminderd [artikel 1:5](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:5&z=2026-01-01&g=2026-01-01) van deze wet en de EU-regelgeving ter zake, zijn [artikel 15i van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15i) en de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=10) en [24 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24) van overeenkomstige toepassing:
 
@@ -376,25 +403,25 @@ Onze Minister van Financiën is bevoegd, na overleg met Onze Minister wie het me
 
 3. De inspecteur stelt de belanghebbende, op wie de verplichting tot het voeren van een administratie als bedoeld in het eerste lid rust, wiens gegevensdragers hij bij een derde voor raadpleging vordert hiervan gelijktijdig in kennis.
 
-#### Artikel 1:33
+##### Artikel 1:33
 
 Door vernummering vervallen.
 
-#### Artikel 1:34
+##### Artikel 1:34
 
 Een ieder die de leeftijd van veertien jaar heeft bereikt, is, indien dit voor de toepassing van de bij of krachtens de in [artikel 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:1&z=2026-01-01&g=2026-01-01) bedoelde regelingen of de bij of krachtens deze wet vastgestelde bepalingen te zijnen aanzien van belang kan zijn, verplicht op vordering van de inspecteur terstond een document waarmee de identiteit van hem kan worden vastgesteld als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) ter inzage aan te bieden.
 
-#### Artikel 1:35
+##### Artikel 1:35
 
 Bij verificatie van een aangifte worden de resultaten van het onderzoek van de goederen geacht overeen te komen met de aangifte indien de bevonden verschillen blijven binnen de spelingen die daartoe bij regeling van Onze Minister van Financiën zijn vastgesteld.
 
-#### Artikel 1:36
+##### Artikel 1:36
 
 1. Aan enige instelling van vervoer toevertrouwde brieven worden zonder goedvinden van de afzender of van de geadresseerde slechts geopend indien de rechter-commissaris in de rechtbank van het arrondissement waarbinnen de brief is aangetroffen, daartoe, op verzoek van de inspecteur, bevel heeft gegeven.
 
 2. Het bevel wordt slechts gegeven indien het vermoeden bestaat dat zich in de brief goederen bevinden.
 
-#### Artikel 1:37
+##### Artikel 1:37
 
 1. Vervoermiddelen, kennelijk ingericht of toegerust om goederen aan het ambtelijk toezicht te onttrekken of om tot het nakomen van de op grond van [artikel 1:27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:27&z=2026-01-01&g=2026-01-01), genomen dwangmaatregelen te verijdelen, zomede alle andere voorwerpen, kennelijk bestemd om goederen aan het ambtelijk toezicht te onttrekken of om een vervoermiddel tot een van de hiervoor omschreven doeleinden in te richten of toe te rusten, worden in beslag genomen.
 
@@ -416,7 +443,7 @@ Bij verificatie van een aangifte worden de resultaten van het onderzoek van de g
 
 ### Afdeling 2.1. Formaliteiten met betrekking tot goederen en goederenverkeer
 
-#### Artikel 2:1
+##### Artikel 2:1
 
 Ten einde de goede werking van de douanewetgeving te waarborgen, kunnen bij regeling van Onze Minister van Financiën bepalingen worden vastgesteld met betrekking tot:
 
@@ -448,25 +475,25 @@ Ten einde de goede werking van de douanewetgeving te waarborgen, kunnen bij rege
 
 - n. de berekeningswijze van de kredietrente, de vertragingsrente en de rente op achterstallen.
 
-#### Artikel 2:2
+##### Artikel 2:2
 
 Goederen aangevoerd uit zee of door de lucht worden, behoudens tegenbewijs, geacht uit zee onderscheidenlijk door de lucht het douanegebied van de Unie te zijn binnengekomen.
 
 ### Afdeling 2.2. Overige bepalingen
 
-#### Artikel 2:3
+##### Artikel 2:3
 
 De inspecteur kan een beschikking tot het doen vernietigen van de goederen ingevolge artikel 197 van het Douanewetboek van de Unie alleen geven wanneer sprake is van goederen waarvoor verboden of beperkingen gelden die daardoor niet vrijgegeven kunnen worden voor een regeling als bedoeld in artikel 194, eerste lid, van het Douanewetboek van de Unie of kunnen worden wederuitgevoerd.
 
 ### Hoofdstuk 3. Verboden en beperkingen
 
-#### Artikel 3:1
+##### Artikel 3:1
 
 1. Onverminderd de EU-regelgeving ter zake kunnen bij of krachtens algemene maatregel van bestuur verboden of beperkingen ten aanzien van goederen worden vastgesteld, die bij het binnenbrengen in, onderscheidenlijk verlaten van de gebieden, bedoeld in [artikel 1:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:2&z=2026-01-01&g=2026-01-01), van toepassing zijn.
 
 2. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat een beschikking die betrekking heeft op de toepassing van de verboden of beperkingen, bedoeld in het eerste lid, kan worden geweigerd of ingetrokken in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3), en dat daaraan voorafgaand het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8), om een advies als bedoeld in [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) kan worden gevraagd.
 
-#### Artikel 3:2
+##### Artikel 3:2
 
 1. Voor de uitvoering van de Verordening liquide middelen, de daarop berustende rechtshandelingen, en de [artikelen 3:4](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=3&afdeling=3.1&artikel=3:4&z=2026-01-01&g=2026-01-01) en [3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=3&afdeling=3.1&artikel=3:5&z=2026-01-01&g=2026-01-01) en de daarop berustende bepalingen, wordt bij de toepassing van deze wet en de daarop berustende bepalingen mede verstaan onder:
 
@@ -484,7 +511,7 @@ De inspecteur kan een beschikking tot het doen vernietigen van de goederen ingev
 
 4. Bij regeling van Onze Minister van Financiën kunnen regels worden gesteld op welke wijze de aangifte, bedoeld in het eerste lid, onderdeel b, langs elektronische weg kan worden gedaan.
 
-#### Artikel 3:3
+##### Artikel 3:3
 
 1. Een beslissing tot inbewaringneming van liquide middelen op de voet van artikel 7 van de Verordening liquide middelen wordt door de inspecteur schriftelijk genomen. De schriftelijke beslissing wordt aangemerkt als een beschikking. De bekendmaking daarvan geschiedt hetzij aan de natuurlijke persoon die niet aan de aangifteplicht uit hoofde van artikel 3 of artikel 4 van die verordening heeft voldaan, hetzij, indien deze persoon onbekend is, in het openbaar volgens bij regeling van Onze Minister van Financiën te stellen regels.
 
@@ -502,13 +529,13 @@ De inspecteur kan een beschikking tot het doen vernietigen van de goederen ingev
 
 ### Hoofdstuk 4. Vrije zones en vrije entrepots
 
-#### Artikel 4:1
+##### Artikel 4:1
 
 Vervallen
 
 ### Hoofdstuk 5. Goederen die het douanegebied van de Unie verlaten
 
-#### Artikel 5:1
+##### Artikel 5:1
 
 1. Goederen aanwezig in of op schepen, op weg naar zee of bestemd om aanstonds naar zee te vertrekken, zomede goederen die op het punt staan om in die schepen te worden opgenomen, worden aangemerkt als goederen die over zee het douanegebied van de Unie zullen uitgaan, tenzij blijkt dat de goederen bestemd zijn voor een plaats in het douanegebied van de Unie en het vervoer zal geschieden zonder dat het schip het douanegebied van de Unie uitgaat.
 
@@ -516,7 +543,7 @@ Vervallen
 
 ### Hoofdstuk 2. Bepalingen die op de in het douanegebied van de Unie binnengebrachte goederen van toepassing zijn tot deze onder een douaneregeling zijn geplaatst, worden wederuitgevoerd, het douanegebied van de Unie zullen verlaten of worden verwijderd
 
-#### Artikel 6:1
+##### Artikel 6:1
 
 1. Bij regeling van Onze Minister van Financiën kunnen bepalingen worden vastgesteld ter uitwerking van Verordening (EG) nr. 1186/2009 van de Raad van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (PbEU 2009, L 324).
 
@@ -532,11 +559,11 @@ Vervallen
 
 - e. het verlenen van vrijstellingen aan strijdkrachten die ter uitvoering van internationale overeenkomsten op Nederlands grondgebied zijn gestationeerd en die niet onder Nederlands gezag staan.
 
-#### Artikel 6:2
+##### Artikel 6:2
 
 Bij regeling van Onze Minister van Financiën kunnen bepalingen worden vastgesteld ter zake van vrijstelling van rechten bij invoer of van rechten bij uitvoer bij het in het vrije verkeer brengen respectievelijk de uitvoer van goederen bestemd voor de bevoorrading van schepen, luchtvaartuigen en internationale treinen.
 
-#### Artikel 6:3
+##### Artikel 6:3
 
 Bij regeling van Onze Minister van Financiën kunnen bepalingen worden vastgesteld ter uitwerking van vrijstellingsbepalingen ingesteld bij andere bindende EU-rechtshandelingen dan Verordening (EG) nr. 1186/2009 van de Raad van 16 november 2009 betreffende de instelling van een communautaire regeling inzake douanevrijstellingen (PbEU 2009, L 324).
 
@@ -544,7 +571,7 @@ Bij regeling van Onze Minister van Financiën kunnen bepalingen worden vastgeste
 
 ### Afdeling 3.1. Liquide middelen
 
-#### Artikel 7:1
+##### Artikel 7:1
 
 Met het oog op de in de douanewetgeving voorziene zekerheidstelling voor het bedrag van de douaneschuld kunnen bij regeling van Onze Minister van Financiën bepalingen worden vastgesteld ter zake van:
 
@@ -552,7 +579,7 @@ Met het oog op de in de douanewetgeving voorziene zekerheidstelling voor het bed
 
 - b. andere wijzen van zekerheidstelling dan door storting van contant geld of door borgstelling.
 
-#### Artikel 7:2
+##### Artikel 7:2
 
 1. Met het oog op de in de douanewetgeving voorziene zekerheidstelling voor het bedrag van de douaneschuld kunnen bij regeling van Onze Minister van Financiën bepalingen worden vastgesteld ter zake van de voorwaarden waaraan moet worden voldaan teneinde als borg te worden erkend.
 
@@ -560,11 +587,11 @@ Met het oog op de in de douanewetgeving voorziene zekerheidstelling voor het bed
 
 ### Afdeling 3.1. Liquide middelen
 
-#### Artikel 7:3
+##### Artikel 7:3
 
 Onder de naam «rechten bij invoer» en «rechten bij uitvoer» worden belastingen geheven ter zake van de invoer respectievelijk de uitvoer van goederen overeenkomstig hetgeen dienaangaande is bepaald bij of krachtens het Koninkrijk verbindende verdragen en in al hun onderdelen verbindende besluiten van bij zodanige verdragen opgerichte volkenrechtelijke organisaties.
 
-#### Artikel 7:4
+##### Artikel 7:4
 
 Vervallen
 
@@ -572,7 +599,7 @@ Vervallen
 
 #### Paragraaf 7.3.1. Boeking en mededeling
 
-#### Artikel 7:5
+##### Artikel 7:5
 
 1. Bij regeling van Onze Minister van Financiën kunnen bepalingen worden vastgesteld met betrekking tot de boeking van de bedragen aan rechten.
 
@@ -582,7 +609,7 @@ Vervallen
 
 - b. de boeking van bedragen met betrekking tot goederen die ten gunste van een zelfde persoon in een vast te stellen periode werden vrijgegeven waarbij deze boeking aan het einde van deze periode in één keer geschiedt.
 
-#### Artikel 7:6
+##### Artikel 7:6
 
 1. De mededeling van het bedrag aan rechten aan de schuldenaar geschiedt door het toezenden van een op een aanslagbiljet vermelde uitnodiging tot betaling. Het aanslagbiljet wordt voorzien van een dagtekening die geldt als dagtekening van de vaststelling van de uitnodiging tot betaling. De inspecteur stelt het aanslagbiljet ter invordering van het daaruit blijkende bedrag aan rechten aan de ontvanger ter hand.
 
@@ -604,11 +631,11 @@ Vervallen
 
 6. Indien een vergunninghouder volgens de procedure, bedoeld in artikel 237 van de Uitvoeringsverordening Douanewetboek van de Unie, gegevens indient over het vastgestelde bedrag aan rechten bij in- en uitvoer, geldt de datum van indiening als dagtekening van het aanslagbiljet en van de vaststelling van de uitnodiging tot betaling.
 
-#### Artikel 7:7
+##### Artikel 7:7
 
 Wanneer de douaneschuld is ontstaan ingevolge een handeling die, indien deze in Nederland zou zijn verricht, strafrechtelijk vervolgbaar was, kan de toezending van het aanslagbiljet geschieden binnen vijf jaren nadat de douaneschuld is ontstaan.
 
-#### Artikel 7:8
+##### Artikel 7:8
 
 Indien een douaneschuld ontstaat op grond van de artikelen 79 of 82 van het Douanewetboek van de Unie, en één of meer voor de berekening van het bedrag aan rechten noodzakelijke gegevens met betrekking tot de goederen niet zijn komen vast te staan, worden die goederen, met inachtneming van de gegevens die wel zijn komen vast te staan, geacht die hoedanigheid te bezitten, volgens welke:
 
@@ -616,7 +643,7 @@ Indien een douaneschuld ontstaat op grond van de artikelen 79 of 82 van het Doua
 
 - –. de meest bezwarende handelspolitieke maatregelen van toepassing zijn.
 
-#### Artikel 7:9
+##### Artikel 7:9
 
 Bij regeling van Onze Minister van Financiën worden regels gesteld met betrekking tot:
 
@@ -628,7 +655,7 @@ Bij regeling van Onze Minister van Financiën worden regels gesteld met betrekki
 
 ### Hoofdstuk 6. Vrijstellingen
 
-#### Artikel 8:1
+##### Artikel 8:1
 
 1. De [artikelen 6:2, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:2), en [8:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:1) zijn niet van toepassing.
 
@@ -640,7 +667,7 @@ Bij regeling van Onze Minister van Financiën worden regels gesteld met betrekki
 
 - b. de inspecteur niet tijdig heeft beslist op bezwaar en hij de indiener van dat bezwaar geen inkennisstelling als bedoeld in artikel 22, derde lid, tweede alinea, van het Douanewetboek van de Unie heeft doen toekomen.
 
-#### Artikel 8:2
+##### Artikel 8:2
 
 1. [Hoofdstuk V van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V), met uitzondering van de [artikelen 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=25), [26a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=26a), [27a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=27a) en [27e](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=27e), is van overeenkomstige toepassing op beschikkingen als bedoeld in het tweede lid.
 
@@ -674,11 +701,11 @@ Bij regeling van Onze Minister van Financiën worden regels gesteld met betrekki
 
 - c. niet of niet volledig is voldaan aan de verplichtingen ingevolge [artikel 1:32](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:32&z=2026-01-01&g=2026-01-01), verklaart de rechtbank het beroep ongegrond, tenzij is gebleken dat en in hoeverre de uitspraak op het bezwaar onjuist is. De eerste volzin vindt geen toepassing voor zover het bezwaar is gericht tegen een vergrijpboete.
 
-#### Artikel 8:3
+##### Artikel 8:3
 
 Vervallen
 
-#### Artikel 8:4
+##### Artikel 8:4
 
 Vervallen
 
@@ -686,13 +713,13 @@ Vervallen
 
 ### Afdeling 7.1. Zekerheidstelling voor het bedrag van de douaneschuld
 
-#### Artikel 9:1
+##### Artikel 9:1
 
 1. Indien voor goederen in tijdelijke opslag waarvoor een aangifte tot tijdelijke opslag is gedaan de formaliteiten welke nodig zijn om deze goederen onder een douaneregeling te plaatsen of weder uit te voeren niet worden vervuld binnen de ingevolge artikel 149 van het Douanewetboek van de Unie geldende termijn, vormt dit een verzuim ter zake waarvan de inspecteur degene die de formaliteiten binnen deze termijn dient te vervullen en degene door wiens toedoen de formaliteiten niet binnen deze termijn worden vervuld ieder een bestuurlijke boete van ten hoogste € 408 kan opleggen.
 
 2. Indien het niet vervullen van de in het eerste lid bedoelde formaliteiten binnen de ingevolge artikel 149 van het Douanewetboek van de Unie geldende termijn, een douaneschuld doet ontstaan en het daaruit voortvloeiende bedrag aan rechten bij invoer hoger is dan € 408, terwijl het niet vervullen van die formaliteiten binnen die termijn is te wijten aan opzet of grove schuld van één of meer van degenen, bedoeld in het eerste lid, vormt dit een vergrijp ter zake waarvan de inspecteur hem, onderscheidenlijk ieder van hen, een bestuurlijke boete van ten hoogste 100 percent van het bedrag aan rechten kan opleggen.
 
-#### Artikel 9:2
+##### Artikel 9:2
 
 1. Indien voor goederen welke zijn geplaatst onder de bijzondere regelingen douanevervoer, opslag, tijdelijke invoer, bijzondere bestemming, of actieve veredeling of passieve veredeling, de formaliteiten ter beëindiging van die regeling in strijd met de douanewetgeving niet of niet tijdig worden vervuld, vormt dit een verzuim ter zake waarvan de inspecteur degene die die formaliteiten dient te vervullen en degene door wiens toedoen die formaliteiten niet of niet tijdig worden vervuld ieder een bestuurlijke boete van ten hoogste € 408 kan opleggen.
 
@@ -700,23 +727,23 @@ Vervallen
 
 3. Indien het in strijd met de douanewetgeving niet of niet tijdig vervullen van de in het eerste lid bedoelde formaliteiten of het in strijd met de douanewetgeving niet vervullen van de in het tweede lid bedoelde verplichtingen een douaneschuld doet ontstaan en het daaruit voortvloeiende bedrag aan rechten bij invoer hoger is dan € 408, terwijl het in strijd met de douanewetgeving niet of niet tijdig vervullen van die formaliteiten, onderscheidenlijk niet vervullen van die verplichtingen, is te wijten aan opzet of grove schuld van één of meer van degenen, bedoeld in het eerste dan wel tweede lid, vormt dit een vergrijp ter zake waarvan de inspecteur hem, onderscheidenlijk ieder van hen, een bestuurlijke boete van ten hoogste 100 percent van het bedrag aan rechten kan opleggen.
 
-#### Artikel 9:3
+##### Artikel 9:3
 
 1. Indien in een douane-entrepot een vermis wordt bevonden, vormt dit een verzuim ter zake waarvan de inspecteur de houder van de vergunning, onderscheidenlijk de houder van de regeling, een bestuurlijke boete van ten hoogste € 408 kan opleggen.
 
 2. Indien het in het eerste lid bedoelde vermis een douaneschuld doet ontstaan en het daaruit voortvloeiende bedrag aan rechten bij invoer hoger is dan € 408, terwijl dat vermis is te wijten aan opzet of grove schuld van de houder van de vergunning, onderscheidenlijk de houder van de regeling, vormt dit een vergrijp ter zake waarvan de inspecteur hem een bestuurlijke boete van ten hoogste 100 percent van het bedrag aan rechten kan opleggen.
 
-#### Artikel 9:4
+##### Artikel 9:4
 
 1. Het niet voldoen aan een verplichting voortvloeiend uit een vergunning welke is verleend ingevolge de douanewetgeving, vormt een verzuim ter zake waarvan de inspecteur degene die deze voorwaarde dient na te leven en degene door wiens toedoen die voorwaarde niet of niet tijdig wordt nageleefd een bestuurlijke boete van ten hoogste € 408 kan opleggen.
 
 2. Indien het in strijd met de douanewetgeving niet of niet tijdig vervullen van de in het eerste lid bedoelde voorwaarde een douaneschuld doet ontstaan en het daaruit voortvloeiende bedrag aan rechten bij invoer hoger is dan € 408, terwijl het in strijd met de douanewetgeving niet of niet tijdig vervullen van deze voorwaarde is te wijten aan opzet of grove schuld van één of meer van degenen, bedoeld in het eerste lid, vormt dit een vergrijp ter zake waarvan de inspecteur hem, onderscheidenlijk ieder van hen, een bestuurlijke boete van ten hoogste 100 percent van het bedrag aan rechten kan opleggen.
 
-#### Artikel 9:5
+##### Artikel 9:5
 
 Het overtreden van een krachtens deze wet vastgestelde algemene maatregel van bestuur of ministeriële regeling kan bij die algemene maatregel van bestuur of ministeriële regeling worden aangemerkt als een verzuim ter zake waarvan de inspecteur degene aan wie het verzuim te wijten is een bestuurlijke boete kan opleggen van ten hoogste het in die algemene maatregel van bestuur of ministeriële regeling te vermelden bedrag. Dat bedrag beloopt ten hoogste € 408 indien het verzuim betrekking heeft op een algemene maatregel van bestuur, en beloopt ten hoogste € 203 indien het verzuim betrekking heeft op een ministeriële regeling.
 
-#### Artikel 9:6
+##### Artikel 9:6
 
 1. Met betrekking tot het opleggen van een boete naar aanleiding van een verzuim is [artikel 5:53 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:53) niet van toepassing.
 
@@ -726,43 +753,43 @@ Het overtreden van een krachtens deze wet vastgestelde algemene maatregel van be
 
 ### Afdeling 9.1. Beboetbare feiten
 
-#### Artikel 9:7
+##### Artikel 9:7
 
 Vervallen
 
-#### Artikel 9:8
+##### Artikel 9:8
 
 Indien de grondslag voor een bestuurlijke boete wordt gevormd door het bedrag aan rechten bij invoer, wordt de opgelegde bestuurlijke boete naar evenredigheid verlaagd bij vermindering, teruggaaf, terugbetaling of kwijtschelding van de rechten bij invoer, voorzover deze vermindering, teruggaaf, terugbetaling of kwijtschelding, het bedrag aan rechten bij invoer betreft waarover de bestuurlijke boete is berekend.
 
-#### Artikel 9:9
+##### Artikel 9:9
 
 Vervallen
 
-#### Artikel 9:10
+##### Artikel 9:10
 
 Vervallen
 
-#### Artikel 9:11
+##### Artikel 9:11
 
 Vervallen
 
-#### Artikel 9:12
+##### Artikel 9:12
 
 Vervallen
 
-#### Artikel 9:13
+##### Artikel 9:13
 
 Vervallen
 
-#### Artikel 9:14
+##### Artikel 9:14
 
 Vervallen
 
-#### Artikel 9:15
+##### Artikel 9:15
 
 Vervallen
 
-#### Artikel 9:16
+##### Artikel 9:16
 
 Van de opgelegde bestuurlijke boete kan door of vanwege Onze Minister van Financiën gehele of gedeeltelijke kwijtschelding worden verleend.
 
@@ -770,7 +797,7 @@ Van de opgelegde bestuurlijke boete kan door of vanwege Onze Minister van Financ
 
 ### Afdeling 10.1. Strafbare feiten
 
-#### Artikel 10:1
+##### Artikel 10:1
 
 1. Degene die:
 
@@ -800,7 +827,7 @@ wordt gestraft met een geldboete van de derde categorie, of, indien dit bedrag h
 
 7. Met betrekking tot de in het vierde, vijfde en zesde lid strafbaar gestelde feiten is [artikel 10:15, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.2&artikel=10:15&z=2026-01-01&g=2026-01-01), niet van toepassing.
 
-#### Artikel 10:2
+##### Artikel 10:2
 
 Degene die voor goederen die het douanegebied van de Unie verlaten:
 
@@ -814,19 +841,19 @@ Degene die voor goederen die het douanegebied van de Unie verlaten:
 
 wordt gestraft met een geldboete van de derde categorie.
 
-#### Artikel 10:3
+##### Artikel 10:3
 
 1. Degene die goederen waarvoor een in de douanewetgeving voorziene aangifte niet is gedaan, lost, laadt, vervoert, in enig gebouw, erf of besloten terrein inslaat, voorhanden heeft of daaruit uitslaat, koopt, verkoopt, te koop aanbiedt of aflevert, wordt gestraft met geldboete van de derde categorie of, indien dit bedrag hoger is, ten hoogste eenmaal het bedrag van de rechten bij invoer die ter zake van de goederen zijn verschuldigd.
 
 2. Degene die een der in het eerste lid omschreven feiten begaat terwijl hij weet of vermoedt dat de rechten bij invoer ter zake van de in dat lid bedoelde goederen niet zijn voldaan, noch de heffing van die rechten overeenkomstig de douanewetgeving is verzekerd, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie of, indien dit bedrag hoger is, ten hoogste eenmaal het bedrag van die rechten.
 
-#### Artikel 10:4
+##### Artikel 10:4
 
 1. Degene die in strijd met de douanewetgeving goederen waarvoor vrijstelling van rechten bij invoer wordt genoten, gebruikt of doet gebruiken op een wijze of voor doeleinden waarvoor de vrijstelling niet geldt, of aan goederen die in het vrije verkeer zijn gebracht met toepassing van een verlaagd recht bij invoer of van een nulrecht uit hoofde van hun bijzondere bestemming, een bestemming heeft gegeven die afwijkt van die met het oog waarop het verlaagde recht bij invoer of het nulrecht is toegepast, wordt gestraft met geldboete van de derde categorie of, indien dit bedrag hoger is, ten hoogste eenmaal het bedrag van de ter zake van die goederen te weinig geheven rechten bij invoer.
 
 2. Degene die een der in het eerste lid omschreven feiten opzettelijk begaat, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie of, indien dit bedrag hoger is, ten hoogste eenmaal het bedrag van de te weinig geheven rechten bij invoer.
 
-#### Artikel 10:5
+##### Artikel 10:5
 
 1. Met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft degene die ingevolge de douanewetgeving verplicht is tot:
 
@@ -850,15 +877,15 @@ wordt gestraft met een geldboete van de derde categorie.
 
 7. Dit artikel is niet van toepassing ten aanzien van de invordering van de rechten bij invoer.
 
-#### Artikel 10:6
+##### Artikel 10:6
 
 Degene die niet voldoet aan een hem bij of krachtens, [artikel 1:11](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.1&artikel=1:11&z=2026-01-01&g=2026-01-01), [1:23](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:23&z=2026-01-01&g=2026-01-01), [1:24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:24&z=2026-01-01&g=2026-01-01), [1:27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:27&z=2026-01-01&g=2026-01-01),[1:28, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:28&z=2026-01-01&g=2026-01-01), of [1:32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:32&z=2026-01-01&g=2026-01-01), van deze wet, of artikel 189, tweede lid, van het Douanewetboek van de Unie opgelegde verplichting, dan wel niet de in artikel 15, eerste lid, van het Douanewetboek van de Unie gevraagde alle nodige bijstand verleent, wordt gestraft met geldboete van de derde categorie.
 
-#### Artikel 10:7
+##### Artikel 10:7
 
 Degene die niet voldoet aan de hem bij [artikel 1:34](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:34&z=2026-01-01&g=2026-01-01) opgelegde verplichting, wordt gestraft met geldboete van de tweede categorie.
 
-#### Artikel 10:8
+##### Artikel 10:8
 
 1. Degene die een tot stand gebrachte identificatiemaatregel met betrekking tot een vervoermiddel, bergingsmiddel, verpakkingsmiddel, goederen, werktuig, leiding, gebouw of terrein, of deel daarvan, in strijd met de douanewetgeving schendt, wordt gestraft met geldboete van de derde categorie.
 
@@ -870,35 +897,35 @@ Degene die niet voldoet aan de hem bij [artikel 1:34](https://wetten.overheid.nl
 
 5. Ten aanzien van de in het derde en in het vierde lid omschreven feiten kan voor de betrokkene niet het bestaan van overmacht worden aangenomen, indien hij niet onverwijld nadat hem bekend is geworden dat een identificatiemaatregel niet op deugdelijke wijze is tot stand gebracht of een identificatiemaatregel niet in stand is gebleven, daarvan aan de inspecteur mededeling doet.
 
-#### Artikel 10:9
+##### Artikel 10:9
 
 1. Degene die van goederen waaraan herkenningsmiddelen of denatureringsmiddelen zijn toegevoegd, die herkenningsmiddelen of denatureringsmiddelen daarvan geheel of ten dele afscheidt, de werking ervan geheel of ten dele opheft of verandert, wordt gestraft met geldboete van de derde categorie.
 
 2. Degene die een der in het eerste lid omschreven feiten opzettelijk begaat, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie of, indien dit bedrag hoger is, ten hoogste eenmaal het bedrag van de te weinig geheven rechten bij invoer.
 
-#### Artikel 10:10
+##### Artikel 10:10
 
 Overtreding van krachtens deze wet bij algemene maatregel van bestuur vastgestelde bepalingen wordt, voorzover die overtreding is aangemerkt als strafbaar feit, gestraft met geldboete van de derde categorie.
 
-#### Artikel 10:11
+##### Artikel 10:11
 
 Overtreding van krachtens deze wet bij regeling van Onze Minister wie het aangaat vastgestelde bepalingen, voorzover die overtreding is aangemerkt als strafbaar feit, gestraft met geldboete van de tweede categorie.
 
-#### Artikel 10:12
+##### Artikel 10:12
 
 Vervallen
 
 ### Afdeling 9.2. Aanvullende voorschriften inzake het opleggen van bestuurlijke boeten
 
-#### Artikel 10:13
+##### Artikel 10:13
 
 De bij deze wet strafbaar gestelde feiten waarop gevangenisstraf is gesteld, zijn misdrijven. De overige bij deze wet strafbaar gestelde feiten, alsmede de in de op deze wet berustende bepalingen strafbaar gestelde feiten, zijn overtredingen.
 
-#### Artikel 10:14
+##### Artikel 10:14
 
 Ter zake van de bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten vindt [artikel 36e van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36e) geen toepassing.
 
-#### Artikel 10:15
+##### Artikel 10:15
 
 1. Ten aanzien van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten met betrekking tot welke het proces-verbaal niet overeenkomstig [artikel 11:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=11&artikel=11:3&z=2026-01-01&g=2026-01-01), in handen van de officier van justitie is gesteld, kan in afwijking van de [artikelen 257a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a), [257b](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257b) en [257ba van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257ba), uitsluitend de inspecteur een strafbeschikking uitvaardigen. Bij regeling van Onze minister van Financiën kunnen functionarissen worden aangewezen die deze bevoegdheid namens de inspecteur kunnen uitoefenen.
 
@@ -922,13 +949,13 @@ Ter zake van de bij deze wet of de daarop berustende bepalingen strafbaar gestel
 
 7. [Artikel 552ab van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab) is van overeenkomstige toepassing.
 
-#### Artikel 10:16
+##### Artikel 10:16
 
 1. Medeplichtigheid aan de in de [artikelen 10:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:1&z=2026-01-01&g=2026-01-01), [10:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:2&z=2026-01-01&g=2026-01-01) of [10:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:3&z=2026-01-01&g=2026-01-01), vermelde overtredingen is strafbaar. Te dien aanzien vinden de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=48) en [49 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=49) overeenkomstige toepassing.
 
 2. Poging tot de in [artikel 10:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:3&z=2026-01-01&g=2026-01-01), vermelde overtreding is strafbaar. Te dien aanzien vindt [artikel 45 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=45) overeenkomstige toepassing.
 
-#### Artikel 10:17
+##### Artikel 10:17
 
 De Nederlandse strafwet is ook van toepassing op ieder die zich buiten het gebied waarop deze wet ingevolge [artikel 1:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:2&z=2026-01-01&g=2026-01-01) van toepassing is, schuldig maakt aan:
 
@@ -936,13 +963,13 @@ De Nederlandse strafwet is ook van toepassing op ieder die zich buiten het gebie
 
 - b. de in [artikel 10:5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:5&z=2026-01-01&g=2026-01-01), omschreven overtreding.
 
-#### Artikel 10:18
+##### Artikel 10:18
 
 Bij veroordeling wegens een der in de [artikelen 10:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:1&z=2026-01-01&g=2026-01-01), [10:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:2&z=2026-01-01&g=2026-01-01), [10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:3&z=2026-01-01&g=2026-01-01) en [10:4](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:4&z=2026-01-01&g=2026-01-01) omschreven strafbare feiten kunnen de in [artikel 33a, eerste lid, onderdelen b tot en met e, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=33a) genoemde voorwerpen ook worden verbeurdverklaard, indien zij niet aan de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=33a) bedoelde persoon toebehoren.
 
 ### Hoofdstuk 10. Strafrechtelijke bepalingen
 
-#### Artikel 11:1
+##### Artikel 11:1
 
 1. De rechtbanken vonnissen in eerste aanleg over bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten.
 
@@ -954,11 +981,11 @@ Bij veroordeling wegens een der in de [artikelen 10:1](https://wetten.overheid.n
 
 3. Tegen andere vonnissen kan de verdachte hoger beroep instellen, indien hechtenis als hoofdstraf is opgelegd, een geldboete van € 113 of meer is opgelegd dan wel een verbeurdverklaring is uitgesproken; het openbaar ministerie kan hoger beroep instellen, indien het gelijke straffen heeft gevorderd.
 
-#### Artikel 11:2
+##### Artikel 11:2
 
 Ten aanzien van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten worden personen, niet zijnde natuurlijke personen, voor de toepassing van [artikel 2 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=2) geacht te wonen, waar zij gevestigd zijn.
 
-#### Artikel 11:3
+##### Artikel 11:3
 
 1. Met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten zijn, behalve de in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) bedoelde personen, belast de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, dan wel de ambtenaren die bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister wie het mede aangaat zijn aangewezen.
 
@@ -968,37 +995,37 @@ Ten aanzien van bij deze wet of de daarop berustende bepalingen strafbaar gestel
 
 4. Het bepaalde in [artikel 148, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=148) vindt geen toepassing in zaken, waarin de inspecteur het proces-verbaal niet aan de officier van justitie heeft doen toekomen.
 
-#### Artikel 11:4
+##### Artikel 11:4
 
 De ambtenaren belast met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten, zijn te allen tijde bevoegd tot inbeslagneming van de ingevolge het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) voor inbeslagneming vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.
 
-#### Artikel 11:5
+##### Artikel 11:5
 
 1. In zaken waarin de inspecteur het proces-verbaal niet ingevolge het bepaalde in [artikel 11:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=11&artikel=11:3&z=2009-05-01&g=2009-05-01), aan de officier van justitie heeft doen toekomen, geldt ten aanzien van de inspecteur hetgeen in [artikel 116 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=116) ten aanzien van het openbaar ministerie is bepaald.
 
 2. In de zaken, bedoeld in het eerste lid, wordt bij de toepassing van de [artikelen 552a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a) en [552ab van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab), alvorens het gerecht ingevolge [artikel 552a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), onderscheidenlijk [artikel 552ab, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab), van dat artikel een beschikking neemt, ook de inspecteur in de gelegenheid gesteld te worden gehoord en is, in afwijking van het bepaalde in [artikel 552d van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552d), niet het openbaar ministerie doch de inspecteur bevoegd tot het instellen van beroep in cassatie. De griffier van het gerecht hetwelk in die zaken ingevolge [artikel 552a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), of [artikel 552ab, vierde lid, van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab) een beschikking neemt, deelt deze onverwijld mee aan de inspecteur.
 
-#### Artikel 11:6
+##### Artikel 11:6
 
 Bij het opsporen van een bij deze wet of de daarop berustende bepalingen strafbaar gesteld feit hebben de in [artikel 11:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=11&artikel=11:3&z=2009-05-01&g=2009-05-01), bedoelde ambtenaren toegang tot elke plaats, voorzover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zij zijn bevoegd zich door bepaalde door hen aangewezen personen te doen vergezellen.
 
-#### Artikel 11:7
+##### Artikel 11:7
 
 Ten dienste van de vervolging en berechting van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten kan Onze Minister van Financiën, in overeenstemming met Onze Minister van Justitie, ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, aanwijzen, die het contact onderhouden met het openbaar ministerie.
 
-#### Artikel 11:8
+##### Artikel 11:8
 
 De griffiers verstrekken aan de inspecteur desgevraagd kosteloos afschrift of uittreksel van arresten of vonnissen, met toepassing van deze wet gewezen.
 
-#### Artikel 11:9
+##### Artikel 11:9
 
 Met betrekking tot gerechtelijke mededelingen inzake bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten hebben de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, de bevoegdheden bij het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) aan ambtenaren, aangesteld voor de uitvoering van de politietaak, toegekend.
 
-#### Artikel 11:10
+##### Artikel 11:10
 
 Ten aanzien van de tenuitvoerlegging van rechterlijke beslissingen inzake bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten hebben de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, de bevoegdheid van deurwaarders.
 
-#### Artikel 11:11
+##### Artikel 11:11
 
 1. De ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, zijn tevens belast met de opsporing van:
 
@@ -1008,7 +1035,7 @@ Ten aanzien van de tenuitvoerlegging van rechterlijke beslissingen inzake bij de
 
 2. De [artikelen 152](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=152), [153](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=153), [156](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=156) en [159 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=159) zijn te dezen op de ambtenaren van overeenkomstige toepassing.
 
-#### Artikel 11:12
+##### Artikel 11:12
 
 1. Met betrekking tot bij deze wet strafbaar gestelde feiten en met uitbreiding van [artikel 53 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=53) is de inspecteur bevoegd een van misdrijf verdachte persoon die is aangehouden in of op een locatie of vervoermiddel, een en ander als bedoeld in de [artikelen 1:26](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:26&z=2026-01-01&g=2026-01-01) en [1:27](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:27&z=2026-01-01&g=2026-01-01), of bij het juist hebben verlaten van een locatie of vervoermiddel als in die artikelen bedoeld, na aanhouding naar een plaats voor verhoor te geleiden dan wel diens aanhouding of voorgeleiding te bevelen.
 
@@ -1018,7 +1045,7 @@ Ten aanzien van de tenuitvoerlegging van rechterlijke beslissingen inzake bij de
 
 4. De verdachte van een misdrijf waarvoor voorlopige hechtenis is toegelaten kan ten hoogste negen uur worden opgehouden voor onderzoek; de verdachte van een misdrijf waarvoor voorlopige hechtenis niet is toegelaten ten hoogste zes uur. De tijd tussen middernacht en negen uur ’s ochtends wordt voor de berekening van deze termijnen niet meegerekend. De ophouding vindt plaats in het belang van het onderzoek.
 
-#### Artikel 11:13
+##### Artikel 11:13
 
 1. Goederen die in beslag zijn genomen ter zake van het begaan van strafbare feiten als bedoeld in deze wet of de daarop berustende bepalingen kunnen, voorzover de eisen van het onderzoek of het algemeen belang bij hun vernietiging of onbruikbaarmaking zich niet daartegen verzetten, zo nodig na monsterneming, overeenkomstig bij regeling van Onze Minister van Financiën te stellen regels, tegen zekerheidstelling worden vrijgegeven.
 
@@ -1026,7 +1053,7 @@ Ten aanzien van de tenuitvoerlegging van rechterlijke beslissingen inzake bij de
 
 3. De overeenkomstig het eerste lid gestelde zekerheid treedt voor de toepassing van bepalingen betreffende verbeurdverklaring en inbeslagneming, alsmede voor de uitoefening van het recht van verhaal, in de plaats van de in beslag genomen goederen.
 
-#### Artikel 11:14
+##### Artikel 11:14
 
 1. Van goederen die ter zake van het begaan van strafbare feiten als bedoeld in deze wet of de daarop berustende bepalingen, in beslag zijn genomen van onbekende personen, wordt volgens bij regeling van Onze Minister van Financiën te stellen regels in het openbaar mededeling gedaan.
 
@@ -1034,27 +1061,27 @@ Ten aanzien van de tenuitvoerlegging van rechterlijke beslissingen inzake bij de
 
 ### Hoofdstuk 12. Slotbepalingen
 
-#### Artikel 12:1
+##### Artikel 12:1
 
 Bij of krachtens algemene maatregel van bestuur kunnen ter verzekering van een juiste toepassing van de toepassingsverordening Communautair douanewetboek nadere regels worden gesteld ter aanvulling van de in deze wet geregelde onderwerpen.
 
-#### Artikel 12:2
+##### Artikel 12:2
 
 Bij het uitoefenen van het recht op beroep moet in bezwaar-, verzoek-, beroep-, verweer- en verzetschriften hij die niet binnen het Rijk een vaste woonplaats of plaats van vestiging heeft, domicilie kiezen binnen het Rijk.
 
-#### Artikel 12:3
+##### Artikel 12:3
 
 Het ingevolge het Communautair douanewetboek, de toepassingsverordening Communautair douanewetboek of de wet bekendmaken, toezenden daaronder begrepen, van een stuk aan een persoon, die niet binnen Nederland een vaste woonplaats of plaats van vestiging heeft, kan ook geschieden aan de binnen Nederland gelegen vaste inrichting voor de uitoefening van zijn bedrijf of beroep, dan wel aan de woning of het kantoor van de binnen Nederland wonende of gevestigde vertegenwoordiger.
 
-#### Artikel 12:4
+##### Artikel 12:4
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 12:5
+##### Artikel 12:5
 
 Voor de bekendmaking van deze wet stelt Onze Minister van Financiën de nummering van de artikelen, paragrafen, hoofdstukken en afdelingen van deze wet opnieuw vast en brengt hij de in deze wet voorkomende aanhalingen van artikelen, paragrafen, hoofdstukken en afdelingen daarmee in overeenstemming.
 
-#### Artikel 12:6
+##### Artikel 12:6
 
 Deze wet wordt aangehaald als: Algemene douanewet.
 
@@ -1068,7 +1095,7 @@ Voorschriften gebaseerd op de artikelen 26, 36, 37, 60, 71, 80, 87, 88, 89, 93, 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 7:4a
+##### Artikel 7:4a
 
 1. [Artikel 4:86 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:86) is niet van toepassing.
 
@@ -1098,7 +1125,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk 10. Strafrechtelijke bepalingen
 
-#### Artikel 11:1
+##### Artikel 11:1
 
 1. De rechtbanken vonnissen in eerste aanleg over bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten.
 
@@ -1110,11 +1137,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. Tegen andere vonnissen kan de verdachte hoger beroep instellen, indien hechtenis als hoofdstraf is opgelegd, een geldboete van € 113 of meer is opgelegd dan wel een verbeurdverklaring is uitgesproken; het openbaar ministerie kan hoger beroep instellen, indien het gelijke straffen heeft gevorderd.
 
-#### Artikel 11:2
+##### Artikel 11:2
 
 Ten aanzien van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten worden personen, niet zijnde natuurlijke personen, voor de toepassing van [artikel 2 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=2) geacht te wonen, waar zij gevestigd zijn.
 
-#### Artikel 11:3
+##### Artikel 11:3
 
 1. Met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten zijn, behalve de in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) bedoelde personen, belast de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, dan wel de ambtenaren die bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister wie het mede aangaat zijn aangewezen.
 
@@ -1124,55 +1151,55 @@ Ten aanzien van bij deze wet of de daarop berustende bepalingen strafbaar gestel
 
 4. Het bepaalde in [artikel 148, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=148) vindt geen toepassing in zaken, waarin de inspecteur het proces-verbaal niet aan de officier van justitie heeft doen toekomen.
 
-#### Artikel 11:4
+##### Artikel 11:4
 
 De ambtenaren belast met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten, zijn te allen tijde bevoegd tot inbeslagneming van de ingevolge het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) voor inbeslagneming vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.
 
-#### Artikel 11:5
+##### Artikel 11:5
 
 1. In zaken waarin de inspecteur het proces-verbaal niet ingevolge het bepaalde in [artikel 11:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=11&artikel=11:3&z=2009-12-22&g=2009-12-22), aan de officier van justitie heeft doen toekomen, geldt ten aanzien van de inspecteur hetgeen in [artikel 116 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=116) ten aanzien van het openbaar ministerie is bepaald.
 
 2. In de zaken, bedoeld in het eerste lid, wordt bij de toepassing van de [artikelen 552a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a) en [552ab van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab), alvorens het gerecht ingevolge [artikel 552a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), onderscheidenlijk [artikel 552ab, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab), van dat artikel een beschikking neemt, ook de inspecteur in de gelegenheid gesteld te worden gehoord en is, in afwijking van het bepaalde in [artikel 552d van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552d), niet het openbaar ministerie doch de inspecteur bevoegd tot het instellen van beroep in cassatie. De griffier van het gerecht hetwelk in die zaken ingevolge [artikel 552a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), of [artikel 552ab, vierde lid, van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab) een beschikking neemt, deelt deze onverwijld mee aan de inspecteur.
 
-#### Artikel 11:6
+##### Artikel 11:6
 
 Bij het opsporen van een bij deze wet of de daarop berustende bepalingen strafbaar gesteld feit hebben de in [artikel 11:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=11&artikel=11:3&z=2009-12-22&g=2009-12-22), bedoelde ambtenaren toegang tot elke plaats, voorzover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zij zijn bevoegd zich door bepaalde door hen aangewezen personen te doen vergezellen.
 
-#### Artikel 11:7
+##### Artikel 11:7
 
 Ten dienste van de vervolging en berechting van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten kan Onze Minister van Financiën, in overeenstemming met Onze Minister van Justitie, ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, aanwijzen, die het contact onderhouden met het openbaar ministerie.
 
-#### Artikel 11:8
+##### Artikel 11:8
 
 De griffiers verstrekken aan de inspecteur desgevraagd kosteloos afschrift of uittreksel van arresten of vonnissen, met toepassing van deze wet gewezen.
 
-#### Artikel 11:9
+##### Artikel 11:9
 
 Met betrekking tot gerechtelijke mededelingen inzake bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten hebben de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, de bevoegdheden bij het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) aan ambtenaren, aangesteld voor de uitvoering van de politietaak, toegekend.
 
 ### Hoofdstuk 12. Slotbepalingen
 
-#### Artikel 12:1
+##### Artikel 12:1
 
 Bij of krachtens algemene maatregel van bestuur kunnen ter verzekering van een juiste toepassing van de toepassingsverordening Communautair douanewetboek nadere regels worden gesteld ter aanvulling van de in deze wet geregelde onderwerpen.
 
-#### Artikel 12:2
+##### Artikel 12:2
 
 Bij het uitoefenen van het recht op beroep moet in bezwaar-, verzoek-, beroep-, verweer- en verzetschriften hij die niet binnen het Rijk een vaste woonplaats of plaats van vestiging heeft, domicilie kiezen binnen het Rijk.
 
-#### Artikel 12:3
+##### Artikel 12:3
 
 Het ingevolge het Communautair douanewetboek, de toepassingsverordening Communautair douanewetboek of de wet bekendmaken, toezenden daaronder begrepen, van een stuk aan een persoon, die niet binnen Nederland een vaste woonplaats of plaats van vestiging heeft, kan ook geschieden aan de binnen Nederland gelegen vaste inrichting voor de uitoefening van zijn bedrijf of beroep, dan wel aan de woning of het kantoor van de binnen Nederland wonende of gevestigde vertegenwoordiger.
 
-#### Artikel 12:4
+##### Artikel 12:4
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 12:5
+##### Artikel 12:5
 
 Voor de bekendmaking van deze wet stelt Onze Minister van Financiën de nummering van de artikelen, paragrafen, hoofdstukken en afdelingen van deze wet opnieuw vast en brengt hij de in deze wet voorkomende aanhalingen van artikelen, paragrafen, hoofdstukken en afdelingen daarmee in overeenstemming.
 
-#### Artikel 12:6
+##### Artikel 12:6
 
 Deze wet wordt aangehaald als: Algemene douanewet.
 
@@ -1186,7 +1213,7 @@ Voorschriften gebaseerd op de artikelen 26, 36, 37, 60, 71, 80, 87, 88, 89, 93, 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 9:6a
+##### Artikel 9:6a
 
 De in de [artikelen 9:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=9&afdeling=9.1&artikel=9:1&z=2026-01-01&g=2026-01-01), [9:1a](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=9&afdeling=9.1&artikel=9:1a&z=2026-01-01&g=2026-01-01), [9:1b](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=9&afdeling=9.1&artikel=9:1b&z=2026-01-01&g=2026-01-01), [9:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=9&afdeling=9.1&artikel=9:2&z=2026-01-01&g=2026-01-01), [9:3](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=9&afdeling=9.1&artikel=9:3&z=2026-01-01&g=2026-01-01), [9:4](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=9&afdeling=9.1&artikel=9:4&z=2026-01-01&g=2026-01-01) en [9:5](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=9&afdeling=9.1&artikel=9:5&z=2026-01-01&g=2026-01-01), genoemde bedragen worden elke vijf jaar, met ingang van 1 januari 2015, bij ministeriële regeling gewijzigd. De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing, met dien verstande dat als tabelcorrectiefactor wordt genomen het product van de factoren van de laatste vijf kalenderjaren.
 
@@ -1200,7 +1227,7 @@ De in de [artikelen 9:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdst
 
 ### Hoofdstuk 11. Algemene bepalingen van strafvordering
 
-#### Artikel 11:1
+##### Artikel 11:1
 
 1. De rechtbanken vonnissen in eerste aanleg over bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten.
 
@@ -1212,11 +1239,11 @@ De in de [artikelen 9:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdst
 
 3. Tegen andere vonnissen kan de verdachte hoger beroep instellen, indien hechtenis als hoofdstraf is opgelegd, een geldboete van € 113 of meer is opgelegd dan wel een verbeurdverklaring is uitgesproken; het openbaar ministerie kan hoger beroep instellen, indien het gelijke straffen heeft gevorderd.
 
-#### Artikel 11:2
+##### Artikel 11:2
 
 Ten aanzien van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten worden personen, niet zijnde natuurlijke personen, voor de toepassing van [artikel 2 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=2) geacht te wonen, waar zij gevestigd zijn.
 
-#### Artikel 11:3
+##### Artikel 11:3
 
 1. Met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten zijn, behalve de in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) bedoelde personen, belast de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, dan wel de ambtenaren die bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister wie het mede aangaat zijn aangewezen.
 
@@ -1226,55 +1253,55 @@ Ten aanzien van bij deze wet of de daarop berustende bepalingen strafbaar gestel
 
 4. Het bepaalde in [artikel 148, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=148) vindt geen toepassing in zaken, waarin de inspecteur het proces-verbaal niet aan de officier van justitie heeft doen toekomen.
 
-#### Artikel 11:4
+##### Artikel 11:4
 
 De ambtenaren belast met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten, zijn te allen tijde bevoegd tot inbeslagneming van de ingevolge het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) voor inbeslagneming vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.
 
-#### Artikel 11:5
+##### Artikel 11:5
 
 1. In zaken waarin de inspecteur het proces-verbaal niet ingevolge het bepaalde in [artikel 11:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=11&artikel=11:3&z=2016-01-01&g=2016-01-01), aan de officier van justitie heeft doen toekomen, geldt ten aanzien van de inspecteur hetgeen in [artikel 116 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=116) ten aanzien van het openbaar ministerie is bepaald.
 
 2. In de zaken, bedoeld in het eerste lid, wordt bij de toepassing van de [artikelen 552a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a) en [552ab van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab), alvorens het gerecht ingevolge [artikel 552a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), onderscheidenlijk [artikel 552ab, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab), van dat artikel een beschikking neemt, ook de inspecteur in de gelegenheid gesteld te worden gehoord en is, in afwijking van het bepaalde in [artikel 552d van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552d), niet het openbaar ministerie doch de inspecteur bevoegd tot het instellen van beroep in cassatie. De griffier van het gerecht hetwelk in die zaken ingevolge [artikel 552a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), of [artikel 552ab, vierde lid, van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab) een beschikking neemt, deelt deze onverwijld mee aan de inspecteur.
 
-#### Artikel 11:6
+##### Artikel 11:6
 
 Bij het opsporen van een bij deze wet of de daarop berustende bepalingen strafbaar gesteld feit hebben de in [artikel 11:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=11&artikel=11:3&z=2016-01-01&g=2016-01-01), bedoelde ambtenaren toegang tot elke plaats, voorzover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zij zijn bevoegd zich door bepaalde door hen aangewezen personen te doen vergezellen.
 
-#### Artikel 11:7
+##### Artikel 11:7
 
 Ten dienste van de vervolging en berechting van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten kan Onze Minister van Financiën, in overeenstemming met Onze Minister van Veiligheid en Justitie, ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, aanwijzen, die het contact onderhouden met het openbaar ministerie.
 
-#### Artikel 11:8
+##### Artikel 11:8
 
 De griffiers verstrekken aan de inspecteur desgevraagd kosteloos afschrift of uittreksel van arresten of vonnissen, met toepassing van deze wet gewezen.
 
-#### Artikel 11:9
+##### Artikel 11:9
 
 Met betrekking tot gerechtelijke mededelingen inzake bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten hebben de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, de bevoegdheden bij het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) aan ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, toegekend.
 
 ### Hoofdstuk 12. Slotbepalingen
 
-#### Artikel 12:1
+##### Artikel 12:1
 
 Bij of krachtens algemene maatregel van bestuur kunnen ter verzekering van een juiste toepassing van het Communautair douanewetboek en de toepassingsverordening Communautair douanewetboek nadere regels worden gesteld ter aanvulling van de in deze wet geregelde onderwerpen.
 
-#### Artikel 12:2
+##### Artikel 12:2
 
 Bij het uitoefenen van het recht op beroep moet in bezwaar-, verzoek-, beroep-, verweer- en verzetschriften hij die niet in Nederland een vaste woonplaats of plaats van vestiging heeft, domicilie kiezen in Nederland.
 
-#### Artikel 12:3
+##### Artikel 12:3
 
 Het ingevolge het Communautair douanewetboek, de toepassingsverordening Communautair douanewetboek of de wet bekendmaken, toezenden daaronder begrepen, van een stuk aan een persoon, die niet binnen Nederland een vaste woonplaats of plaats van vestiging heeft, kan ook geschieden aan de binnen Nederland gelegen vaste inrichting voor de uitoefening van zijn bedrijf of beroep, dan wel aan de woning of het kantoor van de binnen Nederland wonende of gevestigde vertegenwoordiger.
 
-#### Artikel 12:4
+##### Artikel 12:4
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 12:5
+##### Artikel 12:5
 
 Voor de bekendmaking van deze wet stelt Onze Minister van Financiën de nummering van de artikelen, paragrafen, hoofdstukken en afdelingen van deze wet opnieuw vast en brengt hij de in deze wet voorkomende aanhalingen van artikelen, paragrafen, hoofdstukken en afdelingen daarmee in overeenstemming.
 
-#### Artikel 12:6
+##### Artikel 12:6
 
 Deze wet wordt aangehaald als: Algemene douanewet.
 
@@ -1286,7 +1313,7 @@ Voorschriften gebaseerd op de artikelen 31, 33, 42, 43, 75, 91, 100, 107, 108, 1
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 7:10
+##### Artikel 7:10
 
 Indien een bedrag aan rechten bij invoer of rechten bij uitvoer geheel of gedeeltelijk wordt terugbetaald of kwijtgescholden en ter zake van dat bedrag rente op achterstallen in rekening was gebracht, wordt het deel van de rente op achterstallen dat betrekking heeft op het terug te betalen of kwijt te schelden bedrag eveneens terugbetaald, onderscheidenlijk kwijtgescholden.
 
@@ -1306,7 +1333,7 @@ Indien een bedrag aan rechten bij invoer of rechten bij uitvoer geheel of gedeel
 
 ### Hoofdstuk 10. Strafrechtelijke bepalingen
 
-#### Artikel 11:1
+##### Artikel 11:1
 
 1. De rechtbanken vonnissen in eerste aanleg over bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten.
 
@@ -1318,11 +1345,11 @@ Indien een bedrag aan rechten bij invoer of rechten bij uitvoer geheel of gedeel
 
 3. Tegen andere vonnissen kan de verdachte hoger beroep instellen, indien hechtenis als hoofdstraf is opgelegd, een geldboete van € 113 of meer is opgelegd dan wel een verbeurdverklaring is uitgesproken; het openbaar ministerie kan hoger beroep instellen, indien het gelijke straffen heeft gevorderd.
 
-#### Artikel 11:2
+##### Artikel 11:2
 
 Ten aanzien van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten worden personen, niet zijnde natuurlijke personen, voor de toepassing van [artikel 2 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=2) geacht te wonen, waar zij gevestigd zijn.
 
-#### Artikel 11:3
+##### Artikel 11:3
 
 1. Met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten zijn, behalve de in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) bedoelde personen, belast de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, dan wel de ambtenaren die bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister wie het mede aangaat zijn aangewezen.
 
@@ -1340,55 +1367,55 @@ De overige processen-verbaal doet de inspecteur, met de in beslag genomen voorwe
 
 4. Het bepaalde in [artikel 148, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=148) vindt geen toepassing in zaken, waarin de inspecteur het proces-verbaal niet aan de officier van justitie heeft doen toekomen.
 
-#### Artikel 11:4
+##### Artikel 11:4
 
 De ambtenaren belast met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten, zijn te allen tijde bevoegd tot inbeslagneming van de ingevolge het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) voor inbeslagneming vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.
 
-#### Artikel 11:5
+##### Artikel 11:5
 
 1. In zaken waarin de inspecteur het proces-verbaal niet ingevolge het bepaalde in [artikel 11:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=11&artikel=11:3&z=2021-05-26&g=2021-05-26), aan de officier van justitie heeft doen toekomen, geldt ten aanzien van de inspecteur hetgeen in [artikel 116 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=116) ten aanzien van het openbaar ministerie is bepaald.
 
 2. In de zaken, bedoeld in het eerste lid, wordt bij de toepassing van de [artikelen 552a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a) en [552ab van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab), alvorens het gerecht ingevolge [artikel 552a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), onderscheidenlijk [artikel 552ab, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab), van dat artikel een beschikking neemt, ook de inspecteur in de gelegenheid gesteld te worden gehoord en is, in afwijking van het bepaalde in [artikel 552d van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552d), niet het openbaar ministerie doch de inspecteur bevoegd tot het instellen van beroep in cassatie. De griffier van het gerecht hetwelk in die zaken ingevolge [artikel 552a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), of [artikel 552ab, vierde lid, van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab) een beschikking neemt, deelt deze onverwijld mee aan de inspecteur.
 
-#### Artikel 11:6
+##### Artikel 11:6
 
 Bij het opsporen van een bij deze wet of de daarop berustende bepalingen strafbaar gesteld feit hebben de in [artikel 11:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=11&artikel=11:3&z=2021-05-26&g=2021-05-26), bedoelde ambtenaren toegang tot elke plaats, voorzover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zij zijn bevoegd zich door bepaalde door hen aangewezen personen te doen vergezellen.
 
-#### Artikel 11:7
+##### Artikel 11:7
 
 Ten dienste van de vervolging en berechting van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten kan Onze Minister van Financiën, in overeenstemming met Onze Minister van Justitie en Veiligheid, ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, aanwijzen, die het contact onderhouden met het openbaar ministerie.
 
-#### Artikel 11:8
+##### Artikel 11:8
 
 De griffiers verstrekken aan de inspecteur desgevraagd kosteloos afschrift of uittreksel van arresten of vonnissen, met toepassing van deze wet gewezen.
 
-#### Artikel 11:9
+##### Artikel 11:9
 
 Met betrekking tot gerechtelijke mededelingen inzake bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten hebben de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, de bevoegdheden bij het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) aan ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, toegekend.
 
 ### Hoofdstuk 12. Slotbepalingen
 
-#### Artikel 12:1
+##### Artikel 12:1
 
 Bij of krachtens algemene maatregel van bestuur kunnen ter verzekering van een juiste toepassing van het Douanewetboek van de Unie, de Gedelegeerde Verordening Douanewetboek van de Unie of de Uitvoeringsverordening Douanewetboek van de Unie nadere regels worden gesteld ter aanvulling van de in deze wet geregelde onderwerpen.
 
-#### Artikel 12:2
+##### Artikel 12:2
 
 Bij het uitoefenen van het recht op beroep moet in bezwaar-, verzoek-, beroep-, verweer- en verzetschriften hij die niet in Nederland een vaste woonplaats of plaats van vestiging heeft, domicilie kiezen in Nederland.
 
-#### Artikel 12:3
+##### Artikel 12:3
 
 Het ingevolge het Douanewetboek van de Unie, de Gedelegeerde Verordening Douanewetboek van de Unie of de Uitvoeringsverordening Douanewetboek van de Unie of de wet bekendmaken, toezenden daaronder begrepen, van een stuk aan een persoon, die niet binnen Nederland een vaste woonplaats of plaats van vestiging heeft, kan ook geschieden aan de binnen Nederland gelegen vaste inrichting voor de uitoefening van zijn bedrijf of beroep, dan wel aan de woning of het kantoor van de binnen Nederland wonende of gevestigde vertegenwoordiger.
 
-#### Artikel 12:4
+##### Artikel 12:4
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 12:5
+##### Artikel 12:5
 
 Voor de bekendmaking van deze wet stelt Onze Minister van Financiën de nummering van de artikelen, paragrafen, hoofdstukken en afdelingen van deze wet opnieuw vast en brengt hij de in deze wet voorkomende aanhalingen van artikelen, paragrafen, hoofdstukken en afdelingen daarmee in overeenstemming.
 
-#### Artikel 12:6
+##### Artikel 12:6
 
 Deze wet wordt aangehaald als: Algemene douanewet.
 
@@ -1402,15 +1429,15 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Afdeling 3.1. Liquide middelen
 
-#### Artikel 3:2a
+##### Artikel 3:2a
 
 De vervoerder, bedoeld in artikel 6, eerste lid, van de Verordening liquide middelen of de afzender of de ontvanger van de liquide middelen, bedoeld in artikel 6, tweede lid, van die verordening verstrekt op verzoek van de inspecteur de gegevens, bedoeld in artikel 3, tweede lid, onderscheidenlijk artikel 4, tweede lid, van die verordening.
 
-#### Artikel 3:2b
+##### Artikel 3:2b
 
 In afwijking van [artikel 1:3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:3&z=2026-01-01&g=2026-01-01), is de bevoegde autoriteit, bedoeld in artikel 13, eerste lid, van de Verordening liquide middelen, Onze Minister van Financiën.
 
-#### Artikel 3:4
+##### Artikel 3:4
 
 1. De afzender, de vervoerder of de ontvanger van liquide middelen ter waarde van € 10.000 of meer als bedoeld in artikel 2, eerste lid, onderdeel a, van de Verordening liquide middelen of waardevolle goederen ter waarde van € 10.000 of meer, verstrekt de inspecteur op diens verzoek binnen een termijn van dertig dagen een kennisgeving die de gegevens, bedoeld in artikel 4, tweede lid, van die verordening, bevat.
 
@@ -1424,7 +1451,7 @@ In afwijking van [artikel 1:3, eerste lid, onderdeel d](https://wetten.overheid.
 
 6. Bij of krachtens algemene maatregel van bestuur worden goederen aangewezen die worden aangemerkt als waardevolle goederen als bedoeld in het eerste lid.
 
-#### Artikel 3:5
+##### Artikel 3:5
 
 1. De afzender, de vervoerder of de ontvanger van documenten waaruit buitenlands of binnenlands bezit van vermogen of vermogensbestanddelen blijkt, die kunnen duiden op witwassen of terrorismefinanciering verstrekt de inspecteur op diens verzoek binnen een termijn van dertig dagen een kennisgeving die het volgende omvat:
 
@@ -1476,7 +1503,7 @@ In afwijking van [artikel 1:3, eerste lid, onderdeel d](https://wetten.overheid.
 
 ### Hoofdstuk 11. Algemene bepalingen van strafvordering
 
-#### Artikel 11:1
+##### Artikel 11:1
 
 1. De rechtbanken vonnissen in eerste aanleg over bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten.
 
@@ -1488,11 +1515,11 @@ In afwijking van [artikel 1:3, eerste lid, onderdeel d](https://wetten.overheid.
 
 3. Tegen andere vonnissen kan de verdachte hoger beroep instellen, indien hechtenis als hoofdstraf is opgelegd, een geldboete van € 113 of meer is opgelegd dan wel een verbeurdverklaring is uitgesproken; het openbaar ministerie kan hoger beroep instellen, indien het gelijke straffen heeft gevorderd.
 
-#### Artikel 11:2
+##### Artikel 11:2
 
 Ten aanzien van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten worden personen, niet zijnde natuurlijke personen, voor de toepassing van [artikel 2 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=2) geacht te wonen, waar zij gevestigd zijn.
 
-#### Artikel 11:3
+##### Artikel 11:3
 
 1. Met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten zijn, behalve de in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) bedoelde personen, belast de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, dan wel de ambtenaren die bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister wie het mede aangaat zijn aangewezen.
 
@@ -1510,55 +1537,55 @@ De overige processen-verbaal doet de inspecteur, met de in beslag genomen voorwe
 
 4. Het bepaalde in [artikel 148, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=148) vindt geen toepassing in zaken, waarin de inspecteur het proces-verbaal niet aan de officier van justitie heeft doen toekomen.
 
-#### Artikel 11:4
+##### Artikel 11:4
 
 De ambtenaren belast met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten, zijn te allen tijde bevoegd tot inbeslagneming van de ingevolge het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) voor inbeslagneming vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.
 
-#### Artikel 11:5
+##### Artikel 11:5
 
 1. In zaken waarin de inspecteur het proces-verbaal niet ingevolge het bepaalde in [artikel 11:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=11&artikel=11:3&z=2021-06-03&g=2021-07-01), aan de officier van justitie heeft doen toekomen, geldt ten aanzien van de inspecteur hetgeen in [artikel 116 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=116) ten aanzien van het openbaar ministerie is bepaald.
 
 2. In de zaken, bedoeld in het eerste lid, wordt bij de toepassing van de [artikelen 552a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a) en [552ab van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab), alvorens het gerecht ingevolge [artikel 552a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), onderscheidenlijk [artikel 552ab, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab), van dat artikel een beschikking neemt, ook de inspecteur in de gelegenheid gesteld te worden gehoord en is, in afwijking van het bepaalde in [artikel 552d van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552d), niet het openbaar ministerie doch de inspecteur bevoegd tot het instellen van beroep in cassatie. De griffier van het gerecht hetwelk in die zaken ingevolge [artikel 552a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), of [artikel 552ab, vierde lid, van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab) een beschikking neemt, deelt deze onverwijld mee aan de inspecteur.
 
-#### Artikel 11:6
+##### Artikel 11:6
 
 Bij het opsporen van een bij deze wet of de daarop berustende bepalingen strafbaar gesteld feit hebben de in [artikel 11:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=11&artikel=11:3&z=2021-06-03&g=2021-07-01), bedoelde ambtenaren toegang tot elke plaats, voorzover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zij zijn bevoegd zich door bepaalde door hen aangewezen personen te doen vergezellen.
 
-#### Artikel 11:7
+##### Artikel 11:7
 
 Ten dienste van de vervolging en berechting van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten kan Onze Minister van Financiën, in overeenstemming met Onze Minister van Justitie en Veiligheid, ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, aanwijzen, die het contact onderhouden met het openbaar ministerie.
 
-#### Artikel 11:8
+##### Artikel 11:8
 
 De griffiers verstrekken aan de inspecteur desgevraagd kosteloos afschrift of uittreksel van arresten of vonnissen, met toepassing van deze wet gewezen.
 
-#### Artikel 11:9
+##### Artikel 11:9
 
 Met betrekking tot gerechtelijke mededelingen inzake bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten hebben de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, de bevoegdheden bij het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) aan ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, toegekend.
 
 ### Hoofdstuk 12. Slotbepalingen
 
-#### Artikel 12:1
+##### Artikel 12:1
 
 Bij of krachtens algemene maatregel van bestuur kunnen ter verzekering van een juiste toepassing van het Douanewetboek van de Unie, de Gedelegeerde Verordening Douanewetboek van de Unie of de Uitvoeringsverordening Douanewetboek van de Unie nadere regels worden gesteld ter aanvulling van de in deze wet geregelde onderwerpen.
 
-#### Artikel 12:2
+##### Artikel 12:2
 
 Bij het uitoefenen van het recht op beroep moet in bezwaar-, verzoek-, beroep-, verweer- en verzetschriften hij die niet in Nederland een vaste woonplaats of plaats van vestiging heeft, domicilie kiezen in Nederland.
 
-#### Artikel 12:3
+##### Artikel 12:3
 
 Het ingevolge het Douanewetboek van de Unie, de Gedelegeerde Verordening Douanewetboek van de Unie of de Uitvoeringsverordening Douanewetboek van de Unie of de wet bekendmaken, toezenden daaronder begrepen, van een stuk aan een persoon, die niet binnen Nederland een vaste woonplaats of plaats van vestiging heeft, kan ook geschieden aan de binnen Nederland gelegen vaste inrichting voor de uitoefening van zijn bedrijf of beroep, dan wel aan de woning of het kantoor van de binnen Nederland wonende of gevestigde vertegenwoordiger.
 
-#### Artikel 12:4
+##### Artikel 12:4
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 12:5
+##### Artikel 12:5
 
 Voor de bekendmaking van deze wet stelt Onze Minister van Financiën de nummering van de artikelen, paragrafen, hoofdstukken en afdelingen van deze wet opnieuw vast en brengt hij de in deze wet voorkomende aanhalingen van artikelen, paragrafen, hoofdstukken en afdelingen daarmee in overeenstemming.
 
-#### Artikel 12:6
+##### Artikel 12:6
 
 Deze wet wordt aangehaald als: Algemene douanewet.
 
@@ -1572,13 +1599,13 @@ Voorschriften gebaseerd op de artikelen 31, 33, 42, 43, 75, 91, 100, 107, 108, 1
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 9:1a
+##### Artikel 9:1a
 
 1. Indien een ingevolge de douanewetgeving vereiste aangifte onjuist of onvolledig is gedaan, vormt dit een verzuim ter zake waarvan de inspecteur degene die de aangifte indient dan wel in had moeten dienen of degene op wiens naam de aangifte wordt gedaan een bestuurlijke boete van ten hoogste het bedrag dat is vastgesteld voor de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), kan opleggen, behoudens het bepaalde in [artikel 10:5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:5&z=2026-01-01&g=2026-01-01).
 
 2. Indien door het onjuist of onvolledig doen van een ingevolge de douanewetgeving vereiste aangifte een verschuldigd bedrag aan rechten bij invoer te laag werd meegedeeld en het meer verschuldigde bedrag aan rechten bij invoer hoger is dan het bedrag dat is vastgesteld voor de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), vormt dit een verzuim ter zake waarvan de inspecteur een van degenen, bedoeld in het eerste lid, een bestuurlijke boete van ten hoogste het bedrag dat is vastgesteld voor de derde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, kan opleggen, behoudens het bepaalde in [artikel 10:5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:5&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 9:1b
+##### Artikel 9:1b
 
 Indien iemand ingevolge de douanewetgeving verplicht is tot het verstrekken van inlichtingen, gegevens of aanwijzingen, binnen de eventueel vastgestelde termijn, en deze niet, onjuist of onvolledig verstrekt vormt dit een verzuim ter zake waarvan de inspecteur degene die deze verplichting niet is nagekomen een bestuurlijke boete van ten hoogste het bedrag dat is vastgesteld voor de derde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), kan opleggen, behoudens het bepaalde in [artikel 10:5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=10&afdeling=10.1&artikel=10:5&z=2026-01-01&g=2026-01-01).
 
@@ -1592,7 +1619,7 @@ Indien iemand ingevolge de douanewetgeving verplicht is tot het verstrekken van 
 
 ### Hoofdstuk 11. Algemene bepalingen van strafvordering
 
-#### Artikel 11:1
+##### Artikel 11:1
 
 1. De rechtbanken vonnissen in eerste aanleg over bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten.
 
@@ -1604,11 +1631,11 @@ Indien iemand ingevolge de douanewetgeving verplicht is tot het verstrekken van 
 
 3. Tegen andere vonnissen kan de verdachte hoger beroep instellen, indien hechtenis als hoofdstraf is opgelegd, een geldboete van € 113 of meer is opgelegd dan wel een verbeurdverklaring is uitgesproken; het openbaar ministerie kan hoger beroep instellen, indien het gelijke straffen heeft gevorderd.
 
-#### Artikel 11:2
+##### Artikel 11:2
 
 Ten aanzien van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten worden personen, niet zijnde natuurlijke personen, voor de toepassing van [artikel 2 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=2) geacht te wonen, waar zij gevestigd zijn.
 
-#### Artikel 11:3
+##### Artikel 11:3
 
 1. Met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten zijn, behalve de in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) bedoelde personen, belast de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, dan wel de ambtenaren die bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister wie het mede aangaat zijn aangewezen.
 
@@ -1626,55 +1653,55 @@ De overige processen-verbaal doet de inspecteur, met de in beslag genomen voorwe
 
 4. Het bepaalde in [artikel 148, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=148) vindt geen toepassing in zaken, waarin de inspecteur het proces-verbaal niet aan de officier van justitie heeft doen toekomen.
 
-#### Artikel 11:4
+##### Artikel 11:4
 
 De ambtenaren belast met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten, zijn te allen tijde bevoegd tot inbeslagneming van de ingevolge het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) voor inbeslagneming vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.
 
-#### Artikel 11:5
+##### Artikel 11:5
 
 1. In zaken waarin de inspecteur het proces-verbaal niet ingevolge het bepaalde in [artikel 11:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=11&artikel=11:3&z=2024-07-01&g=2021-07-01), aan de officier van justitie heeft doen toekomen, geldt ten aanzien van de inspecteur hetgeen in [artikel 116 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=116) ten aanzien van het openbaar ministerie is bepaald.
 
 2. In de zaken, bedoeld in het eerste lid, wordt bij de toepassing van de [artikelen 552a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a) en [552ab van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab), alvorens het gerecht ingevolge [artikel 552a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), onderscheidenlijk [artikel 552ab, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab), van dat artikel een beschikking neemt, ook de inspecteur in de gelegenheid gesteld te worden gehoord en is, in afwijking van het bepaalde in [artikel 552d van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552d), niet het openbaar ministerie doch de inspecteur bevoegd tot het instellen van beroep in cassatie. De griffier van het gerecht hetwelk in die zaken ingevolge [artikel 552a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), of [artikel 552ab, vierde lid, van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab) een beschikking neemt, deelt deze onverwijld mee aan de inspecteur.
 
-#### Artikel 11:6
+##### Artikel 11:6
 
 Bij het opsporen van een bij deze wet of de daarop berustende bepalingen strafbaar gesteld feit hebben de in [artikel 11:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=11&artikel=11:3&z=2024-07-01&g=2021-07-01), bedoelde ambtenaren toegang tot elke plaats, voorzover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zij zijn bevoegd zich door bepaalde door hen aangewezen personen te doen vergezellen.
 
-#### Artikel 11:7
+##### Artikel 11:7
 
 Ten dienste van de vervolging en berechting van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten kan Onze Minister van Financiën, in overeenstemming met Onze Minister van Justitie en Veiligheid, ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, aanwijzen, die het contact onderhouden met het openbaar ministerie.
 
-#### Artikel 11:8
+##### Artikel 11:8
 
 De griffiers verstrekken aan de inspecteur desgevraagd kosteloos afschrift of uittreksel van arresten of vonnissen, met toepassing van deze wet gewezen.
 
-#### Artikel 11:9
+##### Artikel 11:9
 
 Met betrekking tot gerechtelijke mededelingen inzake bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten hebben de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, de bevoegdheden bij het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) aan ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, toegekend.
 
 ### Hoofdstuk 11. Algemene bepalingen van strafvordering
 
-#### Artikel 12:1
+##### Artikel 12:1
 
 Bij of krachtens algemene maatregel van bestuur kunnen ter verzekering van een juiste toepassing van het Douanewetboek van de Unie, de Gedelegeerde Verordening Douanewetboek van de Unie of de Uitvoeringsverordening Douanewetboek van de Unie nadere regels worden gesteld ter aanvulling van de in deze wet geregelde onderwerpen.
 
-#### Artikel 12:2
+##### Artikel 12:2
 
 Bij het uitoefenen van het recht op beroep moet in bezwaar-, verzoek-, beroep-, verweer- en verzetschriften hij die niet in Nederland een vaste woonplaats of plaats van vestiging heeft, domicilie kiezen in Nederland.
 
-#### Artikel 12:3
+##### Artikel 12:3
 
 Het ingevolge het Douanewetboek van de Unie, de Gedelegeerde Verordening Douanewetboek van de Unie of de Uitvoeringsverordening Douanewetboek van de Unie of de wet bekendmaken, toezenden daaronder begrepen, van een stuk aan een persoon, die niet binnen Nederland een vaste woonplaats of plaats van vestiging heeft, kan ook geschieden aan de binnen Nederland gelegen vaste inrichting voor de uitoefening van zijn bedrijf of beroep, dan wel aan de woning of het kantoor van de binnen Nederland wonende of gevestigde vertegenwoordiger.
 
-#### Artikel 12:4
+##### Artikel 12:4
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 12:5
+##### Artikel 12:5
 
 Voor de bekendmaking van deze wet stelt Onze Minister van Financiën de nummering van de artikelen, paragrafen, hoofdstukken en afdelingen van deze wet opnieuw vast en brengt hij de in deze wet voorkomende aanhalingen van artikelen, paragrafen, hoofdstukken en afdelingen daarmee in overeenstemming.
 
-#### Artikel 12:6
+##### Artikel 12:6
 
 Deze wet wordt aangehaald als: Algemene douanewet.
 
@@ -1686,7 +1713,7 @@ Voorschriften gebaseerd op de artikelen 31, 33, 42, 43, 75, 91, 100, 107, 108, 1
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1:26a
+##### Artikel 1:26a
 
 1. Gebruikers van gebouwen, niet zijnde woningen, en terreinen, spoorwegemplacementen, plaatsen voor distributie en overslag voor goederen die over de weg worden vervoerd, havens, haventerreinen, luchthavens en luchtvaartterreinen, als bedoeld in [artikel 1:26](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:26&z=2026-01-01&g=2026-01-01) stellen op aanwijzing van de inspecteur kosteloos kantoorruimtes en andere ruimtes ter beschikking ter uitvoering van ambtelijke werkzaamheden als bedoeld in deze wet, op deze wet berustende bepalingen en de bepalingen, bedoeld in [artikel 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:1&z=2026-01-01&g=2026-01-01).
 
@@ -1728,7 +1755,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk 11. Algemene bepalingen van strafvordering
 
-#### Artikel 11:1
+##### Artikel 11:1
 
 1. De rechtbanken vonnissen in eerste aanleg over bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten.
 
@@ -1740,11 +1767,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. Tegen andere vonnissen kan de verdachte hoger beroep instellen, indien hechtenis als hoofdstraf is opgelegd, een geldboete van € 113 of meer is opgelegd dan wel een verbeurdverklaring is uitgesproken; het openbaar ministerie kan hoger beroep instellen, indien het gelijke straffen heeft gevorderd.
 
-#### Artikel 11:2
+##### Artikel 11:2
 
 Ten aanzien van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten worden personen, niet zijnde natuurlijke personen, voor de toepassing van [artikel 2 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=2) geacht te wonen, waar zij gevestigd zijn.
 
-#### Artikel 11:3
+##### Artikel 11:3
 
 1. Met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten zijn, behalve de in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) bedoelde personen, belast de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, dan wel de ambtenaren die bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister wie het mede aangaat zijn aangewezen.
 
@@ -1762,55 +1789,55 @@ De overige processen-verbaal doet de inspecteur, met de in beslag genomen voorwe
 
 4. Het bepaalde in [artikel 148, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=148) vindt geen toepassing in zaken, waarin de inspecteur het proces-verbaal niet aan de officier van justitie heeft doen toekomen.
 
-#### Artikel 11:4
+##### Artikel 11:4
 
 De ambtenaren belast met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten, zijn te allen tijde bevoegd tot inbeslagneming van de ingevolge het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) voor inbeslagneming vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.
 
-#### Artikel 11:5
+##### Artikel 11:5
 
 1. In zaken waarin de inspecteur het proces-verbaal niet ingevolge het bepaalde in [artikel 11:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=11&artikel=11:3&z=2022-12-22&g=2022-12-22), aan de officier van justitie heeft doen toekomen, geldt ten aanzien van de inspecteur hetgeen in [artikel 116 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=116) ten aanzien van het openbaar ministerie is bepaald.
 
 2. In de zaken, bedoeld in het eerste lid, wordt bij de toepassing van de [artikelen 552a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a) en [552ab van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab), alvorens het gerecht ingevolge [artikel 552a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), onderscheidenlijk [artikel 552ab, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab), van dat artikel een beschikking neemt, ook de inspecteur in de gelegenheid gesteld te worden gehoord en is, in afwijking van het bepaalde in [artikel 552d van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552d), niet het openbaar ministerie doch de inspecteur bevoegd tot het instellen van beroep in cassatie. De griffier van het gerecht hetwelk in die zaken ingevolge [artikel 552a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), of [artikel 552ab, vierde lid, van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab) een beschikking neemt, deelt deze onverwijld mee aan de inspecteur.
 
-#### Artikel 11:6
+##### Artikel 11:6
 
 Bij het opsporen van een bij deze wet of de daarop berustende bepalingen strafbaar gesteld feit hebben de in [artikel 11:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=11&artikel=11:3&z=2022-12-22&g=2022-12-22), bedoelde ambtenaren toegang tot elke plaats, voorzover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zij zijn bevoegd zich door bepaalde door hen aangewezen personen te doen vergezellen.
 
-#### Artikel 11:7
+##### Artikel 11:7
 
 Ten dienste van de vervolging en berechting van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten kan Onze Minister van Financiën, in overeenstemming met Onze Minister van Justitie en Veiligheid, ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, aanwijzen, die het contact onderhouden met het openbaar ministerie.
 
-#### Artikel 11:8
+##### Artikel 11:8
 
 De griffiers verstrekken aan de inspecteur desgevraagd kosteloos afschrift of uittreksel van arresten of vonnissen, met toepassing van deze wet gewezen.
 
-#### Artikel 11:9
+##### Artikel 11:9
 
 Met betrekking tot gerechtelijke mededelingen inzake bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten hebben de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, de bevoegdheden bij het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) aan ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, toegekend.
 
 ### Hoofdstuk 11. Algemene bepalingen van strafvordering
 
-#### Artikel 12:1
+##### Artikel 12:1
 
 Bij of krachtens algemene maatregel van bestuur kunnen ter verzekering van een juiste toepassing van het Douanewetboek van de Unie, de Gedelegeerde Verordening Douanewetboek van de Unie of de Uitvoeringsverordening Douanewetboek van de Unie nadere regels worden gesteld ter aanvulling van de in deze wet geregelde onderwerpen.
 
-#### Artikel 12:2
+##### Artikel 12:2
 
 Bij het uitoefenen van het recht op beroep moet in bezwaar-, verzoek-, beroep-, verweer- en verzetschriften hij die niet in Nederland een vaste woonplaats of plaats van vestiging heeft, domicilie kiezen in Nederland.
 
-#### Artikel 12:3
+##### Artikel 12:3
 
 Het ingevolge het Douanewetboek van de Unie, de Gedelegeerde Verordening Douanewetboek van de Unie of de Uitvoeringsverordening Douanewetboek van de Unie of de wet bekendmaken, toezenden daaronder begrepen, van een stuk aan een persoon, die niet binnen Nederland een vaste woonplaats of plaats van vestiging heeft, kan ook geschieden aan de binnen Nederland gelegen vaste inrichting voor de uitoefening van zijn bedrijf of beroep, dan wel aan de woning of het kantoor van de binnen Nederland wonende of gevestigde vertegenwoordiger.
 
-#### Artikel 12:4
+##### Artikel 12:4
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 12:5
+##### Artikel 12:5
 
 Voor de bekendmaking van deze wet stelt Onze Minister van Financiën de nummering van de artikelen, paragrafen, hoofdstukken en afdelingen van deze wet opnieuw vast en brengt hij de in deze wet voorkomende aanhalingen van artikelen, paragrafen, hoofdstukken en afdelingen daarmee in overeenstemming.
 
-#### Artikel 12:6
+##### Artikel 12:6
 
 Deze wet wordt aangehaald als: Algemene douanewet.
 
@@ -1834,7 +1861,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk 11. Algemene bepalingen van strafvordering
 
-#### Artikel 11:1
+##### Artikel 11:1
 
 1. De rechtbanken vonnissen in eerste aanleg over bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten.
 
@@ -1846,11 +1873,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. Tegen andere vonnissen kan de verdachte hoger beroep instellen, indien hechtenis als hoofdstraf is opgelegd, een geldboete van € 113 of meer is opgelegd dan wel een verbeurdverklaring is uitgesproken; het openbaar ministerie kan hoger beroep instellen, indien het gelijke straffen heeft gevorderd.
 
-#### Artikel 11:2
+##### Artikel 11:2
 
 Ten aanzien van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten worden personen, niet zijnde natuurlijke personen, voor de toepassing van [artikel 2 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=2) geacht te wonen, waar zij gevestigd zijn.
 
-#### Artikel 11:3
+##### Artikel 11:3
 
 1. Met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten zijn, behalve de in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) bedoelde personen, belast de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, dan wel de ambtenaren die bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister wie het mede aangaat zijn aangewezen.
 
@@ -1868,55 +1895,55 @@ De overige processen-verbaal doet de inspecteur, met de in beslag genomen voorwe
 
 4. Het bepaalde in [artikel 148, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=148) vindt geen toepassing in zaken, waarin de inspecteur het proces-verbaal niet aan de officier van justitie heeft doen toekomen.
 
-#### Artikel 11:4
+##### Artikel 11:4
 
 De ambtenaren belast met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten, zijn te allen tijde bevoegd tot inbeslagneming van de ingevolge het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) voor inbeslagneming vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.
 
-#### Artikel 11:5
+##### Artikel 11:5
 
 1. In zaken waarin de inspecteur het proces-verbaal niet ingevolge het bepaalde in [artikel 11:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=11&artikel=11:3&z=2024-07-01&g=2022-12-22), aan de officier van justitie heeft doen toekomen, geldt ten aanzien van de inspecteur hetgeen in [artikel 116 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=116) ten aanzien van het openbaar ministerie is bepaald.
 
 2. In de zaken, bedoeld in het eerste lid, wordt bij de toepassing van de [artikelen 552a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a) en [552ab van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab), alvorens het gerecht ingevolge [artikel 552a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), onderscheidenlijk [artikel 552ab, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab), van dat artikel een beschikking neemt, ook de inspecteur in de gelegenheid gesteld te worden gehoord en is, in afwijking van het bepaalde in [artikel 552d van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552d), niet het openbaar ministerie doch de inspecteur bevoegd tot het instellen van beroep in cassatie. De griffier van het gerecht hetwelk in die zaken ingevolge [artikel 552a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), of [artikel 552ab, vierde lid, van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab) een beschikking neemt, deelt deze onverwijld mee aan de inspecteur.
 
-#### Artikel 11:6
+##### Artikel 11:6
 
 Bij het opsporen van een bij deze wet of de daarop berustende bepalingen strafbaar gesteld feit hebben de in [artikel 11:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=11&artikel=11:3&z=2024-07-01&g=2022-12-22), bedoelde ambtenaren toegang tot elke plaats, voorzover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zij zijn bevoegd zich door bepaalde door hen aangewezen personen te doen vergezellen.
 
-#### Artikel 11:7
+##### Artikel 11:7
 
 Ten dienste van de vervolging en berechting van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten kan Onze Minister van Financiën, in overeenstemming met Onze Minister van Justitie en Veiligheid, ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, aanwijzen, die het contact onderhouden met het openbaar ministerie.
 
-#### Artikel 11:8
+##### Artikel 11:8
 
 De griffiers verstrekken aan de inspecteur desgevraagd kosteloos afschrift of uittreksel van arresten of vonnissen, met toepassing van deze wet gewezen.
 
-#### Artikel 11:9
+##### Artikel 11:9
 
 Met betrekking tot gerechtelijke mededelingen inzake bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten hebben de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, de bevoegdheden bij het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) aan ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, toegekend.
 
 ### Hoofdstuk 12. Slotbepalingen
 
-#### Artikel 12:1
+##### Artikel 12:1
 
 Bij of krachtens algemene maatregel van bestuur kunnen ter verzekering van een juiste toepassing van het Douanewetboek van de Unie, de Gedelegeerde Verordening Douanewetboek van de Unie of de Uitvoeringsverordening Douanewetboek van de Unie nadere regels worden gesteld ter aanvulling van de in deze wet geregelde onderwerpen.
 
-#### Artikel 12:2
+##### Artikel 12:2
 
 Bij het uitoefenen van het recht op beroep moet in bezwaar-, verzoek-, beroep-, verweer- en verzetschriften hij die niet in Nederland een vaste woonplaats of plaats van vestiging heeft, domicilie kiezen in Nederland.
 
-#### Artikel 12:3
+##### Artikel 12:3
 
 Het ingevolge het Douanewetboek van de Unie, de Gedelegeerde Verordening Douanewetboek van de Unie of de Uitvoeringsverordening Douanewetboek van de Unie of de wet bekendmaken, toezenden daaronder begrepen, van een stuk aan een persoon, die niet binnen Nederland een vaste woonplaats of plaats van vestiging heeft, kan ook geschieden aan de binnen Nederland gelegen vaste inrichting voor de uitoefening van zijn bedrijf of beroep, dan wel aan de woning of het kantoor van de binnen Nederland wonende of gevestigde vertegenwoordiger.
 
-#### Artikel 12:4
+##### Artikel 12:4
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 12:5
+##### Artikel 12:5
 
 Voor de bekendmaking van deze wet stelt Onze Minister van Financiën de nummering van de artikelen, paragrafen, hoofdstukken en afdelingen van deze wet opnieuw vast en brengt hij de in deze wet voorkomende aanhalingen van artikelen, paragrafen, hoofdstukken en afdelingen daarmee in overeenstemming.
 
-#### Artikel 12:6
+##### Artikel 12:6
 
 Deze wet wordt aangehaald als: Algemene douanewet.
 
@@ -1928,7 +1955,7 @@ Voorschriften gebaseerd op de artikelen 31, 33, 42, 43, 75, 91, 100, 107, 108, 1
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1:23a
+##### Artikel 1:23a
 
 1. De inspecteur is bevoegd persoonsgegevens te verwerken bij het gebruik van camera’s.
 
@@ -1958,7 +1985,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 6. Wanneer de inspecteur gebruikmaakt van camera’s waarbij persoonsgegevens worden verwerkt, van personen of instellingen die geen inspecteur of ontvanger zijn, sluit hij daartoe een overeenkomst af met die personen of instellingen.
 
-#### Artikel 1:23b
+##### Artikel 1:23b
 
 1. De inspecteur is bevoegd om camera’s te gebruiken waarbij bijzondere persoonsgegevens in de vorm van gegevens over de gezondheid worden verwerkt.
 
@@ -1966,7 +1993,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. De verwerking heeft tot doel te bepalen of een douanecontrole moet worden ingesteld waaronder wordt begrepen het onderwerpen van de reiziger aan lijfsvisitatie.
 
-#### Artikel 1:23c
+##### Artikel 1:23c
 
 1. De inspecteur is bevoegd in het kader van een douanecontrole van goederen die worden overgebracht van een opslagruimte voor tijdelijke opslag naar een andere opslagruimte voor tijdelijke opslag als bedoeld in artikel 148, vijfde lid, van het Douanewetboek van de Unie camera’s te gebruiken waarbij persoonsgegevens worden verwerkt.
 
@@ -1974,7 +2001,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. In afwijking in zoverre van [artikel 1:23a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:23a&z=2026-01-01&g=2026-01-01), worden de camera’s gericht op het vervoermiddel waarmee de goederen worden vervoerd.
 
-#### Artikel 1:23d
+##### Artikel 1:23d
 
 1. De inspecteur is bevoegd in het kader van een douanecontrole van goederen die worden vervoerd nadat zij onder een bijzondere regeling als bedoeld in artikel 210 van het Douanewetboek van de Unie zijn geplaatst of worden vervoerd met toepassing van artikel 219 van het Douanewetboek van de Unie camera’s te gebruiken waarbij persoonsgegevens worden verwerkt.
 
@@ -1982,7 +2009,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. In afwijking in zoverre van [artikel 1:23a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:23a&z=2026-01-01&g=2026-01-01), worden de camera’s gericht op het vervoermiddel waarmee de goederen worden vervoerd.
 
-#### Artikel 1:23e
+##### Artikel 1:23e
 
 1. De inspecteur is bevoegd in het kader van een douanecontrole van goederen die vallen onder de werking van [Verordening (EG) nr. 273/2004](32004R0273) van het Europees Parlement en de Raad van 11 februari 2004 inzake drugsprecursoren (PbEU 2004, L 47) en die worden vervoerd camera’s te gebruiken waarbij persoonsgegevens worden verwerkt.
 
@@ -1990,7 +2017,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. In afwijking in zoverre van [artikel 1:23a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:23a&z=2026-01-01&g=2026-01-01), worden de camera’s gericht op het vervoermiddel waarmee de goederen worden vervoerd.
 
-#### Artikel 1:23f
+##### Artikel 1:23f
 
 1. De inspecteur is bevoegd in het kader van een douanecontrole van goederen die vallen onder de werking van [Verordening (EU) 2019/1148](32019R1148) van het Europees Parlement en de Raad van 20 juni 2019 over het op de markt brengen en het gebruik van precursoren voor explosieven, tot wijziging van [Verordening (EG) nr. 1907/2006](32006R1907) en tot intrekking van [Verordening (EU) nr. 98/2013](32013R0098) (PbEU 2019, L 186) en die worden vervoerd camera’s te gebruiken waarbij persoonsgegevens worden verwerkt.
 
@@ -1998,7 +2025,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. In afwijking in zoverre van [artikel 1:23a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:23a&z=2026-01-01&g=2026-01-01), worden de camera’s gericht op het vervoermiddel waarmee de goederen worden vervoerd.
 
-#### Artikel 1:23g
+##### Artikel 1:23g
 
 1. De inspecteur draagt zorg voor passende algemeen aanvaarde beveiligingsmaatregelen teneinde ongeautoriseerde toegang te voorkomen en draagt ervoor zorg dat de toegang tot de beelden tussen aanvang van de verwerking en de vernietiging alleen kunnen worden ingezien door speciaal daartoe gemandateerden.
 
@@ -2010,13 +2037,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 5. Onze Minister van Financiën stelt jaarlijks vóór 1 januari een cameraplan vast en publiceert dit in de Staatscourant.
 
-#### Artikel 1:23h
+##### Artikel 1:23h
 
 Bij algemene maatregel van bestuur worden nadere regels gesteld ter verzekering van de juiste uitvoering en toepassing van de [artikelen 1:23a tot en met 1:23g](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.2&paragraaf=1.2.4&artikel=1:23a&z=2026-01-01&g=2026-01-01). Daarbij worden in ieder geval regels gesteld met betrekking tot de inhoud van het cameraplan, waaronder de onderbouwing voor de inzet van de camera’s waarbij mogelijk persoonsgegevens worden verwerkt.
 
 #### Paragraaf 1.2.5. Verstrekking van gegevens en inlichtingen
 
-#### Artikel 1:38
+##### Artikel 1:38
 
 De inspecteur verstrekt kosteloos mondeling, schriftelijk of op andere wijze de gegevens en inlichtingen aan de inspectie belastingen, toeslagen en douane, voor zover deze noodzakelijk zijn voor de uitvoering van de taken van die inspectie. Het is deze inspectie niet toegestaan verkregen gegevens en inlichtingen die van vertrouwelijke aard zijn, of die als vertrouwelijk zijn verstrekt, aan derden te verstrekken.
 
@@ -2046,7 +2073,7 @@ De inspecteur verstrekt kosteloos mondeling, schriftelijk of op andere wijze de 
 
 ### Hoofdstuk 11. Algemene bepalingen van strafvordering
 
-#### Artikel 11:1
+##### Artikel 11:1
 
 1. De rechtbanken vonnissen in eerste aanleg over bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten.
 
@@ -2058,11 +2085,11 @@ De inspecteur verstrekt kosteloos mondeling, schriftelijk of op andere wijze de 
 
 3. Tegen andere vonnissen kan de verdachte hoger beroep instellen, indien hechtenis als hoofdstraf is opgelegd, een geldboete van € 113 of meer is opgelegd dan wel een verbeurdverklaring is uitgesproken; het openbaar ministerie kan hoger beroep instellen, indien het gelijke straffen heeft gevorderd.
 
-#### Artikel 11:2
+##### Artikel 11:2
 
 Ten aanzien van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten worden personen, niet zijnde natuurlijke personen, voor de toepassing van [artikel 2 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=2) geacht te wonen, waar zij gevestigd zijn.
 
-#### Artikel 11:3
+##### Artikel 11:3
 
 1. Met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten zijn, behalve de in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) bedoelde personen, belast de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, dan wel de ambtenaren die bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister wie het mede aangaat zijn aangewezen.
 
@@ -2080,55 +2107,55 @@ De overige processen-verbaal doet de inspecteur, met de in beslag genomen voorwe
 
 4. Het bepaalde in [artikel 148, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=148) vindt geen toepassing in zaken, waarin de inspecteur het proces-verbaal niet aan de officier van justitie heeft doen toekomen.
 
-#### Artikel 11:4
+##### Artikel 11:4
 
 De ambtenaren belast met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten, zijn te allen tijde bevoegd tot inbeslagneming van de ingevolge het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) voor inbeslagneming vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.
 
-#### Artikel 11:5
+##### Artikel 11:5
 
 1. In zaken waarin de inspecteur het proces-verbaal niet ingevolge het bepaalde in [artikel 11:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=11&artikel=11:3&z=2024-07-01&g=2024-07-01), aan de officier van justitie heeft doen toekomen, geldt ten aanzien van de inspecteur hetgeen in [artikel 116 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=116) ten aanzien van het openbaar ministerie is bepaald.
 
 2. In de zaken, bedoeld in het eerste lid, wordt bij de toepassing van de [artikelen 552a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a) en [552ab van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab), alvorens het gerecht ingevolge [artikel 552a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), onderscheidenlijk [artikel 552ab, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab), van dat artikel een beschikking neemt, ook de inspecteur in de gelegenheid gesteld te worden gehoord en is, in afwijking van het bepaalde in [artikel 552d van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552d), niet het openbaar ministerie doch de inspecteur bevoegd tot het instellen van beroep in cassatie. De griffier van het gerecht hetwelk in die zaken ingevolge [artikel 552a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), of [artikel 552ab, vierde lid, van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab) een beschikking neemt, deelt deze onverwijld mee aan de inspecteur.
 
-#### Artikel 11:6
+##### Artikel 11:6
 
 Bij het opsporen van een bij deze wet of de daarop berustende bepalingen strafbaar gesteld feit hebben de in [artikel 11:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=11&artikel=11:3&z=2024-07-01&g=2024-07-01), bedoelde ambtenaren toegang tot elke plaats, voorzover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zij zijn bevoegd zich door bepaalde door hen aangewezen personen te doen vergezellen.
 
-#### Artikel 11:7
+##### Artikel 11:7
 
 Ten dienste van de vervolging en berechting van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten kan Onze Minister van Financiën, in overeenstemming met Onze Minister van Justitie en Veiligheid, ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, aanwijzen, die het contact onderhouden met het openbaar ministerie.
 
-#### Artikel 11:8
+##### Artikel 11:8
 
 De griffiers verstrekken aan de inspecteur desgevraagd kosteloos afschrift of uittreksel van arresten of vonnissen, met toepassing van deze wet gewezen.
 
-#### Artikel 11:9
+##### Artikel 11:9
 
 Met betrekking tot gerechtelijke mededelingen inzake bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten hebben de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, de bevoegdheden bij het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) aan ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, toegekend.
 
 ### Hoofdstuk 12. Slotbepalingen
 
-#### Artikel 12:1
+##### Artikel 12:1
 
 Bij of krachtens algemene maatregel van bestuur kunnen ter verzekering van een juiste toepassing van het Douanewetboek van de Unie, de Gedelegeerde Verordening Douanewetboek van de Unie of de Uitvoeringsverordening Douanewetboek van de Unie nadere regels worden gesteld ter aanvulling van de in deze wet geregelde onderwerpen.
 
-#### Artikel 12:2
+##### Artikel 12:2
 
 Bij het uitoefenen van het recht op beroep moet in bezwaar-, verzoek-, beroep-, verweer- en verzetschriften hij die niet in Nederland een vaste woonplaats of plaats van vestiging heeft, domicilie kiezen in Nederland.
 
-#### Artikel 12:3
+##### Artikel 12:3
 
 Het ingevolge het Douanewetboek van de Unie, de Gedelegeerde Verordening Douanewetboek van de Unie of de Uitvoeringsverordening Douanewetboek van de Unie of de wet bekendmaken, toezenden daaronder begrepen, van een stuk aan een persoon, die niet binnen Nederland een vaste woonplaats of plaats van vestiging heeft, kan ook geschieden aan de binnen Nederland gelegen vaste inrichting voor de uitoefening van zijn bedrijf of beroep, dan wel aan de woning of het kantoor van de binnen Nederland wonende of gevestigde vertegenwoordiger.
 
-#### Artikel 12:4
+##### Artikel 12:4
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 12:5
+##### Artikel 12:5
 
 Voor de bekendmaking van deze wet stelt Onze Minister van Financiën de nummering van de artikelen, paragrafen, hoofdstukken en afdelingen van deze wet opnieuw vast en brengt hij de in deze wet voorkomende aanhalingen van artikelen, paragrafen, hoofdstukken en afdelingen daarmee in overeenstemming.
 
-#### Artikel 12:6
+##### Artikel 12:6
 
 Deze wet wordt aangehaald als: Algemene douanewet.
 
@@ -2142,7 +2169,7 @@ Voorschriften gebaseerd op de artikelen 31, 33, 42, 43, 75, 91, 100, 107, 108, 1
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 9:6b
+##### Artikel 9:6b
 
 1. In afwijking van [artikel 5:43 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:43) kan de inspecteur een boete naar aanleiding van een vergrijp opleggen wegens hetzelfde feit als waarvoor eerder een boete naar aanleiding van een verzuim is opgelegd, indien nieuwe bezwaren bekend zijn geworden.
 
@@ -2162,7 +2189,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk 11. Algemene bepalingen van strafvordering
 
-#### Artikel 11:1
+##### Artikel 11:1
 
 1. De rechtbanken vonnissen in eerste aanleg over bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten.
 
@@ -2174,11 +2201,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. Tegen andere vonnissen kan de verdachte hoger beroep instellen, indien hechtenis als hoofdstraf is opgelegd, een geldboete van € 113 of meer is opgelegd dan wel een verbeurdverklaring is uitgesproken; het openbaar ministerie kan hoger beroep instellen, indien het gelijke straffen heeft gevorderd.
 
-#### Artikel 11:2
+##### Artikel 11:2
 
 Ten aanzien van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten worden personen, niet zijnde natuurlijke personen, voor de toepassing van [artikel 2 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=2) geacht te wonen, waar zij gevestigd zijn.
 
-#### Artikel 11:3
+##### Artikel 11:3
 
 1. Met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten zijn, behalve de in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) bedoelde personen, belast de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, dan wel de ambtenaren die bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister wie het mede aangaat zijn aangewezen.
 
@@ -2196,55 +2223,55 @@ De overige processen-verbaal doet de inspecteur, met de in beslag genomen voorwe
 
 4. Het bepaalde in [artikel 148, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=148) vindt geen toepassing in zaken, waarin de inspecteur het proces-verbaal niet aan de officier van justitie heeft doen toekomen.
 
-#### Artikel 11:4
+##### Artikel 11:4
 
 De ambtenaren belast met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten, zijn te allen tijde bevoegd tot inbeslagneming van de ingevolge het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) voor inbeslagneming vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.
 
-#### Artikel 11:5
+##### Artikel 11:5
 
 1. In zaken waarin de inspecteur het proces-verbaal niet ingevolge het bepaalde in [artikel 11:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=11&artikel=11:3&z=2025-01-01&g=2025-01-01), aan de officier van justitie heeft doen toekomen, geldt ten aanzien van de inspecteur hetgeen in [artikel 116 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=116) ten aanzien van het openbaar ministerie is bepaald.
 
 2. In de zaken, bedoeld in het eerste lid, wordt bij de toepassing van de [artikelen 552a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a) en [552ab van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab), alvorens het gerecht ingevolge [artikel 552a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), onderscheidenlijk [artikel 552ab, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab), van dat artikel een beschikking neemt, ook de inspecteur in de gelegenheid gesteld te worden gehoord en is, in afwijking van het bepaalde in [artikel 552d van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552d), niet het openbaar ministerie doch de inspecteur bevoegd tot het instellen van beroep in cassatie. De griffier van het gerecht hetwelk in die zaken ingevolge [artikel 552a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), of [artikel 552ab, vierde lid, van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab) een beschikking neemt, deelt deze onverwijld mee aan de inspecteur.
 
-#### Artikel 11:6
+##### Artikel 11:6
 
 Bij het opsporen van een bij deze wet of de daarop berustende bepalingen strafbaar gesteld feit hebben de in [artikel 11:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=11&artikel=11:3&z=2025-01-01&g=2025-01-01), bedoelde ambtenaren toegang tot elke plaats, voorzover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zij zijn bevoegd zich door bepaalde door hen aangewezen personen te doen vergezellen.
 
-#### Artikel 11:7
+##### Artikel 11:7
 
 Ten dienste van de vervolging en berechting van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten kan Onze Minister van Financiën, in overeenstemming met Onze Minister van Justitie en Veiligheid, ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, aanwijzen, die het contact onderhouden met het openbaar ministerie.
 
-#### Artikel 11:8
+##### Artikel 11:8
 
 De griffiers verstrekken aan de inspecteur desgevraagd kosteloos afschrift of uittreksel van arresten of vonnissen, met toepassing van deze wet gewezen.
 
-#### Artikel 11:9
+##### Artikel 11:9
 
 Met betrekking tot gerechtelijke mededelingen inzake bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten hebben de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, de bevoegdheden bij het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) aan ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, toegekend.
 
 ### Hoofdstuk 12. Slotbepalingen
 
-#### Artikel 12:1
+##### Artikel 12:1
 
 Bij of krachtens algemene maatregel van bestuur kunnen ter verzekering van een juiste toepassing van het Douanewetboek van de Unie, de Gedelegeerde Verordening Douanewetboek van de Unie of de Uitvoeringsverordening Douanewetboek van de Unie nadere regels worden gesteld ter aanvulling van de in deze wet geregelde onderwerpen.
 
-#### Artikel 12:2
+##### Artikel 12:2
 
 Bij het uitoefenen van het recht op beroep moet in bezwaar-, verzoek-, beroep-, verweer- en verzetschriften hij die niet in Nederland een vaste woonplaats of plaats van vestiging heeft, domicilie kiezen in Nederland.
 
-#### Artikel 12:3
+##### Artikel 12:3
 
 Het ingevolge het Douanewetboek van de Unie, de Gedelegeerde Verordening Douanewetboek van de Unie of de Uitvoeringsverordening Douanewetboek van de Unie of de wet bekendmaken, toezenden daaronder begrepen, van een stuk aan een persoon, die niet binnen Nederland een vaste woonplaats of plaats van vestiging heeft, kan ook geschieden aan de binnen Nederland gelegen vaste inrichting voor de uitoefening van zijn bedrijf of beroep, dan wel aan de woning of het kantoor van de binnen Nederland wonende of gevestigde vertegenwoordiger.
 
-#### Artikel 12:4
+##### Artikel 12:4
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 12:5
+##### Artikel 12:5
 
 Voor de bekendmaking van deze wet stelt Onze Minister van Financiën de nummering van de artikelen, paragrafen, hoofdstukken en afdelingen van deze wet opnieuw vast en brengt hij de in deze wet voorkomende aanhalingen van artikelen, paragrafen, hoofdstukken en afdelingen daarmee in overeenstemming.
 
-#### Artikel 12:6
+##### Artikel 12:6
 
 Deze wet wordt aangehaald als: Algemene douanewet.
 
@@ -2258,7 +2285,7 @@ Voorschriften gebaseerd op de artikelen 31, 33, 42, 43, 75, 91, 100, 107, 108, 1
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1:39
+##### Artikel 1:39
 
 1. De inspecteur verstrekt op verzoek kosteloos mondeling, schriftelijk of op andere wijze – zulks ter keuze van de inspecteur – de gegevens, waaronder persoonsgegevens, en inlichtingen aan de politie of de Koninklijke Marechaussee, ten behoeve van de strafrechtelijke handhaving van de rechtsorde, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=3) en [4 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4), die noodzakelijk zijn voor het verkrijgen van inzicht in misdrijven waarop naar de wettelijke omschrijving een gevangenisstraf van vier jaar of meer is gesteld.
 
@@ -2284,7 +2311,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 6. De voordracht voor een krachtens het vijfde lid, onderdelen a, d of e, vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 1:40
+##### Artikel 1:40
 
 1. De inspecteur verstrekt op verzoek kosteloos mondeling, schriftelijk of op andere wijze – zulks ter keuze van de inspecteur – de gegevens, waaronder persoonsgegevens, en inlichtingen aan de Financiële inlichtingen eenheid, bedoeld in [artikel 12, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=12), en de Belastingdienst/Fiscale inlichtingen- en opsporingsdienst, die noodzakelijk zijn voor de uitvoering van hun taken gericht op het verkrijgen van inzicht in goederenstromen met het oog op het voorkomen van witwassen door middel van internationale handelstransacties.
 
@@ -2330,7 +2357,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Afdeling 10.2. Algemene bepalingen van strafrecht
 
-#### Artikel 11:1
+##### Artikel 11:1
 
 1. De rechtbanken vonnissen in eerste aanleg over bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten.
 
@@ -2342,11 +2369,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. Tegen andere vonnissen kan de verdachte hoger beroep instellen, indien hechtenis als hoofdstraf is opgelegd, een geldboete van € 113 of meer is opgelegd dan wel een verbeurdverklaring is uitgesproken; het openbaar ministerie kan hoger beroep instellen, indien het gelijke straffen heeft gevorderd.
 
-#### Artikel 11:2
+##### Artikel 11:2
 
 Ten aanzien van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten worden personen, niet zijnde natuurlijke personen, voor de toepassing van [artikel 2 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=2) geacht te wonen, waar zij gevestigd zijn.
 
-#### Artikel 11:3
+##### Artikel 11:3
 
 1. Met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten zijn, behalve de in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) bedoelde personen, belast de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, dan wel de ambtenaren die bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister wie het mede aangaat zijn aangewezen.
 
@@ -2364,55 +2391,55 @@ De overige processen-verbaal doet de inspecteur, met de in beslag genomen voorwe
 
 4. Het bepaalde in [artikel 148, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=148) vindt geen toepassing in zaken, waarin de inspecteur het proces-verbaal niet aan de officier van justitie heeft doen toekomen.
 
-#### Artikel 11:4
+##### Artikel 11:4
 
 De ambtenaren belast met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten, zijn te allen tijde bevoegd tot inbeslagneming van de ingevolge het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) voor inbeslagneming vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.
 
-#### Artikel 11:5
+##### Artikel 11:5
 
 1. In zaken waarin de inspecteur het proces-verbaal niet ingevolge het bepaalde in [artikel 11:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=11&artikel=11:3&z=2025-07-01&g=2025-07-01), aan de officier van justitie heeft doen toekomen, geldt ten aanzien van de inspecteur hetgeen in [artikel 116 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=116) ten aanzien van het openbaar ministerie is bepaald.
 
 2. In de zaken, bedoeld in het eerste lid, wordt bij de toepassing van de [artikelen 552a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a) en [552ab van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab), alvorens het gerecht ingevolge [artikel 552a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), onderscheidenlijk [artikel 552ab, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab), van dat artikel een beschikking neemt, ook de inspecteur in de gelegenheid gesteld te worden gehoord en is, in afwijking van het bepaalde in [artikel 552d van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552d), niet het openbaar ministerie doch de inspecteur bevoegd tot het instellen van beroep in cassatie. De griffier van het gerecht hetwelk in die zaken ingevolge [artikel 552a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), of [artikel 552ab, vierde lid, van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab) een beschikking neemt, deelt deze onverwijld mee aan de inspecteur.
 
-#### Artikel 11:6
+##### Artikel 11:6
 
 Bij het opsporen van een bij deze wet of de daarop berustende bepalingen strafbaar gesteld feit hebben de in [artikel 11:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=11&artikel=11:3&z=2025-07-01&g=2025-07-01), bedoelde ambtenaren toegang tot elke plaats, voorzover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zij zijn bevoegd zich door bepaalde door hen aangewezen personen te doen vergezellen.
 
-#### Artikel 11:7
+##### Artikel 11:7
 
 Ten dienste van de vervolging en berechting van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten kan Onze Minister van Financiën, in overeenstemming met Onze Minister van Justitie en Veiligheid, ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, aanwijzen, die het contact onderhouden met het openbaar ministerie.
 
-#### Artikel 11:8
+##### Artikel 11:8
 
 De griffiers verstrekken aan de inspecteur desgevraagd kosteloos afschrift of uittreksel van arresten of vonnissen, met toepassing van deze wet gewezen.
 
-#### Artikel 11:9
+##### Artikel 11:9
 
 Met betrekking tot gerechtelijke mededelingen inzake bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten hebben de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, de bevoegdheden bij het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) aan ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, toegekend.
 
 ### Hoofdstuk 12. Slotbepalingen
 
-#### Artikel 12:1
+##### Artikel 12:1
 
 Bij of krachtens algemene maatregel van bestuur kunnen ter verzekering van een juiste toepassing van het Douanewetboek van de Unie, de Gedelegeerde Verordening Douanewetboek van de Unie of de Uitvoeringsverordening Douanewetboek van de Unie nadere regels worden gesteld ter aanvulling van de in deze wet geregelde onderwerpen.
 
-#### Artikel 12:2
+##### Artikel 12:2
 
 Bij het uitoefenen van het recht op beroep moet in bezwaar-, verzoek-, beroep-, verweer- en verzetschriften hij die niet in Nederland een vaste woonplaats of plaats van vestiging heeft, domicilie kiezen in Nederland.
 
-#### Artikel 12:3
+##### Artikel 12:3
 
 Het ingevolge het Douanewetboek van de Unie, de Gedelegeerde Verordening Douanewetboek van de Unie of de Uitvoeringsverordening Douanewetboek van de Unie of de wet bekendmaken, toezenden daaronder begrepen, van een stuk aan een persoon, die niet binnen Nederland een vaste woonplaats of plaats van vestiging heeft, kan ook geschieden aan de binnen Nederland gelegen vaste inrichting voor de uitoefening van zijn bedrijf of beroep, dan wel aan de woning of het kantoor van de binnen Nederland wonende of gevestigde vertegenwoordiger.
 
-#### Artikel 12:4
+##### Artikel 12:4
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 12:5
+##### Artikel 12:5
 
 Voor de bekendmaking van deze wet stelt Onze Minister van Financiën de nummering van de artikelen, paragrafen, hoofdstukken en afdelingen van deze wet opnieuw vast en brengt hij de in deze wet voorkomende aanhalingen van artikelen, paragrafen, hoofdstukken en afdelingen daarmee in overeenstemming.
 
-#### Artikel 12:6
+##### Artikel 12:6
 
 Deze wet wordt aangehaald als: Algemene douanewet.
 
@@ -2424,7 +2451,7 @@ Voorschriften gebaseerd op de artikelen 31, 33, 42, 43, 75, 91, 100, 107, 108, 1
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1:37a
+##### Artikel 1:37a
 
 1. Onze Ministers, openbare lichamen en rechtspersonen die bij of krachtens een bijzondere wet rechtspersoonlijkheid hebben verkregen, de onder hen ressorterende instellingen en diensten, alsmede personen die hoofdzakelijk uitvoering geven aan het beleid van het Rijk, verschaffen kosteloos, mondeling, schriftelijk of op andere wijze – zulks ter keuze van de inspecteur –, de gegevens en inlichtingen, die hun door de inspecteur worden gevraagd voor de uitvoering van het bepaalde bij of krachtens de in [artikel 1:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=1&afdeling=1.1&artikel=1:1&z=2026-01-01&g=2026-01-01) bedoelde regelingen dan wel voor de uitvoering van het bepaalde bij of krachtens deze wet.
 
@@ -2454,7 +2481,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Afdeling 10.2. Algemene bepalingen van strafrecht
 
-#### Artikel 11:1
+##### Artikel 11:1
 
 1. De rechtbanken vonnissen in eerste aanleg over bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten.
 
@@ -2466,11 +2493,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. Tegen andere vonnissen kan de verdachte hoger beroep instellen, indien hechtenis als hoofdstraf is opgelegd, een geldboete van € 113 of meer is opgelegd dan wel een verbeurdverklaring is uitgesproken; het openbaar ministerie kan hoger beroep instellen, indien het gelijke straffen heeft gevorderd.
 
-#### Artikel 11:2
+##### Artikel 11:2
 
 Ten aanzien van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten worden personen, niet zijnde natuurlijke personen, voor de toepassing van [artikel 2 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=2) geacht te wonen, waar zij gevestigd zijn.
 
-#### Artikel 11:3
+##### Artikel 11:3
 
 1. Met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten zijn, behalve de in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) bedoelde personen, belast de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, dan wel de ambtenaren die bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister wie het mede aangaat zijn aangewezen.
 
@@ -2488,55 +2515,55 @@ De overige processen-verbaal doet de inspecteur, met de in beslag genomen voorwe
 
 4. Het bepaalde in [artikel 148, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=148) vindt geen toepassing in zaken, waarin de inspecteur het proces-verbaal niet aan de officier van justitie heeft doen toekomen.
 
-#### Artikel 11:4
+##### Artikel 11:4
 
 De ambtenaren belast met het opsporen van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten, zijn te allen tijde bevoegd tot inbeslagneming van de ingevolge het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) voor inbeslagneming vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.
 
-#### Artikel 11:5
+##### Artikel 11:5
 
 1. In zaken waarin de inspecteur het proces-verbaal niet ingevolge het bepaalde in [artikel 11:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=11&artikel=11:3&z=2026-01-01&g=2026-01-01), aan de officier van justitie heeft doen toekomen, geldt ten aanzien van de inspecteur hetgeen in [artikel 116 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=116) ten aanzien van het openbaar ministerie is bepaald.
 
 2. In de zaken, bedoeld in het eerste lid, wordt bij de toepassing van de [artikelen 552a](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a) en [552ab van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab), alvorens het gerecht ingevolge [artikel 552a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), onderscheidenlijk [artikel 552ab, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab), van dat artikel een beschikking neemt, ook de inspecteur in de gelegenheid gesteld te worden gehoord en is, in afwijking van het bepaalde in [artikel 552d van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552d), niet het openbaar ministerie doch de inspecteur bevoegd tot het instellen van beroep in cassatie. De griffier van het gerecht hetwelk in die zaken ingevolge [artikel 552a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552a), of [artikel 552ab, vierde lid, van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552ab) een beschikking neemt, deelt deze onverwijld mee aan de inspecteur.
 
-#### Artikel 11:6
+##### Artikel 11:6
 
 Bij het opsporen van een bij deze wet of de daarop berustende bepalingen strafbaar gesteld feit hebben de in [artikel 11:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&hoofdstuk=11&artikel=11:3&z=2026-01-01&g=2026-01-01), bedoelde ambtenaren toegang tot elke plaats, voorzover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zij zijn bevoegd zich door bepaalde door hen aangewezen personen te doen vergezellen.
 
-#### Artikel 11:7
+##### Artikel 11:7
 
 Ten dienste van de vervolging en berechting van bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten kan Onze Minister van Financiën, in overeenstemming met Onze Minister van Justitie en Veiligheid, ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, aanwijzen, die het contact onderhouden met het openbaar ministerie.
 
-#### Artikel 11:8
+##### Artikel 11:8
 
 De griffiers verstrekken aan de inspecteur desgevraagd kosteloos afschrift of uittreksel van arresten of vonnissen, met toepassing van deze wet gewezen.
 
-#### Artikel 11:9
+##### Artikel 11:9
 
 Met betrekking tot gerechtelijke mededelingen inzake bij deze wet of de daarop berustende bepalingen strafbaar gestelde feiten hebben de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, de bevoegdheden bij het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) aan ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, toegekend.
 
 ### Hoofdstuk 12. Slotbepalingen
 
-#### Artikel 12:1
+##### Artikel 12:1
 
 Bij of krachtens algemene maatregel van bestuur kunnen ter verzekering van een juiste toepassing van het Douanewetboek van de Unie, de Gedelegeerde Verordening Douanewetboek van de Unie of de Uitvoeringsverordening Douanewetboek van de Unie nadere regels worden gesteld ter aanvulling van de in deze wet geregelde onderwerpen.
 
-#### Artikel 12:2
+##### Artikel 12:2
 
 Bij het uitoefenen van het recht op beroep moet in bezwaar-, verzoek-, beroep-, verweer- en verzetschriften hij die niet in Nederland een vaste woonplaats of plaats van vestiging heeft, domicilie kiezen in Nederland.
 
-#### Artikel 12:3
+##### Artikel 12:3
 
 Het ingevolge het Douanewetboek van de Unie, de Gedelegeerde Verordening Douanewetboek van de Unie of de Uitvoeringsverordening Douanewetboek van de Unie of de wet bekendmaken, toezenden daaronder begrepen, van een stuk aan een persoon, die niet binnen Nederland een vaste woonplaats of plaats van vestiging heeft, kan ook geschieden aan de binnen Nederland gelegen vaste inrichting voor de uitoefening van zijn bedrijf of beroep, dan wel aan de woning of het kantoor van de binnen Nederland wonende of gevestigde vertegenwoordiger.
 
-#### Artikel 12:4
+##### Artikel 12:4
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 12:5
+##### Artikel 12:5
 
 Voor de bekendmaking van deze wet stelt Onze Minister van Financiën de nummering van de artikelen, paragrafen, hoofdstukken en afdelingen van deze wet opnieuw vast en brengt hij de in deze wet voorkomende aanhalingen van artikelen, paragrafen, hoofdstukken en afdelingen daarmee in overeenstemming.
 
-#### Artikel 12:6
+##### Artikel 12:6
 
 Deze wet wordt aangehaald als: Algemene douanewet.
 

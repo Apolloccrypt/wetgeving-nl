@@ -1,13 +1,37 @@
 ---
 title: "Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving"
 identifier: "BWBR0011673"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2025-09-04
-laatste_update: 2025-09-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011673"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-09-04"
+last_updated: "2025-09-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011673"
+soort: "ministeriele-regeling"
+stam_id: "5269643"
+version_id: "9484382"
+internal_id: "C12727521"
+label_id: "5246204"
+dtd_version: "2.0"
+original_entry_into_force: "2000-10-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011673/2025-09-04/0"
+intitule_bron: "Stcrt.2000-203"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-09-28"
+intitule_published: "2000-10-19"
+intitule_in_force: "2000-10-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-203"
+original_signed_date: "2000-09-28"
+original_published_date: "2000-10-19"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-10-21"
+jci_1_3: "jci1.3:c:BWBR0011673&z=2025-09-04&g=2025-09-04"
+jci_1_0: "1.0:c:BWBR0011673&g=2025-09-04"
+citeertitel_status: "officieel"
+signed_date: "2000-09-28"
+entry_into_force: "2000-10-21"
 ---
-
 # Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving
 
 Handelende in overeenstemming met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
@@ -20,7 +44,7 @@ Besluiten:
 
 #### Aanwijzing toezichthouders
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 1. De ambtenaren van de Nederlandse Arbeidsinspectie van het Ministerie van Sociale Zaken en Werkgelegenheid worden aangewezen als ambtenaren, belast met het toezicht op de naleving van het bepaalde bij of krachtens:
 
@@ -48,7 +72,7 @@ Besluiten:
 
 #### Aanwijzing ambtenaren met specifieke uitvoeringstaken
 
-#### Artikel 1.2
+##### Artikel 1.2
 
 1. De ambtenaren, bedoeld in [artikel 1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=1&artikel=1.1&z=2025-09-04&g=2025-09-04), worden aangewezen als de ambtenaar, bedoeld in:
 
@@ -110,7 +134,7 @@ Besluiten:
 
 #### Aanwijzing boeteoplegger
 
-#### Artikel 1.3
+##### Artikel 1.3
 
 Vervallen
 
@@ -118,7 +142,7 @@ Vervallen
 
 #### Aanwijzing toezichthouders
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 De ambtenaren van het Directoraat-Generaal Rijkswaterstaat van het Ministerie van Infrastructuur en Milieu, belast met toezicht, worden mede aangewezen als ambtenaren als bedoeld in [artikel 8:1, tweede lid, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=8:1), met betrekking tot arbeid als bedoeld in [hoofdstuk 5 van het Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=5).
 
@@ -126,13 +150,13 @@ De ambtenaren van het Directoraat-Generaal Rijkswaterstaat van het Ministerie va
 
 #### Aanwijzing toezichthouders
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 De ambtenaren van de Inspectie Leefomgeving en Transport, aangewezen in [artikel 1 van het Besluit aanwijzing toezichthouders luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0013478&artikel=1), zijn mede belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346), met betrekking tot arbeid verricht aan boord van een luchtvaartuig tijdens de vlucht en aan boord van een stilstaand luchtvaartuig, voor zover het betreft de arbeid van boordpersoneel in verband met de vlucht.
 
 #### Aanwijzing ambtenaren met specifieke uitvoeringstaken
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 1. De ambtenaren van de Inspectie Leefomgeving en Transport belast met toezicht zijn mede belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346), met betrekking tot arbeid verricht in een voertuig op een openbare weg bestemd voor het vervoer van goederen of personen en voor welk vervoer op grond van de [Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800) onderscheidenlijk de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) een vergunning is vereist.
 
@@ -146,7 +170,7 @@ De ambtenaren van de Inspectie Leefomgeving en Transport, aangewezen in [artikel
 
 #### Aanwijzing ambtenaren met specifieke uitvoeringstaken
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 1. De ambtenaren van politie, bedoeld in [artikel 2 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), zijn mede belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149).
 
@@ -158,13 +182,13 @@ De ambtenaren van de Inspectie Leefomgeving en Transport, aangewezen in [artikel
 
 #### Aanwijzing toezichthouders
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 Vervallen
 
 #### Aanwijzing toezichthouders
 
-#### Artikel 5.2
+##### Artikel 5.2
 
 Vervallen
 
@@ -172,13 +196,13 @@ Vervallen
 
 #### Aanwijzing toezichthouders
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 Vervallen
 
 #### Aanwijzing ambtenaren met specifieke uitvoeringstaken
 
-#### Artikel 6.2
+##### Artikel 6.2
 
 Vervallen
 
@@ -186,7 +210,7 @@ Vervallen
 
 #### Aanwijzing toezichthouders
 
-#### Artikel 7.1
+##### Artikel 7.1
 
 1. De inspectieambtenaren van het Staatstoezicht op de mijnen zijn mede belast met het toezicht op de naleving van de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969) en de daarop berustende bepalingen bij of in verband met:
 
@@ -208,7 +232,7 @@ Vervallen
 
 #### Aanwijzing toezichthouders
 
-#### Artikel 7.2
+##### Artikel 7.2
 
 1. De ambtenaren, bedoeld in [artikel 7.1 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=7&artikel=7.1&z=2025-09-04&g=2025-09-04), worden met betrekking tot de in dat lid bedoelde arbeid, aangewezen als de ambtenaar, bedoeld in de [artikelen 4:1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:1), en [8:2, eerste en tweede lid, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=8:2).
 
@@ -232,7 +256,7 @@ Vervallen
 
 #### Aanwijzing ambtenaren met specifieke uitvoeringstaken
 
-#### Artikel 7a.1
+##### Artikel 7a.1
 
 Vervallen
 
@@ -240,7 +264,7 @@ Vervallen
 
 #### Aanwijzing ambtenaren met specifieke uitvoeringstaken
 
-#### Artikel 8.1
+##### Artikel 8.1
 
 De ambtenaren van de Nederlandse Voedsel- en Warenautoriteit, bedoeld in [artikel 1 van de Aanwijzingsregeling toezichthoudende ambtenaren Voedsel en Waren Autoriteit](https://wetten.overheid.nl/jci1.3:c:BWBR0013864&artikel=1) belast met het toezicht op de naleving van de bij of krachtens de [Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458) of de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969) gestelde voorschriften, zijn mede belast met het toezicht op de naleving van het bepaalde bij of krachtens:
 
@@ -250,7 +274,7 @@ De ambtenaren van de Nederlandse Voedsel- en Warenautoriteit, bedoeld in [artike
 
 - c. de [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671) met betrekking tot het wegvervoer, voor zover het betreft het vervoer van vee en mest.
 
-#### Artikel 8.2
+##### Artikel 8.2
 
 De ambtenaren, bedoeld in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=8&artikel=8.1&z=2025-09-04&g=2025-09-04), worden met betrekking tot de in dat artikel bedoelde arbeid aangewezen als de ambtenaar, bedoeld in:
 
@@ -260,35 +284,35 @@ De ambtenaren, bedoeld in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 #### Aanwijzing ambtenaren met specifieke uitvoeringstaken
 
-#### Artikel 8.3
+##### Artikel 8.3
 
 Vervallen
 
-#### Artikel 8.4
+##### Artikel 8.4
 
 Vervallen
 
-#### Artikel 8.5
+##### Artikel 8.5
 
 Vervallen
 
-#### Artikel 8.6
+##### Artikel 8.6
 
 Vervallen
 
-#### Artikel 8.7
+##### Artikel 8.7
 
 Vervallen
 
-#### Artikel 8.8
+##### Artikel 8.8
 
 Vervallen
 
-#### Artikel 8.9
+##### Artikel 8.9
 
 Vervallen
 
-#### Artikel 8.10
+##### Artikel 8.10
 
 Vervallen
 
@@ -296,13 +320,13 @@ Vervallen
 
 #### Inwerkingtreding
 
-#### Artikel 9.1
+##### Artikel 9.1
 
 Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 #### Citeertitel
 
-#### Artikel 9.2
+##### Artikel 9.2
 
 Deze regeling wordt aangehaald als: Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving.
 
@@ -310,7 +334,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### Aanwijzing ambtenaren met specifieke uitvoeringstaken
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 De ambtenaren, bedoeld in [artikel 4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=4&artikel=4.1&z=2025-09-04&g=2025-09-04), worden aangewezen als ambtenaar, bedoeld in:
 
@@ -346,13 +370,13 @@ De ambtenaren, bedoeld in [artikel 4.1, tweede lid](https://wetten.overheid.nl/j
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3.3
+##### Artikel 3.3
 
 De ambtenaren van de Inspectie Leefomgeving en Transport, bedoeld in [artikel 10, vierde lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=10), zijn mede belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346), met betrekking tot arbeid verricht in, respectievelijk op een zeeschip, met uitzondering van aanbouw, verbouwing, herstelling of sloping dan wel onderhouds- of reinigingswerkzaamheden en hiermee verband houdende andere werkzaamheden aan deze schepen, alsmede met uitzondering van laden en lossen, tenzij deze arbeid wordt verricht door een werknemer die behoort tot de bemanning van een zeeschip.
 
 #### Aanwijzing ambtenaren met specifieke uitvoeringstaken
 
-#### Artikel 3.4
+##### Artikel 3.4
 
 1. De ambtenaren, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=3&artikel=3.1&z=2025-09-04&g=2025-09-04), worden voor de in dat artikel bedoelde arbeid aangewezen als de ambtenaar, bedoeld in:
 
@@ -366,7 +390,7 @@ De ambtenaren van de Inspectie Leefomgeving en Transport, bedoeld in [artikel 10
 
 - b. het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498): [artikel 4.47c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.47c).
 
-#### Artikel 3.5
+##### Artikel 3.5
 
 1. De ambtenaren, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=3&artikel=3.2&z=2025-09-04&g=2025-09-04), worden voor de in dat artikel bedoelde arbeid aangewezen als de ambtenaar, bedoeld in:
 
@@ -380,7 +404,7 @@ De ambtenaren van de Inspectie Leefomgeving en Transport, bedoeld in [artikel 10
 
 - b. het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498): [artikel 4.47c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.47c).
 
-#### Artikel 3.6
+##### Artikel 3.6
 
 1. De ambtenaren, bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=3&artikel=3.3&z=2025-09-04&g=2025-09-04), worden voor de in dat artikel bedoelde arbeid aangewezen als de ambtenaar, bedoeld in:
 
@@ -440,11 +464,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3.3a
+##### Artikel 3.3a
 
 De ambtenaren van de Inspectie Leefomgeving en Transport, bedoeld in [artikel 40, eerste lid, onderdeel b, van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=40), zijn mede belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346), met betrekking tot arbeid verricht in, respectievelijk op een binnenvaartschip, met uitzondering van aanbouw, verbouwing, herstelling of sloping dan wel onderhouds- of reinigingswerkzaamheden en hiermee verband houdende andere werkzaamheden aan deze schepen, alsmede met uitzondering van laden en lossen, tenzij deze arbeid wordt verricht door een werknemer die behoort tot de bemanning van een binnenvaartschip.
 
-#### Artikel 3.6a
+##### Artikel 3.6a
 
 1. De ambtenaren, bedoeld in [artikel 3.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=3&artikel=3.3a&z=2025-09-04&g=2025-09-04), worden voor de in dat artikel bedoelde arbeid aangewezen als de ambtenaar, bedoeld in:
 
@@ -474,13 +498,13 @@ De ambtenaren van de Inspectie Leefomgeving en Transport, bedoeld in [artikel 40
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3.7
+##### Artikel 3.7
 
 De ambtenaren van de Inspectie Leefomgeving en Transport belast met toezicht worden mede aangewezen als ambtenaren aan wie het toezicht op de naleving, bedoeld in [artikel 8:1, tweede lid, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=8:1), met betrekking tot arbeid als bedoeld in [hoofdstuk 2 (wegvervoer)](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2), [hoofdstuk 4 (luchtvaart)](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4), [hoofdstuk 5 (binnenvaart)](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=5), [hoofdstuk 6 (zeevaart)](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6) en [hoofdstuk 6A (zeevisserij) van het Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=6A) wordt opgedragen.
 
 #### § 4. Politie
 
-#### Artikel 4.3
+##### Artikel 4.3
 
 De ambtenaren van politie, bedoeld in [artikel 2, onderdelen a, b en c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), worden mede aangewezen als ambtenaren aan wie het toezicht op de naleving, bedoeld in [artikel 8:1, tweede lid, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=8:1), met betrekking tot arbeid als bedoeld in [hoofdstuk 2 (wegvervoer)](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=2), [hoofdstuk 4 (luchtvaart)](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=4) en [hoofdstuk 5 (binnenvaart) van het Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&hoofdstuk=5) wordt opgedragen.
 
@@ -508,7 +532,7 @@ De ambtenaren van politie, bedoeld in [artikel 2, onderdelen a, b en c, van de P
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3.3b
+##### Artikel 3.3b
 
 De ambtenaren van de Inspectie Leefomgeving en Transport belast met toezicht, zijn, met betrekking tot arbeid verricht op of aan een spoorweg als bedoeld in [artikel 1, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=1), met uitzondering van de spoorwegen, genoemd in [artikel 2 van het Besluit bijzondere spoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&artikel=2), en met betrekking tot arbeid verricht op of aan lokale spoorwegen als bedoeld in de [Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363), mede belast met het toezicht op de naleving van:
 
@@ -518,7 +542,7 @@ De ambtenaren van de Inspectie Leefomgeving en Transport belast met toezicht, zi
 
 - c. de [Arbeidstijdenwet: de artikelen 4:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:3), [5:3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:3), [5:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:4), [5:5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:5), [5:7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:7), [5:8, eerste tot en met vijfde lid, zevende en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:8), [5:9, eerste tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:9), [5:15, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:15), en [5:16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:16).
 
-#### Artikel 3.6b
+##### Artikel 3.6b
 
 De ambtenaren, bedoeld in [artikel 3.3b](https://wetten.overheid.nl/jci1.3:c:BWBR0011673&paragraaf=3&artikel=3.3b&z=2025-09-04&g=2025-09-04), worden voor de in dat artikel geregelde aanwijzing aangewezen als ambtenaar, bedoeld in de [artikelen 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=27), [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=28), en [28b van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=28b).
 

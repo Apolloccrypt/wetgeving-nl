@@ -1,13 +1,39 @@
 ---
-title: "Besluit beheer politiekorps BES"
+title: "Besluit van 4 oktober 2010, houdende regels met betrekking tot de inrichting en organisatie van het politiekorps van Bonaire, Sint Eustatius en Saba (Besluit beheer politiekorps BES)"
 identifier: "BWBR0028780"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028780"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028780"
+soort: "AMvB-BES"
+stam_id: "11023453"
+version_id: "18011552"
+internal_id: "C25035051"
+label_id: "10998014"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028780/2010-10-10/0"
+intitule_bron: "Stb.2010-374"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-10-04"
+intitule_published: "2010-10-07"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-374"
+original_signed_date: "2010-10-04"
+original_published_date: "2010-10-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-374"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028780&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028780&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Besluit beheer politiekorps BES"
+signed_date: "2010-10-04"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit van 4 oktober 2010, houdende regels met betrekking tot de inrichting en organisatie van het politiekorps van Bonaire, Sint Eustatius en Saba (Besluit beheer politiekorps BES)
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Justitie van 13 juli 2010, nr. 2010-0000460988, CZW/WSG;
@@ -24,7 +50,7 @@ Treedt in werking op het tijdstip waarop de Veiligheidswet BES in werking treedt
 
 ### Hoofdstuk 1. Algemene bepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Organisatie
 
-#### Artikel 2
+##### Artikel 2
 
 1. De korpsbeheerder politie draagt zorg voor het inrichten van één of meerdere eenheden in elk van de openbare lichamen die uitsluitend of in hoofdzaak zijn belast met de basispolitiezorg.
 
@@ -44,7 +70,7 @@ In dit besluit wordt verstaan onder:
 
 3. Plaatsing van andere ambtenaren van politie bij een eenheid die uitsluitend of in hoofdzaak is belast met de basispolitiezorg geschiedt niet dan na overleg met de gezaghebber. Indien de taakvervulling van een ambtenaar van politie dit naar het oordeel van de gezaghebber noodzakelijk maakt, draagt de korpsbeheerder politie zorg voor vervanging.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De korpsbeheerder politie draagt ten behoeve van de opsporing van strafbare feiten zorg voor het inrichten van de recherchefunctie bij het politiekorps.
 
@@ -66,7 +92,7 @@ In dit besluit wordt verstaan onder:
 
 5. Met inachtneming van de regels, bedoeld in het vierde lid, kunnen bij regeling van Onze Minister regels worden gesteld over het beheer van de voorzieningen, bedoeld in het tweede en derde lid. Indien deze regels voorschriften betreft die aan de inrichting van de voorzieningen worden gesteld, worden zij gegeven bij regeling van Onze Minister in overeenstemming met Onze Minister van Justitie.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De korpsbeheerder politie draagt er zorg voor dat het politiekorps beschikt, onderscheidenlijk kan beschikken over ambtenaren die kunnen worden belast met het, ten behoeve van de recherchefunctie, verwerken van gegevens die noodzakelijk zijn voor de opsporing van misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10).
 
@@ -78,11 +104,11 @@ In dit besluit wordt verstaan onder:
 
 5. Met inachtneming van de regels, bedoeld in het vierde lid, kunnen bij regeling van Onze Minister regels worden gesteld over het beheer van het politiekorps, voor zover het betreft de ambtenaren, bedoeld in het eerste, tweede en derde lid. Indien deze regels voorschriften bevatten die aan de organisatie van het politiekorps worden gesteld, worden zij gegeven door Onze Minister in overeenstemming met Onze Minister van Justitie.
 
-#### Artikel 5
+##### Artikel 5
 
 De korpsbeheerder politie draagt er zorg voor dat het politiekorps ten behoeve van de recherchefunctie beschikt over een gegevensbestand voor de verwerking van politiegegevens, bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10).
 
-#### Artikel 6
+##### Artikel 6
 
 1. De korpsbeheerder politie draagt er zorg voor dat het politiekorps beschikt, onderscheidenlijk kan beschikken, over ambtenaren die, indien redelijkerwijs mag worden aangenomen dat levensbedreigende omstandigheden tegen de politie of anderen dreigen, de volgende werkzaamheden uitvoeren:
 
@@ -100,11 +126,11 @@ De korpsbeheerder politie draagt er zorg voor dat het politiekorps ten behoeve v
 
 ### Hoofdstuk 3. Bekwaamheid en uitrusting
 
-#### Artikel 7
+##### Artikel 7
 
 De korpsbeheerder politie stelt de ambtenaar van politie in de gelegenheid de noodzakelijke training en opleiding te volgen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Onze Minister geeft regels met betrekking tot het politielegitimatiebewijs.
 
@@ -112,7 +138,7 @@ De korpsbeheerder politie stelt de ambtenaar van politie in de gelegenheid de no
 
 ### Hoofdstuk 4. Ingeslotenen
 
-#### Artikel 9
+##### Artikel 9
 
 1. De korpsbeheerder politie treft voorzieningen opdat de ingeslotene in ieder geval beschikt over:
 
@@ -138,7 +164,7 @@ De korpsbeheerder politie stelt de ambtenaar van politie in de gelegenheid de no
 
 7. In geval van overlijden of poging tot zelfdoding van een ingeslotene draagt de korpsbeheerder politie er zorg voor dat het openbaar ministerie hiervan onverwijld in kennis wordt gesteld en dat aan Onze Minister en Onze Minister van Justitie hiervan een schriftelijk rapport wordt gezonden.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De korpsbeheerder politie wijst een ambtenaar aan die wordt belast met de leiding van het politiecellencomplex en het toezicht op de ingeslotenen.
 
@@ -146,7 +172,7 @@ De korpsbeheerder politie stelt de ambtenaar van politie in de gelegenheid de no
 
 3. Onze Minister kan regels geven over de eisen van bekwaamheid waaraan het personeel, bedoeld in het tweede lid, moet voldoen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De commissie, bedoeld in [artikel 16, tweede lid, onderdeel a, van de Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=16) heeft mede tot taak:
 
@@ -160,7 +186,7 @@ De korpsbeheerder politie stelt de ambtenaar van politie in de gelegenheid de no
 
 ### Hoofdstuk 5. Informatie over het beheer
 
-#### Artikel 12
+##### Artikel 12
 
 1. De korpsbeheerder politie doet jaarlijks verslag over de omvang en samenstelling, alsmede over de werkdruk en de taakuitvoering van het politiekorps aan Onze Minister en Onze Minister van Justitie.
 
@@ -168,11 +194,11 @@ De korpsbeheerder politie stelt de ambtenaar van politie in de gelegenheid de no
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit treedt in werking met ingang van het tijdstip waarop de [Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586) in werking treedt.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit besluit wordt aangehaald als: Besluit beheer politiekorps BES.
 

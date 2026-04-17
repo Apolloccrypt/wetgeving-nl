@@ -1,18 +1,43 @@
 ---
 title: "Regeling monitoring beschikkingen persoonsgebonden budget en uitgaven individueel aangepaste Wlz-hulpmiddelen 2026"
 identifier: "BWBR0051362"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051362"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051362"
+soort: "zbo"
+stam_id: "17499933"
+version_id: "30862922"
+internal_id: "C44226271"
+label_id: "17402284"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051362/2026-01-01/0"
+intitule_bron: "Stcrt.2025-26203"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-22"
+intitule_published: "2025-08-04"
+intitule_in_force: "2025-08-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-26203"
+original_signed_date: "2025-07-22"
+original_published_date: "2025-08-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-26203"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051362&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051362&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-07-22"
+entry_into_force: "2026-01-01"
 ---
-
 # Regeling monitoring beschikkingen persoonsgebonden budget en uitgaven individueel aangepaste Wlz-hulpmiddelen 2026
 
 Gelet op de [artikelen 62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=62) en [68 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van informatieverstrekking voor de monitoring van zorguitgaven.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -26,7 +51,7 @@ In deze regeling wordt verstaan onder:
 
 Voor overige begrippen wordt verwezen naar de Beleidsregel definities Wlz.
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Deze regeling beoogt het stellen van regels over de informatie die Wlz-uitvoerder/zorgkantoren als genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051362&artikel=3&z=2026-01-01&g=2026-01-01) van deze regeling moeten aanleveren ten behoeve van het monitoren van de bedragen uit de verleningsbeschikkingen voor persoonsgebonden budget (pgb) en de uitgaven aan individueel aangepaste Wlz-hulpmiddelen.
 
@@ -36,11 +61,11 @@ Voor de individueel aangepaste Wlz-hulpmiddelen worden de gegevens gebruikt om t
 
 Deze regels hebben betrekking op de inhoud van de informatie zelf, de wijze waarop deze moet worden aangeleverd en de termijnen waarbinnen dat moet.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze regeling is van toepassing op zorgkantoren/Wlz-uitvoerders als bedoeld in [artikel 1.1.1 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=1.1.1).
 
-#### Artikel 4. Te verstrekken informatie pgb 2026
+##### Artikel 4. Te verstrekken informatie pgb 2026
 
 Zorgkantoren als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051362&artikel=1&z=2026-01-01&g=2026-01-01) zijn voor het budgetjaar 2026 verplicht om in dat jaar maandelijks een opgave op budgethouderniveau te verstrekken. Het gaat hierbij om de volgende gegevens:
 
@@ -82,7 +107,7 @@ Op basis hiervan monitort de NZa of het totaalbedrag aan pgb-verleningsbeschikki
 
 Deze gegevens worden verder gebruikt voor verdiepende analyses.
 
-#### Artikel 5. Indieningstermijnen en compleetheid van de te verstrekken informatie pgb 2025 en 2026
+##### Artikel 5. Indieningstermijnen en compleetheid van de te verstrekken informatie pgb 2025 en 2026
 
 1. De opgave zoals bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051362&artikel=4&z=2026-01-01&g=2026-01-01) moet maandelijks ingediend worden via Vektis bij de NZa, met als peildatum de laatste dag van de maand. De opgave moet worden ingediend voor de 15e van de opvolgende maand.
 
@@ -90,7 +115,7 @@ Deze gegevens worden verder gebruikt voor verdiepende analyses.
 
 3. Uiterlijk 15 maart 2027 levert het zorgkantoor via Vektis de NZa de eindstand van de verleningsbeschikkingen aan pgb’s over het jaar 2026 op.
 
-#### Artikel 6. Te verstrekken informatie individueel aangepaste Wlz-hulpmiddelen 2025 en 2026
+##### Artikel 6. Te verstrekken informatie individueel aangepaste Wlz-hulpmiddelen 2025 en 2026
 
 1. Zorgkantoren, als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051362&artikel=1&z=2026-01-01&g=2026-01-01), zijn voor het budgetjaar 2026 verplicht om in dat jaar maandelijks een opgave te verstrekken van de uitgaven individueel aangepaste Wlz-hulpmiddelen van de voorgaande kalendermaand, met een onderverdeling in mobiliteitshulpmiddelen en persoonsgebonden hulpmiddelen. Bij de mobiliteitshulpmiddelen wordt onderscheid gemaakt tussen rolstoelen, scootmobielen en aangepaste fietsen, wandelwagens/buggy’s of autostoeltjes.
 
@@ -108,13 +133,13 @@ Indien er sprake is van uitgaven voor individueel aangepaste digitale spraakhulp
 
 - •. het totaalbedrag uitgaven individueel aangepaste hulpmiddelen over het jaar 2025.
 
-#### Artikel 7. Wijze van verstrekking
+##### Artikel 7. Wijze van verstrekking
 
 De zorgkantoren leveren de pgb-gegevens 2026 maandelijks via Vektis aan de NZa.
 
 Het formulier ‘Informatieuitvraag Individueel aangepaste hulpmiddelen 2026’ is beschikbaar gesteld op de website van de NZa ([www.nza.nl](http://www.nza.nl)). Zorgkantoren/Wlz-uitvoerders dienen de in artikel 6 bedoelde informatie aan te leveren via het NZa-uitwisselportaal en dit te melden per e-mail aan info@nza.nl.
 
-#### Artikel 8. Gebrekkige aanlevering
+##### Artikel 8. Gebrekkige aanlevering
 
 1. Van een gebrekkige aanlevering is sprake indien de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051362&artikel=4&z=2026-01-01&g=2026-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0051362&artikel=5&z=2026-01-01&g=2026-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0051362&artikel=6&z=2026-01-01&g=2026-01-01) bedoelde informatie onjuist, onvolledig, niet, of niet tijdig wordt aangeleverd.
 
@@ -126,15 +151,15 @@ Bij een onjuiste of onvolledige aanlevering stelt de NZa de Wlz-uitvoerder/het z
 
 Indien de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051362&artikel=4&z=2026-01-01&g=2026-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0051362&artikel=5&z=2026-01-01&g=2026-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0051362&artikel=6&z=2026-01-01&g=2026-01-01) bedoelde informatie niet of niet tijdig is ontvangen, kan de NZa gebruik maken van de haar toekomende handhavende bevoegdheden zoals genoemd in [hoofdstuk 6 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6).
 
-#### Artikel 9. Overschrijding pgb-kader 2026
+##### Artikel 9. Overschrijding pgb-kader 2026
 
 Indien een Wlz-uitvoerder/zorgkantoor verwacht het regionale pgb-kader 2026 te overschrijden, moet dit tijdig kenbaar worden gemaakt bij de NZa. Hierbij moet niet worden gewacht tot de maandelijkse informatieverstrekking zoals beschreven in deze regeling.
 
-#### Artikel 10. Intrekken oude regeling
+##### Artikel 10. Intrekken oude regeling
 
 Gelijktijdig met de inwerkingtreding van deze regeling wordt de [Regeling monitoring beschikkingen persoonsgebonden budget en uitgaven individueel aangepaste Wlz-hulpmiddelen 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050637), met kenmerk NR/REG-2519, ingetrokken.
 
-#### Artikel 11. Toepasselijkheid voorafgaande regeling, bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 11. Toepasselijkheid voorafgaande regeling, bekendmaking, inwerkingtreding en citeertitel
 
 De [Regeling monitoring beschikkingen persoonsgebonden budget en uitgaven individueel aangepaste Wlz-hulpmiddelen 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050637), met kenmerk NR/REG-2519, blijft van toepassing op gedragingen (handelen en nalaten) van zorgkantoren/Wlz-uitvoerders die onder de werkingssfeer van die regeling vielen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regeling gold.
 

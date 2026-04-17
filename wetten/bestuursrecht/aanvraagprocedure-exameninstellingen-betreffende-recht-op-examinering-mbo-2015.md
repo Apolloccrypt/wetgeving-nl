@@ -1,13 +1,35 @@
 ---
 title: "Aanvraagprocedure exameninstellingen betreffende recht op examinering mbo 2015"
 identifier: "BWBR0036476"
-categorie: "Bestuursrecht"
-publicatiedatum: 2015-03-17
-laatste_update: 2015-03-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036476"
+country: "nl"
+rank: "zbo"
+publication_date: "2015-03-17"
+last_updated: "2015-03-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036476"
+soort: "zbo"
+stam_id: "13124593"
+version_id: "22363542"
+internal_id: "C32016701"
+label_id: "13093564"
+dtd_version: "2.0"
+original_entry_into_force: "2015-03-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036476/2015-03-17/0"
+intitule_bron: "Stcrt.2015-7150"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2015-03-17"
+intitule_in_force: "2015-03-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-7150"
+original_published_date: "2015-03-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-7150"
+entry_into_force_date: "2015-03-17"
+jci_1_3: "jci1.3:c:BWBR0036476&z=2015-03-17&g=2015-03-17"
+jci_1_0: "1.0:c:BWBR0036476&g=2015-03-17"
+citeertitel_status: "redactioneel"
+entry_into_force: "2015-03-17"
 ---
-
 # Aanvraagprocedure exameninstellingen betreffende recht op examinering mbo 2015
 
 ### Deel I. Algemeen

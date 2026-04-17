@@ -1,13 +1,38 @@
 ---
 title: "Besluit vervanging archiefbescheiden (penitentiaire dossiers)"
 identifier: "BWBR0026307"
-categorie: "Strafrecht"
-publicatiedatum: 2009-09-02
-laatste_update: 2009-09-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026307"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2009-09-02"
+last_updated: "2009-09-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026307"
+soort: "ministeriele-regeling"
+stam_id: "10163173"
+version_id: "16628732"
+internal_id: "C22895771"
+label_id: "10139134"
+dtd_version: "2.0"
+original_entry_into_force: "2009-09-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026307/2009-09-02/0"
+intitule_bron: "Stcrt.2009-12852"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-08-11"
+intitule_published: "2009-08-31"
+intitule_in_force: "2009-08-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-12852"
+original_signed_date: "2009-08-11"
+original_published_date: "2009-08-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-12852"
+entry_into_force_date: "2009-09-02"
+jci_1_3: "jci1.3:c:BWBR0026307&z=2009-09-02&g=2009-09-02"
+jci_1_0: "1.0:c:BWBR0026307&g=2009-09-02"
+citeertitel_status: "redactioneel"
+signed_date: "2009-08-11"
+entry_into_force: "2009-09-02"
 ---
-
 # Besluit vervanging archiefbescheiden (penitentiaire dossiers)
 
 Gelet op [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7);

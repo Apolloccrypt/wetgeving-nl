@@ -1,24 +1,50 @@
 ---
-title: "Regeling vaststelling Aanwijzingen voor subsidieverstrekking"
+title: "Regeling van de Minister-President, Minister van Algemene Zaken, van 15 december 2009, nr. 3086451, houdende vaststelling van Aanwijzingen voor subsidieverstrekking"
 identifier: "BWBR0027023"
-categorie: "Bestuursrecht"
-publicatiedatum: 2012-07-01
-laatste_update: 2012-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027023"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2012-07-01"
+last_updated: "2012-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027023"
+soort: "ministeriele-regeling"
+stam_id: "10367073"
+version_id: "17036732"
+internal_id: "C23496411"
+label_id: "10342054"
+dtd_version: "2.0"
+original_entry_into_force: "2010-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027023/2012-07-01/0"
+intitule_bron: "Stcrt.2009-20306"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-12-15"
+intitule_published: "2009-12-31"
+intitule_in_force: "2009-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-20306"
+original_signed_date: "2009-12-15"
+original_published_date: "2009-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-20306"
+entry_into_force_date: "2010-01-01"
+jci_1_3: "jci1.3:c:BWBR0027023&z=2012-07-01&g=2012-07-01"
+jci_1_0: "1.0:c:BWBR0027023&g=2012-07-01"
+citeertitel_status: "redactioneel"
+short_title: "Regeling vaststelling Aanwijzingen voor subsidieverstrekking"
+signed_date: "2009-12-15"
+entry_into_force: "2010-01-01"
 ---
-
 # Regeling van de Minister-President, Minister van Algemene Zaken, van 15 december 2009, nr. 3086451, houdende vaststelling van Aanwijzingen voor subsidieverstrekking
 
 Handelende in overeenstemming met het gevoelen van de ministerraad,
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Vastgesteld worden de als bijlage bij deze regeling gevoegde Aanwijzingen voor subsidieverstrekking.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling is niet van toepassing op:
 
@@ -26,7 +52,7 @@ Deze regeling is niet van toepassing op:
 
 - b. subsidies die zijn aangevraagd of verstrekt op of na 1 januari 2010 en voor 1 januari 2012 op grond van regelingen die voor 1 januari 2010 in werking zijn getreden.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van 1 januari 2010.
 

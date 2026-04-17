@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Adviescommissie participatie en emancipatie Sinti en Roma"
+title: "Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 29 april 2015, kenmerk 755292-135599-DMO, houdende instelling van de Adviescommissie participatie en emancipatie Sinti en Roma (Instellingsbesluit Adviescommissie participatie en emancipatie Sinti en Roma)"
 identifier: "BWBR0036597"
-categorie: "Sociaal recht"
-publicatiedatum: 2015-05-12
-laatste_update: 2015-05-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036597"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-05-12"
+last_updated: "2015-05-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036597"
+soort: "ministeriele-regeling"
+stam_id: "13151823"
+version_id: "22417552"
+internal_id: "C32167131"
+label_id: "13120524"
+dtd_version: "2.0"
+original_entry_into_force: "2015-05-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036597/2015-05-12/0"
+intitule_bron: "Stcrt.2015-12568"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-04-29"
+intitule_published: "2015-05-11"
+intitule_in_force: "2015-05-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-12568"
+original_signed_date: "2015-04-29"
+original_published_date: "2015-05-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-12568"
+entry_into_force_date: "2015-05-12"
+jci_1_3: "jci1.3:c:BWBR0036597&z=2015-05-12&g=2015-05-12"
+jci_1_0: "1.0:c:BWBR0036597&g=2015-05-12"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Adviescommissie participatie en emancipatie Sinti en Roma"
+signed_date: "2015-04-29"
+entry_into_force: "2015-05-12"
 ---
-
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 29 april 2015, kenmerk 755292-135599-DMO, houdende instelling van de Adviescommissie participatie en emancipatie Sinti en Roma (Instellingsbesluit Adviescommissie participatie en emancipatie Sinti en Roma)
 
 Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -22,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036597&artikel=2&z=2015-05-12&g=2015-05-12).
 
-#### Artikel 2. Instelling en taak
+##### Artikel 2. Instelling en taak
 
 1. Er is een Adviescommissie participatie en emancipatie Sinti en Roma.
 
@@ -40,7 +66,7 @@ In dit besluit wordt verstaan onder:
 
 - b. voorlichting over het eerdergenoemde subsidiekader en de werkzaamheden van de commissie te verzorgen.
 
-#### Artikel 3. Samenstelling, benoeming, ontslag
+##### Artikel 3. Samenstelling, benoeming, ontslag
 
 1. De commissie bestaat uit een voorzitter en vier andere leden.
 
@@ -54,11 +80,11 @@ In dit besluit wordt verstaan onder:
 
 6. Bij het ontstaan van tussentijdse vacatures blijft de commissie bevoegd te adviseren zolang er tenminste drie leden (inclusief de voorzitter) beschikbaar zijn.
 
-#### Artikel 4. Instellingsduur
+##### Artikel 4. Instellingsduur
 
 De commissie wordt ingesteld voor de duur van tien jaar, te rekenen vanaf de datum van inwerkingtreding van dit besluit. De Staatssecretaris kan besluiten de commissie eerder op te heffen als het bij het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036597&artikel=2&z=2015-05-12&g=2015-05-12) bedoelde beleidskader behorende budget is uitgeput.
 
-#### Artikel 5. Leden
+##### Artikel 5. Leden
 
 Met ingang van 11 april 2015 worden voor de periode van twee jaar tot lid van de commissie benoemd:
 
@@ -72,7 +98,7 @@ Met ingang van 11 april 2015 worden voor de periode van twee jaar tot lid van de
 
 - e. mevrouw K. Weiss, te Best.
 
-#### Artikel 6. Secretariaat
+##### Artikel 6. Secretariaat
 
 1. De commissie wordt ondersteund door een secretariaat.
 
@@ -82,15 +108,15 @@ Met ingang van 11 april 2015 worden voor de periode van twee jaar tot lid van de
 
 4. De Staatssecretaris draagt, na overleg met de commissie en Stichting ARQ zorg voor de nodige voorzieningen ten behoeve van de werkzaamheden van de commissie.
 
-#### Artikel 7. Werkwijze
+##### Artikel 7. Werkwijze
 
 De commissie stelt haar eigen werkwijze vast.
 
-#### Artikel 8. Informatieplicht
+##### Artikel 8. Informatieplicht
 
 De commissie verstrekt aan de Staatssecretaris desgevraagd de door hem gewenste inlichtingen. De Staatssecretaris kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
-#### Artikel 9. Vergoeding
+##### Artikel 9. Vergoeding
 
 1. De voorzitter en de andere leden ontvangen per vergadering een vergoeding, voor zover zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en hiermee niet het in [artikel 6, eerste lid, van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=6) bedoelde maximumbedrag overschrijden.
 
@@ -98,7 +124,7 @@ De commissie verstrekt aan de Staatssecretaris desgevraagd de door hem gewenste 
 
 3. De vergoeding per vergadering van de voorzitter van de commissie bedraagt 130% van de hoogte van de vergoeding per vergadering die aan de andere leden van de commissie is toegekend.
 
-#### Artikel 10. Kosten van de commissie
+##### Artikel 10. Kosten van de commissie
 
 1. De kosten van de commissie komen, voor zover goedgekeurd, voor rekening van de Staatssecretaris. Onder kosten worden in ieder geval verstaan:
 
@@ -110,23 +136,23 @@ De commissie verstrekt aan de Staatssecretaris desgevraagd de door hem gewenste 
 
 2. Stichting ARQ biedt zo spoedig mogelijk na de instelling van de commissie, mede namens de commissie een begroting en een planning aan de Staatssecretaris aan.
 
-#### Artikel 11. Verantwoording
+##### Artikel 11. Verantwoording
 
 De commissie biedt de Staatssecretaris jaarlijks een verslag aan waarin verslag wordt gedaan over de activiteiten van de commissie in het betreffende jaar.
 
-#### Artikel 12. Openbaarmaking
+##### Artikel 12. Openbaarmaking
 
 Rapporten, notities, verslagen, adviezen en andere producten die door of namens de commissie worden vervaardigd of vergaard, worden niet door de commissie openbaar gemaakt, maar uitsluitend aan de Staatssecretaris uitgebracht of overgedragen.
 
-#### Artikel 13. Archiefbescheiden
+##### Artikel 13. Archiefbescheiden
 
 De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden of, zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van de Directie Maatschappelijke Ondersteuning van het Ministerie van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt daarbij terug tot 11 april 2015.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie participatie en emancipatie Sinti en Roma.
 

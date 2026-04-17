@@ -1,13 +1,39 @@
 ---
-title: "Organisatiebesluit Ministerie van Justitie en Veiligheid"
+title: "Besluit van de Minister van Justitie en Veiligheid van 28 november 2017, kenmerk DP&O/17/2150354, houdende vaststelling van de organisatie van het Ministerie van Justitie en Veiligheid (Organisatiebesluit Ministerie van Justitie en Veiligheid)"
 identifier: "BWBR0040293"
-categorie: "Strafrecht"
-publicatiedatum: 2026-03-16
-laatste_update: 2026-03-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040293"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-16"
+last_updated: "2026-03-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040293"
+soort: "ministeriele-regeling"
+stam_id: "14434613"
+version_id: "29413672"
+internal_id: "C42054381"
+label_id: "14395934"
+dtd_version: "2.0"
+original_entry_into_force: "2023-05-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040293/2026-03-16/0"
+intitule_bron: "Stcrt.2017-70899"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-11-28"
+intitule_published: "2017-12-05"
+intitule_in_force: "2017-12-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-14494"
+original_signed_date: "2023-05-08"
+original_published_date: "2023-05-24"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2023-14494"
+entry_into_force_date: "2023-05-08"
+jci_1_3: "jci1.3:c:BWBR0040293&z=2026-03-16&g=2026-03-16"
+jci_1_0: "1.0:c:BWBR0040293&g=2026-03-16"
+citeertitel_status: "officieel"
+short_title: "Organisatiebesluit Ministerie van Justitie en Veiligheid"
+signed_date: "2023-05-08"
+entry_into_force: "2023-05-08"
 ---
-
 # Besluit van de Minister van Justitie en Veiligheid van 28 november 2017, kenmerk DP&O/17/2150354, houdende vaststelling van de organisatie van het Ministerie van Justitie en Veiligheid (Organisatiebesluit Ministerie van Justitie en Veiligheid)
 
 Gelet op [artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 - e. **bestuursraad:** de bestuursraad, bedoeld in [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=3&z=2026-03-16&g=2026-03-16).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het ministerie bestaat uit de secretaris-generaal, de plaatsvervangend secretaris-generaal, de hoofddirecteur bedrijfsvoering, de clusters, de diensten en baten-lastenagentschappen, het bureau van de Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen en het secretariaat van het Schadefonds Geweldsmisdrijven.
 
@@ -88,7 +114,7 @@ In dit besluit wordt verstaan onder:
 
 - 7°. de Justitiële ICT Organisatie.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De secretaris-generaal is ambtelijk eindverantwoordelijk voor de leiding van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-03-16&g=2026-03-16) genoemde dienstonderdelen. De plaatsvervangend secretaris-generaal vervult de rol van eigenaar als bedoeld in de [Regeling agentschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0040286) en de circulaire 'Governance ten aanzien van zbo’s’, voor de diensten en baten-lastenagentschappen, genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-03-16&g=2026-03-16), de Inspectie Justitie en Veiligheid, het instituut Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen en het secretariaat van het Schadefonds Geweldsmisdrijven alsmede voor de hieronder genoemde zelfstandige bestuursorganen. De hoofddirecteur bedrijfsvoering is Chief Information Officer van het Ministerie van Justitie en Veiligheid.
 
@@ -134,7 +160,7 @@ De voorzitter van het College van procureurs-generaal, de directeur-generaal van
 
 ### Hoofdstuk 2. Het cluster secretaris-generaal (SG-cluster)
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het cluster secretaris-generaal (SG-cluster) heeft taken op de terreinen van wetgeving, Europese en internationale aangelegenheden, onderzoek, strategievorming, innovatie, voorlichting, communicatie, financiën en bestuurlijke en parlementaire ondersteuning.
 
@@ -158,7 +184,7 @@ De voorzitter van het College van procureurs-generaal, de directeur-generaal van
 
 - i. de Nationaal Coördinator Antisemitismebestrijding (NCAB).
 
-#### Artikel 5
+##### Artikel 5
 
 1. De directie Wetgeving en Juridische Zaken (DWJZ) is belast met de ontwikkeling, de totstandkoming, het beheer en het onderhoud van justitie- en veiligheidswetgeving en van andere wetgeving voor zover deze tot het werkterrein van een dienstonderdeel van het ministerie behoort, alsmede met het ontwikkelen en uitdragen van het wetgevingsbeleid en de toetsing van ontwerpwetgeving van de ministeries op rechtsstatelijke en bestuurlijke kwaliteit, met inbegrip van de constitutionele, Europeesrechtelijke en internationaalrechtelijke toetsing van wetgeving.
 
@@ -190,7 +216,7 @@ De voorzitter van het College van procureurs-generaal, de directeur-generaal van
 
 - e. de afdeling Ondersteuning.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De directie Europese en Internationale Aangelegenheden (DEIA) draagt zorg voor een ministeriebrede strategie- en visieontwikkeling ten aanzien van multilaterale, Europese en bilaterale horizontale dossiers en beleidsvraagstukken en ten aanzien van Koninkrijksamenwerking, internationale projecten en expertisegebieden. Tevens is de directie belast met de zorg voor een gecoördineerde en effectieve inzet van Nederland op het gebied van Justitie en Veiligheid binnen het kader van de samenwerking binnen de Europese Unie en in het kader van de samenwerking op multilateraal, bilateraal en Koninkrijksniveau. Tenslotte faciliteert de directie de politieke en ambtelijke leiding alsmede de directies in logistieke en instrumentele zin op voornoemde terreinen en verzorgt zij de daarop betrekking hebbende informatievoorziening aan interne dossierhouders en belanghebbenden.
 
@@ -208,15 +234,15 @@ De voorzitter van het College van procureurs-generaal, de directeur-generaal van
 
 - e. de managementondersteuning.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 1. De directie Bestuursondersteuning (DBO) is belast met:
 
@@ -232,7 +258,7 @@ Vervallen
 
 - c. het Bureau Protocol en Evenementen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De directie Communicatie (DCOM) is belast met het geven van informatie van en over het ministerie. Hierbij wordt gezocht naar een goede balans tussen het belang van het ministerie en dat van de ontvangers. Ook heeft de directie tot taak om politieke en maatschappelijke signalen op te vangen en terug te koppelen binnen de organisatie.
 
@@ -244,7 +270,7 @@ Vervallen
 
 - c. de afdeling Communicatieadvies en Redactie.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De directie Financieel-Economische Zaken (DFEZ) is de ministeriebrede en DG-controller en belast met:
 
@@ -270,7 +296,7 @@ Vervallen
 
 - c. de afdeling Control op Beleid en Uitvoering.
 
-#### Artikel 12
+##### Artikel 12
 
 De directie Innovatie, Kennis en Strategie is belast met het versterken van de functies innovatie, strategie en kennis van het ministerie. Daarbij kunnen de volgende taken worden onderscheiden:
 
@@ -286,7 +312,7 @@ De directie Innovatie, Kennis en Strategie is belast met het versterken van de f
 
 - f. Het stimuleren van projecten en activiteiten.
 
-#### Artikel 12a
+##### Artikel 12a
 
 1. De directie Eigenaarsadvisering (DEA) heeft tot taak de eigenaar, met inachtneming van de geldende wet- en regelgeving, te adviseren en te ondersteunen ten aanzien van de organisaties genoemd in het tweede lid. Ter uitvoering van deze taken is DEA in het bijzonder belast met:
 
@@ -300,11 +326,11 @@ De directie Innovatie, Kennis en Strategie is belast met het versterken van de f
 
 2. Het aandachtsgebied van de taken van de DEA omvat de diensten en baten-lastenagentschappen, genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-03-16&g=2026-03-16), alsmede de zelfstandige bestuursorganen genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=3&z=2026-03-16&g=2026-03-16).
 
-#### Artikel 13
+##### Artikel 13
 
 Het bureau Adviescollege Verloftoetsing tbs is belast met het ondersteunen van het Adviescollege Verloftoetsing tbs alsmede het ontwikkelen van richtlijnen en andere vormen van methodische aanpak ten behoeve van dat adviescollege.
 
-#### Artikel 13a
+##### Artikel 13a
 
 1. De Nationaal Coördinator Antisemitismebestrijding (NCAB) adviseert de Minister van Justitie en Veiligheid over de volgende onderwerpen:
 
@@ -328,7 +354,7 @@ Het bureau Adviescollege Verloftoetsing tbs is belast met het ondersteunen van h
 
 ### Hoofdstuk 3. De Hoofddirectie bedrijfsvoering (HDBV)
 
-#### Artikel 14
+##### Artikel 14
 
 1. De Hoofddirectie bedrijfsvoering staat onder leiding van de hoofddirecteur bedrijfsvoering. De hoofddirecteur bedrijfsvoering is onder meer verantwoordelijk voor de bedrijfsvoering van het ministerie in beleidsmatige zin, in het bijzonder betreffende personeel, informatievoorziening, organisatie, automatisering, huisvesting en facilities.
 
@@ -358,7 +384,7 @@ Daarbij kunnen de volgende taken worden onderscheiden:
 
 - f. de directie Openbaarmaking (DO).
 
-#### Artikel 15
+##### Artikel 15
 
 1. De directie Personeel en Organisatie (DP&O) is belast met:
 
@@ -382,7 +408,7 @@ Daarbij kunnen de volgende taken worden onderscheiden:
 
 - e. het Bureau Ondersteuning Medezeggenschap.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De directie Informatievoorziening en Inkoop (DI&I) is belast met:
 
@@ -418,7 +444,7 @@ Daarbij kunnen de volgende taken worden onderscheiden:
 
 4. Het hoofd van de afdeling Strategische Inkoop is tevens Coördinerend Directeur Inkoop (CDI). De CDI wordt ondersteund door een CDI-Office dat onderdeel uitmaakt van de afdeling Strategische Inkoop.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het Dienstencentrum (DC) verzorgt voor het Bestuursdepartement de levering van diensten op het gebied van huisvesting, facilitaire dienstverlening, ICT, inkoop, werkplekservices en diensten op het gebied van post en informatievoorziening.
 
@@ -446,11 +472,11 @@ Daarbij kunnen de volgende taken worden onderscheiden:
 
 - •. team Servicepunt Inkoop
 
-#### Artikel 18
+##### Artikel 18
 
 De directie Huisvesting en Facilities (DHF) is belast met het realiseren van beleid, kaders en richtlijnen op het terrein van huisvesting en daarmee verband houdende faciliteiten alsmede met de uitvoering van huisvestingsprojecten voor het ministerie en aan het ministerie gerelateerde internationale organisaties.
 
-#### Artikel 18a
+##### Artikel 18a
 
 Het Project-, Programma- en Adviescentrum (PPAC) is belast met:
 
@@ -464,7 +490,7 @@ Het Project-, Programma- en Adviescentrum (PPAC) is belast met:
 
 ### Hoofdstuk 3a. Hoofddirecteur bedrijfsvoering (HDBV)
 
-#### Artikel 18b
+##### Artikel 18b
 
 1. De directie Openbaarmaking is belast met de volgende kerntaken:
 
@@ -484,7 +510,7 @@ Het Project-, Programma- en Adviescentrum (PPAC) is belast met:
 
 ### Hoofdstuk 4. Directoraat-generaal Straffen en Beschermen (DGSenB)
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het directoraat-generaal Straffen en Beschermen (DGSenB) is belast met het ontwikkelen, in opdracht geven dan wel uitvoeren en/of implementeren van het beleid met betrekking tot:
 
@@ -508,11 +534,11 @@ Het Project-, Programma- en Adviescentrum (PPAC) is belast met:
 
 - e. de programmadirectie Toekomstscenario kind- en gezinsbescherming (TKG).
 
-#### Artikel 20
+##### Artikel 20
 
 De directeur-generaal wordt secretarieel, organisatorisch en administratief ondersteund door het team Managementondersteuning en Staf.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De directie Sanctie- en Slachtofferbeleid (DSenS) is belast met de coördinatie, ontwikkeling en evaluatie van beleid dat is gericht op:
 
@@ -548,7 +574,7 @@ De directeur-generaal wordt secretarieel, organisatorisch en administratief onde
 
 6. Het secretariaat RSJ is belast met de bedrijfsvoering en ondersteuning van de Raad voor Strafrechtstoepassing en Jeugdbescherming.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De directie Jeugd, Familie en aanpak Criminaliteitsfenomenen (DJFC) is belast met de coördinatie, ontwikkeling en evaluatie van beleid dat is gericht op:
 
@@ -580,7 +606,7 @@ De directeur-generaal wordt secretarieel, organisatorisch en administratief onde
 
 - e. het team Aanpak Criminaliteitsfenomenen (ACF).
 
-#### Artikel 23
+##### Artikel 23
 
 1. De directie Advies, Regie en Centrale autoriteit (DARC) is belast met financiële advisering aan de directeur-generaal en de directeuren van de andere onderdelen als bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=4&artikel=19&z=2026-03-16&g=2026-03-16). Deze advisering heeft in ieder geval betrekking op uitvoeringsdiensten, zelfstandige bestuursorganen, rechtspersonen met een wettelijke taak en gesubsidieerde organisaties op het terrein van het directoraat-generaal, voor zover het geen taak van DFEZ of DEA betreft.
 
@@ -636,7 +662,7 @@ De directeur-generaal wordt secretarieel, organisatorisch en administratief onde
 
 - e. het team Managementondersteuning en Staf (MOS).
 
-#### Artikel 24
+##### Artikel 24
 
 1. De directie Artificiële Intelligentie is belast met de coördinatie, ontwikkeling en realisatie van beleid inzake kunstmatige intelligentie en de toepassing daarvan in het justitie- en veiligheidsdomein in samenwerking dan wel in opdracht van andere onderdelen of takenorganisaties van het ministerie.
 
@@ -646,7 +672,7 @@ De directeur-generaal wordt secretarieel, organisatorisch en administratief onde
 
 - b. het team Strategie en Toepassingen.
 
-#### Artikel 25
+##### Artikel 25
 
 De programmadirectie Toekomstscenario kind- en gezinsbescherming (TKG) is belast met de coördinatie en uitvoering van werkzaamheden ter voorbereiding van de afstemming en besluitvorming tussen en ten behoeve van haar opdrachtgevers inzake een toekomstscenario met betrekking tot de bescherming van kinderen en hun gezinnen. De programmadirectie richt zich in ieder geval op:
 
@@ -658,17 +684,17 @@ De programmadirectie Toekomstscenario kind- en gezinsbescherming (TKG) is belast
 
 - d. het integreren van de werkwijze en opbrengsten van de programma’s Geweld Hoort Nergens Thuis en de programma’s Scheiden zonder schade.
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
 ### Hoofdstuk 5. Directoraat-generaal Politie en Veiligheidsregio’s (DGPenV)
 
-#### Artikel 28
+##### Artikel 28
 
 1. Het directoraat-generaal Politie en Veiligheidsregio’s (DGPenV) is belast met:
 
@@ -704,7 +730,7 @@ Vervallen
 
 - f. het brandweerkorps Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De portefeuille Politieorganisatie en -middelen en Staf is belast met:
 
@@ -726,7 +752,7 @@ Vervallen
 
 - c. de afdeling Staf en Bedrijfsvoering.
 
-#### Artikel 30
+##### Artikel 30
 
 1. De portefeuille Politieel Beleid en Taakuitvoering is belast met:
 
@@ -744,11 +770,11 @@ Vervallen
 
 - c. de afdeling Strategie en Beleid Politie.
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
-#### Artikel 31a
+##### Artikel 31a
 
 1. De portefeuille Veiligheidsregio’s, Crisisbeheersing en Meldkamer is belast met het in samenspraak met de NCTV:
 
@@ -766,11 +792,11 @@ Vervallen
 
 - b. de afdeling Meldkamers, crisiscommunicatie en alerteren.
 
-#### Artikel 31a1
+##### Artikel 31a1
 
 Vervallen
 
-#### Artikel 31b
+##### Artikel 31b
 
 1. Het Landelijk Operationeel Coördinatie Centrum (LOCC) maakt deel uit van de nationale crisisbesluitvormingsstructuur en draagt hierbij zorg voor het aanleveren van het multidisciplinair Landelijk Operationeel Beeld en het operationeel advies bij nationale en internationale incidenten, crises, rampen en grootschalige evenementen.
 
@@ -780,17 +806,17 @@ Vervallen
 
 4. Het LOCC ondersteunt op verzoek van betrokken crisispartners bij regionale en bovenregionale incidenten, crises, rampen en grootschalige evenementen.
 
-#### Artikel 32
+##### Artikel 32
 
 Het korps politie Bonaire, Sint Eustatius en Saba (korps politie BES) is belast met de taken bedoeld in [artikel 5 van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=5).
 
-#### Artikel 33
+##### Artikel 33
 
 Het brandweerkorps Bonaire, Sint Eustatius en Saba (brandweerkorps BES) is belast met de taken bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=27), en [artikel 28, eerste lid, van de Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=28).
 
 ### Hoofdstuk 6. Directoraat-generaal Rechtspleging en Rechtshandhaving (DGRR)
 
-#### Artikel 34
+##### Artikel 34
 
 1. Het directoraat-generaal Rechtspleging en Rechtshandhaving (DGRR) is belast met het ontwikkelen, in opdracht geven dan wel uitvoeren en/of implementeren van het beleid voor:
 
@@ -816,11 +842,11 @@ Het brandweerkorps Bonaire, Sint Eustatius en Saba (brandweerkorps BES) is belas
 
 - f. de directie Strafrechtketen (DSK).
 
-#### Artikel 35
+##### Artikel 35
 
 De directeur-generaal Rechtspleging en Rechtshandhaving is beheersverantwoordelijk voor het openbaar ministerie.
 
-#### Artikel 36
+##### Artikel 36
 
 1. De directie Rechtshandhaving en Criminaliteitsbestrijding (DRC) bevordert en draagt bij aan een rechtvaardige, effectieve en integrale rechtshandhaving en criminaliteitsbestrijding (preventief en repressief) op lokaal, regionaal, nationaal en internationaal niveau. Binnen de rechtstatelijke kaders werkt de directie er aan mee om het opsporings- en vervolgingsapparaat zo goed als mogelijk in staat te stellen om zijn taak uit te oefenen.
 
@@ -832,7 +858,7 @@ De directeur-generaal Rechtspleging en Rechtshandhaving is beheersverantwoordeli
 
 - c. de afdeling Cybercrime en Zeden (CZ).
 
-#### Artikel 37
+##### Artikel 37
 
 1. De directie Rechtsbestel (DRb) is belast met de organisatie, de instandhouding en de ontwikkeling van het rechtsbestel. Dit omvat in ieder geval de toegang tot het recht en de kwaliteit van het rechtsbestel ten behoeve van de waarborging van rechtsbescherming en rechtszekerheid. Hieronder wordt in ieder geval begrepen het stelsel van de rechterlijke organisatie, alsmede de volgende beleidsterreinen: rechtsbijstand, juridische vrije beroepen, alternatieve geschiloplossing, schuldsanering natuurlijke personen, tolken en vertalers en gegevensbescherming.
 
@@ -848,7 +874,7 @@ De directeur-generaal Rechtspleging en Rechtshandhaving is beheersverantwoordeli
 
 - d. het Beleidsteam Privacy (BtP).
 
-#### Artikel 38
+##### Artikel 38
 
 1. De directie Advisering en Ondersteuning (DAO) is belast met financiële advisering aan en ondersteuning van de directeur-generaal Rechtspleging en Rechtshandhaving en de overige directies. Het adviseren omvat in ieder geval de financiële advisering ten aanzien van een aantal taakorganisaties, rechtspersonen met een wettelijke taak, zelfstandige bestuursorganen en organisaties en instellingen op het terrein van het directoraat-generaal.
 
@@ -858,7 +884,7 @@ De directeur-generaal Rechtspleging en Rechtshandhaving is beheersverantwoordeli
 
 4. De directie kent een afdeling Financiën.
 
-#### Artikel 39
+##### Artikel 39
 
 1. De directie Juridische en Operationele Aangelegenheden (DJOA) is belast met de voorbereiding van beslissingen in individuele gevallen op het terrein van rechtspleging en rechtshandhaving met toepassing van bestaande regels en beleidskaders. De beslissingen hebben betrekking op bestuurlijk-juridische zaken, operationele zaken, rechtshulpverzoeken, benoemingen of incidenten. De directie levert op deze terreinen ook bijdragen aan beleidsvoorstellen.
 
@@ -878,7 +904,7 @@ De directeur-generaal Rechtspleging en Rechtshandhaving is beheersverantwoordeli
 
 - c. de afdeling Benoemingen, Burgercorrespondentie, Ondersteuning en Parlementaire zaken.
 
-#### Artikel 40
+##### Artikel 40
 
 1. De directie Veiligheid en Bestuur (DVB) is belast met het faciliteren van het lokale bestuur en publieke en private partners om ten aanzien van maatschappelijke veiligheidsvraagstukken zijn eigen taken uit te voeren, relevante partners bijeen te brengen, kaders te maken, beleid en juridische instrumenten te ontwikkelen, financiële stimulans te bieden, kennis te ontwikkelen en te verspreiden, fenomenen te agenderen en waar nodig regie te voeren.
 
@@ -892,7 +918,7 @@ De directeur-generaal Rechtspleging en Rechtshandhaving is beheersverantwoordeli
 
 3. De directie is organisatorisch verantwoordelijk voor het Landelijk Expertise Centrum (LIEC). Het LIEC vormt samen met tien Regionale Informatie en Expertise Centra (RIEC’s) een landelijk werkend concern, dat vormgeeft aan een bestuurlijke en integrale aanpak van georganiseerde ondermijnende criminaliteit. Het LIEC valt beheersmatig onder de verantwoordelijkheid van de Stuurgroep LIEC.
 
-#### Artikel 41
+##### Artikel 41
 
 1. De directie Strafrechtketen (DSK) is belast met:
 
@@ -904,17 +930,17 @@ De directeur-generaal Rechtspleging en Rechtshandhaving is beheersverantwoordeli
 
 2. De directie kent een afdeling Keteninformatievoorziening (KIV).
 
-#### Artikel 42
+##### Artikel 42
 
 Vervallen
 
-#### Artikel 43
+##### Artikel 43
 
 Vervallen
 
 ### Hoofdstuk 7. Directoraat-generaal Migratie (DGM)
 
-#### Artikel 44
+##### Artikel 44
 
 1. Het directoraat-generaal Migratie (DGM) is belast met het ontwikkelen, in opdracht geven dan wel uitvoeren en/of implementeren van het beleid voor:
 
@@ -944,7 +970,7 @@ Vervallen
 
 - e. het secretariaat van de Adviesraad Migratie.
 
-#### Artikel 45
+##### Artikel 45
 
 1. De directie Migratiebeleid (DMB) is belast met het ontwikkelen en implementeren van het beleid voor de zorg voor een gereglementeerde en beheerste toelating tot verblijf in en vertrek uit Nederland of terugkeer van vreemdelingen op een in nationaal en internationaal opzicht maatschappelijk verantwoorde wijze.
 
@@ -956,7 +982,7 @@ Vervallen
 
 - c. de afdeling Juridische en Algemene Zaken.
 
-#### Artikel 46
+##### Artikel 46
 
 1. De directie Regie Migratieketen (DRM) heeft tot taak de migratieketen in staat te stellen de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) en het migratiebeleid snel en zorgvuldig uit te voeren en daarover verantwoording af te leggen door het als ketenregisseur ondersteunen van de bij de migratieketen aangesloten organisaties. De directie heeft binnen het cluster tevens een aantal ondersteunende taken, waaronder staf en bedrijfsvoering, en beheert als de Verantwoordelijke Autoriteit de Europese Migratie- en Veiligheidsfondsen van meerdere beleidsonderwerpen.
 
@@ -972,19 +998,19 @@ Vervallen
 
 - e. het bureau Verantwoordelijke Autoriteit.
 
-#### Artikel 46a
+##### Artikel 46a
 
 Het Bureau Internationaal Migratiebeleid (BIM) ontwikkelt en bewaakt het internationaal migratiebeleid, zorgt in dat kader voor overzicht, legt dwarsverbanden tussen de verschillende dossiers en coördineert de departementale, interdepartementale en internationale afstemming.
 
-#### Artikel 47
+##### Artikel 47
 
 Vervallen
 
-#### Artikel 48
+##### Artikel 48
 
 Vervallen
 
-#### Artikel 49
+##### Artikel 49
 
 1. Het secretariaat van de Adviesraad Migratie is belast met de ambtelijke ondersteuning van die commissie.
 
@@ -998,7 +1024,7 @@ Vervallen
 
 ### Hoofdstuk 7a. Programmadirecteur-generaal Ondermijning (DGO)
 
-#### Artikel 49a
+##### Artikel 49a
 
 1. De programmadirecteur-generaal Ondermijning (DGO) zet zich samen met een brede maatschappelijke coalitie in voor de aanpak van ondermijning en is daartoe belast met de volgende hoofdtaken:
 
@@ -1018,7 +1044,7 @@ Vervallen
 
 ### Hoofdstuk 7b. Programmadirectoraat-generaal Samenleving en COVID-19 (DGSC-19)
 
-#### Artikel 49b
+##### Artikel 49b
 
 1. Het programmadirectoraat-generaal Samenleving en COVID-19 is belast met de navolgende taken en daarmee samenhangende activiteiten:
 
@@ -1040,27 +1066,27 @@ Vervallen
 
 3. De programmadirecteur-generaal Samenleving en COVID-19 is het hoofd van het programmadirectoraat-generaal en kan de in het tweede lid genoemde programmadirecties en het stafbureau nader onderverdelen.
 
-#### Artikel 49c
+##### Artikel 49c
 
 De programmadirectie Strategie en Kennis COVID-19 is belast met het verkennen van de samenleving tijdens en na Corona aan de hand van lange termijn (interdepartementale) beleidsthema’s en het zorgen voor handelingsperspectief middellange termijn aanpak COVID-19-crisis.
 
-#### Artikel 49d
+##### Artikel 49d
 
 De programmadirectie Evaluatie en Verantwoording is belast met de voorbereiding en interdepartementale coördinatie van (externe) onderzoeken en verantwoording.
 
-#### Artikel 49e
+##### Artikel 49e
 
 Het stafbureau is belast met het monitoren van (middel)lange termijn trajecten met COVID-19 karakter bij departementen en met het monitoren van ontwikkelingen in de samenleving als gevolg van de crisis, zowel maatschappelijk als sociaaleconomisch van aard (dashboard). Daarnaast zorgt het stafbureau voor de ondersteuning van de programmadirecteur-generaal, de directeuren en het Managementteam en voor de inbreng van stukken vanuit het DGSC-19 in DOC-19, ACC-19, MCC-19, voor zover dit de taken betreft van het DG.
 
 ### Hoofdstuk 7c. Programmadirectoraat-generaal Oekraïense Ontheemden
 
-#### Artikel 49f
+##### Artikel 49f
 
 Vervallen
 
 ### Hoofdstuk 8. Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV)
 
-#### Artikel 50
+##### Artikel 50
 
 1. De Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV) heeft tot taak het verhogen van de weerbaarheid tegen dreigingen en risico’s, het beschermen van de nationale veiligheidsbelangen en het voorkomen van maatschappelijke ontwrichting, door het coördineren van de samenhang en effectiviteit van het beleid en de door overheidsorganisaties te nemen maatregelen in het kader van terrorismebestrijding en de bescherming van nationale veiligheid, alsook door het anderszins identificeren van dreigingen en risico’s voor de nationale veiligheidsbelangen en het versterken van de bescherming van die belangen. Hiertoe verricht de NCTV in het bijzonder activiteiten die zijn gericht op:
 
@@ -1096,13 +1122,13 @@ Vervallen
 
 - f. het secretariaat van de Cyber Security Raad.
 
-#### Artikel 51
+##### Artikel 51
 
 1. De NCTV legt inhoudelijk direct verantwoording af aan de bewindspersoon.
 
 2. De NCTV wordt hierbij secretarieel, organisatorisch en administratief ondersteund door de stafondersteuning.
 
-#### Artikel 52
+##### Artikel 52
 
 1. De portefeuille Contraterrorisme, Beveiliging Burgerluchtvaart en Bedrijfsvoering heeft de volgende taken:
 
@@ -1128,7 +1154,7 @@ Vervallen
 
 - d. de Afdeling Bedrijfsvoering.
 
-#### Artikel 53
+##### Artikel 53
 
 1. De portefeuille Cybersecurity, Weerbaarheid Statelijke Dreigingen en Analyse Nationale Veiligheid heeft de volgende taken:
 
@@ -1150,7 +1176,7 @@ Vervallen
 
 - c. de Afdeling Analyse Nationale Veiligheid.
 
-#### Artikel 54
+##### Artikel 54
 
 1. De portefeuille Nationale Crisisbeheersing heeft de volgende taken:
 
@@ -1170,7 +1196,7 @@ Vervallen
 
 - c. de NCTV Academie.
 
-#### Artikel 55
+##### Artikel 55
 
 De afdeling Strategie, Staf en Juridische Zaken heeft de volgende taken:
 
@@ -1182,25 +1208,25 @@ De afdeling Strategie, Staf en Juridische Zaken heeft de volgende taken:
 
 - d. de voorbereiding van de internationale en Europese beleidsvorming op het werkterrein van de NCTV.
 
-#### Artikel 56
+##### Artikel 56
 
 Vervallen
 
-#### Artikel 57
+##### Artikel 57
 
 Vervallen
 
-#### Artikel 58
+##### Artikel 58
 
 Vervallen
 
-#### Artikel 59
+##### Artikel 59
 
 Vervallen
 
 ### Hoofdstuk 9. De Inspectie Justitie en Veiligheid
 
-#### Artikel 60
+##### Artikel 60
 
 1. De Inspectie Justitie en Veiligheid (IJenV) is belast met:
 
@@ -1224,7 +1250,7 @@ Vervallen
 
 3. De inspecteur-generaal is het hoofd van de IJenV.
 
-#### Artikel 61
+##### Artikel 61
 
 1. De directie Strategie, Kwaliteit en Bedrijfsvoering (SKenB) is belast met de strategische en juridische advisering, communicatie, kwaliteitsmanagement, bedrijfsvoering en ondersteuning van de toezichtdirecties en de eigen directie.
 
@@ -1236,7 +1262,7 @@ Vervallen
 
 - c. De afdeling Bedrijfsvoering.
 
-#### Artikel 62
+##### Artikel 62
 
 1. De directies Beschermen, Straffen en Handhaving (BSH) en Politie, Security en Crisisbeheersing (PSenC) zijn belast met de uitvoering van de toezichtstaken conform het meerjarenperspectief, het werkprogramma en andere voorkomende toezichtstaken.
 
@@ -1258,13 +1284,13 @@ Vervallen
 
 - b. De afdeling Crisisbeheersing en Cyber.
 
-#### Artikel 63
+##### Artikel 63
 
 Vervallen
 
 ### Hoofdstuk 9a. Diensten en baten-lastenagentschappen
 
-#### Artikel 63a
+##### Artikel 63a
 
 1. De Dienst Terugkeer en Vertrek (DT&V) is als taakorganisatie belast met de uitvoering van de vreemdelingenwetgeving ten aanzien van vertrek en uitzetting.
 
@@ -1280,7 +1306,7 @@ Vervallen
 
 - e. de directie Bedrijfsvoering.
 
-#### Artikel 63b
+##### Artikel 63b
 
 1. Binnen het stelsel van informatievoorziening voor de justitiële ketens beheert Justid onder meer de strafrechtsketendatabank (SKDB), als bedoeld in [artikel 27b, vierde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=27b), en de centrale voorziening voor de justitiële documentatie en documentatie persoonsdossiers, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=2) en [artikel 40 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=40) en aangeduid als Justitieel Documentatie Systeem (JDS).
 
@@ -1302,7 +1328,7 @@ Vervallen
 
 4. Bij het oplossen van informatievraagstukken binnen het justitiële en veiligheidsdomein, treedt Justid op als kennis- en innovatiecentrum en ontwikkelt Justid nieuwe producten en diensten.
 
-#### Artikel 63c
+##### Artikel 63c
 
 1. De raad voor de kinderbescherming (RvdK) is belast met de bij of krachtens wet opgedragen taken. Deze taken omvatten onder meer dat de raad onderzoek doet naar het belang en de positie van het kind in beschermingszaken, strafzaken en gezag- en omgangszaken.
 
@@ -1310,7 +1336,7 @@ Vervallen
 
 3. De raad coördineert de tenuitvoerlegging van taakstraffen na ontvangst van de last daartoe, voert casusregie in strafzaken en de tenuitvoerlegging van strafrechtelijke beslissingen van jeugdigen, en doet onderzoeken ten behoeve van het verkrijgen van een beginseltoestemming voor interlandelijke adoptie.
 
-#### Artikel 63d
+##### Artikel 63d
 
 1. Het Centraal Justitieel Incassobureau (CJIB) is belast met:
 
@@ -1342,21 +1368,21 @@ Vervallen
 
 2. Een nadere uitwerking van de taken van het CJIB is opgenomen in een takenbesluit van het CJIB.
 
-#### Artikel 63e
+##### Artikel 63e
 
 De Dienst JUSTIS is belast met nemen van besluiten en verwerken van informatie ter bevordering van een betrouwbare, veilige en rechtvaardige samenleving in sectoren met kwetsbare belangen.
 
-#### Artikel 63f
+##### Artikel 63f
 
 1. De Dienst Justitiële Inrichtingen (DJI) is belast met het tenuitvoerleggen van vrijheidsstraffen en vrijheidsbenemende maatregelen en met het voorbereiden van de aan de zorg van de bewindspersoon toevertrouwde personen op hun succesvolle terugkeer naar de maatschappij, binnen of buiten Nederland.
 
 2. De DJI is tevens belast met het behandelen van rechtshulpverzoeken inzake de overdracht en overname van de tenuitvoerlegging van vrijheidsstraffen en vrijheidsbenemende maatregelen op grond van de [Wet overdracht tenuitvoerlegging strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBR0004028) en de [Wet wederzijdse erkenning en tenuitvoerlegging vrijheidsbenemende en voorwaardelijke sancties](https://wetten.overheid.nl/jci1.3:c:BWBR0031814).
 
-#### Artikel 63g
+##### Artikel 63g
 
 De Immigratie- en Naturalisatiedienst (IND) is belast met de uitvoering van de vreemdelingenwetgeving en van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738).
 
-#### Artikel 63h
+##### Artikel 63h
 
 1. Het Nederlands Forensisch Instituut (NFI) is met het oog op de waarheidsvinding in strafzaken belast met de volgende kerntaken:
 
@@ -1372,7 +1398,7 @@ De Immigratie- en Naturalisatiedienst (IND) is belast met de uitvoering van de v
 
 - b. Bij de uitvoering van de taken als bedoeld in [artikel 1, tweede lid, van de Regeling taken NFI](https://wetten.overheid.nl/jci1.3:c:BWBR0031558&artikel=1) kan het NFI producten of diensten leveren aan in [artikel 2, tweede, derde en vierde lid van de Regeling taken NFI](https://wetten.overheid.nl/jci1.3:c:BWBR0031558&artikel=2), genoemde personen en instanties.
 
-#### Artikel 63h1
+##### Artikel 63h1
 
 1. Het Nationaal Cyber Security Centrum (NCSC) is, met het oog op het voorkomen en beperken van maatschappelijke ontwrichting door cyberdreigingen en -incidenten en het versterken van de digitale weerbaarheid van de samenleving, belast met:
 
@@ -1398,7 +1424,7 @@ De Immigratie- en Naturalisatiedienst (IND) is belast met de uitvoering van de v
 
 - d. de afdeling Staf.
 
-#### Artikel 63h2
+##### Artikel 63h2
 
 1. Het Wetenschappelijk Onderzoek- en Datacentrum (WODC) is belast met:
 
@@ -1424,11 +1450,11 @@ De Immigratie- en Naturalisatiedienst (IND) is belast met de uitvoering van de v
 
 - e. De afdeling Bedrijfsvoering en Directieondersteuning (B&D).
 
-#### Artikel 63h3
+##### Artikel 63h3
 
 1. De Justitiële ICT Organisatie is belast met het beheer en de (door)ontwikkeling van specifieke en gemeenschappelijke ICT-diensten gericht op de ondersteuning van onderdelen van het Ministerie van Justitie en Veiligheid.
 
-#### Artikel 63h4
+##### Artikel 63h4
 
 1. De Nationale Opvang Organisatie (NOO) is belast met de taak om in het kader van de opvang van Oekraïense ontheemden bij te dragen aan:
 
@@ -1456,13 +1482,13 @@ De Immigratie- en Naturalisatiedienst (IND) is belast met de uitvoering van de v
 
 ### Hoofdstuk 9b. Secretariaat van het Schadefonds Geweldsmisdrijven
 
-#### Artikel 63i
+##### Artikel 63i
 
 Het secretariaat van het Schadefonds Geweldsmisdrijven (secretariaat SGM) is belast met de bedrijfsvoering en ondersteuning van het Schadefonds Geweldsmisdrijven.
 
 ### Hoofdstuk 9b. Secretariaat van het Schadefonds Geweldsmisdrijven
 
-#### Artikel 64
+##### Artikel 64
 
 Bij de hoofden van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-03-16&g=2026-03-16) genoemde dienstonderdelen en daaronder ressorterende dienstonderdelen liggen voor het daarbij werkzame personeel ter inzage:
 
@@ -1470,13 +1496,13 @@ Bij de hoofden van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR004
 
 - b. het organisatie- en formatierapport van het betreffende dienstonderdeel.
 
-#### Artikel 65
+##### Artikel 65
 
 1. Een voornemen tot aanpassing van de organisatie zoals deze is weergegeven in dit besluit, wordt genomen door de secretaris-generaal, gehoord de bestuursraad.
 
 2. De directeur Personeel en Organisatie adviseert de secretaris-generaal alvorens een beslissing omtrent instemming wordt genomen.
 
-#### Artikel 66
+##### Artikel 66
 
 1. Elk onderdeel dat ressorteert onder de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&hoofdstuk=1&artikel=2&z=2026-03-16&g=2026-03-16) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport en, voor zover van toepassing, een taakbesluit en een baten-lastenagentschapsregeling.
 
@@ -1488,13 +1514,13 @@ Bij de hoofden van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR004
 
 5. Alvorens een document als bedoeld in het eerste lid, kan worden vastgesteld, behoeft dit de instemming van de bestuursraad, indien er sprake is van financiële meeruitgaven of een uitbreiding van de personele formatie. De directeur Financieel Economische Zaken en de directeur Personeel en Organisatie adviseren de bestuursraad alvorens een beslissing omtrent instemming wordt genomen.
 
-#### Artikel 67
+##### Artikel 67
 
 1. De directeur Personeel en Organisatie is belast met het beheer van dit besluit.
 
 2. De hoofden van de clusters zijn verantwoordelijk voor een juiste, volledige en tijdige aanlevering aan de directeur Personeel en Organisatie van de gegevens die een goed beheer van dit besluit mogelijk maken.
 
-#### Artikel 68
+##### Artikel 68
 
 1. Na inwerkingtreding van dit besluit wordt in regelingen en besluiten die verwijzen naar het [Organisatiebesluit Ministerie van Veiligheid en Justitie 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036820) of de [Organisatieregeling Ministerie van Veiligheid en Justitie 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030837) gelezen ‘Organisatiebesluit Ministerie van Justitie en Veiligheid’. In afwachting van aanpassing van de verwijzingen in deze regelingen en besluiten moet worden geacht te zijn verwezen naar bepalingen van gelijke strekking uit het Organisatiebesluit Ministerie van Justitie en Veiligheid.
 
@@ -1504,21 +1530,21 @@ Bij de hoofden van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR004
 
 4. Ondermandaten, volmachten en machtigingen verleend door of namens de directeur-generaal Politie dan wel de directeur-generaal Straffen en beschermen blijven van kracht.
 
-#### Artikel 69
+##### Artikel 69
 
 Het [Organisatiebesluit Ministerie van Veiligheid en Justitie 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036820) wordt ingetrokken.
 
-#### Artikel 70
+##### Artikel 70
 
 Vervallen
 
-#### Artikel 71
+##### Artikel 71
 
 Dit besluit wordt aangehaald als: Organisatiebesluit Ministerie van Justitie en Veiligheid.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 56
+##### Artikel 56
 
 Vervallen
 
@@ -1532,7 +1558,7 @@ Vervallen
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
@@ -1550,7 +1576,7 @@ Vervallen
 
 ### Hoofdstuk 8. Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV)
 
-#### Artikel 56
+##### Artikel 56
 
 Vervallen
 
@@ -1562,7 +1588,7 @@ Vervallen
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 63j
+##### Artikel 63j
 
 1. Het bureau van de Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen als bedoeld in [artikel 2, eerste lid van de Wet Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen](https://wetten.overheid.nl/jci1.3:c:BWBR0034176&artikel=2) is belast met de bedrijfsvoering en ondersteuning van de Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen.
 
@@ -1570,7 +1596,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 47
+##### Artikel 47
 
 Vervallen
 
@@ -1580,13 +1606,13 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 3a. Hoofddirecteur bedrijfsvoering (HDBV)
 
-#### Artikel 18b
+##### Artikel 18b
 
 Vervallen
 
 ### Hoofdstuk 4. Directoraat-generaal Straffen en Beschermen (DGSenB)
 
-#### Artikel 47
+##### Artikel 47
 
 Vervallen
 
@@ -1594,7 +1620,7 @@ Vervallen
 
 ### Hoofdstuk 8. Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV)
 
-#### Artikel 56
+##### Artikel 56
 
 Vervallen
 
@@ -1606,7 +1632,7 @@ Vervallen
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 54a
+##### Artikel 54a
 
 1. De portefeuille Bewaken en Beveiligen heeft de volgende taken:
 
@@ -1628,7 +1654,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 - f. het Kenniscentrum Bewaken en Beveiligen.
 
-#### Artikel 63h5
+##### Artikel 63h5
 
 1. De Dienst Identificatie en Screening Asielzoekers (DISA) is als taakorganisatie belast met de uitvoering van de vreemdelingenwetgeving ten aanzien van de identificatie en registratie van vreemdelingen die te kennen geven een aanvraag tot het verlenen van de verblijfsvergunning als bedoeld in [artikel 28 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28) te willen indienen.
 

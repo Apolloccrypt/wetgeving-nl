@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling beleidsregels verstrekken subsidie Dutch Good Growth Fund"
+title: "Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 10 juni 2014, nr. MINBUZA-2014.304011, tot vaststelling van beleidsregels voor het verstrekken van subsidie in het kader van onderdeel 1 van het Dutch Good Growth Fund"
 identifier: "BWBR0035210"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-08-03
-laatste_update: 2024-08-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035210"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-08-03"
+last_updated: "2024-08-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035210"
+soort: "ministeriele-regeling"
+stam_id: "12693423"
+version_id: "21455442"
+internal_id: "C30802021"
+label_id: "12663504"
+dtd_version: "2.0"
+original_entry_into_force: "2014-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035210/2024-08-03/0"
+intitule_bron: "Stcrt.2014-16589"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-06-10"
+intitule_published: "2014-06-18"
+intitule_in_force: "2014-06-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-16589"
+original_signed_date: "2014-06-10"
+original_published_date: "2014-06-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-16589"
+entry_into_force_date: "2014-07-01"
+jci_1_3: "jci1.3:c:BWBR0035210&z=2024-08-03&g=2024-08-03"
+jci_1_0: "1.0:c:BWBR0035210&g=2024-08-03"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling beleidsregels verstrekken subsidie Dutch Good Growth Fund"
+signed_date: "2014-06-10"
+entry_into_force: "2014-07-01"
 ---
-
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 10 juni 2014, nr. MINBUZA-2014.304011, tot vaststelling van beleidsregels voor het verstrekken van subsidie in het kader van onderdeel 1 van het Dutch Good Growth Fund
 
 Gelet op [artikel 6 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=6);
@@ -16,11 +42,11 @@ Gelet op [artikel 7.2 van de Subsidieregeling Ministerie van Buitenlandse Zaken 
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor subsidieverlening in het kader van onderdeel 1 van het Dutch Good Growth Fund door de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, met het oog op het financieren van activiteiten van ondernemingen met het oog op ontwikkelingsrelevante investeringen en handelstransacties in lage- en middeninkomenslanden respectievelijk met partijen in lage- en middeninkomenslanden, gelden de als bijlage bij dit besluit gevoegde beleidsregels.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor subsidieverlening in het kader van het Dutch Good Growth Fund geldt een subsidieplafond van:
 
@@ -32,11 +58,11 @@ Voor subsidieverlening in het kader van onderdeel 1 van het Dutch Good Growth Fu
 
 3. Bij de berekening van de bedragen die beschikbaar zijn voor subsidieverstrekking ten laste van de in het eerste lid, onder a en b, genoemde subsidieplafonds, worden verstrekte middelen die op grond van de aan de subsidie verbonden verplichtingen door de subsidieontvangers aan de Minister zijn terugbetaald, toegerekend aan het plafond genoemd in het eerste lid, onder a.
 
-#### Artikel 3
+##### Artikel 3
 
 Aanvragen worden in volgorde van binnenkomst behandeld.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van 1 juli 2014.
 

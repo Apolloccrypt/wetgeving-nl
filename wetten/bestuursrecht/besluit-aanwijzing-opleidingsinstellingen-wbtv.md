@@ -1,13 +1,35 @@
 ---
 title: "Besluit aanwijzing opleidingsinstellingen Wbtv"
 identifier: "BWBR0036203"
-categorie: "Bestuursrecht"
-publicatiedatum: 2015-02-03
-laatste_update: 2015-02-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036203"
+country: "nl"
+rank: "zbo"
+publication_date: "2015-02-03"
+last_updated: "2015-02-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036203"
+soort: "zbo"
+stam_id: "12969493"
+version_id: "22120582"
+internal_id: "C31721451"
+label_id: "12938724"
+dtd_version: "2.0"
+original_entry_into_force: "2015-02-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036203/2015-02-03/0"
+intitule_bron: "Stcrt.2015-2301"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2015-02-02"
+intitule_in_force: "2015-02-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-2301"
+original_published_date: "2015-02-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-2301"
+entry_into_force_date: "2015-02-03"
+jci_1_3: "jci1.3:c:BWBR0036203&z=2015-02-03&g=2015-02-03"
+jci_1_0: "1.0:c:BWBR0036203&g=2015-02-03"
+citeertitel_status: "officieel"
+entry_into_force: "2015-02-03"
 ---
-
 # Besluit aanwijzing opleidingsinstellingen Wbtv
 
 Gelet op:
@@ -26,7 +48,7 @@ stelt de Raad voor Rechtsbijstand het volgende Besluit aanwijzing opleidingsinst
 
 #### Begrippen en definities
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -62,7 +84,7 @@ In dit besluit wordt verstaan onder:
 
 #### Verzoek tot aanwijzing
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een opleidingsinstelling dient de Raad schriftelijk te verzoeken om haar aan te wijzen als erkende opleidingsinstelling.
 
@@ -72,7 +94,7 @@ In dit besluit wordt verstaan onder:
 
 #### Het kwaliteitsplan
 
-#### Artikel 3
+##### Artikel 3
 
 In het kwaliteitsplan worden tenminste de volgende onderdelen uitvoerig beschreven:
 
@@ -96,7 +118,7 @@ In het kwaliteitsplan worden tenminste de volgende onderdelen uitvoerig beschrev
 
 #### Portfolio
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een scholingsactiviteit van een erkende opleiding voldoet aan de criteria gesteld krachtens artikel 3 van het Beleid PE.
 
@@ -124,7 +146,7 @@ In het kwaliteitsplan worden tenminste de volgende onderdelen uitvoerig beschrev
 
 #### Controle
 
-#### Artikel 5
+##### Artikel 5
 
 1. Om de kwaliteit van erkende opleidingsinstellingen te waarborgen kan de Raad audits uitvoeren.
 
@@ -132,7 +154,7 @@ In het kwaliteitsplan worden tenminste de volgende onderdelen uitvoerig beschrev
 
 #### Intrekken aanwijzing
 
-#### Artikel 6
+##### Artikel 6
 
 De Raad kan een aanwijzing tot erkende opleiding intrekken indien:
 
@@ -142,12 +164,12 @@ De Raad kan een aanwijzing tot erkende opleiding intrekken indien:
 
 #### Slotbepalingen
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als Besluit aanwijzing opleidingsinstellingen Wbtv.
 
 #### Inwerkingtreding
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking één dag na bekendmaking in de Staatscourant.

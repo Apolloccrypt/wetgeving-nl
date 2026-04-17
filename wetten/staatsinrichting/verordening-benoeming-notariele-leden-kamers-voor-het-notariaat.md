@@ -1,13 +1,38 @@
 ---
 title: "Verordening benoeming notariële leden kamers voor het notariaat"
 identifier: "BWBR0045090"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2021-05-13
-laatste_update: 2021-05-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045090"
+country: "nl"
+rank: "pbo"
+publication_date: "2021-05-13"
+last_updated: "2021-05-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045090"
+soort: "pbo"
+stam_id: "15942393"
+version_id: "27738942"
+internal_id: "C39129351"
+label_id: "15876834"
+dtd_version: "2.0"
+original_entry_into_force: "2021-05-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045090/2021-05-13/0"
+intitule_bron: "Stcrt.2021-21918"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-09-16"
+intitule_published: "2021-05-03"
+intitule_in_force: "2021-05-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-21918"
+original_signed_date: "2020-09-16"
+original_published_date: "2021-05-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-21918"
+entry_into_force_date: "2021-05-13"
+jci_1_3: "jci1.3:c:BWBR0045090&z=2021-05-13&g=2021-05-13"
+jci_1_0: "1.0:c:BWBR0045090&g=2021-05-13"
+citeertitel_status: "officieel"
+signed_date: "2020-09-16"
+entry_into_force: "2021-05-13"
 ---
-
 # Verordening benoeming notariële leden kamers voor het notariaat
 
 Overwegende dat het gewenst is regelen te stellen met betrekking tot de benoeming van notariële leden van de kamers voor het notariaat;
@@ -24,7 +49,7 @@ stelt de navolgende verordening vast:
 
 De notariële leden van de kamers voor het notariaat worden voor de tijd van vier jaren door de ledenraad van de KNB, op voordracht van de ringbesturen in het ressort van de desbetreffende kamer voor het notariaat, uit de leden van die ringen benoemd. Gebleken is dat de ringen verschillende procedures hanteren voor deze voordrachten. Om een uniforme voordracht en benoeming te verzekeren heeft het bestuur van de KNB daarom besloten hiervoor bij verordening nadere regels te stellen.
 
-#### Artikel 1
+##### Artikel 1
 
 1. Wanneer moet worden voorzien in de benoeming van een notaris, toegevoegd notaris of kandidaat-notaris tot lid of plaatsvervangend lid van een kamer voor het notariaat stellen de ringbesturen die vallen onder het ressort van de betrokken kamer alle leden van hun ring schriftelijk of per elektronische van het bestaan van de noodzaak van benoeming op de hoogte. Het ringbestuur vraagt de leden hierbij wie zich voor benoeming beschikbaar wil stellen.
 
@@ -64,16 +89,16 @@ Lid 6
 
 De screening in het kader van de Verklaring Omtrent Gedrag valt onder het specifieke screeningsprofiel Juridische dienstverlening en onder het algemene screeningsprofiel omgaan met vertrouwelijke en gevoelige informatie.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De herbenoeming van een lid van de kamer voor het notariaat geschiedt door de ledenraad, zodat een voordracht door het ringbestuur in dat geval niet nodig is.
 
 2. De verklaringen zoals bedoeld in [artikel 1 tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045090&artikel=1&z=2021-05-13&g=2021-05-13) moeten, mocht dit nog niet eerder gebeurd zijn, bij de herbenoeming alsnog worden overlegd.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze verordening wordt aangehaald als de Verordening benoeming notariële leden kamers voor het notariaat.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze verordening treedt in werking met ingang 1 november 2020 of zoveel later als de termijn van tien dagen na publicatie in de Staatscourant als bedoeld in [artikel 91 lid 2 Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=91) is verstreken.

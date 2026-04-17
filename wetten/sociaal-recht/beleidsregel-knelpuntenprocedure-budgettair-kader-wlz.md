@@ -1,20 +1,45 @@
 ---
 title: "Beleidsregel knelpuntenprocedure budgettair kader Wlz"
 identifier: "BWBR0048521"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048521"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048521"
+soort: "zbo"
+stam_id: "16829693"
+version_id: "29570022"
+internal_id: "C42271161"
+label_id: "16742214"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048521/2024-01-01/0"
+intitule_bron: "Stcrt.2023-18661"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-06-27"
+intitule_published: "2023-07-06"
+intitule_in_force: "2023-07-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-18661"
+original_signed_date: "2023-06-27"
+original_published_date: "2023-07-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-18661"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0048521&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0048521&g=2024-01-01"
+citeertitel_status: "officieel"
+signed_date: "2023-06-27"
+entry_into_force: "2024-01-01"
 ---
-
 # Beleidsregel knelpuntenprocedure budgettair kader Wlz
 
 **Grondslag**
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -53,15 +78,15 @@ Bron: memorie van toelichting Wetsvoorstel langdurige zorg
 
 Voor spoedzorg gelden geen wachttijden. Spoedzorg moet te allen tijde geleverd worden.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om vast te leggen wanneer er sprake is van een knelpunt en op welke wijze aanvullende middelen in verband met dit knelpunt kunnen worden aangevraagd.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op de zorg of dienst als omschreven bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) (Wlz) die wordt geleverd door zorgaanbieders.
 
-#### Artikel 4. (Dreigend) knelpunt en aanvraag aanvullende middelen
+##### Artikel 4. (Dreigend) knelpunt en aanvraag aanvullende middelen
 
 Aanvullende middelen in verband met een (dreigend) knelpunt kunnen alleen aangevraagd worden als er (naar verwachting) onvoldoende of geen financiële middelen meer beschikbaar zijn, die kunnen worden ingezet via overhevelingen en/of het inzetten van onderproductie.
 
@@ -113,7 +138,7 @@ Bij een aanvraag van aanvullende middelen in verband met een (dreigend) knelpunt
 
 Indien de aanvraag van aanvullende middelen niet voldoet aan de in artikel 4.3 van deze beleidsregel genoemde voorwaarden, stelt de NZa de desbetreffende partijen daarvan zo spoedig mogelijk op de hoogte. De NZa houdt de beoordeling van de aanvraag aan totdat de aanvraag voldoet aan de in artikel 4.3 genoemde voorwaarden.
 
-#### Artikel 5. Beoordeling aanvraag
+##### Artikel 5. Beoordeling aanvraag
 
 Indien de aanvraag van aanvullende middelen voldoet aan de in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048521&artikel=4&z=2024-01-01&g=2024-01-01) van deze beleidsregel genoemde voorwaarden, informeert de NZa binnen twee weken na ontvangst van deze aanvraag de Minister van VWS. De Minister van VWS neemt vervolgens een beslissing over het toekennen van aanvullende middelen.
 
@@ -125,11 +150,11 @@ De voor persoonsgebonden budgetten toegekende aanvullende middelen worden door d
 
 De NZa kan besluiten om achteraf te toetsen of de aanvraag van aanvullende middelen in verband met een (dreigend) knelpunt terecht was. Naast de in deze beleidsregel genoemde voorwaarden kan de NZa toetsen aan de normen uit de Beleidsregel Normenkader Wlz-uitvoerder (kenmerk TH/BR-026).
 
-#### Artikel 6. Intrekken en vervallen oude beleidsregels
+##### Artikel 6. Intrekken en vervallen oude beleidsregels
 
 De Beleidsregel Knelpuntenprocedure budgettair kader Wlz, met kenmerk BR/REG-18137, die een geldigheidsduur heeft tot 1 januari 2024, komt op laatstgenoemde datum van rechtswege te vervallen.
 
-#### Artikel 7. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
+##### Artikel 7. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
 
 De beleidsregel Knelpuntenprocedure budgettair kader Wlz, met kenmerk BR/REG-18137, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

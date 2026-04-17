@@ -1,13 +1,39 @@
 ---
-title: "Klachtenregeling bijzondere opsporingsdiensten"
+title: "Regeling van de Staatssecretaris van Financiën, de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Minister van Landbouw, Natuur en Voedselkwaliteit en de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 7 december 2007, nr. DGB 2007-5948, houdende regels ten aanzien van de behandeling van klachten over gedragingen van opsporingsambtenaren, werkzaam bij de bijzondere opsporingsdiensten en tot instelling van een onafhankelijke klachtencommissie (Klachtenregeling bijzondere opsporingsdiensten)"
 identifier: "BWBR0023007"
-categorie: "Strafrecht"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023007"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023007"
+soort: "ministeriele-regeling"
+stam_id: "9314613"
+version_id: "14960412"
+internal_id: "C20352621"
+label_id: "9293184"
+dtd_version: "2.0"
+original_entry_into_force: "2008-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023007/2022-01-01/0"
+intitule_bron: "Stcrt.2007-245"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-12-07"
+intitule_published: "2007-12-18"
+intitule_in_force: "2007-12-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-245"
+original_signed_date: "2007-12-07"
+original_published_date: "2007-12-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-245-p13-SC83408"
+entry_into_force_date: "2008-01-01"
+jci_1_3: "jci1.3:c:BWBR0023007&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0023007&g=2022-01-01"
+citeertitel_status: "officieel"
+short_title: "Klachtenregeling bijzondere opsporingsdiensten"
+signed_date: "2007-12-07"
+entry_into_force: "2008-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Financiën, de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Minister van Landbouw, Natuur en Voedselkwaliteit en de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 7 december 2007, nr. DGB 2007-5948, houdende regels ten aanzien van de behandeling van klachten over gedragingen van opsporingsambtenaren, werkzaam bij de bijzondere opsporingsdiensten en tot instelling van een onafhankelijke klachtencommissie (Klachtenregeling bijzondere opsporingsdiensten)
 
 Gelet op [artikel 14 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=14);
@@ -16,7 +42,7 @@ Besluiten:
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -28,7 +54,7 @@ Minister: Minister onder wie de bijzondere opsporingsdienst ressorteert waarbij 
 
 #### § 2. De klachtencommissie
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Klachtencommissie bijzondere opsporingsdiensten, die is belast met de behandeling van klachten en met de advisering over de afhandeling daarvan, over gedragingen van opsporingsambtenaren, werkzaam bij:
 
@@ -46,7 +72,7 @@ Minister: Minister onder wie de bijzondere opsporingsdienst ressorteert waarbij 
 
 4. De voorzitter en de leden van de klachtencommissie ontvangen een vergoeding volgens het [Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279) of een vaste beloning.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De klachtencommissie wordt bijgestaan door of namens een door de Minister van Financiën aangewezen secretaris. De secretaris is geen lid van de klachtencommissie.
 
@@ -56,29 +82,29 @@ Minister: Minister onder wie de bijzondere opsporingsdienst ressorteert waarbij 
 
 #### § 3. De behandeling van schriftelijke klachten
 
-#### Artikel 4
+##### Artikel 4
 
 Een schriftelijke klacht over een gedraging van een opsporingsambtenaar wordt ingediend bij de Minister.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Onverminderd [artikel 9:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:5) en [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=15), vermeldt de Minister bij het bericht van ontvangst, bedoeld in [artikel 9:6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:6), het verloop en de duur van de klachtenprocedure en zendt hij onverwijld een afschrift van de klacht, van de daarbij meegezonden stukken en van de ontvangstbevestiging aan de klachtencommissie.
 
 2. Indien toepassing wordt gegeven aan [artikel 9:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:8), zendt de Minister onverwijld een afschrift van de kennisgeving, bedoeld in [artikel 9:8, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:8), aan de klachtencommissie en aan het hoofd van het functioneel parket.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien de Minister binnen vier weken na de datum van de ontvangstbevestiging een advies ontvangt van het hoofd van het functioneel parket, zendt hij onverwijld een afschrift van dit advies aan de klachtencommissie.
 
 2. Indien het advies van de klachtencommissie afwijkt van een haar tijdig toegezonden advies van het hoofd van het functioneel parket, vermeldt de klachtencommissie de redenen voor afwijking in haar advies.
 
-#### Artikel 7
+##### Artikel 7
 
 De Minister zendt een afschrift van de kennisgeving, bedoeld in [artikel 9:12, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:12), aan de klachtencommissie, het hoofd van het functioneel parket en de betrokken opsporingsambtenaar.
 
 #### § 4. De registratie van klachten
 
-#### Artikel 8
+##### Artikel 8
 
 De klachtencommissie draagt zorg voor:
 
@@ -88,7 +114,7 @@ De klachtencommissie draagt zorg voor:
 
 #### § 5. Inwerkingtreding en overgangsrecht
 
-#### Artikel 9
+##### Artikel 9
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2008.
 
@@ -96,7 +122,7 @@ De klachtencommissie draagt zorg voor:
 
 3. De [Klachtenregeling VROM IOD](https://wetten.overheid.nl/jci1.3:c:BWBR0022421), de [Klachtenregeling AID Dienstonderdeel Opsporing](https://wetten.overheid.nl/jci1.3:c:BWBR0021931) en de [Klachtenregeling SIOD](https://wetten.overheid.nl/jci1.3:c:BWBR0022175) worden ingetrokken.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Klachtenregeling bijzondere opsporingsdiensten.
 

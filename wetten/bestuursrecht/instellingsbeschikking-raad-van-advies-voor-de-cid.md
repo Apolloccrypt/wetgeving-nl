@@ -1,13 +1,37 @@
 ---
 title: "Instellingsbeschikking Raad van Advies voor de CID"
 identifier: "BWBR0007238"
-categorie: "Bestuursrecht"
-publicatiedatum: 1995-05-01
-laatste_update: 1995-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007238"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1995-05-01"
+last_updated: "1995-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007238"
+soort: "ministeriele-regeling"
+stam_id: "3532603"
+version_id: "5315742"
+internal_id: "C5508831"
+label_id: "3512614"
+dtd_version: "2.0"
+original_entry_into_force: "1995-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007238/1995-05-01/0"
+intitule_bron: "Stcrt.1995-46"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-02-15"
+intitule_published: "1995-03-06"
+intitule_in_force: "1995-03-06"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-46"
+original_signed_date: "1995-02-15"
+original_published_date: "1995-03-06"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1995-05-01"
+jci_1_3: "jci1.3:c:BWBR0007238&z=1995-05-01&g=1995-05-01"
+jci_1_0: "1.0:c:BWBR0007238&g=1995-05-01"
+citeertitel_status: "officieel"
+signed_date: "1995-02-15"
+entry_into_force: "1995-05-01"
 ---
-
 # Instellingsbeschikking Raad van Advies voor de CID
 
 Gelet op:
@@ -22,11 +46,11 @@ Overwegende dat het, gelet op het bovenstaande, wenselijk is op het terrein van 
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een Raad van Advies voor de CID.
 
-#### Artikel 2
+##### Artikel 2
 
 De Raad van Advies voor de CID heeft tot taak:
 
@@ -52,7 +76,7 @@ De advisering zal zich in het bijzonder richten op:
 
 - de totstandkoming van een regeling betreffende de recherche-informatie-uitwisseling tussen de nationale CID (NCID), die is ondergebracht bij de divisie CRI van het Korps Landelijke Politiediensten, en EUROPOL.
 
-#### Artikel 3
+##### Artikel 3
 
 De Raad van Advies voor de CID bestaat uit:
 
@@ -84,13 +108,13 @@ De Raad van Advies voor de CID bestaat uit:
 
 - J. Wilzing, korpschef van de regiopolitie IJsselland, lid van de Recherche Advies Commisssie en van de Adviescommissie Criminaliteit van de Raad van Hoofdcommissarissen; vice-voorzitter, tevens lid.
 
-#### Artikel 4
+##### Artikel 4
 
 De Raad van Advies voor de CID kan zich bij zijn werkzaamheden laten adviseren door derden en daartoe zonodig werkgroepen instellen.
 
 In het geval dat advisering door derden kosten met zich zal brengen, dient de voorzitter van de Raad van Advies voor de CID een gemotiveerd verzoek in, gericht aan de Ministers van Justitie en van Binnenlandse Zaken gezamenlijk, om de benodigde financiële middelen ter beschikking te stellen.
 
-#### Artikel 5
+##### Artikel 5
 
 In het geval van een vacature bij de Raad van Advies voor de CID worden de volgende regels in acht genomen:
 
@@ -100,10 +124,10 @@ In het geval van een vacature bij de Raad van Advies voor de CID worden de volge
 
 - Bij benoeming van een nieuw lid wordt zoveel mogelijk rekening gehouden met de handhaving van een evenwichtige samenstelling van de Raad van Advies voor de CID.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze beschikking wordt aangehaald als: Instellingsbeschikking Raad van Advies voor de CID.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze beschikking zal worden gepubliceerd in de Staatscourant en in het Algemeen Politieblad.

@@ -1,14 +1,41 @@
 ---
-title: "Wet algemene bepalingen burgerservicenummer"
+title: "Wet van 21 juli 2007, houdende algemene bepalingen betreffende de toekenning, het beheer en het gebruik van het burgerservicenummer (Wet algemene bepalingen burgerservicenummer)"
 identifier: "BWBR0022428"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2025-11-11
-laatste_update: 2025-11-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022428"
+country: "nl"
+rank: "wet"
+publication_date: "2025-11-11"
+last_updated: "2025-11-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022428"
+soort: "wet"
+stam_id: "9189493"
+version_id: "14712602"
+internal_id: "C20256711"
+label_id: "9168524"
+dtd_version: "2.0"
+original_entry_into_force: "2007-11-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022428/2025-11-11/0"
+intitule_bron: "Stb.2007-288"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-07-21"
+intitule_published: "2007-08-28"
+intitule_in_force: "2007-11-15"
+intitule_status: "goed"
+original_publication: "Stb.2007-288"
+original_signed_date: "2007-07-21"
+original_published_date: "2007-08-28"
+original_effect: "nieuwe-regeling"
+original_dossier: "30312"
+original_url_id: "stb-2007-288"
+entry_into_force_date: "2007-11-26"
+jci_1_3: "jci1.3:c:BWBR0022428&z=2025-11-11&g=2025-11-11"
+jci_1_0: "1.0:c:BWBR0022428&g=2025-11-11"
+citeertitel_status: "officieel"
+short_title: "Wet algemene bepalingen burgerservicenummer"
+signed_date: "2007-07-21"
+entry_into_force: "2007-11-26"
 ---
-
-# Wet algemene bepalingen burgerservicenummer
+# Wet van 21 juli 2007, houdende algemene bepalingen betreffende de toekenning, het beheer en het gebruik van het burgerservicenummer (Wet algemene bepalingen burgerservicenummer)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -42,7 +69,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. nummerregister: het nummerregister dat deel uitmaakt van de beheervoorziening.
 
-#### Artikel 2
+##### Artikel 2
 
 Het burgerservicenummer bevat geen informatie over de persoon aan wie het is toegekend.
 
@@ -50,7 +77,7 @@ Het burgerservicenummer bevat geen informatie over de persoon aan wie het is toe
 
 #### Paragraaf 1. De beheervoorziening
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onze Minister draagt zorg voor de inrichting en de instandhouding van een beheervoorziening, waarvan deel uitmaken:
 
@@ -72,7 +99,7 @@ Het burgerservicenummer bevat geen informatie over de persoon aan wie het is toe
 
 #### Paragraaf 2. Het nummerregister
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het nummerregister bevat:
 
@@ -82,23 +109,23 @@ Het burgerservicenummer bevat geen informatie over de persoon aan wie het is toe
 
 2. Bij of krachtens de maatregel, bedoeld in het eerste lid, onder b, worden tevens regels gesteld omtrent het opnemen, wijzigen en verwijderen van de administratieve gegevens.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een college van burgemeester en wethouders of een bestuurscollege verschaft Onze Minister onverwijld de inlichtingen omtrent de toekenning, die voor de bijhouding van het nummerregister van belang zijn.
 
 2. Bij ministeriële regeling worden regels gesteld omtrent de in het eerste lid bedoelde inlichtingen.
 
-#### Artikel 6
+##### Artikel 6
 
 Bij of krachtens algemene maatregel van bestuur kunnen verplichtingen worden geregeld van overheidsorganen om aan Onze Minister de inlichtingen te verschaffen die voor de bijhouding van het nummerregister van belang zijn.
 
 ### Hoofdstuk 3. Aanmaken en toekennen van burgerservicenummers
 
-#### Artikel 7
+##### Artikel 7
 
 Onze Minister draagt er zorg voor dat een nummer dat als burgerservicenummer kan worden toegekend slechts éénmaal wordt aangemaakt en ter beschikking gesteld aan een bestuursorgaan dat bevoegd is het nummer toe te kennen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het college van burgemeester en wethouders, onderscheidenlijk Onze Minister, kent onmiddellijk na de inschrijving van een persoon als ingezetene, onderscheidenlijk niet-ingezetene, in de basisregistratie personen, aan de ingeschrevene een burgerservicenummer toe, tenzij aan hem reeds een burgerservicenummer is toegekend.
 
@@ -112,7 +139,7 @@ Onze Minister draagt er zorg voor dat een nummer dat als burgerservicenummer kan
 
 6. Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de uitvoering van dit artikel, waaronder regels betreffende de verplichtingen van overheidsorganen om gegevens te verstrekken die voor de uitvoering noodzakelijk zijn. De maatregel bepaalt in ieder geval welke gegevens in verband met de uitvoering van dit artikel worden verstrekt aan het bestuursorgaan dat het burgerservicenummer toekent.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het bestuursorgaan dat een burgerservicenummer heeft toegekend, stelt degene aan wie het nummer is toegekend daarvan binnen vier weken na de toekenning in kennis onder vermelding van het desbetreffende burgerservicenummer.
 
@@ -124,11 +151,11 @@ Onze Minister draagt er zorg voor dat een nummer dat als burgerservicenummer kan
 
 #### Paragraaf 1. Het gebruik van het burgerservicenummer
 
-#### Artikel 10
+##### Artikel 10
 
 Overheidsorganen kunnen bij het verwerken van persoonsgegevens in het kader van de uitvoering van hun taak gebruik maken van het burgerservicenummer, met inachtneming van hetgeen bij of krachtens dit hoofdstuk is bepaald.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Bij het uitwisselen van persoonsgegevens tussen gebruikers onderling, waarbij een persoonsnummer wordt gebruikt als middel om persoonsgegevens in verband te brengen met een persoon aan wie een burgerservicenummer is toegekend, wordt het burgerservicenummer van die persoon vermeld.
 
@@ -138,21 +165,21 @@ Overheidsorganen kunnen bij het verwerken van persoonsgegevens in het kader van 
 
 - b. sprake is van bijzondere omstandigheden waarin het gebruik van het burgerservicenummer in een individueel geval onwenselijk is met het oog op de bescherming van de persoonlijke levenssfeer van de betrokkene, de opsporing of vervolging van strafbare feiten dan wel de veiligheid van de staat.
 
-#### Artikel 12
+##### Artikel 12
 
 Indien bij het verwerken van persoonsgegevens een burgerservicenummer wordt gebruikt, vergewist de gebruiker zich ervan dat het burgerservicenummer betrekking heeft op de persoon wiens persoonsgegevens hij verwerkt.
 
-#### Artikel 13
+##### Artikel 13
 
 Degene aan wie een burgerservicenummer is toegekend, dan wel diens wettelijk vertegenwoordiger, kan niet worden verplicht bij het verstrekken van persoonsgegevens aan een gebruiker een ander persoonsnummer te verstrekken dan het burgerservicenummer dat aan hem, onderscheidenlijk aan degene die hij vertegenwoordigt, is toegekend.
 
 #### Paragraaf 2. Het verstrekken van inlichtingen aan gebruikers
 
-#### Artikel 14
+##### Artikel 14
 
 Aan een gebruiker worden op zijn verzoek uit het nummerregister de inlichtingen verstrekt, die hij nodig heeft in verband met het gebruik van een burgerservicenummer.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Aan een overheidsorgaan worden in verband met de uitvoering van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=4&paragraaf=1&artikel=12&z=2025-11-11&g=2025-11-11) op zijn verzoek uit de registraties, bedoeld in [artikel 3, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=2&paragraaf=1&artikel=3&z=2025-11-11&g=2025-11-11), de gegevens verstrekt, die hij nodig heeft teneinde na te gaan:
 
@@ -172,7 +199,7 @@ Aan een gebruiker worden op zijn verzoek uit het nummerregister de inlichtingen 
 
 4. In de gevallen, bedoeld in het derde lid, is het eerste lid van overeenkomstige toepassing.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld betreffende de voorwaarden waaronder en de wijze waarop gebruikers in verband met de uitvoering van deze paragraaf gebruik kunnen maken van:
 
@@ -186,7 +213,7 @@ Aan een gebruiker worden op zijn verzoek uit het nummerregister de inlichtingen 
 
 #### Paragraaf 3. Sectorale berichtenvoorzieningen
 
-#### Artikel 17
+##### Artikel 17
 
 1. Bij algemene maatregel van bestuur, op voordracht van Onze Minister die het aangaat, kan worden bepaald dat bij of krachtens de maatregel aangewezen gebruikers of categorieën van gebruikers uitsluitend door tussenkomst van een bij de algemene maatregel van bestuur ingestelde sectorale berichtenvoorziening gebruik kunnen maken van de voorzieningen, bedoeld in [artikel 3, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=2&paragraaf=1&artikel=3&z=2025-11-11&g=2025-11-11). De maatregel bepaalt wie met betrekking tot de sectorale berichtenvoorziening de verantwoordelijke is.
 
@@ -202,7 +229,7 @@ Aan een gebruiker worden op zijn verzoek uit het nummerregister de inlichtingen 
 
 ### Hoofdstuk 5. Bescherming van persoonsgegevens, toezicht en controle
 
-#### Artikel 18
+##### Artikel 18
 
 1. Onze Minister draagt zorg voor de inrichting en de instandhouding van een voorziening met behulp waarvan voor eenieder algemene informatie beschikbaar wordt gesteld met betrekking tot:
 
@@ -214,15 +241,15 @@ Aan een gebruiker worden op zijn verzoek uit het nummerregister de inlichtingen 
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de verplichting, bedoeld in het tweede lid.
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 1. Onze Minister verricht eens per drie jaar een onderzoek naar de inrichting, de werking en de beveiliging van de beheervoorziening.
 
@@ -234,31 +261,31 @@ Vervallen
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
-#### Artikel 22
+##### Artikel 22
 
 1. Het bestuurscollege kent onmiddellijk een burgerservicenummer toe aan een persoon die op het moment van inwerkingtreding van [artikel I, onderdeel C, van de Wet invoering BSN en voorzieningen digitale overheid BES](https://wetten.overheid.nl/jci1.3:c:BWBR0051725&artikel=I) reeds in de basisadministratie is ingeschreven op grond van [artikel 5 van de Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=5), tenzij aan hem reeds een burgerservicenummer is toegekend.
 
 2. [Artikel 8, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=3&artikel=8&z=2025-11-11&g=2025-11-11), is van overeenkomstige toepassing.
 
-#### Artikel 23
+##### Artikel 23
 
 Na de inwerkingtreding van [artikel I, onderdeel C, van de Wet invoering BSN en voorzieningen digitale overheid BES](https://wetten.overheid.nl/jci1.3:c:BWBR0051725&artikel=I) berust het [Besluit burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022829) mede op de [artikelen 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=3&artikel=8&z=2025-11-11&g=2025-11-11), en [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&hoofdstuk=6&artikel=22&z=2025-11-11&g=2025-11-11), van deze wet.
 
-#### Artikel 24
+##### Artikel 24
 
 Wijzigt de Wet gemeentelijke basisadministratie persoonsgegevens.
 
-#### Artikel 25
+##### Artikel 25
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, waarbij onderscheid kan worden gemaakt tussen categorieën van gebruikers.
 
-#### Artikel 26
+##### Artikel 26
 
 Deze wet wordt aangehaald als: Wet algemene bepalingen burgerservicenummer.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. Deze wet en de daarop berustende bepalingen zijn mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 

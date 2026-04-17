@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling selectielijst deelbeleidsterrein personeelszaken, t.w. het personeelsdossier, over de periode vanaf 1946 (Eerste Kamer der Staten-Generaal)"
+title: "Besluit van 27 november 2013, nr. 2013002424 houdende vaststelling van een selectielijst voor de Eerste Kamer der Staten-Generaal op het deelbeleidsterrein van personeelszaken, t.w. het personeelsdossier, over de periode vanaf 1946"
 identifier: "BWBR0034592"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2014-01-02
-laatste_update: 2014-01-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034592"
+country: "nl"
+rank: "kb"
+publication_date: "2014-01-02"
+last_updated: "2014-01-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034592"
+soort: "KB"
+stam_id: "12534033"
+version_id: "21099462"
+internal_id: "C30286551"
+label_id: "12504544"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034592/2014-01-02/0"
+intitule_bron: "Stcrt.2013-36674"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-11-27"
+intitule_published: "2013-12-31"
+intitule_in_force: "2013-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-36674"
+original_signed_date: "2013-11-27"
+original_published_date: "2013-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-36674"
+entry_into_force_date: "2014-01-02"
+jci_1_3: "jci1.3:c:BWBR0034592&z=2014-01-02&g=2014-01-02"
+jci_1_0: "1.0:c:BWBR0034592&g=2014-01-02"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling selectielijst deelbeleidsterrein personeelszaken, t.w. het personeelsdossier, over de periode vanaf 1946 (Eerste Kamer der Staten-Generaal)"
+signed_date: "2013-11-27"
+entry_into_force: "2014-01-02"
 ---
-
 # Besluit van 27 november 2013, nr. 2013002424 houdende vaststelling van een selectielijst voor de Eerste Kamer der Staten-Generaal op het deelbeleidsterrein van personeelszaken, t.w. het personeelsdossier, over de periode vanaf 1946
 
 Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap van 16 november 2013, kenmerk NA/13/12.283, agentschap Nationaal Archief;
@@ -16,11 +42,11 @@ Gelet op [artikel 5, tweede lid, aanhef en onder a, van de Archiefwet 1995](http
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘Selectielijst voor de Eerste Kamer der Staten-Generaal op het deelbeleidsterrein van personeelszaken, t.w. het personeelsdossier, over de periode vanaf 1946’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

@@ -1,13 +1,37 @@
 ---
 title: "Regeling financiering Landelijk selectie- en opleidingsinstituut politie"
 identifier: "BWBR0006091"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 1993-08-22
-laatste_update: 1993-08-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006091"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1993-08-22"
+last_updated: "1993-08-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006091"
+soort: "ministeriele-regeling"
+stam_id: "3997403"
+version_id: "5760522"
+internal_id: "C5963261"
+label_id: "3977454"
+dtd_version: "2.0"
+original_entry_into_force: "1993-08-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006091/1993-08-22/0"
+intitule_bron: "Stcrt.1993-158"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-07-21"
+intitule_published: "1993-08-20"
+intitule_in_force: "1993-08-20"
+intitule_status: "goed"
+original_publication: "Stcrt.1993-158"
+original_signed_date: "1993-07-21"
+original_published_date: "1993-08-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1993-08-22"
+jci_1_3: "jci1.3:c:BWBR0006091&z=1993-08-22&g=1993-08-22"
+jci_1_0: "1.0:c:BWBR0006091&g=1993-08-22"
+citeertitel_status: "officieel"
+signed_date: "1993-07-21"
+entry_into_force: "1993-08-22"
 ---
-
 # Regeling financiering Landelijk selectie- en opleidingsinstituut politie
 
 Overwegende, dat de Ministers van Justitie en van Binnenlandse Zaken verantwoordelijk zijn voor de landelijke werving, de selectie en het onderwijs voor de politie;
@@ -26,15 +50,15 @@ Gelet op artikel 76, vierde lid, van de Politiewet;
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 Aan het Landelijk instituut worden jaarlijks bijdragen uit 's-Rijks kas verleend ter tegemoetkoming in de kosten die door het Landelijk instituut worden gemaakt ter uitvoering van de wettelijk opgedragen taken, verminderd met de hiermee verband houdende inkomsten.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De rijksbijdragen aan het Landelijk instituut worden vastgesteld met inachtneming van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006091&artikel=4&z=1993-08-22&g=1993-08-22) tot en met [9](https://wetten.overheid.nl/jci1.3:c:BWBR0006091&artikel=9&z=1993-08-22&g=1993-08-22).
 
@@ -44,7 +68,7 @@ Aan het Landelijk instituut worden jaarlijks bijdragen uit 's-Rijks kas verleend
 
 - b. bijzondere bijdragen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006091&artikel=7&z=1993-08-22&g=1993-08-22).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Vóór 1 december van ieder jaar zendt de Minister aan het Landelijk instituut een begrotingsaanschrijving met richtlijnen ten behoeve van het opstellen en indienen van de begroting van het Landelijk instituut voor het begrotingsjaar volgend op het eerstvolgende begrotingsjaar.
 
@@ -52,7 +76,7 @@ Aan het Landelijk instituut worden jaarlijks bijdragen uit 's-Rijks kas verleend
 
 3. Vóór 1 april zendt het Landelijk instituut een jaarrekening over het daaraan voorafgaande begrotingsjaar aan de beide Ministers.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Vóór 1 november en onder voorbehoud van goedkeuring van de hoofdstukken VI en VII van de Rijksbegroting, wordt de exploitatiebijdrage voor het eerstvolgende begrotingsjaar voorlopig vastgesteld onder gelijktijdige goedkeuring van de begroting.
 
@@ -60,13 +84,13 @@ Aan het Landelijk instituut worden jaarlijks bijdragen uit 's-Rijks kas verleend
 
 3. Vóór 1 augustus wordt de exploitatiebijdrage over het voorafgaande begrotingsjaar definitief vastgesteld op basis van de ontvangen en beoordeelde verantwoordingsinformatie, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006091&artikel=9&z=1993-08-22&g=1993-08-22). Deze exploitatiebijdrage mag het in de begroting toegestane maximum niet overschrijden.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De voorlopige exploitatiebijdrage wordt door de Minister in vier termijnen als voorschot betaalbaar gesteld, respectievelijk op 1 februari, 1 mei, 1 augustus en 1 november van het lopende begrotingsjaar.
 
 2. Verrekening van het verschil tussen de definitieve exploitatiebijdrage en de verstrekte voorschotten vindt plaats met de eerstvolgende voorschotbetaling na de vaststelling van de definitieve exploitatiebijdrage.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Aan het Landelijk instituut kan een bijzondere bijdrage worden verleend, indien zich maatschappelijke ontwikkelingen voordoen die het takenpakket van het Landelijk instituut wijzigen.
 
@@ -76,7 +100,7 @@ Aan het Landelijk instituut worden jaarlijks bijdragen uit 's-Rijks kas verleend
 
 4. Algehele of gedeeltelijke terugvordering van de betaalde bijzondere bijdrage vindt plaats op basis van de ontvangen en beoordeelde verantwoordingsinformatie, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006091&artikel=9&z=1993-08-22&g=1993-08-22).
 
-#### Artikel 8
+##### Artikel 8
 
 1. In de jaarrekening, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006091&artikel=4&z=1993-08-22&g=1993-08-22), worden overzichten opgenomen van de feitelijke personeelssterkte, de investeringen, de reserves en de voorzieningen de geldleningen, alsmede van de gerealiseerde opleidingen volgens de werkplannen, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006091&artikel=4&z=1993-08-22&g=1993-08-22). Hierbij dient een analyse te worden gegeven van de verschillen in voorgenomen en gerealiseerde prijs/prestatienormen.
 
@@ -90,7 +114,7 @@ Aan het Landelijk instituut worden jaarlijks bijdragen uit 's-Rijks kas verleend
 
 6. In de jaarrekening wordt het gestelde in het vijfde lid zichtbaar gemaakt.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De jaarrekening, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006091&artikel=4&z=1993-08-22&g=1993-08-22), wordt voorzien van een accountantsverklaring, af te geven door een registeraccountant.
 
@@ -98,7 +122,7 @@ Aan het Landelijk instituut worden jaarlijks bijdragen uit 's-Rijks kas verleend
 
 3. Aan de ambtenaren van de accountantsdienst van de Minister wordt op eerste vordering alle informatie verstrekt die zij noodzakelijk achten. Voorts kunnen deze ambtenaren op eigen initiatief informatie inwinnen bij de registeraccountant die met de controle is belast.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Betalingen die in 1992 door het Rijk zijn gedaan aan of ten behoeve van de instituten die per 1 juli 1992 zijn opgegaan in het Landelijk instituut, worden verrekend met de voor dit jaar vastgestelde bijdrage.
 

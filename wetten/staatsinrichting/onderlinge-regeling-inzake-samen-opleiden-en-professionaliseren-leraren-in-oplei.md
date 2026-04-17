@@ -1,13 +1,39 @@
 ---
-title: "Onderlinge regeling inzake Samen Opleiden en Professionaliseren Leraren in Opleiding in het Caribisch deel Koninkrijk der Nederlanden"
+title: "Onderlinge regeling inzake Samen Opleiden en Professionaliseren van Leraren in Opleiding in het Caribisch deel van het Koninkrijk der Nederlanden"
 identifier: "BWBR0051885"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2025-11-07
-laatste_update: 2025-11-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051885"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-11-07"
+last_updated: "2025-11-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051885"
+soort: "ministeriele-regeling"
+stam_id: "17627043"
+version_id: "31116472"
+internal_id: "C44538801"
+label_id: "17527314"
+dtd_version: "2.0"
+original_entry_into_force: "2025-11-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051885/2025-11-07/0"
+intitule_bron: "Stcrt.2025-41021"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-11-06"
+intitule_published: "2025-12-02"
+intitule_in_force: "2025-12-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-41021"
+original_signed_date: "2025-11-06"
+original_published_date: "2025-12-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-41021"
+entry_into_force_date: "2025-11-07"
+jci_1_3: "jci1.3:c:BWBR0051885&z=2025-11-07&g=2025-11-07"
+jci_1_0: "1.0:c:BWBR0051885&g=2025-11-07"
+citeertitel_status: "redactioneel"
+short_title: "Onderlinge regeling inzake Samen Opleiden en Professionaliseren Leraren in Opleiding in het Caribisch deel Koninkrijk der Nederlanden"
+signed_date: "2025-11-06"
+entry_into_force: "2025-11-07"
 ---
-
 # Onderlinge regeling inzake Samen Opleiden en Professionaliseren van Leraren in Opleiding in het Caribisch deel van het Koninkrijk der Nederlanden
 
 Overwegende dat:
@@ -40,7 +66,7 @@ Komen het volgende overeen:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Paragraaf 1. Doelstelling
+##### Paragraaf 1. Doelstelling
 
 De afspraken in deze onderlinge regeling hebben tot doel:
 
@@ -48,13 +74,13 @@ De afspraken in deze onderlinge regeling hebben tot doel:
 
 - 2. te inventariseren of het wenselijk en haalbaar is om het onderwijsconcept Samen Opleiden en Professionaliseren ook in Sint Maarten, Saba en Sint Eustatius te ontplooien, rekening houdend met de betreffende onderwijstaal en onderwijssysteem.
 
-#### Paragraaf 2. Beschikbaarstelling
+##### Paragraaf 2. Beschikbaarstelling
 
 - 1. Onder voorwaarde van goedkeuring door de Nederlandse begrotingswetgever, stelt Nederland met dit programma jaarlijks financiële middelen beschikbaar aan de penvoerder ten behoefte aan activiteiten die zich richten op de doelstelling als omschreven in [paragraaf 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051885&paragraaf=1&z=2025-11-07&g=2025-11-07).
 
 - 2. Aruba en Curaçao dragen bij door het in stand houden en bekostigen van de lerarenopleidingen, voor zowel primair als voortgezet onderwijs, aan de Instituto Pedagogico Arubano (IPA), University of Aruba (UA) en University of Curaçao (UoC).
 
-#### Paragraaf 3. Subsidie
+##### Paragraaf 3. Subsidie
 
 - 1. Voor de looptijd van deze onderlinge regeling stelt Nederland jaarlijks een totaalbudget van € 862.000,– beschikbaar aan de penvoerder voor de uitvoering van de activiteitenplannen van het Partnerschap Kibrahacha.
 
@@ -64,7 +90,7 @@ De afspraken in deze onderlinge regeling hebben tot doel:
 
 - 4. De penvoerder vraagt jaarlijks uiterlijk op 15 augustus subsidie aan bij Nederland op grond van de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Paragraaf 4. Lerarenopleidingen op Aruba en Curaçao
+##### Paragraaf 4. Lerarenopleidingen op Aruba en Curaçao
 
 - 1. Onderscheidenlijk Aruba en Curaçao zetten zich in om de huidige tweede- en eerstegraads lerarenopleidingen aangeboden door respectievelijk Instituto Pedagogico Arubano en University of Aruba (Aruba) en University of Curaçao (Curaçao) vanaf september 2026 om te vormen en passend te maken voor het onderwijsconcept van Samen Opleiden en Professionaliseren.
 
@@ -72,19 +98,19 @@ De afspraken in deze onderlinge regeling hebben tot doel:
 
 - 3. Aruba en Curaçao dragen bij aan de regie en coördinatie van hun instituten, te weten de inzet van opleiders, de coördinatie vanuit de instituten en de vertegenwoordiging in de stuurgroep Kibrahacha.
 
-#### Paragraaf 5. Peer-review
+##### Paragraaf 5. Peer-review
 
 - 1. Een onafhankelijk panel voert in opdracht van het Partnerschap Kibrahacha in 2026 en in 2030 een ontwikkelingsgerichte peer-review uit bij het Partnerschap Kibrahacha.
 
 - 2. De peer-review wordt uitgevoerd naar analogie van het Kwaliteitskader Samen Opleiden in de Onderwijsregio, zoals in Nederland wordt gehanteerd, houdt rekening met de lokale context met haar specifieke pedagogisch-didactische eisen en bevat vier waarborgen: de lerende leraar, de leeromgeving, de organisatie en de kwaliteitscultuur.
 
-#### Paragraaf 6. Inwerkingtreding en looptijd
+##### Paragraaf 6. Inwerkingtreding en looptijd
 
 - 1. Deze onderlinge regeling treedt in werking met ingang van de dag na ondertekening door alle Partijen en eindigt met ingang van 31 december 2031.
 
 - 2. Indien zich omstandigheden voordoen die van dien aard zijn dat deze onderlinge regeling behoort te worden gewijzigd, treden de Partijen daarover terstond met elkaar in overleg.
 
-#### Paragraaf 7. Publicatie
+##### Paragraaf 7. Publicatie
 
 - 1. Binnen 30 dagen na ondertekening van deze onderlinge regeling, wordt de tekst daarvan gepubliceerd in de Staatscourant en in de publicatiebladen van de andere Partijen.
 

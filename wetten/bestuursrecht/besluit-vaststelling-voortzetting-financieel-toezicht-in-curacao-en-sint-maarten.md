@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling voortzetting financieel toezicht in Curaçao en Sint Maarten 2024"
+title: "Besluit van 9 oktober 2024, nr. 2024002245 houdende de vaststelling tot voortzetting van het financieel toezicht in Curaçao en Sint Maarten"
 identifier: "BWBR0050339"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-10-30
-laatste_update: 2024-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050339"
+country: "nl"
+rank: "kb"
+publication_date: "2024-10-30"
+last_updated: "2024-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050339"
+soort: "KB"
+stam_id: "17250593"
+version_id: "30383792"
+internal_id: "C43572291"
+label_id: "17156134"
+dtd_version: "2.0"
+original_entry_into_force: "2024-10-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050339/2024-10-30/0"
+intitule_bron: "Stcrt.2024-34256"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-10-09"
+intitule_published: "2024-10-30"
+intitule_in_force: "2024-10-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-34256"
+original_signed_date: "2024-10-09"
+original_published_date: "2024-10-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-34256"
+entry_into_force_date: "2024-10-30"
+jci_1_3: "jci1.3:c:BWBR0050339&z=2024-10-30&g=2024-10-30"
+jci_1_0: "1.0:c:BWBR0050339&g=2024-10-30"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling voortzetting financieel toezicht in Curaçao en Sint Maarten 2024"
+signed_date: "2024-10-09"
+entry_into_force: "2024-10-30"
 ---
-
 # Besluit van 9 oktober 2024, nr. 2024002245 houdende de vaststelling tot voortzetting van het financieel toezicht in Curaçao en Sint Maarten
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 9 oktober 2024, nr. 2024-0000817510, Directoraat-Generaal Koninkrijksrelaties, in overeenstemming met de conclusie van de raad van ministers van het Koninkrijk van 4 oktober 2024;

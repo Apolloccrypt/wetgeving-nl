@@ -1,13 +1,39 @@
 ---
-title: "Regeling bescherming koopvaardij"
+title: "Regeling van de Minister van Justitie en Veiligheid van 19 januari 2021 houdende nadere regels ter uitvoering van de Wet ter Bescherming Koopvaardij en het Besluit bescherming koopvaardij (Regeling bescherming koopvaardij)"
 identifier: "BWBR0046257"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2023-10-12
-laatste_update: 2023-10-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046257"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-10-12"
+last_updated: "2023-10-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046257"
+soort: "ministeriele-regeling"
+stam_id: "16252653"
+version_id: "28397622"
+internal_id: "C40049871"
+label_id: "16180294"
+dtd_version: "2.0"
+original_entry_into_force: "2022-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046257/2023-10-12/0"
+intitule_bron: "Stcrt.2022-3319"
+intitule_effect: "wijziging"
+intitule_signed: "2022-01-19"
+intitule_published: "2022-01-31"
+intitule_in_force: "2022-01-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-3319"
+original_signed_date: "2022-01-19"
+original_published_date: "2022-01-31"
+original_effect: "wijziging"
+original_url_id: "stcrt-2022-3319"
+entry_into_force_date: "2022-02-01"
+jci_1_3: "jci1.3:c:BWBR0046257&z=2023-10-12&g=2023-10-12"
+jci_1_0: "1.0:c:BWBR0046257&g=2023-10-12"
+citeertitel_status: "officieel"
+short_title: "Regeling bescherming koopvaardij"
+signed_date: "2022-01-19"
+entry_into_force: "2022-02-01"
 ---
-
 # Regeling van de Minister van Justitie en Veiligheid van 19 januari 2021 houdende nadere regels ter uitvoering van de Wet ter Bescherming Koopvaardij en het Besluit bescherming koopvaardij (Regeling bescherming koopvaardij)
 
 Gelet op de [artikelen 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=4), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=6), [eerste, derde en vierde lid, 8](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=8), [11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=11), [12, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=12), [13, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=13), en [17, eerste en tweede lid, van de Wet ter Bescherming Koopvaardij](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=17) en de [artikelen 2.2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=2.2), [2.4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=2.4), [3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=3.2), [5.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=5.4), [5.5, derde lid, onder c, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=5.5), [5.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=5.6), [5.7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=5.7), [5.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=5.8), [5.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=5.9), [5.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=5.10), [5.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=5.13), [6.1, tweede lid, van het Besluit bescherming koopvaardij](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=6.1),
@@ -18,7 +44,7 @@ Treedt in werking op het tijdstip waarop de Wet ter Bescherming Koopvaardij in w
 
 ### Hoofstuk 1. Algemene bepalingen
 
-#### Artikel 1. (definities)
+##### Artikel 1. (definities)
 
 In deze regeling wort verstaan onder:
 
@@ -38,11 +64,11 @@ In deze regeling wort verstaan onder:
 
 ### Hoofdstuk 2. De toestemming voor de inzet van particulier maritiem beveiligingspersoneel
 
-#### Artikel 2. (toestemmingsaanvraag)
+##### Artikel 2. (toestemmingsaanvraag)
 
 Bij de aanvraag om toestemming als bedoeld in [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=4) wordt ten behoeve van het verstrekken van gegevens en daarbij over te leggen bescheiden gebruik gemaakt van het model-formulier zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&bijlage=1&z=2023-10-12&g=2023-10-12).
 
-#### Artikel 3. (beschermingsmaatregelen)
+##### Artikel 3. (beschermingsmaatregelen)
 
 1. De scheepsbeheerder waarborgt in ieder geval de beschikbaarheid van de volgende beschermingsmaatregelen, bedoeld in [artikel 6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=6):
 
@@ -84,7 +110,7 @@ Bij de aanvraag om toestemming als bedoeld in [artikel 4 van de wet](https://wet
 
 ### Hoofdstuk 3. De inzet van particulier maritiem beveiligingspersoneel
 
-#### Artikel 4. (wapenkluis en vervoerskoffers)
+##### Artikel 4. (wapenkluis en vervoerskoffers)
 
 1. De wapenkluis is slechts toegankelijk voor de kapitein, of met diens expliciete toestemming, de teamleider of een andere door de kapitein aangewezen functionaris.
 
@@ -106,7 +132,7 @@ Bij de aanvraag om toestemming als bedoeld in [artikel 4 van de wet](https://wet
 
 10. De teamleider ziet erop toe dat de vuurwapens regelmatig worden onderhouden en adequaat werken overeenkomstig de instructies van de vergunninghouder.
 
-#### Artikel 5. (helmcamera en microfoon)
+##### Artikel 5. (helmcamera en microfoon)
 
 1. Een ieder die deel uitmaakt van het particulier maritiem beveiligingspersoneel maakt gebruik van een helmcamera met microfoon om beeld- en geluidsopnames te maken als bedoeld in lid, [artikel 11, tweede van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=11).
 
@@ -126,7 +152,7 @@ Bij de aanvraag om toestemming als bedoeld in [artikel 4 van de wet](https://wet
 
 - g. beschikken over een batterijduur van ten minste zes uur.
 
-#### Artikel 6. (embarkatie, rapportage, melding aangewend geweld)
+##### Artikel 6. (embarkatie, rapportage, melding aangewend geweld)
 
 1. De scheepsbeheerder verstrekt de kapitein de informatie, bedoeld in [artikel 2.4, eerste en tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=2.4), ten minste vier uren voor embarkatie van het beveiligingsteam, de geweldsmiddelen en de apparatuur.
 
@@ -138,7 +164,7 @@ Bij de aanvraag om toestemming als bedoeld in [artikel 4 van de wet](https://wet
 
 ### Hoofdstuk 4. De vergunning
 
-#### Artikel 7. (vergunningaanvraag)
+##### Artikel 7. (vergunningaanvraag)
 
 1. De Inspectie hanteert een model-formulier ten behoeve van het verstrekken van gegevens ten behoeve van het aanvragen van een vergunning. De aanvrager voegt de op het aanvraagformulier vermelde bescheiden en bewijsstukken toe als bijlagen bij de aanvraag.
 
@@ -156,7 +182,7 @@ Bij de aanvraag om toestemming als bedoeld in [artikel 4 van de wet](https://wet
 
 - d. de kwaliteit van de te leveren maritieme beveiliging.
 
-#### Artikel 8. (leges)
+##### Artikel 8. (leges)
 
 1. De leges voor de afdoening van een aanvraag van een vergunning bedragen in totaal € 17.220,–. Voor de initiële afdoening van een aanvraag van een vergunning zijn leges verschuldigd ten bedrage van € 7.220,–. Voor de finale afdoening van een aanvraag van een vergunning zijn leges verschuldigd ten bedrage van € 10.000,–.
 
@@ -168,7 +194,7 @@ Bij de aanvraag om toestemming als bedoeld in [artikel 4 van de wet](https://wet
 
 #### Paragraaf 5.1. Eisen aan de onderneming
 
-#### Artikel 9. (continuïteit van de onderneming)
+##### Artikel 9. (continuïteit van de onderneming)
 
 1. De continuïteit van het maritiem beveiligingsbedrijf wordt geacht redelijkerwijs te zijn gewaarborgd indien het bedrijf beschikt over:
 
@@ -182,7 +208,7 @@ Bij de aanvraag om toestemming als bedoeld in [artikel 4 van de wet](https://wet
 
 2. De verzekering, bedoeld in het eerste lid, onder b, omvat in ieder geval een verzekering voor beroepsaansprakelijkheid, algemene aansprakelijkheid en werkgeversaansprakelijkheid. De verzekering dekt de aansprakelijkheid van het bedrijf voor ten minste € 2.500.000 per schadegeval voor letselschade en ten minste € 750.000 per schadegeval voor zaakschade waartoe de vergunde activiteiten aanleiding kunnen geven.
 
-#### Artikel 10. (betrouwbaarheid)
+##### Artikel 10. (betrouwbaarheid)
 
 1. De betrouwbaarheid van het bedrijf en van de personen die diens beleid bepalen of mede bepalen worden geacht te zijn gewaarborgd indien:
 
@@ -204,7 +230,7 @@ Bij de aanvraag om toestemming als bedoeld in [artikel 4 van de wet](https://wet
 
 4. De betrouwbaarheid van het maritiem beveiligingsbedrijf wordt geacht niet te zijn gewaarborgd indien het bedrijf, of de personen die diens beleid bepalen of mede bepalen, onherroepelijk zijn veroordeeld voor misdrijven genoemd in[titel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&titeldeel=XVIII), [titel XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&titeldeel=XX), [titel XX](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&titeldeel=XX), [XXIII tot en met XXVI](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&titeldeel=XXIII) en [titel XXIX van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&titeldeel=XXIX).
 
-#### Artikel 11. (bedrijfsvoering)
+##### Artikel 11. (bedrijfsvoering)
 
 1. De bedrijfsvoering van het maritiem beveiligingsbedrijf is zodanig ingericht dat het bedrijf in ieder geval beschikt over:
 
@@ -268,7 +294,7 @@ Bij de aanvraag om toestemming als bedoeld in [artikel 4 van de wet](https://wet
 
 - c. onderhoudsplannen.
 
-#### Artikel 12. (intern toezicht)
+##### Artikel 12. (intern toezicht)
 
 Het intern toezicht van het maritiem beveiligingsbedrijf voorziet schriftelijk aantoonbaar in:
 
@@ -286,17 +312,17 @@ Het intern toezicht van het maritiem beveiligingsbedrijf voorziet schriftelijk a
 
 #### Paragraaf 5.2. Eisen aan de beveiligers
 
-#### Artikel 13. (verlening inzage)
+##### Artikel 13. (verlening inzage)
 
 Het maritiem beveiligingsbedrijf verleent de Inspectie ten behoeve van de afdoening van de vergunningaanvraag en desgevraagd na verlening van een vergunning inzage in de bewijzen dat de maritieme beveiligers voldoen aan de eisen van betrouwbaarheid, medische geschiktheid, vakbekwaamheid en geoefendheid voor het verrichten van maritieme beveiligingswerkzaamheden.
 
-#### Artikel 14. (betrouwbaarheid)
+##### Artikel 14. (betrouwbaarheid)
 
 1. De maritieme beveiligers beschikken over een verklaring omtrent gedrag dat bij de vergunningaanvraag niet ouder is dan twaalf maanden.
 
 2. Indien een maritieme beveiliger niet-ingezetene is van Nederland beschikt hij ten minste over een Engelstalig uittreksel justitiële documentatie of gelijkwaardig Engelstalig getuigschrift van de autoriteiten van het land waarvan hij ingezetene is, dat bij de vergunningaanvraag niet ouder is dan twaalf maanden.
 
-#### Artikel 15. (geneeskundige verklaring)
+##### Artikel 15. (geneeskundige verklaring)
 
 Elk lid van het beveiligingsteam beschikt te allen tijde over:
 
@@ -304,7 +330,7 @@ Elk lid van het beveiligingsteam beschikt te allen tijde over:
 
 - b. een Nederlandstalige of Engelstalige verklaring die inhoudt dat gedurende de tewerkstelling geen drugs of alcohol wordt gebruikt door het lid van het beveiligingsteam.
 
-#### Artikel 16. (vakbekwaamheid en geoefendheid)
+##### Artikel 16. (vakbekwaamheid en geoefendheid)
 
 1. Elk lid van het beveiligingsteam beschikt over:
 
@@ -324,7 +350,7 @@ Elk lid van het beveiligingsteam beschikt te allen tijde over:
 
 ### Hoofdstuk 6. Operationele eisen
 
-#### Artikel 17. (teamleider)
+##### Artikel 17. (teamleider)
 
 1. Onverminderd hetgeen bij of krachtens de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=6), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=9), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=11) en [12 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=12) is bepaald heeft de teamleider tot taak:
 
@@ -362,7 +388,7 @@ Elk lid van het beveiligingsteam beschikt te allen tijde over:
 
 ### Hoofdstuk 7. Bestuursrechtelijke handhaving en boetes
 
-#### Artikel 18. (bestuurlijke boete vergunninghouder)
+##### Artikel 18. (bestuurlijke boete vergunninghouder)
 
 1. De bestuurlijke boete die ten hoogste aan de vergunninghouder voor een overtreding van [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=15) of [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=3.1), [3.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=3.3), [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=4.5), [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=5.2), [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=5.5) tot en met [5.14 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=5.14) kan worden opgelegd komt overeen met de boete van de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
@@ -370,19 +396,19 @@ Elk lid van het beveiligingsteam beschikt te allen tijde over:
 
 3. De bestuurlijke boete die ten hoogste aan de vergunninghouder voor een overtreding van de op grond van [artikel 13, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=13) aan de vergunning verbonden voorschriften kan worden opgelegd, komt overeen met de boete van de derde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
-#### Artikel 19. (bestuurlijke boete scheepsbeheerder)
+##### Artikel 19. (bestuurlijke boete scheepsbeheerder)
 
 De bestuurlijke boete die ten hoogste aan de scheepsbeheerder voor een overtreding van [artikel 6, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=6) en artikel 6, derde lid, van de wet jo [artikel 2.4, eerste en tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=2.4) kan worden opgelegd, komt overeen met de boete van de derde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
-#### Artikel 20. (bestuurlijke boete kapitein)
+##### Artikel 20. (bestuurlijke boete kapitein)
 
 De bestuurlijke boete die ten hoogste aan de kapitein voor een overtreding van de [artikelen 6, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=6), en [12, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=12) en artikel 6, tweede lid jo [artikel 2.4 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=2.4) kan worden opgelegd, komt overeen met de boete van de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
-#### Artikel 21. (bestuurlijke boete teamleider)
+##### Artikel 21. (bestuurlijke boete teamleider)
 
 De bestuurlijke boete die ten hoogste aan de teamleider voor een overtreding van [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=6), en [12, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=12) kan worden opgelegd, komt overeen met de boete van de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
-#### Artikel 22. (matiging boete)
+##### Artikel 22. (matiging boete)
 
 1. Onverminderd de [artikelen 3:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:4), [5.41](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:41) en [5:46 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:46), houden de toezichthoudende ambtenaren bij het vaststellen van een bestuurlijke boete in ieder geval rekening met de volgende omstandigheden, voor zover die van toepassing zijn:
 
@@ -400,7 +426,7 @@ De bestuurlijke boete die ten hoogste aan de teamleider voor een overtreding van
 
 ### Hoofdstuk 8. Bescherming persoonsgegevens en verwerking gegevens
 
-#### Artikel 23. (bewaartermijn)
+##### Artikel 23. (bewaartermijn)
 
 1. De scheepsbeheerder, het maritiem beveiligingsbedrijf, de kapitein en de teamleider zijn gerechtigd de beeld- en geluidsopnames in te zien respectievelijk te beluisteren.
 
@@ -408,7 +434,7 @@ De bestuurlijke boete die ten hoogste aan de teamleider voor een overtreding van
 
 3. In afwijking van het tweede lid, kunnen de bestanden met beeld- en geluidsopnamen langer worden bewaard door de scheepsbeheerder, de kapitein en het particulier maritiem beveiligingspersoneel indien dat noodzakelijk is voor de instelling, uitoefening of onderbouwing van een rechtsvordering.
 
-#### Artikel 24. (privacyverklaring)
+##### Artikel 24. (privacyverklaring)
 
 1. De toezichthoudende ambtenaren maken met betrekking tot de persoonsgegevens, bedoeld in [artikel 14a, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=14a), in een privacyverklaring kenbaar:
 
@@ -422,11 +448,11 @@ De bestuurlijke boete die ten hoogste aan de teamleider voor een overtreding van
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 25. (inwerkingtreding)
+##### Artikel 25. (inwerkingtreding)
 
 Deze regeling treedt in werking met ingang van de datum waarop de [Wet ter Bescherming Koopvaardij](https://wetten.overheid.nl/jci1.3:c:BWBR0042278) in werking treedt.
 
-#### Artikel 26. (citeertitel)
+##### Artikel 26. (citeertitel)
 
 Deze regeling wordt aangehaald als: Regeling bescherming koopvaardij.
 

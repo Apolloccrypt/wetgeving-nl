@@ -1,18 +1,43 @@
 ---
 title: "Regeling subsidievoorwaarden rechts- en wetswinkels 2022"
 identifier: "BWBR0046587"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-04-25
-laatste_update: 2022-04-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046587"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-04-25"
+last_updated: "2022-04-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046587"
+soort: "zbo"
+stam_id: "16335163"
+version_id: "28571932"
+internal_id: "C40318381"
+label_id: "16259674"
+dtd_version: "2.0"
+original_entry_into_force: "2022-04-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046587/2022-04-25/0"
+intitule_bron: "Stcrt.2022-11065"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-04-13"
+intitule_published: "2022-04-25"
+intitule_in_force: "2022-04-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-11065"
+original_signed_date: "2022-04-13"
+original_published_date: "2022-04-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-11065"
+entry_into_force_date: "2022-04-25"
+jci_1_3: "jci1.3:c:BWBR0046587&z=2022-04-25&g=2022-04-25"
+jci_1_0: "1.0:c:BWBR0046587&g=2022-04-25"
+citeertitel_status: "redactioneel"
+signed_date: "2022-04-13"
+entry_into_force: "2022-04-25"
 ---
-
 # Regeling subsidievoorwaarden rechts- en wetswinkels 2022
 
 Het bestuur van de Raad voor Rechtsbijstand, wil gelet op [artikel 37c van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=37c) subsidie verlenen aan rechts- en wetswinkels en heeft daartoe de volgende regeling vastgesteld:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -28,7 +53,7 @@ In deze regeling wordt verstaan onder:
 
 - 6). **Een financieel verslag:** een verslag van de rechts- of wetswinkel over het financieel beheer in 2021, waaruit blijkt dat de verstrekte subsidie doelmatig is besteed aan rechtsbijstand;
 
-#### Artikel 2
+##### Artikel 2
 
 De Raad kan onder de volgende voorwaarden subsidie verlenen;
 
@@ -36,7 +61,7 @@ De Raad kan onder de volgende voorwaarden subsidie verlenen;
 
 - 2). De rechts- of wetswinkel die in 2020 en/of 2021 subsidie heeft ontvangen van de Raad, komt niet in aanmerking voor (extra) subsidie voor door deze rechts- of wetswinkel te openen nieuwe spreekuurlocaties;
 
-#### Artikel 3
+##### Artikel 3
 
 Een rechts- of wetswinkel komt met inachtneming van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046587&artikel=2&z=2022-04-25&g=2022-04-25) in aanmerking voor subsidie in 2022. Hierbij gelden de volgende aanvullende voorwaarden:
 
@@ -60,7 +85,7 @@ Een rechts- of wetswinkel komt met inachtneming van [artikel 2](https://wetten.o
 
 - f). de medewerkers van de rechts- of wetswinkel moeten in overwegende mate vrijwilligers zijn en dus niet door hun beroep inkomsten verwerven uit de gesubsidieerde rechtsbijstand. De Raad kan hierop een uitzondering maken als de rechts- of wetswinkel kan waarborgen dat geen vermenging van vrijwillige en professionele activiteiten optreedt.
 
-#### Artikel 4
+##### Artikel 4
 
 Aan een rechts- of wetswinkel die voor 1 juni 2022 aan de hiervoor onder [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046587&artikel=2&z=2022-04-25&g=2022-04-25) vermelde voorwaarden heeft voldaan, kan de Raad in 2022, rekening houdend met zijn activiteiten en financiële positie, een subsidie toekennen.
 

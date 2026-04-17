@@ -1,13 +1,37 @@
 ---
 title: "Beschikking vaststelling examenprogramma"
 identifier: "BWBR0002927"
-categorie: "Bestuursrecht"
-publicatiedatum: 1974-07-17
-laatste_update: 1974-07-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002927"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1974-07-17"
+last_updated: "1974-07-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002927"
+soort: "ministeriele-regeling"
+stam_id: "3687073"
+version_id: "5470032"
+internal_id: "C5663121"
+label_id: "3666914"
+dtd_version: "2.0"
+original_entry_into_force: "1974-07-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002927/1974-07-17/0"
+intitule_bron: "Stcrt.1974-135"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1974-07-04"
+intitule_published: "1974-07-16"
+intitule_in_force: "1974-07-16"
+intitule_status: "goed"
+original_publication: "Stcrt.1974-135"
+original_signed_date: "1974-07-04"
+original_published_date: "1974-07-16"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1974-07-17"
+jci_1_3: "jci1.3:c:BWBR0002927&z=1974-07-17&g=1974-07-17"
+jci_1_0: "1.0:c:BWBR0002927&g=1974-07-17"
+citeertitel_status: "officieel"
+signed_date: "1974-07-04"
+entry_into_force: "1974-07-17"
 ---
-
 # Beschikking vaststelling examenprogramma
 
 In overeenstemming met de Staatssecretaris van Onderwijs en Wetenschappen, dr. A. Veerman,
@@ -16,7 +40,7 @@ Gelet op [artikel 4, eerste lid, van het Examenbesluit accountants-administratie
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het examen omvat het volgende programma:
 
@@ -62,11 +86,11 @@ Het examen omvat het volgende programma:
 
 - D. kennis van het privaatrecht, een en ander zoals deze laatste drie onderdelen nader zijn omschreven in het Programma, Eerste gedeelte, onder E, en Tweede gedeelte, onder D, vastgesteld bij het Koninklijk besluit van 25 augustus 1949 (Stb. 407) tot instelling van een Staatspraktijkdiploma voor Bedrijfsadministratie, overeenkomstig de op 30 april 1974 geldende tekst van dat besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 Bij de voorbereiding van het in 1974 af te nemen examen dient als leidraad te worden gebezigd de bij deze beschikking als bijlage behorende litteratuurlijst.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Deze beschikking wordt met de daarbij behorende bijlage in de Staatscourant bekendgemaakt.
 

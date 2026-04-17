@@ -1,13 +1,39 @@
 ---
-title: "Regeling slacht- en vleeskeuring Bonaire"
+title: "Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 22 september 2010, nr. 151932, houdende regels inzake de slacht en vleeskeuring op Bonaire (Regeling slacht- en vleeskeuring Bonaire)"
 identifier: "BWBR0028806"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028806"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028806"
+soort: "ministeriele-regeling-BES"
+stam_id: "11029483"
+version_id: "18023332"
+internal_id: "C25061221"
+label_id: "11005304"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028806/2010-10-10/0"
+intitule_bron: "Stcrt.2010-15057"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-22"
+intitule_published: "2010-10-08"
+intitule_in_force: "2010-10-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-15057"
+original_signed_date: "2010-09-22"
+original_published_date: "2010-10-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-15057"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028806&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028806&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Regeling slacht- en vleeskeuring Bonaire"
+signed_date: "2010-09-22"
+entry_into_force: "2010-10-10"
 ---
-
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 22 september 2010, nr. 151932, houdende regels inzake de slacht en vleeskeuring op Bonaire (Regeling slacht- en vleeskeuring Bonaire)
 
 Gelet op de [artikelen18.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=18.2.2),[18.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=18.2.4),[18.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=18.2.9) en [18.2.10avan de Invoeringswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=18.2.10a) en de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=5), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=6), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=9), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=11), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=15), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=19), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=21), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=23), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=29), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=30) en [31 van het Besluit slacht- en vleeskeuring BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=31);
@@ -20,7 +46,7 @@ Treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet 
 
 ### Afdeling I. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -50,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 - m. **vleesvreemd eiwitproduct:** soja-eiwitproduct of melkeiwitproduct, dan wel door de keuringsdierenarts aangewezen andere eiwitproducten.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze regeling is van toepassing op slacht en vleeskeuring die plaatsvindt op Bonaire.
 
@@ -60,13 +86,13 @@ In deze regeling wordt verstaan onder:
 
 4. Overal waar geschreven staat vlees of vleesproduct(en) wordt hieronder mede verstaan vlees afkomstig van pluimvee, behalve voor wat betreft de [hoofdstuk I, afdeling I tot en met III](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=I&z=2010-10-10&g=2010-10-10), van deze regeling.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Deze regeling is niet van toepassing op vlees afkomstig van zeeschildpadden.
 
 2. Deze regeling is niet van toepassing op ingevoerde, samengestelde vleesproducten die al of niet ingevroren, dan wel ingeblikt of anderszins verpakt zijn.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In daarvoor voorkomende gevallen treedt in de plaats van de door de minister aangewezen ambtenaar of persoon, in het kader van de uitvoering van deze regeling, de dierenarts op die hiervoor door de minister is aangewezen.
 
@@ -82,17 +108,17 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf A. De kennisgeving van slachten en de vergunning tot slachten
 
-#### Artikel 5
+##### Artikel 5
 
 Kennisgeving van het voornemen aan keuring onderworpen slachtvee te slachten of te doen slachten geschiedt bij de hoofdkeurmeester.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Vergunning tot slachten wordt gegeven door de hoofdkeurmeester.
 
 2. Aan de vergunning kunnen voorwaarden worden verbonden.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Ten aanzien van slachtvee dat in een slachthuis ter slachting wordt aangeboden, treedt de inschrijving van bedoeld slachtvee in een daartoe bestemd register in de plaats van de kennisgeving, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=II&paragraaf=A&artikel=5&z=2010-10-10&g=2010-10-10).
 
@@ -100,13 +126,13 @@ Kennisgeving van het voornemen aan keuring onderworpen slachtvee te slachten of 
 
 #### Paragraaf B. De wijze waarop slachtvee mag worden geslacht
 
-#### Artikel 8
+##### Artikel 8
 
 1. Slachtvee wordt na voorafgaande bedwelming zo spoedig mogelijk en in elk geval binnen één minuut door verbloeding gedood.
 
 2. De bepalingen omtrent bedwelming zijn niet van toepassing op slachtvee waarvan het vlees wordt geslacht volgens de israëlitische of volgens de islamitische ritus.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Bedwelming geschiedt door middel van:
 
@@ -128,27 +154,27 @@ Kennisgeving van het voornemen aan keuring onderworpen slachtvee te slachten of 
 
 5. Aan de vergunning, bedoeld in het vierde lid, kunnen voorwaarden worden gesteld.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Toepassing van kopslag, neksteek of nekslag is verboden.
 
 2. Onder kopslag wordt mede verstaan het slaan met een voorwerp, waaraan een pen is bevestigd, op de kop van het slachtvee, waardoor de hersenen automatisch worden beledigd.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Slachten volgens de Israëlitische ritus of volgens de Islamitische ritus is verboden zonder vergunning van de minister.
 
 2. Aan de vergunning, bedoeld in het eerste lid, kunnen voorwaarden worden gesteld.
 
-#### Artikel 12
+##### Artikel 12
 
 Het is verboden tijdens of na de verbloeding slachthandelingen te verrichten met uitzondering van het inkorten van de halsslagaderen, alvorens blijvende bewegingsloosheid is ingetreden.
 
-#### Artikel 13
+##### Artikel 13
 
 Het ophangen van slachtvee voor het bedwelmen is verboden.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Bij alle gedode slachtvee, voor slachting of verdere slachting bestemd, wordt na de zo volledig mogelijke uitbloeding en, wat het gedode slachtvee betreft, na het intreden van blijvende bewegingsloosheid, onmiddellijk met de slachting of verdere slachting aangevangen, welke zonder onderbreking wordt voortgezet, totdat de toestand voorgeschreven in [paragraaf C](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=II&paragraaf=C&z=2010-10-10&g=2010-10-10) is bereikt.
 
@@ -158,7 +184,7 @@ Het ophangen van slachtvee voor het bedwelmen is verboden.
 
 4. Na aankomst op de plaats, bedoeld in het tweede lid, wordt onmiddellijk met het slachten of het verdere slachten aangevangen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het bij het slachten uitstromende bloed wordt opgevangen:
 
@@ -174,7 +200,7 @@ Het ophangen van slachtvee voor het bedwelmen is verboden.
 
 #### Paragraaf C. De toestand waarin een geslacht dier moet verkeren, totdat met de keuring wordt begonnen
 
-#### Artikel 16
+##### Artikel 16
 
 1. Varkens zijn ontdaan van borstels en voorts zijn de uitwendige gehoorgangen en de klauwen verwijderd.
 
@@ -184,13 +210,13 @@ Het ophangen van slachtvee voor het bedwelmen is verboden.
 
 4. Van runderen wordt het hoornvlees uitgesneden en bij de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=II&paragraaf=C&artikel=19&z=2010-10-10&g=2010-10-10) bedoelde organen en delen ter keuring aangeboden, tenzij het hoornvlees aan het halsvlees blijft bevestigd.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het geslachte vee is overlangs zo in twee delen gedeeld, dat de beide helften op één plaats met elkaar verbonden blijven. Ook de eerste twee halswervels zijn in tweeën gedeeld, evenals de kop bij varkens.
 
 2. Voor kalveren, nuchtere kalveren, schapen, geiten en biggen kan de keuringsdierenarts ontheffing van het eerste lid verlenen, met dien verstande evenwel, dat bekken, buikwand, middenrif en borstbeen in de mediaanlijn geheel gespleten zijn.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Behalve bij varkens, nuchtere kalveren, schapen en geiten is van al het slachtvee de kop van de romp gescheiden, tenzij de keuringsdierenarts dit niet wenselijk acht.
 
@@ -198,7 +224,7 @@ Het ophangen van slachtvee voor het bedwelmen is verboden.
 
 3. Bij eenhoevige dieren is de kop overlangs gekliefd en mag de tong voor het klieven geheel van de kop worden gescheiden.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Hart, longen, lever met galblaas, milt, nieren – de laatste geheel losgemaakt uit hun kapsel – en urineblaas, bij mannelijke dieren alle geslachtsorganen en bij vrouwelijke dieren de niet-melkgevende, of kennelijk niet ziekelijk veranderde uier en de baarmoeder, zijn met hun natuurlijke hechtmiddelen en ongeschonden aan het dier bevestigd. Bij nuchtere kalveren, schapen en geiten kan met toestemming van de keuringsdierenarts de urineblaas worden verwijderd.
 
@@ -212,17 +238,17 @@ Het ophangen van slachtvee voor het bedwelmen is verboden.
 
 6. Indien het slachtvee is gestorven of in nood gedood, mogen maag en darmen voor de aanvang van de keuring niet worden ingesneden of van hun inhoud zijn ontdaan en evenmin van het darmscheil zijn losgemaakt.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Vliezen van borst- en buikwanden mogen noch geheel, noch gedeeltelijk zijn verwijderd.
 
 2. Baarmoeder en hart mogen niet zijn geopend, tenzij de opening van het hart het gevolg is van de toegepaste wijze van verbloeden.
 
-#### Artikel 21
+##### Artikel 21
 
 Van het geslachte dier mogen geen delen worden verwijderd, noch mogen in het geslachte dier andere insnijdingen zijn gemaakt, dan die, welke nodig zijn om het dier te brengen in de toestand, voorgeschreven in deze paragraaf. Daarbij horende organen en delen mogen niet zijn ingesneden, noch verkleind of geheel of gedeeltelijk verwijderd.
 
-#### Artikel 22
+##### Artikel 22
 
 Een geslacht dier of enig gedeelte ervan, uitgezonderd de longen van dieren, geslacht volgens de Israëlische ritus, mag niet zijn opgeblazen.
 
@@ -230,7 +256,7 @@ Een geslacht dier of enig gedeelte ervan, uitgezonderd de longen van dieren, ges
 
 #### Paragraaf D. Wat bij de keuring wordt onderzocht
 
-#### Artikel 23
+##### Artikel 23
 
 Bij keuring vóór het slachten wordt door de keuringsdierenarts onderzocht of er:
 
@@ -244,7 +270,7 @@ Bij keuring vóór het slachten wordt door de keuringsdierenarts onderzocht of e
 
 - e. verschijnselen zijn welke doen verwachten, dat het vlees de bij de slachting te gebruiken gereedschappen en apparatuur met smetstof zal verontreinigen.
 
-#### Artikel 24
+##### Artikel 24
 
 Bij de keuring na het slachten wordt door de keuringsdierenarts onderzocht of:
 
@@ -252,13 +278,13 @@ Bij de keuring na het slachten wordt door de keuringsdierenarts onderzocht of:
 
 - b. op grond van de onder a bedoelde afwijkingen of van de uitslag van het nader ingestelde onderzoek het vlees in het algemeen, organen of delen, met inachtneming van de daaromtrent gegeven wettelijke voorschriften worden geacht schadelijk te zijn voor de gezondheid van de mens, dan wel zo in deugdelijkheid te zijn verminderd, dat tot afkeuring wordt besloten.
 
-#### Artikel 25
+##### Artikel 25
 
 Voorwaardelijke goedkeuring, zoals gesteld in artikel 8 van het besluit, is op grond van deze regeling niet mogelijk.
 
 #### Paragraaf E. De keuring van gestorven en van in nood gedode dieren
 
-#### Artikel 26
+##### Artikel 26
 
 1. Het bepaalde in de [paragrafen C](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=II&paragraaf=C&z=2010-10-10&g=2010-10-10) en [D](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=III&paragraaf=D&z=2010-10-10&g=2010-10-10) is niet van toepassing ten aanzien van gestorven of in nood gedood slachtvee dat naar het oordeel van de keuringsdierenarts zonder nader onderzoek kan worden afgekeurd.
 
@@ -270,7 +296,7 @@ Voorwaardelijke goedkeuring, zoals gesteld in artikel 8 van het besluit, is op g
 
 #### Paragraaf F. In welke gevallen wordt afgekeurd
 
-#### Artikel 27
+##### Artikel 27
 
 Afgekeurd wordt:
 
@@ -290,7 +316,7 @@ Afgekeurd wordt:
 
 #### Paragraaf G. De wijze, waarop slachtvee bij de keuring voor het slachten en vlees bij keuring wordt gemerkt
 
-#### Artikel 28
+##### Artikel 28
 
 1. Goedgekeurd vlees, afkomstig van slachtvee, niet geslacht in een inrichting als bedoeld in artikel 20 van het besluit wordt voorzien van een driehoekstempelmerk, in blauwe inkt, met de opdruk ‘Invoer Goedgekeurd Bonaire NA’, gevolgd door jaar, maand en dag van stempeling.
 
@@ -298,17 +324,17 @@ Afgekeurd wordt:
 
 3. De keuringsdierenarts mag bepalen, dat op daarvoor in aanmerking komende organen of delen het stempelmerk, bedoeld in het eerste lid, mag worden vervangen door een brandmerk.
 
-#### Artikel 29
+##### Artikel 29
 
 Indien vlees wordt afgekeurd, dan wordt het in zijn geheel blauw of rood gemerkt op een zodanige wijze dat duidelijk zichtbaar is dat het vlees voor menselijke consumptie ongeschikt is.
 
-#### Artikel 30
+##### Artikel 30
 
 1. De merken, bedoeld in de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=III&paragraaf=G&artikel=28&z=2010-10-10&g=2010-10-10) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=III&paragraaf=G&artikel=29&z=2010-10-10&g=2010-10-10), worden op het geslachte dier en op de organen en delen geplaatst, zoals door de keuringsdierenarts voorgeschreven en bovendien op die plaatsen, als door de eigenaar of degene, die hem vervangt, wordt gewenst.
 
 2. De merken, bedoeld in het eerste lid, worden zo spoedig mogelijk aangebracht, nadat de keuringsbeslissing is genomen.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Het aanbrengen van de merken, bedoeld in de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=III&paragraaf=G&artikel=28&z=2010-10-10&g=2010-10-10) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=III&paragraaf=G&artikel=29&z=2010-10-10&g=2010-10-10), mag slechts geschieden door:
 
@@ -322,23 +348,23 @@ Indien vlees wordt afgekeurd, dan wordt het in zijn geheel blauw of rood gemerkt
 
 3. De merken en stempels worden na afloop van de werkzaamheden onder verantwoordelijkheid van de keuringsdierenarts opgeborgen in een met een deugdelijk slot gesloten ruimte, tot welke onbevoegden geen toegang hebben.
 
-#### Artikel 32
+##### Artikel 32
 
 Het merken van vlees vindt plaats door middel van een voor de gezondheid van de gebruikers van het vlees onschadelijke kleurstofoplossing of, op door de keuringsdierenarts aangewezen organen of delen, door middel van een verhit stempel, waarmede een stempelafdruk op dit vlees kan worden geschroeid.
 
 ### Afdeling IV. De keuring van in te voeren vlees en vleesproducten
 
-#### Artikel 33
+##### Artikel 33
 
 Hoofdstuk IV van het besluit is niet van toepassing op hoeveelheden vlees van ten hoogste 2 kilogram, mits uitsluitend bestemd voor huishoudelijk gebruik.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Tot invoer kan slechts worden toegelaten vlees, bestaande uit niet kleinere delen dan vierendelen, dat afkomstig is van slachtvee geslacht in een door de keuringsdierenarts erkend slachthuis.
 
 2. Ook kleinere delen kunnen tot de invoer worden toegelaten, mits het vlees is uitgesneden, gekoeld of ingevroren dan wel uitgesneden en tevens gekoeld of ingevroren, dat afkomstig is van een erkende uitsnijderij, koelhuis of vrieshuis.
 
-#### Artikel 35
+##### Artikel 35
 
 Ten aanzien van de invoer van vlees gelden de volgende regels:
 
@@ -386,7 +412,7 @@ Ten aanzien van de invoer van vlees gelden de volgende regels:
 
 - d. de toegestane tolerantie van residuen van Caesium 134 en 137 tezamen wordt vastgesteld op maximaal 600 Becquerel per kilogram.
 
-#### Artikel 36
+##### Artikel 36
 
 Bij invoer is het vlees:
 
@@ -394,37 +420,37 @@ Bij invoer is het vlees:
 
 - b. voorzien van een officieel in het land van slachting voorgeschreven merk ten bewijze dat het vlees is goedgekeurd en afkomstig is uit een erkend slachthuis of uitsnijderij als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=IV&artikel=34&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 37
+##### Artikel 37
 
 Met betrekking tot varkensvlees wordt het vlees in het land van uitvoer op de aanwezigheid van trichinen onderzocht. Het vlees is vergezeld van een verklaring afgegeven door de dierenarts die het onderzocht, dat het vlees vrij van trichinen bevonden is.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Voor zover vlees verpakt is, is de verpakking bij de invoer voorzien van een etiket, waarop het goedkeuringsmerk voorkomt en van een aanduiding, waaruit de herkomst van het vlees blijkt.
 
 2. Het goedkeuringsmerk en de aanduiding zijn duidelijk leesbaar, ten genoegen van de keuringsdierenarts aangebracht.
 
-#### Artikel 39
+##### Artikel 39
 
 Vlees dat opgeblazen is, wordt niet toegelaten.
 
-#### Artikel 40
+##### Artikel 40
 
 Hij, die vlees invoert of de invoerder vertegenwoordigt, verleent bij de invoer de keuringsdierenarts de ten behoeve van de keuring gevraagde medewerking. Bij gebreke hiervan wordt invoer van het vlees niet toegestaan.
 
-#### Artikel 41
+##### Artikel 41
 
 De keuringsdierenarts neemt zo spoedig mogelijk een beslissing over het ter keuring aangeboden vlees. Indien hij zulks noodzakelijk acht, kan hij zijn beslissing uitstellen, met dien verstande, dat deze niet later wordt genomen dan op de tweede werkdag respectievelijk voor door afkoeling verduurzaamd vlees op de derde werkdag na die, waarop het vlees ter keuring werd aangeboden. Hij kan aanwijzingen geven over de wijze van bewaring van het vlees gedurende de in de vorige volzin vermelde tijd.
 
-#### Artikel 42
+##### Artikel 42
 
 Hij die vlees invoert of de invoerder vertegenwoordigt, geeft van elke invoer de keuringsdierenarts tijdig kennis.
 
-#### Artikel 43
+##### Artikel 43
 
 Wanneer vlees in strijd met deze regeling is aangevoerd, beslist de keuringsdierenarts dat dit vlees niet wordt ingevoerd.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Wordt het vlees goedgekeurd, dan wordt het vlees voorzien van een stempelmerk zoals bepaald in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=III&paragraaf=G&artikel=28&z=2010-10-10&g=2010-10-10).
 
@@ -432,7 +458,7 @@ Wanneer vlees in strijd met deze regeling is aangevoerd, beslist de keuringsdier
 
 3. Het merken van het vlees heeft plaats door middel van een voor de gezondheid der verbruikers volkomen onschadelijke inkt.
 
-#### Artikel 45
+##### Artikel 45
 
 1. De keuring van in te voeren vlees wordt verricht door steekproeven.
 
@@ -448,7 +474,7 @@ Wanneer vlees in strijd met deze regeling is aangevoerd, beslist de keuringsdier
 
 - e. de vervoersomstandigheden.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Vlees dat bij keuring wordt afgekeurd of waarop deze keuring niet wordt verricht, doordat de medewerking is geweigerd, wordt teruggezonden tenzij daartegen uit oogpunt van de gezondheid van mens en dier bezwaar bestaat.
 
@@ -456,7 +482,7 @@ Wanneer vlees in strijd met deze regeling is aangevoerd, beslist de keuringsdier
 
 3. In afwijking van voorgaande leden kan de keuringsdierenarts het vlees bestemmen voor andere doeleinden dan menselijke consumptie.
 
-#### Artikel 47
+##### Artikel 47
 
 Alle kosten van keuring en controle van vlees, ingeval van tijdelijke aanhouding kosten van opslag alsmede eventueel kosten van vernietiging van dit vlees, komen ten laste van de aanbieder van dit vlees.
 
@@ -464,13 +490,13 @@ Alle kosten van keuring en controle van vlees, ingeval van tijdelijke aanhouding
 
 #### Paragraaf H. Algemeen geldende voorschriften
 
-#### Artikel 48
+##### Artikel 48
 
 1. De bedrijfsruimten van de inrichtingen, bedoeld in artikel 1, onderdeel g, van het besluit, die dienen voor het verrichten van handelingen als bedoeld in artikel 20, tweede lid, onder a en b, van het besluit voldoen, behalve aan de voorschriften voor elk dezer, afzonderlijk gesteld in de desbetreffende artikelen van deze regeling, aan de eisen, gesteld in de artikelen van deze paragraaf.
 
 2. De bedrijfsruimten, bedoeld in het eerste lid, staan niet met elkaar en met andere bedrijfsruimten in rechtstreekse verbinding, tenzij in deze regeling nadrukkelijk anders is bepaald.
 
-#### Artikel 49
+##### Artikel 49
 
 1. De vloeren van het slachthuis en de inrichtingen zijn vervaardigd van materiaal, dat vocht niet doorlaat of opneemt. Zij vertonen noch scheuren, noch onnodige verdiepingen en hebben zoveel helling, dat het spoel- en schrobwater, hetzij rechtstreeks, hetzij door open goten gemakkelijk kan wegvloeien naar met een afneembaar rooster gedekte en van stankafsluiting voorziene kolken, vanwaar het door een goed gesloten waterdicht buizenstelsel wordt weggevoerd naar de openbare riolering. Indien een dergelijke riolering niet aanwezig is of van aansluiting daarop door de minister, gehoord het hoofd van de hygiënische dienst, ontheffing is verleend, wordt het afvalwater geleid naar een put, welke buiten de inrichting is gelegen en zo is afgesloten, dat verspreiding van smetstof en van onaangename geuren wordt voorkomen. Lediging van deze putten vindt geregeld plaats op een tijdstip, dat in de bedrijfsruimten, gelegen in de onmiddellijke nabijheid, geen werkzaamheden worden verricht.
 
@@ -478,7 +504,7 @@ Alle kosten van keuring en controle van vlees, ingeval van tijdelijke aanhouding
 
 3. Het bepaalde omtrent het materiaal van de vloeren is niet van toepassing op vriesruimten.
 
-#### Artikel 50
+##### Artikel 50
 
 1. De wanden voldoen aan de volgende eisen:
 
@@ -494,17 +520,17 @@ Alle kosten van keuring en controle van vlees, ingeval van tijdelijke aanhouding
 
 4. De wanden mogen aan de binnenzijde zijn voorzien van tegels, van een deugdelijke verflaag, welke bestand is tegen reiniging met zeepwater en ontsmettingsmiddelen, of van door de keuringsdierenarts aangewezen materiaal, dat aan de gestelde eisen voldoet.
 
-#### Artikel 51
+##### Artikel 51
 
 1. De overgang van de vloer naar de wanden en van de wanden onderling is rond of met hoeken van minimaal 135° afgewerkt, evenals die van de vloer naar de daarop gevestigde niet verplaatsbare voorwerpen.
 
 2. Het eerste lid geldt niet ten aanzien van vriesruimten.
 
-#### Artikel 52
+##### Artikel 52
 
 De bovenzijde van de bedrijfsruimten is, met inachtneming van het bepaalde in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=V&paragraaf=H&artikel=54&z=2010-10-10&g=2010-10-10), stof- en waterdicht en is verder van dien aard, dat geen bestanddelen daarvan tot verontreiniging van het vlees of de vleesproducten aanleiding kunnen geven.
 
-#### Artikel 53
+##### Artikel 53
 
 1. Het daglicht kan in voldoende mate toetreden, hetzij door ongekleurd glas in het dak, hetzij door ongekleurd glas in de wand, hetzij door beide en wel zo, dat in elk deel van de bedrijfsruimten een gunstige daglichtvoorziening wordt verkregen.
 
@@ -516,7 +542,7 @@ De bovenzijde van de bedrijfsruimten is, met inachtneming van het bepaalde in [a
 
 5. Het bepaalde in dit artikel is niet van toepassing op koel- en vriesruimten en ruimten, waar geen andere handelingen worden verricht dan het zouten van vlees, met dien verstande dat deze ruimten elektrisch kunnen worden verlicht of, indien aansluiting aan een elektrisch net niet mogelijk is, voldoende ander kunstlicht kan worden ontstoken.
 
-#### Artikel 54
+##### Artikel 54
 
 1. De buitenlucht kan door middel van roosters, beweegbare lichtramen, ventilatoren, dan wel door een samenstel daarvan, in voldoende mate toetreden, hetzij door openingen in het dak, hetzij door openingen in de buitenwand, hetzij door beide en wel zo, dat in elk deel der bedrijfsruimten de lucht steeds wordt ververst.
 
@@ -526,11 +552,11 @@ De bovenzijde van de bedrijfsruimten is, met inachtneming van het bepaalde in [a
 
 4. Het bepaalde in het eerste en tweede lid is niet van toepassing op koel- en vriesruimten, indien de luchtverversing geschiedt door een buizenstelsel, waardoor lucht kunstmatig wordt aan- en afgevoerd, of op een andere wijze, als met het stelsel van de koelinrichting overeenkomt, doch zo, dat de lucht steeds genoeg wordt ververst.
 
-#### Artikel 55
+##### Artikel 55
 
 De bedrijfsruimte heeft zodanige afmetingen, dat de door het bedrijf nodige handelingen en het toezicht daarop naar behoren kunnen plaatsvinden.
 
-#### Artikel 56
+##### Artikel 56
 
 1. De bedrijfsruimten en de zich daarin bevindende voorwerpen en kolken, alsmede het terrein, waarop de inrichting zich bevindt, worden geregeld schoon gehouden. Elke dag, waarop in deze ruimten gewerkt is, worden de ruimten met inbegrip van de voorwerpen en gereedschappen, die daarbij zijn gebruikt, alsmede de kolken, onmiddellijk na beëindiging der werkzaamheden, gereinigd.
 
@@ -538,17 +564,17 @@ De bedrijfsruimte heeft zodanige afmetingen, dat de door het bedrijf nodige hand
 
 3. De aanwezigheid van vlees, dat bedorven is of op andere wijze ondeugdelijk is geworden en van vleesproducten, welke bedorven of op andere wijze ondeugdelijk zijn geworden, in de bedrijfsruimten is verboden.
 
-#### Artikel 57
+##### Artikel 57
 
 1. De bedrijfsruimten, met uitzondering van koel- en vriesruimten, zijn aangesloten op een openbare drinkwaterleiding.
 
 2. De aanwezigheid, dan wel het gebruik, van ander water, dan dat, afkomstig van een waterleiding als bedoeld in het eerste lid is behoudens toestemming van de keuringsdierenarts verboden.
 
-#### Artikel 58
+##### Artikel 58
 
 Het terrein vóór de in- en uitgangen van de bedrijfsruimten is, gemeten van de buitenwand van de bedrijfsruimten, tot een breedte van ten minste één meter regelmatig bestraat, betegeld of op gelijksoortige wijze verhard, zodat afdoende reiniging kan plaatsvinden.
 
-#### Artikel 59
+##### Artikel 59
 
 1. Tot wering van vogels en van ratten, muizen, vliegen en ander ongedierte in de bedrijfsruimte worden doeltreffende maatregelen genomen.
 
@@ -556,15 +582,15 @@ Het terrein vóór de in- en uitgangen van de bedrijfsruimten is, gemeten van de
 
 #### Paragraaf I. Bijzondere voorwaarden
 
-#### Artikel 60
+##### Artikel 60
 
 De bedrijfsruimten van slachterijen, waar slachtdieren worden geslacht, mogen in rechtstreekse verbinding staan met de bedrijfsruimten, waar vlees wordt bewaard.
 
-#### Artikel 61
+##### Artikel 61
 
 In [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=V&paragraaf=I&artikel=60&z=2010-10-10&g=2010-10-10) bedoelde bedrijfsruimten hebben gemeten van de vloer een zodanige hoogte en zijn zo ingericht, dat van daarin geslacht slachtvee in hangende toestand het vlees niet met de vloer in aanraking behoeft te komen.
 
-#### Artikel 62
+##### Artikel 62
 
 1. In [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=V&paragraaf=I&artikel=60&z=2010-10-10&g=2010-10-10) bedoelde bedrijfsruimten, alsmede ruimten – indien aanwezig – waarin geslachte dieren in afwachting van de keuring worden gehangen, hebben zodanige afmetingen en zijn zo ingericht, dat de voor het slachten noodzakelijke werkzaamheden en keuring na het slachten, alsmede het merken van het vlees, naar behoren kunnen geschieden.
 
@@ -574,17 +600,17 @@ In [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afde
 
 4. Onder een slachtstand wordt verstaan de ruimte met de in het tweede en derde lid omschreven vloeroppervlakte, waarop of waarboven het brengen van een dood slachtdier in de toestand, totdat met de keuring wordt begonnen, plaatsvindt en waarop zich slechts met het slachten verband houdende verplaatsbare voorwerpen, gereedschappen en toestellen mogen bevinden.
 
-#### Artikel 63
+##### Artikel 63
 
 1. Slachtvee mag slechts ter onmiddellijke slachting in bedrijfsruimten als bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=V&paragraaf=I&artikel=60&z=2010-10-10&g=2010-10-10) aanwezig zijn.
 
 2. Gelijktijdig slachten van varkens en andere slachtdieren in dezelfde bedrijfsruimte is, tenzij met toestemming van de keuringsdierenarts en onder door deze te stellen voorwaarden, verboden.
 
-#### Artikel 64
+##### Artikel 64
 
 Het openen van magen en darmen, alsmede het reinigen van deze organen in een bedrijfsruimte als bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=V&paragraaf=I&artikel=60&z=2010-10-10&g=2010-10-10) of in een andere bedrijfsruimte is verboden, indien zich in die ruimte vlees of vleesproducten bevinden.
 
-#### Artikel 65
+##### Artikel 65
 
 1. De in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=V&paragraaf=I&artikel=60&z=2010-10-10&g=2010-10-10) bedoelde bedrijfsruimten worden niet gebruikt voor het bewaren, bewerken of verwerken van producten, afkomstig van slachtvee, welke niet voor menselijke consumptie plegen te worden aangewend, tenzij aanwezig in een confiscaatvat of -emmer, voor het opslaan of bewaren van voorwerpen of gereedschappen, welke bij het slachten niet van node zijn of van kledingstukken of andere stoffen, welker aanwezigheid ongewenst is te achten.
 
@@ -592,7 +618,7 @@ Het openen van magen en darmen, alsmede het reinigen van deze organen in een bed
 
 3. In een bedrijfsruimte als bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=V&paragraaf=I&artikel=60&z=2010-10-10&g=2010-10-10) worden tijdens het slachten slechts die werkzaamheden verricht, welke in verband staan met het slachten of met de keuring.
 
-#### Artikel 66
+##### Artikel 66
 
 1. Ten behoeve van de keuring na het slachten zijn daarvoor geschikte tafels en haken in voldoende aantal aanwezig.
 
@@ -604,15 +630,15 @@ Het openen van magen en darmen, alsmede het reinigen van deze organen in een bed
 
 5. In elke bedrijfsruimte als bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=V&paragraaf=I&artikel=60&z=2010-10-10&g=2010-10-10) of, voor zover zulks niet uitvoerbaar is te achten, in de onmiddellijke nabijheid daarvan, zijn aanwezig een wasgelegenheid met vaste aan- en afvoer, en ontsmettende, reukloze zeep en een of meer torkrollen of doelmatig handendroogapparaat.
 
-#### Artikel 67
+##### Artikel 67
 
 De inhoud van de magen en darmen wordt, voor zover deze niet rechtstreeks door de riolering afgevoerd, in een goed afgedekte, waterdichte bak verzameld en, tenzij deze inhoud elke dag na afloop van het slachten van het terrein van de slachterij wordt verwijderd, met kalk bestrooid.
 
-#### Artikel 68
+##### Artikel 68
 
 De bij de slachterij behorende stallen zijn voorzien van een waterdichte vloer en zijn behoorlijk rein ter beoordeling van de keuringsdierenarts.
 
-#### Artikel 69
+##### Artikel 69
 
 1. Personen, die slachten of bij het slachten behulpzaam zijn, oefenen hun werkzaamheden uit in naar het oordeel van de keuringsdierenarts doelmatige kleding met inbegrip van een hoofddeksel. Deze kleding, welke steeds zindelijk is, is vervaardigd van gemakkelijk te reinigen materiaal.
 
@@ -624,7 +650,7 @@ De bij de slachterij behorende stallen zijn voorzien van een waterdichte vloer e
 
 5. Gereedschappen en apparatuur, die tijdens het slachten zijn bezoedeld, worden, alvorens opnieuw te worden gebruikt, gereinigd en ontsmet met water van ten minste 82° Celsius dan wel met middelen voorgeschreven door de keuringsdierenarts.
 
-#### Artikel 70
+##### Artikel 70
 
 1. Slachtvee waarvan te verwachten valt dat het vlees ervan bij de slachting te gebruiken gereedschappen en apparatuur met smetstof zal verontreinigen, wordt in een afzonderlijke bedrijfsruimte, welke uitsluitend voor dat doel wordt gebezigd, in de toestand gebracht, bedoeld in [paragraaf C](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=II&paragraaf=C&z=2010-10-10&g=2010-10-10).
 
@@ -648,13 +674,13 @@ De bij de slachterij behorende stallen zijn voorzien van een waterdichte vloer e
 
 5. In afwijking van het bepaalde in het eerste lid mag slachtvee waarvan te verwachten valt dat het vlees ervan de bij de slachting te gebruiken gereedschappen en apparatuur met smetstof zal verontreinigen, worden geslacht in bedrijfsruimten, waar tevens slachtvee wordt geslacht, waarvan zulks niet te verwachten valt, als de keuringsdierenarts daartoe toestemming geeft. Alsdan worden zij na laatstgenoemde categorie slachtvee geslacht. In het geval, dat de keuringsdierenarts zijn in de eerste volzin bedoelde toestemming weigert, kan de minister, andere dierenartsen en de aangewezen toezichthouder op het terrein van volksgezondheid schriftelijk gehoord, alsnog toestemming hiertoe geven.
 
-#### Artikel 71
+##### Artikel 71
 
 Na afloop van het slachten van het in [artikel 70, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=V&paragraaf=I&artikel=70&z=2010-10-10&g=2010-10-10), bedoeld slachtvee en van de eerste in artikel 70, vijfde lid, genoemde categorie slachtvee worden de bedrijfsruimten, waar geslacht is en de daarin aanwezige gebruikte gereedschappen en apparatuur gereinigd en ontsmet met water van ten minste 82° Celsius en met middelen als bedoeld in [artikel 79, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=V&paragraaf=L&artikel=79&z=2010-10-10&g=2010-10-10). De kleding waarin werd geslacht en de bij het slachten gebruikte gereedschappen en apparatuur worden bovendien telkenmale wanneer de keuringsdierenarts dit noodzakelijk acht, gereinigd of ontsmet.
 
 #### Paragraaf J. Bijzondere voorschriften voor vleeswinkels, waarin wordt uitgeoefend het slagersbedrijf
 
-#### Artikel 72
+##### Artikel 72
 
 1. Bedrijfsruimten van die vleeswinkels, waarin wordt uitgeoefend het slagersbedrijf en de in die bedrijfsruimten aanwezige toestellen, gereedschappen en andere voorwerpen, benodigd voor het bewaren, bereiden, bewerken, uitstallen of verkopen van in [artikel 73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=V&paragraaf=J&artikel=73&z=2010-10-10&g=2010-10-10), bedoelde producten, bevinden zich in reine toestand en worden gedurende de werkzaamheden in zo rein mogelijke toestand gehouden.
 
@@ -662,7 +688,7 @@ Na afloop van het slachten van het in [artikel 70, eerste lid](https://wetten.ov
 
 3. In de bedrijfsruimten van elke vleeswinkel, bedoeld in het eerste lid, of voor zover zulks niet uitvoerbaar is te achten, in onmiddellijke nabijheid daarvan, zijn een wasgelegenheid met vaste aan- en afvoer met reukloze zeep en één of meerdere torkrollen of doelmatig handdroogapparaat aanwezig.
 
-#### Artikel 73
+##### Artikel 73
 
 1. In bedrijfsruimten van vleeswinkels, bedoeld in [artikel 72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=V&paragraaf=J&artikel=72&z=2010-10-10&g=2010-10-10), zijn behalve de in artikel 72, eerste lid, bedoelde voorwerpen slechts aanwezig:
 
@@ -682,17 +708,17 @@ Na afloop van het slachten van het in [artikel 70, eerste lid](https://wetten.ov
 
 4. Zelfstandigheden, welke aan het vlees of de vleesproducten een afwijkende smaak of geur kunnen geven, dan wel het bederf ervan kunnen bevorderen, zijn in bedrijfsruimten van vleeswinkels, bedoeld in [artikel 72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=V&paragraaf=J&artikel=72&z=2010-10-10&g=2010-10-10), niet aanwezig.
 
-#### Artikel 74
+##### Artikel 74
 
 Personen in vleeswinkels als bedoeld in [artikel 72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=V&paragraaf=J&artikel=72&z=2010-10-10&g=2010-10-10), belast met het bewerken en de verkoop van vlees of vleesproducten, dragen tijdens de uitoefening van deze werkzaamheden schone kleren, met inbegrip van een hoofddeksel, en hebben steeds schone handen.
 
 #### Paragraaf K. Bijzondere voorschriften voor vleeswinkels, waar vlees niet wordt bewerkt, maar uitsluitend verkocht
 
-#### Artikel 75
+##### Artikel 75
 
 De artikelen van [paragraaf H](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=V&paragraaf=H&z=2010-10-10&g=2010-10-10) – met uitzondering van het bepaalde in het [derde lid van artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=V&paragraaf=H&artikel=56&z=2010-10-10&g=2010-10-10), ten aanzien van de aanwezigheid van bedorven of op andere wijze ondeugdelijk geworden vlees of vleesproducten, alsmede de artikelen van [paragraaf O](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=V&paragraaf=O&z=2010-10-10&g=2010-10-10) gelden niet voor de bedrijfsruimten van die vleeswinkels, waar vlees niet wordt bewerkt, maar uitsluitend wordt verkocht.
 
-#### Artikel 76
+##### Artikel 76
 
 1. In bedrijfsruimten van vleeswinkels als bedoeld in [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=V&paragraaf=K&artikel=75&z=2010-10-10&g=2010-10-10) is geen ander vlees aanwezig dan voorverpakt vlees dat afkomstig is uit inrichtingen, ten aanzien waarvan op grond van [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=V&paragraaf=N&artikel=89&z=2010-10-10&g=2010-10-10) een vergunning is verleend.
 
@@ -702,7 +728,7 @@ De artikelen van [paragraaf H](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&h
 
 4. De ruimte, waarin vlees in afwachting van verkoop wordt bewaard, bevindt zich te allen tijde in reine toestand.
 
-#### Artikel 77
+##### Artikel 77
 
 1. In een bedrijfsruimte van een vleeswinkel als bedoeld in [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=V&paragraaf=K&artikel=75&z=2010-10-10&g=2010-10-10) mag vlees in diepgevroren toestand aanwezig zijn, mits het wordt bewaard in een diepvriesmeubel met volautomatische koeling, waarin de temperatuur niet hoger mag zijn dan –18° Celsius, en het wat betreft de verpakking voldoet aan de daaraan in [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=V&paragraaf=K&artikel=78&z=2010-10-10&g=2010-10-10) gestelde eisen.
 
@@ -710,7 +736,7 @@ De artikelen van [paragraaf H](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&h
 
 3. Het in het eerste lid bedoelde vriesmeubel bevindt zich te allen tijde in reine toestand.
 
-#### Artikel 78
+##### Artikel 78
 
 1. De verpakking van voorverpakt vlees voldoet aan de volgende eisen:
 
@@ -742,15 +768,15 @@ De artikelen van [paragraaf H](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&h
 
 #### Paragraaf L. Bijzondere voorschriften voor bewaarplaatsen van vlees
 
-#### Artikel 79
+##### Artikel 79
 
 Bedrijfsruimten van bewaarplaatsen van vlees mogen in rechtstreekse verbinding staan met die van slachterijen, waar slachtdieren worden geslacht.
 
-#### Artikel 80
+##### Artikel 80
 
 Bedrijfsruimten van bewaarplaatsen van vlees zijn droog en koel en bevinden zich evenals de daarin aanwezige voorwerpen, toestellen en gereedschappen te allen tijde in reine toestand.
 
-#### Artikel 81
+##### Artikel 81
 
 1. In bedrijfsruimten van bewaarplaatsen van vlees zijn slechts voorwerpen, toestellen of gereedschappen, welke met de bewerking van vlees verband houden, aanwezig.
 
@@ -758,23 +784,23 @@ Bedrijfsruimten van bewaarplaatsen van vlees zijn droog en koel en bevinden zich
 
 3. Zelfstandigheden, welke aan het vlees een afwijkende smaak of geur kunnen geven, dan wel het bederf ervan kunnen bevorderen, zijn in bewaarplaatsen van vlees niet aanwezig.
 
-#### Artikel 82
+##### Artikel 82
 
 Oprichten, hebben of gebruiken van inrichtingen tot bewaren van vlees onder koeling, in de vorm van diepvrieskluizen, hetzij als bedrijf, hetzij in samenwerking met anderen, is toegestaan met vergunning verleend door de minister, de keuringsdierenarts gehoord.
 
 #### Paragraaf M. Bijzondere voorschriften voor vleesproductenfabrieken
 
-#### Artikel 83
+##### Artikel 83
 
 De bedrijfsruimten van vleesproductenfabrieken staan, met uitzondering van ruimten waarin het vlees wordt bewaard, in rechtstreekse verbinding met elkaar.
 
-#### Artikel 84
+##### Artikel 84
 
 1. In de bedrijfsruimten van vleesproductenfabrieken zijn slechts die voorwerpen, toestellen, gereedschappen of stoffen aanwezig, welke bij de be- en verwerking van vlees en bij de bereiding van vleesproducten worden gebruikt.
 
 2. Stoffen, waarvan het gebruik bij de bereiding van vleesproducten niet is toegestaan, alsmede zelfstandigheden, welke aan het vlees of de vleesproducten een afwijkende smaak of geur kunnen geven, dan wel het bederf ervan kunnen bevorderen, zijn in bedrijfsruimten van vleesproductenfabrieken niet aanwezig.
 
-#### Artikel 85
+##### Artikel 85
 
 1. De bedrijfsruimten van vleesproductenfabrieken en de daarin aanwezige voorwerpen, toestellen en gereedschappen bevinden zich te allen tijde in reine toestand.
 
@@ -784,21 +810,21 @@ De bedrijfsruimten van vleesproductenfabrieken staan, met uitzondering van ruimt
 
 4. In de bedrijfsruimten van vleesproductenfabrieken is een wasgelegenheid met vaste aan- en afvoer, met reukloze zeep en een of meerdere torkrollen of doelmatig handendroogapparaat, tenzij zich in de onmiddellijke nabijheid een afzonderlijk lokaal bevindt voor het wassen der handen.
 
-#### Artikel 86
+##### Artikel 86
 
 Personen, werkzaam in bedrijfsruimten van vleesproductenfabrieken, dragen tijdens de uitoefening van hun werkzaamheden schone kleding, waaronder begrepen een muts, en hebben steeds reine handen en armen.
 
-#### Artikel 87
+##### Artikel 87
 
 Roken, pruimen of spuwen in de bedrijfsruimten van vleesproductenfabrieken is verboden.
 
 #### Paragraaf N. Bijzondere voorschriften voor inrichtingen voor het bewerken of verduurzamen van vlees of het bereiden of bewerken van vleesproducten
 
-#### Artikel 88
+##### Artikel 88
 
 Voor de bedrijfsruimten van inrichtingen, bestemd tot of gebruikt voor het bewerken of verduurzamen van vlees of het bereiden of bewerken van vleesproducten gelden de voorschriften, gesteld in de artikelen van [paragraaf M](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=V&paragraaf=M&z=2010-10-10&g=2010-10-10) van deze regeling ten aanzien van bedrijfsruimten van vleesproductenfabrieken.
 
-#### Artikel 89
+##### Artikel 89
 
 1. Oprichten, hebben of gebruiken van inrichtingen, waar voorverpakking van vlees, ter bevoorrading van vleeswinkels als bedoeld in [paragraaf J](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=V&paragraaf=J&z=2010-10-10&g=2010-10-10) of in [paragraaf K](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=V&paragraaf=K&z=2010-10-10&g=2010-10-10) van deze regeling plaatsvindt, is slechts toegestaan met vergunning van de minister, de keuringsdierenarts gehoord.
 
@@ -806,17 +832,17 @@ Voor de bedrijfsruimten van inrichtingen, bestemd tot of gebruikt voor het bewer
 
 3. Aan de vergunning kunnen voorschriften worden verbonden.
 
-#### Artikel 90
+##### Artikel 90
 
 De temperatuur binnen de bedrijfsruimte van een inrichting als bedoeld in [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=V&paragraaf=N&artikel=89&z=2010-10-10&g=2010-10-10) is ten tijde van de voorverpakking niet hoger dan 12° Celsius, welke temperatuur door middel van een aangebrachte thermometer steeds gemakkelijk afleesbaar is.
 
-#### Artikel 91
+##### Artikel 91
 
 Vlees wordt uitsluitend uitgesneden, indien de inwendige temperatuur ervan ten hoogste 7° Celsius bedraagt, tenzij de uitsnijruimte in hetzelfde complex ligt als de slachtruimte, waar de keuring na het slachten van het vlees heeft plaatsgevonden, en beide ruimten zodanig dicht bij elkaar liggen dat het uit te snijden vlees zonder overlading van de slachtruimte naar de uitsnijruimte kan worden overgebracht en bovendien het uitsnijden onmiddellijk na het overbrengen geschiedt.
 
 #### Paragraaf O. Voorschriften ter voorkoming van besmetting van vlees en vleesproducten
 
-#### Artikel 92
+##### Artikel 92
 
 1. In de onmiddellijke nabijheid van de bedrijfsruimten van de inrichtingen, bedoeld in artikel 1, onderdeel g, van het besluit, zijn één of meer toiletten aanwezig, welke zich steeds in reine toestand bevinden.
 
@@ -830,7 +856,7 @@ Vlees wordt uitsluitend uitgesneden, indien de inwendige temperatuur ervan ten h
 
 6. Te openen vensters of ventilatieopeningen van toiletten en urinoirs komen niet uit op de bedrijfsruimten van de inrichtingen, bedoeld in artikel 1, onderdeel g, van het besluit. Deze vensters en openingen zijn met vliegengaas afgesloten.
 
-#### Artikel 93
+##### Artikel 93
 
 1. In de bedrijfsruimten van de inrichtingen, bedoeld in artikel 1, onderdeel g, van het besluit, zijn geen honden en katten aanwezig, tenzij de dieren bestemd zijn om in een op het terrein van een slachterij aanwezige inrichting pijnloos te worden gedood.
 
@@ -840,7 +866,7 @@ Vlees wordt uitsluitend uitgesneden, indien de inwendige temperatuur ervan ten h
 
 #### Paragraaf P. De voorwaarden, waaraan bij het vervoer van vlees wordt voldaan
 
-#### Artikel 94
+##### Artikel 94
 
 1. Tenzij het betreft het vervoer van vlees van de slachterij naar het bedrijf van een slager of naar een vleeswinkel en dit vervoer niet langer dan één uur duurt, is het verboden vlees dat is goedgekeurd te vervoeren, indien de inwendige temperatuur van het vlees meer dan 7° Celsius bedraagt, met dien verstande dat, voor zover het slachtafvallen betreft, de inwendige temperatuur niet meer dan 3° Celsius bedraagt. Bij het vervoeren mag bezoedeling van het vlees niet plaatsvinden.
 
@@ -888,7 +914,7 @@ Vlees wordt uitsluitend uitgesneden, indien de inwendige temperatuur ervan ten h
 
 #### Paragraaf Q. Wat niet onder vlees, onderscheidenlijk onder vleesproducten, moet worden verstaan
 
-#### Artikel 95
+##### Artikel 95
 
 Van hetgeen in deze regeling onder vlees wordt verstaan, worden uitgezonderd:
 
@@ -908,7 +934,7 @@ Van hetgeen in deze regeling onder vlees wordt verstaan, worden uitgezonderd:
 
 - ii. darmen van nuchtere kalveren;
 
-#### Artikel 96
+##### Artikel 96
 
 Van hetgeen in deze regeling onder vleesproducten wordt verstaan, worden uitgezonderd:
 
@@ -918,7 +944,7 @@ Van hetgeen in deze regeling onder vleesproducten wordt verstaan, worden uitgezo
 
 #### Paragraaf R. Voorschriften voor het verwerken van vlees tot vleesproducten
 
-#### Artikel 97
+##### Artikel 97
 
 De eigenschappen van vlees worden niet geacht verloren te gaan door:
 
@@ -934,7 +960,7 @@ De eigenschappen van vlees worden niet geacht verloren te gaan door:
 
 - f. inhullen in vet, gelatine of andere stoffen welke ten doel hebben de lucht af te sluiten.
 
-#### Artikel 98
+##### Artikel 98
 
 1. Bij het verduurzamen of toebereiden van vlees bij wege van bedrijf wordt zindelijkheid nauwgezet betracht.
 
@@ -942,7 +968,7 @@ De eigenschappen van vlees worden niet geacht verloren te gaan door:
 
 3. Aan de in het tweede lid bedoelde personen zijn roken, pruimen en spuwen in het werklokaal niet toegestaan.
 
-#### Artikel 99
+##### Artikel 99
 
 1. Voor het verduurzamen en toebereiden van vlees mag ander vlees, dan hetwelk is goedgekeurd conform [afdeling III](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=III&z=2010-10-10&g=2010-10-10) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=IV&z=2010-10-10&g=2010-10-10) van deze regeling en zich in deugdelijke toestand bevindt, niet worden gebruikt.
 
@@ -952,17 +978,17 @@ De eigenschappen van vlees worden niet geacht verloren te gaan door:
 
 4. Darmscheilen van varkens worden niet anders dan door uitsmelten tot vleesproducten verwerkt, tenzij de darmscheilen onder toezicht van de keuringsdierenarts worden verkleind en, zo nodig na vermenging met andere voor het bereiden van vleesproducten toegelaten stoffen, door verhitting in luchtdicht gesloten voorwerpen worden geconserveerd, in welk geval de darmscheilen slechts onmiddellijk voorafgaande de verwerking in de voor vleesproductenbereiding bestemde ruimten aanwezig mogen zijn en de bij de bereiding gebruikte gereedschappen en toestellen dadelijk na het gebruik worden gereinigd en ontsmet.
 
-#### Artikel 100
+##### Artikel 100
 
 Bij het bereiden van vleesproducten zijn het gebruik en de toevoeging van andere vleesproducten, mits deze zich in deugdelijke toestand bevinden, toegestaan.
 
-#### Artikel 101
+##### Artikel 101
 
 Omhulsels, welke worden gebruikt voor het verduurzamen van vlees of vleesproducten, bestaan uit deugdelijk materiaal, dat geen bestanddelen afgeeft in hoeveelheden, welke schadelijk voor de gezondheid kunnen zijn of de vleesproducten kunnen verontreinigen.
 
 #### Paragraaf S. Voorschriften voor het verwerken van vlees en vleesproducten
 
-#### Artikel 102
+##### Artikel 102
 
 1. Vlees, daaronder niet begrepen bloed, voldoet, indien het is bestemd voor menselijke consumptie, aan de volgende eisen:
 
@@ -994,7 +1020,7 @@ Omhulsels, welke worden gebruikt voor het verduurzamen van vlees of vleesproduct
 
 4. In afwijking van het in het derde lid bepaalde mag in plaats van de aanduiding ‘vlees’ of ‘karni’ een daarvoor in de handel gebruikelijke naam worden gebezigd.
 
-#### Artikel 103
+##### Artikel 103
 
 1. Vleesproducten bestemd voor menselijke consumptie voldoen aan de volgende eisen:
 
@@ -1042,7 +1068,7 @@ Omhulsels, welke worden gebruikt voor het verduurzamen van vlees of vleesproduct
 
 - b. de in het eerste en tweede lid genoemde stoffen tot de daarbij vermelde beperkingen en de in het derde lid vermelde starterculturen.
 
-#### Artikel 104
+##### Artikel 104
 
 Bij de bereiding van de in deze paragraaf bedoelde producten wordt geen gebruik gemaakt van:
 
@@ -1062,17 +1088,17 @@ Bij de bereiding van de in deze paragraaf bedoelde producten wordt geen gebruik 
 
 - 3. soja-eiwit of sojabloem, tot een gehalte van ten hoogste 10%.
 
-#### Artikel 105
+##### Artikel 105
 
 1. De bereiding, behandeling, verpakking of bewaring van de producten in deze paragraaf bedoeld geschiedt niet in bedrijven, waarin behoudens het bepaalde in het tweede lid, natriumnitriet in voorraad aanwezig is, anders dan vermengd met keukenzout tot een natriumnitrietgehalte van ten hoogste 0,6% en voorzien van een opschrift vermeldende de procentuele samenstelling, de gebruiksaanwijzing alsmede de naam van de fabrikant van dit mengsel.
 
 2. De keuringsdierenarts kan ontheffing verlenen van het bepaalde in het eerste lid. Aan deze ontheffing kunnen voorschriften worden verbonden.
 
-#### Artikel 106
+##### Artikel 106
 
 Aanduidingen in woord en beeld die doordat zij onjuist of onvolledig zijn of een onjuiste indruk wekken, misleidend kunnen zijn met betrekking tot de aard, de samenstelling, de oorsprong en herkomst, de hoeveelheid, de houdbaarheid, of de wijze van bereiding van de in deze regeling bedoelde producten, worden niet gebezigd op of bij het product dan wel de verpakking daarvan.
 
-#### Artikel 107
+##### Artikel 107
 
 1. De producten, bedoeld in deze regeling, aanwezig in verpakking, zijn voorzien van een aanduiding aangevende het gewicht van de in de verpakking aanwezige waar en een aanduiding aangevende de namen van de ingrediënten, waaruit het product is samengesteld.
 
@@ -1142,23 +1168,23 @@ Aanduidingen in woord en beeld die doordat zij onjuist of onvolledig zijn of een
 
 27. Het bepaalde in de voorafgaande leden is niet van toepassing op de in deze paragraaf bedoelde producten, die op de plaats van verkoop aan particulieren op verzoek van de koper zijn verpakt en op de in deze paragraaf bedoelde producten aanwezig in een verpakking met een netto nominaal gewicht van meer dan 10 kilogram.
 
-#### Artikel 108
+##### Artikel 108
 
 De in [artikel 107, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=VII&paragraaf=S&artikel=107&z=2010-10-10&g=2010-10-10), bedoelde aanduidingen voor de daar bedoelde ingrediënten bestaan uit hetzij de voor die ingrediënten bij of krachtens enig wettelijk voorschrift vastgestelde naam, hetzij, indien voor die ingrediënten geen zodanige naam is vastgesteld, een daarmee gelijk te stellen gebruikelijke naam of een aanduiding van de ingrediënten waaruit de aard en samenstelling duidelijk blijkt, met dien verstande dat ingrediënten mogen worden aangeduid met de normaliter gebruikte groepsnaam.
 
-#### Artikel 109
+##### Artikel 109
 
 1. Producten, niet zijnde vlees of vleesproduct, doch die in eigenschappen of uiterlijk voorkomen gelijken op producten in deze paragraaf bedoeld, en bestemd of geschikt zijn om deze te vervangen, mogen niet dan met toestemming van de keuringsdierenarts, aan welke toestemming door hem voorschriften kunnen worden verbonden, worden aangeduid met namen waaruit aard en samenstelling, deze laatste kwalitatief en kwantitatief, niet of niet voldoende blijken.
 
 2. Zij worden aangeduid, hetzij met een naam waarvoor door de keuringsdierenarts toestemming is verleend, hetzij overeenkomstig hun samenstelling naar de hoeveelheid van de bij de bereiding gebruikte grondstoffen op een voor de koper begrijpelijke wijze.
 
-#### Artikel 110
+##### Artikel 110
 
 Het product dat door een opschrift of enige andere wijze wordt aangeduid dan wel kennelijk voorhanden is als een der producten, in de [artikelen 102](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=VII&paragraaf=S&artikel=102&z=2010-10-10&g=2010-10-10) en [103](https://wetten.overheid.nl/jci1.3:c:BWBR0028806&hoofdstuk=I&afdeling=VII&paragraaf=S&artikel=103&z=2010-10-10&g=2010-10-10) van deze paragraaf bedoeld, voldoet aan de regelen voor het desbetreffende product in of krachtens deze regeling vastgesteld.
 
 ### Afdeling VIII. Tarieven slacht- en vleeskeuring, dekken en import dieren Bonaire
 
-#### Artikel 111
+##### Artikel 111
 
 1. De tarieven voor het keuren op grond van deze regeling van geiten en schapen bedragen als onder I aangegeven, voor het keuren van runderen en paardachtigen tot en met 125 kilogram geslacht gewicht als onder II aangegeven en boven 125 kilogram geslacht gewicht als onder III aangegeven.
 
@@ -1174,11 +1200,11 @@ Het product dat door een opschrift of enige andere wijze wordt aangeduid dan wel
 
 3. Het slachten geschiedt onder voorwaarde dat de huid van het dier aan het eilandgebied toevalt.
 
-#### Artikel 112
+##### Artikel 112
 
 Het tarief bedraagt terzake het afgeven van een certificaat van goedkeuring voor de invoer van vlees: een bedrag gelijk aan 5% van de c.i.f. waarde van het vlees.
 
-#### Artikel 113
+##### Artikel 113
 
 Het tarief bedraagt ter zake van het in behandeling nemen van een aanvraag tot het verstrekken van een in het belang van de verzoeker af te geven verklaring van afkeuring of vernietiging van op het abattoir geslachte of op respectievelijk in de bij het abattoir behorende terreinen of koralen gestorven:
 
@@ -1186,7 +1212,7 @@ Het tarief bedraagt ter zake van het in behandeling nemen van een aanvraag tot h
 
 - 2°. runderen, kalveren of varkens, ook indien op de verklaring de onder a bedoelde dieren voorkomen: $ 6,15.
 
-#### Artikel 114
+##### Artikel 114
 
 1. Het tarief bedraagt ter zake van het in behandeling nemen van een aanvraag tot het verstrekken, of bij verlies opnieuw verstrekken, van een verklaring vermeldende de plaats gehad hebbende keuring van vers, gekoeld of bevroren vlees, dan wel van gezouten en gedroogde runderhuiden en schapen- en geitenvellen, af te geven ingeval van verzending dezer artikelen naar plaatsen buiten het eiland gelegen:
 
@@ -1200,7 +1226,7 @@ Het tarief bedraagt ter zake van het in behandeling nemen van een aanvraag tot h
 
 - b. andere dieren $ 6,15.
 
-#### Artikel 115
+##### Artikel 115
 
 1. Het tarief bedraagt ter zake van het in behandeling nemen van een aanvraag tot het verstrekken van een vergunning voor het exploiteren van een inrichting, bedoeld in het Landsbesluit slacht- en vleeskeuring Bonaire: $ 55,87.
 
@@ -1208,11 +1234,11 @@ Het tarief bedraagt ter zake van het in behandeling nemen van een aanvraag tot h
 
 ### Hoofdstuk II. Aanwijzing toezichthouders, naam besluit en inwerkingtreding
 
-#### Artikel 116
+##### Artikel 116
 
 Deze regeling wordt aangehaald als: Regeling slacht- en vleeskeuring Bonaire.
 
-#### Artikel 117
+##### Artikel 117
 
 Deze regeling treedt in werking op het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) in werking treedt.
 

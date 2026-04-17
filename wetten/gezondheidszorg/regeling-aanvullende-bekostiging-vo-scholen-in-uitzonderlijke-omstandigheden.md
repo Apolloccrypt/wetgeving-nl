@@ -1,20 +1,46 @@
 ---
-title: "Regeling aanvullende bekostiging vo-scholen in uitzonderlijke omstandigheden"
+title: "Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 30 augustus 2021, nr. VO/29097410, houdende regels voor de aanvullende bekostiging voor vo-scholen in uitzonderlijke omstandigheden (Regeling aanvullende bekostiging vo-scholen in uitzonderlijke omstandigheden)"
 identifier: "BWBR0045607"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045607"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045607"
+soort: "ministeriele-regeling"
+stam_id: "16075053"
+version_id: "30809962"
+internal_id: "C44156991"
+label_id: "16006944"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045607/2026-01-01/0"
+intitule_bron: "Stcrt.2021-40674"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-08-30"
+intitule_published: "2021-09-13"
+intitule_in_force: "2021-09-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-23665"
+original_signed_date: "2025-07-02"
+original_published_date: "2025-07-11"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-23665"
+entry_into_force_date: "2025-07-02"
+jci_1_3: "jci1.3:c:BWBR0045607&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0045607&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling aanvullende bekostiging vo-scholen in uitzonderlijke omstandigheden"
+signed_date: "2025-07-02"
+entry_into_force: "2025-07-02"
 ---
-
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 30 augustus 2021, nr. VO/29097410, houdende regels voor de aanvullende bekostiging voor vo-scholen in uitzonderlijke omstandigheden (Regeling aanvullende bekostiging vo-scholen in uitzonderlijke omstandigheden)
 
 Gelet op [artikel 82, eerste lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=82), [artikel 2.2.3 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.3) en [artikel 2, vierde lid, van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -48,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 - **wet:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Aanvullende bekostiging uitzonderingsscholen
+##### Artikel 2. Aanvullende bekostiging uitzonderingsscholen
 
 1. De minister verstrekt aanvullende bekostiging aan het bevoegd gezag van een school die op grond van [artikel 4.25, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.25) in stand wordt gehouden of wordt bekostigd.
 
@@ -70,7 +96,7 @@ In deze regeling wordt verstaan onder:
 
 4. Een bevoegd gezag komt ook voor de aanvullende bekostiging, bedoeld in het tweede lid, in aanmerking als het een school heeft met een nevenvestiging die voldoet aan de voorwaarden, bedoeld in [artikel 4, onderdeel a, van de Beleidsregel uitzonderingsscholen VO 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032538&artikel=4). De aanvullende bekostiging heeft alleen betrekking op die nevenvestiging en wordt bepaald op basis van het onderwijsaanbod op de nevenvestiging en het aantal leerlingen dat op de teldatum op de nevenvestiging staat ingeschreven. Bij opheffing van de nevenvestiging vervalt het recht op de aanvullende bekostiging.
 
-#### Artikel 3. Aanvullende bekostiging vestigingen met een breed onderwijsaanbod
+##### Artikel 3. Aanvullende bekostiging vestigingen met een breed onderwijsaanbod
 
 1. De minister verstrekt aanvullende bekostiging voor vestigingen met een breed onderwijsaanbod.
 
@@ -90,7 +116,7 @@ In deze regeling wordt verstaan onder:
 
 4. De aanvullende bekostiging kan slechts worden verstrekt voor vestigingen die voldoen aan de voorwaarden, bedoeld in [artikel 6.1, eerste lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.1).
 
-#### Artikel 4. Aanvullende bekostiging maritiem vbo
+##### Artikel 4. Aanvullende bekostiging maritiem vbo
 
 1. De minister verstrekt aanvullende bekostiging aan het bevoegd gezag van een school die het vbo-profiel maritiem en techniek, bedoeld in [artikel 2.26, tweede lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.26), aanbiedt als het gebruik van opleidingsschepen, simulatoren en gespecialiseerde praktijklokalen, al dan niet in combinatie met een maritieme leeromgeving, een onlosmakelijk onderdeel vormt van het maritiem vbo op de school.
 
@@ -112,7 +138,7 @@ In deze regeling wordt verstaan onder:
 
 4. De aanvullende bekostiging, bedoeld in het tweede lid, onderdeel b, en derde lid, onderdeel b, wordt berekend op basis van het aantal leerlingen dat op de teldatum staat ingeschreven op het vbo-profiel maritiem en techniek.
 
-#### Artikel 5. Aanvullende bekostiging internationaal georiënteerd voortgezet onderwijs en Europees Baccalaureaat
+##### Artikel 5. Aanvullende bekostiging internationaal georiënteerd voortgezet onderwijs en Europees Baccalaureaat
 
 1. De minister verstrekt aanvullende bekostiging aan het bevoegd gezag van een school die een cursus internationaal georiënteerd voortgezet onderwijs of een cursus Europees Baccalaureaat aanbiedt.
 
@@ -120,7 +146,7 @@ In deze regeling wordt verstaan onder:
 
 3. De hoogte van de aanvullende bekostiging in 2026 wordt vastgesteld op € 1.327,27 per bekostigde leerling die op de teldatum is toegelaten tot een cursus internationaal georiënteerd voortgezet onderwijs of een cursus Europees Baccalaureaat.
 
-#### Artikel 6. Aanvullende bekostiging leerlingen in gemengde leerweg
+##### Artikel 6. Aanvullende bekostiging leerlingen in gemengde leerweg
 
 1. De minister verstrekt aanvullende bekostiging aan het bevoegd gezag van een school die de gemengde leerweg aanbiedt.
 
@@ -128,7 +154,7 @@ In deze regeling wordt verstaan onder:
 
 3. De hoogte van de aanvullende bekostiging in 2026 wordt vastgesteld op € 376,11 per leerling die op de teldatum staat ingeschreven in het derde of vierde leerjaar van de gemengde leerweg.
 
-#### Artikel 7. Beschikking en betaling
+##### Artikel 7. Beschikking en betaling
 
 1. De minister stelt de aanvullende bekostiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=2&z=2026-01-01&g=2026-01-01), in januari van het jaar waarop de bekostiging betrekking heeft vast. De minister stelt de aanvullende bekostiging, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2026-01-01&g=2026-01-01) en [4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=4&z=2026-01-01&g=2026-01-01), uiterlijk in de maand maart van het jaar waarop de bekostiging betrekking heeft vast. De aanvullende bekostiging wordt betaald in maandelijkse termijnen van gelijke omvang.
 
@@ -144,17 +170,17 @@ In deze regeling wordt verstaan onder:
 
 5. In afwijking van het derde en vierde lid stelt de minister de aanvullende bekostiging, bedoeld in [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=6a&z=2026-01-01&g=2026-01-01), voor 2025 uiterlijk in de maand november 2025 vast, berekend op basis van het door de accountant goedgekeurde aantal leerlingen dat op de teldatum staat ingeschreven bij de school voor praktijkonderwijs. Er vindt geen herziening plaats als bedoeld in het vierde lid. De aanvullende bekostiging voor 2025 wordt uiterlijk in november 2025 in één termijn betaald.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 15 november 2021.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling aanvullende bekostiging vo-scholen in uitzonderlijke omstandigheden.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a. Aanvullende bekostiging schoolcampus met een breed onderwijsaanbod
+##### Artikel 3a. Aanvullende bekostiging schoolcampus met een breed onderwijsaanbod
 
 1. De Minister kan de aanvullende bekostiging, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2026-01-01&g=2026-01-01), op aanvraag van het bevoegd gezag ook verstrekken indien:
 
@@ -182,7 +208,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 8. [Artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing op de aanvullende bekostiging bedoeld in het eerste lid.
 
-#### Artikel 8a. Omhangbepaling
+##### Artikel 8a. Omhangbepaling
 
 Deze regeling is gebaseerd op [artikel 5.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.9) en [artikel 6.1, vierde lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.1).
 
@@ -298,7 +324,7 @@ Onder de tweede voorwaarde wordt het volgende verstaan:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 6a. Aanvullende bekostiging praktijkonderwijs voor aanvullende loopbaanbegeleiding
+##### Artikel 6a. Aanvullende bekostiging praktijkonderwijs voor aanvullende loopbaanbegeleiding
 
 1. De minister verstrekt aanvullende bekostiging aan het bevoegd gezag van een school voor praktijkonderwijs voor het verzorgen van aanvullende loopbaanbegeleiding.
 

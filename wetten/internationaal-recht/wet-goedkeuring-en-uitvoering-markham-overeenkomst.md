@@ -1,14 +1,38 @@
 ---
-title: "Wet goedkeuring en uitvoering Markham-overeenkomst"
+title: "Wet van 16 december 1992, tot goedkeuring en uitvoering van de op 26 mei 1992 te 's-Gravenhage tot stand gekomen Overeenkomst tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de exploitatie van de voorkomens in het Markhamveld en de afname van bitumina daaruit, met bijlagen"
 identifier: "BWBR0005766"
-categorie: "Internationaal recht"
-publicatiedatum: 2021-07-01
-laatste_update: 2021-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005766"
+country: "nl"
+rank: "wet"
+publication_date: "2021-07-01"
+last_updated: "2021-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005766"
+soort: "wet"
+stam_id: "363673"
+version_id: "535402"
+internal_id: "C535401"
+label_id: "355454"
+dtd_version: "2.0"
+original_entry_into_force: "1992-12-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005766/2021-07-01/0"
+intitule_bron: "Stb.1992-673"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-12-16"
+intitule_status: "goed"
+original_publication: "Stb.1992-673"
+original_signed_date: "1992-12-16"
+original_effect: "nieuwe-regeling"
+original_dossier: "22773"
+entry_into_force_date: "1992-12-25"
+entry_into_force_dossier: "22773"
+jci_1_3: "jci1.3:c:BWBR0005766&z=2021-07-01&g=2021-07-01"
+jci_1_0: "1.0:c:BWBR0005766&g=2021-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet goedkeuring en uitvoering Markham-overeenkomst"
+signed_date: "1992-12-16"
+entry_into_force: "1992-12-25"
 ---
-
-# Wet goedkeuring en uitvoering Markham-overeenkomst
+# Wet van 16 december 1992, tot goedkeuring en uitvoering van de op 26 mei 1992 te 's-Gravenhage tot stand gekomen Overeenkomst tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de exploitatie van de voorkomens in het Markhamveld en de afname van bitumina daaruit, met bijlagen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,11 +40,11 @@ Alzo Wij in overweging genomen hebben, dat de op 26 mei 1992 te 's-Gravenhage to
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 De op 26 mei 1992 te 's-Gravenhage tot stand gekomen Overeenkomst tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de exploitatie van de voorkomens in het Markhamveld en de afname van bitumina daaruit, met twee bijlagen, waarvan de Nederlandse en de Engelse tekst zijn geplaatst in **Tractatenblad** 1992, 99, wordt goedgekeurd voor Nederland.
 
-#### Artikel 2
+##### Artikel 2
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -36,7 +60,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 **Onze Minister**: Onze Minister van Economische Zaken en Klimaat.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Met betrekking tot een Markham-winningsvergunning wordt in zoverre afgeweken van het bij en krachtens de [paragrafen 5.1.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&paragraaf=5.1.1.3) en [5.1.1.4 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&paragraaf=5.1.1.4) bepaalde dat, voorzover het betreft het winnen van aardolie of aardgas uit voorkomens in het Markham-veld:
 
@@ -50,13 +74,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Aan een Markham-winningsvergunning worden voorts, voor zover het betreft de winning van aardolie of aardgas uit voorkomens in het Markham-veld, in aanvulling op het bij en krachtens de [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168) bepaalde de beperkingen en voorschriften verbonden die noodzakelijk zijn ter uitvoering van de artikelen 3, 4, 5, eerste, derde, vierde, vijfde en zesde lid, 6, eerste, tweede, derde en zesde lid, 7, 8, eerste lid, 10, tweede lid, 11, eerste, tweede en derde lid, 14, vierde lid, 16, eerste tot en met vierde en zevende lid, 20, tweede en derde lid, en 21 derde tot en met vijfde lid, van de Markham-overeenkomst.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Ingeval een Markham-winningsvergunning is verleend vóór het tijdstip van inwerkingtreden van deze wet, wordt die vergunning door Onze Minister zodanig gewijzigd, dat de daaraan verbonden voorschriften en beperkingen komen te voldoen aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005766&artikel=3&z=2021-07-01&g=2021-07-01).
 
 2. Overigens kunnen de aan een Markham-winningsvergunning verbonden voorschriften en beperkingen worden gewijzigd en kunnen nieuwe voorschriften en beperkingen aan een zodanige vergunning worden verbonden, voor zover dat noodzakelijk is ter uitvoering van de artikelen 10, 11, 13, 14, 15, 16, 17, en 19 van de Markham-overeenkomst of EU-regelgeving.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De houders van een Markham-winningsvergunning verlenen de door Onze Minister verlangde medewerking aan de totstandkoming van vergunninghoudersovereenkomsten.
 
@@ -66,25 +90,25 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Indien een vergunninghouder niet de in het eerste of derde lid verlangde medewerking verleent, dan wel een vergunninghoudersovereenkomst niet naleeft, kan Onze Minister overgaan tot intrekking van de Markham-winningsvergunning. Van de beschikking tot intrekking wordt mededeling gedaan in de Staatscourant. [Artikel 142 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=142) is van overeenkomstige toepassing.
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de **Staatscourant**.
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze wet kan worden aangehaald als: Wet goedkeuring en uitvoering Markham-overeenkomst.
 

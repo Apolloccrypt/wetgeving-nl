@@ -1,13 +1,39 @@
 ---
-title: "Besluit ondermandaat, volmacht en machtiging voor de Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken 2025"
+title: "Besluit van de directeur-generaal Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken van 19 november 2024, nr. MD202478INSTAC, houdende verlening van ondermandaat, volmacht en machtiging voor de Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken (Besluit ondermandaat, volmacht en machtiging voor de Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken 2025)"
 identifier: "BWBR0050513"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050513"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050513"
+soort: "ministeriele-regeling"
+stam_id: "17295763"
+version_id: "30459982"
+internal_id: "C43673551"
+label_id: "17199924"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050513/2025-01-01/0"
+intitule_bron: "Stcrt.2024-38496"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-19"
+intitule_published: "2024-11-26"
+intitule_in_force: "2024-11-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-38496"
+original_signed_date: "2024-11-19"
+original_published_date: "2024-11-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-38496"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050513&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050513&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit ondermandaat, volmacht en machtiging voor de Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken 2025"
+signed_date: "2024-11-19"
+entry_into_force: "2025-01-01"
 ---
-
 # Besluit van de directeur-generaal Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken van 19 november 2024, nr. MD202478INSTAC, houdende verlening van ondermandaat, volmacht en machtiging voor de Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken (Besluit ondermandaat, volmacht en machtiging voor de Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken 2025)
 
 Gelet op [artikel 19 van het Besluit mandaat, volmacht en machtiging EZK 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041776&artikel=19);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -70,13 +96,13 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. Taakverdeling tussen de hoofddirecteur en de daaronder ressorterende functionarissen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aan de hoofddirecteuren wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op hun werkterrein.
 
 2. Aan de hoofddirecteuren wordt, ieder voor zich, voor de onder hen ressorterende medewerkers, ondermandaat, volmacht en machtiging verleend voor P&O-aangelegenheden, met inbegrip van de aangelegenheden genoemd in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050513&paragraaf=2&artikel=3&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan de directeuren wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op hun werkterrein met dien verstande dat het aangaan van financiële verplichtingen die ten laste komen van de directe uitvoeringskosten, een bedrag van € 500.000 per verplichting niet te boven gaat, en het aangaan van financiële verplichtingen die ten laste komen van de corporate kosten, een bedrag van € 300.000 per verplichting niet te boven gaat.
 
@@ -98,7 +124,7 @@ In dit besluit wordt verstaan onder:
 
 - h. het verlenen van toestemming na de melding van een nevenactiviteit die de belangen van de Rijksdienst voor Ondernemend Nederland kan raken.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aan de afdelingsmanagers wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op hun werkterrein met dien verstande dat het aangaan van financiële verplichtingen die ten laste komen van het beleidsbudget, een bedrag van € 3.000.000 per verplichting niet te boven gaat, het aangaan van financiële verplichtingen die ten laste komen van de directe uitvoeringskosten, een bedrag van € 300.000 per verplichting niet te boven gaat, en het aangaan van financiële verplichtingen die ten laste komen van de corporate kosten, een bedrag van € 150.000 per verplichting niet te boven gaat.
 
@@ -120,7 +146,7 @@ In dit besluit wordt verstaan onder:
 
 4. Aan de afdelingsmanager van de afdeling Bedrijfsvoering wordt volmacht en machtiging verleend voor het verrichten van privaatrechtelijke rechtshandelingen voor het Inkoopplein voor zover hij daartoe een verzoek heeft gekregen van een bevoegde functionaris, met dien verstande dat dit een bedrag van € 50.000 per rechtshandeling niet te boven gaat.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Aan de teammanagers wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op hun werkterrein met dien verstande dat het aangaan van financiële verplichtingen die ten laste komen van het beleidsbudget, een bedrag van € 1.500.000 per verplichting niet te boven gaat, het aangaan van financiële verplichtingen die ten laste komen van de directe uitvoeringskosten, een bedrag van € 50.000 per verplichting niet te boven gaat en het aangaan van financiële verplichtingen die ten laste komen van de corporate kosten, een bedrag van € 2.500 per verplichting niet te boven gaat.
 
@@ -164,11 +190,11 @@ In dit besluit wordt verstaan onder:
 
 6. Aan de teammanager van het team Kaders en Autorisatiebeheer wordt volmacht en machtiging verleend voor aangelegenheden die verband houden met het aanschaffen, uitgeven en beheren van eHerkenningsmiddelen en het daarmee autoriseren van medewerkers tot het afnemen van digitale overheidsdiensten, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 5.000 per verplichting niet te boven gaat.
 
-#### Artikel 6
+##### Artikel 6
 
 Aan de opgavemanagers wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op hun werkterrein met dien verstande dat het aangaan van financiële verplichtingen die ten laste komen van het beleidsbudget, een bedrag van € 1.500.000 per verplichting niet te boven gaat, het aangaan van financiële verplichtingen die ten laste komen van de directe uitvoeringskosten, een bedrag van € 50.000 per verplichting niet te boven gaat en het aangaan van financiële verplichtingen die ten laste komen van de corporate kosten, een bedrag van € 2.500 per verplichting niet te boven gaat.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Aan de afdelingsmanager en de teammanagers van de afdeling Juridische Zaken wordt tevens, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor:
 
@@ -192,7 +218,7 @@ Aan de opgavemanagers wordt, ieder voor zich, ondermandaat, volmacht en machtigi
 
 - b. het nemen van besluiten tot oplegging van een boete als bedoeld in [artikel 6 van de Wet bestuurlijke boete meldingsplichten door Ministers verstrekte subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0032155&artikel=6), en voor het verrichten van daarmee verband houdende overige handelingen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Aan de procescoördinatoren en programmacoördinatoren wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op hun werkterrein, met uitzondering van het aangaan van financiële verplichtingen die ten laste komen van de corporate kosten, en met dien verstande dat het aangaan van financiële verplichtingen die ten laste komen van het beleidsbudget, een bedrag van € 1.000.000 per verplichting niet te boven gaat, en het aangaan van financiële verplichtingen die ten laste komen van de directe uitvoeringskosten, een bedrag van € 20.000 per verplichting niet te boven gaat.
 
@@ -200,13 +226,13 @@ Aan de opgavemanagers wordt, ieder voor zich, ondermandaat, volmacht en machtigi
 
 3. Aan de adviseurs bedrijfsvoering die als medewerker autorisatiebeheer werkzaam zijn binnen het cluster autorisatiebeheer van het team Kaders en Autorisatiebeheer wordt volmacht en machtiging verleend voor het als beheerder en gebruiker aanvragen van (middelen ten behoeve van) eHerkenning en om gedurende de inschrijving in het machtigingenregister certificaten af te nemen van leveranciers.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Aan de uitgezonden senior attachés en de lokale senior attachés wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op hun werkterrein, met uitzondering van het aangaan van financiële verplichtingen die ten laste komen van de corporate kosten of van het beleidsbudget, en met dien verstande dat het aangaan van financiële verplichtingen die ten laste komen van de directe uitvoeringskosten, een bedrag van € 50.000 per verplichting niet te boven gaat.
 
 2. Aan de attachés wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op hun werkterrein, met uitzondering van het aangaan van financiële verplichtingen die ten laste komen van de corporate kosten of van het beleidsbudget en met dien verstande dat het aangaan van financiële verplichtingen die ten laste komen van de directe uitvoeringskosten, een bedrag van € 25.000 per verplichting niet te boven gaat.
 
-#### Artikel 10
+##### Artikel 10
 
 1. In afwijking van de in voorgaande artikelen opgenomen maximum bedragen die ten laste komen van het beleidsbudget zijn per te onderscheiden functionaris voor de [Regeling groenprojecten 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037778) en de[Regeling groenprojecten 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046599) ten behoeve van groene beleggingen als bedoeld in [artikel 5.14 Wet op de Inkomstenbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14), voor fiscale besluiten inzake de [Regeling vermindering verhuurdersheffing 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034548) inzake investeringsverklaringen als bedoeld in [artikel 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0034553&artikel=1.12) en [1.13 van de Wet maatregelen woningmarkt 2014 II](https://wetten.overheid.nl/jci1.3:c:BWBR0034553&artikel=1.13), de [Wet vermindering afdracht loonbelasting en premie voor volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746), de Wet bevordering speur- en ontwikkelingswerk, [artikel 3.52a Wet op de Inkomstenbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.52a), de nadere regels die daarvoor zijn gesteld in het [Besluit RDA](https://wetten.overheid.nl/jci1.3:c:BWBR0030972), en [artikel 3.42 van de Wet op de Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42), en inzake de nadere regels die daarvoor zijn gesteld in de [Uitvoeringsregeling energie-investeringsaftrek](https://wetten.overheid.nl/jci1.3:c:BWBR0012054), alsmede voor andere fiscale voorzieningen, de navolgende maximum bedragen per verplichting van toepassing:
 
@@ -246,7 +272,7 @@ Aan de opgavemanagers wordt, ieder voor zich, ondermandaat, volmacht en machtigi
 
 #### § 3. Vervanging
 
-#### Artikel 11
+##### Artikel 11
 
 1. De bevoegdheden van de directeur-generaal gaan in geval van afwezigheid over op de plaatsvervangend directeur-generaal, met uitzondering van de bevoegdheid tot het verlenen van ondermandaat, volmacht en machtiging.
 
@@ -264,29 +290,29 @@ Aan de opgavemanagers wordt, ieder voor zich, ondermandaat, volmacht en machtigi
 
 #### § 4. Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 De afdelingsmanager van de afdeling Juridische Zaken draagt zorg voor plaatsing van de tekst van dit besluit op de internetsite van de Rijksdienst voor Ondernemend Nederland.
 
-#### Artikel 13
+##### Artikel 13
 
 Op mandaat, volmacht en machtiging dat door andere bestuursorganen dan door de Minister van Economische Zaken is verleend aan de directeur-generaal of aan een andere functionaris binnen de Rijksdienst voor Ondernemend Nederland is dit besluit van overeenkomstige toepassing, tenzij betreffend mandaat, volmacht en machtiging zelf in het onderwerp van dit besluit voorziet.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Degene die op grond van het [Besluit ondermandaat, volmacht en machtiging voor de Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041846) op 31 december 2024 als uitvoeringsexpert, procescoördinator, programmacoördinator, attaché of senior attache beschikt over ondermandaat, volmacht en machtiging en als zodanig werkzaam is, wordt geacht ook op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050513&paragraaf=2&artikel=8&z=2025-01-01&g=2025-01-01), respectievelijk [9](https://wetten.overheid.nl/jci1.3:c:BWBR0050513&paragraaf=2&artikel=9&z=2025-01-01&g=2025-01-01) van dit besluit over het betreffende ondermandaat, volmacht en machtiging te beschikken.
 
 2. In afwijking van het eerste lid, wordt degene die op 31 december 2024 is uitgezonden en voldoet aan de definitie van attaché als bedoeld in het [Besluit ondermandaat, volmacht en machtiging voor de Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041846), voor de toepassing van dit besluit aangemerkt als uitgezonden senior attaché.
 
-#### Artikel 15
+##### Artikel 15
 
 Het [Besluit ondermandaat, volmacht en machtiging voor de Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041846) wordt ingetrokken.
 
-#### Artikel 16
+##### Artikel 16
 
 Dit besluit treedt in werking met ingang van 1 januari 2025.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging voor de Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken 2025.
 

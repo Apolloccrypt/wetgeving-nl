@@ -1,13 +1,39 @@
 ---
-title: "Mandaatbesluit samenwerking DNB-CBS 2016"
+title: "Besluit van de Directeur-Generaal van de statistiek tot het verlenen van mandaat aan De Nederlandsche Bank N.V. voor de verwerving van gegevens bij financiële instellingen ten behoeve van het opstellen van o.a. de sectorrekeningen en tot het opleggen van bestuurlijke maatregelen bij overtreding van de rapportageverplichtingen op grond van de Wet op het Centraal bureau voor de statistiek (Mandaatbesluit samenwerking DNB-CBS 2016)"
 identifier: "BWBR0037687"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-03-06
-laatste_update: 2016-03-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037687"
+country: "nl"
+rank: "zbo"
+publication_date: "2016-03-06"
+last_updated: "2016-03-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037687"
+soort: "zbo"
+stam_id: "13431933"
+version_id: "23053872"
+internal_id: "C33319671"
+label_id: "13399264"
+dtd_version: "2.0"
+original_entry_into_force: "2016-03-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037687/2016-03-06/0"
+intitule_bron: "Stcrt.2016-11832"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-02-23"
+intitule_published: "2016-03-04"
+intitule_in_force: "2016-03-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-11832"
+original_signed_date: "2016-02-23"
+original_published_date: "2016-03-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-11832"
+entry_into_force_date: "2016-03-06"
+jci_1_3: "jci1.3:c:BWBR0037687&z=2016-03-06&g=2016-03-06"
+jci_1_0: "1.0:c:BWBR0037687&g=2016-03-06"
+citeertitel_status: "officieel"
+short_title: "Mandaatbesluit samenwerking DNB-CBS 2016"
+signed_date: "2016-02-23"
+entry_into_force: "2016-03-06"
 ---
-
 # Besluit van de Directeur-Generaal van de statistiek tot het verlenen van mandaat aan De Nederlandsche Bank N.V. voor de verwerving van gegevens bij financiële instellingen ten behoeve van het opstellen van o.a. de sectorrekeningen en tot het opleggen van bestuurlijke maatregelen bij overtreding van de rapportageverplichtingen op grond van de Wet op het Centraal bureau voor de statistiek (Mandaatbesluit samenwerking DNB-CBS 2016)
 
 Gelet op de [artikelen 33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=33), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=37), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=43) en [51 van de Wet op het Centraal bureau voor de statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=51) en de [artikelen 2, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&artikel=3), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&artikel=10) en [12 van het Besluit gegevensverwerving CBS](https://wetten.overheid.nl/jci1.3:c:BWBR0016060&artikel=12);
@@ -18,7 +44,7 @@ Gelet op de [artikelen 10:1 tot en met 10:10 van de Algemene wet bestuursrecht](
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -48,7 +74,7 @@ In dit besluit wordt verstaan onder:
 
 - m. **micro-informatie:** statistische gegevens die betrekking hebben op een individuele informatieplichtige of enig andere natuurlijke of rechtspersoon, lichaam of bijkantoor.
 
-#### Artikel 2
+##### Artikel 2
 
 1. DNB oefent, met inachtneming van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037687&artikel=3&z=2016-03-06&g=2016-03-06) bedoelde algemene instructies, in naam van de Directeur-Generaal de volgende bevoegdheden uit:
 
@@ -68,7 +94,7 @@ In dit besluit wordt verstaan onder:
 
 3. De bevoegdheden, bedoeld in het eerste lid, worden uitgevoerd door de medewerkers van DNB die daarmee door DNB zijn belast.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onverminderd het bepaalde in artikel 130 van het Verdrag betreffende de werking van de Europese Unie (VWEU) en artikel 7 van de Statuten van het Europees Stelsel van Centrale Banken en van de Europese Centrale Bank, gelden ter zake van de uitoefening van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037687&artikel=2&z=2016-03-06&g=2016-03-06), bedoelde bevoegdheden de volgende algemene instructies:
 
@@ -88,11 +114,11 @@ In dit besluit wordt verstaan onder:
 
 2. Specifieke instructies per geval van de Directeur-Generaal aan DNB ter zake van de uitoefening van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037687&artikel=2&z=2016-03-06&g=2016-03-06), bedoelde bevoegdheden hebben geen betrekking op taken en plichten die DNB heeft uit hoofde van het Europees Stelsel van Centrale Banken (ESCB).
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Dit besluit wordt aangehaald als: Mandaatbesluit samenwerking DNB-CBS 2016.
 

@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling tienjarige ondersteuning iconische rijksmonumenten"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 29 mei 2020, nr. WJZ/17860769, houdende regels voor subsidieverstrekking over een periode van tien jaren voor iconische rijksmonumenten (Subsidieregeling tienjarige ondersteuning iconische rijksmonumenten)"
 identifier: "BWBR0043609"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043609"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043609"
+soort: "ministeriele-regeling"
+stam_id: "15480943"
+version_id: "26752152"
+internal_id: "C37916411"
+label_id: "15423674"
+dtd_version: "2.0"
+original_entry_into_force: "2020-06-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043609/2024-01-01/0"
+intitule_bron: "Stcrt.2020-30018"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-05-29"
+intitule_published: "2020-06-05"
+intitule_in_force: "2020-06-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-30018"
+original_signed_date: "2020-05-29"
+original_published_date: "2020-06-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-30018"
+entry_into_force_date: "2020-06-06"
+jci_1_3: "jci1.3:c:BWBR0043609&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0043609&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling tienjarige ondersteuning iconische rijksmonumenten"
+signed_date: "2020-05-29"
+entry_into_force: "2020-06-06"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 29 mei 2020, nr. WJZ/17860769, houdende regels voor subsidieverstrekking over een periode van tien jaren voor iconische rijksmonumenten (Subsidieregeling tienjarige ondersteuning iconische rijksmonumenten)
 
 Gelet op de [artikelen 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.1) en [7.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.3), juncto [7.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.7), en [7.5, eerste lid, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.5), de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -40,11 +66,11 @@ In deze regeling wordt verstaan onder:
 
 - **werkzaamheden:** werkzaamheden, maatregelen en voorzieningen waarvoor op grond van deze regeling subsidie kan worden verleend.
 
-#### Artikel 2. Toepassing [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603). Onderdeel d van de begripsomschrijving van financieel verslag, bedoeld in [artikel 1.1 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.1), de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.1) en [3.3 tot en met 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3), [4.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.3), alsmede [hoofdstuk 7 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=7) zijn niet van toepassing.
 
-#### Artikel 3. Subsidieplafonds
+##### Artikel 3. Subsidieplafonds
 
 Voor subsidieverstrekking op grond van deze regeling is voor de kalenderjaren 2020 tot en met 2029 voor de genoemde eigenaren ten behoeve van de genoemde rijksmonumenten ten hoogste het genoemde bedrag beschikbaar.
 
@@ -63,7 +89,7 @@ Voor subsidieverstrekking op grond van deze regeling is voor de kalenderjaren 20
 | Vereniging tot Behoud van Natuurmonumenten in Nederland | Waterloopbos, Marknesse | € 0,5 miljoen |
 | Staatsbosbeheer | Buitenplaats Elswout, Overveen | € 0,5 miljoen |
 
-#### Artikel 4. Te subsidiëren activiteiten en subsidiabele kosten
+##### Artikel 4. Te subsidiëren activiteiten en subsidiabele kosten
 
 1. De minister kan aan een eigenaar subsidie verstrekken ten behoeve van:
 
@@ -93,11 +119,11 @@ Voor subsidieverstrekking op grond van deze regeling is voor de kalenderjaren 20
 
 6. Kosten die zijn gemaakt voorafgaand aan de indiening van de aanvraag zijn niet subsidiabel. Hoofdstuk 1.1, onderdeel f, van de [Leidraad](onbekend) is niet van toepassing. In afwijking van de eerste volzin en de [artikelen 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.2), en [4.3, eerste lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.3) zijn wel subsidiabel de kosten die betrekking hebben op de voorbereiding van de aanvraag, bestaande uit aanbestedingskosten, leges, en kosten van inspectie, onderzoek, planvorming of rapporten.
 
-#### Artikel 5. Hoogte subsidiebedrag
+##### Artikel 5. Hoogte subsidiebedrag
 
 Het subsidiepercentage bedraagt ten hoogste 70% van de subsidiabele kosten.
 
-#### Artikel 6. Jaarlijkse subsidieaanvraag
+##### Artikel 6. Jaarlijkse subsidieaanvraag
 
 1. Eigenaren kunnen jaarlijks ten hoogste eenmaal subsidie aanvragen, behoudens indien een aanvraag betrekking heeft op meerwerk of meerkosten die verband houden met werkzaamheden waarvoor de eigenaar eerder op grond van deze regeling subsidie is verstrekt.
 
@@ -107,7 +133,7 @@ Het subsidiepercentage bedraagt ten hoogste 70% van de subsidiabele kosten.
 
 4. Ten behoeve van het doen van een subsidieaanvraag wordt een online portaal ingericht, dat is te bereiken via www.cultureelerfgoed.nl. Een aanvraag wordt elektronisch ingediend bij de Rijksdienst voor het Cultureel Erfgoed met gebruikmaking van het online aanvraagformulier dat op het portaal beschikbaar is gesteld.
 
-#### Artikel 7. Eisen subsidieaanvraag
+##### Artikel 7. Eisen subsidieaanvraag
 
 1. Indien in een aanvraag aanspraak wordt gemaakt op subsidie voor instandhoudingskosten gaat de aanvraag vergezeld van:
 
@@ -173,7 +199,7 @@ Het subsidiepercentage bedraagt ten hoogste 70% van de subsidiabele kosten.
 
 5. Indien een eigenaar op basis van deze regeling een tweede of een daaropvolgende subsidieaanvraag doet, hoeft hij zijn aanvraag niet vergezeld te doen gaan van de stukken, genoemd in het eerste, tweede en derde lid, die de eigenaar bij een eerdere aanvraag op grond van deze regeling reeds aan de minister gezonden heeft en die inhoudelijk niet zijn gewijzigd.
 
-#### Artikel 8. Weigeringsgronden
+##### Artikel 8. Weigeringsgronden
 
 Subsidieverstrekking wordt geweigerd:
 
@@ -181,7 +207,7 @@ Subsidieverstrekking wordt geweigerd:
 
 - b. voor zover bij schade de subsidiabele kosten op grond van een verzekering worden gedekt of op grond van de [Wet op de omzetbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) op verschuldigde belasting in aftrek kunnen worden gebracht dan wel anderszins niet ten laste van de aanvrager komen.
 
-#### Artikel 9. Subsidieverplichtingen
+##### Artikel 9. Subsidieverplichtingen
 
 1. Voor zover voor de werkzaamheden een omgevingsvergunning als bedoeld in [artikel 5.1, eerste lid, onder b, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) is vereist, vangen de werkzaamheden niet aan zonder of in afwijking van de omgevingsvergunning.
 
@@ -207,7 +233,7 @@ Subsidieverstrekking wordt geweigerd:
 
 - i. vanaf de aanvang van de werkzaamheden op eigen kosten het rijksmonument te verzekeren dan wel verzekerd te houden tegen brand-, storm- en bliksemschade en na afloop van de werkzaamheden daartegen verzekerd te houden.
 
-#### Artikel 10. Verlening subsidie en bevoorschotting
+##### Artikel 10. Verlening subsidie en bevoorschotting
 
 1. In afwijking van [artikel 4.1, eerste lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.1) besluit de minister binnen 22 weken na ontvangst ervan op een aanvraag als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&artikel=6&z=2024-01-01&g=2024-01-01).
 
@@ -215,11 +241,11 @@ Subsidieverstrekking wordt geweigerd:
 
 3. De minister verleent voorschotten waarvan de hoogte en de termijnen in het besluit tot subsidieverlening worden vermeld. De minister kan aan het verlenen van voorschotten de voorwaarde verbinden dat offertes of facturen worden overgelegd.
 
-#### Artikel 11. Verantwoording bij subsidies tot € 25.000,-
+##### Artikel 11. Verantwoording bij subsidies tot € 25.000,-
 
 Indien de subsidie minder dan € 25.000 bedraagt, toont de eigenaar op verzoek van de minister aan dat de activiteiten waarvoor subsidie is verleend, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen. Bij het besluit tot subsidieverlening wordt aangegeven op welke wijze dit wordt aangetoond.
 
-#### Artikel 12. Verantwoording bij subsidies van € 25.000,- tot € 125.000,-
+##### Artikel 12. Verantwoording bij subsidies van € 25.000,- tot € 125.000,-
 
 1. Indien de subsidie € 25.000 of meer bedraagt, doch minder dan € 125.000, toont de eigenaar aan de hand van een prestatieverklaring aan dat de activiteiten waarvoor subsidie is verleend zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.
 
@@ -227,7 +253,7 @@ Indien de subsidie minder dan € 25.000 bedraagt, toont de eigenaar op verzoek 
 
 3. Onverminderd het eerste en tweede lid, toont de eigenaar op verzoek van de minister aan dat de activiteiten waarvoor subsidie is verleend, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen. Bij het besluit tot subsidieverlening wordt aangegeven op welke wijze dit wordt aangetoond.
 
-#### Artikel 13. Verantwoording bij subsidies vanaf € 125.000,-
+##### Artikel 13. Verantwoording bij subsidies vanaf € 125.000,-
 
 1. Indien de subsidie meer dan € 125.000,- bedraagt, legt de eigenaar rekening en verantwoording af aan de hand van een prestatieverklaring en een financieel verslag over de activiteiten waarvoor subsidie is verleend.
 
@@ -243,11 +269,11 @@ Indien de subsidie minder dan € 25.000 bedraagt, toont de eigenaar op verzoek 
 
 7. De minister kan de eigenaar verplichten de desbetreffende originele rekeningen en betalingsbewijzen te overleggen.
 
-#### Artikel 14. Grondslag vaststellen modellen
+##### Artikel 14. Grondslag vaststellen modellen
 
 De minister kan een model vaststellen voor de prestatieverklaring en voor het financieel verslag.
 
-#### Artikel 15. Vaststelling subsidie
+##### Artikel 15. Vaststelling subsidie
 
 1. De eigenaar dient binnen 22 weken na de datum, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&artikel=10&z=2024-01-01&g=2024-01-01), een aanvraag tot vaststelling in, met gebruikmaking van het formulier dat daartoe door de Rijksdienst voor het Cultureel Erfgoed beschikbaar wordt gesteld.
 
@@ -255,17 +281,17 @@ De minister kan een model vaststellen voor de prestatieverklaring en voor het fi
 
 3. Indien de verleende subsidie minder dan € 25.000 bedraagt, zijn het eerste en tweede lid niet van toepassing. In dat geval wordt de verleende subsidie ambtshalve vastgesteld binnen 22 weken na de datum, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&artikel=10&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 16. Wijziging bij inwerkingtreding [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885)
+##### Artikel 16. Wijziging bij inwerkingtreding [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885)
 
 Wijzigt deze regeling.
 
-#### Artikel 17. Inwerkingtreding en vervaldatum
+##### Artikel 17. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2030.
 
-#### Artikel 18. Citeertitel
+##### Artikel 18. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling tienjarige ondersteuning iconische rijksmonumenten.
 

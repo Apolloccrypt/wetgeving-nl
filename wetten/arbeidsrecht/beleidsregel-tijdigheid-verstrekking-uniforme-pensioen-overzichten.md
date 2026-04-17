@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel tijdigheid verstrekking Uniforme Pensioen Overzichten"
+title: "Beleidsregel van de Stichting Autoriteit Financiële Markten van 14 april 2009 inzake de tijdige verstrekking van het Uniform Pensioen Overzicht door een pensioenuitvoerder aan een deelnemer (Beleidsregel tijdigheid verstrekking Uniform Pensioen Overzichten)"
 identifier: "BWBR0025835"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2009-05-16
-laatste_update: 2009-05-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025835"
+country: "nl"
+rank: "zbo"
+publication_date: "2009-05-16"
+last_updated: "2009-05-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025835"
+soort: "zbo"
+stam_id: "10039263"
+version_id: "16400512"
+internal_id: "C22543071"
+label_id: "10015574"
+dtd_version: "2.0"
+original_entry_into_force: "2009-05-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025835/2009-05-16/0"
+intitule_bron: "Stcrt.2009-87"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-04-23"
+intitule_published: "2009-05-13"
+intitule_in_force: "2009-05-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-87"
+original_signed_date: "2009-04-23"
+original_published_date: "2009-05-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-6989"
+entry_into_force_date: "2009-05-16"
+jci_1_3: "jci1.3:c:BWBR0025835&z=2009-05-16&g=2009-05-16"
+jci_1_0: "1.0:c:BWBR0025835&g=2009-05-16"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel tijdigheid verstrekking Uniforme Pensioen Overzichten"
+signed_date: "2009-04-23"
+entry_into_force: "2009-05-16"
 ---
-
 # Beleidsregel van de Stichting Autoriteit Financiële Markten van 14 april 2009 inzake de tijdige verstrekking van het Uniform Pensioen Overzicht door een pensioenuitvoerder aan een deelnemer (Beleidsregel tijdigheid verstrekking Uniform Pensioen Overzichten)
 
 ### 1. Wettelijk kader

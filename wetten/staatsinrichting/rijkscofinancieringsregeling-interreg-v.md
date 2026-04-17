@@ -1,20 +1,46 @@
 ---
-title: "Rijkscofinancieringsregeling Interreg V"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 17 september 2015, nr. IENM/BSK-2015/180512, houdende regels met betrekking tot subsidie ter cofinanciering van projectvoorstellen die vallen onder Interreg North West Europe of North Sea Region (Rijkscofinancieringsregeling Interreg V)"
 identifier: "BWBR0037018"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2017-02-01
-laatste_update: 2017-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037018"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-02-01"
+last_updated: "2017-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037018"
+soort: "ministeriele-regeling"
+stam_id: "13258413"
+version_id: "22685652"
+internal_id: "C32812911"
+label_id: "13226504"
+dtd_version: "2.0"
+original_entry_into_force: "2015-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037018/2017-02-01/0"
+intitule_bron: "Stcrt.2015-30863"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-09-17"
+intitule_published: "2015-09-24"
+intitule_in_force: "2015-09-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-30863"
+original_signed_date: "2015-09-17"
+original_published_date: "2015-09-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-30863"
+entry_into_force_date: "2015-11-01"
+jci_1_3: "jci1.3:c:BWBR0037018&z=2017-02-01&g=2017-02-01"
+jci_1_0: "1.0:c:BWBR0037018&g=2017-02-01"
+citeertitel_status: "officieel"
+short_title: "Rijkscofinancieringsregeling Interreg V"
+signed_date: "2015-09-17"
+entry_into_force: "2015-11-01"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 17 september 2015, nr. IENM/BSK-2015/180512, houdende regels met betrekking tot subsidie ter cofinanciering van projectvoorstellen die vallen onder Interreg North West Europe of North Sea Region (Rijkscofinancieringsregeling Interreg V)
 
 Gelet op [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), en [artikel 5, van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5) en [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2) en [artikel 4 van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4),
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -52,7 +78,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **subsidieontvanger:** Lead Partner of Partner aan wie krachtens deze regeling een subsidie is verleend.
 
-#### Artikel 2. Algemeen
+##### Artikel 2. Algemeen
 
 1. Een subsidie op grond van deze regeling is bedoeld als stimulans voor Nederlandse Lead Partners of Partners om een actieve bijdrage te leveren aan de doelstellingen van Interreg NWE of NSR waardoor tevens wordt bijgedragen aan Rijksbeleid, in het bijzonder ten aanzien van klimaat en duurzame mobiliteit.
 
@@ -60,11 +86,11 @@ In deze regeling wordt verstaan onder:
 
 3. Een subsidie op grond van deze regeling wordt verstrekt indien het project voldoet aan de voorwaarden van deze regeling en door de bevoegde autoriteit van Interreg NWE of NSR is goedgekeurd.
 
-#### Artikel 3. Toepassing Kaderbesluit
+##### Artikel 3. Toepassing Kaderbesluit
 
 De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=15), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=19), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=21) en [22 van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22) zijn van overeenkomstige toepassing.
 
-#### Artikel 4. Aanvraag tot subsidieverlening
+##### Artikel 4. Aanvraag tot subsidieverlening
 
 1. Een aanvraag tot subsidieverlening als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037018&artikel=2&z=2017-02-01&g=2017-02-01) wordt bij de Minister ingediend door een penvoerder, met een vestiging of filiaal in Nederland op het tijdstip van indiening, met gebruikmaking van een daartoe door de Minister beschikbaar gesteld middel.
 
@@ -94,7 +120,7 @@ De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [11
 
 3. Desgevraagd verstrekt de penvoerder een nadere toelichting op de verklaringen en bescheiden, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037018&artikel=4&z=2017-02-01&g=2017-02-01).
 
-#### Artikel 5. Hoogte van de subsidie, subsidieplafond en wijze van verdeling
+##### Artikel 5. Hoogte van de subsidie, subsidieplafond en wijze van verdeling
 
 1. De subsidie bedraagt maximaal 50 procent van de projectkosten die niet worden vergoed uit Interreg NWE of NSR.
 
@@ -108,15 +134,15 @@ De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [11
 
 6. De Minister kan per kalenderjaar een of meer aanvraagperioden vaststellen en maakt dit bekend in de Staatscourant voor de aanvang van het tijdvak waarvoor de aanvraagperioden zijn vastgesteld.
 
-#### Artikel 6. Subsidiabele kosten
+##### Artikel 6. Subsidiabele kosten
 
 Voor subsidie komen in aanmerking de gemaakte kosten die direct verbonden zijn aan de uitvoering van het project, en die in aanmerking komen voor een financiële bijdrage van Interreg NWE of NSR.
 
-#### Artikel 7. Verplichting
+##### Artikel 7. Verplichting
 
 Voor een project waarvoor op grond van deze regeling subsidie wordt aangevraagd, moet Stap 2 binnen 18 maanden na subsidieverlening worden ingediend bij het Programma Secretariaat van Interreg NWE of NSR.
 
-#### Artikel 8. Afwijzingsgronden
+##### Artikel 8. Afwijzingsgronden
 
 Onverminderd de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=11) en [12 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=12) beslist de Minister afwijzend op een aanvraag indien:
 
@@ -128,7 +154,7 @@ Onverminderd de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&a
 
 - d. het project minder dan € 400.000 aan kosten omvat.
 
-#### Artikel 9. Voorschot
+##### Artikel 9. Voorschot
 
 1. Indien de gevraagde subsidie wordt verleend, kan de Minister op verzoek van de subsidieontvanger voorschotten tot 80 procent van het verleende subsidiebedrag verlenen.
 
@@ -142,7 +168,7 @@ Onverminderd de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&a
 
 6. Dit artikel is niet van toepassing indien de subsidieontvanger een gemeente of provincie is.
 
-#### Artikel 10. Vaststelling
+##### Artikel 10. Vaststelling
 
 1. De subsidieontvanger dient een aanvraag tot vaststelling van de subsidie in binnen dertien weken nadat het project van het Programma Secretariaat van Interreg NWE of NSR bericht heeft ontvangen dat het project binnen Interreg NWE of NSR geheel is afgerond.
 
@@ -158,15 +184,15 @@ Onverminderd de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&a
 
 4. Dit artikel is niet van toepassing indien de subsidieontvanger een gemeente of provincie is.
 
-#### Artikel 11. Verslag
+##### Artikel 11. Verslag
 
 Binnen zes maanden na het vervallen van deze regeling wordt een verslag gepubliceerd over de doeltreffendheid en de effecten van de verstrekte subsidie in de praktijk.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 november 2015 en vervalt met ingang van 1 november 2020 met dien verstande dat zij van toepassing blijft op de subsidies die voor die datum zijn verleend.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Rijkscofinancieringsregeling Interreg V.
 

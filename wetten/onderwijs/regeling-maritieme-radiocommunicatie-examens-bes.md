@@ -1,16 +1,41 @@
 ---
 title: "Regeling maritieme radiocommunicatie examens BES"
 identifier: "BWBR0028631"
-categorie: "Onderwijs"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028631"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028631"
+soort: "ministeriele-regeling-BES"
+stam_id: "10908043"
+version_id: "17891092"
+internal_id: "C24981881"
+label_id: "10882874"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028631/2010-10-10/0"
+intitule_bron: "Stcrt.2010-14864"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-09"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-14864"
+original_signed_date: "2010-09-09"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-14864"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028631&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028631&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-09"
+entry_into_force: "2010-10-10"
 ---
-
 # Regeling maritieme radiocommunicatie examens BES
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -26,13 +51,13 @@ In deze regeling wordt verstaan onder:
 
 #### Toelating tot de examens
 
-#### Artikel 2
+##### Artikel 2
 
 Voor deelname aan een examen moet de kandidaat de leeftijd van 16 jaar hebben bereikt.
 
 #### Aanmelding
 
-#### Artikel 3
+##### Artikel 3
 
 1. De voorzitter stelt de plaats, de datum en het tijdstip van de examens vast. Van de wijze van aanmelding wordt mededeling gedaan in de plaatselijke media.
 
@@ -42,7 +67,7 @@ Voor deelname aan een examen moet de kandidaat de leeftijd van 16 jaar hebben be
 
 #### Categorieën examens
 
-#### Artikel 4
+##### Artikel 4
 
 1. De volgende examens worden afgenomen:
 
@@ -74,7 +99,7 @@ Voor deelname aan een examen moet de kandidaat de leeftijd van 16 jaar hebben be
 
 #### Het examen
 
-#### Artikel 5
+##### Artikel 5
 
 1. Desgevraagd legitimeert de kandidaat zich overeenkomstig de door de voorzitter gegeven voorschriften.
 
@@ -84,7 +109,7 @@ Voor deelname aan een examen moet de kandidaat de leeftijd van 16 jaar hebben be
 
 4. Het schriftelijk examen wordt in beginsel in groepsverband afgenomen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De examenonderdelen voorschriften, maritieme radiocommunicatie procedures, techniek, aardrijkskunde en engels worden schriftelijk afgenomen. Het examen heeft een tijdsduur van ten minste één uur en ten hoogste twee uur per onderdeel.
 
@@ -92,7 +117,7 @@ Voor deelname aan een examen moet de kandidaat de leeftijd van 16 jaar hebben be
 
 3. Tijdens het examen zijn ten minste 2 leden van de commissie aanwezig.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien een kandidaat zich ten aanzien van het examen aan enig bedrog heeft schuldig gemaakt en dit voor of tijdens het examen wordt ontdekt, ontzegt de voorzitter hem van deelneming of verdere deelneming aan het examen.
 
@@ -104,7 +129,7 @@ Voor deelname aan een examen moet de kandidaat de leeftijd van 16 jaar hebben be
 
 #### Het bijzonder examen
 
-#### Artikel 8
+##### Artikel 8
 
 1. In afwijking van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028631&artikel=5&z=2010-10-10&g=2010-10-10) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0028631&artikel=6&z=2010-10-10&g=2010-10-10) kan de voorzitter, op verzoek van de kandidaat, besluiten het examen op andere wijze af te doen nemen, indien:
 
@@ -118,13 +143,13 @@ Voor deelname aan een examen moet de kandidaat de leeftijd van 16 jaar hebben be
 
 #### Ontheffing
 
-#### Artikel 9
+##### Artikel 9
 
 De voorzitter kan geheel of gedeeltelijk ontheffing verlenen van een der examens bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028631&artikel=4&z=2010-10-10&g=2010-10-10), indien een kandidaat is geslaagd voor een ander examen, welke is afgenomen door een bevoegde autoriteit en dat naar het oordeel van de commissie gelijkwaardig is aan een der examens bedoeld in artikel 4, eerste lid.
 
 #### Uitslag van het examen
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een kandidaat wordt binnen 30 dagen na het afleggen van het examen door de commissie van de uitslag in kennis gesteld.
 
@@ -134,13 +159,13 @@ De voorzitter kan geheel of gedeeltelijk ontheffing verlenen van een der examens
 
 #### Nadere regels
 
-#### Artikel 11
+##### Artikel 11
 
 De commissie kan nadere regels vaststellen voor de gang van zaken met betrekking tot het examen, welke niet in strijd mogen zijn met deze regeling
 
 #### Beroep
 
-#### Artikel 12
+##### Artikel 12
 
 1. Tegen de uitslag van het examen staat geen beroep open.
 
@@ -148,15 +173,15 @@ De commissie kan nadere regels vaststellen voor de gang van zaken met betrekking
 
 #### Slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 In de gevallen waarin deze regeling en de ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028631&artikel=11&z=2010-10-10&g=2010-10-10) vastgestelde regels niet voorzien, beslist de voorzitter.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling berust op de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0028399&artikel=30) en [31 van het Besluit telecommunicatie scheepvaart BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028399&artikel=31).
 
-#### Artikel 15
+##### Artikel 15
 
 Deze regeling wordt aangehaald als: Regeling maritieme radiocommunicatie examens BES.
 

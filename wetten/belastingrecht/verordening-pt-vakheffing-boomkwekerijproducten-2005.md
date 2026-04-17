@@ -1,13 +1,37 @@
 ---
-title: "Verordening PT vakheffing boomkwekerijproducten 2005"
+title: "Besluit van het bestuur van het ProductschapTuinbouw van 1 juli 2004, houdende regels ter zake van de aan de onder het Productschap Tuinbouw ressorterende ondernemers in de sector boomkwekerijproducten op te leggen heffing in het jaar 2005 (Verordening PT vakheffing boomkwekerijproducten 2005)"
 identifier: "BWBR0016967"
-categorie: "Belastingrecht"
-publicatiedatum: 2004-11-06
-laatste_update: 2004-11-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016967"
+country: "nl"
+rank: "pbo"
+publication_date: "2004-11-06"
+last_updated: "2004-11-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016967"
+soort: "pbo"
+stam_id: "6723073"
+version_id: "11573342"
+internal_id: "C15597691"
+label_id: "6711544"
+original_entry_into_force: "2004-11-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016967/2004-11-06/0"
+intitule_bron: "Vbbo.2004-66"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-07-01"
+intitule_published: "2004-11-05"
+intitule_in_force: "2004-11-05"
+intitule_status: "goed"
+original_publication: "Vbbo.2004-66"
+original_signed_date: "2004-07-01"
+original_published_date: "2004-11-05"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2004-11-06"
+jci_1_3: "jci1.3:c:BWBR0016967&z=2004-11-06&g=2004-11-06"
+jci_1_0: "1.0:c:BWBR0016967&g=2004-11-06"
+citeertitel_status: "officieel"
+short_title: "Verordening PT vakheffing boomkwekerijproducten 2005"
+signed_date: "2004-07-01"
+entry_into_force: "2004-11-06"
 ---
-
 # Besluit van het bestuur van het ProductschapTuinbouw van 1 juli 2004, houdende regels ter zake van de aan de onder het Productschap Tuinbouw ressorterende ondernemers in de sector boomkwekerijproducten op te leggen heffing in het jaar 2005 (Verordening PT vakheffing boomkwekerijproducten 2005)
 
 gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
@@ -20,7 +44,7 @@ BESLUIT:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=1) en [2 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=2).
 
@@ -38,7 +62,7 @@ BESLUIT:
 
 #### § 2. Heffingsplicht
 
-#### Artikel 2
+##### Artikel 2
 
 1. De ondernemer is heffing verschuldigd ten behoeve van de algemene kosten van het productschap, alsmede ten behoeve van promotionele- en marketingactiviteiten, economische-, kwaliteits-, milieuaangelegenheden, technisch onderzoek en voorlichting.
 
@@ -46,7 +70,7 @@ BESLUIT:
 
 #### § 3. Grondslag en hoogte
 
-#### Artikel 3
+##### Artikel 3
 
 1. De heffing die de ondernemer is verschuldigd, bestaat uit een basisheffing van € 90, vermeerderd met de som van het bedrag dat wordt verkregen na toepassing van de hierna genoemde heffingspercentages over de hierna genoemde heffingsgrondslagen.
 
@@ -61,11 +85,11 @@ met dien verstande dat het maximum van de vorenbedoelde som wordt berekend volge
 
 #### § 4. Oplegging en inning
 
-#### Artikel 4
+##### Artikel 4
 
 Indien een heffingsplichtige gegevens die hem ten behoeve van de onderhavige verordening of krachtens deze verordening zijn gevraagd niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing met € 40 wordt verhoogd in verband met administratiekosten.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De oplegging van de krachtens deze verordening verschuldigde heffing vindt plaats in 2005 en geschiedt door de voorzitter, door middel van toezending of uitreiking aan de heffingsplichtige van een heffingsnota.
 
@@ -81,11 +105,11 @@ Indien een heffingsplichtige gegevens die hem ten behoeve van de onderhavige ver
 
 4. Voorschotten als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0016967&paragraaf=5&artikel=10&z=2004-11-06&g=2004-11-06) worden verrekend met de krachtens deze verordening verschuldigde heffing.
 
-#### Artikel 6
+##### Artikel 6
 
 De voorzitter kan, indien hem uit te zijner beschikking komende gegevens blijkt dat de verstrekking van de verstrekking van de gegevens of een raming als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016967&paragraaf=4&artikel=4&z=2004-11-06&g=2004-11-06), niet in overeenstemming is met de werkelijkheid, een opgelegde heffing aan de hand van deze gegevens herzien en opnieuw opleggen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Betaling geschiedt binnen 30 dagen na dagtekening van de heffingsnota.
 
@@ -99,7 +123,7 @@ De voorzitter kan, indien hem uit te zijner beschikking komende gegevens blijkt 
 
 #### § 5. Invorderingskosten
 
-#### Artikel 8
+##### Artikel 8
 
 Aan de heffingsplichtige, die niet of niet geheel binnen de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0016967&paragraaf=4&artikel=7&z=2004-11-06&g=2004-11-06) gestelde termijn heeft betaald, kunnen:
 
@@ -107,19 +131,19 @@ Aan de heffingsplichtige, die niet of niet geheel binnen de in [artikel 7](https
 
 - b. de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning als bedoeld in [artikel 127, tweede lid van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127).
 
-#### Artikel 9
+##### Artikel 9
 
 De invorderingskosten voortvloeiende uit het niet betalen binnen de gestelde termijn als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0016967&paragraaf=4&artikel=7&z=2004-11-06&g=2004-11-06) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0016967&paragraaf=5&artikel=8&z=2004-11-06&g=2004-11-06), zijn voor rekening en risico van de ondernemer.
 
-#### Artikel 10
+##### Artikel 10
 
 Indien en voor zover de ondernemer boomkwekerijproducten heeft verhandeld en door de veiling bedragen zijn ingehouden met toepassing van het bepaalde in de [Verordening PT vakheffing bloemkwekerijproducten 2004](onbekend), worden deze bedragen aangemerkt als voorschotten op de ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016967&paragraaf=2&artikel=2&z=2004-11-06&g=2004-11-06) verschuldigde heffing.
 
-#### Artikel 11
+##### Artikel 11
 
 De voorzitter is belast met de oplegging en inning van de heffing en de daarmee samenhangende kosten als bedoeld in de [artikelen 5 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0016967&paragraaf=4&artikel=5&z=2004-11-06&g=2004-11-06).
 
-#### Artikel 12
+##### Artikel 12
 
 1. De gegevens verkregen uit hoofde van het bepaalde in deze verordening dienen in handen van de voorzitter of door deze aan te wijzen personen van het secretariaat van het productschap te worden gesteld.
 
@@ -127,11 +151,11 @@ De voorzitter is belast met de oplegging en inning van de heffing en de daarmee 
 
 #### § 6. Slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 Deze verordening treedt in werking met ingang van de dag na de datum van publicatie in het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze verordening wordt aangehaald als: Verordening PT vakheffing boomkwekerijproducten 2005 .
 

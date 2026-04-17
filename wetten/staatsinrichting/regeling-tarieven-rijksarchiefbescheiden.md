@@ -1,32 +1,58 @@
 ---
-title: "Regeling tarieven rijksarchiefbescheiden"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 oktober 2015, nr. WJZ/831752 (6806) houdende vaststelling van de tarieven van rijksarchiefbescheiden (Regeling tarieven rijksarchiefbescheiden)"
 identifier: "BWBR0037155"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2016-01-01
-laatste_update: 2016-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037155"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-01-01"
+last_updated: "2016-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037155"
+soort: "ministeriele-regeling"
+stam_id: "13294723"
+version_id: "22759022"
+internal_id: "C32902941"
+label_id: "13262584"
+dtd_version: "2.0"
+original_entry_into_force: "2016-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037155/2016-01-01/0"
+intitule_bron: "Stcrt.2015-37918"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-10-24"
+intitule_published: "2015-11-03"
+intitule_in_force: "2015-11-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-37918"
+original_signed_date: "2015-10-24"
+original_published_date: "2015-11-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-37918"
+entry_into_force_date: "2016-01-01"
+jci_1_3: "jci1.3:c:BWBR0037155&z=2016-01-01&g=2016-01-01"
+jci_1_0: "1.0:c:BWBR0037155&g=2016-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling tarieven rijksarchiefbescheiden"
+signed_date: "2015-10-24"
+entry_into_force: "2016-01-01"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 oktober 2015, nr. WJZ/831752 (6806) houdende vaststelling van de tarieven van rijksarchiefbescheiden (Regeling tarieven rijksarchiefbescheiden)
 
 Gelet op [artikel 19 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=19);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Bij het in rekening brengen van kosten als bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=14) en [18, zesde lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=18) zijn de in de bijlage opgenomen tarieven van toepassing.
 
-#### Artikel 2
+##### Artikel 2
 
 De [Regeling tarieven rijksarchiefdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0012608) wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling wordt aangehaald als: Regeling tarieven rijksarchiefbescheiden.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van 1 januari 2016.
 

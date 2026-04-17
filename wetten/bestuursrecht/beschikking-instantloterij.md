@@ -1,13 +1,38 @@
 ---
-title: "Beschikking instantloterij"
+title: "Beschikking houdende voorschriften inzake het organiseren van de instantloterij"
 identifier: "BWBR0006381"
-categorie: "Bestuursrecht"
-publicatiedatum: 1996-01-01
-laatste_update: 1996-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006381"
+country: "nl"
+rank: "zbo"
+publication_date: "1996-01-01"
+last_updated: "1996-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006381"
+soort: "zbo"
+stam_id: "3936073"
+version_id: "5699302"
+internal_id: "C5892301"
+label_id: "3916254"
+dtd_version: "2.0"
+original_entry_into_force: "1994-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006381/1996-01-01/0"
+intitule_bron: "Stcrt.1994-5"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-12-28"
+intitule_published: "1994-01-07"
+intitule_in_force: "1994-01-07"
+intitule_status: "goed"
+original_publication: "Stcrt.1994-5"
+original_signed_date: "1993-12-28"
+original_published_date: "1994-01-07"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1994-01-01"
+jci_1_3: "jci1.3:c:BWBR0006381&z=1996-01-01&g=1996-01-01"
+jci_1_0: "1.0:c:BWBR0006381&g=1996-01-01"
+citeertitel_status: "officieel"
+short_title: "Beschikking instantloterij"
+signed_date: "1993-12-28"
+entry_into_force: "1994-01-01"
 ---
-
 # Beschikking houdende voorschriften inzake het organiseren van de instantloterij
 
 Voorzover nodig in overeenstemming met de Staatssecretaris van Financiën,
@@ -16,17 +41,17 @@ Gelet op de [artikelen 14b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&arti
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aan de Stichting Nationale Instantloterij wordt voor de duur van twee jaren en vier maanden, te rekenen van 1 januari 1994 tot en met 30 april 1996, vergunning verleend tot het organiseren van de instantloterij.
 
 2. Aan de in het eerste lid bedoelde vergunning worden de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006381&artikel=3&z=1996-01-01&g=1996-01-01) tot en met [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006381&artikel=22&z=1996-01-01&g=1996-01-01) vervatte voorschriften verbonden, die zonodig kunnen worden gewijzigd en aangevuld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De instantloterij wordt georganiseerd met inachtneming van de statuten en reglementen van de stichting.
 
@@ -36,17 +61,17 @@ In deze beschikking wordt verstaan onder:
 
 4. De statuten bevatten in ieder geval de bepaling dat één door het bestuur van de Stichting Exploitatie Nederlandse Staatsloterij aan te wijzen persoon deel zal uitmaken van het bestuur van de stichting. Bepalingen in de statuten die betrekking hebben op de vertegenwoordiging van de Stichting Exploitatie Nederlandse Staatsloterij in het bestuur van de stichting, alsmede wijziging daarvan, behoeven tevens de voorafgaande goedkeuring van de Minister van Financiën, Wijziging van het bepaalde in dit lid geschiedt in overeenstemming met de Minister van Financiën.
 
-#### Artikel 4
+##### Artikel 4
 
 De stichting belast de Stichting de Nationale Sporttotalisator met de uitvoeringsorganisatie van de instantloterij.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De stichting zorgt voor een doelmatige administratie, organisatie en uitvoering van de krachtens deze vergunning georganiseerde kansspelen.
 
 2. De stichting neemt de nodige maatregelen met het oog op de naleving van de aan deze vergunning verbonden voorschriften en de op grond daarvan opgestelde reglementen door de organisaties en personen die op enigerlei wijze bij de administratie, organisatie en uitvoering van de instantloterij zijn betrokken.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De stichting ziet er op toe dat de verkooppunten niet in strijd handelen met het bepaalde in [artikel 1, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=1), en [artikel 14d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=14d).
 
@@ -54,7 +79,7 @@ De stichting belast de Stichting de Nationale Sporttotalisator met de uitvoering
 
 3. Van het ingevolge het eerste lid gehouden toezicht en van de ingevolge het tweede lid genomen maatregelen wordt mededeling gedaan in het in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006381&artikel=20&z=1996-01-01&g=1996-01-01), bedoelde jaarverslag.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het aantal per kalenderjaar te houden instantloterijen wordt bepaald door de stichting, met dien verstande dat per kalenderjaar in totaal ten hoogste 84 miljoen deelnamebewijzen mogen den uitgegeven.
 
@@ -62,7 +87,7 @@ De stichting belast de Stichting de Nationale Sporttotalisator met de uitvoering
 
 3. Per serie wordt van de bruto-opbrengst 47.5% bestemd voor uitkering aan prijzen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Behoudens het bepaalde in het tweede lid, mag met de uitgifte van de deelnamebewijzen van een serie eerst een aanvang worden gemaakt nadat alle deelnamebewijzen van een voorafgaande serie van de betreffende instantloterij zijn uitgegeven.
 
@@ -70,17 +95,17 @@ De stichting belast de Stichting de Nationale Sporttotalisator met de uitvoering
 
 3. Binnen de in het tweede lid genoemde termijn dienen de niet uitgegeven series van de voorafgaande instantloterij te worden vernietigd.
 
-#### Artikel 9
+##### Artikel 9
 
 Voor de toepassing van [artikel 38 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=38) ontstaan aanspraken voortvloeiende uit de deelneming aan een instantloterij op de dag waarop een aanvang wordt gemaakt met de uitgifte van de deelnamebewijzen van de betreffende serie.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het maximumbedrag dat aan een deelnemer mag worden uitbetaald, bedraagt, na aftrek van de eventueel voor rekening van de stichting te nemen kansspelbelasting, ten hoogste f 250,000 per deelnamebewijs.
 
 2. De inleg bedraagt ten hoogste f 2,50 per deelnamebewijs.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het aantal verkooppunten van de instantloterij bedraagt ten hoogste 5,000, waarvan 1,500 eenmalig worden aangewezen op bindende voordracht van de Stichting Exploitatie Nederlandse Staatsloterij.
 
@@ -96,7 +121,7 @@ Wijziging van het bepaalde in dit lid geschiedt in overeenstemming met de Minist
 
 3. Van de bruto-opbrengst van de instantloterij is ten hoogste 10% bestemd als vergoeding voor de verkooppunten.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De stichting draagt er zorg voor dat aan wervings- en reclameactiviteiten op zorgvuldige en evenwichtige wijze vorm wordt gegeven, waarbij in het bijzonder wordt gewaakt tegen het aanzetten tot onmatige deelneming aan de instantloterij.
 
@@ -106,13 +131,13 @@ Wijziging van het bepaalde in dit lid geschiedt in overeenstemming met de Minist
 
 4. De stichting neemt bij haar wervings- en reclame-activiteiten de haar door de ministers gegeven aanwijzingen, gehoord het college, in acht.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De stichting draagt er zorg voor dat de instantloten van zodanige kwaliteit zijn dat redelijkerwijze fraude en misbruik wordt uitgesloten.
 
 2. Tekens, voorstellingen of opschriften op de instantloten, die de winstmogelijkheden aangeven, mogen niet misleidend zijn of anderszins aanleiding kunnen geven tot misvatting.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De mechanische, elektrische en elektronische processen die gebezigd worden bij de deelneming, prijsbepaling en vaststelling van de winnaars van de krachtens deze vergunning georganiseerde kansspelen, zijn onderworpen aan een voorafgaande goedkeuring en periodieke controle door een door de ministers aangewezen onafhankelijke deskundige of keuringsinstelling.
 
@@ -124,11 +149,11 @@ Wijziging van het bepaalde in dit lid geschiedt in overeenstemming met de Minist
 
 5. Van de bevindingen van de overeenkomstig het eerste lid aangewezen onafhankelijke deskundige of keuringsinstelling wordt uiterlijk binnen twee maanden na afloop van een kalenderjaar verslag gedaan aan de ministers en het college.
 
-#### Artikel 15
+##### Artikel 15
 
 Prijzen tot ten hoogste f 100, kunnen betaalbaar worden gesteld bij de verkooppunten. De overige prijzen worden betaalbaar gesteld ten kantore van de stichting.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Binnen één maand na afloop van elk kwartaal wordt 5% van de in dat kwartaal gerealiseerde bruto-opbrengst van de krachtens deze vergunning georganiseerde kansspelen afgedragen aan de Minister van Financiën, als vergoeding voor opbrengstenderving bij de staatsloterij.
 
@@ -136,7 +161,7 @@ Prijzen tot ten hoogste f 100, kunnen betaalbaar worden gesteld bij de verkooppu
 
 3. Wijziging van het bepaalde in dit artikel geschiedt in overeenstemming met de Minister van Financiën.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De netto-opbrengst van de krachtens deze vergunning georganiseerde kansspelen wordt gevormd door het verschil tussen de bruto-opbrengst, zijnde het totaal van de door de deelnemers bijeengebrachte inleg, en de som van de voor prijzen bestemde bedragen, de vergoedingen voor de verkooppunten, de afdrachten aan de Minister van Financiën ingevolge [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006381&artikel=16&z=1996-01-01&g=1996-01-01), en de exploitatiekosten van de uitvoeringsorganisatie van de instantloterij.
 
@@ -144,7 +169,7 @@ Prijzen tot ten hoogste f 100, kunnen betaalbaar worden gesteld bij de verkooppu
 
 3. Onder de netto-opbrengst wordt mede begrepen de anders dan uit de krachtens deze vergunning georganiseerde kansspelen verworven inkomsten.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De netto-opbrengst dient geheel te worden bestemd ter verwezenlijking van doeleinden van algemeen belang, gelegen op het terrein van de sport en de lichamelijke vorming, alsmede van het maatschappelijk welzijn, de volksgezondheid en de cultuur.
 
@@ -156,13 +181,13 @@ Prijzen tot ten hoogste f 100, kunnen betaalbaar worden gesteld bij de verkooppu
 
 3. Uiterlijk binnen twee maanden na afloop van een kalenderjaar dient de stichting de gehele netto-opbrengst over dat kalenderjaar te hebben afgedragen aan de in het tweede lid genoemde instellingen. Daarvan wordt verslag gedaan in de in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006381&artikel=20&z=1996-01-01&g=1996-01-01), bedoelde jaarrekening.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De stichting zendt binnen één maand na het einde van elk kwartaal aan de ministers en het college een verslag betreffende het financiële verloop, alsmede andere door de ministers en het college noodzakelijk geachte gegevens, over dat kwartaal.
 
 2. De stichting zendt een afschrift van het in het eerste lid bedoelde verslag aan de Ministers van Financiën. Wijziging van het bepaalde in dit lid geschiedt in overeenstemming met de Minister van Financiën.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De stichting stelt een jaarrekening en een jaarverslag op welke voldoen aan de eisen gesteld in [Boek 2, Titel 9, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9). De ministers kunnen, gehoord het college, aanwijzingen geven omtrent de inrichting van de jaarrekening en het jaarverslag.
 
@@ -172,13 +197,13 @@ Prijzen tot ten hoogste f 100, kunnen betaalbaar worden gesteld bij de verkooppu
 
 4. Binnen vier maanden na afloop van een kalenderjaar zendt de stichting de jaarrekening met het verslag en de verklaring, alsmede het jaarverslag aan de ministers en de Minister van Financiën, alsmede aan het college. Wijziging van het bepaalde in dit lid geschiedt in overeenstemming met de Minister van Financiën.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De kosten verbonden aan goedkeuring, controle en onderzoek ingevolge de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0006381&artikel=14&z=1996-01-01&g=1996-01-01) en [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006381&artikel=20&z=1996-01-01&g=1996-01-01), zijn voor rekening van de stichting.
 
 2. De kosten verbonden aan door derden verricht onderzoek ten behoeve van het rapport, bedoeld in artikel II van de Wet van 2 december 1993, Stb. 658, houdende wijziging van de [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469) in verband met het organiseren van de instantloterij, zijn voor rekening van de stichting.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De door de ministers aangewezen ambtenaren en andere personen zijn bevoegd inlichtingen van de stichting te verlangen, voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is.
 
@@ -188,7 +213,7 @@ Prijzen tot ten hoogste f 100, kunnen betaalbaar worden gesteld bij de verkooppu
 
 4. Indien het maken van kopieën niet ter plaatse kan gescheiden, zijn zij bevoegd de gegevens en bescheiden voor dat doel voor korte tijd mee te nemen tegen een door hen af te geven schriftelijk bewijs.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Deze beschikking treedt in werking met ingang van 1 januari 1994 en daarvan wordt mededeling gedaan door plaatsing van deze beschikking in de Staatscourant.
 

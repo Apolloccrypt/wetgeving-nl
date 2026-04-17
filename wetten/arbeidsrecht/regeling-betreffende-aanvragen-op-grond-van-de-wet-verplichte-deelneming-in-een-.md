@@ -1,20 +1,45 @@
 ---
 title: "Regeling betreffende aanvragen op grond van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000"
 identifier: "BWBR0012074"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2021-01-01
-laatste_update: 2021-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012074"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-01-01"
+last_updated: "2021-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012074"
+soort: "ministeriele-regeling"
+stam_id: "3558693"
+version_id: "27364022"
+internal_id: "C38644091"
+label_id: "3538704"
+dtd_version: "2.0"
+original_entry_into_force: "2020-12-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012074/2021-01-01/0"
+intitule_bron: "Stcrt.2000-251"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-12-21"
+intitule_published: "2000-12-28"
+intitule_in_force: "2000-12-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-67393"
+original_signed_date: "2020-12-15"
+original_published_date: "2020-12-23"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2020-67393"
+entry_into_force_date: "2020-12-15"
+jci_1_3: "jci1.3:c:BWBR0012074&z=2021-01-01&g=2021-01-01"
+jci_1_0: "1.0:c:BWBR0012074&g=2021-01-01"
+citeertitel_status: "officieel"
+signed_date: "2020-12-15"
+entry_into_force: "2020-12-15"
 ---
-
 # Regeling betreffende aanvragen op grond van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000
 
 Gelet op de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=2), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=10), [11, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=11) en [15, tweede lid, van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=15);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -22,7 +47,7 @@ In deze regeling wordt verstaan onder:
 
 - b. de minister: de Minister van Sociale Zaken en Werkgelegenheid.
 
-#### Artikel 2. Aanvraag van de verplichtstelling
+##### Artikel 2. Aanvraag van de verplichtstelling
 
 De aanvraag van de verplichtstelling, bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=2), bevat:
 
@@ -52,7 +77,7 @@ De aanvraag van de verplichtstelling, bedoeld in [artikel 2, eerste lid, van de 
 
 - 5°. een toelichting waaruit blijkt dat de grenzen van het domein waarover de gegevens zijn verzameld gerelateerd zijn aan de werkingssfeer van het bedrijfstakpensioenfonds of dat deel van het bedrijfstakpensioenfonds waarop de aanvraag van de verplichtstelling betrekking heeft. Daarbij is duidelijk dat in de werkingssfeer van het bedrijfstakpensioenfonds uitgesloten categorieën werknemers in de tellingen buiten beschouwing zijn gelaten.
 
-#### Artikel 3. Aanvraag tot wijziging van de verplichtstelling
+##### Artikel 3. Aanvraag tot wijziging van de verplichtstelling
 
 De aanvraag tot wijziging van de verplichtstelling, bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=10), bevat:
 
@@ -80,7 +105,7 @@ De aanvraag tot wijziging van de verplichtstelling, bedoeld in [artikel 10, eers
 
 - 5°. een toelichting waaruit blijkt dat de grenzen van het domein waarover de gegevens zijn verzameld gerelateerd zijn aan de werkingssfeer van het bedrijfstakpensioenfonds of dat deel van het bedrijfstakpensioenfonds waarop de aanvraag tot wijziging van de verplichtstelling betrekking heeft. Daarbij is duidelijk dat in de werkingssfeer van het bedrijfstakpensioenfonds uitgesloten categorieën werknemers in de tellingen buiten beschouwing zijn gelaten.
 
-#### Artikel 4. Aanvraag tot intrekking van de verplichtstelling
+##### Artikel 4. Aanvraag tot intrekking van de verplichtstelling
 
 1. De aanvragen tot intrekking van de verplichtstelling, bedoeld in [artikel 11, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=11), bevatten:
 
@@ -112,7 +137,7 @@ De aanvraag tot wijziging van de verplichtstelling, bedoeld in [artikel 10, eers
 
 - b. een actuariële berekening waaruit de financiële gevolgen van de gedeeltelijke intrekking voor het bedrijfstakpensioenfonds blijken.
 
-#### Artikel 5. Aanvraag tot ontheffing
+##### Artikel 5. Aanvraag tot ontheffing
 
 1. De aanvraag tot ontheffing, bedoeld in [artikel 15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=15) wordt gedaan door de persoon voor wie ontheffing wordt gevraagd, dan wel namens die persoon door de persoon of rechtspersoon waarvoor hij werkzaam is.
 
@@ -128,33 +153,33 @@ De aanvraag tot wijziging van de verplichtstelling, bedoeld in [artikel 10, eers
 
 - e. een verklaring van de persoon voor wie ontheffing wordt gevraagd dan wel van de persoon of rechtspersoon waarvoor hij werkzaam is, waarin wordt aangegeven of er een pensioenvoorziening wordt voortgezet in het land van herkomst.
 
-#### Artikel 6. Behandeling aanvragen
+##### Artikel 6. Behandeling aanvragen
 
 De aanvraag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=2&z=2021-01-01&g=2021-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=3&z=2021-01-01&g=2021-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=4&z=2021-01-01&g=2021-01-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=5&z=2021-01-01&g=2021-01-01) wordt eerst in behandeling genomen wanneer alle van belang zijnde gegevens en bescheiden, genoemd in die artikelen, bij de aanvraag zijn gevoegd.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2001.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 De regeling wordt aangehaald als: Regeling betreffende aanvragen op grond van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2a. Assurancerapport
+##### Artikel 2a. Assurancerapport
 
 De minister kan naar aanleiding van de opgave, bedoeld in [artikel 2, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=2&z=2021-01-01&g=2021-01-01), verlangen dat een assurancerapport over de juistheid van die opgave van een registeraccountant of een accountant-administratieconsulent die daartoe gecertificeerd is, wordt overgelegd.
 
-#### Artikel 3a. Assurancerapport
+##### Artikel 3a. Assurancerapport
 
 De minister kan naar aanleiding van de opgave, bedoeld in [artikel 3, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=3&z=2021-01-01&g=2021-01-01), verlangen dat een assurancerapport over de juistheid van die opgave van een registeraccountant of een accountant-administratieconsulent die daartoe gecertificeerd is, wordt overgelegd.
 
-#### Artikel 4a. Assurancerapport
+##### Artikel 4a. Assurancerapport
 
 De minister kan naar aanleiding van de opgave, bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=4&z=2021-01-01&g=2021-01-01), verlangen dat een assurancerapport over de juistheid van die opgave van een registeraccountant of een accountant-administratieconsulent die daartoe gecertificeerd is, wordt overgelegd.
 
-#### Artikel 6a. Termijnen
+##### Artikel 6a. Termijnen
 
 1. De minister beslist zo spoedig mogelijk op de aanvraag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=2&z=2021-01-01&g=2021-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=3&z=2021-01-01&g=2021-01-01), of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=4&z=2021-01-01&g=2021-01-01), doch uiterlijk binnen zesentwintig weken na de datum van mededeling in de Staatscourant van de aanvraag tot verplichtstelling, de aanvraag betreffende wijziging van de verplichtstelling, dan wel de aanvraag tot intrekking van een verplichtstelling.
 
@@ -164,13 +189,13 @@ De minister kan naar aanleiding van de opgave, bedoeld in [artikel 4, eerste lid
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 6b. Elektronische communicatie
+##### Artikel 6b. Elektronische communicatie
 
 De minister draagt zorg voor de noodzakelijke elektronische infrastructuur waarmee de aanvragen, bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0012074&artikel=1a&z=2021-01-01&g=2021-01-01), betrouwbaar en vertrouwelijk kunnen worden verzonden. Bij de verzending van de aanvragen, bedoeld in artikel 1a, wordt gebruik gemaakt van de door de minister ter beschikking gestelde elektronische formulieren en de door hem erkende methode van authenticatie.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a. Elektronische aanvraag en communicatie
+##### Artikel 1a. Elektronische aanvraag en communicatie
 
 Tenzij naar het oordeel van de minister sprake is van omstandigheden die zich daartegen verzetten, geschieden uitsluitend langs elektronische weg de aanvragen en de daaropvolgende communicatie:
 

@@ -1,13 +1,38 @@
 ---
 title: "Verordening examen Nederlands recht en examen gedrags- en beroepsregels"
 identifier: "BWBR0033788"
-categorie: "Onderwijs"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033788"
+country: "nl"
+rank: "pbo"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033788"
+soort: "pbo"
+stam_id: "12340143"
+version_id: "20703512"
+internal_id: "C29738371"
+label_id: "12311354"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033788/2022-01-01/0"
+intitule_bron: "Stcrt.2013-23892"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-08-19"
+intitule_published: "2013-08-27"
+intitule_in_force: "2013-08-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-23892"
+original_signed_date: "2013-08-19"
+original_published_date: "2013-08-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-23892"
+entry_into_force_date: "2014-01-01"
+jci_1_3: "jci1.3:c:BWBR0033788&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0033788&g=2022-01-01"
+citeertitel_status: "officieel"
+signed_date: "2013-08-19"
+entry_into_force: "2014-01-01"
 ---
-
 # Verordening examen Nederlands recht en examen gedrags- en beroepsregels
 
 Gelet op de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=5), [19, tweede lid, aanhef en onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=19) en [54, eerste lid, aanhef en onderdeel c en d, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=54) en de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032724&artikel=3) en [5 van het Besluit accountantsopleiding 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032724&artikel=5);
@@ -16,7 +41,7 @@ Stelt de volgende verordening vast:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze verordening en de daarop rustende bepalingen wordt verstaan onder:
 
@@ -38,7 +63,7 @@ Voor de toepassing van deze verordening en de daarop rustende bepalingen wordt v
 
 ### Hoofdstuk 2. Inhoud van de examens
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het examen Nederlands recht is opgebouwd uit onderdelen die overeenkomen met de vakgebieden, bedoeld in [artikel 3 van het Besluit accountantsopleiding 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032724&artikel=3). Het examen toetst of de kandidaat voldoende kennis heeft van deze vakgebieden, met in achtneming van de door de CEA vastgestelde eindtermen.
 
@@ -48,7 +73,7 @@ Voor de toepassing van deze verordening en de daarop rustende bepalingen wordt v
 
 ### Hoofdstuk 3. Inrichting van de examens
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het bestuur biedt ten minste tweemaal per jaar gelegenheid tot het afleggen van de examens.
 
@@ -68,13 +93,13 @@ Voor de toepassing van deze verordening en de daarop rustende bepalingen wordt v
 
 ### Hoofdstuk 4. Vrijstelling
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het bestuur kan in individuele gevallen, op schriftelijk verzoek, geheel of gedeeltelijke vrijstelling verlenen van het afleggen van het examen Nederlands recht of het examen gedrag- en beroepsregels aan degene die beschikt over schriftelijke bewijzen waaruit naar het oordeel van het bestuur blijkt dat hij de kennis heeft die is vereist voor het met goed gevolg afleggen van het desbetreffende examen.
 
 2. Voor de behandeling van het verzoek om vrijstelling wordt een bij verordening vast te stellen bedrag in rekening gebracht.
 
-#### Artikel 5
+##### Artikel 5
 
 Het bestuur verleent geheel of gedeeltelijke vrijstelling van het afleggen van het examen Nederlands recht en of het examen gedrags- en beroepsregels aan de kandidaat die na het behalen van een accountantsdiploma dat recht geeft op het afleggen van het desbetreffende examen:
 
@@ -84,7 +109,7 @@ Het bestuur verleent geheel of gedeeltelijke vrijstelling van het afleggen van h
 
 - c. het in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033788&hoofdstuk=4&artikel=6&z=2022-01-01&g=2022-01-01), bedoelde gesprek heeft gevoerd dat tot een positief oordeel van het bestuur heeft geleid.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien aan het gestelde in [artikel 5, aanhef en onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0033788&hoofdstuk=4&artikel=5&z=2022-01-01&g=2022-01-01), is voldaan, beoordeelt het bestuur of beoordelen de door het bestuur aan te wijzen personen in een gesprek met de kandidaat, in de Nederlandse of Engelse taal naar keuze van de kandidaat, in hoeverre de in [artikel 5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033788&hoofdstuk=4&artikel=5&z=2022-01-01&g=2022-01-01), bedoelde kennis op het vereiste niveau aanwezig is.
 
@@ -92,7 +117,7 @@ Het bestuur verleent geheel of gedeeltelijke vrijstelling van het afleggen van h
 
 ### Hoofdstuk 5. Examengeld
 
-#### Artikel 7
+##### Artikel 7
 
 1. Alvorens het examen Nederlands recht of het examen gedrags- en beroepsregels, dan wel een gesprek als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033788&hoofdstuk=4&artikel=6&z=2022-01-01&g=2022-01-01) kan worden gevoerd dan wel afgelegd, betaalt de kandidaat het daarvoor verschuldigde examengeld.
 
@@ -100,19 +125,19 @@ Het bestuur verleent geheel of gedeeltelijke vrijstelling van het afleggen van h
 
 ### Hoofdstuk 6. Verzoek tot het afleggen van het examen
 
-#### Artikel 8
+##### Artikel 8
 
 Bij het voor de eerste maal indienen van een verzoek tot het afleggen van het examen Nederlands recht, het examen gedrags- en beroepsregels of een verzoek tot vrijstelling op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033788&hoofdstuk=4&artikel=4&z=2022-01-01&g=2022-01-01), overlegt de aanvrager een bewijsstuk als bedoeld in [artikel 54, eerste lid, onderdeel a of b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=54).
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 1. De [Verordening examen Nederlands recht en examen gedrags- en Beroepsregels](https://wetten.overheid.nl/jci1.3:c:BWBR0025100) wordt ingetrokken.
 
 2. De [Verordening op het examen voor accountants uit andere lidstaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025176) wordt ingetrokken.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Deze verordening treedt in werking op 1 januari 2014.
 

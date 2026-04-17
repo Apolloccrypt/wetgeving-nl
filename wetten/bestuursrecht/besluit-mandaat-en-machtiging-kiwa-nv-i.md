@@ -1,13 +1,38 @@
 ---
 title: "Besluit mandaat en machtiging Kiwa N.V. (I)"
 identifier: "BWBR0027827"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027827"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027827"
+soort: "ministeriele-regeling"
+stam_id: "10588113"
+version_id: "17482672"
+internal_id: "C24182431"
+label_id: "10563084"
+dtd_version: "2.0"
+original_entry_into_force: "2010-06-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027827/2025-07-01/0"
+intitule_bron: "Stcrt.2010-10069"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-06-25"
+intitule_published: "2010-06-30"
+intitule_in_force: "2010-06-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-10069"
+original_signed_date: "2010-06-25"
+original_published_date: "2010-06-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-10069"
+entry_into_force_date: "2010-06-30"
+jci_1_3: "jci1.3:c:BWBR0027827&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0027827&g=2025-07-01"
+citeertitel_status: "officieel"
+signed_date: "2010-06-25"
+entry_into_force: "2010-06-30"
 ---
-
 # Besluit mandaat en machtiging Kiwa N.V. (I)
 
 Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) en [10:4, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4);
@@ -16,7 +41,7 @@ Gezien de overeenkomsten tussen de Staat der Nederlanden en Kiwa N.V. d.d. 10 ju
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -32,7 +57,7 @@ In dit besluit wordt verstaan onder:
 
 - f. **de overeenkomsten:** overeenkomsten overdracht taken van de Inspectie Verkeer en Waterstaat aan Kiwa N.V. aangegaan tussen de Staat der Nederlanden en Kiwa N.V. d.d. 10 juli 2009 en 27 mei 2010.
 
-#### Artikel 2
+##### Artikel 2
 
 De voorzitter van de directie van Kiwa N.V. is gemandateerd om:
 
@@ -44,7 +69,7 @@ De voorzitter van de directie van Kiwa N.V. is gemandateerd om:
 
 - d. besluiten te nemen die een directe relatie hebben met het besluitvormingsproces van hetgeen onder a., b. en c. is bepaald.
 
-#### Artikel 3
+##### Artikel 3
 
 - a. De voorzitter van de directie van Kiwa N.V. is gemachtigd om handelingen te verrichten die een directe relatie hebben met de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&artikel=2&z=2025-07-01&g=2025-07-01) omschreven bevoegdheden.
 
@@ -52,23 +77,23 @@ De voorzitter van de directie van Kiwa N.V. is gemandateerd om:
 
 - c. De voorzitter van de directie van Kiwa N.V. is gemachtigd klachten in behandeling te nemen als bedoeld in [Afdeling. 9.1.1. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.1.1) over gedragingen binnen zijn organisatie met betrekking tot de uitoefening van de in dit besluit bedoelde mandaat, volmacht en machtiging.
 
-#### Artikel 4
+##### Artikel 4
 
 De voorzitter van de directie van Kiwa N.V. is gevolmachtigd en gemachtigd datgene te doen nodig om uitvoering te kunnen geven aan hetgeen is bepaald in de op 9 maart 2004 tussen de Staat der Nederlanden en het Groothertogdom Luxemburg gesloten Overeenkomst inzake de gezamenlijke ontwikkeling en productie werkzaamheden ten behoeve van het Digitale Tachograaf Systeem.
 
-#### Artikel 5
+##### Artikel 5
 
 De voorzitter van de directie van Kiwa N.V. neemt bij de uitoefening van het aan hem verleende mandaat, de aan hem verleende machtiging en de aan hem verleende volmacht de instructies van de minister, onderscheidenlijk de staatssecretaris, in acht.
 
-#### Artikel 6
+##### Artikel 6
 
 De voorzitter van de directie van Kiwa N.V. zal ten aanzien van de hem op grond van dit besluit verleende bevoegdheden, ondermandaat, ondervolmacht en ondermachtiging verlenen aan een of meer onder hem ressorterende functionarissen.
 
-#### Artikel 7
+##### Artikel 7
 
 De voorzitter van de directie van Kiwa N.V. voert bij de uitoefening van de aan hem verleende bevoegdheid een ordentelijke en voor de minister transparante administratie.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het in een document vastleggen van een besluit of hetgeen op basis van de machtiging danwel volmacht wordt verricht, geschiedt op briefpapier waarop het desbetreffende Rijkslogo en het logo van Kiwa N.V. is geplaatst.
 
@@ -102,11 +127,11 @@ DE STAATSSECRETARIS VAN VERKEER EN WATERSTAAT,
 
 namens deze,’, gevolgd door de functieaanduiding, de handtekening en de naam van de betrokken functionaris,.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van datum van publicatie in de Staatscourant en werkt terug tot en met 1 juni 2010.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit mandaat en machtiging Kiwa N.V. (I)
 

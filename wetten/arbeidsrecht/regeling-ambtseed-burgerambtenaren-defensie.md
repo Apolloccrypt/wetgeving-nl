@@ -1,13 +1,38 @@
 ---
 title: "Regeling ambtseed burgerambtenaren Defensie"
 identifier: "BWBR0041484"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2003-05-12
-laatste_update: 2003-05-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041484"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2003-05-12"
+last_updated: "2003-05-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041484"
+soort: "ministeriele-regeling"
+stam_id: "14843253"
+version_id: "25375742"
+internal_id: "C36643651"
+label_id: "14794964"
+dtd_version: "2.0"
+original_entry_into_force: "2003-05-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041484/2003-05-12/0"
+intitule_bron: "Stcrt.2018-60258"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-05-12"
+intitule_published: "2018-10-29"
+intitule_in_force: "2018-10-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-60258"
+original_signed_date: "2003-05-12"
+original_published_date: "2018-10-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-60258"
+entry_into_force_date: "2003-05-12"
+jci_1_3: "jci1.3:c:BWBR0041484&z=2003-05-12&g=2003-05-12"
+jci_1_0: "1.0:c:BWBR0041484&g=2003-05-12"
+citeertitel_status: "officieel"
+signed_date: "2003-05-12"
+entry_into_force: "2003-05-12"
 ---
-
 # Regeling ambtseed burgerambtenaren Defensie
 
 Gelet op de [artikelen 70a](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=70a) en [168 van het Burgerlijk Ambtenarenreglement Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=168);
@@ -16,7 +41,7 @@ Besluit:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -28,7 +53,7 @@ In deze regeling wordt verstaan onder:
 
 - 4. **commandant** de commandant als bedoeld in [artikel 3, eerste lid onderdeel c van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=3).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De commandant draagt er zorg voor dat de ambtenaar zo spoedig mogelijk na aanstelling, doch in ieder geval binnen drie maanden na aanstelling, de eed of belofte aflegt.
 
@@ -36,17 +61,17 @@ In deze regeling wordt verstaan onder:
 
 3. Het eerste lid is niet van toepassing indien de ambtenaar reeds eerder in het kader van een aanstelling of tewerkstelling bij het Rijk of als burgerambtenaar bij het Ministerie van Defensie, een eed of belofte heeft afgelegd.
 
-#### Artikel 3
+##### Artikel 3
 
 De ambtenaar bepaalt of hij de eed dan wel de belofte aflegt.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De eed of belofte wordt afgelegd ten overstaan van de commandant.
 
 2. De eed of belofte wordt afgelegd in aanwezigheid van een getuige die wordt aangewezen door de autoriteit.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het afleggen van de eed geschiedt door voorlezing van de tekst van het formulier als bedoeld in de bijlage van deze regeling, door de commandant, waarna de ambtenaar woordelijk uitspreekt: ‘Zo waarlijk helpe mij God Almachtig’.
 
@@ -54,31 +79,31 @@ De ambtenaar bepaalt of hij de eed dan wel de belofte aflegt.
 
 3. De eed wordt staande afgelegd, waarbij de ambtenaar de twee voorste vingers van de rechterhand opsteekt. De belofte wordt staande afgelegd, zonder handopsteken.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het formulier, in tweevoud opgemaakt, wordt door de ambtenaar, de getuige en de commandant ondertekend.
 
 2. De ambtenaar ontvangt een exemplaar, het andere exemplaar wordt in het personeelsdossier van de ambtenaar opgelegd.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien de ambtenaar, gelet op diens godsdienstige overtuiging, op een andere wijze de eed of belofte wil afleggen wordt van deze wijze van afleggen aantekening gemaakt op het formulier.
 
-#### Artikel 8
+##### Artikel 8
 
 De ambtenaar die geen eed of belofte heeft afgelegd en op wie [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041484&artikel=2&z=2003-05-12&g=2003-05-12), niet van toepassing is, legt alsnog zo spoedig mogelijk de eed of belofte af conform het bepaalde in deze regeling.
 
-#### Artikel 9
+##### Artikel 9
 
 De Beleidsregel ambtseed burgerambtenaren Centrale Organisatie (PCO 2002000047) van 1 februari 2002 wordt ingetrokken.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Deze regeling treedt in werking met ingang van de datum van ondertekening.
 
 2. Deze regeling zal in de MP 33-serie worden geplaatst. Van deze plaatsing zal mededeling worden gedaan in de Staatscourant.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling kan worden aangehaald als de Regeling ambtseed burgerambtenaren Defensie.
 

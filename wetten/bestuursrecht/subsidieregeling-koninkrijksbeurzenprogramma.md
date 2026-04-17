@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling Koninkrijksbeurzenprogramma"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 februari 2024, nr. IB/38530442, houdende regels voor het verstrekken van subsidie ter ondersteuning van onderwijsmobiliteit binnen het Koninkrijk der Nederlanden (Subsidieregeling Koninkrijksbeurzenprogramma)"
 identifier: "BWBR0049399"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-09-01
-laatste_update: 2025-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049399"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-09-01"
+last_updated: "2025-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049399"
+soort: "ministeriele-regeling"
+stam_id: "17037473"
+version_id: "30017552"
+internal_id: "C43027691"
+label_id: "16947154"
+dtd_version: "2.0"
+original_entry_into_force: "2024-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049399/2025-09-01/0"
+intitule_bron: "Stcrt.2024-5652-n1"
+intitule_effect: "wijziging"
+intitule_signed: "2024-02-14"
+intitule_published: "2024-02-26"
+intitule_in_force: "2024-02-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-5652-n1"
+original_signed_date: "2024-02-14"
+original_published_date: "2024-02-26"
+original_effect: "wijziging"
+original_url_id: "stcrt-2024-5652-n1"
+entry_into_force_date: "2024-04-01"
+jci_1_3: "jci1.3:c:BWBR0049399&z=2025-09-01&g=2025-09-01"
+jci_1_0: "1.0:c:BWBR0049399&g=2025-09-01"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling Koninkrijksbeurzenprogramma"
+signed_date: "2024-02-14"
+entry_into_force: "2024-04-01"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 februari 2024, nr. IB/38530442, houdende regels voor het verstrekken van subsidie ter ondersteuning van onderwijsmobiliteit binnen het Koninkrijk der Nederlanden (Subsidieregeling Koninkrijksbeurzenprogramma)
 
 Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -52,13 +78,13 @@ In deze regeling wordt verstaan onder:
 
 - **zendende instelling:** onderwijsinstelling waar de student als voltijdstudent staat ingeschreven.
 
-#### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
 ### Hoofdstuk 2. Beurzen voor studie-uitwisseling en stages binnen het koninkrijk
 
-#### Artikel 3. Te subsidiëren studie-uitwisseling
+##### Artikel 3. Te subsidiëren studie-uitwisseling
 
 1. De minister kan subsidie verstrekken voor studie-uitwisseling binnen het Koninkrijk aan een student die:
 
@@ -78,7 +104,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 3. In afwijking van het tweede lid, wordt een subsidie als bedoeld in [artikel 8, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=8&z=2025-09-01&g=2025-09-01), verstrekt voor de duur van ten minste 21 kalenderdagen en ten hoogste zes maanden.
 
-#### Artikel 4. Te subsidiëren stage
+##### Artikel 4. Te subsidiëren stage
 
 1. De minister kan subsidie verstrekken voor een stage binnen het Koninkrijk, voor zover deze een verplicht of extra-curriculair onderdeel is van de opleiding, aan een student die:
 
@@ -98,7 +124,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 3. In afwijking van het tweede lid, wordt een subsidie als bedoeld in [artikel 8, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=8&z=2025-09-01&g=2025-09-01), verstrekt voor de duur van ten minste 21 kalenderdagen en ten hoogste zes maanden.
 
-#### Artikel 5. Hoogte subsidie
+##### Artikel 5. Hoogte subsidie
 
 1. De maximale subsidie per student per studie-uitwisseling of stage is vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&bijlage=1&z=2025-09-01&g=2025-09-01).
 
@@ -106,7 +132,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 3. In afwijking van bovengenoemde leden, geldt voor een subsidie als bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4a&z=2025-09-01&g=2025-09-01), dat de hoogte van de subsidie wordt bepaald door het aantal personen waarvoor reis- en verblijfskosten worden gemaakt, waarbij een vast bedrag van € 1.000,00 per persoon geldt.
 
-#### Artikel 6. Aanvrager
+##### Artikel 6. Aanvrager
 
 1. De subsidie, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=3&z=2025-09-01&g=2025-09-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4&z=2025-09-01&g=2025-09-01), wordt uitsluitend verstrekt aan een student die:
 
@@ -128,7 +154,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 2. De subsidie, bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4a&z=2025-09-01&g=2025-09-01), wordt verstrekt aan een gesubsidieerde onderwijsinstelling in Sint Maarten.
 
-#### Artikel 7. Aanvraag
+##### Artikel 7. Aanvraag
 
 1. Een aanvraag voor een subsidie als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=3&z=2025-09-01&g=2025-09-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4&z=2025-09-01&g=2025-09-01) wordt gedaan met gebruikmaking van het aanvraagformulier dat daartoe op de website van de Rijksdienst Caribisch Nederland beschikbaar is gesteld.
 
@@ -188,7 +214,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - d. de bankgegevens van de aanvrager, bestaande uit de Bank Identifier Code, de landcode, het International Bank Account Number en de naam van de rekeninghouder.
 
-#### Artikel 8. Termijn indiening aanvraag
+##### Artikel 8. Termijn indiening aanvraag
 
 1. Een aanvraag voor een subsidie voor een studie-uitwisseling of stage startend tussen 1 september 2024 en 31 oktober 2024, wordt vóór 15 mei 2024 ingediend.
 
@@ -204,7 +230,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 7. Een aanvraag voor een subsidie op grond van [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4a&z=2025-09-01&g=2025-09-01) wordt uiterlijk ingediend binnen 180 dagen na de start van het studiejaar waar de subsidie betrekking op heeft.
 
-#### Artikel 9. Subsidieplafond
+##### Artikel 9. Subsidieplafond
 
 1. Voor subsidieverstrekking op grond van deze regeling is in het studiejaar 2024–2025 een bedrag van € 604.000 beschikbaar, € 302.000 voor studie-uitwisseling of stage startend tussen 1 september 2024 en 31 oktober 2024 en € 302.000 voor studie-uitwisseling of stage startend tussen 1 februari 2025 en 31 maart 2025.
 
@@ -216,7 +242,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 5. Voor subsidieverstrekking op grond van [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=4a&z=2025-09-01&g=2025-09-01) van deze regeling is in het studiejaar 2026–2027 een bedrag van € 46.000 beschikbaar.
 
-#### Artikel 10. Wijze van verdeling beschikbare middelen
+##### Artikel 10. Wijze van verdeling beschikbare middelen
 
 1. De minister verdeelt het beschikbare bedrag, bedoeld in [artikel 9, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=9&z=2025-09-01&g=2025-09-01), door middel van loting in ten hoogste drie rondes.
 
@@ -230,13 +256,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 6. Indien er sprake is van onderuitputting van het beschikbare subsidiebudget in het eerste semester van het studiejaar, dan kan de minister besluiten het overgebleven subsidiebedrag door te schuiven naar het tweede semester.
 
-#### Artikel 11. Besluit en beslistermijn
+##### Artikel 11. Besluit en beslistermijn
 
 1. De subsidie wordt direct vastgesteld.
 
 2. De minister besluit uiterlijk 45 dagen na afloop van de aanvraagtermijn, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049399&hoofdstuk=2&artikel=8&z=2025-09-01&g=2025-09-01).
 
-#### Artikel 12. Betaling
+##### Artikel 12. Betaling
 
 1. De minister betaalt in één keer het gehele vastgestelde subsidiebedrag aan de subsidieontvanger binnen 8 weken na de dagtekening van de subsidievaststelling.
 
@@ -244,7 +270,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 3. Eventuele kosten verbonden aan betalingen die in vreemde valuta worden gedaan zijn voor rekening van de subsidieontvanger.
 
-#### Artikel 13. Afronding
+##### Artikel 13. Afronding
 
 1. De Rijksdienst Caribisch Nederland kan na afloop van de studie-uitwisseling of stage bij de subsidieaanvrager een door de zendende instelling goedgekeurd en ondertekend afrondingsbewijs opvragen.
 
@@ -252,17 +278,17 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 14. Hardheidsclausule
+##### Artikel 14. Hardheidsclausule
 
 De minister kan één of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover deze toepassing, gelet op het belang dat deze regeling beoogt te beschermen, zou leiden tot onbillijkheid van overwegende aard.
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van 1 april 2024.
 
 2. Deze regeling vervalt met ingang van 1 april 2029, met dien verstande dat zij van toepassing blijft op subsidies die op grond van deze regeling zijn verstrekt.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling Koninkrijksbeurzenprogramma.
 
@@ -284,7 +310,7 @@ Deze regeling wordt aangehaald als: Subsidieregeling Koninkrijksbeurzenprogramma
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 4a. Te subsidiëren reis- en verblijfskosten voor het CAFY
+##### Artikel 4a. Te subsidiëren reis- en verblijfskosten voor het CAFY
 
 De minister kan subsidie verstrekken aan een gesubsidieerde onderwijsinstelling in Sint Maarten ter tegemoetkoming in reis- en verblijfskosten voor het CAFY, indien:
 

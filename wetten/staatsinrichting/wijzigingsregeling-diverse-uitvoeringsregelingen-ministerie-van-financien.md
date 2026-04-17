@@ -1,68 +1,93 @@
 ---
 title: "Wijzigingsregeling diverse Uitvoeringsregelingen Ministerie van Financiën"
 identifier: "BWBR0019238"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2009-02-12
-laatste_update: 2009-02-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019238"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2009-02-12"
+last_updated: "2009-02-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019238"
+soort: "ministeriele-regeling"
+stam_id: "7760403"
+version_id: "12660372"
+internal_id: "C17046641"
+label_id: "7748194"
+dtd_version: "2.0"
+original_entry_into_force: "2006-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019238/2009-02-12/0"
+intitule_bron: "Stcrt.2005-251"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-12-12"
+intitule_published: "2005-12-27"
+intitule_in_force: "2005-12-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-251"
+original_signed_date: "2005-12-12"
+original_published_date: "2005-12-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-251-p21-SC72969"
+entry_into_force_date: "2006-01-01"
+jci_1_3: "jci1.3:c:BWBR0019238&z=2009-02-12&g=2009-02-12"
+jci_1_0: "1.0:c:BWBR0019238&g=2009-02-12"
+citeertitel_status: "redactioneel"
+signed_date: "2005-12-12"
+entry_into_force: "2006-01-01"
 ---
-
 # Wijzigingsregeling diverse Uitvoeringsregelingen Ministerie van Financiën
 
-#### Artikel I. [Uitvoeringsbeschikking dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002517)
+##### Artikel I. [Uitvoeringsbeschikking dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002517)
 
 Wijzigt de Uitvoeringsbeschikking dividendbelasting 1965.
 
-#### Artikel II. [Uitvoeringsbeschikking vennootschapsbelasting 1971](https://wetten.overheid.nl/jci1.3:c:BWBR0002784)
+##### Artikel II. [Uitvoeringsbeschikking vennootschapsbelasting 1971](https://wetten.overheid.nl/jci1.3:c:BWBR0002784)
 
 Wijzigt de Uitvoeringsbeschikking vennootschapsbelasting 1971.
 
-#### Artikel III. [Uitvoeringsregeling Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004766)
+##### Artikel III. [Uitvoeringsregeling Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004766)
 
 Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
 
-#### Artikel IV. [Regeling bekendmaking percentage heffingsrente en invorderingsrente bij belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0005669)
+##### Artikel IV. [Regeling bekendmaking percentage heffingsrente en invorderingsrente bij belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0005669)
 
 Wijzigt de Regeling bekendmaking percentage heffingsrente en invorderingsrente bij belastingen.
 
-#### Artikel V. [Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006736)
+##### Artikel V. [Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006736)
 
 Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
-#### Artikel VI. [Uitvoeringsregeling afdrachtvermindering](https://wetten.overheid.nl/jci1.3:c:BWBR0007780)
+##### Artikel VI. [Uitvoeringsregeling afdrachtvermindering](https://wetten.overheid.nl/jci1.3:c:BWBR0007780)
 
 Wijzigt de Uitvoeringsregeling afdrachtvermindering.
 
-#### Artikel VII. [Uitvoeringsregeling inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012031)
+##### Artikel VII. [Uitvoeringsregeling inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012031)
 
 Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
-#### Artikel VIII. [Uitvoeringsregeling loonbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012059)
+##### Artikel VIII. [Uitvoeringsregeling loonbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012059)
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2001.
 
-#### Artikel IX. [Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506)
+##### Artikel IX. [Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506)
 
 Wijzigt de Uitvoeringsregeling Belastingdienst 2003.
 
-#### Artikel X. [Uitvoeringsregeling inleners-, keten- en opdrachtgeversaansprakelijkheid 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016131)
+##### Artikel X. [Uitvoeringsregeling inleners-, keten- en opdrachtgeversaansprakelijkheid 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016131)
 
 Wijzigt de Uitvoeringsregeling inleners-, keten- en opdrachtgeversaansprakelijkheid 2004.
 
-#### Artikel XI. Overgangsrecht ([Uitvoeringsregeling invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004766))
+##### Artikel XI. Overgangsrecht ([Uitvoeringsregeling invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004766))
 
 Ten aanzien van het bedrag dat is verkregen in het kader van een regeling voor persoonsgebonden budget, welke regeling is gegrond op [artikel 1p, eerste lid, onderdeel d, van de Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460&artikel=1), blijven de [artikelen 12, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=12), en [14, eerste lid, onderdeel c, van de Uitvoeringsregeling Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=14) van toepassing zoals deze golden op 31 december 2005.
 
-#### Artikel XII. Overgangsrecht ([Uitvoeringsregeling inleners- keten- en opdrachtgeversaansprakelijkheid 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016131))
+##### Artikel XII. Overgangsrecht ([Uitvoeringsregeling inleners- keten- en opdrachtgeversaansprakelijkheid 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016131))
 
 Voor 1 januari 2006 gesloten G-rekeningovereenkomsten die voldoen aan de bepalingen van de [Uitvoeringsregeling inleners-, keten- en opdrachtgeversaansprakelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0016131), zoals deze luidde voor 1 januari 2006, blijven ook nadien van kracht.
 
-#### Artikel XIIA. ([Uitvoeringsregeling inkomstenbelasting 1990](onbekend))
+##### Artikel XIIA. ([Uitvoeringsregeling inkomstenbelasting 1990](onbekend))
 
 Voor het kalenderjaar 2000 wordt voor de toepassing van [artikel 2b, eerste lid, van de Uitvoeringsregeling inkomstenbelasting 1990](onbekend), zoals [dat artikel](onbekend) op 31 december 2000 luidde, voor de daar gebruikte zinsnede ‘de Tijdelijke regeling particulier natuurbeheer’ gelezen: de Tijdelijke regeling particulier natuurbeheer zoals die luidde tot 1 januari 2000, de [Subsidieregeling natuurbeheer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0010999), de [Subsidieregeling agrarisch natuurbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0011000) voor zover betrekking hebbend op de landschapssubsidie bedoeld in [artikel 2, aanhef en onderdeel b, van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0011000&artikel=2),.
 
-#### Artikel XIII. Inwerkingtreding
+##### Artikel XIII. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2006.
 

@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling instandhouding woonhuis-monumenten Caribisch Nederland 2026"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 maart 2026, nr. WJZ/1787349, houdende regels voor subsidieverstrekking voor de instandhouding van monumenten met een woonfunctie op Bonaire, Sint Eustatius en Saba (Subsidieregeling instandhouding woonhuis-monumenten Caribisch Nederland 2026)"
 identifier: "BWBR0052497"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-04-08
-laatste_update: 2026-04-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052497"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2026-04-08"
+last_updated: "2026-04-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052497"
+soort: "ministeriele-regeling-BES"
+stam_id: "17827313"
+version_id: "31514242"
+internal_id: "C45000891"
+label_id: "17724644"
+dtd_version: "2.0"
+original_entry_into_force: "2026-04-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052497/2026-04-08/0"
+intitule_bron: "Stcrt.2026-12180"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-03-24"
+intitule_published: "2026-04-07"
+intitule_in_force: "2026-04-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-12180"
+original_signed_date: "2026-03-24"
+original_published_date: "2026-04-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-12180"
+entry_into_force_date: "2026-04-08"
+jci_1_3: "jci1.3:c:BWBR0052497&z=2026-04-08&g=2026-04-08"
+jci_1_0: "1.0:c:BWBR0052497&g=2026-04-08"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling instandhouding woonhuis-monumenten Caribisch Nederland 2026"
+signed_date: "2026-03-24"
+entry_into_force: "2026-04-08"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 maart 2026, nr. WJZ/1787349, houdende regels voor subsidieverstrekking voor de instandhouding van monumenten met een woonfunctie op Bonaire, Sint Eustatius en Saba (Subsidieregeling instandhouding woonhuis-monumenten Caribisch Nederland 2026)
 
 Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -38,15 +64,15 @@ In deze regeling wordt verstaan onder:
 
 - **particuliere eigenaar:** natuurlijk persoon die het recht van eigendom of een ander zakelijk recht heeft op een monument of beschermd monument.
 
-#### Artikel 2. Toepassing Kaderregeling
+##### Artikel 2. Toepassing Kaderregeling
 
 Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603). Onderdeel d van de begripsomschrijving van financieel verslag, bedoeld in [artikel 1.1 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.1), de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.1) en [3.3 tot en met 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3), alsmede [hoofdstuk 7 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=7) zijn niet van toepassing.
 
-#### Artikel 3. Te subsidiëren activiteiten
+##### Artikel 3. Te subsidiëren activiteiten
 
 De minister kan aan particuliere eigenaren van een monument als bedoeld in [artikel 8, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0052497&artikel=8&z=2026-04-08&g=2026-04-08), of beschermd monument met een woonfunctie subsidie verstrekken voor de instandhoudingskosten ten behoeve van dat monument of beschermd monument.
 
-#### Artikel 4. Subsidiabele kosten en hoogte subsidiebedrag
+##### Artikel 4. Subsidiabele kosten en hoogte subsidiebedrag
 
 1. Subsidiabel zijn de instandhoudingskosten, met dien verstande dat kosten waarvoor op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052497&artikel=7&z=2026-04-08&g=2026-04-08) subsidie wordt geweigerd als niet-subsidiabel worden aangemerkt.
 
@@ -54,7 +80,7 @@ De minister kan aan particuliere eigenaren van een monument als bedoeld in [arti
 
 3. Het subsidiebedrag is gelijk aan de subsidiabele instandhoudingskosten, met een maximum van $ 100.000 per monument of beschermd monument.
 
-#### Artikel 5. Subsidieplafond
+##### Artikel 5. Subsidieplafond
 
 Voor subsidieverstrekking op grond van deze regeling is ten hoogste een bedrag beschikbaar van:
 
@@ -64,7 +90,7 @@ Voor subsidieverstrekking op grond van deze regeling is ten hoogste een bedrag b
 
 - c. voor Saba: $ 275.000.
 
-#### Artikel 6. Aanvraag subsidie
+##### Artikel 6. Aanvraag subsidie
 
 1. De subsidie kan voor alle drie eilanden worden aangevraagd van 1 september 2026 tot en met 30 september 2026 (UTC-4).
 
@@ -94,7 +120,7 @@ Voor subsidieverstrekking op grond van deze regeling is ten hoogste een bedrag b
 
 5. Per monument of beschermd monument kan maximaal één aanvraag worden gedaan.
 
-#### Artikel 7. Weigeringsgronden
+##### Artikel 7. Weigeringsgronden
 
 In aanvulling op de [artikelen 4:25](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:25) en [4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt subsidie in ieder geval geweigerd:
 
@@ -114,7 +140,7 @@ In aanvulling op de [artikelen 4:25](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 - h. indien de aanvraag wordt ingediend buiten de termijn, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052497&artikel=6&z=2026-04-08&g=2026-04-08).
 
-#### Artikel 8. Wijze van verdeling beschikbare middelen
+##### Artikel 8. Wijze van verdeling beschikbare middelen
 
 1. Indien een subsidieplafond als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052497&artikel=5&z=2026-04-08&g=2026-04-08) niet hoog genoeg is om alle aanvragen ten laste van het beschikbare bedrag te honoreren, wordt op die aanvragen op de hierna aangegeven volgende volgorde beslist:
 
@@ -130,7 +156,7 @@ In aanvulling op de [artikelen 4:25](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 3. Indien na toekenning van de subsidie, na toepassing van het eerste en tweede lid, nog voor een of meer van de eilanden budget resteert, wordt dit budget samengevoegd en aangewend voor de eerstvolgende aanvraag die op basis van die rangschikking voor subsidieverlening in aanmerking komt, ongeacht op welk van de eilanden het monument of beschermd monument is gelegen.
 
-#### Artikel 9. Subsidieverlening en bevoorschotting
+##### Artikel 9. Subsidieverlening en bevoorschotting
 
 1. De minister besluit binnen 22 weken na de sluiting van het aanvraagtijdvak, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052497&artikel=6&z=2026-04-08&g=2026-04-08), op de aanvragen.
 
@@ -138,7 +164,7 @@ In aanvulling op de [artikelen 4:25](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 3. De subsidiebedragen worden in Amerikaanse dollars verleend, uitbetaald en vastgesteld.
 
-#### Artikel 10. Verplichtingen van de subsidieontvanger
+##### Artikel 10. Verplichtingen van de subsidieontvanger
 
 1. Aan de subsidieontvanger worden, in aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5), de volgende verplichtingen opgelegd:
 
@@ -152,7 +178,7 @@ In aanvulling op de [artikelen 4:25](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 2. De minister kan de subsidieontvanger verplichten advies te vragen aan de Rijksdienst voor het Cultureel Erfgoed alvorens met de voorgenomen activiteiten wordt gestart voor zover de monumentale waarde van het monument of beschermd monument of die activiteiten daartoe aanleiding vormen.
 
-#### Artikel 11. Verantwoording
+##### Artikel 11. Verantwoording
 
 1. De subsidieontvanger toont aan de hand van een prestatieverklaring aan dat de activiteiten waarvoor de subsidie is verleend, volledig zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.
 
@@ -162,13 +188,13 @@ In aanvulling op de [artikelen 4:25](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 4. Onverminderd het bepaalde in het eerste en tweede lid, toont de subsidieontvanger op verzoek van de minister aan dat de activiteiten waarvoor de subsidie is verleend, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen. Bij beschikking wordt aangegeven op welke wijze dit wordt aangetoond.
 
-#### Artikel 12. Vaststelling subsidie
+##### Artikel 12. Vaststelling subsidie
 
 1. De subsidieontvanger dient uiterlijk binnen 22 weken na de afronding van de activiteiten waarvoor subsidie is verleend een aanvraag tot vaststelling van de subsidie in, met gebruikmaking van het formulier dat daartoe door de Rijksdienst voor het Cultureel Erfgoed beschikbaar wordt gesteld.
 
 2. De minister besluit binnen 22 weken op een aanvraag tot vaststelling van de subsidie.
 
-#### Artikel 13. Intrekking subsidieverlening, uitstel startdatum en verlenging activiteitenperiode
+##### Artikel 13. Intrekking subsidieverlening, uitstel startdatum en verlenging activiteitenperiode
 
 1. De minister kan de subsidieverlening intrekken indien de eigenaar niet voldoet aan de verplichting, bedoeld in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0052497&artikel=10&z=2026-04-08&g=2026-04-08), behoudens overmacht of onvoorziene omstandigheden aan de kant van de eigenaar.
 
@@ -194,13 +220,13 @@ In aanvulling op de [artikelen 4:25](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 7. De subsidieontvanger dient een aanvraag als bedoeld in het zesde lid onverwijld in en uiterlijk voor het einde van de periode waarvoor de subsidie is verleend.
 
-#### Artikel 14. Eigendomsoverdracht
+##### Artikel 14. Eigendomsoverdracht
 
 1. Indien de subsidieontvanger de eigendom of een ander zakelijk recht van een monument of beschermd monument overdraagt aan een nieuwe eigenaar, dient de subsidieontvanger in afwijking van [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052497&artikel=12&z=2026-04-08&g=2026-04-08), binnen drie maanden na de overdracht een aanvraag tot vaststelling in, met gebruikmaking van het formulier dat daartoe op de website van de Rijksdienst voor het Cultureel Erfgoed beschikbaar is gesteld.
 
 2. Na de vaststelling, bedoeld in het eerste lid, kan de minister de nieuwe particuliere eigenaar op aanvraag subsidie verstrekken ten behoeve van de afronding van de instandhoudingswerkzaamheden.
 
-#### Artikel 15. Aanvraag subsidie nieuwe particuliere eigenaar
+##### Artikel 15. Aanvraag subsidie nieuwe particuliere eigenaar
 
 1. Een nieuwe particuliere eigenaar kan een aanvraag voor subsidie indienen nadat de subsidie van de vorige particuliere eigenaar is vastgesteld. In afwijking van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052497&artikel=6&z=2026-04-08&g=2026-04-08), bevat de aanvraag alleen de gegevens en bescheiden, bedoeld in de onderdelen a, b, d, onder 2°, en f.
 
@@ -208,18 +234,18 @@ In aanvulling op de [artikelen 4:25](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 3. Onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052497&artikel=4&z=2026-04-08&g=2026-04-08) bedraagt het subsidiebedrag maximaal het verschil tussen de verleningsbeschikking, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0052497&artikel=9&z=2026-04-08&g=2026-04-08), en de vaststellingsbeschikking, bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052497&artikel=12&z=2026-04-08&g=2026-04-08), van de vorige particuliere eigenaar.
 
-#### Artikel 16. Terugvordering
+##### Artikel 16. Terugvordering
 
 1. De subsidieontvanger is na de subsidievaststelling verplicht een teveel aan ontvangen voorschotten onverwijld terug te betalen.
 
 2. Bij terugvordering van onverschuldigd betaalde subsidiebedragen of voorschotten kan de minister de subsidieontvanger verplichten de met de terugvordering verband houdende kosten te voldoen.
 
-#### Artikel 17. Inwerkingtreding en vervaldatum
+##### Artikel 17. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van 8 april 2026.
 
 2. Deze regeling vervalt met ingang van 8 april 2028, met dien verstande dat zij van toepassing blijft op subsidies die voor die datum zijn verleend.
 
-#### Artikel 18. Citeertitel
+##### Artikel 18. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling instandhouding woonhuis-monumenten Caribisch Nederland 2026.

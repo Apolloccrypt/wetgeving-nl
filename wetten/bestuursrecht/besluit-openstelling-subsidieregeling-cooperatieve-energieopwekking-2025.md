@@ -1,20 +1,46 @@
 ---
-title: "Besluit openstelling Subsidieregeling coöperatieve energieopwekking 2025"
+title: "Besluit van de Minister van Klimaat en Groene Groei van 16 febuari 2025, nr. WJZ/ 89776028 tot openstelling van de Subsidieregeling coöperatieve energieopwekking 2025 (Besluit openstelling Subsidieregeling coöperatieve energieopwekking 2025)"
 identifier: "BWBR0050795"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-02-25
-laatste_update: 2025-02-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050795"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-02-25"
+last_updated: "2025-02-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050795"
+soort: "ministeriele-regeling"
+stam_id: "17373193"
+version_id: "30625502"
+internal_id: "C43897521"
+label_id: "17276084"
+dtd_version: "2.0"
+original_entry_into_force: "2025-02-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050795/2025-02-25/0"
+intitule_bron: "Stcrt.2025-6684"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-02-16"
+intitule_published: "2025-02-24"
+intitule_in_force: "2025-02-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-6684"
+original_signed_date: "2025-02-16"
+original_published_date: "2025-02-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-6684"
+entry_into_force_date: "2025-02-25"
+jci_1_3: "jci1.3:c:BWBR0050795&z=2025-02-25&g=2025-02-25"
+jci_1_0: "1.0:c:BWBR0050795&g=2025-02-25"
+citeertitel_status: "officieel"
+short_title: "Besluit openstelling Subsidieregeling coöperatieve energieopwekking 2025"
+signed_date: "2025-02-16"
+entry_into_force: "2025-02-25"
 ---
-
 # Besluit van de Minister van Klimaat en Groene Groei van 16 febuari 2025, nr. WJZ/ 89776028 tot openstelling van de Subsidieregeling coöperatieve energieopwekking 2025 (Besluit openstelling Subsidieregeling coöperatieve energieopwekking 2025)
 
 Gelet op [artikel 3 van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3) en de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=2), [4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=4), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=5), [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=8), [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=9), en [24, tweede lid, van de Subsidieregeling coöperatieve energieopwekking](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=24);
 
 Besluit:
 
-#### Artikel 1. (begripsbepalingen)
+##### Artikel 1. (begripsbepalingen)
 
 In dit besluit wordt verstaan onder:
 
@@ -26,11 +52,11 @@ In dit besluit wordt verstaan onder:
 
 - **regeling:** [Subsidieregeling coöperatieve energieopwekking](https://wetten.overheid.nl/jci1.3:c:BWBR0044882).
 
-#### Artikel 2. (subsidieplafond en aanvraagperiode)
+##### Artikel 2. (subsidieplafond en aanvraagperiode)
 
 Het subsidieplafond voor het verlenen van subsidie voor de productie van hernieuwbare elektriciteit op grond van [artikel 2, derde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=2), die wordt aangevraagd in de periode van 3 maart 2025, 09:00 uur, tot 1 oktober 2025, 17:00 uur, wordt vastgesteld op € 100.000.000.
 
-#### Artikel 3. (aanwijzing categorieën productie-installaties)
+##### Artikel 3. (aanwijzing categorieën productie-installaties)
 
 1. Als categorieën productie-installaties waarvoor op grond van [artikel 2, derde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=2) een aanvraag tot subsidieverlening kan worden ingediend, worden aangewezen:
 
@@ -82,7 +108,7 @@ Het subsidieplafond voor het verlenen van subsidie voor de productie van hernieu
 
 2. Het additioneel gecontracteerde terugleververmogen voor een productie-installatie voor de productie van hernieuwbare elektriciteit uit zonne-energie uitsluitend met een of meer fotovoltaïsche zonnepanelen, die zijn aangesloten op het elektriciteitsnet met een grootverbruikersaansluiting als bedoeld in het eerste lid, onderdelen b, c, d en e, bedraagt maximaal 50% van het piekvermogen van de zonnepanelen.
 
-#### Artikel 4. (uiterste ingebruiknametermijn productie-installatie)
+##### Artikel 4. (uiterste ingebruiknametermijn productie-installatie)
 
 De uiterste periodes voor het in gebruik nemen van een productie-installatie op grond van [artikel 24, tweede lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=24), worden vastgesteld op:
 
@@ -98,7 +124,7 @@ De uiterste periodes voor het in gebruik nemen van een productie-installatie op 
 
 - f. voor een productie-installatie voor de productie van hernieuwbare elektriciteit uit waterkracht als bedoeld in [artikel 3, eerste lid, onderdelen j en k](https://wetten.overheid.nl/jci1.3:c:BWBR0050795&artikel=3&z=2025-02-25&g=2025-02-25): drie jaar na de datum van de beschikking tot subsidieverlening.
 
-#### Artikel 5. (vaststelling basisbedrag, maximum aantal vollasturen, basiselektriciteitsprijs en voorlopig correctiebedrag)
+##### Artikel 5. (vaststelling basisbedrag, maximum aantal vollasturen, basiselektriciteitsprijs en voorlopig correctiebedrag)
 
 Voor een categorie productie-installaties als bedoeld in de eerste en tweede kolom van onderstaande tabel wordt:
 
@@ -140,11 +166,11 @@ Voor een categorie productie-installaties als bedoeld in de eerste en tweede kol
 | [Artikel 3, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0050795&artikel=3&z=2025-02-25&g=2025-02-25) | Waterkracht, kleinverbruikers-aansluiting, ≥ 15 kW en ≤ 100 kW | 0,175 | 5000 | Netlevering: 0,047 | Netlevering: 0,075 |
 | [Artikel 3, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0050795&artikel=3&z=2025-02-25&g=2025-02-25) | Waterkracht, grootverbruikers-aansluiting, ≥ 15 kW en ≤150 kW | 0,175 | 5000 | Netlevering: 0,047 | Netlevering: 0,075 |
 
-#### Artikel 5*. (inwerkingtreding)
+##### Artikel 5*. (inwerkingtreding)
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 6. (citeertitel)
+##### Artikel 6. (citeertitel)
 
 Dit besluit wordt aangehaald als: Besluit openstelling Subsidieregeling coöperatieve energieopwekking 2025.
 

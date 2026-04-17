@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregels voor inschrijving bewindvoerders Wsnp en bewindvoerderorganisaties Wsnp in het register II"
 identifier: "BWBR0051930"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051930"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051930"
+soort: "zbo"
+stam_id: "17671373"
+version_id: "31175152"
+internal_id: "C44600431"
+label_id: "17570774"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051930/2026-01-01/0"
+intitule_bron: "Stcrt.2025-41218"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-11-25"
+intitule_published: "2025-12-08"
+intitule_in_force: "2025-12-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-41218"
+original_signed_date: "2025-11-25"
+original_published_date: "2025-12-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-41218"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051930&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051930&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-11-25"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregels voor inschrijving bewindvoerders Wsnp en bewindvoerderorganisaties Wsnp in het register II
 
 Gelet op:
@@ -28,7 +53,7 @@ Stelt de volgende beleidsregels vast voor inschrijving van de bewindvoerder Wsnp
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beleidsregels wordt verstaan onder:
 
@@ -92,7 +117,7 @@ In deze beleidsregels wordt verstaan onder:
 
 #### § 2. Inschrijving bewindvoerder Wsnp in het register
 
-#### Artikel 2. Voorwaarden inschrijving
+##### Artikel 2. Voorwaarden inschrijving
 
 1. De bewindvoerder Wsnp die geen advocaat is, wordt ingeschreven in het register onder de volgende voorwaarden:
 
@@ -108,7 +133,7 @@ In deze beleidsregels wordt verstaan onder:
 
 2. De advocaat-bewindvoerder kan op verzoek worden ingeschreven in het register.
 
-#### Artikel 3. Voortzetting inschrijving
+##### Artikel 3. Voortzetting inschrijving
 
 1. De inschrijving van een bewindvoerder Wsnp die geen advocaat is, blijft van kracht zolang deze aan de volgende voorwaarden voldoet:
 
@@ -122,7 +147,7 @@ In deze beleidsregels wordt verstaan onder:
 
 - e). De bewindvoerder Wsnp heeft tenminste één lopende Wsnp-zaak op naam staan. De Raad controleert dit vereiste jaarlijks.
 
-#### Artikel 4. Uitschrijving register
+##### Artikel 4. Uitschrijving register
 
 1. De bewindvoerder Wsnp die geen advocaat is, wordt (tijdelijk) uitgeschreven uit het register als:
 
@@ -142,7 +167,7 @@ In deze beleidsregels wordt verstaan onder:
 
 #### § 3. Permanente Educatie
 
-#### Artikel 5. PE-punten
+##### Artikel 5. PE-punten
 
 1. Een bewindvoerder Wsnp behaalt driejaarlijks tenminste 36 PE-punten in het kader van de permanente educatie. De Raad hanteert een vaste periode van drie jaar die gelijkloopt aan de auditperiode.
 
@@ -154,7 +179,7 @@ In deze beleidsregels wordt verstaan onder:
 
 5. De PE-periode voor een intredende bewindvoerder Wsnp gaat in op 1 januari van het jaar, volgend op het jaar waarin de basisopleiding is behaald. De voorwaarden genoemd in lid 1, 3 en 4 van dit artikel gelden naar rato.
 
-#### Artikel 6. Scholingsactiviteiten en overige PE-activiteiten
+##### Artikel 6. Scholingsactiviteiten en overige PE-activiteiten
 
 Een bewindvoerder kan PE-punten behalen via:
 
@@ -173,11 +198,11 @@ Een bewindvoerder kan PE-punten behalen via:
 | **3** | Intercollegiaal overleg | Per uur 1 PE-punt | Maximaal 3 PE punten per jaar | Bewijs van deelname |
 | **4** | Wetenschappelijke publicaties en publicaties in vakbladen | Per 500 woorden 1 PE punt | Maximaal 3 PE punten per jaar | De publicatie zelf |
 
-#### Artikel 7. Verplichte scholing
+##### Artikel 7. Verplichte scholing
 
 Het kan voorkomen dat een bepaalde scholing verplicht gevolgd moet worden. De Raad maakt dit, voor zover mogelijk, aan het begin van een kalenderjaar bekend. Ook kan de Raad, als daartoe aanleiding bestaat, specifieke scholing opleggen aan een individuele bewindvoerder Wsnp.
 
-#### Artikel 8. Aanvraag PE-punten
+##### Artikel 8. Aanvraag PE-punten
 
 1. Opleidingsinstellingen en bewindvoerders Wsnp kunnen de Raad vragen punten toe te kennen aan een bepaalde PE-activiteit. Dit kan vooraf worden aangevraagd, of binnen één jaar nadat de activiteit heeft plaatsgehad.
 
@@ -185,7 +210,7 @@ Het kan voorkomen dat een bepaalde scholing verplicht gevolgd moet worden. De Ra
 
 3. Aan PE-activiteiten wordt in beginsel per volledig lesuur (zestig minuten) één PE-punt toegekend.
 
-#### Artikel 9. Behalen vereiste punten
+##### Artikel 9. Behalen vereiste punten
 
 1. Een bewindvoerder Wsnp is zelf verantwoordelijk voor het behalen van voldoende PE-punten.
 
@@ -193,13 +218,13 @@ Het kan voorkomen dat een bepaalde scholing verplicht gevolgd moet worden. De Ra
 
 3. De bewindvoerder Wsnp dient tijdens de audit aan te tonen welke PE-activiteiten hij heeft gevolgd en hoeveel PE-punten daarmee zijn behaald.
 
-#### Artikel 10. Erkende opleidingsinstelling
+##### Artikel 10. Erkende opleidingsinstelling
 
 Een opleidingsinstelling kan de Raad schriftelijk verzoeken om haar aan te wijzen als erkende opleidingsinstelling, als bedoeld in het besluit aanwijzing opleidingsinstelling Wsnp. Een erkende opleidingsinstelling kent zelfstandig het aantal PE-punten toe aan haar scholingsactiviteit.
 
 #### § 4. Uittreden en herintreden
 
-#### Artikel 11. Uittredende bewindvoerder Wsnp
+##### Artikel 11. Uittredende bewindvoerder Wsnp
 
 1. Onder uittredende bewindvoerder Wsnp wordt verstaan: een bewindvoerder die aan de Raad heeft aangegeven te stoppen, maar nog niet uitgeschreven kan worden uit het register in verband met nog lopende zaken of dossiers die nog niet financieel zijn afgewikkeld.
 
@@ -211,7 +236,7 @@ Een opleidingsinstelling kan de Raad schriftelijk verzoeken om haar aan te wijze
 
 5. Als de bewindvoerder Wsnp terugkomt op het besluit en aangeeft ingeschreven te willen blijven, wordt beoordeeld of aan de inschrijvingsvoorwaarden wordt voldaan. Bij een positieve beoordeling is [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051930&paragraaf=3&z=2026-01-01&g=2026-01-01) Permanente Educatie met terugwerkende kracht van toepassing en wordt dit tijdens de audit getoetst.
 
-#### Artikel 12. Herintredende bewindvoerder Wsnp
+##### Artikel 12. Herintredende bewindvoerder Wsnp
 
 1. Onder herintredende bewindvoerder Wsnp wordt verstaan: een bewindvoerder die minstens twaalf maanden niet ingeschreven heeft gestaan in het register, of een bewindvoerder die gedurende twaalf maanden na het volgen van de basisopleiding niet is ingeschreven in het register;
 
@@ -227,7 +252,7 @@ Een opleidingsinstelling kan de Raad schriftelijk verzoeken om haar aan te wijze
 
 #### § 5. Inschrijving en uitschrijving bewindvoerderorganisatie Wsnp
 
-#### Artikel 13. Voorwaarden inschrijving bewindvoerdersorganisatie Wsnp
+##### Artikel 13. Voorwaarden inschrijving bewindvoerdersorganisatie Wsnp
 
 Een organisatie wordt op verzoek in het register ingeschreven als bewindvoerderorganisatie Wsnp onder de volgende voorwaarden:
 
@@ -243,11 +268,11 @@ Een organisatie wordt op verzoek in het register ingeschreven als bewindvoerdero
 
 - d). kan digitaal, via e-mail, communiceren met de Raad
 
-#### Artikel 14. Audits
+##### Artikel 14. Audits
 
 De Raad kan periodiek toetsen, middels het uit (laten) voeren van audits of anderszins, of de ingeschreven organisatie nog steeds voldoet aan de inschrijfvoorwaarden uit [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0051930&paragraaf=5&artikel=13&z=2026-01-01&g=2026-01-01) van deze beleidsregels.
 
-#### Artikel 15. Uitschrijving bewindvoerdersorganisatie Wsnp
+##### Artikel 15. Uitschrijving bewindvoerdersorganisatie Wsnp
 
 De bewindvoerderorganisatie Wsnp kan worden uitgeschreven uit het register als:
 
@@ -259,17 +284,17 @@ De bewindvoerderorganisatie Wsnp kan worden uitgeschreven uit het register als:
 
 #### § 6. Slotbepalingen
 
-#### Artikel 16. Intrekken van bestaande besluiten en regelingen
+##### Artikel 16. Intrekken van bestaande besluiten en regelingen
 
 De volgende reglementen en besluiten vervallen bij de inwerkingtreding van dit besluit.
 
 - 1. De [Beleidsregels voor inschrijving bewindvoerders Wsnp en bewindvoerderorganisaties Wsnp in het register](https://wetten.overheid.nl/jci1.3:c:BWBR0037325) (Staatscourant 2015, 44924)
 
-#### Artikel 17. Inwerkingtreding
+##### Artikel 17. Inwerkingtreding
 
 Deze regeling met de daarbij behorende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0051930&bijlage=I&z=2026-01-01&g=2026-01-01) treedt in werking op 1-1-2026.
 
-#### Artikel 18. Citeertitel
+##### Artikel 18. Citeertitel
 
 Deze regeling wordt aangehaald als ‘Beleidsregels voor inschrijving bewindvoerders Wsnp en bewindvoerderorganisaties Wsnp in het register II’
 

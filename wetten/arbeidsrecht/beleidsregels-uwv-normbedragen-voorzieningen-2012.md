@@ -1,18 +1,43 @@
 ---
 title: "Beleidsregels UWV normbedragen voorzieningen 2012"
 identifier: "BWBR0031174"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2012-09-01
-laatste_update: 2012-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031174"
+country: "nl"
+rank: "zbo"
+publication_date: "2012-09-01"
+last_updated: "2012-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031174"
+soort: "zbo"
+stam_id: "11643153"
+version_id: "19210082"
+internal_id: "C26800591"
+label_id: "11615974"
+dtd_version: "2.0"
+original_entry_into_force: "2012-01-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031174/2012-09-01/0"
+intitule_bron: "Stcrt.2012-1284"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-12-27"
+intitule_published: "2012-01-25"
+intitule_in_force: "2012-01-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-1284"
+original_signed_date: "2011-12-27"
+original_published_date: "2012-01-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-1284"
+entry_into_force_date: "2012-01-26"
+jci_1_3: "jci1.3:c:BWBR0031174&z=2012-09-01&g=2012-09-01"
+jci_1_0: "1.0:c:BWBR0031174&g=2012-09-01"
+citeertitel_status: "officieel"
+signed_date: "2011-12-27"
+entry_into_force: "2012-01-26"
 ---
-
 # Beleidsregels UWV normbedragen voorzieningen 2012
 
 Besluit:
 
-#### Artikel 1. : Wettelijk kader
+##### Artikel 1. : Wettelijk kader
 
 De normbedragen voor voorzieningen, als bedoeld in:
 
@@ -26,19 +51,19 @@ De normbedragen voor voorzieningen, als bedoeld in:
 
 - −. [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&artikel=6) en [8 van het Besluit onderwijsvoorzieningen voor jongeren met een handicap](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&artikel=8) worden vastgesteld op de bedragen, genoemd in de bijlage bij dit besluit.
 
-#### Artikel 2. : Kilometervergoeding
+##### Artikel 2. : Kilometervergoeding
 
 1. De kilometervergoedingen volgens de normbedragen C11, C13, C22 en C25 worden verstrekt op basis van de aantallen kilometers, verkregen volgens de ANWB-methode ‘snelste route’, op basis van volledige postcodes en per enkele reis afgerond naar boven op de eerstvolgende hele kilometer.
 
 2. De aftrek, als bedoeld onder de normbedragen C26-I en C26-II, wordt vastgesteld op de wijze als in het eerste lid aangegeven.
 
-#### Artikel 3. : Taxikostenvergoeding
+##### Artikel 3. : Taxikostenvergoeding
 
 1. Vergoeding volgens het normbedrag C31 wordt verstrekt als de cliënt niet méér dan 100 meter kan lopen en voor iedere verplaatsing buitenshuis gebruik moet maken van een taxi.
 
 2. De combinatievergoeding volgens het normbedrag C34 wordt verstrekt als de cliënt voor het leefvervoer niet uitsluitend is aangewezen op een taxi.
 
-#### Artikel 4. : Uurvergoeding doventolken
+##### Artikel 4. : Uurvergoeding doventolken
 
 1. De uurvergoeding volgens de normbedragen E17-I en E17-III wordt uitsluitend verstrekt voor feitelijke tolkactiviteit en bij een minimale inzet van;
 
@@ -70,7 +95,7 @@ Afronding van de te vergoeden getolkte tijd vindt per opdracht en locatie per et
 
 Opdrachten, die in het buitenland plaatsvinden, worden steeds op basis van 100% vergoed.
 
-#### Artikel 5. : Reisvergoeding doventolken en intermediaire activiteiten
+##### Artikel 5. : Reisvergoeding doventolken en intermediaire activiteiten
 
 1. Onder reisvergoeding wordt verstaan de vergoeding van de reistijd die als werktijd van de tolk wordt beschouwd, te verhogen met de fiscale norm onkostenvergoeding per kilometer.
 
@@ -80,7 +105,7 @@ Opdrachten, die in het buitenland plaatsvinden, worden steeds op basis van 100% 
 
 In het geval van cliënten, die doof én blind dan wel doof én zeer slechtziend zijn, geldt geen maximum en mag worden omgereden voor het ophalen en/of wegbrengen van deze cliënt.
 
-#### Artikel 6. : Afwijkende vergoeding doventolkopdrachten
+##### Artikel 6. : Afwijkende vergoeding doventolkopdrachten
 
 1. Voor groepsgewijze toepassingen en opdrachten in het buitenland wordt afgeweken van de vergoedingen, bedoeld in [artikel 4, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031174&artikel=4&z=2012-09-01&g=2012-09-01), en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031174&artikel=5&z=2012-09-01&g=2012-09-01), en wordt op basis van maatwerk een passende vergoeding verstrekt.
 
@@ -102,7 +127,7 @@ Voor opdrachten, die in het buitenland plaatsvinden, wordt geen teamtolkvergoedi
 
 5. Het bepaalde in het tweede lid is voor het eerst van toepassing op aanvragen die betrekking hebben op opdrachten die later dan zeven weken na de inwerkingtreding van dit besluit worden uitgevoerd.
 
-#### Artikel 7. : Annulering van doventolkopdrachten
+##### Artikel 7. : Annulering van doventolkopdrachten
 
 1. Een opdracht, die aantoonbaar binnen 24 uur voor het afgesproken tijdstip van uitvoering wordt geannuleerd, wordt voor 50% van de geldende norm vergoed, tenzij de annulering aan de doventolk moet worden toegeschreven, in welk geval geen vergoeding wordt verstrekt.
 
@@ -110,13 +135,13 @@ Voor opdrachten, die in het buitenland plaatsvinden, wordt geen teamtolkvergoedi
 
 3. De reisvergoeding van geannuleerde opdrachten wordt niet verstrekt, ook in de situatie dat het bericht van de annulering de tolk te laat of in het geheel niet heeft bereikt.
 
-#### Artikel 8. : Naamgeving besluit
+##### Artikel 8. : Naamgeving besluit
 
 Dit besluit wordt aangehaald als:
 
 Beleidsregels UWV normbedragen voorzieningen 2012.
 
-#### Artikel 9. : Datum inwerkingtreding besluit
+##### Artikel 9. : Datum inwerkingtreding besluit
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2012.
 

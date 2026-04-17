@@ -1,13 +1,39 @@
 ---
-title: "Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020"
+title: "Besluit van de inspecteur-generaal Leefomgeving en Transport, van 12 maart 2020, nr. ILT-2020/2848, houdende inrichting van de Inspectie Leefomgeving en Transport en verlening van mandaat, volmacht en machtiging (Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020)"
 identifier: "BWBR0043289"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-05-31
-laatste_update: 2025-05-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043289"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-05-31"
+last_updated: "2025-05-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043289"
+soort: "ministeriele-regeling"
+stam_id: "15373613"
+version_id: "26574722"
+internal_id: "C37710111"
+label_id: "15318434"
+dtd_version: "2.0"
+original_entry_into_force: "2020-03-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043289/2025-05-31/0"
+intitule_bron: "Stcrt.2020-16813"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-03-12"
+intitule_published: "2020-03-19"
+intitule_in_force: "2020-03-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-16813"
+original_signed_date: "2020-03-12"
+original_published_date: "2020-03-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-16813"
+entry_into_force_date: "2020-03-20"
+jci_1_3: "jci1.3:c:BWBR0043289&z=2025-05-31&g=2025-05-31"
+jci_1_0: "1.0:c:BWBR0043289&g=2025-05-31"
+citeertitel_status: "officieel"
+short_title: "Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020"
+signed_date: "2020-03-12"
+entry_into_force: "2020-03-20"
 ---
-
 # Besluit van de inspecteur-generaal Leefomgeving en Transport, van 12 maart 2020, nr. ILT-2020/2848, houdende inrichting van de Inspectie Leefomgeving en Transport en verlening van mandaat, volmacht en machtiging (Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020)
 
 Gelet op [artikel 21, tweede lid, aanhef en onder a en b, van het Organisatie- en mandaatbesluit Infrastructuur en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0040610&artikel=21), [artikel 1, vierde lid, van het Instellingsbesluit Inspectie Leefomgeving en Transport](https://wetten.overheid.nl/jci1.3:c:BWBR0031032&artikel=1), [artikel 8, eerste en tweede lid, van het Besluit mandaat Autoriteit woningcorporaties en aanwijzing toezichthouders Woningwet en WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0036749&artikel=8)en de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12);
@@ -16,7 +42,7 @@ BESLUIT:
 
 #### Paragraaf 1. Algemene bepalingen organisatie en mandaat
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 2. Organisatie
 
-#### Artikel 2. Hoofdstructuur Inspectie Leefomgeving en Transport
+##### Artikel 2. Hoofdstructuur Inspectie Leefomgeving en Transport
 
 1. De Inspectie Leefomgeving en Transport, bestaat uit:
 
@@ -56,7 +82,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 6. In afwijking van de bijlage bij dit besluit kan de inspecteur-generaal elk van de directeuren schriftelijk belasten met andere taken en verantwoordelijkheden naast de verantwoordelijkheden voor de eigen portefeuille.
 
-#### Artikel 3. Plaatsvervanging
+##### Artikel 3. Plaatsvervanging
 
 1. Bij afwezigheid of verhindering van de inspecteur-generaal is de directeur Toezicht en opsporing bevoegd om als diens plaatsvervanger op te treden.
 
@@ -70,7 +96,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 3. Mandaat en machtiging
 
-#### Artikel 4. Mandaat en machtiging van aan de inspecteur-generaal gemandateerde bevoegdheden
+##### Artikel 4. Mandaat en machtiging van aan de inspecteur-generaal gemandateerde bevoegdheden
 
 1. Aan de directeuren, afdelingshoofden, programmamanagers en teamleiders worden de aan de inspecteur-generaal gemandateerde bevoegdheden die behoren bij hun taken, in mandaat verleend.
 
@@ -80,7 +106,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Aan de medewerkers verwerken en behandelen en de medewerkers behandelen en ontwikkelen worden de aan de inspecteur-generaal gemandateerde bevoegdheden die behoren bij hun taken, eveneens in mandaat verleend.
 
-#### Artikel 5. Mandaat en machtiging van aan de inspecteur-generaal geattribueerde bevoegdheden
+##### Artikel 5. Mandaat en machtiging van aan de inspecteur-generaal geattribueerde bevoegdheden
 
 1. Aan de directeuren, afdelingshoofden, programmamanagers en teamleiders worden de aan de inspecteur-generaal geattribueerde bevoegdheden die behoren bij hun taken, in mandaat verleend.
 
@@ -92,15 +118,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 4. Overige bepalingen mandaat, volmacht en machtiging
 
-#### Artikel 6. Beperking mandaatverlening inspecteurs ILT
+##### Artikel 6. Beperking mandaatverlening inspecteurs ILT
 
 Het op grond van dit besluit aan de inspecteurs ILT verleende mandaat omvat niet mede de bevoegdheid tot het beslissen op bezwaar.
 
-#### Artikel 7. Volmacht personele aangelegenheden
+##### Artikel 7. Volmacht personele aangelegenheden
 
 Voor personele aangelegenheden wordt volmacht verleend aan uitsluitend de directeuren, afdelingshoofden en teamleiders.
 
-#### Artikel 8. Volmacht en machtiging
+##### Artikel 8. Volmacht en machtiging
 
 Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met de verlening van mandaat gelijkgesteld de verlening van:
 
@@ -108,7 +134,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - b. machtiging om in naam van de bewindspersoon of, in geval van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=5&z=2025-05-31&g=2025-05-31), in naam van de inspecteur-generaal handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
 
-#### Artikel 9. Mandaat en volmacht financiële verplichtingen
+##### Artikel 9. Mandaat en volmacht financiële verplichtingen
 
 1. Mandaat en volmacht tot het aangaan van financiële verplichtingen wordt, voor zover het behoort bij hun taken, verleend aan de directeuren, de afdelingshoofden, de programmamanagers en de teamleiders.
 
@@ -122,7 +148,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. de toegekende budgetten op basis van het geldende jaarplan.
 
-#### Artikel 10. Instructies
+##### Artikel 10. Instructies
 
 1. De inspecteur-generaal kan instructies geven terzake van de uitoefening van de bevoegdheden die verleend zijn bij dit besluit.
 
@@ -130,7 +156,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 3. De bij of krachtens dit besluit gemandateerde bevoegdheden worden uitgeoefend met inachtneming van de gegeven instructies.
 
-#### Artikel 11. Wijze van ondertekening
+##### Artikel 11. Wijze van ondertekening
 
 1. Het in een document vastleggen van een besluit, een privaatrechtelijke rechtshandeling of een andere handeling, geschiedt op briefpapier van het ministerie met het hoofd:
 
@@ -184,15 +210,15 @@ DE STAATSSECRETARIS VAN INFRASTRUCTUUR EN WATERSTAAT.
 
 #### Paragraaf 5. Slotbepalingen
 
-#### Artikel 12. Intrekking oud besluit
+##### Artikel 12. Intrekking oud besluit
 
 Het [Organisatie- en mandaatbesluit Tijdelijke werkorganisatie Inspectie Leefomgeving en Transport](https://wetten.overheid.nl/jci1.3:c:BWBR0041208) wordt ingetrokken.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2020.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020.
 

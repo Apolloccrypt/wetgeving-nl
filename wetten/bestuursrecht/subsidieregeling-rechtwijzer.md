@@ -1,13 +1,35 @@
 ---
 title: "Subsidieregeling Rechtwijzer"
 identifier: "BWBR0038057"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-07-01
-laatste_update: 2016-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038057"
+country: "nl"
+rank: "zbo"
+publication_date: "2016-07-01"
+last_updated: "2016-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038057"
+soort: "zbo"
+stam_id: "13651293"
+version_id: "23370092"
+internal_id: "C33686991"
+label_id: "13618074"
+dtd_version: "2.0"
+original_entry_into_force: "2016-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038057/2016-07-01/0"
+intitule_bron: "Stcrt.2016-30476"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2016-06-14"
+intitule_in_force: "2016-06-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-30476"
+original_published_date: "2016-06-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-30476"
+entry_into_force_date: "2016-07-01"
+jci_1_3: "jci1.3:c:BWBR0038057&z=2016-07-01&g=2016-07-01"
+jci_1_0: "1.0:c:BWBR0038057&g=2016-07-01"
+citeertitel_status: "officieel"
+entry_into_force: "2016-07-01"
 ---
-
 # Subsidieregeling Rechtwijzer
 
 gelet op [artikel 37b van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=37b),
@@ -18,7 +40,7 @@ de volgende regeling vast te stellen,
 
 ### Hoofdstuk I. Algemeen
 
-#### Artikel 1. begripsbepalingen
+##### Artikel 1. begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -56,21 +78,21 @@ In deze regeling wordt verstaan onder:
 
 - q. **Vergoeding:** de subsidie die krachtens deze regeling wordt uitbetaald aan de dienstverlener.
 
-#### Artikel 2. doel
+##### Artikel 2. doel
 
 Deze subsidieregeling heeft als doel om de eigen betalingen en bijdragen vast te stellen voor gebruikers van Rechtwijzer die in aanmerking komen voor gesubsidieerde rechtsbijstand volgens de wet. Daarnaast worden in deze subsidieregeling de vergoedingen vastgesteld die dienstverleners bovenop de eigen bijdrage ontvangen.
 
 ### Hoofdstuk II. De uitvoering
 
-#### Artikel 3. reikwijdte
+##### Artikel 3. reikwijdte
 
 Subsidie voor het gebruik van Rechtwijzer wordt uitsluitend verleend terzake van in de Nederlandse rechtssfeer liggende rechtsbelangen van natuurlijke personen wier financiële draagkracht de in [artikel 2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&artikel=2) genoemde bedragen niet overschrijdt.
 
-#### Artikel 4. inkomen en eigen betaling voor het gebruik van Rechtwijzer
+##### Artikel 4. inkomen en eigen betaling voor het gebruik van Rechtwijzer
 
 Voor het enkele gebruik van Rechtwijzer betaalt de eerste gebruiker per geschil een bedrag van € 90 indien beide gebruikers recht hebben op subsidie. Heeft één van de gebruikers geen recht op subsidie, dan bedraagt dit bedrag € 100.
 
-#### Artikel 5. toekenning subsidie en vaststelling eigen bijdrage bij inschakeling van een dienstverlener
+##### Artikel 5. toekenning subsidie en vaststelling eigen bijdrage bij inschakeling van een dienstverlener
 
 1. Het bestuur stelt op aanvraag de draagkracht vast van de gebruiker en verstrekt een verklaring zoals bedoeld in [artikel 7, derde lid sub e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=7).
 
@@ -86,11 +108,11 @@ Voor het enkele gebruik van Rechtwijzer betaalt de eerste gebruiker per geschil 
 
 - c. voor het inschakelen van een reviewer: € 21.
 
-#### Artikel 6. bevoegdheid tot intrekking
+##### Artikel 6. bevoegdheid tot intrekking
 
 [Artikel 33 eerste lid, aanhef en onder a tot en met d en derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33) is van overeenkomstige toepassing.
 
-#### Artikel 7. de vergoeding
+##### Artikel 7. de vergoeding
 
 1. Het bestuur verstrekt aan een dienstverlener een vergoeding voor zijn dienstverlening.
 
@@ -110,7 +132,7 @@ Voor het enkele gebruik van Rechtwijzer betaalt de eerste gebruiker per geschil 
 
 6. Overeenkomstig [artikel 39, tweede lid, Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=39) is geen schriftelijke aanvraag nodig.
 
-#### Artikel 8. bevoegdheid tot aanpassing van bedragen
+##### Artikel 8. bevoegdheid tot aanpassing van bedragen
 
 1. Het bestuur kan de bedragen genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038057&hoofdstuk=II&artikel=4&z=2016-07-01&g=2016-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0038057&hoofdstuk=II&artikel=5&z=2016-07-01&g=2016-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0038057&hoofdstuk=II&artikel=7&z=2016-07-01&g=2016-07-01) tussentijds aanpassen.
 
@@ -118,7 +140,7 @@ Voor het enkele gebruik van Rechtwijzer betaalt de eerste gebruiker per geschil 
 
 3. Aanpassing heeft geen gevolgen voor dienstverlening waarvoor de gebruiker al een eigen bijdrage heeft betaald of heeft moeten betalen.
 
-#### Artikel 9. overige bepalingen
+##### Artikel 9. overige bepalingen
 
 1. De dienstverlener mag naast de eigen bijdrage van [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038057&hoofdstuk=II&artikel=5&z=2016-07-01&g=2016-07-01) aan de gebruiker geen andere kosten in rekening brengen dan die ter zake van:
 
@@ -136,10 +158,10 @@ Voor het enkele gebruik van Rechtwijzer betaalt de eerste gebruiker per geschil 
 
 ### Hoofdstuk III. Toepassing
 
-#### Artikel 10. inwerkingtreding
+##### Artikel 10. inwerkingtreding
 
 Deze subsidieregeling treedt in werking met ingang van 1 juli 2016.
 
-#### Artikel 11. aanhef
+##### Artikel 11. aanhef
 
 Deze subsidieregeling wordt aangehaald als Subsidieregeling Rechtwijzer.

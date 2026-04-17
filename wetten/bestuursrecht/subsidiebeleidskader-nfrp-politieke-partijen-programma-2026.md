@@ -1,13 +1,39 @@
 ---
-title: "Subsidiebeleidskader NFRP Politieke Partijen Programma 2026"
+title: "Besluit van de Minister van Buitenlandse Zaken van 28 oktober 2025, nr. BZ2521585, tot vaststelling van beleidsregels en een subsidieplafond op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidiebeleidskader NFRP Politieke Partijen Programma 2026)"
 identifier: "BWBR0051702"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-03-14
-laatste_update: 2026-03-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051702"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-14"
+last_updated: "2026-03-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051702"
+soort: "ministeriele-regeling"
+stam_id: "17582773"
+version_id: "31025632"
+internal_id: "C44426581"
+label_id: "17483584"
+dtd_version: "2.0"
+original_entry_into_force: "2025-11-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051702/2026-03-14/0"
+intitule_bron: "Stcrt.2025-37396"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-10-28"
+intitule_published: "2025-11-05"
+intitule_in_force: "2025-11-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-37396"
+original_signed_date: "2025-10-28"
+original_published_date: "2025-11-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-37396"
+entry_into_force_date: "2025-11-06"
+jci_1_3: "jci1.3:c:BWBR0051702&z=2026-03-14&g=2026-03-14"
+jci_1_0: "1.0:c:BWBR0051702&g=2026-03-14"
+citeertitel_status: "redactioneel"
+short_title: "Subsidiebeleidskader NFRP Politieke Partijen Programma 2026"
+signed_date: "2025-10-28"
+entry_into_force: "2025-11-06"
 ---
-
 # Besluit van de Minister van Buitenlandse Zaken van 28 oktober 2025, nr. BZ2521585, tot vaststelling van beleidsregels en een subsidieplafond op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidiebeleidskader NFRP Politieke Partijen Programma 2026)
 
 Gelet op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=6) en [artikel 7 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=7);
@@ -16,7 +42,7 @@ Gelet op [artikel 2.2, sub a en sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor subsidieverlening op grond van [artikel 2.2, sub a en sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=2.2), en [artikel 2.3, sub a en sub c, van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=2.3) in het kader van het Nederlands Fonds voor Regionale Partnerschappen (NFRP) Politieke Partijen Programma 2026 met het oog op de financiering van activiteiten ter bevordering van de capaciteitsversterking van politieke partijen, bewegingen of organisaties waarmee Nederlandse politieke partijen ideologische en democratische waarden delen gelden voor het tijdvak vanaf inwerkingtreding van dit besluit tot en met 31 december 2026 de als bijlage bij dit besluit gevoegde beleidsregels.
 
@@ -24,17 +50,17 @@ Besluit:
 
 3. Van het in het tweede lid genoemde subsidieplafond is € 594.139,33 beschikbaar voor subsidieverstrekking in het kader van NFRP-Matra en € 1.391.429,67 voor subsidieverstrekking in het kader van NRFP-Shiraka.
 
-#### Artikel 2
+##### Artikel 2
 
 Aanvragen1Het aanvraagformulier wordt geplaatst op [https://www.rijksoverheid.nl/onderwerpen/europese-subsidies/nederlands-fonds-voorregionale-partnerschappen-nfrp](https://www.rijksoverheid.nl/onderwerpen/europese-subsidies/nederlands-fonds-voorregionale-partnerschappen-nfrp). voor een subsidie in het kader van het Nederlands Fonds voor Regionale Partnerschappen Politieke Partijen Programma 2026 worden ingediend vanaf de datum van inwerkingtreding van dit besluit tot en met 16 november 2025 aan de hand van het daartoe door de Minister vastgestelde aanvraagformulier en voorzien van de op dit formulier vermelde bescheiden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De beschikbare middelen worden verdeeld over de aanvragers die voldoen aan de criteria neergelegd in de bij dit besluit behorende bijlage, aan de hand van een basisbedrag per aanvrager en een bedrag naar rato van het aantal zetels dat de Kamerfractie van de politieke partij waaraan de aanvrager is gelieerd, heeft in de Tweede Kamer der Staten-Generaal.
 
 2. Indien aanvragers gelieerd zijn aan politieke partijen die in een gezamenlijke fractie in de Tweede Kamer der Staten-Generaal zitten, delen die aanvragers het totale bedrag dat naar rato van het aantal zetels van die Kamerfractie beschikbaar is voor deze aanvragers. De aanvragers beslissen zelf hoe zij dit bedrag verdelen.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 januari 2027, met dien verstande dat het van toepassing blijft op subsidies die voor die datum zijn verleend.
 

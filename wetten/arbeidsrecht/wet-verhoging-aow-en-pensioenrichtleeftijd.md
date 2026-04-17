@@ -1,14 +1,41 @@
 ---
-title: "Wet verhoging AOW- en pensioenrichtleeftijd"
+title: "Wet van 12 juli 2012 tot wijziging van de Algemene Ouderdomswet, de Wet werk en bijstand, de Wet inkomstenbelasting 2001 en de Wet op de loonbelasting 1964 in verband met stapsgewijze verhoging en koppeling aan de stijging van de levensverwachting van de pensioenleeftijd (Wet verhoging AOW- en pensioenrichtleeftijd)"
 identifier: "BWBR0031799"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2023-07-01
-laatste_update: 2023-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031799"
+country: "nl"
+rank: "wet"
+publication_date: "2023-07-01"
+last_updated: "2023-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031799"
+soort: "wet"
+stam_id: "11796823"
+version_id: "19533552"
+internal_id: "C27399091"
+label_id: "11769084"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031799/2023-07-01/0"
+intitule_bron: "Stb.2012-328"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-07-12"
+intitule_published: "2012-07-18"
+intitule_in_force: "2012-07-18"
+intitule_status: "goed"
+original_publication: "Stb.2012-328"
+original_signed_date: "2012-07-12"
+original_published_date: "2012-07-18"
+original_effect: "nieuwe-regeling"
+original_dossier: "33290"
+original_url_id: "stb-2012-328"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0031799&z=2023-07-01&g=2023-07-01"
+jci_1_0: "1.0:c:BWBR0031799&g=2023-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet verhoging AOW- en pensioenrichtleeftijd"
+signed_date: "2012-07-12"
+entry_into_force: "2013-01-01"
 ---
-
-# Wet verhoging AOW- en pensioenrichtleeftijd
+# Wet van 12 juli 2012 tot wijziging van de Algemene Ouderdomswet, de Wet werk en bijstand, de Wet inkomstenbelasting 2001 en de Wet op de loonbelasting 1964 in verband met stapsgewijze verhoging en koppeling aan de stijging van de levensverwachting van de pensioenleeftijd (Wet verhoging AOW- en pensioenrichtleeftijd)
 
 Allen die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,27 +43,27 @@ Alzo Wij in overweging genomen hebben dat het, in verband met de houdbaarheid va
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I. Wijziging van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
+##### Artikel I. Wijziging van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
 
 Wijzigt de Algemene Ouderdomswet.
 
-#### Artikel II. Wijziging van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
+##### Artikel II. Wijziging van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
 Wijzigt de Wet werk en bijstand.
 
-#### Artikel III. Wijziging van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353)
+##### Artikel III. Wijziging van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353)
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel IV. Wijziging van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471)
+##### Artikel IV. Wijziging van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471)
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel V. Tijdelijke delegatiegrondslag
+##### Artikel V. Tijdelijke delegatiegrondslag
 
 Vervallen
 
-#### Artikel VI. Inwerkingtreding
+##### Artikel VI. Inwerkingtreding
 
 1. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=I&z=2023-07-01&g=2023-07-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=II&z=2023-07-01&g=2023-07-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=V&z=2023-07-01&g=2023-07-01) van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip.
 
@@ -46,7 +73,7 @@ Vervallen
 
 4. [Artikel IV, onderdeel Y](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=IV&z=2023-07-01&g=2023-07-01), treedt in werking met ingang van 1 januari 2025.
 
-#### Artikel VII. Citeertitel
+##### Artikel VII. Citeertitel
 
 Deze wet wordt aangehaald als: Wet verhoging AOW- en pensioenrichtleeftijd.
 

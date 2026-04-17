@@ -1,20 +1,45 @@
 ---
 title: "Subtaak- en ondermandaatbesluit Defensiestaf 2022"
 identifier: "BWBR0046554"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-04-14
-laatste_update: 2022-04-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046554"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-04-14"
+last_updated: "2022-04-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046554"
+soort: "ministeriele-regeling"
+stam_id: "16326713"
+version_id: "28542802"
+internal_id: "C40275411"
+label_id: "16251804"
+dtd_version: "2.0"
+original_entry_into_force: "2022-04-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046554/2022-04-14/0"
+intitule_bron: "Stcrt.2022-9866"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-03-16"
+intitule_published: "2022-04-13"
+intitule_in_force: "2022-04-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-9866"
+original_signed_date: "2022-03-16"
+original_published_date: "2022-04-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-9866"
+entry_into_force_date: "2022-04-14"
+jci_1_3: "jci1.3:c:BWBR0046554&z=2022-04-14&g=2022-04-14"
+jci_1_0: "1.0:c:BWBR0046554&g=2022-04-14"
+citeertitel_status: "officieel"
+signed_date: "2022-03-16"
+entry_into_force: "2022-04-14"
 ---
-
 # Subtaak- en ondermandaatbesluit Defensiestaf 2022
 
 Gelet op [artikel 26 van het Algemeen organisatiebesluit Defensie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044746&artikel=26) en op [artikel 3 van het Ondermandaat-, volmacht- en machtigingsbesluit SG Defensie 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046552&artikel=3);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 1. In dit besluit wordt verstaan onder:
 
@@ -32,7 +57,7 @@ Besluit:
 
 - b. **defensieonderdelen:** het Commando Zeestrijdkrachten, het Commando Landstrijdkrachten, het Commando Luchtstrijdkrachten, het Commando Koninklijke Marechaussee, de Defensie Materieel Organisatie en het Defensie Ondersteuningscommando.
 
-#### Artikel 2. Organisatie van de Defensiestaf
+##### Artikel 2. Organisatie van de Defensiestaf
 
 1. De Defensiestaf bestaat uit:
 
@@ -64,7 +89,7 @@ Besluit:
 
 - b. NLD SOCOM.
 
-#### Artikel 3. Kabinet CDS
+##### Artikel 3. Kabinet CDS
 
 Het Kabinet staat onder leiding van de Chef Kabinet die is belast met:
 
@@ -82,7 +107,7 @@ Het Kabinet staat onder leiding van de Chef Kabinet die is belast met:
 
 - g. het verstrekken van kaders aan de kabinetten van de defensieonderdelen.
 
-#### Artikel 4. Directie Aansturen Operationele Gereedheid
+##### Artikel 4. Directie Aansturen Operationele Gereedheid
 
 De directie Aansturen Operationele Gereedheid staat onder leiding van de Directeur Aansturen Operationele Gereedheid die is belast met:
 
@@ -106,11 +131,11 @@ De directie Aansturen Operationele Gereedheid staat onder leiding van de Directe
 
 - j. het coördineren van ongevallenonderzoek en het onderhouden van contacten met toezichthouders en onderzoeksorganisaties op het gebied van veiligheid, zoals de Onderzoeksraad Voor de Veiligheid.
 
-#### Artikel 4a. Ondermandaat, -volmacht en -machtiging Directie Aansturen Operationele Gereedheid
+##### Artikel 4a. Ondermandaat, -volmacht en -machtiging Directie Aansturen Operationele Gereedheid
 
 Aan de directeur van de Directie Aansturen Operationele Gereedheid, dan wel bij diens afwezigheid zijn plaatsvervanger, wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=4&z=2022-04-14&g=2022-04-14) tot zijn werkterrein behoren.
 
-#### Artikel 5. Task Force Logistiek CDS
+##### Artikel 5. Task Force Logistiek CDS
 
 De Task Force Logistiek staat onder leiding van de Souschef Logistiek (SCLOG) die is belast met:
 
@@ -128,11 +153,11 @@ De Task Force Logistiek staat onder leiding van de Souschef Logistiek (SCLOG) di
 
 - g. het uitvoeren van projecten en het begeleiden van, adviseren over en ondersteunen van de operationalisering van veranderprojecten en transitieplannen op het gebied van facilitair, inkoop, beveiliging, veiligheid, (inter)nationale logistiek, verkeer, vervoer, verplaatsingen en mobiliteit.
 
-#### Artikel 5a. Ondermandaat, -volmacht en -machtiging Task Force Logistiek
+##### Artikel 5a. Ondermandaat, -volmacht en -machtiging Task Force Logistiek
 
 Aan de souschef Logistiek van de Task Force Logistiek wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=5&z=2022-04-14&g=2022-04-14) tot zijn werkterrein behoren.
 
-#### Artikel 6. Directie Plannen
+##### Artikel 6. Directie Plannen
 
 De directie Plannen staat onder leiding van de Directeur Plannen die is belast met:
 
@@ -152,11 +177,11 @@ De directie Plannen staat onder leiding van de Directeur Plannen die is belast m
 
 - h. het voeren van regie over de ontwikkeling van joint doctrines en de Nederlandse inbreng in internationale doctrineontwikkeling.
 
-#### Artikel 6a. Ondermandaat, -volmacht en -machtiging Directie Plannen
+##### Artikel 6a. Ondermandaat, -volmacht en -machtiging Directie Plannen
 
 Aan de directeur van de Directie Plannen wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=6&z=2022-04-14&g=2022-04-14) tot zijn werkterrein behoren.
 
-#### Artikel 7. Directie Financiën & Control CDS
+##### Artikel 7. Directie Financiën & Control CDS
 
 De directie Financiën & Control CDS staat onder leiding van de Directeur Financiën & Control CDS die is belast met:
 
@@ -168,11 +193,11 @@ De directie Financiën & Control CDS staat onder leiding van de Directeur Financ
 
 - d. het uitvoeren van de door de Hoofddirectie Financiën & Control gemandateerde controllertaken, waaronder begrotingsbeheer, financieel beheer en budget control voor Beleidsartikel 1 Inzet.
 
-#### Artikel 7a. Ondermandaat, -volmacht en -machtiging Directie Financiën & Control CDS
+##### Artikel 7a. Ondermandaat, -volmacht en -machtiging Directie Financiën & Control CDS
 
 Aan de directeur van de Directie Financiën & Control wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=7&z=2022-04-14&g=2022-04-14) tot zijn werkterrein behoren.
 
-#### Artikel 8. De Directie Internationale Militaire Samenwerking
+##### Artikel 8. De Directie Internationale Militaire Samenwerking
 
 De Directie Internationale Militaire Samenwerking staat onder leiding van de Directeur Internationale Militaire Samenwerking. Deze is belast met de volgende taken:
 
@@ -194,11 +219,11 @@ De Directie Internationale Militaire Samenwerking staat onder leiding van de Dir
 
 - i. het coördineren van werkzaamheden die voortvloeien uit internationale standaardisatie afspraken.
 
-#### Artikel 8a. Ondermandaat, -volmacht en -machtiging Directie Internationale Militaire Samenwerking
+##### Artikel 8a. Ondermandaat, -volmacht en -machtiging Directie Internationale Militaire Samenwerking
 
 Aan de directeur van de Directie Internationale Militaire Samenwerking, dan wel bij diens afwezigheid zijn plaatsvervanger, wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=8&z=2022-04-14&g=2022-04-14) tot zijn werkterrein behoren.
 
-#### Artikel 9. De Directie Operaties
+##### Artikel 9. De Directie Operaties
 
 De directie Operaties staat onder leiding van de Directeur Operaties, die is belast met:
 
@@ -226,11 +251,11 @@ De directie Operaties staat onder leiding van de Directeur Operaties, die is bel
 
 - l. Het volgen en incorporeren van NATO en EU-richtlijnen en plannen met betrekking tot operaties.
 
-#### Artikel 9a. Ondermandaat, -volmacht en -machtiging Directie Operaties
+##### Artikel 9a. Ondermandaat, -volmacht en -machtiging Directie Operaties
 
 Aan de directeur van de Directie Operaties, dan wel bij diens afwezigheid zijn plaatsvervanger, wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=9&z=2022-04-14&g=2022-04-14) tot zijn werkterrein behoren.
 
-#### Artikel 10. Het Militair Strategisch Element
+##### Artikel 10. Het Militair Strategisch Element
 
 Het Militair Strategisch Element staat onder leiding van het Hoofd Militair Strategisch Element die is belast met:
 
@@ -244,7 +269,7 @@ Het Militair Strategisch Element staat onder leiding van het Hoofd Militair Stra
 
 - e. het adviseren over de strategische aspecten van lopende operaties.
 
-#### Artikel 11. Afdeling Evaluaties
+##### Artikel 11. Afdeling Evaluaties
 
 De afdeling Evaluaties staat onder leiding van het Hoofd Afdeling Evaluaties die is belast met:
 
@@ -260,7 +285,7 @@ De afdeling Evaluaties staat onder leiding van het Hoofd Afdeling Evaluaties die
 
 - f. het onderzoeken van ernstige voorvallen en incidenten onder operationele omstandigheden na opdracht van de (plaatsvervangend) Commandant der Strijdkrachten.
 
-#### Artikel 12. Het Transitieteam
+##### Artikel 12. Het Transitieteam
 
 Het Transitieteam staat onder leiding van de Programmamanager Transitie, die is belast met:
 
@@ -280,11 +305,11 @@ Het Transitieteam staat onder leiding van de Programmamanager Transitie, die is 
 
 - h. het organiseren en richten van alle noodzakelijke veranderingen die bijdragen aan de transformatieopgave van de Krijgsmacht.
 
-#### Artikel 12a. Ondermandaat, -volmacht en -machtiging Transitieteam
+##### Artikel 12a. Ondermandaat, -volmacht en -machtiging Transitieteam
 
 Aan de programmamanager van het Transitieteam, dan wel bij diens afwezigheid zijn plaatsvervanger, wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=12&z=2022-04-14&g=2022-04-14) tot zijn werkterrein behoren.
 
-#### Artikel 13. Innovatiecentrum FRONT
+##### Artikel 13. Innovatiecentrum FRONT
 
 Het innovatiecentrum Future Relevant Operations using New Technology and thinking (FRONT) staat onder leiding van Hoofd FRONT, die is belast met:
 
@@ -304,7 +329,7 @@ Het innovatiecentrum Future Relevant Operations using New Technology and thinkin
 
 - h. het bijdragen aan totstandkoming en het bewaken van focus en samenhang in kort- cyclische innovatie.
 
-#### Artikel 14. het Defensie Cyber Commando (DCC)
+##### Artikel 14. het Defensie Cyber Commando (DCC)
 
 Het DCC staat onder leiding van de commandant Defensie Cyber Commando, die is belast met de volgende taken:
 
@@ -326,11 +351,11 @@ Het DCC staat onder leiding van de commandant Defensie Cyber Commando, die is be
 
 - i. het zorgdragen voor adequaat informatiemanagement inclusief archivering van militaire cyber operaties.
 
-#### Artikel 14a. Ondermandaat, -volmacht en -machtiging DCC
+##### Artikel 14a. Ondermandaat, -volmacht en -machtiging DCC
 
 Aan de commandant van het DCC, dan wel bij diens afwezigheid diens plaatsvervanger, wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=14&z=2022-04-14&g=2022-04-14) tot zijn werkterrein behoren.
 
-#### Artikel 15. Netherlands Special Operations Command
+##### Artikel 15. Netherlands Special Operations Command
 
 NLD SOCOM staat onder leiding van de Commandant NLD SOCOM, die is belast met:
 
@@ -358,11 +383,11 @@ NLD SOCOM staat onder leiding van de Commandant NLD SOCOM, die is belast met:
 
 - l. het zorgdragen voor adequaat informatiemanagement inclusief archivering van speciale en door NLD SOCOM aangestuurde reguliere operaties van speciale eenheden.
 
-#### Artikel 15a. Ondermandaat, -volmacht en -machtiging Netherlands Special Forces Command
+##### Artikel 15a. Ondermandaat, -volmacht en -machtiging Netherlands Special Forces Command
 
 Aan de Commandant NLD SOCOM wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=15&z=2022-04-14&g=2022-04-14) tot zijn werkterrein behoren.
 
-#### Artikel 16. Ondertekening krachtens mandaat, volmacht of machtiging
+##### Artikel 16. Ondertekening krachtens mandaat, volmacht of machtiging
 
 Een document dat krachtens mandaat, volmacht of machtiging wordt ondertekend bevat aan het slot de volgende formule:
 
@@ -372,7 +397,7 @@ voor deze,
 
 **<< functie, handtekening en naam van de ondertekenaar >>**
 
-#### Artikel 17. Intrekking oude subtaakbesluit en ondermandaatbesluit
+##### Artikel 17. Intrekking oude subtaakbesluit en ondermandaatbesluit
 
 Ingetrokken worden:
 
@@ -380,11 +405,11 @@ Ingetrokken worden:
 
 - −. [Ondermandaat, -volmacht en -machtigingsbesluit Defensiestaf 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034818)
 
-#### Artikel 18. Inwerkingtreding
+##### Artikel 18. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 1 januari 2022.
 
-#### Artikel 19. Citeertitel
+##### Artikel 19. Citeertitel
 
 Dit besluit wordt aangehaald als: Subtaak- en ondermandaatbesluit Defensiestaf 2022
 

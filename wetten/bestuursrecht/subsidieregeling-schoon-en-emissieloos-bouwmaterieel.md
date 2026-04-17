@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling schoon en emissieloos bouwmaterieel"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 22 maart 2022, nr. IENW/BSK-2022/51482, houdende vaststelling van regels ter bevordering van de aanschaf, ombouw en innovatie van schoon of emissieloos bouwmaterieel dat wordt gebruikt in de bouw (Subsidieregeling schoon en emissieloos bouwmaterieel)"
 identifier: "BWBR0046464"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-20
-laatste_update: 2026-01-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046464"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-20"
+last_updated: "2026-01-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046464"
+soort: "ministeriele-regeling"
+stam_id: "16306053"
+version_id: "28493842"
+internal_id: "C40208001"
+label_id: "16232064"
+dtd_version: "2.0"
+original_entry_into_force: "2022-05-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046464/2026-01-20/0"
+intitule_bron: "Stcrt.2022-7864"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-03-22"
+intitule_published: "2022-03-24"
+intitule_in_force: "2022-03-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-7864"
+original_signed_date: "2022-03-22"
+original_published_date: "2022-03-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-7864"
+entry_into_force_date: "2022-05-09"
+jci_1_3: "jci1.3:c:BWBR0046464&z=2026-01-20&g=2026-01-20"
+jci_1_0: "1.0:c:BWBR0046464&g=2026-01-20"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling schoon en emissieloos bouwmaterieel"
+signed_date: "2022-03-22"
+entry_into_force: "2022-05-09"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 22 maart 2022, nr. IENW/BSK-2022/51482, houdende vaststelling van regels ter bevordering van de aanschaf, ombouw en innovatie van schoon of emissieloos bouwmaterieel dat wordt gebruikt in de bouw (Subsidieregeling schoon en emissieloos bouwmaterieel)
 
 Gelet op de [artikelen 3, eerste lid, onder b en f](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), en [5 van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5);
@@ -16,7 +42,7 @@ BESLUIT:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -120,7 +146,7 @@ In deze regeling wordt verstaan onder:
 
 - **zeegaand bouwvaartuig:** vaartuig dat mede wordt ingezet voor bouwwerkzaamheden in de Nederlandse exclusieve economische zone, waarvoor een geldig certificaat als bedoeld in de [artikelen 4 tot en met 6 van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=4) vereist is, dat is genoemd in [bijlage 1, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=1&z=2026-01-20&g=2026-01-20), bij deze regeling, niet zijnde een binnenvaartschip of drijvend werktuig als bedoeld in de artikelen 2 en 3 van de [Richtlijn (EU) 2016/1629](32016L1629) van het Europees parlement en de Raad van 14 september 2016 tot vaststelling van de technische voorschriften voor binnenschepen, tot wijziging van [Richtlijn 2009/100/EG](32009L0100) en tot intrekking van [Richtlijn 2006/87/EG](32006L0087);
 
-#### Artikel 1.2. Doel van de regeling
+##### Artikel 1.2. Doel van de regeling
 
 Deze regeling heeft als hoofddoel om de emissie van NOx in de bouwsector te verminderen en als nevendoel om de emissie van CO2 en fijnstof te verminderen, door:
 
@@ -130,17 +156,17 @@ Deze regeling heeft als hoofddoel om de emissie van NOx in de bouwsector te verm
 
 - c. het ondersteunen van projecten gericht op technologie-, innovatie- en kennisontwikkeling in de pre-commerciële fase of aanschaf in het kader van een experimentele ontwikkeling, die een bijdrage leveren aan het bereiken van een reductie van met name de emissie van NOx, alsmede de emissies van CO2, en fijn stof, in de bouwsector, door het gebruik van bouwmachines zonder verbrandingsmotor of bouwmachines met mono-fuel waterstofverbrandingsmotor die in hun energiebehoefte worden voorzien door elektriciteit, waterstof of niet petrochemische waterstofdragers.
 
-#### Artikel 1.3. Maximale verlening per jaar
+##### Artikel 1.3. Maximale verlening per jaar
 
 Per aanvrager of groep wordt per kalenderjaar ten hoogste € 1.500.000 aan subsidie als bedoeld in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=2&artikel=2.1&z=2026-01-20&g=2026-01-20) en [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.1&z=2026-01-20&g=2026-01-20) verleend.
 
 ### Hoofdstuk 2. Aanschafsubsidie
 
-#### Artikel 2.1. Subsidiabele activiteit
+##### Artikel 2.1. Subsidiabele activiteit
 
 De Minister kan, overeenkomstig het bepaalde bij dit hoofdstuk en [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=1&artikel=1.3&z=2026-01-20&g=2026-01-20), aan een aanvrager subsidie verstrekken voor de aanschaf van één of meerdere emissieloze bouwmachines, of van één of meerdere bouwmachines met een mono-fuel waterstofverbrandingsmotor, die voor het eerst in gebruik worden genomen na productie dan wel die voor datum vaststelling subsidie voor het eerst zijn ingeschreven en tenaamgesteld.
 
-#### Artikel 2.2. Hoogte subsidie
+##### Artikel 2.2. Hoogte subsidie
 
 1. De subsidie bedraagt per emissieloos bouwwerktuig en emissieloze hulpfunctie ten hoogste een percentage van de meerkosten ten opzichte van een referentie-bouwwerktuig of hulpfunctie, tot een bedrag van ten hoogste € 300.000 als het een emissieloos bouwwerktuig of emissieloze hulpfunctie betreft met een continu elektrisch motorvermogen tot 300 kW en ten hoogste € 500.000 als het een emissieloos bouwwerktuig of emissieloze hulpfunctie betreft met een continu elektrisch motorvermogen groter of gelijk aan 300 kW, waarbij dit percentage 30% voor kleine en middelgrote ondernemingen en 25% voor grote ondernemingen is.
 
@@ -204,7 +230,7 @@ De Minister kan, overeenkomstig het bepaalde bij dit hoofdstuk en [artikel 1.3](
 
 7. Indien de berekeningswijze van het subsidiebedrag tot een hoger bedrag leidt dan voorgeschreven in de artikelen 36, 36bis en 36ter van de Algemene groepsvrijstellingsverordening, zowel ten aanzien van de in aanmerking komende kosten als het maximale percentage, wordt het subsidiebedrag overeenkomstig deze artikelen verlaagd.
 
-#### Artikel 2.3. Subsidieplafond
+##### Artikel 2.3. Subsidieplafond
 
 1. Het subsidieplafond bedraagt:
 
@@ -236,7 +262,7 @@ De Minister kan, overeenkomstig het bepaalde bij dit hoofdstuk en [artikel 1.3](
 
 4. Indien na 1 juni 2026 budget voor subsidieaanvragen op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=2&z=2026-01-20&g=2026-01-20) deels onaangesproken is gebleven, kan dit budget gebruikt worden voor aanvragen op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&z=2026-01-20&g=2026-01-20) of [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&z=2026-01-20&g=2026-01-20).
 
-#### Artikel 2.4. Verdelingsregime
+##### Artikel 2.4. Verdelingsregime
 
 1. De Minister kent de in de betreffende subsidieperiode beschikbare gelden voor subsidies op grond van dit hoofdstuk toe, overeenkomstig [artikel 8, lid 3 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), op volgorde van ontvangst van de volledige aanvragen.
 
@@ -244,7 +270,7 @@ De Minister kan, overeenkomstig het bepaalde bij dit hoofdstuk en [artikel 1.3](
 
 3. Indien de Minister op de dag waarop het subsidieplafond is bereikt, meerdere volledige aanvragen om subsidieverlening heeft ontvangen, stelt hij de onderlinge rangschikking vast door middel van loting.
 
-#### Artikel 2.5. Aanvraag subsidieverlening
+##### Artikel 2.5. Aanvraag subsidieverlening
 
 1. Een aanvrager dient bij de Minister een aanvraag om subsidie op grond van dit hoofdstuk in door middel van een daartoe vastgesteld formulier dat beschikbaar is via de website van RVO.
 
@@ -298,7 +324,7 @@ De Minister kan, overeenkomstig het bepaalde bij dit hoofdstuk en [artikel 1.3](
 
 - m. indien de aanvraag een bouwwerktuig of hulpfunctie betreft die werkt op waterstof of waterstofdrager, uitgezonderd een aggregaat op waterstof of waterstofdrager als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=1&z=2026-01-20&g=2026-01-20), onderdeel A, nummer A2.3, een bewijs dat wordt voldaan aan artikel 36 eerste lid ter van de Algemene groepsvrijstellingsverordening.
 
-#### Artikel 2.6. Afwijzingsgronden
+##### Artikel 2.6. Afwijzingsgronden
 
 De Minister beslist in elk geval afwijzend op een aanvraag om subsidie op grond van dit hoofdstuk, indien:
 
@@ -326,15 +352,15 @@ De Minister beslist in elk geval afwijzend op een aanvraag om subsidie op grond 
 
 - l. de aanvraag niet voldoet aan de in de regeling gestelde regels.
 
-#### Artikel 2.7. Beschikking op aanvraag
+##### Artikel 2.7. Beschikking op aanvraag
 
 De beschikking op een subsidieaanvraag wordt gegeven binnen 13 weken na de datum van ontvangst van de aanvraag. Indien de beschikking niet binnen 13 weken kan worden gegeven, kan deze termijn eenmaal met diezelfde termijn worden verlengd.
 
-#### Artikel 2.8. Voorschot
+##### Artikel 2.8. Voorschot
 
 De Minister verstrekt ambtshalve, gelijktijdig met de beschikking tot subsidieverlening, een voorschot van 70%.
 
-#### Artikel 2.9. Aanvraag subsidievaststelling
+##### Artikel 2.9. Aanvraag subsidievaststelling
 
 1. De aanvraag tot vaststelling van de subsidie op grond van dit hoofdstuk wordt uiterlijk 12 maanden na de datum van verlening van de subsidie ingediend.
 
@@ -350,11 +376,11 @@ De Minister verstrekt ambtshalve, gelijktijdig met de beschikking tot subsidieve
 
 - c. foto’s van de aangeschafte bouwmachine, inclusief kenteken of serienummer.
 
-#### Artikel 2.10. Betaling
+##### Artikel 2.10. Betaling
 
 Betalingen vinden plaats op een bankrekening die op naam staat van de aanvrager. Het resterende bedrag, na betaling van het voorschot, wordt gelijktijdig met de beschikking tot subsidievaststelling verstrekt.
 
-#### Artikel 2.11. Verplichtingen van de subsidieontvanger
+##### Artikel 2.11. Verplichtingen van de subsidieontvanger
 
 1. De subsidieontvanger die een subsidie ontvangt op grond van dit hoofdstuk is overeenkomstig de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=17) en [18 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=18) verplicht:
 
@@ -382,7 +408,7 @@ Betalingen vinden plaats op een bankrekening die op naam staat van de aanvrager.
 
 7. De Minister kan bij de beschikking tot verlening of vaststelling van de subsidie op grond van dit hoofdstuk nadere verplichtingen opleggen.
 
-#### Artikel 2.12. Gewijzigde vaststelling en terugvordering
+##### Artikel 2.12. Gewijzigde vaststelling en terugvordering
 
 1. Indien niet is voldaan aan het bepaalde in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=2&artikel=2.11&z=2026-01-20&g=2026-01-20) kan de Minister, onverminderd het bepaalde in de [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57), besluiten de vaststelling van de subsidie te wijzigen en het onverschuldigd betaalde deel van de subsidie terug te vorderen.
 
@@ -390,7 +416,7 @@ Betalingen vinden plaats op een bankrekening die op naam staat van de aanvrager.
 
 ### Hoofdstuk 3. Retrofitsubsidie
 
-#### Artikel 3.1. Subsidiabele activiteit
+##### Artikel 3.1. Subsidiabele activiteit
 
 De Minister kan, overeenkomstig het bepaalde bij dit hoofdstuk en [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=1&artikel=1.3&z=2026-01-20&g=2026-01-20), aan een aanvrager subsidie verstrekken voor:
 
@@ -410,7 +436,7 @@ De Minister kan, overeenkomstig het bepaalde bij dit hoofdstuk en [artikel 1.3](
 
 - h. de aanschaf en inbouw van een elektrische installatie op een zeegaand bouwvaartuig waardoor het vaartuig gebruik kan maken van stroom vanaf de wal en het aantoonbaar tenminste 25% van de energie op deze wijze verkrijgt.
 
-#### Artikel 3.2. Hoogte subsidie
+##### Artikel 3.2. Hoogte subsidie
 
 1. De subsidie bedraagt:
 
@@ -432,7 +458,7 @@ De Minister kan, overeenkomstig het bepaalde bij dit hoofdstuk en [artikel 1.3](
 
 4. [Artikel 2.2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=2&artikel=2.2&z=2026-01-20&g=2026-01-20), is van overeenkomstige toepassing.
 
-#### Artikel 3.3. Subsidieplafond
+##### Artikel 3.3. Subsidieplafond
 
 1. Het subsidieplafond voor de maatregelen, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.1&z=2026-01-20&g=2026-01-20) bedraagt:
 
@@ -450,13 +476,13 @@ De Minister kan, overeenkomstig het bepaalde bij dit hoofdstuk en [artikel 1.3](
 
 3. Indien na 1 juni 2026 budget voor subsidieaanvragen op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&z=2026-01-20&g=2026-01-20) deels onaangesproken is gebleven, kan dit budget gebruikt worden voor aanvragen op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=2&z=2026-01-20&g=2026-01-20) of [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&z=2026-01-20&g=2026-01-20).
 
-#### Artikel 3.4. Verdelingsregime
+##### Artikel 3.4. Verdelingsregime
 
 1. De Minister verdeelt de in de betreffende subsidieperiode beschikbare gelden op volgorde van ontvangst van de volledige aanvragen voor subsidies op grond van dit hoofdstuk.
 
 2. [Artikel 2.4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=2&artikel=2.4&z=2026-01-20&g=2026-01-20), is van toepassing.
 
-#### Artikel 3.5. Aanvraag subsidieverlening
+##### Artikel 3.5. Aanvraag subsidieverlening
 
 1. Een aanvraag tot subsidieverlening op grond van dit hoofdstuk kan worden ingediend door middel van een daartoe vastgesteld formulier dat beschikbaar is via de website van RVO.
 
@@ -504,7 +530,7 @@ De Minister kan, overeenkomstig het bepaalde bij dit hoofdstuk en [artikel 1.3](
 
 - o. foto’s van het huidige bouwwerktuig of zeegaand bouwvaartuig, inclusief kenteken of serienummer, in de situatie voor de retrofit, waarop de onderdelen zichtbaar zijn waarop de retrofit wordt toegepast.
 
-#### Artikel 3.6. Afwijzingsgronden
+##### Artikel 3.6. Afwijzingsgronden
 
 Met toepassing van de in [artikel 12 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=12) vermelde afwijzingsgronden, wordt de subsidie in ieder geval afgewezen, indien:
 
@@ -536,15 +562,15 @@ Met toepassing van de in [artikel 12 van het Kaderbesluit](https://wetten.overhe
 
 - n. de hulpfunctie niet is gemonteerd op een voertuig met ten minste milieuklasse Euro VI of bouwwerktuig met ten minste milieuklasse fase V.
 
-#### Artikel 3.7. Beschikking op aanvraag
+##### Artikel 3.7. Beschikking op aanvraag
 
 De beschikking op een aanvraag wordt gegeven binnen 13 weken na de datum van ontvangst van de aanvraag. Indien de beschikking niet binnen 13 weken kan worden gegeven, kan deze termijn eenmaal met diezelfde termijn worden verlengd.
 
-#### Artikel 3.8. Voorschot
+##### Artikel 3.8. Voorschot
 
 De Minister verstrekt ambtshalve, gelijktijdig met de beschikking tot subsidieverlening, een voorschot van 70%.
 
-#### Artikel 3.9. Aanvraag subsidievaststelling
+##### Artikel 3.9. Aanvraag subsidievaststelling
 
 1. De aanvraag tot vaststelling van de subsidie op grond van dit hoofdstuk wordt uiterlijk ingediend tot 8 maanden na de datum van verlening van de subsidie.
 
@@ -566,11 +592,11 @@ De Minister verstrekt ambtshalve, gelijktijdig met de beschikking tot subsidieve
 
 - e. foto’s van het huidige bouwwerktuig, hulpfunctie of zeegaand bouwwerktuig, inclusief kenteken of serienummer, in de situatie na de retrofit, waarop de onderdelen zichtbaar zijn waarop de retrofit zijn toegepast.
 
-#### Artikel 3.10. Betaling
+##### Artikel 3.10. Betaling
 
 Betalingen vinden plaats op een bankrekening die op naam staat van de aanvrager. Het resterende bedrag, na betaling van het voorschot, wordt gelijktijdig met de beschikking tot subsidievaststelling betaald.
 
-#### Artikel 3.11. Verplichtingen van de subsidieontvanger
+##### Artikel 3.11. Verplichtingen van de subsidieontvanger
 
 1. De subsidieontvanger die een subsidie ontvangt op grond van dit hoofdstuk is overeenkomstig de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=17) en [18 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=18) verplicht:
 
@@ -590,7 +616,7 @@ Betalingen vinden plaats op een bankrekening die op naam staat van de aanvrager.
 
 6. De Minister kan bij de beschikking tot verlening of vaststelling van de subsidie op grond van dit hoofdstuk nadere verplichtingen opleggen.
 
-#### Artikel 3.12. Gewijzigde vaststelling en terugvordering
+##### Artikel 3.12. Gewijzigde vaststelling en terugvordering
 
 1. Indien niet is voldaan aan het bepaalde in [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.11&z=2026-01-20&g=2026-01-20) kan de Minister, onverminderd het bepaalde in de [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57), besluiten de vaststelling van de subsidie te wijzigen en het onverschuldigd betaalde deel van de subsidie terug te vorderen.
 
@@ -598,7 +624,7 @@ Betalingen vinden plaats op een bankrekening die op naam staat van de aanvrager.
 
 ### Hoofdstuk 4. Innovatiesubsidie
 
-#### Artikel 4.1. Subsidiabele activiteiten
+##### Artikel 4.1. Subsidiabele activiteiten
 
 De Minister kan subsidie verstrekken voor activiteiten die in Nederland worden uitgevoerd en bijdragen aan het realiseren van de doelstelling van de regeling als bedoeld in [artikel 1.2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=1&artikel=1.2&z=2026-01-20&g=2026-01-20), in de vorm van:
 
@@ -606,7 +632,7 @@ De Minister kan subsidie verstrekken voor activiteiten die in Nederland worden u
 
 - b. een project haalbaarheidsstudie aangaande de haalbaarheid van een project experimentele ontwikkeling als bedoeld in onderdeel a.
 
-#### Artikel 4.2. Maximale projectduur
+##### Artikel 4.2. Maximale projectduur
 
 1. De maximale duur van projecten waarvoor subsidie kan worden verstrekt is:
 
@@ -616,7 +642,7 @@ De Minister kan subsidie verstrekken voor activiteiten die in Nederland worden u
 
 2. De aanvrager kan een verzoek doen tot verlenging van de maximale duur van een project, bedoeld in het eerste lid, van ten hoogste de helft van de oorspronkelijke looptijd, indien hij kan aantonen dat dit project vanwege overmacht is vertraagd.
 
-#### Artikel 4.3. Subsidieplafonds
+##### Artikel 4.3. Subsidieplafonds
 
 1. Het subsidieplafond bedraagt:
 
@@ -656,7 +682,7 @@ De Minister kan subsidie verstrekken voor activiteiten die in Nederland worden u
 
 4. Indien een goedgekeurde aanvraag voor een project haalbaarheidsstudie of een project experimentele ontwikkeling betrekking heeft op laadinfrastructuur kan budget van [artikel 2.3, eerste lid, onderdeel e, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=2&artikel=2.3&z=2026-01-20&g=2026-01-20), worden ingezet voor aanvragen onder [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&z=2026-01-20&g=2026-01-20) van deze regeling ter hoogte van het aangevraagde bedrag.
 
-#### Artikel 4.4. Aanvraagperiode
+##### Artikel 4.4. Aanvraagperiode
 
 1. Een aanvraag tot subsidieverlening voor een project haalbaarheidsstudie kan worden ingediend bij de Minister in de volgende perioden:
 
@@ -682,13 +708,13 @@ De Minister kan subsidie verstrekken voor activiteiten die in Nederland worden u
 
 - e. in 2026 van 12 mei 2026, 9.00 tot en met 30 oktober 2026, 17.00 uur.
 
-#### Artikel 4.5. Aanvragers
+##### Artikel 4.5. Aanvragers
 
 1. Bij een project experimentele ontwikkeling en een project haalbaarheidsstudie kan, in afwijking van [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=1&artikel=1.1&z=2026-01-20&g=2026-01-20), een aanvraag voor subsidie op grond van dit hoofdstuk, worden ingediend door een onderneming met een vestiging in Nederland die in staat is de experimentele ontwikkeling, die onderwerp is van het project, uit te voeren waarbij het mogelijk is in een samenwerkingsverband van die ondernemingen of een niet-gouvernementele organisatie of een publiek-gefinancierde onderzoeksorganisatie uit te voeren, waarbij een van de daaraan deelnemende ondernemingen door het samenwerkingsverband is aangewezen als penvoerder.
 
 2. Op aanvragen van een samenwerkingsverband als bedoeld in het eerste lid, zijn [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=1) en [26 Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=26) van overeenkomstige toepassing.
 
-#### Artikel 4.6. Vereisten subsidieaanvraag
+##### Artikel 4.6. Vereisten subsidieaanvraag
 
 1. Een aanvraag tot subsidieverlening wordt ingediend met gebruikmaking van een door de Minister beschikbaar gesteld formulier dat wordt geplaatst op de website van RVO.
 
@@ -704,7 +730,7 @@ De Minister kan subsidie verstrekken voor activiteiten die in Nederland worden u
 
 - e. een onderbouwing van de wijze waarop het eigen aandeel in de projectkosten door de deelnemers van het samenwerkingsverband wordt gefinancierd, indien een aanvraag namens de deelnemers van een samenwerkingsverband wordt ingediend.
 
-#### Artikel 4.7. Verdelingsregime
+##### Artikel 4.7. Verdelingsregime
 
 1. Voor een project haalbaarheidsstudie vindt de subsidieverdeling plaats op volgorde van binnenkomst van volledige aanvragen.
 
@@ -722,13 +748,13 @@ De Minister kan subsidie verstrekken voor activiteiten die in Nederland worden u
 
 8. Op aanvragen als bedoeld in het eerste lid, is [artikel 2.4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=2&artikel=2.4&z=2026-01-20&g=2026-01-20), van toepassing.
 
-#### Artikel 4.8. Beoordelingscriteria
+##### Artikel 4.8. Beoordelingscriteria
 
 1. De aanvragen voor projecten experimentele ontwikkeling worden beoordeeld en indien nodig gerangschikt, zoals vastgelegd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=2&z=2026-01-20&g=2026-01-20) bij deze regeling.
 
 2. Bij de beoordeling worden punten toegekend, met een maximum van 100 punten per aanvraag.
 
-#### Artikel 4.9. Afwijzingsgronden
+##### Artikel 4.9. Afwijzingsgronden
 
 Een subsidieaanvraag wordt, met toepassing van het bepaalde in [artikel 12 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=12), in ieder geval afgewezen indien:
 
@@ -752,11 +778,11 @@ Een subsidieaanvraag wordt, met toepassing van het bepaalde in [artikel 12 van h
 
 - j. de aanvraag niet voldoet aan de in de regeling gestelde regels.
 
-#### Artikel 4.10. Beschikking op aanvraag
+##### Artikel 4.10. Beschikking op aanvraag
 
 De beschikking op een aanvraag wordt gegeven binnen 13 weken na de datum van ontvangst van de aanvraag. Indien de beschikking niet binnen 13 weken kan worden gegeven, kan deze termijn eenmaal met diezelfde termijn worden verlengd.
 
-#### Artikel 4.11. Hoogte van de subsidie
+##### Artikel 4.11. Hoogte van de subsidie
 
 1. Het maximale subsidiepercentage en het maximale subsidiebedrag bedragen:
 
@@ -774,7 +800,7 @@ De beschikking op een aanvraag wordt gegeven binnen 13 weken na de datum van ont
 
 - c. er sprake is van samenwerking tussen een onderneming en één of meer organisaties voor onderzoek en kennisverspreiding, waarbij deze organisaties ten minste 10% van de in aanmerking komende kosten dragen en het recht hebben hun eigen onderzoeksresultaten te publiceren.
 
-#### Artikel 4.12. Subsidiabele kosten
+##### Artikel 4.12. Subsidiabele kosten
 
 1. Als subsidiabele kosten komen uitsluitend in aanmerking:
 
@@ -792,13 +818,13 @@ De beschikking op een aanvraag wordt gegeven binnen 13 weken na de datum van ont
 
 3. De subsidiabele kosten worden gestaafd met bewijsstukken die duidelijk, gespecificeerd en actueel zijn, als bedoeld in artikel 7, eerste lid, van de Algemene groepsvrijstellingsverordening.
 
-#### Artikel 4.13. Berekening subsidiabele kosten bij toepassing integrale kostensystematiek
+##### Artikel 4.13. Berekening subsidiabele kosten bij toepassing integrale kostensystematiek
 
 1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze worden de directe en indirecte kosten per kostendrager in een tarief per eenheid van deze kostendrager berekend.
 
 2. De subsidiabele kosten worden berekend door het aantal eenheden van de kostendrager te vermenigvuldigen met het ingevolge het eerste lid berekende tarief, vermeerderd met de aan derden betaalde kosten voor zover deze geen deel uitmaken van het ingevolge het eerste lid vastgestelde tarief.
 
-#### Artikel 4.14. Berekening subsidiabele kosten bij toepassing kosten per kostendrager met opslag
+##### Artikel 4.14. Berekening subsidiabele kosten bij toepassing kosten per kostendrager met opslag
 
 1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 4.12, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.12&z=2026-01-20&g=2026-01-20), worden de directe loonkosten per uur vermenigvuldigd met het aantal uren dat direct bij de subsidiabele activiteiten betrokken personen ten behoeve van deze activiteiten hebben gewerkt.
 
@@ -812,7 +838,7 @@ De beschikking op een aanvraag wordt gegeven binnen 13 weken na de datum van ont
 
 3. Voor zover er geen loonkosten worden gemaakt, maar niettemin arbeid wordt verricht, wordt voor de berekening van de kosten van de arbeid uitgegaan van € 60,– per uur.
 
-#### Artikel 4.15. Berekening met forfaitair uurtarief loonkosten
+##### Artikel 4.15. Berekening met forfaitair uurtarief loonkosten
 
 1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 4.12, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.12&z=2026-01-20&g=2026-01-20), wordt een uurtarief gehanteerd van € 60,– per uur.
 
@@ -822,7 +848,7 @@ De beschikking op een aanvraag wordt gegeven binnen 13 weken na de datum van ont
 
 - b. aan derden betaalde kosten.
 
-#### Artikel 4.16. Bevoorschotting
+##### Artikel 4.16. Bevoorschotting
 
 1. De Minister verstrekt ambtshalve, gelijktijdig met de beschikking tot subsidieverlening, voorschotten van 90 procent van het totaal verleende bedrag.
 
@@ -834,7 +860,7 @@ De beschikking op een aanvraag wordt gegeven binnen 13 weken na de datum van ont
 
 3. De voorschotverstrekking, bedoeld in het tweede lid, wordt opgeschort zolang de rapportage, bedoeld in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.17&z=2026-01-20&g=2026-01-20), in strijd met dat artikel, niet is ontvangen.
 
-#### Artikel 4.17. Verplichtingen
+##### Artikel 4.17. Verplichtingen
 
 1. De subsidieontvanger dient door middel van een jaarlijkse voortgangsrapportage tijdens de looptijd van het project en een eindrapport met een openbaar gedeelte verslag te doen van de mate waarin het project heeft bijgedragen aan de doelen van deze regeling zoals opgenomen in [artikel 1.2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=1&artikel=1.2&z=2026-01-20&g=2026-01-20), en [4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.1&z=2026-01-20&g=2026-01-20).
 
@@ -850,7 +876,7 @@ De beschikking op een aanvraag wordt gegeven binnen 13 weken na de datum van ont
 
 3. De [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=18), [19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=19), en [21 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=21) zijn van toepassing.
 
-#### Artikel 4.18. Subsidievaststelling
+##### Artikel 4.18. Subsidievaststelling
 
 1. De aanvraag tot vaststelling van de subsidie op grond van dit hoofdstuk wordt, onverminderd [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.2&z=2026-01-20&g=2026-01-20), uiterlijk ingediend tot 4 maanden nadat het project is voltooid.
 
@@ -866,17 +892,17 @@ De beschikking op een aanvraag wordt gegeven binnen 13 weken na de datum van ont
 
 - c. een controleverklaring.
 
-#### Artikel 4.19. Betaling
+##### Artikel 4.19. Betaling
 
 Betalingen van de Minister vinden plaats op een bankrekening die op naam staat van de aanvrager of, in het geval van een samenwerkingsverband, op naam staat van de penvoerder. Het resterende bedrag, na betaling van het voorschot, wordt gelijktijdig met de beschikking tot subsidievaststelling verstrekt.
 
-#### Artikel 4.20. Gewijzigde vaststelling en terugvordering
+##### Artikel 4.20. Gewijzigde vaststelling en terugvordering
 
 Indien niet is voldaan aan het bepaalde in [artikel 4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.18&z=2026-01-20&g=2026-01-20) kan de Minister, onverminderd het bepaalde in de [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57), besluiten de vaststelling van de subsidie te wijzigen en het onverschuldigd betaalde deel van de subsidie terug te vorderen.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 5.1. Misbruik en oneigenlijk gebruik
+##### Artikel 5.1. Misbruik en oneigenlijk gebruik
 
 1. De Minister houdt ter voorkoming van misbruik en oneigenlijk gebruik van subsidie een registratie bij waarin wordt vastgelegd:
 
@@ -894,15 +920,15 @@ Indien niet is voldaan aan het bepaalde in [artikel 4.18](https://wetten.overhei
 
 4. Indien blijkt dat een aanvrager in de in het eerste lid bedoelde registratie is opgenomen kan de Minister aan de geregistreerde gegevens gevolgtrekkingen verbinden bij de beoordeling van de aanvraag, de in het kader van de subsidieverstrekking op te leggen verplichtingen en de controle op de naleving van die verplichtingen.
 
-#### Artikel 5.2. Evaluatie
+##### Artikel 5.2. Evaluatie
 
 De subsidieontvanger verleent gedurende vijf jaar na de datum van de beschikking tot subsidievaststelling medewerking aan een evaluatie van de effecten van de door hem op grond van deze regeling uitgevoerde activiteiten, voor zover deze medewerking redelijkerwijs van hem kan worden verlangd.
 
-#### Artikel 5.2. Citeertitel
+##### Artikel 5.2. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling schoon en emissieloos bouwmaterieel.
 
-#### Artikel 5.3. Inwerkingtreding
+##### Artikel 5.3. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van 9 mei 2022.
 
@@ -1530,7 +1556,7 @@ Deze typegoedkeuring dient per vermogensklasse eenmalig uitgevoerd te worden. He
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1.4. Voorwaardelijke verlening
+##### Artikel 1.4. Voorwaardelijke verlening
 
 Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34).
 
@@ -1542,7 +1568,7 @@ Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verl
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 5.2. Citeertitel
+##### Artikel 5.2. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling schoon en emissieloos bouwmaterieel.
 

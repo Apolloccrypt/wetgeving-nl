@@ -1,14 +1,37 @@
 ---
-title: "Wijzigingswet Huurprijzenwet woonruimte, enz."
+title: "Wet van 14 februari 1994, houdende wijziging van de Huurprijzenwet woonruimte in verband met de decentralisatie van de subsidiëring van de volkshuisvesting en de liberalisatie van huurprijzen van duurdere woningen"
 identifier: "BWBR0006464"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1998-12-04
-laatste_update: 1998-12-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006464"
+country: "nl"
+rank: "wet"
+publication_date: "1998-12-04"
+last_updated: "1998-12-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006464"
+soort: "wet"
+stam_id: "507533"
+version_id: "746132"
+internal_id: "C746131"
+label_id: "493144"
+dtd_version: "2.0"
+original_entry_into_force: "1994-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006464/1998-12-04/0"
+intitule_bron: "Stb.1994-132"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-02-14"
+intitule_status: "goed"
+original_publication: "Stb.1994-132"
+original_signed_date: "1994-02-14"
+original_effect: "nieuwe-regeling"
+original_dossier: "22350"
+entry_into_force_date: "1994-07-01"
+jci_1_3: "jci1.3:c:BWBR0006464&z=1998-12-04&g=1998-12-04"
+jci_1_0: "1.0:c:BWBR0006464&g=1998-12-04"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Huurprijzenwet woonruimte, enz."
+signed_date: "1994-02-14"
+entry_into_force: "1994-07-01"
 ---
-
-# Wijzigingswet Huurprijzenwet woonruimte, enz.
+# Wet van 14 februari 1994, houdende wijziging van de Huurprijzenwet woonruimte in verband met de decentralisatie van de subsidiëring van de volkshuisvesting en de liberalisatie van huurprijzen van duurdere woningen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,23 +39,23 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is enige wijzigingen aa
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IV
+##### Artikel IV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel V
+##### Artikel V
 
 1. [Artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0006464&artikel=I&z=1998-12-04&g=1998-12-04), is niet van toepassing op huurovereenkomsten van woonruimte die voor het tijdstip van inwerkingtreding van deze wet zijn totstandgekomen, met uitzondering van huurovereenkomsten waarop onmiddellijk vóór het tijdstip van inwerkingtreding van deze wet [artikel 7**a**, eerste lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=7a) (**Stb.** 1979, 216) van toepassing was.
 
@@ -50,11 +73,11 @@ met dien verstande dat op het tijdstip waarop de eerste dan wel, in voorkomend g
 
 - b. geldt de laatstelijk vóór het tijdstip van inwerkingtreding van deze wet aan Onze genoemde Minister gegeven bevoegdheid tot nadere vaststelling van de huurprijs voor het laatst met ingang van de datum van 1 juli, gelijk aan of volgend op het tijdstip van inwerkingtreding van deze wet, waarna de op huurprijzen en wijziging van huurprijzen betrekking hebbende artikelen van de [Huurprijzenwet woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003221) van toepassing zijn zoals zij luiden vanaf het tijdstip van inwerkingtreding van deze wet.
 
-#### Artikel VI
+##### Artikel VI
 
 Vervallen
 
-#### Artikel VII
+##### Artikel VII
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

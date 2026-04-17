@@ -1,13 +1,39 @@
 ---
-title: "Organisatie-, mandaat- en volmachtbesluit IZ 2019"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 juli 2019, nr. 2019-0000097647, houdende de inrichting van de directie Internationale Zaken alsmede doorverlening van vertegenwoordigings-bevoegdheden van de directeur Internationale Zaken (Organisatie-, mandaat- en volmachtbesluit IZ 2019)"
 identifier: "BWBR0042445"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-09-14
-laatste_update: 2023-09-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042445"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-09-14"
+last_updated: "2023-09-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042445"
+soort: "ministeriele-regeling"
+stam_id: "15130393"
+version_id: "25944862"
+internal_id: "C36960751"
+label_id: "15078384"
+dtd_version: "2.0"
+original_entry_into_force: "2019-07-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042445/2023-09-14/0"
+intitule_bron: "Stcrt.2019-41140"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-07-15"
+intitule_published: "2019-07-24"
+intitule_in_force: "2019-07-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-41140"
+original_signed_date: "2019-07-15"
+original_published_date: "2019-07-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-41140"
+entry_into_force_date: "2019-07-26"
+jci_1_3: "jci1.3:c:BWBR0042445&z=2023-09-14&g=2023-09-14"
+jci_1_0: "1.0:c:BWBR0042445&g=2023-09-14"
+citeertitel_status: "officieel"
+short_title: "Organisatie-, mandaat- en volmachtbesluit IZ 2019"
+signed_date: "2019-07-15"
+entry_into_force: "2019-07-26"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 juli 2019, nr. 2019-0000097647, houdende de inrichting van de directie Internationale Zaken alsmede doorverlening van vertegenwoordigings-bevoegdheden van de directeur Internationale Zaken (Organisatie-, mandaat- en volmachtbesluit IZ 2019)
 
 Gelet op de [artikelen 3, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&artikel=3), en [15 van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Werk 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&artikel=15);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Organisatie en taken
 
-#### Artikel 2
+##### Artikel 2
 
 De directie bestaat uit de volgende afdelingen:
 
@@ -36,7 +62,7 @@ De directie bestaat uit de volgende afdelingen:
 
 - c. het cluster Permanente Vertegenwoordiging, gevestigd te Brussel;
 
-#### Artikel 3
+##### Artikel 3
 
 Het hoofd van de afdeling Europese Aangelegenheden is verantwoordelijk voor:
 
@@ -56,7 +82,7 @@ Het hoofd van de afdeling Europese Aangelegenheden is verantwoordelijk voor:
 
 - h. het toerusten van het ministerie met het oog op EU-activiteiten.
 
-#### Artikel 4
+##### Artikel 4
 
 Het hoofd van de afdeling Internationale Aangelegenheden is verantwoordelijk voor:
 
@@ -76,7 +102,7 @@ Het hoofd van de afdeling Internationale Aangelegenheden is verantwoordelijk voo
 
 - h. het toerusten van het ministerie met name met het oog op de activiteiten in de internationale organisaties.
 
-#### Artikel 5
+##### Artikel 5
 
 Het cluster Permanente Vertegenwoordiging is verantwoordelijk voor:
 
@@ -94,11 +120,11 @@ Het cluster Permanente Vertegenwoordiging is verantwoordelijk voor:
 
 #### § 3. Bevoegdheden
 
-#### Artikel 6
+##### Artikel 6
 
 Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door het afdelingshoofd dat is aangewezen als plaatsvervangend directeur.
 
-#### Artikel 7
+##### Artikel 7
 
 Aan de hoofden van de afdelingen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042445&paragraaf=2&artikel=2&z=2023-09-14&g=2023-09-14), wordt mandaat, volmacht en machtiging verleend met betrekking tot:
 
@@ -116,7 +142,7 @@ Aan de hoofden van de afdelingen, genoemd in [artikel 2](https://wetten.overheid
 
 - b. het afdoen van stukken met uitzondering van stukken waarvan, gelet op het belang daarvan, redelijkerwijs kan worden vermoed, dat deze door de directeur moeten worden afgedaan.
 
-#### Artikel 8
+##### Artikel 8
 
 Bij financiële uitgaven krijgen afdelingshoofden de bevoegdheid om tot een bedrag van € 75.000,– inclusief BTW te tekenen. Dit geldt voor:
 
@@ -126,13 +152,13 @@ Bij financiële uitgaven krijgen afdelingshoofden de bevoegdheid om tot een bedr
 
 - c. personele ontwikkeling van medewerkers zoals opleidingen en begeleiding.
 
-#### Artikel 9
+##### Artikel 9
 
 Doorverlening van bevoegdheden is slechts toegestaan na voorafgaande schriftelijke toestemming van de directeur.
 
 #### § 4. Slotbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit directie Internationale Zaken 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025300) wordt ingetrokken.
 

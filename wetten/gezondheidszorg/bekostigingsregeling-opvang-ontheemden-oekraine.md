@@ -1,20 +1,46 @@
 ---
-title: "Bekostigingsregeling opvang ontheemden Oekraïne"
+title: "Regeling van de Staatssecretaris van Justitie en Veiligheid van 31 mei 2022, nr. 4022247, houdende een specifieke uitkering voor gemeenten in verband met de bekostiging van acute opvang en verstrekkingen vanwege de oorlogssituatie in Oekraïne (Bekostigingsregeling opvang ontheemden Oekraïne)"
 identifier: "BWBR0046732"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2025-12-01
-laatste_update: 2025-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046732"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-12-01"
+last_updated: "2025-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046732"
+soort: "ministeriele-regeling"
+stam_id: "16374343"
+version_id: "28661372"
+internal_id: "C40441451"
+label_id: "16298574"
+dtd_version: "2.0"
+original_entry_into_force: "2022-06-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046732/2025-12-01/0"
+intitule_bron: "Stcrt.2022-15021"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-05-31"
+intitule_published: "2022-06-03"
+intitule_in_force: "2022-06-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-15021"
+original_signed_date: "2022-05-31"
+original_published_date: "2022-06-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-15021"
+entry_into_force_date: "2022-06-04"
+jci_1_3: "jci1.3:c:BWBR0046732&z=2025-12-01&g=2025-12-01"
+jci_1_0: "1.0:c:BWBR0046732&g=2025-12-01"
+citeertitel_status: "officieel"
+short_title: "Bekostigingsregeling opvang ontheemden Oekraïne"
+signed_date: "2022-05-31"
+entry_into_force: "2022-06-04"
 ---
-
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 31 mei 2022, nr. 4022247, houdende een specifieke uitkering voor gemeenten in verband met de bekostiging van acute opvang en verstrekkingen vanwege de oorlogssituatie in Oekraïne (Bekostigingsregeling opvang ontheemden Oekraïne)
 
 Gelet op [artikel 17, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17) juncto [artikel 4:23, derde lid onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 - i. **SiSa:** het systeem van single information, single audit, zoals bepaald in de ministeriële regeling informatieverstrekking SiSa.
 
-#### Artikel 2. Verstrekking van een specifieke uitkering
+##### Artikel 2. Verstrekking van een specifieke uitkering
 
 1. De minister verstrekt aan gemeenten een specifieke uitkering ter bekostiging van:
 
@@ -68,7 +94,7 @@ In deze regeling wordt verstaan onder:
 
 4. De gemeente, bedoeld in het eerste lid, verstrekt op verzoek van de minister een onderbouwing van de wijze waarop zij invulling geeft aan een continue en voldoende betrouwbare uitvoering van de taak als bedoeld in [artikel 2, eerste lid, van de Regeling opvang ontheemden Oekraïne](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&artikel=2).
 
-#### Artikel 3. Hoogte van de specifieke uitkering
+##### Artikel 3. Hoogte van de specifieke uitkering
 
 1. Gemeenten ontvangen:
 
@@ -98,11 +124,11 @@ In deze regeling wordt verstaan onder:
 
 7. Op het totaalbedrag op basis van het eerste lid, wordt in mindering gebracht de bedragen die de gemeente in een boekjaar ontvangt op grond van de [artikelen 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&artikel=7), en [8 van de Regeling opvang ontheemden Oekraïne](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&artikel=8).
 
-#### Artikel 4. Voorwaarden
+##### Artikel 4. Voorwaarden
 
 De gemeenten besteden de specifieke uitkering gedurende de periode van 1 maart 2022 tot en met 31 december 2023 of tot en met de dag waarop een binnen dat tijdvak bij de Staten-Generaal ingediend voorstel van wet waarop deze regeling komt te berusten is verworpen, danwel, indien dat voorstel tot wet is verheven en in werking is getreden, tot en met de dag waarop die wet vervalt.
 
-#### Artikel 5. Voorschot
+##### Artikel 5. Voorschot
 
 1. Op aanvraag verstrekt en betaalt de minister in 2022 aan gemeenten een voorschot van 100% van het aantal opvangplekken voor ontheemden dat een gemeente in een boekjaar verwacht te realiseren maal het normbedrag, de werkelijke transitiekosten en de verwachte kosten volgend uit [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2025-12-01&g=2025-12-01). Daarop wordt in mindering gebracht het bedrag dat de gemeente in het betreffende boekjaar verwacht te ontvangen op grond van de [artikelen 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&artikel=7) en [8 van de Regeling opvang ontheemden Oekraïne](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&artikel=8).
 
@@ -124,13 +150,13 @@ De gemeenten besteden de specifieke uitkering gedurende de periode van 1 maart 2
 
 - b. de kosten zijn of worden gemaakt in het betreffende boekjaar.
 
-#### Artikel 6. Verantwoording
+##### Artikel 6. Verantwoording
 
 1. De gemeenten leggen uiterlijk 15 juli van het jaar dat volgt op het jaar van besteding verantwoording af over de besteding van de specifieke uitkering. [Artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) is van overeenkomstige toepassing.
 
 2. De gemeenten nemen de artikelen 107 en 108 van het Verdrag betreffende de Werking van de Europese Unie in acht bij de besteding van de specifieke uitkering.
 
-#### Artikel 7. Procedure tot vaststelling van de uitkering
+##### Artikel 7. Procedure tot vaststelling van de uitkering
 
 1. De minister stelt de uitkering uiterlijk op 31 december van het jaar dat volgt op het jaar van besteding vast. De minister kan de uitkering lager vaststellen:
 
@@ -144,15 +170,15 @@ De gemeenten besteden de specifieke uitkering gedurende de periode van 1 maart 2
 
 2. Indien de verantwoordingsinformatie te laat, niet of niet volledig wordt verstrekt kan de minister de uitkering op een lager bedrag vaststellen.
 
-#### Artikel 8. Terugvordering
+##### Artikel 8. Terugvordering
 
 De uitkering kan worden teruggevorderd voor het deel dat blijkens de verantwoordingsinformatie niet of niet rechtmatig is uitgegeven. Onverschuldigd betaalde uitkeringsbedragen en voorschotten kunnen worden teruggevorderd, voor zover na de dag waarop de beschikking waarbij de uitkering wordt vastgesteld is bekendgemaakt, nog geen vijf jaren zijn verstreken.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 maart 2022.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Bekostigingsregeling opvang ontheemden Oekraïne.
 

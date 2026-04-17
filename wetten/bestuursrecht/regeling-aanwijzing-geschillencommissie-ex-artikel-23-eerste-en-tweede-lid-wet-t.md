@@ -1,40 +1,66 @@
 ---
-title: "Regeling aanwijzing geschillencommissie ex artikel 23, eerste en tweede lid, Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten"
+title: "Regeling van de Minister voor Rechtsbescherming van 10 februari 2022, nr. 3827949, directie Wetgeving en Juridische Zaken, houdende aanwijzing van de geschillencommissie zoals bedoeld in artikel 23, eerste en tweede lid, van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten"
 identifier: "BWBR0046314"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-04-01
-laatste_update: 2022-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046314"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-04-01"
+last_updated: "2022-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046314"
+soort: "ministeriele-regeling"
+stam_id: "16267493"
+version_id: "28414902"
+internal_id: "C40073861"
+label_id: "16193654"
+dtd_version: "2.0"
+original_entry_into_force: "2022-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046314/2022-04-01/0"
+intitule_bron: "Stcrt.2022-4383"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-02-10"
+intitule_published: "2022-02-16"
+intitule_in_force: "2022-02-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-4383"
+original_signed_date: "2022-02-10"
+original_published_date: "2022-02-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-4383"
+entry_into_force_date: "2022-04-01"
+jci_1_3: "jci1.3:c:BWBR0046314&z=2022-04-01&g=2022-04-01"
+jci_1_0: "1.0:c:BWBR0046314&g=2022-04-01"
+citeertitel_status: "redactioneel"
+short_title: "Regeling aanwijzing geschillencommissie ex artikel 23, eerste en tweede lid, Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten"
+signed_date: "2022-02-10"
+entry_into_force: "2022-04-01"
 ---
-
 # Regeling van de Minister voor Rechtsbescherming van 10 februari 2022, nr. 3827949, directie Wetgeving en Juridische Zaken, houdende aanwijzing van de geschillencommissie zoals bedoeld in artikel 23, eerste en tweede lid, van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten
 
 Gelet op [artikel 23, eerste en tweede lid, van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=23),
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De Geschillencommissie Auteursrechten, die in stand wordt gehouden door de Stichting Geschillencommissies voor Beroep en Bedrijf, wordt aangewezen als geschillencommissie in de zin van [artikel 23, eerste lid, onderdeel a, en tweede lid van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=23).
 
-#### Artikel 2
+##### Artikel 2
 
 De Geschillencommissie Buma/Stemra wordt aangewezen als geschillencommissie in de zin van [artikel 23, eerste lid, onderdelen b en c, van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=23).
 
-#### Artikel 3
+##### Artikel 3
 
 Onverminderd het bepaalde in dit besluit worden de samenstelling, de inrichting, de procedures en de werkwijze van de Geschillencommissie Auteursrechten geregeld in het Reglement Geschillencommissie Auteursrechten, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046314&bijlage=1&z=2022-04-01&g=2022-04-01) van deze regeling.
 
-#### Artikel 4
+##### Artikel 4
 
 Onverminderd het bepaalde in dit besluit worden de samenstelling, de inrichting, de procedures en de werkwijze van de geschillencommissie geregeld in het Reglement Geschillencommissie Buma/Stemra, zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046314&bijlage=2&z=2022-04-01&g=2022-04-01) van deze regeling.
 
-#### Artikel 5
+##### Artikel 5
 
 De [Regeling van de Staatssecretaris van Veiligheid en Justitie van 20 juni 2013, nr. 398467, houdende aanwijzing van de geschillencommissie zoals bedoeld in artikel 22 van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0033591) vervalt.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking op 1 april 2022.
 

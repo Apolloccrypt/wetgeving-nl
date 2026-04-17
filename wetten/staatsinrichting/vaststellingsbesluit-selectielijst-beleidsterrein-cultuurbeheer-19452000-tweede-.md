@@ -1,13 +1,39 @@
 ---
-title: "Vaststellingsbesluit selectielijst beleidsterrein Cultuurbeheer 1945–2000 (Tweede Kamer der Staten-Generaal)"
+title: "Besluit van 16 maart 2006, nr. 06.000756, houdende vaststelling van een selectielijst van de Tweede Kamer der Staten-Generaal op het beleidsterrein Cultuurbeheer over de periode 1945–2000"
 identifier: "BWBR0019669"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2006-04-22
-laatste_update: 2006-04-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019669"
+country: "nl"
+rank: "kb"
+publication_date: "2006-04-22"
+last_updated: "2006-04-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019669"
+soort: "KB"
+stam_id: "8218143"
+version_id: "13029892"
+internal_id: "C17538791"
+label_id: "8199244"
+dtd_version: "2.0"
+original_entry_into_force: "2006-04-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019669/2006-04-22/0"
+intitule_bron: "Stcrt.2006-77"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-03-16"
+intitule_published: "2006-04-20"
+intitule_in_force: "2006-04-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-77"
+original_signed_date: "2006-03-16"
+original_published_date: "2006-04-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-77-p15-SC74537"
+entry_into_force_date: "2006-04-22"
+jci_1_3: "jci1.3:c:BWBR0019669&z=2006-04-22&g=2006-04-22"
+jci_1_0: "1.0:c:BWBR0019669&g=2006-04-22"
+citeertitel_status: "redactioneel"
+short_title: "Vaststellingsbesluit selectielijst beleidsterrein Cultuurbeheer 1945–2000 (Tweede Kamer der Staten-Generaal)"
+signed_date: "2006-03-16"
+entry_into_force: "2006-04-22"
 ---
-
 # Besluit van 16 maart 2006, nr. 06.000756, houdende vaststelling van een selectielijst van de Tweede Kamer der Staten-Generaal op het beleidsterrein Cultuurbeheer over de periode 1945–2000
 
 Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, van 16 februari 2006, nr. C/S&A/05/2143, gedaan in overeenstemming met de Tweede Kamer der Staten-Generaal;
@@ -18,11 +44,11 @@ Gezien het advies van de Raad voor Cultuur van 18 december 2003, nr. arc-2003.64
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘Selectielijst voor de handelingen van de Tweede Kamer der Staten-Generaal op het beleidsterrein Cultuurbeheer over de periode 1945–2000’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

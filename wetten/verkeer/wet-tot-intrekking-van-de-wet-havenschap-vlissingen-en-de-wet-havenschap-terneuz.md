@@ -1,14 +1,42 @@
 ---
-title: "Wet tot intrekking van de Wet Havenschap Vlissingen en de Wet Havenschap Terneuzen"
+title: "Wet van 29 januari 1998, houdende intrekking van de Wet Havenschap Vlissingen en de Wet Havenschap Terneuzen"
 identifier: "BWBR0009358"
-categorie: "Verkeer"
-publicatiedatum: 1998-02-25
-laatste_update: 1998-02-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009358"
+country: "nl"
+rank: "wet"
+publication_date: "1998-02-25"
+last_updated: "1998-02-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009358"
+soort: "wet"
+stam_id: "743323"
+version_id: "1085462"
+internal_id: "C1085461"
+label_id: "720064"
+dtd_version: "2.0"
+original_entry_into_force: "1998-02-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009358/1998-02-25/0"
+intitule_bron: "Stb.1998-91"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-01-29"
+intitule_published: "1998-02-24"
+intitule_in_force: "1998-02-24"
+intitule_status: "goed"
+original_publication: "Stb.1998-91"
+original_signed_date: "1998-01-29"
+original_published_date: "1998-02-24"
+original_effect: "nieuwe-regeling"
+original_dossier: "25531"
+original_url_id: "stb-1998-91"
+entry_into_force_date: "1998-02-25"
+entry_into_force_dossier: "25531"
+jci_1_3: "jci1.3:c:BWBR0009358&z=1998-02-25&g=1998-02-25"
+jci_1_0: "1.0:c:BWBR0009358&g=1998-02-25"
+citeertitel_status: "officieel"
+short_title: "Wet tot intrekking van de Wet Havenschap Vlissingen en de Wet Havenschap Terneuzen"
+signed_date: "1998-01-29"
+entry_into_force: "1998-02-25"
 ---
-
-# Wet tot intrekking van de Wet Havenschap Vlissingen en de Wet Havenschap Terneuzen
+# Wet van 29 januari 1998, houdende intrekking van de Wet Havenschap Vlissingen en de Wet Havenschap Terneuzen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,19 +46,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Werkt terug tot en met 1 januari 1998.
 
-#### Artikel 1
+##### Artikel 1
 
 De besluiten van Onze Ministers van Verkeer en Waterstaat en van Financiën van 29 april 1997, van provinciale staten van Zeeland van 14 maart 1997 en van de raden van de gemeenten Vlissingen en Borsele van 27 maart 1997 en 6 maart 1997, onderscheidenlijk van de raden van de gemeenten Terneuzen en Sas van Gent van 27 maart 1997 en 27 februari 1997 tot opheffing van de gemeenschappelijke regelingen, waarbij de Havenschappen Vlissingen en Terneuzen zijn opgericht, worden goedgekeurd. Deze besluiten zijn als bijlagen bij deze wet gevoegd.
 
-#### Artikel 2
+##### Artikel 2
 
 De Wet Havenschap Vlissingen en de Wet Havenschap Terneuzen worden ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt de Wet vervoer gevaarlijke stoffen.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze wet treedt in werking met ingang van 1 januari 1998. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 1997, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 1998.
 

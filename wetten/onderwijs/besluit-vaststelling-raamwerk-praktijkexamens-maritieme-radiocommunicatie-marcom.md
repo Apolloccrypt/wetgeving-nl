@@ -1,13 +1,38 @@
 ---
 title: "Besluit vaststelling Raamwerk praktijkexamens Maritieme radiocommunicatie (Marcom-B & Marcom-A) CBR"
 identifier: "BWBR0048254"
-categorie: "Onderwijs"
-publicatiedatum: 2023-07-01
-laatste_update: 2023-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048254"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-07-01"
+last_updated: "2023-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048254"
+soort: "zbo"
+stam_id: "16766373"
+version_id: "29445882"
+internal_id: "C42112591"
+label_id: "16681744"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048254/2023-07-01/0"
+intitule_bron: "Stcrt.2023-15959"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-05-31"
+intitule_published: "2023-06-09"
+intitule_in_force: "2023-06-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-15959"
+original_signed_date: "2023-05-31"
+original_published_date: "2023-06-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-15959"
+entry_into_force_date: "2023-07-01"
+jci_1_3: "jci1.3:c:BWBR0048254&z=2023-07-01&g=2023-07-01"
+jci_1_0: "1.0:c:BWBR0048254&g=2023-07-01"
+citeertitel_status: "redactioneel"
+signed_date: "2023-05-31"
+entry_into_force: "2023-07-01"
 ---
-
 # Besluit vaststelling Raamwerk praktijkexamens Maritieme radiocommunicatie (Marcom-B & Marcom-A) CBR
 
 ### Artikel 1

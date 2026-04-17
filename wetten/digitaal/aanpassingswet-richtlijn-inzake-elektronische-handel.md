@@ -1,14 +1,40 @@
 ---
-title: "Aanpassingswet richtlijn inzake elektronische handel"
+title: "Wet van 13 mei 2004 tot aanpassing van het Burgerlijk Wetboek, het Wetboek van Burgerlijke Rechtsvordering, het Wetboek van Strafrecht en de Wet op de economische delicten ter uitvoering van richtlijn nr. 2000/31/EG van het Europees Parlement en de Raad van de Europese Unie van 8 juni 2000 betreffende bepaalde juridische aspecten van de diensten van de informatiemaatschappij, met name de elektronische handel, in de interne markt (PbEG L 178) (Aanpassingswet richtlijn inzake elektronische handel)"
 identifier: "BWBR0016726"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2025-02-04
-laatste_update: 2025-02-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016726"
+country: "nl"
+rank: "wet"
+publication_date: "2025-02-04"
+last_updated: "2025-02-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016726"
+soort: "wet"
+stam_id: "5871783"
+version_id: "10448552"
+internal_id: "C14291761"
+label_id: "5851614"
+original_entry_into_force: "2004-06-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016726/2025-02-04/0"
+intitule_bron: "Stb.2004-210"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-05-13"
+intitule_published: "2004-05-25"
+intitule_in_force: "2004-06-29"
+intitule_status: "goed"
+original_publication: "Stb.2004-210"
+original_signed_date: "2004-05-13"
+original_published_date: "2004-05-25"
+original_effect: "nieuwe-regeling"
+original_dossier: "28197"
+original_url_id: "stb-2004-210"
+entry_into_force_date: "2004-06-30"
+jci_1_3: "jci1.3:c:BWBR0016726&z=2025-02-04&g=2025-02-04"
+jci_1_0: "1.0:c:BWBR0016726&g=2025-02-04"
+citeertitel_status: "officieel"
+short_title: "Aanpassingswet richtlijn inzake elektronische handel"
+signed_date: "2004-05-13"
+entry_into_force: "2004-06-30"
 ---
-
-# Aanpassingswet richtlijn inzake elektronische handel
+# Wet van 13 mei 2004 tot aanpassing van het Burgerlijk Wetboek, het Wetboek van Burgerlijke Rechtsvordering, het Wetboek van Strafrecht en de Wet op de economische delicten ter uitvoering van richtlijn nr. 2000/31/EG van het Europees Parlement en de Raad van de Europese Unie van 8 juni 2000 betreffende bepaalde juridische aspecten van de diensten van de informatiemaatschappij, met name de elektronische handel, in de interne markt (PbEG L 178) (Aanpassingswet richtlijn inzake elektronische handel)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,23 +42,23 @@ Alzo Wij in overweging genomen hebben, dat het Burgerlijk Wetboek, het [Wetboek 
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Burgerlijk Wetboek.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Wetboek van Strafrecht.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel V
+##### Artikel V
 
 1. Diensten van de informatiemaatschappij als bedoeld in [artikel 15d, derde lid, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15d), voldoen aan de daarvoor in de lidstaat van de Europese Unie van vestiging van de dienstverlener geldende bepalingen die vallen binnen het gecoördineerd gebied als bedoeld in [Richtlijn 2000/31/EG](32000L0031) van het Europees Parlement en de Raad van de Europese Gemeenschappen van 8 juni 2000, betreffende bepaalde juridische aspecten van de diensten van de informatiemaatschappij, met name de elektronische handel, in de interne markt.
 
@@ -60,11 +86,11 @@ Wijzigt de Wet op de economische delicten.
 
 6. In gevallen waarin in verband met de in het vijfde lid, onder a, genoemde belangen onverwijld moet worden opgetreden, kan worden afgeweken van het vijfde lid, onder c. In dat geval worden de Europese Commissie en de desbetreffende lidstaat onverwijld in kennis gesteld van de genomen maatregelen en van de redenen waarom van het vijfde lid, onder c, is afgeweken.
 
-#### Artikel VI
+##### Artikel VI
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel VII
+##### Artikel VII
 
 Deze wet wordt aangehaald als: Aanpassingswet richtlijn inzake elektronische handel.
 

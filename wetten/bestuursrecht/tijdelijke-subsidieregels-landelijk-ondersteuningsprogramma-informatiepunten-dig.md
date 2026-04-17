@@ -1,13 +1,38 @@
 ---
 title: "Tijdelijke subsidieregels Landelijk ondersteuningsprogramma Informatiepunten Digitale Overheid Koninklijke Bibliotheek 2026"
 identifier: "BWBR0052114"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-06
-laatste_update: 2026-01-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052114"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-06"
+last_updated: "2026-01-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052114"
+soort: "zbo"
+stam_id: "17724133"
+version_id: "31279562"
+internal_id: "C44721541"
+label_id: "17622744"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052114/2026-01-06/0"
+intitule_bron: "Stcrt.2026-37"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-16"
+intitule_published: "2026-01-05"
+intitule_in_force: "2026-01-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-37"
+original_signed_date: "2025-12-16"
+original_published_date: "2026-01-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-37"
+entry_into_force_date: "2026-01-06"
+jci_1_3: "jci1.3:c:BWBR0052114&z=2026-01-06&g=2026-01-06"
+jci_1_0: "1.0:c:BWBR0052114&g=2026-01-06"
+citeertitel_status: "officieel"
+signed_date: "2025-12-16"
+entry_into_force: "2026-01-06"
 ---
-
 # Tijdelijke subsidieregels Landelijk ondersteuningsprogramma Informatiepunten Digitale Overheid Koninklijke Bibliotheek 2026
 
 gelet op het [Subsidiereglement Koninklijke Bibliotheek 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0048999) en [titel 4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2)
@@ -18,7 +43,7 @@ vast te stellen de navolgende Tijdelijke subsidieregels Landelijk ondersteunings
 
 Van toepassing op activiteiten in de periode 1 januari 2026 tot 1 januari 2027.
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 - **BZK:** Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
 
@@ -32,7 +57,7 @@ Van toepassing op activiteiten in de periode 1 januari 2026 tot 1 januari 2027.
 
 - **SPN:** Stichting Samenwerkende POI’s Nederland.
 
-#### Artikel 2. Subsidiabele activiteiten
+##### Artikel 2. Subsidiabele activiteiten
 
 In het kader van de activiteit het aansturen van het netwerk van openbare bibliotheekvoorzieningen door educatie, informatie en reflectie subsidieert de Koninklijke Bibliotheek ten behoeve van de uitvoering van het Landelijk Ondersteuningsprogramma Informatiepunten Digitale Overheid de volgende activiteiten.
 
@@ -68,11 +93,11 @@ Voor afzonderlijke POI's:
 
 - h. Het ondersteunen en monitoren van bibliotheken zodat zij het aanbod van de producten, diensten en activiteiten van lokale bibliotheken in de daartoe bestemde database actueel, volledig en volgens de gezamenlijke invoerafspraken invoeren.
 
-#### Artikel 3. Verlening subsidie onder begrotingsvoorbehoud
+##### Artikel 3. Verlening subsidie onder begrotingsvoorbehoud
 
 Een subsidie wordt verleend voor de periode van 1 januari 2026 tot 1 januari 2027 onder het voorbehoud dat in de begroting van BZK voor de Ondersteuning Informatiepunten Digitale Overheid voor 2026, voldoende financiële middelen ter beschikking worden gesteld om de subsidie te kunnen verlenen.
 
-#### Artikel 4. Subsidieplafonds en verdeling
+##### Artikel 4. Subsidieplafonds en verdeling
 
 - a. Het subsidiebedrag dat voor de periode van 1 januari 2026 tot 1 januari 2027 maximaal beschikbaar is voor de activiteiten als bedoeld in [artikel 2, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0052114&artikel=2&z=2026-01-06&g=2026-01-06) voor SPN is € 200.000,–.
 
@@ -114,7 +139,7 @@ Een subsidie wordt verleend voor de periode van 1 januari 2026 tot 1 januari 202
 
 - e. Aanvullende subsidie wordt uitsluitend verstrekt voor activiteiten als bedoeld in [artikel 2, onderdelen d tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0052114&artikel=2&z=2026-01-06&g=2026-01-06).
 
-#### Artikel 5. Subsidieontvanger
+##### Artikel 5. Subsidieontvanger
 
 Een projectsubsidie wordt verstrekt aan:
 
@@ -122,7 +147,7 @@ Een projectsubsidie wordt verstrekt aan:
 
 - b. POI’s voor de activiteiten zoals bedoeld in [artikel 2, onder d tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0052114&artikel=2&z=2026-01-06&g=2026-01-06).
 
-#### Artikel 6. Aanvraag
+##### Artikel 6. Aanvraag
 
 1. De aanvraag tot subsidieverlening voor de eerste aanvraagronde wordt uiterlijk 1 maart 2026 ingediend met gebruikmaking van het door de Koninklijke Bibliotheek beschikbaar gestelde aanvraagformulier.
 
@@ -130,7 +155,7 @@ Een projectsubsidie wordt verstrekt aan:
 
 3. De opening van een tweede aanvraagronde en het bedrag van het resterende budget wordt via e-mail aan de betreffende POI’s bekend gemaakt.
 
-#### Artikel 7. Weigeringsgronden
+##### Artikel 7. Weigeringsgronden
 
 Naast het bepaalde in het [Subsidiereglement Koninklijke Bibliotheek 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0048999) weigert de Koninklijke Bibliotheek een subsidie indien:
 
@@ -138,17 +163,17 @@ Naast het bepaalde in het [Subsidiereglement Koninklijke Bibliotheek 2024](https
 
 - b. Een aanvraag niet betrekking heeft op alle activiteiten als bedoeld in [artikel 2, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0052114&artikel=2&z=2026-01-06&g=2026-01-06) voor SPN en onder d tot en met h voor POI’s.
 
-#### Artikel 8. Verplichtingen
+##### Artikel 8. Verplichtingen
 
 Onverminderd de verplichtingen in het [Subsidiereglement Koninklijke Bibliotheek 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0048999) is de subsidie ontvangende SPN en POI verplicht direct na de subsidieverlening te starten met de subsidiabele activiteiten als bedoeld in [artikel 2, onder respectievelijk a tot en met c en d tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0052114&artikel=2&z=2026-01-06&g=2026-01-06).
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst en is van toepassing op activiteiten in de periode 1 januari 2026 tot 1 januari 2027.
 
 2. De regeling vervalt met ingang van 1 januari 2027 met dien verstande dat deze van toepassing blijft op subsidies die op grond van deze regeling zijn verstrekt.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regels worden aangehaald als: Tijdelijke subsidieregels Landelijk ondersteuningsprogramma Informatiepunten Digitale Overheid Koninklijke Bibliotheek 2026.
 

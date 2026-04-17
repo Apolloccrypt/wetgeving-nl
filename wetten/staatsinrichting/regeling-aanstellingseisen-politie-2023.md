@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanstellingseisen politie 2023"
+title: "Regeling van de Minister van Justitie en Veiligheid van 23 januari 2023, nr. 4381549, houdende regels omtrent het aanstellen van politieambtenaren (Regeling aanstellingseisen politie 2023)"
 identifier: "BWBR0047833"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2024-10-02
-laatste_update: 2024-10-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047833"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-10-02"
+last_updated: "2024-10-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047833"
+soort: "ministeriele-regeling"
+stam_id: "16662423"
+version_id: "29223092"
+internal_id: "C41519391"
+label_id: "16580614"
+dtd_version: "2.0"
+original_entry_into_force: "2023-01-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047833/2024-10-02/0"
+intitule_bron: "Stcrt.2023-3423"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-01-23"
+intitule_published: "2023-01-30"
+intitule_in_force: "2023-01-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-3423"
+original_signed_date: "2023-01-23"
+original_published_date: "2023-01-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-3423"
+entry_into_force_date: "2023-01-31"
+jci_1_3: "jci1.3:c:BWBR0047833&z=2024-10-02&g=2024-10-02"
+jci_1_0: "1.0:c:BWBR0047833&g=2024-10-02"
+citeertitel_status: "officieel"
+short_title: "Regeling aanstellingseisen politie 2023"
+signed_date: "2023-01-23"
+entry_into_force: "2023-01-31"
 ---
-
 # Regeling van de Minister van Justitie en Veiligheid van 23 januari 2023, nr. 4381549, houdende regels omtrent het aanstellen van politieambtenaren (Regeling aanstellingseisen politie 2023)
 
 Gelet op [artikel 7, eerste lid, onderdelen b, c en d, en tweede lid, onderdelen b, c en e, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=7);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -42,11 +68,11 @@ In deze regeling wordt verstaan onder:
 
 - **vrijwilliger-aspirant:** de ambtenaar, bedoeld in [artikel 1, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
 
-#### Artikel 2. Minimumleeftijd
+##### Artikel 2. Minimumleeftijd
 
 De minimumleeftijd voor aanstelling bedraagt 18 jaar.
 
-#### Artikel 3. Rijbewijs
+##### Artikel 3. Rijbewijs
 
 1. De kandidaat aspirant of de kandidaat vrijwilliger-aspirant is op het moment van aanstelling in het bezit van het rijbewijs B.
 
@@ -56,7 +82,7 @@ De minimumleeftijd voor aanstelling bedraagt 18 jaar.
 
 4. In afwijking van het eerste lid geldt voor kandidaat aspiranten die tussen 1 november 2023 en 31 december 2023 instromen in de politieopleiding en voor kandidaat aspiranten die in aanmerking komen voor een tegemoetkoming in de kosten van het rijbewijs op grond van de [Regeling tegemoetkoming rijbewijs aspiranten](onbekend), dat het rijbewijs B moet zijn behaald binnen negen maanden na het moment van aanstelling.
 
-#### Artikel 4. Opleidingsniveau
+##### Artikel 4. Opleidingsniveau
 
 1. De kandidaat aspirant of de kandidaat vrijwilliger-aspirant die een politieopleiding op een vergelijkbaar mbo-niveau gaat volgen voldoet ten minste aan de vooropleidingseisen, bedoeld in de [artikelen 7.4.7.](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.7) en [8.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.2.1) en [8.2.2 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.2.2).
 
@@ -70,11 +96,11 @@ De minimumleeftijd voor aanstelling bedraagt 18 jaar.
 
 6. Het bevoegd gezag kan van het vierde lid afwijken indien het naar het oordeel van het bevoegd gezag niet billijk is kosten in rekening te brengen.
 
-#### Artikel 5. Werk- en denkniveau
+##### Artikel 5. Werk- en denkniveau
 
 De kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opleiding voldoet ten minste aan het werk- en denkniveau opgenomen in de functiebeschrijving, bedoeld in de [Regeling vaststelling LFNP](https://wetten.overheid.nl/jci1.3:c:BWBR0033460), van de functie waarin de ambtenaar in opleiding of kandidaat vrijwillige ambtenaar in opleiding na het voltooien van de politieopleiding wordt ingezet.
 
-#### Artikel 6. Geschiktheidsonderzoek
+##### Artikel 6. Geschiktheidsonderzoek
 
 1. Ter beoordeling van de geschiktheid van de kandidaat voor de toekomstige beroepsuitoefening ondergaat de kandidaat aspirant, de kandidaat vrijwilliger-aspirant, de kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opleiding een geschiktheidsonderzoek, dat kan bestaan uit verschillende onderdelen.
 
@@ -90,7 +116,7 @@ De kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opl
 
 ### Hoofdstuk 2. Mentale geschiktheid
 
-#### Artikel 7. Taalvaardigheid
+##### Artikel 7. Taalvaardigheid
 
 1. De kandidaat moet de Nederlandse taal voldoende vaardig zijn.
 
@@ -110,7 +136,7 @@ De kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opl
 
 - c. onder toezicht wordt afgenomen.
 
-#### Artikel 8. Cognitieve capaciteiten
+##### Artikel 8. Cognitieve capaciteiten
 
 1. De cognitieve capaciteiten van een kandidaat moeten diegene in staat stellen op het voor de kandidaat geldende functieniveau adequaat te functioneren.
 
@@ -120,7 +146,7 @@ De kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opl
 
 4. Het bevoegd gezag zorgt ervoor dat de cognitieve capaciteitentest die gehanteerd wordt ten minste als voldoende is beoordeeld op de aspecten Theoretische uitgangspunten, Betrouwbaarheid en Validiteit door de Commissie Testaangelegenheden Nederland en onder toezicht wordt afgenomen.
 
-#### Artikel 9. Psychologisch profiel
+##### Artikel 9. Psychologisch profiel
 
 1. Een kandidaat moet op basis van het psychologisch profiel van de kandidaat in staat zijn adequaat te functioneren in de beroepspraktijk.
 
@@ -164,7 +190,7 @@ De kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opl
 
 ### Hoofdstuk 3. Fysieke geschiktheid
 
-#### Artikel 10. Fysiek motorisch onderzoek
+##### Artikel 10. Fysiek motorisch onderzoek
 
 1. De kandidaat moet fysiek motorisch voldoende in staat zijn om de fysieke taken behorend bij de beroepspraktijk naar behoren te kunnen uitvoeren.
 
@@ -174,7 +200,7 @@ De kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opl
 
 ### Hoofdstuk 4. Medische geschiktheid
 
-#### Artikel 11. Medisch onderzoek
+##### Artikel 11. Medisch onderzoek
 
 1. Nadat alle overige beoordelingen van de geschiktheid van de kandidaat hebben plaatsgevonden en het bevoegd gezag op grond daarvan voornemens is de kandidaat aan te stellen, worden de kandidaat aspirant of de kandidaat vrijwilliger-aspirant door het bevoegd gezag onderworpen aan een medisch onderzoek met inachtneming van de eisen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&bijlage=3&z=2024-10-02&g=2024-10-02) bij deze regeling.
 
@@ -186,7 +212,7 @@ De kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opl
 
 ### Hoofdstuk 5. Uitkomst onderzoeken en mogelijkheid tot herkansing
 
-#### Artikel 12. Mededeling en geldigheid uitkomst
+##### Artikel 12. Mededeling en geldigheid uitkomst
 
 1. De uitkomsten van de verschillende onderdelen van het geschiktheidsonderzoek worden de kandidaat zo snel mogelijk na het voltooien van het desbetreffende onderzoek meegedeeld.
 
@@ -196,7 +222,7 @@ De kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opl
 
 4. In afwijking van het derde lid blijft een onvoldoende uitslag op het psychologische profiel van de kandidaat een jaar gelden, waarbij de bewaartermijn van het onderliggende dossier twee jaar bedraagt.
 
-#### Artikel 13. Herbeoordeling psychologisch onderzoek
+##### Artikel 13. Herbeoordeling psychologisch onderzoek
 
 1. De kandidaat waarvan de uitslag van het psychologisch onderzoek, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&hoofdstuk=2&artikel=9&z=2024-10-02&g=2024-10-02), onvoldoende is, kan verzoeken om een toelichtend gesprek met de psycholoog onder wiens verantwoordelijkheid het desbetreffende onderzoek heeft plaatsgevonden. Binnen twee weken na dit verzoek vindt dit gesprek plaats.
 
@@ -208,7 +234,7 @@ De kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opl
 
 5. De herbeoordeling geschiedt door een andere psycholoog dan die het oorspronkelijke onderzoek heeft uitgevoerd.
 
-#### Artikel 14. Herkansing fysiek motorisch onderzoek
+##### Artikel 14. Herkansing fysiek motorisch onderzoek
 
 1. Indien de uitslag van het fysiek motorisch onderzoek onvoldoende is, kan het bevoegd gezag de kandidaat binnen twee weken na de mededeling, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&hoofdstuk=5&artikel=12&z=2024-10-02&g=2024-10-02), uitnodigen opnieuw een fysiek motorisch onderzoek te ondergaan.
 
@@ -216,7 +242,7 @@ De kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opl
 
 3. Ingeval van herkansing wordt de door het bevoegd gezag te nemen beslissing ten aanzien van de aanstelling uitgesteld totdat de uitslag van de herkansing aan het bevoegd gezag is meegedeeld.
 
-#### Artikel 15. Herkeuring medisch onderzoek
+##### Artikel 15. Herkeuring medisch onderzoek
 
 1. Als aan de uitslag van het medisch onderzoek een negatieve gevolgtrekking dan wel een positieve gevolgtrekking onder bepaalde bedenkingen wordt verbonden, heeft de kandidaat recht op een herkeuring.
 
@@ -226,7 +252,7 @@ De kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opl
 
 4. De herkeuring geschiedt door een commissie van drie geneeskundigen. Het bevoegd gezag en de kandidaat wijzen elk een geneeskundige aan voor de commissie. Deze geneeskundigen wijzen een derde geneeskundige voor de commissie aan. De geneeskundige die het medisch onderzoek heeft verricht en de behandelend arts van de kandidaat maken geen deel uit van de commissie.
 
-#### Artikel 16. Gevolg negatieve uitkomst
+##### Artikel 16. Gevolg negatieve uitkomst
 
 Niet tot aanstelling kan worden overgegaan indien de kandidaat:
 
@@ -238,15 +264,15 @@ Niet tot aanstelling kan worden overgegaan indien de kandidaat:
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 17. Intrekking oude regeling
+##### Artikel 17. Intrekking oude regeling
 
 De [Regeling aanstellingseisen politie 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0014138) wordt ingetrokken.
 
-#### Artikel 18. Inwerkingtreding
+##### Artikel 18. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 31 januari 2023.
 
-#### Artikel 19. Citeertitel
+##### Artikel 19. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling aanstellingseisen politie 2023.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit buitengewoon opsporingsambtenaar NS Groep N.V., Veiligheid en Service 2024"
+title: "Besluit van de Minister voor Rechtsbescherming van 4 juni 2024 nr. BOACAT2024/054, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij NS Groep N.V., Veiligheid en Service"
 identifier: "BWBR0049791"
-categorie: "Strafrecht"
-publicatiedatum: 2025-03-04
-laatste_update: 2025-03-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049791"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-03-04"
+last_updated: "2025-03-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049791"
+soort: "ministeriele-regeling"
+stam_id: "17123283"
+version_id: "30135562"
+internal_id: "C43175821"
+label_id: "17031764"
+dtd_version: "2.0"
+original_entry_into_force: "2024-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049791/2025-03-04/0"
+intitule_bron: "Stcrt.2024-18574"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-04"
+intitule_published: "2024-06-11"
+intitule_in_force: "2024-06-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-18574"
+original_signed_date: "2024-06-04"
+original_published_date: "2024-06-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-18574"
+entry_into_force_date: "2024-10-01"
+jci_1_3: "jci1.3:c:BWBR0049791&z=2025-03-04&g=2025-03-04"
+jci_1_0: "1.0:c:BWBR0049791&g=2025-03-04"
+citeertitel_status: "officieel"
+short_title: "Besluit buitengewoon opsporingsambtenaar NS Groep N.V., Veiligheid en Service 2024"
+signed_date: "2024-06-04"
+entry_into_force: "2024-10-01"
 ---
-
 # Besluit van de Minister voor Rechtsbescherming van 4 juni 2024 nr. BOACAT2024/054, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij NS Groep N.V., Veiligheid en Service
 
 Gelezen het verzoek van NS Groep N.V., afdeling NS Security van 28 mei 2024 en de adviezen van hoofdofficier van justitie bij het Parket CVOM en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
@@ -30,15 +56,15 @@ de [Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/j
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049791&artikel=2&z=2025-03-04&g=2025-03-04).
 
-#### Artikel 2
+##### Artikel 2
 
 De personen, werkzaam in de functie van Medewerker Veiligheid en Service, Operationeel coördinator Veiligheid en Service of Teammanager Veiligheid en Service, in dienst van NS Groep N.V., zijn aangewezen als buitengewoon opsporingsambtenaar.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de
 
@@ -48,21 +74,21 @@ strafbare feiten behorend tot het domein IV, Openbaar vervoer, zoals opgenomen i
 
 3. De buitengewoon opsporingsambtenaar vermeldt in zijn processen-verbaal en schriftelijke verslagleggingen het in het eerste lid genoemde domein.
 
-#### Artikel 4
+##### Artikel 4
 
 Op grond van dit besluit kunnen maximaal 1000 personen als buitengewoon opsporingsambtenaar worden beëdigd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de hoofdofficier van justitie bij het Parket CVOM.
 
 2. Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27).
 
-#### Artikel 6
+##### Artikel 6
 
 De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde en vierde lid (vervoersfouillering), van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) omschreven bevoegdheden uitoefenen met gebruikmaking van het vrijheidsbeperkend middel handboeien.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De directeur van NS Groep N.V. brengt jaarlijks, voor 1 april, verslag uit over:
 
@@ -74,19 +100,19 @@ De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde en vierd
 
 2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049791&artikel=5&z=2025-03-04&g=2025-03-04) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
-#### Artikel 8
+##### Artikel 8
 
 De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0049791&artikel=9&z=2025-03-04&g=2025-03-04) genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit.
 
 Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven aktes.
 
-#### Artikel 9
+##### Artikel 9
 
 Het Besluit buitengewoon opsporingsambtenaar NS Groep N.V., Veiligheid en Service 2019 van 17 september 2019 nr. BOACAT2019/049 zal vervallen op 1 oktober 2024.
 
 Dit besluit treedt in werking met ingang van 1 oktober 2024 en vervalt met ingang van 1 oktober 2029.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar NS Groep N.V., Veiligheid en Service 2024.
 

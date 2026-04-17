@@ -1,13 +1,39 @@
 ---
-title: "Regeling Participatiewet, IOAW en IOAZ"
+title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, van 16 oktober 2003, nr. W&B/WWB/2003/78560, Directie Werk en Bijstand, houdende nadere regels terzake van enkele in de Wet werk en bijstand en het Besluit WWB geregelde onderwerpen (Regeling WWB)"
 identifier: "BWBR0015738"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-04-02
-laatste_update: 2026-04-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015738"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-02"
+last_updated: "2026-04-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015738"
+soort: "ministeriele-regeling"
+stam_id: "5449543"
+version_id: "30519182"
+internal_id: "C43752151"
+label_id: "5424304"
+dtd_version: "2.0"
+original_entry_into_force: "2024-12-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015738/2026-04-02/0"
+intitule_bron: "Stcrt.2003-204"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-10-16"
+intitule_published: "2003-10-22"
+intitule_in_force: "2003-10-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-42274"
+original_signed_date: "2024-12-18"
+original_published_date: "2024-12-27"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-42274"
+entry_into_force_date: "2024-12-18"
+jci_1_3: "jci1.3:c:BWBR0015738&z=2026-04-02&g=2026-04-02"
+jci_1_0: "1.0:c:BWBR0015738&g=2026-04-02"
+citeertitel_status: "officieel"
+short_title: "Regeling Participatiewet, IOAW en IOAZ"
+signed_date: "2024-12-18"
+entry_into_force: "2024-12-18"
 ---
-
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, van 16 oktober 2003, nr. W&B/WWB/2003/78560, Directie Werk en Bijstand, houdende nadere regels terzake van enkele in de Wet werk en bijstand en het Besluit WWB geregelde onderwerpen (Regeling WWB)
 
 Gelet op de [artikelen 31, tweede lid, onderdeel l, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=31), [75](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=75), [77, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=77), en [78, tweede lid, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=78), [10, vierde lid, van het Besluit WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015709&artikel=10), en [4.1, vijfde lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=4.1);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -36,15 +62,15 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Beeld van de uitvoering
 
-#### Artikel 2. Verslag over de uitvoering en accountantsverklaring
+##### Artikel 2. Verslag over de uitvoering en accountantsverklaring
 
 Vervallen
 
-#### Artikel 3. Geen accountantsverklaring
+##### Artikel 3. Geen accountantsverklaring
 
 Vervallen
 
-#### Artikel 4. Beeld van de uitvoering
+##### Artikel 4. Beeld van de uitvoering
 
 1. Het beeld van de uitvoering, bedoeld in de [artikelen 77, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=77), [54, eerste lid, van de IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=54) en [54, eerste lid, van de IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=54), wordt voor 1 maart van het kalenderjaar volgend op het kalenderjaar waarop het beeld van de uitvoering betrekking heeft door de minister ontvangen.
 
@@ -60,7 +86,7 @@ Vervallen
 
 #### § 3. Betaling
 
-#### Artikel 5. Betaling
+##### Artikel 5. Betaling
 
 1. Met uitzondering van de maand mei, wordt iedere maand op of omstreeks de vijftiende dag van die maand 8% van de voor het betreffende jaar vastgestelde uitkering, bedoeld in [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69) betaalbaar gesteld. In de maand mei wordt op of omstreeks de vijftiende dag 12% van de uitkeringen betaalbaar gesteld.
 
@@ -70,13 +96,13 @@ Vervallen
 
 #### § 4. Uit- en aanbesteding
 
-#### Artikel 6. Gegevens verdeelmodel
+##### Artikel 6. Gegevens verdeelmodel
 
 In bijlage I bij deze regeling zijn de gewichten en peildata opgenomen die gelden voor de indicatoren, bedoeld in tabel 1 en tabel 3 van de [bijlage bij het Besluit Participatiewet](onbekend) alsmede de normbedragen, bedoeld in tabel 2 van de bijlage bij het Besluit Participatiewet.
 
 #### § 5. Vrijlating uitkeringen en vergoedingen
 
-#### Artikel 7. Vrijlating uitkeringen en vergoedingen
+##### Artikel 7. Vrijlating uitkeringen en vergoedingen
 
 Niet tot de middelen, bedoeld in [artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=31), worden gerekend:
 
@@ -164,7 +190,7 @@ Niet tot de middelen, bedoeld in [artikel 31 van de wet](https://wetten.overheid
 
 #### § 4. Toetsing lijfrenten
 
-#### Artikel 8. Definities
+##### Artikel 8. Definities
 
 In deze paragraaf wordt verstaan onder:
 
@@ -176,15 +202,15 @@ In deze paragraaf wordt verstaan onder:
 
 - d. arbeidskorting: arbeidskorting, bedoeld in [artikel 22a van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22a).
 
-#### Artikel 9. Reikwijdte
+##### Artikel 9. Reikwijdte
 
 Deze paragraaf is van toepassing op de vaststelling van de aanspraak op vakantietoeslag over een inkomen ontvangen in het kalenderjaar 2026.
 
-#### Artikel 10. In aanmerking te nemen vakantietoeslag
+##### Artikel 10. In aanmerking te nemen vakantietoeslag
 
 Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2026-04-02&g=2026-04-02), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2026-04-02&g=2026-04-02), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2026-04-02&g=2026-04-02) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2026-04-02&g=2026-04-02) berekende aanspraak op vakantietoeslag in aanmerking.
 
-#### Artikel 11. Aanspraak op vakantietoeslag voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) met inkomen uit tegenwoordige arbeid
+##### Artikel 11. Aanspraak op vakantietoeslag voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) met inkomen uit tegenwoordige arbeid
 
 Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) nog niet heeft bereikt, het in aanmerking te nemen inkomen loon uit tegenwoordige arbeid betreft en voor de inhouding van loonheffing rekening is gehouden met de arbeidskorting en de algemene heffingskorting, wordt de aanspraak op vakantietoeslag vastgesteld aan de hand van de navolgende tabel, waarbij onder ‘ink’ het inkomen wordt verstaan.
 
@@ -196,7 +222,7 @@ Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a
 | € | 1.059,26 | € | 2.175,48 | 8,00% | x ink | - € 02,67 |
 | € | 2.175,48 |   |   | 5,02% | X ink | - € 01,68 |
 
-#### Artikel 12. Aanspraak op vakantietoeslag voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) met inkomen uit vroegere arbeid
+##### Artikel 12. Aanspraak op vakantietoeslag voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) met inkomen uit vroegere arbeid
 
 Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) nog niet heeft bereikt, het in aanmerking te nemen inkomen loon uit vroegere arbeid betreft en voor de inhouding van loonheffing rekening is gehouden met de algemene heffingskorting wordt de aanspraak op vakantietoeslag vastgesteld aan de hand van de navolgende tabel, waarbij onder ‘ink’ het inkomen wordt verstaan.
 
@@ -209,7 +235,7 @@ Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a
 | € | 1.733,81 | € | 1.851,75 | 7,20% | x ink | - € 18,70 |
 | € | 1.851,75 |   |   | 8,00% | x ink | - € 33,46 |
 
-#### Artikel 13. Aanspraak op vakantietoeslag voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) voor wie geen rekening is gehouden met de algemene heffingskorting
+##### Artikel 13. Aanspraak op vakantietoeslag voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) voor wie geen rekening is gehouden met de algemene heffingskorting
 
 Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) nog niet heeft bereikt en voor de inhouding van loonheffing geen rekening is gehouden met de algemene heffingskorting, wordt de aanspraak op vakantietoeslag vastgesteld aan de hand van de navolgende tabel, waarbij onder ‘ink’ het inkomen wordt verstaan.
 
@@ -218,7 +244,7 @@ Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a
 | gelijk aan of meer dan | gelijk aan of meer dan | en minder dan | en minder dan | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
 | € | 0 |   |   | 8,00% | x ink |   |
 
-#### Artikel 14. Aanspraak op vakantietoeslag voor personen die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) hebben bereikt
+##### Artikel 14. Aanspraak op vakantietoeslag voor personen die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) hebben bereikt
 
 1. Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) heeft bereikt en het inkomen van de belanghebbende bestaat uit een gekort ouderdomspensioen en toeslag als bedoeld in [artikel 13 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=13) bedraagt de daarbij behorende aanspraak op vakantietoeslag voor:
 
@@ -233,7 +259,7 @@ Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a
 
 #### § 7. Toetsingscriteria aanvullende uitkering gemeente
 
-#### Artikel 15. Procedurele bepalingen verzoek vangnetuitkering
+##### Artikel 15. Procedurele bepalingen verzoek vangnetuitkering
 
 1. Een verzoek tot een vangnetuitkering wordt door de toetsingscommissie ontvangen in de periode van 1 januari tot en met 15 augustus van het kalenderjaar volgend op het kalenderjaar waarop het verzoek betrekking heeft.
 
@@ -249,11 +275,11 @@ Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a
 
 #### § 7. Toetsingscriteria aanvullende uitkering gemeente
 
-#### Artikel 16. Inwerkingtreding
+##### Artikel 16. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2004.
 
-#### Artikel 17. Citeertitel
+##### Artikel 17. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Participatiewet, IOAW en IOAZ.
 
@@ -275,7 +301,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die met ingang van 23 oktober 2003 ter inzage worden gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid te ’s-Gravenhage.
 
-#### Artikel 4a. Rechtmatige wetsuitvoering
+##### Artikel 4a. Rechtmatige wetsuitvoering
 
 Vervallen
 
@@ -297,7 +323,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die met ingang van 23 oktober 2003 ter inzage worden gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid te ’s-Gravenhage.
 
-#### Artikel 7a. Indexering
+##### Artikel 7a. Indexering
 
 Vervallen
 
@@ -313,7 +339,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die met ingang van 23 oktober 2003 ter inzage worden gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid te ’s-Gravenhage.
 
-#### Artikel 15a. Bedragen vergoeding centrumgemeenten bijstandverlening ondernemers in de binnenvaart [Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711)
+##### Artikel 15a. Bedragen vergoeding centrumgemeenten bijstandverlening ondernemers in de binnenvaart [Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711)
 
 1. De kosten, bedoeld in [artikel 52, eerste lid, onderdeel b, van het Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&artikel=52), van een aan derden opgedragen onderzoek inzake verlening van algemene bijstand en bijstand ter voorziening in de behoefte aan bedrijfskapitaal aan ondernemers in de binnenvaart komen voor vergoeding in aanmerking, voor zover de kosten per onderzoek niet meer bedragen dan:
 
@@ -325,7 +351,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 #### § 8. Slotbepalingen
 
-#### Artikel 6a. Correctiefactor te late indiening verantwoordingsinformatie
+##### Artikel 6a. Correctiefactor te late indiening verantwoordingsinformatie
 
 De correctiefactor, bedoeld in [artikel 7, vierde lid, van het Besluit Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&artikel=7), bedraagt 5%.
 
@@ -333,7 +359,7 @@ De correctiefactor, bedoeld in [artikel 7, vierde lid, van het Besluit Participa
 
 #### § 7. Verzoeken vangnetuitkering
 
-#### Artikel 5a. Opschorting betaling bij vaststelling ernstige tekortkomingen
+##### Artikel 5a. Opschorting betaling bij vaststelling ernstige tekortkomingen
 
 1. Indien de minister toepassing geeft aan [artikel 76, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=76) schort hij de betaling van de vastgestelde uitkering, bedoeld in [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69) gedurende ten minste drie maanden op met ingang van de eerstvolgende kalendermaand waarin de uitkering nog niet betaalbaar is gesteld.
 
@@ -374,13 +400,13 @@ Voor de verdeelmaatstaven, bedoeld in de [bijlage bij het Besluit WWB 2007](onbe
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die met ingang van 23 oktober 2003 ter inzage worden gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid te ’s-Gravenhage.
 
-#### Artikel 15b. Aantallen beschut werk
+##### Artikel 15b. Aantallen beschut werk
 
 Het aantal ten minste te realiseren dienstbetrekkingen, bedoeld in [artikel 10b, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10b) wordt voor het jaar 2026 vastgesteld op het in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=II&z=2026-04-02&g=2026-04-02) bij deze regeling bepaalde aantal per gemeente.
 
 #### § 8. Slotbepalingen
 
-#### Artikel 15c. Grondslag
+##### Artikel 15c. Grondslag
 
 Deze regeling is mede gebaseerd op de [artikelen 78gg, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=78gg), [20a, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=20a), en [29, zesde lid, van de IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=29) en [20a, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=20a), en [29, zesde lid, van de IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=29).
 
@@ -664,7 +690,7 @@ De huishoudenskenmerken uit tabel 3 zijn gebaseerd op cijfers van het CBS. Het C
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die met ingang van 23 oktober 2003 ter inzage worden gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid te ’s-Gravenhage.
 
-#### Artikel 15aa. Aanvullende uitkering Participatiewet 2015
+##### Artikel 15aa. Aanvullende uitkering Participatiewet 2015
 
 1. Een verzoek tot een aanvullende uitkering wordt door de toetsingscommissie ontvangen in de periode van 1 januari tot en met 15 augustus 2016.
 
@@ -878,7 +904,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die met ingang van 23 oktober 2003 ter inzage worden gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid te ’s-Gravenhage.
 
-#### Artikel 6b. Toetsing inleg lijfrente
+##### Artikel 6b. Toetsing inleg lijfrente
 
 1. Voor de toepassing van [artikel 15, tweede lid, onderdeel b, onder 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=15) wordt de inleg in het jaar van aanvraag van bijstand en de daaraan voorafgaande vier kalenderjaren in beschouwing genomen.
 
@@ -888,7 +914,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 - b. voor de inleg gedaan in de aan de aanvraag voorafgaande vier kalenderjaren: het genoemde bedrag in aanmerking genomen dat geldt op de dag van aanvraag van bijstand.
 
-#### Artikel 6c. Toetsing waarde lijfrente en hoogte inleg
+##### Artikel 6c. Toetsing waarde lijfrente en hoogte inleg
 
 Het bedrag waarmee bij toepassing van [artikel 15, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=15) de inleg het in subonderdeel 3° van dat onderdeel genoemde bedrag overschrijdt, wordt in mindering gebracht op de waarde van de lijfrente of lijfrenten.
 
@@ -1504,7 +1530,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die met ingang van 23 oktober 2003 ter inzage worden gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid te ’s-Gravenhage.
 
-#### Artikel 15ba. Tegemoetkoming alleenverdienersproblematiek
+##### Artikel 15ba. Tegemoetkoming alleenverdienersproblematiek
 
 De tegemoetkoming voor een huishouden dat voldoet aan de voorwaarden, bedoeld in [artikel 78gg, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=78gg), bedraagt:
 

@@ -1,34 +1,58 @@
 ---
 title: "Mandaatbesluit personele bevoegdheden Kabinet der Koningin 1992"
 identifier: "BWBR0005411"
-categorie: "Bestuursrecht"
-publicatiedatum: 1992-02-15
-laatste_update: 1992-02-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005411"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1992-02-15"
+last_updated: "1992-02-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005411"
+soort: "ministeriele-regeling"
+stam_id: "3732533"
+version_id: "5515432"
+internal_id: "C5708521"
+label_id: "3712314"
+dtd_version: "2.0"
+original_entry_into_force: "1992-02-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005411/1992-02-15/0"
+intitule_bron: "Stcrt.1992-32"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-02-03"
+intitule_published: "1992-02-14"
+intitule_in_force: "1992-02-14"
+intitule_status: "goed"
+original_publication: "Stcrt.1992-32"
+original_signed_date: "1992-02-03"
+original_published_date: "1992-02-14"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1992-02-15"
+jci_1_3: "jci1.3:c:BWBR0005411&z=1992-02-15&g=1992-02-15"
+jci_1_0: "1.0:c:BWBR0005411&g=1992-02-15"
+citeertitel_status: "officieel"
+signed_date: "1992-02-03"
+entry_into_force: "1992-02-15"
 ---
-
 # Mandaatbesluit personele bevoegdheden Kabinet der Koningin 1992
 
 Overwegende, dat het wenselijk is, dat in het kader van de decentralisatie van de personeelsfunctie bevoegdheden tot het behandelen en afdoen van personeelsaangelegenheden ten aanzien van het Kabinet der Koningin worden gemandateerd aan de directeur van het Kabinet der Koningin;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De directeur van het Kabinet der Koningin is bevoegd om namens de minister van Binnenlandse Zaken bevoegdheden op personeelsgebied, zoals deze zijn vermeld in de bijlage, uit te oefenen, ten aanzien van de personeelsleden werkzaam bij het Kabinet der Koningin.
 
-#### Artikel 2
+##### Artikel 2
 
 De directeur van het Kabinet der Koningin kan de in het eerste lid bedoelde bevoegdheden, voor zover die aan hem zijn overgedragen, geheel of gedeeltelijk overdragen aan een of meer met name aangewezen functionarissen.
 
 De overdracht van bevoegdheden geschiedt bij schriftelijk door de directeur van het Kabinet der Koningin goed te keuren besluit.
 
-#### Artikel 3
+##### Artikel 3
 
 De uitoefening van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005411&artikel=1&z=1992-02-15&g=1992-02-15) genoemde bevoegdheden geschiedt met inachtneming van de algemene en bijzondere voor de rijksdienst vastgestelde regels, de nadere departementale regelgeving en rekening houdend met de bijzondere positie van het Kabinet der Koningin.
 
-#### Artikel 4
+##### Artikel 4
 
 Bij de uitoefening van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005411&artikel=1&z=1992-02-15&g=1992-02-15) genoemde bevoegdheden door de directeur van het Kabinet der Koningin luidt de ondertekening van de documenten:
 
@@ -42,11 +66,11 @@ voor deze,
 
 (functie-benaming van de ondertekenaar)’.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit kan worden aangehaald als ‘Mandaatbesluit personele bevoegdheden Kabinet der Koningin 1992’.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt gepubliceerd in de Staatscourant en treedt in werking met ingang van de dag volgend op die van de publikatie en werkt terug tot en met 1 januari 1992.
 

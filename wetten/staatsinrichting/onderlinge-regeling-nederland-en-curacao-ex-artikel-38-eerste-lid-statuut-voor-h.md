@@ -1,13 +1,38 @@
 ---
 title: "Onderlinge regeling Nederland en Curaçao ex artikel 38, eerste lid, Statuut voor het Koninkrijk der Nederlanden (verdeling opbrengsten octrooibestel)"
 identifier: "BWBR0045980"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2021-12-03
-laatste_update: 2021-12-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045980"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-12-03"
+last_updated: "2021-12-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045980"
+soort: "ministeriele-regeling"
+stam_id: "16169993"
+version_id: "28215232"
+internal_id: "C39777421"
+label_id: "16098354"
+dtd_version: "2.0"
+original_entry_into_force: "2021-12-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045980/2021-12-03/0"
+intitule_bron: "Stcrt.2021-48646"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-12-02"
+intitule_published: "2021-12-07"
+intitule_in_force: "2021-12-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-48646"
+original_signed_date: "2021-12-02"
+original_published_date: "2021-12-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-48646"
+entry_into_force_date: "2021-12-03"
+jci_1_3: "jci1.3:c:BWBR0045980&z=2021-12-03&g=2021-12-03"
+jci_1_0: "1.0:c:BWBR0045980&g=2021-12-03"
+citeertitel_status: "redactioneel"
+signed_date: "2021-12-02"
+entry_into_force: "2021-12-03"
 ---
-
 # Onderlinge regeling Nederland en Curaçao ex artikel 38, eerste lid, Statuut voor het Koninkrijk der Nederlanden (verdeling opbrengsten octrooibestel)
 
 Overwegende dat
@@ -58,7 +83,7 @@ Komen het volgende overeen:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze onderlinge regeling wordt verstaan onder:
 
@@ -74,11 +99,11 @@ In deze onderlinge regeling wordt verstaan onder:
 
 - **wet:** de [Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007118).
 
-#### Artikel 2. Opbrengsten
+##### Artikel 2. Opbrengsten
 
 Opbrengsten in de zin van deze onderlinge regeling zijn de door Octrooicentrum Nederland op grond van [artikel 61 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=61) ontvangen instandhoudingstaksen, verminderd met de afdracht van instandhoudingstaksen aan het Europees Octrooibureau op grond van artikel 39 van het Europees Octrooiverdrag.
 
-#### Artikel 3. Verdeling en verdeelsleutel
+##### Artikel 3. Verdeling en verdeelsleutel
 
 1. De opbrengsten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045980&artikel=2&z=2021-12-03&g=2021-12-03), worden te rekenen vanaf 10 oktober 2010 verdeeld tussen Nederland, Curaçao en Sint Maarten.
 
@@ -86,7 +111,7 @@ Opbrengsten in de zin van deze onderlinge regeling zijn de door Octrooicentrum N
 
 3. Na de vaststelling van de nieuwe verdeelsleutel worden de verschillen verrekend.
 
-#### Artikel 4. Financiële afwikkeling
+##### Artikel 4. Financiële afwikkeling
 
 1. Octrooicentrum Nederland is belast met de verdeling van de opbrengsten en met de betaling aan BIP Curaçao van het aan Curaçao toekomende aandeel, overeenkomstig de verdeelsleutel die in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045980&artikel=3&z=2021-12-03&g=2021-12-03) is vastgesteld.
 
@@ -102,7 +127,7 @@ Opbrengsten in de zin van deze onderlinge regeling zijn de door Octrooicentrum N
 
 7. Over het totaal bedrag van de opbrengsten van 1 januari 2014 tot en met 31 december 2020 wordt eenmalig een rente vergoed van 13%. Dit komt neer op een door BIP Curaçao te ontvangen totaal bedrag van 3.019.462. Euro. Over de opbrengsten van het jaar 2021 wordt een rente vergoed van 3%, voor zover betaling ten aanzien van het jaar 2021 geschiedt na 31 december 2021.
 
-#### Artikel 5. Accountantscontrole
+##### Artikel 5. Accountantscontrole
 
 1. De Auditdienst van het Rijk toetst de financiële verantwoording van Octrooicentrum Nederland aan de toepasselijke wet- en regelgeving. De opbrengsten maken onderdeel uit van de controle door de Auditdienst van het Rijk.
 
@@ -116,10 +141,10 @@ Opbrengsten in de zin van deze onderlinge regeling zijn de door Octrooicentrum N
 
 6. De kosten voor de in het vierde lid bedoelde controle komen voor rekening van degene die daartoe opdracht heeft gegeven.
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Deze onderlinge regeling treedt in werking met ingang van de dag na de datum van ondertekening, en werkt terug tot en met 10 oktober 2010.
 
-#### Artikel 7. Bekendmaking
+##### Artikel 7. Bekendmaking
 
 Binnen een maand na ondertekening wordt de tekst van deze onderlinge regeling in de Staatscourant en de Landscourant geplaatst.

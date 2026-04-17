@@ -1,20 +1,46 @@
 ---
-title: "Mandaatbesluit beheer en bevoegdheden directeur bedrijfsvoering Hoge Raad 2015"
+title: "Besluit van de Minister van Veiligheid en Justitie van 7 mei 2015, nr. 632570, houdende verlening van mandaat, volmacht en machtiging inzake beheeraangelegenheden en enkele rechtspositionele bevoegdheden aan de directeur bedrijfsvoering van de Hoge Raad der Nederlanden (Mandaatregeling beheer en bevoegdheden directeur bedrijfsvoering Hoge Raad 2015)"
 identifier: "BWBR0036622"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-03-27
-laatste_update: 2020-03-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036622"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-03-27"
+last_updated: "2020-03-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036622"
+soort: "ministeriele-regeling"
+stam_id: "13155773"
+version_id: "26584802"
+internal_id: "C37728881"
+label_id: "13124384"
+dtd_version: "2.0"
+original_entry_into_force: "2020-03-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036622/2020-03-27/0"
+intitule_bron: "Stcrt.2015-13198"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-05-07"
+intitule_published: "2015-05-18"
+intitule_in_force: "2015-05-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-17339"
+original_signed_date: "2020-03-13"
+original_published_date: "2020-03-26"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2020-17339"
+entry_into_force_date: "2020-03-13"
+jci_1_3: "jci1.3:c:BWBR0036622&z=2020-03-27&g=2020-03-27"
+jci_1_0: "1.0:c:BWBR0036622&g=2020-03-27"
+citeertitel_status: "officieel"
+short_title: "Mandaatbesluit beheer en bevoegdheden directeur bedrijfsvoering Hoge Raad 2015"
+signed_date: "2020-03-13"
+entry_into_force: "2020-03-13"
 ---
-
 # Besluit van de Minister van Veiligheid en Justitie van 7 mei 2015, nr. 632570, houdende verlening van mandaat, volmacht en machtiging inzake beheeraangelegenheden en enkele rechtspositionele bevoegdheden aan de directeur bedrijfsvoering van de Hoge Raad der Nederlanden (Mandaatregeling beheer en bevoegdheden directeur bedrijfsvoering Hoge Raad 2015)
 
 Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9), en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12), [artikel 32, vierde lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=32) en de [Organisatieregeling beheer Hoge Raad 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036621);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -34,17 +60,17 @@ In dit besluit wordt verstaan onder:
 
 - h. **Brra:** [Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530).
 
-#### Artikel 2
+##### Artikel 2
 
 De directeur bedrijfsvoering van de Hoge Raad wordt aangewezen als de vertegenwoordiger van de werkgever in de zin van paragraaf 1.2 van de CAO Rijk en als de hoogste ambtelijk leidinggevende in de zin van paragraaf 27.2 van de CAO Rijk ten aanzien van de bij de beheerorganisatie werkzame gerechtsambtenaren.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan de directeur bedrijfsvoering van de Hoge Raad wordt mandaat, volmacht en machtiging verleend ten aanzien van de beheeraangelegenheden van de Hoge Raad, met uitzondering van de bevoegdheid beslissingen te nemen ten aanzien van financiële vergoedingen voor zover deze betrekking hebben op immateriële schade, dan wel financiële vergoedingen voor materiële schade die gecumuleerd € 10.000 overstijgen.
 
 2. Besluiten ten aanzien van het aangaan van een arbeidsovereenkomst, de bevordering en het ontslag alsmede ten aanzien van disciplinaire maatregelen van functionarissen, niet zijnde rechterlijke ambtenaren op managementfuncties in schaal 14 en hoger, worden niet genomen dan nadat het Centraal Loopbaanberaad van het Ministerie van Justitie en Veiligheid daarmee heeft ingestemd.
 
-#### Artikel 4
+##### Artikel 4
 
 Aan de directeur bedrijfsvoering van de Hoge Raad wordt mandaat, volmacht en machtiging verleend ten aanzien van de volgende bevoegdheden:
 
@@ -86,25 +112,25 @@ Aan de directeur bedrijfsvoering van de Hoge Raad wordt mandaat, volmacht en mac
 
 - s. de bevoegdheden, bedoeld in [artikel 73, derde en vierde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=73), tot benoeming en ontslag van waarnemend griffiers.
 
-#### Artikel 5
+##### Artikel 5
 
 De directeur bedrijfsvoering van de Hoge Raad handelt bij de uitoefening van de gemandateerde bevoegdheden, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036622&artikel=3&z=2020-03-27&g=2020-03-27) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036622&artikel=4&z=2020-03-27&g=2020-03-27), binnen de door de Directeur Rechtsbestel van het ministerie van Justitie en Veiligheid vastgestelde financiële kaders voor het beheer van de Hoge Raad.
 
-#### Artikel 6
+##### Artikel 6
 
 De [Mandaatregeling beheer Hoge Raad](https://wetten.overheid.nl/jci1.3:c:BWBR0018044) wordt ingetrokken.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin deze wordt geplaatst.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Mandaatbesluit beheer en bevoegdheden directeur bedrijfsvoering Hoge Raad 2015.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5a
+##### Artikel 5a
 
 De directeur bedrijfsvoering wordt bij afwezigheid vervangen door het hoofd van de afdeling Personeel en Organisatie.
 

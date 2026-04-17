@@ -1,20 +1,46 @@
 ---
-title: "Regeling aanvraag plaatsing op een andere dan de ambtenaar opgedragen functie"
+title: "Regeling van de Minister van Veiligheid en Justitie van 4 juli 2016, nr. DGP/ARBVW 2016-777969, houdende de mogelijkheid tot wijziging van de functie op aanvraag van de ambtenaar"
 identifier: "BWBR0038360"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2025-04-01
-laatste_update: 2025-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038360"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-04-01"
+last_updated: "2025-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038360"
+soort: "ministeriele-regeling"
+stam_id: "13716853"
+version_id: "29233982"
+internal_id: "C41532081"
+label_id: "13683304"
+dtd_version: "2.0"
+original_entry_into_force: "2023-01-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038360/2025-04-01/0"
+intitule_bron: "Stcrt.2016-38696"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-07-04"
+intitule_published: "2016-07-25"
+intitule_in_force: "2016-07-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-4032"
+original_signed_date: "2023-01-26"
+original_published_date: "2023-02-07"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2023-4032"
+entry_into_force_date: "2023-01-26"
+jci_1_3: "jci1.3:c:BWBR0038360&z=2025-04-01&g=2025-04-01"
+jci_1_0: "1.0:c:BWBR0038360&g=2025-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling aanvraag plaatsing op een andere dan de ambtenaar opgedragen functie"
+signed_date: "2023-01-26"
+entry_into_force: "2023-01-26"
 ---
-
 # Regeling van de Minister van Veiligheid en Justitie van 4 juli 2016, nr. DGP/ARBVW 2016-777969, houdende de mogelijkheid tot wijziging van de functie op aanvraag van de ambtenaar
 
 Gelet op [artikel 6, negende lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=6),
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -36,13 +62,13 @@ In deze regeling wordt verstaan onder:
 
 - i. **wezenlijk afwijken:** het afwijken van de huidige functie, bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=1a&z=2025-04-01&g=2025-04-01).
 
-#### Artikel 2
+##### Artikel 2
 
 1. In de aanvraag maakt de ambtenaar aannemelijk dat hij tenminste een jaar voorafgaand aan de aanvraag, feitelijke werkzaamheden heeft verricht die wezenlijk afwijken van zijn huidige functie dan wel overeenkomen met een werkterrein, een aandachtsgebied of een specifieke functionaliteit.
 
 2. Onder tenminste een jaar voorafgaand als bedoeld in het eerste lid wordt verstaan de werkzaamheden die ten minste tot zes weken voor de aanvraag worden verricht.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het bevoegd gezag wijst de aanvraag toe, indien de feitelijke werkzaamheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=2&z=2025-04-01&g=2025-04-01):
 
@@ -56,13 +82,13 @@ In deze regeling wordt verstaan onder:
 
 2. In afwijking van het eerste lid wijst het bevoegd gezag de aanvraag af en geeft daarbij toepassing aan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=5&z=2025-04-01&g=2025-04-01), indien een zwaarwegend dienstbelang zich tegen plaatsing op de andere functie verzet dan wel indien de ambtenaar verzoekt niet tot plaatsing op een andere functie over te gaan.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien het bevoegd gezag op basis van de aanvraag besluit om de ambtenaar een andere functie dan wel een werkterrein, een aandachtsgebied of een specifieke functionaliteit toe te kennen overeenkomstig de feitelijk opgedragen werkzaamheden, legt het bevoegd gezag dit in een besluit vast.
 
 2. Aan de ambtenaar wordt de andere functie dan wel het werkterrein, het aandachtsgebied of de specifieke functionaliteit opgedragen met ingang van de dag waarop de aanvraag is ingediend.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien het bevoegd gezag besluit om de ambtenaar geen andere functie dan wel geen ander werkterrein, aandachtsgebied of specifieke functionaliteit toe te kennen, wordt de opdracht gegeven om de feitelijke werkzaamheden, voor zover deze afwijken van de huidige functie dan wel van een werkterrein, een aandachtsgebied of een specifieke functionaliteit, te staken. Het bevoegd gezag legt deze beslissing vast in een besluit.
 
@@ -72,29 +98,29 @@ In deze regeling wordt verstaan onder:
 
 4. Dit artikel is niet van toepassing indien het bevoegd gezag de aanvraag afwijst op grond van het [eerste lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=3&z=2025-04-01&g=2025-04-01).
 
-#### Artikel 6
+##### Artikel 6
 
 Voorafgaand aan een besluit als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=3&z=2025-04-01&g=2025-04-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=4&z=2025-04-01&g=2025-04-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=5&z=2025-04-01&g=2025-04-01) stelt het bevoegd gezag de ambtenaar in de gelegenheid zijn zienswijze naar voren te brengen.
 
-#### Artikel 7
+##### Artikel 7
 
 In individuele gevallen waarin deze regeling niet of niet naar billijkheid voorziet, kan het bevoegd gezag een bijzondere voorziening treffen.
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling aanvraag plaatsing op een andere dan de ambtenaar opgedragen functie.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. De werkzaamheden van een ambtenaar wijken wezenlijk af van de huidige functie, indien die werkzaamheden:
 

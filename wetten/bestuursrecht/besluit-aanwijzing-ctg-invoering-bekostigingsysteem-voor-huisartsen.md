@@ -1,13 +1,38 @@
 ---
-title: "Besluit aanwijzing CTG invoering bekostigingsysteem voor huisartsen"
+title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 9 mei 2005, nr. MC/MO-2580975, houdende aanwijzing aan het CTG tot invoering van een nieuw bekostigingsysteem voor huisartsen"
 identifier: "BWBR0018312"
-categorie: "Bestuursrecht"
-publicatiedatum: 2006-01-01
-laatste_update: 2006-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018312"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2006-01-01"
+last_updated: "2006-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018312"
+soort: "ministeriele-regeling"
+stam_id: "6999453"
+version_id: "11875572"
+internal_id: "C15967291"
+label_id: "6987534"
+original_entry_into_force: "2006-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018312/2006-01-01/0"
+intitule_bron: "Stcrt.2005-92"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-05-09"
+intitule_published: "2005-05-17"
+intitule_in_force: "2005-05-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-92"
+original_signed_date: "2005-05-09"
+original_published_date: "2005-05-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-92-p12-SC69912"
+entry_into_force_date: "2006-01-01"
+jci_1_3: "jci1.3:c:BWBR0018312&z=2006-01-01&g=2006-01-01"
+jci_1_0: "1.0:c:BWBR0018312&g=2006-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit aanwijzing CTG invoering bekostigingsysteem voor huisartsen"
+signed_date: "2005-05-09"
+entry_into_force: "2006-01-01"
 ---
-
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 9 mei 2005, nr. MC/MO-2580975, houdende aanwijzing aan het CTG tot invoering van een nieuw bekostigingsysteem voor huisartsen
 
 Gelet op [artikel 13 van de Wet tarieven gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0003356&artikel=13);
@@ -18,19 +43,19 @@ Na schriftelijke mededeling te hebben gedaan aan de Eerste en Tweede Kamer der S
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Dit besluit is van toepassing op organen voor gezondheidszorg als vermeld in [artikel 1 onder B. nummer 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005342&artikel=1) en door instellingen als vermeld in [artikel 1 onder A., nummer 22, 32 en 33 van het Besluit werkingssfeer WTG 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005342&artikel=1) (Stb. 1991,732) laatstelijk gewijzigd bij Besluit van 5 november 2002 (Stb. 2002, 549). Ter uitvoering van dit besluit stelt het College tarieven gezondheidszorg beleidsregels vast voor de in de eerste volzin bedoelde organen.
 
-#### Artikel 2
+##### Artikel 2
 
 Het College voert een consultvergoeding in voor huisartsenzorg geleverd door organen zoals onder [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018312&artikel=1&z=2006-01-01&g=2006-01-01) bedoeld. De hoogte van het consulttarief wordt gebaseerd op een bedrag van € 467 miljoen. Het rekenaantal consulten per normpraktijk bedraagt 9753.
 
-#### Artikel 3
+##### Artikel 3
 
 Het College voert een inschrijvingstarief in. Dit inschrijvingstarief zal de verzekerde bij eerste inschrijving in de praktijk en vervolgens jaarlijks verschuldigd zijn. Er is voor de invulling van het inschrijvingstarief in 2006 een macrobedrag van € 773 mln. (725 + 48) beschikbaar. Vanaf 2007 is er € 725 mln. beschikbaar. Het tarief is gebaseerd op de huidige normpraktijk van 2350 ingeschreven patiënten.
 
-#### Artikel 4
+##### Artikel 4
 
 Binnen het nieuwe bekostigingssysteem wordt er een vrije ruimte gecreëerd met de invoering van drie modules. Het College geeft de modules vorm met een nieuw in te voeren spiltarief. Kenmerk van dit tarief is dat er een spilbedrag wordt vastgesteld waarop een afwijking mogelijk is. Bij de bepaling van deze spiltarieven is 6851 fulltime praktijken het uitgangspunt. Het tarief dient per ingeschreven patiënt in rekening te kunnen worden gebracht, gerelateerd aan de huidige normpraktijk van 2350 ingeschreven patiënten.
 
@@ -42,17 +67,17 @@ Binnen het nieuwe bekostigingssysteem wordt er een vrije ruimte gecreëerd met d
 
 Voor de module POH is € 49 miljoen beschikbaar.
 
-#### Artikel 5
+##### Artikel 5
 
 Het college geeft vorm aan een nieuw in te voeren passantentarief.
 
 Dit tarief kan aan de verzekerde in rekening worden gebracht als deze zich genoodzaakt ziet gebruik te maken van de diensten van een huisartspraktijk waar hij niet is ingeschreven. Het tarief wordt bepaald door het kostenbestanddeel voorcalculatorisch 2005 voor particuliere patiënten ad € 97.566 af te zetten tegen de contactfrequentie zoals deze onder [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018312&artikel=2&z=2006-01-01&g=2006-01-01) is genoemd, verhoogd met de reguliere consultvergoeding.
 
-#### Artikel 6
+##### Artikel 6
 
 Het college stelt voor verloskundig actieve huisartsen een tarief voor volledige verloskundige hulp vast, gebaseerd op het huidige niet onderbouwde ziekenfondstarief van € 580 en niet onderbouwde particulier tarief van € 760,50. Het tarief wordt zo vorm gegeven dat er sprake is van macroneutrale uitvoering. Uitgangspunt daarbij is een verhouding van 63% ziekenfonds en 37% particuliere patiënten.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
 

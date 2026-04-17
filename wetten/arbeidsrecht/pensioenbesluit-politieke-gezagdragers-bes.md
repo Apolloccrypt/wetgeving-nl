@@ -1,18 +1,43 @@
 ---
 title: "Pensioenbesluit politieke gezagdragers BES"
 identifier: "BWBR0028554"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2015-04-01
-laatste_update: 2015-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028554"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2015-04-01"
+last_updated: "2015-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028554"
+soort: "AMvB-BES"
+stam_id: "10848713"
+version_id: "17829252"
+internal_id: "C24911191"
+label_id: "10823814"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028554/2015-04-01/0"
+intitule_bron: "Stb.2010-406"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-23"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-406"
+original_signed_date: "2010-09-23"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-406"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028554&z=2015-04-01&g=2015-04-01"
+jci_1_0: "1.0:c:BWBR0028554&g=2015-04-01"
+citeertitel_status: "officieel"
+signed_date: "2010-09-23"
+entry_into_force: "2010-10-10"
 ---
-
 # Pensioenbesluit politieke gezagdragers BES
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -30,13 +55,13 @@ In dit besluit wordt verstaan onder:
 
 - g. **bevoegde gezag:** het bestuurscollege van het betrokken openbaar lichaam.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Dit besluit is niet van toepassing op een lid van de eilandsraad van een openbaar lichaam dat is benoemd in een plaats die is opengevallen als gevolg van het tijdelijk ontslag van een lid van de eilandsraad van een openbaar lichaam wegens zwangerschap en bevalling of ziekte, ingevolge [artikel Ya 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Ya_13) juncto [X 10, eerste of tweede lid van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_10).
 
 ### Hoofdstuk 2. De uitkering
 
-#### Artikel 2
+##### Artikel 2
 
 1. De politieke gezagdrager aan wie ontslag is verleend en die op het tijdstip van ontslag de leeftijd als bedoeld in [artikel 6 van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=6) nog niet heeft bereikt, heeft met ingang van de dag waarop het ontslag ingaat recht op een uitkering ingevolge de volgende artikelen.
 
@@ -48,7 +73,7 @@ Dit besluit is niet van toepassing op een lid van de eilandsraad van een openbaa
 
 - c. wegens enig strafbaar feit is veroordeeld waaruit blijkt dat deze zich naar het oordeel van Onze Minister uit nationaal oogpunt onwaardig heeft gedragen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het recht wordt toegekend voor de duur gelijk aan de tijd waarin betrokkene politieke gezagdrager is geweest, maar ten minste voor de duur van één jaar en ten hoogste voor de duur van twee jaren.
 
@@ -56,7 +81,7 @@ Dit besluit is niet van toepassing op een lid van de eilandsraad van een openbaa
 
 3. In het geval van beëindiging van de uitkering op grond van [artikel 8, sub c](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=8&z=2015-04-01&g=2015-04-01), wordt de volgende uitkering toegekend ten minste tot het tijdstip waarop de eerstbedoelde uitkering zou zijn geëindigd, indien daarvan het recht niet tussentijds was geëindigd.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. De betrokkene die recht heeft op een uitkering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=2&z=2015-04-01&g=2015-04-01), is verplicht:
 
@@ -102,7 +127,7 @@ Dit besluit is niet van toepassing op een lid van de eilandsraad van een openbaa
 
 6. Dit artikel is niet van toepassing gedurende de eerste drie maanden na het aftreden van de betrokkene.
 
-#### Artikel 3b
+##### Artikel 3b
 
 1. Het bevoegde gezag kan de betrokkene, bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=3a&z=2015-04-01&g=2015-04-01), verplichten zich bij het gericht zoeken naar en verwerven van passende arbeid planmatig te laten begeleiden en ondersteunen.
 
@@ -118,13 +143,13 @@ Dit besluit is niet van toepassing op een lid van de eilandsraad van een openbaa
 
 - c. de eisen die worden gesteld aan de organisatie die de planmatige ondersteuning uitvoert.
 
-#### Artikel 3c
+##### Artikel 3c
 
 1. Indien de betrokkene een bij of krachtens [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=3a&z=2015-04-01&g=2015-04-01) of [3b](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=3b&z=2015-04-01&g=2015-04-01) geregelde verplichting niet of niet behoorlijk is nagekomen, besluit het bevoegde gezag tot gehele of gedeeltelijke inhouding van de uitkering. Het bevoegde gezag is bevoegd tot verrekening van de inhouding van de uitkering met betalingen aan betrokkene op grond van dit besluit.
 
 2. Bij ministeriële regeling worden regels gesteld met betrekking tot de uitvoering van het eerste lid.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De uitkering bedraagt gedurende de eerste drie maanden 95 procent, de daarop volgende zeven maanden 85 procent, de daarop volgende tien maanden 75 procent en vervolgens 70 procent van de bezoldiging als politieke gezagdrager.
 
@@ -136,7 +161,7 @@ Dit besluit is niet van toepassing op een lid van de eilandsraad van een openbaa
 
 5. Bij ministeriële regeling, kunnen omtrent de vaststelling van de bezoldiging bedoeld in het tweede lid, en de overeenkomstige wijziging bedoeld in het vierde lid, nadere regels worden gesteld.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien de gewezen politieke gezagdrager op de dag waarop de duur van de uitkering eindigt, door ziekten of gebreken ongeschikt is om zijn vroegere functie van politieke gezagdrager te vervullen, wordt de uitkering voor de duur van de ongeschiktheid voortgezet met inachtneming van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=6&z=2015-04-01&g=2015-04-01).
 
@@ -144,7 +169,7 @@ Dit besluit is niet van toepassing op een lid van de eilandsraad van een openbaa
 
 3. Ter beantwoording van de vraag of sprake is van ongeschiktheid bedoeld in het eerste lid, doet het bevoegde gezag een onderzoek instellen door een door hem aangewezen commissie van geneeskundigen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De voortzetting van de uitkering geschiedt op aanvraag van betrokkene en voor termijnen niet langer dan twee jaar, onverminderd het in dit besluit bepaalde over de beëindiging van de uitkering.
 
@@ -152,7 +177,7 @@ Dit besluit is niet van toepassing op een lid van de eilandsraad van een openbaa
 
 3. Ter beantwoording van de vraag of sprake is van ongeschiktheid na afloop van een in het eerste lid bedoelde termijn, kan het bevoegde gezag een onderzoek doen instellen als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=5&z=2015-04-01&g=2015-04-01).
 
-#### Artikel 7
+##### Artikel 7
 
 1. De inkomsten die de gewezen politieke gezagdrager geniet, worden met de uitkering verrekend over de maand waarop die inkomsten betrekking hebben of geacht kunnen worden betrekking te hebben.
 
@@ -172,7 +197,7 @@ Dit besluit is niet van toepassing op een lid van de eilandsraad van een openbaa
 
 5. De verrekening geschiedt aldus dat de uitkering wordt verminderd met het bedrag waarmee de uitkering, vermeerderd met die inkomsten, de bezoldiging waarvan de uitkering is afgeleid, overschrijdt.
 
-#### Artikel 8
+##### Artikel 8
 
 Het recht op uitkering eindigt met ingang van de dag waarop de gewezen politieke gezagdrager:
 
@@ -186,7 +211,7 @@ Het recht op uitkering eindigt met ingang van de dag waarop de gewezen politieke
 
 - e. wegens enig strafbaar feit is veroordeeld waaruit blijkt dat deze zich naar het oordeel van Onze Minister uit nationaal oogpunt onwaardig heeft gedragen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Zo spoedig mogelijk na het overlijden van de gewezen politieke gezagdrager die recht heeft op een uitkering, wordt aan diens nabestaande, van wie de overledene niet duurzaam gescheiden leefde, een bedrag uitgekeerd gelijk aan de uitkering van de politieke gezagdrager over een tijdvak van twee maanden.
 
@@ -196,19 +221,19 @@ Het recht op uitkering eindigt met ingang van de dag waarop de gewezen politieke
 
 4. Laat de overledene geen betrekkingen, als bedoeld in het eerste en tweede lid na, dan kan het aldaar bedoelde bedrag geheel of gedeeltelijk worden uitgekeerd voor de betaling van de kosten van de laatste ziekte en de lijkbezorging, indien de nalatenschap voor de betaling van die kosten ontoereikend is.
 
-#### Artikel 10
+##### Artikel 10
 
 De uitkering wordt, over een maand berekend, in maandelijkse termijnen betaald.
 
 ### Hoofdstuk 3. Het ouderdomspensioen
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een politieke gezagdrager heeft na ontslag recht op pensioen, indien hij op de dag van ingang van het ontslag de leeftijd als bedoeld in [artikel 6 van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=6) heeft bereikt, tenzij hij op dat tijdstip opnieuw als politieke gezagdrager optreedt.
 
 2. Een gewezen politieke gezagdrager verkrijgt recht op pensioen bij het bereiken van die leeftijd, tenzij hij op dat tijdstip opnieuw politieke gezagdrager is of wordt.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
@@ -228,7 +253,7 @@ De uitkering wordt, over een maand berekend, in maandelijkse termijnen betaald.
 
 3. Indien de betrokkene meerdere malen in dezelfde categorie als bedoeld in [artikel 1, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=1&artikel=1&z=2015-04-01&g=2015-04-01), een functie als politieke gezagdrager heeft vervuld, geldt voor de toepassing van het eerste lid, sub b, het laatste ontslag in de functie behorend tot die categorie.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het pensioen bedraagt jaarlijks:
 
@@ -244,7 +269,7 @@ De uitkering wordt, over een maand berekend, in maandelijkse termijnen betaald.
 
 5. In de gevallen dat de tijd doorgebracht als politieke gezagdrager in eenzelfde categorie in totaal langer dan twaalf maanden heeft geduurd, bedraagt het ingevolge dit artikel voor de desbetreffende categorie berekende pensioen ten minste USD 161 voor ieder geheel jaar in die hoedanigheid doorgebrachte tijd, welk bedrag wordt verhoogd met USD 13,50 voor elke resterende gehele maand met dien verstande dat een resterende tijd van minder dan een maand voor een gehele maand wordt gerekend.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Indien de bezoldiging van de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=1), wijziging ondergaat, wordt de pensioengrondslag met ingang van de datum waarop die wijziging ingaat overeenkomstig deze wijziging aangepast. De toegekende pensioenen worden dienovereenkomstig opnieuw vastgesteld.
 
@@ -254,7 +279,7 @@ De uitkering wordt, over een maand berekend, in maandelijkse termijnen betaald.
 
 ### Hoofdstuk 4. Het nabestaandenpensioen en wezenpensioen
 
-#### Artikel 15
+##### Artikel 15
 
 1. Recht op nabestaandenpensioen heeft de nabestaande van een politieke gezagdrager, gewezen politieke gezagdrager of gepensioneerde politieke gezagdrager.
 
@@ -268,13 +293,13 @@ De uitkering wordt, over een maand berekend, in maandelijkse termijnen betaald.
 
 4. Van een wezenlijke onderbreking is geen sprake indien deze ten hoogste twee maanden heeft geduurd.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Recht op bijzonder nabestaandenpensioen heeft de vrouw of man met wie een overleden politieke gezagdrager, gewezen politieke gezagdrager of gepensioneerde politieke gezagdrager gehuwd is geweest, mits hij of zij recht op nabestaandenpensioen zou hebben gehad, indien de politieke gezagdrager, gewezen politieke gezagdrager of gepensioneerde politieke gezagdrager zou zijn overleden op de dag, waarop het vonnis, waarbij de echtscheiding of de ontbinding van het huwelijk is uitgesproken, is ingeschreven in het daartoe ingestelde register.
 
 2. Het eerste lid is niet van toepassing indien de desbetreffende vrouw of man als gevolg van een huwelijk met dezelfde politieke gezagdrager ter zake van diens overlijden recht op nabestaandenpensioen verkrijgt.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Recht op wezenpensioen hebben na het overlijden van een politieke gezagdrager, gewezen politieke gezagdrager of gepensioneerde politieke gezagdrager:
 
@@ -292,13 +317,13 @@ De uitkering wordt, over een maand berekend, in maandelijkse termijnen betaald.
 
 3. Het eerste en tweede lid zijn niet van toepassing op deze kinderen, indien zij zijn geboren, dan wel de pleegouderlijke zorg is begonnen nadat aan de betrokkene ontslag als politieke gezagdrager is verleend. [Artikel 15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&artikel=15&z=2015-04-01&g=2015-04-01), zijn van overeenkomstige toepassing.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Indien een politieke gezagdrager, gewezen politieke gezagdrager of gepensioneerde politieke gezagdrager naar het oordeel van het bevoegde gezag is vermist, hebben degenen die aan het overlijden van de politieke gezagdrager, gewezen politieke gezagdrager of gepensioneerde politieke gezagdrager recht op pensioen zouden ontlenen, recht op tijdelijk pensioen op dezelfde voet als in de voorgaande artikelen van dit hoofdstuk is omschreven.
 
 2. Het tijdelijke pensioen gaat van rechtswege over in een voortdurend pensioen zodra het vermoedelijke overlijden van de vermiste is vastgesteld.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het nabestaandenpensioen bedraagt zeventig procent van het pensioen, waarop de overleden politieke gezagdrager als zodanig recht zou hebben gehad indien hij met ingang van de dag na die van het overlijden was ontslagen of waarop de overleden gewezen of gepensioneerde politieke gezagdrager als zodanig op de dag van overlijden uitzicht respectievelijk recht had.
 
@@ -308,7 +333,7 @@ De uitkering wordt, over een maand berekend, in maandelijkse termijnen betaald.
 
 - b. als gewezen politieke gezagdrager in de periode, waarover hem een uitkering is toegekend, vijf zevende deel van het pensioen waarop die gewezen politieke gezagdrager recht zou hebben, indien hij tot het bereiken van de leeftijd als bedoeld in [artikel 6 van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=6) recht op uitkering zou hebben gehad, met dien verstande, dat voor de berekening van het pensioen de diensttijd wordt doorgeteld in de mate waarin deze op grond van het bepaalde in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=3&artikel=12&z=2015-04-01&g=2015-04-01), als diensttijd geldt op de dag van overlijden.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Het bijzonder nabestaandenpensioen van de nabestaande van een politieke gezagdrager, gewezen politieke gezagdrager of gepensioneerde politieke gezagdrager wordt op dezelfde wijze berekend als het pensioen van de nabestaande van een politieke gezagdrager, gewezen politieke gezagdrager of gepensioneerde politieke gezagdrager, met dien verstande dat slechts de diensttijd meetelt die is gelegen vóór de ontbinding van het huwelijk.
 
@@ -316,11 +341,11 @@ De uitkering wordt, over een maand berekend, in maandelijkse termijnen betaald.
 
 3. Indien er bij een overlijden recht bestaat op een of meer bijzondere nabestaandenpensioenen wordt het nabestaandenpensioen dat aan hetzelfde overlijden wordt ontleend met het bedrag daarvan verminderd.
 
-#### Artikel 21
+##### Artikel 21
 
 Indien een nabestaande hertrouwt, wordt het pensioen van betrokkene opnieuw vastgesteld vanaf de maand volgende op die waarin de nabestaande hertrouwt. Daarbij wordt uitsluitend de voor pensioen in aanmerking komende diensttijd van de politieke gezagdrager, gewezen politieke gezagdrager of gepensioneerde politieke gezagdrager in aanmerking genomen, die gelegen is voor het tijdstip van diens overlijden.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Het wezenpensioen bedraagt:
 
@@ -330,7 +355,7 @@ Indien een nabestaande hertrouwt, wordt het pensioen van betrokkene opnieuw vast
 
 2. Voor de toepassing van het eerste lid wordt onder ouder mede begrepen de nabestaande die op het tijdstip van het overlijden van de politieke gezagdrager, gewezen politieke gezagdrager of gepensioneerde politieke gezagdrager de pleegouderlijke zorg had van het kind, bedoeld in [artikel 17, eerste lid, sub c](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&artikel=17&z=2015-04-01&g=2015-04-01).
 
-#### Artikel 23
+##### Artikel 23
 
 1. Het wezenpensioen wordt overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&artikel=22&z=2015-04-01&g=2015-04-01) herberekend, wanneer het nabestaandenpensioen of het bijzonder nabestaandenpensioen van de ouder wegens diens overlijden is geëindigd.
 
@@ -338,17 +363,17 @@ Indien een nabestaande hertrouwt, wordt het pensioen van betrokkene opnieuw vast
 
 3. Voor de toepassing van dit artikel is [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&artikel=22&z=2015-04-01&g=2015-04-01), van overeenkomstige toepassing.
 
-#### Artikel 24
+##### Artikel 24
 
 Het tijdelijk pensioen is gelijk aan het pensioen waarop recht zou bestaan indien de vermiste op de dag van de vermissing was overleden.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Het gezamenlijk bedrag van de pensioenen, bedoeld in dit hoofdstuk, gaat het pensioenbedrag waarvan die pensioenen zijn afgeleid niet te boven.
 
 2. Indien wegens toepassing van het eerste lid de daarbedoelde pensioengedeelten een vermindering moeten ondergaan, geschiedt deze in evenredigheid van de onderscheidene bedragen.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Zo spoedig mogelijk na het overlijden van een gepensioneerde politieke gezagdrager wordt aan diens nabestaande, van wie hij niet duurzaam gescheiden leefde, een uitkering toegekend ten bedrage van het pensioen van die politieke gezagdrager over een tijdvak van twee maanden.
 
@@ -360,7 +385,7 @@ Het tijdelijk pensioen is gelijk aan het pensioen waarop recht zou bestaan indie
 
 ### Hoofdstuk 5. Toekenning en betaling van pensioen en uitkering
 
-#### Artikel 27
+##### Artikel 27
 
 1. Het bevoegde gezag beslist over de toekenning van uitkering en pensioen op aanvraag van de politieke gezagdragers. De stukken die het bevoegde gezag nodig acht voor de behandeling van de aanvraag dienen te worden overgelegd.
 
@@ -370,7 +395,7 @@ Het tijdelijk pensioen is gelijk aan het pensioen waarop recht zou bestaan indie
 
 4. In een beschikking tot toekenning worden de voor de uitkering in aanmerking genomen, dan wel voor het pensioen medetellende diensttijd, alsmede het bedrag waarover deze zijn berekend, vastgesteld.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Het bevoegde gezag draagt zorg voor de betaling van de uitkeringen van de politieke gezagdragers.
 
@@ -384,25 +409,25 @@ Het tijdelijk pensioen is gelijk aan het pensioen waarop recht zou bestaan indie
 
 6. Het bevoegde gezag is bevoegd een voorschot op een uitkering of een pensioen te verlenen.
 
-#### Artikel 29
+##### Artikel 29
 
 Bij ministeriële regeling, kunnen nadere regels worden gesteld omtrent het toezicht op de uitvoering door de bestuurscolleges van de uitkeringen bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&z=2015-04-01&g=2015-04-01).
 
-#### Artikel 30
+##### Artikel 30
 
 Elk pensioen eindigt met het einde van de maand waarin de rechthebbende is overleden. In geval van vermissing van de rechthebbende eindigt het pensioen met ingang van de dag, waarop zijn vermoedelijke overlijden is vastgesteld.
 
 ### Hoofdstuk 6. Financiële bepalingen
 
-#### Artikel 31
+##### Artikel 31
 
 Op de bezoldiging van de politieke gezagdrager en op de uitkering van de gewezen politieke gezagdrager wordt, volgens bij ministeriële regeling te stellen regels, een bedrag ingehouden overeenkomstig de inhouding op de bezoldiging van ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=1) ter zake van aanspraken bij ziekte, arbeidsongeschiktheid, ouderdom en overlijden.
 
-#### Artikel 32
+##### Artikel 32
 
 De uitkeringen en pensioenen, daaronder begrepen de pensioenen bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&z=2015-04-01&g=2015-04-01), die voortvloeien uit de aanspraken die gezaghebbers, eilandgedeputeerden en leden van de eilandsraad van de openbare lichamen op grond van dit besluit hebben, komen ten laste van de begroting van de onderscheiden openbare lichamen.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Indien langer pensioen is betaald dan overeenstemt met de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=8&z=2015-04-01&g=2015-04-01) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=5&artikel=30&z=2015-04-01&g=2015-04-01), wordt het teveel betaalde teruggevorderd.
 
@@ -410,13 +435,13 @@ De uitkeringen en pensioenen, daaronder begrepen de pensioenen bedoeld in [hoofd
 
 3. De betaling van teruggevorderde bedragen als bedoeld in het eerste en tweede lid, geschiedt binnen de termijnen die het bevoegde gezag vaststelt.
 
-#### Artikel 34
+##### Artikel 34
 
 Vervallen
 
 ### Hoofdstuk 7. Informatieverplichtingen
 
-#### Artikel 35
+##### Artikel 35
 
 1. Een ieder die recht heeft op uitkering of pensioen, is verplicht het bevoegde gezag onmiddellijk mededeling te doen van alle hem persoonlijk betreffende feiten en omstandigheden die van invloed kunnen zijn op het recht op uitkering of pensioen dan wel op de hoogte daarvan.
 
@@ -430,13 +455,13 @@ Vervallen
 
 6. De in het vierde lid bedoelde personen dragen bij de uitoefening van hun bevoegdheid een legitimatiebewijs, alsmede de machtiging of een kopie daarvan bij zich. Zij tonen deze desgevraagd aanstonds.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Een ieder die recht heeft op uitkering of pensioen is verplicht aan het bevoegde gezag alle medewerking te verlenen die dit gezag redelijkerwijs kan vorderen ter uitoefening van zijn bevoegdheden.
 
 2. De personen die uit hoofde van hun ambt, beroep of wettelijk voorschrift verplicht zijn tot geheimhouding, kunnen het verlenen van medewerking weigeren, voor zover dit uit hun geheimhoudingsplicht voortvloeit.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Een ieder die recht heeft op uitkering of pensioen, die niet voldoet aan het bepaalde in de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=7&artikel=35&z=2015-04-01&g=2015-04-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=7&artikel=36&z=2015-04-01&g=2015-04-01), wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de eerste categorie.
 
@@ -448,7 +473,7 @@ Vervallen
 
 ### Hoofdstuk 8. Overgangs- en slotbepalingen
 
-#### Artikel 38
+##### Artikel 38
 
 De volgende artikelen en wetten worden ingetrokken:
 
@@ -460,7 +485,7 @@ De volgende artikelen en wetten worden ingetrokken:
 
 - d. de Pensioenverordening Gezaghebbers (P.B.1982,106).
 
-#### Artikel 39
+##### Artikel 39
 
 1. Op degene die voorafgaande aan de datum waarop dit besluit in werking treedt tijd heeft doorgebracht als minister, gevolmachtigd minister, staatssecretaris, statenlid of gezaghebber en als zodanig uitzicht of recht heeft op een pensioen op grond van een pensioenregeling, blijft in afwijking van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=8&artikel=38&z=2015-04-01&g=2015-04-01) voor het pensioen die regeling van toepassing.
 
@@ -470,7 +495,7 @@ De volgende artikelen en wetten worden ingetrokken:
 
 4. In afwijking van de in het eerste lid bedoelde regelingen heeft de weduwe, weduwnaar en wees recht op pensioen indien de politieke gezagsdrager na het bereiken van de zestig jarige leeftijd in het huwelijk is getreden, mits dat huwelijk voorafgaande aan diens ontslag is gesloten.
 
-#### Artikel 40
+##### Artikel 40
 
 1. De gedeputeerden en eilandsraadsleden van de eilandgebieden Bonaire, Saba, Sint Eustatius en Sint Maarten aan wie vóór de datum van inwerkingtreding van dit besluit ontslag is verleend, alsmede de woordvoerders van het voormalige Eilandgebied de Bovenwindse eilanden, als bedoeld in artikel 1, onder II, van de Landsverordening van 21 juli 1980 tot wijziging van de Staatsregeling van de Nederlandse Antillen (P.B. 1980, no. 190), hebben vanaf die datum recht op een pensioen met inachtneming van het bij of krachtens dit besluit bepaalde.
 
@@ -484,7 +509,7 @@ De volgende artikelen en wetten worden ingetrokken:
 
 6. Indien de gedeputeerden, eilandsraadsleden en woordvoerders, bedoeld in het eerste lid, overlijden na de datum van inwerkintreding van dit besluit hebben de personen, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&artikel=26&z=2015-04-01&g=2015-04-01), recht op een overlijdensuitkering met inachtneming van het bij of krachtens dit besluit bepaalde.
 
-#### Artikel 40a
+##### Artikel 40a
 
 1. De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
@@ -500,14 +525,14 @@ De volgende artikelen en wetten worden ingetrokken:
 
 4. De [artikelen 3a tot en met 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=3a&z=2015-04-01&g=2015-04-01) zijn niet van toepassing op de gedeputeerden, bedoeld in [artikel 234, eerste lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=234).
 
-#### Artikel 40b
+##### Artikel 40b
 
 Dit besluit berust op [artikel 56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=56), [78, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=78), [120, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=120), [87, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=87) en [233, derde lid, onderdeel b, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=233).
 
-#### Artikel 41
+##### Artikel 41
 
 Dit besluit wordt aangehaald als: Pensioenbesluit politieke gezagdragers BES.
 
-#### Artikel 42
+##### Artikel 42
 
 Dit besluit treedt in werking met ingang van de dag na die van de uitgifte van het Publicatieblad waarin de afkondiging is geschied.

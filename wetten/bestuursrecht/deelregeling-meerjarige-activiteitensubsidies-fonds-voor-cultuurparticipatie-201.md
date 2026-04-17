@@ -1,13 +1,35 @@
 ---
 title: "Deelregeling meerjarige activiteitensubsidies Fonds voor Cultuurparticipatie 2017–2020"
 identifier: "BWBR0037163"
-categorie: "Bestuursrecht"
-publicatiedatum: 2015-11-11
-laatste_update: 2015-11-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037163"
+country: "nl"
+rank: "zbo"
+publication_date: "2015-11-11"
+last_updated: "2015-11-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037163"
+soort: "zbo"
+stam_id: "13296703"
+version_id: "22763662"
+internal_id: "C32908201"
+label_id: "13264874"
+dtd_version: "2.0"
+original_entry_into_force: "2015-11-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037163/2015-11-11/0"
+intitule_bron: "Stcrt.2015-39066"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2015-11-10"
+intitule_in_force: "2015-11-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-39066"
+original_published_date: "2015-11-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-39066"
+entry_into_force_date: "2015-11-11"
+jci_1_3: "jci1.3:c:BWBR0037163&z=2015-11-11&g=2015-11-11"
+jci_1_0: "1.0:c:BWBR0037163&g=2015-11-11"
+citeertitel_status: "officieel"
+entry_into_force: "2015-11-11"
 ---
-
 # Deelregeling meerjarige activiteitensubsidies Fonds voor Cultuurparticipatie 2017–2020
 
 Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
@@ -16,7 +38,7 @@ Besluit:
 
 #### Paragraaf 1. : Algemene bepalingen
 
-#### Artikel 1.1. Definities
+##### Artikel 1.1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -42,17 +64,17 @@ In deze regeling wordt verstaan onder:
 
 - **Amateurkunstfestival:** reeks van onderling samenhangende activiteiten gericht op de presentatie van de (inter)nationale top in een amateurkunstdiscipline en de ontwikkeling van deze amateurkunstdiscipline door het op (inter)nationaal niveau organiseren van activiteiten gericht op presentatie, uitwisseling en kennisontwikkeling die merendeels gedurende een in de tijd beperkte periode, niet vaker dan één keer per jaar worden georganiseerd onder een gemeenschappelijke noemer.
 
-#### Artikel 1.2. Doel
+##### Artikel 1.2. Doel
 
 Het bestuur kan meerjarige activiteitensubsidies verstrekken voor talentontwikkeling in de vorm van wedstrijden en activiteiten van productiegroepen, voor amateurkunstfestivals die bijdragen aan de ontwikkeling van de amateurkunst en de amateurkunstdiscipline waarop ze zijn gericht en erfgoedmanifestaties die bijdragen aan het onder de aandacht brengen van het belang van het betreffende erfgoeddomein bij een breed publiek.
 
-#### Artikel 1.3. Subsidieperiode
+##### Artikel 1.3. Subsidieperiode
 
 1. Subsidie wordt verstrekt voor een periode van vier jaar.
 
 2. Op basis van deze regeling kan subsidie worden verstrekt voor de periode 2017–2020.
 
-#### Artikel 1.4. Beschikbare subsidiebedragen
+##### Artikel 1.4. Beschikbare subsidiebedragen
 
 1. Voor de periode 2017–2020 is per kalenderjaar het volgende bedrag beschikbaar voor het verstrekken van subsidies voor talentontwikkeling als bedoeld in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037163&paragraaf=3&z=2015-11-11&g=2015-11-11) van deze regeling: € 2.500.000.
 
@@ -64,7 +86,7 @@ Het bestuur kan meerjarige activiteitensubsidies verstrekken voor talentontwikke
 
 5. Een besluit tot het vaststellen, verhogen of verlagen van een subsidieplafond wordt bekendgemaakt via de website van het Fonds voor Cultuurparticipatie.
 
-#### Artikel 1.5. Weigeringsgronden
+##### Artikel 1.5. Weigeringsgronden
 
 1. Subsidie wordt in ieder geval geweigerd, indien voor de activiteiten waarvoor op grond van deze regeling subsidie wordt aangevraagd, aan de aanvrager subsidie is of zal worden verleend op grond van:
 
@@ -98,17 +120,17 @@ Het bestuur kan meerjarige activiteitensubsidies verstrekken voor talentontwikke
 
 #### Paragraaf 2. : Procedure
 
-#### Artikel 2.1. Aanvraagformulier
+##### Artikel 2.1. Aanvraagformulier
 
 1. Een aanvraag voor subsidie als bedoeld in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037163&paragraaf=3&z=2015-11-11&g=2015-11-11) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037163&paragraaf=4&z=2015-11-11&g=2015-11-11) van deze regeling wordt digitaal ingediend via de website van het fonds met behulp van een door het bestuur opgesteld formulier voor de betreffende periode.
 
 2. Een aanvraag wordt alleen in behandeling genomen als het volledig ingevulde aanvraagformulier tijdig is ontvangen door het Fonds voor Cultuurparticipatie en vergezeld gaat van de gevraagde bijlagen zoals op het formulier gemeld.
 
-#### Artikel 2.2. Indiening aanvraag
+##### Artikel 2.2. Indiening aanvraag
 
 Aanvragen dienen uiterlijk 1 maart 2016 om 13:00 uur te zijn ontvangen.
 
-#### Artikel 2.3. Beoordeling
+##### Artikel 2.3. Beoordeling
 
 1. Aanvragen die voldoen aan de vereisten om voor subsidie in aanmerking te komen worden voor advies voorgelegd aan een adviescommissie.
 
@@ -118,7 +140,7 @@ Aanvragen dienen uiterlijk 1 maart 2016 om 13:00 uur te zijn ontvangen.
 
 4. De adviescommissie adviseert over de subsidiehoogte met in achtneming van het bepaalde in deze regeling.
 
-#### Artikel 2.4. Hoogte subsidie
+##### Artikel 2.4. Hoogte subsidie
 
 1. De subsidie voor talentontwikkeling als bedoeld in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037163&paragraaf=3&z=2015-11-11&g=2015-11-11) bedraagt ten minste € 50.000 per jaar en maximaal € 500.000 per jaar.
 
@@ -128,7 +150,7 @@ Aanvragen dienen uiterlijk 1 maart 2016 om 13:00 uur te zijn ontvangen.
 
 4. De subsidie van het Fonds voor Cultuurparticipatie bedraagt niet meer dan 50% van de totale baten. Behoudens uitzonderlijke gevallen.
 
-#### Artikel 2.5. Verdeling budget
+##### Artikel 2.5. Verdeling budget
 
 1. Aanvragen die aan de voorwaarden voldoen om voor subsidie in aanmerking te komen worden onderverdeeld in:
 
@@ -144,17 +166,17 @@ Aanvragen dienen uiterlijk 1 maart 2016 om 13:00 uur te zijn ontvangen.
 
 4. Indien het bestuur een subsidieplafond verhoogt, wordt eerst de subsidie van een aanvraag die wegens ontoereikendheid van het budget gedeeltelijk was toegewezen alsnog verhoogd tot het geadviseerde bedrag. Vervolgens wordt steeds de eerstvolgende aanvraag toegewezen totdat het subsidieplafond is bereikt.
 
-#### Artikel 2.6. Besluit
+##### Artikel 2.6. Besluit
 
 Het bestuur informeert de aanvrager binnen 22 weken na de uiterlijke indiendatum schriftelijk over zijn besluit. Als voor de motivering van het besluit wordt verwezen naar een over de aanvraag uitgebracht advies wordt de tekst van het advies aan de aanvrager toegezonden.
 
 #### Paragraaf 3. : meerjarige talentontwikkelingssubsidie
 
-#### Artikel 3.1. Wie kan aanvragen
+##### Artikel 3.1. Wie kan aanvragen
 
 Een aanvraag voor een meerjarige talentontwikkelingssubsidie kan uitsluitend worden gedaan door een instelling met rechtspersoonlijkheid die primair gericht is op talentontwikkeling in de amateurkunst en minimaal drie jaar als zodanig actief is.
 
-#### Artikel 3.2. Waarvoor kan worden aangevraagd
+##### Artikel 3.2. Waarvoor kan worden aangevraagd
 
 Een aanvraag voor meerjarige subsidie kan worden ingediend voor het organiseren en begeleiden van:
 
@@ -162,7 +184,7 @@ Een aanvraag voor meerjarige subsidie kan worden ingediend voor het organiseren 
 
 - –. productiegroepen voor jonge talentvolle amateurs die van zodanig hoogstaand niveau zijn dat hiermee een adequate voorbereiding op eventuele deelname aan het kunstvakonderwijs of een professionele loopbaan in de kunsten en de daaraan voorafgaande keuze wordt geboden.
 
-#### Artikel 3.3. Drempelnorm
+##### Artikel 3.3. Drempelnorm
 
 1. Een aanvragende instelling dient te kunnen aantonen dat in de jaren 2013, 2014 en 2015 de activiteiten van de instelling deelnemers hebben getrokken uit ten minste vier provincies.
 
@@ -170,7 +192,7 @@ Een aanvraag voor meerjarige subsidie kan worden ingediend voor het organiseren 
 
 3. Als een aanvrager geen jaarrekening kan overleggen over enig jaar dient hij een vergelijkbare opgave in. Het bestuur kan nadere eisen aan deze opgave stellen.
 
-#### Artikel 3.4. Beoordeling
+##### Artikel 3.4. Beoordeling
 
 1. Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
@@ -186,15 +208,15 @@ Een aanvraag voor meerjarige subsidie kan worden ingediend voor het organiseren 
 
 #### Paragraaf 4. : amateurkunstfestivalsubsidie
 
-#### Artikel 4.1. Wie kan aanvragen
+##### Artikel 4.1. Wie kan aanvragen
 
 Een aanvraag voor een meerjarige festivalsubsidie kan uitsluitend worden gedaan door een instelling met rechtspersoonlijkheid die primair gericht is op het organiseren van activiteiten binnen de amateurkunstdiscipline waarop het amateurkunstfestival zich richt of het erfgoeddomein waarop de erfgoedmanifestatie zich richt.
 
-#### Artikel 4.2. Waarvoor kan worden aangevraagd
+##### Artikel 4.2. Waarvoor kan worden aangevraagd
 
 Een aanvraag voor meerjarige subsidie kan worden ingediend voor het organiseren van maximaal vier edities van een in Nederland georganiseerd (inter)nationaal amateurkunstfestival.
 
-#### Artikel 4.3. Drempelnorm
+##### Artikel 4.3. Drempelnorm
 
 1. Een aanvrager die in aanmerking wil komen voor een meerjarige subsidie dient te kunnen aantonen dat hij minimaal drie edities van het betreffende amateurkunstfestival heeft georganiseerd.
 
@@ -202,7 +224,7 @@ Een aanvraag voor meerjarige subsidie kan worden ingediend voor het organiseren 
 
 4. Als een aanvrager geen jaarrekening kan overleggen over enig jaar dient hij een vergelijkbaar opgave in. Het bestuur kan nadere eisen aan deze opgave stellen.
 
-#### Artikel 4.4. Beoordeling
+##### Artikel 4.4. Beoordeling
 
 1. Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
@@ -218,15 +240,15 @@ Een aanvraag voor meerjarige subsidie kan worden ingediend voor het organiseren 
 
 #### Paragraaf 5. : erfgoedmanifestatiesubsidie
 
-#### Artikel 5.1. Wie kan aanvragen
+##### Artikel 5.1. Wie kan aanvragen
 
 Een aanvraag voor een meerjarige erfgoedmanifestatiesubsidie kan uitsluitend worden gedaan door een instelling met rechtspersoonlijkheid die primair gericht is op het organiseren van activiteiten binnen het erfgoeddomein waarop de erfgoedmanifestatie zich richt.
 
-#### Artikel 5.2. Waarvoor kan worden aangevraagd
+##### Artikel 5.2. Waarvoor kan worden aangevraagd
 
 Een aanvraag voor meerjarige subsidie kan worden ingediend voor het organiseren van maximaal vier edities van een in Nederland georganiseerde landelijke erfgoedmanifestatie.
 
-#### Artikel 5.3. Drempelnorm
+##### Artikel 5.3. Drempelnorm
 
 1. Een aanvrager die in aanmerking wil komen voor een meerjarige subsidie dient te kunnen aantonen dat hij minimaal drie edities van de betreffende manifestatie heeft georganiseerd.
 
@@ -234,7 +256,7 @@ Een aanvraag voor meerjarige subsidie kan worden ingediend voor het organiseren 
 
 4. Als een aanvrager geen jaarrekening kan overleggen over enig jaar dient hij een vergelijkbaar opgave in. Het bestuur kan nadere eisen aan deze opgave stellen.
 
-#### Artikel 5.4. Beoordeling
+##### Artikel 5.4. Beoordeling
 
 1. Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
@@ -250,7 +272,7 @@ Een aanvraag voor meerjarige subsidie kan worden ingediend voor het organiseren 
 
 #### Paragraaf 6. : Verplichtingen en verantwoording
 
-#### Artikel 6.1. Aan de subsidie verbonden verplichtingen
+##### Artikel 6.1. Aan de subsidie verbonden verplichtingen
 
 1. De subsidieontvanger meldt onverwijld aan het bestuur als:
 
@@ -264,7 +286,7 @@ Een aanvraag voor meerjarige subsidie kan worden ingediend voor het organiseren 
 
 3. Het bestuur kan bij beschikking andere dan de in het eerste en tweede lid opgenomen verplichtingen aan het subsidie verbinden.
 
-#### Artikel 6.2. Verantwoording
+##### Artikel 6.2. Verantwoording
 
 1. De subsidieontvanger stuurt jaarlijks voor 1 april een verantwoording in van de uitgevoerde activiteiten in het vorige kalenderjaar.
 
@@ -276,7 +298,7 @@ Een aanvraag voor meerjarige subsidie kan worden ingediend voor het organiseren 
 
 5. De subsidieontvanger werkt mee dan wel draagt er zorg voor dat de accountant meewerkt aan onderzoeken naar de door de accountant verrichte (controle)werkzaamheden door een door het bestuur aan te wijzen partij. De daaraan voor de subsidieontvanger verbonden kosten komen voor zijn rekening.
 
-#### Artikel 6.3. Vaststelling subsidie
+##### Artikel 6.3. Vaststelling subsidie
 
 1. Het bestuur stelt de subsidie vast na ontvangst van de complete verantwoording over de subsidieperiode.
 
@@ -284,17 +306,17 @@ Een aanvraag voor meerjarige subsidie kan worden ingediend voor het organiseren 
 
 #### Paragraaf 7. : Overige bepalingen
 
-#### Artikel 7.1. Begrotingsvoorbehoud
+##### Artikel 7.1. Begrotingsvoorbehoud
 
 Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende middelen door de minister van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 7.2. Inwerkingtreding en vervaldatum
+##### Artikel 7.2. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2022. Op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond, blijft het bepaalde in deze regeling van overeenkomstige toepassing.
 
-#### Artikel 7.3. Citeertitel
+##### Artikel 7.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling meerjarige activiteitensubsidies Fonds voor Cultuurparticipatie 2017–2020.
 

@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling ADL-assistentie"
+title: "Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 december 2014, houdende Subsidieregeling ADL-assistentie"
 identifier: "BWBR0035951"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035951"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035951"
+soort: "ministeriele-regeling"
+stam_id: "12891443"
+version_id: "29329942"
+internal_id: "C41801141"
+label_id: "12861154"
+dtd_version: "2.0"
+original_entry_into_force: "2023-04-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035951/2026-01-01/0"
+intitule_bron: "Stcrt.2014-36699"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-11"
+intitule_published: "2014-12-19"
+intitule_in_force: "2014-12-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-10719"
+original_signed_date: "2023-04-03"
+original_published_date: "2023-04-12"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2023-10719"
+entry_into_force_date: "2023-04-13"
+jci_1_3: "jci1.3:c:BWBR0035951&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0035951&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling ADL-assistentie"
+signed_date: "2023-04-03"
+entry_into_force: "2023-04-13"
 ---
-
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 december 2014, houdende Subsidieregeling ADL-assistentie
 
 Gelet op [artikel 7.1.1 van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=7.1.1);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 In deze regeling wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **zorg:** zorg in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917).
 
-#### Artikel 1.2
+##### Artikel 1.2
 
 1. Het Zorginstituut kan aan een ADL-aanbieder een subsidie verstrekken ten behoeve van het verlenen van ADL-assistentie aan verzekerden die:
 
@@ -58,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 2. Ten behoeve van een verzekerde als bedoeld in het eerste lid die een indicatiebesluit als bedoeld in [artikel 3.2.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.3) ontvangt, wordt de subsidie voor het verlenen van ADL-assistentie ten hoogste gedurende een redelijke termijn verstrekt.
 
-#### Artikel 1.3
+##### Artikel 1.3
 
 1. Voor subsidie komt in aanmerking ADL-assistentie in en om een ADL-woning die aan de volgende eisen voldoet:
 
@@ -78,7 +104,7 @@ In deze regeling wordt verstaan onder:
 
 4. Het Zorginstituut verhoogt op aanvraag de voor 2022 op grond van [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=5&artikel=5.5&z=2026-01-01&g=2026-01-01) vastgestelde subsidie met 0,37% voor de extra gemaakte energiekosten.
 
-#### Artikel 1.4
+##### Artikel 1.4
 
 1. ADL-assistentie in een sociale huurwoning komt slechts voor subsidie in aanmerking indien de ADL-aanbieder een schriftelijke overeenkomst heeft gesloten met de rechtspersoon die het ADL-cluster beheert en de ADL-woningen verhuurt.
 
@@ -88,11 +114,11 @@ In deze regeling wordt verstaan onder:
 
 - b. ADL-assistentie in en om de woning uitsluitend ontvangen van de ADL-aanbieder.
 
-#### Artikel 1.5
+##### Artikel 1.5
 
 De subsidie wordt per kalenderjaar verstrekt.
 
-#### Artikel 1.6
+##### Artikel 1.6
 
 1. Het subsidieplafond voor het verstrekken van de subsidies bedraagt voor het jaar 2026 € 149.887.000.
 
@@ -116,7 +142,7 @@ B: de som van A voor alle subsidieontvangers.
 
 ### Hoofdstuk 2. Aanvraag
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 1. De subsidie wordt op aanvraag verstrekt.
 
@@ -124,7 +150,7 @@ B: de som van A voor alle subsidieontvangers.
 
 3. Een aanvraag die na de termijn, bedoeld in het vorige lid, wordt ontvangen wordt afgewezen.
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 De aanvrager doet in de aanvraag tot verlening van de subsidie opgave van:
 
@@ -132,13 +158,13 @@ De aanvrager doet in de aanvraag tot verlening van de subsidie opgave van:
 
 - b. de raming bedoeld in [artikel 1.6, tweede lid, onderdeel A, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.6&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 2.3
+##### Artikel 2.3
 
 1. Voor een aanvraag tot verlening van de subsidie wordt een door het Zorginstituut vastgesteld formulier gebruikt.
 
 2. Het aanvraagformulier wordt ondertekend door een persoon die bevoegd is de aanvrager te vertegenwoordigen.
 
-#### Artikel 2.4
+##### Artikel 2.4
 
 1. De aanvraag tot verlening van de subsidie gaat vergezeld van:
 
@@ -154,7 +180,7 @@ De aanvrager doet in de aanvraag tot verlening van de subsidie opgave van:
 
 2. De stukken, bedoeld in het eerste lid, onderdelen b tot en met e, kunnen achterwege blijven, indien de aanvrager er redelijkerwijs van uit mag gaan dat deze gegevens bij het Zorginstituut bekend zijn.
 
-#### Artikel 2.5
+##### Artikel 2.5
 
 1. Indien de aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag of indien de verstrekte gegevens en bescheiden onvoldoende zijn voor de beoordeling van de aanvraag of de voorbereiding van de beschikking stelt het Zorginstituut de subsidieaanvrager in de gelegenheid de aanvraag tot verlening van de subsidie binnen drie weken aan te vullen.
 
@@ -162,23 +188,23 @@ De aanvrager doet in de aanvraag tot verlening van de subsidie opgave van:
 
 ### Hoofdstuk 3. Verlening
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 Het Zorginstituut besluit voor de aanvang van het jaar waarvoor de subsidie wordt aangevraagd over de verlening van de subsidie.
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 Het Zorginstituut vermeldt in het besluit tot verlening van de subsidie in ieder geval het maximum bedrag dat aan subsidie wordt verleend.
 
 ### Hoofdstuk 4. Bevoorschotting en verplichtingen
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 1. Het Zorginstituut verleent bij het besluit tot verlening van de subsidie ambtshalve tevens de volgende voorschotten: in januari 8%, februari 8%, maart 8%, april 7%, mei 16%, juni 7%, juli 8%, augustus 8%, september 7%, oktober 8%, november 8% en december 7% van het bedrag van de verleende subsidie.
 
 2. Op verzoek van de subsidieontvanger kan het Zorginstituut van de percentages, genoemd in het eerste lid, afwijken.
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 De subsidieontvanger verleent ADL-assistentie aan elke verzekerde die:
 
@@ -186,7 +212,7 @@ De subsidieontvanger verleent ADL-assistentie aan elke verzekerde die:
 
 - b. beschikt over een oordeel van het CIZ.
 
-#### Artikel 4.3
+##### Artikel 4.3
 
 1. De subsidieontvanger legt binnen acht weken na aanvang van het verlenen van de ADL-assistentie in overleg met de verzekerde een dossier aan waarin in ieder geval zijn opgenomen:
 
@@ -200,7 +226,7 @@ De subsidieontvanger verleent ADL-assistentie aan elke verzekerde die:
 
 2. In overleg met de verzekerde evalueert en actualiseert de subsidieontvanger jaarlijks het dossier.
 
-#### Artikel 4.4
+##### Artikel 4.4
 
 De subsidieontvanger zorgt ervoor dat:
 
@@ -210,7 +236,7 @@ De subsidieontvanger zorgt ervoor dat:
 
 - c. de voor de uitvoering van de gesubsidieerde activiteiten benodigde middelen op verantwoorde wijze worden beheerd.
 
-#### Artikel 4.5
+##### Artikel 4.5
 
 1. De subsidieontvanger houdt een zodanig ingerichte administratie bij dat daarin altijd kan worden nagegaan:
 
@@ -224,7 +250,7 @@ De subsidieontvanger zorgt ervoor dat:
 
 3. De administratie en de daartoe behorende bescheiden worden gedurende tien jaren bewaard.
 
-#### Artikel 4.6
+##### Artikel 4.6
 
 1. De subsidieontvanger meldt meteen aan het Zorginstituut als:
 
@@ -236,71 +262,71 @@ De subsidieontvanger zorgt ervoor dat:
 
 2. De melding wordt schriftelijk gedaan. De melding wordt voorzien van een toelichting. Bij de melding worden de relevante stukken overgelegd.
 
-#### Artikel 4.7
+##### Artikel 4.7
 
 1. De subsidieontvanger werkt, onder meer door het verschaffen van de daartoe benodigde inlichtingen, gegevens en bescheiden, mee aan door of namens het Zorginstituut ingesteld onderzoek dat erop is gericht het Zorginstituut inlichtingen te verschaffen die van belang zijn voor het nemen van een besluit over het verstrekken van de subsidie. De subsidieontvanger verplicht zijn accountant tot medewerking aan het onderzoek.
 
 2. De subsidieontvanger werkt, onder meer door het verschaffen van de daartoe benodigde inlichtingen, gegevens en bescheiden, mee aan door of namens de minister ingesteld onderzoek dat erop is gericht de minister inlichtingen te verschaffen voor de ontwikkeling van het beleid van de minister.
 
-#### Artikel 4.8
+##### Artikel 4.8
 
 Indien de activiteiten waarvoor de subsidie is verstrekt geheel of gedeeltelijk worden beëindigd of indien de subsidie wordt beëindigd, verstrekt de subsidieontvanger aan het Zorginstituut op diens verzoek alle gegevens, bescheiden, informatie en medewerking die redelijkerwijs verlangd kan worden of kunnen worden voor de continuïteit van de activiteiten waarvoor de subsidie is verstrekt.
 
-#### Artikel 4.9
+##### Artikel 4.9
 
 Het Zorginstituut kan bij de verlening van de subsidie verplichtingen opleggen als bedoeld in [artikel 4:38 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:38).
 
 ### Hoofdstuk 5. Vaststelling
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 1. De subsidieontvanger dient binnen tweeëntwintig weken na afloop van het jaar waarvoor de subsidie is verleend een aanvraag in tot vaststelling van de subsidie.
 
 2. Het Zorginstituut kan ontheffing verlenen van de termijn, bedoeld in het eerste lid.
 
-#### Artikel 5.2
+##### Artikel 5.2
 
 1. Voor een aanvraag tot vaststelling van de subsidie wordt een door het Zorginstituut vastgesteld formulier gebruikt.
 
 2. Het aanvraagformulier wordt ondertekend door een persoon die bevoegd is de aanvrager te vertegenwoordigen.
 
-#### Artikel 5.3
+##### Artikel 5.3
 
 1. De subsidieontvanger doet in de aanvraag tot vaststelling van de subsidie opgave van het totaal aantal uren ADL-assistentie dat is verleend in het jaar waarvoor de subsidie is verleend.
 
 2. De subsidieontvanger toont in de aanvraag tot vaststelling aan dat voldaan is aan de verplichtingen die verbonden zijn aan de verleende subsidie.
 
-#### Artikel 5.4
+##### Artikel 5.4
 
 1. De aanvraag tot vaststelling gaat vergezeld van een assurancerapport van een accountant dat is opgesteld overeenkomstig een door het Zorginstituut vastgesteld model met inachtneming van een door het Zorginstituut vastgesteld protocol.
 
 2. Op verzoek van het Zorginstituut legt de subsidieontvanger in aanvulling op de aanvraag tot vaststelling van de subsidie een jaarrekening over.
 
-#### Artikel 5.5
+##### Artikel 5.5
 
 De subsidie ten behoeve van het jaar 2026 wordt vastgesteld op het totaal aantal in dat jaar door de subsidieontvanger verleende uren ADL-assistentie vermenigvuldigd met € 96,01 tot ten hoogste het maximum bedrag van de verleende subsidie.
 
-#### Artikel 5.6
+##### Artikel 5.6
 
 Binnen tweeëntwintig weken na ontvangst van de aanvraag tot vaststelling van de subsidie neemt het Zorginstituut een besluit op de aanvraag.
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 Vervallen
 
-#### Artikel 6.2
+##### Artikel 6.2
 
 Deze regeling treedt in werking met ingang van 1 januari 2015.
 
-#### Artikel 6.3
+##### Artikel 6.3
 
 Deze regeling wordt aangehaald als: Subsidieregeling ADL-assistentie.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
-#### Artikel 1.7
+##### Artikel 1.7
 
 1. De [hoofdstukken 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=2&z=2026-01-01&g=2026-01-01) zijn, met uitzondering van [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=4&artikel=4.5&z=2026-01-01&g=2026-01-01), niet van toepassing op de verstrekking van subsidies als bedoeld in [artikel 1.3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2026-01-01&g=2026-01-01).
 
@@ -318,13 +344,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ### Hoofdstuk 5a. Subsidies in verband met Covid-19
 
-#### Artikel 5a.1
+##### Artikel 5a.1
 
 1. Het subsidieplafond voor het verstrekken van subsidie als bedoeld in [artikel 1.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2026-01-01&g=2026-01-01), bedraagt € 3.700.000.
 
 2. Indien het totaal van de te verstrekken subsidiebedragen hoger is dan het subsidieplafond, verdeelt het Zorginstituut het ingevolge het subsidieplafond beschikbare bedrag evenredig over ingediende aanvragen voor zover deze voor subsidie in aanmerking komen.
 
-#### Artikel 5a.2
+##### Artikel 5a.2
 
 1. De subsidie wordt op aanvraag verstrekt.
 
@@ -342,7 +368,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 8. De subsidie wordt vastgesteld zonder voorafgaande beschikking tot subsidieverlening.
 
-#### Artikel 5a.3
+##### Artikel 5a.3
 
 Vervallen
 
@@ -352,11 +378,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ### Hoofdstuk 5b. Subsidies in verband energiecompensatie
 
-#### Artikel 5b.1
+##### Artikel 5b.1
 
 Het subsidieplafond voor het verstrekken van subsidies als bedoeld in [artikel 1.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2026-01-01&g=2026-01-01), bedraagt € 409.000.
 
-#### Artikel 5b.2
+##### Artikel 5b.2
 
 1. De subsidie wordt op aanvraag verstrekt.
 

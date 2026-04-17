@@ -1,16 +1,42 @@
 ---
-title: "Regeling modellen voor mbo-diploma, mbo-certificaat en mbo-verklaring"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 15 maart 2012, nr. BVE/Stelsel/294391, houdende vaststelling van modellen en technische veiligheidseisen voor diploma’s en resultatenlijsten mbo (Regeling modeldiploma mbo)"
 identifier: "BWBR0031616"
-categorie: "Onderwijs"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031616"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031616"
+soort: "ministeriele-regeling"
+stam_id: "11745813"
+version_id: "27421392"
+internal_id: "C38716281"
+label_id: "11718264"
+dtd_version: "2.0"
+original_entry_into_force: "2020-12-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031616/2025-01-01/0"
+intitule_bron: "Stcrt.2012-10761"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-03-15"
+intitule_published: "2012-06-04"
+intitule_in_force: "2012-06-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-1278"
+original_signed_date: "2020-12-17"
+original_published_date: "2021-01-15"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2021-1278"
+entry_into_force_date: "2020-12-17"
+jci_1_3: "jci1.3:c:BWBR0031616&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0031616&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling modellen voor mbo-diploma, mbo-certificaat en mbo-verklaring"
+signed_date: "2020-12-17"
+entry_into_force: "2020-12-17"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 15 maart 2012, nr. BVE/Stelsel/294391, houdende vaststelling van modellen en technische veiligheidseisen voor diploma’s en resultatenlijsten mbo (Regeling modeldiploma mbo)
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -22,13 +48,13 @@ In deze regeling wordt verstaan onder:
 
 - d. **resultatenlijst:** het overzicht waarin de eindwaardering van de examenonderdelen, zoals bedoeld in [artikel 3 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=3), zijn opgenomen.
 
-#### Artikel 2. Modeldiploma
+##### Artikel 2. Modeldiploma
 
 1. Het model voor de diploma’s van beroepsopleidingen die worden uitgereikt in het kader van een beroepsopleiding waarvan het eerste studiejaar is gestart op of na 1 augustus 2016, wordt vastgesteld volgens [bijlage 1A](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=1a&z=2025-01-01&g=2025-01-01) bij deze regeling.
 
 2. Regels voor het invullen van het diploma zoals in deze regeling genoemd, zijn vastgelegd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=4&z=2025-01-01&g=2025-01-01) bij deze regeling.
 
-#### Artikel 3. Modelresultatenlijsten
+##### Artikel 3. Modelresultatenlijsten
 
 1. Het model voor de resultatenlijsten van beroepsopleidingen die worden uitgereikt in het kader van een beroepsopleiding waarvan het eerste studiejaar is gestart op of na 1 augustus 2022, wordt vastgesteld volgens de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=1&z=2025-01-01&g=2025-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=2&z=2025-01-01&g=2025-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=3&z=2025-01-01&g=2025-01-01) bij deze regeling.
 
@@ -36,13 +62,13 @@ In deze regeling wordt verstaan onder:
 
 3. Regels voor het invullen van de resultatenlijsten zijn vastgelegd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=5&z=2025-01-01&g=2025-01-01) bij deze regeling.
 
-#### Artikel 4. Model mbo-verklaring
+##### Artikel 4. Model mbo-verklaring
 
 1. Het model voor mbo-verklaringen van beroepsopleidingen wordt vastgesteld volgens [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=9&z=2025-01-01&g=2025-01-01) bij deze regeling.
 
 2. Regels voor het invullen van de mbo-verklaring zijn vastgelegd in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=10&z=2025-01-01&g=2025-01-01) bij deze regeling.
 
-#### Artikel 5. Veiligheidseisen papier waardedocumenten
+##### Artikel 5. Veiligheidseisen papier waardedocumenten
 
 1. Het waardepapier beschikt over de volgende kenmerken:
 
@@ -58,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 2. Met het waardepapier dat voldoet aan de veiligheidseisen in het eerste lid, wordt gelijkgesteld waardepapier dat rechtmatig is vervaardigd of in de handel is gebracht in een andere lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een tot een douane-unie strekkend Verdrag, dan wel rechtmatig is vervaardigd in een staat die partij is bij een tot een vrijhandelszone strekkend Verdrag dat Nederland bindt, en dat voldoet aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking op 1 augustus 2013 en is voor het eerst van toepassing op:
 
@@ -66,7 +92,7 @@ Deze regeling treedt in werking op 1 augustus 2013 en is voor het eerst van toep
 
 - b. resultatenlijsten die worden uitgereikt aan examenkandidaten die het examen afleggen op basis van een kwalificatiedossier dat is vastgesteld na 1 januari 2012.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling modellen voor mbo-diploma, mbo-certificaat en mbo-verklaring.
 
@@ -321,11 +347,11 @@ Het referentieniveau of mbo-rekenniveau, dat op de resultatenlijst wordt vermeld
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a. Reikwijdte
+##### Artikel 1a. Reikwijdte
 
 Deze regeling berust op de [artikelen 7.4.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.6), en [7.4.6a, vierde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.6a).
 
-#### Artikel 3a. Modelcertificaat
+##### Artikel 3a. Modelcertificaat
 
 1. Het model voor certificaten verbonden aan een onderdeel van een kwalificatie wordt vastgesteld volgens [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=6&z=2025-01-01&g=2025-01-01) bij deze regeling.
 
@@ -333,7 +359,7 @@ Deze regeling berust op de [artikelen 7.4.6, derde lid](https://wetten.overheid.
 
 3. Regels voor het invullen van het certificaat, bedoeld in het eerste en tweede lid, zijn vastgesteld in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=8&z=2025-01-01&g=2025-01-01) bij deze regeling.
 
-#### Artikel 6a. Vervallen van artikelen
+##### Artikel 6a. Vervallen van artikelen
 
 Vervallen
 

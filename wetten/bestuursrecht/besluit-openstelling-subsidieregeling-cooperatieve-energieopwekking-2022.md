@@ -1,20 +1,46 @@
 ---
-title: "Besluit openstelling Subsidieregeling coöperatieve energieopwekking 2022"
+title: "Besluit van de Minister voor Klimaat en Energie van 29 januari 2022, nr. WJZ/ 21240883, tot openstelling van de Subsidieregeling coöperatieve energieopwekking voor 2022 (Besluit openstelling Subsidieregeling coöperatieve energieopwekking 2022)"
 identifier: "BWBR0046275"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-04-08
-laatste_update: 2022-04-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046275"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-04-08"
+last_updated: "2022-04-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046275"
+soort: "ministeriele-regeling"
+stam_id: "16257483"
+version_id: "28395402"
+internal_id: "C40047481"
+label_id: "16184584"
+dtd_version: "2.0"
+original_entry_into_force: "2022-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046275/2022-04-08/0"
+intitule_bron: "Stcrt.2022-3752"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-01-29"
+intitule_published: "2022-02-04"
+intitule_in_force: "2022-02-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-3752"
+original_signed_date: "2022-01-29"
+original_published_date: "2022-02-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-3752"
+entry_into_force_date: "2022-03-01"
+jci_1_3: "jci1.3:c:BWBR0046275&z=2022-04-08&g=2022-04-08"
+jci_1_0: "1.0:c:BWBR0046275&g=2022-04-08"
+citeertitel_status: "officieel"
+short_title: "Besluit openstelling Subsidieregeling coöperatieve energieopwekking 2022"
+signed_date: "2022-01-29"
+entry_into_force: "2022-03-01"
 ---
-
 # Besluit van de Minister voor Klimaat en Energie van 29 januari 2022, nr. WJZ/ 21240883, tot openstelling van de Subsidieregeling coöperatieve energieopwekking voor 2022 (Besluit openstelling Subsidieregeling coöperatieve energieopwekking 2022)
 
 Gelet op [artikel 3 van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3) en de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=2), [4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=4), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=5), [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=8), en [9, tweede lid, van de Subsidieregeling coöperatieve energieopwekking](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=9);
 
 Besluit:
 
-#### Artikel 1. (begripsbepalingen)
+##### Artikel 1. (begripsbepalingen)
 
 In dit besluit wordt verstaan onder:
 
@@ -26,13 +52,13 @@ In dit besluit wordt verstaan onder:
 
 - **regeling:** [Subsidieregeling coöperatieve energieopwekking](https://wetten.overheid.nl/jci1.3:c:BWBR0044882).
 
-#### Artikel 2. (subsidieplafond en aanvraagperiode)
+##### Artikel 2. (subsidieplafond en aanvraagperiode)
 
 1. Het subsidieplafond voor het verlenen van subsidie voor de productie van hernieuwbare elektriciteit op grond van [artikel 2, derde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=2), die wordt aangevraagd in de periode van 1 maart 2022, 09:00 uur, tot 1 december 2022, 17:00 uur, wordt vastgesteld op € 150.000.000,–.
 
 2. Per categorie productie-installaties kan in de periode, bedoeld in het eerste lid, per locatie waarop de productie-installatie wordt aangebracht, ten hoogste één aanvraag worden ingediend.
 
-#### Artikel 3. (aanwijzing categorieën productie-installaties)
+##### Artikel 3. (aanwijzing categorieën productie-installaties)
 
 Als categorieën productie-installaties waarvoor op grond van [artikel 2, derde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=2) een aanvraag tot subsidieverlening kan worden ingediend, worden aangewezen:
 
@@ -60,7 +86,7 @@ Als categorieën productie-installaties waarvoor op grond van [artikel 2, derde 
 
 - f. productie-installaties voor de productie van hernieuwbare elektriciteit uit potentiële of kinetische energie van stromend water door hydro-mechanisch-elektrische omzetting, die zijn aangesloten op het elektriciteitsnet met een grootverbruikersaansluiting en die een totaal nominaal vermogen hebben dat ten minste 15 kW en ten hoogste 150 kW is.
 
-#### Artikel 4. (vaststelling basisbedrag, maximum aantal vollasturen, basiselektriciteitsprijs en voorlopig correctiebedrag)
+##### Artikel 4. (vaststelling basisbedrag, maximum aantal vollasturen, basiselektriciteitsprijs en voorlopig correctiebedrag)
 
 Voor een categorie productie-installaties als bedoeld in de eerste en tweede kolom van onderstaande tabel, wordt:
 
@@ -88,11 +114,11 @@ Voor een categorie productie-installaties als bedoeld in de eerste en tweede kol
 | [Artikel 3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3&z=2022-04-08&g=2022-04-08) | Waterkracht kleinverbruikersaansluiting ≥ 15 kW en ≤ 100 kW | 0,134 | 5.000 | 0,031 | 0,057 |
 | [Artikel 3, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3&z=2022-04-08&g=2022-04-08) | Waterkracht grootverbruikersaansluiting ≥ 15 kW en ≤ 150 kW | 0,134 | 5.000 | 0,031 | 0,057 |
 
-#### Artikel 5. (inwerkingtreding)
+##### Artikel 5. (inwerkingtreding)
 
 Dit besluit treedt in werking met ingang van 1 maart 2022.
 
-#### Artikel 6. (citeertitel)
+##### Artikel 6. (citeertitel)
 
 Dit besluit wordt aangehaald als: Besluit openstelling Subsidieregeling coöperatieve energieopwekking 2022.
 

@@ -1,20 +1,46 @@
 ---
-title: "Regeling beperking openbaarheid archief Ministerie van Maatschappelijk Werk 1945–1969"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 februari 2006, nr. KICK 2655472, houdende beperking van de openbaarheid van archiefbescheiden, opgenomen in het archief van de Medisch Adviseur van het Ministerie van Maatschappelijk Werk over de periode 1945–1969"
 identifier: "BWBR0019553"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2006-02-25
-laatste_update: 2006-02-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019553"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2006-02-25"
+last_updated: "2006-02-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019553"
+soort: "ministeriele-regeling"
+stam_id: "8066953"
+version_id: "12899752"
+internal_id: "C17389721"
+label_id: "8048064"
+dtd_version: "2.0"
+original_entry_into_force: "2006-02-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019553/2006-02-25/0"
+intitule_bron: "Stcrt.2006-39"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-02-07"
+intitule_published: "2006-02-23"
+intitule_in_force: "2006-02-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-39"
+original_signed_date: "2006-02-07"
+original_published_date: "2006-02-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-39-p27-SC73898"
+entry_into_force_date: "2006-02-25"
+jci_1_3: "jci1.3:c:BWBR0019553&z=2006-02-25&g=2006-02-25"
+jci_1_0: "1.0:c:BWBR0019553&g=2006-02-25"
+citeertitel_status: "redactioneel"
+short_title: "Regeling beperking openbaarheid archief Ministerie van Maatschappelijk Werk 1945–1969"
+signed_date: "2006-02-07"
+entry_into_force: "2006-02-25"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 februari 2006, nr. KICK 2655472, houdende beperking van de openbaarheid van archiefbescheiden, opgenomen in het archief van de Medisch Adviseur van het Ministerie van Maatschappelijk Werk over de periode 1945–1969
 
 Gelet op [artikel 15, eerste lid, onder a, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de bescherming van de persoonlijke levenssfeer worden de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019553&artikel=2&z=2006-02-25&g=2006-02-25) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0019553&artikel=3&z=2006-02-25&g=2006-02-25) genoemde beperkingen gesteld aan de openbaarheid van de naar het Nationaal Archief over te brengen archiefbescheiden van de Medisch Adviseur van het Ministerie van Maatschappelijk Werk over de periode 1945–1969, die zijn opgenomen in de institutionele toegang onder de in kolom 1 van onderstaande tabel genoemde inventarisnummers. Deze beperkingen gelden tot 1januari van het in kolom 2 van onderstaande tabel genoemde jaartal.
 
@@ -108,15 +134,15 @@ Met het oog op de bescherming van de persoonlijke levenssfeer worden de in de [a
 |   |   |
 | 3384 | 2060 |
 
-#### Artikel 2
+##### Artikel 2
 
 Raadpleging van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019553&artikel=1&z=2006-02-25&g=2006-02-25) bedoelde archiefbescheiden is slechts mogelijk na ondertekening van het door het Nationaal Archief gehanteerde ‘Formulier voor toestemming tot raadpleging van niet-openbare archieven’; een exemplaar van dit formulier is als bijlage bij dit besluit gevoegd.
 
-#### Artikel 3
+##### Artikel 3
 
 Het is niet toegestaan reproducties te vervaardigen van archiefbescheiden uit dossiers waarop deze beperkende bepalingen van toepassing zijn, zonder toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan voorwaarden verbinden aan het verlenen van zijn toestemming.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd.
 

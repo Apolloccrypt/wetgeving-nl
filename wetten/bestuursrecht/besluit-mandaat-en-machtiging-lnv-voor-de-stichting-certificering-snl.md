@@ -1,13 +1,39 @@
 ---
-title: "Besluit mandaat en machtiging LNV voor de Stichting Certificering SNL"
+title: "Besluit van de Minister voor Natuur en Stikstof van 13 november 2023, nr. WJZ / 37587654, houdende verlening van mandaat en machtiging aan de Stichting Certificering SNL (Besluit mandaat en machtiging LNV voor de Stichting Certificering SNL)"
 identifier: "BWBR0048908"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-11-18
-laatste_update: 2023-11-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048908"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-11-18"
+last_updated: "2023-11-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048908"
+soort: "ministeriele-regeling"
+stam_id: "16920743"
+version_id: "29739312"
+internal_id: "C42624571"
+label_id: "16832154"
+dtd_version: "2.0"
+original_entry_into_force: "2023-11-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048908/2023-11-18/0"
+intitule_bron: "Stcrt.2023-31979"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-11-13"
+intitule_published: "2023-11-17"
+intitule_in_force: "2023-11-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-31979"
+original_signed_date: "2023-11-13"
+original_published_date: "2023-11-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-31979"
+entry_into_force_date: "2023-11-18"
+jci_1_3: "jci1.3:c:BWBR0048908&z=2023-11-18&g=2023-11-18"
+jci_1_0: "1.0:c:BWBR0048908&g=2023-11-18"
+citeertitel_status: "officieel"
+short_title: "Besluit mandaat en machtiging LNV voor de Stichting Certificering SNL"
+signed_date: "2023-11-13"
+entry_into_force: "2023-11-18"
 ---
-
 # Besluit van de Minister voor Natuur en Stikstof van 13 november 2023, nr. WJZ / 37587654, houdende verlening van mandaat en machtiging aan de Stichting Certificering SNL (Besluit mandaat en machtiging LNV voor de Stichting Certificering SNL)
 
 Gelet op [afdeling 10.1.1. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1);
@@ -28,7 +54,7 @@ Gezien de schriftelijke instemming van het bestuur van de Stichting Certificerin
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -38,13 +64,13 @@ In dit besluit wordt verstaan onder:
 
 - c. **minister:** Minister voor Natuur en Stikstof.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aan het bestuur van de Stichting Certificering SNL wordt mandaat en machtiging verleend omtrent de afgifte van een certificaat natuurbeheer als het Kroondomein voldoet aan de certificeringsvoorwaarden die zijn opgenomen in het Programma van Eisen.
 
 2. Het door de Stichting Certificering SNL op 15 oktober 2013 aan het Kroondomein verstrekte certificaat natuurbeheer wordt geacht namens de minister te zijn verstrekt.
 
-#### Artikel 3
+##### Artikel 3
 
 Het bestuur van de Stichting Certificering SNL neemt in een certificaat tenminste de volgende certificeringsvoorwaarden op:
 
@@ -52,7 +78,7 @@ Het bestuur van de Stichting Certificering SNL neemt in een certificaat tenminst
 
 - b. het Kroondomein draagt er zorg voor dat namens de minister audits kunnen worden uitgevoerd in het kader van de naleving van de certificeringsvoorwaarden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het bestuur van de Stichting Certificering SNL kan voor een te bepalen hersteltermijn besluiten tot voorlopig behoud van een certificaat als het Kroondomein niet voldoet aan één of meerdere certificeringsvoorwaarden.
 
@@ -68,11 +94,11 @@ Het bestuur van de Stichting Certificering SNL neemt in een certificaat tenminst
 
 4. Het bestuur van de Stichting Certificering SNL stelt de minister onverwijld in kennis van besluiten als bedoeld in het eerste en tweede lid.
 
-#### Artikel 5
+##### Artikel 5
 
 De medewerkers van de Stichting Certificering SNL zijn bevoegd om namens de minister audits uit te voeren in het kader van de naleving van de certificeringsvoorwaarden.
 
-#### Artikel 6
+##### Artikel 6
 
 De ondertekening van documenten waarmee een bevoegdheid op grond van dit besluit wordt uitgeoefend vindt plaats op de volgende wijze:
 
@@ -86,11 +112,11 @@ namens deze:
 
 Voorzitter van de Stichting Certificering SNL
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit mandaat en machtiging LNV voor de Stichting Certificering SNL.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

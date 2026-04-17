@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling EGF 2014–2020"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 19 februari 2014, 2014-0000017865, houdende voorwaarden voor de projectvoorstellen voor financiële middelen uit het Europees Globaliseringsfonds 2014–2020 (Subsidieregeling EGF 2014–2020)"
 identifier: "BWBR0034856"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-02-28
-laatste_update: 2014-02-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034856"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-02-28"
+last_updated: "2014-02-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034856"
+soort: "ministeriele-regeling"
+stam_id: "12587773"
+version_id: "21246482"
+internal_id: "C30513651"
+label_id: "12558354"
+dtd_version: "2.0"
+original_entry_into_force: "2014-02-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034856/2014-02-28/0"
+intitule_bron: "Stcrt.2014-5468"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-02-19"
+intitule_published: "2014-02-27"
+intitule_in_force: "2014-02-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-5468"
+original_signed_date: "2014-02-19"
+original_published_date: "2014-02-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-5468"
+entry_into_force_date: "2014-02-28"
+jci_1_3: "jci1.3:c:BWBR0034856&z=2014-02-28&g=2014-02-28"
+jci_1_0: "1.0:c:BWBR0034856&g=2014-02-28"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling EGF 2014–2020"
+signed_date: "2014-02-19"
+entry_into_force: "2014-02-28"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 19 februari 2014, 2014-0000017865, houdende voorwaarden voor de projectvoorstellen voor financiële middelen uit het Europees Globaliseringsfonds 2014–2020 (Subsidieregeling EGF 2014–2020)
 
 Gelet op artikel 21, eerste en tweede lid, van Verordening (EU) nr. 1309/2013 van het Europees Parlement en de Raad van 17 december 2013 betreffende het Europees fonds voor aanpassing aan de globalisering (2014–2020) en tot intrekking van [Verordening (EG) 1927/2006](32006R1927) (PbEU 2013, L347) en [artikel 3, eerste lid, van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -36,11 +62,11 @@ In deze regeling wordt verstaan onder:
 
 - –. **Referentieperiode:** de periode waarbinnen de vereiste 500 ontslagen zijn gevallen of een periode die, wanneer er geen 500 ontslagen zijn gevallen, om uitzonderlijke redenen door de Europese Commissie is aangewezen als referentieperiode.
 
-#### Artikel 2. Subsidie uit EGF
+##### Artikel 2. Subsidie uit EGF
 
 De minister verstrekt subsidie aan de aanvrager ter hoogte van het door de Europese Commissie toegekende bedrag onder de voorwaarden, gesteld bij en krachtens de verordening, en de voorwaarden op grond van deze regeling.
 
-#### Artikel 3. Aanvraag
+##### Artikel 3. Aanvraag
 
 1. De aanvrager dient een projectvoorstel in bij de minister.
 
@@ -48,7 +74,7 @@ De minister verstrekt subsidie aan de aanvrager ter hoogte van het door de Europ
 
 3. Wanneer het projectvoorstel past binnen de doelstelling van het EGF en voldoet aan de bij of krachtens de verordening gestelde voorwaarden, kan de minister besluiten het voorstel conform de daaraan gestelde voorwaarden in te dienen bij de Europese Commissie.
 
-#### Artikel 4. Indiening
+##### Artikel 4. Indiening
 
 1. De aanvrager dient de aanvraag binnen 6 weken na de referentieperiode in bij de minister.
 
@@ -56,13 +82,13 @@ De minister verstrekt subsidie aan de aanvrager ter hoogte van het door de Europ
 
 3. De minister dient de aanvraag binnen 12 weken na de referentieperiode bij de Europese Commissie in.
 
-#### Artikel 5. Subsidiabele kosten
+##### Artikel 5. Subsidiabele kosten
 
 1. De kosten van een project als bedoeld in artikel 7, eerste lid, van de verordening, zijn subsidiabel vanaf de datum waarop gestart wordt met individuele dienstverlening aan de ontslagen werknemers, welke datum niet voor de referentieperiode ligt.
 
 2. De kosten die gemaakt zijn ter ondersteuning van het tot stand brengen van een aanvraag, zijn subsidiabel vanaf de einddatum van de referentieperiode mits de individuele dienstverlening is gestart. De aanvrager draagt er zorg voor dat deze kosten marktconform zijn.
 
-#### Artikel 6. Looptijd
+##### Artikel 6. Looptijd
 
 1. Het project heeft, vanaf de datum waarop de minister de aanvraag indient, een looptijd van 24 maanden. Het individuele begeleidingstraject kan uiterlijk 3 maanden na de indieningdatum starten; de looptijd van 24 maanden vangt dan aan vanaf de startdatum van het individuele begeleidingstraject.
 
@@ -72,7 +98,7 @@ De minister verstrekt subsidie aan de aanvrager ter hoogte van het door de Europ
 
 4. De aanvrager start met het project uiterlijk 3 maanden na indiening van het verzoek door de minister bij de Europese Commissie.
 
-#### Artikel 7. Verlening en voorschot
+##### Artikel 7. Verlening en voorschot
 
 1. De minister geeft de aanvrager een beschikking tot subsidieverlening, nadat de Europese Commissie het projectvoorstel heeft goedgekeurd.
 
@@ -84,7 +110,7 @@ De minister verstrekt subsidie aan de aanvrager ter hoogte van het door de Europ
 
 - c. de gerealiseerde kosten zijn gecontroleerd door de managementautoriteit.
 
-#### Artikel 8. Administratievoorschriften en inlichtingenverplichtingen
+##### Artikel 8. Administratievoorschriften en inlichtingenverplichtingen
 
 1. De aanvrager draagt zorg voor een inzichtelijke en controleerbare projectadministratie met betrekking tot de uitvoering van de projectactiviteiten en de in verband daarmee gedane uitgaven en verworven inkomsten. Hierin zijn een financiële administratie, een deelnemersadministratie en een projectadministratie met geleverde prestaties opgenomen.
 
@@ -98,11 +124,11 @@ De minister verstrekt subsidie aan de aanvrager ter hoogte van het door de Europ
 
 6. De aanvrager verstrekt aan de managementautoriteit, onder gebruikmaking van het daartoe door de minister elektronisch beschikbaar gestelde formulier, 3 maal het burgerservicenummer van de deelnemers aan zijn project.
 
-#### Artikel 9. Rapportage
+##### Artikel 9. Rapportage
 
 Gedurende de looptijd van het project kan de minister jaarlijks verzoeken om een rapportage over de voortgang van het project. Tevens kan de minister in individuele gevallen inzicht vragen in de stand van zaken van concrete activiteiten.
 
-#### Artikel 10. Vaststelling van de subsidie
+##### Artikel 10. Vaststelling van de subsidie
 
 1. Uiterlijk zes weken na afloop van het project dient de aanvrager bij de minister een verzoek in tot vaststelling van de subsidie. Dit verzoek bestaat uit een eindverslag over de uitvoering van de projectactiviteiten en een einddeclaratie van de kosten.
 
@@ -112,7 +138,7 @@ Gedurende de looptijd van het project kan de minister jaarlijks verzoeken om een
 
 4. De minister stelt de aanvrager zo snel mogelijk op de hoogte van de definitieve beslissing van de Europese Commissie waarin de financiële bijdrage van het EGF wordt afgesloten, en stelt, met inachtneming van het oordeel van de Commissie, de subsidie vast.
 
-#### Artikel 11. Intrekking en terugvordering
+##### Artikel 11. Intrekking en terugvordering
 
 Ingevolge het bepaalde in [afdeling 4.2.6.](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.6) en [afdeling 4.2.7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.7) kan een beschikking tot subsidieverlening door de minister worden ingetrokken, en kunnen op basis daarvan uitbetaalde bedragen of voorschotten worden teruggevorderd, indien:
 
@@ -122,15 +148,15 @@ Ingevolge het bepaalde in [afdeling 4.2.6.](https://wetten.overheid.nl/jci1.3:c:
 
 - c. de aanvrager niet heeft voldaan aan een of meer administratievoorschriften.
 
-#### Artikel 12. Publiciteit
+##### Artikel 12. Publiciteit
 
 De aanvrager verleent zijn medewerking aan publicitaire activiteiten van lidstaten van de EU, informeert alle deelnemers over de bijdrage uit het EGF en voert zelf activiteiten uit ter promotie van de bijdrage van het EGF.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, werkt terug tot en met 1 januari 2014 en vervalt met ingang van 1 januari 2021.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling EGF 2014–2020.
 

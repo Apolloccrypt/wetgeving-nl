@@ -1,13 +1,39 @@
 ---
-title: "Besluit ontheffing zelfpromotie publieke omroep"
+title: "Besluit van het Commissariaat voor de Media van 5 juni 2007 houdende ontheffing van het bepaalde in de eerste volzin van het tweede lid van artikel 52 van de Mediawet in verband met de vermeldingen en vertoningen van namen, (beeld)merken of diensten van publieke omroepinstellingen (Besluit ontheffing zelfpromotie publieke omroep)"
 identifier: "BWBR0022112"
-categorie: "Belastingrecht"
-publicatiedatum: 2016-01-01
-laatste_update: 2016-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022112"
+country: "nl"
+rank: "zbo"
+publication_date: "2016-01-01"
+last_updated: "2016-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022112"
+soort: "zbo"
+stam_id: "9123943"
+version_id: "14584072"
+internal_id: "C19842961"
+label_id: "9102904"
+dtd_version: "2.0"
+original_entry_into_force: "2007-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022112/2016-01-01/0"
+intitule_bron: "Stcrt.2007-117"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-06-05"
+intitule_published: "2007-06-21"
+intitule_in_force: "2007-06-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-117"
+original_signed_date: "2007-06-05"
+original_published_date: "2007-06-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-117-p17-SC81034"
+entry_into_force_date: "2007-07-01"
+jci_1_3: "jci1.3:c:BWBR0022112&z=2016-01-01&g=2016-01-01"
+jci_1_0: "1.0:c:BWBR0022112&g=2016-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit ontheffing zelfpromotie publieke omroep"
+signed_date: "2007-06-05"
+entry_into_force: "2007-07-01"
 ---
-
 # Besluit van het Commissariaat voor de Media van 5 juni 2007 houdende ontheffing van het bepaalde in de eerste volzin van het tweede lid van artikel 52 van de Mediawet in verband met de vermeldingen en vertoningen van namen, (beeld)merken of diensten van publieke omroepinstellingen (Besluit ontheffing zelfpromotie publieke omroep)
 
 Het Commissariaat voor de Media,
@@ -20,7 +46,7 @@ Besluit:
 
 ### Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 ### Naam en (beeld)merk
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aan omroepinstellingen wordt ontheffing verleend, van het bepaalde in de eerste volzin van het tweede lid van [artikel 52 van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=52), voor het vermelden of tonen van:
 
@@ -52,7 +78,7 @@ Deze vermelding of vertoning mag niet eveneens een vermijdbare vermelding of ver
 
 ### Diensten
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan omroepinstellingen wordt ontheffing verleend, van het bepaalde in de eerste volzin van het tweede lid van [artikel 52 van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=52), voor het tonen en vermelden van diensten in het eigen programma van de omroepinstelling onder de voorwaarden dat:
 
@@ -66,25 +92,25 @@ Deze vermelding of vertoning mag niet eveneens een vermijdbare vermelding of ver
 
 ### Oproepen in het kader van nevenactiviteiten
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
 ### Oproepen in het kader van verenigingsactiviteiten
 
-#### Artikel 5
+##### Artikel 5
 
 Oproepen in het kader van verenigingsactiviteiten dienen beperkt te blijven tot oproepen die betrekking hebben op activiteiten welke rechtstreeks voortvloeien uit de (democratische) verenigingsstructuur van omroepverenigingen (ledenvergaderingen e.d.).
 
 ### Oproepen in het kader van ledenwerving
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
 ### Duur
 
-#### Artikel 7
+##### Artikel 7
 
 1. Dit besluit treedt in werking met ingang van 1 juli 2007.
 

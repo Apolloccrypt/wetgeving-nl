@@ -1,13 +1,39 @@
 ---
-title: "Verlofregeling TBS"
+title: "Regeling van de Staatssecretaris van Veiligheid en Justitie van 24 december 2010, nr. 5679537/10/DJI, houdende regels over de verlening van een machtiging tot verlof aan het hoofd van de inrichting voor verpleging van ter beschikking gestelden (Verlofregeling TBS)"
 identifier: "BWBR0029361"
-categorie: "Strafrecht"
-publicatiedatum: 2022-01-14
-laatste_update: 2022-01-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029361"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-01-14"
+last_updated: "2022-01-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029361"
+soort: "ministeriele-regeling"
+stam_id: "11191103"
+version_id: "18312442"
+internal_id: "C25496351"
+label_id: "11165484"
+dtd_version: "2.0"
+original_entry_into_force: "2011-01-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029361/2022-01-14/0"
+intitule_bron: "Stcrt.2010-21597"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-12-24"
+intitule_published: "2010-12-31"
+intitule_in_force: "2010-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-21597"
+original_signed_date: "2010-12-24"
+original_published_date: "2010-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-21597"
+entry_into_force_date: "2011-01-02"
+jci_1_3: "jci1.3:c:BWBR0029361&z=2022-01-14&g=2022-01-14"
+jci_1_0: "1.0:c:BWBR0029361&g=2022-01-14"
+citeertitel_status: "officieel"
+short_title: "Verlofregeling TBS"
+signed_date: "2010-12-24"
+entry_into_force: "2011-01-02"
 ---
-
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 24 december 2010, nr. 5679537/10/DJI, houdende regels over de verlening van een machtiging tot verlof aan het hoofd van de inrichting voor verpleging van ter beschikking gestelden (Verlofregeling TBS)
 
 Gelet op [artikel 53, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&artikel=53), en [54, vijfde lid, van het Reglement verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&artikel=54);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Algemene bepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het hoofd FPC dient de verlofaanvraag schriftelijk in bij de Minister en voert deze in, in het door de Minister voorgeschreven geautomatiseerde systeem.
 
@@ -86,7 +112,7 @@ In deze regeling wordt verstaan onder:
 
 7. De risicotaxatie bedoeld in [artikel 2, derde lid onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2022-01-14&g=2022-01-14), is niet ouder dan een jaar, gerekend vanaf de datum van de verlofaanvraag.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een verzoek tot wijziging van het verlofplan wordt ondertekend door het hoofd FPC.
 
@@ -94,7 +120,7 @@ In deze regeling wordt verstaan onder:
 
 3. Het verzoek voldoet aan de eisen die aan een verlofaanvraag worden gesteld als vermeld in [artikel 2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2022-01-14&g=2022-01-14).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien een machtiging wordt aangevraagd na overplaatsing, blijkt uit de aanvraag tot welke resultaten de behandelpogingen in het vorige FPC hebben geleid.
 
@@ -106,13 +132,13 @@ In deze regeling wordt verstaan onder:
 
 - c. de verlofaanvraag gaat vergezeld van een verlofplan dat aan de nieuwe situatie is aangepast.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Met het oog op een nieuwe machtiging wordt door het hoofd FPC een evaluatie opgesteld, die ten hoogste vier maanden en uiterlijk twee maanden voordat de machtiging verloopt, wordt ingediend.
 
 2. De evaluatie voldoet aan de eisen die aan een verlofaanvraag worden gesteld als vermeld in [artikel 2, eerste tot en met vierde lid en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=2&artikel=2&z=2022-01-14&g=2022-01-14).
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een verlofaanvraag, waaronder begrepen de evaluatie van een verlof, wordt door de Minister procedureel getoetst en vervolgens, met het oog op een inhoudelijk advies voorgelegd aan het AVt.
 
@@ -122,7 +148,7 @@ In deze regeling wordt verstaan onder:
 
 4. Indien het AVt adviseert een machtiging te verlenen, kan de Minister gemotiveerd een andere beslissing nemen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien bij een evaluatie van het onbegeleid verlof of het transmuraal verlof of het proefverlof door een administratieve nalatigheid een nieuwe machtiging niet aansluitend aan de bestaande machtiging kan worden verleend, kan de Minister ambtshalve een machtiging afgeven.
 
@@ -132,7 +158,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 3. Resocialisatieverlof
 
-#### Artikel 8
+##### Artikel 8
 
 1. De aanvraag voor een machtiging begeleid verlof kan alle verloven buiten het FPC onder begeleiding van personeelsleden of medewerkers van het FPC inhouden.
 
@@ -142,19 +168,19 @@ In deze regeling wordt verstaan onder:
 
 4. De aanvraag voor een machtiging begeleid verlof omvat na de beveiligde fase een dubbel begeleide fase, tenzij het hoofd FPC op de wijze als genoemd in het vorige lid aannemelijk maakt dat geen dubbel begeleide fase nodig is.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De aanvraag voor een machtiging onbegeleid verlof kan zowel eendaags als meerdaags verlof inhouden, met een maximum van zes overnachtingen per week buiten het beveiligde deel van het FPC.
 
 2. De machtiging onbegeleid verlof kan alleen worden verleend indien de voorgaande fase van begeleid verlof goed is verlopen of gemotiveerd is overgeslagen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De aanvraag voor een machtiging transmuraal verlof kan een meerdaags verblijf in de samenleving buiten de beveiligde zone van het FPC inhouden.
 
 2. De machtiging transmuraal verlof kan alleen worden verleend indien de voorgaande fasen van begeleid en onbegeleid verlof goed zijn verlopen of gemotiveerd zijn overgeslagen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De aanvraag voor een machtiging proefverlof houdt in de regel een verblijf geheel buiten de beveiligde zone van het FPC in, waarbij het toezicht op de ter beschikking gestelde wordt uitgeoefend door de reclassering.
 
@@ -162,7 +188,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 4. Verlof in geval van langdurige forensische en psychiatrische zorg
 
-#### Artikel 12
+##### Artikel 12
 
 1. Voor de ter beschikking gestelde die geplaatst is in een longstay-voorziening wordt geen machtiging voor verlof verleend, behoudens het bepaalde in het tweede en vijfde lid en het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=5&artikel=13&z=2022-01-14&g=2022-01-14) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0029361&hoofdstuk=5&artikel=14&z=2022-01-14&g=2022-01-14).
 
@@ -180,7 +206,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 5. Incidenteel verlof en de machtiging eenmalig begeleid verlof
 
-#### Artikel 13
+##### Artikel 13
 
 1. De aanvraag voor een machtiging tot incidenteel verlof geschiedt schriftelijk en kan worden gedaan indien er omstandigheden zijn in de persoonlijke levenssfeer van de ter beschikking gestelde of anderszins verpleegde, die zijn aanwezigheid op een plaats buiten het FPC, om redenen van humanitaire aard, noodzakelijk maakt.
 
@@ -190,7 +216,7 @@ In deze regeling wordt verstaan onder:
 
 4. Bij de afweging of een machtiging tot incidenteel verlof wordt verleend, betrekt de Minister de belangen van slachtoffers en hun omgeving, van het door de ter beschikking gestelde of anderszins verpleegde gepleegde delict.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De aanvraag voor een machtiging voor eenmalig begeleid verlof geschiedt schriftelijk en kan worden gedaan indien er omstandigheden zijn, die de aanwezigheid van de ter beschikking gestelde of anderszins verpleegde op een plaats buiten het FPC noodzakelijk maakt, om redenen die voortvloeien uit de resocialisatie.
 
@@ -202,7 +228,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 6. Einde verlof
 
-#### Artikel 15
+##### Artikel 15
 
 1. De machtiging vervalt in de volgende gevallen:
 
@@ -218,7 +244,7 @@ In deze regeling wordt verstaan onder:
 
 3. De machtiging wordt ingetrokken indien de ter beschikking gestelde of anderszins verpleegde, geen rechtmatig verblijf meer heeft in Nederland.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het hoofd FPC trekt het verlof in:
 
@@ -228,7 +254,7 @@ In deze regeling wordt verstaan onder:
 
 2. In geval van een ernstige normschending beslist de minister schriftelijk na overleg met het hoofd FPC of, en zo ja onder welke voorwaarden, de machtiging wordt gecontinueerd.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Indien een machtiging is vervallen doordat de ter beschikking gestelde of anderszins verpleegde, ten behoeve van wie de machtiging was verleend, door het openbaar ministerie is aangemerkt als verdachte van een strafbaar feit waarvoor voorlopige hechtenis is toegelaten, wordt géén nieuwe machtiging verleend zolang de zaak nog niet onherroepelijk is afgedaan.
 
@@ -236,11 +262,11 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 7. Overgangsbepaling
 
-#### Artikel 18
+##### Artikel 18
 
 Deze regeling is van toepassing op alle verlofaanvragen die na twee maanden na de inwerkingtreding van deze regeling worden ingediend.
 
-#### Artikel 19
+##### Artikel 19
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 

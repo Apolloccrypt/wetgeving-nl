@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsregeling kansspelheffing"
+title: "Regeling van de Minister van Veiligheid en Justitie van 27 april 2012, nr. 253887, houdende regels ter uitvoering van de controle en ter vaststelling van bepaalde elementen van de heffingsgrondslag als bedoeld in artikel 6a van het Kansspelenbesluit (Uitvoeringsregeling kansspelheffing)"
 identifier: "BWBR0031528"
-categorie: "Belastingrecht"
-publicatiedatum: 2021-04-01
-laatste_update: 2021-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031528"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-04-01"
+last_updated: "2021-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031528"
+soort: "ministeriele-regeling"
+stam_id: "11728163"
+version_id: "19368302"
+internal_id: "C27080691"
+label_id: "11700834"
+dtd_version: "2.0"
+original_entry_into_force: "2012-05-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031528/2021-04-01/0"
+intitule_bron: "Stcrt.2012-8644"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-04-27"
+intitule_published: "2012-05-02"
+intitule_in_force: "2012-05-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-8644"
+original_signed_date: "2012-04-27"
+original_published_date: "2012-05-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-8644"
+entry_into_force_date: "2012-05-03"
+jci_1_3: "jci1.3:c:BWBR0031528&z=2021-04-01&g=2021-04-01"
+jci_1_0: "1.0:c:BWBR0031528&g=2021-04-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsregeling kansspelheffing"
+signed_date: "2012-04-27"
+entry_into_force: "2012-05-03"
 ---
-
 # Regeling van de Minister van Veiligheid en Justitie van 27 april 2012, nr. 253887, houdende regels ter uitvoering van de controle en ter vaststelling van bepaalde elementen van de heffingsgrondslag als bedoeld in artikel 6a van het Kansspelenbesluit (Uitvoeringsregeling kansspelheffing)
 
 Gelet op de [artikelen 33e](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33e) en [33f van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33f), de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=8), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=13) en [67 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67), [artikel 67 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=67) en [artikel 6a van het Kansspelenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=6a);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -42,13 +68,13 @@ In deze regeling wordt verstaan onder:
 
 - k. **raad van bestuur:** raad van bestuur van de kansspelautoriteit, bedoeld in [artikel 33a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a).
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling heeft betrekking op de heffing van de in [artikelen 33e](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33e) en [33f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33f) geregelde kansspelheffing.
 
 ### Hoofdstuk 2. De heffingsgrondslag
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor de houder van een op grond van [artikel 30h, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30h) verleende vergunning en de houder van een op grond van [artikel 30z, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30z), verleende vergunning wordt het aantal spelersplaatsen als bedoeld in [artikel 33e, tweede lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33e) gesteld op het gemiddelde van het aantal spelersplaatsen van de kansspelautomaten die deze vergunninghouder op de laatste dag van alle even maanden gedurende het kalenderjaar in opstelling heeft.
 
@@ -66,7 +92,7 @@ Deze regeling heeft betrekking op de heffing van de in [artikelen 33e](https://w
 
 5. Het tarief, bedoeld in [artikel 33f, tweede lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33f), is van toepassing op horeca-automaten.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor de houder van de op grond van [artikel 27h, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27h) verleende vergunning, wordt het aantal speeltafels en het aantal aan die tafels gekoppelde spelersterminals als bedoeld in [artikel 33e, tweede lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33e), gesteld op het gemiddelde van het aantal speeltafels en het aantal aan die tafels gekoppelde spelersterminals die deze vergunninghouder op de laatste dag van alle even maanden gedurende het kalenderjaar in opstelling heeft.
 
@@ -74,7 +100,7 @@ Deze regeling heeft betrekking op de heffing van de in [artikelen 33e](https://w
 
 ### Hoofdstuk 3. Aangifte en aanslagen
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het uitnodigen tot het doen van aangifte geschiedt door het toezenden van een aangifteformulier of door het toezenden van een verwijzing naar het webadres waarop het aangifteformulier beschikbaar is gesteld.
 
@@ -88,13 +114,13 @@ Deze regeling heeft betrekking op de heffing van de in [artikelen 33e](https://w
 
 3. Het aangifteformulier of de verwijzing naar het webadres waarop het aangifteformulier beschikbaar is gesteld, kunnen langs elektronische weg worden toegezonden.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De aangifte wordt gedaan binnen zes weken na toezending van het aangifteformulier of de verwijzing naar het webadres waarop het aangifteformulier beschikbaar is gesteld, tenzij de raad van bestuur onder door hem te stellen voorwaarden uitstel heeft verleend van het doen van aangifte.
 
 2. Indien het aangifteformulier of de verwijzing naar het webadres waarop het aangifteformulier beschikbaar is gesteld, langs elektronische weg is toegezonden, wordt de aangifte gedaan door de gevraagde gegevens of bescheiden langs elektronische weg toe te zenden, tenzij de raad van bestuur onder door hem te stellen voorwaarden toestaat de aangifte op andere wijze toe te zenden.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Na aanvang van het kalenderjaar kunnen één of meer voorlopige aanslagen worden opgelegd tot ten hoogste het bedrag waarop de aanslag over dat kalenderjaar vermoedelijk zal worden vastgesteld, na verrekening van reeds opgelegde voorlopige aanslagen.
 
@@ -102,23 +128,23 @@ Deze regeling heeft betrekking op de heffing van de in [artikelen 33e](https://w
 
 ### Hoofdstuk 4. Grondslag
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling berust op de [artikelen 33e, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33e), en [33f, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33f) en [artikel 9 van het Kansspelenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=9).
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking met ingang van de dag na de datum van de Staatscourant waarin deze wordt geplaatst.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling kansspelheffing.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 4a
+##### Artikel 4a
 
 1. Het deel van de bestemmingsheffing dat de raad van bestuur oplegt aan de houder van een op grond van [artikel 27h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27h), [30h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30h), of [30z, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30z) verleende vergunning als bijdrage ter bestrijding van de kosten, bedoeld in [artikel 33e, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33e), bedraagt:
 

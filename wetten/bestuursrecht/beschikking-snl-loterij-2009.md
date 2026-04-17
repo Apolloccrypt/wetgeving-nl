@@ -1,13 +1,39 @@
 ---
-title: "Beschikking SNL Loterij 2009"
+title: "Beschikking van de Minister van Justitie van 7 december 2009, nr. 5631620/09/DSP, houdende verlening van een vergunning tot het organiseren van een loterij (Beschikking SNL Loterij 2009)"
 identifier: "BWBR0026979"
-categorie: "Bestuursrecht"
-publicatiedatum: 2010-01-01
-laatste_update: 2010-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026979"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-01-01"
+last_updated: "2010-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026979"
+soort: "ministeriele-regeling"
+stam_id: "10353073"
+version_id: "17003572"
+internal_id: "C23454701"
+label_id: "10328374"
+dtd_version: "2.0"
+original_entry_into_force: "2010-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026979/2010-01-01/0"
+intitule_bron: "Stcrt.2009-20235"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-12-07"
+intitule_published: "2009-12-30"
+intitule_in_force: "2009-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-20235"
+original_signed_date: "2009-12-07"
+original_published_date: "2009-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-20235"
+entry_into_force_date: "2010-01-01"
+jci_1_3: "jci1.3:c:BWBR0026979&z=2010-01-01&g=2010-01-01"
+jci_1_0: "1.0:c:BWBR0026979&g=2010-01-01"
+citeertitel_status: "officieel"
+short_title: "Beschikking SNL Loterij 2009"
+signed_date: "2009-12-07"
+entry_into_force: "2010-01-01"
 ---
-
 # Beschikking van de Minister van Justitie van 7 december 2009, nr. 5631620/09/DSP, houdende verlening van een vergunning tot het organiseren van een loterij (Beschikking SNL Loterij 2009)
 
 Gelezen het verzoek van de Stichting Samenwerkende non-profit Loterijen van 20 juli 2009 haar vergunning te verlenen voor het openstellen van een gelegenheid als bedoeld in [artikel 1, onder a, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=1);
@@ -18,7 +44,7 @@ Gezien het advies van het College van toezicht op de kansspelen van 30 september
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In deze beschikking wordt verstaan onder:
 
 - g. **trekking:** aanwijzing van één of meerdere winnende deelnamebewijzen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aan de stichting wordt voor de duur van vijf jaren, te rekenen vanaf 1 januari 2010 tot en met 31 december 2014 vergunning verleend tot het organiseren van de SNL Loterijen.
 
@@ -44,7 +70,7 @@ In deze beschikking wordt verstaan onder:
 
 3. Aan de in het eerste lid bedoelde vergunning worden de in [artikel 3 tot en met artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0026979&artikel=3&z=2010-01-01&g=2010-01-01) vervatte voorschriften verbonden, die zonodig kunnen worden gewijzigd of aangevuld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De loterijen worden georganiseerd met inachtneming van de statuten en reglementen van de stichting.
 
@@ -52,7 +78,7 @@ In deze beschikking wordt verstaan onder:
 
 3. De reglementen behelzen in ieder geval bepalingen inzake de deelnamevoorwaarden, de prijzenschema’s, de prijsbepaling en de prijzenreserve.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De stichting zorgt voor een doelmatige administratie, organisatie en uitvoering van de krachtens deze vergunning georganiseerde kansspelen.
 
@@ -60,7 +86,7 @@ In deze beschikking wordt verstaan onder:
 
 3. De stichting neemt de nodige maatregelen met het oog op de naleving van de aan deze vergunning verbonden voorschriften en de op grond daarvan opgestelde reglementen door de organisaties en personen die op enigerlei wijze bij de administratie, organisatie en uitvoering van een SNL Loterij zijn betrokken.
 
-#### Artikel 5
+##### Artikel 5
 
 1. In alle aankondigingen en voor openbaarmaking of verspreiding bestemde stukken wordt vermeld dat voor de SNL Loterijen vergunning is verleend door de minister, onder aanhaling van datum en kenmerk van deze beschikking.
 
@@ -80,11 +106,11 @@ In deze beschikking wordt verstaan onder:
 
 4. De stichting neemt bij haar wervings- en reclameactiviteiten de haar door de minister gegeven aanwijzingen in acht.
 
-#### Artikel 6
+##### Artikel 6
 
 Eventuele provisie aan verkopers van deelnamebewijzen wordt beperkt tot ten hoogste 10% van de nominale waarde van de door hun bemiddeling geplaatste deelnamebewijzen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De stichting organiseert ten hoogste zesmaal per jaar een SNL Loterij, waarbij de perioden tussen de loterijen zodanig gekozen worden dat de loterijen verspreid over het jaar plaatsvinden.
 
@@ -92,23 +118,23 @@ Eventuele provisie aan verkopers van deelnamebewijzen wordt beperkt tot ten hoog
 
 3. De inleg voor deelneming aan een SNL Loterij bedraagt ten hoogste € 22,69 per geheel lot. De inleg per deellot wordt naar evenredigheid berekend. Deelloten geven aanspraak op een evenredig deel van de daarop gevallen prijs.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De prijsbepaling en de vaststelling van de winnaars van de krachtens deze vergunning georganiseerde kansspelen geschiedt in het openbaar, onder toezicht en verantwoordelijkheid van een notaris, die het verloop van de prijsbepaling en de vaststelling van de winnaars telkens bij proces-verbaal constateert.
 
 2. De prijsbepaling en de vaststelling van de winnaars geschiedt op een door een notaris in een trekkingsprocedure vastgelegde wijze, die deel uitmaakt van de reglementen van de stichting.
 
-#### Artikel 9
+##### Artikel 9
 
 Onverminderd de voorschriften bij en krachtens de [Wet op de kansspelbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002359) (Stb. 1961, 313), keert de stichting de prijzen na elke prijsbepaling onverkort zo spoedig mogelijk aan de winnaars uit. Indien dit niet mogelijk is, houdt de stichting de prijzen overeenkomstig [artikel 38 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=38) gedurende één jaar na de prijsbepaling te hunner beschikking.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De stichting onderwerpt de mechanische, elektrische en elektronische processen die gebezigd worden bij de deelneming, prijsbepaling en vaststelling van de winnaars van de krachtens deze vergunning georganiseerde kansspelen, aan een voorafgaande keuring en periodieke controle door één of meer door de minister aangewezen onafhankelijke deskundigen of instellingen.
 
 2. De stichting stuurt uiterlijk binnen drie maanden na afloop van een kalenderjaar het verslag van de bevindingen van de in het eerste lid bedoelde onafhankelijke deskundigen en keuringsinstellingen aan de minister.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Gerekend over een kalenderjaar bedraagt de afdracht ten minste 50% van de nominale waarde van de verkochte deelnemingsbewijzen.
 
@@ -116,7 +142,7 @@ Onverminderd de voorschriften bij en krachtens de [Wet op de kansspelbelasting](
 
 3. Onverminderd het bepaalde in het eerste lid, kan ten behoeve van de continuïteit van de exploitatie een reservering worden gevormd. De omvang van deze reservering mag aan het einde van een kalenderjaar, ongeacht de periode waarin deze is opgebouwd, ten hoogste 2,5% bedragen van de nominale waarde van de in dat kalenderjaar verkochte deelnemingsbewijzen. De minister kan voor de omvang van de reservering in bijzondere gevallen een hoger percentage vaststellen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De afdracht komt, overeenkomstig een door de stichting in haar financieel reglement opgenomen verdeelsleutel, ten goede aan:
 
@@ -132,11 +158,11 @@ Onverminderd de voorschriften bij en krachtens de [Wet op de kansspelbelasting](
 
 2. Uiterlijk binnen drie maanden na afloop van een kalenderjaar voldoet de stichting de afdracht over dat kalenderjaar aan de in het eerste lid genoemde verenigingen, stichtingen en instellingen. Daarvan doet de stichting verslag in de in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026979&artikel=14&z=2010-01-01&g=2010-01-01), bedoelde jaarrekening die betrekking heeft op het kalenderjaar waarin de opbrengst van de loterij is gegenereerd.
 
-#### Artikel 13
+##### Artikel 13
 
 De stichting zendt binnen één maand na het einde van elk kwartaal aan de minister een verslag betreffende het financiële verloop, alsmede andere door de minister noodzakelijk geachte gegevens, over dat kwartaal.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De stichting stelt een jaarrekening en een jaarverslag op welke voldoen aan de eisen gesteld in [Boek 2, Titel 9, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9). De minister kan aanwijzingen geven omtrent de inrichting van de jaarrekening en het jaarverslag.
 
@@ -146,11 +172,11 @@ De stichting zendt binnen één maand na het einde van elk kwartaal aan de minis
 
 4. Binnen vier maanden na afloop van een kalenderjaar zendt de stichting de jaarrekening met het verslag en de verklaring, alsmede het jaarverslag aan de minister.
 
-#### Artikel 15
+##### Artikel 15
 
 De kosten verbonden aan toezicht, keuring, controle en onderzoek ingevolge de [artikelen 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026979&artikel=8&z=2010-01-01&g=2010-01-01), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026979&artikel=10&z=2010-01-01&g=2010-01-01), en [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026979&artikel=14&z=2010-01-01&g=2010-01-01), zijn voor rekening van de stichting.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De door de minister aangewezen ambtenaren en andere personen zijn bevoegd inlichtingen van de stichting te verlangen, voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is.
 
@@ -160,10 +186,10 @@ De kosten verbonden aan toezicht, keuring, controle en onderzoek ingevolge de [a
 
 4. Indien het maken van kopieën niet ter plaatse kan geschieden, zijn zij bevoegd de gegevens en bescheiden voor dat doel voor korte tijd mee te nemen tegen een door hen af te geven schriftelijk bewijs.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze beschikking treedt in werking met ingang van 1 januari 2010 en zal worden gepubliceerd in de Staatscourant.
 
-#### Artikel 18
+##### Artikel 18
 
 Deze beschikking wordt aangehaald als: Beschikking SNL Loterij 2009.

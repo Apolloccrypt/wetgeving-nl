@@ -1,20 +1,46 @@
 ---
-title: "Besluit instelling tijdelijke programmadirectoraat-generaal Herstel en verlenen mandaat, volmacht en machtiging directeuren-generaal van het tijdelijke programmadirectoraat-generaal Herstel"
+title: "Besluit van de secretaris-generaal van het Ministerie van Financiën 11 januari 2022 (2021-261153) houdende de instelling van het tijdelijke programmadirectoraat-generaal Herstel en het verlenen van mandaat, volmacht en machtiging aan de directeuren-generaal van het tijdelijke programmadirectoraat-generaal Herstel"
 identifier: "BWBR0050102"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-12-14
-laatste_update: 2024-12-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050102"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-12-14"
+last_updated: "2024-12-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050102"
+soort: "ministeriele-regeling"
+stam_id: "17196453"
+version_id: "30275952"
+internal_id: "C43363651"
+label_id: "17102804"
+dtd_version: "2.0"
+original_entry_into_force: "2022-01-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050102/2024-12-14/0"
+intitule_bron: "Stcrt.2022-986"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-01-11"
+intitule_published: "2022-01-19"
+intitule_in_force: "2022-01-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-986"
+original_signed_date: "2022-01-11"
+original_published_date: "2022-01-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-986"
+entry_into_force_date: "2022-01-20"
+jci_1_3: "jci1.3:c:BWBR0050102&z=2024-12-14&g=2024-12-14"
+jci_1_0: "1.0:c:BWBR0050102&g=2024-12-14"
+citeertitel_status: "redactioneel"
+short_title: "Besluit instelling tijdelijke programmadirectoraat-generaal Herstel en verlenen mandaat, volmacht en machtiging directeuren-generaal van het tijdelijke programmadirectoraat-generaal Herstel"
+signed_date: "2022-01-11"
+entry_into_force: "2022-01-20"
 ---
-
 # Besluit van de secretaris-generaal van het Ministerie van Financiën 11 januari 2022 (2021-261153) houdende de instelling van het tijdelijke programmadirectoraat-generaal Herstel en het verlenen van mandaat, volmacht en machtiging aan de directeuren-generaal van het tijdelijke programmadirectoraat-generaal Herstel
 
 Gelet op [artikel 11, eerste lid, van het Organisatiebesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&artikel=11) en [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1);
 
 Besluit:
 
-#### Artikel 1. Tijdelijk programmadirectoraat-generaal Herstel
+##### Artikel 1. Tijdelijk programmadirectoraat-generaal Herstel
 
 1. Er is een tijdelijk programmadirectoraat-generaal Herstel.
 
@@ -28,7 +54,7 @@ Besluit:
 
 - b. regie op de uitvoeringsketen en opdrachtgeverschap.
 
-#### Artikel 2. Directeur-Generaal Herstelbeleid
+##### Artikel 2. Directeur-Generaal Herstelbeleid
 
 1. De directeur-generaal Herstelbeleid is verantwoordelijk voor de programma- en organisatieonderdelen van het tijdelijke programmadirectoraat-generaal, bestaande uit:
 
@@ -102,11 +128,11 @@ Besluit:
 
 - d. het inrichten van gemeentelijke en regionale ondersteuning.
 
-#### Artikel 3. Directeur-Generaal Ketenregie
+##### Artikel 3. Directeur-Generaal Ketenregie
 
 Vervallen
 
-#### Artikel 4. Mandaat, volmacht en machtiging
+##### Artikel 4. Mandaat, volmacht en machtiging
 
 1. De directeur-generaal Herstelbeleid heeft binnen het kader van het tijdelijke programmadirectoraat-generaal en eventueel door de Minister of namens de Minister door de secretaris-generaal gegeven richtlijnen mandaat ten aanzien van het nemen van besluiten en het afdoen van stukken betreffende alle aangelegenheden die behoren tot het tijdelijke programmadirectoraat-generaal.
 
@@ -126,7 +152,7 @@ de directeur-generaal Herstelbeleid.
 
 4. Het [Mandaatbesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043022) is van overeenkomstige toepassing.
 
-#### Artikel 5. Hoofdbudgethouderschap
+##### Artikel 5. Hoofdbudgethouderschap
 
 1. De directeur-generaal Herstelbeleid is hoofdbudgethouder voor het aan hem toegewezen budget.
 
@@ -134,11 +160,11 @@ de directeur-generaal Herstelbeleid.
 
 3. De directeur-generaal Herstelbeleid kan voor de in het eerste en tweede lid genoemde bevoegdheden ondermandaat verlenen aan budgethouders. In het ondermandaat kan een maximumbedrag worden aangegeven.
 
-#### Artikel 6. Vervangingsregeling
+##### Artikel 6. Vervangingsregeling
 
 Bij afwezigheid van de directeur-generaal Herstelbeleid wordt hij vervangen door de programmadirecteur Herstelbeleid en Parlementaire Zaken of de programmadirecteur Schulden.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2022.
 

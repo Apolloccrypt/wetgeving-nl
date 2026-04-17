@@ -1,13 +1,39 @@
 ---
-title: "Mandaatbesluit Raad voor de Kinderbescherming 2022"
+title: "Besluit van de algemeen directeur van de Raad voor de Kinderbescherming van het Ministerie van Justitie en Veiligheid van 7 juli 2022, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de algemeen directeur ressorterende functionarissen (Mandaatbesluit Raad voor de Kinderbescherming Ministerie van Justitie en Veiligheid 2022)"
 identifier: "BWBR0046969"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-07-27
-laatste_update: 2022-07-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046969"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-07-27"
+last_updated: "2022-07-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046969"
+soort: "ministeriele-regeling"
+stam_id: "16436623"
+version_id: "28795192"
+internal_id: "C40773381"
+label_id: "16360804"
+dtd_version: "2.0"
+original_entry_into_force: "2022-07-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046969/2022-07-27/0"
+intitule_bron: "Stcrt.2022-19514"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-07-07"
+intitule_published: "2022-07-26"
+intitule_in_force: "2022-07-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-19514"
+original_signed_date: "2022-07-07"
+original_published_date: "2022-07-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-19514"
+entry_into_force_date: "2022-07-27"
+jci_1_3: "jci1.3:c:BWBR0046969&z=2022-07-27&g=2022-07-27"
+jci_1_0: "1.0:c:BWBR0046969&g=2022-07-27"
+citeertitel_status: "officieel"
+short_title: "Mandaatbesluit Raad voor de Kinderbescherming 2022"
+signed_date: "2022-07-07"
+entry_into_force: "2022-07-27"
 ---
-
 # Besluit van de algemeen directeur van de Raad voor de Kinderbescherming van het Ministerie van Justitie en Veiligheid van 7 juli 2022, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de algemeen directeur ressorterende functionarissen (Mandaatbesluit Raad voor de Kinderbescherming Ministerie van Justitie en Veiligheid 2022)
 
 gelet op [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=2) en [3 van het Mandaatbesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=3);
@@ -22,7 +48,7 @@ gelet op [Afdeling 10.1.1. van de Algemene wet bestuursrecht](https://wetten.ove
 
 Besluit tot vaststelling van de volgende mandaat-, volmacht en machtigingsregeling:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder
 
@@ -46,7 +72,7 @@ In dit besluit wordt verstaan onder
 
 - j. **coördinator taakstraffen:** de werknemer van de Raad voor de Kinderbescherming die de functie van coördinator taakstraffen vervult.
 
-#### Artikel 2. Algemeen mandaat aan directieleden
+##### Artikel 2. Algemeen mandaat aan directieleden
 
 1. Van het ingevolge [artikel 1 van het Mandaatbesluit hoofden taakorganisaties Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1) aan de algemeen directeur van de Raad voor de Kinderbescherming verleende mandaat wordt ten aanzien van de aangelegenheden die hun portefeuille of programma betreffen, mandaat en de bevoegdheid tot het doorgeven daarvan verleend aan de directieleden, met uitzondering van de in lid 2 genoemde voorbehouden bevoegdheden.
 
@@ -72,19 +98,19 @@ In dit besluit wordt verstaan onder
 
 - j. de bevoegdheid tot het nemen van beslissingen in het kader van klachten die zijn ingediend tegen directieleden.
 
-#### Artikel 3. Plaatsvervanging algemeen directeur en directieleden
+##### Artikel 3. Plaatsvervanging algemeen directeur en directieleden
 
 1. Bij afwezigheid wordt de algemeen directeur vervangen door één van de directeuren.
 
 2. De algemeen directeur vervangt de overige directeuren bij afwezigheid van één of meer van hen, tenzij de algemeen directeur op andere wijze in vervanging voorziet.
 
-#### Artikel 4. Personeels- en financieel mandaat
+##### Artikel 4. Personeels- en financieel mandaat
 
 1. De functionarissen genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046969&bijlage=1&z=2022-07-27&g=2022-07-27) bij dit besluit, zijn gemandateerd/ge(vol)machtigd tot het optreden als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hen ressorterende functionarissen en voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
 
 2. Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het doen van uitgaven, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046969&bijlage=2&z=2022-07-27&g=2022-07-27) bij deze regeling voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
 
-#### Artikel 5. Mandaatverlening aan raadsmedewerkers in verband met het primaire proces
+##### Artikel 5. Mandaatverlening aan raadsmedewerkers in verband met het primaire proces
 
 1. De raadsmedewerkers zijn ten behoeve van de uitvoering van de aan de Raad voor de Kinderbescherming toevertrouwde (wettelijke) taken, in het kader van de uitoefening van hun functie bevoegd tot het voorbereiden en uitvoeren van onderzoek, het nemen van beslissingen aangaande te verrichten onderzoekshandelingen en de voorbereiding van daarop te baseren rapportages, beslissingen, adviezen en verzoeken.
 
@@ -94,7 +120,7 @@ In dit besluit wordt verstaan onder
 
 4. De coördinator taakstraffen is bevoegd om beslissingen te nemen in het kader van de begeleiding, de uitvoering, het coördineren en het rapporteren van taakstraffen.
 
-#### Artikel 6. Machtiging ten behoeve van juridische procedures en vertegenwoordiging van de Raad voor de Kinderbescherming ter zitting
+##### Artikel 6. Machtiging ten behoeve van juridische procedures en vertegenwoordiging van de Raad voor de Kinderbescherming ter zitting
 
 1. Directieleden zijn bevoegd om de Raad voor de Kinderbescherming c.q. de minister te vertegenwoordigen in bestuursrechtelijke procedures. Zij zijn bevoegd (te beslissen) tot het instellen van hoger beroep in de desbetreffende procedures en de daartoe benodigde handelingen te verrichten.
 
@@ -106,7 +132,7 @@ In dit besluit wordt verstaan onder
 
 5. De bevoegdheid om te beslissen tot het instellen van hoger beroep, respectievelijk beroep in cassatie in de in het vierde lid, bedoelde civiele procedures wordt uitgeoefend door directieleden.
 
-#### Artikel 7. Algemene aan het mandaat verbonden instructies en informatie over uitoefening van mandaat
+##### Artikel 7. Algemene aan het mandaat verbonden instructies en informatie over uitoefening van mandaat
 
 1. De uitoefening van de gemandateerde bevoegdheden geschiedt met inachtneming van het meest recente Kwaliteitskader van de Raad voor de Kinderbescherming en de van dit mandaatbesluit deel uitmakende mandaatinstructie.
 
@@ -114,11 +140,11 @@ In dit besluit wordt verstaan onder
 
 3. Het niet voldoen aan de in het tweede lid omschreven terugkoppelingsplicht doet niet af aan de rechtsgeldigheid van de krachtens mandaat genomen beslissing of verrichte handeling.
 
-#### Artikel 8. Mandaat van bevoegdheid tot het opvragen van afschriften op grond van de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) en gegevens uit de basisregistratie personen
+##### Artikel 8. Mandaat van bevoegdheid tot het opvragen van afschriften op grond van de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) en gegevens uit de basisregistratie personen
 
 Raadsmedewerkers en de functionarissen die raadsmedewerkers administratief ondersteunen, waaronder de ‘medewerker administratie’ zijn bevoegd tot het namens de algemeen directeur opvragen van afschriften als bedoeld in [artikel 42 lid 4 onder c van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=42) en gegevens uit de basisregistratie personen, op de grondslag van het daartoe afgegeven autorisatiebesluit van de Minister van Justitie en Veiligheid (te weten het besluit van 22 januari 2014, met kenmerk: 2014-0000035702 en de besluiten dit het laatstgenoemde besluit vervangen).
 
-#### Artikel 9. Voorbereiding van bestuursrechtelijke besluiten
+##### Artikel 9. Voorbereiding van bestuursrechtelijke besluiten
 
 1. Directieleden zijn krachtens mandaat bevoegd tot het voorbereiden en nemen van primaire besluiten namens de minister in aangelegenheden die aan de Raad voor de Kinderbescherming zijn toevertrouwd.
 
@@ -126,21 +152,21 @@ Raadsmedewerkers en de functionarissen die raadsmedewerkers administratief onder
 
 3. Directieleden, onderscheidenlijk de algemeen directeur kunnen zich bij de voorbereiding van door hen te nemen bestuursrechtelijke besluiten laten bijstaan door bij de Raad voor de Kinderbescherming werkzame functionarissen.
 
-#### Artikel 10. Klachtafhandeling
+##### Artikel 10. Klachtafhandeling
 
 1. Directieleden zijn bevoegd tot het afdoen van klachten die betrekking hebben op onder hun verantwoordelijkheid werkzame personen, met inachtneming van de meest recente Klachtenregeling Raad voor de Kinderbescherming en het [Besluit klachtadviescommissie Raad voor de Kinderbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0044134).
 
 2. Directieleden kunnen zich bij de uitoefening van de in het eerste lid bedoelde bevoegdheid laten bijstaan door bij de Raad voor de Kinderbescherming werkzame functionarissen met inachtneming van de meest recente Klachtenregeling Raad voor de Kinderbescherming.
 
-#### Artikel 11. Intrekking [Mandaatregeling Raad voor de Kinderbescherming 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045483)
+##### Artikel 11. Intrekking [Mandaatregeling Raad voor de Kinderbescherming 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045483)
 
 De [Mandaatregeling Raad voor de Kinderbescherming 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045483) wordt ingetrokken.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2022.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Mandaatbesluit Raad voor de Kinderbescherming 2022.
 

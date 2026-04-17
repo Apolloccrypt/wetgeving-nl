@@ -1,13 +1,35 @@
 ---
-title: "Besluit wijziging naam Departement voor Uniezaken en Overzeese Rijksdelen"
+title: "Besluit van 7 november 1952, houdende wijziging van de naam van het Departement voor Uniezaken en Overzeese Rijksdelen in die van Departement van Overzeese Rijksdelen en overdracht van een gedeelte van de taak van dit Departement aan andere Departementen"
 identifier: "BWBR0002102"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 1953-01-01
-laatste_update: 1953-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002102"
+country: "nl"
+rank: "kb"
+publication_date: "1953-01-01"
+last_updated: "1953-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002102"
+soort: "KB"
+stam_id: "1246203"
+version_id: "1836482"
+internal_id: "C1836481"
+label_id: "1206344"
+dtd_version: "2.0"
+original_entry_into_force: "1953-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002102/1953-01-01/0"
+intitule_bron: "Stb.1952-551"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1952-11-07"
+intitule_status: "goed"
+original_publication: "Stb.1952-551"
+original_signed_date: "1952-11-07"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1953-01-01"
+jci_1_3: "jci1.3:c:BWBR0002102&z=1953-01-01&g=1953-01-01"
+jci_1_0: "1.0:c:BWBR0002102&g=1953-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit wijziging naam Departement voor Uniezaken en Overzeese Rijksdelen"
+signed_date: "1952-11-07"
+entry_into_force: "1953-01-01"
 ---
-
 # Besluit van 7 november 1952, houdende wijziging van de naam van het Departement voor Uniezaken en Overzeese Rijksdelen in die van Departement van Overzeese Rijksdelen en overdracht van een gedeelte van de taak van dit Departement aan andere Departementen
 
 Op voordracht van Onze Minister-President, Minister van Algemene Zaken, mede namens Onze Minister van Buitenlandse Zaken, Onze Minister zonder Portefeuille, Mr J. M. A. H. Luns, en Onze Ministers van Binnenlandse Zaken, van Onderwijs, Kunsten en Wetenschappen, van Financiën, van Economische Zaken, van Landbouw, Visserij en Voedselvoorziening en voor Uniezaken en Overzeese Rijksdelen, dd. 6 November 1952, nr 33328;
@@ -16,7 +38,7 @@ Gelet op [artikel 79 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 Hebben goedgevonden en verstaan:
 
-#### onbenoemd
+##### onbenoemd
 
 I. Aan Onze Minister van Buitenlandse Zaken over te dragen de zorg voor alle aangelegenheden betreffende de Nederlands-Indonesische Unie en de overige niet op de Overzeese Rijksdelen betrekking hebbende aangelegenheden, waarmede Onze Minister voor Uniezaken en Overzeese Rijksdelen is belast, met uitzondering van de zorg voor:
 

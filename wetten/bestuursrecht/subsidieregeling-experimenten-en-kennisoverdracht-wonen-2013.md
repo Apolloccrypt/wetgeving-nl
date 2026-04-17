@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling experimenten en kennisoverdracht wonen 2013"
+title: "Regeling van de Minister voor Wonen en Rijksdienst van 10 juni 2013, nr. 2013-000329677, houdende regels voor de verstrekking van subsidies voor experimenten en kennisoverdrachtactiviteiten op het terrein van het rijksbeleid met betrekking tot het bouwen, het wonen en de woonomgeving (Subsidieregeling experimenten en kennisoverdracht wonen 2013)"
 identifier: "BWBR0033574"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-12-22
-laatste_update: 2016-12-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033574"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-12-22"
+last_updated: "2016-12-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033574"
+soort: "ministeriele-regeling"
+stam_id: "12292803"
+version_id: "20586172"
+internal_id: "C28952491"
+label_id: "12264194"
+dtd_version: "2.0"
+original_entry_into_force: "2013-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033574/2016-12-22/0"
+intitule_bron: "Stcrt.2013-16506"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-06-10"
+intitule_published: "2013-06-20"
+intitule_in_force: "2013-06-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-16506"
+original_signed_date: "2013-06-10"
+original_published_date: "2013-06-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-16506"
+entry_into_force_date: "2013-07-01"
+jci_1_3: "jci1.3:c:BWBR0033574&z=2016-12-22&g=2016-12-22"
+jci_1_0: "1.0:c:BWBR0033574&g=2016-12-22"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling experimenten en kennisoverdracht wonen 2013"
+signed_date: "2013-06-10"
+entry_into_force: "2013-07-01"
 ---
-
 # Regeling van de Minister voor Wonen en Rijksdienst van 10 juni 2013, nr. 2013-000329677, houdende regels voor de verstrekking van subsidies voor experimenten en kennisoverdrachtactiviteiten op het terrein van het rijksbeleid met betrekking tot het bouwen, het wonen en de woonomgeving (Subsidieregeling experimenten en kennisoverdracht wonen 2013)
 
 Gelet op de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=3), en [4, eerste lid, onderdelen a, b, d en f, van de Kaderwet overige BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=4) en de [artikelen 6, vijfde lid, onderdeel b, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=6), [8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=8), en [14 van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=14);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - c. **de-minimis verordening 1998/2006:** [verordening (EG) nr. 1998/2006](32006R1998) van de Commissie van Europese Gemeenschappen van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun (PbEU L379), dan wel later daarvoor in de plaats tredende Europese regelgeving
 
-#### Artikel 2
+##### Artikel 2
 
 De minister kan subsidie verstrekken aan rechtspersonen die experimenten uitvoeren of kennisoverdrachtactiviteiten verrichten gericht op:
 
@@ -40,7 +66,7 @@ De minister kan subsidie verstrekken aan rechtspersonen die experimenten uitvoer
 
 #### § 2. Het subsidieplafond
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het subsidieplafond bedraagt ten hoogste het bedrag dat uit de begroting van de Minister voor Wonen en Rijksdienst voor de verschillende in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033574&paragraaf=1&artikel=2&z=2016-12-22&g=2016-12-22) genoemde doeleinden blijkt.
 
@@ -48,7 +74,7 @@ De minister kan subsidie verstrekken aan rechtspersonen die experimenten uitvoer
 
 #### § 3. De subsidieverlening
 
-#### Artikel 4
+##### Artikel 4
 
 1. Vóór indiening van de aanvraag door de aanvrager gemaakte kosten komen voor subsidie in aanmerking.
 
@@ -58,7 +84,7 @@ De minister kan subsidie verstrekken aan rechtspersonen die experimenten uitvoer
 
 - b. een toelichting waarom de aanvraag niet voor aanvang van de activiteit of activiteiten is ingediend.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien voor een subsidie goedkeuring van de Commissie is vereist op grond van artikel 88, derde lid, van het Verdrag tot oprichting van de Europese Gemeenschap:
 
@@ -72,11 +98,11 @@ De minister kan subsidie verstrekken aan rechtspersonen die experimenten uitvoer
 
 4. De verklaring, bedoeld in het derde lid, wordt opgesteld overeenkomstig het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0033574&bijlage=I&z=2016-12-22&g=2016-12-22) bij deze regeling opgenomen model.
 
-#### Artikel 6
+##### Artikel 6
 
 De minister beslist afwijzend op de aanvraag om de subsidieverlening indien de goedkeuring, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033574&paragraaf=3&artikel=5&z=2016-12-22&g=2016-12-22), door de Commissie is geweigerd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Voor subsidie komt niet in aanmerking een winstopslag ten behoeve van de subsidieontvanger.
 
@@ -90,7 +116,7 @@ De minister beslist afwijzend op de aanvraag om de subsidieverlening indien de g
 
 #### § 3. Voorschotverlening
 
-#### Artikel 8
+##### Artikel 8
 
 1. De minister kan voorschotten verstrekken tot 100 procent van de verleende subsidie.
 
@@ -98,15 +124,15 @@ De minister beslist afwijzend op de aanvraag om de subsidieverlening indien de g
 
 #### § 4. Overgangs- en slotbepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 Een subsidie die is verleend krachtens het [Subsidiebesluit experimenten en kennisoverdracht wonen](https://wetten.overheid.nl/jci1.3:c:BWBR0020333) wordt aangemerkt als een subsidie, verleend krachtens deze regeling.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling treedt in werking met ingang van 1 juli 2013 en vervalt op 1 januari 2022.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling wordt aangehaald als: Subsidieregeling experimenten en kennisoverdracht wonen 2013.
 

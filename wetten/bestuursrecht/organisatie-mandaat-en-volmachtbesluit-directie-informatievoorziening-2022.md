@@ -1,13 +1,39 @@
 ---
-title: "Organisatie-, mandaat- en volmachtbesluit directie Informatievoorziening 2022"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 9 juni 2022, 2022-0000004989, houdende de inrichting van de directie Informatievoorziening, alsmede de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan de onder de directeur ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directie Informatievoorziening 2022)"
 identifier: "BWBR0046804"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-27
-laatste_update: 2026-01-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046804"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-27"
+last_updated: "2026-01-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046804"
+soort: "ministeriele-regeling"
+stam_id: "16390223"
+version_id: "28704712"
+internal_id: "C40501671"
+label_id: "16314574"
+dtd_version: "2.0"
+original_entry_into_force: "2022-06-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046804/2026-01-27/0"
+intitule_bron: "Stcrt.2022-16558"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-06-09"
+intitule_published: "2022-06-24"
+intitule_in_force: "2022-06-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-16558"
+original_signed_date: "2022-06-09"
+original_published_date: "2022-06-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-16558"
+entry_into_force_date: "2022-06-25"
+jci_1_3: "jci1.3:c:BWBR0046804&z=2026-01-27&g=2026-01-27"
+jci_1_0: "1.0:c:BWBR0046804&g=2026-01-27"
+citeertitel_status: "officieel"
+short_title: "Organisatie-, mandaat- en volmachtbesluit directie Informatievoorziening 2022"
+signed_date: "2022-06-09"
+entry_into_force: "2022-06-25"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 9 juni 2022, 2022-0000004989, houdende de inrichting van de directie Informatievoorziening, alsmede de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan de onder de directeur ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directie Informatievoorziening 2022)
 
 Gelet op de [artikelen 5, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=5), en [12 van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Nederlandse Arbeidsinspectie 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=12);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepaling
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Organisatie
 
-#### Artikel 2. Organisatie directie
+##### Artikel 2. Organisatie directie
 
 1. De directie bestaat uit de volgende afdelingen:
 
@@ -62,7 +88,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 3. Verantwoordelijkheden
 
-#### Artikel 3. Verantwoordelijkheden afdelingshoofden
+##### Artikel 3. Verantwoordelijkheden afdelingshoofden
 
 De afdelingshoofden zijn verantwoordelijk voor de volgende algemene taken:
 
@@ -84,7 +110,7 @@ De afdelingshoofden zijn verantwoordelijk voor de volgende algemene taken:
 
 - i. het actief bijdragen aan het platform voor kennisuitwisseling en netwerkbeheer op het vakgebied van het afdelingshoofd.
 
-#### Artikel 4. Verantwoordelijkheden teamleiders
+##### Artikel 4. Verantwoordelijkheden teamleiders
 
 De teamleiders zijn verantwoordelijk voor de volgende algemene taken:
 
@@ -122,7 +148,7 @@ De teamleiders zijn verantwoordelijk voor de volgende algemene taken:
 
 - l. het als operationeel manager participeren in het ontwikkelen en implementeren van plannen van de Nederlandse Arbeidsinspectie.
 
-#### Artikel 5. Verantwoordelijkheden afdeling A&O
+##### Artikel 5. Verantwoordelijkheden afdeling A&O
 
 1. De afdeling A&O is verantwoordelijk voor de volgende taken:
 
@@ -144,7 +170,7 @@ De teamleiders zijn verantwoordelijk voor de volgende algemene taken:
 
 - b. het uitwerken van eigen aanbodgestuurde innovatieve ideeën en het zoeken van toepassingen daarvoor binnen de organisatie.
 
-#### Artikel 6. Verantwoordelijkheden afdeling IMV
+##### Artikel 6. Verantwoordelijkheden afdeling IMV
 
 De afdeling IMV is verantwoordelijk voor:
 
@@ -170,7 +196,7 @@ De afdeling IMV is verantwoordelijk voor:
 
 - k. de liaisonfunctie met de afdeling I-Regie, waaronder begrepen het inbrengen van inzichten voor de strategische visie en besluitvorming.
 
-#### Artikel 7. Verantwoordelijkheden afdeling I-Regie
+##### Artikel 7. Verantwoordelijkheden afdeling I-Regie
 
 De afdeling I-Regie is verantwoordelijk voor:
 
@@ -192,7 +218,7 @@ De afdeling I-Regie is verantwoordelijk voor:
 
 #### § 4. Bevoegdheden
 
-#### Artikel 8. Volmacht en machtiging betreffende personeelsaangelegenheden
+##### Artikel 8. Volmacht en machtiging betreffende personeelsaangelegenheden
 
 1. Aan de afdelingshoofden en teamleiders van de directie wordt volmacht en machtiging verleend met betrekking tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van medewerkers van de eigen organisatorische eenheid, voor zover het betreft:
 
@@ -208,7 +234,7 @@ De afdeling I-Regie is verantwoordelijk voor:
 
 2. In aanvulling op het eerste lid wordt in het geval een teamleider de beoordeling van een medewerker opmaakt, aan het afdelingshoofd dat boven de teamleider ressorteert ook volmacht en machtiging verleend met betrekking tot het vaststellen van deze beoordeling.
 
-#### Artikel 9. Volmachten afdelingshoofden
+##### Artikel 9. Volmachten afdelingshoofden
 
 De afdelingshoofden zijn binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst betreffende:
 
@@ -216,11 +242,11 @@ De afdelingshoofden zijn binnen de daarvoor geldende departementale, dan wel doo
 
 - b. activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor de eigen afdeling.
 
-#### Artikel 10. Volmacht teamleiders
+##### Artikel 10. Volmacht teamleiders
 
 De teamleiders zijn gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 5.000,– inclusief BTW per overeenkomst betreffende activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor het eigen team binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders.
 
-#### Artikel 11. Volmachten hoofd en teamleiders IMV
+##### Artikel 11. Volmachten hoofd en teamleiders IMV
 
 1. Het hoofd van de afdeling IMV is gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot het informatiemanagement en de informatievoorziening van de Nederlandse Arbeidsinspectie, waaronder begrepen het veiligheidsbeleid van de Nederlandse Arbeidsinspectie, met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst of bestelling.
 
@@ -228,7 +254,7 @@ De teamleiders zijn gevolmachtigd tot het aangaan van overeenkomsten ter waarde 
 
 3. De teamleider Informatie Services en Veiligheid van de afdeling IMV is gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot Exploitatie en Ontwikkeling ICT-uitgaven en het veiligheidsbeleid, met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst of bestelling.
 
-#### Artikel 12. Plaatsvervanging
+##### Artikel 12. Plaatsvervanging
 
 1. Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, de taken en bevoegdheden van de directeur geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
 
@@ -236,11 +262,11 @@ De teamleiders zijn gevolmachtigd tot het aangaan van overeenkomsten ter waarde 
 
 #### § 5. Slotbepalingen
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2022.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Informatievoorziening 2022.
 

@@ -1,13 +1,35 @@
 ---
 title: "Subsidiereglement Stimuleringsfonds Creatieve Industrie 2018"
 identifier: "BWBR0040298"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-01-01
-laatste_update: 2018-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040298"
+country: "nl"
+rank: "zbo"
+publication_date: "2018-01-01"
+last_updated: "2018-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040298"
+soort: "zbo"
+stam_id: "14435993"
+version_id: "24687042"
+internal_id: "C35320361"
+label_id: "14396864"
+dtd_version: "2.0"
+original_entry_into_force: "2018-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040298/2018-01-01/0"
+intitule_bron: "Stcrt.2017-70337"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2017-12-05"
+intitule_in_force: "2017-12-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-70337"
+original_published_date: "2017-12-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-70337"
+entry_into_force_date: "2018-01-01"
+jci_1_3: "jci1.3:c:BWBR0040298&z=2018-01-01&g=2018-01-01"
+jci_1_0: "1.0:c:BWBR0040298&g=2018-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2018-01-01"
 ---
-
 # Subsidiereglement Stimuleringsfonds Creatieve Industrie 2018
 
 Het Subsidiereglement Stimuleringsfonds Creatieve Industrie is van toepassing op het aanvragen, beoordelen, verlenen en vaststellen van subsidies bij het Stimuleringsfonds Creatieve Industrie. Aanvullend op dit reglement zijn deelregelingen opgesteld. Daarin stelt het bestuur nadere formele, financiële, inhoudelijke, kwalitatieve en kwantitatieve eisen alsmede uitzonderingen vast.
@@ -16,13 +38,13 @@ gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](http
 
 Besluit
 
-#### Artikel 1. Taakopvatting van het Stimuleringsfonds
+##### Artikel 1. Taakopvatting van het Stimuleringsfonds
 
 1. Dit reglement is van toepassing op aanvragen voor projecten, programma's of anderszins in een deelregeling benoemde activiteiten op het gebied van digitale cultuur, vormgeving en architectuur en alle mogelijke crossovers tussen en binnen deze disciplines.
 
 2. Het Stimuleringsfonds Creatieve Industrie verstrekt, in overeenstemming met zijn statuten en overeenkomstig de bepalingen vastgesteld in de wet, het onderhavige reglement, deelregelingen en, voor zover van toepassing, uitnodigingen tot het indienen van projecten, subsidies voor de uitvoering van projecten die bijdragen aan het bevorderen van hoogwaardige kwaliteit, ontwikkeling en professionalisering van de hedendaagse Nederlandse creatieve industrie.
 
-#### Artikel 2. Algemene doelstellingen Stimuleringsfonds
+##### Artikel 2. Algemene doelstellingen Stimuleringsfonds
 
 Het Stimuleringsfonds hanteert bij het verlenen van subsidies de volgende doelstellingen:
 
@@ -38,7 +60,7 @@ Het Stimuleringsfonds hanteert bij het verlenen van subsidies de volgende doelst
 
 - f. bevorderen van de professionalisering van de ontwerppraktijk en voorbeeldig opdrachtgeverschap.
 
-#### Artikel 3. Begripsomschrijvingen
+##### Artikel 3. Begripsomschrijvingen
 
 In dit reglement en deelregelingen wordt verstaan onder:
 
@@ -68,11 +90,11 @@ In dit reglement en deelregelingen wordt verstaan onder:
 
 - **vormgeving:** het ontwerpen van mode, accessoires en sieraden; textiel-, glas- en keramiekvormgeving; grafische vormgeving, typografie, visuele communicatie, interactief en information design, animatie, illustratie, strip en graphic novel; product-, meubel- en industriële vormgeving, interieur- en ruimtelijk ontwerp, tentoonstellingsontwerp, lichtontwerp, scenografie; social design, inclusief aanverwante activiteiten gericht op analyse van en reflectie op deze werkterreinen.
 
-#### Artikel 4. Toepasselijkheid Subsidiereglement Stimuleringsfonds Creatieve Industrie
+##### Artikel 4. Toepasselijkheid Subsidiereglement Stimuleringsfonds Creatieve Industrie
 
 De bepalingen in dit reglement zijn van toepassing op het aanvragen, beoordelen, verlenen en vaststellen van een subsidie voor een project. Dit reglement geldt naast de statuten, de reglementen die zijn vastgesteld voor het bestuur en de Raad van Toezicht en de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en, indien van toepassing, deelregelingen.
 
-#### Artikel 5. Subsidie
+##### Artikel 5. Subsidie
 
 1. Voor het verkrijgen van een subsidie van het Stimuleringsfonds moet de aanvrager staan ingeschreven in het Handelsregister bij de Kamer van Koophandel, dan wel een vergelijkbare buitenlandse organisatie.
 
@@ -126,19 +148,19 @@ De bepalingen in dit reglement zijn van toepassing op het aanvragen, beoordelen,
 
 - k. activiteiten die de reguliere bedrijfsactiviteiten niet overstijgen.
 
-#### Artikel 6. Algemene kaders voor subsidieverlening
+##### Artikel 6. Algemene kaders voor subsidieverlening
 
 1. Het bestuur stelt jaarlijks een activiteitenplan vast met daarin informatie over de mogelijkheden tot het aanvragen van een subsidie. Het plan bevat in elk geval de inzendtermijnen en de eisen waaraan een aanvraag voor een subsidie dient te voldoen.
 
 2. Het activiteitenplan behoeft de goedkeuring van de Raad van Toezicht en wordt aansluitend openbaar gemaakt, ten minste door vermelding op de website.
 
-#### Artikel 7. Bijzondere aanvraagprocedures
+##### Artikel 7. Bijzondere aanvraagprocedures
 
 1. De open call is een bijzondere aanvraagprocedure die uitgeschreven kan worden, voornamelijk ten behoeve van het ontwikkelen van een uitgewerkt projectvoorstel. Alsdan maakt het bestuur een oproep openbaar waarin het doel van de oproep, het te verlenen bedrag en de te volgen procedure zijn opgenomen. De open call wordt minimaal vier weken voor de vastgestelde sluitingsdatum openbaar gemaakt, ten minste door vermelding op de website.
 
 2. Het bestuur kan besluiten om een bijzondere aanvraagprocedure in te richten voor het verstrekken van een voucher. Op basis van een uitnodiging voor deelname aan een hoogwaardige manifestatie of presentatie-activiteit, motivatie en artistieke kwaliteit kan een bedrag beschikbaar worden gesteld voor ondersteuning in de reis- en verblijfkosten. De informatie over de aanvraagprocedure, het doel, het te verlenen bedrag en de te volgen procedure wordt openbaar gemaakt, ten minste door vermelding op de website.
 
-#### Artikel 8. Weigeringsgronden
+##### Artikel 8. Weigeringsgronden
 
 1. Een aanvraag wordt niet in behandeling genomen als de uitvoering van de beoogde activiteiten – blijkens de aanvraag – niet binnen twaalf maanden na het besluit van het bestuur wordt aangevangen.
 
@@ -148,7 +170,7 @@ De bepalingen in dit reglement zijn van toepassing op het aanvragen, beoordelen,
 
 4. Het bestuur kan besluiten een aanvraag zonder nader onderzoek of advies af te wijzen wanneer over een voorafgaand project van dezelfde aanvrager, waarvoor het Stimuleringsfonds een subsidie heeft verleend, niet binnen de gestelde termijn of niet naar genoegen van het bestuur verantwoording is afgelegd.
 
-#### Artikel 9. Subsidieplafonds, prioriteiten bij beoordeling
+##### Artikel 9. Subsidieplafonds, prioriteiten bij beoordeling
 
 1. Een subsidie wordt altijd verleend onder de voorwaarde dat voldoende gelden aan het Stimuleringsfonds ter beschikking worden gesteld en het voor de betreffende aanvraagronde beschikbaar gestelde budget niet wordt overschreden.
 
@@ -162,7 +184,7 @@ De bepalingen in dit reglement zijn van toepassing op het aanvragen, beoordelen,
 
 3. Het bestuur kan besluiten dat bij de beoordeling van aanvragen een volgorde wordt vastgesteld in de waardering van die aanvragen of de mate, waarin deze voldoen aan de criteria die gesteld zijn voor de betreffende deelregeling, opengestelde ronde, het project of de oproep daarvoor dan wel voor de open call.
 
-#### Artikel 10. Subsidieplafonds, bijzondere toekenningsvolgorden
+##### Artikel 10. Subsidieplafonds, bijzondere toekenningsvolgorden
 
 1. De verlening van een subsidie wordt geweigerd wanneer door verstrekking van de subsidie het bekend gemaakte financieel plafond van de deelregeling, de opengestelde ronde, het project of de oproep daarvoor dan wel de open call zou worden overschreden, behoudens het bepaalde in het tweede lid van dit artikel. Zodanig financieel plafond geldt als subsidieplafond als bedoeld in [artikel 4:22 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:22).
 
@@ -176,7 +198,7 @@ De bepalingen in dit reglement zijn van toepassing op het aanvragen, beoordelen,
 
 3. Voorgenomen toepassing van een der mogelijkheden, genoemd in het tweede lid, wordt gelijktijdig bekend gemaakt met het openstellen van de mogelijkheid om aanvragen in te dienen.
 
-#### Artikel 11. Algemene voorwaarden voor ondersteuning
+##### Artikel 11. Algemene voorwaarden voor ondersteuning
 
 1. Voor het indienen van een aanvraag stelt het bestuur een aanvraagformulier vast en maakt dat bekend op haar website. Dit formulier dient volledig te worden ingevuld overeenkomstig de richtlijnen die in de toelichting staan omschreven.
 
@@ -204,7 +226,7 @@ De bepalingen in dit reglement zijn van toepassing op het aanvragen, beoordelen,
 
 - g. het beschikbare budget voor de subsidieronde, in relatie tot het beschikbare budget voor de deelregeling.
 
-#### Artikel 12. Inhoud aanvraag: informatie over de aanvrager
+##### Artikel 12. Inhoud aanvraag: informatie over de aanvrager
 
 1. De aanvraag bevat tenminste de volgende informatie:
 
@@ -214,7 +236,7 @@ De bepalingen in dit reglement zijn van toepassing op het aanvragen, beoordelen,
 
 2. De aanvraag wordt door de aanvrager of een rechtsgeldige vertegenwoordiger van de aanvrager ondertekend.
 
-#### Artikel 13. Inhoud aanvraag: inhoudelijke informatie over het project
+##### Artikel 13. Inhoud aanvraag: inhoudelijke informatie over het project
 
 De aanvraag bevat tenminste de volgende informatie:
 
@@ -222,7 +244,7 @@ De aanvraag bevat tenminste de volgende informatie:
 
 - b. een omschrijving van het belang van het project, die het mogelijk maakt te beoordelen of het aansluit bij de criteria en doelstellingen van het Stimuleringsfonds zoals geformuleerd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040298&artikel=1&z=2018-01-01&g=2018-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0040298&artikel=2&z=2018-01-01&g=2018-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0040298&artikel=5&z=2018-01-01&g=2018-01-01) en [14 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0040298&artikel=14&z=2018-01-01&g=2018-01-01) van dit reglement en de betreffende deelregeling.
 
-#### Artikel 14. Inhoud aanvraag: financiële informatie over het project
+##### Artikel 14. Inhoud aanvraag: financiële informatie over het project
 
 De aanvraag bevat tenminste de volgende informatie over het project:
 
@@ -236,7 +258,7 @@ De aanvraag bevat tenminste de volgende informatie over het project:
 
 - e. een omschrijving van de eventuele eigen bijdrage aan de uitvoering van het project.
 
-#### Artikel 15. Inhoud aanvraag: informatie over de communicatiestrategie van het project
+##### Artikel 15. Inhoud aanvraag: informatie over de communicatiestrategie van het project
 
 In de aanvraag is tenminste de volgende informatie opgenomen:
 
@@ -248,7 +270,7 @@ In de aanvraag is tenminste de volgende informatie opgenomen:
 
 - d. een omschrijving van het medium of de media waarop gecommuniceerd wordt.
 
-#### Artikel 16. Beoordelingscriteria die gelden voor projecten met als doelstelling het bevorderen van experimenten en crossovers
+##### Artikel 16. Beoordelingscriteria die gelden voor projecten met als doelstelling het bevorderen van experimenten en crossovers
 
 Er wordt beoordeeld in hoeverre het project voldoet aan:
 
@@ -256,7 +278,7 @@ Er wordt beoordeeld in hoeverre het project voldoet aan:
 
 - b. het bevorderen van crossovers: het leggen van relevante connecties tussen de creatieve industrie, wetenschappelijk onderzoek en maatschappelijke opgaven.
 
-#### Artikel 17. Beoordelingscriteria die gelden voor projecten met als doelstelling het stimuleren van onderzoek, analyse en reflectie
+##### Artikel 17. Beoordelingscriteria die gelden voor projecten met als doelstelling het stimuleren van onderzoek, analyse en reflectie
 
 Er wordt beoordeeld in hoeverre het project voldoet aan het stimuleren van onderzoek, analyse of reflectie, doordat:
 
@@ -266,7 +288,7 @@ Er wordt beoordeeld in hoeverre het project voldoet aan het stimuleren van onder
 
 - c. het gangbare inzichten en werkwijzen analyseert en ter discussie stelt.
 
-#### Artikel 18. Beoordelingscriteria die gelden voor projecten met als doelstelling het bevorderen van talentontwikkeling en artistieke kwaliteit
+##### Artikel 18. Beoordelingscriteria die gelden voor projecten met als doelstelling het bevorderen van talentontwikkeling en artistieke kwaliteit
 
 Er wordt beoordeeld in hoeverre het project voldoet aan:
 
@@ -274,7 +296,7 @@ Er wordt beoordeeld in hoeverre het project voldoet aan:
 
 - b. het bevorderen van artistieke kwaliteit: het project is gericht op het continueren, verder ontwikkelen en profileren van de eigen begaafdheid, terwijl betreffende ontwerper wordt gezien als een inspirerend voorbeeld voor vakgenoten en een breder geïnteresseerd publiek; waarbij deze verdere ontwikkeling gepaard gaat met het versterken van het eigen cultureel ondernemerschap.
 
-#### Artikel 19. Beoordelingscriteria die gelden voor projecten met als doelstelling het bevorderen van maatschappelijk engagement en publieksactiviteiten
+##### Artikel 19. Beoordelingscriteria die gelden voor projecten met als doelstelling het bevorderen van maatschappelijk engagement en publieksactiviteiten
 
 Er wordt beoordeeld in hoeverre het project voldoet aan:
 
@@ -282,7 +304,7 @@ Er wordt beoordeeld in hoeverre het project voldoet aan:
 
 - b. het bevorderen van publieksactiviteiten: het project is gericht op het bereiken van een zo breed mogelijk publiek, dat past bij de aard en opzet van het project. Het project vergroot op deze manier de belangstelling voor de hedendaagse creatieve industrie.
 
-#### Artikel 20. Beoordelingscriteria die gelden voor projecten met als doelstelling het versterken van de internationale positie van de ontwerpsectoren
+##### Artikel 20. Beoordelingscriteria die gelden voor projecten met als doelstelling het versterken van de internationale positie van de ontwerpsectoren
 
 Er wordt beoordeeld in hoeverre het project voldoet aan:
 
@@ -292,7 +314,7 @@ Er wordt beoordeeld in hoeverre het project voldoet aan:
 
 - c. het opbouwen en onderhouden van relevante internationale relaties tussen ontwerpers, makers, producenten, opdrachtgevers en culturele instellingen.
 
-#### Artikel 21. Beoordelingscriteria die gelden voor projecten met als doelstelling het bevorderen van de professionalisering van de ontwerppraktijk en van voorbeeldig opdrachtgeverschap
+##### Artikel 21. Beoordelingscriteria die gelden voor projecten met als doelstelling het bevorderen van de professionalisering van de ontwerppraktijk en van voorbeeldig opdrachtgeverschap
 
 Er wordt beoordeeld in hoeverre het project voldoet aan:
 
@@ -300,7 +322,7 @@ Er wordt beoordeeld in hoeverre het project voldoet aan:
 
 - b. bevorderen van voorbeeldig opdrachtgeverschap: het project draagt bij aan een voorbeeldstellende wijze waarop ontwerpers/makers samenwerken met opdrachtgevers c.q. producenten; dan wel het stimuleren van excellent opdrachtgeverschap gericht op artistiek hoogwaardige of maatschappelijk relevante resultaten.
 
-#### Artikel 22. Advisering
+##### Artikel 22. Advisering
 
 1. Het bestuur kan een aanvraag ter advisering voorleggen aan een adviesorgaan.
 
@@ -314,7 +336,7 @@ Er wordt beoordeeld in hoeverre het project voldoet aan:
 
 6. De werkwijze en nadere regels ten aanzien van het functioneren van een adviesorgaan legt het bestuur vast in de **Werkwijze Adviescommissies Stimuleringsfonds Creatieve Industrie**.
 
-#### Artikel 23. Verlening van een subsidie
+##### Artikel 23. Verlening van een subsidie
 
 1. Het besluit tot verlening van een subsidie bevat een weergave van het eventuele advies, de voorwaarden waaronder de subsidie beschikbaar wordt gesteld, de verplichtingen waaraan de ontvanger zich dient te houden, de maximale hoogte van de subsidie of de wijze waarop deze zal worden bepaald, informatie over de betaalbaarstelling en de bevoorschotting en de datum waarop de activiteiten afgerond dienen te zijn.
 
@@ -328,11 +350,11 @@ Er wordt beoordeeld in hoeverre het project voldoet aan:
 
 6. Aan het verlenen van een subsidie kunnen door de aanvrager nooit rechten worden ontleend met betrekking tot de honorering van een volgende aanvraag.
 
-#### Artikel 24. Voorschotten
+##### Artikel 24. Voorschotten
 
 Het bestuur kan een voorschot betaalbaar stellen. In het besluit tot verlening van de subsidie worden de hoogte en het tempo van de bevoorschotting vastgesteld. De verlening van het voorschot geschiedt gelijktijdig met de beschikking tot subsidieverlening. Het voorschot bedraagt maximaal 100 procent van de verleende subsidie. Het bestuur kan met betrekking tot de bevoorschotting nadere regels stellen
 
-#### Artikel 25. Verplichtingen van de ontvanger van een subsidie
+##### Artikel 25. Verplichtingen van de ontvanger van een subsidie
 
 1. De subsidieontvanger dient in alle publieke uitingen het Stimuleringsfonds te vermelden als subsidieverstrekker. In publicaties en verslagen, op uitnodigingen aankondigingen, websites en audiovisuele producties dient het logo van het Stimuleringsfonds te worden opgenomen. Wanneer een aanvrager logo’s opneemt van andere sponsors dient ook het logo van het Stimuleringsfonds in een vergelijkbare grootte en opmaak te worden gebruikt.
 
@@ -342,11 +364,11 @@ Het bestuur kan een voorschot betaalbaar stellen. In het besluit tot verlening v
 
 4. Bij de verantwoording, zoals genoemd in de [artikelen 26 tot en met 30](https://wetten.overheid.nl/jci1.3:c:BWBR0040298&artikel=26&z=2018-01-01&g=2018-01-01), wordt ingegaan op de daadwerkelijke uitvoering van het project.
 
-#### Artikel 26. Desgevraagd verantwoorden bij subsidies minder dan € 25.000
+##### Artikel 26. Desgevraagd verantwoorden bij subsidies minder dan € 25.000
 
 Indien de subsidie minder dan € 25.000 bedraagt, toont de subsidieontvanger op verzoek van het bestuur aan dat de activiteiten waarvoor de subsidie is verstrekt, zijn verricht en dat is voldaan aan de verplichtingen die aan de subsidie zijn verbonden.
 
-#### Artikel 27. Verantwoording bij subsidies van € 25.000 of meer
+##### Artikel 27. Verantwoording bij subsidies van € 25.000 of meer
 
 1. Indien de subsidie € 25.000 of meer bedraagt, toont de subsidieontvanger aan de hand van een activiteitenverslag aan dat de activiteiten waarvoor de subsidie is verstrekt, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.
 
@@ -356,7 +378,7 @@ Indien de subsidie minder dan € 25.000 bedraagt, toont de subsidieontvanger op
 
 4. Bij deelregeling of bij beschikking kan worden bepaald dat de subsidieontvanger op een andere wijze aantoont dat de activiteiten waarvoor de subsidie is verstrekt, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.
 
-#### Artikel 28. Werkelijke kostenverklaring bij subsidies van € 25.000 of meer
+##### Artikel 28. Werkelijke kostenverklaring bij subsidies van € 25.000 of meer
 
 1. Indien de subsidie € 25.000 of meer bedraagt moet de subsidieontvanger op basis van een verklaring inzake werkelijke kosten en opbrengsten aantonen dat de activiteiten zijn verricht.
 
@@ -374,11 +396,11 @@ Indien de subsidie minder dan € 25.000 bedraagt, toont de subsidieontvanger op
 
 - f. wat het totale bedrag van de gerealiseerde eigen bijdrage is.
 
-#### Artikel 29. Verantwoording bij subsidies van € 125.000 of meer
+##### Artikel 29. Verantwoording bij subsidies van € 125.000 of meer
 
 Indien de subsidie € 125.000 of meer bedraagt, legt de subsidieontvanger, onverminderd [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0040298&artikel=25&z=2018-01-01&g=2018-01-01), rekening en verantwoording af aan de hand van een financieel verslag. [Artikel 4:76 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:76) is van overeenkomstige toepassing.
 
-#### Artikel 30. Accountantsverklaring bij subsidies van € 125.000 of meer
+##### Artikel 30. Accountantsverklaring bij subsidies van € 125.000 of meer
 
 1. Het financieel verslag, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0040298&artikel=27&z=2018-01-01&g=2018-01-01), gaat vergezeld van een verklaring omtrent de getrouwheid en de rechtmatigheid, afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
@@ -386,21 +408,21 @@ Indien de subsidie € 125.000 of meer bedraagt, legt de subsidieontvanger, onve
 
 3. In de verklaring, bedoeld in het eerste lid, geeft de accountant tevens een oordeel over de naleving door de subsidieontvanger van de in het controleprotocol genoemde voorschriften.
 
-#### Artikel 31. Vaststelling van de subsidie
+##### Artikel 31. Vaststelling van de subsidie
 
 1. Uiterlijk 22 weken nadat het project heeft plaatsgevonden en/of is afgerond, moet de aanvraag tot subsidievaststelling zijn ingediend.
 
 2. Het bestuur kan de ontvanger nadere aanwijzingen geven over de controle op de naleving van de voorwaarden die zijn verbonden aan de verlening van de subsidie.
 
-#### Artikel 32. Bezwaar
+##### Artikel 32. Bezwaar
 
 Een belanghebbende kan bezwaar maken door een bezwaarschrift in te dienen bij het bestuur. De termijn voor het indienen van een bezwaarschrift bedraagt zes weken. De termijn vangt aan op de dag nadat het besluit bekend is gemaakt.
 
-#### Artikel 33. Bescherming persoonsgegevens
+##### Artikel 33. Bescherming persoonsgegevens
 
 Het bestuur verstrekt geen vertrouwelijke informatie over een aanvraag aan derden. Het gaat hier om bedrijfs- en fabricagegegevens die door een aanvrager vertrouwelijk aan het Stimuleringsfonds zijn medegedeeld en om persoonsgegevens als bedoeld in [hoofdstuk 2, paragraaf 2 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&paragraaf=2), tenzij de verstrekking kennelijk geen inbreuk op de persoonlijke levenssfeer maakt.
 
-#### Artikel 34. Inwerkingtreding
+##### Artikel 34. Inwerkingtreding
 
 1. Dit reglement treedt in werking op 1 januari 2018
 
@@ -408,11 +430,11 @@ Het bestuur verstrekt geen vertrouwelijke informatie over een aanvraag aan derde
 
 3. Op 1 januari 2018 vervallen alle reglementen en (deel-)regelingen, onder welke benaming dan ook, die op 31 december 2017 binnen het Stimuleringsfonds van kracht waren, met dien verstande dat zij van toepassing blijven op alle voor 1 januari 2018 ingediende aanvragen.
 
-#### Artikel 35. Citeertitel
+##### Artikel 35. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidiereglement Stimuleringsfonds Creatieve Industrie 2018.
 
-#### Artikel 36. Slotbepalingen
+##### Artikel 36. Slotbepalingen
 
 In gevallen waarin de wet, de statuten, dit reglement of deelregelingen niet voorzien, beslist het bestuur.
 

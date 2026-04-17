@@ -1,13 +1,39 @@
 ---
-title: "Organisatie-, mandaat- en volmachtbesluit programmadirectie Werk aan Uitvoering 2023"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 maart 2025, nr. 2024-0000115427, houdende de inrichting van de programmadirectie Werk aan Uitvoering en doorverlening van vertegenwoordigingsbevoegdheden van de programmadirecteur Werk aan Uitvoering (Organisatie-, mandaat- en volmachtbesluit programmadirectie Werk aan Uitvoering 2023)"
 identifier: "BWBR0050900"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-04-01
-laatste_update: 2023-04-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050900"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-04-01"
+last_updated: "2023-04-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050900"
+soort: "ministeriele-regeling"
+stam_id: "17394753"
+version_id: "30666782"
+internal_id: "C43964911"
+label_id: "17298074"
+dtd_version: "2.0"
+original_entry_into_force: "2025-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050900/2025-04-01/0"
+intitule_bron: "Stcrt.2025-10920"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-03-21"
+intitule_published: "2025-03-31"
+intitule_in_force: "2025-03-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-10920"
+original_signed_date: "2025-03-21"
+original_published_date: "2025-03-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-10920"
+entry_into_force_date: "2025-04-01"
+jci_1_3: "jci1.3:c:BWBR0050900&z=2025-04-01&g=2025-04-01"
+jci_1_0: "1.0:c:BWBR0050900&g=2025-04-01"
+citeertitel_status: "officieel"
+short_title: "Organisatie-, mandaat- en volmachtbesluit programmadirectie Werk aan Uitvoering 2023"
+signed_date: "2025-03-21"
+entry_into_force: "2025-04-01"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 maart 2025, nr. 2024-0000115427, houdende de inrichting van de programmadirectie Werk aan Uitvoering en doorverlening van vertegenwoordigingsbevoegdheden van de programmadirecteur Werk aan Uitvoering (Organisatie-, mandaat- en volmachtbesluit programmadirectie Werk aan Uitvoering 2023)
 
 Gelet op [artikel 3, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0050859&artikel=3), en [artikel 7 van het Organisatie-, mandaat- en volmachtbesluit programma-directeur-generaal Werk aan Uitvoering 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0050859&artikel=7);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Organisatie
 
-#### Artikel 2
+##### Artikel 2
 
 De programmadirectie bestaat uit de volgende onderdelen:
 
@@ -46,7 +72,7 @@ De programmadirectie bestaat uit de volgende onderdelen:
 
 #### § 3. Verantwoordelijkheden
 
-#### Artikel 3
+##### Artikel 3
 
 Elk van de afdelingshoofden is verantwoordelijk voor:
 
@@ -62,7 +88,7 @@ Elk van de afdelingshoofden is verantwoordelijk voor:
 
 - f. het leveren van een substantiële bijdrage aan de visie en strategie van de programmadirectie en de positionering binnen het WaU-speelveld.
 
-#### Artikel 4
+##### Artikel 4
 
 Het hoofd van de afdeling Strategie en Omgeving is specifiek verantwoordelijk voor:
 
@@ -86,7 +112,7 @@ Het hoofd van de afdeling Strategie en Omgeving is specifiek verantwoordelijk vo
 
 - j. het voeren van het secretariaat van de ACPD.
 
-#### Artikel 5
+##### Artikel 5
 
 Het hoofd van de afdeling Programma’s en Projecten is specifiek verantwoordelijk voor:
 
@@ -100,7 +126,7 @@ Het hoofd van de afdeling Programma’s en Projecten is specifiek verantwoordeli
 
 - e. de opdrachtverstrekking aan derden in het kader van de uitvoering van inspanningen en ter verbetering van het project-/programmamanagement en de randvoorwaarden daarvoor binnen de programmadirectie.
 
-#### Artikel 6
+##### Artikel 6
 
 Het hoofd van de afdeling Leren en Evalueren is specifiek verantwoordelijk voor:
 
@@ -124,7 +150,7 @@ Het hoofd van de afdeling Leren en Evalueren is specifiek verantwoordelijk voor:
 
 #### § 4. Bevoegdheden
 
-#### Artikel 7
+##### Artikel 7
 
 - a. Aan de afdelingshoofden wordt mandaat, volmacht en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van de eigen afdeling, en slechts voor zover het betreft:
 
@@ -138,11 +164,11 @@ Het hoofd van de afdeling Leren en Evalueren is specifiek verantwoordelijk voor:
 
 - b. het afdoen van stukken, onder andere annotaties, rapportages, brieven, nota’s en voorbereidingen voor bestuurlijke overleggen, die bij de bij het afdelingshoofd belegde werkzaamheden behoren, met uitzondering van stukken waarvan, gelet op het belang daarvan, redelijkerwijs kan worden vermoed, dat deze door de programmadirecteur moeten worden afgedaan.
 
-#### Artikel 8
+##### Artikel 8
 
 Aan elk van de afdelingshoofden wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000 inclusief BTW per overeenkomst, voor zover deze betrekking hebben op de activiteiten die vallen onder hun verantwoordelijkheid.
 
-#### Artikel 9
+##### Artikel 9
 
 - a. Aan de directiesecretaris wordt mandaat, volmacht en machtiging verleend met betrekking tot het vaststellen en ondertekenen van stukken die betrekking hebben op personeelsaangelegenheden ten behoeve van medewerkers van onderdeel Staf, voor zover het betreft:
 
@@ -156,17 +182,17 @@ Aan elk van de afdelingshoofden wordt volmacht verleend tot het aangaan van over
 
 - b. Aan de directiesecretaris wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 5.000 inclusief BTW per overeenkomst, voor zover deze betrekking hebben op de activiteiten die vallen onder diens verantwoordelijkheid.
 
-#### Artikel 10
+##### Artikel 10
 
 Bij afwezigheid of verhindering van de programmadirecteur worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door het afdelingshoofd Strategie & Omgeving dat is aangewezen als plaatsvervangend programmadirecteur.
 
-#### Artikel 11
+##### Artikel 11
 
 Doorverlening van bevoegdheden is slechts toegestaan na voorafgaande schriftelijke toestemming van de programmadirecteur.
 
 #### § 5. Slotbepaling
 
-#### Artikel 12
+##### Artikel 12
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 17 april 2023.
 

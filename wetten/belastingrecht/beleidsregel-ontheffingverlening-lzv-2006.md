@@ -1,30 +1,56 @@
 ---
-title: "Beleidsregel ontheffingverlening LZV 2006"
+title: "Beleidsregel ontheffingverlening ten behoeve van de proef met langere of langere en zwaardere vrachtautocombinaties (Beleidsregel ontheffingverlening LZV 2006)"
 identifier: "BWBR0019724"
-categorie: "Belastingrecht"
-publicatiedatum: 2006-04-13
-laatste_update: 2006-04-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019724"
+country: "nl"
+rank: "zbo"
+publication_date: "2006-04-13"
+last_updated: "2006-04-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019724"
+soort: "zbo"
+stam_id: "8215923"
+version_id: "13026092"
+internal_id: "C29230521"
+label_id: "8197064"
+dtd_version: "2.0"
+original_entry_into_force: "2006-04-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019724/2006-04-13/0"
+intitule_bron: "Stcrt.2006-72"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-04-03"
+intitule_published: "2006-04-11"
+intitule_in_force: "2006-04-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-72"
+original_signed_date: "2006-04-03"
+original_published_date: "2006-04-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-72-p35-SC74599"
+entry_into_force_date: "2006-04-13"
+jci_1_3: "jci1.3:c:BWBR0019724&z=2006-04-13&g=2006-04-13"
+jci_1_0: "1.0:c:BWBR0019724&g=2006-04-13"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel ontheffingverlening LZV 2006"
+signed_date: "2006-04-03"
+entry_into_force: "2006-04-13"
 ---
-
 # Beleidsregel ontheffingverlening ten behoeve van de proef met langere of langere en zwaardere vrachtautocombinaties (Beleidsregel ontheffingverlening LZV 2006)
 
 Gelet op [artikel 149a, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149a), het [Besluit ontheffingverlening exceptionele transporten](https://wetten.overheid.nl/jci1.3:c:BWBR0018680);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder:
 
 vrachtautocombinatie: bepaald samenstel van een trekkend voertuig met een of meer aanhangwagens. Onderscheiden kunnen onder meer worden: trekker-oplegger-middenasaanhangwagen, vrachtauto-aanhangwagen, waaronder vrachtauto-dolly-oplegger, en trekker-oplegger-oplegger, een zogenaamde B.-double;
 
-#### Artikel 2
+##### Artikel 2
 
 Deze beleidsregel is van toepassing op vrachtautocombinaties waarvoor door de Ambtelijke adviescommissie LZV een positief advies, als bedoeld in [artikel 4, eerste lid, van het Instellingsbesluit Ambtelijke adviescommissie LZV](https://wetten.overheid.nl/jci1.3:c:BWBR0016098&artikel=4)1Stcrt. 2003, 245., is gegeven of ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Op basis van een positief advies van de Ambtelijke adviescommissie LZV, als bedoeld in [artikel 4, eerste lid, van het instellingsbesluit Ambtelijke adviescommissie LZV](https://wetten.overheid.nl/jci1.3:c:BWBR0016098&artikel=4), keurt de Dienst Wegverkeer de vrachtautocombinatie overeenkomstig de in het tweede lid van dit artikel opgenomen eisen.
 
@@ -76,7 +102,7 @@ Deze beleidsregel is van toepassing op vrachtautocombinaties waarvoor door de Am
 
 3. Van een keuring wordt schriftelijk bewijs geleverd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Naar aanleiding van een positief advies van de Ambtelijke adviescommissies LZV en het bewijs van keuring als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019724&artikel=3&z=2006-04-13&g=2006-04-13), van deze beleidsregel kan een ontheffing worden verleend.
 
@@ -88,15 +114,15 @@ Deze beleidsregel is van toepassing op vrachtautocombinaties waarvoor door de Am
 
 5. Het aanvraagformulier wordt schriftelijk beschikbaar gesteld.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien een positief advies van de Ambtelijke adviescommissie LZV, zoals bedoeld in [artikel 4 van het Instellingsbesluit Ambtelijke adviescommissie LZV](https://wetten.overheid.nl/jci1.3:c:BWBR0016098&artikel=4), wordt ingetrokken, wordt de ontheffing, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019724&artikel=3&z=2006-04-13&g=2006-04-13) van deze beleidsregel, op overeenkomstige wijze ingetrokken.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin hij wordt geplaatst en werkt terug tot 1 januari 2006.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel ontheffingverlening LZV 2006.
 

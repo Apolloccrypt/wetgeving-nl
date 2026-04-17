@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling BOSA"
+title: "Regeling van de Minister voor Langdurige Zorg en Sport van 20 november 2023, kenmerk 3721349-1056574-S, houdende regels voor de subsidiëring van de bouw, de verbouwing en het onderhoud van sportaccommodaties, de aanschaf of het onderhoud van sportmaterialen en activiteiten die bijdragen aan verduurzaming en het verbeteren van de toegankelijkheid van sportaccommodaties (Subsidieregeling BOSA)"
 identifier: "BWBR0048993"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048993"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048993"
+soort: "ministeriele-regeling"
+stam_id: "16944093"
+version_id: "30461512"
+internal_id: "C43675481"
+label_id: "16854844"
+dtd_version: "2.0"
+original_entry_into_force: "2024-11-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048993/2026-01-01/0"
+intitule_bron: "Stcrt.2023-32526"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-11-20"
+intitule_published: "2023-11-28"
+intitule_in_force: "2023-11-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-38549"
+original_signed_date: "2024-11-18"
+original_published_date: "2024-11-26"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-38549"
+entry_into_force_date: "2024-11-18"
+jci_1_3: "jci1.3:c:BWBR0048993&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0048993&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling BOSA"
+signed_date: "2024-11-18"
+entry_into_force: "2024-11-18"
 ---
-
 # Regeling van de Minister voor Langdurige Zorg en Sport van 20 november 2023, kenmerk 3721349-1056574-S, houdende regels voor de subsidiëring van de bouw, de verbouwing en het onderhoud van sportaccommodaties, de aanschaf of het onderhoud van sportmaterialen en activiteiten die bijdragen aan verduurzaming en het verbeteren van de toegankelijkheid van sportaccommodaties (Subsidieregeling BOSA)
 
 Gelet op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [artikel 5 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -42,11 +68,11 @@ In deze regeling wordt verstaan onder:
 
 - **vereniging:** vereniging als bedoeld in [artikel 26 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=26).
 
-#### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Op deze regeling zijn de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.5), [3.1 tot en met 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.1), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.3), [6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=6.1), [7.1 tot en met 7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.1) en [10.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=10.1) niet van toepassing.
 
-#### Artikel 3. Subsidiabele activiteiten
+##### Artikel 3. Subsidiabele activiteiten
 
 1. De minister kan op aanvraag subsidie verstrekken aan een amateursportorganisatie voor:
 
@@ -72,7 +98,7 @@ Op deze regeling zijn de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - f. het gaat om activiteiten voor verbouwing of onderhoud als bedoeld in het eerste lid, onder a, met betrekking tot beglazing, verwarming, verkoeling, ventilatie of sportverlichting, die aanvangen vanaf 1 januari 2026.
 
-#### Artikel 4. Voorwaarden amateursport
+##### Artikel 4. Voorwaarden amateursport
 
 Amateursport in de zin van deze regeling voldoet aan de volgende voorwaarden:
 
@@ -86,7 +112,7 @@ Amateursport in de zin van deze regeling voldoet aan de volgende voorwaarden:
 
 - e. de sport wordt niet ingezet voor zorg of revalidatie.
 
-#### Artikel 5. Aanvullende voorwaarden
+##### Artikel 5. Aanvullende voorwaarden
 
 1. Een amateursportorganisatie is een stichting of vereniging met volledige rechtsbevoegdheid, die als hoofddoel heeft om amateursport te faciliteren en die:
 
@@ -106,7 +132,7 @@ Amateursport in de zin van deze regeling voldoet aan de volgende voorwaarden:
 
 5. Subsidie voor een gezamenlijke aanvraag wordt uitsluitend verstrekt indien de subsidiabele kosten waarvoor subsidie wordt aangevraagd op naam en rekening staan van de aanvragende amateursportorganisatie.
 
-#### Artikel 6. Subsidiabele periode
+##### Artikel 6. Subsidiabele periode
 
 1. Voor de subsidiabele periode bij een subsidie die € 25.000 of meer bedraagt en de subsidiabele activiteiten nog zullen plaatsvinden, geldt dat:
 
@@ -118,13 +144,13 @@ Amateursport in de zin van deze regeling voldoet aan de volgende voorwaarden:
 
 2. De subsidiabele activiteiten en de daarmee samenhangende kosten voor een subsidie als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=10&z=2026-01-01&g=2026-01-01) of [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=11&z=2026-01-01&g=2026-01-01) zijn subsidiabel tot uiterlijk 53 weken voorafgaand aan de aanvraag tot vaststelling.
 
-#### Artikel 7. Hoogte van de subsidie
+##### Artikel 7. Hoogte van de subsidie
 
 1. De subsidie voor de activiteiten, bedoeld in [artikel 3, eerste lid, onder a en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=3&z=2026-01-01&g=2026-01-01), bedraagt ten hoogste 20% van de subsidiabele kosten, inclusief btw.
 
 2. De subsidie voor de activiteiten, bedoeld in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=3&z=2026-01-01&g=2026-01-01), bedraagt ten hoogste 30% van de subsidiabele kosten, inclusief btw.
 
-#### Artikel 8. Subsidieplafond
+##### Artikel 8. Subsidieplafond
 
 1. Het subsidieplafond bestaat uit het bedrag van de subsidies gezamenlijk dat ten laste van enig kalenderjaar wordt of zal worden uitbetaald op basis van een verlening of vaststelling van een subsidie en wordt in aanmerking genomen voor alle jaren waarop de uitbetaling van een te verstrekken subsidie betrekking heeft.
 
@@ -142,7 +168,7 @@ Amateursport in de zin van deze regeling voldoet aan de volgende voorwaarden:
 
 8. Indien op de dag waarop het subsidieplafond is bereikt, meerdere volledige aanvragen tot verlening van subsidie zijn ontvangen en de volgorde van binnenkomst niet te bepalen is, wordt de onderlinge rangschikking vastgesteld door middel van loting.
 
-#### Artikel 9. Subsidiabele kosten
+##### Artikel 9. Subsidiabele kosten
 
 1. De volgende kosten komen in ieder geval in aanmerking voor subsidie:
 
@@ -182,7 +208,7 @@ Amateursport in de zin van deze regeling voldoet aan de volgende voorwaarden:
 
 3. Wanneer bestedingen van een amateursportorganisatie door een gemeente in haar aanvraag voor een specifieke uitkering op grond van de [Regeling specifieke uitkering stimulering sport 2024–2026](https://wetten.overheid.nl/jci1.3:c:BWBR0049559) worden meegenomen, komt deze amateursportorganisatie voor het kalenderjaar van deze aanvraag in het geheel niet meer in aanmerking voor een subsidie op grond van onderhavige regeling.
 
-#### Artikel 10. Subsidieverstrekking bij subsidies tot € 25.000
+##### Artikel 10. Subsidieverstrekking bij subsidies tot € 25.000
 
 1. Als de subsidie minder dan € 25.000 bedraagt, wordt de subsidie zonder voorafgaande verlening direct vastgesteld nadat de subsidiabele activiteiten hebben plaatsgevonden op een bedrag waarvan de hoogte door de minister bij de vaststelling wordt genoemd.
 
@@ -198,7 +224,7 @@ Amateursport in de zin van deze regeling voldoet aan de volgende voorwaarden:
 
 5. De minister besluit binnen 22 weken op een aanvraag tot vaststelling.
 
-#### Artikel 11. Subsidieverstrekking bij subsidies van € 25.000 tot € 125.000 waarbij de subsidiabele activiteiten al hebben plaatsgevonden
+##### Artikel 11. Subsidieverstrekking bij subsidies van € 25.000 tot € 125.000 waarbij de subsidiabele activiteiten al hebben plaatsgevonden
 
 1. Als de subsidie € 25.000 of meer bedraagt, maar minder dan € 125.000 en de subsidiabele activiteiten al hebben plaatsgevonden, wordt subsidie zonder voorafgaande verlening direct vastgesteld op een bedrag waarvan de hoogte door de minister bij de vaststelling wordt genoemd.
 
@@ -214,7 +240,7 @@ Amateursport in de zin van deze regeling voldoet aan de volgende voorwaarden:
 
 5. De minister besluit binnen 22 weken op een aanvraag tot vaststelling.
 
-#### Artikel 12. Subsidieverstrekking bij subsidies van € 25.000 tot € 125.000 waarbij de subsidiabele activiteiten nog zullen plaatsvinden
+##### Artikel 12. Subsidieverstrekking bij subsidies van € 25.000 tot € 125.000 waarbij de subsidiabele activiteiten nog zullen plaatsvinden
 
 1. Als de subsidie € 25.000 of meer bedraagt, maar minder dan € 125.000 en de subsidiabele activiteiten nog zullen plaatsvinden, wordt subsidie verstrekt door middel van een verlening voor aanvang van de periode waarvoor subsidie wordt aangevraagd en een vaststelling na de periode waarvoor subsidie wordt aangevraagd.
 
@@ -242,7 +268,7 @@ Amateursport in de zin van deze regeling voldoet aan de volgende voorwaarden:
 
 11. De minister besluit binnen 22 weken op een aanvraag tot vaststelling van de subsidie, waarbij afrekening tot maximaal de resterende 20% van het subsidiebedrag plaatsvindt als alle activiteiten zijn uitgevoerd en aan alle aan de verleende subsidie verbonden verplichtingen is voldaan.
 
-#### Artikel 13. Subsidieverstrekking bij subsidies vanaf € 125.000
+##### Artikel 13. Subsidieverstrekking bij subsidies vanaf € 125.000
 
 1. Als de subsidie € 125.000 of meer bedraagt, wordt een subsidie verstrekt door middel van een verlening voor aanvang van de periode waarvoor subsidie wordt aangevraagd en een vaststelling na de periode waarvoor subsidie wordt aangevraagd.
 
@@ -266,7 +292,7 @@ Amateursport in de zin van deze regeling voldoet aan de volgende voorwaarden:
 
 11. De minister besluit binnen 22 weken op een aanvraag tot vaststelling van de subsidie, waarbij afrekening tot maximaal de resterende 20% van het subsidiebedrag plaatsvindt als alle activiteiten zijn uitgevoerd en aan alle aan de verleende subsidie verbonden verplichtingen is voldaan.
 
-#### Artikel 14. Aanvullende verplichtingen
+##### Artikel 14. Aanvullende verplichtingen
 
 1. De subsidieontvanger draagt er zorg voor dat gedurende de periode genoemd in [artikel 13, tweede en derde lid, van de Uitvoeringsbeschikking omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&artikel=13) voor de gesubsidieerde activiteiten geen recht op aftrek van btw op grond van de [Wet omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) of recht op compensatie op grond van de [Wet op het btw-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) ontstaat.
 
@@ -274,15 +300,15 @@ Amateursport in de zin van deze regeling voldoet aan de volgende voorwaarden:
 
 3. Indien niet aan de verplichtingen, bedoeld in het eerste en het tweede lid, wordt voldaan doet de subsidieontvanger onverwijld schriftelijk melding daarvan aan de minister.
 
-#### Artikel 15. Hardheidsclausule
+##### Artikel 15. Hardheidsclausule
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 16. Inwerkingtreding en vervaldatum
+##### Artikel 16. Inwerkingtreding en vervaldatum
 
 Deze regeling treedt in werking met ingang van 1 januari 2024 en vervalt met ingang van 1 januari 2029.
 
-#### Artikel 17. Citeertitel
+##### Artikel 17. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling BOSA.
 
@@ -320,7 +346,7 @@ Als gevolg van klimaatverandering nemen extremen in het weer toe met onder ander
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 8a. Aanvraag tot verlening of vaststelling 2024
+##### Artikel 8a. Aanvraag tot verlening of vaststelling 2024
 
 1. In afwijking van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=10&z=2026-01-01&g=2026-01-01), en [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=11&z=2026-01-01&g=2026-01-01), kunnen er geen aanvragen tot directe vaststelling van een subsidie worden ingediend in de periode van 1 augustus 2024 tot en met 31 december 2024.
 
@@ -348,13 +374,13 @@ In de Routekaart Duurzame Sport, voor een duurzame en betaalbare sport, wordt vo
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 8b. Indienen aanvraag
+##### Artikel 8b. Indienen aanvraag
 
 1. Een aanvraag tot verlening of vaststelling van een subsidie kan vanaf de eerste maandag van januari om 9:00 uur van enig kalenderjaar gedurende het hele kalenderjaar worden ingediend.
 
 2. Indien het totaal aangevraagde subsidiebedrag in enig kalenderjaar 155% bedraagt van het op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=8&z=2026-01-01&g=2026-01-01) voor dat kalenderjaar vastgestelde subsidieplafond kunnen er gedurende de resterende periode van dat kalenderjaar geen aanvragen tot directe vaststelling van een subsidie, als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=10&z=2026-01-01&g=2026-01-01), en [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=11&z=2026-01-01&g=2026-01-01), en geen aanvragen tot verlening van een subsidie, als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=12&z=2026-01-01&g=2026-01-01), en [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=13&z=2026-01-01&g=2026-01-01), meer worden ingediend.
 
-#### Artikel 16a. Overgangsbepaling
+##### Artikel 16a. Overgangsbepaling
 
 [Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=7&z=2026-01-01&g=2026-01-01), zoals dat luidde vóór 1 januari 2025, blijft van toepassing op subsidies die vóór 1 januari 2025 zijn aangevraagd, verleend of vastgesteld.
 

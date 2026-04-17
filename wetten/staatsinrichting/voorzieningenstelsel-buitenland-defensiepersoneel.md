@@ -1,13 +1,38 @@
 ---
 title: "Voorzieningenstelsel buitenland defensiepersoneel"
 identifier: "BWBR0039849"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2026-02-26
-laatste_update: 2026-02-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039849"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-02-26"
+last_updated: "2026-02-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039849"
+soort: "ministeriele-regeling"
+stam_id: "14089093"
+version_id: "31274742"
+internal_id: "C44716451"
+label_id: "14050414"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039849/2026-02-26/0"
+intitule_bron: "Stcrt.2017-42577"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-07-12"
+intitule_published: "2017-07-26"
+intitule_in_force: "2017-07-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-44750"
+original_signed_date: "2025-12-18"
+original_published_date: "2025-12-30"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-44750"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0039849&z=2026-02-26&g=2026-02-26"
+jci_1_0: "1.0:c:BWBR0039849&g=2026-02-26"
+citeertitel_status: "officieel"
+signed_date: "2025-12-18"
+entry_into_force: "2026-01-01"
 ---
-
 # Voorzieningenstelsel buitenland defensiepersoneel
 
 Gelet op:
@@ -26,7 +51,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -144,19 +169,19 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 1. Algemeen
 
-#### Artikel 2. Toepasselijkheid
+##### Artikel 2. Toepasselijkheid
 
 Onverminderd [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-02-26&g=2026-02-26), is dit hoofdstuk van toepassing op de defensie-ambtenaar die is geplaatst in een gebied buiten Nederland, tenzij op hem [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=3&z=2026-02-26&g=2026-02-26) dan wel de [Regeling voorzieningen bij vredes- en humanitaire operaties (VVHO)](https://wetten.overheid.nl/jci1.3:c:BWBR0039789) van toepassing is.
 
-#### Artikel 3. Plaatsing van de defensie-ambtenaar
+##### Artikel 3. Plaatsing van de defensie-ambtenaar
 
 De defensie-ambtenaar is geplaatst in een gebied buiten Nederland, indien hij voor een tijdvak van langere duur dan dertig achtereenvolgende dagen – anders dan uitsluitend in verband met een militaire oefening – in dat gebied is tewerkgesteld en in dat gebied is gevestigd.
 
-#### Artikel 4. Verblijf van het gezin in het gebied van plaatsing
+##### Artikel 4. Verblijf van het gezin in het gebied van plaatsing
 
 Het verblijf van de gezinsleden van de defensie-ambtenaar in een gebied buiten Nederland wordt uitsluitend in aanmerking genomen, indien de gezinsleden aldaar metterwoon zijn gevestigd en ter zake van dat verblijf is voldaan aan door de minister bepaalde regels.
 
-#### Artikel 5. Aanvang, einde en duur van de plaatsing
+##### Artikel 5. Aanvang, einde en duur van de plaatsing
 
 - 1. De plaatsing van de defensie-ambtenaar en het verblijf van een of meer gezinsleden in een gebied buiten Nederland vangen aan op de dag van aankomst bij een grensstation of -overgang, in de eerste haven of op het eerste vliegveld aldaar.
 
@@ -184,7 +209,7 @@ Het verblijf van de gezinsleden van de defensie-ambtenaar in een gebied buiten N
 
 - 9. Onverminderd het zevende lid, mag de dag van vertrek, bedoeld in het tweede lid, maximaal vijf werkdagen na einde van de functievervulling liggen.
 
-#### Artikel 6. Samenloop
+##### Artikel 6. Samenloop
 
 - 1. Indien de defensie-ambtenaar reeds uit anderen hoofde aanspraak heeft op voorzieningen – al dan niet in natura – ter zake van zijn plaatsing in een gebied buiten Nederland, kan de aanspraak op voorzieningen op grond van dit hoofdstuk geheel of gedeeltelijk komen te vervallen.
 
@@ -198,7 +223,7 @@ Het verblijf van de gezinsleden van de defensie-ambtenaar in een gebied buiten N
 
 #### Paragraaf 2. Toelage-buitenland
 
-#### Artikel 7. Toelage buitenland defensieambtenaren
+##### Artikel 7. Toelage buitenland defensieambtenaren
 
 - 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -230,11 +255,11 @@ Het verblijf van de gezinsleden van de defensie-ambtenaar in een gebied buiten N
 
 - 6. [Artikel 3, derde lid, van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=3) wordt niet toegepast op de verplaatsingscomponent bij deeltijdverlof of ouderschapsverlof, evenmin wordt de verplaatsingscomponent voor de burgerambtenaar met een deeltijdaanstelling of ouderschapsverlof naar evenredigheid gekort.
 
-#### Artikel 8. Vergoeding kosten zorgverzekering en zorgkosten
+##### Artikel 8. Vergoeding kosten zorgverzekering en zorgkosten
 
 Vervallen
 
-#### Artikel 9. Verhoging toelage-buitenland
+##### Artikel 9. Verhoging toelage-buitenland
 
 - 1. De defensie-ambtenaar bedoeld in [artikel 7, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2026-02-26&g=2026-02-26), heeft – met inachtneming van het tweede tot en met het zevende lid – aanspraak op een verhoging van zijn toelage-buitenland voor ieder van zijn kinderen, indien:
 
@@ -254,7 +279,7 @@ Vervallen
 
 - 7. Indien de aanspraak op kinderbijslag, de basisbeurs, of de fictieve basisbeurs, bedoeld in het eerste lid, voor een kind eindigt, vervalt ten aanzien van dat kind de aanspraak op de verhoging met ingang van de dag waarop die verandering plaatsvindt.
 
-#### Artikel 10. Aanvullende toelage-buitenland
+##### Artikel 10. Aanvullende toelage-buitenland
 
 De militair die is geplaatst in een gebied buiten Nederland en die aanspraak heeft op:
 
@@ -266,7 +291,7 @@ De militair die is geplaatst in een gebied buiten Nederland en die aanspraak hee
 
 heeft aanspraak op een aanvullende toelage-buitenland, waarvan het bedrag wordt vastgesteld met toepassing van tabel 7 en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2026-02-26&g=2026-02-26).
 
-#### Artikel 11. Verandering toelage-buitenland
+##### Artikel 11. Verandering toelage-buitenland
 
 - 1. Een verhoging van de toelage-buitenland als gevolg van een verandering in de burgerlijke staat van de defensie-ambtenaar gaat in op de dag waarop die verandering plaatsvindt.
 
@@ -280,7 +305,7 @@ heeft aanspraak op een aanvullende toelage-buitenland, waarvan het bedrag wordt 
 
 #### Paragraaf 3. Overige voorzieningen
 
-#### Artikel 12. Huisvesting en voeding van rijkswege
+##### Artikel 12. Huisvesting en voeding van rijkswege
 
 - 1. In dit artikel wordt, indien de militair gebruik moet maken van de faciliteiten van in Duitsland gesitueerde Britse messes, verstaan onder **noodzakelijk gemaakte kosten**:
 
@@ -310,7 +335,7 @@ heeft aanspraak op een aanvullende toelage-buitenland, waarvan het bedrag wordt 
 
 - 2°. de voor het betrokken gebied geldende duurtecorrectie – voor zover deze positief is – berekend over het bedrag, bedoeld ten 1°.
 
-#### Artikel 13. Tegemoetkoming woninghuur
+##### Artikel 13. Tegemoetkoming woninghuur
 
 - 1. In dit artikel wordt verstaan onder:
 
@@ -364,7 +389,7 @@ heeft aanspraak op een aanvullende toelage-buitenland, waarvan het bedrag wordt 
 
 - 7. In afwijking van het gestelde in het eerste lid, onderdeel d, is de eigen bijdrage 10%, indien de defensieambtenaar vanuit een eigendomswoning met een tegemoetkoming in de verplaatsingskosten is verhuisd naar het buitenland en hij gedurende zijn plaatsing, een deel van die plaatsing, of een aansluitende nieuwe plaatsing in het buitenland deze eigendomswoning aanhoudt en die woning niet verhuurt of ter beschikking stelt aan een ander dan een van de eigen- stief- of pleegkinderen van de defensieambtenaar.
 
-#### Artikel 14. Lening huurwaarborgsom
+##### Artikel 14. Lening huurwaarborgsom
 
 - 1. Indien bij het in het gebied van plaatsing betrekken van een passende woning als bedoeld in [artikel 13, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=3&artikel=13&z=2026-02-26&g=2026-02-26), een waarborgsom voor de huurwoning moet worden gestort, kan een renteloze lening worden verstrekt aan:
 
@@ -378,7 +403,7 @@ heeft aanspraak op een aanvullende toelage-buitenland, waarvan het bedrag wordt 
 
 - 4. De aflossing van de lening, met inbegrip van de eventueel daarover verkregen rente, geschiedt in eenmaal aan het eind van het verblijf in het gebied van plaatsing of bij het eerder verlaten van de woning.
 
-#### Artikel 15. Tegemoetkoming doorlopende kosten
+##### Artikel 15. Tegemoetkoming doorlopende kosten
 
 - 1. De defensieambtenaar bedoeld in [artikel 7, eerste lid, onderdelen a, b en f](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2026-02-26&g=2026-02-26), en die voor een tijdvak van langere duur dan zes maanden, maar van kortere duur dan anderhalf jaar binnen Europa, dan wel van kortere duur dan twee jaar buiten Europa, is geplaatst in een gebied buiten Nederland, heeft aanspraak op een maandelijkse tegemoetkoming in de doorlopende kosten. De tegemoetkoming bedraagt 10 procent van het voor hem geldende standaard netto Nederland.
 
@@ -388,7 +413,7 @@ heeft aanspraak op een aanvullende toelage-buitenland, waarvan het bedrag wordt 
 
 - b. aanspraak doet gelden op de verhuiskostenvergoeding, bedoeld in [artikel 2 van het Verplaatsingskostenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0005137&artikel=2), dan wel [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006039&artikel=3), en [artikel 10 van het Verplaatsingskostenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006039&artikel=10).
 
-#### Artikel 15a. Tegemoetkoming meerkosten beginperiode
+##### Artikel 15a. Tegemoetkoming meerkosten beginperiode
 
 - 1. De defensie-ambtenaar die geplaatst is in een gebied buiten Nederland, heeft bij aanvang van de plaatsing aanspraak op een eenmalige tegemoetkoming in de meerkosten beginperiode.
 
@@ -398,7 +423,7 @@ heeft aanspraak op een aanvullende toelage-buitenland, waarvan het bedrag wordt 
 
 - 4. Indien de plaatsing door onvoorziene omstandigheden voortijdig wordt beëindigd, en deze omstandigheden niet aan de defensieambtenaar te wijten zijn, wordt de tegemoetkoming niet teruggevorderd.
 
-#### Artikel 16. Tegemoetkoming onderwijskosten
+##### Artikel 16. Tegemoetkoming onderwijskosten
 
 - 1. In dit artikel wordt verstaan onder:
 
@@ -452,7 +477,7 @@ heeft aanspraak op een aanvullende toelage-buitenland, waarvan het bedrag wordt 
 
 - 12. Door de commandant kan aan de partner en de kinderen van de defensieambtenaar aanspraak worden verleend op een vergoeding van de kosten van een taalcursus in de taal van het land waar de defensieambtenaar met zijn gezin is of wordt geplaatst indien dat, naar zijn oordeel, voor de integratie in dat land noodzakelijk is.
 
-#### Artikel 17. Tegemoetkoming kledingkosten
+##### Artikel 17. Tegemoetkoming kledingkosten
 
 - 1. In dit artikel wordt mede verstaan onder **gebied binnen de keerkringen**:
 
@@ -466,15 +491,15 @@ heeft aanspraak op een aanvullende toelage-buitenland, waarvan het bedrag wordt 
 
 - 4. De bedragen van de tegemoetkoming zijn opgenomen in tabel 12. De tegemoetkoming wordt naar evenredigheid terugbetaald, indien om persoonlijke redenen de plaatsing of het verblijf van kortere duur is dan het tijdvak, bedoeld in het tweede onderscheidenlijk derde lid.
 
-#### Artikel 18. Tegemoetkoming kosten tewerkstelling niet-Nederlands onderdeel buiten Nederland
+##### Artikel 18. Tegemoetkoming kosten tewerkstelling niet-Nederlands onderdeel buiten Nederland
 
 (vervallen)
 
-#### Artikel 19. Tegemoetkoming grensgangers
+##### Artikel 19. Tegemoetkoming grensgangers
 
 (vervallen)
 
-#### Artikel 20. Lening aanloopkosten
+##### Artikel 20. Lening aanloopkosten
 
 - 1. Aan de defensie-ambtenaar die voor ten minste zes achtereenvolgende maanden is of wordt geplaatst in een gebied buiten Nederland kan een renteloze lening worden verstrekt ter bestrijding van de aanloopkosten verbonden aan het verblijf in dat gebied.
 
@@ -492,7 +517,7 @@ heeft aanspraak op een aanvullende toelage-buitenland, waarvan het bedrag wordt 
 
 - 8. De lening bedoeld in het vijfde lid wordt naar rato verlaagd indien de defensieambtenaar binnen een periode van 24 maanden na terugkeer in Nederland de dienst zal verlaten.
 
-#### Artikel 20a. Tegemoetkoming aanloopkosten
+##### Artikel 20a. Tegemoetkoming aanloopkosten
 
 - 1. De defensieambtenaar die met aanspraak op een tegemoetkoming in de verhuiskosten is verhuisd naar een land buiten Europa, heeft aanspraak op een tegemoetkoming in de aanloopkosten.
 
@@ -500,7 +525,7 @@ heeft aanspraak op een aanvullende toelage-buitenland, waarvan het bedrag wordt 
 
 - 3. De over deze tegemoetkoming verschuldigde loonheffing en inhoudingen komen voor rekening van Defensie.
 
-#### Artikel 21. Lening aankoop auto Verenigde Staten van Amerika en Canada
+##### Artikel 21. Lening aankoop auto Verenigde Staten van Amerika en Canada
 
 - 1. Aan de defensie-ambtenaar die voor het volgen van een opleiding of cursus is geplaatst in de Verenigde Staten van Amerika of Canada kan een lening worden verstrekt ter zake van de aankoop van een auto.
 
@@ -510,7 +535,7 @@ heeft aanspraak op een aanvullende toelage-buitenland, waarvan het bedrag wordt 
 
 - 4. De aflossing van de lening geschiedt vóór het einde van de plaatsing in ten hoogste twaalf gelijke maandelijkse opeenvolgende termijnen, aanvangende met de maand volgende op die waarin de lening is verstrekt. Bij het vaststellen van het maandelijkse aflossingsbedrag kan desgewenst rekening worden gehouden met de vermoedelijke opbrengst van de verkoop van de auto bij het einde van de plaatsing. In dat geval wordt de maandelijkse aflossing vastgesteld op ten minste 50 procent van het maandelijkse aflossingsbedrag dat verschuldigd zou zijn, indien de gehele lening in maandelijkse termijnen zou worden afgelost.
 
-#### Artikel 22. Lening aankoop tweede auto Verenigde Staten van Amerika, Canada, de Nederlandse Antillen en Aruba
+##### Artikel 22. Lening aankoop tweede auto Verenigde Staten van Amerika, Canada, de Nederlandse Antillen en Aruba
 
 - 1. De militair bedoeld in [artikel 7, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2026-02-26&g=2026-02-26), die voor een tijdsduur van ten minste twee jaar wordt geplaatst in de Verenigde Staten van Amerika, Canada, de Nederlandse Antillen of op Aruba heeft aanspraak op een renteloze lening ter zake van de aankoop van een tweede personenauto, indien op goede gronden kan worden aangenomen dat het gezinsverband aldaar eveneens ten minste twee jaar zal bestaan.
 
@@ -520,11 +545,11 @@ heeft aanspraak op een aanvullende toelage-buitenland, waarvan het bedrag wordt 
 
 ### Hoofdstuk 3. Voorzieningen tijdens plaatsing bij een post
 
-#### Artikel 23. Toepasselijkheid
+##### Artikel 23. Toepasselijkheid
 
 1. Dit hoofdstuk is van toepassing op de defensie-ambtenaar die in het buitenland wordt geplaatst of tewerkgesteld om voor een periode van drie maanden of meer werkzaamheden te verrichten bij een post, indien aan de werknemer van het Rijk die vergelijkbaar is met de betreffende defensie-ambtenaar aanspraak zou zijn verleend op de voorzieningen in de ACRU.
 
-#### Artikel 24. Voorzieningen
+##### Artikel 24. Voorzieningen
 
 1. De defensie-ambtenaar heeft behalve op inkomsten op grond van het [Inkomstenbesluit militairen](onbekend), onderscheidenlijk het [Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191), in voorkomend geval aanspraak op voorzieningen op de voet van de ACRU.
 
@@ -532,7 +557,7 @@ heeft aanspraak op een aanvullende toelage-buitenland, waarvan het bedrag wordt 
 
 3. Bij toepassing van de koopkrachtgelijkstelling op de voet van de ACRU wordt het nettosalaris van de defensie-ambtenaar vastgesteld conform de berekening van het standaard netto Nederland in [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=1&artikel=1&z=2026-02-26&g=2026-02-26). van deze regeling, zonder inachtneming van de daarin genoemde vermenigvuldigingsfactor.
 
-#### Artikel 25. Begripsbepalingen
+##### Artikel 25. Begripsbepalingen
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -546,21 +571,21 @@ In dit hoofdstuk wordt verstaan onder:
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
-#### Artikel 26. Aanvullende toelage-buitenland
+##### Artikel 26. Aanvullende toelage-buitenland
 
 - 1. De militair die vóór 1 oktober 1991 aanspraak had op de maandelijkse aanvullende toelage-buitenland op grond van de Regeling aanvullende toelage-buitenland militairen zeemacht, onderscheidenlijk Regeling aanvullende toelage-buitenland militairen land- en luchtmacht, zonder dat de toelage officieren-arts, -tandarts of -apotheker waarop hij gelijktijdig aanspraak had in de voor hem geldende pensioengrondslag was opgenomen, behoudt de aanspraak op die aanvullende toelage-buitenland.
 
 - 2. De militair die aanspraak heeft op de toelage woninghuur Koninklijke marechaussee, bedoeld in artikel 39 van de Inkomstenregeling militairen, heeft aanspraak op een aanvullende toelage-buitenland, waarvan het bedrag wordt vastgesteld met toepassing van tabel 7.
 
-#### Artikel 27
+##### Artikel 27
 
 (vervallen)
 
-#### Artikel 28. Mogelijkheid tot afwijken
+##### Artikel 28. Mogelijkheid tot afwijken
 
 De Minister is bevoegd te beslissen in die gevallen waarin deze regeling naar zijn oordeel niet of niet in redelijkheid voorziet
 
-#### Artikel 29. Intrekking
+##### Artikel 29. Intrekking
 
 Ingetrokken worden:
 
@@ -584,11 +609,11 @@ Ingetrokken worden:
 
 - j. de ministeriële regeling van 25 februari 1982, nummer PP82/002/781 (Regeling Voorlopige voorzieningen Sinaï).
 
-#### Artikel 30. Inwerkingtreding
+##### Artikel 30. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van ondertekening en werkt terug tot en met 1 januari 1996.
 
-#### Artikel 31. Citeertitel
+##### Artikel 31. Citeertitel
 
 Deze regeling wordt aangehaald als: Voorzieningenstelsel buitenland defensiepersoneel (afgekort: VBD).
 
@@ -1311,7 +1336,7 @@ Deze regeling zal worden geplaatst in de bundel Bezoldiging militairen (MP 31-40
 
 ### Hoofdstuk 3a. Voorzieningen zorg- en ziektekosten buitenland
 
-#### Artikel 25a. Collectieve zorgverzekering
+##### Artikel 25a. Collectieve zorgverzekering
 
 1. Degene die behoort tot groep 1 of 2, heeft voor de aldaar met toestemming van de minister metterwoon verblijvende gezinsledenaanspraak op een collectieve zorgverzekering, tenzij het gezinslid:
 
@@ -1331,7 +1356,7 @@ Deze regeling zal worden geplaatst in de bundel Bezoldiging militairen (MP 31-40
 
 7. Realisering van de aanspraak opgenomen in het derde lid wordt uitgevoerd door de rechtspersoon, bedoeld in [artikel 90a van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=90a).
 
-#### Artikel 25b. Zorgkostenvoorziening
+##### Artikel 25b. Zorgkostenvoorziening
 
 1. Degene die behoort tot groep 3, heeft voor de aldaar met toestemming van de minister metterwoon verblijvende gezinsleden aanspraak op een zorgkostenvoorziening. Degene die behoort tot groep 4, maakt eveneens aanspraak op een zorgkostenvoorziening voor de metterwoon verblijvende gezinsleden.
 
@@ -1351,7 +1376,7 @@ Deze regeling zal worden geplaatst in de bundel Bezoldiging militairen (MP 31-40
 
 7. Realisering van de aanspraken opgenomen in het eerste en vierde lid worden uitgevoerd door de rechtspersoon, bedoeld in [artikel 90a van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=90a).
 
-#### Artikel 25c. Vergoeding vrijwillige verzekering [AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) en [Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
+##### Artikel 25c. Vergoeding vrijwillige verzekering [AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) en [Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
 
 Degene die behoort tot groep 3, heeft voor de aldaar met toestemming van de minister metterwoon verblijvende gezinsleden aanspraak op vergoeding van de kosten voor vrijwillige verzekering voor de [Algemene ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) en [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), indien de door het gezinslid aangevraagde verzekering is goedgekeurd door de Sociale Verzekeringsbank, tenzij het gezinslid:
 
@@ -1359,7 +1384,7 @@ Degene die behoort tot groep 3, heeft voor de aldaar met toestemming van de mini
 
 - b. een werkloosheidsuitkering ontvangt.
 
-#### Artikel 25d. Werkingsduur hoofdstuk 3a
+##### Artikel 25d. Werkingsduur hoofdstuk 3a
 
 Dit hoofdstuk vindt uitsluitend toepassing in de periode van 1 januari 2026 tot en met 31 december 2027.
 

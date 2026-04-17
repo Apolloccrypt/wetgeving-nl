@@ -1,13 +1,39 @@
 ---
-title: "Mandaatregeling Defensie Wet op de inlichtingen en veiligheidsdiensten 2017 en de Wet veiligheidsonderzoeken"
+title: "Mandaatregeling Defensie Wet op de inlichtingen- en veiligheidsdiensten 2017 en Wet veiligheidsonderzoeken"
 identifier: "BWBR0041001"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-04-01
-laatste_update: 2026-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041001"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-01"
+last_updated: "2026-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041001"
+soort: "ministeriele-regeling"
+stam_id: "14632053"
+version_id: "25055772"
+internal_id: "C35833881"
+label_id: "14585124"
+dtd_version: "2.0"
+original_entry_into_force: "2018-06-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041001/2026-04-01/0"
+intitule_bron: "Stcrt.2018-32330"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-06-04"
+intitule_published: "2018-06-11"
+intitule_in_force: "2018-06-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-32330"
+original_signed_date: "2018-06-04"
+original_published_date: "2018-06-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-32330"
+entry_into_force_date: "2018-06-12"
+jci_1_3: "jci1.3:c:BWBR0041001&z=2026-04-01&g=2026-04-01"
+jci_1_0: "1.0:c:BWBR0041001&g=2026-04-01"
+citeertitel_status: "officieel"
+short_title: "Mandaatregeling Defensie Wet op de inlichtingen en veiligheidsdiensten 2017 en de Wet veiligheidsonderzoeken"
+signed_date: "2018-06-04"
+entry_into_force: "2018-06-12"
 ---
-
 # Mandaatregeling Defensie Wet op de inlichtingen- en veiligheidsdiensten 2017 en Wet veiligheidsonderzoeken
 
 Gelet op het bepaalde in de [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896) en de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277);
@@ -16,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 2. Mandaat secretaris-generaal
 
-#### Artikel 2. Mandaat secretaris-generaal
+##### Artikel 2. Mandaat secretaris-generaal
 
 1. Aan de secretaris-generaal wordt mandaat en machtiging verleend ten aanzien van:
 
@@ -46,13 +72,13 @@ In deze regeling wordt verstaan onder:
 
 2. Bij afwezigheid of verhindering van de secretaris-generaal treedt diens plaatsvervanger voor de duur van de afwezigheid of verhindering in diens plaats.
 
-#### Artikel 3. Ondermandaat door secretaris-generaal
+##### Artikel 3. Ondermandaat door secretaris-generaal
 
 De secretaris-generaal wordt toegestaan schriftelijk ondermandaat te verlenen aan de plaatsvervangend secretaris-generaal ten aanzien van de bevoegdheid, bedoeld in [artikel 2, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=2&artikel=2&z=2026-04-01&g=2026-04-01).
 
 #### Paragraaf 3. Mandaat [Wvo](https://wetten.overheid.nl/jci1.3:c:BWBR0008277)
 
-#### Artikel 4. Mandaat directeur MIVD
+##### Artikel 4. Mandaat directeur MIVD
 
 1. Aan de directeur van de MIVD wordt mandaat en machtiging verleend ten aanzien van:
 
@@ -84,7 +110,7 @@ De secretaris-generaal wordt toegestaan schriftelijk ondermandaat te verlenen aa
 
 6. De directeur van de MIVD wordt toegestaan schriftelijk ondermandaat te verlenen aan de plaatsvervangend directeur van de MIVD ten aanzien van de bevoegdheid, bedoeld in het eerste lid, onder f. Een afschrift van dit besluit wordt aan de Minister verzonden.
 
-#### Artikel 5. Mandaat beveiligingscoördinatoren van de krijgsmachtdelen, het Defensie Ondersteuningscommando, de Defensie Materieel Organisatie en de Bestuursstaf
+##### Artikel 5. Mandaat beveiligingscoördinatoren van de krijgsmachtdelen, het Defensie Ondersteuningscommando, de Defensie Materieel Organisatie en de Bestuursstaf
 
 1. Aan de beveiligingscoördinatoren van het Commando Zeestrijdkrachten, het Commando Luchtstrijdkrachten, het Commando Landstrijdkrachten, het Defensie Ondersteuningscommando, de Defensie Materieel Organisatie en de Bestuursstaf worden mandaat en machtiging verleend ten aanzien van het aanwijzen van vertrouwensfuncties als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=3) juncto [artikel 2 van de Wvo](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=2), voor zover het vertrouwensfuncties betreft die worden uitgeoefend bij respectievelijk het Commando Zeestrijdkrachten, het Commando Luchtstrijdkrachten, het Commando Landstrijdkrachten, het Defensie Ondersteuningscommando, de Defensie Materieel Organisatie met uitzondering van de directie Beleid en de Bestuursstaf met uitzondering van de MIVD.
 
@@ -96,7 +122,7 @@ De secretaris-generaal wordt toegestaan schriftelijk ondermandaat te verlenen aa
 
 #### Paragraaf 4. Mandaat [Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0039896)
 
-#### Artikel 6. Mandaat directeur MIVD algemene en bijzondere bevoegdheden, uitbrengen van verslag omtrent uitoefening enkele bijzondere bevoegdheden en nemen van primaire besluiten ten aanzien van aanvragen kennisneming persoonsgegevens en andere gegevens
+##### Artikel 6. Mandaat directeur MIVD algemene en bijzondere bevoegdheden, uitbrengen van verslag omtrent uitoefening enkele bijzondere bevoegdheden en nemen van primaire besluiten ten aanzien van aanvragen kennisneming persoonsgegevens en andere gegevens
 
 1. Aan de directeur van de MIVD wordt mandaat en machtiging verleend ten aanzien van het verlenen van toestemming voor de uitoefening van algemene en bijzondere bevoegdheden en het uitbrengen van verslag omtrent de uitoefening van enkele bijzondere bevoegdheden zoals bedoeld in:
 
@@ -110,7 +136,7 @@ De secretaris-generaal wordt toegestaan schriftelijk ondermandaat te verlenen aa
 
 3. Het verlenen van toestemming voor de uitoefening van de in het eerste en tweede lid bedoelde bevoegdheden door de directeur MIVD is uitgesloten, indien de uitoefening van de bevoegdheden betrekking heeft op onderwerpen met een principieel beleidsmatig of politiek gevoelig karakter of wanneer de bevoegdheden worden uitgevoerd binnen woningen.
 
-#### Artikel 7. Ondermandaat algemene en bijzondere bevoegdheden
+##### Artikel 7. Ondermandaat algemene en bijzondere bevoegdheden
 
 1. De directeur van de MIVD wordt toegestaan schriftelijk ondermandaat en ondermachtiging te verlenen voor de bevoegdheden bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=4&artikel=6&z=2026-04-01&g=2026-04-01), aan de onder hem ressorterende functionarissen ten aanzien van:
 
@@ -132,7 +158,7 @@ De secretaris-generaal wordt toegestaan schriftelijk ondermandaat te verlenen aa
 
 3. Een afschrift van het besluit, bedoeld in het eerste en tweede lid, wordt aan de minister verzonden.
 
-#### Artikel 8. Mandaat directeur MIVD samenwerking MIVD met andere instanties
+##### Artikel 8. Mandaat directeur MIVD samenwerking MIVD met andere instanties
 
 1. Aan de directeur van de MIVD wordt mandaat en machtiging verleend ten aanzien van stukken en besluiten met betrekking tot het verzoeken of verlenen van toestemming voor de vormen van ondersteuning of samenwerking als bedoeld in:
 
@@ -148,7 +174,7 @@ De secretaris-generaal wordt toegestaan schriftelijk ondermandaat te verlenen aa
 
 2. De directeur van de MIVD informeert de minister zo spoedig mogelijk over de in het eerste lid, onderdelen b en c, verleende toestemming en het verzoek als bedoeld in onderdelen d en e.
 
-#### Artikel 9. Mandaat directeur MIVD externe verstrekking van gegevens
+##### Artikel 9. Mandaat directeur MIVD externe verstrekking van gegevens
 
 Aan de directeur van de MIVD wordt mandaat en machtiging verleend ten aanzien van:
 
@@ -158,7 +184,7 @@ Aan de directeur van de MIVD wordt mandaat en machtiging verleend ten aanzien va
 
 - c. het doen van mededeling, genoemd in [artikel 66, eerste lid van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=66), met inbegrip van het vragen van toestemming aan de Rechtbank Den Haag indien de mededeling betrekking heeft op gegevens die betrekking hebben op de vertrouwelijke communicatie tussen een advocaat en diens cliënt zoals bedoeld in [artikel 66, derde lid van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=66).
 
-#### Artikel 10. Verdaagbesluiten en ontheffing reisverbod
+##### Artikel 10. Verdaagbesluiten en ontheffing reisverbod
 
 Aan de directeur van de MIVD wordt mandaat en machtiging verleend ten aanzien van:
 
@@ -166,23 +192,23 @@ Aan de directeur van de MIVD wordt mandaat en machtiging verleend ten aanzien va
 
 - b. het verlenen van ontheffing aan ambtenaren van de MIVD van het reisverbod zoals bedoeld in [artikel 14, eerste lid, onder a en b, van de Wiv](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=14).
 
-#### Artikel 11. Afwezigheid of verhindering
+##### Artikel 11. Afwezigheid of verhindering
 
 Bij afwezigheid of verhindering van de directeur van de MIVD treedt diens plaatsvervanger in de in de [artikelen 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=4&artikel=6&z=2026-04-01&g=2026-04-01) bedoelde gevallen voor de duur van de afwezigheid of verhindering in diens plaats.
 
 #### Paragraaf 5. Overige bepalingen
 
-#### Artikel 12. Voorwaarden uitoefening mandaat
+##### Artikel 12. Voorwaarden uitoefening mandaat
 
 1. De uitoefening van de gemandateerde bevoegdheden geschiedt met inachtneming van de voor de burgerlijke rijksdienst en de voor het ministerie geldende beleids- en uitvoeringsregels alsmede met inachtneming van de aan de uitoefening van het mandaat gestelde regels en de daaraan verbonden instructies.
 
 2. De mandataris is gehouden de gestelde regels en instructies op te volgen.
 
-#### Artikel 13. Voorleggen ter beslissing aan mandans
+##### Artikel 13. Voorleggen ter beslissing aan mandans
 
 De mandataris maakt geen gebruik van een aan hem verleend mandaat in de gevallen waarin hij van mening is dat de mandans een beslissing dient te nemen of een stuk dient vast te stellen en te ondertekenen.
 
-#### Artikel 14. Ondertekening
+##### Artikel 14. Ondertekening
 
 1. Ondertekening van besluiten en stukken door de secretaris-generaal met betrekking tot het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041001&paragraaf=2&artikel=2&z=2026-04-01&g=2026-04-01) bedoelde mandaat vindt plaats op de volgende wijze:
 
@@ -220,15 +246,15 @@ Handtekening
 
 Naam en voor zover van toepassing de militaire rang
 
-#### Artikel 15. Intrekking regeling
+##### Artikel 15. Intrekking regeling
 
 De [Mandaatregeling Defensie Wet op de inlichtingen- en veiligheidsdiensten 2002 en Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0013834) wordt ingetrokken.
 
-#### Artikel 16. Inwerkingtreding
+##### Artikel 16. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2018.
 
-#### Artikel 17. Citeertitel
+##### Artikel 17. Citeertitel
 
 Deze regeling wordt aangehaald als: Mandaatregeling Defensie Wet op de inlichtingen en veiligheidsdiensten 2017 en de Wet veiligheidsonderzoeken.
 

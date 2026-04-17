@@ -1,20 +1,46 @@
 ---
-title: "Regeling model huisregels private instellingen voor de verpleging van ter beschikking gestelden"
+title: "Regeling van de Minister voor Rechtsbescherming van 23 september 2019, nr. 2699493, houdende vaststelling van de Regeling model huisregels private instellingen voor de verpleging van ter beschikking gestelden"
 identifier: "BWBR0042608"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-04-01
-laatste_update: 2019-10-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042608"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-04-01"
+last_updated: "2019-10-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042608"
+soort: "ministeriele-regeling"
+stam_id: "15176423"
+version_id: "26023412"
+internal_id: "C37060671"
+label_id: "15123594"
+dtd_version: "2.0"
+original_entry_into_force: "2019-10-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042608/2025-04-01/0"
+intitule_bron: "Stcrt.2019-53653"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-09-23"
+intitule_published: "2019-10-03"
+intitule_in_force: "2019-10-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-53653"
+original_signed_date: "2019-09-23"
+original_published_date: "2019-10-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-53653"
+entry_into_force_date: "2019-10-04"
+jci_1_3: "jci1.3:c:BWBR0042608&z=2025-04-01&g=2025-04-01"
+jci_1_0: "1.0:c:BWBR0042608&g=2025-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling model huisregels private instellingen voor de verpleging van ter beschikking gestelden"
+signed_date: "2019-09-23"
+entry_into_force: "2019-10-04"
 ---
-
 # Regeling van de Minister voor Rechtsbescherming van 23 september 2019, nr. 2699493, houdende vaststelling van de Regeling model huisregels private instellingen voor de verpleging van ter beschikking gestelden
 
 Gelet op [artikel 3.4 van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=3.4);
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -22,17 +48,17 @@ In deze regeling wordt verstaan onder:
 
 - b. **de Minister:** de Minister voor Rechtsbescherming.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het hoofd van de private instelling met een aanwijzing, bedoeld in [artikel 3.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=3.3) stelt in aanvulling op de bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040634) en de [Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765) gegeven regels, met inachtneming van het model opgenomen in de bijlage en de daarbij gegeven aanwijzingen huisregels voor zijn instelling vast.
 
 2. Het hoofd van de private instelling met een aanwijzing, bedoeld in [artikel 3.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=3.3) zendt de huisregels voor zijn instelling aan de Minister. Een wijziging van de huisregels zendt het hoofd van de instelling binnen een maand naar de Minister.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling wordt aangehaald als: Regeling model huisregels private instellingen voor de verpleging van ter beschikking gestelden.
 

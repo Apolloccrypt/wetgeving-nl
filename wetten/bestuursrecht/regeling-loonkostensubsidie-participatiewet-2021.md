@@ -1,13 +1,39 @@
 ---
-title: "Regeling loonkostensubsidie Participatiewet 2021"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 18 februari 2021, nr. 2021-0000027549, tot het stellen van nadere regels met betrekking tot de het bepalen van de loonwaarde alsmede de vaststelling van de vergoeding voor de werkgeverslasten in het kader van de loonkostensubsidie (Regeling loonkostensubsidie Participatiewet 2021)"
 identifier: "BWBR0044901"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044901"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044901"
+soort: "ministeriele-regeling"
+stam_id: "15876813"
+version_id: "27589532"
+internal_id: "C38917351"
+label_id: "15810554"
+dtd_version: "2.0"
+original_entry_into_force: "2021-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044901/2025-01-01/0"
+intitule_bron: "Stcrt.2021-9937"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-02-18"
+intitule_published: "2021-03-08"
+intitule_in_force: "2021-03-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-9937"
+original_signed_date: "2021-02-18"
+original_published_date: "2021-03-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-9937"
+entry_into_force_date: "2021-07-01"
+jci_1_3: "jci1.3:c:BWBR0044901&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0044901&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling loonkostensubsidie Participatiewet 2021"
+signed_date: "2021-02-18"
+entry_into_force: "2021-07-01"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 18 februari 2021, nr. 2021-0000027549, tot het stellen van nadere regels met betrekking tot de het bepalen van de loonwaarde alsmede de vaststelling van de vergoeding voor de werkgeverslasten in het kader van de loonkostensubsidie (Regeling loonkostensubsidie Participatiewet 2021)
 
 Gelet op [artikel 10d, vierde lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10d) en de [artikelen 3, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0044894&artikel=3), [4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044894&artikel=4), en [6 van het Besluit loonkostensubsidie Participatiewet 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044894&artikel=6);
@@ -16,17 +42,17 @@ Besluit:
 
 #### § 1. Hoogte vergoeding van werkgeverslasten
 
-#### Artikel 1. Vergoeding van werkgeverslasten
+##### Artikel 1. Vergoeding van werkgeverslasten
 
 De vergoeding voor werkgeverslasten, bedoeld in [artikel 10d, vierde en vijfde lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10d), bedraagt 25 procent van de loonkosten waarover loonkostensubsidie wordt verstrekt.
 
 #### § 2. Regels met betrekking tot de loonwaarde
 
-#### Artikel 2. Schriftelijke rapportage loonwaarde
+##### Artikel 2. Schriftelijke rapportage loonwaarde
 
 De loonwaarde wordt vastgelegd overeenkomstig het model opgenomen in de bijlage bij deze regeling.
 
-#### Artikel 3. Minimale kwalificaties loonwaardedeskundige
+##### Artikel 3. Minimale kwalificaties loonwaardedeskundige
 
 1. De loonwaardedeskundige:
 
@@ -42,15 +68,15 @@ De loonwaarde wordt vastgelegd overeenkomstig het model opgenomen in de bijlage 
 
 #### § 3. Slotbepalingen
 
-#### Artikel 4. Intrekken [Regeling loonkostensubsidie Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0035633)
+##### Artikel 4. Intrekken [Regeling loonkostensubsidie Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0035633)
 
 De [Regeling loonkostensubsidie Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0035633) wordt ingetrokken.
 
-#### Artikel 5. Citeertitel
+##### Artikel 5. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling loonkostensubsidie Participatiewet 2021.
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Deze regeling treedt in werking op 1 juli 2021.
 

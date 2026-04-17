@@ -1,13 +1,38 @@
 ---
 title: "Mandaatbesluit regelgevende bevoegdheden defensie"
 identifier: "BWBR0045091"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-07-01
-laatste_update: 2021-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045091"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-07-01"
+last_updated: "2021-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045091"
+soort: "ministeriele-regeling"
+stam_id: "15942493"
+version_id: "27852992"
+internal_id: "C39285691"
+label_id: "15876944"
+dtd_version: "2.0"
+original_entry_into_force: "2021-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045091/2021-07-01/0"
+intitule_bron: "Stcrt.2021-22000"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-09-24"
+intitule_published: "2021-05-03"
+intitule_in_force: "2021-05-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-33045"
+original_signed_date: "2021-06-01"
+original_published_date: "2021-06-30"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2021-33045"
+entry_into_force_date: "2021-06-01"
+jci_1_3: "jci1.3:c:BWBR0045091&z=2021-07-01&g=2021-07-01"
+jci_1_0: "1.0:c:BWBR0045091&g=2021-07-01"
+citeertitel_status: "officieel"
+signed_date: "2021-06-01"
+entry_into_force: "2021-06-01"
 ---
-
 # Mandaatbesluit regelgevende bevoegdheden defensie
 
 Gelet op:
@@ -34,7 +59,7 @@ Gelet op:
 
 Besluit:
 
-#### Artikel 1. Regelgevende bevoegdheid
+##### Artikel 1. Regelgevende bevoegdheid
 
 Aan de Hoofddirecteur Personeel van het Directoraat-Generaal Beleid wordt mandaat verleend om namens de Minister van Defensie ministeriële regelingen vast te stellen als bedoeld in:
 
@@ -56,11 +81,11 @@ Aan de Hoofddirecteur Personeel van het Directoraat-Generaal Beleid wordt mandaa
 
 - –. [artikel 7, eerste lid, van het Besluit procedure geneeskundig onderzoek verzetsmilitairen en ondergedoken militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0003262&artikel=7).
 
-#### Artikel 2. Plaatsvervanging
+##### Artikel 2. Plaatsvervanging
 
 Bij afwezigheid of verhindering van de Hoofddirecteur Personeel treedt diens plaatsvervanger voor de duur van de afwezigheid of verhindering in diens plaats.
 
-#### Artikel 3. Ondertekening
+##### Artikel 3. Ondertekening
 
 De gemandateerde is gehouden in de ondertekening van stukken die op basis van mandaat worden ondertekend, het mandaat tot uitdrukking te laten komen door opneming van de volgende formule:
 
@@ -74,15 +99,15 @@ Handtekening van de betrokken gemandateerde
 
 Naam van de gemandateerde
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 april 1998.
 
-#### Artikel 5. Citeertitel
+##### Artikel 5. Citeertitel
 
 Dit besluit wordt aangehaald als: Mandaatbesluit regelgevende bevoegdheden defensie.
 
-#### Artikel 4a. Grondslag
+##### Artikel 4a. Grondslag
 
 Dit besluit berust vanaf 1 maart 2012 op de volgende bepalingen:
 

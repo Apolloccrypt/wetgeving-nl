@@ -1,20 +1,45 @@
 ---
 title: "Aanwijzingsbesluit elektronische kanalen Ministerie van JenV"
 identifier: "BWBR0052270"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-02-06
-laatste_update: 2026-02-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052270"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-02-06"
+last_updated: "2026-02-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052270"
+soort: "ministeriele-regeling"
+stam_id: "17754463"
+version_id: "31369452"
+internal_id: "C44827311"
+label_id: "17652704"
+dtd_version: "2.0"
+original_entry_into_force: "2026-02-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052270/2026-02-06/0"
+intitule_bron: "Stcrt.2026-3052"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-01-28"
+intitule_published: "2026-02-05"
+intitule_in_force: "2026-02-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-3052"
+original_signed_date: "2026-01-28"
+original_published_date: "2026-02-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-3052"
+entry_into_force_date: "2026-02-06"
+jci_1_3: "jci1.3:c:BWBR0052270&z=2026-02-06&g=2026-02-06"
+jci_1_0: "1.0:c:BWBR0052270&g=2026-02-06"
+citeertitel_status: "officieel"
+signed_date: "2026-01-28"
+entry_into_force: "2026-02-06"
 ---
-
 # Aanwijzingsbesluit elektronische kanalen Ministerie van JenV
 
 Gelet op [artikel 2:13, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:13),
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -22,15 +47,15 @@ In dit besluit wordt verstaan onder:
 
 - b. **kanaal:** een aangewezen wijze van elektronisch verzenden van berichten als bedoeld in [artikel 2:13, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:13).
 
-#### Artikel 2. Aanwijzing elektronische kanalen per proces
+##### Artikel 2. Aanwijzing elektronische kanalen per proces
 
 De Minister van Justitie en Veiligheid wijst voor ieder afzonderlijk proces en de daarbijhorende berichten processpecifieke kanalen aan, zoals vermeld in [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052270&bijlage=1&z=2026-02-06&g=2026-02-06) bij dit besluit. Elk toegewezen kanaal heeft slechts betrekking op de daarbij genoemde kernomschrijving.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Dit aanwijzingsbesluit treedt in werking een dag na bekendmaking.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Dit besluit wordt aangehaald als: Aanwijzingsbesluit elektronische kanalen Ministerie van JenV.
 

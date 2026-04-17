@@ -1,20 +1,46 @@
 ---
-title: "Mandaatbesluit SG-cluster Ministerie van Justitie en Veiligheid 2022"
+title: "Besluit van de plaatsvervangend secretaris-generaal van 14 juni 2023 (kenmerk 4657751/23/DP&O), verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de plaatsvervangend secretaris-generaal ressorterende ambtenaren (Mandaatbesluit SG-cluster Ministerie van Justitie en Veiligheid 2022)"
 identifier: "BWBR0048311"
-categorie: "Strafrecht"
-publicatiedatum: 2024-02-27
-laatste_update: 2024-02-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048311"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-02-27"
+last_updated: "2024-02-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048311"
+soort: "ministeriele-regeling"
+stam_id: "16779783"
+version_id: "29471012"
+internal_id: "C42144301"
+label_id: "16694994"
+dtd_version: "2.0"
+original_entry_into_force: "2023-06-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048311/2024-02-27/0"
+intitule_bron: "Stcrt.2023-17905"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-06-14"
+intitule_published: "2023-06-26"
+intitule_in_force: "2023-06-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-17905"
+original_signed_date: "2023-06-14"
+original_published_date: "2023-06-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-17905"
+entry_into_force_date: "2023-06-27"
+jci_1_3: "jci1.3:c:BWBR0048311&z=2024-02-27&g=2024-02-27"
+jci_1_0: "1.0:c:BWBR0048311&g=2024-02-27"
+citeertitel_status: "officieel"
+short_title: "Mandaatbesluit SG-cluster Ministerie van Justitie en Veiligheid 2022"
+signed_date: "2023-06-14"
+entry_into_force: "2023-06-27"
 ---
-
 # Besluit van de plaatsvervangend secretaris-generaal van 14 juni 2023 (kenmerk 4657751/23/DP&O), verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de plaatsvervangend secretaris-generaal ressorterende ambtenaren (Mandaatbesluit SG-cluster Ministerie van Justitie en Veiligheid 2022)
 
 gelet op [artikel 3 van het Mandaatbesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=3), [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041688&artikel=1) en [2a van het Mandaatbesluit hoofden clusters Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041688&artikel=2a), paragraaf 1.3 van de CAO Rijk en [artikel 3.3 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.3);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Van het ingevolge [artikel 1 van het Mandaatbesluit hoofden clusters Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041688&artikel=1) aan de plaatsvervangend secretaris-generaal verleende ondermandaat, wordt ten aanzien van de aangelegenheden die hun dienstonderdeel betreffen ondermandaat verleend aan:
 
@@ -40,27 +66,27 @@ Besluit:
 
 3. Van het ingevolge [artikel 1 van het Mandaatbesluit hoofden clusters Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041688&artikel=1) aan de plaatsvervangend secretaris-generaal verleende ondermandaat wordt ondermandaat gegeven aan de directeur Wetgeving en Juridische Zaken inzake besluiten en klachtenprocedures op grond van de Algemene verordening gegevensbescherming, verzoeken op grond van de [Wet hergebruik van overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795), klachten, subsidiebesluiten, beleidsregels en Nationale ombudsmanprocedures.
 
-#### Artikel 2
+##### Artikel 2
 
 Tot het verlenen van volmacht om op te treden als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hen ressorterende functionarissen, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048311&bijlage=1&z=2024-02-27&g=2024-02-27) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
 
-#### Artikel 3
+##### Artikel 3
 
 Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048311&bijlage=2&z=2024-02-27&g=2024-02-27) bij deze regeling voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
 
-#### Artikel 4
+##### Artikel 4
 
 Aan de plaatsvervangend secretaris-generaal blijft voorbehouden de bevoegdheid om beslissingen te nemen inzake het aangaan van arbeidsovereenkomsten, bevordering en ontslag van alsmede treffen van disciplinaire maatregelen met of jegens functionarissen op managementfuncties van schaal 14 en hoger direct onder het niveau van het hoofd van de directie of bureau.
 
-#### Artikel 5
+##### Artikel 5
 
 De [Mandaatregeling pSG-cluster Ministerie van Veiligheid en Justitie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034027) wordt ingetrokken.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 31 maart 2022.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Mandaatbesluit SG-cluster Ministerie van Justitie en Veiligheid 2022.
 

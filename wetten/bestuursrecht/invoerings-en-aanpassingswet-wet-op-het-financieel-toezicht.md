@@ -1,14 +1,41 @@
 ---
-title: "Invoerings- en aanpassingswet Wet op het financieel toezicht"
+title: "Wet van 20 november 2006, houdende invoering van de Wet op het financieel toezicht en aanpassing van overige wetten aan die wet (Invoerings- en aanpassingswet Wet op het financieel toezicht)"
 identifier: "BWBR0020616"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-07-21
-laatste_update: 2019-07-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020616"
+country: "nl"
+rank: "wet"
+publication_date: "2019-07-21"
+last_updated: "2019-07-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020616"
+soort: "wet"
+stam_id: "8759663"
+version_id: "13853032"
+internal_id: "C18897511"
+label_id: "8741874"
+dtd_version: "2.0"
+original_entry_into_force: "2007-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020616/2019-07-21/0"
+intitule_bron: "Stb.2006-605"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-11-20"
+intitule_published: "2006-12-07"
+intitule_in_force: "2006-12-20"
+intitule_status: "goed"
+original_publication: "Stb.2006-605"
+original_signed_date: "2006-11-20"
+original_published_date: "2006-12-07"
+original_effect: "nieuwe-regeling"
+original_dossier: "30658"
+original_url_id: "stb-2006-605"
+entry_into_force_date: "2007-01-01"
+jci_1_3: "jci1.3:c:BWBR0020616&z=2019-07-21&g=2019-07-21"
+jci_1_0: "1.0:c:BWBR0020616&g=2019-07-21"
+citeertitel_status: "officieel"
+short_title: "Invoerings- en aanpassingswet Wet op het financieel toezicht"
+signed_date: "2006-11-20"
+entry_into_force: "2007-01-01"
 ---
-
-# Invoerings- en aanpassingswet Wet op het financieel toezicht
+# Wet van 20 november 2006, houdende invoering van de Wet op het financieel toezicht en aanpassing van overige wetten aan die wet (Invoerings- en aanpassingswet Wet op het financieel toezicht)
 
 ### Hoofdstuk 1. Overgangsmaatregelen
 
@@ -28,7 +55,7 @@ bron: "https://wetten.overheid.nl/BWBR0020616"
 
 #### § 2.2. Register
 
-#### Artikel 31
+##### Artikel 31
 
 1. Het is een financiële dienstverlener als bedoeld in [artikel 102, eerste lid, van de Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329&artikel=102), alsmede een financiële dienstverlener die financiële diensten verleent ten aanzien van betaalrekeningen of beleggingsobjecten, bemiddelt in spaarrekeningen of optreedt als herverzekeringsbemiddelaar, die overeenkomstig [artikel 102, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018329&artikel=102) onderscheidenlijk [artikel 20, eerste lid, van de Vrijstellingsregeling Wfd](https://wetten.overheid.nl/jci1.3:c:BWBR0019322&artikel=20) een vergunning of ontheffing heeft aangevraagd, op welke aanvraag op het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) nog niet is beslist, toegestaan zonder vergunning of ontheffing zijn werkzaamheden voort te zetten totdat de Autoriteit Financiële Markten op die aanvraag heeft beslist.
 
@@ -42,7 +69,7 @@ bron: "https://wetten.overheid.nl/BWBR0020616"
 
 6. Het bij en krachtens het Deel Gedragstoezicht financiële ondernemingen van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) bepaalde is van overeenkomstige toepassing op financiëledienstverleners die op grond van het eerste lid hun werkzaamheden mogen voortzetten en op financiëledienstverleners die op grond van het vijfde lid hun bedrijf mogen afwikkelen.
 
-#### Artikel 32
+##### Artikel 32
 
 [Artikel 4:30a, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:30a) is niet van toepassing op aanbieders van beleggingsobjecten, voorzover zij overeenkomsten inzake beleggingsobjecten die voor 1 januari 2006 zijn aangegaan, beheren of uitvoeren of daarbij assisteren.
 
@@ -72,21 +99,21 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Overgangsmaatregelen
 
-#### Artikel 1
+##### Artikel 1
 
 [Artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) is van overeenkomstige toepassing op dit hoofdstuk.
 
 ### Afdeling 2. Algemene bepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 De kosten van werkzaamheden die de toezichthouder op grond van [artikel 1:40 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:40) in rekening brengt, kunnen mede betrekking hebben op de werkzaamheden die hij heeft verricht in verband met de uitvoering van zijn taak op grond van de [Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329), de [Wet melding zeggenschap en kapitaalbelang in effectenuitgevende instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020052), de [Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809), de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657), de [Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792), de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477) en de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509). Onder toepassing van de bedragen die direct voorafgaande aan het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) golden op grond van de in de vorige volzin bedoelde wetten, brengt de toezichthouder de hier bedoelde kosten in rekening bij de ondernemingen ten aanzien waarvan die werkzaamheden zijn verricht, voorzover deze kosten niet ten laste komen van de Rijksbegroting.
 
-#### Artikel 3
+##### Artikel 3
 
 De tweede volzin van [artikel 1:40, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:40) is van overeenkomstige toepassing op de kosten die ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020616&hoofdstuk=1&afdeling=2&paragraaf=2.1&artikel=2&z=2019-07-21&g=2019-07-21) in rekening worden gebracht.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) vormen de registers, bedoeld in de [artikelen 23, eerste lid, van de Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329&artikel=23), 179 van de [Wet melding zeggenschap en kapitaalbelang in effectenuitgevende instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020052), [18, eerste lid, van de Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=18), [20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=20a), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=21), [47, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=47), en [47b, eerste lid, van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=47b), en [52, eerste lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=52), en de lijsten, bedoeld in de [artikelen 4, eerste lid, van de Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477&artikel=4) en [9, eerste lid, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=9), gezamenlijk het register, bedoeld in [artikel 1:107, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:107).
 
@@ -96,41 +123,41 @@ De tweede volzin van [artikel 1:40, eerste lid, van de Wet op het financieel toe
 
 #### § 2.3. Toezicht en handhaving
 
-#### Artikel 5
+##### Artikel 5
 
 Vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) zijn met het toezicht op de naleving van de regels, gesteld bij en krachtens de [Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329), de [Wet melding zeggenschap en kapitaalbelang in effectenuitgevende instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020052), de [Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809), de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657), de [Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792), de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477) of de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509), belast de personen die ingevolge [artikel 1:72 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:72) zijn belast met het toezicht op de naleving van overeenkomstige regels bij of krachtens [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
-#### Artikel 6
+##### Artikel 6
 
 Een last onder dwangsom of een bestuurlijke boete die is opgelegd terzake van overtreding van een voorschrift, gesteld bij of krachtens de [Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329), de [Wet melding zeggenschap en kapitaalbelang in effectenuitgevende instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020052), de [Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809), de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657), de [Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792), de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477) of de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509), wordt vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) aangemerkt als een last onder dwangsom of een bestuurlijke boete als bedoeld in [artikel 1:79](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:79) onderscheidenlijk [1:80 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:80).
 
-#### Artikel 7
+##### Artikel 7
 
 1. De toezichthouder kan na inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) tot drie jaren na de dag waarop de overtreding is begaan een bestuurlijke boete opleggen terzake van overtreding van een voorschrift gesteld bij of krachtens de [Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329), de [Wet melding zeggenschap en kapitaalbelang in effectenuitgevende instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020052), de [Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809), de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657), de [Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792), de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477) of de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509).
 
 2. Op het opleggen van een bestuurlijke boete als bedoeld in het eerste lid blijft het recht van toepassing dat gold voor het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
-#### Artikel 8
+##### Artikel 8
 
 1. De toezichthouder kan een besluit tot het opleggen van een last onder dwangsom of een bestuurlijke boete terzake van overtreding van een voorschrift gesteld bij of krachtens de [Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329), de [Wet melding zeggenschap en kapitaalbelang in effectenuitgevende instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020052), de [Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809), de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657), de [Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792), de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477) of de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509), na bekendmaking openbaar maken.
 
 2. Op de openbaarmaking, bedoeld in het eerste lid, blijft het recht van toepassing dat gold voor het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
-#### Artikel 9
+##### Artikel 9
 
 Een aanwijzing die is gegeven terzake van overtreding van een voorschrift gesteld bij of krachtens de [Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329), de [Wet melding zeggenschap en kapitaalbelang in effectenuitgevende instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020052), de [Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809), de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657), de [Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792), de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477) of de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509), wordt vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) aangemerkt als een aanwijzing als bedoeld in [artikel 1:75 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:75).
 
-#### Artikel 10
+##### Artikel 10
 
 1. De toezichthouder kan na het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) een aanwijzing geven terzake van overtreding van een voorschrift gesteld bij of krachtens de [Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329), de [Wet melding zeggenschap en kapitaalbelang in effectenuitgevende instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020052), de [Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809), de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657), de [Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792), de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477) of de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509).
 
 2. Op de aanwijzing, bedoeld in het eerste lid, blijft het recht van toepassing dat gold voor het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
-#### Artikel 11
+##### Artikel 11
 
 Een besluit op grond van de [Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329), de [Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809), de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657), de [Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792), de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477) of de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509) tot aanzegging dat vanaf een bepaald tijdstip alle of bepaalde organen of vertegenwoordigers van een financiële onderneming hun bevoegdheden slechts mogen uitoefenen na goedkeuring van een of meer door de toezichthouder aangewezen personen en met inachtneming van de opdrachten van deze personen, wordt vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) aangemerkt als een besluit als bedoeld in [artikel 1:76 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:76).
 
-#### Artikel 12
+##### Artikel 12
 
 1. De toezichthouder kan vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) een besluit nemen als bedoeld in [artikel 1:76, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:76) indien door een financiële onderneming niet of niet volledig binnen de gestelde termijn gevolg is gegeven aan een aanwijzing op grond van de [Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329), de [Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809), de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657), de [Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792), de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477) of de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509).
 
@@ -138,53 +165,53 @@ Een besluit op grond van de [Wet financiële dienstverlening](https://wetten.ove
 
 #### § 2.4. Geheimhoudingsplicht en publicatiemogelijkheden
 
-#### Artikel 13
+##### Artikel 13
 
 Vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) is [afdeling 1.5.1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&afdeling=1.5.1) van overeenkomstige toepassing op gegevens en inlichtingen die zijn verstrekt of verkregen ingevolge de [Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329), de [Wet melding zeggenschap en kapitaalbelang in effectenuitgevende instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020052), de [Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809), de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657), de [Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792), de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477) of de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509).
 
-#### Artikel 14
+##### Artikel 14
 
 De toezichthouder kan vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) een openbare waarschuwing uitvaardigen, indien nodig onder vermelding van de overwegingen die tot die waarschuwing hebben geleid, terzake van de feiten, bedoeld in de [artikelen 85 van de Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329&artikel=85), [33n van de Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=33n), [48n van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=48n), [90n van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=90n), [93n van de Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477&artikel=93n) en [188n van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=188n), voorzover deze feiten tevens een overtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) opleveren.
 
 #### § 2.5. Bijzondere maatregelen
 
-#### Artikel 15
+##### Artikel 15
 
 Op een voor het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) afgegeven verklaring door een rechtbank, inhoudende de instelling van de noodregeling, bedoeld in [hoofdstuk X van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&hoofdstuk=X), [hoofdstuk 8 van de Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477&hoofdstuk=8) of [hoofdstuk IX van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&hoofdstuk=IX), blijft het voor dat tijdstip geldende recht van toepassing.
 
-#### Artikel 16
+##### Artikel 16
 
 Op de afhandeling van een noodregeling of een faillietverklaring van een kredietinstelling of verzekeraar die is vastgesteld onderscheidenlijk uitgesproken voor het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368), blijft het op het tijdstip van de vaststelling van de noodregeling onderscheidenlijk het uitspreken van de faillietverklaring geldende recht van toepassing.
 
-#### Artikel 17
+##### Artikel 17
 
 Een levensverzekeraar, natura-uitvaartverzekeraar of schadeverzekeraar die op het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) ingevolge de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477), [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509) of de Wet toezicht verzekeringsbedrijf verplicht is tot afwikkeling van zijn bedrijf of het betrokken gedeelte daarvan is gedurende de afwikkeling onderworpen aan de bepalingen van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
 #### § 2.6. Toetsing van betrouwbaarheid en deskundigheid
 
-#### Artikel 18
+##### Artikel 18
 
 Indien de toezichthouder de betrouwbaarheid heeft vastgesteld van een persoon die het dagelijks beleid van een financiële onderneming bepaalt of mede bepaalt of van een persoon die onderdeel is van een orgaan dat is belast met het toezicht op het beleid en de algemene gang van zaken van een financiële onderneming voor de toepassing van de [Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329), de [Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809), de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657), de [Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792), de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477) of de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509), wordt vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) de betrouwbaarheid van die persoon geacht buiten twijfel te staan voor de toepassing van [laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
-#### Artikel 19
+##### Artikel 19
 
 Indien de deskundigheid van een persoon die het dagelijks beleid van een financiële onderneming bepaalt of van een persoon die onderdeel uitmaakt van een orgaan dat is belast met het toezicht op het beleid en de algemene gang van zaken binnen een financiële onderneming als voldoende is aangemerkt voor de toepassing van de [Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329), de [Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809), de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657), de [Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792), de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477) of de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509), wordt vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) die persoon geacht deskundig te zijn in de zin van overeenkomstige bepalingen in [laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
 #### § 2.7. Beleggerscompensatie- en depositogarantiestelsel
 
-#### Artikel 20
+##### Artikel 20
 
 Indien voor het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) de betalingsonmacht van een financiële onderneming is vastgesteld ingevolge het op grond van het op 21 september 1998 en 23 mei 2003 door de Nederlandsche Bank en een aantal representatieve organisaties overeengekomen beleggerscompensatiestelsel, algemeen verbindend verklaard bij [koninklijk besluit van 29 januari 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016342), of op grond van de Collectieve Garantieregeling van kredietinstellingen voor Terugbetaalbare Gelden en Beleggingen van 17 september 1998, algemeen verbindend verklaard bij koninklijk besluit van 29 januari 2004, blijft op de afwikkeling van vorderingen op die financiële onderneming dat stelsel, onderscheidenlijk die regeling, van toepassing.
 
 #### § 2.8. Bevoegde rechter
 
-#### Artikel 21
+##### Artikel 21
 
 Ten aanzien van beroepen tegen besluiten genomen op grond van de [Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329), de [Wet melding zeggenschap en kapitaalbelang in effectenuitgevende instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020052), de [Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809), de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657), de [Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792), de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477) en de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509) is vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368)[artikel 1:110 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:110) van overeenkomstige toepassing.
 
 #### § 2.9. Voorschriften en beperkingen
 
-#### Artikel 22
+##### Artikel 22
 
 Voorschriften die zijn verbonden en beperkingen die zijn gesteld aan een vergunning of een ontheffing die is verleend op grond van de [Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329), de [Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809), de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657), de [Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792), de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477) of de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509) berusten vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 1:102, tweede lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:102).
 
@@ -192,7 +219,7 @@ Voorschriften die zijn verbonden en beperkingen die zijn gesteld aan een vergunn
 
 #### § 3.1. Vergunningen
 
-#### Artikel 23
+##### Artikel 23
 
 1. Een vergunning die is verleend op grond van [artikel 11 van de Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329&artikel=11) voor het aanbieden van een beleggingsobject of het aanbieden van een financieel product als bedoeld in [artikel 1, onderdeel m, onder 8°, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018329&artikel=1), berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 2:58, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:58).
 
@@ -208,7 +235,7 @@ Voorschriften die zijn verbonden en beperkingen die zijn gesteld aan een vergunn
 
 7. Een vergunning die is verleend op grond van [artikel 16, eerste lid, van de Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329&artikel=16) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 2:105, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:105).
 
-#### Artikel 24
+##### Artikel 24
 
 1. Personen als bedoeld in [artikel 22, eerste lid, van de Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329&artikel=22) worden vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) geacht te beschikken over een vergunning als bedoeld in [artikel 2:80, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:80), voor het afwikkelen van de in het [eerstgenoemde artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0018329&artikel=22) bedoelde overeenkomsten.
 
@@ -216,7 +243,7 @@ Voorschriften die zijn verbonden en beperkingen die zijn gesteld aan een vergunn
 
 #### § 3.2. Ontheffingen
 
-#### Artikel 25
+##### Artikel 25
 
 1. Een ontheffing van het verbod op het aanbieden van een beleggingsobject of een financieel product als bedoeld in [artikel 1, onderdeel m, onder 8°, van de Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329&artikel=1), die is verleend op grond van [artikel 18, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018329&artikel=18), berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 2:55, tweede lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:55).
 
@@ -232,7 +259,7 @@ Voorschriften die zijn verbonden en beperkingen die zijn gesteld aan een vergunn
 
 7. Een ontheffing die is verleend op grond van [artikel 22, tweede lid, van de Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329&artikel=22) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 2:80, derde lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:80).
 
-#### Artikel 26
+##### Artikel 26
 
 1. Een ontheffing van deskundigheidsvereisten als bedoeld in [artikel 27, tweede lid, van de Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329&artikel=27), die is verleend op grond van [artikel 18, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018329&artikel=18), berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 4:9, vijfde lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9).
 
@@ -248,23 +275,23 @@ Voorschriften die zijn verbonden en beperkingen die zijn gesteld aan een vergunn
 
 7. Een ontheffing van vereisten met betrekking tot de beroepsaansprakelijkheidsverzekering of een daarmee vergelijkbare voorziening van een bemiddelaar in verzekeringen of een herverzekeringsbemiddelaar als bedoeld in [artikel 29 van de Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329&artikel=29), die is verleend op grond van [artikel 18, eerste lid, van de Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329&artikel=18), berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 4:75, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:75), onderscheidenlijk [4:76, vijfde lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:76).
 
-#### Artikel 27
+##### Artikel 27
 
 Andere dan de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0020616&hoofdstuk=1&afdeling=3&paragraaf=3.2&artikel=26&z=2019-07-21&g=2019-07-21) bedoelde ontheffingen die zijn verleend op grond van de [Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329) gelden vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) als ontheffingen van corresponderende vereisten in [laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) voor een periode van ten hoogste een jaar.
 
 #### § 3.3. Verbod
 
-#### Artikel 28
+##### Artikel 28
 
 Een verbod dat aan een financiële dienstverlener is opgelegd op grond van [artikel 21, eerste lid, van de Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329&artikel=21) wordt vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) aangemerkt als een verbod als bedoeld in [artikel 4:4, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:4).
 
 #### § 3.4. Notificatie
 
-#### Artikel 29
+##### Artikel 29
 
 Een mededeling die is gedaan op grond van [artikel 25, eerste lid, van de Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329&artikel=25) door een financiële onderneming met zetel in Nederland die vanuit een in een andere lidstaat gelegen bijkantoor of door middel van het verrichten van diensten naar een andere lidstaat bemiddelt in verzekeringen onderscheidenlijk herverzekeringsbemiddelt, berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 2:125, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:125), onderscheidenlijk [artikel 2:126, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:126).
 
-#### Artikel 30
+##### Artikel 30
 
 Het is een financiële onderneming met zetel in een andere lidstaat, die op het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) vanuit een in Nederland gelegen bijkantoor of door middel van het verrichten van diensten naar Nederland bemiddelt in verzekeringen onderscheidenlijk herverzekeringsbemiddelt, toegestaan gedurende zes maanden vanaf het tijdstip van inwerkingtreding van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) zonder mededeling als bedoeld in [artikel 2:84, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:84), onderscheidenlijk [2:90, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:90), haar werkzaamheden voort te zetten.
 
@@ -274,7 +301,7 @@ Het is een financiële onderneming met zetel in een andere lidstaat, die op het 
 
 #### § 4.1. Vergunningen
 
-#### Artikel 33
+##### Artikel 33
 
 1. Een vergunning die is verleend op grond van [artikel 5, eerste lid, van de Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=5) aan een beheerder van een beleggingsinstelling, anders dan bedoeld in [artikel 6 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=6), berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 2:67 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:67).
 
@@ -282,21 +309,21 @@ Het is een financiële onderneming met zetel in een andere lidstaat, die op het 
 
 3. Een vergunning die is verleend op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020616&hoofdstuk=1&afdeling=2&paragraaf=2.3&artikel=5&z=2019-07-21&g=2019-07-21) ten behoeve van een beleggingsmaatschappij of beheerder als bedoeld in [artikel 6 van de Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=6), berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 2:69 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:69) en wordt geacht te zijn verleend aan de beheerder van die beleggingsmaatschappij.
 
-#### Artikel 34
+##### Artikel 34
 
 Een beleggingsinstelling die op 1 september 2005 beschikte over een vergunning als bedoeld in [artikel 4 van de Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=4) zoals [dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=4) luidde direct voorafgaand aan dat tijdstip, kan haar werkzaamheden overeenkomstig de bestaande vergunning voortzetten, indien de beheerder van die beleggingsinstelling voor 2 maart 2006 een verzoek heeft ingediend om een vergunning als bedoeld in [artikel 4 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=4) zoals [dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=4) luidde direct voorafgaand aan dat tijdstip, tot het moment dat onherroepelijk op het verzoek is beslist. De vergunning en de daaraan verbonden voorschriften en gestelde beperkingen worden beheerst door de [Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809) zoals deze luidde direct voorafgaand aan 1 september 2005.
 
-#### Artikel 35
+##### Artikel 35
 
 De in de [artikelen 2:67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:67), [2:68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:68) en [2:69, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:69) bedoelde beheerders en beleggingsmaatschappijen waaraan vóór 1 september 2005 een vergunning als bedoeld in [artikel 4 van de Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=4) is verleend, kunnen op basis van die vergunning hun werkzaamheden voortzetten tot 14 februari 2007. Een vóór 1 september 2005 verleende vergunning en de aan die vergunning verbonden voorwaarden worden, tot het moment dat de vergunning is verleend op grond van [artikel 2:68 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:68), beheerst door de [Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809) zoals deze luidde direct voorafgaand aan 1 september 2005, met dien verstande dat met betrekking tot informatieverstrekking [artikel 4:61 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:61) van toepassing is.
 
 #### § 4.2. Ontheffingen
 
-#### Artikel 36
+##### Artikel 36
 
 Een ontheffing die is verleend op grond van [artikel 14a, eerste lid, van de Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=14a) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 2:65, derde lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:65).
 
-#### Artikel 37
+##### Artikel 37
 
 1. Een ontheffing van vereisten met betrekking tot bepaalde financiële waarborgen als bedoeld in [artikel 12, eerste lid, onderdeel b, van de Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=12), die is verleend op grond van [artikel 12, vierde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=12) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 3:57, zesde lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57).
 
@@ -308,33 +335,33 @@ Een ontheffing die is verleend op grond van [artikel 14a, eerste lid, van de Wet
 
 5. Een ontheffing van vereisten met betrekking tot de aan het publiek te verstrekken informatie als bedoeld in [artikel 12, eerste lid, onderdeel d, van de Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=12), die is verleend op grond van [artikel 12, vierde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=12) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 4:52, vierde lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:52).
 
-#### Artikel 38
+##### Artikel 38
 
 Andere dan de in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0020616&hoofdstuk=1&afdeling=4&paragraaf=4.2&artikel=37&z=2019-07-21&g=2019-07-21) bedoelde ontheffingen die zijn verleend op grond van de [Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809) gelden vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) als ontheffingen van corresponderende vereisten in [laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) voor een periode van ten hoogste een jaar.
 
 #### § 4.3. Verklaring van geen bezwaar
 
-#### Artikel 39
+##### Artikel 39
 
 Een verklaring van geen bezwaar die is verleend op grond van [artikel 12, tiende lid, van de Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=12) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 3:100 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:100).
 
 #### § 4.4. Notificatie
 
-#### Artikel 40
+##### Artikel 40
 
 Een mededeling die is gedaan op grond van [artikel 17a, eerste lid, van de Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=17a) door een beheerder van een instelling voor collectieve belegging in effecten met zetel in een andere lidstaat die voornemens is door middel van dienstverrichting of vanuit een bijkantoor rechten van deelneming in die instelling in Nederland aan te bieden, berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 2:72, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:72), onderscheidenlijk [artikel 2:70, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:70).
 
-#### Artikel 41
+##### Artikel 41
 
 Een mededeling die is gedaan op grond van [artikel 17c, tweede lid, van de Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=17c) door een beleggingsinstelling met zetel in een aangewezen staat als bedoeld in het [eerste lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=17c), berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 2:73, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:73).
 
 #### § 4.5. Overig
 
-#### Artikel 42
+##### Artikel 42
 
 Een verbod dat op grond van [artikel 17c, derde lid, van de Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=17c) is opgelegd, berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 4:4, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:4).
 
-#### Artikel 43
+##### Artikel 43
 
 Een beschikking die is gegeven op grond van [artikel 21a van de Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809&artikel=21a), berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 1:78, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:78).
 
@@ -342,13 +369,13 @@ Een beschikking die is gegeven op grond van [artikel 21a van de Wet toezicht bel
 
 #### § 5.1. Vergunningen
 
-#### Artikel 44
+##### Artikel 44
 
 1. Een vergunning die is verleend op grond van [artikel 7, vierde lid, van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=7) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 2:99 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:99), voorzover zij strekt tot het verlenen van beleggingsdiensten waarvoor een vergunning is vereist ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
 2. Een vergunning die is verleend op grond van [artikel 7, zesde lid, van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=7), berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 2:99 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:99). De houder van de vergunning wordt geacht te beschikken over een ontheffing als bedoeld in [artikel 2:99, vierde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:99) terzake van de vereisten waaraan de aanvrager niet kon voldoen.
 
-#### Artikel 45
+##### Artikel 45
 
 1. Een vergunning die is verleend op grond van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=6), of [10, tweede lid, van de Wet toezicht effectenverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=10) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 2:99 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:99).
 
@@ -358,15 +385,15 @@ Een beschikking die is gegeven op grond van [artikel 21a van de Wet toezicht bel
 
 #### § 5.2. Ontheffingen
 
-#### Artikel 46
+##### Artikel 46
 
 Vervallen
 
-#### Artikel 47
+##### Artikel 47
 
 Een ontheffing die is verleend op grond van [artikel 25, eerste lid, van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=25) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 5:27, tweede lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:27).
 
-#### Artikel 48
+##### Artikel 48
 
 1. Een ontheffing van vereisten met betrekking tot bepaalde financiële waarborgen als bedoeld in [artikel 11, eerste lid, onderdeel b, van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=11), die is verleend op grond van [artikel 11, vierde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=11) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 3:57, zesde lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57).
 
@@ -380,19 +407,19 @@ Een ontheffing die is verleend op grond van [artikel 25, eerste lid, van de Wet 
 
 6. Een ontheffing die is verleend op grond van [artikel 18b, eerste lid, van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=18b) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 5:68, derde lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:68).
 
-#### Artikel 49
+##### Artikel 49
 
 Andere dan de in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020616&hoofdstuk=1&afdeling=5&paragraaf=5.2&artikel=48&z=2019-07-21&g=2019-07-21) bedoelde ontheffingen die zijn verleend op grond van de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657) gelden vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) als ontheffingen van corresponderende vereisten in laatstgenoemde wet voor een periode van ten hoogste een jaar.
 
 #### § 5.3. Verklaring van geen bezwaar
 
-#### Artikel 50
+##### Artikel 50
 
 1. Een verklaring van geen bezwaar die is verleend op grond van [artikel 16, derde lid, van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=16) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 3:100 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:100).
 
 2. Een verklaring van geen bezwaar die is verleend op grond van [artikel 26a, tweede lid, van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=26A) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 5:32, tweede lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:32).
 
-#### Artikel 51
+##### Artikel 51
 
 1. Een verklaring van geen bezwaar als bedoeld in [artikel 16 van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=16) die vóór 15 september 2004 is verleend, wordt vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) geacht te zijn verleend voor een deelneming tot de eerstvolgende bovengrens van 20, 33, 50 of 100 procent, tenzij:
 
@@ -402,13 +429,13 @@ Andere dan de in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020616&ho
 
 2. Een verklaring van geen bezwaar als bedoeld in [artikel 16 van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=16) die vóór 15 september 2004 op grond van de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657) is verleend ten behoeve van alle groepsmaatschappijen van een groep gezamenlijk, wordt vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) geacht te zijn verleend op grond van [artikel 3:100 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:100).
 
-#### Artikel 52
+##### Artikel 52
 
 Indien voor het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op grond van [artikel 16 van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=16) een aanvraag voor een verklaring van geen bezwaar is ingediend waarop de Autoriteit Financiële Markten op dat tijdstip nog niet heeft beslist, wordt hierop door de Autoriteit Financiële Markten een beslissing genomen met inachtneming van de toepasselijke bepalingen van de [laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657).
 
 #### § 5.4. Notificatie
 
-#### Artikel 53
+##### Artikel 53
 
 1. Een mededeling die is gedaan op grond van [artikel 13, derde lid, van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=13) ten behoeve van een beleggingsonderneming met zetel in Nederland, wordt vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) aangemerkt als het besluit tot instemming, bedoeld in [artikel 2:127, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:127).
 
@@ -418,19 +445,19 @@ Indien voor het tijdstip van inwerkingtreding van de [Wet op het financieel toez
 
 #### § 5.5. Goedkeuring prospectus
 
-#### Artikel 54
+##### Artikel 54
 
 Vervallen
 
 #### § 5.6. Erkenning van een markt in financiële instrumenten
 
-#### Artikel 55
+##### Artikel 55
 
 Een erkenning op grond van [artikel 22, tweede lid, van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=22) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 5:26, tweede lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:26).
 
 #### § 5.7. Overig
 
-#### Artikel 56
+##### Artikel 56
 
 Een beschikking die is gegeven op grond van [artikel 28b van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=28b) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 1:78, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:78).
 
@@ -438,7 +465,7 @@ Een beschikking die is gegeven op grond van [artikel 28b van de Wet toezicht eff
 
 #### § 6.1. Vergunningen
 
-#### Artikel 57
+##### Artikel 57
 
 1. Een vergunning als bedoeld in [artikel 6, eerste lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=6) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 2:11, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:11), voorzover voor het uitoefenen van het bedrijf van de houder een vergunning is vereist op grond van [laatstgenoemd artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:11).
 
@@ -448,7 +475,7 @@ Een beschikking die is gegeven op grond van [artikel 28b van de Wet toezicht eff
 
 4. Een vergunning die is verleend op grond van [artikel 38, eerste lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=38) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 2:21, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:21).
 
-#### Artikel 58
+##### Artikel 58
 
 1. Een vergunning die is verleend op grond van [artikel 2 van de Wet toezicht kredietwezen](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=2) of op grond van [artikel 62 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=62) of [7 van de Postbankwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003842&artikel=7) wordt geacht te zijn verleend aan een bank met zetel in Nederland, berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 2:11, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:11), voorzover voor het uitoefenen van het bedrijf van de houder van die vergunning een vergunning is vereist.
 
@@ -456,13 +483,13 @@ Een beschikking die is gegeven op grond van [artikel 28b van de Wet toezicht eff
 
 3. Een bank als bedoeld in [artikel 112, derde lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=112) die een vergunning heeft op grond van [artikel 2 van de Wet toezicht kredietwezen](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=2) of op grond van [artikel 62 van de eerstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=62) wordt geacht een vergunning te hebben verkregen, en die op grond van [artikel 112, derde lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=112) wordt geacht te hebben voldaan aan het bepaalde, bedoeld in [artikel 31, eerste lid, onderdelen b en c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=31), wordt vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) geacht te beschikken over de mededeling, bedoeld in [artikel 2:15 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:15).
 
-#### Artikel 59
+##### Artikel 59
 
 Een financiële onderneming die op het tijdstip waarop [artikel 112a van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=112a) in werking trad, in Nederland het bedrijf van elektronischgeldinstelling uitoefende, wordt vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) geacht te beschikken over een vergunning als bedoeld in [2:11, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:11).
 
 #### § 6.2. Vrijstellingen
 
-#### Artikel 60
+##### Artikel 60
 
 1. Op degene op wie een vrijstelling van toepassing is als bedoeld in [artikel 3 van de Vrijstellingsregeling Wtk 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0013810&artikel=3) is vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) het bepaalde in [artikel 3:2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:2) van toepassing, voorzover diegene effecten als bedoeld in de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) aanbiedt aan het publiek of doet toelaten tot de handel op een gereglementeerde markt als bedoeld in de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
@@ -470,7 +497,7 @@ Een financiële onderneming die op het tijdstip waarop [artikel 112a van de Wet 
 
 #### § 6.3. Ontheffingen
 
-#### Artikel 61
+##### Artikel 61
 
 1. Een ontheffing die is verleend op grond van [artikel 38a, derde lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=38a) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 2:23, tweede lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:23).
 
@@ -480,19 +507,19 @@ Een financiële onderneming die op het tijdstip waarop [artikel 112a van de Wet 
 
 4. Een ontheffing die op grond van [artikel 6, derde lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=6) is verleend aan een onderneming of instelling als bedoeld in [artikel 3 van de Vrijstellingsregeling Wtk 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0013810&artikel=3) die niet voldeed aan de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0013810&artikel=3) bedoelde voorschriften berust, voor zover deze ontheffing betrekking heeft op die voorschriften, vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 3:2, derde lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:2).
 
-#### Artikel 62
+##### Artikel 62
 
 Een ontheffing die is verleend op grond van [artikel 83, vierde lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=83) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 3:7, vierde lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:7).
 
-#### Artikel 63
+##### Artikel 63
 
 Een ontheffing die is verleend op grond van [artikel 42 van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=42) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 3:5, vierde lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5).
 
-#### Artikel 64
+##### Artikel 64
 
 Een ontheffing die is verleend op grond van [artikel 31, vijfde lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=31) wordt vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) aangemerkt als de mededeling, bedoeld in [artikel 2:15, tweede lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:15).
 
-#### Artikel 65
+##### Artikel 65
 
 1. Een ontheffing die is verleend op grond van [artikel 10, vijfde lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=10) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 3:19, derde lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:19).
 
@@ -512,47 +539,47 @@ Een ontheffing die is verleend op grond van [artikel 31, vijfde lid, van de Wet 
 
 #### § 6.4. Notificatie
 
-#### Artikel 66
+##### Artikel 66
 
 Een kennisgeving die is gedaan op grond van [artikel 17, eerste lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=17) door een kredietinstelling met zetel in Nederland, berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 2:110, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:110).
 
-#### Artikel 67
+##### Artikel 67
 
 Een kennisgeving als bedoeld in [artikel 31, eerste lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=31) die is gedaan door een toezichthoudende instantie van een andere lidstaat, wordt vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) aangemerkt als de mededeling, bedoeld in [artikel 2:14, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:14).
 
-#### Artikel 68
+##### Artikel 68
 
 Een kennisgeving die is gedaan op grond van [artikel 32, eerste lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=32) door een bank met zetel in een andere lidstaat, berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 2:18, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:18).
 
-#### Artikel 69
+##### Artikel 69
 
 Een kennisgeving die is gedaan op grond van [artikel 32a van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=32a) door een elektronischgeldinstelling met zetel in een andere lidstaat, berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 2:19 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:19).
 
-#### Artikel 70
+##### Artikel 70
 
 Een mededeling die is gedaan op grond van [artikel 48, derde lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=48), wordt vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) aangemerkt als de instemming, bedoeld in [artikel 2:112, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:112).
 
-#### Artikel 71
+##### Artikel 71
 
 Een bank met zetel in een andere lidstaat die op het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) voor het ter beschikking verkrijgen van opvorderbare gelden door middel van het verrichten van diensten in Nederland op grond van [artikel 115 van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=115) wordt geacht te beschikken over een ontheffing als bedoeld in [artikel 82 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=82) en die van de toezichthoudende instantie in de andere lidstaat een voor de uitoefening van het bedrijf van bank benodigde vergunning heeft, wordt geacht te hebben voldaan aan [artikel 2:18, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:18).
 
-#### Artikel 72
+##### Artikel 72
 
 Een financiële onderneming met zetel in een andere lidstaat die op 1 juli 2002 in Nederland door middel van een bijkantoor dan wel het verrichten van diensten het bedrijf van elektronischgeldinstelling uitoefent, wordt vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) geacht te hebben voldaan aan [artikel 2:14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:14), onderscheidenlijk [2:19, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:19).
 
 #### § 6.5. Verklaring van geen bezwaar
 
-#### Artikel 73
+##### Artikel 73
 
 Een verklaring van geen bezwaar die is verleend op grond van [artikel 26, eerste lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=26) voor een handeling als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=23), of [24, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=24), berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 3:97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:97), [artikel 3:100](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:100), onderscheidenlijk [artikel 3:101 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:101).
 
-#### Artikel 74
+##### Artikel 74
 
 1. Een verklaring van geen bezwaar die is verleend op grond van [artikel 25 van de Wet toezicht kredietwezen](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=25) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 3:97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:97), of op [artikel 3:100 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:100), voorzover de handelingen waarvoor de verklaring van geen bezwaar is verleend overeenkomen met de in [artikel 3:95, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:95), bedoelde handelingen.
 
 2. Aan degene die reeds op 1 januari 1979 een gekwalificeerde deelneming hield waarvoor ingevolge de [artikelen 3:95, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:95), onderscheidenlijk [3:96, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:96) een verklaring van geen bezwaar is vereist, wordt geacht een verklaring van geen bezwaar te zijn verleend op grond van de [artikelen 3:97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:97), [3:100, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:100), onderscheidenlijk [3:101 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:101).
 
-#### Artikel 75
+##### Artikel 75
 
 Een verklaring van geen bezwaar als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=23) of [24 van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=24) die vóór 15 september 2004 is verleend, wordt vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) geacht te zijn verleend voor een deelneming tot de eerstvolgende bovengrens van 20, 33, 50 of 100 procent, tenzij:
 
@@ -562,19 +589,19 @@ Een verklaring van geen bezwaar als bedoeld in [artikel 23](https://wetten.overh
 
 #### § 6.6. Overig
 
-#### Artikel 76
+##### Artikel 76
 
 Een besluit dat is genomen op grond van [artikel 12 van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=12) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 3:111, tweede lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:111).
 
-#### Artikel 77
+##### Artikel 77
 
 Een beschikking die is gegeven op grond van [artikel 14a van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=14a), berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 1:78, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:78).
 
-#### Artikel 78
+##### Artikel 78
 
 Een verklaring van ondertoezichtstelling die is afgegeven op grond van [artikel 45, eerste lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=45) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 3:110, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:110).
 
-#### Artikel 79
+##### Artikel 79
 
 Een beschikking die is gegeven op grond van [artikel 55, derde lid, van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=55), berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 3:72, zesde lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:72).
 
@@ -582,17 +609,17 @@ Een beschikking die is gegeven op grond van [artikel 55, derde lid, van de Wet t
 
 #### § 7.1. Vergunning
 
-#### Artikel 80
+##### Artikel 80
 
 Een vergunning die is verleend op grond van [artikel 14 van de Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477&artikel=14) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 2:49 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:49).
 
 #### § 7.2. Ontheffingen
 
-#### Artikel 81
+##### Artikel 81
 
 Een ontheffing die is verleend op grond van [artikel 36, tweede lid, van de Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477&artikel=36) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op artikel 2:165, derde lid, van [laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
-#### Artikel 82
+##### Artikel 82
 
 1. Een ontheffing die is verleend op grond van [artikel 17, vierde lid, van de Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477&artikel=17), berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 3:19, derde lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:19).
 
@@ -608,11 +635,11 @@ Een ontheffing die is verleend op grond van [artikel 36, tweede lid, van de Wet 
 
 #### § 7.3. Verklaring van geen bezwaar
 
-#### Artikel 83
+##### Artikel 83
 
 Een verklaring van geen bezwaar die is verleend op grond van [artikel 84, eerste lid, van de Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477&artikel=84) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 3:97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:97), of op [artikel 3:100 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:100).
 
-#### Artikel 84
+##### Artikel 84
 
 Een verklaring van geen bezwaar als bedoeld in [artikel 82 van de Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477&artikel=82) die vóór 15 september 2004 is verleend, wordt vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) geacht te zijn verleend voor een deelneming tot de eerstvolgende bovengrens van 20, 33, 50 of 100 procent, tenzij:
 
@@ -622,21 +649,21 @@ Een verklaring van geen bezwaar als bedoeld in [artikel 82 van de Wet toezicht n
 
 #### § 7.4. Notificatie
 
-#### Artikel 85
+##### Artikel 85
 
 Een beslissing tot toestemming die is gegeven op grond van [artikel 40a, vijfde lid, van de Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477&artikel=40a), wordt vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) aangemerkt als de instemming, bedoeld in [artikel 2:121, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:121).
 
-#### Artikel 86
+##### Artikel 86
 
 Een overlegging van bescheiden op grond van [artikel 49, tweede lid, van de Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477&artikel=49) door een natura-uitvaartverzekeraar met zetel buiten Nederland, wordt vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) aangemerkt als de kennisgeving, bedoeld in [artikel 2:54, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54).
 
 #### § 7.5. Overig
 
-#### Artikel 87
+##### Artikel 87
 
 Een beschikking die is gegeven op grond van [artikel 51, tweede lid, van de Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477&artikel=51) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 1:67, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:67).
 
-#### Artikel 88
+##### Artikel 88
 
 1. Een beschikking die is gegeven op grond van [artikel 33, tweede lid, van de Wet natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477&artikel=33), berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 3:72, zesde lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:72).
 
@@ -652,11 +679,11 @@ Een beschikking die is gegeven op grond van [artikel 51, tweede lid, van de Wet 
 
 7. Een beschikking die is gegeven of machtiging die is verleend op grond van [artikel 59, eerste lid, van de Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477&artikel=59) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 3:138, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:138), voorzover de beschikking is gegeven aan een verzekeraar met zetel in Nederland of [3:147 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:147), voorzover de beschikking is gegeven aan een natura-uitvaartverzekeraar met zetel in een niet-aangewezen staat.
 
-#### Artikel 89
+##### Artikel 89
 
 Ten aanzien van overeenkomsten van natura-uitvaartverzekering die met een onderlinge waarborgmaatschappij zijn gesloten voor 26 juli 1976 en waaruit rechten en verplichtingen na 31 december 1995 zijn of zullen worden overgedragen, geldt [artikel 62, aanhef en onderdeel a, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=62) van de overdracht af, zulks in afwijking van [artikel 47, tweede lid, van de Overgangswet voor het nieuwe Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=47).
 
-#### Artikel 90
+##### Artikel 90
 
 Ingeval voor 1 januari 1996 de faillietverklaring van een natura-uitvaartverzekeraar is uitgesproken, blijven op het faillissement en op de vereffening of de overdracht van verbintenissen de bepalingen van toepassing die voor dat tijdstip golden.
 
@@ -664,17 +691,17 @@ Ingeval voor 1 januari 1996 de faillietverklaring van een natura-uitvaartverzeke
 
 #### § 8.1. Vergunning
 
-#### Artikel 91
+##### Artikel 91
 
 Een vergunning die is verleend op grond van [artikel 27, eerste lid, van de Wet toezicht verzekeringbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=27) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 2:31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:31), voorzover de vergunning is verleend aan een persoon met zetel in Nederland voor het uitoefenen van het bedrijf van levensverzekeraar of schadeverzekeraar, [2:37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:37), voorzover de vergunning is verleend aan een persoon met zetel in een andere lidstaat voor het vanuit een in Nederland gelegen bijkantoor uitoefenen van het bedrijf van levensverzekeraar of schadeverzekeraar dan wel op grond van [artikel 2:41, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:41), voorzover de vergunning is verleend aan een persoon met zetel in een staat die geen lidstaat is voor het uitoefenen van het bedrijf van levensverzekeraar of schadeverzekeraar vanuit een bijkantoor in Nederland.
 
-#### Artikel 92
+##### Artikel 92
 
 1. Een vergunning die is verleend op grond van [artikel 10 van de Wet toezicht verzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=10) en die op het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) wordt beschouwd te zijn verkregen op grond van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=35) of [artikel 47 van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=47), berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 2:31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:31), onderscheidenlijk [artikel 2:41, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:41).
 
 2. Een levensverzekeraar of schadeverzekeraar met zetel in een andere lidstaat die het bedrijf van levensverzekeraar of schadeverzekeraar vanuit een in Nederland gelegen bijkantoor uitoefent en die op het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op grond van [artikel 190, tweede lid, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=190) wordt geacht te hebben voldaan aan [artikel 37 van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=37), wordt geacht de mededelingen, bedoeld in [artikel 2:35 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:35) te hebben ontvangen.
 
-#### Artikel 93
+##### Artikel 93
 
 1. Op levensverzekeraars en schadeverzekeraars die op 20 maart 2002 een vergunning hadden om het levensverzekeringsbedrijf onderscheidenlijk het schadeverzekeringsbedrijf uit te oefenen, blijft tot 20 maart 2007 het bij of krachtens de [artikelen 68](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=68) of [69 van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=69) bepaalde van toepassing zoals dit luidde op 30 november 2003.
 
@@ -682,7 +709,7 @@ Een vergunning die is verleend op grond van [artikel 27, eerste lid, van de Wet 
 
 #### § 8.2. Ontheffingen
 
-#### Artikel 94
+##### Artikel 94
 
 1. Een ontheffing die is verleend op grond van [artikel 28, vierde lid, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=28) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 3:15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:15), of [3:19, derde lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:19).
 
@@ -710,23 +737,23 @@ Een vergunning die is verleend op grond van [artikel 27, eerste lid, van de Wet 
 
 13. Een ontheffing die is verleend op grond van [artikel 147k, elfde lid, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=147k) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 3:156, achtste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:156).
 
-#### Artikel 95
+##### Artikel 95
 
 Een ontheffing die is verleend op grond van [artikel 13, zesde lid, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=13) blijft vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) voor een periode van ten hoogste een jaar geldig.
 
 #### § 8.3. Verklaring van geen bezwaar
 
-#### Artikel 96
+##### Artikel 96
 
 Een verklaring van geen bezwaar die is verleend op grond van [artikel 176, eerste lid, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=176) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 3:97, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:97), voorzover de verklaring van geen bezwaar is verleend voor een handeling als bedoeld in het [eerste lid van laatstgenoemd artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:97), of op [artikel 3:100 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:100), voorzover de verklaring van geen bezwaar is verleend voor een handeling als bedoeld in [artikel 3:95, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:95).
 
-#### Artikel 97
+##### Artikel 97
 
 1. Een verklaring van geen bezwaar die is verleend op grond van [artikel 81 van de Wet toezicht verzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=81) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 3:97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:97), dan wel op [artikel 3:100 van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:100), voorzover de handelingen waarvoor de verklaring van geen bezwaar is verleend overeenkomen met de in [artikel 3:95, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:95) bedoelde handelingen.
 
 2. Degene die voor het tijdstip van inwerkingtreding van de [Wet toezicht verzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0006509) een gekwalificeerde deelneming hield, wordt geacht te beschikken over een verklaring van geen bezwaar als bedoeld in [artikel 3:95, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:95).
 
-#### Artikel 98
+##### Artikel 98
 
 Een verklaring van geen bezwaar als bedoeld in [artikel 175 van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=175) die voor 15 september 2004 is verleend, wordt vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) geacht te zijn verleend voor een deelneming tot de eerstvolgende bovengrens van 20, 33, 50 of 100 procent, tenzij:
 
@@ -736,33 +763,33 @@ Een verklaring van geen bezwaar als bedoeld in [artikel 175 van de Wet toezicht 
 
 #### § 8.4. Notificatie
 
-#### Artikel 99
+##### Artikel 99
 
 Een mededeling die is gedaan op grond van [artikel 111, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=111), of [artikel 113, eerste lid, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=113) door een levensverzekeraar of schadeverzekeraar met zetel in een andere lidstaat, berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 2:34, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:34).
 
-#### Artikel 100
+##### Artikel 100
 
 Een mededeling die is gedaan op grond van artikel 50g, 50m, 50t of 50z van de [Wet toezicht verzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0006509) door een schadeverzekeraar of levensverzekeraar met zetel in een andere lidstaat, berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 2:34, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:34).
 
-#### Artikel 101
+##### Artikel 101
 
 Een mededeling die is gedaan op grond van [artikel 116, eerste lid, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=116) door een levensverzekeraar of een schadeverzekeraar met zetel in een staat die geen lidstaat is, berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 2:46, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:46).
 
-#### Artikel 102
+##### Artikel 102
 
 Een mededeling die is gedaan op grond van [artikel 118, eerste lid, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=118) door een levensverzekeraar of een schadeverzekeraar met zetel in een staat die geen lidstaat is, berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 2:45, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:45).
 
 #### § 8.5. Overig
 
-#### Artikel 103
+##### Artikel 103
 
 Een verklaring die is afgegeven op grond van [artikel 49, eerste lid, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=49) wordt vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) aangemerkt als een ontheffing op grond van [artikel 3:60, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:60).
 
-#### Artikel 104
+##### Artikel 104
 
 Een machtiging die is verleend op grond van [artikel 147e, eerste lid, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=147e) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 3:154, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:154).
 
-#### Artikel 105
+##### Artikel 105
 
 1. Een beschikking die is gegeven op grond van [artikel 72, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=72), [72a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=72a), [100, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=100) of [100a, vijfde lid, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=100a), berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 1:78, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:78).
 
@@ -802,7 +829,7 @@ Een machtiging die is verleend op grond van [artikel 147e, eerste lid, van de We
 
 19. Een beschikking die is gegeven of een machtiging die is verleend op grond van [artikel 153, eerste lid, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=153) berust vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) op [artikel 3:135, eerste lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:135).
 
-#### Artikel 106
+##### Artikel 106
 
 Een besluit dat is genomen op grond van een van de artikelen van de [Wet toezicht verzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0006509), genoemd in kolom A, wordt vanaf het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368), aangemerkt als besluit in de zin van het in kolom B genoemde artikel van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
@@ -832,7 +859,7 @@ Een besluit dat is genomen op grond van een van de artikelen van de [Wet toezich
 | [57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=57) | [3:138, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:138) (verzekeraar met zetel in Nederland); [3:144, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:144) (levensverzekeraar of schadeverzekeraar met zetel in een staat die geen lidstaat is) |
 | [83, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=83) | [4:20](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:20) |
 
-#### Artikel 107
+##### Artikel 107
 
 1. Voorzieningen die zijn getroffen voor 4 december 1985 en die in strijd waren met [artikel 13, vierde lid, aanhef en onderdeel a, onder 3°, onderdelen b en c, onderdeel d, onder 2°, en onderdeel e, onder 2°, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=13) zoals deze wet luidde voor de inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) kunnen worden voortgezet, voorzover:
 
@@ -844,17 +871,17 @@ Een besluit dat is genomen op grond van een van de artikelen van de [Wet toezich
 
 2. Handelingen die ingevolge het eerste lid zijn toegestaan, worden niet beschouwd als de uitoefening van het bedrijf van levensverzekeraar of schadeverzekeraar.
 
-#### Artikel 108
+##### Artikel 108
 
 Ten aanzien van overeenkomsten van schadeverzekering of levensverzekering die door een onderlinge waarborgmaatschappij zijn gesloten voor 26 juli 1976 en waaruit rechten en verplichtingen na 1 januari 1994 zijn of zullen worden overgedragen, geldt [artikel 62, aanhef en onderdeel a, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=62) van de overdracht af, zulks in afwijking van [artikel 47, tweede lid, van de Overgangswet voor het nieuwe Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=47).
 
-#### Artikel 109
+##### Artikel 109
 
 De [artikelen 85](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=85), [86](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=86), [86a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=86a), [86b](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=86b), [88](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=88) en [89 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=89) zijn van overeenkomstige toepassing op een vruchtgebruik van en een pandrecht op aandelen in het waarborgkapitaal van een onderlinge waarborgmaatschappij, gevestigd voor 1 januari 1986.
 
 ### Afdeling 9. Clearinginstellingen
 
-#### Artikel 110
+##### Artikel 110
 
 1. Het is een financiële onderneming met zetel in Nederland, niet zijnde een bank, die op het tijdstip van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland het bedrijf van clearinginstelling uitoefent, toegestaan zonder vergunning haar werkzaamheden voort te zetten, indien zij voldoet aan het vierde lid.
 
@@ -880,7 +907,7 @@ De [artikelen 85](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=85), [
 
 12. De financiële onderneming die op grond van het zesde lid zich bij de Nederlandsche Bank heeft gemeld wordt ingeschreven in het register, bedoeld in [artikel 1:107, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:107), als een onderneming die aan de Nederlandsche Bank kennis heeft gegeven van het voornemen door middel van dienstverrichting naar Nederland het bedrijf van clearinginstelling te verrichten. De Nederlandsche Bank haalt deze inschrijving door zodra zij heeft beslist dat is voldaan aan [artikel 2:8 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:8).
 
-#### Artikel 111
+##### Artikel 111
 
 1. Het is een financiële instelling, niet zijnde een bank, met zetel in een staat die is aangewezen ingevolge [artikel 2:6, tweede lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:6), die op het moment van inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) vanuit een in Nederland gelegen bijkantoor of door middel van het verrichten van diensten naar Nederland het bedrijf van clearinginstelling uitoefent, toegestaan haar werkzaamheden voort te zetten, onder de voorwaarde dat zij binnen twee maanden na de inwerkingtreding aan de Nederlandsche Bank kennis geeft van de voortzetting.
 
@@ -892,7 +919,7 @@ De [artikelen 85](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=85), [
 
 ### Afdeling 10. Waarborg- en garantiefondsen
 
-#### Artikel 111a
+##### Artikel 111a
 
 1. Het verbod, bedoeld in [artikel 3:6, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:6) is niet van toepassing op degene die op het tijdstip waarop [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in werking treedt optreedt als waarborg- of garantiefonds, indien deze binnen twee maanden na dat tijdstip een aanvraag indient voor een vergunning voor het uitoefenen van het bedrijf van schadeverzekeraar, en voor zover de Nederlandsche Bank nog niet op die aanvraag heeft beslist.
 
@@ -904,301 +931,301 @@ De [artikelen 85](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=85), [
 
 #### § 1. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
-#### Artikel 112
+##### Artikel 112
 
 Wijzigt de Brandweerwet 1985.
 
-#### Artikel 113
+##### Artikel 113
 
 Wijzigt de Wet gevolgen privatisering ABP voor het personeel van de Koninklijke Hofhouding.
 
-#### Artikel 114
+##### Artikel 114
 
 Wijzigt de Wet privatisering ABP.
 
 #### § 2. Ministerie van Buitenlandse Zaken
 
-#### Artikel 115
+##### Artikel 115
 
 Wijzigt de Sanctiewet 1977.
 
 #### § 3. Ministerie van Economische Zaken
 
-#### Artikel 116
+##### Artikel 116
 
 Wijzigt de Colportagewet.
 
-#### Artikel 117
+##### Artikel 117
 
 Wijzigt de Handelsregisterwet 1996.
 
-#### Artikel 118
+##### Artikel 118
 
 Wijzigt de Mededingingswet.
 
-#### Artikel 119
+##### Artikel 119
 
 Wijzigt de Vestigingswet Bedrijven 1954.
 
-#### Artikel 120
+##### Artikel 120
 
 Wijzigt de Wet handhaving consumentenbescherming.
 
 #### § 4. Ministerie van Financiën
 
-#### Artikel 121
+##### Artikel 121
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel 122
+##### Artikel 122
 
 Wijzigt de Comptabiliteitswet 2001.
 
-#### Artikel 123
+##### Artikel 123
 
 Wijzigt de Fusiewet De Nederlandsche Bank N.V. en de Stichting Pensioen- & Verzekeringskamer.
 
-#### Artikel 124
+##### Artikel 124
 
 Wijzigt de Invorderingswet 1990.
 
-#### Artikel 125
+##### Artikel 125
 
 Wijzigt de Kaderwet financiële verstrekkingen Financiën.
 
-#### Artikel 126
+##### Artikel 126
 
 Wijzigt de Noodwet financieel verkeer.
 
-#### Artikel 127
+##### Artikel 127
 
 Wijzigt de Wet giraal effectenverkeer.
 
-#### Artikel 128
+##### Artikel 128
 
 Wijzigt de Wet identificatie bij dienstverlening.
 
-#### Artikel 129
+##### Artikel 129
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel 130
+##### Artikel 130
 
 Wijzigt de Wet inzake de geldtransactiekantoren.
 
-#### Artikel 131
+##### Artikel 131
 
 Wijzigt de Wet melding ongebruikelijke transacties.
 
-#### Artikel 132
+##### Artikel 132
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
 
-#### Artikel 133
+##### Artikel 133
 
 Wijzigt de Wet op de dividendbelasting 1965.
 
-#### Artikel 134
+##### Artikel 134
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel 135
+##### Artikel 135
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel 135a
+##### Artikel 135a
 
 Wijzigt de Wet op het financieel toezicht.
 
-#### Artikel 136
+##### Artikel 136
 
 Wijzigt de Wet toezicht financiële verslaggeving.
 
-#### Artikel 137
+##### Artikel 137
 
 Wijzigt de Wet toezicht trustkantoren.
 
 #### § 5. Ministerie van Justitie
 
-#### Artikel 138
+##### Artikel 138
 
 Wijzigt het Burgerlijk Wetboek Boek 1.
 
-#### Artikel 139
+##### Artikel 139
 
 Wijzigt het Burgerlijk Wetboek Boek 2.
 
-#### Artikel 140
+##### Artikel 140
 
 Wijzigt het Burgerlijk Wetboek Boek 7.
 
-#### Artikel 141
+##### Artikel 141
 
 Wijzigt de Faillissementswet.
 
-#### Artikel 142
+##### Artikel 142
 
 Wijzigt de Gerechtsdeurwaarderswet.
 
-#### Artikel 143
+##### Artikel 143
 
 Wijzigt de Onteigeningswet.
 
-#### Artikel 144
+##### Artikel 144
 
 Wijzigt de Wet aansprakelijkheidsverzekering motorrijtuigen.
 
-#### Artikel 145
+##### Artikel 145
 
 Wijzigt de Wet aansprakelijkheid olietankschepen.
 
-#### Artikel 146
+##### Artikel 146
 
 Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.
 
-#### Artikel 147
+##### Artikel 147
 
 Wijzigt de Wet bescherming persoonsgegevens.
 
-#### Artikel 148
+##### Artikel 148
 
 Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.
 
-#### Artikel 149
+##### Artikel 149
 
 Wijzigt de Wet Landelijk Bureau Inning Onderhoudsbijdragen.
 
-#### Artikel 150
+##### Artikel 150
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel 151
+##### Artikel 151
 
 Wijzigt de Wet op het notarisambt.
 
-#### Artikel 152
+##### Artikel 152
 
 Wijzigt de Uitvoeringswet enkele conflictenrechtelijke bepalingen van richtlijn nr. 88/357/EEG van de Raad van de Europese Gemeenschappen van 22 juni 1988, enz..
 
-#### Artikel 153
+##### Artikel 153
 
 Wijzigt de Uitvoeringswet Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst.
 
-#### Artikel 154
+##### Artikel 154
 
 Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
-#### Artikel 155
+##### Artikel 155
 
 Wijzigt het Wetboek van Strafvordering.
 
 #### § 6. Ministerie van Landbouw, Natuur en Voedselkwaliteit
 
-#### Artikel 156
+##### Artikel 156
 
 Wijzigt de Wet agrarisch grondverkeer.
 
-#### Artikel 157
+##### Artikel 157
 
 Wijzigt de Wet verzelfstandiging Staatsbosbeheer.
 
 #### § 7. Ministerie van Sociale Zaken en Werkgelegenheid
 
-#### Artikel 158
+##### Artikel 158
 
 Wijzigt de Pensioen- en spaarfondsenwet.
 
-#### Artikel 159
+##### Artikel 159
 
 Wijzigt de Wet financiering sociale verzekeringen.
 
-#### Artikel 160
+##### Artikel 160
 
 Vervallen
 
-#### Artikel 161
+##### Artikel 161
 
 Wijzigt de Wet privatisering FVP.
 
-#### Artikel 162
+##### Artikel 162
 
 Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 
-#### Artikel 163
+##### Artikel 163
 
 Wijzigt de Wet verplichte beroepspensioenregeling.
 
-#### Artikel 164
+##### Artikel 164
 
 Wijzigt de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000.
 
-#### Artikel 165
+##### Artikel 165
 
 Wijzigt de Wet werk en bijstand.
 
 #### § 8. Ministerie van Volksgezondheid, Welzijn en Sport
 
-#### Artikel 166
+##### Artikel 166
 
 Wijzigt de Algemene Wet Bijzondere Ziektekosten.
 
-#### Artikel 167
+##### Artikel 167
 
 Wijzigt de Invoerings- en aanpassingswet Zorgverzekeringswet.
 
-#### Artikel 168
+##### Artikel 168
 
 Wijzigt de Wet marktordening gezondheidszorg.
 
-#### Artikel 169
+##### Artikel 169
 
 Wijzigt de Zorgverzekeringswet.
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 170
+##### Artikel 170
 
 Wijzigt de Wet toezicht financiële verslaggeving en deze wet.
 
-#### Artikel 171
+##### Artikel 171
 
 Wijzigt de Wet handhaving consumentenbescherming.
 
-#### Artikel 172
+##### Artikel 172
 
 Wijzigt de Fusiewet De Nederlandsche Bank N.V. en de Stichting Pensioen- & Verzekeringskamer.
 
-#### Artikel 173
+##### Artikel 173
 
 Vervallen.
 
-#### Artikel 174
+##### Artikel 174
 
 Wijzigt deze wet.
 
-#### Artikel 175
+##### Artikel 175
 
 Wijzigt deze wet.
 
-#### Artikel 175a
+##### Artikel 175a
 
 [Artikel 5:86 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:86) is van toepassing met ingang van het boekjaar aanvangt op of na het tijdstip van inwerkingtreding van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
-#### Artikel 176
+##### Artikel 176
 
 1. Bij ministeriële regeling kunnen, voorzover dit noodzakelijk is voor de invoering van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) of van deze wet en zo nodig in afwijking van deze wet, tijdelijke voorzieningen worden getroffen.
 
 2. Na de plaatsing in de Staatscourant van een krachtens het eerste lid vastgestelde ministeriële regeling wordt een voorstel van wet tot regeling van het betrokken onderwerp zo spoedig mogelijk bij de Staten-Generaal ingediend. Indien het voorstel wordt ingetrokken of indien een van beide kamers der Staten-Generaal besluit het voorstel niet aan te nemen, wordt de ministeriële regeling onverwijld ingetrokken. Wordt het voorstel tot wet verheven, dan wordt de ministeriële regeling ingetrokken op het tijdstip van inwerkingtreding van die wet.
 
-#### Artikel 177
+##### Artikel 177
 
 Onze Minister brengt voor plaatsing van deze wet in het Staatsblad de in deze wet voorkomende verwijzingen naar artikelen uit de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in overeenstemming met de op grond van [artikel 7:1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=7:1) opnieuw vastgestelde nummering.
 
-#### Artikel 178
+##### Artikel 178
 
 De [Wet van 6 december 1999, houdende bepalingen ter vrijwaring van kredietinstellingen en andere financiële instellingen tegen aansprakelijkheid in verband met maatregelen die samenhangen met sluiting van betalings- en effectenafwikkelsystemen op 31 december 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010941) (Stb. 589), de [Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329), de [Wet melding zeggenschap en kapitaalbelang in effectenuitgevende instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020052), de [Wet toezicht beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0004809), de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657), met uitzondering van het bepaalde bij of krachtens de [artikelen 1, onderdelen a, e, n, o en p](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=1), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=2), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=5a), met dien verstande dat voor «artikel 5» wordt gelezen «[artikel 5:24 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:24)», [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=6a), met dien verstande dat voor «op grond van artikel 22 erkende effectenbeurs» wordt gelezen «markt in financiële instrumenten waarvan de houder een erkenning heeft als bedoeld in [artikel 5:26, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:26)», 6b, 6c, [28, eerste tot en met het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=28), [29, eerste lid, onderdeel o, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=29), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=31), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=44) en [67](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=67), alsmede de [hoofdstukken IX](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&hoofdstuk=IX), [XIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&hoofdstuk=XIIIA), [XIIB](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&hoofdstuk=XIII_B) en [XIIC, de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&hoofdstuk=XIIIC), de [Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477) en de [Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509) worden ingetrokken.
 
-#### Artikel 179
+##### Artikel 179
 
 1. Deze wet en de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) treden in werking op een bij koninklijk besluit te bepalen tijdstip.
 
@@ -1206,13 +1233,13 @@ De [Wet van 6 december 1999, houdende bepalingen ter vrijwaring van kredietinste
 
 3. In het koninklijk besluit kan worden bepaald dat het bepaalde in [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020616&hoofdstuk=1&afdeling=3&paragraaf=3.5&artikel=31&z=2019-07-21&g=2019-07-21), van deze wet kan terugwerken tot en met 1 januari 2006.
 
-#### Artikel 180
+##### Artikel 180
 
 Deze wet wordt aangehaald als: Invoerings- en aanpassingswet Wet op het financieel toezicht.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 16a
+##### Artikel 16a
 
 Op een op of na 1 januari 2007 plaatsgevonden faillietverklaring van een kredietinstelling of verzekeraar of gedaan verzoek of voordracht daartoe en op de gevolgen van een op of na die datum uitgesproken faillissement van een kredietinstelling of verzekeraar ten aanzien waarvan onderscheidenlijk van wie voorafgaand aan de inwerkingtreding van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) een noodregeling is uitgesproken op grond van [artikel 71 van de Wet toezicht kredietwezen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005792&artikel=71), [artikel 66 van de Wet toezicht natura-uitvaartverzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0007477&artikel=66) onderscheidenlijk [artikel 156 Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=156), is de [Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860) van toepassing zoals die luidt op het moment van het verzoek of de voordracht.
 

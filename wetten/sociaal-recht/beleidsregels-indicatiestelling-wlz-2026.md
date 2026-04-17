@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregels indicatiestelling Wlz 2026"
 identifier: "BWBR0051798"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051798"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051798"
+soort: "zbo"
+stam_id: "17608653"
+version_id: "31087722"
+internal_id: "C44507021"
+label_id: "17509064"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051798/2026-01-01/0"
+intitule_bron: "Stcrt.2025-39446"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-11-04"
+intitule_published: "2025-11-20"
+intitule_in_force: "2025-11-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-39446"
+original_signed_date: "2025-11-04"
+original_published_date: "2025-11-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-39446"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051798&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051798&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-11-04"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregels indicatiestelling Wlz 2026
 
 Overal waar ‘hij’ staat, kan ook ‘zij’ of ‘hen’ worden gelezen
@@ -20,19 +45,19 @@ gelet op [artikel 4:81, eerste lid, Algemene wet bestuursrecht](https://wetten.o
 
 besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het CIZ hanteert beleidsregels bij het beoordelen of en in welke omvang de verzekerde in aanmerking komt voor één of meer van de in [artikel 3.1.1 Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1) aangewezen vormen van zorg. Deze beleidsregels zijn opgenomen in de hoofdstukken 1 tot en met 4 bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van 1 januari 2026.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt aangehaald als: Beleidsregels indicatiestelling Wlz 2026.
 
-#### Artikel 4
+##### Artikel 4
 
 De Beleidsregels indicatiestelling Wlz 2026 vervangen de [Beleidsregels indicatiestelling Wlz 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050451). Aanvragen die worden ontvangen in 2026 worden afgehandeld conform de Beleidsregels indicatiestelling Wlz 2026. De Beleidsregels indicatiestelling Wlz 2025 zijn vanaf 1 januari 2026 niet langer van kracht, met uitzondering van de volgende situaties:
 
@@ -40,7 +65,7 @@ De Beleidsregels indicatiestelling Wlz 2026 vervangen de [Beleidsregels indicati
 
 - •. Ook in bezwaar- en beroepsprocedures tegen indicatiebesluiten uit 2025 die worden afgehandeld in 2026 worden de voor de betreffende verzekerde meest gunstige beleidsregels (2025 of 2026) toegepast.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt met de toelichting en de bijlagen in de Staatscourant geplaatst.
 

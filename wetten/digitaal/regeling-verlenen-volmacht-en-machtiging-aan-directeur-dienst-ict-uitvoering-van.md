@@ -1,13 +1,39 @@
 ---
-title: "Regeling verlenen volmacht en machtiging aan directeur Dienst ICT Uitvoering van Ministerie van Economische Zaken (verlenging van aantal overeenkomsten met ICT-dienstverleners)"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 28 januari 2015, 2014-0000192106, houdende het verlenen van volmacht en machtiging aan de directeur van de Dienst ICT Uitvoering van het Ministerie van Economische Zaken in verband met de verlenging van een aantal overeenkomsten met ICT-dienstverleners"
 identifier: "BWBR0036229"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036229"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036229"
+soort: "ministeriele-regeling"
+stam_id: "12973453"
+version_id: "22130152"
+internal_id: "C31737181"
+label_id: "12942504"
+dtd_version: "2.0"
+original_entry_into_force: "2015-02-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036229/2022-01-01/0"
+intitule_bron: "Stcrt.2015-3095"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-01-28"
+intitule_published: "2015-02-05"
+intitule_in_force: "2015-02-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-3095"
+original_signed_date: "2015-01-28"
+original_published_date: "2015-02-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-3095"
+entry_into_force_date: "2015-02-06"
+jci_1_3: "jci1.3:c:BWBR0036229&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0036229&g=2022-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Regeling verlenen volmacht en machtiging aan directeur Dienst ICT Uitvoering van Ministerie van Economische Zaken (verlenging van aantal overeenkomsten met ICT-dienstverleners)"
+signed_date: "2015-01-28"
+entry_into_force: "2015-02-06"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 28 januari 2015, 2014-0000192106, houdende het verlenen van volmacht en machtiging aan de directeur van de Dienst ICT Uitvoering van het Ministerie van Economische Zaken in verband met de verlenging van een aantal overeenkomsten met ICT-dienstverleners
 
 Gezien de schriftelijke instemming van de directeur van de Dienst ICT Uitvoering van het Ministerie van Economische Zaken;
@@ -16,7 +42,7 @@ Gelet op [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=9) 
 
 Besluit:
 
-#### Artikel 1. Definitiebepaling
+##### Artikel 1. Definitiebepaling
 
 In dit besluit wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 - c. **DICTU:** Dienst ICT Uitvoering van het Ministerie van Economische Zaken.
 
-#### Artikel 2. Volmacht en machtiging
+##### Artikel 2. Volmacht en machtiging
 
 Aan de directeur van de DICTU wordt volmacht en machtiging verleend tot:
 
@@ -40,7 +66,7 @@ Aan de directeur van de DICTU wordt volmacht en machtiging verleend tot:
 
 - b. het verrichten van de benodigde werkzaamheden in verband met de verlenging c.q. het sluiten van de in onderdeel a bedoelde overeenkomsten, waaronder mede begrepen het maken van prijsafspraken ter zake.
 
-#### Artikel 3. Ondertekening en vermelding
+##### Artikel 3. Ondertekening en vermelding
 
 1. De directeur van de DICTU is gehouden in de ondertekening van stukken die op basis van dit volmacht- en machtigingsbesluit worden ondertekend, de vertegenwoordigingsbevoegdheid tot uiting te brengen door opneming van de volgende formule:
 
@@ -54,7 +80,7 @@ naam van de betrokken vertegenwoordigingsbevoegde,
 
 directeur van de Dienst ICT Uitvoering van het Ministerie van Economische Zaken
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin deze wordt geplaatst, en werkt terug tot en met 1 november 2014.
 

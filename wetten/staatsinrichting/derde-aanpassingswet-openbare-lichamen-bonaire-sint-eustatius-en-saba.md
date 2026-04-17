@@ -1,14 +1,41 @@
 ---
-title: "Derde Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba"
+title: "Wet van 16 december 2010 tot derde aanpassing van wetten in verband met de nieuwe staatsrechtelijke positie van Bonaire, Sint Eustatius en Saba als openbaar lichaam binnen Nederland (Derde Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba)"
 identifier: "BWBR0029250"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2011-01-01
-laatste_update: 2011-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029250"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2011-01-01"
+last_updated: "2011-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029250"
+soort: "wet-BES"
+stam_id: "11162043"
+version_id: "18255472"
+internal_id: "C25409521"
+label_id: "11136494"
+dtd_version: "2.0"
+original_entry_into_force: "2011-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029250/2011-01-01/0"
+intitule_bron: "Stb.2010-830"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-12-16"
+intitule_published: "2010-12-24"
+intitule_in_force: "2010-12-24"
+intitule_status: "goed"
+original_publication: "Stb.2010-830"
+original_signed_date: "2010-12-16"
+original_published_date: "2010-12-24"
+original_effect: "nieuwe-regeling"
+original_dossier: "32428"
+original_url_id: "stb-2010-830"
+entry_into_force_date: "2011-01-01"
+jci_1_3: "jci1.3:c:BWBR0029250&z=2011-01-01&g=2011-01-01"
+jci_1_0: "1.0:c:BWBR0029250&g=2011-01-01"
+citeertitel_status: "officieel"
+short_title: "Derde Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba"
+signed_date: "2010-12-16"
+entry_into_force: "2011-01-01"
 ---
-
-# Derde Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba
+# Wet van 16 december 2010 tot derde aanpassing van wetten in verband met de nieuwe staatsrechtelijke positie van Bonaire, Sint Eustatius en Saba als openbaar lichaam binnen Nederland (Derde Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,79 +45,79 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 05.00 uur in het Europese deel van Nederland.
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Veiligheidswet BES.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Kieswet.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Algemene pensioenwet politieke ambtsdragers.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Ambtenarenwet.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet privatisering ABP.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Wet merken BES.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Wet post BES.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Wet telecommunicatievoorzieningen BES.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Wet grondslagen natuurbeheer- en bescherming BES.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Werkloosheidswet.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Wet werk en arbeidsondersteuning jonggehandicapten.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Ziektewet.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Wet aansprakelijkheid bestuurders, rijbevoegdheid en rijvaardigheid BES.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Wet op de geneesmiddelenvoorziening BES.
 
-#### Artikel XIX
+##### Artikel XIX
 
 1. Geneesmiddelen welke zijn ingeschreven in het register, bedoeld in [artikel 5, tweede lid, van de Wet op de geneesmiddelenvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=5), zoals dat artikel luidde voor de inwerkingtreding van deze wet en die niet zijn vermeld in het register, bedoeld in [artikel 53 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=53), zijn uitgezonderd van het verbod in artikel 5, eerste lid, van de Wet op de geneesmiddelenvoorziening BES, zoals dat luidt na inwerkingtreding van deze wet.
 
@@ -98,7 +125,7 @@ Wijzigt de Wet op de geneesmiddelenvoorziening BES.
 
 3. Geneesmiddelen als bedoeld in het eerste lid en die ingevolge het tweede lid van [artikel 16 van de Wet op de geneesmiddelenvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=16) zijn aangewezen, mogen niet anders dan op recept worden afgeleverd.
 
-#### Artikel XX
+##### Artikel XX
 
 1. Dit artikel is van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba en verstaat onder:
 
@@ -122,7 +149,7 @@ Wijzigt de Wet op de geneesmiddelenvoorziening BES.
 
 5. Bij ministeriële regeling kunnen nadere regels worden gesteld.
 
-#### Artikel XXI. Slotbepalingen
+##### Artikel XXI. Slotbepalingen
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 

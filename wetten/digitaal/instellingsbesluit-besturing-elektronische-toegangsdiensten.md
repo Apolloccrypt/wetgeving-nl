@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit besturing elektronische toegangsdiensten"
+title: "Besluit van de Minister van Economische Zaken van 15 april 2015, nr. WJZ/15023462, houdende instelling van de besturing van een afsprakenstelsel elektronische toegangsdiensten (Instellingsbesluit besturing elektronische toegangsdiensten)"
 identifier: "BWBR0036524"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2017-11-03
-laatste_update: 2017-11-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036524"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-11-03"
+last_updated: "2017-11-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036524"
+soort: "ministeriele-regeling"
+stam_id: "13137173"
+version_id: "22386992"
+internal_id: "C32047071"
+label_id: "13106284"
+dtd_version: "2.0"
+original_entry_into_force: "2015-04-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036524/2017-11-03/0"
+intitule_bron: "Stcrt.2015-10829"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-04-15"
+intitule_published: "2015-04-16"
+intitule_in_force: "2015-04-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-10829"
+original_signed_date: "2015-04-15"
+original_published_date: "2015-04-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-10829"
+entry_into_force_date: "2015-04-17"
+jci_1_3: "jci1.3:c:BWBR0036524&z=2017-11-03&g=2017-11-03"
+jci_1_0: "1.0:c:BWBR0036524&g=2017-11-03"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit besturing elektronische toegangsdiensten"
+signed_date: "2015-04-15"
+entry_into_force: "2015-04-17"
 ---
-
 # Besluit van de Minister van Economische Zaken van 15 april 2015, nr. WJZ/15023462, houdende instelling van de besturing van een afsprakenstelsel elektronische toegangsdiensten (Instellingsbesluit besturing elektronische toegangsdiensten)
 
 Besluit:
 
 #### Paragraaf 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 2. Het Strategisch Beraad
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Strategisch Beraad ten behoeve van het strategisch beheer van het Afsprakenstelsel elektronische toegangsdiensten.
 
@@ -46,11 +72,11 @@ In dit besluit wordt verstaan onder:
 
 3. Het Strategisch Beraad kan een toehoorder uitnodigen.
 
-#### Artikel 3
+##### Artikel 3
 
 Het Strategisch Beraad heeft tot taak de minister te adviseren over het strategisch beheer van het Afsprakenstelsel elektronische toegangsdiensten.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Lid van het Strategisch Beraad zijn:
 
@@ -68,7 +94,7 @@ Het Strategisch Beraad heeft tot taak de minister te adviseren over het strategi
 
 4. De afgevaardigden van de deelnemers, dienstverleners en de gebruikers worden benoemd en ontslagen door de minister.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De leden worden benoemd vanwege hun kennis en ervaring met elektronische toegangsdiensten.
 
@@ -76,17 +102,17 @@ Het Strategisch Beraad heeft tot taak de minister te adviseren over het strategi
 
 #### Paragraaf 3. Werkwijze van het Strategisch Beraad
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het Strategisch Beraad komt ten minste vier keer per jaar bijeen.
 
 2. Tijdens een bijeenkomst kan een waarnemer of een toehoorder aanwezig zijn.
 
-#### Artikel 7
+##### Artikel 7
 
 De voorzitter van het Strategisch Beraad bespreekt voorafgaand aan een bijeenkomst de agenda van een bijeenkomst met een waarnemer.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het Strategisch Beraad kan na iedere bijeenkomst een advies uitbrengen aan de minister. In een advies kan het Strategisch Beraad voorstellen doen voor strategische wijzigingen in het Afsprakenstelsel elektronische toegangsdiensten en ontwikkelingen die daarmee samenhangen.
 
@@ -96,7 +122,7 @@ De voorzitter van het Strategisch Beraad bespreekt voorafgaand aan een bijeenkom
 
 4. Indien de minister voornemens is een advies, houdende voorstellen voor strategische wijzigingen in het Afsprakenstelsel elektronische toegangsdiensten en ontwikkelingen die daarmee samenhangen, niet over te nemen, overlegt hij vooraf met de voorzitter.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het secretariaat van het Strategisch beraad stelt drie weken voorafgaand aan een bijeenkomst de agenda vast.
 
@@ -104,13 +130,13 @@ De voorzitter van het Strategisch Beraad bespreekt voorafgaand aan een bijeenkom
 
 3. De deelnemers, dienstverleners en gebruikers die geen afgevaardigde hebben in het Strategisch Beraad kunnen tot één week voorafgaand aan een bijeenkomst hun mening bekend maken aan het secretariaat.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het Strategisch Beraad stelt eenmaal per drie jaren een meerjarenplan op ten aanzien van de werkzaamheden van het Strategisch Beraad. In het meerjarenplan doet het Strategisch Beraad voorstellen voor strategische wijzigingen van het Afsprakenstelsel elektronische toegangsdiensten. Het meerjarenplan is voorzien van een deugdelijke financiële onderbouwing. Het meerjarenplan behoeft goedkeuring van de minister.
 
 2. Het Tactisch Beraad stelt jaarlijks een jaarplan op ten aanzien van zijn werkzaamheden. Het jaarplan is voorzien van een deugdelijke financiële onderbouwing. Het jaarplan behoeft goedkeuring van het Strategisch Beraad en de minister.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het Strategisch Beraad beslist over zaken bij meerderheid van stemmen van het aantal uitgebrachte stemmen.
 
@@ -120,13 +146,13 @@ De voorzitter van het Strategisch Beraad bespreekt voorafgaand aan een bijeenkom
 
 #### Paragraaf 4. Het Tactisch Beraad
 
-#### Artikel 12
+##### Artikel 12
 
 1. Er is een Tactisch Beraad ten behoeve van het operationeel en tactisch beheer van het Afsprakenstelsel elektronische toegangsdiensten.
 
 2. In het Tactisch Beraad heeft een afvaardiging van deelnemers, dienstverleners en gebruikers zitting.
 
-#### Artikel 13
+##### Artikel 13
 
 Het Tactisch Beraad heeft tot taak conform het jaarplan:
 
@@ -138,7 +164,7 @@ Het Tactisch Beraad heeft tot taak conform het jaarplan:
 
 - d. beslissingen te nemen ten aanzien van alle operationele en tactische aangelegenheden en operationele incidenten die het Afsprakenstelsel elektronische toegangsdiensten als geheel raken.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Lid van het Tactisch Beraad zijn:
 
@@ -156,19 +182,19 @@ Het Tactisch Beraad heeft tot taak conform het jaarplan:
 
 4. De overige leden worden benoemd en ontslagen door het Strategisch Beraad.
 
-#### Artikel 15
+##### Artikel 15
 
 De leden worden benoemd vanwege hun kennis en ervaring met elektronische toegangsdiensten.
 
 #### Paragraaf 5. Werkwijze van het Tactisch Beraad
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het Tactisch Beraad komt maandelijks bijeen.
 
 2. Ingeval van een operationeel incident kan het secretariaat een extra bijeenkomst vaststellen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het Tactisch Beraad brengt voorafgaand aan elke bijeenkomst van het Strategisch verslag uit aan het Strategisch Beraad over:
 
@@ -180,13 +206,13 @@ De leden worden benoemd vanwege hun kennis en ervaring met elektronische toegang
 
 3. Het Tactisch Beraad brengt haar adviezen schriftelijk uit aan het Strategisch Beraad. Een advies bevat een deugdelijke financiële onderbouwing en een inschatting van de financiële consequenties voor deelnemers, dienstverleners en gebruikers.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Het secretariaat van het Tactisch Beraad stelt voorafgaand aan een bijeenkomst de agenda vast.
 
 2. De agenda en bijhorende de schriftelijke stukken van het Tactisch Beraad wordt een week voorafgaand aan een bijeenkomst beschikbaar gesteld aan alle deelnemers, dienstverleners en gebruikers.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het Tactisch Beraad beslist over zaken bij meerderheid van het aantal uitgebrachte stemmen.
 
@@ -196,17 +222,17 @@ De leden worden benoemd vanwege hun kennis en ervaring met elektronische toegang
 
 #### Paragraaf 6. Het Operationeel Beraad
 
-#### Artikel 20
+##### Artikel 20
 
 1. Er is een Operationeel Beraad ten behoeve van het change en releaseproces van het Afsprakenstelsel elektronische toegangsdiensten.
 
 2. Het Operationeel Beraad is een afvaardiging van deelnemers en staat open voor afvaardiging van dienstverleners en gebruikers.
 
-#### Artikel 21
+##### Artikel 21
 
 Het Operationeel Beraad heeft tot taak het Tactisch Beraad te adviseren over de wijzigingen en releases in het Afsprakenstelsel elektronische toegangsdiensten. Tevens bereidt het Operationeel Beraad de wijzigingen in het Afsprakenstelsel elektronische toegangsdiensten voor.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Lid van het Operationeel Beraad zijn een voorzitter en ten hoogste vier afgevaardigden van deelnemers.
 
@@ -218,27 +244,27 @@ Het Operationeel Beraad heeft tot taak het Tactisch Beraad te adviseren over de 
 
 5. De afgevaardigden van de deelnemers, dienstverleners en gebruikers worden benoemd en ontslagen door de respectievelijke afgevaardigden van het Tactisch Beraad.
 
-#### Artikel 23
+##### Artikel 23
 
 De leden worden benoemd vanwege hun kennis en ervaring met elektronische toegangsdiensten.
 
 #### Paragraaf 7. Werkwijze van het Operationeel Beraad
 
-#### Artikel 24
+##### Artikel 24
 
 Het Operationeel Beraad komt bijeen wanneer de voorzitter dit nodig acht om te adviseren over de implementatie van wijzigingen en releases in het Afsprakenstelsel elektronische toegangsdiensten.
 
-#### Artikel 25
+##### Artikel 25
 
 Het Operationeel Beraad brengt haar adviezen schriftelijk uit aan het Tactisch Beraad.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Het secretariaat van het Operationeel Beraad stelt voorafgaand aan een bijeenkomst de agenda vast.
 
 2. De agenda en bijhorende de schriftelijke stukken van het Operationeel Beraad worden een week voorafgaand aan een bijeenkomst beschikbaar gesteld voor alle deelnemers, dienstverleners en gebruikers.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Het Operationeel Beraad beslist bij meerderheid van stemmen van het aantal uitgebrachte stemmen.
 
@@ -248,7 +274,7 @@ Het Operationeel Beraad brengt haar adviezen schriftelijk uit aan het Tactisch B
 
 #### Paragraaf 8. De Beheerorganisatie
 
-#### Artikel 28
+##### Artikel 28
 
 1. Er is een beheerorganisatie die het secretariaat voert van het Strategisch Beraad, het Tactisch Beraad en het Operationeel Beraad.
 
@@ -256,13 +282,13 @@ Het Operationeel Beraad brengt haar adviezen schriftelijk uit aan het Tactisch B
 
 #### Paragraaf 9. Werkgroepen
 
-#### Artikel 29
+##### Artikel 29
 
 1. Het Strategisch Beraad is bevoegd werkgroepen in te stellen die het Strategisch Beraad kunnen adviseren ten aanzien van strategische onderwerpen.
 
 2. Bij de instelling van een werkgroep bepaalt het Strategisch Beraad de werkwijze van een werkgroep.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Het Tactisch Beraad is bevoegd werkgroepen in te stellen die het Tactisch Beraad kunnen adviseren ten aanzien van operationele en tactische onderwerpen.
 
@@ -274,7 +300,7 @@ Het Operationeel Beraad brengt haar adviezen schriftelijk uit aan het Tactisch B
 
 #### Paragraaf 10. Vergoeding
 
-#### Artikel 31
+##### Artikel 31
 
 1. Aan de voorzitter van het Strategisch Beraad wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 0.1.
 
@@ -282,15 +308,15 @@ Het Operationeel Beraad brengt haar adviezen schriftelijk uit aan het Tactisch B
 
 #### Paragraaf 11. Slotbepalingen
 
-#### Artikel 32
+##### Artikel 32
 
 Het [Instellingsbesluit besturing eHerkenning](https://wetten.overheid.nl/jci1.3:c:BWBR0031751) wordt ingetrokken.
 
-#### Artikel 33
+##### Artikel 33
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 34
+##### Artikel 34
 
 Dit besluit wordt aangehaald als: Instellingsbesluit besturing elektronische toegangsdiensten.
 

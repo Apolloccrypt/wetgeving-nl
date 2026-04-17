@@ -1,13 +1,39 @@
 ---
-title: "Regeling bekostiging WPO en WEC 2026"
+title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 7 oktober 2025, nr. PO/FenV/54400275, houdende aanpassing van de bedragen voor bekostiging primair onderwijs voor het kalenderjaar 2026 en het vaststellen van de bedragen voor ondersteuning van leerlingen in het primair en voortgezet onderwijs kalenderjaar 2026 (Regeling bekostiging WPO en WEC 2026)"
 identifier: "BWBR0051627"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2025-10-17
-laatste_update: 2025-10-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051627"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-17"
+last_updated: "2025-10-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051627"
+soort: "ministeriele-regeling"
+stam_id: "17555043"
+version_id: "30976662"
+internal_id: "C44363841"
+label_id: "17456714"
+dtd_version: "2.0"
+original_entry_into_force: "2025-10-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051627/2025-10-17/0"
+intitule_bron: "Stcrt.2025-34927"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-10-07"
+intitule_published: "2025-10-16"
+intitule_in_force: "2025-10-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-34927"
+original_signed_date: "2025-10-07"
+original_published_date: "2025-10-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-34927"
+entry_into_force_date: "2025-10-17"
+jci_1_3: "jci1.3:c:BWBR0051627&z=2025-10-17&g=2025-10-17"
+jci_1_0: "1.0:c:BWBR0051627&g=2025-10-17"
+citeertitel_status: "officieel"
+short_title: "Regeling bekostiging WPO en WEC 2026"
+signed_date: "2025-10-07"
+entry_into_force: "2025-10-17"
 ---
-
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 7 oktober 2025, nr. PO/FenV/54400275, houdende aanpassing van de bedragen voor bekostiging primair onderwijs voor het kalenderjaar 2026 en het vaststellen van de bedragen voor ondersteuning van leerlingen in het primair en voortgezet onderwijs kalenderjaar 2026 (Regeling bekostiging WPO en WEC 2026)
 
 Gelet op de [artikelen 116, zesde en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=116), [119, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=119), [121, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=121), [122, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=122), en [124, derde en vijfde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=124), de [artikelen 114, zesde en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=114), [117, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=117), en [119, vierde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=119), [artikel 5.15, derde en vijfde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.15), de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=5), [13, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=13), [14, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=14), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=15), [16, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=16), [17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=17), [18, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=18), [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=19), [20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=20), en [22, derde lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=22), de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=4), [13, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=13), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=14), [15, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=15), en [16, vierde lid, van het Besluit bekostiging WEC 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=16), de [artikelen B 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&artikel=B_15), en [C 11, derde lid van het Besluit trekkende bevolking WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&artikel=C_11), [artikel 4 van het Besluit informatievoorziening WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&artikel=4), en [artikel 6.30, derde lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.30);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -48,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 - **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Loon- en prijsontwikkeling
+##### Artikel 2. Loon- en prijsontwikkeling
 
 1. De ontwikkeling van de in deze regeling genoemde bedragen bedraagt ten opzichte van het voorgaande kalenderjaar 0,3877%.
 
@@ -60,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 1. Basisscholen
 
-#### Artikel 3. Bedrag per school en bedrag per leerling
+##### Artikel 3. Bedrag per school en bedrag per leerling
 
 1. Het bedrag per leerling, bedoeld in [artikel 116, tweede lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=116), bedraagt € 6.866,55.
 
@@ -71,11 +97,11 @@ In deze regeling wordt verstaan onder:
 | a. Basisscholen met minder dan 100 leerlingen | € 102.069,35 |
 | b. Basisscholen met 100 leerlingen of meer | € 123.801,33 |
 
-#### Artikel 4. Eenmalige startbekostiging nieuwe school
+##### Artikel 4. Eenmalige startbekostiging nieuwe school
 
 Het deel van de bekostiging, bedoeld in [artikel 5, eerste lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=5), bedraagt voor een basisschool € 20.086,15.
 
-#### Artikel 5. Extra bekostiging (zeer) kleine basisscholen
+##### Artikel 5. Extra bekostiging (zeer) kleine basisscholen
 
 Het startbedrag, het verminderingsbedrag en het basisbedrag, bedoeld in [artikel 14, tweede, respectievelijk derde lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=14), worden als volgt vastgesteld:
 
@@ -85,21 +111,21 @@ Het startbedrag, het verminderingsbedrag en het basisbedrag, bedoeld in [artikel
 | [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=14), **(kleine scholen verminderingsbedrag)** | € 1.832,53 |
 | [14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=14), **(zeer kleine scholen basisbedrag)** | € 485.996,21 |
 
-#### Artikel 6. Extra bekostiging voor internationaal georiënteerd basisonderwijs
+##### Artikel 6. Extra bekostiging voor internationaal georiënteerd basisonderwijs
 
 1. Het bedrag per afdeling voor internationaal georiënteerd basisonderwijs, bedoeld in [artikel 15, tweede lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=15), bedraagt € 42.411,10.
 
 2. Het bedrag per leerling, bedoeld in [artikel 15, tweede lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=15), bedraagt € 759,84.
 
-#### Artikel 7. Extra bekostiging groei
+##### Artikel 7. Extra bekostiging groei
 
 Het bedrag per leerling bij groei, bedoeld in [artikel 16, achtste lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=16), bedraagt € 572,21.
 
-#### Artikel 8. Extra bekostiging een of meer nevenvestigingen
+##### Artikel 8. Extra bekostiging een of meer nevenvestigingen
 
 Het bedrag per nevenvestiging, bedoeld in [artikel 17, eerste lid, onderdeel a, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=17), bedraagt € 21.497,96.
 
-#### Artikel 9. Extra bekostiging onderwijsachterstandenbestrijding en Nederlands onderwijs anderstaligen
+##### Artikel 9. Extra bekostiging onderwijsachterstandenbestrijding en Nederlands onderwijs anderstaligen
 
 1. Het bedrag per eenheid achterstandsscore, bedoeld in [artikel 18, eerste lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=18), bedraagt € 845,42.
 
@@ -107,7 +133,7 @@ Het bedrag per nevenvestiging, bedoeld in [artikel 17, eerste lid, onderdeel a, 
 
 3. Het bedrag per leerling, bedoeld in [artikel 19, tweede lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=19), bedraagt € 25,21.
 
-#### Artikel 10. Vermindering bekostiging bij verzelfstandiging van een vestiging
+##### Artikel 10. Vermindering bekostiging bij verzelfstandiging van een vestiging
 
 1. Het bedrag, bedoeld in [artikel 22, eerste lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=22), dat bij toepassing van [artikel 116, achtste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=116) per leerling in mindering wordt gebracht op de bekostiging van de overblijvende school bedraagt € 6.866,55.
 
@@ -115,7 +141,7 @@ Het bedrag per nevenvestiging, bedoeld in [artikel 17, eerste lid, onderdeel a, 
 
 3. De gegevens over het aantal leerlingen op 1 februari van het kalenderjaar voorafgaand aan het kalenderjaar waarin de verzelfstandiging heeft plaatsgevonden dient voor 1 juli te zijn ontvangen door DUO.
 
-#### Artikel 11. Bedragen voor scholen voor kinderen van wie de ouders een trekkend bestaan leiden
+##### Artikel 11. Bedragen voor scholen voor kinderen van wie de ouders een trekkend bestaan leiden
 
 1. Het bedrag per school, bedoeld in [artikel B 15, derde lid, van het Besluit trekkende bevolking WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&artikel=B_15) bedraagt € 514.336,90.
 
@@ -125,7 +151,7 @@ Het bedrag per nevenvestiging, bedoeld in [artikel 17, eerste lid, onderdeel a, 
 
 #### Paragraaf 2. Speciale scholen voor basisonderwijs
 
-#### Artikel 12. Bedrag per school en bedrag per leerling
+##### Artikel 12. Bedrag per school en bedrag per leerling
 
 1. Het bedrag per leerling, bedoeld in [artikel 116, tweede lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=116), bedraagt voor een speciale school voor basisonderwijs € 7.914,08.
 
@@ -136,25 +162,25 @@ Het bedrag per nevenvestiging, bedoeld in [artikel 17, eerste lid, onderdeel a, 
 | a. Speciale scholen voor basisonderwijs met minder dan 100 leerlingen | € 99.760,48 |
 | b. Speciale scholen voor basisonderwijs met 100 leerlingen of meer | € 122.793,30 |
 
-#### Artikel 13. Eenmalige startbekostiging nieuwe school
+##### Artikel 13. Eenmalige startbekostiging nieuwe school
 
 Het deel van de bekostiging, bedoeld in [artikel 5, eerste lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=5), bedraagt voor een speciale school voor basisonderwijs € 22.131,12.
 
-#### Artikel 14. Ondersteuningsbekostiging
+##### Artikel 14. Ondersteuningsbekostiging
 
 Het bedrag per leerling, bedoeld in [artikel 121, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=121) bedraagt € 7.382,51.
 
-#### Artikel 15. Extra bekostiging nevenvestigingen
+##### Artikel 15. Extra bekostiging nevenvestigingen
 
 Het bedrag per nevenvestiging, bedoeld in [artikel 17, tweede lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=17), bedraagt € 24.099,91.
 
-#### Artikel 16. Extra bekostiging onderwijsachterstandenbestrijding
+##### Artikel 16. Extra bekostiging onderwijsachterstandenbestrijding
 
 Het bedrag per leerling, bedoeld in [artikel 18, tiende lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=18), bedraagt € 3.896,64.
 
 #### Paragraaf 3. Scholen voor (voortgezet) speciaal onderwijs in cluster 3 en 4
 
-#### Artikel 17. Bedrag per school en bedrag per leerling
+##### Artikel 17. Bedrag per school en bedrag per leerling
 
 1. Het bedrag per leerling, bedoeld in [artikel 114, tweede lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=114), bedraagt:
 
@@ -171,11 +197,11 @@ Het bedrag per leerling, bedoeld in [artikel 18, tiende lid, van het Besluit bek
 | c. Scholen voor voortgezet speciaal onderwijs met minder dan 50 leerlingen | € 168.448,33 |
 | d. Scholen voor voortgezet speciaal onderwijs met 50 leerlingen of meer | € 191.514,99 |
 
-#### Artikel 18. Eenmalige startbekostiging nieuwe school
+##### Artikel 18. Eenmalige startbekostiging nieuwe school
 
 Het deel van de bekostiging, bedoeld in [artikel 4, eerste lid, van het Besluit bekostiging WEC 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=4), bedraagt voor een school voor (voortgezet) speciaal onderwijs € 21.398,41.
 
-#### Artikel 19. Ondersteuningsbekostiging
+##### Artikel 19. Ondersteuningsbekostiging
 
 1. Het bedrag per leerling, bedoeld in [artikel 119, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=119) is per categorie van ondersteuningsbehoefte van de leerling, opgenomen in de toelaatbaarheidsverklaring, bedoeld in [artikel 40, tiende of twaalfde lid van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=40) en per onderwijstype van de leerlingen, weergegeven in onderstaande tabel:
 
@@ -186,11 +212,11 @@ Het deel van de bekostiging, bedoeld in [artikel 4, eerste lid, van het Besluit 
 
 2. Indien er geen sprake is van een toelaatbaarheidsverklaring omdat er sprake is van een situatie als bedoeld in [artikel 40, achtste en negende lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=40) dan wel van plaatsing in een residentiële instelling als bedoeld in [artikel 119, derde lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=119) wordt het bedrag voor ondersteuning afgeleid van de onderwijssoort van de school. Voor de onderwijssoort ‘lichamelijk gehandicapte leerlingen’ is categorie 2/m van toepassing. Voor de onderwijssoort ‘meervoudig gehandicapte leerlingen met de combinatie lichamelijke handicap en zeer moeilijk lerend’ is categorie 3/h van toepassing. Voor de overige onderwijssoorten is categorie 1/l van toepassing.
 
-#### Artikel 20. Extra bekostiging onderwijsachterstanden
+##### Artikel 20. Extra bekostiging onderwijsachterstanden
 
 Het bedrag per leerling, bedoeld in [artikel 14, tweede lid, van het Besluit bekostiging WEC 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=14) bedraagt € 3.896,64
 
-#### Artikel 21. Extra bekostiging schoolbad
+##### Artikel 21. Extra bekostiging schoolbad
 
 1. Het bedrag per bad, bedoeld in [artikel 15, vijfde lid, van het Besluit bekostiging WEC 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=15) bedraagt voor een hydrotherapiebad € 12.705,01 en voor een watergewenningsbad € 27.470,67.
 
@@ -200,19 +226,19 @@ Het bedrag per leerling, bedoeld in [artikel 14, tweede lid, van het Besluit bek
 
 4. Het bedrag per m3 waterinhoud bij een beweegbare bodem, bedoeld in [artikel 15, vijfde lid, van het Besluit bekostiging WEC 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=15) bedraagt € 100,75.
 
-#### Artikel 22. Extra bekostiging brancardlift
+##### Artikel 22. Extra bekostiging brancardlift
 
 Het bedrag per brancardlift, bedoeld in [artikel 16, vierde lid, van het Besluit bekostiging WEC 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=16) bedraagt € 8.180,53.
 
 ### Hoofdstuk 3. Bekostiging samenwerkingsverbanden
 
-#### Artikel 23. Bedragen lichte ondersteuning samenwerkingsverbanden PO
+##### Artikel 23. Bedragen lichte ondersteuning samenwerkingsverbanden PO
 
 1. Het bedrag per leerling, bedoeld in [artikel 122, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=122) bedraagt € 396,53.
 
 2. Het bedrag per leerling dat in mindering wordt gebracht op de bekostiging van het samenwerkingsverband, bedoeld in [artikel 122, derde lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=122) bedraagt € 7.382,51.
 
-#### Artikel 24. Bedrag bekostiging zware ondersteuning PO
+##### Artikel 24. Bedrag bekostiging zware ondersteuning PO
 
 1. Het bedrag per leerling, bedoeld in [artikel 124, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=124), bedraagt € 555,80.
 
@@ -222,7 +248,7 @@ Het bedrag per brancardlift, bedoeld in [artikel 16, vierde lid, van het Besluit
 | --- | --- | --- | --- |
 | per leerling so | € 14.397,04 | € 23.426,82 | € 34.961,85 |
 
-#### Artikel 25. Bedrag bekostiging zware ondersteuning VO
+##### Artikel 25. Bedrag bekostiging zware ondersteuning VO
 
 1. Het bedrag per leerling, bedoeld in [artikel 5.15, eerste lid, van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.15), bedraagt € 881,34.
 
@@ -232,7 +258,7 @@ Het bedrag per brancardlift, bedoeld in [artikel 16, vierde lid, van het Besluit
 | --- | --- | --- | --- |
 | per leerling vso | € 15.343,69 | € 26.780,75 | € 33.084,22 |
 
-#### Artikel 26. Bedrag overdracht bekostiging bij meer dan gemiddelde toename na 1 februari
+##### Artikel 26. Bedrag overdracht bekostiging bij meer dan gemiddelde toename na 1 februari
 
 Het bedrag per leerling, bedoeld in [artikel 20, tweede lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=20) en [artikel 6.30, tweede lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.30), is weergegeven in onderstaande tabel;
 
@@ -246,13 +272,13 @@ Het bedrag per leerling, bedoeld in [artikel 20, tweede lid, van het Besluit bek
 | per leerling vso categorie 2/m |   | € 38.946,79 |
 | per leerling vso categorie 3/h |   | € 45.250,26 |
 
-#### Artikel 27. Aanvullende bekostiging schoolmaatschappelijk werk primair onderwijs in het kader van veiligheid en opvang risicoleerlingen
+##### Artikel 27. Aanvullende bekostiging schoolmaatschappelijk werk primair onderwijs in het kader van veiligheid en opvang risicoleerlingen
 
 Aan het samenwerkingsverband PO, waarvan de som van de achterstandsscores van de vestigingen binnen het samenwerkingsverband 1 of meer is, wordt een bedrag van € 17,11 per eenheid achterstandsscore als bedoeld in [artikel 18, eerste lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=18) toegekend.
 
 ### Hoofdstuk 4. Bekostiging instellingen
 
-#### Artikel 28. Basisbedragen
+##### Artikel 28. Basisbedragen
 
 Het bedrag per leerling van een instelling, bedoeld in [artikel 114, tweede lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=114), bedraagt:
 
@@ -260,7 +286,7 @@ Het bedrag per leerling van een instelling, bedoeld in [artikel 114, tweede lid,
 
 - b. voor een leerling in het voortgezet speciaal onderwijs: € 12.166,04.
 
-#### Artikel 29. Bedragen voor bekostiging voor ondersteuning instellingen
+##### Artikel 29. Bedragen voor bekostiging voor ondersteuning instellingen
 
 De bedragen, bedoeld in [artikel 119, tweede lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=119), zijn in onderstaande tabel per instelling weergegeven:
 
@@ -278,13 +304,13 @@ De bedragen, bedoeld in [artikel 119, tweede lid, van de WEC](https://wetten.ove
 
 ### Hoofdstuk 5. Aanvullende bekostiging kalenderjaar 2026
 
-#### Artikel 30. Algemeen
+##### Artikel 30. Algemeen
 
 1. Het bevoegd gezag ontvangt, tenzij anders bepaald, uiterlijk 16 weken na ontvangst van een aanvraag voor aanvullende bekostiging als bedoeld in dit hoofdstuk een beschikking.
 
 2. Indien een peildatum, bedoeld in de [artikelen 34 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0051627&hoofdstuk=5&artikel=34&z=2025-10-17&g=2025-10-17), of de datum, waarop de aanvraag op grond van de [artikelen 31 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0051627&hoofdstuk=5&artikel=31&z=2025-10-17&g=2025-10-17), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0051627&hoofdstuk=5&artikel=37&z=2025-10-17&g=2025-10-17) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0051627&hoofdstuk=5&artikel=39&z=2025-10-17&g=2025-10-17) uiterlijk kan worden ingediend, valt op een zaterdag, zondag of algemeen erkende feestdag wordt als peildatum of uiterlijke datum de eerstvolgende dag die niet een zaterdag, zondag of algemeen erkende feestdag is, aangehouden.
 
-#### Artikel 31. Aanwezigheid schipperskinderen
+##### Artikel 31. Aanwezigheid schipperskinderen
 
 1. Het bevoegd gezag van een basisschool die voor 1 december 2026 wordt bezocht door drie of meer kinderen in de eerste vier verblijfsjaren op een reguliere basisschool, die verblijven in een internaat of pleeggezin en van wie de vader of moeder het schippersbedrijf uitoefent of heeft uitgeoefend, ontvangt op aanvraag aanvullende bekostiging.
 
@@ -306,7 +332,7 @@ De bedragen, bedoeld in [artikel 119, tweede lid, van de WEC](https://wetten.ove
 
 6. De aanvraag, bedoeld in het eerste lid, wordt in ieder geval afgewezen indien de aanvraag op of na 1 december 2026 is ontvangen.
 
-#### Artikel 32. Aanwezigheid van leerlingen met een culturele achtergrond van de Roma en Sinti
+##### Artikel 32. Aanwezigheid van leerlingen met een culturele achtergrond van de Roma en Sinti
 
 1. Het bevoegd gezag van een basisschool die voor 1 december 2026 wordt bezocht door vier of meer leerlingen met een culturele achtergrond van de Roma en Sinti, ontvangt op aanvraag aanvullende bekostiging.
 
@@ -324,7 +350,7 @@ De bedragen, bedoeld in [artikel 119, tweede lid, van de WEC](https://wetten.ove
 
 5. De aanvraag, bedoeld in het eerste lid, wordt in ieder geval afgewezen indien de aanvraag op of na 1 december 2026 is ontvangen.
 
-#### Artikel 33. Leerlingen afkomstig uit ‘Blijf van mijn lijf huizen’
+##### Artikel 33. Leerlingen afkomstig uit ‘Blijf van mijn lijf huizen’
 
 1. Het bevoegd gezag van een basisschool, waar gedurende een periode van maximaal één jaar voorafgaand aan de aanvraag ten minste tien leerlingen uit een ‘Blijf van mijn lijf huis’ nieuw zijn ingeschreven, kan aanvullende bekostiging aanvragen.
 
@@ -342,7 +368,7 @@ De bedragen, bedoeld in [artikel 119, tweede lid, van de WEC](https://wetten.ove
 
 5. De aanvraag, bedoeld in het eerste lid, wordt in ieder geval afgewezen indien de aanvraag op of na 1 december 2026 is ontvangen.
 
-#### Artikel 34. Eerste opvang asielzoekers en overige vreemdelingen basisscholen
+##### Artikel 34. Eerste opvang asielzoekers en overige vreemdelingen basisscholen
 
 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -462,7 +488,7 @@ waarin steeds:
 
 12. De aanvullende bekostiging, bedoeld in het tweede lid, kan niet worden aangevraagd voor leerlingen die geboren zijn in Nederland en die de verblijfsrechtelijke status krijgen van één van de ouders of voogden.
 
-#### Artikel 35. Onderwijs aan asielzoekers na het eerste jaar
+##### Artikel 35. Onderwijs aan asielzoekers na het eerste jaar
 
 1. Voor de toepassing van dit artikel wordt verstaan onder **asielzoeker:**
 
@@ -518,7 +544,7 @@ waarin steeds:
 
 11. De aanvullende bekostiging, bedoeld in het tweede lid, kan niet worden aangevraagd voor leerlingen die geboren zijn in Nederland en die de verblijfsrechtelijke status krijgen van één van de ouders of voogden.
 
-#### Artikel 36. Opvang vreemdelingen op speciale scholen voor basisonderwijs
+##### Artikel 36. Opvang vreemdelingen op speciale scholen voor basisonderwijs
 
 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -588,7 +614,7 @@ waarin steeds:
 
 12. De aanvullende bekostiging, bedoeld in het derde lid, kan niet worden aangevraagd voor leerlingen die geboren zijn in Nederland en die de verblijfsrechtelijke status krijgen van één van de ouders of voogden.
 
-#### Artikel 37. Opvang asielzoekers in procesopvanglocaties en gezinslocaties
+##### Artikel 37. Opvang asielzoekers in procesopvanglocaties en gezinslocaties
 
 1. Voor de toepassing van dit artikel wordt verstaan onder asielzoeker: een leerling die verblijft in een procesopvanglocatie, zijnde de verblijfplaats van vreemdelingen tijdens de rust- en voorbereidingstermijn voorafgaand aan de algemene asielprocedure en gedurende de algemene asielprocedure door de Immigratie- en Naturalisatiedienst, dan wel leerling die verblijft in een gezinslocatie voor gezinnen met minderjarige kinderen die geen recht meer hebben op verstrekkingen conform de [Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959).
 
@@ -606,7 +632,7 @@ waarin steeds:
 
 5. De aanvraag, bedoeld in het tweede lid, wordt in ieder geval afgewezen indien de aanvraag op of na 1 februari 2026 is ontvangen.
 
-#### Artikel 38. Justitiële jeugdinrichtingen en gesloten jeugdhulpinstellingen verbonden aan scholen voor cluster 4
+##### Artikel 38. Justitiële jeugdinrichtingen en gesloten jeugdhulpinstellingen verbonden aan scholen voor cluster 4
 
 1. Het bevoegd gezag van een school voor (voortgezet) speciaal onderwijs aan zeer moeilijk opvoedbare kinderen met een vestiging die fungeert als justitiële jeugdinrichting waarbinnen het onderwijs georganiseerd wordt, dan wel is verbonden aan een gesloten jeugdhulpinstelling, ontvangt aanvullende bekostiging.
 
@@ -620,7 +646,7 @@ waarin steeds:
 
 6. In aanvulling op het bedrag per capaciteitsplaats voor een gesloten jeugdhulpinstelling, bedoeld in het tweede lid, ontvangt een bevoegd gezag, bedoeld in het eerste lid, in kalenderjaar 2026 € 75.000 per vestiging en een extra bedrag van € 5.261 per capaciteitsplaats.
 
-#### Artikel 39. Leerlingen met een ernstige meervoudige beperking
+##### Artikel 39. Leerlingen met een ernstige meervoudige beperking
 
 1. Voor de toepassing van dit artikel wordt verstaan onder een leerling met een ernstige meervoudige beperking: een leerling met een combinatie van een ernstige of zeer ernstige verstandelijke beperking (IQ tot 35), een lichamelijke beperking en bijkomende stoornissen, voor wie naast extra ondersteuning in het onderwijs ook extra zorg nodig is, die op 1 februari 2025 ingeschreven stond op een school voor (voortgezet) speciaal onderwijs en voor wie het bevoegd gezag bekostiging categorie 3 (hoog) ontvangt.
 
@@ -642,7 +668,7 @@ waarin steeds:
 
 8. De Minister beslist uiterlijk 16 weken na 1 februari 2026 over de aanvraag.
 
-#### Artikel 40. Samenvoeging
+##### Artikel 40. Samenvoeging
 
 1. Het bevoegd gezag van een basisschool, speciale school voor basisonderwijs of een school voor (voortgezet) speciaal onderwijs ontvangt aanvullende bekostiging voor het eerste en tweede kalenderjaar volgend op een samenvoeging als bedoeld in [artikel 21 van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=21) en [artikel 17 van het Besluit bekostiging WEC 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=17).
 
@@ -660,7 +686,7 @@ Y = de som van de bekostiging van de fusieschool, berekend op grond van [artikel
 
 6. Dit artikel is niet van toepassing op een samenvoeging van scholen waarbij één of meer van de scholen die onderdeel uitmaken van de samenvoeging op het moment van deze samenvoeging minder dan 8 jaar worden bekostigd.
 
-#### Artikel 41. Samengaan van een basisschool met een speciale school voor basisonderwijs
+##### Artikel 41. Samengaan van een basisschool met een speciale school voor basisonderwijs
 
 1. Het bevoegd gezag van een basisschool die per 1 augustus 2026 samengaat met een speciale school voor basisonderwijs, die wordt opgeheven met ingang van 1 augustus 2026 en waarvan blijkens de registratie in het Register Onderwijsdeelnemers (ROD) ten minste 25% van de leerlingen van de speciale school voor basisonderwijs op 1 februari 2026, op 1 augustus 2026 is ingeschreven op de basisschool, ontvangt op aanvraag aanvullende bekostiging voor het restant van het kalenderjaar van samengaan en de eerste twee volledige kalenderjaren na samengaan.
 
@@ -682,11 +708,11 @@ Y = de som van de bekostiging van de fusieschool, berekend op grond van [artikel
 
 7. Het bevoegd gezag ontvangt de beschikking uiterlijk 16 weken na 30 september 2026.
 
-#### Artikel 42. Overgangsrecht lopende aanspraken op bijzondere bekostiging bij fusies
+##### Artikel 42. Overgangsrecht lopende aanspraken op bijzondere bekostiging bij fusies
 
 De [Regeling bijzondere bekostiging bij fusie en opheffing van scholen in het primair onderwijs en beleidsregel interpretatie samenvoeging in WPO en WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0039605), zoals die luidde op 31 december 2022 blijft van toepassing op een aanspraak op bijzondere bekostiging die op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039605&artikel=3), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0039605&artikel=10) of [15 van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0039605&artikel=15) aan het bevoegd gezag van een school is toegekend, met dien verstande dat deze per kalenderjaar wordt toegekend.
 
-#### Artikel 43. Aanvullende bekostiging voor kleine basisscholen vanwege de eerste opvang van asielzoekers en overige vreemdelingen
+##### Artikel 43. Aanvullende bekostiging voor kleine basisscholen vanwege de eerste opvang van asielzoekers en overige vreemdelingen
 
 1. Het bevoegd gezag van een basisschool dat door de eerste opvang van asielzoekers en overige vreemdelingen als bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051627&hoofdstuk=5&artikel=34&z=2025-10-17&g=2025-10-17), geen of minder extra bekostiging kleine basisscholen ontvangt als bedoeld in [artikel 14, tweede lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=14), ontvangt aanvullende bekostiging.
 
@@ -696,7 +722,7 @@ De [Regeling bijzondere bekostiging bij fusie en opheffing van scholen in het pr
 
 ### Hoofdstuk 6. Betaalritme
 
-#### Artikel 44. Betaalritme
+##### Artikel 44. Betaalritme
 
 1. Onverminderd het tweede tot en met derde lid worden de bekostigingsbedragen, bedoeld in deze regeling, uitbetaald in maandelijkse termijnen van gelijke omvang.
 
@@ -706,13 +732,13 @@ De [Regeling bijzondere bekostiging bij fusie en opheffing van scholen in het pr
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 45. Inwerkingtreding
+##### Artikel 45. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van publicatie van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling heeft betrekking op het kalenderjaar 2026 en vervalt met ingang van 1 januari 2031.
 
-#### Artikel 46. Citeertitel
+##### Artikel 46. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling bekostiging WPO en WEC 2026.
 

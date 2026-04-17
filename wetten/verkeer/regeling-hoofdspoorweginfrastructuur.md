@@ -1,13 +1,39 @@
 ---
-title: "Regeling hoofdspoorweginfrastructuur"
+title: "Regeling houdende vaststelling van eisen ten aanzien van inrichting, uitrusting en technische eigenschappen van de hoofdspoorweginfrastructuur en het onderhoud daarvan (Regeling hoofdspoorweginfrastructuur)"
 identifier: "BWBR0017712"
-categorie: "Verkeer"
-publicatiedatum: 2012-04-01
-laatste_update: 2012-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017712"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2012-04-01"
+last_updated: "2012-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017712"
+soort: "ministeriele-regeling"
+stam_id: "6540323"
+version_id: "19285662"
+internal_id: "C26922191"
+label_id: "6529264"
+dtd_version: "2.0"
+original_entry_into_force: "2012-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017712/2012-04-01/0"
+intitule_bron: "Stcrt.2004-248"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-12-15"
+intitule_published: "2004-12-23"
+intitule_in_force: "2004-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-4831"
+original_signed_date: "2012-03-05"
+original_published_date: "2012-03-14"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2012-4831"
+entry_into_force_date: "2012-04-01"
+jci_1_3: "jci1.3:c:BWBR0017712&z=2012-04-01&g=2012-04-01"
+jci_1_0: "1.0:c:BWBR0017712&g=2012-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling hoofdspoorweginfrastructuur"
+signed_date: "2012-03-05"
+entry_into_force: "2012-04-01"
 ---
-
 # Regeling houdende vaststelling van eisen ten aanzien van inrichting, uitrusting en technische eigenschappen van de hoofdspoorweginfrastructuur en het onderhoud daarvan (Regeling hoofdspoorweginfrastructuur)
 
 Gelet op [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=6), en [artikel 7, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=7) en [artikel 2 van het Besluit spoorweginfrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&artikel=2);
@@ -18,7 +44,7 @@ Treedt in werking op het tijdstip waarop het Besluit spoorweginfrastructuur in w
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Algemene kenmerken
 
-#### Artikel 2
+##### Artikel 2
 
 1. Behoudens hoofdspoorwegen waarover minder dan eenmaal per week een spoorvoertuig rijdt, zijn openbare niet-actief beveiligde overwegen voorzien van:
 
@@ -38,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - b. aan weerszijden van de weg geplaatste schrikhekken.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Openbare actief beveiligde overwegen zijn naast de in artikel 10 genoemde inrichting, tevens voorzien van:
 
@@ -56,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 - b. ter hoogte van brom-/fietspaden en voetpaden voorzien van reflectiemateriaal.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Openbare bewaakte overwegen zijn naast de in artikel 10 genoemde inrichting tevens voorzien van:
 
@@ -66,21 +92,21 @@ In deze regeling wordt verstaan onder:
 
 2. In de inrichting van de in het eerste lid genoemde overwegen is een technische schakeling aanwezig waardoor het sein, dat het rijden over de overweg toestaat, niet eerder kan worden bediend dan nadat de overwegbomen zijn gesloten.
 
-#### Artikel 5
+##### Artikel 5
 
 Hoofdspoorweginfrastructuur is buiten overwegen voorzien van een afscherming waarvan de inrichting wordt vormgegeven op basis van een door de beheerder opgestelde locatiespecifieke risico-analyse.
 
 #### § 3. De spoorbaan
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking op het tijdstip waarop het [Besluit spoorweginfrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0017626) in werking treedt.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling hoofdspoorweginfrastructuur.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Voor de hoofdspoorweginfrastructuur geldt dat:
 
@@ -134,13 +160,13 @@ Deze regeling wordt aangehaald als: Regeling hoofdspoorweginfrastructuur.
 
 - o. bij heuvelen de verticale boogstraal van de topboog niet kleiner is dan R=250 m en de verticale boogstraal van de dalboog niet kleiner is dan R=300 m.
 
-#### Artikel 9
+##### Artikel 9
 
 De hoofdspoorweginfrastructuur is voorzien van een draadloos communicatiesysteem van het type ‘GSM-Rail’ dat voldoet aan EIRENE FRS versie 6.0 en EIRENE SRS versie 14.0.
 
 #### § 4. Overwegen
 
-#### Artikel 10
+##### Artikel 10
 
 1. Behoudens hoofdspoorwegen waarover minder dan eenmaal per week een spoorvoertuig rijdt, zijn openbare niet-actief beveiligde overwegen voorzien van:
 
@@ -148,7 +174,7 @@ De hoofdspoorweginfrastructuur is voorzien van een draadloos communicatiesysteem
 
 - b. aan weerszijden van de weg geplaatste schrikhekken.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Openbare actief beveiligde overwegen zijn naast de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=4&artikel=10&z=2005-11-01&g=2005-11-01) genoemde inrichting, tevens voorzien van:
 
@@ -166,7 +192,7 @@ De hoofdspoorweginfrastructuur is voorzien van een draadloos communicatiesysteem
 
 - b. ter hoogte van brom-/fietspaden en voetpaden voorzien van reflectiemateriaal.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Openbare bewaakte overwegen zijn naast de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=4&artikel=10&z=2005-11-01&g=2005-11-01) genoemde inrichting tevens voorzien van:
 
@@ -178,7 +204,7 @@ De hoofdspoorweginfrastructuur is voorzien van een draadloos communicatiesysteem
 
 #### § 5. Veiligheids- en beschermingsinstallaties
 
-#### Artikel 13
+##### Artikel 13
 
 1. Hoofdspoorweginfrastructuur is voorzien van een installatie, als bedoeld in [artikel 7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=7), die waarborgt dat sprake is van van elkaar gescheiden rijwegen van spoorvoertuigen.
 
@@ -186,7 +212,7 @@ De hoofdspoorweginfrastructuur is voorzien van een draadloos communicatiesysteem
 
 3. Indien hoofdspoorweginfrastructuur niet is voorzien van een installatie als bedoeld in het eerste lid, wordt de veilige berijdbaarheid, bedoeld in het tweede lid, kenbaar gemaakt door middel van een spreekverbinding tussen de bestuurder van de trein en de treindienstleider of treindienstleider niet centraal bediend gebied.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De hoofdspoorweginfrastructuur is voorzien van baanapparatuur van het treinbeïnvloedingssysteem, als bedoeld in [artikel 7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=7), die informatie doorgeeft aan spoorvoertuigen:
 
@@ -206,7 +232,7 @@ De hoofdspoorweginfrastructuur is voorzien van een draadloos communicatiesysteem
 
 #### § 6. Energievoorziening
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het ontwerp en de constructie van de bovenleiding voldoen aan NEN-EN nr. 50119.
 
@@ -214,11 +240,11 @@ De hoofdspoorweginfrastructuur is voorzien van een draadloos communicatiesysteem
 
 3. Fasescheidingen en systeemscheidingen voldoen aan NEN-EN nr. 50367: 2004.
 
-#### Artikel 16
+##### Artikel 16
 
 De beschermende maatregelen van de bovenleiding en de tractie-installaties met betrekking tot elektrische veiligheid voldoen aan NEN-EN nr. 50122-1.
 
-#### Artikel 17
+##### Artikel 17
 
 De vrije ruimte tussen bovenleiding en overwegbevloering, waarvan het niveau gelijk is aan de BS-hoogte bedraagt:
 
@@ -226,15 +252,15 @@ De vrije ruimte tussen bovenleiding en overwegbevloering, waarvan het niveau gel
 
 - b. nomimaal: 5,50 m.
 
-#### Artikel 18
+##### Artikel 18
 
 De minimale afstand tussen spanningsvoerende geleiders en een kunstwerk voldoet aan NEN-EN nr. 50119.
 
-#### Artikel 19
+##### Artikel 19
 
 De spanning aan een stroomafnemer voldoet aan NEN-EN nr. 50163.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De bovenleiding is geschikt voor een maximale stroomafname bij stilstand overeenkomstig EN nr. 50367.
 
@@ -248,7 +274,7 @@ De spanning aan een stroomafnemer voldoet aan NEN-EN nr. 50163.
 
 #### § 7. Emissie van immuniteit voor elektromagnetische velden
 
-#### Artikel 21
+##### Artikel 21
 
 1. De emissie van elektromagnetische velden naar de omgeving voldoet aan NEN-EN nr. 50121, delen 1, 2, 4 en 5.
 
@@ -256,7 +282,7 @@ De spanning aan een stroomafnemer voldoet aan NEN-EN nr. 50163.
 
 #### § 8. Onderhoudseisen voor bestaande hoofdspoorweginfrastructuur
 
-#### Artikel 22
+##### Artikel 22
 
 Hoofdspoorweginfrastructuur, die in overeenstemming met de daarvoor geldende voorschriften die gelden op de dag voorafgaande aan de dag waarop [artikel 6 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=6) in werking treedt, wordt gebruikt, voldoet ten aanzien van het onderhoud bij voortduring ten minste aan de volgende eisen:
 
@@ -270,13 +296,13 @@ Hoofdspoorweginfrastructuur, die in overeenstemming met de daarvoor geldende voo
 
 #### § 9. Uitzonderingsbepalingen
 
-#### Artikel 23
+##### Artikel 23
 
 1. Op hoofdspoorweginfrastructuur of onderdelen daarvan waarin nieuwe technologieën of concepten zijn verwerkt zijn de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=3&artikel=6&z=2005-11-01&g=2005-11-01), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=3&artikel=7&z=2005-11-01&g=2005-11-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=3&artikel=8&z=2005-11-01&g=2005-11-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=3&artikel=9&z=2005-11-01&g=2005-11-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=5&artikel=14&z=2005-11-01&g=2005-11-01) niet van toepassing, mits voldaan wordt aan [artikel 8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&artikel=8).
 
 2. Op delen van de hoofdspoorweginfrastructuur dat gebruikt wordt voor grensoverschrijdend spoorverkeer zijn de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=2&artikel=3&z=2005-11-01&g=2005-11-01), [4, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=2&artikel=4&z=2005-11-01&g=2005-11-01), en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0017712&paragraaf=5&artikel=14&z=2005-11-01&g=2005-11-01) niet van toepassing mits voldaan wordt aan [artikel 8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&artikel=8).
 
-#### Artikel 24
+##### Artikel 24
 
 1. De Minister kan in ieder geval ontheffing verlenen van:
 
@@ -290,11 +316,11 @@ Hoofdspoorweginfrastructuur, die in overeenstemming met de daarvoor geldende voo
 
 2. De in het eerste lid, onderdelen a en b, genoemde ontheffingen gelden slechts voor de duur van de proefritten en de werkzaamheden.
 
-#### Artikel 25
+##### Artikel 25
 
 Deze regeling treedt in werking op het tijdstip waarop het [Besluit spoorweginfrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0017626) in werking treedt.
 
-#### Artikel 26
+##### Artikel 26
 
 Deze regeling wordt aangehaald als: Regeling hoofdspoorweginfrastructuur.
 

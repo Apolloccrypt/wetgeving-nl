@@ -1,13 +1,39 @@
 ---
-title: "Kaderbesluit ABRO Rijksdienst"
+title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 1 december 2025, tot vaststelling van een kader houdende de instelling en toepassing van de Algemene Beveiligingseisen voor Rijksoverheidsopdrachten (ABRO 2026) (Kaderbesluit ABRO Rijksdienst)"
 identifier: "BWBR0051910"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051910"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051910"
+soort: "ministeriele-regeling"
+stam_id: "17660783"
+version_id: "31158542"
+internal_id: "C44582081"
+label_id: "17560284"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051910/2026-01-01/0"
+intitule_bron: "Stcrt.2025-39538"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-01"
+intitule_published: "2025-12-03"
+intitule_in_force: "2025-12-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-39538"
+original_signed_date: "2025-12-01"
+original_published_date: "2025-12-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-39538"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051910&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051910&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Kaderbesluit ABRO Rijksdienst"
+signed_date: "2025-12-01"
+entry_into_force: "2026-01-01"
 ---
-
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 1 december 2025, tot vaststelling van een kader houdende de instelling en toepassing van de Algemene Beveiligingseisen voor Rijksoverheidsopdrachten (ABRO 2026) (Kaderbesluit ABRO Rijksdienst)
 
 Handelend in overeenstemming met het gevoelen van de ministerraad en gelet op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=2) en [6, eerste lid, van het Coördinatiebesluit organisatie, bedrijfsvoering en informatiesystemen rijksdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=6) en
@@ -18,7 +44,7 @@ besluit:
 
 #### § 1. Algemeen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -34,11 +60,11 @@ In dit besluit wordt een aantal begrippen met een hoofdletter aangeduid. Aan dez
 
 #### § 2. ABRO en risicoanalyse nationale veiligheid
 
-#### Artikel 2. ABRO-voorschrift
+##### Artikel 2. ABRO-voorschrift
 
 De Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Defensie stellen gezamenlijk een voorschrift vast betreffende beveiligingsmaatregelen ten aanzien van Bijzondere opdrachten.
 
-#### Artikel 3. Risicomitigatie inkopen en nationale veiligheid
+##### Artikel 3. Risicomitigatie inkopen en nationale veiligheid
 
 1. De ministers dragen er zorg voor dat bij de voorbereiding van een inkoopopdracht, indien het vermoeden bestaat dat sprake kan zijn van risico’s voor de nationale veiligheid, een quick-scan wordt verricht, en indien de quick-scan laat zien dat dergelijke risico’s aan de orde kunnen zijn, in een risicoanalyse wordt nagegaan of sprake is van een Bijzondere opdracht, en zo ja, dan dragen zij er zorg voor dat de risico’s voor de nationale veiligheid schriftelijk worden vastgelegd en tevens of deze risico’s voldoende beheerst kunnen worden met mitigerende maatregelen.
 
@@ -54,18 +80,18 @@ De Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Defensie stell
 
 #### § 3. Slotbepalingen
 
-#### Artikel 4. Uitzonderingen
+##### Artikel 4. Uitzonderingen
 
 In overleg met de Minister van Binnenlandse Zaken en Koninkrijksrelaties kan worden afgeweken van het bepaalde in dit besluit, wanneer dit de effectiviteit van de met dit besluit beoogde doelen ten goede komt.
 
-#### Artikel 5. Evaluatie
+##### Artikel 5. Evaluatie
 
 Dit besluit wordt uiterlijk drie jaar na inwerkingtreding geëvalueerd en vervolgens elke drie jaar.
 
-#### Artikel 6. Citeertitel
+##### Artikel 6. Citeertitel
 
 Dit besluit wordt aangehaald als: Kaderbesluit ABRO Rijksdienst.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Dit besluit treedt in werking op 1 januari 2026. Uiterlijk 2 jaar na inwerkingtreding van dit kaderbesluit zullen de ministers hieraan uitvoering geven.

@@ -1,13 +1,39 @@
 ---
-title: "Regeling modellen en toetsingskader geregionaliseerde beroepsopleidingen en kwalificaties mbo"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 26 augustus 2019, nr. MBO-1456697, houdende vaststellen van modellen en toetsingskaders op grond van het Besluit experiment geregionaliseerde beroepsopleidingen en kwalificaties mbo (Regeling modellen en toetsingskader geregionaliseerde beroepsopleidingen en kwalificaties mbo)"
 identifier: "BWBR0042524"
-categorie: "Onderwijs"
-publicatiedatum: 2020-11-25
-laatste_update: 2020-11-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042524"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-11-25"
+last_updated: "2020-11-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042524"
+soort: "ministeriele-regeling"
+stam_id: "15155103"
+version_id: "25984402"
+internal_id: "C37003421"
+label_id: "15102744"
+dtd_version: "2.0"
+original_entry_into_force: "2019-09-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042524/2020-11-25/0"
+intitule_bron: "Stcrt.2019-48364"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-08-26"
+intitule_published: "2019-09-03"
+intitule_in_force: "2019-09-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-48364"
+original_signed_date: "2019-08-26"
+original_published_date: "2019-09-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-48364"
+entry_into_force_date: "2019-09-04"
+jci_1_3: "jci1.3:c:BWBR0042524&z=2020-11-25&g=2020-11-25"
+jci_1_0: "1.0:c:BWBR0042524&g=2020-11-25"
+citeertitel_status: "officieel"
+short_title: "Regeling modellen en toetsingskader geregionaliseerde beroepsopleidingen en kwalificaties mbo"
+signed_date: "2019-08-26"
+entry_into_force: "2019-09-04"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 26 augustus 2019, nr. MBO-1456697, houdende vaststellen van modellen en toetsingskaders op grond van het Besluit experiment geregionaliseerde beroepsopleidingen en kwalificaties mbo (Regeling modellen en toetsingskader geregionaliseerde beroepsopleidingen en kwalificaties mbo)
 
 Gelet op [artikel 10 van het Besluit experiment geregionaliseerde beroepsopleidingen en kwalificaties mbo](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&artikel=10);
@@ -16,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Algemene bepaling
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 - **besluit:** [Besluit experiment geregionaliseerde beroepsopleidingen en kwalificaties mbo](https://wetten.overheid.nl/jci1.3:c:BWBR0041819);
 
@@ -24,19 +50,19 @@ Besluit:
 
 #### Paragraaf 2. Modellen en toetsingskader
 
-#### Artikel 2. Melding ontwikkeling landelijk deel
+##### Artikel 2. Melding ontwikkeling landelijk deel
 
 Het bevoegd gezag van een instelling die voornemens is samen met een of meer andere instellingen een landelijk deel te ontwikkelen, maakt bij de melding, bedoeld in[artikel 9, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&artikel=9) gebruik van het model, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042524&bijlage=1&z=2020-11-25&g=2020-11-25) bij deze regeling.
 
-#### Artikel 3. Aanvraag vaststellen landelijk deel
+##### Artikel 3. Aanvraag vaststellen landelijk deel
 
 Het bevoegd gezag maakt bij het indienen van de aanvraag, op grond van [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&artikel=12), voor het vaststellen van het landelijk deel van een geregionaliseerde kwalificatie, gebruik van het formulier, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042524&bijlage=2&z=2020-11-25&g=2020-11-25) bij deze regeling.
 
-#### Artikel 4. Aanvraag goedkeuren regionaal deel, regionale keuzedelen en koppeling keuzedelen
+##### Artikel 4. Aanvraag goedkeuren regionaal deel, regionale keuzedelen en koppeling keuzedelen
 
 Het bevoegd gezag maakt bij de aanvragen, bedoeld in [artikel 16, eerste, tweede en vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041819&artikel=16) gebruik van het formulier, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042524&bijlage=3&z=2020-11-25&g=2020-11-25) bij deze regeling.
 
-#### Artikel 5. Vaststelling van modellen en toetsingskader landelijk deel, regionaal deel en regionaal keuzedeel
+##### Artikel 5. Vaststelling van modellen en toetsingskader landelijk deel, regionaal deel en regionaal keuzedeel
 
 1. De modellen voor een landelijk deel, regionaal deel en regionaal keuzedeel worden vastgesteld op de wijze bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042524&bijlage=4&z=2020-11-25&g=2020-11-25) behorende bij deze regeling.
 
@@ -44,11 +70,11 @@ Het bevoegd gezag maakt bij de aanvragen, bedoeld in [artikel 16, eerste, tweede
 
 #### Paragraaf 3. Slotbepalingen
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling modellen en toetsingskader geregionaliseerde beroepsopleidingen en kwalificaties mbo.
 

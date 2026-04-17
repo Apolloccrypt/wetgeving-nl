@@ -1,20 +1,45 @@
 ---
 title: "Beleidsregels UWV pilot participatiebudget"
 identifier: "BWBR0023499"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2009-03-21
-laatste_update: 2009-03-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023499"
+country: "nl"
+rank: "zbo"
+publication_date: "2009-03-21"
+last_updated: "2009-03-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023499"
+soort: "zbo"
+stam_id: "9422523"
+version_id: "15168762"
+internal_id: "C29390501"
+label_id: "9400094"
+dtd_version: "2.0"
+original_entry_into_force: "2008-02-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023499/2009-03-21/0"
+intitule_bron: "Stcrt.2008-36"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-11-20"
+intitule_published: "2008-02-20"
+intitule_in_force: "2008-02-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-36"
+original_signed_date: "2007-11-20"
+original_published_date: "2008-02-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-36-p25-SC84534"
+entry_into_force_date: "2008-02-22"
+jci_1_3: "jci1.3:c:BWBR0023499&z=2009-03-21&g=2009-03-21"
+jci_1_0: "1.0:c:BWBR0023499&g=2009-03-21"
+citeertitel_status: "officieel"
+signed_date: "2007-11-20"
+entry_into_force: "2008-02-22"
 ---
-
 # Beleidsregels UWV pilot participatiebudget
 
 Gelet op [artikel 35 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35);
 
 Besluit:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In dit besluit wordt verstaan onder:
 
@@ -26,7 +51,7 @@ In dit besluit wordt verstaan onder:
 
 - d. zorgkantoor: een verbindingskantoor als bedoeld in [artikel 1, onderdeel c, van het Administratiebesluit Bijzondere Ziektekostenverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0003585&artikel=1).
 
-#### Artikel 2. Personen die in aanmerking komen voor subsidie
+##### Artikel 2. Personen die in aanmerking komen voor subsidie
 
 UWV kan op aanvraag in plaats van een werkvoorziening subsidie verlenen aan de persoon:
 
@@ -36,7 +61,7 @@ UWV kan op aanvraag in plaats van een werkvoorziening subsidie verlenen aan de p
 
 - c. die woonachtig is in de regio’s Groningen, Twente, Arnhem, Nijmegen of Noord en Midden Limburg genoemd in bijlage 2 van de beschikking van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 9 december 2005, Z/VU-2643638, houdende de aanwijzing van administratie-instellingen bijzondere ziektekosten, Stcrt. 2005, 245, zoals deze is gewijzigd bij besluit van 30 juli 2007, Stcrt. 2007, 150.
 
-#### Artikel 3. Verplichtingen subsidieontvanger
+##### Artikel 3. Verplichtingen subsidieontvanger
 
 1. Bij de subsidieverlening gelden voor de subsidieontvanger de volgende verplichtingen:
 
@@ -48,29 +73,29 @@ UWV kan op aanvraag in plaats van een werkvoorziening subsidie verlenen aan de p
 
 2. UWV kan daarnaast andere verplichtingen aan de subsidieontvanger opleggen, voor zover de omstandigheden van het individuele geval daartoe aanleiding geven.
 
-#### Artikel 4. Hoogte van de subsidie
+##### Artikel 4. Hoogte van de subsidie
 
 1. De hoogte van de subsidie wordt afgestemd op de aard van de werkvoorziening.
 
 2. UWV stelt zonodig nadere regels met betrekking tot de hoogte van de subsidie, waarbij een maximum subsidiebedrag per persoon kan worden vastgesteld.
 
-#### Artikel 5. Geen aanspraak op werkvoorziening
+##### Artikel 5. Geen aanspraak op werkvoorziening
 
 De subsidieontvanger heeft gedurende het subsidietijdvak geen aanspraak op de werkvoorziening of de werkvoorzieningen in de plaats waarvan de subsidie wordt verleend.
 
-#### Artikel 6. Subsidie en persoongebonden budget
+##### Artikel 6. Subsidie en persoongebonden budget
 
 1. De verleende subsidie kan geheel of gedeeltelijk worden aangewend als netto persoonsgebonden budget of voor een extra werkvoorziening.
 
 2. Voor zover de verleende subsidie wordt aangewend als netto persoonsgebonden budget zijn de verplichtingen opgenomen in [artikel 2.6.9 van de Regeling subsidies AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0019161&artikel=2.6.9) van toepassing.
 
-#### Artikel 7. Voorschotten
+##### Artikel 7. Voorschotten
 
 1. UWV verstrekt voorschotten tot maximaal het bedrag van de verleende subsidie.
 
 2. De voorschotten worden door het zorgkantoor zo mogelijk gelijktijdig met de voorschotten van het verleende netto persoonsgebonden budget betaald.
 
-#### Artikel 8. Verantwoording en vaststelling
+##### Artikel 8. Verantwoording en vaststelling
 
 1. De subsidieontvanger legt door middel van invulling van een daartoe door het zorgkantoor toegezonden formulier verantwoording af over het gebruik van de subsidie.
 
@@ -88,15 +113,15 @@ De subsidieontvanger heeft gedurende het subsidietijdvak geen aanspraak op de we
 
 6. De subsidieontvanger mag in een kalenderjaar maximaal 1,5% van de som van de subsidie en het netto persoonsgebonden budget, maar ten minste € 250 en ten hoogste € 1250, anders aanwenden dan als werkvoorziening of als netto persoonsgebonden budget. Indien een subsidieperiode met ingang van een andere dag dan 1 januari van een kalenderjaar aanvangt of eindigt, worden de bedragen, genoemd in de vorige zin, voor dat kalenderjaar vermenigvuldigd met een breuk waarvan de teller bestaat uit het aantal dagen van de subsidieperiode in het desbetreffende kalenderjaar en de noemer uit het aantal dagen in dat kalenderjaar. In afwijking van het eerste lid geldt de verantwoordingsplicht, bedoeld in dat lid, niet voor het in de eerste zin bedoelde bestedingsvrije bedrag.
 
-#### Artikel 9. [Titel 4.2 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2)
+##### Artikel 9. [Titel 4.2 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2)
 
 De [afdelingen 4.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.3), [4.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.5), [4.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.6) en [4.2.7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.7) zijn van toepassing.
 
-#### Artikel 10. Einde subsidieregeling
+##### Artikel 10. Einde subsidieregeling
 
 Subsidie op grond van dit besluit kan worden aangevraagd tot en met 31 december 2009.
 
-#### Artikel 11. Inwerkingtreding en citeertitel
+##### Artikel 11. Inwerkingtreding en citeertitel
 
 1. Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2008.
 

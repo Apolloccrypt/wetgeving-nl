@@ -1,34 +1,60 @@
 ---
-title: "Besluit vaststelling beleidskader subsidie vrijroosteren leraren fase IV 2023–2025"
+title: "Besluit van de Minister voor Primair en Voortgezet Onderwijs van 3 februari 2023, nr. 35001265 houdende vaststelling van een beleidskader en een subsidieplafond voor de subsidieverstrekking aan scholen met achterstandsleerlingen gericht op het vrijroosteren van leraren voor deelname aan coachingsactiviteiten en het intensief begeleiden van leerlingen in de schooljaren 2023–2025 (Besluit vaststelling beleidskader subsidie vrijroosteren leraren fase IV 2023–2025)"
 identifier: "BWBR0047874"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-02-15
-laatste_update: 2023-02-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047874"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-02-15"
+last_updated: "2023-02-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047874"
+soort: "ministeriele-regeling"
+stam_id: "16671753"
+version_id: "29242862"
+internal_id: "C41623181"
+label_id: "16589564"
+dtd_version: "2.0"
+original_entry_into_force: "2023-02-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047874/2023-02-15/0"
+intitule_bron: "Stcrt.2023-5118"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-02-03"
+intitule_published: "2023-02-14"
+intitule_in_force: "2023-02-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-5118"
+original_signed_date: "2023-02-03"
+original_published_date: "2023-02-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-5118"
+entry_into_force_date: "2023-02-15"
+jci_1_3: "jci1.3:c:BWBR0047874&z=2023-02-15&g=2023-02-15"
+jci_1_0: "1.0:c:BWBR0047874&g=2023-02-15"
+citeertitel_status: "officieel"
+short_title: "Besluit vaststelling beleidskader subsidie vrijroosteren leraren fase IV 2023–2025"
+signed_date: "2023-02-03"
+entry_into_force: "2023-02-15"
 ---
-
 # Besluit van de Minister voor Primair en Voortgezet Onderwijs van 3 februari 2023, nr. 35001265 houdende vaststelling van een beleidskader en een subsidieplafond voor de subsidieverstrekking aan scholen met achterstandsleerlingen gericht op het vrijroosteren van leraren voor deelname aan coachingsactiviteiten en het intensief begeleiden van leerlingen in de schooljaren 2023–2025 (Besluit vaststelling beleidskader subsidie vrijroosteren leraren fase IV 2023–2025)
 
 Gelet op de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
 
 Besluit:
 
-#### Artikel 1. Beleidskader
+##### Artikel 1. Beleidskader
 
 De beleidsregels voor het verstrekken van subsidies ten behoeve van scholen met een bovengemiddelde schoolweging achterstandsleerlingen gericht op het vrijroosteren van leraren voor deelname aan coachingsactiviteiten en het intensief begeleiden van leerlingen in de schooljaren 2023–2025 worden vastgesteld overeenkomstig de bijlage bij dit besluit.
 
-#### Artikel 2. Subsidieplafond
+##### Artikel 2. Subsidieplafond
 
 Voor subsidieverstrekking op grond van dit besluit is voor de kalenderjaren 2023, 2024 en 2025 in totaal maximaal € 5.840.000 beschikbaar.
 
-#### Artikel 3. Inwerkingtreding en vervaldatum
+##### Artikel 3. Inwerkingtreding en vervaldatum
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
 2. Dit besluit vervalt met ingang van 1 januari 2027.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit vaststelling beleidskader subsidie vrijroosteren leraren fase IV 2023–2025.
 

@@ -1,13 +1,39 @@
 ---
-title: "Organisatie-, mandaat- en volmachtbesluit directie Meldingen en Verzoeken 2022"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 13 juni 2022, 2022-0000004981, houdende de inrichting van de directie Meldingen en Verzoeken, alsmede de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan de onder de directeur ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directie Meldingen en Verzoeken 2022)"
 identifier: "BWBR0046803"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-04-11
-laatste_update: 2025-04-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046803"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-04-11"
+last_updated: "2025-04-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046803"
+soort: "ministeriele-regeling"
+stam_id: "16389893"
+version_id: "28704092"
+internal_id: "C40501051"
+label_id: "16314314"
+dtd_version: "2.0"
+original_entry_into_force: "2022-06-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046803/2025-04-11/0"
+intitule_bron: "Stcrt.2022-16557"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-06-13"
+intitule_published: "2022-06-24"
+intitule_in_force: "2022-06-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-16557"
+original_signed_date: "2022-06-13"
+original_published_date: "2022-06-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-16557"
+entry_into_force_date: "2022-06-25"
+jci_1_3: "jci1.3:c:BWBR0046803&z=2025-04-11&g=2025-04-11"
+jci_1_0: "1.0:c:BWBR0046803&g=2025-04-11"
+citeertitel_status: "officieel"
+short_title: "Organisatie-, mandaat- en volmachtbesluit directie Meldingen en Verzoeken 2022"
+signed_date: "2022-06-13"
+entry_into_force: "2022-06-25"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 13 juni 2022, 2022-0000004981, houdende de inrichting van de directie Meldingen en Verzoeken, alsmede de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan de onder de directeur ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directie Meldingen en Verzoeken 2022)
 
 Gelet op de [artikelen 5, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=5), en [12 van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Nederlandse Arbeidsinspectie 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=12);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepaling
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Organisatie
 
-#### Artikel 2. Organisatie directie
+##### Artikel 2. Organisatie directie
 
 1. De directie bestaat uit de volgende afdelingen en vakgroepen:
 
@@ -76,7 +102,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 3. Verantwoordelijkheden
 
-#### Artikel 3. Verantwoordelijkheden afdelingshoofd MIC en vakgroephoofden
+##### Artikel 3. Verantwoordelijkheden afdelingshoofd MIC en vakgroephoofden
 
 1. Het afdelingshoofd MIC en de vakgroephoofden zijn verantwoordelijk voor de volgende algemene taken:
 
@@ -120,7 +146,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - h. het vervullen van proceseigenaarschap van de daartoe aan hen toebedeelde werkprocessen.
 
-#### Artikel 4. Verantwoordelijkheden teammanagers
+##### Artikel 4. Verantwoordelijkheden teammanagers
 
 De teammanagers zijn verantwoordelijk voor de volgende taken:
 
@@ -148,7 +174,7 @@ De teammanagers zijn verantwoordelijk voor de volgende taken:
 
 - i. het samen met de functioneel leidinggevende organiseren van de teambijeenkomsten van het team gericht op teamontwikkeling, vakontwikkeling en werkoverleg.
 
-#### Artikel 5. Verantwoordelijkheden functioneel leidinggevenden M&V
+##### Artikel 5. Verantwoordelijkheden functioneel leidinggevenden M&V
 
 De functioneel leidinggevenden zijn verantwoordelijk voor de volgende taken:
 
@@ -178,7 +204,7 @@ De functioneel leidinggevenden zijn verantwoordelijk voor de volgende taken:
 
 - m. het rapporteren aan het afdelingshoofd.
 
-#### Artikel 6. Verantwoordelijkheden teamleiders afdeling MIC
+##### Artikel 6. Verantwoordelijkheden teamleiders afdeling MIC
 
 De teamleiders afdeling MIC zijn verantwoordelijk voor de volgende algemene taken:
 
@@ -216,7 +242,7 @@ De teamleiders afdeling MIC zijn verantwoordelijk voor de volgende algemene take
 
 - l. het als operationeel manager participeren in het ontwikkelen en implementeren van plannen van de Nederlandse Arbeidsinspectie.
 
-#### Artikel 7. Verantwoordelijkheden afdeling MIC
+##### Artikel 7. Verantwoordelijkheden afdeling MIC
 
 De afdeling MIC is verantwoordelijk voor:
 
@@ -246,7 +272,7 @@ De afdeling MIC is verantwoordelijk voor:
 
 - j. het verlenen van administratieve ondersteuning aan de medische adviseurs van de Nederlandse Arbeidsinspectie.
 
-#### Artikel 8. Verantwoordelijkheden afdeling M&V ARBO
+##### Artikel 8. Verantwoordelijkheden afdeling M&V ARBO
 
 De afdeling M&V ARBO is verantwoordelijk voor:
 
@@ -256,7 +282,7 @@ De afdeling M&V ARBO is verantwoordelijk voor:
 
 - c. het zorgdragen voor de tactische en operationele planning van het werk dat door teams wordt uitgevoerd, de realisatie van deze planning conform de afgesproken kaders en de ontwikkeling van de samenwerking met regionale partners.
 
-#### Artikel 9. Verantwoordelijkheden vakgroep ARBO
+##### Artikel 9. Verantwoordelijkheden vakgroep ARBO
 
 De vakgroep ARBO draagt zorg voor het voorzien in vakbekwame medewerkers voor de uitvoering van de volgende taken:
 
@@ -266,7 +292,7 @@ De vakgroep ARBO draagt zorg voor het voorzien in vakbekwame medewerkers voor de
 
 - c. het toezicht gericht op het terugdringen van arbeidsdiscriminatie.
 
-#### Artikel 10. Verantwoordelijkheden afdeling M&V AMF
+##### Artikel 10. Verantwoordelijkheden afdeling M&V AMF
 
 De afdeling M&V AMF is verantwoordelijk voor:
 
@@ -276,7 +302,7 @@ De afdeling M&V AMF is verantwoordelijk voor:
 
 - c. het zorgdragen voor de tactische en operationele planning van het werk dat door teams wordt uitgevoerd, de realisatie van deze planning conform de afgesproken kaders en de ontwikkeling van de samenwerking met regionale partners.
 
-#### Artikel 11. Verantwoordelijkheden vakgroep AMF
+##### Artikel 11. Verantwoordelijkheden vakgroep AMF
 
 De vakgroep AMF draagt zorg voor het voorzien in vakbekwame medewerkers voor de uitvoering van de volgende taken:
 
@@ -286,19 +312,19 @@ De vakgroep AMF draagt zorg voor het voorzien in vakbekwame medewerkers voor de 
 
 #### § 4. Bevoegdheden
 
-#### Artikel 12. Bevoegdheden afdelingshoofden, teamleiders afdeling MIC en functioneel leidinggevenden
+##### Artikel 12. Bevoegdheden afdelingshoofden, teamleiders afdeling MIC en functioneel leidinggevenden
 
 De afdelingshoofden, de teamleiders afdeling MIC en de functioneel leidinggevenden zijn bevoegd om namens een bewindspersoon besluiten te nemen en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met het werkterrein van hun organisatieonderdeel en voor zover zij niet zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de inspecteur-generaal of de directeur.
 
-#### Artikel 13. Machtiging stillegging in verband met recidive
+##### Artikel 13. Machtiging stillegging in verband met recidive
 
 De onder de directeur Meldingen en Verzoeken ressorterende ambtenaren, belast met toezicht, zijn gemachtigd om een beschikking tot stillegging van werkzaamheden in verband met recidive te effectueren door het treffen van de nodige maatregelen, het geven van de nodige aanwijzingen en het inroepen van de hulp van de sterke arm.
 
-#### Artikel 14. Mandaat openbaarmaking inspectiegegevens
+##### Artikel 14. Mandaat openbaarmaking inspectiegegevens
 
 De onder de directeur Meldingen en Verzoeken ressorterende ambtenaren, belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616), de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) en de [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638), zijn bevoegd om namens een bewindspersoon te besluiten tot openbaarmaking van het feit dat na een afgerond onderzoek geen overtreding is geconstateerd.
 
-#### Artikel 15. Volmacht en machtiging betreffende personeelsaangelegenheden
+##### Artikel 15. Volmacht en machtiging betreffende personeelsaangelegenheden
 
 1. Aan de afdelingshoofden, vakgroephoofden, teamleiders en teammanagers van de directie wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van medewerkers van de eigen organisatorische eenheid, voor zover het betreft:
 
@@ -314,7 +340,7 @@ De onder de directeur Meldingen en Verzoeken ressorterende ambtenaren, belast me
 
 2. In aanvulling op het eerste lid wordt in het geval een teamleider of teammanager de beoordeling van een medewerker opmaakt, aan het afdelingshoofd of vakgroephoofd dat boven de teamleider of teammanager ressorteert ook volmacht en machtiging verleend met betrekking tot het vaststellen van deze beoordeling.
 
-#### Artikel 16. Volmacht afdelingshoofden en vakgroephoofden
+##### Artikel 16. Volmacht afdelingshoofden en vakgroephoofden
 
 De afdelingshoofden en vakgroephoofden zijn binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst betreffende:
 
@@ -322,11 +348,11 @@ De afdelingshoofden en vakgroephoofden zijn binnen de daarvoor geldende departem
 
 - b. activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor de eigen afdeling.
 
-#### Artikel 17. Volmacht teamleiders, teammanagers en functioneel leidinggevenden
+##### Artikel 17. Volmacht teamleiders, teammanagers en functioneel leidinggevenden
 
 De teamleiders, de teammanagers en de functioneel leidinggevenden zijn gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 5.000,– inclusief BTW per overeenkomst betreffende activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor het eigen team binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders.
 
-#### Artikel 18. Plaatsvervanging
+##### Artikel 18. Plaatsvervanging
 
 1. Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, de taken en bevoegdheden van de directeur geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
 
@@ -334,15 +360,15 @@ De teamleiders, de teammanagers en de functioneel leidinggevenden zijn gevolmach
 
 #### § 5. Slotbepalingen
 
-#### Artikel 19. Intrekking regeling
+##### Artikel 19. Intrekking regeling
 
 Het [Organisatie-, mandaat- en volmachtbesluit directie Mensen & Middelen 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039966) wordt ingetrokken.
 
-#### Artikel 20. Inwerkingtreding
+##### Artikel 20. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2022.
 
-#### Artikel 21. Citeertitel
+##### Artikel 21. Citeertitel
 
 Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Meldingen en Verzoeken 2022.
 

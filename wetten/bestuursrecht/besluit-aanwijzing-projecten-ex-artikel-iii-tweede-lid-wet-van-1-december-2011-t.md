@@ -1,20 +1,46 @@
 ---
-title: "Besluit aanwijzing projecten ex artikel III, tweede lid, wet van 1 december 2011 tot wijziging van de Tracéwet met het oog op de versnelling en verbetering besluitvorming infrastructurele projecten"
+title: "Besluit van de Minister van Infrastructuur en Milieu, van 13 december 2012, nr. IENM/BSK-2012/242707, houdende aanwijzing van projecten als bedoeld in artikel III, tweede lid, van de wet van 1 december 2011 tot wijziging van de Tracéwet met het oog op de versnelling en verbetering van besluitvorming over infrastructurele projecten"
 identifier: "BWBR0032444"
-categorie: "Bestuursrecht"
-publicatiedatum: 2012-12-17
-laatste_update: 2012-12-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032444"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2012-12-17"
+last_updated: "2012-12-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032444"
+soort: "ministeriele-regeling"
+stam_id: "11952593"
+version_id: "19871082"
+internal_id: "C28181531"
+label_id: "11924384"
+dtd_version: "2.0"
+original_entry_into_force: "2012-12-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032444/2012-12-17/0"
+intitule_bron: "Stcrt.2012-25926"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-13"
+intitule_published: "2012-12-17"
+intitule_in_force: "2012-12-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-25926"
+original_signed_date: "2012-12-13"
+original_published_date: "2012-12-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-25926"
+entry_into_force_date: "2012-12-17"
+jci_1_3: "jci1.3:c:BWBR0032444&z=2012-12-17&g=2012-12-17"
+jci_1_0: "1.0:c:BWBR0032444&g=2012-12-17"
+citeertitel_status: "redactioneel"
+short_title: "Besluit aanwijzing projecten ex artikel III, tweede lid, wet van 1 december 2011 tot wijziging van de Tracéwet met het oog op de versnelling en verbetering besluitvorming infrastructurele projecten"
+signed_date: "2012-12-13"
+entry_into_force: "2012-12-17"
 ---
-
 # Besluit van de Minister van Infrastructuur en Milieu, van 13 december 2012, nr. IENM/BSK-2012/242707, houdende aanwijzing van projecten als bedoeld in artikel III, tweede lid, van de wet van 1 december 2011 tot wijziging van de Tracéwet met het oog op de versnelling en verbetering van besluitvorming over infrastructurele projecten
 
 Gelet op [artikel III, tweede lid, van de wet van 1 december 2011 tot wijziging van de Tracéwet met het oog op de versnelling en verbetering van besluitvorming over infrastructurele projecten](https://wetten.overheid.nl/jci1.3:c:BWBR0030790&artikel=III) (Stb. 2011, 595);
 
 Besluit:
 
-#### artikel Enig
+##### artikel Enig
 
 1. De navolgende categorie van projecten aan te wijzen:
 

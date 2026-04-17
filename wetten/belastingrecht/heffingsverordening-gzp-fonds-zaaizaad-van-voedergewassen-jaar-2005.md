@@ -1,13 +1,37 @@
 ---
-title: "Heffingsverordening GZP fonds zaaizaad van voedergewassen jaar 2005"
+title: "Verordening van het Productschap Granen, Zaden en Peulvruchten van 4 november 2004, houdende vaststelling bestemmingsheffing ten behoeve van de sector zaaizaden van voedergewassen in Nederland voor het jaar 2005 (Heffingsverordening GZP fonds zaaizaad van voedergewassen jaar 2005)"
 identifier: "BWBR0017433"
-categorie: "Belastingrecht"
-publicatiedatum: 2005-05-01
-laatste_update: 2005-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017433"
+country: "nl"
+rank: "pbo"
+publication_date: "2005-05-01"
+last_updated: "2005-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017433"
+soort: "pbo"
+stam_id: "7012313"
+version_id: "11889752"
+internal_id: "C29163991"
+label_id: "7000434"
+original_entry_into_force: "2005-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017433/2005-05-01/0"
+intitule_bron: "Vbbo.2005-21"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-11-04"
+intitule_published: "2005-04-29"
+intitule_in_force: "2005-04-29"
+intitule_status: "goed"
+original_publication: "Vbbo.2005-21"
+original_signed_date: "2004-11-04"
+original_published_date: "2005-04-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2005-05-01"
+jci_1_3: "jci1.3:c:BWBR0017433&z=2005-05-01&g=2005-05-01"
+jci_1_0: "1.0:c:BWBR0017433&g=2005-05-01"
+citeertitel_status: "officieel"
+short_title: "Heffingsverordening GZP fonds zaaizaad van voedergewassen jaar 2005"
+signed_date: "2004-11-04"
+entry_into_force: "2005-05-01"
 ---
-
 # Verordening van het Productschap Granen, Zaden en Peulvruchten van 4 november 2004, houdende vaststelling bestemmingsheffing ten behoeve van de sector zaaizaden van voedergewassen in Nederland voor het jaar 2005 (Heffingsverordening GZP fonds zaaizaad van voedergewassen jaar 2005)
 
 Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126, eerste en vierde lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0016234&artikel=8) en [19 van het Instellingsbesluit akkerbouwproductschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0016234&artikel=19);
@@ -16,7 +40,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Deze verordening verstaat onder:
 
@@ -29,7 +53,7 @@ Deze verordening verstaat onder:
 
 #### § 2. Heffing
 
-#### Artikel 2
+##### Artikel 2
 
 1. De ondernemer, die in het jaar 2005 werkzaamheden verricht in het kweekbedrijf voor zaaizaad van voedergewassen en/of met betrekking tot de be- en verwerking en/of met betrekking tot het in de handel brengen van zaaizaad van voedergewassen, is verplicht aan het productschap te betalen:
 
@@ -55,13 +79,13 @@ Deze verordening verstaat onder:
 
 6. De heffing bedoeld in het tweede lid wordt door het productschap geïnd door tussenkomst van de in het eerste lid bedoelde ondernemers en berekend op basis van de door hen afgesloten teeltcontracten.
 
-#### Artikel 3
+##### Artikel 3
 
 De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017433&paragraaf=2&artikel=2&z=2005-05-01&g=2005-05-01) bedoelde heffing is bestemd voor het Fonds zaaizaad van voedergewassen 2003.
 
 #### § 3. Ambtshalve heffing
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien de ondernemer de gegevens, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017433&paragraaf=2&artikel=2&z=2005-05-01&g=2005-05-01) niet, niet tijdig of naar het oordeel van de secretaris niet volledig heeft verstrekt, is de secretaris bevoegd namens het bestuur de verschuldigde heffing voor het betreffende jaar ambtshalve bij aanslag vast te stellen.
 
@@ -71,26 +95,26 @@ De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017433&paragraaf=2&ar
 
 #### § 4. Betaling van de heffing
 
-#### Artikel 5
+##### Artikel 5
 
 1. De ingevolge deze verordening verschuldigde heffingsbedragen worden betaald uiterlijk op de eenentwintigste dag volgend op die waarop zij door of vanwege het productschap in rekening zijn gebracht, dan wel, indien de secretaris van het productschap zulks verlangt, voor een door deze te bepalen datum.
 
 2. Het Hoofdproductschap Akkerbouw wordt gemachtigd de verschuldigde heffingsbedragen in rekening te brengen, in te vorderen en in ontvangst te nemen.
 
-#### Artikel 6
+##### Artikel 6
 
 Het productschap kan besluiten nota's van minder dan € 50,- samen te voegen tot verzamelnota's welke betrekking hebben op meerdere perioden.
 
-#### Artikel 7
+##### Artikel 7
 
 Aan de ondernemer die niet of niet geheel binnen de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017433&paragraaf=4&artikel=5&z=2005-05-01&g=2005-05-01) gestelde termijn heeft betaald. kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127).
 
 #### § 5. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Deze verordening treedt in werking met ingang van 1 januari 2005. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2005, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2005, met uitzondering van de toepassing van de [Verordening GZP algemene bepalingen 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014665).
 
-#### Artikel 9
+##### Artikel 9
 
 Deze verordening wordt aangehaald als: Heffingsverordening GZP fonds zaaizaad van voedergewassen jaar 2005.

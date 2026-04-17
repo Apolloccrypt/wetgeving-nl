@@ -1,13 +1,36 @@
 ---
 title: "Verordening commissie van toezicht"
 identifier: "BWBR0011164"
-categorie: "Bestuursrecht"
-publicatiedatum: 2000-10-01
-laatste_update: 2000-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011164"
+country: "nl"
+rank: "pbo"
+publication_date: "2000-10-01"
+last_updated: "2000-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011164"
+soort: "pbo"
+stam_id: "6831263"
+version_id: "11711352"
+internal_id: "C15787451"
+label_id: "6819484"
+original_entry_into_force: "2000-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011164/2000-10-01/0"
+intitule_bron: "Stcrt.2000-182"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-02-16"
+intitule_published: "2000-09-20"
+intitule_in_force: "2000-09-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-182"
+original_signed_date: "2000-02-16"
+original_published_date: "2000-09-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-10-01"
+jci_1_3: "jci1.3:c:BWBR0011164&z=2000-10-01&g=2000-10-01"
+jci_1_0: "1.0:c:BWBR0011164&g=2000-10-01"
+citeertitel_status: "officieel"
+signed_date: "2000-02-16"
+entry_into_force: "2000-10-01"
 ---
-
 # Verordening commissie van toezicht
 
 Overwegende dat het gewenst is regelen te stellen die voor het functioneren van de commissie van toezicht van belang zijn;
@@ -24,7 +47,7 @@ stelt de navolgende verordening vast:
 
 #### Benoeming en ontslag
 
-#### Artikel 1
+##### Artikel 1
 
 1. De leden van de commissie van toezicht worden voor een periode van vier jaren benoemd. Zij kunnen éénmaal worden herbenoemd.
 
@@ -46,7 +69,7 @@ stelt de navolgende verordening vast:
 
 #### Vergadering en besluitvorming
 
-#### Artikel 2
+##### Artikel 2
 
 1. De commissie van toezicht vergadert ten minste tweemaal per jaar en voorts wanneer de voorzitter dit nodig oordeelt of ten minste twee leden daarom verzoeken.
 
@@ -64,16 +87,16 @@ stelt de navolgende verordening vast:
 
 #### Werkzaamheden
 
-#### Artikel 3
+##### Artikel 3
 
 De commissie van toezicht ontvangt van het bestuur van de KNB alle relevante informatie betreffende de beroepsopleiding. Het bestuur van de KNB raadpleegt de commissie van toezicht wanneer hij dit in verband met het onderwijs van de beroepsopleiding en de daarbij af te nemen examens wenselijk oordeelt. De commissie van toezicht kan ook uit eigen initiatief met betrekking tot de opleiding en het examen advies uitbrengen, aan het bestuur van de KNB.
 
 #### Slotbepaling
 
-#### Artikel 4
+##### Artikel 4
 
 Deze verordening wordt aangehaald als Verordening commissie van toezicht
 
-#### Artikel 5
+##### Artikel 5
 
 Deze verordening treedt in werking met ingang van 1 oktober 2000 of zoveel later als de termijn van tien dagen na publicatie in de Staatscourant als bedoeld in [artikel 91 lid 2 Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=91) is verstreken.

@@ -1,13 +1,39 @@
 ---
-title: "Besluit beperking openbaarheid archief voorwaardelijke invrijheidstellingen van het Ministerie van Justitie, periode 1950−1978"
+title: "Besluit van de Minister van Justitie, houdende beperking van de openbaarheid van het archief van de voorwaardelijke invrijheidstellingen van het Ministerie van Justitie, periode 1950−1978"
 identifier: "BWBR0028190"
-categorie: "Strafrecht"
-publicatiedatum: 2010-11-01
-laatste_update: 2010-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028190"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-11-01"
+last_updated: "2010-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028190"
+soort: "ministeriele-regeling"
+stam_id: "10691573"
+version_id: "17653602"
+internal_id: "C24417011"
+label_id: "10666134"
+dtd_version: "2.0"
+original_entry_into_force: "2010-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028190/2010-11-01/0"
+intitule_bron: "Stcrt.2010-13873"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-07-14"
+intitule_published: "2010-09-07"
+intitule_in_force: "2010-09-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-13873"
+original_signed_date: "2010-07-14"
+original_published_date: "2010-09-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-13873"
+entry_into_force_date: "2010-11-01"
+jci_1_3: "jci1.3:c:BWBR0028190&z=2010-11-01&g=2010-11-01"
+jci_1_0: "1.0:c:BWBR0028190&g=2010-11-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid archief voorwaardelijke invrijheidstellingen van het Ministerie van Justitie, periode 1950−1978"
+signed_date: "2010-07-14"
+entry_into_force: "2010-11-01"
 ---
-
 # Besluit van de Minister van Justitie, houdende beperking van de openbaarheid van het archief van de voorwaardelijke invrijheidstellingen van het Ministerie van Justitie, periode 1950−1978
 
 Als bedoeld in [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) ;

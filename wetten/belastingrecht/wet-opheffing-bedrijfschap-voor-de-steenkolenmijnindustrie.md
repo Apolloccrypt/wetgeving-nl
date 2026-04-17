@@ -1,14 +1,38 @@
 ---
-title: "Wet opheffing bedrijfschap voor de Steenkolenmijnindustrie"
+title: "Wet van 4 februari 1976, tot opheffing van het bedrijfschap voor de Steenkolenmijnindustrie"
 identifier: "BWBR0003017"
-categorie: "Belastingrecht"
-publicatiedatum: 1996-01-01
-laatste_update: 1996-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003017"
+country: "nl"
+rank: "wet"
+publication_date: "1996-01-01"
+last_updated: "1996-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003017"
+soort: "wet"
+stam_id: "1822783"
+version_id: "2716672"
+internal_id: "C2716671"
+label_id: "1777754"
+dtd_version: "2.0"
+original_entry_into_force: "1976-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003017/1996-01-01/0"
+intitule_bron: "Stb.1976-85"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1976-02-04"
+intitule_status: "goed"
+original_publication: "Stb.1976-85"
+original_signed_date: "1976-02-04"
+original_effect: "nieuwe-regeling"
+original_dossier: "13521"
+entry_into_force_date: "1976-04-01"
+entry_into_force_dossier: "13521"
+jci_1_3: "jci1.3:c:BWBR0003017&z=1996-01-01&g=1996-01-01"
+jci_1_0: "1.0:c:BWBR0003017&g=1996-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet opheffing bedrijfschap voor de Steenkolenmijnindustrie"
+signed_date: "1976-02-04"
+entry_into_force: "1976-04-01"
 ---
-
-# Wet opheffing bedrijfschap voor de Steenkolenmijnindustrie
+# Wet van 4 februari 1976, tot opheffing van het bedrijfschap voor de Steenkolenmijnindustrie
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +40,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is overeenkomstig het d
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het Bedrijfschap voor de Steenkolenmijnindustrie, ingesteld bij het Mijnstatuut 1954 (**Stb.** 1954, 463), is opgeheven.
 
@@ -26,13 +50,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. Tot het tijdstip waarop naar zijn oordeel in de in het vorige lid bedoelde ondernemingen de werkzaamheden ten behoeve van of verband houdende met de afbouw van steenkolenmijnen beëindigd zijn, worden de in het vorige lid bedoelde lonen en andere arbeidsvoorwaarden door Onze Minister van Sociale Zaken, de betrokken ondernemers en de betrokken organisaties van werknemers gehoord, op een door hem te bepalen wijze aangepast overeenkomstig de algemene wijzigingen in de lonen en de andere arbeidsvoorwaarden vun de werknemers werkzaam in de in Limbucg gevestigde chemische ondernemingen van de BV DSM Limburg.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Van de inwerkingtreding van deze wet af berust het beheer van het vermogen van het bedrijfschap bij de Sociaal-Economische Raad.
 
 2. Rechtsvorderingen welke tot het vermogen van het bedrijfschap behorende rechten of verplichtingen tot onderwerp hebben, worden ingesteld door of tegen de Sociaal-Economische Raad.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Sociaal-Economische Raad is belast met de vereffening van het vermogen van het bedrijfschap. Hij kan daartoe de tot het vermogen behorende roerende en onroerende zaken vervreemden.
 
@@ -40,13 +64,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. De vaststelling van de rekening van inkomsten en uitgaven door de Raad strekt tot décharge van het dagelijks bestuur van het bedrijfschap, behoudens in geval van later gebleken valsheid in bewijsstukken of andere onregelmatigheden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Sociaal-Economische Raad maakt de aanvang van de vereffening bekend in de **Staatscourant** en in het Mededelingenblad Bedrijfsorganisatie; alsmede in de daartoe naar zijn mening in aanmerking komende nieuwsbladen, onder vermelding van de afkondiging van deze wet.
 
 2. In de bekendmaking worden degenen die een vordering op het bedrijfschap hebben, opgeroepen die vordering binnen een daarbij aangegeven termijn bij de Raad in te dienen. Deze termijn wordt niet korter gesteld dan zes maanden, te rekenen vanaf de dag na de bekendmaking.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De opheffing van het bedrijfschap tast de rechtskracht van de door dat lichaam wettig opgelegde heffingsaanslagen van het bedrijf-
 
@@ -56,7 +80,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. Ten aanzien van een heffingsverordening als in het vorige lid bedoeld en de krachtens die verordening opgelegde aanslagen zijn de [artikelen 126](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), [127](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127) en [127**a** van de Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127a) van overeenkomstige toepassing.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Zo spoedig mogelijk nadat de Sociaal-Economische Raad het vermogen van het bedrijfschap heeft vereffend, brengt hij daarover aan Ons verslag uit. Het verslag gaat vergezeld van een door de Raad vastgestelde rekening van baten en lasten.
 
@@ -66,25 +90,25 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. De rekening behoeft Onze goedkeuring. De goedkeuring strekt tot décharge van de Raad. De Raad doet van het verlenen van de goedkeuring zo spoedig mogelijk openbare kennisgeving op de wijze als is aangegeven in het tweede lid.
 
-#### Artikel 7
+##### Artikel 7
 
 Hetgeen blijkens de goedgekeurde rekening aan vermogen van het bedrijfschap over is, wordt door de Sociaal-Economische Raad aan de in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003017&artikel=5&z=1996-01-01&g=1996-01-01), bedoelde ondernemers overgedragen, voor zover deze nog aanwezig zijn. De verdeling over de onderscheiden ondernemers geschiedt volgens de maatstaf bedoeld in dat lid.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De opheffing van het bedrijfschap heeft geen gevolgen voor de ontvankelijkheid van beroepen ingevolge de Wet administratieve rechtspraak bedrijfsorganisatie. In plaats van het bedrijfschap treedt de Sociaal-Economische Raad als partij op.
 
 2. Uitspraken van het College van Beroep voor het bedrijfsleven, gedaan tegen het bedrijfschap, of, op grond van het eerste lid, tegen de Sociaal-Economische Raad, worden door de Raad uitgevoerd, voor zover nodig ten laste van het vermogen van het opgeheven bedrijfschap.
 
-#### Artikel 9
+##### Artikel 9
 
 De Sociaal-Economische Raad draagt zorg, in de zin van de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) (**Stb.** 276) voor de archiefbescheiden van het bedrijfschap, totdat daaromtrent door Onze Minister, belast met de zaken van de publiekrechtelijke bedrijfsorganisatie, in overeenstemming met Onze Minister die het mede aangaat, een andere regeling is getroffen.
 
-#### Artikel 10
+##### Artikel 10
 
 Het Mijnstatuut 1954 wordt ingetrokken.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Deze wet kan worden aangehaald als Wet opheffing bedrijfschap voor de Steenkolenmijnindustrie.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit beperking openbaarheid archiefbescheiden archief van de Nederlandse diplomatieke vertegenwoordiging Noorwegen, Ambassade Oslo (1963)1975-2013"
+title: "Besluit van de Minister van Buitenlandse Zaken van 20 april 2022, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Noorwegen, Ambassade Oslo (1963)1975-2013, Besluit Beperking Openbaarheid, Oslo (1975–2013)"
 identifier: "BWBR0046713"
-categorie: "Onderwijs"
-publicatiedatum: 2022-05-28
-laatste_update: 2022-05-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046713"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-05-28"
+last_updated: "2022-05-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046713"
+soort: "ministeriele-regeling"
+stam_id: "16371013"
+version_id: "28654132"
+internal_id: "C40432261"
+label_id: "16295224"
+dtd_version: "2.0"
+original_entry_into_force: "2022-05-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046713/2022-05-28/0"
+intitule_bron: "Stcrt.2022-13981"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-04-20"
+intitule_published: "2022-05-27"
+intitule_in_force: "2022-05-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-13981"
+original_signed_date: "2022-04-20"
+original_published_date: "2022-05-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-13981"
+entry_into_force_date: "2022-05-28"
+jci_1_3: "jci1.3:c:BWBR0046713&z=2022-05-28&g=2022-05-28"
+jci_1_0: "1.0:c:BWBR0046713&g=2022-05-28"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid archiefbescheiden archief van de Nederlandse diplomatieke vertegenwoordiging Noorwegen, Ambassade Oslo (1963)1975-2013"
+signed_date: "2022-04-20"
+entry_into_force: "2022-05-28"
 ---
-
 # Besluit van de Minister van Buitenlandse Zaken van 20 april 2022, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Noorwegen, Ambassade Oslo (1963)1975-2013, Besluit Beperking Openbaarheid, Oslo (1975–2013)
 
 Overwegende dat een aantal inventarisnummers in het archief beperkingen aan de openbaarheid behoeven;
@@ -16,7 +42,7 @@ Gelet op [artikel 15, eerste lid, onder a en b, van de Archiefwet 1995](https://
 
 Besluit
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de bescherming van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom, beperkt tot 1 januari van het jaar, genoemd in de tweede kolom.
 
@@ -41,7 +67,7 @@ Met het oog op de bescherming van de persoonlijke levenssfeer zijn de inventaris
 | 280 | 2039 |
 | 292 | 2071 |
 
-#### Artikel 2
+##### Artikel 2
 
 Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede klom.
 
@@ -71,15 +97,15 @@ Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnum
 | 323 | 2059 |
 | 327 | 2084 |
 
-#### Artikel 3
+##### Artikel 3
 
 Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046713&artikel=1&z=2022-05-28&g=2022-05-28), is, tot openbaring, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden. (De algemene rijksarchivaris behandelt verzoeken tot raadpleging in de inventarisnummers, volgens de procedures die gelden voor inzage in archieven met (bijzondere) persoonsgegevens).
 
-#### Artikel 4
+##### Artikel 4
 
 Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046713&artikel=1&z=2022-05-28&g=2022-05-28) is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

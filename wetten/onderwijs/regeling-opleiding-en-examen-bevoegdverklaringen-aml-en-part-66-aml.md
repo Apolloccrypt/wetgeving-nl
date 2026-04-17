@@ -1,13 +1,39 @@
 ---
-title: "Regeling opleiding en examen bevoegdverklaringen AML en Part-66 AML"
+title: "Regeling houdende regels met betrekking tot opleidingen en examens ter verkrijging van bewijzen van bevoegdheid voor onderhoudstechnici (Regeling opleiding en examen bevoegdverklaringen AML en Part-66 AML)"
 identifier: "BWBR0024639"
-categorie: "Onderwijs"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024639"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024639"
+soort: "ministeriele-regeling"
+stam_id: "9755283"
+version_id: "15810232"
+internal_id: "C21603411"
+label_id: "9732354"
+dtd_version: "2.0"
+original_entry_into_force: "2008-10-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024639/2020-01-01/0"
+intitule_bron: "Stcrt.2008-207"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-10-14"
+intitule_published: "2008-10-24"
+intitule_in_force: "2008-10-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-207"
+original_signed_date: "2008-10-14"
+original_published_date: "2008-10-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-286"
+entry_into_force_date: "2008-10-26"
+jci_1_3: "jci1.3:c:BWBR0024639&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0024639&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling opleiding en examen bevoegdverklaringen AML en Part-66 AML"
+signed_date: "2008-10-14"
+entry_into_force: "2008-10-26"
 ---
-
 # Regeling houdende regels met betrekking tot opleidingen en examens ter verkrijging van bewijzen van bevoegdheid voor onderhoudstechnici (Regeling opleiding en examen bevoegdverklaringen AML en Part-66 AML)
 
 Gelet op [Verordening (EG) nr. 2042/2003](32003R2042) van de Commissie van de Europese Gemeenschappen van 20 november 2003 betreffende de permanente luchtwaardigheid van luchtvaartuigen en luchtvaartproducten, -onderdelen en -uitrustingsstukken, en betreffende de goedkeuring van bij voornoemde taken betrokken organisaties en personen (PbEU L 315) en de [artikelen 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=13), [14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=14), [15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=15) en [16 van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=16);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -28,23 +54,23 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Geregistreerde opleidingsinstellingen
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling berust op verordening (EU) nr. 1321/2014 en de [artikelen 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=13), [14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=15) en [16 van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=16).
 
 ### Hoofdstuk 3. Examinatoren
 
-#### Artikel 3
+##### Artikel 3
 
 De ingevolge [artikel 15, tweede lid, van het Besluit bewijzen van bevoedheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=15) benoemde examinatoren en examinatoren in dienst van erkende opleidingsinstellingen zijn bevoegd tot het afnemen van het examen waarmee wordt aangetoond dat wordt voldaan aan de eisen inzake basiskennis of typekennis voor de afgifte van de bijzondere bevoegdverklaringen die kunnen worden vermeld op een AML of een Part-66 AML conform respectievelijk de [Regeling bijzondere bevoegdverklaringen AML en Part-66 AML](https://wetten.overheid.nl/jci1.3:c:BWBR0024644) en bijlage II bij verordening (EU) nr. 1321/2014.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De minister stelt ten minste eenmaal per twee jaar het aantal examinatoren vast en biedt gelegenheid aan erkende onderhoudsorganisaties, erkende opleidingsinstellingen en examinatoren, bij een vacature personen voor te dragen.
 
 2. De minister kan een voorgedragen persoon voor ten hoogste twee jaren benoemen als examinator, nadat is aangetoond, dat hij of zij beschikt over de kennis, ervaring en bekwaamheid die voor het afnemen van het examen relevant is.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een examinator heeft recht op een vergoeding voor de door hem verrichte werkzaamheden.
 
@@ -58,11 +84,11 @@ De ingevolge [artikel 15, tweede lid, van het Besluit bewijzen van bevoedheid vo
 
 3. Het eerste lid is niet van toepassing op de examinator die rijksambtenaar is en de betreffende werkzaamheden verricht tijdens diensttijd.
 
-#### Artikel 6
+##### Artikel 6
 
 De examinator is verplicht tot geheimhouding met betrekking tot de examenopgaven en de overige gegevens waarvan de vertrouwelijke aard is vastgesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De benoeming tot examinator kan worden geschorst wanneer een ernstig vermoeden bestaat dat de examinator in strijd heeft gehandeld met het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=3&artikel=6&z=2020-01-01&g=2020-01-01), of het examenreglement.
 
@@ -70,11 +96,11 @@ De examinator is verplicht tot geheimhouding met betrekking tot de examenopgaven
 
 ### Hoofdstuk 4. Examenreglement
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 1. De basiskennismodules die deel uitmaken van het examen voor de in tabel 1 genoemde bevoegdverklaringen op een AML zijn vastgelegd in tabel 2 en nader gespecificeerd in de bij deze regeling behorende [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=1&z=2020-01-01&g=2020-01-01).
 
@@ -125,17 +151,17 @@ Vervallen
 
 8. Het examen, bedoeld in het zesde lid, bestaat uit een theorie- en een praktijkgedeelte en duurt ten hoogste 120 minuten. Het examen typebevoegdheid is met goed gevolg afgelegd wanneer de examinandus het cijfer 6,0 of hoger heeft behaald.
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 1. Als regel wordt tweemaal per jaar gelegenheid gegeven tot het afleggen van het examen.
 
 2. In afwijking van het eerste lid kan, wanneer in een jaar het aantal examenkandidaten minder dan 10 bedraagt, de minister besluiten dat in het daaropvolgende jaar slechts eenmaal gelegenheid wordt gegeven tot het afleggen van het examen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Aanmelding van het examen vindt plaats bij de minister.
 
@@ -143,13 +169,13 @@ Vervallen
 
 3. Toelating vindt plaats nadat de kosten volgens de [Regeling tarieven luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0023145) zijn vergoed en de examinandus een wettig en geldig legitimatiebewijs heeft overgelegd.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De examinandus kan door de examinator van verdere deelname aan het examen worden uitgesloten indien deze in strijd handelt met het reglement, bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=4&z=2020-01-01&g=2020-01-01) van deze regeling.
 
 2. De minister wordt door de examinator over een uitsluiting, bedoeld in het eerste lid, geïnformeerd.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het examenresultaat wordt als regel beoordeeld door de examinator die het examen heeft afgenomen. De minister kan een andere examinator voor de beoordeling van het examenresultaat aanwijzen.
 
@@ -159,15 +185,15 @@ Vervallen
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 De [Regeling opleiding en examen bevoegdverklaringen AML en JAR-66 AML](https://wetten.overheid.nl/jci1.3:c:BWBR0012925) wordt ingetrokken.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze regeling wordt aangehaald als: Regeling opleiding en examen bevoegdverklaringen AML en Part-66 AML.
 
@@ -343,7 +369,7 @@ Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de b
 
 ### Hoofdstuk 2. Vervallen
 
-#### Artikel 14a
+##### Artikel 14a
 
 Ten behoeve van een ordentelijk verloop van het examen stelt de examencommissie een huishoudelijk reglement vast waarin in ieder geval zijn omschreven het toezicht, de ordemaatregelen en consequenties van het plegen van onregelmatigheden.
 

@@ -1,20 +1,46 @@
 ---
-title: "Regeling instellingssubsidie vakwedstrijden vo en mbo 2026–2036"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 31 maart 2025, nr. MBO/1649552, houdende regels voor het verstrekken van een instellingssubsidie ten behoeve van het organiseren van nationale vakwedstrijden in het voortgezet (speciaal) onderwijs en beroepsonderwijs alsmede het voorbereiden op en deelname aan internationale vakwedstrijden in het beroepsonderwijs (Regeling instellingssubsidie vakwedstrijden vo en mbo 2026–2036)"
 identifier: "BWBR0050945"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-06-01
-laatste_update: 2025-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050945"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-06-01"
+last_updated: "2025-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050945"
+soort: "ministeriele-regeling"
+stam_id: "17408903"
+version_id: "30694942"
+internal_id: "C44000171"
+label_id: "17312234"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050945/2025-06-01/0"
+intitule_bron: "Stcrt.2025-13054"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-03-31"
+intitule_published: "2025-04-15"
+intitule_in_force: "2025-04-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-13054"
+original_signed_date: "2025-03-31"
+original_published_date: "2025-04-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-13054"
+entry_into_force_date: "2025-06-01"
+jci_1_3: "jci1.3:c:BWBR0050945&z=2025-06-01&g=2025-06-01"
+jci_1_0: "1.0:c:BWBR0050945&g=2025-06-01"
+citeertitel_status: "officieel"
+short_title: "Regeling instellingssubsidie vakwedstrijden vo en mbo 2026–2036"
+signed_date: "2025-03-31"
+entry_into_force: "2025-06-01"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 31 maart 2025, nr. MBO/1649552, houdende regels voor het verstrekken van een instellingssubsidie ten behoeve van het organiseren van nationale vakwedstrijden in het voortgezet (speciaal) onderwijs en beroepsonderwijs alsmede het voorbereiden op en deelname aan internationale vakwedstrijden in het beroepsonderwijs (Regeling instellingssubsidie vakwedstrijden vo en mbo 2026–2036)
 
 Gelet op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=2) en [4 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
 
 Besluiten:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -42,11 +68,11 @@ In deze regeling wordt verstaan onder:
 
 - **vwo:** voorbereidend wetenschappelijk onderwijs als bedoeld in [artikel 2.4 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.4).
 
-#### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Doel en te subsidiëren activiteiten
+##### Artikel 3. Doel en te subsidiëren activiteiten
 
 1. De minister kan voor de boekjaren, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050945&artikel=4&z=2025-06-01&g=2025-06-01), aan de rechtspersoon, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050945&artikel=6&z=2025-06-01&g=2025-06-01), jaarlijks een instellingssubsidie verstrekken voor:
 
@@ -64,7 +90,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - b. het promoten van het beroepsonderwijs en het inspireren en uitnodigen van jongeren om beroepsonderwijs te gaan volgen.
 
-#### Artikel 4. Subsidieplafond
+##### Artikel 4. Subsidieplafond
 
 1. Voor subsidieverstrekking op grond van deze regeling is voor de periode van 1 april 2026 tot en met 31 maart 2036 per boekjaar beschikbaar:
 
@@ -80,7 +106,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 3. Het bedrag, bedoeld in het eerste lid, onderdeel c, kan voor ten hoogste 10% van het bij het besluit tot verlening bepaalde bedrag worden ingezet voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050945&artikel=3&z=2025-06-01&g=2025-06-01).
 
-#### Artikel 5. Subsidieaanvraag
+##### Artikel 5. Subsidieaanvraag
 
 1. Voor de instellingssubsidie voor het boekjaar 2026 kan van 2 juni 2025 tot en met 2 juli 2025 tot 12:00 uur een aanvraag worden ingediend. De rechtspersoon waaraan subsidie voor het boekjaar 2026 is verstrekt, dient voor de boekjaren 2027 tot en met 2035 uiterlijk 13 weken voor de aanvang van het boekjaar waarvoor de subsidie wordt aangevraagd, een aanvraag in.
 
@@ -98,7 +124,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 5. De subsidie wordt aangevraagd met het formulier dat is bekendgemaakt op de website [www.dus-i.nl/subsidies/vakwedstrijden](http://www.dus-i.nl/subsidies/vakwedstrijden) en kan via deze website worden ingediend.
 
-#### Artikel 6. Wijze van verdeling beschikbare middelen
+##### Artikel 6. Wijze van verdeling beschikbare middelen
 
 1. Aanvragen die niet tijdig zijn ingediend, worden afgewezen.
 
@@ -110,7 +136,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 5. De minister beslist voor het boekjaar 2026 binnen 22 weken na afloop van de periode waarin de aanvragen kunnen worden ingediend gelijktijdig op de aanvragen.
 
-#### Artikel 7. Beoordeling subsidieaanvraag
+##### Artikel 7. Beoordeling subsidieaanvraag
 
 Een aanvraag wordt aan de hand van de volgende criteria, zoals uitgewerkt in de bijlage behorende bij deze regeling, beoordeeld:
 
@@ -126,7 +152,7 @@ Een aanvraag wordt aan de hand van de volgende criteria, zoals uitgewerkt in de 
 
 - f. promotionele activiteiten.
 
-#### Artikel 8. Weigeringsgronden
+##### Artikel 8. Weigeringsgronden
 
 In aanvulling op [artikel 4:25](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:25) en [4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) kan de subsidieverstrekking worden geweigerd indien:
 
@@ -136,7 +162,7 @@ In aanvulling op [artikel 4:25](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&
 
 - c. onvoldoende is aangetoond dat de geraamde kosten noodzakelijk zijn voor het uitvoeren van de activiteiten waarvoor subsidie wordt aangevraagd.
 
-#### Artikel 9. Verplichtingen
+##### Artikel 9. Verplichtingen
 
 1. De subsidieontvanger zendt aan de minister jaarlijks vóór 1 oktober een voortgangsrapportage waarin de subsidieontvanger aangeeft wat de stand van zaken is met betrekking tot de activiteit.
 
@@ -144,19 +170,19 @@ In aanvulling op [artikel 4:25](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&
 
 3. De subsidieontvanger verleent medewerking aan een evaluatie van de doeltreffendheid en de effecten van de aan hem verstrekte subsidie, voor zover medewerking redelijkerwijs van hem kan worden verlangd.
 
-#### Artikel 10. Betaling
+##### Artikel 10. Betaling
 
 De minister bepaalt in de beschikking het betaalritme van de voorschotten. Betaling geschiedt per kwartaal, in gelijke delen.
 
-#### Artikel 11. Verantwoording
+##### Artikel 11. Verantwoording
 
 De verantwoording vindt jaarlijks plaats overeenkomstig [artikel 7.8 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.8).
 
-#### Artikel 12. Vaststelling
+##### Artikel 12. Vaststelling
 
 Indien de activiteit waarvoor de subsidie in enig boekjaar is verleend geheel is verricht en volledig is voldaan aan de verplichtingen die verbonden zijn aan de verleende subsidie, wordt de subsidie voor dat boekjaar, jaarlijks vastgesteld op het bedrag dat bestaat uit de gerealiseerde kosten verminderd met de gerealiseerde bijdragen van derden en de begrote eigen bijdrage of de gerealiseerde eigen bijdrage indien deze hoger is dan de begrote eigen bijdrage tot ten hoogste het in het besluit tot verlening genoemde bedrag, verminderd met de maximaal toegestane toevoeging aan de egalisatiereserve voor zover een egalisatiereserve wordt aangehouden.
 
-#### Artikel 13. Egalisatiereserve
+##### Artikel 13. Egalisatiereserve
 
 1. De subsidieontvanger vormt een egalisatiereserve.
 
@@ -164,7 +190,7 @@ Indien de activiteit waarvoor de subsidie in enig boekjaar is verleend geheel is
 
 3. De egalisatiereserve wordt in een boekjaar uitsluitend besteed aan de activiteit bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050945&artikel=3&z=2025-06-01&g=2025-06-01), waarvoor de subsidieontvanger in dat boekjaar een subsidie heeft ontvangen, en die niet kan worden bekostigd uit de subsidie die is verleend ten behoeve van dat boekjaar.
 
-#### Artikel 14. Inwerkingtreding en vervaldatum
+##### Artikel 14. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van 1 juni 2025.
 
@@ -172,7 +198,7 @@ Indien de activiteit waarvoor de subsidie in enig boekjaar is verleend geheel is
 
 3. Deze regeling wordt uiterlijk 1 januari 2035 geëvalueerd.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling instellingssubsidie vakwedstrijden vo en mbo 2026–2036.
 

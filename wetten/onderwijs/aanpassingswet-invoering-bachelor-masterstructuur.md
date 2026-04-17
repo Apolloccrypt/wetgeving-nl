@@ -1,14 +1,40 @@
 ---
-title: "Aanpassingswet invoering bachelor-masterstructuur"
+title: "Wet van 23 december 2004 tot wijziging van een aantal wetten in verband met de invoering van de bachelor-masterstructuur in het hoger onderwijs (Aanpassingswet invoering bachelor-masterstructuur)"
 identifier: "BWBR0017830"
-categorie: "Onderwijs"
-publicatiedatum: 2018-05-01
-laatste_update: 2018-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017830"
+country: "nl"
+rank: "wet"
+publication_date: "2018-05-01"
+last_updated: "2018-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017830"
+soort: "wet"
+stam_id: "6681363"
+version_id: "11521092"
+internal_id: "C15676641"
+label_id: "6670104"
+original_entry_into_force: "2005-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017830/2018-05-01/0"
+intitule_bron: "Stb.2005-32"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-12-23"
+intitule_published: "2005-01-27"
+intitule_in_force: "2005-02-22"
+intitule_status: "goed"
+original_publication: "Stb.2005-32"
+original_signed_date: "2004-12-23"
+original_published_date: "2005-01-27"
+original_effect: "nieuwe-regeling"
+original_dossier: "28925"
+original_url_id: "stb-2005-32"
+entry_into_force_date: "2005-03-01"
+jci_1_3: "jci1.3:c:BWBR0017830&z=2018-05-01&g=2018-05-01"
+jci_1_0: "1.0:c:BWBR0017830&g=2018-05-01"
+citeertitel_status: "officieel"
+short_title: "Aanpassingswet invoering bachelor-masterstructuur"
+signed_date: "2004-12-23"
+entry_into_force: "2005-03-01"
 ---
-
-# Aanpassingswet invoering bachelor-masterstructuur
+# Wet van 23 december 2004 tot wijziging van een aantal wetten in verband met de invoering van de bachelor-masterstructuur in het hoger onderwijs (Aanpassingswet invoering bachelor-masterstructuur)
 
 ### Hoofdstuk 1. Ministerie van Algemene Zaken
 
@@ -20,63 +46,63 @@ bron: "https://wetten.overheid.nl/BWBR0017830"
 
 ### Hoofdstuk 5. Ministerie van Onderwijs, Cultuur en Wetenschap
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 Wijzigt de Wet op de expertisecentra.
 
-#### Artikel 5.2
+##### Artikel 5.2
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
-#### Artikel 5.2a
+##### Artikel 5.2a
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
-#### Artikel 5.3
+##### Artikel 5.3
 
 Wijzigt de Wet op het primair onderwijs.
 
-#### Artikel 5.4
+##### Artikel 5.4
 
 Wijzigt de Wet op het voortgezet onderwijs.
 
-#### Artikel 5.5
+##### Artikel 5.5
 
 Wijzigt de Wet studiefinanciering 2000.
 
-#### Artikel 5.5a
+##### Artikel 5.5a
 
 Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
 
-#### Artikel 5.6
+##### Artikel 5.6
 
 Vervallen
 
-#### Artikel 5.7
+##### Artikel 5.7
 
 Vervallen
 
-#### Artikel 5.8
+##### Artikel 5.8
 
 Wijzigt de Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek enz. (verbeteringen en aanvullingen van overwegend technische aard).
 
-#### Artikel 5.9
+##### Artikel 5.9
 
 Wijzigt de Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek enz. (verbeteringen en aanvullingen van overwegend technische aard).
 
-#### Artikel 5.10
+##### Artikel 5.10
 
 Wijzigt de Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek en Wet op de studiefinanciering (uitvoering van in het hoger onderwijs- en onderzoekplan 1996 aangekondigde maatregelen).
 
-#### Artikel 5.11
+##### Artikel 5.11
 
 Wijzigt de Wijzigingswet van enkele onderwijswetten in verband met de invoering van persoonsgebonden nummers in het onderwijs.
 
-#### Artikel 5.12
+##### Artikel 5.12
 
 Wijzigt de Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet studiefinanciering 2000 (invoering bachelor-masterstructuur in het hoger onderwijs).
 
-#### Artikel 5.13
+##### Artikel 5.13
 
 Wijzigt de Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek (onder meer ter uitvoering van in de nota «Zicht op kwaliteit» aangekondigde maatregelen).
 
@@ -96,47 +122,47 @@ dat het voorts wenselijk is in de [Wet op het hoger onderwijs en wetenschappelij
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 Wijzigt de Wet op de inlichtingen- en veiligheidsdiensten 2002.
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 Wijzigt de Wet op de Raad van State.
 
 ### Hoofdstuk 3. Ministerie van Justitie
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 Wijzigt de Advocatenwet.
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 Wijzigt de Pachtwet.
 
-#### Artikel 3.3
+##### Artikel 3.3
 
 Wijzigt de Vreemdelingenwet 2000.
 
-#### Artikel 3.4
+##### Artikel 3.4
 
 Wijzigt de Wet op het notarisambt.
 
-#### Artikel 3.5
+##### Artikel 3.5
 
 Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
 
 ### Hoofdstuk 4. Ministerie van Landbouw, Natuur en Voedselkwaliteit
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 Wijzigt de Visserijwet 1963.
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 Wijzigt de Wet op de uitoefening van de diergeneeskunde 1990.
 
-#### Artikel 4.3
+##### Artikel 4.3
 
 Wijzigt de Zaaizaad- en Plantgoedwet.
 
@@ -144,27 +170,27 @@ Wijzigt de Zaaizaad- en Plantgoedwet.
 
 ### Hoofdstuk 6. Ministerie van Verkeer en Waterstaat
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 Wijzigt de Loodsenwet.
 
-#### Artikel 6.2
+##### Artikel 6.2
 
 Wijzigt de Zeevaartbemanningswet.
 
 ### Hoofdstuk 7. Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
 
-#### Artikel 7.1
+##### Artikel 7.1
 
 Wijzigt de Kadasterwet.
 
-#### Artikel 7.2
+##### Artikel 7.2
 
 Wijzigt de Uitvoeringswet huurprijzen woonruimte.
 
 ### Hoofdstuk 8. Overgangsbepalingen
 
-#### Artikel 8.1
+##### Artikel 8.1
 
 1. Voor de toepassing van de in het tweede lid genoemde artikelen wordt met degene aan wie door een universiteit of de Open Universiteit waarop de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) betrekking heeft, de graad Bachelor op het gebied van het recht is verleend, gelijkgesteld degene die:
 
@@ -202,7 +228,7 @@ Onder het met goed afleggen van een tentamen wordt mede begrepen de verlening va
 
 - m. [de artikelen 55b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=55b), en [55f, eerste lid, van de Zeevaartbemanningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=55f).
 
-#### Artikel 8.2
+##### Artikel 8.2
 
 Voor de toepassing van de artikelen, genoemd in [artikel 8.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017830&hoofdstuk=8&artikel=8.1&z=2018-05-01&g=2018-05-01), wordt met degene aan wie door een universiteit of de Open Universiteit waarop de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) betrekking heeft, de graad Bachelor op het gebied van het recht is verleend en tevens de graad Master op het gebied van het recht is verleend, gelijkgesteld degene:
 
@@ -212,11 +238,11 @@ Voor de toepassing van de artikelen, genoemd in [artikel 8.1, tweede lid](https:
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 9.1
+##### Artikel 9.1
 
 De tekst van de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=5), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=18) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=19) en van de [bijlage van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) wordt in het Staatsblad geplaatst.
 
-#### Artikel 9.2
+##### Artikel 9.2
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
@@ -230,7 +256,7 @@ De tekst van de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005682
 
 - d. [artikel 5.2, onderdeel Zb](https://wetten.overheid.nl/jci1.3:c:BWBR0017830&hoofdstuk=5&artikel=5.2&z=2018-05-01&g=2018-05-01), tot en met 1 september 2002.
 
-#### Artikel 9.3
+##### Artikel 9.3
 
 Voorzover een algemene maatregel van bestuur als bedoeld in de onderstaande artikelen niet binnen twee jaar na inwerkingtreding van deze wet tot stand is gekomen, vervallen de desbetreffende artikelen:
 
@@ -268,7 +294,7 @@ Voorzover een algemene maatregel van bestuur als bedoeld in de onderstaande arti
 
 - q. [artikel 23, lid 2a, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=23).
 
-#### Artikel 9.4
+##### Artikel 9.4
 
 Deze wet wordt aangehaald als: Aanpassingswet invoering bachelor-masterstructuur.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit houdende aanwijzing beheerautoriteit en de auditautoriteit voor Interreg-programma Maas Rijn 2021–2027"
+title: "Besluit van de Minister van Economische Zaken en Klimaat van 17 december 2022, nr. WJZ/22253869, houdende aanwijzing van de beheerautoriteit en de auditautoriteit voor het Interreg-programma Maas Rijn (NL-BE-DE) 2021–2027"
 identifier: "BWBR0047658"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-12-21
-laatste_update: 2022-12-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047658"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-12-21"
+last_updated: "2022-12-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047658"
+soort: "ministeriele-regeling"
+stam_id: "16603603"
+version_id: "29118852"
+internal_id: "C41385871"
+label_id: "16522134"
+dtd_version: "2.0"
+original_entry_into_force: "2022-12-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047658/2022-12-21/0"
+intitule_bron: "Stcrt.2022-33839"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-12-17"
+intitule_published: "2022-12-20"
+intitule_in_force: "2022-12-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-33839"
+original_signed_date: "2022-12-17"
+original_published_date: "2022-12-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-33839"
+entry_into_force_date: "2022-12-21"
+jci_1_3: "jci1.3:c:BWBR0047658&z=2022-12-21&g=2022-12-21"
+jci_1_0: "1.0:c:BWBR0047658&g=2022-12-21"
+citeertitel_status: "redactioneel"
+short_title: "Besluit houdende aanwijzing beheerautoriteit en de auditautoriteit voor Interreg-programma Maas Rijn 2021–2027"
+signed_date: "2022-12-17"
+entry_into_force: "2022-12-21"
 ---
-
 # Besluit van de Minister van Economische Zaken en Klimaat van 17 december 2022, nr. WJZ/22253869, houdende aanwijzing van de beheerautoriteit en de auditautoriteit voor het Interreg-programma Maas Rijn (NL-BE-DE) 2021–2027
 
 Gelet op:
@@ -26,7 +52,7 @@ Gezien de partnerschapsovereenkomst inzake het beheer, de financiering en de uit
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -34,13 +60,13 @@ In dit besluit wordt verstaan onder:
 
 - **Interreg-programma Maas-Rijn NL-BE-DE 2021–2027:** Interreg-programma als bedoeld in artikel 16 van [verordening 2021/1059](32959R2021).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het College van gedeputeerde staten van de provincie Limburg wordt aangewezen als beheerautoriteit, bedoeld in artikel 45, eerste lid, van [verordening 2021/1059](32959R2021), voor het Interreg-programma Maas-Rijn 2021–2027.
 
 2. De directeur van de Auditdienst Rijk wordt aangewezen als auditautoriteit, bedoeld in artikel 45, eerste lid, van [verordening 2021/1059](32959R2021), voor het Interreg-programma Maas-Rijn 2021–2027.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

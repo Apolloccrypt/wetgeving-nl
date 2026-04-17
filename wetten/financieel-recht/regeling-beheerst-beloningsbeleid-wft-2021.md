@@ -1,13 +1,39 @@
 ---
-title: "Regeling beheerst beloningsbeleid Wft 2021"
+title: "Regeling van De Nederlandsche Bank N.V. en de Stichting Autoriteit Financiële Markten van 16 september 2021 houdende regels met betrekking tot het beheerst beloningsbeleid van banken, beleggingsondernemingen en premiepensioeninstellingen (Regeling beheerst beloningsbeleid Wft 2021)"
 identifier: "BWBR0045660"
-categorie: "Financieel recht"
-publicatiedatum: 2021-10-19
-laatste_update: 2021-10-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045660"
+country: "nl"
+rank: "zbo"
+publication_date: "2021-10-19"
+last_updated: "2021-10-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045660"
+soort: "zbo"
+stam_id: "16090163"
+version_id: "28052652"
+internal_id: "C39614431"
+label_id: "16021284"
+dtd_version: "2.0"
+original_entry_into_force: "2021-10-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045660/2021-10-19/0"
+intitule_bron: "Stcrt.2021-42301"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-09-16"
+intitule_published: "2021-10-01"
+intitule_in_force: "2021-10-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-42301"
+original_signed_date: "2021-09-16"
+original_published_date: "2021-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-42301"
+entry_into_force_date: "2021-10-19"
+jci_1_3: "jci1.3:c:BWBR0045660&z=2021-10-19&g=2021-10-19"
+jci_1_0: "1.0:c:BWBR0045660&g=2021-10-19"
+citeertitel_status: "officieel"
+short_title: "Regeling beheerst beloningsbeleid Wft 2021"
+signed_date: "2021-09-16"
+entry_into_force: "2021-10-19"
 ---
-
 # Regeling van De Nederlandsche Bank N.V. en de Stichting Autoriteit Financiële Markten van 16 september 2021 houdende regels met betrekking tot het beheerst beloningsbeleid van banken, beleggingsondernemingen en premiepensioeninstellingen (Regeling beheerst beloningsbeleid Wft 2021)
 
 Gelet op [artikel 1:117, vierde lid en vijfde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:117);
@@ -20,7 +46,7 @@ Treedt in werking op het tijdstip waarop artikel I, onderdeel N, van de Implemen
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -36,11 +62,11 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Beginselen voor een beheerst beloningsbeleid
 
-#### Artikel 2
+##### Artikel 2
 
 Als onderdeel van de beheerste bedrijfsvoering voert een bank of beleggingsonderneming onder de verordening kapitaalvereisten, met inachtneming van [hoofdstuk 1.7 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&hoofdstuk=1.7), een beloningsbeleid dat voldoet aan de vereisten in bijlage A bij deze regeling.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Als onderdeel van de beheerste bedrijfsvoering voert een beleggingsonderneming in de zin van de richtlijn prudentieel toezicht beleggingsondernemingen, niet zijnde een kleine en niet-verweven beleggingsonderneming als bedoeld in artikel 12, eerste lid, van de verordening prudentiële vereisten voor beleggingsondernemingen, met inachtneming van [hoofdstuk 1.7 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&hoofdstuk=1.7), een beloningsbeleid dat voldoet aan de vereisten in bijlage B bij deze regeling.
 
@@ -48,21 +74,21 @@ Als onderdeel van de beheerste bedrijfsvoering voert een bank of beleggingsonder
 
 3. Indien een beleggingsonderneming in de zin van de richtlijn prudentieel toezicht beleggingsondernemingen niet langer kwalificeert als kleine en niet-verweven beleggingsonderneming als bedoeld in artikel 12, eerste lid, van de verordening prudentiële vereisten voor beleggingsondernemingen, dan stelt zij de Nederlandsche bank daarvan in kennis en voldoet zij binnen twaalf maanden na de datum waarop zij niet meer als zodanig kwalificeert aan de vereisten in bijlage B bij deze regeling. De beleggingsonderneming past onderdelen 8 tot en met 12 van bijlage B bij deze regeling toe op beloningen voor geleverde diensten of prestaties in het boekjaar volgend op het boekjaar waarin zij voor het eerst niet langer kwalificeerde als kleine en niet-verweven beleggingsonderneming.
 
-#### Artikel 4
+##### Artikel 4
 
 Als onderdeel van de beheerste bedrijfsvoering voert een premiepensioeninstelling, met inachtneming van [hoofdstuk 1.7 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&hoofdstuk=1.7), een beloningsbeleid dat voldoet aan de vereisten in bijlage C bij deze regeling.
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 5
+##### Artikel 5
 
 De [Regeling beheerst beloningsbeleid Wft 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0044545) wordt ingetrokken.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt inwerking op het tijdstip dat artikel I, onderdeel N, van de Implementatiewet richtlijn prudentieel toezicht beleggingsondernemingen in werking treedt.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling beheerst beloningsbeleid Wft 2021.
 

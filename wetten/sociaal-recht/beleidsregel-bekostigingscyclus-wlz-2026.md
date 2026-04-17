@@ -1,20 +1,45 @@
 ---
 title: "Beleidsregel bekostigingscyclus Wlz 2026"
 identifier: "BWBR0051338"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051338"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051338"
+soort: "zbo"
+stam_id: "17493603"
+version_id: "30853392"
+internal_id: "C44210561"
+label_id: "17395944"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051338/2026-01-01/0"
+intitule_bron: "Stcrt.2025-26082"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-22"
+intitule_published: "2025-07-31"
+intitule_in_force: "2025-07-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-26082"
+original_signed_date: "2025-07-22"
+original_published_date: "2025-07-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-26082"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051338&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051338&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-07-22"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregel bekostigingscyclus Wlz 2026
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
 
 Gelet op [artikel 52, aanhef en onderdeel e, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=52), worden tarieven en prestatiebeschrijvingen die uit [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0051338&artikel=6&z=2026-01-01&g=2026-01-01) van deze beleidsregel voortvloeien, ambtshalve vastgesteld door de NZa.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -84,7 +109,7 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 Voor overige begrippen die in deze beleidsregel gebruikt worden, maar niet hierboven vermeld staan, wordt verwezen naar de Beleidsregel definities Wlz.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is het vastleggen/vaststellen van de voorwaarden voor:
 
@@ -96,11 +121,11 @@ Het doel van deze beleidsregel is het vastleggen/vaststellen van de voorwaarden 
 
 - d). de wijze waarop de NZa gebruik maakt van haar bevoegdheid om de tarifering van onderlinge dienstverlening tussen zorgaanbieders te reguleren.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op de zorg of dienst als omschreven bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) (Wlz) die wordt geleverd door zorgaanbieders.
 
-#### Artikel 4. Aanvaardbare kosten 2026
+##### Artikel 4. Aanvaardbare kosten 2026
 
 De aanvaardbare kosten voor het jaar 2026 worden berekend door de toepassing van de beleidsregels als genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051338&artikel=4&z=2026-01-01&g=2026-01-01).
 
@@ -134,7 +159,7 @@ Als het totaal aan opbrengsten verschilt van de aanvaardbare kosten, wordt dit v
 
 - b. Met betrekking tot de kostencomponenten die ten grondslag liggen aan de aanvaardbare kosten, geldt dat bij de boeking van kosten, opbrengsten en doorberekende kosten een bestendige gedragslijn gevolgd moet worden.
 
-#### Artikel 5. Nacalculatie-opgave 2026
+##### Artikel 5. Nacalculatie-opgave 2026
 
 De zorgaanbieder en /of het zorgkantoor/de Wlz-uitvoerder dient vóór 1 juni 2027 de nacalculatie-opgave over 2026 in bij de NZa zoals vastgelegd in de Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2026 en het Controleprotocol nacalculatie-opgave 2026 Wlz-zorgaanbieders.
 
@@ -186,7 +211,7 @@ De financiële waarde van de overige onderdelen die naast de financieel gerealis
 
 - b. Beoordeling en afhandeling De nacalculatie-opgave 2026 van een failliete zorgaanbieder wordt conform de reguliere procedure beoordeeld en afgehandeld. Indien de nacalculatie-opgave 2026 wordt ingediend zonder nadere onderbouwing en over deze opgave geen overeenstemming bestaat tussen (i) de failliete zorgaanbieder/curator en (ii) het zorgkantoor/de Wlz-uitvoerder, stelt de NZa de aanvaardbare kosten vast op de laagste opgave. Indien één eenzijdige aanvraag wordt ingediend, waarbij sprake is van een door de rechter uitgesproken faillissement van de zorgaanbieder, vergewist de NZa zich van de grondslag van weigering van het zorgkantoor/Wlz-uitvoerder of zorgaanbieder/curator om de aanvraag mede te ondertekenen. Een eenzijdige aanpassing van de gehonoreerde productieafspraak in geval van faillissement is mogelijk. De NZa volgt in dat geval de enige eenzijdige opgave, ingediend door de zorgaanbieder/curator dan wel door zorgkantoor/Wlz-uitvoerder.
 
-#### Artikel 6. Indexaties
+##### Artikel 6. Indexaties
 
 De aanpassing van de in de beleidsregelwaarden opgenomen loonkosten in jaar t is gebaseerd op het door de Minister van VWS aangegeven indexcijfer ‘Overheidsbijdrage in de arbeidskostenontwikkeling (Ova)’.
 
@@ -250,7 +275,7 @@ Bij de indexatie van de beleidsregelwaarden in deze beleidsregel wordt uitgegaan
 
 De beleidsregelwaarden van deze prestaties zijn gebaseerd op de definitieve index van jaar t-1 voor materiële kosten.
 
-#### Artikel 7. Tarifering onderlinge dienstverlening [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
+##### Artikel 7. Tarifering onderlinge dienstverlening [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
 
 - a. Prestatie Voor onderlinge dienstverlening geldt de prestatie ‘onderlinge dienstverlening’.
 
@@ -258,11 +283,11 @@ De beleidsregelwaarden van deze prestaties zijn gebaseerd op de definitieve inde
 
 Als sprake is van onderlinge dienstverlening brengt de uitvoerende zorgaanbieder de kosten in rekening bij de opdrachtgevende zorgaanbieder.
 
-#### Artikel 8. Vervallen en intrekken oude beleidsregel
+##### Artikel 8. Vervallen en intrekken oude beleidsregel
 
 De [Beleidsregel bekostigingscyclus Wlz 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050013), met kenmerk BR/REG-25123, die een geldigheidsduur heeft tot en met 31 december 2026, komt na afloop van laatstgenoemde datum van rechtswege te vervallen.
 
-#### Artikel 9. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 9. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
 
 De [Beleidsregel bekostigingscyclus Wlz 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050013), met kenmerk BR/REG-25123, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

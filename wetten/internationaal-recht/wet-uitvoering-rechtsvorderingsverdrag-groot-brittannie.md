@@ -1,0 +1,157 @@
+---
+title: "Wet van 6 april 1933, houdende voorzieningen tot uitvoering van het op 31 mei 1932 te Londen tusschen Nederland en Groot-Brittannië gesloten verdrag, houdende bepalingen tot het vergemakkelijken van het voeren van rechtsgedingen"
+identifier: "BWBR0001959"
+country: "nl"
+rank: "wet"
+publication_date: "2023-05-01"
+last_updated: "2023-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001959"
+soort: "wet"
+stam_id: "362033"
+version_id: "533372"
+internal_id: "C533371"
+label_id: "353934"
+dtd_version: "2.0"
+original_entry_into_force: "1933-07-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001959/2023-05-01/0"
+intitule_bron: "Stb.1933-136"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1933-04-06"
+intitule_status: "goed"
+original_publication: "Stb.1933-136"
+original_signed_date: "1933-04-06"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1933-07-29"
+jci_1_3: "jci1.3:c:BWBR0001959&z=2023-05-01&g=2023-05-01"
+jci_1_0: "1.0:c:BWBR0001959&g=2023-05-01"
+citeertitel_status: "officieel"
+short_title: "Wet uitvoering rechtsvorderingsverdrag Groot-Brittannië"
+signed_date: "1933-04-06"
+entry_into_force: "1933-07-29"
+---
+# Wet van 6 april 1933, houdende voorzieningen tot uitvoering van het op 31 mei 1932 te Londen tusschen Nederland en Groot-Brittannië gesloten verdrag, houdende bepalingen tot het vergemakkelijken van het voeren van rechtsgedingen
+
+Allen, die deze zullen zien of hooren lezen, salut! doen te weten:
+
+Alzoo Wij in overweging genomen hebben, dat het noodig is voorzieningen te treffen tot uitvoering van het op 31 Mei 1932 te **Londen** tusschen **Nederland** en **Groot-Britannië** gesloten verdrag, houdende bepalingen tot het vergemakkelijken van het voeren van rechtsgedingen in burgerlijke en handelszaken;
+
+Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+#### Algemeene bepaling
+
+##### Artikel 1
+
+In deze wet wordt verstaan onder:
+
+- a. **het verdrag:** het op 31 Mei 1932 te **Londen** tusschen **Nederland** en **Groot-Britannië** gesloten verdrag, houdende bepalingen tot het vergemakkelijken van het voeren van rechtsgedingen in burgerlijke en handelszaken;
+
+- b. **de bevoegde Nederlandsche consulaire ambtenaar:** indien mededeeling van stukken of uitvoering van rogatoire commissies in Engeland moet geschieden, de Nederlandsche consul-generaal te **Londen** of degeen die hem vervangt; moet mededeeling of uitvoering buiten Engeland geschieden, de door Onzen Minister van Buitenlandsche Zaken aangewezen consulaire ambtenaar.
+
+#### Mededeeling van gerechtelijke en buitengerechtelijke stukken in Nederland
+
+##### Artikel 2
+
+Oordeelt de officier van justitie, wien eene aanvrage om mededeeling van eenig stuk overeenkomstig artikel 3 van het verdrag is toegezonden of doorgezonden, dat het geval, bedoeld bij letter **f** van dat artikel, aanwezig is, dan zendt hij de bescheiden onder opgaaf van redenen aan Onzen Minister van Justitie, die, zoo noodig na overleg met zijn ambtgenoot van Buitenlandsche Zaken, beslist.
+
+##### Artikel 3
+
+1. De mededeeling van eenig stuk door den officier van justitie ingevolge artikel 3 van het verdrag geschiedt door eenvoudige afgifte tegen bewijs van ontvangst.
+
+2. Is bij de aanvrage om mededeeling van het stuk verzocht deze op eene bijzondere wijze te doen geschieden, dan volgt de officier van justitie deze wijze van mededeeling, mits deze niet in strijd is met het geldende recht.
+
+##### Artikel 4
+
+Alle stukken, opgemaakt om gevolg te geven aan het verzoek om mededeeling van een gerechtelijk of buitengerechtelijk stuk, zijn vrij van de rechten van zegel en van registratie.
+
+#### Mededeeling van gerechtelijke en buitengerechtelijke stukken van uit Nederland
+
+##### Artikel 5
+
+1. Om overeenkomstig artikel 3 van het verdrag eenig stuk te doen mededeelen wordt, in afwijking van het bepaalde bij [artikel 55, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=55), het exploit steeds gedaan aan den officier van justitie, met dien verstande, dat:
+
+indien het exploit een rechtsgeding betreft te voeren of aanhangig voor den Hoogen Raad, het gedaan wordt aan de officier van justitie bij het arrondissementsparket Den Haag, voor een gerechtshof aan de advocaat-generaal bij het ressortsparket;
+
+indien het exploit niet reeds een te voeren of aanhangig rechtsgeding betreft, het gedaan wordt aan de officier van justitie in het arrondissement waar de verzoeker zijn woonplaats heeft.
+
+2. Onverminderd de vereischten bij het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) voor het exploit gesteld, zullen daarbij in ieder geval worden vermeld de volledige namen en hoedanigheden van de partijen en de volledige namen, het adres, en de hoedanigheid van dengeen voor wien het stuk bestemd is. Tevens wordt vermeld, dat het exploit overeenkomstig artikel 3 van het verdrag moet worden medegedeeld, met opgave of eene bijzondere wijze van mededeeling wordt verlangd.
+
+3. Het exploit is vergezeld van twee geteekende afschriften en van vertalingen van deze drie bescheiden. De vertalingen moeten voor overeenstemmend zijn verklaard door een beëedigd vertaler in Nederland. Wordt bij het exploit een afzonderlijk stuk beteekend, dan geldt het gezegde omtrent afschriften en vertalingen ook voor dit afzonderlijk stuk.
+
+##### Artikel 6
+
+De officier van justitie kan, als waarborg voor de kosten, ter zake van de mededeeling te maken, een door hem te begrooten voorschot van den deurwaarder vragen.
+
+##### Artikel 7
+
+1. De officier van justitie zal het exploit met "gezien" teekenen en de in het laatste [lid van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=5&z=2023-05-01&g=2023-05-01) dezer wet bedoelde afschriften, met vertalingen, ter verdere behandeling doen toekomen aan den bevoegden Nederlandschen consulairen ambtenaar. Hij verzoekt dezen ambtenaar tevens de vertalingen voor overeenstemmend te verklaren.
+
+2. Is aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=5&z=2023-05-01&g=2023-05-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=6&z=2023-05-01&g=2023-05-01) dezer wet niet voldaan, dan weigert de officier van justitie de doorzending der stukken, echter niet dan na getracht te hebben de naleving daarvan zooveel mogelijk te bevorderen.
+
+##### Artikel 8
+
+1. De officier van justitie ontvangt het bewijsstuk, bedoeld bij artikel 3, letter **g**, van het verdrag, van den Nederlandschen consulairen ambtenaar.
+
+2. De officier van justitie kan weigeren dit bewijs aan belanghebbende af te geven, zoolang niet het geheele bedrag der kosten, ter zake van de mededeeling gemaakt, voldaan is.
+
+##### Artikel 9
+
+Verschijnt de gedaagde op de betekende roldatum niet, dan zal, indien de eiser het bewijsstuk, bedoeld bij het vorige artikel, nog niet ontvangen heeft, de rechter op verzoek van de eiser het verlenen van verstek en de behandeling van de zaak tot een volgende zitting aanhouden.
+
+#### Rogatoire commissies door den Nederlandschen rechter uit te voeren
+
+##### Artikel 10
+
+1. De rechtbank aan wie overeenkomstig artikel 7 van het verdrag een rogatoire commissie is overgemaakt geeft uitvoering aan de rogatoire commissie. Oordeelt de rechtbank aan wie de rogatoire commissie is toegezonden dat de uitvoering door een andere rechtbank dient te geschieden, dan zendt zij de commissie aan deze rechtbank. Deze rechtbank is aan de doorzending gebonden.
+
+2. Indien de uitvoering van de rogatoire commissie in verschillende rechtsgebieden dient plaats te vinden, is elk van de rechtbanken van deze rechtsgebieden bevoegd de commissie in haar geheel uit te voeren.
+
+3. De rogatoire commissie kan worden verwezen naar de kantonrechter. De kantonrechter is aan deze verwijzing gebonden.
+
+##### Artikel 11
+
+Vervallen
+
+##### Artikel 12
+
+Oordeelt de rechter, aan wie de rogatoire commissie is overgemaakt of doorgezonden, dat het geval, bedoeld bij letter **f** van artikel 7 van het verdrag, aanwezig is, dan vindt [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=2&z=2023-05-01&g=2023-05-01) dezer wet overeenkomstige toepassing.
+
+##### Artikel 13
+
+Indien een persoon, die voor een rogatoire commissie moet worden gehoord, niet vrijwillig verschijnt, geschiedt zijn dagvaarding op verzoek van de rechterlijke autoriteit, die de commissie uitvoert.
+
+##### Artikel 14
+
+Vervallen
+
+##### Artikel 15
+
+Alle stukken, ter zake van de uitvoering van rogatoire commissies opgemaakt, zijn vrij van de rechten van zegel en van registratie.
+
+#### Rogatoire commissies door den Nederlandschen rechter opgedragen
+
+##### Artikel 16
+
+1. Indien eene rogatoire commissie door den Nederlandschen rechter overeenkomstig artikel 7 van het verdrag wordt opgedragen, zendt hij de stukken ter verdere behandeling aan den bevoegden Nederlandschen consulairen ambtenaar. De zich bij die stukken bevindende vertalingen moeten voor overeenstemmend zijn verklaard door een beëedigd vertaler in Nederland.
+
+2. De rechter verzoekt den consulairen ambtenaar tevens de vertalingen voor overeenstemmend te verklaren.
+
+##### Artikel 17
+
+De kosten, welke ter zake van de uitvoering eener rogatoire commissie overeenkomstig het verdrag in rekening worden gebracht, vormen een deel der proceskosten, waaromtrent volgens het gemeene recht door den rechter uitspraak wordt gedaan.
+
+##### Artikel 18
+
+De rechter stelt bij zijn vonnis, waarbij een rogatoire commissie overeenkomstig het verdrag wordt opgedragen, de dag vast, waarop de zaak weer ter rolle zal worden opgeroepen.
+
+##### Artikel 19
+
+Het proces-verbaal van de uitvoering eener rogatoire commissie overeenkomstig het verdrag heeft gelijke kracht als dat van den Nederlandschen rechter.
+
+#### Slotbepaling
+
+##### Artikel 20
+
+Deze wet treedt tegelijk met het verdrag in werking.
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

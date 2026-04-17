@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel beschikbaarheidbijdrage op aanvraag"
 identifier: "BWBR0051357"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051357"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051357"
+soort: "zbo"
+stam_id: "17498923"
+version_id: "30861322"
+internal_id: "C44224621"
+label_id: "17401384"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051357/2026-01-01/0"
+intitule_bron: "Stcrt.2025-26131"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-22"
+intitule_published: "2025-08-01"
+intitule_in_force: "2025-08-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-26131"
+original_signed_date: "2025-07-22"
+original_published_date: "2025-08-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-26131"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051357&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051357&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-07-22"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregel beschikbaarheidbijdrage op aanvraag
 
 Gelet op [artikel 57, eerste lid, onderdeel e, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid tot het toekennen van een beschikbaarheidbijdrage als bedoeld in [artikel 56a van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a).
@@ -18,7 +43,7 @@ Op grond van [artikel 56a, tweede lid, onder a, van de Wmg](https://wetten.overh
 
 Op de beschikbaarheidbijdrage zijn [titel 4.2 (‘subsidies’)](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) en [4.4 (‘bestuursrechtelijke geldschulden’) van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.4), het [Besluit beschikbaarheidbijdrage WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0031971) en het Besluit van de Europese Commissie van 20 december 2011 (C(2011)9380) van toepassing.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -46,11 +71,11 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - **Wbmv:** [Wet bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008974).
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Voor een aantal activiteiten en voorzieningen van zorgaanbieders is het niet mogelijk en/of wenselijk om deze rechtstreeks aan zorgproducten voor individuele consumenten toe te rekenen. Het gaat om specifieke functies of kenmerken van de zorgverlening, zoals beschikbaarheid, specifieke deskundigheid of specifieke voorzieningen. Doel van deze beleidsregel betreft het vaststellen van de wijze van bekostiging van deze activiteiten en voorzieningen, in aanvulling op de Beleidsregel ‘Uniform kader beschikbaarheidbijdrage NZa’.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op het beschikbaar hebben en bekostigen van zorg als bedoeld in [artikel 2 van het Besluit beschikbaarheidbijdrage WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=2), juncto [onderdeel B, onder 3 tot en met 10, 15 en 16 van de bijlage bij het Besluit beschikbaarheidbijdrage WMG](onbekend). De volgende vormen van zorg komen in aanmerking voor een beschikbaarheidbijdrage:
 
@@ -78,7 +103,7 @@ Deze beleidsregel is van toepassing op het beschikbaar hebben en bekostigen van 
 
 - l. post mortem uitname bij donoren van weefsel.
 
-#### Artikel 4. Algemeen
+##### Artikel 4. Algemeen
 
 Bij het [Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031971) heeft de Minister de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051357&artikel=1&z=2026-01-01&g=2026-01-01) genoemde vormen van zorg aangewezen waarvoor de NZa een beschikbaarheidbijdrage kan vaststellen. Mede op basis van dit Besluit heeft de NZa onderhavig beleid ten aanzien van de verstrekking van de beschikbaarheidbijdrage op aanvraag door zorgaanbieders vastgesteld.
 
@@ -92,7 +117,7 @@ Aanvragen die na 31 december van jaar t–1 worden ingediend, neemt de NZa niet 
 
 Indien een aanvraag voldoet aan de voorwaarden genoemd in artikel 4, tweede lid en aan de zorgfunctie-specifieke bepalingen zoals opgenomen in deze beleidsregel, zal de NZa op grond van [artikel 56a, zevende lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a) de zorgaanbieder belasten met een dienst van algemeen economisch belang of dienst van algemeen belang.
 
-#### Artikel 5. Gespecialiseerde brandwondenzorg
+##### Artikel 5. Gespecialiseerde brandwondenzorg
 
 Gespecialiseerde brandwondenzorg als bedoeld in [onderdeel B, aanhef en onder 9, van de Bijlage](onbekend).
 
@@ -116,7 +141,7 @@ De NZa toetst per brandwondencentrum op welke wijze zij de indirecte kosten toer
 
 Voor de bepaling van de dbc-omzet wordt uitgegaan van alle dbc’s die geleverd worden vanuit het brandwondencentrum en daarbij behorende IC add-ons. De gespecialiseerde brandwondenzorg dbc’s en IC add-ons kennen een max-maximum tarief (tariefstructuur). De NZa zal bij de vaststelling van de beschikbaarheidbijdrage voor het bepalen van de omzet voor de gespecialiseerde brandwondenzorg dbc’s en bijbehorende IC Add-ons uitgaan van het reguliere, basis maximumtarief, ongeacht de hoogte van het tarief dat in werkelijkheid is overeengekomen en/of gedeclareerd tussen zorgaanbieder en zorgverzekeraar. Voor de andere dbc’s zal de NZa de gecontracteerde tarieven hanteren.
 
-#### Artikel 6. Zorg door mobiel medische team met helikopter
+##### Artikel 6. Zorg door mobiel medische team met helikopter
 
 Zorg door mobiel medisch team (MMT’s) met helikopter als bedoeld in [onderdeel B, aanhef en onder 6, van de Bijlage](onbekend)
 
@@ -200,7 +225,7 @@ Op grond van het [Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031971) vers
 | ECMO opleidingen **Periodiek** | MMT-verpleegkundige | Normbedrag per persoon | € 808 |
 |   | MMT-arts | Normbedrag per persoon | € 1.553 |
 
-#### Artikel 7. Spoedeisende hulp
+##### Artikel 7. Spoedeisende hulp
 
 Spoedeisende hulp (SEH) als bedoeld in [onderdeel B, aanhef en onder 7, van de Bijlage](onbekend).
 
@@ -241,7 +266,7 @@ Het gecorrigeerde aantal unieke SEH-patiënten wordt vermenigvuldigd met de norm
 
 De NZa gaat uit van achterwachtkosten van € 993.655 (prijspeil 2025). De achterwachtkosten worden jaarlijks geïndexeerd. In de toelichting van de beleidsregel staat beschreven hoe deze indexatie plaatsvindt.
 
-#### Artikel 8. Acute verloskunde
+##### Artikel 8. Acute verloskunde
 
 Acute verloskunde als bedoeld in [onderdeel B, aanhef en onder 8, van de Bijlage](onbekend).
 
@@ -277,7 +302,7 @@ De opbrengsten worden bepaald op basis van het aantal gerealiseerde dbc-producte
 
 Jaarlijks worden de gemiddelde tarieven van de betreffende verloskunde dbc’s aangepast naar het actuele prijspeil dat voor dat jaar geldt. De bedragen worden geïndexeerd met het geldende indexcijfer voor de kostenbedragen van (dbc)zorgproducten. Deze indexcijfers publiceert de NZa op haar website. De resultaten worden doorgevoerd in de kolom ‘Bedrag beleidsregel (prijspeil 2025)’ in de tabel ‘Zorgproducten Acute verloskunde met percentage en bedragen’ in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051357&bijlage=1&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 9. Post mortem uitname bij donoren van organen (PMD)
+##### Artikel 9. Post mortem uitname bij donoren van organen (PMD)
 
 Post mortem orgaanuitname bij donoren (PMD) zoals bedoeld in [onderdeel B, aanhef en onder 3a van de Bijlage](onbekend).
 
@@ -346,7 +371,7 @@ De indexatie van de bovenstaande bedragen gaat als volgt:
 
 - •. De huisvesting wordt niet geïndexeerd.
 
-#### Artikel 10. Traumazorg voor zover het gaat om Opleiden, Trainen en Oefenen
+##### Artikel 10. Traumazorg voor zover het gaat om Opleiden, Trainen en Oefenen
 
 Traumazorg voor wat betreft Opleiden, Trainen en Oefenen ten behoeve van rampen en crises (OTO), als bedoeld in [onderdeel B, aanhef en onder 5, sub b van de Bijlage](onbekend).
 
@@ -379,7 +404,7 @@ De beschikbaarheidbijdrage voor OTO is opgebouwd uit een vaste component en een 
 
 - 2. Voor indexering van de overige componenten wordt een verhouding aangehouden van 90% van de index voor de personele kosten en 10% van de index voor de materiële kosten.
 
-#### Artikel 11. Zorg verleend door het calamiteitenhospitaal
+##### Artikel 11. Zorg verleend door het calamiteitenhospitaal
 
 Het betreft zorg verleend als bedoeld in [onderdeel B, aanhef en onder 4, van de Bijlage](onbekend).
 
@@ -463,7 +488,7 @@ In aanvulling op het Uniform kader is de aanvraag tot vaststelling compleet indi
 
 - c. De beschikbaarheidbijdrage wordt als volgt geïndexeerd. De personele kosten (voorbereiding en preparatie, personeel instandhouding en SLA’s nullijnen) worden geïndexeerd met het prijsindexcijfer voor personele kosten. De materiële kosten (algemeen en materieel -met uitzondering van de kapitaallasten) met het prijsindexcijfer voor materiële kosten. De kapitaallasten en de btw-kosten worden niet geïndexeerd. Indien blijkt bij de vaststelling dat de kosten met betrekking tot kapitaallasten significant afwijken van het normbedrag wordt beoordeeld of dit normbedrag aanpassing behoeft. Voor wat betreft kapitaallasten is er sprake van een significante afwijking indien er in een jaar een investering is gerealiseerd hoger dan € 230.000. Het normbedrag van € 461.914 (prijspeil 2025) wordt in dat geval tot aan de eerstvolgende herijking verhoogd met 10% van het meerdere boven de € 230.000.
 
-#### Artikel 12. Coördinatie traumazorg en regionaal overleg acute zorg
+##### Artikel 12. Coördinatie traumazorg en regionaal overleg acute zorg
 
 Acute zorg als bedoeld in [onderdeel B, aanhef en onder 5, sub a van de Bijlage](onbekend).
 
@@ -559,7 +584,7 @@ Het basisteam kan worden aangevuld bij gebleken extra complexiteit of omvang van
 
 - d. De complexiteitsniveaus en extra bedragen voor de traumaregistratie hebben vanuit het kostenonderzoek een materieel deel en een personeel deel, waarop ook de materiële index en personele index op worden toegepast.
 
-#### Artikel 13. Zorg door mobiel medische teams met voertuig
+##### Artikel 13. Zorg door mobiel medische teams met voertuig
 
 Zorg door mobiel medische teams (MMT’s) als bedoeld in [onderdeel B, aanhef en onder 6, van de Bijlage](onbekend).
 
@@ -577,7 +602,7 @@ De hoogte van de beschikbaarheidbijdrage wordt gebaseerd op de posten in onderst
 | Opleidingen en oefeningen team | Utrecht | Afrekenen op werkelijke kosten met een maximum norm. Opgesplitst in kosten en tijdbesteding voor opleidingen en oefeningen van Utrecht | 51.206 |
 | Brandstof | Beide | Brandstof wordt op nacalculatie vergoed | Werkelijke kosten |
 
-#### Artikel 14. Gespecialiseerde en derdelijns psychotraumazorg voor zover het gaat om de kennis en expertisefunctie
+##### Artikel 14. Gespecialiseerde en derdelijns psychotraumazorg voor zover het gaat om de kennis en expertisefunctie
 
 Gespecialiseerde en derdelijns psychotraumazorg voor zover het gaat om de kennis- en expertisefunctie als bedoeld in [onderdeel B, aanhef 10 van de bijlage](onbekend) en aangevuld met het bepaalde in de aanwijzing van de Minister.
 
@@ -615,7 +640,7 @@ Indien de aanvraag de maximale hoogte van de beschikbaarheidbijdrage overschrijd
 
 Voor de indexering van deze bijdrage geldt dat de toe te passen index het gewogen gemiddelde is van de loon- en materiële indices waarbij wordt uitgegaan van een aandeel van 85% loonkosten en 15% materiële kosten.
 
-#### Artikel 15. Spoedeisende ambulancezorg met vervoer per ambulancehelikopter vanaf de Friese Waddeneilanden
+##### Artikel 15. Spoedeisende ambulancezorg met vervoer per ambulancehelikopter vanaf de Friese Waddeneilanden
 
 Spoedeisende ambulancezorg met vervoer per ambulancehelikopter vanaf de Friese Waddeneilanden als bedoeld in [onderdeel B, aanhef en onder 16, van de Bijlage](onbekend).
 
@@ -646,7 +671,7 @@ De Regionale Ambulancevoorziening (RAV) Fryslân kan in aanmerking komen voor de
 
 - b. Als de kosten uit de tabel tevens betrekking hebben op andere activiteiten dan de in artikel 15, eerste lid genoemde vorm van zorg, dan geeft de zorgaanbieder ook de opbrengsten van de overige activiteiten op in de aanvraag tot vaststelling. Deze opbrengsten worden in mindering gebracht op de beschikbaarheidbijdrage.
 
-#### Artikel 16. Post mortem uitname bij donoren van weefsel (PMW)
+##### Artikel 16. Post mortem uitname bij donoren van weefsel (PMW)
 
 - a. Post mortem weefseluitname bij donoren zoals bedoeld in [onderdeel B, aanhef en onder 3b van de Bijlage](onbekend).
 
@@ -707,15 +732,15 @@ In aanvulling op het Uniform kader is de aanvraag tot vaststelling van de beschi
 
 - 3. Voor het bepalen van het definitieve vergoedingsbedrag van het uitnameteam in de vaststelling moet het vergoedingsbedrag van de kosten van het uitnameteam bij de verlening opnieuw worden berekend op basis van het definitieve prijspeil dat gebruikt wordt bij de vaststelling. Alleen als de vergoeding van het uitnameteam van de verlening (prijspeil vaststelling) groter is dan de vergoeding van het uitnameteam van de vaststelling, wordt het vergoedingsbedrag van het uitnameteam van de vaststelling op een andere manier berekend. Hiervoor wordt 14,30% van het verschil tussen het vergoedingsbedrag van het uitnameteam van de verlening(prijspeil vaststelling) en het vergoedingsbedrag van het uitnameteam van de vaststelling in mindering gebracht op het vergoedingsbedrag van het uitnameteam van de verlening (prijspeil vaststelling). Dit bedrag vervangt het oorspronkelijk berekende bedrag van het uitnameteam van de vaststelling en wordt gebruikt voor de berekening van de beschikbaarheidbijdrage van de vaststelling.
 
-#### Artikel 17. Intrekken/Vervallen oude beleidsregels
+##### Artikel 17. Intrekken/Vervallen oude beleidsregels
 
 Gelijktijdig met de inwerkingtreding van deze Beleidsregel Beschikbaarheidbijdrage op aanvraag wordt de [Beleidsregel beschikbaarheidbijdrage op aanvraag](https://wetten.overheid.nl/jci1.3:c:BWBR0050125), met kenmerk BR/REG-25108, ingetrokken.
 
-#### Artikel 18. Toepasselijkheid voorafgaande beleidsregel
+##### Artikel 18. Toepasselijkheid voorafgaande beleidsregel
 
 De ‘[Beleidsregel beschikbaarheidbijdrage op aanvraag](https://wetten.overheid.nl/jci1.3:c:BWBR0050125)’, met kenmerk BR/REG-25108 blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 
-#### Artikel 19. Inwerkingtreding
+##### Artikel 19. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2026.
 
@@ -723,7 +748,7 @@ Ingevolge [artikel 5, aanhef en onder e, van de Bekendmakingswet](https://wetten
 
 De beleidsregel ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](http://www.nza.nl).
 
-#### Artikel 20. Citeertitel
+##### Artikel 20. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: ‘Beleidsregel beschikbaarheidbijdrage op aanvraag’.
 

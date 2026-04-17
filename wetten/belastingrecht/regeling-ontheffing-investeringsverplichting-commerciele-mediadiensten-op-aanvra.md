@@ -1,13 +1,39 @@
 ---
-title: "Regeling ontheffing investeringsverplichting commerciële mediadiensten op aanvraag 2025"
+title: "Regeling van het Commissariaat voor de Media van 4 februari 2025 over ontheffing van de investeringsverplichting voor aanbieders van commerciële mediadiensten op aanvraag (Regeling ontheffing investeringsverplichting commerciële mediadiensten op aanvraag 2025)"
 identifier: "BWBR0050736"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-02-05
-laatste_update: 2025-02-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050736"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-02-05"
+last_updated: "2025-02-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050736"
+soort: "zbo"
+stam_id: "17359763"
+version_id: "30599372"
+internal_id: "C43857381"
+label_id: "17262684"
+dtd_version: "2.0"
+original_entry_into_force: "2025-02-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050736/2025-02-05/0"
+intitule_bron: "Stcrt.2025-3744"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-02-04"
+intitule_published: "2025-02-04"
+intitule_in_force: "2025-02-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-3744"
+original_signed_date: "2025-02-04"
+original_published_date: "2025-02-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-3744"
+entry_into_force_date: "2025-02-05"
+jci_1_3: "jci1.3:c:BWBR0050736&z=2025-02-05&g=2025-02-05"
+jci_1_0: "1.0:c:BWBR0050736&g=2025-02-05"
+citeertitel_status: "officieel"
+short_title: "Regeling ontheffing investeringsverplichting commerciële mediadiensten op aanvraag 2025"
+signed_date: "2025-02-04"
+entry_into_force: "2025-02-05"
 ---
-
 # Regeling van het Commissariaat voor de Media van 4 februari 2025 over ontheffing van de investeringsverplichting voor aanbieders van commerciële mediadiensten op aanvraag (Regeling ontheffing investeringsverplichting commerciële mediadiensten op aanvraag 2025)
 
 Na de verkregen goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap,
@@ -16,7 +42,7 @@ Gelet op de [artikelen 3.29e, vijfde en zesde lid](https://wetten.overheid.nl/jc
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - f. **wet:** de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028).
 
-#### Artikel 2. Gronden voor ontheffing
+##### Artikel 2. Gronden voor ontheffing
 
 1. Het Commissariaat verleent een ontheffing van de investeringsverplichting, indien de aanbieder naar het oordeel van het Commissariaat aantoont dat naleving gelet op de aard of het onderwerp van de betreffende mediadienst, of het gebruik van innovatieve formats, praktisch onuitvoerbaar of ongerechtvaardigd zou zijn.
 
@@ -40,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 3. De enkele omstandigheid dat de aanbieder geen of weinig Nederlands cultureel audiovisueel aanbod produceert dan wel aanbiedt, is onvoldoende grond voor een ontheffing.
 
-#### Artikel 3. Aanvraag om een ontheffing
+##### Artikel 3. Aanvraag om een ontheffing
 
 1. De aanbieder dient een aanvraag om een ontheffing in bij het Commissariaat uiterlijk vóór 1 juli van het jaar volgend op het boekjaar waarvoor de ontheffing wordt aangevraagd.
 
@@ -56,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 4. Indien een aanbieder meerdere commerciële mediadiensten op aanvraag verzorgt, wordt een aanvraag ingediend per commerciële mediadienst op aanvraag.
 
-#### Artikel 4. Verlenen ontheffing
+##### Artikel 4. Verlenen ontheffing
 
 1. Indien de aanbieder naar het oordeel van het Commissariaat aantoont dat sprake is van een geval waarin niet kan worden verlangd dat (geheel) aan de investeringsverplichting wordt voldaan, verleent het Commissariaat een ontheffing.
 
@@ -74,7 +100,7 @@ In deze regeling wordt verstaan onder:
 
 - c. wanneer blijkt dat bij de aanvraag om een ontheffing onjuiste of onvolledige informatie is verstrekt.
 
-#### Artikel 5. Citeertitel en inwerkingtreding
+##### Artikel 5. Citeertitel en inwerkingtreding
 
 1. Deze regeling wordt aangehaald als: Regeling ontheffing investeringsverplichting commerciële mediadiensten op aanvraag 2025.
 

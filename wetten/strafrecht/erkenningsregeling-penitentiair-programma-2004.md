@@ -1,20 +1,45 @@
 ---
-title: "Erkenningsregeling penitentiair programma 2004"
+title: "Regeling van de Minister van Justitie van 22 november 2004, nr. 5295956/04/DJI, houdende bepalingen met betrekking tot de eisen voor erkenning van een penitentiair programma of een onderdeel daarvan (Erkenningsregeling penitentiair programma 2004)"
 identifier: "BWBR0017560"
-categorie: "Strafrecht"
-publicatiedatum: 2021-07-01
-laatste_update: 2021-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017560"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-07-01"
+last_updated: "2021-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017560"
+soort: "ministeriele-regeling"
+stam_id: "6397333"
+version_id: "11060082"
+internal_id: "C14966631"
+label_id: "6386144"
+original_entry_into_force: "2004-12-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017560/2021-07-01/0"
+intitule_bron: "Stcrt.2004-234"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-11-22"
+intitule_published: "2004-12-03"
+intitule_in_force: "2004-12-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-234"
+original_signed_date: "2004-11-22"
+original_published_date: "2004-12-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-234-p11-SC67660"
+entry_into_force_date: "2004-12-05"
+jci_1_3: "jci1.3:c:BWBR0017560&z=2021-07-01&g=2021-07-01"
+jci_1_0: "1.0:c:BWBR0017560&g=2021-07-01"
+citeertitel_status: "officieel"
+short_title: "Erkenningsregeling penitentiair programma 2004"
+signed_date: "2004-11-22"
+entry_into_force: "2004-12-05"
 ---
-
 # Regeling van de Minister van Justitie van 22 november 2004, nr. 5295956/04/DJI, houdende bepalingen met betrekking tot de eisen voor erkenning van een penitentiair programma of een onderdeel daarvan (Erkenningsregeling penitentiair programma 2004)
 
 Gelet op [artikel 4, derde en vijfde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=4) en [artikel 5, vierde lid, van de Penitentiaire maatregel](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&artikel=5);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -28,13 +53,13 @@ In deze regeling wordt verstaan onder:
 
 - e. uitvoeringsverantwoordelijke instantie: de instantie die verantwoordelijk is voor de uitvoering van een penitentiair programma.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Minister kan een penitentiair programma of een onderdeel daarvan erkennen.
 
 2. De directeur, een reclasseringsinstelling of een derde-organisatie kan een voordracht voor erkenning van een penitentiair programma voorleggen aan de Minister.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor erkenning kunnen worden voorgedragen:
 
@@ -42,7 +67,7 @@ Voor erkenning kunnen worden voorgedragen:
 
 - b. modules, die onderdeel uitmaken van een penitentiair programma.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De erkenning geschiedt voor een periode van maximaal twee jaren.
 
@@ -64,7 +89,7 @@ Voor erkenning kunnen worden voorgedragen:
 
 6. De Minister kan besluiten de erkenning niet te verlengen indien één of meer omstandigheden zich voordoen als bedoeld in het vierde lid, onder a tot en met d.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het standaardprogramma of de module van een penitentiair programma dient een beschrijving te bevatten van de wijze waarop het programma invulling geeft aan de verdere tenuitvoerlegging van de vrijheidsstraf of voorlopige hechtenis.
 
@@ -108,7 +133,7 @@ Voor erkenning kunnen worden voorgedragen:
 
 - f. in acht nemen en waar nodig naleven van de voorwaarden die aan de deelnemer worden gesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De activiteiten in het kader van een penitentiair programma kunnen worden uitgevoerd door een inrichting, een reclasseringsinstelling, een derde-organisatie of een werkgever.
 
@@ -124,7 +149,7 @@ dan vermeldt de organisatie dit bij de aanvraag om erkenning van een penitentiai
 
 4. Indien het penitentiair programma of een substantieel gedeelte daarvan uitgevoerd wordt door een werkgever, wordt door de directeur van de inrichting of een reclasseringsinstelling de betrouwbaarheid van de werkgever getoetst.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Minister wijst per hofressort één of meer inrichtingen aan waarbij de deelnemers administratief worden ingeschreven.
 
@@ -150,14 +175,14 @@ dan vermeldt de organisatie dit bij de aanvraag om erkenning van een penitentiai
 
 5. De uitvoeringsverantwoordelijke instantie sluit een overeenkomst met de werkgever of derde-organisatie. In elk geval worden afspraken gemaakt over de te verrichten werkzaamheden, de financiering en het toezicht door de uitvoeringsverantwoordelijke instantie op inhoud en kwaliteit van het programma.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling wordt aangehaald als: Erkenningsregeling penitentiair programma 2004.
 
-#### Artikel 10
+##### Artikel 10
 
 De [Erkenningsregeling penitentiair programma](https://wetten.overheid.nl/jci1.3:c:BWBR0010166) wordt ingetrokken.

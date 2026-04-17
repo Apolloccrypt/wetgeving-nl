@@ -1,18 +1,43 @@
 ---
 title: "Pensioenwet ambtenaren BES"
 identifier: "BWBR0028714"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2011-10-09
-laatste_update: 2011-10-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028714"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2011-10-09"
+last_updated: "2011-10-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028714"
+soort: "wet-BES"
+stam_id: "10940173"
+version_id: "17926732"
+internal_id: "C24912931"
+label_id: "10915664"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028714/2011-10-09/0"
+intitule_bron: "Stb.2010-392"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-10-05"
+intitule_published: "2010-10-07"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-392"
+original_signed_date: "2010-10-05"
+original_published_date: "2010-10-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-392"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028714&z=2011-10-09&g=2011-10-09"
+jci_1_0: "1.0:c:BWBR0028714&g=2011-10-09"
+citeertitel_status: "officieel"
+signed_date: "2010-10-05"
+entry_into_force: "2010-10-10"
 ---
-
 # Pensioenwet ambtenaren BES
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -40,13 +65,13 @@ In deze wet wordt verstaan onder:
 
 - **jaar:** kalenderjaar, tenzij anders blijkt.
 
-#### Artikel 2
+##### Artikel 2
 
 1. In deze wet wordt verstaan onder deeltijdbetrekking: een betrekking waarbij de voor de werknemer geldende werktijd korter is dan de voor die betrekking geldende gebruikelijke volledige werktijd.
 
 2. De omvang van een deeltijdbetrekking wordt aangegeven door de deeltijdfactor, zijnde een breuk waarvan de teller bestaat uit de voor de werknemer geldende werktijd en de noemer uit de voor zijn betrekking geldende gebruikelijke volledige werktijd.
 
-#### Artikel 3
+##### Artikel 3
 
 1. In deze wet wordt verstaan onder:
 
@@ -60,7 +85,7 @@ In deze wet wordt verstaan onder:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 4
+##### Artikel 4
 
 In deze wet wordt verstaan onder werknemers:
 
@@ -82,7 +107,7 @@ In deze wet wordt verstaan onder werknemers:
 
 - i. het personeel van de door Onze Minister voor Jeugd en Gezin gefinancierde stichtingen voor jeugdzorg.
 
-#### Artikel 5
+##### Artikel 5
 
 1. In deze wet worden onder werknemers tevens verstaan de werknemers in dienst van een rechtspersoon, die gelet op zijn doelstelling en zijn financiële verhouding tot Nederland of de openbare lichamen Bonaire, Saba en Sint Eustatius, bij besluit van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is aangewezen als lichaam waarvan het personeel werknemer in de zin van deze wet is. Bij ministeriële regeling kunnen nadere criteria voor de aanwijzing van een zodanige rechtspersoon worden vastgesteld.
 
@@ -98,7 +123,7 @@ In deze wet wordt verstaan onder werknemers:
 
 7. Besluiten als bedoeld in dit artikel worden, naargelang het meest betrokken publiekrechtelijk lichaam de staat of het openbaar lichaam Bonaire, Sint Eustatius of Saba is, vastgesteld door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties onderscheidenlijk bij besluit van het betrokken bestuurscollege. Alvorens een besluit te nemen, wordt het bestuur gehoord.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Geen werknemer in de zin van deze wet zijn:
 
@@ -108,17 +133,17 @@ In deze wet wordt verstaan onder werknemers:
 
 De in het eerste lid, onderdeel a, bedoelde eis geldt niet in die gevallen waarin een periode van zes maanden of minder ligt tussen de beëindiging van de betrekking van een werknemer en de aanvang van een nieuwe betrekking waaraan de hoedanigheid van werknemer kan worden ontleend, tenzij voor die nieuwe betrekking redelijkerwijs zwaardere keuringseisen gelden dan voor de bestaande betrekking hebben gegolden.
 
-#### Artikel 7
+##### Artikel 7
 
 De hoedanigheid van werknemer in de zin van deze wet gaat in met ingang van de dag waarop de betrekking aanvangt. Indien geneeskundige goedkeuring vereist is en deze bij de aanvang van de betrekking nog niet heeft plaatsgevonden, vangt de hoedanigheid van werknemer, zodra de betrokkene geneeskundig is goedgekeurd, met terugwerking aan met ingang van de in de eerste volzin bedoelde dag.
 
-#### Artikel 8
+##### Artikel 8
 
 Wachtgelders zijn voor de toepassing van deze wet werknemer, tenzij anders blijkt. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&hoofdstuk=II&paragraaf=2&artikel=9&z=2011-10-09&g=2011-10-09) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&hoofdstuk=II&paragraaf=2&artikel=10&z=2011-10-09&g=2011-10-09) zijn van overeenkomstige toepassing, met dien verstande, dat de toestand waarin wachtgeld wordt genoten als een betrekking wordt aangemerkt, en de verhouding tot het lichaam waardoor het wachtgeld wordt uitbetaald als een dienstverhouding.
 
 #### § 2. Administratie van de hoedanigheid van werknemer
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het lichaam verstrekt aan de persoon die werknemer wordt, zo mogelijk vóór de aanvang van zijn betrekking, een geschrift waaruit zijn hoedanigheid van werknemer blijkt.
 
@@ -136,7 +161,7 @@ Wachtgelders zijn voor de toepassing van deze wet werknemer, tenzij anders blijk
 
 8. Bij ministeriële regeling, kunnen regels worden gegeven inzake de uitvoering van dit artikel.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het bestuur kan een verstrekte intree- of uittreebevestiging verbeteren of intrekken. Van de inhoud van zijn beslissing stelt het bestuur het betrokken lichaam en de belanghebbende schriftelijk in kennis.
 
@@ -144,49 +169,49 @@ Wachtgelders zijn voor de toepassing van deze wet werknemer, tenzij anders blijk
 
 3. De hoedanigheid van werknemer van de persoon die hiervan schriftelijk mededeling heeft ontvangen van het lichaam, maar die naar het oordeel van het bestuur bij de aanvang van de dienstverhouding niet voldeed aan de voorwaarden voor het verkrijgen van die hoedanigheid, eindigt met ingang van de dag, volgend op die waarop het bestuur de desbetreffende beslissing heeft verzonden, of, indien het lichaam de betrokkene schriftelijk op de hoogte heeft gesteld, met ingang van de dag, volgende op die waarop de schriftelijke mededeling is verzonden.
 
-#### Artikel 11
+##### Artikel 11
 
 Indien een werknemer in gemeenschappelijke dienstverhouding staat tot twee of meer lichamen wordt hij voor de uitvoering van deze wet geacht werknemer te zijn bij een van die lichamen. Dat lichaam wordt door het bestuur, na overleg met de betrokken lichamen, aangewezen.
 
 ### Hoofdstuk IIa. Het fonds
 
-#### Artikel 11a
+##### Artikel 11a
 
 Ter uitvoering van deze wet worden voor de werknemers, de gewezen werknemers of hun nabestaanden en wezen, gelden bijeengebracht en beheerd door de Stichting Pensioenfonds Caribisch Nederland.
 
 ### Hoofdstuk III. Verplichtstelling
 
-#### Artikel 11b
+##### Artikel 11b
 
 De werknemers zijn verplicht deel te nemen in de Stichting Pensioenfonds Caribisch Nederland, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&hoofdstuk=IIa&artikel=11a&z=2011-10-09&g=2011-10-09).
 
-#### Artikel 11c
+##### Artikel 11c
 
 De deelnemers alsmede, voor zover het werknemers betreft, hun werkgevers leven de statuten en reglementen en de daarop gebaseerde besluiten van het bestuur na.
 
-#### Artikel 11d
+##### Artikel 11d
 
 Het fonds draagt er zorg voor dat in het economisch verkeer geen andere rechtspersoon gebruik maakt van een naam of het merk dat door het fonds wordt gebruikt dan wel gebruik maakt van een naam, merk of daarmee overeenstemmend teken indien door dat gebruik de mogelijkheid bestaat dat bij het publiek een associatie wordt gewekt tussen de naam of het merk van het fonds en de naam, het merk of het teken dat die rechtspersoon gebruikt. Onder «rechtspersoon» wordt in dit verband mede verstaan een maat- en vennootschap, een samenwerkingsvorm zonder rechtspersoonlijkheid die met verenigingen maatschappelijk gelijk kunnen worden gesteld, ondernemingen van publiekrechtelijke rechtspersonen en doelvermogens.
 
 ### Hoofdstuk IV. Pensioenovereenkomst en uitvoeringsreglement
 
-#### Artikel 11e
+##### Artikel 11e
 
 1. De aanspraken van de werknemers, gewezen werknemers en hun nabestaanden ter zake van pensioenen, alsmede daarmee samenhangende verplichtingen worden vastgelegd in een overeenkomst naar burgerlijk recht.
 
 2. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en de vakorganisaties van werknemers die zijn toegelaten tot het overleg, bedoeld in het Besluit overlegstelsel BES, zijn bevoegd tot het vaststellen, wijzigen of vervangen van de overeenkomst, bedoeld in het eerste lid.
 
-#### Artikel 11f
+##### Artikel 11f
 
 Het fonds stelt een uitvoeringsreglement op waarin de verhouding tussen de lichamen en het fonds is geregeld.
 
-#### Artikel 11g
+##### Artikel 11g
 
 Het fonds stelt een pensioenreglement vast in overeenstemming met de pensioenovereenkomst en het uitvoeringsreglement.
 
 ### Hoofdstuk V. Rechtsvordering
 
-#### Artikel 11h
+##### Artikel 11h
 
 1. Indien een door of voor een deelnemer verschuldigde bijdrage na aanmaning per aangetekende brief niet of niet geheel binnen dertig dagen wordt voldaan, kan het fonds, vertegenwoordigd door de personen die op grond van de statuten bevoegd zijn het fonds in rechte te vertegenwoordigen, de premie, wettelijke of reglementaire boete en de aanmaningskosten invorderen bij dwangbevel.
 
@@ -214,249 +239,249 @@ Het fonds stelt een pensioenreglement vast in overeenstemming met de pensioenove
 
 8. Het recht tot invorderen bij dwangbevel strekt zich uit tot de kosten van vervolging.
 
-#### Artikel 57
+##### Artikel 57
 
 [vervallen]
 
-#### Artikel 58
+##### Artikel 58
 
 [vervallen]
 
-#### Artikel 59
+##### Artikel 59
 
 [vervallen]
 
-#### Artikel 60
+##### Artikel 60
 
 [vervallen]
 
-#### Artikel 61
+##### Artikel 61
 
 [vervallen]
 
-#### Artikel 62
+##### Artikel 62
 
 [vervallen]
 
-#### Artikel 63
+##### Artikel 63
 
 [vervallen]
 
-#### Artikel 64
+##### Artikel 64
 
 [vervallen]
 
 ### Hoofdstuk VII
 
-#### Artikel 65
+##### Artikel 65
 
 [vervallen]
 
-#### Artikel 66
+##### Artikel 66
 
 [vervallen]
 
-#### Artikel 67
+##### Artikel 67
 
 [vervallen]
 
-#### Artikel 68
+##### Artikel 68
 
 [vervallen]
 
-#### Artikel 69
+##### Artikel 69
 
 [vervallen]
 
-#### Artikel 70
+##### Artikel 70
 
 [vervallen]
 
-#### Artikel 71
+##### Artikel 71
 
 [vervallen]
 
-#### Artikel 72
+##### Artikel 72
 
 [vervallen]
 
-#### Artikel 73
+##### Artikel 73
 
 [vervallen]
 
-#### Artikel 74
+##### Artikel 74
 
 [vervallen]
 
-#### Artikel 75
+##### Artikel 75
 
 [vervallen]
 
-#### Artikel 76
+##### Artikel 76
 
 [vervallen]
 
-#### Artikel 77
+##### Artikel 77
 
 [vervallen]
 
-#### Artikel 78
+##### Artikel 78
 
 [vervallen]
 
-#### Artikel 79
+##### Artikel 79
 
 [vervallen]
 
-#### Artikel 80
+##### Artikel 80
 
 [vervallen]
 
-#### Artikel 81
+##### Artikel 81
 
 [vervallen]
 
-#### Artikel 82
+##### Artikel 82
 
 [vervallen]
 
-#### Artikel 83
+##### Artikel 83
 
 [vervallen]
 
-#### Artikel 84
+##### Artikel 84
 
 [vervallen]
 
-#### Artikel 85
+##### Artikel 85
 
 [vervallen]
 
-#### Artikel 86
+##### Artikel 86
 
 [vervallen]
 
-#### Artikel 87
+##### Artikel 87
 
 [vervallen]
 
 ### Hoofdstuk VIII
 
-#### Artikel 88
+##### Artikel 88
 
 [vervallen]
 
-#### Artikel 89
+##### Artikel 89
 
 [vervallen]
 
 ### Hoofdstuk IX
 
-#### Artikel 90
+##### Artikel 90
 
 [vervallen]
 
-#### Artikel 91
+##### Artikel 91
 
 [vervallen]
 
-#### Artikel 92
+##### Artikel 92
 
 [vervallen]
 
-#### Artikel 93
+##### Artikel 93
 
 [vervallen]
 
 ### Hoofdstuk X
 
-#### Artikel 94
+##### Artikel 94
 
 [vervallen]
 
-#### Artikel 95
+##### Artikel 95
 
 [vervallen]
 
-#### Artikel 96
+##### Artikel 96
 
 [vervallen]
 
-#### Artikel 97
+##### Artikel 97
 
 [vervallen]
 
 ### Hoofdstuk XI
 
-#### Artikel 98
+##### Artikel 98
 
 [vervallen]
 
-#### Artikel 99
+##### Artikel 99
 
 [vervallen]
 
-#### Artikel 100
+##### Artikel 100
 
 [vervallen]
 
-#### Artikel 101
+##### Artikel 101
 
 [vervallen]
 
-#### Artikel 102
+##### Artikel 102
 
 [vervallen]
 
-#### Artikel 103
+##### Artikel 103
 
 [vervallen]
 
-#### Artikel 104
+##### Artikel 104
 
 [vervallen]
 
-#### Artikel 105
+##### Artikel 105
 
 [vervallen]
 
-#### Artikel 106
+##### Artikel 106
 
 [vervallen]
 
-#### Artikel 107
+##### Artikel 107
 
 [vervallen]
 
-#### Artikel 108
+##### Artikel 108
 
 [vervallen]
 
-#### Artikel 109
+##### Artikel 109
 
 [vervallen]
 
-#### Artikel 110
+##### Artikel 110
 
 [vervallen]
 
 ### Hoofdstuk XII. Slotbepalingen
 
-#### Artikel 111
+##### Artikel 111
 
 [vervallen]
 
-#### Artikel 112
+##### Artikel 112
 
 [vervallen]
 
-#### Artikel 112a
+##### Artikel 112a
 
 In dit hoofdstuk wordt onder «het tijdstip van transitie» verstaan: het tijdstip van inwerkingtreding van artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen.
 
 #### § 1. Bestaande rechten, aanspraken en verplichtingen
 
-#### Artikel 112b
+##### Artikel 112b
 
 1. De verplichtingen van het Algemeen Pensioenfonds van de Nederlandse Antillen jegens werknemers die tot het tijdstip van transitie overheidsdienaar waren in de zin van artikel 1 van de Pensioenlandsverordening overheidsdienaren en hun nabestaanden ter zake van pensioenaanspraken die zijn opgebouwd op grond van de Pensioenlandsverordening overheidsdienaren, gaan over op de Staat der Nederlanden, indien zij tot het tijdstip van transitie:
 
@@ -480,7 +505,7 @@ In dit hoofdstuk wordt onder «het tijdstip van transitie» verstaan: het tijdst
 
 7. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het bepaalde in het eerste tot en met vijfde lid. Deze regels kunnen in ieder geval betreffen de aan de aanspraken en rechten, bedoeld in dit artikel, verbonden verplichtingen van de in die leden bedoelde werknemers en gewezen of gepensioneerde overheidsdienaren.
 
-#### Artikel 112c
+##### Artikel 112c
 
 1. Indien of zodra op grond van [artikel 112b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&hoofdstuk=XII&paragraaf=1&artikel=112b&z=2011-10-09&g=2011-10-09), de verplichtingen zijn ondergebracht bij het fonds, is Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties gemachtigd om namens de Staat alle vermogensbestanddelen die de Staat ontvangen heeft of ontvangt ter zake van de overgang van de verplichtingen, bedoeld in artikel 112b, terstond onder algemene titel over te dragen aan het fonds.
 
@@ -492,7 +517,7 @@ In dit hoofdstuk wordt onder «het tijdstip van transitie» verstaan: het tijdst
 
 #### § 2. Bestaande rechten, aanspraken en verplichtingen van politieke gezagsdragers
 
-#### Artikel 112d
+##### Artikel 112d
 
 1. De verplichtingen van het land Nederlandse Antillen die voortvloeien uit de Pensioenregeling politieke gezagsdragers, zoals die gold tot het tijdstip van transitie, gaan over op de Staat der Nederlanden, voor zover het aanspraken betreft van gewezen en gepensioneerde gezaghebbers en hun nabestaanden van de eilandgebieden Bonaire, Sint Eustatius of Saba.
 
@@ -502,7 +527,7 @@ In dit hoofdstuk wordt onder «het tijdstip van transitie» verstaan: het tijdst
 
 #### § 3. Overgangsregeling ter vervanging van het recht op uitkering bij vervroegd uittreden
 
-#### Artikel 112e
+##### Artikel 112e
 
 1. In deze paragraaf wordt verstaan onder:
 
@@ -514,7 +539,7 @@ In dit hoofdstuk wordt onder «het tijdstip van transitie» verstaan: het tijdst
 
 - d. **middelsom:** de middelsom van de laatste twee berekeningsgrondslagen als bedoeld in artikel 22 van de Pensioenlandsverordening, zonder toepassing van artikel 21 van die landsverordening;
 
-#### Artikel 112f
+##### Artikel 112f
 
 1. Degene die tot het tijdstip van transitie op grond van hoofdstuk 2 van de Landsverordening verhoging leeftijdsgrens 1996 een uitkering genoot en totdat hem ontslag werd verleend standplaats had op Bonaire, Sint Eustatius of Saba, heeft na dat tijdstip recht op eenzelfde uitkering. De uitkering wordt van rechtswege verleend.
 
@@ -544,7 +569,7 @@ In dit hoofdstuk wordt onder «het tijdstip van transitie» verstaan: het tijdst
 
 12. De uitkering komt ten laste van de staat, indien de belanghebbende totdat hem ontslag werd verleend in dienst was van het Land Nederlandse Antillen, en ten laste van het openbaar lichaam Bonaire, Sint Eustatius of Saba, indien de belanghebbende totdat hem ontslag werd verleend in dienst was van het eilandgebied Bonaire, Sint Eustatius, onderscheidenlijk Saba.
 
-#### Artikel 112g
+##### Artikel 112g
 
 1. De werknemer die tot het tijdstip van transitie overheidsdienaar was in de zin van de Pensioenlandsverordening en tot dat tijdstip standplaats had op Bonaire, Sint Eustatius of Saba, heeft na eervol ontslag recht op een uitkering indien hij:
 
@@ -594,7 +619,7 @@ In dit hoofdstuk wordt onder «het tijdstip van transitie» verstaan: het tijdst
 
 12. De belanghebbende kan op generlei wijze over zijn uitkering beschikken, ook niet door verpanding of belening.
 
-#### Artikel 112h
+##### Artikel 112h
 
 1. Het fonds wordt met de uitvoering van deze paragraaf belast.
 
@@ -604,11 +629,11 @@ In dit hoofdstuk wordt onder «het tijdstip van transitie» verstaan: het tijdst
 
 4. Over besluiten, handelingen en weigeringen om te besluiten of te handelen, verband houdende met een aanspraak of een vermeende aanspraak op grond van deze paragraaf, oordeelt bij uitsluiting in eerste aanleg het gerecht in ambtenarenzaken en in hoger beroep de raad van beroep in ambtenarenzaken, óók wanneer de bezwaarde geen ambtenaar is in de zin van de Wet Ambtenarenrechstpraak BES. De bepalingen van die wet zijn van overeenkomstige toepassing.
 
-#### Artikel 113
+##### Artikel 113
 
 Deze wet wordt aangehaald als: Pensioenwet ambtenaren BES.
 
-#### Artikel 112ba
+##### Artikel 112ba
 
 1. Voor de toepassing van [artikel 112b](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&hoofdstuk=XII&paragraaf=1&artikel=112b&z=2011-10-09&g=2011-10-09) en [112c](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&hoofdstuk=XII&paragraaf=1&artikel=112c&z=2011-10-09&g=2011-10-09) worden tot de transitiedatum op arbeidsovereenkomst in dienst van de Nederlandse staat gestelde, werknemers van het Regionaal Service Centrum voor Bonaire, Sint Eustatius en Saba, voor zover ten aanzien van hen niet een pensioenvoorziening vanwege het Algemeen burgerlijk pensioenfonds van toepassing is, geacht pensioenaanspraken te hebben opgebouwd overeenkomstig de Pensioenlandsverordening overheidsdienaren zoals die luidde ten tijde van de periode van de dienstbetrekking.
 

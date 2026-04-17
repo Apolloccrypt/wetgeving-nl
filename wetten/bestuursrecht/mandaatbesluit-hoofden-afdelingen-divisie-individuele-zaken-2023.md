@@ -1,20 +1,46 @@
 ---
-title: "Mandaatbesluit hoofden afdelingen Divisie Individuele Zaken 2023"
+title: "Besluit van de hoofden afdelingen Divisie Individuele Zaken van 26 september 2023, nr. 4924760, houdende verlening van ondermandaat, volmacht en machtiging aan de onder de hoofden van de afdelingen van de Divisie Individuele Zaken ressorterende ambtenaren (Mandaatbesluit hoofden afdelingen Divisie Individuele Zaken 2023)"
 identifier: "BWBR0048695"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-10-07
-laatste_update: 2023-10-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048695"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-10-07"
+last_updated: "2023-10-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048695"
+soort: "ministeriele-regeling"
+stam_id: "16872983"
+version_id: "29655142"
+internal_id: "C42440211"
+label_id: "16785164"
+dtd_version: "2.0"
+original_entry_into_force: "2023-10-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048695/2023-10-07/0"
+intitule_bron: "Stcrt.2023-27211"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-09-26"
+intitule_published: "2023-10-06"
+intitule_in_force: "2023-10-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-27211"
+original_signed_date: "2023-09-26"
+original_published_date: "2023-10-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-27211"
+entry_into_force_date: "2023-10-07"
+jci_1_3: "jci1.3:c:BWBR0048695&z=2023-10-07&g=2023-10-07"
+jci_1_0: "1.0:c:BWBR0048695&g=2023-10-07"
+citeertitel_status: "officieel"
+short_title: "Mandaatbesluit hoofden afdelingen Divisie Individuele Zaken 2023"
+signed_date: "2023-09-26"
+entry_into_force: "2023-10-07"
 ---
-
 # Besluit van de hoofden afdelingen Divisie Individuele Zaken van 26 september 2023, nr. 4924760, houdende verlening van ondermandaat, volmacht en machtiging aan de onder de hoofden van de afdelingen van de Divisie Individuele Zaken ressorterende ambtenaren (Mandaatbesluit hoofden afdelingen Divisie Individuele Zaken 2023)
 
 Gelet op [artikel 3, tweede lid, van het Mandaatbesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=3);
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 Van het ingevolge [artikel 1, eerste lid, van het Mandaatbesluit directeur Divisie Individuele Zaken 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048691&artikel=1) aan de hoofden van de afdelingen verleende ondermandaat, wordt ondermandaat verleend aan de senior selectiefunctionarissen en de senior adviseurs capaciteitsmanagement, ten aanzien van de aangelegenheden die hun team respectievelijk afdeling betreffen, voor het nemen van ministeriële beslissingen aangaande:
 
@@ -28,7 +54,7 @@ Van het ingevolge [artikel 1, eerste lid, van het Mandaatbesluit directeur Divis
 
 - e. rechtshulpverzoeken op grond van de [Wet wederzijdse erkenning en tenuitvoerlegging vrijheidsbenemende en voorwaardelijke sancties](https://wetten.overheid.nl/jci1.3:c:BWBR0031814) en de [Wet overdracht tenuitvoerlegging strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBR0004028).
 
-#### Artikel 2
+##### Artikel 2
 
 Van het ingevolge [artikel 1, eerste lid, van het Mandaatbesluit directeur Divisie Individuele Zaken 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048691&artikel=1) aan de hoofden van de afdelingen verleende ondermandaat, wordt ondermandaat verleend aan de senior selectiefunctionarissen en de selectiefunctionarissen, ten aanzien van de aangelegenheden die hun team betreffen, voor het nemen van ministeriële beslissingen aangaande:
 
@@ -44,7 +70,7 @@ Van het ingevolge [artikel 1, eerste lid, van het Mandaatbesluit directeur Divis
 
 - f. het (tijdelijk) verlaten van de inrichting en de instelling bij wijze van verlof, proefverlof en deelname aan een scholings- en trainingsprogramma, op grond van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=3) en [30 van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=30) en de [artikelen 50](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=50) en [51 van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=51).
 
-#### Artikel 3
+##### Artikel 3
 
 Het in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048695&artikel=1&z=2023-10-07&g=2023-10-07) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0048695&artikel=2&z=2023-10-07&g=2023-10-07) verleende ondermandaat kan niet worden doorgegeven. Voor de toepassing van dit besluit wordt met het verlenen van ondermandaat gelijkgesteld het doorgeven van:
 
@@ -52,17 +78,17 @@ Het in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048695&artikel=
 
 - b. volmacht en machtiging inzake het aanbieden van justitiabelen aan een forensische zorginstelling.
 
-#### Artikel 4
+##### Artikel 4
 
 Het [Mandaatbesluit manager Divisie Individuele Zaken 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041951) en het [Mandaatbesluit midden manager Divisie Individuele Zaken 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037976) worden ingetrokken.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2023.
 
 2. Ministeriële beslissingen of (privaatrechtelijke rechts)handelingen die vóór het tijdstip van inwerkingtreding van dit besluit zijn genomen of verricht door een functionaris van een dienstonderdeel van de Divisie Individuele Zaken op grond van de tot dat tijdstip geldende mandaatbesluiten, behouden hun rechtskracht.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Mandaatbesluit hoofden afdelingen Divisie Individuele Zaken 2023.
 

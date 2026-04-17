@@ -1,13 +1,37 @@
 ---
 title: "Instellingsbeschikking werkgroep ’Fiscale opties bij herstructurering op bedrijfsniveau in de land- en tuinbouw’"
 identifier: "BWBR0010279"
-categorie: "Bestuursrecht"
-publicatiedatum: 1999-05-01
-laatste_update: 1999-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010279"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1999-05-01"
+last_updated: "1999-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010279"
+soort: "ministeriele-regeling"
+stam_id: "3542773"
+version_id: "5325952"
+internal_id: "C5519041"
+label_id: "3522824"
+dtd_version: "2.0"
+original_entry_into_force: "1999-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010279/1999-05-01/0"
+intitule_bron: "Stcrt.1999-44"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-02-12"
+intitule_published: "1999-03-04"
+intitule_in_force: "1999-03-04"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-44"
+original_signed_date: "1999-02-12"
+original_published_date: "1999-03-04"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1999-05-01"
+jci_1_3: "jci1.3:c:BWBR0010279&z=1999-05-01&g=1999-05-01"
+jci_1_0: "1.0:c:BWBR0010279&g=1999-05-01"
+citeertitel_status: "officieel"
+signed_date: "1999-02-12"
+entry_into_force: "1999-05-01"
 ---
-
 # Instellingsbeschikking werkgroep ’Fiscale opties bij herstructurering op bedrijfsniveau in de land- en tuinbouw’
 
 Overwegende dat het wenselijk is de werkgroep ’Fiscale opties bij herstructurering op bedrijfsniveau in de land- en tuinbouw’ in te stellen;
@@ -16,11 +40,11 @@ Besluit:
 
 #### § 1. Instelling en taak
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een werkgroep ’Fiscale opties bij herstructurering op bedrijfsniveau in de land- en tuinbouw’.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De werkgroep heeft tot taak om de opties voor het wegnemen van eventueel bestaande fiscale belemmeringen, met het oog op bespoediging van de gewenste herstructurering op bedrijfsniveau in de land- en tuinbouw, te inventariseren en te beoordelen. Indien de uitkomsten daartoe aanleiding geven doet de werkgroep in aanvulling hierop concrete aanbevelingen voor aanpassing van de regelgeving.
 
@@ -34,7 +58,7 @@ Er is een werkgroep ’Fiscale opties bij herstructurering op bedrijfsniveau in 
 
 #### § 2. Samenstelling en werkwijze
 
-#### Artikel 3
+##### Artikel 3
 
 1. Tot lid, tevens voorzitter van de werkgroep wordt benoemd: drs. W.J. Vossers.
 
@@ -60,25 +84,25 @@ mw. mr. G.M.H. Rutten-Neijnens
 
 drs. J.J. Urselmann
 
-#### Artikel 4
+##### Artikel 4
 
 Ter uitvoering van haar taak kan de werkgroep zich rechtstreeks tot derden wenden voor het verkrijgen van inlichtingen en hen zo nodig ter vergadering uitnodigen om hun mening nader uiteen te laten zetten.
 
-#### Artikel 5
+##### Artikel 5
 
 De werkgroep legt haar uitkomsten en eventuele aanbevelingen voor aanpassing van de regelgeving vóór 1 mei 1999 aan de Staatssecretaris van Financiën over.
 
 #### § 3. Overige bepalingen
 
-#### Artikel 6
+##### Artikel 6
 
 De leden van de werkgroep, voor zover geen ambtenaar, ontvangen vacatiegelden alsmede een vergoeding voor de reis- en verblijfkosten volgens de bestaande rijksregelingen, voor zover niet uit andere hoofde een vergoeding van deze kosten wordt verleend uit ’s Rijks kas.
 
-#### Artikel 7
+##### Artikel 7
 
 Een ieder die betrokken is bij de werkzaamheden van de werkgroep en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan behoudens voor zover wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij deze werkzaamheden de noodzaak tot bekendmaking voortvloeit.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Dit besluit wordt bekend gemaakt in de Staatscourant.
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling syllabi centrale examens VO 2017"
+title: "Regeling van het College voor toetsen en examens van 26 juni 2015, nummer CvTE-15.01719, houdende vaststelling van de syllabi voor de centrale examens in het vwo, havo en vmbo 2017, nadere vaststelling van enkele eerder vastgestelde syllabi, tevens preliminaire vaststelling van enkele syllabi 2018, 2019 en 2020, (Regeling syllabi centrale examens VO 2017)"
 identifier: "BWBR0036941"
-categorie: "Onderwijs"
-publicatiedatum: 2021-01-01
-laatste_update: 2021-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036941"
+country: "nl"
+rank: "zbo"
+publication_date: "2021-01-01"
+last_updated: "2021-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036941"
+soort: "zbo"
+stam_id: "13243963"
+version_id: "22651322"
+internal_id: "C32473811"
+label_id: "13212174"
+dtd_version: "2.0"
+original_entry_into_force: "2015-08-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036941/2021-01-01/0"
+intitule_bron: "Stcrt.2015-25357"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-06-26"
+intitule_published: "2015-08-19"
+intitule_in_force: "2015-08-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-25357"
+original_signed_date: "2015-06-26"
+original_published_date: "2015-08-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-25357"
+entry_into_force_date: "2015-08-20"
+jci_1_3: "jci1.3:c:BWBR0036941&z=2021-01-01&g=2021-01-01"
+jci_1_0: "1.0:c:BWBR0036941&g=2021-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling syllabi centrale examens VO 2017"
+signed_date: "2015-06-26"
+entry_into_force: "2015-08-20"
 ---
-
 # Regeling van het College voor toetsen en examens van 26 juni 2015, nummer CvTE-15.01719, houdende vaststelling van de syllabi voor de centrale examens in het vwo, havo en vmbo 2017, nadere vaststelling van enkele eerder vastgestelde syllabi, tevens preliminaire vaststelling van enkele syllabi 2018, 2019 en 2020, (Regeling syllabi centrale examens VO 2017)
 
 Gelet op [artikel 2, tweede lid, aanhef en onderdeel f, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2);
@@ -16,25 +42,25 @@ Gezien de goedkeuring van de Staatssecretaris van Onderwijs, Cultuur en Wetensch
 
 Besluit:
 
-#### Artikel 1. Syllabi 2017
+##### Artikel 1. Syllabi 2017
 
 Vervallen
 
-#### Artikel 2. Nadere vaststelling van enkele eerder vastgestelde syllabi
+##### Artikel 2. Nadere vaststelling van enkele eerder vastgestelde syllabi
 
 Vervallen
 
-#### Artikel 3. Preliminaire vaststelling van enkele syllabi 2018, 2019 en 2020
+##### Artikel 3. Preliminaire vaststelling van enkele syllabi 2018, 2019 en 2020
 
 Vervallen
 
-#### Artikel 4. Bekendmaking
+##### Artikel 4. Bekendmaking
 
 1. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. De syllabi als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036941&artikel=1&z=2021-01-01&g=2021-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036941&artikel=2&z=2021-01-01&g=2021-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036941&artikel=3&z=2021-01-01&g=2021-01-01) worden bekendgemaakt op www.examenblad.nl.
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt:
 
@@ -52,7 +78,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 - 3.3. betreffende [artikel 3 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036941&artikel=3&z=2021-01-01&g=2021-01-01): per 1 januari 2021.
 
-#### Artikel 6. Citeertitel
+##### Artikel 6. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling syllabi centrale examens VO 2017.
 

@@ -1,13 +1,37 @@
 ---
 title: "Mandaatbesluit Wet op het consumentenkrediet"
 identifier: "BWBR0012499"
-categorie: "Bestuursrecht"
-publicatiedatum: 2001-05-31
-laatste_update: 2001-05-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012499"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2001-05-31"
+last_updated: "2001-05-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012499"
+soort: "ministeriele-regeling"
+stam_id: "3961863"
+version_id: "5734992"
+internal_id: "C5937721"
+label_id: "3941904"
+dtd_version: "2.0"
+original_entry_into_force: "2001-05-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012499/2001-05-31/0"
+intitule_bron: "Stcrt.2001-101"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-05-16"
+intitule_published: "2001-05-29"
+intitule_in_force: "2001-05-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-101"
+original_signed_date: "2001-05-16"
+original_published_date: "2001-05-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-05-31"
+jci_1_3: "jci1.3:c:BWBR0012499&z=2001-05-31&g=2001-05-31"
+jci_1_0: "1.0:c:BWBR0012499&g=2001-05-31"
+citeertitel_status: "officieel"
+signed_date: "2001-05-16"
+entry_into_force: "2001-05-31"
 ---
-
 # Mandaatbesluit Wet op het consumentenkrediet
 
 Gelet op [artikel 10:3 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3);
@@ -18,11 +42,11 @@ Gezien [artikel 10:4 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 De Bank oefent in naam van de Minister de volgende bevoegdheden uit:
 
@@ -52,15 +76,15 @@ De Bank oefent in naam van de Minister de volgende bevoegdheden uit:
 
 - m. het ingevolge [artikel 67 Wet op het consumentenkrediet](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&artikel=67) publiceren in de Staatscourant van een mededeling met betrekking tot een beschikking als bedoeld in artikel 11, eerste lid, 17 of 65 [Wet op het consumentenkrediet](https://wetten.overheid.nl/jci1.3:c:BWBR0004815).
 
-#### Artikel 3
+##### Artikel 3
 
 De Bank adviseert de Minister inzake de aan de Minister op grond van [artikel 63, tweede lid, Wet op het consumentenkrediet](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&artikel=63) voorgelegde begroting van de kosten die zijn gemoeid met de door de in [artikel 62 Wet op het consumentenkrediet](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&artikel=62) bedoelde accountants en organisatie verrichte werkzaamheden. De Bank adviseert de Minister voorts inzake de op grond van [artikel 63, tweede lid, Wet op het consumentenkrediet](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&artikel=63) te stellen regels aangaande de berekening van de bijdragen van de vergunninghouders.
 
-#### Artikel 4
+##### Artikel 4
 
 De Bank verschaft de Minister elk half jaar schriftelijk genoegzame informatie over de wijze waarop zij namens de Minister haar bevoegdheden uitoefent die zij heeft op grond van dit besluit.
 
-#### Artikel 5
+##### Artikel 5
 
 Een document dat is opgesteld door de Bank en waarin is vastgelegd een besluit of handeling genomen respectievelijk verricht op grond van dit besluit, vermeldt aan het slot:
 
@@ -70,10 +94,10 @@ namens deze,
 
 De Nederlandsche Bank N.V.'.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit kan worden aangehaald als `Mandaatbesluit Wet op het consumentenkrediet'.

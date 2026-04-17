@@ -1,20 +1,46 @@
 ---
-title: "Regeling periodieke verstrekking systematische toezichtinformatie vve en lea"
+title: "Regeling van de Minister voor Primair en Voortgezet Onderwijs van 19 april 2023, nr. PO/37613133, houdende regels voor de periodieke verstrekking van systematische toezichtinformatie door gemeenten ten behoeve van het interbestuurlijk toezicht op de wettelijke taken in het kader van voorschoolse educatie en de lokale educatieve agenda"
 identifier: "BWBR0048116"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048116"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048116"
+soort: "ministeriele-regeling"
+stam_id: "16735663"
+version_id: "29382732"
+internal_id: "C41921661"
+label_id: "16651834"
+dtd_version: "2.0"
+original_entry_into_force: "2023-05-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048116/2026-01-01/0"
+intitule_bron: "Stcrt.2023-12490"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-04-19"
+intitule_published: "2023-05-01"
+intitule_in_force: "2023-05-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-12490"
+original_signed_date: "2023-04-19"
+original_published_date: "2023-05-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-12490"
+entry_into_force_date: "2023-05-02"
+jci_1_3: "jci1.3:c:BWBR0048116&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0048116&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling periodieke verstrekking systematische toezichtinformatie vve en lea"
+signed_date: "2023-04-19"
+entry_into_force: "2023-05-02"
 ---
-
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 19 april 2023, nr. PO/37613133, houdende regels voor de periodieke verstrekking van systematische toezichtinformatie door gemeenten ten behoeve van het interbestuurlijk toezicht op de wettelijke taken in het kader van voorschoolse educatie en de lokale educatieve agenda
 
 Gelet op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031812&artikel=2) en [5 van het Besluit verstrekking systematische toezichtinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0031812&artikel=5);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -48,11 +74,11 @@ In deze regeling wordt verstaan onder:
 
 - **vroegschoolse educatie:** educatie, uitgevoerd onder verantwoordelijkheid van de bevoegd gezagsorganen als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), gericht op kinderen met een risico op een achterstand in de Nederlandse taal, met als doel om hen beter voor te bereiden op de basisschool.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Deze regeling legt de verplichting vast voor gemeenten ten aanzien van de periodieke verstrekking van systematische toezichtinformatie aan de minister. Dit is ten behoeve van het interbestuurlijk toezicht op de uitvoering van de wettelijke taken door de gemeente in het kader van voor- en vroegschoolse educatie en de lokale educatieve agenda en het nieuwkomersonderwijs, als bedoeld in de [artikelen 159 tot en met 163 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=159), de lokale educatieve agenda, als bedoeld in [artikel 3.42 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.42), en de overlegplicht nieuwkomers als bedoeld in [artikel 193c van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=193c) en [artikel 9.3c van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=9.3c).
 
-#### Artikel 3. Wettelijke taken gegevensverstrekking college
+##### Artikel 3. Wettelijke taken gegevensverstrekking college
 
 1. Het college verstrekt aan de minister jaarlijks gegevens over de uitvoering van de aan het college bij of krachtens de wet opgedragen taken in het daaraan voorafgaande kalenderjaar.
 
@@ -92,7 +118,7 @@ Deze regeling legt de verplichting vast voor gemeenten ten aanzien van de period
 
 - f. het voeren van ten minste jaarlijks overleg met de bevoegde gezagen van alle scholen in de gemeente en zorg dragen voor het maken van afspraken, als bedoeld in [artikel 193c van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=193c) en [artikel 9.3c van de Wet voorgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=9.3c).
 
-#### Artikel 4. Welke gegevens
+##### Artikel 4. Welke gegevens
 
 1. Voor de taak, bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048116&artikel=3&z=2026-01-01&g=2026-01-01), verstrekt het college:
 
@@ -130,16 +156,16 @@ Deze regeling legt de verplichting vast voor gemeenten ten aanzien van de period
 
 - c. een doorlopende leerlijn voor nieuwkomers wordt georganiseerd.
 
-#### Artikel 5. Tijdstip en wijze verstrekking gegevens
+##### Artikel 5. Tijdstip en wijze verstrekking gegevens
 
 1. Het college verstrekt de gegevens, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048116&artikel=4&z=2026-01-01&g=2026-01-01) over het afgelopen kalenderjaar, uiterlijk op 1 april van elk kalenderjaar.
 
 2. Het college maakt bij de verstrekking van de gegevens gebruik van een daartoe door de minister vastgesteld formulier.
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2023.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling periodieke verstrekking systematische toezichtinformatie vve en lea.

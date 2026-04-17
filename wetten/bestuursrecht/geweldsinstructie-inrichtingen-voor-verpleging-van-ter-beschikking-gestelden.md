@@ -1,13 +1,38 @@
 ---
 title: "Geweldsinstructie inrichtingen voor verpleging van ter beschikking gestelden"
 identifier: "BWBR0012110"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-02-05
-laatste_update: 2026-02-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012110"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-02-05"
+last_updated: "2026-02-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012110"
+soort: "ministeriele-regeling"
+stam_id: "3531853"
+version_id: "14598342"
+internal_id: "C19876501"
+label_id: "3512004"
+dtd_version: "2.0"
+original_entry_into_force: "2007-06-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012110/2026-02-05/0"
+intitule_bron: "Stcrt.2001-7"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-12-27"
+intitule_published: "2001-01-10"
+intitule_in_force: "2001-01-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-123"
+original_signed_date: "2007-06-27"
+original_published_date: "2007-06-29"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2007-123-p14-SC80988"
+entry_into_force_date: "2007-06-27"
+jci_1_3: "jci1.3:c:BWBR0012110&z=2026-02-05&g=2026-02-05"
+jci_1_0: "1.0:c:BWBR0012110&g=2026-02-05"
+citeertitel_status: "officieel"
+signed_date: "2007-06-27"
+entry_into_force: "2007-06-27"
 ---
-
 # Geweldsinstructie inrichtingen voor verpleging van ter beschikking gestelden
 
 Gelet op [artikel 30, vierde lid, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=30);
@@ -18,7 +43,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze instructie wordt verstaan onder:
 
@@ -56,13 +81,13 @@ In deze instructie wordt verstaan onder:
 
 #### § 2. Gebruik geweld en aanwenden van vrijheidsbeperkend middelen
 
-#### Artikel 2
+##### Artikel 2
 
 Het hoofd van de inrichting voor verpleging van ter beschikking gestelden draagt er zorg voor dat de personeelsleden of medewerkers over voldoende vaardigheden beschikken met betrekking tot het gebruik van geweld en het aanwenden van vrijheidsbeperkende middelen.
 
 #### § 2a. Gebruik van geweld ter voorkoming van onttrekking aan het toezicht tijdens begeleid verlof
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het gebruik van een geweldsmiddel is uitsluitend toegestaan aan een personeelslid of medewerker:
 
@@ -74,7 +99,7 @@ Het hoofd van de inrichting voor verpleging van ter beschikking gestelden draagt
 
 2. Aan het gebruik van een geweldsmiddel gaat zo mogelijk een waarschuwing vooraf.
 
-#### Artikel 4
+##### Artikel 4
 
 Het gebruik van een semi-automatisch pistool is slechts geoorloofd:
 
@@ -86,17 +111,17 @@ Het gebruik van een semi-automatisch pistool is slechts geoorloofd:
 
 - d. ter afwending van direct gevaar voor het leven van personen of het ontstaan van zwaar lichamelijk letsel.
 
-#### Artikel 5
+##### Artikel 5
 
 Een personeelslid of medewerker mag in verband met zijn eigen veiligheid of die van anderen uit voorzorg een vuurwapen ter hand nemen slechts indien redelijkerwijs kan worden aangenomen dat een situatie ontstaat waarin hij bevoegd is het vuurwapen te gebruiken. Zodra blijkt dat een dergelijke situatie zich niet voordoet, wordt het vuurwapen terstond opgeborgen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het personeelslid of de medewerker geeft onmiddellijk voordat hij gericht met een vuurwapen zal schieten een waarschuwing. De waarschuwing kan worden vervangen door een waarschuwingsschot, wanneer omstandigheden de waarschuwing niet toelaten.
 
 2. Een waarschuwingsschot moet op zodanige wijze worden afgevuurd dat gevaar voor personen of zaken zoveel mogelijk wordt vermeden.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het gebruik van CS-traangas is slechts geoorloofd:
 
@@ -110,7 +135,7 @@ Een personeelslid of medewerker mag in verband met zijn eigen veiligheid of die 
 
 #### § 4. De eenheid
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het hoofd van de inrichting voor verpleging van ter beschikking gestelden of een daartoe door hem aangewezen personeelslid of medewerker kan de eenheid inzetten.
 
@@ -118,13 +143,13 @@ Een personeelslid of medewerker mag in verband met zijn eigen veiligheid of die 
 
 #### § 5. Het inrichtingspersoneel
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
 #### § 4. De eenheid
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het hoofd van de inrichting voor verpleging van ter beschikking gestelden maakt op basis van deze regeling een voor zijn inrichting geldende dienstinstructie voor personeelsleden of medewerkers.
 
@@ -132,7 +157,7 @@ Vervallen
 
 3. Het hoofd van de inrichting voor verpleging van ter beschikking gestelden zendt binnen drie maanden na inwerkingtreding van deze regeling een afschrift van de voor zijn inrichting geldende dienstinstructie aan de Minister van Justitie.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het personeelslid of de medewerker die geweld heeft gebruikt of vrijheidsbeperkende middelen heeft aangewend, meldt dit onverwijld schriftelijk aan het hoofd van de inrichting voor verpleging van ter beschikking gestelden. De schriftelijke melding dient duidelijkheid te verschaffen over de redenen die tot het aanwenden van geweld hebben geleid, de daaruit voortvloeiende gevolgen en over degene op wiens last dit aanwenden van geweld heeft plaatsgevonden.
 
@@ -146,15 +171,15 @@ Vervallen
 
 #### § 6. Protocollering en meldplicht
 
-#### Artikel 12
+##### Artikel 12
 
 Deze instructie treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze instructie wordt aangehaald als: Geweldsinstructie inrichtingen voor verpleging van ter beschikking gestelden.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Indien een ter beschikking gestelde of anderszins verpleegde zich tijdens begeleid verlof dreigt te onttrekken aan het op hem uitgeoefende toezicht, trachten de personeelsleden of medewerkers die het toezicht op de ter beschikking gestelde of anderszins verpleegde uitoefenen, hem daarvan te weerhouden.
 
@@ -170,7 +195,7 @@ Deze instructie wordt aangehaald als: Geweldsinstructie inrichtingen voor verple
 
 #### § 3. Gebruik geweldsmiddelen
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. Het hoofd van de inrichting kan met voorafgaande machtiging van de Minister van Justitie besluiten om proeven te houden met andere middelen, dan genoemd in [artikel 1, onder e en f,](https://wetten.overheid.nl/jci1.3:c:BWBR0012110&paragraaf=1&artikel=1&z=2026-02-05&g=2026-02-05) met het doel onttrekkingen aan het toezicht als bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012110&paragraaf=2a&artikel=2a&z=2026-02-05&g=2026-02-05) te voorkomen.
 
@@ -188,7 +213,7 @@ Deze instructie wordt aangehaald als: Geweldsinstructie inrichtingen voor verple
 
 #### § 7. Slotbepalingen
 
-#### Artikel 4a
+##### Artikel 4a
 
 Het gebruik van een semi-automatisch schoudervuurwapen is slechts geoorloofd om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
 

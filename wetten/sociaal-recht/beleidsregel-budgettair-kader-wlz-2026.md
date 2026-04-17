@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel budgettair kader Wlz 2026"
+title: "Beleidsregel Budgettair kader Wlz 2026"
 identifier: "BWBR0051684"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-10-30
-laatste_update: 2025-10-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051684"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-10-30"
+last_updated: "2025-10-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051684"
+soort: "zbo"
+stam_id: "17576943"
+version_id: "31015002"
+internal_id: "C44412381"
+label_id: "17478114"
+dtd_version: "2.0"
+original_entry_into_force: "2025-10-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051684/2025-10-30/0"
+intitule_bron: "Stcrt.2025-36602"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-10-21"
+intitule_published: "2025-10-29"
+intitule_in_force: "2025-10-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-36602"
+original_signed_date: "2025-10-21"
+original_published_date: "2025-10-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-36602"
+entry_into_force_date: "2025-10-30"
+jci_1_3: "jci1.3:c:BWBR0051684&z=2025-10-30&g=2025-10-30"
+jci_1_0: "1.0:c:BWBR0051684&g=2025-10-30"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel budgettair kader Wlz 2026"
+signed_date: "2025-10-21"
+entry_into_force: "2025-10-30"
 ---
-
 # Beleidsregel Budgettair kader Wlz 2026
 
 **Grondslag**
@@ -20,7 +46,7 @@ Gelet op [artikel 49e, zesde lid, van de Wmg](https://wetten.overheid.nl/jci1.3:
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -64,15 +90,15 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - **zorgkantoorhouder:** Wlz-uitvoerder die voor één of meer regio’s is aangewezen als zorgkantoor. Voor overige begrippen die in deze beleidsregel voorkomen en die niet hierboven worden vermeld, wordt verwezen naar de [Beleidsregel definities Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0051356).
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om de regionale verdeling van de contracteerruimte vast te stellen, waarbinnen de Wlz-uitvoerders/ zorgkantoren voor het jaar 2026 zorg in natura kunnen contracteren. Daarnaast wordt in deze beleidsregel, op grond van [artikel 49e, lid 6 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=49e), de informerende rol van de NZa richting de minister vastgelegd ten aanzien van de in dat artikel bedoelde landelijke bedragen voor zin, alsmede de regionale bedragen voor pgb en voor de overige uitvoeringskosten. Verder geeft deze beleidsregel aan op welke manier middelen overgeheveld kunnen worden tussen de verschillende financiële kaders. Tot slot geeft deze beleidsregel aan op welke wijze de verwerking van de gemaakte productieafspraken in de budgetronde en herschikkingsronde in de budgetten van de zorgaanbieders plaatsvindt.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op de zorg of dienst als omschreven bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) (Wlz) die wordt geleverd door zorgaanbieders.
 
-#### Artikel 4. Toedeling en opbouw budgettair kader 2026
+##### Artikel 4. Toedeling en opbouw budgettair kader 2026
 
 De Minister van VWS heeft het macrobedrag voor de contracteerruimte voor zin, pgb en de overige uitvoeringskosten vastgesteld in de Definitieve kaderbrief Wlz 2026 (kenmerk 4208786-1087253-LZ).
 
@@ -96,7 +122,7 @@ Het startpunt gebaseerd op het Wlz kader 2025 zoals genoemd onder a. wordt, op b
 
 Het door de Minister van VWS beschikbaar gestelde bedrag voor pgb’s wordt gebruteerd tot middelen zin en opgeteld bij het voor zin beschikbaar gestelde bedrag, om zo tot een netto Wlz kader te komen. Dit kader wordt volgens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051684&artikel=5&z=2025-10-30&g=2025-10-30) toegedeeld aan de regio’s. Wlz uitvoerder/zorgkantoren kunnen tot 15 november 2025 aangegeven wat het aandeel pgb moet zijn (zie [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0051684&artikel=9&z=2025-10-30&g=2025-10-30)). Dit aandeel wordt vervolgens weer gebruteerd (bruteringseffect).
 
-#### Artikel 5. Verdeling budgettair kader zin en pgb over de regio’s
+##### Artikel 5. Verdeling budgettair kader zin en pgb over de regio’s
 
 Het in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051684&artikel=4&z=2025-10-30&g=2025-10-30) beschreven Wlz kader wordt als volgt over de regio’s verdeeld.
 
@@ -114,7 +140,7 @@ Er is € 390 miljoen beschikbaar aan herverdelingsmiddelen 2026. De NZa zal de 
 
 Indien er in 2026 herverdelingsmiddelen ter beschikking komen, wordt van deze herverdelingsmiddelen € 11 miljoen apart gehouden tot 1 september 2026. Deze middelen zijn bedoeld voor tekorten die leiden tot schrijnende gevallen in geval van absolute krimp van budget bij een zorgkantoor4In de technische bijlage bij de beleidsregel wordt dit beschreven..
 
-#### Artikel 6. Toedeling budgettair kader naar zin en pgb
+##### Artikel 6. Toedeling budgettair kader naar zin en pgb
 
 De uitkomst van [artikel 5, eerste lid onder b, stap 1 t/m 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051684&artikel=5&z=2025-10-30&g=2025-10-30) is een netto kader per regio.
 
@@ -124,7 +150,7 @@ Vervolgens kunnen Wlz-uitvoerders tot 15 november jaar t-1 aangeven of zij deze 
 
 Het totale kader, de beschikbare contracteerruimte en de verdeling van de pgb-middelen naar de verschillende regios wordt opgenomen in de [Regeling langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0036014).
 
-#### Artikel 7. NZa informeert minister over verdeling budgettair kader overige uitvoeringskosten
+##### Artikel 7. NZa informeert minister over verdeling budgettair kader overige uitvoeringskosten
 
 Op basis van [artikel 49e lid 5 en 6, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=49e) informeert de NZa de Minister van VWS over de verdeling van de overige uitvoeringskosten over de regio’s. Die verdeling kan de minister vaststellen in de [Regeling langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0036014).
 
@@ -136,13 +162,13 @@ De NZa zal de Minister en de Wlz-uitvoerders uiterlijk op 31 oktober 2025 inform
 
 Na 15 november jaar t-1 kan overgeheveld worden conform de systematiek van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0051684&artikel=10&z=2025-10-30&g=2025-10-30).
 
-#### Artikel 8. Geoormerkte middelen innovatie
+##### Artikel 8. Geoormerkte middelen innovatie
 
 Binnen de contracteerruimte als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051684&artikel=4&z=2025-10-30&g=2025-10-30) van deze beleidsregel, zijn geoormerkte middelen voor innovatie beschikbaar.
 
 Voor de bekostiging van innovatie ten behoeve van nieuwe zorgprestaties is landelijk € 20 miljoen beschikbaar. Dit bedrag wordt niet verdeeld over de regio’s overeenkomstig de in deze beleidsregel beschreven verdeelmodel zin en pgb, alsmede flankerend beleid ([artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051684&artikel=4&z=2025-10-30&g=2025-10-30), [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051684&artikel=5&z=2025-10-30&g=2025-10-30) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0051684&artikel=6&z=2025-10-30&g=2025-10-30)), maar over zorgaanbieders en zorgkantoren via de aanvraagprocedure zoals beschreven in de [Beleidsregel innovatie voor kleinschalige experimenten](https://wetten.overheid.nl/jci1.3:c:BWBR0050215).
 
-#### Artikel 9. Overhevelingen tussen regio’s
+##### Artikel 9. Overhevelingen tussen regio’s
 
 Tussen de Wlz-uitvoerders/zorgkantoren kunnen middelen worden overgeheveld binnen de contracteerruimte voor zin,binnen het pgb-kader of binnen het kader voor overige uitvoeringskosten. Daarnaast is overheveling mogelijk tussen de contracteerruimte voor zin en het pgb-kader, evenals van het kader voor overige uitvoeringskosten naar de contracteerruimte voor zin of naar het pgb-kader. Er kunnen alleen middelen worden overgeheveld indien er daadwerkelijk geld beschikbaar is.
 
@@ -182,7 +208,7 @@ Overhevelingen die worden ingediend tot 1 oktober jaar t zijn structureel, tenzi
 
 In de bijlage ‘Kader Wlz 2026’ (bijlage 2) bij deze beleidsregel verwerkt de NZa maandelijks de overhevelingen in de verdeling van het budgettair kader Wlz 2026. In dit overzicht is tevens de aansluiting met de kaderbrief terug te vinden. Deze maandelijkse overzichten zijn op de NZa-website te vinden.
 
-#### Artikel 10. Overheveling in een regio
+##### Artikel 10. Overheveling in een regio
 
 Het is mogelijk om binnen een zorgkantoorregio middelen over te hevelen van de contracteerruimte zin naar het pgb-kader en omgekeerd. Daarnaast kunnen middelen vanuit het kader voor overige uitvoeringskosten overgeheveld worden naar de contracteerruimte voor zin en het pgb-kader, maar niet omgekeerd. Er kunnen alleen middelen worden overgeheveld indien er daadwerkelijk geld beschikbaar is.
 
@@ -214,11 +240,11 @@ Overhevelingen die ingediend worden na 1 oktober jaar t worden als incidentele o
 
 In de bijlage ‘Kader Wlz 2026’ bij deze beleidsregel verwerkt de NZa maandelijks de overhevelingen in de verdeling van het budgettair kader Wlz 2026. In dit overzicht is tevens de aansluiting met de kaderbrief terug te vinden. Deze maandelijkse overzichten zijn op de NZa-website te vinden.
 
-#### Artikel 11. Overheveling tussen Wlz en Zvw (in de ggz-sector)
+##### Artikel 11. Overheveling tussen Wlz en Zvw (in de ggz-sector)
 
 Het is mogelijk om middelen over te hevelen van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) naar de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en andersom. De voorwaarden hiervoor zijn opgenomen in de Beleidsregel overheveling ggz budget Wlz-Zvw. De Minister van VWS stelt het budgettair kader vast in de [Regeling langdurge zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0036014). Dit betekent dat de overhevelingen pas doorwerken in de regionale contracteerruimte(n) als het vastgestelde kader daadwerkelijk is aangepast door VWS.
 
-#### Artikel 12. Algemene verwerking budgetaanvragen 2026 zin
+##### Artikel 12. Algemene verwerking budgetaanvragen 2026 zin
 
 Het formulier waarin de productieafspraken jaar t tussen zorgaanbieder en Wlz-uitvoerder zijn vastgelegd (budgetformulier), moet vóór 15 november jaar t-1 (budgetronde) bij de NZa worden ingediend.
 
@@ -260,7 +286,7 @@ Het gaat om indiening ten behoeve van (a) een nieuwe zorgaanbieder. Bovendien ga
 
 Indien een eenzijdige aanvraag wordt ingediend, vergewist de NZa zich van de grondslag van de weigering van het zorgkantoor of de zorgaanbieder om de aanvraag mede te ondertekenen. Een eenzijdige aanvraag wijst de NZa af tenzij de NZa de weigering van het zorgkantoor/de Wlz-uitvoerder of de zorgaanbieder kennelijk onredelijk acht.
 
-#### Artikel 13. Beslismodel
+##### Artikel 13. Beslismodel
 
 In het eerste lid van dit artikel wordt aangegeven van welke productieafspraak de NZa uitgaat voor de toetsing van de afspraak aan de beschikbare contracteerruimte exclusief geoormerkte middelen.
 
@@ -282,7 +308,7 @@ Indien een eenzijdige aanvraag voor aanpassing van de gehonoreerde productieafsp
 
 - −. Er worden twee eenzijdige, niet aan elkaar gelijk zijnde aanvragen ingediend. De eerder gehonoreerde productieafspraak (budgetronde) is een reële productieafspraak. Deze gehonoreerde productieafspraakligt lager dan de bij de herschikkingsronde eenzijdig aangevraagde productieafspraken. De NZa gaat in dat geval bij de herschikking uit van de laagst aangevraagde productieafspraak van de herschikkingsronde als deze hoger ligt dan de eerder gehonoreerde productieafspraak. Indien één eenzijdige aanvraag wordt ingediend, waarbij sprake is van een door de rechter uitgesproken faillissement van de zorgaanbieder, vergewist de NZa zich van de grondslag van weigering van het zorgkantoor/Wlz-uitvoerder of zorgaanbieder/curator om de aanvraag mede te ondertekenen. Een eenzijdige aanpassing van de gehonoreerde productieafspraak in geval van faillissement is mogelijk. De NZa volgt in dat geval de enige eenzijdige opgave, ingediend door de zorgaanbieder/curator dan wel door zorgkantoor/Wlz-uitvoerder. Indien er sprake is van twee eenzijdige verzoeken tot aanpassing van de productieafspraak, waarbij sprake is van een door de rechter uitgesproken faillissement van de zorgaanbieder, gaat de NZa uit van de aanpassing van de productieafspraak tot het laagste totaal bedrag.
 
-#### Artikel 14. Overschrijding contracteerruimte en geoormerkte ruimte
+##### Artikel 14. Overschrijding contracteerruimte en geoormerkte ruimte
 
 Het totale bedrag van de budgetaanvragen mag de contracteerruimte, of het maximum van de geoormerkte middelen niet overschrijden. Als het totale bedrag van de aanvragen binnen de regio van een Wlz-uitvoerder in de hoedanigheid van zorgkantoor de beschikbare contracteerruimte of het maximum van de geoormerkte middelen overschrijdt, gelden de bepalingen zoals opgenomen in het tweede en derde lid.
 
@@ -298,7 +324,7 @@ Het voorgaande is niet van toepassing op de geoormerkte middelen Innovatie ([art
 
 Bij de zzp-meerzorg is aanvullend van toepassing dat de toename van de omzet zzp-meerzorg als gevolg van een verhuizing van een cliënt waarvoor reeds meerzorg is gedeclareerd door de zorgaanbieder waar de cliënt verbleef voor de verhuizing, buiten beschouwing wordt gelaten bij de correctie indien een overheveling van omzet heeft plaatsgevonden van de oude zorgaanbieder naar de nieuwe zorgaanbieder.
 
-#### Artikel 15. Overschrijding pgb-kader
+##### Artikel 15. Overschrijding pgb-kader
 
 Indien een zorgkantoor verwacht het regionale pgb-kader te overschrijden, moet dit tijdig kenbaar worden gemaakt bij de NZa. Hierbij moet niet worden gewacht tot de maandelijkse informatieverstrekking aan de NZa.
 
@@ -312,7 +338,7 @@ Een zorgkantoorregio mag het beschikbaar gestelde pgb subsidieplafond niet overs
 
 - −. bij het uitblijven van middelen een pgb-stop invoeren en indien mogelijk zin aanbieden.
 
-#### Artikel 16. Overschrijding kader overige uitvoeringskosten
+##### Artikel 16. Overschrijding kader overige uitvoeringskosten
 
 Indien een zorgkantoor verwacht het regionale bedrag voor overige uitvoeringskosten in jaar t te overschrijden, kan zij dit melden bij de NZa. De NZa kan de Minister van VWS over deze melding informeren overeenkomstig [artikel 49e, zesde lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=49e). Na ontvangst van een melding, beziet de NZa of het zorgkantoor het mogelijke heeft gedaan om een overschrijding van het regionale bedrag te voorkomen, waaronder:
 
@@ -324,13 +350,13 @@ Voor zover er nog mogelijkheden zijn, verzoekt de NZa het zorgkantoor deze mogel
 
 Voor zover nodig verzoekt de NZa het zorgkantoor of anderen om informatie naar aanleiding van de melding van het zorgkantoor.
 
-#### Artikel 17. Intrekken/Vervallen oude beleidsregel(s)
+##### Artikel 17. Intrekken/Vervallen oude beleidsregel(s)
 
 De [Beleidsregel budgettair kader Wlz 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0051672), met kenmerk BR/REG-25124d, die een geldigheidsduur heeft tot 1 juli 2026, komt op laatstgenoemde datum van rechtswege te vervallen.
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de[Beleidsregel budgettair kader Wlz 2026](https://wetten.overheid.nl/jci1.3:c:BWBR0051360) met kenmerk BR/REG-26123 ingetrokken.
 
-#### Artikel 18. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
+##### Artikel 18. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
 
 De [Beleidsregel budgettair kader Wlz 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0051672) met kenmerk BR/REG-25124d, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

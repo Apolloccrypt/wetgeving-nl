@@ -1,13 +1,38 @@
 ---
 title: "Tarievenbesluit 2025 Raad voor Accreditatie"
 identifier: "BWBR0050603"
-categorie: "Internationaal recht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050603"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050603"
+soort: "zbo"
+stam_id: "17320143"
+version_id: "30515052"
+internal_id: "C43746821"
+label_id: "17224264"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050603/2025-01-01/0"
+intitule_bron: "Stcrt.2024-41691"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-12-03"
+intitule_published: "2024-12-19"
+intitule_in_force: "2024-12-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-41691"
+original_signed_date: "2024-12-03"
+original_published_date: "2024-12-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-41691"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050603&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050603&g=2025-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2024-12-03"
+entry_into_force: "2025-01-01"
 ---
-
 # Tarievenbesluit 2025 Raad voor Accreditatie
 
 gelet op [artikel 7 van de Wet aanwijzing nationale accreditatie-instantie](https://wetten.overheid.nl/jci1.3:c:BWBR0026591&artikel=7) voor zijn dienstverlening, op 3 december 2024 het volgende tarievenbesluit vastgesteld.
@@ -16,15 +41,15 @@ gelet op [artikel 7 van de Wet aanwijzing nationale accreditatie-instantie](http
 
 Vast te stellen het Tarievenbesluit 2025 Raad voor Accreditatie en de daarbij horende tarieventabel.
 
-#### Artikel 1
+##### Artikel 1
 
 De RvA brengt tarieven in rekening voor zijn dienstverlening op grond van de [Wet aanwijzing nationale accreditatie-instantie](https://wetten.overheid.nl/jci1.3:c:BWBR0026591) zoals vermeld in dit besluit en de daarbij horende tarieventabel.
 
-#### Artikel 2
+##### Artikel 2
 
 De tarieven worden in rekening gebracht aan de aanvrager dan wel degene voor wie de dienst wordt verleend.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het jaarlijks accreditatietarief wordt in het begin van het lopende jaar in rekening gebracht.
 
@@ -32,19 +57,19 @@ De tarieven worden in rekening gebracht aan de aanvrager dan wel degene voor wie
 
 3. Andere activiteiten kunnen voorafgaande aan de uitvoering volledig of gedeeltelijk worden gefactureerd en pas na ontvangst van de betaling uitgevoerd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De in rekening gebrachte tarieven moeten binnen 30 dagen na dagtekening worden betaald.
 
 2. In afwijking van het eerste lid, kan de RvA de betalingstermijn van de facturen bedoeld onder [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050603&artikel=3&z=2025-01-01&g=2025-01-01), verkorten.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien een instelling (aanvrager) in de loop van het jaar wordt geaccrediteerd, wordt er een equivalent deel van het van toepassing zijnde jaarlijks tarief geheven over de resterende periode van het jaar.
 
 2. Indien de accreditatie in de loop van het jaar eindigt of beëindigd wordt, vindt geen restitutie van het jaarlijks tarief plaats.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van 1 januari 2025.
 

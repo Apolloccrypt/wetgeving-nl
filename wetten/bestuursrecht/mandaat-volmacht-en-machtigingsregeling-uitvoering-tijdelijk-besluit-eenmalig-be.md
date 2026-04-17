@@ -1,20 +1,46 @@
 ---
-title: "Mandaat- volmacht- en machtigingsregeling Uitvoering Tijdelijk besluit eenmalig bedrag ouderen van Surinaamse herkomst"
+title: "Regeling van de Minister voor Armoedebeleid, Participatie en Pensioenen van 24 juni 2024, nr. 2024-0000164084 tot het verlenen van mandaat, volmacht en machtiging aan de voorzitter van de Raad van bestuur van de Sociale verzekeringsbank ter uitvoering van het Besluit van 6 oktober 2023, houdende de toekenning van een eenmalig bedrag aan ouderen van Surinaamse herkomst (Tijdelijk besluit eenmalig bedrag ouderen van Surinaamse herkomst, Stb. 2023, 386)"
 identifier: "BWBR0049912"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-07-03
-laatste_update: 2024-07-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049912"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-07-03"
+last_updated: "2024-07-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049912"
+soort: "ministeriele-regeling"
+stam_id: "17155393"
+version_id: "30194732"
+internal_id: "C43258161"
+label_id: "17063574"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049912/2024-07-03/0"
+intitule_bron: "Stcrt.2024-21159"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-24"
+intitule_published: "2024-07-02"
+intitule_in_force: "2024-07-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-21159"
+original_signed_date: "2024-06-24"
+original_published_date: "2024-07-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-21159"
+entry_into_force_date: "2024-07-03"
+jci_1_3: "jci1.3:c:BWBR0049912&z=2024-07-03&g=2024-07-03"
+jci_1_0: "1.0:c:BWBR0049912&g=2024-07-03"
+citeertitel_status: "officieel"
+short_title: "Mandaat- volmacht- en machtigingsregeling Uitvoering Tijdelijk besluit eenmalig bedrag ouderen van Surinaamse herkomst"
+signed_date: "2024-06-24"
+entry_into_force: "2024-07-03"
 ---
-
 # Regeling van de Minister voor Armoedebeleid, Participatie en Pensioenen van 24 juni 2024, nr. 2024-0000164084 tot het verlenen van mandaat, volmacht en machtiging aan de voorzitter van de Raad van bestuur van de Sociale verzekeringsbank ter uitvoering van het Besluit van 6 oktober 2023, houdende de toekenning van een eenmalig bedrag aan ouderen van Surinaamse herkomst (Tijdelijk besluit eenmalig bedrag ouderen van Surinaamse herkomst, Stb. 2023, 386)
 
 Gelet op [artikel 10:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) en [artikel 11 van het Tijdelijk besluit eenmalig bedrag ouderen van Surinaamse herkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0048840&artikel=11);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 - g. **voorzitter:** voorzitter van de Raad van bestuur van de SVB.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De voorzitter wordt mandaat verleend tot:
 
@@ -50,11 +76,11 @@ In dit besluit wordt verstaan onder:
 
 3. De voorzitter wordt toegestaan om onder mandaat te verlenen zoals bedoeld in [artikel 10:9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9) met betrekking tot de in het eerste lid genoemde in mandaat uitgevoerde bevoegdheden alsmede om de in het tweede en derde lid bedoelde bevoegdheden door te verlenen.
 
-#### Artikel 3
+##### Artikel 3
 
 De voorzitter is gemachtigd tot het vaststellen van beleidsregels ten aanzien van de uitvoering van het [Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0048840).
 
-#### Artikel 4
+##### Artikel 4
 
 De ondertekening van besluiten en andere stukken in verband met de uitvoering van het [Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0048840) vindt plaats op de volgende wijze:
 
@@ -66,10 +92,10 @@ De ondertekening van besluiten en andere stukken in verband met de uitvoering va
 
 **de Sociale Verzekeringsbank,**
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de eerste dag na de datum van afgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: **Mandaat- volmacht- en machtigingsregeling Uitvoering Tijdelijk besluit eenmalig bedrag ouderen van Surinaamse herkomst**en zal met de toelichting in de Staatscourant worden geplaatst.

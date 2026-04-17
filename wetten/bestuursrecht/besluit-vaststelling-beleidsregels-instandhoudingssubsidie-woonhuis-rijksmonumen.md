@@ -1,24 +1,50 @@
 ---
-title: "Besluit vaststelling beleidsregels instandhoudingssubsidie woonhuis-rijksmonumenten"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 12 februari 2019 nr. WJZ/1091575(8144), houdende vaststelling van beleidsregels en een subsidieplafond inzake een subsidie ten behoeve van de instandhouding van woonhuis-rijksmonumenten (Besluit vaststelling beleidsregels instandhoudingssubsidie woonhuis-rijksmonumenten)"
 identifier: "BWBR0041915"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-12-09
-laatste_update: 2025-12-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041915"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-12-09"
+last_updated: "2025-12-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041915"
+soort: "ministeriele-regeling"
+stam_id: "15002773"
+version_id: "29379302"
+internal_id: "C41917111"
+label_id: "14952734"
+dtd_version: "2.0"
+original_entry_into_force: "2023-04-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041915/2025-12-09/0"
+intitule_bron: "Stcrt.2019-7987"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-02-12"
+intitule_published: "2019-02-15"
+intitule_in_force: "2019-02-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-12602"
+original_signed_date: "2023-04-20"
+original_published_date: "2023-04-28"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2023-12602"
+entry_into_force_date: "2023-04-20"
+jci_1_3: "jci1.3:c:BWBR0041915&z=2025-12-09&g=2025-12-09"
+jci_1_0: "1.0:c:BWBR0041915&g=2025-12-09"
+citeertitel_status: "officieel"
+short_title: "Besluit vaststelling beleidsregels instandhoudingssubsidie woonhuis-rijksmonumenten"
+signed_date: "2023-04-20"
+entry_into_force: "2023-04-20"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 12 februari 2019 nr. WJZ/1091575(8144), houdende vaststelling van beleidsregels en een subsidieplafond inzake een subsidie ten behoeve van de instandhouding van woonhuis-rijksmonumenten (Besluit vaststelling beleidsregels instandhoudingssubsidie woonhuis-rijksmonumenten)
 
 Gelet op [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.1) juncto [artikel 7.7, tweede lid, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.7) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
 
 Besluit:
 
-#### Artikel 1. Vaststellen beleidskader
+##### Artikel 1. Vaststellen beleidskader
 
 Het Beleidskader instandhoudingssubsidie woonhuis-rijksmonumenten wordt vastgesteld overeenkomstig de bijlage bij dit besluit.
 
-#### Artikel 2. Subsidieplafond en wijze van verdeling
+##### Artikel 2. Subsidieplafond en wijze van verdeling
 
 1. Voor subsidieverstrekking op grond van dit besluit is:
 
@@ -40,17 +66,17 @@ Het Beleidskader instandhoudingssubsidie woonhuis-rijksmonumenten wordt vastgest
 
 3. Indien het resterende beschikbare bedrag, bedoeld in het eerste lid, in een bepaald kalenderjaar ontoereikend is om alle daarvoor in aanmerking komende aanvragen toe te wijzen, wordt het in de bijlage vastgestelde subsidiepercentage verlaagd tot het hoogst mogelijke percentage waarvoor alle daarvoor in aanmerking komende aanvragen binnen de grenzen van het beschikbare bedrag kunnen worden toegekend.
 
-#### Artikel 3. Wijziging van het besluit
+##### Artikel 3. Wijziging van het besluit
 
 Een besluit tot wijziging van dit besluit wordt niet eerder vastgesteld dan vier weken nadat een ontwerp daarvan aan de Tweede Kamer der Staten-Generaal is overgelegd, met uitzondering van een besluit tot wijziging dat enkel een verhoging van een subsidieplafond als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041915&artikel=2&z=2025-12-09&g=2025-12-09) behelst.
 
-#### Artikel 4. Inwerkingtreding en vervaldatum
+##### Artikel 4. Inwerkingtreding en vervaldatum
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 1 januari 2019.
 
 2. Dit besluit vervalt met ingang van 1 januari 2030.
 
-#### Artikel 5. Citeertitel
+##### Artikel 5. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit vaststelling beleidsregels instandhoudingssubsidie woonhuis-rijksmonumenten.
 
@@ -142,7 +168,7 @@ Tot en met 2018 kon een particuliere eigenaar de onderhoudskosten van zijn rijks
 
 Dit besluit zal met de bijlage in de Staatscourant worden geplaatst.
 
-#### Artikel 3a. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 3a. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 De [artikelen 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.2) en [7.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.3) zijn niet van toepassing op dit besluit.
 

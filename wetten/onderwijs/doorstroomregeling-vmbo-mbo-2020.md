@@ -1,20 +1,46 @@
 ---
-title: "Doorstroomregeling vmbo – mbo 2020"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 30 mei 2020, nr. MBO/ 17219057 houdende regels over de nadere vooropleidingseisen voor toelating tot het middelbaar beroepsonderwijs (Doorstroomregeling vmbo – mbo 2020)"
 identifier: "BWBR0043852"
-categorie: "Onderwijs"
-publicatiedatum: 2025-08-01
-laatste_update: 2025-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043852"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-08-01"
+last_updated: "2025-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043852"
+soort: "ministeriele-regeling"
+stam_id: "15561673"
+version_id: "26883392"
+internal_id: "C38070861"
+label_id: "15503414"
+dtd_version: "2.0"
+original_entry_into_force: "2021-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043852/2025-08-01/0"
+intitule_bron: "Stcrt.2020-32571"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-05-30"
+intitule_published: "2020-06-19"
+intitule_in_force: "2020-06-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-32571"
+original_signed_date: "2020-05-30"
+original_published_date: "2020-06-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-32571"
+entry_into_force_date: "2021-01-01"
+jci_1_3: "jci1.3:c:BWBR0043852&z=2025-08-01&g=2025-08-01"
+jci_1_0: "1.0:c:BWBR0043852&g=2025-08-01"
+citeertitel_status: "officieel"
+short_title: "Doorstroomregeling vmbo – mbo 2020"
+signed_date: "2020-05-30"
+entry_into_force: "2021-01-01"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 30 mei 2020, nr. MBO/ 17219057 houdende regels over de nadere vooropleidingseisen voor toelating tot het middelbaar beroepsonderwijs (Doorstroomregeling vmbo – mbo 2020)
 
 Gelet op [artikel 8.2.2 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.2.2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -30,27 +56,27 @@ In deze regeling wordt verstaan onder:
 
 - **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Kaderberoepsgerichte leerweg
+##### Artikel 2. Kaderberoepsgerichte leerweg
 
 Ten aanzien van een student die in het bezit is van een diploma van de kaderberoepsgerichte leerweg in de profielen, bedoeld in [artikel 2.26, tweede lid, onderdelen f tot en met h en j, van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.26), wordt als aanvullende voorwaarde gesteld dat het vak wiskunde of natuur- en scheikunde I deel heeft uitgemaakt van het eindexamen om te kunnen worden toegelaten tot een beroepsopleiding als bedoeld in de bijlage behorende bij deze regeling.
 
-#### Artikel 3. Gemengde leerweg
+##### Artikel 3. Gemengde leerweg
 
 Ten aanzien van een student die in het bezit is van een diploma van de gemengde leerweg in de profielen, bedoeld in [artikel 2.27, tweede lid, onderdelen f tot en met h en j, van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.27), wordt als aanvullende voorwaarde gesteld dat het vak wiskunde of natuur- en scheikunde I deel heeft uitgemaakt van het eindexamen om te kunnen worden toegelaten tot een beroepsopleiding als bedoeld in de bijlage behorende bij deze regeling.
 
-#### Artikel 4. Theoretische leerweg
+##### Artikel 4. Theoretische leerweg
 
 Ten aanzien van een student die in het bezit is van een diploma van de theoretische leerweg in de profielen, bedoeld in [artikel 2.25, tweede lid, onderdelen b en c, van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.25), wordt als aanvullende voorwaarde gesteld dat het vak wiskunde of natuur- en scheikunde I deel heeft uitgemaakt van het eindexamen om te kunnen worden toegelaten tot een beroepsopleiding als bedoeld in de bijlage behorende bij deze regeling
 
-#### Artikel 5. Intrekking regeling
+##### Artikel 5. Intrekking regeling
 
 De [Doorstroomregeling vmbo-beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0012156) wordt ingetrokken.
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2021.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Doorstroomregeling vmbo – mbo 2020.
 

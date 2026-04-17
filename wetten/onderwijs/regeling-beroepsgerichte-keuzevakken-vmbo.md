@@ -1,20 +1,46 @@
 ---
-title: "Regeling beroepsgerichte keuzevakken vmbo"
+title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 22 juni 2016, nr. VO/BZO/869644, houdende voorschriften voor de beroepsgerichte keuzevakken in het voorbereidend middelbaar beroepsonderwijs (Regeling beroepsgerichte keuzevakken vmbo)"
 identifier: "BWBR0038193"
-categorie: "Onderwijs"
-publicatiedatum: 2025-02-12
-laatste_update: 2025-02-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038193"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-02-12"
+last_updated: "2025-02-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038193"
+soort: "ministeriele-regeling"
+stam_id: "13677433"
+version_id: "28491062"
+internal_id: "C40205031"
+label_id: "13643894"
+dtd_version: "2.0"
+original_entry_into_force: "2022-01-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038193/2025-02-12/0"
+intitule_bron: "Stcrt.2016-34133"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-06-22"
+intitule_published: "2016-07-05"
+intitule_in_force: "2016-07-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-7905"
+original_signed_date: "2022-01-10"
+original_published_date: "2022-03-23"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-7905"
+entry_into_force_date: "2022-01-10"
+jci_1_3: "jci1.3:c:BWBR0038193&z=2025-02-12&g=2025-02-12"
+jci_1_0: "1.0:c:BWBR0038193&g=2025-02-12"
+citeertitel_status: "officieel"
+short_title: "Regeling beroepsgerichte keuzevakken vmbo"
+signed_date: "2022-01-10"
+entry_into_force: "2022-01-10"
 ---
-
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 22 juni 2016, nr. VO/BZO/869644, houdende voorschriften voor de beroepsgerichte keuzevakken in het voorbereidend middelbaar beroepsonderwijs (Regeling beroepsgerichte keuzevakken vmbo)
 
 Gelet op de [artikelen 26j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=26j), [26k, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=26k), en [26l, eerste, tweede, vierde en vijfde lid, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=26l) en [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029589&artikel=27), [artikel 28, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029589&artikel=28), en [artikel 28a, eerste, tweede, vierde en vijfde lid, van het Inrichtingsbesluit WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029589&artikel=28a);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -38,13 +64,13 @@ In deze regeling wordt verstaan onder:
 
 - **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Profielmodules als beroepsgericht keuzevak
+##### Artikel 2. Profielmodules als beroepsgericht keuzevak
 
 1. Een leerling volgt geen beroepsgericht keuzevak dat inhoudelijk overeenkomt met een van de vier modules waaruit het profielvak van het door hem gekozen profiel is samengesteld.
 
 2. Het bevoegd gezag mag van een profiel dat niet tot het toegestaan onderwijsaanbod van die school behoort, maximaal twee profielmodules aanbieden als beroepsgerichte keuzevakken.
 
-#### Artikel 3. Melding van het voornemen tot ontwikkeling van een nieuw beroepsgericht keuzevak
+##### Artikel 3. Melding van het voornemen tot ontwikkeling van een nieuw beroepsgericht keuzevak
 
 1. Het bevoegd gezag meldt het voornemen tot ontwikkeling van een nieuw beroepsgericht keuzevak aan de Dienst Uitvoering Onderwijs, Postbus 30205, 2500 GE, Den Haag.
 
@@ -54,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 4. De minister kan zich bij het advies, bedoeld in [artikel 2.30, vierde lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.30), laten adviseren door een onafhankelijke adviescommissie.
 
-#### Artikel 4. Aanvraag tot goedkeuring van een nieuw beroepsgericht keuzevak
+##### Artikel 4. Aanvraag tot goedkeuring van een nieuw beroepsgericht keuzevak
 
 1. Het bevoegd gezag dient een aanvraag tot goedkeuring van een nieuw ontwikkeld beroepsgericht keuzevak, als bedoeld in [artikel 2.31 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.31), voor 1 oktober van enig jaar in bij de Dienst Uitvoering Onderwijs, Postbus 30205, 2500 GE te Den Haag.
 
@@ -72,7 +98,7 @@ In deze regeling wordt verstaan onder:
 
 - e. een advies over de voor het vak benodigde bevoegdheid.
 
-#### Artikel 5. Voorwaarden aan beroepsgerichte keuzevakken
+##### Artikel 5. Voorwaarden aan beroepsgerichte keuzevakken
 
 Een nieuw beroepsgericht keuzevak voldoet in ieder geval aan de volgende voorwaarden:
 
@@ -88,15 +114,15 @@ Een nieuw beroepsgericht keuzevak voldoet in ieder geval aan de volgende voorwaa
 
 - f. Het beroepsgerichte keuzevak is ontwikkeld op een omvang van circa 100 klokuren.
 
-#### Artikel 6. vaststelling examenprogramma’s beroepsgerichte keuzevakken
+##### Artikel 6. vaststelling examenprogramma’s beroepsgerichte keuzevakken
 
 De examenprogramma’s van de beroepsgerichte keuzevakken worden vastgesteld zoals aangegeven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=3&z=2025-02-12&g=2025-02-12).
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 augustus 2016.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling beroepsgerichte keuzevakken vmbo.
 
@@ -628,11 +654,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 6a. Omhang
+##### Artikel 6a. Omhang
 
 Deze regeling is gebaseerd op de [artikelen 2.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.29), [2.30, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.30), en [2.31 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.31).
 
-#### Artikel 6a*. Overgangsrecht
+##### Artikel 6a*. Overgangsrecht
 
 Op de centraal schriftelijke en praktische examens die in het schooljaar 2022–2023 worden afgenomen zijn de onderdelen 1.24 tot en met 1.26, 2.22 tot en met 2.26, 4.17, 5.20, 7.13, 7.14, 9.18. 9.19, 10.12 tot en met 10.14 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=3&z=2025-02-12&g=2025-02-12) behorende bij artikel 6, zoals deze luidden op 1 juli 2021, van toepassing.
 

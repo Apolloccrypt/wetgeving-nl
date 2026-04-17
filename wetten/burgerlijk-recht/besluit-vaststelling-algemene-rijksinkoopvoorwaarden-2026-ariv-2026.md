@@ -1,28 +1,54 @@
 ---
-title: "Besluit vaststelling Algemene Rijksinkoopvoorwaarden 2026 (ARIV-2026)"
+title: "Besluit van de Minister-President, Minister van Algemene Zaken van 11 maart 2026, nr. 9851947 houdende vaststelling van de Algemene Rijksinkoopvoorwaarden 2026 (ARIV-2026)"
 identifier: "BWBR0052473"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2026-03-31
-laatste_update: 2026-03-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052473"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-31"
+last_updated: "2026-03-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052473"
+soort: "ministeriele-regeling"
+stam_id: "17822813"
+version_id: "31504412"
+internal_id: "C44988441"
+label_id: "17719954"
+dtd_version: "2.0"
+original_entry_into_force: "2026-03-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052473/2026-03-31/0"
+intitule_bron: "Stcrt.2026-12651"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-03-11"
+intitule_published: "2026-03-30"
+intitule_in_force: "2026-03-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-12651"
+original_signed_date: "2026-03-11"
+original_published_date: "2026-03-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-12651"
+entry_into_force_date: "2026-03-31"
+jci_1_3: "jci1.3:c:BWBR0052473&z=2026-03-31&g=2026-03-31"
+jci_1_0: "1.0:c:BWBR0052473&g=2026-03-31"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling Algemene Rijksinkoopvoorwaarden 2026 (ARIV-2026)"
+signed_date: "2026-03-11"
+entry_into_force: "2026-03-31"
 ---
-
 # Besluit van de Minister-President, Minister van Algemene Zaken van 11 maart 2026, nr. 9851947 houdende vaststelling van de Algemene Rijksinkoopvoorwaarden 2026 (ARIV-2026)
 
 Handelende in overeenstemming met het gevoelen van de Ministerraad;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Vastgesteld worden de bij dit besluit gevoegde Algemene Rijksinkoopvoorwaarden 2026 (ARIV-2026).
 
-#### Artikel 2
+##### Artikel 2
 
 Het [besluit van de Minister-President, Minister van Algemene Zaken, van 2 mei 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040889), nr. 3219106 (Stc. 2018, 26414), wordt voor het deel dat betrekking heeft op de Algemene Rijksinkoopvoorwaarden 2018 (ARIV-2018) ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het met de bijbehorende bijlage wordt geplaatst.
 

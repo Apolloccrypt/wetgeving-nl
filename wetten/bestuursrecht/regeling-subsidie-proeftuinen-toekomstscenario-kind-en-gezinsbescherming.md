@@ -1,20 +1,46 @@
 ---
-title: "Regeling subsidie proeftuinen Toekomstscenario Kind- en Gezinsbescherming"
+title: "Regeling van de Staatssecretaris van Justitie en Veiligheid van 12 november 2024, nr. 5869441, houdende regels inzake subsidie voor het beproeven en doorontwikkelen van de werkwijze Toekomstscenario kind- en gezinsbescherming (Regeling subsidie proeftuinen Toekomstscenario Kind- en Gezinsbescherming)"
 identifier: "BWBR0050428"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-11-04
-laatste_update: 2025-11-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050428"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-11-04"
+last_updated: "2025-11-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050428"
+soort: "ministeriele-regeling"
+stam_id: "17272783"
+version_id: "30422152"
+internal_id: "C43627451"
+label_id: "17178214"
+dtd_version: "2.0"
+original_entry_into_force: "2024-11-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050428/2025-11-04/0"
+intitule_bron: "Stcrt.2024-37825"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-12"
+intitule_published: "2024-11-18"
+intitule_in_force: "2024-11-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-37825"
+original_signed_date: "2024-11-12"
+original_published_date: "2024-11-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-37825"
+entry_into_force_date: "2024-11-19"
+jci_1_3: "jci1.3:c:BWBR0050428&z=2025-11-04&g=2025-11-04"
+jci_1_0: "1.0:c:BWBR0050428&g=2025-11-04"
+citeertitel_status: "officieel"
+short_title: "Regeling subsidie proeftuinen Toekomstscenario Kind- en Gezinsbescherming"
+signed_date: "2024-11-12"
+entry_into_force: "2024-11-19"
 ---
-
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 12 november 2024, nr. 5869441, houdende regels inzake subsidie voor het beproeven en doorontwikkelen van de werkwijze Toekomstscenario kind- en gezinsbescherming (Regeling subsidie proeftuinen Toekomstscenario Kind- en Gezinsbescherming)
 
 Gelet op de [artikelen 2, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044954&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0044954&artikel=3) en [4, eerste lid, aanhef en onder a, b, c en d, van de Kaderwet overige JenV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0044954&artikel=4) en de [artikelen 5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046660&artikel=5), [7, tweede lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0046660&artikel=7), [10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046660&artikel=10), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046660&artikel=16), en [20, vierde lid, van het Kaderbesluit overige JenV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0046660&artikel=20);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - **werkwijze Toekomstscenario:** de werkwijze, bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=2&z=2025-11-04&g=2025-11-04).
 
-#### Artikel 2. Subsidiabele activiteiten
+##### Artikel 2. Subsidiabele activiteiten
 
 1. De Minister kan subsidie verstrekken aan de rechtspersonen die aan een regionaal verband deelnemen voor activiteiten die zij voor dat verband verrichten en die tot doel hebben:
 
@@ -60,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 2. De Minister verstrekt geen subsidie voor activiteiten, bedoeld in het eerste lid, die worden verricht door de raad voor de kinderbescherming.
 
-#### Artikel 3. Subsidiabele kosten
+##### Artikel 3. Subsidiabele kosten
 
 Subsidiabele kosten zijn uitsluitend de volgende kosten, voor zover deze kosten worden gemaakt voor het verrichten van de activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=2&z=2025-11-04&g=2025-11-04):
 
@@ -76,7 +102,7 @@ Subsidiabele kosten zijn uitsluitend de volgende kosten, voor zover deze kosten 
 
 - f. de kosten voor technische aanpassingen en de inzet van **privacy officers** in verband met monitoring of dossiervorming bij het beproeven en doorontwikkelen.
 
-#### Artikel 4. Subsidievoorwaarden met betrekking tot regionale verbanden
+##### Artikel 4. Subsidievoorwaarden met betrekking tot regionale verbanden
 
 Om in aanmerking te komen voor subsidie op grond van deze regeling voorziet de penvoerder van het regionaal verband de aanvraag van voldoende onderbouwing dat in alle bij dat verband aangesloten gemeenten in 2024 respectievelijk 2025 aan de basis van de werkwijze Toekomstscenario is gewerkt en dat deze activiteiten en werkwijzen in 2025 respectievelijk 2026 in die gemeenten worden voortgezet. In ieder geval wordt schriftelijke informatie overlegd waaruit voldoende blijkt dat:
 
@@ -88,7 +114,7 @@ Om in aanmerking te komen voor subsidie op grond van deze regeling voorziet de p
 
 - d. het regionaal verband afspraken heeft gemaakt en eerste stappen zijn gezet om het leren door en tussen de partijen die deelnemen aan de proeftuin te bevorderen en te integreren in hun dagelijkse praktijk.
 
-#### Artikel 5. Subsidievoorwaarden met betrekking tot de proeftuin
+##### Artikel 5. Subsidievoorwaarden met betrekking tot de proeftuin
 
 1. Om in aanmerking te komen voor subsidie op grond van deze regeling voorziet de penvoerder van het regionaal verband de aanvraag voorts van voldoende onderbouwing dat dit verband in 2024 respectievelijk 2025 een proeftuin onderhoudt. De aanvraag wordt in ieder geval onderbouwd met schriftelijke informatie waaruit blijkt dat in 2024 respectievelijk 2025 in die proeftuin:
 
@@ -114,7 +140,7 @@ Om in aanmerking te komen voor subsidie op grond van deze regeling voorziet de p
 
 - f. op welke wijze en voor welke activiteiten de aangevraagde middelen worden ingezet.
 
-#### Artikel 6. Vereisten met betrekking tot lokale teams
+##### Artikel 6. Vereisten met betrekking tot lokale teams
 
 De lokale teams, bedoeld in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=5&z=2025-11-04&g=2025-11-04):
 
@@ -130,7 +156,7 @@ De lokale teams, bedoeld in [artikel 5, eerste lid, onder a](https://wetten.over
 
 - f. hebben een stevige samenwerkingsrelatie met het regionaal veiligheidsteam.
 
-#### Artikel 7. Vereisten met betrekking tot het regionaal veiligheidsteam
+##### Artikel 7. Vereisten met betrekking tot het regionaal veiligheidsteam
 
 In het regionaal veiligheidsteam, bedoeld in [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=5&z=2025-11-04&g=2025-11-04):
 
@@ -156,7 +182,7 @@ In het regionaal veiligheidsteam, bedoeld in [artikel 5, eerste lid, onder b](ht
 
 - i. zijn voorbereidingen getroffen om vanaf 2025 respectievelijk 2026 de bouwstenen als beschreven in de eindrapportage ‘Onderzoek Inrichting Regionale Veiligheidsteams’ te beproeven binnen de huidige wettelijke kaders.
 
-#### Artikel 8. Vereisten met betrekking tot de ervaringen met veiligheidsproblematiek
+##### Artikel 8. Vereisten met betrekking tot de ervaringen met veiligheidsproblematiek
 
 1. De gegevens, bedoeld in [artikel 5, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=5&z=2025-11-04&g=2025-11-04), bevatten voldoende onderbouwing en tonen voldoende aan dat:
 
@@ -170,7 +196,7 @@ In het regionaal veiligheidsteam, bedoeld in [artikel 5, eerste lid, onder b](ht
 
 - b. gegevens uit eigen rapportages met betrekking tot het eerder in 2024 respectievelijk 2025 beproeven van de werkwijze Toekomstscenario, indien geen monitorgegevens beschikbaar zijn.
 
-#### Artikel 9. Subsidieplafond
+##### Artikel 9. Subsidieplafond
 
 1. Voor subsidieverstrekking op grond van deze regeling is in de periode van 1 januari tot en met 31 december 2025 ten hoogste € 5.000.000 beschikbaar en is in de periode van 1 januari tot en met 31 december 2026 ten hoogste € 3.000.000 beschikbaar.
 
@@ -178,11 +204,11 @@ In het regionaal veiligheidsteam, bedoeld in [artikel 5, eerste lid, onder b](ht
 
 3. De Minister kan per aanvrager die in aanmerking komt voor subsidie één subsidie verstrekken van ten hoogste € 1.000.000, waarvan ten hoogste € 500.000 wordt verstrekt voor de periode van 1 januari tot en met 31 december 2025 en ten hoogste € 500.000 wordt verstrekt voor de periode van 1 januari tot en met 31 december 2026.
 
-#### Artikel 10. Aanvraagtijdvak
+##### Artikel 10. Aanvraagtijdvak
 
 Een subsidie op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=2&z=2025-11-04&g=2025-11-04) kan worden aangevraagd vanaf het moment van inwerkingtreding van deze regeling tot 8 december 2025.
 
-#### Artikel 11. Aanvraag
+##### Artikel 11. Aanvraag
 
 1. Een aanvraag wordt door de penvoerder van het regionaal verband ingediend door middel van een daartoe door de Minister beschikbaar gesteld elektronisch aanvraagformulier.
 
@@ -194,7 +220,7 @@ Een subsidie op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - b. een begroting waarin wordt vermeld voor welk deel van het subsidiebedrag, onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=9&z=2025-11-04&g=2025-11-04), iedere deelnemende rechtspersoon de subsidie aanvraagt.
 
-#### Artikel 12. Verplichtingen
+##### Artikel 12. Verplichtingen
 
 1. De subsidiabele activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=2&z=2025-11-04&g=2025-11-04), worden tussen 1 januari 2025 en 31 december 2026 uitgevoerd.
 
@@ -202,7 +228,7 @@ Een subsidie op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 3. De penvoerder levert aan de Minister de gegevens die nodig zijn voor het monitoren van de uitvoering van de gesubsidieerde activiteiten.
 
-#### Artikel 13. Verantwoording
+##### Artikel 13. Verantwoording
 
 1. Het verzoek tot vaststelling van de subsidie wordt door de penvoerder voorzien van:
 
@@ -212,7 +238,7 @@ Een subsidie op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 2. Het verzoek wordt uiterlijk 1 juli 2027 ingediend bij de Minister.
 
-#### Artikel 14. Hardheidsclausule
+##### Artikel 14. Hardheidsclausule
 
 1. De Minister kan de termijn, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=12&z=2025-11-04&g=2025-11-04), verlengen met maximaal drie maanden, indien de penvoerder of de betreffende subsidieontvanger een daartoe voldoende gemotiveerd verzoek ten minste vier weken voor het einde van die termijn indient.
 
@@ -220,13 +246,13 @@ Een subsidie op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 3. Indien het verzoek tot verlenging wordt ingewilligd, wordt de beschikking tot subsidieverlening zodanig gewijzigd dan wel aangevuld dat daarin de uiterste datum voor verantwoording, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0050428&artikel=13&z=2025-11-04&g=2025-11-04), met dezelfde duur wordt verlengd, als wordt toegestaan op grond van het eerste lid.
 
-#### Artikel 15. Inwerkingtreding en uitwerkingtreding
+##### Artikel 15. Inwerkingtreding en uitwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2029, met dien verstande dat zij van toepassing blijft op subsidies die op grond van deze regeling voor die datum zijn verstrekt.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling subsidie proeftuinen Toekomstscenario Kind- en Gezinsbescherming.
 

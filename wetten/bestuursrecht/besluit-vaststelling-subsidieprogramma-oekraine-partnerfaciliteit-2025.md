@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling Subsidieprogramma Oekraïne partnerfaciliteit 2025"
+title: "Besluit van de Staatssecretaris van Buitenlandse Zaken van 21 september 2025, nr. BZ252014 tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Oekraïne partnerfaciliteit 2025)"
 identifier: "BWBR0051557"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-10-04
-laatste_update: 2025-10-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051557"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-04"
+last_updated: "2025-10-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051557"
+soort: "ministeriele-regeling"
+stam_id: "17537923"
+version_id: "30947982"
+internal_id: "C44329381"
+label_id: "17439354"
+dtd_version: "2.0"
+original_entry_into_force: "2025-10-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051557/2025-10-04/0"
+intitule_bron: "Stcrt.2025-32707"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-09-21"
+intitule_published: "2025-10-03"
+intitule_in_force: "2025-10-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-32707"
+original_signed_date: "2025-09-21"
+original_published_date: "2025-10-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-32707"
+entry_into_force_date: "2025-10-04"
+jci_1_3: "jci1.3:c:BWBR0051557&z=2025-10-04&g=2025-10-04"
+jci_1_0: "1.0:c:BWBR0051557&g=2025-10-04"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling Subsidieprogramma Oekraïne partnerfaciliteit 2025"
+signed_date: "2025-09-21"
+entry_into_force: "2025-10-04"
 ---
-
 # Besluit van de Staatssecretaris van Buitenlandse Zaken van 21 september 2025, nr. BZ252014 tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Oekraïne partnerfaciliteit 2025)
 
 Gelet op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=6) en [7 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=7);
@@ -16,11 +42,11 @@ Gelet op [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor subsidieverlening op grond van de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=5.1) en [7.2 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=7.2) met het oog op subsidiëring van activiteiten die bijdragen aan het herstel en de wederopbouw van Oekraïne, gelden voor de periode vanaf inwerkingtreding van dit besluit tot en met 31 december 2026 de als bijlage bij dit besluit gevoegde beleidsregels.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aanvragen voor subsidie in het kader van het Subsidieprogramma Oekraïne partnerfaciliteit 2025 worden ingediend vanaf 30 januari 2026 10:00 uur tot en met 30 april 2026 17:00 uur Nederlandse tijd.
 
@@ -30,15 +56,15 @@ Voor subsidieverlening op grond van de [artikelen 5.1](https://wetten.overheid.n
 
 4. Quick scans worden ingediend aan de hand van een door de minister beschikbaar gesteld formulier en voorzien van de op het quick scan formulier gevraagde bescheiden.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor subsidieverlening in het kader van het Subsidieprogramma Oekraïne partnerfaciliteit 2025 geldt voor de periode vanaf inwerkingtreding van dit besluit tot en met 31 december 2026 een subsidieplafond van € 26,5 miljoen.
 
-#### Artikel 4
+##### Artikel 4
 
 Het [Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingshulp van 16 augustus 2024, nr.BZ2404502 tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366) (Subsidieprogramma Oekraïne partnerfaciliteit 2024)2Stcrt. 2024, nr. 27683. wordt ingetrokken, met dien verstande dat dit besluit van toepassing blijft op subsidies die op grond hiervan zijn of nog worden verstrekt.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 januari 2027, met dien verstande dat het besluit van toepassing blijft op aanvragen die voor die datum zijn ingediend en subsidies die voor die datum zijn verleend.
 

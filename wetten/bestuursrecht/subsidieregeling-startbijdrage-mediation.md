@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling startbijdrage mediation"
+title: "Subsidieregeling van de Raad voor Rechtsbijstand van 11 november 2024 tot vaststelling van een subsidie aan niet-toegevoegde partijen die door de rechtspraak verwezen zijn naar een mediator (Subsidieregeling startbijdrage mediation)"
 identifier: "BWBR0050521"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-02-18
-laatste_update: 2026-02-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050521"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-02-18"
+last_updated: "2026-02-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050521"
+soort: "zbo"
+stam_id: "17297023"
+version_id: "30463042"
+internal_id: "C43677601"
+label_id: "17201104"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050521/2026-02-18/0"
+intitule_bron: "Stcrt.2024-38632"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-11"
+intitule_published: "2024-11-27"
+intitule_in_force: "2024-11-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-38632"
+original_signed_date: "2024-11-11"
+original_published_date: "2024-11-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-38632"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050521&z=2026-02-18&g=2026-02-18"
+jci_1_0: "1.0:c:BWBR0050521&g=2026-02-18"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling startbijdrage mediation"
+signed_date: "2024-11-11"
+entry_into_force: "2025-01-01"
 ---
-
 # Subsidieregeling van de Raad voor Rechtsbijstand van 11 november 2024 tot vaststelling van een subsidie aan niet-toegevoegde partijen die door de rechtspraak verwezen zijn naar een mediator (Subsidieregeling startbijdrage mediation)
 
 Gelet op [artikel 42c van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=42c);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk I. Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -36,23 +62,23 @@ In deze regeling wordt verstaan onder:
 
 - h. **verwijzing:** de verwijzing naar een mediator door de rechtspraak die door alle procespartijen is geaccepteerd.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 De Regeling heeft tot doel om het gebruik van mediation, na verwijzing naar een mediator vanuit de rechtspraak met uitzondering van verwijzingen voor mediation in strafzaken, te bevorderen door partijen die niet voor een toevoeging in aanmerking komen te stimuleren deel te nemen aan een mediationtraject voorafgaand of na de zitting.
 
-#### Artikel 3. Activiteiten waarvoor de startbijdrage kan worden vastgesteld
+##### Artikel 3. Activiteiten waarvoor de startbijdrage kan worden vastgesteld
 
 1. De Raad kan de startbijdrage vaststellen voor de werkzaamheden van de mediator zoals omschreven in artikel 6 van de inschrijvingsvoorwaarden voor mediators van de Raad.
 
 2. De startbijdrage heeft betrekking op de eerste twee en een half uur van de in lid 1 van dit artikel genoemde mediationwerkzaamheden.
 
-#### Artikel 4. Hoogte van de startbijdrage
+##### Artikel 4. Hoogte van de startbijdrage
 
 De hoogte van de startbijdrage bedraagt 179 euro (excl. btw) per procespartij in de verwezen zaak met een maximum van 358 euro (excl. btw) voor alle in het conflict betrokken procespartijen gezamenlijk. Deze bijdrage wordt jaarlijks geïndexeerd.
 
 ### Hoofdstuk II. Voorwaarden
 
-#### Artikel 5. Criteria
+##### Artikel 5. Criteria
 
 De mediator komt na aanvraag in aanmerking voor een startbijdrage, indien voldaan wordt aan de volgende voorwaarden:
 
@@ -76,7 +102,7 @@ De mediator komt na aanvraag in aanmerking voor een startbijdrage, indien voldaa
 
 ### Hoofdstuk III. Aanvraag startbijdrage
 
-#### Artikel 6. Aanvraag tot vaststelling van de startbijdrage en besluit
+##### Artikel 6. Aanvraag tot vaststelling van de startbijdrage en besluit
 
 1. De mediator dient de aanvraag tot vaststelling van de startbijdrage in bij het mediationbureau van de rechtbank of het gerechtshof waar de zaak dient, op een door de rechtspraak voorgeschreven formulier. Op de aanvraag tot vaststelling is [artikel 4:45 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:45) van overeenkomstige toepassing.
 
@@ -90,16 +116,16 @@ De mediator komt na aanvraag in aanmerking voor een startbijdrage, indien voldaa
 
 ### Hoofdstuk IV. Toepassings- en slotbepalingen
 
-#### Artikel 7. Toepassingsbepaling
+##### Artikel 7. Toepassingsbepaling
 
 De Regeling is van toepassing op mediation waarvan de verwijzing door het gerecht naar een mediator heeft plaatsgevonden op of na 1 januari 2025.
 
-#### Artikel 8. Inwerkingtreding en vervaldatum
+##### Artikel 8. Inwerkingtreding en vervaldatum
 
 1. De Regeling treedt in werking met ingang van 1 januari 2025 en vervangt de subsidieregeling met de titel [Subsidieregeling startbijdrage mediation](https://wetten.overheid.nl/jci1.3:c:BWBR0047933) (Staatscourant 2023, 6709). Indien de Staatscourant waarin de Regeling wordt geplaatst, is gedagtekend na 31 december 2024, treedt zij in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 2025.
 
 2. De Regeling vervalt met ingang van 1 januari 2030.
 
-#### Artikel 9. Aanhalen Subsidieregeling
+##### Artikel 9. Aanhalen Subsidieregeling
 
 De Regeling wordt aangehaald als: Subsidieregeling startbijdrage mediation. De Regeling zal met de toelichting in de Staatscourant worden geplaatst.

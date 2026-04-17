@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling Borgstelling MKB-kredieten Aruba, Curaçao en Sint Maarten"
+title: "Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 27 juni 2025, nr. 2025-0000016894, houdende regels inzake een borgstelling door de Staat ten behoeve van krediet aan MKB-ondernemers in Aruba, Curaçao en Sint Maarten (Subsidieregeling Borgstelling MKB-kredieten Aruba, Curaçao en Sint Maarten)"
 identifier: "BWBR0051194"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-10-04
-laatste_update: 2025-10-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051194"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-04"
+last_updated: "2025-10-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051194"
+soort: "ministeriele-regeling"
+stam_id: "17463763"
+version_id: "30800332"
+internal_id: "C44334111"
+label_id: "17366104"
+dtd_version: "2.0"
+original_entry_into_force: "2025-10-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051194/2025-10-04/0"
+intitule_bron: "Stcrt.2025-22916"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-06-27"
+intitule_published: "2025-07-04"
+intitule_in_force: "2025-10-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-22916"
+original_signed_date: "2025-06-27"
+original_published_date: "2025-07-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-22916"
+entry_into_force_date: "2025-10-04"
+jci_1_3: "jci1.3:c:BWBR0051194&z=2025-10-04&g=2025-10-04"
+jci_1_0: "1.0:c:BWBR0051194&g=2025-10-04"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling Borgstelling MKB-kredieten Aruba, Curaçao en Sint Maarten"
+signed_date: "2025-06-27"
+entry_into_force: "2025-10-04"
 ---
-
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 27 juni 2025, nr. 2025-0000016894, houdende regels inzake een borgstelling door de Staat ten behoeve van krediet aan MKB-ondernemers in Aruba, Curaçao en Sint Maarten (Subsidieregeling Borgstelling MKB-kredieten Aruba, Curaçao en Sint Maarten)
 
 Gelet op [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=3), en [4 van de Kaderwet overige BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=4) en de [artikelen 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11), en [14, van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=14)
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 - **Kaderbesluit:** [Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530);
 
@@ -26,13 +52,13 @@ Besluit:
 
 - **kredietverstrekker:** een onderneming of een instelling die in Aruba, Curaçao of Sint Maarten op grond van de Landsverordening toezicht kredietwezen Aruba, de Landsverordening toezicht bank- en kredietwezen 1994 Curaçao of de Landsverordening bank- en kredietwezen Sint Maarten, bevoegd is om kredieten of andere vormen van financiering aan te bieden aan het publiek.
 
-#### Artikel 2. Subsidieverstrekking
+##### Artikel 2. Subsidieverstrekking
 
 1. De minister verstrekt op aanvraag een subsidie aan een kredietverstrekker voor het sluiten van een kredietovereenkomst met een MKB-ondernemer die betrekking heeft op een bedrijfsborgstellingskrediet.
 
 2. De subsidie wordt verstrekt in de vorm van een borgstelling voor de terugbetaling van een krediet dat de kredietverstrekker op grond van een kredietovereenkomst aan een MKB-ondernemer heeft verstrekt voor de duur van de kredietovereenkomst.
 
-#### Artikel 3. Afwijzingsgronden
+##### Artikel 3. Afwijzingsgronden
 
 De minister beslist afwijzend op een subsidieaanvraag indien:
 
@@ -40,27 +66,27 @@ De minister beslist afwijzend op een subsidieaanvraag indien:
 
 - b. de MKB-ondernemer het krediet niet aanwendt voor activiteiten op Aruba, Curaçao of Sint Maarten.
 
-#### Artikel 4. Subsidieplafond en verdeling van het subsidieplafond
+##### Artikel 4. Subsidieplafond en verdeling van het subsidieplafond
 
 1. Het subsidieplafond bedraagt € 6.100.000 per kalenderjaar.
 
 2. De verdeling van het subsidieplafond als bedoeld in het eerste lid vindt plaats op basis van volgorde van binnenkomst van de aanvragen.
 
-#### Artikel 5. Omvang borgstelling
+##### Artikel 5. Omvang borgstelling
 
 De subsidie bestaat uit een borgstelling voor 90 procent van het bedrijfsborgstellingskrediet, tot ten hoogste € 1,5 miljoen per MKB-ondernemer.
 
-#### Artikel 6. Bedrijfsborgstellingsovereenkomst
+##### Artikel 6. Bedrijfsborgstellingsovereenkomst
 
 Het model voor de bedrijfsborgstellingsovereenkomst is opgenomen in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0051194&bijlage=1&z=2025-10-04&g=2025-10-04).
 
-#### Artikel 7. Voorwaarden voor de kredietverstrekker
+##### Artikel 7. Voorwaarden voor de kredietverstrekker
 
 1. De beschikking tot verlenen van een subsidie aan een kredietverstrekker wordt verleend onder de opschortende voorwaarde dat binnen acht weken na de beschikking een bedrijfsborgstellingsovereenkomst tot stand is gekomen tussen de Staat en de kredietverstrekker.
 
 2. Het eerste lid is niet van toepassing indien tussen de Staat en de kredietverstrekker reeds een overeenkomst is gesloten.
 
-#### Artikel 8. Informatieverplichtingen
+##### Artikel 8. Informatieverplichtingen
 
 Een aanvraag als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051194&artikel=2&z=2025-10-04&g=2025-10-04) bevat in ieder geval:
 
@@ -86,7 +112,7 @@ Een aanvraag als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 - d. een uittreksel uit het Handelsregister.
 
-#### Artikel 9. Inwerkingtreding, evaluatiebepaling en vervaltermijn
+##### Artikel 9. Inwerkingtreding, evaluatiebepaling en vervaltermijn
 
 1. Deze regeling treedt in werking op een bij besluit van de minister te bepalen tijdstip dat voor Aruba, Curaçao en Sint Maarten verschillend kan luiden.
 
@@ -96,7 +122,7 @@ Een aanvraag als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 4. De regeling vervalt met ingang van 1 juli 2027, met dien verstande dat deze van toepassing blijft op subsidies die op grond van deze regeling voor die datum zijn verstrekt of aangevraagd.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling Borgstelling MKB-kredieten Aruba, Curaçao en Sint Maarten.
 
@@ -108,7 +134,7 @@ Overeenkomst tussen:
 
 Partijen zijn het volgende overeengekomen:
 
-#### Artikel 1. Definitiebepalingen
+##### Artikel 1. Definitiebepalingen
 
 1. De begrippen die in het [Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530) en de Regeling Borgstelling MKB-kredieten Aruba, Curaçao en Sint Maarten zijn gedefinieerd hebben in deze overeenkomst de in deze regelingen gegeven betekenis.
 
@@ -162,11 +188,11 @@ Partijen zijn het volgende overeengekomen:
 
 - k. **liquiditeitsopslag:** een door een kredietverstrekker aan een ondernemer in rekening gebracht percentage van de lening, waarvan de hoogte gelijk is voor alle door de desbetreffende kredietverstrekker op dezelfde dag afgesloten of af te sluiten leningen met dezelfde looptijd. Indien een dergelijk percentage niet beschikbaar is, zal in overleg met de kredietverstrekker een ander redelijk, transparant en verifieerbaar percentage worden vastgesteld.
 
-#### Artikel 2. Borgstelling
+##### Artikel 2. Borgstelling
 
 De Staat stelt zich borg ten behoeve van de kredietverstrekker voor de terugbetaling van bedrijfsborgstellingskredieten die met inachtneming van het [Kaderbesluit BZK subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530) en de Regeling Borgstelling MKB-kredieten Aruba, Curaçao en Sint Maarten en deze overeenkomst door de kredietverstrekker worden verstrekt, met dien verstande dat deze borgstelling wordt aangegaan onder de navolgende bedingen.
 
-#### Artikel 3. Voorwaarden bedrijfsborgstellingsovereenkomst
+##### Artikel 3. Voorwaarden bedrijfsborgstellingsovereenkomst
 
 1. De toepasselijkheid van deze borgstellingsovereenkomst op een krediet of een deel van een krediet kan uitsluitend worden ingeroepen:
 
@@ -204,7 +230,7 @@ De Staat stelt zich borg ten behoeve van de kredietverstrekker voor de terugbeta
 
 2. Voor de toepassing van het eerste lid, onderdelen j en l, worden mede in aanmerking genomen de bedragen die een kredietverstrekker-gelieerde gelijktijdig met de gesloten kredietovereenkomst aan de MKB-ondernemer worden verstrekt, indien de zekerheden van de kredietverstrekker-gelieerde ter zake van die bedragen mede strekken tot zekerheid van de kredietverstrekker.
 
-#### Artikel 4. Criteria voor MKB-ondernemer bij verstrekken bedrijfsborgstellingskrediet
+##### Artikel 4. Criteria voor MKB-ondernemer bij verstrekken bedrijfsborgstellingskrediet
 
 Ten tijde van het sluiten van een kredietovereenkomst uit hoofde waarvan een bedrijfsborgstellingskrediet aan een MKB-ondernemer wordt verstrekt, moet aan de volgende criteria zijn voldaan:
 
@@ -232,7 +258,7 @@ Ten tijde van het sluiten van een kredietovereenkomst uit hoofde waarvan een bed
 
 - 3. De rentabiliteits- en continuïteitsperspectieven van de onderneming zijn bevredigend.
 
-#### Artikel 5. Toetsing en melding
+##### Artikel 5. Toetsing en melding
 
 1. De kredietverstrekker stelt de Staat in kennis van een voorgenomen verstrekking van een krediet onder gelijktijdige verstrekking van de door de minister vastgestelde informatie.
 
@@ -246,7 +272,7 @@ Ten tijde van het sluiten van een kredietovereenkomst uit hoofde waarvan een bed
 
 6. Voor de toepassing van artikel 3, eerste lid, aanhef en onder c, is de volgorde van ontvangst door de Staat van de meldingen, bedoeld in het vijfde lid, bepalend.
 
-#### Artikel 6. Provisie
+##### Artikel 6. Provisie
 
 1. Het tarief van de provisie bedraagt voor een kredietovereenkomst met een MKB-ondernemer eenmalig:
 
@@ -260,7 +286,7 @@ Ten tijde van het sluiten van een kredietovereenkomst uit hoofde waarvan een bed
 
 3. Indien overeenkomstig artikel 3, eerste lid, onderdeel b, een provisie is betaald met betrekking tot een kredietovereenkomst en indien het desbetreffende krediet niet is opgenomen vanwege omstandigheden die niet zijn toe te rekenen aan de kredietnemer of aan de kredietverstrekker, wordt de provisie door de Staat terugbetaald aan de kredietverstrekker mits de kredietverstrekker binnen een jaar na het sluiten van de kredietovereenkomst daartoe een verzoek aan de Staat heeft gedaan.
 
-#### Artikel 7. Maximale omvang van de borgstelling
+##### Artikel 7. Maximale omvang van de borgstelling
 
 1. Voor de berekening van de omvang van de borgstelling wordt een bedrijfsborgstellingskrediet slechts in aanmerking genomen voor zover door de verstrekking van het bedrijfsborgstellingskrediet het totaal van de bedrijfsborgstellingskredieten, berekend per MKB-ondernemer een bedrag van € 1.500.000 niet overschrijdt.
 
@@ -274,7 +300,7 @@ Ten tijde van het sluiten van een kredietovereenkomst uit hoofde waarvan een bed
 
 6. In afwijking van het eerste lid overschrijdt het totaal van de bedrijfsborgstellingskredieten per kalenderjaar een bedrag van € 250.000 niet, indien de kredietverstrekker heeft aangegeven van de mogelijkheid, bedoeld in artikel 3, eerste lid, onderdeel j, subonderdeel 2°, gebruik te maken.
 
-#### Artikel 8. Berekening van de omvang en duur van de borgstelling
+##### Artikel 8. Berekening van de omvang en duur van de borgstelling
 
 1. Voor de berekening van de omvang van de borgstelling wordt het na toepassing van artikel 7 in aanmerking te nemen bedrijfsborgstellingskrediet na verloop van ieder kalenderkwartaal verminderd met een zodanig vast bedrag, dat het bedrijfsborgstellingskrediet op de laatste datum waarop het moet zijn afgelost, maar uiterlijk na verloop van 6 jaar, nihil bedraagt.
 
@@ -308,7 +334,7 @@ Ten tijde van het sluiten van een kredietovereenkomst uit hoofde waarvan een bed
 
 10. Voor de toepassing van het zesde lid wordt onder een onroerende zaak mede begrepen bedrijfspanden, schepen en vliegtuigen, alsmede ieder goederenrechtelijk recht dat omvat het uitsluitend gebruik van een onroerende zaak, met inbegrip van bovenbedoelde schepen en vliegtuigen.
 
-#### Artikel 9. Schorsing vermindering borgstelling
+##### Artikel 9. Schorsing vermindering borgstelling
 
 1. De vermindering van de borgstelling, bedoeld in artikel 8, wordt geschorst met ingang van de dag waarop het bedrijfsborgstellingskrediet is opgeëist.
 
@@ -316,7 +342,7 @@ Ten tijde van het sluiten van een kredietovereenkomst uit hoofde waarvan een bed
 
 3. De vermindering van de borgstelling wordt tevens geschorst zolang de MKB-ondernemer in staat van faillissement verkeert of aan hem surseance van betaling is verleend.
 
-#### Artikel 10. Verzoek om betaling uit hoofde van de bedrijfsborgstellingsovereenkomst
+##### Artikel 10. Verzoek om betaling uit hoofde van de bedrijfsborgstellingsovereenkomst
 
 1. De kredietverstrekker kan, zodra er sprake is van een wanbetaling onder een kredietovereenkomst uit hoofde waarvan een bedrijfsborgstellingskrediet is verstrekt, een verzoek doen aan de Staat tot betaling uit hoofde van deze borgstellingsovereenkomst. Dit verzoek wordt ingediend in ieder geval binnen negen maanden na de datum waartegen het krediet is opgeëist of, indien dit eerder is, na datum van faillissement.
 
@@ -326,7 +352,7 @@ Ten tijde van het sluiten van een kredietovereenkomst uit hoofde waarvan een bed
 
 4. De minister bevestigt de ontvangst van het verzoek om betaling binnen 35 dagen na de ontvangst en reageert op het verzoek binnen negen maanden na de bevestiging.
 
-#### Artikel 11. Berekening omvang borgstelling bij uitbetalen
+##### Artikel 11. Berekening omvang borgstelling bij uitbetalen
 
 1. De omvang van de borgstelling bedraagt per MKB-ondernemer 90 procent van hetgeen de MKB-ondernemer ten tijde van het overeenkomstig artikel 10 ingediende verzoek uit hoofde van het bedrijfsborgstellingskrediet of de bedrijfsborgstellingskredieten pro resto verschuldigd is, doch
 
@@ -346,7 +372,7 @@ Ten tijde van het sluiten van een kredietovereenkomst uit hoofde waarvan een bed
 
 - b. de verplichtingen die een kredietverstrekker-gelieerde tegenover een derde, niet zijnde een andere kredietverstrekker-gelieerde of een rechtspersoon waarmee de kredietverstrekker in een groep verbonden is, onherroepelijk is aangegaan om ten laste van de MKB-ondernemer aan de derde een of meer betalingen te doen als bedoeld in artikel 1, tweede lid, onderdeel f, 3°, indien de zekerheden van de kredietverstrekker-gelieerde ter zake van de in dit lid bedoelde bedragen en verplichtingen mede strekken tot zekerheid van de kredietverstrekker.
 
-#### Artikel 12. Betaling door de Staat
+##### Artikel 12. Betaling door de Staat
 
 1. De minister betaalt hetgeen de Staat uit hoofde van deze overeenkomst met het oog op de door de kredietverstrekker in zijn verzoek bedoelde bedrijfsborgstellingskrediet verschuldigd is.
 
@@ -362,19 +388,19 @@ Ten tijde van het sluiten van een kredietovereenkomst uit hoofde waarvan een bed
 
 4. Betalingen door de Staat aan de kredietverstrekker en door de kredietverstrekker aan de Staat geschieden door debitering respectievelijk creditering door de kredietverstrekker van een rekening die de kredietverstrekker zal aanhouden ten name van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, met vermelding van ‘verliesdeclaraties’.
 
-#### Artikel 13. Inspanningsverplichting tot uitwinning bedrijfsborgstellingskrediet
+##### Artikel 13. Inspanningsverplichting tot uitwinning bedrijfsborgstellingskrediet
 
 1. Gedurende vijf jaar nadat de kredietverstrekker uit hoofde van het bedrijfsborgstellingskrediet door de Staat is betaald, is de kredietverstrekker gehouden die pogingen in het werk te stellen om namens de Staat het door de Staat betaalde bedrag in te vorderen, die de kredietverstrekker in het werk zou hebben gesteld indien het krediet voor eigen rekening en risico door de kredietverstrekker zou zijn verstrekt. De Staat machtigt met het oog hierop de kredietverstrekker tot invordering bij de kredietnemer van de door deze aan de Staat verschuldigde bedragen.
 
 2. De kredietverstrekker zendt binnen drie maanden na afloop van de in het eerste lid bedoelde periode de minister een overzicht van de door zijn ondernomen activiteiten, waarin de door de minister vastgestelde informatie is opgenomen.
 
-#### Artikel 14. Verslag voortgang uitwinning bij verzoek om betaling borgstelling
+##### Artikel 14. Verslag voortgang uitwinning bij verzoek om betaling borgstelling
 
 1. Indien een verzoek om betaling als bedoeld in artikel 10 is ingediend op een moment, waarop de uitwinning nog niet is voltooid en ook niet aannemelijk is geworden dat geen opbrengsten meer zijn te verwachten die in mindering komen op het bedrijfsborgstellingskrediet, brengt de kredietverstrekker de minister ten minste jaarlijks verslag uit over de voortgang van de uitwinning.
 
 2. De minister kan over het verloop van de uitwinning binnen een door hem te stellen termijn nadere gegevens van de kredietverstrekker verlangen.
 
-#### Artikel 15. Terugbetalen
+##### Artikel 15. Terugbetalen
 
 1. De kredietverstrekker betaalt de vanaf het moment van de indiening van een verzoek om betaling als bedoeld in artikel 10 ontvangen opbrengsten die in mindering komen op het bedrijfsborgstellingskrediet binnen twee maanden na ontvangst aan de Staat.
 
@@ -386,13 +412,13 @@ Ten tijde van het sluiten van een kredietovereenkomst uit hoofde waarvan een bed
 
 5. De rente, bedoeld in het derde en vierde lid, is gelijk aan de zes maands Euribor op het moment van de indiening van een aanvraag als bedoeld in artikel 10.
 
-#### Artikel 16. Voorwaarden schuldregeling bedrijfsborgstellingskrediet
+##### Artikel 16. Voorwaarden schuldregeling bedrijfsborgstellingskrediet
 
 1. De kredietverstrekker treft geen schuldregeling die inhoudt of mede inhoudt een gehele of gedeeltelijke kwijtschelding van verplichtingen voortvloeiende uit een kredietovereenkomst, uit hoofde waarvan een bedrijfsborgstellingskrediet is verstrekt, zonder voorafgaande toestemming van de minister. De minister kan aan zijn toestemming voorwaarden verbinden ten aanzien van de inhoud van een dergelijke regeling.
 
 2. De minister beslist zo spoedig mogelijk op een verzoek om toestemming als bedoeld in het eerste lid.
 
-#### Artikel 17. Vervallen verplichtingen van de Staat uit hoofde van deze overeenkomst
+##### Artikel 17. Vervallen verplichtingen van de Staat uit hoofde van deze overeenkomst
 
 1. De verplichtingen van de Staat uit hoofde van deze overeenkomst met betrekking tot een bedrijfsborgstellingskrediet vervallen door schuldvernieuwing, door schuldoverneming en – voor het gedeelte waarin subrogatie plaatsvindt – door subrogatie van derden in de rechten van de kredietverstrekker met betrekking tot het bedrijfsborgstellingskrediet, al dan niet voorafgegaan door verpanding van het bedrijfsborgstellingskrediet.
 
@@ -406,11 +432,11 @@ Ten tijde van het sluiten van een kredietovereenkomst uit hoofde waarvan een bed
 
 3. Voor de toepassing van het tweede lid wordt onder rechtspersoon mede begrepen twee of meer rechtspersonen, indien die rechtspersonen gezamenlijk voldoen aan de in het tweede lid genoemde voorwaarden en ieder van die rechtspersonen zich hoofdelijk aansprakelijk stelt voor de nakoming van de verplichtingen die voortvloeien uit de kredietovereenkomst uit hoofde waarvan het bedrijfsborgstellingskrediet is verstrekt.
 
-#### Artikel 18. Procedure bij aanleveren onjuiste gegevens door kredietverstrekker
+##### Artikel 18. Procedure bij aanleveren onjuiste gegevens door kredietverstrekker
 
 Reeds uitgekeerde bedragen zijn terstond en zonder enige ingebrekestelling opeisbaar zodra de minister blijkt dat de kredietverstrekker zodanig onjuiste of onvolledige informatie heeft verschaft dat hij op een verzoek om betaling een andere beslissing zou hebben genomen, indien hem de juiste gegevens volledig waren verschaft, of dat de kredietverstrekker de betalingsverplichting, bedoeld in artikel 15, eerste lid, niet is nagekomen.
 
-#### Artikel 19. Controle bedrijfsborgstellingskrediet
+##### Artikel 19. Controle bedrijfsborgstellingskrediet
 
 1. De kredietverstrekker, en indien toepassing is gegeven aan de artikelen 3, tweede lid, en 11, derde lid, de kredietverstrekker-gelieerde, en de MKB-ondernemer voldoen aan hetgeen door de minister aangewezen bij zijn ministerie werkzame personen wordt verzocht, voor zover dat redelijkerwijs noodzakelijk is voor een goede uitvoering van het [Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530), de Regeling Borgstelling MKB-kredieten Aruba, Curaçao en Sint Maarten en deze overeenkomst, en met het oog op de nakoming door de Staat van op de Staat rustende internationaalrechtelijke verplichtingen, en voor zover het betrekking heeft op de uit het besluit of deze overeenkomst voortvloeiende zelfstandige verplichtingen van de kredietverstrekker of de kredietverstrekker-gelieerde op de MKB-ondernemer aan wie het bedrijfsborgstellingskrediet is verstrekt of op de met deze MKB-ondernemer gesloten kredietovereenkomsten, omtrent:
 
@@ -438,7 +464,7 @@ Reeds uitgekeerde bedragen zijn terstond en zonder enige ingebrekestelling opeis
 
 5. De kredietverstrekker meldt de Staat de indiening van een verzoek tot verlening van surseance van betaling aan de kredietverstrekker, dan wel een verzoek tot faillietverklaring van de kredietverstrekker.
 
-#### Artikel 20. Beheer
+##### Artikel 20. Beheer
 
 1. Tijdens de looptijd van de kredietovereenkomst uit hoofde waarvan een bedrijfsborgstellingskrediet wordt verstrekt en tijdens de uitwinning zal de kredietverstrekker waken over de belangen van de Staat als borg.
 
@@ -452,15 +478,15 @@ Reeds uitgekeerde bedragen zijn terstond en zonder enige ingebrekestelling opeis
 
 4. De kredietverstrekker draagt er zorg voor dat de relaties tussen zijn en de bij zijn onderneming betrokkenen enerzijds, en de ondernemer aan wie een bedrijfsborgstellingskrediet is verstrekt anderzijds transparant zijn.
 
-#### Artikel 21. Hardheidsclausule
+##### Artikel 21. Hardheidsclausule
 
 Indien naar het oordeel van de minister de kans dat de toepasselijkheid van deze overeenkomst op een bedrijfsborgstellingskrediet of een deel van een bedrijfsborgstellingskrediet wordt ingeroepen in belangrijke mate wordt verkleind of indien naar het oordeel van de minister aannemelijk is dat daardoor het bedrag waarvoor de toepasselijkheid van deze overeenkomst wordt ingeroepen in belangrijke mate wordt verlaagd, kan de minister voor de toepassing van deze overeenkomst met betrekking tot dat krediet instemmen met een gemotiveerd verzoek van de kredietverstrekker om afwijking van deze overeenkomst.
 
-#### Artikel 22. Communicatie
+##### Artikel 22. Communicatie
 
 Waar in deze overeenkomst sprake is van een vorm van communicatie geschiedt deze langs elektronische weg. De aanlevering door de kredietverstrekker kan in afwijking en bij wijze van alternatief en ter keuze van de kredietverstrekker ook geschieden in schriftelijke vorm en door aanlevering van een fysieke gegevensdrager.
 
-#### Artikel 23. Overige bepalingen
+##### Artikel 23. Overige bepalingen
 
 1. De inwerkingtreding van een wijziging van het [Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530) of de Regeling Borgstelling MKB-kredieten Aruba, Curaçao en Sint Maarten leidt te zelfder tijd tot een gelijke wijziging van deze overeenkomst.
 
@@ -482,7 +508,7 @@ Waar in deze overeenkomst sprake is van een vorm van communicatie geschiedt deze
 
 10. Ieder geschil ten aanzien van deze overeenkomst zal bij uitsluiting worden voorgelegd aan de daartoe bevoegde rechter in het arrondissement Den Haag.
 
-#### Artikel 24. Kredietverstrekker-gelieerde
+##### Artikel 24. Kredietverstrekker-gelieerde
 
 Kredietverstrekker-gelieerde in de zin van artikel 1, tweede lid, onder b, van deze overeenkomst is (zijn):
 

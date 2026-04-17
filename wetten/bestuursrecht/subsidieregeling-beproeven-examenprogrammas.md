@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling beproeven examenprogramma’s"
+title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Media van 14 januari 2025, nr. VO/1502027, houdende regels voor subsidieverstrekking ter ondersteuning van het beproeven van conceptexamenprogramma’s (Subsidieregeling beproeven examenprogramma’s)"
 identifier: "BWBR0050706"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-29
-laatste_update: 2026-01-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050706"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-29"
+last_updated: "2026-01-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050706"
+soort: "ministeriele-regeling"
+stam_id: "17347443"
+version_id: "31349212"
+internal_id: "C44803561"
+label_id: "17251554"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050706/2026-01-29/0"
+intitule_bron: "Stcrt.2025-3160"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-01-14"
+intitule_published: "2025-01-24"
+intitule_in_force: "2025-01-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-2168"
+original_signed_date: "2026-01-20"
+original_published_date: "2026-01-28"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2026-2168"
+entry_into_force_date: "2026-01-29"
+jci_1_3: "jci1.3:c:BWBR0050706&z=2026-01-29&g=2026-01-29"
+jci_1_0: "1.0:c:BWBR0050706&g=2026-01-29"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling beproeven examenprogramma’s"
+signed_date: "2026-01-20"
+entry_into_force: "2026-01-29"
 ---
-
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Media van 14 januari 2025, nr. VO/1502027, houdende regels voor subsidieverstrekking ter ondersteuning van het beproeven van conceptexamenprogramma’s (Subsidieregeling beproeven examenprogramma’s)
 
 Gelet op [artikelen 5.11 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.11) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -76,19 +102,19 @@ In deze regeling wordt verstaan onder:
 
 - **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 1.2. Toepassing [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 1.2. Toepassing [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
 ### Hoofdstuk 2. Subsidieverstrekking beproeven conceptexamenprogramma eerste tranche
 
-#### Artikel 2.1. Doel van de regeling en te subsidiëren activiteiten
+##### Artikel 2.1. Doel van de regeling en te subsidiëren activiteiten
 
 1. De minister kan voor het schooljaar 2025–2026 aan een bevoegd gezag van een vestiging subsidie verstrekken voor het beproeven van conceptexamenprogramma’s van vakken door middel van een try-out, als onderdeel van het onderwijsprogramma voor leerlingen van de schoolsoorten en leerwegen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&bijlage=1&z=2026-01-29&g=2026-01-29).
 
 2. De minister kan voor het schooljaar 2026–2027 aan een bevoegd gezag van een vestiging subsidie verstrekken voor het beproeven van conceptexamenprogramma’s van vakken door middel van een try-out, als onderdeel van het onderwijsprogramma voor leerlingen van de schoolsoorten en leerwegen, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&bijlage=2&z=2026-01-29&g=2026-01-29).
 
-#### Artikel 2.2. Subsidieaanvraag
+##### Artikel 2.2. Subsidieaanvraag
 
 1. Een bevoegd gezag kan per vestiging ten hoogste drie aanvragen voor subsidie indienen. Per aanvraag kan voor ten hoogste één vak en voor één schoolsoort of leerweg subsidie worden aangevraagd.
 
@@ -96,11 +122,11 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 3. Aanvragen ingediend na afloop van het aanvraagtijdvak, bedoeld in het tweede lid, worden afgewezen.
 
-#### Artikel 2.3. Subsidieplafond
+##### Artikel 2.3. Subsidieplafond
 
 Voor subsidieverstrekking op grond van [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2026-01-29&g=2026-01-29), is ten hoogste een bedrag beschikbaar van € 5.250.000.
 
-#### Artikel 2.4. Subsidiebedrag
+##### Artikel 2.4. Subsidiebedrag
 
 1. De subsidie bedraagt € 35.000 per aanvraag.
 
@@ -108,17 +134,17 @@ Voor subsidieverstrekking op grond van [artikel 2.1, eerste lid](https://wetten.
 
 ### Hoofdstuk 3. Wijze van verdeling
 
-#### Artikel 3.1. Wijze van verdeling beschikbare middelen
+##### Artikel 3.1. Wijze van verdeling beschikbare middelen
 
 1. Per vak zijn hoogstens het aantal plekken beschikbaar per schoolsoort en leerweg als genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&bijlage=1&z=2026-01-29&g=2026-01-29).
 
 2. De volledige aanvragen worden na afloop van de aanvraagtermijn per vak op volgorde van binnenkomst gerangschikt en verdeeld over de beschikbare plaatsen, als genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&bijlage=1&z=2026-01-29&g=2026-01-29), waarbij per vak plek is voor maximaal één vestiging van een vso-school.
 
-#### Artikel 3.2. Wijze van verdeling Nederlands, Engels, Frans, Duits, Spaans, Italiaans, Wiskunde Maatschappij en Wiskunde Natuur
+##### Artikel 3.2. Wijze van verdeling Nederlands, Engels, Frans, Duits, Spaans, Italiaans, Wiskunde Maatschappij en Wiskunde Natuur
 
 In aanvulling op [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&hoofdstuk=3&artikel=3.1&z=2026-01-29&g=2026-01-29) worden de aanvragen voor de vakken Nederlands, Engels, Frans, Duits, Spaans, Italiaans, wiskunde maatschappij of wiskunde natuur, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&bijlage=1&z=2026-01-29&g=2026-01-29), na afloop van de aanvraagtermijn per vak op volgorde van binnenkomst gerangschikt, met dien verstande dat voorrang wordt gegeven aan de eerste aanvraag uit elke provincie, die voor subsidie in aanmerking komt.
 
-#### Artikel 3.3. Wijze van verdeling Maatschappijleer
+##### Artikel 3.3. Wijze van verdeling Maatschappijleer
 
 In aanvulling op [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&hoofdstuk=3&artikel=3.1&z=2026-01-29&g=2026-01-29) worden de aanvragen voor het vak maatschappijleer, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&bijlage=1&z=2026-01-29&g=2026-01-29), na afloop van de aanvraagtermijn op volgorde van binnenkomst gerangschikt, met dien verstande dat:
 
@@ -126,7 +152,7 @@ In aanvulling op [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&h
 
 - b. daarna voorrang wordt gegeven aan de eerste aanvraag uit elke provincie die voor subsidie in aanmerking komt, met dien verstande dat de provincies waarvoor op grond van onderdeel a reeds voorrang is gegeven, buiten beschouwing blijven.
 
-#### Artikel 3.4. Wijze van verdeling Klassieke Talen: Grieks
+##### Artikel 3.4. Wijze van verdeling Klassieke Talen: Grieks
 
 In aanvulling op [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&hoofdstuk=3&artikel=3.1&z=2026-01-29&g=2026-01-29) worden de aanvragen voor het vak klassieke talen: Grieks, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&bijlage=1&z=2026-01-29&g=2026-01-29), na afloop van de aanvraagtermijn op volgorde van binnenkomst gerangschikt, met dien verstande dat:
 
@@ -134,7 +160,7 @@ In aanvulling op [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&h
 
 - b. daarna voorrang wordt gegeven aan de eerste aanvraag uit elke provincie die voor subsidie in aanmerking komt, met dien verstande dat de provincies waarvoor op grond van onderdeel a reeds voorrang is gegeven, buiten beschouwing blijven.
 
-#### Artikel 3.5. Wijze van verdeling Klassieke Talen: Latijn
+##### Artikel 3.5. Wijze van verdeling Klassieke Talen: Latijn
 
 In aanvulling op [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&hoofdstuk=3&artikel=3.1&z=2026-01-29&g=2026-01-29) worden de aanvragen voor het vak klassieke talen: Latijn, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&bijlage=1&z=2026-01-29&g=2026-01-29), na afloop van de aanvraagtermijn op volgorde van binnenkomst gerangschikt, met dien verstande dat:
 
@@ -142,7 +168,7 @@ In aanvulling op [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&h
 
 - b. daarna voorrang wordt gegeven aan de eerste aanvraag uit elke provincie die voor subsidie in aanmerking komt, met dien verstande dat de provincies waarvoor op grond van onderdeel a reeds voorrang is gegeven, buiten beschouwing blijven.
 
-#### Artikel 3.6. Wijze van verdeling O&O en NLT
+##### Artikel 3.6. Wijze van verdeling O&O en NLT
 
 1. In aanvulling op [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&hoofdstuk=3&artikel=3.1&z=2026-01-29&g=2026-01-29) worden de aanvragen voor het vak O&O of NLT, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&bijlage=1&z=2026-01-29&g=2026-01-29), na afloop van de aanvraagtermijn per vak op volgorde van binnenkomst gerangschikt, met dien verstande dat:
 
@@ -152,7 +178,7 @@ In aanvulling op [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&h
 
 2. Er is plek voor maximaal één categoraal vwo per vak.
 
-#### Artikel 3.7. Wijze van verdeling Wiskunde 1
+##### Artikel 3.7. Wijze van verdeling Wiskunde 1
 
 In aanvulling op [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&hoofdstuk=3&artikel=3.1&z=2026-01-29&g=2026-01-29) worden de aanvragen voor het vak Wiskunde 1, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&bijlage=1&z=2026-01-29&g=2026-01-29) na afloop van de aanvraagtermijn op volgorde van binnenkomst gerangschikt, met dien verstande dat:
 
@@ -164,7 +190,7 @@ In aanvulling op [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&h
 
 ### Hoofdstuk 4. Verplichtingen, verantwoording en betaling eerste tranche
 
-#### Artikel 4.1. Verplichtingen algemeen
+##### Artikel 4.1. Verplichtingen algemeen
 
 1. In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) worden aan de subsidieontvanger de volgende verplichtingen opgelegd:
 
@@ -180,15 +206,15 @@ In aanvulling op [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&h
 
 2. Aan de verplichtingen, genoemd in het eerste lid, onderdelen b tot en met e, is voldaan indien aan minimaal 80% van de door SLO georganiseerde bijeenkomsten en activiteiten is deelgenomen.
 
-#### Artikel 4.2. Beslistermijn
+##### Artikel 4.2. Beslistermijn
 
 De minister beslist binnen 13 weken op de aanvraag.
 
-#### Artikel 4.3. Betaling
+##### Artikel 4.3. Betaling
 
 De minister verleent een voorschot van 100% en betaalt het subsidiebedrag ineens.
 
-#### Artikel 4.4. Besteding en verantwoording
+##### Artikel 4.4. Besteding en verantwoording
 
 1. Als de activiteiten zijn uitgevoerd en aan de verplichtingen is voldaan, kan het niet aangewende deel van de subsidie worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
@@ -202,17 +228,17 @@ De minister verleent een voorschot van 100% en betaalt het subsidiebedrag ineens
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 5.1. Hardheidsclausule
+##### Artikel 5.1. Hardheidsclausule
 
 De minister kan een of meer bepalingen van deze regeling in bijzondere gevallen buiten toepassing laten of daarvan afwijken voor zover de toepassing, gelet op het belang dat deze regeling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 5.2. Inwerkingtreding
+##### Artikel 5.2. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2030.
 
-#### Artikel 5.3. Citeertitel
+##### Artikel 5.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling beproeven examenprogramma’s.
 
@@ -248,7 +274,7 @@ Deze regeling wordt aangehaald als: Subsidieregeling beproeven examenprogramma�
 
 Deze regeling zal met de toelichting en [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&bijlage=1&z=2025-01-25&g=2025-01-25) in de Staatscourant worden geplaatst.
 
-#### Artikel 1.3. Toepassing navolgende bepalingen
+##### Artikel 1.3. Toepassing navolgende bepalingen
 
 1. [Paragraaf 2 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&hoofdstuk=2&paragraaf=2&z=2026-01-29&g=2026-01-29), [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&hoofdstuk=3&z=2026-01-29&g=2026-01-29) en [paragraaf 2 van hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&hoofdstuk=4&paragraaf=2&z=2026-01-29&g=2026-01-29) zijn uitsluitend van toepassing op subsidieverstrekking als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2026-01-29&g=2026-01-29).
 
@@ -258,7 +284,7 @@ Deze regeling zal met de toelichting en [bijlage](https://wetten.overheid.nl/jci
 
 #### § 1. Subsidieverstrekking: algemene bepalingen
 
-#### Artikel 2.1a. Subsidieaanvraag
+##### Artikel 2.1a. Subsidieaanvraag
 
 1. Voor de subsidieaanvraag wordt gebruik gemaakt van het digitale aanvraagformulier dat is bekendgemaakt op de website [www.dus-i.nl](http://www.dus-i.nl).
 
@@ -274,13 +300,13 @@ Deze regeling zal met de toelichting en [bijlage](https://wetten.overheid.nl/jci
 
 #### § 2. Specifieke bepalingen tranche 1a
 
-#### Artikel 2.5. Weigeringsgrond
+##### Artikel 2.5. Weigeringsgrond
 
 Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt subsidie in ieder geval geweigerd, indien de kwaliteit van het onderwijs van de schoolsoort of leerweg van de vestiging waarvoor subsidie wordt aangevraagd als ‘onvoldoende’ of ‘zeer zwak’ is beoordeeld door de Inspectie van het Onderwijs op peildatum 25 november 2024.
 
 #### § 3. Specifieke bepalingen tranche 1b
 
-#### Artikel 2.6. Subsidieaanvraag
+##### Artikel 2.6. Subsidieaanvraag
 
 1. Een bevoegd gezag kan per vestiging ten hoogste drie aanvragen voor subsidie indienen, elk voor het beproeven van een conceptexamenprogramma van een afzonderlijk vak, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&bijlage=2&z=2026-01-29&g=2026-01-29), binnen een in die bijlage vermelde schoolsoort of leerweg.
 
@@ -290,11 +316,11 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 4. Aanvragen ingediend na afloop van het aanvraagtijdvak, bedoeld in het tweede lid, worden afgewezen.
 
-#### Artikel 2.7. Subsidieplafond
+##### Artikel 2.7. Subsidieplafond
 
 Voor subsidieverstrekking op grond van [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2026-01-29&g=2026-01-29), is ten hoogste een bedrag beschikbaar van € 2.290.000.
 
-#### Artikel 2.8. Subsidiebedrag
+##### Artikel 2.8. Subsidiebedrag
 
 1. De subsidie bedraagt per aanvraag:
 
@@ -306,7 +332,7 @@ Voor subsidieverstrekking op grond van [artikel 2.1, tweede lid](https://wetten.
 
 3. Het subsidiebedrag voor een aanvrager op Caribisch Nederland wordt uitbetaald in dollars tegen de vastgestelde wisselkoers.
 
-#### Artikel 2.9. Weigeringsgrond
+##### Artikel 2.9. Weigeringsgrond
 
 Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt subsidie in ieder geval geweigerd, indien de kwaliteit van het onderwijs van de schoolsoort of leerweg van de vestiging waarvoor subsidie wordt aangevraagd als ‘zeer zwak’ is beoordeeld door de Inspectie van het Onderwijs op peildatum 1 december 2025.
 
@@ -314,13 +340,13 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 ### Hoofdstuk 3a. Wijze van verdeling tranche 1b
 
-#### Artikel 3.8. Wijze van verdeling beschikbare middelen: algemeen
+##### Artikel 3.8. Wijze van verdeling beschikbare middelen: algemeen
 
 1. Per vak, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&bijlage=2&z=2026-01-29&g=2026-01-29), is voor elke schoolsoort of leerweg ten hoogste het aantal plekken beschikbaar dat in die bijlage bij het betreffende vak is vermeld.
 
 2. De volledige aanvragen worden na afloop van de aanvraagtermijn per vak op volgorde van binnenkomst gerangschikt en verdeeld over de beschikbare plekken, vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&bijlage=2&z=2026-01-29&g=2026-01-29), waarbij per vak plek is voor maximaal één vestiging van een vso-school en met dien verstande dat voorrang wordt gegeven aan de eerste subsidiabele aanvraag uit elke provincie, van een in de betreffende provincie gelegen vestiging.
 
-#### Artikel 3.9. Wijze van verdeling biologie, natuurkunde of scheikunde
+##### Artikel 3.9. Wijze van verdeling biologie, natuurkunde of scheikunde
 
 1. Indien de verdeling, bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&hoofdstuk=3a&artikel=3.8&z=2026-01-29&g=2026-01-29), ertoe leidt dat voor de vakken biologie, natuurkunde of scheikunde, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&bijlage=2&z=2026-01-29&g=2026-01-29), een of meer beschikbare plekken onvervuld blijven, voegt de minister die plek of plekken voor het betreffende vak toe aan een andere schoolsoort of leerweg.
 
@@ -368,13 +394,13 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 - 3°. vwo: havo voorrang op vmbo met gemengde en theoretische leerweg.
 
-#### Artikel 3.10. Wijze van verdeling Russische taal en cultuur
+##### Artikel 3.10. Wijze van verdeling Russische taal en cultuur
 
 1. Indien voor het vak Russische taal en cultuur, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&bijlage=2&z=2026-01-29&g=2026-01-29), meer subsidiabele aanvragen worden ingediend dan kunnen worden toegekend, wordt, onverminderd [artikel 3.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&hoofdstuk=3a&artikel=3.8&z=2026-01-29&g=2026-01-29), voorrang verleend aan vestigingen waar dit vak zal worden beproefd in zowel het havo als het vwo.
 
 2. Indien de verdeling, bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&hoofdstuk=3a&artikel=3.8&z=2026-01-29&g=2026-01-29), ertoe leidt dat voor het vak Russische taal en cultuur, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&bijlage=2&z=2026-01-29&g=2026-01-29), een beschikbare plek onvervuld blijft, voegt de minister die plek op basis van loting toe aan het vak Arabische taal en cultuur, genoemd in bijlage 2, of het vak Turkse taal en cultuur, genoemd in bijlage 2.
 
-#### Artikel 3.11. Wijze van verdeling Arabische taal en cultuur of Turkse taal en cultuur
+##### Artikel 3.11. Wijze van verdeling Arabische taal en cultuur of Turkse taal en cultuur
 
 1. Indien voor de vakken Arabische taal en cultuur en Turkse taal en cultuur, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&bijlage=2&z=2026-01-29&g=2026-01-29), meer subsidiabele aanvragen worden ingediend dan kunnen worden toegekend, wordt, onverminderd [artikel 3.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&hoofdstuk=3a&artikel=3.8&z=2026-01-29&g=2026-01-29), voor wat betreft de plek die beschikbaar is ongeacht het vak dan wel de leerweg of schoolsoort daarvan, op basis van loting bepaald aan welke van de twee vakken die plek wordt toebedeeld.
 
@@ -390,13 +416,13 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 4. Een plek voor het vak Arabische taal en cultuur, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&bijlage=2&z=2026-01-29&g=2026-01-29), die na toepassing van het derde lid onvervuld blijft, voegt de minister toe aan het vak Turkse taal en cultuur, genoemd in bijlage 2, en vice versa, met dien verstande dat daarbij voorrang wordt gegeven aan de corresponderende schoolsoort of leerweg.
 
-#### Artikel 3.12. Wijze van verdeling Spaans compact
+##### Artikel 3.12. Wijze van verdeling Spaans compact
 
 1. Indien voor het vak Spaans compact, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&bijlage=2&z=2026-01-29&g=2026-01-29), meer subsidiabele aanvragen worden ingediend dan kunnen worden toegekend, wordt, onverminderd [artikel 3.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&hoofdstuk=3a&artikel=3.8&z=2026-01-29&g=2026-01-29), voorrang verleend aan aanvragen van vestigingen waar dit vak zal worden beproefd in zowel het havo als het vwo.
 
 2. Indien de verdeling, bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&hoofdstuk=3a&artikel=3.8&z=2026-01-29&g=2026-01-29), ertoe leidt dat voor een schoolsoort bij het vak Spaans compact, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&bijlage=2&z=2026-01-29&g=2026-01-29), een beschikbare plek onvervuld blijft, voegt de minister die plek toe aan de andere schoolsoort van het betreffende vak.
 
-#### Artikel 3.13. Nadere voorwaarden voor toevoeging van onvervulde plekken
+##### Artikel 3.13. Nadere voorwaarden voor toevoeging van onvervulde plekken
 
 Toevoegingen als bedoeld in dit [hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&hoofdstuk=3&z=2026-01-29&g=2026-01-29) aan een ander vak of aan een andere schoolsoort of leerweg van hetzelfde vak, vinden plaats:
 
@@ -404,7 +430,7 @@ Toevoegingen als bedoeld in dit [hoofdstuk](https://wetten.overheid.nl/jci1.3:c:
 
 - b. onverminderd de bepalingen omtrent voorrang.
 
-#### Artikel 3.14. Gevolgen afzien van beproeven concepteindexamenprogramma
+##### Artikel 3.14. Gevolgen afzien van beproeven concepteindexamenprogramma
 
 Indien een subsidieontvanger in de periode tussen de subsidieverlening en de start van het schooljaar 2026–2027 aan de minister meldt af te zullen zien van het beproeven van een conceptexamenprogramma’s van een of meer vakken,
 
@@ -422,7 +448,7 @@ Indien een subsidieontvanger in de periode tussen de subsidieverlening en de sta
 
 - 4°. bij herziening van het oorspronkelijke afwijzende besluit.
 
-#### Artikel 3.15. Loting
+##### Artikel 3.15. Loting
 
 In de gevallen waarin ten aanzien van een beschikbare plek als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&bijlage=2&z=2026-01-29&g=2026-01-29) na toepassing van de in dit [hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&hoofdstuk=3&z=2026-01-29&g=2026-01-29) opgenomen verdelingscriteria niet valt te komen tot een selectie tussen bepaalde aanvragen, beslist de minister daaromtrent op basis van loting.
 
@@ -432,7 +458,7 @@ In de gevallen waarin ten aanzien van een beschikbare plek als bedoeld in [bijla
 
 #### § 2. Specifieke verplichtingen tranche 1a
 
-#### Artikel 4.1a. Specifieke verplichtingen tranche 1a
+##### Artikel 4.1a. Specifieke verplichtingen tranche 1a
 
 1. In afwijking van [artikel 4.1, het eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2026-01-29&g=2026-01-29), wordt aan een bevoegd gezag van een vestiging die de vakken Chinees of Fries, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&bijlage=1&z=2026-01-29&g=2026-01-29), beproeft, de verplichting opgelegd dat gedurende de subsidieperiode voor het betreffende vak één leraar beschikbaar wordt gesteld voor materiaalontwikkeling op basis van het conceptexamenprogramma, de voorbereiding en het geven van onderwijs op basis van het conceptexamenprogramma aan de leerlingen die het vak volgen en voorbereiding van en deelname aan de door SLO georganiseerde bijeenkomsten. Artikel 4.1. tweede lid, is van overeenkomstige toepassing.
 
@@ -442,7 +468,7 @@ In de gevallen waarin ten aanzien van een beschikbare plek als bedoeld in [bijla
 
 #### § 3. Specifieke verplichtingen tranche 1b
 
-#### Artikel 4.1b. Leerlingaantallen
+##### Artikel 4.1b. Leerlingaantallen
 
 In aanvulling op [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2026-01-29&g=2026-01-29), wordt aan de subsidieontvanger de verplichting opgelegd ten minste het navolgende aantal leerlingen te selecteren voor het beproeven van het conceptexamenprogramma van het vak:
 
@@ -484,7 +510,7 @@ In aanvulling op [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:B
 
 - 2°. het vwo: tien uit het zesde leerjaar.
 
-#### Artikel 4.1c. Afwijkend aantal leraren
+##### Artikel 4.1c. Afwijkend aantal leraren
 
 In afwijking van [artikel 4.1, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2026-01-29&g=2026-01-29), mag de subsidieontvanger ten behoeve van de activiteiten, bedoeld in die bepaling, volstaan met de terbeschikkingstelling van één leraar, voor zover het de navolgende vakken, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&bijlage=2&z=2026-01-29&g=2026-01-29), betreft:
 
@@ -498,7 +524,7 @@ In afwijking van [artikel 4.1, eerste lid, onderdeel d](https://wetten.overheid.
 
 - e. Spaans compact.
 
-#### Artikel 4.1d. Biologie en natuurkunde: verdeling leraren over bb/kb en havo/vwo
+##### Artikel 4.1d. Biologie en natuurkunde: verdeling leraren over bb/kb en havo/vwo
 
 Van de twee leraren die de subsidieontvanger op grond van [artikel 4.1, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0050706&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2026-01-29&g=2026-01-29), ter beschikking stelt ten behoeve van de activiteiten, bedoeld in die bepaling, geeft er, voor wat betreft het vak:
 
@@ -512,7 +538,7 @@ Van de twee leraren die de subsidieontvanger op grond van [artikel 4.1, eerste l
 
 ### Hoofdstuk 4a. Verlening, betaling, besteding en verantwoording
 
-#### Artikel 4.2a. Wijze van verstrekking: verlening en vaststelling
+##### Artikel 4.2a. Wijze van verstrekking: verlening en vaststelling
 
 In afwijking van [artikel 9.1, vierde lid, onderdeel a, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=9.1) geschiedt de subsidieverstrekking door middel van voorafgaande verlening, gevolgd door vaststelling na afloop van de activiteiten.
 

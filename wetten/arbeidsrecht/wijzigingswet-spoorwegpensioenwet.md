@@ -1,14 +1,38 @@
 ---
-title: "Wijzigingswet Spoorwegpensioenwet"
+title: "Wet van 15 december 1993, houdende maatregelen in verband met de financiële positie van het Spoorwegpensioenfonds"
 identifier: "BWBR0006322"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1994-01-19
-laatste_update: 1994-01-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006322"
+country: "nl"
+rank: "wet"
+publication_date: "1994-01-19"
+last_updated: "1994-01-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006322"
+soort: "wet"
+stam_id: "514823"
+version_id: "755652"
+internal_id: "C755651"
+label_id: "500034"
+dtd_version: "2.0"
+original_entry_into_force: "1994-01-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006322/1994-01-19/0"
+intitule_bron: "Stb.1993-770"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-12-15"
+intitule_status: "goed"
+original_publication: "Stb.1993-770"
+original_signed_date: "1993-12-15"
+original_effect: "nieuwe-regeling"
+original_dossier: "20437"
+entry_into_force_date: "1994-01-19"
+entry_into_force_dossier: "20437"
+jci_1_3: "jci1.3:c:BWBR0006322&z=1994-01-19&g=1994-01-19"
+jci_1_0: "1.0:c:BWBR0006322&g=1994-01-19"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Spoorwegpensioenwet"
+signed_date: "1993-12-15"
+entry_into_force: "1994-01-19"
 ---
-
-# Wijzigingswet Spoorwegpensioenwet
+# Wet van 15 december 1993, houdende maatregelen in verband met de financiële positie van het Spoorwegpensioenfonds
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,19 +40,19 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is maatregelen te nemen
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 De pensioenbijdrage bedoeld in artikel C 3, eerste lid, van de Spoorwegpensioenwet wordt, behoudens vermindering uit anderen hoofde, verminderd met een en zestiende procent van de som der bijdragegrondslagen.
 
-#### Artikel III
+##### Artikel III
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IV
+##### Artikel IV
 
 1. Deze wet treedt in werking met ingang van de twintigste dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
 

@@ -1,13 +1,38 @@
 ---
-title: "Besluit PT verlening mandaat en volmacht aan de afdelingshoofden van het Productschap Tuinbouw"
+title: "Besluit van de secretaris van het Productschap Tuinbouw, d.d. 3 juli 2007, houdende verlening van mandaat en volmacht aan de afdelingshoofden, hun plaatsvervanger, en enkele functionarissen van het Productschap Tuinbouw (Besluit PT verlening mandaat en volmacht aan de afdelingshoofden van het Productschap Tuinbouw)"
 identifier: "BWBR0022324"
-categorie: "Bestuursrecht"
-publicatiedatum: 2007-07-15
-laatste_update: 2007-07-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022324"
+country: "nl"
+rank: "pbo"
+publication_date: "2007-07-15"
+last_updated: "2007-07-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022324"
+soort: "pbo"
+stam_id: "9169683"
+version_id: "14671342"
+internal_id: "C19963581"
+label_id: "9148504"
+dtd_version: "2.0"
+original_entry_into_force: "2007-07-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022324/2007-07-15/0"
+intitule_bron: "Vbbo.2007-34"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-07-03"
+intitule_published: "2007-07-13"
+intitule_in_force: "2007-07-13"
+intitule_status: "goed"
+original_publication: "Vbbo.2007-34"
+original_signed_date: "2007-07-03"
+original_published_date: "2007-07-13"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2007-07-15"
+jci_1_3: "jci1.3:c:BWBR0022324&z=2007-07-15&g=2007-07-15"
+jci_1_0: "1.0:c:BWBR0022324&g=2007-07-15"
+citeertitel_status: "officieel"
+short_title: "Besluit PT verlening mandaat en volmacht aan de afdelingshoofden van het Productschap Tuinbouw"
+signed_date: "2007-07-03"
+entry_into_force: "2007-07-15"
 ---
-
 # Besluit van de secretaris van het Productschap Tuinbouw, d.d. 3 juli 2007, houdende verlening van mandaat en volmacht aan de afdelingshoofden, hun plaatsvervanger, en enkele functionarissen van het Productschap Tuinbouw (Besluit PT verlening mandaat en volmacht aan de afdelingshoofden van het Productschap Tuinbouw)
 
 Gehoord de voorzitter,
@@ -28,13 +53,13 @@ Gelet op [artikel 15 van de Wet tuchtrechtspraak bedrijfsorganisatie 2002](https
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Aan de secretaris is voorbehouden het nemen van besluiten, inhoudende een afwijzing van een verzoek om informatie ingevolge de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252).
 
 2. Tevens is aan de secretaris voorbehouden het nemen van beslissingen op bezwaar die betrekking hebben op de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022324&bijlage=1&z=2007-07-15&g=2007-07-15) genoemde werkzaamheden.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De secretaris verleent mandaat en volmacht aan het hoofd van de afdeling:
 
@@ -70,17 +95,17 @@ Besluit:
 
 3. De secretaris geeft nadere instructies aan het hoofd van de afdeling en zijn plaatsvervanger omtrent de aan hen verleende volmacht ([bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022324&bijlage=2&z=2007-07-15&g=2007-07-15)).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het in een document vastleggen van een besluit, een privaatrechtelijke rechtshandeling, of een andere handeling, dient te geschieden op briefpapier met het hoofd: ‘Productschap Tuinbouw’.
 
 2. Een document als bedoeld in het eerste lid, door een functionaris als genoemd in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022324&artikel=2&z=2007-07-15&g=2007-07-15) vastgesteld, vermeldt aan het slot: ‘De voorzitter, namens deze,’ gevolgd door de functieaanduiding, de handtekening en de naam van de functionaris.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit en de daarbij behorende toelichting en bijlagen wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie en treedt in werking de tweede dag na publicatie.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit PT verlening mandaat en volmacht aan de afdelingshoofden van het Productschap Tuinbouw.
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB+ laag 7"
+title: "Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 15 december 2020, nr. WJZ/ 20035882, tot vaststelling van regels met betrekking tot de aanvraag en veiling van vergunningen voor digitale radio-omroep DAB+ in laag 7 (Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB+ laag 7)"
 identifier: "BWBR0044532"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-12-22
-laatste_update: 2020-12-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044532"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-12-22"
+last_updated: "2020-12-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044532"
+soort: "ministeriele-regeling"
+stam_id: "15765253"
+version_id: "27322752"
+internal_id: "C38590701"
+label_id: "15703934"
+dtd_version: "2.0"
+original_entry_into_force: "2020-12-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044532/2020-12-22/0"
+intitule_bron: "Stcrt.2020-66397"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-12-15"
+intitule_published: "2020-12-21"
+intitule_in_force: "2020-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-66397"
+original_signed_date: "2020-12-15"
+original_published_date: "2020-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-66397"
+entry_into_force_date: "2020-12-22"
+jci_1_3: "jci1.3:c:BWBR0044532&z=2020-12-22&g=2020-12-22"
+jci_1_0: "1.0:c:BWBR0044532&g=2020-12-22"
+citeertitel_status: "officieel"
+short_title: "Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB+ laag 7"
+signed_date: "2020-12-15"
+entry_into_force: "2020-12-22"
 ---
-
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 15 december 2020, nr. WJZ/ 20035882, tot vaststelling van regels met betrekking tot de aanvraag en veiling van vergunningen voor digitale radio-omroep DAB+ in laag 7 (Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB+ laag 7)
 
 Gelet op de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=9) en [10 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=10);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepaling
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -50,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Beschikbare vergunningen
 
-#### Artikel 2. Beschikbare vergunningen
+##### Artikel 2. Beschikbare vergunningen
 
 Ingevolge het bekendmakingsbesluit zijn beschikbaar om op grond van deze regeling te worden verdeeld: twaalf vergunningen.
 
@@ -58,7 +84,7 @@ Ingevolge het bekendmakingsbesluit zijn beschikbaar om op grond van deze regelin
 
 #### § 1. Eisen aan de aanvraag en aanvrager
 
-#### Artikel 3. Indiening van de aanvraag
+##### Artikel 3. Indiening van de aanvraag
 
 1. Degene die voor een vergunning in aanmerking wil komen, dient daartoe een aanvraag in bij de minister.
 
@@ -74,7 +100,7 @@ Emmasingel 1
 
 3. De persoonlijke overhandiging, bedoeld in het tweede lid, vindt uitsluitend plaats op werkdagen tussen 10:00 uur en 12:00 uur of tussen 14:00 uur en 16:00 uur. Na de overhandiging geeft de minister een bewijs van ontvangst af dat is voorzien van datum en tijdstip van ontvangst.
 
-#### Artikel 4. Aanvrager is rechtspersoon
+##### Artikel 4. Aanvrager is rechtspersoon
 
 1. De aanvrager is een privaatrechtelijke rechtspersoon naar Nederlands recht of het equivalent daarvan naar het recht van een van de overige lidstaten van de Europese Unie of een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, en heeft zijn statutaire zetel, zijn hoofdbestuur of zijn hoofdvestiging binnen de Europese Economische Ruimte.
 
@@ -86,15 +112,15 @@ Emmasingel 1
 
 3. Met de eisen, bedoeld in het tweede lid, worden gelijkgesteld zodanige eisen volgens het recht van een van de overige lidstaten van de Europese Unie of een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte.
 
-#### Artikel 5. Toestemming van het Commissariaat voor de Media
+##### Artikel 5. Toestemming van het Commissariaat voor de Media
 
 De aanvrager beschikt over toestemming als bedoeld in [artikel 3.1 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.1).
 
-#### Artikel 6. Verklaring geen afspraken of onderling afgestemde feitelijke gedragingen die afbreuk kunnen doen aan de mededinging
+##### Artikel 6. Verklaring geen afspraken of onderling afgestemde feitelijke gedragingen die afbreuk kunnen doen aan de mededinging
 
 De aanvraag gaat vergezeld van een door de aanvrager ondertekende verklaring zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&bijlage=1&z=2020-12-22&g=2020-12-22).
 
-#### Artikel 7. Vorm en inhoud van de aanvraag
+##### Artikel 7. Vorm en inhoud van de aanvraag
 
 1. Een rechtspersoon dient ten hoogste één aanvraag in.
 
@@ -114,7 +140,7 @@ De aanvraag gaat vergezeld van een door de aanvrager ondertekende verklaring zoa
 
 #### § 2. De zekerheidstelling
 
-#### Artikel 8. Zekerheidstelling door de aanvrager
+##### Artikel 8. Zekerheidstelling door de aanvrager
 
 1. De aanvrager verstrekt als zekerheid voor de betaling van zijn bod een waarborgsom of een bankgarantie ter grootte van € 50.000,– per vergunning die hij aanvraagt.
 
@@ -132,7 +158,7 @@ De aanvraag gaat vergezeld van een door de aanvrager ondertekende verklaring zoa
 
 - b. de bankgarantie, verstrekt volgens het model, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=3&paragraaf=1&artikel=3&z=2020-12-22&g=2020-12-22), is ontvangen op het in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=3&paragraaf=1&artikel=3&z=2020-12-22&g=2020-12-22), genoemde adres.
 
-#### Artikel 9. Terugstorten waarborgsom en teruggave bankgarantie aanvragen die niet worden behandeld, zijn afgewezen of geweigerd
+##### Artikel 9. Terugstorten waarborgsom en teruggave bankgarantie aanvragen die niet worden behandeld, zijn afgewezen of geweigerd
 
 1. Binnen twee weken nadat de aanvrager zijn aanvraag heeft ingetrokken, dan wel nadat de minister overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=3&paragraaf=3&artikel=10&z=2020-12-22&g=2020-12-22) heeft besloten de aanvraag niet te behandelen, de aanvraag op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=3&paragraaf=3&artikel=11&z=2020-12-22&g=2020-12-22) heeft afgewezen, of de aanvraag heeft geweigerd op grond van [3.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.18):
 
@@ -144,7 +170,7 @@ De aanvraag gaat vergezeld van een door de aanvrager ondertekende verklaring zoa
 
 #### § 3. Beslissingen tijdens de aanvraagfase
 
-#### Artikel 10. Verzuim en verzuimherstel
+##### Artikel 10. Verzuim en verzuimherstel
 
 1. Indien de aanvrager niet heeft voldaan aan de in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=3&paragraaf=1&artikel=5&z=2020-12-22&g=2020-12-22), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=3&paragraaf=1&artikel=6&z=2020-12-22&g=2020-12-22), [7, derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=3&paragraaf=1&artikel=7&z=2020-12-22&g=2020-12-22), of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=3&paragraaf=2&artikel=8&z=2020-12-22&g=2020-12-22) gestelde voorschriften, deelt de minister de aanvrager dit mee en stelt hij hem in de gelegenheid het verzuim te herstellen.
 
@@ -154,7 +180,7 @@ De aanvraag gaat vergezeld van een door de aanvrager ondertekende verklaring zoa
 
 4. Indien het verzuim niet is hersteld binnen de termijn en op de wijze, bedoeld in het tweede respectievelijk derde lid, kan de minister besluiten de aanvraag overeenkomstig [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) niet te behandelen.
 
-#### Artikel 11. Afwijzing aanvraag
+##### Artikel 11. Afwijzing aanvraag
 
 1. Onverminderd het bepaalde in [artikel 3.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.18), wijst de minister de aanvraag:
 
@@ -170,11 +196,11 @@ De aanvraag gaat vergezeld van een door de aanvrager ondertekende verklaring zoa
 
 ### Hoofdstuk 4. Vaststelling eventuele schaarste en vergunningverlening bij afwezigheid van schaarste
 
-#### Artikel 12. Vaststelling schaarste
+##### Artikel 12. Vaststelling schaarste
 
 Indien de minister vaststelt dat, uitgezonderd de aanvragen die buiten behandeling zijn gesteld, geheel of gedeeltelijk zijn afgewezen of op grond van [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.18) zijn geweigerd, het aantal vergunningen dat is aangevraagd hoger is dan het aantal vergunningen dat op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=2&artikel=2&z=2020-12-22&g=2020-12-22) beschikbaar is, vindt de verdeling plaats met toepassing van de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=5&z=2020-12-22&g=2020-12-22) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=6&z=2020-12-22&g=2020-12-22).
 
-#### Artikel 13. Vergunningverlening bij afwezigheid van schaarste
+##### Artikel 13. Vergunningverlening bij afwezigheid van schaarste
 
 1. Indien de verdeling niet plaatsvindt met toepassing van de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=5&z=2020-12-22&g=2020-12-22) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=6&z=2020-12-22&g=2020-12-22), wordt het aantal vergunningen dat is aangevraagd om niet verleend aan de betreffende aanvrager of aanvragers.
 
@@ -184,19 +210,19 @@ Indien de minister vaststelt dat, uitgezonderd de aanvragen die buiten behandeli
 
 #### § 1. Algemene bepalingen omtrent de veiling
 
-#### Artikel 14. Het veilingmodel
+##### Artikel 14. Het veilingmodel
 
 De veiling vindt plaats via internet met behulp van een elektronisch veilingsysteem en geschiedt door middel van een discrete klokveiling met exitbiedingen.
 
-#### Artikel 15. Rol minister
+##### Artikel 15. Rol minister
 
 De minister leidt de veiling en draagt zorg voor een goed verloop hiervan.
 
-#### Artikel 16. Veilen op werkdagen
+##### Artikel 16. Veilen op werkdagen
 
 De veiling wordt uitsluitend op werkdagen gehouden.
 
-#### Artikel 17. Biedingen en andere communicatie tussen deelnemer en de minister
+##### Artikel 17. Biedingen en andere communicatie tussen deelnemer en de minister
 
 1. Biedingen en exitbiedingen worden uitsluitend uitgebracht door middel van het elektronisch veilingsysteem.
 
@@ -206,7 +232,7 @@ De veiling wordt uitsluitend op werkdagen gehouden.
 
 - b. telefonisch of per e-mail, waarbij de deelnemer bereikbaar is op het door hem in zijn aanvraag opgegeven telefoonnummer en e-mailadres, en de minister bereikbaar is op het telefoonnummer en e-mailadres, bedoeld in [artikel 23, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=5&paragraaf=2&artikel=23&z=2020-12-22&g=2020-12-22).
 
-#### Artikel 18. Bijzondere omstandigheden tijdens de veiling
+##### Artikel 18. Bijzondere omstandigheden tijdens de veiling
 
 1. De minister kan de veiling opschorten indien zich naar zijn oordeel bijzondere omstandigheden voordoen die buiten de beïnvloedingssfeer liggen van de minister of de deelnemers, of indien technische problemen optreden waardoor de veiling tijdelijk geen doorgang kan vinden.
 
@@ -220,7 +246,7 @@ De veiling wordt uitsluitend op werkdagen gehouden.
 
 - b. die biedronde ongeldig wordt verklaard en opnieuw moet worden gehouden.
 
-#### Artikel 19. Verboden gedragingen
+##### Artikel 19. Verboden gedragingen
 
 1. Een aanvrager of deelnemer, inbegrepen diegene die een aanvrager of deelnemer ten behoeve van de veiling bijstaat:
 
@@ -230,7 +256,7 @@ De veiling wordt uitsluitend op werkdagen gehouden.
 
 2. De minister kan de veiling beëindigen of opschorten indien naar zijn oordeel sprake is van afspraken of gedragingen die in strijd zijn met het eerste lid.
 
-#### Artikel 20. Uitsluiting aanvragers of deelnemers
+##### Artikel 20. Uitsluiting aanvragers of deelnemers
 
 1. Indien voorafgaande aan of tijdens de veiling blijkt dat een aanvrager of deelnemer niet of niet meer voldoet aan de in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=3&paragraaf=1&artikel=5&z=2020-12-22&g=2020-12-22), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=3&paragraaf=1&artikel=6&z=2020-12-22&g=2020-12-22), [7, derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=3&paragraaf=1&artikel=7&z=2020-12-22&g=2020-12-22), of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=3&paragraaf=2&artikel=8&z=2020-12-22&g=2020-12-22) gestelde voorschriften, dan wel dat een aanvrager of deelnemer naar het oordeel van de minister in strijd heeft gehandeld met [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=5&paragraaf=1&artikel=19&z=2020-12-22&g=2020-12-22), kan de minister:
 
@@ -240,13 +266,13 @@ De veiling wordt uitsluitend op werkdagen gehouden.
 
 2. Indien niet eerder dan na afloop van de veiling blijkt dat een deelnemer naar het oordeel van de minister in strijd heeft gehandeld met [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=5&paragraaf=1&artikel=19&z=2020-12-22&g=2020-12-22), kan de minister de winnende biedingen van die deelnemer ongeldig verklaren en besluiten dat de veiling opnieuw moet worden gehouden.
 
-#### Artikel 21. Bod en exitbod zijn onvoorwaardelijk en onherroepelijk
+##### Artikel 21. Bod en exitbod zijn onvoorwaardelijk en onherroepelijk
 
 Een deelnemer is onvoorwaardelijk en onherroepelijk aan zijn bod of exitbod gebonden.
 
 #### §. 2. De veilingprocedure
 
-#### Artikel 22. Toelating tot de veiling
+##### Artikel 22. Toelating tot de veiling
 
 De minister deelt de aanvrager wiens aanvraag niet buiten behandeling is gesteld, geheel is afgewezen of is geweigerd op grond van [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.18), schriftelijk mee:
 
@@ -254,7 +280,7 @@ De minister deelt de aanvrager wiens aanvraag niet buiten behandeling is gesteld
 
 - b. het aantal vergunningen dat de deelnemer, gelet op zijn aanvraag en [artikel 3.11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.11), ten hoogste kan verwerven.
 
-#### Artikel 23. Mededelingen minister aan deelnemers vóór de veiling
+##### Artikel 23. Mededelingen minister aan deelnemers vóór de veiling
 
 De minister deelt de deelnemers uiterlijk twee weken voor de aanvang van de veiling schriftelijk mee:
 
@@ -268,7 +294,7 @@ De minister deelt de deelnemers uiterlijk twee weken voor de aanvang van de veil
 
 - e. het internetadres waarop de deelnemer inlogt om aan de veiling deel te nemen.
 
-#### Artikel 24. De biedronden
+##### Artikel 24. De biedronden
 
 1. De minister bepaalt het tijdstip en de duur van de biedronden.
 
@@ -280,7 +306,7 @@ De minister deelt de deelnemers uiterlijk twee weken voor de aanvang van de veil
 
 5. De minister bepaalt de prijs in de tweede en daaropvolgende biedronden.
 
-#### Artikel 25. Verlenging biedronden
+##### Artikel 25. Verlenging biedronden
 
 1. Voor een deelnemer die een biedronde laat verstrijken zonder dat hij een bod of, indien van toepassing, exitbod heeft uitgebracht, wordt de betreffende biedronde van rechtswege verlengd met 30 minuten.
 
@@ -292,7 +318,7 @@ De minister deelt de deelnemers uiterlijk twee weken voor de aanvang van de veil
 
 5. De minister deelt de verlenging van een biedronde zo spoedig mogelijk mee aan alle deelnemers.
 
-#### Artikel 26. De veilingregels
+##### Artikel 26. De veilingregels
 
 1. Een deelnemer brengt een bod uit in iedere biedronde waaraan hij deelneemt.
 
@@ -312,7 +338,7 @@ De minister deelt de deelnemers uiterlijk twee weken voor de aanvang van de veil
 
 7. Een deelnemer die een biedronde of een verlengde biedronde laat verstrijken zonder een bod uit te brengen, brengt in de daaropvolgende biedronden geen bod uit.
 
-#### Artikel 27. Mededelingen minister na biedronden
+##### Artikel 27. Mededelingen minister na biedronden
 
 1. Zo spoedig mogelijk na het einde van een biedronde deelt de minister:
 
@@ -336,7 +362,7 @@ De minister deelt de deelnemers uiterlijk twee weken voor de aanvang van de veil
 
 2. Het eerste lid, onderdeel a, onder 5⁰, is niet van toepassing na het einde van de laatste biedronde, bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=5&paragraaf=2&artikel=28&z=2020-12-22&g=2020-12-22).
 
-#### Artikel 28. Laatste biedronde en aanmerking winnende biedingen
+##### Artikel 28. Laatste biedronde en aanmerking winnende biedingen
 
 1. De laatste biedronde is de biedronde waarin het aantal vergunningen dat in totaal is geboden gelijk is aan of kleiner is dan het aantal vergunningen dat op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=2&artikel=2&z=2020-12-22&g=2020-12-22) beschikbaar is.
 
@@ -350,7 +376,7 @@ De minister deelt de deelnemers uiterlijk twee weken voor de aanvang van de veil
 
 4. Indien twee of meer exitbiedingen als bedoeld in het derde lid, onderdeel b, gelijk zijn, en onvoldoende vergunningen resteren om elk van deze exitbiedingen als winnende biedingen aan te merken, vindt het aanmerken van deze exitbiedingen als winnende biedingen plaats door middel van een loting, waarbij gebruik wordt gemaakt van het elektronisch veilingsysteem.
 
-#### Artikel 29. Bekendmaking winnende biedingen
+##### Artikel 29. Bekendmaking winnende biedingen
 
 De minister maakt zo spoedig mogelijk na de veiling aan alle deelnemers bekend:
 
@@ -364,7 +390,7 @@ De minister maakt zo spoedig mogelijk na de veiling aan alle deelnemers bekend:
 
 #### § 1. Algemene bepaling
 
-#### Artikel 30. Verlening vergunningen aan winnende deelnemers en afwijzing aanvragen niet-winnende deelnemers
+##### Artikel 30. Verlening vergunningen aan winnende deelnemers en afwijzing aanvragen niet-winnende deelnemers
 
 1. De minister verleent de winnende deelnemers de door hen gewonnen vergunningen, nadat zij de verschuldigde bedragen, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=6&paragraaf=2&artikel=31&z=2020-12-22&g=2020-12-22), hebben betaald.
 
@@ -372,7 +398,7 @@ De minister maakt zo spoedig mogelijk na de veiling aan alle deelnemers bekend:
 
 #### § 2. Winnende deelnemers
 
-#### Artikel 31. Betaling en hoogte van verschuldigde bedrag
+##### Artikel 31. Betaling en hoogte van verschuldigde bedrag
 
 1. De winnende deelnemer betaalt het door hem verschuldigde bedrag binnen twee weken na de mededeling, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=5&paragraaf=2&artikel=29&z=2020-12-22&g=2020-12-22).
 
@@ -382,7 +408,7 @@ De minister maakt zo spoedig mogelijk na de veiling aan alle deelnemers bekend:
 
 - b. het laagste exitbod dat als winnend bod is aangemerkt, indien één of meer exitbiedingen als winnende biedingen zijn aangemerkt
 
-#### Artikel 32. Terugstorten waarborgsommen en teruggave bankgaranties winnende deelnemers
+##### Artikel 32. Terugstorten waarborgsommen en teruggave bankgaranties winnende deelnemers
 
 1. Indien de winnende deelnemer een waarborgsom heeft gestort, wordt de waarborgsom aangewend voor de betaling van het voor de vergunning of vergunningen verschuldigde bedrag, met dien verstande dat:
 
@@ -394,21 +420,21 @@ De minister maakt zo spoedig mogelijk na de veiling aan alle deelnemers bekend:
 
 #### § 3. Niet-winnende deelnemers en uitgesloten aanvragers
 
-#### Artikel 33. Terugstorten waarborgsommen en teruggave bankgaranties aan niet-winnende deelnemers en uitgesloten aanvragers
+##### Artikel 33. Terugstorten waarborgsommen en teruggave bankgaranties aan niet-winnende deelnemers en uitgesloten aanvragers
 
 [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=3&paragraaf=2&artikel=9&z=2020-12-22&g=2020-12-22) is van overeenkomstige toepassing op de waarborgsom of bankgarantie van niet-winnende deelnemers en van aanvragers die van deelname of verdere deelname waren uitgesloten.
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 34. Wijzigingen Tijdelijke regeling gebruiksbeperking commerciële FM-radio-omroep
+##### Artikel 34. Wijzigingen Tijdelijke regeling gebruiksbeperking commerciële FM-radio-omroep
 
 Wijzigt de Tijdelijke regeling gebruiksbeperking commerciële FM-radio-omroep.
 
-#### Artikel 35. Inwerkingtreding
+##### Artikel 35. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt gepubliceerd.
 
-#### Artikel 36. Citeertitel
+##### Artikel 36. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB+ laag 7.
 

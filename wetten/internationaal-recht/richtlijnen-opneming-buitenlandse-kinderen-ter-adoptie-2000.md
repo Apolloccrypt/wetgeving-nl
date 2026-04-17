@@ -1,20 +1,44 @@
 ---
 title: "Richtlijnen opneming buitenlandse kinderen ter adoptie 2000"
 identifier: "BWBR0011679"
-categorie: "Internationaal recht"
-publicatiedatum: 2000-12-01
-laatste_update: 2000-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011679"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2000-12-01"
+last_updated: "2000-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011679"
+soort: "ministeriele-regeling"
+stam_id: "4763343"
+version_id: "6569742"
+internal_id: "C7026981"
+label_id: "4741554"
+dtd_version: "2.0"
+original_entry_into_force: "2000-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011679/2000-12-01/0"
+intitule_bron: "Stcrt.2000-234"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-09-29"
+intitule_published: "2000-12-01"
+intitule_in_force: "2000-12-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-234"
+original_signed_date: "2000-09-29"
+original_published_date: "2000-12-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-12-01"
+jci_1_3: "jci1.3:c:BWBR0011679&z=2000-12-01&g=2000-12-01"
+jci_1_0: "1.0:c:BWBR0011679&g=2000-12-01"
+citeertitel_status: "officieel"
+signed_date: "2000-09-29"
+entry_into_force: "2000-12-01"
 ---
-
 # Richtlijnen opneming buitenlandse kinderen ter adoptie 2000
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=3), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=5) en [8 van de Wet opneming buitenlandse kinderen ter adoptie](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=8);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Een beginseltoestemming betreft slechts de opneming van één buitenlands kind ter adoptie; toestemming kan echter worden verleend voor de opneming van:
 
@@ -24,7 +48,7 @@ Besluit:
 
 2. In beide gevallen dient uit onderzoek, verricht door de raad voor de kinderbescherming, de geschiktheid van de aspirant-adoptiefouders voor de verzorging en opvoeding van meer dan een buitenlands kind aannemelijk te zijn geworden.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Indien een aspirant-adoptiefouder op het tijdstip van indiening van het verzoek om verlening van een beginseltoestemming de leeftijd van tweeënveertig jaren heeft bereikt, kan dit verzoek worden ingewilligd indien bijzondere omstandigheden inwilliging wenselijk maken.
 
@@ -66,7 +90,7 @@ In de onder c. en d. genoemde gevallen dient bovendien door onderzoek, verricht 
 
 - f. het uitoefenen van een beroep of functie waaruit een bijzondere geschiktheid tot het omgaan met kinderen zou blijken.
 
-#### Artikel 3
+##### Artikel 3
 
 1. In geval van opneming van een buitenlands kind in een gezin van aspirant-adoptiefouders, waarin eigen kinderen, Nederlandse pleegkinderen dan wel uit het buitenland geadopteerd kinderen verblijven, kan, indien dat buitenlandse kind in verband met de leeftijdsopbouw van het gezin jonger zal zijn dan de reeds in het gezin verblijvende kinderen, een overschrijding van het leeftijdsverschil van ten hoogste veertig jaren tussen een van de aspirant-adoptiefouders en het buitenlandse kind worden toegestaan met ten hoogste twee jaren, met dien verstande dat het verschil in leeftijd tussen dat kind en het jongste kind in het gezin in beginsel niet meer dan twee jaren mag bedragen.
 
@@ -82,7 +106,7 @@ In de onder c. en d. genoemde gevallen dient bovendien door onderzoek, verricht 
 
 3. In alle gevallen dient uit specifiek daarop gericht onderzoek door de raad voor de kinderbescherming te blijken dat de aspirant-adoptiefouders geschikt zijn tot de verzorging en opvoeding van een buitenlands kind als bedoeld in het tweede lid, a. tot en met d. en dat risicofactoren redelijkerwijs uitgesloten worden geacht.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De opneming van een buitenlands kind dat op het tijdstip van binnenkomst in Nederland de leeftijd van zes jaar of ouder zal hebben bereikt, kan worden toegestaan, indien:
 
@@ -94,11 +118,11 @@ In de onder c. en d. genoemde gevallen dient bovendien door onderzoek, verricht 
 
 Voorts dient in de gevallen, genoemd in het eerste lid onder a., uit dat onderzoek te zijn gebleken dat de opneming van het buitenlandse kind niet in strijd is met het belang van het reeds in het gezin verblijvende buitenlandse kind.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling kan worden aangehaald als Richtlijnen opneming buitenlandse kinderen ter adoptie 2000.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking met ingang van de dag van plaatsing van de regeling met de daarbij behorende toelichting in de Staatscourant.
 

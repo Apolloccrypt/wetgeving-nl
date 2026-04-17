@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling taakuitoefening beheerders van de HSWI"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 2 december 2021, nr. IENW/BSK-2021/308633, houdende vaststelling van regels voor het verstrekken van subsidies voor de taakuitoefening van beheerders van de hoofdspoorweginfrastructuur (Subsidieregeling taakuitoefening beheerders van de HSWI)"
 identifier: "BWBR0045984"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045984"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045984"
+soort: "ministeriele-regeling"
+stam_id: "16170613"
+version_id: "28216332"
+internal_id: "C39778791"
+label_id: "16099254"
+dtd_version: "2.0"
+original_entry_into_force: "2022-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045984/2022-01-01/0"
+intitule_bron: "Stcrt.2021-47814"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-12-02"
+intitule_published: "2021-12-03"
+intitule_in_force: "2021-12-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-47814"
+original_signed_date: "2021-12-02"
+original_published_date: "2021-12-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-47814"
+entry_into_force_date: "2022-01-01"
+jci_1_3: "jci1.3:c:BWBR0045984&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0045984&g=2022-01-01"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling taakuitoefening beheerders van de HSWI"
+signed_date: "2021-12-02"
+entry_into_force: "2022-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 2 december 2021, nr. IENW/BSK-2021/308633, houdende vaststelling van regels voor het verstrekken van subsidies voor de taakuitoefening van beheerders van de hoofdspoorweginfrastructuur (Subsidieregeling taakuitoefening beheerders van de HSWI)
 
 Gelet op de [artikelen 4:58](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:58), [4:72](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:72) en [4:77 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:77), en de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [6, tweede, onderdeel b, en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=13), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22), [23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=23), en [24, eerste en derde lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24);
@@ -16,7 +42,7 @@ BESLUIT:
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -42,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 - **verkenningsfase:** fase volgend op de MIRT-startbeslissing van een project of programma, waarin mogelijke ontwerpen van een project worden afgewogen om te komen tot een voorkeursalternatief.
 
-#### Artikel 2. Activiteiten waarvoor een subsidie kan worden verstrekt
+##### Artikel 2. Activiteiten waarvoor een subsidie kan worden verstrekt
 
 1. De minister kan op aanvraag een subsidie verstrekken voor aanleg en verbetering of beheer, onderhoud en vervanging van de hoofdspoorweginfrastructuur of van dienstvoorzieningen die van essentieel belang zijn om optimaal gebruik van de hoofdspoorweginfrastructuur te kunnen maken.
 
@@ -50,31 +76,31 @@ In deze regeling wordt verstaan onder:
 
 3. De minister kan op aanvraag een subsidie verstrekken voor een programma.
 
-#### Artikel 3. Voorwaarden voor subsidieverlening
+##### Artikel 3. Voorwaarden voor subsidieverlening
 
 1. Een project of programma komt voor een subsidie in aanmerking indien het project of het programma waarvoor de aanvraag wordt ingediend is opgenomen in het Meerjarenprogramma Infrastructuur, Ruimte en Transport, bedoeld in [artikel 4, eerste lid, van de Wet Mobiliteitsfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0044860&artikel=4).
 
 2. Beheer, onderhoud en vervangingsactiviteiten komen voor een subsidie in aanmerking indien de activiteiten waarvoor de aanvraag wordt ingediend naar het oordeel van de minister in het belang zijn van een adequaat functioneren van de hoofdspoorweginfrastructuur, de dienstvoorziening of de fietsenstalling.
 
-#### Artikel 4. Aanvrager
+##### Artikel 4. Aanvrager
 
 Een subsidie kan worden aangevraagd door een beheerder.
 
-#### Artikel 5. Subsidieplafond
+##### Artikel 5. Subsidieplafond
 
 Het subsidieplafond voor de subsidies wordt voor het desbetreffende begrotingsjaar vastgesteld door middel van de wet tot vaststelling van de begrotingsstaat van het Mobiliteitsfonds van dat begrotingsjaar.
 
-#### Artikel 6. [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381)
+##### Artikel 6. [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381)
 
 De artikelen van het [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381) zijn van toepassing, tenzij in deze regeling of in het Kaderbesluit subsidies I en M anders is bepaald.
 
 #### Paragraaf 2. Subsidie voor project of programma
 
-#### Artikel 7. Reikwijdte paragraaf
+##### Artikel 7. Reikwijdte paragraaf
 
 Deze paragraaf is van toepassing op de aanvraag, verlening en vaststelling van een subsidie als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045984&paragraaf=1&artikel=3&z=2022-01-01&g=2022-01-01).
 
-#### Artikel 8. Kosten die in aanmerking komen voor subsidie
+##### Artikel 8. Kosten die in aanmerking komen voor subsidie
 
 1. In de verkenningsfase van een project of programma komen in aanmerking voor een subsidie de rechtstreeks aan deze fase toe te rekenen kosten van:
 
@@ -114,17 +140,17 @@ Deze paragraaf is van toepassing op de aanvraag, verlening en vaststelling van e
 
 5. Indien als gevolg van onvoorziene omstandigheden de werkelijk gemaakte kosten hoger uitvallen dan het bedrag waarvoor subsidie is verleend, kan de subsidie-ontvanger een aanvullende aanvraag indienen.
 
-#### Artikel 9. Kostenraming
+##### Artikel 9. Kostenraming
 
 1. De raming van de kosten, bedoeld in [artikel 8, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045984&paragraaf=2&artikel=8&z=2022-01-01&g=2022-01-01), is voldoende onderbouwd. De subsidie-aanvrager vermeldt bij de raming welk prijspeil het betreft. De raming behelst de kosten inclusief btw.
 
 2. De raming van de kosten van de realisatiefase van een project, vindt, indien die kosten hoger zijn dan € 25 miljoen, plaats conform de Standaardsystematiek voor Kostenramingen 2018 of indien beschikbaar een actuelere versie daarvan, op basis van de rekenkundig gemiddelde waarde als de uitkomst van een probabilistische raming.
 
-#### Artikel 10. Hoogte subsidie
+##### Artikel 10. Hoogte subsidie
 
 Een subsidie bedraagt honderd procent van de op basis van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045984&paragraaf=2&artikel=8&z=2022-01-01&g=2022-01-01) voor subsidie in aanmerking komende en in overeenstemming met [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045984&paragraaf=2&artikel=9&z=2022-01-01&g=2022-01-01) geraamde kosten.
 
-#### Artikel 11. Aanvraag subsidie
+##### Artikel 11. Aanvraag subsidie
 
 1. Een aanvraag van een subsidie heeft betrekking op de verkenningsfase, de planuitwerkingsfase of de realisatiefase van een project of programma.
 
@@ -212,7 +238,7 @@ Een subsidie bedraagt honderd procent van de op basis van [artikel 8](https://we
 
 5. In afwijking van het eerste lid, kan de aanvrager, gelet op de aard en omvang van het project of programma na instemming van de minister, een gecombineerde aanvraag doen voor meer dan één fase. De leden twee tot en met vier zijn van overeenkomstige toepassing.
 
-#### Artikel 12. Verlening subsidie
+##### Artikel 12. Verlening subsidie
 
 1. De minister beslist binnen zes maanden na ontvangst over de aanvraag van een subsidie.
 
@@ -226,7 +252,7 @@ Een subsidie bedraagt honderd procent van de op basis van [artikel 8](https://we
 
 4. De minister kan in het besluit tot verlening bepalen dat het bedrag van de subsidie bij de vaststelling of tussentijds wordt geïndexeerd volgens de Index Bruto Overheidsinvesteringen, zoals geraamd in het Centraal Economisch Plan van het Centraal Planbureau.
 
-#### Artikel 13. Voorschotverlening
+##### Artikel 13. Voorschotverlening
 
 1. Indien subsidie wordt verleend, wordt bij de subsidieverlening een indicatie van het bedrag aangegeven dat per kalenderjaar aan voorschotten kan worden verleend.
 
@@ -238,7 +264,7 @@ Een subsidie bedraagt honderd procent van de op basis van [artikel 8](https://we
 
 5. Een voorschot wordt betaald binnen acht weken na ontvangst van de declaratie, bedoeld in het tweede lid.
 
-#### Artikel 14. Verplichtingen van de subsidie-ontvanger
+##### Artikel 14. Verplichtingen van de subsidie-ontvanger
 
 1. De minister kan bij het besluit tot subsidieverlening de verplichting opleggen om binnen twaalf maanden na de dagtekening van het besluit te beginnen met de uitvoering van de activiteiten waarvoor de subsidie is verleend.
 
@@ -254,7 +280,7 @@ Een subsidie bedraagt honderd procent van de op basis van [artikel 8](https://we
 
 4. De subsidie-ontvanger werkt mee aan een door de minister ingesteld evaluatieonderzoek ten behoeve van een verslag over de doeltreffendheid en de effecten van de aanlegsubsidie in de praktijk als bedoeld in [artikel 4:24 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:24).
 
-#### Artikel 15. Verantwoording
+##### Artikel 15. Verantwoording
 
 1. De subsidie-ontvanger dient binnen vier maanden na afloop van ieder kalenderjaar een financiële verantwoording voorzien van een accountantsverklaring in. De minister kan op verzoek van de subsidie-ontvanger de termijn twee keer met een door de minister bepaalde termijn verlengen.
 
@@ -262,7 +288,7 @@ Een subsidie bedraagt honderd procent van de op basis van [artikel 8](https://we
 
 3. De minister kan in de beschikking tot subsidieverlening bij projecten of programma’s die korter duren dan twee jaar, een beheerder vrijstellen van de verplichting om de financiële verantwoording na afloop van het eerste kalenderjaar te voorzien van een accountantsverklaring als bedoeld in het eerste lid.
 
-#### Artikel 16. Aanvraag vaststelling subsidie
+##### Artikel 16. Aanvraag vaststelling subsidie
 
 1. De subsidie-ontvanger voor de verkenningsfase of de planuitwerkingsfase dient binnen een jaar na voltooiing van de activiteiten waarvoor subsidie is verleend een aanvraag in tot vaststelling van de subsidie.
 
@@ -278,7 +304,7 @@ Een subsidie bedraagt honderd procent van de op basis van [artikel 8](https://we
 
 5. Op verzoek van de subsidie-ontvanger kan de minister de termijnen, bedoeld in het eerste en tweede lid, met een door de inister bepaalde termijn verlengen.
 
-#### Artikel 17. Vaststelling subsidie
+##### Artikel 17. Vaststelling subsidie
 
 1. De ninister beslist binnen twaalf weken op een aanvraag tot vaststelling van een subsidie.
 
@@ -292,21 +318,21 @@ Een subsidie bedraagt honderd procent van de op basis van [artikel 8](https://we
 
 3. Indien de subsidie-ontvanger niet binnen de van toepassing zijnde termijn bedoeld in [artikel 16, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045984&paragraaf=2&artikel=16&z=2022-01-01&g=2022-01-01), een aanvraag tot vaststelling indient, stelt de minister de subsidie na afloop van die termijn ambtshalve binnen twaalf weken vast.
 
-#### Artikel 18. [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381)
+##### Artikel 18. [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381)
 
 De [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=14) en [20 van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=20) zijn niet van toepassing op een subsidie verleend op grond van deze paragraaf.
 
 #### Paragraaf 3. Subsidie voor beheer, onderhoud en vervanging
 
-#### Artikel 19. Reikwijdte paragraaf
+##### Artikel 19. Reikwijdte paragraaf
 
 Deze paragraaf is van toepassing op de aanvraag, verlening en vaststelling van een subsidie als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045984&paragraaf=1&artikel=3&z=2022-01-01&g=2022-01-01).
 
-#### Artikel 20. Boekjaar subsidie
+##### Artikel 20. Boekjaar subsidie
 
 Op de op grond van deze paragraaf door de minister verstrekte subsidie is [afdeling 4.2.8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.8) van toepassing, met inachtneming van de in deze paragraaf opgenomen bepalingen.
 
-#### Artikel 21. Kosten die in aanmerking komen voor subsidie
+##### Artikel 21. Kosten die in aanmerking komen voor subsidie
 
 1. De subsidiabele kosten zijn de kapitaallasten en de kosten per kalenderjaar van beheer, onderhoud en vervanging van hoofdspoorweginfrastructuur en dienstvoorzieningen en de kosten van onderhoud en vervanging van fietsenstallingen, verminderd met de opbrengsten van vergoedingen van gebruikers en derden in dat betreffende jaar.
 
@@ -316,21 +342,21 @@ Op de op grond van deze paragraaf door de minister verstrekte subsidie is [afdel
 
 4. Indien als gevolg van onvoorziene omstandigheden de werkelijk gemaakte kosten hoger uitvallen dan het bedrag waarvoor subsidie is verleend, kan de subsidie-ontvanger een aanvullende aanvraag indienen.
 
-#### Artikel 22. Kostenraming subsidie
+##### Artikel 22. Kostenraming subsidie
 
 De raming van de kosten, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0045984&paragraaf=3&artikel=21&z=2022-01-01&g=2022-01-01), is voldoende onderbouwd. De subsidie-aanvrager vermeldt bij de raming welk prijspeil het betreft. De raming behelst de kosten inclusief btw.
 
-#### Artikel 23. Hoogte subsidie
+##### Artikel 23. Hoogte subsidie
 
 De subsidie bedraagt met in achtneming van [artikel 25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045984&paragraaf=3&artikel=25&z=2022-01-01&g=2022-01-01), honderd procent van de op basis van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0045984&paragraaf=3&artikel=21&z=2022-01-01&g=2022-01-01) voor subsidie in aanmerking komende en in overeenstemming met [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0045984&paragraaf=3&artikel=22&z=2022-01-01&g=2022-01-01) geraamde kosten.
 
-#### Artikel 24. Aanvraag subsidie
+##### Artikel 24. Aanvraag subsidie
 
 1. Een beheerder dient uiterlijk zes weken voor aanvang van het boekjaar de aanvraag tot subsidieverlening in bij de minister.
 
 2. Onverminderd [artikel 4:61, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:61) bevat de aanvraag voor subsidieverlening een meerjarenraming van het begrotingsjaar en de drie volgende jaren en een doorkijk naar de financiële behoeften in de daaropvolgende periode van elf jaren.
 
-#### Artikel 25. Verlening subsidie
+##### Artikel 25. Verlening subsidie
 
 1. De minister verleent de subsidie per boekjaar.
 
@@ -348,25 +374,25 @@ De subsidie bedraagt met in achtneming van [artikel 25, zesde lid](https://wette
 
 6. De minister verleent de subsidie met inachtneming van eisen van soberheid en doelmatigheid.
 
-#### Artikel 26. Voorschotverlening subsidie
+##### Artikel 26. Voorschotverlening subsidie
 
 1. De verleende subsidie wordt in voorschotten betaald.
 
 2. De voorschotten worden betaald in het jaar waarop de subsidie betrekking heeft in dertien maandelijkse termijnbedragen, waarbij in de maand mei twee termijnbedragen worden betaald.
 
-#### Artikel 27. Verplichtingen ontvanger subsidie
+##### Artikel 27. Verplichtingen ontvanger subsidie
 
 1. De subsidie-ontvanger vormt een egalisatiereserve als bedoeld in [artikel 4:72 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:72).
 
 2. De subsidie-ontvanger werkt mee aan een door de minister ingesteld evaluatieonderzoek ten behoeve van een verslag over de doeltreffendheid en de effecten van de subsidie in de praktijk als bedoeld in [artikel 4:24 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:24).
 
-#### Artikel 28. Aanvraag vaststelling subsidie
+##### Artikel 28. Aanvraag vaststelling subsidie
 
 1. Onverminderd [artikel 4:75 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:75) bevat de aanvraag tot subsidievaststelling een financiële verantwoording waarin het verschil tussen de begroting en de werkelijke kosten wordt toegelicht. Deze financiële verantwoording wordt voorzien van een accountantsverklaring. [Artikel 4:79 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:79) is van toepassing op de financiële verantwoording.
 
 2. [Artikel 4:76 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:76) is van overeenkomstige toepassing op de aanvraag van de subsidievaststelling.
 
-#### Artikel 29. Vaststelling subsidie
+##### Artikel 29. Vaststelling subsidie
 
 1. De minister beslist op de aanvraag tot het vaststellen van de subsidie binnen zes maanden na ontvangst van de aanvraag.
 
@@ -374,13 +400,13 @@ De subsidie bedraagt met in achtneming van [artikel 25, zesde lid](https://wette
 
 #### Paragraaf 4. Slotbepalingen
 
-#### Artikel 30. Inwerkingtreding
+##### Artikel 30. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2022.
 
 2. Deze regeling vervalt met ingang van 1 januari 2027, met dien verstande dat zij van toepassing blijft op voor die datum verleende subsidies.
 
-#### Artikel 31. Citeertitel
+##### Artikel 31. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling taakuitoefening beheerders van de HSWI.
 

@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling LLO-Katalysator (LLO-oplossingen energie- en grondstoffentransitie 2023–2026)"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 27 juni 2023, nr. 1409103, houdende regels voor de subsidieverstrekking ten behoeve van het Leven Lang Ontwikkelen-Katalysator programma voor Bouwsteen 2 (Subsidieregeling LLO-oplossingen energie- en grondstoffentransitie 2023–2026)"
 identifier: "BWBR0048365"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-07-12
-laatste_update: 2025-07-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048365"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-12"
+last_updated: "2025-07-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048365"
+soort: "ministeriele-regeling"
+stam_id: "16794213"
+version_id: "29503142"
+internal_id: "C42185491"
+label_id: "16709374"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048365/2025-07-12/0"
+intitule_bron: "Stcrt.2023-19046"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-06-27"
+intitule_published: "2023-07-07"
+intitule_in_force: "2023-07-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-19046"
+original_signed_date: "2023-06-27"
+original_published_date: "2023-07-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-19046"
+entry_into_force_date: "2023-07-07"
+jci_1_3: "jci1.3:c:BWBR0048365&z=2025-07-12&g=2025-07-12"
+jci_1_0: "1.0:c:BWBR0048365&g=2025-07-12"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling LLO-Katalysator (LLO-oplossingen energie- en grondstoffentransitie 2023–2026)"
+signed_date: "2023-06-27"
+entry_into_force: "2023-07-07"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 27 juni 2023, nr. 1409103, houdende regels voor de subsidieverstrekking ten behoeve van het Leven Lang Ontwikkelen-Katalysator programma voor Bouwsteen 2 (Subsidieregeling LLO-oplossingen energie- en grondstoffentransitie 2023–2026)
 
 Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
@@ -16,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Inleidende bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -60,11 +86,11 @@ In deze regeling wordt verstaan onder:
 
 - **vraagarticulatie:** voortdurend proces van afstemming tussen arbeidsorganisaties en opleiders binnen een samenwerkingsverband om een leer- en ontwikkelvraagstuk in de huidige of toekomstige praktijk te signaleren, te verkennen en te doorgronden, waarbij het resultaat van dit proces de basis vormt voor het ontwerpen en ontwikkelen van een LLO-oplossing en waarbij de hierbij opgedane inzichten kunnen leiden tot nieuwe vragen.
 
-#### Artikel 2. Toepasselijke regelgeving
+##### Artikel 2. Toepasselijke regelgeving
 
 Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Subsidieverstrekking kleine en grote projecten
+##### Artikel 3. Subsidieverstrekking kleine en grote projecten
 
 1. De minister kan op grond van deze regeling subsidie verstrekken aan de penvoerder van een samenwerkingsverband voor een klein of groot project gericht op het ontwikkelen van een LLO-oplossing in het kader van de energie- en grondstoffentransitie.
 
@@ -78,7 +104,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 6. De subsidie wordt aangevraagd door, verstrekt aan en verantwoord door de penvoerder, ongeacht welke partij in het samenwerkingsverband feitelijk is belast met de uitvoering van de daarop betrekking hebbende werkzaamheden.
 
-#### Artikel 4. Samenwerkingsverbanden
+##### Artikel 4. Samenwerkingsverbanden
 
 1. Een samenwerkingsverband bestaat uit ten minste één arbeidsorganisatie en ten minste twee publieke opleiders die een combinatie zijn van:
 
@@ -90,7 +116,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 2. Naast publieke opleiders en arbeidsorganisaties kunnen ook andere partijen zoals private opleiders aan het samenwerkingsverband deelnemen.
 
-#### Artikel 5. Subsidieplafond
+##### Artikel 5. Subsidieplafond
 
 1. Voor subsidieverstrekking op aanvragen die in de eerste aanvraagronde, bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=6&z=2025-07-12&g=2025-07-12), zijn ingediend, is een bedrag van € 17.500.000 beschikbaar, waarvan:
 
@@ -116,7 +142,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - b. € 5.075.257 beschikbaar is voor grote projecten.
 
-#### Artikel 6. Algemene bepalingen subsidieaanvraag
+##### Artikel 6. Algemene bepalingen subsidieaanvraag
 
 1. Op grond van deze regeling kan subsidie worden aangevraagd:
 
@@ -138,7 +164,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 #### Paragraaf 2. Kleine projecten
 
-#### Artikel 7. Te subsidiëren activiteiten
+##### Artikel 7. Te subsidiëren activiteiten
 
 1. De minister kan subsidie verstrekken aan de penvoerder van een samenwerkingsverband voor een klein project als bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=3&z=2025-07-12&g=2025-07-12).
 
@@ -150,7 +176,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - c. het ontwikkelen van een conceptversie van een LLO-oplossing in co-makerschap door de deelnemers aan het samenwerkingsverband.
 
-#### Artikel 8. Subsidieaanvraag klein project
+##### Artikel 8. Subsidieaanvraag klein project
 
 In aanvulling op het aanvraagformulier, bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=6&z=2025-07-12&g=2025-07-12), dient de penvoerder die subsidie aanvraagt voor een klein project de volgende documenten in:
 
@@ -164,7 +190,7 @@ In aanvulling op het aanvraagformulier, bedoeld in [artikel 6, vijfde lid](https
 
 - e. een samenvatting van de aanvraag die openbaar gemaakt kan worden.
 
-#### Artikel 9. Visiedocument
+##### Artikel 9. Visiedocument
 
 1. In het visiedocument wordt de visie van het samenwerkingsverband beschreven op het oplossen van één of meerdere competentieknelpunten in het kader van de energie- en grondstoffentransitie binnen een bepaalde regio of sector.
 
@@ -180,7 +206,7 @@ In aanvulling op het aanvraagformulier, bedoeld in [artikel 6, vijfde lid](https
 
 - e. een beschrijving van de bijdrage die het samenwerkingsverband met het project wil leveren aan het oplossen van de beschreven competentieknelpunten en het versterken van het LLO-ecosysteem waar het onderdeel van is.
 
-#### Artikel 10. Activiteitenplan
+##### Artikel 10. Activiteitenplan
 
 In voorkomend geval in aanvulling op [artikel 3.4 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.4), bevat het activiteitenplan in ieder geval:
 
@@ -190,7 +216,7 @@ In voorkomend geval in aanvulling op [artikel 3.4 van de Kaderregeling](https://
 
 - c. een activiteitenplanning met een uitgewerkt overzicht van realiseerbare activiteiten in het eerste jaar van de projectperiode en dat bestaat uit fasering, mijlpalen en beoogde tussentijdse resultaten en indien van toepassing, een globaal overzicht van realiseerbare activiteiten voor het tweede jaar van de projectperiode, bestaande uit fasering, mijlpalen en beoogde eindresultaten.
 
-#### Artikel 11. Begroting
+##### Artikel 11. Begroting
 
 1. De begroting bevat een overzicht van de kosten van de activiteiten, voorzien van een toelichting. Op de begroting is [artikel 3.5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.5) van toepassing.
 
@@ -206,7 +232,7 @@ In voorkomend geval in aanvulling op [artikel 3.4 van de Kaderregeling](https://
 
 3. De begroting wordt aangeleverd in het hiervoor door DUS-I beschikbaar gestelde format.
 
-#### Artikel 12. Samenwerkingsovereenkomst
+##### Artikel 12. Samenwerkingsovereenkomst
 
 1. De samenwerking binnen het samenwerkingsverband voor een klein project wordt vastgelegd in een samenwerkingsovereenkomst.
 
@@ -226,7 +252,7 @@ In voorkomend geval in aanvulling op [artikel 3.4 van de Kaderregeling](https://
 
 - f. dat alle partijen in het samenwerkingsverband medewerking verlenen aan de verantwoording van de subsidie en aan de nakoming van de aan de subsidie verbonden verplichtingen, en dat alle gegevens die daarvoor noodzakelijk zijn op verzoek aan de penvoerder worden verstrekt.
 
-#### Artikel 13. Aanvullende verplichtingen
+##### Artikel 13. Aanvullende verplichtingen
 
 Aan de penvoerder die subsidie ontvangt voor een klein project, worden de volgende verplichtingen opgelegd:
 
@@ -248,7 +274,7 @@ Aan de penvoerder die subsidie ontvangt voor een klein project, worden de volgen
 
 - i. de administratie en de daartoe behorende bescheiden worden gedurende 10 jaren na de vaststelling van de subsidie bewaard.
 
-#### Artikel 14. Vaststelling en verantwoording
+##### Artikel 14. Vaststelling en verantwoording
 
 1. Indien de aanvraag voor een klein project ingevolge [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=4&artikel=27&z=2025-07-12&g=2025-07-12) voor subsidie in aanmerking komt, stelt de minister de subsidie direct vast binnen 22 weken na de sluiting van de desbetreffende aanvraagronde.
 
@@ -258,13 +284,13 @@ Aan de penvoerder die subsidie ontvangt voor een klein project, worden de volgen
 
 4. Als de activiteiten zijn uitgevoerd en aan de verplichtingen is voldaan, kan het niet aangewende deel van de subsidie worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
-#### Artikel 15. Betaling
+##### Artikel 15. Betaling
 
 Het subsidiebedrag voor een klein project wordt ineens betaald.
 
 #### Paragraaf 3. Grote projecten
 
-#### Artikel 16. Te subsidiëren activiteiten
+##### Artikel 16. Te subsidiëren activiteiten
 
 1. De minister kan subsidie verstrekken aan de penvoerder van een samenwerkingsverband voor een groot project als bedoeld in [artikel 3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=3&z=2025-07-12&g=2025-07-12).
 
@@ -280,7 +306,7 @@ Het subsidiebedrag voor een klein project wordt ineens betaald.
 
 4. Het testen van een conceptversie van een eindproduct is ten hoogste driemaal subsidiabel.
 
-#### Artikel 17. Cofinanciering
+##### Artikel 17. Cofinanciering
 
 1. Het door de minister te verlenen subsidiebedrag bedraagt ten hoogste 75% van de begrote kosten voor de subsidiabele activiteiten.
 
@@ -288,7 +314,7 @@ Het subsidiebedrag voor een klein project wordt ineens betaald.
 
 3. De cofinanciering bestaat uit een bijdrage in geld, of uit een op economische waarde bepaalbare bijdrage die noodzakelijk is voor de ontwikkeling van de LLO-oplossing waarvoor de subsidie is aangevraagd.
 
-#### Artikel 18. Subsidieaanvraag groot project
+##### Artikel 18. Subsidieaanvraag groot project
 
 In aanvulling op het aanvraagformulier, bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=6&z=2025-07-12&g=2025-07-12), dient de penvoerder die subsidie aanvraagt voor een groot project de volgende documenten in:
 
@@ -304,7 +330,7 @@ In aanvulling op het aanvraagformulier, bedoeld in [artikel 6, vijfde lid](https
 
 - f.
 
-#### Artikel 19. Visiedocument
+##### Artikel 19. Visiedocument
 
 1. In het visiedocument beschrijft het samenwerkingsverband de visie op het oplossen van een of meerdere competentieknelpunten in het kader van de energie- en grondstoffentransitie binnen een regio of sector.
 
@@ -322,7 +348,7 @@ In aanvulling op het aanvraagformulier, bedoeld in [artikel 6, vijfde lid](https
 
 - f. een beschrijving van de bijdrage die het samenwerkingsverband wil leveren aan de energie- en grondstoffentransitie en het versterken van het LLO-ecosysteem.
 
-#### Artikel 20. Activiteitenplan
+##### Artikel 20. Activiteitenplan
 
 In voorkomend geval in aanvulling op [artikel 3.4 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.4), bevat het activiteitenplan in ieder geval:
 
@@ -344,7 +370,7 @@ In voorkomend geval in aanvulling op [artikel 3.4 van de Kaderregeling](https://
 
 - i. een beschrijving van de wijze waarop het samenwerkingsverband na de subsidieperiode het project in de praktijk brengt en de activiteiten en resultaten verduurzaamt.
 
-#### Artikel 21. Begroting
+##### Artikel 21. Begroting
 
 1. De begroting bevat een overzicht van de kosten van de activiteiten, voorzien van een toelichting. Op de begroting is [artikel 3.5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.5) van toepassing.
 
@@ -362,7 +388,7 @@ In voorkomend geval in aanvulling op [artikel 3.4 van de Kaderregeling](https://
 
 4. De begroting wordt aangeleverd in het hiervoor door DUS-I beschikbaar gestelde format.
 
-#### Artikel 22. Samenwerkingsovereenkomst
+##### Artikel 22. Samenwerkingsovereenkomst
 
 1. De samenwerking binnen het samenwerkingsverband voor een groot project wordt vastgelegd in een samenwerkingsovereenkomst.
 
@@ -382,7 +408,7 @@ In voorkomend geval in aanvulling op [artikel 3.4 van de Kaderregeling](https://
 
 - f. dat alle partijen in het samenwerkingsverband medewerking verlenen aan de verantwoording van de subsidie en aan de nakoming van de aan de subsidie verbonden verplichtingen, en dat alle gegevens die daarvoor noodzakelijk zijn op verzoek aan de penvoerder worden verstrekt.
 
-#### Artikel 23. Aanvullende verplichtingen
+##### Artikel 23. Aanvullende verplichtingen
 
 Aan de penvoerder die subsidie ontvangt voor een groot project, worden de volgende verplichtingen opgelegd:
 
@@ -408,7 +434,7 @@ Aan de penvoerder die subsidie ontvangt voor een groot project, worden de volgen
 
 - k. de administratie en de daartoe behorende bescheiden worden gedurende 10 jaren na de vaststelling van de subsidie bewaard.
 
-#### Artikel 24. Verlening en verantwoording
+##### Artikel 24. Verlening en verantwoording
 
 1. Indien een aanvraag ingevolge [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=4&artikel=27&z=2025-07-12&g=2025-07-12) voor subsidie in aanmerking komt, verleent de minister de subsidie. De Minister besluit binnen 22 weken op de aanvragen voor grote projecten.
 
@@ -422,7 +448,7 @@ Aan de penvoerder die subsidie ontvangt voor een groot project, worden de volgen
 
 6. De Minister stelt de subsidie vast binnen een jaar na ontvangst van de jaarverslaggeving over het laatste jaar van de projectperiode.
 
-#### Artikel 25. Bevoorschotting en betaling
+##### Artikel 25. Bevoorschotting en betaling
 
 1. De subsidie voor een groot project wordt ieder kwartaal bij voorschot verleend, waarbij het eerste voorschot 35% van de totale toegekende subsidie bedraagt en de overige voorschotten als gelijke delen van het resterende subsidiebedrag worden uitgekeerd.
 
@@ -430,7 +456,7 @@ Aan de penvoerder die subsidie ontvangt voor een groot project, worden de volgen
 
 #### Paragraaf 4. Beoordeling subsidieaanvragen en verdeling subsidie
 
-#### Artikel 26. Beoordeling subsidieaanvragen
+##### Artikel 26. Beoordeling subsidieaanvragen
 
 1. De minister stelt een onafhankelijke beoordelingscommissie in die is belast met het adviseren van de minister over de beoordeling en de rangschikking van de aanvragen.
 
@@ -466,7 +492,7 @@ Aan de penvoerder die subsidie ontvangt voor een groot project, worden de volgen
 
 11. Een toelichtingsgesprek met de beoordelingscommissie is een vast onderdeel bij de beoordelingsprocedure van een grote projectaanvraag.
 
-#### Artikel 27. Besluitvorming minister en verdeling subsidie
+##### Artikel 27. Besluitvorming minister en verdeling subsidie
 
 1. De minister beoordeelt de aanvragen met kennisneming van het advies van de beoordelingscommissie.
 
@@ -482,13 +508,13 @@ Aan de penvoerder die subsidie ontvangt voor een groot project, worden de volgen
 
 #### Paragraaf 5. Slotbepalingen
 
-#### Artikel 28. Inwerkingtreding en vervaldatum
+##### Artikel 28. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van 7 juli 2023.
 
 2. Deze regeling vervalt met ingang van 31 december 2026, met dien verstande dat zij van toepassing blijft ten aanzien van subsidies die op grond van deze regeling zijn verstrekt.
 
-#### Artikel 29. Citeertitel
+##### Artikel 29. Citeertitel
 
 Deze regeling wordt aangehaald als Subsidieregeling LLO-Katalysator (LLO-oplossingen energie- en grondstoffentransitie 2023–2026).
 

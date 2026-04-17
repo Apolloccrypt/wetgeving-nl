@@ -1,13 +1,39 @@
 ---
-title: "Organisatiebesluit Ministerie van Algemene Zaken"
+title: "Besluit van de Minister-President, de Minister van Algemene Zaken van 14 december 2017, nr. 3973240, houdende de vaststelling van het Organisatiebesluit van het Ministerie van Algemene Zaken"
 identifier: "BWBR0040546"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2018-01-27
-laatste_update: 2018-01-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040546"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-01-27"
+last_updated: "2018-01-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040546"
+soort: "ministeriele-regeling"
+stam_id: "14515673"
+version_id: "24845342"
+internal_id: "C35546911"
+label_id: "14473664"
+dtd_version: "2.0"
+original_entry_into_force: "2018-01-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040546/2018-01-27/0"
+intitule_bron: "Stcrt.2018-3911"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-12-14"
+intitule_published: "2018-01-26"
+intitule_in_force: "2018-01-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-3911"
+original_signed_date: "2017-12-14"
+original_published_date: "2018-01-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-3911"
+entry_into_force_date: "2018-01-27"
+jci_1_3: "jci1.3:c:BWBR0040546&z=2018-01-27&g=2018-01-27"
+jci_1_0: "1.0:c:BWBR0040546&g=2018-01-27"
+citeertitel_status: "officieel"
+short_title: "Organisatiebesluit Ministerie van Algemene Zaken"
+signed_date: "2017-12-14"
+entry_into_force: "2018-01-27"
 ---
-
 # Besluit van de Minister-President, de Minister van Algemene Zaken van 14 december 2017, nr. 3973240, houdende de vaststelling van het Organisatiebesluit van het Ministerie van Algemene Zaken
 
 Gelet op [artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. Hoofdstructuur van de organisatie
 
-#### Artikel 2
+##### Artikel 2
 
 Het Ministerie van Algemene Zaken bestaat uit de volgende onderdelen:
 
@@ -46,7 +72,7 @@ Het Ministerie van Algemene Zaken bestaat uit de volgende onderdelen:
 
 #### § 3. Algemene Leiding
 
-#### Artikel 3
+##### Artikel 3
 
 De Algemene Leiding bestaat uit:
 
@@ -54,21 +80,21 @@ De Algemene Leiding bestaat uit:
 
 - b. de plaatsvervangend Secretaris-Generaal (pSG).
 
-#### Artikel 4
+##### Artikel 4
 
 De Algemene Leiding ressorteert onder de minister.
 
-#### Artikel 5
+##### Artikel 5
 
 De SG is ambtelijk eindverantwoordelijk voor de leiding van de onder [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040546&paragraaf=2&artikel=2&z=2018-01-27&g=2018-01-27) genoemde onderdelen en is verantwoordelijk voor de coördinatie van aangelegenheden met betrekking tot de Inlichtingen- en Veiligheidsdiensten.
 
-#### Artikel 6
+##### Artikel 6
 
 De pSG vervangt de SG bij diens afwezigheid.
 
 #### § 4. Kabinet Minister-President, secretariaat Ministerraad
 
-#### Artikel 7
+##### Artikel 7
 
 Het Kabinet Minister-President, secretariaat Ministerraad is belast met:
 
@@ -76,13 +102,13 @@ Het Kabinet Minister-President, secretariaat Ministerraad is belast met:
 
 - b. het secretariaat van de Raad van Ministers, alsmede de secretariaten van de onderraden.
 
-#### Artikel 8
+##### Artikel 8
 
 Het Kabinet Minister-President, secretariaat Ministerraad staat onder leiding van een hoofd en een plaatsvervangend hoofd.
 
 #### § 5. Directoraat Rijksvoorlichtingsdienst
 
-#### Artikel 9
+##### Artikel 9
 
 Het Directoraat Rijksvoorlichtingsdienst is belast met:
 
@@ -92,13 +118,13 @@ Het Directoraat Rijksvoorlichtingsdienst is belast met:
 
 - c. coördineren, adviseren en faciliteren inzake interdepartementaal overheidsvoorlichtings- en communicatiebeleid.
 
-#### Artikel 10
+##### Artikel 10
 
 Het Directoraat Rijksvoorlichtingsdienst staat onder leiding van de directeur-generaal.
 
 #### § 6. Het agentschap Publiek en Communicatie
 
-#### Artikel 11
+##### Artikel 11
 
 Het agentschap Publiek en Communicatie is belast met:
 
@@ -108,23 +134,23 @@ Het agentschap Publiek en Communicatie is belast met:
 
 - c. rijksbreed adviseren, begeleiden en inkoop van communicatiebestedingen als Inkoop Uitvoeringscentrum (IUC) en aankoopcentrale voor de categorie communicatie.
 
-#### Artikel 12
+##### Artikel 12
 
 Het agentschap Publiek en Communicatie staat onder leiding van een directeur.
 
 #### § 7. Het bureau van de Wetenschappelijke Raad voor het Regeringsbeleid
 
-#### Artikel 13
+##### Artikel 13
 
 Het bureau van de Wetenschappelijke Raad voor het Regeringsbeleid is belast met de ondersteuning van de Raad en zijn leden bij de voorbereiding en totstandkoming van rapporten aan de regering.
 
-#### Artikel 14
+##### Artikel 14
 
 Het bureau van de Wetenschappelijke raad voor het Regeringsbeleid staat onder leiding van een secretaris/directeur.
 
 #### § 8. De stafdirectie Bedrijfsvoering
 
-#### Artikel 15
+##### Artikel 15
 
 De directie Bedrijfsvoering is belast met:
 
@@ -134,13 +160,13 @@ De directie Bedrijfsvoering is belast met:
 
 - c. kaderstelling en toezicht op de expertisegebieden van de bedrijfsvoering exclusief Inkoop.
 
-#### Artikel 16
+##### Artikel 16
 
 De stafdirectie staat onder leiding van een directeur.
 
 #### § 9. De stafdirectie Financieel-Economische Zaken
 
-#### Artikel 17
+##### Artikel 17
 
 De directie Financieel-Economische Zaken is belast met:
 
@@ -154,13 +180,13 @@ De directie Financieel-Economische Zaken is belast met:
 
 - e. beheer en inrichting van de financiële administratie, organisatie van het kasbeheer, financieel beheer en materieel beheer.
 
-#### Artikel 18
+##### Artikel 18
 
 De stafdirectie Financieel-Economische Zaken staat onder leiding van een directeur.
 
 #### § 10. Overgangs- en slotbepalingen
 
-#### Artikel 19. Intrekking
+##### Artikel 19. Intrekking
 
 Ingetrokken worden de volgende besluiten:
 
@@ -172,11 +198,11 @@ Ingetrokken worden de volgende besluiten:
 
 - d. [Besluit van de Minister-President, Minister van Algemene Zaken van 12 juli 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030307), nr. 3608080, houdende de organisatiestructuur van het Ministerie van Algemene Zaken taakverdeling AZ;
 
-#### Artikel 20. Inwerkingtreding
+##### Artikel 20. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 11 december 2017.
 
-#### Artikel 21. Citeertitel
+##### Artikel 21. Citeertitel
 
 Dit besluit wordt aangehaald als: ‘Organisatiebesluit Ministerie van Algemene Zaken’.
 

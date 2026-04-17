@@ -1,28 +1,52 @@
 ---
 title: "Algemene aanwijzingen aangelegenheden ministerraad en onderraden"
 identifier: "BWBR0005473"
-categorie: "Bestuursrecht"
-publicatiedatum: 1992-05-01
-laatste_update: 1992-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005473"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1992-05-01"
+last_updated: "1992-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005473"
+soort: "ministeriele-regeling"
+stam_id: "5007933"
+version_id: "8675702"
+internal_id: "C11227881"
+label_id: "4984394"
+dtd_version: "2.0"
+original_entry_into_force: "1992-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005473/1992-05-01/0"
+intitule_bron: "Stcrt.1992-84"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-04-10"
+intitule_published: "1992-05-01"
+intitule_in_force: "1992-05-01"
+intitule_status: "goed"
+original_publication: "Stcrt.1992-84"
+original_signed_date: "1992-04-10"
+original_published_date: "1992-05-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1992-05-01"
+jci_1_3: "jci1.3:c:BWBR0005473&z=1992-05-01&g=1992-05-01"
+jci_1_0: "1.0:c:BWBR0005473&g=1992-05-01"
+citeertitel_status: "officieel"
+signed_date: "1992-04-10"
+entry_into_force: "1992-05-01"
 ---
-
 # Algemene aanwijzingen aangelegenheden ministerraad en onderraden
 
 Handelende in overeenstemming met het gevoelen van de ministerraad,
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde [Algemene aanwijzingen inzake aangelegenheden van de ministerraad en onderraden](https://wetten.overheid.nl/jci1.3:c:BWBR0005471) worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 De [Algemene aanwijzingen inzake aangelegenheden van de ministerraad en onderraden](https://wetten.overheid.nl/jci1.3:c:BWBR0005471) van 16 februari 1983, nr. 328927a worden ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van 1 mei 1992.
 
@@ -32,7 +56,7 @@ Dit besluit wordt in de Staatscourant geplaatst.
 
 ### A. Taak en werkwijze van de ministerraad (algemeen)
 
-#### 1
+##### 1
 
 In het eerste lid van artikel 4 van het Reglement van Orde (RvO) van de ministerraad (Stb. 1979, 264) is geregeld dat de ministerraad beraadslaagt en besluit over het algemeen regeringsbeleid en de eenheid van dat beleid bevordert. Volgens de nota van toelichting bij het RvO is aan de interpretatie van de raad zelf overgelaten wat onder algemeen regeringsbeleid dient te worden verstaan. Wel zijn in het tweede lid van artikel 4 verscheidene onderwerpen opgesomd die in ieder geval in de raad moeten worden behandeld. De tekst van artikel 4 luidt als volgt:
 
@@ -70,7 +94,7 @@ In het eerste lid van artikel 4 van het Reglement van Orde (RvO) van de minister
 
 Sinds de vaststelling van het RvO in 1979 is een aantal wijzigingen in de werkwijze van de ministerraad opgetreden. Zo heeft de ministerraad in 1985 afgesproken naar aanleiding van de toezeggingen met betrekking tot het kabinetsstandpunt over moties inzake deregulering dat indien het advies van de Raad van State ingrijpende kritiek op de inhoud of de vormgeving van wetsvoorstellen en ontwerpen van algemene maatregelen van bestuur bevat, deze opnieuw in de ministerraad aan de orde moeten worden gesteld. De publikatie van adviezen van niet-ambtelijke adviesorganen is in artikel 9 van de wet openbaarheid van bestuur (WOB) voorgeschreven. Is een regeringsstandpunt over een dergelijk advies wenselijk, dan zal van geval tot geval worden beoordeeld of behandeling in de ministerraad noodzakelijk is.
 
-#### 2
+##### 2
 
 Bij twijfel over de vraag of een aangelegenheid in de ministerraad aan de orde moet worden gesteld, plegen de ministers overleg met de minister-president (art. 5 RvO).
 
@@ -78,7 +102,7 @@ Hoewel het RvO veel onderwerpen die in de ministerraad aan de orde komen met nam
 
 ### B. Koninkrijksaangelegenheden
 
-#### 3
+##### 3
 
 Aangelegenheden van het Koninkrijk die de Nederlandse Antillen of Aruba raken, worden behandeld in de raad van ministers van het Koninkrijk, die is samengesteld uit de ministers en de door de regeringen van de Nederlandse Antillen en van Aruba benoemde gevolmachtigde ministers. Voor alle ontwerpen van rijkswet, van algemene maatregelen van rijksbestuur en van rijks-koninklijke besluiten geldt dat zij in de ministerraad van het Koninkrijk aan de orde moeten komen.
 
@@ -126,7 +150,7 @@ Zoals ook is uiteengezet in de nota van toelichting op het RvO van de ministerra
 
 ### C. Aanmelding ministerraadsstukken
 
-#### 4
+##### 4
 
 Bij de indiening van stukken ter behandeling in de ministerraad wordt gebruik gemaakt van een speciaal aanbiedingsformulier (zie bijlage II). Dit formulier dient nauwkeurig te worden ingevuld, zodat uit de daarvoor bestemde rubriek is af te lezen of:
 
@@ -148,17 +172,17 @@ Op het aanbiedingsformulier worden in elk geval de aan de raad voorgestelde conc
 
 Met het oog op de publiciteit bevat het aanbiedingsformulier verder nog een rubriek waarin wordt aangegeven op welke wijze het voorstel in de publiciteit zal worden gebracht. Eventueel kan een kort persbericht worden opgenomen dat wordt ontworpen in samenwerking met de afdeling Voorlichting van het departement waarvan het voorstel afkomstig is. Veelal wordt enkele dagen voor de behandeling in de ministerraad door de desbetreffende voorlichtingsafdeling nog een wat uitgebreider persbericht met een samenvatting van het voorstel aan de Rijksvoorlichtingsdienst gezonden. Voorts wordt zo mogelijk aangegeven welke onderdelen van het voorstel en van de ter voorbereiding daarvan opgestelde stukken op grond van de Wet openbaarheid van bestuur (WOB) al dan niet voor openbaarmaking uit eigen beweging of op verzoek in aanmerking komen.
 
-#### 5
+##### 5
 
 Het bovenstaande geldt ook voor stukken die ter behandeling in de ministerraad van het Koninkrijk worden aangeboden. Het daartoe te gebruiken aanbiedingsformulier, waarop in de kop is aangegeven dat het de ministerraad van het Koninkrijk betreft, is hierbij opgenomen als bijlage II.
 
 Voor de aanmelding van aangelegenheden voor de ministerraad van het Koninkrijk dient overleg te worden gepleegd met de kabinetten van de gevolmachtigde ministers van de Nederlandse Antillen en van Aruba. Hiervan wordt op het aanbiedingsformulier melding gemaakt, waarbij tevens de uitkomsten van dat overleg worden aangegeven. Uiteraard kunnen ook de regeringen van de Nederlandse Antillen en van Aruba stukken indienen voor de ministeraad van het Koninkrijk. Het verdient dan aanbeveling voorafgaande overleg te voeren met de minister voor Nederlands-Antilliaanse en Arubaanse Zaken, via het kabinet voor Nederlands-Antilliaanse en Arubaanse Zaken.
 
-#### 6
+##### 6
 
 Het departement van de eerstverantwoordelijke minister of staatssecretaris (dus niet het secretariaat van de ministerraad) zendt de stukken die ter behandeling in de ministerraad (van het Koninkrijk) worden aangeboden aan alle ministers en staatssecretarissen, het kabinet voor Nederlandse-Antilliaanse en Arubaanse Zaken ten behoeve van de minister voor Nederlands-Antilliaanse en Arubaanse Zaken het kabinet der Koningin en in bepaalde gevallen (zie onder B.3) aan de gevolmachtigde ministers: aan het secretariaat van de ministerraad worden van deze stukken het origineel en vijf kopieën gezonden. Bij de ter behandeling aangeboden stukken mogen geen stukken als bijlage worden gevoegd die een (andere) classificatie dragen (zoals bij voorbeeld notulen van de ministerraad (van het Koninkrijk) die als zeer geheim zijn geclassificeerd).
 
-#### 7
+##### 7
 
 De voor de ministerraad bestemde stukken dienen ten minste 10 dagen voor de behandeling in de raad te zijn rondgezonden. Aan dit voorschrift, dat is opgenomen in artikel 8, lid 2 van het RvO, wordt strikt de hand gehouden: voor een goede voorbereiding door de departementen voor de behandeling van het voorstel in de raad is deze termijn beslist nodig. Bij omvangrijke of ingewikkelde stukken zal de 10-dagentermijn in vele gevallen te kort blijken. Het verdient daarom aanbeveling een ministerraadsstuk zo spoedig mogelijk in te dienen en zo min mogelijk onnodige vertraging te laten ondervinden. Indien bij voorbeeld de eerstverantwoordelijke minister of staatssecretaris al heeft ingestemd met het (concept van het) stuk kan bij zijn of haar afwezigheid ook de minister a.i. of de secretaris-generaal het aanbiedingsformulier ondertekenen.
 
@@ -168,11 +192,11 @@ In bijzondere gevallen, zoals bij voorbeeld een spoedeisende standpuntbepaling, 
 
 Bij afwijking van de 10-dagentermijn dient op het aanbiedingsformulier van rond te zenden stukken zorgvuldig te worden gemotiveerd waarom behandeling binnen deze termijn moet plaatsvinden. Ter aanvulling van de agenda van de op vrijdag te houden raad wordt op de woensdagmiddag daaraan voorafgaande nog een lijst rondgezonden van ter behandeling aangemelde onderwerpen die niet in de agenda zijn opgenomen, de zgn. woensdaglijst. Voor het aanmelden van urgente onderwerpen voor behandeling onder het vaste agendapunt ‘Belangrijke zaken die op korte termijn in het parlement aan de orde komen’ geldt eveneens dat dit nog tot woensdagmiddag 12 uur mogelijk is, teneinde deze onderwerpen te doen opnemen op de woensdaglijst. Indien er na het verschijnen van de woensdaglijst nog onderwerpen bij het secretariaat van de ministerraad worden aangemeld voor de ministerraad van die week en de minister-president stemt met de behandeling in, dient het indienende ministerie zelf (en dus niet het secretariaat van de ministerraad) de andere ministeries hiervan onverwijld in kennis te stellen.
 
-#### 8
+##### 8
 
 Voor de aanmelding van zaken ter behandeling in de ministerraad van het Koninkrijk dient met een termijn van ten minste drie weken rekening te worden gehouden, in verband met het vragen van het oordeel van de regeringen van de Nederlandse Antillen en van Aruba.
 
-#### 9
+##### 9
 
 De agenda van de ministerraad is opgebouwd uit zeven onderdelen:
 
@@ -190,13 +214,13 @@ De agenda van de ministerraad is opgebouwd uit zeven onderdelen:
 
 - VII. Datums vergaderingen van ministerraad (voor zover wordt afgeweken van de vaste wekelijkse vergadering op vrijdag), onderraden en ministeriële commissies: met vermelding van de aanvangstijd en de plaats van de vergaderingen.
 
-#### 10
+##### 10
 
 Op grond van de aanwijzingen voor de beveiliging van staatsgeheimen zijn alleen de rubriceringen confidentieel, geheim en zeer geheim mogelijk. In verband hiermee is de agenda van de ministerraad (van het Koninkrijk) ongerubriceerd. De aangeboden stukken die ongerubriceerd zijn, kunnen zonder bezwaar op de agenda worden opgenomen. In de (sporadisch voorkomende) gevallen dat stukken met een rubricering ter behandeling worden aangeboden, wordt ten behoeve hiervan een afzonderlijke agenda opgemaakt, die de hoogste rubricering krijgt die op een aangeboden stuk is vermeld. Ervan uitgaande dat elke vergadering notulen oplevert, bestaat er geen bezwaar tegen de vermelding van de zeer geheime notulen op de ‘normale’ agenda.
 
 ### D. De besluiten van de ministerraad
 
-#### 11
+##### 11
 
 Na een vergadering van de ministerraad ontwerpt het secretariaat een besluitenlijst, waarop in het kort is aangegeven welke besluiten de raad over de behandelde onderwerpen heeft genomen. Na goedkeuring door de minister-president of de vice-minister-president of de minister die de raad heeft voorgezeten, wordt de besluitenlijst aan de ministers, de staatssecretarissen en de secretarissen-generaal gezonden. In de regel geschiedt deze verzending op maandag volgend op de wekelijkse ministerraadsvergadering op vrijdag. De concept besluitenlijst wordt op maandagmorgen om 10 uur door de departementen bij het secretariaat ministerraad opgehaald ten behoeve van de wekelijkse stafvergaderingen van de bewindspersonen. Op deze wijze kan aan de departementen reeds kort na een vergadering van de raad en ruim voor het gereedkomen van de notulen duidelijkheid worden verschaft over de genomen beslissingen en over de vraag, welke punten die niet in de agenda voorkwamen, aan de orde zijn geweest. De besluiten worden ook in de notulen opgenomen. Als onderdeel van de notulen heeft de besluitenlijst derhalve de
 
@@ -212,7 +236,7 @@ Voorts kan de raad de formulering van de wijziging delegeren aan een aantal mini
 
 ### E
 
-#### 12
+##### 12
 
 Van de besprekingen in de ministerraad worden vrij uitvoerige notulen gemaakt, die de kern van de standpuntbepalingen, de argumenten en de conclusies bevatten. De notulen worden slechts in zeer beperkte kring verspreid. De reden daarvoor is om te voorkomen dat meningen van individuele bewindspersonen tijdens de ministerraad geuit, naar buiten komen. Daardoor zou de eenheid van het regeringsbeleid in gevaar komen. Om elk misverstand over de beperkte omvang van de kring der potentieel gerechtigde lezers dragen de notulen de classificatie ‘zeer geheim’ (zie ook hoofdstuk G ‘Geheimhouding’).
 
@@ -226,7 +250,7 @@ Een aparte vorm van notulen is het verslag dat (als persoonlijke notulen) uitslu
 
 - 4º. Teneinde de beraadslagingen in de ministerraad niet naar buiten bekend te doen worden, zullen in het algemeen alleen conclusies van de besprekingen aan de in het vorige punt bedoelde leidende ambtenaren worden verstrekt. Heeft een ambtenaar, nog voordat de notulen gereed zijn, voor de verwerking van het in de raad besprokene nadere informatie nodig, dan kan hij of zij deze door tussenkomst van het hoofd van de secretarie ministerraad telefonisch vragen aan de adjunct-secretaris die bij de behandeling van het desbetreffende agendapunt in de raad aanwezig is geweest. Concept-notulen worden in de regel niet ter inzage gegeven.
 
-#### 13
+##### 13
 
 De notulen worden in de regel een week na de vergadering verzonden en, behoudens uitzonderingen, in de vergadering van de daarop volgende week vastgesteld. De vaststelling wordt eventueel voorafgegaan door een schriftelijke wijzigingsprocedure.
 
@@ -244,7 +268,7 @@ Aan de hand van een tijdschema wordt deze procedure toegelicht met als voorbeeld
 
 - f. donderdag 21 januari – verzending van de notulen van 15 januari, waaraan als bijlage het definitieve wijzigingenblad op de notulen van 1 januari is toegevoegd.
 
-#### 14
+##### 14
 
 Voor de behandeling van de notulen en andere stukken van de ministerraad (en onderraden) die op basis van de aanwijzingen voor de beveiliging van staatsgeheimen en vitale onderdelen bij de rijksdienst 1989 zijn gerubriceerd, gelden de daarin opgenomen bepalingen. 1Het besluit betreffende de ‘Aanwijzingen voor de beveiliging van staatsgeheimen en vitale onderdelen bij de rijksdienst’ (gepubliceerd in de Staatscourant van 6 februari 1989) is met ingang van 1 maart 1989 in werking getreden. Op basis van artikel 3 van het besluit moeten de in de aanwijzingen voorziene beveiligingsmaatregelen binnen 3 jaar na de inwerkingtreding worden gerealiseerd. Het beveiligingsvoorschrift II 1961 is ingetrokken. Bij verzending worden zij voorzien van een ontvangstmeldingskaart en verpakt in een dubbele enveloppe. De rubricering mag slechts op de binnenste enveloppe worden aangebracht.
 
@@ -258,7 +282,7 @@ Onder geen beding mogen notulen van de ministerraad en onderraden die zich op de
 
 ### F. Taak en werkwijze onderraden; aanmelding stukken voor onderraden
 
-#### 15
+##### 15
 
 In artikel 16 van het RvO is geregeld dat de ministerraad uit zijn midden onderraden kan vormen ter voorbereiding of ter beslissing van aangelegenheden inzake bepaalde delen van het algemeen regeringsbeleid. De minister-president is voorzitter van de onderraden (art. 17, lid 1 RvO). Aangezien de aangelegenheden die in een bepaalde onderraad aan de orde komen, zich vrijwel tot één of hooguit enkele beleidsterreinen beperken, is in de loop der jaren een procedure ontwikkeld waarbij die bewindspersonen die ten aanzien van die beleidsterreinen een bijzondere verantwoordelijkheid dragen, in de regel ook een speciale verantwoordelijkheid voor het goed functioneren van de onderraad krijgen (zie art. 17, lid 2 RvO: uit de vaste leden wordt een coördinerend minister aangewezen die toeziet op de deugdelijke interdepartementale voorbereiding van de onderwerpen die in een onderraad worden behandeld). Op het terrein van de onderraad is de coördinerend minister of staatssecretaris ervoor verantwoordelijk dat aangelegenheden waarover op ministerieel niveau overeenstemming moet worden bereikt, behoorlijk ambtelijk voorbereid in de onderraad aan de orde komen. Die voorbereiding vindt plaats in een interdepartementale coördinatiecommissie, het zogenaamde ambtelijke voorportaal van de onderraad.
 
@@ -270,7 +294,7 @@ Voor de onderraden wordt zoveel mogelijk een vast vergadertijdstip aangehouden, 
 
 ### G. Geheimhouding
 
-#### 16
+##### 16
 
 In artikel 25 RvO is bepaald dat een geheimhoudingsplicht bestaat ten aanzien van hetgeen ter vergadering van de ministerraad en onderraden is besproken. Dit geldt niet voor zover dat voor uitvoering van besluiten nodig is, dan wel aard en omstandigheden van een besluit bekendmaking ervan vorderen. De reden van de zorg voor geheimhouding is gelegen in de opdracht aan de ministerraad de eenheid van het regeringsbeleid te bevorderen. Het bekend worden van individuele standpunten van bewindspersonen zou daaraan afbreuk kunnen doen (zie voor inzage van ministerraadsnotulen door ambtenaren paragraaf 12).
 

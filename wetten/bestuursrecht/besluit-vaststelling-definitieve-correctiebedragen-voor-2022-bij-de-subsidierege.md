@@ -1,20 +1,46 @@
 ---
-title: "Besluit vaststelling definitieve correctiebedragen voor 2022 bij de Subsidieregeling coöperatieve energieopwekking"
+title: "Besluit van de Minister voor Klimaat en Energie van 19 april 2023, nr. WJZ/ 26957559, tot vaststelling van de definitieve correctiebedragen Subsidieregeling coöperatieve energieopwekking voor 2022 (Besluit vaststelling definitieve correctiebedragen voor 2022 bij de Subsidieregeling coöperatieve energieopwekking)"
 identifier: "BWBR0048103"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-12-23
-laatste_update: 2023-12-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048103"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-12-23"
+last_updated: "2023-12-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048103"
+soort: "ministeriele-regeling"
+stam_id: "16732813"
+version_id: "29374132"
+internal_id: "C41908861"
+label_id: "16648904"
+dtd_version: "2.0"
+original_entry_into_force: "2023-04-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048103/2023-12-23/0"
+intitule_bron: "Stcrt.2023-11919"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-04-19"
+intitule_published: "2023-04-26"
+intitule_in_force: "2023-04-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-11919"
+original_signed_date: "2023-04-19"
+original_published_date: "2023-04-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-11919"
+entry_into_force_date: "2023-04-27"
+jci_1_3: "jci1.3:c:BWBR0048103&z=2023-12-23&g=2023-12-23"
+jci_1_0: "1.0:c:BWBR0048103&g=2023-12-23"
+citeertitel_status: "officieel"
+short_title: "Besluit vaststelling definitieve correctiebedragen voor 2022 bij de Subsidieregeling coöperatieve energieopwekking"
+signed_date: "2023-04-19"
+entry_into_force: "2023-04-27"
 ---
-
 # Besluit van de Minister voor Klimaat en Energie van 19 april 2023, nr. WJZ/ 26957559, tot vaststelling van de definitieve correctiebedragen Subsidieregeling coöperatieve energieopwekking voor 2022 (Besluit vaststelling definitieve correctiebedragen voor 2022 bij de Subsidieregeling coöperatieve energieopwekking)
 
 Gelet op [artikel 6, tweede lid, van de Subsidieregeling coöperatieve energieopwekking](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=6);
 
 Besluit:
 
-#### Artikel 1. (begripsbepalingen)
+##### Artikel 1. (begripsbepalingen)
 
 In dit besluit wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 - **regeling:** [Subsidieregeling coöperatieve energieopwekking](https://wetten.overheid.nl/jci1.3:c:BWBR0044882).
 
-#### Artikel 2. (vaststelling definitief correctiebedrag)
+##### Artikel 2. (vaststelling definitief correctiebedrag)
 
 Voor een categorie productie-installaties als bedoeld in de eerste en tweede kolom van onderstaande tabel wordt het definitieve correctiebedrag, bedoeld in [artikel 6, tweede lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=6), voor 2022 vastgesteld op het bedrag dat is opgenomen in de derde kolom van onderstaande tabel.
 
@@ -69,11 +95,11 @@ Voor een categorie productie-installaties als bedoeld in de eerste en tweede kol
 | [Artikel 3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3) | Waterkracht kleinverbruikersaansluiting ≥ 15 kW en ≤ 100 kW | 0,242 |
 | [Artikel 3, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3) | Waterkracht grootverbruikersaansluiting ≥ 15 kW en ≤ 150 kW | 0,242 |
 
-#### Artikel 4. (inwerkingtreding)
+##### Artikel 4. (inwerkingtreding)
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 5. (citeertitel)
+##### Artikel 5. (citeertitel)
 
 Dit besluit wordt aangehaald als: Besluit vaststelling definitieve correctiebedragen voor 2022 bij de Subsidieregeling coöperatieve energieopwekking.
 

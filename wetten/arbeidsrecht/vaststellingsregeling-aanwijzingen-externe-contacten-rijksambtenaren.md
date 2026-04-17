@@ -1,28 +1,54 @@
 ---
-title: "Vaststellingsregeling Aanwijzingen externe contacten rijksambtenaren"
+title: "Regeling van de Minister-President, Minister van Algemene Zaken van 18 december 2020, kenmerk 4177136, tot vaststelling van de Aanwijzingen voor de externe contacten van rijksambtenaren"
 identifier: "BWBR0044590"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2020-12-29
-laatste_update: 2020-12-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044590"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-12-29"
+last_updated: "2020-12-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044590"
+soort: "ministeriele-regeling"
+stam_id: "15779193"
+version_id: "27351342"
+internal_id: "C38630231"
+label_id: "15716934"
+dtd_version: "2.0"
+original_entry_into_force: "2020-12-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044590/2020-12-29/0"
+intitule_bron: "Stcrt.2020-68088"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-12-18"
+intitule_published: "2020-12-28"
+intitule_in_force: "2020-12-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-68088"
+original_signed_date: "2020-12-18"
+original_published_date: "2020-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-68088"
+entry_into_force_date: "2020-12-29"
+jci_1_3: "jci1.3:c:BWBR0044590&z=2020-12-29&g=2020-12-29"
+jci_1_0: "1.0:c:BWBR0044590&g=2020-12-29"
+citeertitel_status: "redactioneel"
+short_title: "Vaststellingsregeling Aanwijzingen externe contacten rijksambtenaren"
+signed_date: "2020-12-18"
+entry_into_force: "2020-12-29"
 ---
-
 # Regeling van de Minister-President, Minister van Algemene Zaken van 18 december 2020, kenmerk 4177136, tot vaststelling van de Aanwijzingen voor de externe contacten van rijksambtenaren
 
 Handelende in overeenstemming met het gevoelen van de ministerraad,
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 Vastgesteld worden de als bijlage bij deze regeling gevoegde Aanwijzingen voor de externe contacten van rijksambtenaren.
 
-#### Artikel 2
+##### Artikel 2
 
 De [regeling van de Minister-President, Minister van Algemene Zaken, van 19 mei 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0031968), Stcrt. 104, wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 

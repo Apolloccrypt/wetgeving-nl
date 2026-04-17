@@ -1,13 +1,37 @@
 ---
 title: "Vaststelling Richtlijnen 1986 voor beoordelen oprichtingen en statutenwijzigingen van n.v.'s en b.v.'s met beperkte aansprakelijkheid"
 identifier: "BWBR0003881"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1998-10-15
-laatste_update: 1998-10-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003881"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1998-10-15"
+last_updated: "1998-10-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003881"
+soort: "ministeriele-regeling"
+stam_id: "5048123"
+version_id: "9100492"
+internal_id: "C12095221"
+label_id: "5024164"
+dtd_version: "2.0"
+original_entry_into_force: "1988-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003881/1998-10-15/0"
+intitule_bron: "Stcrt.1985-227"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1985-11-18"
+intitule_published: "1985-11-21"
+intitule_in_force: "1987-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.1985-227"
+original_signed_date: "1985-11-18"
+original_published_date: "1985-11-21"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1988-01-01"
+jci_1_3: "jci1.3:c:BWBR0003881&z=1998-10-15&g=1998-10-15"
+jci_1_0: "1.0:c:BWBR0003881&g=1998-10-15"
+citeertitel_status: "officieel"
+signed_date: "1985-11-18"
+entry_into_force: "1988-01-01"
 ---
-
 # Vaststelling Richtlijnen 1986 voor beoordelen oprichtingen en statutenwijzigingen van n.v.'s en b.v.'s met beperkte aansprakelijkheid
 
 Overwegende dat de Richtlijnen 1976 en het supplement 1981 voor het beoordelen van oprichtingen en van statutenwijzigingen van naamloze en besloten vennootschappen wijziging behoeven en dienen te worden aangepast aan nieuwe wetgeving zoals de Aanpassingswet aan de tweede richtlijn van de Raad van de Europese Gemeenschappen inzake het vennootschapsrecht en de Nieuwe regeling voor het kapitaal van de besloten vennootschap,
@@ -42,7 +66,7 @@ Voor de grote zorg die de leden van de werkgroep aan het omsmeden van de richtli
 
 ### Oprichting en statutenwijziging
 
-#### Paragraaf 1. De beoordeling bij oprichting
+##### Paragraaf 1. De beoordeling bij oprichting
 
 Indien gerede twijfel bestaat aan de (morele of financiële) betrouwbaarheid of integriteit van bij de vennootschap betrokken beleidsbepalende personen, wordt de gevraagde verklaring van geen bezwaar voor de oprichting van een vennootschap geweigerd. In die gevallen kan immers worden aangenomen dat er gevaar bestaat dat hetzij de vennootschap voor ongeoorloofde doeleinden zal worden gebruikt, hetzij haar werkzaamheid zal leiden tot benadeling van schuldeisers. De beoordeling van de betrouwbaarheid en integriteit vindt plaats aan de hand van een controle op criminele en financiële antecedenten.
 
@@ -52,7 +76,7 @@ Bij gebleken criminele antecedenten, zoals hiervoor bedoeld, wordt steeds de aar
 
 Een verklaring van geen bezwaar wordt niet geweigerd wanneer dit kennelijk onredelijk is, bijvoorbeeld wanneer uit informatie van de curator aannemelijk wordt dat het faillissement of de surseance van betaling niet in belangrijke mate aan de betrokken persoon is te wijten.
 
-#### Paragraaf 2. Administratieve behandeling van verzoeken bij oprichting
+##### Paragraaf 2. Administratieve behandeling van verzoeken bij oprichting
 
 De ontwerp-akte moet in tweevoud worden ingediend, evenals stukken waarnaar in de ontwerp-akte wordt verwezen of die aan de oprichtingsakte worden gehecht. In plaats van originele stukken kunnen voor kopie conform getekende stukken worden overgelegd (art. 68, 179)
 
@@ -88,7 +112,7 @@ Het departement houdt de ontvangen vragenlijsten geheim; wel kan het verstrekte 
 
 Indien een rechtspersoon-oprichter nog niet is opgericht, kan daarvoor een nog ongetekende ingevulde vragenlijst worden ingediend. In dit geval moet de rechtspersoon-oprichter, eenmaal zelf opgericht, voor de oprichting een ongewijzigd ingevulde vragenlijst ondertekenen die de notaris onverwijld inzendt. Zo niet, dan moet de notaris de ontwerp-akte met verklaring van geen bezwaar terugzenden
 
-#### Paragraaf 3. Storting op aandelen bij oprichting
+##### Paragraaf 3. Storting op aandelen bij oprichting
 
 Uit de akte van oprichting moet blijken hoeveel aandelen bij iedere oprichter zijn geplaatst.
 
@@ -98,7 +122,7 @@ De overeenkomst betreffende storting op aandelen in natura moet in haar geheel w
 
 Aanvaardbaar is bijvoorbeeld een inbrengregeling volgens een door de werkgroep Vennootschapsrecht uitgewerkt stramien dat als bijlage B bij deze richtlijnen is gevoegd. Bij de akte van oprichting kan de vennootschap niet worden verbonden buiten de perken van het laatste lid van de artikelen 93 of 203 van boek 2 B.W. Zo mogen bijvoorbeeld de aan het oprichten van een vennootschap verbonden kosten niet op deze wijze te haren laste worden gebracht.
 
-#### Paragraaf 4. Statutenwijziging
+##### Paragraaf 4. Statutenwijziging
 
 De akte of ontwerp-akte moet in tweevoud worden ingediend. Bij de aanvraag moet aannemelijk worden gemaakt dat de algemene vergadering van aandeelhouders tot statutenwijziging heeft besloten met inachtneming van de bepalingen van de wet en de statuten in de regel zal daartoe kunnen worden volstaan met een uittreksel uit de notulen van de algemene vergadering (art. 72, 125, 183, 235).
 
@@ -112,7 +136,7 @@ Bij verandering van het maatschappelijk kapitaal moet in de statuten of elders i
 
 ### Naam en doel
 
-#### Paragraaf 5
+##### Paragraaf 5
 
 De naam behoeft niet in de Nederlandse taal te zijn gesteld, maar moet worden geschreven in Latijnse letters (art. 66, 177).
 
@@ -124,7 +148,7 @@ Woorden in de naam zoals ‘beurs’, ‘bouwsociëteit’, ‘trust’ of ‘gr
 
 ### Bestuur en raad van commissarissen
 
-#### Paragraaf 6. Benoeming, schorsing, ontslag
+##### Paragraaf 6. Benoeming, schorsing, ontslag
 
 De statuten mogen bepalen hoeveel bestuurders er zullen zijn of welk vennootschapsorgaan bepaalt hoeveel bestuurders er zullen zijn. Benamingen van bestuurders die twijfel kunnen wekken over hun bevoegdheden en verantwoordelijkheden, worden niet toegestaan (art 132–134, 140, 142–144, 242–244, 250, 252–254).
 
@@ -138,19 +162,19 @@ De statuten mogen bepalen dat de algemene vergadering het bindende karakter aan 
 
 De statuten mogen aan de besluitvorming tot schorsing of ontslag van bestuurders of commissarissen geen strengere eisen stellen dan is toegestaan voor de besluitvorming tot het ontnemen van de bindende kracht aan een voordracht voor benoeming van bestuurders of commissarissen. De bevoegdheid tot schorsing of ontslag mag niet aan anderen worden toegekend dan degenen die de wet noemt.
 
-#### Paragraaf 7. Belet of ontstentenis van bestuurders
+##### Paragraaf 7. Belet of ontstentenis van bestuurders
 
 Het departement ziet er op toe, dat de statuten voorschriften bevatten omtrent de wijze waarop in het bestuur der vennootschap voorlopig wordt voorzien in geval van ontstentenis of belet van alle bestuurders. Uit deze regeling dient te blijken wie alsdan tijdelijk met het bestuur is belast dan wel welk vennootschapsorgaan verplicht is bij ontstentenis of belet van alle bestuurders personen aan te wijzen die tijdelijk met het bestuur zijn belast. De statuten mogen in dit verband niet spreken over ‘beheer’ (art. 134, 244).
 
 Toegelaten wordt een regeling dat een of meer personen met het mede-bestuur worden belast bij belet of ontstentenis van een of meer, doch niet van alle bestuurders.
 
-#### Paragraaf 8. Besluitvorming binnen meerhoofdig bestuur of meerhoofdige raad van commissarissen
+##### Paragraaf 8. Besluitvorming binnen meerhoofdig bestuur of meerhoofdige raad van commissarissen
 
 De statuten mogen regelen hoe binnen een meerhoofdig bestuur een besluit tot stand komt. Deze regeling moet zodanig zijn dat iedere bestuurder aan de besluitvorming kan meewerken. Niet toegestaan is derhalve de bepaling dat beslissingen over bepaalde onderwerpen aan het bestuur worden onttrokken; wel de bepaling dat één bestuurder speciaal is belast met bepaalde bestuurswerkzaamheden.
 
 De statuten mogen aan een met name of in functie aangeduide bestuurder meer dan één stem toekennen, mits deze bestuurder alléén niet meer stemmen kan uitbrengen dan de andere bestuurders tezamen. De statuten kunnen bepalen dat bij staken van stemmen de beslissing wordt genomen door een in de statuten aangewezen vennootschapsorgaan of door een in de statuten aangewezen bestuurder, mits deze alleen minder stemmen heeft dan alle andere bestuurders tezamen. De statuten mogen bepalen dat een vennootschapsorgaan een reglement opstelt waarbij de besluitvorming wordt geregeld. Indien de statuten bepalen dat het bestuur buiten vergadering kan besluiten, moeten zij bepalen dat dan algemene stemmen zijn vereist of dat dan aan alle bestuurders moet zijn bericht dat zij de gelegenheid hebben zich uit te spreken. Deze paragraaf is van overeenkomstige toepassing op besluitvorming binnen een meerhoofdige raad van commissarissen.
 
-#### Paragraaf 9. Beperkingen in de bestuursbevoegdheid
+##### Paragraaf 9. Beperkingen in de bestuursbevoegdheid
 
 De statuten mogen de bestuursbevoegdheid niet aan het bestuur ontnemen. Tot de bestuursbevoegdheid worden onder meer gerekend: samenwerking met en deelneming in andere rechtspersonen of vennootschappen, investeringen, benoeming en ontslag van werknemers en de vaststelling van hun arbeidsvoorwaarden (art. 129, 239).
 
@@ -160,7 +184,7 @@ Toegestaan wordt de bepaling dat een vennootschapsorgaan de aard van de goed te 
 
 Toegestaan wordt te bepalen dat het bestuur zich moet gedragen naar de aanwijzingen van een vennootschapsorgaan betreffende de algemene lijnen van het te voeren financiële, sociale, economische en personeelsbeleid.
 
-#### Paragraaf 10. Vertegenwoordiging van de vennootschap
+##### Paragraaf 10. Vertegenwoordiging van de vennootschap
 
 Indien de statuten een regeling voor de vertegenwoordigingsbevoegdheid bevatten, dient daaruit duidelijk te blijken welke bestuurders bevoegd zijn de vennootschap te vertegenwoordigen (art. 130, 240).
 
@@ -180,7 +204,7 @@ Aan commissarissen mag in de statuten geen vertegenwoordigingsbevoegdheid worden
 
 ### De algemene vergadering
 
-#### Paragraaf 11. Oproeping, gevolmachtigde, besluitvorming
+##### Paragraaf 11. Oproeping, gevolmachtigde, besluitvorming
 
 De statuten mogen geen woonplaats of adres aanwijzen van aandeelhouders die in gebreke zijn hun adres op te geven. Zij mogen de vennootschap of een ander niet machtigen oproepingen voor een aandeelhouder in ontvangst te nemen. De statuten mogen bepalen dat indien een of meer aandelen tot een onverdeeldheid behoren, de uitoefening van de rechten slechts kan geschieden door een persoon door de deelgerechtigden aan te wijzen (art. 117, 118, 124, 128, 227, 228, 234, 238)
 
@@ -188,7 +212,7 @@ Het recht om bij gevolmachtigde in de vergadering te verschijnen en te stemmen, 
 
 Indien de statuten schriftelijke besluitvorming overeenkomstig artikel 128 of 238 van Boek 2 B.W. toestaan, moet uit de regeling blijken dat een besluit zo slechts kan worden genomen, indien alle aandeelhouders zich schriftelijk (waaronder telegrafisch of per telex) vóór het voorstel hebben verklaard. De statuten mogen bepalen dat een aandeelhouder het stemrecht of het vergader- en stemrecht niet kan uitoefenen, indien en zolang als hij in gebreke is te voldoen aan een bepaalde wettelijke of statutaire verplichting.
 
-#### Paragraaf 12. Jaarrekening en winstbestemming
+##### Paragraaf 12. Jaarrekening en winstbestemming
 
 De besluiten waarbij de jaarrekening wordt opgemaakt of vastgesteld, mogen statutair niet worden onderworpen aan de goedkeuring van enig vennootschapsorgaan of van derden. Niet mag worden bepaald dat voorschriften of bindende voorstellen voor de jaarrekening of voor enige post daarvan mogen worden gegeven. Dit lijdt uitzondering voor zover in de jaarrekening de winstbestemming of het voorstel daartoe is verwerkt (art. 101–105, 210–216).
 
@@ -202,13 +226,13 @@ De statuten mogen bepalen dat de uitoefening van het dividendrecht van een aande
 
 ### Praktijkvennootschappen
 
-#### Paragraaf 13
+##### Paragraaf 13
 
 In een vennootschap tot uitoefening van een wettelijk beschermd beroep mogen de statuten bepalen dat aandeelhouders, bestuurders, commissarissen en personen van de belet- of ontstentenisregeling personen moeten zijn die bevoegd zijn het beroep uit te oefenen. Indien aan aandeelhouders die niet (meer) dat beroep mogen uitoefenen of het niet meer in feite uitoefenen, het stemrecht wordt onthouden, kan tevens worden vermeld dat zij mogen stemmen over voorstellen om aan de vennootschap het karakter van praktijkvennootschap te ontnemen door wijziging der statuten. Het departement ziet er niet op toe of wordt voldaan aan vereisten die beroepsorganisaties ter zake stellen.
 
 ### Structuurvennootschappen
 
-#### Paragraaf 14. Algemeen
+##### Paragraaf 14. Algemeen
 
 Voor zover uit de tekst of strekking van de wet niet anders volgt, zijn de voorafgaande paragrafen van toepassing op statuten van vennootschappen waarvoor de bepalingen voor grote vennootschappen wettelijk of krachtens de statuten geheel of gedeeltelijk gelden (structuurvennootschappen) (art. 158–164, 268–274).
 
@@ -222,7 +246,7 @@ De statuten mogen de wettelijke zittingsduur van commissarissen beperken. Indien
 
 Indien de bestuurders worden benoemd conform het bepaalde in de artikelen 162 of 272, moet de regeling voor het geval van ontstentenis of belet van bestuurders het tijdelijke bestuur opdragen aan de raad van commissarissen of aan een of meer door deze raad aan te wijzen of aangewezen personen. De statuten mogen geen beperking inhouden van de bevoegdheden die de wet toekent aan de raad van commissarissen van een structuurvennootschap. Besluiten van het bestuur omtrent de onderwerpen die de artikelen 164 en 274 van boek 2 B.W. opsomt, mogen worden onderworpen aan de goedkeuring van een ander vennootschapsorgaan naast het vereiste van goedkeuring door de raad van commissarissen.
 
-#### Paragraaf 15. De aandeelhouderscommissie
+##### Paragraaf 15. De aandeelhouderscommissie
 
 De statuten mogen bepalen dat niet-aandeelhouders deel kunnen uitmaken van de commissie van aandeelhouders. De statuten mogen bepalen dat een niet-commissielid voorzitter of secretaris is van de commissie, mits zij tevens bepalen dat deze personen geen stemrecht hebben in de commissie (art. 158, 268).
 
@@ -234,13 +258,13 @@ De statuten mogen regels bevatten over de besluitvorming in de commissie. Zij mo
 
 ### Aandelen (B.V.)
 
-#### Paragraaf 16. Het nominale bedrag
+##### Paragraaf 16. Het nominale bedrag
 
 De statuten moeten het maatschappelijk kapitaal en het nominale bedrag van de aandelen vermelden in Nederlands geld (art. 178)
 
 Indien het nominale bedrag van de aandelen wordt verminderd met handhaving van het geplaatste kapitaal of indien het nominale bedrag van de aandelen wordt vergroot, moet in de statuten of elders in de akte van statutenwijziging de grootte van het geplaatste kapitaal worden vermeld op een bepaalde datum. Deze datum mag niet gelegen zijn voor de datum waarop het besluit tot statutenwijziging is genomen. Het geplaatste kapitaal moet ten minste een vijfde van het maatschappelijk kapitaal bedragen. In geval van vergroting van het nominale bedrag moet worden aangetoond dat alle aandeelhouders daarmee instemmen of dat het besluit kan worden uitgevoerd zonder dat (oude) aandelen met een kleiner nominaal bedrag blijven uitstaan. Is dit onmogelijk, dan moet het deel van de aandelen dat niet wordt omgewisseld, statutair worden gehandhaafd.
 
-#### Paragraaf 17. Prioriteitsaandelen
+##### Paragraaf 17. Prioriteitsaandelen
 
 Het is geoorloofd statutair te bepalen dat aan zekere aandelen (prioriteitsaandelen) bepaalde machtsrechten zullen zijn verbonden die nauwkeurig in de statuten moeten zijn omschreven. Zij mogen niet van zodanige aard zijn dat dientengevolge een vennootschapsorgaan niet meer in staat is zijn taak, voor zover die niet aan anderen kan worden overgedragen, te vervullen (art. 201).
 
@@ -250,11 +274,11 @@ Tegen verschillende soorten prioriteitsaandelen in één vennootschap bestaat ge
 
 Indien de statuten bepalen dat de houders van prioriteitsaandelen buiten vergadering kunnen besluiten, moeten zij bepalen dat een dergelijk besluit alleen genomen kan worden hetzij met algemene stemmen hetzij met een andere meerderheid, nadat alle houders met stemrecht is bericht dat zij de gelegenheid hebben zich uit te spreken en mits geen hunner een vergadering heeft verlangd.
 
-#### Paragraaf 18. Uitgifte van aandelen
+##### Paragraaf 18. Uitgifte van aandelen
 
 Besluiten tot uitgifte van aandelen mogen worden onderworpen aan de goedkeuring van andere vennootschapsorganen en afhankelijk worden gesteld van een voorstel van zulk een orgaan (art. 206).
 
-#### Paragraaf 19. Extra verplichtingen
+##### Paragraaf 19. Extra verplichtingen
 
 Bij oprichting mag in de statuten worden bepaald dat aandeelhouders meer verplichtingen zullen hebben dan de verplichting hun aandelen vol te storten. Deze verplichtingen moeten nauwkeurig in de statuten worden omschreven (art. 192).
 
@@ -262,7 +286,7 @@ Het door statutenwijziging aan aandeelhouders opleggen van extra verplichtingen 
 
 ### Blokkeringsregelingen (B.V.)
 
-#### Paragraaf 20. Algemeen
+##### Paragraaf 20. Algemeen
 
 Het departement gaat na of blokkeringsregelingen voldoen aan de eisen die de wet en de paragrafen 21 t/m 26 stellen. In het bijzonder wordt er op gelet dat de overdragende aandeelhouder geen genoegen hoeft te nemen met een andere prijs dan vastgesteld door deskundigen, dat hem de vastgestelde of overeengekomen prijs desgewenst contant wordt betaald en dat hij zich nog kan terugtrekken nadat de prijs en de gegadigden bekend zijn. Er wordt niet op gelet of de regeling kan vastlopen bij stilzitten van een der partijen en of zij doelmatig is. Combinaties van verschillende regelingen zijn toegestaan. Ook mogen verschillende blokkeringsregelingen gelden afhankelijk van de soort aandelen of van de aandeelhouders (art. 195).
 
@@ -270,13 +294,13 @@ Toegestaan wordt een regeling volgens welke de overdracht slechts aan bepaalde p
 
 De statuten moeten bepalen dat de vennootschap niet of dat zij slechts met instemming van de verzoeker als gegadigde kan optreden. Gezien de strekking van de wet wordt de bepaling toegestaan dat deze instemming niet vereist is voor overdracht van prioriteitsaandelen waarvan de statuten overeenkomstig paragraaf 26 bepalen dat zij ten hoogste a pari kunnen worden overgedragen.
 
-#### Paragraaf 21. Goedkeuringsregeling
+##### Paragraaf 21. Goedkeuringsregeling
 
 Indien de statuten geen aanbiedingsregeling inhouden, moeten zij bepalen dat de overdracht van aandelen slechts is toegestaan binnen drie maanden na verkregen goedkeuring van een vennootschapsorgaan. De statuten moeten dan bepalen dat, indien dit vennootschapsorgaan niet binnen een in de statuten gestelde termijn heeft beslist, overdracht overeenkomstig de gevraagde goedkeuring is toegestaan tot drie maanden na afloop van die termijn. De statuten mogen het vennootschapsorgaan niet verplichten of verbieden de overdracht aan bepaalde personen of groepen van personen goed te keuren.
 
 De goedkeuringsregeling mag de verzoeker niet dwingen zijn aandelen over te dragen aan aangewezen gegadigden. Als de statuten bepalen dat op het verzoek wordt beslist voor de prijsvaststelling, moeten zij inhouden dat de verzoeker niet eerder dan een maand na de prijsvaststelling behoeft te beslissen of hij zijn aandelen aan de aangewezen gegadigden overdraagt. Bepalen de statuten dat de aangewezen gegadigden zich mogen terugtrekken, dan moeten zij bepalen dat, indien, na de terugtrekking, de overgebleven gegadigden niet bereid blijken binnen een in de statuten bepaalde termijn alle aandelen over te nemen, de overdracht overeenkomstig het verzoek om goedkeuring is toegestaan tot drie maanden na afloop van die termijn.
 
-#### Paragraaf 22. Aanbiedingsregeling
+##### Paragraaf 22. Aanbiedingsregeling
 
 Indien de statuten geen goedkeuringsregeling inhouden, moeten zij bepalen dat een aandeelhouder die aandelen wil vervreemden, deze eerst aan alle andere aandeelhouders moet aanbieden. Toegestaan wordt een eerste of volgende keus toe te kennen aan bepaalde aandeelhouders of groepen aandeelhouders voordat hetzij de door hen niet afgenomen aandelen moeten worden aangeboden aan alle overige aandeelhouders hetzij voor de overdracht van die aandelen goedkeuring moet worden gevraagd overeenkomstig de vorige paragraaf.
 
@@ -286,11 +310,11 @@ De statuten moeten bepalen dat de aanbieder zijn aanbod mag intrekken tot een ma
 
 De statuten mogen bepalen dat aandelen niet behoeven te worden aangeboden, indien de overdracht geschiedt binnen drie maanden na schriftelijke toestemming van alle aandeelhouders of binnen drie maanden na goedkeuring van een vennootschapsorgaan.
 
-#### Paragraaf 23. Legaat
+##### Paragraaf 23. Legaat
 
 Omdat legaat als een titel van eigendomsoverdracht wordt beschouwd, is de overdracht van gelegateerde aandelen door de erfgenaam aan de legataris aan de blokkeringsregeling onderworpen. Toegestaan wordt een vrijstelling van de blokkering overeenkomstig artikel 195 lid 1 te bepalen voor overdracht krachtens legaat aan de weduwnaar of weduwe of aan verwanten van de erflater, naast de legatarissen aan wie de erfgenaam overeenkomstig artikel 195 lid 1 eventueel al vrijelijk mag overdragen.
 
-#### Paragraaf 24. Eisen voor aandeelhouderschap
+##### Paragraaf 24. Eisen voor aandeelhouderschap
 
 De statuten mogen eisen stellen waaraan aandeelhouders moeten voldoen Nationaliteitseisen mogen geen verschil maken naar gelang van de nationaliteit van onderdanen van de Europese Gemeenschappen, buiten de gevallen waarin zulks Europeesrechtelijk geoorloofd is. Wel mag ingezetenschap van bijvoorbeeld Nederland een vereiste zijn.
 
@@ -302,7 +326,7 @@ De statuten moeten bepalen of de houder van prioriteitsaandelen die niet (meer) 
 
 Het invoeren van eisen voor aandeelhouderschap bij statutenwijziging is toegestaan, indien wordt aangetoond dat alle aandeelhouders die niet aan de te stellen eisen voldoen hetzij daarvan ontheffing krijgen hetzij met de statutenwijziging hebben ingestemd.
 
-#### Paragraaf 25. Verplichting tot overdracht
+##### Paragraaf 25. Verplichting tot overdracht
 
 De statuten mogen bepalen dat in nauwkeurig in de statuten omschreven gevallen, zoals het niet voldoen aan een vereiste voor aandeelhouderschap, de aandeelhouder zijn aandelen moet aanbieden en overdragen. Zij mogen bepalen dat het vergaderrecht en het stemrecht niet kunnen worden uitgeoefend en dat het recht op uitkeringen wordt opgeschort zolang de aandeelhouder zijn verplichtingen tot aanbieding en overdracht niet nakomt.
 
@@ -312,7 +336,7 @@ De statuten mogen bepalen dat indien een aandeelhouder na een bepaalde tijd of n
 
 De statuten mogen bepalen dat de houder van prioriteitsaandelen die hij moet overdragen, de bijzondere aan deze aandelen verbonden rechten niet mag uitoefenen zolang de verplichting bestaat.
 
-#### Paragraaf 26. Prijs van de aandelen
+##### Paragraaf 26. Prijs van de aandelen
 
 Iedere blokkeringsregeling moet zodanig zijn dat de aandeelhouder desgewenst de waarde van zijn aangeboden pakket aandelen zonder uitstel ontvangt, vastgesteld door een of meer onafhankelijke deskundigen. De deskundigen moeten ook onafhankelijk zijn van de vennootschap; de externe accountant van de vennootschap mag als deskundige worden aangewezen.
 
@@ -322,7 +346,7 @@ De statuten mogen normen bevatten voor het bepalen van de werkelijke waarde van 
 
 ### Aandelen (N.V.)
 
-#### Paragraaf 27. Het nominale bedrag: aandelen aan toonder
+##### Paragraaf 27. Het nominale bedrag: aandelen aan toonder
 
 De statuten moeten het maatschappelijk kapitaal en het nominale bedrag van de aandelen vermelden in Nederlands geld (art. 67, 82).
 
@@ -332,7 +356,7 @@ De statuten moeten bepalen of de aandelen op naam of aan toonder luiden dan wel 
 
 Indien uitstaande aandelen aan toonder na een statutenwijziging op naam zullen luiden, moeten de statuten bepalen dat de houder van aandeelbewijzen aan toonder zijn rechten niet kan uitoefenen voordat hij deze bewijzen heeft ingeleverd.
 
-#### Paragraaf 28. Prioriteitsaandelen
+##### Paragraaf 28. Prioriteitsaandelen
 
 Het is geoorloofd statutair te bepalen dat aan zekere aandelen (prioriteitsaandelen) bepaalde machtsrechten zullen zijn verbonden die nauwkeurig in de statuten moeten zijn omschreven. Zij mogen niet van zodanige aard zijn dat dientengevolge een vennootschapsorgaan niet meer in staat is zijn taak, voor zover die niet aan anderen kan worden opgedragen, te vervullen (art. 92).
 
@@ -342,7 +366,7 @@ Tegen verschillende soorten prioriteitsaandelen in één vennootschap bestaat ge
 
 Indien de statuten bepalen dat de houders van prioriteitsaandelen buiten vergadering kunnen besluiten, moeten zij bepalen dat een dergelijk besluit alleen genomen kan worden hetzij met algemene stemmen hetzij met een andere meerderheid, nadat alle houders met stemrecht is bericht dat zij de gelegenheid hebben zich uit te spreken en mits geen hunner een vergadering heeft verlangd.
 
-#### Paragraaf 29. Uitgifte van aandelen
+##### Paragraaf 29. Uitgifte van aandelen
 
 Besluiten tot uitgifte van aandelen mogen worden onderworpen aan de goedkeuring van andere vennootschapsorganen en afhankelijk worden gesteld van een voorstel van zulk een orgaan (art. 67, 96, 96a).
 
@@ -358,7 +382,7 @@ Regelingen betreffende het voorkeursrecht op uit te geven aandelen die zich uits
 
 Indien de statuten aan preferente aandeelhouders en/of bij uitgifte van preferente aandelen een voorkeursrecht toekennen, zijn zij vrij in de aanwijzing van een vennootschapsorgaan dat in een dergelijk geval dit voorkeursrecht terzijde mag stellen, al dan niet onder goedkeuring van een ander vennootschapsorgaan. Dit geldt ook ten aanzien van prioriteitsaandelen en houders daarvan, mits die prioriteitsaandelen voldoen aan de omschrijving van artikel 96a, lid 2 van boek 2 B.W. Op deze paragraaf gelden uitzonderingen voor beleggingsmaatschappijen met veranderlijk kapitaal.
 
-#### Paragraaf 30. Extra verplichtingen
+##### Paragraaf 30. Extra verplichtingen
 
 Bij oprichting mag in de statuten worden bepaald dat aandeelhouders meer verplichtingen zullen hebben dan de verplichting hun aandelen vol te storten. Deze verplichtingen moeten nauwkeurig in de statuten worden omschreven (art. 81).
 
@@ -366,13 +390,13 @@ Het door statutenwijziging aan aandeelhouders opleggen van extra verplichtingen 
 
 ### Blokkeringsregelingen (N.V.)
 
-#### Paragraaf 31. Algemeen
+##### Paragraaf 31. Algemeen
 
 De statuten zijn vrij te bepalen of, in welke gevallen en hoe de overdracht van aandelen op naam wordt geblokkeerd. Combinaties van blokkeringsregelingen zijn toegestaan. Ook mogen verschillende blokkeringsregelingen gelden afhankelijk van de soort aandelen of van de aandeelhouder. Blokkering van aandelen aan toonder is niet toegestaan (art. 87).
 
 Het departement let er vooral op dat de overdragende aandeelhouder geen genoegen behoeft te nemen met een andere prijs dan vastgesteld door deskundigen, dat betaling verzekerd is en dat gedurende tenminste drie maanden nadat hem bekend wordt dat met al zijn aangeboden aandelen worden overgenomen, hij deze mag overdragen aan een door hem uitgekozen gegadigde. Op de doelmatigheid van regelingen wordt niet gelet.
 
-#### Paragraaf 32. Goedkeuringsregeling
+##### Paragraaf 32. Goedkeuringsregeling
 
 De statuten mogen de overdracht van aandelen onderwerpen aan de goedkeuring van een vennootschapsorgaan of van derden. De statuten moeten dan bepalen dat overdracht (overeenkomstig de gevraagde goedkeuring) is toegestaan, indien niet binnen een in de statuten gestelde termijn op een verzoek om goedkeuring is beslist.
 
@@ -382,7 +406,7 @@ Bepalen de statuten dat de aangewezen gegadigden zich mogen terugtrekken, dan mo
 
 Indien de statuten bepalen dat de verzoeker zijn aandelen slechts aan een door hem gekozen gegadigde kan overdragen binnen een bepaalde termijn na goedkeuring of na een ander tijdstip, moet deze termijn tenminste drie maanden belopen.
 
-#### Paragraaf 33. Aanbiedingsregeling
+##### Paragraaf 33. Aanbiedingsregeling
 
 De statuten mogen bepalen dat een aandeelhouder die aandelen wil vervreemden, deze eerst moet aanbieden aan bepaalde personen. De statuten mogen ook bepalen dat een vennootschapsorgaan binnen een in de statuten bepaalde termijn deze personen mag aanwijzen.
 
@@ -392,7 +416,7 @@ Tenzij vervolgens overeenkomstig paragraaf 32 goedkeuring moet worden verkregen,
 
 De statuten mogen bepalen dat als hij zijn aandelen aan derden wil overdragen tegen een lagere prijs dan bij de aanbieding gold, hij de aandelen eerst tegen de lagere prijs opnieuw moet aanbieden aan degenen aan wie hij deze voordien heeft moeten aanbieden. De statuten mogen bepalen dat een aandeelhouder toestemming kan krijgen zijn aandelen vrijelijk over te dragen.
 
-#### Paragraaf 34. Eisen voor aandeelhouderschap
+##### Paragraaf 34. Eisen voor aandeelhouderschap
 
 De statuten mogen eisen stellen waaraan aandeelhouders moeten voldoen. Nationliteitseisen mogen geen verschil maken naar gelang van de nationaliteit van onderdanen van de Europese Gemeenschappen buiten de gevallen waarin zulks Europeesrechtelijk geoorloofd is. Wet mag ingezetenschap van bijvoorbeeld Nederland een vereiste zijn.
 
@@ -404,7 +428,7 @@ De statuten moeten bepalen of de houder van prioriteitsaandelen die niet (meer) 
 
 Het invoeren van eisen voor aandeelhouderschap bij statutenwijziging is toegestaan, indien wordt aangetoond dat alle aandeelhouders die niet aan de te stellen eisen voldoen hetzij daarvan ontheffing krijgen hetzij met de statutenwijziging hebben ingestemd.
 
-#### Paragraaf 35. Verplichting tot overdracht
+##### Paragraaf 35. Verplichting tot overdracht
 
 De statuten mogen bepalen dat in nauwkeurig in de statuten omschreven gevallen, zoals het niet voldoen aan een vereiste voor aandeelhouderschap, de aandeelhouder zijn aandelen moet overdragen. Zij mogen bepalen dat degenen die aandelen anders dan door overdracht verkrijgen, deze moeten aanbieden en overdragen. Zij mogen bepalen dat het vergaderrecht en het stemrecht niet kunnen worden uitgeoefend en dat het recht op uitkeringen wordt opgeschort zolang de aandeelhouder zijn verplichtingen tot aanbieding of overdracht niet nakomt.
 
@@ -414,7 +438,7 @@ De statuten mogen bepalen dat indien een aandeelhouder na een bepaalde tijd of n
 
 De statuten mogen bepalen dat de houder van prioriteitsaandelen die hij moet overdragen, de bijzondere aan deze aandelen verbonden rechten niet mag uitoefenen zolang de verplichting bestaat.
 
-#### Paragraaf 36. Prijs van de aandelen
+##### Paragraaf 36. Prijs van de aandelen
 
 Iedere blokkeringsregeling moet zodanig zijn dat de aandeelhouder desgewenst de waarde van zijn aangeboden pakket aandelen ontvangt, vastgesteld door een of meer onafhankelijke deskundigen. De deskundigen moeten ook onafhankelijk zijn van de vennootschap: de externe accountant van de vennootschap mag als deskundige worden aangewezen.
 
@@ -426,13 +450,13 @@ Indien de blokkeringsregeling tot gevolg kan hebben dat een aandeelhouder een of
 
 ### Bijlage A. Overzicht van de voor de misbruiktoets relevante criminele respectievelijk financiële antecedenten (zie paragraaf 1)
 
-#### 1. Inleiding
+##### 1. Inleiding
 
 In deze bijlage wordt een overzicht gegeven van de criminele respectievelijk financiële antecedenten, die in ieder geval relevant zijn voor de beoordeling van de betrouwbaarheid van de bij de vennootschap betrokken beleidsbepalende personen.
 
 Bij het zich voordoen van een crimineel antecedent zoals hier wordt bedoeld, is dat aanleiding voor het instellen van een nader onderzoek naar de achtergrond van de aanvrager en van de oprichting. Voor de vraag of in een concreet geval de verklaring van geen bezwaar moet worden geweigerd dan wel afgegeven worden alle bekende feiten en omstandigheden in hun onderlinge samenhang bezien en gewogen. Indien uit die feiten en omstandigheden blijkt dat er gegronde reden is om aan de (morele of financiële) betrouwbaarheid te twijfelen, wordt de verklaring van geen bezwaar geweigerd.
 
-#### Criminele antecedenten 2
+##### Criminele antecedenten 2
 
 Onder criminele antecedenten, op basis waarvan tot het oordeel kan worden gekomen dat de morele betrouwbaarheid of integriteit in het geding is, en die in beginsel kunnen leiden tot weigering van een verklaring van geen bezwaar voor de oprichting van een vennootschap, worden in ieder geval de volgende omstandigheden verstaan:
 
@@ -466,7 +490,7 @@ De betrokken persoon wordt terzake van één of meer van de hiervoor onder A gen
 
 Andere bekende en relevante feiten, de betrokken persoon betreffende, voor zover die blijken uit door de politie opgemaakte processen-verbaal of rapporten, die een (vermoedelijke) ernstige inbreuk op de rechts- of de betreffen en waaruit ernstige twijfel aan de betrouwbaarheid of integriteit van betrokkene kan worden afgeleid.
 
-#### 3. Financiële antecedenten
+##### 3. Financiële antecedenten
 
 Onder financiële antecedenten, op basis waarvan tot het oordeel gekomen kan worden dat de financiële betrouwbaarheid of integriteit van het bedrijf in het geding is en die in beginsel leiden tot een weigering van de verklaring van geen bezwaar voor de oprichting van een vennootschap, worden verstaan:
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling informatieverstrekking pensioenfondsen BES"
+title: "Regeling van De Nederlandsche Bank N.V. van 2 maart 2011 met betrekking tot de informatieverstrekking door pensioenfondsen die hun zetel hebben in de openbare lichamen Bonaire, Sint Eustatius of Saba (Regeling informatieverstrekking pensioenfondsen BES)"
 identifier: "BWBR0029704"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2011-03-12
-laatste_update: 2011-03-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029704"
+country: "nl"
+rank: "zbo"
+publication_date: "2011-03-12"
+last_updated: "2011-03-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029704"
+soort: "zbo"
+stam_id: "11265883"
+version_id: "18452362"
+internal_id: "C25730121"
+label_id: "11240114"
+dtd_version: "2.0"
+original_entry_into_force: "2011-03-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029704/2011-03-12/0"
+intitule_bron: "Stcrt.2011-4177"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-03-02"
+intitule_published: "2011-03-10"
+intitule_in_force: "2011-03-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-4177"
+original_signed_date: "2011-03-02"
+original_published_date: "2011-03-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-4177"
+entry_into_force_date: "2011-03-12"
+jci_1_3: "jci1.3:c:BWBR0029704&z=2011-03-12&g=2011-03-12"
+jci_1_0: "1.0:c:BWBR0029704&g=2011-03-12"
+citeertitel_status: "officieel"
+short_title: "Regeling informatieverstrekking pensioenfondsen BES"
+signed_date: "2011-03-02"
+entry_into_force: "2011-03-12"
 ---
-
 # Regeling van De Nederlandsche Bank N.V. van 2 maart 2011 met betrekking tot de informatieverstrekking door pensioenfondsen die hun zetel hebben in de openbare lichamen Bonaire, Sint Eustatius of Saba (Regeling informatieverstrekking pensioenfondsen BES)
 
 Gelet op [artikel 16f van de Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16f) (Stb. 2010, 597);
@@ -18,7 +44,7 @@ Besluit:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
-#### Artikel 1.1. Definities
+##### Artikel 1.1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -28,13 +54,13 @@ In deze regeling wordt verstaan onder:
 
 - c. **Besluit:** [Besluit Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028316).
 
-#### Artikel 1.2. Reikwijdte
+##### Artikel 1.2. Reikwijdte
 
 Deze regeling is van toepassing op pensioenfondsen als bedoeld in [artikel 1 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=1) die hun zetel hebben in de openbare lichamen Bonaire, Sint Eustatius of Saba.
 
 ### Hoofdstuk 2. Kwartaalstaten
 
-#### Artikel 2.1. Modellen
+##### Artikel 2.1. Modellen
 
 Met inachtneming van de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029704&hoofdstuk=2&artikel=2.2&z=2011-03-12&g=2011-03-12) en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0029704&hoofdstuk=2&artikel=2.3&z=2011-03-12&g=2011-03-12) en voor zover van toepassing verstrekt een pensioenfonds aan de Bank de volgende gegevens, door middel van de volgende modellen van staten als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029704&bijlage=1&z=2011-03-12&g=2011-03-12):
 
@@ -50,13 +76,13 @@ Met inachtneming van de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 - f. het model van staat K602: gegevens betreffende de kenmerken van de door het pensioenfonds uitgevoerde pensioenregeling of pensioenregelingen, als bedoeld in [artikel 34, eerste lid, onderdeel j, onder 1°, en onderdeel **p**, en tweede lid, onderdelen a en c, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&artikel=34).
 
-#### Artikel 2.2. Regels met betrekking tot de gegevensverstrekking
+##### Artikel 2.2. Regels met betrekking tot de gegevensverstrekking
 
 1. Voor wat betreft de kwartaalstaten zijn de regels met betrekking tot de reikwijdte en de mate van detaillering van de te verstrekken gegevens, de waardering van de posten, de te hanteren rekeneenheid en de afronding, bedoeld in [artikel 36, aanhef en onderdelen b tot en met e, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&artikel=36) gesteld in de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029704&bijlage=1&z=2011-03-12&g=2011-03-12) opgenomen modellen van de kwartaalstaten.
 
 2. De voor de kwartaalstaten te hanteren valuta, bedoeld in [artikel 36, onderdeel **d**, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&artikel=36), is de dollar (USD).
 
-#### Artikel 2.3. Indieningstermijn en -frequentie
+##### Artikel 2.3. Indieningstermijn en -frequentie
 
 1. Een pensioenfonds verstrekt de in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029704&hoofdstuk=2&artikel=2.1&z=2011-03-12&g=2011-03-12) bedoelde kwartaalstaten met de volgende frequentie aan de Bank:
 
@@ -76,7 +102,7 @@ Met inachtneming van de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ### Hoofdstuk 3. Jaarstaten
 
-#### Artikel 3.1. Modellen
+##### Artikel 3.1. Modellen
 
 Met inachtneming van de [artikelen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029704&hoofdstuk=3&artikel=3.2&z=2011-03-12&g=2011-03-12) en [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0029704&hoofdstuk=3&artikel=3.3&z=2011-03-12&g=2011-03-12) en voor zover van toepassing verstrekt een pensioenfonds aan de Bank de volgende gegevens, door middel van de volgende modellen van staten als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029704&bijlage=2&z=2011-03-12&g=2011-03-12):
 
@@ -114,7 +140,7 @@ Met inachtneming van de [artikelen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 - q. het model van staat J902: gegevens betreffende de uitvoering van een VUT-regeling, als bedoeld in [artikel 34, eerste lid, onderdeel n, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&artikel=34).
 
-#### Artikel 3.2. Regels met betrekking tot de gegevensverstrekking en de inhoud van schriftelijke controleverklaringen
+##### Artikel 3.2. Regels met betrekking tot de gegevensverstrekking en de inhoud van schriftelijke controleverklaringen
 
 1. Voor wat betreft de jaarstaten zijn de regels met betrekking tot de reikwijdte en de mate van detaillering van de te verstrekken gegevens, de waardering van de posten, de te hanteren rekeneenheid en de afronding, bedoeld in [artikel 36, aanhef en onderdelen b tot en met e, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&artikel=36), gesteld in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029704&bijlage=2&z=2011-03-12&g=2011-03-12) opgenomen modellen van de jaarstaten.
 
@@ -126,7 +152,7 @@ Met inachtneming van de [artikelen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 5. De verzending van de schriftelijke controleverklaring, bedoeld in [artikel 37, vierde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&artikel=37), geschiedt door verzending aan de Bank van een afdruk van het ingevulde model van jaarstaat J104 als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029704&bijlage=2&z=2011-03-12&g=2011-03-12), voorzien van een handgeschreven handtekening van het bestuur.
 
-#### Artikel 3.3. Indieningstermijn en -frequentie
+##### Artikel 3.3. Indieningstermijn en -frequentie
 
 1. Een pensioenfonds verstrekt de in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029704&hoofdstuk=3&artikel=3.1&z=2011-03-12&g=2011-03-12) bedoelde gegevens eenmaal per kalenderjaar aan de Bank.
 
@@ -134,17 +160,17 @@ Met inachtneming van de [artikelen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 4.1. Overgangsbepaling
+##### Artikel 4.1. Overgangsbepaling
 
 1. Gelet op [artikel 32, tweede lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=32) verstrekt een pensioenfonds de in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029704&hoofdstuk=3&artikel=3.1&z=2011-03-12&g=2011-03-12) bedoelde gegevens voor de periode vanaf 10 oktober 2010 tot en met 31 december 2010 tezamen met de gegevens over het kalenderjaar 2011.
 
 2. Gelet op [artikel 32, tweede lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=32) verstrekt een pensioenfonds de in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029704&hoofdstuk=2&artikel=2.1&z=2011-03-12&g=2011-03-12) bedoelde gegevens, met uitzondering van kwartaalstaat K401, voor de periode vanaf 10 oktober 2010 tot en met 31 december 2010 tezamen met de gegevens over het eerste kalenderkwartaal van 2011. Een pensioenfonds verstrekt de in kwartaalstaat K401 bedoelde premiegegevens, voor zover deze betrekking hebben op het lopende kalenderjaar 2011, uiterlijk op 31 maart 2011 aan de Bank.
 
-#### Artikel 4.2. Inwerkingtreding
+##### Artikel 4.2. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de **Staatscourant** waarin zij wordt geplaatst en werkt terug tot en met 10 oktober 2010.
 
-#### Artikel 4.3. Citeertitel
+##### Artikel 4.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling informatieverstrekking pensioenfondsen BES.
 

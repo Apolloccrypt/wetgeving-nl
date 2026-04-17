@@ -1,26 +1,52 @@
 ---
-title: "Beleidsregel aanhouden geneesmiddelenvoorraden 2024"
+title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 16 november 2023, kenmerk 3721750-1056382-GMT, inzake vaststellen beleidsregels met betrekking tot het aanhouden van voorraden van geneesmiddelen 2024"
 identifier: "BWBR0049065"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049065"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049065"
+soort: "ministeriele-regeling"
+stam_id: "16960103"
+version_id: "29812192"
+internal_id: "C42727711"
+label_id: "16870604"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049065/2024-01-01/0"
+intitule_bron: "Stcrt.2023-32152"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-11-16"
+intitule_published: "2023-12-01"
+intitule_in_force: "2023-12-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-32152"
+original_signed_date: "2023-11-16"
+original_published_date: "2023-12-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-32152"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0049065&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0049065&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel aanhouden geneesmiddelenvoorraden 2024"
+signed_date: "2023-11-16"
+entry_into_force: "2024-01-01"
 ---
-
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 16 november 2023, kenmerk 3721750-1056382-GMT, inzake vaststellen beleidsregels met betrekking tot het aanhouden van voorraden van geneesmiddelen 2024
 
 Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en de [artikelen 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=36), en [49, negende lid, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=49),
 
 Besluit de volgende beleidsregels vast te stellen met betrekking tot het aanhouden van voorraden van geneesmiddelen:
 
-#### 1. Inleiding en doel
+##### 1. Inleiding en doel
 
 De beschikbaarheid van geneesmiddelen voor de Nederlandse markt is van groot belang voor de volksgezondheid. Tekorten aan geneesmiddelen kunnen leiden tot nadelige consequenties voor de keten in zijn geheel: hinder voor de zorgverleners en patiënten, mogelijke schade voor de patiënt, maatschappelijke onrust en financiële consequenties voor ketenpartners. Met het aanhouden van voldoende voorraad door houders van handelsvergunningen en groothandelaren in geneesmiddelen kunnen de gevolgen van een leveringsonderbreking verminderd of voorkomen worden.
 
 Deze beleidsregel strekt ertoe de verplichting voor groothandelaren om zorg te dragen dat ‘(…) geneesmiddelen in voldoende mate continu voorradig zijn (…)’ in [artikel 36, tweede lid, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=36) en de verplichting voor handelsvergunninghouders om zorg te dragen dat het geneesmiddel ‘(…) in voldoende mate continu voorradig is (…)’ in [artikel 49, negende lid, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=49)1[Artikel III, onderdelen A en B, van de Verzamelwet VWS 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0048617&artikel=III) (Stb. 2023, 293). te concretiseren. Groothandelaren en handelsvergunninghouders zijn hiermee verplicht om – kortweg – ‘voldoende voorraad’ van geneesmiddelen aan te houden. De onderbouwing van deze concretisering zijn nader toegelicht in de brief van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 23 november 2021.2Kamerstukken II, 2021/22 29 477, nr. 735.
 
-#### 2. Reikwijdte
+##### 2. Reikwijdte
 
 Deze beleidsregel is van toepassing op UR-geneesmiddelen. De beleidsregel is niet van toepassing op zelfzorggeneesmiddelen (in de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505) aangeduid als UA-, UAD- en AV-geneesmiddelen). Dit neemt niet weg dat ook voor die geneesmiddelen de verplichtingen uit [artikel 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=36), en [artikel 49, negende lid, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=49) onverminderd van toepassing zijn. Deze geneesmiddelen hebben een andere marktwerking en een andere distributieketen. Verder zijn deze geneesmiddelen doorgaans breder beschikbaar. Ten slotte zijn in het verleden voor zelfzorggeneesmiddelen slechts incidenteel tekorten gemeld. Om deze reden vindt geen nadere concretisering plaats van wat voldoende voorraad betekent voor deze geneesmiddelen.
 
@@ -46,7 +72,7 @@ Deze beleidsregel is alleen van toepassing op groothandelaren die de verplichtin
 
 Voor de goede orde wordt opgemerkt dat collegiaal doorleverende apothekers en parallelhandelvergunninghouders niet onder reikwijdte van deze beleidsregel vallen omdat deze partijen niet onder voornoemde artikelen van de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505) vallen.
 
-#### 3. Juridisch kader
+##### 3. Juridisch kader
 
 De plicht van de groothandelaar is neergelegd in [artikel 36, tweede lid, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=36). Deze zal met de inwerkingtreding [Verzamelwet VWS 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0048617)4[Artikel III, onderdelen A, van de Verzamelwet VWS 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0048617&artikel=III) (Stb. 2023, 293). per 1 januari 2024 als volgt luiden:
 
@@ -60,7 +86,7 @@ Hiermee is artikel 81, tweede alinea, van [Richtlijn 2001/83/EG](32001L0083) van
 
 **‘Houders van een vergunning voor het in de handel brengen van een geneesmiddel en distributeurs van dat geneesmiddel, nadat het eenmaal in een lidstaat in de handel is gebracht, zorgen ervoor, voor zover hun verantwoordelijkheden dat toelaten, dat dat geneesmiddel voor apotheken en personen die gemachtigd zijn geneesmiddelen te distribueren7Apotheken en personen die gemachtigd zijn geneesmiddelen te distribueren zijn in de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505) apothekers en personen die bevoegd zijn geneesmiddelen ter hand te stellen als genoemd in [artikel 61 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=61). in voldoende mate continu voorradig is om in de behoeften van de patiënten in die lidstaat te voorzien.’**
 
-#### 4. Concretisering van de term voldoende voorraad
+##### 4. Concretisering van de term voldoende voorraad
 
 Partijen zijn volgens de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505) verplicht om – kortweg – ‘voldoende voorraad’ van geneesmiddelen aan te houden voor degenen die bevoegd zijn om ter hand te stellen respectievelijk voor groothandelaren en apothekers om in de behoeften van patiënten te kunnen voorzien.
 
@@ -110,23 +136,23 @@ De plicht van de handelsvergunninghouder en de groothandelaar geldt ‘voor zove
 
 In het werkdocument over de verplichting tot continue levering in verband met het probleem van Geneesmiddelentekorten van de Europese Commissie van 25 mei 20189Paper on the obligation of continuous supply to tackle the problem of shortages of medicines (European Commission). Beschikbaar via [https://ec.europa.eu/health/system/files/2018-10/ev_20180525_rd01_en_0.pdf](onbekend) zijn de grenzen van de verantwoordelijkheden van handelsvergunninghouders en groothandelaren wat betreft het aanhouden van voldoende voorraad geduid, zie [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049065&bijlage=1&z=2024-01-01&g=2024-01-01). Deze duiding van verantwoordelijkheden is van overeenkomstige toepassing.
 
-#### 5. Interventie
+##### 5. Interventie
 
 Indien de groothandelaar of de handelsvergunninghouder – voor zover hun verantwoordelijkheden dat toelaten – niet zorgdraagt of heeft zorggedragen om ‘voldoende mate continu voorradig’ te zijn kan er sprake zijn van overtreding van [artikel 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=36) of [artikel 49, negende lid van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=49).
 
-#### 6. Evaluatie
+##### 6. Evaluatie
 
 Deze beleidsregel wordt periodiek geëvalueerd op uitvoerbaarheid en handhaafbaarheid en zal indien nodig worden geactualiseerd.
 
-#### 7. Intrekking vorige beleidsregels
+##### 7. Intrekking vorige beleidsregels
 
 De [Beleidsregel aanhouden geneesmiddelenvoorraden](https://wetten.overheid.nl/jci1.3:c:BWBR0047002) wordt ingetrokken.
 
-#### 8. Inwerkingtreding
+##### 8. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2024.
 
-#### 9. Citeertitel
+##### 9. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel aanhouden geneesmiddelenvoorraden 2024.
 

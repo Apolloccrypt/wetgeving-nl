@@ -1,13 +1,39 @@
 ---
-title: "Regeling financiering politieke partijen"
+title: "Regeling van 19 april 2013, nr. 2013-0000217521, houdende vaststelling van regels over de reikwijdte, de intensiteit en de verslaglegging van het onderzoek van de accountant en eisen aan de inrichting van het activiteitenplan en de begroting (Regeling financiering politieke partijen)"
 identifier: "BWBR0033335"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2025-04-01
-laatste_update: 2025-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033335"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-04-01"
+last_updated: "2025-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033335"
+soort: "ministeriele-regeling"
+stam_id: "12233143"
+version_id: "30652202"
+internal_id: "C43945011"
+label_id: "12204584"
+dtd_version: "2.0"
+original_entry_into_force: "2025-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033335/2025-04-01/0"
+intitule_bron: "Stcrt.2013-11115"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-04-19"
+intitule_published: "2013-04-26"
+intitule_in_force: "2013-03-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-6489"
+original_signed_date: "2025-03-18"
+original_published_date: "2025-03-21"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-6489"
+entry_into_force_date: "2025-04-01"
+jci_1_3: "jci1.3:c:BWBR0033335&z=2025-04-01&g=2025-04-01"
+jci_1_0: "1.0:c:BWBR0033335&g=2025-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling financiering politieke partijen"
+signed_date: "2025-03-18"
+entry_into_force: "2025-04-01"
 ---
-
 # Regeling van 19 april 2013, nr. 2013-0000217521, houdende vaststelling van regels over de reikwijdte, de intensiteit en de verslaglegging van het onderzoek van de accountant en eisen aan de inrichting van het activiteitenplan en de begroting (Regeling financiering politieke partijen)
 
 Gelet op de [artikelen 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&artikel=11), en [27, tweede lid, van de Wet financiering politieke partijen](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&artikel=27);
@@ -18,7 +44,7 @@ Treedt in werking op het tijdstip waarop de Wet financiering politieke partijen 
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -34,25 +60,25 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Reikwijdte en intensiteit van het onderzoek door de accountant
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 De accountant wijst de politieke partij op onjuistheden in het verslag en de overzichten, en verzoekt de partij deze te herstellen. Indien onjuistheden niet zijn hersteld, worden deze in de accountantsverklaring vermeld.
 
-#### Artikel 5
+##### Artikel 5
 
 Voor de accountantsverklaring gebruikt de accountant de modellen die in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033335&bijlage=1&z=2025-04-01&g=2025-04-01) bij deze regeling zijn opgenomen.
 
 #### § 3. Inrichting van het activiteitenplan en de begroting
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het activiteitenplan bevat over de te verrichten activiteiten voldoende gegevens om te kunnen beoordelen of deze activiteiten op grond van de wet voor subsidie in aanmerking komen. Het plan geeft gemotiveerd aan onder welke categorie als bedoeld in [artikel 7, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&artikel=7) de activiteiten ressorteren en bevat gegevens over de aanvang en het einde van een activiteit.
 
@@ -60,15 +86,15 @@ Voor de accountantsverklaring gebruikt de accountant de modellen die in [bijlage
 
 #### § 3. Inrichting van het activiteitenplan en de begroting
 
-#### Artikel 7
+##### Artikel 7
 
 De [Regeling subsidiëring politieke partijen](https://wetten.overheid.nl/jci1.3:c:BWBR0010602) wordt ingetrokken.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling treedt in werking op het tijdstip waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033004) in werking treedt.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling financiering politieke partijen.
 
@@ -162,7 +188,7 @@ Onderdeel A van het financieel verslag bestaat uit de volgende elementen van [ar
 
 Deze regeling wordt met de toelichting in de Staatscourant geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. De politieke partij gebruikt bij het opstellen van het verslag het model opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033335&bijlage=2&z=2025-04-01&g=2025-04-01) bij deze regeling.
 
@@ -170,7 +196,7 @@ Deze regeling wordt met de toelichting in de Staatscourant geplaatst.
 
 #### § 2. Reikwijdte en intensiteit van het onderzoek door de accountant
 
-#### Artikel 4a
+##### Artikel 4a
 
 De accountant vermeldt een overtreding van [artikel 23a, eerste tot en met derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&artikel=23a) en/of in dat verband ontbrekende gegevens in het financieel verslag in een verslag van bevindingen, dat samen met de accountantsverklaring wordt ingediend.
 

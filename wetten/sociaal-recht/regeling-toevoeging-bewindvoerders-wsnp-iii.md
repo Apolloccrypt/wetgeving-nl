@@ -1,13 +1,38 @@
 ---
 title: "Regeling toevoeging bewindvoerders Wsnp III"
 identifier: "BWBR0050296"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-11-01
-laatste_update: 2024-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050296"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-11-01"
+last_updated: "2024-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050296"
+soort: "zbo"
+stam_id: "17241213"
+version_id: "30364182"
+internal_id: "C43549401"
+label_id: "17147004"
+dtd_version: "2.0"
+original_entry_into_force: "2024-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050296/2024-11-01/0"
+intitule_bron: "Stcrt.2024-33400"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-10-01"
+intitule_published: "2024-10-16"
+intitule_in_force: "2024-10-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-33400"
+original_signed_date: "2024-10-01"
+original_published_date: "2024-10-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-33400"
+entry_into_force_date: "2024-11-01"
+jci_1_3: "jci1.3:c:BWBR0050296&z=2024-11-01&g=2024-11-01"
+jci_1_0: "1.0:c:BWBR0050296&g=2024-11-01"
+citeertitel_status: "officieel"
+signed_date: "2024-10-01"
+entry_into_force: "2024-11-01"
 ---
-
 # Regeling toevoeging bewindvoerders Wsnp III
 
 overwegende dat de werkzaamheden van bewindvoerders Wsnp krachtens de [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368) door de Raad voor Rechtsbijstand kunnen worden vergoed;
@@ -22,7 +47,7 @@ stelt de volgende regeling vast:
 
 ### Hoofdstuk I. Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -88,11 +113,11 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk II. Voorwaarden en beëindiging
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Deze regeling heeft tot doel de vergoeding te regelen van de bewindvoerder Wsnp voor het verlenen van rechtsbijstand aan rechtzoekenden in de verzoekschriftprocedures zoals bedoeld in [artikel 1 onder w](https://wetten.overheid.nl/jci1.3:c:BWBR0050296&hoofdstuk=I&artikel=1&z=2024-11-01&g=2024-11-01) van deze regeling.
 
-#### Artikel 3. Voorwaarden van deelname
+##### Artikel 3. Voorwaarden van deelname
 
 1. De Raad sluit in het kader van deze regeling een overeenkomst met de bewindvoerder Wsnp die op het moment van het sluiten van de overeenkomst:
 
@@ -108,7 +133,7 @@ Deze regeling heeft tot doel de vergoeding te regelen van de bewindvoerder Wsnp 
 
 - f). zich conformeert aan de gedragsregels.
 
-#### Artikel 4. Beëindiging van de overeenkomst
+##### Artikel 4. Beëindiging van de overeenkomst
 
 1. De Raad besluit de overeenkomst met een opzegtermijn van één maand te beëindigen als:
 
@@ -128,7 +153,7 @@ Deze regeling heeft tot doel de vergoeding te regelen van de bewindvoerder Wsnp 
 
 ### Hoofdstuk III. De toevoeging en de vergoeding
 
-#### Artikel 5. De toevoeging
+##### Artikel 5. De toevoeging
 
 1. De bewindvoerder Wsnp die deelneemt aan deze regeling kan één toevoeging aanvragen. Deze toevoeging geldt voor de navolgende verzoekschriftprocedures:
 
@@ -156,7 +181,7 @@ Deze regeling heeft tot doel de vergoeding te regelen van de bewindvoerder Wsnp 
 
 9. De rechtsbijstand waarvoor een toevoeging kan worden verleend, is strikt beperkt tot het voeren van verzoekschriftprocedures zoals bedoeld in [artikel 1 onder w](https://wetten.overheid.nl/jci1.3:c:BWBR0050296&hoofdstuk=I&artikel=1&z=2024-11-01&g=2024-11-01) van deze regeling.
 
-#### Artikel 6. De vergoeding
+##### Artikel 6. De vergoeding
 
 1. De vergoeding voor rechtsbijstand aan een particulier in het kader van deze regeling wordt vastgesteld op:
 
@@ -184,7 +209,7 @@ Deze regeling heeft tot doel de vergoeding te regelen van de bewindvoerder Wsnp 
 
 9. De zittingstoeslag zoals bedoeld in [artikel 7 Bvr](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=7), de opvolgingstoeslag zoals bedoeld in [artikel 9 Bvr](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=9), samenhang zoals bedoeld in [artikel 11 Bvr](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=11), de regeling voor advies zoals bedoeld in [artikel 12 Bvr](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=12), de regeling voor bewerkelijke zaken zoals bedoeld in [artikel 13 Bvr](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=13) en de voorschotregeling zoals bedoeld in [artikel 35 Bvr](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=35), zijn niet van toepassing.
 
-#### Artikel 7. Aanvraag vergoeding
+##### Artikel 7. Aanvraag vergoeding
 
 1. Binnen zes maanden na afronding van de rechtsbijstand die in het kader van deze regeling wordt vergoed, vraagt de bewindvoerder Wsnp de vergoeding aan via een door de Raad opgesteld formulier.
 
@@ -202,12 +227,12 @@ Deze regeling heeft tot doel de vergoeding te regelen van de bewindvoerder Wsnp 
 
 ### Hoofdstuk IV. Slotbepalingen
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 1. Deze regeling treedt in werking op 1 november 2024. De regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. Op toevoegingen die zijn afgegeven voor de inwerkingtreding van deze regeling, blijven de regelingen ‘[Regeling toevoeging bewindvoerders Wsnp II](https://wetten.overheid.nl/jci1.3:c:BWBR0041256)’ (Staatscourant 2018, 46882) en ‘[Regeling pilot toevoeging verzoek toelating Wsnp](https://wetten.overheid.nl/jci1.3:c:BWBR0045061)’ (Staatscourant 2021, 19863) van toepassing.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling toevoeging bewindvoerders Wsnp III.

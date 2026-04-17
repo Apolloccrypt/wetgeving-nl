@@ -1,13 +1,37 @@
 ---
 title: "Instellingsbeschikking Commissie-Swart"
 identifier: "BWBR0005437"
-categorie: "Bestuursrecht"
-publicatiedatum: 1992-06-01
-laatste_update: 1992-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005437"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1992-06-01"
+last_updated: "1992-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005437"
+soort: "ministeriele-regeling"
+stam_id: "3722933"
+version_id: "5505772"
+internal_id: "C5698861"
+label_id: "3702654"
+dtd_version: "2.0"
+original_entry_into_force: "1992-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005437/1992-06-01/0"
+intitule_bron: "Stcrt.1992-74"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-03-05"
+intitule_published: "1992-04-14"
+intitule_in_force: "1992-04-14"
+intitule_status: "goed"
+original_publication: "Stcrt.1992-74"
+original_signed_date: "1992-03-05"
+original_published_date: "1992-04-14"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1992-06-01"
+jci_1_3: "jci1.3:c:BWBR0005437&z=1992-06-01&g=1992-06-01"
+jci_1_0: "1.0:c:BWBR0005437&g=1992-06-01"
+citeertitel_status: "officieel"
+signed_date: "1992-03-05"
+entry_into_force: "1992-06-01"
 ---
-
 # Instellingsbeschikking Commissie-Swart
 
 Overwegende, dat het wenselijk is om te onderzoeken of de bepalingen in het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) betreffende Internationale Rechtshulp in het licht van de steeds toenemende behoefte aan internationaal strafrechtelijke samenwerking beantwoorden aan de behoeften van de praktijk;

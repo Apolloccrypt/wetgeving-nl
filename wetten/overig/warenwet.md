@@ -1,0 +1,802 @@
+---
+title: "Wet van 28 december 1935, houdende voorschriften betreffende de hoedanigheid en aanduiding van waren"
+identifier: "BWBR0001969"
+country: "nl"
+rank: "wet"
+publication_date: "2025-07-12"
+last_updated: "2025-07-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001969"
+soort: "wet"
+stam_id: "1794323"
+version_id: "30043772"
+internal_id: "C44031611"
+label_id: "1749994"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001969/2025-07-12/0"
+intitule_bron: "Stb.1935-793"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1935-12-28"
+intitule_status: "goed"
+original_publication: "Stb.2024-87"
+original_signed_date: "2024-04-08"
+original_published_date: "2024-04-15"
+original_effect: "structuurwijziging"
+original_dossier: "36380"
+original_url_id: "stb-2024-87"
+entry_into_force_date: "2025-06-28"
+jci_1_3: "jci1.3:c:BWBR0001969&z=2025-07-12&g=2025-07-12"
+jci_1_0: "1.0:c:BWBR0001969&g=2025-07-12"
+citeertitel_status: "officieel"
+short_title: "Warenwet"
+signed_date: "2024-04-08"
+entry_into_force: "2025-06-28"
+---
+# Wet van 28 december 1935, houdende voorschriften betreffende de hoedanigheid en aanduiding van waren
+
+Allen, die deze zullen zien of hooren lezen, salut! doen te weten:
+
+Alzoo Wij in overweging genomen hebben, dat het noodzakelijk is in verband met de huidige omstandigheden gewijzigde wettelijke voorschriften vast te stellen ter bevordering van de goede hoedanigheid van waren, en regelen vast te stellen betreffende de aanduiding van waren;
+
+Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+##### Artikel 1
+
+1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
+
+- a. waren: roerende zaken waaronder eetwaren, met inbegrip van kauwpreparaten andere dan tabak, en drinkwaren alsmede bij algemene maatregel van bestuur aan te wijzen onroerende zaken;
+
+- b. eet- en drinkwaren: levensmiddelen, bedoeld in artikel 2 van [verordening (EG) nr. 178/2002](32002R0178) van het Europees Parlement en de Raad van 28 januari 2002 tot vaststelling van de algemene beginselen en voorschriften van de levensmiddelenwetgeving, tot oprichting van een Europese Autoriteit voor voedselveiligheid en tot vaststelling van procedures voor voedselveiligheidsaangelegenheden (PbEG L 31);
+
+- c. technisch voortbrengsel: iedere technisch voortgebrachte waar, niet zijnde een eet- of drinkwaar;
+
+- d. Onze Minister:
+
+- 1°. Onze Minister van Volksgezondheid, Welzijn en Sport, dan wel
+
+- 2°. Onze Minister van Sociale Zaken en Werkgelegenheid, voor zover het te nemen besluit of te regelen onderwerp voor beroepsmatige toepassing bestemde persoonlijke beschermingsmiddelen, machines en verwante producten dan wel andere technische voortbrengselen betreft of indien het te nemen besluit of te regelen onderwerp liften, containers, drukvaten van eenvoudige vorm of drukapparatuur en samenstellen daarvan dan wel explosieveilig materieel betreft;
+
+- e. verhandelen: het te koop aanbieden, uitstallen, tentoonstellen, verkopen, afleveren of voorhanden of in voorraad hebben van een waar;
+
+- f. bijlage: de bijlage, bedoeld in [artikel 32b](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=32b&z=2025-07-12&g=2025-07-12);
+
+- g. Verordening (EU) nr. 952/2013: Verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PbEU 2013, L 269);
+
+- h. richtlijn (EU) 2019/882: [Richtlijn (EU) 2019/882](32019L0882) van het Europees Parlement en de Raad van 17 april 2019 betreffende de toegankelijkheidsvoorschriften voor producten en diensten (PbEU 2019, L 151);
+
+- i. Verordening (EU) 2019/1020: [Verordening (EU) 2019/1020](32920R2019) van het Europees Parlement en de Raad van 20 juni 2019 betreffende markttoezicht en conformiteit van producten en tot wijziging van [Richtlijn 2004/42/EG](32004L0042) en de [Verordeningen (EG) nr. 765/2008](32008R0765) en (EU) [nr. 305/2011](32011R0305) (PbEU 2019, L 169);
+
+- j. Verordening (EU) 2023/988: [Verordening (EU) 2023/988](32023R0988) van het Europees Parlement en de Raad van 10 mei 2023 inzake algemene productveiligheid, tot wijziging van [Verordening (EU) nr. 1025/2012](32012R1025) van het Europees Parlement en de Raad en [Richtlijn (EU) 2020/1828](32020L1828) van het Europees Parlement en de Raad, en tot intrekking van [Richtlijn 2001/95/EG](32001L0095) van het Europees Parlement en de Raad en [Richtlijn 87/357/EEG](31987L0357) van de Raad (PbEU 2023, L 135).
+
+2. Deze wet is niet van toepassing ten aanzien van hetgeen geschiedt in de sfeer van de particuliere huishouding of van een daarmee bij algemene maatregel van bestuur gelijkgestelde andere huishouding, met dien verstande dat bij algemene maatregel van bestuur ten aanzien van technische voortbrengselen anders kan worden bepaald.
+
+3. Deze wet is ten aanzien van het voorhanden of in voorraad hebben van een waar niet van toepassing indien aannemelijk kan worden gemaakt dat de waar niet voor aflevering en indien het een technisch voortbrengsel betreft, tevens niet voor gebruik bestemd is. Voorts is deze wet ten aanzien van het afleveren van een waar niet van toepassing indien aannemelijk kan worden gemaakt dat het afleveren geschiedt ter vernietiging van de waar of om de waar in overeenstemming te brengen met regels, bij of krachtens deze wet met betrekking tot die waar gesteld.
+
+4. Bij algemene maatregel van bestuur gestelde regels kunnen een beperking inhouden tot daarbij omschreven categorieën van gevallen. Met betrekking tot het verhandelen van waren kunnen zij eveneens een beperking inhouden tot een of meer der in het eerste lid als verhandelen aangemerkte handelingen.
+
+5. Bij algemene maatregel van bestuur kunnen ter uitvoering van verplichtingen voortvloeiende uit een internationaal verdrag voorts krachtens deze wet gestelde regels, bij de maatregel aangegeven, ten aanzien van waren, behorende tot een bij de maatregel aangewezen categorie, of voor bij de maatregel omschreven categorieën van gevallen geheel of gedeeltelijk buiten toepassing worden verklaard. Van de plaatsing van de algemene maatregel van bestuur wordt onverwijld mededeling gedaan aan de beide Kamers der Staten-Generaal.
+
+##### Artikel 2
+
+1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=2a&z=2025-07-12&g=2025-07-12) in werking worden gesteld.
+
+2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepaling.
+
+3. Wordt het voorstel van wet door de Staten-Generaal verworpen, dan wordt bij koninklijk besluit, op voordracht van Onze Minister-President, de bepaling die ingevolge het eerste lid in werking is gesteld, onverwijld buiten werking gesteld.
+
+4. Bij koninklijk besluit, op voordracht van Onze Minister-President, wordt de bepaling die ingevolge het eerste lid in werking is gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.
+
+5. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking.
+
+6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het **Staatsblad**.
+
+##### Artikel 2a
+
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
+
+Onze Minister van Defensie kan gebieden aanwijzen, waarin deze wet niet van toepassing is op voor militair gebruik bestemde waren.
+
+##### Artikel 3
+
+1. Met betrekking tot waren kunnen ter uitvoering van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=1a&z=2025-07-12&g=2025-07-12) en [4 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=4&z=2025-07-12&g=2025-07-12), regels worden gesteld:
+
+- a. in het belang van de volksgezondheid, van de veiligheid, van de eerlijkheid in de handel of van goede voorlichting omtrent waren, en
+
+- b. indien het technische voortbrengselen betreft, tevens in het belang van de gezondheid van de mens of van de veiligheid van zaken.
+
+2. Met betrekking tot producten, als bedoeld in artikel 3, onder punt 2, van [richtlijn (EU) 2019/882](32019L0882), kunnen ter uitvoering van die richtlijn regels gesteld worden in het belang van de toegankelijkheid van die producten.
+
+##### Artikel 4
+
+1. Ten behoeve van het weren van waren
+
+- a. die bij aanwending overeenkomstig redelijkerwijze te verwachten gebruik uit het oogpunt van gezondheid of veiligheid schadelijk kunnen zijn,
+
+- b. die, indien het technische voortbrengselen betreft, een gevaar kunnen opleveren voor de gezondheid van de mens of de veiligheid van zaken, of
+
+- c. waarvan bij zodanige aanwending de voedings- of gebruikswaarde geringer is dan in redelijkheid ten minste mag worden verlangd,
+
+kan bij algemene maatregel van bestuur worden verboden waren, behorende tot een bij de maatregel aangewezen categorie, te bereiden, te vervaardigen, te verhandelen of voor een bij het verbod aangegeven doel te verwerken of te bezigen, die niet voldoen aan de eisen, bij de maatregel gesteld met betrekking tot hun samenstelling of uitvoering of met betrekking tot hun hoedanigheid of eigenschappen.
+
+2. De eisen, bedoeld in het eerste lid, kunnen voor wat betreft technische voortbrengselen onder meer betrekking hebben op:
+
+- a. het ontwerp;
+
+- b. de toegepaste materialen;
+
+- c. de samenstelling of constructie;
+
+- d. de beveiliging of beveiligingsmiddelen; of
+
+- e. de aan te brengen kentekenen.
+
+3. Bij algemene maatregel van bestuur kan in de in het eerste lid aangegeven gevallen ten aanzien van technische voortbrengselen tevens het gebruik daarvan worden verboden.
+
+4. Met betrekking tot eet- of drinkwaren die een wezenlijk onderdeel van het gangbare voedingspakket uitmaken, kan bij algemene maatregel van bestuur aan het eerste lid overeenkomstige toepassing worden gegeven ter bevordering van de aanwezigheid in die waren van uit het oogpunt van gezondheid belangrijke voedingsstoffen. Bij zodanige maatregel wordt tevens voorzien in een vrijstelling voor de betrokken eet- of drinkwaren waarin de desbetreffende voedingsstoffen niet of in geringere mate aanwezig zijn, onder de voorwaarde dat wordt voldaan aan bij die maatregel gestelde voorschriften met betrekking tot het bezigen van vermeldingen of voorstellingen betreffende de afwezigheid of de geringere mate van aanwezigheid van de desbetreffende voedingsstoffen.
+
+5. In de gevallen waarin ter zake van het verwerken of bezigen van een waar een krachtens het eerste of vierde lid gesteld verbod geldt, is het tevens verboden die waar voorhanden of in voorraad te hebben. Het in de vorige volzin bepaalde geldt niet indien aannemelijk kan worden gemaakt dat de waar niet voor een met het gestelde verbod strijdige toepassing bestemd is.
+
+6. Het ontwerp van een algemene maatregel van bestuur als bedoeld in het vierde lid, wordt alvorens de voordracht wordt gedaan, aan beide Kamers der Staten-Generaal overgelegd. Binnen 30 dagen vanaf de dag, waarop de overlegging is geschied kan door een der Kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der Kamers de wens worden te kennen gegeven dat het in het ontwerp te regelen onderwerp bij de wet wordt geregeld. Alsdan wordt een daartoe strekkend wetsvoorstel zo spoedig mogelijk ingediend.
+
+##### Artikel 5
+
+1. Voor de doeleinden, omschreven in [artikel 4, eerste lid, onder a, b en c, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=4&z=2025-07-12&g=2025-07-12), kan voorts bij algemene maatregel van bestuur worden verboden waren, behorende tot een bij de algemene maatregel aangewezen categorie, te bereiden, te vervaardigen, te behandelen, te bewerken, te verwerken, te verpakken, te bewaren, te vervoeren te verhandelen of te gebruiken:
+
+- a. anders dan met inachtneming van daaromtrent bij de maatregel gestelde voorschriften,
+
+- 1°. betrekking hebbende op de wijze waarop bedoelde handelingen worden verricht, op voorwerpen, gereedschappen of materialen die bij het verrichten van bedoelde handelingen worden gebezigd, of op de - al dan niet besloten - ruimten waarin bedoelde handelingen plaatshebben, en hetgeen in of bij die ruimten aanwezig is, of
+
+- 2°. bevattende de eisen van hygiëne, geldende ten aanzien van personen die bij het verrichten van bedoelde handelingen betrokken zijn;
+
+- b. zonder vergunning, verleend door Onze Minister of door een bij de maatregel aangewezen bestuursorgaan;
+
+- c. voordat Onze Minister of een bij de maatregel aangewezen andere minister dan Onze Minister of ander bestuursorgaan op de hoogte is gesteld van bij de maatregel aangewezen gegevens betreffende de samenstelling of verhandeling van de waar.
+
+2. Voor de doeleinden, omschreven in [artikel 4, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=4&z=2025-07-12&g=2025-07-12), kan ten aanzien van bij algemene maatregel van bestuur aan te wijzen technische voortbrengselen, tevens bij algemene maatregel van bestuur worden verboden die technische voortbrengselen te gebruiken, te installeren, te monteren, te herstellen, te onderhouden, na te zien of ten toon te stellen:
+
+- a. anders dan met inachtneming van daaromtrent bij algemene maatregel van bestuur gestelde voorschriften,
+
+- 1°. bevattende eisen van deskundigheid, geldende ten aanzien van personen die bij het verrichten van bedoelde handelingen betrokken zijn;
+
+- 2°. betrekking hebbende op het voorhanden zijn en bijhouden van documenten, zoals certificaten, logboeken of gebruiksaanwijzingen;
+
+- 3°. betrekking hebbende op het stilzetten, het afsluiten, het voorzien van opschriften, het merk van afkeuring of het niet bestemd zijn voor gebruik.
+
+- b. zonder vergunning, verleend door Onze Minister of door een bij algemene maatregel van bestuur aangewezen bestuursorgaan.
+
+3. Onze Minister kan in gevallen waarin bij toepassing van het eerste lid, onder **b**, de bevoegdheid tot verlening van vergunning is toegekend aan een ander bestuursorgaan, niet zijnde een of meer van Onze Ministers, ten aanzien van de uitoefening van die bevoegdheid regels stellen.
+
+4. Een vergunning als bedoeld in het eerste en tweede lid, kan slechts worden geweigerd indien gegronde vrees bestaat dat de uitoefening van de werkzaamheid waarvoor zij is gevraagd, niet zal voldoen aan hetgeen met betrekking tot de onderwerpen, in het eerste lid, onder a, en het tweede lid, omschreven, voor de in de aanhef van die leden bedoelde doeleinden moet worden verlangd. Een vergunning kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden, betrekking hebbende op de in de eerste volzin bedoelde onderwerpen. Voor zover zulks bij algemene maatregel van bestuur is bepaald, kan een verleende vergunning worden gewijzigd of ingetrokken.
+
+5. Bij toepassing van het eerste lid, onder **b**, worden bij algemene maatregel van bestuur regels gesteld betreffende de wijze waarop de aanvrage om een vergunning dient te geschieden, en de gegevens die van de aanvrager kunnen worden verlangd.
+
+6. In gevallen waarin toepassing is gegeven aan het eerste of het tweede lid, kan bij algemene maatregel van bestuur tevens worden verboden waren te verhandelen, met betrekking tot welke in afwijking van de bij of krachtens de voorgaande leden gestelde voorschriften is gehandeld.
+
+##### Artikel 6
+
+Voor de doeleinden, omschreven in [artikel 4, eerste lid, onder **a** en **b**, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=4&z=2025-07-12&g=2025-07-12), kan eveneens bij algemene maatregel van bestuur worden verboden:
+
+- a. waren, behorende tot een bij de maatregel aangewezen categorie, te verhandelen of voor wat betreft technische voortbrengselen, tevens te gebruiken, die in een toestand verkeren, welke niet voldoet aan de daaromtrent bij de maatregel gestelde eisen;
+
+- b. waren, behorende tot een bij de maatregel aangewezen categorie, te bereiden, te vervaardigen of te verhandelen, die niet voldoen aan de eisen, bij de maatregel gesteld met betrekking tot hun houdbaarheid;
+
+- c. waren, behorende tot een bij de maatregel aangewezen categorie, te verhandelen of voor wat betreft technische voortbrengselen, tevens te gebruiken na het verstrijken van een bij de maatregel met het oog op hun houdbaarheid gestelde termijn;
+
+- d. waren, behorende tot een bij de maatregel aangewezen categorie, te verhandelen anders dan in een verpakking, dan wel zodanige waren te verhandelen in verpakkingen die niet voldoen aan de daaromtrent bij de maatregel gestelde eisen.
+
+##### Artikel 7
+
+Voor de doeleinden, omschreven in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=4&z=2025-07-12&g=2025-07-12), kan bij algemene maatregel van bestuur worden verboden technische voortbrengselen, behorende tot een bij de maatregel aangewezen categorie, te verhandelen of te gebruiken, indien ten aanzien van die technische voortbrengselen bij of krachtens die maatregel voorgeschreven keurings- of beoordelingsprocedures niet in acht zijn genomen.
+
+##### Artikel 8
+
+1. Ten behoeve van de duidelijkheid voor de afnemers van waren kan bij algemene maatregel van bestuur worden verboden:
+
+- a. waren, behorende tot een bij de maatregel aangewezen categorie, te verhandelen anders dan met inachtneming van de voorschriften, bij de maatregel gesteld met betrekking tot hun aanduiding;
+
+- b. met gebruikmaking van de bij de maatregel aangegeven - of daarop gelijkende - aanduidingen andere waren te verhandelen dan die waaraan die aanduidingen bij de maatregel zijn voorbehouden;
+
+- c. waren, behorende tot een bij de maatregel aangewezen categorie, te verhandelen anders dan met inachtneming van de voorschriften, bij de maatregel gesteld met betrekking tot het bezigen van vermeldingen of voorstellingen, betreffende: de aard, samenstelling, uitvoering, hoedanigheid, eigenschappen, bestemming, houdbaarheid, hoeveelheid of afmetingen van de waar, de wijze en het tijdstip waarop de waar is bereid, vervaardigd, behandeld, bewerkt of verpakt, de herkomst van de waar, de personen die bij de maatregel aangegeven handelingen ten aanzien van de waar hebben verricht, alsmede de wijze waarop met betrekking tot de waar ware te handelen, en de uitwerking die de waar bij gebruik kan hebben op de gezondheid van de mens;
+
+- d. waren, behorende tot een bij de maatregel aangewezen categorie, te verhandelen - dan wel zodanige waren in verpakte vorm te verhandelen - anders dan in verpakkingen die aan de daaromtrent bij de maatregel gestelde eisen voldoen, of anders dan in verpakkingen die voorzien zijn van de daarvoor bij de maatregel voorgeschreven vermeldingen, de verpakking als zodanig betreffende;
+
+- e. waren, behorende tot een bij de maatregel aangewezen categorie, te verhandelen - dan wel zodanige waren in verpakte vorm te verhandelen - anders dan in verpakkingen die een bij de maatregel aangegeven hoeveelheid, bepaald naar de waar als zodanig of naar bij de maatregel omschreven bestanddelen daarvan, inhouden en waarop die hoeveelheid is vermeld, dan wel zodanige waren te verhandelen anders dan in eenheden, een bij de maatregel aangegeven hoeveelheid als hiervoor bedoeld uitmakende;
+
+- f. waren, behorende tot een bij de maatregel aangewezen categorie, te verhandelen, die van een andere dan bij de maatregel aangegeven samenstelling of uitvoering zijn.
+
+2. Het verbod, bedoeld in het eerste lid, onder c, kan zich tevens uitstrekken tot het gebruik van technische voortbrengselen.
+
+##### Artikel 9
+
+Voor de doeleinden, omschreven in [artikel 4, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=4&z=2025-07-12&g=2025-07-12), en in [artikel 8, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=8&z=2025-07-12&g=2025-07-12), kan bij algemene maatregel van bestuur worden verboden waren behorende tot een bij de maatregel aangewezen categorie:
+
+- a. binnen Nederlands grondgebied te brengen;
+
+- b. binnen Nederlands grondgebied te brengen anders dan met inachtneming van de bij de maatregel gestelde voorschriften.
+
+##### Artikel 10
+
+De krachtens [de artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=1a&z=2025-07-12&g=2025-07-12) en [4 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=4&z=2025-07-12&g=2025-07-12) ten aanzien van waren, behorende tot een bij de maatregel aangewezen categorie, gestelde eisen of voorschriften kunnen betrekking hebben op een bij die maatregel omschreven groep van waren.
+
+##### Artikel 11
+
+1. Bij algemene maatregel van bestuur kan worden bepaald dat degenen die zich bezighouden met het verhandelen van waren, behorende tot een daartoe bij de maatregel aangewezen categorie, verplicht zijn de daarbij omschreven maatregelen te treffen, strekkende ter bevordering van een goede naleving van het ten aanzien van die waren bij of krachtens deze wet bepaalde. Tot deze maatregelen kunnen behoren het onderwerpen van waren aan een onderzoek, het toetsen van waren aan de hand van een onderzoek van uit die waren genomen steekproeven, al dan niet met toepassing van een erkend bedrijfscontrole-systeem, het voeren van een administratie en het aanbrengen of het aangebracht houden van kentekens of vermeldingen ten behoeve van een doelmatig toezicht dan wel een doelmatige douanecontrole als bedoeld in de [Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) op bedoelde naleving, een en ander overeenkomstig de voorschriften, bij algemene maatregel van bestuur daaromtrent gesteld.
+
+2. Bij algemene maatregel van bestuur kan worden bepaald dat het degene voor wie een krachtens het eerste lid gestelde verplichting geldt, verboden is waren te verhandelen, ten aanzien waarvan de vereiste maatregelen niet zijn genomen.
+
+3. Bij algemene maatregel van bestuur kan voorts worden bepaald, dat het degene voor wie krachtens het eerste lid de verplichting geldt tot het toetsen van waren aan de hand van een onderzoek van een uit die waren genomen steekproef, is verboden waren met betrekking waartoe bij zodanige toetsing een ongunstig resultaat wordt verkregen, te verhandelen, dan wel te verhandelen alvorens ten aanzien van die waren de maatregelen zijn genomen die bij die algemene maatregel van bestuur zijn voorgeschreven.
+
+4. Bij een algemene maatregel van bestuur, waarbij met toepassing van het eerste lid de verplichting is opgelegd tot het toetsen van waren met toepassing van een erkend bedrijfscontrolesysteem, worden regelen gesteld omtrent de aanvrage tot erkenning van een zodanig systeem, de hoogte van het bedrag dat voor de werkzaamheden, voortvloeiende uit de behandeling van de aanvrage, is verschuldigd, de betaling van dat bedrag, de wijze van mededeling van een besluit inzake erkenning en omtrent de weigering of intrekking van een erkenning. Bij een zodanige maatregel kan aan Onze Minister de bevoegdheid of de verplichting worden opgelegd de instantie aan te wijzen die de erkenning van een bedrijfscontrolesysteem kan verlenen en intrekken.
+
+5. Bij een algemene maatregel van bestuur waarbij met toepassing van het eerste lid de verplichting is opgelegd tot het aanbrengen of het aangebracht houden van kentekens of vermeldingen, kan worden bepaald dat het verboden is waren die niet behoren tot de categorie waarop de kentekens of vermeldingen moeten zijn aangebracht, te verhandelen met gebruikmaking van die - of daarop gelijkende - kentekens of vermeldingen.
+
+##### Artikel 12
+
+Bij algemene maatregel van bestuur kan een daartoe omschreven methode van onderzoek worden aangewezen, die bij uitsluiting beslissend is voor de vaststelling of met betrekking tot een waar, behorende tot een bij de maatregel aangewezen categorie, al dan niet is voldaan aan bij of krachtens deze wet gestelde regels, bij de maatregel aangegeven.
+
+##### Artikel 13
+
+1. Bij algemene maatregel van bestuur kunnen voorts regels worden gesteld ter uitvoering van een met betrekking tot waren tot stand gekomen bindend besluit van de Europese Unie dat betrekking heeft op een van de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=3&z=2025-07-12&g=2025-07-12), bedoelde belangen alsmede het bijkomende belang van de bescherming van het milieu.
+
+2. De bij algemene maatregel van bestuur gestelde regels, bedoeld in het eerste lid, kunnen bij ministeriële regeling worden gewijzigd in verband met aanpassingen van verwijzingen naar bindende EU-rechtshandelingen of onderdelen daarvan, voor zover de aanpassingen niet inhoudelijk van aard zijn.
+
+##### Artikel 13a
+
+1. Ter uitvoering van een met betrekking tot waren tot stand gekomen bindend besluit van de Europese Unie, kan Onze Minister, voor zover van toepassing in overeenstemming met Onze Minister wie het mede aangaat, op aanvraag een instantie aanwijzen die belast zal zijn met:
+
+- a. de beoordeling van waren; of
+
+- b. daarmee samenhangende werkzaamheden.
+
+2. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de gronden waarop de in het eerste lid bedoelde aanwijzing kan worden gegeven, geschorst, ingetrokken dan wel gewijzigd.
+
+3. Aan een aanwijzing krachtens het eerste lid kunnen voorschriften worden verbonden.
+
+4. Op de ingevolge het eerste lid aangewezen instantie is de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) niet van toepassing, tenzij bij algemene maatregel van bestuur anders is bepaald.
+
+##### Artikel 14
+
+Bij een algemene maatregel van bestuur als bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=1a&z=2025-07-12&g=2025-07-12) of de [artikelen 4 tot en met 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=4&z=2025-07-12&g=2025-07-12) kan worden bepaald dat Onze Minister, met betrekking tot onderwerpen die in de maatregel zijn geregeld, nadere regels kan dan wel moet stellen. Bij de maatregel kan worden bepaald dat het stellen van zodanige regels geschiedt in overeenstemming met een of meer van Onze daarbij aangewezen andere Ministers, dan wel door Onze daarbij aangewezen Ministers gezamenlijk.
+
+##### Artikel 15
+
+1. In gevallen waarin een spoedige voorziening krachtens de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=1&z=2025-07-12&g=2025-07-12) of [1a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=1a&z=2025-07-12&g=2025-07-12), dan wel krachtens de [artikelen 4 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=4&z=2025-07-12&g=2025-07-12) in het belang van de volksgezondheid of de veiligheid en indien het technische voortbrengselen betreft tevens in het belang van de gezondheid van de mens of de veiligheid van zaken, dan wel op grond van een regeling als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=13&z=2025-07-12&g=2025-07-12) zo dringend geboden is dat de totstandkoming van een daartoe strekkende algemene maatregel van bestuur niet kan worden afgewacht, kan Onze Minister ter zake bij ministeriële regeling voorlopig geldende regels stellen en daarbij bepalingen van op die artikelen berustende algemene maatregelen van bestuur zo nodig buiten toepassing verklaren.
+
+2. Het besluit vervalt een jaar nadat het in werking is getreden, of, indien binnen die termijn een algemene maatregel van bestuur ter vervanging van dat besluit in werking is getreden, op het tijdstip waarop de maatregel in werking treedt. De termijn kan door Onze Minister eenmaal met ten hoogste een jaar worden verlengd.
+
+##### Artikel 16
+
+1. Onze Minister kan met betrekking tot waren, behorende tot een bij zijn besluit aangewezen categorie, van regels, geldende ingevolge toepassing van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=15&z=2025-07-12&g=2025-07-12) of van [de artikelen 4 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=4&z=2025-07-12&g=2025-07-12), vrijstelling verlenen.
+
+2. Door Onze Minister kan voorts met betrekking tot waren, behorende tot een bij het desbetreffende besluit aangewezen categorie, van zodanige regels op aanvrage ontheffing worden verleend. Bij algemene maatregel van bestuur kan de bevoegdheid tot verlening van ontheffing in bij de maatregel omschreven categorieën van gevallen aan een ander bestuursorgaan worden overgedragen. Onze Minister kan ten aanzien van de uitoefening van een aldus overgedragen bevoegdheid regels stellen.
+
+3. Bij algemene maatregel van bestuur kunnen regels worden gesteld inzake het verlenen van vrijstellingen of ontheffingen als bedoeld in het eerste onderscheidenlijk tweede lid. Aan de aanvrager van een ontheffing kunnen de kosten ten laste worden gebracht die samenhangen met de aanvraag om ontheffing.
+
+4. De bedragen ter vergoeding van de kosten worden bij ministeriële regeling vastgesteld. Bij ministeriële regeling kan worden bepaald dat:
+
+- 1°. de in het eerste lid bedoelde werkzaamheden slechts worden uitgevoerd nadat het daarvoor vastgestelde bedrag is voldaan of daarvoor zekerheid is gesteld; en
+
+- 2°. geen werkzaamheden worden verricht indien de betalingsplichtige niet binnen de gegeven betalingstermijn de kosten verschuldigd voor eerdere werkzaamheden op grond van deze wet heeft voldaan.
+
+5. Een vrijstelling of ontheffing kan onder beperkingen worden verleend. Aan een vrijstelling of ontheffing kunnen voorschriften worden verbonden. Een verleende vrijstelling of ontheffing kan te allen tijde worden gewijzigd of ingetrokken.
+
+6. Tot de voorschriften die aan een ontheffing worden verbonden, kan een voorschrift behoren, inhoudende dat de houder van de ontheffing verplicht is bij het verhandelen van waren waarvoor de ontheffing geldt, op of bij de waar of op haar verpakking ten behoeve van degenen die haar verder verhandelen, aanwijzingen op te nemen met betrekking tot het bewaren, vervoeren of behandelen van de waar.
+
+##### Artikel 17
+
+1. De houder van een ontheffing als bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=16&z=2025-07-12&g=2025-07-12), is verplicht bij het verhandelen van waren waarvoor de ontheffing geldt, op of bij de waar of op haar verpakking een vermelding met betrekking tot het besluit waarbij de ontheffing werd verleend, te plaatsen. Ingeval bij het verlenen van de ontheffing toepassing is gegeven aan artikel 16, zesde lid, is hij voorts verplicht zulks bij de aldaar bedoelde aanwijzingen te vermelden.
+
+2. Voor degenen die waren waarvoor een ontheffing is verleend als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=16&z=2025-07-12&g=2025-07-12), verder verhandelen, geldt met betrekking tot die waren vrijstelling van de voorschriften waarvan de ontheffing is verleend.
+
+3. Degenen die waren waarvoor een ontheffing is verleend, verder verhandelen, zijn verplicht ervoor zorg te dragen dat op of bij zodanige waren of op haar verpakking een vermelding met betrekking tot het besluit waarbij de ontheffing werd verleend, is geplaatst. Ingeval bij het verlenen van de ontheffing toepassing is gegeven aan [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=16&z=2025-07-12&g=2025-07-12), zijn zij voorts verplicht de aldaar bedoelde aanwijzingen in acht te nemen.
+
+4. Onze Minister kan regels stellen met betrekking tot de in het eerste en derde lid bedoelde vermeldingen.
+
+##### Artikel 18
+
+1. Onverminderd het bij of krachtens de voorgaande artikelen bepaalde is het verboden:
+
+- a. waren, niet zijnde eet en drinkwaren, te verhandelen waarvan degene die deze waren verhandelt, weet of redelijkerwijs moet vermoeden dat zij bij het gezien hun bestemming te verwachten gebruik bijzondere gevaren kunnen opleveren voor de veiligheid of gezondheid van de mens, of indien het technische voortbrengselen betreft, tevens voor de veiligheid van zaken;
+
+- b. eet- of drinkwaren, dan wel waren, behorende tot een hiertoe bij algemene maatregel van bestuur aangewezen categorie, te verhandelen, waarvan degene die de waren verhandelt, weet of redelijkerwijs moet vermoeden dat hun samenstelling, uitvoering, hoedanigheid, eigenschappen of toestand in ernstige mate minder is dan wat in redelijkheid mag worden verlangd.
+
+2. Het bepaalde in het eerste lid, onderdeel a, is niet van toepassing op producten die onder [Verordening (EU) 2023/988](32023R0988) vallen.
+
+##### Artikel 19
+
+1. Het is een ieder voorts verboden waren, niet zijnde eet- of drinkwaren, te verhandelen met gebruikmaking van vermeldingen of voorstellingen met betrekking tot de veiligheid van de waar of de uitwerking van de waar op de gezondheid van de mens, die, doordat zij onjuist zijn of een onjuiste indruk wekken, tot gevolg kunnen hebben dat de veiligheid of gezondheid van de mens in gevaar wordt gebracht.
+
+2. Onverminderd het eerste lid is het verboden technische voortbrengselen te verhandelen met gebruikmaking van vermeldingen of voorstellingen met betrekking tot de uitwerking van het technisch voortbrengsel op de veiligheid van zaken die, doordat zij onjuist zijn of een onjuiste indruk wekken, tot gevolg kunnen hebben dat die veiligheid in gevaar wordt gebracht.
+
+3. Bij algemene maatregel van bestuur kunnen vermeldingen of voorstellingen worden aangewezen, die in elk geval worden beschouwd als vermeldingen of voorstellingen, bedoeld in het eerste en tweede lid.
+
+##### Artikel 20
+
+1. Het is een ieder verboden in de uitoefening van een beroep of bedrijf een waar aan te prijzen op een wijze waarvan hij weet of redelijkerwijs moet vermoeden dat zij strijdig is met het ter zake van het verhandelen van die waar, met betrekking tot het daarbij bezigen van aanduidingen, vermeldingen of voorstellingen, krachtens [artikel 8, eerste lid, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=8&z=2025-07-12&g=2025-07-12), bepaalde.
+
+2. Het is een ieder voorts verboden in de uitoefening van een beroep of bedrijf waren, niet zijnde eet- of drinkwaren, aan te prijzen met gebruikmaking van vermeldingen of voorstellingen met betrekking tot de veiligheid van de waar of de uitwerking van de waar op de gezondheid van de mens, waarvan hij weet of redelijkerwijs moet vermoeden, dat zij, doordat zij onjuist zijn of een onjuiste indruk wekken, tot gevolg kunnen hebben dat de veiligheid of gezondheid van de mens in gevaar wordt gebracht.
+
+3. Onverminderd het tweede lid is het verboden in de uitoefening van een beroep of bedrijf technische voortbrengselen aan te prijzen met gebruikmaking van vermeldingen of voorstellingen met betrekking tot de uitwerking van het technisch voortbrengsel op de veiligheid van zaken, waarvan hij weet of redelijkerwijs moet vermoeden, dat zij, doordat zij onjuist zijn of een onjuiste indruk wekken, tot gevolg kunnen hebben dat die veiligheid in gevaar wordt gebracht.
+
+4. Bij algemene maatregel van bestuur kunnen vermeldingen of voorstellingen worden aangewezen, die in elk geval worden beschouwd als vermeldingen of voorstellingen, bedoeld in het tweede of derde lid.
+
+5. Ten behoeve van de bescherming van de gezondheid en de veiligheid van de mens, alsmede ter uitvoering van internationale verplichtingen kan bij algemene maatregel van bestuur worden verboden waren, behorende tot een bij de maatregel aangewezen categorie, met betrekking waartoe krachtens [artikel 8, eerste lid, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=8&z=2025-07-12&g=2025-07-12), voorschriften zijn gegeven, in de uitoefening van een beroep of bedrijf op een bij de maatregel aangewezen wijze aan te prijzen, anders dan met gebruikmaking van bij de maatregel aangewezen aanduidingen, vermeldingen of voorstellingen.
+
+##### Artikel 21
+
+1. Indien waren naar het oordeel van Onze Minister gevaar opleveren voor de veiligheid of de gezondheid van de mens, of indien het technische voortbrengselen betreft, tevens gevaar opleveren voor de veiligheid van zaken, kan hij met het oog op de bescherming van die belangen degene die de waar of het voortbrengsel verhandelt of heeft verhandeld, gelasten om de houders dan wel de vermoedelijke houders van die waar onverwijld en op doeltreffende wijze op de hoogte te stellen van het gevaar. Degene tot wie de last is gericht, geeft daaraan onverwijld gevolg.
+
+2. Indien waren, niet zijnde eet- of drinkwaren, naar het oordeel van Onze Minister gevaar opleveren voor de veiligheid of de gezondheid van de mens, of gevaar opleveren voor de veiligheid van zaken, kan hij met het oog op de bescherming van die belangen degene die de waar verhandelt of heeft verhandeld, gelasten de verhandeling daarvan te staken dan wel al de noodzakelijke maatregelen te treffen om die waar terug te nemen. Degene tot wie de last is gericht, geeft daaraan onverwijld gevolg.
+
+3. Het niet uitvoeren van een door Onze Minister gegeven last als bedoeld in het tweede lid is een misdrijf.
+
+4. Het bepaalde in het eerste tot en met derde lid is niet van toepassing op producten die onder [Verordening (EU) 2023/988](32023R0988) vallen.
+
+##### Artikel 22
+
+Vervallen
+
+##### Artikel 23
+
+Vervallen
+
+##### Artikel 24
+
+1. Een tatoeage of piercing, anders dan in een oorlel, wordt niet aangebracht bij een persoon die de leeftijd van zestien jaren nog niet heeft bereikt.
+
+2. Het eerste lid is niet van toepassing indien de persoon, bedoeld in het eerste lid, de leeftijd van twaalf jaren heeft bereikt en bij het aanbrengen van de tatoeage of piercing wordt vergezeld van zijn wettige vertegenwoordiger in burgerlijke zaken.
+
+3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent:
+
+- a. gevallen waarbij het tweede lid niet van toepassing is;
+
+- b. de wijze waarop personen worden geïnformeerd over de mogelijke gevolgen verbonden aan het aanbrengen van een tatoeage of piercing;
+
+- c. het voorhanden zijn en bijhouden van documenten, die de voorlichting over gevolgen, bedoeld in onderdeel b, en het toezicht op de naleving van de regels gesteld bij of krachtens dit artikel, kunnen bevorderen;
+
+- d. eisen inzake de deskundigheid van personen die tatoeage- of piercingmateriaal gebruiken.
+
+4. Bij of krachtens algemene maatregel van bestuur kan de naleving van bij of krachtens dit artikel gestelde regels, als voorschrift worden verbonden aan een vergunning, als bedoeld in [artikel 5, eerste lid, onder 2°, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=5&z=2025-07-12&g=2025-07-12).
+
+5. Het aanprijzen van het aanbrengen van een tatoeage of piercing is verboden, tenzij:
+
+- a. het aanprijzen in overeenstemming is met de regels gesteld bij of krachtens deze wet voor het aanbrengen van een tatoeage of piercing; en
+
+- b. de natuurlijke persoon of de rechtspersoon ten behoeve van wie het aanprijzen plaatsvindt, beschikt over een geldige vergunning, indien krachtens deze wet voor het gebruik van tatoeage- of piercingmateriaal een vergunning noodzakelijk is.
+
+##### Artikel 25
+
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, van het bepaalde bij of krachtens bindende EU-rechtshandelingen die bij of krachtens deze wet zijn geïmplementeerd of van het bepaalde bij of krachtens deze wet met betrekking tot door Onze Minister aangewezen categorieën van waren zijn belast:
+
+- a. de bij besluit van Onze Minister aangewezen ambtenaren;
+
+- b. indien de aanwijzing ambtenaren betreft, ressorterende onder een ander ministerie dan dat van Onze Minister, de bij besluit van Onze Minister, in overeenstemming met Onze Minister(s) die het mede aangaat, aangewezen ambtenaren.
+
+2. Onze Minister regelt in overeenstemming met Onze betrokken Ministers de taakverdeling tussen de ambtenaren, behorende tot de onderscheidene in het eerste lid bedoelde categorieën, en de inspecteur, bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3).
+
+3. Bij de taakverdeling, bedoeld in het tweede lid, kan tevens worden bepaald op welke wijze het toezicht dan wel de douanecontrole wordt uitgeoefend. De wijze waarop het toezicht dan wel de douanecontrole wordt uitgeoefend kan inhouden dat de toezichthouder onderscheidenlijk de inspecteur, bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3), op door Onze Minister vast te stellen tijdstippen en in door hem vast te stellen gevallen, onderzoek doet naar de naleving van de bij of krachtens deze wet gestelde regels en in daarbij aan te geven gevallen rapporteert aan door Onze Minister aan te wijzen personen of instanties.
+
+4. Van een besluit als bedoeld in het eerste lid, wordt mededeling gedaan door plaatsing in de **Staatscourant**.
+
+5. De minister die op grond van [artikel 21c](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=21c&z=2025-07-12&g=2025-07-12) bij algemene maatregel van bestuur is aangewezen, komt de bevoegdheid toe, als bedoeld in het eerste lid, aanhef en onder a, voor zover het betreft de bij die maatregel aangewezen waren en voor zover die waren in de particuliere sfeer kunnen worden gebruikt. In het geval op grond van [artikel 21c](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=21c&z=2025-07-12&g=2025-07-12) een ander bestuursorgaan is aangewezen, kan in afwijking van het eerste lid bij algemene maatregel van bestuur worden bepaald dat door een andere minister dan Onze Minister ten aanzien van de waren, bedoeld in de eerste volzin, de onder dat bestuursorgaan ressorterende ambtenaren met het toezicht op de naleving van het bepaalde bij of krachtens [artikel 21b](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=21b&z=2025-07-12&g=2025-07-12) worden belast. Het derde lid is van overeenkomstige toepassing.
+
+##### Artikel 26
+
+1. Van elke krachtens [artikel 5:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) onderzochte zaak, wordt aan de belanghebbende op diens verzoek een vergoeding gegeven ter grootte van het bedrag waarmee haar verkoopwaarde ten gevolge van het onderzoek is verminderd.
+
+2. Onze Minister kan ten aanzien van het bepaalde in [artikel 5:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18), voor zover van belang voor deze wet, en ten aanzien van het bepaalde in het eerste lid regels stellen.
+
+##### Artikel 27
+
+1. De in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=25&z=2025-07-12&g=2025-07-12) bedoelde ambtenaren zijn bevoegd technische voortbrengselen te beproeven, te onderzoeken, te doen beproeven of te doen onderzoeken. Onze Minister kan schriftelijk herstelling of behandeling binnen een daarbij vast te stellen termijn van het technische voortbrengsel gelasten of besluiten dat een voor een technisch voortbrengsel afgegeven certificaat van goedkeuring of overeenstemming of een op een technisch voortbrengsel aangebracht merk van goedkeuring of overeenstemming zijn geldigheid verliest indien bij een beproeving of onderzoek blijkt dat het voortbrengsel niet aan de krachtens deze wet gestelde regels voldoet. De in artikel 25 bedoelde ambtenaar brengt ten bewijze van de afkeuring een merk van afkeuring aan op het technische voortbrengsel. Een krachtens de tweede zin gestelde eis moet worden nageleefd door degene aan wie hij is gesteld.
+
+2. Het is verboden een op een technisch voortbrengsel aangebracht merk van afkeuring te verwijderen, te beschadigen of onleesbaar te maken. Dit verbod geldt niet ten aanzien van de in het eerste lid bedoelde ambtenaren.
+
+3. Overtreding van het verbod, bedoeld in het tweede lid, is een misdrijf.
+
+##### Artikel 28
+
+De in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=25&z=2025-07-12&g=2025-07-12) bedoelde ambtenaren zijn, behoudens tegenover hen aan wier gezag zij uit kracht van hun ambt zijn onderworpen, verplicht tot geheimhouding van de namen der personen door wie een klacht is ingediend of aangifte is gedaan van een overtreding van het bij of krachtens deze wet bepaalde, behoudens wanneer deze personen schriftelijk hebben verklaard tegen de mededeling van hun namen geen bedenkingen te hebben.
+
+##### Artikel 29
+
+De in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=25&z=2025-07-12&g=2025-07-12) bedoelde ambtenaren zijn bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner, voor zover deze bevoegdheid strekt tot het zich begeven naar en het betreden van in de woning aanwezige bedrijfsruimten.
+
+##### Artikel 30
+
+1. Onze Minister kan besluiten een technisch voortbrengsel buiten gebruik te stellen indien het gebruik van dat voortbrengsel gevaar oplevert of indien de op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=7&z=2025-07-12&g=2025-07-12) voorgeschreven keurings- of beoordelingsprocedures niet in acht zijn genomen dan wel de documenten die krachtens [artikel 5, tweede lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=5&z=2025-07-12&g=2025-07-12), voor het gebruik zijn vereist, niet aanwezig zijn. De in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=25&z=2025-07-12&g=2025-07-12) bedoelde ambtenaar verzegelt het technische voortbrengsel ten bewijze van de buitengebruikstelling.
+
+2. Onze Minister besluit tot opheffing van de buitengebruikstelling indien het gevaar is weggenomen, de buitengebruikstelling ongegrond is gebleken of indien de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=7&z=2025-07-12&g=2025-07-12) voorgeschreven keurings- of beoordelingsprocedures in acht zijn genomen dan wel de documenten die krachtens [artikel 5, tweede lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=5&z=2025-07-12&g=2025-07-12), voor het gebruik zijn vereist, aanwezig zijn.
+
+3. Het is verboden een technisch voortbrengsel te gebruiken dat op grond van het eerste lid buiten gebruik is gesteld.
+
+4. Overtreding van het verbod, bedoeld in het derde lid is, een misdrijf.
+
+##### Artikel 31
+
+1. Bij algemene maatregel van bestuur kan worden bepaald, dat, ingeval aan [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=10&z=2025-07-12&g=2025-07-12) toepassing is gegeven of in andere bij die maatregel aangewezen categorieën van gevallen, de krachtens [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=25&z=2025-07-12&g=2025-07-12) aangewezen ambtenaren volgens bij of krachtens die maatregel gestelde regels aan de hand van een onderzoek van een deel, dat als steekproef is genomen uit een bij die maatregel omschreven groep of partij waren, kunnen vaststellen of die groep of partij voldoet aan de bij die maatregel aangewezen eisen of voorschriften, gesteld krachtens [de artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=1a&z=2025-07-12&g=2025-07-12) en [4 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=4&z=2025-07-12&g=2025-07-12).
+
+2. Bij een maatregel als bedoeld in het eerste lid worden in ieder geval regels gegeven omtrent de grootte van de steekproef, de maatstaven aan de hand waarvan de uitslag van het onderzoek van de steekproef als gunstig of ongunstig voor de betrokken groep of partij wordt aangemerkt, en omtrent de mededeling van de voor de betrokken groep of partij vastgestelde uitslag van het onderzoek dat met toepassing van het krachtens het eerste lid bepaalde is verricht, aan degene die bij het nemen van de steekproef alle tot die steekproef behorende waren onder zich had, en omtrent de wijze waarop die mededeling wordt gedaan.
+
+3. Bij een maatregel als in het eerste lid bedoeld kunnen tevens regels worden gesteld:
+
+- a. omtrent de openbaarmaking van de voor de betrokken groep van waren vastgestelde uitslag van een onderzoek, dat met toepassing van het krachtens het eerste lid bepaalde is verricht;
+
+- b. inhoudende, dat het degene die bij het nemen van de steekproef alle tot die steekproef behorende waren onder zich had, is verboden nadat die steekproef is genomen, waren, behorende tot de krachtens het eerste lid omschreven groep of partij, waartoe de steekproef behoort, te verhandelen, zolang hem de in het tweede lid bedoelde mededeling niet is gedaan.
+
+4. Bij algemene maatregel van bestuur kan worden bepaald, dat, ingeval met toepassing van het krachtens het eerste lid bepaalde wordt vastgesteld, dat de betrokken groep of partij waren niet aan de bij die maatregel aangewezen eisen of voorschriften, bedoeld in het eerste lid voldoet:
+
+- a. volgens bij die maatregel gestelde regels aan de betrokkene of betrokkenen de gelegenheid wordt geboden om tegenbewijs te leveren;
+
+- b. de desbetreffende groep, partij of een deel van die groep of partij niet mag worden verhandeld, dan wel niet mag worden verhandeld alvorens ten aanzien van die groep of partij of dat deel van die groep of partij de maatregelen zijn genomen die bij algemene maatregel van bestuur zijn voorgeschreven.
+
+##### Artikel 32
+
+Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bepaalde bij of krachtens deze wet.
+
+##### Artikel 32a
+
+1. Onze Minister kan een bestuurlijke boete opleggen ter zake van overtreding van het bepaalde bij of krachtens de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=1a&z=2025-07-12&g=2025-07-12), [4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=4&z=2025-07-12&g=2025-07-12), [8 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=8&z=2025-07-12&g=2025-07-12), [13 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=13&z=2025-07-12&g=2025-07-12), [21b](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=21b&z=2025-07-12&g=2025-07-12), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=24&z=2025-07-12&g=2025-07-12), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=26&z=2025-07-12&g=2025-07-12), [27, eerste lid, laatste volzin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=27&z=2025-07-12&g=2025-07-12), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=31&z=2025-07-12&g=2025-07-12), [32c](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=32c&z=2025-07-12&g=2025-07-12) of [32k](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=32k&z=2025-07-12&g=2025-07-12).
+
+2. De hoogte van de bestuurlijke boete wordt bepaald op de wijze als voorzien in de bijlage, met dien verstande dat de wegens een afzonderlijke overtreding te betalen geldsom ten hoogste het bedrag van de zesde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23) bedraagt.
+
+3. In afwijking van het eerste lid kan de overtreding niet met een bestuurlijke boete worden afgedaan, indien:
+
+- a. de opzettelijke of roekeloze overtreding een direct gevaar voor de gezondheid of veiligheid van de mens tot gevolg heeft; of
+
+- b. de in de bijlage ter zake van de overtreding voorziene bestuurlijke boete aanmerkelijk wordt overschreden door het met de overtreding behaalde economisch voordeel.
+
+##### Artikel 32b
+
+1. Bij algemene maatregel van bestuur wordt een bijlage vastgesteld, die bij elke daarin omschreven overtreding het bedrag van de daarvoor op te leggen boete bepaalt, waarbij de hoogte van het bedrag mede gebaseerd kan worden op het aantal werknemers, de mate van verwijtbaarheid, de omzet of een gedeelte van de omzet van de desbetreffende natuurlijke persoon of rechtspersoon. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de wijze waarop de boetehoogte wordt bepaald.
+
+2. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt, indien de maatregel niet voortvloeit uit een bindend besluit van de Europese Unie, niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+
+##### Artikel 32c
+
+De ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=25&z=2025-07-12&g=2025-07-12) aangewezen ambtenaren zijn bevoegd ten dienste van het onderzoek een ieder staande te houden en te vorderen, dat hij zijn naam, voornamen, geboortedatum, geboortejaar, geboorteplaats en adres opgeeft.
+
+##### Artikel 32d
+
+1. Een krachtens [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=25&z=2025-07-12&g=2025-07-12), aangewezen ambtenaar is in afwijking van [artikel 5:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), bevoegd met medeneming van de benodigde apparatuur een woning te betreden zonder toestemming van de bewoner ten behoeve van de uitoefening van de bevoegdheden, bedoeld in artikel 14, vierde lid, onderdelen a, d en e, van [Verordening (EU) 2019/1020](32920R2019).
+
+2. Voor het uitoefenen van de bevoegdheid, bedoeld in het eerste lid, is een voorafgaande machtiging vereist van de rechter-commissaris. In het verzoek om afgifte van een machtiging worden de proportionaliteit en subsidiariteit van het verzoek gemotiveerd. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen. [Artikel 171 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=171) is van overeenkomstige toepassing.
+
+3. Tegen de beslissing van de rechter-commissaris, bedoeld in het tweede lid, staat voor zover het verzoek om een machtiging niet is toegewezen, voor Onze Minister binnen veertien dagen beroep open bij de rechtbank, sector strafrecht.
+
+4. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) en [3 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=3) zijn niet van toepassing.
+
+##### Artikel 32e
+
+1. Een krachtens [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=25&z=2025-07-12&g=2025-07-12), aangewezen ambtenaar is bevoegd om ter uitvoering van [Verordening (EU) 2019/1020](32920R2019) en [Verordening (EU) 2023/988](32023R0988), onder verstrekking van onjuiste of onvolledige gegevens met betrekking tot zijn identiteit en hoedanigheid, waren te verkrijgen en hieraan gerelateerde handelingen te verrichten voor zover dat voor de vervulling van zijn taak noodzakelijk is. [Artikel 5:12, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12) is niet van toepassing.
+
+2. De ambtenaar die gebruik heeft gemaakt van de bevoegdheid, bedoeld in het eerste lid, maakt daarvan een schriftelijk verslag op waarin diegene vermeldt:
+
+- a. zijn naam of nummer en hoedanigheid;
+
+- b. de motivering van de noodzaak tot uitoefening van de bevoegdheid;
+
+- c. de voorschriften op de naleving waarvan wordt toegezien;
+
+- d. het adres, waaronder indien van toepassing, het elektronische adres, waar de waar is verkregen en, voor zover bekend, de omschrijving van de betrokken marktdeelnemer als bedoeld in artikel 3, onderdeel 13, van [Verordening (EU) 2019/1020](32920R2019);
+
+- e. de onjuiste of onvolledige gegevens die bij het verkrijgen van het product zijn verstrekt;
+
+- f. de wijze waarop en het tijdvak waarin het product is verkregen; en
+
+- g. hetgeen tijdens het onderzoek van de waar is verricht, gebleken en overigens is voorgevallen.
+
+##### Artikel 32f
+
+[Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) is van overeenkomstige toepassing voor zover een krachtens [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=25&z=2025-07-12&g=2025-07-12), aangewezen ambtenaar bijstand verleent aan een markttoezichtautoriteit als bedoeld in artikel 3, onderdeel 4, van [Verordening (EU) 2019/1020](32920R2019) uit een lidstaat van de Europese Unie op grond van de artikelen 22 en 23 van [Verordening (EU) 2019/1020](32920R2019).
+
+##### Artikel 32g
+
+1. Ter uitvoering van [Verordening (EU) 2019/1020](32019R1020) en [Verordening (EU) 2023/988](32023R0988) kan Onze Minister, indien er geen andere doeltreffende middelen voorhanden zijn om een ernstig risico als bedoeld in artikel 3, onderdeel 20, van [Verordening (EU) 2019/1020](32019R1020), gevormd door een waar, of specifieke inhoud die verwijst naar een aanbod van een gevaarlijk product als bedoeld in artikel 3, onderdeel 3, van [Verordening (EU) 2023/988](32023R0988), weg te nemen, een zelfstandige last opleggen aan:
+
+- a. degene die daartoe in staat is, om inhoud te verwijderen van of de toegang te beperken tot een online interface als bedoeld in artikel 3, onderdeel 15, van [Verordening (EU) 2019/1020](32920R2019), of opdracht te geven tot de duidelijke weergave van een waarschuwing aan eindgebruikers wanneer die zich toegang tot de online interface verschaffen, of;
+
+- b. indien niet binnen de daarvoor gestelde termijn aan een last als bedoeld onder a, is voldaan, aanbieders van diensten van de informatiemaatschappij als bedoeld in artikel 3, onderdeel 14, van [Verordening (EU) 2019/1020](32920R2019) om alle maatregelen te treffen die redelijkerwijs van hem kunnen worden gevergd om de toegang tot een online interface te beperken, onder meer door een daarvoor in aanmerking komende derde te verzoeken dergelijke maatregelen uit te voeren.
+
+2. Degene tot wie een zelfstandige last als bedoeld in het eerste lid is gericht, handelt overeenkomstig die last. Het niet uitvoeren van de zelfstandige last is een misdrijf.
+
+3. Op grond van het eerste lid kan geen zelfstandige last worden opgelegd die leidt tot het blokkeren of filteren van internetverkeer.
+
+4. Voor een zelfstandige last als bedoeld in het eerste lid, is voorafgaande machtiging vereist van de rechter-commissaris. In het verzoek om afgifte van een machtiging worden de proportionaliteit en subsidiariteit van het verzoek gemotiveerd. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen. [Artikel 171 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=171) is van overeenkomstige toepassing.
+
+5. Tegen de beslissing van de rechter-commissaris, bedoeld in het vierde lid, staat voor zover het verzoek om een machtiging niet is toegewezen, voor Onze Minister binnen veertien dagen beroep open bij de rechtbank, sector strafrecht.
+
+6. Onze Minister maakt de machtiging van de rechter-commissaris gelijktijdig met de zelfstandige last, bedoeld in het eerste lid, bekend.
+
+##### Artikel 32h
+
+1. Ter uitvoering van [Verordening (EU) 2023/988](32023R0988) kan Onze Minister een zelfstandige last opleggen aan marktdeelnemers, bedoeld in artikel 3, onderdeel 13, van [Verordening (EU) 2023/988](32023R0988), om gevaarlijke producten, bedoeld in artikel 3, onderdeel 3, van [Verordening (EU) 2023/988](32023R0988), uit de handel te nemen of terug te roepen, indien een marktdeelnemer verzuimt passende maatregelen te nemen. Degene tot wie de last is gericht, geeft daaraan onverwijld gevolg.
+
+2. Het niet uitvoeren van een door Onze Minister gegeven last als bedoeld in het eerste lid is een misdrijf.
+
+##### Artikel 32i
+
+Ten behoeve van het toezicht op het bepaalde in artikel 22 van [Verordening (EU) 2023/988](32023R0988) is de Nederlandse Voedsel- en Warenautoriteit bevoegd gegevens en inlichtingen te verstrekken aan de Autoriteit Consument en Markt voor zover dat noodzakelijk is voor de uitvoering van haar taak.
+
+##### Artikel 32j
+
+Vervallen
+
+##### Artikel 32k
+
+1. Onze Minister kan de verhandeling van waren, ten aanzien waarvan gerede aanwijzingen bestaan dat zij gevaar opleveren voor de veiligheid of de gezondheid van de mens, tijdelijk verbieden totdat het onderzoek bedoeld in [artikel 5:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18), artikel 188 van Verordening (EU) nr. 952/2013 of [artikel 1:24 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:24) met betrekking tot deze waren is afgerond.
+
+2. Onze Minister kan de bereiding, de vervaardiging, de behandeling, de bewerking, de verwerking, de verpakking of het vervoer van de in het eerste lid bedoelde waren tijdelijk verbieden, zodat deze waren het onderzoek bedoeld in [artikel 5:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18), artikel 188 van Verordening (EU) nr. 952/2013 of [artikel 1:24 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:24) kunnen ondergaan.
+
+##### Artikel 32l
+
+1. Onze Minister kan de inbeslagneming van de in [artikel 32k](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=32k&z=2025-07-12&g=2025-07-12) bedoelde waren gelasten.
+
+2. De ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=25&z=2025-07-12&g=2025-07-12) aangewezen ambtenaren zijn bevoegd tot inbeslagneming als bedoeld in het eerste lid.
+
+3. Onze Minister wijst de locatie voor opslag van het inbeslaggenomene aan en bepaalt tevens de voorwaarden waaronder die opslag dient te geschieden.
+
+##### Artikel 32m
+
+1. Onze Minister kan de vernietiging van gevaarlijk gebleken waren, gelasten.
+
+2. Onze Minister wijst de ambtenaren aan welke bevoegd zijn tot de vernietiging van de in het eerste lid bedoelde waren.
+
+##### Artikel 32n
+
+1. De kosten verbonden aan de in [artikel 32l](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=32l&z=2025-07-12&g=2025-07-12) bedoelde opslag en de in [artikel 32m](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=32m&z=2025-07-12&g=2025-07-12) bedoelde vernietiging, zijn voor rekening van de overtreder.
+
+2. Onze Minister kan de in eerste lid bedoelde kosten invorderen bij dwangbevel.
+
+##### Artikel 33
+
+1. Aan de aanvrager of de houder van de aanwijzing of erkenning, dan wel aan degene of degenen ten behoeve van wie de werkzaamheden worden verricht kunnen, voorzover dit niet reeds mogelijk is op grond van [artikel 13b](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=13b&z=2025-07-12&g=2025-07-12), de kosten ten laste worden gebracht die samenhangen met:
+
+- a. bij of krachtens deze wet voorgeschreven keuringen of controles van waren, inclusief de controle van daarbij voorgeschreven documenten, en van overeenstemming tussen deze documenten en de desbetreffende waren;
+
+- b. de behandeling van een aanvraag om een vergunning als bedoeld in [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=5&z=2025-07-12&g=2025-07-12), of het aanwijzen van een instelling;
+
+- c. de behandeling van een aanvraag tot verlenging van een vergunning als bedoeld in [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=5&z=2025-07-12&g=2025-07-12), tot verlenging van een aanwijzing van een instelling, of van vooraf aangekondigde en vastgelegde controles of nog aan de eisen gesteld voor de vergunning of aanwijzing wordt voldaan;
+
+- d. de behandeling van een aanvraag voor een document dat Onze Minister bij of krachtens deze wet kan verstrekken en geen betrekking heeft op een vergunning als bedoeld in [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=5&z=2025-07-12&g=2025-07-12), of de aanwijzing van een instelling.
+
+2. De bedragen ter vergoeding van de kosten worden bij ministeriële regeling vastgesteld. Bij ministeriële regeling kan worden bepaald dat:
+
+- 1°. de in het eerste lid bedoelde werkzaamheden slechts worden uitgevoerd nadat het daarvoor vastgestelde bedrag is voldaan of daarvoor zekerheid is gesteld; en
+
+- 2°. geen werkzaamheden worden verricht indien de betalingsplichtige niet binnen de gegeven betalingstermijn de kosten verschuldigd voor eerdere werkzaamheden op grond van deze wet heeft voldaan.
+
+3. Onze Minister kan de bedragen ter vergoeding van de kosten, bedoeld in het eerste lid, invorderen bij dwangbevel.
+
+##### Artikel 34
+
+In dit hoofdstuk wordt verstaan onder:
+
+- **marktdeelnemer:** hetgeen daaronder wordt verstaan in artikel 3 van [richtlijn (EU) 2019/882](32019L0882);
+
+- **product:** hetgeen daaronder wordt verstaan in artikel 3 van [richtlijn (EU) 2019/882](32019L0882), voor zover behorend tot een krachtens [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=2&artikel=35&z=2025-07-12&g=2025-07-12), aangewezen categorie;
+
+- **in de handel te brengen:** hetgeen daaronder wordt verstaan in artikel 3 van [richtlijn (EU) 2019/882](32019L0882);
+
+- **op de markt aan te bieden:** hetgeen daaronder wordt verstaan in artikel 3 van [richtlijn (EU) 2019/882](32019L0882).
+
+##### Artikel 35
+
+Vervallen
+
+##### Artikel 36
+
+Wij stellen vast op welk tijdstip deze wet in werking treedt. Op dat tijdstip vervalt de Warenwet (**Stb.** 1919, 581), zoals die wet is gewijzigd bij de wet van 29 juni 1925 (**Stb.** 308).
+
+##### Artikel 37
+
+Deze wet wordt aangehaald als: Warenwet.
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 1a
+
+Deze wet en de daarop berustende bepalingen zijn mede van toepassing op:
+
+- a. technische voortbrengselen die worden gebruikt in de exclusieve economische zone bij de arbeid op, vanaf of ten behoeve van civieltechnische werken, dan wel bij het afbreken van een dergelijk werk;
+
+- b. eet- en drinkwaren die worden verhandeld op civieltechnische werken in de exclusieve economische zone.
+
+##### Artikel 7a
+
+1. Onze Minister kan op aanvraag een of meerdere instellingen aanwijzen, die bevoegd zijn tot het uitvoeren van door hem aan te wijzen werkzaamheden ingevolge bij of krachtens deze wet voorgeschreven keurings- of beoordelingsprocedures.
+
+2. Een aangewezen instelling is bevoegd om met inachtneming van de door Onze Minister gegeven aanwijzingen, onderdelen van de door haar te verrichten werkzaamheden door anderen te doen verrichten.
+
+3. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de gronden waarop de in het eerste lid bedoelde aanwijzing kan worden gegeven, geschorst, ingetrokken dan wel gewijzigd.
+
+4. Aan een aanwijzing krachtens het eerste lid kunnen voorschriften worden verbonden.
+
+5. Onze Minister kan voor de uitvoering van de in het eerste en tweede lid bedoelde werkzaamheden maximumtarieven vaststellen.
+
+6. Op de ingevolge het eerste lid aangewezen instellingen is de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) niet van toepassing, tenzij bij algemene maatregel van bestuur anders is bepaald.
+
+##### Artikel 7b
+
+Onze Minister ziet toe op de rechtmatige en doeltreffende uitvoering van het bepaalde bij of krachtens deze wet door een krachtens [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=7a&z=2025-07-12&g=2025-07-12) aangewezen instelling.
+
+##### Artikel 7c
+
+1. Een krachtens [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=7a&z=2025-07-12&g=2025-07-12) aangewezen instelling verstrekt desgevraagd kosteloos aan Onze Minister de voor de uitoefening van zijn taak benodigde inlichtingen. Onze Minister kan inzage vorderen van zakelijke gegevens en bescheiden voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
+
+2. Een krachtens [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=7a&z=2025-07-12&g=2025-07-12) aangewezen instelling zendt Onze Minister jaarlijks een verslag betreffende de door de instelling krachtens de aanwijzing uitgevoerde werkzaamheden, de rechtmatigheid en doeltreffendheid van die werkzaamheden en de werkwijze in het afgelopen jaar. Onze Minister kan met betrekking tot dit verslag nadere regels stellen.
+
+##### Artikel 7d
+
+1. Onze Minister kan een krachtens [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=7a&z=2025-07-12&g=2025-07-12) aangewezen instelling algemene aanwijzingen geven met betrekking tot de uitoefening van haar taak.
+
+2. De instelling is gehouden overeenkomstig de aanwijzingen te handelen.
+
+##### Artikel 7e
+
+1. Indien naar het oordeel van Onze Minister een krachtens [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=7a&z=2025-07-12&g=2025-07-12) aangewezen instelling de werkzaamheden, bedoeld in [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=7a&z=2025-07-12&g=2025-07-12), niet of niet naar behoren vervult, kan Onze Minister de noodzakelijke voorzieningen treffen.
+
+2. De voorzieningen, bedoeld in het eerste lid, worden spoedeisende gevallen uitgezonderd, niet eerder getroffen dan nadat de instelling in de gelegenheid is gesteld om binnen een door Onze Minister te stellen termijn alsnog haar werkzaamheden naar behoren uit te voeren.
+
+##### Artikel 11a
+
+Bij algemene maatregel van bestuur kan worden voorgeschreven dat de eigenaar of houder van bij de maatregel aangewezen technische voortbrengselen, verplicht is aangifte te doen van elke aanleg, opbouw of plaatsing van die technische voortbrengselen bij Onze Minister dan wel bij een door Onze Minister aangewezen instelling, met inachtneming van de bij die algemene maatregel van bestuur bepaalde termijnen.
+
+##### Artikel 35
+
+1. Ten behoeve van het weren van producten die niet voldoen aan de toegankelijkheidsvoorschriften van [richtlijn (EU) 2019/882](32019L0882), kan bij algemene maatregel van bestuur worden verboden producten, behorende tot een bij die maatregel aangewezen categorie, in de handel te brengen, indien deze niet voldoen aan de eisen, bij die maatregel gesteld.
+
+2. De eisen, bedoeld in het eerste lid, kunnen onder meer betrekking hebben op:
+
+- a. de wijze waarop en voorwaarden waaronder producten in de handel worden gebracht, alsmede op het ontwerpen, vervaardigen en het op de markt aanbieden van producten. Tot die voorwaarden behoren de toegankelijkheidsvoorschriften waaraan producten moeten voldoen;
+
+- b. de op het product of de verpakking aan te brengen dan wel in de verpakking op te nemen informatie;
+
+- c. de conformiteit van het product met de toepasselijke toegankelijkheidsvoorschriften, waaronder de gevallen waarin producten worden geacht reeds conform te zijn, en het treffen van corrigerende maatregelen om producten, voor zover deze niet aan de toegankelijkheidsvoorschriften voldoen, daarmee in overeenstemming te brengen of zo nodig uit de handel te nemen;
+
+- d. de gevallen waarin en voorwaarden waaronder toegankelijkheidsvoorschriften beperkt of niet van toepassing zijn; en
+
+- e. het bijhouden en verstrekken van informatie en documentatie over het product of de onder a genoemde handelingen aan andere marktdeelnemers, Onze Minister die het aangaat of de aangewezen toezichthouders, of ter identificatie van de marktdeelnemers aan wie producten zijn geleverd of van wie producten zijn ontvangen.
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 18a
+
+1. Waren die voldoen aan bij regeling van Onze Minister aangewezen normen, worden voor wat betreft de risico’s geregeld in die normen vermoed geen gevaren op te leveren als bedoeld in [artikel 18, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=18&z=2025-07-12&g=2025-07-12).
+
+2. Onze Minister wijst bij regeling normen aan die Europese normen omzetten waarvan de referenties door de Europese Commissie bekend zijn gemaakt in het Publicatieblad van de Europese Unie.
+
+3. Onze Minister kan bij regeling andere dan de in het tweede lid bedoelde normen aanwijzen.
+
+##### Artikel 21a
+
+1. Onze Minister stelt de hem beschikbare informatie over de risico’s van waren, niet zijnde eet- of drinkwaren, betreffende de veiligheid of de gezondheid van de consument aan het publiek beschikbaar, onverminderd de beperkingen die daarbij voor controles en onderzoek noodzakelijk zijn. Indien de informatie veiligheidskenmerken van producten betreft die gelet op de omstandigheden openbaar moeten worden gemaakt om de gezondheid en de veiligheid van consumenten te beschermen, is [artikel 2:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:5) niet van toepassing.
+
+2. Bij regeling van Onze Minister kan worden bepaald op welke wijze de informatie, bedoeld in het eerste lid, beschikbaar wordt gesteld.
+
+3. Het bepaalde in het eerste en tweede lid is niet van toepassing op producten die onder [Verordening (EU) 2023/988](32023R0988) vallen.
+
+##### Artikel 21b
+
+1. Degene die waren, niet zijnde eet- of drinkwaren, voor zover die in de particuliere sfeer kunnen worden gebruikt, verhandelt of heeft verhandeld waarvan hij weet, of op grond van de hem ter beschikking staande gegevens beroepshalve behoort te weten, dat die waren een gevaar opleveren voor de veiligheid of gezondheid van de mens, stelt Onze Minister daarvan onmiddellijk op de hoogte en deelt daarbij Onze Minister tevens mede welke maatregelen door hem zijn genomen ter bescherming van de genoemde belangen.
+
+2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld inzake de in het kader van de in het eerste lid genoemde verplichting te verstrekken informatie.
+
+3. Degene die waren, niet zijnde eet- of drinkwaren, voor zover die in de particuliere sfeer kunnen worden gebruikt, verhandelt of heeft verhandeld, verleent Onze Minister desgevraagd, en binnen het bestek van zijn activiteiten, medewerking bij de acties die ondernomen zijn om de risico’s van die waren te vermijden. Bij regeling van Onze Minister worden regels gesteld over de wijze waarop die medewerking wordt verleend.
+
+4. Het bepaalde in het eerste tot en met derde lid is niet van toepassing op producten die onder [Verordening (EU) 2023/988](32023R0988) vallen.
+
+##### Artikel 21c
+
+Voor de toepassing van de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=21&z=2025-07-12&g=2025-07-12), [21a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=21a&z=2025-07-12&g=2025-07-12), [21b](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=21b&z=2025-07-12&g=2025-07-12), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=32&z=2025-07-12&g=2025-07-12) of [32a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=32a&z=2025-07-12&g=2025-07-12) kan bij algemene maatregel van bestuur ten aanzien van bij die maatregel aan te wijzen waren, niet zijnde eet- of drinkwaren, voor zover die in de particuliere sfeer kunnen worden gebruikt, een andere minister dan Onze Minister of ander bestuursorgaan worden aangewezen.
+
+##### Artikel 25a
+
+1. Onverminderd [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=25&z=2025-07-12&g=2025-07-12) kunnen bij regeling van Onze Minister personen in dienst van een privaatrechtelijke rechtspersoon worden belast met het toezicht op de naleving van het bij of krachtens deze wet bepaalde met betrekking tot bij die regeling aan te wijzen categorieën van waren.
+
+2. De last tot het houden van toezicht als bedoeld in het eerste lid, kan slechts worden opgelegd aan personen in dienst van een rechtspersoon met volledige rechtsbevoegdheid en zonder winstoogmerk, mits die rechtspersoon in ieder geval ten doel heeft, door middel van het uitoefenen van toezicht, de goede hoedanigheid, veiligheid, verpakking, vorm en etikettering van een of meer waren te bevorderen.
+
+3. Bij regeling van Onze Minister kunnen nadere regels worden gesteld betreffende de organisatie, werkwijze, statuten, reglementen en de benoeming van bestuurders van de rechtspersoon alsmede met betrekking tot de kosten van het toezicht, bedoeld in het eerste lid.
+
+4. Onze Minister kan in overeenstemming met Onze betrokken Ministers nadere regels stellen over de taakverdeling tussen de ambtenaren, behorende tot de onderscheidene in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=25&z=2025-07-12&g=2025-07-12) bedoelde categorieën, en de personen, bedoeld in het eerste lid.
+
+5. Onze Minister kan personen als bedoeld in het eerste lid, aanwijzingen geven over de wijze waarop zij het toezicht uitoefenen.
+
+6. Indien een last tot het houden van toezicht als bedoeld in het eerste lid wordt gegeven, zijn de verplichtingen en bevoegdheden ingevolge de [artikelen 27 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=27&z=2025-07-12&g=2025-07-12), [32c](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=32c&z=2025-07-12&g=2025-07-12) en [32l](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=32l&z=2025-07-12&g=2025-07-12) van overeenkomstige toepassing.
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 13b
+
+1. Aan de aanvrager of de houder van de aanwijzing of erkenning, dan wel aan degene of degenen ten behoeve van wie de werkzaamheden worden verricht, kunnen de kosten ten laste worden gebracht, die samenhangen met:
+
+- a. het in behandeling nemen en verlenen van een aanwijzing als bedoeld in[artikel 13a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=13a&z=2025-07-12&g=2025-07-12);
+
+- b. keuringen, controles of maatregelen indien die worden voorgeschreven door een bindend besluit van de Europese Unie inclusief de controle van daarbij voorgeschreven documenten, en van overeenstemming tussen deze documenten en de desbetreffende waren;
+
+- c. de behandeling van een aanvraag tot of verlenging van een erkenning van een inrichting of een inschrijving van een inrichting in een register indien die wordt voorgeschreven door een bindend besluit van de Europese Unie;
+
+- d. vooraf aangekondigde en vastgestelde controles of nog aan de eisen gesteld voor de aanwijzing of erkenning wordt voldaan die nodig zijn ter uitvoering van een bindend besluit van de Europese Unie.
+
+2. De bedragen ter vergoeding van de kosten worden bij ministeriële regeling vastgesteld. Bij ministeriële regeling kan worden bepaald dat:
+
+- 1°. de in het eerste lid bedoelde werkzaamheden slechts worden uitgevoerd nadat het daarvoor vastgestelde bedrag is voldaan of daarvoor zekerheid is gesteld; en
+
+- 2°. geen werkzaamheden worden verricht indien de betalingsplichtige niet binnen de gegeven betalingstermijn de kosten verschuldigd voor eerdere werkzaamheden op grond van deze wet heeft voldaan.
+
+3. Onze Minister kan de bedragen ter vergoeding van de kosten, bedoeld in het eerste lid, invorderen bij dwangbevel.
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 7f
+
+Onze Minister is bevoegd bij een instelling waarvan de aanwijzing krachtens [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=7a&z=2025-07-12&g=2025-07-12) is ingetrokken inzage in en kopieën van alle gegevens en bescheiden te vorderen die samenhangen met de uitgevoerde keurings- of beoordelingsprocedures waarop de ingetrokken aanwijzing betrekking had. Naar keuze van de instelling kunnen in plaats van kopieën de originele bescheiden worden verstrekt.
+
+##### Artikel 13c
+
+Indien in een krachtens deze wet vastgesteld wettelijk voorschrift verwezen wordt naar een EU-richtlijn, gaat een wijziging van die EU-richtlijn voor de toepassing van dat voorschrift, gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
+
+##### Artikel 13d
+
+1. Met bij of krachtens deze wet aan het vervaardigen, bereiden of verhandelen van waren gestelde eisen worden gelijkgesteld eisen aan het vervaardigen, bereiden of verhandelen van waren gesteld door een andere lidstaat van de Europese Unie, indien die waren rechtmatig zijn vervaardigd, bereid of verhandeld in die andere lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een tot een douane-unie strekkend verdrag dat Nederland bindt, dan wel een staat die partij is bij een tot een vrijhandelszone strekkend Verdrag en die eisen een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
+
+2. Degene die een waar verhandelt die niet voldoet aan de eisen die zijn gesteld bij of krachtens deze wet, maar die in een andere lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een tot een douane-unie strekkend verdrag dat Nederland bindt, dan wel die partij is bij een tot een vrijhandelszone strekkend verdrag dat Nederland bindt, rechtmatig in de handel is gebracht, kan bij Onze Minister een toelatingsbeschikking aanvragen.
+
+3. De toelatingsbeschikking wordt geweigerd indien er technisch of wetenschappelijk bewijs bestaat dat:
+
+- a. de weigering gerechtvaardigd is op een van de in artikel 36 van het Verdrag betreffende de werking van de Europese Unie genoemde gronden van openbaar belang of gezien andere dwingende redenen van openbaar belang; en
+
+- b. de weigering geschikt is om het nagestreefde doel te bereiken en niet verder gaat dan nodig om dit doel te verwezenlijken.
+
+4. De toelating kan onder beperkingen worden verleend en aan de toelating kunnen voorwaarden worden verbonden, zodat voldaan wordt aan de eisen bedoeld in het derde lid.
+
+5. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ter uitvoering van het in het tweede tot en met vierde lid bepaalde met betrekking tot een bij de maatregel aangewezen categorie waren. Hierbij kan een ander bestuursorgaan dan Onze Minister worden aangewezen als het bestuursorgaan waarbij de toelatingsbeschikking voor een bij de maatregel aangewezen categorie waren, wordt aangevraagd.
+
+##### Artikel 13e
+
+Ingeval bij of krachtens deze wet wordt verwezen naar door de Voedsel- en Landbouworganisatie en de Wereldgezondheidsorganisatie tot stand gebrachte voedselstandaarden, codes voor goede praktijken of richtsnoeren, kan overtreding daarvan ook als strafbaar feit worden aangemerkt dan wel worden bestraft met een bestuurlijke sanctie indien deze voedselstandaarden, codes voor goede praktijken of richtsnoeren in de Engelse taal zijn gesteld en bekend gemaakt.
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 21d
+
+1. Degene die waren anders dan in doorvoer buiten Nederland wil brengen, kan Onze Minister verzoeken een verklaring af te geven in verband met door landen van bestemming gestelde eisen.
+
+2. Een verklaring als bedoeld in het eerste lid, kan in afwijking van het eerste lid ook worden afgegeven door personen in dienst van een privaatrechtelijke rechtspersoon aangewezen krachtens [artikel 25a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=25a&z=2025-07-12&g=2025-07-12), voor zover het betrekking heeft op waren waarop deze personen toezicht houden.
+
+3. Onze Minister kan omtrent de uitvoering van de in het eerste en tweede lid bedoelde afgifte van verklaringen nadere regels stellen met betrekking tot de inhoud van de verklaringen en de gronden waarop verklaringen kunnen worden geweigerd. Hierbij kunnen voor verschillende categorieën waren verschillende regels worden gesteld.
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+### Hoofdstuk 1. Voorschriften inzake voedsel- en productveiligheid
+
+### Hoofdstuk 2. Toegankelijkheidsvoorschriften
+
+##### Artikel 34ab
+
+Dit hoofdstuk is van toepassing op marktdeelnemers en producten ter uitvoering van [richtlijn (EU) 2019/882](32019L0882). De overige bepalingen van deze wet zijn, met betrekking tot de toegankelijkheid van producten, uitsluitend van toepassing voor zover dat in dit hoofdstuk is bepaald.
+
+##### Artikel 35a
+
+Bij of krachtens algemene maatregel van bestuur kunnen voorts regels worden gesteld ter uitvoering van een met betrekking tot producten tot stand gekomen bindend besluit van de Europese Unie als bedoeld in artikel 26 van [richtlijn (EU) 2019/882](32019L0882).
+
+##### Artikel 35b
+
+[Artikel 13c](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=13c&z=2025-07-12&g=2025-07-12) is van overeenkomstige toepassing.
+
+##### Artikel 35c
+
+Met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=2&artikel=35&z=2025-07-12&g=2025-07-12) en [35a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=2&artikel=35a&z=2025-07-12&g=2025-07-12) zijn belast de bij besluit van Onze Minister aangewezen ambtenaren. De [artikelen 25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=25&z=2025-07-12&g=2025-07-12), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=28&z=2025-07-12&g=2025-07-12) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=29&z=2025-07-12&g=2025-07-12) zijn van overeenkomstige toepassing.
+
+##### Artikel 35d
+
+Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bepaalde bij of krachtens de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=2&artikel=35&z=2025-07-12&g=2025-07-12) en [35a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=2&artikel=35a&z=2025-07-12&g=2025-07-12).
+
+##### Artikel 35e
+
+1. Onze Minister kan een bestuurlijke boete opleggen ter zake van overtreding van het bepaalde bij of krachtens de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=2&artikel=35&z=2025-07-12&g=2025-07-12) en [35a](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=2&artikel=35a&z=2025-07-12&g=2025-07-12).
+
+2. De op grond van het eerste lid op te leggen bestuurlijke boete bedraagt, in afwijking van [artikel 32a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&hoofdstuk=1&artikel=32a&z=2025-07-12&g=2025-07-12), ten hoogste het bedrag dat is vastgesteld voor de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

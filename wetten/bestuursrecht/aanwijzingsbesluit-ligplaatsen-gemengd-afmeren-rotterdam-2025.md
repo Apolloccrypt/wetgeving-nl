@@ -1,13 +1,38 @@
 ---
 title: "Aanwijzingsbesluit ligplaatsen ‘gemengd afmeren’ Rotterdam 2025"
 identifier: "BWBR0051499"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-09-12
-laatste_update: 2025-09-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051499"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-09-12"
+last_updated: "2025-09-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051499"
+soort: "zbo"
+stam_id: "17521843"
+version_id: "30919582"
+internal_id: "C44298881"
+label_id: "17423664"
+dtd_version: "2.0"
+original_entry_into_force: "2025-09-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051499/2025-09-12/0"
+intitule_bron: "Stcrt.2025-30913-n1"
+intitule_effect: "wijziging"
+intitule_signed: "2025-09-01"
+intitule_published: "2025-09-11"
+intitule_in_force: "2025-09-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-30913-n1"
+original_signed_date: "2025-09-01"
+original_published_date: "2025-09-11"
+original_effect: "wijziging"
+original_url_id: "stcrt-2025-30913-n1"
+entry_into_force_date: "2025-09-12"
+jci_1_3: "jci1.3:c:BWBR0051499&z=2025-09-12&g=2025-09-12"
+jci_1_0: "1.0:c:BWBR0051499&g=2025-09-12"
+citeertitel_status: "officieel"
+signed_date: "2025-09-01"
+entry_into_force: "2025-09-12"
 ---
-
 # Aanwijzingsbesluit ligplaatsen ‘gemengd afmeren’ Rotterdam 2025
 
 Gelet op:
@@ -38,7 +63,7 @@ Besluit vast te stellen:
 
 **Aanwijzingsbesluit ligplaatsen ‘gemengd afmeren’ Rotterdam 2025**
 
-#### Artikel 1. Aanwijzing ligplaatsen alle categorieën
+##### Artikel 1. Aanwijzing ligplaatsen alle categorieën
 
 Een binnenschip als bedoeld in [artikel 2, eerste lid, van de Regeling gemengd afmeren](https://wetten.overheid.nl/jci1.3:c:BWBR0051061&artikel=2), mag op de hiernavolgende ligplaatsen afmeren:
 
@@ -62,7 +87,7 @@ Een binnenschip als bedoeld in [artikel 2, eerste lid, van de Regeling gemengd a
 
 - −. de ligplaatsen gelegen aan steiger 1, 2, 3, 4, 5, 10 en 13 in het Calandkanaal, ter hoogte van oeverfrontnummers 5390, 5389, 5387, 5385, 5384, 5365 en 5323.
 
-#### Artikel 2. Aanwijzing ligplaatsen voor specifieke categorieën
+##### Artikel 2. Aanwijzing ligplaatsen voor specifieke categorieën
 
 1. Op grond van [artikel 2, tweede lid, van de Regeling gemengd afmeren](https://wetten.overheid.nl/jci1.3:c:BWBR0051061&artikel=2), mogen op de ligplaatsen gelegen aan steiger 1, 2, 3 en 4 in de Waalhaven 4 noordzijde ter hoogte van oeverfrontnummer 2211, 2212, 2214 en 2215 de categorieën van binnenschepen als bedoeld in artikel 2, eerste lid, van de Regeling gemengd afmeren, afmeren met uitzondering van tankschepen die op grond van artikel 5.4 van de Havenverordening Rotterdam 2020 niet buiten een petroleumhaven mogen afmeren.
 
@@ -82,7 +107,7 @@ Een binnenschip als bedoeld in [artikel 2, eerste lid, van de Regeling gemengd a
 
 - –. de ligplaatsen gelegen aan de palen B1 en B2 in het Yangtzekanaal ter hoogte van oeverfrontnummer 9813.
 
-#### Artikel 3. Afwijkende bepalingen
+##### Artikel 3. Afwijkende bepalingen
 
 Op grond van [artikel 3, tweede lid, van de Regeling gemengd afmeren](https://wetten.overheid.nl/jci1.3:c:BWBR0051061&artikel=3) is op de volgende ligplaatsen het verbod als bedoeld in artikel 3, eerste lid, aanhef en onder f, van de Regeling gemengd afmeren niet van toepassing:
 
@@ -90,14 +115,14 @@ Op grond van [artikel 3, tweede lid, van de Regeling gemengd afmeren](https://we
 
 - −. de ligplaatsen gelegen aan palen B1 en B2 in het Yangtzekanaal ter hoogte van oeverfrontnummer 9813.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van publicatie in de Staatscourant en werkt terug tot en met 1 juli 2025.
 
-#### Artikel 5. intrekking
+##### Artikel 5. intrekking
 
 Het [Besluit ‘gemengd afmeren’ Rotterdam 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0047626) wordt ingetrokken.
 
-#### Artikel 6. Citeertitel
+##### Artikel 6. Citeertitel
 
 Dit besluit wordt aangehaald als: Aanwijzingsbesluit ligplaatsen ‘gemengd afmeren’ Rotterdam 2025.

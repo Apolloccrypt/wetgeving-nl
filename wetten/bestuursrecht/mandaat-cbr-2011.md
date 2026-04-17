@@ -1,13 +1,35 @@
 ---
 title: "Mandaat CBR (2011)"
 identifier: "BWBR0037641"
-categorie: "Bestuursrecht"
-publicatiedatum: 2011-01-01
-laatste_update: 2011-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037641"
+country: "nl"
+rank: "zbo"
+publication_date: "2011-01-01"
+last_updated: "2011-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037641"
+soort: "zbo"
+stam_id: "13417713"
+version_id: "23024362"
+internal_id: "C33285181"
+label_id: "13385104"
+dtd_version: "2.0"
+original_entry_into_force: "2011-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037641/2011-01-01/0"
+intitule_bron: "Stcrt.2011-4723"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2011-03-17"
+intitule_in_force: "2011-03-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-4723"
+original_published_date: "2011-03-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-4723"
+entry_into_force_date: "2011-01-01"
+jci_1_3: "jci1.3:c:BWBR0037641&z=2011-01-01&g=2011-01-01"
+jci_1_0: "1.0:c:BWBR0037641&g=2011-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2011-01-01"
 ---
-
 # Mandaat CBR (2011)
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.

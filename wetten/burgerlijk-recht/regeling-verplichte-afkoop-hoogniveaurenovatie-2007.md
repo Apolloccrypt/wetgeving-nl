@@ -1,13 +1,39 @@
 ---
-title: "Regeling verplichte afkoop hoogniveaurenovatie 2007"
+title: "Regeling van de Minister voor Wonen, Wijken en Integratie van 21 oktober 2007, nr. DJZ2007096828, Directie Juridische Zaken, Afdeling Wetgeving, houdende regels omtrent verplichte afkoop van jaarlijkse bijdragen, die krachtens de Regeling geldelijke steun voorzieningen aan huurwoningen 1987 zijn toegekend aan gemeenten (Regeling verplichte afkoop hoogniveaurenovatie 2007)"
 identifier: "BWBR0022733"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2007-11-01
-laatste_update: 2007-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022733"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2007-11-01"
+last_updated: "2007-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022733"
+soort: "ministeriele-regeling"
+stam_id: "9254733"
+version_id: "14842792"
+internal_id: "C20194681"
+label_id: "9233364"
+dtd_version: "2.0"
+original_entry_into_force: "2007-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022733/2007-11-01/0"
+intitule_bron: "Stcrt.2007-210"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-10-21"
+intitule_published: "2007-10-30"
+intitule_in_force: "2007-10-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-210"
+original_signed_date: "2007-10-21"
+original_published_date: "2007-10-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-210-p13-SC82754"
+entry_into_force_date: "2007-11-01"
+jci_1_3: "jci1.3:c:BWBR0022733&z=2007-11-01&g=2007-11-01"
+jci_1_0: "1.0:c:BWBR0022733&g=2007-11-01"
+citeertitel_status: "officieel"
+short_title: "Regeling verplichte afkoop hoogniveaurenovatie 2007"
+signed_date: "2007-10-21"
+entry_into_force: "2007-11-01"
 ---
-
 # Regeling van de Minister voor Wonen, Wijken en Integratie van 21 oktober 2007, nr. DJZ2007096828, Directie Juridische Zaken, Afdeling Wetgeving, houdende regels omtrent verplichte afkoop van jaarlijkse bijdragen, die krachtens de Regeling geldelijke steun voorzieningen aan huurwoningen 1987 zijn toegekend aan gemeenten (Regeling verplichte afkoop hoogniveaurenovatie 2007)
 
 Gelet op [artikel 2, eerste lid, van het Invoeringsbesluit Wet stedelijke vernieuwing](https://wetten.overheid.nl/jci1.3:c:BWBR0011957&artikel=2);
@@ -16,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Algemene bepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -30,13 +56,13 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 2. Subsidie ter beëindiging van verbintenissen van het Rijk jegens gemeenten
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Minister stelt bij beschikking het totaalbedrag vast, waartegen de nog resterende verbintenissen jegens een gemeente worden afgekocht.
 
 2. De Minister voegt bij de beschikking een totaaloverzicht van de nog resterende verbintenissen jegens die gemeente en de daarbij behorende afkoopbedragen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Per verbintenis van het Rijk jegens een gemeente wordt het subsidiebedrag vastgesteld overeenkomstig het tweede tot en met het vierde lid.
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 4. Het overeenkomstig het derde lid berekende bedrag wordt vermeerderd met een rente van 4,00% per jaar, te rekenen vanaf 1 november 2007 tot en met 30 december 2007.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022733&paragraaf=2&artikel=3&z=2007-11-01&g=2007-11-01) wordt uitgegaan van maanden van dertig dagen en van een jaar van 360 dagen.
 
@@ -54,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 3. Voor de toepassing van [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022733&paragraaf=2&artikel=3&z=2007-11-01&g=2007-11-01), wordt de disconteringsvoet (i) gesteld op 0,0400 (4,00%).
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het bedrag van de eenmalige subsidie aan de gemeente komt overeen met het totaal aan subsidiebedragen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022733&paragraaf=2&artikel=3&z=2007-11-01&g=2007-11-01).
 
@@ -66,17 +92,17 @@ In deze regeling wordt verstaan onder:
 
 - c. aanspraken van de gemeente op het Rijk als gevolg van herziening van beschikkingen op grond van de RGSVH vervallen.
 
-#### Artikel 6
+##### Artikel 6
 
 Na de beschikking tot subsidievaststelling wordt het subsidiebedrag uiterlijk in december 2007 uitbetaald.
 
 #### Paragraaf 3. Slotbepalingen
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling verplichte afkoop hoogniveaurenovatie 2007.
 

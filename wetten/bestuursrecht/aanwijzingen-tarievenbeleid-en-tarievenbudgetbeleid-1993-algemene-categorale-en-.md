@@ -1,13 +1,38 @@
 ---
-title: "Aanwijzingen tarievenbeleid en tarievenbudgetbeleid 1993 (algemene, categorale en academische ziekenhuizen)"
+title: "Aanwijzing ex artikel 14 wtg inzake het tarievenbudgetbeleid 1993 voor de algemene, categorale en academische ziekenhuizen"
 identifier: "BWBR0005711"
-categorie: "Bestuursrecht"
-publicatiedatum: 1993-05-01
-laatste_update: 1993-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005711"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1993-05-01"
+last_updated: "1993-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005711"
+soort: "ministeriele-regeling"
+stam_id: "4227163"
+version_id: "5990802"
+internal_id: "C6194191"
+label_id: "4205954"
+dtd_version: "2.0"
+original_entry_into_force: "1993-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005711/1993-05-01/0"
+intitule_bron: "Stcrt.1993-63"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-11-06"
+intitule_published: "1993-03-31"
+intitule_in_force: "1993-03-31"
+intitule_status: "goed"
+original_publication: "Stcrt.1993-63"
+original_signed_date: "1992-11-06"
+original_published_date: "1993-03-31"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1993-05-01"
+jci_1_3: "jci1.3:c:BWBR0005711&z=1993-05-01&g=1993-05-01"
+jci_1_0: "1.0:c:BWBR0005711&g=1993-05-01"
+citeertitel_status: "officieel"
+short_title: "Aanwijzingen tarievenbeleid en tarievenbudgetbeleid 1993 (algemene, categorale en academische ziekenhuizen)"
+signed_date: "1992-11-06"
+entry_into_force: "1993-05-01"
 ---
-
 # Aanwijzing ex artikel 14 wtg inzake het tarievenbudgetbeleid 1993 voor de algemene, categorale en academische ziekenhuizen
 
 Overwegende dat de algemene financieel-economische situatie noopt tot beheerste kostenontwikkelingen in de gezondheidszorg;

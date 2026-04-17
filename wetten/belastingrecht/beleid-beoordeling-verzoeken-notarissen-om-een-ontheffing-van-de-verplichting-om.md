@@ -1,13 +1,35 @@
 ---
 title: "Beleid beoordeling verzoeken notarissen om een ontheffing van de verplichting om een samenstellingsverklaring te verstrekken bij het indienen van kwartaalcijfers over het eerste tot en met het vierde kwartaal 2018"
 identifier: "BWBR0039590"
-categorie: "Belastingrecht"
-publicatiedatum: 2017-05-30
-laatste_update: 2017-05-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039590"
+country: "nl"
+rank: "zbo"
+publication_date: "2017-05-30"
+last_updated: "2017-05-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039590"
+soort: "zbo"
+stam_id: "14013563"
+version_id: "24119542"
+internal_id: "C34655571"
+label_id: "13975404"
+dtd_version: "2.0"
+original_entry_into_force: "2017-05-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039590/2017-05-30/0"
+intitule_bron: "Stcrt.2017-29961"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2017-05-30"
+intitule_in_force: "2017-05-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-29961"
+original_published_date: "2017-05-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-29961"
+entry_into_force_date: "2017-05-30"
+jci_1_3: "jci1.3:c:BWBR0039590&z=2017-05-30&g=2017-05-30"
+jci_1_0: "1.0:c:BWBR0039590&g=2017-05-30"
+citeertitel_status: "redactioneel"
+entry_into_force: "2017-05-30"
 ---
-
 # Beleid beoordeling verzoeken notarissen om een ontheffing van de verplichting om een samenstellingsverklaring te verstrekken bij het indienen van kwartaalcijfers over het eerste tot en met het vierde kwartaal 2018
 
 ### Paragraaf 1. Inleiding

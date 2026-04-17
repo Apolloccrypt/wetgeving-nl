@@ -1,13 +1,38 @@
 ---
 title: "Besluit vaststelling en verhoging subsidieplafonds 2025"
 identifier: "BWBR0051114"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-06-17
-laatste_update: 2025-06-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051114"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-06-17"
+last_updated: "2025-06-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051114"
+soort: "zbo"
+stam_id: "17446973"
+version_id: "30766132"
+internal_id: "C44104281"
+label_id: "17349764"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051114/2025-06-17/0"
+intitule_bron: "Stcrt.2025-20232"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-06-02"
+intitule_published: "2025-06-16"
+intitule_in_force: "2025-06-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-20232"
+original_signed_date: "2025-06-02"
+original_published_date: "2025-06-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-20232"
+entry_into_force_date: "2025-06-17"
+jci_1_3: "jci1.3:c:BWBR0051114&z=2025-06-17&g=2025-06-17"
+jci_1_0: "1.0:c:BWBR0051114&g=2025-06-17"
+citeertitel_status: "redactioneel"
+signed_date: "2025-06-02"
+entry_into_force: "2025-06-17"
 ---
-
 # Besluit vaststelling en verhoging subsidieplafonds 2025
 
 Gelet op [artikel 4:25, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:25);
@@ -22,7 +47,7 @@ Gelet op [artikel 8 van de Deelregeling programma urban projecten Fonds Podiumku
 
 Besluit:
 
-#### Artikel 1. Tekst en compositie
+##### Artikel 1. Tekst en compositie
 
 1. Voor **subsidie tot het verlenen van een ontwikkelbeurs muziekauteur** als bedoeld in [artikel 2.1 van de Deelregeling composities en libretto’s Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0036773&artikel=2.1) geldt het volgende:
 
@@ -43,7 +68,7 @@ Besluit:
 | --- | --- | --- |
 | Ronde 1 | 275.000 | 3 september 2025 |
 
-#### Artikel 2. Produceren
+##### Artikel 2. Produceren
 
 1. Voor **productiesubsidies** als bedoeld in [artikel 2.1 van de Deelregeling projectsubsidies Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0029367&artikel=2.1) geldt het volgende:
 
@@ -58,7 +83,7 @@ Besluit:
 | --- | --- |
 | 61.000 | 661.000 |
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Dit besluit wordt bekendgemaakt via de website van het Fonds Podiumkunsten en in de Staatscourant en treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 

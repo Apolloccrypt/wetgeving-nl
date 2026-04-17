@@ -1,13 +1,39 @@
 ---
-title: "Regeling voorschrijfbevoegdheid verpleegkundigen"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport, van 19 november 2013, kenmerk MEVA-164800-112408, houdende het voorschrijven van UR-geneesmiddelen door bepaalde categorieën van verpleegkundigen"
 identifier: "BWBR0034266"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2016-03-19
-laatste_update: 2016-03-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034266"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-03-19"
+last_updated: "2016-03-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034266"
+soort: "ministeriele-regeling"
+stam_id: "12445483"
+version_id: "20917692"
+internal_id: "C30032411"
+label_id: "12416364"
+dtd_version: "2.0"
+original_entry_into_force: "2013-12-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034266/2016-03-19/0"
+intitule_bron: "Stcrt.2013-33354"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-11-19"
+intitule_published: "2013-12-02"
+intitule_in_force: "2013-12-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-33354"
+original_signed_date: "2013-11-19"
+original_published_date: "2013-12-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-33354"
+entry_into_force_date: "2013-12-03"
+jci_1_3: "jci1.3:c:BWBR0034266&z=2016-03-19&g=2016-03-19"
+jci_1_0: "1.0:c:BWBR0034266&g=2016-03-19"
+citeertitel_status: "officieel"
+short_title: "Regeling voorschrijfbevoegdheid verpleegkundigen"
+signed_date: "2013-11-19"
+entry_into_force: "2013-12-03"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport, van 19 november 2013, kenmerk MEVA-164800-112408, houdende het voorschrijven van UR-geneesmiddelen door bepaalde categorieën van verpleegkundigen
 
 Gelet op de [artikelen 36, veertiende lid, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36), en [2, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2) en [4, tweede lid van het Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=4);
@@ -18,7 +44,7 @@ Besluit:
 
 #### Paragraaf 2. Verpleegkundige op het gebied van diabetes mellitus
 
-#### Artikel 2
+##### Artikel 2
 
 1. Als bevoegd tot het voorschrijven van UR-geneesmiddelen op het gebied van diabetes mellitus wordt aangewezen:
 
@@ -72,7 +98,7 @@ Besluit:
 
 - 6°. de hogeschool die de module verzorgt, beschikt over een adequaat systeem van toetsing en aantoont dat de beoogde modulecompetenties worden gerealiseerd.
 
-#### Artikel 3
+##### Artikel 3
 
 De bevoegdheid tot het voorschrijven van geneesmiddelen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=2&artikel=2&z=2016-03-19&g=2016-03-19), geldt slechts:
 
@@ -86,7 +112,7 @@ De bevoegdheid tot het voorschrijven van geneesmiddelen als bedoeld in [artikel 
 
 #### Paragraaf 3. Verpleegkundige op het gebied van de oncologie
 
-#### Artikel 6
+##### Artikel 6
 
 1. Als bevoegd tot het voorschrijven van UR-geneesmiddelen op het gebied van astma en COPD wordt aangewezen:
 
@@ -134,7 +160,7 @@ De bevoegdheid tot het voorschrijven van geneesmiddelen als bedoeld in [artikel 
 
 - 6°. de hogeschool die de module verzorgt, beschikt over een adequaat systeem van toetsing en aantoont dat de beoogde modulecompetenties worden gerealiseerd.
 
-#### Artikel 7
+##### Artikel 7
 
 De bevoegdheid tot het voorschrijven van geneesmiddelen als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=4&artikel=6&z=2016-03-19&g=2016-03-19), geldt slechts;
 
@@ -144,13 +170,13 @@ De bevoegdheid tot het voorschrijven van geneesmiddelen als bedoeld in [artikel 
 
 - c. voor zover de op grond van artikel 6, eerste lid, aangewezen verpleegkundige bij het voorschrijven de binnen de relevante beroepsgroepen geldende richtlijnen, standaarden en daarvan afgeleide protocollen volgt.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Bij een aanvraag als bedoeld in [artikel 5, eerste lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=5), dient de verpleegkundige, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=2&artikel=2&z=2016-03-19&g=2016-03-19), dan wel [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=4&artikel=6&z=2016-03-19&g=2016-03-19), het getuigschrift of een gewaarmerkte kopie, die is gewaarmerkt door de instelling die het getuigschrift heeft afgegeven of door een notaris, te overleggen waaruit blijkt dat hij met goed gevolg de voorgeschreven scholing heeft afgerond.
 
 2. Bij een aanvraag als bedoeld in [artikel 5, eerste lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=5), dient de verpleegkundige, bedoeld in [artikel 2, eerste lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=2&artikel=2&z=2016-03-19&g=2016-03-19), of in [artikel 4, eerste lid, onderdeel b, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=3&artikel=4&z=2016-03-19&g=2016-03-19), dan wel in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=4&artikel=6&z=2016-03-19&g=2016-03-19) het getuigschrift of een kopie, die is gewaarmerkt door de instelling die het getuigschrift heeft afgegeven of door een notaris, te overleggen waaruit blijkt dat is voldaan aan het eerste lid, onderdeel b of c van artikel 2, ofwel aan het eerste lid, onderdeel b, c, of d van artikel 4, dan wel aan het eerste lid, onderdeel b, van artikel 6.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Voor een aanwijzing als bedoeld in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=2&artikel=2&z=2016-03-19&g=2016-03-19), [artikel 4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=3&artikel=4&z=2016-03-19&g=2016-03-19), en [artikel 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=4&artikel=6&z=2016-03-19&g=2016-03-19):
 
@@ -176,7 +202,7 @@ De bevoegdheid tot het voorschrijven van geneesmiddelen als bedoeld in [artikel 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -218,7 +244,7 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 4. Verpleegkundige op het gebied van astma en COPD
 
-#### Artikel 10
+##### Artikel 10
 
 1. Tevens bevoegd tot het voorschrijven van geneesmiddelen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=2&artikel=2&z=2016-03-19&g=2016-03-19), of [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=3&artikel=4&z=2016-03-19&g=2016-03-19), dan wel [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=4&artikel=6&z=2016-03-19&g=2016-03-19) is de verpleegkundige:
 
@@ -244,11 +270,11 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 5. Overige bepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt de Regeling tarieven registratie beroepsbeoefenaren Wet BIG.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling treedt in werking:
 
@@ -258,13 +284,13 @@ Deze regeling treedt in werking:
 
 - c. voor wat betreft de overige bepalingen met ingang van 1 februari 2014.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling wordt aangehaald als: Regeling voorschrijfbevoegdheid verpleegkundigen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Als bevoegd tot het voorschrijven van UR-geneesmiddelen op het gebied van de oncologie wordt aangewezen:
 
@@ -304,7 +330,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - 6°. de zorginstelling of hogeschool die de module verzorgt, beschikt over een adequaat systeem van toetsing en aantoont dat de beoogde modulecompetenties worden gerealiseerd.
 
-#### Artikel 5
+##### Artikel 5
 
 De bevoegdheid tot het voorschrijven van geneesmiddelen als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034266&paragraaf=3&artikel=4&z=2016-03-19&g=2016-03-19), geldt slechts;
 

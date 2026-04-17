@@ -1,13 +1,39 @@
 ---
-title: "Besluit beperking openbaarheid archief Hoofdafdeling Privaatrecht Ministerie van Justitie inzake geslachtsnaamswijzigingen, 1921–1972"
+title: "Besluit van de Minister van Justitie en Veiligheid d.d. 17 januari 2020, kenmerk 2633979, houdende beperking van de openbaarheid van het archief van de Hoofdafdeling Privaatrecht van het Ministerie van Justitie inzake geslachtsnaamswijzigingen, 1921–1972"
 identifier: "BWBR0043215"
-categorie: "Strafrecht"
-publicatiedatum: 2020-02-27
-laatste_update: 2020-02-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043215"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-02-27"
+last_updated: "2020-02-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043215"
+soort: "ministeriele-regeling"
+stam_id: "15350423"
+version_id: "26526342"
+internal_id: "C37654041"
+label_id: "15295514"
+dtd_version: "2.0"
+original_entry_into_force: "2020-02-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043215/2020-02-27/0"
+intitule_bron: "Stcrt.2020-10389"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-01-17"
+intitule_published: "2020-02-26"
+intitule_in_force: "2020-02-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-10389"
+original_signed_date: "2020-01-17"
+original_published_date: "2020-02-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-10389"
+entry_into_force_date: "2020-02-27"
+jci_1_3: "jci1.3:c:BWBR0043215&z=2020-02-27&g=2020-02-27"
+jci_1_0: "1.0:c:BWBR0043215&g=2020-02-27"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid archief Hoofdafdeling Privaatrecht Ministerie van Justitie inzake geslachtsnaamswijzigingen, 1921–1972"
+signed_date: "2020-01-17"
+entry_into_force: "2020-02-27"
 ---
-
 # Besluit van de Minister van Justitie en Veiligheid d.d. 17 januari 2020, kenmerk 2633979, houdende beperking van de openbaarheid van het archief van de Hoofdafdeling Privaatrecht van het Ministerie van Justitie inzake geslachtsnaamswijzigingen, 1921–1972
 
 Gelet op [artikel 15, lid 1, onder a Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van het de algemene rijksarchivaris d.d. 17 december 2019, met kenmerk 8269476.
@@ -16,7 +42,7 @@ Besluit:
 
 Tot de volgende beperkingen aan de openbaarheid van het archief van de Hoofdafdeling Privaatrecht van het Ministerie van Justitie inzake geslachtsnaamswijzigingen, 1921–1972
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
@@ -7810,14 +7836,14 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 | 26630 | 2055 |   |   |   |   |
 | 26631 | 2050 |   |   |   |   |
 
-#### Artikel 2
+##### Artikel 2
 
 Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043215&artikel=1&z=2020-02-27&g=2020-02-27), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
 
-#### Artikel 3
+##### Artikel 3
 
 Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043215&artikel=1&z=2020-02-27&g=2020-02-27), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van de Hoofdafdeling Privaatrecht van het Ministerie van Justitie inzake geslachtsnaamswijzigingen, 1921–1972.’

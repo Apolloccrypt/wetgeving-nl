@@ -1,14 +1,42 @@
 ---
-title: "Kaderwet subsidies Ministerie van Buitenlandse Zaken"
+title: "Wet van 24 december 1998, houdende regels inzake de verstrekking van subsidies door de Minister van Buitenlandse Zaken en de Minister voor Ontwikkelingssamenwerking (Kaderwet subsidies Ministerie van Buitenlandse Zaken)"
 identifier: "BWBR0010178"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-07-01
-laatste_update: 2021-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010178"
+country: "nl"
+rank: "wet"
+publication_date: "2021-07-01"
+last_updated: "2021-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010178"
+soort: "wet"
+stam_id: "984133"
+version_id: "20928472"
+internal_id: "C30045861"
+label_id: "953814"
+dtd_version: "2.0"
+original_entry_into_force: "2013-11-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010178/2021-07-01/0"
+intitule_bron: "Stb.1998-739"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-12-24"
+intitule_published: "1998-12-30"
+intitule_in_force: "1998-12-30"
+intitule_status: "goed"
+original_publication: "Stb.2013-482"
+original_signed_date: "2013-11-11"
+original_published_date: "2013-12-05"
+original_effect: "structuurwijziging"
+original_dossier: "33656"
+original_url_id: "stb-2013-482"
+entry_into_force_date: "2013-11-11"
+entry_into_force_dossier: "33656"
+jci_1_3: "jci1.3:c:BWBR0010178&z=2021-07-01&g=2021-07-01"
+jci_1_0: "1.0:c:BWBR0010178&g=2021-07-01"
+citeertitel_status: "officieel"
+short_title: "Kaderwet subsidies Ministerie van Buitenlandse Zaken"
+signed_date: "2013-11-11"
+entry_into_force: "2013-11-11"
 ---
-
-# Kaderwet subsidies Ministerie van Buitenlandse Zaken
+# Wet van 24 december 1998, houdende regels inzake de verstrekking van subsidies door de Minister van Buitenlandse Zaken en de Minister voor Ontwikkelingssamenwerking (Kaderwet subsidies Ministerie van Buitenlandse Zaken)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,11 +44,11 @@ Alzo Wij in overweging genomen hebben, dat de totstandkoming van de derde tranch
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk wij goed vinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder «Onze Minister»: Onze Minister van Buitenlandse Zaken of Onze Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
-#### Artikel 2
+##### Artikel 2
 
 Onze Minister kan subsidies verstrekken voor activiteiten welke passen in het beleid ten aanzien van:
 
@@ -44,7 +72,7 @@ Onze Minister kan subsidies verstrekken voor activiteiten welke passen in het be
 
 - j. het bevorderen van het welzijn van het personeel van het Ministerie van Buitenlandse Zaken.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling worden de activiteiten waarvoor subsidie kan worden verstrekt nader bepaald en worden nadere regels voor die verstrekking vastgesteld.
 
@@ -90,13 +118,13 @@ Onze Minister kan subsidies verstrekken voor activiteiten welke passen in het be
 
 4. Aan de subsidie kunnen verplichtingen worden verbonden met betrekking tot de bij of krachtens deze wet geregelde beoordelingsmaatstaven.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Deze wet is niet van toepassing op subsidies waarvan de verstrekking bij afzonderlijke wet is geregeld.
 
 2. Deze wet en [afdeling 3.3 tot en met 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.3) en de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8) en [10 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=10) zijn niet van toepassing op de verstrekking van financiële middelen aan natuurlijke personen en rechtspersonen buiten de Europese Unie door een Nederlandse vertegenwoordiging buiten de Europese Unie namens Onze Minister.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een aanvraag voor een subsidie kan worden afgewezen en een beschikking inhoudende de verstrekking van een subsidie kan door Onze Minister worden ingetrokken of gewijzigd voor zover subsidieverstrekking in strijd zou zijn met volkenrechtelijke verplichtingen rustend op de staat.
 
@@ -104,7 +132,7 @@ Onze Minister kan subsidies verstrekken voor activiteiten welke passen in het be
 
 3. Onze Minister kan in een beschikking tot subsidieverlening bepalen dat het instellen van bezwaar en beroep tegen een verleende subsidie schorsende werking heeft.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Met het toezicht op de naleving van de bij of krachtens deze wet aan de subsidieontvanger opgelegde verplichtingen zijn belast de bij besluit van Onze Minister aangewezen personen.
 
@@ -112,17 +140,17 @@ Onze Minister kan subsidies verstrekken voor activiteiten welke passen in het be
 
 3. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze wet wordt aangehaald als: Kaderwet subsidies Ministerie van Buitenlandse Zaken.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. De op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010178&artikel=3&z=2021-07-01&g=2021-07-01) in samenhang met [artikel 2, eerste lid, onder e, van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009194&artikel=2), zoals deze luidde voor inwerkingtreding van de wet van 11 november 2013 tot wijziging van de Kaderwet EZ-subsidies (aanpassing aan de samenvoeging van de voormalige ministeries van Economische Zaken en van Landbouw, Natuur en Voedselkwaliteit) (Stb. 2013, 482), vastgestelde ministeriële regelingen, berusten op [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010178&artikel=3&z=2021-07-01&g=2021-07-01), van deze wet.
 

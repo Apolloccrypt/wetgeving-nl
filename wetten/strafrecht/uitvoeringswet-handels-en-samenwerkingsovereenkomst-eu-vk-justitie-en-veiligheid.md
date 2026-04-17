@@ -1,14 +1,41 @@
 ---
-title: "Uitvoeringswet Handels- en Samenwerkingsovereenkomst EU – VK Justitie en Veiligheid"
+title: "Wet van 14 juli 2021 tot uitvoering van Deel III van de op 30 december 2020 te Brussel en Londen tot stand gekomen Handels- en Samenwerkingsovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie enerzijds en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland anderzijds (PbEU 2020, L 444 en PbEU 2021, L 149) (Uitvoeringswet Handels- en Samenwerkingsovereenkomst EU – VK Justitie en Veiligheid)"
 identifier: "BWBR0045415"
-categorie: "Strafrecht"
-publicatiedatum: 2021-07-17
-laatste_update: 2021-07-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045415"
+country: "nl"
+rank: "wet"
+publication_date: "2021-07-17"
+last_updated: "2021-07-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045415"
+soort: "wet"
+stam_id: "16028113"
+version_id: "27911832"
+internal_id: "C39356071"
+label_id: "15961674"
+dtd_version: "2.0"
+original_entry_into_force: "2021-07-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045415/2021-07-17/0"
+intitule_bron: "Stb.2021-355"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-07-14"
+intitule_published: "2021-07-16"
+intitule_in_force: "2021-07-16"
+intitule_status: "goed"
+original_publication: "Stb.2021-355"
+original_signed_date: "2021-07-14"
+original_published_date: "2021-07-16"
+original_effect: "nieuwe-regeling"
+original_dossier: "35852"
+original_url_id: "stb-2021-355"
+entry_into_force_date: "2021-07-17"
+jci_1_3: "jci1.3:c:BWBR0045415&z=2021-07-17&g=2021-07-17"
+jci_1_0: "1.0:c:BWBR0045415&g=2021-07-17"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringswet Handels- en Samenwerkingsovereenkomst EU – VK Justitie en Veiligheid"
+signed_date: "2021-07-14"
+entry_into_force: "2021-07-17"
 ---
-
-# Uitvoeringswet Handels- en Samenwerkingsovereenkomst EU – VK Justitie en Veiligheid
+# Wet van 14 juli 2021 tot uitvoering van Deel III van de op 30 december 2020 te Brussel en Londen tot stand gekomen Handels- en Samenwerkingsovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie enerzijds en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland anderzijds (PbEU 2020, L 444 en PbEU 2021, L 149) (Uitvoeringswet Handels- en Samenwerkingsovereenkomst EU – VK Justitie en Veiligheid)
 
 Allen die deze zullen zien of horen lezen, saluut!
 
@@ -18,7 +45,7 @@ Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met 
 
 ### Hoofdstuk 1. Overlevering
 
-#### Artikel 1
+##### Artikel 1
 
 Overlevering tussen Nederland enerzijds, en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland anderzijds vindt plaats met inachtneming van:
 
@@ -30,7 +57,7 @@ Overlevering tussen Nederland enerzijds, en het Verenigd Koninkrijk van Groot-Br
 
 - d. deze wet.
 
-#### Artikel 2
+##### Artikel 2
 
 Overlevering kan worden geweigerd indien het aanhoudingsbevel een strafbaar feit betreft dat:
 
@@ -38,7 +65,7 @@ Overlevering kan worden geweigerd indien het aanhoudingsbevel een strafbaar feit
 
 - b. buiten het grondgebied van de uitvaardigende staat is gepleegd, terwijl naar Nederlands recht geen vervolging zou kunnen worden ingesteld indien het feit buiten Nederland zou zijn gepleegd.
 
-#### Artikel 3
+##### Artikel 3
 
 1. [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&artikel=1) en [Afdeling 2 van Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&afdeling=2), alsmede de [Hoofdstukken III tot en met V van de Overleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=III) zijn van overeenkomstige toepassing op de behandeling van aanhoudingsbevelen als bedoeld in Deel III, Titel VII (Overlevering), van de op 30 december 2020 te Brussel en Londen tot stand gekomen Handels- en Samenwerkingsovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie enerzijds en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland anderzijds (PbEU 2020, L 444 en PbEU 2021, L 149).
 
@@ -60,15 +87,15 @@ Overlevering kan worden geweigerd indien het aanhoudingsbevel een strafbaar feit
 
 - h. uitvoerende staat: de staat waar de uitvoerende justitiële autoriteit werkzaam is.
 
-#### Artikel 4
+##### Artikel 4
 
 De samenwerking tussen Nederland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland in het kader van het aanhoudingsbevel, bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045415&hoofdstuk=1&artikel=3&z=2021-07-17&g=2021-07-17), voldoet aan de vereisten van noodzakelijkheid en evenredigheid, rekening houdend met de rechten van de opgeëiste persoon en de belangen van de slachtoffers, de ernst van de gepleegde strafbare feiten, de straf of maatregel die waarschijnlijk wordt opgelegd, en de mogelijkheid dat de uitvoerende staat minder vergaande maatregelen treft dan de overlevering jegens de opgeëiste persoon, teneinde onnodig lange vrijheidsbeneming te voorkomen.
 
-#### Artikel 5
+##### Artikel 5
 
 [Artikel 6 van de Overleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&artikel=6) is van overeenkomstige toepassing op de overlevering van Nederlanders en daarmee krachtens het derde lid van dat artikel gelijkgestelde vreemdelingen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Overlevering van een Nederlander ten behoeve van de tenuitvoerlegging van een bij onherroepelijk vonnis aan hem opgelegde vrijheidsstraf kan worden geweigerd, indien:
 
@@ -100,19 +127,19 @@ De samenwerking tussen Nederland en het Verenigd Koninkrijk van Groot-Brittanni�
 
 10. Het eerste tot en met het negende lid is eveneens van toepassing op een vreemdeling die tijdens het verhoor door de rechtbank aantoont dat hij ten minste vijf jaren ononderbroken rechtmatig in Nederland heeft verbleven als bedoeld in [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823), voor zover ten aanzien van hem de verwachting bestaat dat hij niet zijn recht van verblijf in Nederland verliest ten gevolge van de opgelegde straf of maatregel. Eventuele bewijsstukken dienen tijdig voorafgaand aan het verhoor door de rechtbank te worden overlegd.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien een aanhoudingsbevel strekt tot vervolging van de opgeëiste persoon in het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en toepassing van [artikel 6 van de Overleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&artikel=6) leidt tot weigering van de overlevering deelt de officier van justitie aan de uitvaardigende justitiële autoriteit mede of de feiten aanknopingspunt bieden voor vervolging in Nederland, en welke beslissing terzake van vervolging in Nederland is genomen. Hij geeft daarbij aan op welke wijze hij met eventuele zienswijzen van de uitvaardigende justitiële autoriteit rekening heeft gehouden. [Artikel 51ac van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51ac) is van overeenkomstige toepassing.
 
 ### Hoofdstuk 2. Wederzijdse rechtshulp
 
-#### Artikel 8
+##### Artikel 8
 
 Onverminderd het bepaalde in het [Vijfde Boek van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&boek=Vijfde) kan een verzoek om rechtshulp aan de autoriteiten van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland slechts geschieden indien dat verzoek noodzakelijk is en in verhouding staat tot het doel van het onderzoek, daarbij rekening houdend met de rechten van de verdachte of beschuldigde persoon.
 
 ### Hoofdstuk 3. Justitiële gegevens
 
-#### Artikel 9
+##### Artikel 9
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -124,15 +151,15 @@ In dit hoofdstuk wordt verstaan onder:
 
 - d. **Onze Minister:** Onze Minister, bedoeld in [artikel 1, onderdeel y, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=1).
 
-#### Artikel 10
+##### Artikel 10
 
 In afwijking van [artikel 3, tweede lid, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=3) worden justitiële gegevens verwerkt ter uitvoering van de overeenkomst en het bij dit hoofdstuk bepaalde.
 
-#### Artikel 11
+##### Artikel 11
 
 Onze Minister verzoekt de centrale autoriteit van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland om doorgifte van justitiële gegevens ten behoeve van het veiligheidsonderzoek in verband met werving of vrijwillige activiteiten waarbij sprake is van rechtstreeks en geregeld contact met kinderen, nadat betrokkene een aanvraag heeft gedaan om afgifte van een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28).
 
-#### Artikel 12
+##### Artikel 12
 
 Onze Minister geeft op verzoek van de centrale autoriteit van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland justitiële gegevens door indien die gegevens worden verzocht ten behoeve van:
 
@@ -142,17 +169,17 @@ Onze Minister geeft op verzoek van de centrale autoriteit van het Verenigd Konin
 
 ### Hoofdstuk 4. Passagiersgegevens
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt de Wet gebruik van passagiersgegevens voor de bestrijding van terroristische en ernstige misdrijven.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 14
+##### Artikel 14
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze wet wordt aangehaald als: Uitvoeringswet Handels- en Samenwerkingsovereenkomst EU – VK Justitie en Veiligheid.
 

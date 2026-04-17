@@ -1,16 +1,42 @@
 ---
-title: "Regeling kwaliteitsafspraken mbo 2024–2027"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 9 maart 2023, nr. MBO/36996245, houdende regels voor de verstrekking van aanvullende bekostiging voor het verhogen van de kwaliteit van het beroepsonderwijs 2024–2027 (Regeling kwaliteitsafspraken mbo 2024–2027)"
 identifier: "BWBR0047959"
-categorie: "Onderwijs"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047959"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047959"
+soort: "ministeriele-regeling"
+stam_id: "16692533"
+version_id: "29281322"
+internal_id: "C41708491"
+label_id: "16610034"
+dtd_version: "2.0"
+original_entry_into_force: "2023-03-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047959/2025-01-01/0"
+intitule_bron: "Stcrt.2023-8133"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-03-09"
+intitule_published: "2023-03-14"
+intitule_in_force: "2023-03-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-8133"
+original_signed_date: "2023-03-09"
+original_published_date: "2023-03-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-8133"
+entry_into_force_date: "2023-03-15"
+jci_1_3: "jci1.3:c:BWBR0047959&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0047959&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling kwaliteitsafspraken mbo 2024–2027"
+signed_date: "2023-03-09"
+entry_into_force: "2023-03-15"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 9 maart 2023, nr. MBO/36996245, houdende regels voor de verstrekking van aanvullende bekostiging voor het verhogen van de kwaliteit van het beroepsonderwijs 2024–2027 (Regeling kwaliteitsafspraken mbo 2024–2027)
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -50,11 +76,11 @@ In deze regeling wordt verstaan onder:
 
 - **wet:** [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
 
-#### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Doelomschrijving
+##### Artikel 3. Doelomschrijving
 
 De minister kan op aanvraag van het bevoegd gezag van een instelling voor de kalenderjaren 2024 tot en met 2027 aanvullende bekostiging verstrekken ten behoeve van activiteiten die erop zijn gericht:
 
@@ -64,7 +90,7 @@ De minister kan op aanvraag van het bevoegd gezag van een instelling voor de kal
 
 - c. gezamenlijk hiervan te leren.
 
-#### Artikel 4. Bekostigingsplafond
+##### Artikel 4. Bekostigingsplafond
 
 Voor het verstrekken van de aanvullende bekostiging op grond van deze regeling zijn de volgende bedragen beschikbaar:
 
@@ -76,7 +102,7 @@ Voor het verstrekken van de aanvullende bekostiging op grond van deze regeling z
 
 - d. voor het kalenderjaar 2027 € 540.033.000,–.
 
-#### Artikel 5. Hoogte aanvullende bekostiging
+##### Artikel 5. Hoogte aanvullende bekostiging
 
 1. Indien de door het bevoegd gezag ingediende aanvraag voor aanvullende bekostiging wordt toegewezen, wordt jaarlijks een vast bedrag aan het bevoegd gezag verstrekt dat wordt berekend aan de hand van het bepaalde in het tweede tot en met zesde lid.
 
@@ -108,7 +134,7 @@ Voor het verstrekken van de aanvullende bekostiging op grond van deze regeling z
 
 - b. kan de minister ten aanzien van het tweede lid, onder b, de aanvullende bekostiging vaststellen op basis van het aantal studenten dat is ingeschreven voor een basisberoepsopleiding op 1 oktober 2021 en dat voor bekostiging in aanmerking komt.
 
-#### Artikel 6. Kwaliteitsagenda
+##### Artikel 6. Kwaliteitsagenda
 
 1. Het bevoegd gezag dient voor de kalenderjaren 2024–2027 een aanvraag voor aanvullende bekostiging in. De aanvraag heeft de vorm van een kwaliteitsagenda.
 
@@ -180,13 +206,13 @@ De analyse wordt opgesteld per doelstelling aan de hand van analyseonderdelen en
 
 5. Indien het bevoegd gezag meerdere instellingen in stand houdt, dient het bevoegd gezag per instelling een kwaliteitsagenda in.
 
-#### Artikel 7. Adviescommissie
+##### Artikel 7. Adviescommissie
 
 1. De minister stelt een onafhankelijke adviescommissie in die de minister adviseert ten behoeve van de beoordeling van de ingediende kwaliteitsagenda’s.
 
 2. Naast de adviestaak, bedoeld in het eerste lid, stelt de adviescommissie voor 15 september 2024 een integrale rapportage op met een landelijk beeld over de beoordeling van de kwaliteitsagenda’s en stuurt zij deze voor 15 september 2024 aan de minister toe.
 
-#### Artikel 8. Advisering adviescommissie over de kwaliteitsagenda
+##### Artikel 8. Advisering adviescommissie over de kwaliteitsagenda
 
 1. De adviescommissie beoordeelt of de kwaliteitsagenda compleet en als geheel voldoende onderbouwd, ambitieus en realistisch is. De adviescommissie gebruikt hierbij het beoordelingskader dat als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047959&bijlage=3&z=2025-01-01&g=2025-01-01) bij deze regeling is gevoegd en geeft op basis daarvan het oordeel voldoende of onvoldoende.
 
@@ -206,7 +232,7 @@ De analyse wordt opgesteld per doelstelling aan de hand van analyseonderdelen en
 
 - b. 4 april 2024 voor de tweede tranche.
 
-#### Artikel 9. Beoordeling minister van de kwaliteitsagenda
+##### Artikel 9. Beoordeling minister van de kwaliteitsagenda
 
 1. De minister besluit of de kwaliteitsagenda voldoende of onvoldoende is op uiterlijk:
 
@@ -220,7 +246,7 @@ De analyse wordt opgesteld per doelstelling aan de hand van analyseonderdelen en
 
 4. Indien het bevoegd gezag de kwaliteitsagenda na 1 oktober 2023 indient, kan de minister besluiten de kwaliteitsagenda af te wijzen. Indien de minister de kwaliteitsagenda niet afwijst op grond van de vorige volzin, valt de kwaliteitsagenda onder de tweede tranche.
 
-#### Artikel 10. Herkansing bij onvoldoende oordeel
+##### Artikel 10. Herkansing bij onvoldoende oordeel
 
 1. Bij een onvoldoende oordeel over de kwaliteitsagenda stelt de minister het bevoegd gezag in de gelegenheid een aangepaste kwaliteitsagenda in te dienen op uiterlijk 30 mei 2024 via de website [http://www.ckmbo.nl/](http://www.ckmbo.nl/).
 
@@ -236,13 +262,13 @@ De analyse wordt opgesteld per doelstelling aan de hand van analyseonderdelen en
 
 7. Dit artikel is van overeenkomstige toepassing indien de aanvraag voor aanvullende bekostiging is afgewezen op grond van [artikel 8, vierde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0047959&artikel=8&z=2025-01-01&g=2025-01-01), of indien de instelling nog niet eerder een kwaliteitsagenda heeft ingediend.
 
-#### Artikel 11. Institutionele fusie
+##### Artikel 11. Institutionele fusie
 
 1. Een bevoegd gezag van instellingen die op 1 augustus 2023 institutioneel fuseren, dient in afwijking van [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047959&artikel=6&z=2025-01-01&g=2025-01-01), één kwaliteitsagenda in voor de instelling die uit de institutionele fusie zal ontstaan.
 
 2. De berekeningswijze, bedoeld in [artikel 5, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047959&artikel=5&z=2025-01-01&g=2025-01-01), houdt voor het eerst rekening met een institutionele fusie met ingang van het eerstvolgende kalenderjaar na de ingangsdatum van die fusie. Bij een institutionele fusie tussen een randstadinstelling en een niet-randstadinstelling wordt de uit die institutionele fusie ontstane instelling daarbij aangemerkt als randstadinstelling.
 
-#### Artikel 12. Verplichtingen
+##### Artikel 12. Verplichtingen
 
 1. Het bevoegd gezag spant zich in voor de realisatie van de ambities en maatregelen uit de kwaliteitsagenda en borgt dit door:
 
@@ -262,7 +288,7 @@ De analyse wordt opgesteld per doelstelling aan de hand van analyseonderdelen en
 
 - b. een peer review door andere instellingen te organiseren om te leren van goede ervaringen van de andere instellingen.
 
-#### Artikel 13. Vaststelling en betaling
+##### Artikel 13. Vaststelling en betaling
 
 1. Voor kalenderjaar 2024 wordt de aanvullende bekostiging direct vastgesteld in uiterlijk:
 
@@ -288,11 +314,11 @@ mits de kwaliteitsagenda’s als voldoende zijn beoordeeld.
 
 4. Aan het maandbedrag van de maand waarin voor de eerste maal een betaling plaatsvindt, worden tevens de maandbedragen vanaf januari 2024 tot aan die maand toegevoegd.
 
-#### Artikel 14. Besteding
+##### Artikel 14. Besteding
 
 De aanvullende middelen kunnen ook worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
-#### Artikel 15. Verantwoording
+##### Artikel 15. Verantwoording
 
 1. De verantwoording van de aanvullende bekostiging geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132).
 
@@ -308,11 +334,11 @@ De aanvullende middelen kunnen ook worden besteed aan andere activiteiten waarvo
 
 3. Het bevoegd gezag levert de informatie, bedoeld in het tweede lid, tevens aan door middel van een door de minister beschikbaar gesteld digitaal format voor 1 juli volgend op het jaar waarvoor de aanvullende bekostiging is verstrekt. Voor zover de indicatoren nog niet beschikbaar waren voor het bestuursverslag, neemt het bevoegd gezag deze indicatoren alsnog op in het digitaal format.
 
-#### Artikel 16. Sancties
+##### Artikel 16. Sancties
 
 Indien het bevoegd gezag in strijd handelt met de verplichtingen, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0047959&artikel=12&z=2025-01-01&g=2025-01-01) of [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0047959&artikel=15&z=2025-01-01&g=2025-01-01), kan de minister een sanctie als bedoeld in [artikel 11.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=11.1) of de [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) opleggen.
 
-#### Artikel 17. Openbaarmaking
+##### Artikel 17. Openbaarmaking
 
 1. Onverminderd [hoofdstuk 5 van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5) maakt de minister de volgende documenten openbaar door deze elektronisch beschikbaar te stellen op de website [www.kwaliteitsafsprakenmbo.nl](http://www.kwaliteitsafsprakenmbo.nl/):
 
@@ -326,15 +352,15 @@ Indien het bevoegd gezag in strijd handelt met de verplichtingen, bedoeld in [ar
 
 2. Tot openbaarmaking van de in het eerste lid genoemde documenten, met uitzondering van het eerste lid, onderdeel d, wordt niet eerder overgegaan dan nadat zes weken zijn verstreken vanaf de dagtekening van de besluiten, bedoeld in het eerste lid, onder b, waaraan de desbetreffende adviezen en kwaliteitsagenda’s ten grondslag liggen.
 
-#### Artikel 18. Wijziging [Instellingsbesluit Commissie Kwaliteitsafspraken mbo](https://wetten.overheid.nl/jci1.3:c:BWBR0041054)
+##### Artikel 18. Wijziging [Instellingsbesluit Commissie Kwaliteitsafspraken mbo](https://wetten.overheid.nl/jci1.3:c:BWBR0041054)
 
 Wijzigt het Instellingsbesluit Commissie Kwaliteitsafspraken mbo.
 
-#### Artikel 19. Intrekking [Regeling versterking van salarismix leraren middelbaar beroepsonderwijs in de Randstadregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0026565)
+##### Artikel 19. Intrekking [Regeling versterking van salarismix leraren middelbaar beroepsonderwijs in de Randstadregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0026565)
 
 De [Regeling versterking van salarismix leraren middelbaar beroepsonderwijs in de Randstadregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0026565) komt te vervallen, met dien verstande dat zij van toepassing blijft op de aanvullende bekostiging die voor die datum is verstrekt.
 
-#### Artikel 20. Inwerkingtreding en vervaldatum
+##### Artikel 20. Inwerkingtreding en vervaldatum
 
 - –. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, waarbij [artikel 18, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0047959&artikel=18&z=2025-01-01&g=2025-01-01), terugwerkt tot en met 1 januari 2023.
 
@@ -342,7 +368,7 @@ De [Regeling versterking van salarismix leraren middelbaar beroepsonderwijs in d
 
 - –. Deze regeling vervalt met ingang van 1 januari 2028, met dien verstande dat zij van toepassing blijft op de aanvullende bekostiging die voor die datum is verstrekt.
 
-#### Artikel 21. Citeertitel
+##### Artikel 21. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling kwaliteitsafspraken mbo 2024–2027.
 

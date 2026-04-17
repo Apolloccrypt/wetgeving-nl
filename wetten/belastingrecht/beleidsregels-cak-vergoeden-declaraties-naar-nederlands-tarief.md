@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregels CAK vergoeden declaraties naar Nederlands tarief"
 identifier: "BWBR0048130"
-categorie: "Belastingrecht"
-publicatiedatum: 2024-10-19
-laatste_update: 2024-10-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048130"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-10-19"
+last_updated: "2024-10-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048130"
+soort: "zbo"
+stam_id: "16739513"
+version_id: "29390972"
+internal_id: "C41930331"
+label_id: "16655634"
+dtd_version: "2.0"
+original_entry_into_force: "2023-05-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048130/2024-10-19/0"
+intitule_bron: "Stcrt.2023-12914"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-04-26"
+intitule_published: "2023-05-05"
+intitule_in_force: "2023-05-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-12914"
+original_signed_date: "2023-04-26"
+original_published_date: "2023-05-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-12914"
+entry_into_force_date: "2023-05-06"
+jci_1_3: "jci1.3:c:BWBR0048130&z=2024-10-19&g=2024-10-19"
+jci_1_0: "1.0:c:BWBR0048130&g=2024-10-19"
+citeertitel_status: "officieel"
+signed_date: "2023-04-26"
+entry_into_force: "2023-05-06"
 ---
-
 # Beleidsregels CAK vergoeden declaraties naar Nederlands tarief
 
 gelet op de [artikelen 6.1.2, onderdeel k, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.2), [4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [1 van het Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 3 augustus 2015, houdende de aanwijzing van enige organen ingevolge Verordening (EG) nr. 883/2004](https://wetten.overheid.nl/jci1.3:c:BWBR0036921&artikel=1),
@@ -18,7 +43,7 @@ overwegende dat het gewenst is om beleidsregels vast te stellen ter invulling va
 
 besluit om de volgende beleidsregels vast te stellen:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregels wordt verstaan onder:
 
@@ -36,11 +61,11 @@ In deze beleidsregels wordt verstaan onder:
 
 - g. **geplande zorg:** medische zorg waarvoor een gerechtigde reist naar een andere lidstaat, niet zijnde Nederland, dan de lidstaat waar de gerechtigde woonachtig is met het oogmerk die zorg tijdens zijn verblijf daar te ontvangen.
 
-#### Artikel 2. Toepassingsbereik
+##### Artikel 2. Toepassingsbereik
 
 Deze beleidsregels zijn van toepassing op het toekennen door het CAK van een vergoeding naar Nederlands tarief voor de kosten van verleende medische zorg waarop het bepaalde in de basisverordening van toepassing is en die is verleend in een ander land dan het woonland van gerechtigde of Nederland.
 
-#### Artikel 3. Zorg bij tijdelijk verblijf
+##### Artikel 3. Zorg bij tijdelijk verblijf
 
 1. Het CAK kent aan een gerechtigde een vergoeding toe voor de kosten van verleende zorg bij verblijf indien deze kosten overeenkomstig de wetgeving van het land waar de zorg is verleend geheel voor eigen rekening van gerechtigde blijven.
 
@@ -60,7 +85,7 @@ Deze beleidsregels zijn van toepassing op het toekennen door het CAK van een ver
 
 5. Het CAK vraagt de Onderlinge Waarborgmaatschappij Centrale Zorgverzekeraars Groep U.A. advies over het bedrag dat overeenkomstig de polis zou zijn vergoed indien de zorg in Nederland zou zijn verleend.
 
-#### Artikel 4. Geplande zorg
+##### Artikel 4. Geplande zorg
 
 1. Het CAK kent aan een gerechtigde op aanvraag een vergoeding toe voor de kosten van verleende geplande zorg waarvoor op grond van artikel 20 van de basisverordening toestemming is gegeven, indien:
 
@@ -70,16 +95,16 @@ Deze beleidsregels zijn van toepassing op het toekennen door het CAK van een ver
 
 2. [Artikel 3, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048130&artikel=3&z=2024-10-19&g=2024-10-19), is van overeenkomstige toepassing.
 
-#### Artikel 5. Indienen declaraties
+##### Artikel 5. Indienen declaraties
 
 1. De gerechtigde dient zijn declaraties voor de vergoeding van de kosten in op de door het CAK voorgeschreven wijze.
 
 2. Declaraties voor de vergoeding van de kosten kunnen worden ingediend tot uiterlijk 36 maanden na de datum van de factuur.
 
-#### Artikel 6. Citeertitel
+##### Artikel 6. Citeertitel
 
 Dit besluit wordt aangehaald als: Beleidsregels CAK vergoeden declaraties naar Nederlands tarief.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na plaatsing in de Staatscourant en werkt terug tot en met 1 mei 2023.

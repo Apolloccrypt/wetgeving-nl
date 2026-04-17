@@ -1,13 +1,39 @@
 ---
-title: "Regeling regionaal investeringsfonds mbo 2024–2027"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 3 november 2023, nr. MBO/39770712, houdende regels voor de verstrekking van aanvullende middelen voor de verbetering van de aansluiting van het beroepsonderwijs op de arbeidsmarkt door publiek-private samenwerking (Regeling regionaal investeringsfonds mbo 2024–2027)"
 identifier: "BWBR0048883"
-categorie: "Onderwijs"
-publicatiedatum: 2025-05-20
-laatste_update: 2025-05-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048883"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-05-20"
+last_updated: "2025-05-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048883"
+soort: "ministeriele-regeling"
+stam_id: "16913213"
+version_id: "29726272"
+internal_id: "C42604271"
+label_id: "16824934"
+dtd_version: "2.0"
+original_entry_into_force: "2023-11-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048883/2025-05-20/0"
+intitule_bron: "Stcrt.2023-31220"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-11-03"
+intitule_published: "2023-11-14"
+intitule_in_force: "2023-11-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-31220"
+original_signed_date: "2023-11-03"
+original_published_date: "2023-11-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-31220"
+entry_into_force_date: "2023-11-15"
+jci_1_3: "jci1.3:c:BWBR0048883&z=2025-05-20&g=2025-05-20"
+jci_1_0: "1.0:c:BWBR0048883&g=2025-05-20"
+citeertitel_status: "officieel"
+short_title: "Regeling regionaal investeringsfonds mbo 2024–2027"
+signed_date: "2023-11-03"
+entry_into_force: "2023-11-15"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 3 november 2023, nr. MBO/39770712, houdende regels voor de verstrekking van aanvullende middelen voor de verbetering van de aansluiting van het beroepsonderwijs op de arbeidsmarkt door publiek-private samenwerking (Regeling regionaal investeringsfonds mbo 2024–2027)
 
 Gelet op artikel [2.2.3, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.3), [artikel 2.2.3, eerste lid, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=2.2.3) en [artikel 5.9 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.9);
@@ -16,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -54,19 +80,19 @@ In deze regeling wordt verstaan onder:
 
 - **WEB BES:** [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395).
 
-#### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Doel van de regeling
+##### Artikel 3. Doel van de regeling
 
 Het doel van deze regeling is het beschikbaar stellen van geld ten behoeve van samenwerkingsverbanden die bestaan uit publieke en private partijen en die ten doel hebben de aansluiting van het middelbaar beroepsonderwijs op de behoefte van de arbeidsmarkt te verbeteren.
 
-#### Artikel 4. Registratie
+##### Artikel 4. Registratie
 
 Partijen die willen samenwerken in een samenwerkingsverband, kunnen zich laten registreren bij DUS-I. De belangstelling voor deelname wordt kenbaar gemaakt met gebruikmaking van een formulier op de website van DUS-I.
 
-#### Artikel 5. Subsidieplafond
+##### Artikel 5. Subsidieplafond
 
 1. Voor subsidieverstrekking op grond van deze regeling is voor de kalenderjaren 2024 tot en met 2027 in totaal € 66.000.000,– beschikbaar.
 
@@ -76,7 +102,7 @@ Partijen die willen samenwerken in een samenwerkingsverband, kunnen zich laten r
 
 #### Paragraaf 2. Subsidie voor duurzame publiek-private samenwerking
 
-#### Artikel 6. Subsidieverstrekking
+##### Artikel 6. Subsidieverstrekking
 
 1. De minister kan op aanvraag aan een bevoegd gezag van een onderwijsinstelling subsidie verstrekken voor een duurzame publiek-private samenwerking die ten doel heeft de aansluiting van het middelbaar beroepsonderwijs op de behoefte van de arbeidsmarkt te verbeteren.
 
@@ -92,7 +118,7 @@ Partijen die willen samenwerken in een samenwerkingsverband, kunnen zich laten r
 
 7. Onverminderd het eerste lid, kan een publiek-private samenwerking waaraan een instelling voor hoger onderwijs deelneemt mede als doel hebben het ontwikkelen van een Associate-degreeprogramma als bedoeld in [artikel 7.8a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.8a), indien de instelling voor hoger onderwijs bijdraagt aan de cofinanciering, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=11&z=2025-05-20&g=2025-05-20).
 
-#### Artikel 7. Subsidieaanvraag
+##### Artikel 7. Subsidieaanvraag
 
 1. De subsidieaanvraag heeft betrekking op:
 
@@ -114,7 +140,7 @@ Partijen die willen samenwerken in een samenwerkingsverband, kunnen zich laten r
 
 - b. het project ook na afronding van de betreffende subsidieperiode duurzaam wordt voortgezet.
 
-#### Artikel 8. Aanvraag project entreeopleiding
+##### Artikel 8. Aanvraag project entreeopleiding
 
 1. Indien een aanvraag in overwegende mate tot doel heeft de aansluiting van een entreeopleiding, bedoeld in [artikel 7.2.2, eerste lid, onderdeel a, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), dan wel een assistentenopleiding, bedoeld in [artikel 7.2.2, eerste lid, onderdeel a, van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=7.2.2) op de arbeidsmarkt te verbeteren:
 
@@ -128,7 +154,7 @@ Partijen die willen samenwerken in een samenwerkingsverband, kunnen zich laten r
 
 2. Indien dit bijdraagt aan het doel van het project kan de doorstroom van een entreeopleiding naar een basisberoepsopleiding deel uitmaken van de aanvraag.
 
-#### Artikel 9. Niet subsidiabel
+##### Artikel 9. Niet subsidiabel
 
 Op grond van deze regeling wordt geen subsidie verstrekt voor:
 
@@ -142,7 +168,7 @@ Op grond van deze regeling wordt geen subsidie verstrekt voor:
 
 - e. activiteiten die gesubsidieerd worden op grond van een andere ministeriële regeling.
 
-#### Artikel 10. Samenwerkingsverband
+##### Artikel 10. Samenwerkingsverband
 
 1. Onderwijsinstellingen en arbeidsorganisaties werken samen in samenwerkingsverbanden om de duurzame publiek-private samenwerking in het beroepsonderwijs vorm te geven en uit te voeren.
 
@@ -172,7 +198,7 @@ Op grond van deze regeling wordt geen subsidie verstrekt voor:
 
 4. Arbeidsorganisaties die nog niet deelnemen aan een samenwerkingsverband kunnen daartoe de wens kenbaar maken bij de onderwijsinstelling in het betreffende samenwerkingsverband. De onderwijsinstelling draagt er in dat geval in redelijkheid zorg voor dat de arbeidsorganisatie in de gelegenheid wordt gesteld om deel te nemen aan het samenwerkingsverband, met inachtneming van de voorschriften van deze regeling.
 
-#### Artikel 11. Cofinanciering
+##### Artikel 11. Cofinanciering
 
 1. Subsidie wordt uitsluitend verstrekt indien sprake is van cofinanciering door de partijen in het samenwerkingsverband.
 
@@ -192,7 +218,7 @@ Op grond van deze regeling wordt geen subsidie verstrekt voor:
 
 - c. de vergoeding voor de student in de beroepspraktijkvorming in de beroepsopleidende leerweg, bedoeld in [artikel 7.2.2, tweede lid, onderdeel a, van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=7.2.2) dan wel de beroepsbegeleidende leerweg, bedoeld in artikel 7.2.2, tweede lid, onderdeel b, van de WEB BES.
 
-#### Artikel 12. Vereiste documenten subsidieaanvraag
+##### Artikel 12. Vereiste documenten subsidieaanvraag
 
 De subsidieaanvraag wordt in ieder geval ingediend met:
 
@@ -206,7 +232,7 @@ De subsidieaanvraag wordt in ieder geval ingediend met:
 
 - e. een publieksvriendelijke samenvatting van de aanvraag.
 
-#### Artikel 13. Plan van aanpak
+##### Artikel 13. Plan van aanpak
 
 1. Het plan van aanpak sluit logisch aan bij de door het bevoegd gezag vastgestelde en de door de minister goedgekeurde kwaliteitsagenda, bedoeld in [artikel 6 van de Regeling kwaliteitsafspraken mbo 2024–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0047959&artikel=6).
 
@@ -238,7 +264,7 @@ De subsidieaanvraag wordt in ieder geval ingediend met:
 
 - l. in geval van een project als bedoeld in [artikel 7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=7&z=2025-05-20&g=2025-05-20), tevens een beschrijving van de wijze waarop wordt voortgebouwd op het project waarvan de subsidieperiode is afgerond.
 
-#### Artikel 14. Activiteitenplanning
+##### Artikel 14. Activiteitenplanning
 
 1. De activiteitenplanning is een samenhangend omschreven geheel van de activiteiten die worden ondernomen om de doelstellingen en de concrete resultaten die het samenwerkingsverband nastreeft te behalen.
 
@@ -252,7 +278,7 @@ De subsidieaanvraag wordt in ieder geval ingediend met:
 
 - d. in geval van een project als bedoeld in [artikel 7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=7&z=2025-05-20&g=2025-05-20), tevens een beschrijving van de activiteiten die worden gerealiseerd, waardoor het project aan het einde van de subsidieperiode aanzienlijk zal zijn verbreed of verdiept.
 
-#### Artikel 15. Meerjarenbegroting
+##### Artikel 15. Meerjarenbegroting
 
 1. De meerjarenbegroting wordt opgesteld conform het format dat op de website van DUS-I beschikbaar wordt gesteld en bevat in ieder geval:
 
@@ -280,7 +306,7 @@ De subsidieaanvraag wordt in ieder geval ingediend met:
 
 5. Indien sprake is van afschrijving van kosten voor nieuwbouw of verbouw van gebouwen voor de publiek-private samenwerking worden deze kosten, voor zover deze betrekking hebben op de publiek-private samenwerking, afgeschreven conform de afschrijvingstermijn zoals wordt gehanteerd in de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132).
 
-#### Artikel 16. Samenwerkingsovereenkomst
+##### Artikel 16. Samenwerkingsovereenkomst
 
 1. De samenwerking binnen het samenwerkingsverband wordt voor de duur van het project vastgelegd in een samenwerkingsovereenkomst. De samenwerkingsovereenkomst wordt ondertekend door alle partijen in het samenwerkingsverband.
 
@@ -300,7 +326,7 @@ De subsidieaanvraag wordt in ieder geval ingediend met:
 
 #### Paragraaf 3. Indiening en beoordeling aanvraag
 
-#### Artikel 17. Indiening aanvraag
+##### Artikel 17. Indiening aanvraag
 
 1. De subsidieaanvragen worden ingediend in de periode van 1 januari tot en met 31 januari danwel 1 juni tot en met 30 juni van de kalenderjaren 2024, 2025, 2026 en 2027.
 
@@ -310,13 +336,13 @@ De subsidieaanvraag wordt in ieder geval ingediend met:
 
 4. De minister kan op het aanvraagformulier een maximum aantal pagina’s vaststellen voor de documenten, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=12&z=2025-05-20&g=2025-05-20).
 
-#### Artikel 18. Beoordelingscommissie
+##### Artikel 18. Beoordelingscommissie
 
 1. De minister stelt een onafhankelijke beoordelingscommissie in die is belast met het beoordelen van de aanvragen op basis van de beoordelingscriteria, bedoeld in [artikel 19, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=3&artikel=19&z=2025-05-20&g=2025-05-20).
 
 2. De beoordelingscommissie adviseert de minister over de ingediende subsidieaanvragen.
 
-#### Artikel 19. Beoordeling subsidieaanvraag
+##### Artikel 19. Beoordeling subsidieaanvraag
 
 1. De beoordelingscommissie beoordeelt de aanvragen voor de publiek-private samenwerking die voldoen aan de voorwaarden, bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&z=2025-05-20&g=2025-05-20).
 
@@ -358,13 +384,13 @@ De subsidieaanvraag wordt in ieder geval ingediend met:
 
 #### Paragraaf 4. Besluitvorming en verplichtingen
 
-#### Artikel 20. Rangschikking aanvragen
+##### Artikel 20. Rangschikking aanvragen
 
 1. De beoordelingscommissie rangschikt de aanvragen per aanvraagperiode, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=3&artikel=17&z=2025-05-20&g=2025-05-20), die voor elk van de criteria, bedoeld in [artikel 19, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=3&artikel=19&z=2025-05-20&g=2025-05-20), voldoende zijn beoordeeld, zodanig dat zij een aanvraag hoger rangschikt naarmate deze de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=1&artikel=3&z=2025-05-20&g=2025-05-20) genoemde doelstelling beter realiseert. Daartoe worden de criteria, bedoeld in artikel 19, derde of vierde lid, gehanteerd. De commissie hanteert een rangschikkingslijst voor elk van de categorieën aanvragen, bedoeld in [artikel 7, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=7&z=2025-05-20&g=2025-05-20).
 
 2. Indien een aanvraag na toepassing van [artikel 19, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=3&artikel=19&z=2025-05-20&g=2025-05-20), alsnog voldoende wordt beoordeeld voor elk van de criteria, bedoeld in artikel 19, derde of vierde lid, wordt deze aanvraag als laagste opgenomen in de rangschikking, bedoeld in het eerste lid. Indien ten aanzien van meerdere aanvragen toepassing wordt gegeven aan artikel 19, zesde lid, worden deze aanvragen als laagste opgenomen in de betreffende rangschikkingslijst, waarbij de aanvraag met een hoger puntenaantal voor de criteria, bedoeld in artikel 19, derde of vierde lid, hoger wordt geplaatst.
 
-#### Artikel 21. Besluitvorming minister
+##### Artikel 21. Besluitvorming minister
 
 1. De minister besluit uiterlijk binnen zestien weken na de sluitingsdatum van de aanvraagperiode, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=3&artikel=17&z=2025-05-20&g=2025-05-20), op de aanvragen. Indien toepassing wordt gegeven aan [artikel 19, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=3&artikel=19&z=2025-05-20&g=2025-05-20), wordt de beslistermijn van de eerste volzin verlengd met ten hoogste vier weken.
 
@@ -376,7 +402,7 @@ De subsidieaanvraag wordt in ieder geval ingediend met:
 
 5. Indien de minister een aanvraag afwijst, omdat deze niet voldoet aan [artikel 19, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=3&artikel=19&z=2025-05-20&g=2025-05-20), kan de aanvrager de aanvraag nog éénmaal in een later tijdvak indienen. De eerste volzin is niet van toepassing op aanvragen die in het laatste tijdvak worden ingediend.
 
-#### Artikel 22. Weigeringsgronden
+##### Artikel 22. Weigeringsgronden
 
 Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) kan de subsidieverlening worden geweigerd, indien naar het oordeel van de minister:
 
@@ -384,7 +410,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 - b. onvoldoende vertrouwen bestaat over de financiële haalbaarheid van de publiek-private samenwerking.
 
-#### Artikel 23. Verplichtingen
+##### Artikel 23. Verplichtingen
 
 1. De publiek-private samenwerking start zo spoedig mogelijk, maar uiterlijk binnen drie maanden na het besluit tot subsidieverlening met de uitvoering van de activiteiten.
 
@@ -394,7 +420,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 #### Paragraaf 5. Voortgangsrapportage en verantwoording
 
-#### Artikel 24. Voortgangsrapportage
+##### Artikel 24. Voortgangsrapportage
 
 1. De minister beoordeelt aan de hand van de voortgangsrapportage tussentijds de uitvoering van het project.
 
@@ -422,7 +448,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 8. De beoordeling, bedoeld in het eerste lid, kan niet leiden tot verhoging van de subsidieverlening.
 
-#### Artikel 25. Besteding en verantwoording
+##### Artikel 25. Besteding en verantwoording
 
 1. De subsidie wordt uitsluitend besteed aan de activiteiten waarvoor deze wordt verstrekt. Niet bestede middelen door het samenwerkingsverband worden na de subsidieperiode teruggevorderd.
 
@@ -442,13 +468,13 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 9. Indien het totaal van de daadwerkelijk gerealiseerde cofinanciering voor een project als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=8&z=2025-05-20&g=2025-05-20), meer bedraagt dan 50 procent van de meerjarenbegroting, wordt, indien in de eindrapportage wordt aangetoond dat het project succesvol is afgerond, de hoogte van het subsidiebedrag, voor zover dit bedrag is besteed aan de doelstellingen van het project, omschreven in het plan van aanpak, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&paragraaf=2&artikel=13&z=2025-05-20&g=2025-05-20), vastgesteld op 50 procent van de meerjarenbegroting.
 
-#### Artikel 26. Wijze van melding
+##### Artikel 26. Wijze van melding
 
 1. De melding, bedoeld in [artikel 5.7 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.7), geschiedt schriftelijk aan DUS-I via het e-mailadres ocwsubsidies@minvws.nl.
 
 2. De melding wordt in afschrift verzonden aan het Ministerie van OCW, directie MBO (IPC: 2150), Postbus 16375, 2500 BJ Den Haag.
 
-#### Artikel 27. Voorschotten en betaling
+##### Artikel 27. Voorschotten en betaling
 
 1. De subsidieontvanger ontvangt elk kwartaal een voorschot.
 
@@ -458,19 +484,19 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 #### Paragraaf 6. Slotbepalingen
 
-#### Artikel 28. Evaluatie regeling
+##### Artikel 28. Evaluatie regeling
 
 1. De minister draagt uiterlijk in 2028 zorg voor de evaluatie van deze regeling.
 
 2. De subsidieaanvrager werkt mee aan de evaluatie van de doeltreffendheid en de effecten van deze regeling in de praktijk door de minister.
 
-#### Artikel 29. Inwerkingtreding en einddatum
+##### Artikel 29. Inwerkingtreding en einddatum
 
 1. Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2033, met dien verstande dat zij van toepassing blijft op de subsidies die voor die datum zijn verstrekt.
 
-#### Artikel 30. Citeertitel
+##### Artikel 30. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling regionaal investeringsfonds mbo 2024–2027.
 

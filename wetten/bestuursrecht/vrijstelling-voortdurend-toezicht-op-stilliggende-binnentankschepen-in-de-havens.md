@@ -1,13 +1,38 @@
 ---
 title: "Vrijstelling voortdurend toezicht op stilliggende binnentankschepen in de havens van Rotterdam 2021"
 identifier: "BWBR0047625"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-04-05
-laatste_update: 2021-04-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047625"
+country: "nl"
+rank: "zbo"
+publication_date: "2021-04-05"
+last_updated: "2021-04-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047625"
+soort: "zbo"
+stam_id: "16594903"
+version_id: "29104162"
+internal_id: "C41367841"
+label_id: "16513554"
+dtd_version: "2.0"
+original_entry_into_force: "2021-04-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047625/2021-04-05/0"
+intitule_bron: "Stcrt.2021-13547"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-03-11"
+intitule_published: "2021-03-19"
+intitule_in_force: "2021-03-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-13547"
+original_signed_date: "2021-03-11"
+original_published_date: "2021-03-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-13547"
+entry_into_force_date: "2021-04-05"
+jci_1_3: "jci1.3:c:BWBR0047625&z=2021-04-05&g=2021-04-05"
+jci_1_0: "1.0:c:BWBR0047625&g=2021-04-05"
+citeertitel_status: "officieel"
+signed_date: "2021-03-11"
+entry_into_force: "2021-04-05"
 ---
-
 # Vrijstelling voortdurend toezicht op stilliggende binnentankschepen in de havens van Rotterdam 2021
 
 **gelet op:**
@@ -30,7 +55,7 @@ deze vrijstelling vanwege de veiligheid niet geldt op de locaties waar het Verke
 
 **Vrijstelling voortdurend toezicht op stilliggende binnentankschepen in de havens van Rotterdam**
 
-#### Artikel 1
+##### Artikel 1
 
 Het is met een stilliggend schip niet zijnde een zeeschip, dat is geladen met de stoffen bedoeld in het ADN voorschrift 7.2.5.0.1 of dat na het vervoer van dergelijke stoffen nog niet is ontdaan van gassen die gevaar op kunnen leveren, toegestaan om geen ter zake kundige wachtsman aan boord te hebben als bedoeld in artikel 7.08, eerste lid, van het [Binnenvaartpolitiereglement](onbekend), wanneer dit schip:
 
@@ -42,7 +67,7 @@ Het is met een stilliggend schip niet zijnde een zeeschip, dat is geladen met de
 
 - d. waarvan de tanks niet worden schoongemaakt.
 
-#### Artikel 2
+##### Artikel 2
 
 Aan deze vrijstelling zijn de volgende voorschriften verbonden:
 
@@ -58,7 +83,7 @@ Aan deze vrijstelling zijn de volgende voorschriften verbonden:
 
 - 2. de toegang tot het schip vanaf een openbare weg niet mogelijk is.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze vrijstelling geldt niet op de ligplaatsen bedoeld in artikel 2 van het Verkeersbesluit gebieden ‘gemengd afmeren’, zijnde:
 
@@ -70,14 +95,14 @@ Deze vrijstelling geldt niet op de ligplaatsen bedoeld in artikel 2 van het Verk
 
 - d. de ligplaatsen gelegen aan steigers 2, 3, 4 en 5 in het Calandkanaal, ter hoogte van oeverfrontnummers 5389, 5387, 5385 en 5384.
 
-#### Artikel 4
+##### Artikel 4
 
 De Vrijstelling voortdurend toezicht op stilliggende binnentankschepen in de havens van Rotterdam (Staatscourant 2017, 19107) wordt ingetrokken.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt gepubliceerd in de Staatscourant en treedt in werking op 5 april 2021.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Vrijstelling voortdurend toezicht op stilliggende binnentankschepen in de havens van Rotterdam 2021.

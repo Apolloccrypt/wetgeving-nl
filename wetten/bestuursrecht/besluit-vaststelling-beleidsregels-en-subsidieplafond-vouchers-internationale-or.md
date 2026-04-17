@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling beleidsregels en subsidieplafond Vouchers internationale organisaties"
+title: "Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 6 juli 2016, nr. BZ-2016.389931 tot vaststelling van beleidsregels en een subsidieplafond voor subsidieverstrekking door middel van vouchers voor activiteiten van MKB-ondernemingen, kennisinstellingen en niet-gouvernementele organisaties gericht op het betreden van de markt van internationale organisaties (Vouchers internationale organisaties)"
 identifier: "BWBR0038273"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-01-01
-laatste_update: 2016-07-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038273"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-01-01"
+last_updated: "2016-07-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038273"
+soort: "ministeriele-regeling"
+stam_id: "13694933"
+version_id: "23459272"
+internal_id: "C33797371"
+label_id: "13661334"
+dtd_version: "2.0"
+original_entry_into_force: "2016-07-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038273/2018-01-01/0"
+intitule_bron: "Stcrt.2016-36662"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-07-06"
+intitule_published: "2016-07-14"
+intitule_in_force: "2016-07-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-36662"
+original_signed_date: "2016-07-06"
+original_published_date: "2016-07-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-36662"
+entry_into_force_date: "2016-07-15"
+jci_1_3: "jci1.3:c:BWBR0038273&z=2018-01-01&g=2018-01-01"
+jci_1_0: "1.0:c:BWBR0038273&g=2018-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling beleidsregels en subsidieplafond Vouchers internationale organisaties"
+signed_date: "2016-07-06"
+entry_into_force: "2016-07-15"
 ---
-
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 6 juli 2016, nr. BZ-2016.389931 tot vaststelling van beleidsregels en een subsidieplafond voor subsidieverstrekking door middel van vouchers voor activiteiten van MKB-ondernemingen, kennisinstellingen en niet-gouvernementele organisaties gericht op het betreden van de markt van internationale organisaties (Vouchers internationale organisaties)
 
 Gelet op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=6) en [7 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=7);
@@ -16,19 +42,19 @@ Gelet op [artikel 7.2 van de Subsidieregeling Ministerie van Buitenlandse Zaken 
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor subsidieverstrekking in het kader van Vouchers internationale organisaties gelden de als bijlage bij dit besluit gevoegde beleidsregels.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor subsidieverstrekking in het kader van Vouchers internationale organisaties geldt voor de periode vanaf inwerkingtreding van dit besluit tot en met 31 december 2016 geldt een subsidieplafond van € 100.000.
 
-#### Artikel 3
+##### Artikel 3
 
 De minister verdeelt de beschikbare middelen in volgorde van ontvangst van de aanvragen. Indien honorering van alle aanvragen die op één dag zijn ontvangen ertoe zou leiden dat het plafond zou worden overschreden, stelt de minister de volgorde van verstrekking vast door middel van loting.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 15 juli 2021, met dien verstande dat het besluit van toepassing blijft op subsidies die voor die datum zijn verleend.
 

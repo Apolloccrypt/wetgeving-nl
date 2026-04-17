@@ -1,13 +1,35 @@
 ---
 title: "Mandaatregeling TNO 2019"
 identifier: "BWBR0042322"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-06-25
-laatste_update: 2019-06-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042322"
+country: "nl"
+rank: "zbo"
+publication_date: "2019-06-25"
+last_updated: "2019-06-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042322"
+soort: "zbo"
+stam_id: "15106243"
+version_id: "25892162"
+internal_id: "C44913321"
+label_id: "15054864"
+dtd_version: "2.0"
+original_entry_into_force: "2019-06-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042322/2019-06-25/0"
+intitule_bron: "Stcrt.2019-33849"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2019-06-25"
+intitule_in_force: "2019-06-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-33849"
+original_published_date: "2019-06-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-33849"
+entry_into_force_date: "2019-06-25"
+jci_1_3: "jci1.3:c:BWBR0042322&z=2019-06-25&g=2019-06-25"
+jci_1_0: "1.0:c:BWBR0042322&g=2019-06-25"
+citeertitel_status: "redactioneel"
+entry_into_force: "2019-06-25"
 ---
-
 # Mandaatregeling TNO 2019
 
 ### Inleiding

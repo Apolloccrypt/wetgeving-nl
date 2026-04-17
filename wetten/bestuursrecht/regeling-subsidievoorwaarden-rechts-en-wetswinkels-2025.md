@@ -1,13 +1,38 @@
 ---
 title: "Regeling subsidievoorwaarden rechts- en wetswinkels 2025"
 identifier: "BWBR0050722"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-01-31
-laatste_update: 2025-01-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050722"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-01-31"
+last_updated: "2025-01-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050722"
+soort: "zbo"
+stam_id: "17356303"
+version_id: "30591392"
+internal_id: "C43847721"
+label_id: "17259454"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050722/2025-01-31/0"
+intitule_bron: "Stcrt.2025-3650"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-12-19"
+intitule_published: "2025-01-30"
+intitule_in_force: "2025-01-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-3650"
+original_signed_date: "2024-12-19"
+original_published_date: "2025-01-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-3650"
+entry_into_force_date: "2025-01-31"
+jci_1_3: "jci1.3:c:BWBR0050722&z=2025-01-31&g=2025-01-31"
+jci_1_0: "1.0:c:BWBR0050722&g=2025-01-31"
+citeertitel_status: "officieel"
+signed_date: "2024-12-19"
+entry_into_force: "2025-01-31"
 ---
-
 # Regeling subsidievoorwaarden rechts- en wetswinkels 2025
 
 Gelet op [artikel 37c van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=37c), waarin is bepaald dat het bestuur met het oog op de verlening van rechtsbijstand een subsidie kan verstrekken voor bijzondere doeleinden en projecten,
@@ -18,7 +43,7 @@ De volgende subsidieregeling vast te stellen:
 
 ### Hoofdstuk I. Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -44,7 +69,7 @@ In deze regeling wordt verstaan onder:
 
 - k. **Wrb:** [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368)
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Deze regeling heeft tot doel subsidie te verstrekken ten behoeve van een rechts- en wetswinkel en met het oog op de rechtshulpverlening aan rechtzoekenden, teneinde de (laagdrempelige) toegang tot het recht te verbeteren.
 
@@ -52,7 +77,7 @@ Nevendoel van de regeling is om via de subsidieverlening te bevorderen dat stude
 
 ### Hoofdstuk II. Subsidie en voorwaarden
 
-#### Artikel 3. Basissubsidie en voorwaarden
+##### Artikel 3. Basissubsidie en voorwaarden
 
 Een rechts- en wetswinkel kan in aanmerking komen voor een basissubsidie van € 2.500 per kalenderjaar, indien is voldaan aan de volgende voorwaarden:
 
@@ -74,7 +99,7 @@ Een rechts- en wetswinkel kan in aanmerking komen voor een basissubsidie van €
 
 - i. voor rechts- en wetswinkels die nog geen subsidie ontvangen van de Raad geldt dat deze bij de aanvraag van de subsidie naast te voldoen aan de voorwaarden a tot en met h van dit artikel, onderbouwd moeten aanvoeren een daadwerkelijke aanvulling te vormen op het aanbod van juridische dienstverlening in een regio.
 
-#### Artikel 4. Extra subsidie en voorwaarden
+##### Artikel 4. Extra subsidie en voorwaarden
 
 Een rechts- en wetswinkel die voldoet aan de voorwaarden genoemd onder [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050722&hoofdstuk=II&artikel=3&z=2025-01-31&g=2025-01-31) van deze regeling kan in aanmerking komen voor een extra subsidie, indien:
 
@@ -96,7 +121,7 @@ Een rechts- en wetswinkel die voldoet aan de voorwaarden genoemd onder [artikel 
 
 - 3°. activiteiten, gericht op het signaleren, voorkomen en tegengaan van tekortkomingen en leemten in de bescherming van belangen van kwetsbare rechtzoekenden, en rapporteert daarover in het jaarverslag.
 
-#### Artikel 5. Hoogte extra subsidie
+##### Artikel 5. Hoogte extra subsidie
 
 De hoogte van de extra subsidie bedraagt:
 
@@ -110,7 +135,7 @@ De hoogte van de extra subsidie bedraagt:
 
 ### Hoofdstuk III. Aanvraag subsidie
 
-#### Artikel 6. Aanvraag subsidie
+##### Artikel 6. Aanvraag subsidie
 
 1. De rechts- en wetswinkel dient in de periode tussen 15 september en (uiterlijk) 15 november van elk jaar op een door het bestuur voorgeschreven formulier de subsidieaanvraag voor het daarop volgende kalenderjaar bij het bestuur in.
 
@@ -128,7 +153,7 @@ De hoogte van de extra subsidie bedraagt:
 
 ### Hoofdstuk IV. De subsidieverlening en vaststelling
 
-#### Artikel 7. Beschikking tot subsidieverlening en vaststelling
+##### Artikel 7. Beschikking tot subsidieverlening en vaststelling
 
 1. Het bestuur beschikt vóór 31 januari van het jaar waarop de aanvraag betrekking heeft, op de subsidieaanvraag van de rechts- en wetswinkel.
 
@@ -148,13 +173,13 @@ De hoogte van de extra subsidie bedraagt:
 
 ### Hoofdstuk V. Overige bepalingen
 
-#### Artikel 8. Monitoring en evaluatiebepaling
+##### Artikel 8. Monitoring en evaluatiebepaling
 
 De Raad draagt zorg voor de evaluatie van deze regeling.
 
 Voor deze regeling zal het Kenniscentrum Stelsel Gesubsidieerde Rechtsbijstand van de Raad in opdracht van het bestuur een monitor opzetten waarmee in ieder geval elk jaar cijfers worden aangeleverd die een evaluatie van deze subsidieregeling ondersteunen.
 
-#### Artikel 9. Subsidieplafond
+##### Artikel 9. Subsidieplafond
 
 1. Het subsidieplafond voor de extra subsidie bedraagt € 515.000 per jaar, verminderd met hetgeen aan basissubsidie is verstrekt.
 
@@ -164,7 +189,7 @@ Voor deze regeling zal het Kenniscentrum Stelsel Gesubsidieerde Rechtsbijstand v
 
 ### Hoofdstuk VI. Toepassings- en slotbepalingen
 
-#### Artikel 10. Inwerkingtreding en duur
+##### Artikel 10. Inwerkingtreding en duur
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 januari 2025.
 
@@ -172,7 +197,7 @@ Voor deze regeling zal het Kenniscentrum Stelsel Gesubsidieerde Rechtsbijstand v
 
 3. Deze regeling vervalt uiterlijk op 1 januari 2030.
 
-#### Artikel 11. Overgangsrecht
+##### Artikel 11. Overgangsrecht
 
 1. De rechts- en wetswinkel die in 2024 al subsidie ontving van de Raad voor een lager of gelijk bedrag dan de basissubsidie en (nog) niet voldoet aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050722&hoofdstuk=II&artikel=3&z=2025-01-31&g=2025-01-31) van deze regeling, behoudt onder de eerdere subsidievoorwaarden, recht op dat lagere of gelijke bedrag (lees: de oude subsidie).
 
@@ -180,6 +205,6 @@ Voor deze regeling zal het Kenniscentrum Stelsel Gesubsidieerde Rechtsbijstand v
 
 3. Voldoet een rechts- en wetswinkel zoals bedoeld onder lid 1 en lid 2 niet aan de voorwaarden van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050722&hoofdstuk=II&artikel=3&z=2025-01-31&g=2025-01-31) of [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050722&hoofdstuk=II&artikel=4&z=2025-01-31&g=2025-01-31) van deze regeling, dan vervalt de oude subsidie per 1 januari 2027.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling subsidievoorwaarden rechts- en wetswinkels 2025

@@ -1,13 +1,39 @@
 ---
-title: "Besluit buitengewone agenten van politie BES"
+title: "Besluit van 13 december 2010, houdende regels over de aanstelling, bevordering, schorsing en ontslag als buitengewoon agent van politie alsmede over de verlening van opsporingsbevoegdheid en over de eisen van bekwaamheid, geschiktheid en betrouwbaarheid waaraan zij moeten voldoen op Bonaire, Sint Eustatius en Saba (Besluit buitengewone agenten van politie BES)"
 identifier: "BWBR0029175"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2011-01-01
-laatste_update: 2011-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029175"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2011-01-01"
+last_updated: "2011-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029175"
+soort: "AMvB-BES"
+stam_id: "11133663"
+version_id: "18208432"
+internal_id: "C25302851"
+label_id: "11108674"
+dtd_version: "2.0"
+original_entry_into_force: "2011-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029175/2011-01-01/0"
+intitule_bron: "Stb.2010-820"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-12-13"
+intitule_published: "2010-12-22"
+intitule_in_force: "2010-12-22"
+intitule_status: "goed"
+original_publication: "Stb.2010-820"
+original_signed_date: "2010-12-13"
+original_published_date: "2010-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-820"
+entry_into_force_date: "2011-01-01"
+jci_1_3: "jci1.3:c:BWBR0029175&z=2011-01-01&g=2011-01-01"
+jci_1_0: "1.0:c:BWBR0029175&g=2011-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit buitengewone agenten van politie BES"
+signed_date: "2010-12-13"
+entry_into_force: "2011-01-01"
 ---
-
 # Besluit van 13 december 2010, houdende regels over de aanstelling, bevordering, schorsing en ontslag als buitengewoon agent van politie alsmede over de verlening van opsporingsbevoegdheid en over de eisen van bekwaamheid, geschiktheid en betrouwbaarheid waaraan zij moeten voldoen op Bonaire, Sint Eustatius en Saba (Besluit buitengewone agenten van politie BES)
 
 Op voordracht van Onze Minister van Justitie, de Minister van Binnenlandse Zaken en Koninkrijksrelaties, mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 24 augustus 2010, directie Wetgeving nr. 5665435/10/6;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
@@ -58,7 +84,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemeen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Geen aanstelling als buitengewoon agent van politie vindt plaats indien de kandidaat-buitengewoon agent niet in aanmerking komt voor een titel van opsporingsbevoegdheid.
 
@@ -66,11 +92,11 @@ Hebben goedgevonden en verstaan:
 
 3. Voor de aanstelling als buitengewoon agent van politie komt slechts in aanmerking de persoon die meerderjarig is.
 
-#### Artikel 3
+##### Artikel 3
 
 De buitengewoon agent van politie wordt, gehoord de procureur-generaal, de desbetreffende gezaghebber en de korpschef, bedoeld in [artikel 44, tweede lid, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=44), aangesteld voor het grondgebied.
 
-#### Artikel 4
+##### Artikel 4
 
 De buitengewoon agent van politie die beschikt over:
 
@@ -84,11 +110,11 @@ is bevoegd op het grondgebied, vermeld in die akte, de opsporingsbevoegdheden ui
 
 #### § 2. De titel van opsporingsbevoegdheid
 
-#### Artikel 5
+##### Artikel 5
 
 De titel van opsporingsbevoegdheid is de rechtsgrond die de bevoegdheid tot opsporen bepaalt van de buitengewoon agent van politie, bedoeld in [artikel 184, eerste lid, onder c, van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184).
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een akte van opsporingsbevoegdheid wordt verleend of een aanwijzing wordt gedaan indien die opsporingsbevoegdheid noodzakelijk is voor de uitoefening van die functie van de desbetreffende persoon of dienst waarbij hij werkzaam is, en een beroep op de politie voor het uitoefenen van opsporingsbevoegdheden bezwaarlijk, niet mogelijk of niet wenselijk is. Bij regeling van Onze Minister kunnen de categorieën van functies of diensten met het oog waarop een akte van opsporingsbevoegdheid wordt verleend of een aanwijzing wordt gedaan, worden beperkt.
 
@@ -96,13 +122,13 @@ De titel van opsporingsbevoegdheid is de rechtsgrond die de bevoegdheid tot opsp
 
 3. De aanwijzing geldt voor de duur van maximaal vijf jaren met ingang van de datum van inwerkingtreding van de beschikking. De geldigheidsduur kan telkens met maximaal vijf jaren worden verlengd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Op elke aanvraag ingevolge dit hoofdstuk wordt zo spoedig mogelijk beslist.
 
 2. Een aanvraag tot verlenging of wijziging van de akte van opsporingsbevoegdheid of de aanwijzing wordt uiterlijk drie maanden voor het verlopen van de geldigheidsduur ingediend.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De werkgever dient een aanvraag tot het verlenen van een akte van opsporingsbevoegdheid in bij Onze Minister.
 
@@ -118,11 +144,11 @@ De titel van opsporingsbevoegdheid is de rechtsgrond die de bevoegdheid tot opsp
 
 3. Bij de aanvraag wordt een bewijs van bekwaamheid van de desbetreffende persoon gevoegd. Indien de aanvraag betrekking heeft op de verlenging of wijziging van de akte van opsporingsbevoegdheid wordt een bewijs van beëdiging bijgevoegd.
 
-#### Artikel 9
+##### Artikel 9
 
 Onze Minister verleent de akte van opsporingsbevoegdheid, waarin het grondgebied en de strafbare feiten staan vermeld waarvoor de opsporingsbevoegdheid geldt.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De werkgever dient een aanvraag tot aanwijzing van categorieën of eenheden als bedoeld in [artikel 184, eerste lid, onder c, van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184) in bij Onze Minister.
 
@@ -138,7 +164,7 @@ Onze Minister verleent de akte van opsporingsbevoegdheid, waarin het grondgebied
 
 3. In de beschikking waarbij de aanwijzing wordt gedaan, wordt het hoogste aantal personen vermeld dat op grond van de beschikking kan worden beëdigd als buitengewoon agent van politie.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Onze Minister kan de akte van opsporingsbevoegdheid alsmede de aanwijzing ambtshalve intrekken, wijzigen of vervangen.
 
@@ -148,7 +174,7 @@ Onze Minister verleent de akte van opsporingsbevoegdheid, waarin het grondgebied
 
 #### § 3. De bekwaamheid en de betrouwbaarheid
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een persoon beschikt over de bekwaamheid voor het uitoefenen van opsporingsbevoegdheden, indien hij de daarvoor vastgestelde basiskennis en vaardigheden bezit. De bekwaamheid blijkt uit een met goed gevolg afgelegde toets of uit het met goed gevolg hebben doorlopen van een opleidingsprogramma waarmee Onze Minister heeft ingestemd.
 
@@ -158,7 +184,7 @@ Onze Minister verleent de akte van opsporingsbevoegdheid, waarin het grondgebied
 
 4. Ten aanzien van een ambtenaar van politie als bedoeld in het in het Europese deel van Nederland geldende [artikel 3, eerste lid, onder a, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=3) en een buitengewoon opsporingsambtenaar als bedoeld in het in het Europese deel van Nederland geldende [artikel 142 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142), wordt de bekwaamheid, bedoeld in het eerste lid, eerste volzin, aanwezig geacht, tenzij naar het oordeel van Onze Minister aanvullende bekwaamheidseisen noodzakelijk zijn.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Een persoon beschikt over de betrouwbaarheid voor de uitoefening van opsporingsbevoegdheden, indien hij van onbesproken gedrag is.
 
@@ -166,11 +192,11 @@ Onze Minister verleent de akte van opsporingsbevoegdheid, waarin het grondgebied
 
 #### § 4. Politiebevoegdheden
 
-#### Artikel 14
+##### Artikel 14
 
 Onverminderd [artikel 10, derde lid, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=10) kan Onze Minister bepalen dat de buitengewoon agent van politie beschikt over daartoe aangewezen politiebevoegdheden en geweldmiddelen, voor zover dit noodzakelijk is voor de uitoefening van de opsporingsbevoegdheden.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Een persoon beschikt over de bekwaamheid voor het uitoefenen van politiebevoegdheden, indien hij de daarvoor vastgestelde basiskennis en vaardigheden bezit. De bekwaamheid blijkt uit een met goed gevolg afgelegde toets of uit het met goed gevolg hebben doorlopen van een opleidingsprogramma waarmee Onze minister heeft ingestemd.
 
@@ -182,13 +208,13 @@ Onverminderd [artikel 10, derde lid, van de Rijkswet politie van Curaçao, van S
 
 ### Hoofdstuk 3. Bezoldiging en beëdiging
 
-#### Artikel 16
+##### Artikel 16
 
 1. De buitengewoon agent van politie geniet als zodanig geen bezoldiging.
 
 2. De buitengewoon agent van politie kan wegens buitengewone toewijding of bijzonder loffelijke dienstverrichting door Onze Minister worden beloond met een tevredenheidsbetuiging, of met een gratificatie. [Artikel 98, vierde lid, van het Besluit rechtspositie korps politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&artikel=98) is van overeenkomstige toepassing.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Onze Minister beëdigt de persoon, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029175&hoofdstuk=2&paragraaf=1&artikel=4&z=2011-01-01&g=2011-01-01), tot buitengewoon agent van politie.
 
@@ -200,7 +226,7 @@ Onverminderd [artikel 10, derde lid, van de Rijkswet politie van Curaçao, van S
 
 5. Indien gebleken is dat de in het eerste lid bedoelde persoon voldoet aan de voorwaarden voor beëdiging wordt hij binnen twaalf weken na ontvangst van de aanvraag beëdigd.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Onze Minister maakt ten behoeve van de beëdiging een akte van beëdiging op. Daarbij wordt gebruik gemaakt van een door Onze Minister vastgesteld model.
 
@@ -208,7 +234,7 @@ Onverminderd [artikel 10, derde lid, van de Rijkswet politie van Curaçao, van S
 
 3. Indien de buitengewoon agent van politie bevoegd is politiebevoegdheden uit te oefenen dan wel geweldmiddelen te gebruiken, wordt daarvan aantekening gemaakt op de akte van beëdiging.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Onze Minister neemt van de te beëdigen persoon de eed, verklaring of belofte van zuivering en een ambtseed of ambtsbelofte, vastgelegd in de bijlage af. Het proces-verbaal van de aflegging van de eden, verklaring en beloften wordt aan de akte van beëdiging toegevoegd en maakt vanaf dat moment daarvan deel uit.
 
@@ -216,19 +242,19 @@ Onverminderd [artikel 10, derde lid, van de Rijkswet politie van Curaçao, van S
 
 3. Onze Minister zendt een afschrift van de akte van beëdiging aan de toezichthouder en de direct toezichthouder.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Onze Minister kan van de bevoegdheid tot het afleggen van de eden, verklaringen en beloften, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029175&hoofdstuk=3&artikel=19&z=2011-01-01&g=2011-01-01), mandaat verlenen aan de direct toezichthouder dan wel, indien de desbetreffende persoon behoort tot een dienst ressorterend onder een van Onze Ministers wie het mede aangaat, aan het hoofd van die dienst. Onze Minister zendt in dat geval de door hem opgemaakte akte van beëdiging van te voren toe aan de direct toezichthouder of het hoofd van dienst.
 
 2. De direct toezichthouder dan wel het hoofd van dienst in wiens handen de aflegging van de eden, verklaringen en beloften heeft plaatsgevonden, maakt van de aflegging proces-verbaal op en voegt dat toe aan de akte van beëdiging. Bij de beëdiging ontvangt de buitengewoon agent van politie de in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029175&hoofdstuk=3&artikel=19&z=2011-01-01&g=2011-01-01), bedoelde stukken en wordt daarvan mededeling gedaan aan Onze Minister.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Bij wijziging van de titel van opsporingsbevoegdheid, de opsomming van de feiten tot welke opsporing de buitengewoon agent van politie ingevolge zijn titel bevoegd is en het grondgebied waarvoor de opsporingsbevoegdheid geldt, behoeven de eden, verklaringen en beloften niet opnieuw te worden afgelegd indien de akte van beëdiging overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0029175&hoofdstuk=3&artikel=22&z=2011-01-01&g=2011-01-01) is aangepast.
 
 2. In de gevallen, bedoeld in het eerste lid, worden de afgelegde eden, verklaringen of beloften geacht te zijn afgelegd voor de opsporing van de feiten op het grondgebied genoemd in de gewijzigde akte van beëdiging.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Een aanvraag tot wijziging van de akte van beëdiging wordt ingediend bij Onze Minister. Bij deze aanvraag wordt de akte overgelegd.
 
@@ -238,7 +264,7 @@ Onverminderd [artikel 10, derde lid, van de Rijkswet politie van Curaçao, van S
 
 - b. het grondgebied waarvoor de opsporingsbevoegdheid geldt, indien hem van de noodzaak daartoe is gebleken.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De eed vervalt zodra de opsporingsbevoegdheid is vervallen.
 
@@ -246,7 +272,7 @@ Onverminderd [artikel 10, derde lid, van de Rijkswet politie van Curaçao, van S
 
 ### Hoofdstuk 4. Instructie
 
-#### Artikel 24
+##### Artikel 24
 
 1. De buitengewoon agent van politie beperkt de opsporingshandelingen waartoe hij bevoegd is, tot hetgeen nodig is voor de vervulling van de functie in verband waarmee hij als buitengewoon agent van politie is beëdigd. Hij onthoudt zich van elk optreden waartoe hij niet bevoegd is.
 
@@ -254,7 +280,7 @@ Onverminderd [artikel 10, derde lid, van de Rijkswet politie van Curaçao, van S
 
 3. Indien hij bevoegd is politiebevoegdheden uit te oefenen, gedraagt hij zich overeenkomstig [artikel 13, eerste, tweede, derde en vierde lid, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=13) en de op hem van toepassing zijnde ambtsinstructie.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De buitengewoon agent van politie en zijn werkgever doen aan Onze Minister, op een door hem te bepalen wijze, opgave van alle werkzaamheden die hij verricht of voornemens is te verrichten, die de functievervulling als buitengewoon agent van politie kunnen raken.
 
@@ -262,7 +288,7 @@ Onverminderd [artikel 10, derde lid, van de Rijkswet politie van Curaçao, van S
 
 3. Onze Minister kan nadere regels stellen omtrent het verbod, bedoeld in het tweede lid.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Bij de uitoefening van zijn taak draagt de buitengewoon agent van politie een legitimatiebewijs bij zich, waarvan het model door Onze Minister is vastgesteld.
 
@@ -270,17 +296,17 @@ Onverminderd [artikel 10, derde lid, van de Rijkswet politie van Curaçao, van S
 
 3. Onverminderd [artikel 162 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=162) toon de buitengewoon agent van politie zijn legitimatiebewijs desgevraagd aanstonds.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Indien de buitengewoon agent van politie een uniform of bedrijfskleding draagt, wordt dat uniform of die bedrijfskleding op een duidelijk zichtbare plaats voorzien van een insigne, waarvan het model door Onze Minister wordt vastgesteld.
 
 2. Het eerste lid is niet van toepassing op het uniform van een buitengewoon agent van politie werkzaam bij het politiekorps van Bonaire, Sint Eustatius en Saba, de Koninklijke marechaussee of de Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 28
+##### Artikel 28
 
 In het proces-verbaal van opsporingshandelingen of in enige andere schriftelijke verslaglegging van de uitoefening van bevoegdheden vermeldt de buitengewoon agent van politie het nummer van zijn akte van beëdiging.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De buitengewoon agent van politie volgt bij de opsporing de door of namens het bevoegd gezag, bedoeld in [artikel 183 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=183), gegeven aanwijzingen op, tenzij bij wet anders is bepaald.
 
@@ -292,7 +318,7 @@ In het proces-verbaal van opsporingshandelingen of in enige andere schriftelijke
 
 #### § 1. Opsporingsbevoegdheden
 
-#### Artikel 30
+##### Artikel 30
 
 1. De buitengewoon agent van politie en zijn werkgever zorgen ervoor dat eerstgenoemde blijft beschikken over de bekwaamheid en de betrouwbaarheid voor de uitoefening van opsporingsbevoegdheden. Hij werkt mee aan de regelmatige toetsing van de bekwaamheid en volgt in door Onze Minister te bepalen gevallen een bijscholingsprogramma waarmee deze heeft ingestemd.
 
@@ -300,7 +326,7 @@ In het proces-verbaal van opsporingshandelingen of in enige andere schriftelijke
 
 #### § 2. Politiebevoegdheden
 
-#### Artikel 31
+##### Artikel 31
 
 1. Indien de uitoefening van politiebevoegdheden mede het gebruik omvat van een geweldmiddel, dient de buitengewoon agent van politie hiervoor bekwaam te zijn.
 
@@ -320,13 +346,13 @@ In het proces-verbaal van opsporingshandelingen of in enige andere schriftelijke
 
 7. Het eerste tot en met zesde lid van dit artikel en de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0029175&hoofdstuk=5&paragraaf=2&artikel=32&z=2011-01-01&g=2011-01-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0029175&hoofdstuk=5&paragraaf=2&artikel=33&z=2011-01-01&g=2011-01-01) zijn niet van toepassing op de buitengewoon agent van politie die werkzaam is bij de Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De werkgever draagt zorg voor een op de bekwaamheidseisen afgestemde training van de buitengewoon agent van politie.
 
 2. De buitengewoon agent van politie is verantwoordelijk voor zijn deelname aan de training ter voorbereiding op de af te leggen toetsen en de toetsing.
 
-#### Artikel 33
+##### Artikel 33
 
 1. De toets geweldsbeheersing, de toets aanhoudings- en zelfverdedigingsvaardigheden en de toets schietvaardigheid worden afgenomen door een door Onze Minister of, voor zover de buitengewoon agent van politie werkzaam is bij de Koninklijke marechaussee Onze Minister van Defensie daartoe aangewezen toetser.
 
@@ -336,7 +362,7 @@ In het proces-verbaal van opsporingshandelingen of in enige andere schriftelijke
 
 ### Hoofdstuk 6. Straffen
 
-#### Artikel 34
+##### Artikel 34
 
 1. De buitengewoon agent van politie die zijn ambtelijke verplichtingen niet nakomt of zich overigens aan plichtsverzuim schuldig maakt, kan disciplinair worden gestraft.
 
@@ -344,7 +370,7 @@ In het proces-verbaal van opsporingshandelingen of in enige andere schriftelijke
 
 3. Een strafrechterlijke vervolging wegens een feit dat mede plichtsverzuim inhoudt, sluit een disciplinaire strafoplegging wegens dat feit niet uit.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Onze Minister kan de buitengewoon agent van politie de volgende disciplinaire straffen of maatregel opleggen:
 
@@ -364,11 +390,11 @@ In het proces-verbaal van opsporingshandelingen of in enige andere schriftelijke
 
 ### Hoofdstuk 7. Schorsing en ontslag
 
-#### Artikel 36
+##### Artikel 36
 
 De buitengewoon agent van politie is van rechtswege in zijn ambt geschorst wanneer hem rechtmatig zijn vrijheid is ontnomen, tenzij de vrijheidsbeneming het gevolg is van een maatregel, anders dan op grond van de [Wet tot regeling van het toezicht op krankzinnigen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028223), genomen in het belang van de volksgezondheid.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Onverminderd [artikel 35, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0029175&hoofdstuk=6&artikel=35&z=2011-01-01&g=2011-01-01), kan Onze Minister de buitengewoon agent van politie in zijn ambt schorsen:
 
@@ -382,17 +408,17 @@ De buitengewoon agent van politie is van rechtswege in zijn ambt geschorst wanne
 
 3. De duur van de schorsing bedraagt maximaal zes maanden. In zeer bijzondere gevallen kan deze termijn eenmaal met drie maanden worden verlengd.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Ontslag wordt gegeven bij beschikking, die de datum van ingang van het ontslag bevat.
 
 2. Bij ongevraagd ontslag wordt de reden van ontslag meegedeeld.
 
-#### Artikel 39
+##### Artikel 39
 
 Aan de buitengewoon agent van politie wordt, tenzij het tegendeel blijkt, geacht eervol ontslag te zijn verleend, zodra de op de akte van aanstelling vermelde tijd is verstreken.
 
-#### Artikel 40
+##### Artikel 40
 
 1. De buitengewoon agent van politie wordt op zijn aanvraag ontslag verleend.
 
@@ -404,7 +430,7 @@ Aan de buitengewoon agent van politie wordt, tenzij het tegendeel blijkt, geacht
 
 5. Het ontslag op aanvraag wordt eervol verleend.
 
-#### Artikel 41
+##### Artikel 41
 
 1. Buiten de gevallen bij dit besluit bepaald kan de buitengewoon agent van politie worden ontslagen op grond van:
 
@@ -428,25 +454,25 @@ Aan de buitengewoon agent van politie wordt, tenzij het tegendeel blijkt, geacht
 
 #### § 1. Algemeen
 
-#### Artikel 42
+##### Artikel 42
 
 1. Onze Minister is belast met het toezicht op de buitengewoon agent van politie voor wat betreft diens titel van opsporingsbevoegdheid en diens bekwaamheid en betrouwbaarheid voor de uitoefening van opsporingsbevoegdheden en, indien van toepassing van politiebevoegdheden.
 
 2. Ten minste iedere vijf jaar stelt Onze Minister vast of de titel van opsporingsbevoegdheid en de bekwaamheid en de betrouwbaarheid voor de uitoefening van opsporingsbevoegdheden of, indien van toepassing, van politiebevoegdheden nog aanwezig zijn, alsmede of het dienstverband of de functie van de buitengewoon agent ongewijzigd is gebleven en het opsporen van strafbare feiten nog steeds onderdeel uitmaakt van diens functie.
 
-#### Artikel 43
+##### Artikel 43
 
 1. Ter vaststelling van de bekwaamheid voor de uitoefening van opsporingsbevoegdheden legt de werkgever binnen vier weken op een daartoe strekkend verzoek van Onze Minister de bewijzen van de bekwaamheid over. Onze Minister kan uitstel verlenen van de genoemde termijn
 
 2. Indien binnen de gestelde termijn geen bewijzen van de bekwaamheid zijn overgelegd, wordt die bekwaamheid geacht niet meer aanwezig te zijn.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Indien is vastgesteld dat een titel van opsporingsbevoegdheid, de betrouwbaarheid en de bekwaamheid nog steeds aanwezig zijn, wordt hiervan aantekening gemaakt in de akte van beëdiging. Tevens wordt een nieuwe datum voor de periodieke toetsing op de akte van beëdiging vermeld.
 
 2. De beschikking waarbij wordt vastgesteld dat een geldige titel ontbreekt, wordt bekendgemaakt aan de buitengewoon agent van politie, diens toezichthouder en de direct toezichthouder.
 
-#### Artikel 45
+##### Artikel 45
 
 1. De opsporingsbevoegdheid vervalt met ingang van de dag na de datum waarop
 
@@ -478,7 +504,7 @@ Aan de buitengewoon agent van politie wordt, tenzij het tegendeel blijkt, geacht
 
 #### § 2. De toezichthouder en direct toezichthouder
 
-#### Artikel 46
+##### Artikel 46
 
 1. Bij de verlening van een titel van opsporingsbevoegdheid of bij de beëdiging wijst Onze Minister een toezichthouder en direct toezichthouder aan.
 
@@ -492,11 +518,11 @@ Aan de buitengewoon agent van politie wordt, tenzij het tegendeel blijkt, geacht
 
 - c. in de overige gevallen: de korpschef, bedoeld in [artikel 44, tweede lid, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=44).
 
-#### Artikel 47
+##### Artikel 47
 
 De toezichthouder ziet erop toe dat de buitengewoon agent van politie zijn taak bij de opsporing naar behoren vervult en de opsporingsbevoegdheden alsmede de politiebevoegdheden op juiste wijze uitoefent.
 
-#### Artikel 48
+##### Artikel 48
 
 1. De direct toezichthouder ziet toe dat de buitengewoon agent van politie het gestelde in de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029175&hoofdstuk=4&z=2011-01-01&g=2011-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029175&hoofdstuk=5&z=2011-01-01&g=2011-01-01) naleeft. Hij oefent tevens het dagelijks toezicht uit op de juiste uitoefening van bevoegdheden en een goede samenwerking met de politie.
 
@@ -504,7 +530,7 @@ De toezichthouder ziet erop toe dat de buitengewoon agent van politie zijn taak 
 
 3. De direct toezichthouder verstrekt de toezichthouder de gewenste inlichtingen en doet ook ongevraagd mededeling van hetgeen voor het uitoefenen van toezicht van belang kan zijn.
 
-#### Artikel 49
+##### Artikel 49
 
 1. De toezichthouder en de direct toezichthouder plegen overleg over het functioneren van de buitengewone agenten van politie. Zij kunnen daarbij de werkgever uitnodigen.
 
@@ -514,7 +540,7 @@ De toezichthouder ziet erop toe dat de buitengewoon agent van politie zijn taak 
 
 #### § 3. De werkgever
 
-#### Artikel 50
+##### Artikel 50
 
 1. De werkgever verschaft de toezichthouder en de direct toezichthouder alle door hen gewenste informatie met betrekking tot de in zijn dienst werkzame buitengewoon opsporingsambtenaren.
 
@@ -524,7 +550,7 @@ De toezichthouder ziet erop toe dat de buitengewoon agent van politie zijn taak 
 
 ### Hoofdstuk 9. Overgangs- en slotbepalingen
 
-#### Artikel 51
+##### Artikel 51
 
 1. De op grond van het in de Nederlandse Antillen geldende Landsbesluit buitengewone agenten van politie 1966 benoemde buitengewone agenten van politie voor het grondgebied van het eilandgebied Bonaire, Sint Eustatius of Saba die voor 10 oktober 2010 hun standplaats hadden in Bonaire, Sint Eustatius of Saba worden geacht door Onze Minister op grond van dit besluit te zijn aangesteld als buitengewoon agent van politie binnen de grenzen van het openbaar lichaam Bonaire, Sint Eustatius of Saba tot 10 oktober 2013.
 
@@ -538,7 +564,7 @@ De toezichthouder ziet erop toe dat de buitengewoon agent van politie zijn taak 
 
 6. Degene die op grond van het [Besluit buitengewone agenten van politie 1966 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028766) is aangesteld als buitengewoon agent van politie wordt geacht overeenkomstig dit besluit te zijn aangesteld.
 
-#### Artikel 52
+##### Artikel 52
 
 1. Onze Minister kan tot 10 oktober 2011 personen die voor die datum deel uitmaken van een bij of krachtensalgemene maatregel van bestuur toegelaten weerkorps als bedoeld in [artikel 2, tweede lid, van de Wet op de weerkorpsen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028240&artikel=2) aanwijzen, die in afwijking van artikel 2, eerste lid, van dit besluit worden aangesteld als buitengewoon agent van politie voor het grondgebied van het openbaar lichaam Bonaire, Sint Eustatius of Saba tot 10 oktober 2014.
 
@@ -546,19 +572,19 @@ De toezichthouder ziet erop toe dat de buitengewoon agent van politie zijn taak 
 
 3. Onze Minister kan bij de aanwijzing, bedoeld in het eerste lid, bepalen dat de buitengewoon agent van politie tevens beschikt over politiebevoegdheden en een geweldmiddel.
 
-#### Artikel 53
+##### Artikel 53
 
 Tot het moment waarop uitvoering is gegeven aan de onderlinge regeling van 1 juli 2010, houdende kwaliteitseisen, opleidings- en trainingsvereisten politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba, bepaalt Onze Minister de eisen die gesteld worden aan de vaardigheden met betrekking tot het gebruik van geweld, waaronder schietvaardigheid, alsmede die met betrekking tot de uitoefening van aanhouding en zelfverdediging van buitengewoon agenten van politie, met uitzondering van degene die werkzaam zijn bij de Koninklijke marechaussee en bij de Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 54
+##### Artikel 54
 
 Het [besluit buitengewone agenten van politie 1966 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028766) wordt ingetrokken.
 
-#### Artikel 55
+##### Artikel 55
 
 Dit besluit treedt in werking met ingang van 1 januari 2011.
 
-#### Artikel 56
+##### Artikel 56
 
 Dit besluit wordt aangehaald als: Besluit buitengewone agenten van politie BES
 

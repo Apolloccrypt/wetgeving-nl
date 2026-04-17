@@ -1,20 +1,46 @@
 ---
-title: "Besluit beperking openbaarheid archief Decoratiecommissie uit de Raad van Minister van het Ministerie van Buitenlandse Zaken 1946–1995"
+title: "Besluit van de Minister van Buitenlandse Zaken van 27 april 2009, nr. DDI/ST/reg. 014/2009, houdende beperking van de openbaarheid van het archief van de Decoratiecommissie uit de Raad van Minister van het Ministerie van Buitenlandse Zaken 1946–1995"
 identifier: "BWBR0025853"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2009-05-22
-laatste_update: 2009-05-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025853"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2009-05-22"
+last_updated: "2009-05-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025853"
+soort: "ministeriele-regeling"
+stam_id: "10045143"
+version_id: "16417222"
+internal_id: "C22570351"
+label_id: "10021484"
+dtd_version: "2.0"
+original_entry_into_force: "2009-05-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025853/2009-05-22/0"
+intitule_bron: "Stcrt.2009-92"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-04-27"
+intitule_published: "2009-05-20"
+intitule_in_force: "2009-05-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-92"
+original_signed_date: "2009-04-27"
+original_published_date: "2009-05-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-7391"
+entry_into_force_date: "2009-05-22"
+jci_1_3: "jci1.3:c:BWBR0025853&z=2009-05-22&g=2009-05-22"
+jci_1_0: "1.0:c:BWBR0025853&g=2009-05-22"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid archief Decoratiecommissie uit de Raad van Minister van het Ministerie van Buitenlandse Zaken 1946–1995"
+signed_date: "2009-04-27"
+entry_into_force: "2009-05-22"
 ---
-
 # Besluit van de Minister van Buitenlandse Zaken van 27 april 2009, nr. DDI/ST/reg. 014/2009, houdende beperking van de openbaarheid van het archief van de Decoratiecommissie uit de Raad van Minister van het Ministerie van Buitenlandse Zaken 1946–1995
 
 Gelet op [artikel 15, eerste lid, onder a en c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de eerbiediging van de persoonlijke levenssfeer en met het oog op het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen, danwel van derden, zijn de inventarisnummers, genoemd in de eerste kolom, van het archief van de Decoratiecommissie uit de Raad van Minister van het Ministerie van Buitenlandse Zaken 1946–1995, tot 1 januari van het jaar, genoemd in de tweede kolom niet openbaar.
 
@@ -32,11 +58,11 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer en met het oog op
 | 69 | 2024 | 2069 |
 | 70 | 2025 | 2070 |
 
-#### Artikel 2
+##### Artikel 2
 
 Met ingang van 1 januari van het jaar, genoemd in de tweede kolom tot 1 januari van het jaar, genoemd in de derde kolom, zijn de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025853&artikel=1&z=2009-05-22&g=2009-05-22) na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief te raadplegen. Indiening van een verzoek tot inzage geschiedt door ondertekening door de verzoeker van het ‘Formulier voor toestemming tot raadpleging van niet openbare archieven’; een exemplaar van dit formulier is als bijlage bij dit besluit gevoegd. De directeur kan aan zijn toestemming voorwaarden verbinden.
 
-#### Artikel 3
+##### Artikel 3
 
 Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom, van het archief van de Decoratiecommissie uit de Raad van Minister van het Ministerie van Buitenlandse Zaken 1946–1995, openbaar met ingang van 1 januari van het jaar, genoemd in de tweede kolom:
 
@@ -523,15 +549,15 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 | 1547–1557 | 2050 |
 | 1558 | 2023 |
 
-#### Artikel 4
+##### Artikel 4
 
 Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025853&artikel=3&z=2009-05-22&g=2009-05-22), is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. Indiening van een verzoek tot inzage geschiedt door ondertekening door de verzoeker van het ‘Formulier voor toestemming tot raadpleging van niet openbare archieven’; een exemplaar van dit formulier is als bijlage bij dit besluit gevoegd. De directeur kan aan zijn toestemming voorwaarden verbinden.
 
-#### Artikel 5
+##### Artikel 5
 
 Het vervaardigen van reproducties van documenten uit, danwel het publiceren van gegevens uit de archiefbescheiden geborgen onder de inventarisnummers, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025853&artikel=1&z=2009-05-22&g=2009-05-22) met in achtneming van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025853&artikel=2&z=2009-05-22&g=2009-05-22), en de inventarisnummers, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025853&artikel=3&z=2009-05-22&g=2009-05-22), is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. De directeur kan aan zijn toestemming voorwaarden verbinden.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

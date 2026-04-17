@@ -1,20 +1,46 @@
 ---
-title: "Besluit beperking openbaarheid archief Hoge Commissariaat in Indonesië te Jakarta van het Ministerie van Buitenlandse Zaken, 1949–1961"
+title: "Besluit van de Minister van Buitenlandse Zaken van 3 juni 2009, nr. DDI/ST/reg. 020/2009, houdende beperking van de openbaarheid van het archief van het Hoge Commissariaat in Indonesië te Jakarta van het Ministerie van Buitenlandse Zaken, 1949–1961"
 identifier: "BWBR0025940"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2009-06-14
-laatste_update: 2009-06-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025940"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2009-06-14"
+last_updated: "2009-06-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025940"
+soort: "ministeriele-regeling"
+stam_id: "10059863"
+version_id: "16440632"
+internal_id: "C22607101"
+label_id: "10036184"
+dtd_version: "2.0"
+original_entry_into_force: "2009-06-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025940/2009-06-14/0"
+intitule_bron: "Stcrt.2009-106"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-06-03"
+intitule_published: "2009-06-12"
+intitule_in_force: "2009-06-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-106"
+original_signed_date: "2009-06-03"
+original_published_date: "2009-06-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-8676"
+entry_into_force_date: "2009-06-14"
+jci_1_3: "jci1.3:c:BWBR0025940&z=2009-06-14&g=2009-06-14"
+jci_1_0: "1.0:c:BWBR0025940&g=2009-06-14"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid archief Hoge Commissariaat in Indonesië te Jakarta van het Ministerie van Buitenlandse Zaken, 1949–1961"
+signed_date: "2009-06-03"
+entry_into_force: "2009-06-14"
 ---
-
 # Besluit van de Minister van Buitenlandse Zaken van 3 juni 2009, nr. DDI/ST/reg. 020/2009, houdende beperking van de openbaarheid van het archief van het Hoge Commissariaat in Indonesië te Jakarta van het Ministerie van Buitenlandse Zaken, 1949–1961
 
 Gelet op [artikel 15, eerste lid, onder a, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom, van het archief van het Hoge Commissariaat in Indonesië te Jakarta van het Ministerie van Buitenlandse Zaken, 1949–1961, openbaar met ingang van 1 januari van het jaar, genoemd in de tweede kolom:
 
@@ -51,15 +77,15 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 | 301 | 2014 |
 | 456–8980 | 2025 |
 
-#### Artikel 2
+##### Artikel 2
 
 Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025940&artikel=1&z=2009-06-14&g=2009-06-14), is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. Indiening van een verzoek tot inzage geschiedt door ondertekening door de verzoeker van het ‘Formulier voor toestemming tot raadpleging van niet openbare archieven’; een exemplaar van dit formulier is als bijlage bij dit besluit gevoegd. De directeur kan aan zijn toestemming voorwaarden verbinden.
 
-#### Artikel 3
+##### Artikel 3
 
 Het vervaardigen van reproducties van documenten uit, danwel het publiceren van gegevens uit de archiefbescheiden geborgen onder de inventarisnummers, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025940&artikel=1&z=2009-06-14&g=2009-06-14), is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. De directeur kan aan zijn toestemming voorwaarden verbinden.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

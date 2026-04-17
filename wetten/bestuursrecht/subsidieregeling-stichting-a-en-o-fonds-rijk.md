@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling Stichting A en O-fonds Rijk"
+title: "Regeling van de Minister voor Wonen en Rijksdienst van 10 juni 2013, nr. 2013-0000329676, houdende regels voor de subsidiëring van de Stichting Arbeids- en Opleidingsfonds Rijk (Subsidieregeling Stichting A en O-fonds Rijk)"
 identifier: "BWBR0033554"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-12-19
-laatste_update: 2018-12-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033554"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-12-19"
+last_updated: "2018-12-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033554"
+soort: "ministeriele-regeling"
+stam_id: "12287973"
+version_id: "20577972"
+internal_id: "C28943101"
+label_id: "12259354"
+dtd_version: "2.0"
+original_entry_into_force: "2013-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033554/2018-12-19/0"
+intitule_bron: "Stcrt.2013-16556"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-06-10"
+intitule_published: "2013-06-20"
+intitule_in_force: "2013-06-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-16556"
+original_signed_date: "2013-06-10"
+original_published_date: "2013-06-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-16556"
+entry_into_force_date: "2013-07-01"
+jci_1_3: "jci1.3:c:BWBR0033554&z=2018-12-19&g=2018-12-19"
+jci_1_0: "1.0:c:BWBR0033554&g=2018-12-19"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling Stichting A en O-fonds Rijk"
+signed_date: "2013-06-10"
+entry_into_force: "2013-07-01"
 ---
-
 # Regeling van de Minister voor Wonen en Rijksdienst van 10 juni 2013, nr. 2013-0000329676, houdende regels voor de subsidiëring van de Stichting Arbeids- en Opleidingsfonds Rijk (Subsidieregeling Stichting A en O-fonds Rijk)
 
 Gelet op de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=3), en [4, eerste lid, onderdelen d, f en g, van de Kaderwet overige BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=4) en de [artikelen 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11), en [18, eerste lid, van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=18);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - b. **stichting:** Stichting Arbeids- en Opleidingsfonds Rijk.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De minister verstrekt aan de stichting een subsidie voor het uitvoeren van activiteiten of het subsidiëren van projecten ten behoeve van het stimuleren van arbeidsmarkt-, werkgelegenheids- en opleidingsactiviteiten.
 
@@ -32,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 3. De minister kan slechts in overeenstemming met de Centrales van Overheidspersoneel besluiten de subsidie, bedoeld in het eerste lid, niet meer te verstrekken; de minister neemt hierbij een termijn van drie jaar in acht.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033554&paragraaf=1&artikel=2&z=2018-12-19&g=2018-12-19), bedraagt, behoudens de aanvullende middelen, bedoeld in het tweede lid, ten hoogste het bedrag dat uit de begroting van de Minister voor Wonen en Rijksdienst blijkt.
 
@@ -40,13 +66,13 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. De subsidieverlening
 
-#### Artikel 4
+##### Artikel 4
 
 De stichting dient de aanvraag tot subsidieverlening uiterlijk in op 31 december voor de aanvang van het boekjaar waarop de subsidie betrekking heeft.
 
 #### § 3. Voorschotverlening
 
-#### Artikel 5
+##### Artikel 5
 
 1. De minister verstrekt voorschotten per boekjaar.
 
@@ -62,11 +88,11 @@ De stichting dient de aanvraag tot subsidieverlening uiterlijk in op 31 december
 
 #### § 4. De verplichtingen van de subsidieontvanger
 
-#### Artikel 6
+##### Artikel 6
 
 De stichting legt alle projecten vast in een projectenadministratie. In deze administratie wordt per project de verplichting vastgelegd, met daaraan gekoppeld de geprognosticeerde benodigde kasbedragen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De looptijd van een door de stichting aangegane verplichting bedraagt ten hoogste drie jaar.
 
@@ -100,21 +126,21 @@ De stichting legt alle projecten vast in een projectenadministratie. In deze adm
 
 3. De stichting draagt zorg voor een adequaat vorderingenbeheer.
 
-#### Artikel 8
+##### Artikel 8
 
 De stichting licht ten minste eens in de vijf jaar de interne organisatie, de door haar geleverde producten en het door haar gevoerde beleid door op doelmatigheid en doeltreffendheid en deelt de resultaten van haar bevindingen mee aan het Sectoroverleg Rijkspersoneel.
 
 #### § 5. Overgangs- en slotbepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 Een subsidie die is verleend krachtens de Bijdragebeschikking Stichting Arbeids- en Opleidingsfonds Rijk wordt aangemerkt als een subsidie, verleend krachtens deze regeling.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling treedt in werking met ingang van 1 juli 2013 en vervalt met ingang van 1 januari 2020.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling wordt aangehaald als: Subsidieregeling Stichting A en O-fonds Rijk.
 

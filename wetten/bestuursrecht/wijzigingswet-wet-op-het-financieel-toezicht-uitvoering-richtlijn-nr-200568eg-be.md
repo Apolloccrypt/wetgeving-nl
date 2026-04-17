@@ -1,14 +1,41 @@
 ---
-title: "Wijzigingswet Wet op het financieel toezicht (uitvoering richtlijn nr. 2005/68/EG betreffende herverzekering)"
+title: "Wet van 3 juli 2008 tot wijziging van de Wet op het financieel toezicht in verband met de uitvoering van Richtlijn nr. 2005/68/EG van het Europees Parlement en de Raad van de Europese Unie van 16 november 2005 betreffende herverzekering en houdende wijziging van Richtlijnen 73/239/EEG en 92/49/EEG van de Raad en van Richtlijnen 98/78/EG en 2002/83/EG (PbEU L 323)"
 identifier: "BWBR0024391"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-01-01
-laatste_update: 2016-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024391"
+country: "nl"
+rank: "wet"
+publication_date: "2016-01-01"
+last_updated: "2016-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024391"
+soort: "wet"
+stam_id: "9701793"
+version_id: "15680292"
+internal_id: "C21433891"
+label_id: "9678924"
+dtd_version: "2.0"
+original_entry_into_force: "2008-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024391/2016-01-01/0"
+intitule_bron: "Stb.2008-333"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-07-03"
+intitule_published: "2008-08-26"
+intitule_in_force: "2008-08-26"
+intitule_status: "goed"
+original_publication: "Stb.2008-333"
+original_signed_date: "2008-07-03"
+original_published_date: "2008-08-26"
+original_effect: "nieuwe-regeling"
+original_dossier: "31131"
+original_url_id: "stb-2008-333"
+entry_into_force_date: "2008-09-01"
+jci_1_3: "jci1.3:c:BWBR0024391&z=2016-01-01&g=2016-01-01"
+jci_1_0: "1.0:c:BWBR0024391&g=2016-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingswet Wet op het financieel toezicht (uitvoering richtlijn nr. 2005/68/EG betreffende herverzekering)"
+signed_date: "2008-07-03"
+entry_into_force: "2008-09-01"
 ---
-
-# Wijzigingswet Wet op het financieel toezicht (uitvoering richtlijn nr. 2005/68/EG betreffende herverzekering)
+# Wet van 3 juli 2008 tot wijziging van de Wet op het financieel toezicht in verband met de uitvoering van Richtlijn nr. 2005/68/EG van het Europees Parlement en de Raad van de Europese Unie van 16 november 2005 betreffende herverzekering en houdende wijziging van Richtlijnen 73/239/EEG en 92/49/EEG van de Raad en van Richtlijnen 98/78/EG en 2002/83/EG (PbEU L 323)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,15 +43,15 @@ Alzo Wij in overweging genomen hebben, dat het noodzakelijk is uitvoering te gev
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet op het financieel toezicht.
 
-#### Artikel II
+##### Artikel II
 
 In de [artikelen III tot en met XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0024391&artikel=III&z=2016-01-01&g=2016-01-01) wordt verstaan onder «de wet»: de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
-#### Artikel III
+##### Artikel III
 
 1. Een herverzekeraar met zetel in Nederland die zijn bedrijf uitoefende onmiddellijk voorafgaand aan 10 december 2005, verkrijgt op het tijdstip van inwerkingtreding van deze wet van rechtswege een vergunning als bedoeld in [artikel 2:26a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:26a) voor de uitoefening van het bedrijf van herverzekeraar in de activiteit waarin hij zijn bedrijf op het tijdstip van inwerkingtreding van deze wet uitoefent.
 
@@ -60,7 +87,7 @@ In de [artikelen III tot en met XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 4. De herverzekeraar die overeenkomstig het eerste lid een vergunning heeft, wordt als aanvrager ingeschreven in het register, bedoeld in [artikel 1:107 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:107). De Nederlandsche Bank haalt deze inschrijving door zodra zij onherroepelijk op de aanvraag heeft beslist.
 
-#### Artikel IV
+##### Artikel IV
 
 1. Degene die op het tijdstip van inwerkingtreding van deze wet een gekwalificeerde deelneming houdt in een herverzekeraar als bedoeld in [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0024391&artikel=III&z=2016-01-01&g=2016-01-01), beschikt vanaf dat tijdstip van rechtswege over een verklaring van geen bezwaar als bedoeld in [artikel 3:95, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:95) voor die deelneming.
 
@@ -76,7 +103,7 @@ In de [artikelen III tot en met XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 4. Tot 10 december 2008 kan de Nederlandsche Bank de ingevolge het eerste lid verkregen verklaring van geen bezwaar niet intrekken.
 
-#### Artikel V
+##### Artikel V
 
 1. De gegevens, bedoeld in [artikel III, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024391&artikel=III&z=2016-01-01&g=2016-01-01), zijn:
 
@@ -136,7 +163,7 @@ In de [artikelen III tot en met XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 4. Het eerste lid, aanhef en onderdelen h en m, zijn niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
 
-#### Artikel VI
+##### Artikel VI
 
 Het programma van werkzaamheden, bedoeld in [artikel IV, eerste lid, onderdeel f,](https://wetten.overheid.nl/jci1.3:c:BWBR0024391&artikel=IV&z=2016-01-01&g=2016-01-01) dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van herverzekeraar, bevat het volgende:
 
@@ -156,7 +183,7 @@ Het programma van werkzaamheden, bedoeld in [artikel IV, eerste lid, onderdeel f
 
 - h. een raming voor de eerste drie boekjaren van de financiële middelen tot dekking van de verplichtingen en tot dekking van de solvabiliteitsmarge, bedoeld in [artikel 3:57, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57).
 
-#### Artikel VII
+##### Artikel VII
 
 1. Een herverzekeraar met zetel in een niet-aangewezen staat die zijn bedrijf vanuit een in Nederland gelegen bijkantoor uitoefende onmiddellijk voorafgaand aan 10 december 2005 overeenkomstig het recht van de staat van de zetel, verkrijgt op het tijdstip van inwerkingtreding van deze wet van rechtswege een vergunning als bedoeld in [artikel 2:54a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54a) voor de uitoefening van het bedrijf van herverzekeraar in de activiteit waarin hij zijn bedrijf op het tijdstip van inwerkingtreding van deze wet uitoefent.
 
@@ -188,7 +215,7 @@ Het programma van werkzaamheden, bedoeld in [artikel IV, eerste lid, onderdeel f
 
 4. De herverzekeraar die overeenkomstig het eerste lid een vergunning heeft, wordt als aanvrager ingeschreven in het register, bedoeld in [artikel 1:107 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:107). De Nederlandsche Bank haalt deze inschrijving door zodra zij onherroepelijk op de aanvraag heeft beslist.
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. De gegevens, bedoeld in [artikel VII, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024391&artikel=VII&z=2016-01-01&g=2016-01-01), zijn:
 
@@ -248,7 +275,7 @@ Het programma van werkzaamheden, bedoeld in [artikel IV, eerste lid, onderdeel f
 
 4. Het eerste lid, aanhef en onderdelen h en m, zijn niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
 
-#### Artikel IX
+##### Artikel IX
 
 Het programma van werkzaamheden, bedoeld in [artikel VIII, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0024391&artikel=VIII&z=2016-01-01&g=2016-01-01), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van herverzekeraar, bevat het volgende:
 
@@ -268,51 +295,51 @@ Het programma van werkzaamheden, bedoeld in [artikel VIII, eerste lid, onderdeel
 
 - h. een raming voor de eerste drie boekjaren van de financiële middelen tot dekking van de verplichtingen en tot dekking van de solvabiliteitsmarge, bedoeld in [artikel 3:57, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57).
 
-#### Artikel X
+##### Artikel X
 
 Vervallen
 
-#### Artikel XI
+##### Artikel XI
 
 Vervallen
 
-#### Artikel XII
+##### Artikel XII
 
 Vervallen
 
-#### Artikel XIII
+##### Artikel XIII
 
 Vervallen
 
-#### Artikel XIV
+##### Artikel XIV
 
 Vervallen
 
-#### Artikel XV
+##### Artikel XV
 
 Vervallen
 
-#### Artikel XVI
+##### Artikel XVI
 
 Vervallen
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wanneer op grond van deze wet de betrouwbaarheid van een persoon is vastgesteld, wordt die vaststelling voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) beschouwd als een vaststelling van de betrouwbaarheid ingevolge de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 De [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368), met uitzondering van het [Algemeen Deel](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=1), de [hoofdstukken 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&hoofdstuk=5.1), [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&hoofdstuk=5.3) en [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&hoofdstuk=5.5) en [afdeling 5.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&afdeling=5.4.2), is niet van toepassing op herverzekeraars met zetel in Nederland of herverzekeraars met zetel in een niet-aangewezen staat die op het tijdstip van inwerkingtreding van deze wet niet langer herverzekeringen sluiten en uitsluitend hun bestaande portefeuille beheren met het oog op de beëindiging van de uitoefening van het bedrijf van herverzekeraar.
 
-#### Artikel XVIIIa
+##### Artikel XVIIIa
 
 Wijzigt het Burgerlijk Wetboek Boek 2.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt deze wet.
 
-#### Artikel XX
+##### Artikel XX
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

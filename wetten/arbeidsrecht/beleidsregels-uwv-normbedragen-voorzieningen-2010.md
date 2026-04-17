@@ -1,18 +1,43 @@
 ---
 title: "Beleidsregels UWV normbedragen voorzieningen 2010"
 identifier: "BWBR0027068"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2010-08-19
-laatste_update: 2010-08-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027068"
+country: "nl"
+rank: "zbo"
+publication_date: "2010-08-19"
+last_updated: "2010-08-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027068"
+soort: "zbo"
+stam_id: "10386273"
+version_id: "17579592"
+internal_id: "C24330681"
+label_id: "10361694"
+dtd_version: "2.0"
+original_entry_into_force: "2010-07-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027068/2010-08-19/0"
+intitule_bron: "Stcrt.2010-651"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-12-15"
+intitule_published: "2010-01-18"
+intitule_in_force: "2010-01-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-12828"
+original_signed_date: "2010-07-13"
+original_published_date: "2010-08-18"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2010-12828"
+entry_into_force_date: "2010-07-13"
+jci_1_3: "jci1.3:c:BWBR0027068&z=2010-08-19&g=2010-08-19"
+jci_1_0: "1.0:c:BWBR0027068&g=2010-08-19"
+citeertitel_status: "officieel"
+signed_date: "2010-07-13"
+entry_into_force: "2010-07-13"
 ---
-
 # Beleidsregels UWV normbedragen voorzieningen 2010
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De normbedragen voor voorzieningen, als bedoeld in:
 
@@ -30,13 +55,13 @@ De normbedragen voor voorzieningen, als bedoeld in:
 
 worden vastgesteld op de bedragen, genoemd in de bijlage bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De kilometervergoedingen volgens de codes C11, C13, C22 en C25 worden verstrekt op basis van de aantallen kilometers afgerond naar boven, verkregen volgens de ANWB-methode ‘snelste route’ en op basis van volledige postcodes.
 
 2. De aftrek, als bedoeld onder de codes C26-I en C26-II, wordt vastgesteld op basis van de aantallen kilometers afgerond naar boven, verkregen volgens de ANWB-methode ‘snelste route’ en op basis van volledige postcodes.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De uurvergoeding met code E17 wordt uitsluitend verstrekt voor feitelijke tolkactiviteit en bij een minimale inzet van de tolk van:
 
@@ -68,17 +93,17 @@ In onderwijssituaties wordt tussen 08.00 en 18.00 uur een vaste vergoeding verst
 
 8. Voor de toepassing van het zevende lid is een nadere beslissing door UWV noodzakelijk, voorafgaand aan de uitvoering van de desbetreffende tolkopdracht.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Normbedrag C31 wordt verstrekt als men niet meer dan 100 meter kan lopen en voor iedere verplaatsing buitenshuis gebruik moet maken van een taxi.
 
 2. De combinatievergoeding C34 wordt verstrekt als men voor het leefvervoer niet uitsluitend is aangewezen op een taxi.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Beleidsregels UWV normbedragen voorzieningen 2010.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van 1 januari 2010. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2009, treedt dit besluit in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt het terug tot en met 1 januari 2010.
 

@@ -1,20 +1,46 @@
 ---
-title: "Besluit vaststelling voorlopige correctiebedragen Subsidieregeling coöperatieve energieopwekking 2026"
+title: "Besluit van de Minister van Klimaat en Groene Groei van 25 oktober 2025, nr. WJZ/101444591, tot vaststelling van de correcties voor de voorschotverlening coöperatieve energieopwekking 2026 (Besluit vaststelling voorlopige correctiebedragen Subsidieregeling coöperatieve energieopwekking 2026) [KetenID 28331]"
 identifier: "BWBR0051687"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051687"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051687"
+soort: "ministeriele-regeling"
+stam_id: "17577913"
+version_id: "31016372"
+internal_id: "C44414071"
+label_id: "17478704"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051687/2026-01-01/0"
+intitule_bron: "Stcrt.2025-36819"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-10-25"
+intitule_published: "2025-10-31"
+intitule_in_force: "2025-10-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-36819"
+original_signed_date: "2025-10-25"
+original_published_date: "2025-10-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-36819"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051687&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051687&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit vaststelling voorlopige correctiebedragen Subsidieregeling coöperatieve energieopwekking 2026"
+signed_date: "2025-10-25"
+entry_into_force: "2026-01-01"
 ---
-
 # Besluit van de Minister van Klimaat en Groene Groei van 25 oktober 2025, nr. WJZ/101444591, tot vaststelling van de correcties voor de voorschotverlening coöperatieve energieopwekking 2026 (Besluit vaststelling voorlopige correctiebedragen Subsidieregeling coöperatieve energieopwekking 2026) [KetenID 28331]
 
 Gelet op [artikel 9 van de Subsidieregeling coöperatieve energieopwekking](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=9);
 
 Besluit:
 
-#### Artikel 1. (begripsbepalingen)
+##### Artikel 1. (begripsbepalingen)
 
 In dit besluit wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 - **voorlopige correctiebedrag:** bedrag als bedoeld in [artikel 9, eerste lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=9).
 
-#### Artikel 2. (vaststelling voorlopige correctiebedrag)
+##### Artikel 2. (vaststelling voorlopige correctiebedrag)
 
 Voor een categorie productie-installaties als bedoeld in het in de eerste kolom van onderstaande tabel genoemde artikel, wordt het voorlopige correctiebedrag voor 2026 vastgesteld op het bedrag dat is genoemd in de derde kolom.
 
@@ -151,11 +177,11 @@ Voor een categorie productie-installaties als bedoeld in het in de eerste kolom 
 | [Artikel 3, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0050795&artikel=3) | Waterkracht, kleinverbruikers-aansluiting, ≥ 15 kW en ≤ 100 kW | 0,091 |
 | [Artikel 3, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0050795&artikel=3) | Waterkracht, grootverbruikers-aansluiting, ≥ 15 kW en ≤ 150 kW | 0,091 |
 
-#### Artikel 3. (inwerkingtreding)
+##### Artikel 3. (inwerkingtreding)
 
 Dit besluit treedt in werking met ingang van 1 januari 2026.
 
-#### Artikel 4. (citeertitel)
+##### Artikel 4. (citeertitel)
 
 Dit besluit wordt aangehaald als: Besluit vaststelling voorlopige correctiebedragen Subsidieregeling coöperatieve energieopwekking 2026.
 

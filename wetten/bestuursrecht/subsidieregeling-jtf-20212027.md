@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling JTF 2021–2027"
+title: "Regeling van de Minister van Economische Zaken en Klimaat en de Minister van Sociale Zaken en Werkgelegenheid van 22 december 2022, nr. 2022-0000261694, houdende regels met betrekking tot de besteding van gelden uit het Fonds voor een rechtvaardige transitie, opgericht bij Verordening (EU) 2021/1056 van het Europees Parlement en de Raad (Subsidieregeling JTF 2021–2027)"
 identifier: "BWBR0047689"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-03-01
-laatste_update: 2026-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047689"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-01"
+last_updated: "2026-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047689"
+soort: "ministeriele-regeling"
+stam_id: "16611373"
+version_id: "30963902"
+internal_id: "C44347161"
+label_id: "16530634"
+dtd_version: "2.0"
+original_entry_into_force: "2025-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047689/2026-03-01/0"
+intitule_bron: "Stcrt.2022-34281"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-12-22"
+intitule_published: "2022-12-29"
+intitule_in_force: "2022-12-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-33306"
+original_signed_date: "2025-10-02"
+original_published_date: "2025-10-09"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-33306"
+entry_into_force_date: "2025-10-10"
+jci_1_3: "jci1.3:c:BWBR0047689&z=2026-03-01&g=2026-03-01"
+jci_1_0: "1.0:c:BWBR0047689&g=2026-03-01"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling JTF 2021–2027"
+signed_date: "2025-10-02"
+entry_into_force: "2025-10-10"
 ---
-
 # Regeling van de Minister van Economische Zaken en Klimaat en de Minister van Sociale Zaken en Werkgelegenheid van 22 december 2022, nr. 2022-0000261694, houdende regels met betrekking tot de besteding van gelden uit het Fonds voor een rechtvaardige transitie, opgericht bij Verordening (EU) 2021/1056 van het Europees Parlement en de Raad (Subsidieregeling JTF 2021–2027)
 
 Gelet op [verordening (EU) nr. 2021/1060](32960R2021) van het Europees Parlement en de Raad van 24 juni 2021 houdende gemeenschappelijke bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds Plus, het Cohesiefonds, het Fonds voor een rechtvaardige transitie en het Europees Fonds voor maritieme zaken, visserij en aquacultuur en de financiële regels voor die fondsen en voor het Fonds voor asiel, migratie en integratie, het Fonds voor interne veiligheid en het Instrument voor financiële steun voor grensbeheer en visumbeleid (PbEU 2021, L 231), [verordening (EU) nr. 2021/1056](32956R2021) van het Europees Parlement en de Raad van 24 juni 2021 tot oprichting van het Fonds voor een rechtvaardige transitie (PbEU 2021, L 231);
@@ -18,7 +44,7 @@ Besluiten:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -94,7 +120,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **samenwerkingsverband:** overeengekomen samenwerking die geen rechtspersoonlijkheid bezit, bestaand uit ten minste twee niet in een groep verbonden partijen, die is opgericht ten behoeve van de uitvoering van projectactiviteiten, niet zijnde een vennootschap.
 
-#### Artikel 1.2. Doel en reikwijdte
+##### Artikel 1.2. Doel en reikwijdte
 
 1. Het doel van deze regeling is het bijdragen aan het behalen van de doelstelling van het fonds, bedoeld in de artikelen 1, 2 en 3 van de JTF-verordening door middel van het verstrekken van subsidie.
 
@@ -102,11 +128,11 @@ In deze regeling wordt verstaan onder:
 
 3. De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) is niet van toepassing op subsidieverlening op grond van deze regeling.
 
-#### Artikel 1.3. Delegatie EZK naar SZW
+##### Artikel 1.3. Delegatie EZK naar SZW
 
 De Minister van EZK delegeert zijn bevoegdheid tot uitvoering van deze regeling, met uitzondering van [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=9&z=2026-03-01&g=2026-03-01), aan de Minister van SZW.
 
-#### Artikel 1.4. Subsidieverstrekking
+##### Artikel 1.4. Subsidieverstrekking
 
 1. De Minister van SZW verstrekt op aanvraag subsidie voor activiteiten ter uitvoering van het Programma JTF 2021–2027.
 
@@ -130,17 +156,17 @@ De Minister van EZK delegeert zijn bevoegdheid tot uitvoering van deze regeling,
 
 9. In geval van het niet vervullen van de voorwaarde, bedoeld in het achtste lid, kan de Minister van SZW de subsidieverlening aanpassen aan het gewijzigde Programma JTF 2021–2027, dat de instemming van de Europese Commissie heeft verkregen.
 
-#### Artikel 1.5. Subsidieaanvrager
+##### Artikel 1.5. Subsidieaanvrager
 
 Subsidieaanvrager als bedoeld in deze regeling is degene die als zodanig is aangewezen in de [hoofdstukken 2 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=2&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 1.6. Aanwijzing programma-autoriteiten
+##### Artikel 1.6. Aanwijzing programma-autoriteiten
 
 1. Als beheerautoriteit als bedoeld in artikel 71, eerste lid, van de GB-verordening wordt aangewezen de Minister van SZW.
 
 2. Als auditautoriteit als bedoeld in artikel 71, eerste lid, van de GB-verordening wordt aangewezen de Auditdienst Rijk van het Ministerie van Financiën.
 
-#### Artikel 1.7. Gebiedsbepaling
+##### Artikel 1.7. Gebiedsbepaling
 
 1. De uitvoering van het Programma JTF 2021–2027 vindt plaats ten behoeve van zes JTF-regio’s en past in het territoriale plan voor een rechtvaardige transitie, bedoeld in artikel 11 van de JTF-verordening, voor de desbetreffende regio.
 
@@ -172,7 +198,7 @@ Subsidieaanvrager als bedoeld in deze regeling is degene die als zodanig is aang
 
 - f. Zuid-Limburg, bestaande uit het NUTS-3 gebied Zuid-Limburg.
 
-#### Artikel 1.8. Aanwijzing intermediaire instanties
+##### Artikel 1.8. Aanwijzing intermediaire instanties
 
 1. Voor de uitvoering van het deel van het Programma JTF 2021–2027 dat de JTF-regio Groningen-Emmen betreft, wordt als intermediaire instantie aangewezen het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland.
 
@@ -180,7 +206,7 @@ Subsidieaanvrager als bedoeld in deze regeling is degene die als zodanig is aang
 
 3. Voor de uitvoering van het deel van het Programma JTF 2021–2027 dat de JTF-regio’s West Noord-Brabant, Zeeuws-Vlaanderen en Zuid-Limburg betreft, wordt als intermediaire instantie aangewezen Gedeputeerde Staten van de provincie Noord-Brabant.
 
-#### Artikel 1.9. Mandaatverlening door de Minister van SZW
+##### Artikel 1.9. Mandaatverlening door de Minister van SZW
 
 1. De Minister van SZW verleent bij besluit aan onder hem ressorterende ambtenaren en aan intermediaire instanties mandaat, volmacht en machtiging om in het kader van de uitvoering van de [hoofdstukken 1 tot en met 8 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&z=2026-03-01&g=2026-03-01):
 
@@ -192,7 +218,7 @@ Subsidieaanvrager als bedoeld in deze regeling is degene die als zodanig is aang
 
 2. Een gemandateerde als bedoeld in het eerste lid is in het kader van de uitvoering van deze regeling bevoegd tot het verlenen van ondermandaat aan bij hem werkzame functionarissen.
 
-#### Artikel 1.10. Openstelling
+##### Artikel 1.10. Openstelling
 
 1. De Minister van SZW kan op grond van deze regeling uitsluitend subsidie verstrekken, indien de mogelijkheid tot het doen van een subsidieaanvraag is opengesteld door vaststelling van een subsidieplafond en een periode voor indiening van de aanvraag.
 
@@ -200,7 +226,7 @@ Subsidieaanvrager als bedoeld in deze regeling is degene die als zodanig is aang
 
 3. De Ministers kunnen verschillende subsidieplafonds vaststellen voor verschillende activiteiten of categorieën van aanvragers, delen van JTF-regio’s en voor een of meer financieringsinstrumenten.
 
-#### Artikel 1.11. Subsidiabele kosten
+##### Artikel 1.11. Subsidiabele kosten
 
 1. Voor zover zij direct verbonden zijn met de uitvoering van activiteiten als bedoeld in artikel 8 van de JTF-verordening, zijn de volgende kosten subsidiabel:
 
@@ -224,7 +250,7 @@ Subsidieaanvrager als bedoeld in deze regeling is degene die als zodanig is aang
 
 4. De subsidiabele kosten, bedoeld in het eerste lid, worden in aanmerking genomen met inbegrip van de btw, indien de subsidieontvanger de btw niet als belasting als bedoeld in [artikel 2 van de Wet op de omzetbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=2) in aftrek kan brengen.
 
-#### Artikel 1.12. Berekening loonkosten en eigen arbeid
+##### Artikel 1.12. Berekening loonkosten en eigen arbeid
 
 1. De loonkosten, inclusief overhead, worden berekend:
 
@@ -248,7 +274,7 @@ Subsidieaanvrager als bedoeld in deze regeling is degene die als zodanig is aang
 
 - b. indien gebruik wordt gemaakt van een vast uurtarief als bedoeld in het vierde lid voor eigen arbeid, niet meer bedragen dan 1.720 uren.
 
-#### Artikel 1.13. Berekening loonkosten en eigen arbeid, met inbegrip van de overige subsidiabele kosten
+##### Artikel 1.13. Berekening loonkosten en eigen arbeid, met inbegrip van de overige subsidiabele kosten
 
 1. In afwijking van [artikel 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.12&z=2026-03-01&g=2026-03-01) kunnen de kosten, bedoeld in [artikel 1.11, eerste lid, aanhef en onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.11&z=2026-03-01&g=2026-03-01), worden berekend met inbegrip van de kosten, bedoeld in de onderdelen d tot en met f van dat artikellid door:
 
@@ -266,13 +292,13 @@ Subsidieaanvrager als bedoeld in deze regeling is degene die als zodanig is aang
 
 6. Indien de in het vijfde lid omschreven combinatie binnen een project wordt toegepast, kunnen de kosten, bedoeld in [artikel 1.11, eerste lid, aanhef en onderdelen d tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.11&z=2026-03-01&g=2026-03-01), niet apart worden toegerekend aan het project.
 
-#### Artikel 1.14. Facturen voor kosten als bedoeld in [artikel 1.11, eerste lid, aanhef en onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.11&z=2026-03-01&g=2026-03-01), met een factuurbedrag van minder dan € 250, exclusief btw
+##### Artikel 1.14. Facturen voor kosten als bedoeld in [artikel 1.11, eerste lid, aanhef en onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.11&z=2026-03-01&g=2026-03-01), met een factuurbedrag van minder dan € 250, exclusief btw
 
 1. De kosten, bedoeld in [artikel 1.11, eerste lid, aanhef en onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.11&z=2026-03-01&g=2026-03-01), komen niet in aanmerking voor subsidie, indien het factuurbedrag lager is dan € 250, exclusief btw.
 
 2. Bij subsidiëring van de kosten, bedoeld in [artikel 1.11, eerste lid, aanhef en onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.11&z=2026-03-01&g=2026-03-01), waarvoor een factuur wordt ingediend met een factuurbedrag van € 250 of meer, exclusief btw, wordt een opslag van 1 procent op het factuurbedrag toegepast, ter dekking van de kosten waarvoor op grond van het eerste lid geen facturen kunnen worden ingediend.
 
-#### Artikel 1.15. Niet-subsidiabele kosten
+##### Artikel 1.15. Niet-subsidiabele kosten
 
 1. Voor subsidie komen niet in aanmerkingen de kosten van activiteiten als bedoeld in artikel 9 van de JTF-verordening.
 
@@ -294,11 +320,11 @@ Subsidieaanvrager als bedoeld in deze regeling is degene die als zodanig is aang
 
 - h. kosten van outplacementtrajecten.
 
-#### Artikel 1.16. Cumulatie
+##### Artikel 1.16. Cumulatie
 
 Onverminderd artikel 63, negende lid, van de GB-verordening, wordt, indien reeds door een bestuursorgaan of de Europese Commissie subsidie is verstrekt voor de subsidiabele kosten of een deel daarvan, slechts een zodanig bedrag aan subsidie verstrekt dat het totale bedrag aan subsidies niet meer bedraagt dan het bedrag dat volgens het toepasselijke Europese steunkader is toegestaan.
 
-#### Artikel 1.17. Subsidieplafond en verdeling van subsidiebudgetten
+##### Artikel 1.17. Subsidieplafond en verdeling van subsidiebudgetten
 
 1. Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het programma JTF 2021–2027 € 599.137.806.
 
@@ -322,7 +348,7 @@ Onverminderd artikel 63, negende lid, van de GB-verordening, wordt, indien reeds
 
 - b. op volgorde van rangschikking naar geschiktheid, overeenkomstig [artikel 1.19](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.19&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 1.18. Volgorde van ontvangst
+##### Artikel 1.18. Volgorde van ontvangst
 
 1. Indien in deze regeling is bepaald dat verdeling van het subsidieplafond plaatsvindt op volgorde van ontvangst als bedoeld in [artikel 1.17, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.17&z=2026-03-01&g=2026-03-01), komt de eerst ontvangen aanvraag het eerst voor beoordeling van de subsidieaanvraag in aanmerking.
 
@@ -330,7 +356,7 @@ Onverminderd artikel 63, negende lid, van de GB-verordening, wordt, indien reeds
 
 3. Indien de Minister van SZW op de dag dat het subsidieplafond wordt bereikt meer dan één aanvraag ontvangt, stelt hij de onderlinge volgorde van die aanvragen vast door middel van loting.
 
-#### Artikel 1.19. Rangschikking naar geschiktheid
+##### Artikel 1.19. Rangschikking naar geschiktheid
 
 1. Indien in deze regeling is bepaald dat verdeling van het subsidieplafond plaatsvindt op volgorde van rangschikking naar geschiktheid als bedoeld in [artikel 1.17, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.17&z=2026-03-01&g=2026-03-01), komt de hoogst gerangschikte aanvraag het eerst voor beoordeling van de subsidieaanvraag in aanmerking.
 
@@ -338,7 +364,7 @@ Onverminderd artikel 63, negende lid, van de GB-verordening, wordt, indien reeds
 
 3. Voor zover het subsidieplafond dreigt te worden overschreden, stelt de Minister van SZW de onderlinge rangschikking van de aanvragen die bij de beoordeling gelijk zijn gerangschikt vast door middel van loting.
 
-#### Artikel 1.20. Beoordelingscriteria
+##### Artikel 1.20. Beoordelingscriteria
 
 1. De Minister van SZW kent aan een project een hoger aantal punten toe naarmate:
 
@@ -358,7 +384,7 @@ Onverminderd artikel 63, negende lid, van de GB-verordening, wordt, indien reeds
 
 3. In de desbetreffende subsidietitel wordt bepaald hoeveel punten per onderdeel van het eerste lid de Minister van SZW kan toekennen.
 
-#### Artikel 1.21. Deskundigencommissies
+##### Artikel 1.21. Deskundigencommissies
 
 1. De Minister van SZW stelt een deskundigencommissie in voor de:
 
@@ -388,7 +414,7 @@ Onverminderd artikel 63, negende lid, van de GB-verordening, wordt, indien reeds
 
 10. Een deskundigencommissie verstrekt desgevraagd aan de Minister van SZW de voor de uitoefening van zijn taak benodigde inlichtingen. De Minister van SZW kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
-#### Artikel 1.22. Subsidieaanvraag
+##### Artikel 1.22. Subsidieaanvraag
 
 1. Een aanvraag voor subsidie op grond van deze regeling bevat ten minste:
 
@@ -418,7 +444,7 @@ Onverminderd artikel 63, negende lid, van de GB-verordening, wordt, indien reeds
 
 - i. indien het een aanvraag betreft die ziet op een of meer productieve investeringen in een grote onderneming, een analyse waaruit blijkt dat het verwachte banenverlies zonder de investering groter zou zijn dan het verwachte aantal gecreëerde banen.
 
-#### Artikel 1.23. Beslissing op de aanvraag
+##### Artikel 1.23. Beslissing op de aanvraag
 
 1. Indien het subsidieplafond wordt verdeeld op volgorde van binnenkomst van de aanvragen, beslist de Minister van SZW binnen 26 weken na ontvangst van de aanvraag.
 
@@ -426,7 +452,7 @@ Onverminderd artikel 63, negende lid, van de GB-verordening, wordt, indien reeds
 
 3. Indien de subsidie wordt verleend aan partijen in een samenwerkingsverband, verzendt de Minister van SWZ de beschikking tot subsidieverlening aan de penvoerder.
 
-#### Artikel 1.24. Subsidieverlening en -vaststelling projecten minder dan € 200.000
+##### Artikel 1.24. Subsidieverlening en -vaststelling projecten minder dan € 200.000
 
 1. Indien subsidie wordt aangevraagd voor projecten waarvan de totale kostprijs niet meer dan € 200.000 bedraagt, wordt de subsidie verleend met gebruikmaking van eenheidskosten of vaste bedragen als bedoeld in artikel 53, tweede lid, van de GB-verordening en kan de subsidie worden vastgesteld op basis van een ontwerpbegroting als bedoeld in artikel 53, derde lid, aanhef en onderdeel b, van de GB-verordening.
 
@@ -434,7 +460,7 @@ Onverminderd artikel 63, negende lid, van de GB-verordening, wordt, indien reeds
 
 3. De Minister van SZW kan de subsidieaanvrager bij beschikking toestaan de [artikelen 1.27](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.27&z=2026-03-01&g=2026-03-01) en [1.29](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.29&z=2026-03-01&g=2026-03-01) geheel of gedeeltelijk buiten toepassing te laten, indien de subsidie wordt verleend met gebruikmaking van het eerste lid.
 
-#### Artikel 1.25. Afwijzingsgronden
+##### Artikel 1.25. Afwijzingsgronden
 
 Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) beslist de Minister van SZW afwijzend op een aanvraag, indien:
 
@@ -462,7 +488,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 - l. na toepassing van [artikel 1.20](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-03-01&g=2026-03-01) voor een of meer van de op basis van artikel 1.20, derde lid, voor die subsidietitel gehanteerde criteria minder dan de helft van de mogelijke punten is toegekend.
 
-#### Artikel 1.26. Verplichtingen subsidieontvanger
+##### Artikel 1.26. Verplichtingen subsidieontvanger
 
 1. De subsidieontvanger of, indien subsidieontvangers samenwerken in een samenwerkingsverband, de penvoerder doet onverwijld schriftelijk mededeling aan de Minister van SZW van de indiening bij de rechtbank van een verzoek tot het op hem van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen, tot verlening van surseance van betaling aan hem of tot faillietverklaring van hem.
 
@@ -496,7 +522,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 8. Indien het zevende lid van toepassing is en de subsidieontvanger een opdracht verleent naar aanleiding van een op grond van de [Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203) verplichte aanbesteding, stelt de subsidieontvanger of de penvoerder de Minister van SZW op de hoogte van de gevolgde procedure en de gunningsbeslissing, overeenkomstig [artikel 2.130 van de Aanbestedingswet 2012.](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=2.130)
 
-#### Artikel 1.27. Administratievoorschriften
+##### Artikel 1.27. Administratievoorschriften
 
 1. De subsidieontvanger houdt een inzichtelijke en controleerbare administratie bij met betrekking tot de uitvoering van het project en de in verband daarmee gemaakte kosten en gerealiseerde opbrengsten. Deze administratie bestaat uit een projectadministratie en een financiële administratie waarin alle noodzakelijke gegevens tijdig, juist en volledig zijn vastgelegd en ten behoeve van de vaststelling van de subsidiabiliteit zijn te verifiëren met bewijsstukken.
 
@@ -510,7 +536,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 6. De subsidieontvanger verstrekt desgevraagd aan door de Minister van SZW dan wel door de Europese Commissie daartoe aangewezen instanties inzage in of informatie uit de administratie. Tevens verstrekt hij de voornoemde instanties desgevraagd informatie over de projecten, welke informatie voor monitoring en evaluatiedoeleinden gebruikt kan worden.
 
-#### Artikel 1.28. Beschikbaarheid van bescheiden
+##### Artikel 1.28. Beschikbaarheid van bescheiden
 
 1. Onverminderd de voorschriften voor staatssteun bewaart de subsidieontvanger alle administratieve bescheiden die betrekking hebben op het gesubsidieerde project tot ten minste 31 december 2035 dan wel tot een nader door de Minister van SZW aan de subsidieontvanger schriftelijk bekend te maken termijn. Indien de Europese Commissie, vanwege een gerechtelijke vervolging of een met redenen omkleed verzoek de bewaartermijn schorst, maakt de Minister van SZW de gevolgen voor de bewaartermijn, bedoeld in dit lid, in de Staatscourant bekend.
 
@@ -522,7 +548,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 5. Alle administratieve bescheiden zijn beschikbaar voor de subsidieontvanger. De subsidieontvanger is en blijft verantwoordelijk voor een correcte opslag van alle administratieve bescheiden, ook als hij een derde met de opslag belast.
 
-#### Artikel 1.29. Rapportageverplichtingen
+##### Artikel 1.29. Rapportageverplichtingen
 
 1. Indien de periode van uitvoering van een project dat voor subsidie in aanmerking komt meer dan twaalf maanden in beslag neemt, wordt bij de beschikking tot subsidieverlening de verplichting opgelegd tot indiening van één of meer rapportages waarin de voortgang van het project wordt beschreven, waarbij rekening wordt gehouden met de mijlpalen van het project.
 
@@ -530,7 +556,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 3. Indien subsidieontvangers samenwerken in een samenwerkingsverband, dienen zij hun rapportages in via een penvoerder.
 
-#### Artikel 1.30. Voorschotten vooruitlopend op te maken kosten
+##### Artikel 1.30. Voorschotten vooruitlopend op te maken kosten
 
 1. Indien in deze regeling bepaald, kan de Minister van SZW op aanvraag voorschotten vooruitlopend op te maken kosten verlenen.
 
@@ -544,7 +570,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 6. Indien subsidieontvangers samenwerken in een samenwerkingsverband, verzendt de Minister van SZW de beschikking tot voorschotverlening aan de penvoerder.
 
-#### Artikel 1.31. Bevoorschotting op basis van gerealiseerde projectactiviteiten
+##### Artikel 1.31. Bevoorschotting op basis van gerealiseerde projectactiviteiten
 
 1. Indien in deze regeling bepaald, kan de Minister van SZW op aanvraag voorschotten op basis van gemaakte kosten verlenen, tenzij er sprake is van subsidieverlening op basis van een vast bedrag.
 
@@ -582,7 +608,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 9. Indien subsidieontvangers samenwerken in een samenwerkingsverband, verzendt de Minister van SZW de beschikking tot voorschotverlening aan de penvoerder.
 
-#### Artikel 1.32. Aanvraag subsidievaststelling
+##### Artikel 1.32. Aanvraag subsidievaststelling
 
 1. De subsidieontvanger dient een aanvraag tot subsidievaststelling uiterlijk binnen dertien weken na afloop van de projectperiode in. Bij het verzoek tot vaststelling van de subsidie wordt een verantwoording en een einddeclaratie gevoegd.
 
@@ -616,21 +642,21 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 8. Indien een aanvraag tot vaststelling van een subsidie vergezeld gaat van een aanvraag van een voorschot als bedoeld in [artikel 1.31](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.31&z=2026-03-01&g=2026-03-01), zijn het zevende en achtste lid van dat artikel onverminderd van toepassing.
 
-#### Artikel 1.33. Beslissing op aanvraag subsidievaststelling
+##### Artikel 1.33. Beslissing op aanvraag subsidievaststelling
 
 1. De Minister van SZW geeft de beschikking tot subsidievaststelling binnen 26 weken na ontvangst van de aanvraag daartoe dan wel nadat de voor het indienen van de vaststellingsaanvraag geldende termijn is verstreken.
 
 2. Indien subsidieontvangers samenwerken in een samenwerkingsverband, verzendt de Minister van SZW de beschikking tot subsidievaststelling aan de penvoerder.
 
-#### Artikel 1.34. Betaling samenwerkingsverbanden
+##### Artikel 1.34. Betaling samenwerkingsverbanden
 
 Betalingen van subsidie en voorschotten daarop aan de penvoerder gelden als bevrijdende betalingen aan de partijen in het samenwerkingsverband.
 
-#### Artikel 1.35. Wettelijke rente bij terugvordering
+##### Artikel 1.35. Wettelijke rente bij terugvordering
 
 Indien toepassing wordt gegeven aan [artikel 4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57), [artikel 7 van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=7), [artikel 7 van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=7), of in geval van terugvordering op grond van de GB-verordening of de JTF-verordening, worden terug te vorderen bedragen vermeerderd met de wettelijke rente, bedoeld in [artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=120), die wordt berekend over de periode vanaf de datum van het verstrijken van de termijn waarbinnen terugbetaling door de subsidieontvanger moet plaatsvinden en de datum van terugbetaling door de subsidieontvanger.
 
-#### Artikel 1.36. Instandhouding activiteit
+##### Artikel 1.36. Instandhouding activiteit
 
 1. Indien subsidie wordt verstrekt voor een activiteit als bedoeld in artikel 65, eerste lid, van de GB-verordening, wordt de beschikking tot subsidievaststelling onverminderd [artikel 4:49 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) ingetrokken of ten nadele van de subsidieontvanger gewijzigd indien binnen vijf jaar te rekenen vanaf de datum van de laatste betaling door de bevoegde autoriteit aan de begunstigde van het vastgestelde subsidiebedrag of een deel daarvan, of in voorkomend geval binnen een in de voorschriften betreffende staatssteun gestelde termijn, een van de volgende gebeurtenissen op de activiteit van toepassing is:
 
@@ -644,17 +670,17 @@ Indien toepassing wordt gegeven aan [artikel 4:57 van de Algemene wet bestuursre
 
 3. De in het eerste lid vastgestelde termijn van vijf jaar wordt in geval van het behoud van investeringen of van door het mkb gecreëerde werkgelegenheid, verkort tot drie jaar.
 
-#### Artikel 1.37. Publiciteit
+##### Artikel 1.37. Publiciteit
 
 1. De subsidieontvanger draagt er zorg voor dat bij alle op het publiek gerichte voorlichtings- en publiciteitsmaatregelen duidelijk wordt gemaakt dat voor het project steun is verleend vanuit de Europese Unie, overeenkomstig de vereisten uit de GB-verordening.
 
 2. De projectresultaten worden om niet beschikbaar gesteld aan de Ministers of door een van hen aangewezen derden, en de subsidieontvanger verleent medewerking aan door de Ministers georganiseerde publicitaire en voorlichtingsactiviteiten gericht op de media, potentiële deelnemers van projecten en het grote publiek.
 
-#### Artikel 1.38. Evaluatie
+##### Artikel 1.38. Evaluatie
 
 De subsidieontvanger verleent aan door de Minister van SZW dan wel door de Europese Commissie daartoe aangewezen instanties medewerking aan het uitvoeren van onderzoek en evaluaties en het opstellen van evaluatierapporten met betrekking tot deze regeling, en draagt, indien het gesubsidieerde project niet in eigen beheer wordt uitgevoerd, er zorg voor dat de feitelijke uitvoerder van het project deze medewerking verleent.
 
-#### Artikel 1.39. Intrekking en terugvordering
+##### Artikel 1.39. Intrekking en terugvordering
 
 1. Onverminderd [afdeling 4.2.6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.6) kan een beschikking tot subsidieverlening door de Minister van SZW geheel of gedeeltelijk worden ingetrokken, en kunnen op basis daarvan uitbetaalde bedragen worden teruggevorderd:
 
@@ -676,7 +702,7 @@ De subsidieontvanger verleent aan door de Minister van SZW dan wel door de Europ
 
 ## Titel 2.1. Subsidietitel voor steun aan investeringen en bijbehorende opleidingen
 
-#### Artikel 2.1.1. Begripsbepalingen
+##### Artikel 2.1.1. Begripsbepalingen
 
 In deze [titel](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=2&titeldeel=2.1&z=2026-03-01&g=2026-03-01) wordt verstaan onder:
 
@@ -724,7 +750,7 @@ In deze [titel](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=2&tite
 
 - –. **werkingsgebied voor regionale investeringssteun:** het gebied binnen het werkingsgebied dat is opgenomen in de Regionale Steunkaart 2022–2027, zoals door de Europese Commissie goedgekeurd bij Steunmaatregel SA.100273 (2021/N).
 
-#### Artikel 2.1.2. Doel subsidie
+##### Artikel 2.1.2. Doel subsidie
 
 1. Het doel van de subsidie op grond van deze titel is transformatie en diversificatie van de regionale economie en arbeidsmarkt conform het regionaal transitieplan. Deze transformatie wordt gerealiseerd in de vorm van steun aan een investeringsproject in de proces- en maakindustrie of de scheepsbouw en de daarbij behorende scholing van nieuw of bestaand personeel in het werken binnen en met de te realiseren investeringen.
 
@@ -746,11 +772,11 @@ Projecten waaraan op basis van deze titel subsidie wordt verleend, passen binnen
 
 3. Een aanvrager draagt met de om- of bijscholing van bestaande of nieuwe werknemers in het project bij aan het versterken van de competenties en vaardigheden van bestaande en nieuwe werknemers, niet zijnde standaardwerkzaamheden. Deze competenties en vaardigheden hangen voor de werkgever samen met de inzetbaarheid van deelnemers in het werken met de investeringen. Deze competenties en vaardigheden zijn voor de deelnemers gericht op hun toekomstbestendige inzetbaarheid op de arbeidsmarkt binnen de vier transities, bedoeld in het derde lid.
 
-#### Artikel 2.1.3. Doelgroep
+##### Artikel 2.1.3. Doelgroep
 
 De Minister van SZW verstrekt op aanvraag subsidie aan een onderneming in de proces- en maakindustrie of de scheepsbouw voor projecten die worden uitgevoerd in het werkingsgebied en die passen binnen de kaders van deze regeling.
 
-#### Artikel 2.1.4. Subsidiabele activiteiten
+##### Artikel 2.1.4. Subsidiabele activiteiten
 
 1. Subsidie op basis van deze titel kan worden verstrekt voor:
 
@@ -766,7 +792,7 @@ De Minister van SZW verstrekt op aanvraag subsidie aan een onderneming in de pro
 
 2. Projecten zijn gericht op toekomstbestendigheid van de economie door diversificatie langs de lijnen van de vier transities of op groen perspectief voor de industrie door transformatie naar groene productieprocessen in de industrie door het vervangen van fossiele grond- en brandstoffen.
 
-#### Artikel 2.1.5. Subsidieplafond en wijze van verdeling
+##### Artikel 2.1.5. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt:
 
@@ -782,7 +808,7 @@ De Minister van SZW verstrekt op aanvraag subsidie aan een onderneming in de pro
 
 5. De Minister van SZW verdeelt het beschikbare bedrag op volgorde van ontvangst van de aanvragen, overeenkomstig [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.18&z=2026-03-01&g=2026-03-01). Daarbij worden aanvragen die zijn ingediend op grond van [titel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=2&titeldeel=2.1&z=2026-03-01&g=2026-03-01), zoals die luidde op 31 augustus 2025, geacht te zijn ingediend op grond van deze titel en worden na die datum ontvangen aanvragen op grond van deze titel in de volgorde achteraan geplaatst.
 
-#### Artikel 2.1.6. Aanvraagperiode
+##### Artikel 2.1.6. Aanvraagperiode
 
 1. Een aanvraag kan worden ingediend in de periode van 23 januari 2023 tot en met 13 februari 2026 vóór 17.00 uur.
 
@@ -790,7 +816,7 @@ De Minister van SZW verstrekt op aanvraag subsidie aan een onderneming in de pro
 
 3. Aanvragen worden ingediend door middel van het door de Minister van SZW vastgestelde aanvraagformulier dat beschikbaar is via [https://www.jtf-webportal.nl/mijn/](https://www.jtf-webportal.nl/mijn/) of via [www.snn.nl/](http://www.snn.nl/).
 
-#### Artikel 2.1.7. Hoogte subsidie
+##### Artikel 2.1.7. Hoogte subsidie
 
 1. Indien het project valt onder het werkingsgebied van de Regionale Steunkaart 2022–2027, bedoeld in artikelen 13 en 14 van de Algemene groepsvrijstellingsverordening, bedraagt de subsidie voor een:
 
@@ -812,7 +838,7 @@ De Minister van SZW verstrekt op aanvraag subsidie aan een onderneming in de pro
 
 5. De subsidie bedraagt niet meer dan de maximale steunruimte op basis van de Algemene groepsvrijstellingsverordening.
 
-#### Artikel 2.1.8. Subsidiabele kosten
+##### Artikel 2.1.8. Subsidiabele kosten
 
 1. In afwijking van [artikel 1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.11&z=2026-03-01&g=2026-03-01) komen uitsluitend de volgende kosten voor subsidie in aanmerking:
 
@@ -850,7 +876,7 @@ De Minister van SZW verstrekt op aanvraag subsidie aan een onderneming in de pro
 
 - f. kosten van training en opleiding waarvoor verplichtingen zijn aangegaan voor ontvangst van de aanvraag.
 
-#### Artikel 2.1.9. Starttermijn en looptijd
+##### Artikel 2.1.9. Starttermijn en looptijd
 
 1. Met de uitvoering van de op grond van deze [titel](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=2&titeldeel=2.1&z=2026-03-01&g=2026-03-01) gesubsidieerde projecten wordt gestart binnen zes maanden na dagtekening van de verleningsbeschikking.
 
@@ -862,7 +888,7 @@ De Minister van SZW verstrekt op aanvraag subsidie aan een onderneming in de pro
 
 5. Op verzoek van de subsidieontvanger kan de Minister van SZW de termijn, bedoeld in het eerste, tweede, derde lid of vierde lid verlengen.
 
-#### Artikel 2.1.10. Afwijzingsgronden
+##### Artikel 2.1.10. Afwijzingsgronden
 
 Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.25&z=2026-03-01&g=2026-03-01) beslist de Minister van SZW afwijzend op een aanvraag, indien:
 
@@ -898,7 +924,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - p. de analyse waaruit blijkt dat het verwachte banenverlies zonder de investering groter zou zijn dan het verwachte aantal gecreëerde banen niet goedgekeurd wordt.
 
-#### Artikel 2.1.11. Beoordelingscriteria
+##### Artikel 2.1.11. Beoordelingscriteria
 
 1. Projecten worden beoordeeld door het toekennen van punten op de zes criteria bedoeld in het [artikel 1.20](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-03-01&g=2026-03-01). De weging van de zes criteria is:
 
@@ -916,7 +942,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 2. Voor de toepassing van [artikel 1.20](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-03-01&g=2026-03-01), eerste lid, geldt de tabel die is opgenomen als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&bijlage=1&z=2026-03-01&g=2026-03-01) bij deze regeling.
 
-#### Artikel 2.1.12. Voorschot
+##### Artikel 2.1.12. Voorschot
 
 1. De Minister van SZW verleent op aanvraag vooruitlopend op realisatie van de projectactiviteiten een voorschot van 20 procent van de verleende subsidie.
 
@@ -926,7 +952,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 4. In afwijking van [artikel 1.31, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.31&z=2026-03-01&g=2026-03-01), bedragen de voorschotten in totaal maximaal 80 procent van het verleende subsidiebedrag.
 
-#### Artikel 2.1.13. Subsidieaanvraag
+##### Artikel 2.1.13. Subsidieaanvraag
 
 1. In aanvulling op het [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.22&z=2026-03-01&g=2026-03-01) bevat een aanvraag voor subsidie ten minste:
 
@@ -938,17 +964,17 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 3. De aanvraag wordt ingediend met gebruikmaking van het digitale aanvraagformulier via de link [https://www.jtf-webportal.nl/mijn/](https://www.jtf-webportal.nl/mijn/).
 
-#### Artikel 2.1.14. Staatssteun
+##### Artikel 2.1.14. Staatssteun
 
 De subsidie bevat staatssteun en wordt gerechtvaardigd overeenkomstig [artikel 1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.4&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 2.1.15. Vervaltermijn
+##### Artikel 2.1.15. Vervaltermijn
 
 Deze titel en [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&bijlage=1&z=2026-03-01&g=2026-03-01) vervallen met ingang van 31 december 2027, met dien verstande dat deze titel van toepassing blijft op subsidies die voor deze datum zijn aangevraagd.
 
 ## Titel 2.2. JTF-Call 2022 voor grote Kennis- en valorisatieprojecten die aansluiten bij de transities uit de RIS3 2021–2027
 
-#### Artikel 2.2.1. Begripsomschrijvingen
+##### Artikel 2.2.1. Begripsomschrijvingen
 
 1. In deze titel wordt verstaan onder:
 
@@ -966,11 +992,11 @@ Deze titel en [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&bijlag
 
 - –. **productieve investering:** een investering in vaste of immateriële activa die hoofdzakelijk wordt aangewend voor de productie van goederen die aan derden verkocht worden of in het eigen productieproces worden verbruikt.
 
-#### Artikel 2.2.2. Doel subsidie
+##### Artikel 2.2.2. Doel subsidie
 
 Een project waaraan op basis van deze titel subsidie wordt verleend past binnen Spoor 1 en Spoor 2 van het TJTP. Het project draagt bij aan de transformatie en diversificatie van de regionale economie. Dit kan door het stimuleren van de ontwikkeling van nieuwe duurzame waardenketens of innovaties langs de lijnen van de RIS3, zoals de (versnelde) omschakeling naar groene grondstoffen, duurzame waterstof en circulariteit.
 
-#### Artikel 2.2.3. Doelgroep
+##### Artikel 2.2.3. Doelgroep
 
 De Minister van SZW verstrekt op aanvraag subsidie voor een valorisatie-, of kennisontwikkelingsproject aan:
 
@@ -980,17 +1006,17 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een valorisatie-, of ken
 
 - c. een partij in een samenwerkingsverband van natuurlijke- of rechtspersonen.
 
-#### Artikel 2.2.4. Subsidiabele activiteiten
+##### Artikel 2.2.4. Subsidiabele activiteiten
 
 Subsidie op basis van deze titel kan worden verstrekt voor het uitvoeren van een valorisatie-, of een kennisontwikkelingsproject binnen minimaal één van de vier RIS transities.
 
-#### Artikel 2.2.5. Subsidieplafond en wijze van verdeling
+##### Artikel 2.2.5. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt € 28.568.000.
 
 2. De Minister van SZW verdeelt het beschikbare bedrag op volgorde van ontvangst van de aanvragen, overeenkomstig [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.18&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 2.2.6. Aanvraagperiode
+##### Artikel 2.2.6. Aanvraagperiode
 
 1. Een aanvraag kan worden ingediend in de periode vanaf 23 januari 2023 tot en met 29 september 2023.
 
@@ -998,7 +1024,7 @@ Subsidie op basis van deze titel kan worden verstrekt voor het uitvoeren van een
 
 3. Aanvragen worden ingediend door middel van het door de Minister van SZW vastgestelde aanvraagformulier dat beschikbaar is via [https://www.jtf-webportal.nl/mijn/](https://www.jtf-webportal.nl/mijn/) of via [www.snn.nl](http://www.snn.nl/)/.
 
-#### Artikel 2.2.7. Hoogte subsidie
+##### Artikel 2.2.7. Hoogte subsidie
 
 1. De subsidie bedraagt 30% van de subsidiabele kosten bij een valorisatieproject.
 
@@ -1016,15 +1042,15 @@ Subsidie op basis van deze titel kan worden verstrekt voor het uitvoeren van een
 
 6. De subsidie bedraagt maximaal € 4.000.000 per project en maximaal € 2.500.000 per projectpartner.
 
-#### Artikel 2.2.8. Subsidiabele kosten
+##### Artikel 2.2.8. Subsidiabele kosten
 
 De kosten van productieve investeringen zijn niet subsidiabel.
 
-#### Artikel 2.2.9. Looptijd
+##### Artikel 2.2.9. Looptijd
 
 Uiterlijk 30 november 2026 dienen alle projectactiviteiten volledig ten uitvoer te zijn gebracht.
 
-#### Artikel 2.2.10. Afwijzingsgronden
+##### Artikel 2.2.10. Afwijzingsgronden
 
 Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.25&z=2026-03-01&g=2026-03-01) beslist de Minister van SZW afwijzend op een aanvraag indien:
 
@@ -1034,7 +1060,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - c. niet aannemelijk is dat alle projectactiviteiten van het project uiterlijk 30 november 2026 volledig ten uitvoer kunnen zijn gebracht.
 
-#### Artikel 2.2.11. Beoordelingscriteria
+##### Artikel 2.2.11. Beoordelingscriteria
 
 1. Gelet op [artikel 1.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-03-01&g=2026-03-01), wordt een project uitsluitend beoordeeld op de onderdelen a, c, d, e en f van artikel 1.20, eerste lid.
 
@@ -1050,7 +1076,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - e. voor criterium f maximaal 15 punten.
 
-#### Artikel 2.2.12. Voorschot
+##### Artikel 2.2.12. Voorschot
 
 1. De Minister van SZW verleent op aanvraag vooruitlopend op het starten van de projectactiviteiten, conform [artikel 1.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.30&z=2026-03-01&g=2026-03-01), een voorschot van 20% van de verleende subsidie met een maximum van € 500.000.
 
@@ -1068,7 +1094,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - c. het niet toekennen van het voorschot onredelijke gevolgen voor de liquiditeitspositie van de aanvragende onderneming heeft.
 
-#### Artikel 2.2.13. Subsidieaanvraag
+##### Artikel 2.2.13. Subsidieaanvraag
 
 1. In aanvulling op het [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.22&z=2026-03-01&g=2026-03-01) bevat een aanvraag voor subsidie ten minste:
 
@@ -1080,7 +1106,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 3. De aanvraag wordt ingediend met gebruikmaking van het digitale aanvraagformulier via de link [https://www.jtf-webportal.nl/mijn/](https://www.jtf-webportal.nl/mijn/).
 
-#### Artikel 2.2.14. Staatssteun
+##### Artikel 2.2.14. Staatssteun
 
 Indien de subsidie staatssteun bevat dan dient het gerechtvaardigd te worden door:
 
@@ -1088,7 +1114,7 @@ Indien de subsidie staatssteun bevat dan dient het gerechtvaardigd te worden doo
 
 - b. de artikelen 25, 27, 28 en 29 van de Algemene Groepsvrijstellingsverordening.
 
-#### Artikel 2.2.15. Vervaltermijn
+##### Artikel 2.2.15. Vervaltermijn
 
 Deze titel en [artikel 9.2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.1&artikel=9.2.1.2&z=2026-03-01&g=2026-03-01) vervallen met ingang van 1 januari 2027, met dien verstande dat deze van toepassing blijven op subsidies die voor deze datum zijn aangevraagd.
 
@@ -1096,17 +1122,17 @@ Deze titel en [artikel 9.2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&
 
 ## Titel 3.1. Regionale subsidies voor het Territoriaal Just Transition Plan voor de regio IJmond
 
-#### Artikel 3.1.1. Begripsomschrijvingen
+##### Artikel 3.1.1. Begripsomschrijvingen
 
 In deze titel wordt verstaan onder:
 
 - –. **TJTP IJmond:** het Territorial Just Transition Plan IJmond, bedoeld in artikel 11 van de JTF-verordening, met betrekking tot de JTF-regio IJmond.
 
-#### Artikel 3.1.2. Doel subsidie
+##### Artikel 3.1.2. Doel subsidie
 
 Het doel van de subsidie op grond van deze titel heeft is het bevorderen van vernieuwing, versterking en diversificatie van de regionale economie, investeringen in technologie, systemen en infrastructuur om nieuwe, duurzame banen te creëren en investeringen in een wendbare en weerbare beroepsbevolking.
 
-#### Artikel 3.1.3. Doelgroep
+##### Artikel 3.1.3. Doelgroep
 
 De Minister van SZW verstrekt op aanvraag subsidie aan een aanvrager voor een project dat:
 
@@ -1116,35 +1142,35 @@ De Minister van SZW verstrekt op aanvraag subsidie aan een aanvrager voor een pr
 
 - c. past binnen de kaders van deze regeling.
 
-#### Artikel 3.1.4. Subsidiabele activiteiten
+##### Artikel 3.1.4. Subsidiabele activiteiten
 
 Subsidie op basis van deze titel kan worden verstrekt voor projecten die passen binnen de sporen 1, 2 of 3 van prioritaire as 2 uit het Programma JTF 2021–2027.
 
-#### Artikel 3.1.5. Subsidieplafond en wijze van verdeling
+##### Artikel 3.1.5. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt € 44.304.516.
 
 2. De Minister van SZW verdeelt het beschikbare bedrag op volgorde van ontvangst van de aanvragen, overeenkomstig [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.18&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 3.1.6. Aanvraagperiode
+##### Artikel 3.1.6. Aanvraagperiode
 
 1. Een aanvraag kan worden ingediend vanaf 23 januari 2023 9.00 uur.
 
 2. Aanvragen worden ingediend door middel van het door de Minister van SZW vastgestelde aanvraagformulier dat beschikbaar is in het [https://start.jtf-webportal.nl/](https://start.jtf-webportal.nl/).
 
-#### Artikel 3.1.7. Hoogte van de subsidie
+##### Artikel 3.1.7. Hoogte van de subsidie
 
 1. De subsidie bedraagt maximaal 50 procent van de subsidiabele kosten.
 
 2. De subsidie kent een maximum van € 4.000.000 per aanvraag.
 
-#### Artikel 3.1.8. Starttermijn en looptijd
+##### Artikel 3.1.8. Starttermijn en looptijd
 
 1. De activiteiten van een project in het kader van deze titel vangen niet eerder aan dan de dag waarop de aanvraag compleet is ingediend.
 
 2. De projectactiviteiten zijn uiterlijk 31 december 2029 uitgevoerd.
 
-#### Artikel 3.1.9. Beoordelingscriteria
+##### Artikel 3.1.9. Beoordelingscriteria
 
 1. Projecten worden beoordeeld op alle onderdelen van [artikel 1.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-03-01&g=2026-03-01).
 
@@ -1162,7 +1188,7 @@ Subsidie op basis van deze titel kan worden verstrekt voor projecten die passen 
 
 - f. bijdrage aan duurzame ontwikkeling en aan maatschappelijke-sociale impact: 15 punten.
 
-#### Artikel 3.1.10. Voorschot
+##### Artikel 3.1.10. Voorschot
 
 1. De Minister van SZW verleent op basis van een gemotiveerde aanvraag, vooruitlopend op realisatie van de projectactiviteiten een voorschot als werkkapitaal op het moment van beschikken van de subsidie van maximaal 30 procent van de verleende subsidie.
 
@@ -1172,7 +1198,7 @@ Subsidie op basis van deze titel kan worden verstrekt voor projecten die passen 
 
 4. De Minister van SZW verleent op aanvraag opvolgende voorschotten op basis van gerealiseerde projectactiviteiten als bedoeld in [artikel 1.31](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.31&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 3.1.11. Vervaltermijn
+##### Artikel 3.1.11. Vervaltermijn
 
 Deze titel, [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&bijlage=2&z=2026-03-01&g=2026-03-01) en [artikel 9.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.2&artikel=9.2.2.1&z=2026-03-01&g=2026-03-01) vervallen met ingang van 1 januari 2027, met dien verstande dat deze titel van toepassing blijven op subsidies die voor deze datum zijn aangevraagd.
 
@@ -1180,17 +1206,17 @@ Deze titel, [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&bijlage=
 
 ## Titel 2.4. Steun aan opleidingsinfrastructuur en flankerende campusactiviteiten
 
-#### Artikel 4.1.1. Begripsomschrijvingen
+##### Artikel 4.1.1. Begripsomschrijvingen
 
 In deze titel wordt verstaan onder:
 
 - **TJTP Groot-Rijnmond:** het Territorial Just Transition Plan, bedoeld in artikel 11 van de JTF-verordening met betrekking tot de JTF-regio Groot-Rijnmond.
 
-#### Artikel 4.1.2. Doel subsidie
+##### Artikel 4.1.2. Doel subsidie
 
 Het doel van de subsidie op grond van deze titel is het bevorderen van vernieuwing en versterking van de regionale economie met nieuwe, duurzame of circulaire industriële ketens en versnellen van de transitie met investeringen in technologie, systemen en infrastructuur tot decarbonisatie van bestaande industriële ketens.
 
-#### Artikel 4.1.3. Doelgroep
+##### Artikel 4.1.3. Doelgroep
 
 De Minister van SZW verstrekt op aanvraag subsidie aan een aanvrager van een project dat:
 
@@ -1200,35 +1226,35 @@ De Minister van SZW verstrekt op aanvraag subsidie aan een aanvrager van een pro
 
 - c. past binnen de kaders van deze regeling.
 
-#### Artikel 4.1.4. Subsidiabele activiteiten
+##### Artikel 4.1.4. Subsidiabele activiteiten
 
 Subsidie op basis van deze titel kan worden verstrekt voor projecten die passen binnen de prioritaire as 3, spoor 1 – het vernieuwen en versterken regionale economie met duurzame en/of circulaire industriële ketens of spoor 2 – het versnellen van transitie met investeringen in technologie, systemen en infrastructuur tot decarbonisatie industriële ketens, van het Programma JTF 2021–2027.
 
-#### Artikel 4.1.5. Subsidieplafond en wijze van verdeling
+##### Artikel 4.1.5. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt € 31.100.000.
 
 2. De Minister van SZW verdeelt het beschikbare bedrag op volgorde van ontvangst van de aanvragen, overeenkomstig [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.18&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 4.1.6. Aanvraagperiode
+##### Artikel 4.1.6. Aanvraagperiode
 
 1. Een aanvraag kan worden ingediend vanaf 23 januari 2023 9.00 uur tot en met 31 mei 2025 17.00 uur.
 
 2. Aanvragen worden ingediend door middel van het door de Minister van SZW vastgestelde aanvraagformulier dat beschikbaar is in het [https://start.jtf-webportal.nl/](https://start.jtf-webportal.nl/).
 
-#### Artikel 4.1.7. Hoogte van de subsidie
+##### Artikel 4.1.7. Hoogte van de subsidie
 
 1. De subsidie bedraagt maximaal 50 procent van de subsidiabele kosten.
 
 2. De subsidie bedraagt ten hoogste € 2.000.000 per project.
 
-#### Artikel 4.1.8. Starttermijn en looptijd
+##### Artikel 4.1.8. Starttermijn en looptijd
 
 1. De projectactiviteiten in het kader van deze titel vangen niet eerder aan dan de dag waarop de aanvraag compleet is ingediend.
 
 2. De projectactiviteiten zijn uiterlijk 31 december 2029 uitgevoerd.
 
-#### Artikel 4.1.9. Beoordelingscriteria
+##### Artikel 4.1.9. Beoordelingscriteria
 
 1. Aanvragen worden beoordeeld op alle onderdelen van [artikel 1.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-03-01&g=2026-03-01).
 
@@ -1246,7 +1272,7 @@ Subsidie op basis van deze titel kan worden verstrekt voor projecten die passen 
 
 - f. bijdrage aan duurzame ontwikkeling en aan maatschappelijke-sociale impact: 20 punten.
 
-#### Artikel 4.1.10. Voorschot
+##### Artikel 4.1.10. Voorschot
 
 1. De Minister van SZW verleent op basis van een gemotiveerde aanvraag een voorschot als werkkapitaal op het moment van beschikken van de subsidie van maximaal 30 procent van de subsidiabele projectkosten.
 
@@ -1256,23 +1282,23 @@ Subsidie op basis van deze titel kan worden verstrekt voor projecten die passen 
 
 4. De Minister van SZW verleent op aanvraag opvolgende voorschotten op basis van gerealiseerde projectactiviteiten als bedoeld in [artikel 1.31](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.31&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 4.1.11. Vervaltermijn
+##### Artikel 4.1.11. Vervaltermijn
 
 Deze [titel](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=4&titeldeel=4.1&z=2026-03-01&g=2026-03-01) vervalt met ingang van 1 januari 2027, met dien verstande dat deze titel van toepassing blijft op subsidies die voor deze datum zijn aangevraagd.
 
 ## Titel 4.2. Regionale Subsidies voor Spoor 3 uit het Territorial Just Transition Plan voor de regio Rijnmond
 
-#### Artikel 4.2.1. Begripsomschrijvingen
+##### Artikel 4.2.1. Begripsomschrijvingen
 
 In deze titel wordt verstaan onder:
 
 - **TJTP Rijnmond:** het Territorial Just Transition Plan, bedoeld in artikel 11 van de JTF-verordening met betrekking tot de regio Groot-Rijnmond.
 
-#### Artikel 4.2.2. Doel subsidie
+##### Artikel 4.2.2. Doel subsidie
 
 Een project in het kader van deze titel heeft tot doel het bevorderen van de beschikbaarheid van voldoende juist opgeleide en gemotiveerde weerbare beroepsbevolking voor de opgaven, bij een toenemend vacature-overschot en het verdwijnen of wijzigen van bestaande functies door de transitieopgave.
 
-#### Artikel 4.2.3. Doelgroep
+##### Artikel 4.2.3. Doelgroep
 
 De Minister van SZW verstrekt op aanvraag subsidie aan een aanvrager van een project dat:
 
@@ -1282,35 +1308,35 @@ De Minister van SZW verstrekt op aanvraag subsidie aan een aanvrager van een pro
 
 - c. past binnen de kaders van deze regeling.
 
-#### Artikel 4.2.4. Subsidiabele activiteiten
+##### Artikel 4.2.4. Subsidiabele activiteiten
 
 Subsidie op basis van deze titel kan worden verstrekt voor projecten die passen binnen de spoor 3 van prioritaire as 3 uit het Programma JTF 2021–2027.
 
-#### Artikel 4.2.5. Subsidieplafond en wijze van verdeling
+##### Artikel 4.2.5. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt € 9.375.000.
 
 2. De Minister van SZW verdeelt het beschikbare bedrag op volgorde van ontvangst van de aanvragen, overeenkomstig [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.18&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 4.2.6. Aanvraagperiode
+##### Artikel 4.2.6. Aanvraagperiode
 
 1. Een aanvraag kan worden ingediend vanaf 23 januari 2023 9.00 uur tot en met 31 mei 2025 17.00 uur.
 
 2. Aanvragen worden ingediend door middel van het door de Minister van SZW vastgestelde aanvraagformulier dat beschikbaar is in het [https://start.jtf-webportal.nl/](https://start.jtf-webportal.nl/).
 
-#### Artikel 4.2.7. Hoogte van de subsidie
+##### Artikel 4.2.7. Hoogte van de subsidie
 
 1. De subsidie bedraagt maximaal 50 procent van de subsidiabele kosten.
 
 2. De subsidie kent geen maximum per project.
 
-#### Artikel 4.2.8. Starttermijn en looptijd
+##### Artikel 4.2.8. Starttermijn en looptijd
 
 1. De activiteiten van een project in het kader van deze titel vangen niet eerder aan dan de dag waarop de aanvraag compleet is ingediend.
 
 2. De projectactiviteiten zijn uiterlijk 31 december 2029 uitgevoerd.
 
-#### Artikel 4.2.9. Beoordelingscriteria
+##### Artikel 4.2.9. Beoordelingscriteria
 
 Gelet op [artikel 1.20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-03-01&g=2026-03-01), bedraagt het aantal punten per onderdeel van het eerste lid ten hoogste:
 
@@ -1326,7 +1352,7 @@ Gelet op [artikel 1.20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR00476
 
 - f. bijdrage aan duurzame ontwikkeling en aan maatschappelijke-sociale impact: 15 punten.
 
-#### Artikel 4.2.10. Voorschot
+##### Artikel 4.2.10. Voorschot
 
 1. De Minister van SZW verleent op basis van een gemotiveerde aanvraag een voorschot als werkkapitaal op het moment van beschikken van de subsidie van maximaal 30 procent van de subsidie.
 
@@ -1336,7 +1362,7 @@ Gelet op [artikel 1.20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR00476
 
 4. De Minister van SZW verleent op aanvraag opvolgende voorschotten op basis van gerealiseerde projectactiviteiten als bedoeld in [artikel 1.31](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.31&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 4.2.11. Vervaltermijn
+##### Artikel 4.2.11. Vervaltermijn
 
 Deze titel en [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&bijlage=4&z=2026-03-01&g=2026-03-01) vervallen met ingang van 1 januari 2027, met dien verstande dat deze titel van toepassing blijft op subsidies die voor deze datum zijn aangevraagd.
 
@@ -1352,17 +1378,17 @@ Deze titel en [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&bijlag
 
 ## Titel 9.1. Algemene bepalingen
 
-#### Artikel 9.1.1. Begripsbepalingen
+##### Artikel 9.1.1. Begripsbepalingen
 
 In dit hoofdstuk wordt verstaan onder:
 
 - –. **Rijksbeleid:** het Missiegedreven Topsectoren- en Innovatiebeleid en het vigerende beleid voor klimaat en energie, digitalisering en sleuteltechnologieën, circulaire economie, dat valt onder de verantwoordelijkheid van de Minister van EZK.
 
-#### Artikel 9.1.2. Subsidieverstrekking
+##### Artikel 9.1.2. Subsidieverstrekking
 
 De Minister van EZK verstrekt op aanvraag subsidie voor activiteiten waarvoor subsidie is verleend op grond van de [hoofdstukken 2 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=2&z=2026-03-01&g=2026-03-01) en die naar het oordeel van de Minister bijdragen aan de realisatie van het Rijksbeleid.
 
-#### Artikel 9.1.3. Subsidieplafond
+##### Artikel 9.1.3. Subsidieplafond
 
 1. Het maximaal beschikbare bedrag voor subsidies als bedoeld in [artikel 9.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=9&titeldeel=9.1&artikel=9.1.2&z=2026-03-01&g=2026-03-01) bedraagt voor de programmaperiode van 1 januari 2021 tot en met 31 december 2027 € 50.000.000.
 
@@ -1384,7 +1410,7 @@ De Minister van EZK verstrekt op aanvraag subsidie voor activiteiten waarvoor su
 
 4. De Minister van EZK kan op grond van dit hoofdstuk uitsluitend subsidie verstrekken indien de mogelijkheid tot het doen van een aanvraag tot subsidieverlening voor de desbetreffende activiteit of categorie van aanvragers is opengesteld door vaststelling van een subsidieplafond en een periode voor indiening van de aanvraag in [titel 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=9&titeldeel=9.2&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 9.1.4. Mandaatverlening door de Minister van EZK
+##### Artikel 9.1.4. Mandaatverlening door de Minister van EZK
 
 1. De Minister van EZK verleent bij besluit aan het Samenwerkingsverband Noord-Nederland, het college van Burgemeester en Wethouders van de gemeente Rotterdam en Gedeputeerde Staten van de provincie Noord-Brabant mandaat, volmacht en machtiging om in het kader van de uitvoering van [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=9&z=2026-03-01&g=2026-03-01):
 
@@ -1396,7 +1422,7 @@ De Minister van EZK verstrekt op aanvraag subsidie voor activiteiten waarvoor su
 
 2. Een gemandateerde als bedoeld in het eerste lid is in het kader van de uitvoering van [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=9&z=2026-03-01&g=2026-03-01) bevoegd tot het verlenen van ondermandaat aan bij hem werkzame functionarissen.
 
-#### Artikel 9.1.5. Afwijzingsgronden
+##### Artikel 9.1.5. Afwijzingsgronden
 
 De Minister van EZK beslist afwijzend op een aanvraag om subsidie, indien:
 
@@ -1404,7 +1430,7 @@ De Minister van EZK beslist afwijzend op een aanvraag om subsidie, indien:
 
 - b. het project onvoldoende bijdraagt aan de realisatie van het in [artikel 9.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=9&titeldeel=9.1&artikel=9.1.2&z=2026-03-01&g=2026-03-01) bedoelde Rijksbeleid.
 
-#### Artikel 9.1.6. Schakelbepaling
+##### Artikel 9.1.6. Schakelbepaling
 
 De [artikelen 1.24](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.24&z=2026-03-01&g=2026-03-01), [1.26](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.26&z=2026-03-01&g=2026-03-01), [1.27](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.27&z=2026-03-01&g=2026-03-01), [1.28](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.28&z=2026-03-01&g=2026-03-01), [1.29](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.29&z=2026-03-01&g=2026-03-01), [1.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.30&z=2026-03-01&g=2026-03-01), [1.31](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.31&z=2026-03-01&g=2026-03-01), [1.32](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.32&z=2026-03-01&g=2026-03-01), [1.33](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.33&z=2026-03-01&g=2026-03-01), [1.34](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.34&z=2026-03-01&g=2026-03-01), [1.35](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.35&z=2026-03-01&g=2026-03-01), [1.36](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.36&z=2026-03-01&g=2026-03-01), [1.37](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.37&z=2026-03-01&g=2026-03-01), [1.38](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.38&z=2026-03-01&g=2026-03-01) en [1.39](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.39&z=2026-03-01&g=2026-03-01) zijn van overeenkomstige toepassing op de subsidieverstrekking op grond van dit hoofdstuk.
 
@@ -1414,7 +1440,7 @@ De [artikelen 1.24](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&
 
 #### Paragraaf 9.2.2. EZK-cofinanciering JTF-regio IJmond
 
-#### Artikel 9.2.2.1. EZK-cofinanciering Regionale subsidies voor het Territoriaal Just Transition Plan voor de regio IJmond
+##### Artikel 9.2.2.1. EZK-cofinanciering Regionale subsidies voor het Territoriaal Just Transition Plan voor de regio IJmond
 
 1. De Minister van EZK verstrekt subsidie voor activiteiten als bedoeld in [artikel 3.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=3&titeldeel=3.1&artikel=3.1.3&z=2026-03-01&g=2026-03-01).
 
@@ -1434,11 +1460,11 @@ De [artikelen 1.24](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&
 
 ### Hoofdstuk 3. Subsidies JTF-regio IJmond
 
-#### Artikel 10.1. Citeertitel
+##### Artikel 10.1. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling JTF 2021–2027.
 
-#### Artikel 10.2. Inwerkingtreding
+##### Artikel 10.2. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
@@ -1498,13 +1524,13 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ## Titel 5.1. Subsidietitel voor steun onder Spoor 1 uit het Territorial Just Transition Plan voor de regio West-Noord-Brabant
 
-#### Artikel 5.1.1. Begripsbepalingen
+##### Artikel 5.1.1. Begripsbepalingen
 
 In deze titel wordt verstaan onder:
 
 - –. **TJTP West-Noord-Brabant:** regionaal territoriaal plan voor een rechtvaardige transitie, als bedoeld in artikel 11 van de JTF-verordening voor de JTF-regio West-Noord-Brabant met de titel Territorial Just Transition Plan van de COROP-regio West-Noord-Brabant.
 
-#### Artikel 5.1.2. Doel subsidie
+##### Artikel 5.1.2. Doel subsidie
 
 1. Doel van subsidie op grond van deze titel is uitvoering te geven aan Spoor 1 van het TJTP West- Noord-Brabant.
 
@@ -1512,7 +1538,7 @@ In deze titel wordt verstaan onder:
 
 innovatie ten behoeve van de energie- en grondstoffentransitie in de chemie en industrie, en daarmee aan vernieuwing en versterking van de regionale economie.
 
-#### Artikel 5.1.3. Doelgroep
+##### Artikel 5.1.3. Doelgroep
 
 De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
@@ -1522,7 +1548,7 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
 - c. een penvoerder namens de afzonderlijke partijen in een samenwerkingsverband als bedoeld in [artikel 1.4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.4&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 5.1.4. Subsidiabele activiteiten
+##### Artikel 5.1.4. Subsidiabele activiteiten
 
 1. Subsidie op basis van deze titel kan worden verstrekt voor een of meer van de volgende acties:
 
@@ -1570,7 +1596,7 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
 - e. Geertruidenberg.
 
-#### Artikel 5.1.5. Subsidieplafond en wijze van verdeling
+##### Artikel 5.1.5. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt € 4.000.000.
 
@@ -1582,7 +1608,7 @@ geschiktheid, overeenkomstig [artikel 1.19](https://wetten.overheid.nl/jci1.3:c:
 
 4. De Minister van SZW maakt verschuivingen als bedoeld in het derde lid uiterlijk bekend op 2 november 2023.
 
-#### Artikel 5.1.6. Aanvraagperiode
+##### Artikel 5.1.6. Aanvraagperiode
 
 1. Een aanvraag kan worden ingediend van 15 augustus 2023 10.00 uur tot en met 28 september 2023 17.00 uur.
 
@@ -1590,17 +1616,17 @@ geschiktheid, overeenkomstig [artikel 1.19](https://wetten.overheid.nl/jci1.3:c:
 
 aanvraagformulier dat beschikbaar is via [https://www.jtf-webportal.nl/mijn/](https://www.jtf-webportal.nl/mijn/).
 
-#### Artikel 5.1.7. Hoogte van de subsidie
+##### Artikel 5.1.7. Hoogte van de subsidie
 
 1. De subsidie bedraagt maximaal 50 procent van de subsidiabele kosten.
 
 2. De subsidie bedraagt ten hoogste € 5.000.000 per project.
 
-#### Artikel 5.1.8. Niet-subsidiabele kosten
+##### Artikel 5.1.8. Niet-subsidiabele kosten
 
 Onverminderd [artikel 1.15](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.15&z=2026-03-01&g=2026-03-01) en in afwijking van [artikel 1.11, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.11&z=2026-03-01&g=2026-03-01), komen loonverletkosten niet voor subsidie in aanmerking.
 
-#### Artikel 5.1.9. Starttermijn en looptijd
+##### Artikel 5.1.9. Starttermijn en looptijd
 
 1. Met de uitvoering van de op grond van deze titel gesubsidieerde projecten wordt gestart binnen drie maanden na de subsidieverlening.
 
@@ -1610,7 +1636,7 @@ Onverminderd [artikel 1.15](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 4. Op verzoek van de subsidieontvanger kan de Minister van SZW de termijn, bedoeld in het eerste, tweede of derde lid, verlengen.
 
-#### Artikel 5.1.10. Afwijzingsgronden
+##### Artikel 5.1.10. Afwijzingsgronden
 
 Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.25&z=2026-03-01&g=2026-03-01) beslist de Minister van SZW afwijzend op een aanvraag, indien:
 
@@ -1620,7 +1646,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - c. de aan het project te verlenen subsidie minder bedraagt dan € 500.000.
 
-#### Artikel 5.1.11. Beoordelingscriteria
+##### Artikel 5.1.11. Beoordelingscriteria
 
 1. Projecten worden beoordeeld op alle onderdelen van [artikel 1.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-03-01&g=2026-03-01).
 
@@ -1638,7 +1664,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 sociale impact: 20 punten.
 
-#### Artikel 5.1.12. Voorschot
+##### Artikel 5.1.12. Voorschot
 
 1. De Minister van SZW kan op aanvraag een voorschot verlenen vooruitlopend op te maken kosten als bedoeld in [artikel 1.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.31&z=2026-03-01&g=2026-03-01).
 
@@ -1652,7 +1678,7 @@ sociale impact: 20 punten.
 
 - b. 95 procent van de verleende subsidie, bij een verleende subsidie van minimaal € 5.000.000.
 
-#### Artikel 5.1.13. Subsidieaanvraag
+##### Artikel 5.1.13. Subsidieaanvraag
 
 Onverminderd [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.22&z=2026-03-01&g=2026-03-01) bevat een aanvraag voor subsidie ten minste:
 
@@ -1662,109 +1688,109 @@ Onverminderd [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 ## Titel 5.2. Subsidietitel voor steun onder Spoor 2 uit het Territorial Just Transition Plan voor de regio West-Noord-Brabant
 
-#### Artikel 5.2.1. Begripsbepalingen
+##### Artikel 5.2.1. Begripsbepalingen
 
 Vervallen
 
-#### Artikel 5.2.2. Doel subsidie
+##### Artikel 5.2.2. Doel subsidie
 
 Vervallen
 
-#### Artikel 5.2.3. Doelgroep
+##### Artikel 5.2.3. Doelgroep
 
 Vervallen
 
-#### Artikel 5.2.4. Subsidiabele activiteiten
+##### Artikel 5.2.4. Subsidiabele activiteiten
 
 Vervallen
 
-#### Artikel 5.2.5. Subsidieplafond en wijze van verdeling
+##### Artikel 5.2.5. Subsidieplafond en wijze van verdeling
 
 Vervallen
 
-#### Artikel 5.2.6. Aanvraagperiode
+##### Artikel 5.2.6. Aanvraagperiode
 
 Vervallen
 
-#### Artikel 5.2.7. Hoogte van de subsidie
+##### Artikel 5.2.7. Hoogte van de subsidie
 
 Vervallen
 
-#### Artikel 5.2.8. Starttermijn en looptijd
+##### Artikel 5.2.8. Starttermijn en looptijd
 
 Vervallen
 
-#### Artikel 5.2.9. Afwijzingsgronden
+##### Artikel 5.2.9. Afwijzingsgronden
 
 Vervallen
 
-#### Artikel 5.2.10. Beoordelingscriteria
+##### Artikel 5.2.10. Beoordelingscriteria
 
 Vervallen
 
-#### Artikel 5.2.11. Voorschot
+##### Artikel 5.2.11. Voorschot
 
 Vervallen
 
-#### Artikel 5.2.12. Subsidieaanvraag
+##### Artikel 5.2.12. Subsidieaanvraag
 
 Vervallen
 
-#### Artikel 5.2.13. Vervaltermijn
+##### Artikel 5.2.13. Vervaltermijn
 
 Vervallen
 
 ## Titel 5.3. Subsidietitel voor steun onder Spoor 3 uit het Territorial Just Transition Plan voor de regio West-Noord-Brabant
 
-#### Artikel 5.3.1. Begripsbepalingen
+##### Artikel 5.3.1. Begripsbepalingen
 
 Vervallen
 
-#### Artikel 5.3.2. Doel subsidie
+##### Artikel 5.3.2. Doel subsidie
 
 Vervallen
 
-#### Artikel 5.3.3. Doelgroep
+##### Artikel 5.3.3. Doelgroep
 
 Vervallen
 
-#### Artikel 5.3.4. Subsidiabele activiteiten
+##### Artikel 5.3.4. Subsidiabele activiteiten
 
 Vervallen
 
-#### Artikel 5.3.5. Subsidieplafond en wijze van verdeling
+##### Artikel 5.3.5. Subsidieplafond en wijze van verdeling
 
 Vervallen
 
-#### Artikel 5.3.6. Aanvraagperiode
+##### Artikel 5.3.6. Aanvraagperiode
 
 Vervallen
 
-#### Artikel 5.3.7. Hoogte van de subsidie
+##### Artikel 5.3.7. Hoogte van de subsidie
 
 Vervallen
 
-#### Artikel 5.3.8. Starttermijn en looptijd
+##### Artikel 5.3.8. Starttermijn en looptijd
 
 Vervallen
 
-#### Artikel 5.3.9. Afwijzingsgronden
+##### Artikel 5.3.9. Afwijzingsgronden
 
 Vervallen
 
-#### Artikel 5.3.10. Beoordelingscriteria
+##### Artikel 5.3.10. Beoordelingscriteria
 
 Vervallen
 
-#### Artikel 5.3.11. Voorschot
+##### Artikel 5.3.11. Voorschot
 
 Vervallen
 
-#### Artikel 5.3.12. Subsidieaanvraag
+##### Artikel 5.3.12. Subsidieaanvraag
 
 Vervallen
 
-#### Artikel 5.3.13. Vervaltermijn
+##### Artikel 5.3.13. Vervaltermijn
 
 Vervallen
 
@@ -1772,73 +1798,73 @@ Vervallen
 
 ## Titel 6.1. Subsidietitel voor steun onder spoor 1 uit het Territorial Just Transition Plan voor de regio Zeeuws-Vlaanderen/Vlissingen-Oost
 
-#### Artikel 6.1.1. Begripsbepalingen
+##### Artikel 6.1.1. Begripsbepalingen
 
 Vervallen
 
-#### Artikel 6.1.2. Doel subsidie
+##### Artikel 6.1.2. Doel subsidie
 
 Vervallen
 
-#### Artikel 6.1.3. Doelgroep
+##### Artikel 6.1.3. Doelgroep
 
 Vervallen
 
-#### Artikel 6.1.4. Subsidiabele activiteiten
+##### Artikel 6.1.4. Subsidiabele activiteiten
 
 Vervallen
 
-#### Artikel 6.1.5. Subsidieplafond en wijze van verdeling
+##### Artikel 6.1.5. Subsidieplafond en wijze van verdeling
 
 Vervallen
 
-#### Artikel 6.1.6. Aanvraagperiode
+##### Artikel 6.1.6. Aanvraagperiode
 
 Vervallen
 
-#### Artikel 6.1.7. Hoogte van de subsidie
+##### Artikel 6.1.7. Hoogte van de subsidie
 
 Vervallen
 
-#### Artikel 6.1.8. Starttermijn en looptijd
+##### Artikel 6.1.8. Starttermijn en looptijd
 
 Vervallen
 
-#### Artikel 6.1.9. Afwijzingsgronden
+##### Artikel 6.1.9. Afwijzingsgronden
 
 Vervallen
 
-#### Artikel 6.1.10. Beoordelingscriteria
+##### Artikel 6.1.10. Beoordelingscriteria
 
 Vervallen
 
-#### Artikel 6.1.11. Voorschot
+##### Artikel 6.1.11. Voorschot
 
 Vervallen
 
-#### Artikel 6.1.12. Subsidieaanvraag
+##### Artikel 6.1.12. Subsidieaanvraag
 
 Vervallen
 
-#### Artikel 6.1.13. Vervaltermijn
+##### Artikel 6.1.13. Vervaltermijn
 
 Vervallen
 
 ## Titel 6.2. Subsidietitel voor steun onder spoor 2 uit het Territorial Just Transition Plan voor de regio Zeeuws-Vlaanderen/Vlissingen-Oost
 
-#### Artikel 6.2.1. Begripsbepalingen
+##### Artikel 6.2.1. Begripsbepalingen
 
 In deze titel wordt verstaan onder:
 
 - –. **TJTP Zeeuws-Vlaanderen/Vlissingen-Oost:** regionaal territoriaal plan voor een rechtvaardige transitie als bedoeld in artikel 11 van de JTF-verordening voor de regio Zeeuws-Vlaanderen met de titel Territoriaal Just Transition plan van de COROP regio Zeeuws-Vlaanderen en de relevant aanpalende zone van Vlissingen-Oost.
 
-#### Artikel 6.2.2. Doel subsidie
+##### Artikel 6.2.2. Doel subsidie
 
 1. Doel van subsidie op basis van deze titel is uitvoering te geven aan Spoor 2 van het TJTP Zeeuws-Vlaanderen/Vlissingen-Oost.
 
 2. Projecten waaraan op basis van deze titel subsidie wordt verleend, passen binnen prioriteit 4, Spoor 2 van het TJTP Zeeuws-Vlaanderen/Vlissingen-Oost uit het Programma JTF 2021–2027 en dragen bij aan investeringen in technologie, systemen en infrastructuur om de transitie naar een groene chemie mogelijk te maken.
 
-#### Artikel 6.2.3. Doelgroep
+##### Artikel 6.2.3. Doelgroep
 
 De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
@@ -1848,7 +1874,7 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
 - c. een penvoerder namens de afzonderlijke partijen in een samenwerkingsverband als bedoeld in [artikel 1.4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.4&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 6.2.4. Subsidiabele activiteiten
+##### Artikel 6.2.4. Subsidiabele activiteiten
 
 1. Subsidie op basis van deze titel kan worden verstrekt voor investeringen in technologie, systemen en infrastructuur gericht op:
 
@@ -1858,19 +1884,19 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
 2. De activiteiten, bedoeld in het eerste lid, worden verricht in of ten behoeve van het werkingsgebied Zeeuws-Vlaanderen en de relevant aanpalende zone Vlissingen-Oost.
 
-#### Artikel 6.2.5. Subsidieplafond en wijze van verdeling
+##### Artikel 6.2.5. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt € 30.755.301.
 
 2. De Minister van SZW verdeelt het beschikbare bedrag op volgorde van rangschikking naar geschiktheid overeenkomstig [artikel 1.19](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.19&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 6.2.6. Aanvraagperiode
+##### Artikel 6.2.6. Aanvraagperiode
 
 1. Een aanvraag kan worden ingediend van 15 augustus 2023 10.00 uur tot en met 11 september 2023 17.00 uur.
 
 2. Aanvragen worden online ingediend door middel van het door de Minister van SZW vastgestelde aanvraagformulier dat beschikbaar is via [https://www.jtf-webportal.nl/mijn/](https://www.jtf-webportal.nl/mijn/).
 
-#### Artikel 6.2.7. Hoogte van de subsidie
+##### Artikel 6.2.7. Hoogte van de subsidie
 
 1. De subsidie bedraagt maximaal 50 procent van de subsidiabele kosten.
 
@@ -1878,7 +1904,7 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
 3. Onverminderd het eerste lid, wordt maximaal een zodanig percentage aan subsidie verstrekt dat het totale percentage aan subsidie op grond van deze titel en, indien van toepassing, [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=9&z=2026-03-01&g=2026-03-01) samen niet meer bedraagt dan 50 procent.
 
-#### Artikel 6.2.8. Starttermijn en looptijd
+##### Artikel 6.2.8. Starttermijn en looptijd
 
 1. Met de uitvoering van de op grond van deze titel gesubsidieerde projecten wordt gestart binnen drie maanden na de subsidieverlening.
 
@@ -1888,7 +1914,7 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
 4. Op verzoek van de subsidieontvanger kan de Minister van SZW de termijn, bedoeld in het eerste, tweede of derde lid, met uiterlijk zes maanden verlengen.
 
-#### Artikel 6.2.9. Afwijzingsgronden
+##### Artikel 6.2.9. Afwijzingsgronden
 
 Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.25&z=2026-03-01&g=2026-03-01) beslist de Minister van SZW afwijzend op een aanvraag indien:
 
@@ -1896,7 +1922,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - b. de aan het project te verlenen subsidie minder bedraagt dan € 200.000.
 
-#### Artikel 6.2.10. Beoordelingscriteria
+##### Artikel 6.2.10. Beoordelingscriteria
 
 1. Projecten worden beoordeeld op alle onderdelen van [artikel 1.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-03-01&g=2026-03-01).
 
@@ -1912,7 +1938,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - e. voor de mate waarin het project bijdraagt aan duurzame ontwikkeling en aan maatschappelijke-sociale impact: 20 punten.
 
-#### Artikel 6.2.11. Voorschot
+##### Artikel 6.2.11. Voorschot
 
 1. De Minister van SZW kan op aanvraag een voorschot verlenen vooruitlopend op te maken kosten als bedoeld in [artikel 1.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.30&z=2026-03-01&g=2026-03-01).
 
@@ -1926,7 +1952,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - b. 95 procent van de verleende subsidie, bij een verleende subsidie van minimaal € 5.000.000.
 
-#### Artikel 6.2.12. Subsidieaanvraag
+##### Artikel 6.2.12. Subsidieaanvraag
 
 1. Onverminderd [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.22&z=2026-03-01&g=2026-03-01) bevat een aanvraag voor subsidie ten minste:
 
@@ -1934,61 +1960,61 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - b. de bij het aanvraagformulier behorende documenten als bijlagen.
 
-#### Artikel 6.2.13. Vervaltermijn
+##### Artikel 6.2.13. Vervaltermijn
 
 Deze titel vervalt met ingang van 31 december 2027, met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn aangevraagd.
 
 ## Titel 6.3. Subsidietitel voor steun onder spoor 3 uit het Territorial Just Transition Plan voor de regio Zeeuws-Vlaanderen/Vlissingen-Oost
 
-#### Artikel 6.3.1. Begripsbepalingen
+##### Artikel 6.3.1. Begripsbepalingen
 
 Vervallen
 
-#### Artikel 6.3.2. Doel subsidie
+##### Artikel 6.3.2. Doel subsidie
 
 Vervallen
 
-#### Artikel 6.3.3. Doelgroep
+##### Artikel 6.3.3. Doelgroep
 
 Vervallen
 
-#### Artikel 6.3.4. Subsidiabele activiteiten
+##### Artikel 6.3.4. Subsidiabele activiteiten
 
 Vervallen
 
-#### Artikel 6.3.5. Subsidieplafond en wijze van verdeling
+##### Artikel 6.3.5. Subsidieplafond en wijze van verdeling
 
 Vervallen
 
-#### Artikel 6.3.6. Aanvraagperiode
+##### Artikel 6.3.6. Aanvraagperiode
 
 Vervallen
 
-#### Artikel 6.3.7. Hoogte van de subsidie
+##### Artikel 6.3.7. Hoogte van de subsidie
 
 Vervallen
 
-#### Artikel 6.3.8. Starttermijn en looptijd
+##### Artikel 6.3.8. Starttermijn en looptijd
 
 Vervallen
 
-#### Artikel 6.3.9. Afwijzingsgronden
+##### Artikel 6.3.9. Afwijzingsgronden
 
 Vervallen
 
-#### Artikel 6.3.10. Beoordelingscriteria
+##### Artikel 6.3.10. Beoordelingscriteria
 
 Vervallen
 
-#### Artikel 6.3.11. Voorschot
+##### Artikel 6.3.11. Voorschot
 
 Vervallen
 
-#### Artikel 6.3.12. Subsidieaanvraag
+##### Artikel 6.3.12. Subsidieaanvraag
 
 Vervallen
 
-#### Artikel 6.3.13. Vervaltermijn
+##### Artikel 6.3.13. Vervaltermijn
 
 Vervallen
 
@@ -1996,73 +2022,73 @@ Vervallen
 
 ## Titel 7.1. Subsidietitel voor steun onder spoor 1 uit het Territorial Just Transition Plan voor de regio Zuid-Limburg
 
-#### Artikel 7.1.1. Begripsomschrijvingen
+##### Artikel 7.1.1. Begripsomschrijvingen
 
 Vervallen
 
-#### Artikel 7.1.2. Doel subsidie
+##### Artikel 7.1.2. Doel subsidie
 
 Vervallen
 
-#### Artikel 7.1.3. Doelgroep
+##### Artikel 7.1.3. Doelgroep
 
 Vervallen
 
-#### Artikel 7.1.4. Subsidiabele activiteiten
+##### Artikel 7.1.4. Subsidiabele activiteiten
 
 Vervallen
 
-#### Artikel 7.1.5. Subsidieplafond en wijze van verdeling
+##### Artikel 7.1.5. Subsidieplafond en wijze van verdeling
 
 Vervallen
 
-#### Artikel 7.1.6. Aanvraagperiode
+##### Artikel 7.1.6. Aanvraagperiode
 
 Vervallen
 
-#### Artikel 7.1.7. Hoogte van de subsidie
+##### Artikel 7.1.7. Hoogte van de subsidie
 
 Vervallen
 
-#### Artikel 7.1.8. Niet- subsidiabele kosten
+##### Artikel 7.1.8. Niet- subsidiabele kosten
 
 Vervallen
 
-#### Artikel 7.1.9. Starttermijn en looptijd
+##### Artikel 7.1.9. Starttermijn en looptijd
 
 Vervallen
 
-#### Artikel 7.1.10. Afwijzingsgronden
+##### Artikel 7.1.10. Afwijzingsgronden
 
 Vervallen
 
-#### Artikel 7.1.11. Beoordelingscriteria
+##### Artikel 7.1.11. Beoordelingscriteria
 
 Vervallen
 
-#### Artikel 7.1.12. Voorschot
+##### Artikel 7.1.12. Voorschot
 
 Vervallen
 
-#### Artikel 7.1.13. Subsidieaanvraag
+##### Artikel 7.1.13. Subsidieaanvraag
 
 Vervallen
 
 ## Titel 3.1. Regionale subsidies voor het Territoriaal Just Transition Plan voor de regio IJmond
 
-#### Artikel 7.2.1. Begripsomschrijvingen
+##### Artikel 7.2.1. Begripsomschrijvingen
 
 In deze titel wordt verstaan onder:
 
 - –. **TJTP Zuid-Limburg:** regionaal territoriaal plan voor een rechtvaardige transitie als bedoeld in artikel 11 van de JTF-verordening voor de JTF-regio Zuid-Limburg met de titel Territoriaal Just Transition plan van de COROP regio Zuid-Limburg.
 
-#### Artikel 7.2.2. Doel subsidie
+##### Artikel 7.2.2. Doel subsidie
 
 1. Doel van subsidie op basis van deze titel is uitvoering te geven aan Spoor 2 van het TJTP Zuid-Limburg.
 
 2. Projecten waaraan op basis van deze titel subsidie wordt verleend passen binnen prioriteit 6, Spoor 2 van het TJTP Zuid-Limburg uit het Programma JTF 2021–2027 en hebben tot doel om nieuwe, duurzame banen te creëren, door te investeren in technologie, systemen en infrastructuur.
 
-#### Artikel 7.2.3. Doelgroep
+##### Artikel 7.2.3. Doelgroep
 
 1. De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
@@ -2074,7 +2100,7 @@ In deze titel wordt verstaan onder:
 
 2. Indien de Europese Commissie op het tijdstip van subsidieverlening nog niet heeft ingestemd met de op 31 mei 2023 ingediende wijziging van het Programma JTF 2021–2027 en de aanvrager of een van de afzonderlijke partijen in het samenwerkingsverband een grote onderneming is, wordt de subsidie verleend onder de voorwaarde dat de Europese Commissie instemt met de wijziging van het programma.
 
-#### Artikel 7.2.4. Subsidiabele activiteiten
+##### Artikel 7.2.4. Subsidiabele activiteiten
 
 1. Subsidie op basis van deze titel kan worden verstrekt voor:
 
@@ -2104,7 +2130,7 @@ In deze titel wordt verstaan onder:
 
 3. De activiteiten, bedoeld in het eerste lid, worden verricht in of ten behoeve van het werkingsgebied Zuid-Limburg.
 
-#### Artikel 7.2.5. Subsidieplafond en wijze van verdeling
+##### Artikel 7.2.5. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt:
 
@@ -2114,13 +2140,13 @@ In deze titel wordt verstaan onder:
 
 2. De Minister van SZW verdeelt het beschikbare bedrag op basis van rangschikking naar geschiktheid overeenkomstig [artikel 1.19](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.19&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 7.2.6. Aanvraagperiode
+##### Artikel 7.2.6. Aanvraagperiode
 
 1. Een aanvraag kan worden ingediend van 15 augustus 2023 10.00 uur tot en met 11 september 2023 17.00 uur.
 
 2. Aanvragen worden ingediend door middel van het door de Minister van SZW vastgestelde aanvraagformulier dat beschikbaar is via [https://www.jtf-webportal.nl/mijn/](https://www.jtf-webportal.nl/mijn/).
 
-#### Artikel 7.2.7. Hoogte van de subsidie
+##### Artikel 7.2.7. Hoogte van de subsidie
 
 1. De subsidie bedraagt maximaal 50 procent van de subsidiabele kosten.
 
@@ -2132,11 +2158,11 @@ In deze titel wordt verstaan onder:
 
 3. Onverminderd het eerste lid, wordt maximaal een zodanig percentage aan subsidie verstrekt dat het totale percentage aan subsidie op grond van deze titel en, indien van toepassing, [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=9&z=2026-03-01&g=2026-03-01) samen niet meer bedraagt dan 50 procent.
 
-#### Artikel 7.2.8. Niet-subsidiabele kosten
+##### Artikel 7.2.8. Niet-subsidiabele kosten
 
 Onverminderd [artikel 1.15](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.15&z=2026-03-01&g=2026-03-01) en in afwijking van [artikel 1.11, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.11&z=2026-03-01&g=2026-03-01), komen loonverletkosten niet voor subsidie in aanmerking.
 
-#### Artikel 7.2.9. Starttermijn en looptijd
+##### Artikel 7.2.9. Starttermijn en looptijd
 
 1. Met de uitvoering van de op grond van deze titel gesubsidieerde projecten wordt gestart binnen drie maanden na de subsidieverlening.
 
@@ -2146,7 +2172,7 @@ Onverminderd [artikel 1.15](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 4. Op verzoek van de subsidieontvanger kan de Minister van SZW de termijn, bedoeld in het eerste, tweede of derde lid, verlengen.
 
-#### Artikel 7.2.10. Afwijzingsgronden
+##### Artikel 7.2.10. Afwijzingsgronden
 
 Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.25&z=2026-03-01&g=2026-03-01) beslist de Minister van SZW afwijzend op een aanvraag, indien:
 
@@ -2158,7 +2184,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - d. de aan het project te verlenen subsidie voor activiteiten als bedoel in [artikel 7.2.4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=7&titeldeel=7.2&artikel=7.2.4&z=2026-03-01&g=2026-03-01), minder bedraagt dan € 1.000.000.
 
-#### Artikel 7.2.11. Beoordelingscriteria
+##### Artikel 7.2.11. Beoordelingscriteria
 
 1. Projecten worden beoordeeld op alle onderdelen van [artikel 1.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-03-01&g=2026-03-01).
 
@@ -2176,7 +2202,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - f. voor de mate waarin het project bijdraagt aan duurzame ontwikkeling en aan maatschappelijke-sociale impact: 15 punten.
 
-#### Artikel 7.2.12. Voorschot
+##### Artikel 7.2.12. Voorschot
 
 1. De Minister van SZW kan op aanvraag een voorschot verlenen vooruitlopend op te maken kosten als bedoeld in [artikel 1.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.30&z=2026-03-01&g=2026-03-01).
 
@@ -2190,7 +2216,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - b. 95 procent van de verleende subsidie, bij een verleende subsidie van minimaal € 5.000.000.
 
-#### Artikel 7.2.13. Subsidieaanvraag
+##### Artikel 7.2.13. Subsidieaanvraag
 
 1. Onverminderd [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.22&z=2026-03-01&g=2026-03-01) bevat een aanvraag voor subsidie ten minste:
 
@@ -2200,55 +2226,55 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 ## Titel 2.13. Steun aan subsidie-instrumenten voor bevordering toekomstgericht en strategisch personeelsbeleid
 
-#### Artikel 7.3.1. Begripsomschrijvingen
+##### Artikel 7.3.1. Begripsomschrijvingen
 
 Vervallen
 
-#### Artikel 7.3.2. Doel subsidie
+##### Artikel 7.3.2. Doel subsidie
 
 Vervallen
 
-#### Artikel 7.3.3. Doelgroep
+##### Artikel 7.3.3. Doelgroep
 
 Vervallen
 
-#### Artikel 7.3.4. Subsidiabele activiteiten
+##### Artikel 7.3.4. Subsidiabele activiteiten
 
 Vervallen
 
-#### Artikel 7.3.5. Subsidieplafond en wijze van verdeling
+##### Artikel 7.3.5. Subsidieplafond en wijze van verdeling
 
 Vervallen
 
-#### Artikel 7.3.6. Aanvraagperiode
+##### Artikel 7.3.6. Aanvraagperiode
 
 Vervallen
 
-#### Artikel 7.3.7. Hoogte van de subsidie
+##### Artikel 7.3.7. Hoogte van de subsidie
 
 Vervallen
 
-#### Artikel 7.3.8. Starttermijn en looptijd
+##### Artikel 7.3.8. Starttermijn en looptijd
 
 Vervallen
 
-#### Artikel 7.3.9. Afwijzingsgronden
+##### Artikel 7.3.9. Afwijzingsgronden
 
 Vervallen
 
-#### Artikel 7.3.10. Beoordelingscriteria
+##### Artikel 7.3.10. Beoordelingscriteria
 
 Vervallen
 
-#### Artikel 7.3.11. Voorschot
+##### Artikel 7.3.11. Voorschot
 
 Vervallen
 
-#### Artikel 7.3.12. Subsidieaanvraag
+##### Artikel 7.3.12. Subsidieaanvraag
 
 Vervallen
 
-#### Artikel 7.3.13. Vervaltermijn
+##### Artikel 7.3.13. Vervaltermijn
 
 Vervallen
 
@@ -2268,7 +2294,7 @@ Vervallen
 
 #### Paragraaf 9.2.4. EZK-cofinanciering JTF-West Noord-Brabant
 
-#### Artikel 9.2.4.1. EZK-cofinanciering Subsidietitel voor steun onder Spoor 1 uit het Territorial Just Transition Plan voor de regio West-Noord-Brabant
+##### Artikel 9.2.4.1. EZK-cofinanciering Subsidietitel voor steun onder Spoor 1 uit het Territorial Just Transition Plan voor de regio West-Noord-Brabant
 
 1. De Minister van EZK verstrekt subsidie voor activiteiten als bedoeld in [artikel 5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3&z=2026-03-01&g=2026-03-01).
 
@@ -2282,7 +2308,7 @@ Vervallen
 
 #### Paragraaf 9.2.5. EZK-cofinanciering JTF-regio Zeeuws-Vlaanderen
 
-#### Artikel 9.2.5.1. EZK-Cofinanciering Subsidietitel voor steun onder spoor 1 uit het Territorial Just Transition Plan voor de regio Zeeuws-Vlaanderen/Vlissingen-Oost
+##### Artikel 9.2.5.1. EZK-Cofinanciering Subsidietitel voor steun onder spoor 1 uit het Territorial Just Transition Plan voor de regio Zeeuws-Vlaanderen/Vlissingen-Oost
 
 1. De Minister van EZK verstrekt subsidie voor activiteiten als bedoeld in [artikel 6.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=6&titeldeel=6.1&artikel=6.1.3&z=2026-03-01&g=2026-03-01).
 
@@ -2292,7 +2318,7 @@ Vervallen
 
 #### Paragraaf 9.2.6. EZK-cofinanciering JTF-regio Zuid-Limburg
 
-#### Artikel 9.2.6. EZK-cofinanciering Subsidietitel voor steun onder spoor 1 uit het Territorial Just Transition Plan voor de regio Zuid-Limburg
+##### Artikel 9.2.6. EZK-cofinanciering Subsidietitel voor steun onder spoor 1 uit het Territorial Just Transition Plan voor de regio Zuid-Limburg
 
 1. De Minister van EZK verstrekt subsidie voor activiteiten als bedoeld in [artikel 7.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=7&titeldeel=7.1&artikel=7.1.3&z=2026-03-01&g=2026-03-01).
 
@@ -2360,7 +2386,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ## Titel 2.3. Steun aan lokale collectieve infrastructuur en utiliteiten
 
-#### Artikel 2.3.1. Begripsbepalingen
+##### Artikel 2.3.1. Begripsbepalingen
 
 In deze titel wordt verstaan onder:
 
@@ -2386,7 +2412,7 @@ In deze titel wordt verstaan onder:
 
 - −. **werkingsgebied:** de JTF-regio Groningen-Emmen, bedoeld in [artikel 1.7, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.7&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 2.3.2. Doel subsidie
+##### Artikel 2.3.2. Doel subsidie
 
 1. Het doel van de subsidie op grond van deze titel is om spoor 2 van het TJTP uit te voeren ten aanzien van investeringen in randvoorwaardelijke infrastructuur, utiliteiten en slimme opslagsystemen.
 
@@ -2402,7 +2428,7 @@ In deze titel wordt verstaan onder:
 
 3. Projecten moeten betrekking hebben op randvoorwaardelijke infrastructuur, utiliteiten en slimme opslagsystemen ten behoeve van het werkingsgebied.
 
-#### Artikel 2.3.3. Doelgroep
+##### Artikel 2.3.3. Doelgroep
 
 De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
@@ -2412,7 +2438,7 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
 - c. een partij in een samenwerkingsverband van natuurlijke- of rechtspersonen.
 
-#### Artikel 2.3.4. Subsidiabele activiteiten
+##### Artikel 2.3.4. Subsidiabele activiteiten
 
 1. Subsidie op grond van deze titel kan worden verstrekt voor:
 
@@ -2440,25 +2466,25 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
 - i. steun voor het distributienetwerkgedeelte van de energie-efficiënte stadsverwarmings- en stadskoelingsinstallatie.
 
-#### Artikel 2.3.5. Subsidieplafond en wijze van verdeling
+##### Artikel 2.3.5. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt € 48.500.000.
 
 2. De Minister van SZW verdeelt het beschikbare bedrag op volgorde van ontvangst van de aanvragen, overeenkomstig [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.18&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 2.3.6. Aanvraagperiode
+##### Artikel 2.3.6. Aanvraagperiode
 
 1. Een aanvraag kan worden ingediend in de periode vanaf 3 april 2023 9.00 uur tot en met 30 april 2025 17.00 uur.
 
 2. Aanvragen worden ingediend door middel van het door de Minister van SZW vastgestelde aanvraagformulier dat beschikbaar is via [https://www.jtf-webportal.nl/mijn/](https://www.jtf-webportal.nl/mijn/) of via [www.snn.nl](http://www.snn.nl).
 
-#### Artikel 2.3.7. Hoogte subsidie
+##### Artikel 2.3.7. Hoogte subsidie
 
 1. De subsidie bedraagt maximaal 30 procent van de subsidiabele kosten.
 
 2. De subsidie bedraagt ten hoogste € 10.000.000 per project.
 
-#### Artikel 2.3.8. Starttermijn en looptijd
+##### Artikel 2.3.8. Starttermijn en looptijd
 
 1. Met de uitvoering van de op grond van deze titel gesubsidieerde projecten wordt gestart binnen drie maanden na dagtekening van de verleningsbeschikking.
 
@@ -2468,7 +2494,7 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
 4. Op verzoek van de subsidieontvanger kan de Minister van SZW de termijn, bedoeld in het eerste, tweede of derde lid, verlengen.
 
-#### Artikel 2.3.9. Afwijzingsgronden
+##### Artikel 2.3.9. Afwijzingsgronden
 
 Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.25&z=2026-03-01&g=2026-03-01) beslist de Minister van SZW afwijzend op een aanvraag, indien:
 
@@ -2482,7 +2508,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - e. de vergunningen niet uiterlijk binnen vijf maanden na verlening van de subsidie zijn verkregen.
 
-#### Artikel 2.3.10. Beoordelingscriteria
+##### Artikel 2.3.10. Beoordelingscriteria
 
 1. Gelet op [artikel 1.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-03-01&g=2026-03-01), wordt een project uitsluitend beoordeeld op de onderdelen a, d, e en f van het eerste lid van dat artikel.
 
@@ -2496,7 +2522,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - d. voor de mate waarin het project bijdraagt aan duurzame ontwikkeling en aan maatschappelijke-sociale impact: 20 punten.
 
-#### Artikel 2.3.11. Voorschot
+##### Artikel 2.3.11. Voorschot
 
 1. De Minister van SZW verleent op aanvraag een voorschot vooruitlopend op te maken kosten als bedoeld in [artikel 1.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.30&z=2026-03-01&g=2026-03-01) van 20 procent van de verleende subsidie met een maximum van € 500.000.
 
@@ -2504,7 +2530,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 3. De Minister van SZW verleent op aanvraag opvolgende voorschotten op basis van gerealiseerde projectactiviteiten als bedoeld in [artikel 1.31](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.31&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 2.3.12. Subsidieaanvraag
+##### Artikel 2.3.12. Subsidieaanvraag
 
 1. Onverminderd [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.22&z=2026-03-01&g=2026-03-01) bevat een aanvraag voor subsidie ten minste:
 
@@ -2514,11 +2540,11 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 2. De aanvraag wordt ingediend bij het SNN via de link [https://www.jtf-webportal.nl/mijn/](https://www.jtf-webportal.nl/mijn/) of via [www.snn.nl](http://www.snn.nl).
 
-#### Artikel 2.3.13. Vervaltermijn
+##### Artikel 2.3.13. Vervaltermijn
 
 Deze titel vervalt met ingang van 31 december 2027, met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn aangevraagd.
 
-#### Artikel 2.4.1. Begripsbepalingen
+##### Artikel 2.4.1. Begripsbepalingen
 
 In deze titel wordt verstaan onder:
 
@@ -2534,7 +2560,7 @@ In deze titel wordt verstaan onder:
 
 - −. **werkingsgebied:** de JTF-regio Groningen-Emmen, bedoeld in [artikel 1.7, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.7&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 2.4.2. Doel subsidie
+##### Artikel 2.4.2. Doel subsidie
 
 1. Het doel van de subsidie op grond van deze titel is om het TJTP uit te voeren ten aanzien van de arbeidsmarktontwikkelingen die nodig zijn voor de verschillende transities.
 
@@ -2542,7 +2568,7 @@ In deze titel wordt verstaan onder:
 
 3. Projecten dragen bij aan de ontwikkeling en totstandkoming van fysieke of niet-fysieke opleidingsinfrastructuur, met flankerende inhoudelijke (ecosysteem-) programma’s, die beantwoordt aan de behoefte aan technologie, benodigde kennis en benodigde vaardigheden bij de transities uit de RIS3 2021–2027, en waarin onderwijs- of kennisinstellingen en bedrijven doorlopend gezamenlijk kennis ontwikkelen, deze omzetten in onderwijsprogramma’s en deze flexibel inzetten voor huidige en toekomstige leden van de beroepsbevolking en het mkb.
 
-#### Artikel 2.4.3. Doelgroep
+##### Artikel 2.4.3. Doelgroep
 
 De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
@@ -2552,7 +2578,7 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
 - c. een partij in een samenwerkingsverband van natuurlijke- of rechtspersonen.
 
-#### Artikel 2.4.4. Subsidiabele activiteiten
+##### Artikel 2.4.4. Subsidiabele activiteiten
 
 1. Subsidie op grond van deze titel kan worden verstrekt voor activiteiten die de fysieke of niet-fysieke opleidingsinfrastructuur versterken door:
 
@@ -2570,19 +2596,19 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
 3. Investeringen in fysieke voorzieningen komen alleen voor subsidie in aanmerking wanneer deze plaatsvinden op een locatie gelegen in het werkingsgebied.
 
-#### Artikel 2.4.5. Subsidieplafond en wijze van verdeling
+##### Artikel 2.4.5. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt € 45.000.000.
 
 2. De Minister van SZW verdeelt het beschikbare bedrag op volgorde van ontvangst van de aanvragen, overeenkomstig [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.18&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 2.4.6. Aanvraagperiode
+##### Artikel 2.4.6. Aanvraagperiode
 
 1. Een aanvraag kan worden ingediend in de periode vanaf 16 februari 2026 9:00 uur tot en met 12 april 2026 17:00 uur.
 
 2. Aanvragen worden ingediend door middel van het door de Minister van SZW vastgestelde aanvraagformulier dat beschikbaar is via [https://www.jtf-webportal.nl/mijn/](https://www.jtf-webportal.nl/mijn/) of via [www.snn.nl](http://www.snn.nl).
 
-#### Artikel 2.4.7. Hoogte subsidie
+##### Artikel 2.4.7. Hoogte subsidie
 
 1. De subsidie bedraagt maximaal 50 procent van de subsidiabele kosten.
 
@@ -2590,7 +2616,7 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
 3. Onverminderd het eerste lid wordt maximaal een zodanig percentage aan subsidie verstrekt dat het totale percentage aan subsidie op grond van deze titel en [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=9&z=2026-03-01&g=2026-03-01) samen niet meer bedraagt dan 50 procent.
 
-#### Artikel 2.4.8. Subsidiabele kosten
+##### Artikel 2.4.8. Subsidiabele kosten
 
 Onverminderd [artikel 1.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.11&z=2026-03-01&g=2026-03-01), komen voorbereidingskosten als subsidiabele kosten in aanmerking, indien deze kosten:
 
@@ -2604,7 +2630,7 @@ Onverminderd [artikel 1.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - e. niet strijdig zijn met artikel 6 van de Algemene groepsvrijstellingsverordening.
 
-#### Artikel 2.4.9. Starttermijn en looptijd
+##### Artikel 2.4.9. Starttermijn en looptijd
 
 1. Met de uitvoering van de op grond van deze [titel](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=2&titeldeel=2.4&z=2026-03-01&g=2026-03-01) gesubsidieerde projecten wordt gestart binnen zes maanden na dagtekening van de verleningsbeschikking.
 
@@ -2616,7 +2642,7 @@ Onverminderd [artikel 1.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 5. Op verzoek van de subsidieontvanger kan de Minister van SZW de termijn, bedoeld in het eerste, tweede, derde of vierde lid verlengen.
 
-#### Artikel 2.4.10. Afwijzingsgronden
+##### Artikel 2.4.10. Afwijzingsgronden
 
 Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.25&z=2026-03-01&g=2026-03-01) beslist de Minister van SZW afwijzend op een aanvraag, indien:
 
@@ -2632,7 +2658,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - f. de vergunningen niet uiterlijk binnen vijf maanden na verlening van de subsidie zijn verkregen.
 
-#### Artikel 2.4.11. Beoordelingscriteria
+##### Artikel 2.4.11. Beoordelingscriteria
 
 1. Gelet op [artikel 1.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-03-01&g=2026-03-01), wordt een project uitsluitend beoordeeld op de onderdelen a, b, d, e en f van het eerste lid van dat artikel.
 
@@ -2648,7 +2674,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - e. voor de mate waarin het project bijdraagt aan duurzame ontwikkeling en aan maatschappelijke-sociale impact: 15 punten.
 
-#### Artikel 2.4.12. Voorschot
+##### Artikel 2.4.12. Voorschot
 
 1. De Minister van SZW verleent op aanvraag een voorschot vooruitlopend op te maken kosten als bedoeld in [artikel 1.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.30&z=2026-03-01&g=2026-03-01) van 20 procent van de verleende subsidie met een maximum van € 500.000.
 
@@ -2658,7 +2684,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 4. In afwijking van [artikel 1.31, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.31&z=2026-03-01&g=2026-03-01), bedragen de voorschotten in totaal maximaal 80 procent van het verleende subsidiebedrag.
 
-#### Artikel 2.4.13. Subsidieaanvraag
+##### Artikel 2.4.13. Subsidieaanvraag
 
 1. Onverminderd [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.22&z=2026-03-01&g=2026-03-01) bevat een aanvraag voor subsidie ten minste:
 
@@ -2668,7 +2694,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 2. De aanvraag wordt ingediend bij het SNN via de link [https://www.jtf-webportal.nl/mijn/](https://www.jtf-webportal.nl/mijn/) of via [www.snn.nl](http://www.snn.nl).
 
-#### Artikel 2.4.14. Vervaltermijn
+##### Artikel 2.4.14. Vervaltermijn
 
 1. Deze titel vervalt met ingang van 31 december 2027.
 
@@ -2678,117 +2704,117 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 ## Titel 2.5. Steun aan arbeidsmarkttransitie
 
-#### Artikel 2.5.1. Begripsbepalingen
+##### Artikel 2.5.1. Begripsbepalingen
 
 Vervallen
 
-#### Artikel 2.5.2. Doel subsidie
+##### Artikel 2.5.2. Doel subsidie
 
 Vervallen
 
-#### Artikel 2.5.3. Doelgroep
+##### Artikel 2.5.3. Doelgroep
 
 Vervallen
 
-#### Artikel 2.5.4. Subsidiabele activiteiten
+##### Artikel 2.5.4. Subsidiabele activiteiten
 
 Vervallen
 
-#### Artikel 2.5.5. Subsidieplafond en wijze van verdeling
+##### Artikel 2.5.5. Subsidieplafond en wijze van verdeling
 
 Vervallen
 
-#### Artikel 2.5.6. Aanvraagperiode
+##### Artikel 2.5.6. Aanvraagperiode
 
 Vervallen
 
-#### Artikel 2.5.7. Hoogte subsidie
+##### Artikel 2.5.7. Hoogte subsidie
 
 Vervallen
 
-#### Artikel 2.5.8. Subsidiabele kosten
+##### Artikel 2.5.8. Subsidiabele kosten
 
 Vervallen
 
-#### Artikel 2.5.9. Starttermijn en looptijd
+##### Artikel 2.5.9. Starttermijn en looptijd
 
 Vervallen
 
-#### Artikel 2.5.10. Afwijzingsgronden
+##### Artikel 2.5.10. Afwijzingsgronden
 
 Vervallen
 
-#### Artikel 2.5.11. Beoordelingscriteria
+##### Artikel 2.5.11. Beoordelingscriteria
 
 Vervallen
 
-#### Artikel 2.5.12. Voorschot
+##### Artikel 2.5.12. Voorschot
 
 Vervallen
 
-#### Artikel 2.5.13. Subsidieaanvraag
+##### Artikel 2.5.13. Subsidieaanvraag
 
 Vervallen
 
-#### Artikel 2.5.14. Vervaltermijn
+##### Artikel 2.5.14. Vervaltermijn
 
 Vervallen
 
 ## Titel 2.6. Steun aan financieringsinstrumenten voor start-up fondsen
 
-#### Artikel 2.6.1. Begripsbepalingen
+##### Artikel 2.6.1. Begripsbepalingen
 
 Vervallen
 
-#### Artikel 2.6.2. Doel subsidie
+##### Artikel 2.6.2. Doel subsidie
 
 Vervallen
 
-#### Artikel 2.6.3. Doelgroep
+##### Artikel 2.6.3. Doelgroep
 
 Vervallen
 
-#### Artikel 2.6.4. Subsidiabele activiteiten
+##### Artikel 2.6.4. Subsidiabele activiteiten
 
 Vervallen
 
-#### Artikel 2.6.5. Subsidieplafond en wijze van verdeling
+##### Artikel 2.6.5. Subsidieplafond en wijze van verdeling
 
 Vervallen
 
-#### Artikel 2.6.6. Aanvraagperiode
+##### Artikel 2.6.6. Aanvraagperiode
 
 Vervallen
 
-#### Artikel 2.6.7. Hoogte van de subsidie
+##### Artikel 2.6.7. Hoogte van de subsidie
 
 Vervallen
 
-#### Artikel 2.6.8. Subsidiabele kosten
+##### Artikel 2.6.8. Subsidiabele kosten
 
 Vervallen
 
-#### Artikel 2.6.9. Starttermijn en looptijd
+##### Artikel 2.6.9. Starttermijn en looptijd
 
 Vervallen
 
-#### Artikel 2.6.10. Afwijzingsgronden
+##### Artikel 2.6.10. Afwijzingsgronden
 
 Vervallen
 
-#### Artikel 2.6.11. Beoordelingscriteria
+##### Artikel 2.6.11. Beoordelingscriteria
 
 Vervallen
 
-#### Artikel 2.6.12. Voorschot
+##### Artikel 2.6.12. Voorschot
 
 Vervallen
 
-#### Artikel 2.6.13. Subsidieaanvraag
+##### Artikel 2.6.13. Subsidieaanvraag
 
 Vervallen
 
-#### Artikel 2.6.14. Vervaltermijn
+##### Artikel 2.6.14. Vervaltermijn
 
 Vervallen
 
@@ -2832,7 +2858,7 @@ Vervallen
 
 #### Paragraaf 9.2.1. EZK-cofinanciering JTF-regio Groningen-Emmen
 
-#### Artikel 9.2.1.1. EZK-cofinanciering steun aan opleidingsinfrastructuur en flankerende campusactiviteiten
+##### Artikel 9.2.1.1. EZK-cofinanciering steun aan opleidingsinfrastructuur en flankerende campusactiviteiten
 
 Vervallen
 
@@ -2904,7 +2930,7 @@ Deze openstelling is bedoeld voor projecten die bijdragen aan een rechtvaardige 
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 9.2.1.2. EZK-cofinanciering steun aan JTF-Call 2022 voor grote Kennis- en valorisatieprojecten die aansluiten bij de transities uit de RIS3 2021–2027
+##### Artikel 9.2.1.2. EZK-cofinanciering steun aan JTF-Call 2022 voor grote Kennis- en valorisatieprojecten die aansluiten bij de transities uit de RIS3 2021–2027
 
 1. De Minister van EZK verstrekt subsidie voor activiteiten als bedoeld in [artikel 2.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=2&titeldeel=2.2&artikel=2.2.4&z=2026-03-01&g=2026-03-01).
 
@@ -2952,7 +2978,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ## Titel 2.7. Steun voor middelgrote valorisatieprojecten die aansluiten bij de transities uit de RIS3 2021–2027
 
-#### Artikel 2.7.1. Begripsomschrijvingen
+##### Artikel 2.7.1. Begripsomschrijvingen
 
 In deze titel wordt verstaan onder:
 
@@ -2968,11 +2994,11 @@ In deze titel wordt verstaan onder:
 
 - −. **valorisatieproject:** innovatietraject gericht op ontwikkeling van nieuwe producten, concepten, technologieën en diensten, of het testen van innovatieve toepassingen in de praktijkomgeving gericht op valorisatie van nieuwe technieken.
 
-#### Artikel 2.7.2. Doel subsidie
+##### Artikel 2.7.2. Doel subsidie
 
 Een project waaraan op basis van deze titel subsidie wordt verleend, past binnen Spoor 1 en Spoor 2 van het TJTP. Het project draagt bij aan de transformatie en diversificatie van de regionale economie. Dit kan door het stimuleren van de ontwikkeling van nieuwe duurzame waardenketens of innovaties langs de lijnen van de RIS3 2021–2027, zoals de (versnelde) omschakeling naar groene grondstoffen, duurzame waterstof en circulariteit.
 
-#### Artikel 2.7.3. Doelgroep
+##### Artikel 2.7.3. Doelgroep
 
 De Minister van SZW verstrekt op aanvraag subsidie voor een valorisatieproject aan:
 
@@ -2982,17 +3008,17 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een valorisatieproject a
 
 - c. een deelnemer in een samenwerkingsverband van natuurlijke- of rechtspersonen.
 
-#### Artikel 2.7.4. Subsidiabele activiteiten
+##### Artikel 2.7.4. Subsidiabele activiteiten
 
 Subsidie op basis van deze titel kan worden verstrekt voor het uitvoeren van valorisatieprojecten binnen minimaal één van de vier transities.
 
-#### Artikel 2.7.5. Subsidieplafond en wijze van verdeling
+##### Artikel 2.7.5. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt € 14.873.000.
 
 2. De Minister van SZW verdeelt het beschikbare bedrag op volgorde van ontvangst van de aanvragen, overeenkomstig [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.18&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 2.7.6. Aanvraagperiode
+##### Artikel 2.7.6. Aanvraagperiode
 
 1. Een aanvraag kan worden ingediend in de periode vanaf 9 oktober 2023 12.00 uur tot en met 30 april 2025 12.00 uur.
 
@@ -3008,7 +3034,7 @@ Subsidie op basis van deze titel kan worden verstrekt voor het uitvoeren van val
 
 7. Het preadvies wordt aangevraagd door middel van het aanvraagformulier dat beschikbaar is via [https://www.snn.nl/over-snn/strategie-programmas/efro-noord-nederland-2021–2027/projectvoorstel-valorisatie-2023](https://www.snn.nl/over-snn/strategie-programmas/efro-noord-nederland-2021–2027/projectvoorstel-valorisatie-2023).
 
-#### Artikel 2.7.7. Hoogte subsidie
+##### Artikel 2.7.7. Hoogte subsidie
 
 1. De subsidie bedraagt 25 procent van de subsidiabele kosten.
 
@@ -3026,7 +3052,7 @@ Subsidie op basis van deze titel kan worden verstrekt voor het uitvoeren van val
 
 6. De subsidie bedraagt maximaal € 800.000 per project en maximaal € 500.000 per projectpartner.
 
-#### Artikel 2.7.8. Starttermijn en looptijd
+##### Artikel 2.7.8. Starttermijn en looptijd
 
 1. Met de uitvoering van de op grond van deze titel gesubsidieerde projecten wordt gestart binnen drie maanden na dagtekening van de verleningsbeschikking.
 
@@ -3036,7 +3062,7 @@ Subsidie op basis van deze titel kan worden verstrekt voor het uitvoeren van val
 
 4. Op verzoek van de subsidieontvanger kan de Minister van SZW de termijn, bedoeld in het eerste tot en met het vierde lid, verlengen.
 
-#### Artikel 2.7.9. Afwijzingsgronden
+##### Artikel 2.7.9. Afwijzingsgronden
 
 Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.25&z=2026-03-01&g=2026-03-01) beslist de Minister van SZW afwijzend op een aanvraag, indien:
 
@@ -3046,7 +3072,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - c. niet aannemelijk is dat alle projectactiviteiten van het project binnen 36 maanden na dagtekening van de verleningsbeschikking volledig ten uitvoer kunnen zijn gebracht.
 
-#### Artikel 2.7.10. Beoordelingscriteria
+##### Artikel 2.7.10. Beoordelingscriteria
 
 1. Gelet op [artikel 1.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-03-01&g=2026-03-01), wordt een project uitsluitend beoordeeld op de onderdelen a, c, d, e en f van artikel 1.20, eerste lid.
 
@@ -3062,7 +3088,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - e. de mate waarin het project meer bijdraagt aan duurzame ontwikkeling en aan maatschappelijke-sociale impact: 15 punten.
 
-#### Artikel 2.7.11. Voorschot
+##### Artikel 2.7.11. Voorschot
 
 1. De Minister van SZW verleent op aanvraag een voorschot vooruitlopend op te maken kosten als bedoeld in [artikel 1.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.30&z=2026-03-01&g=2026-03-01) van 30 procent van de verleende subsidie.
 
@@ -3082,7 +3108,7 @@ en;
 
 - c. het niet toekennen van het voorschot onredelijke gevolgen voor de liquiditeitspositie van de aanvragende onderneming heeft.
 
-#### Artikel 2.7.12. Subsidieaanvraag
+##### Artikel 2.7.12. Subsidieaanvraag
 
 1. Onverminderd [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.22&z=2026-03-01&g=2026-03-01) bevat een aanvraag voor subsidie ten minste:
 
@@ -3094,7 +3120,7 @@ en;
 
 2. Voor het door de Minister van SZW vastgestelde format voor het projectplan bedoeld in [artikel 1.22, eerste lid, onderdeel b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.22&z=2026-03-01&g=2026-03-01), geldt het maximumaantal pagina’s. Een aanvraag die hieraan niet voldoet, wordt afgewezen.
 
-#### Artikel 2.7.13. Staatssteun
+##### Artikel 2.7.13. Staatssteun
 
 Indien de subsidie staatssteun bevat dan dient het gerechtvaardigd te worden door:
 
@@ -3102,7 +3128,7 @@ Indien de subsidie staatssteun bevat dan dient het gerechtvaardigd te worden doo
 
 - b. de artikelen 25, 27, 28 en 29 van de Algemene groepsvrijstellingsverordening.
 
-#### Artikel 2.7.14. Vervaltermijn
+##### Artikel 2.7.14. Vervaltermijn
 
 Deze titel en [artikel 9.2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.1&artikel=9.2.1.2&z=2026-03-01&g=2026-03-01) vervallen met ingang van 1 januari 2027, met dien verstande dat deze van toepassing blijven op subsidies die voor deze datum zijn aangevraagd.
 
@@ -3112,7 +3138,7 @@ Deze titel en [artikel 9.2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&
 
 ## Titel 3.2. Subsidietitel voor steun aan investeringen en bijbehorende opleidingen
 
-#### Artikel 3.2.1. Begripsbepalingen
+##### Artikel 3.2.1. Begripsbepalingen
 
 In deze titel wordt verstaan onder:
 
@@ -3158,7 +3184,7 @@ In deze titel wordt verstaan onder:
 
 - –. **werkingsgebied voor regionale investeringssteun:** het gebied binnen het werkingsgebied dat is opgenomen in de Regionale Steunkaart 2022-2027, zoals door de Europese Commissie goedgekeurd bij Steunmaatregel SA.100273 (2021/N).
 
-#### Artikel 3.2.2. Doel subsidie
+##### Artikel 3.2.2. Doel subsidie
 
 1. Het doel van de subsidie op grond van deze titel is transformatie en diversificatie van de regionale economie en arbeidsmarkt conform het regionaal transitieplan. Deze transformatie wordt gerealiseerd in de vorm van steun aan een investeringsproject dat bijdraagt aan de transitie naar een circulaire en klimaatneutrale economie en de daarbij behorende scholing van nieuw of bestaand personeel in het werken binnen en met de te realiseren investeringen.
 
@@ -3178,11 +3204,11 @@ In deze titel wordt verstaan onder:
 
 4. Een aanvrager draagt met de om- of bijscholing van bestaande of nieuwe werknemers in het project bij aan het versterken van de competenties en vaardigheden van bestaande en nieuwe werknemers, niet zijnde standaardwerkzaamheden. Deze competenties en vaardigheden hangen voor de werkgever samen met de inzetbaarheid van deelnemers in het werken met de investeringen. Deze competenties en vaardigheden zijn voor de deelnemers gericht op hun toekomstbestendige inzetbaarheid op de arbeidsmarkt binnen de drie transities, bedoeld in het derde lid.
 
-#### Artikel 3.2.3. Doelgroep
+##### Artikel 3.2.3. Doelgroep
 
 De Minister van SZW verstrekt op aanvraag subsidie aan een onderneming die bijdraagt aan de transitie naar een circulaire en klimaatneutrale economie voor projecten die worden uitgevoerd in het werkingsgebied en die passen binnen de kaders van deze regeling.
 
-#### Artikel 3.2.4. Subsidiabele activiteiten
+##### Artikel 3.2.4. Subsidiabele activiteiten
 
 1. Subsidie op basis van deze titel kan worden verstrekt voor:
 
@@ -3198,7 +3224,7 @@ De Minister van SZW verstrekt op aanvraag subsidie aan een onderneming die bijdr
 
 2. Projecten zijn gericht op toekomstbestendigheid van de economie door diversificatie langs de lijnen van de drie transities of op groen perspectief door transformatie naar circulaire en klimaatneutrale productieprocessen in ondernemingen door het vervangen van fossiele grond- en brandstoffen.
 
-#### Artikel 3.2.5. Subsidieplafond en wijze van verdeling
+##### Artikel 3.2.5. Subsidieplafond en wijze van verdeling
 
 1. Voor aanvragen die uiterlijk op 14 mei 2025 zijn ingediend, bedraagt het subsidieplafond € 12.500.000, met dien verstande dat er maximaal € 5.000.000 beschikbaar is voor projecten van grote ondernemingen.
 
@@ -3206,13 +3232,13 @@ De Minister van SZW verstrekt op aanvraag subsidie aan een onderneming die bijdr
 
 3. De Minister van SZW verdeelt het beschikbare bedrag op volgorde van ontvangst van de aanvragen, overeenkomstig [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.18&z=2026-02-01&g=2026-02-01).
 
-#### Artikel 3.2.6. Aanvraagperiode
+##### Artikel 3.2.6. Aanvraagperiode
 
 1. Een aanvraag kan worden ingediend in de periode vanaf 15 augustus 2023 09.00 uur tot en met 1 maart 2026 17.00 uur.
 
 2. Aanvragen worden ingediend door middel van het door de Minister van SZW vastgestelde aanvraagformulier dat beschikbaar is via [https://www](https://www/).jtf-webportal.nl/mijn/.
 
-#### Artikel 3.2.7. Hoogte subsidie
+##### Artikel 3.2.7. Hoogte subsidie
 
 1. De subsidie bedraagt voor een:
 
@@ -3232,7 +3258,7 @@ De Minister van SZW verstrekt op aanvraag subsidie aan een onderneming die bijdr
 
 - b. artikel 31 inzake opleidingssteun inzake kosten voor om-of bijscholing.
 
-#### Artikel 3.2.8. Subsidiabele kosten
+##### Artikel 3.2.8. Subsidiabele kosten
 
 1. In afwijking van [artikel 1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.11&z=2026-02-01&g=2026-02-01) komen uitsluitend de volgende kosten voor subsidie in aanmerking:
 
@@ -3270,7 +3296,7 @@ De Minister van SZW verstrekt op aanvraag subsidie aan een onderneming die bijdr
 
 - b. immateriële vaste activa als bedoeld in [artikel 365 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=365).
 
-#### Artikel 3.2.9. Starttermijn en looptijd
+##### Artikel 3.2.9. Starttermijn en looptijd
 
 1. Met de uitvoering van de op grond van deze titel gesubsidieerde projecten wordt gestart binnen zes maanden na de subsidieverlening.
 
@@ -3278,7 +3304,7 @@ De Minister van SZW verstrekt op aanvraag subsidie aan een onderneming die bijdr
 
 3. Op verzoek van de subsidieontvanger kan de Minister van SZW de termijn, bedoeld in het eerste en tweede lid, verlengen.
 
-#### Artikel 3.2.10. Afwijzingsgronden
+##### Artikel 3.2.10. Afwijzingsgronden
 
 Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.25&z=2026-02-01&g=2026-02-01) beslist de Minister van SZW afwijzend op een aanvraag, indien:
 
@@ -3290,7 +3316,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - d. het diversificatieproject betreft waarbij de nieuwe activiteit hetzelfde of een vergelijkbare activiteit is als de activiteit die eerder in de vestiging werd uitgeoefend.
 
-#### Artikel 3.2.11. Beoordelingscriteria
+##### Artikel 3.2.11. Beoordelingscriteria
 
 1. Gelet op [artikel 1.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-02-01&g=2026-02-01), wordt een project beoordeeld op alle onderdelen uit artikel 1.20, eerste lid.
 
@@ -3308,7 +3334,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - f. de mate waarin het project meer bijdraagt aan duurzame ontwikkeling en aan maatschappelijke-sociale impact: 15 punten.
 
-#### Artikel 3.2.12. Voorschot
+##### Artikel 3.2.12. Voorschot
 
 1. De Minister van SZW verleent op aanvraag een voorschot vooruitlopend op te maken kosten als bedoeld in [artikel 1.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.30&z=2026-02-01&g=2026-02-01) van 30 procent van de verleende subsidie.
 
@@ -3318,7 +3344,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 4. In afwijking van [artikel 1.31, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.31&z=2026-02-01&g=2026-02-01), bedragen de voorschotten in totaal maximaal 80 procent van het verleende subsidiebedrag.
 
-#### Artikel 3.2.13. Subsidieaanvraag
+##### Artikel 3.2.13. Subsidieaanvraag
 
 1. In aanvulling op het [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.22&z=2026-02-01&g=2026-02-01) bevat een aanvraag voor subsidie ten minste:
 
@@ -3330,17 +3356,17 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 3. De aanvraag wordt ingediend met gebruikmaking van het digitale aanvraagformulier via de link [https://www.jtf-webportal.nl/mijn/](https://www.jtf-webportal.nl/mijn/).
 
-#### Artikel 3.2.14. Staatssteun
+##### Artikel 3.2.14. Staatssteun
 
 De subsidie bevat staatssteun en wordt gerechtvaardigd door de artikelen 13, 14, 31, 36, 36bis, 38, 38bis, 41, 47 en 56ter van de Algemene groepsvrijstellingsverordening.
 
-#### Artikel 3.2.15. Vervaltermijn
+##### Artikel 3.2.15. Vervaltermijn
 
 Deze titel vervalt met ingang van 1 maart 2026, met dien verstande dat deze titel van toepassing blijft op subsidies die voor deze datum zijn aangevraagd.
 
 ## Titel 3.3. Scholingsvouchers
 
-#### Artikel 3.3.1. Begripsomschrijvingen
+##### Artikel 3.3.1. Begripsomschrijvingen
 
 In deze titel wordt verstaan onder:
 
@@ -3358,11 +3384,11 @@ In deze titel wordt verstaan onder:
 
 - **scholingsvoucher:** een op grond van [artikel 3.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=3&titeldeel=3.3&artikel=3.3.3&z=2026-03-01&g=2026-03-01) door een opleidingsinstituut afgegeven document ten behoeve van het volgen van een scholings- of een voorschakeltraject.
 
-#### Artikel 3.3.2. Doel scholingsvouchers
+##### Artikel 3.3.2. Doel scholingsvouchers
 
 Doel van de scholingsvouchers is het bevorderen van een voldoende, goed opgeleide, gemotiveerde en beschikbare beroepsbevolking. De scholingsvouchers dragen bij aan de transitieopgaven in de regio en vangen de wijzigingen en het verdwijnen van vacatures als gevolg van de transitieopgave op.
 
-#### Artikel 3.3.3. Aanvraag en verstrekking scholingsvoucher
+##### Artikel 3.3.3. Aanvraag en verstrekking scholingsvoucher
 
 De Minister van SZW verstrekt op aanvraag subsidie ten behoeve van een of meer scholingsvouchers aan een opleidingsinstituut dat:
 
@@ -3376,7 +3402,7 @@ De Minister van SZW verstrekt op aanvraag subsidie ten behoeve van een of meer s
 
 - e. een bedrijfsschool is, gelieerd aan of formeel geaccrediteerd voor een in Nederland erkende opleiding.
 
-#### Artikel 3.3.4. Subsidiabele activiteiten en omvang subsidie
+##### Artikel 3.3.4. Subsidiabele activiteiten en omvang subsidie
 
 1. Een scholingsvoucher kan worden ingezet voor de volgende activiteiten:
 
@@ -3388,7 +3414,7 @@ De Minister van SZW verstrekt op aanvraag subsidie ten behoeve van een of meer s
 
 3. De subsidie bedraagt ten minste € 50.000 en ten hoogste € 100.000.
 
-#### Artikel 3.3.5. Starttermijn en looptijd
+##### Artikel 3.3.5. Starttermijn en looptijd
 
 1. De activiteiten van een project in het kader van deze titel vangen niet eerder aan dan de dag waarop de verleningsbeschikking is afgegeven.
 
@@ -3396,19 +3422,19 @@ De Minister van SZW verstrekt op aanvraag subsidie ten behoeve van een of meer s
 
 3. De activiteiten van een project zijn uiterlijk 31 december 2027 door de aanvrager uitgevoerd.
 
-#### Artikel 3.3.6. Subsidieplafond en wijze van verdelen
+##### Artikel 3.3.6. Subsidieplafond en wijze van verdelen
 
 1. Het subsidieplafond voor deze titel bedraagt € 500.000.
 
 2. De Minister van SZW verdeelt het beschikbare bedrag op volgorde van ontvangst van de aanvragen, overeenkomstig [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.18&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 3.3.7. Aanvraagperiode en gegevens subsidieaanvraag
+##### Artikel 3.3.7. Aanvraagperiode en gegevens subsidieaanvraag
 
 1. Een aanvraag kan worden ingediend in de periode vanaf 15 augustus 2023 9.00 uur tot en met 31 december 2026 17.00 uur.
 
 2. Aanvragen worden ingediend door middel van het door de Minister van SZW vastgestelde aanvraagformulier dat beschikbaar is in het [https://www.jtf-webportal.nl/mijn/](https://www.jtf-webportal.nl/mijn/).
 
-#### Artikel 3.3.8. Subsidiabele kosten
+##### Artikel 3.3.8. Subsidiabele kosten
 
 1. De subsidie wordt verleend op basis van een door de subsidieaanvrager ingediende ontwerpbegroting als bedoeld in artikel 53, derde lid, aanhef en onderdeel b, van de GB-verordening.
 
@@ -3426,7 +3452,7 @@ De Minister van SZW verstrekt op aanvraag subsidie ten behoeve van een of meer s
 
 - 2°. de te subsidiëren opleiding kan worden aangemerkt als een onderwijssoort als bedoeld in de [artikelen 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.9) of [2.10 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.10).
 
-#### Artikel 3.3.9. Beoordelingscriteria
+##### Artikel 3.3.9. Beoordelingscriteria
 
 1. Gelet op [artikel 1.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-03-01&g=2026-03-01), wordt een project uitsluitend beoordeeld op de onderdelen a, b, e en f van artikel 1.20, eerste lid.
 
@@ -3440,21 +3466,21 @@ De Minister van SZW verstrekt op aanvraag subsidie ten behoeve van een of meer s
 
 - d. voor de mate waarin het project meer bijdraagt aan duurzame ontwikkeling en aan maatschappelijke-sociale impact: 30 punten.
 
-#### Artikel 3.3.10. Voorschot
+##### Artikel 3.3.10. Voorschot
 
 1. De Minister van SZW verleent op aanvraag een voorschot op grond van gerealiseerde projectactiviteiten als bedoeld in [artikel 1.31](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.31&z=2026-03-01&g=2026-03-01).
 
 2. In aanvulling op [artikel 1.31, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.31&z=2026-03-01&g=2026-03-01), bevat de aanvraag voor een voorschot bewijsstukken waaruit blijkt hoeveel scholings- of voorschakeltrajecten met een door het opleidingsinstituut afgegeven scholingsvoucher zijn afgerond.
 
-#### Artikel 3.3.11. Aanvraag vaststelling subsidie
+##### Artikel 3.3.11. Aanvraag vaststelling subsidie
 
 In aanvulling op [artikel 1.32, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.32&z=2026-03-01&g=2026-03-01), bevat de aanvraag tot subsidievaststelling bewijsstukken waaruit blijkt hoeveel scholings- of voorschakeltrajecten met een door het opleidingsinstituut afgegeven scholingsvoucher zijn afgerond.
 
-#### Artikel 3.3.12. Staatssteun
+##### Artikel 3.3.12. Staatssteun
 
 Een scholingsvoucher bevat staatsteun en wordt gerechtvaardigd door artikel 31 van de Algemene groepsvrijstellingsverordening.
 
-#### Artikel 3.3.13. Vervaltermijn
+##### Artikel 3.3.13. Vervaltermijn
 
 Deze titel vervalt met ingang van 1 januari 2027, met dien verstande dat deze titel van toepassing blijft op subsidies die voor deze datum zijn aangevraagd.
 
@@ -3466,7 +3492,7 @@ Deze titel vervalt met ingang van 1 januari 2027, met dien verstande dat deze ti
 
 ## Titel 4.3. Scholingsvouchers
 
-#### Artikel 4.3.1. Begripsomschrijvingen
+##### Artikel 4.3.1. Begripsomschrijvingen
 
 In deze titel wordt verstaan onder:
 
@@ -3484,11 +3510,11 @@ In deze titel wordt verstaan onder:
 
 - **scholingsvoucher:** een op grond van [artikel 4.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=4&titeldeel=4.3&artikel=4.3.3&z=2026-03-01&g=2026-03-01) door een opleidingsinstituut afgegeven document ten behoeve van het volgen van een scholings- of een voorschakeltraject.
 
-#### Artikel 4.3.2. Doel scholingsvouchers
+##### Artikel 4.3.2. Doel scholingsvouchers
 
 Doel van de scholingsvouchers is het bevorderen van een voldoende, goed opgeleide, gemotiveerde en beschikbare beroepsbevolking. De scholingsvouchers dragen bij aan de transitieopgaven in de regio en vangen de wijzigingen en het verdwijnen van vacatures als gevolg van de transitieopgave op.
 
-#### Artikel 4.3.3. Aanvraag en verstrekking scholingsvoucher
+##### Artikel 4.3.3. Aanvraag en verstrekking scholingsvoucher
 
 De Minister van SZW verstrekt op aanvraag subsidie ten behoeve van een of meer scholingsvouchers aan een opleidingsinstituut dat:
 
@@ -3502,7 +3528,7 @@ De Minister van SZW verstrekt op aanvraag subsidie ten behoeve van een of meer s
 
 - e. een bedrijfsschool is, gelieerd aan of formeel geaccrediteerd voor een in Nederland erkende opleiding.
 
-#### Artikel 4.3.4. Subsidiabele activiteiten en omvang subsidie
+##### Artikel 4.3.4. Subsidiabele activiteiten en omvang subsidie
 
 1. Een scholingsvoucher kan worden ingezet voor de volgende activiteiten:
 
@@ -3514,7 +3540,7 @@ De Minister van SZW verstrekt op aanvraag subsidie ten behoeve van een of meer s
 
 3. De subsidie bedraagt ten minste € 50.000 en ten hoogste € 100.000.
 
-#### Artikel 4.3.5. Starttermijn en looptijd
+##### Artikel 4.3.5. Starttermijn en looptijd
 
 1. De activiteiten van een project in het kader van deze titel vangen niet eerder aan dan de dag waarop de verleningsbeschikking is afgegeven.
 
@@ -3522,19 +3548,19 @@ De Minister van SZW verstrekt op aanvraag subsidie ten behoeve van een of meer s
 
 3. De activiteiten van een project zijn uiterlijk 31 december 2029 door de aanvrager uitgevoerd.
 
-#### Artikel 4.3.6. Subsidieplafond en wijze van verdelen
+##### Artikel 4.3.6. Subsidieplafond en wijze van verdelen
 
 1. Het subsidieplafond voor deze titel bedraagt € 600.000.
 
 2. De Minister van SZW verdeelt het beschikbare bedrag op volgorde van ontvangst van de aanvragen, overeenkomstig [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.18&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 4.3.7. Aanvraagperiode en gegevens subsidieaanvraag
+##### Artikel 4.3.7. Aanvraagperiode en gegevens subsidieaanvraag
 
 1. Een aanvraag kan worden ingediend in de periode vanaf 15 augustus 2023 9.00 uur tot en met 31 december 2026 17.00 uur.
 
 2. Aanvragen worden ingediend door middel van het door de Minister van SZW vastgestelde aanvraagformulier dat beschikbaar is in het [https://www.jtf-webportal.nl/mijn/](https://www.jtf-webportal.nl/mijn/).
 
-#### Artikel 4.3.8. Subsidiabele kosten
+##### Artikel 4.3.8. Subsidiabele kosten
 
 1. De subsidie wordt verleend op basis van een door de subsidieaanvrager ingediende ontwerpbegroting als bedoeld in artikel 53, derde lid, aanhef en onderdeel b, van de GB-verordening.
 
@@ -3552,7 +3578,7 @@ De Minister van SZW verstrekt op aanvraag subsidie ten behoeve van een of meer s
 
 - 2°. de te subsidiëren opleiding kan worden aangemerkt als een onderwijssoort als bedoeld in de [artikelen 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.9) of [2.10 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.10).
 
-#### Artikel 4.3.9. Beoordelingscriteria
+##### Artikel 4.3.9. Beoordelingscriteria
 
 1. Gelet op [artikel 1.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-03-01&g=2026-03-01), wordt een project uitsluitend beoordeeld op de onderdelen a, b, e en f van artikel 1.20, eerste lid.
 
@@ -3566,21 +3592,21 @@ De Minister van SZW verstrekt op aanvraag subsidie ten behoeve van een of meer s
 
 - d. voor de mate waarin het project meer bijdraagt aan duurzame ontwikkeling en aan maatschappelijke-sociale impact: 30 punten.
 
-#### Artikel 4.3.10. Voorschot
+##### Artikel 4.3.10. Voorschot
 
 1. De Minister van SZW verleent op basis van een gemotiveerde aanvraag een voorschot als werkkapitaal op het moment van beschikken van de subsidie van maximaal 30 procent van de subsidie.
 
 2. In aanvulling op [artikel 1.31, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.31&z=2026-03-01&g=2026-03-01), bevat de aanvraag voor een voorschot bewijsstukken waaruit blijkt hoeveel scholings- of voorschakeltrajecten met een door het opleidingsinstituut afgegeven scholingsvoucher zijn afgerond.
 
-#### Artikel 4.3.11. Aanvraag vaststelling subsidie
+##### Artikel 4.3.11. Aanvraag vaststelling subsidie
 
 In aanvulling op [artikel 1.32, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.32&z=2026-03-01&g=2026-03-01), bevat de aanvraag tot subsidievaststelling bewijsstukken waaruit blijkt hoeveel scholings- of voorschakeltrajecten met een door het opleidingsinstituut afgegeven scholingsvoucher zijn afgerond.
 
-#### Artikel 4.3.12. Staatssteun
+##### Artikel 4.3.12. Staatssteun
 
 Een scholingsvoucher bevat staatsteun en wordt gerechtvaardigd door artikel 31 van de Algemene groepsvrijstellingsverordening.
 
-#### Artikel 4.3.13. Vervaltermijn
+##### Artikel 4.3.13. Vervaltermijn
 
 Deze titel vervalt met ingang van 1 januari 2027, met dien verstande dat deze titel van toepassing blijft op subsidies die voor deze datum zijn aangevraagd.
 
@@ -3588,7 +3614,7 @@ Deze titel vervalt met ingang van 1 januari 2027, met dien verstande dat deze ti
 
 ## Titel 5.1. Subsidietitel voor steun onder Spoor 1 uit het Territorial Just Transition Plan voor de regio West-Noord-Brabant
 
-#### Artikel 5.1.14. Vervaltermijn
+##### Artikel 5.1.14. Vervaltermijn
 
 Deze titel vervalt met ingang van 31 december 2027, met dien verstande dat deze van toepassing blijft op subsidieaanvragen die voor deze datum zijn ingediend.
 
@@ -3602,7 +3628,7 @@ Deze titel vervalt met ingang van 31 december 2027, met dien verstande dat deze 
 
 ## Titel 2.16. Een nieuwe, groene economie met marktgedreven onderzoeks- en investeringsprojecten
 
-#### Artikel 6.2.7a. Niet- subsidiabele kosten
+##### Artikel 6.2.7a. Niet- subsidiabele kosten
 
 Onverminderd [artikel 1.15](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.15&z=2026-03-01&g=2026-03-01) en in afwijking van [artikel 1.11, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.11&z=2026-03-01&g=2026-03-01), komen loonverletkosten niet voor subsidie in aanmerking.
 
@@ -3614,7 +3640,7 @@ Onverminderd [artikel 1.15](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 ## Titel 3.3. Scholingsvouchers
 
-#### Artikel 7.2.14. Vervaltermijn
+##### Artikel 7.2.14. Vervaltermijn
 
 Deze titel vervalt met ingang van 31 december 2027, met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn aangevraagd.
 
@@ -3630,7 +3656,7 @@ Deze titel vervalt met ingang van 31 december 2027, met dien verstande dat deze 
 
 #### Paragraaf 9.2.1. EZK-cofinanciering JTF-regio Groningen-Emmen
 
-#### Artikel 9.2.1.3. EZK-cofinanciering Steun voor middelgrote valorisatieprojecten die aansluiten bij de transities uit de RIS3 2021–2027
+##### Artikel 9.2.1.3. EZK-cofinanciering Steun voor middelgrote valorisatieprojecten die aansluiten bij de transities uit de RIS3 2021–2027
 
 1. De Minister van EZK verstrekt subsidie voor activiteiten als bedoeld in [artikel 2.7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=2&titeldeel=2.7&artikel=2.7.4&z=2026-03-01&g=2026-03-01).
 
@@ -3706,7 +3732,7 @@ De openstelling voor spoor 1 en 2 richt zich primair op experimentele projecten,
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 7.1.13*. Vervaltermijn
+##### Artikel 7.1.13*. Vervaltermijn
 
 Deze titel vervalt met ingang van 31 december 2023, met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn aangevraagd.
 
@@ -3800,7 +3826,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ## Titel 7.1. Subsidietitel voor steun onder spoor 1 uit het Territoriaal Just Transition Plan voor de regio Zuid-Limburg
 
-#### Artikel 7.1.13*. Vervaltermijn
+##### Artikel 7.1.13*. Vervaltermijn
 
 Deze titel vervalt met ingang van 31 december 2023, met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn aangevraagd.
 
@@ -3816,7 +3842,7 @@ Deze titel vervalt met ingang van 31 december 2023, met dien verstande dat deze 
 
 ## Titel 4.2. Regionale Subsidies voor Spoor 3 uit het Territorial Just Transition Plan voor de regio Rijnmond
 
-#### Artikel 9.2.5.2. EZK-Cofinanciering Subsidietitel voor steun onder spoor 1, 2 en 3 uit het Territoriaal Just Transition Plan voor de regio Zeeuws-Vlaanderen/Vlissingen-Oost
+##### Artikel 9.2.5.2. EZK-Cofinanciering Subsidietitel voor steun onder spoor 1, 2 en 3 uit het Territoriaal Just Transition Plan voor de regio Zeeuws-Vlaanderen/Vlissingen-Oost
 
 1. De Minister van EZK verstrekt subsidie voor activiteiten als bedoeld in [artikel 6.4.4, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=6&titeldeel=6.4&artikel=6.4.4&z=2026-03-01&g=2026-03-01), en activiteiten als bedoeld in artikel 6.4.4, tweede lid.
 
@@ -3858,7 +3884,7 @@ Voorstellen moeten passen binnen het Rotterdams Klimaatakkoord [Home :: Rotterda
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2.8.1. Begripsomschrijvingen
+##### Artikel 2.8.1. Begripsomschrijvingen
 
 In deze titel wordt verstaan onder:
 
@@ -3868,11 +3894,11 @@ In deze titel wordt verstaan onder:
 
 - –. **TJTP:** Territorial Just Transition Plan, het territoriaal plan voor een rechtvaardige transitie voor JTF-regio Groningen-Emmen 2021–2027, opgenomen in de bijlage bij het nationaal JTF-programma 2021–2027.
 
-#### Artikel 2.8.2. Doel subsidie
+##### Artikel 2.8.2. Doel subsidie
 
 Doel van subsidie op basis van deze titel is transformatie en diversificatie van de regionale economie en arbeidsmarkt conform het TJTP. Deze transformatie wordt gerealiseerd in de vorm van steun aan een strategisch project en de daarbij behorende scholing van nieuw of bestaand personeel in het werken binnen en met de te realiseren investeringen.
 
-#### Artikel 2.8.3. Doelgroep
+##### Artikel 2.8.3. Doelgroep
 
 De Minister van SZW verstrekt op aanvraag subsidie voor een strategisch project aan:
 
@@ -3882,7 +3908,7 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een strategisch project 
 
 - c. een partij in een samenwerkingsverband van natuurlijke- of rechtspersonen.
 
-#### Artikel 2.8.4. Subsidiabele activiteiten
+##### Artikel 2.8.4. Subsidiabele activiteiten
 
 1. Subsidie op basis van deze titel kan worden verstrekt voor:
 
@@ -3896,7 +3922,7 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een strategisch project 
 
 2. In aanvulling op het eerste lid kan subsidie worden verstrekt voor her-, om- of bijscholing en training van bestaand en nieuw personeel direct verbonden aan de uitvoering van het strategisch project en het gebruiken onderscheidenlijk bedienen van de investeringen in het project.
 
-#### Artikel 2.8.5. Subsidieplafond en wijze van verdeling
+##### Artikel 2.8.5. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt € 25.000.000.
 
@@ -3904,7 +3930,7 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een strategisch project 
 
 3. De Minister van SZW verdeelt het beschikbare bedrag op volgorde van ontvangst van de aanvragen, overeenkomstig [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.18&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 2.8.6. Aanvraag en preadvies
+##### Artikel 2.8.6. Aanvraag en preadvies
 
 1. Een aanvraag kan worden ingediend in de periode vanaf 20 oktober 2023 9.00 uur tot en met 31 oktober 2024 17.00 uur.
 
@@ -3918,7 +3944,7 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een strategisch project 
 
 6. Het preadvies wordt aangevraagd door middel van het format dat beschikbaar is in het [www.jtf-webportal.nl/mijn/](http://www.jtf-webportal.nl/mijn/) of via [www.snn.nl](http://www.snn.nl).
 
-#### Artikel 2.8.7. Hoogte subsidie
+##### Artikel 2.8.7. Hoogte subsidie
 
 1. De subsidie bedraagt maximaal 50 procent van de subsidiabele kosten.
 
@@ -3930,7 +3956,7 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een strategisch project 
 
 5. Het in het vierde lid genoemde bedrag is exclusief kosten van her-, bij- en omscholing en kan worden opgehoogd met kosten van her-, bij- en omscholing als bedoeld in [artikel 2.8.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=2&titeldeel=2.8&artikel=2.8.4&z=2026-03-01&g=2026-03-01), met een subsidiebedrag van maximaal € 1.000.000 per project.
 
-#### Artikel 2.8.8. Subsidiabele kosten
+##### Artikel 2.8.8. Subsidiabele kosten
 
 1. In afwijking van [artikel 1.11, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.11&z=2026-03-01&g=2026-03-01), komen kosten van investeringen alleen voor subsidie in aanmerking, voor zover deze:
 
@@ -3960,7 +3986,7 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een strategisch project 
 
 - f. kosten van training en opleiding waarvoor verplichtingen zijn aangegaan voor ontvangst van de aanvraag.
 
-#### Artikel 2.8.9. Starttermijn en looptijd
+##### Artikel 2.8.9. Starttermijn en looptijd
 
 1. Met de uitvoering van de op grond van deze [titel](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=2&titeldeel=2.8&z=2026-03-01&g=2026-03-01) gesubsidieerde projecten wordt gestart binnen zes maanden na dagtekening van de verleningsbeschikking.
 
@@ -3972,7 +3998,7 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een strategisch project 
 
 5. Op verzoek van de subsidieontvanger kan de Minister van SZW de termijn, bedoeld in het eerste, tweede, derde of vierde lid verlengen.
 
-#### Artikel 2.8.10. Afwijzingsgronden
+##### Artikel 2.8.10. Afwijzingsgronden
 
 Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.25&z=2026-03-01&g=2026-03-01) beslist de Minister van SZW afwijzend op een aanvraag, indien:
 
@@ -3986,7 +4012,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - e. bij aanvragen als bedoeld in artikel 2.8.4, eerste lid, onderdeel b, de subsidiabele kosten minder dan € 20.000.000 bedragen.
 
-#### Artikel 2.8.11. Beoordelingscriteria
+##### Artikel 2.8.11. Beoordelingscriteria
 
 1. Gelet op [artikel 1.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-03-01&g=2026-03-01), wordt een project als bedoeld in [artikel 2.8.4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=2&titeldeel=2.8&artikel=2.8.4&z=2026-03-01&g=2026-03-01), uitsluitend beoordeeld op de onderdelen a, b, d, e en f van artikel 1.20, eerste lid.
 
@@ -4006,7 +4032,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - e. de mate waarin het project meer bijdraagt aan duurzame ontwikkeling en aan maatschappelijke-sociale impact: 15 punten.
 
-#### Artikel 2.8.12. Voorschot
+##### Artikel 2.8.12. Voorschot
 
 1. De Minister van SZW verleent op aanvraag vooruitlopend op het starten van de projectactiviteiten een voorschot van 10 procent van de verleende subsidie.
 
@@ -4022,7 +4048,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - c. het niet toekennen van het voorschot onredelijke gevolgen voor de liquiditeitspositie van de aanvragende onderneming of van één of meer leden van het consortium heeft.
 
-#### Artikel 2.8.13. Subsidieaanvraag
+##### Artikel 2.8.13. Subsidieaanvraag
 
 In aanvulling op [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.22&z=2026-03-01&g=2026-03-01) bevat een aanvraag voor subsidie ten minste:
 
@@ -4032,17 +4058,17 @@ In aanvulling op [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&
 
 - c. het preadvies van de deskundigencommissie.
 
-#### Artikel 2.8.14. Staatssteun
+##### Artikel 2.8.14. Staatssteun
 
 De subsidie bevat staatssteun en wordt gerechtvaardigd door de in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.4&z=2026-03-01&g=2026-03-01) opgenomen artikelen uit de Algemene groepsvrijstellingsverordening.
 
-#### Artikel 2.8.15. Vervaltermijn
+##### Artikel 2.8.15. Vervaltermijn
 
 Deze titel en [artikel 9.2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=9&titeldeel=9.2&paragraaf=9.2.1&artikel=9.2.1.4&z=2026-03-01&g=2026-03-01) vervallen met ingang van 1 januari 2027, met dien verstande dat deze van toepassing blijven op subsidies die voor deze datum zijn aangevraagd.
 
 ## Titel 2.9. Steun aan arbeidsmarkttransitie 2.0
 
-#### Artikel 2.9.1. Begripsbepalingen
+##### Artikel 2.9.1. Begripsbepalingen
 
 In deze titel wordt verstaan onder:
 
@@ -4052,7 +4078,7 @@ In deze titel wordt verstaan onder:
 
 - –. **werkingsgebied:** de JTF-regio Groningen-Emmen, zoals bedoeld in [artikel 1.7, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.7&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 2.9.2. Doel subsidie
+##### Artikel 2.9.2. Doel subsidie
 
 1. Het doel van de subsidie op grond van deze titel is om het TJTP uit te voeren ten aanzien van de arbeidsmarktontwikkelingen die nodig zijn voor de verschillende transities.
 
@@ -4060,7 +4086,7 @@ In deze titel wordt verstaan onder:
 
 3. Projecten dragen ertoe bij dat de aankomende en huidige beroepsbevolking beschikt over de juiste digitale, sociale en technische vaardigheden om de transformatie van de economie en de klimaattransitie mogelijk te maken.
 
-#### Artikel 2.9.3. Doelgroep
+##### Artikel 2.9.3. Doelgroep
 
 De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
@@ -4070,7 +4096,7 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
 - c. een partij in een samenwerkingsverband van natuurlijke- of rechtspersonen.
 
-#### Artikel 2.9.4. Subsidiabele activiteiten
+##### Artikel 2.9.4. Subsidiabele activiteiten
 
 1. Subsidie op grond van deze titel kan worden verstrekt voor activiteiten die:
 
@@ -4090,23 +4116,23 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
 3. Projecten worden uitgevoerd in het werkingsgebied of de resultaten leiden voor deelnemers in het werkingsgebied tot het duurzaam behouden of verkrijgen van betaald werk dan wel het versterken van een duurzame arbeidspositie.
 
-#### Artikel 2.9.5. Subsidieplafond en wijze van verdeling
+##### Artikel 2.9.5. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt € 28.500.000.
 
 2. De Minister van SZW verdeelt het beschikbare bedrag op volgorde van ontvangst van de aanvragen, overeenkomstig [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.18&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 2.9.6. Aanvraagperiode
+##### Artikel 2.9.6. Aanvraagperiode
 
 Een aanvraag kan worden ingediend in de periode vanaf 9 oktober 2023 9.00 uur tot en met 12 juni 2026 17.00 uur.
 
-#### Artikel 2.9.7. Hoogte subsidie
+##### Artikel 2.9.7. Hoogte subsidie
 
 1. De subsidie bedraagt maximaal 50 procent van de subsidiabele kosten.
 
 2. De subsidie bedraagt ten hoogste € 5.000.000 per project.
 
-#### Artikel 2.9.8. Subsidiabele kosten
+##### Artikel 2.9.8. Subsidiabele kosten
 
 Onverminderd [artikel 1.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.11&z=2026-03-01&g=2026-03-01), komen voorbereidingskosten als subsidiabele kosten in aanmerking, indien deze kosten:
 
@@ -4120,7 +4146,7 @@ Onverminderd [artikel 1.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - e. niet strijdig zijn met artikel 6 van de Algemene groepsvrijstellingsverordening.
 
-#### Artikel 2.9.9. Starttermijn en looptijd
+##### Artikel 2.9.9. Starttermijn en looptijd
 
 1. Met de uitvoering van de op grond van deze [titel](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=2&titeldeel=2.9&z=2026-03-01&g=2026-03-01) gesubsidieerde projecten wordt gestart binnen zes maanden na dagtekening van de verleningsbeschikking.
 
@@ -4132,7 +4158,7 @@ Onverminderd [artikel 1.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 5. Op verzoek van de subsidieontvanger kan de Minister van SZW de termijn, bedoeld in het eerste, tweede, derde of vierde lid verlengen.
 
-#### Artikel 2.9.10. Afwijzingsgronden
+##### Artikel 2.9.10. Afwijzingsgronden
 
 Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.25&z=2026-03-01&g=2026-03-01) beslist de Minister van SZW afwijzend op een aanvraag, indien:
 
@@ -4146,7 +4172,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - e. de vergunningen niet uiterlijk binnen vijf maanden na verlening van de subsidie zijn verkregen.
 
-#### Artikel 2.9.11. Beoordelingscriteria
+##### Artikel 2.9.11. Beoordelingscriteria
 
 1. Gelet op [artikel 1.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-03-01&g=2026-03-01), wordt een project uitsluitend beoordeeld op de onderdelen a, b, e en f van het eerste lid van dat artikel.
 
@@ -4160,7 +4186,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - d. voor de mate waarin het project bijdraagt aan duurzame ontwikkeling en aan maatschappelijke-sociale impact: 15 punten.
 
-#### Artikel 2.9.12. Voorschot
+##### Artikel 2.9.12. Voorschot
 
 1. De Minister van SZW verleent op aanvraag, vooruitlopend op te maken kosten als bedoeld in [artikel 1.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.30&z=2026-03-01&g=2026-03-01), een voorschot van 20 procent van de verleende subsidie met een maximum van € 500.000.
 
@@ -4170,7 +4196,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 4. In afwijking van [artikel 1.31, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.31&z=2026-03-01&g=2026-03-01), bedragen de voorschotten in totaal maximaal 80 procent van het verleende subsidiebedrag.
 
-#### Artikel 2.9.13. Subsidieaanvraag
+##### Artikel 2.9.13. Subsidieaanvraag
 
 1. Onverminderd [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.22&z=2026-03-01&g=2026-03-01) bevat een aanvraag voor subsidie ten minste:
 
@@ -4180,11 +4206,11 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 2. De aanvraag wordt ingediend bij het SNN via de link [https://www.jtf-webportal.nl/mijn/](https://www.jtf-webportal.nl/mijn/) of via [www.snn.nl](http://www.snn.nl).
 
-#### Artikel 2.9.14. Staatssteun
+##### Artikel 2.9.14. Staatssteun
 
 De subsidie bevat staatssteun en wordt gerechtvaardigd door de in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.4&z=2026-03-01&g=2026-03-01) opgenomen artikelen uit de Algemene groepsvrijstellingsverordening.
 
-#### Artikel 2.9.15. Vervaltermijn
+##### Artikel 2.9.15. Vervaltermijn
 
 Deze titel vervalt met ingang van 31 december 2027, met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn aangevraagd.
 
@@ -4218,13 +4244,13 @@ Deze titel vervalt met ingang van 31 december 2027, met dien verstande dat deze 
 
 ## Titel 6.4. Subsidietitel voor steun onder spoor 1, 2 en 3 uit het Territoriaal Just Transition Plan voor de regio Zeeuws-Vlaanderen/Vlissingen-Oost
 
-#### Artikel 6.4.1. Begripsbepalingen
+##### Artikel 6.4.1. Begripsbepalingen
 
 In deze titel wordt verstaan onder:
 
 - –. **TJTP Zeeuws-Vlaanderen/Vlissingen-Oost:** regionaal territoriaal plan voor een rechtvaardige transitie als bedoeld in artikel 11 van de JTF-verordening voor de regio Zeeuws-Vlaanderen met de titel Territoriaal Just Transition plan van de COROP regio Zeeuws-Vlaanderen en de relevant aanpalende zone van Vlissingen-Oost.
 
-#### Artikel 6.4.2. Doel subsidie
+##### Artikel 6.4.2. Doel subsidie
 
 1. Doel van subsidie op basis van deze titel is uitvoering te geven aan spoor 1, 2 en 3 van het TJTP Zeeuws-Vlaanderen/Vlissingen-Oost.
 
@@ -4236,7 +4262,7 @@ In deze titel wordt verstaan onder:
 
 - c. ondersteuning van een wendbare en weerbare beroepsbevolking ten behoeve van een toekomstbestendige arbeidsmarkt.
 
-#### Artikel 6.4.3. Doelgroep
+##### Artikel 6.4.3. Doelgroep
 
 De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
@@ -4246,7 +4272,7 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
 - c. een penvoerder namens de afzonderlijke partijen in een samenwerkingsverband als bedoeld in [artikel 1.4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.4&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 6.4.4. Subsidiabele activiteiten
+##### Artikel 6.4.4. Subsidiabele activiteiten
 
 1. Subsidie op basis van deze titel kan worden verstrekt voor een of meer van de volgende acties:
 
@@ -4264,7 +4290,7 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
 2. De activiteiten, bedoeld in het eerste lid, worden verricht in of ten behoeve van het werkingsgebied Zeeuws-Vlaanderen en de relevant aanpalende zone Vlissingen-Oost.
 
-#### Artikel 6.4.5. Subsidieplafond en wijze van verdeling
+##### Artikel 6.4.5. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt ten minste € 3.698.070 en kan worden verhoogd met onbenut budget dat resteert uit het budget uit dit artikel voor de aanvraagperiode die sloot op 28 mei 2025.
 
@@ -4274,23 +4300,23 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
 4. De Minister van SZW maakt verschuivingen van het beschikbare budget uiterlijk bekend op 31 juli 2026.
 
-#### Artikel 6.4.6. Aanvraagperiode
+##### Artikel 6.4.6. Aanvraagperiode
 
 1. Een aanvraag kan worden ingediend van 16 juni 2025 10.00 uur tot en met 15 juni 2026 17.00 uur.
 
 2. Aanvragen worden online ingediend door middel van het door de Minister van SZW vastgestelde aanvraagformulier dat beschikbaar is via [https://www.jtf-webportal.nl/mijn/](https://www.jtf-webportal.nl/mijn/).
 
-#### Artikel 6.4.7. Hoogte van de subsidie
+##### Artikel 6.4.7. Hoogte van de subsidie
 
 1. De subsidie bedraagt maximaal 50 procent van de subsidiabele kosten.
 
 2. Onverminderd het eerste lid, wordt maximaal een zodanig percentage aan subsidie verstrekt dat het totale percentage aan subsidie op grond van deze titel en, indien van toepassing, [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=9&z=2026-03-01&g=2026-03-01) samen niet meer bedraagt dan 50 procent.
 
-#### Artikel 6.4.8. Niet- subsidiabele kosten
+##### Artikel 6.4.8. Niet- subsidiabele kosten
 
 In afwijking van [artikel 1.11, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.11&z=2026-03-01&g=2026-03-01), komen loonverletkosten niet voor subsidie in aanmerking.
 
-#### Artikel 6.4.9. Starttermijn en looptijd
+##### Artikel 6.4.9. Starttermijn en looptijd
 
 1. Met de uitvoering van de op grond van deze titel gesubsidieerde projecten wordt gestart binnen drie maanden na de subsidieverlening.
 
@@ -4300,7 +4326,7 @@ In afwijking van [artikel 1.11, eerste lid, onderdeel b](https://wetten.overheid
 
 4. Op verzoek van de subsidieontvanger kan de Minister van SZW de termijn, bedoeld in het eerste, tweede of derde lid, verlengen.
 
-#### Artikel 6.4.10. Afwijzingsgronden
+##### Artikel 6.4.10. Afwijzingsgronden
 
 Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.25&z=2026-03-01&g=2026-03-01) beslist de Minister van SZW afwijzend op een aanvraag, indien:
 
@@ -4314,7 +4340,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - 3°. € 200.000 voor subsidiabele activiteiten als bedoeld in [artikel 6.4.4, eerste lid, onderdelen d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=6&titeldeel=6.4&artikel=6.4.4&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 6.4.10*. Beoordelingscriteria
+##### Artikel 6.4.10*. Beoordelingscriteria
 
 Gelet op [artikel 1.20, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2023-10-03&g=2023-10-03), kent de Minister van SZW per onderdeel ten hoogste de volgende hoeveelheid punten toe:
 
@@ -4330,7 +4356,7 @@ Gelet op [artikel 1.20, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c
 
 - f. voor de mate waarin het project bijdraagt aan duurzame ontwikkeling en aan maatschappelijke-sociale impact: 20 punten.
 
-#### Artikel 6.4.11. Voorschot
+##### Artikel 6.4.11. Voorschot
 
 1. De Minister van SZW kan op aanvraag een voorschot verlenen vooruitlopend op te maken kosten als bedoeld in [artikel 1.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.30&z=2026-03-01&g=2026-03-01).
 
@@ -4344,7 +4370,7 @@ Gelet op [artikel 1.20, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c
 
 - b. 95 procent van de verleende subsidie, bij een verleende subsidie van minimaal € 5.000.000.
 
-#### Artikel 6.4.12. Subsidieaanvraag
+##### Artikel 6.4.12. Subsidieaanvraag
 
 Onverminderd [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.22&z=2026-03-01&g=2026-03-01) bevat een aanvraag voor subsidie ten minste:
 
@@ -4352,7 +4378,7 @@ Onverminderd [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - b. de bij het aanvraagformulier behorende documenten als bijlagen.
 
-#### Artikel 6.4.13. Vervaltermijn
+##### Artikel 6.4.13. Vervaltermijn
 
 Deze titel vervalt met ingang van 31 december 2026, met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn aangevraagd.
 
@@ -4360,7 +4386,7 @@ Deze titel vervalt met ingang van 31 december 2026, met dien verstande dat deze 
 
 ## Titel 5.1. Subsidietitel voor steun onder Spoor 1 uit het Territorial Just Transition Plan voor de regio West-Noord-Brabant
 
-#### Artikel 7.1.13*. Vervaltermijn
+##### Artikel 7.1.13*. Vervaltermijn
 
 Deze titel vervalt met ingang van 31 december 2023, met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn aangevraagd.
 
@@ -4450,7 +4476,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ## Titel 2.12. Steun aan subsidie-instrumenten voor bevordering digitalisering en robotisering
 
-#### Artikel 2.12.1. Begripsbepalingen
+##### Artikel 2.12.1. Begripsbepalingen
 
 In deze titel wordt verstaan onder:
 
@@ -4458,39 +4484,39 @@ In deze titel wordt verstaan onder:
 
 - –. **Operationeel programma JTF Groningen-Emmen:** prioriteit 1, Groningen-Emmen van het door de Europese Commissie goedgekeurde Programma JTF 2021–2027.
 
-#### Artikel 2.12.2. Doel subsidie
+##### Artikel 2.12.2. Doel subsidie
 
 1. Het doel van de subsidie op grond van deze titel is om het TJTP en het Operationeel programma JTF Groningen-Emmen uit te voeren ten aanzien van een subsidie-instrument dat nodig is voor de digitale transitie en robotisering van de productieomgeving van het MKB in de JTF-regio Groningen-Emmen.
 
 2. Projecten waaraan op basis van deze titel subsidie wordt verleend, leiden tot extra investeringen in digitalisering en robotisering door het MKB in de JTF-regio Groningen-Emmen.
 
-#### Artikel 2.12.3. Doelgroep
+##### Artikel 2.12.3. Doelgroep
 
 De Minister van SZW verstrekt op aanvraag subsidie aan bestuursorganen voor een project.
 
-#### Artikel 2.12.4. Subsidiabele activiteiten
+##### Artikel 2.12.4. Subsidiabele activiteiten
 
 Subsidie op grond van deze titel kan worden verstrekt voor het opzetten en uitvoeren van een stimuleringsregeling ten behoeve van digitalisering en robotisering van de productieomgeving van het MKB in de JTF-regio Groningen-Emmen.
 
-#### Artikel 2.12.5. Subsidieplafond en wijze van verdeling
+##### Artikel 2.12.5. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt € 10.000.000.
 
 2. De Minister van SZW verdeelt het beschikbare bedrag op volgorde van ontvangst van de aanvragen, overeenkomstig [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.18&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 2.12.6. Aanvraagperiode
+##### Artikel 2.12.6. Aanvraagperiode
 
 1. Een aanvraag kan worden ingediend in de periode vanaf 16 januari 2024 09.00 uur tot en met 16 februari 2024 17.00 uur.
 
 2. Aanvragen worden ingediend door middel van het door de Minister van SZW vastgestelde aanvraagformulier dat beschikbaar is in het [www.jtf-webportal.nl/mijn/](http://www.jtf-webportal.nl/mijn/) of via [www.snn.nl](http://www.snn.nl).
 
-#### Artikel 2.12.7. Hoogte van de subsidie
+##### Artikel 2.12.7. Hoogte van de subsidie
 
 1. De subsidie bedraagt maximaal 55 procent van de subsidiabele kosten.
 
 2. De subsidie bedraagt ten hoogste € 10.000.000 per project.
 
-#### Artikel 2.12.8. Starttermijn en looptijd
+##### Artikel 2.12.8. Starttermijn en looptijd
 
 1. Met de uitvoering van de op grond van deze titel gesubsidieerde projecten wordt gestart binnen drie maanden na dagtekening van de verleningsbeschikking.
 
@@ -4498,7 +4524,7 @@ Subsidie op grond van deze titel kan worden verstrekt voor het opzetten en uitvo
 
 3. Op verzoek van de subsidieontvanger kan de Minister van SZW de termijn, bedoeld in het eerste en tweede lid, verlengen.
 
-#### Artikel 2.12.9. Afwijzingsgronden
+##### Artikel 2.12.9. Afwijzingsgronden
 
 Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.25&z=2026-03-01&g=2026-03-01) beslist de Minister van SZW afwijzend op een aanvraag, indien:
 
@@ -4510,7 +4536,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - d. niet aannemelijk is dat alle projectactiviteiten van het project uiterlijk 1 januari 2029 volledig ten uitvoer kunnen zijn gebracht.
 
-#### Artikel 2.12.10. Beoordelingscriteria
+##### Artikel 2.12.10. Beoordelingscriteria
 
 1. Gelet op [artikel 1.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-03-01&g=2026-03-01), wordt een project uitsluitend beoordeeld op de onderdelen a, c, e en f van het eerste lid van dat artikel.
 
@@ -4524,7 +4550,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - d. voor criterium f maximaal 15 punten.
 
-#### Artikel 2.12.11. Voorschot
+##### Artikel 2.12.11. Voorschot
 
 1. De Minister van SZW verleent op aanvraag vooruitlopend op het starten van de projectactiviteiten een voorschot van 20 procent van de verleende subsidie.
 
@@ -4542,7 +4568,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - c. het niet toekennen van het voorschot onredelijke gevolgen voor de liquiditeitspositie van de subsidieaanvrager heeft.
 
-#### Artikel 2.12.12. Subsidieaanvraag
+##### Artikel 2.12.12. Subsidieaanvraag
 
 Onverminderd [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.22&z=2026-03-01&g=2026-03-01) bevat een aanvraag voor subsidie ten minste:
 
@@ -4550,7 +4576,7 @@ Onverminderd [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - b. de bij het aanvraagformulier behorende documenten als bijlagen.
 
-#### Artikel 2.12.13. Staatssteun
+##### Artikel 2.12.13. Staatssteun
 
 De subsidie bevat staatssteun en wordt gerechtvaardigd door:
 
@@ -4558,13 +4584,13 @@ De subsidie bevat staatssteun en wordt gerechtvaardigd door:
 
 - b. de de-minimisverordening.
 
-#### Artikel 2.12.14. Vervaltermijn
+##### Artikel 2.12.14. Vervaltermijn
 
 Deze titel vervalt met ingang van 1 januari 2027, met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn aangevraagd.
 
 ## Titel 2.13. Steun aan subsidie-instrumenten voor bevordering toekomstgericht en strategisch personeelsbeleid
 
-#### Artikel 2.13.1. Begripsbepalingen
+##### Artikel 2.13.1. Begripsbepalingen
 
 In deze titel wordt verstaan onder:
 
@@ -4572,39 +4598,39 @@ In deze titel wordt verstaan onder:
 
 - –. **Operationeel programma JTF Groningen-Emmen:** prioriteit 3, Groningen-Emmen van het door de Europese Commissie goedgekeurde Programma JTF 2021–2027.
 
-#### Artikel 2.13.2. Doel subsidie
+##### Artikel 2.13.2. Doel subsidie
 
 1. Het doel van de subsidie op grond van deze titel is om het TJTP en het Operationeel programma JTF Groningen-Emmen uit te voeren ten aanzien van een subsidie-instrument dat nodig is voor toekomstgericht en strategisch personeelsbeleid van het MKB in de JTF-regio Groningen-Emmen.
 
 2. Projecten waaraan op basis van deze titel subsidie wordt verleend leiden tot een toekomstgericht en strategisch personeelsbeleid van het MKB in de JTF-regio Groningen-Emmen.
 
-#### Artikel 2.13.3. Doelgroep
+##### Artikel 2.13.3. Doelgroep
 
 De Minister van SZW verstrekt op aanvraag subsidie aan bestuursorganen voor een project.
 
-#### Artikel 2.13.4. Subsidiabele activiteiten
+##### Artikel 2.13.4. Subsidiabele activiteiten
 
 Subsidie op grond van deze titel kan worden verstrekt voor het opzetten en uitvoeren van een stimuleringsregeling ten behoeve van toekomstgericht strategisch personeelsbeleid van het MKB in de JTF-regio Groningen-Emmen.
 
-#### Artikel 2.13.5. Subsidieplafond en wijze van verdeling
+##### Artikel 2.13.5. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt € 5.000.000.
 
 2. De Minister van SZW verdeelt het beschikbare bedrag op volgorde van ontvangst van de aanvragen, overeenkomstig [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.18&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 2.13.6. Aanvraagperiode
+##### Artikel 2.13.6. Aanvraagperiode
 
 1. Een aanvraag kan worden ingediend in de periode vanaf 16 januari 2024 09.00 uur tot en met 16 februari 2024 17.00 uur.
 
 2. Aanvragen worden ingediend door middel van het door de Minister van SZW vastgestelde aanvraagformulier dat beschikbaar is in het [www.jtf-webportal.nl/mijn/](http://www.jtf-webportal.nl/mijn/) of via [www.snn.nl](http://www.snn.nl).
 
-#### Artikel 2.13.7. Hoogte van de subsidie
+##### Artikel 2.13.7. Hoogte van de subsidie
 
 1. De subsidie bedraagt maximaal 55 procent van de subsidiabele kosten.
 
 2. De subsidie bedraagt ten hoogste € 5.000.000 per project.
 
-#### Artikel 2.13.8. Starttermijn en looptijd
+##### Artikel 2.13.8. Starttermijn en looptijd
 
 1. Met de uitvoering van de op grond van deze titel gesubsidieerde projecten wordt gestart binnen drie maanden na dagtekening van de verleningsbeschikking.
 
@@ -4612,7 +4638,7 @@ Subsidie op grond van deze titel kan worden verstrekt voor het opzetten en uitvo
 
 3. Op verzoek van de subsidieontvanger kan de Minister van SZW de termijn, bedoeld in het eerste en tweede lid, verlengen.
 
-#### Artikel 2.13.9. Afwijzingsgronden
+##### Artikel 2.13.9. Afwijzingsgronden
 
 Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.25&z=2026-03-01&g=2026-03-01) beslist de Minister van SZW afwijzend op een aanvraag, indien:
 
@@ -4624,7 +4650,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - d. niet aannemelijk is dat alle projectactiviteiten van het project uiterlijk 1 januari 2029 volledig ten uitvoer kunnen zijn gebracht.
 
-#### Artikel 2.13.10. Beoordelingscriteria
+##### Artikel 2.13.10. Beoordelingscriteria
 
 1. Gelet op [artikel 1.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-03-01&g=2026-03-01), wordt een project uitsluitend beoordeeld op de onderdelen a, c, e en f van het eerste lid van dat artikel.
 
@@ -4638,7 +4664,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - d. voor criterium f maximaal 15 punten.
 
-#### Artikel 2.13.11. Voorschot
+##### Artikel 2.13.11. Voorschot
 
 1. De Minister van SZW verleent op aanvraag vooruitlopend op het starten van de projectactiviteiten een voorschot van 20 procent van de verleende subsidie.
 
@@ -4656,7 +4682,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - c. het niet toekennen van het voorschot onredelijke gevolgen voor de liquiditeitspositie van de subsidieaanvrager heeft.
 
-#### Artikel 2.13.12. Subsidieaanvraag
+##### Artikel 2.13.12. Subsidieaanvraag
 
 Onverminderd [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.22&z=2026-03-01&g=2026-03-01) bevat een aanvraag voor subsidie ten minste:
 
@@ -4664,7 +4690,7 @@ Onverminderd [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - b. de bij het aanvraagformulier behorende documenten als bijlagen.
 
-#### Artikel 2.13.13. Staatssteun
+##### Artikel 2.13.13. Staatssteun
 
 De subsidie bevat staatssteun en wordt gerechtvaardigd door:
 
@@ -4672,7 +4698,7 @@ De subsidie bevat staatssteun en wordt gerechtvaardigd door:
 
 - b. de de-minimisverordening.
 
-#### Artikel 2.13.14. Vervaltermijn
+##### Artikel 2.13.14. Vervaltermijn
 
 Deze titel vervalt met ingang van 1 januari 2029, met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn aangevraagd.
 
@@ -4700,13 +4726,13 @@ Deze titel vervalt met ingang van 1 januari 2029, met dien verstande dat deze va
 
 ## Titel 5.3. Subsidietitel voor steun onder Spoor 3 uit het Territorial Just Transition Plan voor de regio West-Noord-Brabant
 
-#### Artikel 5.4.1. Begripsbepalingen
+##### Artikel 5.4.1. Begripsbepalingen
 
 In deze titel wordt verstaan onder:
 
 - –. **TJTP West-Noord-Brabant:** regionaal territoriaal plan voor een rechtvaardige transitie als bedoeld in artikel 11 van de JTF-verordening voor de JTF-regio West-Noord-Brabant met de titel Territorial Just Transition Plan van de COROP-regio West-Noord-Brabant.
 
-#### Artikel 5.4.2. Doel subsidie
+##### Artikel 5.4.2. Doel subsidie
 
 1. Doel van subsidie op basis van deze titel is uitvoering te geven aan spoor 1, 2 en 3 van het TJTP West-Noord-Brabant.
 
@@ -4718,7 +4744,7 @@ In deze titel wordt verstaan onder:
 
 - c. het bereiken van een meer wendbare en weerbare beroepsbevolking.
 
-#### Artikel 5.4.3. Doelgroep
+##### Artikel 5.4.3. Doelgroep
 
 De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
@@ -4728,7 +4754,7 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
 - c. een penvoerder namens de afzonderlijke partijen in een samenwerkingsverband als bedoeld in [artikel 1.4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.4&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 5.4.4. Subsidiabele activiteiten
+##### Artikel 5.4.4. Subsidiabele activiteiten
 
 1. Subsidie op basis van deze titel kan worden verstrekt voor een of meer van de volgende activiteiten:
 
@@ -4802,7 +4828,7 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
 7. De activiteiten, bedoeld in het eerste lid, onderdelen g en h, worden verricht in of ten behoeve van het werkingsgebied West-Noord-Brabant.
 
-#### Artikel 5.4.5. Subsidieplafond en wijze van verdeling
+##### Artikel 5.4.5. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt ten minste € 3.698.070 en kan worden verhoogd met onbenut budget dat resteert uit het budget uit dit artikel voor de aanvraagperiode die sloot op 28 mei 2025.
 
@@ -4810,23 +4836,23 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
 3. De Minister van SZW maakt verschuivingen van het beschikbare budget uiterlijk bekend op 31 juli 2026.
 
-#### Artikel 5.4.6. Aanvraagperiode
+##### Artikel 5.4.6. Aanvraagperiode
 
 1. Een aanvraag kan worden ingediend vanaf 16 juni 2025 10.00 uur tot en met 15 juni 2026 17.00 uur.
 
 2. Aanvragen worden online ingediend door middel van het door de Minister van SZW vastgestelde aanvraagformulier dat beschikbaar is via [https://www.jtf-webportal.nl/mijn/](https://www.jtf-webportal.nl/mijn/).
 
-#### Artikel 5.4.7. Hoogte van de subsidie
+##### Artikel 5.4.7. Hoogte van de subsidie
 
 1. De subsidie bedraagt maximaal 50 procent van de subsidiabele kosten per project.
 
 2. Onverminderd het eerste lid, wordt maximaal een zodanig percentage aan subsidie verstrekt dat het totale percentage aan subsidie op grond van deze titel en, indien van toepassing, [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=9&z=2026-03-01&g=2026-03-01) samen niet meer bedraagt dan 50 procent.
 
-#### Artikel 5.4.8. Niet- subsidiabele kosten
+##### Artikel 5.4.8. Niet- subsidiabele kosten
 
 In afwijking van[artikel 1.11, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.11&z=2026-03-01&g=2026-03-01), komen loonverletkosten niet voor subsidie in aanmerking.
 
-#### Artikel 5.4.9. Starttermijn en looptijd
+##### Artikel 5.4.9. Starttermijn en looptijd
 
 1. Met de uitvoering van de op grond van deze titel gesubsidieerde projecten wordt gestart binnen drie maanden na de subsidieverlening.
 
@@ -4836,7 +4862,7 @@ In afwijking van[artikel 1.11, eerste lid, onderdeel b](https://wetten.overheid.
 
 4. Op verzoek van de subsidieontvanger kan de Minister van SZW de termijn, bedoeld in het eerste, tweede lid of derde lid verlengen.
 
-#### Artikel 5.4.10. Afwijzingsgronden
+##### Artikel 5.4.10. Afwijzingsgronden
 
 Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.25&z=2026-03-01&g=2026-03-01) beslist de Minister van SZW afwijzend op een aanvraag, indien:
 
@@ -4844,7 +4870,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - b. de aan het project te verlenen subsidie minder bedraagt dan € 200.000.
 
-#### Artikel 5.4.11. Beoordelingscriteria
+##### Artikel 5.4.11. Beoordelingscriteria
 
 1. Gelet op [artikel 1.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-03-01&g=2026-03-01), wordt een project uitsluitend beoordeeld op de onderdelen a, b, d, e en f van het eerste lid van dat artikel.
 
@@ -4874,7 +4900,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - f. voor de mate waarin het project bijdraagt aan duurzame ontwikkeling en aan maatschappelijke-sociale impact: 20 punten.
 
-#### Artikel 5.4.12. Voorschot
+##### Artikel 5.4.12. Voorschot
 
 1. De Minister van SZW kan op aanvraag een voorschot verlenen vooruitlopend op te maken kosten als bedoeld in [artikel 1.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.30&z=2026-03-01&g=2026-03-01).
 
@@ -4888,7 +4914,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - b. 95 procent van de verleende subsidie, bij een verleende subsidie van minimaal € 5.000.000.
 
-#### Artikel 5.4.13. Subsidieaanvraag
+##### Artikel 5.4.13. Subsidieaanvraag
 
 Onverminderd [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.22&z=2026-03-01&g=2026-03-01) bevat een aanvraag voor subsidie ten minste:
 
@@ -4896,7 +4922,7 @@ Onverminderd [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - b. de bij het aanvraagformulier behorende documenten als bijlagen.
 
-#### Artikel 5.4.14. Vervaltermijn
+##### Artikel 5.4.14. Vervaltermijn
 
 Deze titel vervalt met ingang van 31 december 2027, met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn aangevraagd.
 
@@ -4908,7 +4934,7 @@ Deze titel vervalt met ingang van 31 december 2027, met dien verstande dat deze 
 
 ## Titel 4.5. Regionale Subsidies voor Spoor 3 uit het Territorial Just Transition Plan voor de regio Groot-Rijnmond
 
-#### Artikel 6.4.10a. Beoordelingscriteria
+##### Artikel 6.4.10a. Beoordelingscriteria
 
 Gelet op [artikel 1.20, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-03-01&g=2026-03-01), kent de Minister van SZW per onderdeel ten hoogste de volgende hoeveelheid punten toe:
 
@@ -4928,7 +4954,7 @@ Gelet op [artikel 1.20, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c
 
 ## Titel 4.5. Regionale Subsidies voor Spoor 3 uit het Territorial Just Transition Plan voor de regio Groot-Rijnmond
 
-#### Artikel 7.1.14. Vervaltermijn
+##### Artikel 7.1.14. Vervaltermijn
 
 Vervallen
 
@@ -4938,13 +4964,13 @@ Vervallen
 
 ## Titel 6.1. Steun onder spoor 1 uit het Territoriaal Just Transition Plan voor de regio Zeeuws-Vlaanderen/Vlissingen-Oost
 
-#### Artikel 7.4.1. Begripsomschrijvingen
+##### Artikel 7.4.1. Begripsomschrijvingen
 
 In deze titel wordt verstaan onder:
 
 - –. **TJTP Zuid-Limburg:** regionaal territoriaal plan voor een rechtvaardige transitie als bedoeld in artikel 11 van de JTF-verordening voor de JTF-regio Zuid-Limburg met de titel Territoriaal Just Transition plan van de COROP regio Zuid-Limburg.
 
-#### Artikel 7.4.2. Doel subsidie
+##### Artikel 7.4.2. Doel subsidie
 
 1. Doel van subsidie op basis van deze titel is uitvoering te geven aan spoor 1, 2 en 3 van het TJTP Zuid-Limburg.
 
@@ -4956,7 +4982,7 @@ In deze titel wordt verstaan onder:
 
 - c. investeren in een wendbare en weerbare beroepsbevolking.
 
-#### Artikel 7.4.3. Doelgroep
+##### Artikel 7.4.3. Doelgroep
 
 1. De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
@@ -4966,7 +4992,7 @@ In deze titel wordt verstaan onder:
 
 - c. een penvoerder namens de afzonderlijke partijen in een samenwerkingsverband als bedoeld in [artikel 1.4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.4&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 7.4.4. Subsidiabele activiteiten
+##### Artikel 7.4.4. Subsidiabele activiteiten
 
 1. Subsidie op basis van deze titel kan worden verstrekt voor een of meer van de volgende acties:
 
@@ -5016,7 +5042,7 @@ In deze titel wordt verstaan onder:
 
 5. De activiteiten, bedoeld in het eerste lid, worden verricht in of ten behoeve van het werkingsgebied Zuid-Limburg.
 
-#### Artikel 7.4.5. Subsidieplafond en wijze van verdeling
+##### Artikel 7.4.5. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt ten minste € 3.698.070 en kan worden verhoogd met onbenut budget dat resteert uit het budget uit dit artikel voor de aanvraagperiode die sloot op 28 mei 2025.
 
@@ -5024,23 +5050,23 @@ In deze titel wordt verstaan onder:
 
 3. De Minister van SZW maakt verschuivingen van het beschikbare budget uiterlijk bekend op 31 juli 2026.
 
-#### Artikel 7.4.6. Aanvraagperiode
+##### Artikel 7.4.6. Aanvraagperiode
 
 1. Een aanvraag kan worden ingediend van 16 juni 2025 10.00 uur tot en met 15 juni 2026 17.00 uur.
 
 2. Aanvragen worden online ingediend door middel van het door de Minister van SZW vastgestelde aanvraagformulier dat beschikbaar is via [https://www.jtf-webportal.nl/mijn/](https://www.jtf-webportal.nl/mijn/).
 
-#### Artikel 7.4.7. Hoogte van de subsidie
+##### Artikel 7.4.7. Hoogte van de subsidie
 
 1. De subsidie bedraagt maximaal 50 procent van de subsidiabele kosten per project.
 
 2. Onverminderd het eerste lid, wordt maximaal een zodanig percentage aan subsidie verstrekt dat het totale percentage aan subsidie op grond van deze titel en, indien van toepassing, [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=9&z=2026-03-01&g=2026-03-01) samen niet meer bedraagt dan 50 procent.
 
-#### Artikel 7.4.8. Niet-subsidiabele kosten
+##### Artikel 7.4.8. Niet-subsidiabele kosten
 
 In afwijking van [artikel 1.11, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.11&z=2026-03-01&g=2026-03-01), komen loonverletkosten niet voor subsidie in aanmerking.
 
-#### Artikel 7.4.9. Starttermijn en looptijd
+##### Artikel 7.4.9. Starttermijn en looptijd
 
 1. Met de uitvoering van de op grond van deze titel gesubsidieerde projecten wordt gestart binnen drie maanden na de subsidieverlening.
 
@@ -5050,7 +5076,7 @@ In afwijking van [artikel 1.11, eerste lid, onderdeel b](https://wetten.overheid
 
 4. Op verzoek van de subsidieontvanger kan de Minister van SZW de termijn, bedoeld in het eerste, tweede of derde lid, verlengen.
 
-#### Artikel 7.4.10. Afwijzingsgronden
+##### Artikel 7.4.10. Afwijzingsgronden
 
 Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.25&z=2026-03-01&g=2026-03-01) beslist de Minister van SZW afwijzend op een aanvraag indien:
 
@@ -5058,7 +5084,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - b. de aan het project te verlenen subsidie minder bedraagt dan € 500.000, met uitzondering van subsidiabele activiteiten als bedoeld in [artikel 7.4.4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=7&titeldeel=7.4&artikel=7.4.4&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 7.4.11. Beoordelingscriteria
+##### Artikel 7.4.11. Beoordelingscriteria
 
 1. Gelet op [artikel 1.20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-03-01&g=2026-03-01), kent de Minister van SZW per onderdeel maximaal de volgende hoeveelheid punten toe:
 
@@ -5086,7 +5112,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - f. voor de mate waarin het project bijdraagt aan duurzame ontwikkeling en aan maatschappelijke-sociale impact: 20 punten.
 
-#### Artikel 7.4.12. Voorschot
+##### Artikel 7.4.12. Voorschot
 
 1. De Minister van SZW kan op aanvraag een voorschot verlenen vooruitlopend op te maken kosten als bedoeld in [artikel 1.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.30&z=2026-03-01&g=2026-03-01).
 
@@ -5098,7 +5124,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - b. 95 procent van de verleende subsidie, bij een verleende subsidie van minimaal € 5.000.000.
 
-#### Artikel 7.4.13. Subsidieaanvraag
+##### Artikel 7.4.13. Subsidieaanvraag
 
 1. Onverminderd [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.22&z=2026-03-01&g=2026-03-01) bevat een aanvraag voor subsidie ten minste:
 
@@ -5106,7 +5132,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - b. de bij het aanvraagformulier behorende documenten als bijlagen.
 
-#### Artikel 7.4.14. Vervaltermijn
+##### Artikel 7.4.14. Vervaltermijn
 
 Deze titel vervalt met ingang van 31 december 2027, met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn aangevraagd.
 
@@ -5188,59 +5214,59 @@ Bij deze openstelling is een integrale benadering ten aanzien van de drie sporen
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2.10.1. Begripsbepalingen
+##### Artikel 2.10.1. Begripsbepalingen
 
 Vervallen
 
-#### Artikel 2.10.2. Doel subsidie
+##### Artikel 2.10.2. Doel subsidie
 
 Vervallen
 
-#### Artikel 2.10.3. Doelgroep
+##### Artikel 2.10.3. Doelgroep
 
 Vervallen
 
-#### Artikel 2.10.4. Subsidiabele activiteiten
+##### Artikel 2.10.4. Subsidiabele activiteiten
 
 Vervallen
 
-#### Artikel 2.10.5. Subsidieplafond en wijze van verdeling
+##### Artikel 2.10.5. Subsidieplafond en wijze van verdeling
 
 Vervallen
 
-#### Artikel 2.10.6. Aanvraagperiode
+##### Artikel 2.10.6. Aanvraagperiode
 
 Vervallen
 
-#### Artikel 2.10.7. Hoogte van de subsidie
+##### Artikel 2.10.7. Hoogte van de subsidie
 
 Vervallen
 
-#### Artikel 2.10.8. Subsidiabele kosten
+##### Artikel 2.10.8. Subsidiabele kosten
 
 Vervallen
 
-#### Artikel 2.10.9. Starttermijn en looptijd
+##### Artikel 2.10.9. Starttermijn en looptijd
 
 Vervallen
 
-#### Artikel 2.10.10. Afwijzingsgronden
+##### Artikel 2.10.10. Afwijzingsgronden
 
 Vervallen
 
-#### Artikel 2.10.11. Beoordelingscriteria
+##### Artikel 2.10.11. Beoordelingscriteria
 
 Vervallen
 
-#### Artikel 2.10.12. Voorschot
+##### Artikel 2.10.12. Voorschot
 
 Vervallen
 
-#### Artikel 2.10.13. Subsidieaanvraag
+##### Artikel 2.10.13. Subsidieaanvraag
 
 Vervallen
 
-#### Artikel 2.10.14. Vervaltermijn
+##### Artikel 2.10.14. Vervaltermijn
 
 Vervallen
 
@@ -5286,7 +5312,7 @@ Vervallen
 
 ## Titel 7.4. Subsidietitel voor steun onder spoor 1, 2 en 3 uit het Territoriaal Just Transition Plan voor de regio Zuid-Limburg
 
-#### Artikel 9.2.1.4. EZK-cofinanciering Strategische groene projecten
+##### Artikel 9.2.1.4. EZK-cofinanciering Strategische groene projecten
 
 1. De Minister van EZK verstrekt subsidie voor activiteiten als bedoeld in [artikel 2.8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=2&titeldeel=2.8&artikel=2.8.4&z=2026-03-01&g=2026-03-01).
 
@@ -5346,7 +5372,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ## Titel 4.4. Regionale Subsidies voor Spoor 1 en 2 uit het Territorial Just Transition Plan voor de regio Groot-Rijnmond
 
-#### Artikel 4.4.1. Begripsomschrijvingen
+##### Artikel 4.4.1. Begripsomschrijvingen
 
 In deze titel wordt verstaan onder:
 
@@ -5358,11 +5384,11 @@ In deze titel wordt verstaan onder:
 
 - –. **waterstof:** waterstof geproduceerd uit hernieuwbare bronnen zoals duurzame elektriciteit via elektrolyse of uit biogrondstoffen.
 
-#### Artikel 4.4.2. Doel subsidie
+##### Artikel 4.4.2. Doel subsidie
 
 Het doel van de subsidie op grond van deze titel is het bevorderen van vernieuwing en versterking van de regionale economie met nieuwe, duurzame of circulaire industriële ketens en versnellen van de transitie met investeringen in technologie, systemen en infrastructuur tot decarbonisatie van bestaande industriële ketens.
 
-#### Artikel 4.4.3. Doelgroep
+##### Artikel 4.4.3. Doelgroep
 
 De Minister van SZW verstrekt op aanvraag subsidie aan een rechtspersoon of samenwerkingsverband voor een project dat:
 
@@ -5372,7 +5398,7 @@ De Minister van SZW verstrekt op aanvraag subsidie aan een rechtspersoon of same
 
 - c. past binnen de kaders van deze regeling.
 
-#### Artikel 4.4.4. Subsidiabele activiteiten
+##### Artikel 4.4.4. Subsidiabele activiteiten
 
 1. Subsidie op basis van deze titel kan worden verstrekt voor projecten die passen binnen de prioritaire as 3, Spoor 1 – het vernieuwen en versterken regionale economie met duurzame industriële ketens of Spoor 2 – het versnellen van transitie met investeringen in technologie, systemen en infrastructuur tot decarbonisatie industriële ketens, van het Programma JTF 2021–2027; en:
 
@@ -5382,19 +5408,19 @@ De Minister van SZW verstrekt op aanvraag subsidie aan een rechtspersoon of same
 
 2. Onverminderd het eerste lid komen investeringen in walstroom niet voor subsidie in aanmerking.
 
-#### Artikel 4.4.5. Subsidieplafond en wijze van verdeling
+##### Artikel 4.4.5. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt € 4.650.000.
 
 2. De Minister van SZW verdeelt het beschikbare bedrag op volgorde van ontvangst van de aanvragen, overeenkomstig [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.18&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 4.4.6. Aanvraagperiode
+##### Artikel 4.4.6. Aanvraagperiode
 
 1. Een aanvraag kan worden ingediend vanaf 15 april 2024 9.00 uur.
 
 2. Aanvragen worden ingediend door middel van het door de Minister van SZW vastgestelde aanvraagformulier dat beschikbaar is in het [https://start.jtf-webportal.nl/](https://start.jtf-webportal.nl/).
 
-#### Artikel 4.4.7. Hoogte van de subsidie
+##### Artikel 4.4.7. Hoogte van de subsidie
 
 1. De subsidie bedraagt maximaal 50 procent van de subsidiabele kosten.
 
@@ -5402,13 +5428,13 @@ De Minister van SZW verstrekt op aanvraag subsidie aan een rechtspersoon of same
 
 3. De projectkosten bedragen ten minste € 200.000 per project.
 
-#### Artikel 4.4.8. Starttermijn en looptijd
+##### Artikel 4.4.8. Starttermijn en looptijd
 
 1. De projectactiviteiten in het kader van deze titel vangen niet eerder aan dan de dag waarop de aanvraag compleet is ingediend.
 
 2. De projectactiviteiten zijn uiterlijk 31 december 2029 door de aanvrager uitgevoerd.
 
-#### Artikel 4.4.9. Beoordelingscriteria
+##### Artikel 4.4.9. Beoordelingscriteria
 
 1. Gelet op [artikel 1.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-03-01&g=2026-03-01), wordt een project beoordeeld op alle onderdelen van het eerste lid van dat artikel.
 
@@ -5426,7 +5452,7 @@ De Minister van SZW verstrekt op aanvraag subsidie aan een rechtspersoon of same
 
 - f. bijdrage aan duurzame ontwikkeling en aan maatschappelijke-sociale impact: 20 punten.
 
-#### Artikel 4.4.10. Voorschot
+##### Artikel 4.4.10. Voorschot
 
 1. De Minister van SZW verleent op basis van een gemotiveerde aanvraag een voorschot als werkkapitaal op het moment van beschikken van de subsidie van maximaal 30 procent van de subsidiabele projectkosten.
 
@@ -5436,21 +5462,21 @@ De Minister van SZW verstrekt op aanvraag subsidie aan een rechtspersoon of same
 
 4. De Minister van SZW verleent op aanvraag opvolgende voorschotten op basis van gerealiseerde projectactiviteiten als bedoeld in [artikel 1.31](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.31&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 4.4.11. Vervaltermijn
+##### Artikel 4.4.11. Vervaltermijn
 
 Deze titel en [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&bijlage=5&z=2026-03-01&g=2026-03-01) vervallen met ingang van 1 januari 2027, met dien verstande dat deze titel van toepassing blijft op subsidies die voor deze datum zijn aangevraagd.
 
-#### Artikel 4.5.1. Begripsomschrijving
+##### Artikel 4.5.1. Begripsomschrijving
 
 In deze titel wordt verstaan onder:
 
 - –. **TJTP Rijnmond:** het Territorial Just Transition Plan, bedoeld in artikel 11 van de JTF-verordening, met betrekking tot de regio Groot-Rijnmond.
 
-#### Artikel 4.5.2. Doel subsidie
+##### Artikel 4.5.2. Doel subsidie
 
 Een project in het kader van deze titel heeft tot doel het bevorderen van de beschikbaarheid van voldoende juist opgeleide en gemotiveerde weerbare beroepsbevolking voor de opgaven, bij een toenemend vacature-overschot en het verdwijnen of wijzigen van bestaande functies door de transitieopgave.
 
-#### Artikel 4.5.3. Doelgroep
+##### Artikel 4.5.3. Doelgroep
 
 De Minister van SZW verstrekt op aanvraag subsidie aan een rechtspersoon of samenwerkingsverband voor een project dat:
 
@@ -5460,23 +5486,23 @@ De Minister van SZW verstrekt op aanvraag subsidie aan een rechtspersoon of same
 
 - c. past binnen de kaders van deze regeling.
 
-#### Artikel 4.5.4. Subsidiabele activiteiten
+##### Artikel 4.5.4. Subsidiabele activiteiten
 
 Subsidie op basis van deze titel kan worden verstrekt voor projecten die passen binnen de Spoor 3 van prioritaire as 3 uit het Programma JTF 2021–2027.
 
-#### Artikel 4.5.5. Subsidieplafond en wijze van verdeling
+##### Artikel 4.5.5. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt € 14.947.070.
 
 2. De Minister van SZW verdeelt het beschikbare bedrag op volgorde van ontvangst van de aanvragen, overeenkomstig [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.18&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 4.5.6. Aanvraagperiode
+##### Artikel 4.5.6. Aanvraagperiode
 
 1. Een aanvraag kan worden ingediend vanaf 15 april 2024 9.00 uur.
 
 2. Aanvragen worden ingediend door middel van het door de Minister van SZW vastgestelde aanvraagformulier dat beschikbaar is in het [https://start.jtf-webportal.nl/](https://start.jtf-webportal.nl/).
 
-#### Artikel 4.5.7. Hoogte van de subsidie
+##### Artikel 4.5.7. Hoogte van de subsidie
 
 1. De subsidie bedraagt maximaal 50 procent van de subsidiabele kosten.
 
@@ -5484,13 +5510,13 @@ Subsidie op basis van deze titel kan worden verstrekt voor projecten die passen 
 
 3. De projectkosten bedragen ten minste € 200.000 per project.
 
-#### Artikel 4.5.8. Starttermijn en looptijd
+##### Artikel 4.5.8. Starttermijn en looptijd
 
 1. De activiteiten van een project in het kader van deze titel vangen niet eerder aan dan de dag waarop de aanvraag compleet is ingediend.
 
 2. De projectactiviteiten zijn uiterlijk 31 december 2029 door de aanvrager uitgevoerd.
 
-#### Artikel 4.5.9. Beoordelingscriteria
+##### Artikel 4.5.9. Beoordelingscriteria
 
 1. Gelet op [artikel 1.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-03-01&g=2026-03-01), wordt een aanvraag beoordeeld op onderdelen a, b, c, e en f van het eerste lid van dat artikel.
 
@@ -5506,7 +5532,7 @@ Subsidie op basis van deze titel kan worden verstrekt voor projecten die passen 
 
 - e. bijdrage aan duurzame ontwikkeling en aan maatschappelijke-sociale impact: 15 punten.
 
-#### Artikel 4.5.10. Voorschot
+##### Artikel 4.5.10. Voorschot
 
 1. De Minister van SZW verleent op basis van een gemotiveerde aanvraag een voorschot als werkkapitaal op het moment van beschikken van de subsidie van maximaal 30 procent van de subsidie.
 
@@ -5516,7 +5542,7 @@ Subsidie op basis van deze titel kan worden verstrekt voor projecten die passen 
 
 4. De Minister van SZW verleent op aanvraag opvolgende voorschotten op basis van gerealiseerde projectactiviteiten als bedoeld in [artikel 1.31](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.31&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 4.5.11. Vervaltermijn
+##### Artikel 4.5.11. Vervaltermijn
 
 Deze titel en [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&bijlage=4&z=2026-03-01&g=2026-03-01) vervallen met ingang van 1 januari 2027, met dien verstande dat deze titel van toepassing blijft op subsidies die voor deze datum zijn aangevraagd.
 
@@ -5554,7 +5580,7 @@ Deze titel en [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&bijlag
 
 #### Paragraaf 9.2.3. EZK-cofinanciering JTF-Rijnmond
 
-#### Artikel 9.2.3.1. EZK-cofinanciering Regionale Subsidies voor Spoor 1 en 2 uit het Territorial Just Transition Plan voor de regio Groot-Rijnmond
+##### Artikel 9.2.3.1. EZK-cofinanciering Regionale Subsidies voor Spoor 1 en 2 uit het Territorial Just Transition Plan voor de regio Groot-Rijnmond
 
 1. De Minister van EZK verstrekt subsidie voor activiteiten als bedoeld in [artikel 4.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=4&titeldeel=4.4&artikel=4.4.4&z=2026-03-01&g=2026-03-01).
 
@@ -5642,7 +5668,7 @@ Voorstellen moeten passen binnen het Rotterdams Klimaatakkoord ([https://jtf-rij
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5.1. Voorschot vooruitlopend op te maken kosten
+##### Artikel 5.1. Voorschot vooruitlopend op te maken kosten
 
 1. De Minister van SZW kan, vooruitlopend op te maken kosten als bedoeld in [artikel 1.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.30&z=2026-03-01&g=2026-03-01), op aanvraag een voorschot verlenen voor aanvragen die zijn ingediend voor:
 
@@ -5662,7 +5688,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 6. Subsidies JTF-regio Zeeuws-Vlaanderen/Vlissingen-Oost
 
-#### Artikel 6.1. Voorschot vooruitlopend op te maken kosten
+##### Artikel 6.1. Voorschot vooruitlopend op te maken kosten
 
 1. De Minister van SZW kan, vooruitlopend op te maken kosten als bedoeld in [artikel 1.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.30&z=2026-03-01&g=2026-03-01), op aanvraag een voorschot verlenen voor aanvragen die zijn ingediend voor:
 
@@ -5688,7 +5714,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 7. Subsidies JTF-regio Zuid-Limburg
 
-#### Artikel 7.1. Voorschot vooruitlopend op te maken kosten
+##### Artikel 7.1. Voorschot vooruitlopend op te maken kosten
 
 1. De Minister van SZW kan op aanvraag een voorschot verlenen vooruitlopend op te maken kosten, als bedoeld in [artikel 1.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.30&z=2026-03-01&g=2026-03-01), voor aanvragen die zijn ingediend voor:
 
@@ -5782,7 +5808,7 @@ Voorstellen moeten passen binnen het Rotterdams Klimaatakkoord ([https://jtf-rij
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2.11.1. Begripsbepalingen
+##### Artikel 2.11.1. Begripsbepalingen
 
 In deze titel wordt verstaan onder:
 
@@ -5804,7 +5830,7 @@ In deze titel wordt verstaan onder:
 
 - –. **werkingsgebied:** de JTF-regio Groningen-Emmen, bedoeld in [artikel 1.7, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.7&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 2.11.2. Doel subsidie
+##### Artikel 2.11.2. Doel subsidie
 
 1. Het doel van de openstelling op grond van deze titel is om sociaaleconomische trajecten uit te voeren die passen binnen de RIS3 transities.
 
@@ -5818,7 +5844,7 @@ In deze titel wordt verstaan onder:
 
 - b. het ondersteunen en ontzorgen van werkgevers voor de invulling dan wel toekomstige invulling van vacatures door langdurig werkzoekenden uit het onbenut arbeidspotentieel in de vorm van het aanbieden van passende werkgelegenheid, aansluitend op de RIS3-transities.
 
-#### Artikel 2.11.3. Doelgroep
+##### Artikel 2.11.3. Doelgroep
 
 De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
@@ -5828,7 +5854,7 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
 - c. een gemeente.
 
-#### Artikel 2.11.4. Subsidiabele activiteiten
+##### Artikel 2.11.4. Subsidiabele activiteiten
 
 Subsidie op grond van deze titel kan worden verstrekt voor activiteiten die gericht zijn op:
 
@@ -5842,7 +5868,7 @@ Subsidie op grond van deze titel kan worden verstrekt voor activiteiten die geri
 
 - e. loonwaardemeting uitgevoerd door een professional, als (eind)onderdeel van het traject passende werkgelegenheid binnen dit project.
 
-#### Artikel 2.11.5. Subsidieplafond en wijze van verdeling
+##### Artikel 2.11.5. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt € 15.000.000.
 
@@ -5850,13 +5876,13 @@ Subsidie op grond van deze titel kan worden verstrekt voor activiteiten die geri
 
 3. Aanvragen worden beoordeeld door de deskundigencommissie overeenkomstig [artikel 1.21](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.21&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 2.11.6. Aanvraagperiode
+##### Artikel 2.11.6. Aanvraagperiode
 
 1. Een aanvraag kan worden ingediend in de periode vanaf 1 november 2024 09.00 uur tot en met 30 april 2025 17.00 uur.
 
 2. Aanvragen worden ingediend door middel van het door de Minister van SZW vastgestelde aanvraagformulier dat beschikbaar is in het [www.jtf-webportal.nl/mijn/](http://www.jtf-webportal.nl/mijn/) of via [www.snn.nl](http://www.snn.nl).
 
-#### Artikel 2.11.7. Hoogte subsidie
+##### Artikel 2.11.7. Hoogte subsidie
 
 1. De hoogte van de subsidie bedraagt ten hoogste:
 
@@ -5864,7 +5890,7 @@ Subsidie op grond van deze titel kan worden verstrekt voor activiteiten die geri
 
 - b. 100 procent voor de loonkosten voor de begeleiding van langdurig werkzoekenden, bedoeld in [artikel 2.11.8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=2&titeldeel=2.11&artikel=2.11.8&z=2026-03-01&g=2026-03-01), en overige kosten als bedoeld in artikel 2.11.8, onderdeel c.
 
-#### Artikel 2.11.8. Subsidiabele kosten
+##### Artikel 2.11.8. Subsidiabele kosten
 
 1. In afwijking van [artikel 1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.11&z=2026-03-01&g=2026-03-01) komen uitsluitend de volgende kosten voor subsidie in aanmerking voor zover zij direct verbonden zijn met de uitvoering van het project:
 
@@ -5882,7 +5908,7 @@ Subsidie op grond van deze titel kan worden verstrekt voor activiteiten die geri
 
 3. [Artikel 1.11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.11&z=2026-03-01&g=2026-03-01), is van overeenkomstige toepassing.
 
-#### Artikel 2.11.9. Starttermijn en looptijd
+##### Artikel 2.11.9. Starttermijn en looptijd
 
 1. Met de uitvoering van de op grond van deze titel gesubsidieerde projecten wordt gestart binnen drie maanden na dagtekening van de verleningsbeschikking.
 
@@ -5890,7 +5916,7 @@ Subsidie op grond van deze titel kan worden verstrekt voor activiteiten die geri
 
 3. Op verzoek van de subsidieontvanger kan de Minister van SZW de termijnen bedoeld in het eerste of tweede lid verlengen.
 
-#### Artikel 2.11.10. Afwijzingsgronden
+##### Artikel 2.11.10. Afwijzingsgronden
 
 Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.25&z=2026-03-01&g=2026-03-01) beslist de Minister van SZW afwijzend op een aanvraag, indien:
 
@@ -5902,7 +5928,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - d. niet aannemelijk is dat alle projectactiviteiten van het project uiterlijk 31 december 2028 volledig ten uitvoer kunnen zijn gebracht.
 
-#### Artikel 2.11.11. Beoordelingscriteria
+##### Artikel 2.11.11. Beoordelingscriteria
 
 1. Gelet op [artikel 1.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-03-01&g=2026-03-01), wordt een project uitsluitend beoordeeld op de onderdelen a, d, e en f van het eerste lid van dat artikel.
 
@@ -5916,7 +5942,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - d. voor criterium f maximaal 15 punten.
 
-#### Artikel 2.11.12. Voorschot
+##### Artikel 2.11.12. Voorschot
 
 1. De Minister van SZW verleent op aanvraag een voorschot vooruitlopend op te maken kosten als bedoeld in [artikel 1.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.30&z=2026-03-01&g=2026-03-01) van 20 procent van de verleende subsidie met een maximum van € 500.000.
 
@@ -5924,7 +5950,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 3. De Minister van SZW verleent op aanvraag opvolgende voorschotten op basis van gerealiseerde projectactiviteiten als bedoeld in [artikel 1.31](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.31&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 2.11.13. Subsidieaanvraag
+##### Artikel 2.11.13. Subsidieaanvraag
 
 Onverminderd [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.22&z=2026-03-01&g=2026-03-01) bevat een aanvraag voor subsidie ten minste:
 
@@ -5932,7 +5958,7 @@ Onverminderd [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - b. de bij het aanvraagformulier behorende documenten als bijlagen.
 
-#### Artikel 2.11.14. Verplichtingen subsidieontvanger
+##### Artikel 2.11.14. Verplichtingen subsidieontvanger
 
 Onverminderd [artikel 1.26](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.26&z=2026-03-01&g=2026-03-01) is de subsidieontvanger verplicht:
 
@@ -5942,17 +5968,17 @@ Onverminderd [artikel 1.26](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - c. op basis van in de verleningsbeschikking aangewezen indicatoren te rapporteren.
 
-#### Artikel 2.11.15. Staatssteun
+##### Artikel 2.11.15. Staatssteun
 
 De subsidie, bedoeld in [artikel 2.11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=2&titeldeel=2.11&artikel=2.11.3&z=2026-03-01&g=2026-03-01), bevat geen staatssteun.
 
-#### Artikel 2.11.16. Vervaltermijn
+##### Artikel 2.11.16. Vervaltermijn
 
 Deze titel vervalt met ingang van 31 december 2027, met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn aangevraagd.
 
 ## Titel 2.12. Steun aan subsidie-instrumenten voor bevordering digitalisering en robotisering
 
-#### Artikel 3.2.14a. Wijzigingsverzoeken
+##### Artikel 3.2.14a. Wijzigingsverzoeken
 
 Onverminderd [artikel 1.26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.26&z=2026-02-01&g=2026-02-01), kan de Minister van SZW op verzoek van de subsidieaanvrager of subsidieontvanger een wijzigingsverzoek in behandeling nemen voor een reeds ingediende aanvraag, toestemming verlenen voor de wijziging van een project waarvoor subsidie wordt verstrekt, of toestemming verlenen voor afwijking van de subsidieverleningsbeschikking, indien de wijziging of afwijking verband houdt met een wijziging in deze subsidietitel die plaatsvond na indiening van de subsidieaanvraag.
 
@@ -6072,7 +6098,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ## Titel 2.14. Steun aan subsidie-instrumenten voor bevordering van onderzoek en ontwikkeling in het midden- en kleinbedrijf
 
-#### Artikel 2.14.1. Begripsbepalingen
+##### Artikel 2.14.1. Begripsbepalingen
 
 In deze titel wordt verstaan onder:
 
@@ -6080,39 +6106,39 @@ In deze titel wordt verstaan onder:
 
 - –. **Operationeel programma JTF Groningen-Emmen:** prioriteit 1, Groningen-Emmen van het door de Europese Commissie goedgekeurde Programma JTF 2021–2027.
 
-#### Artikel 2.14.2. Doel subsidie
+##### Artikel 2.14.2. Doel subsidie
 
 1. Het doel van de subsidie op grond van deze titel is om het TJTP en het Operationeel programma JTF Groningen-Emmen uit te voeren ten aanzien van een subsidie-instrument dat nodig is voor bevordering van onderzoek en ontwikkeling in het MKB in de JTF-regio Groningen-Emmen.
 
 2. Projecten waaraan op basis van deze titel subsidie wordt verleend, leiden tot extra investeringen in onderzoek en ontwikkeling door het MKB in de JTF-regio Groningen-Emmen.
 
-#### Artikel 2.14.3. Doelgroep
+##### Artikel 2.14.3. Doelgroep
 
 De Minister van SZW verstrekt op aanvraag subsidie aan bestuursorganen voor een project.
 
-#### Artikel 2.14.4. Subsidiabele activiteiten
+##### Artikel 2.14.4. Subsidiabele activiteiten
 
 Subsidie op grond van deze titel kan worden verstrekt voor het opzetten en uitvoeren van een stimuleringsregeling ten behoeve van bevordering van onderzoek en ontwikkeling in het MKB in de JTF-regio Groningen-Emmen.
 
-#### Artikel 2.14.5. Subsidieplafond en wijze van verdeling
+##### Artikel 2.14.5. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt € 6.000.000.
 
 2. De Minister van SZW verdeelt het beschikbare bedrag op volgorde van ontvangst van de aanvragen, overeenkomstig [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.18&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 2.14.6. Aanvraagperiode
+##### Artikel 2.14.6. Aanvraagperiode
 
 1. Een aanvraag kan worden ingediend in de periode vanaf 6 januari 2025 09.00 uur tot en met 31 maart 2025 17.00 uur.
 
 2. Aanvragen worden ingediend door middel van het door de Minister van SZW vastgestelde aanvraagformulier dat beschikbaar is in het [www.jtf-webportal.nl/mijn/](http://www.jtf-webportal.nl/mijn/) of via [www.snn.nl](http://www.snn.nl).
 
-#### Artikel 2.14.7. Hoogte van de subsidie
+##### Artikel 2.14.7. Hoogte van de subsidie
 
 1. De subsidie bedraagt maximaal 50 procent van de subsidiabele kosten.
 
 2. De subsidie bedraagt ten hoogste € 6.000.000 per project.
 
-#### Artikel 2.14.8. Starttermijn en looptijd
+##### Artikel 2.14.8. Starttermijn en looptijd
 
 1. Met de uitvoering van de op grond van deze titel gesubsidieerde projecten wordt gestart binnen drie maanden na dagtekening van de verleningsbeschikking.
 
@@ -6120,7 +6146,7 @@ Subsidie op grond van deze titel kan worden verstrekt voor het opzetten en uitvo
 
 3. Op verzoek van de subsidieontvanger kan de Minister van SZW de termijn, bedoeld in het eerste en tweede lid, verlengen.
 
-#### Artikel 2.14.9. Afwijzingsgronden
+##### Artikel 2.14.9. Afwijzingsgronden
 
 Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.25&z=2026-03-01&g=2026-03-01) beslist de Minister van SZW afwijzend op een aanvraag, indien:
 
@@ -6132,7 +6158,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - d. niet aannemelijk is dat alle projectactiviteiten van het project uiterlijk 1 juli 2029 volledig ten uitvoer kunnen zijn gebracht.
 
-#### Artikel 2.14.10. Beoordelingscriteria
+##### Artikel 2.14.10. Beoordelingscriteria
 
 1. Gelet op [artikel 1.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-03-01&g=2026-03-01), wordt een project uitsluitend beoordeeld op de onderdelen a, c, e en f van artikel 1.20, eerste lid.
 
@@ -6146,7 +6172,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - d. voor criterium f maximaal 15 punten.
 
-#### Artikel 2.14.11. Voorschot
+##### Artikel 2.14.11. Voorschot
 
 1. De Minister van SZW verleent op aanvraag, vooruitlopend op te maken kosten als bedoeld in [artikel 1.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.30&z=2026-03-01&g=2026-03-01), een voorschot van 20 procent van de verleende subsidie.
 
@@ -6154,7 +6180,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 3. De Minister van SZW verleent op aanvraag opvolgende voorschotten op basis van gemaakte en betaalde kosten, conform [artikel 1.31](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.31&z=2026-03-01&g=2026-03-01). In afwijking van artikel 1.31, bedraagt het totaalbedrag aan voorschotten maximaal 80 procent van het verleende subsidiebedrag.
 
-#### Artikel 2.14.12. Subsidieaanvraag
+##### Artikel 2.14.12. Subsidieaanvraag
 
 1. Onverminderd [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.22&z=2026-03-01&g=2026-03-01) bevat een aanvraag voor subsidie ten minste:
 
@@ -6162,11 +6188,11 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - b. de bij het aanvraagformulier behorende documenten als bijlagen.
 
-#### Artikel 2.14.13. Staatssteun
+##### Artikel 2.14.13. Staatssteun
 
 De subsidie bevat staatssteun en wordt gerechtvaardigd door de artikelen 18 en 25 van de Algemene groepsvrijstellingsverordening.
 
-#### Artikel 2.14.14. Vervaltermijn
+##### Artikel 2.14.14. Vervaltermijn
 
 Deze titel vervalt met ingang van 1 januari 2027, met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn aangevraagd.
 
@@ -6312,7 +6338,7 @@ Voorstellen moeten passen binnen het Rotterdams Klimaatakkoord ([https://jtf-rij
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 9a.1. Verruiming bevoorschotting in [titel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=2&titeldeel=2.6&z=2026-03-01&g=2026-03-01)
+##### Artikel 9a.1. Verruiming bevoorschotting in [titel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=2&titeldeel=2.6&z=2026-03-01&g=2026-03-01)
 
 In [artikel 2.6.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=2&titeldeel=2.6&artikel=2.6.12&z=2026-03-01&g=2026-03-01), zoals deze luidde van 23 februari 2023 tot en met 2 augustus 2023, wordt voor ‘20 procent van de verleende subsidie met een maximum van € 500.000’ gelezen ‘40 procent van de verleende subsidie’.
 
@@ -6362,7 +6388,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ## Titel 2.15. Pilotprogramma Praktisch Perspectief
 
-#### Artikel 2.15.1. Begripsbepalingen
+##### Artikel 2.15.1. Begripsbepalingen
 
 In deze titel wordt verstaan onder:
 
@@ -6390,13 +6416,13 @@ In deze titel wordt verstaan onder:
 
 - –. **TJTP:** Territoriaal Just Transition Plan, het territoriaal plan voor een rechtvaardige transitie voor JTF-regio Groningen-Emmen 2021–2027, bedoeld in de bijlage bij het nationaal JTF-programma 2021–2027.
 
-#### Artikel 2.15.2. Doel subsidie
+##### Artikel 2.15.2. Doel subsidie
 
 1. Het doel van de openstelling op grond van deze titel is om roc's middels een programmatische aanpak in een samenwerkingsverband aan innovatieve en toekomstbestendige manieren te laten werken om te voorzien in de vraag naar praktisch geschoolden door het regionaal bedrijfsleven op basis van het TJTP alsook de RIS3-transities. Daarbij ligt het zwaartepunt op het geheel van instroom, opleiding en uitstroom van studenten in het primaire werkingsgebied voor de technische sectoren en sectoren gelieerd aan de RIS3-transities waarbij omgang met techniek onderdeel is of mogelijkerwijs moet vormen van het opleidingscurriculum.
 
 2. Plannen waaraan op basis van deze titel subsidie wordt verleend, passen binnen Spoor 3 van het TJTP met een focus op het bijdragen aan het leveren van ondersteuning van werkgelegenheid bij jongeren en de sociaaleconomische integratie van jongeren.
 
-#### Artikel 2.15.3. Doelgroep
+##### Artikel 2.15.3. Doelgroep
 
 De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
@@ -6404,7 +6430,7 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
 - b. samenwerkingsverbanden hoofdzakelijk bestaande uit roc's.
 
-#### Artikel 2.15.4. Subsidiabele activiteiten
+##### Artikel 2.15.4. Subsidiabele activiteiten
 
 1. Subsidie op basis van deze titel kan worden verstrekt voor een programmatische aanpak, waarbij activiteiten worden uitgevoerd ten behoeve van:
 
@@ -6422,25 +6448,25 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
 2. De activiteiten, bedoeld in het eerste lid, onderdelen a tot en met e, worden verricht ten behoeve van de uitdagingen in het primaire werkingsgebied.
 
-#### Artikel 2.15.5. Subsidieplafond en wijze van verdeling
+##### Artikel 2.15.5. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt € 10.500.000.
 
 2. De Minister van SZW verdeelt het beschikbare bedrag op volgorde van ontvangst van de aanvragen, overeenkomstig [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.18&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 2.15.6. Aanvraagperiode
+##### Artikel 2.15.6. Aanvraagperiode
 
 1. Een aanvraag kan worden ingediend in de periode van 14 april 2025 vanaf 9.00 uur tot en met 16 mei 2025 vóór 17.00 uur.
 
 2. Aanvragen worden ingediend door middel van het door de Minister van SZW vastgestelde aanvraagformulier dat beschikbaar is in het [www.jtf-webportal.nl/mijn](http://www.jtf-webportal.nl/mijn) of via [www.snn.nl](http://www.snn.nl/).
 
-#### Artikel 2.15.7. Hoogte van de subsidie
+##### Artikel 2.15.7. Hoogte van de subsidie
 
 1. De subsidie bedraagt ten hoogste 100 procent van de subsidiabele kosten.
 
 2. Indien er sprake is van economische activiteiten binnen de subsidieaanvraag, wordt het maximaal toegestane subsidiepercentage bepaald op basis van de staatssteunregels.
 
-#### Artikel 2.15.8. Subsidiabele kosten
+##### Artikel 2.15.8. Subsidiabele kosten
 
 Onverminderd [artikel 1.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.11&z=2026-03-01&g=2026-03-01), komen voorbereidingskosten als subsidiabele kosten in aanmerking, indien deze kosten:
 
@@ -6454,7 +6480,7 @@ Onverminderd [artikel 1.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - e. niet strijdig zijn met artikel 6 van de Algemene groepsvrijstellingsverordening.
 
-#### Artikel 2.15.9. Starttermijn en looptijd
+##### Artikel 2.15.9. Starttermijn en looptijd
 
 1. Met de uitvoering van de op grond van deze titel gesubsidieerde projecten wordt gestart binnen drie maanden na dagtekening van de verleningsbeschikking.
 
@@ -6464,7 +6490,7 @@ Onverminderd [artikel 1.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 4. Op verzoek van de subsidieontvanger kan de Minister van SZW de termijnen, bedoeld in het eerste lid, verlengen.
 
-#### Artikel 2.15.10. Afwijzingsgronden
+##### Artikel 2.15.10. Afwijzingsgronden
 
 Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.25&z=2026-03-01&g=2026-03-01) beslist de Minister van SZW afwijzend op een aanvraag, indien:
 
@@ -6474,7 +6500,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - c. de aangevraagde en te verlenen subsidie minder dan € 5.000.000 bedraagt.
 
-#### Artikel 2.15.11. Beoordelingscriteria
+##### Artikel 2.15.11. Beoordelingscriteria
 
 1. Gelet op [artikel 1.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-03-01&g=2026-03-01), wordt een project uitsluitend beoordeeld op de onderdelen a, b, e en f van het eerste lid van dat artikel.
 
@@ -6488,7 +6514,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - d. voor de mate waarin het project bijdraagt aan duurzame ontwikkeling en aan maatschappelijke-sociale impact: 15 punten.
 
-#### Artikel 2.15.12. Voorschot
+##### Artikel 2.15.12. Voorschot
 
 1. De Minister van SZW verleent op aanvraag, vooruitlopend op te maken kosten als bedoeld in [artikel 1.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.30&z=2026-03-01&g=2026-03-01), een voorschot van 20 procent van de verleende subsidie met een maximum van € 1.500.000.
 
@@ -6498,7 +6524,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 4. In afwijking van [artikel 1.31, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.31&z=2026-03-01&g=2026-03-01), bedragen de voorschotten in totaal maximaal 100 procent van het verleende subsidiebedrag.
 
-#### Artikel 2.15.13. Subsidieaanvraag
+##### Artikel 2.15.13. Subsidieaanvraag
 
 Onverminderd [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.22&z=2026-03-01&g=2026-03-01) bevat een aanvraag voor subsidie ten minste:
 
@@ -6506,11 +6532,11 @@ Onverminderd [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - b. de bij het aanvraagformulier behorende documenten als bijlagen.
 
-#### Artikel 2.15.14. Staatssteun
+##### Artikel 2.15.14. Staatssteun
 
 De subsidie kan staatssteun bevatten en kan gerechtvaardigd worden door de in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.4&z=2026-03-01&g=2026-03-01) opgenomen artikelen uit de Algemene groepsvrijstellingsverordening.
 
-#### Artikel 2.15.15. Vervaltermijn
+##### Artikel 2.15.15. Vervaltermijn
 
 Deze titel vervalt met ingang van 1 januari 2027, met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn aangevraagd.
 
@@ -6630,7 +6656,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ## Titel 2.16. Een nieuwe, groene economie met marktgedreven onderzoeks- en investeringsprojecten
 
-#### Artikel 2.16.1. Begripsbepalingen
+##### Artikel 2.16.1. Begripsbepalingen
 
 In deze titel wordt verstaan onder:
 
@@ -6646,7 +6672,7 @@ In deze titel wordt verstaan onder:
 
 - –. **TJTP Groningen-Emmen:** het Territorial Just Transition Plan, bedoeld in artikel 11 van de JTF-verordening met betrekking tot de JTF-regio Groningen-Emmen.
 
-#### Artikel 2.16.2. Doel subsidie
+##### Artikel 2.16.2. Doel subsidie
 
 1. Het doel van subsidie op grond van deze titel is om uitvoering te geven aan Spoor 1 en 2 van het TJTP Groningen-Emmen door het ondersteunen van marktgedreven onderzoeks- en investeringsprojecten of combinaties van deze activiteiten, die langs de lijnen van de RIS3 2021–2027 zorgen voor een nieuw, economisch, groen perspectief.
 
@@ -6662,7 +6688,7 @@ In deze titel wordt verstaan onder:
 
 7. Om de transformatie naar een nieuwe, groene economie mogelijk te maken, is het van groot belang dat de aankomende en huidige beroepsbevolking over de juiste vaardigheden beschikt. Het is mogelijk om binnen marktgedreven investerings- en onderzoeksprojecten die vallen onder Spoor 1 of 2, flankerende onderwijs- en of arbeidsmarktmaatregelen in te brengen, voor zover die een duidelijke toegevoegde waarde bieden.
 
-#### Artikel 2.16.3. Doelgroep
+##### Artikel 2.16.3. Doelgroep
 
 De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
@@ -6672,7 +6698,7 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
 - c. een penvoerder namens de afzonderlijke partijen in een samenwerkingsverband als bedoeld in [artikel 1.4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.4&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 2.16.4. Subsidiabele activiteiten
+##### Artikel 2.16.4. Subsidiabele activiteiten
 
 1. Subsidie op basis van deze titel kan worden verstrekt voor marktgedreven onderzoeks- en investeringsprojecten die passen binnen Spoor 1, een nieuw economisch perspectief, of Spoor 2, een groen perspectief van het TJTP Groningen-Emmen.
 
@@ -6724,19 +6750,19 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
 - m. her- om- en bijscholing van werknemers en toekomstig personeel.
 
-#### Artikel 2.16.5. Subsidieplafond en wijze van verdeling
+##### Artikel 2.16.5. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt € 50.000.000.
 
 2. De Minister van SZW verdeelt het beschikbare bedrag op volgorde van ontvangst van de aanvragen, overeenkomstig [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.18&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 2.16.6. Aanvraagperiode
+##### Artikel 2.16.6. Aanvraagperiode
 
 1. Een aanvraag kan worden ingediend in de periode van 14 juli 2025 vanaf 9.00 uur tot en met 12 juni 2026 vóór 17.00 uur.
 
 2. Aanvragen worden ingediend door middel van het door de Minister van SZW vastgestelde aanvraagformulier dat beschikbaar is in het [www.jtf-webportal.nl/mijn](http://www.jtf-webportal.nl/mijn)/ of via [www.snn.nl](http://www.snn.nl/).
 
-#### Artikel 2.16.7. Hoogte van de subsidie
+##### Artikel 2.16.7. Hoogte van de subsidie
 
 1. Voor projecten binnen Spoor 1 of 2 bedraagt de totale samengestelde maximale subsidie € 10.000.000 voor marktgedreven onderzoeksactiviteiten en investeringen, bedoeld in het tweede en derde lid. In afwijking van het voorgaande kan de totale te verlenen subsidie € 11.000.000 bedragen, indien additionele flankerende onderwijs- en arbeidsmarktmaatregelen worden ingebracht als bedoeld in het vierde lid.
 
@@ -6748,7 +6774,7 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
 5. In afwijking van het eerste, tweede en derde lid wordt de totaal te verlenen subsidie naar beneden bijgesteld, indien de AGVV hiertoe aanleiding geeft.
 
-#### Artikel 2.16.8. Starttermijn en looptijd
+##### Artikel 2.16.8. Starttermijn en looptijd
 
 1. Met de uitvoering van de op grond van deze titel gesubsidieerde onderzoeks- of investeringsprojecten wordt gestart binnen drie maanden na de subsidieverlening bij onderzoeksprojecten en binnen zes maanden na de subsidieverlening voor investeringsprojecten.
 
@@ -6760,7 +6786,7 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een project aan:
 
 5. Op verzoek van de subsidieontvanger kan de Minister van SZW de termijnen, bedoeld in het eerste, tweede, derde en vierde lid, verlengen.
 
-#### Artikel 2.16.9. Afwijzingsgronden
+##### Artikel 2.16.9. Afwijzingsgronden
 
 Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.25&z=2026-03-01&g=2026-03-01) beslist de Minister van SZW afwijzend op een aanvraag, indien:
 
@@ -6774,7 +6800,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - e. de aangevraagde en te verlenen subsidie minder dan € 1.000.000,- bedraagt.
 
-#### Artikel 2.16.10. Beoordelingscriteria
+##### Artikel 2.16.10. Beoordelingscriteria
 
 1. Projecten worden beoordeeld door het toekennen van punten op de criteria, bedoeld in het [artikel 1.20](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-03-01&g=2026-03-01).
 
@@ -6796,7 +6822,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - f. de mate waarin het project meer bijdraagt aan duurzame ontwikkeling en aan maatschappelijke-sociale impact: 15 punten.
 
-#### Artikel 2.16.11. Voorschot
+##### Artikel 2.16.11. Voorschot
 
 1. De Minister van SZW verleent op aanvraag vooruitlopend op het starten van de projectactiviteiten een voorschot van 10 procent van de verleende subsidie.
 
@@ -6818,7 +6844,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - c. het niet toekennen van het voorschot onredelijke gevolgen voor de liquiditeitspositie van de aanvragende onderneming of van één of meer leden van het consortium heeft.
 
-#### Artikel 2.16.12. Subsidieaanvraag
+##### Artikel 2.16.12. Subsidieaanvraag
 
 Onverminderd [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.22&z=2026-03-01&g=2026-03-01) bevat een aanvraag voor subsidie ten minste:
 
@@ -6826,11 +6852,11 @@ Onverminderd [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - b. de bij het aanvraagformulier behorende documenten als bijlagen.
 
-#### Artikel 2.16.13. Staatssteun
+##### Artikel 2.16.13. Staatssteun
 
 De subsidie kan staatssteun bevatten en wordt gerechtvaardigd door de in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.4&z=2026-03-01&g=2026-03-01) opgenomen artikelen uit de Algemene groepsvrijstellingsverordening.
 
-#### Artikel 2.16.14. Vervaltermijn
+##### Artikel 2.16.14. Vervaltermijn
 
 Deze titel vervalt met ingang van 31 december 2029, met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn aangevraagd.
 
@@ -6968,7 +6994,7 @@ Voorstellen moeten passen binnen het Rotterdams Klimaatakkoord ([https://jtf-rij
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2.1.1. Begripsbepalingen
+##### Artikel 2.1.1. Begripsbepalingen
 
 In deze [titel](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=2&titeldeel=2.1&z=2025-10-10&g=2025-09-01) wordt verstaan onder:
 
@@ -7016,7 +7042,7 @@ In deze [titel](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=2&tite
 
 - –. **werkingsgebied voor regionale investeringssteun:** het gebied binnen het werkingsgebied dat is opgenomen in de Regionale Steunkaart 2022–2027, zoals door de Europese Commissie goedgekeurd bij Steunmaatregel SA.100273 (2021/N).
 
-#### Artikel 2.1.2. Doel subsidie
+##### Artikel 2.1.2. Doel subsidie
 
 1. Het doel van de subsidie op grond van deze titel is transformatie en diversificatie van de regionale economie en arbeidsmarkt conform het regionaal transitieplan. Deze transformatie wordt gerealiseerd in de vorm van steun aan een investeringsproject in de proces- en maakindustrie of de scheepsbouw en de daarbij behorende scholing van nieuw of bestaand personeel in het werken binnen en met de te realiseren investeringen.
 
@@ -7038,11 +7064,11 @@ Projecten waaraan op basis van deze titel subsidie wordt verleend, passen binnen
 
 3. Een aanvrager draagt met de om- of bijscholing van bestaande of nieuwe werknemers in het project bij aan het versterken van de competenties en vaardigheden van bestaande en nieuwe werknemers, niet zijnde standaardwerkzaamheden. Deze competenties en vaardigheden hangen voor de werkgever samen met de inzetbaarheid van deelnemers in het werken met de investeringen. Deze competenties en vaardigheden zijn voor de deelnemers gericht op hun toekomstbestendige inzetbaarheid op de arbeidsmarkt binnen de vier transities, bedoeld in het derde lid.
 
-#### Artikel 2.1.3. Doelgroep
+##### Artikel 2.1.3. Doelgroep
 
 De Minister van SZW verstrekt op aanvraag subsidie aan een onderneming in de proces- en maakindustrie of de scheepsbouw voor projecten die worden uitgevoerd in het werkingsgebied en die passen binnen de kaders van deze regeling.
 
-#### Artikel 2.1.4. Subsidiabele activiteiten
+##### Artikel 2.1.4. Subsidiabele activiteiten
 
 1. Subsidie op basis van deze titel kan worden verstrekt voor:
 
@@ -7058,7 +7084,7 @@ De Minister van SZW verstrekt op aanvraag subsidie aan een onderneming in de pro
 
 2. Projecten zijn gericht op toekomstbestendigheid van de economie door diversificatie langs de lijnen van de vier transities of op groen perspectief voor de industrie door transformatie naar groene productieprocessen in de industrie door het vervangen van fossiele grond- en brandstoffen.
 
-#### Artikel 2.1.5. Subsidieplafond en wijze van verdeling
+##### Artikel 2.1.5. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt:
 
@@ -7074,7 +7100,7 @@ De Minister van SZW verstrekt op aanvraag subsidie aan een onderneming in de pro
 
 5. De Minister van SZW verdeelt het beschikbare bedrag op volgorde van ontvangst van de aanvragen, overeenkomstig [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.18&z=2025-10-10&g=2025-09-01). Daarbij worden aanvragen die zijn ingediend op grond van [titel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=2&titeldeel=2.1&z=2025-10-10&g=2025-09-01), zoals die luidde op 31 augustus 2025, geacht te zijn ingediend op grond van deze titel en worden na die datum ontvangen aanvragen op grond van deze titel in de volgorde achteraan geplaatst.
 
-#### Artikel 2.1.6. Aanvraagperiode
+##### Artikel 2.1.6. Aanvraagperiode
 
 1. Een aanvraag kan worden ingediend in de periode van 23 januari 2023 tot en met 13 februari 2026 vóór 17.00 uur.
 
@@ -7082,7 +7108,7 @@ De Minister van SZW verstrekt op aanvraag subsidie aan een onderneming in de pro
 
 3. Aanvragen worden ingediend door middel van het door de Minister van SZW vastgestelde aanvraagformulier dat beschikbaar is via [https://www.jtf-webportal.nl/mijn/](https://www.jtf-webportal.nl/mijn/) of via [www.snn.nl/](http://www.snn.nl/).
 
-#### Artikel 2.1.7. Hoogte subsidie
+##### Artikel 2.1.7. Hoogte subsidie
 
 1. Indien het project valt onder het werkingsgebied van de Regionale Steunkaart 2022–2027, bedoeld in artikelen 13 en 14 van de Algemene groepsvrijstellingsverordening, bedraagt de subsidie voor een:
 
@@ -7104,7 +7130,7 @@ De Minister van SZW verstrekt op aanvraag subsidie aan een onderneming in de pro
 
 5. De subsidie bedraagt niet meer dan de maximale steunruimte op basis van de Algemene groepsvrijstellingsverordening.
 
-#### Artikel 2.1.8. Subsidiabele kosten
+##### Artikel 2.1.8. Subsidiabele kosten
 
 1. In afwijking van [artikel 1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.11&z=2025-10-10&g=2025-09-01) komen uitsluitend de volgende kosten voor subsidie in aanmerking:
 
@@ -7142,7 +7168,7 @@ De Minister van SZW verstrekt op aanvraag subsidie aan een onderneming in de pro
 
 - f. kosten van training en opleiding waarvoor verplichtingen zijn aangegaan voor ontvangst van de aanvraag.
 
-#### Artikel 2.1.9. Starttermijn en looptijd
+##### Artikel 2.1.9. Starttermijn en looptijd
 
 1. Met de uitvoering van de op grond van deze [titel](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=2&titeldeel=2.1&z=2025-10-10&g=2025-09-01) gesubsidieerde projecten wordt gestart binnen zes maanden na dagtekening van de verleningsbeschikking.
 
@@ -7154,7 +7180,7 @@ De Minister van SZW verstrekt op aanvraag subsidie aan een onderneming in de pro
 
 5. Op verzoek van de subsidieontvanger kan de Minister van SZW de termijn, bedoeld in het eerste, tweede, derde lid of vierde lid verlengen.
 
-#### Artikel 2.1.10. Afwijzingsgronden
+##### Artikel 2.1.10. Afwijzingsgronden
 
 Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.25&z=2025-10-10&g=2025-09-01) beslist de Minister van SZW afwijzend op een aanvraag, indien:
 
@@ -7190,7 +7216,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - p. de analyse waaruit blijkt dat het verwachte banenverlies zonder de investering groter zou zijn dan het verwachte aantal gecreëerde banen niet goedgekeurd wordt.
 
-#### Artikel 2.1.11. Beoordelingscriteria
+##### Artikel 2.1.11. Beoordelingscriteria
 
 1. Projecten worden beoordeeld door het toekennen van punten op de zes criteria bedoeld in het [artikel 1.20](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2025-10-10&g=2025-09-01). De weging van de zes criteria is:
 
@@ -7208,7 +7234,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 2. Voor de toepassing van [artikel 1.20](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2025-10-10&g=2025-09-01), eerste lid, geldt de tabel die is opgenomen als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&bijlage=1&z=2025-10-10&g=2025-09-01) bij deze regeling.
 
-#### Artikel 2.1.12. Voorschot
+##### Artikel 2.1.12. Voorschot
 
 1. De Minister van SZW verleent op aanvraag vooruitlopend op realisatie van de projectactiviteiten een voorschot van 20 procent van de verleende subsidie.
 
@@ -7218,7 +7244,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 4. In afwijking van [artikel 1.31, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.31&z=2025-10-10&g=2025-09-01), bedragen de voorschotten in totaal maximaal 80 procent van het verleende subsidiebedrag.
 
-#### Artikel 2.1.13. Subsidieaanvraag
+##### Artikel 2.1.13. Subsidieaanvraag
 
 1. In aanvulling op het [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.22&z=2025-10-10&g=2025-09-01) bevat een aanvraag voor subsidie ten minste:
 
@@ -7230,11 +7256,11 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 3. De aanvraag wordt ingediend met gebruikmaking van het digitale aanvraagformulier via de link [https://www.jtf-webportal.nl/mijn/](https://www.jtf-webportal.nl/mijn/).
 
-#### Artikel 2.1.14. Staatssteun
+##### Artikel 2.1.14. Staatssteun
 
 De subsidie bevat staatssteun en wordt gerechtvaardigd overeenkomstig [artikel 1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.4&z=2025-10-10&g=2025-09-01).
 
-#### Artikel 2.1.15. Vervaltermijn
+##### Artikel 2.1.15. Vervaltermijn
 
 Deze titel en [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&bijlage=1&z=2025-10-10&g=2025-09-01) vervallen met ingang van 31 december 2027, met dien verstande dat deze titel van toepassing blijft op subsidies die voor deze datum zijn aangevraagd.
 
@@ -7354,7 +7380,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ## Titel 2.17. Steun voor middelgrote valorisatieprojecten die aansluiten bij de transities uit de RIS3 2021–2027 2.0
 
-#### Artikel 2.17.1. Begripsomschrijvingen
+##### Artikel 2.17.1. Begripsomschrijvingen
 
 In deze titel wordt verstaan onder:
 
@@ -7396,11 +7422,11 @@ In deze titel wordt verstaan onder:
 
 - –. **valorisatieproject:** innovatietraject gericht op ontwikkeling van nieuwe producten, concepten, technologieën en diensten, of het testen van innovatieve toepassingen in de praktijkomgeving gericht op valorisatie van nieuwe technieken.
 
-#### Artikel 2.17.2. Doel subsidie
+##### Artikel 2.17.2. Doel subsidie
 
 Een project waaraan op basis van deze [titel](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=2&titeldeel=2.17&z=2026-03-01&g=2026-03-01) subsidie wordt verleend moeten passen binnen Spoor 1 en Spoor 2 van het TJTP. Het project draagt bij aan de transformatie en diversificatie van de regionale economie. Dit kan door het stimuleren van de ontwikkeling van nieuwe duurzame waardenketens of innovaties langs de lijnen van de RIS3 2021–2027, zoals de (versnelde) omschakeling naar groene grondstoffen, duurzame waterstof en circulariteit.
 
-#### Artikel 2.17.3. Doelgroep
+##### Artikel 2.17.3. Doelgroep
 
 De Minister van SZW verstrekt op aanvraag subsidie voor een valorisatieproject aan:
 
@@ -7410,17 +7436,17 @@ De Minister van SZW verstrekt op aanvraag subsidie voor een valorisatieproject a
 
 - c. een deelnemer in een samenwerkingsverband van natuurlijke- of rechtspersonen.
 
-#### Artikel 2.17.4. Subsidiabele activiteiten
+##### Artikel 2.17.4. Subsidiabele activiteiten
 
 Subsidie op basis van deze [titel](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=2&titeldeel=2.17&z=2026-03-01&g=2026-03-01) kan worden verstrekt voor het uitvoeren van valorisatieprojecten binnen minimaal één van de vier transities.
 
-#### Artikel 2.17.5. Subsidieplafond en wijze van verdeling
+##### Artikel 2.17.5. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt € 6.000.000.
 
 2. De Minister van SZW verdeelt het beschikbare bedrag op volgorde van ontvangst van de aanvragen, overeenkomstig [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.18&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 2.17.6. Aanvraagperiode en preadvies
+##### Artikel 2.17.6. Aanvraagperiode en preadvies
 
 1. Een aanvraag kan worden ingediend in de periode vanaf 16 oktober 2025 12.00 uur tot en met 16 april 2026 12.00 uur.
 
@@ -7438,7 +7464,7 @@ Subsidie op basis van deze [titel](https://wetten.overheid.nl/jci1.3:c:BWBR00476
 
 8. Het preadvies wordt aangevraagd door middel van het aanvraagformulier dat beschikbaar is via [https://www.snn.nl/over-snn/](https://www.snn.nl/over-snn/).
 
-#### Artikel 2.17.7. Hoogte subsidie
+##### Artikel 2.17.7. Hoogte subsidie
 
 1. De subsidie bedraagt 35 procent van de subsidiabele kosten.
 
@@ -7456,7 +7482,7 @@ Subsidie op basis van deze [titel](https://wetten.overheid.nl/jci1.3:c:BWBR00476
 
 6. De subsidie bedraagt maximaal € 1.000.000 per project en maximaal € 625.000 per projectpartner.
 
-#### Artikel 2.17.8. Starttermijn en looptijd
+##### Artikel 2.17.8. Starttermijn en looptijd
 
 1. Met de uitvoering van de op grond van deze [titel](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=2&titeldeel=2.17&z=2026-03-01&g=2026-03-01) gesubsidieerde projecten wordt gestart binnen drie maanden na dagtekening van de verleningsbeschikking.
 
@@ -7466,7 +7492,7 @@ Subsidie op basis van deze [titel](https://wetten.overheid.nl/jci1.3:c:BWBR00476
 
 4. Op verzoek van de subsidieontvanger kan de Minister van SZW de termijn, bedoeld in het eerste tot en met derde lid, verlengen.
 
-#### Artikel 2.17.9. Afwijzingsgronden
+##### Artikel 2.17.9. Afwijzingsgronden
 
 Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.25&z=2026-03-01&g=2026-03-01) beslist de Minister van SZW afwijzend op een aanvraag indien:
 
@@ -7476,7 +7502,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - c. niet aannemelijk is dat alle projectactiviteiten van het project binnen 36 maanden na dagtekening van de verleningsbeschikking volledig ten uitvoer kunnen zijn gebracht.
 
-#### Artikel 2.17.10. Beoordelingscriteria
+##### Artikel 2.17.10. Beoordelingscriteria
 
 1. Gelet op [artikel 1.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-03-01&g=2026-03-01), wordt een project uitsluitend beoordeeld op de onderdelen a, c, d, e en f van artikel 1.20, eerste lid.
 
@@ -7492,7 +7518,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - f. de mate waarin het project meer bijdraagt aan duurzame ontwikkeling en aan maatschappelijke-sociale impact: 20 punten.
 
-#### Artikel 2.17.11. Voorschot
+##### Artikel 2.17.11. Voorschot
 
 1. De Minister van SZW verleent op aanvraag een voorschot vooruitlopend op te maken kosten als bedoeld in [artikel 1.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.30&z=2026-03-01&g=2026-03-01) van 30 procent van de verleende subsidie.
 
@@ -7510,7 +7536,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 - c. het niet toekennen van het voorschot onredelijke gevolgen voor de liquiditeitspositie van de aanvragende onderneming heeft.
 
-#### Artikel 2.17.12. Subsidieaanvraag
+##### Artikel 2.17.12. Subsidieaanvraag
 
 1. Onverminderd [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.22&z=2026-03-01&g=2026-03-01) bevat een aanvraag voor subsidie ten minste:
 
@@ -7522,7 +7548,7 @@ Onverminderd [artikel 1.25](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoof
 
 2. Voor het door de Minister van SZW vastgestelde format voor het projectplan bedoeld in [artikel 1.22, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.22&z=2026-03-01&g=2026-03-01), en tweede lid, geldt het maximumaantal pagina’s. Een aanvraag die hieraan niet voldoet wordt afgewezen.
 
-#### Artikel 2.17.13. Staatssteun
+##### Artikel 2.17.13. Staatssteun
 
 Indien de subsidie staatssteun bevat dan dient het gerechtvaardigd te worden door:
 
@@ -7530,7 +7556,7 @@ Indien de subsidie staatssteun bevat dan dient het gerechtvaardigd te worden doo
 
 - b. de Algemene groepsvrijstellingsverordening.
 
-#### Artikel 2.17.14. Vervaltermijn
+##### Artikel 2.17.14. Vervaltermijn
 
 Deze [titel](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=2&titeldeel=2.17&z=2026-03-01&g=2026-03-01) vervalt met ingang van 31 december 2027, met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn aangevraagd.
 
@@ -7540,75 +7566,75 @@ Deze [titel](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=2&titelde
 
 ## Titel 4.1. Regionale Subsidies voor Spoor 1 en 2 uit het Territorial Just Transition Plan voor de regio Groot-Rijnmond
 
-#### Artikel 3.4.1. Begripsbepalingen
+##### Artikel 3.4.1. Begripsbepalingen
 
 Vervallen
 
-#### Artikel 3.4.2. Doel subsidie
+##### Artikel 3.4.2. Doel subsidie
 
 Vervallen
 
-#### Artikel 3.4.3. Doelgroep
+##### Artikel 3.4.3. Doelgroep
 
 Vervallen
 
-#### Artikel 3.4.4. Subsidiabele activiteiten
+##### Artikel 3.4.4. Subsidiabele activiteiten
 
 Vervallen
 
-#### Artikel 3.4.5. Subsidieplafond en wijze van verdeling
+##### Artikel 3.4.5. Subsidieplafond en wijze van verdeling
 
 Vervallen
 
-#### Artikel 3.4.6. Aanvraagperiode
+##### Artikel 3.4.6. Aanvraagperiode
 
 Vervallen
 
-#### Artikel 3.4.7. Hoogte van de subsidie
+##### Artikel 3.4.7. Hoogte van de subsidie
 
 Vervallen
 
-#### Artikel 3.4.8. Subsidiabele kosten
+##### Artikel 3.4.8. Subsidiabele kosten
 
 Vervallen
 
-#### Artikel 3.4.9. Starttermijn en looptijd
+##### Artikel 3.4.9. Starttermijn en looptijd
 
 Vervallen
 
-#### Artikel 3.4.10. Afwijzingsgronden
+##### Artikel 3.4.10. Afwijzingsgronden
 
 Vervallen
 
-#### Artikel 3.4.11. Beoordelingscriteria
+##### Artikel 3.4.11. Beoordelingscriteria
 
 Vervallen
 
-#### Artikel 3.4.12. Voorschot
+##### Artikel 3.4.12. Voorschot
 
 Vervallen
 
-#### Artikel 3.4.13. Subsidieaanvraag
+##### Artikel 3.4.13. Subsidieaanvraag
 
 Vervallen
 
-#### Artikel 3.4.14. Vervaltermijn
+##### Artikel 3.4.14. Vervaltermijn
 
 Vervallen
 
 ## Titel 4.4. Regionale Subsidies voor Spoor 1 en 2 uit het Territorial Just Transition Plan voor de regio Groot-Rijnmond
 
-#### Artikel 4.6.1. Begripsomschrijvingen
+##### Artikel 4.6.1. Begripsomschrijvingen
 
 In deze [titel](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=4&titeldeel=4.6&z=2026-03-01&g=2026-03-01) wordt verstaan onder:
 
 - –. **TJTP Groot-Rijnmond:** het Territorial Just Transition Plan, bedoeld in artikel 11 van de JTF-verordening met betrekking tot de JTF-regio Groot-Rijnmond.
 
-#### Artikel 4.6.2. Doel subsidie
+##### Artikel 4.6.2. Doel subsidie
 
 Het doel van de subsidie op grond van deze [titel](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=4&titeldeel=4.6&z=2026-03-01&g=2026-03-01) is het bevorderen van vernieuwing en versterking van de regionale economie met nieuwe, duurzame of circulaire industriële ketens en versnellen van de transitie met investeringen in technologie, systemen en infrastructuur tot decarbonisatie van bestaande industriële ketens.
 
-#### Artikel 4.6.3. Doelgroep
+##### Artikel 4.6.3. Doelgroep
 
 De Staatssecretaris van SZW verstrekt op aanvraag subsidie aan een aanvrager van een project dat:
 
@@ -7618,35 +7644,35 @@ De Staatssecretaris van SZW verstrekt op aanvraag subsidie aan een aanvrager van
 
 - c. past binnen de kaders van deze regeling.
 
-#### Artikel 4.6.4. Subsidiabele activiteiten
+##### Artikel 4.6.4. Subsidiabele activiteiten
 
 Subsidie op basis van deze [titel](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=4&titeldeel=4.6&z=2026-03-01&g=2026-03-01) kan worden verstrekt voor projecten die passen binnen de prioritaire as 3, spoor 1 – het vernieuwen en versterken regionale economie met duurzame en/of circulaire industriële ketens of spoor 2 – het versnellen van transitie met investeringen in technologie, systemen en infrastructuur tot decarbonisatie industriële ketens, van het Programma JTF 2021–2027.
 
-#### Artikel 4.6.5. Subsidieplafond en wijze van verdeling
+##### Artikel 4.6.5. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt € 13.597.000.
 
 2. De Staatssecretaris van SZW verdeelt het beschikbare bedrag op volgorde van ontvangst van de aanvragen, overeenkomstig [artikel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.18&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 4.6.6. Aanvraagperiode
+##### Artikel 4.6.6. Aanvraagperiode
 
 1. Een aanvraag kan worden ingediend vanaf 15 oktober 2025 9.00 uur tot en met 31 december 2029 17.00 uur.
 
 2. Aanvragen worden ingediend door middel van het door de Staatssecretaris van SZW vastgestelde aanvraagformulier dat beschikbaar is in het webportaal Externe link: [https://start.jtf-webportal.nl/](https://start.jtf-webportal.nl/).
 
-#### Artikel 4.6.7. Hoogte van de subsidie
+##### Artikel 4.6.7. Hoogte van de subsidie
 
 1. De subsidie bedraagt maximaal 50 procent van de subsidiabele kosten.
 
 2. De subsidie bedraagt ten hoogste € 1.500.000 per project.
 
-#### Artikel 4.6.8. Starttermijn en looptijd
+##### Artikel 4.6.8. Starttermijn en looptijd
 
 1. De projectactiviteiten in het kader van deze [titel](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=4&titeldeel=4.6&z=2026-03-01&g=2026-03-01) vangen niet eerder aan dan de dag waarop de aanvraag compleet is ingediend.
 
 2. De projectactiviteiten zijn uiterlijk 31 december 2029 uitgevoerd.
 
-#### Artikel 4.6.9. Beoordelingscriteria
+##### Artikel 4.6.9. Beoordelingscriteria
 
 1. Aanvragen worden beoordeeld op alle onderdelen van [artikel 1.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.20&z=2026-03-01&g=2026-03-01).
 
@@ -7664,7 +7690,7 @@ Subsidie op basis van deze [titel](https://wetten.overheid.nl/jci1.3:c:BWBR00476
 
 - f. bijdrage aan duurzame ontwikkeling en aan maatschappelijke-sociale impact: 20 punten.
 
-#### Artikel 4.6.10. Voorschot
+##### Artikel 4.6.10. Voorschot
 
 1. De Staatssecretaris van SZW verleent op basis van een gemotiveerde aanvraag een voorschot als werkkapitaal op het moment van beschikken van de subsidie van maximaal 30 procent van de subsidiabele projectkosten.
 
@@ -7674,7 +7700,7 @@ Subsidie op basis van deze [titel](https://wetten.overheid.nl/jci1.3:c:BWBR00476
 
 4. De Staatssecretaris van SZW verleent op aanvraag opvolgende voorschotten op basis van gerealiseerde projectactiviteiten als bedoeld in [artikel 1.31](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.31&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 4.6.11. Vervaltermijn
+##### Artikel 4.6.11. Vervaltermijn
 
 Deze [titel](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=4&titeldeel=4.6&z=2026-03-01&g=2026-03-01) en [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&bijlage=3&z=2026-03-01&g=2026-03-01) vervallen met ingang van 1 januari 2030, met dien verstande dat deze titel van toepassing blijft op subsidies die voor deze datum zijn aangevraagd.
 
@@ -7714,7 +7740,7 @@ Deze [titel](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=4&titelde
 
 #### Paragraaf 9.2.3. EZK-cofinanciering JTF-Rijnmond
 
-#### Artikel 9.2.3.2. EZK-cofinanciering Regionale Subsidies voor Spoor 1 en 2 uit het Territorial Just Transition Plan voor de regio Groot-Rijnmond
+##### Artikel 9.2.3.2. EZK-cofinanciering Regionale Subsidies voor Spoor 1 en 2 uit het Territorial Just Transition Plan voor de regio Groot-Rijnmond
 
 1. De Minister van EZK verstrekt subsidie voor activiteiten als bedoeld in [artikel 4.6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=4&titeldeel=4.6&artikel=4.6.4&z=2026-03-01&g=2026-03-01).
 
@@ -7830,7 +7856,7 @@ Voorstellen moeten passen binnen het Rotterdams Klimaatakkoord ([https://jtf-rij
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5.1a. Voorschot op basis van gerealiseerde projectactiviteiten
+##### Artikel 5.1a. Voorschot op basis van gerealiseerde projectactiviteiten
 
 1. In afwijking van [artikel 1.31, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.31&z=2026-03-01&g=2026-03-01), heeft de aanvraag om een voorschot betrekking op maximaal:
 
@@ -7848,7 +7874,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 6. Subsidies JTF-regio Zeeuws-Vlaanderen/Vlissingen-Oost
 
-#### Artikel 6.1a. Voorschot op basis van gerealiseerde projectactiviteiten
+##### Artikel 6.1a. Voorschot op basis van gerealiseerde projectactiviteiten
 
 1. In afwijking van [artikel 1.31, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.31&z=2026-03-01&g=2026-03-01), heeft de aanvraag om een voorschot betrekking op maximaal:
 
@@ -7868,7 +7894,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 7. Subsidies JTF-regio Zuid-Limburg
 
-#### Artikel 7.1a. Voorschot op basis van gerealiseerde projectactiviteiten
+##### Artikel 7.1a. Voorschot op basis van gerealiseerde projectactiviteiten
 
 1. In afwijking van [artikel 1.31, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&hoofdstuk=1&artikel=1.31&z=2026-03-01&g=2026-03-01), heeft de aanvraag om een voorschot betrekking op maximaal
 

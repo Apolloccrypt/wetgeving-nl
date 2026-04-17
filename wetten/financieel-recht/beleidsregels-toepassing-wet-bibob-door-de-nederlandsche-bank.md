@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregels Toepassing Wet Bibob door De Nederlandsche Bank"
 identifier: "BWBR0045026"
-categorie: "Financieel recht"
-publicatiedatum: 2021-04-08
-laatste_update: 2021-04-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045026"
+country: "nl"
+rank: "zbo"
+publication_date: "2021-04-08"
+last_updated: "2021-04-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045026"
+soort: "zbo"
+stam_id: "15921403"
+version_id: "27671122"
+internal_id: "C39037071"
+label_id: "15856764"
+dtd_version: "2.0"
+original_entry_into_force: "2021-04-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045026/2021-04-08/0"
+intitule_bron: "Stcrt.2021-16887"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-03-29"
+intitule_published: "2021-04-07"
+intitule_in_force: "2021-04-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-16887"
+original_signed_date: "2021-03-29"
+original_published_date: "2021-04-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-16887"
+entry_into_force_date: "2021-04-08"
+jci_1_3: "jci1.3:c:BWBR0045026&z=2021-04-08&g=2021-04-08"
+jci_1_0: "1.0:c:BWBR0045026&g=2021-04-08"
+citeertitel_status: "redactioneel"
+signed_date: "2021-03-29"
+entry_into_force: "2021-04-08"
 ---
-
 # Beleidsregels Toepassing Wet Bibob door De Nederlandsche Bank
 
 ### Paragraaf 1. Inleidende bepalingen

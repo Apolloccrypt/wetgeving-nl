@@ -1,14 +1,42 @@
 ---
-title: "Havenbeveiligingswet"
+title: "Wet van 6 juli 2004 tot uitvoering van Verordening (EG) nr. 725/2004 van het Europees Parlement en de Raad van de Europese Unie van 31 maart 2004 betreffende de verbetering van de beveiliging van schepen en havenfaciliteiten (PbEU L 129), alsook van andere besluiten van volkenrechtelijke organisaties met betrekking tot de beveiliging van havens (Havenbeveiligingswet)"
 identifier: "BWBR0016991"
-categorie: "Verkeer"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016991"
+country: "nl"
+rank: "wet"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016991"
+soort: "wet"
+stam_id: "5959553"
+version_id: "14509882"
+internal_id: "C19731591"
+label_id: "5949294"
+dtd_version: "2.0"
+original_entry_into_force: "2007-05-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016991/2024-01-01/0"
+intitule_bron: "Stb.2004-341"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-07-06"
+intitule_published: "2004-07-15"
+intitule_in_force: "2004-07-15"
+intitule_status: "goed"
+original_publication: "Stb.2007-179"
+original_signed_date: "2007-05-11"
+original_published_date: "2007-05-30"
+original_effect: "structuurwijziging"
+original_dossier: "30888"
+original_url_id: "stb-2007-179"
+entry_into_force_date: "2007-05-11"
+entry_into_force_dossier: "30888"
+jci_1_3: "jci1.3:c:BWBR0016991&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0016991&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Havenbeveiligingswet"
+signed_date: "2007-05-11"
+entry_into_force: "2007-05-11"
 ---
-
-# Havenbeveiligingswet
+# Wet van 6 juli 2004 tot uitvoering van Verordening (EG) nr. 725/2004 van het Europees Parlement en de Raad van de Europese Unie van 31 maart 2004 betreffende de verbetering van de beveiliging van schepen en havenfaciliteiten (PbEU L 129), alsook van andere besluiten van volkenrechtelijke organisaties met betrekking tot de beveiliging van havens (Havenbeveiligingswet)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +48,7 @@ De datum van inwerkingtreding is ingevolge artikel 12, tweede lid van de Tijdeli
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -50,7 +78,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 1a. Reikwijdte
 
-#### Artikel 2
+##### Artikel 2
 
 1. Als bevoegde autoriteiten voor de maritieme beveiliging, bedoeld in artikel 2, zevende lid, van de Verordening worden aangewezen:
 
@@ -62,17 +90,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 2. De bevoegde autoriteiten, bedoeld in het eerste lid, dragen zorg voor de uitvoering van de taken, onderscheidenlijk de nakoming van de verplichtingen die ingevolge de Verordening op Nederland rusten, ieder voor zoveel deze hem zijn opgedragen.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 1. In de gemeenten met een of meer havenfaciliteiten is de burgemeester het bevoegd gezag voor de uitvoering, respectievelijk de toepassing van artikel 7, eerste, derde en vijfde lid, van de Verordening en voorschrift 10, tweede en derde lid, van Bijlage I, de onderdelen 5.4, onder 2, 15 en 16 van Bijlage II en de onderdelen 1.16, 4.1, 4.2, 4.14, 4.15, 4.16, 4.18, 15.3, 15.4, 15.6, 16.3, 16.8, 17.1, 18.5 en 18.6 van Bijlage III van de Verordening, voorzover deze betrekking hebben op havenfaciliteiten.
 
 2. Ingeval een havenfaciliteit op het grondgebied van meer dan één gemeente is gelegen, wordt de functie van bevoegde autoriteit voor de havenbeveiliging vervuld door de burgemeester van de gemeente waarin het grootste deel van de oppervlakte van die havenfaciliteit is gelegen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Bij de vervulling van zijn taken ingevolge deze wet neemt de burgemeester, en in een situatie als bedoeld in [artikel 12, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016991&paragraaf=4&artikel=12&z=2024-01-01&g=2024-01-01), de voorzitter van de veiligheidsregio, de algemene en bijzondere aanwijzingen van Onze Minister in acht.
 
@@ -80,13 +108,13 @@ Vervallen
 
 #### § 3. Havenbeveiligingscertificaten
 
-#### Artikel 6
+##### Artikel 6
 
 1. Op aanvraag van de beheerder van een havenfaciliteit beslist de burgemeester omtrent het verlenen van instemming, bedoeld in voorschrift 10, tweede lid, onderdeel 2 van Bijlage I van de Verordening, met het beveiligingsplan van die havenfaciliteit.
 
 2. Bij de beslissing op de aanvraag wordt de meest recente veiligheidsbeoordeling van de havenfaciliteit betrokken.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Als bewijs van instemming, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016991&paragraaf=3&artikel=6&z=2024-01-01&g=2024-01-01), geeft de burgemeester een havenbeveiligingscertificaat af.
 
@@ -94,13 +122,13 @@ Vervallen
 
 3. Van elk door hem afgegeven havenbeveiligingscertificaat doet de burgemeester onverwijld schriftelijk mededeling aan Onze Minister.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0016991&paragraaf=3&artikel=6&z=2024-01-01&g=2024-01-01) en [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016991&paragraaf=3&artikel=7&z=2024-01-01&g=2024-01-01), zijn mede van toepassing op aanvragen die betrekking hebben op een wijziging van de inhoud van een veiligheidsbeoordeling, onderscheidenlijk van de inhoud van een beveiligingsplan van een havenfaciliteit.
 
 2. Ingeval met de wijziging van een beveiligingsplan wordt ingestemd en het certificaat, afgegeven ingevolge [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016991&paragraaf=3&artikel=7&z=2024-01-01&g=2024-01-01), nog geldig is, wordt de instemming verleend voor de resterende looptijd van het certificaat en als bewijs hiervan een aanhangsel bij dat certificaat afgegeven.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De burgemeester trekt een door hem gegeven instemming en het bijbehorende havenbeveiligingscertificaat in, indien hem is gebleken dat de beheerder van de havenfaciliteit bij de aanvraag onjuiste of onvolledige gegevens heeft verstrekt en de verstrekking van juiste of volledige gegevens tot een ander besluit op diens aanvraag zou hebben geleid.
 
@@ -108,7 +136,7 @@ Vervallen
 
 3. [Artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016991&paragraaf=3&artikel=7&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De burgemeester kan de beheerder van een havenfaciliteit ontheffing verlenen van de eis om in het bezit te zijn van een beveiligingsplan waarmee hij heeft ingestemd, mits de beheerder beschikt over een gelijkwaardige beveiligingsregeling, waarmee de burgemeester heeft ingestemd.
 
@@ -120,13 +148,13 @@ Vervallen
 
 5. Het tweede en het derde lid zijn niet van toepassing ingeval de overslag van goederen, onderscheidenlijk het overbrengen van passagiers plaatsvindt tussen twee schepen die elk een schip zijn als bedoeld in artikel 3 van de Verordening.
 
-#### Artikel 11
+##### Artikel 11
 
 Het is de beheerder van een havenfaciliteit niet toegestaan een activiteit als bedoeld in artikel 2, twaalfde lid, van de Verordening in zijn havenfaciliteit te verrichten of toe te laten dat deze wordt verricht, indien de beheerder niet in het bezit is van een geldig havenbeveiligingscertificaat of een ontheffing als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0016991&paragraaf=3&artikel=10&z=2024-01-01&g=2024-01-01).
 
 #### § 4. Veiligheidsniveaus
 
-#### Artikel 12
+##### Artikel 12
 
 1. Wanneer de veiligheidsniveaus 2 of 3 niet van toepassing zijn, geldt veiligheidsniveau 1.
 
@@ -138,13 +166,13 @@ Het is de beheerder van een havenfaciliteit niet toegestaan een activiteit als b
 
 #### § 5. Overige bepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 1. Bij regeling van Onze Minister kunnen regels worden gesteld ter uitvoering van voorschrift 10, derde lid, van Bijlage I van de Verordening.
 
 2. Bij regeling van Onze Minister kunnen, voorzover nodig voor een goede toepassing van de Verordening, nadere regels worden gesteld omtrent de onderwerpen, genoemd in artikel 3, derde lid, van de Verordening, alsmede in de onderdelen 3.2, 5.6, 14.3, 15.3, 15.6, 16.6, 16.7 en 17 van Bijlage II van de Verordening, voorzover deze betrekking hebben op havenfaciliteiten.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Onverminderd [artikel 7 van de Wet particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=7) zijn personen die bij havenfaciliteiten beveiligingswerkzaamheden verrichten als bedoeld in [artikel 1, onderdeel c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=1), in het bezit van een op naam gesteld en geldig certificaat Havenbeveiliger als bewijs dat zij met goed gevolg het examen Havenbeveiliger hebben afgelegd.
 
@@ -156,7 +184,7 @@ Het is de beheerder van een havenfaciliteit niet toegestaan een activiteit als b
 
 5. Bij regeling van Onze Minister worden regels gesteld betreffende de voorwaarden voor registratie van bestaande certificaten en de geldigheidsduur van deze registratie.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen ter uitvoering van verdragen of van besluiten van instellingen van de EU alleen of gezamenlijk, regels worden gesteld omtrent:
 
@@ -168,7 +196,7 @@ Het is de beheerder van een havenfaciliteit niet toegestaan een activiteit als b
 
 3. Ten behoeve van de nakoming van de regels, bedoeld in het eerste lid, en het toezicht hierop kunnen persoonsgegevens worden verwerkt. Deze gegevensverwerking heeft tot doel de verbetering van de beveiliging van schepen en havenfaciliteiten te ondersteunen. Onze Minister of de bij of krachtens algemene maatregel van bestuur aangewezen bevoegde autoriteit is verwerkingsverantwoordelijke.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De verplichtingen ingevolge de Verordening en deze wet zijn met ingang van 1 juli 2005 mede van toepassing op de voor binnenlandse reizen gebruikte passagiersschepen die behoren tot Klasse A als bedoeld in de bij regeling van Onze Minister aangewezen richtlijn inzake veiligheidsvoorschriften en -normen voor passagiersschepen.
 
@@ -176,7 +204,7 @@ Het is de beheerder van een havenfaciliteit niet toegestaan een activiteit als b
 
 #### § 6. Toezicht op de naleving en bestuursdwang
 
-#### Artikel 17
+##### Artikel 17
 
 1. Met het toezicht op de naleving van de Verordening en het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen personen.
 
@@ -184,7 +212,7 @@ Het is de beheerder van een havenfaciliteit niet toegestaan een activiteit als b
 
 3. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Onze Minister is, als bevoegd gezag ingevolge deze wet of ingevolge een algemene maatregel van bestuur als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016991&paragraaf=5&artikel=15&z=2024-01-01&g=2024-01-01), bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.
 
@@ -192,21 +220,21 @@ Het is de beheerder van een havenfaciliteit niet toegestaan een activiteit als b
 
 #### § 7. Slotbepalingen
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt de Scheepvaartverkeerswet.
 
-#### Artikel 20
+##### Artikel 20
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met dien verstande dat indien de datum van uitgifte op 29 juni 2004 of een eerder tijdstip is gelegen, [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0016991&paragraaf=3&artikel=11&z=2024-01-01&g=2024-01-01) met ingang van 1 juli 2004 in werking treedt.*Op grond van artikel 12, tweede lid, van de Tijdelijke referendumwet is de inwerkingtreding van deze wet opgeschort. Deze wet treedt in werking met ingang van 21 augustus 2004.
 
-#### Artikel 21
+##### Artikel 21
 
 Deze wet wordt aangehaald als: Havenbeveiligingswet.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. Deze wet is van toepassing op:
 
@@ -226,11 +254,11 @@ met uitzondering van militaire installaties.
 
 #### § 2. Bevoegde autoriteiten voor de maritieme beveiliging en andere instanties voor de beveiliging van de haven
 
-#### Artikel 4a
+##### Artikel 4a
 
 Onze Minister is de instantie voor havenbeveiliging, bedoeld in artikel 3, vierde lid, van de richtlijn.
 
-#### Artikel 4b
+##### Artikel 4b
 
 1. De burgemeester van een gemeente waarin een haven of havengerelateerd gebied is gelegen, is de autoriteit voor havenveiligheid, bedoeld in artikel 5, eerste lid, van de richtlijn.
 
@@ -238,7 +266,7 @@ Onze Minister is de instantie voor havenbeveiliging, bedoeld in artikel 3, vierd
 
 3. Van een aanwijzing als bedoeld in het tweede lid wordt door de aangewezen autoriteit voor havenveiligheid mededeling gedaan in het door het bestuur van de gemeente waarvan die autoriteit burgemeester is uitgegeven gemeenteblad, waarbij wordt aangegeven voor welke gemeenten die aanwijzing van toepassing is.
 
-#### Artikel 4c
+##### Artikel 4c
 
 1. Een autoriteit voor havenveiligheid wijst een havenveiligheidsfunctionaris aan als bedoeld in artikel 9, eerste lid, van de richtlijn.
 
@@ -248,11 +276,11 @@ Onze Minister is de instantie voor havenbeveiliging, bedoeld in artikel 3, vierd
 
 4. Indien een havenveiligheidsfunctionaris niet tevens de havenbeveiligingsbeambte van een havenfaciliteit als bedoeld in Bijlage II, deel A, onderdeel 2.1, onder 8, van de Verordening is, werken deze bij de uitvoering van hun taken nauw samen.
 
-#### Artikel 4d
+##### Artikel 4d
 
 Een autoriteit voor havenveiligheid draagt zorg voor de coördinatie van de havenveiligheidsmaatregelen die uit de Verordening voortvloeien en de maatregelen die uit de richtlijn voortvloeien.
 
-#### Artikel 4e
+##### Artikel 4e
 
 1. Onze Minister kan veiligheidsorganisaties aanwijzen waaraan het uitvoeren van een havenveiligheidsbeoordeling of het opstellen of het wijzigen van een havenveiligheidsplan kan worden opgedragen.
 
@@ -260,7 +288,7 @@ Een autoriteit voor havenveiligheid draagt zorg voor de coördinatie van de have
 
 3. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 4f
+##### Artikel 4f
 
 Onze Minister is de instantie voor havenveiligheidsaspecten bedoeld in artikel 12 van de richtlijn.
 
@@ -268,7 +296,7 @@ Onze Minister is de instantie voor havenveiligheidsaspecten bedoeld in artikel 1
 
 #### § 3a. Havenveiligheidsbeoordelingen en havenveiligheidsplan
 
-#### Artikel 11a
+##### Artikel 11a
 
 1. Een autoriteit voor havenveiligheid voert ten minste elke vijf jaar een havenveiligheidsbeoordeling uit voor de desbetreffende haven en het desbetreffende havengerelateerde gebied.
 
@@ -286,7 +314,7 @@ Onze Minister is de instantie voor havenveiligheidsaspecten bedoeld in artikel 1
 
 8. Na de instemming, bedoeld in het zevende lid, wordt de havenveiligheidsbeoordeling ter kennisgeving gezonden aan het bestuur van de veiligheidsregio.
 
-#### Artikel 11b
+##### Artikel 11b
 
 1. Een autoriteit voor havenveiligheid stelt voor de desbetreffende haven en voor het desbetreffende havengerelateerde gebied een havenveiligheidsplan op, indien de uitkomsten van een havenveiligheidsbeoordeling daar naar het oordeel van de autoriteit voor havenveiligheid aanleiding toe geven.
 
@@ -310,13 +338,13 @@ Onze Minister is de instantie voor havenveiligheidsaspecten bedoeld in artikel 1
 
 #### § 6. Toezicht op de naleving en last onder bestuursdwang
 
-#### Artikel 16a
+##### Artikel 16a
 
 Een autoriteit voor havenveiligheid verstrekt op verzoek van Onze Minister aan hem, binnen de bij dat verzoek aangegeven periode, alle inlichtingen met betrekking tot de uitvoering van het havenveiligheidsplan in de desbetreffende haven of in het desbetreffende havengerelateerde gebied.
 
 #### § 6b. Vertrouwelijkheid en verspreiding van informatie
 
-#### Artikel 18a
+##### Artikel 18a
 
 Voor zover noodzakelijk om te voldoen aan de vereisten van artikel 16, tweede lid, van de richtlijn, wijst Onze Minister, in overeenstemming met [artikel 3, eerste lid, van de Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=3), functies als vertrouwensfuncties aan.
 
@@ -324,13 +352,13 @@ Voor zover noodzakelijk om te voldoen aan de vereisten van artikel 16, tweede li
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 19a
+##### Artikel 19a
 
 Een wijziging van de richtlijn bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0016991&paragraaf=1&artikel=1&z=2024-01-01&g=2024-01-01), gaat voor de toepassing van deze wet gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 14a
+##### Artikel 14a
 
 1. Bij ministeriële regeling wordt bepaald in welke van de in onderdeel 18.1 van Bijlage III bij de Verordening genoemde onderdelen een veiligheidsbeambte van een havenfaciliteit moet worden opgeleid.
 
@@ -338,7 +366,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### § 6. Toezicht op de naleving en last onder bestuursdwang
 
-#### Artikel 16b
+##### Artikel 16b
 
 Bij regeling van Onze Minister kunnen nadere regels worden gesteld over de uitvoering van voorschrift 9, Bijlage I bij de Verordening, waaronder over de bevoegdheid om op te treden.
 

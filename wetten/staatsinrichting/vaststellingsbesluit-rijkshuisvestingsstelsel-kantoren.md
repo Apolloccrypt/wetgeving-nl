@@ -1,32 +1,58 @@
 ---
-title: "Vaststellingsbesluit Rijkshuisvestingsstelsel kantoren"
+title: "Besluit van de Minister voor Wonen en Rijksdienst van 22 juni 2016, nr. 2016-0000025780, tot vaststelling van het Rijkshuisvestingsstelsel voor kantoren (Vaststellingsbesluit Rijkshuisvestingsstelsel kantoren)"
 identifier: "BWBR0038279"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038279"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038279"
+soort: "ministeriele-regeling"
+stam_id: "13695433"
+version_id: "23460172"
+internal_id: "C33799061"
+label_id: "13661834"
+dtd_version: "2.0"
+original_entry_into_force: "2016-07-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038279/2024-01-01/0"
+intitule_bron: "Stcrt.2016-35177"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-06-22"
+intitule_published: "2016-07-15"
+intitule_in_force: "2016-07-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-35177"
+original_signed_date: "2016-06-22"
+original_published_date: "2016-07-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-35177"
+entry_into_force_date: "2016-07-16"
+jci_1_3: "jci1.3:c:BWBR0038279&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0038279&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Vaststellingsbesluit Rijkshuisvestingsstelsel kantoren"
+signed_date: "2016-06-22"
+entry_into_force: "2016-07-16"
 ---
-
 # Besluit van de Minister voor Wonen en Rijksdienst van 22 juni 2016, nr. 2016-0000025780, tot vaststelling van het Rijkshuisvestingsstelsel voor kantoren (Vaststellingsbesluit Rijkshuisvestingsstelsel kantoren)
 
 Gelet op [artikel 2, eerste lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=2);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038279&bijlage=I&z=2024-01-01&g=2024-01-01), bij dit besluit, wordt vastgesteld als kader ter bevordering van de eenheid, de kwaliteit en de efficiëntie van huisvesting door de ministeries.
 
-#### Artikel 2
+##### Artikel 2
 
 De Minister voor Wonen en Rijksdienst zendt binnen vijf jaar na de inwerkingtreding van dit besluit een verslag aan de ministerraad over de doeltreffendheid en de effecten in de praktijk van het bij dit besluit gevoegde ‘Rijkshuisvestingsstelsel voor kantoren’.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt terug tot en met 1 januari 2016.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Vaststellingsbesluit Rijkshuisvestingsstelsel kantoren.
 

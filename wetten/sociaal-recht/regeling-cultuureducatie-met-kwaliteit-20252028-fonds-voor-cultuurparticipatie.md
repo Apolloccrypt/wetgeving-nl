@@ -1,13 +1,39 @@
 ---
-title: "Regeling Cultuureducatie met Kwaliteit 2025–2028 Fonds voor Cultuurparticipatie"
+title: "Regeling Cultuureducatie met Kwaliteit 2025–2028"
 identifier: "BWBR0048932"
-categorie: "Sociaal recht"
-publicatiedatum: 2023-11-23
-laatste_update: 2023-11-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048932"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-11-23"
+last_updated: "2023-11-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048932"
+soort: "zbo"
+stam_id: "16928703"
+version_id: "29752182"
+internal_id: "C42641361"
+label_id: "16840444"
+dtd_version: "2.0"
+original_entry_into_force: "2023-11-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048932/2023-11-23/0"
+intitule_bron: "Stcrt.2023-31923"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-11-14"
+intitule_published: "2023-11-22"
+intitule_in_force: "2023-11-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-31923"
+original_signed_date: "2023-11-14"
+original_published_date: "2023-11-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-31923"
+entry_into_force_date: "2023-11-23"
+jci_1_3: "jci1.3:c:BWBR0048932&z=2023-11-23&g=2023-11-23"
+jci_1_0: "1.0:c:BWBR0048932&g=2023-11-23"
+citeertitel_status: "officieel"
+short_title: "Regeling Cultuureducatie met Kwaliteit 2025–2028 Fonds voor Cultuurparticipatie"
+signed_date: "2023-11-14"
+entry_into_force: "2023-11-23"
 ---
-
 # Regeling Cultuureducatie met Kwaliteit 2025–2028
 
 gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
@@ -24,7 +50,7 @@ vast te stellen de: Regeling Cultuureducatie met Kwaliteit 2025–2028 Fonds voo
 
 ### Hoofdstuk 1. – Algemene bepalingen
 
-#### Artikel 1.1. Gebruikte begrippen
+##### Artikel 1.1. Gebruikte begrippen
 
 - a. **Achterstandsscore:** de achterstandsscores geven de verwachte onderwijsachterstanden op scholen aan. Aan de hand van deze scores verdeelt het Ministerie van OCW het onderwijsachterstandenbudget over de scholen;
 
@@ -94,15 +120,15 @@ vast te stellen de: Regeling Cultuureducatie met Kwaliteit 2025–2028 Fonds voo
 
 - hh. **Subsidie:** Een financiële bijdrage of toekenning van middelen door het fonds aan een aanvrager op basis van een gehonoreerde aanvraag.
 
-#### Artikel 1.2. Doel van de regeling
+##### Artikel 1.2. Doel van de regeling
 
 Het Fonds verstrekt in de periode 2025–2028 meerjarige stimuleringssubsidies. Het doel van deze subsidies is het duurzaam versterken van de kwaliteit van cultuureducatie, onder andere door middel van intensieve samenwerking tussen onderwijs en de culturele sector. Deze samenwerking is gebaseerd op een onderwijskundige visie op cultuureducatie, vergroot de kansengelijkheid van kinderen en jongeren en stelt de culturele ontwikkeling van leerlingen en studenten centraal.
 
-#### Artikel 1.3. Subsidieperiode
+##### Artikel 1.3. Subsidieperiode
 
 Subsidie wordt verstrekt voor een periode van vier kalenderjaren, namelijk van 2025 tot en met 2028.
 
-#### Artikel 1.4. Subsidieplafond en beschikbare bedragen
+##### Artikel 1.4. Subsidieplafond en beschikbare bedragen
 
 1. Het subsidieplafond voor het totaal van de aanvragen is € 15.231.238 per kalenderjaar.
 
@@ -120,7 +146,7 @@ Subsidie wordt verstrekt voor een periode van vier kalenderjaren, namelijk van 2
 
 - b. Een besluit tot het vaststellen, verhogen of verlagen van een subsidieplafond wordt bekendgemaakt via [de website van het Fonds](onbekend).
 
-#### Artikel 1.5. Matching met provincie en gemeente
+##### Artikel 1.5. Matching met provincie en gemeente
 
 1. De aan het Fonds gevraagde subsidie bedraagt de som van het aantal inwoners per provincie of gemeente, vermenigvuldigd met € 0,85 per jaar. Indien er gerekend wordt met de som van het aantal inwoners per provincie worden de gemeenten of regio's die zelfstandig penvoerderschap voeren niet meegerekend. Het bedrag wordt gematcht door de provincie of gemeente.
 
@@ -134,7 +160,7 @@ Subsidie wordt verstrekt voor een periode van vier kalenderjaren, namelijk van 2
 
 ### Hoofdstuk 2. – Weigeringsgronden en voorwaarden
 
-#### Artikel 2.1. Weigeringsgronden
+##### Artikel 2.1. Weigeringsgronden
 
 1. Het Fonds weigert in ieder geval subsidie als voor dezelfde activiteiten in dezelfde periode reeds subsidie is of zal worden verleend:
 
@@ -166,7 +192,7 @@ Subsidie wordt verstrekt voor een periode van vier kalenderjaren, namelijk van 2
 
 - j. als sprake is van een in [artikel 4:35 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) opgenomen weigeringsgrond.
 
-#### Artikel 2.2. Voorwaarden
+##### Artikel 2.2. Voorwaarden
 
 1. De aanvrager dient aan te tonen dat hij in 2020, 2021 en 2022 subsidie heeft ontvangen van de lokale overheid, tenzij dit reeds bekend is bij het Fonds.
 
@@ -176,23 +202,23 @@ Subsidie wordt verstrekt voor een periode van vier kalenderjaren, namelijk van 2
 
 - b. voortkomt uit een fusie van instellingen waarvan in ieder geval één instelling voorheen structureel werd gesubsidieerd.
 
-#### Artikel 2.3. Aanvullende voorwaarden
+##### Artikel 2.3. Aanvullende voorwaarden
 
 1. De penvoerder, scholen en culturele instellingen zijn verplicht samen te werken met een of meerdere instellingen voor hoger onderwijs.
 
 2. Alleen als een penvoerder, naar het oordeel van het Fonds, voldoende gemotiveerd kan toelichten dat een samenwerking met een instelling voor hoger onderwijs redelijkerwijs niet haalbaar is, kan het Fonds ertoe overgaan de in het eerste lid bedoelde samenwerking niet verplicht te stellen.
 
-#### Artikel 2.4. Beperking
+##### Artikel 2.4. Beperking
 
 Een instelling die op basis van deze regeling subsidie ontvangt, kan voor de activiteiten waarop die subsidie betrekking heeft, in de periode waarop die subsidie betrekking heeft, geen aanspraak maken op subsidie voor deze activiteiten op basis van andere regelingen van het Fonds.
 
 ### Hoofdstuk 3. – De aanvraag
 
-#### Artikel 3.1. De aanvrager
+##### Artikel 3.1. De aanvrager
 
 Een aanvraag voor een meerjarige subsidie kan uitsluitend worden ingediend door een culturele instelling gevestigd in Europees Nederland.
 
-#### Artikel 3.2. Waarvoor kan worden aangevraagd
+##### Artikel 3.2. Waarvoor kan worden aangevraagd
 
 1. Een aanvraag voor meerjarige subsidie wordt ingediend voor het organiseren van het duurzaam versterken van de kwaliteit van cultuureducatie, onder andere door middel van intensieve samenwerking tussen onderwijs en de culturele sector. De samenwerking is gebaseerd op een onderwijskundige visie op cultuureducatie, vergroot de kansengelijkheid van kinderen en jongeren en stelt de culturele ontwikkeling van de leerling en student centraal. Het doel wordt gerealiseerd door middel van:
 
@@ -206,7 +232,7 @@ Een aanvraag voor een meerjarige subsidie kan uitsluitend worden ingediend door 
 
 - b. Het verbinden van binnen- en buitenschools om daarmee de culturele omgeving dichter bij de leerling en student te brengen.
 
-#### Artikel 3.3. Beoordelingscriteria
+##### Artikel 3.3. Beoordelingscriteria
 
 1. Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
@@ -220,37 +246,37 @@ Een aanvraag voor een meerjarige subsidie kan uitsluitend worden ingediend door 
 
 2. Om voor subsidie in aanmerking te komen moet een aanvraag op alle in het vorige lid genoemde criteria positief zijn beoordeeld. De wijze waarop de criteria worden getoetst is terug te vinden in de toelichting.
 
-#### Artikel 3.4. Indieningstermijn en behandeling aanvraag
+##### Artikel 3.4. Indieningstermijn en behandeling aanvraag
 
 1. Aanvragen kunnen vanaf 1 december 2023, 13:00 Amsterdamse tijd worden ingediend en dienen voor 1 juli 2024, 16:00 Amsterdamse tijd door het Fonds te zijn ontvangen. Een te laat ingediende aanvraag wordt niet in behandeling genomen.
 
 2. Aanvragen in deze regeling worden op volgorde van binnenkomst behandeld. Aan de aanvraag zijn bestuurlijke afspraken tussen OCW en de gemeenten dan wel provincie voorafgegaan. Deze afspraken zijn middels een intentieverklaring en adhesieverklaring vastgelegd. Per gemeente of provincie is in deze regeling bepaald hoeveel middelen er per aanvraag beschikbaar zijn.
 
-#### Artikel 3.5. Het aanvraagformulier
+##### Artikel 3.5. Het aanvraagformulier
 
 1. Een aanvraag wordt digitaal ingediend via het online systeem ‘Mijn Fonds’, dat bereikbaar is via [de website van het Fonds](onbekend).
 
 2. Een aanvraag wordt alleen in behandeling genomen als het volledig ingevulde formulier tijdig is ontvangen en vergezeld gaat van de vereiste bijlagen.
 
-#### Artikel 3.6. Adhesieverklaring
+##### Artikel 3.6. Adhesieverklaring
 
 De aanvraag gaat vergezeld van een ondertekende adhesieverklaring door de verantwoordelijke wethouder of gedeputeerde van de matchende gemeente of provincie. Dit is een schriftelijke steunbetuiging van een gemeente of provincie aan de penvoerder, het inhoudelijke plan en begroting die passen binnen het programma Cultuureducatie met Kwaliteit 2025–2028.
 
-#### Artikel 3.7. Beoordeling
+##### Artikel 3.7. Beoordeling
 
 Aanvragen die voldoen aan de formele vereisten om voor subsidie in aanmerking te komen worden ter advisering voorgelegd aan de interne adviescommissie van het Fonds. Het Fonds besluit over de aanvraag mede op basis van het advies van de commissie.
 
-#### Artikel 3.8. Toekenning
+##### Artikel 3.8. Toekenning
 
 1. Het Fonds kent de subsidie toe aan de penvoerder.
 
 2. De penvoerder geeft de ontvangen subsidie, overeenkomstig de in de aanvraag aangegeven verdeelwijze, door aan de bij de aanvraag betrokken instellingen.
 
-#### Artikel 3.9. Beslistermijn
+##### Artikel 3.9. Beslistermijn
 
 Het Fonds informeert de aanvrager uiterlijk 1 december 2024 schriftelijk over het besluit op de aanvraag.
 
-#### Artikel 3.10. Vaststelling subsidie
+##### Artikel 3.10. Vaststelling subsidie
 
 1. Het Fonds stelt de subsidie vast na ontvangst van de verantwoording over de gehele subsidieperiode.
 
@@ -258,7 +284,7 @@ Het Fonds informeert de aanvrager uiterlijk 1 december 2024 schriftelijk over he
 
 ### Hoofdstuk 4. – Verplichtingen en verantwoording
 
-#### Artikel 4.1. Melding van wijzigingen
+##### Artikel 4.1. Melding van wijzigingen
 
 De aanvrager doet onmiddellijk melding aan het Fonds als:
 
@@ -268,7 +294,7 @@ De aanvrager doet onmiddellijk melding aan het Fonds als:
 
 - c. er aanzienlijke inhoudelijke of zakelijke wijzigingen zijn ten opzichte van het plan op basis waarvan subsidie is verstrekt.
 
-#### Artikel 4.2. Kennisdeling, monitoring en evaluatie
+##### Artikel 4.2. Kennisdeling, monitoring en evaluatie
 
 De penvoerder is verplicht tot kennisdeling, monitoring en evaluatie van de activiteiten waarvoor subsidie is verstrekt, en:
 
@@ -282,7 +308,7 @@ De penvoerder is verplicht tot kennisdeling, monitoring en evaluatie van de acti
 
 - e. vult in 2025 de vragenlijst over klimaat en duurzaamheid in die door het Ministerie van OCW is ontwikkeld. Dit geeft de penvoerder de mogelijkheid te reflecteren over de eigen ambities ten aanzien van duurzaamheid. De antwoorden op deze vragenlijst vormen een mogelijk startpunt voor toekomstig vast te stellen duurzaamheidsbeleid van de penvoerder.
 
-#### Artikel 4.3. Verantwoording
+##### Artikel 4.3. Verantwoording
 
 1. De aanvrager stuurt jaarlijks voor 1 mei een financiële verantwoording in van de uitgevoerde activiteiten in het vorige kalenderjaar. Deze financiële verantwoording zal worden aangevuld met een verantwoording op de resultaten. In het tweede jaar, te weten 2026, en in het vierde jaar, te weten 2028, zal de aanvrager de financiële verantwoording en de verantwoording op resultaatafspraken vergezellen van een inhoudelijk voortgangsverslag.
 
@@ -292,19 +318,19 @@ De penvoerder is verplicht tot kennisdeling, monitoring en evaluatie van de acti
 
 4. De aanvrager draagt er zorg voor dat de accountant meewerkt aan onderzoeken naar de verrichte (controle)werkzaamheden door een door het Fonds aan te wijzen partij. De daaraan verbonden kosten van de penvoerder zijn voor eigen rekening.
 
-#### Artikel 4.4. Archivering
+##### Artikel 4.4. Archivering
 
 Het goedgekeurde eindrapport en databestanden met onderzoeksgegevens, die geschikt zijn voor meervoudig gebruik, dienen binnen drie maanden na publicatie van het eindrapport ofwel de afronding van het onderzoek, aangeboden te worden aan DANS, de Data Archiving and Networked Services van de Koninklijke Akademie van Wetenschappen (KNAW).
 
 De aangeboden documenten dienen geen vertrouwelijke gegevens te bevatten. Ook gerubriceerde gegevens en gegevens op grond van de wet- en regelgeving openbaar maken, moeten achterwege blijven.
 
-#### Artikel 4.5. Gebruik van open standaarden
+##### Artikel 4.5. Gebruik van open standaarden
 
 1. De penvoerder is verplicht de ICT-voorzieningen die worden ontwikkeld in het kader van de gesubsidieerde activiteiten te bouwen volgens de open standaarden.
 
 2. Indien de subsidieontvanger bij het verrichten van de gesubsidieerde activiteiten intellectuele eigendomsrechten vestigt is de subsidieverlener verplicht het materiaal volgens de principes van een Creative Commons-licenties ‘Naamsvermelding 4.0 Internationaal’ beschikbaar te stellen.
 
-#### Artikel 4.6. Culturele codes
+##### Artikel 4.6. Culturele codes
 
 De penvoerder is verplicht om de Governance Code Cultuur, de Fair Practice Code en de Code Diversiteit en Inclusie te onderschrijven en toe te passen op een wijze die ten minste voldoet aan de volgende leden:
 
@@ -340,27 +366,27 @@ De penvoerder is verplicht om de Governance Code Cultuur, de Fair Practice Code 
 
 ### Hoofdstuk 5. – Overige bepalingen
 
-#### Artikel 5.1. Fusie
+##### Artikel 5.1. Fusie
 
 1. Als er sprake is of zal zijn van een juridische fusie tussen twee of meer instellingen wordt bij het beoordelen van de aanvraag uitgegaan van het totaal van de individuele resultaten.
 
 2. Aan de subsidieverlening kunnen verplichtingen worden verbonden met betrekking tot de termijn waarbinnen het in de aanvraag opgenomen voornemen tot fusie gerealiseerd moet zijn.
 
-#### Artikel 5.2. Hardheidsclausule
+##### Artikel 5.2. Hardheidsclausule
 
 Het Fonds kan in uitzonderlijke gevallen ten gunste van een belanghebbende van bepalingen in dit reglement afwijken indien toepassing daarvan leidt tot onbillijkheden van overwegende aard.
 
-#### Artikel 5.3. Algemeen Subsidiereglement
+##### Artikel 5.3. Algemeen Subsidiereglement
 
 De bepalingen in het [Algemeen Subsidiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0045516) zijn van toepassing, tenzij in deze regeling anders is bepaald.
 
-#### Artikel 5.4. Inwerkingtreding en vervaldatum
+##### Artikel 5.4. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 31 december 2029. Op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond, blijft het bepaalde in deze regeling van overeenkomstige toepassing.
 
-#### Artikel 5.5. Citeertitel
+##### Artikel 5.5. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Cultuureducatie met Kwaliteit 2025–2028 Fonds voor Cultuurparticipatie.
 

@@ -1,13 +1,37 @@
 ---
 title: "Instellingsbeschikking Begeleidingscommissie Project Mainportontwikkeling Rotterdam (PMR)"
 identifier: "BWBR0009164"
-categorie: "Bestuursrecht"
-publicatiedatum: 1999-04-01
-laatste_update: 1999-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009164"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1999-04-01"
+last_updated: "1999-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009164"
+soort: "ministeriele-regeling"
+stam_id: "4258093"
+version_id: "6021532"
+internal_id: "C6224921"
+label_id: "4236674"
+dtd_version: "2.0"
+original_entry_into_force: "1998-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009164/1999-04-01/0"
+intitule_bron: "Stcrt.1997-244"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-12-16"
+intitule_published: "1997-12-18"
+intitule_in_force: "1997-12-18"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-244"
+original_signed_date: "1997-12-16"
+original_published_date: "1997-12-18"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1998-02-01"
+jci_1_3: "jci1.3:c:BWBR0009164&z=1999-04-01&g=1999-04-01"
+jci_1_0: "1.0:c:BWBR0009164&g=1999-04-01"
+citeertitel_status: "officieel"
+signed_date: "1997-12-16"
+entry_into_force: "1998-02-01"
 ---
-
 # Instellingsbeschikking Begeleidingscommissie Project Mainportontwikkeling Rotterdam (PMR)
 
 In overeenstemming met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Minister van Landbouw, Natuurbeheer en Visserij en de Staatssecretaris van Economische Zaken;
@@ -24,7 +48,7 @@ dat daarbij zal worden aangegeven op welke manier en in welk kader op evenwichti
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Er is een Begeleidingscommissie Project Mainportontwikkeling Rotterdam (PMR), nader te noemen: de Commissie.
 
@@ -32,7 +56,7 @@ Besluit:
 
 3. Verlenging van de in lid 2 genoemde periode vindt alleen plaats bij afzonderlijk besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De commissie heeft tot taak het begeleiden van het proces van besluitvorming in de PKB-fase met betrekking tot mainportontwikkeling Rotterdam;
 
@@ -46,7 +70,7 @@ Besluit:
 
 3. De commissie rapporteert haar bevindingen aan de Minister van Verkeer en Waterstaat.
 
-#### Artikel 3
+##### Artikel 3
 
 In de commissie worden benoemd :
 
@@ -68,17 +92,17 @@ In de commissie worden benoemd :
 
 - c. Het secretariaat van deze commissie zal onafhankelijk worden ingevuld.
 
-#### Artikel 4
+##### Artikel 4
 
 De commissie regelt haar werkzaamheden naar eigen inzicht.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De voor het functioneren van de commissie noodzakelijk geachte kosten komen ten laste van de begroting van het Ministerie van Verkeer en Waterstaat.
 
 2. Voor het gebruik maken van diensten van derden behoeft de commissie, voor zover daaraan financiële verplichtingen voor het Rijk verbonden zijn, voorafgaande goedkeuring van de Minister van Verkeer en Waterstaat.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het beheer van de bescheiden betreffende de werkzaamheden van de Commissie geschiedt met inachtneming van de bepalingen van het Besluit algemene secretarieaangelegenheden rijksadministratie op overeenkomstige wijze als bij het departement van Verkeer en Waterstaat.
 

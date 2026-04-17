@@ -1,20 +1,46 @@
 ---
-title: "Regeling vaststelling inhaaltoelage bezwarende functie politie"
+title: "Regeling van de Minister van Veiligheid en Justitie d.d. 29 augustus 2013, nr. 413923, DGPolitie/Programma Arbeidsvoorwaarden, tot vaststelling van een percentage inhaaltoeslag bezwarende functie (Regeling vaststelling inhaaltoelage bezwarende functie politie)"
 identifier: "BWBR0033857"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2025-04-01
-laatste_update: 2025-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033857"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-04-01"
+last_updated: "2025-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033857"
+soort: "ministeriele-regeling"
+stam_id: "12357273"
+version_id: "20738292"
+internal_id: "C29793341"
+label_id: "12328334"
+dtd_version: "2.0"
+original_entry_into_force: "2013-09-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033857/2025-04-01/0"
+intitule_bron: "Stcrt.2013-25277"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-08-29"
+intitule_published: "2013-09-12"
+intitule_in_force: "2013-09-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-25277"
+original_signed_date: "2013-08-29"
+original_published_date: "2013-09-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-25277"
+entry_into_force_date: "2013-09-13"
+jci_1_3: "jci1.3:c:BWBR0033857&z=2025-04-01&g=2025-04-01"
+jci_1_0: "1.0:c:BWBR0033857&g=2025-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling vaststelling inhaaltoelage bezwarende functie politie"
+signed_date: "2013-08-29"
+entry_into_force: "2013-09-13"
 ---
-
 # Regeling van de Minister van Veiligheid en Justitie d.d. 29 augustus 2013, nr. 413923, DGPolitie/Programma Arbeidsvoorwaarden, tot vaststelling van een percentage inhaaltoeslag bezwarende functie (Regeling vaststelling inhaaltoelage bezwarende functie politie)
 
 Gelet op [artikel 12d, vierde en vijfde lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=12d);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -72,29 +98,29 @@ In deze regeling wordt verstaan onder:
 
 - aa. **TBF:** Toelage bezwarende functie: de toelage bezwarende functie, bedoeld in [artikel 12c, eerste lid, van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=12c);
 
-#### Artikel 2
+##### Artikel 2
 
 1. De iTBF bedraagt een percentage van de berekeningsgrondslag genoemd in [artikel 12a van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=12a), en indien voldaan wordt aan de in [artikel 12d, vijfde lid, van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=12d) gestelde voorwaarde, een aanvullend percentage.
 
 2. De percentages worden berekend volgens de in de bijlage bij deze regeling neergelegde stappenplan en rekenformule.
 
-#### Artikel 3
+##### Artikel 3
 
 Het percentage en aanvullende percentage iTBF worden ten behoeve van de ambtenaar door het ABP berekend en na advies van het ABP hierover, door het bevoegd gezag vastgesteld.
 
-#### Artikel 4
+##### Artikel 4
 
 Voor de berekening van het percentage en aanvullende percentage voor de iTBF wordt 4 procent als rendement gehanteerd.
 
-#### Artikel 5
+##### Artikel 5
 
 Het bevoegd gezag stelt de ambtenaar schriftelijk in kennis van de toekenning van de iTBF of omdat hij niet voldoet aan de in [artikel 12d, vijfde lid, van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=12d), gestelde voorwaarden van de afwijzing.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2006.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling vaststelling inhaaltoelage bezwarende functie politie.
 

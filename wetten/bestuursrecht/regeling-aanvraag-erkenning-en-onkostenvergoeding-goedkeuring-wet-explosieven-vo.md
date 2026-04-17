@@ -1,24 +1,48 @@
 ---
 title: "Regeling aanvraag erkenning en onkostenvergoeding goedkeuring Wet explosieven voor civiel gebruik"
 identifier: "BWBR0006962"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-01-01
-laatste_update: 2021-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006962"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-01-01"
+last_updated: "2021-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006962"
+soort: "ministeriele-regeling"
+stam_id: "4329553"
+version_id: "6093862"
+internal_id: "C6297371"
+label_id: "4308154"
+dtd_version: "2.0"
+original_entry_into_force: "1994-10-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006962/2021-01-01/0"
+intitule_bron: "Stcrt.1994-204"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-10-12"
+intitule_published: "1994-10-24"
+intitule_in_force: "1994-10-24"
+intitule_status: "goed"
+original_publication: "Stcrt.1994-204"
+original_signed_date: "1994-10-12"
+original_published_date: "1994-10-24"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1994-10-26"
+jci_1_3: "jci1.3:c:BWBR0006962&z=2021-01-01&g=2021-01-01"
+jci_1_0: "1.0:c:BWBR0006962&g=2021-01-01"
+citeertitel_status: "officieel"
+signed_date: "1994-10-12"
+entry_into_force: "1994-10-26"
 ---
-
 # Regeling aanvraag erkenning en onkostenvergoeding goedkeuring Wet explosieven voor civiel gebruik
 
 Gelet op [artikel 19, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&artikel=19), en [artikel 32 van de Wet explosieven voor civiel gebruik](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&artikel=32);
 
 Besluit
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 1. De aanvrager van een erkenning of, indien de aanvrager een rechtspersoon is, degene die onmiddellijk leiding geeft aan het bedrijf, voldoet aan de eisen met betrekking tot zedelijk gedrag, genoemd in het tweede, derde en vierde lid.
 
@@ -44,13 +68,13 @@ In deze regeling wordt verstaan onder:
 
 6. Voor de toepassing van het derde lid wordt een onherroepelijke strafbeschikking met een veroordeling gelijk gesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De aanvrager van een erkenning of, indien de aanvrager een rechtspersoon is, degene die onmiddellijk leiding geeft aan het bedrijf legt bij zijn aanvraag de gegevens over, genoemd in de bijlage bij deze regeling.
 
 2. Indien het bedrijf, bedoeld in het eerste lid, meer dan één vestiging heeft, wordt voor iedere vestiging een afzonderlijke erkenning aangevraagd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Ter vergoeding van de kosten die voortvloeien uit de behandeling van een aanvraag om goedkeuring is de aanvrager aan het Rijk verschuldigd: € 127,–.
 
@@ -58,11 +82,11 @@ In deze regeling wordt verstaan onder:
 
 3. Ter vergoeding van de kosten die voortvloeien uit de behandeling van een aanvraag om erkenning of verlenging van de geldigheidsduur daarvan is de aanvrager aan de betrokken regio verschuldigd: € 121,–, respectievelijk € 60,–.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 oktober 1994.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling aanvraag erkenning en onkostenvergoeding goedkeuring Wet explosieven voor civiel gebruik.
 
@@ -70,7 +94,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlage. (Behoort bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006962&artikel=3&z=2021-01-01&g=2021-01-01), van de Regeling aanvraag erkenning en onkostenvergoeding goedkeuring Wet explosieven voor civiel gebruik)
 
-#### **Aanvraag van een erkenning**
+##### **Aanvraag van een erkenning**
 
 1. Met betrekking tot de aanvrager:
 

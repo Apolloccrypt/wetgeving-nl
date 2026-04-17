@@ -1,13 +1,39 @@
 ---
-title: "Mandaatbesluit openbaar ministerie directeur bedrijfsvoering arrondissementsparket te Den Bosch 2009"
+title: "Regeling van de hoofdofficier van justitie te Den Bosch houdende het verlenen van mandaat, volmacht en machtiging aan de directeur bedrijfsvoering"
 identifier: "BWBR0027971"
-categorie: "Bestuursrecht"
-publicatiedatum: 2010-07-29
-laatste_update: 2010-07-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027971"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-07-29"
+last_updated: "2010-07-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027971"
+soort: "ministeriele-regeling"
+stam_id: "10622843"
+version_id: "17549342"
+internal_id: "C24286131"
+label_id: "10597734"
+dtd_version: "2.0"
+original_entry_into_force: "2010-07-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027971/2010-07-29/0"
+intitule_bron: "Stcrt.2010-11807"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-03-24"
+intitule_published: "2010-07-27"
+intitule_in_force: "2010-07-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-11807"
+original_signed_date: "2010-03-24"
+original_published_date: "2010-07-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-11807"
+entry_into_force_date: "2010-07-29"
+jci_1_3: "jci1.3:c:BWBR0027971&z=2010-07-29&g=2010-07-29"
+jci_1_0: "1.0:c:BWBR0027971&g=2010-07-29"
+citeertitel_status: "officieel"
+short_title: "Mandaatbesluit openbaar ministerie directeur bedrijfsvoering arrondissementsparket te Den Bosch 2009"
+signed_date: "2010-03-24"
+entry_into_force: "2010-07-29"
 ---
-
 # Regeling van de hoofdofficier van justitie te Den Bosch houdende het verlenen van mandaat, volmacht en machtiging aan de directeur bedrijfsvoering
 
 Overwegende dat bij besluit van 18 december 2009, nummer PaG/14398 het mandaat, de volmacht en de machtiging verleend aan de voorzitter van het Bestuur van de regio Den Bosch, is geregeld;
@@ -26,7 +52,7 @@ Besluit:
 
 #### Paragraaf 1. Definities
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -52,7 +78,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 2. De bevoegdheden
 
-#### Artikel 2. De bevoegdheden van de (regionaal) directeur bedrijfsvoering
+##### Artikel 2. De bevoegdheden van de (regionaal) directeur bedrijfsvoering
 
 1. Volmacht privaatrechtelijke rechtshandelingen
 
@@ -106,7 +132,7 @@ Aan de directeur bedrijfsvoering wordt mandaat en machtiging verleend om besluit
 
 #### Paragraaf 3. Voorwaarden verbonden aan het uitoefenen van de bevoegdheid
 
-#### Artikel 3. Voorwaarden verbonden aan het uitoefenen van het mandaat, volmacht en machtiging
+##### Artikel 3. Voorwaarden verbonden aan het uitoefenen van het mandaat, volmacht en machtiging
 
 1. De directeur bedrijfsvoering is gehouden bij het uitoefenen van bevoegdheden de verplichting na te leven tot het vaststellen van de hoofdlijnen van arbeidsomstandighedenbeleid gericht op het bevorderen van een zo groot mogelijke veiligheid, een zo goed mogelijke bescherming van de veiligheid, een zo goed mogelijke bescherming van de gezondheid en het welzijn van de binnen zijn gezagsbereik werkzame ambtenaren in verband met de arbeid.
 
@@ -148,7 +174,7 @@ Aan de directeur bedrijfsvoering wordt mandaat en machtiging verleend om besluit
 
 #### Paragraaf 4. Beslissingen op bezwaar en beroep
 
-#### Artikel 4. Beslissingen op bezwaar en beroep
+##### Artikel 4. Beslissingen op bezwaar en beroep
 
 1. De hoofdofficier van justitie van het arrondissementsparket te Den Bosch beslist op een bezwaar of een beroep dat is gericht tegen een beslissing die is genomen door de directeur bedrijfsvoering, alsmede op een daarmee verband houdend verzoek als bedoeld in [artikel 7:1a, eerste lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1a).
 
@@ -156,7 +182,7 @@ Aan de directeur bedrijfsvoering wordt mandaat en machtiging verleend om besluit
 
 #### Paragraaf 5. Verlenen van ondermandaat
 
-#### Artikel 5. Ondermandaat
+##### Artikel 5. Ondermandaat
 
 1. De directeur bedrijfsvoering wordt toegestaan – met de nadrukkelijke instemming van de hoofdofficier van justitie van het arrondissementsparket te Den Bosch – ondermandaat te verlenen en de aan hem toegekende volmacht en machtiging door te geven aan onder hem ressorterende functionarissen.
 
@@ -164,10 +190,10 @@ Aan de directeur bedrijfsvoering wordt mandaat en machtiging verleend om besluit
 
 #### Paragraaf 6. Overgangs- en slotbepalingen
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 20 november 2009.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit kan worden aangehaald als: Mandaatbesluit openbaar ministerie directeur bedrijfsvoering arrondissementsparket te Den Bosch 2009.

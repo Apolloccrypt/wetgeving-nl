@@ -1,14 +1,41 @@
 ---
-title: "Wet kabelbaaninstallaties"
+title: "Wet van 5 februari 2004, houdende regels met betrekking tot de productie, de keuring en de exploitatie van kabelbaaninstallaties voor personenvervoer (Wet kabelbaaninstallaties)"
 identifier: "BWBR0016366"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016366"
+country: "nl"
+rank: "wet"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016366"
+soort: "wet"
+stam_id: "5751023"
+version_id: "29274562"
+internal_id: "C41866931"
+label_id: "5731754"
+dtd_version: "2.0"
+original_entry_into_force: "2023-04-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016366/2024-01-01/0"
+intitule_bron: "Stb.2004-73"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-02-05"
+intitule_published: "2004-03-04"
+intitule_in_force: "2004-03-04"
+intitule_status: "goed"
+original_publication: "Stb.2023-66"
+original_signed_date: "2022-11-02"
+original_published_date: "2023-03-01"
+original_effect: "structuurwijziging"
+original_dossier: "36093"
+original_url_id: "stb-2023-66"
+entry_into_force_date: "2023-04-19"
+jci_1_3: "jci1.3:c:BWBR0016366&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0016366&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet kabelbaaninstallaties"
+signed_date: "2022-11-02"
+entry_into_force: "2023-04-19"
 ---
-
-# Wet kabelbaaninstallaties
+# Wet van 5 februari 2004, houdende regels met betrekking tot de productie, de keuring en de exploitatie van kabelbaaninstallaties voor personenvervoer (Wet kabelbaaninstallaties)
 
 Allen, die zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +47,7 @@ De datum van inwerkingtreding is ingevolge artikel 12, tweede lid, van de Tijdel
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -48,7 +75,7 @@ De datum van inwerkingtreding is ingevolge artikel 12, tweede lid, van de Tijdel
 
 2. In deze wet wordt onder bouwen van een kabelbaaninstallatie mede verstaan: vernieuwen, veranderen of vergroten van een kabelbaaninstallatie waarvoor een omgevingsvergunning voor een bouwactiviteit als bedoeld in [artikel 5.1, tweede lid, aanhef en onder a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) is vereist.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze wet is niet van toepassing op:
 
@@ -68,7 +95,7 @@ Deze wet is niet van toepassing op:
 
 ### Hoofdstuk 2. Algemene verplichtingen
 
-#### Artikel 3
+##### Artikel 3
 
 Een kabelbaaninstallatie wordt slechts in bedrijf gesteld en gehouden indien zij:
 
@@ -76,17 +103,17 @@ Een kabelbaaninstallatie wordt slechts in bedrijf gesteld en gehouden indien zij
 
 - b. bij gebruik volgens haar bestemming geen gevaar oplevert voor de veiligheid en de gezondheid van personen en de veiligheid van goederen.
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
 ### Hoofdstuk 3. Aanwijzing van conformiteitsbeoordelingsinstanties
 
-#### Artikel 5
+##### Artikel 5
 
 Onze Minister kan, met inachtneming van de artikelen 23 tot en met 30 van de verordening, op verzoek conformiteitsbeoordelingsinstanties aanwijzen die bevoegd zijn tot de uitvoering van conformiteitsbeoordelingen volgens één van de procedures, bedoeld in artikel 18, tweede lid, van de verordening en in overeenstemming met de verplichtingen, bedoeld in artikel 34 van de verordening.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Aan een aanwijzing als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=3&artikel=5&z=2024-01-01&g=2024-01-01) kunnen beperkingen en voorschriften worden verbonden. De voorschriften kunnen mede betrekking hebben op de door de conformiteitsbeoordelingsinstanties in rekening te brengen tarieven.
 
@@ -100,7 +127,7 @@ Onze Minister kan, met inachtneming van de artikelen 23 tot en met 30 van de ver
 
 - c. indien de desbetreffende conformiteitsbeoordelingsinstantie de aan de aanwijzing verbonden voorschriften niet naleeft.
 
-#### Artikel 7
+##### Artikel 7
 
 Onze Minister verricht de taken van de aanmeldende autoriteit in de zin van de verordening.
 
@@ -108,59 +135,59 @@ Onze Minister verricht de taken van de aanmeldende autoriteit in de zin van de v
 
 #### § 1. Voorschriften voor de constructeur
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
 #### § 2. Voorschriftenvoor de keuringsinstantie
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
 ### Hoofdstuk 5. Bouw en exploitatie van kabelbaaninstallaties
 
-#### Artikel 20
+##### Artikel 20
 
 1. Voor het bouwen en in bedrijf stellen en hebben van een kabelbaaninstallatie is een kabelbaanvergunning van Onze Minister vereist. Een voor een kabelbaaninstallatie verleende vergunning geldt voor eenieder die de kabelbaaninstallatie bouwt of in bedrijf stelt en houdt.
 
@@ -168,11 +195,11 @@ Vervallen
 
 3. De beperkingen waaronder een kabelbaanvergunning is verleend en de aan een vergunning verbonden voorschriften kunnen ambtshalve of op aanvraag worden gewijzigd of ingetrokken.
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 1. Een aanvraag voor een kabelbaanvergunning wordt gelijktijdig ingediend met de aanvraag voor een omgevingsvergunning voor een bouwactiviteit als bedoeld in [artikel 5.1, tweede lid, aanhef en onder a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) voor de desbetreffende installatie. Onze Minister bevordert een gecoördineerde voorbereiding en inhoudelijke afstemming van beide vergunningen. Burgemeester en wethouders van de betrokken gemeente verlenen de daarvoor benodigde medewerking.
 
@@ -180,13 +207,13 @@ Vervallen
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de aanvraag van een kabelbaanvergunning en de daarbij in te dienen gegevens en bescheiden.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Een kabelbaanvergunning wordt slechts verleend indien de kabelbaaninstallatie, mits naar behoren geïnstalleerd en onderhouden, en in overeenstemming met haar bestemming gebruikt, de veiligheid en gezondheid van personen en de veiligheid van goederen niet in gevaar kan brengen.
 
 2. Een kabelbaanvergunning wordt in ieder geval geweigerd indien de kabelbaaninstallatie niet voldoet aan de eisen uit de verordening of deze wet.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De kabelbaanvergunning kan worden geschorst of ingetrokken indien:
 
@@ -198,11 +225,11 @@ Vervallen
 
 2. De schorsing wordt opgeheven indien de redenen tot schorsing niet meer bestaan.
 
-#### Artikel 25
+##### Artikel 25
 
 De vergunninghouder bewaart een kopie van de kabelbaanvergunning bij de kabelbaaninstallatie, naast de documenten, bedoeld in artikel 9, tweede lid, van de verordening.
 
-#### Artikel 26
+##### Artikel 26
 
 1. De kosten die samenhangen met de behandeling van de aanvraag en de afgifte, wijziging of schorsing van een kabelbaanvergunning, alsmede met de afgifte van duplicaten en gewaarmerkte afschriften van een kabelbaanvergunning, worden ten laste gebracht van de aanvrager van de kabelbaanvergunning.
 
@@ -210,25 +237,25 @@ De vergunninghouder bewaart een kopie van de kabelbaanvergunning bij de kabelbaa
 
 ### Hoofdstuk 6. Handhavingsbevoegdheden
 
-#### Artikel 27
+##### Artikel 27
 
 Indien Onze Minister van oordeel is dat een subsysteem dat of een veiligheidscomponent die is voorzien van een CE-markering, ook wanneer dat subsysteem of die veiligheidscomponent in overeenstemming met zijn bestemming wordt gebruikt en op de juiste wijze wordt onderhouden, de veiligheid of gezondheid van personen of de veiligheid van goederen in gevaar kan brengen, verbiedt hij het gebruik van het subsysteem of de veiligheidscomponent, stelt hij daaraan beperkingen, verbindt hij voorwaarden aan het in de handel brengen van het subsysteem of de veiligheidscomponent, verbiedt hij dat het subsysteem of de veiligheidscomponent in de handel wordt gebracht of verplicht hij dat het subsysteem of de veiligheidscomponent uit de handel wordt genomen of wordt teruggeroepen.
 
-#### Artikel 28
+##### Artikel 28
 
 Indien Onze Minister van oordeel is dat ten aanzien van een subsysteem of veiligheidscomponent sprake is van één of meer van de feiten, genoemd in artikel 43, eerste lid, van de verordening, verbiedt hij het gebruik van het subsysteem of de veiligheidscomponent, stelt hij daaraan beperkingen, verbindt hij voorwaarden aan het in de handel brengen van het subsysteem of de veiligheidscomponent, verbiedt hij dat het subsysteem of de veiligheidscomponent in de handel wordt gebracht of verplicht hij dat het subsysteem of de veiligheidscomponent uit de handel wordt genomen of wordt teruggeroepen.
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
-#### Artikel 30
+##### Artikel 30
 
 Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bepaalde in de [artikelen 3, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=5&artikel=20&z=2024-01-01&g=2024-01-01), [24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=5&artikel=24&z=2024-01-01&g=2024-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=5&artikel=25&z=2024-01-01&g=2024-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=6&artikel=27&z=2024-01-01&g=2024-01-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=6&artikel=28&z=2024-01-01&g=2024-01-01), [33a](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=7&artikel=33a&z=2024-01-01&g=2024-01-01) en [34c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=8a&artikel=34c&z=2024-01-01&g=2024-01-01).
 
 ### Hoofdstuk 7. Verbodsbepalingen
 
-#### Artikel 31
+##### Artikel 31
 
 1. Het is verboden veiligheidscomponenten of subsystemen in de handel te brengen die niet voldoen aan de essentiële eisen en die niet zijn voorzien van een CE-markering of een EU-conformiteitsverklaring.
 
@@ -236,11 +263,11 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 
 3. Het is verboden te handelen in strijd met een verbod of een maatregel op grond van de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=6&artikel=27&z=2024-01-01&g=2024-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=6&artikel=28&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 32
+##### Artikel 32
 
 Het is verboden op subsystemen of veiligheidscomponenten merktekens of opschriften aan te brengen die misleidend kunnen zijn ten aanzien van de betekenis of vorm van de CE-markering, of die de zichtbaarheid of de leesbaarheid van een CE-markering verminderen.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Het is verboden zonder kabelbaanvergunning een kabelbaaninstallatie te bouwen en in bedrijf te stellen, of te handelen in strijd met de voorschriften van de kabelbaanvergunning.
 
@@ -248,7 +275,7 @@ Het is verboden op subsystemen of veiligheidscomponenten merktekens of opschrift
 
 ### Hoofdstuk 8. Toezicht
 
-#### Artikel 34
+##### Artikel 34
 
 1. Met het toezicht op de naleving van het bij of krachtens de verordening of deze wet bepaalde zijn belast de bij besluit van Onze Minister aangewezen ambtenaren. Indien de aanwijzing ambtenaren betreft ressorterende onder een ander ministerie dan dat van Onze Minister wordt het desbetreffende besluit genomen in overeenstemming met de minister van dat andere ministerie.
 
@@ -256,7 +283,7 @@ Het is verboden op subsystemen of veiligheidscomponenten merktekens of opschrift
 
 ### Hoofdstuk 9. Overgangsbepalingen
 
-#### Artikel 35
+##### Artikel 35
 
 1. Deze wet is niet van toepassing op subsystemen en veiligheidscomponenten die in de handel zijn gebracht:
 
@@ -270,47 +297,47 @@ Het is verboden op subsystemen of veiligheidscomponenten merktekens of opschrift
 
 - b. het in bedrijf stellen van een kabelbaaninstallatie die is gebouwd voor 21 april 2018, als die viel onder het toepassingsbereik van deze wet zoals die luidde voor 21 april 2018 en daarmee in overeenstemming is.
 
-#### Artikel 36
+##### Artikel 36
 
 Een kabelbaanvergunning die vóór 21 april 2018 is verleend op basis van artikel 20 van de wet zoals die luidde voor die datum berust op [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=5&artikel=20&z=2024-01-01&g=2024-01-01) van de wet zoals die luidt vanaf die datum.
 
 ### Hoofdstuk 10. Slotbepalingen
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
-#### Artikel 38
+##### Artikel 38
 
 Vervallen
 
-#### Artikel 39
+##### Artikel 39
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel 40
+##### Artikel 40
 
 Wijzigt de Spoorwegwet.
 
-#### Artikel 41
+##### Artikel 41
 
 Wijzigt de Locaalspoor- en Tramwegwet.
 
-#### Artikel 42
+##### Artikel 42
 
 Wijzigt de Spoorwegwet.
 
-#### Artikel 43
+##### Artikel 43
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van de [artikelen 40 tot en met 42](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=10&artikel=40&z=2024-01-01&g=2024-01-01), die in werking treden op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 44
+##### Artikel 44
 
 Deze wet wordt aangehaald als: Wet kabelbaaninstallaties.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 33a
+##### Artikel 33a
 
 Het is verboden in strijd te handelen met artikel 7 van [verordening (EU) nr. 2019/1020](32920R2019).
 
@@ -318,7 +345,7 @@ Het is verboden in strijd te handelen met artikel 7 van [verordening (EU) nr. 20
 
 ### Hoofdstuk 8a. Markttoezicht als bedoeld in de [verordening (eu) nr. 2019/1020](32920R2019)
 
-#### Artikel 34a
+##### Artikel 34a
 
 1. De ingevolge [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=8&artikel=34&z=2024-01-01&g=2024-01-01), aangewezen ambtenaren zijn in afwijking van [artikel 5:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), bevoegd met medeneming van de benodigde apparatuur een woning te betreden zonder toestemming van de bewoner ten behoeve van de uitoefening van de bevoegdheden, bedoeld in artikel 14, vierde lid, onderdelen a, d en e, van [verordening (EU) nr. 2019/1020](32920R2019).
 
@@ -328,7 +355,7 @@ Het is verboden in strijd te handelen met artikel 7 van [verordening (EU) nr. 20
 
 4. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) en [3 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=3) zijn niet van toepassing.
 
-#### Artikel 34b
+##### Artikel 34b
 
 1. De ingevolge [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=8&artikel=34&z=2024-01-01&g=2024-01-01), aangewezen ambtenaren zijn bevoegd om, ter uitvoering van [verordening (EU) nr. 2019/1020](32920R2019), onder verstrekking van onjuiste of onvolledige gegevens met betrekking tot hun identiteit en hoedanigheid, subsystemen of veiligheidscomponenten te verkrijgen ten behoeve van het controleren van de kenmerken van deze subsystemen of veiligheidscomponenten en de verificatie van de documenten en de hieraan gerelateerde handelingen te verrichten voor zover dat voor de vervulling van hun taak noodzakelijk is. [Artikel 5:12, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12) is niet van toepassing.
 
@@ -348,7 +375,7 @@ Het is verboden in strijd te handelen met artikel 7 van [verordening (EU) nr. 20
 
 - g. wat de uitkomst is van het onderzoek van het verkregen subsysteem of de verkregen veiligheidscomponent.
 
-#### Artikel 34c
+##### Artikel 34c
 
 1. Ter uitvoering van [verordening (EU) nr. 2019/1020](32920R2019) kan Onze Minister, indien er geen andere doeltreffende middelen voorhanden zijn om een ernstig risico als bedoeld in artikel 3, onderdeel 20, van [verordening (EU) nr. 2019/1020](32920R2019), gevormd door een subsysteem of een veiligheidscomponent, weg te nemen, een zelfstandige last opleggen aan degene die daartoe in staat is, om inhoud te verwijderen van of de toegang te beperken tot een online interface als bedoeld in artikel 3, onderdeel 15, van [verordening (EU) nr. 2019/1020](32920R2019) of opdracht te geven tot de duidelijke weergave van een waarschuwing voor eindgebruikers, bedoeld in artikel 3, onderdeel 21, van [verordening (EU) nr. 2019/1020](32920R2019), wanneer zij zich toegang verschaffen tot een online interface.
 
@@ -364,7 +391,7 @@ Het is verboden in strijd te handelen met artikel 7 van [verordening (EU) nr. 20
 
 7. Onze Minister maakt de machtiging van de rechter-commissaris gelijktijdig met de zelfstandige last, bedoeld in het eerste of tweede lid, bekend.
 
-#### Artikel 34d
+##### Artikel 34d
 
 [Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) is van overeenkomstige toepassing voor zover de ingevolge [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016366&hoofdstuk=8&artikel=34&z=2024-01-01&g=2024-01-01), aangewezen ambtenaren bijstand verlenen aan een markttoezichtautoriteit als bedoeld in artikel 3, onderdeel 4, van [verordening (EU) nr. 2019/1020](32920R2019), uit een andere lidstaat van de Europese Unie op grond van artikel 22 of artikel 23 van die verordening.
 

@@ -1,13 +1,39 @@
 ---
-title: "Rijksbesluit rechtspositie leden openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba"
+title: "Besluit van 27 september 2010, houdende regels ter uitvoering van de Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba (Rijksbesluit rechtspositie leden openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba)"
 identifier: "BWBR0028565"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028565"
+country: "nl"
+rank: "rijks_kb"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028565"
+soort: "rijksKB"
+stam_id: "10853193"
+version_id: "17834492"
+internal_id: "C24667581"
+label_id: "10828364"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028565/2010-10-10/0"
+intitule_bron: "Stb.2010-359"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-27"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-01"
+intitule_status: "goed"
+original_publication: "Stb.2010-359"
+original_signed_date: "2010-09-27"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-359"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028565&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028565&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Rijksbesluit rechtspositie leden openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba"
+signed_date: "2010-09-27"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit van 27 september 2010, houdende regels ter uitvoering van de Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba (Rijksbesluit rechtspositie leden openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba)
 
 Op de voordracht van Onze Minister van Justitie van 13 juli 2010, nr. 5656891/10/6;
@@ -26,7 +52,7 @@ Treedt in werking op het tijdstip waarop de Rijkswet openbare ministeries van Cu
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze algemene maatregel van rijksbestuur en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -40,11 +66,11 @@ Treedt in werking op het tijdstip waarop de Rijkswet openbare ministeries van Cu
 
 - **echtgenoot:** de partner in een in Nederland geregistreerd partnerschap alsmede de partner in een buiten Nederland geregistreerd partnerschap dat op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016986&artikel=2) en [3 van de Wet conflictenrecht geregistreerd partnerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0016986&artikel=3) wordt erkend.
 
-#### Artikel 2
+##### Artikel 2
 
 Indien op grond van deze algemene maatregel van rijksbestuur regels worden gesteld bij ministeriële rijksregeling, dan komen deze regels in overeenstemming met de regeringen van de landen tot stand.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Na goedkeuring van Onze Ministers stelt de procureur-generaal een werkreglement alsmede een gedragscode voor de leden van het openbaar ministerie vast.
 
@@ -66,7 +92,7 @@ Indien op grond van deze algemene maatregel van rijksbestuur regels worden geste
 
 #### Paragraaf 1. Benoemingsvereisten
 
-#### Artikel 4
+##### Artikel 4
 
 1. Om benoemd te kunnen worden als lid van het openbaar ministerie, dient het afsluitend examen van een opleiding op het gebied van het recht, bedoeld in [artikel 18, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028072&artikel=18), met goed gevolg te worden afgelegd aan een universiteit dan wel Open Universiteit als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) dan wel de Landsverordening Universiteit van Aruba of de Landsverordening Universiteit Nederlandse Antillen dan wel de Landsverordening die de Landsverordening Universiteit Nederlandse Antillen vervangt en waarbij geen wijzigingen zijn aangebracht in de bepalingen die zien op de opleiding op het gebied van het recht.
 
@@ -74,13 +100,13 @@ Indien op grond van deze algemene maatregel van rijksbestuur regels worden geste
 
 3. Het schakelprogramma, bedoeld in het tweede lid, omvat onderwijseenheden op het gebied van het recht, die worden aangeboden door een universiteit of Open Universiteit als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), met een totale studielast van ten minste 60 studiepunten als bedoeld in [artikel 7.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.4).
 
-#### Artikel 5
+##### Artikel 5
 
 De procureur-generaal, de advocaat-generaal, het hoofd van het kantoor van de procureur-generaal in Sint Maarten en de hoofdofficier van justitie, worden benoemd op basis van deskundigheid die voor de uitoefening van de taken en bevoegdheden die aan hen zijn opgedragen, nodig is.
 
 #### Paragraaf 2. Rechten en verplichtingen
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het benoemingsbesluit voor een lid van het openbaar ministerie vermeldt in elk geval:
 
@@ -104,11 +130,11 @@ De procureur-generaal, de advocaat-generaal, het hoofd van het kantoor van de pr
 
 5. Het besluit als bedoeld in het vierde lid wordt op schrift gesteld en met redenen omkleed.
 
-#### Artikel 7
+##### Artikel 7
 
 De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde een plaatsvervangend officier van justitie, bedraagt gemiddeld 40 uur per week.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een plaatsvervangend officier van justitie wordt niet aangesteld voor het vervullen van een volledige of gedeeltelijke functie.
 
@@ -118,7 +144,7 @@ De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde 
 
 4. Onze Ministers passen de vergoeding van een plaatsvervangend officier van justitie jaarlijks aan op basis van het gemiddelde van de ontwikkeling van de salarissen van de ambtenaren van de landen in het voorafgaande kalenderjaar.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Op eigen verzoek kan een plaatsvervangend officier van justitie tijdelijk worden aangewezen voor het vervullen van een volledige of gedeeltelijke functie.
 
@@ -144,7 +170,7 @@ De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde 
 
 6. Gedurende de periode van aanwijzing, bedoeld in het eerste lid, zijn de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028565&hoofdstuk=2&paragraaf=2&artikel=7&z=2010-10-10&g=2010-10-10), [10 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028565&hoofdstuk=2&paragraaf=2&artikel=10&z=2010-10-10&g=2010-10-10), [15 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028565&hoofdstuk=2&paragraaf=2&artikel=15&z=2010-10-10&g=2010-10-10), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0028565&hoofdstuk=2&paragraaf=2&artikel=22&z=2010-10-10&g=2010-10-10) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0028565&hoofdstuk=2&paragraaf=2&artikel=24&z=2010-10-10&g=2010-10-10), van overeenkomstige toepassing.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het genot van het salaris van de leden van het openbaar ministerie die zijn aangesteld voor het vervullen van een volledige of gedeeltelijke functie vangt aan op de dag van indiensttreding. Het salaris wordt per maand genoten.
 
@@ -154,7 +180,7 @@ De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde 
 
 4. Onze Ministers passen het salaris van de leden van het openbaar ministerie die zijn aangesteld voor het vervullen van een volledige of gedeeltelijke functie jaarlijks aan op basis van het gemiddelde van de ontwikkeling van de salarissen van de ambtenaren van de landen in het voorafgaande kalenderjaar.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een toelage wordt genoten indien en zolang aan de voorwaarden die aan de toelage zijn gesteld, voldaan wordt.
 
@@ -164,7 +190,7 @@ De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde 
 
 4. Een toelage wordt tegelijkertijd met het salaris uitbetaald.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Afhankelijk van de standplaats kunnen de leden van het openbaar ministerie die zijn aangesteld voor het vervullen van een volledige of gedeeltelijke functie, in aanmerking komen voor een toelage die het verschil in koopkracht tussen de landen compenseert.
 
@@ -172,7 +198,7 @@ De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde 
 
 3. Voor de procureur-generaal dan wel de advocaat-generaal is de standplaats bepalend voor de van toepassing zijnde regeling bedoeld in het tweede lid.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Een lid van het openbaar ministerie heeft in geval van dienstreizen recht op vergoeding van reis- en verblijfskosten.
 
@@ -180,7 +206,7 @@ De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde 
 
 3. Voor de procureur-generaal dan wel de advocaat-generaal is de standplaats bepalend voor de van toepassing zijnde regeling bedoeld in het tweede lid.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Een verhuiskostenvergoeding wordt toegekend aan:
 
@@ -192,7 +218,7 @@ De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde 
 
 3. Voor de procureur-generaal dan wel de advocaat-generaal is de standplaats bepalend voor de van toepassing zijnde regeling bedoeld in het tweede lid.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Boven en behalve het vastgestelde salaris geniet een lid van het openbaar ministerie dat is aangesteld voor het vervullen van een volledige of gedeeltelijke functie, voor de ongehuwde kinderen beneden de leeftijd van achttien jaar tot wie hij in familierechtelijke betrekking staat, of zijn ongehuwde stiefkinderen beneden de leeftijd van achttien jaar, laatstgenoemden voor zover zij geheel ten laste van het betreffende lid van het openbaar ministerie komen, een kindertoelage.
 
@@ -210,7 +236,7 @@ De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde 
 
 8. Voor de procureur-generaal dan wel de advocaat-generaal is de standplaats bepalend voor de van toepassing zijnde regeling bedoeld in het vijfde lid.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Een lid van het openbaar ministerie, dat is aangesteld voor het vervullen van een volledige of gedeeltelijke functie, heeft per kalenderjaar aanspraak op vakantie met behoud van salaris en toelagen en een vakantie-uitkering.
 
@@ -218,7 +244,7 @@ De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde 
 
 3. Voor de procureur-generaal dan wel de advocaat-generaal is de standplaats bepalend voor de van toepassing zijnde regeling bedoeld in het tweede lid.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Een lid van het openbaar ministerie dat is aangesteld voor het vervullen van een volledige of gedeeltelijke functie, heeft verlof op de dagen dat de overheidsdienst in het land van standplaats gesloten is wegens een zaterdag, zondag of erkende feestdag.
 
@@ -230,7 +256,7 @@ De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde 
 
 5. Voor de procureur-generaal dan wel de advocaat-generaal is de standplaats bepalend voor de van toepassing zijnde regeling bedoeld in het vierde lid.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Een lid van het openbaar ministerie dat is aangesteld voor het vervullen van een volledige of gedeeltelijke functie is, in geval van ziekte en wanneer Onze Minister dat in verband met de gezondheidstoestand nodig acht, verplicht zich te onderwerpen aan een onderzoek van een of meer geneeskundigen.
 
@@ -240,13 +266,13 @@ De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde 
 
 4. Voor de procureur-generaal dan wel de advocaat-generaal is de standplaats bepalend voor de van toepassing zijnde regeling bedoeld in het derde lid.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Bij landsbesluit houdende algemene maatregelen of bij of krachtens wet worden regels gesteld over de pensioenen van de leden van het openbaar ministerie die zijn aangesteld voor het vervullen van een volledige of gedeeltelijke functie.
 
 2. Voor de procureur-generaal dan wel de advocaat-generaal is de standplaats bepalend voor de van toepassing zijnde regeling bedoeld in het eerste lid.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Het salaris en de toelagen worden niet langer uitbetaald dan tot en met de dag van overlijden.
 
@@ -260,13 +286,13 @@ De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde 
 
 6. Laat het overleden lid van het openbaar ministerie dat was aangesteld voor het vervullen van een volledige of gedeeltelijke functie, ook geen betrekkingen als in het vijfde lid bedoeld na, dan kan het in het eerste lid bedoelde bedrag geheel of ten dele worden uitgekeerd voor de betaling van kosten van de laatste ziekte en van de begrafenis, indien de nalatenschap van dit lid, voor de betaling van die kosten ontoereikend is.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Bij landsbesluit houdende algemene maatregelen of bij of krachtens wet worden regels gesteld over de uitkering bij overlijden als gevolg van een dienstongeval van een lid van het openbaar ministerie.
 
 2. Voor de procureur-generaal dan wel de advocaat-generaal is de standplaats bepalend voor de van toepassing zijnde regeling bedoeld in het eerste lid.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Op het door Onze Minister verschuldigde salaris kan, hetgeen een lid van het openbaar ministerie dat is aangesteld voor het vervullen van een gehele of gedeeltelijke functie, aan Onze Minister verschuldigd is, worden ingehouden.
 
@@ -288,7 +314,7 @@ De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde 
 
 7. Voor de procureur-generaal dan wel de advocaat-generaal is de standplaats bepalend voor de van toepassing zijnde regeling bedoeld in het zesde lid.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Aan een lid van het openbaar ministerie kan naar billijkheid een schadeloosstelling, een vergoeding van kosten of overigens een geldelijke tegemoetkoming worden verleend.
 
@@ -300,13 +326,13 @@ De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde 
 
 - c. de Gouverneur, indien het besluit ziet op de overige leden van het openbaar ministerie van Curaçao en Sint Maarten en Onze Minister, indien het besluit ziet op de overige leden van het openbaar ministerie van Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Bij landsbesluit houdende algemene maatregelen of bij of krachtens wet worden regels gesteld over ambtsjubilea van de leden van het openbaar ministerie die zijn aangesteld voor het vervullen van een volledige of gedeeltelijke functie.
 
 2. Voor de procureur-generaal dan wel de advocaat-generaal is de standplaats bepalend voor de van toepassing zijnde regeling bedoeld in het eerste lid.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Het landsbesluit houdende algemene maatregelen of de bij of krachtens de wet te stellen regels, als bedoeld in de [artikelen 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028565&hoofdstuk=2&paragraaf=2&artikel=12&z=2010-10-10&g=2010-10-10), [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028565&hoofdstuk=2&paragraaf=2&artikel=13&z=2010-10-10&g=2010-10-10), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028565&hoofdstuk=2&paragraaf=2&artikel=14&z=2010-10-10&g=2010-10-10), [15, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028565&hoofdstuk=2&paragraaf=2&artikel=15&z=2010-10-10&g=2010-10-10), [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028565&hoofdstuk=2&paragraaf=2&artikel=16&z=2010-10-10&g=2010-10-10), [17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028565&hoofdstuk=2&paragraaf=2&artikel=17&z=2010-10-10&g=2010-10-10), [18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028565&hoofdstuk=2&paragraaf=2&artikel=18&z=2010-10-10&g=2010-10-10), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028565&hoofdstuk=2&paragraaf=2&artikel=19&z=2010-10-10&g=2010-10-10), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028565&hoofdstuk=2&paragraaf=2&artikel=21&z=2010-10-10&g=2010-10-10), [22, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028565&hoofdstuk=2&paragraaf=2&artikel=22&z=2010-10-10&g=2010-10-10), [24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028565&hoofdstuk=2&paragraaf=2&artikel=24&z=2010-10-10&g=2010-10-10), worden zoveel mogelijk in overeenstemming met de daartoe strekkende regelingen die gelden voor ambtenaren van de landen vastgesteld.
 
@@ -314,7 +340,7 @@ De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde 
 
 #### Paragraaf 3. Functionerings- en beoordelingsgesprekken
 
-#### Artikel 26
+##### Artikel 26
 
 1. Ten minste éénmaal per kalenderjaar wordt een functioneringsgesprek gevoerd met een lid van het openbaar ministerie.
 
@@ -334,7 +360,7 @@ De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde 
 
 5. Indien een lid van een openbaar ministerie zich niet kan verenigen met de inhoud van het verslag van het functioneringsgesprek, kan hij een beoordelingsgesprek aanvragen.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Een schriftelijke beoordeling wordt opgemaakt indien:
 
@@ -350,7 +376,7 @@ De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde 
 
 #### Paragraaf 4. Disciplinaire maatregelen en procedurele bepalingen inzake schorsing en ontslag
 
-#### Artikel 28
+##### Artikel 28
 
 1. Ten aanzien van een lid van het openbaar ministerie, dat de hem opgelegde verplichtingen niet nakomt, of zich overigens aan plichtsverzuim schuldig maakt, kan door de procureur-generaal een disciplinaire maatregel genomen worden.
 
@@ -360,7 +386,7 @@ De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde 
 
 4. Indien de procureur-generaal, de hem opgelegde verplichtingen niet nakomt, of zich overigens aan plichtsverzuim schuldig maakt, kan door Onze Ministers een disciplinaire maatregel genomen worden.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Bij overtreding van de [artikelen 18, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028072&artikel=18), en [19b, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028072&artikel=19b) kan een schriftelijke waarschuwing worden gegeven. Een schriftelijke waarschuwing kan gevolgd worden door een disciplinaire maatregel.
 
@@ -380,7 +406,7 @@ De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde 
 
 - g. terugzetting in rang, al of niet voor bepaalde tijd en met of zonder vermindering van het salaris en of toelage.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Indien het voornemen bestaat, een besluit als bedoeld in [artikel 23 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028072&artikel=23) te nemen, wordt het lid van het openbaar ministerie op wie het voornemen betrekking heeft schriftelijk in kennis gesteld.
 
@@ -396,7 +422,7 @@ De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde 
 
 4. Aan de zienswijzecommissie kunnen alleen algemene aanwijzigen worden gegeven.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De procureur-generaal verstrekt op verzoek van de voorzitter van de zienswijzecommissie stukken die betrekking hebben op de vervolging of veroordeling van een lid van het openbaar ministerie, indien het onderzoeksbelang zich daar niet tegen verzet.
 
@@ -410,13 +436,13 @@ De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde 
 
 #### Paragraaf 5. Het ambtskostuum
 
-#### Artikel 32
+##### Artikel 32
 
 1. Leden van het openbaar ministerie zijn ter terechtzitting of bij vervulling van een ambtsverrichting, waarbij het dragen van een ambtskostuum gepast is, gekleed in een ambtskostuum.
 
 2. Het ambtskostuum bestaat uit een toga en een bef.
 
-#### Artikel 33
+##### Artikel 33
 
 1. De toga is een lange wijde mantel met een staande kraag ter hoogte van ongeveer 4 cm, welke kraag aan de voorzijde in het midden een opening heeft van 8 cm. De toga is geheel gemaakt van zwarte stof, neerhangende tot ongeveer 10 cm boven de grond, in het midden van de achterzijde onder de kraag, evenals zijwaarts aan de bovenkant van de wijde mouwen, geplooid ingenomen, met aan de onderkant der mouwen omslagen ter breedte van ongeveer 20 cm en aan de voorzijde in het midden van boven tot onder om de 5 cm voorzien van een niet glimmende kleine zwarte knoop.
 
@@ -426,7 +452,7 @@ De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde 
 
 4. De toga is van dof grein of van een hierop gelijkende stof met banen en mouwomslagen van zwarte zijde.
 
-#### Artikel 34
+##### Artikel 34
 
 1. De bef bestaat uit twee aan de bovenzijde aan elkaar bevestigde stukken geplooid wit batist of een hierop gelijkende stof, beide stukken tezamen in geplooide toestand aan de bovenzijde 8 cm breed.
 
@@ -434,7 +460,7 @@ De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde 
 
 ### Hoofdstuk 3. Klachten
 
-#### Artikel 35
+##### Artikel 35
 
 1. Een ieder heeft het recht om over de wijze waarop een lid van het openbaar ministerie zich in een bepaalde aangelegenheid jegens hem of een ander heeft gedragen een klacht in te dienen. Niet geklaagd kan worden over de ambtsverrichtingen van een lid van het openbaar ministerie.
 
@@ -448,7 +474,7 @@ De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde 
 
 4. Tegen een besluit inzake de behandeling van een klacht over een gedraging van een lid van het openbaar ministerie kan geen beroep worden ingesteld.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Een klaagschrift wordt ondertekend en bevat tenminste:
 
@@ -466,7 +492,7 @@ De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde 
 
 5. Ten aanzien van een klaagschrift dat niet aan de vereisten genoemd in het eerste, derde, en of vierde lid voldoet, kan besloten worden om het niet te behandelen, mits de klager in de gelegenheid is gesteld het klaagschrift binnen een door Onze Ministers of de procureur-generaal te stellen termijn aan te vullen.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Er bestaat geen verplichting de klacht te behandelen indien zij betrekking heeft op een gedraging:
 
@@ -482,7 +508,7 @@ De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde 
 
 3. Van het niet in behandeling nemen van de klacht wordt de klager zo spoedig mogelijk doch uiterlijk binnen vier weken na ontvangst van het klaagschrift schriftelijk in kennis gesteld.
 
-#### Artikel 38
+##### Artikel 38
 
 1. De ontvangst van het klaagschrift wordt schriftelijk bevestigd onder de mededeling van de datum van ontvangst van het klaagschrift.
 
@@ -496,7 +522,7 @@ De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde 
 
 6. Het aantal geregistreerde klachten wordt jaarlijks gepubliceerd met vermelding van de aard van de klacht.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Klager en de beklaagde worden in de gelegenheid gesteld te worden gehoord.
 
@@ -506,7 +532,7 @@ De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde 
 
 4. Van het horen wordt een verslag gemaakt.
 
-#### Artikel 40
+##### Artikel 40
 
 1. De klager en de beklaagde kunnen zich door een gemachtigde laten bijstaan of laten vertegenwoordigen.
 
@@ -514,13 +540,13 @@ De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde 
 
 3. Het tweede lid is niet van toepassing op advocaten.
 
-#### Artikel 41
+##### Artikel 41
 
 1. In elke fase van de klachtbehandeling kan worden nagegaan of de klager door middel van een informele afhandeling van zijn klacht tevreden gesteld kan worden.
 
 2. Zodra naar tevredenheid van de klager aan diens klacht tegemoet is gekomen, kan de klachtprocedure worden afgesloten. De klager ontvangt in dat geval een schriftelijke kennisgeving van de afsluiting van deze procedure. Aan de beklaagde wordt een kopie van deze kennisgeving verstrekt.
 
-#### Artikel 42
+##### Artikel 42
 
 1. De klacht wordt binnen zes weken of, – indien aan het bepaalde in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028565&hoofdstuk=3&artikel=44&z=2010-10-10&g=2010-10-10), toepassing wordt gegeven – binnen tien weken na ontvangst van het klaagschrift afgedaan.
 
@@ -528,11 +554,11 @@ De volledige arbeidsduur voor de leden van het openbaar ministerie, niet zijnde 
 
 3. De beklaagde neemt niet deel aan de behandeling van de klacht.
 
-#### Artikel 43
+##### Artikel 43
 
 De klager en de beklaagde worden schriftelijk en gemotiveerd in kennis gesteld van de bevindingen van het onderzoek naar de klacht en van de eventuele conclusies die daaraan verbonden zijn.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Er kan een klachtadviescommissie ingesteld worden die belast wordt met de advisering over een klacht. Een klachtadviescommissie bestaat uit drie leden.
 
@@ -548,7 +574,7 @@ De klager en de beklaagde worden schriftelijk en gemotiveerd in kennis gesteld v
 
 5. Aan de klachtadviescommissie kunnen alleen algemene aanwijzingen worden gegeven.
 
-#### Artikel 45
+##### Artikel 45
 
 1. De klager en de beklaagde worden in kennis gesteld indien een klachtadviescommissie met de advisering over de klacht is belast.
 
@@ -562,35 +588,35 @@ De klager en de beklaagde worden schriftelijk en gemotiveerd in kennis gesteld v
 
 6. Het rapport bevat het verslag van het horen.
 
-#### Artikel 46
+##### Artikel 46
 
 Indien de conclusie van Onze Ministers dan wel van de procureur-generaal afwijkt van het advies van de klachtadviescommissie, wordt in die conclusie de reden voor die afwijking vermeld en wordt het advies meegezonden met de kennisgeving, bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0028565&hoofdstuk=3&artikel=43&z=2010-10-10&g=2010-10-10).
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
-#### Artikel 47
+##### Artikel 47
 
 1. Degene die op grond van [artikel 38, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028072&artikel=38) benoemd wordt tot procureur-generaal van de landen, behoudt zijn rechtspositie zoals die gold voor de functie van procureur-generaal van de Nederlandse Antillen op de dag vóór inwerkingtreding van de [rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028072), tenzij anders overeengekomen.
 
 2. Voor wat betreft de ontwikkelingen in de arbeidsvoorwaarden van degene die op grond van [artikel 38, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028072&artikel=38) wordt benoemd, wordt aangesloten bij de ontwikkelingen in de arbeidsvoorwaarden van de ambtenaren van het land van standplaats.
 
-#### Artikel 48
+##### Artikel 48
 
 1. Degene die op grond van [artikel 38, tweede lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028072&artikel=38) benoemd wordt tot advocaat-generaal van de landen, behoudt zijn rechtspositie zoals die gold voor de functie van advocaat-generaal van de Nederlandse Antillen op de dag vóór inwerkingtreding van de [rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028072), tenzij anders overeengekomen.
 
 2. Voor wat betreft de ontwikkelingen in de arbeidsvoorwaarden van degene die op grond van [artikel 38, tweede lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028072&artikel=38) wordt benoemd, wordt aangesloten bij de ontwikkelingen in de arbeidsvoorwaarden van de ambtenaren van het land van standplaats.
 
-#### Artikel 49
+##### Artikel 49
 
 1. Officieren van justitie, substituut-officieren van justitie en plaatsvervangend officieren van justitie, die op grond van [artikel 38, derde lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028072&artikel=38), benoemd worden, behouden de rechtspositie zoals die gold voor de functie van officier van justitie, substituut-officier van justitie of plaatsvervangend officier van justitie op de dag vóór inwerkingtreding van deze algemene maatregel van rijksbestuur, tenzij anders overeengekomen.
 
 2. Voor wat betreft de ontwikkelingen in de arbeidsvoorwaarden van de officieren van justitie, substituut-officieren van justitie of plaatsvervangend officieren van justitie, bedoeld in het eerste lid, wordt aangesloten bij de ontwikkelingen in de arbeidsvoorwaarden van de ambtenaren van het land van standplaats.
 
-#### Artikel 50
+##### Artikel 50
 
 Deze algemene maatregel van rijksbestuur treedt in werking op de dag van inwerkingtreding van de [rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028072).
 
-#### Artikel 51
+##### Artikel 51
 
 Deze algemene maatregel van rijksbestuur wordt aangehaald als: Rijksbesluit rechtspositie leden openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba.
 

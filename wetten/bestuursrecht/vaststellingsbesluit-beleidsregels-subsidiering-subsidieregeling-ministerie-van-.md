@@ -1,13 +1,39 @@
 ---
-title: "Vaststellingsbesluit beleidsregels subsidiëring Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Draagvlakbevordering ontwikkelingssamenwerking)"
+title: "Besluit van de Minister voor Ontwikkelingssamenwerking van 19 juni 2006, nr. DVL/0803/2006, tot vaststelling van beleidsregels voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Draagvlakbevordering ontwikkelingssamenwerking)"
 identifier: "BWBR0019978"
-categorie: "Bestuursrecht"
-publicatiedatum: 2006-07-08
-laatste_update: 2006-07-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019978"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2006-07-08"
+last_updated: "2006-07-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019978"
+soort: "ministeriele-regeling"
+stam_id: "8475193"
+version_id: "13362272"
+internal_id: "C17938651"
+label_id: "8455624"
+dtd_version: "2.0"
+original_entry_into_force: "2006-07-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019978/2006-07-08/0"
+intitule_bron: "Stcrt.2006-129"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-06-19"
+intitule_published: "2006-07-06"
+intitule_in_force: "2006-07-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-129"
+original_signed_date: "2006-06-19"
+original_published_date: "2006-07-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-129-p13-SC75770"
+entry_into_force_date: "2006-07-08"
+jci_1_3: "jci1.3:c:BWBR0019978&z=2006-07-08&g=2006-07-08"
+jci_1_0: "1.0:c:BWBR0019978&g=2006-07-08"
+citeertitel_status: "redactioneel"
+short_title: "Vaststellingsbesluit beleidsregels subsidiëring Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Draagvlakbevordering ontwikkelingssamenwerking)"
+signed_date: "2006-06-19"
+entry_into_force: "2006-07-08"
 ---
-
 # Besluit van de Minister voor Ontwikkelingssamenwerking van 19 juni 2006, nr. DVL/0803/2006, tot vaststelling van beleidsregels voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Draagvlakbevordering ontwikkelingssamenwerking)
 
 Gelet op [artikel 6 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=6);
@@ -16,11 +42,11 @@ Gelet op de [artikelen 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&arti
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor subsidieverlening op grond van de [artikelen 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=9.1) en [9.2 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=9.2) gelden voor de periode 2007–2010 de als bijlage bij dit besluit gevoegde beleidsregels.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

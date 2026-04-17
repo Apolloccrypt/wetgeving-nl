@@ -1,13 +1,39 @@
 ---
-title: "Mandaatbesluit CJIB 2025"
+title: "Besluit van de Algemeen Directeur van het Centraal Justitieel Incassobureau van het Ministerie van Justitie en Veiligheid, houdende verlening van ondermandaat, alsmede het doorgeven van volmacht en machtiging aan onder hem ressorterende functionarissen"
 identifier: "BWBR0050640"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050640"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050640"
+soort: "ministeriele-regeling"
+stam_id: "17331453"
+version_id: "30540892"
+internal_id: "C43778021"
+label_id: "17235554"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050640/2025-01-01/0"
+intitule_bron: "Stcrt.2024-40719"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-26"
+intitule_published: "2024-12-30"
+intitule_in_force: "2024-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-40719"
+original_signed_date: "2024-11-26"
+original_published_date: "2024-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-40719"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050640&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050640&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Mandaatbesluit CJIB 2025"
+signed_date: "2024-11-26"
+entry_into_force: "2025-01-01"
 ---
-
 # Besluit van de Algemeen Directeur van het Centraal Justitieel Incassobureau van het Ministerie van Justitie en Veiligheid, houdende verlening van ondermandaat, alsmede het doorgeven van volmacht en machtiging aan onder hem ressorterende functionarissen
 
 Gelet op de behoefte om het Mandaatbesluit CJIB 2021 te actualiseren en aan te vullen.
@@ -30,7 +56,7 @@ de [Algemene wet bestuursrecht hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:
 
 Besluit:
 
-#### Artikel 1. (algemeen)
+##### Artikel 1. (algemeen)
 
 Tenzij anders bepaald in [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050640&artikel=4&z=2025-01-01&g=2025-01-01) van dit mandaatbesluit, van het ingevolge [artikel 2 van het Mandaatbesluit hoofden taakorganisaties Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=2) aan de Algemeen Directeur van het CJIB verleende ondermandaat, wordt ten aanzien van de aangelegenheden die hun directie, afdeling of programma betreffen, ondermandaat verleend aan:
 
@@ -40,7 +66,7 @@ Tenzij anders bepaald in [artikelen 4 tot en met 8](https://wetten.overheid.nl/j
 
 - –. Teammanagers C
 
-#### Artikel 2. (voorbehouden)
+##### Artikel 2. (voorbehouden)
 
 Aan de Algemeen Directeur van het CJIB blijft voorbehouden:
 
@@ -52,13 +78,13 @@ Aan de Algemeen Directeur van het CJIB blijft voorbehouden:
 
 - d. beslissingen voor zover de schadeloosstelling betrekking heeft op immateriële en materiële schade tot en met een bedrag van € 10.000 op grond van het Burgerlijk Wetboek (BW)2Mandaatbesluit hoofden taakorganisaties Ministerie van Justitie en Veiligheid artikel 4.1.b.1: Aan de secretaris-generaal blijft voorbehouden de bevoegdheid om besluiten te nemen voor zover de schadeloosstelling betrekking heeft op immateriële schade, of materiële schade boven een bedrag van € 10.000..
 
-#### Artikel 3. (vervanging)
+##### Artikel 3. (vervanging)
 
 De Directeur Informatievoorziening, Bedrijfsvoering & HR treedt op als plaatsvervanger van de Algemeen Directeur CJIB bij diens afwezigheid. De Directeur Dienstverlening & Incasso (D&I) danwel Directeur Executie treden op als plaatsvervanger bij afwezigheid van de Algemeen Directeur CJIB én Plaatsvervangend Algemeen Directeur.
 
 Managers (B en C) kunnen elkaar horizontaal vervangen.
 
-#### Artikel 4. (bevoegdheid voor leidinggevenden)
+##### Artikel 4. (bevoegdheid voor leidinggevenden)
 
 Tot het verlenen van volmacht om op te treden als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk worden de volgende ambtenaren aangewezen:
 
@@ -84,7 +110,7 @@ Managers (B en C) zijn, onverminderd [artikel 2](https://wetten.overheid.nl/jci1
 
 - i. de bevoegdheid tot het nemen van besluiten betreffende het verstrekken van reisopdrachten aan functionarissen naar landen binnen Europa.
 
-#### Artikel 5. (bevoegdheid voor het aangaan van verplichtingen en het doen van uitgaven)
+##### Artikel 5. (bevoegdheid voor het aangaan van verplichtingen en het doen van uitgaven)
 
 Voor een Directeur (A) geldt geen maximumbedrag voor het aangaan van verplichtingen en het doen van uitgaven.
 
@@ -92,7 +118,7 @@ Een Strategisch Manager (B) is bevoegd tot het aangaan van verplichtingen of het
 
 Een Teammanager (C) is bevoegd tot het aangaan van verplichtingen of het doen van uitgaven tot een bedrag van € 10.000.
 
-#### Artikel 6. (bevoegdheid ten aanzien van Woo-informatieverzoeken)
+##### Artikel 6. (bevoegdheid ten aanzien van Woo-informatieverzoeken)
 
 Een Woo-informatieverzoek betreft een verzoek om publieke informatie volgens de [Woo artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=4.1).
 
@@ -109,7 +135,7 @@ Voor besluiten die hieruit voortvloeien zijn de volgende functionarissen bevoegd
 
 (Senior) Juristen van het Juridisch Team zijn bevoegd om op te treden als procesdeelnemer en om processuele en administratieve handelingen in procedures te verrichten, om daarmee samenhangende beslissingen te nemen en om ter zitting op te treden.
 
-#### Artikel 7. (bevoegdheid ten aanzien van verzoeken die voortkomen uit AVG/[Wjsg](https://wetten.overheid.nl/jci1.3:c:BWBR0014194)/[Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463))
+##### Artikel 7. (bevoegdheid ten aanzien van verzoeken die voortkomen uit AVG/[Wjsg](https://wetten.overheid.nl/jci1.3:c:BWBR0014194)/[Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463))
 
 In deze regeling wordt verstaan onder:
 
@@ -132,7 +158,7 @@ Voor besluiten die hieruit voortvloeien zijn de volgende functionarissen bevoegd
 
 (Senior) Juristen van het Juridisch Team zijn bevoegd om op te treden als procesdeelnemer en om processuele en administratieve handelingen in procedures te verrichten, om daarmee samenhangende beslissingen te nemen en om ter zitting op te treden.
 
-#### Artikel 8. (bevoegdheid met betrekking tot klachtafhandeling)
+##### Artikel 8. (bevoegdheid met betrekking tot klachtafhandeling)
 
 In deze regeling wordt onder klachten verstaan: initiële klachten en interventies en onderzoeken van de Nationale ombudsman (No).
 
@@ -147,11 +173,11 @@ In deze regeling wordt onder klachten verstaan: initiële klachten en interventi
 
 De bevoegdheid tot het verstrekken van informatie aan het departement inzake No onderzoeken is voorbehouden aan de Algemeen Directeur CJIB.
 
-#### Artikel 9. (ondermandaat)
+##### Artikel 9. (ondermandaat)
 
 Verdere ondermandatering is niet toegestaan.
 
-#### Artikel 10. (intrekking)
+##### Artikel 10. (intrekking)
 
 Met inwerkingtreding van het Mandaatbesluit CJIB 2025 worden de volgende mandaten ingetrokken:
 
@@ -159,11 +185,11 @@ Met inwerkingtreding van het Mandaatbesluit CJIB 2025 worden de volgende mandate
 
 - –. het CJIB interne ‘Mandaat Wet openbaarheid van bestuur CJIB’ van juli 2012.
 
-#### Artikel 11. (inwerkingtreding)
+##### Artikel 11. (inwerkingtreding)
 
 Dit besluit treedt in werking met ingang van 1 januari 2025.
 
-#### Artikel 12. (aanhaling)
+##### Artikel 12. (aanhaling)
 
 Dit besluit wordt aangehaald als: Mandaatbesluit CJIB 2025.
 

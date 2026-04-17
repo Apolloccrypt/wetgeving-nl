@@ -1,13 +1,39 @@
 ---
-title: "Besluit verlening van mandaat en machtiging aan de Chief Executive Officer van ProRail B.V. voor de Tijdelijke subsidieregeling opstellen en rangeren spoorgoederenvervoer 2023 – 2025"
+title: "Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 7 maart 2023, nr. IENW/BSK-2023/60968, houdende verlening van mandaat en machtiging aan de Chief Executive Officer van ProRail B.V. voor de uitvoering van de Tijdelijke subsidieregeling opstellen en rangeren spoorgoederenvervoer 2023 – 2025"
 identifier: "BWBR0047955"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-03-11
-laatste_update: 2023-03-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047955"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-03-11"
+last_updated: "2023-03-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047955"
+soort: "ministeriele-regeling"
+stam_id: "16691903"
+version_id: "29279932"
+internal_id: "C41706861"
+label_id: "16609234"
+dtd_version: "2.0"
+original_entry_into_force: "2023-03-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047955/2023-03-11/0"
+intitule_bron: "Stcrt.2023-7494"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-03-07"
+intitule_published: "2023-03-10"
+intitule_in_force: "2023-03-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-7494"
+original_signed_date: "2023-03-07"
+original_published_date: "2023-03-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-7494"
+entry_into_force_date: "2023-03-11"
+jci_1_3: "jci1.3:c:BWBR0047955&z=2023-03-11&g=2023-03-11"
+jci_1_0: "1.0:c:BWBR0047955&g=2023-03-11"
+citeertitel_status: "redactioneel"
+short_title: "Besluit verlening van mandaat en machtiging aan de Chief Executive Officer van ProRail B.V. voor de Tijdelijke subsidieregeling opstellen en rangeren spoorgoederenvervoer 2023 – 2025"
+signed_date: "2023-03-07"
+entry_into_force: "2023-03-11"
 ---
-
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 7 maart 2023, nr. IENW/BSK-2023/60968, houdende verlening van mandaat en machtiging aan de Chief Executive Officer van ProRail B.V. voor de uitvoering van de Tijdelijke subsidieregeling opstellen en rangeren spoorgoederenvervoer 2023 – 2025
 
 Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:6), [10:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9), en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12);
@@ -16,7 +42,7 @@ Gezien de schriftelijke instemming van de Chief Executive Officer van ProRail B.
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 Aan de Chief Executive Officer van ProRail B.V. wordt mandaat verleend tot:
 
@@ -26,7 +52,7 @@ Aan de Chief Executive Officer van ProRail B.V. wordt mandaat verleend tot:
 
 - c. het beslissen op bezwaarschriften tegen besluiten als bedoeld in de onderdelen a en b, met inachtneming van [artikel 10:3, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3).
 
-#### Artikel 2
+##### Artikel 2
 
 Aan de Chief Executive Officer van ProRail B.V. wordt machtiging verleend tot:
 
@@ -34,11 +60,11 @@ Aan de Chief Executive Officer van ProRail B.V. wordt machtiging verleend tot:
 
 - b. het voeren van procedures bij de rechter over de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047955&artikel=1&z=2023-03-11&g=2023-03-11) bedoelde besluiten.
 
-#### Artikel 3
+##### Artikel 3
 
 De Chief Executive Officer van ProRail B.V. kan met betrekking tot de bevoegdheden, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047955&artikel=1&z=2023-03-11&g=2023-03-11) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0047955&artikel=2&z=2023-03-11&g=2023-03-11), ondermandaat en machtiging verlenen aan een of meer onder hem ressorterende functionarissen.
 
-#### Artikel 4
+##### Artikel 4
 
 Een document waarin een besluit als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047955&artikel=1&z=2023-03-11&g=2023-03-11), of handeling als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047955&artikel=2&z=2023-03-11&g=2023-03-11), wordt vastgelegd of bevestigd, vermeldt aan het slot:
 
@@ -48,11 +74,11 @@ namens deze,’
 
 gevolgd door de functieaanduiding, naam en handtekening van de gemandateerde of gemachtigde functionaris.
 
-#### Artikel 5
+##### Artikel 5
 
 Bij de uitoefening van het mandaat en de machtiging neemt de Chief Executive Officer van ProRail B.V. of degene aan wie ondermandaat of machtiging als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047955&artikel=3&z=2023-03-11&g=2023-03-11) is verleend, de in de bijlage bij dit besluit opgenomen instructie in acht.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

@@ -1,13 +1,38 @@
 ---
 title: "Subtaak- en ondermandaatbesluit NSA"
 identifier: "BWBR0051747"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-11-13
-laatste_update: 2025-11-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051747"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-11-13"
+last_updated: "2025-11-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051747"
+soort: "ministeriele-regeling"
+stam_id: "17595213"
+version_id: "31049692"
+internal_id: "C44615961"
+label_id: "17495694"
+dtd_version: "2.0"
+original_entry_into_force: "2025-11-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051747/2025-11-13/0"
+intitule_bron: "Stcrt.2025-38516"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-10-31"
+intitule_published: "2025-11-13"
+intitule_in_force: "2025-11-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-38516"
+original_signed_date: "2025-10-31"
+original_published_date: "2025-11-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-38516"
+entry_into_force_date: "2025-11-13"
+jci_1_3: "jci1.3:c:BWBR0051747&z=2025-11-13&g=2025-11-13"
+jci_1_0: "1.0:c:BWBR0051747&g=2025-11-13"
+citeertitel_status: "officieel"
+signed_date: "2025-10-31"
+entry_into_force: "2025-11-13"
 ---
-
 # Subtaak- en ondermandaatbesluit NSA
 
 gelet op de NATO Security Policy (Security Within the North Atlantic Treaty Organization, CM(2002)49-REV1),
@@ -34,7 +59,7 @@ Besluit:
 
 De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In dit besluit wordt verstaan onder:
 
@@ -58,7 +83,7 @@ In dit besluit wordt verstaan onder:
 
 - **Volmacht of ondervolmacht:** de bevoegdheid om in naam van de bewindspersoon privaatrechtelijke rechtshandelingen te verrichten.
 
-#### Artikel 2. NSA militaire domein
+##### Artikel 2. NSA militaire domein
 
 1. Binnen het Ministerie van Defensie heeft de Directeur Bedrijfsvoering en Evaluatie de rol van Beveiligingsautoriteit. De Beveiligingsautoriteit is belast met de taak tot optreden als de **National Security Authority** binnen het militaire domein. Waar hieronder gesproken wordt over Beveiligingsautoriteit wordt mede bedoeld zijn taak als NSA, tenzij anders verwoord.
 
@@ -68,7 +93,7 @@ In dit besluit wordt verstaan onder:
 
 4. Op basis van het [Algemeen organisatiebesluit Defensie 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0051326) kan de Beveiligingsautoriteit subtaakbesluiten vaststellen ten aanzien van de eenheden waaraan hij leiding geeft. Deze subtaakbesluiten worden vastgesteld na goedkeuring door de Secretaris-Generaal, of – indien de Secretaris-Generaal het subtaakbesluit vaststelt – na goedkeuring door de Minister van Defensie.
 
-#### Artikel 3. Algemene taken en verantwoordelijkheden NSA
+##### Artikel 3. Algemene taken en verantwoordelijkheden NSA
 
 De taak tot optreden als de NSA omvat:
 
@@ -78,7 +103,7 @@ De taak tot optreden als de NSA omvat:
 
 - c. de taken, bevoegdheden en verantwoordelijkheden behorend bij het toezicht op het anderszins binnen of buiten de grenzen van het Koninkrijk brengen van gerubriceerde informatie.
 
-#### Artikel 4. Mandatering taken DSA
+##### Artikel 4. Mandatering taken DSA
 
 1. De Beveiligingsautoriteit is bevoegd aan functionarissen werkzaam voor de diensten, bedoeld in [artikel 1 van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=1) ondermandaat, ondervolmacht en machtiging te verlenen, respectievelijk tot het beperken of intrekken daarvan, voor het optreden als DSA binnen het militaire domein, met bevoegdheden op het gebied van het beveiligen van en toezicht houden op gerubriceerde gegevens.
 
@@ -88,7 +113,7 @@ De taak tot optreden als de NSA omvat:
 
 4. De Directeur Bedrijfsvoering en Evaluatie verleent ondermandaat, ondervolmacht en machtiging bedoeld in het eerste lid, bij schriftelijk besluit in overeenstemming met de Secretaris-Generaal.
 
-#### Artikel 5. Mandatering taken gespecialiseerde autoriteiten
+##### Artikel 5. Mandatering taken gespecialiseerde autoriteiten
 
 1. De Beveiligingsautoriteit is bevoegd aan functionarissen werkzaam voor de diensten, bedoeld in [artikel 1 van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=1) ondermandaat, ondervolmacht en machtiging te verlenen, respectievelijk tot het beperken of intrekken daarvan, voor het optreden binnen het militaire domein als **Security Accreditation Authority** (SAA), **National CIS Security Authority** (NCSA), **National Tempest Authority** (NTA), **National Distribution Authority** (NDA), en **Program Security Officer** (PSO).
 
@@ -96,7 +121,7 @@ De taak tot optreden als de NSA omvat:
 
 3. Ter invulling van het optreden als gespecialiseerde autoriteit binnen het militaire domein met de hierboven genoemde bevoegdheden, zal een dienstverleningskader worden opgesteld door de Beveiligingsautoriteit. Dit dienstverleningskader wordt tenminste eenmaal per twee jaar geëvalueerd en – indien nodig – aangepast.
 
-#### Artikel 6. Ondertekening krachtens mandaat, volmacht of machtiging
+##### Artikel 6. Ondertekening krachtens mandaat, volmacht of machtiging
 
 Een document dat krachtens mandaat, volmacht of machtiging wordt ondertekend bevat aan het slot de volgende formule:
 
@@ -106,7 +131,7 @@ voor deze,
 
 << functie, handtekening en naam van de ondertekenaar >>
 
-#### Artikel 7. Citeertitel en inwerkingtreding
+##### Artikel 7. Citeertitel en inwerkingtreding
 
 1. Dit besluit zal op de eerstvolgende dag na ondertekening in werking treden.
 

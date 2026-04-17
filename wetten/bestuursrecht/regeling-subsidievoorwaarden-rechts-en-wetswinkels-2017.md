@@ -1,18 +1,40 @@
 ---
 title: "Regeling subsidievoorwaarden rechts- en wetswinkels 2017"
 identifier: "BWBR0039925"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-08-28
-laatste_update: 2017-08-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039925"
+country: "nl"
+rank: "zbo"
+publication_date: "2017-08-28"
+last_updated: "2017-08-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039925"
+soort: "zbo"
+stam_id: "14140513"
+version_id: "24318152"
+internal_id: "C34911151"
+label_id: "14101424"
+dtd_version: "2.0"
+original_entry_into_force: "2017-08-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039925/2017-08-28/0"
+intitule_bron: "Stcrt.2017-48454"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2017-08-28"
+intitule_in_force: "2017-08-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-48454"
+original_published_date: "2017-08-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-48454"
+entry_into_force_date: "2017-08-28"
+jci_1_3: "jci1.3:c:BWBR0039925&z=2017-08-28&g=2017-08-28"
+jci_1_0: "1.0:c:BWBR0039925&g=2017-08-28"
+citeertitel_status: "redactioneel"
+entry_into_force: "2017-08-28"
 ---
-
 # Regeling subsidievoorwaarden rechts- en wetswinkels 2017
 
 gelet op [artikel 37c](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=37c) jo. [42c van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=42c) subsidie verlenen aan rechts- en wetswinkels en heeft daartoe de volgende regeling vastgesteld:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -28,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - 6). **Een financieel verslag:** een verslag van de rechts- of wetswinkel over het financieel beheer in 2016, waaruit blijkt dat de verstrekte subsidie doelmatig is besteed aan rechtsbijstand;
 
-#### Artikel 2
+##### Artikel 2
 
 De Raad kan onder de volgende voorwaarden subsidie verlenen;
 
@@ -36,7 +58,7 @@ De Raad kan onder de volgende voorwaarden subsidie verlenen;
 
 - 2). De rechts- of wetswinkel die in 2015 of 2016 subsidie heeft ontvangen van de Raad, komt niet in aanmerking voor (extra) subsidie voor door deze rechts- of wetswinkel te openen nieuwe spreekuurlocaties;
 
-#### Artikel 3
+##### Artikel 3
 
 Een rechts- of wetswinkel komt met inachtneming van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039925&artikel=2&z=2017-08-28&g=2017-08-28) in aanmerking voor subsidie in 2017. Hierbij gelden de volgende aanvullende voorwaarden:
 
@@ -60,7 +82,7 @@ Een rechts- of wetswinkel komt met inachtneming van [artikel 2](https://wetten.o
 
 - f). de medewerkers van de rechts- of wetswinkel moeten in overwegende mate vrijwilligers zijn en dus niet door hun beroep inkomsten verwerven uit de gesubsidieerde rechtsbijstand. De Raad kan hierop een uitzondering maken als de rechts- of wetswinkel kan waarborgen dat geen vermenging van vrijwillige en professionele activiteiten optreedt.
 
-#### Artikel 4
+##### Artikel 4
 
 Aan een rechts- of wetswinkel die voor 1 juni 2017 aan de hiervoor onder [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039925&artikel=2&z=2017-08-28&g=2017-08-28) vermelde voorwaarden heeft voldaan, kan de Raad in 2017, rekening houdend met zijn activiteiten en financiële positie, een subsidie toekennen.
 

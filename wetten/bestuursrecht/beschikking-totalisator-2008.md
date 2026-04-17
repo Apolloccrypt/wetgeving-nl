@@ -1,13 +1,39 @@
 ---
-title: "Beschikking totalisator 2008"
+title: "Beschikking van de Minister van Justitie van 19 juni 2008, nr. 5551529/08/DSP, houdende verlening van een vergunning tot het organiseren van een totalisator"
 identifier: "BWBR0024090"
-categorie: "Bestuursrecht"
-publicatiedatum: 2011-07-01
-laatste_update: 2011-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024090"
+country: "nl"
+rank: "zbo"
+publication_date: "2011-07-01"
+last_updated: "2011-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024090"
+soort: "zbo"
+stam_id: "9590143"
+version_id: "15492502"
+internal_id: "C21134121"
+label_id: "9567404"
+dtd_version: "2.0"
+original_entry_into_force: "2008-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024090/2011-07-01/0"
+intitule_bron: "Stcrt.2008-122"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-06-19"
+intitule_published: "2008-06-27"
+intitule_in_force: "2008-06-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-122"
+original_signed_date: "2008-06-19"
+original_published_date: "2008-06-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-122-p19-SC86422"
+entry_into_force_date: "2008-07-01"
+jci_1_3: "jci1.3:c:BWBR0024090&z=2011-07-01&g=2011-07-01"
+jci_1_0: "1.0:c:BWBR0024090&g=2011-07-01"
+citeertitel_status: "officieel"
+short_title: "Beschikking totalisator 2008"
+signed_date: "2008-06-19"
+entry_into_force: "2008-07-01"
 ---
-
 # Beschikking van de Minister van Justitie van 19 juni 2008, nr. 5551529/08/DSP, houdende verlening van een vergunning tot het organiseren van een totalisator
 
 Overwegende dat de geldigheidsduur van de [Beschikking Totalisator 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018459) op 30 juni 2008 verstrijkt;
@@ -20,7 +46,7 @@ Gehoord het advies van het College van toezicht op de kansspelen van 22 november
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
 
@@ -50,7 +76,7 @@ In deze beschikking wordt verstaan onder:
 
 - m. lokale pool: een pool waarin de weddenschappen in Nederland, die ten aanzien van harddraverijen en paardenrennen in het binnenland of het buitenland zijn afgesloten, worden samengevoegd ten behoeve van het voor uitkering beschikbare bedrag.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aan de vennootschap wordt voor de duur van vijf jaren, te rekenen vanaf 1 juli 2008 tot en met 30 juni 2013 vergunning verleend tot het organiseren van een totalisator.
 
@@ -58,7 +84,7 @@ In deze beschikking wordt verstaan onder:
 
 3. Aan de in het eerste lid bedoelde vergunning worden de in [artikel 3 tot en met artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024090&artikel=3&z=2011-07-01&g=2011-07-01) vervatte voorschriften verbonden, die zonodig kunnen worden gewijzigd of aangevuld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het is de vennootschap toegestaan een totalisator te organiseren:
 
@@ -72,7 +98,7 @@ In deze beschikking wordt verstaan onder:
 
 3. De Minister kan een andere rechtspersoon dan de NDR aanwijzen voor de toepassing van dit artikel.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het is de vennootschap toegestaan weddenschappen af te sluiten:
 
@@ -90,7 +116,7 @@ In deze beschikking wordt verstaan onder:
 
 2. Het is de vennootschap voorts toegestaan weddenschappen af te sluiten langs direct elektronische weg.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De totalisator wordt georganiseerd met inachtneming van de vergunningvoorschriften, de statuten en reglementen van de vennootschap.
 
@@ -100,15 +126,15 @@ In deze beschikking wordt verstaan onder:
 
 4. In alle aankondigingen en voor openbaarmaking of verspreiding bestemde stukken wordt vermeld dat voor het organiseren van een totalisator vergunning is verleend door de Minister, onder aanhaling van datum en kenmerk van deze beschikking.
 
-#### Artikel 6
+##### Artikel 6
 
 De vennootschap houdt van de totale inzet per koers, vóór de verdeling aan de winnaars van de weddenschappen, een bedrag in van 2,5%, van welk bedrag 8% is bestemd voor de Koninklijke Fondsen en 92%, volgens een door de Minister te bepalen verdeelsleutel, ter bevordering van de draf- en rensport in Nederland, volgens een door de Minister te bepalen verdeelsleutel.
 
-#### Artikel 7
+##### Artikel 7
 
 De vennootschap draagt aan de NDR de bedragen af in overeenstemming met de tussen de vennootschap en de NDR gesloten samenwerkingsovereenkomst.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Binnen vier weken na afloop van enige maand draagt de vennootschap het bedrag, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024090&artikel=6&z=2011-07-01&g=2011-07-01), aan de begunstigden af.
 
@@ -118,19 +144,19 @@ De vennootschap draagt aan de NDR de bedragen af in overeenstemming met de tusse
 
 4. De begunstigden, bedoeld in het eerste lid, verantwoorden jaarlijks aan de vennootschap de rechtmatigheid en doelmatigheid van de besteding van de bedragen, aan hen door de vennootschap afgedragen. De vennootschap doet hierover verslag aan de Minister en het college.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Bij besluit van de Minister kunnen ambtenaren en andere personen worden aangewezen die zijn belast met het toezicht op de naleving door de vennootschap van het bepaalde bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469) en van haar reglementen.
 
 2. De toezichthouders beschikken niet over de bevoegdheden, genoemd in de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
 
-#### Artikel 10
+##### Artikel 10
 
 De vennootschap zendt binnen vier weken na het einde van elk kwartaal aan de Minister, het college en de NDR een verslag van de exploitatie van de totalisator, alsmede andere door de Minister noodzakelijk geachte gegevens, over dat kwartaal.
 
 De Minister kan, gehoord het college, aanwijzingen geven omtrent de inrichting van het verslag.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De vennootschap stelt een jaarrekening en een jaarverslag op welke voldoen aan de eisen gesteld in [Boek 2, Titel 9, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9). De Minister kan, gehoord het college, aanwijzingen geven omtrent de inrichting van de jaarrekening en het jaarverslag.
 
@@ -140,13 +166,13 @@ De Minister kan, gehoord het college, aanwijzingen geven omtrent de inrichting v
 
 4. Binnen vier maanden na afloop van een kalenderjaar zendt de vennootschap de jaarrekening met het verslag en de verklaring, alsmede het jaarverslag aan de Minister, het college en de NDR.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De vennootschap zorgt voor een doelmatige administratie, organisatie en uitvoering van de krachtens deze vergunning georganiseerde totalisator.
 
 2. De vennootschap neemt de nodige maatregelen met het oog op de naleving van de aan deze vergunning verbonden voorschriften en de op grond daarvan opgestelde reglementen door de organisaties en personen die op enigerlei wijze bij de administratie, organisatie en uitvoering van de totalisator zijn betrokken.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het aantal locaties, bedoeld in [artikel 4, eerste lid, onder b, c, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024090&artikel=4&z=2011-07-01&g=2011-07-01), bedraagt in totaal ten hoogste honderd.
 
@@ -154,7 +180,7 @@ De Minister kan, gehoord het college, aanwijzingen geven omtrent de inrichting v
 
 3. Voor andere dan de in het tweede lid genoemde voorzieningen in een wedkantoor ten behoeve van de bezoeker die geen verband houden met de organisatie van de totalisator is de voorafgaande goedkeuring van de Minister, gehoord het college, nodig, behoudens in geval van nevenactiviteiten van beperkte omvang die het karakter van een wedkantoor niet wijzigen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Uitgesloten als locaties, bedoeld in [artikel 4, eerste lid, onder b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0024090&artikel=4&z=2011-07-01&g=2011-07-01), zijn:
 
@@ -164,7 +190,7 @@ De Minister kan, gehoord het college, aanwijzingen geven omtrent de inrichting v
 
 2. De vennootschap stelt de gelegenheid open tot het afsluiten van weddenschappen in een locatie als bedoeld in [artikel 4, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0024090&artikel=4&z=2011-07-01&g=2011-07-01), tot uiterlijk één uur voor de aanvang van de eerste koers van de koersdag waarop de weddenschap betrekking heeft, behoudens voorzover de mogelijkheid tot het afsluiten van weddenschappen wordt geboden door middel van mechanische, elektrische of elektronische voorzieningen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Onverminderd [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024090&artikel=13&z=2011-07-01&g=2011-07-01), is het de vennootschap toegestaan in ten hoogste twintig wedcafés weddenschappen af te sluiten.
 
@@ -182,7 +208,7 @@ De Minister kan, gehoord het college, aanwijzingen geven omtrent de inrichting v
 
 - g. de veiligheid van het personeel en bezoekers.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De vennootschap gaat het ongeoorloofd wedden en het aanbieden of verlenen van bemiddeling tot wedden op de uitslag van de harddraverijen en paardenrennen zoveel mogelijk tegen en verleent daartoe al haar medewerking aan personen, die zijn belast met de opsporing van overtreding van [artikel 27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27).
 
@@ -190,19 +216,19 @@ De Minister kan, gehoord het college, aanwijzingen geven omtrent de inrichting v
 
 3. Van de bevindingen van de vennootschap betreffende het ongeoorloofd wedden en het aanbieden of verlenen van bemiddeling tot wedden op de uitslag van harddraverijen en paardenrennen, alsmede van de daartegen genomen maatregelen, wordt mededeling gedaan in het jaarverslag.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Als deelnemers aan de totalisator mogen niet worden toegelaten personen die nog niet de leeftijd van achttien jaren hebben bereikt.
 
 2. Indien als winnaar in de totalisator wordt aangewezen een persoon die ingevolge het eerste lid niet als deelnemer mocht worden toegelaten of een persoon die bij de deelneming gehandeld heeft in strijd met de door de vennootschap gestelde voorwaarden, wordt de desbetreffende deelneming buiten aanmerking gelaten.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Het is de vennootschap terzake van de weddenschapvormen ‘Winnend’, ‘Plaats’, ‘Duo/Koppel’ en ‘Dubbel Winnend’ niet toegestaan weddenschappen aan te bieden of af te sluiten welke een inzet van €250,– per weddenschap te boven gaan. Voor de weddenschapvormen ‘Trio’, ‘Kwartet’, ‘V75’, ‘V65’, ‘V5’, ‘V3’, en ‘Bigsix’ geldt per weddenschap een limitering van €1000,–.
 
 2. Het is de vennootschap niet toegestaan geldleningen te verstrekken aan spelers of van deze te ontvangen.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De vennootschap treft de noodzakelijke maatregelen en voorzieningen om onmatige deelneming aan de totalisator zo veel mogelijk te voorkomen.
 
@@ -214,7 +240,7 @@ De Minister kan, gehoord het college, aanwijzingen geven omtrent de inrichting v
 
 5. De vennootschap neemt bij haar wervings- en reclameactiviteiten de haar door de Minister gegeven aanwijzingen, gehoord het college, in acht.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De mechanische, elektrische en elektronische processen die gebruikt (?) worden bij de deelneming, prijsbepaling en vaststelling van de winnaars van de krachtens deze vergunning georganiseerde totalisator, zijn onderworpen aan een voorafgaande goedkeuring en periodieke controle door één of meer door de Minister aangewezen onafhankelijke deskundigen of keuringsinstellingen.
 
@@ -222,24 +248,24 @@ De Minister kan, gehoord het college, aanwijzingen geven omtrent de inrichting v
 
 3. Van de bevindingen van de in het eerste lid bedoelde onafhankelijke deskundigen of keuringsinstellingen wordt uiterlijk binnen drie maanden na afloop van een kalenderjaar verslag gedaan aan de Minister en het college.
 
-#### Artikel 21
+##### Artikel 21
 
 De kosten verbonden aan de goedkeuring, controle en onderzoek ingevolge de [artikelen 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024090&artikel=11&z=2011-07-01&g=2011-07-01), en [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024090&artikel=20&z=2011-07-01&g=2011-07-01), zijn voor rekening van de vennootschap.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Na inwerkingtreding van deze beschikking berusten de besluiten die zijn genomen ter uitvoering van de [Beschikking totalisator 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018459), op deze beschikking.
 
 2. De weddenschappen die voor de inwerkingtreding van deze beschikking zijn afgesloten op grond van de [Beschikking totalisator 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018459), worden door de vennootschap afgewikkeld overeenkomstig de ten tijde van het afsluiten van die weddenschappen geldende voorschriften en reglementen.
 
-#### Artikel 23
+##### Artikel 23
 
 De [Beschikking totalisator 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018459) wordt ingetrokken.
 
-#### Artikel 24
+##### Artikel 24
 
 Deze beschikking treedt in werking met ingang van 1 juli 2008 en zal worden gepubliceerd in de Staatscourant.
 
-#### Artikel 25
+##### Artikel 25
 
 Deze beschikking wordt aangehaald als: Beschikking totalisator 2008.

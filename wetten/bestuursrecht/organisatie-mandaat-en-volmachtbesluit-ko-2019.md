@@ -1,13 +1,39 @@
 ---
-title: "Organisatie-, mandaat- en volmachtbesluit KO 2019"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 juli 2019, nr. 2019-0000097652, houdende de inrichting van de directie Kinderopvang, alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Kinderopvang (Organisatie-, mandaat- en volmachtbesluit KO 2019)"
 identifier: "BWBR0042440"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-09-19
-laatste_update: 2023-09-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042440"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-09-19"
+last_updated: "2023-09-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042440"
+soort: "ministeriele-regeling"
+stam_id: "15129503"
+version_id: "25943132"
+internal_id: "C36958681"
+label_id: "15077444"
+dtd_version: "2.0"
+original_entry_into_force: "2019-07-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042440/2023-09-19/0"
+intitule_bron: "Stcrt.2019-41143"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-07-15"
+intitule_published: "2019-07-24"
+intitule_in_force: "2019-07-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-41143"
+original_signed_date: "2019-07-15"
+original_published_date: "2019-07-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-41143"
+entry_into_force_date: "2019-07-25"
+jci_1_3: "jci1.3:c:BWBR0042440&z=2023-09-19&g=2023-09-19"
+jci_1_0: "1.0:c:BWBR0042440&g=2023-09-19"
+citeertitel_status: "officieel"
+short_title: "Organisatie-, mandaat- en volmachtbesluit KO 2019"
+signed_date: "2019-07-15"
+entry_into_force: "2019-07-25"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 juli 2019, nr. 2019-0000097652, houdende de inrichting van de directie Kinderopvang, alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Kinderopvang (Organisatie-, mandaat- en volmachtbesluit KO 2019)
 
 Gelet op de [artikelen 3, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&artikel=3), en [15 van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Werk 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&artikel=15);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Organisatie en taken
 
-#### Artikel 2
+##### Artikel 2
 
 1. De directie bestaat uit de volgende afdelingen:
 
@@ -42,7 +68,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 3. De directie werkt met een flexibele structuur. Afhankelijk van de beleidsopgaven waarmee de directie zich geconfronteerd ziet, kan het MT een directiestructuur hanteren die past bij deze opgaven. Hierbij kan bijvoorbeeld gewerkt worden met clusters, projecten, programma’s en/of teams.
 
-#### Artikel 3
+##### Artikel 3
 
 De directeur, de afdelingshoofden en het MT-lid herziening financieringsstelsel kinderopvang zijn verantwoordelijk voor:
 
@@ -68,7 +94,7 @@ De directeur, de afdelingshoofden en het MT-lid herziening financieringsstelsel 
 
 - k. het behartigen van overige financiële activiteiten binnen de directie waaronder het subsidie- en contractenbeheer.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aan de afdelingshoofden wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst. Dit geldt voor:
 
@@ -84,19 +110,19 @@ De directeur, de afdelingshoofden en het MT-lid herziening financieringsstelsel 
 
 - b. het accorderen van binnen het eigen taakveld passende voorstellen/uitgaven (opdrachten/onderzoeken/subsidies) zoals opgenomen in het door de directie vastgestelde bestedingsplan.
 
-#### Artikel 5
+##### Artikel 5
 
 De plaatsvervangend directeur kan aan rechtstreeks onder haar ressorterende functionarissen bevoegdheden doorverlenen, met uitzondering van bevoegdheden met betrekking tot personeelsaangelegenheden. Doorverlening van bevoegdheden is slechts toegestaan na voorafgaande schriftelijke toestemming van de directeur.
 
 #### § 3. Slotbepalingen
 
-#### Artikel 6
+##### Artikel 6
 
 Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door de plaatsvervangend directeur.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 4
+##### Artikel 4
 
 De plaatsvervangend directeur kan aan rechtstreeks onder haar ressorterende functionarissen bevoegdheden doorverlenen, met uitzondering van bevoegdheden met betrekking tot personeelsaangelegenheden. Doorverlening van bevoegdheden is slechts toegestaan na voorafgaande schriftelijke toestemming van de directeur.
 
@@ -104,7 +130,7 @@ De plaatsvervangend directeur kan aan rechtstreeks onder haar ressorterende func
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit directie Kinderopvang 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0035041) wordt ingetrokken.
 

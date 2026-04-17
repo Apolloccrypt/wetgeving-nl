@@ -1,13 +1,38 @@
 ---
 title: "Generiek toestemmingsbesluit nevenactiviteiten – cluster 1 (verkoop programma’s en fragmenten door landelijke publieke media-instellingen aan derden aan de hand van Tarievenlijst hergebruik archiefmateriaal Nederlands Instituut voor Beeld en Geluid)"
 identifier: "BWBR0037482"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2016-01-04
-laatste_update: 2016-01-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037482"
+country: "nl"
+rank: "zbo"
+publication_date: "2016-01-04"
+last_updated: "2016-01-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037482"
+soort: "zbo"
+stam_id: "13376083"
+version_id: "22933962"
+internal_id: "C33161281"
+label_id: "13343864"
+dtd_version: "2.0"
+original_entry_into_force: "2016-01-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037482/2016-01-04/0"
+intitule_bron: "Stcrt.2016-62"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-12-15"
+intitule_published: "2016-01-04"
+intitule_in_force: "2016-01-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-62"
+original_signed_date: "2015-12-15"
+original_published_date: "2016-01-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-62"
+entry_into_force_date: "2016-01-04"
+jci_1_3: "jci1.3:c:BWBR0037482&z=2016-01-04&g=2016-01-04"
+jci_1_0: "1.0:c:BWBR0037482&g=2016-01-04"
+citeertitel_status: "redactioneel"
+signed_date: "2015-12-15"
+entry_into_force: "2016-01-04"
 ---
-
 # Generiek toestemmingsbesluit nevenactiviteiten – cluster 1 (verkoop programma’s en fragmenten door landelijke publieke media-instellingen aan derden aan de hand van Tarievenlijst hergebruik archiefmateriaal Nederlands Instituut voor Beeld en Geluid)
 
 ### A. Aard en strekking besluit

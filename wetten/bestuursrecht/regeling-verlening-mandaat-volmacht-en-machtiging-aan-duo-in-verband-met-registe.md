@@ -1,13 +1,39 @@
 ---
-title: "Regeling verlening mandaat, volmacht en machtiging aan DUO in verband met register buitenlandse kinderopvang"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 3 december 2013, 2013-0000170957, tot verlening van mandaat, volmacht en machtiging aan DUO in verband met het register buitenlandse kinderopvang"
 identifier: "BWBR0034646"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-01-01
-laatste_update: 2018-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034646"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-01-01"
+last_updated: "2018-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034646"
+soort: "ministeriele-regeling"
+stam_id: "12549223"
+version_id: "21128722"
+internal_id: "C30325301"
+label_id: "12519694"
+dtd_version: "2.0"
+original_entry_into_force: "2014-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034646/2018-01-01/0"
+intitule_bron: "Stcrt.2013-35566"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-12-03"
+intitule_published: "2013-12-19"
+intitule_in_force: "2013-12-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-35566"
+original_signed_date: "2013-12-03"
+original_published_date: "2013-12-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-35566"
+entry_into_force_date: "2014-02-01"
+jci_1_3: "jci1.3:c:BWBR0034646&z=2018-01-01&g=2018-01-01"
+jci_1_0: "1.0:c:BWBR0034646&g=2018-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Regeling verlening mandaat, volmacht en machtiging aan DUO in verband met register buitenlandse kinderopvang"
+signed_date: "2013-12-03"
+entry_into_force: "2014-02-01"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 3 december 2013, 2013-0000170957, tot verlening van mandaat, volmacht en machtiging aan DUO in verband met het register buitenlandse kinderopvang
 
 Gelet op [artikel 10:4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4);

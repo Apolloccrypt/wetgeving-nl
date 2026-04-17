@@ -1,13 +1,35 @@
 ---
 title: "Gewijzigde aanvraagprocedure diploma-erkenning"
 identifier: "BWBR0033067"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-03-25
-laatste_update: 2013-03-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033067"
+country: "nl"
+rank: "zbo"
+publication_date: "2013-03-25"
+last_updated: "2013-03-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033067"
+soort: "zbo"
+stam_id: "12149083"
+version_id: "20277342"
+internal_id: "C28521351"
+label_id: "12120974"
+dtd_version: "2.0"
+original_entry_into_force: "2013-03-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033067/2013-03-25/0"
+intitule_bron: "Stcrt.2013-7826"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-03-25"
+intitule_in_force: "2013-03-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-7826"
+original_published_date: "2013-03-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-7826"
+entry_into_force_date: "2013-03-25"
+jci_1_3: "jci1.3:c:BWBR0033067&z=2013-03-25&g=2013-03-25"
+jci_1_0: "1.0:c:BWBR0033067&g=2013-03-25"
+citeertitel_status: "redactioneel"
+entry_into_force: "2013-03-25"
 ---
-
 # Gewijzigde aanvraagprocedure diploma-erkenning
 
 ### Deel I. Algemene informatie aanvragen diploma-erkenning

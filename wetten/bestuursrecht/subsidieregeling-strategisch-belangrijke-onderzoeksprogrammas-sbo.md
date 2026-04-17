@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling strategisch belangrijke onderzoeksprogramma’s (SBO)"
+title: "Regeling van de Minister van Economische Zaken en Klimaat van 28 oktober 2022, nr. WJZ/ 22086636, houdende regels voor het verstrekken van subsidies door het Ministerie van Economische Zaken en Klimaat aan strategisch belangrijke onderzoeksprogramma’s van onderzoeksinstituten (Subsidieregeling strategisch belangrijke onderzoeksprogramma’s (SBO))"
 identifier: "BWBR0047415"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-07-18
-laatste_update: 2025-07-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047415"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-18"
+last_updated: "2025-07-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047415"
+soort: "ministeriele-regeling"
+stam_id: "16551063"
+version_id: "29012462"
+internal_id: "C41069211"
+label_id: "16472254"
+dtd_version: "2.0"
+original_entry_into_force: "2022-11-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047415/2025-07-18/0"
+intitule_bron: "Stcrt.2022-29013"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-10-28"
+intitule_published: "2022-11-02"
+intitule_in_force: "2022-11-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-29013"
+original_signed_date: "2022-10-28"
+original_published_date: "2022-11-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-29013"
+entry_into_force_date: "2022-11-03"
+jci_1_3: "jci1.3:c:BWBR0047415&z=2025-07-18&g=2025-07-18"
+jci_1_0: "1.0:c:BWBR0047415&g=2025-07-18"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling strategisch belangrijke onderzoeksprogramma’s (SBO)"
+signed_date: "2022-10-28"
+entry_into_force: "2022-11-03"
 ---
-
 # Regeling van de Minister van Economische Zaken en Klimaat van 28 oktober 2022, nr. WJZ/ 22086636, houdende regels voor het verstrekken van subsidies door het Ministerie van Economische Zaken en Klimaat aan strategisch belangrijke onderzoeksprogramma’s van onderzoeksinstituten (Subsidieregeling strategisch belangrijke onderzoeksprogramma’s (SBO))
 
 Gelet op [artikel 3 van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -56,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 - **samenwerkingsverband:** een geen rechtspersoonlijkheid bezittend verband, bestaande uit ten minste twee niet in een groep verbonden deelnemers, dat is opgericht ten behoeve van de uitvoering van activiteiten, niet zijnde een vennootschap.
 
-#### Artikel 2. Subsidieverstrekking aan strategisch belangrijke onderzoeksprogramma’s van reguliere en niet-reguliere onderzoeksinstituten
+##### Artikel 2. Subsidieverstrekking aan strategisch belangrijke onderzoeksprogramma’s van reguliere en niet-reguliere onderzoeksinstituten
 
 1. De minister verstrekt op aanvraag subsidie aan een in Nederland gevestigd onderzoeksinstituut voor het uitvoeren van een onderzoeksprogramma dat gericht is op:
 
@@ -78,13 +104,13 @@ In deze regeling wordt verstaan onder:
 
 - b. een niet-regulier onderzoeksinstituut, dat na toepassing van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=4&z=2025-07-18&g=2025-07-18), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=8&z=2025-07-18&g=2025-07-18) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=9&z=2025-07-18&g=2025-07-18) door de minister incidenteel geselecteerd is voor het uitvoeren van een bepaald strategisch belangrijk onderzoeksprogramma vanwege de belangrijke en substantiële bijdrage die door dit onderzoeksinstituut met de uitvoering van dit onderzoeksprogramma naar verwachting ten minste eenmalig geleverd zou kunnen worden aan de doelstellingen, bedoeld in het eerste lid.
 
-#### Artikel 3. Subsidieverstrekking aan strategisch belangrijke onderzoeksprogramma’s van reguliere onderzoeksinstituten
+##### Artikel 3. Subsidieverstrekking aan strategisch belangrijke onderzoeksprogramma’s van reguliere onderzoeksinstituten
 
 1. De minister kan op grond van deze regeling uitsluitend subsidie verstrekken aan een regulier onderzoeksinstituut voor een bepaald strategisch belangrijk onderzoeksprogramma, voor zover de minister de mogelijkheid tot het doen van een aanvraag om subsidieverlening voor de uitvoering van dit programma in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&bijlage=1&z=2025-07-18&g=2025-07-18) van deze regeling heeft opengesteld.
 
 2. De minister verstrekt geen subsidie aan een regulier onderzoeksinstituut voor het uitvoeren van een strategisch belangrijk onderzoeksprogramma indien aan dit reguliere onderzoeksinstituut voor het uitvoeren van een onderzoeksprogramma eerder subsidie verleend is op grond van deze regeling en de aanvraag om subsidieverlening niet vergezeld gaat van een verslag als bedoeld in [artikel 10, vierde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=10&z=2025-07-18&g=2025-07-18), waaruit volgt dat dit onderzoeksprogramma heeft geleid tot kwalitatief hoogwaardig onderzoek.
 
-#### Artikel 4. Subsidieverstrekking aan strategisch belangrijke onderzoeksprogramma’s van niet-reguliere onderzoeksinstituten
+##### Artikel 4. Subsidieverstrekking aan strategisch belangrijke onderzoeksprogramma’s van niet-reguliere onderzoeksinstituten
 
 1. De minister kan op grond van deze regeling uitsluitend subsidie verstrekken aan een niet-regulier onderzoeksinstituut voor zover de minister de mogelijkheid tot het doen van een aanvraag om subsidieverlening voor de uitvoering van een strategisch belangrijk onderzoeksprogramma op het gebied van een bepaald thema in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&bijlage=1&z=2025-07-18&g=2025-07-18) van deze regeling heeft opengesteld.
 
@@ -114,7 +140,7 @@ In deze regeling wordt verstaan onder:
 
 5. De minister verstrekt geen subsidie aan een niet-regulier onderzoeksinstituut voor het uitvoeren van een strategisch belangrijk onderzoeksprogramma indien aan het desbetreffende onderzoeksprogramma na toepassing van het derde lid, onderdelen a tot en met c, en vierde lid, minder dan zes punten per criterium zijn toegekend.
 
-#### Artikel 5. Hoogte subsidie
+##### Artikel 5. Hoogte subsidie
 
 1. De subsidie bedraagt:
 
@@ -140,7 +166,7 @@ In deze regeling wordt verstaan onder:
 
 4. Indien reeds door een bestuursorgaan of de Europese Commissie subsidie is verstrekt voor de subsidiabele kosten van een onderzoeksprogramma of een deel daarvan, wordt slechts een zodanig bedrag aan subsidie verstrekt dat het totale bedrag aan subsidies niet meer bedraagt dan het bedrag dat krachtens de toepasselijke Europese steunkaders kan worden verstrekt.
 
-#### Artikel 6. Soorten subsidiabele kosten
+##### Artikel 6. Soorten subsidiabele kosten
 
 1. **Voor subsidie komen uitsluitend in aanmerking de redelijk gemaakte kosten die verbonden zijn met de uitvoering van een niet-economische of economische activiteit waarvoor op grond van deze regeling subsidie is verstrekt en die bestaan uit:**
 
@@ -162,7 +188,7 @@ In deze regeling wordt verstaan onder:
 
 - b. preferente toegang heeft tot de onderzoeksresultaten of onderzoeksfaciliteiten van het reguliere of niet-reguliere onderzoeksinstituut.
 
-#### Artikel 7. Berekeningsmethoden subsidiabele kosten
+##### Artikel 7. Berekeningsmethoden subsidiabele kosten
 
 1. De subsidiabele kosten worden berekend op basis van een voor het onderzoeksinstituut gebruikelijke en controleerbare methode, die is gebaseerd op bedrijfseconomische grondslagen en normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd en die het onderzoeksinstituut stelselmatig toepast.
 
@@ -196,7 +222,7 @@ In deze regeling wordt verstaan onder:
 
 - b. de in aanmerking komende kosten gedisconteerd overeenkomstig artikel 7, derde lid, van de algemene groepsvrijstellingsverordening, indien de steun in meerdere tranches wordt uitgekeerd.
 
-#### Artikel 8. Europeesrechtelijke afwijzingsgronden
+##### Artikel 8. Europeesrechtelijke afwijzingsgronden
 
 De minister beslist afwijzend op een aanvraag om subsidieverlening voor zover de subsidie bestemd is voor economische activiteiten en:
 
@@ -224,7 +250,7 @@ De minister beslist afwijzend op een aanvraag om subsidieverlening voor zover de
 
 - 3°. een onderneming die actief is in een sector waarvoor het op grond van artikel 1, derde lid, van de algemene groepsvrijstellingsverordening niet is toegestaan steun te verlenen, tenzij deze onderneming tevens werkzaam is in een andere sector en zij er, met passende middelen zoals een scheiding van de activiteiten of een uitsplitsing van de kosten, voor zorgt dat de activiteiten in de uitgesloten sector geen voor de andere sector bestemde subsidie genieten.
 
-#### Artikel 9. Nationaalrechtelijke afwijzingsgronden
+##### Artikel 9. Nationaalrechtelijke afwijzingsgronden
 
 De minister beslist afwijzend op een aanvraag om subsidieverlening indien:
 
@@ -242,7 +268,7 @@ De minister beslist afwijzend op een aanvraag om subsidieverlening indien:
 
 - e. de aanvraag niet voldoet aan de in deze regeling gestelde regels.
 
-#### Artikel 10. Indiening aanvraag om subsidieverlening
+##### Artikel 10. Indiening aanvraag om subsidieverlening
 
 1. **Een aanvraag om subsidieverlening wordt ingediend met gebruikmaking van een middel, dat door de minister beschikbaar wordt gesteld.**
 
@@ -278,7 +304,7 @@ artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening.
 
 - f. documenten met daarin een beknopte beschrijving van de projectorganisatie en de kennis, ervaring en capaciteiten van de bij de uitvoering van het onderzoeksprogramma betrokken organisaties of personen, die relevant zijn om de geschiktheid van de subsidieaanvrager, bedoeld in [artikel 4, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=4&z=2025-07-18&g=2025-07-18), te kunnen beoordelen, indien de aanvraag om subsidieverlening is ingediend door een niet-regulier onderzoeksinstituut.
 
-#### Artikel 11. Beschikking op de aanvraag om subsidieverlening
+##### Artikel 11. Beschikking op de aanvraag om subsidieverlening
 
 1. De minister geeft een beschikking op een aanvraag om subsidieverlening:
 
@@ -288,7 +314,7 @@ artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening.
 
 2. Indien een beschikking op een aanvraag om subsidieverlening niet kan worden gegeven binnen de toepasselijke termijn, genoemd in het eerste lid, onderdelen a of b, dan kan deze termijn eenmaal met acht weken respectievelijk met dertien weken worden verlengd.
 
-#### Artikel 12. Algemene verplichtingen betreffende het onderzoeksprogramma
+##### Artikel 12. Algemene verplichtingen betreffende het onderzoeksprogramma
 
 1. Een op grond van deze regeling gesubsidieerd onderzoeksprogramma wordt uitgevoerd conform het ingediende onderzoeksplan en financieringsplan, bedoeld in [artikel 10, vierde lid, onderdeel a respectievelijk onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=10&z=2025-07-18&g=2025-07-18), met dien verstande dat:
 
@@ -314,7 +340,7 @@ artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening.
 
 4. Aan de ontheffing, bedoeld in het derde lid, kunnen voorschriften worden verbonden.
 
-#### Artikel 13. Verplichtingen betreffende activiteiten in een samenwerkingsverband
+##### Artikel 13. Verplichtingen betreffende activiteiten in een samenwerkingsverband
 
 1. Indien in het onderzoeksprogramma onafhankelijk fundamenteel onderzoek, industrieel onderzoek of experimentele ontwikkeling door een onderzoeksinstituut wordt verricht in een samenwerkingsverband:
 
@@ -346,7 +372,7 @@ artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening.
 
 4. De voorwaarden van een overeenkomst, gesloten ingevolge het derde lid, onderdeel c, wijken niet af van voorwaarden die onafhankelijke ondernemingen overeen zouden komen en behelzen geen enkele vorm van heimelijke verstandhouding.
 
-#### Artikel 14. Verplichtingen betreffende onderzoeksinfrastructuur
+##### Artikel 14. Verplichtingen betreffende onderzoeksinfrastructuur
 
 1. Indien in het onderzoeksprogramma activiteiten betreffende de bouw of het upgraden van onderzoeksinfrastructuur door een onderzoeksinstituut worden verricht draagt het onderzoeksinstituut er zorg voor dat:
 
@@ -356,7 +382,7 @@ artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening.
 
 2. In afwijking van het eerste lid, aanhef en onderdeel a, kunnen ondernemingen die ten minste 10 procent van de investeringskosten van de onderzoeksinfrastructuur hebben gefinancierd preferente toegang krijgen op gunstigere voorwaarden, indien deze toegang evenredig is aan de bijdrage van de onderneming in de investeringskosten en deze gunstigere voorwaarden publiek beschikbaar worden gesteld.
 
-#### Artikel 15. Verplichtingen betreffende voortgangsrapportages en kennisverspreiding
+##### Artikel 15. Verplichtingen betreffende voortgangsrapportages en kennisverspreiding
 
 1. Op verzoek van de minister verleent de subsidieontvanger medewerking aan het verspreiden van de resultaten van de op grond van deze regeling gesubsidieerde activiteiten.
 
@@ -378,7 +404,7 @@ artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening.
 
 - b. op aanvraag van de subsidieontvanger ontheffing verlenen van de verplichtingen, bedoeld in het tweede of derde lid.
 
-#### Artikel 16. Administratieve verplichtingen
+##### Artikel 16. Administratieve verplichtingen
 
 1. Het onderzoeksinstituut voert een zodanige administratie dat daaruit te allen tijde op eenvoudige en duidelijke wijze is af te leiden
 
@@ -406,7 +432,7 @@ artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening.
 
 6. De subsidieontvanger verleent de auditautoriteit, de Europese Commissie of de Europese Rekenkamer alle medewerking die deze redelijkerwijs kunnen vorderen bij de uitoefening van hun taken.
 
-#### Artikel 17. Bevoorschotting
+##### Artikel 17. Bevoorschotting
 
 1. De minister verstrekt het eerste voorschot ambtshalve uiterlijk binnen twee weken na subsidieverlening en de daarop volgende voorschotten gedurende de looptijd van het onderzoeksprogramma binnen twee weken na 1 januari, 1 april, 1 juli en 1 oktober voor de in het desbetreffende kwartaal te maken kosten.
 
@@ -416,7 +442,7 @@ artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening.
 
 - b. **berekend door de hoogte van het maximaal voor subsidie in aanmerking komende bedrag door de in de periode tussen twee mijlpalen te maken subsidiabele kosten te vermenigvuldigen met 90 procent en te delen door het aantal voorschotmomenten in deze periode, indien de verstrekte liquiditeitsbegroting, bedoeld in artikel 10, vierde lid, onderdeel b, mijlpalen bevat.**
 
-#### Artikel 18. Indiening aanvraag tot subsidievaststelling
+##### Artikel 18. Indiening aanvraag tot subsidievaststelling
 
 1. De aanvraag tot subsidievaststelling wordt ingediend met gebruikmaking van een middel dat door de minister beschikbaar wordt gesteld.
 
@@ -454,17 +480,17 @@ artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening.
 
 5. De minister kan ten behoeve van de vaststelling van de subsidie bij de subsidieontvanger aanvullende informatie of bewijsstukken opvragen die nodig zijn om te beoordelen of voldaan is aan de in deze regeling gestelde eisen.
 
-#### Artikel 19. Beschikking tot subsidievaststelling
+##### Artikel 19. Beschikking tot subsidievaststelling
 
 1. De minister geeft een beschikking op een aanvraag tot subsidievaststelling binnen dertien weken na ontvangst van de aanvraag daartoe dan wel nadat de voor het indienen ervan geldende termijn, bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=18&z=2025-07-18&g=2025-07-18), is verstreken.
 
 2. Indien een beschikking tot subsidievaststelling niet binnen de in het eerste lid genoemde termijn kan worden gegeven, kan deze termijn eenmaal met dertien weken worden verlengd.
 
-#### Artikel 20. Evaluatie
+##### Artikel 20. Evaluatie
 
 De subsidieontvanger verleent gedurende vijf jaar na de datum van de beschikking tot subsidievaststelling medewerking aan een evaluatie van de doeltreffendheid en de effecten van de aan hem verleende subsidie, voor zover medewerking redelijkerwijs van hem kan worden verlangd.
 
-#### Artikel 21. Staatssteun
+##### Artikel 21. Staatssteun
 
 1. De subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=2&z=2025-07-18&g=2025-07-18), bevat, met uitzondering van de subsidie voor het verrichten van niet-economische activiteiten, bedoeld in artikel 2, tweede lid, aanhef en onderdeel a, staatssteun en wordt gerechtvaardigd door:
 
@@ -476,19 +502,19 @@ De subsidieontvanger verleent gedurende vijf jaar na de datum van de beschikking
 
 3. De gegevens, bedoeld in het tweede lid, blijven voor ten minste tien jaar openbaar beschikbaar.
 
-#### Artikel 22. Overgangsrecht
+##### Artikel 22. Overgangsrecht
 
 Op aanvragen om subsidieverlening die zijn ingediend voor het tijdstip van inwerkingtreding van een wijziging van deze regeling, op subsidies die voor dat tijdstip zijn verleend en op subsidies die voor dat tijdstip zijn vastgesteld, blijft deze regeling van toepassing zoals deze luidde voor dat tijdstip tenzij de wijziging met terugwerkende kracht in werking treedt.
 
-#### Artikel 23. Vervaldatum
+##### Artikel 23. Vervaldatum
 
 Deze regeling vervalt met ingang van 3 november 2027, met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn verleend.
 
-#### Artikel 24. Inwerkingtreding
+##### Artikel 24. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 3 november 2022.
 
-#### Artikel 25. Citeertitel
+##### Artikel 25. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling strategisch belangrijke onderzoeksprogramma’s (SBO).
 

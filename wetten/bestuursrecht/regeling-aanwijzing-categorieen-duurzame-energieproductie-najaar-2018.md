@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanwijzing categorieën duurzame energieproductie najaar 2018"
+title: "Regeling van de Minister van Economische Zaken en Klimaat van 14 september 2018, nr. WJZ/18200470, houdende aanwijzing van categorieën van productie-installaties voor de stimulering van duurzame energieproductie in het najaar van 2018 (Regeling aanwijzing categorieën duurzame energieproductie najaar 2018)"
 identifier: "BWBR0041355"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-10-01
-laatste_update: 2018-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041355"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-10-01"
+last_updated: "2018-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041355"
+soort: "ministeriele-regeling"
+stam_id: "14801353"
+version_id: "25307452"
+internal_id: "C36146121"
+label_id: "14754114"
+dtd_version: "2.0"
+original_entry_into_force: "2018-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041355/2018-10-01/0"
+intitule_bron: "Stcrt.2018-53031"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-09-14"
+intitule_published: "2018-09-18"
+intitule_in_force: "2018-09-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-53031"
+original_signed_date: "2018-09-14"
+original_published_date: "2018-09-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-53031"
+entry_into_force_date: "2018-10-01"
+jci_1_3: "jci1.3:c:BWBR0041355&z=2018-10-01&g=2018-10-01"
+jci_1_0: "1.0:c:BWBR0041355&g=2018-10-01"
+citeertitel_status: "officieel"
+short_title: "Regeling aanwijzing categorieën duurzame energieproductie najaar 2018"
+signed_date: "2018-09-14"
+entry_into_force: "2018-10-01"
 ---
-
 # Regeling van de Minister van Economische Zaken en Klimaat van 14 september 2018, nr. WJZ/18200470, houdende aanwijzing van categorieën van productie-installaties voor de stimulering van duurzame energieproductie in het najaar van 2018 (Regeling aanwijzing categorieën duurzame energieproductie najaar 2018)
 
 Gelet op [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=1), [2, tweede, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=2), [3, eerste lid, onderdelen a en c, tweede lid, onderdeel b, derde lid, onderdeel c, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=3), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=8), [10, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=10), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=11), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=12), [14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), [15, derde, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=15), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=25), [27, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=27), [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=28), [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=29), [31, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31), [32, derde, vierde, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=32), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=42), [43a, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=43a), [44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=44), [45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=45), [47, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=47), [48, derde, vierde, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=48), [56, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=56), [59, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=59), [61, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=61), en [62, vierde lid, van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=62);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -72,7 +98,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Algemene bepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het subsidieplafond voor het verlenen van subsidie voor de productie van hernieuwbare elektriciteit, hernieuwbaar gas en hernieuwbare warmte op grond van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.1&artikel=4&z=2018-10-01&g=2018-10-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.2&artikel=6&z=2018-10-01&g=2018-10-01), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.3&artikel=8&z=2018-10-01&g=2018-10-01), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.4&artikel=10&z=2018-10-01&g=2018-10-01), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.5&artikel=12&z=2018-10-01&g=2018-10-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.6&artikel=14&z=2018-10-01&g=2018-10-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.1&artikel=16&z=2018-10-01&g=2018-10-01), [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.2&artikel=18&z=2018-10-01&g=2018-10-01), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.3&artikel=20&z=2018-10-01&g=2018-10-01), [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.1&artikel=22&z=2018-10-01&g=2018-10-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.2&artikel=24&z=2018-10-01&g=2018-10-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.3&artikel=26&z=2018-10-01&g=2018-10-01), [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.4&artikel=28&z=2018-10-01&g=2018-10-01), [30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.5&artikel=30&z=2018-10-01&g=2018-10-01), [32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.6&artikel=32&z=2018-10-01&g=2018-10-01), [34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.7&artikel=34&z=2018-10-01&g=2018-10-01), [36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.8&artikel=36&z=2018-10-01&g=2018-10-01), en [38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.9&artikel=38&z=2018-10-01&g=2018-10-01), die wordt aangevraagd in de periode van 2 oktober 2018, 09:00 uur, tot 8 november 2018, 17:00 uur, bedraagt € 6.000.000.000.
 
@@ -88,7 +114,7 @@ In deze regeling wordt verstaan onder:
 
 7. Indien voor dezelfde periode, of gedeeltelijk voor dezelfde periode, meer beschikkingen zijn afgegeven voor dezelfde productie-installatie en dezelfde soort hernieuwbare energie, worden voor de toepassing van het vijfde lid de subsidies die de subsidieontvanger ontvangt, bedoeld in [artikel 48 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=48), van de beschikkingen waarvan de periode waarover subsidie wordt verstrekt nog niet zijn aangevangen bij elkaar opgeteld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Productie-installaties als bedoeld in [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.1&artikel=4&z=2018-10-01&g=2018-10-01), worden aangewezen als productie-installaties als bedoeld in [artikel 3, eerste lid, onderdeel c, en derde lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=3).
 
@@ -120,7 +146,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 3.1.1. Waterkracht
 
-#### Artikel 4
+##### Artikel 4
 
 De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit geproduceerd door een productie-installatie waarmee door middel van hydro-mechanisch-elektrische omzetting hernieuwbare elektriciteit wordt geproduceerd uit potentiële dan wel kinetische energie van stromend water dat niet specifiek ten behoeve van de elektriciteitsproductie omhoog is gepompt:
 
@@ -130,7 +156,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare el
 
 - c. in installaties met een valhoogte gelijk aan of groter dan 50 centimeter, die ingrijpend zijn gerenoveerd en waarbij ten minste de turbines nieuw zijn.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Subsidie als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.1&artikel=4&z=2018-10-01&g=2018-10-01) wordt voor een periode van 15 jaar verstrekt.
 
@@ -138,11 +164,11 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare el
 
 #### § 3.1.2. Osmose
 
-#### Artikel 6
+##### Artikel 6
 
 De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit geproduceerd door een productie-installatie waarmee hernieuwbare elektriciteit wordt gegenereerd door middel van het verschil in zoutconcentratie tussen twee watermassa’s.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Subsidie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.2&artikel=6&z=2018-10-01&g=2018-10-01) wordt voor een periode van 15 jaar verstrekt.
 
@@ -150,7 +176,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare el
 
 #### § 3.1.3. Wind op land
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie, niet zijnde een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.4&artikel=10&z=2018-10-01&g=2018-10-01) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.5&artikel=12&z=2018-10-01&g=2018-10-01), die wordt gerealiseerd op een locatie die overeenkomstig de lijst van gemeenten volgens de gemeentelijke indeling op 31 december 2017, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&bijlage=2&z=2018-10-01&g=2018-10-01), een windsnelheid heeft van:
 
@@ -170,7 +196,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare el
 
 - b. de te vervangen windturbine op het moment van vervanging 15 jaar op de desbetreffende locatie in gebruik is geweest en op het moment van aanvragen ten minste 13 jaar voordien in gebruik is genomen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Subsidie als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.3&artikel=8&z=2018-10-01&g=2018-10-01), wordt voor een periode van 15 jaar verstrekt.
 
@@ -178,7 +204,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare el
 
 #### § 3.1.4. Wind op primaire waterkering
 
-#### Artikel 10
+##### Artikel 10
 
 1. De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie die is opgericht binnen het waterstaatswerk of een beschermingszone van een voorliggende waterkering, dan wel binnen het waterstaatswerk of de zeewaartsgerichte beschermingszone van een primaire waterkering grenzend aan de Noordzee, de Westerschelde, de Oosterschelde, de Waddenzee, de Dollard of de Eems, en die wordt gerealiseerd op een locatie die overeenkomstig de lijst van gemeenten volgens de gemeentelijke indeling op 31 december 2017, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&bijlage=2&z=2018-10-01&g=2018-10-01), een windsnelheid heeft van:
 
@@ -196,7 +222,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare el
 
 - b. de te vervangen windturbine op het moment van vervanging 15 jaar op de desbetreffende locatie in gebruik is geweest en op het moment van aanvragen ten minste 13 jaar voordien in gebruik is genomen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Subsidie als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.4&artikel=10&z=2018-10-01&g=2018-10-01), wordt voor een periode van 15 jaar verstrekt.
 
@@ -204,7 +230,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare el
 
 #### § 3.1.5. Wind in meer
 
-#### Artikel 12
+##### Artikel 12
 
 1. De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie, en waarvan de fundering volledig in het water van een meer van minimaal één vierkante kilometer staat, waarbij het hart van de fundering op een afstand van ten minste 25 meter van de waterkant staat.
 
@@ -214,7 +240,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare el
 
 - b. de te vervangen windturbine op het moment van vervanging 15 jaar op de desbetreffende locatie in gebruik is geweest en op het moment van aanvragen ten minste 13 jaar voordien in gebruik is genomen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Subsidie als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.5&artikel=12&z=2018-10-01&g=2018-10-01), wordt voor een periode van 15 jaar verstrekt.
 
@@ -222,7 +248,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare el
 
 #### § 3.1.6. Fotovoltaïsche zonnepanelen
 
-#### Artikel 14
+##### Artikel 14
 
 De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit uit zonlicht uitsluitend door middel van fotovoltaïsche zonnepanelen, die is aangesloten op een elektriciteitsnet via een aansluiting met een totale maximale doorlaatwaarde van meer dan 3*80 A:
 
@@ -230,7 +256,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare el
 
 - b. met een totaal nominaal vermogen groter dan of gelijk aan 1 MWp.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Subsidie als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.1&sub-paragraaf=3.1.6&artikel=14&z=2018-10-01&g=2018-10-01) wordt voor een periode van 15 jaar verstrekt.
 
@@ -244,7 +270,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare el
 
 #### § 3.2.1. Biomassavergisting
 
-#### Artikel 16
+##### Artikel 16
 
 De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbaar gas geproduceerd door:
 
@@ -254,7 +280,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbaar ga
 
 - c. een productie-installatie waarmee hernieuwbaar gas wordt geproduceerd door middel van vergisting van uitsluitend dierlijke mest, met een vermogen kleiner dan of gelijk aan 400 kW, waarbij ten minste de vergister nieuw is.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Subsidie als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.1&artikel=16&z=2018-10-01&g=2018-10-01) wordt voor een periode van 12 jaar verstrekt.
 
@@ -262,7 +288,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbaar ga
 
 #### § 3.2.2. Verbeterde slibgisting bij rioolwaterzuiveringsinstallaties
 
-#### Artikel 18
+##### Artikel 18
 
 1. De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbaar gas geproduceerd door een productie-installatie voor de productie van hernieuwbaar gas uit biogas dat vrijkomt ten gevolge van een biologische afbraakreactie van gisting van zuiveringsslib waarbij er verbeteringen zijn uitgevoerd in het productieproces waarna er per ton slib sprake is van ten minste 25% meer biogasproductie ten opzichte van voor de verbetering en waarbij ten minste de installatiedelen die verantwoordelijk zijn voor de meerproductie van biogas nieuw zijn.
 
@@ -270,7 +296,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbaar ga
 
 3. De subsidieaanvrager maakt aannemelijk dat de voorgestelde aanpassingen een verbetering van 25% inhouden ten opzichte van de gemiddelde productie van het jaar voorafgaande aan de aanvraag, of, wanneer de producent minder dan een jaar produceert, ten opzichte van de totale gemiddelde productie tot het moment van de aanvraag.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Subsidie als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.2&artikel=18&z=2018-10-01&g=2018-10-01), wordt voor een periode van 12 jaar verstrekt.
 
@@ -278,13 +304,13 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbaar ga
 
 #### § 3.2.3. Biomassavergassing
 
-#### Artikel 20
+##### Artikel 20
 
 1. De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbaar gas, niet zijnde biosyngas, geproduceerd door een productie-installatie voor de productie van hernieuwbaar gas uit biomassa als bedoeld in de NTA 8003: 2008, door middel van vergassing.
 
 2. Een producent aan wie subsidie is verstrekt op grond van het eerste lid draagt er zorg voor dat ten minste 95% van de energetische waarde van de jaarlijks in de productie-installatie gebruikte brandstof biogeen is.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Subsidie als bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.2&sub-paragraaf=3.2.3&artikel=20&z=2018-10-01&g=2018-10-01), wordt voor een periode van 12 jaar verstrekt.
 
@@ -294,7 +320,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbaar ga
 
 #### § 3.3.1. Zonthermie voor warmte
 
-#### Artikel 22
+##### Artikel 22
 
 1. De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare warmte geproduceerd door een productie-installatie voor de productie van hernieuwbare warmte uit zonne-energie, waarbij uitsluitend gebruik wordt gemaakt van afgedekte collectoren waarbij de transparante isolerende laag, niet zijnde beglazing van kassen, een geïntegreerd geheel vormt met de collector, met een totaal thermisch vermogen:
 
@@ -306,7 +332,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbaar ga
 
 3. Subsidie als bedoeld in het eerste lid wordt niet verstrekt indien reeds op basis van [artikel 4.5.2. van de Regeling nationale EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.5.2) subsidie is verstrekt.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Subsidie als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.1&artikel=22&z=2018-10-01&g=2018-10-01), wordt voor een periode van 15 jaar verstrekt.
 
@@ -314,7 +340,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbaar ga
 
 #### § 3.3.2. Geothermie voor warmte
 
-#### Artikel 24
+##### Artikel 24
 
 De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare warmte geproduceerd door:
 
@@ -326,7 +352,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare wa
 
 - d. een productie-installatie, bestaande uit één of meer doubletten, waarmee hernieuwbare warmte wordt geproduceerd uitsluitend door middel van één of meer geothermische bronnen met een diepte van ten minste 3.500 meter.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Subsidie als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.2&artikel=24&z=2018-10-01&g=2018-10-01) wordt voor een periode van 15 jaar verstrekt.
 
@@ -334,7 +360,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare wa
 
 #### § 3.3.3. Biomassavergisting voor warmte en gecombineerde opwekking
 
-#### Artikel 26
+##### Artikel 26
 
 De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare warmte, hernieuwbare elektriciteit of hernieuwbare elektriciteit en hernieuwbare warmte geproduceerd door:
 
@@ -350,7 +376,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare wa
 
 - f. een productie-installatie met een vermogen kleiner dan of gelijk aan 400 kW waarmee hernieuwbare warmte wordt geproduceerd door middel van vergisting van uitsluitend dierlijke mest, waarbij ten minste de vergister nieuw is.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Subsidie als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.3&artikel=26&z=2018-10-01&g=2018-10-01) wordt voor een periode van 12 jaar verstrekt.
 
@@ -358,7 +384,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare wa
 
 #### § 3.3.4. Verbeterde slibgisting bij rioolwaterzuiveringsinstallaties voor warmte en gecombineerde opwekking
 
-#### Artikel 28
+##### Artikel 28
 
 1. De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare warmte of hernieuwbare elektriciteit en hernieuwbare warmte geproduceerd door een productie-installatie voor de productie van hernieuwbare warmte of hernieuwbare elektriciteit en hernieuwbare warmte uit biogas dat vrijkomt ten gevolge van een biologische afbraakreactie van gisting van zuiveringsslib waarbij er verbeteringen zijn uitgevoerd in het productieproces waarna er per ton slib sprake is van ten minste 25% meer biogasproductie ten opzichte van voor de verbetering:
 
@@ -370,7 +396,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare wa
 
 3. De subsidieaanvrager maakt aannemelijk dat de voorgestelde aanpassingen een verbetering van 25% inhouden ten opzichte van de gemiddelde productie van het jaar voorafgaande aan de aanvraag, of, wanneer de producent minder dan een jaar produceert, ten opzichte van de totale gemiddelde productie tot het moment van de aanvraag.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Subsidie als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.4&artikel=28&z=2018-10-01&g=2018-10-01), wordt voor een periode van 12 jaar verstrekt.
 
@@ -378,13 +404,13 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare wa
 
 #### § 3.3.5. Ketel vloeibare biomassa voor warmte en gecombineerde opwekking
 
-#### Artikel 30
+##### Artikel 30
 
 1. De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare warmte of hernieuwbare elektriciteit en hernieuwbare warmte geproduceerd door een productie-installatie voor de productie van hernieuwbare warmte of hernieuwbare elektriciteit en hernieuwbare warmte met een nominaal thermisch vermogen groter dan of gelijk aan 0,5 MW en een nominaal elektrisch vermogen kleiner dan of gelijk aan 100 MW voor de productie van warmte door middel van verbranding van vloeibare biomassa als bedoeld in de nummers 500, 550 tot en met 573, 587, 592, 594, 596 en 802 van de NTA 8003: 2008 in een ketel.
 
 2. Een producent aan wie subsidie is verstrekt op grond van het eerste lid draagt er zorg voor dat wordt aangetoond dat de gebruikte vloeibare biomassa voldoet aan de duurzaamheidscriteria, bedoeld in artikel 17, eerste lid, van de richtlijn hernieuwbare energie.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Subsidie als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.5&artikel=30&z=2018-10-01&g=2018-10-01), wordt voor een periode van 12 jaar verstrekt.
 
@@ -392,7 +418,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare wa
 
 #### § 3.3.6. Kleine ketel vaste of vloeibare biomassa voor warmte en gecombineerde opwekking
 
-#### Artikel 32
+##### Artikel 32
 
 1. De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare warmte of hernieuwbare elektriciteit en hernieuwbare warmte geproduceerd door een productie-installatie voor de productie van warmte of hernieuwbare elektriciteit en hernieuwbare warmte door middel van verbranding van vaste of vloeibare biomassa als bedoeld in de NTA 8003: 2008, met uitzondering van biomassa als bedoeld in de nummers 100, 150, 170 tot en met 179 van de NTA 8003: 2008 in een ketel met een nominaal thermisch vermogen groter dan of gelijk aan 0,5 MW en kleiner dan 5 MW waarbij ten minste de ketel nieuw is.
 
@@ -400,7 +426,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare wa
 
 3. Een producent aan wie subsidie is verstrekt op grond van het eerste lid draagt er zorg voor dat wordt aangetoond dat de gebruikte vloeibare biomassa voldoet aan de duurzaamheidscriteria, bedoeld in artikel 17, eerste lid, van de richtlijn hernieuwbare energie.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Subsidie als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.6&artikel=32&z=2018-10-01&g=2018-10-01), wordt voor een periode van 12 jaar verstrekt.
 
@@ -408,7 +434,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare wa
 
 #### § 3.3.7. Grote ketel vaste of vloeibare biomassa voor warmte en gecombineerde opwekking
 
-#### Artikel 34
+##### Artikel 34
 
 1. De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare warmte, of hernieuwbare elektriciteit en hernieuwbare warmte geproduceerd door een productie-installatie voor de productie van hernieuwbare warmte, of hernieuwbare elektriciteit en hernieuwbare warmte, uitsluitend door middel van thermische conversie van vaste of vloeibare biomassa als bedoeld in de NTA 8003: 2008, met uitzondering van biomassa als bedoeld in de nummers 100, 150, 170 tot en met 179 van de NTA 8003: 2008, met een nominaal thermisch vermogen groter dan of gelijk aan 5 MW, waarbij ten minste de ketel nieuw is en waarbij het aantal subsidiabele vollasturen:
 
@@ -432,7 +458,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare wa
 
 3. Een producent aan wie subsidie is verstrekt op grond van het eerste lid draagt er zorg voor dat wordt aangetoond dat de gebruikte vloeibare biomassa voldoet aan de duurzaamheidscriteria, bedoeld in artikel 17, eerste lid, van de richtlijn hernieuwbare energie.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Subsidie als bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.7&artikel=34&z=2018-10-01&g=2018-10-01), wordt voor een periode van 12 jaar verstrekt.
 
@@ -440,7 +466,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare wa
 
 #### § 3.3.8. Ketel industriële stoom uit houtpellets voor warmte en gecombineerde opwekking
 
-#### Artikel 36
+##### Artikel 36
 
 1. De Minister verstrekt op aanvraag subsidie aan een producent van industriële stoom of hernieuwbare elektriciteit en industriële stoom geproduceerd door een productie-installatie voor de productie van industriële stoom of hernieuwbare elektriciteit en industriële stoom door middel van verbranding van houtpellets, in een ketel met een nominaal thermisch vermogen groter dan of gelijk aan 5 MW waarbij ten minste de stoomketel nieuw is waarin:
 
@@ -452,7 +478,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare wa
 
 3. Een producent aan wie subsidie is verstrekt op grond van het eerste lid draagt er zorg voor dat in voldoende mate aannemelijk wordt gemaakt dat de gebruikte biomassa voldoet aan de duurzaamheidseisen voor vaste biomassa, bedoeld in [artikel 7 van de Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=7).
 
-#### Artikel 37
+##### Artikel 37
 
 1. Subsidie als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.8&artikel=36&z=2018-10-01&g=2018-10-01), wordt voor een periode van 8 jaar verstrekt.
 
@@ -460,7 +486,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare wa
 
 #### § 3.3.9. Brander op houtpellets voor warmte en gecombineerde opwekking
 
-#### Artikel 38
+##### Artikel 38
 
 1. De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare warmte, of hernieuwbare elektriciteit en hernieuwbare warmte, door middel van verbranding van houtpellets, met een brander in een ketel, een oven of een fornuis met een nominaal thermisch vermogen groter dan of gelijk aan 5 MW en een nominaal elektrisch vermogen kleiner dan of gelijk aan 100 MW waarin:
 
@@ -470,7 +496,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare wa
 
 2. Een producent aan wie subsidie is verstrekt op grond van het eerste lid draagt er zorg voor dat in voldoende aannemelijk wordt gemaakt dat de gebruikte biomassa voldoet aan de duurzaamheidseisen voor vaste biomassa, bedoeld in [artikel 7 van de Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=7).
 
-#### Artikel 39
+##### Artikel 39
 
 1. Subsidie als bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041355&paragraaf=3&sub-paragraaf=3.3&sub-paragraaf=3.3.9&artikel=38&z=2018-10-01&g=2018-10-01), wordt voor een periode van 12 jaar verstrekt.
 
@@ -478,7 +504,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare wa
 
 #### § 4. Fasebedragen
 
-#### Artikel 40
+##### Artikel 40
 
 1. Voor de fase genoemd in de eerste kolom van onderstaande tabel wordt:
 
@@ -505,7 +531,7 @@ De Minister verstrekt op aanvraag subsidie aan een producent van hernieuwbare wa
 
 #### § 5.1. Hernieuwbare elektriciteit
 
-#### Artikel 41
+##### Artikel 41
 
 Voor een productie-installatie als bedoeld in het in de eerste kolom van onderstaande tabel genoemde artikel wordt:
 
@@ -544,7 +570,7 @@ Voor een productie-installatie als bedoeld in het in de eerste kolom van onderst
 
 #### § 5.2. Hernieuwbaar gas
 
-#### Artikel 42
+##### Artikel 42
 
 1. Voor een productie-installatie als bedoeld in het in de eerste kolom van onderstaande tabel genoemde artikel wordt:
 
@@ -573,7 +599,7 @@ Voor een productie-installatie als bedoeld in het in de eerste kolom van onderst
 
 #### § 5.3. Hernieuwbare warmte en (gecombineerde) opwekking van hernieuwbare elektriciteit en hernieuwbare warmte
 
-#### Artikel 43
+##### Artikel 43
 
 Voor een productie-installatie als bedoeld in het in de eerste kolom van onderstaande tabel genoemde artikel wordt:
 
@@ -620,11 +646,11 @@ Voor een productie-installatie als bedoeld in het in de eerste kolom van onderst
 
 #### § 6. Slotbepalingen
 
-#### Artikel 44
+##### Artikel 44
 
 Deze regeling treedt in werking met ingang van 1 oktober 2018.
 
-#### Artikel 45
+##### Artikel 45
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing categorieën duurzame energieproductie najaar 2018.
 
@@ -638,21 +664,21 @@ overwegen:
 
 Partijen komen daartoe het volgende overeen:
 
-#### Artikel 1. Tijdige ingebruikname van de productie-installatie
+##### Artikel 1. Tijdige ingebruikname van de productie-installatie
 
 De Ondernemer verplicht zich jegens de Staat de productie-installatie tijdig in gebruik te nemen en wel binnen de in [artikel 61 van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=61) bedoelde periode of, indien op grond van [artikel 62, derde lid, van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=62) een ontheffing is verleend, binnen de in de ontheffing opgenomen periode.
 
-#### Artikel 2. Inhoud en omvang van de garantie
+##### Artikel 2. Inhoud en omvang van de garantie
 
 De Ondernemer verplicht zich om tot zekerheid voor de nakoming van de in artikel 1 bedoelde verplichting, alsmede de bij niet tijdige nakoming verschuldigde boetes, binnen vier weken nadat de Beschikking is afgegeven ten behoeve van de Staat financiële zekerheid te stellen en gesteld houden voor een bedrag groot 2% van de maximale hoogte van de subsidie, bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=16), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=33) en [49 van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=49), door middel van de afgifte aan de Staat van een door een binnen de Europese Unie gevestigde bank afgegeven bankgarantie welke is opgemaakt onder gebruikmaking van het model bankgarantie.
 
-#### Artikel 3. Vrijval van de garantie
+##### Artikel 3. Vrijval van de garantie
 
 1. De verplichting de in artikel 2 bedoelde bankgarantie te blijven stellen vervalt uitsluitend door het schriftelijk bericht van de Staat aan de Bank dat de verplichting geheel of gedeeltelijk is vervallen. De Ondernemer ontvangt een kopie van het bericht van verval.
 
 2. Zodra de verplichting geheel is vervallen zal de Staat de bankgarantie retourneren aan de Ondernemer.
 
-#### Artikel 4. Boetes
+##### Artikel 4. Boetes
 
 1. Indien de Ondernemer de productie-installatie niet binnen de in artikel 1 bedoelde periode in gebruik heeft genomen, is de Ondernemer aan de Staat bij wijze van boete een bedrag verschuldigd groot 0,2% van het beschikte bedrag enkel door het verloop van die termijn en zonder dat enige ingebrekestelling nodig is.
 
@@ -662,13 +688,13 @@ De Ondernemer verplicht zich om tot zekerheid voor de nakoming van de in artikel
 
 4. De Ondernemer machtigt bij deze de Staat onherroepelijk tot het innen van de boetes door het inroepen van de bankgarantie voor het bedrag van de boete, telkens wanneer er een boete verschuldigd is geworden.
 
-#### Artikel 5. Aanvang en einde Uitvoeringsovereenkomst
+##### Artikel 5. Aanvang en einde Uitvoeringsovereenkomst
 
 1. Deze Uitvoeringsovereenkomst treedt in werking door de ondertekening daarvan door de Partijen met dien verstande dat de inwerkingtreding wordt opgeschort totdat de Beschikking in werking is getreden en de Staat de Ondernemer daarvan schriftelijk bericht heeft gestuurd.
 
 2. Deze Uitvoeringsovereenkomst eindigt van rechtswege door de teruggave van de bankgarantie door de Staat aan de Ondernemer.
 
-#### Artikel 6. Domiciliekeuze en berichtgevingen
+##### Artikel 6. Domiciliekeuze en berichtgevingen
 
 1. De Staat kiest voor uitvoering van deze Uitvoeringsovereenkomst domicilie ten kantore van Rijksdienst voor Ondernemend Nederland, onderdeel van het Ministerie van Economische Zaken en Klimaat, Hanzelaan 310, 8017 JK Zwolle.
 
@@ -678,13 +704,13 @@ De Ondernemer verplicht zich om tot zekerheid voor de nakoming van de in artikel
 
 4. De Staat is bevoegd eenzijdig van het bepaalde in het eerste lid af te wijken.
 
-#### Artikel 7. Rechtskeuze
+##### Artikel 7. Rechtskeuze
 
 1. Op deze Uitvoeringsovereenkomst is uitsluitend Nederlands recht van toepassing.
 
 2. Alle geschillen in verband met deze uitvoeringsovereenkomst of met afspraken die daarmee samenhangen zullen worden beslecht door de bevoegde rechter te Den Haag.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze Uitvoeringsovereenkomst wordt tussen partijen aangeduid als ‘Uitvoeringsovereenkomst duurzame energieproductie Staat/.....’.
 

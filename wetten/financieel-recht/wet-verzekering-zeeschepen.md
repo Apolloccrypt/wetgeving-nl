@@ -1,14 +1,41 @@
 ---
-title: "Wet verzekering zeeschepen"
+title: "Wet van 27 oktober 2011 tot invoering van de verplichting voor scheepseigenaren om een verzekering te hebben voor het schip en hiervan een bewijs aan boord te hebben ter uitvoering van Richtlijn nr. 2009/20/EG van het Europees Parlement en de Raad van de Europese Unie van 23 april 2009 betreffende de verzekering van scheepseigenaren tegen maritieme vorderingen (PbEU L 131) (Wet verzekering zeeschepen)"
 identifier: "BWBR0030651"
-categorie: "Financieel recht"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030651"
+country: "nl"
+rank: "wet"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030651"
+soort: "wet"
+stam_id: "11500783"
+version_id: "18921072"
+internal_id: "C26407581"
+label_id: "11474124"
+dtd_version: "2.0"
+original_entry_into_force: "2012-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030651/2025-07-01/0"
+intitule_bron: "Stb.2011-533"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-10-27"
+intitule_published: "2011-11-18"
+intitule_in_force: "2011-11-18"
+intitule_status: "goed"
+original_publication: "Stb.2011-533"
+original_signed_date: "2011-10-27"
+original_published_date: "2011-11-18"
+original_effect: "nieuwe-regeling"
+original_dossier: "32835"
+original_url_id: "stb-2011-533"
+entry_into_force_date: "2012-01-01"
+jci_1_3: "jci1.3:c:BWBR0030651&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0030651&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet verzekering zeeschepen"
+signed_date: "2011-10-27"
+entry_into_force: "2012-01-01"
 ---
-
-# Wet verzekering zeeschepen
+# Wet van 27 oktober 2011 tot invoering van de verplichting voor scheepseigenaren om een verzekering te hebben voor het schip en hiervan een bewijs aan boord te hebben ter uitvoering van Richtlijn nr. 2009/20/EG van het Europees Parlement en de Raad van de Europese Unie van 23 april 2009 betreffende de verzekering van scheepseigenaren tegen maritieme vorderingen (PbEU L 131) (Wet verzekering zeeschepen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +43,7 @@ Alzo Wij in overweging genomen hebben, dat het gelet op [richtlijn 2009/20/EG](3
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -32,7 +59,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. **buitenlands zeeschip:** een zeeschip dat geen Nederlands zeeschip is.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze wet is niet van toepassing op:
 
@@ -40,7 +67,7 @@ Deze wet is niet van toepassing op:
 
 - b. oorlogsschepen, marinehulpschepen of andere zeeschepen die eigendom zijn of geëxploiteerd worden door een Staat en voor niet-commerciële overheidsdoeleinden worden gebruikt.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een scheepseigenaar van een Nederlands zeeschip heeft ten aanzien van dit zeeschip een verzekering als bedoeld in artikel 3, aanhef, onder b, van de richtlijn.
 
@@ -48,7 +75,7 @@ Deze wet is niet van toepassing op:
 
 3. De verzekering, bedoeld in het eerste en tweede lid, voldoet aan artikel 4, derde lid van de richtlijn.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een Nederlands zeeschip en een buitenlands zeeschip dat een Nederlandse haven aandoet tonen het bestaan van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030651&artikel=3&z=2025-07-01&g=2025-07-01) bedoelde verzekering aan met een of meer door de verzekeringverstrekker afgegeven bewijzen van de verzekering, als bedoeld in artikel 3, eerste lid, die aan boord worden meegevoerd.
 
@@ -56,23 +83,23 @@ Deze wet is niet van toepassing op:
 
 3. Indien het verzekeringsbewijs is opgesteld in een andere taal dan de Engelse, Franse of Spaanse taal, bevat het een vertaling in een van deze talen.
 
-#### Artikel 5
+##### Artikel 5
 
 Met het toezicht op de naleving van het bepaalde in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030651&artikel=3&z=2025-07-01&g=2025-07-01), zijn belast de door Onze Minister aangewezen ambtenaren.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt de Wet havenstaatcontrole.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze wet wordt aangehaald als: Wet verzekering zeeschepen.
 

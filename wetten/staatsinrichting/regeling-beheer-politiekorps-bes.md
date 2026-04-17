@@ -1,13 +1,39 @@
 ---
-title: "Regeling beheer politiekorps BES"
+title: "Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Justitie van 5 oktober 2010, nr. 2010-0000623057, houdende nadere regels met betrekking tot de ambtenaren criminele inlichtingen, de infiltratieambtenaren en de aanhoudings- en ondersteuningsambtenaren waarover het politiekorps van Bonaire, Sint Eustatius en Saba beschikt dan wel kan beschikken, alsmede de ambtenaren criminele inlichtingen van de Koninklijke marechaussee (Regeling beheer politiekorps BES)"
 identifier: "BWBR0028823"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2010-10-14
-laatste_update: 2010-10-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028823"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2010-10-14"
+last_updated: "2010-10-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028823"
+soort: "ministeriele-regeling-BES"
+stam_id: "11035463"
+version_id: "18029072"
+internal_id: "C25058641"
+label_id: "11010014"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028823/2010-10-14/0"
+intitule_bron: "Stcrt.2010-15876"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-10-05"
+intitule_published: "2010-10-12"
+intitule_in_force: "2010-10-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-15876"
+original_signed_date: "2010-10-05"
+original_published_date: "2010-10-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-15876"
+entry_into_force_date: "2010-10-14"
+jci_1_3: "jci1.3:c:BWBR0028823&z=2010-10-14&g=2010-10-14"
+jci_1_0: "1.0:c:BWBR0028823&g=2010-10-14"
+citeertitel_status: "officieel"
+short_title: "Regeling beheer politiekorps BES"
+signed_date: "2010-10-05"
+entry_into_force: "2010-10-14"
 ---
-
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Justitie van 5 oktober 2010, nr. 2010-0000623057, houdende nadere regels met betrekking tot de ambtenaren criminele inlichtingen, de infiltratieambtenaren en de aanhoudings- en ondersteuningsambtenaren waarover het politiekorps van Bonaire, Sint Eustatius en Saba beschikt dan wel kan beschikken, alsmede de ambtenaren criminele inlichtingen van de Koninklijke marechaussee (Regeling beheer politiekorps BES)
 
 Gelet op de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=14) en [68 van de Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=68) en de [artikelen 3, vierde en vijfdelid](https://wetten.overheid.nl/jci1.3:c:BWBR0028780&artikel=3), [4, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028780&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028780&artikel=5) en [6, tweede lid, van het Besluit beheer politiekorps BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028780&artikel=6);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. **Algemeen**
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -52,11 +78,11 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. **Criminele inlichtingen**
 
-#### Artikel 2
+##### Artikel 2
 
 Ambtenaren criminele inlichtingen zijn belast met de informatievoorziening in het kader van de uitvoering van de politietaak, voor zover het misdrijven betreft, die worden genoemd in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Ambtenaren criminele inlichtingen waarover het politiekorps beschikt dan wel kan beschikken en de ambtenaren criminele inlichtingen bij de Koninklijke marechaussee werken overeenkomstig deze regeling met elkaar samen.
 
@@ -66,7 +92,7 @@ Ambtenaren criminele inlichtingen zijn belast met de informatievoorziening in he
 
 - b. onderlinge gegevensuitwisseling als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028823&paragraaf=2&artikel=6&z=2010-10-14&g=2010-10-14).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Ambtenaren criminele inlichtingen verrichten in ieder geval de volgende werkzaamheden:
 
@@ -86,11 +112,11 @@ Ambtenaren criminele inlichtingen zijn belast met de informatievoorziening in he
 
 2. De uitvoering van de werkzaamheden, bedoeld in het eerste lid, onder c, met medewerking van personen als omschreven in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028823&paragraaf=1&artikel=1&z=2010-10-14&g=2010-10-14), wordt uitsluitend verricht door de ambtenaren criminele inlichtingen.
 
-#### Artikel 5
+##### Artikel 5
 
 Ambtenaren criminele inlichtingen verwerken informantgegevens overeenkomstig het bepaalde in [artikel 12 van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=12), onder gelijktijdige codetoekenning. Informantgegevens kunnen slechts worden verwerkt met het oog op de doeleinden, bedoeld in artikel 12, eerste lid, van de Wet politiegegevens.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Ambtenaren criminele inlichtingen werkzaam bij of ten behoeve van het politiekorps en de ambtenaren criminele inlichtingen bij de Koninklijke marechaussee wisselen onderling, gevraagd en ongevraagd, criminele inlichtingen uit indien dit van belang kan zijn voor de uitvoering van de politietaak. Daartoe wordt gebruikgemaakt van het door Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties, van Justitie en van Defensie, vastgesteld modelformulier.
 
@@ -98,7 +124,7 @@ Ambtenaren criminele inlichtingen verwerken informantgegevens overeenkomstig het
 
 3. De verantwoordelijke draagt ervoor zorg voor dat aan de ingevolge het tweede lid aangewezen en hem bekendgemaakte ambtenaren criminele inlichtingen autorisatie wordt verleend.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De verantwoordelijke bepaalt de termijn gedurende welke de ambtenaar die belast is met de werkzaamheden, bedoeld in [artikel 4, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028823&paragraaf=2&artikel=4&z=2010-10-14&g=2010-10-14), ononderbroken ambtenaar criminele inlichtingen is.
 
@@ -106,7 +132,7 @@ Ambtenaren criminele inlichtingen verwerken informantgegevens overeenkomstig het
 
 3. Voor de ambtenaar die voor de inwerkingtreding van deze regeling is aangesteld, gaat de termijn, bedoeld in het eerste lid, in op het tijdstip, bedoeld in het [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028823&paragraaf=5&artikel=13&z=2010-10-14&g=2010-10-14).
 
-#### Artikel 8
+##### Artikel 8
 
 1. De bij de ambtenaren criminele inlichtingen in gebruik zijnde vertrekken zijn afsluitbaar en beveiligd. Tot deze vertrekken hebben slechts toegang deze ambtenaren, personen die door deze ambtenaren worden begeleid en de CIE-officier van justitie.
 
@@ -114,7 +140,7 @@ Ambtenaren criminele inlichtingen verwerken informantgegevens overeenkomstig het
 
 3. Bij afwezigheid van ambtenaren criminele inlichtingen zijn de vertrekken deugdelijk afgesloten.
 
-#### Artikel 9
+##### Artikel 9
 
 De verantwoordelijke draagt ervoor zorg dat onbevoegde kennisneming van criminele inlichtingen en informantgegevens niet kan plaatsvinden. In dat kader ziet de verantwoordelijke erop toe dat:
 
@@ -132,7 +158,7 @@ De verantwoordelijke draagt ervoor zorg dat onbevoegde kennisneming van criminel
 
 #### § 3. **Infiltratie**
 
-#### Artikel 10
+##### Artikel 10
 
 De korpsbeheerder politie draagt er zorg voor dat zich onder de infiltratieambtenaren bevinden:
 
@@ -142,7 +168,7 @@ De korpsbeheerder politie draagt er zorg voor dat zich onder de infiltratieambte
 
 - c. ten minste twee begeleiders.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De leider van de infiltratieambtenaren draagt zorg voor het doen uitvoeren van de bevelen en geeft daartoe de nodige aanwijzingen aan de overige infiltratieambtenaren. Hij neemt daarbij het bevel en de door de officier van justitie bepaalde kaders in acht.
 
@@ -152,17 +178,17 @@ De korpsbeheerder politie draagt er zorg voor dat zich onder de infiltratieambte
 
 #### § 4. **Aanhouding en ondersteuning**
 
-#### Artikel 12
+##### Artikel 12
 
 De korpsbeheerder politie draagt er zorg voor dat de aanhoudings- en ondersteuningsambtenaren kunnen worden onverdeeld in twee secties, een leidinggevende en een ondersteunend medewerker.
 
 #### § 5. **Slotbepalingen**
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling treedt in werking met ingang van het tijdstip waarop de [Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586) in werking treedt. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgeven na dat tijdstip, treedt deze regeling in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot het in de eerste volzin bedoelde tijdstip.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling wordt aangehaald als: Regeling beheer politiekorps BES.
 

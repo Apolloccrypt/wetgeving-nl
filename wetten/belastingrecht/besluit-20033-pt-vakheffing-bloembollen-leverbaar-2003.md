@@ -1,13 +1,37 @@
 ---
-title: "Besluit 2003/3 PT vakheffing bloembollen leverbaar 2003"
+title: "Besluit van het Bestuur van het Productschap Tuinbouw, d.d. 6 mei 2003, houdende de vaststelling van de nadere omschrijving van diverse bepalingen uit de Verordening PT bloembollen leverbaar 2003 (Besluit 2003/3 PT vakheffing bloembollen leverbaar 2003)"
 identifier: "BWBR0015143"
-categorie: "Belastingrecht"
-publicatiedatum: 2003-06-01
-laatste_update: 2003-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015143"
+country: "nl"
+rank: "pbo"
+publication_date: "2003-06-01"
+last_updated: "2003-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015143"
+soort: "pbo"
+stam_id: "6091273"
+version_id: "10965162"
+internal_id: "C14860851"
+label_id: "6080464"
+original_entry_into_force: "2003-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015143/2003-06-01/0"
+intitule_bron: "Vbbo.2003-34"
+intitule_effect: "wijziging"
+intitule_signed: "2003-05-06"
+intitule_published: "2003-05-30"
+intitule_in_force: "2003-05-30"
+intitule_status: "goed"
+original_publication: "Vbbo.2003-33"
+original_signed_date: "2003-05-06"
+original_published_date: "2003-05-23"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-06-01"
+jci_1_3: "jci1.3:c:BWBR0015143&z=2003-06-01&g=2003-06-01"
+jci_1_0: "1.0:c:BWBR0015143&g=2003-06-01"
+citeertitel_status: "officieel"
+short_title: "Besluit 2003/3 PT vakheffing bloembollen leverbaar 2003"
+signed_date: "2003-05-06"
+entry_into_force: "2003-06-01"
 ---
-
 # Besluit van het Bestuur van het Productschap Tuinbouw, d.d. 6 mei 2003, houdende de vaststelling van de nadere omschrijving van diverse bepalingen uit de Verordening PT bloembollen leverbaar 2003 (Besluit 2003/3 PT vakheffing bloembollen leverbaar 2003)
 
 gelet op het bepaalde in de [Verordening PT vakheffing bloembollen leverbaar 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0013849);
@@ -16,11 +40,11 @@ gehoord de Sectorcommissie voor bollen knollen en wortelstokken van bloemgewasse
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit worden de begripsbepalingen van de [Verordening PT vakheffing bloembollen leverbaar 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0013849) overgenomen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De aangifte beplante oppervlakte, als bedoeld in [artikel 4, vijfde lid, van de Verordening PT vakheffing bloembollen leverbaar 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0013849&artikel=4), dient te geschieden op een vanwege het productschap te verstrekken formulier en uiterlijk op de in dit formulier vermelde datum.
 
@@ -32,15 +56,15 @@ In dit besluit worden de begripsbepalingen van de [Verordening PT vakheffing blo
 
 5. Bij kasteelt wordt als de beplante oppervlakte aangemerkt de gehele kasoppervlakte, inwendig gemeten.
 
-#### Artikel 3
+##### Artikel 3
 
 Eenieder die bloembollen-leverbaar, afkomstig uit eigen kraam, aanwendt ten behoeve van de teelt van hyacinten, lelies, narcissen en/of tulpen, is verplicht aangifte te doen van het aantal gebruikte bloembollen-leverbaar op een vanwege het productschap te verstrekken aangifteformulier, met inachtneming van de daarop gestelde vragen en gegeven aanwijzingen.
 
-#### Artikel 4
+##### Artikel 4
 
 Wanneer door een handelskaarthouder wordt aangetoond dat de geldelijke opbrengst van de leverbare raap van zijn gehele kraam lager is dan de waardering door het productschap, welke is verricht volgens [artikel 8, van de Verordening PT vakheffing bloembollen leverbaar 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0013849&artikel=8), wordt de waardering herzien, indien de afwijking 10% of meer bedraagt.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor eenieder, niet-handelskaarthouder zijnde, die bloembollen-leverbaar verkoopt uit eigen teelt afkomstig, wordt in gevallen waarin de verkoopwaarde van ingekochte bloembollen-leverbaar niet aan de hand van administratieve gegevens kan worden vastgesteld, voor de berekening van de door hem verschuldigde heffing c.q. de restitutie, waarop hij recht heeft, de verkoopwaarde gelijkgesteld aan de inkoopwaarde.
 
@@ -54,7 +78,7 @@ Wanneer door een handelskaarthouder wordt aangetoond dat de geldelijke opbrengst
 
 - d. restitutie kan worden verleend over alle verkopen met korting.
 
-#### Artikel 6
+##### Artikel 6
 
 Indien op de factuur de behandelingskosten niet apart zijn vermeld, worden de volgende bedragen als zijnde behandelingskosten aangemerkt:
 
@@ -67,13 +91,13 @@ Indien op de factuur de behandelingskosten niet apart zijn vermeld, worden de vo
 | Narcis | Vanaf december | 0,15 kg | 0,15 kg |
 | lelie | April tot en met September | 1,42/100 stuks | 1,42/100 stuks |
 
-#### Artikel 7
+##### Artikel 7
 
 1. Dit besluit treedt in werking op 1 juni 2003.
 
 2. Indien het Verordeningenblad Bedrijfsorganisatie waarin dit besluit wordt geplaatst wordt uitgegeven na 1 juni 2003 treedt hij in werking met ingang van de datum van publicatie in het Verordeningenblad Bedrijfsorganisatie waarin hij wordt geplaatst en werkt hij terug tot en met 1 juni 2003.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit 2003/3 PT vakheffing bloembollen leverbaar 2003.
 

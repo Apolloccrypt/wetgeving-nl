@@ -1,20 +1,44 @@
 ---
 title: "Regeling maaltijdvergoeding bij overwerk politie"
 identifier: "BWBR0006853"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2025-05-13
-laatste_update: 2025-05-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006853"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-05-13"
+last_updated: "2025-05-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006853"
+soort: "ministeriele-regeling"
+stam_id: "3584323"
+version_id: "5367422"
+internal_id: "C5560511"
+label_id: "3564304"
+dtd_version: "2.0"
+original_entry_into_force: "1994-08-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006853/2025-05-13/0"
+intitule_bron: "Stcrt.1994-154"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-08-02"
+intitule_published: "1994-08-15"
+intitule_in_force: "1994-08-15"
+intitule_status: "goed"
+original_publication: "Stcrt.1994-154"
+original_signed_date: "1994-08-02"
+original_published_date: "1994-08-15"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1994-08-17"
+jci_1_3: "jci1.3:c:BWBR0006853&z=2025-05-13&g=2025-05-13"
+jci_1_0: "1.0:c:BWBR0006853&g=2025-05-13"
+citeertitel_status: "officieel"
+signed_date: "1994-08-02"
+entry_into_force: "1994-08-17"
 ---
-
 # Regeling maaltijdvergoeding bij overwerk politie
 
 Gelet op [artikel 28 van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=28);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze regeling wordt verstaan onder:
 
@@ -24,7 +48,7 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 - c. **overwerk:** hetgeen daaronder wordt verstaan in [artikel 27, derde lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=27).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Indien de dagelijkse diensttijd van de ambtenaar op de dag waarop overwerk wordt verricht met ten minste twee uren overwerk wordt verlengd, verstrekt het bevoegd gezag hem een lunch of diner met inachtneming van het tweede en derde lid.
 
@@ -36,15 +60,15 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 5. De tarieven genoemd in het vierde lid worden per 1 januari van elk kalenderjaar gewijzigd, overeenkomstig de geschoonde consumentenprijsindex voor restaurants en accommodaties, vastgesteld door het Centraal bureau voor statistiek.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 april 1994.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling maaltijdvergoeding bij overwerk politie.
 

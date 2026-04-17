@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzing bekostigingsexperiment aanvullende beroepen ggz/fz"
+title: "Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 8 november 2019, kenmerk 1608564-198346-PZo inzake bekostigingsexperiment aanvullende beroepen ggz/fz"
 identifier: "BWBR0042772"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042772"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042772"
+soort: "ministeriele-regeling"
+stam_id: "15228263"
+version_id: "26216292"
+internal_id: "C37279851"
+label_id: "15174634"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042772/2020-01-01/0"
+intitule_bron: "Stcrt.2019-62424"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-11-08"
+intitule_published: "2019-11-18"
+intitule_in_force: "2019-11-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-62424"
+original_signed_date: "2019-11-08"
+original_published_date: "2019-11-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-62424"
+entry_into_force_date: "2020-01-01"
+jci_1_3: "jci1.3:c:BWBR0042772&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0042772&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Aanwijzing bekostigingsexperiment aanvullende beroepen ggz/fz"
+signed_date: "2019-11-08"
+entry_into_force: "2020-01-01"
 ---
-
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 8 november 2019, kenmerk 1608564-198346-PZo inzake bekostigingsexperiment aanvullende beroepen ggz/fz
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -18,7 +44,7 @@ Na op 1 juli 2019 schriftelijk mededeling te hebben gedaan aan de Eerste en Twee
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In deze aanwijzing wordt verstaan onder:
 
 - g). **zorgautoriteit:** de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3).
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Deze aanwijzing is van toepassing op:
 
@@ -44,11 +70,11 @@ Deze aanwijzing is van toepassing op:
 
 - –. forensische zorg.
 
-#### Artikel 3. opdracht
+##### Artikel 3. opdracht
 
 De zorgautoriteit voorziet in 2019 in beleidsregels en regels ten behoeve van een bekostigingsexperiment aanvullende beroepen ggz/fz zoals bedoeld in [artikel 58 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=58).
 
-#### Artikel 4. Uitgangspunten experiment
+##### Artikel 4. Uitgangspunten experiment
 
 De zorgautoriteit neemt bij de vaststelling van de regelgeving voor het experiment als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042772&artikel=3&z=2020-01-01&g=2020-01-01) de volgende uitgangspunten in acht:
 
@@ -66,11 +92,11 @@ De zorgautoriteit neemt bij de vaststelling van de regelgeving voor het experime
 
 - g. De administratieve lasten die de implementatie en uitvoering van het experiment met zich brengen, blijven zo beperkt mogelijk.
 
-#### Artikel 5. MBI
+##### Artikel 5. MBI
 
 Het macrobudgettair kader voor de geneeskundige ggz als bedoeld in de [Aanwijzing inzake macrobeheersinstrument voor de geneeskundige geestelijke gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0034296) van 28 november 2013, Staatscourant. 2013, nr. 34324, is van toepassing voor zover het bekostigingsexperiment ziet op gespecialiseerde ggz.
 
-#### Artikel 6. Evaluatie experiment
+##### Artikel 6. Evaluatie experiment
 
 De zorgautoriteit evalueert het experiment.
 

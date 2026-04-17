@@ -1,28 +1,54 @@
 ---
-title: "Besluit vaststelling Algemene Rijksvoorwaarden voor verstrekken van opdrachten tot het uitvoeren van diensten 2025 (ARVODI-2025)"
+title: "Besluit van de Minister-President, Minister van Algemene Zaken van 17 maart 2025, nr. 4446866 houdende vaststelling van de Algemene Rijksvoorwaarden voor het verstrekken van opdrachten tot het uitvoeren van diensten 2025 (ARVODI-2025)"
 identifier: "BWBR0050901"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2025-03-29
-laatste_update: 2025-03-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050901"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-03-29"
+last_updated: "2025-03-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050901"
+soort: "ministeriele-regeling"
+stam_id: "17394993"
+version_id: "30667332"
+internal_id: "C43965501"
+label_id: "17298194"
+dtd_version: "2.0"
+original_entry_into_force: "2025-03-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050901/2025-03-29/0"
+intitule_bron: "Stcrt.2025-10990"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-03-17"
+intitule_published: "2025-03-28"
+intitule_in_force: "2025-03-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-10990"
+original_signed_date: "2025-03-17"
+original_published_date: "2025-03-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-10990"
+entry_into_force_date: "2025-03-29"
+jci_1_3: "jci1.3:c:BWBR0050901&z=2025-03-29&g=2025-03-29"
+jci_1_0: "1.0:c:BWBR0050901&g=2025-03-29"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling Algemene Rijksvoorwaarden voor verstrekken van opdrachten tot het uitvoeren van diensten 2025 (ARVODI-2025)"
+signed_date: "2025-03-17"
+entry_into_force: "2025-03-29"
 ---
-
 # Besluit van de Minister-President, Minister van Algemene Zaken van 17 maart 2025, nr. 4446866 houdende vaststelling van de Algemene Rijksvoorwaarden voor het verstrekken van opdrachten tot het uitvoeren van diensten 2025 (ARVODI-2025)
 
 Handelende in overeenstemming met het gevoelen van de Ministerraad;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Vastgesteld worden de bij dit besluit gevoegde Algemene Rijksvoorwaarden voor het verstrekken van opdrachten tot het uitvoeren van diensten 2025 (ARVODI-2025).
 
-#### Artikel 2
+##### Artikel 2
 
 Het [besluit van de Minister-President, Minister van Algemene Zaken, van 2 mei 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040889), nr. 3219106 (Stc. 2018, 26414), wordt alleen voor het deel dat betrekking heeft op de [Algemene Rijksvoorwaarden voor het verstrekken van opdrachten tot het verrichten van diensten 2018 (ARVODI-2018)](onbekend) ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het met de bijbehorende bijlage wordt geplaatst.
 

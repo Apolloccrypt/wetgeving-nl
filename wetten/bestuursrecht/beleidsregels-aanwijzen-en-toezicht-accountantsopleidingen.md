@@ -1,13 +1,35 @@
 ---
 title: "Beleidsregels aanwijzen en toezicht accountantsopleidingen"
 identifier: "BWBR0038952"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-12-31
-laatste_update: 2016-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038952"
+country: "nl"
+rank: "zbo"
+publication_date: "2016-12-31"
+last_updated: "2016-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038952"
+soort: "zbo"
+stam_id: "13840803"
+version_id: "23765912"
+internal_id: "C34198671"
+label_id: "13806254"
+dtd_version: "2.0"
+original_entry_into_force: "2016-12-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038952/2016-12-31/0"
+intitule_bron: "Stcrt.2016-70670"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2016-12-30"
+intitule_in_force: "2016-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-70670"
+original_published_date: "2016-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-70670"
+entry_into_force_date: "2016-12-31"
+jci_1_3: "jci1.3:c:BWBR0038952&z=2016-12-31&g=2016-12-31"
+jci_1_0: "1.0:c:BWBR0038952&g=2016-12-31"
+citeertitel_status: "officieel"
+entry_into_force: "2016-12-31"
 ---
-
 # Beleidsregels aanwijzen en toezicht accountantsopleidingen
 
 Voor inschrijving in het accountantsregister van de Nederlandse Beroepsorganisatie van Accountants (NBA) dienen kandidaten op grond van [artikel 38 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=38) (Wab) een opleiding gevolgd te hebben die voldoet aan de in [artikel 49 Wab, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49) bedoelde eindtermen.
@@ -28,7 +50,7 @@ Onderstaande beleidsregels bepalen hoe CEA invulling geeft aan de bevoegdheid om
 
 ### Hoofdstuk 1. – Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregels wordt verstaan onder:
 
@@ -74,7 +96,7 @@ In deze beleidsregels wordt verstaan onder:
 
 - p. **Wab:** [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573).
 
-#### Artikel 2. Beleidsregels en toezichtkader
+##### Artikel 2. Beleidsregels en toezichtkader
 
 1. CEA stelt een toezichtkader vast met daarin de criteria, de instrumenten en het proces die CEA hanteert bij de beoordeling van een aanvraag van een aanwijzing en het toezicht op de eindtermen van reeds aangewezen opleidingen.
 
@@ -84,11 +106,11 @@ In deze beleidsregels wordt verstaan onder:
 
 ### Hoofdstuk 2. – Bepalingen m.b.t. de aanwijzing van een theoretische opleiding
 
-#### Artikel 3. Informatievoorziening t.b.v. aanvraag voor een aanwijzing
+##### Artikel 3. Informatievoorziening t.b.v. aanvraag voor een aanwijzing
 
 1. CEA stelt via haar website informatie beschikbaar over het aanwijzen van opleidingen. Op de website wordt tenminste informatie gegeven over CEA, over de relevante wettelijke bepalingen, over het verstrekken, wijzigen of intrekken van een aanwijzing en over de daarbij gehanteerde procedure, criteria en rechtsmiddelen.
 
-#### Artikel 4. Aanvraagprocedure
+##### Artikel 4. Aanvraagprocedure
 
 1. CEA neemt een aanvraag in behandeling indien en zodra die is ingediend door middel van het voorgeschreven formulier als bedoeld in lid 2.
 
@@ -122,13 +144,13 @@ In deze beleidsregels wordt verstaan onder:
 
 6. Na indiening van de aanvraag verstrekt CEA aan de aanvrager zo spoedig mogelijk een overzicht van de voor behandeling van deze specifieke aanvraag benodigde (aanvullende) informatie.
 
-#### Artikel 5. Behandeling aanvraag
+##### Artikel 5. Behandeling aanvraag
 
 1. CEA kan voor de beoordeling van de aanvraag een adviescommissie inschakelen.
 
 2. CEA en de door CEA ingestelde adviescommissie kunnen de aanvrager ook na de aanvankelijk verzochte informatie om aanvullende gegevens en bescheiden verzoeken indien dit voor de beoordeling van de aanvraag noodzakelijk is. CEA kan ten behoeve van de beoordeling van en het besluit over de aanvraag externe deskundigen inschakelen.
 
-#### Artikel 6. Criteria voor de beoordeling van een aanvraag
+##### Artikel 6. Criteria voor de beoordeling van een aanvraag
 
 1. CEA beoordeelt een aanvraag voor een aanwijzing aan de hand van de volgende criteria. De aanvrager:
 
@@ -176,7 +198,7 @@ In deze beleidsregels wordt verstaan onder:
 
 4. Het is in een specifieke situatie de combinatie van de verschillende aspecten zoals genoemd in lid 4 van dit artikel die bepaalt of er sprake is van een Nederlandse accountantsopleiding die in aanmerking kan komen voor een aanwijzing door CEA.
 
-#### Artikel 7. Besluitvorming over een aanvraag
+##### Artikel 7. Besluitvorming over een aanvraag
 
 1. Het aanwijzingsbesluit vermeldt de datum van inwerkingtreding van het besluit, de voorwaarden die van toepassing zijn op het aanwijzingsbesluit en een nauwkeurige beschrijving van de opleiding inclusief de opleidingsoriëntatie(s) in termen van vakgebieden en studielast, ter identificatie van de opleiding.
 
@@ -204,13 +226,13 @@ In deze beleidsregels wordt verstaan onder:
 
 6. Een aanwijzing is niet overdraagbaar.
 
-#### Artikel 8. Wijziging van een aanwijzing
+##### Artikel 8. Wijziging van een aanwijzing
 
 1. CEA kan, ambtshalve of op verzoek van de houder van een aanwijzing, de reikwijdte van een reeds verleende aanwijzing wijzigen.
 
 2. CEA kan bij een reeds verstrekte aanwijzing aanvullende algemene of opleidingspecifieke voorwaarden bepalen en reeds bestaande voorwaarden wijzigen.
 
-#### Artikel 9. Intrekken van een aanwijzing
+##### Artikel 9. Intrekken van een aanwijzing
 
 1. Een besluit tot aanwijzing van een opleiding kan door CEA geheel of gedeeltelijk worden ingetrokken, indien CEA van oordeel is dat de opleiding niet voldoet aan de eindtermen.
 
@@ -222,7 +244,7 @@ In deze beleidsregels wordt verstaan onder:
 
 5. Tegen een besluit tot intrekken van een aanwijzing kan overeenkomstig de bepalingen van de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6) en [7 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7) bezwaar worden gemaakt. Tegen een uitspraak op een bezwaarschrift kan overeenkomstig de bepalingen van de hoofdstukken 6 en [8 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8) beroep worden ingesteld.
 
-#### Artikel 10. Publiciteit over een aanwijzing
+##### Artikel 10. Publiciteit over een aanwijzing
 
 1. CEA maakt een besluit over de verlening of de intrekking van een aanwijzing openbaar.
 
@@ -242,7 +264,7 @@ In deze beleidsregels wordt verstaan onder:
 
 ### Hoofdstuk 3. – Bepalingen m.b.t. het toezicht op aangewezen theoretische opleidingen
 
-#### Artikel 11. Toezicht
+##### Artikel 11. Toezicht
 
 1. CEA combineert de verlening van een aanwijzing voor onbepaalde duur met de uitoefening van doorlopend toezicht. In het kader van het doorlopend toezicht beoordeelt zij of aangewezen opleidingen (nog steeds) voldoen aan de eindtermen en of de voorwaarden die aan een aanwijzing zijn verbonden (tijdig) zijn of worden vervuld.
 
@@ -250,7 +272,7 @@ In deze beleidsregels wordt verstaan onder:
 
 3. CEA kan bij het bepalen van aard, inhoud en intensiteit van haar toezicht de mate waarin zij kan vertrouwen op de maatregelen die de opleiding en/of de samenwerking van opleidingen zelf neemt betrekken.
 
-#### Artikel 12. Informatievoorziening t.b.v. toezicht
+##### Artikel 12. Informatievoorziening t.b.v. toezicht
 
 1. Ten behoeve van het toezicht van CEA zoals bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0038952&hoofdstuk=3&artikel=11&z=2016-12-31&g=2016-12-31), vraagt CEA periodiek en indien nodig gericht informatie op bij de aangewezen opleidingen. Voorts kan CEA de vertegenwoordigers van die opleidingen mondeling om inlichtingen of toelichtingen vragen.
 
@@ -262,7 +284,7 @@ In deze beleidsregels wordt verstaan onder:
 
 5. Een opleiding meldt alle incidenten en bijzondere gebeurtenissen na verlening van de aanwijzing die van wezenlijke invloed kunnen zijn op de kwaliteit en/of samenstelling van de opleiding terstond bij CEA. De melding omvat in ieder geval een aanduiding van het incident of de bijzondere gebeurtenis, de datum van het incident of de bijzondere gebeurtenis, de maatregel(en) die de opleiding heeft getroffen of zal gaan treffen, inclusief het tijdstip van de maatregel(en). Nadere informatie over het melden van incidenten en bijzondere gebeurtenissen is te vinden op de website van CEA www.ceaweb.nl.
 
-#### Artikel 13. Criteria voor toezicht
+##### Artikel 13. Criteria voor toezicht
 
 1. Om te toetsen of een opleiding voldoet aan de eindtermen hanteert CEA de volgende criteria:
 
@@ -290,7 +312,7 @@ In deze beleidsregels wordt verstaan onder:
 
 - l. de opleiding zegt toe haar medewerking te verlenen aan het doorlopende toezicht op de opleiding, waaronder periodieke toezichtactiviteiten door de CEA en periodieke gesprekken tussen de opleiding en CEA.
 
-#### Artikel 14. Wijziging van toezichtcategorie
+##### Artikel 14. Wijziging van toezichtcategorie
 
 1. CEA kan de toezichtcategorie van een opleiding wijzigen, indien CEA van oordeel is dat de opleiding op onderdelen niet of niet meer voldoet aan de eindtermen en/of de criteria zoals bepaald in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0038952&hoofdstuk=3&artikel=13&z=2016-12-31&g=2016-12-31) van deze beleidsregels;
 
@@ -310,19 +332,19 @@ In deze beleidsregels wordt verstaan onder:
 
 ### Slotbepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 De [Beleidsregels aanwijzen accountantsopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033299) zoals vastgesteld op 25 maart 2013 en gepubliceerd in de Staatscourant nr. 10074 op 17 april 2013 worden ingetrokken.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze beleidsregels zijn vastgesteld op 14 december 2016 en zijn van kracht met ingang van de dag na publicatie in de Staatscourant.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze beleidsregels liggen ter inzage bij het secretariaat van CEA en zijn beschikbaar via de website van de CEA: www.ceaweb.nl De beleidsregels zijn bekend gemaakt door publicatie in de Staatscourant.
 
-#### Artikel 18
+##### Artikel 18
 
 Deze beleidsregels kunnen worden aangehaald als Beleidsregels aanwijzen en toezicht accountantsopleidingen.
 

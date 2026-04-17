@@ -1,13 +1,38 @@
 ---
 title: "Besluit vaststelling subsidieplafonds en data subsidierondes Regeling Literatuur Caribe, Regeling Leesbevordering Nederlands Letterenfonds, Regeling projectsubsidies voor makers van boeken en Regeling literaire programma's"
 identifier: "BWBR0052271"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-02-06
-laatste_update: 2026-02-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052271"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-02-06"
+last_updated: "2026-02-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052271"
+soort: "zbo"
+stam_id: "17754613"
+version_id: "31370152"
+internal_id: "C44828141"
+label_id: "17652904"
+dtd_version: "2.0"
+original_entry_into_force: "2026-02-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052271/2026-02-06/0"
+intitule_bron: "Stcrt.2026-3240"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-01-29"
+intitule_published: "2026-02-05"
+intitule_in_force: "2026-02-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-3240"
+original_signed_date: "2026-01-29"
+original_published_date: "2026-02-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-3240"
+entry_into_force_date: "2026-02-06"
+jci_1_3: "jci1.3:c:BWBR0052271&z=2026-02-06&g=2026-02-06"
+jci_1_0: "1.0:c:BWBR0052271&g=2026-02-06"
+citeertitel_status: "redactioneel"
+signed_date: "2026-01-29"
+entry_into_force: "2026-02-06"
 ---
-
 # Besluit vaststelling subsidieplafonds en data subsidierondes Regeling Literatuur Caribe, Regeling Leesbevordering Nederlands Letterenfonds, Regeling projectsubsidies voor makers van boeken en Regeling literaire programma's
 
 gelet op de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
@@ -20,11 +45,11 @@ besluit de volgende inkomensgrens en subsidieplafonds vast te stellen
 
 #### § 1. [Regeling Literatuur Caribe](https://wetten.overheid.nl/jci1.3:c:BWBR0050194)
 
-#### Artikel 1
+##### Artikel 1
 
 Het subsidieplafond als bedoeld in [artikel 6, vierde lid, van Regeling Literatuur Caribe](https://wetten.overheid.nl/jci1.3:c:BWBR0050194&artikel=6) bedraagt € 700.000 voor het jaar 2026.
 
-#### Artikel 2
+##### Artikel 2
 
 De aanvraagrondes als bedoeld in [artikel 6, vijfde lid, van de Regeling Literatuur Caribe](https://wetten.overheid.nl/jci1.3:c:BWBR0050194&artikel=6) openen en sluiten op de volgende data:
 
@@ -34,11 +59,11 @@ De aanvraagrondes als bedoeld in [artikel 6, vijfde lid, van de Regeling Literat
 
 #### § 2. [Regeling Leesbevordering Nederlands Letterenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0051328)
 
-#### Artikel 3
+##### Artikel 3
 
 Het subsidieplafond als bedoeld in [artikel 8, eerste lid, van Regeling Leesbevordering Nederlands Letterenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0051328&artikel=8) bedraagt € 1.100.000 voor het jaar 2026.
 
-#### Artikel 4
+##### Artikel 4
 
 De aanvraagrondes als bedoeld in [artikel 7, eerste lid, van de Regeling Leesbevordering Nederlands Letterenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0051328&artikel=7) openen en sluiten op de volgende data:
 
@@ -48,7 +73,7 @@ De aanvraagrondes als bedoeld in [artikel 7, eerste lid, van de Regeling Leesbev
 
 #### § 3. [Regeling projectsubsidies voor makers van boeken](https://wetten.overheid.nl/jci1.3:c:BWBR0051439)
 
-#### Artikel 5
+##### Artikel 5
 
 1. De deelsubsidieplafonds als bedoeld in [artikel 9, eerste lid, van Regeling Projectsubsidies voor makers van boeken](https://wetten.overheid.nl/jci1.3:c:BWBR0051439&artikel=9) bedragen voor het jaar 2026:
 
@@ -74,7 +99,7 @@ De aanvraagrondes als bedoeld in [artikel 7, eerste lid, van de Regeling Leesbev
 
 - –. **Aanvragen voor geïllustreerd werk:** € 150.000.
 
-#### Artikel 6
+##### Artikel 6
 
 De aanvraagrondes als bedoeld in [artikel 8, eerste lid, van de Regeling Projectsubsidies voor makers van boeken](https://wetten.overheid.nl/jci1.3:c:BWBR0051439&artikel=8) openen en sluiten op de volgende data:
 
@@ -88,7 +113,7 @@ De aanvraagrondes als bedoeld in [artikel 8, eerste lid, van de Regeling Project
 
 #### § 4. [Regeling literaire programma's](https://wetten.overheid.nl/jci1.3:c:BWBR0051906)
 
-#### Artikel 7
+##### Artikel 7
 
 De aanvraagrondes als bedoeld in [artikel 7, eerste lid, van de Regeling Literaire Programma’s](https://wetten.overheid.nl/jci1.3:c:BWBR0051906&artikel=7) openen en sluiten op de volgende data:
 
@@ -98,7 +123,7 @@ De aanvraagrondes als bedoeld in [artikel 7, eerste lid, van de Regeling Literai
 
 #### § 5. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking met ingang van met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

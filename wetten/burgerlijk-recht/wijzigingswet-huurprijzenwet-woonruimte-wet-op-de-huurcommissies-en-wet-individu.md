@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet Huurprijzenwet woonruimte, Wet op de huurcommissies en Wet individuele huursubsidie ivm huursombenadering"
+title: "Wet van 19 juni 1996 tot wijziging van de Huurprijzenwet woonruimte, de Wet op de huurcommissies en de Wet individuele huursubsidie in verband met de zogenaamde huursombenadering"
 identifier: "BWBR0008111"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2000-07-01
-laatste_update: 2000-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008111"
+country: "nl"
+rank: "wet"
+publication_date: "2000-07-01"
+last_updated: "2000-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008111"
+soort: "wet"
+stam_id: "113133"
+version_id: "155472"
+internal_id: "C155471"
+label_id: "113044"
+dtd_version: "2.0"
+original_entry_into_force: "1996-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008111/2000-07-01/0"
+intitule_bron: "Stb.1996-323"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-06-19"
+intitule_published: "1996-06-28"
+intitule_in_force: "1996-06-28"
+intitule_status: "goed"
+original_publication: "Stb.1996-323"
+original_signed_date: "1996-06-19"
+original_published_date: "1996-06-28"
+original_effect: "nieuwe-regeling"
+original_dossier: "24507"
+original_url_id: "stb-1996-323"
+entry_into_force_date: "1996-07-01"
+entry_into_force_dossier: "24507"
+jci_1_3: "jci1.3:c:BWBR0008111&z=2000-07-01&g=2000-07-01"
+jci_1_0: "1.0:c:BWBR0008111&g=2000-07-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Huurprijzenwet woonruimte, Wet op de huurcommissies en Wet individuele huursubsidie ivm huursombenadering"
+signed_date: "1996-06-19"
+entry_into_force: "1996-07-01"
 ---
-
-# Wijzigingswet Huurprijzenwet woonruimte, Wet op de huurcommissies en Wet individuele huursubsidie ivm huursombenadering
+# Wet van 19 juni 1996 tot wijziging van de Huurprijzenwet woonruimte, de Wet op de huurcommissies en de Wet individuele huursubsidie in verband met de zogenaamde huursombenadering
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,19 +44,19 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is een aantal wijziging
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Huurprijzen woonruimte.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op de Huurcommissies.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet individuele huursubsidie.
 
-#### Artikel IV
+##### Artikel IV
 
 1. [Artikel I, met uitzondering van onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0008111&artikel=I&z=2000-07-01&g=2000-07-01), is niet van toepassing op woonruimte waarvoor:
 
@@ -42,7 +70,7 @@ Wijzigt de Wet individuele huursubsidie.
 
 4. [Artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0008111&artikel=III&z=2000-07-01&g=2000-07-01) is niet van toepassing op aanvragen om en verstrekkingen van een bijdrage als bedoeld in artikel 2, eerste lid, van de Wet individuele huursubsidie, die betrekking hebben op tijdvakken als bedoeld in artikel 2, vijfde lid, van die wet, die zijn verstreken vóór 1 juli 1996.
 
-#### Artikel V
+##### Artikel V
 
 Deze wet treedt in werking met ingang van 1 juli 1996.
 

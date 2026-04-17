@@ -1,13 +1,35 @@
 ---
-title: "Besluit tot regeling van overbrenging naar Rijksarchiefbewaarplaatsen van de registers der overledenen"
+title: "Besluit van 6 juli 1929, tot regeling van de overbrenging naar de Rijksarchiefbewaarplaatsen van de registers der overledenen, opgemaakt ingevolge de \"Ordonnantie eener Belasting op het Regt van Successie\" van 4 October 1805"
 identifier: "BWBR0001943"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 1929-08-07
-laatste_update: 1929-08-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0001943"
+country: "nl"
+rank: "kb"
+publication_date: "1929-08-07"
+last_updated: "1929-08-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001943"
+soort: "KB"
+stam_id: "1066033"
+version_id: "1567702"
+internal_id: "C1567701"
+label_id: "1033074"
+dtd_version: "2.0"
+original_entry_into_force: "1929-08-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001943/1929-08-07/0"
+intitule_bron: "Stb.1929-381"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1929-07-06"
+intitule_status: "goed"
+original_publication: "Stb.1929-381"
+original_signed_date: "1929-07-06"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1929-08-07"
+jci_1_3: "jci1.3:c:BWBR0001943&z=1929-08-07&g=1929-08-07"
+jci_1_0: "1.0:c:BWBR0001943&g=1929-08-07"
+citeertitel_status: "officieel"
+short_title: "Besluit tot regeling van overbrenging naar Rijksarchiefbewaarplaatsen van de registers der overledenen"
+signed_date: "1929-07-06"
+entry_into_force: "1929-08-07"
 ---
-
 # Besluit van 6 juli 1929, tot regeling van de overbrenging naar de Rijksarchiefbewaarplaatsen van de registers der overledenen, opgemaakt ingevolge de "Ordonnantie eener Belasting op het Regt van Successie" van 4 October 1805
 
 Op de gemeenschappelijke voordracht van Onzen Minister van Onderwijs, Kunsten en Wetenschappen, van Onzen Minister van Justitie en van Onzen Minister van Financiën van 25 Maart 1929, n°. 13194, afdeeling Kunsten en Wetenschappen, van 9 April 1929, 1e Afdeeling C, n°. 885, en van 19 April 1929, n°. 13, Afdeeling Indirecte Belastingen;
@@ -24,27 +46,27 @@ Hebben goedgevonden en verstaan:
 
 met intrekking van het Koninklijk besluit van 23 Januari 1824 en van Ons besluit van 18 September 1919 (**Staatsblad** n°. 576), te bepalen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 De registers der overledenen, opgemaakt krachtens de Ordonnantie eener Belasting op het Regt van Successie alomme in het Bataafsche Gemeenebest in te vorderen van 4 October 1805, zullen worden overgebracht naar de Rijksarchiefbewaarplaats, gevestigd in de hoofdplaats der provincie, binnen welke de gemeente is gelegen, waar de ambtenaar van den burgerlijken stand, door wien die registers thans bewaard worden, gevestigd is.
 
-#### Artikel 2
+##### Artikel 2
 
 De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001943&artikel=1&z=1929-08-07&g=1929-08-07) genoemde registers worden gesteld onder den Rijksarchivaris, die belast is met het beheer van de Rijksarchiefbewaarplaats, waarheen die registers zullen zijn overgebracht.
 
-#### Artikel 3
+##### Artikel 3
 
 De overbrenging der in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001943&artikel=1&z=1929-08-07&g=1929-08-07) genoemde registers geschiedt op de wijze en op het tijdstip, tusschen den ambtenaar van den burgerlijken stand, die de registers bewaarde en den Rijksarchivaris van de Rijksarchiefbewaarplaats, waarheen zij worden overgebracht, in gemeen overleg te bepalen, met dien verstande, dat de overbrenging moet plaats vinden vóór 1 November 1930. Indien het overleg tusschen den ambtenaar van den burgerlijken stand en den Rijksarchivaris niet tot eenstemmigheid leidt, beslist de Algemeene Rijksarchivaris.
 
-#### Artikel 4
+##### Artikel 4
 
 Van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001943&artikel=1&z=1929-08-07&g=1929-08-07) genoemde registers, die naar eene Rijksarchiefbewaarplaats worden overgebracht, maakt de Rijksarchivaris van die bewaarplaats een inventaris in duplo op, die van een verklaring aangaande die overbrenging wordt voorzien. Beide exemplaren worden door den ambtenaar van den burgerlijken stand en den Rijksarchivaris onderteekend. Eén exemplaar wordt door den ambtenaar van den burgerlijken stand, het ander in de Rijksarchiefbewaarplaats bewaard.
 
-#### Artikel 5
+##### Artikel 5
 
 De kosten van overbrenging van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001943&artikel=1&z=1929-08-07&g=1929-08-07) genoemde registers naar de Rijksarchiefbewaarplaatsen worden uit de ten behoeve van die Rijksarchiefbewaarplaatsen op de Rijksbegrooting uitgetrokken gelden geleden.
 
-#### Artikel 6
+##### Artikel 6
 
 Onze Minister van Onderwijs, Kunsten en Wetenschappen is gemachtigd aan de Rijksarchivarissen op te dragen, aan gemeenten, die een eigen archivaris en doelmatige archieflokalen hebben, van de overeenkomstig [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001943&artikel=1&z=1929-08-07&g=1929-08-07) naar de Rijksarchiefbewaarplaatsen overgebrachte registers de zoodanige, welke die gemeenten betreffen, tot wederopzeggens in bewaring te geven, onder voorwaarde, dat het betrokken gemeentebestuur zich verbinde:
 

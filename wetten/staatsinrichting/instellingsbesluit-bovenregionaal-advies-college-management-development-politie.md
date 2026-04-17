@@ -1,24 +1,48 @@
 ---
 title: "Instellingsbesluit Bovenregionaal Advies College management development politie"
 identifier: "BWBR0012420"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2005-06-25
-laatste_update: 2005-06-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012420"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2005-06-25"
+last_updated: "2005-06-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012420"
+soort: "ministeriele-regeling"
+stam_id: "4256213"
+version_id: "6019702"
+internal_id: "C6223091"
+label_id: "4234844"
+dtd_version: "2.0"
+original_entry_into_force: "2001-05-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012420/2005-06-25/0"
+intitule_bron: "Stcrt.2001-85"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-04-19"
+intitule_published: "2001-05-03"
+intitule_in_force: "2001-05-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-85"
+original_signed_date: "2001-04-19"
+original_published_date: "2001-05-03"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-05-05"
+jci_1_3: "jci1.3:c:BWBR0012420&z=2005-06-25&g=2005-06-25"
+jci_1_0: "1.0:c:BWBR0012420&g=2005-06-25"
+citeertitel_status: "officieel"
+signed_date: "2001-04-19"
+entry_into_force: "2001-05-05"
 ---
-
 # Instellingsbesluit Bovenregionaal Advies College management development politie
 
 in overeenstemming met de Minister van Justitie;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een Bovenregionaal Advies College management development politie, hierna te noemen: BRC.
 
-#### Artikel 2
+##### Artikel 2
 
 Het BRC heeft als taak aan de Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie te adviseren over:
 
@@ -32,11 +56,11 @@ Het BRC heeft als taak aan de Ministers van Binnenlandse Zaken en Koninkrijksrel
 
 - e. de periodieke toetsing en registratie van de individuele ontwikkelingen van de geselecteerde kandidaten.
 
-#### Artikel 3
+##### Artikel 3
 
 Ter uitvoering van zijn taken stelt het BRC tweejaarlijks een werkplan op en zendt dit ter goedkeuring aan de Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het BRC is als volgt samengesteld:
 
@@ -58,27 +82,27 @@ Ter uitvoering van zijn taken stelt het BRC tweejaarlijks een werkplan op en zen
 
 2. De minister van Binnenlandse Zaken en Koninkrijksrelaties voorziet in overeenstemming met de minister van Justitie in de opvolging en tussentijdse vervanging van de leden. Voor zover het de leden betreft genoemd in het eerste lid, onder c tot en met f, geschiedt dit op voordracht van de Raad van Hoofdcommissarissen indien het een korpschef betreft, op voordracht van het Korpsbeheerdersberaad indien het een korpsbeheerder betreft en op voordracht van het OM-politieberaad, indien het een hoofdofficier van justitie betreft.
 
-#### Artikel 5
+##### Artikel 5
 
 Een ieder die betrokken is bij de werkzaamheden van het BRC en daarbij de beschikking krijgt over gegevens waarvan hij/zij het vertrouwelijk karakter kent of redelijkerwijs moet vermoeden en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij deze werkzaamheden de noodzaak tot bekendmaking voortvloeit.
 
-#### Artikel 6
+##### Artikel 6
 
 Het BRC kan een huishoudelijk reglement opstellen met betrekking tot de inrichting van de procesgang, werkwijze en administratieve organisatie.
 
-#### Artikel 7
+##### Artikel 7
 
 Het BRC kan, ter verwezenlijking van zijn doelstellingen, omtrent nader te bepalen onderwerpen werkgroepen instellen of ondersteunen.
 
-#### Artikel 8
+##### Artikel 8
 
 Op de leden van het BRC is het [Reisbesluit Binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889) van toepassing.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Bovenregionaal Advies College management development politie.
 

@@ -1,13 +1,39 @@
 ---
-title: "Definitieve Regeling bekostiging personeel PO 2021–2022 en vaststelling bedragen voor ondersteuning van leerlingen in het PO en VO 2021–2022."
+title: "Regeling van de Minister voor Primair en Voortgezet Onderwijs van 12 augustus 2022, nr. PO/FenV/33271986, houdende aanpassing van de bedragen personele bekostiging primair onderwijs voor het schooljaar 2021–2022 en het vaststellen van de bedragen voor ondersteuning van leerlingen in het primair en voortgezet onderwijs schooljaar 2021–2022 (Definitieve Regeling bekostiging personeel PO 2021–2022 en vaststelling bedragen voor ondersteuning van leerlingen in het PO en VO 2021–2022)"
 identifier: "BWBR0047086"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2022-08-31
-laatste_update: 2022-08-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047086"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-08-31"
+last_updated: "2022-08-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047086"
+soort: "ministeriele-regeling"
+stam_id: "16468273"
+version_id: "28853322"
+internal_id: "C40854521"
+label_id: "16391234"
+dtd_version: "2.0"
+original_entry_into_force: "2022-08-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047086/2022-08-31/0"
+intitule_bron: "Stcrt.2022-22601"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-08-12"
+intitule_published: "2022-08-30"
+intitule_in_force: "2022-08-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-22601"
+original_signed_date: "2022-08-12"
+original_published_date: "2022-08-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-22601"
+entry_into_force_date: "2022-08-31"
+jci_1_3: "jci1.3:c:BWBR0047086&z=2022-08-31&g=2022-08-31"
+jci_1_0: "1.0:c:BWBR0047086&g=2022-08-31"
+citeertitel_status: "officieel"
+short_title: "Definitieve Regeling bekostiging personeel PO 2021–2022 en vaststelling bedragen voor ondersteuning van leerlingen in het PO en VO 2021–2022."
+signed_date: "2022-08-12"
+entry_into_force: "2022-08-31"
 ---
-
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 12 augustus 2022, nr. PO/FenV/33271986, houdende aanpassing van de bedragen personele bekostiging primair onderwijs voor het schooljaar 2021–2022 en het vaststellen van de bedragen voor ondersteuning van leerlingen in het primair en voortgezet onderwijs schooljaar 2021–2022 (Definitieve Regeling bekostiging personeel PO 2021–2022 en vaststelling bedragen voor ondersteuning van leerlingen in het PO en VO 2021–2022)
 
 Gelet op [artikel XI, vijfde lid jo. derde lid, van de Wet van 25 februari 2021 tot wijziging van onder meer de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet primair onderwijs BES, de Wet op het voortgezet onderwijs, enkele andere wetten vanwege de vereenvoudiging van de bekostiging van de scholen voor primair onderwijs en samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0045030&artikel=XI) (Stb. 2021, 171) en [artikel 3, derde lid, van de Regeling bijzondere bekostiging professionalisering en begeleiding starters en schoolleiders](https://wetten.overheid.nl/jci1.3:c:BWBR0045006&artikel=3);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -56,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 1. Basisscholen
 
-#### Artikel 2. Gemiddelde leeftijd en bedragen
+##### Artikel 2. Gemiddelde leeftijd en bedragen
 
 1. De geraamde landelijk gewogen gemiddelde leeftijd op 1 oktober 2020 en de genormeerde gemiddelde personeelslasten van leraren respectievelijk van de schoolleiding van basisscholen, bedoeld in [artikel 120, zesde lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=120), zoals die luidde op 31 maart 2022, bedragen:
 
@@ -83,7 +109,7 @@ In deze regeling wordt verstaan onder:
 
 5. In de genormeerde gemiddelde personeelslasten, bedoeld in het eerste lid is een verlaging van 0,724% verwerkt op basis van de gemiddelde inkomsten waarop de bevoegde gezagsorganen, bedoeld in de [WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) gedurende het schooljaar aanspraak maken vanwege uitkeringen of toelagen als bedoeld in [artikel 137, vijfde lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=137), zoals die luidde op 31 maart 2022.
 
-#### Artikel 3. Aanvullende bekostiging (zeer) kleine scholen
+##### Artikel 3. Aanvullende bekostiging (zeer) kleine scholen
 
 Het basisbedrag respectievelijk het leeftijdsbedrag, bedoeld in de in de eerste kolom genoemde artikelen van het [Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862), zoals dat luidde op 31 maart 2022, is het bedrag, genoemd in de tweede respectievelijk de derde kolom bij het desbetreffende artikel:
 
@@ -93,7 +119,7 @@ Het basisbedrag respectievelijk het leeftijdsbedrag, bedoeld in de in de eerste 
 | 24, tweede lid, onderdeel a, (kleine scholen voet) | € 83.646,76 | € 2.257,20 |
 | 24, tweede lid, onderdeel b, (kleine scholen verminderingsbedrag) | € 579,48 | € 15,64 |
 
-#### Artikel 4. Aanvullende bekostiging voor bestrijding onderwijsachterstanden
+##### Artikel 4. Aanvullende bekostiging voor bestrijding onderwijsachterstanden
 
 1. Het bedrag per eenheid achterstandsscore bedoeld in [artikel 28, eerste lid, van het Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=28), zoals dat luidde op 31 maart 2022, bedraagt € 642,44.
 
@@ -101,7 +127,7 @@ Het basisbedrag respectievelijk het leeftijdsbedrag, bedoeld in de in de eerste 
 
 3. Het percentage, bedoeld in [artikel 36a, derde lid, van het Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=36a), zoals dat luidde op 31 maart 2022 bedraagt 9,064%.
 
-#### Artikel 5. Aanvullende bekostiging bij aanvang van de bekostiging en groei
+##### Artikel 5. Aanvullende bekostiging bij aanvang van de bekostiging en groei
 
 Het basisbedrag verhoogd met het met de geraamde landelijk gewogen gemiddelde leeftijd van de leraren vermenigvuldigde leeftijdsbedrag, bedoeld in de in de eerste kolom genoemde artikelen van het [Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862), zoals dat luidde op 31 maart 2022, is het bedrag, genoemd in de tweede kolom bij het desbetreffende artikel:
 
@@ -110,11 +136,11 @@ Het basisbedrag verhoogd met het met de geraamde landelijk gewogen gemiddelde le
 | [3a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=3a), **(aanvang bekostiging)** | € 16.334,60 |
 | [29, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=29), **(groei)** | € 3.912,29 |
 
-#### Artikel 6. Aanvullende bekostiging schoolleiding
+##### Artikel 6. Aanvullende bekostiging schoolleiding
 
 Het bedrag, bedoeld in [artikel 26, eerste lid, van het Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=26), zoals dat luidde op 31 maart 2022, is voor scholen met een aantal leerlingen dat op de teldatum niet hoger is dan 97 leerlingen € 21.026,02 en voor scholen met een aantal leerlingen dat op de teldatum hoger is dan 97 leerlingen € 38.699,04.
 
-#### Artikel 7. Bekostiging personeels- en arbeidsmarktbeleid
+##### Artikel 7. Bekostiging personeels- en arbeidsmarktbeleid
 
 1. De bekostiging voor personeels- en arbeidsmarktbeleid, bedoeld in [artikel 129 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=129), zoals die luidde op 31 maart 2022, bestaat voor basisscholen, waaronder begrepen de school voor varende kinderen, uit een basisbedrag en een bedrag per leerling:
 
@@ -130,7 +156,7 @@ Het bedrag, bedoeld in [artikel 26, eerste lid, van het Besluit bekostiging WPO]
 
 5. Voor de bekostiging voor personeels- en arbeidsmarktbeleid wordt het aantal leerlingen vastgesteld overeenkomstig [artikel 121 WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=121), zoals die luidde op 31 maart 2022.
 
-#### Artikel 8. Bedragen voor scholen voor kinderen van wie de ouders een trekkend bestaan leiden
+##### Artikel 8. Bedragen voor scholen voor kinderen van wie de ouders een trekkend bestaan leiden
 
 1. Het bedrag per formatieplaats, bedoeld in de [artikelen B 16b](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&artikel=B_16b) en [C 11, eerste en tweede lid, van het Besluit trekkende bevolking WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&artikel=C_11), zoals dat luidde op 31 maart 2022 is € 80.334,57.
 
@@ -138,7 +164,7 @@ Het bedrag, bedoeld in [artikel 26, eerste lid, van het Besluit bekostiging WPO]
 
 3. Het budget voor personeels- en arbeidsmarktbeleid, bedoeld in [artikel B 16l van het Besluit trekkende bevolking](https://wetten.overheid.nl/jci1.3:c:BWBR0003833&artikel=B_16l), zoals dat luidde op 31 maart 2022 bedraagt € 57.698,24 per school.
 
-#### Artikel 9. Bekostiging voor internationaal georiënteerd basisonderwijs
+##### Artikel 9. Bekostiging voor internationaal georiënteerd basisonderwijs
 
 1. Het bevoegd gezag van een basisschool waaraan een afdeling internationaal georiënteerd basisonderwijs is verbonden, ontvangt op aanvraag aanvullende bekostiging voor personeel en voor materiële instandhouding.
 
@@ -184,7 +210,7 @@ Het bedrag, bedoeld in [artikel 26, eerste lid, van het Besluit bekostiging WPO]
 
 #### Paragraaf 2. Speciale scholen voor basisonderwijs
 
-#### Artikel 10. Gemiddelde leeftijd en bedragen
+##### Artikel 10. Gemiddelde leeftijd en bedragen
 
 1. De geraamde landelijk gewogen gemiddelde leeftijd op 1 oktober 2020 en de genormeerde gemiddelde personeelslasten van leraren respectievelijk van de schoolleiding van speciale scholen voor basisonderwijs, bedoeld in [artikel 120, zesde lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=120), zoals die luidde op 31 maart 2022, bedragen:
 
@@ -210,7 +236,7 @@ Het bedrag, bedoeld in [artikel 26, eerste lid, van het Besluit bekostiging WPO]
 
 5. In de genormeerde gemiddelde personeelslasten, bedoeld in het eerste lid is een verlaging van 0,724% verwerkt op basis van de gemiddelde inkomsten waarop de bevoegde gezagsorganen, bedoeld in de [WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) gedurende het schooljaar aanspraak maken vanwege uitkeringen of toelagen als bedoeld in [artikel 137, vijfde lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=137), zoals die luidde op 31 maart 2022.
 
-#### Artikel 11. Bedragen ondersteuningsvoorzieningen
+##### Artikel 11. Bedragen ondersteuningsvoorzieningen
 
 Het bedrag per leerling respectievelijk het verhogingsbedrag dat wordt vermenigvuldigd met de gewogen gemiddelde leeftijd van de leraren van die school, bedoeld in [artikel 120, vierde lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=120), zoals die luidde op 31 maart 2022 is:
 
@@ -218,7 +244,7 @@ Het bedrag per leerling respectievelijk het verhogingsbedrag dat wordt vermenigv
 
 - b. verhogingsbedrag € 79,98.
 
-#### Artikel 12. Bedragen aanvullende bekostiging onderwijsachterstandenbestrijding
+##### Artikel 12. Bedragen aanvullende bekostiging onderwijsachterstandenbestrijding
 
 Het basisbedrag respectievelijk het leeftijdsbedrag, bedoeld in [artikel 28, tweede lid, van het Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=28), zoals dat luidde op 31 maart 2022, is:
 
@@ -226,13 +252,13 @@ Het basisbedrag respectievelijk het leeftijdsbedrag, bedoeld in [artikel 28, twe
 
 - b. leeftijdsbedrag € 49,65.
 
-#### Artikel 13. Bedragen aanvullende bekostiging bij aanvang van de bekostiging en voor de schoolleiding
+##### Artikel 13. Bedragen aanvullende bekostiging bij aanvang van de bekostiging en voor de schoolleiding
 
 1. Het basisbedrag verhoogd met het met de geraamde landelijk gewogen gemiddelde leeftijd van de leraren van speciale scholen voor basisonderwijs vermenigvuldigde leeftijdsbedrag, bedoeld in [artikel 3a, vierde lid, van het Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=3a), zoals dat luidde op 31 maart 2022, is € 17.873,10.
 
 2. Het bedrag, bedoeld in [artikel 26, tweede lid, van het Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=26), zoals dat luidde op 31 maart 2022, is voor scholen met een aantal leerlingen dat op de teldatum niet hoger is dan 99 leerlingen € 21.761,31 en voor scholen met een aantal leerlingen dat op de teldatum hoger is dan 99 leerlingen € 40.362,62.
 
-#### Artikel 14. Bekostiging personeels- en arbeidsmarktbeleid
+##### Artikel 14. Bekostiging personeels- en arbeidsmarktbeleid
 
 1. De bekostiging voor personeels- en arbeidsmarktbeleid, bedoeld in [artikel 129 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=129), zoals die luidde op 31 maart 2022, voor speciale scholen voor basisonderwijs bestaat uit een bedrag dat wordt berekend volgens de formule ‘basisbedrag + A + B’, waarin:
 
@@ -248,7 +274,7 @@ B = het aantal leerlingen met een niet-Nederlandse culturele achtergrond, vermen
 
 #### Paragraaf 3. Scholen voor (voortgezet) speciaal onderwijs in cluster 3 en 4
 
-#### Artikel 15. Gemiddelde leeftijd en basisbedragen
+##### Artikel 15. Gemiddelde leeftijd en basisbedragen
 
 1. De geraamde landelijk gewogen gemiddelde leeftijd op 1 oktober 2020 en de genormeerde gemiddelde personeelslasten van leraren, onderwijsondersteunend personeel, respectievelijk van de schoolleiding van scholen voor speciaal, voortgezet speciaal en speciaal en voortgezet speciaal onderwijs, bedoeld in [artikel 117, twaalfde lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=117), zoals die luidde op 31 maart 2022, bedragen:
 
@@ -279,7 +305,7 @@ B = het aantal leerlingen met een niet-Nederlandse culturele achtergrond, vermen
 
 5. In de genormeerde gemiddelde personeelslasten bedoeld in het eerste lid, is een verlaging van 0,724% verwerkt op basis van de gemiddelde inkomsten waarop de bevoegde gezagsorganen, bedoeld in de [WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) gedurende het schooljaar aanspraak maken vanwege uitkeringen of toelagen als bedoeld in [artikel 131, vierde lid, WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=131), zoals die luidde op 31 maart 2022.
 
-#### Artikel 16. Bedragen voor personele bekostiging voor ondersteuning
+##### Artikel 16. Bedragen voor personele bekostiging voor ondersteuning
 
 Het bedrag per leerling, bedoeld in [artikel 117, vierde lid, WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=117), [artikel 132, vierde lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=132) en [artikel 84, derde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=84), zoals die luidden op 31 maart 2022, is per categorie onderverdeeld naar onderwijstype en leeftijd van de leerlingen, weergegeven in onderstaande tabel.
 
@@ -289,7 +315,7 @@ Het bedrag per leerling, bedoeld in [artikel 117, vierde lid, WEC](https://wette
 | per leerling SO 8 jaar en ouder | € 10.660,10 | € 18.404,01 | € 27.403,39 |
 | per leerling VSO | € 11.906,25 | € 20.905,25 | € 25.902,99 |
 
-#### Artikel 17. Aanvullende bekostiging voor bestrijding onderwijsachterstanden
+##### Artikel 17. Aanvullende bekostiging voor bestrijding onderwijsachterstanden
 
 Het basisbedrag respectievelijk het leeftijdsbedrag, bedoeld in [artikel 41, eerste lid, van het Besluit bekostiging WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0004259&artikel=41), zoals dat luidde op 31 maart 2022 is:
 
@@ -297,7 +323,7 @@ Het basisbedrag respectievelijk het leeftijdsbedrag, bedoeld in [artikel 41, eer
 
 - b. leeftijdsbedrag: € 50,86.
 
-#### Artikel 18. Bedragen aanvullende bekostiging bij aanvang van de bekostiging en voor de schoolleiding
+##### Artikel 18. Bedragen aanvullende bekostiging bij aanvang van de bekostiging en voor de schoolleiding
 
 1. Het basisbedrag verhoogd met het met de geraamde landelijk gewogen gemiddelde leeftijd van de leraren van scholen voor (voortgezet) speciaal onderwijs vermenigvuldigde leeftijdsbedrag, bedoeld in [artikel 3a, vierde lid, van het Besluit bekostiging WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0004259&artikel=3a), zoals dat luidde op 31 maart 2022, is € 17.516,37.
 
@@ -308,7 +334,7 @@ Het basisbedrag respectievelijk het leeftijdsbedrag, bedoeld in [artikel 41, eer
 | 1 tot en met 49 | € 24.262,46 | € 24.262,46 | € 45.293,92 | € 45.293,92 |
 | 50 of meer | € 45.293,92 | € 66.325,38 | € 45.293,92 | € 66.325,38 |
 
-#### Artikel 19. Bekostiging personeels- en arbeidsmarktbeleid
+##### Artikel 19. Bekostiging personeels- en arbeidsmarktbeleid
 
 1. De bekostiging voor personeels- en arbeidsmarktbeleid, bedoeld in [artikel 124 WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=124), zoals die luidde op 31 maart 2022, bestaat voor de scholen in deze paragraaf uit een bedrag dat wordt berekend volgens de formule ‘A+B’, waarin:
 
@@ -322,7 +348,7 @@ B = het aantal leerlingen met een niet-Nederlandse culturele achtergrond, vermen
 
 #### Paragraaf 1. Lichte ondersteuning en schoolmaatschappelijk werk
 
-#### Artikel 20. Bedragen lichte ondersteuning PO
+##### Artikel 20. Bedragen lichte ondersteuning PO
 
 Het bedrag per leerling verhoogd met het met de geraamde landelijk gewogen gemiddelde leeftijd van de leraren vermenigvuldigde bedrag, bedoeld in de in de eerste kolom genoemde artikelen van het [Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862), zoals dat luidde op 31 maart 2022, is het bedrag, genoemd in de tweede kolom bij het desbetreffende artikel.
 
@@ -333,21 +359,21 @@ Het bedrag per leerling verhoogd met het met de geraamde landelijk gewogen gemid
 | [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=32), en [33, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=33)**(overdracht en overgang naar ander swv)** | € 5.725,97 |
 | [33, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=33) **(overgang naar ander swv na 1 oktober)** | € 9.732,37 |
 
-#### Artikel 21. Schoolmaatschappelijk werk primair onderwijs in het kader van veiligheid en opvang risicoleerlingen
+##### Artikel 21. Schoolmaatschappelijk werk primair onderwijs in het kader van veiligheid en opvang risicoleerlingen
 
 Aan het samenwerkingsverband PO, waarvan de som der achterstandsscores van de vestigingen binnen het samenwerkingsverband 1 of meer is, wordt een bedrag van € 13,57 per achterstandsscore toegekend.
 
 #### Paragraaf 2. Zware ondersteuning
 
-#### Artikel 22. Bedrag personele bekostiging zware ondersteuning PO
+##### Artikel 22. Bedrag personele bekostiging zware ondersteuning PO
 
 Het bedrag per leerling, bedoeld in [artikel 132, derde lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=132), zoals die luidde op 31 maart 2022, is € 438,31.
 
-#### Artikel 23. Bedrag personele bekostiging zware ondersteuning VO
+##### Artikel 23. Bedrag personele bekostiging zware ondersteuning VO
 
 Het bedrag per leerling, bedoeld in [artikel 84, tweede lid, van de Wet op het voorgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=84), zoals die luidde op 31 maart 2022, is € 711,51.
 
-#### Artikel 24. Bedrag overdracht personele bekostiging bij groei op 1 februari
+##### Artikel 24. Bedrag overdracht personele bekostiging bij groei op 1 februari
 
 Het bedrag per leerling, bedoeld in [artikel 125b, eerste lid, onderdeel b, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=125b) en [artikel 88, eerste lid, onderdeel b, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=88), zoals die luidden op 31 maart 2022, wordt weergegeven in onderstaande tabel.
 
@@ -359,7 +385,7 @@ Het bedrag per leerling, bedoeld in [artikel 125b, eerste lid, onderdeel b, WPO]
 
 ### Hoofdstuk 4. Bekostiging instellingen
 
-#### Artikel 25. Basisbedragen
+##### Artikel 25. Basisbedragen
 
 De basisbedragen respectievelijk het leeftijdsbedrag, bedoeld in [artikel 117, eerste lid, WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=117), zoals die luidde op 31 maart 2022, is het bedrag, genoemd in de tweede respectievelijk de derde kolom in onderstaande tabel.
 
@@ -369,13 +395,13 @@ De basisbedragen respectievelijk het leeftijdsbedrag, bedoeld in [artikel 117, e
 | per leerling SO >=8 | € 1.146,12 | € 51,92 |
 | per leerling VSO | € 2.231,00 | € 101,06 |
 
-#### Artikel 26. Bekostiging personeels- en arbeidsmarktbeleid
+##### Artikel 26. Bekostiging personeels- en arbeidsmarktbeleid
 
 1. De bekostiging voor personeels- en arbeidsmarktbeleid, bedoeld in [artikel 124 WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=124), zoals die luidde op 31 maart 2022, is voor de instellingen in deze paragraaf € 1.301,84 per leerling.
 
 2. Het bedrag per leerling ten behoeve van de schoolbegeleiding, bedoeld in [artikel 166a WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=166a), zoals die luidde op 31 maart 2022, bedraagt € 69,52 en is begrepen in het bedrag, genoemd in het eerste lid.
 
-#### Artikel 27. Bedragen voor personele bekostiging voor ondersteuning instellingen
+##### Artikel 27. Bedragen voor personele bekostiging voor ondersteuning instellingen
 
 De bedragen, bedoeld in [artikel 117, vijfde lid, WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=117), zoals die luidde op 31 maart 2022, worden in onderstaande tabel per instelling weergegeven.
 
@@ -392,13 +418,13 @@ De bedragen, bedoeld in [artikel 117, vijfde lid, WEC](https://wetten.overheid.n
 
 ### Hoofdstuk 5. Bijzondere bekostiging schooljaar 2021–2022
 
-#### Artikel 28. Algemeen artikel
+##### Artikel 28. Algemeen artikel
 
 1. [Artikel 1 van de Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=1) is van toepassing op dit hoofdstuk.
 
 2. Indien de peildatum, bedoeld in de [artikelen 32 tot en met 34](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=5&artikel=32&z=2022-08-31&g=2022-08-31), valt op een zaterdag, zondag of algemeen erkende feestdag wordt als peildatum de eerstvolgende dag die niet een zaterdag, zondag of algemeen erkende feestdag is aangehouden.
 
-#### Artikel 29. Aanwezigheid schipperskinderen
+##### Artikel 29. Aanwezigheid schipperskinderen
 
 1. Het bevoegd gezag van een basisschool die voor 1 april 2022 wordt bezocht door 3 of meer kinderen in de eerste 4 verblijfsjaren op een reguliere basisschool en die verblijven in een internaat of pleeggezin en van wie de vader of moeder het schippersbedrijf uitoefent of heeft uitgeoefend, ontvangt op aanvraag bijzondere bekostiging voor personeel en aanvullende bekostiging voor materiële instandhouding.
 
@@ -430,7 +456,7 @@ De bedragen, bedoeld in [artikel 117, vijfde lid, WEC](https://wetten.overheid.n
 
 7. De aanvraag, bedoeld in het eerste lid, wordt in ieder geval afgewezen indien het een aanvraag betreft voor de periode na 1 april 2022.
 
-#### Artikel 30. Aanwezigheid leerlingen met een culturele achtergrond van de Roma en Sinti
+##### Artikel 30. Aanwezigheid leerlingen met een culturele achtergrond van de Roma en Sinti
 
 1. Het bevoegd gezag van een basisschool die voor 1 april 2022 wordt bezocht door 4 of meer leerlingen met een culturele achtergrond van de Roma en Sinti, ontvangt op aanvraag bijzondere bekostiging voor personeel en aanvullende bekostiging voor materiële instandhouding.
 
@@ -450,7 +476,7 @@ De bedragen, bedoeld in [artikel 117, vijfde lid, WEC](https://wetten.overheid.n
 
 6. De aanvraag, bedoeld in het eerste lid, wordt in ieder geval afgewezen indien het een aanvraag betreft voor de periode na 1 april 2022.
 
-#### Artikel 31. Leerlingen afkomstig uit ‘Blijf van mijn lijf huizen’
+##### Artikel 31. Leerlingen afkomstig uit ‘Blijf van mijn lijf huizen’
 
 1. Het bevoegd gezag van een basisschool, waar gedurende een periode van maximaal één jaar voorafgaand aan de aanvraag ten minste 10 leerlingen uit een ‘Blijf van mijn lijf huis’ zijn ingeschreven, ontvangt op aanvraag bijzondere bekostiging voor personeel en aanvullende bekostiging voor materiële instandhouding.
 
@@ -468,7 +494,7 @@ De bedragen, bedoeld in [artikel 117, vijfde lid, WEC](https://wetten.overheid.n
 
 5. Indien de aanvraag geheel of gedeeltelijk wordt toegekend ontvangt het bevoegd gezag bijzondere en aanvullende bekostiging met ingang van de maand volgend op de datum waarop de aanvraag is ontvangen.
 
-#### Artikel 32. Eerste opvang asielzoekers en overige vreemdelingen basisscholen
+##### Artikel 32. Eerste opvang asielzoekers en overige vreemdelingen basisscholen
 
 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -558,7 +584,7 @@ waarin:
 
 Ap = het aantal op de peildatum ingeschreven leerlingen dat asielzoeker of overige vreemdeling is.
 
-#### Artikel 33. Onderwijs aan asielzoekers en overige vreemdelingen gedurende het tweede, derde of vierde jaar in Nederland
+##### Artikel 33. Onderwijs aan asielzoekers en overige vreemdelingen gedurende het tweede, derde of vierde jaar in Nederland
 
 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -624,7 +650,7 @@ Ap = het aantal op de peildatum ingeschreven leerlingen dat asielzoeker of overi
 
 7. De bekostiging, bedoeld in het tweede lid, bedraagt € 1.776,00 per asielzoeker vermenigvuldigd met 3/12 en € 1.776,00 per overige vreemdeling vermenigvuldigd met 3/12.
 
-#### Artikel 34. Opvang vreemdelingen op speciale scholen voor basisonderwijs gedurende het eerste, tweede, derde of vierde jaar in Nederland
+##### Artikel 34. Opvang vreemdelingen op speciale scholen voor basisonderwijs gedurende het eerste, tweede, derde of vierde jaar in Nederland
 
 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -692,7 +718,7 @@ Ap = het aantal op de peildatum ingeschreven leerlingen dat asielzoeker of overi
 
 9. De bekostiging, bedoeld in het derde lid, bedraagt per ingeschreven vreemdeling € 3.582,92 voor personeel en € 87,54 voor materiële instandhouding, welke bedragen worden vermenigvuldigd met 3/12.
 
-#### Artikel 35. Opvang asielzoekers in procesopvanglocaties en gezinslocaties
+##### Artikel 35. Opvang asielzoekers in procesopvanglocaties en gezinslocaties
 
 1. Voor de toepassing van dit artikel wordt verstaan onder asielzoeker:
 
@@ -716,7 +742,7 @@ Ap = het aantal op de peildatum ingeschreven leerlingen dat asielzoeker of overi
 
 6. Het bevoegd gezag ontvangt de beschikking uiterlijk in september 2021.
 
-#### Artikel 36. Justitiële jeugdinrichtingen en instellingen voor gesloten jeugdzorg verbonden aan scholen voor Cluster 4
+##### Artikel 36. Justitiële jeugdinrichtingen en instellingen voor gesloten jeugdzorg verbonden aan scholen voor Cluster 4
 
 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -732,7 +758,7 @@ Ap = het aantal op de peildatum ingeschreven leerlingen dat asielzoeker of overi
 
 5. Indien er op 1 januari 2022 van het lopende schooljaar door de Minister van Justitie en Veiligheid, indien het een justitiële jeugdinrichting betreft, en of door de Minister van Volksgezondheid, Welzijn en Sport, indien het een instelling voor gesloten jeugdzorg betreft, meer of minder capaciteit aan de school voor (voortgezet) speciaal onderwijs is toegekend dan de capaciteit op grond waarvan de bekostiging, bedoeld in het tweede en derde lid is bepaald, wordt bijzondere en aanvullende bekostiging bedoeld in het tweede en derde lid herzien voor de resterende maanden van het schooljaar, op basis van de toegekende capaciteit op 1 januari 2022.
 
-#### Artikel 37. Bijzondere bekostiging voor leerlingen met een ernstige meervoudige beperking
+##### Artikel 37. Bijzondere bekostiging voor leerlingen met een ernstige meervoudige beperking
 
 1. Voor de toepassing van dit artikel wordt verstaan onder een leerling met een ernstige meervoudige beperking: een leerling met een combinatie van een ernstige of zeer ernstige verstandelijke beperking (IQ tot 35), een lichamelijke beperking en bijkomende stoornissen, voor wie naast extra ondersteuning in het onderwijs ook extra zorg nodig is, die op 1 oktober 2020 ingeschreven stond op een school voor (voortgezet) speciaal onderwijs en voor wie het bevoegd gezag bekostiging categorie 3 (hoog) ontvangt.
 
@@ -754,7 +780,7 @@ Ap = het aantal op de peildatum ingeschreven leerlingen dat asielzoeker of overi
 
 8. De Minister voor Primair en Voortgezet Onderwijs beslist uiterlijk in november 2021 op de aanvraag.
 
-#### Artikel 38. Bijzondere bekostiging voor de beloning van leraren die lesgeven aan leerlingen met het uitstroomprofiel vervolgonderwijs op een school waar voortgezet speciaal onderwijs wordt verzorgd
+##### Artikel 38. Bijzondere bekostiging voor de beloning van leraren die lesgeven aan leerlingen met het uitstroomprofiel vervolgonderwijs op een school waar voortgezet speciaal onderwijs wordt verzorgd
 
 1. Het bevoegd gezag van een instelling of een school waar voortgezet speciaal onderwijs wordt verzorgd, waar op 1 oktober 2020 ten minste 7 leerlingen met het uitstroomprofiel vervolgonderwijs waren ingeschreven en van wie het persoonsgebonden nummer tezamen met de basisgegevens, bedoeld in [artikel 8, eerste lid, onderdeel b, van de Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=8) uiterlijk op 1 december 2020 waren opgenomen in het register onderwijsdeelnemers overeenkomstig [artikel 14 van de Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=14), ontvangt bijzondere bekostiging voor personeel.
 
@@ -766,13 +792,13 @@ Ap = het aantal op de peildatum ingeschreven leerlingen dat asielzoeker of overi
 
 5. In de verantwoording over kalenderjaar 2021 en 2022 wordt aangegeven waar de bijzondere bekostiging voor de beloning van leraren die lesgeven aan leerlingen met het uitstroomprofiel vervolgonderwijs op een school waar voortgezet speciaal onderwijs wordt verzorgd aan besteed is, waarbij in ieder geval het aantal leraren dat een beloning heeft ontvangen wordt vermeld.
 
-#### Artikel 38a. Bijzondere bekostiging voor de beloning van leraren die lesgeven op een school waar (voortgezet) speciaal onderwijs wordt verzorgd en niet lesgeven aan leerlingen met het uitstroomprofiel vervolgonderwijs
+##### Artikel 38a. Bijzondere bekostiging voor de beloning van leraren die lesgeven op een school waar (voortgezet) speciaal onderwijs wordt verzorgd en niet lesgeven aan leerlingen met het uitstroomprofiel vervolgonderwijs
 
 1. Het bevoegd gezag van een instelling of een school waar (voortgezet) speciaal onderwijs wordt verzorgd ontvangt bijzondere bekostiging voor personeel.
 
 2. De bijzondere bekostiging bedraagt € 535,06 per ingeschreven so-leerling en vso-leerling op 1 oktober 2020, waarbij voor scholen die bijzondere bekostiging op grond van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=5&artikel=38&z=2022-08-31&g=2022-08-31) hebben ontvangen een aftrek plaatsvindt gelijk aan de berekening op grond van artikel 38 vermenigvuldigd met 58,33%.
 
-#### Artikel 39. Bijzondere bekostiging bij het samengaan van een basisschool met een speciale school voor basisonderwijs
+##### Artikel 39. Bijzondere bekostiging bij het samengaan van een basisschool met een speciale school voor basisonderwijs
 
 1. Het bevoegd gezag van een basisschool die per 1 augustus 2021 samengaat met een speciale school voor basisonderwijs, die wordt opgeheven met ingang van 1 augustus 2021 én waarvan blijkens de registratie in het register onderwijsdeelnemers ten minste de helft van de leerlingen op de eerste schooldag zijn ingeschreven op de basisschool, ontvangt op aanvraag de eerste zes schooljaren na samengaan bijzondere bekostiging voor personeel.
 
@@ -790,13 +816,13 @@ Ap = het aantal op de peildatum ingeschreven leerlingen dat asielzoeker of overi
 
 5. Het bevoegd gezag ontvangt de beschikking uiterlijk op 30 januari 2022.
 
-#### Artikel 40. Bedrag professionalisering en begeleiding starters en schoolleiders
+##### Artikel 40. Bedrag professionalisering en begeleiding starters en schoolleiders
 
 Het bedrag per leerling, bedoeld in [artikel 3, eerste lid, van de Regeling bijzondere bekostiging professionalisering en begeleiding starters en schoolleiders](https://wetten.overheid.nl/jci1.3:c:BWBR0045006&artikel=3) is voor het schooljaar 2021–2022 € 96,25.
 
 ### Hoofdstuk 6. Gewogen gemiddelde leeftijd en betaalritme
 
-#### Artikel 41. Nadere regels gewogen gemiddelde leeftijd
+##### Artikel 41. Nadere regels gewogen gemiddelde leeftijd
 
 1. De gewogen gemiddelde leeftijd op 1 oktober van het voorafgaande schooljaar, bedoeld in [artikel 11a van het Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=11a) en [artikel 10b van het Besluit bekostiging WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0004259&artikel=10b), zoals die luidden op 31 maart 2022, is de betrekkingsomvang aan de desbetreffende school van elke leraar op de school, vermenigvuldigd met diens leeftijd en vervolgens gedeeld door de som van de betrekkingsomvang van alle leraren op de school. Voor leraren ouder dan 50 jaar wordt voor de toepassing van de eerste volzin de leeftijd op 50 jaar vastgesteld. Indien de uitkomst van de berekening van de gewogen gemiddelde leeftijd, bedoeld in de eerste volzin, lager is dan 30 jaar wordt de gewogen gemiddelde leeftijd vastgesteld op 30 jaar. De in de eerste volzin bedoelde gewogen gemiddelde leeftijd wordt afgerond op 2 decimalen.
 
@@ -808,7 +834,7 @@ Het bedrag per leerling, bedoeld in [artikel 3, eerste lid, van de Regeling bijz
 
 5. Indien voor de mededeling van de gewogen gemiddelde leeftijd, bedoeld in [artikel 11a van het Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=11a) en [artikel 10b van het Besluit bekostiging WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0004259&artikel=10b), zoals die luidden op 31 maart 2022, gebruik wordt gemaakt van een geautomatiseerd systeem voor de salarisverwerking, wordt de gewogen gemiddelde leeftijd vastgesteld op basis van de gegevens die in november voorafgaande aan die mededeling door dat systeem zijn verwerkt.
 
-#### Artikel 42. Betaalritme
+##### Artikel 42. Betaalritme
 
 1. Tenzij in deze regeling anders is bepaald worden de bekostigingsbedragen, bedoeld in deze regeling, uitbetaald in maandelijkse termijnen van gelijke omvang.
 
@@ -832,21 +858,21 @@ Het bedrag per leerling, bedoeld in [artikel 3, eerste lid, van de Regeling bijz
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 43. Besteding
+##### Artikel 43. Besteding
 
 De bijzondere en de aanvullende bekostiging, verstrekt op grond van deze regeling, kunnen worden besteed aan alle activiteiten waarvoor bekostiging wordt verstrekt aan de basisschool, speciale school voor basisonderwijs, een school voor speciaal onderwijs, voortgezet speciaal onderwijs of speciaal en voortgezet speciaal onderwijs, een instelling, een samenwerkingsverband PO, een samenwerkingsverband VO of een school als bedoeld in de [WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 44. Intrekken andere regeling
+##### Artikel 44. Intrekken andere regeling
 
 De [Tweede Regeling bekostiging personeel PO 2021–2022 en vaststelling bedragen voor ondersteuning van leerlingen in het PO en VO 2021–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0045350) wordt ingetrokken.
 
-#### Artikel 45. Inwerkingtreding
+##### Artikel 45. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van publicatie van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 augustus 2021.
 
 2. Deze regeling heeft betrekking op het schooljaar 2021–2022 en vervalt met ingang van 1 augustus 2031.
 
-#### Artikel 46. Citeertitel
+##### Artikel 46. Citeertitel
 
 Deze regeling wordt aangehaald als: Definitieve Regeling bekostiging personeel PO 2021–2022 en vaststelling bedragen voor ondersteuning van leerlingen in het PO en VO 2021–2022.
 

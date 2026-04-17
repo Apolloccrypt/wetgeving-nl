@@ -1,18 +1,46 @@
 ---
-title: "Tijdelijke wet inframarginale elektriciteitsheffing"
+title: "Tijdelijke wet van 17 juli 2024 inzake invoering van een belasting op marktinkomsten van inframarginale elektriciteitsproductie overeenkomstig verordening (EU) 2022/1854 van de Raad van 6 oktober 2022 betreffende een noodinterventie in verband met de hoge energieprijzen (PbEU 2022, L 261 I) (Tijdelijke wet inframarginale elektriciteitsheffing)"
 identifier: "BWBR0050059"
-categorie: "Belastingrecht"
-publicatiedatum: 2024-07-25
-laatste_update: 2024-07-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050059"
+country: "nl"
+rank: "wet"
+publication_date: "2024-07-25"
+last_updated: "2024-07-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050059"
+soort: "wet"
+stam_id: "17188563"
+version_id: "30259872"
+internal_id: "C43339001"
+label_id: "17096744"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050059/2024-07-25/0"
+intitule_bron: "Stb.2024-224"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-07-17"
+intitule_published: "2024-07-24"
+intitule_in_force: "2024-07-24"
+intitule_status: "goed"
+original_publication: "Stb.2024-224"
+original_signed_date: "2024-07-17"
+original_published_date: "2024-07-24"
+original_effect: "nieuwe-regeling"
+original_dossier: "36453"
+original_url_id: "stb-2024-224"
+entry_into_force_date: "2024-07-25"
+entry_into_force_dossier: "36453"
+jci_1_3: "jci1.3:c:BWBR0050059&z=2024-07-25&g=2024-07-25"
+jci_1_0: "1.0:c:BWBR0050059&g=2024-07-25"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke wet inframarginale elektriciteitsheffing"
+signed_date: "2024-07-17"
+entry_into_force: "2024-07-25"
 ---
-
 # Tijdelijke wet van 17 juli 2024 inzake invoering van een belasting op marktinkomsten van inframarginale elektriciteitsproductie overeenkomstig verordening (EU) 2022/1854 van de Raad van 6 oktober 2022 betreffende een noodinterventie in verband met de hoge energieprijzen (PbEU 2022, L 261 I) (Tijdelijke wet inframarginale elektriciteitsheffing)
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. begripsbepalingen
+##### Artikel 1. begripsbepalingen
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -64,11 +92,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Belastingplichtige, belastbaar feit, heffingstijdvak, heffingsgrondslag en tarief
 
-#### Artikel 2. inframarginale elektriciteitsheffing
+##### Artikel 2. inframarginale elektriciteitsheffing
 
 Onder de naam inframarginale elektriciteitsheffing wordt een belasting geheven van producenten van elektriciteit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=2&artikel=3&z=2024-07-25&g=2024-07-25).
 
-#### Artikel 3. belastbaar feit
+##### Artikel 3. belastbaar feit
 
 1. De inframarginale elektriciteitsheffing wordt geheven over de marktinkomsten uit elektriciteit die in Nederland is opgewekt met behulp van een inframarginale energiebron of steenkool, met een productie-installatie met een geïnstalleerd vermogen als bedoeld in artikel 2, onderdeel 16, van [verordening 2016/631](32531R2016) vanaf 1 megawatt en die is ingevoed op het elektriciteitsnet of een directe lijn.
 
@@ -82,13 +110,13 @@ Onder de naam inframarginale elektriciteitsheffing wordt een belasting geheven v
 
 - c. inkomsten met betrekking tot elektriciteit als bedoeld in het eerste lid, uit de compensatie voor redispatching en compensatiehandel.
 
-#### Artikel 4. heffingstijdvak
+##### Artikel 4. heffingstijdvak
 
 1. De inframarginale elektriciteitsheffing wordt geheven over marktinkomsten uit elektriciteit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=2&artikel=3&z=2024-07-25&g=2024-07-25), die door de producent is opgewekt en ingevoed met ingang van 1 december 2022 tot 1 juli 2023.
 
 2. De inframarginale elektriciteitsheffing wordt verschuldigd op het tijdstip waarop het heffingstijdvak eindigt.
 
-#### Artikel 5. heffingsgrondslag
+##### Artikel 5. heffingsgrondslag
 
 1. De inframarginale elektriciteitsheffing wordt geheven over de som van de belastbare marktinkomsten uit door de producent in de kalendermaanden van het heffingstijdvak opgewekte en ingevoede elektriciteit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=2&artikel=3&z=2024-07-25&g=2024-07-25), welke som blijkt uit het marktinkomstenverslag.
 
@@ -98,13 +126,13 @@ Onder de naam inframarginale elektriciteitsheffing wordt een belasting geheven v
 
 - b. indien Onze Minister voor Klimaat en Energie ambtshalve de som van de belastbare marktinkomsten heeft vastgesteld overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=4&paragraaf=4.2&artikel=15&z=2024-07-25&g=2024-07-25) uit die ambtshalve vaststelling.
 
-#### Artikel 6. tarief
+##### Artikel 6. tarief
 
 De inframarginale elektriciteitsheffing bedraagt 90% van de som van de belastbare marktinkomsten uit elektriciteit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=2&artikel=3&z=2024-07-25&g=2024-07-25), die door de producent is opgewekt en ingevoed in de kalendermaanden van het heffingstijdvak.
 
 ### Hoofdstuk 3. Berekening belastbare marktinkomsten
 
-#### Artikel 7. belastbare marktinkomsten uit in een kalendermaand opgewekte en ingevoede elektriciteit
+##### Artikel 7. belastbare marktinkomsten uit in een kalendermaand opgewekte en ingevoede elektriciteit
 
 1. De belastbare marktinkomsten uit door de producent in een kalendermaand opgewekte en ingevoede elektriciteit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=2&artikel=3&z=2024-07-25&g=2024-07-25), zijn gelijk aan de som van de belastbare marktinkomsten uit door de producent in een kalendermaand uit elk van de energiebronnen waarvoor ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=3&artikel=9&z=2024-07-25&g=2024-07-25) een afzonderlijk vrijgesteld bedrag geldt, opgewekte en ingevoede elektriciteit als bedoeld in artikel 3, eerste lid.
 
@@ -144,7 +172,7 @@ VB staat voor: vrijgesteld bedrag van de marktinkomsten voor de energiebron, bed
 
 - b. kunnen nadere regels worden gesteld ten behoeve van de toepassing van het vierde, vijfde en zesde lid.
 
-#### Artikel 8. gemiddelde marktinkomsten per megawattuur uit in een kalendermaand per uur opgewekte en ingevoede elektriciteit
+##### Artikel 8. gemiddelde marktinkomsten per megawattuur uit in een kalendermaand per uur opgewekte en ingevoede elektriciteit
 
 1. De gemiddelde marktinkomsten per megawattuur uit door de producent in een kalendermaand per uur uit een energiebron waarvoor ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=3&artikel=9&z=2024-07-25&g=2024-07-25) een afzonderlijk vrijgesteld bedrag geldt, opgewekte en ingevoede elektriciteit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=2&artikel=3&z=2024-07-25&g=2024-07-25), worden berekend volgens de formule:
 
@@ -180,7 +208,7 @@ P(uur) staat voor: prijs voor elektriciteit voor het betreffende uur in de kalen
 
 - c. de prijs voor elektriciteit op de day-ahead-markt voor de biedzone Nederland voor de uren in de kalendermaanden van het heffingstijdvak, bedoeld in het derde lid.
 
-#### Artikel 9. vrijgesteld bedrag van de marktinkomsten
+##### Artikel 9. vrijgesteld bedrag van de marktinkomsten
 
 Het bedrag van de marktinkomsten per megawattuur dat is vrijgesteld van de inframarginale elektriciteitsheffing is:
 
@@ -216,7 +244,7 @@ energiedichtheid staat voor: energiedichtheid in megajoule per ton volgens de st
 
 elektrisch rendement staat voor: elektrisch rendement op basis van de verleende omgevingsvergunning, uitgedrukt in procenten.
 
-#### Artikel 10. alternatief voor berekening belastbare marktinkomsten uit in een kalendermaand opgewekte en ingevoede elektriciteit
+##### Artikel 10. alternatief voor berekening belastbare marktinkomsten uit in een kalendermaand opgewekte en ingevoede elektriciteit
 
 1. In afwijking van [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=3&artikel=7&z=2024-07-25&g=2024-07-25), en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=3&artikel=8&z=2024-07-25&g=2024-07-25), kan een producent de belastbare marktinkomsten uit door hem in een kalendermaand opgewekte en ingevoede elektriciteit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=2&artikel=3&z=2024-07-25&g=2024-07-25), voor elk van de kalendermaanden in het heffingstijdvak en elk van de energiebronnen waarvoor ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=3&artikel=9&z=2024-07-25&g=2024-07-25) een afzonderlijk bedrag geldt, berekenen met overeenkomstige toepassing van de formule, bedoeld [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=3&artikel=7&z=2024-07-25&g=2024-07-25), met dien verstande dat:
 
@@ -268,7 +296,7 @@ HE staat voor: de hoeveelheid door de producent in de kalendermaand uit de energ
 
 ### Hoofdstuk 4. Marktinkomstenverslag en administratieplicht
 
-#### Artikel 19. [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) en [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770)
+##### Artikel 19. [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) en [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770)
 
 1. De [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) is niet van toepassing op de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=3&z=2024-07-25&g=2024-07-25) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=4&z=2024-07-25&g=2024-07-25) van deze wet.
 
@@ -276,13 +304,13 @@ HE staat voor: de hoeveelheid door de producent in de kalendermaand uit de energ
 
 3. [Artikel 36 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36) is van overeenkomstige toepassing op de inframarginale elektriciteitsheffing.
 
-#### Artikel 20. voldoening op aangifte
+##### Artikel 20. voldoening op aangifte
 
 1. De verschuldigde belasting wordt op aangifte voldaan.
 
 2. In afwijking van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10), en [artikel 19, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19) wordt aangifte gedaan en wordt op die aangifte voldaan voor 1 april 2025.
 
-#### Artikel 21. naheffing, teruggaaf en verjaring
+##### Artikel 21. naheffing, teruggaaf en verjaring
 
 1. Indien de belasting die op aangifte behoort te worden voldaan geheel of gedeeltelijk niet is betaald, of indien te veel is betaald, heft de inspecteur, in afwijking in zoverre van [artikel 20, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=20), de te weinig geheven belasting na, respectievelijk verleent de inspecteur teruggaaf van hetgeen te veel is geheven.
 
@@ -300,7 +328,7 @@ HE staat voor: de hoeveelheid door de producent in de kalendermaand uit de energ
 
 6. De teruggaaf, bedoeld in het eerste lid, tweede lid, onderdeel b, vierde of vijfde lid wordt vastgesteld bij voor bezwaar vatbare beschikking.
 
-#### Artikel 22. belastingrente
+##### Artikel 22. belastingrente
 
 1. Met betrekking tot een naheffingsaanslag als bedoeld in [artikel 21, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=5&artikel=21&z=2024-07-25&g=2024-07-25), wordt belastingrente als bedoeld in [Hoofdstuk VA van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA) in rekening gebracht. De belastingrente wordt enkelvoudig berekend over het tijdvak dat aanvangt op 1 april 2025 en eindigt op de dag voorafgaand aan de dag waarop de naheffingsaanslag invorderbaar is ingevolge [artikel 9 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=9) en heeft als grondslag de nageheven inframarginale elektriciteitsheffing. Het tijdvak waarover de belastingrente wordt berekend eindigt uiterlijk veertien weken na het tijdstip waarop het nieuwe marktinkomstenverslag is ingediend of de ambtshalve vaststelling van de som van de belastbare marktinkomsten onherroepelijk is geworden.
 
@@ -312,21 +340,21 @@ HE staat voor: de hoeveelheid door de producent in de kalendermaand uit de energ
 
 ### Hoofdstuk 6. Overige en slotbepalingen
 
-#### Artikel 23. gegevensverstrekking
+##### Artikel 23. gegevensverstrekking
 
 Onze Minister voor Klimaat en Energie, de Autoriteit Consument en Markt en de rijksbelastingdienst verstrekken elkaar op verzoek de gegevens die nodig zijn voor de uitvoering van deze wet.
 
-#### Artikel 24. bevoegdheidsregeling bestuursrechtspraak
+##### Artikel 24. bevoegdheidsregeling bestuursrechtspraak
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel 25. inwerkingtreding en werkingsduur
+##### Artikel 25. inwerkingtreding en werkingsduur
 
 1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt ten aanzien van de [artikelen 1 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=1&artikel=1&z=2024-07-25&g=2024-07-25) en de [artikelen 19 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=5&artikel=19&z=2024-07-25&g=2024-07-25) terug tot en met 1 december 2022.
 
 2. Deze wet vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 26. citeertitel
+##### Artikel 26. citeertitel
 
 Deze wet wordt aangehaald als: Tijdelijke wet inframarginale elektriciteitsheffing.
 
@@ -344,7 +372,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 #### Paragraaf 4.1. marktinkomstenverslag en administratie
 
-#### Artikel 11. marktinkomstenverslag
+##### Artikel 11. marktinkomstenverslag
 
 1. Een producent of, indien de producent deel uitmaakt van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b), de groepsmaatschappij die in Nederland aan het hoofd staat van de groep, stelt een marktinkomstenverslag op waaruit de som van de belastbare marktinkomsten uit door de producent in de kalendermaanden van het heffingstijdvak opgewekte en ingevoede elektriciteit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=2&artikel=3&z=2024-07-25&g=2024-07-25), blijkt.
 
@@ -406,7 +434,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 - c. worden regels gesteld over de verificatie van de getrouwheid van het marktinkomstenverslag, bedoeld in het vierde lid.
 
-#### Artikel 12. administratieplicht
+##### Artikel 12. administratieplicht
 
 1. De producent houdt ten aanzien van elektriciteit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=2&artikel=3&z=2024-07-25&g=2024-07-25), per kalendermaand van het heffingstijdvak een administratie bij van:
 
@@ -426,15 +454,15 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 #### Paragraaf 4.2. controle en handhaving
 
-#### Artikel 13. toezicht op de naleving
+##### Artikel 13. toezicht op de naleving
 
 Met het toezicht op de naleving van het bij of krachtens [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=4&paragraaf=4.1&z=2024-07-25&g=2024-07-25) bepaalde zijn belast de bij besluit van Onze Minister voor Klimaat en Energie daartoe aangewezen ambtenaren van de Nederlandse emissieautoriteit.
 
-#### Artikel 14. opstellen nieuw marktinkomstenverslag
+##### Artikel 14. opstellen nieuw marktinkomstenverslag
 
 Indien een marktinkomstenverslag niet voldoet aan de eisen die daaraan bij of krachtens deze wet zijn gesteld kan Onze Minister voor Klimaat en Energie een producent of een groepsmaatschappij die in Nederland aan het hoofd staat van de groep als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=4&paragraaf=4.1&artikel=11&z=2024-07-25&g=2024-07-25), verplichten binnen een redelijke termijn een nieuw marktinkomstenverslag in te dienen, met inachtneming van de aanwijzingen van Onze Minister voor Klimaat en Energie.
 
-#### Artikel 15. ambtshalve vaststellen van de som van de belastbare marktinkomsten
+##### Artikel 15. ambtshalve vaststellen van de som van de belastbare marktinkomsten
 
 1. Onze Minister voor Klimaat en Energie kan ambtshalve de som van de belastbare marktinkomsten van een producent uit door hem in de kalendermaanden van het heffingstijdvak opgewekte en ingevoede elektriciteit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=2&artikel=3&z=2024-07-25&g=2024-07-25), vaststellen indien:
 
@@ -448,7 +476,7 @@ Indien een marktinkomstenverslag niet voldoet aan de eisen die daaraan bij of kr
 
 2. Indien Onze Minister voor Klimaat en Energie de som van de belastbare marktinkomsten van een producent uit door hem in de kalendermaanden van het heffingstijdvak opgewekte elektriciteit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=2&artikel=3&z=2024-07-25&g=2024-07-25), ambtshalve vaststelt kan hij daarbij uitgaan van een schatting van belastbare marktinkomsten of de daarbij gebruikte gegevens.
 
-#### Artikel 16. last onder dwangsom en bestuurlijke boete
+##### Artikel 16. last onder dwangsom en bestuurlijke boete
 
 1. In geval van overtreding van het bepaalde bij of krachtens de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=4&paragraaf=4.1&artikel=11&z=2024-07-25&g=2024-07-25), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=4&paragraaf=4.1&artikel=12&z=2024-07-25&g=2024-07-25) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=4&paragraaf=4.2&artikel=14&z=2024-07-25&g=2024-07-25), kan Onze Minister voor Klimaat en Energie opleggen:
 
@@ -458,11 +486,11 @@ Indien een marktinkomstenverslag niet voldoet aan de eisen die daaraan bij of kr
 
 2. De op grond van het eerste lid, onderdeel b, op te leggen bestuurlijke boete bedraagt ten hoogste het bedrag dat is vastgesteld voor de zesde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23) of, indien dat meer is, ten hoogste 10% van de omzet van de onderneming, in het boekjaar voorafgaand aan de beschikking waarin de bestuurlijke boete wordt opgelegd.
 
-#### Artikel 17. advisering
+##### Artikel 17. advisering
 
 De Autoriteit Consument en Markt adviseert Onze Minister voor Klimaat en Energie op diens verzoek over het toezicht, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=4&paragraaf=4.2&artikel=13&z=2024-07-25&g=2024-07-25), of door hem op grond van de [artikelen 14 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=4&paragraaf=4.2&artikel=14&z=2024-07-25&g=2024-07-25) te nemen besluiten.
 
-#### Artikel 18. misbruik van recht
+##### Artikel 18. misbruik van recht
 
 Voor de toepassing van het bij of krachtens [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&hoofdstuk=4&z=2024-07-25&g=2024-07-25) bepaalde wordt geen rekening gehouden met handelingen waarvan, op grond van de omstandigheid dat zij geen wezenlijke verandering van feitelijke verhoudingen ten doel hebben gehad of op grond van andere bepaalde feiten en omstandigheden, moet worden aangenomen dat zij achterwege zouden zijn gebleven, indien daarmee niet de toepassing van deze wet voor het vervolg geheel of ten dele onmogelijk zou worden gemaakt.
 

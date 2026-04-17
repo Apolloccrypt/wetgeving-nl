@@ -1,16 +1,42 @@
 ---
-title: "Mandaatbesluit Hoofddirectie Bedrijfsvoering Ministerie van Justitie en Veiligheid 2022"
+title: "Besluit van de hoofddirecteur bedrijfsvoering van 12 juni 2023 (kenmerk 4657710/23/DP&O), verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de hoofddirecteur bedrijfsvoering ressorterende ambtenaren (Mandaatbesluit Hoofddirectie Bedrijfsvoering Ministerie van Justitie en Veiligheid 2022)"
 identifier: "BWBR0048315"
-categorie: "Strafrecht"
-publicatiedatum: 2024-03-13
-laatste_update: 2024-03-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048315"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-03-13"
+last_updated: "2024-03-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048315"
+soort: "ministeriele-regeling"
+stam_id: "16781063"
+version_id: "29975712"
+internal_id: "C42976901"
+label_id: "16696204"
+dtd_version: "2.0"
+original_entry_into_force: "2024-02-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048315/2024-03-13/0"
+intitule_bron: "Stcrt.2023-17903"
+intitule_effect: "wijziging"
+intitule_signed: "2023-06-12"
+intitule_published: "2023-06-26"
+intitule_in_force: "2023-06-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-5665"
+original_signed_date: "2024-02-12"
+original_published_date: "2024-02-26"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-5665"
+entry_into_force_date: "2024-02-12"
+jci_1_3: "jci1.3:c:BWBR0048315&z=2024-03-13&g=2024-03-13"
+jci_1_0: "1.0:c:BWBR0048315&g=2024-03-13"
+citeertitel_status: "officieel"
+short_title: "Mandaatbesluit Hoofddirectie Bedrijfsvoering Ministerie van Justitie en Veiligheid 2022"
+signed_date: "2024-02-12"
+entry_into_force: "2024-02-12"
 ---
-
 # Besluit van de hoofddirecteur bedrijfsvoering van 12 juni 2023 (kenmerk 4657710/23/DP&O), verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de hoofddirecteur bedrijfsvoering ressorterende ambtenaren (Mandaatbesluit Hoofddirectie Bedrijfsvoering Ministerie van Justitie en Veiligheid 2022)
 
-#### Artikel 1
+##### Artikel 1
 
 1. Van het ingevolge [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041688&artikel=1) en [artikel 1A, eerste lid van het Mandaatbesluit hoofden clusters van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041688&artikel=1a) aan de hoofddirecteur bedrijfsvoering verleende ondermandaat, wordt ten aanzien van de aangelegenheden die hun dienstonderdeel betreffen ondermandaat verleend aan:
 
@@ -30,23 +56,23 @@ bron: "https://wetten.overheid.nl/BWBR0048315"
 
 3. Van het ingevolge [artikel 1 van het Mandaatbesluit hoofden clusters Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041688&artikel=1) aan de hoofddirecteur bedrijfsvoering verleende ondermandaat wordt ondermandaat gegeven aan de directeur Wetgeving en Juridische Zaken inzake besluiten en klachtenprocedures op grond van de Algemene verordening gegevensbescherming, verzoeken op grond van de [Wet hergebruik van overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795), klachten, subsidiebesluiten, beleidsregels en Nationale ombudsmanprocedures.
 
-#### Artikel 2
+##### Artikel 2
 
 Tot het verlenen van volmacht om op te treden als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hen ressorterende functionarissen, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&bijlage=1&z=2024-03-13&g=2024-03-13) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
 
-#### Artikel 3
+##### Artikel 3
 
 Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&bijlage=2&z=2024-03-13&g=2024-03-13) bij deze regeling voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
 
-#### Artikel 4
+##### Artikel 4
 
 Aan de hoofddirecteur bedrijfsvoering blijft voorbehouden de bevoegdheid om beslissingen te nemen inzake aanstelling, bevordering en ontslag van alsmede treffen van disciplinaire maatregelen jegens functionarissen op managementfuncties van schaal 14 en hoger direct onder het niveau van het hoofd van de directie, de dienst, het bureau of het programma.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 31 maart 2022.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: Mandaatbesluit Hoofddirectie Bedrijfsvoering Ministerie van Justitie en Veiligheid 2022.
 
@@ -156,7 +182,7 @@ De functionarissen bij wie in **kolom 2 de letter B** is geplaatst, zijn, onverm
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. Aan de directeur van de directie Openbaarmaking wordt ondermandaat verleend ten aanzien van het nemen van besluiten op verzoeken op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) en daarmee samenhangende beslissingen voor zover deze verzoeken betrekking hebben op aangelegenheden die de cluster, genoemd in [artikel 2, tweede lid, onderdelen a tot en met i van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2), betreffen.
 

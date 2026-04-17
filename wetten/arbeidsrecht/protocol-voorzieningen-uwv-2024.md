@@ -1,32 +1,57 @@
 ---
 title: "Protocol Voorzieningen UWV 2024"
 identifier: "BWBR0049587"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2024-04-19
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049587"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-04-19"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049587"
+soort: "zbo"
+stam_id: "17077393"
+version_id: "30054312"
+internal_id: "C43073481"
+label_id: "16986124"
+dtd_version: "2.0"
+original_entry_into_force: "2024-04-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049587/2024-04-19/0"
+intitule_bron: "Stcrt.2024-12532"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-03-19"
+intitule_published: "2024-04-18"
+intitule_in_force: "2024-04-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-12532"
+original_signed_date: "2024-03-19"
+original_published_date: "2024-04-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-12532"
+entry_into_force_date: "2024-04-19"
+jci_1_3: "jci1.3:c:BWBR0049587&z=2024-04-19&g=2024-04-19"
+jci_1_0: "1.0:c:BWBR0049587&g=2024-04-19"
+citeertitel_status: "officieel"
+signed_date: "2024-03-19"
+entry_into_force: "2024-04-19"
 ---
-
 # Protocol Voorzieningen UWV 2024
 
 Gelet op het bepaalde in de [artikelen 34a](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34a), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) en [36 Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=36), de [artikelen 2:22](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:22) en [2:23 Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:23), [artikel 19a Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a), [artikel 3a.1.1. Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=3a.1.1), de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7) en [10g Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10g) en het [Besluit experimentele subsidie generieke werkgeversvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0045276);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het Uitvoeringsinstituut werknemersverzekeringen hanteert bij het beoordelen van aanvragen om voorzieningen, zoals de intermediaire activiteit w.o. een tolkvoorziening, vervoers- en computervoorziening in de werk- en onderwijssituatie, meeneembare voorzieningen alsmede voor de subsidieregeling werkgever en de pilot en het experiment ‘subsidie Generieke werkgeversvoorzieningen’ de uitgangspunten zoals weergegeven in het Protocol Voorzieningen UWV 2024 dat als bijlage bij dit besluit is gevoegd.
 
-#### Artikel 2
+##### Artikel 2
 
 Het [Protocol Voorzieningen UWV 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0046028) (besluit van 16 november 2021, gepubliceerd in Staatscourant 49481 van 15 december 2021) wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2024.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Protocol Voorzieningen UWV 2024.
 

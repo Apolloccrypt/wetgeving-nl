@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel SARS-CoV-2 virus extra kosten Wlz 2022"
+title: "Beleidsregel SARS-CoV-2 virus extra kosten Wlz 2022, Nederlandse Zorgautoriteit"
 identifier: "BWBR0046530"
-categorie: "Sociaal recht"
-publicatiedatum: 2022-04-07
-laatste_update: 2022-04-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046530"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-04-07"
+last_updated: "2022-04-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046530"
+soort: "zbo"
+stam_id: "16322493"
+version_id: "28533752"
+internal_id: "C40259801"
+label_id: "16247474"
+dtd_version: "2.0"
+original_entry_into_force: "2022-04-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046530/2022-04-07/0"
+intitule_bron: "Stcrt.2022-9252"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-03-29"
+intitule_published: "2022-04-06"
+intitule_in_force: "2022-04-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-9252"
+original_signed_date: "2022-03-29"
+original_published_date: "2022-04-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-9252"
+entry_into_force_date: "2022-04-07"
+jci_1_3: "jci1.3:c:BWBR0046530&z=2022-04-07&g=2022-04-07"
+jci_1_0: "1.0:c:BWBR0046530&g=2022-04-07"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel SARS-CoV-2 virus extra kosten Wlz 2022"
+signed_date: "2022-03-29"
+entry_into_force: "2022-04-07"
 ---
-
 # Beleidsregel SARS-CoV-2 virus extra kosten Wlz 2022, Nederlandse Zorgautoriteit
 
 **Grondslag**
@@ -16,7 +42,7 @@ Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening ge
 
 Gelet op [artikel 52, aanhef en onderdeel e, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=52), worden tarieven die uit de voorliggende beleidsregel voortvloeien ambtshalve vastgesteld door de NZa.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -32,7 +58,7 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - **Stimuleringsregeling E-health Thuis:** [Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 10 december 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041840), kenmerk 1457861-185083, houdende stimulering van activiteiten ten behoeve van het opschalen en borgen van het gebruik van e-health toepassingen die ondersteuning of zorg thuis faciliteren. Deze is uitgebreid, met het oog op extra inzet van digitale zorg op afstand voor mensen thuis vanwege SARS-CoV-2 (SET COVID-19).
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Met deze beleidsregel worden de voorwaarden voor vergoeding en wijze van indiening bij de NZa van extra kosten die het gevolg zijn van het SARS-CoV-2 virus vastgelegd. Het gaat hierbij om personele en materiële kosten die het directe gevolg zijn van de uitbraak van het coronavirus en noodzakelijk zijn om de zorg aan Wlz-cliënten veilig en verantwoord te kunnen leveren. Deze beleidsregel legt tevens vast op welke wijze wordt afgeweken van andere, in de beleidsregel nader genoemde, regelgeving. Deze beleidsregel is de uitwerking van de volgende brieven van het Ministerie van Volksgezondheid, Welzijn en Sport (VWS):
 
@@ -48,11 +74,11 @@ Met deze beleidsregel worden de voorwaarden voor vergoeding en wijze van indieni
 
 - –. brief Stand van zakenbrief Covid-19 van Ministerie van VWS aan de Kamer, kenmerk 3306279-1022966-PDC19. Met daarin het onderwerp: ‘Zelftesten opnemen in meerkostenregelingen Wet langdurige zorg’.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op de zorg of dienst als omschreven bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) (Wlz) die wordt geleverd door zorgaanbieders.
 
-#### Artikel 4. Financiering van extra gemaakte kosten
+##### Artikel 4. Financiering van extra gemaakte kosten
 
 Zorgaanbieders maken mogelijk extra kosten in verband met het SARS-CoV-2 virus waardoor de zorg veilig en verantwoord kan worden geleverd. Deze extra kosten worden onderverdeeld in:
 
@@ -146,7 +172,7 @@ De vergoeding van extra gemaakte kosten is geen onderdeel van de productieafspra
 
 De NZa zal de vergoeding voor de extra kosten als gevolg van het SARS-CoV-2 virus opnemen in het sluittarief.
 
-#### Artikel 5. Berekening en verantwoording
+##### Artikel 5. Berekening en verantwoording
 
 De berekening van de onder [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4&z=2022-04-07&g=2022-04-07) van deze beleidsregel genoemde kosten en de verantwoording/verslaglegging hiervan steunt zoveel als mogelijk op de handreiking die in samenwerking door brancheorganisaties en Fizi wordt gepubliceerd.
 
@@ -154,7 +180,7 @@ Voor de toerekening van de financiering van extra gemaakte kosten in [artikel 4]
 
 Voor de toerekening van de financiering van extra gemaakte kosten in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4&z=2022-04-07&g=2022-04-07) van deze beleidsregel naar de verschillende zorgkantoorregio’s worden verdeelsleutels gehanteerd.
 
-#### Artikel 6. Procedure
+##### Artikel 6. Procedure
 
 1. Opgave extra kosten 2022 in herschikking
 
@@ -224,7 +250,7 @@ Waar de NZa tweezijdige indiening tot uitgangspunt neemt, kunnen zorgaanbieder e
 
 Indien een eenzijdige opgave wordt ingediend, vergewist de NZa zich van de grondslag van de weigering van het zorgkantoor/de Wlz-uitvoerder of de zorgaanbieder om de opgave mede te ondertekenen. Een eenzijdige opgave wijst de NZa af, tenzij de NZa de weigering van het zorgkantoor/de Wlz-uitvoerder of de zorgaanbieder kennelijk onredelijk acht.
 
-#### Artikel 7. Beleidsregels
+##### Artikel 7. Beleidsregels
 
 Bij de uitoefening van haar taken en bevoegdheden past de NZa haar beleidsregels toe. Voor zover in het kader van deze beleidsregel daarvan wordt afgeweken, is dat in dit artikel beschreven.
 
@@ -234,7 +260,7 @@ In aanvulling op dit artikel bevat de nacalculatie-opgave over het jaar 2022 tev
 
 Bij enkele onderdelen van de nacalculatie-opgave is eenzijdige indiening niet mogelijk. In aanvulling op de opsomming in onderdeel b) van dit artikel geldt dat de opgave van kosten die het gevolg zijn van de uitbraak van het SARS-CoV-2 virus onderdeel is van de nacalculatie waarbij de zorgaanbieder en het zorgkantoor/de Wlz-uitvoerder verplicht zijn tweezijdig in te dienen.
 
-#### Artikel 8. Regelingen
+##### Artikel 8. Regelingen
 
 Bij de uitoefening van haar taken en bevoegdheden, past de NZa haar regelingen toe. Voor zover in het kader van deze beleidsregel daarvan wordt afgeweken, is dat in dit artikel beschreven.
 
@@ -252,13 +278,13 @@ In aanvulling op de genoemde artikelen, geldt voor zorgaanbieders voor de toepas
 
 In aanvulling op de [Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0045785) zal de nacalculatie-opgave 2022 tevens de onderdelen zoals genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4&z=2022-04-07&g=2022-04-07) van deze beleidsregel bevatten. In de toelichting op de vragenlijst controleprotocol neemt de zorgaanbieder de aansluiting op tussen de [bijlage in de jaarrekening] en de nacalculatie-opgave. De accountant waarmerkt de toelichting bij de vragenlijst controleprotocol. Deze werkwijze zal worden beschreven in het nog te publiceren Controleprotocol nacalculatie 2022 Wlz-zorgaanbieders.
 
-#### Artikel 9. Intrekken/vervallen oude beleidsregel
+##### Artikel 9. Intrekken/vervallen oude beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel, wordt de [Beleidsregel SARS-CoV-2 virus extra kosten Wlz 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046288), met kenmerk BR/REG-22159, ingetrokken.
 
 De Beleidsregel SARS-CoV-2 virus extra kosten Wlz 2021, met kenmerk BR/REG-21149b, die een geldigheidsduur heeft tot en met 31 mei 2022, komt op laatstgenoemde datum van rechtswege te vervallen.
 
-#### Artikel 10. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
+##### Artikel 10. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
 
 De Beleidsregel SARS-CoV-2 virus extra kosten Wlz 2021, met kenmerk BR/REG-21149b, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

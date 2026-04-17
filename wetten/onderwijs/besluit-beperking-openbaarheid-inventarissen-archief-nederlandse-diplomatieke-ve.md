@@ -1,13 +1,39 @@
 ---
-title: "Besluit beperking openbaarheid inventarissen archief Nederlandse diplomatieke vertegenwoordiging Griekenland"
+title: "Besluit van de Minister van Buitenlandse Zaken van 18 april 2018, houdende de beperking van de openbaarheid van een aantal inventarissen van het archief van de Nederlandse diplomatieke vertegenwoordiging in Griekenland"
 identifier: "BWBR0040868"
-categorie: "Onderwijs"
-publicatiedatum: 2018-05-02
-laatste_update: 2018-05-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040868"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-05-02"
+last_updated: "2018-05-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040868"
+soort: "ministeriele-regeling"
+stam_id: "14598263"
+version_id: "24996782"
+internal_id: "C35753041"
+label_id: "14551824"
+dtd_version: "2.0"
+original_entry_into_force: "2018-05-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040868/2018-05-02/0"
+intitule_bron: "Stcrt.2018-23651"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-04-18"
+intitule_published: "2018-05-01"
+intitule_in_force: "2018-05-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-23651"
+original_signed_date: "2018-04-18"
+original_published_date: "2018-05-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-23651"
+entry_into_force_date: "2018-05-02"
+jci_1_3: "jci1.3:c:BWBR0040868&z=2018-05-02&g=2018-05-02"
+jci_1_0: "1.0:c:BWBR0040868&g=2018-05-02"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid inventarissen archief Nederlandse diplomatieke vertegenwoordiging Griekenland"
+signed_date: "2018-04-18"
+entry_into_force: "2018-05-02"
 ---
-
 # Besluit van de Minister van Buitenlandse Zaken van 18 april 2018, houdende de beperking van de openbaarheid van een aantal inventarissen van het archief van de Nederlandse diplomatieke vertegenwoordiging in Griekenland
 
 Overwegende dat een aantal inventarisnummers in het archief beperkingen aan de openbaarheid behoeven;
@@ -16,7 +42,7 @@ Gelet op [artikel 15, eerste lid, onder a en b, van de Archiefwet 1995](https://
 
 Besluit
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de bescherming van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom, beperkt tot 1 januari van het jaar, genoemd in de tweede kolom.
 
@@ -31,7 +57,7 @@ Met het oog op de bescherming van de persoonlijke levenssfeer zijn de inventaris
 | 380 | 2067 |
 | 161 | 2082 |
 
-#### Artikel 2
+##### Artikel 2
 
 Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede klom.
 
@@ -65,17 +91,17 @@ Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnum
 | 611 | 2040 |
 | 660 | 2063 |
 
-#### Artikel 3
+##### Artikel 3
 
 1. Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040868&artikel=1&z=2018-05-02&g=2018-05-02), is tot openbaring uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris die aan zijn toestemming voorwaarden kan verbinden.
 
 2. Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040868&artikel=2&z=2018-05-02&g=2018-05-02), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van het hieronder vermelde overheidsorgaan.
 
-#### Artikel 4
+##### Artikel 4
 
 Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040868&artikel=1&z=2018-05-02&g=2018-05-02), is tot openbaarwording uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris die aan zijn toestemming voorwaarden kan verbinden.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

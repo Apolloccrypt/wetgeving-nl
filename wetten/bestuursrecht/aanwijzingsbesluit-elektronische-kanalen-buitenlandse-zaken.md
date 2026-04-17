@@ -1,20 +1,46 @@
 ---
-title: "Aanwijzingsbesluit elektronische kanalen Buitenlandse Zaken"
+title: "Besluit van de Minister van Buitenlandse Zaken van 9 december 2025, BZ2523017, tot aanwijzing van elektronische kanalen voor het verzenden van berichten aan het Ministerie van Buitenlandse Zaken (Aanwijzingsbesluit elektronische kanalen Buitenlandse Zaken)"
 identifier: "BWBR0051986"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051986"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051986"
+soort: "ministeriele-regeling"
+stam_id: "17685883"
+version_id: "31208092"
+internal_id: "C44640361"
+label_id: "17584954"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051986/2026-01-01/0"
+intitule_bron: "Stcrt.2025-43119"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-09"
+intitule_published: "2025-12-15"
+intitule_in_force: "2025-12-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-43119"
+original_signed_date: "2025-12-09"
+original_published_date: "2025-12-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-43119"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051986&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051986&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Aanwijzingsbesluit elektronische kanalen Buitenlandse Zaken"
+signed_date: "2025-12-09"
+entry_into_force: "2026-01-01"
 ---
-
 # Besluit van de Minister van Buitenlandse Zaken van 9 december 2025, BZ2523017, tot aanwijzing van elektronische kanalen voor het verzenden van berichten aan het Ministerie van Buitenlandse Zaken (Aanwijzingsbesluit elektronische kanalen Buitenlandse Zaken)
 
 Gelet op [artikel 2:13, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:13);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -24,27 +50,27 @@ In dit besluit wordt verstaan onder:
 
 - –. **kanaal:** een aangewezen wijze van elektronisch verzenden van een bericht als bedoeld in [artikel 2:13, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:13).
 
-#### Artikel 2. Aanwijzing algemene kanalen
+##### Artikel 2. Aanwijzing algemene kanalen
 
 1. Berichten die de verzender uit eigen beweging verzendt, worden verzonden naar de kanalen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051986&bijlage=1&z=2026-01-01&g=2026-01-01).
 
 2. Berichten die op verzoek van de bewindspersoon worden verzonden, worden verzonden naar het in de uitnodiging genoemde kanaal.
 
-#### Artikel 3. Aanwijzing specifieke kanalen
+##### Artikel 3. Aanwijzing specifieke kanalen
 
 De bewindspersoon wijst voor ieder type bericht de specifieke kanalen, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051986&bijlage=2&z=2026-01-01&g=2026-01-01), aan.
 
-#### Artikel 4. Overige manieren van communiceren
+##### Artikel 4. Overige manieren van communiceren
 
 1. Voor berichten waarvoor in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051986&artikel=2&z=2026-01-01&g=2026-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0051986&artikel=3&z=2026-01-01&g=2026-01-01) geen expliciet kanaal is aangewezen en een wettelijk voorschrift niet anders bepaalt, wordt het algemeen contactformulier van het Ministerie van Buitenlandse Zaken gebruikt.
 
 2. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051986&artikel=2&z=2026-01-01&g=2026-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0051986&artikel=3&z=2026-01-01&g=2026-01-01) en [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051986&artikel=4&z=2026-01-01&g=2026-01-01), houden burgers, bedrijven, stichtingen en andere rechtspersonen de mogelijkheid om op andere manieren te communiceren met het Ministerie van Buitenlandse Zaken, zoals per telefoon, per post of op afspraak.
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2026.
 
-#### Artikel 6. Citeertitel
+##### Artikel 6. Citeertitel
 
 Dit besluit wordt aangehaald als: Aanwijzingsbesluit elektronische kanalen Buitenlandse Zaken.
 

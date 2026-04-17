@@ -1,14 +1,41 @@
 ---
-title: "Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba"
+title: "Wet van 17 mei 2010, houdende regels met betrekking tot de financiële functie van de openbare lichamen Bonaire, Sint Eustatius en Saba, hun bevoegdheid tot het heffen van belastingen en hun financiële verhouding met het Rijk (Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba)"
 identifier: "BWBR0028151"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028151"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028151"
+soort: "wet-BES"
+stam_id: "10679993"
+version_id: "17640312"
+internal_id: "C24925041"
+label_id: "10655814"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028151/2023-01-01/0"
+intitule_bron: "Stb.2010-365"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-05-17"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-365"
+original_signed_date: "2010-05-17"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_dossier: "31958"
+original_url_id: "stb-2010-365"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028151&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0028151&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba"
+signed_date: "2010-05-17"
+entry_into_force: "2010-10-10"
 ---
-
-# Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba
+# Wet van 17 mei 2010, houdende regels met betrekking tot de financiële functie van de openbare lichamen Bonaire, Sint Eustatius en Saba, hun bevoegdheid tot het heffen van belastingen en hun financiële verhouding met het Rijk (Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +47,7 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uu
 
 ### Hoofdstuk I. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder
 
@@ -46,7 +73,7 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uu
 
 ### Hoofdstuk II. Het College financieel toezicht Bonaire, Sint Eustatius en Saba
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een College financieel toezicht Bonaire, Sint Eustatius en Saba.
 
@@ -72,7 +99,7 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uu
 
 9. Onze Minister stelt de vaste vergoeding van de leden van het College vast. Hierbij wordt de toepasselijke salarisschaal van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de toepasselijke deeltijdfactor aangegeven. De leden hebben voorts overeenkomstig het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889) en het [Reisbesluit buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006842) recht op vergoeding van reis- en verblijfskosten. Daarnaast hebben de leden op declaratiebasis recht op vergoeding van kosten van internationale telefoongesprekken die zij maken in het kader van de werkzaamheden voor het College.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een lid van het College financieel toezicht kan niet tevens zijn:
 
@@ -100,7 +127,7 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uu
 
 4. Het College maakt de nevenfuncties van een lid openbaar. Openbaarmaking geschiedt bij zijn benoeming en voorts door jaarlijkse publicatie van een opgave van deze nevenfuncties in de Staatscourant en in het afkondigingsblad, bedoeld in [artikel 2, vierde lid, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2).
 
-#### Artikel 4
+##### Artikel 4
 
 1. De taken van het College financieel toezicht zijn, onverminderd de in andere artikelen genoemde taken:
 
@@ -116,7 +143,7 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uu
 
 4. Onze Minister kan, na overleg met het betrokken bestuurscollege, beleidsregels vaststellen en algemene en bijzondere aanwijzingen geven ten aanzien van de uitoefening van de in en op grond van deze wet en de daarop berustende bepalingen aan het College toegekende taken en bevoegdheden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het College financieel toezicht stelt een bestuursreglement vast, waarin in ieder geval regels over zijn besluitvorming, werkwijze en procedures zijn opgenomen. In het reglement worden tevens regels opgenomen over de verdeling van de werkzaamheden bij de voorbereiding van de besluiten van het College.
 
@@ -130,7 +157,7 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uu
 
 6. Het bestuursreglement wordt na de goedkeuring bekendgemaakt in de Staatscourant en in het afkondigingsblad, bedoeld in [artikel 2, vierde lid, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2).
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het College financieel toezicht heeft een secretaris.
 
@@ -144,7 +171,7 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uu
 
 6. De secretaris en de medewerkers zijn in dienst van Onze Minister, dan wel worden vanwege Onze Minister aan het College ter beschikking gesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De bezoldiging van de leden, de secretaris en de medewerkers van het College financieel toezicht, alsmede de bekostiging van de overige apparaatsuitgaven komen ten laste van de begroting van Onze Minister.
 
@@ -152,7 +179,7 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uu
 
 3. De valutarisico’s, samenhangende met het verstrekken van rekening-courantkredieten door het College aan een openbaar lichaam, komen voor rekening van de begroting van Onze Minister.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien naar het oordeel van Onze Minister het College financieel toezicht bij de uitoefening van zijn taak ernstig in gebreke blijft, kan Onze Minister ten aanzien van het College of een of meer van de leden van het College financieel toezicht tijdelijk de noodzakelijke voorzieningen treffen.
 
@@ -162,7 +189,7 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uu
 
 ### Afdeling 1. Besluiten met financiële gevolgen
 
-#### Artikel 9
+##### Artikel 9
 
 1. In dit artikel wordt onder deelnemen in een privaatrechtelijke rechtspersoon verstaan: het houden van aandelen in of het onderdeel uitmaken van het bestuur van die rechtspersoon.
 
@@ -182,7 +209,7 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uu
 
 9. Het bestuurscollege stelt de jaarrekeningen van de privaatrechtelijke rechtspersonen waarin het college of het openbaar lichaam deelneemt uiterlijk zes maanden na afloop van het boekjaar aan het College financieel toezicht ter beschikking.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Vervreemding van bezittingen van een openbaar lichaam op welke wijze dan ook geschiedt tegen marktconforme voorwaarden.
 
@@ -192,7 +219,7 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uu
 
 4. Onze Minister kan ten aanzien van door hem aan te geven soorten besluiten aangeven dat die de in het tweede lid bedoelde goedkeuring niet behoeven.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Geldleningen kunnen niet ten name of ten laste van een openbaar lichaam worden aangegaan, gegarandeerd of verstrekt.
 
@@ -202,7 +229,7 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uu
 
 4. Ter beoordeling van deze uitgaven- en inkomstenontwikkeling rapporteert het College financieel toezicht in samenwerking met het Centraal Bureau voor de Statistiek aan Onze Minister, gelijktijdig met het doorzenden van de jaarrekeningen van de openbare lichamen als bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&afdeling=2&paragraaf=3&artikel=31&z=2023-01-01&g=2023-01-01), over de voorlopige uitgaven-, inkomsten-, tekort- en schuldcijfers van de collectieve sector van de openbare lichamen. Daarbij zijn de definities van het System of National Accounts leidend.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het openbaar lichaam heeft een rekening-courant bij het College financieel toezicht.
 
@@ -216,7 +243,7 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uu
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 1. De begroting, de begrotingswijzigingen, de jaarrekening en het jaarverslag worden ingericht op basis van een stelsel van baten en lasten, overeenkomstig bij of krachtens algemene maatregel van bestuur te stellen nadere regels.
 
@@ -230,13 +257,13 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uu
 
 - c. een paragraaf weerstandsvermogen.
 
-#### Artikel 14
+##### Artikel 14
 
 Aan de openbare lichamen kunnen slechts bij of krachtens de wet uitgaven worden opgelegd.
 
 #### § 2. De begroting
 
-#### Artikel 15
+##### Artikel 15
 
 1. De eilandsraad brengt voor alle taken en activiteiten jaarlijks op de begroting de bedragen die hij daarvoor beschikbaar stelt, alsmede de financiële middelen die hij naar verwachting kan aanwenden.
 
@@ -246,7 +273,7 @@ Aan de openbare lichamen kunnen slechts bij of krachtens de wet uitgaven worden 
 
 4. De dienst van het kalenderjaar wordt gesloten op 31 december van het kalenderjaar.
 
-#### Artikel 16
+##### Artikel 16
 
 Verplichte uitgaven van het openbaar lichaam zijn:
 
@@ -256,7 +283,7 @@ Verplichte uitgaven van het openbaar lichaam zijn:
 
 - c. de uitgaven die voortvloeien uit de van het openbaar lichaam gevorderde medewerking tot uitvoering van wetten en algemene maatregelen van bestuur, voor zover die uitgaven niet ten laste van anderen zijn gebracht.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het bestuurscollege zendt jaarlijks voor een door het College financieel toezicht te bepalen datum de ontwerpbegroting voor het komende jaar aan het College.
 
@@ -268,7 +295,7 @@ Verplichte uitgaven van het openbaar lichaam zijn:
 
 5. De ontwerpbegroting en de overige in het eerste en derde lid bedoelde stukken liggen, zodra zij aan de eilandsraad zijn aangeboden, voor eenieder ter inzage en zijn algemeen verkrijgbaar. Van de terinzagelegging en de verkrijgbaarstelling wordt openbaar kennis gegeven.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De eilandsraad beraadslaagt over de ontwerpbegroting niet eerder dan twee weken na de openbare kennisgeving, bedoeld in [artikel 17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&afdeling=2&paragraaf=2&artikel=17&z=2023-01-01&g=2023-01-01).
 
@@ -276,7 +303,7 @@ Verplichte uitgaven van het openbaar lichaam zijn:
 
 3. De eilandsraad stelt de begroting vast in het jaar voorafgaande aan het begrotingsjaar.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De begroting behoeft de goedkeuring van Onze Minister. De goedkeuring kan gedeeltelijk worden verleend.
 
@@ -306,13 +333,13 @@ Verplichte uitgaven van het openbaar lichaam zijn:
 
 9. Het eerste en tweede lid alsmede de [artikelen 17, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&afdeling=2&paragraaf=2&artikel=17&z=2023-01-01&g=2023-01-01), en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&afdeling=2&paragraaf=2&artikel=18&z=2023-01-01&g=2023-01-01) zijn van overeenkomstige toepassing.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Als het College financieel toezicht op de in [artikel 19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&afdeling=2&paragraaf=2&artikel=19&z=2023-01-01&g=2023-01-01), genoemde datum nog geen begroting ter goedkeuring heeft ontvangen bericht het Onze Minister daarover. Dat bericht bevat een door het College opgesteld ontwerp voor de begroting voor het eerstvolgende begrotingsjaar, zoals die naar het oordeel van het College vastgesteld zou moeten worden.
 
 2. Als Onze Minister een week na de in [artikel 19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&afdeling=2&paragraaf=2&artikel=19&z=2023-01-01&g=2023-01-01), genoemde datum nog geen begroting ter goedkeuring heeft ontvangen stelt hij zelf de begroting van het desbetreffende openbare lichaam voor het eerstvolgende begrotingsjaar vast.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Een besluit tot wijziging van de begroting behoeft de goedkeuring van Onze Minister.
 
@@ -322,7 +349,7 @@ Verplichte uitgaven van het openbaar lichaam zijn:
 
 4. Indien op de dag waarop een besluit tot wijziging van de begroting ter goedkeuring aan Onze Minister wordt aangeboden, de begroting nog niet is goedgekeurd, vangt de in [artikel 19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&afdeling=2&paragraaf=2&artikel=19&z=2023-01-01&g=2023-01-01), bedoelde termijn aan op de dag van de goedkeuring van de begroting.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Het bestuurscollege zendt uiterlijk drie weken na afloop van ieder kwartaal uitvoeringsrapportages aan Onze Minister, door tussenkomst van het College financieel toezicht.
 
@@ -334,7 +361,7 @@ Verplichte uitgaven van het openbaar lichaam zijn:
 
 - c. compensatie van inmiddels in de rekening van het voorafgaande begrotingsjaar gebleken tekorten op de gewone dienst of op de kapitaaldienst, of van een gebleken overschrijding van de rentelastnorm.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Behoudens de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&afdeling=2&paragraaf=2&artikel=24&z=2023-01-01&g=2023-01-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&afdeling=2&paragraaf=2&artikel=26&z=2023-01-01&g=2023-01-01) kunnen ten laste van het openbaar lichaam geen uitgaven worden gedaan die niet zijn geraamd bij goedgekeurde begroting of een goedgekeurde begrotingswijziging dan wel in een door Onze Minister overeenkomstig [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&afdeling=2&paragraaf=2&artikel=20&z=2023-01-01&g=2023-01-01) vastgestelde begroting.
 
@@ -342,7 +369,7 @@ Verplichte uitgaven van het openbaar lichaam zijn:
 
 3. Als de voorgenomen financiële verplichting niet is voorzien in een goedgekeurde begroting of goedgekeurd besluit tot wijziging van de begroting dan wel in een door Onze Minister overeenkomstig [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&afdeling=2&paragraaf=2&artikel=20&z=2023-01-01&g=2023-01-01) vastgestelde begroting dient het bestuurscollege zo snel mogelijk een voorstel tot wijziging van de begroting in bij de eilandsraad.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Voor het aangaan van verplichtingen die niet voorzien zijn in een goedgekeurde begroting of goedgekeurd besluit tot wijziging van de begroting dan wel in een door Onze Minister overeenkomstig [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&afdeling=2&paragraaf=2&artikel=20&z=2023-01-01&g=2023-01-01) vastgestelde begroting behoeft het openbaar lichaam de toestemming van Onze Minister.
 
@@ -354,13 +381,13 @@ Verplichte uitgaven van het openbaar lichaam zijn:
 
 5. Onze Minister kan bepalen voor welke posten en tot welk bedrag het openbaar lichaam de toestemming, bedoeld in het eerste lid, niet behoeft.
 
-#### Artikel 25
+##### Artikel 25
 
 1. In gevallen van dringende spoed kan, indien de eilandsraad daartoe besluit, een verplichting worden aangegaan voordat de desbetreffende begroting of begrotingswijziging is goedgekeurd. Het besluit wordt Onze Minister, door tussenkomst van het College financieel toezicht toegezonden. Is de aangegane verplichting geraamd bij een begrotingswijziging die nog niet ter goedkeuring is ingezonden, dan wordt deze begrotingswijziging tezamen met het besluit toegezonden.
 
 2. Over het in het eerste lid bedoelde besluit beslist de eilandsraad bij hoofdelijke oproeping.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Indien de eilandsraad [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&afdeling=2&paragraaf=2&artikel=25&z=2023-01-01&g=2023-01-01) heeft toegepast en Onze Minister zijn goedkeuring aan de desbetreffende begroting of begrotingswijziging onthoudt, kan hij binnen een maand nadat zijn besluit onherroepelijk is geworden, de leden van de eilandsraad die hun stem vóór het in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&afdeling=2&paragraaf=2&artikel=25&z=2023-01-01&g=2023-01-01) bedoelde besluit hebben uitgebracht, ieder voor een gelijk deel, persoonlijk voor deze verplichting aansprakelijk stellen tegenover het openbaar lichaam.
 
@@ -368,7 +395,7 @@ Verplichte uitgaven van het openbaar lichaam zijn:
 
 3. De Rijksvertegenwoordiger stelt zonodig namens en ten laste van het openbaar lichaam een rechtsvordering in tot betaling van de krachtens het besluit tot aansprakelijkstelling verschuldigde gelden.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Af- en overschrijving op de posten van de begroting is alleen toegestaan voor zover daartoe machtiging is verleend in de begroting zelf of bij een afzonderlijk besluit van de eilandsraad.
 
@@ -380,7 +407,7 @@ Verplichte uitgaven van het openbaar lichaam zijn:
 
 #### § 3. De jaarrekening
 
-#### Artikel 28
+##### Artikel 28
 
 1. Het bestuurscollege legt aan de eilandsraad over elk begrotingsjaar verantwoording af over het door hem gevoerde bestuur, onder overlegging van de jaarrekening en het jaarverslag.
 
@@ -388,7 +415,7 @@ Verplichte uitgaven van het openbaar lichaam zijn:
 
 3. De eilandsraad beraadslaagt over de in het eerste en tweede lid bedoelde stukken niet eerder dan twee weken na de openbare kennisgeving, bedoeld in het tweede lid.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De eilandsraad stelt de jaarrekening en het jaarverslag vast in het jaar volgend op het begrotingsjaar. De jaarrekening betreft alle baten en lasten van het openbaar lichaam.
 
@@ -398,11 +425,11 @@ Verplichte uitgaven van het openbaar lichaam zijn:
 
 4. Indien het bestuurscollege een voorstel voor een indemniteitsbesluit heeft gedaan, stelt de eilandsraad de jaarrekening niet vast dan nadat hij heeft besloten over het voorstel.
 
-#### Artikel 30
+##### Artikel 30
 
 Behoudens later in rechte gebleken onregelmatigheden ontlast de vaststelling van de jaarrekening de leden van het bestuurscollege van het daarin verantwoorde financieel beheer.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Het bestuurscollege zendt de vastgestelde jaarrekening en het jaarverslag, vergezeld van de overige in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&afdeling=2&paragraaf=3&artikel=28&z=2023-01-01&g=2023-01-01) bedoelde stukken binnen twee weken na vaststelling, maar in ieder geval vóór 15 juli van het jaar, volgend op het begrotingsjaar, aan Onze Minister, door tussenkomst van het College financieel toezicht. Het bestuurscollege voegt daarbij, indien van toepassing, het besluit van de eilandsraad over een voorstel voor een indemniteitsbesluit met de reactie, bedoeld in [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&afdeling=2&paragraaf=3&artikel=29&z=2023-01-01&g=2023-01-01).
 
@@ -410,13 +437,13 @@ Behoudens later in rechte gebleken onregelmatigheden ontlast de vaststelling van
 
 3. Indien uit de jaarrekening blijkt dat sprake is van een tekort op de gewone dienst of op de kapitaaldienst of van een overschrijding van de rentelastnorm, geeft het College financieel toezicht aan het bestuurscollege een advies voor wijziging van de begroting voor het lopende jaar en voor de begroting voor het komende jaar. Het bestuurscollege betrekt dit advies bij de eerstvolgende uitvoeringsrapportage, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&afdeling=2&paragraaf=2&artikel=22&z=2023-01-01&g=2023-01-01).
 
-#### Artikel 32
+##### Artikel 32
 
 Indien de eilandsraad de jaarrekening dan wel een indemniteitsbesluit niet of niet naar behoren vaststelt, zendt het bestuurscollege de jaarrekening, vergezeld van de overige in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&afdeling=2&paragraaf=3&artikel=28&z=2023-01-01&g=2023-01-01) bedoelde stukken, respectievelijk het indemniteitsbesluit ter vaststelling aan Onze Minister, door tussenkomst van het College financieel toezicht. Onze Minister stelt in dat geval de jaarrekening en in voorkomende gevallen het indemniteitsbesluit vast.
 
 ### Afdeling 3. Het financieel beheer en de controle
 
-#### Artikel 33
+##### Artikel 33
 
 1. Beleidsmaatregelen die gevolgen hebben voor de baten of lasten op de begroting, worden door het bestuurscollege en de eilandsraad uitgevoerd door middel van een daartoe geëigende voorziening.
 
@@ -430,7 +457,7 @@ Indien de eilandsraad de jaarrekening dan wel een indemniteitsbesluit niet of ni
 
 6. Onze Minister kan in afwachting van de totstandkoming of implementatie van de bedoelde voorziening, besluiten het College financieel toezicht te belasten met het vaststellen van bijzondere maatregelen en het zelfstandig uitvoeren hiervan.
 
-#### Artikel 34
+##### Artikel 34
 
 1. De eilandsraad stelt bij eilandsverordening de uitgangspunten vast voor het financieel beheer en voor de inrichting van de financiële organisatie. Deze eilandsverordening waarborgt dat wordt voldaan aan de eisen van rechtmatigheid, doelmatigheid, verantwoording en controle.
 
@@ -450,7 +477,7 @@ Indien de eilandsraad de jaarrekening dan wel een indemniteitsbesluit niet of ni
 
 9. Het College financieel toezicht houdt toezicht op de inrichting van de controle die plaatsvindt in het kader van de uitvoering van de begroting.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Uitsluitend het hoofd Financiën van het openbaar lichaam of zijn eerste of tweede plaatsvervanger kunnen gemandateerd worden namens het openbaar lichaam privaatrechtelijke rechtshandelingen te verrichten die voortvloeien uit een besluit tot het aangaan van een financiële verplichting en waarover een positief advies is verleend als bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&afdeling=2&paragraaf=2&artikel=23&z=2023-01-01&g=2023-01-01).
 
@@ -472,7 +499,7 @@ Indien de eilandsraad de jaarrekening dan wel een indemniteitsbesluit niet of ni
 
 8. In geval van het aangaan van financiële verplichtingen en het verrichten van privaatrechtelijke rechtshandelingen waartoe door de eilandsraad is besloten, is dit artikel van overeenkomstige toepassing.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Namens het openbaar lichaam is uitsluitend het hoofd Financiën van het openbaar lichaam of, bij zijn afwezigheid, zijn eerste of tweede plaatsvervanger, bevoegd tot het verrichten van betalingen die voortvloeien uit door een bestuursorgaan aangegane financiële verplichtingen. Zij kunnen de ontvanger van het openbaar lichaam machtigen de genoemde betalingen te verrichten.
 
@@ -498,7 +525,7 @@ Indien de eilandsraad de jaarrekening dan wel een indemniteitsbesluit niet of ni
 
 12. Het verlenen van voorschotten op aan derde partijen te verrichten betalingen geschiedt met inachtneming van door het College financieel toezicht na overleg met het bestuurscollege op te stellen regels inzake het verlenen van voorschotten.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Met ingang van een door het College financieel toezicht te bepalen datum draagt het bestuurscollege, in overeenstemming met het College financieel toezicht, er zorg voor:
 
@@ -516,7 +543,7 @@ Indien de eilandsraad de jaarrekening dan wel een indemniteitsbesluit niet of ni
 
 5. Bij regeling van Onze Minister van Financiën kunnen nadere regels gesteld worden met betrekking tot het bepaalde in dit artikel.
 
-#### Artikel 38
+##### Artikel 38
 
 1. De eilandsraad stelt bij eilandsverordening regels vast voor de controle op het financiële beheer en op de inrichting van de financiële organisatie. Deze eilandsverordening waarborgt dat de rechtmatigheid van het financiële beheer en van de inrichting van de financiële organisatie wordt getoetst.
 
@@ -556,7 +583,7 @@ Indien de eilandsraad de jaarrekening dan wel een indemniteitsbesluit niet of ni
 
 11. De gezamenlijke rekenkamer is belast met het toezicht op de naleving van het negende lid.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Het bestuurscollege verstrekt Onze Minister en het College financieel toezicht alle inlichtingen die het voor de uitoefening van zijn taken nodig acht.
 
@@ -570,7 +597,7 @@ Indien de eilandsraad de jaarrekening dan wel een indemniteitsbesluit niet of ni
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 87
+##### Artikel 87
 
 1. Indien beleidsvoornemens van het Rijk leiden tot een wijziging van de uitoefening van taken of activiteiten door de openbare lichamen wordt in een afzonderlijk onderdeel van de bijbehorende toelichting met redenen omkleed en met kwantitatieve gegevens gestaafd welke de financiële gevolgen zijn voor de openbare lichamen.
 
@@ -580,7 +607,7 @@ Indien de eilandsraad de jaarrekening dan wel een indemniteitsbesluit niet of ni
 
 #### § 2. Vrije uitkering
 
-#### Artikel 88
+##### Artikel 88
 
 1. Er is een BES-fonds.
 
@@ -600,7 +627,7 @@ Indien de eilandsraad de jaarrekening dan wel een indemniteitsbesluit niet of ni
 
 9. Onze Minister beheertde begroting van het fonds.
 
-#### Artikel 89
+##### Artikel 89
 
 1. Onze Minister wie het aangaat kan een renteloze lening verschaffen aan een openbaar lichaam, ten behoeve van het doen van een investering ten behoeve van de uitoefening van de publieke taak.
 
@@ -610,7 +637,7 @@ Indien de eilandsraad de jaarrekening dan wel een indemniteitsbesluit niet of ni
 
 4. Onze Ministers stellen jaarlijks ten aanzien van ieder van de openbare lichamen vast welk bedrag verschuldigd is aan aflossing van de renteloze leningen.
 
-#### Artikel 90
+##### Artikel 90
 
 1. Onze Minister doet betalingen aan de openbare lichamen in verband met de vrije uitkering, bij wijze van voorschot, over het lopende begrotingsjaar, zoveel mogelijk in twaalf gelijke maandelijkse delen.
 
@@ -620,7 +647,7 @@ Indien de eilandsraad de jaarrekening dan wel een indemniteitsbesluit niet of ni
 
 #### § 3. Bijzondere uitkeringen
 
-#### Artikel 91
+##### Artikel 91
 
 1. Een bijzondere uitkering is een bijdrage uit ’s Rijks kas die door Onze Minister wie het aangaat onder voorwaarden wordt verstrekt ten behoeve van een bepaalde publieke taak.
 
@@ -628,7 +655,7 @@ Indien de eilandsraad de jaarrekening dan wel een indemniteitsbesluit niet of ni
 
 3. Omtrent een voorstel tot regeling van een bijzondere uitkering vindt tijdig overleg plaats met Onze Ministers.
 
-#### Artikel 92
+##### Artikel 92
 
 1. Bijzondere uitkeringen worden geregeld bij of krachtens de wet.
 
@@ -648,17 +675,17 @@ Indien de eilandsraad de jaarrekening dan wel een indemniteitsbesluit niet of ni
 
 5. Eenmalige bijzondere uitkeringen kunnen worden geregeld bij ministeriële regeling.
 
-#### Artikel 93
+##### Artikel 93
 
 [Artikel 214 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=214) is niet van toepassing op de regeling van de informatievoorziening ten aanzien van een bijzondere uitkering als bedoeld in [artikel 92, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=V&paragraaf=3&artikel=92&z=2023-01-01&g=2023-01-01).
 
-#### Artikel 94
+##### Artikel 94
 
 Onze Ministers publiceren jaarlijks uiterlijk op de derde woensdag van mei een overzicht van de bijzondere uitkeringen, met de daarvoor in de lopende begroting beschikbare bedragen.
 
 #### § 4. Overige bepalingen
 
-#### Artikel 95
+##### Artikel 95
 
 Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent:
 
@@ -670,23 +697,23 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gest
 
 - d. het doen van mededelingen en het verschaffen van inlichtingen in verband met de vaststelling en verstrekking van uitkeringen.
 
-#### Artikel 96
+##### Artikel 96
 
 Op een uitkering als bedoeld in dit hoofdstuk kan geen beslag onder de Staat worden gelegd.
 
 ### Hoofdstuk VI. Wijziging van andere wetten
 
-#### Artikel 97
+##### Artikel 97
 
 Wijzigt de Provinciewet.
 
-#### Artikel 98
+##### Artikel 98
 
 Wijzigt de Gemeentewet.
 
 ### Hoofdstuk VII. Overgangs- en slotbepalingen
 
-#### Artikel 99
+##### Artikel 99
 
 1. De regels voor de inrichting van de begroting, de begrotingswijzigingen, de jaarrekening en het jaarverslag, gesteld in en krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&afdeling=2&paragraaf=1&artikel=13&z=2023-01-01&g=2023-01-01), worden voor het eerst toegepast voor het begrotingsjaar 2012.
 
@@ -694,15 +721,15 @@ Wijzigt de Gemeentewet.
 
 3. Op besluiten die op grond van het [Besluit tijdelijk financieel toezicht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0022921) ter beoordeling zijn voorgelegd aan het College financieel toezicht, maar waarover het College bij de inwerkingtreding van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&z=2023-01-01&g=2023-01-01) van deze wet nog geen beslissing heeft meegedeeld, zijn de regels van deze wet van toepassing. Voor zover daarbij termijnen gelden waarbinnen een beslissing moet zijn genomen of meegedeeld beginnen die termijnen te lopen op de datum van inwerkingtreding van deze wet.
 
-#### Artikel 100
+##### Artikel 100
 
 Na de inwerkingtreding van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&z=2023-01-01&g=2023-01-01) van deze wet berust de [Regeling rekening-courant en leningenbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0021734) mede op [artikel 37, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=III&afdeling=3&artikel=37&z=2023-01-01&g=2023-01-01), van deze wet.
 
-#### Artikel 101
+##### Artikel 101
 
 Het door het bestuurscollege van een eilandgebied voor het tijdstip van transitie ten behoeve van een openbaar lichaam ter kennis brengen van Onze Minister van Financiën van een besluit tot het invoeren, wijzigen of afschaffen van opcenten op de hoofdsom van de vastgoedbelasting wordt met ingang van het tijdstip van transitie aangemerkt als het door het bestuurscollege van het desbetreffende openbaar lichaam ter kennis brengen van Onze Minister van Financiën van het betreffende besluit.
 
-#### Artikel 101a
+##### Artikel 101a
 
 In de [artikelen 101b tot en met 101g](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=VII&artikel=101b&z=2023-01-01&g=2023-01-01) wordt verstaan onder
 
@@ -712,7 +739,7 @@ In de [artikelen 101b tot en met 101g](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - c. **overgangsperiode:** de periode vanaf het tijdstip van transitie tot het tijdstip van inwerkingtreding.
 
-#### Artikel 101b
+##### Artikel 101b
 
 1. Voor zover de belastingplichtige of inhoudingsplichtige op het tijdstip van transitie rechten en verplichtingen heeft ingevolge:
 
@@ -770,7 +797,7 @@ blijven deze rechten en verplichtingen ongewijzigd in stand, en blijven de onder
 
 5. Bij ministeriële regeling kunnen nadere regels worden gesteld voor de toepassing van het vierde lid.
 
-#### Artikel 101c
+##### Artikel 101c
 
 1. Op het tijdstip van transitie gaat de bevoegdheid tot het heffen van de belastingen en rechten, genoemd in de in [artikel 101b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=VII&artikel=101b&z=2023-01-01&g=2023-01-01) genoemde verordeningen en de daarop gebaseerde regelgeving, over op de ambtenaar, bedoeld in [artikel 67, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&paragraaf=4&artikel=67&z=2023-01-01&g=2023-01-01).
 
@@ -778,11 +805,11 @@ blijven deze rechten en verplichtingen ongewijzigd in stand, en blijven de onder
 
 3. Indien het tijdstip van transitie is gelegen voor het tijdstip van inwerkingtreding gaan gedurende de overgangsperiode, in afwijking van het eerste en tweede lid, de bevoegdheden met betrekking tot heffing en invordering van de belastingen en rechten, genoemd in de in [artikel 101b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=VII&artikel=101b&z=2023-01-01&g=2023-01-01) genoemde verordeningen, en de daarop gebaseerde regelgeving, van de in die verordeningen en de daarop gebaseerde regelgeving genoemde organen en functionarissen van de eilandgebieden Bonaire, Sint Eustatius en Saba, over op de overeenkomstige organen en functionarissen van de openbare lichamen.
 
-#### Artikel 101d
+##### Artikel 101d
 
 De bepalingen van de verordeningen, bedoeld in [artikel 101b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=VII&artikel=101b&z=2023-01-01&g=2023-01-01), blijven van toepassing op de in die verordeningen strafbaar gestelde feiten die zich hebben voorgedaan vóór het tijdstip van transitie.
 
-#### Artikel 101e
+##### Artikel 101e
 
 1. Voor zover belastingen of rechten op grond van verordeningen als bedoeld in de [artikelen 101b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=VII&artikel=101b&z=2023-01-01&g=2023-01-01) en [101g](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=VII&artikel=101g&z=2023-01-01&g=2023-01-01) zijn verschuldigd voor een bepaald tijdvak, eindigt dat tijdvak uiterlijk op het tijdstip van inwerkingtreding.
 
@@ -790,29 +817,29 @@ De bepalingen van de verordeningen, bedoeld in [artikel 101b](https://wetten.ove
 
 3. Bedragen van minder dan USD 5 worden niet geheven of teruggegeven.
 
-#### Artikel 101f
+##### Artikel 101f
 
 1. In afwijking in zoverre van hetgeen daarover wordt bepaald in de verordeningen, genoemd in [artikel 101b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=VII&artikel=101b&z=2023-01-01&g=2023-01-01), treedt de Raad van Beroep voor belastingzaken, bedoeld in [Hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII), op het tijdstip van transitie in de plaats van de Raad van Beroep voor Belastingzaken, bedoeld in de Landsverordening op het beroep in belastingzaken 1940.
 
 2. Indien het tijdstip van transitie is gelegen voor het tijdstip van inwerkingtreding van [titel 8 van hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&titeldeel=8) wordt gedurende de overgangsperiode in het eerste lid voor «bedoeld in [Hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII)» gelezen: bedoeld in [paragraaf 2b van de Wet geldstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&paragraaf=2b).
 
-#### Artikel 101g
+##### Artikel 101g
 
 De [artikelen 101a tot en met 101f](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=VII&artikel=101a&z=2023-01-01&g=2023-01-01) zijn mede van toepassing op bij ministeriële regeling aan te wijzen andere landsverordeningen en eilandsverordeningen en daaraan opgehangen regelingen van de eilandgebieden Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 102
+##### Artikel 102
 
 Onze Minister zendt binnen zes jaar na het tijdstip van transitie aan de beide kamers der Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 103
+##### Artikel 103
 
 Indien het [Besluit tijdelijk financieel toezicht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0022921) is vervallen blijft het van toepassing voor de begrotingsjaren waarvoor het heeft gegolden.
 
-#### Artikel 104
+##### Artikel 104
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.
 
-#### Artikel 105
+##### Artikel 105
 
 Deze wet wordt aangehaald als: Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba.
 
@@ -820,15 +847,15 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 40
+##### Artikel 40
 
 De eilandsraad besluit tot het invoeren, wijzigen of afschaffen van een eilandbelasting door het vaststellen van een belastingverordening.
 
-#### Artikel 41
+##### Artikel 41
 
 Een belastingverordening vermeldt, in de daartoe leidende gevallen, de belastingplichtige, het voorwerp van de belasting, het belastbare feit, de heffingsmaatstaf, het tarief, het tijdstip van ingang van de heffing, het tijdstip van beëindiging van de heffing en hetgeen overigens voor de heffing en de invordering van belang is.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Behalve de eilandbelastingen waarvan de heffing krachtens andere wetten dan deze geschiedt, worden geen andere eilandbelastingen geheven dan die bedoeld in de tweede en derde paragraaf van dit hoofdstuk.
 
@@ -836,7 +863,7 @@ Een belastingverordening vermeldt, in de daartoe leidende gevallen, de belasting
 
 #### § 2. Bijzondere bepalingen omtrent de grondbelasting en de opcenten op de vastgoedbelasting
 
-#### Artikel 43
+##### Artikel 43
 
 1. Ter zake van binnen het openbaar lichaam gelegen onroerende zaken kunnen worden geheven:
 
@@ -850,7 +877,7 @@ Een belastingverordening vermeldt, in de daartoe leidende gevallen, de belasting
 
 2. Voor de toepassing van het eerste lid, aanhef en onder a, wordt als genothebbende krachtens eigendom, bezit of beperkt recht aangemerkt degene die bij het begin van het kalenderjaar als zodanig in de kadastrale registratie is vermeld, tenzij blijkt dat op dat tijdstip een ander genothebbende krachtens eigendom, bezit of beperkt recht is.
 
-#### Artikel 44
+##### Artikel 44
 
 1. De grondbelasting wordt geheven bij wege van aanslag.
 
@@ -870,13 +897,13 @@ Een belastingverordening vermeldt, in de daartoe leidende gevallen, de belasting
 
 3. Het niet naleven van de voorschriften van het tweede lid brengt geen nietigheid van de aanslag mee.
 
-#### Artikel 44a
+##### Artikel 44a
 
 1. Besluiten tot het invoeren, wijzigen of afschaffen van opcenten op de hoofdsom van de vastgoedbelasting treden in werking met ingang van 1 januari van enig jaar. Een desbetreffend besluit wordt vóór 30 november van het voorafgaande jaar in afschrift ter kennis gebracht van Onze Minister van Financiën.
 
 2. Een in het eerste lid bedoeld besluit heeft geen gevolgen voor de opcenten die zijn betaald over een tijdvak dat vóór de datum van inwerkingtreding van dat besluit is aangevangen.
 
-#### Artikel 45
+##### Artikel 45
 
 Voor de toepassing van dit hoofdstuk wordt als één onroerende zaak aangemerkt:
 
@@ -888,7 +915,7 @@ Voor de toepassing van dit hoofdstuk wordt als één onroerende zaak aangemerkt:
 
 - d. een samenstel van twee of meer van de in onderdeel a of onderdeel b bedoelde eigendommen of in onderdeel c bedoelde gedeelten daarvan die bij dezelfde belastingplichtige in gebruik zijn en die, naar de omstandigheden beoordeeld, bij elkaar behoren.
 
-#### Artikel 46
+##### Artikel 46
 
 1. De heffingsmaatstaf voor de grondbelasting is de waarde die aan de onroerende zaak dient te worden toegekend, indien de volle en onbezwaarde eigendom daarvan zou kunnen worden overgedragen en de verkrijger de zaak in de staat waarin die zich bevindt, onmiddellijk en in volle omvang in gebruik zou kunnen nemen.
 
@@ -898,7 +925,7 @@ Voor de toepassing van dit hoofdstuk wordt als één onroerende zaak aangemerkt:
 
 - b. de sedert de stichting van de zaak opgetreden technische en functionele veroudering, waarbij de invloed van latere wijzigingen in aanmerking wordt genomen.
 
-#### Artikel 47
+##### Artikel 47
 
 1. De waarde van de onroerende zaken ter zake waarvan de grondbelasting wordt geheven wordt vastgesteld door de in [artikel 67, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&paragraaf=4&artikel=67&z=2023-01-01&g=2023-01-01), bedoelde eilandambtenaar.
 
@@ -908,11 +935,11 @@ Voor de toepassing van dit hoofdstuk wordt als één onroerende zaak aangemerkt:
 
 4. De waarde geldt voor een tijdvak van vijf achtereenvolgende jaren.
 
-#### Artikel 48
+##### Artikel 48
 
 Indien een onroerende zaak in het jaar voorafgaand aan het tijdvak of in de loop van het tijdvak wijzigt als gevolg van bouw, verbouwing, verbetering, afbraak of vernietiging wordt in afwijking van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&paragraaf=2&artikel=47&z=2023-01-01&g=2023-01-01) de waarde bepaald naar de staat van die zaak bij het begin van het kalenderjaar volgend op dat waarin de genoemde wijziging zich heeft voorgedaan.
 
-#### Artikel 49
+##### Artikel 49
 
 1. In afwijking van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&paragraaf=2&artikel=46&z=2023-01-01&g=2023-01-01) wordt bij de bepaling van de heffingsmaatstaf voor de grondbelasting buiten aanmerking gelaten, de waarde van:
 
@@ -930,7 +957,7 @@ Indien een onroerende zaak in het jaar voorafgaand aan het tijdvak of in de loop
 
 - g. werktuigen die van een onroerende zaak kunnen worden afgescheiden zonder dat beschadiging van betekenis aan die werktuigen wordt toegebracht en die niet op zichzelf als gebouwde eigendommen zijn aan te merken.
 
-#### Artikel 50
+##### Artikel 50
 
 1. De grondbelasting bedraagt een percentage van de heffingsgrondslag.
 
@@ -944,19 +971,19 @@ Indien een onroerende zaak in het jaar voorafgaand aan het tijdvak of in de loop
 
 - c. de opcenten op de vastgoedbelasting. bedoeld in [artikel 43, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&paragraaf=2&artikel=43&z=2023-01-01&g=2023-01-01).
 
-#### Artikel 51
+##### Artikel 51
 
 1. In de belastingverordening kan worden bepaald dat geen grondbelasting wordt geheven indien de heffingsmaatstaf blijft beneden een bedrag van USD 12 000 dan wel een in de belastingverordening te bepalen lager bedrag.
 
 2. In de belastingverordening kunnen belastingbedragen tot maximaal USD 10 worden opgenomen waarvoor geen invordering zal plaatsvinden. Voor de toepassing van de vorige volzin kan in de belastingverordening worden bepaald dat het totaal van op één aanslagbiljet verenigde verschuldigde bedragen wordt aangemerkt als één belastingbedrag.
 
-#### Artikel 52
+##### Artikel 52
 
 Bij gehele of gedeeltelijke vernieling van gebouwen door onvoorziene rampen wordt op verzoek aan de belastingschuldige een vermindering of teruggaaf van grondbelasting verleend naar evenredigheid van het resterende deel van het belastingjaar waarop de grondbelasting betrekking heeft en van de vermindering in waarde.
 
 #### § 3. Bijzondere bepalingen omtrent enkele andere belastingen dan de grondbelasting
 
-#### Artikel 53
+##### Artikel 53
 
 1. Onder de naam toeristenbelasting kan een eilandbelasting worden geheven ter zake van verblijf binnen het grondgebied van het openbaar lichaam door niet-ingezetenen van het openbaar lichaam.
 
@@ -970,13 +997,13 @@ Bij gehele of gedeeltelijke vernieling van gebouwen door onvoorziene rampen word
 
 - c. de schipper of gezagvoerder die een vaartuig onder zijn verantwoordelijkheid heeft of de beheerder of gebruiker van het vaartuig.
 
-#### Artikel 54
+##### Artikel 54
 
 1. Onder de naam verhuurbelasting motorrijtuigen kan ter zake van de verhuur van een motorrijtuig op twee of meer wielen een eilandbelasting worden geheven van degene, die als verhuurder de huurovereenkomst ter zake van dat motorrijtuig sluit.
 
 2. De belasting kan als zodanig verhaald worden op degene die het motorrijtuig huurt.
 
-#### Artikel 55
+##### Artikel 55
 
 1. Ter zake van het houden van een motorrijtuig kan onder de naam motorrijtuigenbelasting een belasting worden geheven van degene die bij aanvang van een tijdvak het motorrijtuig houdt.
 
@@ -994,7 +1021,7 @@ Bij gehele of gedeeltelijke vernieling van gebouwen door onvoorziene rampen word
 
 4. Het in het eerste lid bedoelde tijdvak is een kalenderjaar dan wel, indien het houderschap in de loop van een kalenderjaar aanvangt, het aantal nog in dat kalenderjaar resterende gehele of gedeeltelijke kalenderkwartalen.
 
-#### Artikel 56
+##### Artikel 56
 
 1. In het kader van de parkeerregulering kunnen de volgende belastingen worden geheven:
 
@@ -1016,11 +1043,11 @@ Bij gehele of gedeeltelijke vernieling van gebouwen door onvoorziene rampen word
 
 8. Het tarief van de in het eerste lid bedoelde belastingen kan afhankelijk worden gesteld van de parkeerduur, van de parkeertijd, van de ingenomen oppervlakte en van de ligging van de terreinen of weggedeelten.
 
-#### Artikel 57
+##### Artikel 57
 
 Onder de naam afvalstoffenheffing kan ter bestrijding van de kosten die voor het openbaar lichaam verbonden zijn aan het beheer van afvalstoffen een belasting worden geheven van degenen die, al dan niet krachtens een zakelijk of persoonlijk recht, feitelijk gebruik maken van een perceel ten aanzien waarvan krachtens [artikel 4.7, derde lid, onderdeel a, van de Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&artikel=4.7) een verplichting geldt tot het inzamelen van afvalstoffen.
 
-#### Artikel 58
+##### Artikel 58
 
 1. Ter zake van het houden van een hond kan van de houder een hondenbelasting worden geheven.
 
@@ -1028,15 +1055,15 @@ Onder de naam afvalstoffenheffing kan ter bestrijding van de kosten die voor het
 
 3. Voor de toepassing van het eerste lid wordt het houden van een hond door een lid van een huishouden aangemerkt als het houden van een hond door een door de in [artikel 67, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&paragraaf=4&artikel=67&z=2023-01-01&g=2023-01-01), bedoelde ambtenaar van het openbaar lichaam aan te wijzen lid van dat huishouden.
 
-#### Artikel 59
+##### Artikel 59
 
 Ter zake van openbare aankondigingen zichtbaar vanaf de openbare weg kan een reclamebelasting worden geheven.
 
-#### Artikel 60
+##### Artikel 60
 
 Ter zake van het hebben van voorwerpen onder, op of boven voor de openbare dienst bestemde grond van het openbaar lichaam kan een precariobelasting worden geheven.
 
-#### Artikel 61
+##### Artikel 61
 
 Onder de naam havenbelasting kan een belasting worden geheven ter zake van degene, die als schipper of gezagvoerder het vaartuig onder zijn verantwoordelijkheid heeft, of van de beheerder of gebruiker van het vaartuig ter zake van:
 
@@ -1044,7 +1071,7 @@ Onder de naam havenbelasting kan een belasting worden geheven ter zake van degen
 
 - b. het ankeren in de territoriale wateren, bedoeld in de [Rijkswet uitbreiding territoriale zee van het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0003749) voor zover deze wateren grenzen aan het openbaar lichaam.
 
-#### Artikel 62
+##### Artikel 62
 
 1. Rechten kunnen worden geheven ter zake van:
 
@@ -1054,27 +1081,27 @@ Onder de naam havenbelasting kan een belasting worden geheven ter zake van degen
 
 2. Voor de toepassing van dit hoofdstuk worden de in het eerste lid bedoelde rechten aangemerkt als eilandbelastingen.
 
-#### Artikel 63
+##### Artikel 63
 
 De rechten, bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&paragraaf=3&artikel=62&z=2023-01-01&g=2023-01-01), kunnen worden geheven door het openbaar lichaam dat het gebruik van de bezittingen, werken of inrichtingen toestaat of de diensten verleent, ongeacht of het belastbare feit zich binnen of buiten het grondgebied van het openbaar lichaam voordoet.
 
-#### Artikel 64
+##### Artikel 64
 
 1. In belastingverordeningen op grond waarvan rechten als bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&paragraaf=3&artikel=62&z=2023-01-01&g=2023-01-01) worden geheven, worden de tarieven zodanig vastgesteld dat de geraamde baten van de rechten niet uitgaan boven de geraamde lasten ter zake.
 
 2. Onder de in het eerste lid bedoelde lasten worden mede verstaan bijdragen aan bestemmingsreserves en voorzieningen voor noodzakelijke vervanging van de betrokken activa.
 
-#### Artikel 65
+##### Artikel 65
 
 Bij of krachtens algemene maatregel van bestuur kunnen inzake de eilandbelastingen, bedoeld in de tweede en derde paragraaf van dit hoofdstuk, nadere regels worden gegeven.
 
 #### § 4. Heffing en invordering
 
-#### Artikel 66
+##### Artikel 66
 
 In deze paragraaf wordt verstaan onder heffing op andere wijze: heffing op andere wijze dan bij wege van aanslag of bij wege van voldoening op aangifte.
 
-#### Artikel 67
+##### Artikel 67
 
 1. Onverminderd het overigens in deze paragraaf bepaalde geschieden de heffing en de invordering van eilandbelastingen, andere dan die bedoeld in [artikel 43, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&paragraaf=2&artikel=43&z=2023-01-01&g=2023-01-01), met toepassing van de [hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=I) en [VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII) als waren die belastingen BES belastingen.
 
@@ -1096,7 +1123,7 @@ lezen: besluit van het bestuurscollege.
 
 4. Onverminderd het overigens in deze paragraaf bepaalde wordt met betrekking tot eilandbelastingen in de [Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244) onder «belastingwet» mede verstaan: een belastingverordening, bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&paragraaf=1&artikel=40&z=2023-01-01&g=2023-01-01), en de daarop berustende bepalingen, alsmede andere algemeen verbindende voorschriften of besluiten van algemene strekking met betrekking tot de in [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&paragraaf=1&z=2023-01-01&g=2023-01-01) bedoelde eilandbelastingen.
 
-#### Artikel 68
+##### Artikel 68
 
 1. Het bestuurscollege kan bepalen dat voor de toezending of uitreiking van aanslagbiljetten ingevolge [artikel 8.2, eerste lid, van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.2) voor de in [artikel 67, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&paragraaf=4&artikel=67&z=2023-01-01&g=2023-01-01), bedoelde ambtenaar een andere eilandambtenaar in de plaats treedt.
 
@@ -1124,11 +1151,11 @@ lezen: besluit van het bestuurscollege.
 
 5. Het eerste lid is van overeenkomstige toepassing ten aanzien van het dagelijks bestuur van het openbaar lichaam dat is ingesteld op grond van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) waarvan een ambtenaar op grond van het vierde lid, onderdeel b, wordt aangewezen.
 
-#### Artikel 69
+##### Artikel 69
 
 Eilandbelastingen kunnen worden geheven bij wege van aanslag, bij wege van voldoening op aangifte of op andere wijze, doch niet bij wege van afdracht op aangifte.
 
-#### Artikel 70
+##### Artikel 70
 
 1. Indien de eilandbelastingen op andere wijze worden geheven, bepaalt de belastingverordening op welke wijze deze worden geheven en de wijze waarop de belastingschuld aan de belastingplichtige wordt bekendgemaakt. De belastingverordening kan bepalen dat het bestuurscollege omtrent de uitvoering van een en ander nadere regels geeft.
 
@@ -1140,7 +1167,7 @@ Eilandbelastingen kunnen worden geheven bij wege van aanslag, bij wege van voldo
 
 - c. **de dagtekening van het aanslagbiljet:** de dagtekening van de schriftelijke kennisgeving van het in onderdeel a bedoelde bedrag, of bij gebreke van een schriftelijke kennisgeving, de datum waarop het bedrag op andere wijze ter kennis van de belastingplichtige is gebracht.
 
-#### Artikel 71
+##### Artikel 71
 
 1. De belasting, bedoeld in [artikel 56, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&paragraaf=3&artikel=56&z=2023-01-01&g=2023-01-01), wordt geheven bij wege van voldoening op aangifte dan wel op andere wijze.
 
@@ -1160,7 +1187,7 @@ Eilandbelastingen kunnen worden geheven bij wege van aanslag, bij wege van voldo
 
 9. De naheffingsaanslag is dadelijk en ineens invorderbaar.
 
-#### Artikel 72
+##### Artikel 72
 
 1. Na afloop van een in de belastingverordening te bepalen termijn, die ten minste 24 uren bedraagt nadat het aanslagbiljet aan de belastingschuldige is uitgereikt dan wel nadat het aanslagbiljet, overeenkomstig [artikel 71, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&paragraaf=4&artikel=71&z=2023-01-01&g=2023-01-01), aan het voertuig is aangebracht, is de in [artikel 67, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&paragraaf=4&artikel=67&z=2023-01-01&g=2023-01-01), bedoelde eilandambtenaar bevoegd het voertuig naar een door hem aangewezen plaats te doen overbrengen en in bewaring te doen stellen. Ter zake van de in de eerste volzin bedoelde overbrenging en bewaring wordt procesverbaal opgemaakt en worden kosten in rekening gebracht.
 
@@ -1192,13 +1219,13 @@ Eilandbelastingen kunnen worden geheven bij wege van aanslag, bij wege van voldo
 
 12. Indien aantoonbaar is dat tijdens de overbrenging en bewaring schade aan het voertuig is toegebracht, is het openbaar lichaam gehouden deze schade te vergoeden.
 
-#### Artikel 73
+##### Artikel 73
 
 1. Bij de heffing en invordering van eilandbelastingen blijven de [artikelen 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.1), [8.4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.4), [8.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.5), [8.11, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.11), [8.43](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.43), [8.55](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.55), [8.77, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.77), [8.79, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.79), [8.80, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.80), [8.81](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.81), [8.83, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.83), [8.86](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.86), [8.87](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.87), [8.91](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.91) en [8.120 tot en met 8.129 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.120) buiten toepassing. Bij de heffing van eilandbelastingen die op andere wijze worden geheven, blijven bovendien de [artikelen 8.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.2), [8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.3), [8.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.7), en [8.9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.91) buiten toepassing.
 
 2. Bij algemene maatregel van bestuur kunnen de kosten van vervolging worden bepaald als bedoeld in [artikel 8.39, tweede lid, van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.39).
 
-#### Artikel 74
+##### Artikel 74
 
 1. Met betrekking tot de bij wege van aanslag en bij wege van voldoening op aangifte geheven eilandbelastingen moet het aangiftebiljet binnen een bij de belastingverordening gestelde termijn worden ingeleverd bij de eilandambtenaar, bedoeld in [artikel 67, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&paragraaf=4&artikel=67&z=2023-01-01&g=2023-01-01). De belastingverordening kan bepalen dat de in de vorige volzin bedoelde eilandambtenaar voor de termijn, genoemd in de belastingverordening, een kortere termijn in de plaats kan stellen.
 
@@ -1212,7 +1239,7 @@ Eilandbelastingen kunnen worden geheven bij wege van aanslag, bij wege van voldo
 
 4. Indien het derde lid toepassing vindt, kan de in [artikel 67, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&paragraaf=4&artikel=67&z=2023-01-01&g=2023-01-01), bedoelde eilandambtenaar voor de termijnen, bedoeld in het eerste lid, eerste volzin, en tweede lid, kortere termijnen in de plaats stellen en is [artikel 8.9 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.9) niet van toepassing.
 
-#### Artikel 75
+##### Artikel 75
 
 1. Met betrekking tot de bij wege van voldoening op aangifte geheven eilandbelastingen bepaalt de belastingverordening binnen welke termijn de verschuldigde belasting moet worden betaald.
 
@@ -1220,13 +1247,13 @@ Eilandbelastingen kunnen worden geheven bij wege van aanslag, bij wege van voldo
 
 3. Bij toepassing van [artikel 74, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&paragraaf=4&artikel=74&z=2023-01-01&g=2023-01-01), kan de in [artikel 67, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&paragraaf=4&artikel=67&z=2023-01-01&g=2023-01-01), bedoelde eilandambtenaar voor de termijnen, bedoeld in het eerste en tweede lid, een kortere termijn in de plaats stellen.
 
-#### Artikel 76
+##### Artikel 76
 
 1. De in [artikel 67, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&paragraaf=4&artikel=67&z=2023-01-01&g=2023-01-01), bedoelde eilandambtenaar is bevoegd voor eenzelfde belastingplichtige bestemde belastingaanslagen van dezelfde soort die betrekking kunnen hebben op verschillende belastingen, op één aanslagbiljet te verenigen.
 
 2. Het eerste lid vindt overeenkomstige toepassing ingeval de belasting op andere wijze wordt geheven.
 
-#### Artikel 77
+##### Artikel 77
 
 1. Degene die ingevolge de belastingverordening aanspraak kan maken op een gehele of gedeeltelijke vrijstelling, vermindering, ontheffing of teruggaaf, kan binnen zes weken nadat de omstandigheid welke die aanspraak deed ontstaan, zich heeft voorgedaan, of, voor zover het een belasting betreft die bij wege van aanslag wordt geheven en op dat tijdstip nog geen aanslagbiljet is uitgereikt of is toegezonden, binnen zes weken na de dagtekening van het aanslagbiljet, een aanvraag tot het verkrijgen van vrijstelling, vermindering, ontheffing of teruggaaf indienen bij de in [artikel 67, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&paragraaf=4&artikel=67&z=2023-01-01&g=2023-01-01), bedoelde eilandambtenaar.
 
@@ -1234,15 +1261,15 @@ Eilandbelastingen kunnen worden geheven bij wege van aanslag, bij wege van voldo
 
 3. De in [artikel 67, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&paragraaf=4&artikel=67&z=2023-01-01&g=2023-01-01), bedoelde eilandambtenaar beslist op de aanvraag bij voor bezwaar vatbare beschikking.
 
-#### Artikel 78
+##### Artikel 78
 
 In de gevallen waarin het volkenrecht dan wel, naar het oordeel van Onze Minister en Onze Minister van Financiën, het internationale gebruik daartoe noodzaakt, wordt vrijstelling van eilandbelastingen verleend. Onze genoemde Ministers kunnen gezamenlijk ter zake nadere regels stellen.
 
-#### Artikel 79
+##### Artikel 79
 
 Naast een in de belastingverordening voorziene vermindering, ontheffing of teruggaaf kan de in [artikel 67, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&paragraaf=4&artikel=67&z=2023-01-01&g=2023-01-01), bedoelde eilandambtenaar ook een in de belastingverordening voorziene vrijstelling ambtshalve verlenen.
 
-#### Artikel 80
+##### Artikel 80
 
 1. Met betrekking tot eilandbelastingen kunnen bij algemene maatregel van bestuur:
 
@@ -1252,7 +1279,7 @@ Naast een in de belastingverordening voorziene vermindering, ontheffing of terug
 
 2. De in het eerste lid bedoelde regels bevatten in elk geval een omschrijving van degene op wie de verplichting rust, alsmede van de eilandbelasting ten behoeve waarvan de verplichting geldt. Voorts vermelden deze regels naar gelang de aard van de verplichting een omschrijving van de aard van de te verstrekken gegevens en inlichtingen, van de aard van de gegevens welke uit de administratie dienen te blijken of van het doel waarvoor het voor raadpleging beschikbaar stellen van gegevensdragers kan geschieden.
 
-#### Artikel 81
+##### Artikel 81
 
 1. De belastingverordening bepaalt binnen welke termijnen een belastingaanslag invorderbaar is. Voor zover de belastingverordening geen termijnen noemt als bedoeld in de vorige volzin is [artikel 8.43 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.43) van toepassing.
 
@@ -1262,11 +1289,11 @@ Naast een in de belastingverordening voorziene vermindering, ontheffing of terug
 
 4. Het eerste tot en met derde lid vinden overeenkomstige toepassing ingeval de belasting op andere wijze wordt geheven.
 
-#### Artikel 82
+##### Artikel 82
 
 De verrekening van aan de belastingschuldige uit te betalen en van hem te innen bedragen ter zake van eilandbelastingen op de voet van [artikel 8.59 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.59) is ook mogelijk indien de in [artikel 8.43 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.43) gestelde termijn, dan wel de krachtens [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&paragraaf=4&artikel=81&z=2023-01-01&g=2023-01-01), gestelde termijn nog niet is verstreken.
 
-#### Artikel 83
+##### Artikel 83
 
 1. Indien ter zake van hetzelfde voorwerp van de belasting of hetzelfde belastbare feit twee of meer personen belastingplichtig zijn, kan de belastingaanslag ten name van een van hen worden gesteld.
 
@@ -1278,7 +1305,7 @@ De verrekening van aan de belastingschuldige uit te betalen en van hem te innen 
 
 5. Van het derde lid kan bij overeenkomst worden afgeweken.
 
-#### Artikel 84
+##### Artikel 84
 
 1. De in [artikel 8.58 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.58) bedoelde kwijtschelding wordt met betrekking tot eilandbelastingen verleend door de in [artikel 67, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&hoofdstuk=IV&paragraaf=4&artikel=67&z=2023-01-01&g=2023-01-01), bedoelde eilandambtenaar.
 
@@ -1286,11 +1313,11 @@ De verrekening van aan de belastingschuldige uit te betalen en van hem te innen 
 
 3. Het bestuurscollege kan de belasting geheel of gedeeltelijk oninbaar verklaren. Het daartoe strekkende besluit ontheft de eilandambtenaar belast met de invordering van eilandbelastingen van de verplichting verder pogingen tot invordering te doen.
 
-#### Artikel 85
+##### Artikel 85
 
 Indien ter zake van een eilandbelasting exploot moet worden gedaan, een akte van vervolging betekend of een dwangbevel ten uitvoer gelegd in een gemeente, of in een ander openbaar lichaam dan die aan welke de belasting is verschuldigd, is daartoe naast de belastingdeurwaarder van laatstbedoeld openbaar lichaam mede de belastingdeurwaarder van de desbetreffende gemeente en van het andere openbaar lichaam bevoegd en desgevraagd verplicht.
 
-#### Artikel 86
+##### Artikel 86
 
 Bij of krachtens algemene maatregel van bestuur kunnen inzake alle eilandbelastingen in het kader van deze paragraaf passende nadere regels worden gegeven ter aanvulling van de in deze paragraaf geregelde onderwerpen.
 
@@ -1310,7 +1337,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen inzake alle eilandbelasti
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 57a
+##### Artikel 57a
 
 Onder de naam afvalwaterheffing kan ter bestrijding van de kosten die voor het openbaar lichaam verbonden zijn aan het beheer van afvalwater een belasting worden geheven van degenen die, al dan niet krachtens een zakelijk of persoonlijk recht, feitelijk gebruik maken van een perceel ten aanzien waarvan krachtens [artikel 4.25 van de Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&artikel=4.25) een verplichting geldt tot het beheer van afvalwater als bedoeld in die wet.
 

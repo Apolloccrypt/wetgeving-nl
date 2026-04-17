@@ -1,24 +1,49 @@
 ---
 title: "Besluit beperking termijn openbaarheid van naar de rijksarchiefbewaarplaats over te brengen dossiers archief Hoofdafdeling Privaatrecht Ministerie van Justitie inzake geslachtsnaamswijzigingen, 1921–1972"
 identifier: "BWBR0044797"
-categorie: "Strafrecht"
-publicatiedatum: 2021-02-11
-laatste_update: 2021-02-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044797"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-02-11"
+last_updated: "2021-02-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044797"
+soort: "ministeriele-regeling"
+stam_id: "15838363"
+version_id: "27500772"
+internal_id: "C38812451"
+label_id: "15774944"
+dtd_version: "2.0"
+original_entry_into_force: "2021-02-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044797/2021-02-11/0"
+intitule_bron: "Stcrt.2021-6429"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-12-30"
+intitule_published: "2021-02-10"
+intitule_in_force: "2021-02-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-6429"
+original_signed_date: "2020-12-30"
+original_published_date: "2021-02-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-6429"
+entry_into_force_date: "2021-02-11"
+jci_1_3: "jci1.3:c:BWBR0044797&z=2021-02-11&g=2021-02-11"
+jci_1_0: "1.0:c:BWBR0044797&g=2021-02-11"
+citeertitel_status: "redactioneel"
+signed_date: "2020-12-30"
+entry_into_force: "2021-02-11"
 ---
-
 # Besluit beperking termijn openbaarheid van naar de rijksarchiefbewaarplaats over te brengen dossiers archief Hoofdafdeling Privaatrecht Ministerie van Justitie inzake geslachtsnaamswijzigingen, 1921–1972
 
 Gelet op [artikel 15, vierde lid Aw](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) en gelet op het [besluit van de Minister van Justitie en Veiligheid dd 26-02-2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043215), Staatscourant nr. 2020, 10389
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De termijn van beperking van de openbaarheid van de in de bijlage genoemde, naar de rijksarchiefbewaarplaats over te brengen inventarisnummers in het archief van de Hoofdafdeling Privaatrecht van het Ministerie van Justitie inzake geslachtsnaamswijzigingen, 1921 – 1972 wordt vastgesteld voor 100 jaar na geboorte van de betrokken persoon in het betreffende dossier.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

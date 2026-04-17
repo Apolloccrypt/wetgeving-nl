@@ -1,32 +1,57 @@
 ---
 title: "Besluit beperkingen openbaarheid archiefbescheiden Hoofdafdeling Privaatrecht Ministerie van Justitie inzake geslachtsnaamswijzigingen, 1921 – 1972 (toegangsnummer 2.09.131)"
 identifier: "BWBR0046033"
-categorie: "Strafrecht"
-publicatiedatum: 2021-12-17
-laatste_update: 2021-12-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046033"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-12-17"
+last_updated: "2021-12-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046033"
+soort: "ministeriele-regeling"
+stam_id: "16186983"
+version_id: "28245712"
+internal_id: "C39822071"
+label_id: "16115244"
+dtd_version: "2.0"
+original_entry_into_force: "2021-12-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046033/2021-12-17/0"
+intitule_bron: "Stcrt.2021-49570"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-12-02"
+intitule_published: "2021-12-16"
+intitule_in_force: "2021-12-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-49570"
+original_signed_date: "2021-12-02"
+original_published_date: "2021-12-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-49570"
+entry_into_force_date: "2021-12-17"
+jci_1_3: "jci1.3:c:BWBR0046033&z=2021-12-17&g=2021-12-17"
+jci_1_0: "1.0:c:BWBR0046033&g=2021-12-17"
+citeertitel_status: "redactioneel"
+signed_date: "2021-12-02"
+entry_into_force: "2021-12-17"
 ---
-
 # Besluit beperkingen openbaarheid archiefbescheiden Hoofdafdeling Privaatrecht Ministerie van Justitie inzake geslachtsnaamswijzigingen, 1921 – 1972 (toegangsnummer 2.09.131)
 
 Gelet op [artikel 15, eerste lid onder a en tweede lid van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), het [besluit van de Minister van Justitie en Veiligheid van 26 februari 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043215) (Staatscourant 2020, nr. 10389) en het [besluit van de De Minister voor Basis- en Voortgezet Onderwijs en Media van 10 februari 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044797) (Staatscourant 2021, nr. 6429)
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De openbaarheid van de archiefbescheiden, geborgen onder de bijlage 1 genoemde inventarisnummers, van het archief van de Hoofdafdeling Privaatrecht van het Ministerie van Justitie inzake geslachtsnaamswijzigingen, 1921 – 1972 (toegangsnummer 2.09.131) wordt met het oog op de eerbiediging van de persoonlijke levenssfeer vastgesteld tot 75 jaar na afsluiting van het desbetreffende dossier.
 
-#### Artikel 2
+##### Artikel 2
 
 Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046033&artikel=1&z=2021-12-17&g=2021-12-17), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
 
-#### Artikel 3
+##### Artikel 3
 
 Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046033&artikel=1&z=2021-12-17&g=2021-12-17), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

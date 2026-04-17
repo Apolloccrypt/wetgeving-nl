@@ -1,14 +1,41 @@
 ---
-title: "Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling"
+title: "Wet van 24 februari 2005, houdende wijziging van de Wet op de loonbelasting 1964, de Wet inkomstenbelasting 2001, de Wet op de vennootschapsbelasting 1969, de Wet arbeid en zorg en van enige andere wetten (Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling)"
 identifier: "BWBR0018053"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2014-12-20
-laatste_update: 2014-12-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018053"
+country: "nl"
+rank: "wet"
+publication_date: "2014-12-20"
+last_updated: "2014-12-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018053"
+soort: "wet"
+stam_id: "6834483"
+version_id: "11716152"
+internal_id: "C15792811"
+label_id: "6822754"
+original_entry_into_force: "2005-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018053/2014-12-20/0"
+intitule_bron: "Stb.2005-115"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-02-24"
+intitule_published: "2005-03-10"
+intitule_in_force: "2005-03-10"
+intitule_status: "goed"
+original_publication: "Stb.2005-115"
+original_signed_date: "2005-02-24"
+original_published_date: "2005-03-10"
+original_effect: "nieuwe-regeling"
+original_dossier: "29760"
+original_url_id: "stb-2005-115"
+entry_into_force_date: "2005-01-01"
+entry_into_force_dossier: "29760"
+jci_1_3: "jci1.3:c:BWBR0018053&z=2014-12-20&g=2014-12-20"
+jci_1_0: "1.0:c:BWBR0018053&g=2014-12-20"
+citeertitel_status: "officieel"
+short_title: "Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling"
+signed_date: "2005-02-24"
+entry_into_force: "2005-01-01"
 ---
-
-# Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling
+# Wet van 24 februari 2005, houdende wijziging van de Wet op de loonbelasting 1964, de Wet inkomstenbelasting 2001, de Wet op de vennootschapsbelasting 1969, de Wet arbeid en zorg en van enige andere wetten (Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,55 +45,55 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16 van de Tijdelijke referendumwet. De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel V
+##### Artikel V
 
 Vervallen
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Wet arbeid en zorg.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet verplichte deelneming in een bedrijfstakpensioenfonds.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Pensioen- en spaarfondsenwet.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet werk en bijstand.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Wijzigingswet Wet inkomstenbelasting 2001, enz. (Belastingplan 2003 Deel I).
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Wet verplichte beroepspensioenregeling.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Pensioen- en spaarfondsenwet.
 
-#### Artikel XIII
+##### Artikel XIII
 
 A. Wijzigt de Wet op de loonbelasting 1964.
 
@@ -78,15 +105,15 @@ D. In afwijking in zoverre van [artikel 19g, eerste lid, van de Wet op de loonbe
 
 E. In afwijking in zoverre van [artikel 19g, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19g), zoals dat artikel op 1 januari 2006 luidt, kunnen voor werknemers die in een kalenderjaar pensioenaanspraken als bedoeld in [artikel 19b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19b), afkopen, in dat kalenderjaar meer aanspraken ontstaan dan overeenkomt met 12 procent van het loon van het jaar, voorzover zulks het gevolg is van de aanwending van de afkoop van de pensioenaanspraken voor het opbouwen van een voorziening ingevolge een levensloopregeling met dien verstande dat de totale aanspraken aan het einde van het kalenderjaar door de in het kalenderjaar opgebouwde aanspraken een periode van extra verlof van 2,1 jaar niet te boven gaan.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Onze Minister van Sociale Zaken en Werkgelegenheid zendt in overeenstemming met Onze Minister van Financiën binnen vier jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van de levensloopregeling, bedoeld in [artikel 19g van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19g), en de ouderschapsverlofkorting, bedoeld in [artikel 8.14b van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14b).
 
-#### Artikel XV
+##### Artikel XV
 
 Deze wet wordt aangehaald als: Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling.
 
-#### Artikel XVI
+##### Artikel XVI
 
 1. Onder toepassing van [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt deze wet in werking met ingang van 1 januari 2005.
 

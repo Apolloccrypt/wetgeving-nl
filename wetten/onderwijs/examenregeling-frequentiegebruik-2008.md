@@ -1,13 +1,39 @@
 ---
-title: "Examenregeling frequentiegebruik 2008"
+title: "Regeling van de Staatssecretaris van Economische Zaken van 14 juli 2008, nr. WJZ 8086374, houdende regels ten aanzien van het afnemen van examens ten behoeve van frequentiegebruik (Examenregeling frequentiegebruik 2008)"
 identifier: "BWBR0024285"
-categorie: "Onderwijs"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024285"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024285"
+soort: "ministeriele-regeling"
+stam_id: "9673683"
+version_id: "29416412"
+internal_id: "C42059831"
+label_id: "9651104"
+dtd_version: "2.0"
+original_entry_into_force: "2023-05-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024285/2026-01-01/0"
+intitule_bron: "Stcrt.2008-143"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-07-14"
+intitule_published: "2008-07-28"
+intitule_in_force: "2008-07-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-14764"
+original_signed_date: "2023-05-18"
+original_published_date: "2023-05-24"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2023-14764"
+entry_into_force_date: "2023-05-18"
+jci_1_3: "jci1.3:c:BWBR0024285&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0024285&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Examenregeling frequentiegebruik 2008"
+signed_date: "2023-05-18"
+entry_into_force: "2023-05-18"
 ---
-
 # Regeling van de Staatssecretaris van Economische Zaken van 14 juli 2008, nr. WJZ 8086374, houdende regels ten aanzien van het afnemen van examens ten behoeve van frequentiegebruik (Examenregeling frequentiegebruik 2008)
 
 Gelet op de [artikelen 11, eerste lid, onder b en c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=11), en [20, eerste lid, van het Frequentiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009997&artikel=20) en gelet op de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5) en [6 van het Besluit vergoedingen Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=6);
@@ -16,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - i. Regionaal akkoord: akkoord met betrekking tot de radiotelefoondienst voor de binnenvaart (Basel-overeenkomst, Stcrt. 2003, 153).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De minister:
 
@@ -52,11 +78,11 @@ In deze regeling wordt verstaan onder:
 
 - b. kan de praktijkexamens afnemen of door erkende instellingen laten afnemen.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien een kandidaat zich schuldig heeft gemaakt aan onregelmatigheden voor, tijdens of na een examen, kan de minister het examen van de desbetreffende kandidaat ongeldig verklaren.
 
@@ -64,11 +90,11 @@ Vervallen
 
 3. De minister informeert de betrokken kandidaat over de verdere gang van zaken met betrekking tot het geconstateerde voorval binnen een redelijke termijn na de datum waarop de minister het besluit, bedoeld in het eerste of tweede lid, heeft genomen.
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 1. Examens worden in Nederland afgenomen.
 
@@ -76,7 +102,7 @@ Vervallen
 
 #### Paragraaf 2. Bepalingen met betrekking tot de examens ten behoeve van het gebruik van frequentieruimte ten dienste van het opdoen van vaardigheden, het communiceren via de radio en het doen van onderzoekingen
 
-#### Artikel 7
+##### Artikel 7
 
 Een radiozendamateur voldoet aan de in [artikel 4, tweede lid, van de Regeling gebruik van frequentieruimte met meldingsplicht 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=4) opgenomen voorwaarde dat hij met goed gevolg een examen afgelegd moet hebben, indien:
 
@@ -92,13 +118,13 @@ Een radiozendamateur voldoet aan de in [artikel 4, tweede lid, van de Regeling g
 
 - f. een administratie die geen onderdeel uitmaakt van de Conférence Européenne des Postes et des Télécommunications en die is opgenomen in Annex 4 van CEPT Recommendation T/R 61-02, aan hem een certificaat of ander document heeft verstrekt dat gelijkwaardig is aan een F-certificaat, voor het gebruik van frequentiebanden die in [bijlage 1 van de Regeling gebruik van frequentieruimte met meldingsplicht 2015](onbekend) zijn aangeduid met de categorie F.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De minister verleent op verzoek een N-certificaat, indien de minister heeft vastgesteld dat een kandidaat met goed gevolg een examen voor de categorie N heeft afgelegd.
 
 2. De minister verstrekt op verzoek een HAREC-certificaat, indien de minister heeft vastgesteld dat een kandidaat met goed gevolg een examen voor de categorie F heeft afgelegd.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De examens in de categorie N, genoemd in [artikel 7, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=2&artikel=7&z=2026-01-01&g=2026-01-01) en de examens in de categorie F, genoemd in [artikel 7, onder d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=2&artikel=7&z=2026-01-01&g=2026-01-01), voldoen aan respectievelijk de eisen, bedoeld in ERC Report 32 en CEPT Recommendation T/R 61-02.
 
@@ -160,17 +186,17 @@ Een radiozendamateur voldoet aan de in [artikel 4, tweede lid, van de Regeling g
 
 - n. gedragsregels.
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
 #### Paragraaf 3. Bepalingen met betrekking tot de examens ter verkrijging van een maritiem certificaat van bediening
 
-#### Artikel 12
+##### Artikel 12
 
 Aan de in [artikel 4, eerste lid, van de Regeling gebruik van frequentieruimte met meldingsplicht 2015](onbekend) of aan de in [artikel 5 Regeling aanvraag en toelating van vergunningen voor het gebruik van frequentieruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&artikel=5) opgenomen voorwaarde dat de gebruiker dan wel vergunninghouder voor maritiemmobiele communicatie dient te beschikken over een certificaat van bediening is voldaan, indien:
 
@@ -182,7 +208,7 @@ Aan de in [artikel 4, eerste lid, van de Regeling gebruik van frequentieruimte m
 
 - d. hij beschikt over een erkenning als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=18&z=2026-01-01&g=2026-01-01), voor het betreffende frequentiegebruik.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De minister verleent op verzoek een basiscertificaat marifonie, indien de minister heeft vastgesteld dat een kandidaat met goed gevolg het theorie-examen basiscertificaat marifonie heeft afgelegd.
 
@@ -192,7 +218,7 @@ Aan de in [artikel 4, eerste lid, van de Regeling gebruik van frequentieruimte m
 
 4. Een verzoek als bedoeld in het eerste tot en met derde lid wordt uiterlijk vijf jaar na het met goed gevolg afleggen van het examen of de examens ingediend.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De examens, bedoeld in [artikel 13, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01), voldoen aan respectievelijk de eisen gesteld in het Regionaal akkoord ERC/DEC/(99)/01 Annex 1 en ERC/DEC/(99)/01 Annex 2.
 
@@ -228,19 +254,19 @@ Aan de in [artikel 4, eerste lid, van de Regeling gebruik van frequentieruimte m
 
 - d. overige kennis en vaardigheden, en operationele procedures voor algemene communicatie.
 
-#### Artikel 15
+##### Artikel 15
 
 De minister kan een kandidaat die een voltijdopleiding volgt aan een zeevaartschool, vrijstelling geven voor het onderdeel Engels, indien de kandidaat in het kader van zijn opleiding aan die zeevaartschool voor de toets op dit onderdeel ten minste een 6,0 heeft behaald.
 
-#### Artikel 16
+##### Artikel 16
 
 Bij een praktijkexamen heeft een kandidaat het examen met goed gevolg afgelegd indien de minister aan de hand van de door de erkende instelling verstrekte gegevens heeft vastgesteld dat de kandidaat ten aanzien van het betreffende over voldoende kennis bezit op het gebied van radiotechniek en de voorschriften.
 
-#### Artikel 17
+##### Artikel 17
 
 Voor deelname aan een examen als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01) moet de kandidaat de leeftijd van elf jaar hebben bereikt.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De minister erkent op verzoek als geldige maritieme certificaten van bediening:
 
@@ -252,7 +278,7 @@ Voor deelname aan een examen als bedoeld in [artikel 13](https://wetten.overheid
 
 #### Paragraaf 4. Erkende instellingen
 
-#### Artikel 19
+##### Artikel 19
 
 1. De minister kan op aanvraag instellingen erkennen waar kandidaten het praktijkexamen afleggen.
 
@@ -260,13 +286,13 @@ Voor deelname aan een examen als bedoeld in [artikel 13](https://wetten.overheid
 
 3. De minister kan op aanvraag een erkenning verlengen met een door hem te bepalen termijn die niet langer is dan vijf jaar.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De aanvraag heeft betrekking op één of meer praktijkexamensoorten.
 
 2. De Minister toetst de aanvraag aan de eisen, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4&artikel=21&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 21
+##### Artikel 21
 
 1. De aanvrager toont aan, voor zo ver mogelijk door het overhandigen van stukken, dat hij ten tijde van het afnemen van de praktijkexamens kan beschikken over de vereiste kennis en faciliteiten die noodzakelijk zijn voor het afnemen van de praktijkexamens.
 
@@ -282,11 +308,11 @@ Voor deelname aan een examen als bedoeld in [artikel 13](https://wetten.overheid
 
 3. De minister stelt vast of is voldaan aan het bepaalde in het eerste lid, onder b, door middel van een schouw van de locatie.
 
-#### Artikel 22
+##### Artikel 22
 
 Indien de erkende instelling niet meer voldoet aan het bepaalde in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4&artikel=21&z=2026-01-01&g=2026-01-01), bericht hij dit onverwijld aan de minister.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De erkende instelling neemt bij het afnemen van praktijkexamens het volgende in acht:
 
@@ -312,11 +338,11 @@ Indien de erkende instelling niet meer voldoet aan het bepaalde in [artikel 21, 
 
 2. Indien de instelling geen toepassing geeft aan het bepaalde in het eerste lid, onderdeel j en een examen afneemt, is het afgenomen examen ongeldig.
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
-#### Artikel 25
+##### Artikel 25
 
 De minister kan de erkenning opschorten indien:
 
@@ -324,7 +350,7 @@ De minister kan de erkenning opschorten indien:
 
 - b. de erkende instelling tekort is geschoten bij de uitvoering van het bepaalde in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4&artikel=23&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 26
+##### Artikel 26
 
 De minister kan de erkenning geheel of gedeeltelijk intrekken indien:
 
@@ -336,31 +362,31 @@ De minister kan de erkenning geheel of gedeeltelijk intrekken indien:
 
 #### Paragraaf 4a. Vergoedingen
 
-#### Artikel 27
+##### Artikel 27
 
 In gevallen waarin deze regeling niet voorziet beslist de Minister.
 
-#### Artikel 28
+##### Artikel 28
 
 Bij de vaststelling of examens met goed gevolg zijn afgelegd als bedoeld in de [artikelen 7, onderdelen a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=2&artikel=7&z=2026-01-01&g=2026-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01), en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=16&z=2026-01-01&g=2026-01-01), betrekt de minister tevens examens die vóór 1 juli 2023 zijn afgelegd bij een instelling die op het moment van afname van het examen was aangewezen op grond van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4&artikel=19&z=2026-01-01&g=2026-01-01) zoals dat artikel luidde onmiddellijk vóór het tijdstip van inwerkingtreding van de Regeling van 24 mei 2023 tot wijziging van de Examenregeling frequentiegebruik 2008 in verband met de eerste fase van de overdracht van de uitvoering van de Examenregeling frequentiegebruik 2008 van de Rijksinspectie Digitale Infrastructuur aan het Centraal Bureau voor Rijvaardigheidsbewijzen (Stcrt. 2023, 14764).
 
-#### Artikel 29
+##### Artikel 29
 
 Examinerende instellingen die vóór het tijdstip van inwerkingtreding van de Regeling van de Minister van Economische Zaken en Klimaat van 24 mei 2023 tot wijziging van de Examenregeling frequentiegebruik 2008 in verband met de eerste fase van de overdracht van de uitvoering van de Examenregeling frequentiegebruik 2008 van De Rijksinspectie Digitale Infrastructuur aan het Centraal Bureau voor Rijvaardigheidsbewijzen (Stcrt. 2023, 14764) beschikten over een aanwijzing op grond van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4&artikel=19&z=2026-01-01&g=2026-01-01), zoals dat artikel luidde onmiddellijk vóór het tijdstip van inwerkingtreding van de hiervoor genoemde regeling, worden geacht te beschikken over een erkenning op grond van artikel 19, indien en voor zover deze aanwijzing voortduurt na dit tijdstip van inwerkingtreding.
 
-#### Artikel 30
+##### Artikel 30
 
 Wijzigt de Regeling vergoedingen Agentschap Telecom 2008.
 
-#### Artikel 31
+##### Artikel 31
 
 Wijzigt de Regeling gebruik van frequentieruimte zonder vergunning 2008.
 
-#### Artikel 32
+##### Artikel 32
 
 Deze regeling treedt in werking per 1 augustus 2008.
 
-#### Artikel 33
+##### Artikel 33
 
 Deze regeling wordt aangehaald als: Examenregeling frequentiegebruik 2008.
 
@@ -690,7 +716,7 @@ Het examen bestaat uit theoretische en praktische toetsen en omvat in elk geval 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 26a
+##### Artikel 26a
 
 Voor de in onderstaande tabel opgenomen werkzaamheden en diensten zijn de daarbij opgenomen vergoedingen verschuldigd:
 
@@ -741,7 +767,7 @@ Voor de in onderstaande tabel opgenomen werkzaamheden en diensten zijn de daarbi
 | **G.** | **Afgifte certificaten** | **Afgifte certificaten** | **Afgifte certificaten** |
 | 1. | Afgifte van een certificaat van bediening voor radioapparaten ten behoeve van de scheepvaart (per certificaat) | € 91,35 |   |
 
-#### Artikel 26b
+##### Artikel 26b
 
 1. De vergoedingen, bedoeld in [artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4a&artikel=26a&z=2026-01-01&g=2026-01-01) worden, voorafgaand aan het in behandeling nemen van de aanvraag, voldaan aan de minister.
 

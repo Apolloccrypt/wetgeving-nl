@@ -1,13 +1,38 @@
 ---
-title: "Verordening PT bijzondere heffing handel groenten en fruit 2012"
+title: "Besluit van het bestuur van het Productschap Tuinbouw van 14 november 2011, houdende de vaststelling van een bijzondere heffing handel groenten en fruit 2012 (Verordening PT bijzondere heffing handel groenten en fruit 2012)"
 identifier: "BWBR0031159"
-categorie: "Belastingrecht"
-publicatiedatum: 2013-04-14
-laatste_update: 2013-04-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031159"
+country: "nl"
+rank: "pbo"
+publication_date: "2013-04-14"
+last_updated: "2013-04-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031159"
+soort: "pbo"
+stam_id: "11640313"
+version_id: "19206812"
+internal_id: "C26795941"
+label_id: "11613184"
+dtd_version: "2.0"
+original_entry_into_force: "2012-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031159/2013-04-14/0"
+intitule_bron: "Vbbo.2011-97"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-11-14"
+intitule_published: "2011-12-30"
+intitule_in_force: "2011-12-30"
+intitule_status: "goed"
+original_publication: "Vbbo.2011-97"
+original_signed_date: "2011-11-14"
+original_published_date: "2011-12-30"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2012-01-01"
+jci_1_3: "jci1.3:c:BWBR0031159&z=2013-04-14&g=2013-04-14"
+jci_1_0: "1.0:c:BWBR0031159&g=2013-04-14"
+citeertitel_status: "officieel"
+short_title: "Verordening PT bijzondere heffing handel groenten en fruit 2012"
+signed_date: "2011-11-14"
+entry_into_force: "2012-01-01"
 ---
-
 # Besluit van het bestuur van het Productschap Tuinbouw van 14 november 2011, houdende de vaststelling van een bijzondere heffing handel groenten en fruit 2012 (Verordening PT bijzondere heffing handel groenten en fruit 2012)
 
 gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en gelet op de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=13) en [14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=14);
@@ -18,7 +43,7 @@ BESLUIT:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Deze verordening verstaat onder:
 
@@ -39,7 +64,7 @@ Deze verordening verstaat onder:
 
 #### § 2. Heffingsplicht
 
-#### Artikel 2
+##### Artikel 2
 
 1. De ondernemer die een onderneming drijft, met als activiteit het verhandelen of bewerken van groenten en fruit, is over het kalenderjaar 2012 een heffing verschuldigd aan het productschap. Uit de opbrengst van deze heffing worden projecten ten behoeve van de handel in groenten en fruit gefinancierd.
 
@@ -47,7 +72,7 @@ Deze verordening verstaat onder:
 
 #### § 3. Grondslag en hoogte
 
-#### Artikel 3
+##### Artikel 3
 
 1. De ondernemer die handelt in groenten en fruit is over het kalenderjaar 2012 een heffing verschuldigd met als grondslag de aankoopwaarde handel in 2012.
 
@@ -71,23 +96,23 @@ Deze verordening verstaat onder:
 
 #### § 4. Oplegging en inning
 
-#### Artikel 4
+##### Artikel 4
 
 1. De oplegging van de krachtens deze verordening verschuldigde heffing vindt plaats na afloop van het betreffende kalenderjaar en geschiedt door toezending of uitreiking aan de ondernemer van een heffingsnota.
 
 2. In afwijking van het eerste lid, kan aan de ondernemer een voorlopige heffing worden opgelegd tot het bedrag waarop de heffing vermoedelijk zal worden vastgesteld. De voorlopige heffing wordt verrekend met de krachtens deze verordening verschuldigde heffing.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien uit ter beschikking van het productschap gekomen gegevens blijkt dat verstrekte gegevens of een raming als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031159&paragraaf=4&artikel=4&z=2013-04-14&g=2013-04-14), niet in overeenstemming zijn met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De gegevens verkregen uit hoofde van het bepaalde in deze verordening worden in handen van de secretaris of door deze aan te wijzen personen van het secretariaat van het productschap gesteld.
 
 2. Deze gegevens worden uitsluitend gebruikt voor de vervulling van de taak van het productschap.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het bestuur is belast met de uitvoering van het bij of krachtens deze verordening bepaalde en is bevoegd omtrent de bij of krachtens deze verordening geregelde onderwerpen nadere uitvoeringsvoorschriften te geven.
 
@@ -97,10 +122,10 @@ Indien uit ter beschikking van het productschap gekomen gegevens blijkt dat vers
 
 #### § 5. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Deze verordening treedt in werking op 1 januari 2012. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2012, treedt zij in werking op de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 januari 2012.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze verordening wordt aangehaald als: Verordening PT bijzondere heffing handel groenten en fruit 2012.

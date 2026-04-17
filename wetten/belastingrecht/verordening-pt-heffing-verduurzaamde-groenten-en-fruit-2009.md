@@ -1,13 +1,38 @@
 ---
-title: "Verordening PT heffing verduurzaamde groenten en fruit 2009"
+title: "Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2008, houdende de vaststelling van een heffing op verduurzaamde producten voor het jaar 2009 (Verordening PT heffing verduurzaamde groenten en fruit 2009)"
 identifier: "BWBR0024905"
-categorie: "Belastingrecht"
-publicatiedatum: 2011-09-11
-laatste_update: 2011-09-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024905"
+country: "nl"
+rank: "pbo"
+publication_date: "2011-09-11"
+last_updated: "2011-09-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024905"
+soort: "pbo"
+stam_id: "9810683"
+version_id: "15940872"
+internal_id: "C21847771"
+label_id: "9787394"
+dtd_version: "2.0"
+original_entry_into_force: "2008-11-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024905/2011-09-11/0"
+intitule_bron: "Vbbo.2008-92"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-07-01"
+intitule_published: "2008-11-14"
+intitule_in_force: "2008-11-14"
+intitule_status: "goed"
+original_publication: "Vbbo.2008-92"
+original_signed_date: "2008-07-01"
+original_published_date: "2008-11-14"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2008-11-16"
+jci_1_3: "jci1.3:c:BWBR0024905&z=2011-09-11&g=2011-09-11"
+jci_1_0: "1.0:c:BWBR0024905&g=2011-09-11"
+citeertitel_status: "officieel"
+short_title: "Verordening PT heffing verduurzaamde groenten en fruit 2009"
+signed_date: "2008-07-01"
+entry_into_force: "2008-11-16"
 ---
-
 # Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2008, houdende de vaststelling van een heffing op verduurzaamde producten voor het jaar 2009 (Verordening PT heffing verduurzaamde groenten en fruit 2009)
 
 gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
@@ -20,7 +45,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=1) en [2 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=2).
 
@@ -36,7 +61,7 @@ Besluit:
 
 #### § 2. Heffingsplicht
 
-#### Artikel 2
+##### Artikel 2
 
 1. De fabrikant is jaarlijks aan het productschap een heffing verschuldigd ten behoeve van onder andere aangelegenheden als milieuprojecten, onderzoek, kwaliteitscontrole en afzetbevordering, alsmede de algemene kosten van het productschap.
 
@@ -44,7 +69,7 @@ Besluit:
 
 #### § 3. Grondslag en hoogte
 
-#### Artikel 3
+##### Artikel 3
 
 1. De heffing die de fabrikant is verschuldigd, wordt opgelegd naar de grondslag omzet over de periode van 1 januari 2009 tot en met 31 maart 2009.
 
@@ -56,17 +81,17 @@ Besluit:
 
 #### § 4. Oplegging en inning
 
-#### Artikel 4
+##### Artikel 4
 
 1. De oplegging van de krachtens deze verordening verschuldigde heffing vindt plaats na afloop van het jaar waarover de heffing verschuldigd is en geschiedt door toezending of uitreiking aan de heffingsplichtige van een heffingsnota.
 
 2. In afwijking van het eerste lid kan aan de heffingsplichtige een voorlopige heffing worden opgelegd tot het bedrag waarop de heffing vermoedelijk zal worden vastgesteld. De voorlopige heffing wordt verrekend met de krachtens deze verordening verschuldigde heffing.
 
-#### Artikel 5
+##### Artikel 5
 
 De voorzitter kan, indien hem uit te zijner beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming niet in overeenstemming blijkt met de werkelijkheid, een opgelegde heffing aan de hand van deze gegevens herzien en opnieuw opleggen
 
-#### Artikel 6
+##### Artikel 6
 
 1. De gegevens verkregen uit hoofde van het bepaalde in deze verordening dienen in handen van de voorzitter of door deze aan te wijzen personen van het secretariaat van het productschap te worden gesteld.
 
@@ -74,11 +99,11 @@ De voorzitter kan, indien hem uit te zijner beschikking gekomen gegevens blijkt 
 
 #### § 5. Slotbepalingen
 
-#### Artikel 7
+##### Artikel 7
 
 Deze verordening treedt in werking met ingang van de tweede dag na de datum van publicatie in het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze verordening wordt aangehaald als: Verordening PT heffing verduurzaamde groenten en fruit 2009.
 

@@ -1,24 +1,50 @@
 ---
-title: "Regeling Pensioenwet BES"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 16 september 2010, nr. AV/PB/2010/18205, tot wijziging van de Regeling Pensioenwet BES"
 identifier: "BWBR0028776"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028776"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028776"
+soort: "ministeriele-regeling-BES"
+stam_id: "11011303"
+version_id: "23407882"
+internal_id: "C33732891"
+label_id: "10986184"
+dtd_version: "2.0"
+original_entry_into_force: "2016-06-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028776/2026-01-01/0"
+intitule_bron: "Stcrt.2010-14692"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-16"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-34183"
+original_signed_date: "2016-06-23"
+original_published_date: "2016-06-30"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2016-34183"
+entry_into_force_date: "2016-06-23"
+jci_1_3: "jci1.3:c:BWBR0028776&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0028776&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling Pensioenwet BES"
+signed_date: "2016-06-23"
+entry_into_force: "2016-06-23"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 16 september 2010, nr. AV/PB/2010/18205, tot wijziging van de Regeling Pensioenwet BES
 
 #### Paragraaf 1. Aanmelding fonds
 
-#### Artikel 1. Aanmelding pensioenfonds
+##### Artikel 1. Aanmelding pensioenfonds
 
 Het bestuur van een pensioenfonds meldt de oprichting van het pensioenfonds overeenkomstig [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=4) door middel van het formulier dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&bijlage=1&z=2026-01-01&g=2026-01-01) bij deze regeling is gevoegd.
 
 #### Paragraaf 2. Toetsing betrouwbaarheid beleidsbepalers
 
-#### Artikel 2. Betrouwbaarheid
+##### Artikel 2. Betrouwbaarheid
 
 In deze paragraaf wordt verstaan onder:
 
@@ -50,7 +76,7 @@ In deze paragraaf wordt verstaan onder:
 
 - d. betrokkenen:beleidsbepalers bij onder toezicht staande pensioenfondsen.
 
-#### Artikel 3. Betrouwbaarheidstoetsing
+##### Artikel 3. Betrouwbaarheidstoetsing
 
 De betrouwbaarheidstoetsing:
 
@@ -60,7 +86,7 @@ De betrouwbaarheidstoetsing:
 
 - c. dient ter waarborging van de integriteit van een pensioenfonds, door middel van toetsing van bovengenoemde betrokkenen.
 
-#### Artikel 4. Frequentie toetsing
+##### Artikel 4. Frequentie toetsing
 
 De toetsing van betrouwbaarheid van de betrokkenen geschiedt om de drie jaar en wanneer de Bank dit noodzakelijk acht, onder meer:
 
@@ -68,7 +94,7 @@ De toetsing van betrouwbaarheid van de betrokkenen geschiedt om de drie jaar en 
 
 - b. in geval van een gemeld incident.
 
-#### Artikel 5. Onverenigbaarheid van belangen
+##### Artikel 5. Onverenigbaarheid van belangen
 
 1. Gelet op aard en de ernst van de misdrijven genoemd in [bijlage 2.A.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&bijlage=2&z=2026-01-01&g=2026-01-01), worden de aan die misdrijven ten grondslag liggende gedragingen op voorhand geacht onverenigbaar te zijn met de belangen die de wet beoogt te beschermen.
 
@@ -76,7 +102,7 @@ De toetsing van betrouwbaarheid van de betrokkenen geschiedt om de drie jaar en 
 
 #### Paragraaf 3. Continuïteitsanalyse
 
-#### Artikel 6. Continuïteitsanalyse
+##### Artikel 6. Continuïteitsanalyse
 
 1. Het inzicht dat de continuïteitsanalyse biedt in de mate waarin de voorwaardelijke toeslagverlening kan worden toegekend, wordt aangegeven door de cumulatieve toekenning over de 15 prognosejaren op jaarbasis uit te drukken.
 
@@ -86,7 +112,7 @@ De toetsing van betrouwbaarheid van de betrokkenen geschiedt om de drie jaar en 
 
 #### Paragraaf 4. Afkoop kleine pensioenen bij ingang
 
-#### Artikel 7. Hoogte bedragen
+##### Artikel 7. Hoogte bedragen
 
 De bedragen, bedoeld in [artikel 7b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=7b), worden vastgesteld op:
 
@@ -98,7 +124,7 @@ De bedragen, bedoeld in [artikel 7b, eerste lid, van de wet](https://wetten.over
 
 - 4. USD 1.848, indien belanghebbende woonachtig is buiten de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 8. Uitzondering op afkoop
+##### Artikel 8. Uitzondering op afkoop
 
 De afkoop van een pensioen, bedoeld in [artikel 7b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=7b), is niet mogelijk:
 
@@ -108,7 +134,7 @@ De afkoop van een pensioen, bedoeld in [artikel 7b, eerste lid, van de wet](http
 
 #### Paragraaf 5. Waardeoverdracht
 
-#### Artikel 9. Definities
+##### Artikel 9. Definities
 
 1. In deze paragraaf wordt verstaan onder:
 
@@ -126,7 +152,7 @@ De afkoop van een pensioen, bedoeld in [artikel 7b, eerste lid, van de wet](http
 
 - g. **rentestandskorting:** korting op de contante waarde ter verrekening van overrente boven de rekenrente die in aanmerking is genomen bij de bepaling van de contante-waardefactor.
 
-#### Artikel 10. Procedure met betrekking tot overdragende pensioenuitvoerder
+##### Artikel 10. Procedure met betrekking tot overdragende pensioenuitvoerder
 
 1. De gewezen deelnemer kan uiterlijk tot twee jaar na beëindiging van de deelneming een verzoek tot waardeoverdracht doen bij de overdragende pensioenuitvoerder.
 
@@ -146,7 +172,7 @@ De afkoop van een pensioen, bedoeld in [artikel 7b, eerste lid, van de wet](http
 
 5. Indien de gewezen deelnemer niet binnen zes maanden na dagtekening van de opgave of, indien hij tegen die opgave bezwaar heeft gemaakt of beroep heeft aangetekend, binnen zes maanden nadat die opgave in rechte onaantastbaar is geworden, schriftelijk met de opgave heeft ingestemd, wordt het verzoek geacht te zijn ingetrokken.
 
-#### Artikel 11. Procedure met betrekking tot ontvangende pensioenuitvoerder
+##### Artikel 11. Procedure met betrekking tot ontvangende pensioenuitvoerder
 
 De ontvangende pensioenuitvoerder kan de overdrachtswaarde in ontvangst nemen wanneer aan de volgende voorwaarden is voldaan:
 
@@ -156,19 +182,19 @@ De ontvangende pensioenuitvoerder kan de overdrachtswaarde in ontvangst nemen wa
 
 - c. de gewezen deelnemer heeft ingestemd met de in onderdeel b opgenomen opgave en heeft verzocht om de overdracht.
 
-#### Artikel 12. Realisatie waardeoverdracht
+##### Artikel 12. Realisatie waardeoverdracht
 
 1. De overdragende pensioenuitvoerder draagt de overdrachtswaarde over aan de ontvangende pensioenuitvoerder binnen drie maanden na ontvangst van het in [artikel 11, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=5&artikel=11&z=2026-01-01&g=2026-01-01), bedoelde verzoek.
 
 2. Door de overdracht vervallen de pensioenaanspraken van de gewezen deelnemer jegens de overdragende pensioenuitvoerder.
 
-#### Artikel 13. Bepaling omvang overdrachtswaarde
+##### Artikel 13. Bepaling omvang overdrachtswaarde
 
 1. De overdrachtswaarde heeft uitsluitend betrekking op aanspraken op ouderdoms-, weduwen- en weduwnaarspensioen en bijzonder weduwen- en weduwnaarspensioen.
 
 2. Voor de bepaling van de omvang van de overdrachtswaarde wordt uitgegaan van de bedragen die gelden op de datum waarop het verzoek tot overdracht of overname van de overdrachtswaarde door de pensioenuitvoerder is ontvangen. Wanneer het verzoek is ontvangen voor de datum waarop betrokkene deelnemer is geworden, dan wel zijn deelnemerschap is geëindigd, treedt de datum van indiensttreding of van beëindiging van het deelnemerschap in de plaats van de datum, bedoeld in de eerste volzin.
 
-#### Artikel 14. Berekening contante waarde
+##### Artikel 14. Berekening contante waarde
 
 1. Bij overdracht of overname van de overdrachtswaarde wordt uitgegaan van de contante-waardefactoren, die het bestuur, na overleg met de Bank, heeft vastgesteld ter berekening van de contante waarden van:
 
@@ -180,13 +206,13 @@ De ontvangende pensioenuitvoerder kan de overdrachtswaarde in ontvangst nemen wa
 
 2. De contante-waardefactoren, bedoeld in het eerste lid, worden vastgesteld met toepassing van de rekenrente van de laatstelijk samengestelde actuariële balans van het fonds. De sterftekansen worden ontleend aan de door het Actuarieel Genootschap gepubliceerde sterftetafels die toegepast zijn bij de laatstelijk samengestelde actuariële balans.
 
-#### Artikel 15. Rentestandskorting
+##### Artikel 15. Rentestandskorting
 
 1. Indien de overdragende pensioenuitvoerder een rentestandskorting toepast, wordt de over te dragen overdrachtswaarde vermenigvuldigd met de factor (100 - X ) : 100, waarin X de waarde van de bedoelde rentestandskorting voorstelt.
 
 2. Indien ontvangende pensioenuitvoerder een rentestandskorting toepast, wordt voor de toepassing van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=5&artikel=16&z=2026-01-01&g=2026-01-01) het bedrag van de beschikbaar gestelde overdrachtswaarde vermenigvuldigd met de factor 100 : ( 100 - X ), waarin X de waarde van de bedoelde rentestandskorting voorstelt.
 
-#### Artikel 16. Berekening deelnemingsjaren
+##### Artikel 16. Berekening deelnemingsjaren
 
 1. De ontvangende pensioenuitvoerder berekent fictieve deelnemingsjaren gelijk aan W: CWP, waarin:
 
@@ -200,7 +226,7 @@ Tevens omvat CWP voor alle deelnemers de contante waarde van het weduwen- en wed
 
 3. De fictieve deelnemingsjaren, bedoeld in het eerste lid, worden door de ontvangende pensioenuitvoerder behandeld alsof zij zijn opgebouwd in de pensioenovereenkomst met de nieuwe werkgever.
 
-#### Artikel 17. Bijzondere gevallen
+##### Artikel 17. Bijzondere gevallen
 
 1. Voor groepen van gevallen waarin toepassing van deze paragraaf tot een naar het oordeel van de betrokken pensioenuitvoerders onredelijke uitkomst leidt, zijn de pensioenuitvoerders gezamenlijk dan wel individueel bevoegd ten gunste van belanghebbenden een regeling te treffen die met de strekking van deze paragraaf overeenkomt.
 
@@ -208,7 +234,7 @@ Tevens omvat CWP voor alle deelnemers de contante waarde van het weduwen- en wed
 
 #### Paragraaf 6. Consistentie
 
-#### Artikel 18. Consistentie
+##### Artikel 18. Consistentie
 
 1. Voor de toepassing van [artikel 7f, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=7f) wordt verstaan onder:
 
@@ -238,7 +264,7 @@ Tevens omvat CWP voor alle deelnemers de contante waarde van het weduwen- en wed
 
 #### Paragraaf 7. Vaststelling vereist eigen vermogen
 
-#### Artikel 19. Standaardmodel
+##### Artikel 19. Standaardmodel
 
 1. Voor de berekening van het vereist eigen vermogen per risicofactor volgens het standaardmodel, bedoeld in [artikel 23, eerste lid, van het Besluit Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&artikel=23), gaat het fonds uit van een scenariomethode op basis van de volgende risicofactoren:
 
@@ -270,7 +296,7 @@ Tevens omvat CWP voor alle deelnemers de contante waarde van het weduwen- en wed
 
 2. Het vereist vermogen per risicofactor, bedoeld in het eerste lid, is gelijk aan het absolute getal van de waardedaling van het eigen vermogen als gevolg van het scenario voor de betreffende risicofactor.
 
-#### Artikel 20. Correlaties
+##### Artikel 20. Correlaties
 
 1. Bij de samenvoeging van het vereist eigen vermogen per risicofactor als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=7&artikel=19&z=2026-01-01&g=2026-01-01) tot het totale vereist eigen vermogen wordt uitgegaan van de volgende correlaties:
 
@@ -282,11 +308,11 @@ Tevens omvat CWP voor alle deelnemers de contante waarde van het weduwen- en wed
 
 2. Voor de berekeningen, bedoeld in het eerste lid, worden de in artikel 2 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&bijlage=3&z=2026-01-01&g=2026-01-01) opgenomen formules en de in dat onderdeel beschreven procedure gebruikt.
 
-#### Artikel 21. Risicoprofiel
+##### Artikel 21. Risicoprofiel
 
 Indien het standaardmodel leidt tot uitkomsten die onvoldoende overeenkomen met het risicoprofiel van het fonds, dan treedt het fonds in overleg met de Bank over de te nemen maatregelen.
 
-#### Artikel 22. Vereenvoudigd model
+##### Artikel 22. Vereenvoudigd model
 
 1. De Bank kan toestemming verlenen voor de vaststelling van het vereist eigen vermogen volgens een vereenvoudigd model als bedoeld in [artikel 23, tweede lid, van het Besluit Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&artikel=23) indien het pensioenfonds beschikt over:
 
@@ -304,7 +330,7 @@ Indien het standaardmodel leidt tot uitkomsten die onvoldoende overeenkomen met 
 
 4. De Bank kan aan de toestemming, bedoeld in het eerste lid, voorwaarden verbinden.
 
-#### Artikel 23. Intern model
+##### Artikel 23. Intern model
 
 1. De Bank kan toestemming verlenen voor de berekening van het vereist eigen vermogen volgens een intern model als bedoeld in a[rtikel 23, tweede lid, van het Besluit Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&artikel=23) indien het fonds voldoet aan door de Bank gestelde regels ten aanzien van:
 
@@ -326,7 +352,7 @@ Indien het standaardmodel leidt tot uitkomsten die onvoldoende overeenkomen met 
 
 6. De Bank kan aan de toestemming, bedoeld in het eerste lid, voorwaarden verbinden.
 
-#### Artikel 24. Overgangsregeling
+##### Artikel 24. Overgangsregeling
 
 1. In afwijking van [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=7&artikel=23&z=2026-01-01&g=2026-01-01), kan de Bank een fonds dat niet voldoet aan de in artikel 23, eerste lid, genoemde regels toestemming verlenen voor het toepassen van een intern model, indien:
 
@@ -336,11 +362,11 @@ Indien het standaardmodel leidt tot uitkomsten die onvoldoende overeenkomen met 
 
 #### Paragraaf 8. Slotbepalingen
 
-#### Artikel 25. Citeertitel
+##### Artikel 25. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Pensioenwet BES.
 
-#### Artikel 26. Eisen aan de begroting
+##### Artikel 26. Eisen aan de begroting
 
 1. De begroting legt een koppeling tussen:
 
@@ -356,7 +382,7 @@ Deze regeling wordt aangehaald als: Regeling Pensioenwet BES.
 
 - b. de investeringen en de toerekening daarvan aan de bij of krachtens de wet aan de Bank opgedragen taken inzichtelijk is.
 
-#### Artikel 27. Eisen aan de toelichting bij de begroting
+##### Artikel 27. Eisen aan de toelichting bij de begroting
 
 1. De toelichting bij de begroting bevat een financieel en een beleidsmatig deel en een toelichting per begrotingsartikel.
 
@@ -376,23 +402,23 @@ Deze regeling wordt aangehaald als: Regeling Pensioenwet BES.
 
 - b. de verwachte effecten van doelmatigheidsbevordering.
 
-#### Artikel 28. Eisen aan de gewijzigde of aanvullende begroting
+##### Artikel 28. Eisen aan de gewijzigde of aanvullende begroting
 
 Op de gewijzigde of aanvullende begroting, bedoeld in artikel 154, vierde lid, van de Pensioenwet, dat op grond van artikel 23 van de wet van overeenkomstige toepassing is, zijn de [artikelen 25 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=8&artikel=25&z=2012-07-01&g=2012-07-01) van overeenkomstige toepassing.
 
-#### Artikel 29. Indienen van jaarverslag en verantwoording
+##### Artikel 29. Indienen van jaarverslag en verantwoording
 
 1. De Bank zendt het jaarverslag en de verantwoording, bedoeld in artikel 23 van de wet, gelijktijdig aan de minister.
 
 2. De verantwoording gaat vergezeld van de bevindingen van de raad van commissarissen.
 
-#### Artikel 30. Eisen aan verantwoording
+##### Artikel 30. Eisen aan verantwoording
 
 1. De verantwoording legt een koppeling met de begroting en volgt de systematiek van de begroting. [Artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=8&artikel=26&z=2012-07-01&g=2012-07-01) is van overeenkomstige toepassing. Afwijkingen van de begroting worden toegelicht.
 
 2. De verantwoording bevat een vergelijking met de realisatie, opgenomen in de verantwoording van het voorafgaande jaar, en de begroting van het jaar waarop de verantwoording betrekking heeft.
 
-#### Artikel 31. Eisen aan het jaarverslag
+##### Artikel 31. Eisen aan het jaarverslag
 
 1. In het jaarverslag doet de Bank verslag van:
 
@@ -402,7 +428,7 @@ Op de gewijzigde of aanvullende begroting, bedoeld in artikel 154, vierde lid, v
 
 2. [Artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028776&paragraaf=8&artikel=27&z=2012-07-01&g=2012-07-01), is van overeenkomstige toepassing op het jaarverslag.
 
-#### Artikel 32. Bevindingen
+##### Artikel 32. Bevindingen
 
 De raad van commissarissen vermeldt in zijn bevindingen of:
 
@@ -414,7 +440,7 @@ De raad van commissarissen vermeldt in zijn bevindingen of:
 
 #### Paragraaf 9. Kosten
 
-#### Artikel 33. Vaststelling verschuldigd bedrag kosten
+##### Artikel 33. Vaststelling verschuldigd bedrag kosten
 
 1. De minimumbedragen, bedoeld in [artikel 42, tweede lid, onderdeel a, van het Besluit Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028316&artikel=42) bedragen voor het:
 
@@ -440,7 +466,7 @@ De raad van commissarissen vermeldt in zijn bevindingen of:
 
 - b. materieel toezicht voor verzekeraars: 0,001125%.
 
-#### Artikel 34. Citeertitel
+##### Artikel 34. Citeertitel
 
 Deze regeling wordt aangehaald als Regeling Pensioenwet BES.
 
@@ -730,7 +756,7 @@ Treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet 
 
 #### Paragraaf 6a. Vrijstelling termijn kortetermijnherstelplan
 
-#### Artikel 18a. Vrijstelling termijn kortetermijnherstelplan
+##### Artikel 18a. Vrijstelling termijn kortetermijnherstelplan
 
 1. Voor een pensioenfonds dat een kortetermijnherstelplan als bedoeld in [artikel 16b, tweede lid, van de Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16b) heeft ingediend, geldt met inachtneming van dit artikel, een verlenging van de looptijd met maximaal twee jaar indien het pensioenfonds een herzien kortetermijnherstelplan indient uiterlijk vier maanden voor de afloop van de termijn van het oorspronkelijke kortetermijnherstelplan.
 

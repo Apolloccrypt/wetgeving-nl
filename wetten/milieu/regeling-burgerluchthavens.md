@@ -1,0 +1,1507 @@
+---
+title: "Regeling houdende regels voor burgerluchthavens (Regeling burgerluchthavens)"
+identifier: "BWBR0026564"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-07-30"
+last_updated: "2024-07-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026564"
+soort: "ministeriele-regeling"
+stam_id: "10254103"
+version_id: "16780612"
+internal_id: "C23102461"
+label_id: "10229914"
+dtd_version: "2.0"
+original_entry_into_force: "2009-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026564/2024-07-30/0"
+intitule_bron: "Stcrt.2009-16154"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-10-27"
+intitule_published: "2009-10-30"
+intitule_in_force: "2009-10-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-16154"
+original_signed_date: "2009-10-27"
+original_published_date: "2009-10-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-16154"
+entry_into_force_date: "2009-11-01"
+jci_1_3: "jci1.3:c:BWBR0026564&z=2024-07-30&g=2024-07-30"
+jci_1_0: "1.0:c:BWBR0026564&g=2024-07-30"
+citeertitel_status: "officieel"
+short_title: "Regeling burgerluchthavens"
+signed_date: "2009-10-27"
+entry_into_force: "2009-11-01"
+---
+# Regeling houdende regels voor burgerluchthavens (Regeling burgerluchthavens)
+
+Gelet op:
+
+de [artikelen 8.49, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.49), [8.55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.55), juncto [artikel 8.29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.29), [8.64, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.64), juncto [artikel 8.49, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.49), [8.72, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.72) en [8a.50, tweede lid van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.50);
+
+de [artikelen 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&artikel=3), [13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&artikel=13), [14, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&artikel=14), [15, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&artikel=15), en [17, derde lid, van het Besluit burgerluchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&artikel=17);
+
+Besluiten:
+
+### Hoofdstuk 1. Algemeen
+
+##### Artikel 1
+
+In deze regeling wordt verstaan onder:
+
+- **10-5 en 10-6 plaatsgebonden risicocontouren:** contouren ter aanduiding van de beperkingengebieden in verband met het externe-veiligheidsrisico vanwege het luchthavenluchtverkeer als bedoeld in [artikel 9 van het Besluit burgerluchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&artikel=9);
+
+- **besluit:** [Besluit burgerluchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0026525);
+
+- **gemotoriseerd schermvliegtuig:** schermvliegtuig, zijnde een zweeftoestel zonder starre hoofdstructuur dat kan worden gedragen en slechts kan worden gestart en geland door gebruik te maken van de benen van de bestuurder, dat over een motor beschikt;
+
+- **Lden-contouren:** contouren ter aanduiding van de beperkingengebieden in verband met de geluidbelasting vanwege het luchthavenluchtverkeer als bedoeld in [artikel 9 van het Besluit burgerluchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&artikel=9);
+
+- **schermzweeftoestel:** ongemotoriseerd schermvliegtuig, zijnde een zweeftoestel zonder starre hoofdstructuur dat kan worden gedragen en slechts kan worden gestart en geland door gebruik te maken van de benen van de bestuurder;
+
+- **totaal risicogewicht:** grenswaarde met betrekking tot het externe veiligheidsrisico vanwege het luchthavenluchtverkeer als bedoeld in [artikel 3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&artikel=3);
+
+- **verdrag:** het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109);
+
+- **vrije ballon:** luchtvaartuig, lichter dan lucht, dat niet voorzien is van een voortstuwingsinrichting en is ingericht en bestemd om ten minste één persoon te vervoeren;
+
+- **wet:** [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555);
+
+- **zeilvliegtuig:** zweeftoestel met een starre hoofdstructuur, dat kan worden gedragen en slechts gestart en geland kan worden door gebruik te maken van de benen van de bestuurder.
+
+##### Artikel 2
+
+1. Een wijziging van de op grond van deze regeling toepasselijke bijlagen bij het verdrag gaat, tenzij bij besluit van de minister anders is bepaald, voor de toepassing van deze regeling gelden met ingang van de dag waarop die wijziging internationaal in werking treedt.
+
+2. Een besluit van de minister als bedoeld in het eerste lid wordt in de Staatscourant bekendgemaakt.
+
+### Hoofdstuk 2. Grenswaarden en beperkingengebieden
+
+##### Artikel 3
+
+Dit hoofdstuk is van toepassing op overige burgerluchthavens als bedoeld in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1) en, voor zover dat in deze regeling is bepaald, op de burgerluchthaven Weeze, bedoeld in [artikel 8a.54, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.54).
+
+##### Artikel 4
+
+1. De Lden-contouren, de Lden-grenswaarden in handhavingspunten en de geluidbelasting in handhavingspunten worden berekend en bepaald overeenkomstig het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=1&z=2024-07-30&g=2024-07-30) van deze regeling opgenomen voorschrift. Daarbij wordt gebruik gemaakt van de door de Minister van Infrastructuur en Waterstaat ter beschikking gestelde Indelingslijst luchtvaartuigtypen en Addendum met de voorschriften voor de berekening van de geluidbelasting in Lden.
+
+2. Van het verschijnen van een nieuwe versie van de in het eerste lid bedoelde indelingslijst en het in het eerste lid bedoelde Addendum wordt mededeling gedaan in de Staatscourant.
+
+3. Het eerste en tweede lid zijn van overeenkomstige toepassing op de berekening van de Lden-contouren, bedoeld in [artikel 3 van het Besluit beperkingengebied Weeze](https://wetten.overheid.nl/jci1.3:c:BWBR0049481&artikel=3).
+
+##### Artikel 5
+
+1. De 10-5 en 10-6 plaatsgebonden risicocontouren en het totaal risicogewicht worden berekend en bepaald overeenkomstig het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=2&z=2024-07-30&g=2024-07-30) van deze regeling opgenomen voorschrift. Daarbij wordt gebruik gemaakt van de bij het Rijksinstituut voor Volksgezondheid en Milieu in beheer zijnde lijst met standaardgegevens voor vliegtuigen en helikopters.
+
+2. Van het verschijnen van een nieuwe versie van de in het eerste lid bedoelde lijst wordt mededeling gedaan in de Staatscourant.
+
+##### Artikel 6
+
+Het berekenen en bepalen van de Lden-contouren en de 10-5 en 10-6 plaatsgebonden risicocontouren geschiedt, ten behoeve van het vaststellen van een luchthavenbesluit, op basis van dezelfde geprognotiseerde gebruiksgegevens van de luchthaven als die gebruikt worden voor het berekenen van de in het luchthavenbesluit vast te stellen grenswaarden in handhavingspunten.
+
+##### Artikel 7
+
+1. De omvang van het veiligheidsgebied als bedoeld in [artikel 13 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&artikel=13) wordt vastgesteld overeenkomstig het in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=3&z=2024-07-30&g=2024-07-30) van deze regeling opgenomen voorschrift.
+
+2. In het veiligheidsgebied:
+
+- a. zijn hellingen niet groter dan 5%;
+
+- b. zijn hellingovergangen zo geleidelijk mogelijk; en
+
+- c. zijn abrupte overgangen en plotseling tegengestelde hellingen niet toegestaan.
+
+3. In het veiligheidsgebied voldoen obstakels aan de voorschriften die zijn opgenomen in de hoofdstukken 2, 3, 4 en 7 van ICAO DOC 9157 Aerodrome Design Manual part 6, dat als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=4&z=2024-07-30&g=2024-07-30) bij deze regeling is opgenomen, met uitzondering van de onderdelen 2.1.2 tot en met 2.1.15, 2.2.3, 2.2.6 tot en met 2.2.8, 3.1.3 tot en met 3.1.10, 4.1.1 tot en met 4.1.3, 4.1.5, 4.3, 4.4.1, 4.4.2, 4.9.1 tot en met 4.9.10, 4.9.25, 4.9.26, 4.9.31, 7.1 en 7.3, en met dien verstande dat het voorschrift in de onderdelen 3.3.1 en 4.9.30 geldt voor alle obstakels in het veiligheidsgebied.
+
+##### Artikel 8
+
+1. Het gebied met hoogtebeperkingen in verband met de vliegveiligheid als bedoeld in [artikel 14 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&artikel=14) wordt vastgesteld overeenkomstig de voorschriften en aanbevelingen van hoofdstuk 4 van deel I (Aerodrome Design and Operations) van bijlage 14 van het verdrag, met uitzondering van de onderdelen 4.1.11, 4.1.12, 4.1.17 tot en met 4.1.24, 4.2.3, 4.2.4, 4.2.5, 4.2.10 tot en met 4.2.12, 4.2.14, 4.2.15, 4.2.18 tot en met 4.2.21, 4.2.25, 4.2.27, 4.3.1, 4.3.2, 4.4.1, 4.4.2, figuur 4-2 en de in tabel 4-1 opgenomen inner approach surface, inner transitional surface en balked landing surface en de daarbij behorende dimensies, en met dien verstande dat:
+
+- a. voor luchthavens met een approach runway met code number 1, 2, 3 of 4 als bedoeld in tabel 4-1 de outer horizontal surface en de conical surface worden vastgesteld overeenkomstig [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=5&z=2024-07-30&g=2024-07-30) van deze regeling;
+
+- b. voor het bepalen van een in tabel 4-1 en tabel 4-2 opgenomen code number gebruik wordt gemaakt van tabel 1-1 in deel I (Aerodrome Design and Operations) van bijlage 14 van het verdrag;
+
+- c. voor het toepassen van de in tabel 4-1 opgenomen begrippen non-precision approach en precision approach category I, II, III, gebruik wordt gemaakt van de definitie Instrument runway in hoofdstuk 1 van deel I (Aerodrome Design and Operations) van bijlage 14 van het verdrag;
+
+- d. onderdeel 4.2.13 ook van toepassing is op een precision approach runway category II en III als bedoeld in tabel 4-1;
+
+- e. voor het toepassen van de begrippen aerodrome reference point, aerodrome reference field length, clearway, displaced threshold, non-instrument runway, obstacle, runway, runway strip, take-off runway en threshold gebruik wordt gemaakt van de desbetreffende definities in hoofdstuk 1 van deel I (Aerodrome Design and Operations) van bijlage 14 van het verdrag.
+
+2. In afwijking van het eerste lid wordt het gebied met hoogtebeperkingen in verband met de vliegveiligheid bij een luchthaven die uitsluitend wordt gebruikt door helikopters vastgesteld overeenkomstig de voorschriften en aanbevelingen van hoofdstuk 4 van deel II (Heliports) van bijlage 14 van het verdrag, met uitzondering van de volgende onderdelen:
+
+- a. de volzin ‘For heliports intended to be used by helicopters operated in performance class 1 and when approved by an appropriate authority, the origin of the inclined plane may be raised directly above the FATO’ in 4.1.3 en 4.1.15;
+
+- b. 4.1.22 tot en met 4.1.26;
+
+- c. 4.2.4 tot en met 4.2.6;
+
+- d. 4.2.12 tot en met 4.2.29.
+
+3. Voor de toepassing van het tweede lid geldt het volgende:
+
+- a. voor het bepalen van de klasse ‘helicopters operated in performance class 1, 2 en 3’ wordt gebruik gemaakt van de definities in hoofdstuk 1 van deel III (Operation of Aircraft) van bijlage 6 van het verdrag;
+
+- b. de opmerking ‘For a FATO at a heliport without a PinS approach incorporating a visual segment surface (VSS) there is no requirement to provide transitional surface.’ onder de kop transitional service uit 4.1 van deel II (Heliports) van bijlage 14 van het verdrag is van toepassing;
+
+- c. voor luchthavens die uitsluitend worden gebruikt door helikopters en in gebruik zijn genomen voor 1 juli 2014, geldt voor de eerste sectie van de naderings- en startsector, bedoeld in onderdeel 4.2.3 van deel II (Heliports) van bijlage 14 van het verdrag, een helling van 12,5%.
+
+##### Artikel 9
+
+Het gebied met hoogtebeperkingen in verband met de goede werking van de apparatuur voor luchtverkeerscommunicatie, -navigatie of -begeleiding als bedoeld in [artikel 15 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&artikel=15) alsmede de daarin geldende hoogtebeperkingen worden vastgesteld overeenkomstig het in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=6&z=2024-07-30&g=2024-07-30) van deze regeling opgenomen voorschrift.
+
+##### Artikel 10
+
+Het laserstraalvrije gebied als bedoeld in [artikel 17 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&artikel=17) wordt vastgesteld:
+
+- a. in het geval van een luchthaven met naderingsluchtverkeersleiding overeenkomstig onderdeel 5.3.1.2 en de figuren 5-11, 5-12 en 5-13 van hoofdstuk 5 van deel I (Aerodrome Design and Operations) van bijlage 14 van het verdrag met dien verstande dat de omvang van de laser-beam sensitive flight zone gelijk is aan de omvang van het naderingsluchtverkeersleidingsgebied van de desbetreffende luchthaven bedoeld in de [Regeling luchtverkeersdienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0009899);
+
+- b. in het geval van een luchthaven zonder naderingsluchtverkeersleiding overeenkomstig onderdeel 5.3.1.2 en de figuren 5-11, 5-12 en 5-13 van hoofdstuk 5 van deel 1 (Aerodrome Design and Operations) van bijlage 14 van het verdrag met dien verstande dat geen laser-beam sensitive flight zone wordt vastgesteld.
+
+### Hoofdstuk 3. Verklaring van veilig gebruik luchtruim
+
+##### Artikel 11
+
+1. De aanvraag voor een verklaring als bedoeld in [artikel 8.49, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.49) bevat in ieder geval de volgende gegevens:
+
+- a. het aantal en de soort luchtvaartuigen die naar verwachting van de luchthaven gebruik zullen maken;
+
+- b. het tijdstip waarop de luchtvaartuigen naar verwachting van de luchthaven gebruik zullen maken;
+
+- c. de verwachte verdeling van het luchthavenluchtverkeer over de op de luchthaven aanwezige start- en landingsbanen;
+
+- d. indien de aanvraag betrekking heeft op een luchthavenbesluit of luchthavenregeling voor een:
+
+- 1°. luchthaven op een terrein dat nog niet eerder als luchthaven in gebruik is geweest;
+
+- 2°. baanverlenging op een reeds bestaande luchthaven;
+
+- 3°. uitbreiding van het banenstelsel op een bestaande luchthaven; of
+
+- 4°. verdraaiing van een baan op een bestaande luchthaven: een kaart van het gebied berekend overeenkomstig de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=8&z=2024-07-30&g=2024-07-30) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=9&z=2024-07-30&g=2024-07-30) met daarin aangegeven de objecten die hoger zijn dan de op basis van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=8&z=2024-07-30&g=2024-07-30) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=9&z=2024-07-30&g=2024-07-30) toegestane maximale bouwhoogte en een kaart van de overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=7&z=2024-07-30&g=2024-07-30) berekende gebieden met daarop aangegeven de obstakels en hellingen die niet voldoen aan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=7&z=2024-07-30&g=2024-07-30) gestelde eisen;
+
+- e. indien de aanvraag betrekking heeft op een luchthaven met een instrumentbaan categorie I, II of III op een terrein dat nog niet eerder als luchthaven in gebruik is geweest: een onderzoek op grond waarvan kan worden beoordeeld in hoeverre het grondgebruik in een straal van 6 kilometer rond het luchthavengebied gevaar oplevert voor de vliegveiligheid in verband met vogelaanvaringen; en
+
+- f. het door provinciale staten voor de desbetreffende luchthaven vastgestelde luchthavenbesluit of de luchthavenregeling.
+
+2. De aanvraag wordt ingediend bij de Inspecteur-Generaal van de Inspectie Verkeer en Waterstaat.
+
+### Hoofdstuk 4. Het registreren en verstrekken van gegevens
+
+##### Artikel 12
+
+De [artikelen 13 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=4&artikel=13&z=2024-07-30&g=2024-07-30) zijn van toepassing op overige burgerluchthavens als bedoeld in [artikel 8.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1) met dien verstande dat in het geval van een luchthaven van regionale betekenis de gegevens bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=4&artikel=13&z=2024-07-30&g=2024-07-30), en de termijn bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=4&artikel=13&z=2024-07-30&g=2024-07-30), worden verstrekt aan respectievelijk wordt gesteld door gedeputeerde staten en deze artikelen op een luchthaven van regionale betekenis slechts van toepassing zijn voor zover bij provinciale verordening, met gebruikmaking van [artikel 8.54, tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.54), geen afwijkende bepalingen zijn vastgesteld.
+
+##### Artikel 13
+
+1. De exploitant van de luchthaven registreert en berekent de in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=7&z=2024-07-30&g=2024-07-30) van deze regeling aangegeven gegevens over de daarbij aangegeven tijdvakken.
+
+2. De exploitant van de luchthaven verstrekt deze gegevens binnen de in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=7&z=2024-07-30&g=2024-07-30) van deze regeling vermelde termijn aan de Inspecteur-Generaal van de Inspectie Verkeer en Waterstaat.
+
+3. In het geval van een dreigende overschrijding van een in een luchthavenbesluit of luchthavenregeling opgenomen grenswaarde kan de Inspecteur-Generaal een andere dan de in het tweede lid bedoelde termijn bepalen waarbinnen de exploitant de desbetreffende in het eerste lid bedoelde gegevens dient te verstrekken.
+
+##### Artikel 14
+
+De exploitant van de luchthaven:
+
+- a. maakt dagelijks een back-up van de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=4&artikel=13&z=2024-07-30&g=2024-07-30), bedoelde gegevens;
+
+- b. bewaart de gegevens gedurende een periode van 5 jaar;
+
+- c. draagt er zorg voor dat de gegevens worden beveiligd tegen ongeautoriseerde wijzigingen, diefstal en brand.
+
+##### Artikel 15
+
+De exploitant van de luchthaven draagt er zorg voor dat de bevoegde personen die de registraties en berekeningen bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=4&artikel=13&z=2024-07-30&g=2024-07-30), uitvoeren, aantoonbaar in staat zijn om de registraties en berekeningen uit te voeren.
+
+##### Artikel 16
+
+De exploitant van de luchthaven beschikt over de benodigde middelen en infrastructuur om de registratie, berekening en verstrekking van de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=4&artikel=13&z=2024-07-30&g=2024-07-30), bedoelde gegevens te kunnen uitvoeren en draagt er zorg voor dat deze middelen en infrastructuur worden onderhouden en worden beveiligd tegen ongeautoriseerd gebruik, diefstal en brand.
+
+##### Artikel 17
+
+1. Het verslag bedoeld in de [artikelen 8.55](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.55) en [8.65](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.65) juncto [8.55 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.55) bevat ten minste:
+
+- a. een overzicht van zich in het afgelopen gebruiksjaar voorgedane overschrijdingen van in het luchthavenbesluit of de luchthavenregeling opgenomen grenswaarden, en
+
+- b. een beschrijving van de ter uitvoering van [artikel 8.45](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.45) of [8.64](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.64) juncto [artikel 8.45 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.45) getroffen maatregelen en van de doelmatigheid en doeltreffendheid van die maatregelen.
+
+2. Het in het eerste lid bedoelde verslag, alsmede het verslag, bedoeld in de [artikelen 8.73](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.73) en [8.78](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.78) juncto [8.73 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.73), wordt uitgebracht en openbaar gemaakt binnen 4 maanden na het einde van het gebruiksjaar van de luchthaven.
+
+### Hoofdstuk 5. Vrijstelling
+
+##### Artikel 18
+
+1. Van het verbod bedoeld in [artikel 8.1a, derde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1a) worden vrijgesteld:
+
+- a. luchthavens die buiten de provinciegrenzen zijn gelegen;
+
+- b. luchthavens gelegen op mijnbouwinstallaties in de Waddenzee;
+
+- c. luchthavens die uitsluitend worden gebruikt voor het opstijgen met vrije ballonnen;
+
+- d. luchthavens die uitsluitend worden gebruikt voor het opstijgen met schermzweeftoestellen;
+
+- e. luchthavens die uitsluitend worden gebruikt voor het opstijgen met zeilvliegtuigen;
+
+- f. luchthavens die uitsluitend worden gebruikt voor het opstijgen met gemotoriseerde schermvliegtuigen;
+
+- g. luchthavens die uitsluitend worden gebruikt voor het opstijgen en landen van modelluchtvaartuigen, waarvan de totale massa ten hoogste 25 kilogram bedraagt.
+
+2. Van de in het vorige lid, onderdelen c tot en met g bedoelde vrijstelling kan slechts gebruik worden gemaakt onder de voorwaarden dat de gebruiker van de luchthaven beschikt over een door de burgemeester van de gemeente waar de luchthaven is gelegen, in verband met de openbare orde en veiligheid, afgegeven verklaring van geen bezwaar en dat de gebruiker van de luchthaven mededeling doet van de afgifte van deze verklaring aan de inspecteur-generaal van de Inspectie Leefomgeving en Transport.
+
+##### Artikel 19
+
+Van het verbod bedoeld in [artikel 8.1a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1a) zijn vrijgesteld luchthavens die uitsluitend worden gebruikt door helikopters.
+
+### Hoofdstuk 6. Slotbepalingen
+
+##### Artikel 20
+
+Deze regeling kan worden aangehaald als: Regeling burgerluchthavens.
+
+##### Artikel 21
+
+Deze regeling treedt in werking met ingang van 1 november 2009.
+
+## Bijlage 1. als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=4&z=2024-01-01&g=2024-01-01) van de Regeling burgerluchthavens
+
+### Voorschrift voor de berekening van de Lden-geluidbelasting in dB(A) voor overige burgerluchthavens
+
+Mei 2012
+
+### 1. Inleiding
+
+### Betekenis begrippen
+
+Dit voorschrift is gebaseerd op de bepalingsmethoden die zijn ontwikkeld op grond van het European Civil Aviation Conference Report Doc. 29 met als titel ‘Standard Method of Computing Noise Contours around Civil Airports’ 4e uitgave [1] en de bepalingsmethoden ontwikkeld door het Nederlands Lucht- en Ruimtevaartcentrum met als titel ‘Rekenvoorschrift voor de berekening van de geluidbelasting als gevolg van helikoptervluchten’ [2].
+
+De berekening van de Lden-geluidbelasting heeft betrekking op het starten vanaf, het opstijgen van, het naderen tot, en het landen op een luchthavengebied door luchtvaartuigen (inclusief helikopters) met een MTOW > 150 kg.
+
+Route waarover een deel van het vliegtuigverkeer op een bepaalde nominale route wordt afgewikkeld. Door te rekenen met deelroutes wordt de horizontale spreiding van het vliegtuigverkeer voor een nominale route in rekening gebracht.
+
+In dit document wordt eerst de berekeningsmethodiek toegelicht op basis waarvan de Lden-geluidbelasting van elke vlucht wordt berekend. Vervolgens worden de invoergegevens toegelicht, waarbij onderscheid wordt gemaakt naar luchthavengegevens en verkeersgegevens. Binnen het onderdeel verkeersgegevens wordt onderscheid gemaakt naar het doel van de berekening: een berekening voor de handhaving (een handhavingsberekening) en een berekening op basis van een scenario voor de vaststelling van Lden-geluidbelastingcontouren en grenswaarden voor de Lden-geluidbelasting in handhavingspunten (een scenarioberekening).
+
+In dit document wordt gebruik gemaakt van eenheden in het Internationale Stelsel van Eenheden (SI-stelsel) en lokale tijden, tenzij anders vermeld.
+
+Vliegtuigbewegingen op een luchthaven uitgevoerd met alle ‘jet’ vliegtuigen en alle vliegtuigtypes met een startgewicht van meer dan 6000 kilogram met uitzondering van de helikopters.
+
+Dit hoofdstuk beschrijft de methode om de Lden-geluidbelasting te berekenen.
+
+Op grond van dit voorschrift kan de Lden-geluidbelasting worden berekend die wordt veroorzaakt door de op overige burgerluchthavens landende en startende luchtvaartuigen. Het betreft daarbij de geluidbelasting in netwerkpunten en handhavingspunten. Voor wat betreft de geluidbelasting in handhavingspunten gaat het daarbij om zowel de berekening van de grenswaarden (geluidbelastingberekening) als de berekening van de gerealiseerde geluidbelasting (handhavingsberekening). Een berekening voor netwerkpunten wordt gemaakt voor het kunnen bepalen van Lden-contouren (geluidbelastingberekening). In dit voorschrift is tevens beschreven op welke wijze geluidcontouren dienen te worden afgeleid, uitgaande van de berekende geluidbelastingwaarden in de netwerkpunten.
+
+De bijdrage aan de Lden-geluidbelasting van een luchtvaartuigbeweging, het geluidblootstellingsniveau, wordt berekend op basis van gegevens per luchtvaartuigbeweging (een start of landing). Daarbij worden het luchtvaartuig en het verloop van de start en het opstijgen of de nadering en de landing gespecificeerd. Dit betreft de volgende gegevens:
+
+Voor een beweging met een vliegtuig wordt het geluidblootstellingsniveau berekend volgens de Doc29 rekenmethode, vastgelegd in de vierde editie van ECAC Doc29 (zie [3]). Voor een beweging met een helikopter wordt het geluidblootstellingsniveau berekend volgens de Europese rekenmethode NORAH [2].
+
+Op basis van de geluidblootstellingsniveaus van de luchtvaartuigbewegingen in een tijdvak, wordt de Lden-geluidbelasting berekend (§ 6.2). Daarbij worden alleen luchtvaartuigbewegingen meegerekend, uitgevoerd met een luchtvaartuig met een MTOW van meer dan 150 kg.
+
+Voor de berekening van (de grenswaarden voor) de Lden-geluidbelasting in handhavingspunten gelegen binnen een afstand van 400 meter in het verlengde van de middellijn van de start- en landingsbaan en het einde van de baan (hierna: de ‘handhavingspunten binnen 400 meter van het baaneinde’) of 400 meter van de helikopterlandingsplaats wordt alleen het verkeer meegerekend dat:
+
+In de berekening van de Lden-geluidbelasting wordt met een weegfactor onderscheid gemaakt tussen luchtvaartuigbewegingen overdag, ’s avonds en ’s nachts.
+
+Bewegingen waarvan het geluidblootstellingsniveau niet kan worden bepaald vanwege ontbrekende gegevens, worden verwerkt in de berekening van de Lden-geluidbelasting volgens de methode uit § 6.2.
+
+In hoofdstuk 2 wordt het voorschrift voor de Lden-geluidbelasting op hoofdlijnen beschreven. Deel II van het voorliggende berekeningsvoorschrift geeft een toelichting op de te gebruiken invoergegevens bij het maken van een geluidsberekening. Een gedetailleerde beschrijving van de te doorlopen rekenstappen is opgenomen in Deel III van het voorschrift.
+
+### 2. Beknopte beschrijving berekeningsmethodiek
+
+### 1. Achtergrond
+
+### 3. Luchthavengegevens
+
+Dit hoofdstuk beschrijft de luchthavengegevens die nodig zijn voor de berekening van de Lden-geluidbelasting.
+
+Waarbij:
+
+### 1.2. Doel van het voorschrift
+
+Voor nieuwe luchthavens, of bij aanpassing van een start- en landingsbaan of helikopterlandingsplaats wordt aangesloten bij het ontwerp voor het luchthavenbesluit of de luchthavenregeling. In de overige situaties dienen de luchthavengegevens ontleend te worden aan het luchthavenbesluit of de luchthavenregeling dat voor die luchthaven van toepassing is.
+
+Op grond van dit voorschrift kan de Lden-geluidbelasting worden berekend die wordt veroorzaakt door de op overige burgerluchthavens landende en startende luchtvaartuigen. Het betreft daarbij de geluidbelasting in netwerkpunten en handhavingspunten. Voor wat betreft de geluidbelasting in handhavingspunten gaat het daarbij om zowel de berekening van de grenswaarden (geluidbelastingsberekening) als de berekening van de feitelijke geluidbelasting (handhavingsberekening). Een berekening voor netwerkpunten wordt gemaakt voor het kunnen bepalen van Lden-contouren (geluidbelastingsberekening). In dit voorschrift is beschreven op welke wijze geluidcontouren dienen te worden afgeleid, uitgaande van de berekende geluidbelastingwaarden in de netwerkpunten.
+
+### 3. Algemeen
+
+Met de wijziging van de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) inzake de regelgeving burgerluchthavens en militaire luchthavens (RBML) neemt de Nederlandse overheid de EU dosismaat Lden over voor de overige burgerluchthavens die onder deze wet vallen. Hiermee worden de dosismaten Ke en bkl, die eerder van toepassing waren op deze luchthavens, vervangen. De Lden-maat geldt voor alle vliegtuigen met een MTOW > 150 kg. De bkl was van toepassing op vliegtuigen met een MTOW vanaf 390 kg. Zeer lichte vliegtuigen (met MTOW tussen 150 en 390 kg), die voormalig niet onder de bkl vielen, vallen nu dus wel onder de Lden-dosismaat.
+
+Dit hoofdstuk beschrijft de verkeersgegevens die nodig zijn voor de berekening van de Lden-geluidbelasting en de wijze van het samenstellen van deze gegevens. Daarbij wordt onderscheid gemaakt tussen een handhavingsberekening en een scenarioberekening:
+
+De geluidbelasting wordt bepaald voor berekeningspunten binnen een studiegebied. Het studiegebied is een gebied rondom de luchthaven waarbinnen zich alle relevante berekeningspunten bevinden (handhavingspunten of netwerkpunten ten behoeve van de bepaling van geluidbelastingcontouren).
+
+### 1.4. Leeswijzer
+
+De grootte van het studiegebied en de lengte van grondpaden waarvoor de geluidbelasting dient te worden berekend, is afhankelijk van de aard en omvang van het luchthavenluchtverkeer en de routestructuur van de te beschouwen luchthaven. Het studiegebied dient een dusdanige grootte te hebben dat de te berekenen Lden-contour met de laagste waarde en de handhavingspunten volledig binnen het studiegebied zijn gelegen. Voor grondpaden dient een dusdanige lengte gedefinieerd te worden dat voldoende nauwkeurig wordt gerekend. Van een voldoende nauwkeurige berekening is sprake indien grondpaden doorlopen tot ten minste 1 km buiten het studiegebied.
+
+### 2. Beknopte beschrijving berekeningsmethodiek
+
+**Bij een handhavingsberekening wordt gebruik gemaakt van de door de exploitant geregistreerde gegevens van het luchthavenluchtverkeer. De te registreren gegevens zijn gegeven in deze paragraaf. Op basis van deze gegevens worden de voor de berekening benodigde gegevens gekoppeld aan de geregistreerde gegevens. Dit is beschreven in het vervolg van § 4.1.**
+
+Bij een handhavingsberekening wordt gebruik gemaakt van de volgende, door de exploitant, te registreren gegevens bij luchtvaartuigbewegingen:
+
+De geluidbelasting in alle overige handhavingspunten (de handhavingspunten onder (b) bovenstaand en eventuele additionele handhavingspunten die zijn gedefinieerd) en in alle netwerkpunten wordt berekend op basis van al het verkeer op een luchthaven.
+
+****Beknopte toelichting:****
+
+**De te registreren gegevens, zoals beschreven in § 4.1.1, dienen aangevuld te worden tot een set aan gegevens op basis waarvan de invoer voor het rekenmodel kan worden vastgesteld. De aanvulling heeft onder andere betrekking op kenmerken van het luchtvaartuig.**
+
+De volgende stappen dienen doorlopen te worden om aanvullende gegevens te koppelen aan iedere luchtvaartuigbeweging:
+
+### 4.1.3. Proxytypes en geluidreferentiewaarden
+
+### 3. Algemeen
+
+### 3.1. Berekeningspunten
+
+Per luchtvaartuigbeweging worden het proxytype en de geluidreferentiewaarden bepaald op basis van de methode in Annex A1. Daarbij wordt tevens per luchtvaartuigbeweging bepaald of het groot, klein of helikopterverkeer betreft en wordt, voor helikopters, de helikopterconfiguratie bepaald.
+
+In de handhavingsrapportage wordt per luchtvaartuigtype het aantal bewegingen waarvoor, op basis van de helikopter- of vliegtuigindelingslijst, geen proxytype is toegewezen, opgenomen.
+
+Bij de berekening wordt er van uitgegaan, dat alle passages met een luchtvaartuig langs zogenaamde vliegbanen worden afgewikkeld. Een vliegbaan wordt beschreven door:
+
+****Beknopte toelichting:****
+
+### 3.2. Invoergegevens
+
+Per luchtvaartuigbeweging wordt de correctiefactor geluid als volgt vastgesteld voor starts (Δdep) en landingen (Δapp):
+
+Waarbij het onderschrift ‘proxy’ verwijst naar de geluidcertificatiewaarde(n) horend bij het proxytype zoals gespecificeerd in de kenmerkenlijst voor proxytypes. Het onderschrift ‘ref’ verwijst naar de gekoppelde geluidreferentiewaarde(n) horend bij het luchtvaartuig.
+
+De uiteindelijke correctiefactor geluid ΔLc wordt gelijkgesteld aan Δdep voor starts en aan Δapp voor landingen.
+
+Als uit voorgaande stappen geen correctiefactor volgt, vanwege ontbrekende geluidreferentiewaarden, dan wordt de correctiefactor geluid gelijkgesteld aan 0 dB.
+
+In het luchthavenluchtverkeer worden alle landende en startende luchtvaartuigen (inclusief helikopters) met een MTOW > 150 kg meegenomen. Een uitzondering hierbij betreft berekeningen die worden gemaakt ten behoeve van een omzettingsregeling voor luchthavens waarvoor vòòr de inwerkingtreding van de wijziging van de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) inzake RBML alleen een Bkl-zone in de aanwijzing is vastgelegd (en dus geen Ke-zone). De grenswaarden voor handhavingspunten die bij het nemen van de omzettingsregelingen voor deze luchthavens worden vastgesteld, worden gebaseerd op het luchthavenluchtverkeer dat eveneens is gebruikt voor het vaststellen voor de laatst vastgestelde Bkl-zone. Bij het vaststellen van Bkl-zones zijn met name helikopterverkeer en zeer licht verkeer (Micro Light Aircraft – MLA’s) niet meegenomen. Voor dit type verkeer zijn in de aanwijzingen veelal quota opgenomen. Deze quota zullen worden overgenomen in de omzettingsregelingen. Ook bij het handhaven van de grenswaarden in handhavingspunten, die met een omzettingregeling zijn vastgesteld, wordt alleen het type verkeer meegenomen dat ten grondslag ligt aan de laatst vastgestelde Bkl-zone. Op het moment dat een luchthavenbesluit of luchthavenregeling wordt genomen wordt al het landend en startend luchthavenluchtverkeer met een MTOW > 150 kg meegenomen.
+
+****Beknopte toelichting:****
+
+**Voor het bepalen van de atmosferische condities op een luchthaven wordt onderscheid gemaakt tussen het winter- en het zomerseizoen.**
+
+### 4. Grondpaden en spreiding
+
+Met betrekking tot het vaststellen van grondpaden en spreiding wordt, conform [artikel 3, lid 3, van het Besluit burgerluchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&artikel=3), een onderscheid worden gemaakt tussen:
+
+### 4.1. Luchthavens zonder naderingsluchtverkeersleiding
+
+**Bij de berekening van de Lden-geluidbelasting wordt rekening gehouden met de etmaalperiode waarin de luchtvaartuigbeweging plaatsvindt. Op basis van de geregistreerde vertrektijd (voor starts) of aankomsttijd (voor landingen) wordt bepaald of het een dag, avond- of nachtbeweging betreft.**
+
+Per luchtvaartuigbeweging wordt de etmaalperiode bepaald op basis van het geregistreerde tijdstip (lokale tijd) waarop de luchtvaartuigbeweging heeft plaatsgevonden:
+
+De wijze waarop grondpaden, spreidingsgebieden en daaruit af te leiden deelroutes worden vastgesteld, maakt geen deel uit van het berekeningsvoorschrift. In de toelichting op de uitgevoerde geluidsberekeningen (ten behoeve van de vaststelling van een grenswaarde op te nemen in een luchthavenbesluit of luchthavenregeling) dient te worden beschreven en gemotiveerd wat er op dit punt in de berekeningen is toegepast.
+
+****Beknopte toelichting:****
+
+**Grondpaden karakteriseren, als een reeks van geografische locaties uitgedrukt in Rijksdriehoekscoördinaten (in meters), de uitvoering van de vlucht in het horizontale referentievlak. Het prestatieprofiel geeft het verloop van de vlieghoogte, vliegsnelheid en motorstuwkracht als functie van de afgelegde weg langs het grondpad.**
+
+### 4.2. Luchthavens met naderingsluchtverkeersleiding
+
+**Voor de berekening van de geluidbelasting in handhavingspunten binnen 400 meter van het baaneinde of de helikopterlandingsplaats en voor luchthavens van regionale betekenis, worden modelroutes gebruikt om het grondpad te beschrijven en wordt een ‘standaard’ prestatieprofiel toegekend.**
+
+Voor de berekening van de geluidbelasting in handhavingspunten binnen 400 meter van het baaneinde of de helikopterlandingsplaats en voor luchthavens van regionale betekenis, worden modelroutes gebruikt om het grondpad te beschrijven en wordt een ‘standaard’ prestatieprofiel toegekend.
+
+Voor de handhavingspunten binnen 400 meter van het baaneinde wordt het grondpad van luchtvaartuigbewegingen op die baan bepaald door een modelroute in de vorm van een rechte lijn die over de centerline van de start-/landingsbaan loopt. Voor een start begint de modelroute op het startpunt op de baan en eindigt op minimaal 10 km afstand van het handhavingspunt. Voor een landing begint de modelroute op minimaal 10 km afstand van het handhavingspunt, heeft het een punt op de baandrempel voor landend verkeer en eindigt aan het einde van de baan.
+
+Voor de handhavingspunten binnen 400 meter van de helikopterlandingsplaats, eventueel per uitvliegrichting, wordt het grondpad van helikopterbewegingen gerepresenteerd door, eventueel per uitvliegrichting, een rechte lijn van (voor starts) of naar (voor landingen) de helikopterlandingsplaats over het handhavingspunt. Voor een start eindigt de modelroute op minimaal 10 km afstand van het handhavingspunt; voor een landing begint de modelroute op minimaal 10 km afstand van het handhavingspunt.
+
+Voor luchthavens van regionale betekenis waar aanvullende handhavingspunten zijn gedefinieerd, niet zijnde de handhavingspunten binnen 400 meter van het baaneinde of de helikopterlandingsplaats, wordt een modelroute toegekend op de wijze zoals vastgelegd in het luchthavenbesluit / de luchthavenregeling, zie § 4.2.3.
+
+### 5. Vliegtuigcategorieën en prestatiegegevens
+
+### 5.1. Vliegtuigcategorieën
+
+De radargegevens dienen te voldoen aan de voorwaarden in Annex A3 en gekoppeld te kunnen worden aan luchtvaartuigbewegingen. Radargegevens dienen gekoppeld te worden aan (zie ook onderstaande figuur):
+
+De methode waarop radargegevens gekoppeld worden aan luchtvaartuigbewegingen is beschreven in Annex A4.
+
+### 5.2. Prestatiegegevens
+
+Als een radartrack gekoppeld is aan een luchtvaartuigbeweging voor groot verkeer of helikopterverkeer, dan wordt het grondpad gebaseerd op de radartrack. Het prestatieprofiel op basis van radargegevens wordt toegekend volgens de methode beschreven in Annex A5. Het startpunt van het grondpad voor een start wordt bepaald op het startpunt (s = 0) van het prestatieprofiel. Als het grondpad of het prestatieprofiel niet vastgesteld wordt of kan worden op basis van radargegevens, dan wordt aan de vlucht de modelroute en het prestatieprofiel toegekend op de wijze zoals vastgelegd in het luchthavenbesluit / de luchthavenregeling, zie § 4.2.3.
+
+De afgelegde weg is onderverdeeld in een aantal segmenten, vastgelegd door een begin- en eindpunt, waarbij per segment geldt:
+
+Een scenarioberekening kan betrekking hebben op een verwacht gebruik van de luchthaven, op een gerealiseerd gebruik van de luchthaven of op een combinatie daarvan en dient voor het bepalen van de Lden-geluidbelastingcontouren en grenswaarden voor de Lden-geluidbelasting in handhavingspunten. Deze paragraaf geeft een richtlijn voorde invoergegevens. Dit betreft het vaststellen van de verkeersgegevens (§ 4.2.1) en het toepassen van een meteotoeslag (§ 4.2.2). Van de richtlijn kan gemotiveerd worden afgeweken. § 4.2.3 geeft de gegevens die dienen te worden vastgelegd ten behoeve van de handhavingsberekening.
+
+Om deze redenen worden voor de berekening van de geluidbelasting de bestaande luchtvaartuigtypen ingedeeld in een beperkt aantal gespecificeerde categorieën. De categorieën en de toedeling van luchtvaartuigtypen (met ICAO code) naar de categorieën, zijn vastgelegd in de indelingslijst [Ref. 6] (zie ook paragraaf 3.2). Per categorie is in de Appendices een representatief luchtvaartuigtype aangegeven, hetgeen inhoudt dat alle luchtvaartuigtypen die tot één categorie behoren, worden verondersteld identieke geluids- en prestatiegegevens te hebben. Alleen de in de Appendices vermelde representatieve luchtvaartuigtypes per categorie mogen bij de berekening van de geluidbelasting worden toegepast. Voor de te gebruiken versie van de Appendices en de indelingslijst wordt verwezen naar paragraaf 3.2 van dit berekeningsvoorschrift.
+
+Voor gerealiseerd gebruik van de luchthaven wordt aangesloten bij de verkeersgegevens voor een handhavingsberekening. Hierbij wordt voor de bepaling van de Lden-geluidbelastingcontouren gebruik gemaakt van dezelfde grondpaden als in de berekening van de Lden-geluidbelasting in de aanvullende handhavingspunten.
+
+Voor verwacht gebruik van de luchthaven dienen gegevens beschikbaar te zijn omtrent de aantallen luchtvaartuigbewegingen en de kenmerken van deze bewegingen. Dit zijn:
+
+De [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) biedt de mogelijkheid om een aparte gebruiksruimte vast te stellen voor maatschappelijk verkeer, waarvoor een andere grenswaarde dan een maximale geluidbelasting in Lden-gebruikt kan worden. In dat geval worden in een handhavingsberekening alle landende en startende luchtvaartuigen (inclusief helikopters) met een MTOW > 150 kg meegenomen, met uitzondering van maatschappelijk verkeer (evt. op basis van de CBS-vluchtcode).
+
+Deze gegevens worden, voor zover nodig, bepaald en verrijkt met behulp van onderstaande methodes, om te komen tot de gegevens die nodig zijn voor de berekening van de geluidblootstellingsniveaus per luchtvaartuigbeweging. De geluidbelasting kan vervolgens bepaald worden uit de sommatie van de geluidblootstellingsniveaus van individuele luchtvaartuigbewegingen. Zie daarvoor § 6.2. In de rapportage bij de scenarioberekening wordt onderbouwd dat de gehanteerde gegevens representatief zijn.
+
+Op soortgelijke wijze kan voor helikopterbewegingen een representatief hoogte- en snelheidsverloop worden vastgesteld.
+
+Na koppeling van het prestatieprofiel wordt voor iedere luchtvaartuigbeweging voor starts:
+
+Aangezien voor zowel landings- als circuitprocedures de respectievelijke vliegtuiggewichten per categorie relatief weinig variëren, is hiervoor geen indeling naar klassen gemaakt. Voor landingsprocedures is een onderverdeling gemaakt op basis van de initiële naderingshoogte. Bovendien zijn voor een beperkt aantal types noise abatement procedures opgenomen, zoals continuous descent approaches en reduced flap procedures.
+
+### 6. Geluidsniveaus
+
+De lengte van prestatieprofielen (dit betreft hoogte-, snelheids- en stuwkrachtprofielen) is gelijk aan de som van de lengten van alle profielsegmenten. Als het grondpad van een route, waarvoor de geluidbelasting moet worden berekend, langer is dan de bijbehorende lengte van de prestatieprofielen, dan moeten deze prestatieprofielen worden geëxtrapoleerd. Hiervoor is de volgende procedure voorgeschreven:
+
+Ten behoeve van een handhavingsberekening moet zijn vastgelegd welke modelroutes gebruikt moeten worden en hoe modelroutes en prestatieprofielen worden toegekend aan luchtvaartuigbewegingen voor luchthavens van regionale betekenis en voor luchtvaartuigbewegingen op luchthavens van nationale betekenis waarvoor geen radargegevens gekoppeld kunnen worden.
+
+Als het luchthavenbesluit of de luchthavenregeling aanvullende handhavingspunten bepaalt (ten opzichte van de handhavingspunten binnen 400 meter van het baaneinde), dienen modelroutes beschikbaar te zijn, bepaald op basis van de richtlijnen en uitgangspunten opgenomen Annex A2. Daarbij moeten:
+
+Tevens is een koppelingstabel beschikbaar waarmee de modelroutes aan geregistreerde luchtvaartuigbewegingen kunnen worden gekoppeld. Deze tabel dient ten minste per type verkeer (groot, klein of helikopter) en start-/landingsbaan en helikopterlandingsplaats een (verdeling over) modelroutes(s) te geven.
+
+Als in het luchthavenbesluit of de luchthavenregeling alleen handhavingspunten binnen 400 meter van het baaneinde of de helikopterlandingsplaats zijn vastgelegd, zijn bovenstaande gegevens niet vereist.
+
+### 6. Geluidsniveaus
+
+Tevens is een koppelingstabel beschikbaar die voor starts voor vliegtuigen de verschuiving van het prestatieprofiel ten behoeve van het 500 ft uitlijningspunt geeft. Deze tabel geeft, ten minste per type verkeer (voor het groot en klein verkeer) en startbaan, op basis van onderbouwde inschattingen van de toe te passen verschuiving van het 500 ft uitlijningspunt.
+
+De afstand tussen het luchtvaartuig en het betreffende berekeningspunt wordt berekend zoals beschreven in Deel III. Voor het bepalen van het geluidsniveau dient meestal geïnterpoleerd of geëxtrapoleerd te worden tussen de opgegeven waarden in de geluidstabellen in de Appendices [Ref. 2].
+
+Voor de representatie van luchtvaartuigtypes in geluidberekeningen is een set aan gegevens vastgelegd, die wordt gepubliceerd door de minister, zie ook § 2.2. Het betreft de volgende gegevens voor vliegtuigen en helikopters.
+
+Per vliegtuigproxytype zijn beschikbaar:
+
+### Deel III. Gedetailleerde beschrijving berekeningsmethodiek Lden-geluidbelasting
+
+### 6. Uitvoering berekeningen
+
+LA**zjkm** is het momentane geluidsniveau dat in een berekeningspunt wordt waargenomen, indien een vliegtuig, behorend tot categorie k, een vlucht uitvoert volgens procedure m boven grondpad j en zich bevindt in een punt Z van de vliegbaan. LA**zjkm** wordt als volgt berekend:
+
+### 9. Bepaling tijdsgeïntegreerd geluidsniveau
+
+In een handhavingsberekening wordt gebruik gemaakt van de in het luchthavenregister vastgelegde gegevens met betrekking tot de vliegtuig- en helikopterbewegingen over de periode waarop de handhavingsberekening betrekking heeft. In een handhavingsberekening wordt gebruik gemaakt van de volgende door een exploitant te registreren kenmerken van bewegingen:
+
+De locaties van de handhavingspunten dienen te worden ontleend aan (het ontwerp voor) het luchthavenbesluit of de luchthavenregeling.
+
+### 10. Berekening geluidbelasting
+
+met:
+
+De aldus berekende grenswaarde wordt rekenkundig afgerond op 2 decimalen.
+
+Waarbij:
+
+Voor het bepalen van Lden-geluidbelastingcontouren, wordt de Lden-geluidbelasting berekend in rekenpunten in het studiegebied.
+
+Binnen het studiegebied wordt een orthogonaal netwerk van rekenpunten gedefinieerd, met een onderlinge afstand van 100 meter tussen de rekenpunten. Voor een helikopterluchthaven is de onderlinge afstand tussen de rekenpunten 20 meter. Het netwerk van punten is zodanig dat de rekenpunten iedere 1.000 meter in X- en Y-richting samenvallen met de gehele kilometerwaarden in het Rijksdriehoeksstelsel.
+
+Voor alle berekeningspunten worden de geluidbelastingen op de hier beschreven wijze berekend. De berekende waarden van de geluidsniveaus, tijdsgeïntegreerde geluidsniveaus, hindersombijdragen, hindersommen en geluidbelastingen dienen in alle gevallen bij de verdere berekening te worden meegenomen, m.a.w. voor deze parameters geldt geen drempelwaarde, waar beneden de betreffende bijdrage mag worden verwaarloosd.
+
+Als de terreinhoogte binnen het studiegebied van de luchthaven minder dan 25 meter verschilt ten opzichte van de hoogte van het ARP (zie hoofdstuk 3), wordt geen rekening gehouden met de terreinhoogte. De rekenpunten liggen in deze situatie op het luchthavenniveau.
+
+Als de terreinhoogte binnen het studiegebied van de luchthaven 25 meter of meer verschilt ten opzichte van de hoogte van het ARP, wordt in de berekening van het vliegtuiggeluid **wel** rekening gehouden met de terreinhoogte. Voor elk rekenpunt in het studiegebied wordt het hoogteverschil ten opzichte van het ARP bepaald op basis van de maaiveldhoogtes in het Actueel Hoogtebestand Nederland (AHN). Als gegevens omtrent de hoogte van een rekenpunt ontbreken, wordt de hoogte voor dit rekenpunt gelijkgesteld aan de hoogte in het dichtstbijzijnde rekenpunt. Om de invloed van snel veranderende hoogtevariaties en ruis in de hoogtegegevens te beperken wordt een Gaussian filter toegepast op het tweedimensionale vlak. Dit filter wordt ingesteld met een standaarddeviatie die gelijk is aan de onderlinge afstand tussen de rekenpunten. De hoogte van rekenpunten voor de handhavingspunten, met uitzondering van de handhavingspunten binnen 400 meter van het baaneinde, wordt aangepast conform de hoogteverschillen binnen het studiegebied ten opzichte van de hoogte van het ARP.
+
+De geluidbelasting die is berekend op basis van het aantal verwerkte vliegtuigpassages, wordt gecorrigeerd door de hindersom voor ieder referentie- en handhavingspunt te vermenigvuldigen met de correctiefactor (fc) conform de onderstaande vergelijking:
+
+De Lden-geluidbelasting in een rekenpunt ten gevolge van het luchthavenluchtverkeer per tijdvak wordt berekend met de volgende formule:
+
+met:
+
+### 11. Presentatie van berekeningsresultaten
+
+De factor fc,jkm corrigeert de berekende Lden-geluidbelasting op basis van het aantal verwerkte luchtvaartuigbewegingen voor het aantal niet-verwerkte luchtvaartuigbewegingen binnen een specifieke groep jkm. Een luchtvaartuigbeweging kan bijvoorbeeld niet worden verwerkt als het proxytype niet kan worden vastgesteld. De correctiefactor fc,jkm wordt als volgt bepaald per type verkeer j, vluchtsoort k en etmaalperiode m:
+
+### Appendix A. De bepaling van geluidbelastingscontouren
+
+### A.1. Inleiding
+
+met:
+
+### A.2. Verfijning van het netwerk
+
+De geluidbelasting die is berekend op basis van het aantal verwerkte passages met een luchtvaartuig, wordt gecorrigeerd door de hindersom voor ieder referentie- en handhavingspunt te vermenigvuldigen met de correctiefactor (fc) conform de onderstaande formule:
+
+De berekeningswijze van het geluidblootstellingsniveau per luchtvaartuigbeweging is verschillend voor vliegtuiggeluid en helikoptergeluid.
+
+Per unieke vliegtuigbeweging, i, in het tijdvak wordt, in rekenpunt P, het (ongecorrigeerde) geluidblootstellingsniveau LAE,o,i berekend conform de Doc29 rekenmethode zoals vastgelegd in de vierde editie van ECAC Doc29 [3] met een modelimplementatie die voldoet aan de aanbevolen nauwkeurigheid zoals beschreven in ECAC Doc29 (zie [3] part 1, § 4.3). Voor de berekening wordt gebruik gemaakt van:
+
+Het aldus berekende (ongecorrigeerde) geluidblootstellingsniveau wordt gecorrigeerd voor de correctiefactor geluid uit de invoergegevens (zie hoofdstuk 4):
+
+met:
+
+Per unieke luchtvaartuigbeweging met een helikopter, i, in het tijdvak wordt, in rekenpunt P, het ongecorrigeerde geluidblootstellingsniveau
+
+berekend conform dit rekenvoorschrift, dat gebaseerd is op [2], en op basis van het grondpad en vlieghoogte van de luchtvaartuigbeweging. Bij de berekening wordt gebruik gemaakt van de atmosferische condities die voor de luchtvaartuigbeweging zijn bepaald, zie § 3.2.
+
+Het berekende ongecorrigeerde geluidblootstellingsniveau wordt gecorrigeerd met de correctiefactor geluid en een constante algemene grondplaatcorrectie:
+
+met:
+
+Indien gerekend is met een netwerk met een maaswijdte van 100 meter wordt over het gegeven netwerk een nieuw netwerk gelegd met een maaswijdte van 25 meter en met dezelfde buitenrand. Uitgaande van de berekende geluidbelastingwaarden in de oorspronkelijke netwerkpunten worden in de punten van het verfijnde netwerk door middel van een interpolatiemethode benaderde geluidbelastingwaarden berekend. Deze interpolatiemethode is als volgt.
+
+### A.3. Het bepalen van omslagpunten
+
+### 8. Referenties
+
+waarbij nx en ny het aantal netwerklijnen zijn in x- resp. y-richting. De geluidbelastingwaarde in elk netwerkpunt (xi, yj) is zi,j. De interpolerende functie voor dit netwerkvierkant is gegeven door de volgende bikubische polynoom:
+
+**A1** Bepalen van het proxytype en geluidreferentiewaarden
+
+### A.3.2. Het opzoeken van opeenvolgende omslagpunten
+
+**A3** Voorwaarden aan radargegevens
+
+**A4** Toewijzen radargegevens
+
+**A5** Bepalen van prestatieprofielen voor luchtvaartuigbewegingen
+
+### A.3.3. Het rangschikken van de gevonden omslagpunten
+
+**A7** Lijsten ten behoeve van het opstellen van verkeersgegevens
+
+Voor een reeks van achtereenvolgende omslagpunten, waarvan het startpunt (zie § A.3.1) op de rand van het netwerk ligt geldt dat het eerste punt in die rangschikking het omslagpunt is op de rand van het netwerk met de kleinste x-coördinaat t.o.v. de oorsprong van het netwerk (i=1 en j=1, zie § A.2). Indien twee oplossingen mogelijk zijn dan geldt dat het eerste punt wordt bepaald door het omslagpunt op de rand van het netwerk met de kleinste y-coördinaat t.o.v. de oorsprong van het netwerk.
+
+Deze Annex geeft de methode waarmee het proxytype en de geluidreferentiewaarden dienen te worden bepaald. Er wordt onderscheid gemaakt naar vliegtuigen en helikopters in de te doorlopen stappen.
+
+### Voor vliegtuigen
+
+Het proxytype wordt bepaald aan de hand van de vliegtuigindelingslijst en de kenmerkenlijst voor proxytypes (zie Annex A7). Tevens wordt op basis van de vliegtuigindelingslijst bepaald of het luchtvaartuigtype wordt geclassificeerd als groot verkeer of klein verkeer. Het proxytype wordt als volgt bepaalt:
+
+Na uitvoering van bovenstaande stappen is het proxytype en het luchtvaartuigtype (groot of klein verkeer) bepaald.
+
+Voor **groot verkeer** dienen de geluidreferentiewaarden en het certificatiehoofdstuk vastgesteld te worden aan de hand van de luchtvaartuigregistratielijst en de Europese geluidcertificatielijst.
+
+Voor **klein verkeer** dienen de geluidreferentiewaarden en het certificatiehoofdstuk vastgesteld te worden door gebruik te maken van de luchtvaartuigregistratielijst en de Europese geluidcertificatielijst.
+
+Aan de voorkant en achterkant van het interval [0,tN] worden nog drie even lange segmenten toegevoegd, zodat de segment-indeling bepaald wordt door (n+6) knooppunten τi = (i-1) ∆t, I = -2,-1,0,1....., n+3. De 3e graads polynomen(basic splines) zijn positief in het interval [τi, τi+3] en nul daarbuiten, i = -2,..,n:
+
+Voor helikopters worden eerst de geluidreferentiewaarden en het certificatiehoofdstuk vastgesteld aan de hand van de luchtvaartuigregistratielijst, de Europese geluidcertificatielijst en de luchtvaartuigregisterlijst:
+
+Vervolgens dienen de volgende stappen doorlopen te worden om een proxytype te koppelen voor iedere luchtvaartuigbeweging met een helikopter:
+
+Als een proxytype is gekoppeld, wordt de helikopterconfiguratie van het proxytype, zoals gespecificeerd in de kenmerkenlijst voor proxytypes, vergeleken met de helikopterconfiguratie van het luchtvaartuigtype van de luchtvaartuigbeweging, zoals gespecificeerd in de helikopterconfiguratielijst. Bij een tegengestelde helikopterconfiguratie wordt het prestatieprofiel gecorrigeerd, zie Annex A6. In het geval de helikopterconfiguratie van het luchtvaartuigtype van de luchtvaartuigbeweging niet vastgesteld kan worden, wordt uitgegaan van de helikopterconfiguratie van het gekoppelde proxytype.
+
+Hierbij geldt voor de gewichtsfactoren wj:
+
+De wijze waarop grondpaden voor modelroutes voor (circuit-)starts en landingen worden vastgesteld voor de berekening van Lden-geluidbelastingcontouren en grenswaarden voor de Lden-geluidbelasting in handhavingspunten (met uitzondering van de berekening van de Lden-geluidbelasting in handhavingspunten binnen 400 meter van het baaneinde), maakt geen deel uit van het berekeningsvoorschrift. In de toelichting op de uitgevoerde geluidsberekeningen wordt beschreven en gemotiveerd wat er op dit punt in de berekeningen is toegepast.
+
+Wel geldt er een aantal richtlijnen en uitgangspunten.
+
+Als bron wordt uitgegaan van;
+
+In het geval punt 1 en punt 2 geen uitgangspunt bieden, wordt een onderbouwde keuze gemaakt op basis van de meest actuele inzichten omtrent de te verwachten grondpaden.
+
+Aan de voorkant en achterkant van het interval [0,tN] worden nog drie even lange segmenten toegevoegd, zodat de segment-indeling bepaald wordt door (n+6) knooppunten τi = (i-1) Δt, I = –2,–1,0,1....., n+3. De 3e graads polynomen(basic splines) zijn positief in het interval [τi, τi+3] en nul daarbuiten, i = -2,..,n:
+
+### A.5. Het tekenen van contouren
+
+Bewezen kan worden dat x(t) in het interval [0, tN] continu is en een continue eerste afgeleide heeft. De onbekende coëfficiënten ai, i= –2,...,n worden bepaald door de gewogen som van de kwadraten van de afwijkingen:
+
+## Bijlage 2. als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=5&z=2010-07-01&g=2010-07-01)
+
+### Voorschrift voor de berekening en bepaling van de 10-5 en 10-6 plaatsgebonden risicocontouren en het Totaal risicogewicht voor overige burgerluchthavens
+
+De individuele radartracks worden vervolgens gekoppeld aan de door de exploitant geregistreerde luchtvaartuigbewegingen waarvoor een proxytype (zie § 4.1.3) bepaald is. De koppeling geschiedt als volgt:
+
+### A5. Bepalen van prestatieprofielen voor luchtvaartuigbewegingen
+
+### A.5. Het tekenen van contouren
+
+### Voor vliegtuigen
+
+### 1.1. Algemeen
+
+Het prestatieprofiel wordt toegewezen door het hoogte- en grondsnelheidsverloop op basis van de radartrack te vergelijken met het hoogte- en grondsnelheidsverloop van voorgeselecteerde profielen. Het best passende profiel wordt geselecteerd.
+
+Het best passende prestatieprofiel wordt als volgt bepaald.
+
+Het prestatieprofiel wordt toegewezen door het hoogteverloop op basis van de radartrack te vergelijken met het hoogteverloop van de geselecteerde beschikbare profielen. Het best passende profiel wordt geselecteerd.
+
+Het prestatieprofiel wordt als volgt bepaald.
+
+### 1. Achtergrond
+
+In het geval van een start met een vliegtuig, wordt een verschuiving in het prestatieprofiel toegepast ten behoeve van het 500 ft uitlijningspunt, zoals vastgelegd bij de berekening van de grenswaarden voor de Lden-geluidbelasting in handhavingspunten. Vervolgens wordt een lift-off correctie toegepast op het gekoppelde prestatieprofiel, dusdanig dat het lift-off punt in het prestatieprofiel op het baaneinde wordt gezet in het geval dit punt achter het baaneinde zou liggen. Tenslotte wordt voor starts het startpunt in het prestatieprofiel op het startpunt van het gekoppelde grondpad geplaatst. Als het lift-off punt in het prestatieprofiel, lettend op de lengte van de startbaan, gelegen is voor het startpunt van de vlucht, wordt deze in het prestatieprofiel verplaatst naar het startpunt van de vlucht en gebruikt voor de berekening van de geluidbelasting.
+
+### 1.3. Scope van het voorschrift
+
+Voor het vaststellen van een luchthavenbesluit moeten de 10-5 en 10-6 plaatsgebonden risicocontouren berekend en bepaald worden voor het voorgenomen verkeersscenario. Voor de bepaling van de sloopzones dient de 10-5 plaatsgebonden risicocontour gebruikt te worden, waarbij rekening dient te worden gehouden met de onzekerheid in het verwachte baangebruik als gevolg van het weer. Voor het gebruik van de plaatsgebonden risicocontour als grens van een beperkingengebied in een luchthavenbesluit, dient de contour gestileerd te worden. Daarnaast kan voor een luchthavenbesluit een grenswaarde voor het totaal risicogewicht worden bepaald. In de berekening van zowel het 10-6 plaatsgebonden risico als het TRG wordt geen rekening gehouden met de onzekerheid in het verwachte baangebruik als gevolg van het weer. Dit geldt ook voor de vijfjaarlijkse evaluatieberekening van de plaatsgebonden risicocontouren 10-5 en 10-6 van het feitelijke gebruik van de luchthaven.
+
+### 1.2. Doel van het voorschrift
+
+De selectie van de best passende hemisfeer is afhankelijk van de vliegconditie. Per positiewaarneming, beschikbaar in de radartrack, wordt uit de beschikbare hemisferen van het desbetreffende proxytype de hemisfeer geselecteerd die de laagste afwijkingsscore heeft op basis van de volgende formule:
+
+### 1.3. Scope van het voorschrift
+
+De geselecteerde hemisferen worden gefilterd om (mogelijke) onnauwkeurigheden in de radardata tegen te gaan. Als zowel voor als na een bepaald punt in de vliegbeweging minimaal twee keer dezelfde hemisfeer wordt geselecteerd, dan wordt aangenomen dat het om een constant vluchtelement gaat en wordt voor dit betreffende punt die hemisfeer geselecteerd. Hierdoor worden bijvoorbeeld korte klim- of daalbewegingen in een verder volledig level segment (met constante vlieghoogte) verwijderd. Een voorbeeld van de werking van dit filter is hieronder weergeven.
+
+Hemisfeer 2 in positiewaarneming 3 wordt in bovenstaand voorbeeld vervangen door hemisfeer 1 omdat zowel voorafgaand als na dit punt hemisfeer 1 is geselecteerd bij twee opeenvolgende punten in de radartrack.
+
+### 1.4.2. Totaal risicogewicht
+
+Deze gekoppelde prestatieprofielen wordt, als nodig, gecorrigeerd voor de hoogte van de helikopterlandingsplaats, zoals gespecificeerd in hoofdstuk 3.
+
+### A6. Bewerken van prestatieprofielen voor starts o.b.v. radargegevens
+
+Zoals beschreven in § 4.1.7 en in Annex A5 worden prestatieprofielen voor starts uitgelijnd om het best passende prestatieprofiel toe te wijzen aan een vlucht. Het uitlijningspunt ligt op het punt waar het vliegtuig een vlieghoogte van 500 voet bereikt. Figuur 2 illustreert de verschuiving om de uitlijning op het 500 voet punt te bewerkstelligen. Het toegewezen profiel (in rood) bereikt na 2.424 meter vanaf de baankop een vlieghoogte van 500 voet. De radargegevens van een specifieke vlucht (in blauw), waaraan het prestatieprofiel gekoppeld wordt, bereikt deze hoogte na 3.567 meter. Dit betekent dat het prestatieprofiel 1.143 meter (3.567 – 2.424) verschoven wordt om de uitlijning te realiseren. Dit betekent dat het volledige prestatieprofiel wordt verschoven met de verschuiving die gebruikt is om de profielen uit te lijnen met de radartrack op het 500 voet punt (in groene stippellijn). Als deze verschuiving leidt tot een lift-off punt dat na het baaneinde ligt, wordt een correctie toegepast door het lift-off punt van het modelprofiel te verplaatsen naar het einde van de baan (weergeven in groene lijn). Tenslotte wordt voor starts het startpunt in het prestatieprofiel op het startpunt van het gekoppelde grondpad geplaatst. Als het lift-off punt in het prestatieprofiel, lettend op de lengte van de startbaan, gelegen is voor het startpunt van de vlucht, wordt deze in het prestatieprofiel verplaatst naar het startpunt van de vlucht en gebruikt voor de berekening van de geluidbelasting.
+
+### A7. Lijsten ten behoeve van het opstellen van verkeersgegevens
+
+### 2. Algemeen
+
+Het plaatsgebonden risico wordt berekend in punten die in het horizontale vlak van het stelsel van de Rijksdriehoeksmeting liggen. Dit referentievlak ligt op lokaal luchthavenniveau.
+
+Het plaatsgebonden risico wordt berekend in punten die in het horizontale vlak van het stelsel van de Rijksdriehoeksmeting liggen. Dit referentievlak ligt op maaiveldhoogte.
+
+### 1. Achtergrond
+
+Voor het uitvoeren van een risicoberekening zijn invoergegevens nodig, die het verloop van het startende en landende luchthavenluchtverkeer, de ‘traffic’, van een luchthaven specificeren. De benodigde gegevens zijn hieronder samengevat en worden in de volgende paragrafen verder toegelicht:
+
+### 2.3. Luchthavengegevens
+
+Voor het vaststellen van een luchthavenbesluit moeten de 10-5 en 10-6 plaatsgebonden risicocontouren berekend en bepaald worden voor het voorgenomen verkeersscenario. Voor de bepaling van de sloopzones dient de 10-5 plaatsgebonden risicocontour gebruikt te worden, waarbij rekening dient te worden gehouden met de onzekerheid in het verwachte baangebruik als gevolg van het weer. Voor het gebruik van de plaatsgebonden risicocontour als grens van een beperkingengebied in een luchthavenbesluit, dient de contour gestileerd te worden. Daarnaast kan voor een luchthavenbesluit een grenswaarde voor het totaal risicogewicht worden bepaald. In de berekening van zowel het 10-6 plaatsgebonden risico als het TRG wordt geen rekening gehouden met de onzekerheid in het verwachte baangebruik als gevolg van het weer. Dit geldt ook voor de vijfjaarlijkse evaluatieberekening van de plaatsgebonden risicocontouren 10-5 en 10-6 van het feitelijke gebruik van de luchthaven.
+
+### 1.2. Doel van het voorschrift
+
+Dit voorschrift heeft tot doel op eenduidige wijze de berekeningsmethodieken te beschrijven, waarmee conform [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=5&z=2024-07-30&g=2024-07-30), van de Regeling burgerluchthavens de 10-5 en 10-6 plaatsgebonden risicocontouren en het totaal risicogewicht van de overige burgerluchthavens dienen te worden uitgerekend en bepaald.
+
+### 1.3. Scope van het voorschrift
+
+Het voorschrift geeft een beschrijving van de te volgen berekeningswijze voor de berekening en bepaling van plaatsgebonden risicocontouren en het TRG, inclusief de invoergegevens die daarbij nodig zijn en de wijze waarop beperkingengebieden bepaald dienen te worden. Het gaat niet in op de wijze waarop het scenario van het luchthavenluchtverkeer voor een luchthavenbesluit wordt samengesteld en hoe de invoergegevens voor de berekening dienen te worden vastgesteld.
+
+### 1.4. Beknopte beschrijving van het voorschrift
+
+In deze paragraaf wordt het voorschrift voor de berekening en bepaling van de plaatsgebonden risicocontouren en het TRG op hoofdlijnen beschreven. In hoofdstuk 3 en verder is dit in meer detail uitgewerkt.
+
+### 1.4.1. 10-5 en 10-6 plaatsgebonden risicocontouren
+
+De plaatsgebonden risicocontouren worden berekend in een plat vlak rondom de luchthaven. De berekening verloopt in hoofdlijn volgens vier stappen:
+
+### 2.4. Routes voor vliegtuigen
+
+Een route is de projectie van het nominale vliegpad in het grondvlak waarlangs vliegtuigen bij een start of nadering van of naar de start- of landingsbaan vliegen. De routes bestaan uit opeenvolgende rechte segmenten en cirkelsegmenten gegeven in het referentievlak. In een berekening van de 10-5 en 10-6plaatsgebonden risicocontouren worden vliegtuigbewegingen gekoppeld aan nominale routes.
+
+Het TRG is een functie van de ongevalkansen en de maximale startgewichten van luchtvaartuigen waarmee in een jaar bewegingen plaatsvinden. Bij de berekening van het TRG of de bepaling van een TRG grenswaarde dient geen rekening te worden gehouden met de onzekerheid in het (verwachte) baangebruik als gevolg van het weer.
+
+Voor de berekening van de plaatsgebonden risicocontour 10-5 (ter bepaling van de sloopzones) voor een luchthavenbesluit dient rekening te worden gehouden met de onzekerheid in het verwachte baangebruik als gevolg van het weer. Dit kan gedaan worden door een meteotoeslag in het verkeersscenario op te nemen. Dit is in paragraaf 2.7 nader uitgewerkt. De vliegtuig- of helikoptercategorie van een beweging bepaalt de ongevalkans voor de beweging. Deze categorieën worden hierna nader gespecificeerd.
+
+### 2.6.1. Vliegtuigen
+
+Voor vliegtuigen hangt de vliegtuigcategorie af van de operatie (gebruik) en het MTOW van het vliegtuig. Voor passagiersvliegtuigen geldt een verdere opsplitsing naar vliegtuiggeneraties. Voor de luchthavens Maastricht, Eelde, Lelystad, Rotterdam en Twente geldt een categorisering naar generatie voor vrachtvliegtuigen (cargo). Tabel 1 toont de diverse vliegtuigcategorieën.
+
+### 2.1. Studiegebied
+
+Het plaatsgebonden risico wordt berekend in punten die in het horizontale vlak van het stelsel van de Rijksdriehoeksmeting liggen. Dit referentievlak ligt op maaiveldhoogte.
+
+De afmetingen van het studiegebied moeten zo gekozen worden dat de afstand tussen de 10-6 plaatsgebonden risicocontour en de rand van het studiegebied minimaal 200 meter bedraagt. Uit praktische overweging wordt veelal een vierkant of rechthoekig gebied met de luchthaven ongeveer in het midden gekozen als studiegebied [Ref. 1].
+
+### 2.2. Invoergegevens
+
+Voor het uitvoeren van een risicoberekening zijn invoergegevens nodig, die het verloop van het startende en landende luchthavenluchtverkeer, de ‘traffic’, van een luchthaven specificeren. De benodigde gegevens zijn hieronder samengevat en worden in de volgende paragrafen verder toegelicht:
+
+Bij het motortype SEP wordt verder onderscheid gemaakt naar het gebruiksdoel van de beweging, zie Tabel 2.
+
+De luchthavengegevens betreffen de ligging van start- en landingsbanen en helikopterlandingsplaatsen van een luchthaven.
+
+Bij de toewijzing van luchtvaartuigen aan de vliegtuig- en helikoptercategorieën, uit tabel 1 en 2, dient uitgegaan te worden van de lijst met standaard vliegtuiggegevens voor vliegtuigen en helikopters die in beheer en beschikbaar is bij het RIVM. Wanneer een berekening wordt uitgevoerd ten behoeve van toetsing aan grenswaarde, dient van dezelfde versie van de lijst uitgegaan te worden als waarmee de grenswaarde bepaald zijn. Wanneer een luchtvaartuig niet is opgenomen in deze versie van de lijst dan mag de meest recente versie geraadpleegd worden voor de benodigde informatie. Bij overige berekeningen dient van de meest recente lijst uitgegaan te worden.
+
+### 3. Berekenen plaatsgebonden risico vliegtuigen
+
+Om voor een vliegtuig met een MTOW vanaf 5.700 kg te bepalen of het in de ‘Cargo’ of ‘Pax’ categorie valt dienen de volgende vier criteria langs gelopen te worden. Voldoet de vlucht aan alle vier de criteria dan gaat het om een ‘Cargo’ vlucht, in de overige gevallen gaat het om een ‘Pax’ vlucht:
+
+### 2.7. Meteotoeslag
+
+De verdeling van het luchthavenluchtverkeer over de omgeving is mede afhankelijk van de weersomstandigheden die van invloed zijn op het baangebruik. Jaarlijkse fluctuaties in het weer kunnen leiden tot fluctuaties in het baangebruik over de jaren. Bij het vaststellen van de 10-5 plaatsgebonden risicocontouren dient rekening te worden gehouden met die weersafhankelijkheid, omdat deze contouren de basis vormen voor vaststelling van sloopzones voor een luchthavenbesluit en er zo groot mogelijke zekerheid moet zijn dat 10-5 plaatsgebonden risico’s in enig jaar niet buiten de sloopzones vallen. In verband hiermee kan bij de vaststelling van deze contouren gebruik worden gemaakt van de ‘meteotoeslag’.
+
+Een route is de projectie van het nominale vliegpad in het grondvlak waarlangs vliegtuigen bij een start of nadering van of naar de start- of landingsbaan vliegen. De routes bestaan uit opeenvolgende rechte segmenten en cirkelsegmenten gegeven in het referentievlak. In een berekening van de 10-5 en 10-6 plaatsgebonden risicocontouren worden vliegtuigbewegingen gekoppeld aan nominale routes.
+
+Bovenstaande methodiek dient niet te worden toegepast in de berekening van de 10-6 plaatsgebonden risicocontour. Het gegeven dat de contouren jaarlijks fluctueren rond een gemiddelde waarde door de jaarlijkse fluctuaties in het weer, waardoor plaatsgebonden risico’s bij gebouwen in de buurt van de contour per jaar hoger of lager kunnen uitvallen dan 10-6, wordt geaccepteerd. Deze contour heeft slechts consequenties voor nieuwbouw en kan indien gewenst bovendien worden aangepast naar aanleiding van de vijfjaarlijkse berekening van het feitelijke gebruik. Bij de vijfjaarlijkse evaluatie van de beperkingengebieden, waarbij het verkeer van het voorafgaande jaar gebruikt wordt, dient de gekozen methodiek getoetst te worden. Ook bij de vijfjaarlijkse berekening van het feitelijke gebruik en bij de berekening van het totaal risicogewicht wordt geen meteotoeslag toegepast.
+
+In de bepaling van het plaatsgebonden risico voor helikopters wordt een verband gelegd tussen de locatiekansdichtheid en de aan- en uitvliegrichtingen van de helikopterlandingsplaats. De overheersende aan- en uitvliegrichtingen dienen te worden gespecificeerd door een sectorverdeling. De sectorverdeling beschrijft de aan- en uitvliegrichtingen middels sectoren en per sector welk deel van de starts en landingen binnen die aan- of uitvliegrichting plaatsvindt.
+
+### 2.6. Gegevens luchthavenluchtverkeer
+
+De benodigde gegevens van het luchthavenluchtverkeer betreffen de afzonderlijke bewegingen op jaarbasis. Een vliegtuigbeweging wordt gekenmerkt door vliegtuigcategorie, baankop, route, vluchtfase en MTOW van het vliegtuig. Een helikopterbeweging wordt gekenmerkt door een helikoptercategorie, vluchtfase en MTOW van de helikopter.
+
+Voor de berekening van de plaatsgebonden risicocontour 10-5 (ter bepaling van de sloopzones) voor een luchthavenbesluit dient rekening te worden gehouden met de onzekerheid in het verwachte baangebruik als gevolg van het weer. Dit kan gedaan worden door een meteotoeslag in het verkeersscenario op te nemen. Dit is in paragraaf 2.7 nader uitgewerkt. De vliegtuig- of helikoptercategorie van een beweging bepaalt de ongevalkans voor de beweging. Deze categorieën worden hierna nader gespecificeerd.
+
+### 2.6.1. Vliegtuigen
+
+Voor vliegtuigen hangt de vliegtuigcategorie af van de operatie (gebruik) en het MTOW van het vliegtuig. Voor passagiersvliegtuigen geldt een verdere opsplitsing naar vliegtuiggeneraties. Voor de luchthavens Maastricht, Eelde, Lelystad, Rotterdam en Twente geldt een categorisering naar generatie voor vrachtvliegtuigen (cargo). Tabel 1 toont de diverse vliegtuigcategorieën.
+
+De bijdrage aan het plaatsgebonden risico (**PRi,j,k**) in cel (**i**) van de kans op een ongeval van beweging **j** in cel **k** is gelijk aan het product van de letaliteit (**Lj**) en de ongevallocatiekans (**POL**) behorend bij cel **k** en beweging **j** en de fractie overlap van het ongevalgevolggebied (**A**OGB) van cel **(k)** met cel (**i**):
+
+### 3.2. Ongevallocatiekans
+
+Single Engine Piston (SEP)
+
+### 3.4.1. Selectie van verdelingsfuncties
+
+Multi Engine Turbine (MET)
+
+Bij het motortype SEP wordt verder onderscheid gemaakt naar het gebruiksdoel van de beweging, zie Tabel 2.
+
+Per ongevaltype zijn ongevalkansen gedefinieerd. De in de Tabel 3 vermelde ongevalkansen per vliegtuigbeweging dienen in de berekening van het plaatsgebonden risico te worden toegepast. Er wordt onderscheid gemaakt naar vluchtfase (start of landing), ongevaltype en vliegtuigcategorie.
+
+Bij de toewijzing van luchtvaartuigen aan de vliegtuig- en helikoptercategorieën, uit tabel 1 en 2, dient uitgegaan te worden van de lijst met standaard vliegtuiggegevens voor vliegtuigen en helikopters die in beheer en beschikbaar is bij het RIVM. Wanneer een berekening wordt uitgevoerd ten behoeve van toetsing aan grenswaarde, dient van dezelfde versie van de lijst uitgegaan te worden als waarmee de grenswaarde bepaald zijn. Wanneer een luchtvaartuig niet is opgenomen in deze versie van de lijst dan mag de meest recente versie geraadpleegd worden voor de benodigde informatie. Bij overige berekeningen dient van de meest recente lijst uitgegaan te worden.
+
+Als een ICAO-typecode ontbreekt, dan geldt afhankelijk van het luchtvaartuig:
+
+Om voor een vliegtuig met een MTOW vanaf 5.700 kg te bepalen of het in de ‘Cargo’ of ‘Pax’ categorie valt dienen de volgende vier criteria langs gelopen te worden. Voldoet de vlucht aan alle vier de criteria dan gaat het om een ‘Cargo’ vlucht, in de overige gevallen gaat het om een ‘Pax’ vlucht:
+
+Tabel 4 laat de verdelingsfuncties zien voor de gewichtscategorie en vluchtfase.
+
+De verdeling van het luchthavenluchtverkeer over de omgeving is mede afhankelijk van de weersomstandigheden die van invloed zijn op het baangebruik. Jaarlijkse fluctuaties in het weer kunnen leiden tot fluctuaties in het baangebruik over de jaren. Bij het vaststellen van de 10-5 plaatsgebonden risicocontouren dient rekening te worden gehouden met die weersafhankelijkheid, omdat deze contouren de basis vormen voor vaststelling van sloopzones voor een luchthavenbesluit en er zo groot mogelijke zekerheid moet zijn dat 10-5 plaatsgebonden risico’s in enig jaar niet buiten de sloopzones vallen. In verband hiermee kan bij de vaststelling van deze contouren gebruik worden gemaakt van de ‘meteotoeslag’.
+
+De meteotoeslag wordt toegepast op het nominale aantal bewegingen op een baan. De hoogte van de meteotoeslag is op basis van onderzoek vastgesteld op 20% [Ref 4.]. De verdeling van de 20% meteotoeslag over de start-/landingsbaan (of -banen) van de luchthaven dient gemotiveerd te worden.
+
+Bovenstaande methodiek dient niet te worden toegepast in de berekening van de 10-6 plaatsgebonden risicocontour. Het gegeven dat de contouren jaarlijks fluctueren rond een gemiddelde waarde door de jaarlijkse fluctuaties in het weer, waardoor plaatsgebonden risico’s bij gebouwen in de buurt van de contour per jaar hoger of lager kunnen uitvallen dan 10-6, wordt geaccepteerd. Deze contour heeft slechts consequenties voor nieuwbouw en kan indien gewenst bovendien worden aangepast naar aanleiding van de vijfjaarlijkse berekening van het feitelijke gebruik. Bij de vijfjaarlijkse evaluatie van de beperkingengebieden, waarbij het verkeer van het voorafgaande jaar gebruikt wordt, dient de gekozen methodiek getoetst te worden. Ook bij de vijfjaarlijkse berekening van het feitelijke gebruik en bij de berekening van het totaal risicogewicht wordt geen meteotoeslag toegepast.
+
+De verdelingsfuncties voor de gewichtscategorie zwaar zijn als volgt gedefinieerd:
+
+Dit hoofdstuk beschrijft het berekenen van het plaatsgebonden risico voor een verzameling van vliegtuigbewegingen van en naar een luchthaven in het studiegebied. De berekening van het plaatsgebonden risico voor helikopters is in hoofdstuk 4 beschreven.
+
+Voor het toepassen van een verdelingsfunctie is het nodig om de coördinaten van het celmiddelpunt te transformeren naar het coördinatenstelsel van de verdelingsfunctie. Als de verdelingsfunctie baanafhankelijk is dan wordt de baantransformatie toegepast; als de verdelingsfunctie routeafhankelijk is dan wordt de routetransformatie toegepast. Beiden worden afzonderlijk besproken in het vervolg van deze paragraaf.
+
+Voor het bepalen van de 10-5 en 10-6 plaatsgebonden risicocontouren wordt een raster van vierkante cellen gedefinieerd binnen een studiegebied. De maaswijdte van dit raster dient 25 meter te zijn. Het plaatsgebonden risico wordt berekend voor het middelpunt van de cel. Deze waarde wordt binnen de cel constant verondersteld. Het raster moet om de 40 cellen samenvallen met de gehele kilometerwaarden van het stelsel van de Rijksdriehoeksmeting, hier aangeduid (**x, y**) als coördinatenstelsel. Zie Figuur 1.
+
+Het plaatsgebonden risico (**PRi**) wordt in elke cel van het studiegebied afzonderlijk bepaald en is in een cel (**i**) gelijk aan de som van de bijdragen van alle bewegingen in die cel.
+
+### 3.4.2. Transformatie van coördinaatpunten
+
+De bijdrage aan het plaatsgebonden risico (**PRi,j,k**) in cel (**i**) van de kans op een ongeval van beweging **j** in cel **k** is gelijk aan het product van de letaliteit (**Lj**) en de ongevallocatiekans (**POL**) behorend bij cel **k** en beweging **j** en de fractie overlap van het ongevalgevolggebied (**A**OGB) van cel **(k)** met cel (**i**):
+
+De routetransformatie is gedefinieerd als de transformatie van het routeafhankelijke coördinatenstelsel (**s,t**) naar het (**x, y**) coördinatenstelsel.
+
+De ongevallocatiekans (**POL**) is de kans dat een ongeval op een bepaalde locatie plaatsvindt. De ongevallocatiekans is het product van de kans op een ongeval tijdens de beweging (**PO**) en de locatiekans (**PL**), die de ruimtelijke verdeling (kansdichtheid) ten opzichte van de baan en route weerspiegelt. De ongevallocatiekans wordt voor verschillende ongevaltypen (**ot**) afzonderlijk bepaald en gesommeerd. De ongevallocatiekans van een beweging (**j**) in cel (**k**) is gelijk aan de som van de ongevallocatiekansen van alle ongevaltypes.
+
+De ongevalkans, de ruimtelijke kansverdeling van ongevallocaties en de ongevalgevolgen worden in de volgende paragrafen beschreven.
+
+De routetransformatie is gedefinieerd als de transformatie van het routeafhankelijke coördinatenstelsel (**s,t**) naar het (**x, y**) coördinatenstelsel.
+
+Er wordt onderscheid gemaakt naar vier typen vliegtuigongevallen, zie Figuur 2:
+
+Per ongevaltype zijn ongevalkansen gedefinieerd. De in de Tabel 3 vermelde ongevalkansen per vliegtuigbeweging dienen in de berekening van het plaatsgebonden risico te worden toegepast. Er wordt onderscheid gemaakt naar vluchtfase (start of landing), ongevaltype en vliegtuigcategorie.
+
+In dat geval wordt voor **s** de lengte langs de route tot het gemeenschappelijke punt van de twee routesegmenten genomen en voor **t** de afstand van dit punt tot punt P.
+
+Bij een ongeval is de locatiekans de kans dat het ongeval zich voordoet op een bepaalde locatie. Het verloop van de locatiekansen in het studiegebied wordt de kansdichtheid (KDH) genoemd. De KDH per ongevaltype wordt bepaald door verdelingsfuncties. De waarde van de verdelingsfunctie in een cel wordt bepaald voor het celmiddelpunt en wordt binnen de cel constant verondersteld. Er zijn verdelingsfuncties gedefinieerd voor combinaties van ongevaltype en gewichtscategorie. Een verdelingsfunctie gaat ofwel van een routeafhankelijk coördinatenstelsel (s,t) uit, ofwel van een baanafhankelijk coördinatenstelsel (**u,v**). Hierna komen achtereenvolgens aan de orde:
+
+### 3.4.1. Selectie van verdelingsfuncties
+
+Tabel 4 laat de verdelingsfuncties zien voor de gewichtscategorie en vluchtfase.
+
+Deze verdelingsfuncties zijn samengesteld uit statistische kansverdelingen. Hierna volgt een overzicht van de kansverdelingen die gebruikt worden:
+
+De Dirac-verdeling wordt geïmplementeerd als een blokfunctie, symmetrisch ten opzichte van de route, met een vaste breedte van 100 m.
+
+### 3.4.4. Toepassen van de verdelingsfuncties
+
+De verdelingsfuncties voor de gewichtscategorie zwaar zijn als volgt gedefinieerd:
+
+Voor starts zwaar verkeer:
+
+Voor het toepassen van een verdelingsfunctie is het nodig om de coördinaten van het celmiddelpunt te transformeren naar het coördinatenstelsel van de verdelingsfunctie. Als de verdelingsfunctie baanafhankelijk is dan wordt de baantransformatie toegepast; als de verdelingsfunctie routeafhankelijk is dan wordt de routetransformatie toegepast. Beiden worden afzonderlijk besproken in het vervolg van deze paragraaf.
+
+Het (**u, v**) coördinatenstelsel wordt gebruikt bij het berekenen van het baanafhankelijke deel van de locatiekansen. Om de baanafhankelijke verdelingsfunctie toe te kunnen passen moeten de coördinaten van de celmiddelpunten worden getransformeerd van het (**x, y**) naar het (**u, v**) coördinatenstelsel. Het baanafhankelijke (**u, v**) coördinatenstelsel heeft een cartesiaans assenstelsel, in meters. De oorsprong van het stelsel ligt aan het uiteinde van de baan bij een baankop (**XBK,YBK**) en de positieve **u-**as ligt in het verlengde van de baanas, zie Figuur 3. Per baan kunnen twee coördinatenstelsels worden gedefinieerd, aan elke baankop één. Deze coördinatenstelsels zijn ten opzichte van elkaar 180° gedraaid en verschoven langs de baan−as.
+
+De baantransformatie is gedefinieerd als de transformatie van het baanafhankelijke coördinatenstelsel (**u, v**) naar het (**x, y**) coördinatenstelsel.
+
+Voor het toepassen van de baanafhankelijke verdelingsfuncties is de omgekeerde bewerking van deze transformatie nodig: de (**x, y**) coördinaten van het studiegebied worden omgerekend naar de (**u, v**) coördinaten. De transformatie is weergeven in Figuur 3 en de daarna gegeven formules.
+
+Om de routeafhankelijke verdelingsfunctie toe te kunnen passen moeten de coördinaten van de celmiddelpunten worden getransformeerd van het (**x, y**) coördinatenstelsel naar het routeafhankelijke coördinatenstelsel (**s,t**). Het (**s,t**) coördinatenstelsel is een curvi-lineair coördinatenstelsel, in meters, relatief aan een route. De oorsprong van het stelsel ligt aan het begin van een routesegment (**XBP,YBP**). Een route bestaat uit rechte routesegmenten en cirkelvormige routesegmenten. De **s** coördinaat geeft de afstand tot de baandrempel (**XBD,YBD**) langs de gegeven route en de **t** coördinaat geeft de afstand loodrecht tot de route. Dit coördinatenstelsel wordt gebruikt bij het berekenen van het routeafhankelijke gedeelte van de locatiekansen.
+
+De routetransformatie is gedefinieerd als de transformatie van het routeafhankelijke coördinatenstelsel (**s,t**) naar het (**x, y**) coördinatenstelsel.
+
+Voor het toepassen van de routeafhankelijke verdelingsfuncties is de omgekeerde bewerking van deze transformatie nodig: de (**x, y**) coördinaten worden omgerekend naar de (**s,t**) coördinaten.
+
+### 3.6. Cellen binnen ongevalgevolggebied
+
+Een ongeval in cel **i** van beweging **j** draagt bij aan het plaatsgebonden risico in elke naburige cel die geheel of gedeeltelijk overlapt met het ongevalgevolggebied, zie Figuur 7. De bijdrage in cel **k** is gelijk aan het product van de (fractie) overlap van het ongevalgevolggebied in cel **k**, de letaliteit en de ongevallocatiekans in cel **i** van beweging **j**.
+
+Singuliere punten zijn celmiddelpunten die samenvallen met het middelpunt van een cirkelsegment. Singuliere punten krijgen dezelfde waarde als het gemiddelde van de waarden van de omliggende (niet−singuliere) celmiddelpunten.
+
+Op het gemeenschappelijke punt van twee routesegmenten is een discontinuïteit mogelijk in de richting van de route, zie Figuur 6. Hierdoor kunnen de projecties leiden tot gebieden zonder risico (gaten in de kansverdeling). Op punt P wordt een algoritme toegepast om de gaten op te vullen:
+
+In dat geval wordt voor **s** de lengte langs de route tot het gemeenschappelijke punt van de twee routesegmenten genomen en voor **t** de afstand van dit punt tot punt P.
+
+### 3.4.4. Toepassen van de verdelingsfuncties
+
+Bij de toepassing van de verdelingsfuncties moet zowel met weging van route- en baanafhankelijkheid als met celverfijning rekening worden gehouden. Deze aspecten worden hierna beschreven.
+
+### 4. Berekenen plaatsgebonden risico helikopters
+
+Voor landingen licht verkeer:
+
+### 4.1. Ongevalkans
+
+Voor landingen zwaar verkeer:
+
+### 4.3. Ongevalgevolg
+
+Net als bij een vliegtuig wordt het ongevalgevolg bij een ongeval met een helikopter bepaald door het oppervlak van het schadegebied en de letaliteit in dit gebied.
+
+Het ongevalgevolg bij een ongeval wordt bepaald door het oppervlak van het schadegebied, het ongevalgevolggebied, en de kans op overlijden, de letaliteit, in dit gebied.
+
+Bij een ongeval met een vliegtuig is het ongevalgevolggebied het schadegebied waarin personen buiten het vliegtuig slachtoffer kunnen worden. Het oppervlak van het ongevalgevolggebied is afhankelijk van het MTOW en de vliegtuigcategorie. Voor de categorie licht1500 wordt het oppervlak constant verondersteld en voor de overige categorieën geldt een lineair verband tussen MTOW en ongevalgevolggebied, zie Tabel 5.
+
+Het ongevalgevolggebied wordt gemodelleerd als een cirkelvormig gebied rond de ongevallocatie met straal **ROGB**:
+
+De letaliteit is de fractie mensen buiten het vliegtuig, maar binnen het ongevalgevolggebied, dat bij een vliegtuigongeval overlijdt. De letaliteit is afhankelijk van de vliegtuigcategorie, zie Tabel 6. Buiten het ongevalgevolggebied is de letaliteit per definitie nul.
+
+De letaliteit is de fractie mensen buiten de helikopter, maar binnen het ongevalgevolggebied, dat bij een helikopterongeval overlijdt. De letaliteit voor helikopterongevallen is vastgesteld op een waarde van 0,17.
+
+### 5. Genereren van plaatsgebonden risicocontouren
+
+Plaatsgebonden risicocontouren verbinden punten met een gelijk plaatsgebonden risico. Het bepalen van contouren is een nabewerking op de berekening van de plaatsgebonden risico’s in celmiddelpunten als beschreven in voorgaande hoofdstukken. Het uitgangspunt voor het genereren van de plaatsgebonden risicocontouren is het netwerk, waarvan in de celmiddelpunten de risicowaarden berekend zijn. Voor de plaatsgebonden risicocontouren dient het proces, zoals hieronder beschreven, te worden doorlopen.
+
+### 4.3. Ongevalgevolg
+
+Eerst wordt de rand van het netwerk onderzocht. Daarna is de volgorde waarin de netwerklijnstukken worden onderzocht willekeurig. Het eerstgevonden omslagpunt is het startpunt in het hierna beschreven proces.
+
+Onderstaande tabel geeft per categorie en type beweging de te hanteren ongevalkansen.
+
+Voor het bepalen van het volgende omslagpunt, wordt vervolgens nagegaan op welk van de overige drie zijden van dit vierkant tekenomslag plaatsvindt. Indien tekenomslag op alle drie overige netwerkzijden tekenomslag plaatsvindt, dan worden omslagpunten (**K** en **M**) berekend op beide aanliggende netwerkzijden. Vanuit het omslagpunt op de ‘basis’-zijde van het netwerkvierkant worden verbindingslijnen (**k** en **m**) getrokken naar de punten **K** en **M** en een verbindingslijn (**n**) naar het voorlaatst bepaalde omslagpunt. Van de twee laatst berekende omslagpunten wordt als volgende omslagpunt dat punt gekozen waarvan de verbindingslijn **k** of **m** de kleinste richtingsverandering met de lijn **n** tot gevolg heeft.
+
+Ook bij helikopters wordt de ruimtelijke kansverdeling van ongevallen in de nabijheid van een helikopterlandingsplaats over locaties bepaald met verdelingsfuncties. Bij de uitwerking van deze locatiekansen wordt onderscheid gemaakt in start en landing. De locatie van de beschouwde cel (**i**) wordt uitgedrukt in poolcoördinaten (**r,θ**), zie Figuur 8. De oorsprong van het coördinatenstelsel valt samen met de coördinaten (**XH,YH**) van de helikopterlandingsplaats. De straal **r** geeft de afstand tot de helikopterlandingsplaats in meters. De hoek θ geeft de aan- of uitvliegrichting in graden ten opzichte van het noorden, met de positieve draairichting van noord naar oost.
+
+Het verband tussen de locatiekans en de afstand tot de helikopterlandingsplaats wordt beschreven met een Weibull kansverdeling:
+
+De waarden van de parameters **a** en **b** bij start en landing zijn:
+
+### 5. Genereren van plaatsgebonden risicocontouren
+
+De locatiekans **PL** wordt beschreven door de Weibull functie **fWeibull** en de sectorverdeling **qn**(θ). De laatstgenoemde geeft voor een hoek θ de verkeersfractie per graad of per radiaal. De sectorverdeling **qn**(θ) is een discrete functie die de verkeersdichtheid geeft door middel van een blokfunctie (histogram).
+
+De ongevallocatiekans op een locatie (**r,θ**) is het product van de ongevalkans van de beweging **j**, en de locatiekans bij straal **r**, en aan- of uitvliegrichting θ met daarbij horende de verkeersfractie:
+
+Bij de transformatie van poolcoördinaten (**r,θ**) naar het (**x, y**) coördinatenstelsel wordt de term 1/r (Jacobiaan) op de locatiekans geïntroduceerd.
+
+Door de gevonden omslagpunten met lijnstukken aan elkaar te verbinden, worden de contouren zichtbaar gemaakt.
+
+Net als bij een vliegtuig wordt het ongevalgevolg bij een ongeval met een helikopter bepaald door het oppervlak van het schadegebied en de letaliteit in dit gebied.
+
+Het ongevalgevolggebied wordt bepaald door het MTOW van de helikopter. De grootte van het ongevalgevolggebied (**AOGB**) is:
+
+Met MTOW in 1.000 kg.
+
+### 6. Stileren van plaatsgebonden risicocontouren
+
+Dit verband geldt zolang het MTOW kleiner of gelijk is aan 12.000 kg.
+
+De letaliteit is de fractie mensen buiten de helikopter, maar binnen het ongevalgevolggebied, dat bij een helikopterongeval overlijdt. De letaliteit voor helikopterongevallen is vastgesteld op een waarde van 0,17.
+
+De totale ongevalkans voor een beweging **j**(**P0,j**) is de som van de afzonderlijke kansen op alle ongevaltypen (**P0,j,ot**):
+
+### 7. Totaal risicogewicht
+
+In het gebruikte rekennetwerk worden opeenvolgende omslagpunten bepaald. Deze omslagpunten markeren punten van de contour. Elk netwerklijnstuk (lijnstuk tussen twee naburige celmiddelpunten) wordt onderzocht op tekenomslag. Met tekenomslag wordt bedoeld dat in het ene celmiddelpunt de risicowaarde groter is dan – en in het naburige celmiddelpunt kleiner is dan of gelijk is aan – de gewenste contourwaarde. Indien tekenomslag plaatsvindt, wordt op dit lijnstuk een omslagpunt bepaald. Een omslagpunt, met gewenste contourwaarde, op een netwerklijnstuk wordt bepaald door lineaire interpolatie van de risicowaarden in de twee naburige celmiddelpunten.
+
+Eerst wordt de rand van het netwerk onderzocht. Daarna is de volgorde waarin de netwerklijnstukken worden onderzocht willekeurig. Het eerstgevonden omslagpunt is het startpunt in het hierna beschreven proces.
+
+De opeenvolgende omslagpunten dienen op volgende wijze te worden bepaald:
+
+Voor het bepalen van het volgende omslagpunt, wordt vervolgens nagegaan op welk van de overige drie zijden van dit vierkant tekenomslag plaatsvindt. Indien tekenomslag op alle drie overige netwerkzijden tekenomslag plaatsvindt, dan worden omslagpunten (**K** en **M**) berekend op beide aanliggende netwerkzijden. Vanuit het omslagpunt op de ‘basis’-zijde van het netwerkvierkant worden verbindingslijnen (**k** en **m**) getrokken naar de punten **K** en **M** en een verbindingslijn (**n**) naar het voorlaatst bepaalde omslagpunt. Van de twee laatst berekende omslagpunten wordt als volgende omslagpunt dat punt gekozen waarvan de verbindingslijn **k** of **m** de kleinste richtingsverandering met de lijn **n** tot gevolg heeft.
+
+### Berekenen omvang van het veiligheidsgebied
+
+## Bijlage 3. bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=7&z=2010-07-01&g=2010-07-01)
+
+### Begripsbepaling
+
+### Berekenen omvang van het veiligheidsgebied
+
+### Berekenen omvang van het veiligheidsgebied
+
+**Stap 3.**
+
+Voor het nader bepalen van de grens van een beperkingengebied in een luchthavenbesluit op basis van plaatsgebonden risicocontouren, dienen de berekende contouren gestileerd te worden. Voor de vaststelling van sloopzones dient daarnaast rekening te worden gehouden met de invloed van jaarlijkse fluctuaties in het weer op het baangebruik.
+
+De lengte van het gebied bedraagt vanaf de strook:
+
+Bij het stileren dienen de volgende uitgangspunten in acht te worden genomen:
+
+Er is geen algemeen toepasbare wiskundige formule voor het stileren van de externe veiligheidscontouren. Het gaat om (lokaal) maatwerk. Binnen de marges, uitgangspunten en overwegingen van de gegeven uitgangspunten kan het bevoegd gezag hier een passende invulling aan geven. Zie onderstaande figuur.
+
+In aanvulling op de uitgangspunten, dus niet in afwijking, kunnen bij het stileren van de plaatsgebonden risicocontouren aanvullende overwegingen meegenomen worden. Zo kan het helpen om bij de stilering van contouren rekening te houden met voorzienbare toekomstige ontwikkelingen in het baangebruik op de luchthaven; zoals een wijziging in de vliegprocedures die (verder) geen aanpassing van het luchthavenbesluit vergt. Hiermee kan de planologische rust en continuïteit van het luchthavenbesluit worden versterkt.
+
+## Bijlage 5. als bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=8&z=2015-03-26&g=2015-03-26)
+
+## Bijlage 5. als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=8&z=2010-07-01&g=2010-07-01)
+
+### Begripsbepalingen
+
+### Berekeningsvoorschrift
+
+### Berekeningsvoorschrift hoogtebeperkingen en omvang gebieden met hoogtebeperkingen in verband met de goede werking van de apparatuur voor luchtverkeerscommunicatie, -navigatie of -begeleiding
+
+De grenswaarde voor het TRG wordt bepaald op basis van het verkeersscenario dat als basis dient voor het luchthavenbesluit of de luchthavenregeling.
+
+## Bijlage 3. bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=7&z=2024-07-30&g=2024-07-30)
+
+### Berekeningsvoorschrift veiligheidsgebied
+
+Figuur 2 Directionele systemen
+
+Figuur 3 3D Weergave voor directionele systemen
+
+**Stap 1.**
+
+Het veiligheidsgebied wordt berekend vanaf de strook van een start- en landingsbaan aan elke korte zijde van de baan, symmetrisch ten opzichte van de doorgetrokken hartlijn van de baan.
+
+**Stap 2.**
+
+## Bijlage 7. als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=4&artikel=13&z=2015-03-26&g=2015-03-26) van de Regeling burgerluchthavens
+
+| Gegevens | Tijdvak | Termijn |
+| --- | --- | --- |
+| De geluidbelasting gedurende het etmaal, in de handhavingspunten zoals aangegeven in luchthavenbesluit of luchthavenregeling uitgedrukt in dB(A) met twee decimalen. | Vanaf het begin van het gebruiksjaar tot het einde van ieder kwartaal van dat gebruiksjaar. | Twee weken na afloop van het tijdvak |
+| De geluidbelasting gedurende het etmaal, in de handhavingspunten zoals aangegeven in luchthavenbesluit of luchthavenregeling uitgedrukt in dB(A) met twee decimalen. | Vanaf het begin van het gebruiksjaar tot het moment dat de geluidbelasting in een handhavingspunt hoger is dan de bij dat punt in het luchthavenbesluit of luchthavenregeling aangegeven waarde in dat gebruiksjaar. | Vier werkdagen na afloop van het tijdvak |
+| Het aantal luchtvaartuigbewegingen per etmaal in het geval in een luchthavenbesluit of luchthavenregeling een grenswaarde of regel in de vorm van een aantal luchtvaartuigbewegingen is opgenomen. | Vanaf het begin van het gebruiksjaar tot het einde van ieder kwartaal van dat gebruiksjaar. | Twee weken na afloop van het tijdvak |
+| Het aantal luchtvaartuigbewegingen per etmaal in het geval in het luchthavenbesluit of luchthavenregeling een grenswaarde in de vorm van een aantal luchtvaartuigbewegingen is opgenomen. | Vanaf het begin van het gebruiksjaar tot het moment dat het aantal luchtvaartuigbewegingen hoger is dan het in het luchthavenbesluit of de luchthavenregeling als grenswaarde opgenomen aantal in dat gebruiksjaar. | Vier werkdagen na afloop van het tijdvak |
+| De tijdstippen waarop door luchtvaartuigen van de luchthaven gebruik is gemaakt. | Vanaf het begin van het gebruiksjaar tot het einde van ieder kwartaal van dat gebruiksjaar. | Twee weken na afloop van het tijdvak |
+| Het externe veiligheidsrisico indien in een luchthavenbesluit of luchthavenregeling een totaal risicogewicht is opgenomen. | Vanaf het begin van het gebruiksjaar tot het einde van ieder kwartaal van dat gebruiksjaar. | Twee weken na afloop van het tijdvak |
+| Het externe veiligheidsrisico indien in een luchthavenbesluit of luchthavenregeling een totaal risicogewicht is opgenomen. | Vanaf het begin van het gebruiksjaar tot het moment dat het externe veiligheidsrisico hoger is dan de in het luchthavenbesluit of luchthavenregeling aangegeven grenswaarde in dat gebruiksjaar. | Vier werkdagen na afloop van het tijdvak |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=4&z=2015-03-26&g=2015-03-26) die ter inzage zal worden gelegd bij de bibliotheek van de Hoofddirectie Juridische Zaken van het Ministerie van Verkeer en Waterstaat.
+
+### Deel I. Achtergrond voorschrift en beknopte beschrijving berekeningsmethodiek
+
+### 1. Achtergrond
+
+### 1.1. Leeswijzer
+
+### 2. Beschrijving van de berekeningsmethodiek
+
+### 1.3. Totstandkoming en scope van het voorschrift
+
+### 1.4. Leeswijzer
+
+De gegevens die ten grondslag liggen aan een berekening, dienen gedocumenteerd te worden voor de reproduceerbaarheid van de berekening. Het is mogelijk dat niet van alle luchtvaartuigbewegingen de noodzakelijke gegevens beschikbaar zijn waardoor koppeling met de verkeersgegevens niet mogelijk is. In dat geval voorziet dit rekenvoorschrift in terugvalopties. De frequenties waarop terugvalopties1Zoals bijvoorbeeld de alternatieve koppelingsmethodiek voor proxytypes op basis van MTOW (zie § 4.1.3) in plaats van op basis van de vliegtuigindelingslijst. gehanteerd worden in de koppeling met verkeersgegevens moeten gerapporteerd worden. Ook kan het voorkomen dat voor een luchtvaartuigbeweging geen berekening van het geluidsniveau uitgevoerd kan worden. In dat geval wordt de geluidbelasting berekend voor het vliegtuigverkeer waarvan wel de geluidsniveaus bepaald kunnen worden opgeschaald. De schaalfactoren die de luchtvaartuigbewegingen kwantificeren die door missende en/of incorrecte registratie van gegevens niet doorgerekend kunnen worden, moeten gerapporteerd worden.
+
+De geluidbelasting veroorzaakt door het op overige burgerluchthavens landende en opstijgende luchthavenluchtverkeer dient te worden berekend volgens de formule:
+
+De benodigde luchthavengegevens hebben betrekking op:
+
+### 3.2. Atmosferische condities
+
+### 4. Verkeersgegevens
+
+De verkeersgegevens voor een handhavingsberekening worden bepaald op basis van geregistreerde gegevens per luchtvaartuigbeweging. § 4.1.1 geeft de te registreren gegevens. Het samenstellen van de verkeersgegevens op basis van de geregistreerde gegevens, is beschreven in § 4.1.2 tot en met § 4.1.7.
+
+****Beknopte toelichting:****
+
+### 3.2. Invoergegevens
+
+De gegevens die ten grondslag liggen aan een geluidbelastingberekening dienen gedocumenteerd te worden, ten einde deze geluidbelastingberekening te kunnen reproduceren. Dit omvat naast de invoergegevens zoals in deze paragraaf beschreven (waaronder de gehanteerde versies van de indelingslijst en Appendices), ook het gehanteerde studiegebied en de locatie van de handhavingspunten.
+
+****Beknopte toelichting:****
+
+**Ieder luchtvaartuigtype in de verkeersgegevens wordt toegewezen aan een proxytype waar geluid- en prestatiegegevens van beschikbaar zijn (zie hoofdstuk 5). Deze koppeling geschiedt op basis van een indelingslijst. Wanneer het specifieke luchtvaartuigtype niet in de indelingslijst staat, wordt het meest representatieve proxytype toegekend op basis van kenmerken van het luchtvaartuigtype, zoals het type motor en het aantal motoren. Voor het vaststellen van de geluidreferentiewaarden worden indelingslijsten en de Europese geluidcertificatielijst geraadpleegd.**
+
+**Om te corrigeren voor het verschil in geluid tussen het werkelijke luchtvaartuigtype en het gekoppelde proxytype wordt een correctiefactor geluid toegepast. Deze factor wordt vastgesteld door de geluidreferentiewaarden van het luchtvaartuigtype en de geluidcertificatiewaarden behorend bij het proxytype te vergelijken. Deze gegevens worden gebruikt om afzonderlijke correctiefactoren te berekenen voor starts en landingen.**
+
+### 4. Grondpaden en spreiding
+
+Per luchtvaartuigbeweging wordt het seizoen bepaald op basis van de geregistreerde vluchtdatum. Aan de hand van het gekoppelde seizoen worden vervolgens de relevante atmosferische condities bepaald voor de luchtvaartuigbeweging, zie ook § 3.2. Dit betreft de gemiddelde luchtdruk, luchttemperatuur en relatieve luchtvochtigheid waarop de grenswaarden voor de Lden-geluidbelasting in handhavingspunten zijn gebaseerd.
+
+### 4.1.6. Etmaalperiode
+
+****Beknopte toelichting:****
+
+**Voor luchthavens van nationale betekenis dienen voor starts en landingen van groot verkeer en voor starts, landingen en circuits van helikopterverkeer radargegevens gebruikt te worden om het grondpad te beschrijven en het prestatieprofiel toe te kennen aan een vlucht. Om radargegevens hiervoor te kunnen gebruiken, dienen deze aan een aantal voorwaarden te voldoen, aan de luchtvaartuigbewegingen te worden gekoppeld en, waar nodig, te worden bewerkt.**
+
+### 4.2. Luchthavens met naderingsluchtverkeersleiding
+
+Aan een vlucht wordt een (standaard) prestatieprofiel toegekend op de wijze zoals vastgelegd in het luchthavenbesluit / de luchthavenregeling, zie § 4.2.3. De methode voor het toekennen van de prestatieprofielen is nader beschreven in Annex A5.
+
+Voor luchthavens van nationale betekenis dienen radargegevens gebruikt te worden voor de beschrijving van grondpaden en het koppelen van prestatieprofielen voor de berekening van de geluidbelasting in de aanvullende handhavingspunten, niet zijnde de handhavingspunten binnen 400 meter van het baaneinde of de helikopterlandingsplaats.
+
+Radartracks dienen na de koppeling aan een luchtvaartuigbeweging, waar nodig, nog bewerkt te worden. Een methode voor de bewerking van radartracks is beschreven in ref. [5].
+
+### 5. Categorieën van luchtvaartuigen en prestatiegegevens
+
+### 4.2. Verkeersgegevens ten behoeve van een scenarioberekening
+
+### 5.2. Prestatiegegevens
+
+Als compensatie voor de onzekerheid in het verwachte baangebruik, of uitvliegrichtingen vanaf een helikopterlandingsplaats, als gevolg van de jaarlijkse variaties in het weer kan in een scenarioberekening een meteotoeslag worden toegepast op het totaal aantal luchtvaartuigbewegingen. De hoogte van deze toeslag is vastgesteld op maximaal 20%. De verdeling van de 20% meteotoeslag over de banen en baanrichtingen van de luchthaven en uitvliegrichtingen vanaf de helikopterlandingsplaats wordt bij de berekening voor de vaststelling van de grenswaarden voor de Lden-geluidbelasting gemotiveerd.
+
+Per helikopterproxytype zijn beschikbaar:
+
+Alleen de in de Appendices [Ref. 2] vermelde geluidsgegevens mogen bij de berekening van de geluidbelasting worden toegepast. Voor de te gebruiken versie van de Appendices wordt verwezen naar paragraaf 3.2 van dit berekeningsvoorschrift.
+
+### 6.1. Studiegebied en rekenpunten
+
+De Lden-geluidbelasting wordt berekend in rekenpunten. Rekenpunten kunnen zowel handhavingspunten zijn als netwerkpunten in een studiegebied. Het studiegebied is een gebied rondom de luchthaven, waar de Lden-geluidbelasting wordt bepaald. Het studiegebied wordt zo gedefinieerd dat de te berekenen laagste waarden voor de Lden-geluidbelasting volledig binnen het studiegebied liggen.
+
+Optioneel kan, als onderdeel van het luchthavenbesluit of van de luchthavenregeling, een gewogen grenswaarde worden vastgesteld op basis van de Lden-geluidbelasting in twee of meerdere handhavingspunten. Een dergelijke grenswaarde kan bepaald worden op basis van de berekende Lden-geluidbelasting in de relevante handhavingspunten:
+
+### Deel III. Gedetailleerde beschrijving berekeningsmethodiek L**den**-geluidbelasting
+
+### 2. Netwerkpunten
+
+### 3. Hoogteligging rekenpunten voor vliegtuiggeluid
+
+### 6.2. Berekening van de Lden-geluidbelasting per rekenpunt
+
+De etmaalperiode m, c.q. het tijdstip, t, van de vlucht i wordt als invoer aan het rekenmodel aangeboden (zie bijvoorbeeld § 4.1.6).
+
+met:
+
+Als er geen enkele luchtvaartuigbeweging binnen een groep type verkeer j, vluchtsoort k en etmaalperiode m kan worden verwerkt, dan dienen deze luchtvaartuigbewegingen opgenomen te worden in de algemene opschalingsfactor fc,a. Deze algemene opschalingsfactor wordt als volgt berekend:
+
+De berekende Lden-geluidbelasting in handhavingspunten wordt rekenkundig afgerond op 2 decimalen.
+
+### 11. Presentatie van berekeningsresultaten
+
+### Appendix A. De bepaling van geluidbelastingscontouren
+
+### A.1. Inleiding
+
+### A.2. Verfijning van het netwerk
+
+Op basis van de berekende, niet afgeronde, Lden-geluidbelasting in de rekenpunten in het studiegebied, dienen in twee stappen de geluidbelastingcontouren te worden bepaald.
+
+met
+
+**A2**Richtlijnen en uitgangspunten voor het bepalen van modelroutes
+
+**A6** Bewerken van prestatieprofielen voor starts o.b.v. radargegevens
+
+### A.3. Het bepalen van omslagpunten
+
+### A1. Bepalen van het proxytype en geluidreferentiewaarden
+
+De volgorde, waarin de netwerklijnstukken worden onderzocht, is willekeurig, behalve dat de rand van het netwerk het eerst wordt onderzocht. Het eerstgevonden omslagpunt is het startpunt voor het proces beschreven in § A.3.2.
+
+### A.3.2. Het opzoeken van opeenvolgende omslagpunten
+
+### Voor helikopters
+
+### A2. Richtlijnen en uitgangspunten voor het bepalen van modelroutes
+
+Om te garanderen dat de radargegevens die gebruikt worden bij handhavingsberekeningen van voldoende kwaliteit zijn, voldoen radargegevens aan de volgende eisen.
+
+Voor iedere luchtvaartuigbeweging in de verkeersgegevens, uitgezonderd circuitbewegingen door vliegtuigen, wordt getracht een radartrack toe te wijzen, op grond van radargegevens, die voldoen aan de voorwaarden uit Annex A3.
+
+Voordat radartracks worden toegewezen, dienen de radargegevens eerst aangevuld en bewerkt te worden.
+
+Hieruit ontstaan (n+3) lineaire vergelijkingen in (n+3) coëfficiënten ai. Oplossen van dit stelsel (bandmatrix) geeft de coëfficiënten ai. Hiermee is dan de strooklatfunctie geheel bepaald.
+
+Voor luchthavens met klein en/of groot verkeer gebeurt het tekenen van de contouren door het verbinden van punten op onderlinge afstand van 10 meter, waarvan de coördinaten berekend zijn met de strooklatfuncties, beschreven in § A.4. Voor helikopterluchthavens vindt het tekenen van contouren plaats door het verbinden van punten op onderlinge afstand van 2 meter. Bij gesloten contouren worden het eerste en het laatste punt beide vervangen door hun gemiddelde. Naast de hoofdcontour kunnen zogenaamde contoureilanden worden vastgesteld. Oneigenlijke contoureilanden, die het gevolg kunnen zijn van onvoldoende nauwkeurigheid in de rekenmethode ter bepaling van geluidbelastingscontouren, worden niet weergegeven.
+
+## Bijlage 2. als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=5&z=2024-01-01&g=2024-01-01), van de Regeling burgerluchthavens
+
+### Voorschrift voor de berekening en bepaling van de 10-5 en 10-6 plaatsgebonden risicocontouren en het Totaal risicogewicht voor overige burgerluchthavens
+
+### 1.1. Algemeen
+
+### Betekenis begrippen
+
+### 1.2. Doel van het voorschrift
+
+Voor circuitvluchten eindigt het prestatieprofiel voor een start op de circuithoogte. Het levelsegment van het prestatieprofiel voor een landing wordt verlengd zodat de afgelegde afstand s overeenkomt met de afstand langs het grondpad tot de baandrempel.
+
+### 1.4. Beknopte beschrijving van het voorschrift
+
+Voor helikopterbewegingen waarvoor geen radartracks zijn gekoppeld, dienen dezelfde (verdelingen over) de prestatieprofielen te worden toegepast als in de berekening van de grenswaarden voor de Lden-geluidbelasting in handhavingspunten. Als dit niet volstaat, wordt het prestatieprofiel geselecteerd dat als standaard is aangemerkt voor het betreffende proxytype (en specifieke luchthavenkenmerken).
+
+### 1.4.2. Totaal risicogewicht
+
+Het TRG is een functie van de ongevalkansen en de maximale startgewichten van luchtvaartuigen waarmee in een jaar bewegingen plaatsvinden. Bij de berekening van het TRG of de bepaling van een TRG grenswaarde dient geen rekening te worden gehouden met de onzekerheid in het (verwachte) baangebruik als gevolg van het weer.
+
+Verkeersgegevens worden dusdanig verwerkt en verrijkt dat een set van invoergegevens wordt verkregen, die gebruikt kunnen worden voor het geluidberekeningsmodel. Voor de preparatie van verkeersgegevens zijn aanvullende gegevens nodig uit de in deze annex opgenomen(externe) databronnen.
+
+### 2.1. Studiegebied
+
+### 1.1. Algemeen
+
+Dit voorschrift geeft aanwijzingen voor de berekening en bepaling van de 10-5 en 10-6 plaatsgebonden risicocontouren en het totaal risicogewicht (TRG) van het luchthavenluchtverkeer als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=5&z=2024-07-30&g=2024-07-30), van de Regeling burgerluchthavens.
+
+### 2.5. Sectorverdeling voor helikopters
+
+Voor de berekening van de plaatsgebonden risicocontour 10-5 (ter bepaling van de sloopzones) voor een luchthavenbesluit dient rekening te worden gehouden met de onzekerheid in het verwachte baangebruik als gevolg van het weer. Dit kan gedaan worden door een meteotoeslag in het verkeersscenario op te nemen. Dit is in paragraaf 2.7 nader uitgewerkt. De vliegtuig- of helikoptercategorie van een beweging bepaalt de ongevalkans voor de beweging. Deze categorieën worden hierna nader gespecificeerd.
+
+### 2.6.1. Vliegtuigen
+
+De coördinaten (**XBK,YBK**) van de baankoppen en (**XBD,YBD**) van de baandrempels per baankop in het referentievlak moeten bekend zijn. Wanneer de baan als startbaan wordt ingezet geldt de baandrempel als beginpunt van de start van een vertrekkend vliegtuig. Bij inzet van de baan als landingsbaan is de baandrempel het punt waar een landend vliegtuig de baan het eerst raakt.
+
+### 2.3.2. Helikopterlandingsplaatsen
+
+De coördinaten (**XH,YH**) van de helikopterlandingsplaatsen in het referentievlak moeten bekend zijn. De helikopterlandingsplaats is het punt van waar een helikopter opstijgt en waar een helikopter landt.
+
+### 2.5. Sectorverdeling voor helikopters
+
+Dit hoofdstuk beschrijft het berekenen van het plaatsgebonden risico voor een verzameling van vliegtuigbewegingen van en naar een luchthaven in het studiegebied. De berekening van het plaatsgebonden risico voor helikopters is in hoofdstuk 4 beschreven.
+
+### 3. Berekenen plaatsgebonden risico vliegtuigen
+
+Het plaatsgebonden risico (**PRi**) wordt in elke cel van het studiegebied afzonderlijk bepaald en is in een cel (**i**) gelijk aan de som van de bijdragen van alle bewegingen in die cel.
+
+### 3.1. Plaatsgebonden risico
+
+De helikoptercategorieën worden onderscheiden naar type motor:
+
+Single Engine Turbine (SET)
+
+### 3.3. Ongevalkans
+
+### 3.4. Ongevallocatie
+
+### 2.7. Meteotoeslag
+
+### 3.4.1. Selectie van verdelingsfuncties
+
+### 3.4.2. Transformatie van coördinaatpunten
+
+De bijdrage van de overige cellen aan het plaatsgebonden risico (**PRi**) van cel (**i**) van vliegtuigbeweging (**j**) wordt bepaald door voor alle overige cellen (**k**) in het studiegebied het plaatsgebonden risico (**PRi,j,k**) te bepalen dat bijdraagt aan het plaatsgebonden risico van (**PRi**) van cel (**i**):
+
+### 3.4. Ongevallocatie
+
+Bij de toepassing van de verdelingsfuncties moet zowel met weging van route- en baanafhankelijkheid als met celverfijning rekening worden gehouden. Deze aspecten worden hierna beschreven.
+
+### 3.4.4. Toepassen van de verdelingsfuncties
+
+De verdelingsfuncties voor de gewichtscategorie licht zijn als volgt gedefinieerd:
+
+### 3.5. Ongevalgevolg
+
+### 4. Berekenen plaatsgebonden risico helikopters
+
+### 4.1. Ongevalkans
+
+Het verband tussen de locatiekans en de afstand tot de helikopterlandingsplaats wordt beschreven met een Weibull kansverdeling:
+
+### 4.2. Ongevallocatiekansen
+
+Weging over de verschillende ongevaltypen, met γ en αs en αl als weegfactoren, dient te worden toegepast bij de verdere bepaling van de kansdichtheden per beweging.
+
+Voor starts zwaar verkeer:
+
+Om de invloed van de keuze van het raster te beperken, dient in een deel van het rekenraster, de maaswijdte te worden verkleind. Dit deel van het rekenraster, het verfijninggebied, is het gebied waarin de **s** of de **u** coördinaat kleiner is dan 10 km en de absolute waarde van de **t** of de **v** coördinaat kleiner is dan 1 km. Een cel waarvan het celmiddelpunt in dit gebied ligt, dient in honderd gelijke subcellen te worden opgesplitst door de lengte en breedte van zo'n cel door 10 te delen. In ieder subcel dient de locatiekans te worden berekend. De locatiekans voor de cel wordt gelijk gesteld aan het gemiddelde van alle locatiekansen in de honderd subcellen.
+
+### 4.3. Ongevalgevolg
+
+Een ongeval in cel **i** van beweging **j** draagt bij aan het plaatsgebonden risico in elke naburige cel die geheel of gedeeltelijk overlapt met het ongevalgevolggebied, zie Figuur 7. De bijdrage in cel **k** is gelijk aan het product van de (fractie) overlap van het ongevalgevolggebied in cel **k**, de letaliteit en de ongevallocatiekans in cel **i** van beweging **j**.
+
+Dit hoofdstuk beschrijft de te volgen rekenmethodiek voor het plaatsgebonden risico van helikopterbewegingen voor zover afwijkend van de methodiek voor vliegtuigen in hoofdstuk 3. De paragrafen 3.1, 3.2 en 3.6 zijn ook van toepassing voor helikopters. Celverfijning (paragraaf 3.4.4) wordt toegepast in de berekening van het plaatsgebonden risico voor helikopters. Indien voor het berekenen van plaatsgebonden risico van helikopters een start- en landingsbaan wordt gebruikt, wordt ook baantransformatie zoals beschreven in paragraaf 3.4.2 toegepast in de transformatie van (u,v) coördinaten naar (x,y) coördinaten. De modellering van ongevalkansen, ongevallocaties en ongevalgevolgen wordt in de volgende paragrafen behandeld.
+
+### 4.1. Ongevalkans
+
+Het verband tussen de ruimtelijke verdeling van ongevallocatiekans en de aan- en uitvliegrichting wordt gegeven door de sectorverdeling. De aan- en uitvliegrichtingen worden ingedeeld in sectoren. Elke sector beschrijft een deel van de aan- en uitvliegrichtingen waarbinnen een bepaald deel van de vluchten plaatsvindt. Een sector heeft twee grenzen: een linkergrens (minimum hoek θ) en een rechtergrens (maximum hoekθ). Deze grenzen bepalen de ingesloten sectorhoek (Δθ). Ook heeft iedere sector een verkeerspercentage dat beschrijft welk deel van het totaal aantal vluchten via de betreffende sector vliegt. De sectorverdeling is een invoerparameter.
+
+### 6. Bepalen beperkingengebieden
+
+### 6.1. Stileren van contouren
+
+Het ongevalgevolggebied wordt gemodelleerd als een cirkelvormig gebied rond de ongevallocatie met straal **ROGB**:
+
+## Bijlage 3. bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=7&z=2015-03-26&g=2015-03-26)
+
+### Berekeningsvoorschrift veiligheidsgebied
+
+Door de gevonden omslagpunten met lijnstukken aan elkaar te verbinden, worden de contouren zichtbaar gemaakt.
+
+## Bijlage 4
+
+Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
+
+### 7. Totaal risicogewicht
+
+Het TRG volgt uit:
+
+## Bijlage 6. als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=9&z=2012-07-01&g=2012-07-01)
+
+### Berekeningsvoorschrift hoogtebeperkingen en omvang gebieden met hoogtebeperkingen in verband met de goede werking van de apparatuur voor luchtverkeerscommunicatie, -navigatie of -begeleiding
+
+De cilinder heeft als referentie de hoogte van het terrein ter plekke, de conus heeft als referentie een horizontaal vlak door het terrein ter plekke.
+
+## Bijlage 7. als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=4&artikel=13&z=2012-07-01&g=2012-07-01) van de Regeling burgerluchthavens
+
+| Gegevens | Tijdvak | Termijn |
+| --- | --- | --- |
+| De geluidbelasting gedurende het etmaal, in de handhavingspunten zoals aangegeven in luchthavenbesluit of luchthavenregeling uitgedrukt in dB(A) met twee decimalen. | Vanaf het begin van het gebruiksjaar tot het einde van ieder kwartaal van dat gebruiksjaar. | Twee weken na afloop van het tijdvak |
+| De geluidbelasting gedurende het etmaal, in de handhavingspunten zoals aangegeven in luchthavenbesluit of luchthavenregeling uitgedrukt in dB(A) met twee decimalen. | Vanaf het begin van het gebruiksjaar tot het moment dat de geluidbelasting in een handhavingspunt hoger is dan de bij dat punt in het luchthavenbesluit of luchthavenregeling aangegeven waarde in dat gebruiksjaar. | Vier werkdagen na afloop van het tijdvak |
+| Het aantal luchtvaartuigbewegingen per etmaal in het geval in een luchthavenbesluit of luchthavenregeling een grenswaarde of regel in de vorm van een aantal luchtvaartuigbewegingen is opgenomen. | Vanaf het begin van het gebruiksjaar tot het einde van ieder kwartaal van dat gebruiksjaar. | Twee weken na afloop van het tijdvak |
+| Het aantal luchtvaartuigbewegingen per etmaal in het geval in het luchthavenbesluit of luchthavenregeling een grenswaarde in de vorm van een aantal luchtvaartuigbewegingen is opgenomen. | Vanaf het begin van het gebruiksjaar tot het moment dat het aantal luchtvaartuigbewegingen hoger is dan het in het luchthavenbesluit of de luchthavenregeling als grenswaarde opgenomen aantal in dat gebruiksjaar. | Vier werkdagen na afloop van het tijdvak |
+| De tijdstippen waarop door luchtvaartuigen van de luchthaven gebruik is gemaakt. | Vanaf het begin van het gebruiksjaar tot het einde van ieder kwartaal van dat gebruiksjaar. | Twee weken na afloop van het tijdvak |
+| Het externe veiligheidsrisico indien in een luchthavenbesluit of luchthavenregeling een totaal risicogewicht is opgenomen. | Vanaf het begin van het gebruiksjaar tot het einde van ieder kwartaal van dat gebruiksjaar. | Twee weken na afloop van het tijdvak |
+| Het externe veiligheidsrisico indien in een luchthavenbesluit of luchthavenregeling een totaal risicogewicht is opgenomen. | Vanaf het begin van het gebruiksjaar tot het moment dat het externe veiligheidsrisico hoger is dan de in het luchthavenbesluit of luchthavenregeling aangegeven grenswaarde in dat gebruiksjaar. | Vier werkdagen na afloop van het tijdvak |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=4&z=2012-07-01&g=2012-07-01) die ter inzage zal worden gelegd bij de bibliotheek van de Hoofddirectie Juridische Zaken van het Ministerie van Verkeer en Waterstaat.
+
+De totale ongevalkans voor een beweging **j**(**P0,j**) is de som van de afzonderlijke kansen op alle ongevaltypen (**P0,j,ot**):
+
+### 1. Achtergrond
+
+Voor vliegtuigbewegingen waarvoor geen radartrack gekoppeld is en voor luchthavens van regionale betekenis, dienen de prestatieprofielen te worden geselecteerd voor de berekening van de grenswaarden voor de Lden-geluidbelasting in handhavingspunten. Als er onvoldoende informatie beschikbaar is om deze selectie te maken wordt het prestatieprofiel gekoppeld dat als standaard is aangemerkt voor het betreffende proxytype (en specifieke luchthavenkenmerken). Voor een start wordt hierbij het profiel geselecteerd met een afstandsklasse die overeenkomt met de afstandsklasse van de vlucht, waarbij het profiel van de hoogste afstandsklasse wordt geselecteerd als de afstandsklasse van de vlucht hoger is dan of gelijk is aan de hoogst beschikbare afstandsklasse voor het proxytype.
+
+### Voor helikopters
+
+Het prestatieprofiel van helikopters bestaat uit opeenvolgende hemisferen (geluidbollen). De hemisferen geven de geluidsniveaus weer als functie van de uitstralingsrichtingen. Per proxytype zijn er verschillende hemisferen beschikbaar die gelden bij een specifieke vliegconditie: een combinatie van de vliegsnelheid (V) en de baanhoek (γ). Als het proxytype een gespiegelde rotorconfiguratie heeft ten opzichte van het luchtvaartuig, dan wordt de toegekende hemisfeer gespiegeld zoals beschreven in [2].
+
+### 1.4. Beknopte beschrijving van het voorschrift
+
+Waarbij:
+
+### 1.4.1. 10-5 en 10-6 plaatsgebonden risicocontouren
+
+### 1.5. Leeswijzer
+
+Hoofdstuk 2 geeft een toelichting op de te hanteren invoergegevens voor een risicoberekening. Een gedetailleerde beschrijving van de rekenstappen en bepaling van de plaatsgebonden risicocontouren is opgenomen in de hoofdstukken 3 t/m 6 en het rekenvoorschrift voor het totaal risicogewicht is opgenomen in hoofdstuk 7.
+
+De afmetingen van het studiegebied moeten zo gekozen worden dat de afstand tussen de 10-6 plaatsgebonden risicocontour en de rand van het studiegebied minimaal 200 meter bedraagt. Uit praktische overweging wordt veelal een vierkant of rechthoekig gebied met de luchthaven ongeveer in het midden gekozen als studiegebied [Ref. 1].
+
+### 2.3. Luchthavengegevens
+
+De luchthavengegevens betreffen de ligging van start- en landingsbanen en helikopterlandingsplaatsen van een luchthaven.
+
+### 2.3.1. Start- en landingsbanen
+
+De coördinaten (**XBK,YBK**) van de baankoppen en (**XBD,YBD**) van de baandrempels per baankop in het referentievlak moeten bekend zijn. Wanneer de baan als startbaan wordt ingezet geldt de baandrempel als beginpunt van de start van een vertrekkend vliegtuig. Bij inzet van de baan als landingsbaan is de baandrempel het punt waar een landend vliegtuig de baan het eerst raakt.
+
+### 2.3.2. Helikopterlandingsplaatsen
+
+De coördinaten (**XH,YH**) van de helikopterlandingsplaatsen in het referentievlak moeten bekend zijn. De helikopterlandingsplaats is het punt van waar een helikopter opstijgt en waar een helikopter landt.
+
+### 2.4. Routes voor vliegtuigen
+
+Een route is de projectie van het nominale vliegpad in het grondvlak waarlangs vliegtuigen bij een start of nadering van of naar de start- of landingsbaan vliegen. De routes bestaan uit opeenvolgende rechte segmenten en cirkelsegmenten gegeven in het referentievlak. In een berekening van de 10-5 en 10-6 plaatsgebonden risicocontouren worden vliegtuigbewegingen gekoppeld aan nominale routes.
+
+### 2.5. Sectorverdeling voor helikopters
+
+Voor de aanduiding van de beperkingengebieden in een luchthavenbesluit dienen de 10-5 en de 10-6 plaatsgebonden risicocontour berekend te worden. Bij de berekening van de 10-5 plaatsgebonden risicocontour dient rekening te worden gehouden met de onzekerheid in het verwachte baangebruik als gevolg van het weer. Dit geldt niet voor de berekening van de plaatsgebonden risicocontouren voor de vijfjaarlijkse evaluatie. Voor de bepaling van de beperkingengebieden dienen de berekende risicocontouren gestileerd te worden.
+
+### 1.4.2. Totaal risicogewicht
+
+Single Engine Turbine (SET)
+
+### 2.6.3. Toewijzen van luchtvaartuigen aan categorieën
+
+### 3. Berekenen plaatsgebonden risico vliegtuigen
+
+### 3.1. Plaatsgebonden risico
+
+### 3.4.1. Selectie van verdelingsfuncties
+
+### 3.4.2. Transformatie van coördinaatpunten
+
+### 3.3. Ongevalkans
+
+### 3.4.4. Toepassen van de verdelingsfuncties
+
+### 3.4.2. Transformatie van coördinaatpunten
+
+### 3.6. Cellen binnen ongevalgevolggebied
+
+### 4. Berekenen plaatsgebonden risico helikopters
+
+Bij de routetransformatie wordt onderscheid gemaakt tussen de rechte segmenten, de cirkelsegmenten en de behandeling van singuliere punten en discontinuïteiten (zie paragraaf 3.4.3). De transformatie is weergeven in de figuren 4 en 5 en bijbehorende formules.
+
+### 3.4.3. Singuliere punten en discontinuïteiten
+
+### 4.2. Ongevallocatiekansen
+
+### 6. Bepalen beperkingengebieden
+
+### 4.3. Ongevalgevolg
+
+### 7. Totaal risicogewicht
+
+Plaatsgebonden risicocontouren verbinden punten met een gelijk plaatsgebonden risico. Het bepalen van contouren is een nabewerking op de berekening van de plaatsgebonden risico’s in celmiddelpunten als beschreven in voorgaande hoofdstukken. Het uitgangspunt voor het genereren van de plaatsgebonden risicocontouren is het netwerk, waarvan in de celmiddelpunten de risicowaarden berekend zijn. Voor de plaatsgebonden risicocontouren dient het proces, zoals hieronder beschreven, te worden doorlopen.
+
+## Bijlage 3. bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=7&z=2024-01-01&g=2024-01-01)
+
+### Berekeningsvoorschrift veiligheidsgebied
+
+### Begripsbepaling
+
+Voor een eenduidig resultaat wordt per gewenste contourwaarde een vaste rangschikking van de gevonden omslagpunten bepaald.
+
+Voor een reeks van achtereenvolgende omslagpunten, waarvan het startpunt op de rand van het netwerk ligt, geldt dat het eerste punt in die rangschikking het omslagpunt is op de rand van het netwerk met de kleinste x-coördinaat t.o.v. de oorsprong van het netwerk (i=1 en j=1). Indien twee oplossingen mogelijk zijn dan geldt dat het eerste punt wordt bepaald door het omslagpunt op de rand van het netwerk met de kleinste y-coördinaat t.o.v. de oorsprong van het netwerk.
+
+Voor een reeks van achtereenvolgende omslagpunten, waarvan het startpunt niet op de rand van het netwerk ligt, geldt dat het eerste punt in die rangschikking het omslagpunt is met de kleinste afstand tot de oorsprong van het netwerk. De volgorde in de rangschikking van omslagpunten ligt in het eerstgenoemde geval vast en is in het laatstgenoemde geval in de richting tegen de wijzers van de klok in.
+
+## Bijlage 4
+
+Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
+
+## Bijlage 5. als bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=8&z=2024-01-01&g=2024-01-01)
+
+### Berekeningsvoorschrift outer horizontal surface en conical surface voor approach runways met code number 1, 2, 3, en 4
+
+### Begripsbepalingen
+
+Het stileren van de sloopzones kan indien gewenst eventueel ook gebaseerd worden op de omhullende contour van enkele bepalende 10-5 plaatsgebonden risicocontouren voor enkele individuele (extreme) meteojaren in plaats van op de berekening met meteotoeslag, beschreven in paragraaf 2.7., van het verkeersscenario dat als basis dient van het als luchthavenbesluit. Voor de bepalende meteojaren wordt het (maximaal) baangebruik in de verschillende baanrichtingen afgeleid en worden de 10-5 plaatsgebonden risicocontouren berekend.
+
+Het Totaal risicogewicht (TRG) is gedefinieerd als het product van de totale ongevalkans en het MTOW per beweging, gesommeerd voor alle bewegingen (**m**) in een jaar.
+
+## Bijlage 6. als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=9&z=2024-01-01&g=2024-01-01)
+
+Figuur 1 Omnidirectionele systemen
+
+## Bijlage 7. als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=4&artikel=13&z=2024-01-01&g=2024-01-01) van de Regeling burgerluchthavens
+
+| Gegevens | Tijdvak | Termijn |
+| --- | --- | --- |
+| De geluidbelasting gedurende het etmaal, in de handhavingspunten zoals aangegeven in luchthavenbesluit of luchthavenregeling uitgedrukt in dB(A) met twee decimalen. | Vanaf het begin van het gebruiksjaar tot het einde van ieder kwartaal van dat gebruiksjaar. | Twee weken na afloop van het tijdvak |
+| De geluidbelasting gedurende het etmaal, in de handhavingspunten zoals aangegeven in luchthavenbesluit of luchthavenregeling uitgedrukt in dB(A) met twee decimalen. | Vanaf het begin van het gebruiksjaar tot het moment dat de geluidbelasting in een handhavingspunt hoger is dan de bij dat punt in het luchthavenbesluit of luchthavenregeling aangegeven waarde in dat gebruiksjaar. | Vier werkdagen na afloop van het tijdvak |
+| Het aantal luchtvaartuigbewegingen per etmaal in het geval in een luchthavenbesluit of luchthavenregeling een grenswaarde of regel in de vorm van een aantal luchtvaartuigbewegingen is opgenomen. | Vanaf het begin van het gebruiksjaar tot het einde van ieder kwartaal van dat gebruiksjaar. | Twee weken na afloop van het tijdvak |
+| Het aantal luchtvaartuigbewegingen per etmaal in het geval in het luchthavenbesluit of luchthavenregeling een grenswaarde in de vorm van een aantal luchtvaartuigbewegingen is opgenomen. | Vanaf het begin van het gebruiksjaar tot het moment dat het aantal luchtvaartuigbewegingen hoger is dan het in het luchthavenbesluit of de luchthavenregeling als grenswaarde opgenomen aantal in dat gebruiksjaar. | Vier werkdagen na afloop van het tijdvak |
+| De tijdstippen waarop door luchtvaartuigen van de luchthaven gebruik is gemaakt. | Vanaf het begin van het gebruiksjaar tot het einde van ieder kwartaal van dat gebruiksjaar. | Twee weken na afloop van het tijdvak |
+| Het externe veiligheidsrisico indien in een luchthavenbesluit of luchthavenregeling een totaal risicogewicht is opgenomen. | Vanaf het begin van het gebruiksjaar tot het einde van ieder kwartaal van dat gebruiksjaar. | Twee weken na afloop van het tijdvak |
+| Het externe veiligheidsrisico indien in een luchthavenbesluit of luchthavenregeling een totaal risicogewicht is opgenomen. | Vanaf het begin van het gebruiksjaar tot het moment dat het externe veiligheidsrisico hoger is dan de in het luchthavenbesluit of luchthavenregeling aangegeven grenswaarde in dat gebruiksjaar. | Vier werkdagen na afloop van het tijdvak |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=4&z=2024-01-01&g=2024-01-01) die ter inzage zal worden gelegd bij de bibliotheek van de Hoofddirectie Juridische Zaken van het Ministerie van Verkeer en Waterstaat.
+
+##### Artikel 1a
+
+Deze regeling berust mede op [artikel 8a.59, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.59).
+
+### Hoofdstuk 2. Grenswaarden en beperkingengebieden
+
+### Hoofdstuk 3. Verklaring van veilig gebruik luchtruim
+
+### Hoofdstuk 4. Het registreren en verstrekken van gegevens
+
+### Hoofdstuk 5. Vrijstelling
+
+### Hoofdstuk 6. Slotbepalingen
+
+## Bijlage 1. behorende bij [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=4&z=2024-07-30&g=2024-07-30), van de Regeling burgerluchthavens
+
+### Betekenis begrippen
+
+Dit voorschrift bij de Regeling burgerluchthavens legt de methodiek vast voor het berekenen en bepalen van de Lden-geluidbelastingcontouren en het berekenen van de grenswaarden voor de Lden-geluidbelasting voor het vaststellen van een luchthavenbesluit of luchthavenregeling en de Lden-geluidbelasting van het luchthavenluchtverkeer in handhavingspunten op de overige burgerluchthavens als bedoeld in [artikel 8.1 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1). De Lden-geluidbelasting, uitgedrukt in dB Lden, is het gemiddeld (equivalente) A-gewogen geluidsniveau, berekend over de etmaalperiode.
+
+### 2.1. Berekening van het geluidblootstellingsniveau en de Lden-geluidbelasting
+
+### 2.2. Gegevens per luchtvaartuigbeweging
+
+Gegevens (zie § 2.1) die per luchtvaartuigbeweging worden gebruikt, zijn:
+
+### 3.1. Benodigde gegevens
+
+In de berekening van het geluidblootstellingsniveau wordt gecorrigeerd voor de gemiddelde luchtdruk, luchttemperatuur en relatieve luchtvochtigheid per seizoen (zomer/winter) op de luchthaven, gebaseerd op een aaneengesloten tijdvak van 10 kalenderjaren. De atmosferische condities dienen bij de vaststelling van een luchthavenbesluit of een luchthavenregeling (zie § 4.2) te worden vastgesteld op basis van KNMI uurgegevens voor de uren die vallen binnen de openingstijden van de luchthaven. De gegevens dienen daarbij te worden vastgesteld op basis van een recent tijdvak. Bij gebrek aan een KNMI meetstation op de luchthaven, wordt voor het vaststellen van de atmosferische condities uitgegaan van het meest nabijgelegen KNMI meetstation.
+
+### 4.1. Verkeersgegevens ten behoeve van een handhavingsberekening
+
+### 4.1.1. Te registreren gegevens
+
+### 4.1.2. Aanvullende kenmerken van verkeersgegevens
+
+### 4.1.4. Correctiefactor geluid
+
+### 4.1.5. Seizoen en atmosferische condities
+
+### 4.1.7. Grondpad en prestatieprofiel
+
+### 4.2.1. Vaststellen van verkeersgegevens
+
+### 4.2.2. Meteotoeslag
+
+### 4.2.3. Gegevens ten behoeve van de handhaving
+
+Bovendien is een koppelingstabel beschikbaar waarmee prestatieprofielen aan geregistreerde luchtvaartuigbewegingen kunnen worden gekoppeld. Deze tabel geeft, ten minste per type verkeer (groot, klein of helikopter) en start-/landingsbaan en helikopterlandingsplaats, een (verdeling over) prestatieprofielen(s). Hierbij wordt rekening gehouden met situaties waarin nieuwe proxytypes of prestatieprofielen beschikbaar komen.
+
+### 5. Geluid- en prestatiegegevens van luchtvaartuigen
+
+### 1. Handhavingspunten
+
+### 6.3. Berekening van het geluidblootstellingsniveau per unieke luchtvaartuigbeweging
+
+### 7. Bepalen van geluidbelastingcontouren
+
+### Annexen
+
+### A3. Voorwaarden aan radargegevens
+
+### A4. Toewijzen radargegevens
+
+Deze Annex specificeert de methode waarmee een prestatieprofiel wordt bepaald voor een luchtvaartuigbeweging. Er wordt onderscheid gemaakt tussen vliegtuigen en helikopters en naar het type grondpad (modelroute of radartrack).
+
+Het prestatieprofiel geeft het verloop van hoogte, stuwkracht en snelheid als functie van de afgelegde weg langs het grondpad zoals bepaald in § 4.1.7. Hierbij wordt onderscheid gemaakt tussen of er wel of geen radartrack is gekoppeld.
+
+## Bijlage 2. als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=5&z=2024-07-30&g=2024-07-30), van de Regeling burgerluchthavens
+
+### Voorschrift voor de berekening en bepaling van de 10-5 en 10-6 plaatsgebonden risicocontouren en het Totaal risicogewicht voor overige burgerluchthavens
+
+### 1.5. Leeswijzer
+
+Hoofdstuk 2 geeft een toelichting op de te hanteren invoergegevens voor een risicoberekening. Een gedetailleerde beschrijving van de rekenstappen en bepaling van de plaatsgebonden risicocontouren is opgenomen in de hoofdstukken 3 t/m 6 en het rekenvoorschrift voor het totaal risicogewicht is opgenomen in hoofdstuk 7.
+
+### 2. Algemeen
+
+### 2.3. Luchthavengegevens
+
+### 2.3.1. Start- en landingsbanen
+
+### 2.4. Routes voor vliegtuigen
+
+### 2.6.2. Helikopters
+
+### 2.6.3. Toewijzen van luchtvaartuigen aan categorieën
+
+### 3. Berekenen plaatsgebonden risico vliegtuigen
+
+### 3.1. Plaatsgebonden risico
+
+### 3.2. Ongevallocatiekans
+
+### 3.5. Ongevalgevolg
+
+### 3.6. Cellen binnen ongevalgevolggebied
+
+### 4. Berekenen plaatsgebonden risico helikopters
+
+### 4.2. Ongevallocatiekansen
+
+### 5. Genereren van plaatsgebonden risicocontouren
+
+Het zoeken naar achtereenvolgende omslagpunten wordt gestaakt indien aan één van de onderstaande condities is voldaan:
+
+### 6. Bepalen beperkingengebieden
+
+### 6.1. Stileren van contouren
+
+### Begripsbepaling
+
+### Berekenen omvang van het veiligheidsgebied
+
+De lengte van het gebied bedraagt vanaf de strook:
+
+**Stap 3.**
+
+De breedte van het gebied bedraagt:
+
+## Bijlage 4
+
+Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
+
+## Bijlage 5. als bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=8&z=2024-07-30&g=2024-07-30)
+
+### Berekeningsvoorschrift outer horizontal surface en conical surface voor approach runways met code number 1, 2, 3, en 4
+
+### Begripsbepalingen
+
+In deze bijlage wordt verstaan onder:
+
+### Berekeningsvoorschrift
+
+De dimensie van de outer horizontal surface en de conical surface voor een approach runway met baancode 1, 2, 3 of 4 wordt bepaald overeenkomstig de onderstaande hoogte en afstand ten opzicht van de hartlijn van de baan.
+
+## Bijlage 6. als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=9&z=2024-07-30&g=2024-07-30)
+
+### Berekeningsvoorschrift hoogtebeperkingen en omvang gebieden met hoogtebeperkingen in verband met de goede werking van de apparatuur voor luchtverkeerscommunicatie, -navigatie of -begeleiding
+
+Het gebied en de hoogtebeperkingen worden voor de onderscheidenlijk aangeduide apparatuur berekend aan de hand van de onderstaande tabellen en figuren.
+
+Figuur 1 Omnidirectionele systemen
+
+De cilinder heeft als referentie de hoogte van het terrein ter plekke, de conus heeft als referentie een horizontaal vlak door het terrein ter plekke.
+
+Figuur 2 Directionele systemen
+
+Figuur 3 3D Weergave voor directionele systemen
+
+## Bijlage 7. als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=4&artikel=13&z=2024-07-30&g=2024-07-30) van de Regeling burgerluchthavens
+
+| Gegevens | Tijdvak | Termijn |
+| --- | --- | --- |
+| De geluidbelasting gedurende het etmaal, in de handhavingspunten zoals aangegeven in luchthavenbesluit of luchthavenregeling uitgedrukt in dB(A) met twee decimalen. | Vanaf het begin van het gebruiksjaar tot het einde van ieder kwartaal van dat gebruiksjaar. | Twee weken na afloop van het tijdvak |
+| De geluidbelasting gedurende het etmaal, in de handhavingspunten zoals aangegeven in luchthavenbesluit of luchthavenregeling uitgedrukt in dB(A) met twee decimalen. | Vanaf het begin van het gebruiksjaar tot het moment dat de geluidbelasting in een handhavingspunt hoger is dan de bij dat punt in het luchthavenbesluit of luchthavenregeling aangegeven waarde in dat gebruiksjaar. | Vier werkdagen na afloop van het tijdvak |
+| Het aantal luchtvaartuigbewegingen per etmaal in het geval in een luchthavenbesluit of luchthavenregeling een grenswaarde of regel in de vorm van een aantal luchtvaartuigbewegingen is opgenomen. | Vanaf het begin van het gebruiksjaar tot het einde van ieder kwartaal van dat gebruiksjaar. | Twee weken na afloop van het tijdvak |
+| Het aantal luchtvaartuigbewegingen per etmaal in het geval in het luchthavenbesluit of luchthavenregeling een grenswaarde in de vorm van een aantal luchtvaartuigbewegingen is opgenomen. | Vanaf het begin van het gebruiksjaar tot het moment dat het aantal luchtvaartuigbewegingen hoger is dan het in het luchthavenbesluit of de luchthavenregeling als grenswaarde opgenomen aantal in dat gebruiksjaar. | Vier werkdagen na afloop van het tijdvak |
+| De tijdstippen waarop door luchtvaartuigen van de luchthaven gebruik is gemaakt. | Vanaf het begin van het gebruiksjaar tot het einde van ieder kwartaal van dat gebruiksjaar. | Twee weken na afloop van het tijdvak |
+| Het externe veiligheidsrisico indien in een luchthavenbesluit of luchthavenregeling een totaal risicogewicht is opgenomen. | Vanaf het begin van het gebruiksjaar tot het einde van ieder kwartaal van dat gebruiksjaar. | Twee weken na afloop van het tijdvak |
+| Het externe veiligheidsrisico indien in een luchthavenbesluit of luchthavenregeling een totaal risicogewicht is opgenomen. | Vanaf het begin van het gebruiksjaar tot het moment dat het externe veiligheidsrisico hoger is dan de in het luchthavenbesluit of luchthavenregeling aangegeven grenswaarde in dat gebruiksjaar. | Vier werkdagen na afloop van het tijdvak |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=4&z=2024-07-30&g=2024-07-30) die ter inzage zal worden gelegd bij de bibliotheek van de Hoofddirectie Juridische Zaken van het Ministerie van Verkeer en Waterstaat.

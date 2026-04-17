@@ -1,13 +1,38 @@
 ---
 title: "Algemene douaneregeling"
 identifier: "BWBR0024291"
-categorie: "Belastingrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024291"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024291"
+soort: "ministeriele-regeling"
+stam_id: "9679053"
+version_id: "31272452"
+internal_id: "C44714121"
+label_id: "9658194"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024291/2026-01-01/0"
+intitule_bron: "Stcrt.2008-145"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-07-14"
+intitule_published: "2008-07-30"
+intitule_in_force: "2008-07-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-43333"
+original_signed_date: "2025-12-24"
+original_published_date: "2025-12-24"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-43333"
+entry_into_force_date: "2025-12-24"
+jci_1_3: "jci1.3:c:BWBR0024291&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0024291&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-12-24"
+entry_into_force: "2025-12-24"
 ---
-
 # Algemene douaneregeling
 
 Gelet op de [artikelen 1:3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3), [1:19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:19), [1:28, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:28), [1:35](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:35), [1:37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:37), [2:1, aanhef en onder a tot en met h, j, k en m](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=2:1), [6:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=6:1), [6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=6:2), [6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=6:3), [7:1, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=7:1), [7:6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=7:6), [7:9, aanhef en onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=7:9), [9:5](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:5), [10:11](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:11), [11:13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=11:13), en [artikel 11:14, eerste lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=11:14) en op de [artikelen 1:5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=1:5), [2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=2:1), [2:2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=2:2), [3:2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=3:2), [3:3, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=3:3), [3:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=3:4), en [5:1, tweede en vierde lid, van het Algemeen douanebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=5:1);
@@ -20,11 +45,11 @@ Treedt in werking op het tijdstip waarop de Algemene douanewet in werking treedt
 
 ### Afdeling 1.1. Basisdefinities en overige inleidende bepalingen
 
-#### Artikel 1:1
+##### Artikel 1:1
 
 Deze regeling geeft uitvoering aan de [artikelen 1:3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3), [1:6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:6), [1:19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:19), [1:28, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:28), [1:35](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:35), [1:37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:37), [2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=2:1), [3:2, derde lid, aanhef en onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=3:2), [3:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=3:5), [6:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=6:1), [6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=6:2), [6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=6:3), [7:1, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=7:1), [7:6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=7:6), [7:9, aanhef en onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=7:9), [9:5](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:5), [10:11](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:11), [11:13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=11:13), en [11:14, eerste lid van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=11:14), de [artikelen 1:5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=1:5), [2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=2:1), [2:2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=2:2), [3:2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=3:2), en [3:3, aanhef en onder c, van het Algemeen douanebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=3:3), de [artikelen 2, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2), en [artikel 5, tweede lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=5), [artikel 21 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=21), de [artikelen 63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=63), en [69 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=69) en aan de [artikelen 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=27), en [31 van de Wet op de verbruiksbelasting van alcoholvrije dranken](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=31).
 
-#### Artikel 1:2
+##### Artikel 1:2
 
 Voor de toepassing van deze regeling wordt verstaan onder:
 
@@ -86,19 +111,19 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 - ac. Verordening (EU) 2021/2115: [Verordening (EU) 2021/2115](32021R2115) van het Europees Parlement en de Raad van 2 december 2021 tot vaststelling van voorschriften inzake steun voor de strategische plannen die de lidstaten in het kader van het gemeenschappelijk landbouwbeleid opstellen (strategische GLB-plannen) en die uit het Europees Landbouwgarantiefonds (ELGF) en het Europees Landbouwfonds voor plattelandsontwikkeling (Elfpo) worden gefinancierd, en tot intrekking van [Verordeningen (EU) nr. 1305/2013](32013R1305) en [(EU) nr. 1307/2013](32013R1307) (PbEU 2021, L 435).
 
-#### Artikel 1:3
+##### Artikel 1:3
 
 Douanekantoren zijn gevestigd in de plaatsen genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=I&z=2026-01-01&g=2026-01-01).
 
 ### Afdeling 1.2. Aanwijzing inspecteur en ontvanger
 
-#### Artikel 1:4
+##### Artikel 1:4
 
 1. De directeur-generaal Douane, de algemeen directeuren en de directeur, bedoeld in [artikel 5, eerste lid, van de Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=5), zijn inspecteur en ontvanger als bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3).
 
 2. De directeur-generaal Douane is inspecteur en ontvanger als bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3), voor zover het de belastingaangelegenheden betreft die verband houden met het Koninklijk Huis.
 
-#### Artikel 1:5
+##### Artikel 1:5
 
 1. De directeur-generaal Douane, bedoeld in [artikel 4, tweede lid, van de Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=4) en de algemeen directeuren en de directeur, bedoeld in [artikel 5, eerste lid, van de Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=5), zijn ambtenaar als bedoeld in [artikel 11:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=11:7).
 
@@ -106,11 +131,11 @@ Douanekantoren zijn gevestigd in de plaatsen genoemd in [bijlage I](https://wett
 
 3. De directeur-generaal Douane, bedoeld in [artikel 4, tweede lid, van de Uitvoeringsregeling belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=4), is op grond van [artikel 1:28, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:28) bevoegd tot het geven van toestemming voor het vorderen van gehele ontkleding dan wel het onderzoek van het onderlichaam van degene die aan lijfsvisitatie wordt onderworpen.
 
-#### Artikel 1:6
+##### Artikel 1:6
 
 De verplichtingen die ingevolge [artikel 1:32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:32) bestaan jegens de inspecteur en de ontvanger, gelden mede jegens de algemeen directeur van de FIOD alsmede jegens de door deze algemeen directeur aangewezen ambtenaren van de Belastingdienst.
 
-#### Artikel 1:7
+##### Artikel 1:7
 
 1. De algemeen directeur Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken is inspecteur als bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3).
 
@@ -118,7 +143,7 @@ De verplichtingen die ingevolge [artikel 1:32 van de wet](https://wetten.overhei
 
 3. De algemeen directeur, bedoeld in het eerste lid, kan bij het uitoefenen van de hem bij dat lid opgedragen taken alleen de bevoegdheden, bedoeld in de [artikelen 1:23](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:23), [1:24](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:24), [1:25](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:25), [1:27](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:27), [1:31 tot en met 1:34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:31), toepassen.
 
-#### Artikel 1:8
+##### Artikel 1:8
 
 1. De inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit is inspecteur als bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3).
 
@@ -136,11 +161,11 @@ De verplichtingen die ingevolge [artikel 1:32 van de wet](https://wetten.overhei
 
 - –. [hoofdstuk 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3).
 
-#### Artikel 1:9
+##### Artikel 1:9
 
 De algemeen directeur Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken is ontvanger in de zin van [artikel 1:3, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3) en [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2), voor zover het betreft waarborgsommen als bedoeld in [hoofdstuk 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3).
 
-#### Artikel 1:10
+##### Artikel 1:10
 
 1. De directeur-generaal Douane, bedoeld in [artikel 4, tweede lid, van de Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=4), is de bevoegde douaneadministratie, bedoeld in artikel 10 van de Overeenkomst opgesteld op grond van artikel K3 van het Verdrag betreffende de Europese Unie inzake het gebruik van informatica op douanegebied (Trb. 1995, 287).
 
@@ -148,7 +173,7 @@ De algemeen directeur Rijksdienst voor Ondernemend Nederland van het Ministerie 
 
 ### Afdeling 1.3. Elektronisch berichtenverkeer
 
-#### Artikel 1:11
+##### Artikel 1:11
 
 1. Een douaneaangifte, een aangifte tot tijdelijke opslag, een summiere aangifte bij binnenbrengen, een summiere aangifte bij uitgaan, een aangifte tot wederuitvoer of een kennisgeving van wederuitvoer wordt gesteld in de Nederlandse of de Engelse taal.
 
@@ -156,7 +181,7 @@ De algemeen directeur Rijksdienst voor Ondernemend Nederland van het Ministerie 
 
 ### Afdeling 1.3. Douaneaangiften
 
-#### Artikel 1:12
+##### Artikel 1:12
 
 Het tarief van de kosten die op grond van [artikel 1:19, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:19), door de belanghebbende aan het Rijk verschuldigd zijn, is:
 
@@ -166,7 +191,7 @@ Het tarief van de kosten die op grond van [artikel 1:19, eerste lid, van de wet]
 
 ### Afdeling 1.4. Kosten ambtelijke werkzaamheden
 
-#### Artikel 1:13
+##### Artikel 1:13
 
 In deze afdeling wordt verstaan onder:
 
@@ -188,7 +213,7 @@ In deze afdeling wordt verstaan onder:
 
 - i. Naktuinbouw: Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw.
 
-#### Artikel 1:14
+##### Artikel 1:14
 
 1. Een aanvraag tot afgifte van een certificaat van oorsprong wordt ingediend bij de Kamer.
 
@@ -202,7 +227,7 @@ In deze afdeling wordt verstaan onder:
 
 - b. aan een ander ten behoeve van een aanvraag, bedoeld in het eerste lid.
 
-#### Artikel 1:15
+##### Artikel 1:15
 
 1. Indien de aanvraag, bedoeld in [artikel 1:14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=1&afdeling=1.5&artikel=1:14&z=2026-01-01&g=2026-01-01), betrekking heeft op teeltmateriaal als bedoeld in [artikel 1, aanhef, onderdeel f, van de Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=1), wordt bij de aanvraag als bewijsstuk als bedoeld in [artikel 1:14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=1&afdeling=1.5&artikel=1:14&z=2026-01-01&g=2026-01-01), overlegd:
 
@@ -216,7 +241,7 @@ In deze afdeling wordt verstaan onder:
 
 3. Indien de producten, vermeld in de aanvraag, tegelijkertijd kunnen worden aangemerkt als teeltmateriaal als bedoeld in het eerste lid, en als groente en fruit als bedoeld in het tweede lid, wordt het eerste of het tweede lid toegepast afhankelijk van de bestemming die aan die producten wordt gegeven.
 
-#### Artikel 1:16
+##### Artikel 1:16
 
 1. Een aanvraag tot afgifte van een certificaat inzake goederenverkeer wordt ingediend bij de Kamer.
 
@@ -230,7 +255,7 @@ In deze afdeling wordt verstaan onder:
 
 - b. aan een ander ten behoeve van de aanvraag, bedoeld in het eerste lid.
 
-#### Artikel 1:17
+##### Artikel 1:17
 
 1. De commissie adviseert de Ministerie van Buitenlandse Handel en Ontwikkelingshulp en van Financiën, en de Kamer over preferentiële en niet-preferentiële oorsprongsvraagstukken.
 
@@ -240,17 +265,17 @@ In deze afdeling wordt verstaan onder:
 
 ### Afdeling 1.6. Lijfsvisitatie
 
-#### Artikel 1:18
+##### Artikel 1:18
 
 De instellingen van apparatuur waarmee door kleding van personen wordt gekeken, zijn zodanig, dat de persoon, die aan lijfsvisitatie wordt onderworpen, niet herkenbaar is op de beelden die door de apparatuur worden gegenereerd.
 
 ### Afdeling 1.6. Lijfsvisitatie
 
-#### Artikel 1:19
+##### Artikel 1:19
 
 Vervallen
 
-#### Artikel 1:20
+##### Artikel 1:20
 
 1. Ingeval de gegevens voor de vaststelling van de douanewaarde zijn uitgedrukt in een munteenheid waarvoor de Europese Centrale Bank geen referentiekoersen publiceert, wordt voor de vaststelling van de douanewaarde gebruik gemaakt van de wisselkoers van die munteenheid ten opzichte van de euro zoals die wordt gepubliceerd op de voorlaatste woensdag van de maand in de Financial Times Guide to World Currencies.
 
@@ -258,7 +283,7 @@ Vervallen
 
 3. Indien geen publicatie plaatsvindt op het tijdstip, bedoeld in het eerste lid, wordt de voor de betrokken munteenheid laatst in de Financial Times Guide to World Currencies gepubliceerde wisselkoers van die munteenheid ten opzichte van de euro geacht de op de voorlaatste woensdag van de maand gepubliceerde wisselkoers te zijn.
 
-#### Artikel 1:21
+##### Artikel 1:21
 
 1. De aangifte van gegevens inzake de douanewaarde, bedoeld in artikel 6, eerste lid, van de Gedelegeerde Verordening overgangsregels Douanewetboek van de Unie, kan achterwege blijven indien de douanewaarde van de ingevoerde goederen wordt vastgesteld op een andere wijze dan met toepassing van artikel 70 van het Douanewetboek van de Unie.
 
@@ -272,7 +297,7 @@ Vervallen
 
 3. Het tweede lid is niet van toepassing indien de aangegeven douanewaarde rechtstreeks uit de factuur is afgeleid.
 
-#### Artikel 1:22
+##### Artikel 1:22
 
 Vervallen
 
@@ -280,7 +305,7 @@ Vervallen
 
 ### Afdeling 2.1. Formaliteiten met betrekking tot het binnenbrengen van goederen in het douanegebied van de Gemeenschap
 
-#### Artikel 2:1
+##### Artikel 2:1
 
 1. Binnenkomende schepen en de daarmee vervoerde goederen worden langs in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=II&z=2026-01-01&g=2026-01-01) opgenomen vaarwaters overgebracht naar een haven ressorterende onder een in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=III&z=2026-01-01&g=2026-01-01) opgenomen douanekantoor alwaar zij worden aangebracht.
 
@@ -296,11 +321,11 @@ Vervallen
 
 4. Van de aankomst en van het vertrek van een schip op de plaatsen, genoemd in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=V&z=2026-01-01&g=2026-01-01), voor het verrichten van een activiteit, genoemd in het derde lid, wordt mededeling gedaan aan de inspecteur.
 
-#### Artikel 2:2
+##### Artikel 2:2
 
 Vervallen
 
-#### Artikel 2:3
+##### Artikel 2:3
 
 De [artikelen 2:0](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:0&z=2026-01-01&g=2026-01-01), [2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2026-01-01&g=2026-01-01), [2:2a](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:2a&z=2026-01-01&g=2026-01-01) en [2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.2&artikel=2:5&z=2026-01-01&g=2026-01-01) zijn niet van toepassing op schepen en luchtvaartuigen indien:
 
@@ -312,7 +337,7 @@ De [artikelen 2:0](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&a
 
 - d. het schip of luchtvaartuig in de Unie thuishoort.
 
-#### Artikel 2:4
+##### Artikel 2:4
 
 1. Degene die aan de kust goederen heeft opgevist of gered, dan wel aldaar aangespoelde of gestrande goederen heeft geborgen, geeft daarvan onverwijld kennis aan de inspecteur. Voor de toepassing van de vorige volzin wordt onder kust mede verstaan de wateren, stranden en oevers welke op grond van [artikel 21 van de Wet op de strandvonderij](https://wetten.overheid.nl/jci1.3:c:BWBR0001951&artikel=21) worden beschouwd te behoren tot de zee en het zeestrand.
 
@@ -322,7 +347,7 @@ De [artikelen 2:0](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&a
 
 ### Afdeling 2.2. Summiere aangifte
 
-#### Artikel 2:5
+##### Artikel 2:5
 
 1. De aangifte tot tijdelijke opslag bevat de in bijlage 9, aanhangsel A, onderdeel 2, van de Gedelegeerde Verordening overgangsregels Douanewetboek van de Unie genoemde vereiste gegevens.
 
@@ -330,35 +355,35 @@ De [artikelen 2:0](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&a
 
 ### Afdeling 2.2. Summiere aangifte
 
-#### Artikel 2:6
+##### Artikel 2:6
 
 Vervallen
 
-#### Artikel 2:7
+##### Artikel 2:7
 
 Vervallen
 
-#### Artikel 2:8
+##### Artikel 2:8
 
 Vervallen
 
 ### Afdeling 2.3. Tijdelijke opslag
 
-#### Artikel 2:9
+##### Artikel 2:9
 
 Vervallen
 
-#### Artikel 2:10
+##### Artikel 2:10
 
 Vervallen
 
-#### Artikel 2:11
+##### Artikel 2:11
 
 1. De formulieren enig document worden ingevuld overeenkomstig het bepaalde in de Toelichting enig document, zoals opgenomen in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=VI&z=2026-01-01&g=2026-01-01).
 
 2. De bij de invulling van de formulieren enig document te gebruiken codes zijn de codes opgenomen in het codeboek Douane en beschikbaar via internetadres [www.douane.nl](http://www.douane.nl).
 
-#### Artikel 2:12
+##### Artikel 2:12
 
 1. In de gevallen waarin op grond van wettelijke bepalingen in een aangifte de goederencode van de desbetreffende goederen moet worden vermeld, is dat de code die voor die goederen is vastgesteld in het gebruikstarief.
 
@@ -366,19 +391,19 @@ Vervallen
 
 3. Het in het eerste lid bedoelde gebruikstarief is beschikbaar via internetadres [Home | Gebruikstarief (douane.nl)](https://tarief.douane.nl/ite-tariff-public/#%2Fhome).
 
-#### Artikel 2:13
+##### Artikel 2:13
 
 Indien door de inspecteur een vergunning wordt afgegeven voor het gebruik van de bijzondere regeling douane-entrepots wordt in de vergunning bepaald dat, afhankelijk van de aard van de goederen die onder de bijzondere regeling douane-entrepots worden geplaatst, de vergunninghouder en het Centraal Bureau voor de Statistiek overeenstemming bereiken over de afzonderlijke aanlevering van gegevens ten behoeve van de entrepotstatistiek.
 
 ### Afdeling 2.5. Onderzoek van de goederen, bevindingen van het douanekantoor en andere door het douanekantoor te nemen maatregelen
 
-#### Artikel 2:14
+##### Artikel 2:14
 
 1. Monsterneming vindt in tweevoud plaats, tenzij de wijze en/of aard van het onderzoek ertoe noopt meerdere monsters te nemen, en de monsters worden ter plaatse verpakt en verzegeld.
 
 2. Indien mogelijk wordt op verzoek van belanghebbende een extra monster genomen, dat ter plaatse wordt verpakt en verzegeld en in het bezit van belanghebbende blijft.
 
-#### Artikel 2:15
+##### Artikel 2:15
 
 1. De speling, bedoeld in [artikel 1:35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:35), is, indien het een verschil betreft tussen de waarde of de hoeveelheid zoals in de aangifte is aangegeven, en de waarde of de hoeveelheid van hetgeen aanwezig is: een percent van de waarde of de hoeveelheid van hetgeen aanwezig is.
 
@@ -394,11 +419,11 @@ Indien door de inspecteur een vergunning wordt afgegeven voor het gebruik van de
 
 ### Afdeling 2.5. Onderzoek van de goederen, bevindingen van het douanekantoor en andere door het douanekantoor te nemen maatregelen
 
-#### Artikel 3:1
+##### Artikel 3:1
 
 Het is verboden te handelen in strijd met de artikelen 5, eerste en derde lid, 6, eerste, tweede en vierde lid, van Gedelegeerde Verordening (EU) 2016/1237 en de artikelen 6, zevende lid, 9, eerste en derde lid, 12, vierde lid, 13, eerste en zesde lid, 14, vijfde lid, onderdeel a, en zesde lid, en 15 eerste, vierde en zesde lid, onderdeel c, van Uitvoeringsverordening (EU) 2016/1239.
 
-#### Artikel 3:2
+##### Artikel 3:2
 
 De Minister van Landbouw, Visserij, Voedselzekerheid en Natuur is:
 
@@ -412,55 +437,55 @@ De Minister van Landbouw, Visserij, Voedselzekerheid en Natuur is:
 
 - e. de met de afgifte van certificaten belaste autoriteit, bedoeld in de artikelen 6, vijfde lid, 8, tweede lid, 9, 10, zesde lid, 24, 44, 59, tweede lid, 62, tweede en vierde lid, 63, tweede en deerde lid, en 72, en de bevoegde autoriteit, bedoeld in de artikelen 44, 50, 59, tweede lid, 62, derde en vijfde lid, 64, derde lid, en 70, tweede lid, van [Uitvoeringsverordening (EU) 2020/761](32020R0761).
 
-#### Artikel 3:3
+##### Artikel 3:3
 
 Vervallen
 
-#### Artikel 3:4
+##### Artikel 3:4
 
 Vervallen
 
-#### Artikel 3:5
+##### Artikel 3:5
 
 Vervallen
 
-#### Artikel 3:6
+##### Artikel 3:6
 
 Vervallen
 
-#### Artikel 3:7
+##### Artikel 3:7
 
 Vervallen
 
-#### Artikel 3:8
+##### Artikel 3:8
 
 Vervallen
 
-#### Artikel 3:9
+##### Artikel 3:9
 
 De certificaten, bedoeld in [artikel 3:2, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=3:2), zijn in het Nederlands gesteld.
 
-#### Artikel 3:10
+##### Artikel 3:10
 
 Vervallen
 
-#### Artikel 3:11
+##### Artikel 3:11
 
 Vervallen
 
-#### Artikel 3:12
+##### Artikel 3:12
 
 Vervallen
 
 ### Afdeling 3.2. Certificaten; bijzondere bepalingen
 
-#### Artikel 3:13
+##### Artikel 3:13
 
 1. De Minister van Landbouw, Visserij, Voedselzekerheid en Natuur geeft de invoercertificaten, bedoeld in [artikel 3:1, onder d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=3:1), of uittreksels daarvan voor ruwe hennep van post 53 02 10 00 van de gecombineerde nomenclatuur slechts af indien deze voldoet aan de voorwaarden van artikel 4, vierde lid, tweede alinea, van [Verordening (EU) 2021/2115](32021R2115).
 
 2. De Minister van Landbouw, Visserij, Voedselzekerheid en Natuur geeft de invoercertificaten, bedoeld in [artikel 3:1, onder d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=3:1), of uittreksels daarvan voor zaaizaad bestemd voor de inzaai van henneprassen van post ex 1207 99 20 van de gecombineerde nomenclatuur slechts af indien deze vergezeld gaat van het bewijs dat het gehalte aan tetrahydrocannabinol niet hoger is dan het gehalte, bedoeld in artikel 4, achtste lid, van [Verordening (EU) 2021/2115](32021R2115).
 
-#### Artikel 3:14
+##### Artikel 3:14
 
 1. Van het verbod op het invoeren van landbouwproducten, bedoeld in [artikel 3:2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&artikel=3:2), wordt vrijstelling verleend voor pootaardappelen van post 0701 1000 van de gecombineerde nomenclatuur.
 
@@ -470,81 +495,81 @@ Vervallen
 
 4. Het etiket en het bewijsstuk, bedoeld in het derde lid, worden afgegeven door de Stichting Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed van landbouwgewassen.
 
-#### Artikel 3:15
+##### Artikel 3:15
 
 Vervallen
 
-#### Artikel 3:16
+##### Artikel 3:16
 
 Vervallen
 
 ### Afdeling 3.2. Certificaten; bijzondere bepalingen
 
-#### Artikel 3:17
+##### Artikel 3:17
 
 Vervallen
 
-#### Artikel 3:18
+##### Artikel 3:18
 
 Vervallen
 
-#### Artikel 3:19
+##### Artikel 3:19
 
 Vervallen
 
-#### Artikel 3:20
+##### Artikel 3:20
 
 Vervallen
 
-#### Artikel 3:21
+##### Artikel 3:21
 
 Vervallen
 
-#### Artikel 3:22
+##### Artikel 3:22
 
 Vervallen
 
 ### Afdeling 3.4. Proviandering
 
-#### Artikel 3:23
+##### Artikel 3:23
 
 Vervallen
 
-#### Artikel 3:24
+##### Artikel 3:24
 
 Vervallen
 
-#### Artikel 3:25
+##### Artikel 3:25
 
 Vervallen
 
-#### Artikel 3:26
+##### Artikel 3:26
 
 Vervallen
 
-#### Artikel 3:27
+##### Artikel 3:27
 
 Vervallen
 
-#### Artikel 3:28
+##### Artikel 3:28
 
 Vervallen
 
-#### Artikel 3:29
+##### Artikel 3:29
 
 Vervallen
 
-#### Artikel 3:30
+##### Artikel 3:30
 
 Vervallen
 
-#### Artikel 3:31
+##### Artikel 3:31
 
 Vervallen
 
 ### Afdeling 3.5. Regels ter uitvoering van overige Europese verordeningen
 
-#### Artikel 3:32
+##### Artikel 3:32
 
 Vervallen
 
@@ -552,43 +577,43 @@ Vervallen
 
 ### Afdeling 3.5. Regels ter uitvoering van overige Europese verordeningen
 
-#### Artikel 4:1
+##### Artikel 4:1
 
 Het document, bedoeld in artikel 37, eerste lid, onderdeel a, subonderdeel ii, van [Verordening (EU) 2016/1012](32016R1012) van het Europees parlement en de Raad van 8 juni 2016 betreffende de zoötechnische en genealogische voorwaarden voor het fokken van, de handel in en de binnenkomst in de Unie van raszuivere fokdieren, hybride fokvarkens en levende producten daarvan en tot wijziging van Verordening (EU) nr. 652/2014, de [Richtlijnen 89/608/EEG](31989L0608) en [90/425/EEG](31990L0425) van de Raad en tot intrekking van bepaalde handelingen op het gebied van dierfokkerij (‘Fokkerijverordening’) (PbEU 2016, L 171), dat een zending raszuivere fokdieren vergezelt bij het in het vrije verkeer brengen, wordt opgemaakt volgens het in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=VIII&z=2026-01-01&g=2026-01-01) opgenomen model.
 
-#### Artikel 4:2
+##### Artikel 4:2
 
 Vervallen
 
-#### Artikel 4:3
+##### Artikel 4:3
 
 Vervallen
 
-#### Artikel 4:4
+##### Artikel 4:4
 
 Vervallen
 
-#### Artikel 4:5
+##### Artikel 4:5
 
 Vervallen
 
 ### Afdeling 4.2. De economische douaneregelingen
 
-#### Artikel 4:6
+##### Artikel 4:6
 
 Aan accijns onderworpen Uniegoederen kunnen slechts in de ruimten van een douane-entrepot worden opgeslagen voor zover de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) in deze opslag voorziet en onder de bij of krachtens de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) gestelde voorwaarden en beperkingen.
 
-#### Artikel 4:7
+##### Artikel 4:7
 
 Vervallen
 
-#### Artikel 4:8
+##### Artikel 4:8
 
 1. De bijzondere regeling tijdelijke invoer wordt toegestaan voor vervoermiddelen die hier te lande worden ingeschreven en te naam gesteld in het kentekenregister en waarvoor een kenteken wordt opgegeven bevattende de letters CD, CDJ dan wel de letters BN of GN in combinatie met twee cijfergroepen van elk twee cijfers.
 
 2. De in het eerste lid bedoelde vervoermiddelen kunnen onder de regeling worden geplaatst zonder schriftelijke aanvraag of vergunning.
 
-#### Artikel 4:9
+##### Artikel 4:9
 
 1. Met inachtneming van artikel 216, eerste lid, onderdeel a, onderscheidenlijk onderdeel b, van de Gedelegeerde Verordening Douanewetboek van de Unie, wordt toegestaan dat vervoermiddelen welke worden betrokken uit een douane-entrepot of een ruimte voor tijdelijke opslag onder de regeling tijdelijke invoer worden geplaatst.
 
@@ -600,41 +625,41 @@ Vervallen
 
 ### Afdeling 4.3. Vrije zones en entrepots
 
-#### Artikel 4:10
+##### Artikel 4:10
 
 Vervallen
 
-#### Artikel 4:11
+##### Artikel 4:11
 
 Vervallen
 
-#### Artikel 4:12
+##### Artikel 4:12
 
 Vervallen
 
-#### Artikel 4:13
+##### Artikel 4:13
 
 Vervallen
 
-#### Artikel 4:14
+##### Artikel 4:14
 
 Vervallen
 
-#### Artikel 4:15
+##### Artikel 4:15
 
 Vervallen
 
-#### Artikel 4:16
+##### Artikel 4:16
 
 Vervallen
 
-#### Artikel 4:17
+##### Artikel 4:17
 
 Vervallen
 
 ### Afdeling 3.4. Proviandering
 
-#### Artikel 4:18
+##### Artikel 4:18
 
 Vervallen
 
@@ -642,7 +667,7 @@ Vervallen
 
 ### Afdeling 4.4. Wederuitvoer, vernietiging en afstand van goederen
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 1. Met betrekking tot de in aanmerking te nemen wisselkoers, bedoeld in [artikel 3:2, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=3:2), is [artikel 1:20](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=1&afdeling=1.7&artikel=1:20&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
@@ -654,41 +679,41 @@ Vervallen
 
 ### Afdeling 4.5. Uitvoer
 
-#### Artikel 5:2
+##### Artikel 5:2
 
 Vervallen
 
-#### Artikel 5:3
+##### Artikel 5:3
 
 Vervallen
 
-#### Artikel 5:4
+##### Artikel 5:4
 
 Vervallen
 
-#### Artikel 5:5
+##### Artikel 5:5
 
 1. Het in het vrije verkeer brengen van textielproducten van oorsprong uit de Democratische Volksrepubliek Korea, genoemd in bijlage III bij Verordening (EU) 2015/936 van het Europees Parlement en de Raad van 9 juni 2015 betreffende een gemeenschappelijke regeling voor de invoer van textielproducten uit bepaalde derde landen, die niet vallen onder bilaterale overeenkomsten, protocollen of andere regelingen, noch onder een andere, bijzondere invoerregeling van de Unie (Pb EU 2015, L 160), zonder vergunning van de Minister voor Buitenlandse Handel en Ontwikkelingshulp is verboden.
 
 2. Het eerste lid geldt niet indien bij het in het vrije verkeer brengen een geldige invoervergunning wordt overgelegd, afgegeven door een daartoe bevoegde autoriteit van een andere lidstaat van de Europese Unie.
 
-#### Artikel 5:6
+##### Artikel 5:6
 
 Vervallen
 
-#### Artikel 5:7
+##### Artikel 5:7
 
 Vervallen
 
-#### Artikel 5:8
+##### Artikel 5:8
 
 Vervallen
 
-#### Artikel 5:9
+##### Artikel 5:9
 
 Het is verboden te handelen in strijd met de artikelen 3, 4, 5,11, 13, 16, eerste lid, of 18 van Verordening (EU) 2019/125 van het Europees Parlement en de Raad van 16 januari 2019 met betrekking tot de handel in bepaalde goederen die gebruikt zouden kunnen worden voor de doodstraf, foltering of andere wrede, onmenselijke of onterende behandeling of bestraffing (PbEU 2019, L30).
 
-#### Artikel 5:10
+##### Artikel 5:10
 
 1. Het is verboden te handelen in strijd met artikel 2 van Verordening (EU) nr. 2016/793 van het Europees Parlement en de Raad van 11 mei 2016 ter voorkoming van verlegging van het handelsverkeer in bepaalde belangrijke geneesmiddelen naar de Europese Unie (PbEU 2016, L 135).
 
@@ -696,19 +721,19 @@ Het is verboden te handelen in strijd met de artikelen 3, 4, 5,11, 13, 16, eerst
 
 ### Hoofdstuk 4. Douaneregelingen en wederuitvoer
 
-#### Artikel 6:1
+##### Artikel 6:1
 
 1. Als douanekantoor van uitgang voor goederen die over zee het douanegebied van de Unie verlaten, worden aangewezen de douanekantoren, opgenomen in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=III&z=2026-01-01&g=2026-01-01).
 
 2. Als douanekantoor van uitgang voor goederen die door de lucht het douanegebied van de Unie verlaten, worden aangewezen de douanekantoren, opgenomen in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=IV&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 6:2
+##### Artikel 6:2
 
 1. Van een schip of een luchtvaartuig dat het douanegebied van de Unie over zee, onderscheidenlijk door de lucht, zal verlaten, wordt voor vertrek op elektronische wijze een aangifte ten uitklaring gedaan door het inzenden van de generale verklaring (IMO/FAL 1), onderscheidenlijk door het inzenden van de generale verklaring luchtvaart, bedoeld in bijlage 9 bij het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart (Stb. 1947, 165), waarin de gegevenselementen, genoemd in [bijlage IXa](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=IXa&z=2026-01-01&g=2026-01-01), titel III, zijn opgenomen
 
 2. Van alle goederen geladen in een Nederlandse haven of luchthaven aan boord van het schip of luchtvaartuig, bedoeld in het eerste lid, wordt uiterlijk op de werkdag volgend op de dag van vertrek uit de haven, onderscheidenlijk de luchthaven, een aangifte ten uitklaring gedaan bij het douanekantoor van uitgang door het op elektronische wijze inzenden van het douanemanifest bij uitgang waarin de gegevenselementen, genoemd in [bijlage IXa](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=IXa&z=2026-01-01&g=2026-01-01), titel II, zijn opgenomen.
 
-#### Artikel 6:3
+##### Artikel 6:3
 
 1. Als vaarwaters waarlangs schepen en de daarin of daarop aanwezige goederen het douanegebied van de Unie rechtstreeks verlaten, worden aangewezen de vaarwaters, opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=II&z=2026-01-01&g=2026-01-01).
 
@@ -724,7 +749,7 @@ Het is verboden te handelen in strijd met de artikelen 3, 4, 5,11, 13, 16, eerst
 
 4. Voor het overladen, bedoeld in het tweede lid, is een vergunning van de inspecteur vereist.
 
-#### Artikel 6:4
+##### Artikel 6:4
 
 Schepen en luchtvaartuigen hoeven niet te worden aangebracht bij een douanekantoor van uitgang indien:
 
@@ -736,7 +761,7 @@ Schepen en luchtvaartuigen hoeven niet te worden aangebracht bij een douanekanto
 
 - d. het schip of luchtvaartuig in de Unie thuishoort.
 
-#### Artikel 6:5
+##### Artikel 6:5
 
 Een schip dan wel een luchtvaartuig dat het douanegebied van de Unie zal verlaten, vertrekt van de haven onderscheidenlijk de internationale luchthaven, bedoeld in het [eerste, onderscheidenlijk tweede lid, van artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2026-01-01&g=2026-01-01), niet zonder toestemming van de inspecteur.
 
@@ -744,7 +769,7 @@ Een schip dan wel een luchtvaartuig dat het douanegebied van de Unie zal verlate
 
 ### Afdeling 4.2. Opslag en tijdelijke invoer
 
-#### Artikel 7:1
+##### Artikel 7:1
 
 In afwijking van het forfaitair douanerecht dat wordt toegepast op grond van bijlage I, Eerste Deel, Titel II, punt D.1 bij [Verordening (EEG) nr. 2658/87](31987R2658) van de Raad van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG 1987, L 256) (de gecombineerde nomenclatuur) worden zonder heffing van rechten bij invoer toegelaten goederen, die in kleine zendingen of door reizigers als bagage worden vervoerd, van oorsprong uit:
 
@@ -758,13 +783,13 @@ In afwijking van het forfaitair douanerecht dat wordt toegepast op grond van bij
 
 ### Afdeling 4.2. Opslag en tijdelijke invoer
 
-#### Artikel 7:2
+##### Artikel 7:2
 
 1. Voor het brengen in het vrije verkeer met vrijstelling van rechten bij invoer als bedoeld in de artikelen 28, 34, 43, 44, 45, 51, 53, 57, 59, 61, 67, 68, 74 en 95 van Verordening 1186/2009, is een vergunning van de inspecteur vereist met dien verstande dat voor de vrijstellingen, bedoeld in de artikelen 67 en 68 van Verordening 1186/2009, een vergunning slechts is vereist indien de goederen in het vrije verkeer worden gebracht door een instelling of organisatie.
 
 2. Het eerste lid is niet van toepassing indien de goederen in het vrije verkeer worden gebracht door een openbare instelling of een instelling of organisatie, genoemd in [artikel 7:4](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:4&z=2026-01-01&g=2026-01-01) of in de [bijlagen X tot en met XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=X&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 7:3
+##### Artikel 7:3
 
 1. Een vrijstelling van rechten bij invoer als bedoeld in de artikelen 3, 12, 17, 20, 21, 28 en 34 van Verordening 1186/2009 wordt slechts verleend indien een door belanghebbende ondertekende lijst wordt overgelegd met een beschrijving van alle goederen waarvoor aanspraak op vrijstelling wordt gemaakt.
 
@@ -776,7 +801,7 @@ In afwijking van het forfaitair douanerecht dat wordt toegepast op grond van bij
 
 5. Voor het verlenen van een vrijstelling van rechten bij invoer als bedoeld in de artikelen 67 en 68 van Verordening 1186/2009 kan de inspecteur een medische verklaring vragen aan een natuurlijke persoon die de goederen voor zijn eigen gebruik in het vrije verkeer brengt.
 
-#### Artikel 7:4
+##### Artikel 7:4
 
 1. Als instellingen en organisaties als bedoeld in artikel 43, aanhef en onder b, van Verordening 1186/2009 worden aangewezen de instellingen en organisaties, genoemd in [bijlage X](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=X&z=2026-01-01&g=2026-01-01).
 
@@ -804,19 +829,19 @@ In afwijking van het forfaitair douanerecht dat wordt toegepast op grond van bij
 
 10. Als organisaties als bedoeld in artikel 112 van Verordening 1186/2009 worden aangewezen de organisaties, genoemd in [bijlage XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XVI&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 7:5
+##### Artikel 7:5
 
 Vervallen
 
-#### Artikel 7:6
+##### Artikel 7:6
 
 Voor de beoordeling van de vraag of monsters en stalen als bedoeld in artikel 86 van Verordening 1186/2009 een onbeduidende waarde hebben, wordt de gezamenlijke waarde van alle monsters en stalen die van eenzelfde zending deel uitmaken, in aanmerking genomen. De waarden van de zendingen die door dezelfde afzender aan verschillende geadresseerden zijn verzonden, worden niet samengeteld.
 
-#### Artikel 7:7
+##### Artikel 7:7
 
 De vrijstelling van rechten bij invoer, bedoeld in artikel 113 van Verordening 1186/2009, voor zover deze betrekking heeft op lijkkisten of urnen, wordt slechts verleend indien een laissez passer voor lijken, een lijkenpas of een overeenkomstige verklaring wordt overgelegd.
 
-#### Artikel 7:8
+##### Artikel 7:8
 
 1. Vrijstelling van rechten bij invoer wordt verleend voor het brengen in het vrije verkeer van goederen die bestemd zijn voor het persoonlijk gebruik – gebruik door inwonende gezinsleden daaronder begrepen – van diplomatieke en consulaire ambtenaren, met uitzondering van honoraire consuls, van diplomatieke en consulaire vertegenwoordigingen voor zover deze ambtenaren zijn geaccrediteerd of aangemeld bij Nederland en die vertegenwoordiging wordt genoemd op de lijst van vertegenwoordigingen per land of gebied die beschikbaar is gesteld via internetadres [https://www.rijksoverheid.nl/onderwerpen/ambassades-consulaten-en-overige-vertegenwoordigingen](https://www.rijksoverheid.nl/onderwerpen/ambassades-consulaten-en-overige-vertegenwoordigingen).
 
@@ -830,7 +855,7 @@ De vrijstelling van rechten bij invoer, bedoeld in artikel 113 van Verordening 1
 
 - c. wordt niet verleend voor tabaksproducten.
 
-#### Artikel 7:9
+##### Artikel 7:9
 
 1. Vrijstelling van rechten bij invoer wordt verleend voor het brengen in het vrije verkeer van goederen die bestemd zijn voor het persoonlijk gebruik – gebruik door inwonende gezinsleden daaronder begrepen – van leden van het administratief, technisch en bedienend personeel van de op lijst, genoemd in [artikel 7:8](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:8&z=2026-01-01&g=2026-01-01), eerste lid, genoemde diplomatieke en consulaire vertegenwoordigingen voor zover die personeelsleden zijn aangemeld bij Nederland.
 
@@ -844,7 +869,7 @@ De vrijstelling van rechten bij invoer, bedoeld in artikel 113 van Verordening 1
 
 - c. wordt niet verleend voor tabaksproducten.
 
-#### Artikel 7:10
+##### Artikel 7:10
 
 1. Het verzoek tot het verlenen van een vrijstelling, bedoeld in [artikel 7:8](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:8&z=2026-01-01&g=2026-01-01) en [artikel 7:9](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:9&z=2026-01-01&g=2026-01-01), wordt gedaan door het overleggen van de aangifte voor het brengen in het vrije verkeer. Deze aangifte wordt gedaan bij de inspecteur door het overleggen van een door het hoofd van de diplomatieke of consulaire vertegenwoordiging ondertekende aangifte Douane 39.
 
@@ -858,25 +883,25 @@ De vrijstelling van rechten bij invoer, bedoeld in artikel 113 van Verordening 1
 
 - –. te gebruiken op een wijze of voor doeleinden waarvoor de vrijstelling niet geldt.
 
-#### Artikel 7:11
+##### Artikel 7:11
 
 1. Vrijstelling van rechten bij invoer wordt verleend voor het brengen in het vrije verkeer van goederen die bestemd zijn voor officieel gebruik – bouwen en herstellen daaronder begrepen – van een diplomatieke of beroepsconsulaire vertegenwoordiging in Nederland, genoemd op de lijst, genoemd in [artikel 7:8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:8&z=2026-01-01&g=2026-01-01).
 
 2. Het bepaalde in [artikel 7:10](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:10&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing, met dien verstande dat het hoofd van de diplomatieke of beroepsconsulaire vertegenwoordiging in de door hem ondertekende schriftelijke verklaring op de aangifte Douane 39 bevestigt dat de goederen voor het officiële gebruik van de vertegenwoordiging bestemd zijn.
 
-#### Artikel 7:12
+##### Artikel 7:12
 
 1. Vrijstelling van rechten bij invoer wordt verleend voor het brengen in het vrije verkeer van kanselarijbenodigdheden die bestemd zijn voor het officiële gebruik van een honorair consulaire vertegenwoordiging in Nederland, genoemd op de lijst, genoemd in [artikel 7:8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=8&afdeling=8.3&artikel=8:7&z=2026-01-01&g=2026-01-01).
 
 2. Het bepaalde in [artikel 7:10](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:10&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing, met dien verstande dat het hoofd van de honorair consulaire vertegenwoordiging in de door hem ondertekende schriftelijke verklaring op de aangifte Douane 39 bevestigt dat de goederen voor het officiële gebruik van de vertegenwoordiging bestemd zijn.
 
-#### Artikel 7:13
+##### Artikel 7:13
 
 1. Vrijstelling van rechten bij invoer wordt verleend voor het brengen in het vrije verkeer van goederen die bestemd zijn voor het verrichten van de officiële werkzaamheden door een internationale organisatie in Nederland, genoemd in [bijlage XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XVII&z=2026-01-01&g=2026-01-01).
 
 2. Het bepaalde in [artikel 7:10](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:10&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing, met dien verstande dat het hoofd van de internationale organisatie in de door hem ondertekende schriftelijke verklaring op de aangifte Douane 39 bevestigt dat de goederen voor het officiële gebruik van de internationale organisatie bestemd zijn.
 
-#### Artikel 7:14
+##### Artikel 7:14
 
 1. Vrijstelling van rechten bij invoer wordt verleend voor het brengen in het vrije verkeer van goederen die bestemd zijn voor het persoonlijk gebruik – gebruik door inwonende gezinsleden daaronder begrepen – van functionarissen in dienst van een internationale organisatie, genoemd in [bijlage XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XIX&z=2026-01-01&g=2026-01-01), indien met die organisaties is overeengekomen dat aan die functionarissen het recht op deze vrijstelling wordt verleend.
 
@@ -898,7 +923,7 @@ De vrijstelling van rechten bij invoer, bedoeld in artikel 113 van Verordening 1
 
 - –. te gebruiken op een wijze of voor doeleinden waarvoor de vrijstelling niet geldt.
 
-#### Artikel 7:15
+##### Artikel 7:15
 
 1. Vrijstelling van rechten bij invoer wordt verleend voor het in het vrije verkeer brengen van gronduitrusting door buiten de Benelux gevestigde luchtvaartondernemingen om op een douaneluchtvaartterrein te worden gebruikt voor de inrichting of exploitatie van een internationale luchtdienst door die onderneming.
 
@@ -906,7 +931,7 @@ De vrijstelling van rechten bij invoer, bedoeld in artikel 113 van Verordening 1
 
 3. Indien de luchtvaartonderneming tegelijkertijd goederen van twee of meer soorten in het vrije verkeer brengt, mag worden volstaan met één aangifte voor het brengen in het vrije verkeer, mits de aangifte is aangevuld met een lijst waarop de gegevens van de goederen zijn vermeld.
 
-#### Artikel 7:16
+##### Artikel 7:16
 
 1. Vrijstelling van rechten bij invoer wordt verleend voor het brengen in het vrije verkeer van:
 
@@ -922,7 +947,7 @@ De vrijstelling van rechten bij invoer, bedoeld in artikel 113 van Verordening 1
 
 ### Afdeling 4.5. Uitvoer
 
-#### Artikel 7:17
+##### Artikel 7:17
 
 Voor goederen, vermeld in onderstaande lijst, die in kleine zendingen of door reizigers als bagage worden vervoerd, wordt, behoudens het bepaalde in [artikel 7:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.1&artikel=7:1&z=2026-01-01&g=2026-01-01), een forfaitaire accijns geheven overeenkomstig de voorwaarden en bepalingen die gelden voor het douanerecht. De accijns wordt berekend naar de bij die goederen vermelde tarieven.
 
@@ -932,7 +957,7 @@ Voor goederen, vermeld in onderstaande lijst, die in kleine zendingen of door re
 | b. rooktabak | kilogram | het tarief, genoemd in [artikel 35, eerste lid, onderdeel c, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=35) |
 | c. sigaretten | 1.000 stuks | het in [artikel 35, eerste lid, onderdeel b, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=35) als tweede vermelde bedrag |
 
-#### Artikel 7:18
+##### Artikel 7:18
 
 Op de accijnzen, de omzetbelasting en de verbruiksbelasting van alcoholvrije dranken zijn de artikelen 25 tot en met 27 van Verordening 1186/2009 van overeenkomstige toepassing met dien verstande dat:
 
@@ -948,27 +973,27 @@ Op de accijnzen, de omzetbelasting en de verbruiksbelasting van alcoholvrije dra
 
 - 4°. thee-extracten en thee-essences: 40 gram.
 
-#### Artikel 7:19
+##### Artikel 7:19
 
 Op de omzetbelasting zijn de artikelen 28 tot en met 34 van Verordening 1186/2009, alsmede de [artikelen 7:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:2&z=2026-01-01&g=2026-01-01) en [7:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:3&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing voor zover de voor het vrije verkeer aangegeven goederen niet zijn bestemd voor de uitoefening van een activiteit die op grond van [artikel 11 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11) is vrijgesteld.
 
-#### Artikel 7:20
+##### Artikel 7:20
 
 Vervallen
 
-#### Artikel 7:21
+##### Artikel 7:21
 
 Op de omzetbelasting is artikel 42 van Verordening 1186/2009 alsmede [artikel 7:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:2&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing voor zover het betreft goederen, genoemd in bijlage I, onderdeel B, van Verordening 1186/2009.
 
-#### Artikel 7:22
+##### Artikel 7:22
 
 Op de omzetbelasting is artikel 43 van Verordening 1186/2009 alsmede de [artikelen 7:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:2&z=2026-01-01&g=2026-01-01) en [7:4](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:4&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing voor zover het betreft goederen, genoemd in bijlage II, onderdeel B, van Verordening 1186/2009, mits de aan de aangifte voor het vrije verkeer ten grondslag liggende levering om niet geschiedt, of, indien zij onder bezwarende titel plaatsheeft, de goederen worden geleverd door een ander dan een ondernemer in de zin van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629).
 
-#### Artikel 7:23
+##### Artikel 7:23
 
 Op de accijnzen en de omzetbelasting is artikel 53 van Verordening 1186/2009 alsmede de [artikelen 7:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:2&z=2026-01-01&g=2026-01-01) en [7:4](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:4&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing met dien verstande dat voor dieren die voor laboratoriumgebruik zijn gefokt, de vrijstelling uitsluitend van toepassing is indien die dieren om niet aan laboratoria worden afgestaan.
 
-#### Artikel 7:24
+##### Artikel 7:24
 
 Op de omzetbelasting zijn de artikelen 67 en 68 van Verordening 1186/2009, alsmede de [artikelen 7:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:2&z=2026-01-01&g=2026-01-01) en [7:4](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:4&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing met dien verstande dat:
 
@@ -978,11 +1003,11 @@ Op de omzetbelasting zijn de artikelen 67 en 68 van Verordening 1186/2009, alsme
 
 - c. geen vrijstelling wordt verleend indien de goederen met enige commerciële bijbedoeling van de gever of niet om niet aan een in [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=XV&z=2026-01-01&g=2026-01-01) aangewezen instelling of organisatie worden gezonden.
 
-#### Artikel 7:25
+##### Artikel 7:25
 
 Op de omzetbelasting is artikel 104 van Verordening 1186/2009 van overeenkomstige toepassing met dien verstande dat geen vrijstelling wordt verleend voor belastingzegels als bedoeld in artikel 104, onderdeel q, van Verordening 1186/2009.
 
-#### Artikel 7:26
+##### Artikel 7:26
 
 1. Op de accijnzen, de omzetbelasting en de verbruiksbelasting van alcoholvrije dranken zijn de artikelen 203 tot en met 205 van het Douanewetboek van de Unie, de artikelen 158 tot en met 160 van de Gedelegeerde Verordening Douanewetboek van de Unie, de artikelen 253 tot en met 255 van de Uitvoeringsverordening Douanewetboek van de Unie alsmede [artikel 7:28](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.4&artikel=7:28&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing met dien verstande dat de bepalingen inzake het inlichtingenblad INF 3 slechts van toepassing zijn voor zover gelijktijdig aanspraak op vrijstelling van rechten bij invoer wordt gemaakt.
 
@@ -992,7 +1017,7 @@ Op de omzetbelasting is artikel 104 van Verordening 1186/2009 van overeenkomstig
 
 4. Vrijstelling van verbruiksbelasting voor terugkerende goederen als bedoeld in het eerste lid wordt slechts verleend, indien wordt aangetoond dat de voorafgaande uitvoer van deze goederen niet heeft plaatsgevonden vanuit een inrichting als bedoeld in [artikel 2, onderdeel b, van de Wet op de verbruiksbelasting van alcoholvrije dranken](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=2) dan wel met teruggaaf van verbruiksbelasting.
 
-#### Artikel 7:27
+##### Artikel 7:27
 
 1. Op de accijnzen zijn de artikelen 3 tot en met 20, 23, 24, 59, 74 tot en met 80, 85, 86, 95 tot en met 101 en 107 tot en met 112 van Verordening 1186/2009 alsmede de [artikelen 7:2 tot en met 7:16k](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2&artikel=7:2&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
@@ -1008,7 +1033,7 @@ Op de omzetbelasting is artikel 104 van Verordening 1186/2009 van overeenkomstig
 
 ### Afdeling 7.3. Omzetbelasting en accijns
 
-#### Artikel 7:28
+##### Artikel 7:28
 
 1. De informatie, bedoeld in artikel 253, eerste lid, van de Uitvoeringsverordening Douanewetboek van de Unie, is, behoudens in de gevallen waarin de goederen in het kader van de regeling passieve veredeling zijn uitgevoerd, niet vereist indien het de volgende goederen betreft:
 
@@ -1032,11 +1057,11 @@ Op de omzetbelasting is artikel 104 van Verordening 1186/2009 van overeenkomstig
 
 ### Afdeling 7.5. Postverkeer
 
-#### Artikel 7:29
+##### Artikel 7:29
 
 Vervallen
 
-#### Artikel 7:30
+##### Artikel 7:30
 
 Vervallen
 
@@ -1044,7 +1069,7 @@ Vervallen
 
 ### Afdeling 7.4. Terugkerende goederen
 
-#### Artikel 8:1
+##### Artikel 8:1
 
 Een hypotheek wordt als zekerheidstelling aanvaard indien:
 
@@ -1062,7 +1087,7 @@ Een hypotheek wordt als zekerheidstelling aanvaard indien:
 
 ### Afdeling 7.4. Terugkerende goederen
 
-#### Artikel 8:2
+##### Artikel 8:2
 
 Het aanslagbiljet bevat in ieder geval de volgende gegevens:
 
@@ -1076,7 +1101,7 @@ Het aanslagbiljet bevat in ieder geval de volgende gegevens:
 
 ### Afdeling 7.1. Preferentiële oorsprong
 
-#### Artikel 8:3
+##### Artikel 8:3
 
 1. Voor de berekening van het bedrag aan rechten, andere belastingen, heffingen en retributies wordt een bedrag dat dient als grondslag voor die berekening rekenkundig afgerond op centen.
 
@@ -1086,11 +1111,11 @@ Het aanslagbiljet bevat in ieder geval de volgende gegevens:
 
 4. Voor de berekening van het bedrag aan rechten, andere belastingen, heffingen en retributies wordt een volumepercentage ethylalcohol die dient als grondslag voor die berekening, naar beneden afgerond op tiende percent absolute ethylalcohol.
 
-#### Artikel 8:4
+##### Artikel 8:4
 
 Indien de hoeveelheid van de goederen kleiner is dan de hoeveelheid waarin het douanetarief is uitgedrukt, wordt het bedrag aan rechten naar evenredigheid berekend.
 
-#### Artikel 8:5
+##### Artikel 8:5
 
 1. Het bedrag aan rechten, andere belastingen, heffingen, retributies, renten, interesten of kosten van ambtelijke werkzaamheden wordt rekenkundig afgerond op centen.
 
@@ -1098,7 +1123,7 @@ Indien de hoeveelheid van de goederen kleiner is dan de hoeveelheid waarin het d
 
 ### Hoofdstuk 8. Douaneschuld
 
-#### Artikel 9:1
+##### Artikel 9:1
 
 1. Terugbetaling of kwijtschelding van accijnzen, omzetbelasting en de verbruiksbelasting van alcoholvrije dranken wordt verleend in de gevallen waarin bij of krachtens het Douanewetboek van de Unie aanspraak op terugbetaling of kwijtschelding van rechten bij invoer bestaat of zou bestaan.
 
@@ -1106,7 +1131,7 @@ Indien de hoeveelheid van de goederen kleiner is dan de hoeveelheid waarin het d
 
 ### Hoofdstuk 10. Bestuurlijke boeten
 
-#### Artikel 10:1
+##### Artikel 10:1
 
 1. Het drukken van formulieren van certificaten inzake goederenverkeer zonder een vergunning van de Minister van Financiën en het drukken van certificaten van oorsprong zonder vergunning van de Minister voor Buitenlandse Handel en Ontwikkelingshulp vormen verzuimen ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 203.
 
@@ -1118,47 +1143,47 @@ Indien de hoeveelheid van de goederen kleiner is dan de hoeveelheid waarin het d
 
 vormt een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 203.
 
-#### Artikel 10:2
+##### Artikel 10:2
 
 Het opstellen van een leveranciersverklaring of een verklaring omtrent de preferentiële oorsprong op de factuur of op een ander handelsbescheid op basis van onvolledige of onjuiste gegevens of zonder dat het bewijs daarvoor in de administratie aanwezig is vormt een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 203.
 
-#### Artikel 10:3
+##### Artikel 10:3
 
 Indien wijziging in de inrichting van een ruimte voor tijdelijke opslag wordt aangebracht zonder goedkeuring van de inspecteur, vormt dit een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 203.
 
 ### Hoofdstuk 10. Bestuurlijke boeten
 
-#### Artikel 11:1
+##### Artikel 11:1
 
 Degene die onjuiste of onvolledige gegevens verstrekt, of handelingen verricht, welke leiden of kunnen leiden tot een onjuiste terugbetaling van rechten bij invoer, of kwijtschelding van rechten bij invoer, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:2
+##### Artikel 11:2
 
 Degene die onjuiste of onvolledige gegevens verstrekt, waardoor ten onrechte een vrijstelling wordt genoten of zou kunnen worden genoten, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:3
+##### Artikel 11:3
 
 Degene die een der in deze regeling omschreven verboden overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:4
+##### Artikel 11:4
 
 Hij die geen bijstand verleent of niet alle nodige bescheiden en inlichtingen verstrekt binnen de eventueel vastgestelde termijn zoals bedoeld in artikel 14 CDW maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:5
+##### Artikel 11:5
 
 Hij die zonder de ingevolge wettelijke bepalingen vereiste toestemming goederen lost, laadt, inslaat of uitslaat maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:6
+##### Artikel 11:6
 
 Hij die in strijd met wettelijke bepalingen verandering brengt in de staat waarin binnengebrachte goederen of goederen die het douanegebied zullen verlaten zijn aangebracht maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:7
+##### Artikel 11:7
 
 Hij die in strijd met de wettelijke bepalingen een aanvullende aangifte zoals bedoeld in artikel 76, lid 2 CDW achterwege laat of niet tijdig doet, pleegt een strafbaar feit.
 
 ### Hoofdstuk 9. Terugbetaling of kwijtschelding van de rechten bij invoer of de rechten bij uitvoer
 
-#### Artikel 12:1
+##### Artikel 12:1
 
 1. Van de inbeslagneming van goederen, ter zake van het begaan van bij wettelijke bepalingen strafbaar gesteld feiten door onbekende personen, wordt mededeling gedaan in één of meer door de inspecteur aan te wijzen dag- of nieuwsbladen, met vermelding van een omschrijving van de goederen en van de voor de goederen gebezigde verpakking.
 
@@ -1166,11 +1191,11 @@ Hij die in strijd met de wettelijke bepalingen een aanvullende aangifte zoals be
 
 3. De vorige leden vinden overeenkomstige toepassing bij de inbeslagneming op onbekende personen van vervoermiddelen en voorwerpen, bedoeld in [artikel 1:37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:37), met dien verstande dat tevens de gronden tot die inbeslagneming worden vermeld.
 
-#### Artikel 12:2
+##### Artikel 12:2
 
 Onder de voorwaarden voor het vrijgeven van goederen welke ter zake van het begaan van bij wettelijke bepalingen strafbaar gestelde feiten in beslag zijn genomen, wordt ten minste gesteld dat ten kantore van een door de inspecteur aangewezen ontvanger zekerheid wordt gesteld tot verzekering van de uitlevering van de goederen of de voldoening van de waarde daarvan.
 
-#### Artikel 12:3
+##### Artikel 12:3
 
 1. Bij de inbewaringneming van goederen is, indien de belanghebbende bij die goederen niet bekend is, [Artikel 12:1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=12&artikel=12:1&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing.
 
@@ -1184,11 +1209,11 @@ Onder de voorwaarden voor het vrijgeven van goederen welke ter zake van het bega
 
 ### Hoofdstuk 11. Strafrechtelijke bepalingen
 
-#### Artikel 13:1
+##### Artikel 13:1
 
 Deze regeling wordt aangehaald als: Algemene douaneregeling
 
-#### Artikel 13:2
+##### Artikel 13:2
 
 Deze regeling treedt in werking op het tijdstip waarop de Algemene douanewet in werking treedt.
 
@@ -3836,7 +3861,7 @@ Verklaring als bedoeld in [artikelen 4:2](https://wetten.overheid.nl/jci1.3:c:BW
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2:8a
+##### Artikel 2:8a
 
 In voorkomend geval kan de inspecteur, rekening houdend met de aard van de goederen, in het geval van de toepassing van een douaneregeling of wederuitvoer, andere plaatsen dan douanekantoren aanmerken als plaatsen waar goederen kunnen worden aangebracht.
 
@@ -3864,7 +3889,7 @@ In voorkomend geval kan de inspecteur, rekening houdend met de aard van de goede
 
 ### Afdeling 3.4. Proviandering
 
-#### Artikel 4:19
+##### Artikel 4:19
 
 Vervallen
 
@@ -3896,13 +3921,13 @@ Vervallen
 
 ### Afdeling 7.2. Vrijstellingen
 
-#### Artikel 8:6
+##### Artikel 8:6
 
 Vervallen
 
 ### Hoofdstuk 9. Terugbetaling of kwijtschelding van de rechten bij invoer of de rechten bij uitvoer
 
-#### Artikel 10:4
+##### Artikel 10:4
 
 Het achterwege laten van:
 
@@ -3922,37 +3947,37 @@ vormt een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan
 
 ### Hoofdstuk 9. Terugbetaling of kwijtschelding van de rechten bij invoer of de rechten bij uitvoer
 
-#### Artikel 11:1
+##### Artikel 11:1
 
 Degene die onjuiste of onvolledige gegevens verstrekt, of handelingen verricht, welke leiden of kunnen leiden tot een onjuiste terugbetaling van rechten bij invoer, of kwijtschelding van rechten bij invoer, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:2
+##### Artikel 11:2
 
 Degene die onjuiste of onvolledige gegevens verstrekt, waardoor ten onrechte een vrijstelling wordt genoten of zou kunnen worden genoten, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:3
+##### Artikel 11:3
 
 Degene die een der in deze regeling omschreven verboden overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:4
+##### Artikel 11:4
 
 Hij die geen bijstand verleent of niet alle nodige bescheiden en inlichtingen verstrekt binnen de eventueel vastgestelde termijn zoals bedoeld in artikel 14 CDW maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:5
+##### Artikel 11:5
 
 Hij die zonder de ingevolge wettelijke bepalingen vereiste toestemming goederen lost, laadt, inslaat of uitslaat maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:6
+##### Artikel 11:6
 
 Hij die in strijd met wettelijke bepalingen verandering brengt in de staat waarin binnengebrachte goederen of goederen die het douanegebied zullen verlaten zijn aangebracht maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:7
+##### Artikel 11:7
 
 Hij die in strijd met de wettelijke bepalingen een aanvullende aangifte zoals bedoeld in artikel 76, lid 2 CDW achterwege laat of niet tijdig doet, pleegt een strafbaar feit.
 
 ### Hoofdstuk 11. Strafrechtelijke bepalingen
 
-#### Artikel 12:1
+##### Artikel 12:1
 
 1. Van de inbeslagneming van goederen, ter zake van het begaan van bij wettelijke bepalingen strafbaar gesteld feiten door onbekende personen, wordt mededeling gedaan in één of meer door de inspecteur aan te wijzen dag- of nieuwsbladen, met vermelding van een omschrijving van de goederen en van de voor de goederen gebezigde verpakking.
 
@@ -3960,7 +3985,7 @@ Hij die in strijd met de wettelijke bepalingen een aanvullende aangifte zoals be
 
 3. De vorige leden vinden overeenkomstige toepassing bij de inbeslagneming op onbekende personen van vervoermiddelen en voorwerpen, bedoeld in [artikel 1:37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:37), met dien verstande dat tevens de gronden tot die inbeslagneming worden vermeld.
 
-#### Artikel 12:2
+##### Artikel 12:2
 
 Onder de voorwaarden voor het vrijgeven van goederen welke ter zake van het begaan van bij wettelijke bepalingen strafbaar gestelde feiten in beslag zijn genomen, wordt ten minste gesteld dat ten kantore van een door de inspecteur aangewezen ontvanger zekerheid wordt gesteld tot verzekering van de uitlevering van de goederen of de voldoening van de waarde daarvan.
 
@@ -4708,7 +4733,7 @@ Model van het aangifteformulier als bedoeld in [artikel 5:1, eerste lid](https:/
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2:0
+##### Artikel 2:0
 
 Van binnenkomende schepen en binnenkomende luchtvaartuigen wordt, minimaal 2 uur voor de verwachte aankomsttijd in de haven, onderscheidenlijk op de internationale luchthaven ressorterend onder het douanekantoor waar ze zullen worden aangebracht, het desbetreffende douanekantoor elektronisch kennis gegeven van de verwachte aankomsttijd.
 
@@ -4752,7 +4777,7 @@ Van binnenkomende schepen en binnenkomende luchtvaartuigen wordt, minimaal 2 uur
 
 ### Hoofdstuk 6. Goederen die het douanegebied van de Gemeenschap verlaten
 
-#### Artikel 6:1a
+##### Artikel 6:1a
 
 1. Het aanbrengen bij het douanekantoor van uitgang, bedoeld in artikel 331, eerste lid, van de Uitvoeringsverordening Douanewetboek van de Unie, geschiedt op elektronische wijze met een aankomstmelding waarin de gegevenselementen, genoemd in [bijlage IXa](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=IXa&z=2026-01-01&g=2026-01-01), titel I, zijn opgenomen.
 
@@ -4762,7 +4787,7 @@ Van binnenkomende schepen en binnenkomende luchtvaartuigen wordt, minimaal 2 uur
 
 ### Afdeling 4.3. Vrije zones en entrepots
 
-#### Artikel 7:2a
+##### Artikel 7:2a
 
 1. Een instelling of organisatie kan op aanvraag worden aangewezen als instelling of organisatie die een beroep mag doen op een vrijstelling, genoemd in deze afdeling.
 
@@ -4782,37 +4807,37 @@ Van binnenkomende schepen en binnenkomende luchtvaartuigen wordt, minimaal 2 uur
 
 ### Hoofdstuk 10. Bestuurlijke boeten
 
-#### Artikel 11:1
+##### Artikel 11:1
 
 Degene die onjuiste of onvolledige gegevens verstrekt, of handelingen verricht, welke leiden of kunnen leiden tot een onjuiste terugbetaling van rechten bij invoer, of kwijtschelding van rechten bij invoer, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:2
+##### Artikel 11:2
 
 Degene die onjuiste of onvolledige gegevens verstrekt, waardoor ten onrechte een vrijstelling wordt genoten of zou kunnen worden genoten, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:3
+##### Artikel 11:3
 
 Degene die een der in deze regeling omschreven verboden overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:4
+##### Artikel 11:4
 
 Hij die geen bijstand verleent of niet alle nodige bescheiden en inlichtingen verstrekt binnen de eventueel vastgestelde termijn zoals bedoeld in artikel 14 CDW maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:5
+##### Artikel 11:5
 
 Hij die zonder de ingevolge wettelijke bepalingen vereiste toestemming goederen lost, laadt, inslaat of uitslaat maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:6
+##### Artikel 11:6
 
 Hij die in strijd met wettelijke bepalingen verandering brengt in de staat waarin binnengebrachte goederen of goederen die het douanegebied zullen verlaten zijn aangebracht maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:7
+##### Artikel 11:7
 
 Hij die in strijd met de wettelijke bepalingen een aanvullende aangifte zoals bedoeld in artikel 76, lid 2 CDW achterwege laat of niet tijdig doet, pleegt een strafbaar feit.
 
 ### Hoofdstuk 11. Strafrechtelijke bepalingen
 
-#### Artikel 12:1
+##### Artikel 12:1
 
 1. Van de inbeslagneming van goederen, ter zake van het begaan van bij wettelijke bepalingen strafbaar gesteld feiten door onbekende personen, wordt mededeling gedaan in één of meer door de inspecteur aan te wijzen dag- of nieuwsbladen, met vermelding van een omschrijving van de goederen en van de voor de goederen gebezigde verpakking.
 
@@ -4820,7 +4845,7 @@ Hij die in strijd met de wettelijke bepalingen een aanvullende aangifte zoals be
 
 3. De vorige leden vinden overeenkomstige toepassing bij de inbeslagneming op onbekende personen van vervoermiddelen en voorwerpen, bedoeld in [artikel 1:37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:37), met dien verstande dat tevens de gronden tot die inbeslagneming worden vermeld.
 
-#### Artikel 12:2
+##### Artikel 12:2
 
 Onder de voorwaarden voor het vrijgeven van goederen welke ter zake van het begaan van bij wettelijke bepalingen strafbaar gestelde feiten in beslag zijn genomen, wordt ten minste gesteld dat ten kantore van een door de inspecteur aangewezen ontvanger zekerheid wordt gesteld tot verzekering van de uitlevering van de goederen of de voldoening van de waarde daarvan.
 
@@ -5848,41 +5873,41 @@ Invulling van deze gegevensklasse inclusief de gegevenssubelementen is vereist i
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 10:5
+##### Artikel 10:5
 
 De in de [artikelen 10:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=10&artikel=10:1&z=2026-01-01&g=2026-01-01), [10:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=10&artikel=10:2&z=2026-01-01&g=2026-01-01), [10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=10&artikel=10:3&z=2026-01-01&g=2026-01-01), en [10:4](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=10&artikel=10:4&z=2026-01-01&g=2026-01-01) genoemde bedragen worden elke vijf jaar, met ingang van 1 januari 2015, overeenkomstig [artikel 9:6a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:6a), bij ministeriële regeling gewijzigd.
 
 ### Hoofdstuk 11. Strafrechtelijke bepalingen
 
-#### Artikel 11:1
+##### Artikel 11:1
 
 Degene die onjuiste of onvolledige gegevens verstrekt, of handelingen verricht, welke leiden of kunnen leiden tot een onjuiste terugbetaling van rechten bij invoer, of kwijtschelding van rechten bij invoer, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:2
+##### Artikel 11:2
 
 Degene die onjuiste of onvolledige gegevens verstrekt, waardoor ten onrechte een vrijstelling wordt genoten of zou kunnen worden genoten, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:3
+##### Artikel 11:3
 
 Degene die een der in deze regeling omschreven verboden overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:4
+##### Artikel 11:4
 
 Hij die geen bijstand verleent of niet alle nodige bescheiden en inlichtingen verstrekt binnen de eventueel vastgestelde termijn zoals bedoeld in artikel 14 CDW maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:5
+##### Artikel 11:5
 
 Hij die zonder de ingevolge wettelijke bepalingen vereiste toestemming goederen lost, laadt, inslaat of uitslaat maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:6
+##### Artikel 11:6
 
 Hij die in strijd met wettelijke bepalingen verandering brengt in de staat waarin binnengebrachte goederen of goederen die het douanegebied zullen verlaten zijn aangebracht maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:7
+##### Artikel 11:7
 
 Hij die in strijd met de wettelijke bepalingen een aanvullende aangifte zoals bedoeld in artikel 76, lid 2 CDW achterwege laat of niet tijdig doet, pleegt een strafbaar feit.
 
-#### Artikel 12:1
+##### Artikel 12:1
 
 1. Van de inbeslagneming van goederen, ter zake van het begaan van bij wettelijke bepalingen strafbaar gesteld feiten door onbekende personen, wordt mededeling gedaan in één of meer door de inspecteur aan te wijzen dag- of nieuwsbladen, met vermelding van een omschrijving van de goederen en van de voor de goederen gebezigde verpakking.
 
@@ -5890,7 +5915,7 @@ Hij die in strijd met de wettelijke bepalingen een aanvullende aangifte zoals be
 
 3. De vorige leden vinden overeenkomstige toepassing bij de inbeslagneming op onbekende personen van vervoermiddelen en voorwerpen, bedoeld in [artikel 1:37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:37), met dien verstande dat tevens de gronden tot die inbeslagneming worden vermeld.
 
-#### Artikel 12:2
+##### Artikel 12:2
 
 Onder de voorwaarden voor het vrijgeven van goederen welke ter zake van het begaan van bij wettelijke bepalingen strafbaar gestelde feiten in beslag zijn genomen, wordt ten minste gesteld dat ten kantore van een door de inspecteur aangewezen ontvanger zekerheid wordt gesteld tot verzekering van de uitlevering van de goederen of de voldoening van de waarde daarvan.
 
@@ -7316,7 +7341,7 @@ De diplomatieke of beroepsconsulaire dan wel honorair consulaire vertegenwoordig
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2:0a
+##### Artikel 2:0a
 
 Vervallen
 
@@ -7350,7 +7375,7 @@ Vervallen
 
 ### Hoofdstuk 6. Goederen die het douanegebied van de Gemeenschap verlaten
 
-#### Artikel 6:4a
+##### Artikel 6:4a
 
 Vervallen
 
@@ -7362,7 +7387,7 @@ Vervallen
 
 ### Hoofdstuk 8. Douaneschuld
 
-#### Artikel 8:1a
+##### Artikel 8:1a
 
 De aanvulling of vervanging van een zekerheid, bedoeld in artikel 97 van het Douanewetboek van de Unie, wordt binnen een maand na de mededeling door de ontvanger, dat aanvulling of vervanging van de zekerheid wordt geëist, gesteld.
 
@@ -7374,35 +7399,35 @@ De aanvulling of vervanging van een zekerheid, bedoeld in artikel 97 van het Dou
 
 ### Hoofdstuk 10. Bestuurlijke boeten
 
-#### Artikel 11:1
+##### Artikel 11:1
 
 Degene die onjuiste of onvolledige gegevens verstrekt, of handelingen verricht, welke leiden of kunnen leiden tot een onjuiste terugbetaling van rechten bij invoer, of kwijtschelding van rechten bij invoer, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:2
+##### Artikel 11:2
 
 Degene die onjuiste of onvolledige gegevens verstrekt, waardoor ten onrechte een vrijstelling wordt genoten of zou kunnen worden genoten, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:3
+##### Artikel 11:3
 
 Degene die een der in deze regeling omschreven verboden overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:4
+##### Artikel 11:4
 
 Hij die geen bijstand verleent of niet alle nodige bescheiden en inlichtingen verstrekt binnen de eventueel vastgestelde termijn zoals bedoeld in artikel 14 CDW maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:5
+##### Artikel 11:5
 
 Hij die zonder de ingevolge wettelijke bepalingen vereiste toestemming goederen lost, laadt, inslaat of uitslaat maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:6
+##### Artikel 11:6
 
 Hij die in strijd met wettelijke bepalingen verandering brengt in de staat waarin binnengebrachte goederen of goederen die het douanegebied zullen verlaten zijn aangebracht maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:7
+##### Artikel 11:7
 
 Hij die in strijd met de wettelijke bepalingen een aanvullende aangifte zoals bedoeld in artikel 76, lid 2 CDW achterwege laat of niet tijdig doet, pleegt een strafbaar feit.
 
-#### Artikel 12:1
+##### Artikel 12:1
 
 1. Van de inbeslagneming van goederen, ter zake van het begaan van bij wettelijke bepalingen strafbaar gesteld feiten door onbekende personen, wordt mededeling gedaan in één of meer door de inspecteur aan te wijzen dag- of nieuwsbladen, met vermelding van een omschrijving van de goederen en van de voor de goederen gebezigde verpakking.
 
@@ -7410,7 +7435,7 @@ Hij die in strijd met de wettelijke bepalingen een aanvullende aangifte zoals be
 
 3. De vorige leden vinden overeenkomstige toepassing bij de inbeslagneming op onbekende personen van vervoermiddelen en voorwerpen, bedoeld in [artikel 1:37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:37), met dien verstande dat tevens de gronden tot die inbeslagneming worden vermeld.
 
-#### Artikel 12:2
+##### Artikel 12:2
 
 Onder de voorwaarden voor het vrijgeven van goederen welke ter zake van het begaan van bij wettelijke bepalingen strafbaar gestelde feiten in beslag zijn genomen, wordt ten minste gesteld dat ten kantore van een door de inspecteur aangewezen ontvanger zekerheid wordt gesteld tot verzekering van de uitlevering van de goederen of de voldoening van de waarde daarvan.
 
@@ -7600,7 +7625,7 @@ Instellingen en organisaties als bedoeld in de artikelen 67 en 68, eerste lid, v
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1:10a
+##### Artikel 1:10a
 
 [Artikel 27 van de Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=27) is van overeenkomstige toepassing op de aanwijzingen in deze afdeling.
 
@@ -7660,35 +7685,35 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 10. Bestuurlijke boeten
 
-#### Artikel 11:1
+##### Artikel 11:1
 
 Degene die onjuiste of onvolledige gegevens verstrekt, of handelingen verricht, welke leiden of kunnen leiden tot een onjuiste terugbetaling van rechten bij invoer, of kwijtschelding van rechten bij invoer, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:2
+##### Artikel 11:2
 
 Degene die onjuiste of onvolledige gegevens verstrekt, waardoor ten onrechte een vrijstelling wordt genoten of zou kunnen worden genoten, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:3
+##### Artikel 11:3
 
 Degene die een der in deze regeling omschreven verboden overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:4
+##### Artikel 11:4
 
 Hij die geen bijstand verleent of niet alle nodige bescheiden en inlichtingen verstrekt binnen de eventueel vastgestelde termijn zoals bedoeld in artikel 14 CDW maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:5
+##### Artikel 11:5
 
 Hij die zonder de ingevolge wettelijke bepalingen vereiste toestemming goederen lost, laadt, inslaat of uitslaat maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:6
+##### Artikel 11:6
 
 Hij die in strijd met wettelijke bepalingen verandering brengt in de staat waarin binnengebrachte goederen of goederen die het douanegebied zullen verlaten zijn aangebracht maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:7
+##### Artikel 11:7
 
 Hij die in strijd met de wettelijke bepalingen een aanvullende aangifte zoals bedoeld in artikel 76, lid 2 CDW achterwege laat of niet tijdig doet, pleegt een strafbaar feit.
 
-#### Artikel 12:1
+##### Artikel 12:1
 
 1. Van de inbeslagneming van goederen, ter zake van het begaan van bij wettelijke bepalingen strafbaar gesteld feiten door onbekende personen, wordt mededeling gedaan in één of meer door de inspecteur aan te wijzen dag- of nieuwsbladen, met vermelding van een omschrijving van de goederen en van de voor de goederen gebezigde verpakking.
 
@@ -7696,7 +7721,7 @@ Hij die in strijd met de wettelijke bepalingen een aanvullende aangifte zoals be
 
 3. De vorige leden vinden overeenkomstige toepassing bij de inbeslagneming op onbekende personen van vervoermiddelen en voorwerpen, bedoeld in [artikel 1:37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:37), met dien verstande dat tevens de gronden tot die inbeslagneming worden vermeld.
 
-#### Artikel 12:2
+##### Artikel 12:2
 
 Onder de voorwaarden voor het vrijgeven van goederen welke ter zake van het begaan van bij wettelijke bepalingen strafbaar gestelde feiten in beslag zijn genomen, wordt ten minste gesteld dat ten kantore van een door de inspecteur aangewezen ontvanger zekerheid wordt gesteld tot verzekering van de uitlevering van de goederen of de voldoening van de waarde daarvan.
 
@@ -7746,11 +7771,11 @@ Douanekantoren als bedoeld in [artikel 2:1, eerste lid](https://wetten.overheid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3:33
+##### Artikel 3:33
 
 Vervallen
 
-#### Artikel 3:34
+##### Artikel 3:34
 
 Vervallen
 
@@ -7778,23 +7803,23 @@ Vervallen
 
 ### Hoofdstuk 10. Bestuurlijke boeten
 
-#### Artikel 11:1
+##### Artikel 11:1
 
 Degene die onjuiste of onvolledige gegevens verstrekt, of handelingen verricht, welke leiden of kunnen leiden tot een onjuiste terugbetaling van rechten bij invoer, of kwijtschelding van rechten bij invoer, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:2
+##### Artikel 11:2
 
 Degene die onjuiste of onvolledige gegevens verstrekt, waardoor ten onrechte een vrijstelling wordt genoten of zou kunnen worden genoten, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:3
+##### Artikel 11:3
 
 Degene die een der in deze regeling omschreven verboden overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:4
+##### Artikel 11:4
 
 Hij die geen bijstand verleent of niet alle nodige bescheiden en inlichtingen verstrekt binnen de eventueel vastgestelde termijn zoals bedoeld in artikel 14 CDW maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:5
+##### Artikel 11:5
 
 Hij die zonder de ingevolge wettelijke bepalingen vereiste toestemming:
 
@@ -7806,15 +7831,15 @@ Hij die zonder de ingevolge wettelijke bepalingen vereiste toestemming:
 
 maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:6
+##### Artikel 11:6
 
 Hij die in strijd met wettelijke bepalingen verandering brengt in de staat waarin binnengebrachte goederen of goederen die het douanegebied zullen verlaten zijn aangebracht maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:7
+##### Artikel 11:7
 
 Hij die in strijd met de wettelijke bepalingen een aanvullende aangifte zoals bedoeld in artikel 76, lid 2 CDW achterwege laat of niet tijdig doet, pleegt een strafbaar feit.
 
-#### Artikel 12:1
+##### Artikel 12:1
 
 1. Van de inbeslagneming van goederen, ter zake van het begaan van bij wettelijke bepalingen strafbaar gesteld feiten door onbekende personen, wordt mededeling gedaan in één of meer door de inspecteur aan te wijzen dag- of nieuwsbladen, met vermelding van een omschrijving van de goederen en van de voor de goederen gebezigde verpakking.
 
@@ -7822,7 +7847,7 @@ Hij die in strijd met de wettelijke bepalingen een aanvullende aangifte zoals be
 
 3. De vorige leden vinden overeenkomstige toepassing bij de inbeslagneming op onbekende personen van vervoermiddelen en voorwerpen, bedoeld in [artikel 1:37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:37), met dien verstande dat tevens de gronden tot die inbeslagneming worden vermeld.
 
-#### Artikel 12:2
+##### Artikel 12:2
 
 Onder de voorwaarden voor het vrijgeven van goederen welke ter zake van het begaan van bij wettelijke bepalingen strafbaar gestelde feiten in beslag zijn genomen, wordt ten minste gesteld dat ten kantore van een door de inspecteur aangewezen ontvanger zekerheid wordt gesteld tot verzekering van de uitlevering van de goederen of de voldoening van de waarde daarvan.
 
@@ -8733,7 +8758,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### **Deel D. Toelichting bij de te gebruiken EU- en Nationale Codes op de formulieren van het enig document**
 
-#### Artikel 3:13a
+##### Artikel 3:13a
 
 1. Een aanvraag tot erkenning van een importeur van niet voor inzaai bestemd hennepzaad als bedoeld in artikel 9, derde lid, van Gedelegeerde Verordening (EU) 2016/1237 wordt ingediend bij de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur.
 
@@ -8747,7 +8772,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. De aanvraag, bedoeld in het eerste lid, wordt ingediend met behulp van een door de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur ter beschikking gesteld middel.
 
-#### Artikel 3:13b
+##### Artikel 3:13b
 
 Een erkende importeur:
 
@@ -8757,15 +8782,15 @@ Een erkende importeur:
 
 - c. overhandigt de in onderdeel a bedoelde voorraadboekhouding en overige bewijsstukken op verzoek aan de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur.
 
-#### Artikel 3:13c
+##### Artikel 3:13c
 
 Overeenkomstig artikel 9, vierde lid, van Gedelegeerde Verordening (EU) 2016/1237 kan de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur op verzoek van de erkende importeur overgaan tot verlenging van de in [artikel 3:13b, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2&artikel=3:13b&z=2026-01-01&g=2026-01-01), genoemde termijn van 12 maanden met één of twee periodes van 6 maanden.
 
-#### Artikel 3:13d
+##### Artikel 3:13d
 
 Indien niet wordt voldaan aan een of meer voorwaarden, genoemd in [artikel 3:13b](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2&artikel=3:13b&z=2026-01-01&g=2026-01-01) stelt de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur, in geval het een in een andere lidstaat gevestigde importeur betreft, de bevoegde autoriteit van die lidstaat hiervan in kennis.
 
-#### Artikel 3:13e
+##### Artikel 3:13e
 
 1. Het certificaat, bedoeld in artikel 9, eerste lid, van Gedelegeerde Verordening (EU) 2016/1237 wordt door de importeur aangevraagd bij de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur.
 
@@ -8775,83 +8800,83 @@ Indien niet wordt voldaan aan een of meer voorwaarden, genoemd in [artikel 3:13b
 
 4. Indien de ingevoerde hoeveelheid ten hoogste 5% hoger is dan de op het certificaat genoemde hoeveelheid wordt zij beschouwd als op grond van dat certificaat te zijn ingevoerd.
 
-#### Artikel 3:13f
+##### Artikel 3:13f
 
 Een erkende importeur treft zodanige maatregelen dat ook zijn afnemers voldoen aan het bepaalde in artikel 9 van Gedelegeerde Verordening (EU) 2016/1237 en de [artikelen 3:13a tot en met 3:13e](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=3&afdeling=3.2&artikel=3:13a&z=2026-01-01&g=2026-01-01).
 
 #### Paragraaf 1. Algemeen
 
-#### Artikel 3:16a
+##### Artikel 3:16a
 
 Vervallen
 
-#### Artikel 3:16b
+##### Artikel 3:16b
 
 Vervallen
 
-#### Artikel 3:16c
+##### Artikel 3:16c
 
 Vervallen
 
 #### Paragraaf 2. A-producten en B-producten
 
-#### Artikel 3:16d
+##### Artikel 3:16d
 
 Vervallen
 
-#### Artikel 3:16e
+##### Artikel 3:16e
 
 Vervallen
 
-#### Artikel 3:16f
+##### Artikel 3:16f
 
 Vervallen
 
-#### Artikel 3:16g
+##### Artikel 3:16g
 
 Vervallen
 
-#### Artikel 3:16h
+##### Artikel 3:16h
 
 Vervallen
 
-#### Artikel 3:16i
+##### Artikel 3:16i
 
 Vervallen
 
 #### Paragraaf 3. Administratieve voorwaarden
 
-#### Artikel 3:16j
+##### Artikel 3:16j
 
 Vervallen
 
-#### Artikel 3:16k
+##### Artikel 3:16k
 
 Vervallen
 
-#### Artikel 3:16l
+##### Artikel 3:16l
 
 Vervallen
 
-#### Artikel 3:16m
+##### Artikel 3:16m
 
 Vervallen
 
 #### Paragraaf 4. Monstername
 
-#### Artikel 3:16n
+##### Artikel 3:16n
 
 Vervallen
 
-#### Artikel 3:16o
+##### Artikel 3:16o
 
 Vervallen
 
-#### Artikel 3:16p
+##### Artikel 3:16p
 
 Vervallen
 
-#### Artikel 3:16q
+##### Artikel 3:16q
 
 Vervallen
 
@@ -8891,23 +8916,23 @@ Vervallen
 
 ### Hoofdstuk 8. Douaneschuld
 
-#### Artikel 11:1
+##### Artikel 11:1
 
 Degene die onjuiste of onvolledige gegevens verstrekt, of handelingen verricht, welke leiden of kunnen leiden tot een onjuiste terugbetaling van rechten bij invoer, of kwijtschelding van rechten bij invoer, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:2
+##### Artikel 11:2
 
 Degene die onjuiste of onvolledige gegevens verstrekt, waardoor ten onrechte een vrijstelling wordt genoten of zou kunnen worden genoten, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:3
+##### Artikel 11:3
 
 Degene die een der in deze regeling omschreven verboden overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:4
+##### Artikel 11:4
 
 Hij die geen bijstand verleent of niet alle nodige bescheiden en inlichtingen verstrekt binnen de eventueel vastgestelde termijn zoals bedoeld in artikel 14 CDW maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:5
+##### Artikel 11:5
 
 Hij die zonder de ingevolge wettelijke bepalingen vereiste toestemming:
 
@@ -8919,17 +8944,17 @@ Hij die zonder de ingevolge wettelijke bepalingen vereiste toestemming:
 
 maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:6
+##### Artikel 11:6
 
 Hij die in strijd met wettelijke bepalingen verandering brengt in de staat waarin binnengebrachte goederen of goederen die het douanegebied zullen verlaten zijn aangebracht maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:7
+##### Artikel 11:7
 
 Hij die in strijd met de wettelijke bepalingen een aanvullende aangifte zoals bedoeld in artikel 76, lid 2 CDW achterwege laat of niet tijdig doet, pleegt een strafbaar feit.
 
 ### Hoofdstuk 9. Terugbetaling of kwijtschelding van de rechten bij invoer of de rechten bij uitvoer
 
-#### Artikel 12:1
+##### Artikel 12:1
 
 1. Van de inbeslagneming van goederen, ter zake van het begaan van bij wettelijke bepalingen strafbaar gesteld feiten door onbekende personen, wordt mededeling gedaan in één of meer door de inspecteur aan te wijzen dag- of nieuwsbladen, met vermelding van een omschrijving van de goederen en van de voor de goederen gebezigde verpakking.
 
@@ -8937,21 +8962,21 @@ Hij die in strijd met de wettelijke bepalingen een aanvullende aangifte zoals be
 
 3. De vorige leden vinden overeenkomstige toepassing bij de inbeslagneming op onbekende personen van vervoermiddelen en voorwerpen, bedoeld in [artikel 1:37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:37), met dien verstande dat tevens de gronden tot die inbeslagneming worden vermeld.
 
-#### Artikel 12:2
+##### Artikel 12:2
 
 Onder de voorwaarden voor het vrijgeven van goederen welke ter zake van het begaan van bij wettelijke bepalingen strafbaar gestelde feiten in beslag zijn genomen, wordt ten minste gesteld dat ten kantore van een door de inspecteur aangewezen ontvanger zekerheid wordt gesteld tot verzekering van de uitlevering van de goederen of de voldoening van de waarde daarvan.
 
 ### Hoofdstuk 9. Terugbetaling of kwijtschelding van de rechten bij invoer of de rechten bij uitvoer
 
-#### Artikel 12a:1
+##### Artikel 12a:1
 
 Vervallen
 
-#### Artikel 12a:2
+##### Artikel 12a:2
 
 Vervallen
 
-#### Artikel 12a:3
+##### Artikel 12a:3
 
 Vervallen
 
@@ -9471,7 +9496,7 @@ Instellingen en organisaties als bedoeld in de artikelen 67, eerste lid, onderde
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 8:7
+##### Artikel 8:7
 
 1. Voor de berekening van de in rekening te brengen rente op achterstallen zoals bedoeld in artikel 114, tweede lid, van het Douanewetboek van de Unie wordt gebruik gemaakt van de volgende formule:
 
@@ -9483,23 +9508,23 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 11. Strafrechtelijke bepalingen
 
-#### Artikel 11:1
+##### Artikel 11:1
 
 Degene die onjuiste of onvolledige gegevens verstrekt, of handelingen verricht, welke leiden of kunnen leiden tot een onjuiste terugbetaling van rechten bij invoer, of kwijtschelding van rechten bij invoer, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:2
+##### Artikel 11:2
 
 Degene die onjuiste of onvolledige gegevens verstrekt, waardoor ten onrechte een vrijstelling wordt genoten of zou kunnen worden genoten, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:3
+##### Artikel 11:3
 
 Degene die een der in deze regeling omschreven verboden overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:4
+##### Artikel 11:4
 
 Hij die geen bijstand verleent of niet alle nodige bescheiden en inlichtingen verstrekt binnen de eventueel vastgestelde termijn zoals bedoeld in artikel 15, eerste lid, van het Douanewetboek van de Unie maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:5
+##### Artikel 11:5
 
 Hij die zonder de ingevolge wettelijke bepalingen vereiste toestemming:
 
@@ -9511,17 +9536,17 @@ Hij die zonder de ingevolge wettelijke bepalingen vereiste toestemming:
 
 maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:6
+##### Artikel 11:6
 
 Hij die in strijd met wettelijke bepalingen verandering brengt in de staat waarin goederen als bedoeld in artikel 134 of artikel 158, derde lid, van het Douanewetboek van de Unie maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:7
+##### Artikel 11:7
 
 Hij die in strijd met de wettelijke bepalingen een aanvullende aangifte zoals bedoeld in artikel 167, eerste lid, van het Douanewetboek van de Unie achterwege laat of niet tijdig doet, pleegt een strafbaar feit.
 
 ### Hoofdstuk 9. Terugbetaling of kwijtschelding van de rechten bij invoer of de rechten bij uitvoer
 
-#### Artikel 12:1
+##### Artikel 12:1
 
 1. Van de inbeslagneming van goederen, ter zake van het begaan van bij wettelijke bepalingen strafbaar gesteld feiten door onbekende personen, wordt mededeling gedaan in één of meer door de inspecteur aan te wijzen dag- of nieuwsbladen, met vermelding van een omschrijving van de goederen en van de voor de goederen gebezigde verpakking.
 
@@ -9529,7 +9554,7 @@ Hij die in strijd met de wettelijke bepalingen een aanvullende aangifte zoals be
 
 3. De vorige leden vinden overeenkomstige toepassing bij de inbeslagneming op onbekende personen van vervoermiddelen en voorwerpen, bedoeld in [artikel 1:37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:37), met dien verstande dat tevens de gronden tot die inbeslagneming worden vermeld.
 
-#### Artikel 12:2
+##### Artikel 12:2
 
 Onder de voorwaarden voor het vrijgeven van goederen welke ter zake van het begaan van bij wettelijke bepalingen strafbaar gestelde feiten in beslag zijn genomen, wordt ten minste gesteld dat ten kantore van een door de inspecteur aangewezen ontvanger zekerheid wordt gesteld tot verzekering van de uitlevering van de goederen of de voldoening van de waarde daarvan.
 
@@ -10423,23 +10448,23 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 11. Strafrechtelijke bepalingen
 
-#### Artikel 11:1
+##### Artikel 11:1
 
 Degene die onjuiste of onvolledige gegevens verstrekt, of handelingen verricht, welke leiden of kunnen leiden tot een onjuiste terugbetaling van rechten bij invoer, of kwijtschelding van rechten bij invoer, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:2
+##### Artikel 11:2
 
 Degene die onjuiste of onvolledige gegevens verstrekt, waardoor ten onrechte een vrijstelling wordt genoten of zou kunnen worden genoten, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:3
+##### Artikel 11:3
 
 Degene die een der in deze regeling omschreven verboden overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:4
+##### Artikel 11:4
 
 Hij die geen bijstand verleent of niet alle nodige bescheiden en inlichtingen verstrekt binnen de eventueel vastgestelde termijn zoals bedoeld in artikel 15, eerste lid, van het Douanewetboek van de Unie maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:5
+##### Artikel 11:5
 
 Hij die zonder de ingevolge wettelijke bepalingen vereiste toestemming:
 
@@ -10451,17 +10476,17 @@ Hij die zonder de ingevolge wettelijke bepalingen vereiste toestemming:
 
 maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:6
+##### Artikel 11:6
 
 Hij die in strijd met wettelijke bepalingen verandering brengt in de staat waarin goederen als bedoeld in artikel 134 of artikel 158, derde lid, van het Douanewetboek van de Unie maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:7
+##### Artikel 11:7
 
 Hij die in strijd met de wettelijke bepalingen een aanvullende aangifte zoals bedoeld in artikel 167, eerste lid, van het Douanewetboek van de Unie achterwege laat of niet tijdig doet, pleegt een strafbaar feit.
 
 ### Hoofdstuk 9. Terugbetaling of kwijtschelding van de rechten bij invoer of de rechten bij uitvoer
 
-#### Artikel 12:1
+##### Artikel 12:1
 
 1. Van de inbeslagneming van goederen, ter zake van het begaan van bij wettelijke bepalingen strafbaar gesteld feiten door onbekende personen, wordt mededeling gedaan in één of meer door de inspecteur aan te wijzen dag- of nieuwsbladen, met vermelding van een omschrijving van de goederen en van de voor de goederen gebezigde verpakking.
 
@@ -10469,7 +10494,7 @@ Hij die in strijd met de wettelijke bepalingen een aanvullende aangifte zoals be
 
 3. De vorige leden vinden overeenkomstige toepassing bij de inbeslagneming op onbekende personen van vervoermiddelen en voorwerpen, bedoeld in [artikel 1:37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:37), met dien verstande dat tevens de gronden tot die inbeslagneming worden vermeld.
 
-#### Artikel 12:2
+##### Artikel 12:2
 
 Onder de voorwaarden voor het vrijgeven van goederen welke ter zake van het begaan van bij wettelijke bepalingen strafbaar gestelde feiten in beslag zijn genomen, wordt ten minste gesteld dat ten kantore van een door de inspecteur aangewezen ontvanger zekerheid wordt gesteld tot verzekering van de uitlevering van de goederen of de voldoening van de waarde daarvan.
 
@@ -10485,7 +10510,7 @@ Onder de voorwaarden voor het vrijgeven van goederen welke ter zake van het bega
 
 ### **Titel I. Algemene opmerkingen**
 
-#### Artikel 7:16a
+##### Artikel 7:16a
 
 Voor de toepassing van deze afdeling wordt verstaan onder:
 
@@ -10521,11 +10546,11 @@ Voor de toepassing van deze afdeling wordt verstaan onder:
 
 - f. **commandant:** de bevoegde autoriteit van een buitenlandse NAVO-strijdkracht.
 
-#### Artikel 7:16aa
+##### Artikel 7:16aa
 
 Deze afdeling is van overeenkomstige toepassing op buitenlandse strijdkrachten, het personeel daarvan en hun gezinsleden die behoren tot een staat die deelneemt aan het op 19 juni 1995 te Brussel tot stand gekomen Verdrag tussen de Staten Partij bij het Noord-Atlantisch Verdrag en de overige aan het Partnerschap voor de Vrede deelnemende Staten nopens de rechtspositie van hun krijgsmachten en Aanvullend protocol (Trb. 1996, 74) en het op 19 december te Brussel tot stand gekomen Nader Aanvullend Protocol (Trb. 1998, 188), maar geen partij is van het NAVO-Statusverdrag.
 
-#### Artikel 7:16b
+##### Artikel 7:16b
 
 De [artikelen 7:16e tot en met 7:16h](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2a&artikel=7:16e&z=2026-01-01&g=2026-01-01) zijn niet van toepassing op:
 
@@ -10533,7 +10558,7 @@ De [artikelen 7:16e tot en met 7:16h](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - b. leden van de civiele dienst die de Nederlandse nationaliteit hebben en behoren tot het personeel van buitenlandse NAVO-strijdkrachten alsmede op de gezinsleden van die leden.
 
-#### Artikel 7:16c
+##### Artikel 7:16c
 
 Een op grond van deze afdeling te verlenen vrijstelling van rechten bij invoer wordt:
 
@@ -10541,7 +10566,7 @@ Een op grond van deze afdeling te verlenen vrijstelling van rechten bij invoer w
 
 - b. voor goederen verleend voor redelijke hoeveelheden.
 
-#### Artikel 7:16ca
+##### Artikel 7:16ca
 
 De commandant verleent desgevraagd met alle hem ten dienste staande middelen aan de inspecteur de benodigde medewerking:
 
@@ -10549,7 +10574,7 @@ De commandant verleent desgevraagd met alle hem ten dienste staande middelen aan
 
 - b. opdat de door het personeel van de betreffende buitenlandse NAVO-strijdkrachten en de gezinsleden daarvan verschuldigde rechten bij invoer, alsmede andere belastingen, rente, kosten van ambtelijke werkzaamheden, bestuurlijke boeten en strafbeschikkingen als bedoeld in [artikel 2 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2) worden betaald.
 
-#### Artikel 7:16d
+##### Artikel 7:16d
 
 Vrijstelling van rechten bij invoer wordt verleend voor het brengen in het vrije verkeer van uitrusting, proviand, materiaal en andere goederen door of ten behoeve van buitenlandse NAVO-strijdkrachten, die bestemd zijn:
 
@@ -10557,11 +10582,11 @@ Vrijstelling van rechten bij invoer wordt verleend voor het brengen in het vrije
 
 - b. te worden verkocht of om niet te worden overgedragen in militaire winkels, kantines, restaurants, clubs of messes voor persoonlijk gebruik aan personeel van die strijdkrachten of aan de gezinsleden van dat personeel.
 
-#### Artikel 7:16e
+##### Artikel 7:16e
 
 Vrijstelling van rechten bij invoer wordt verleend voor de tijdelijke invoer van nieuwe en gebruikte persoonlijke goederen, niet zijnde motorrijtuigen, caravans en aanhangwagens, door personeel van buitenlandse NAVO-strijdkrachten bij eerste aankomst in Nederland om aldaar dienst te gaan doen of bij eerste aankomst van een gezinslid, dat zich bij hem komt voegen, voor de duur van de dienstuitoefening van dat personeel. De persoonlijke goederen dienen voor de vestiging in Nederland reeds deel uitgemaakt te hebben van de inboedel van de betrokkene.
 
-#### Artikel 7:16f
+##### Artikel 7:16f
 
 1. Vrijstelling van rechten bij invoer wordt verleend voor de tijdelijke invoer van motorrijtuigen, caravans en aanhangwagens door personeel van buitenlandse NAVO-strijdkrachten of zijn gezinsleden voor persoonlijk gebruik.
 
@@ -10583,7 +10608,7 @@ Vrijstelling van rechten bij invoer wordt verleend voor de tijdelijke invoer van
 
 6. Na overleg draagt de commandant op verzoek van Nederland zorg voor de registratie van de motorrijtuigen en in voorkomend geval caravans of aanhangwagens die op de voet van dit artikel worden ingevoerd.
 
-#### Artikel 7:16g
+##### Artikel 7:16g
 
 1. De [artikelen 7:16e](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2a&artikel=7:16e&z=2026-01-01&g=2026-01-01) en [7:16f](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2a&artikel=7:16f&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing op het personeel van buitenlandse NAVO-strijdkrachten en gezinsleden daarvan voor zover die in het Koninkrijk België of in de Bondsrepubliek Duitsland voor de dienstuitoefening zijn gestationeerd, maar in Nederland wonen of verblijven.
 
@@ -10591,7 +10616,7 @@ Vrijstelling van rechten bij invoer wordt verleend voor de tijdelijke invoer van
 
 3. Voor de toepassing van het eerste lid verstrekt de commandant van de zich in het Koninkrijk België of in de Bondsrepubliek Duitsland voor de dienstuitoefening bevindende buitenlandse NAVO-strijdkrachten aan de inspecteur een opgave van de namen, de nationaliteiten en de adressen in Nederland van de personeelsleden, bedoeld in het eerste lid, en van de gezinsleden van dat personeel, van het tijdstip van hun komst naar Nederland, van de registratienummers en -letters van de door hen gebezigde motorrijtuigen, alsmede van de mutaties in voormelde gegevens.
 
-#### Artikel 7:16ga
+##### Artikel 7:16ga
 
 1. Vrijstelling van rechten bij invoer wordt verleend voor de invoer van geschenkzendingen en goederen die strekken tot vervanging van reeds eerder met vrijstelling van rechten bij invoer ingevoerde goederen door personeel van buitenlandse NAVO-strijdkrachten en civiele diensten en de gezinsleden daarvan.
 
@@ -10603,7 +10628,7 @@ In dat geval zijn die leden verplicht een kopie daarvan alsnog door hun commanda
 
 4. Indien een kopie als bedoeld in het derde lid, niet tijdig door de inspecteur wordt ontvangen, neemt de inspecteur contact op met de commandant van de betreffende buitenlandse NAVO-strijdkracht.
 
-#### Artikel 7:16h
+##### Artikel 7:16h
 
 1. Voor de toepassing van de [artikelen 7:16d tot en met 7:16g](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2a&artikel=7:16d&z=2026-01-01&g=2026-01-01) kan het formulier 302 worden gebruikt als douaneaangifte voor zover de invoer van goederen geschiedt door, namens of ten behoeve van de buitenlandse NAVO-strijdkrachten.
 
@@ -10641,7 +10666,7 @@ For The Commander (onderdeel)
 
 13. De wederuitvoer van persoonlijke goederen van personeel van buitenlandse NAVO-strijdkrachten en gezinsleden daarvan geschiedt overeenkomstig het bepaalde in het twaalfde lid, met dien verstande dat reeds op de plaats van vertrek het formulier 302 alsmede een inventarislijst door de desbetreffende buitenlandse NAVO-strijdkracht worden overhandigd aan de inspecteur.
 
-#### Artikel 7:16i
+##### Artikel 7:16i
 
 1. Het is verboden om de met vrijstelling van rechten bij invoer tijdelijk ingevoerde goederen of in het vrije verkeer gebrachte goederen:
 
@@ -10657,7 +10682,7 @@ For The Commander (onderdeel)
 
 - b. gebruiksgoederen, met uitzondering van motorrijtuigen, vastgesteld op basis van het tarief en de restwaarde van het gebruiksgoed op het tijdstip dat van de vrijstelling wordt afgezien waarbij een afschrijvingsperiode van drie jaren wordt gehanteerd.
 
-#### Artikel 7:16j
+##### Artikel 7:16j
 
 1. Bij een controle van de vervoermiddelen en het begeleidend personeel beperkt de inspecteur zich ten aanzien van de goederen tot een globaal onderzoek, dat omvat het vergelijken van het aantal, de soort, het gewicht en de merken van de colli met de op het formulier 302 vermelde gegevens. De verpakking wordt niet geopend. Van meer of minder bevinding stellen de ambtenaren aantekening op het formulier 302.
 
@@ -10667,7 +10692,7 @@ For The Commander (onderdeel)
 
 4. De inspecteur is op de plaats van bestemming bevoegd de goederen te controleren alleen in tegenwoordigheid van de door de commandant aangewezen persoon van de betreffende buitenlandse NAVO-strijdkracht.
 
-#### Artikel 7:16k
+##### Artikel 7:16k
 
 Indien de inspecteur controle wenst uit te oefenen op lokaliteiten binnen vestigingen van een buitenlandse NAVO-strijdkracht, vindt deze controle slechts plaats na voorafgaande kennisgeving aan de commandant.
 
@@ -10681,23 +10706,23 @@ Indien de inspecteur controle wenst uit te oefenen op lokaliteiten binnen vestig
 
 ### Afdeling 8.2. Invordering van het bedrag van de douaneschuld
 
-#### Artikel 11:1
+##### Artikel 11:1
 
 Degene die onjuiste of onvolledige gegevens verstrekt, of handelingen verricht, welke leiden of kunnen leiden tot een onjuiste terugbetaling van rechten bij invoer, of kwijtschelding van rechten bij invoer, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:2
+##### Artikel 11:2
 
 Degene die onjuiste of onvolledige gegevens verstrekt, waardoor ten onrechte een vrijstelling wordt genoten of zou kunnen worden genoten, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:3
+##### Artikel 11:3
 
 Degene die een der in deze regeling omschreven verboden overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:4
+##### Artikel 11:4
 
 Hij die geen bijstand verleent of niet alle nodige bescheiden en inlichtingen verstrekt binnen de eventueel vastgestelde termijn zoals bedoeld in artikel 15, eerste lid, van het Douanewetboek van de Unie maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:5
+##### Artikel 11:5
 
 Hij die zonder de ingevolge wettelijke bepalingen vereiste toestemming:
 
@@ -10709,17 +10734,17 @@ Hij die zonder de ingevolge wettelijke bepalingen vereiste toestemming:
 
 maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:6
+##### Artikel 11:6
 
 Hij die in strijd met wettelijke bepalingen verandering brengt in de staat waarin goederen als bedoeld in artikel 134 of artikel 158, derde lid, van het Douanewetboek van de Unie maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:7
+##### Artikel 11:7
 
 Hij die in strijd met de wettelijke bepalingen een aanvullende aangifte zoals bedoeld in artikel 167, eerste lid, van het Douanewetboek van de Unie achterwege laat of niet tijdig doet, pleegt een strafbaar feit.
 
 ### Hoofdstuk 12. Algemene bepalingen van strafvordering
 
-#### Artikel 12:1
+##### Artikel 12:1
 
 1. Van de inbeslagneming van goederen, ter zake van het begaan van bij wettelijke bepalingen strafbaar gesteld feiten door onbekende personen, wordt mededeling gedaan in één of meer door de inspecteur aan te wijzen dag- of nieuwsbladen, met vermelding van een omschrijving van de goederen en van de voor de goederen gebezigde verpakking.
 
@@ -10727,7 +10752,7 @@ Hij die in strijd met de wettelijke bepalingen een aanvullende aangifte zoals be
 
 3. De vorige leden vinden overeenkomstige toepassing bij de inbeslagneming op onbekende personen van vervoermiddelen en voorwerpen, bedoeld in [artikel 1:37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:37), met dien verstande dat tevens de gronden tot die inbeslagneming worden vermeld.
 
-#### Artikel 12:2
+##### Artikel 12:2
 
 Onder de voorwaarden voor het vrijgeven van goederen welke ter zake van het begaan van bij wettelijke bepalingen strafbaar gestelde feiten in beslag zijn genomen, wordt ten minste gesteld dat ten kantore van een door de inspecteur aangewezen ontvanger zekerheid wordt gesteld tot verzekering van de uitlevering van de goederen of de voldoening van de waarde daarvan.
 
@@ -11845,7 +11870,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2:2a
+##### Artikel 2:2a
 
 1. Van de in een schip aanwezige scheepsvoorraden wordt bij binnenkomst en uiterlijk 2 uur na het daadwerkelijke tijdstip van aankomst langs elektronische weg een scheepsvoorradenaangifte (IMO/FAL 3) ingediend bij de inspecteur.
 
@@ -11895,23 +11920,23 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 9. Terugbetaling of kwijtschelding van de rechten bij invoer of de rechten bij uitvoer
 
-#### Artikel 11:1
+##### Artikel 11:1
 
 Degene die onjuiste of onvolledige gegevens verstrekt, of handelingen verricht, welke leiden of kunnen leiden tot een onjuiste terugbetaling van rechten bij invoer, of kwijtschelding van rechten bij invoer, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:2
+##### Artikel 11:2
 
 Degene die onjuiste of onvolledige gegevens verstrekt, waardoor ten onrechte een vrijstelling wordt genoten of zou kunnen worden genoten, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:3
+##### Artikel 11:3
 
 Degene die een der in deze regeling omschreven verboden overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:4
+##### Artikel 11:4
 
 Hij die geen bijstand verleent of niet alle nodige bescheiden en inlichtingen verstrekt binnen de eventueel vastgestelde termijn zoals bedoeld in artikel 15, eerste lid, van het Douanewetboek van de Unie maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:5
+##### Artikel 11:5
 
 Hij die zonder de ingevolge wettelijke bepalingen vereiste toestemming:
 
@@ -11925,17 +11950,17 @@ Hij die zonder de ingevolge wettelijke bepalingen vereiste toestemming:
 
 maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:6
+##### Artikel 11:6
 
 Hij die in strijd met wettelijke bepalingen verandering brengt in de staat waarin goederen als bedoeld in artikel 134 of artikel 158, derde lid, van het Douanewetboek van de Unie maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:7
+##### Artikel 11:7
 
 Hij die in strijd met de wettelijke bepalingen een aanvullende aangifte zoals bedoeld in artikel 167, eerste lid, van het Douanewetboek van de Unie achterwege laat of niet tijdig doet, pleegt een strafbaar feit.
 
 ### Hoofdstuk 12. Algemene bepalingen van strafvordering
 
-#### Artikel 12:1
+##### Artikel 12:1
 
 1. Van de inbeslagneming van goederen, ter zake van het begaan van bij wettelijke bepalingen strafbaar gesteld feiten door onbekende personen, wordt mededeling gedaan in één of meer door de inspecteur aan te wijzen dag- of nieuwsbladen, met vermelding van een omschrijving van de goederen en van de voor de goederen gebezigde verpakking.
 
@@ -11943,7 +11968,7 @@ Hij die in strijd met de wettelijke bepalingen een aanvullende aangifte zoals be
 
 3. De vorige leden vinden overeenkomstige toepassing bij de inbeslagneming op onbekende personen van vervoermiddelen en voorwerpen, bedoeld in [artikel 1:37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:37), met dien verstande dat tevens de gronden tot die inbeslagneming worden vermeld.
 
-#### Artikel 12:2
+##### Artikel 12:2
 
 Onder de voorwaarden voor het vrijgeven van goederen welke ter zake van het begaan van bij wettelijke bepalingen strafbaar gestelde feiten in beslag zijn genomen, wordt ten minste gesteld dat ten kantore van een door de inspecteur aangewezen ontvanger zekerheid wordt gesteld tot verzekering van de uitlevering van de goederen of de voldoening van de waarde daarvan.
 
@@ -12001,13 +12026,13 @@ Groningen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 11:8
+##### Artikel 11:8
 
 Hij die in strijd met de wettelijke bepalingen geen mededeling doet van de aankomst of van het vertrek van een schip als bedoeld in [artikel 2:1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2021-07-08&g=2021-07-08), maakt zich schuldig aan het plegen van een strafbaar feit.
 
 ### Hoofdstuk 12. Algemene bepalingen van strafvordering
 
-#### Artikel 12:1
+##### Artikel 12:1
 
 1. Van de inbeslagneming van goederen, ter zake van het begaan van bij wettelijke bepalingen strafbaar gesteld feiten door onbekende personen, wordt mededeling gedaan in één of meer door de inspecteur aan te wijzen dag- of nieuwsbladen, met vermelding van een omschrijving van de goederen en van de voor de goederen gebezigde verpakking.
 
@@ -12015,7 +12040,7 @@ Hij die in strijd met de wettelijke bepalingen geen mededeling doet van de aanko
 
 3. De vorige leden vinden overeenkomstige toepassing bij de inbeslagneming op onbekende personen van vervoermiddelen en voorwerpen, bedoeld in [artikel 1:37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:37), met dien verstande dat tevens de gronden tot die inbeslagneming worden vermeld.
 
-#### Artikel 12:2
+##### Artikel 12:2
 
 Onder de voorwaarden voor het vrijgeven van goederen welke ter zake van het begaan van bij wettelijke bepalingen strafbaar gestelde feiten in beslag zijn genomen, wordt ten minste gesteld dat ten kantore van een door de inspecteur aangewezen ontvanger zekerheid wordt gesteld tot verzekering van de uitlevering van de goederen of de voldoening van de waarde daarvan.
 
@@ -12079,7 +12104,7 @@ Berichten als bedoeld in [artikel 1:6, derde lid, van de wet](https://wetten.ove
 
 ### **Deel D. Toelichting bij de te gebruiken EU- en Nationale Codes op de formulieren van het enig document**
 
-#### Artikel 7:16da
+##### Artikel 7:16da
 
 Voor toepassing van de vrijstelling van rechten bij invoer, bedoeld in [artikel 7:16d](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=7&afdeling=7.2a&artikel=7:16d&z=2026-01-01&g=2026-01-01), ter zake van goederen die in het vrije verkeer zijn gebracht ten behoeve van de AFNORTH International School, is ook sprake van uitsluitend gebruik door de strijdkrachten, in de zin van artikel 7:16d, indien de school een verwaarloosbaar aantal kinderen toelaat dat niet tot het gezin behoort van personeel van buitenlandse NAVO-strijdkrachten.
 
@@ -12093,23 +12118,23 @@ Voor toepassing van de vrijstelling van rechten bij invoer, bedoeld in [artikel 
 
 ### Afdeling 8.2. Invordering van het bedrag van de douaneschuld
 
-#### Artikel 11:1
+##### Artikel 11:1
 
 Degene die onjuiste of onvolledige gegevens verstrekt, of handelingen verricht, welke leiden of kunnen leiden tot een onjuiste terugbetaling van rechten bij invoer, of kwijtschelding van rechten bij invoer, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:2
+##### Artikel 11:2
 
 Degene die onjuiste of onvolledige gegevens verstrekt, waardoor ten onrechte een vrijstelling wordt genoten of zou kunnen worden genoten, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:3
+##### Artikel 11:3
 
 Degene die een der in deze regeling omschreven verboden overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:4
+##### Artikel 11:4
 
 Hij die geen bijstand verleent of niet alle nodige bescheiden en inlichtingen verstrekt binnen de eventueel vastgestelde termijn zoals bedoeld in artikel 15, eerste lid, van het Douanewetboek van de Unie maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:5
+##### Artikel 11:5
 
 Hij die zonder de ingevolge wettelijke bepalingen vereiste toestemming:
 
@@ -12123,21 +12148,21 @@ Hij die zonder de ingevolge wettelijke bepalingen vereiste toestemming:
 
 maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:6
+##### Artikel 11:6
 
 Hij die in strijd met wettelijke bepalingen verandering brengt in de staat waarin goederen als bedoeld in artikel 134 of artikel 158, derde lid, van het Douanewetboek van de Unie maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:7
+##### Artikel 11:7
 
 Hij die in strijd met de wettelijke bepalingen een aanvullende aangifte zoals bedoeld in artikel 167, eerste lid, van het Douanewetboek van de Unie achterwege laat of niet tijdig doet, pleegt een strafbaar feit.
 
-#### Artikel 11:8
+##### Artikel 11:8
 
 Hij die in strijd met de wettelijke bepalingen geen mededeling doet van de aankomst of van het vertrek van een schip als bedoeld in [artikel 2:1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2022-01-01&g=2022-01-01), maakt zich schuldig aan het plegen van een strafbaar feit.
 
 ### Hoofdstuk 12. Algemene bepalingen van strafvordering
 
-#### Artikel 12:1
+##### Artikel 12:1
 
 1. Van de inbeslagneming van goederen, ter zake van het begaan van bij wettelijke bepalingen strafbaar gesteld feiten door onbekende personen, wordt mededeling gedaan in één of meer door de inspecteur aan te wijzen dag- of nieuwsbladen, met vermelding van een omschrijving van de goederen en van de voor de goederen gebezigde verpakking.
 
@@ -12145,7 +12170,7 @@ Hij die in strijd met de wettelijke bepalingen geen mededeling doet van de aanko
 
 3. De vorige leden vinden overeenkomstige toepassing bij de inbeslagneming op onbekende personen van vervoermiddelen en voorwerpen, bedoeld in [artikel 1:37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:37), met dien verstande dat tevens de gronden tot die inbeslagneming worden vermeld.
 
-#### Artikel 12:2
+##### Artikel 12:2
 
 Onder de voorwaarden voor het vrijgeven van goederen welke ter zake van het begaan van bij wettelijke bepalingen strafbaar gestelde feiten in beslag zijn genomen, wordt ten minste gesteld dat ten kantore van een door de inspecteur aangewezen ontvanger zekerheid wordt gesteld tot verzekering van de uitlevering van de goederen of de voldoening van de waarde daarvan.
 
@@ -12211,7 +12236,7 @@ Als vaarwaters voor uit zee binnenkomende onderscheidenlijk naar zee uitgaande s
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2:11a
+##### Artikel 2:11a
 
 1. Wanneer artikel 2, tweede lid, van de Gedelegeerde Verordening Douanewetboek van de Unie van toepassing is, gelden naast de gemeenschappelijke gegevensvereisten de nationale gegevensvereisten, genoemd in [bijlage VIa](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=VIa&z=2026-01-01&g=2026-01-01).
 
@@ -12259,23 +12284,23 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 11. Strafrechtelijke bepalingen
 
-#### Artikel 11:1
+##### Artikel 11:1
 
 Degene die onjuiste of onvolledige gegevens verstrekt, of handelingen verricht, welke leiden of kunnen leiden tot een onjuiste terugbetaling van rechten bij invoer, of kwijtschelding van rechten bij invoer, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:2
+##### Artikel 11:2
 
 Degene die onjuiste of onvolledige gegevens verstrekt, waardoor ten onrechte een vrijstelling wordt genoten of zou kunnen worden genoten, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:3
+##### Artikel 11:3
 
 Degene die een der in deze regeling omschreven verboden overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:4
+##### Artikel 11:4
 
 Hij die geen bijstand verleent of niet alle nodige bescheiden en inlichtingen verstrekt binnen de eventueel vastgestelde termijn zoals bedoeld in artikel 15, eerste lid, van het Douanewetboek van de Unie maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:5
+##### Artikel 11:5
 
 Hij die zonder de ingevolge wettelijke bepalingen vereiste toestemming:
 
@@ -12289,19 +12314,19 @@ Hij die zonder de ingevolge wettelijke bepalingen vereiste toestemming:
 
 maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:6
+##### Artikel 11:6
 
 Hij die in strijd met wettelijke bepalingen verandering brengt in de staat waarin goederen als bedoeld in artikel 134 of artikel 158, derde lid, van het Douanewetboek van de Unie zich bevinden maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:7
+##### Artikel 11:7
 
 Hij die in strijd met de wettelijke bepalingen een aanvullende aangifte zoals bedoeld in artikel 167, eerste lid, van het Douanewetboek van de Unie achterwege laat of niet tijdig doet, pleegt een strafbaar feit.
 
-#### Artikel 11:8
+##### Artikel 11:8
 
 Hij die in strijd met de wettelijke bepalingen geen mededeling doet van de aankomst of van het vertrek van een schip als bedoeld in [artikel 2:1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2025-08-22&g=2025-08-22), maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 12:1
+##### Artikel 12:1
 
 1. Van de inbeslagneming van goederen, ter zake van het begaan van bij wettelijke bepalingen strafbaar gesteld feiten door onbekende personen, wordt mededeling gedaan in één of meer door de inspecteur aan te wijzen dag- of nieuwsbladen, met vermelding van een omschrijving van de goederen en van de voor de goederen gebezigde verpakking.
 
@@ -12309,7 +12334,7 @@ Hij die in strijd met de wettelijke bepalingen geen mededeling doet van de aanko
 
 3. De vorige leden vinden overeenkomstige toepassing bij de inbeslagneming op onbekende personen van vervoermiddelen en voorwerpen, bedoeld in [artikel 1:37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:37), met dien verstande dat tevens de gronden tot die inbeslagneming worden vermeld.
 
-#### Artikel 12:2
+##### Artikel 12:2
 
 Onder de voorwaarden voor het vrijgeven van goederen welke ter zake van het begaan van bij wettelijke bepalingen strafbaar gestelde feiten in beslag zijn genomen, wordt ten minste gesteld dat ten kantore van een door de inspecteur aangewezen ontvanger zekerheid wordt gesteld tot verzekering van de uitlevering van de goederen of de voldoening van de waarde daarvan.
 
@@ -12351,11 +12376,11 @@ Douanekantoren als bedoeld in [artikel 2:1, eerste lid](https://wetten.overheid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 11:9
+##### Artikel 11:9
 
 Hij die bij de douane aangebrachte goederen wegvoert terwijl deze goederen niet zijn vrijgegeven door de inspecteur overeenkomstig de artikelen 194 of 195 van het Douanewetboek van de Unie, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 12:1
+##### Artikel 12:1
 
 1. Van de inbeslagneming van goederen, ter zake van het begaan van bij wettelijke bepalingen strafbaar gesteld feiten door onbekende personen, wordt mededeling gedaan in één of meer door de inspecteur aan te wijzen dag- of nieuwsbladen, met vermelding van een omschrijving van de goederen en van de voor de goederen gebezigde verpakking.
 
@@ -12363,7 +12388,7 @@ Hij die bij de douane aangebrachte goederen wegvoert terwijl deze goederen niet 
 
 3. De vorige leden vinden overeenkomstige toepassing bij de inbeslagneming op onbekende personen van vervoermiddelen en voorwerpen, bedoeld in [artikel 1:37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:37), met dien verstande dat tevens de gronden tot die inbeslagneming worden vermeld.
 
-#### Artikel 12:2
+##### Artikel 12:2
 
 Onder de voorwaarden voor het vrijgeven van goederen welke ter zake van het begaan van bij wettelijke bepalingen strafbaar gestelde feiten in beslag zijn genomen, wordt ten minste gesteld dat ten kantore van een door de inspecteur aangewezen ontvanger zekerheid wordt gesteld tot verzekering van de uitlevering van de goederen of de voldoening van de waarde daarvan.
 
@@ -12417,7 +12442,7 @@ Internationale luchthavens als bedoeld in [artikel 2:1, tweede lid](https://wett
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1:3a
+##### Artikel 1:3a
 
 Berichten waarvoor het berichtenverkeer uitsluitend langs elektronische weg dan wel uitsluitend langs andere dan elektronische weg plaatsvindt als bedoeld in [artikel 1:6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:6) zijn opgenomen in [bijlage Ia](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&bijlage=Ia&z=2026-01-01&g=2026-01-01).
 
@@ -12461,23 +12486,23 @@ Berichten waarvoor het berichtenverkeer uitsluitend langs elektronische weg dan 
 
 ### Hoofdstuk 11. Strafrechtelijke bepalingen
 
-#### Artikel 11:1
+##### Artikel 11:1
 
 Degene die onjuiste of onvolledige gegevens verstrekt, of handelingen verricht, welke leiden of kunnen leiden tot een onjuiste terugbetaling van rechten bij invoer, of kwijtschelding van rechten bij invoer, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:2
+##### Artikel 11:2
 
 Degene die onjuiste of onvolledige gegevens verstrekt, waardoor ten onrechte een vrijstelling wordt genoten of zou kunnen worden genoten, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:3
+##### Artikel 11:3
 
 Degene die een der in deze regeling omschreven verboden overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:4
+##### Artikel 11:4
 
 Hij die geen bijstand verleent of niet alle nodige bescheiden en inlichtingen verstrekt binnen de eventueel vastgestelde termijn zoals bedoeld in artikel 15, eerste lid, van het Douanewetboek van de Unie maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:5
+##### Artikel 11:5
 
 Hij die zonder de ingevolge wettelijke bepalingen vereiste toestemming:
 
@@ -12491,23 +12516,23 @@ Hij die zonder de ingevolge wettelijke bepalingen vereiste toestemming:
 
 maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:6
+##### Artikel 11:6
 
 Hij die in strijd met wettelijke bepalingen verandering brengt in de staat waarin goederen als bedoeld in artikel 134 of artikel 158, derde lid, van het Douanewetboek van de Unie zich bevinden maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:7
+##### Artikel 11:7
 
 Hij die in strijd met de wettelijke bepalingen een aanvullende aangifte zoals bedoeld in artikel 167, eerste lid, van het Douanewetboek van de Unie achterwege laat of niet tijdig doet, pleegt een strafbaar feit.
 
-#### Artikel 11:8
+##### Artikel 11:8
 
 Hij die in strijd met de wettelijke bepalingen geen mededeling doet van de aankomst of van het vertrek van een schip als bedoeld in [artikel 2:1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&hoofdstuk=2&afdeling=2.1&artikel=2:1&z=2026-01-01&g=2026-01-01), maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 11:9
+##### Artikel 11:9
 
 Hij die bij de douane aangebrachte goederen wegvoert terwijl deze goederen niet zijn vrijgegeven door de inspecteur overeenkomstig de artikelen 194 of 195 van het Douanewetboek van de Unie, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-#### Artikel 12:1
+##### Artikel 12:1
 
 1. Van de inbeslagneming van goederen, ter zake van het begaan van bij wettelijke bepalingen strafbaar gesteld feiten door onbekende personen, wordt mededeling gedaan in één of meer door de inspecteur aan te wijzen dag- of nieuwsbladen, met vermelding van een omschrijving van de goederen en van de voor de goederen gebezigde verpakking.
 
@@ -12515,7 +12540,7 @@ Hij die bij de douane aangebrachte goederen wegvoert terwijl deze goederen niet 
 
 3. De vorige leden vinden overeenkomstige toepassing bij de inbeslagneming op onbekende personen van vervoermiddelen en voorwerpen, bedoeld in [artikel 1:37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:37), met dien verstande dat tevens de gronden tot die inbeslagneming worden vermeld.
 
-#### Artikel 12:2
+##### Artikel 12:2
 
 Onder de voorwaarden voor het vrijgeven van goederen welke ter zake van het begaan van bij wettelijke bepalingen strafbaar gestelde feiten in beslag zijn genomen, wordt ten minste gesteld dat ten kantore van een door de inspecteur aangewezen ontvanger zekerheid wordt gesteld tot verzekering van de uitlevering van de goederen of de voldoening van de waarde daarvan.
 

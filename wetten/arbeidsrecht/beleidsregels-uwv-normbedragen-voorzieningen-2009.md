@@ -1,18 +1,43 @@
 ---
 title: "Beleidsregels UWV normbedragen voorzieningen 2009"
 identifier: "BWBR0025178"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2009-08-20
-laatste_update: 2009-08-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025178"
+country: "nl"
+rank: "zbo"
+publication_date: "2009-08-20"
+last_updated: "2009-08-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025178"
+soort: "zbo"
+stam_id: "9879743"
+version_id: "16092242"
+internal_id: "C22076101"
+label_id: "9856154"
+dtd_version: "2.0"
+original_entry_into_force: "2009-01-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025178/2009-08-20/0"
+intitule_bron: "Stcrt.2009-8"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-12-23"
+intitule_published: "2009-01-14"
+intitule_in_force: "2009-01-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-8"
+original_signed_date: "2008-12-23"
+original_published_date: "2009-01-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-598"
+entry_into_force_date: "2009-01-16"
+jci_1_3: "jci1.3:c:BWBR0025178&z=2009-08-20&g=2009-08-20"
+jci_1_0: "1.0:c:BWBR0025178&g=2009-08-20"
+citeertitel_status: "officieel"
+signed_date: "2008-12-23"
+entry_into_force: "2009-01-16"
 ---
-
 # Beleidsregels UWV normbedragen voorzieningen 2009
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De normbedragen voor voorzieningen, als bedoeld in:
 
@@ -30,7 +55,7 @@ De normbedragen voor voorzieningen, als bedoeld in:
 
 worden vastgesteld op de bedragen, genoemd in de bijlage bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De kilometervergoedingen volgens de codes C11, C13, C22 en C25 worden verstrekt op basis van de aantallen kilometers, verkregen volgens de ANWB-methode ‘snelste route’ en op basis van volledige postcodes.
 
@@ -64,11 +89,11 @@ In onderwijssituaties wordt tussen 08.00 en 18.00 uur een vaste vergoeding verst
 
 9. In bijzondere gevallen kan worden afgeweken van het bepaalde in het zesde en het zevende lid. Te dier zake is een nadere beslissing door UWV noodzakelijk, voorafgaand aan de uitvoering van de desbetreffende tolkopdracht.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt aangehaald als: Beleidsregels UWV normbedragen voorzieningen 2009.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van 1 januari 2009. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2008, treedt dit besluit in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt het terug tot en met 1 januari 2009.
 

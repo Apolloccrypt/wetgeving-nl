@@ -1,20 +1,46 @@
 ---
-title: "Regeling vrijstelling visumplicht Rijksvisumwet"
+title: "Regeling van de Minister van Buitenlandse Zaken van 14 juni 2018, nr Min-Buza.2018.1422-22, houdende bepalingen inzake vrijstelling van de visumplicht op grond van de Rijksvisumwet (Regeling vrijstelling visumplicht Rijksvisumwet)"
 identifier: "BWBR0041057"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2022-03-21
-laatste_update: 2022-03-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041057"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-03-21"
+last_updated: "2022-03-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041057"
+soort: "ministeriele-regeling"
+stam_id: "14656053"
+version_id: "25091222"
+internal_id: "C35882471"
+label_id: "14608884"
+dtd_version: "2.0"
+original_entry_into_force: "2018-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041057/2022-03-21/0"
+intitule_bron: "Stcrt.2018-34529"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-06-14"
+intitule_published: "2018-06-22"
+intitule_in_force: "2018-06-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-34529"
+original_signed_date: "2018-06-14"
+original_published_date: "2018-06-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-34529"
+entry_into_force_date: "2018-07-01"
+jci_1_3: "jci1.3:c:BWBR0041057&z=2022-03-21&g=2022-03-21"
+jci_1_0: "1.0:c:BWBR0041057&g=2022-03-21"
+citeertitel_status: "officieel"
+short_title: "Regeling vrijstelling visumplicht Rijksvisumwet"
+signed_date: "2018-06-14"
+entry_into_force: "2018-07-01"
 ---
-
 # Regeling van de Minister van Buitenlandse Zaken van 14 juni 2018, nr Min-Buza.2018.1422-22, houdende bepalingen inzake vrijstelling van de visumplicht op grond van de Rijksvisumwet (Regeling vrijstelling visumplicht Rijksvisumwet)
 
 Gelet op [artikel 5, tweede lid, van de Rijksvisumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0038494&artikel=5);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Met inachtneming van de in die bijlage genoemde voorwaarden en beperkingen zijn vrijgesteld van de visumplicht op grond [artikel 5, eerste lid, van de Rijksvisumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0038494&artikel=5):
 
@@ -22,11 +48,11 @@ Met inachtneming van de in die bijlage genoemde voorwaarden en beperkingen zijn 
 
 - b. vreemdelingen die behoren tot een van de in de bijlage genoemde categorieën.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling wordt aangehaald als: Regeling vrijstelling visumplicht Rijksvisumwet.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van 1 juli 2018.
 

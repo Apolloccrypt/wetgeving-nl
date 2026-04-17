@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzing elektronische verzendwijzen AFM"
+title: "Besluit van de Autoriteit Financiële Markten van 16 december 2025, houdende regels met betrekking tot aanwijzing van de elektronische verzendwijze van verzenden van officiële berichten aan de Autoriteit Financiële Markten (Besluit aanwijzing elektronische verzendwijzen AFM)"
 identifier: "BWBR0052098"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052098"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052098"
+soort: "zbo"
+stam_id: "17719723"
+version_id: "31272612"
+internal_id: "C44714281"
+label_id: "17618324"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052098/2026-01-01/0"
+intitule_bron: "Stcrt.2026-117"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-16"
+intitule_published: "2026-01-08"
+intitule_in_force: "2026-01-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-117"
+original_signed_date: "2025-12-16"
+original_published_date: "2026-01-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-117"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0052098&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0052098&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Aanwijzing elektronische verzendwijzen AFM"
+signed_date: "2025-12-16"
+entry_into_force: "2026-01-01"
 ---
-
 # Besluit van de Autoriteit Financiële Markten van 16 december 2025, houdende regels met betrekking tot aanwijzing van de elektronische verzendwijze van verzenden van officiële berichten aan de Autoriteit Financiële Markten (Besluit aanwijzing elektronische verzendwijzen AFM)
 
 Gelet op de [artikelen 2:13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:13) en [3:42 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:42);
@@ -16,7 +42,7 @@ Besluit:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -28,15 +54,15 @@ In dit besluit wordt verstaan onder:
 
 - d. **Toezichtwetgeving:** de Europese verordeningen opgenomen in het [Besluit uitvoering EU-verordeningen financiële markten](https://wetten.overheid.nl/jci1.3:c:BWBR0032230) – voor zover de AFM als bevoegde autoriteit is aangewezen –, de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368), de [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809), de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296), de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282), de [Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468), [Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586), de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883), de [Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824) en de bij of krachtens voornoemde wetten geldende regelgeving
 
-#### Artikel 2. Aanwijzing elektronische verzendwijzen
+##### Artikel 2. Aanwijzing elektronische verzendwijzen
 
 Officiële berichten kunnen elektronisch aan de AFM worden verzonden op de in de bijlage vermelde wijze.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2026.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Dit besluit wordt aangehaald als: Aanwijzing elektronische verzendwijzen AFM.
 

@@ -1,13 +1,38 @@
 ---
-title: "Kaderregeling subsidiering projecten ten behoeve van onderzoek en wetenschap"
+title: "Kaderregeling subsidiëring projecten ten behoeve van onderzoek en wetenschap"
 identifier: "BWBR0012777"
-categorie: "Bestuursrecht"
-publicatiedatum: 2002-01-01
-laatste_update: 2002-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012777"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2002-01-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012777"
+soort: "ministeriele-regeling"
+stam_id: "5545553"
+version_id: "9949872"
+internal_id: "C13432101"
+label_id: "5517944"
+dtd_version: "2.0"
+original_entry_into_force: "2001-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012777/2002-01-01/0"
+intitule_bron: "Stcrt.2001-167"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-08-23"
+intitule_published: "2001-08-30"
+intitule_in_force: "2001-08-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-167"
+original_signed_date: "2001-08-23"
+original_published_date: "2001-08-30"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-09-01"
+jci_1_3: "jci1.3:c:BWBR0012777&z=2002-01-01&g=2002-01-01"
+jci_1_0: "1.0:c:BWBR0012777&g=2002-01-01"
+citeertitel_status: "officieel"
+short_title: "Kaderregeling subsidiering projecten ten behoeve van onderzoek en wetenschap"
+signed_date: "2001-08-23"
+entry_into_force: "2001-09-01"
 ---
-
 # Kaderregeling subsidiëring projecten ten behoeve van onderzoek en wetenschap
 
 Gelet op [artikel 4 van de Wet overige OCenW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4),
@@ -16,7 +41,7 @@ Besluit:
 
 #### Paragraaf 1. Inleidende bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -32,7 +57,7 @@ In deze regeling wordt verstaan onder:
 
 - c. **Rijksbegroting OCenW:** de begroting van de uitgaven en ontvangsten van het Ministerie van Onderwijs, Cultuur en Wetenschappen.
 
-#### Artikel 2. Doelomschrijving
+##### Artikel 2. Doelomschrijving
 
 1. De minister kan projectsubsidie verlenen voor projecten op het gebied van onderzoek en wetenschap.
 
@@ -44,29 +69,29 @@ In deze regeling wordt verstaan onder:
 
 - c. de subsidie past binnen de uitoefening van coördinerende verantwoordelijkheid van de minister voor het Nederlandse wetenschapsbeleid zoals deze verantwoordelijkheid is uitgewerkt in het hoofdstuk Onderzoek en Wetenschapsbeleid van de Rijksbegroting OCenW.
 
-#### Artikel 3. Subsidieaanvrager
+##### Artikel 3. Subsidieaanvrager
 
 Een aanvraag tot subsidieverlening kan worden ingediend door een natuurlijke persoon of rechtspersoon met volledige rechtsbevoegdheid waarvan de statutaire doelstelling past binnen het doel van de subsidieverlening.
 
-#### Artikel 4. Subsidieplafond
+##### Artikel 4. Subsidieplafond
 
 De in de Rijksbegroting OCenW in het hoofdstuk Onderzoek en Wetenschapsbeleid onder het overzicht van de budgettaire gevolgen van beleid opgenomen uitgaven, gelden als subsidieplafonds voor de in dat overzicht opgenomen beleidsthema's en voor de uitoefening van de coördinerende verantwoordelijkheid van de minister.
 
-#### Artikel 5. Subsidiebedrag
+##### Artikel 5. Subsidiebedrag
 
 Bij de subsidieverlening maakt de minister het maximale voor het project beschikbare subsidiebedrag bekend. Indien een project bestaat uit elkaar opvolgende fases of onderdelen en de subsidieverlening wordt gekoppeld aan een onderscheidenlijke fase of onderdeel, dan kan worden volstaan met het bekendmaken van het voor die fase of onderdeel maximaal beschikbare bedrag.
 
-#### Artikel 6. Begrotingsvoorbehoud
+##### Artikel 6. Begrotingsvoorbehoud
 
 In het geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34), worden de op grond van dit besluit verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting ter beschikking staat, een en ander voor zover van toepassing naar rato van het aantal subsidieontvangers en van de hoogte van de verleende subsidiebedragen.
 
 #### Paragraaf 2. Subsidieaanvraag
 
-#### Artikel 7. Subsidieaanvraag
+##### Artikel 7. Subsidieaanvraag
 
 De subsidie wordt op aanvraag verleend.
 
-#### Artikel 8. Vereisten ten aanzien van in te dienen stukken
+##### Artikel 8. Vereisten ten aanzien van in te dienen stukken
 
 1. De subsidieaanvraag omvat:
 
@@ -84,17 +109,17 @@ De subsidie wordt op aanvraag verleend.
 
 3. De minister kan nadere eisen stellen ten aanzien van het in dit artikel bepaalde.
 
-#### Artikel 9. Activiteitenplan
+##### Artikel 9. Activiteitenplan
 
 Het activiteitenplan omvat een overzicht van de aard en de omvang van de voorgenomen activiteiten alsmede een omschrijving waaruit blijkt dat de subsidiedoeleinden op een doelmatige en rechtmatige wijze kunnen worden bereikt.
 
-#### Artikel 10. Meerjarenactiviteitenplan
+##### Artikel 10. Meerjarenactiviteitenplan
 
 1. Het meerjarenactiviteitenplan omvat de hoofdlijnen van activiteiten en de daarmee beoogde resultaten. Het plan bevat verifieerbare doelstellingen.
 
 2. Het meerjarenactiviteitenplan ziet op de gehele looptijd van het project tenzij het project is opgebouwd uit fases of onderdelen. In dat geval dient de aanvrager een plan in per fase of onderdeel tenzij de minister hiertoe anders besluit.
 
-#### Artikel 11. Begroting bij één- of meerjarige onderzoekprogramma's en -projecten
+##### Artikel 11. Begroting bij één- of meerjarige onderzoekprogramma's en -projecten
 
 1. De begroting bevat een overzicht van de verwachte inkomsten en uitgaven in het jaar waarop de begroting betrekking heeft.
 
@@ -116,11 +141,11 @@ Het activiteitenplan omvat een overzicht van de aard en de omvang van de voorgen
 
 4. Bij de subsidieverlening kan de minister bepalen dat in aanvulling op de begroting een overzicht wordt ingediend waarin de subsidieaanvrager gemotiveerd inzage geeft in het verloop van de liquiditeitsbehoefte. Daarbij bepaalt de minister de periode waarop het overzicht betrekking dient te hebben.
 
-#### Artikel 12. Begroting bij éénmalige activiteiten en bij éénmaal of meermalen per jaar voorkomende activiteiten
+##### Artikel 12. Begroting bij éénmalige activiteiten en bij éénmaal of meermalen per jaar voorkomende activiteiten
 
 De begroting bevat in ieder geval een overzicht van de verwachte inkomsten en uitgaven voor de activiteit waarop de subsidieaanvraag betrekking heeft.
 
-#### Artikel 13. Meerjarenraming
+##### Artikel 13. Meerjarenraming
 
 1. De meerjarenraming biedt inzicht in de inkomsten en de uitgaven die de aanvrager in verband met de te subsidiëren activiteiten voorziet. De raming bevat een kasstroomprognose waarin het vermoedelijke verloop of de vermoedelijke afloop van de financieringsbehoefte en de liquiditeitsplanning wordt aangegeven.
 
@@ -128,13 +153,13 @@ De begroting bevat in ieder geval een overzicht van de verwachte inkomsten en ui
 
 #### Paragraaf 3. Subsidieverlening
 
-#### Artikel 14. Subsidieverlening
+##### Artikel 14. Subsidieverlening
 
 1. Bij subsidieverlening aan een voor de uitvoering van een project door of mede de minister in aanmerking genomen subsidieaanvrager besluit de minister, op voorwaarde van instemming met het door de subsidieaanvrager ingediende plan, tot subsidieverlening overeenkomstig een door of mede door de minister vastgesteld programma.
 
 2. Subsidieverlening aan een voor de uitvoering van een project in aanmerking genomen subsidieaanvrager gaat voor subsidieverlening aan andere projecten. Voor zover een subsidieplafond, als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012777&paragraaf=1&artikel=4&z=2002-01-01&g=2002-01-01), van dit besluit niet is bereikt, besluit de minister tot subsidieverlening in de volgorde van ontvangst van de aanvragen.
 
-#### Artikel 15. Weigeringsgronden
+##### Artikel 15. Weigeringsgronden
 
 Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) en [artikel 9 van de Wet overige OCenW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=9) kan de subsidieverlening in ieder geval worden geweigerd in de volgende gevallen:
 
@@ -144,15 +169,15 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 - c. subsidieverlening is mogelijk op grond van een ander wettelijk voorschrift.
 
-#### Artikel 16. Advies voorafgaande aan de subsidieverlening
+##### Artikel 16. Advies voorafgaande aan de subsidieverlening
 
 De minister kan ten behoeve van het besluit tot subsidieverlening het advies inwinnen van een of meer externe deskundigen.
 
-#### Artikel 17. Tijdvak subsidieverlening
+##### Artikel 17. Tijdvak subsidieverlening
 
 De subsidie wordt verleend voor maximaal de duur van het project. Indien een project is opgebouwd uit fases of onderdelen, kan de minister subsidie voor de duur van een fase of onderdeel verlenen.
 
-#### Artikel 18. Delegatie
+##### Artikel 18. Delegatie
 
 1. De minister kan de bevoegdheid delegeren tot het nemen van besluiten met betrekking tot een verleende subsidie.
 
@@ -166,7 +191,7 @@ De subsidie wordt verleend voor maximaal de duur van het project. Indien een pro
 
 #### Paragraaf 4. Verplichtingen
 
-#### Artikel 19. Verplichtingen ten aanzien van de financiering, de inrichting en de uitvoering van een project
+##### Artikel 19. Verplichtingen ten aanzien van de financiering, de inrichting en de uitvoering van een project
 
 1. Bij de subsidieverlening kunnen verplichtingen ten aanzien van de financiering, de inrichting en de uitvoering van een project worden opgelegd waaronder de verplichting tot het verwerven van additionele middelen of de inzet van eigen middelen, de inrichting en uitvoering van een project zodat voldaan wordt aan EG-regelgeving en EG-jurisprudentie omtrent staatssteun, het bijhouden van een projectadministratie, en het betrekken van andere partijen bij de uitvoering.
 
@@ -174,7 +199,7 @@ De subsidie wordt verleend voor maximaal de duur van het project. Indien een pro
 
 3. Indien een project, dan wel een fase of onderdeel daarvan, is gericht op het behalen van een bepaald resultaat, dan kan de minister bij het besluit tot subsidieverlening de verplichting opleggen om garant te staan voor het behalen van dat resultaat.
 
-#### Artikel 20. Informatieplicht
+##### Artikel 20. Informatieplicht
 
 1. Bij meerjarige projecten dient de subsidieontvanger gedurende het tijdvak van de subsidieverlening jaarlijks vóór een door de minister te bepalen tijdstip een activiteitenplan in met bijbehorende begroting, tenzij de minister in het besluit tot subsidieverlening anders bepaald.
 
@@ -184,7 +209,7 @@ De subsidie wordt verleend voor maximaal de duur van het project. Indien een pro
 
 4. De subsidieontvanger doet zo spoedig mogelijk schriftelijk mededeling van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie. Bij de subsidieverlening kunnen de van belang geachte omstandigheden nader worden omschreven.
 
-#### Artikel 21. Evaluatie
+##### Artikel 21. Evaluatie
 
 1. Bij de subsidieverlening kan de minister de verplichting opleggen tot het houden van een evaluatie. De minister kan daarbij nadere regels stellen en aan de naleving van die regels de betaalbaarstelling van voorschotten verbinden.
 
@@ -194,15 +219,15 @@ De subsidie wordt verleend voor maximaal de duur van het project. Indien een pro
 
 4. Bij een subsidieverlening per fase of onderdeel van een project, kan de minister een positieve evaluatie als voorwaarde stellen voor het verlenen van subsidie voor de volgende fase of onderdeel.
 
-#### Artikel 22. Goederen aan en diensten voor derden
+##### Artikel 22. Goederen aan en diensten voor derden
 
 Voor de beschikbaarstelling van goederen aan derden of het verrichten van diensten voor derden brengt de subsidieontvanger een vergoeding in rekening die tenminste kostendekkend is.
 
-#### Artikel 23. Egalisatiereserve
+##### Artikel 23. Egalisatiereserve
 
 Bij subsidieverlening voor meerjarige projecten vormt de subsidieontvanger een egalisatiereserve als bedoeld in [artikel 4:72 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:72).
 
-#### Artikel 24. Verkrijgen van inkomsten of vermogensvorming
+##### Artikel 24. Verkrijgen van inkomsten of vermogensvorming
 
 1. Voor zover het verlenen van de subsidie leidt tot vermogensvorming of het verkrijgen van inkomsten, dient deze jaarlijks in de egalisatiereserve tot uitdrukking te komen. In de toelichting op de jaarlijkse mutatie van de egalisatiereserve specificeert de subsidieontvanger de inkomsten en uitgaven naar soort en omvang.
 
@@ -212,11 +237,11 @@ Bij subsidieverlening voor meerjarige projecten vormt de subsidieontvanger een e
 
 4. Het is niet toegestaan de uit subsidie verworven vermogensbestanddelen over te dragen aan een stichting met als enig doel aan de vergoedingsplicht te ontkomen.
 
-#### Artikel 25. Voorafgaande instemming met activiteiten na subsidieverlening
+##### Artikel 25. Voorafgaande instemming met activiteiten na subsidieverlening
 
 De minister kan voorwaarden stellen voor het aangaan van overeenkomsten en het verwerven van eigendommen indien dit geschiedt met door hem verleende subsidiegelden.
 
-#### Artikel 26. Jaarlijkse verantwoording
+##### Artikel 26. Jaarlijkse verantwoording
 
 1. In de jaarlijkse verantwoording geeft de subsidieontvanger inzicht in de voortgang en de behaalde resultaten. Hij geeft hierbij aan in hoeverre de vooraf gestelde doelstellingen zijn behaald. Indien de doelstellingen niet zijn gehaald dan dient de subsidieontvanger daarvoor een verklaring te geven. Afwijkingen van de doelstellingen zonder goede motivering kunnen leiden tot intrekking of wijziging van de subsidieverlening of tot terugvordering van de verleende voorschotten.
 
@@ -224,15 +249,15 @@ De minister kan voorwaarden stellen voor het aangaan van overeenkomsten en het v
 
 #### Paragraaf 5. Subsidievaststelling
 
-#### Artikel 27. Aanvraag tot subsidievaststelling
+##### Artikel 27. Aanvraag tot subsidievaststelling
 
 Na afloop van een project dient de subsidieontvanger een aanvraag tot vaststelling van de subsidie in. Bij subsidieverlening voor de duur van een fase of een onderdeel van een project, dient de subsidieontvanger na afloop van de fase of het onderdeel een aanvraag tot vaststelling in. In het geval aan de subsidieontvanger de bevoegdheid is gedelegeerd tot het nemen van besluiten met betrekking tot de subsidie, dan wordt het project eerst geacht te zijn afgerond nadat de subsidieontvanger alle door hem verleende subsidies heeft vastgesteld.
 
-#### Artikel 28. Termijn voor indiening aanvraag tot subsidievaststelling
+##### Artikel 28. Termijn voor indiening aanvraag tot subsidievaststelling
 
 Bij de subsidieverlening stelt de minister een termijn vast waarbinnen de aanvraag tot subsidieverlening wordt ingediend. Hierbij wordt zoveel mogelijk aangesloten bij het voor de subsidieontvanger geldende verantwoordingsregime.
 
-#### Artikel 29. Vereisten ten aanzien van bij de aanvraag tot subsidievaststelling in te dienen stukken
+##### Artikel 29. Vereisten ten aanzien van bij de aanvraag tot subsidievaststelling in te dienen stukken
 
 1. Ingevolge [artikel 4:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:45) dient de subsidieontvanger bij de aanvraag tot subsidievaststelling een verslag van activiteiten en een financieel verslag in.
 
@@ -242,7 +267,7 @@ Bij de subsidieverlening stelt de minister een termijn vast waarbinnen de aanvra
 
 4. Het financieel verslag geeft inzicht in het feitelijke verloop van de inkomsten, met inbegrip van alle vermogenstoenames, en de uitgaven gedurende de looptijd van het project en het eindsaldo. Indien de subsidieontvanger op basis van een gedelegeerde bevoegdheid subsidies heeft verleend, dan geeft het financieel verslag inzicht in het saldo zoals dat na de vaststelling van alle door de subsidieontvanger verleende subsidies kan worden opgemaakt.
 
-#### Artikel 30. Accountantsverklaring
+##### Artikel 30. Accountantsverklaring
 
 1. Indien de subsidie voor het totale project meer bedraagt dan € 50.000,- gaat het financieel verslag vergezeld van een verklaring omtrent de getrouwheid afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
@@ -250,7 +275,7 @@ Bij de subsidieverlening stelt de minister een termijn vast waarbinnen de aanvra
 
 3. De minister kan nadere verplichtingen opleggen in verband met de inrichting van de accountantsverklaring.
 
-#### Artikel 31. Besluit tot subsidievaststelling
+##### Artikel 31. Besluit tot subsidievaststelling
 
 1. Indien bij de subsidieverlening aan de subsidieontvanger de verplichting is opgelegd tot het houden van een evaluatie, of wanneer de minister een externe evaluatiecommissie heeft ingesteld, dan gaat de minister niet eerder tot vaststelling van de subsidie over dan nadat de resultaten van de evaluatie bij hem bekend zijn.
 
@@ -258,7 +283,7 @@ Bij de subsidieverlening stelt de minister een termijn vast waarbinnen de aanvra
 
 #### Paragraaf 6. Betaling
 
-#### Artikel 32. Voorschotten
+##### Artikel 32. Voorschotten
 
 1. Bij de subsidieverlening wordt een bevoorschottingsritme vastgesteld.
 
@@ -268,15 +293,15 @@ Bij de subsidieverlening stelt de minister een termijn vast waarbinnen de aanvra
 
 #### Paragraaf 7. Slotbepalingen
 
-#### Artikel 33. Overgangsbepaling
+##### Artikel 33. Overgangsbepaling
 
 Wijzigt deze regeling.
 
-#### Artikel 34. Inwerkingtreding
+##### Artikel 34. Inwerkingtreding
 
 Deze regeling treedt inwerking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 35. Citeertitel
+##### Artikel 35. Citeertitel
 
 Deze regeling wordt aangehaald als: Kaderregeling subsidiering projecten ten behoeve van onderzoek en wetenschap.
 

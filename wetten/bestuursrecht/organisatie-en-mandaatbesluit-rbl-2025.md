@@ -1,13 +1,39 @@
 ---
-title: "Organisatie- en mandaatbesluit RBL 2025"
+title: "Besluit van de Directeur van de Rijksorganisatie Beveiliging en Logistiek van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties van 9 januari 2026 houdende verlening van ondermandaat, alsmede het doorgeven van volmacht en machtiging van onder de Directeur ressorterende ambtenaren"
 identifier: "BWBR0052359"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-02-26
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052359"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-02-26"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052359"
+soort: "ministeriele-regeling"
+stam_id: "17779603"
+version_id: "31431602"
+internal_id: "C44900221"
+label_id: "17677594"
+dtd_version: "2.0"
+original_entry_into_force: "2026-02-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052359/2026-02-26/0"
+intitule_bron: "Stcrt.2026-6943"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-01-09"
+intitule_published: "2026-02-25"
+intitule_in_force: "2026-02-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-6943"
+original_signed_date: "2026-01-09"
+original_published_date: "2026-02-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-6943"
+entry_into_force_date: "2026-02-26"
+jci_1_3: "jci1.3:c:BWBR0052359&z=2026-02-26&g=2026-02-26"
+jci_1_0: "1.0:c:BWBR0052359&g=2026-02-26"
+citeertitel_status: "officieel"
+short_title: "Organisatie- en mandaatbesluit RBL 2025"
+signed_date: "2026-01-09"
+entry_into_force: "2026-02-26"
 ---
-
 # Besluit van de Directeur van de Rijksorganisatie Beveiliging en Logistiek van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties van 9 januari 2026 houdende verlening van ondermandaat, alsmede het doorgeven van volmacht en machtiging van onder de Directeur ressorterende ambtenaren
 
 Gelet op het [Mandaatbesluit BZK 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0051453) en gelet op het [Organisatiebesluit BZK 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0051449);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Hoofd- en overlegstructuur
 
-#### Artikel 1. Organisatieonderdelen
+##### Artikel 1. Organisatieonderdelen
 
 1. De Rijksorganisatie Beveiliging en Logistiek (RBL) bestaat uit vier organisatieonderdelen:
 
@@ -30,7 +56,7 @@ Besluit:
 
 2. De RBL kent een onafhankelijk Bureau Integriteit.
 
-#### Artikel 2. beschrijving organisatieonderdelen
+##### Artikel 2. beschrijving organisatieonderdelen
 
 - a). Het organisatieonderdeel IPKD heeft als hoofdtaak het uitvoeren van de koeriers- en transportdiensten voor alle organisaties van het Rijk met als doel borging van stabiliteit, uniformiteit en samenhang in de post- en koeriersdiensten en transport van de rijksoverheid.
 
@@ -88,7 +114,7 @@ Besluit:
 
 - b). Het Bureau Integriteit bestaat uit één roepnaam Integriteitsadviseur.
 
-#### Artikel 3. Directieteam RBL
+##### Artikel 3. Directieteam RBL
 
 1. Er is een directieteam RBL (DT). Het DT is samengesteld uit de directeur RBL, de manager BV, de algemeen manager IPKD, de manager operatie RBO, de manager SBZ en de directiesecretaris. De leden kunnen zich incidenteel laten vervangen door hun plaatsvervangers, of door een andere rechtstreeks onder hen ressorterende functionaris.
 
@@ -100,11 +126,11 @@ Besluit:
 
 ### Hoofdstuk 2. Ondermandaat
 
-#### Artikel 4. Financiële begrenzing ondermandaat
+##### Artikel 4. Financiële begrenzing ondermandaat
 
 Aan de functionarissen als genoemd in de [bijlage bij het Mandaatbesluit BZK 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048593&bijlage=1) wordt financieel ondermandaat verleend ten aanzien van aangelegenheden die behoren tot hun werkterrein. De directeur kan instructies geven met betrekking tot het uitoefenen van dat mandaat.
 
-#### Artikel 5. Ondermandaat afdelingshoofden
+##### Artikel 5. Ondermandaat afdelingshoofden
 
 Van het ingevolge [artikel 7.1 van het Mandaatbesluit BZK 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048593&artikel=7.1) verleende ondermandaat wordt ten aanzien van de aangelegenheden die hun organisatieonderdeel, betreffen ondermandaat verleend aan:
 
@@ -116,21 +142,21 @@ Van het ingevolge [artikel 7.1 van het Mandaatbesluit BZK 2023](https://wetten.o
 
 - 4). De manager SBZ
 
-#### Artikel 6. Ondermandaat leidinggevenden
+##### Artikel 6. Ondermandaat leidinggevenden
 
 Aan de afdelingshoofden, regiomanagers, operationeel managers en teamleiders /coördinerend specialistisch adviseurs wordt, binnen de daarvoor gestelde financiële en arbeidsjurdische kaders, mandaat verleend voor personele aangelegenheden binnen de organisatorische eenheid waaraan hij of zij leiding geeft, overeenkomstig de bij dit besluit gevoegde bijlage.
 
-#### Artikel 7. Eindverantwoordeljkheid directeur en aanwijzingen ondermandaat
+##### Artikel 7. Eindverantwoordeljkheid directeur en aanwijzingen ondermandaat
 
 1. Indien overwegingen van principiële aard een rol spelen, indien zich uitzonderlijke politiek-bestuurlijke afbreukrisico’s voordoen of indien overige bijzondere omstandigheden aanwezig zijn, oefent de in dit besluit gemandateerde functionaris zijn of haar mandaat niet uit. In die gevallen beslist de directeur.
 
 2. De uitoefening van het mandaat door de in dit besluit gemandateerde functionarissen geschiedt met inachtneming van algemene en bijzondere aanwijzingen van hiërarchisch hoger geplaatsten.
 
-#### Artikel 8. Mandaatregister
+##### Artikel 8. Mandaatregister
 
 Er is een mandaatregister RBL. Het register bevat namen en functies van al diegenen aan wie ondermandaat is verleend. Dit register is openbaar.
 
-#### Artikel 9. Ondermandaat bedrijfsjurist
+##### Artikel 9. Ondermandaat bedrijfsjurist
 
 1. Aan de bedrijfsjurist wordt machtiging verleend voor het vertegenwoordigen van de Rijksorganisatie Beveiliging en Logistiek in civiele, bestuursrechtelijke en strafrechtelijke procedures waaronder het namens de Rijksorganisatie Beveiliging en Logistiek behandelen van bezwaar- en beroepszaken, zoals het ondertekenen van stukken in het kader van bezwaren procedures, het instellen van bezwaar en beroep, het instellen van beroep en hoger beroep bij de rechtbank en het gerechtshof en het vertegenwoordigen van de minister ter zitting.
 
@@ -140,11 +166,11 @@ Er is een mandaatregister RBL. Het register bevat namen en functies van al diege
 
 4. Wijziging van dit besluit geschiedt op initiatief van de directeur na advies van de bedrijfsjurist.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2025.
 
-#### Artikel 11. Verwijzing van dit besluit
+##### Artikel 11. Verwijzing van dit besluit
 
 Dit besluit wordt aangehaald als: Organisatie- en mandaatbesluit RBL 2025.
 

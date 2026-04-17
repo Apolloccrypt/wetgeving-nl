@@ -1,13 +1,35 @@
 ---
-title: "Besluit archiefoverdrachten rijksadministratie"
+title: "Besluit van 9 november 1988, houdende voorschriften met betrekking tot de overgang van archiefbescheiden in geval van organisatieverandering bij de rijksadministratie"
 identifier: "BWBR0004427"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 1988-12-15
-laatste_update: 1988-12-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004427"
+country: "nl"
+rank: "kb"
+publication_date: "1988-12-15"
+last_updated: "1988-12-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004427"
+soort: "KB"
+stam_id: "194843"
+version_id: "266502"
+internal_id: "C266501"
+label_id: "192054"
+dtd_version: "2.0"
+original_entry_into_force: "1988-12-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004427/1988-12-15/0"
+intitule_bron: "Stb.1988-541"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1988-11-09"
+intitule_status: "goed"
+original_publication: "Stb.1988-541"
+original_signed_date: "1988-11-09"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1988-12-15"
+jci_1_3: "jci1.3:c:BWBR0004427&z=1988-12-15&g=1988-12-15"
+jci_1_0: "1.0:c:BWBR0004427&g=1988-12-15"
+citeertitel_status: "officieel"
+short_title: "Besluit archiefoverdrachten rijksadministratie"
+signed_date: "1988-11-09"
+entry_into_force: "1988-12-15"
 ---
-
 # Besluit van 9 november 1988, houdende voorschriften met betrekking tot de overgang van archiefbescheiden in geval van organisatieverandering bij de rijksadministratie
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken van 21 oktober 1988, nr. IBI88/48/U19-B, directoraat-generaal Openbaar Bestuur;
@@ -20,7 +42,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -44,7 +66,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. Archiefoverdrachten
 
-#### Artikel 2. Reorganisatie
+##### Artikel 2. Reorganisatie
 
 1. De archiefbescheiden betreffende zaken welke op het moment van reorganisatie nog niet zijn afgedaan, worden overgedragen aan het archiefvormende onderdeel binnen hetzelfde ministerie of het andere overheidsorgaan, dat deze zaken zal afdoen. Van een overdracht binnen hetzelfde ministerie wordt een proces-verbaal opgemaakt. Van een overdracht aan een ander overheidsorgaan wordt een verklaring van vervreemding opgemaakt.
 
@@ -54,7 +76,7 @@ In dit besluit wordt verstaan onder:
 
 4. Indien de ordening van de in het tweede lid bedoelde archiefbescheiden zich verzet tegen uitlening of terbeschikkingstelling, zijn het in het derde lid bedoelde archiefvormende onderdeel of andere overheidsorgaan te allen tijde bevoegd inzage te nemen van die archiefbescheiden dan wel daarvan of daaruit reprodukties, afschriften of uittreksels te vorderen.
 
-#### Artikel 3. Opheffing
+##### Artikel 3. Opheffing
 
 1. Op de archiefbescheiden betreffende zaken welke op het moment van opheffing nog niet zijn afgedaan, is het bepaalde in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004427&paragraaf=2&artikel=2&z=1988-12-15&g=1988-12-15), van overeenkomstige toepassing.
 
@@ -64,7 +86,7 @@ In dit besluit wordt verstaan onder:
 
 4. Indien de ordening van de in het tweede lid bedoelde archiefbescheiden zich verzet tegen uitlening of terbeschikkingstelling, zijn het in het derde lid bedoelde archiefvormende onderdeel of andere overheidsorgaan te allen tijde bevoegd inzage te nemen van die archiefbescheiden dan wel daarvan of daaruit reprodukties, afschriften of uittreksels te vorderen.
 
-#### Artikel 4. Privatisering
+##### Artikel 4. Privatisering
 
 1. De archiefbescheiden betreffende zaken welke op het moment van privatisering nog niet zijn afgedaan, worden tijdelijk ter beschikking gesteld aan de rechtspersoon waaraan die taken worden overgedragen.
 
@@ -82,17 +104,17 @@ In dit besluit wordt verstaan onder:
 
 #### § 3. Overgangs- en slotbepalingen
 
-#### Artikel 5
+##### Artikel 5
 
 1. De voor de inwerkingtreding van dit besluit getroffen voorzieningen met betrekking tot het beheer van archiefbescheiden in geval van reorganisatie, opheffing of privatisering blijven gehandhaafd, totdat zij, voor zover nodig, met de bepalingen van dit besluit in overeenstemming zijn gebracht.
 
 2. Het bepaalde in het eerste lid is niet van toepassing, indien een zodanige voorziening bij of krachtens enige wet is getroffen dan wel indien de desbetreffende archiefbescheiden reeds zijn overgebracht naar een archiefbewaarplaats in de zin van de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) 1962.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit kan worden aangehaald als Besluit archiefoverdrachten rijksadministratie.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
 

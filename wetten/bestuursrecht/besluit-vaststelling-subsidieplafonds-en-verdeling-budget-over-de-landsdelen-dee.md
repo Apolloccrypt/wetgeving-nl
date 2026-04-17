@@ -1,20 +1,46 @@
 ---
-title: "Besluit vaststelling subsidieplafonds en verdeling budget over de landsdelen Deelregeling Programma- en Presentatiebijdrage Fonds Podiumkunsten"
+title: "Besluit van de Raad van Bestuur van het Fonds Podiumkunsten tot vaststelling van subsidieplafonds en verdeling budget over de landsdelen Deelregeling Programma- en Presentatiebijdrage Fonds Podiumkunsten"
 identifier: "BWBR0051593"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-10-08
-laatste_update: 2025-10-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051593"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-10-08"
+last_updated: "2025-10-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051593"
+soort: "zbo"
+stam_id: "17546423"
+version_id: "30962482"
+internal_id: "C44345721"
+label_id: "17447834"
+dtd_version: "2.0"
+original_entry_into_force: "2025-10-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051593/2025-10-08/0"
+intitule_bron: "Stcrt.2025-33496"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-09-25"
+intitule_published: "2025-10-08"
+intitule_in_force: "2025-10-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-33496"
+original_signed_date: "2025-09-25"
+original_published_date: "2025-10-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-33496"
+entry_into_force_date: "2025-10-08"
+jci_1_3: "jci1.3:c:BWBR0051593&z=2025-10-08&g=2025-10-08"
+jci_1_0: "1.0:c:BWBR0051593&g=2025-10-08"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling subsidieplafonds en verdeling budget over de landsdelen Deelregeling Programma- en Presentatiebijdrage Fonds Podiumkunsten"
+signed_date: "2025-09-25"
+entry_into_force: "2025-10-08"
 ---
-
 # Besluit van de Raad van Bestuur van het Fonds Podiumkunsten tot vaststelling van subsidieplafonds en verdeling budget over de landsdelen Deelregeling Programma- en Presentatiebijdrage Fonds Podiumkunsten
 
 Op basis van [artikel 1.4 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051544&artikel=1.4), [artikel 1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0051544&artikel=1.10) en [artikel 2.2. van de Deelregeling Programma- en Presentatiebijdrage Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0051544&artikel=2.2)
 
 Besluit:
 
-#### Artikel 1. Subsidieplafonds
+##### Artikel 1. Subsidieplafonds
 
 Voor de periode 1 juli 2026 tot en met 30 juni 2028 zijn per subsidiejaar de volgende bedragen beschikbaar voor het verstrekken van programma- en presentatiesubsidies:
 
@@ -22,7 +48,7 @@ Onderdeel a (focus op geografische spreiding): € 1.200.000;
 
 Onderdeel b (focus op onderscheidende programmering): € 505.000.
 
-#### Artikel 2. Subsidieplafond per landsdeel
+##### Artikel 2. Subsidieplafond per landsdeel
 
 Voor de periode 1 juli 2026 t/m 30 juni 2028 zijn voor onderdeel a per subsidiejaar de volgende bedragen beschikbaar:
 
@@ -38,15 +64,15 @@ West: € 276.000
 
 CdK: € 108.000.
 
-#### Artikel 3. Uiterste indiendatum
+##### Artikel 3. Uiterste indiendatum
 
 Aanvragen moeten uiterlijk op 3 december 2025 zijn ontvangen.
 
-#### Artikel 4. Subsidiebedragen
+##### Artikel 4. Subsidiebedragen
 
 Voor de periode van 1 juli 2026 tot en met 30 juni 2028 zijn de subsidiebedragen per subsidiejaar vastgesteld overeenkomstig de tabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051593&bijlage=1&z=2025-10-08&g=2025-10-08) bij dit besluit.
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 - a. Dit besluit wordt bekendgemaakt via de website van het Fonds Podiumkunsten en gepubliceerd in de Staatscourant
 

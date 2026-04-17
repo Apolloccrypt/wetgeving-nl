@@ -1,18 +1,43 @@
 ---
 title: "Reglement werkwijze Klachtenadviescommissie Wsnp II"
 identifier: "BWBR0034028"
-categorie: "Sociaal recht"
-publicatiedatum: 2013-10-20
-laatste_update: 2013-10-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034028"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-10-20"
+last_updated: "2013-10-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034028"
+soort: "ministeriele-regeling"
+stam_id: "12398513"
+version_id: "20807312"
+internal_id: "C29879871"
+label_id: "12369554"
+dtd_version: "2.0"
+original_entry_into_force: "2013-10-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034028/2013-10-20/0"
+intitule_bron: "Stcrt.2013-29033"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-10-08"
+intitule_published: "2013-10-18"
+intitule_in_force: "2013-10-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-29033"
+original_signed_date: "2013-10-08"
+original_published_date: "2013-10-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-29033"
+entry_into_force_date: "2013-10-20"
+jci_1_3: "jci1.3:c:BWBR0034028&z=2013-10-20&g=2013-10-20"
+jci_1_0: "1.0:c:BWBR0034028&g=2013-10-20"
+citeertitel_status: "officieel"
+signed_date: "2013-10-08"
+entry_into_force: "2013-10-20"
 ---
-
 # Reglement werkwijze Klachtenadviescommissie Wsnp II
 
 ### 1. Begrippenomschrijving
 
-#### Artikel 1
+##### Artikel 1
 
 In dit reglement wordt verstaan onder:
 
@@ -46,13 +71,13 @@ In dit reglement wordt verstaan onder:
 
 ### 2. Samenstelling, taken en bevoegdheden van de commissie
 
-#### Artikel 2
+##### Artikel 2
 
 1). De commissie heeft op grond van [artikel 3 van de klachtenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0032998&artikel=3) tot taak het onderzoeken en beoordelen van een klacht over een bewindvoerder die bij de raad is ingediend en die door de raad in behandeling is genomen.
 
 2). Naar aanleiding van haar bevindingen adviseert de Commissie de raad gemotiveerd en schriftelijk over iedere afzonderlijke klacht en doet zo nodig algemene aanbevelingen omtrent te nemen maatregelen ter zake het optreden van bewindvoerders die zijn ingeschreven in het bewindvoerderregister.
 
-#### Artikel 3
+##### Artikel 3
 
 1). De Commissie bestaat uit ten minste drie leden en maximaal zeven leden, waaronder ten minste de voorzitter of de plaatsvervangend voorzitter. Er kunnen plaatsvervangende leden worden benoemd.
 
@@ -64,7 +89,7 @@ In dit reglement wordt verstaan onder:
 
 ### 3. Besluitvorming
 
-#### Artikel 4
+##### Artikel 4
 
 1). De Commissie besluit over een advies met meerderheid van stemmen.
 
@@ -74,7 +99,7 @@ In dit reglement wordt verstaan onder:
 
 4). Bij ontstentenis van de voorzitter komen de bevoegdheden van de voorzitter toe aan de plaatsvervangend voorzitter.
 
-#### Artikel 5
+##### Artikel 5
 
 1). De Commissie toetst in het advies haar onderzoeksbevindingen aan de wet, de gedragscode en de maatschappelijke betamelijkheid voor bewindvoerders.
 
@@ -82,7 +107,7 @@ In dit reglement wordt verstaan onder:
 
 ### 4. Onafhankelijkheid en onpartijdigheid
 
-#### Artikel 6
+##### Artikel 6
 
 1). Klager en beklaagde kunnen bezwaar maken tegen de deelneming van een lid van de commissie aan de behandeling van de klacht (wraking) op grond van feiten en omstandigheden ten aanzien van dat commissielid, die het vormen van een onpartijdig en onafhankelijk oordeel over de klacht zouden kunnen bemoeilijken.
 
@@ -104,7 +129,7 @@ In dit reglement wordt verstaan onder:
 
 ### 5. Jaarverslag
 
-#### Artikel 7
+##### Artikel 7
 
 1). De Commissie stelt jaarlijks een openbaar verslag op, waarin ten minste het aantal en de aard van de door haar behandelde klachten wordt vermeld.
 
@@ -112,7 +137,7 @@ In dit reglement wordt verstaan onder:
 
 ### 6. Citeertitel en inwerkingtreding
 
-#### Artikel 8
+##### Artikel 8
 
 Dit reglement kan worden aangehaald als het ‘**Reglement werkwijze Klachtenadviescommissie Wsnp II**’ en treedt twee dagen na publicatie in de Staatscourant in werking.
 

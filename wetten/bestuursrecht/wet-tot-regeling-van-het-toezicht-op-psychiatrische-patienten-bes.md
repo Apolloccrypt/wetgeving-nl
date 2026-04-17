@@ -1,18 +1,44 @@
 ---
-title: "Wet tot regeling van het toezicht op psychiatrische patiënten BES"
+title: "Wet tot regeling van het toezicht op krankzinnigen BES"
 identifier: "BWBR0028223"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028223"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028223"
+soort: "wet-BES"
+stam_id: "10710853"
+version_id: "17675822"
+internal_id: "C24824591"
+label_id: "10685914"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028223/2024-01-01/0"
+intitule_bron: "Stb.2010-635"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-09"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-635"
+original_signed_date: "2010-09-09"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-635"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028223&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0028223&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet tot regeling van het toezicht op psychiatrische patiënten BES"
+signed_date: "2010-09-09"
+entry_into_force: "2010-10-10"
 ---
-
 # Wet tot regeling van het toezicht op krankzinnigen BES
 
 #### § I. Psychiatrische ziekenhuizen tot verpleging en tot voorloopige opneming van psychiatrische patiënten
 
-#### Artikel 1
+##### Artikel 1
 
 In de artikelen van deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In de artikelen van deze wet en de daarop berustende bepalingen wordt verstaan o
 
 - h. **psychiatrisch ziekenhuis:** een zorginstelling, of onderdeel daarvan, bestemd voor de medische en verpleegkundige verzorging van psychiatrische patiënten.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. Onze Minister wijst ten behoeve van de openbare lichamen ten minste één psychiatrisch ziekenhuis aan.
 
@@ -40,7 +66,7 @@ In de artikelen van deze wet en de daarop berustende bepalingen wordt verstaan o
 
 3. Bij of krachtens algemene maatregel van bestuur worden geregeld naast het algemene toezicht, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028223&paragraaf=II&artikel=6&z=2024-01-01&g=2024-01-01), het bijzondere toezicht op, het bestuur van, de voorwaarden voor de opneming en verpleging, waaronder de verpleeggelden, in een psychiatrisch ziekenhuis, bedoeld in het tweede lid.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Tot oprichting van een particulier psychiatrisch ziekenhuis is de vergunning van Onze Minister vereist. Deze kan daaraan zodanige voorwaarden, waaronder de maximaal in rekening te brengen verpleeggelden, verbinden als hij in het belang van een deugdelijke uitvoering van deze wet noodzakelijk acht.
 
@@ -48,13 +74,13 @@ In de artikelen van deze wet en de daarop berustende bepalingen wordt verstaan o
 
 3. Een particulier psychiatrisch ziekenhuis is uitsluitend tot verpleging van psychiatrische patiënten bestemd.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onder het bestuur of de bestuurder en onder de eerste geneeskundige van een particulierpsychiatrisch ziekenhuis, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028223&paragraaf=I&artikel=2&z=2024-01-01&g=2024-01-01), wordt in het bij of krachtens deze wet bepaalde verstaan het orgaan of lid van het orgaan van het ziekenhuis dat onderscheidenlijk de aan het ziekenhuis verbonden geneeskundige die ingevolge de op het ziekenhuis toepasselijke bepalingen met de betreffende bestuurlijke of geneeskundige aangelegenheid belast is of tot de behartiging daarvan het meest aangewezen is.
 
 2. Aan een particulier psychiatrisch ziekenhuis moet tenminste één bevoegde geneeskundige zijn verbonden.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien een particulier psychiatrisch ziekenhuis zonder vergunning van Onze Minister is opgericht, wordt het op diens last gesloten.
 
@@ -64,13 +90,13 @@ Het besluit tot sluiting van een ziekenhuis wordt met redenen omkleed en in de S
 
 Bij sluiting van een ziekenhuis worden de daarin verpleegde psychiatrische patiënten op kosten van hen, voor wier rekening zij verpleegd worden, binnen een door Onze Minister te stellen termijn, door de zorg van de inspecteur, overgebracht naar andere psychiatrische ziekenhuizen.
 
-#### Artikel 5
+##### Artikel 5
 
 Bij of krachtens algemene maatregel van bestuur worden de plaatsen tot voorlopige opneming van psychiatrische patiënten aangewezen en worden voorschriften vastgesteld waaraan die plaatsen moeten voldoen.
 
 #### § II. Toezicht op verpleging van psychiatrische patiënten en op psychiatrische ziekenhuizen
 
-#### Artikel 6
+##### Artikel 6
 
 1. Hij die een psychiatrische patiënt verpleegt, is gehouden daarvan binnen tweemaal vierentwintig uur na aanvang van de verpleging aangifte te doen aan de Gezaghebber.
 
@@ -80,7 +106,7 @@ Bij of krachtens algemene maatregel van bestuur worden de plaatsen tot voorlopig
 
 4. De geneeskundige, bedoeld in het derde lid, stelt de Gezaghebber onverwijld van zijn diagnose in kennis.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onverminderd het elders in de artikelen van deze wet bepaalde, zijn de ambtenaren van de Inspectie gezondheidszorg en jeugd belast met het toezicht op de naleving van het bij of krachtens deze wet bepaalde.
 
@@ -108,25 +134,25 @@ Bij of krachtens algemene maatregel van bestuur worden de plaatsen tot voorlopig
 
 8. Zij, die psychiatrische patiënten verplegen of die een psychiatrisch ziekenhuis besturen, alsmede de daaraan verbonden geneeskundigen, geven aan de Procureur-Generaal, de inspecteur en aan de Gezaghebber van het betrokken openbaar lichaam de verlangde inlichtingen.
 
-#### Artikel 8
+##### Artikel 8
 
 [vervallen]
 
-#### Artikel 9
+##### Artikel 9
 
 [vervallen]
 
-#### Artikel 10
+##### Artikel 10
 
 1. Van elke toepassing van een dwangmiddel op een verpleegde in een psychiatrisch ziekenhuis wordt dagelijks aanteekening gehouden in een register, ingericht naar een bij of krachtens algemene maatregel van bestuur vast te stellen model.
 
 2. Dit register wordt, behalve aan de inspecteur, op verlangen voorgelegd aan de Procureur-Generaal en de Gezaghebber van het betrokken openbaar lichaam.
 
-#### Artikel 11
+##### Artikel 11
 
 De inspecteur of een Gezaghebber bevindende, dat een psychiatrische patiënt buiten een psychiatrisch ziekenhuis wordt verwaarloosd, of in een niet voor de verpleging van psychiatrische patiënten doelmatige woning wordt verpleegd, geeft hiervan onmiddellijk kennis aan den Procureur-generaal.
 
-#### Artikel 12
+##### Artikel 12
 
 Bij hunne op onbepaalde tijden, doch althans eenmaal in de drie maanden, aan de psychiatrische ziekenhuizen te brengen bezoeken verzekeren de Procureur-generaal, de inspecteur of de betrokken Gezaghebber zich dat niemand wederrechtelijk daarin geplaatst of teruggehouden wordt en dat de verpleegden behoorlijk worden behandeld.
 
@@ -134,19 +160,19 @@ Het bestuur van het ziekenhuis zendt aan de Procureur-generaal binnen tweemaal v
 
 #### § III. Plaatsing en verblijf in een psychiatrisch ziekenhuis
 
-#### Artikel 13
+##### Artikel 13
 
 Ieder meerderjarig bloedverwant of aangehuwde in de rechte linie onbepaald en in de zijlinie tot den derden graad ingesloten, alsmede de echtgenoot, voogd of curator van een psychiatrische patiënt, zijn bevoegd om aan den Gezaghebber van het openbaar lichaam waar de psychiatrische patiënt woont, machtiging te verzoeken om den psychiatrische patiënt voorloopig in een psychiatrisch ziekenhuis te doen plaatsen in het belang der openbare orde of in dat van den lijder.
 
 Weigert de Gezaghebber dan kunnen de verzoekers zich wenden tot het Gemeenschappelijk Hof.
 
-#### Artikel 14
+##### Artikel 14
 
 De Gezaghebber, of krachtens opdracht van de Gezaghebber, de ambtenaar van politie die is aangesteld voor de uitvoering van de politietaak, kan bij ontstentenis van de in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028223&paragraaf=III&artikel=13&z=2024-01-01&g=2024-01-01) vermelde personen de voorlopige plaatsing in een psychiatrisch ziekenhuis ambtshalve bij bevelschrift gelasten.
 
 Hij is, indien de in [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028223&paragraaf=III&artikel=13&z=2024-01-01&g=2024-01-01) vermelde personen van hunne bevoegdheid geen gebruik maken, daartoe verplicht, wanneer hij de plaatsing van den psychiatrische patiënt onder verzekerd toezicht, in het belang der openbare orde of ter voorkoming van ongelukken, noodzakelijk acht, of wanneer het hem gebleken is, dat een psychiatrische patiënt verwaarloosd wordt.
 
-#### Artikel 15
+##### Artikel 15
 
 In spoedeischende gevallen kunnen de Gezaghebbers psychiatrische patiënten, die zich binnen hun ressort bevinden, in bewaring doen stellen.
 
@@ -158,7 +184,7 @@ De duur van het in bewaring stellen mag nooit langer zijn dan strikt noodzakelij
 
 Zoo spoedig mogelijk worden de noodige maatregelen genomen voor de voorloopige plaatsing in een psychiatrisch ziekenhuis.
 
-#### Artikel 16
+##### Artikel 16
 
 Een meerderjarige die het op grond van zijn toestand wenselijk acht zich te doen verplegen in een psychiatrisch ziekenhuis, kan schriftelijk verzoeken daarin opgenomen te worden.
 
@@ -166,7 +192,7 @@ Degene die op eigen verzoek in een psychiatrisch ziekenhuis is opgenomen, zal ui
 
 De [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028223&paragraaf=III&artikel=13&z=2024-01-01&g=2024-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028223&paragraaf=III&artikel=14&z=2024-01-01&g=2024-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028223&paragraaf=III&artikel=15&z=2024-01-01&g=2024-01-01) zijn niet van toepassing op de in dit artikel bedoelde personen.
 
-#### Artikel 17
+##### Artikel 17
 
 Bij het in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028223&paragraaf=III&artikel=13&z=2024-01-01&g=2024-01-01) bedoelde verzoek moet worden overgelegd eene uiterlijk drie dagen vóór het verzoek opgemaakte, onderteekende en met redenen omkleede verklaring van een geneeskundige, als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028223&paragraaf=II&artikel=6&z=2024-01-01&g=2024-01-01), waaruit blijkt, dat de persoon voor wien plaatsing in een psychiatrisch ziekenhuis verlangd wordt, lijdt aan een psychiatrische aandoening.
 
@@ -174,7 +200,7 @@ Bij de verzoeken kunnen bovendien omstandigheden vermeld en bescheiden overgeleg
 
 De Gezaghebbers geven in den regel ambtshalve geen bevel tot voorlopige plaatsing in een psychiatrisch ziekenhuis af, dan na ontvangst van eene verklaring van een geneeskundige als in dit artikel bedoeld.
 
-#### Artikel 18
+##### Artikel 18
 
 De betrokken Gezaghebber is bevoegd, alvorens op het verzoek bedoeld in [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028223&paragraaf=III&artikel=13&z=2024-01-01&g=2024-01-01) te beschikken, den persoon, wiens plaatsing verzocht is, zijne bloedverwanten of aangehuwden, zijn echtgenoot, voogd of curator daarover te hooren, wat eerstgenoemde betreft zoo noodig in tegenwoordigheid van een geneeskundige door den Gezaghebber zelven aan te wijzen.
 
@@ -182,7 +208,7 @@ Wanneer de te hooren persoon niet ter plaatse aanwezig is, kan de betrokken Geza
 
 Het bevel van den Gezaghebber kan, na een daarin te bepalen termijn van ten hoogste zes maanden, niet meer ten uitvoer gelegd worden.
 
-#### Artikel 19
+##### Artikel 19
 
 De opneming van een psychiatrische patiënt in een psychiatrisch ziekenhuis geschiedt tegen overlegging van een gewaarmerkt afschrift van het in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028223&paragraaf=III&artikel=14&z=2024-01-01&g=2024-01-01) bedoeld bevelschrift.
 
@@ -190,25 +216,25 @@ Ingeval de rechter oordelende in strafzaken, met toepassing van het tweede lid v
 
 Dit uittreksel en de expeditie van de in de [artt. 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028223&paragraaf=III&artikel=23&z=2024-01-01&g=2024-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0028223&paragraaf=III&artikel=24&z=2024-01-01&g=2024-01-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0028223&paragraaf=IV&artikel=29&z=2024-01-01&g=2024-01-01) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0028223&paragraaf=IV&artikel=30&z=2024-01-01&g=2024-01-01) bedoelde rechterlijke beschikkingen moeten aan het bestuur van het psychiatrisch ziekenhuis worden overgelegd; zij worden vermeld in en bewaard bij een register, ingericht naar een bij of krachtens algemene maatregel van bestuur vast te stellen model.
 
-#### Artikel 20
+##### Artikel 20
 
 Bij elke plaatsing van een psychiatrische patiënt in een psychiatrisch ziekenhuis geeft de betrokken Gezaghebber daarvan onverwijld kennis aan de personen in [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028223&paragraaf=III&artikel=13&z=2024-01-01&g=2024-01-01) vermeld.
 
 De Gezaghebber zendt een afschrift van zijn bevel en de geneeskundige verklaring op grond waarvan het bevel is gegeven, ten spoedigste aan de Procureur-Generaal.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Gedurende de eerste vier weken na iemands opneming houdt de geneeskundige van het psychiatrisch ziekenhuis, die den opgenomene behandelt, in een daartoe bestemd register, waarvan het model bij of krachtens algemene maatregel van bestuur wordt vastgesteld, dagelijks aanteekening van zijne bevinding.
 
 2. Na den afloop der eerste vier weken geschiedt gelijke aanteekening gedurende een half jaar, ten minste wekelijks en daarna ten minste maandelijks.
 
-#### Artikel 22
+##### Artikel 22
 
 Binnen vijf weken na iemands opneming wordt door den Procureur-generaal een afschrift van de in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028223&paragraaf=III&artikel=21&z=2024-01-01&g=2024-01-01), bedoelde aantekeningen met een requisitoir om den opgenomene gedurende een bepaalden tijd, dien van één jaar niet te boven gaande, in een psychiatrisch ziekenhuis te doen verblijven, ingediend aan het Gemeenschappelijk Hof.
 
 Het requisitoir gaat vergezeld van eene met redenen omkleede verklaring van den geneesheer van het ziekenhuis, of, indien er meer zijn, van den eersten geneeskundige omtrent het noodzakelijke of wenschelijke eener verdere verpleging in een psychiatrisch ziekenhuis.
 
-#### Artikel 23
+##### Artikel 23
 
 Over het requisitoir kan door het Gemeenschappelijk Hof worden beschikt op de in [Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028223&paragraaf=III&artikel=22&z=2024-01-01&g=2024-01-01) vermelde bescheiden.
 
@@ -224,7 +250,7 @@ Bij afwijzende beschikking op het requisitoir van den Procureur-generaal gelast 
 
 De beschikking van het Gemeenschappelijk Hof wordt gesteld op het requisitoir.
 
-#### Artikel 24
+##### Artikel 24
 
 Ten hoogste één maand en ten minste veertien dagen vóór het verstrijken van den tijd, waarvoor het Gemeenschappelijk Hof iemands verblijf in een psychiatrisch ziekenhuis heeft vergund, wordt door den geneeskundige van het ziekenhuis of, indien er meer zijn door den eerste geneeskundige aan den Procureur-generaal aan afschrift gezonden van de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0028223&paragraaf=III&artikel=21&z=2024-01-01&g=2024-01-01) bedoelde aanteekeningen, vergezeld van zijne met redenen omkleede verklaring omtrent de noodzakelijke of wenschelijke eener verdere verpleging in een psychiatrisch ziekenhuis.
 
@@ -238,7 +264,7 @@ De verpleegde, te wiens aanzien machtiging tot verlengd verblijft in een psychia
 
 Bij weigering der machtiging gelast het Gemeenschappelijk Hof tevens, dat de persoon, wiens verder verblijf in een psychiatrisch ziekenhuis is gerequireerd, onmiddellijk uit het ziekenhuis worde ontslagen.
 
-#### Artikel 25
+##### Artikel 25
 
 De plaatsing van een verdachte in een psychiatrisch ziekenhuis op grond van [artikel 360 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=360) geschiedt zonder nadere formaliteiten, alleen op grond van de beschikking van de president van het Gemeenschappelijk Hof of van de rechter in eerste aanleg.
 
@@ -252,11 +278,11 @@ Zoo het rapport de verklaring inhoudt, dat de opgenomene leidt aan een psychiatr
 
 Houdt het rapport de verklaring in, dat de opgenomene niet leidt aan een psychiatrische aandoening, dan geeft de President van het Gemeenschappelijk Hof of de betrokken rechter in eersten aanleg last tot onmiddellijk ontslag uit het ziekenhuis, met bevel dat de beklaagde weder ter beschikking der Justitie worde gesteld.
 
-#### Artikel 25a
+##### Artikel 25a
 
 Op de plaatsing van een verdachte in een psychiatrisch ziekenhuis op grond van [artikel 175 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=175) is [artikel 25, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028223&paragraaf=III&artikel=25&z=2024-01-01&g=2024-01-01), van overeenkomstige toepassing.
 
-#### Artikel 26
+##### Artikel 26
 
 Een psychiatrische patiënt, die krachtens eene rechterlijke machtiging in een psychiatrisch ziekenhuis is opgenomen, kan zonder nadere machtiging naar een ander psychiatrisch ziekenhuis worden overgebracht binnen den termijn bij de laatst verleende machtiging gesteld.
 
@@ -264,7 +290,7 @@ Ingeval van overbrenging worden de den psychiatrische patiënt betreffende stukk
 
 #### § IV. Verlof en ontslag uit een psychiatrisch ziekenhuis
 
-#### Artikel 27
+##### Artikel 27
 
 Door den geneeskundige of, zoo er meer zijn, door den eerste geneeskundige van een psychiatrisch ziekenhuis, kan in overleg met het bestuur aan een ieder die daarin is opgenomen, met toestemming van hem, die de opneming heeft verzocht, verlof worden verleend om het psychiatrisch ziekenhuis voor een bepaalden tijd te verlaten.
 
@@ -272,7 +298,7 @@ Ingeval de verpleegde onder ouderlijk gezag, voogdij of curateele staat, is daar
 
 Het ingaan van het verlof en de terugkeer in het psychiatrisch ziekenhuis worden op het in [Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028223&paragraaf=III&artikel=19&z=2024-01-01&g=2024-01-01) vermeld register aangeteekend.
 
-#### Artikel 28
+##### Artikel 28
 
 Ontslag wordt verleend door het bestuur van het psychiatrisch ziekenhuis:
 
@@ -296,7 +322,7 @@ De terugkeer in de maatschappij wordt door den genoemde geneeskundige van het ps
 
 Zijn de in de eerste zinsnede van het vorige lid bedoelde personen niet bekend of onthouden zij hunne medewerking, zoo kan de hulp van den Gezaghebber van het openbaar lichaam, waarop het psychiatrisch ziekenhuis gelegen is, tot de opzending van de ontslagene naar zijn woonplaats worden ingeroepen. Hetzelfde geldt bij het ontslag van hen, die op eigen verzoek in het psychiatrisch ziekenhuis zijn opgenomen.
 
-#### Artikel 29
+##### Artikel 29
 
 In ieder der gevallen, bedoeld bij [Artikel 28, eerste lid, sub 2, en tweede lid, sub a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028223&paragraaf=IV&artikel=28&z=2024-01-01&g=2024-01-01), beoordeelt de geneeskundige, of zoo er meer zijn, de eerste geneeskundige van het ziekenhuis vooraf of het ontslag kan plaats hebben, zonder gevaar voor stoornis van de openbare orde of voor ongelukken.
 
@@ -306,7 +332,7 @@ De Procureur-generaal vraagt onmiddellijk na ontvangst dezer stukken de beslissi
 
 Zoolang het Gemeenschappelijk Hof beraadslaagt wordt het gevraagde ontslag niet verleend. Het Gemeenschappelijk Hof kan vóór het nemen eener beslissing een nader onderzoek bevelen. Het tweede lid en de volgende zinsneden van [Artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028223&paragraaf=III&artikel=23&z=2024-01-01&g=2024-01-01) zijn daarbij van toepassing.
 
-#### Artikel 30
+##### Artikel 30
 
 Bevindt de Procureur-generaal, dat een verpleegde in een psychiatrisch ziekenhuis op onwettige wijze is opgenomen of gehouden, zoo beveelt hij diens onmiddellijk ontslag, tenzij dit niet zonder gevaar voor stoornis van de openbare orde of voor ongelukken kan geschieden.
 
@@ -318,23 +344,23 @@ Bij gemis van die instemming vraagt de Procureur-generaal de beslissing van het 
 
 #### § V. Beheer der goederen van verpleegden in een psychiatrisch ziekenhuis en hunne onder curateele stelling
 
-#### Artikel 31
+##### Artikel 31
 
 [vervallen]
 
-#### Artikel 31bis
+##### Artikel 31bis
 
 De opbrengst van den arbeid der verpleegden in de psychiatrisch ziekenhuis blijft onder bewaring van de Directeur van het psychiatrisch ziekenhuis, die haar voor ten hoogste de helft ten behoeve van den verpleegde kan aanwenden.
 
-#### Artikel 32
+##### Artikel 32
 
 [vervallen]
 
-#### Artikel 33
+##### Artikel 33
 
 [vervallen]
 
-#### Artikel 34
+##### Artikel 34
 
 Van een ondercuratelestelling, instelling van een bewind als bedoeld in [titel 19 van Boek 1 van het Burgerlijke Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&titeldeel=19) of instelling van een mentorschap, alsmede van de benoeming van een curator, bewindvoerder of mentor wordt binnen drie dagen na de dagteekening der stukken, waarbij zij plaats hebben, door de Griffier van het Gemeenschappelijk Hof bij brief kennis gegeven aan het bestuur van het psychiatrisch ziekenhuis, waarin de psychiatrische patiënt wordt verpleegd.
 
@@ -342,13 +368,13 @@ Die brief wordt bij het in [Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 #### § VI. Strafbepalingen
 
-#### Artikel 35
+##### Artikel 35
 
 Met hechtenis van ten hoogste zes maanden of geldboete van de eerste categorie wordt gestraft hij, die een psychiatrisch ziekenhuis opricht zonder vergunning van Onze Minister, of daarin psychiatrische patiënten blijft verplegen, nadat de vergunning is ingetrokken.
 
 Met dezelfde straf wordt gestraft hij, aan wiens schuld te wijten is, dat iemand zonder de vereischte machtiging in een psychiatrisch ziekenhuis voor psychiatrische patiënten is op genomen of dat een verpleegde niet wordt ontslagen wiens ontslag krachtens eene der bepalingen van de [artt. 23 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028223&paragraaf=III&artikel=23&z=2024-01-01&g=2024-01-01) en [28 tot en met 30](https://wetten.overheid.nl/jci1.3:c:BWBR0028223&paragraaf=IV&artikel=28&z=2024-01-01&g=2024-01-01) behoort te geschieden.
 
-#### Artikel 36
+##### Artikel 36
 
 Met geldboete van de eerste categorie wordt gestraft:
 
@@ -368,13 +394,13 @@ Met geldboete van de eerste categorie wordt gestraft:
 
 - E. met geldboete van de eerste categorie wordt gestraft hij, die in een der gevallen in deze wet vermeld, wettelijk als bloedverwant, aangehuwde, echtgenoot, voogd, curator of deskundige opgeroepen, zonder geldige reden van verschooning wegblijft.
 
-#### Artikel 37
+##### Artikel 37
 
 De feiten, bij deze wet strafbaar gesteld, worden beschouwd als overtredingen.
 
 #### § VII. Van de ten laste der openbare lichamen komende kosten
 
-#### Artikel 37A
+##### Artikel 37A
 
 1. De kosten, voortvloeiende uit de overbrenging van onvermogende psychiatrische patiënten naar en hun verpleging in psychiatrische ziekenhuizen voor psychiatrische patiënten, worden voldaan uit de kas van het openbaar lichaam waar de verpleegden woonplaats hadden ten tijde van de opneming in de psychiatrisch ziekenhuis.
 
@@ -388,7 +414,7 @@ De feiten, bij deze wet strafbaar gesteld, worden beschouwd als overtredingen.
 
 #### § VIII. Voorschot en verhaal van kosten
 
-#### Artikel 38
+##### Artikel 38
 
 Door de openbare lichamen worden, bij gebreke van tijdige betaling op andere wijzen, als voorschot voldaan de kosten voortvloeiende uit:
 
@@ -410,20 +436,20 @@ Deze kosten worden door de openbare lichamen verhaald:
 
 De kosten van verpleging in een psychiatrisch ziekenhuis worden aan de personen of de openbare lichamen sub b, c en d genoemd in rekening gebracht.
 
-#### Artikel 39
+##### Artikel 39
 
 Het verhaal geschiedt uit kracht van een bevelschrift van ten uitvoerlegging van den President van het Gemeenschappelijk Hof, gesteld op de daartoe aan dien ambtenaar over te leggen behoorlijk gesplitste en zooveel mogelijk door bewijsstukken gerechtvaardigde staten van kosten.
 
 #### § IX. Slot en overgangsbepalingen
 
-#### Artikel 40
+##### Artikel 40
 
 De stukken vereischt tot de opneming, het verblijf, de verplaatsing, het verlof en het ontslag van personen in en uit psychiatrische ziekenhuizen zijn vrij van zegel.
 
-#### Artikel 41
+##### Artikel 41
 
 Deze wet wordt aangehaald als: Wet tot regeling van het toezicht op psychiatrische patiënten BES.
 
-#### Artikel 42
+##### Artikel 42
 
 [vervallen]

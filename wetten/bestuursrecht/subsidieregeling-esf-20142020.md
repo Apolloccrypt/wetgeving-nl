@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling ESF 2014–2020"
+title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 31 maart 2014, 2014-0000040627, tot de besteding van gelden uit het Europees Sociaal Fonds 2014–2020"
 identifier: "BWBR0035033"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-09-16
-laatste_update: 2025-09-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035033"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-09-16"
+last_updated: "2025-09-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035033"
+soort: "ministeriele-regeling"
+stam_id: "12644653"
+version_id: "28077022"
+internal_id: "C39598761"
+label_id: "12615094"
+dtd_version: "2.0"
+original_entry_into_force: "2021-10-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035033/2025-09-16/0"
+intitule_bron: "Stcrt.2014-9796"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-03-31"
+intitule_published: "2014-04-08"
+intitule_in_force: "2014-04-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-42980"
+original_signed_date: "2021-10-04"
+original_published_date: "2021-10-08"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2021-42980"
+entry_into_force_date: "2021-10-04"
+jci_1_3: "jci1.3:c:BWBR0035033&z=2025-09-16&g=2025-09-16"
+jci_1_0: "1.0:c:BWBR0035033&g=2025-09-16"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling ESF 2014–2020"
+signed_date: "2021-10-04"
+entry_into_force: "2021-10-04"
 ---
-
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 31 maart 2014, 2014-0000040627, tot de besteding van gelden uit het Europees Sociaal Fonds 2014–2020
 
 Gelet op [artikel 3, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3), [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=5) en [artikel 8, eerste lid, van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=8);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -110,7 +136,7 @@ In deze regeling wordt verstaan onder:
 
 - •. **ZW-uitkering:** uitkering op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
 
-#### Artikel 2. Inleidende bepaling
+##### Artikel 2. Inleidende bepaling
 
 1. De minister verstrekt, overeenkomstig deze regeling, subsidie aan de nader krachtens deze regeling aangewezen rechtspersonen die een bijdrage leveren aan de uitvoering van het programma Europees Sociaal Fonds, zoals uitgewerkt in het Operationeel Programma. De minister neemt daarbij de Verordening (EU) nr. 1303/2013 in acht.
 
@@ -122,7 +148,7 @@ In deze regeling wordt verstaan onder:
 
 5. De bepalingen in de bijlagen gelden in aanvulling op hetgeen in het algemeen deel van de regeling is vastgelegd. Voor zover de bepalingen uit de bijlagen in tegenspraak zijn met bepalingen uit het algemeen deel van de regeling, prevaleren de bepalingen in de bijlagen boven de bepalingen in het algemeen deel in de regeling.
 
-#### Artikel 3. Aanwijzing autoriteiten
+##### Artikel 3. Aanwijzing autoriteiten
 
 1. Als managementautoriteit als bedoeld in artikel 123, eerste lid van de Verordening (EU) nr. 1303/2013 wordt aangewezen de Minister van Sociale Zaken en Werkgelegenheid.
 
@@ -130,7 +156,7 @@ In deze regeling wordt verstaan onder:
 
 3. Als auditautoriteit als bedoeld in artikel 123, vierde lid van de Verordening (EU) nr. 1303/2013 wordt aangewezen de Auditdienst Rijk van het Ministerie van Financiën.
 
-#### Artikel 4. Aard van de projecten
+##### Artikel 4. Aard van de projecten
 
 1. De minister verleent met inachtneming van deze regeling en onder het voorbehoud, bedoeld in artikel 65, eerste lid, van de Verordening (EU) nr. 1303/2013 subsidie ten behoeve van projecten op het gebied van:
 
@@ -146,17 +172,17 @@ In deze regeling wordt verstaan onder:
 
 2. De hoofdstukken, bedoeld in het eerste lid, onderdelen a, b, c en d, en [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1a&z=2025-09-16&g=2025-09-16), bevatten nadere regels in het verlengde van en met inachtneming van Verordening (EU) nr. 1303/2013 en Verordening (EU) nr. 1304/2013.
 
-#### Artikel 5. Aanvraagtijdvakken en subsidieplafond
+##### Artikel 5. Aanvraagtijdvakken en subsidieplafond
 
 De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedurende door de minister vastgestelde aanvraagtijdvakken, gelegen in de jaren 2014 tot en met 2023. De minister maakt de aanvraagtijdvakken vooraf bekend in de Nederlandse Staatscourant, waarbij tevens het maximaal beschikbare bedrag per investeringsprioriteit per aanvraagtijdvak wordt vastgesteld.
 
-#### Artikel 6. Subsidieaanvrager
+##### Artikel 6. Subsidieaanvrager
 
 1. De subsidie met betrekking tot een project als bedoeld in deze regeling wordt aangevraagd door de als zodanig geregistreerde subsidieaanvrager, die per investeringsprioriteit is aangewezen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2025-09-16&g=2025-09-16) of [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1a&z=2025-09-16&g=2025-09-16) bij deze regeling.
 
 2. De registratie als subsidieaanvrager, als bedoeld in het eerste lid, vindt plaats onder gebruikmaking van een daartoe door de minister elektronisch beschikbaar gesteld formulier.
 
-#### Artikel 7. De subsidieaanvraag
+##### Artikel 7. De subsidieaanvraag
 
 1. De subsidieaanvraag heeft steeds betrekking op één project bestaande uit één of meerdere subprojecten.
 
@@ -184,7 +210,7 @@ De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedur
 
 8. De minister maakt op de website www.uitvoeringvanbeleidszw.nl een alternatieve wijze voor de registratie, het indienen van de aanvraag en de elektronische handtekening bekend, indien dit vanwege een calamiteit niet mogelijk is op de wijze bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=6&z=2025-09-16&g=2025-09-16), en het tweede lid.
 
-#### Artikel 8. Rangschikking
+##### Artikel 8. Rangschikking
 
 1. In geval het totaalbedrag van de aangevraagde subsidies met betrekking tot enige investeringsprioriteit het voor die investeringsprioriteit vastgestelde subsidieplafond te boven gaat, worden de subsidieaanvragen met betrekking tot die investeringsprioriteit door de minister afgehandeld in volgorde van het tijdstip van ontvangst.
 
@@ -192,7 +218,7 @@ De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedur
 
 3. Indien bij overschrijding van het toepasselijke subsidieplafond blijkt dat het tijdstip van ontvangst van de aanvragen op de desbetreffende dag niet is vast te stellen, zal van de op die dag ontvangen aanvragen, de volgorde van ontvangst door middel van loting worden vastgesteld.
 
-#### Artikel 9. Subsidieverlening
+##### Artikel 9. Subsidieverlening
 
 1. De minister verleent de subsidie aan de subsidieaanvrager.
 
@@ -204,7 +230,7 @@ De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedur
 
 5. In de beschikking kunnen voorwaarden worden opgenomen waaronder de subsidie wordt verleend.
 
-#### Artikel 10. Weigering van de subsidie
+##### Artikel 10. Weigering van de subsidie
 
 Een aanvraag tot verlening van subsidie wordt door de minister geheel of gedeeltelijk afgewezen, indien:
 
@@ -230,7 +256,7 @@ Een aanvraag tot verlening van subsidie wordt door de minister geheel of gedeelt
 
 - k. anderszins niet aannemelijk is op grond van diens eerdere subsidieverleningen voor vergelijkbare activiteiten dat de subsidieaanvrager de activiteiten goed zal uitvoeren en aan de subsidieverlening verbonden verplichtingen zal voldoen.
 
-#### Artikel 11. Hoogte van de subsidie
+##### Artikel 11. Hoogte van de subsidie
 
 1. De subsidie ten behoeve van projecten als bedoeld in investeringsprioriteit A, B en C bedraagt maximaal 50% van de subsidiabele kosten, doch ten hoogste het in de beschikking tot subsidieverlening vermelde maximumbedrag.
 
@@ -238,7 +264,7 @@ Een aanvraag tot verlening van subsidie wordt door de minister geheel of gedeelt
 
 3. Indien de subsidieaanvrager bij zijn subsidieaanvraag een schriftelijke toezegging heeft gedaan dan wel uit de einddeclaratie blijkt dat hij in afwijking van de maximumpercentages, genoemd in het eerste of tweede lid, een hoger percentage van de subsidiabele kosten voor eigen rekening neemt, dan wel uit een andere financieringsbron bekostigt, wordt het bedrag van de subsidie verlaagd met dit meerdere.
 
-#### Artikel 12. Subsidiabele kosten
+##### Artikel 12. Subsidiabele kosten
 
 1. Ter uitvoering van de subsidiabele activiteiten van het project, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2025-09-16&g=2025-09-16) of [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1a&z=2025-09-16&g=2025-09-16), komen voor subsidiëring de volgende kostensoorten in aanmerking:
 
@@ -294,7 +320,7 @@ Een aanvraag tot verlening van subsidie wordt door de minister geheel of gedeelt
 
 13. De minister stelt ambtshalve vast welke subsidievorm, bedoeld in het eerste of twaalfde lid, wordt toegepast, alsmede in hoeverre een eventuele combinatie van deze subsidievormen mogelijk is.
 
-#### Artikel 13. Niet-subsidiabele kosten
+##### Artikel 13. Niet-subsidiabele kosten
 
 Niet voor subsidiering komen in aanmerking:
 
@@ -312,11 +338,11 @@ Niet voor subsidiering komen in aanmerking:
 
 - g. dezelfde kosten die reeds uit hoofde van nationale subsidieprogramma’s worden gefinancierd zodanig dat de totale financiering van de subsidiabele kosten meer dan 100% bedraagt.
 
-#### Artikel 14. Bevoorschotting
+##### Artikel 14. Bevoorschotting
 
 De minister kan uitsluitend na ontvangst van het verzoek tot vaststelling van de subsidie een voorschot verlenen tot maximaal de op de datum van ontvangst van dit verzoek bekende, verschuldigde subsidie.
 
-#### Artikel 15. Administratievoorschriften
+##### Artikel 15. Administratievoorschriften
 
 1. De subsidieontvanger houdt een inzichtelijke en controleerbare administratie bij met betrekking tot de uitvoering van het project en de in verband daarmee gemaakte kosten en gerealiseerde opbrengsten. Deze administratie bestaat uit een projectadministratie, waaronder voor zover van toepassing een deelnemersadministratie, en een financiële administratie waarin alle noodzakelijke gegevens tijdig, juist en volledig zijn vastgelegd en ten behoeve van de vaststelling van de subsidiabiliteit zijn te verifiëren met bewijsstukken.
 
@@ -330,7 +356,7 @@ De minister kan uitsluitend na ontvangst van het verzoek tot vaststelling van de
 
 6. Subsidieontvanger verstrekt desgevraagd aan door de minister dan wel door de Europese Commissie daartoe aangewezen instanties inzage in of informatie uit de administratie. Tevens verstrekt hij de voornoemde instanties desgevraagd informatie over de projecten die voor monitoring en evaluatiedoeleinden gebruikt kunnen worden.
 
-#### Artikel 16. Beschikbaarheid van bescheiden
+##### Artikel 16. Beschikbaarheid van bescheiden
 
 1. Onverminderd de voorschriften voor staatssteun bewaart de subsidieontvanger alle administratieve bescheiden die betrekking hebben op het gesubsidieerde project tot tenminste 31 december 2027 dan wel tot een nader door de minister aan de subsidieontvanger schriftelijk bekend te maken termijn. Indien de Europese Commissie, vanwege een gerechtelijke vervolging of een met redenen omkleed verzoek de bewaartermijn schorst, maakt de minister de gevolgen voor de bewaartermijn, bedoeld in dit lid, in de Staatscourant bekend.
 
@@ -342,7 +368,7 @@ De minister kan uitsluitend na ontvangst van het verzoek tot vaststelling van de
 
 5. Alle administratieve bescheiden zijn beschikbaar voor de subsidieontvanger. De subsidieontvanger is en blijft verantwoordelijk voor een correcte opslag van alle administratieve bescheiden, ook als hij een derde met de opslag belast.
 
-#### Artikel 17. Rapportageverplichtingen
+##### Artikel 17. Rapportageverplichtingen
 
 1. De subsidieontvanger verstrekt, onder gebruikmaking van het daartoe door de minister elektronisch beschikbaar gestelde formulier en een door hem erkende elektronische handtekening, uiterlijk 31 december van elk kalenderjaar aan de Minister het burgerservicenummer van de deelnemers aan zijn project.
 
@@ -352,7 +378,7 @@ De minister kan uitsluitend na ontvangst van het verzoek tot vaststelling van de
 
 4. De subsidieontvanger meldt, wanneer binnen drie jaar na afloop van het project sprake is van faillissement of overgang van eigendom van een door het project gefinancierde onderneming, dit aan de minister.
 
-#### Artikel 18. Einddeclaratie en subsidievaststelling
+##### Artikel 18. Einddeclaratie en subsidievaststelling
 
 1. De subsidieontvanger dient binnen dertien weken na beëindiging van het project een verzoek tot vaststelling van de subsidie in bij de minister. Bij het verzoek tot vaststelling van de subsidie wordt een verantwoording en een einddeclaratie gevoegd. De subsidieontvanger verstrekt bij de einddeclaratie het burgerservicenummer van de deelnemers aan het project.
 
@@ -370,7 +396,7 @@ De minister kan uitsluitend na ontvangst van het verzoek tot vaststelling van de
 
 5. De minister beslist binnen 24 maanden na ontvangst van het verzoek tot vaststelling van de subsidie.
 
-#### Artikel 19. Publiciteit
+##### Artikel 19. Publiciteit
 
 1. De subsidieontvanger informeert de door hem ingeschakelde uitvoerder en de deelnemers aan projecten dat zij deelnemen aan een door het Europees Sociaal Fonds gesubsidieerd project.
 
@@ -386,11 +412,11 @@ De minister kan uitsluitend na ontvangst van het verzoek tot vaststelling van de
 
 7. De projectresultaten worden om niet beschikbaar gesteld aan de minister of door hem aangewezen derden, en de subsidieontvanger verleent medewerking aan door de minister georganiseerde publicitaire en voorlichtingsactiviteiten gericht op de media, potentiële deelnemers van projecten en het grote publiek.
 
-#### Artikel 20. Openbaar maken subsidiedossier
+##### Artikel 20. Openbaar maken subsidiedossier
 
 Door het indienen van een aanvraag stemt de subsidieontvanger er mee in dat het subsidiedossier met uitzondering van persoonsgegevens openbaar kan worden gemaakt.
 
-#### Artikel 21. Intrekking en terugvordering
+##### Artikel 21. Intrekking en terugvordering
 
 1. Onverminderd het bepaalde in [afdeling 4.2.6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.6) kan een beschikking tot subsidieverlening door de minister geheel of gedeeltelijk worden ingetrokken, en kunnen op basis daarvan uitbetaalde bedragen worden teruggevorderd:
 
@@ -408,11 +434,11 @@ Door het indienen van een aanvraag stemt de subsidieontvanger er mee in dat het 
 
 3. De minister kan het terug te vorderen bedrag verrekenen met een aan dezelfde subsidieontvanger in het kader van de Subsidieregeling ESF 2007-2013 (herzien) en deze regeling verleende en nog te betalen subsidie.
 
-#### Artikel 22. Citeertitel
+##### Artikel 22. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling ESF 2014–2020.
 
-#### Artikel 23. Inwerkingtreding
+##### Artikel 23. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
@@ -573,11 +599,11 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 ### Artikel A19. Aanvraagtijdvakken
 
-#### Artikel B1. Subsidieaanvrager
+##### Artikel B1. Subsidieaanvrager
 
 De subsidie met betrekking tot een project in het kader van dit hoofdstuk wordt aangevraagd door een arbeidsorganisatie.
 
-#### Artikel B2. Aanvraagtijdvakken
+##### Artikel B2. Aanvraagtijdvakken
 
 Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk worden door de minister ontvangen in:
 
@@ -587,7 +613,7 @@ Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk 
 
 - c. het aanvraagtijdvak van 8 april 2019, 09.00 uur, tot en met 12 april 2019, 17.00 uur.
 
-#### Artikel B3. Subsidieplafond
+##### Artikel B3. Subsidieplafond
 
 Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt:
 
@@ -597,7 +623,7 @@ Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt:
 
 - c. voor het aanvraagtijdvak, bedoeld in artikel B2, aanhef en onderdeel c, € 15.000.000.
 
-#### Artikel B4. Doel
+##### Artikel B4. Doel
 
 - 1. Een project in het kader van dit hoofdstuk heeft tot doel de bevordering van duurzame inzetbaarheid van werkenden door:
 
@@ -615,11 +641,11 @@ Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt:
 
 - d. het bevorderen van een flexibele werkcultuur, waaronder het invoeren van flexibel arbeidstijdenmanagement.
 
-#### Artikel B5. De aanvraag
+##### Artikel B5. De aanvraag
 
 Per aanvrager wordt slechts één subsidieaanvraag in behandeling genomen.
 
-#### Artikel B6. Specifieke eisen
+##### Artikel B6. Specifieke eisen
 
 Een project komt slechts voor subsidie in aanmerking indien:
 
@@ -637,7 +663,7 @@ Een project komt slechts voor subsidie in aanmerking indien:
 
 - g. voor het project ten minste € 12.000,– aan subsidiabele kosten zijn begroot.
 
-#### Artikel B7. Weigering van de subsidie
+##### Artikel B7. Weigering van de subsidie
 
 Er wordt geen subsidie verleend aan subsidieaanvragers aan wie:
 
@@ -645,7 +671,7 @@ Er wordt geen subsidie verleend aan subsidieaanvragers aan wie:
 
 - 2. op grond van enige andere subsidieregeling voor het project of vergelijkbare doeleinden subsidie is verstrekt.
 
-#### Artikel B8. Subsidiabele kosten
+##### Artikel B8. Subsidiabele kosten
 
 In afwijking van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=12&z=2025-09-16&g=2025-09-16) komen slechts voor subsidie in aanmerking de kosten van de door de adviseur investeringsprioriteit B werkelijk gerealiseerde uren voor ten minste een van onderstaande activiteiten, aantoonbaar gericht op een of meer thema’s of activiteiten uit artikel B4:
 
@@ -653,13 +679,13 @@ In afwijking van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&ar
 
 - b. het begeleiden bij het implementeren van een advies.
 
-#### Artikel B9. Hoogte subsidie
+##### Artikel B9. Hoogte subsidie
 
 1. Wanneer de aanvraag aan de eisen van dit hoofdstuk voldoet, verleent de minister een subsidie van maximaal € 12.500. Voor de berekening van de subsidie wordt het uurtarief van de ingehuurde adviseur investeringsprioriteit B bepaald op maximaal € 100,– exclusief btw.
 
 2. Voor aan de subsidieaanvrager in rekening gebrachte btw wordt geen subsidie verleend, ook niet wanneer de aanvrager niet btw-plichtig is.
 
-#### Artikel B10. Einddeclaratie en subsidievaststelling
+##### Artikel B10. Einddeclaratie en subsidievaststelling
 
 1. In afwijking van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=18&z=2025-09-16&g=2025-09-16), dient de subsidieontvanger binnen zes weken na beëindiging van het project, een verzoek tot vaststelling in bij de minister.
 
@@ -701,7 +727,7 @@ In afwijking van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&ar
 
 7. De minister beslist, in afwijking van [artikel 18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=18&z=2025-09-16&g=2025-09-16), binnen dertien weken na ontvangst van het verzoek tot vaststelling.
 
-#### Artikel B11. Uitzonderingen op algemeen deel
+##### Artikel B11. Uitzonderingen op algemeen deel
 
 De [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=7&z=2025-09-16&g=2025-09-16), en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=17&z=2025-09-16&g=2025-09-16), zijn niet van toepassing op subsidieaanvragen in het kader van dit hoofdstuk.
 
@@ -1406,7 +1432,7 @@ De [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&art
 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
 
-#### Artikel 1a. O&O-fonds
+##### Artikel 1a. O&O-fonds
 
 1. Een O&O-fonds is een stichting of vereniging die als doel heeft het optimaliseren van de werking van de arbeidsmarkt.
 
@@ -1770,7 +1796,7 @@ Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk 
 
 Vervallen.
 
-#### Artikel B8a. Niet-subsidiabele kosten
+##### Artikel B8a. Niet-subsidiabele kosten
 
 Niet voor subsidiëring komen in aanmerking:
 
@@ -2041,7 +2067,7 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
 
-#### Artikel B3a. Rangschikking
+##### Artikel B3a. Rangschikking
 
 1. In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=8&z=2025-09-16&g=2025-09-16) wordt bij overschrijding van het subsidieplafond, bedoeld in artikel B3, na afloop van het aanvraagtijdvak door middel van loting de volgorde vastgesteld waarin de ontvangen subsidieaanvragen worden afgehandeld.
 
@@ -2049,7 +2075,7 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 3. Onvolledige subsidieaanvragen worden, na aanvulling door de subsidieaanvrager, geplaatst aan het einde van de lijst die volgt uit de loting, waarbij het tijdstip van ontvangst van de volledige subsidieaanvraag bepalend is voor de volgorde van plaatsing op die lijst.
 
-#### Artikel 21a. Wijzigen einddatum beschikking tot subsidieverlening
+##### Artikel 21a. Wijzigen einddatum beschikking tot subsidieverlening
 
 In afwijking van de in de artikelen A6, A15, eerste lid, onderdeel b, A23, eerste lid, onderdeel b, A30, eerste lid, onderdeel b, B6, onderdeel c, B17, eerste lid, onderdelen c en d, en C6, eerste lid, onderdeel c, van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2025-09-16&g=2025-09-16) genoemde perioden, verlengt de minister de einddatum van reeds verleende projecten met een in de beschikking tot subsidieverlening als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=9&z=2025-09-16&g=2025-09-16) vermelde einddatum van 1 maart 2020 of later door middel van een wijziging van deze beschikking met zes maanden.
 
@@ -2122,7 +2148,7 @@ Een project in het kader van dit hoofdstuk heeft tot doel het bevorderen van de 
 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
 
-#### Artikel 21b. Tweede wijziging einddatum beschikking tot subsidieverlening
+##### Artikel 21b. Tweede wijziging einddatum beschikking tot subsidieverlening
 
 1. De projecten als bedoeld in de hoofdstukken I, IV, V en VA van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2025-09-16&g=2025-09-16) met een in de beschikking tot subsidieverlening vermelde einddatum die, al dan niet als gevolg van de verlenging voor zes maanden op grond van [artikel 21a](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=21a&z=2025-09-16&g=2025-09-16), gelegen is in de periode 31 augustus 2020 tot en met 31 mei 2021, worden door de Minister door middel van een wijziging van deze beschikking met zes maanden verlengd.
 

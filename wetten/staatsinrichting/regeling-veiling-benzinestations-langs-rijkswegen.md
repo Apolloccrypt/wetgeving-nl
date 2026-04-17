@@ -1,13 +1,38 @@
 ---
-title: "Regeling veiling benzinestations langs rijkswegen"
+title: "Regeling van de Minister van Financiën van 20 juli 2005 inzake de vanwege de Staat uit te schrijven veiling van benzinestations langs rijkswegen (Regeling veiling benzinestations langs rijkswegen)"
 identifier: "BWBR0018616"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2012-01-01
-laatste_update: 2012-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018616"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2012-01-01"
+last_updated: "2012-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018616"
+soort: "ministeriele-regeling"
+stam_id: "7168073"
+version_id: "12084642"
+internal_id: "C16259131"
+label_id: "7156284"
+original_entry_into_force: "2005-07-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018616/2012-01-01/0"
+intitule_bron: "Stcrt.2005-142"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-07-20"
+intitule_published: "2005-07-26"
+intitule_in_force: "2005-07-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-142"
+original_signed_date: "2005-07-20"
+original_published_date: "2005-07-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-142-p7-SC70919"
+entry_into_force_date: "2005-07-31"
+jci_1_3: "jci1.3:c:BWBR0018616&z=2012-01-01&g=2012-01-01"
+jci_1_0: "1.0:c:BWBR0018616&g=2012-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling veiling benzinestations langs rijkswegen"
+signed_date: "2005-07-20"
+entry_into_force: "2005-07-31"
 ---
-
 # Regeling van de Minister van Financiën van 20 juli 2005 inzake de vanwege de Staat uit te schrijven veiling van benzinestations langs rijkswegen (Regeling veiling benzinestations langs rijkswegen)
 
 Gelet op [artikel 5, derde lid, van de Wet tot veiling van bepaalde verkooppunten van motorbrandstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&artikel=5);
@@ -16,7 +41,7 @@ Besluit:
 
 #### § 1. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -38,15 +63,15 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Algemene bepalingen over de veiling
 
-#### Artikel 2. Onderwerp van de veiling
+##### Artikel 2. Onderwerp van de veiling
 
 Geveild worden één of meer huurrechten.
 
-#### Artikel 3. Veilingsystematiek
+##### Artikel 3. Veilingsystematiek
 
 Indien meer dan één huurrecht wordt geveild worden de huurrechten elk afzonderlijk en opeenvolgend geveild. De deelnemers zijn gerechtigd per huurrecht één bod in een gesloten envelop uit te brengen.
 
-#### Artikel 4. De veilingmeester
+##### Artikel 4. De veilingmeester
 
 1. De directeur Domeinen wijst een veilingmeester aan.
 
@@ -56,13 +81,13 @@ Indien meer dan één huurrecht wordt geveild worden de huurrechten elk afzonder
 
 4. De veilingmeester handelt bij de uitoefening van zijn taak in overeenstemming met aanwijzingen van de directeur Domeinen.
 
-#### Artikel 5. De notaris
+##### Artikel 5. De notaris
 
 1. De directeur Domeinen wijst een notaris aan.
 
 2. De notaris beschikt over de bevoegdheden genoemd in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=3&z=2012-01-01&g=2012-01-01) en ziet toe op een ordelijk verloop van de veiling.
 
-#### Artikel 6. Communicatie met de veilingmeester
+##### Artikel 6. Communicatie met de veilingmeester
 
 1. De deelnemers kunnen op de dag van de veiling tot één uur voor aanvang van de eerste veiling aan de veilingmeester uitsluitend schriftelijk, door tussenkomst van de notaris vragen stellen met betrekking tot de veilingprocedure. De antwoorden worden schriftelijk vóór de aanvang van de eerste veiling op de desbetreffende veilingdag aan alle deelnemers bekend gemaakt.
 
@@ -70,13 +95,13 @@ Indien meer dan één huurrecht wordt geveild worden de huurrechten elk afzonder
 
 #### § 3. De Veilingprocedure
 
-#### Artikel 7. Plaats en tijdstip veiling
+##### Artikel 7. Plaats en tijdstip veiling
 
 1. De directeur Domeinen bepaalt de plaats van de veiling alsmede het tijdstip waarop de veiling een aanvang neemt.
 
 2. De veiling wordt uitsluitend op werkdagen gehouden.
 
-#### Artikel 8. Loting
+##### Artikel 8. Loting
 
 1. De volgorde waarin de huurrechten worden geveild, wordt door loting bepaald.
 
@@ -88,7 +113,7 @@ Indien meer dan één huurrecht wordt geveild worden de huurrechten elk afzonder
 
 5. De deelnemers worden in staat gesteld bij de loting aanwezig te zijn.
 
-#### Artikel 9. Onderwerp en aanvang veilingen
+##### Artikel 9. Onderwerp en aanvang veilingen
 
 De veilingmeester stelt steeds voorafgaand aan iedere veiling van een huurrecht vast:
 
@@ -98,7 +123,7 @@ De veilingmeester stelt steeds voorafgaand aan iedere veiling van een huurrecht 
 
 - c. op welk tijdstip de biedkaarten uiterlijk moeten zijn ingeleverd.
 
-#### Artikel 10. Biedkaart
+##### Artikel 10. Biedkaart
 
 1. Nadat de directeur Domeinen heeft beslist dat een aanvrager wordt toegelaten tot de veiling, wordt de aanvrager daarvan schriftelijk door hem in kennis gesteld en ontvangt hij voor elk te veilen huurrecht een op naam van de aanvrager gestelde biedkaart en een envelop, benodigd om de biedkaart tijdens de veiling bij de notaris in te leveren.
 
@@ -108,7 +133,7 @@ De veilingmeester stelt steeds voorafgaand aan iedere veiling van een huurrecht 
 
 4. Een bod wordt uitgebracht in hele euro’s. Het bedrag wordt zowel in cijfers als in letters geschreven.
 
-#### Artikel 11. Wijze indienen bod
+##### Artikel 11. Wijze indienen bod
 
 Een bod wordt uitgebracht door middel van een ingevulde biedkaart die:
 
@@ -118,27 +143,27 @@ Een bod wordt uitgebracht door middel van een ingevulde biedkaart die:
 
 - c. wordt ingeleverd door een deelnemer die gerechtigd is een bod uit te brengen dan wel wordt ingeleverd door degene die gerechtigd is om namens de deelnemer handelingen te verrichten in de veilingprocedure.
 
-#### Artikel 12. Onvoorwaardelijk en onherroepelijk bod
+##### Artikel 12. Onvoorwaardelijk en onherroepelijk bod
 
 Het bod van de deelnemer is onvoorwaardelijk en onherroepelijk.
 
-#### Artikel 13. Vereisten geldig bod
+##### Artikel 13. Vereisten geldig bod
 
 1. De notaris beslist omtrent de geldigheid van een uitgebracht bod.
 
 2. Een bod is ongeldig indien dit niet voldoet aan het bepaalde in [artikel 10, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=3&artikel=10&z=2012-01-01&g=2012-01-01), of [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=3&artikel=11&z=2012-01-01&g=2012-01-01).
 
-#### Artikel 14. Ongeldig bod
+##### Artikel 14. Ongeldig bod
 
 1. De deelnemer die een ongeldig bod als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=3&artikel=13&z=2012-01-01&g=2012-01-01), heeft uitgebracht, wordt hiervan afzonderlijk door de notaris op de hoogte gesteld.
 
 2. Indien een deelnemer op grond van de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=4&artikel=17&z=2012-01-01&g=2012-01-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=4&artikel=18&z=2012-01-01&g=2012-01-01) van verdere deelname van de veiling is uitgesloten, deelt de notaris aan alle deelnemers de identiteit van de uitgesloten deelnemer mee.
 
-#### Artikel 15. Gevolgen twee of meer deelnemers met hoogste bod
+##### Artikel 15. Gevolgen twee of meer deelnemers met hoogste bod
 
 Indien twee of meer deelnemers hetzelfde hoogste bedrag voor een huurrecht hebben geboden, stelt de veilingmeester op grond van een door de notaris te houden loting vast wie van de deelnemers wordt aangemerkt als degene die het hoogste bod heeft uitgebracht.
 
-#### Artikel 16. Einde veiling
+##### Artikel 16. Einde veiling
 
 1. De veiling van een huurrecht eindigt op het moment waarop de veilingmeester het hoogste bod heeft vastgesteld of heeft vastgesteld dat er geen of geen geldig bod is uitgebracht.
 
@@ -152,7 +177,7 @@ Indien twee of meer deelnemers hetzelfde hoogste bedrag voor een huurrecht hebbe
 
 #### § 4. Gedrag voorafgaand en tijdens de veiling en gevolgen van onregelmatigheden
 
-#### Artikel 17. Verbod mededingingsbeperkende afspraken en -gedragingen
+##### Artikel 17. Verbod mededingingsbeperkende afspraken en -gedragingen
 
 1. Een deelnemer is verplicht zich voorafgaand aan en gedurende de veilingprocedure te onthouden van afspraken of gedragingen die ertoe strekken of ten gevolge hebben dat de mededinging in de veilingprocedure wordt verhinderd, beperkt of vervalst.
 
@@ -166,7 +191,7 @@ Indien twee of meer deelnemers hetzelfde hoogste bedrag voor een huurrecht hebbe
 
 3. De veilingmeester kan een deelnemer die handelt in strijd met het eerste lid van verdere deelname aan de veiling uitsluiten. De directeur Domeinen kan bepalen dat de uitsluiting ook geldt voor toekomstige veilingen op diezelfde dag of meerdere jaren.
 
-#### Artikel 18. Verstoring goed of ordelijk verloop van de veiling
+##### Artikel 18. Verstoring goed of ordelijk verloop van de veiling
 
 1. Een deelnemer is verplicht zich gedurende de veiling te onthouden van gedragingen die het goed of ordelijk verloop van de veiling verstoren.
 
@@ -174,27 +199,27 @@ Indien twee of meer deelnemers hetzelfde hoogste bedrag voor een huurrecht hebbe
 
 3. Een deelnemer wordt niet uitgesloten dan nadat de veilingmeester de desbetreffende deelnemer ten minste eenmaal heeft medegedeeld dat verdere met het eerste lid in strijd zijnde gedragingen kunnen leiden tot uitsluiting van verdere deelname aan de veiling.
 
-#### Artikel 19. Vertrouwelijkheid
+##### Artikel 19. Vertrouwelijkheid
 
 Een deelnemer, inbegrepen diegenen die een deelnemer ten behoeve van de veiling bijstaan, mag informatie waarover hij beschikt met betrekking tot de voorgenomen strategie en het biedgedrag gedurende de veiling, waaronder de huurrechten die de deelnemer wenst te verwerven en het bedrag dat beschikbaar is voor het verwerven van huurrechten, niet aan andere deelnemers of derden bekend maken.
 
-#### Artikel 20
+##### Artikel 20
 
 Een deelnemer is verplicht zich te onthouden van gedragingen die zijn gericht op het direct of indirect verkrijgen van de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=4&artikel=19&z=2012-01-01&g=2012-01-01) bedoelde informatie van andere deelnemers.
 
-#### Artikel 21. Gevolgen voor bod bij uitsluiting
+##### Artikel 21. Gevolgen voor bod bij uitsluiting
 
 1. Een bod van een deelnemer die op grond van de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=4&artikel=17&z=2012-01-01&g=2012-01-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=4&artikel=18&z=2012-01-01&g=2012-01-01) van verdere deelname aan de veiling is uitgesloten is ongeldig, ook indien een bod is uitgebracht voor de uitsluiting.
 
 2. Indien een deelnemer het hoogste bod op een huurrecht heeft uitgebracht en vervolgens wordt uitgesloten van de veiling, stelt de veilingmeester opnieuw vast welke deelnemer het hoogste bod op dat huurrecht heeft uitgebracht. Deze deelnemer krijgt het huurrecht aangeboden. Als deze deelnemer dit aanbod niet aanvaardt, wordt het huurrecht, met inachtneming van [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=3&z=2012-01-01&g=2012-01-01), opnieuw geveild.
 
-#### Artikel 22. Noodrem
+##### Artikel 22. Noodrem
 
 De veilingmeester heeft te allen tijde de bevoegdheid om de veiling stil te leggen als hij dit noodzakelijk acht.
 
 #### § 5. Betaling
 
-#### Artikel 23. Betaling verschuldigde bedrag
+##### Artikel 23. Betaling verschuldigde bedrag
 
 1. Binnen drie werkdagen na de dag van de veiling moet door de deelnemer die het hoogste bod op een huurrecht heeft uitgebracht, een waarborgsom zijn gestort ter grootte van 15 procent van het bedrag van dit bod dan wel ter grootte van 15 procent van het topdeel. Over deze waarborgsom wordt door de directeur Domeinen geen rente vergoed. Deze waarborgsom zal in mindering strekken van het door de deelnemer verschuldigde bedrag van zijn bod dan wel het topdeel.
 
@@ -210,7 +235,7 @@ De veilingmeester heeft te allen tijde de bevoegdheid om de veiling stil te legg
 
 3. Binnen veertien kalenderdagen na de dag van de veiling moet door de deelnemer die hoogste bod op een huurrecht heeft uitgebracht, het door hem verschuldigde bedrag van dit bod dan wel het topdeel zijn betaald op bankrekeningnummer 19 23 24 810 bij de RABO-bank te Leiden ten name van de Regionale directie Domeinen West te Leiden.
 
-#### Artikel 24. Topdeel/Voorkomen onevenredige bevoordeling zittende partij
+##### Artikel 24. Topdeel/Voorkomen onevenredige bevoordeling zittende partij
 
 1. In geval de deelnemer wiens huurrecht wordt geveild het hoogste bod heeft uitgebracht op dit huurrecht, is deze, in plaats van het hoogste bod het verschil tussen dit bod en het op één na hoogste bod verschuldigd, met dien verstande dat deze deelnemer nimmer meer verschuldigd is dan 30 procent van zijn bod. Het door hem verschuldigde bedrag moet binnen 14 kalenderdagen volgend op de dag van de veiling worden betaald op het in [artikel 23, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018616&paragraaf=5&artikel=23&z=2012-01-01&g=2012-01-01) genoemde bankrekeningnummer.
 
@@ -218,7 +243,7 @@ De veilingmeester heeft te allen tijde de bevoegdheid om de veiling stil te legg
 
 #### § 6. Gevolgen niet gestand doen van een bod
 
-#### Artikel 25. Niet gestand doen van het bod
+##### Artikel 25. Niet gestand doen van het bod
 
 1. Indien een deelnemer die het hoogste bod op een huurrecht heeft uitgebracht, zijn betalingsverplichting niet, niet geheel of niet tijdig is nagekomen, maakt de directeur Domeinen, behoudens bijzondere omstandigheden, binnen drie weken na de dag van de veiling bekend dat het desbetreffende huurrecht opnieuw wordt geveild.
 
@@ -230,7 +255,7 @@ De veilingmeester heeft te allen tijde de bevoegdheid om de veiling stil te legg
 
 #### § 7. Voorwaarden voor het kunnen uitoefenen van het huurrecht na de veiling
 
-#### Artikel 26. Aangaan van overeenkomst, verlenen van vergunning, onderliggende rechtsrelaties
+##### Artikel 26. Aangaan van overeenkomst, verlenen van vergunning, onderliggende rechtsrelaties
 
 1. De directeur Domeinen verleent aan de deelnemer die het hoogste bod op een huurrecht heeft uitgebracht, het huurrecht nadat de verschuldigde bedragen zijn voldaan. Daartoe sluit de directeur Domeinen een huurovereenkomst. Deze huurovereenkomst kan worden vervangen door een erfpachtovereenkomst in geval gebruik wordt gemaakte van de in [artikel 3, zevende lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&artikel=3), bedoelde mogelijkheid.
 
@@ -242,15 +267,15 @@ De veilingmeester heeft te allen tijde de bevoegdheid om de veiling stil te legg
 
 #### § 8. Slotbepaling
 
-#### Artikel 27
+##### Artikel 27
 
 Met schriftelijke instemming van de Minister van Financiën kan de directeur Domeinen in bijzondere gevallen van deze regeling afwijken.
 
-#### Artikel 28
+##### Artikel 28
 
 Deze regeling treedt in werking met ingang van 31 juli 2005.
 
-#### Artikel 29
+##### Artikel 29
 
 Deze regeling wordt aangehaald als Regeling veiling benzinestations langs rijkswegen.
 

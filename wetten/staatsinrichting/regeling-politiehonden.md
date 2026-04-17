@@ -1,13 +1,38 @@
 ---
 title: "Regeling politiehonden"
 identifier: "BWBR0019728"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2020-05-15
-laatste_update: 2020-05-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019728"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-05-15"
+last_updated: "2020-05-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019728"
+soort: "ministeriele-regeling"
+stam_id: "8217713"
+version_id: "15695692"
+internal_id: "C21460911"
+label_id: "8199064"
+dtd_version: "2.0"
+original_entry_into_force: "2008-08-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019728/2020-05-15/0"
+intitule_bron: "Stcrt.2006-72"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-04-04"
+intitule_published: "2006-04-11"
+intitule_in_force: "2006-04-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-170"
+original_signed_date: "2008-08-20"
+original_published_date: "2008-09-03"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2008-170-p16-SC87298"
+entry_into_force_date: "2008-08-20"
+jci_1_3: "jci1.3:c:BWBR0019728&z=2020-05-15&g=2020-05-15"
+jci_1_0: "1.0:c:BWBR0019728&g=2020-05-15"
+citeertitel_status: "officieel"
+signed_date: "2008-08-20"
+entry_into_force: "2008-08-20"
 ---
-
 # Regeling politiehonden
 
 Handelende in overeenstemming met de Minister van Justitie;
@@ -18,7 +43,7 @@ Besluit:
 
 #### Paragraaf 1. Begripsbepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -44,11 +69,11 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 2. Algemene bepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3. Uitrusting met politiespeurhond
+##### Artikel 3. Uitrusting met politiespeurhond
 
 1. Uitrusting met een politiespeurhond menselijke geur geschiedt uitsluitend voor de speurtaak of geuridentificatietaak, voor zover de desbetreffende politiespeurhond voor die taak is gecertificeerd.
 
@@ -60,17 +85,17 @@ Vervallen
 
 5. Uitrusting met een politiespeurhond brandversnellende middelen geschiedt uitsluitend voor het opsporen van brandversnellende middelen.
 
-#### Artikel 4. Bewapening met politiesurveillancehond
+##### Artikel 4. Bewapening met politiesurveillancehond
 
 Bewapening met een politiesurveillancehond geschiedt uitsluitend bij het optreden van de surveillancedienst of de mobiele eenheid, bedoeld in [artikel 26 van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=26).
 
-#### Artikel 5. Bewapening met AOT-hond
+##### Artikel 5. Bewapening met AOT-hond
 
 Bewapening met een AOT-hond geschiedt uitsluitend bij het optreden van een aanhoudings- en ondersteuningsteam.
 
 #### Paragraaf 3. Keuring en certificering
 
-#### Artikel 6. Keuringscommissies
+##### Artikel 6. Keuringscommissies
 
 1. Er is een keuringscommissie voor de politiespeurhond, waarvan de leden worden aangewezen door de rijksgecommitteerden voor de politiespeurhond. De rijksgecommitteerden bepalen voor welke keuring van geleider en politiespeurhond de verschillende leden van de keuringscommissie worden ingezet.
 
@@ -82,7 +107,7 @@ Bewapening met een AOT-hond geschiedt uitsluitend bij het optreden van een aanho
 
 5. De leden van de keuringscommissie voor de politiespeurhonden, respectievelijk de keuringscommissie voor de politiesurveillancehond, respectievelijk de keuringscommissie voor de AOT-hond beschikken over een ruime dressuur-technische ervaring en praktische politie-ervaring op het gebied van de inzet en het gebruik van de politiespeurhond, respectievelijk de politiesurveillancehond, respectievelijk de AOT-hond. De leden van de keuringscommissie voor de politiespeurhond beschikken tevens over kennis van de toepasselijke bepalingen van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903).
 
-#### Artikel 7. Rijksgecommitteerden
+##### Artikel 7. Rijksgecommitteerden
 
 1. De minister wijst rijksgecommitteerden aan voor de politiespeurhond, de politiesurveillancehond en de AOT-hond.
 
@@ -92,7 +117,7 @@ Bewapening met een AOT-hond geschiedt uitsluitend bij het optreden van een aanho
 
 4. De rijksgecommitteerden rapporteren jaarlijks over hun activiteiten aan de minister.
 
-#### Artikel 8. Algemene keuringsvoorschriften
+##### Artikel 8. Algemene keuringsvoorschriften
 
 Voor een keuring komen in aanmerking honden die:
 
@@ -100,7 +125,7 @@ Voor een keuring komen in aanmerking honden die:
 
 - b. ingeënt zijn tegen de in het keuringsreglement aangewezen ziekten.
 
-#### Artikel 9. Keuringsvoorschriften politiespeurhond
+##### Artikel 9. Keuringsvoorschriften politiespeurhond
 
 1. Aan een keuring van een combinatie van een geleider en een politiespeurhond kunnen deelnemen ambtenaren van politie die zijn aangewezen als geleider.
 
@@ -162,7 +187,7 @@ Voor een keuring komen in aanmerking honden die:
 
 9. De rijksgecommitteerden voor de politiespeurhond stellen de voor de keuring en opleiding van geleiders en politiespeurhonden benodigde hoeveelheden verdovende middelen en explosieven vast.
 
-#### Artikel 10. Examen geleider politiespeurhond
+##### Artikel 10. Examen geleider politiespeurhond
 
 1. De geleider speurhond menselijke geur wordt door de keuringscommissie voor de politiespeurhond geëxamineerd met betrekking tot:
 
@@ -218,7 +243,7 @@ Voor een keuring komen in aanmerking honden die:
 
 7. Indien het examen niet met goed gevolg wordt afgelegd, bestaat de mogelijkheid van maximaal twee herkansingen.
 
-#### Artikel 11. Keuringsvoorschriften politiesurveillancehond
+##### Artikel 11. Keuringsvoorschriften politiesurveillancehond
 
 1. Aan een keuring van een combinatie van een geleider en een politiesurveillancehond kunnen deelnemen ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, vanaf de rang van surveillant van politie die zijn aangewezen als geleider.
 
@@ -238,7 +263,7 @@ Voor een keuring komen in aanmerking honden die:
 
 5. Indien de keuring niet met goed gevolg wordt afgelegd, bestaat de mogelijkheid van maximaal twee herkansingen.
 
-#### Artikel 12. Keuringsvoorschriften AOT-hond
+##### Artikel 12. Keuringsvoorschriften AOT-hond
 
 1. Aan een keuring van een combinatie van een geleider en een AOT-hond kunnen deelnemen ambtenaren van politie die sedert tenminste twee jaar behoren tot een aanhoudings- en ondersteuningsteam en die zijn aangewezen als geleider.
 
@@ -260,7 +285,7 @@ Voor een keuring komen in aanmerking honden die:
 
 5. Indien de keuring niet met goed gevolg wordt afgelegd, bestaat de mogelijkheid van maximaal twee herkansingen.
 
-#### Artikel 13. Certificering
+##### Artikel 13. Certificering
 
 1. De desbetreffende keuringscommissie verstrekt aan de geleider politiespeurhond van de combinatie die de keuring met goed gevolg heeft afgelegd, respectievelijk aan de geleider politiesurveillancehond van de combinatie die de keuring met goed gevolg heeft afgelegd, respectievelijk aan de geleider AOT-hond van de combinatie die de keuring met goed gevolg heeft afgelegd een certificaat op naam van de combinatie van de geleider en de hond.
 
@@ -280,7 +305,7 @@ Voor een keuring komen in aanmerking honden die:
 
 #### Paragraaf 4. Herkeuringen
 
-#### Artikel 14. Herkeuring
+##### Artikel 14. Herkeuring
 
 1. Een combinatie van een geleider en een politiespeurhond, respectievelijk een combinatie van een geleider en een politiesurveillancehond, respectievelijk een combinatie van een geleider en een AOT-hond, wordt binnen twee jaar na het behalen van het certificaat, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&paragraaf=3&artikel=13&z=2020-05-15&g=2020-05-15), opnieuw gekeurd door de keuringscommissie voor de politiespeurhond, respectievelijk de keuringscommissie voor de politiesurveillancehond, respectievelijk de keuringscommissie voor de AOT-hond.
 
@@ -298,33 +323,33 @@ Voor een keuring komen in aanmerking honden die:
 
 #### Paragraaf 4a. Protest
 
-#### Artikel 15
+##### Artikel 15
 
 Na inwerkingtreding van deze regeling berust het besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Justitie van 29 oktober 2003 tot aanwijzing van rijksgecommitteerden politiespeurhond en politiesurveillancehond en samenstelling keuringscommissies op de [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&paragraaf=3&artikel=6&z=2020-05-15&g=2020-05-15), en [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&paragraaf=3&artikel=7&z=2020-05-15&g=2020-05-15), van deze regeling.
 
-#### Artikel 16
+##### Artikel 16
 
 Na inwerkingtreding van deze regeling berusten de op grond van de [Regeling politiespeurhonden 1997](onbekend) en de [Regeling politiesurveillancehonden 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010333) afgegeven certificaten op [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&paragraaf=3&artikel=13&z=2020-05-15&g=2020-05-15) van deze regeling.
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
 #### Paragraaf 6. Slotbepalingen
 
-#### Artikel 18
+##### Artikel 18
 
 De [Regeling politiesurveillancehonden 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010333) wordt ingetrokken.
 
-#### Artikel 19
+##### Artikel 19
 
 De [Regeling politiespeurhonden 1997](onbekend) wordt ingetrokken.
 
-#### Artikel 20
+##### Artikel 20
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 21
+##### Artikel 21
 
 Deze regeling wordt aangehaald als: Regeling politiehonden.
 
@@ -334,7 +359,7 @@ Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 14a
+##### Artikel 14a
 
 1. Betrokkenen bij de keuring of herkeuring kunnen bij de voorzitter van de rijksgecommitteerden die toezicht houden op de betreffende keuring of herkeuring, een gemotiveerd schriftelijk protest indienen tegen het keurings- of herkeuringsbesluit van de keuringscommissie. Het protest kan tot acht dagen na ontvangst van het keuringsrapport worden ingediend.
 
@@ -382,7 +407,7 @@ Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0019728&bijlage=1&z=2008-09-05&g=2008-09-05), die ter inzage worden gelegd bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 19a
+##### Artikel 19a
 
 Deze regeling berust op [artikel 24, derde lid, van het Besluit bewapening en uitrusting politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=24).
 

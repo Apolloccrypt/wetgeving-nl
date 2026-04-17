@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling Ontwikkelkracht"
+title: "Regeling van de Minister voor Primair en Voortgezet Onderwijs van 14 april 2023, nr. VO/37841750, houdende regels voor de subsidieverstrekking aan vestigingen van scholen voor het deelnemen aan het programma Ontwikkelkracht (Subsidieregeling Ontwikkelkracht)"
 identifier: "BWBR0048123"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-05-03
-laatste_update: 2023-05-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048123"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-05-03"
+last_updated: "2023-05-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048123"
+soort: "ministeriele-regeling"
+stam_id: "16737943"
+version_id: "29387212"
+internal_id: "C41926321"
+label_id: "16654154"
+dtd_version: "2.0"
+original_entry_into_force: "2023-05-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048123/2023-05-03/0"
+intitule_bron: "Stcrt.2023-12396"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-04-14"
+intitule_published: "2023-05-02"
+intitule_in_force: "2023-05-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-12396"
+original_signed_date: "2023-04-14"
+original_published_date: "2023-05-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-12396"
+entry_into_force_date: "2023-05-03"
+jci_1_3: "jci1.3:c:BWBR0048123&z=2023-05-03&g=2023-05-03"
+jci_1_0: "1.0:c:BWBR0048123&g=2023-05-03"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling Ontwikkelkracht"
+signed_date: "2023-04-14"
+entry_into_force: "2023-05-03"
 ---
-
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 14 april 2023, nr. VO/37841750, houdende regels voor de subsidieverstrekking aan vestigingen van scholen voor het deelnemen aan het programma Ontwikkelkracht (Subsidieregeling Ontwikkelkracht)
 
 Gelet op [artikel 71 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=71), [artikel 5.11 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.11), [artikel 71 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=71), en [artikel 67 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=67);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -74,11 +100,11 @@ In deze regeling wordt verstaan onder:
 
 - **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Doel van de regeling en te subsidiëren activiteiten
+##### Artikel 3. Doel van de regeling en te subsidiëren activiteiten
 
 1. De minister kan aan een bevoegd gezag subsidie verstrekken voor deelname aan activiteiten die worden ontwikkeld in het kader van het programma Ontwikkelkracht.
 
@@ -104,7 +130,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - c. het door één en dezelfde vestiging deelnemen aan een onderzoeks- en verbetercultuurtraject, alsmede als deelnemende of co-creërende vestiging in een co-creatielab.
 
-#### Artikel 4. Aanvraag subsidie
+##### Artikel 4. Aanvraag subsidie
 
 1. Een bevoegd gezag dat subsidie wil aanvragen, voert voorafgaand aan de aanvraag een verkenningsgesprek met het programmabureau, met als doel de ontwikkelvraag van een vestiging of meerdere vestigingen te concretiseren en te verkennen of en zo ja bij welk onderdeel van het programma Ontwikkelkracht deze ontwikkelvraag aansluit.
 
@@ -118,7 +144,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 6. Een bevoegd gezag kan geen aanvraag indienen voor een vestiging waarvoor het bevoegd gezag reeds subsidie is verstrekt op grond van de [Subsidieregeling verbetering basisvaardigheden](https://wetten.overheid.nl/jci1.3:c:BWBR0047050), de [Subsidieregeling verbetering basisvaardigheden voor scholen 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047996), of de [Subsidieregeling verbetering basisvaardigheden voor prioriteitsscholen 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047992) en voor zover de activiteitenperiode nog niet is afgerond.
 
-#### Artikel 5. Aanvraagvereisten
+##### Artikel 5. Aanvraagvereisten
 
 De aanvraag bestaat uit een activiteitenplan, waarin onverminderd [artikel 3.4 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.4) ten minste wordt opgenomen:
 
@@ -170,7 +196,7 @@ De aanvraag bestaat uit een activiteitenplan, waarin onverminderd [artikel 3.4 v
 
 - 3°. een onderbouwing waaruit blijkt dat de schoolleiding en het schoolbestuur van de vestiging betrokken zijn en zich committeren aan het traject.
 
-#### Artikel 6. Weigeringsgronden
+##### Artikel 6. Weigeringsgronden
 
 Een subsidieaanvraag wordt in ieder geval geweigerd:
 
@@ -184,7 +210,7 @@ Een subsidieaanvraag wordt in ieder geval geweigerd:
 
 - e. indien het bevoegd gezag een aanvraag indient voor de activiteiten bedoeld in [artikel 3, tweede lid, onderdeel a, onder 1° en onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0048123&artikel=3&z=2023-05-03&g=2023-05-03) en geen oordeel voldoende, afgegeven door de Inspectie van het Onderwijs, heeft.
 
-#### Artikel 7. Subsidieplafonds en maximaal aantal deelnemende vestigingen per jaar
+##### Artikel 7. Subsidieplafonds en maximaal aantal deelnemende vestigingen per jaar
 
 1. Voor verstrekking van de subsidie is voor het schooljaar 2023/2024 in totaal een bedrag beschikbaar van € 1.969.856,– voor het primair onderwijs, primair onderwijs BES, voortgezet onderwijs en voortgezet onderwijs BES.
 
@@ -200,7 +226,7 @@ Een subsidieaanvraag wordt in ieder geval geweigerd:
 
 3. De minister verdeelt de beschikbare bedragen in volgorde van binnenkomst van de aanvragen.
 
-#### Artikel 8. Subsidiebedrag
+##### Artikel 8. Subsidiebedrag
 
 1. Het subsidiebedrag per PO-vestiging voor het schooljaar 2023/2024 is:
 
@@ -222,7 +248,7 @@ Een subsidieaanvraag wordt in ieder geval geweigerd:
 
 - d. € 4.166,– voor activiteiten als bedoeld in [artikel 3, tweede lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0048123&artikel=3&z=2023-05-03&g=2023-05-03).
 
-#### Artikel 9. Subsidieverplichtingen
+##### Artikel 9. Subsidieverplichtingen
 
 In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) worden aan de subsidieontvanger de volgende verplichtingen opgelegd:
 
@@ -250,7 +276,7 @@ In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/j
 
 - 2°. draagt er zorg voor dat een leraar of intern procesbegeleider de implementatie begeleidt.
 
-#### Artikel 10. Vaststelling en verantwoording
+##### Artikel 10. Vaststelling en verantwoording
 
 1. De subsidie wordt direct vastgesteld binnen 13 weken na indiening van de aanvraag.
 
@@ -258,21 +284,21 @@ In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/j
 
 3. De subsidieontvanger toont op verzoek van de minister aan dat de activiteiten waarvoor subsidie is verstrekt, zijn verricht en dat is voldaan aan de verplichtingen die aan de subsidie verbonden zijn. In dit kader vindt in ieder geval een steekproefsgewijze controle door de minister plaats.
 
-#### Artikel 11. Betaling
+##### Artikel 11. Betaling
 
 De minister bepaalt het betaalritme van het subsidiebedrag in de beschikking.
 
-#### Artikel 12. Hardheidsclausule
+##### Artikel 12. Hardheidsclausule
 
 De minister kan één of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing daarvan, gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zou leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 13. Inwerkingtreding en vervaldatum
+##### Artikel 13. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 juni 2027, met dien verstande dat de regeling van toepassing blijft ten aanzien van de subsidies die op grond van de regeling zijn verstrekt.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling Ontwikkelkracht.
 

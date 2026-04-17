@@ -1,20 +1,46 @@
 ---
-title: "Regeling vergoedingen Rijksinspectie Digitale Infrastructuur 2026"
+title: "Regeling van de Minister van Economische Zaken van 20 november 2025, nr. WJZ/101348398, houdende regels omtrent de vergoeding voor werkzaamheden en diensten van de Rijksinspectie Digitale Infrastructuur (Regeling vergoedingen Rijksinspectie Digitale Infrastructuur 2026)"
 identifier: "BWBR0051921"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051921"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051921"
+soort: "ministeriele-regeling"
+stam_id: "17667303"
+version_id: "31166872"
+internal_id: "C44590541"
+label_id: "17566674"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051921/2026-01-01/0"
+intitule_bron: "Stcrt.2025-35920"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-11-20"
+intitule_published: "2025-12-03"
+intitule_in_force: "2025-12-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-35920"
+original_signed_date: "2025-11-20"
+original_published_date: "2025-12-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-35920"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051921&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051921&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling vergoedingen Rijksinspectie Digitale Infrastructuur 2026"
+signed_date: "2025-11-20"
+entry_into_force: "2026-01-01"
 ---
-
 # Regeling van de Minister van Economische Zaken van 20 november 2025, nr. WJZ/101348398, houdende regels omtrent de vergoeding voor werkzaamheden en diensten van de Rijksinspectie Digitale Infrastructuur (Regeling vergoedingen Rijksinspectie Digitale Infrastructuur 2026)
 
 Gelet op de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=6) en [7 van het Besluit vergoedingen Telecommunicatiewet en Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=7), [artikel 4:93 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:93) en de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039114&artikel=3) en [4 van het Besluit kosten hercontroles Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0039114&artikel=4);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - j. **wet:** [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor de kosten van de door of namens de Rijksinspectie Digitale Infrastructuur te verrichten werkzaamheden of diensten met betrekking tot de categorieën en subcategorieën, genoemd in [bijlage 1.](https://wetten.overheid.nl/jci1.3:c:BWBR0051921&bijlage=1&z=2026-01-01&g=2026-01-01), zijn de in bijlage 1. genoemde vergoedingen voor het kalenderjaar 2026 verschuldigd.
 
@@ -48,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 4. Indien geen frequentieplanning plaatsvindt bij het verlenen van een vergunning als bedoeld in de subcategorieën I.C.10. en I.C.11. is, in afwijking van het eerste lid, een vergoeding verschuldigd van € 49. Deze vergoeding is verschuldigd door de verkrijger van de vergunning.
 
-#### Artikel 3
+##### Artikel 3
 
 De jaarlijkse bijdrage is onderdeel van het bedrag dat per categorie of subcategorie in [bijlage 1.](https://wetten.overheid.nl/jci1.3:c:BWBR0051921&bijlage=1&z=2026-01-01&g=2026-01-01), kolom II, is genoemd. De jaarlijkse bijdrage bedraagt het bij onderstaande (sub)categorieën, bedoeld in bijlage 1., genoemde percentage als onderdeel van de vergoeding voor de desbetreffende (sub)categorie:
 
@@ -64,7 +90,7 @@ De jaarlijkse bijdrage is onderdeel van het bedrag dat per categorie of subcateg
 
 - f. (sub)categorie I.F.: 6 procent.
 
-#### Artikel 4
+##### Artikel 4
 
 De jaarlijkse bijdrage en de vergoeding voor de kosten van de door de Rijksinspectie Digitale Infrastructuur verrichte werkzaamheden of diensten met betrekking tot uitvoering en het toezicht op het gebruik van frequentieruimte bedragen gezamenlijk voor:
 
@@ -76,7 +102,7 @@ De jaarlijkse bijdrage en de vergoeding voor de kosten van de door de Rijksinspe
 
 - d. het Ministerie van Onderwijs, Cultuur en Wetenschap: € 79.100.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor de in onderstaande tabel opgenomen werkzaamheden is de daarbij opgenomen vergoeding verschuldigd, indien in [bijlage 1.](https://wetten.overheid.nl/jci1.3:c:BWBR0051921&bijlage=1&z=2026-01-01&g=2026-01-01), kolom III, de daarbij corresponderende letter is opgenomen voor de betreffende subcategorie of subcategorieën.
 
@@ -99,11 +125,11 @@ A voorstelt: de hoeveelheid frequentieruimte per MHz als bedoeld in [artikel 3.8
 
 B voorstelt: de hoeveelheid frequentieruimte per MHz als bedoeld in [artikel 3.8a, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.8a).
 
-#### Artikel 6
+##### Artikel 6
 
 Voor de kosten van de door de Rijksinspectie Digitale Infrastructuur te verrichten werkzaamheden of diensten met betrekking tot het gebruik van frequentieruimte die niet vallen onder de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051921&artikel=2&z=2026-01-01&g=2026-01-01), is een vergoeding verschuldigd die wordt vastgesteld op grond van de uurtarieven, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051921&bijlage=2&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 7
+##### Artikel 7
 
 Ter vergoeding van de kosten voor een hercontrole als bedoeld in [artikel 1 van het Besluit kosten hercontroles Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0039114&artikel=1) worden de volgende bedragen in rekening gebracht bij degene ten behoeve van wie deze werkzaamheden worden verricht:
 
@@ -113,41 +139,41 @@ Ter vergoeding van de kosten voor een hercontrole als bedoeld in [artikel 1 van 
 
 - c. de werkelijke kosten van uitbesteding van het laboratoriumonderzoek ten behoeve van een hercontrole in het kader van markttoezicht.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een vergoeding voor de kosten van behandeling van een storingsmelding als bedoeld in de [Regeling storingsmeldingen](https://wetten.overheid.nl/jci1.3:c:BWBR0026550) is verschuldigd door degene die de storing heeft gemeld, indien uit het onderzoek is gebleken dat zijn uitrusting of radioapparaat niet voldoet aan [artikel 4, eerste lid, onder b of c, van de Regeling storingsmeldingen](https://wetten.overheid.nl/jci1.3:c:BWBR0026550&artikel=4) of als de uitrusting of het radioapparaat niet wordt gebruikt conform artikel 4, eerste lid, onder d of e, van die regeling.
 
 2. De in het eerste lid bedoelde vergoeding wordt vastgesteld op grond van de uurtarieven, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051921&bijlage=2&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 9
+##### Artikel 9
 
 Voor de kosten van andere werkzaamheden of diensten die door de Rijksinspectie Digitale Infrastructuur in het kader van de bij of krachtens de wet opgedragen wettelijke taak worden verricht en waarop de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0051921&artikel=2&z=2026-01-01&g=2026-01-01) niet van toepassing zijn, kan een vergoeding worden vastgesteld op grond van de uurtarieven, opgenomen in [bijlage 2.](https://wetten.overheid.nl/jci1.3:c:BWBR0051921&bijlage=2&z=2026-01-01&g=2026-01-01), indien vooraf is aangegeven dat voor de werkzaamheden of diensten een vergoeding in rekening zal worden gebracht.
 
-#### Artikel 10
+##### Artikel 10
 
 De vergoeding voor de eenmalige uitvoeringskosten ([bijlage 1.](https://wetten.overheid.nl/jci1.3:c:BWBR0051921&bijlage=1&z=2026-01-01&g=2026-01-01), kolom I) behoeft door degene die deze vergoeding is verschuldigd niet bij vooruitbetaling te worden voldaan.
 
-#### Artikel 11
+##### Artikel 11
 
 De minister kan overeenkomstig [artikel 4:93 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:93) een geldschuld jegens de vergunninghouder die verband houdt met een bij of krachtens [hoofdstuk 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3) genomen besluit, verrekenen met een vordering op grond van deze regeling.
 
-#### Artikel 12
+##### Artikel 12
 
 Het kostencalculatiemodel, bedoeld in [artikel 3, eerste lid, onder c, van het Besluit vergoedingen Telecommunicatiewet en Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=3) wordt bekendgemaakt door middel van terinzagelegging ten kantore van de Rijksinspectie Digitale Infrastructuur te Groningen.
 
-#### Artikel 13
+##### Artikel 13
 
 De [Regeling vergoedingen Rijksinspectie Digitale Infrastructuur 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050318) wordt ingetrokken, met dien verstande dat voor werkzaamheden of diensten die zijn verricht vóór het kalenderjaar 2026, het recht van toepassing blijft zoals dat ten tijde van verrichting van die werkzaamheden of diensten gold.
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt de Examenregeling frequentiegebruik 2008.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze regeling treedt in werking met ingang van 1 januari 2026.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling wordt aangehaald als: Regeling vergoedingen Rijksinspectie Digitale Infrastructuur 2026.
 

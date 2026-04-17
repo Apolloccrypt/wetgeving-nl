@@ -1,20 +1,45 @@
 ---
 title: "Regeling tegemoetkoming rechtskundige hulp politie"
 identifier: "BWBR0024797"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2025-10-30
-laatste_update: 2025-10-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024797"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-30"
+last_updated: "2025-10-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024797"
+soort: "ministeriele-regeling"
+stam_id: "9786283"
+version_id: "15875352"
+internal_id: "C29438071"
+label_id: "9763054"
+dtd_version: "2.0"
+original_entry_into_force: "2008-12-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024797/2025-10-30/0"
+intitule_bron: "Stcrt.2008-236"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-11-14"
+intitule_published: "2008-12-04"
+intitule_in_force: "2008-12-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-236"
+original_signed_date: "2008-11-14"
+original_published_date: "2008-12-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-1324"
+entry_into_force_date: "2008-12-06"
+jci_1_3: "jci1.3:c:BWBR0024797&z=2025-10-30&g=2025-10-30"
+jci_1_0: "1.0:c:BWBR0024797&g=2025-10-30"
+citeertitel_status: "officieel"
+signed_date: "2008-11-14"
+entry_into_force: "2008-12-06"
 ---
-
 # Regeling tegemoetkoming rechtskundige hulp politie
 
 Gelet op [artikel 69a, zesde lid, van het Besluit algemene rechtspositie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=69a) en [artikel 22a, zesde lid, van het Besluit rechtspositie vrijwillige politie](https://wetten.overheid.nl/jci1.3:c:BWBR0007321&artikel=22a);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -24,7 +49,7 @@ In deze regeling wordt verstaan onder:
 
 - c. **bestuurlijke strafbeschikking:** straf opgelegd in het kader van de [wet OM-afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0020074).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De tegemoetkoming bestaat naar keuze van de ambtenaar uit:
 
@@ -64,7 +89,7 @@ In deze regeling wordt verstaan onder:
 
 5. Het uurtarief genoemd in het derde lid wordt jaarlijks per 1 oktober geïndexeerd overeenkomstig de prijsindex voor rechtskundige diensten van het Centraal Bureau voor de Statistiek.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De ambtenaar dient een aanvraag om een tegemoetkoming schriftelijk in bij het bevoegd gezag. De aanvraag wordt ondertekend en bevat:
 
@@ -96,13 +121,13 @@ In deze regeling wordt verstaan onder:
 
 6. Indien een derde respectievelijk het openbaar ministerie hoger beroep dan wel cassatie instelt in de zaak waarvoor het bevoegd gezag de ambtenaar eerder voor een tegemoetkoming in aanmerking heeft laten komen, verleent het bevoegd gezag de ambtenaar op diens melding ambtshalve opnieuw een tegemoetkoming.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In het geval de door het bevoegd gezag geoordeelde opzettelijke onrechtmatigheid dan wel opzettelijke wederrechtelijkheid of bewuste roekeloosheid, of grove nalatigheid van de zijde van de ambtenaar niet blijkt uit een rechterlijke uitspraak of uit een (straf)beschikking, gaat het bevoegd gezag alsnog over tot vergoeding van de kosten van rechtsbijstand.
 
 2. De ambtenaar stelt het bevoegd gezag op de hoogte van de in het eerste lid genoemde uitspraak en legt een afschrift hiervan aan hem over.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien de wederpartij in een civiele procedure wordt veroordeeld tot betaling van proceskosten, draagt de ambtenaar er zorg voor dat de vergoeding van deze kosten, voor zover deze als kosten van rechtskundige hulp moeten worden opgevat, toekomt aan het bevoegd gezag.
 
@@ -112,15 +137,15 @@ In deze regeling wordt verstaan onder:
 
 4. Bij de indiening van de aanvraag tot vergoeding van de kosten van rechtsbijstand wijst het bevoegd gezag de ambtenaar op het eerste tot en met derde lid van dit artikel.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling is van overeenkomstige toepassing op degene die op andere titel dan een aanstelling werkzaam is bij het bevoegd gezag, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 oktober 2008.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Regeling tegemoetkoming rechtskundige hulp politie.
 

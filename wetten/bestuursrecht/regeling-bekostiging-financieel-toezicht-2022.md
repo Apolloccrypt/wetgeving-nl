@@ -1,24 +1,50 @@
 ---
-title: "Regeling bekostiging financieel toezicht 2022"
+title: "Regeling van de Minister van Financiën en de Minister voor Armoedebeleid, Participatie en Pensioenen van 31 mei 2022, kenmerk 2022-0000150909, directie Financiële Markten, tot vaststelling van de bandbreedtes en tarieven, bedoeld in artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019, voor het jaar 2022 (Regeling bekostiging financieel toezicht 2022)"
 identifier: "BWBR0046730"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-06-04
-laatste_update: 2022-06-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046730"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-06-04"
+last_updated: "2022-06-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046730"
+soort: "ministeriele-regeling"
+stam_id: "16374093"
+version_id: "28661052"
+internal_id: "C40441121"
+label_id: "16298274"
+dtd_version: "2.0"
+original_entry_into_force: "2022-06-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046730/2022-06-04/0"
+intitule_bron: "Stcrt.2022-14472"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-05-31"
+intitule_published: "2022-06-03"
+intitule_in_force: "2022-06-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-14472"
+original_signed_date: "2022-05-31"
+original_published_date: "2022-06-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-14472"
+entry_into_force_date: "2022-06-04"
+jci_1_3: "jci1.3:c:BWBR0046730&z=2022-06-04&g=2022-06-04"
+jci_1_0: "1.0:c:BWBR0046730&g=2022-06-04"
+citeertitel_status: "officieel"
+short_title: "Regeling bekostiging financieel toezicht 2022"
+signed_date: "2022-05-31"
+entry_into_force: "2022-06-04"
 ---
-
 # Regeling van de Minister van Financiën en de Minister voor Armoedebeleid, Participatie en Pensioenen van 31 mei 2022, kenmerk 2022-0000150909, directie Financiële Markten, tot vaststelling van de bandbreedtes en tarieven, bedoeld in artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019, voor het jaar 2022 (Regeling bekostiging financieel toezicht 2022)
 
 Gelet op [artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&artikel=9);
 
 BESLUITEN:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder geconsolideerde jaarrekening: jaarrekening waarin de activa, passiva, baten en lasten van personen die een groep of groepsdeel vormen en andere in de consolidatie meegenomen personen, als één geheel zijn opgenomen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor het kalenderjaar 2022 worden de bandbreedtes en tarieven, bedoeld in [artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&artikel=9), voor de personen die onder toezicht van de Autoriteit Financiële Markten vallen, bedoeld in [bijlage 1, onderdeel B, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&bijlage=1), als volgt vastgesteld:
 
@@ -146,7 +172,7 @@ In deze regeling wordt verstaan onder geconsolideerde jaarrekening: jaarrekening
 
 2. Twee of meer aanbieders van beleggingsobjecten waaraan een vergunning is verleend als bedoeld in [artikel 2:55 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:55) en die gedurende het gehele jaar, in steeds dezelfde samenstelling, gezamenlijk aanbiedingen doen aan consumenten, of deze aanbiedingen aan consumenten gezamenlijk beheren, worden voor de toepassing van dit artikel aangemerkt als één persoon.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor het kalenderjaar 2022 worden de bandbreedtes en tarieven, bedoeld in [artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&artikel=9), voor de personen die onder toezicht van De Nederlandsche Bank vallen, bedoeld in [bijlage 2, onderdeel B, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&bijlage=2) als volgt vastgesteld:
 
@@ -229,11 +255,11 @@ Voor het kalenderjaar 2022 worden de bandbreedtes en tarieven, bedoeld in [artik
 | Zorgverzekeraars | **Aantal verzekerden** |   | € 2.000 vermeerderd met: |
 | Zorgverzekeraars | **Aantal verzekerden** | >0 verzekerden | € 0,14 per verzekerde |
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling bekostiging financieel toezicht 2022.
 

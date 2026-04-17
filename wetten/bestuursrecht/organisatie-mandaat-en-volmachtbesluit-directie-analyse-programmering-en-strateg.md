@@ -1,13 +1,39 @@
 ---
-title: "Organisatie-, mandaat- en volmachtbesluit directie Analyse, Programmering en Strategie 2017"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 31 augustus 2017, 2017-0000141565, houdende de inrichting van de directie Analyse, Programmering en Strategie, alsmede de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan de onder de directeur ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directie Analyse, Programmering en Strategie 2017)"
 identifier: "BWBR0039964"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-07-30
-laatste_update: 2025-07-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039964"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-30"
+last_updated: "2025-07-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039964"
+soort: "ministeriele-regeling"
+stam_id: "14164083"
+version_id: "24360352"
+internal_id: "C34957471"
+label_id: "14125004"
+dtd_version: "2.0"
+original_entry_into_force: "2017-09-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039964/2025-07-30/0"
+intitule_bron: "Stcrt.2017-50929"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-08-31"
+intitule_published: "2017-09-11"
+intitule_in_force: "2017-09-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-50929"
+original_signed_date: "2017-08-31"
+original_published_date: "2017-09-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-50929"
+entry_into_force_date: "2017-09-12"
+jci_1_3: "jci1.3:c:BWBR0039964&z=2025-07-30&g=2025-07-30"
+jci_1_0: "1.0:c:BWBR0039964&g=2025-07-30"
+citeertitel_status: "officieel"
+short_title: "Organisatie-, mandaat- en volmachtbesluit directie Analyse, Programmering en Strategie 2017"
+signed_date: "2017-08-31"
+entry_into_force: "2017-09-12"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 31 augustus 2017, 2017-0000141565, houdende de inrichting van de directie Analyse, Programmering en Strategie, alsmede de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan de onder de directeur ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directie Analyse, Programmering en Strategie 2017)
 
 Gelet op de [artikelen 5, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=5), en [12 van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=12);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepaling
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In deze regeling en de daarop rustende bepalingen wordt verstaan onder:
 
@@ -50,7 +76,7 @@ In deze regeling en de daarop rustende bepalingen wordt verstaan onder:
 
 #### § 2. Organisatie
 
-#### Artikel 2. Organisatie directie
+##### Artikel 2. Organisatie directie
 
 1. De directie bestaat uit de volgende afdelingen:
 
@@ -96,7 +122,7 @@ In deze regeling en de daarop rustende bepalingen wordt verstaan onder:
 
 #### § 3. Verantwoordelijkheden
 
-#### Artikel 3. Verantwoordelijkheden afdelingshoofden
+##### Artikel 3. Verantwoordelijkheden afdelingshoofden
 
 De afdelingshoofden zijn verantwoordelijk voor de volgende algemene taken:
 
@@ -118,7 +144,7 @@ De afdelingshoofden zijn verantwoordelijk voor de volgende algemene taken:
 
 - i. het actief bijdragen aan het platform voor kennisuitwisseling en netwerkbeheer op het vakgebied van het afdelingshoofd.
 
-#### Artikel 4. Verantwoordelijkheden afdeling PSO
+##### Artikel 4. Verantwoordelijkheden afdeling PSO
 
 De afdeling PSO is verantwoordelijk voor de volgende taken:
 
@@ -144,7 +170,7 @@ De afdeling PSO is verantwoordelijk voor de volgende taken:
 
 - k. het op aanvraag van het Directieteam verrichten van het programma- en projectmanagement op de inhoudelijke thema’s en onderwerpen uit de programmering van de Nederlandse Arbeidsinspectie.
 
-#### Artikel 5. Verantwoordelijkheden afdeling BO
+##### Artikel 5. Verantwoordelijkheden afdeling BO
 
 De afdeling BO is verantwoordelijk voor de volgende taken:
 
@@ -166,7 +192,7 @@ De afdeling BO is verantwoordelijk voor de volgende taken:
 
 - i. het tot stand brengen en onderhouden van convenanten en samenwerkingsovereenkomsten.
 
-#### Artikel 6. Verantwoordelijkheden afdeling COM
+##### Artikel 6. Verantwoordelijkheden afdeling COM
 
 De afdeling COM is verantwoordelijk voor het, in afstemming met de overige directies, verzorgen van de communicatie in brede zin van de Nederlandse Arbeidsinspectie, met name door:
 
@@ -176,7 +202,7 @@ De afdeling COM is verantwoordelijk voor het, in afstemming met de overige direc
 
 - c. het ondersteunen en uitvoeren van nalevingscommunicatie door onder meer instrumentontwikkeling.
 
-#### Artikel 7. Verantwoordelijkheden afdeling HH
+##### Artikel 7. Verantwoordelijkheden afdeling HH
 
 De afdeling HH is verantwoordelijk voor:
 
@@ -202,7 +228,7 @@ De afdeling HH is verantwoordelijk voor:
 
 - h. het leveren van juridische bijstand bij het tot stand brengen en onderhouden van convenanten en samenwerkingsovereenkomsten.
 
-#### Artikel 8. Verantwoordelijkheden afdeling BDI
+##### Artikel 8. Verantwoordelijkheden afdeling BDI
 
 De afdeling BDI is verantwoordelijk voor:
 
@@ -216,11 +242,11 @@ De afdeling BDI is verantwoordelijk voor:
 
 #### § 4. Bevoegdheden
 
-#### Artikel 9. Bevoegdheden afdelingshoofd en teamleiders BDI
+##### Artikel 9. Bevoegdheden afdelingshoofd en teamleiders BDI
 
 Het hoofd en de teamleiders van de afdeling BDI zijn bevoegd om namens een bewindspersoon besluiten te nemen, privaatrechtelijke rechtshandelingen te verrichten en handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met het werkterrein van hun organisatieonderdeel en voor zover zij niet zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de inspecteur-generaal of de directeur.
 
-#### Artikel 10. Volmacht en machtiging betreffende personeelsaangelegenheden
+##### Artikel 10. Volmacht en machtiging betreffende personeelsaangelegenheden
 
 1. Aan de afdelingshoofden en de teamleiders van de directie wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van medewerkers van de eigen organisatorische eenheid, voor zover het betreft:
 
@@ -236,7 +262,7 @@ Het hoofd en de teamleiders van de afdeling BDI zijn bevoegd om namens een bewin
 
 2. In aanvulling op het eerste lid wordt aan de afdelingshoofden ook volmacht en machtiging verleend met betrekking tot het vaststellen van een beoordeling van een medewerker die rechtstreeks ressorteert onder een onder hem ressorterende teamleider, die is opgesteld door een teamleider die rechtstreeks onder hem ressorteert.
 
-#### Artikel 11. Volmachten afdelingshoofden
+##### Artikel 11. Volmachten afdelingshoofden
 
 De afdelingshoofden zijn binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst betreffende:
 
@@ -244,11 +270,11 @@ De afdelingshoofden zijn binnen de daarvoor geldende departementale, dan wel doo
 
 - b. activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor de eigen afdeling.
 
-#### Artikel 12. Volmacht afdelingshoofd COM
+##### Artikel 12. Volmacht afdelingshoofd COM
 
 Het hoofd van de afdeling COM is gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot de communicatie van de Nederlandse Arbeidsinspectie met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst of bestelling.
 
-#### Artikel 13. Plaatsvervanging
+##### Artikel 13. Plaatsvervanging
 
 1. Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, de taken en bevoegdheden van de directeur geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
 
@@ -256,21 +282,21 @@ Het hoofd van de afdeling COM is gevolmachtigd tot het aangaan van overeenkomste
 
 #### § 5. Slotbepalingen
 
-#### Artikel 14. Intrekking regeling
+##### Artikel 14. Intrekking regeling
 
 Het [Organisatie-, mandaat- en volmachtbesluit directie Analyse, Programmering en Signalering 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031926) wordt ingetrokken.
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 2017.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Analyse, Programmering en Strategie 2017.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a. Verantwoordelijkheden teamleiders
+##### Artikel 3a. Verantwoordelijkheden teamleiders
 
 De teamleiders zijn verantwoordelijk voor de volgende algemene taken:
 
@@ -314,7 +340,7 @@ De teamleiders zijn verantwoordelijk voor de volgende algemene taken:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 8a. Verantwoordelijkheden afdeling PCF
+##### Artikel 8a. Verantwoordelijkheden afdeling PCF
 
 De afdeling PCF is verantwoordelijk voor:
 
@@ -326,7 +352,7 @@ De afdeling PCF is verantwoordelijk voor:
 
 - d. het adviseren over en het uitvoeren van de planning, administratie en control van de Nederlandse Arbeidsinspectie, waaronder mede begrepen het financiële beheer en het contractbeheer.
 
-#### Artikel 8b. Verantwoordelijkheden afdeling SPO
+##### Artikel 8b. Verantwoordelijkheden afdeling SPO
 
 De afdeling SPO is verantwoordelijk voor:
 
@@ -354,7 +380,7 @@ De afdeling SPO is verantwoordelijk voor:
 
 #### § 4. Bevoegdheden
 
-#### Artikel 11a. Volmacht teamleiders
+##### Artikel 11a. Volmacht teamleiders
 
 De teamleiders zijn gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 5.000,– inclusief BTW per overeenkomst betreffende activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor het eigen team binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders.
 
@@ -362,7 +388,7 @@ De teamleiders zijn gevolmachtigd tot het aangaan van overeenkomsten ter waarde 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 12a. Volmachten hoofd en teamleiders SPO
+##### Artikel 12a. Volmachten hoofd en teamleiders SPO
 
 1. Het hoofd van de afdeling SPO is gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot het materieelbeheer, het facilitymanagement en de huisvesting van en het personeelsadvies voor de Nederlandse Arbeidsinspectie, met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst of bestelling.
 

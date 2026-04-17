@@ -1,18 +1,44 @@
 ---
-title: "Besluit Ereteken voor Verdienste van het Ministerie van Buitenlandse Zaken"
+title: "Besluit van de Minister van Buitenlandse Zaken van 21 maart 2011, nr. DJZ/BR/0282-11, houdende instelling van het Ereteken voor Verdienste (Besluit Ereteken voor Verdienste van het Ministerie van Buitenlandse Zaken)"
 identifier: "BWBR0029790"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2011-04-01
-laatste_update: 2011-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029790"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2011-04-01"
+last_updated: "2011-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029790"
+soort: "ministeriele-regeling"
+stam_id: "11285333"
+version_id: "18485272"
+internal_id: "C25795931"
+label_id: "11259384"
+dtd_version: "2.0"
+original_entry_into_force: "2011-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029790/2011-04-01/0"
+intitule_bron: "Stcrt.2011-5628"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-03-21"
+intitule_published: "2011-03-31"
+intitule_in_force: "2011-03-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-5628"
+original_signed_date: "2011-03-21"
+original_published_date: "2011-03-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-5628"
+entry_into_force_date: "2011-04-01"
+jci_1_3: "jci1.3:c:BWBR0029790&z=2011-04-01&g=2011-04-01"
+jci_1_0: "1.0:c:BWBR0029790&g=2011-04-01"
+citeertitel_status: "officieel"
+short_title: "Besluit Ereteken voor Verdienste van het Ministerie van Buitenlandse Zaken"
+signed_date: "2011-03-21"
+entry_into_force: "2011-04-01"
 ---
-
 # Besluit van de Minister van Buitenlandse Zaken van 21 maart 2011, nr. DJZ/BR/0282-11, houdende instelling van het Ereteken voor Verdienste (Besluit Ereteken voor Verdienste van het Ministerie van Buitenlandse Zaken)
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Er is een Ereteken voor Verdienste van het Ministerie van Buitenlandse Zaken, als omschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029790&bijlage=1&z=2011-04-01&g=2011-04-01) bij dit besluit.
 
@@ -22,7 +48,7 @@ Besluit:
 
 - b. het Ereteken in goud.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Minister van Buitenlandse Zaken kan het Ereteken toekennen aan personen met bijzondere en persoonlijke verdiensten voor het Ministerie van Buitenlandse Zaken dan wel voor de internationale betrekkingen van het Koninkrijk der Nederlanden.
 
@@ -30,7 +56,7 @@ Besluit:
 
 3. Bij de uitreiking van het Ereteken wordt een oorkonde overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029790&bijlage=2&z=2011-04-01&g=2011-04-01) dan wel [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029790&bijlage=3&z=2011-04-01&g=2011-04-01) bij dit besluit verstrekt.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Degene aan wie het Ereteken in zilver is toegekend, is bevoegd het te dragen aan een lint op de linkerborst.
 
@@ -44,15 +70,15 @@ Besluit:
 
 - c. op uniformkleding een baton van het lint ter grootte van 27 bij 11 mm.
 
-#### Artikel 4
+##### Artikel 4
 
 Het [besluit van 14 oktober 2010, nr. DKP-2010/885, houdende instellling van het Ereteken voor Verdienste](https://wetten.overheid.nl/jci1.3:c:BWBR0029122) wordt ingetrokken. Eretekenen die voor inwerkingtreding van het onderhavige besluit zijn toegekend, berusten na inwerkingtreding op dit besluit.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het geplaatst wordt en werkt terug tot en met 14 oktober 2010.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit Ereteken voor Verdienste van het Ministerie van Buitenlandse Zaken.
 

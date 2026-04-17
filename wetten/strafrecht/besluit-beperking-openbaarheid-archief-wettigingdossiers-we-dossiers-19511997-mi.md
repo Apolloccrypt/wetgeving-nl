@@ -1,13 +1,39 @@
 ---
-title: "Besluit beperking openbaarheid archief wettigingdossiers (WE-dossiers) 1951–1997 Ministerie van Justitie"
+title: "Besluit van de Minister van Justitie en Veiligheid d.d. 13 april 2023, kenmerk 4347283, houdende beperking van de openbaarheid van het archief wettigingdossiers (WE-dossiers) 1951–1997 van het Ministerie van Justitie"
 identifier: "BWBR0048088"
-categorie: "Strafrecht"
-publicatiedatum: 2023-04-22
-laatste_update: 2023-04-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048088"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-04-22"
+last_updated: "2023-04-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048088"
+soort: "ministeriele-regeling"
+stam_id: "16729253"
+version_id: "29349332"
+internal_id: "C41878001"
+label_id: "16645764"
+dtd_version: "2.0"
+original_entry_into_force: "2023-04-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048088/2023-04-22/0"
+intitule_bron: "Stcrt.2023-11632"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-04-13"
+intitule_published: "2023-04-21"
+intitule_in_force: "2023-04-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-11632"
+original_signed_date: "2023-04-13"
+original_published_date: "2023-04-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-11632"
+entry_into_force_date: "2023-04-22"
+jci_1_3: "jci1.3:c:BWBR0048088&z=2023-04-22&g=2023-04-22"
+jci_1_0: "1.0:c:BWBR0048088&g=2023-04-22"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid archief wettigingdossiers (WE-dossiers) 1951–1997 Ministerie van Justitie"
+signed_date: "2023-04-13"
+entry_into_force: "2023-04-22"
 ---
-
 # Besluit van de Minister van Justitie en Veiligheid d.d. 13 april 2023, kenmerk 4347283, houdende beperking van de openbaarheid van het archief wettigingdossiers (WE-dossiers) 1951–1997 van het Ministerie van Justitie
 
 Gelet op [artikel 15, lid 1, onder a, Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van de Algemene Rijksarchivaris d.d. 30 maart 2023, met kenmerk 1297092.
@@ -16,7 +42,7 @@ Besluit:
 
 Tot de volgende beperkingen aan de openbaarheid van het archief wettigingdossiers (WE-dossiers) 1951–1997.
 
-#### Artikel 1
+##### Artikel 1
 
 Gelet op het feit dat in de inventarisnummers genoemd in de eerste kolom bijzondere persoonsgegevens als bedoeld in de Algemene Verordening Gegevensbescherming zijn deze inventarisnummers met het oog op de eerbiediging van de persoonlijke levenssfeer beperkt openbaar tot het jaar, genoemd in de tweede kolom.
 
@@ -69,14 +95,14 @@ Gelet op het feit dat in de inventarisnummers genoemd in de eerste kolom bijzond
 | 45 | 2044 | 91 | 2054 |   |   |
 | 46 | 2062 | 92 | 2043 |   |   |
 
-#### Artikel 2
+##### Artikel 2
 
 Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048088&artikel=1&z=2023-04-22&g=2023-04-22), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris. Deze toestemming wordt verleend volgens de bij het Nationaal Archief geldende procedure voor het gebruik van beperkt openbare archieven die bijzondere persoonsgegevens bevatten. Alleen schriftelijke verzoeken tot raadpleging worden in behandeling genomen. De algemene rijksarchivaris kan aan zijn toestemming voorwaarden verbinden.
 
-#### Artikel 3
+##### Artikel 3
 
 Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048088&artikel=1&z=2023-04-22&g=2023-04-22), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris. Deze toestemming wordt verleend volgens de bij het Nationaal Archief geldende procedure voor het gebruik van beperkt openbare archieven die bijzondere persoonsgegevens bevatten. Alleen schriftelijke verzoeken tot raadpleging worden in behandeling genomen. De algemene rijksarchivaris kan aan zijn toestemming voorwaarden verbinden.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief wettigingdossiers (WE-dossiers) 1951–1997 van het Ministerie van Justitie’.

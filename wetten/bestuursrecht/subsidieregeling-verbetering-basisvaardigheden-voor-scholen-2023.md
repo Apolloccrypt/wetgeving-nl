@@ -1,16 +1,42 @@
 ---
-title: "Subsidieregeling verbetering basisvaardigheden voor scholen 2023"
+title: "De Regeling van de Minister voor Primair en Voortgezet Onderwijs van 21 maart 2023, nr. VO/37433047, houdende regels voor de subsidieverstrekking aan scholen voor het verbeteren van de basisvaardigheden met bewezen effectieve interventies (Subsidieregeling verbetering basisvaardigheden voor scholen 2023)"
 identifier: "BWBR0047996"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-07-21
-laatste_update: 2023-07-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047996"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-07-21"
+last_updated: "2023-07-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047996"
+soort: "ministeriele-regeling"
+stam_id: "16702993"
+version_id: "29299912"
+internal_id: "C41732521"
+label_id: "16619924"
+dtd_version: "2.0"
+original_entry_into_force: "2023-03-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047996/2023-07-21/0"
+intitule_bron: "Stcrt.2023-9393"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-03-21"
+intitule_published: "2023-03-24"
+intitule_in_force: "2023-03-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-9393"
+original_signed_date: "2023-03-21"
+original_published_date: "2023-03-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-9393"
+entry_into_force_date: "2023-03-25"
+jci_1_3: "jci1.3:c:BWBR0047996&z=2023-07-21&g=2023-07-21"
+jci_1_0: "1.0:c:BWBR0047996&g=2023-07-21"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling verbetering basisvaardigheden voor scholen 2023"
+signed_date: "2023-03-21"
+entry_into_force: "2023-03-25"
 ---
-
 # De Regeling van de Minister voor Primair en Voortgezet Onderwijs van 21 maart 2023, nr. VO/37433047, houdende regels voor de subsidieverstrekking aan scholen voor het verbeteren van de basisvaardigheden met bewezen effectieve interventies (Subsidieregeling verbetering basisvaardigheden voor scholen 2023)
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -62,11 +88,11 @@ In deze regeling wordt verstaan onder:
 
 - **WVO 2020:** [Wet op het voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 1. Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Doelgroep van de regeling en te subsidiëren activiteiten
+##### Artikel 3. Doelgroep van de regeling en te subsidiëren activiteiten
 
 1. De Minister kan ter verbetering van de basisvaardigheden aan een bevoegd gezag voor de schooljaren 2023/2024 en 2024/2025 subsidie verstrekken voor de uitvoering van één of meer evidence-informed interventies en de monitoring daarvan.
 
@@ -74,7 +100,7 @@ In deze regeling wordt verstaan onder:
 
 3. Op grond van deze subsidieregeling kan uitsluitend subsidie worden aangevraagd door het bevoegd gezag van een school waarvan de kwaliteit van het onderwijs, op vestigingsniveau in het primair onderwijs en primair onderwijs BES, hetzij op het niveau van één of meer van de afdelingen van de school in het voortgezet onderwijs, door de Inspectie van het onderwijs op de peildatum 1 september 2022, noch op de peildatum 1 februari 2023 van plaatsing op de website van de onderwijsinspectie niet als zeer zwak of onvoldoende is beoordeeld.
 
-#### Artikel 4. Aanvraag subsidie
+##### Artikel 4. Aanvraag subsidie
 
 1. Een bevoegd gezag kan per vestiging één aanvraag voor de subsidie indienen.
 
@@ -94,7 +120,7 @@ In deze regeling wordt verstaan onder:
 
 4. Indien een aanvraag onvolledig is, krijgt de aanvrager onder toepassing van [artikel 4:5, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) één week de tijd om de aanvraag aan te vullen.
 
-#### Artikel 5. Subsidieplafonds en deelplafonds
+##### Artikel 5. Subsidieplafonds en deelplafonds
 
 1. Voor verstrekking van de subsidie is een bedrag beschikbaar van in totaal € 594.062.000, waarvan:
 
@@ -110,7 +136,7 @@ In deze regeling wordt verstaan onder:
 
 3. Als de middelen, na toepassing van het tweede lid, niet volledig worden benut, kan het resterende bedrag door wijziging van de regeling worden toegevoegd aan het beschikbare budget voor het tweede aanvraagtijdvak, bedoeld in [artikel 5, eerste lid, van de Subsidieregeling verbetering basisvaardigheden voor prioriteitsscholen 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047992&artikel=5).
 
-#### Artikel 6. Subsidiebedrag
+##### Artikel 6. Subsidiebedrag
 
 1. Het subsidiebedrag voor een school voor primair onderwijs en primair onderwijs BES wordt berekend door het aantal leerlingen dat op 1 februari 2022 stond ingeschreven op de desbetreffende vestiging te vermenigvuldigen met een bedrag van € 1.000,–.
 
@@ -118,7 +144,7 @@ In deze regeling wordt verstaan onder:
 
 3. Het subsidiebedrag wordt aan een bevoegd gezag op Bonaire, Sint Eustatius of Saba uitbetaald in dollars tegen de vastgestelde wisselkoers.
 
-#### Artikel 7. Wijze van verdeling beschikbare middelen
+##### Artikel 7. Wijze van verdeling beschikbare middelen
 
 Indien de toewijzing van alle daarvoor in aanmerking komende aanvragen voor een subsidie leidt tot overschrijding van een subsidieplafond als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047996&artikel=5&z=2023-07-21&g=2023-07-21), krijgen de aanvragen van de vestigingen van scholen op Caribisch Nederland voorrang. Vervolgens worden de overige aanvragen ten laste van het betreffende deelplafond als volgt gerangschikt:
 
@@ -130,7 +156,7 @@ Indien de toewijzing van alle daarvoor in aanmerking komende aanvragen voor een 
 
 - d. aanvragen ten behoeve van het speciaal onderwijs voortgezet speciaal onderwijs en speciaal basisonderwijs worden gerangschikt op volgorde van het hoogste naar het laagste aandeel Cumi-leerlingen per vestiging zoals berekend door de Dienst Uitvoering Onderwijs op 1 februari 2022.
 
-#### Artikel 8. Afwijzingsgrond
+##### Artikel 8. Afwijzingsgrond
 
 Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt een subsidie in elk geval geweigerd:
 
@@ -138,7 +164,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 - b. indien de kwaliteit van het onderwijs van de desbetreffende schoolvestiging in het po of afdeling in het vo door de Inspectie van het onderwijs op peildatum 1 september 2022 of 1 februari 2023 als zeer zwak of onvoldoende is beoordeeld.
 
-#### Artikel 9. Subsidieverplichtingen
+##### Artikel 9. Subsidieverplichtingen
 
 In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) is de subsidieontvanger verplicht om:
 
@@ -148,7 +174,7 @@ In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/j
 
 - c. de activiteiten waarvoor subsidie is verstrekt uit te voeren uiterlijk tot en met 31 juli 2025.
 
-#### Artikel 10. Verlening, vaststelling en verantwoording subsidie
+##### Artikel 10. Verlening, vaststelling en verantwoording subsidie
 
 1. In afwijking van [artikel 9.1, vierde lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=9.1) wordt de subsidie aan het bevoegd gezag binnen 13 weken na sluiting van de aanvraagperiode verleend. De Minister verstrekt een voorschoot van 100%, dat in twee gelijke delen wordt uitbetaald. Het eerste deel wordt betaald in 2023, en het tweede deel in 2024.
 
@@ -158,17 +184,17 @@ In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/j
 
 4. Indien de activiteiten waarvoor de subsidie is verleend geheel zijn verricht en volledig is voldaan aan de verplichtingen die verbonden zijn aan de verleende subsidie, wordt de subsidie vastgesteld op het bedrag waarvan de hoogte door de Minister bij de verlening is genoemd.
 
-#### Artikel 11. Hardheidsclausule
+##### Artikel 11. Hardheidsclausule
 
 De Minister kan één of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing daarvan, gelet op het belang dat de desbetreffende bepaling beoogt te beschermen zou leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 12. Inwerkingtreding en vervaldatum
+##### Artikel 12. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 17 maart 2028.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling verbetering basisvaardigheden voor scholen 2023.
 

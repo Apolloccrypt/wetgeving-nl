@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzing opbrengstverrekening cggz-instellingen en enkele andere opbrengstverrekening aangelegenheden"
+title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, nr. MC-U-3082225, inzake opbrengstverrekening cggz-instellingen en enkele andere opbrengstverrekening aangelegenheden"
 identifier: "BWBR0030490"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-04-01
-laatste_update: 2014-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030490"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-04-01"
+last_updated: "2014-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030490"
+soort: "ministeriele-regeling"
+stam_id: "11456823"
+version_id: "18825162"
+internal_id: "C26276741"
+label_id: "11430284"
+dtd_version: "2.0"
+original_entry_into_force: "2011-10-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030490/2014-04-01/0"
+intitule_bron: "Stcrt.2011-17600"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-09-22"
+intitule_published: "2011-10-03"
+intitule_in_force: "2011-10-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-17600"
+original_signed_date: "2011-09-22"
+original_published_date: "2011-10-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-17600"
+entry_into_force_date: "2011-10-03"
+jci_1_3: "jci1.3:c:BWBR0030490&z=2014-04-01&g=2014-04-01"
+jci_1_0: "1.0:c:BWBR0030490&g=2014-04-01"
+citeertitel_status: "officieel"
+short_title: "Aanwijzing opbrengstverrekening cggz-instellingen en enkele andere opbrengstverrekening aangelegenheden"
+signed_date: "2011-09-22"
+entry_into_force: "2011-10-03"
 ---
-
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, nr. MC-U-3082225, inzake opbrengstverrekening cggz-instellingen en enkele andere opbrengstverrekening aangelegenheden
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -24,7 +50,7 @@ Besluit:
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1. definities
+##### Artikel 1. definities
 
 - a. **minister:** de Minister van Volksgezondheid, Welzijn en Sport;
 
@@ -40,19 +66,19 @@ Besluit:
 
 - g. **gebudgetteerde cggz-instellingen:** instellingen als bedoeld in [artikel 2, tweede lid, van de Aanwijzing van de minister van Volksgezondheid, Welzijn en Sport van 5 oktober 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022714&artikel=2) (Stcrt. 2007, 207) zijnde instellingen die ultimo 2007 waren toegelaten en die voor 2007 productieafspraken hebben gemaakt met een zorgkantoor voor de prestaties tarieven in als bedoeld in [artikel 57, vierde lid, onder a, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57).
 
-#### Artikel 2. opdracht
+##### Artikel 2. opdracht
 
 De Nederlandse Zorgautoriteit stelt ter uitvoering van deze aanwijzing beleidsregels en regels vast.
 
 ### Hoofdstuk II. Opbrengstverrekening gebudgetteerde cggz-instellingen
 
-#### Artikel 3. werkingssfeer
+##### Artikel 3. werkingssfeer
 
 1. Dit hoofdstuk is van toepassing op zorg geleverd door gebudgetteerde cggz-instellingen.
 
 2. In deze aanwijzing wordt onder gebudgetteerde cggz-instelling als bedoeld in het eerste lid mede begrepen de medisch specialisten die in of ten behoeve van die instelling werkzaam zijn.
 
-#### Artikel 4. opbrengstverschil
+##### Artikel 4. opbrengstverschil
 
 1. De zorgautoriteit stelt voor 2010 en daarna voor ieder volgend jaar, mede op basis van door de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030490&hoofdstuk=II&artikel=3&z=2014-04-01&g=2014-04-01) bedoelde instellingen verstrekte gegevens, per instelling ambtshalve vast, het verschil tussen het budget en de daadwerkelijke opbrengst die is toe te rekenen aan de in dat jaar geleverde zorgproductie, verder te noemen het opbrengstverschil.
 
@@ -60,11 +86,11 @@ De Nederlandse Zorgautoriteit stelt ter uitvoering van deze aanwijzing beleidsre
 
 3. De zorgautoriteit informeert het Zorginstituut over een verrekenpercentage per instelling waarmee de som van de door de instelling in rekening gebrachte tarieven ten behoeve van de vaststelling van de vereveningsbijdrage kunnen worden gecorrigeerd.
 
-#### Artikel 5. opschorting
+##### Artikel 5. opschorting
 
 De zorgautoriteit schort de toepassing op van de verrekening van opbrengstverschillen, zoals die verrekening in beleidsregels van de zorgautoriteit is vormgegeven op het moment van inwerkingtreding van onderhavige aanwijzing, voor zover de verrekening van het bedrag als bedoeld in het vorige artikel daadwerkelijk plaats vindt dan wel voor zover een betrokken instelling en de bij die instelling betrokken verzekeraars gezamenlijk van die daadwerkelijke verrekening afzien.
 
-#### Artikel 6. toerekening opbrengstverschil
+##### Artikel 6. toerekening opbrengstverschil
 
 1. De zorgautoriteit stelt voor de afrekening van het budgetjaar 2010 en daarna voor ieder volgend jaar, mede op basis van door het Zorginstituut verstrekte gegevens, per instelling ambtshalve vast, welk deel van het opbrengstverschil, zoals genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030490&hoofdstuk=II&artikel=4&z=2014-04-01&g=2014-04-01), is toe te rekenen aan te onderscheiden individuele, in het desbetreffende jaar werkzame:
 
@@ -76,13 +102,13 @@ De zorgautoriteit schort de toepassing op van de verrekening van opbrengstversch
 
 3. De zorgautoriteit vermeldt de in het eerste lid bedoelde toerekening voor de onderscheiden individuele verzekeraar in een brief waarmee zij het bedrag, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030490&hoofdstuk=II&artikel=4&z=2014-04-01&g=2014-04-01), aan deze bekend maakt.
 
-#### Artikel 7. opbrengstverrekening 2012 en volgende
+##### Artikel 7. opbrengstverrekening 2012 en volgende
 
 Met ingang van 2012 vindt met inachtneming van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030490&hoofdstuk=III&artikel=9&z=2014-04-01&g=2014-04-01) de opbrengstverrekening plaats op grond van [artikel 56b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56b).
 
 ### Hoofdstuk III. Versnelling opbrengstverrekening
 
-#### Artikel 8. werkingssfeer
+##### Artikel 8. werkingssfeer
 
 Dit hoofdstuk is van toepassing voor:
 
@@ -92,7 +118,7 @@ Dit hoofdstuk is van toepassing voor:
 
 - c. cggz-instellingen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030490&hoofdstuk=II&artikel=3&z=2014-04-01&g=2014-04-01) van onderhavige aanwijzing.
 
-#### Artikel 9. Versnelling tijdpad opbrengstverrekening
+##### Artikel 9. Versnelling tijdpad opbrengstverrekening
 
 De zorgautoriteit voorziet er met betrokkenheid van het Zorginstituut in dat met ingang van het budgetjaar 2010 het tijdpad bij de toepassing van de opbrengstverrekening voor de instellingen bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030490&hoofdstuk=III&artikel=8&z=2014-04-01&g=2014-04-01) als volgt kan verlopen:
 
@@ -106,17 +132,17 @@ De zorgautoriteit voorziet er met betrokkenheid van het Zorginstituut in dat met
 
 ### Hoofdstuk IV. Aanpassing [Aanwijzing transitie prestatiebekostiging medisch specialistische zorg 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030318)
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt de Aanwijzing transitiemodel prestatiebekostiging medisch specialistische zorg 2012.
 
 ### Hoofdstuk V. Overgangs- en slotartikelen
 
-#### Artikel 11
+##### Artikel 11
 
 Deze aanwijzing wordt aangehaald als: Aanwijzing opbrengstverrekening cggz-instellingen en enkele andere opbrengstverrekening aangelegenheden.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Met uitzondering van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030490&hoofdstuk=II&artikel=7&z=2014-04-01&g=2014-04-01) treedt deze aanwijzing terstond in werking.
 

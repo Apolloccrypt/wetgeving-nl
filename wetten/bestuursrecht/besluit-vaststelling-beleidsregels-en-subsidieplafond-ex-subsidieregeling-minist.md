@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling beleidsregels en subsidieplafond ex Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidiebeleidskader NFRP Politieke Partijen Programma 2019)"
+title: "Besluit van de minister van Buitenlandse Zaken van 5 september 2018, nr. MinBuZa-2018.986886, tot vaststelling van beleidsregels en een subsidieplafond op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidiebeleidskader NFRP Politieke Partijen Programma 2019)"
 identifier: "BWBR0041337"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-11-21
-laatste_update: 2018-09-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041337"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-11-21"
+last_updated: "2018-09-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041337"
+soort: "ministeriele-regeling"
+stam_id: "14778893"
+version_id: "25280802"
+internal_id: "C36116211"
+label_id: "14730924"
+dtd_version: "2.0"
+original_entry_into_force: "2018-09-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041337/2019-11-21/0"
+intitule_bron: "Stcrt.2018-51358"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-09-05"
+intitule_published: "2018-09-13"
+intitule_in_force: "2018-09-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-51358"
+original_signed_date: "2018-09-05"
+original_published_date: "2018-09-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-51358"
+entry_into_force_date: "2018-09-14"
+jci_1_3: "jci1.3:c:BWBR0041337&z=2019-11-21&g=2019-11-21"
+jci_1_0: "1.0:c:BWBR0041337&g=2019-11-21"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling beleidsregels en subsidieplafond ex Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidiebeleidskader NFRP Politieke Partijen Programma 2019)"
+signed_date: "2018-09-05"
+entry_into_force: "2018-09-14"
 ---
-
 # Besluit van de minister van Buitenlandse Zaken van 5 september 2018, nr. MinBuZa-2018.986886, tot vaststelling van beleidsregels en een subsidieplafond op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidiebeleidskader NFRP Politieke Partijen Programma 2019)
 
 Gelet op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=6) en [artikel 7 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=7);
@@ -16,7 +42,7 @@ Gelet op [artikel 2.2, sub a en sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor subsidieverlening op grond van [artikel 2.2, sub a en sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=2.2), en [artikel 2.3, sub a en sub c, van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=2.3) in het kader van het Nederlands Fonds voor Regionale Partnerschappen Politieke Partijen Programma 2019 met het oog op de financiering van activiteiten ter bevordering van de capaciteitsversterking van politieke partijen, bewegingen of organisaties waarmee Nederlandse politieke partijen ideologische en democratische waarden delen gelden voor het tijdvak vanaf inwerkingtreding van dit besluit tot en met 31 december 2019 de als bijlage bij dit besluit gevoegde beleidsregels.
 
@@ -24,15 +50,15 @@ Besluit:
 
 3. Van het in het tweede lid genoemde subsidieplafond is € 553.934,67 beschikbaar voor subsidieverstrekking in het kader van NFRP Matra en € 1.637.647,33 voor subsidieverstrekking in het kader van NRFP Shiraka.
 
-#### Artikel 2
+##### Artikel 2
 
 Aanvragen voor een subsidie in het kader van het Nederlands Fonds voor Regionale Partnerschappen Politieke Partijen Programma 2019 worden ingediend vanaf de datum van inwerkingtreding van dit besluit tot en met 31 oktober 2018 aan de hand van het daartoe door de minister vastgestelde aanvraagformulier en voorzien van de op dit formulier vermelde bescheiden.1Het aanvraagformulier wordt geplaatst op https://www.rijksoverheid.nl/onderwerpen/europese-subsidies/nederlands-fonds-voor-regionale-partnerschappen-nfrp.
 
-#### Artikel 3
+##### Artikel 3
 
 De beschikbare middelen worden verdeeld over de aanvragers die voldoen aan de criteria neergelegd in de bij dit besluit behorende bijlage, aan de hand van een basisbedrag per aanvrager en een bedrag naar rato van het aantal zetels dat de politieke partij waaraan de aanvrager is gelieerd in de Tweede Kamer heeft.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 januari 2020, met dien verstande dat het van toepassing blijft op subsidies die voor die datum zijn verleend.
 

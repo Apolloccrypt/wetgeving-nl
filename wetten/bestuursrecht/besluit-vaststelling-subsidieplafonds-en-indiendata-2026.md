@@ -1,13 +1,38 @@
 ---
 title: "Besluit vaststelling subsidieplafonds en indiendata 2026"
 identifier: "BWBR0052239"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052239"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052239"
+soort: "zbo"
+stam_id: "17749803"
+version_id: "31360362"
+internal_id: "C44815611"
+label_id: "17648154"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052239/2026-01-01/0"
+intitule_bron: "Stcrt.2026-2503"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-22"
+intitule_published: "2026-01-30"
+intitule_in_force: "2026-01-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-2503"
+original_signed_date: "2025-12-22"
+original_published_date: "2026-01-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-2503"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0052239&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0052239&g=2026-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2025-12-22"
+entry_into_force: "2026-01-01"
 ---
-
 # Besluit vaststelling subsidieplafonds en indiendata 2026
 
 Gelet op [artikel 4:25, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:25);
@@ -30,7 +55,7 @@ Besluit:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1. Tekst en compositie
+##### Artikel 1. Tekst en compositie
 
 1. Voor **ontwikkelbeurs muziekauteur** als bedoeld in [artikel 2.1 van de Deelregeling composities en libretto’s Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0036773&artikel=2.1) geldt in 2026 het volgende:
 
@@ -46,7 +71,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 | Ronde 1 | 274.000 | 14 januari 2026 |
 | Ronde 2 | 274.000 | 24 juni 2026 |
 
-#### Artikel 2. Produceren
+##### Artikel 2. Produceren
 
 1. Voor **productiesubsidies** als bedoeld in [artikel 2.1 van de Deelregeling projectsubsidies Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0029367&artikel=2.1) geldt in 2026 het volgende:
 
@@ -68,7 +93,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 | --- |
 | 649.000 |
 
-#### Artikel 4. Talentontwikkeling
+##### Artikel 4. Talentontwikkeling
 
 Voor een **financiële bijdrage Upstream: Music** als bedoeld in [artikel 1.2 van de regeling Upstream: Music](https://wetten.overheid.nl/jci1.3:c:BWBR0046574&artikel=1.2) geldt in 2026 het volgende:
 
@@ -76,7 +101,7 @@ Voor een **financiële bijdrage Upstream: Music** als bedoeld in [artikel 1.2 va
 | --- |
 | 800.000 |
 
-#### Artikel 5. Programmering
+##### Artikel 5. Programmering
 
 1. Voor **programmeringssubsidies festivals popmuziek** als bedoeld in [artikel 8.1 van de Deelregeling programmeringssubsidies Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&artikel=8.1) geldt in 2026 het volgende. Deze subsidie is doorlopend aan te vragen.
 
@@ -84,7 +109,7 @@ Voor een **financiële bijdrage Upstream: Music** als bedoeld in [artikel 1.2 va
 | --- |
 | 75.000 |
 
-#### Artikel 6. Internationalisering
+##### Artikel 6. Internationalisering
 
 1. Voor **subsidie voor Nederlandse voorstellingen of concerten in het buitenland** als bedoeld in [artikel 2.1 van de Deelregeling internationaliseringssubsidies Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030540&artikel=2.1), **buitenlandse voorstellingen of concerten in Nederland** als bedoeld in [artikel 3.1 van de Deelregeling internationaliseringssubsidies Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030540&artikel=3.1) en voor **internationale coproducties** als bedoeld in [4.1 van de Deelregeling internationaliseringssubsidies Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030540&artikel=4.1) geldt in 2026 het volgende:
 
@@ -107,7 +132,7 @@ Voor een **financiële bijdrage Upstream: Music** als bedoeld in [artikel 1.2 va
 | --- | --- |
 | 400.000 | 19 mei 2026 |
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Dit besluit wordt bekendgemaakt via de website van het Fonds Podiumkunsten en in de Staatscourant en treedt in werking met ingang van 1 januari 2026.
 

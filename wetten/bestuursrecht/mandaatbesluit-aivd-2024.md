@@ -1,13 +1,35 @@
 ---
 title: "Mandaatbesluit AIVD 2024"
 identifier: "BWBR0049852"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-06-25
-laatste_update: 2024-06-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049852"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-06-25"
+last_updated: "2024-06-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049852"
+soort: "ministeriele-regeling"
+stam_id: "17141273"
+version_id: "30167422"
+internal_id: "C43224751"
+label_id: "17049684"
+dtd_version: "2.0"
+original_entry_into_force: "2024-06-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049852/2024-06-25/0"
+intitule_bron: "Stcrt.2024-20687"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-06-24"
+intitule_in_force: "2024-06-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-20687"
+original_published_date: "2024-06-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-20687"
+entry_into_force_date: "2024-06-25"
+jci_1_3: "jci1.3:c:BWBR0049852&z=2024-06-25&g=2024-06-25"
+jci_1_0: "1.0:c:BWBR0049852&g=2024-06-25"
+citeertitel_status: "officieel"
+entry_into_force: "2024-06-25"
 ---
-
 # Mandaatbesluit AIVD 2024
 
 gelet op de [artikelen 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0048593&artikel=5.9) en [5.10 van het Mandaatbesluit BZK 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048593&artikel=5.10);
@@ -16,7 +38,7 @@ in overeenstemming met de Secretaris-Generaal en na advies van de directeur Fina
 
 besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit, de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0049852&bijlage=1&z=2024-06-25&g=2024-06-25) en daarop berustende bepalingen wordt verstaan onder:
 
@@ -44,7 +66,7 @@ In dit besluit, de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0049852&bij
 
 - l. **DG-controller:** het hoofd van de afdeling control van de AIVD.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van dit besluit, de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0049852&bijlage=1&z=2024-06-25&g=2024-06-25) en daarop berustende bepalingen wordt met verlening van mandaat gelijkgesteld de verlening van:
 
@@ -52,7 +74,7 @@ Voor de toepassing van dit besluit, de [bijlage](https://wetten.overheid.nl/jci1
 
 - b. machtiging om namens de Minister handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De plaatsvervangend directeur-generaal heeft mandaat om de besluiten te nemen waarvoor de directeur-generaal bevoegd is.
 
@@ -60,7 +82,7 @@ Voor de toepassing van dit besluit, de [bijlage](https://wetten.overheid.nl/jci1
 
 3. Na uitoefening van het mandaat, bedoeld in het tweede lid, stelt de plaatsvervangend directeur- generaal de directeur-generaal daarvan zo spoedig mogelijk op de hoogte.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De directeur heeft mandaat ten aanzien van aangelegenheden die behoren tot het werkterrein van de directeur en die, onverminderd het [Mandaatbesluit BZK 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048593), niet behoren te worden voorgelegd aan een hoger bevoegd gezag.
 
@@ -70,25 +92,25 @@ Voor de toepassing van dit besluit, de [bijlage](https://wetten.overheid.nl/jci1
 
 4. De [artikelen 7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0048593&artikel=7.7) en [7.8 van het Mandaatbesluit BZK 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048593&artikel=7.8) zijn niet van toepassing op het mandaat van de directeur.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Aan het unithoofd wordt mandaat verleend voor het aangaan van financiële verplichtingen en het doen van uitgaven. Dit mandaat is beperkt tot het budget dat aan de organisatorische eenheid waaraan het unithoofd verbonden is, ter beschikking is gesteld op basis van een door de directeur- generaal en de DG-controller goedgekeurde budgettaire uitwerking van dat deel van de begroting waarvoor de directeur, onder wie het unithoofd ressorteert, verantwoordelijk is, met een maximum van € 250.000,– per transactie.
 
 2. Bij tijdelijke afwezigheid of verhindering van het unithoofd worden diens taken volledig uitgeoefend door een ander unithoofd binnen de organisatorische eenheid waaraan het unithoofd verbonden is.
 
-#### Artikel 6
+##### Artikel 6
 
 Aan het teamhoofd, afdelingshoofd en bureauhoofd, die, na afstemming met de DG-controller en na goedkeuring van de directeur-generaal, zijn opgenomen in het in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049852&artikel=11&z=2024-06-25&g=2024-06-25), genoemde mandaatregister, wordt mandaat verleend voor het aangaan van financiële verplichtingen en het doen van uitgaven. Dit mandaat is beperkt tot het budget dat aan de organisatorische eenheid waaraan het teamhoofd, afdelingshoofd of bureauhoofd verbonden is, ter beschikking is gesteld op basis van een door de directeur-generaal en de DG-controller goedgekeurde budgettaire uitwerking van dat deel van de begroting waarvoor het unithoofd, onder wie het teamhoofd, afdelingshoofd of bureauhoofd ressorteert, verantwoordelijk is, met een maximum van € 50.000,– per transactie.
 
-#### Artikel 7
+##### Artikel 7
 
 Aan het afdelingshoofd juridische zaken van de AIVD wordt mandaat verleend om te besluiten op aanvragen als bedoeld in [hoofdstuk 5 van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&hoofdstuk=5).
 
-#### Artikel 8
+##### Artikel 8
 
 Aan de directeur en het unithoofd wordt mandaat verleend om namens de directeur-generaal mededelingen te doen als bedoeld in [artikel 62, eerste lid, van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=62).
 
-#### Artikel 9
+##### Artikel 9
 
 1. Aan het MT-lid, unithoofd, afdelingshoofd, teamhoofd en bureauhoofd wordt, binnen de daarvoor gestelde financiële en arbeidsjuridische kaders, mandaat verleend voor personele aangelegenheden binnen de organisatorische eenheid waaraan hij of zij leiding geeft, overeenkomstig de bij dit besluit gevoegde [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0049852&bijlage=1&z=2024-06-25&g=2024-06-25).
 
@@ -96,7 +118,7 @@ Aan de directeur en het unithoofd wordt mandaat verleend om namens de directeur-
 
 3. Het eerste lid is van overeenkomstige toepassing op het niet aan de directeur-generaal ondergeschikte plaatsvervangend unithoofd en teamhoofd, werkzaam bij het Veiligheidsonderzoekenhuis.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien overwegingen van principiële aard een rol spelen, indien zich uitzonderlijke politiek-bestuurlijke afbreukrisico's voordoen of indien overige bijzondere omstandigheden aanwezig zijn, oefent de in dit besluit gemandateerde functionaris zijn of haar mandaat niet uit. In die gevallen beslist de hiërarchisch hogere leidinggevende dan wel de directeur-generaal.
 
@@ -104,21 +126,21 @@ Aan de directeur en het unithoofd wordt mandaat verleend om namens de directeur-
 
 3. De directeur-generaal is bevoegd tot het intrekken, beperken of anderszins wijzigen van het ondermandaat.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De directeur Bedrijfsvoering draagt zorg voor de inrichting en het beheer van het mandaatregister, zoals bedoeld in [artikel 9.3 van het Mandaatbesluit BZK 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048593&artikel=9.3).
 
 2. Het mandaatregister is niet openbaar.
 
-#### Artikel 12
+##### Artikel 12
 
 Het [mandaatbesluit AIVD 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045233) en de aanvullingen daarop worden ingetrokken.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot 1 januari 2024.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit besluit wordt aangehaald als: Mandaatbesluit AIVD 2024.
 

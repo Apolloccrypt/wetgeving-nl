@@ -1,20 +1,46 @@
 ---
-title: "Regeling openstelling EZ-, LVVN- en KGG-subsidies 2026"
+title: "Regeling van de Minister van Economische Zaken, de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur en de Minister van Klimaat en Groene Groei, van 13 december 2025, nr. WJZ/102735469, tot vaststelling van de subsidieplafonds en termijnen van openstelling van EZ-subsidie-instrumenten, LVVN-subsidie-instrumenten en KGG-subsidie-instrumenten (Regeling openstelling EZ-, LVVN- en KGG-subsidies 2026) [KetenID WGK 28368]"
 identifier: "BWBR0052002"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-04-04
-laatste_update: 2026-04-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052002"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-04"
+last_updated: "2026-04-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052002"
+soort: "ministeriele-regeling"
+stam_id: "17688503"
+version_id: "31212312"
+internal_id: "C44645631"
+label_id: "17587524"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052002/2026-04-04/0"
+intitule_bron: "Stcrt.2025-42972"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-13"
+intitule_published: "2025-12-18"
+intitule_in_force: "2025-12-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-42972"
+original_signed_date: "2025-12-13"
+original_published_date: "2025-12-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-42972"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0052002&z=2026-04-04&g=2026-04-04"
+jci_1_0: "1.0:c:BWBR0052002&g=2026-04-04"
+citeertitel_status: "officieel"
+short_title: "Regeling openstelling EZ-, LVVN- en KGG-subsidies 2026"
+signed_date: "2025-12-13"
+entry_into_force: "2026-01-01"
 ---
-
 # Regeling van de Minister van Economische Zaken, de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur en de Minister van Klimaat en Groene Groei, van 13 december 2025, nr. WJZ/102735469, tot vaststelling van de subsidieplafonds en termijnen van openstelling van EZ-subsidie-instrumenten, LVVN-subsidie-instrumenten en KGG-subsidie-instrumenten (Regeling openstelling EZ-, LVVN- en KGG-subsidies 2026) [KetenID WGK 28368]
 
 Gelet op [artikel 3, derde lid, van de Kaderwet EZ-, LVVN- en KGG-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3), de [artikelen 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=5), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=16), [17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=17), en [50, van het Kaderbesluit nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=50) en [artikel 2.3 van de Regeling Europese EZ-, LVVN- en KGG-subsidies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=2.3);
 
 Besluiten:
 
-#### Artikel 1. Openstelling [Regeling nationale EZ-, LVVN- en KGG-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474)
+##### Artikel 1. Openstelling [Regeling nationale EZ-, LVVN- en KGG-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474)
 
 1. Als perioden waarin subsidieaanvragen kunnen worden ingediend krachtens de in kolom 1 genoemde titels van de [Regeling nationale EZ-, LVVN- en KGG-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474) en de in kolom 2 genoemde artikelen van die regeling, in voorkomende gevallen verbijzonderd naar de in kolom 3 omschreven of aangeduide groepen van aanvragers, programma’s, projecten of aanvragen, en de in kolom 4 omschreven thema’s of programmalijnen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5. Aanvragen zijn tijdig ingediend indien zij op de genoemde einddatum vóór 17.00 uur zijn ontvangen.
 
@@ -89,7 +115,7 @@ Besluiten:
 | [Titel 4a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4a.3): Cyberbeveiligingsinnovatieprojecten | [4a.3.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4a.3.2) |   | Het deelgebied ‘het bevorderen van crypto-agility’. | 09-12-2025 t/m 10-02-2026 | € 1.250.000 |
 |   | [4a.3.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4a.3.2) |   | Het deelgebied ‘het vereenvoudigen en meer kostenefficiënt maken van cyberbeveiligingsoplossingen’. | 09-12-2025 t/m 10-02-2026 | € 1.250.000 |
 
-#### Artikel 2. Rentepercentages [Regeling nationale EZ-, LVVN- en KGG-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474)
+##### Artikel 2. Rentepercentages [Regeling nationale EZ-, LVVN- en KGG-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474)
 
 De percentages, bedoeld in [artikel 3.9.9 van de Regeling nationale EZ-, LVVN- en KGG-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.9.9), bedragen voor de in 2026 aangevraagde subsidies voor innovatiekredieten:
 
@@ -99,7 +125,7 @@ De percentages, bedoeld in [artikel 3.9.9 van de Regeling nationale EZ-, LVVN- e
 
 - c. de opslag voor klinische ontwikkelingsprojecten: 25 procent.
 
-#### Artikel 3. Openstelling [Regeling Europese EZ-, LVVN- en KGG-subsidies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685)
+##### Artikel 3. Openstelling [Regeling Europese EZ-, LVVN- en KGG-subsidies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685)
 
 1. Als perioden waarin subsidieaanvragen kunnen worden ingediend krachtens de in kolom 1 genoemde titels van de [Regeling Europese EZ-, LVVN- en KGG-subsidies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685) en de in kolom 2 genoemde artikelen van die regeling, in voorkomende gevallen verbijzonderd naar de in kolom 3 omschreven of aangeduide groepen van aanvragers, programma’s, projecten of aanvragen, en de in kolom 4 omschreven thema’s of programmalijnen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5. Aanvragen zijn tijdig ingediend indien zij op de genoemde einddatum vóór 17.00 uur zijn ontvangen. Een subsidieaanvraag in het kader van de brede weersverzekering is tijdig ingediend indien deze op de genoemde einddatum uiterlijk om 23:59 uur is ontvangen.
 
@@ -120,15 +146,15 @@ De percentages, bedoeld in [artikel 3.9.9 van de Regeling nationale EZ-, LVVN- e
 |   | [5.8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&paragraaf=5.8.4) |   | Extensivering in overgangsgebieden N2000 | 22-04-2026 t/m 08-06-2026 | € 78.778.000 |
 | [Titel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.9): Subsidie voor de vestiging van jonge landbouwers | [5.9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.9.2) | Jonge landbouwers | Het stimuleren van jonge landbouwers bij de vestiging van een landbouwbedrijf met als doel generatievernieuwing | 02-03-2026 t/m 01-05-2026 | € 60.455.791 |
 
-#### Artikel 4. Intrekken Regeling
+##### Artikel 4. Intrekken Regeling
 
 De [Regeling openstelling EZK- en LNV-subsidies 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049118) wordt ingetrokken.
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2026.
 
-#### Artikel 6. Citeertitel
+##### Artikel 6. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling openstelling EZ-, LVVN- en KGG-subsidies 2026.
 

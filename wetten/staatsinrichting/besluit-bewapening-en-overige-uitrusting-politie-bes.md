@@ -1,13 +1,39 @@
 ---
-title: "Besluit bewapening en overige uitrusting politie BES"
+title: "Besluit van 30 september 2010, houdende regels voor de bewapening en overige uitrusting van de politie van Bonaire, Sint Eustatius en Saba (Besluit bewapening en overige uitrusting politie BES)"
 identifier: "BWBR0028588"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028588"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028588"
+soort: "AMvB-BES"
+stam_id: "10886313"
+version_id: "17868572"
+internal_id: "C24684361"
+label_id: "10861224"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028588/2010-10-10/0"
+intitule_bron: "Stb.2010-378"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-30"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-01"
+intitule_status: "goed"
+original_publication: "Stb.2010-378"
+original_signed_date: "2010-09-30"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-378"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028588&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028588&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Besluit bewapening en overige uitrusting politie BES"
+signed_date: "2010-09-30"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit van 30 september 2010, houdende regels voor de bewapening en overige uitrusting van de politie van Bonaire, Sint Eustatius en Saba (Besluit bewapening en overige uitrusting politie BES)
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 13 juli 2010, nr. 2010-0000461978, CZW/WSG;
@@ -24,7 +50,7 @@ Treedt in werking op het tijdstip waarop de Rijkswet politie van Curaçao, van S
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -50,7 +76,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Bewapening en overige uitrusting
 
-#### Artikel 2
+##### Artikel 2
 
 1. De bewapening van de ambtenaar bestaat tijdens de uitoefening van de dienst uit:
 
@@ -72,7 +98,7 @@ In dit besluit wordt verstaan onder:
 
 5. De korpsbeheerder kan de ambtenaar mede uitrusten met een veiligheidsvest of tie-raps.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De bewapening van de aspirant bestaat in het gedeelte van de opleiding dat in het korps wordt doorgebracht tijdens de uitoefening van de dienst uit:
 
@@ -82,7 +108,7 @@ In dit besluit wordt verstaan onder:
 
 2. De korpsbeheerder kan de aspirant, bedoeld in het eerste lid, mede bewapenen met een pistool of een revolver met de daarbij behorende munitie.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De bewapening van de ambtenaar van politie, bedoeld in [artikel 3, eerste lid, onder c, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3) bestaat tijdens de uitoefening van de dienst uit:
 
@@ -94,7 +120,7 @@ In dit besluit wordt verstaan onder:
 
 3. Het verzoek voor het bewapenen met het pistool wordt gedaan door de korpsbeheerder.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De bewapening van de ambtenaar die is belast met het optreden ter handhaving van de openbare orde en hulpverlening bij grootschalige manifestaties en evenementen, het uitvoeren van evacuaties, het bewaken en beveiligen van objecten, het optreden tijdens rampen en crises, het uitvoeren van zoekacties en het aanhouden van ordeverstoorders, bestaat mede uit:
 
@@ -110,7 +136,7 @@ In dit besluit wordt verstaan onder:
 
 4. De korpsbeheerder kan de ambtenaar, bedoeld in het eerste lid, mede uitrusten met een kogelwerend vest en een kogelwerende helm.
 
-#### Artikel 6
+##### Artikel 6
 
 De bewapening van de ambtenaar die is belast met persoonsbeveiliging bestaat mede uit:
 
@@ -120,7 +146,7 @@ De bewapening van de ambtenaar die is belast met persoonsbeveiliging bestaat med
 
 - c. een automatisch vuurwapen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De bewapening van de ambtenaar die is belast met aanhoudings en ondersteuningswerkzaamheden, bestaat mede uit:
 
@@ -136,7 +162,7 @@ De bewapening van de ambtenaar die is belast met persoonsbeveiliging bestaat med
 
 4. De korpsbeheerder kan de ambtenaar, bedoeld in het eerste lid, mede uitrusten met een kogelwerend vest en een kogelwerende helm.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De bewapening van de ambtenaar die behoort tot een bijzondere bijstandseenheid, bestaat mede uit een vuurwapen waarmee lange-afstandsprecisievuur kan worden afgegeven met de daarbij behorende munitie.
 
@@ -144,11 +170,11 @@ De bewapening van de ambtenaar die is belast met persoonsbeveiliging bestaat med
 
 3. De korpsbeheerder kan de ambtenaar, bedoeld in het eerste lid, mede uitrusten met een kogelwerend vest en een kogelwerende helm.
 
-#### Artikel 9
+##### Artikel 9
 
 De korpsbeheerder kan een andere ambtenaar, dan bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028588&hoofdstuk=2&artikel=5&z=2010-10-10&g=2010-10-10), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028588&hoofdstuk=2&artikel=7&z=2010-10-10&g=2010-10-10) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0028588&hoofdstuk=2&artikel=8&z=2010-10-10&g=2010-10-10), uitrusten met een kogelwerend vest, een kogelwerende helm of een gasmasker.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De korpsbeheerder kan een ambtenaar die is belast met de grensbewaking en met het toezicht op personen, uitrusten met hulpmiddelen ten behoeve van de verwijdering van vreemdelingen.
 
@@ -164,7 +190,7 @@ De korpsbeheerder kan een andere ambtenaar, dan bedoeld in de [artikelen 5](http
 
 - e. schuimcap.
 
-#### Artikel 11
+##### Artikel 11
 
 De korpsbeheerder kan in bijzondere, door het bevoegd gezag aangegeven situaties, een ambtenaar aanwijzen die tijdelijk mede wordt bewapend met:
 
@@ -174,15 +200,15 @@ De korpsbeheerder kan in bijzondere, door het bevoegd gezag aangegeven situaties
 
 - c. een pistoolmitrailleur met de daarbij behorende munitie.
 
-#### Artikel 12
+##### Artikel 12
 
 De korpsbeheerder draagt er zorg voor dat de ambtenaar slechts over een wapen beschikt indien hij voldoet aan de gestelde eisen van bekwaamheid, bedoeld in hoofdstuk VIIb van het Besluit rechtspositie korps politie BES.
 
-#### Artikel 13
+##### Artikel 13
 
 De korpsbeheerder stelt regels met betrekking tot het dragen, het onderhoud en het in een inbraakvrije ruimte bewaren van de wapens en munitie, bedoeld in de [artikelen 2 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028588&hoofdstuk=2&artikel=2&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 14
+##### Artikel 14
 
 1. De korpsbeheerder kan een ambtenaar die beschikt over een geldig certificaat als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028588&hoofdstuk=3&artikel=25&z=2010-10-10&g=2010-10-10), uitrusten met een politiespeurhond.
 
@@ -196,7 +222,7 @@ De korpsbeheerder stelt regels met betrekking tot het dragen, het onderhoud en h
 
 6. Uitrusting met een politiespeurhond brandversnellende middelen geschiedt uitsluitend voor het opsporen van brandversnellende middelen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Tot de overige uitrusting van de ambtenaar en de ambtenaar, bedoeld in [artikel 3, onder a en c, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3), kunnen behoren:
 
@@ -218,19 +244,19 @@ De korpsbeheerder stelt regels met betrekking tot het dragen, het onderhoud en h
 
 2. De korpsbeheerder kan andere uitrusting, dan bedoeld in het eerste lid, aanwijzen. Hij bepaalt aan welke ambtenaren de overige uitrusting wordt verstrekt en wanneer deze wordt gedragen of gebruikt.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Onze Minister stelt voor de wapens, de daarbij behorende draagmiddelen en de munitie het merk en type vast, met dien verstande dat de eisen waaraan de bewapening van de politie in verband met de taakuitvoering moet voldoen in overeenstemming met Onze Minister van Justitie worden vastgesteld.
 
 2. Onze Minister kan voor de overige uitrusting het merk en type vaststellen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Onze Minister is verantwoordelijk voor de aanschaf en afvoer van de in dit besluit genoemde wapens en de daarbij behorende munitie, alsmede de overige uitrusting ten behoeve van het politiekorps.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld over de aanschaf en afvoer van wapens en de daarbij behorende munitie, alsmede over de overige uitrusting.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Onze Minister kan toestemming verlenen een ambtenaar gedurende maximaal een jaar mede te bewapenen met een wapen of munitie voor zover dit noodzakelijk is voor de beproeving ervan. De termijn kan eenmaal worden verlengd met maximaal een jaar.
 
@@ -240,7 +266,7 @@ De korpsbeheerder stelt regels met betrekking tot het dragen, het onderhoud en h
 
 ### Hoofdstuk 3. Keuring en certificering politiehonden
 
-#### Artikel 19
+##### Artikel 19
 
 1. Er zijn keuringscommissies voor de politiespeurhond, voor de politiesurveillancehond en voor de hond die bedoeld is om in te zetten bij aanhoudings- en ondersteuningswerkzaamheden, waarvan de leden worden aangewezen door Onze Minister.
 
@@ -248,7 +274,7 @@ De korpsbeheerder stelt regels met betrekking tot het dragen, het onderhoud en h
 
 3. De leden van de keuringscommissie voor de politiespeurhonden, de politiesurveillancehond respectievelijk de hond die bedoeld is om in te zetten bij aanhoudings- en ondersteuningswerkzaamheden, beschikken over een ruime en aantoonbare dressuurtechnische ervaring en praktische politie-ervaring op het gebied van de inzet en het gebruik van de desbetreffende hond. De leden van de keuringscommissie voor de politiespeurhond beschikken tevens over kennis van de toepasselijke strafvorderlijke bepalingen.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Bij ministeriële regeling worden keuringsreglementen vastgesteld met betrekking tot de keuring van de politiespeurhond, de politiesurveillancehond en de hond die bedoeld is om in te zetten bij aanhoudings- en ondersteuningswerkzaamheden.
 
@@ -294,7 +320,7 @@ De korpsbeheerder stelt regels met betrekking tot het dragen, het onderhoud en h
 
 - 2°. het vermogen om binnen een redelijke tijd alleen die brandversnellende middelen op te sporen, die in het keuringsreglement zijn aangewezen.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Aan een keuring van een combinatie van een geleider en een politiespeurhond kunnen deelnemen ambtenaren van politie als bedoeld in [artikel 3, onder a en c, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3) die door de korpsbeheerder zijn aangewezen als geleider.
 
@@ -314,7 +340,7 @@ De korpsbeheerder stelt regels met betrekking tot het dragen, het onderhoud en h
 
 7. Indien de keuring niet met goed gevolg wordt afgelegd, bestaat de mogelijkheid van maximaal twee herkansingen. Voor een combinatie van een geleider en een politiespeurhond menselijke geur die wordt gekeurd voor de geuridentificatietaak bestaat de mogelijkheid van meer dan twee herkansingen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De geleider speurhond menselijke geur wordt door de keuringscommissie voor de politiespeurhond geëxamineerd met betrekking tot:
 
@@ -372,7 +398,7 @@ De korpsbeheerder stelt regels met betrekking tot het dragen, het onderhoud en h
 
 7. Indien het examen niet met goed gevolg wordt afgelegd, bestaat de mogelijkheid van maximaal twee herkansingen.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Aan een keuring van een combinatie van een geleider en een politiesurveillancehond kunnen deelnemen ambtenaren van politie als bedoeld in [artikel 3, onder a en c, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3), vanaf de hoofdrang van agent die zijn aangewezen als geleider.
 
@@ -392,7 +418,7 @@ De korpsbeheerder stelt regels met betrekking tot het dragen, het onderhoud en h
 
 5. Indien de keuring niet met goed gevolg wordt afgelegd, bestaat de mogelijkheid van maximaal twee herkansingen.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Aan een keuring van een combinatie van een geleider en een hond die bedoeld is om in te zetten bij aanhoudings- en ondersteuningswerkzaamheden, kunnen deelnemen ambtenaren van politie als bedoeld in [artikel 3, onder a en c, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3) die sedert ten minste twee jaar deze werkzaamheden uitvoeren en die zijn aangewezen als geleider.
 
@@ -414,7 +440,7 @@ De korpsbeheerder stelt regels met betrekking tot het dragen, het onderhoud en h
 
 5. Indien de keuring niet met goed gevolg wordt afgelegd, bestaat de mogelijkheid van maximaal twee herkansingen.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De keuringscommissie verstrekt aan de geleider politiespeurhond van de combinatie die de keuring met goed gevolg heeft afgelegd, aan de geleider politiesurveillancehond van de combinatie die de keuring met goed gevolg heeft afgelegd, en aan de geleider van de hond die bedoeld is om in te zetten bij aanhoudings- en ondersteuningswerkzaamheden van de combinatie die de keuring met goed gevolg heeft afgelegd, een certificaat op naam van de combinatie van de geleider en de hond.
 
@@ -428,7 +454,7 @@ De korpsbeheerder stelt regels met betrekking tot het dragen, het onderhoud en h
 
 - b. de geuridentificatietaak van de politiespeurhond menselijk geur.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Een combinatie van een geleider en een politiespeurhond, een combinatie van een geleider en een politiesurveillancehond en een combinatie van een geleider en een hond die bedoeld is om in te zetten bij aanhoudings- en ondersteuningswerkzaamheden, wordt binnen twee jaar na het behalen van het certificaat, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028588&hoofdstuk=3&artikel=25&z=2010-10-10&g=2010-10-10), opnieuw gekeurd door de keuringscommissie voor de politiespeurhond, de keuringscommissie voor de politiesurveillancehond respectievelijk de keuringscommissie voor de hond die bedoeld is om in te zetten bij aanhoudings- en ondersteuningswerkzaamheden.
 
@@ -440,7 +466,7 @@ De korpsbeheerder stelt regels met betrekking tot het dragen, het onderhoud en h
 
 5. Indien een eerste, tweede of derde herkeuring niet met goed gevolg wordt afgelegd, kan het certificaat voor het verstrijken van de geldigheidsduur worden ingetrokken, indien het naar het oordeel van de desbetreffende keuringscommissie noodzakelijk is de inzet in politiedienst van de desbetreffende combinatie van geleider en hond met onmiddellijke ingang te beëindigen.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Betrokkenen bij de keuring of herkeuring kunnen bij de keuringscommissie een gemotiveerd schriftelijk protest indienen tegen het keurings- of herkeuringsbesluit van de keuringscommissie. Het protest kan tot acht dagen na ontvangst van het keuringsrapport worden ingediend.
 
@@ -448,7 +474,7 @@ De korpsbeheerder stelt regels met betrekking tot het dragen, het onderhoud en h
 
 ### Hoofdstuk 4. Onderscheidingstekens hoofdrangen
 
-#### Artikel 28
+##### Artikel 28
 
 1. De onderscheidingstekens van de hoofdrangen worden bevestigd op beide harde schouderbedekkingen met afmetingen zes bij twaalfeneenhalve centimeter welke in de lengterichting enigszins gebogen zijn en waarvan de scherpe punt is afgesneden en welke zijn bekleed met een zwarte vijfenvijftig procent dacronpolyester en vijfenveertig procent wollen stof. Aan het afgesneden uiteinde is hierop een goudkleurige embleemknoop bevestigd.
 
@@ -484,11 +510,11 @@ De korpsbeheerder stelt regels met betrekking tot het dragen, het onderhoud en h
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 29
+##### Artikel 29
 
 Dit besluit treedt in werking op het tijdstip waarop de [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079) in werking treedt.
 
-#### Artikel 30
+##### Artikel 30
 
 Dit besluit wordt aangehaald als: Besluit bewapening en overige uitrusting politie BES.
 

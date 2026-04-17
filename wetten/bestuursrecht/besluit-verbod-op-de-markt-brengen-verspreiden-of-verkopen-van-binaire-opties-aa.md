@@ -1,13 +1,39 @@
 ---
-title: "Besluit verbod op de markt brengen, verspreiden of verkopen van binaire opties aan niet-professionele cliënten ex Verordening (EU) nr. 600/2014 en Wet op het financieel toezicht (verbod op binaire opties)"
+title: "Besluit van 18 april 2019, houdende het verbod op het op de markt brengen, verspreiden of het verkopen van binaire opties aan niet-professionele cliënten in verband met Verordening (EU) nr. 600/2014 van het Europees Parlement en de Raad van 15 mei 2014 en de Wet op het financieel toezicht (Verbod op binaire opties)"
 identifier: "BWBR0042121"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-04-19
-laatste_update: 2019-04-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042121"
+country: "nl"
+rank: "zbo"
+publication_date: "2019-04-19"
+last_updated: "2019-04-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042121"
+soort: "zbo"
+stam_id: "15054203"
+version_id: "25799022"
+internal_id: "C36786951"
+label_id: "15003344"
+dtd_version: "2.0"
+original_entry_into_force: "2019-04-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042121/2019-04-19/0"
+intitule_bron: "Stcrt.2019-21122"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-04-18"
+intitule_published: "2019-04-18"
+intitule_in_force: "2019-04-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-21122"
+original_signed_date: "2019-04-18"
+original_published_date: "2019-04-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-21122"
+entry_into_force_date: "2019-04-19"
+jci_1_3: "jci1.3:c:BWBR0042121&z=2019-04-19&g=2019-04-19"
+jci_1_0: "1.0:c:BWBR0042121&g=2019-04-19"
+citeertitel_status: "redactioneel"
+short_title: "Besluit verbod op de markt brengen, verspreiden of verkopen van binaire opties aan niet-professionele cliënten ex Verordening (EU) nr. 600/2014 en Wet op het financieel toezicht (verbod op binaire opties)"
+signed_date: "2019-04-18"
+entry_into_force: "2019-04-19"
 ---
-
 # Besluit van 18 april 2019, houdende het verbod op het op de markt brengen, verspreiden of het verkopen van binaire opties aan niet-professionele cliënten in verband met Verordening (EU) nr. 600/2014 van het Europees Parlement en de Raad van 15 mei 2014 en de Wet op het financieel toezicht (Verbod op binaire opties)
 
 gelet op,
@@ -22,7 +48,7 @@ artikel 21 van de Gedelegeerde Verordening (EU) 2017/567 van de Commissie van 18
 
 besluit:
 
-#### Artikel 1. Verbod op verkoop van binaire opties aan niet-professionele cliënten
+##### Artikel 1. Verbod op verkoop van binaire opties aan niet-professionele cliënten
 
 1. Het in of vanuit Nederland op de markt brengen, verspreiden of verkopen van binaire opties aan niet-professionele cliënten is verboden.
 
@@ -50,10 +76,10 @@ besluit:
 
 - iii. de binaire optie stelt de beleggingsonderneming niet bloot aan marktrisico's gedurende de looptijd van de binaire optie, en de beleggingsonderneming of de daaraan gelieerde entiteiten maken geen winst dan wel verlies met de binaire optie, uitgezonderd vooraf kenbaar gemaakte provisies, transactietarieven en aanverwante kosten.
 
-#### Artikel 2. Verbod op deelname aan ontduikingsactiviteiten
+##### Artikel 2. Verbod op deelname aan ontduikingsactiviteiten
 
 Het is verboden om doelbewust deel te nemen aan activiteiten die ontduiking van de vereisten van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042121&artikel=1&z=2019-04-19&g=2019-04-19) als oogmerk hebben of als resultaat hebben, en eveneens om daartoe op te treden als plaatsvervanger van de persoon die binaire opties op de markt brengt, verspreidt of verkoopt.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 19 april 2019.

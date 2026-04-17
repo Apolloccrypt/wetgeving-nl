@@ -1,20 +1,45 @@
 ---
 title: "Regeling cliëntenparticipatie UWV 2018"
 identifier: "BWBR0040774"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2024-05-08
-laatste_update: 2024-05-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040774"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-05-08"
+last_updated: "2024-05-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040774"
+soort: "zbo"
+stam_id: "14581063"
+version_id: "24958072"
+internal_id: "C35689231"
+label_id: "14534884"
+dtd_version: "2.0"
+original_entry_into_force: "2018-03-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040774/2024-05-08/0"
+intitule_bron: "Stcrt.2018-17548"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-03-05"
+intitule_published: "2018-03-29"
+intitule_in_force: "2018-03-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-17548"
+original_signed_date: "2018-03-05"
+original_published_date: "2018-03-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-17548"
+entry_into_force_date: "2018-03-30"
+jci_1_3: "jci1.3:c:BWBR0040774&z=2024-05-08&g=2024-05-08"
+jci_1_0: "1.0:c:BWBR0040774&g=2024-05-08"
+citeertitel_status: "officieel"
+signed_date: "2018-03-05"
+entry_into_force: "2018-03-30"
 ---
-
 # Regeling cliëntenparticipatie UWV 2018
 
 Gelet op [artikel 7 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=7);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 - a). **Wet SUWI:** [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060).
 
@@ -32,15 +57,15 @@ Besluit:
 
 - h). **Belangenorganisatie:** cliëntenorganisatie of vakorganisatie.
 
-#### Artikel 2. Reikwijdte regeling
+##### Artikel 2. Reikwijdte regeling
 
 Deze regeling is van toepassing op de organisatie en werking van de door UWV ingestelde cliëntenraden.
 
-#### Artikel 3. Taak cliëntenraad
+##### Artikel 3. Taak cliëntenraad
 
 De cliëntenraad heeft tot taak UWV gevraagd en ongevraagd te informeren en te adviseren over het uitvoeringsbeleid en de uitvoeringspraktijk, alsmede ontwikkelingen te signaleren die van invloed kunnen zijn op de (kwaliteit van de) dienstverlening van UWV aan cliënten. De cliëntenraad heeft tot taak de collectieve cliëntenbelangen te behartigen.
 
-#### Artikel 4. Bevoegdheden
+##### Artikel 4. Bevoegdheden
 
 1. **Initiatiefrecht**
 
@@ -84,7 +109,7 @@ De cliëntenraad heeft tot taak UWV gevraagd en ongevraagd te informeren en te a
 
 - c). Alle adviezen, informatieverzoeken en verbetervoorstellen worden door de cliëntenraad schriftelijk verstrekt en door UWV beoordeeld. UWV verzorgt binnen vier weken een schriftelijke, met redenen omklede reactie. UWV kan deze termijn voor vier weken verdagen. Van de verdaging wordt schriftelijk mededeling gedaan.
 
-#### Artikel 5. Instellen commissie
+##### Artikel 5. Instellen commissie
 
 1. De cliëntenraad heeft de bevoegdheid om in overleg met UWV commissies en/of werkgroepen in het leven te roepen die de raad adviseren. De cliëntenraad draagt verantwoordelijkheid voor de samenstelling van genoemde commissies en werkgroepen. Daarbij kan de cliëntenraad onder meer de expertise van leden van de cliëntenraad inroepen en kijken naar de verdeling van de te verrichten werkzaamheden. De cliëntenraad wijst de leden van de commissies en/of werkgroepen aan uit haar midden en kan in voorkomende gevallen op basis van een meerderheidsbesluit de aanwijzing van één of meer leden intrekken.
 
@@ -94,7 +119,7 @@ De cliëntenraad heeft tot taak UWV gevraagd en ongevraagd te informeren en te a
 
 4. De gezamenlijke cliëntenraden kunnen na overleg met elkaar en UWV zgn. ‘Brede Werkgroepen’ instellen. De Brede Werkgroep kiest uit haar midden een coördinator, die verantwoordelijk is voor bijeenroepen, agendering en communicatie. Doel van deze zgn. ‘Brede Werkgroepen’ is het samenwerken in multidisciplinaire samenstelling (over de verschillende raden heen) vorm te geven.
 
-#### Artikel 6. Centrale cliëntenraad
+##### Artikel 6. Centrale cliëntenraad
 
 1. Er is een centrale cliëntenraad, die gesprekspartner is van de Raad van Bestuur. De centrale cliëntenraad, bestaat uit 16 leden. De leden van de centrale cliëntenraad dienen in Nederland woonachtig te zijn. Bij de samenstelling van de cliëntenraad wordt gestreefd naar een goede afspiegeling van het cliëntenbestand van UWV.
 
@@ -116,7 +141,7 @@ De cliëntenraad heeft tot taak UWV gevraagd en ongevraagd te informeren en te a
 
 5. De centrale cliëntenraad benoemt uit zijn midden contactpersonen voor elke decentrale cliëntenraad. Deze contactpersonen kunnen de communicatie naar de betreffende decentrale cliëntenraad verzorgen, deelnemen aan de vergaderingen van de betreffende decentrale cliëntenraad en als toehoorder aanwezig zijn bij de overlegvergaderingen als bedoeld in [artikel 7 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040774&artikel=7&z=2024-05-08&g=2024-05-08) van de betreffende decentrale cliëntenraad.
 
-#### Artikel 7. Decentrale cliëntenparticipatie
+##### Artikel 7. Decentrale cliëntenparticipatie
 
 1. Per district is er een cliëntenraad, die gesprekspartner is van het management van dat district, bestaande uit 16 leden, die woonachtig zijn in dat district.
 
@@ -148,7 +173,7 @@ Bij de samenstelling van de cliëntenraad wordt gestreefd naar een goede afspieg
 
 7. De decentrale cliëntenraad kan de uitvoering van het beleid van UWV toetsen. Indien de decentrale cliëntenraad onvolkomenheden of tekortkomingen in de uitvoering van het beleid constateert, licht de decentrale cliëntenraad de centrale cliëntenraad daar schriftelijk over in.
 
-#### Artikel 8. Voordracht, benoeming en zittingsduur van de leden
+##### Artikel 8. Voordracht, benoeming en zittingsduur van de leden
 
 1. Kandidaten voor het lidmaatschap van een cliëntenraad worden voorgedragen door de belangenorganisaties in onderling overleg. De centrale cliëntenraad kan een wensprofiel voor een kandidaat voor een vacante zetel in de centrale cliëntenraad aan de betreffende belangenorganisatie doen toekomen. Een decentrale cliëntenraad kan een wensprofiel voor een kandidaat voor een vacante zetel in de betreffende decentrale cliëntenraad aan de betreffende belangenorganisatie doen toekomen.
 
@@ -170,7 +195,7 @@ Bij de samenstelling van de cliëntenraad wordt gestreefd naar een goede afspieg
 
 10. Een cliënt kan slechts in één cliëntenraad van UWV tegelijk zitting nemen.
 
-#### Artikel 9. Einde lidmaatschap
+##### Artikel 9. Einde lidmaatschap
 
 1. Het lidmaatschap van de cliëntenraad eindigt:
 
@@ -202,7 +227,7 @@ Bij de samenstelling van de cliëntenraad wordt gestreefd naar een goede afspieg
 
 5. Bij voorzien langdurig verzuim van een cliëntenraadslid, kan de belangenorganisatie die het lid heeft voorgedragen, na overleg met UWV voor de duur van het verzuim een vervangend lid afvaardigen. De overige bepalingen in deze regeling met betrekking tot leden van cliëntenraden zijn van overeenkomstige toepassing op een vervangend lid van een cliëntenraad.
 
-#### Artikel 10. Adviescommissie
+##### Artikel 10. Adviescommissie
 
 1. **Taak**
 
@@ -268,13 +293,13 @@ Indien de cliëntenraad het besluit van de Raad van Bestuur zonder gerechtvaardi
 
 - −. indien dat besluit geen termijn bevat, binnen een redelijke termijn niet opvolgt, worden de activiteiten van de cliëntenraad opgeschort. In dat geval zal de Raad van Bestuur na overleg met de centrale cliëntenraad zich beraden op eventuele vervolgstappen.
 
-#### Artikel 11. Voordracht landelijke cliëntenraad
+##### Artikel 11. Voordracht landelijke cliëntenraad
 
 1. De centrale cliëntenraad wijst uit zijn midden 3 leden en 3 plaatsvervangend leden aan die namens de centrale cliëntenraad voor een periode van 4 jaar zitting nemen in de Landelijke Cliëntenraad als bedoeld in [artikel 8 Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=8).
 
 2. Indien het lid of plaatsvervangend lid als bedoeld in lid 1 van dit artikel niet langer lid is van de centrale cliëntenraad, eindigt ook zijn lidmaatschap van de Landelijke Cliëntenraad.
 
-#### Artikel 12. Vergaderfrequentie en vergaderreglement
+##### Artikel 12. Vergaderfrequentie en vergaderreglement
 
 1. Bij het initiëren van vergaderingen van centrale en decentrale cliëntenraden, commissies van de centrale of decentrale cliëntenraden, overlegvergaderingen bovenop de in de Regeling cliëntenparticipatie UWV 2017 bepaalde aantallen zullen de betreffende raden rekening houden met effectiviteit, efficiency, beschikbare budget (o.a. reiskosten en onkostenvergoeding), tijdsbeslag van de ondersteuning door medewerkers van UWV, beschikbaarheid van andere middelen om gedachten uit te wisselen.
 
@@ -288,7 +313,7 @@ Indien de cliëntenraad het besluit van de Raad van Bestuur zonder gerechtvaardi
 
 - d. het besluitvormingsproces in de vergaderingen.
 
-#### Artikel 13. Facilitering
+##### Artikel 13. Facilitering
 
 1. UWV draagt er zorg voor dat de raden, via het onderdeel Cliëntenparticipatie, in de vorm van een adviseur cliëntenparticipatie adequaat worden ondersteund.
 
@@ -308,23 +333,23 @@ Indien de cliëntenraad het besluit van de Raad van Bestuur zonder gerechtvaardi
 
 6. Indien een lid voorzieningen nodig heeft om deel te kunnen nemen aan de cliëntenraad, vraagt het lid de betreffende voorziening eerst aan bij de eigen gemeente. Wanneer de betreffende gemeente het lid niet ondersteunt met de benodigde voorziening, kan het raadslid door UWV individueel gefaciliteerd worden als bepaalde voorzieningen nodig zijn om adequaat te kunnen deelnemen aan het overleg. In voorkomende gevallen kan men zich hiervoor melden bij de Adviseur Cliëntenparticipatie.
 
-#### Artikel 14. Vergoedingen
+##### Artikel 14. Vergoedingen
 
 De leden van de cliëntenraad hebben recht op een door UWV vast te stellen onkostenvergoeding en een vergoeding voor reis- en verblijfskosten. UWV stelt hiertoe een regeling ‘Onkosten- en reiskostenvergoeding cliëntenraadsleden UWV’ op.
 
-#### Artikel 15. Verzekering
+##### Artikel 15. Verzekering
 
 De leden van de cliëntenraden zijn door UWV verzekerd tegen het risico op zaakschade en letselschade met betrekking tot deelname aan het verkeer van en naar de UWV-locaties indien en voor zover zij werkzaamheden verrichten en/of reizen in het kader van hun lidmaatschap van de cliëntenraad voor zover er geen sprake is van een voorliggende verzekering. Schades kunnen bij UWV worden gemeld.
 
-#### Artikel 16. Garantstelling leden
+##### Artikel 16. Garantstelling leden
 
 UWV draagt er zorg voor dat cliënten die lid zijn of waren van een cliëntenraad uit hoofde van hun lidmaatschap op geen enkele wijze worden benadeeld ten aanzien van de uitkering, de voorziening of de ondersteuning bij het vinden van werk die zij ontvangen van UWV en dat zij correct worden bejegend door medewerkers van UWV.
 
-#### Artikel 17. Geschillen betreffende dit reglement
+##### Artikel 17. Geschillen betreffende dit reglement
 
 Geschillen voortkomend uit de interpretatie van deze regeling worden aan de centrale cliëntenraad voorgelegd. Indien nodig, worden geschillen geregeld door UWV, na overleg tussen de Raad van Bestuur (of namens de Raad van Bestuur) en de centrale cliëntenraad.
 
-#### Artikel 18. Overgangs- en slotbepalingen
+##### Artikel 18. Overgangs- en slotbepalingen
 
 1. Het [Besluit regeling cliëntenparticipatie UWV](https://wetten.overheid.nl/jci1.3:c:BWBR0031366) van 21 februari 2012 wordt ingetrokken.
 
@@ -334,11 +359,11 @@ Geschillen voortkomend uit de interpretatie van deze regeling worden aan de cent
 
 4. In gevallen waarin deze regeling niet voorziet, beslist UWV na goed overleg met de centrale cliëntenraad.
 
-#### Artikel 19. Inwerkingtreding van de regeling
+##### Artikel 19. Inwerkingtreding van de regeling
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 20. Citeertitel
+##### Artikel 20. Citeertitel
 
 Dit besluit wordt aangehaald als: Regeling cliëntenparticipatie UWV 2018.
 

@@ -1,20 +1,46 @@
 ---
-title: "Tijdelijke mbo-verduurzamingsregeling"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Waterstaat van 10 november 2025, nr. IENW/BSK-2025/274529, houdende vaststelling van regels voor subsidie ter stimulering van inzet van duurzaamheidscoördinatoren 2026–2029 (Tijdelijke mbo-verduurzamingsregeling) [KetenID WGK028158]"
 identifier: "BWBR0051739"
-categorie: "Onderwijs"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051739"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051739"
+soort: "ministeriele-regeling"
+stam_id: "17592033"
+version_id: "31041892"
+internal_id: "C44449401"
+label_id: "17492804"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051739/2026-01-01/0"
+intitule_bron: "Stcrt.2025-38091"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-11-10"
+intitule_published: "2025-11-12"
+intitule_in_force: "2025-11-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-38091"
+original_signed_date: "2025-11-10"
+original_published_date: "2025-11-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-38091"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051739&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051739&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke mbo-verduurzamingsregeling"
+signed_date: "2025-11-10"
+entry_into_force: "2026-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat van 10 november 2025, nr. IENW/BSK-2025/274529, houdende vaststelling van regels voor subsidie ter stimulering van inzet van duurzaamheidscoördinatoren 2026–2029 (Tijdelijke mbo-verduurzamingsregeling) [KetenID WGK028158]
 
 Gelet op de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=7), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [10, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=13), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=16), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22), en [23, derde lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=23);
 
 BESLUIT:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -32,11 +58,11 @@ In deze regeling wordt verstaan onder:
 
 - **SustainaBul MBO peer-review:** coöperatieve ranking die laat zien hoever een instelling is in het verankeren van duurzaamheid.
 
-#### Artikel 2. Doel van de subsidie
+##### Artikel 2. Doel van de subsidie
 
 De verstrekking van subsidies op grond van deze regeling heeft als doel het borgen en versterken van duurzaamheid en circulariteit in mbo-instellingen middels de aanstelling van een of meerdere duurzaamheidscoördinatoren.
 
-#### Artikel 3. Subsidiabele activiteit
+##### Artikel 3. Subsidiabele activiteit
 
 De Minister kan, gelet op [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051739&artikel=2&z=2026-01-01&g=2026-01-01), op aanvraag van het bevoegd gezag van een mbo-instelling subsidie verstrekken voor het invoeren of uitbreiden van de inzet van een of meer duurzaamheidscoördinatoren die ten minste drie en ten hoogste drieënhalf jaar als duurzaamheidscoördinator voor de aanvrager werkzaam zullen zijn, voor:
 
@@ -44,17 +70,17 @@ De Minister kan, gelet op [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - b. ten minste 0,3 fte per duurzaamheidscoördinator per jaar, indien de aanvraag meerdere duurzaamheidscoördinatoren betreft, met dien verstande dat voor de aanvrager in elk geval één duurzaamheidscoördinator werkzaam is voor ten minste 0,6 fte per jaar.
 
-#### Artikel 4. Subsidiabele kosten
+##### Artikel 4. Subsidiabele kosten
 
 1. Kosten van de werkgever voor het uitvoeren van de subsidiabele activiteit, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051739&artikel=3&z=2026-01-01&g=2026-01-01), komen in aanmerking voor subsidie.
 
 2. De kosten, bedoeld in het eerste lid, worden berekend door een bedrag van € 110.000 per fte per jaar te vermenigvuldigen met het aantal fte waarvoor de aanvrager arbeidsovereenkomsten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051739&artikel=3&z=2026-01-01&g=2026-01-01) aangaat.
 
-#### Artikel 5. Hoogte subsidie
+##### Artikel 5. Hoogte subsidie
 
 De subsidie bedraagt 75% van de in aanmerking komende kosten, met een maximum van € 285.000, voor het uitvoeren van de subsidiabele activiteit, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051739&artikel=3&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 6. Subsidieplafond
+##### Artikel 6. Subsidieplafond
 
 1. Het subsidieplafond bedraagt voor het jaar 2026 € 798.000 voor mbo-instellingen die op 1 september 2025 zijn ingeschreven voor deelname aan de SustainaBul MBO peer-review.
 
@@ -66,11 +92,11 @@ De subsidie bedraagt 75% van de in aanmerking komende kosten, met een maximum va
 
 5. Bij ministerieel besluit kan het subsidieplafond worden verhoogd of kan worden besloten tot een nadere openstelling.
 
-#### Artikel 7. Wijze van verdelen
+##### Artikel 7. Wijze van verdelen
 
 De Minister verdeelt het beschikbare bedrag op basis van de volgorde van binnenkomst van de aanvragen.
 
-#### Artikel 8. Aanvraag
+##### Artikel 8. Aanvraag
 
 1. Een aanvraag om subsidie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051739&artikel=3&z=2026-01-01&g=2026-01-01) wordt ingediend bij de Minister met gebruikmaking van een aanvraagformulier zoals dat door de Minister is vastgesteld.
 
@@ -88,15 +114,15 @@ De Minister verdeelt het beschikbare bedrag op basis van de volgorde van binnenk
 
 - ii. de werkzaamheden op de lijst met werkzaamheden staan die is opgenomen in de bijlage, of daar naar aard en inhoud bij aansluiten.
 
-#### Artikel 9. Afwijzingsgronden
+##### Artikel 9. Afwijzingsgronden
 
 In aanvulling op de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=11) en [12 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=12) beslist de Minister afwijzend op een aanvraag om subsidie indien een mbo-instelling reeds een subsidie op grond van deze regeling heeft ontvangen.
 
-#### Artikel 10. Subsidieverstrekking
+##### Artikel 10. Subsidieverstrekking
 
 De regels, bedoeld in [artikel 15, derde lid, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=15), inzake een subsidie van € 25.000 tot € 125.000 zijn van toepassing op subsidies van € 125.000 of meer.
 
-#### Artikel 11. Verplichtingen subsidieontvanger
+##### Artikel 11. Verplichtingen subsidieontvanger
 
 1. In aanvulling op de [artikelen 17 tot en met 20 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=17) is de subsidieontvanger verplicht:
 
@@ -116,7 +142,7 @@ De regels, bedoeld in [artikel 15, derde lid, van het Kaderbesluit](https://wett
 
 3. De ontheffing, bedoeld in het tweede lid, betreft maximaal zes maanden.
 
-#### Artikel 12. Voorschot
+##### Artikel 12. Voorschot
 
 De Minister verstrekt voorschotten volgens de volgende systematiek:
 
@@ -128,7 +154,7 @@ De Minister verstrekt voorschotten volgens de volgende systematiek:
 
 - d. 25% van verleende subsidie drie jaar na subsidieverlening.
 
-#### Artikel 13. Subsidievaststelling
+##### Artikel 13. Subsidievaststelling
 
 1. De subsidieontvanger dient uiterlijk dertien weken nadat het project is afgerond een aanvraag tot subsidievaststelling in met gebruikmaking van een formulier zoals dat door de Minister is vastgesteld.
 
@@ -144,15 +170,15 @@ De Minister verstrekt voorschotten volgens de volgende systematiek:
 
 - c. een verslag waaruit blijkt welke acties zijn verricht naar aanleiding van de deelname aan de SustainaBul MBO peer-review en de daaruit voortgekomen verbeterpunten.
 
-#### Artikel 14. Evaluatie
+##### Artikel 14. Evaluatie
 
 De Minister publiceert voor 1 januari 2032 een verslag over de doeltreffendheid en de effecten van de subsidie in de praktijk.
 
-#### Artikel 15. Inwerkingtreding en horizonbepaling
+##### Artikel 15. Inwerkingtreding en horizonbepaling
 
 Deze regeling treedt in werking met ingang van 1 januari 2026 en vervalt met ingang van 1 januari 2031, met dien verstande dat zij van toepassing blijft op subsidies die voor laatstbedoelde datum zijn aangevraagd.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke mbo-verduurzamingsregeling.
 

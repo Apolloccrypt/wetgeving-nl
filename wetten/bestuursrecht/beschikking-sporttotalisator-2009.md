@@ -1,13 +1,39 @@
 ---
-title: "Beschikking Sporttotalisator 2009"
+title: "Beschikking van de Minister van Justitie van 11 december 2009, nr. 5634022/09/DSP, houdende verlening van een vergunning tot het organiseren van sportprijsvragen, de lotto en het cijferspel"
 identifier: "BWBR0029705"
-categorie: "Bestuursrecht"
-publicatiedatum: 2009-12-12
-laatste_update: 2009-12-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029705"
+country: "nl"
+rank: "zbo"
+publication_date: "2009-12-12"
+last_updated: "2009-12-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029705"
+soort: "zbo"
+stam_id: "11266173"
+version_id: "18453232"
+internal_id: "C25731811"
+label_id: "11240434"
+dtd_version: "2.0"
+original_entry_into_force: "2009-12-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029705/2009-12-12/0"
+intitule_bron: "Stcrt.2009-20288"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-12-11"
+intitule_published: "2009-12-28"
+intitule_in_force: "2009-12-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-20288"
+original_signed_date: "2009-12-11"
+original_published_date: "2009-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-20288"
+entry_into_force_date: "2009-12-12"
+jci_1_3: "jci1.3:c:BWBR0029705&z=2009-12-12&g=2009-12-12"
+jci_1_0: "1.0:c:BWBR0029705&g=2009-12-12"
+citeertitel_status: "officieel"
+short_title: "Beschikking Sporttotalisator 2009"
+signed_date: "2009-12-11"
+entry_into_force: "2009-12-12"
 ---
-
 # Beschikking van de Minister van Justitie van 11 december 2009, nr. 5634022/09/DSP, houdende verlening van een vergunning tot het organiseren van sportprijsvragen, de lotto en het cijferspel
 
 Overwegende dat de geldigheidsduur van de [Beschikking Sporttotalisator](https://wetten.overheid.nl/jci1.3:c:BWBR0009239) op 12 december 2009 verstrijkt;
@@ -20,7 +46,7 @@ Besluit:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
 
@@ -40,13 +66,13 @@ In deze beschikking wordt verstaan onder:
 
 - h. **het college:** het College van toezicht op de kansspelen als bedoeld in [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aan de stichting wordt vergunning verleend tot het organiseren van sportprijsvragen, de lotto en het cijferspel van 12 december 2009 tot en met 15 januari 2010.
 
 2. Aan de in het eerste lid bedoelde vergunning worden de in [artikel 3 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0029705&artikel=3&z=2009-12-12&g=2009-12-12) vervatte voorschriften verbonden, die zonodig kunnen worden gewijzigd en aangevuld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De sportprijsvragen en de lotto, alsmede het aan deze kansspelen verbonden cijferspel, worden georganiseerd met inachtneming van de statuten en reglementen van de stichting.
 
@@ -54,13 +80,13 @@ In deze beschikking wordt verstaan onder:
 
 3. De reglementen behelzen in ieder geval bepalingen inzake de deelnamevoorwaarden, de prijzenschema’s, de wijze van bepaling van vervangende uitslagen, de prijzenreserve, de voorschriften en vergoedingen voor medewerkende verenigingen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De stichting zorgt voor een doelmatige administratie, organisatie en uitvoering van de krachtens deze vergunning georganiseerde kansspelen.
 
 2. De stichting neemt de nodige maatregelen met het oog op de naleving van de aan deze vergunning verbonden voorschriften en de op grond daarvan opgestelde reglementen door de organisaties en personen die op enigerlei wijze bij de administratie, organisatie en uitvoering van sportprijsvragen en lotto’s, alsmede van het aan deze kansspelen verbonden cijferspel, zijn betrokken.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De stichting ziet er op toe dat medewerkende verenigingen en verkooppunten niet in strijd handelen met het bepaalde in [artikel 1, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=1), [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=20), en [artikel 27e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27).
 
@@ -68,7 +94,7 @@ In deze beschikking wordt verstaan onder:
 
 3. Van het ingevolge het eerste lid gehouden toezicht en van de ingevolge het tweede lid genomen maatregelen wordt mededeling gedaan in het in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029705&artikel=14&z=2009-12-12&g=2009-12-12), bedoelde jaarverslag.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De stichting organiseert ten hoogste 370 sportprijsvragen per kalenderjaar.
 
@@ -76,7 +102,7 @@ In deze beschikking wordt verstaan onder:
 
 3. De inleg per enkelvoudige speelkans bij een sportprijsvraag bedraagt ten hoogste € 22,69. Bij deelneming aan de sportprijsvragen langs direct elektronische weg mag de deelnemer per saldo niet meer verliezen dan € 22,69 per dag.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De stichting organiseert ten hoogste 370 lotto’s per kalenderjaar.
 
@@ -86,7 +112,7 @@ In deze beschikking wordt verstaan onder:
 
 4. De inleg per enkelvoudige speelkans bij een lotto bedraagt ten hoogste € 22,69. Bij deelneming aan de lotto langs direct elektronische weg mag de deelnemer per saldo niet meer verliezen dan € 22,69 per dag.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De stichting organiseert ten hoogste 70 cijferspelen per kalenderjaar.
 
@@ -94,13 +120,13 @@ In deze beschikking wordt verstaan onder:
 
 3. De inleg voor deelneming aan een cijferspel bedraagt ten hoogste € 1,13.
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. De stichting kan speelkansen in delen uitgeven. De inleg per deel van een speelkans wordt naar evenredigheid berekend.
 
 2. Elk deel van een speelkans geeft aanspraak op een evenredig deel van de eventueel daarop gewonnen prijs.
 
-#### Artikel 8b
+##### Artikel 8b
 
 1. De stichting draagt er zorg voor dat aan wervings- en reclameactiviteiten op zorgvuldige en evenwichtige wijze vorm wordt gegeven, waarbij in het bijzonder wordt gewaakt tegen het aanzetten tot onmatige deelneming aan de krachtens deze beschikking georganiseerde kansspelen.
 
@@ -110,13 +136,13 @@ In deze beschikking wordt verstaan onder:
 
 4. De stichting neemt bij haar wervings- en reclameactiviteiten de haar door de minister gegeven aanwijzingen, gehoord het college, in acht.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De mechanische, elektrische en elektronische processen, die gebezigd worden bij de deelneming, prijsbepaling en vaststelling van de winnaars van de krachtens deze vergunning georganiseerde kansspelen, zijn onderworpen aan een voorafgaande goedkeuring en periodieke controle door één of meer door de minister aangewezen onafhankelijke deskundigen of keuringsinstellingen.
 
 2. Van de bevindingen van de in het eerste lid bedoelde onafhankelijke deskundigen en keuringsinstellingen wordt uiterlijk binnen twee maanden na afloop van een kalenderjaar verslag gedaan aan de minister en het college.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Gerekend over een kalenderjaar bedraagt de afdracht met betrekking tot de sportprijsvragen het verschil tussen de nominale waarde van de verkochte deelnemingsbewijzen en de som van de voor prijzen bestemde bedragen, de vergoedingen aan de medewerkende verenigingen en verkooppunten voor de door hen ten behoeve van de stichting verrichte diensten en de exploitatiekosten van de stichting.
 
@@ -128,13 +154,13 @@ In deze beschikking wordt verstaan onder:
 
 5. Van de totale afdracht als bedoeld in het eerste en het tweede lid, is gerekend over een kalenderjaar ten hoogste 10% bestemd voor vergoeding aan medewerkende verenigingen en verkooppunten voor de door hen ten behoeve van de stichting verrichte diensten.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Slechts noodzakelijke onkosten mogen worden gemaakt. Als noodzakelijke kosten van de stichting worden uitsluitend aangemerkt die kosten die rechtstreeks verband houden met het organiseren van de kansspelen krachtens deze vergunning en die gerekend kunnen worden tot de normale bedrijfskosten.
 
 2. Onverminderd het bepaalde in het eerste lid, kan ten behoeve van de continuïteit van de exploitatie een reservering worden gevormd. De omvang van deze reservering mag aan het einde van een kalenderjaar, ongeacht de periode waarin deze is opgebouwd, ten hoogste 2,5% bedragen van de nominale waarde van de in dat kalenderjaar verkochte deelnemingsbewijzen. De minister en de staatssecretaris kunnen de omvang van de reservering in bijzondere gevallen op een hoger bedrag bepalen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De totale afdracht als bedoeld in [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029705&artikel=10&z=2009-12-12&g=2009-12-12), wordt aangewend ter verwezenlijking van doeleinden van algemeen belang, gelegen op het terrein van de sport en lichamelijke vorming, alsmede van het maatschappelijk welzijn, de volksgezondheid en de cultuur.
 
@@ -146,11 +172,11 @@ In deze beschikking wordt verstaan onder:
 
 3. Uiterlijk binnen drie maanden na afloop van het kalenderjaar dient door de stichting de afdracht over dat kalenderjaar te hebben plaatsgevonden aan de in het tweede lid genoemde instellingen. Daarvan wordt verslag gedaan in de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0029705&artikel=14&z=2009-12-12&g=2009-12-12) bedoelde jaarrekening.
 
-#### Artikel 13
+##### Artikel 13
 
 De stichting zendt binnen één maand na het einde van elk kwartaal aan de minister en het college een verslag betreffende het financiële verloop, alsmede andere door de minister geachte gegevens over dat kwartaal.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De stichting stelt een jaarrekening en een jaarverslag op welke voldoen aan de eisen gesteld in [Boek 2, Titel 9, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9). De minister kan, gehoord het college, aanwijzingen geven omtrent de inrichting van de jaarrekening en het jaarverslag.
 
@@ -160,11 +186,11 @@ De stichting zendt binnen één maand na het einde van elk kwartaal aan de minis
 
 4. Binnen vier maanden na afloop van een kalenderjaar zendt de stichting de jaarrekening met het verslag en de verklaring, alsmede het jaarverslag aan de minister en het college.
 
-#### Artikel 15
+##### Artikel 15
 
 De kosten verbonden aan goedkeuring, controle en onderzoek ingevolge de [artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029705&artikel=9&z=2009-12-12&g=2009-12-12), en [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029705&artikel=14&z=2009-12-12&g=2009-12-12), zijn voor rekening van de stichting.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De door de minister aangewezen ambtenaren en andere personen zijn bevoegd inlichtingen van de stichting te verlangen, voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is.
 
@@ -174,14 +200,14 @@ De kosten verbonden aan goedkeuring, controle en onderzoek ingevolge de [artikel
 
 4. Indien het maken van kopieën niet ter plaatse kan geschieden, zijn zij bevoegd de gegevens en bescheiden voor dat doel voor korte tijd mee te nemen tegen een door hen af te geven schriftelijk bewijs.
 
-#### Artikel 17
+##### Artikel 17
 
 Na de inwerkingtreding van deze beschikking berusten de krachtens de [Beschikking Sporttotalisator](https://wetten.overheid.nl/jci1.3:c:BWBR0009239) (Stcrt. 1997, 249) vastgestelde besluiten op deze beschikking.
 
-#### Artikel 18
+##### Artikel 18
 
 Deze beschikking treedt in werking op 12 december 2009 en wordt gepubliceerd in de Staatscourant.
 
-#### Artikel 19
+##### Artikel 19
 
 Deze beschikking wordt aangehaald als: Beschikking Sporttotalisator 2009.

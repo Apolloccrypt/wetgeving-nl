@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling Nationaal Groeifonds LLO Collectief laagopgeleiden en laaggeletterden"
+title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 26 juni 2025, nr. MBO/[52787847], houdende regels voor de subsidieverstrekking voor Subsidieregeling Nationaal Groeifonds LLO Collectief laagopgeleiden en laaggeletterden"
 identifier: "BWBR0051162"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-07-02
-laatste_update: 2025-07-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051162"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-02"
+last_updated: "2025-07-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051162"
+soort: "ministeriele-regeling"
+stam_id: "17457013"
+version_id: "30787922"
+internal_id: "C44129891"
+label_id: "17359764"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051162/2025-07-02/0"
+intitule_bron: "Stcrt.2025-22982"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-06-26"
+intitule_published: "2025-07-01"
+intitule_in_force: "2025-07-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-22982"
+original_signed_date: "2025-06-26"
+original_published_date: "2025-07-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-22982"
+entry_into_force_date: "2025-07-02"
+jci_1_3: "jci1.3:c:BWBR0051162&z=2025-07-02&g=2025-07-02"
+jci_1_0: "1.0:c:BWBR0051162&g=2025-07-02"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling Nationaal Groeifonds LLO Collectief laagopgeleiden en laaggeletterden"
+signed_date: "2025-06-26"
+entry_into_force: "2025-07-02"
 ---
-
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 26 juni 2025, nr. MBO/[52787847], houdende regels voor de subsidieverstrekking voor Subsidieregeling Nationaal Groeifonds LLO Collectief laagopgeleiden en laaggeletterden
 
 Gelet op [artikel 2.7 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.7) en de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -56,11 +82,11 @@ In deze regeling wordt verstaan onder:
 
 - **WHW:** [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682).
 
-#### Artikel 2. Toepassing [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Te subsidiëren activiteiten
+##### Artikel 3. Te subsidiëren activiteiten
 
 1. De minister kan subsidie verstrekken voor de uitvoering van de volgende cumulatieve activiteiten in een project door een samenwerkingsverband:
 
@@ -76,23 +102,23 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 3. De minister kan de periode waarin de activiteiten, bedoeld in het eerste lid, worden verricht met negen maanden verlengen bij onvoorziene omstandigheden in de uitvoering van de activiteiten. De activiteiten worden bij toepassing van de mogelijkheid tot verlenging uiterlijk op 30 september 2028 voltooid.
 
-#### Artikel 4. Hoogte subsidiebedrag
+##### Artikel 4. Hoogte subsidiebedrag
 
 1. Per project in het Europese deel van Nederland is een bedrag van ten minste € 125.000,– en ten hoogste € 2.200.000,– beschikbaar.
 
 2. Per project in Caribisch Nederland is een bedrag van ten minste € 125.000,– en ten hoogste € 500.000,– beschikbaar.
 
-#### Artikel 5. Subsidieplafond
+##### Artikel 5. Subsidieplafond
 
 Voor subsidieverstrekking op grond van deze regeling is een bedrag van ten hoogste € 40.000.000,– beschikbaar.
 
-#### Artikel 6. Penvoerder
+##### Artikel 6. Penvoerder
 
 1. Een subsidieaanvraag kan uitsluitend worden ingediend door een penvoerder, niet-zijnde een gemeente, een provincie of een openbaar lichaam, namens een samenwerkingsverband.
 
 2. Op de penvoerder rusten alle aan de subsidie verbonden verplichtingen, ongeacht welke partij feitelijk is belast met uitvoering van de daarop betrekking hebbende activiteiten.
 
-#### Artikel 7. Samenstelling samenwerkingsverband
+##### Artikel 7. Samenstelling samenwerkingsverband
 
 Een samenwerkingsverband bestaat ten minste uit:
 
@@ -102,7 +128,7 @@ Een samenwerkingsverband bestaat ten minste uit:
 
 - c. een werkgeversorganisatie.
 
-#### Artikel 8. Aanvraag subsidie
+##### Artikel 8. Aanvraag subsidie
 
 1. De subsidieaanvraag kan worden ingediend van 15 september 2025 13.00 uur CET tot en met vrijdag 31 oktober 13 uur CET.
 
@@ -112,7 +138,7 @@ Een samenwerkingsverband bestaat ten minste uit:
 
 4. Per samenwerkingsverband kan slechts één aanvraag worden ingediend. Eventuele tweede of opvolgende aanvragen voor hetzelfde samenwerkingsverband worden afgewezen.
 
-#### Artikel 9. In te dienen documenten
+##### Artikel 9. In te dienen documenten
 
 1. Een subsidie wordt aangevraagd met gebruikmaking van het aanvraagformulier dat daartoe is bekendgemaakt op de website van DUS-I.
 
@@ -128,7 +154,7 @@ Een samenwerkingsverband bestaat ten minste uit:
 
 - e. een samenvatting van de aanvraag die openbaar gemaakt kan worden.
 
-#### Artikel 10. Visiedocument
+##### Artikel 10. Visiedocument
 
 In het visiedocument beschrijft de aanvrager:
 
@@ -148,7 +174,7 @@ In het visiedocument beschrijft de aanvrager:
 
 - h. de wijze waarop de subsidieaanvrager de activiteiten en resultaten na afronding van het project wil verduurzamen en verankeren in de regio.
 
-#### Artikel 11. Activiteitenplan
+##### Artikel 11. Activiteitenplan
 
 Onverminderd [artikel 3.4 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.4) bevat het activiteitenplan in ieder geval:
 
@@ -166,7 +192,7 @@ Onverminderd [artikel 3.4 van de Kaderregeling](https://wetten.overheid.nl/jci1.
 
 - g. een beschrijving van de bijdrage aan de vier landelijke projecten binnen het LLO Collectief, namelijk het landelijk projectleiderschap, de impactmonitor en de twee trajecten voor professionalisering van docenten en professionals.
 
-#### Artikel 12. Begroting
+##### Artikel 12. Begroting
 
 1. De begroting bevat een overzicht van de kosten van de activiteiten, voorzien van een toelichting.
 
@@ -176,7 +202,7 @@ Onverminderd [artikel 3.4 van de Kaderregeling](https://wetten.overheid.nl/jci1.
 
 4. De begroting wordt ingediend in het hiervoor bestemde format, dat bekend zal worden gemaakt op de website van DUS-I.
 
-#### Artikel 13. Samenwerkingsovereenkomst
+##### Artikel 13. Samenwerkingsovereenkomst
 
 1. De deelnemers aan een samenwerkingsverband sluiten een overeenkomst die wordt opgesteld met gebruikmaking van het format dat DUS-I hiervoor beschikbaar stelt.
 
@@ -196,7 +222,7 @@ Onverminderd [artikel 3.4 van de Kaderregeling](https://wetten.overheid.nl/jci1.
 
 - f. dat alle partijen in het samenwerkingsverband medewerking verlenen aan de verantwoording van de subsidie en aan de nakoming van de aan de subsidie verbonden verplichtingen, en dat alle gegevens die daarvoor noodzakelijk zijn op verzoek aan de penvoerder worden verstrekt.
 
-#### Artikel 14. Verdeling van de beschikbare middelen
+##### Artikel 14. Verdeling van de beschikbare middelen
 
 1. De minister bepaalt de rangschikking van de aanvragen op basis van een onderlinge afweging van de aanvragen.
 
@@ -228,7 +254,7 @@ Onverminderd [artikel 3.4 van de Kaderregeling](https://wetten.overheid.nl/jci1.
 
 9. De minister beslist binnen 13 weken na afloop van de periode waarin de aanvragen kunnen worden ingediend gelijktijdig op de aanvragen.
 
-#### Artikel 15. Verplichtingen
+##### Artikel 15. Verplichtingen
 
 Voor de ontvanger van de subsidie gelden de volgende verplichtingen:
 
@@ -248,15 +274,15 @@ Voor de ontvanger van de subsidie gelden de volgende verplichtingen:
 
 - h. de administratie en de daartoe behorende bescheiden worden gedurende 5 jaren na de vaststelling van de subsidie bewaard.
 
-#### Artikel 16. Begrotingsvoorbehoud
+##### Artikel 16. Begrotingsvoorbehoud
 
 Subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34).
 
-#### Artikel 17. Bevoorschotting
+##### Artikel 17. Bevoorschotting
 
 Voor de verleende subsidie wordt een voorschot van 100% gefaseerd verstrekt. Het eerste voorschot bedraagt 30% van het toegekende subsidiebedrag, en wordt uitbetaald uiterlijk 6 weken na ontvangst van de beschikking. Het resterende deel van het subsidiebedrag wordt in gelijke delen uitbetaald, verdeeld over de kwartalen van de activiteitenperiode, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051162&artikel=3&z=2025-07-02&g=2025-07-02).
 
-#### Artikel 18. Verantwoording en besteding subsidie aan bekostigde instellingen
+##### Artikel 18. Verantwoording en besteding subsidie aan bekostigde instellingen
 
 1. Indien de penvoerder van het samenwerkingsverband een bekostigde instelling is als bedoeld in [artikel 1.1.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) of [artikel 1.1.1 van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1), geschiedt verantwoording van de subsidie in de jaarverslaggeving met model G, onderdeel 2 als bedoeld in [bijlage 4 bij de Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=4).
 
@@ -264,7 +290,7 @@ Voor de verleende subsidie wordt een voorschot van 100% gefaseerd verstrekt. Het
 
 3. De vaststelling van de subsidie vindt plaats binnen een jaar na de indiening van het jaarverslag over het laatste jaar van besteding.
 
-#### Artikel 19. Verantwoording subsidie aan anderen dan bekostigde instellingen
+##### Artikel 19. Verantwoording subsidie aan anderen dan bekostigde instellingen
 
 1. Indien de penvoerder van het samenwerkingsverband geen bekostigde instelling is als bedoeld in [artikel 1.1.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) of [artikel 1.1.1 van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1), geschiedt de verantwoording onder toepassing van [artikel 7.8 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.8).
 
@@ -272,17 +298,17 @@ Voor de verleende subsidie wordt een voorschot van 100% gefaseerd verstrekt. Het
 
 3. De subsidie kan uitsluitend worden aangewend voor het doel waarvoor de subsidie is verstrekt. Niet bestede middelen worden teruggevorderd.
 
-#### Artikel 20. Hardheidsclausule
+##### Artikel 20. Hardheidsclausule
 
 De minister kan een of meer bepalingen van de regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat deze regeling beoogt te beschermen, zou leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 21. Inwerkingtreding en vervaldatum
+##### Artikel 21. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 oktober 2028.
 
-#### Artikel 22. Citeertitel
+##### Artikel 22. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling Nationaal Groeifonds LLO Collectief laagopgeleiden en laaggeletterden.
 

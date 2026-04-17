@@ -1,18 +1,43 @@
 ---
 title: "Vakantiewet 1949 BES"
 identifier: "BWBR0028173"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028173"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028173"
+soort: "wet-BES"
+stam_id: "10688033"
+version_id: "17649262"
+internal_id: "C24833081"
+label_id: "10662874"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028173/2026-01-01/0"
+intitule_bron: "Stb.2010-593"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-08-31"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-593"
+original_signed_date: "2010-08-31"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-593"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028173&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0028173&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2010-08-31"
+entry_into_force: "2010-10-10"
 ---
-
 # Vakantiewet 1949 BES
 
 ## I. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de naar aanleiding daarvan uitgevaardigde besluiten wordt verstaan:
 
@@ -46,7 +71,7 @@ Het loon per dag, voorzover niet op deze wijze vastgesteld, wordt berekend:
 
 ## II. Van de vakantie
 
-#### Artikel 2
+##### Artikel 2
 
 1. De arbeider heeft voor ieder jaar, dat hij onafgebroken werkzaam is geweest in dienst van éénzelfde werkgever, aanspraak op vakantie gedurende ten minste drie maal de overeengekomen arbeidsduur per week, met behoud van het loon dat hij tijdens zijn vakantie met werken zou hebben verdiend.
 
@@ -56,7 +81,7 @@ Het loon per dag, voorzover niet op deze wijze vastgesteld, wordt berekend:
 
 4. Niet als werkdagen worden aangemerkt de voor de arbeider krachtens zijn werktijdenregeling geldende rustdagen en, voor zover betreft de arbeider die niet werkzaam is krachtens een werktijdenregeling welke op grond van een regeling ter uitvoering van [artikel 27 van de Arbeidswet 2000 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&artikel=27) werd goedgekeurd, tevens de krachtens die wet met de zondag gelijkgestelde dagen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De aanspraak op vakantie over een afgelopen jaar vervalt, indien de arbeider gedurende dat jaar van zijn werk is weggebleven:
 
@@ -66,7 +91,7 @@ Het loon per dag, voorzover niet op deze wijze vastgesteld, wordt berekend:
 
 2. Ingeval van afwezigheid van het werk zonder toestemming van de werkgever en zonder wettige reden, verliest de arbeider zijn aanspraak op een overeenkomstig deel van zijn vakantie, waarbij een gedeelte van een dag gerekend wordt als een gehele dag.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De vakantie wordt bij voorkeur onafgebroken verleend.
 
@@ -74,35 +99,35 @@ Het loon per dag, voorzover niet op deze wijze vastgesteld, wordt berekend:
 
 3. De beslissing omtrent het tijdstip, waarop de vakantie zal ingaan, alsmede die omtrent de tijdvakken, waarin de vakantie overigens zal worden gesplitst berust bij de werkgever. Daarbij dient, voor zover de belangen van het bedrijf en die van het overige personeel dit toelaten, zoveel mogelijk rekening te worden gehouden met de wensen van de arbeider.
 
-#### Artikel 4a
+##### Artikel 4a
 
 De vergoeding van één of meer vakantiedagen mag niet in de vorm van een opslag op het loon worden uitgekeerd.
 
 ## III. Van uitstel en intrekking der vakantie
 
-#### Artikel 5
+##### Artikel 5
 
 De werkgever kan een vakantie, waarvan het tijdstip van ingang reeds overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=II&artikel=4&z=2026-01-01&g=2026-01-01) is vastgesteld, slechts om redenen van bedrijfsbelang of op verzoek van de arbeider uitstellen en op een latere tijdstip doen ingaan.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De werkgever kan een vakantie, welke reeds is ingegaan, slechts om redenen van bedrijfsbelang of op verzoek van de arbeider intrekken en het nog niet genoten deel daarvan op een later tijdstip doen ingaan, een en ander onverminderd het bepaalde in [artikel 4, lid 2, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=II&artikel=4&z=2026-01-01&g=2026-01-01).
 
 2. De dag, waarop de arbeider als gevolg van de intrekking slechts gedeeltelijk vakantie geniet, wordt niet geteld als een vakantiedag.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien de arbeider bij de aanvang van zijn vakantie ongeschikt is tot werken in de zin van de [Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497) dan wel op dat tijdstip of tijdens zijn vakantie ziek is of wordt in de zin van de [Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728), wordt de vakantie onderscheidenlijk het nog niet genoten deel daarvan, beschouwd, als te zijn ingetrokken.
 
 2. Het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=III&artikel=6&z=2026-01-01&g=2026-01-01) is voorzover mogelijk van overeenkomstige toepassing.
 
-#### Artikel 8
+##### Artikel 8
 
 De werkgever vergoedt de schade ter zake van eventuele reis- of verblijfkosten, welke de arbeider als onmiddellijk gevolg van uitstel der vakantie krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=III&artikel=5&z=2026-01-01&g=2026-01-01) dan wel intrekking daarvan op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=III&artikel=6&z=2026-01-01&g=2026-01-01) mocht lijden, tenzij het uitstel of de intrekking op verzoek van de arbeider is geschied.
 
 ## IV. Van samenvoeging van en vergoeding voor niet genoten vakantie
 
-#### Artikel 9
+##### Artikel 9
 
 1. De vakantie, waarop aanspraak is verkregen, doch welke nog niet genoten is op het tijdstip, dat een nieuwe aanspraak ontstaat, en de vakantie krachtens deze nieuwe aanspraak worden samengevoegd tot een maximum aantal werkdagen gelijk aan zesmaal het bedongen aantal werkdagen per week.
 
@@ -110,7 +135,7 @@ De werkgever vergoedt de schade ter zake van eventuele reis- of verblijfkosten, 
 
 3. De samengevoegde maximum vakantie wordt onafgebroken verleend en kan niet worden uitgesteld of ingetrokken, behoudens het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=III&artikel=7&z=2026-01-01&g=2026-01-01), in welk geval het niet genoten deel daarvan ingaat de dag volgende op die van het herstel van de arbeider in de zin der desbetreffende regeling.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De werkgever betaalt de arbeider voor niet genoten vakantie, waarop bij het eindigen der dienstbetrekking aanspraak bestaat, een bedrag gelijk aan zijn in geld uitgedrukt, ten tijde van dat eindigen geldend loon over het aantal dagen der niet genoten vakantie.
 
@@ -118,27 +143,27 @@ De werkgever vergoedt de schade ter zake van eventuele reis- of verblijfkosten, 
 
 ## V. Algemene bepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 Het is de arbeider verboden gedurende een hem verleende vakantie arbeid ten behoeve van zijn werkgever of derden te verrichten.
 
-#### Artikel 12
+##### Artikel 12
 
 Het is de werkgever verboden de arbeider gedurende diens vakantie werkzaamheden te laten verrichten.
 
-#### Artikel 13
+##### Artikel 13
 
 [vervallen]
 
-#### Artikel 14
+##### Artikel 14
 
 De werkgever houdt een register bij van de per arbeider verleende en genoten vakantie; het register ligt ter inzage voor de arbeiders en de toezichthoudende personen.
 
-#### Artikel 15
+##### Artikel 15
 
 Alle tengevolge van deze wet opgemaakte of overgelegde stukken, verzoekschriften en beschikkingen zijn vrij van het recht van zegel en van de formaliteit van registratie.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De vakantieregeling in een arbeidsovereenkomst of arbeidsreglement mag slechts ten voordele van de arbeider van het in deze wet bepaalde afwijken.
 
@@ -146,7 +171,7 @@ Alle tengevolge van deze wet opgemaakte of overgelegde stukken, verzoekschriften
 
 ## VA. Toezicht
 
-#### Artikel 16a
+##### Artikel 16a
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen ambtenaren. Een zodanige aanwijzing wordt bekendgemaakt in de Staatscourant.
 
@@ -166,30 +191,30 @@ Alle tengevolge van deze wet opgemaakte of overgelegde stukken, verzoekschriften
 
 ## VI. Strafbepalingen
 
-#### Artikel 17
+##### Artikel 17
 
 1. Met hechtenis van ten hoogste een maand of geldboete van de eerste categorie wordt gestraft hij, die het bepaalde bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=II&artikel=2&z=2026-01-01&g=2026-01-01), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=II&artikel=4a&z=2026-01-01&g=2026-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=IV&artikel=9&z=2026-01-01&g=2026-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=V&artikel=11&z=2026-01-01&g=2026-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=V&artikel=12&z=2026-01-01&g=2026-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028173&titeldeel=V&artikel=14&z=2026-01-01&g=2026-01-01) niet of niet volledig nakomt.
 
 2. De feiten in het vorige lid bedoeld, worden beschouwd als overtredingen.
 
-#### Artikel 18
+##### Artikel 18
 
 [vervallen]
 
 ## VII. Slotbepalingen
 
-#### Artikel 19
+##### Artikel 19
 
 [vervallen]
 
-#### Artikel 20
+##### Artikel 20
 
 [vervallen]
 
-#### Artikel 21
+##### Artikel 21
 
 [vervallen]
 
-#### Artikel 22
+##### Artikel 22
 
 Deze wet wordt aangehaald als: Vakantiewet 1949 BES.

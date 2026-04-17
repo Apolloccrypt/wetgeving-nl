@@ -1,20 +1,44 @@
 ---
 title: "Uitvoeringsbeschikking artikel 11a der Wet buitengewoon pensioen 1940–1945"
 identifier: "BWBR0002814"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2011-01-01
-laatste_update: 2011-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002814"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2011-01-01"
+last_updated: "2011-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002814"
+soort: "ministeriele-regeling"
+stam_id: "4554093"
+version_id: "6360252"
+internal_id: "C6604721"
+label_id: "4532324"
+dtd_version: "2.0"
+original_entry_into_force: "1972-05-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002814/2011-01-01/0"
+intitule_bron: "Stcrt.1972-90"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1972-05-03"
+intitule_published: "1972-05-10"
+intitule_in_force: "1972-05-10"
+intitule_status: "goed"
+original_publication: "Stcrt.1972-90"
+original_signed_date: "1972-05-03"
+original_published_date: "1972-05-10"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1972-05-12"
+jci_1_3: "jci1.3:c:BWBR0002814&z=2011-01-01&g=2011-01-01"
+jci_1_0: "1.0:c:BWBR0002814&g=2011-01-01"
+citeertitel_status: "officieel"
+signed_date: "1972-05-03"
+entry_into_force: "1972-05-12"
 ---
-
 # Uitvoeringsbeschikking artikel 11a der Wet buitengewoon pensioen 1940–1945
 
 Gelet op [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002814&artikel=3&z=2011-01-01&g=2011-01-01), van het Koninklijk besluit van 21 februari 1972 (Stb. 99), houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 11a van de Wet buitengewoon pensioen 1940–1945 (Stb. 1947, H 313),
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
 
@@ -26,13 +50,13 @@ In deze beschikking wordt verstaan onder:
 
 - **‘de Sociale verzekeringsbank’:** de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De vergoeding ter zake van kosten van behandeling en verpleging, bedoeld in [artikel 11a der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=11a) en de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002801&artikel=3) en [5 van het Koninklijk besluit van 21 februari 1972](https://wetten.overheid.nl/jci1.3:c:BWBR0002801&artikel=5) (Stb. 99) wordt aan de belanghebbende uitbetaald na overlegging van een rekening betreffende die behandeling en verpleging. Deze rekening dient vóór het einde van het jaar, volgende op dat, waarin de kosten de belanghebbende in rekening zijn gebracht of de uitgaven door hem zijn gedaan, op de door de Sociale verzekeringsbank aan te geven wijze bij hem te worden ingediend.
 
 2. Indien de belanghebbende de rekening niet zelf voldoet, wordt de vergoeding uitbetaald aan degene, die de behandeling en verpleging heeft verstrekt dan wel te wiens laste deze zijn gekomen.
 
-#### Artikel 3
+##### Artikel 3
 
 De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002814&artikel=2&z=2011-01-01&g=2011-01-01) bedoelde vergoeding wordt verleend met inachtneming van de volgende regelen:
 
@@ -76,6 +100,6 @@ De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002814&artikel=2&z=20
 
 - III. **Kosten van andere voorzieningen** Indien naar het oordeel van de Raad of de Sociale verzekeringsbank in verband met de invaliditeit, waaraan recht op buitengewoon pensioen wordt ontleend, een voorziening van andere aard dan de onder 1 en 11 genoemde voorzieningen is vereist, welke niet uit een aan belanghebbende toekomende vermeerdering, als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=10) en [11 van der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=11), kan worden bekostigd en welke voorziening in verhouding tot zijn levensomstandigheden kostbaar moet worden geacht, kan hem een door de Sociale verzekeringsbank naar redelijkheid vast te stellen tegemoetkoming in de kosten van die voorziening worden verleend. Bij de vaststelling van deze tegemoetkoming wordt door de Sociale verzekeringsbank geen rekening gehouden met de vaste vergoeding, bedoeld in [artikel 3, derde lid, van het Koninklijk besluit van 21 februari 1972](https://wetten.overheid.nl/jci1.3:c:BWBR0002801&artikel=3).
 
-#### Artikel 4
+##### Artikel 4
 
 Deze beschikking treedt in werking met ingang van de tweede dag na die van haar bekendmaking in de Nederlandse Staatscourant en werkt terug tot 1 januari 1970.

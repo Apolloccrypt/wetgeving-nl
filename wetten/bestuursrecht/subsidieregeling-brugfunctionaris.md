@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling brugfunctionaris"
+title: "Regeling van de Minister voor Primair en Voortgezet Onderwijs, van 22 november 2023, nr. KO/ 42384046, houdende regels voor het verstrekken van subsidie voor het inzetten van een brugfunctie (Subsidieregeling brugfunctionaris)"
 identifier: "BWBR0049052"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-05-07
-laatste_update: 2024-05-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049052"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-05-07"
+last_updated: "2024-05-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049052"
+soort: "ministeriele-regeling"
+stam_id: "16957393"
+version_id: "29806752"
+internal_id: "C42721791"
+label_id: "16867944"
+dtd_version: "2.0"
+original_entry_into_force: "2023-12-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049052/2024-05-07/0"
+intitule_bron: "Stcrt.2023-33466"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-11-22"
+intitule_published: "2023-12-15"
+intitule_in_force: "2023-12-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-33466"
+original_signed_date: "2023-11-22"
+original_published_date: "2023-12-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-33466"
+entry_into_force_date: "2023-12-16"
+jci_1_3: "jci1.3:c:BWBR0049052&z=2024-05-07&g=2024-05-07"
+jci_1_0: "1.0:c:BWBR0049052&g=2024-05-07"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling brugfunctionaris"
+signed_date: "2023-11-22"
+entry_into_force: "2023-12-16"
 ---
-
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs, van 22 november 2023, nr. KO/ 42384046, houdende regels voor het verstrekken van subsidie voor het inzetten van een brugfunctie (Subsidieregeling brugfunctionaris)
 
 Gelet op [artikel 71 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=71), [artikel 71 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=71) en [artikel 5.11 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.11);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -30,11 +56,11 @@ In deze regeling wordt verstaan onder:
 
 - **vestiging:** hoofdvestiging of nevenvestiging als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), hoofdvestiging als bedoeld in [artikel 4.13 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.13), nevenvestiging als bedoeld in [artikel 4.14 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.14) of tijdelijke nevenvestiging als bedoeld in [artikel 4.16 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.16).
 
-#### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Te subsidiëren activiteiten
+##### Artikel 3. Te subsidiëren activiteiten
 
 1. De minister kan voor de periode van de schooljaren 2024–2025, 2025–2026 en 2026–2027 aan een bevoegd gezag subsidie verstrekken voor het inzetten van personele uren om een brugfunctie vanuit de school aan te bieden.
 
@@ -54,7 +80,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - f. het delen van kennis en expertise met de leraren, onderwijsondersteunend personeel en directeur op een school over het eigen vakgebied.
 
-#### Artikel 4. Subsidieplafond
+##### Artikel 4. Subsidieplafond
 
 Voor subsidieverstrekking op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=3&z=2024-05-07&g=2024-05-07) van deze regeling is in totaal:
 
@@ -66,7 +92,7 @@ Voor subsidieverstrekking op grond van [artikel 3](https://wetten.overheid.nl/jc
 
 - d. € 4.800.000,– beschikbaar voor het speciaal basisonderwijs.
 
-#### Artikel 5. Verdeling beschikbare middelen en subsidiebedrag
+##### Artikel 5. Verdeling beschikbare middelen en subsidiebedrag
 
 1. Het voor subsidiebedrag bedraagt:
 
@@ -92,7 +118,7 @@ Voor subsidieverstrekking op grond van [artikel 3](https://wetten.overheid.nl/jc
 
 4. Indien na het verstrekken van subsidie op alle in aanmerking komende aanvragen, binnen een subsidieplafond als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=4&z=2024-05-07&g=2024-05-07), nog middelen resteren, worden deze middelen toegevoegd aan de aan de andere subsidieplafonds als bedoeld in artikel 4, naar rato van de hoogte van deze andere subsidieplafonds.
 
-#### Artikel 6. Subsidieaanvraag
+##### Artikel 6. Subsidieaanvraag
 
 1. Een bevoegd gezag, met uitzondering van een bevoegd gezag als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), kan per vestiging een aanvraag voor subsidie indienen. Een bevoegd gezag als bedoeld in artikel 1.1 van de Wet voortgezet onderwijs 2020 kan per school een aanvraag voor subsidie indienen.
 
@@ -114,25 +140,25 @@ Voor subsidieverstrekking op grond van [artikel 3](https://wetten.overheid.nl/jc
 
 - g. een verklaring waaruit blijkt dat overleg heeft plaatsgevonden of gaat plaatsvinden met betrokken gemeenten en samenwerkingsverbanden over de subsidieaanvraag en de inzet van de brugfunctie.
 
-#### Artikel 7. Subsidieverplichtingen
+##### Artikel 7. Subsidieverplichtingen
 
 1. De subsidieontvanger neemt actief deel aan het monitor- en effectonderzoek dat wordt uitgevoerd gedurende het subsidietraject, en levert tijdig adequate informatie aan ten behoeve van jaarlijkse tussenrapportages in het kader van het monitor- en effectonderzoek.
 
 2. Het bevoegd gezag kan alleen personeel als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=3&z=2024-05-07&g=2024-05-07), inzetten dat in het bezit is van een verklaring omtrent het gedrag, afgegeven op grond van de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194).
 
-#### Artikel 8. Verlening en vaststelling
+##### Artikel 8. Verlening en vaststelling
 
 1. Op grond van [artikel 9.1, vierde lid, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=9.1) wordt een subsidie aan een bevoegd gezag in het primair onderwijs die minder dan € 125.000,– bedraagt direct vastgesteld. Deze subsidie wordt vastgesteld binnen dertien weken na sluiting van de aanvraagperiode, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=6&z=2024-05-07&g=2024-05-07).
 
 2. In afwijking van [artikel 9.1, vierde lid, onderdeel a, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=9.1) wordt een subsidie aan een bevoegd gezag in het voortgezet onderwijs die € 125.000,– of meer bedraagt binnen 13 weken na sluiting van de aanvraagperiode verleend. De minister stelt de subsidie ambtshalve vast binnen een jaar na indiening van de jaarverslaggeving over het laatste jaar van de activiteitenperiode.
 
-#### Artikel 9. Betaling en bevoorschotting
+##### Artikel 9. Betaling en bevoorschotting
 
 1. De minister bepaalt het betaalritme van de subsidies, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=8&z=2024-05-07&g=2024-05-07), in de subsidiebeschikking.
 
 2. De minister verstrekt voor de subsidies, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=8&z=2024-05-07&g=2024-05-07), een voorschot van 100%, dat per jaar in gelijke delen wordt uitbetaald.
 
-#### Artikel 10. Verantwoording
+##### Artikel 10. Verantwoording
 
 1. De verantwoording van de subsidie geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132) met model G, onderdeel 1.
 
@@ -148,13 +174,13 @@ Voor subsidieverstrekking op grond van [artikel 3](https://wetten.overheid.nl/jc
 
 - d. dat overleg heeft plaatsgevonden met betrokken gemeenten en samenwerkingsverbanden voordat gestart is met de brugfunctionaris.
 
-#### Artikel 11. Inwerkingtreding en vervaldatum
+##### Artikel 11. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 augustus 2028.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling brugfunctionaris.
 

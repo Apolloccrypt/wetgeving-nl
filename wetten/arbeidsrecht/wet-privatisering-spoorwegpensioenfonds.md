@@ -1,14 +1,37 @@
 ---
-title: "Wet privatisering Spoorwegpensioenfonds"
+title: "Wet van 15 december 1993, houdende privatisering van het Spoorwegpensioenfonds"
 identifier: "BWBR0006319"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2015-07-01
-laatste_update: 2015-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006319"
+country: "nl"
+rank: "wet"
+publication_date: "2015-07-01"
+last_updated: "2015-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006319"
+soort: "wet"
+stam_id: "88573"
+version_id: "123912"
+internal_id: "C123911"
+label_id: "89974"
+dtd_version: "2.0"
+original_entry_into_force: "1994-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006319/2015-07-01/0"
+intitule_bron: "Stb.1993-680"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-12-15"
+intitule_status: "goed"
+original_publication: "Stb.1993-680"
+original_signed_date: "1993-12-15"
+original_effect: "nieuwe-regeling"
+original_dossier: "23305"
+entry_into_force_date: "1994-01-01"
+jci_1_3: "jci1.3:c:BWBR0006319&z=2015-07-01&g=2015-07-01"
+jci_1_0: "1.0:c:BWBR0006319&g=2015-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet privatisering Spoorwegpensioenfonds"
+signed_date: "1993-12-15"
+entry_into_force: "1994-01-01"
 ---
-
-# Wet privatisering Spoorwegpensioenfonds
+# Wet van 15 december 1993, houdende privatisering van het Spoorwegpensioenfonds
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten: Alzo Wij in overweging genomen hebben, dat het wenselijk is de verantwoordelijkheid voor de pensioenen van het spoorwegpersoneel in handen te leggen van de betrokken sociale partners, alsmede de bemoeienis van de rijksoverheid met en de financiële verantwoordelijkheid van het rijk voor die pensioenen te beëindigen;
 
@@ -16,7 +39,7 @@ Zo is het, dat Wij, de Raad van State gehoord en met gemeen overleg der Staten-G
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -40,13 +63,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk II. Overgang vermogen Spoorwegpensioenfonds
 
-#### Artikel 2
+##### Artikel 2
 
 1. Op het tijdstip van de inwerkingtreding van deze wet gaan alle vermogensbestanddelen van het Spoorwegpensioenfonds onder algemene titel over naar de Stichting Spoorwegpensioenfonds.
 
 2. Aan de beheerders van de openbare registers waarin overgang van rechten of verandering van tenaamstelling kan worden ingeschreven ten aanzien van de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=II&artikel=3&z=2015-07-01&g=2015-07-01) bedoelde vermogensbestanddelen, worden door de zorg van het bestuur van het Spoorwegpensioenfonds de daartoe vereiste opgaven gedaan.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het bestuur van de Stichting Spoorwegpensioenfonds doet van alle vermogensbestanddelen die aan dat fonds worden toegerekend op de dag voorafgaande aan de inwerkingtreding van deze wet, een verklaring opstellen door de accountant, bedoeld in artikel L 6 van de Spoorwegpensioenwet en de wiskundig adviseur, bedoeld in artikel L 12 van de Spoorwegpensioenwet, in overleg met een door Onze Minister aangewezen accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) alsmede een door Onze Minister aangewezen actuaris.
 
@@ -54,7 +77,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. De waardering van de in het eerste lid bedoelde vermogensbestanddelen geschiedt volgens de door het bestuur van het Spoorwegpensioenfonds vast te stellen regels, die de goedkeuring van Onze Minister behoeven.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Stichting Spoorwegpensioenfonds is aan de Staat der Nederlanden een bedrag verschuldigd ter grootte van het gereserveerde vermogen dat bestemd is voor de aanspraken voortvloeiende uit reeds ingegane invaliditeitspensioenen op grond van de Spoorwegpensioenwet op de dag voorafgaande aan de inwerkingtreding van deze wet, voorzover die aanspraken het niveau van overeenkomstige aanspraken op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) niet te boven gaan.
 
@@ -62,7 +85,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk III. Overgang pensioenaanspraken belanghebbenden
 
-#### Artikel 5
+##### Artikel 5
 
 1. De belanghebbende verkrijgt op het tijdstip van de inwerkingtreding van deze wet aanspraken jegens de Stichting Spoorwegpensioenfonds die in totaliteit gelijkwaardig zijn aan het uitzicht of het recht op pensioen dat hij ontleent aan de Spoorwegpensioenwet, voor zover in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=8&z=2015-07-01&g=2015-07-01) niet anders wordt bepaald.
 
@@ -72,7 +95,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. De belanghebbende kan binnen twee maanden na de dag waarop de in het derde lid bedoelde opgave door hem is ontvangen, schriftelijk bezwaar aantekenen bij het bestuur van de Stichting Spoorwegpensioenfonds. Indien hij niet binnen de gestelde termijn reageert, wordt hij aangemerkt als een belanghebbende die heeft ingestemd met de opgave.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De belanghebbende die op de dag voorafgaande aan de intrekking van de Spoorwegpensioenwet, ingevolge artikel D 1, tweede lid, of artikel T 4 van die wet, de tijd die volgens de Algemene burgerlijke pensioenwet voor betrokkene als diensttijd in aanmerking komt (externe diensttijd) mede als diensttijd in de zin van de Spoorwegpensioenwet in aanmerking zou kunnen doen brengen, heeft een overeenkomstig recht jegens de Stichting Spoorwegpensioenfonds.
 
@@ -108,7 +131,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk IV. Overgang naar werknemersverzekeringen
 
-#### Artikel 7
+##### Artikel 7
 
 1. Als werknemer in de zin van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) wordt aangemerkt de persoon, die op de dag voorafgaande aan het tijdstip van de inwerkingtreding van deze wet:
 
@@ -130,7 +153,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. de personen die op die dag in een arbeidsverhouding tot N.S. staan, maar niet op het tijdstip van inwerkingtreding van deze wet, als een dienstbetrekking als bedoeld in [artikel 3 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=3) aangemerkt. Aan de eerste volzin kan geen recht worden ontleend over tijdvakken gelegen voor het tijdstip van inwerkingtreding van deze wet.
 
-#### Artikel 8
+##### Artikel 8
 
 De belanghebbende, die op de dag voorafgaande aan de inwerkingtreding van deze wet, recht heeft op:
 
@@ -142,11 +165,11 @@ De belanghebbende, die op de dag voorafgaande aan de inwerkingtreding van deze w
 
 - d. een herplaatsingswachtgeld op grond van de Spoorwegpensioenwet, heeft recht op toekenning van een uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), indien hij 52 weken arbeidsongeschikt is geweest en de mate van invaliditeit, vastgesteld overeenkomstig het daartoe bepaalde krachtens de Spoorwegpensioenwet, tenminste 15% bedraagt. Voor het bepalen van de periode van 52 weken worden perioden van arbeidsongeschiktheid samengesteld, indien zij elkaar met een onderbreking van minder dan een maand opvolgen.
 
-#### Artikel 9
+##### Artikel 9
 
 De door de Directie van het Spoorwegpensioenfonds vastgestelde mate van algemene invaliditeit, bedoeld in artikel F 7 van de Spoorwegpensioenwet of de mate van arbeidsongeschiktheid in het kader van de ministeriële regeling op grond van artikel 8, derde lid, van de Algemene Arbeidsongeschiktheidswet, zoals deze wet luidde op de dag voorafgaand aan de inwerkingtreding van deze wet, is bepalend voor de vaststelling van het recht op arbeidsongeschiktheidsuitkering ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524).
 
-#### Artikel 10
+##### Artikel 10
 
 1. Voor de vaststelling van de hoogte van de uitkering ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) geldt als dagloon voor:
 
@@ -164,11 +187,11 @@ De door de Directie van het Spoorwegpensioenfonds vastgestelde mate van algemene
 
 2. Het dagloon bedraagt ten hoogste het in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17) bedoelde bedrag, met betrekking tot een loontijdvak van een dag.
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 1. De belanghebbende, die op de dag voorafgaande aan de inwerkingtreding van deze wet recht heeft op een uitkering als bedoeld in [artikel 7, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=7&z=2015-07-01&g=2015-07-01), of een herplaatsingswachtgeld krachtens de Spoorwegpensioenwet, heeft vanaf de inwerkingtreding van deze wet recht op een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), indien hij terzake van de beëindiging van zijn arbeidsverhouding tot N.S. recht op uitkering op grond van die wet zou hebben gehad indien die arbeidsverhouding als dienstbetrekking in de zin van die wet zou zijn aangemerkt, en dat recht nog zou voortduren op eerstgenoemde tijdstip.
 
@@ -176,7 +199,7 @@ Vervallen
 
 3. De belanghebbende die wegens gelijke omstandigheden als bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=8), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19) en [19a van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19a) op de dag voorafgaande aan het tijdstip van inwerkingtreding van deze wet geen recht heeft op de in het eerste lid bedoelde NS-werkloosheidsuitkering of op een herplaatsingswachtgeld krachtens de Spoorwegpensioenwet, heeft recht op een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) vanaf de eerste dag na het tijdstip van inwerkingtreding van deze wet, waarop dit recht zou zijn ontstaan of herleven indien de arbeidsverhouding tot N.S. als dienstbetrekking in de zin van de Werkloosheidswet zou zijn aangemerkt.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Voor de vaststelling van de uitkeringsduur op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=19&z=2015-07-01&g=2015-07-01), wordt het recht op uitkering op grond van die wet aangemerkt te zijn ontstaan op het tijdstip, waarop de in [artikel 7, eerste lid, onderdelen b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=7&z=2015-07-01&g=2015-07-01), bedoelde uitkering of herplaatsingswachtgeld is aangevangen.
 
@@ -184,21 +207,21 @@ Vervallen
 
 3. In afwijking van het tweede lid eindigt de duur van de uitkering, bedoeld in [artikel 42 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=42), van de persoon, wiens uitkering als bedoeld in [artikel 7, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=7&z=2015-07-01&g=2015-07-01) of wiens herplaatsingswachtgeld krachtens de Spoorwegpensioenwet is aangevangen voor 1 januari 1987 en die op de ingangsdatum van de uitkering 57,5 jaar of ouder was, op de dag waarop hij de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), bereikt.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Voor de berekening van de uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) als bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=19&z=2015-07-01&g=2015-07-01), geldt als dagloon de uitkeringsgrondslag waarnaar de uitkering van N.S. wordt berekend op de dag voorafgaande aan de inwerkingtreding van deze wet, gedeeld door 261.
 
 2. Het dagloon van de werknemer, die een uitkering ingevolge de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) naar een arbeidsongeschiktheid van minder dan 80% ontvangt of - indien het bepaalde in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=25), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=28), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=30) of [33 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=33) te zijnen aanzien niet van toepassing was - zou ontvangen, wordt evenredig verlaagd door het te vermenigvuldigen met een breuk, waarvan de teller wordt gevormd door het verschil tussen 100 en het midden van de arbeidsongeschiktheidsklasse, waarin de werknemer is ingedeeld en de noemer door het getal 100.
 
-#### Artikel 15
+##### Artikel 15
 
 Voor de toepassing van de [Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0006072) (kamerstukken II, 1992/93, 22 284 nr. 2), wordt de datum van aanvang van het invaliditeitspensioen op grond van artikel E 1 van de Spoorwegpensioenwet en van de herplaatsingstoelage of het herplaatsingswachtgeld op grond van de Spoorwegpensioenwet aangemerkt als de aanvang van de uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en is voorts [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0006072&hoofdstuk=III) van eerstgenoemde Wet van overeenkomstige toepassing op de belanghebbende die op grond van deze wet recht op uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) wordt verleend.
 
-#### Artikel 16
+##### Artikel 16
 
 Bij de vaststelling van de daglonen, bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=10&z=2015-07-01&g=2015-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=13&z=2015-07-01&g=2015-07-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=14&z=2015-07-01&g=2015-07-01) wordt volgens door Onze Minister in overleg met Onze Minister van Sociale Zaken en Werkgelegenheid te stellen regels, rekening gehouden met de aanpassing van de bruto-lonen van werknemers in dienstbetrekking tot N.S., welke plaatsvindt wegens het verschuldigd worden van premies op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), en het niet meer van toepassing zijn van de [Inhoudingswet overheidspersoneel 1982](onbekend).
 
-#### Artikel 17
+##### Artikel 17
 
 1. De belanghebbende, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=8&z=2015-07-01&g=2015-07-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=12&z=2015-07-01&g=2015-07-01)” “12”” moet zijn “12,” is verzekerd bij het Uitvoeringsinstituut werknemersverzekeringen.
 
@@ -206,7 +229,7 @@ Bij de vaststelling van de daglonen, bedoeld in de [artikelen 10](https://wetten
 
 3. Het in het eerste lid genoemde Uitvoeringsinstituut werknemersverzekeringen stelt ambtshalve van iedere belanghebbende of verzekerde als bedoeld in dat lid het recht op uitkering, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=8&z=2015-07-01&g=2015-07-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=12&z=2015-07-01&g=2015-07-01) vast.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen stelt de belanghebbende of verzekerde onverwijld schriftelijk in kennis van het recht op uitkering, de duur en hoogte van de uitkering, alsmede van het in aanmerking brengen voor voorzieningen, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=8&z=2015-07-01&g=2015-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=11&z=2015-07-01&g=2015-07-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=12&z=2015-07-01&g=2015-07-01).
 
@@ -214,61 +237,61 @@ Bij de vaststelling van de daglonen, bedoeld in de [artikelen 10](https://wetten
 
 3. Beroep tegen beslissingen op grond van deze wet is slechts toegestaan voor zover het zaken betreft die niet reeds onherroepelijk vaststaan.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Onverminderd deze wet zijn de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en de op deze wetten berustende bepalingen van overeenkomstige toepassing met betrekking tot het in dit hoofdstuk bedoelde recht op uitkering op grond van die wetten.
 
 2. Beslissingen en uitkeringen op grond van onderscheidenlijk de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=8&z=2015-07-01&g=2015-07-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=12&z=2015-07-01&g=2015-07-01) van deze wet worden beschouwd als beslissingen en uitkeringen op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045).
 
-#### Artikel 20
+##### Artikel 20
 
 Het bepaalde in de [artikelen 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=18), en [30, eerste lid, onderdeel **a**, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=30) is niet van toepassing ten aanzien van de belanghebbende, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=8&z=2015-07-01&g=2015-07-01).
 
-#### Artikel 21
+##### Artikel 21
 
 De belanghebbende, die het einde van de hem geldende uitkeringsduur op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) heeft bereikt, wordt voor de toepassing van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) geacht te hebben voldaan aan het bepaalde in [artikel 2, onderdeel a, onder 3°, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=2).
 
-#### Artikel 22
+##### Artikel 22
 
 Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid kunnen ter uitvoering van het bepaalde in dit hoofdstuk bij algemene maatregel van bestuur nadere regels stellen ten aanzien van bepaalde categorieën belanghebbenden.
 
-#### Artikel 23
+##### Artikel 23
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
-#### Artikel 25
+##### Artikel 25
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 26
+##### Artikel 26
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 27
+##### Artikel 27
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 28
+##### Artikel 28
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 29
+##### Artikel 29
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 30
+##### Artikel 30
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 31
+##### Artikel 31
 
 Vanaf het tijdstip van de inwerkingtreding van deze wet worden handelingen met betrekking tot invaliditeitspensioenen krachtens de Spoorwegpensioenwet verricht door de Stichting Spoorwegpensioenfonds overeenkomstig de bepalingen van de Spoorwegpensioenwet.
 
-#### Artikel 32
+##### Artikel 32
 
 1. In afwijking van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=IV&artikel=38&z=2015-07-01&g=2015-07-01) van deze wet blijven de artikelen S 1 en S 2 van de Spoorwegpensioenwet van toepassing ten aanzien van de in die artikelen bedoelde beslissingen die voor het tijdstip van inwerkingtreding van deze wet genomen zijn.
 
@@ -280,7 +303,7 @@ Vanaf het tijdstip van de inwerkingtreding van deze wet worden handelingen met b
 
 5. Beroepen als bedoeld in artikel S 2 van de Spoorwegpensioenwet worden door de Centrale Raad van Beroep afgehandeld overeenkomstig de bepalingen van de Spoorwegpensioenwet.
 
-#### Artikel 33
+##### Artikel 33
 
 1. De artikelen D 1, tweede lid en T 4 van de Algemene burgerlijke pensioenwet, zoals die luidden op de dag voorafgaand aan het tijdstip van inwerkingtreding van deze wet, blijven van toepassing ten aanzien van de belanghebbende die op het vorenbedoelde tijdstip, tijd die door de betrokkene is doorgebracht als deelgenoot in de zin van de Spoorwegpensioenwet of als spoorwegambtenaar in de zin van de Pensioenwet voor de Spoorwegambtenaren 1925 (externe diensttijd), mede als diensttijd in de zin van de Algemene burgerlijke pensioenwet dan wel mede als diensttijd in de zin van de Algemene militaire pensioenwet in aanmerking zou kunnen doen brengen.
 
@@ -298,33 +321,33 @@ Vanaf het tijdstip van de inwerkingtreding van deze wet worden handelingen met b
 
 6. Door de overname van externe diensttijd door het Algemeen burgerlijk pensioenfonds of de Minister van Defensie vervalt het uitzicht of recht van belanghebbende op pensioen over die tijd jegens de Stichting Spoorwegpensioenfonds.
 
-#### Artikel 34
+##### Artikel 34
 
 Pensioenen ten aanzien waarvan op de dag voorafgaand aan de inwerkingtreding van deze wet toepassing is gegeven aan artikel J 1**a** of J 14 van de Algemene burgerlijke pensioenwet, [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=93), [101](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=101), [154 van de Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=154) onderscheidenlijk artikel J 1a, J 2a of M 5 van de Algemene militaire pensioenwet, worden op aanvraag van de belanghebbende herzien met inachtneming van de na het tijdstip van inwerkingtreding van deze wet toepasselijke bepalingen inzake samenloop van pensioenen.
 
-#### Artikel 35
+##### Artikel 35
 
 De heffing van overdrachtsbelasting blijft achterwege, terzake van de overgang van vermogensbestanddelen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&hoofdstuk=II&artikel=2&z=2015-07-01&g=2015-07-01).
 
-#### Artikel 36
+##### Artikel 36
 
 Vervallen
 
-#### Artikel 37
+##### Artikel 37
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 38
+##### Artikel 38
 
 De Spoorwegpensioenwet wordt ingetrokken.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 2. Indien het bij koninklijke boodschap van 11 oktober 1993 ingediende voorstel van wet houdende maatregelen gericht op een goede financiële basis voor de privatisering van het Algemeen burgerlijk pensioenfonds en reparatie van de invaliditeitspensioenen ([Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211); kamerstukken II 1993/94, 23 442, nrs. 1-3) tot wet wordt verheven, wordt deze wet geacht in werking te zijn getreden voor eerstbedoelde wet.
 
-#### Artikel 40
+##### Artikel 40
 
 Deze wet wordt aangehaald als: Wet privatisering Spoorwegpensioenfonds.
 

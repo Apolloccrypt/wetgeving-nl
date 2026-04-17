@@ -1,13 +1,39 @@
 ---
-title: "Besluit ondermandaat, volmacht en machtiging afdeling Bezwaar & Beroep (2011)"
+title: "Besluit ondermandaat, volmacht en machtiging afdeling Bezwaar & Beroep"
 identifier: "BWBR0033431"
-categorie: "Bestuursrecht"
-publicatiedatum: 2011-08-27
-laatste_update: 2011-08-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033431"
+country: "nl"
+rank: "zbo"
+publication_date: "2011-08-27"
+last_updated: "2011-08-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033431"
+soort: "zbo"
+stam_id: "12261463"
+version_id: "20520592"
+internal_id: "C28860881"
+label_id: "12232824"
+dtd_version: "2.0"
+original_entry_into_force: "2011-08-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033431/2011-08-27/0"
+intitule_bron: "Stcrt.2011-15450"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-08-18"
+intitule_published: "2011-08-25"
+intitule_in_force: "2011-08-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-15450"
+original_signed_date: "2011-08-18"
+original_published_date: "2011-08-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-15450"
+entry_into_force_date: "2011-08-27"
+jci_1_3: "jci1.3:c:BWBR0033431&z=2011-08-27&g=2011-08-27"
+jci_1_0: "1.0:c:BWBR0033431&g=2011-08-27"
+citeertitel_status: "redactioneel"
+short_title: "Besluit ondermandaat, volmacht en machtiging afdeling Bezwaar & Beroep (2011)"
+signed_date: "2011-08-18"
+entry_into_force: "2011-08-27"
 ---
-
 # Besluit ondermandaat, volmacht en machtiging afdeling Bezwaar & Beroep
 
 Gezien [artikel 7 van het Besluit mandaat, volmacht en machtiging CAK](https://wetten.overheid.nl/jci1.3:c:BWBR0033429&artikel=7) van 15 juni 20101Gepubliceerd in Staatscourant 2010, nr. 12567, 11 augustus 2010., waarbij aan hem/haar mandaat, volmacht en machtiging is verleend voor bevoegdheden in het kader van de afwikkeling van bezwaar- en beroepschriften;
@@ -16,7 +42,7 @@ Gelezen de in [artikel 9 van het Besluit mandaat, volmacht en machtiging CAK](ht
 
 Besluit:
 
-#### Artikel 1. definities
+##### Artikel 1. definities
 
 In dit besluit wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 - d. **functionarissen:** de functionarissen Bezwaar & Beroep van de afdeling Bezwaar & Beroep van het CAK.
 
-#### Artikel 2. behandelen bezwaarschriften
+##### Artikel 2. behandelen bezwaarschriften
 
 De manager verleent ondermandaat, volmacht en machtiging
 
@@ -40,7 +66,7 @@ De manager verleent ondermandaat, volmacht en machtiging
 
 aan de senior functionarissen, alsmede aan de functionarissen.
 
-#### Artikel 3. besluiten op bezwaarschriften
+##### Artikel 3. besluiten op bezwaarschriften
 
 De manager verleent ondermandaat, volmacht en machtiging
 
@@ -48,7 +74,7 @@ De manager verleent ondermandaat, volmacht en machtiging
 
 aan de senior functionarissen, alsmede aan de functionarissen.
 
-#### Artikel 4. behandelen (hoger) beroepschriften
+##### Artikel 4. behandelen (hoger) beroepschriften
 
 De manager verleent ondermandaat, volmacht en machtiging
 
@@ -60,7 +86,7 @@ De manager verleent ondermandaat, volmacht en machtiging
 
 aan de senior functionarissen, alsmede aan de functionarissen.
 
-#### Artikel 5. instellen hoger beroep
+##### Artikel 5. instellen hoger beroep
 
 De manager verleent ondermandaat, volmacht en machtiging
 
@@ -68,7 +94,7 @@ De manager verleent ondermandaat, volmacht en machtiging
 
 aan de senior functionarissen, alsmede aan de functionarissen.
 
-#### Artikel 6. instructies
+##### Artikel 6. instructies
 
 1. De manager bepaalt dat de functionarissen alleen bij afwezigheid van de senior functionarissen, of – bij aanwezigheid – op verzoek van de senior functionarissen, gebruik maken van het ondermandaat tot het nemen van een beslissing op bezwaar.
 
@@ -76,16 +102,16 @@ aan de senior functionarissen, alsmede aan de functionarissen.
 
 3. Alvorens hoger beroep in te stellen bij de Centrale Raad van Beroep, nemen de (senior) functionarissen en de manager daarover tezamen een beslissing.2Een van de redenen hiervoor is dat de manager mee dient te beslissen in verband met de financiële consequenties van het instellen van hoger beroep.
 
-#### Artikel 7. informatie
+##### Artikel 7. informatie
 
 De senior functionarissen en de functionarissen informeren de manager desgevraagd, al dan niet periodiek, over de manier waarop zij invulling geven aan het verleende ondermandaat, de volmacht en de machtiging.
 
-#### Artikel 8. bekendmaking
+##### Artikel 8. bekendmaking
 
 1. Dit besluit wordt bekendgemaakt via publicatie in de Staatscourant.
 
 2. Een afschrift van dit besluit wordt gezonden aan de directie van het CAK, aan de afdeling Interne Controle en aan degenen aan wie krachtens deze regeling ondermandaat, volmacht en machtiging is verleend.
 
-#### Artikel 9. inwerkingtreding
+##### Artikel 9. inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.

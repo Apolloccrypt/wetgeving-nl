@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling Biotech Booster"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 22 april 2024 nr. OWB/44324005, houdende regels voor de subsidieverstrekking voor proof of principle-projecten en proof of concept-projecten in het kader van het Biotech Booster programma (Subsidieregeling Biotech Booster)"
 identifier: "BWBR0049641"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-02-26
-laatste_update: 2026-02-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049641"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-02-26"
+last_updated: "2026-02-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049641"
+soort: "ministeriele-regeling"
+stam_id: "17088863"
+version_id: "30076132"
+internal_id: "C43100101"
+label_id: "16997854"
+dtd_version: "2.0"
+original_entry_into_force: "2024-05-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049641/2026-02-26/0"
+intitule_bron: "Stcrt.2024-14157"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-04-22"
+intitule_published: "2024-05-01"
+intitule_in_force: "2024-05-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-14157"
+original_signed_date: "2024-04-22"
+original_published_date: "2024-05-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-14157"
+entry_into_force_date: "2024-05-02"
+jci_1_3: "jci1.3:c:BWBR0049641&z=2026-02-26&g=2026-02-26"
+jci_1_0: "1.0:c:BWBR0049641&g=2026-02-26"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling Biotech Booster"
+signed_date: "2024-04-22"
+entry_into_force: "2024-05-02"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 22 april 2024 nr. OWB/44324005, houdende regels voor de subsidieverstrekking voor proof of principle-projecten en proof of concept-projecten in het kader van het Biotech Booster programma (Subsidieregeling Biotech Booster)
 
 Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
@@ -16,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -74,15 +100,15 @@ In deze regeling wordt verstaan onder:
 
 - **universiteit:** universiteit als genoemd in de onderdelen a of b van de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend).
 
-#### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Doel van de regeling
+##### Artikel 3. Doel van de regeling
 
 Deze regeling heeft als doel om door het verstrekken van subsidies aan proof of principle-projecten en proof of concept-projecten binnen het Biotech Booster programma, de maatschappelijke impact en het rendement van valorisatie van wetenschappelijk onderzoek te verhogen en hiermee het Nederlandse OO&I-ecosysteem van de biotechnologie te versterken.
 
-#### Artikel 4. Subsidieverstrekking proof of principle-projecten en proof of concept-projecten
+##### Artikel 4. Subsidieverstrekking proof of principle-projecten en proof of concept-projecten
 
 1. De minister kan op grond van deze regeling subsidie verstrekken voor een proof of principle-project of een proof of concept-project.
 
@@ -90,7 +116,7 @@ Deze regeling heeft als doel om door het verstrekken van subsidies aan proof of 
 
 3. Voor een proof of concept-project bedraagt de subsidie ten hoogste € 1.900.000,–.
 
-#### Artikel 5. Subsidieplafond
+##### Artikel 5. Subsidieplafond
 
 1. Voor subsidieverstrekking op grond van deze regeling is voor de eerste aanvraagronde, bedoeld in [artikel 6, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=1&artikel=6&z=2026-02-26&g=2026-02-26), een totaalbedrag beschikbaar van € 19.500.000,–.
 
@@ -150,7 +176,7 @@ Deze regeling heeft als doel om door het verstrekken van subsidies aan proof of 
 
 15. Het subsidieplafond voor de aanvraagronde, bedoeld in [artikel 6, vierde lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=1&artikel=6&z=2026-02-26&g=2026-02-26), zal door wijziging van deze regeling aan deze regeling worden toegevoegd. Daarbij wordt eveneens een onderverdeling gemaakt tussen het bedrag dat beschikbaar is voor proof of principle-projecten, en het bedrag dat beschikbaar is voor proof of concept-projecten.
 
-#### Artikel 6. Algemene bepalingen subsidieaanvraag
+##### Artikel 6. Algemene bepalingen subsidieaanvraag
 
 1. De subsidie voor een proof of principle-project wordt, al dan niet namens een samenwerkingsverband, aangevraagd door:
 
@@ -184,7 +210,7 @@ Deze regeling heeft als doel om door het verstrekken van subsidies aan proof of 
 
 #### Paragraaf 2. Proof of principle-projecten
 
-#### Artikel 7. Subsidiabele activiteiten
+##### Artikel 7. Subsidiabele activiteiten
 
 1. De minister kan subsidie verstrekken voor de volgende activiteiten binnen een proof of principle-project:
 
@@ -200,7 +226,7 @@ Deze regeling heeft als doel om door het verstrekken van subsidies aan proof of 
 
 4. Subsidie wordt enkel verstrekt voor activiteiten die op de doelstellingen van de subsidieregeling gericht zijn.
 
-#### Artikel 8. Subsidiabele kosten
+##### Artikel 8. Subsidiabele kosten
 
 1. De voor subsidie in aanmerking komende kosten hebben betrekking op de activiteiten, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=2&artikel=7&z=2026-02-26&g=2026-02-26).
 
@@ -216,7 +242,7 @@ Deze regeling heeft als doel om door het verstrekken van subsidies aan proof of 
 
 - b. loonkosten van eigen personeel in vaste dienst.
 
-#### Artikel 9. Hoogte van de subsidie
+##### Artikel 9. Hoogte van de subsidie
 
 1. Indien de subsidieontvanger een onderzoeksorganisatie is die niet-economische activiteiten verricht, bedraagt de subsidie voor een proof of principle-project 100% van de subsidiabele kosten.
 
@@ -248,7 +274,7 @@ Deze regeling heeft als doel om door het verstrekken van subsidies aan proof of 
 
 5. Indien sprake is van een samenwerkingsverband, wordt het subsidiebedrag vastgesteld met inachtneming van het tweede tot en met het vierde lid, aan de hand van de subsidiabele kosten die per samenwerkingspartner binnen het samenwerkingsverband worden gemaakt.
 
-#### Artikel 10. Subsidieaanvraag
+##### Artikel 10. Subsidieaanvraag
 
 1. De subsidie wordt aangevraagd met gebruikmaking van het aanvraagformulier dat daartoe op de website van DUS-I beschikbaar wordt gesteld.
 
@@ -290,7 +316,7 @@ Deze regeling heeft als doel om door het verstrekken van subsidies aan proof of 
 
 6. Het onderbouwd advies, bedoeld in het vijfde lid, gaat vergezeld van een geheimhoudingsverklaring en integriteitsverklaring ondertekend door de onafhankelijk jurist die het onderbouwd advies heeft uitgebracht.
 
-#### Artikel 11. Beoordeling
+##### Artikel 11. Beoordeling
 
 1. De minister beslist op de aanvragen aan de hand van de volgende beoordelingscriteria:
 
@@ -310,13 +336,13 @@ Deze regeling heeft als doel om door het verstrekken van subsidies aan proof of 
 
 3. Subsidie wordt slechts verleend indien alle criteria ten minste als voldoende worden beoordeeld.
 
-#### Artikel 12. Wijze van verdeling van beschikbare middelen
+##### Artikel 12. Wijze van verdeling van beschikbare middelen
 
 Het bedrag dat beschikbaar is voor de te verstrekken subsidies, wordt over de aanvragen verdeeld op volgorde van binnenkomst van de volledige aanvragen.
 
 #### Paragraaf 3. Proof of concept-projecten
 
-#### Artikel 13. Subsidiabele activiteiten
+##### Artikel 13. Subsidiabele activiteiten
 
 1. De minister kan subsidie verstrekken voor de volgende activiteiten binnen een proof of concept-project:
 
@@ -332,7 +358,7 @@ Het bedrag dat beschikbaar is voor de te verstrekken subsidies, wordt over de aa
 
 4. Subsidie wordt enkel verstrekt voor activiteiten die op de doelstellingen van de subsidieregeling gericht zijn.
 
-#### Artikel 14. Subsidiabele kosten
+##### Artikel 14. Subsidiabele kosten
 
 1. De voor subsidie in aanmerking komende kosten hebben betrekking op de activiteiten als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049641&paragraaf=3&artikel=13&z=2026-02-26&g=2026-02-26).
 
@@ -340,7 +366,7 @@ Het bedrag dat beschikbaar is voor de te verstrekken subsidies, wordt over de aa
 
 3. De kosten bedoeld in het eerste en tweede lid zijn uitsluitend subsidiabel als deze aantoonbaar en direct gerelateerd zijn aan de subsidiabele activiteiten en de doelstelling van deze subsidieregeling.
 
-#### Artikel 15. Hoogte van de subsidie
+##### Artikel 15. Hoogte van de subsidie
 
 1. Indien de subsidieontvanger een onderzoeksorganisatie is die niet-economische activiteiten verricht, bedraagt de subsidie voor een proof of concept-project 100% van de subsidiabele kosten.
 
@@ -372,7 +398,7 @@ Het bedrag dat beschikbaar is voor de te verstrekken subsidies, wordt over de aa
 
 5. Het subsidiebedrag wordt vastgesteld met inachtneming van het tweede tot en met het vierde lid, aan de hand van de subsidiabele kosten die per samenwerkingspartner binnen het samenwerkingsverband worden gemaakt.
 
-#### Artikel 16. Subsidieaanvraag
+##### Artikel 16. Subsidieaanvraag
 
 1. De subsidie wordt aangevraagd met gebruikmaking van het aanvraagformulier dat daartoe op de website van DUS-I beschikbaar wordt gesteld.
 
@@ -398,7 +424,7 @@ Het bedrag dat beschikbaar is voor de te verstrekken subsidies, wordt over de aa
 
 - 5°. de samenwerkingspartners verbinden zich te voldoen aan het gevraagde subsidiebesluit en de bijbehorende de rapportage- en verantwoordingsverplichtingen en andere door de subsidieverlener aan de aanvrager te stellen subsidieverplichtingen en verantwoordelijkheden.
 
-#### Artikel 17. Beoordeling
+##### Artikel 17. Beoordeling
 
 1. De minister beslist op de aanvragen aan de hand van de volgende beoordelingscriteria:
 
@@ -418,13 +444,13 @@ Het bedrag dat beschikbaar is voor de te verstrekken subsidies, wordt over de aa
 
 3. Subsidie wordt slechts verleend indien alle criteria ten minste als voldoende worden beoordeeld.
 
-#### Artikel 18. Wijze van verdeling van beschikbare middelen
+##### Artikel 18. Wijze van verdeling van beschikbare middelen
 
 Het bedrag dat beschikbaar is voor de te verstrekken subsidies, wordt over de aanvragen verdeeld op volgorde van binnenkomst van de volledige aanvragen.
 
 #### Paragraaf 4. Overige bepalingen
 
-#### Artikel 19. Weigeringsgronden
+##### Artikel 19. Weigeringsgronden
 
 De subsidieaanvraag wordt afgewezen, indien:
 
@@ -436,7 +462,7 @@ De subsidieaanvraag wordt afgewezen, indien:
 
 - d. de activiteiten niet voldoende zijn gericht op de doelstellingen van de subsidieregeling.
 
-#### Artikel 20. Subsidieverplichtingen
+##### Artikel 20. Subsidieverplichtingen
 
 Aan de aanvrager worden de volgende verplichtingen opgelegd:
 
@@ -456,7 +482,7 @@ Aan de aanvrager worden de volgende verplichtingen opgelegd:
 
 - h. de aanvrager is verplicht om in het geval van een publicatie over het project de tekst ‘Deze publicatie is mede ondersteund door subsidie uit het Nationaal Groeifonds-programma Biotech Booster’ te vermelden.
 
-#### Artikel 21. Subsidieverantwoording en -vaststelling
+##### Artikel 21. Subsidieverantwoording en -vaststelling
 
 1. Een aanvraag om subsidievaststelling wordt ingediend met gebruikmaking van een modelformulier dat door de minister beschikbaar wordt gesteld.
 
@@ -472,13 +498,13 @@ Aan de aanvrager worden de volgende verplichtingen opgelegd:
 
 #### Paragraaf 5. Slotbepalingen
 
-#### Artikel 22. Inwerkingtreding en geldigheidsduur
+##### Artikel 22. Inwerkingtreding en geldigheidsduur
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 maart 2034, met dien verstande dat de regeling van toepassing blijft op subsidies die zijn verleend op grond van deze regeling.
 
-#### Artikel 23. Citeertitel
+##### Artikel 23. Citeertitel
 
 Deze regeling wordt aangehaald als Subsidieregeling Biotech Booster.
 

@@ -1,13 +1,37 @@
 ---
-title: "Verordening PT Vakheffing Bloembollen Plantgoed 2002"
+title: "Verordening van het Productschap Tuinbouw van 3 juli 2001, houdende de vaststelling van aan telers van en handelaren in bloembollen op te leggen heffing voor het jaar 2002 (Verordening PT Vakheffing Bloembollen Plantgoed 2002)"
 identifier: "BWBR0012633"
-categorie: "Belastingrecht"
-publicatiedatum: 2002-01-01
-laatste_update: 2002-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012633"
+country: "nl"
+rank: "pbo"
+publication_date: "2002-01-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012633"
+soort: "pbo"
+stam_id: "6229393"
+version_id: "10901922"
+internal_id: "C14772771"
+label_id: "6218654"
+original_entry_into_force: "2002-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012633/2002-01-01/0"
+intitule_bron: "Vbbo.2001-49"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-07-03"
+intitule_published: "2001-11-02"
+intitule_in_force: "2001-11-02"
+intitule_status: "goed"
+original_publication: "Vbbo.2001-49"
+original_signed_date: "2001-07-03"
+original_published_date: "2001-11-02"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-01-01"
+jci_1_3: "jci1.3:c:BWBR0012633&z=2002-01-01&g=2002-01-01"
+jci_1_0: "1.0:c:BWBR0012633&g=2002-01-01"
+citeertitel_status: "officieel"
+short_title: "Verordening PT Vakheffing Bloembollen Plantgoed 2002"
+signed_date: "2001-07-03"
+entry_into_force: "2002-01-01"
 ---
-
 # Verordening van het Productschap Tuinbouw van 3 juli 2001, houdende de vaststelling van aan telers van en handelaren in bloembollen op te leggen heffing voor het jaar 2002 (Verordening PT Vakheffing Bloembollen Plantgoed 2002)
 
 gelet op [artikel 126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en op de [artikelen 14](onbekend), [15](onbekend) en [19 van de Instellingsverordening Productschap Tuinbouw 1998](onbekend);
@@ -18,7 +42,7 @@ besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de [artikelen 2](onbekend) en [3 van de Instellingsverordening Productschap Tuinbouw 1998](onbekend).
 
@@ -50,13 +74,13 @@ besluit:
 
 #### § 2. Heffingsplicht
 
-#### Artikel 2
+##### Artikel 2
 
 1. De koper en verkoper van bloembollen-plantgoed zijn aan het productschap een heffing verschuldigd over de koopseizoenen voorzover deze in het jaar 2002 vallen, ten behoeve van de algemene kosten van het productschap, alsmede ten behoeve van aangelegenheden als milieu-aangelegenheden, onderzoek, kwaliteitscontrole en voorlichtings-, promotionele en marketingsactiviteiten.
 
 2. De heffing, bedoeld in het eerste lid, wordt opgelegd bij wege van een aanslag, met in achtneming van het in de volgende artikelen bepaalde.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012633&paragraaf=2&artikel=2&z=2002-01-01&g=2002-01-01) doen de koper en verkoper bij het productschap aangifte van de door hen gekochte, respectievelijk verkochte bloembollen-plantgoed.
 
@@ -64,7 +88,7 @@ besluit:
 
 #### § 3. Grondslag en hoogte
 
-#### Artikel 4
+##### Artikel 4
 
 1. De heffing die de koper en verkoper van bloembollen-plantgoed zijn verschuldigd, wordt per transactie opgelegd
 
@@ -72,7 +96,7 @@ besluit:
 
 3. Het bestuur kan op voorstel van de sectorcommissie voor bollen, knollen en wortelstokken van bloemgewassen het percentage, bedoeld in het tweede lid, verlagen
 
-#### Artikel 5
+##### Artikel 5
 
 1. Degene die bloembollen-plantgoed verkoopt of heeft verkocht door tussenkomst van een veiling, is aan het productschap een heffing verschuldigd ter grootte van 2,1% van het factuurbedrag.
 
@@ -80,7 +104,7 @@ besluit:
 
 3. Het tweede lid laat onverlet de bevoegdheid van het productschap om in voorkomende gevallen zelf tot oplegging en invordering van de ingevolge het eerste lid verschuldigde heffing over te gaan.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Degene die, niet-handelskaarthouder zijnde, bloembollen-plantgoed koopt of heeft gekocht door tussenkomst van een veiling is aan het productschap een heffing verschuldigd ter grootte van 2,1% van het factuurbedrag.
 
@@ -88,7 +112,7 @@ besluit:
 
 3. Het tweede lid laat onverlet de bevoegdheid van het productschap om in voorkomende gevallen zelf tot oplegging en invordering van de ingevolge het eerste lid verschuldigde heffing over te gaan.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Degene die zonder tussenkomst van een veiling bloembollen-plantgoed verkoopt of heeft verkocht aan handelskaarthouders, is aan het productschap een heffing verschuldigd over iedere levering van deze producten ter grootte van 2,1% van het factuurbedrag.
 
@@ -98,33 +122,33 @@ besluit:
 
 4. Indien en voorzover daartoe naar het oordeel van een door het bestuur van het productschap ingestelde prijzencommissie termen aanwezig zijn, kan bij de toepassing van het eerste lid als factuurbedrag worden aangemerkt de marktwaarde van de desbetreffende bloembollen op het tijdstip van verkoop.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Degene die, niet-handelskaarthouder zijnde, door hem geteelde bloembollen-plantgoed zonder tussenkomst van een veiling verkoopt of heeft verkocht aan niet-handelskaarthouders, is aan het productschap een heffing verschuldigd over iedere levering van deze producten ter grootte van 4,2% van het factuurbedrag.
 
 2. [Artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012633&paragraaf=3&artikel=7&z=2002-01-01&g=2002-01-01), is van toepassing.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De handelskaarthouder die bloembollen-plantgoed inkoopt voor de verkoop of voor aanwending in het eigen bloemkwekerij- en/of bloembollenteeltbedrijf, is aan het productschap een heffing verschuldigd ter grootte van 2,1% van het factuurbedrag.
 
 2. [Artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012633&paragraaf=3&artikel=7&z=2002-01-01&g=2002-01-01), is van toepassing.
 
-#### Artikel 10
+##### Artikel 10
 
 De handelskaarthouder is aan het productschap een heffing verschuldigd van 4,2% over het factuurbedrag van de door hem verkochte uit eigen teelt verkregen bloembollen-plantgoed.
 
-#### Artikel 11
+##### Artikel 11
 
 Degene die, anders dan in de hoedanigheid van detaillist, zonder tussenkomst van een veiling bloembollen-plantgoed verkoopt aan niet-handelskaarthouders, is verplicht 2,1% van het factuurbedrag van de door hem aldus verkochte bollen aan de desbetreffende kopers door te berekenen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Degene die bloembollen-plantgoed afkomstig uit eigen kraam aanwendt voor de teelt van bolbloemen is over die bloembollen-plantgoed aan het productschap een heffing verschuldigd ter grootte van 2,1% van de verkoopwaarde van de desbetreffende bloembollen.
 
 2. De verkoopwaarde van de bloembollen-plantgoed wordt vastgesteld door een door het bestuur van het productschap in te stellen commissie.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Degene die, niet-handelskaarthouder zijnde, aantoont:
 
@@ -136,7 +160,7 @@ ontvangt van het productschap een restitutie ter grootte van 4,2% van het verkoo
 
 2. Aanvragen tot restituties, dienen bij het productschap te worden ingediend binnen twee jaar na de datum van de betaling van de betreffende bloembollen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. In geval van verkoop van groen te velde verhandelde bollen van tulpen of narcissen, anders dan de in [artikel 1, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012633&paragraaf=1&artikel=1&z=2002-01-01&g=2002-01-01), bedoelde partijen, wordt de heffing berekend:
 
@@ -164,17 +188,17 @@ ontvangt van het productschap een restitutie ter grootte van 4,2% van het verkoo
 
 4. In geval van mud- en kilogramgoed van monbretia's, nat van het veld en normaal aflopend ongeraapt, wordt de heffing berekend over 60% van het factuurbedrag van de desbetreffende partij.
 
-#### Artikel 15
+##### Artikel 15
 
 De handelskaarthouder, die bloembollen-plantgoed leverbaar verkoopt door tussenkomst van een veiling dan wel rechtstreeks aan andere handelskaarthouders, ontvangt een restitutie van 4,2% over het factuurbedrag van de betreffende bloembollen.
 
 #### § 4. Oplegging en inning
 
-#### Artikel 16
+##### Artikel 16
 
 Indien een heffingsplichtige gegevens die hem krachtens de Verordening PT Algemene bepalingen ten behoeve van de onderhavige verordening of krachtens deze verordening zijn gevraagd niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing wordt verhoogd met € 40 in verband met administratiekosten.
 
-#### Artikel 17
+##### Artikel 17
 
 1. In die gevallen dat de heffing niet is voldaan op de wijze bedoeld in de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012633&paragraaf=3&artikel=5&z=2002-01-01&g=2002-01-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012633&paragraaf=3&artikel=6&z=2002-01-01&g=2002-01-01) en [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012633&paragraaf=3&artikel=7&z=2002-01-01&g=2002-01-01), vindt de oplegging van de krachtens deze verordening verschuldigde heffing plaats na afloop van het jaar waarover de heffing verschuldigd is en geschiedt deze door toezending of uitreiking aan de heffingsplichtige van een heffingsnota.
 
@@ -188,11 +212,11 @@ Indien een heffingsplichtige gegevens die hem krachtens de Verordening PT Algeme
 
 3. In afwijking van het eerste lid kan de heffingsplichtige een voorlopige heffing worden opgelegd tot het bedrag waarop de heffing vermoedelijk zal worden vastgesteld. De voorlopige heffing wordt verrekend met de krachtens deze verordening verschuldigde heffing.
 
-#### Artikel 18
+##### Artikel 18
 
 Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming, niet in overeenstemming met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Betaling geschiedt binnen 30 dagen na dagtekening van de heffingsnota.
 
@@ -204,26 +228,26 @@ Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de
 
 - c. zodra de ondernemer zich metterwoon in het buitenland heeft gevestigd of van het voornemen daartoe blijkt.
 
-#### Artikel 20
+##### Artikel 20
 
 Aan de heffingsplichtige, die niet of niet geheel binnen de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0012633&paragraaf=4&artikel=19&z=2002-01-01&g=2002-01-01) bedoelde termijn heeft betaald, kunnen de daaruit voortvloeiende extra kosten van maximaal € 22,50 in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127).
 
-#### Artikel 21
+##### Artikel 21
 
 Een koper en verkoper van bloembollen wordt geacht, indien hij bloembollen door tussenkomst van een veiling verhandelt, aan zijn verplichtingen als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012633&paragraaf=2&artikel=2&z=2002-01-01&g=2002-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012633&paragraaf=2&artikel=3&z=2002-01-01&g=2002-01-01) ten aanzien van de op vorenbedoelde wijze verhandelde producten te hebben voldaan, indien hij de desbetreffende veiling heeft gemachtigd namens hem aan het productschap de door hem verschuldigde heffing te voldoen en deze heffing door het productschap is ontvangen.
 
-#### Artikel 22
+##### Artikel 22
 
 De voorzitter is belast met de oplegging en inning van de heffing en de daarmee samenhangende kosten, bedoeld in de [artikelen 5 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0012633&paragraaf=3&artikel=5&z=2002-01-01&g=2002-01-01).
 
 #### § 5. Slotbepalingen
 
-#### Artikel 23
+##### Artikel 23
 
 1. Deze verordening treedt in werking op 1 januari 2002.
 
 2. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst wordt uitgegeven na 31 december 2001 treedt zij in werking met ingang van de dag na de datum van publikatie in het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2002.
 
-#### Artikel 24
+##### Artikel 24
 
 Deze verordening wordt aangehaald als Verordening PT Vakheffing Bloembollen Plantgoed 2002.

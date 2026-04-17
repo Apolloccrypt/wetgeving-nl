@@ -1,13 +1,35 @@
 ---
 title: "Brochure Instandhoudingssubsidie 2019-2020, Nederlandse Organisatie voor Wetenschappelijk Onderzoek"
 identifier: "BWBR0044117"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-09-24
-laatste_update: 2020-09-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044117"
+country: "nl"
+rank: "zbo"
+publication_date: "2020-09-24"
+last_updated: "2020-09-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044117"
+soort: "zbo"
+stam_id: "15638013"
+version_id: "27033492"
+internal_id: "C38246361"
+label_id: "15578084"
+dtd_version: "2.0"
+original_entry_into_force: "2020-09-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044117/2020-09-24/0"
+intitule_bron: "Stcrt.2020-49082"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2020-09-24"
+intitule_in_force: "2020-09-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-49082"
+original_published_date: "2020-09-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-49082"
+entry_into_force_date: "2020-09-24"
+jci_1_3: "jci1.3:c:BWBR0044117&z=2020-09-24&g=2020-09-24"
+jci_1_0: "1.0:c:BWBR0044117&g=2020-09-24"
+citeertitel_status: "redactioneel"
+entry_into_force: "2020-09-24"
 ---
-
 # Brochure Instandhoudingssubsidie 2019-2020, Nederlandse Organisatie voor Wetenschappelijk Onderzoek
 
 ### Nationale Roadmap voor Grootschalige Wetenschappelijke Infrastructuur 2016

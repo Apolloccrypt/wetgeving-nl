@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling praktijkgericht vak gl en tl"
+title: "Regeling van de Minister voor Primair en Voortgezet Onderwijs van 12 maart 2024, nr. 1502027, houdende regels voor subsidieverstrekking ter ondersteuning van het invoeren van het praktijkgerichte vak in de gemengde leerweg en theoretische leerweg van het vmbo (Subsidieregeling praktijkgericht vak gl en tl)"
 identifier: "BWBR0049480"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-12-17
-laatste_update: 2024-12-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049480"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-12-17"
+last_updated: "2024-12-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049480"
+soort: "ministeriele-regeling"
+stam_id: "17054513"
+version_id: "30007792"
+internal_id: "C43016751"
+label_id: "16964104"
+dtd_version: "2.0"
+original_entry_into_force: "2024-03-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049480/2024-12-17/0"
+intitule_bron: "Stcrt.2024-8355"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-03-12"
+intitule_published: "2024-03-20"
+intitule_in_force: "2024-03-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-8355"
+original_signed_date: "2024-03-12"
+original_published_date: "2024-03-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-8355"
+entry_into_force_date: "2024-03-21"
+jci_1_3: "jci1.3:c:BWBR0049480&z=2024-12-17&g=2024-12-17"
+jci_1_0: "1.0:c:BWBR0049480&g=2024-12-17"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling praktijkgericht vak gl en tl"
+signed_date: "2024-03-12"
+entry_into_force: "2024-03-21"
 ---
-
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 12 maart 2024, nr. 1502027, houdende regels voor subsidieverstrekking ter ondersteuning van het invoeren van het praktijkgerichte vak in de gemengde leerweg en theoretische leerweg van het vmbo (Subsidieregeling praktijkgericht vak gl en tl)
 
 Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -52,7 +78,7 @@ In deze regeling wordt verstaan onder:
 
 - **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
@@ -60,7 +86,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 3. Doel en reikwijdte subsidie
+##### Artikel 3. Doel en reikwijdte subsidie
 
 1. Op aanvraag van het bevoegd gezag van een school of vavo-instelling kan de minister voor de schooljaren 2024–2025 tot en met 2027–2028 subsidie verstrekken voor het aanbieden van een praktijkgericht vak in de gemengde leerweg of de theoretische leerweg van het vmbo.
 
@@ -72,7 +98,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 3. Subsidie aan een pilotschool wordt verstrekt voor het aanbieden van een praktijkgericht vak in de theoretische leerweg.
 
-#### Artikel 4. Subsidieaanvraag
+##### Artikel 4. Subsidieaanvraag
 
 1. Een subsidieaanvraag kan worden ingediend:
 
@@ -88,21 +114,21 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 4. Voor de subsidieaanvraag wordt gebruik gemaakt van het digitale aanvraagformulier dat is bekendgemaakt op de website [www.dus-i.nl](http://www.dus-i.nl/).
 
-#### Artikel 5. Beslistermijn
+##### Artikel 5. Beslistermijn
 
 De subsidie wordt direct vastgesteld binnen 13 weken na sluiting van de aanvraagtermijn, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=1&artikel=4&z=2024-12-17&g=2024-12-17).
 
-#### Artikel 6. Betaling
+##### Artikel 6. Betaling
 
 De minister betaalt het subsidiebedrag in twee gelijke jaarlijkse termijnen.
 
 #### § 2. Subsidie pilotscholen
 
-#### Artikel 7. Toepassingsbereik
+##### Artikel 7. Toepassingsbereik
 
 Deze paragraaf is uitsluitend van toepassing op subsidies als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=1&artikel=3&z=2024-12-17&g=2024-12-17).
 
-#### Artikel 8. Te subsidiëren activiteiten
+##### Artikel 8. Te subsidiëren activiteiten
 
 1. De subsidie wordt verstrekt voor
 
@@ -128,7 +154,7 @@ Deze paragraaf is uitsluitend van toepassing op subsidies als bedoeld in [artike
 
 - d. het reizen door leerlingen van en naar een locatie van een regionaal bedrijf of instelling.
 
-#### Artikel 9. Subsidiebedrag en aanvraag
+##### Artikel 9. Subsidiebedrag en aanvraag
 
 1. De subsidie bedraagt € 50.000 per vestiging. Het subsidiebedrag per aanvraag door een bevoegd gezag op Bonaire, Sint Eustatius en Saba wordt uitbetaald in dollars tegen de vastgestelde wisselkoers.
 
@@ -136,11 +162,11 @@ Deze paragraaf is uitsluitend van toepassing op subsidies als bedoeld in [artike
 
 3. Een bevoegd gezag mag ten hoogste één aanvraag als bedoeld in het eerste lid, indienen per vestiging.
 
-#### Artikel 10. Subsidieplafond
+##### Artikel 10. Subsidieplafond
 
 Vervallen
 
-#### Artikel 11. Subsidieverplichtingen
+##### Artikel 11. Subsidieverplichtingen
 
 1. De onderwijsinstelling ontwikkelt het praktijkgerichte vak gedurende twee jaar en biedt het twee jaar aan aan de doelgroep van de licentie waarvoor zij een aanvraag heeft gedaan.
 
@@ -148,7 +174,7 @@ Vervallen
 
 3. In afwijking van het eerste lid biedt een onderwijsinstelling die subsidie ontvangt voor een licentiegebonden vak als bedoeld in [artikel 6a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=1&artikel=6a&z=2024-12-17&g=2024-12-17), dit vak aan vanaf het eerste jaar waarvoor zij subsidie ontvangt. De onderwijsinstelling biedt het licentiegebonden vak gedurende twee jaar aan.
 
-#### Artikel 12. Besteding en verantwoording
+##### Artikel 12. Besteding en verantwoording
 
 1. Als de activiteiten zijn uitgevoerd en aan de verplichtingen, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=2&artikel=11&z=2024-12-17&g=2024-12-17), is voldaan, kan het niet aangewende deel van de subsidie worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
@@ -158,11 +184,11 @@ Vervallen
 
 #### § 3. Subsidie overige scholen
 
-#### Artikel 13. Toepassingsbereik
+##### Artikel 13. Toepassingsbereik
 
 Deze paragraaf is uitsluitend van toepassing op subsidies als bedoeld in [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=1&artikel=3&z=2024-12-17&g=2024-12-17).
 
-#### Artikel 14. Te subsidiëren activiteiten overige scholen
+##### Artikel 14. Te subsidiëren activiteiten overige scholen
 
 1. Subsidie wordt verstrekt voor de volgende activiteiten:
 
@@ -186,7 +212,7 @@ Deze paragraaf is uitsluitend van toepassing op subsidies als bedoeld in [artike
 
 - d. het reizen door leerlingen van en naar een locatie van een bedrijf of instelling.
 
-#### Artikel 15. Subsidiebedrag en aanvraag
+##### Artikel 15. Subsidiebedrag en aanvraag
 
 1. De subsidie bedraagt € 25.000 per aanvraag voor een vestiging voor het aanbieden van het praktijkgerichte vak in de gemengde leerweg en € 75.000 per aanvraag per vestiging voor het aanbieden van het praktijkgerichte vak in de theoretische leerweg. Het subsidiebedrag per aanvraag door een bevoegd gezag op Bonaire, Sint Eustatius en Saba wordt uitbetaald in dollars tegen de vastgestelde wisselkoers.
 
@@ -196,11 +222,11 @@ Deze paragraaf is uitsluitend van toepassing op subsidies als bedoeld in [artike
 
 3. Een bevoegd gezag mag ten hoogste één aanvraag als bedoeld in het eerste lid, indienen per vestiging.
 
-#### Artikel 16. Subsidieplafond en wijze van verdeling van de beschikbare middelen
+##### Artikel 16. Subsidieplafond en wijze van verdeling van de beschikbare middelen
 
 Vervallen
 
-#### Artikel 17. Subsidieverplichtingen
+##### Artikel 17. Subsidieverplichtingen
 
 1. De onderwijsinstelling ontwikkelt het praktijkgerichte vak gedurende twee jaren en biedt het minimaal één jaar aan aan de doelgroep van de licentie waarvoor zij een aanvraag heeft gedaan.
 
@@ -214,7 +240,7 @@ Vervallen
 
 3. In afwijking van het eerste lid biedt een onderwijsinstelling die subsidie ontvangt voor een licentiegebonden vak als bedoeld in [artikel 6a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=1&artikel=6a&z=2024-12-17&g=2024-12-17), dit vak aan vanaf het eerste jaar waarvoor zij subsidie ontvangt. De onderwijsinstelling biedt het licentiegebonden vak gedurende twee jaar aan.
 
-#### Artikel 18. Besteding en verantwoording
+##### Artikel 18. Besteding en verantwoording
 
 1. Als de activiteiten zijn uitgevoerd en aan de verplichtingen, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=3&artikel=17&z=2024-12-17&g=2024-12-17), is voldaan, kan het niet aangewende deel van de subsidie worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
@@ -224,23 +250,23 @@ Vervallen
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 19. Hardheidsclausule
+##### Artikel 19. Hardheidsclausule
 
 De minister kan een of meer bepalingen van deze regeling in bijzondere gevallen buiten toepassing laten of daarvan afwijken voor zover de toepassing, gelet op het belang dat deze regeling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 20. Inwerkingtreding
+##### Artikel 20. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2029.
 
-#### Artikel 21. Citeertitel
+##### Artikel 21. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling praktijkgericht vak gl en tl.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 6a. Subsidieplafonds en wijze verdeling schooljaren 2025–2028
+##### Artikel 6a. Subsidieplafonds en wijze verdeling schooljaren 2025–2028
 
 1. Voor subsidieverstrekking op grond van deze regeling is:
 
@@ -258,7 +284,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 19a. Verhoging subsidiebedrag scholen voor vso 2024
+##### Artikel 19a. Verhoging subsidiebedrag scholen voor vso 2024
 
 1. De Minister kent aan het bevoegd gezag van een vestiging voor voortgezet speciaal onderwijs als bedoeld in [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), waaraan in 2024 subsidie is verstrekt als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=1&artikel=3&z=2024-12-17&g=2024-12-17), voor een praktijkgericht vak in de gemengde leerweg, uiterlijk op 1 februari 2025 een aanvullend subsidiebedrag toe. De Minister vertrekt het aanvullende subsidiebedrag door ambtshalve wijziging van de subsidiebeschikking waarbij de aanvankelijke subsidie werd toegekend.
 

@@ -1,18 +1,43 @@
 ---
 title: "Besluit tot regeling van het toezicht op krankzinnigen BES"
 identifier: "BWBR0028515"
-categorie: "Bestuursrecht"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028515"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028515"
+soort: "AMvB-BES"
+stam_id: "10832173"
+version_id: "17810652"
+internal_id: "C24857391"
+label_id: "10806934"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028515/2010-10-10/0"
+intitule_bron: "Stb.2010-646"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-16"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-646"
+original_signed_date: "2010-09-16"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-646"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028515&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028515&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-16"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit tot regeling van het toezicht op krankzinnigen BES
 
 #### § 1. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit besluit wordt verstaan onder:
 
@@ -22,7 +47,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 #### § 2. Het toezicht
 
-#### Artikel 2
+##### Artikel 2
 
 1. De procureur-generaal stelt, telkens wanneer de Minister van Justitie zulks nodig oordeelt, in de inrichting een plaatselijk onderzoek in.
 
@@ -32,13 +57,13 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 #### § 3. Het bestuur
 
-#### Artikel 3
+##### Artikel 3
 
 Het bestuur van de inrichting wordt gevoerd door de directeur van de inrichting.
 
 #### § 4. De voorwaarden voor opneming en verpleging
 
-#### Artikel 4
+##### Artikel 4
 
 Bij aanvraag tot opneming van een patiënt in de inrichting moet worden overgelegd:
 
@@ -48,7 +73,7 @@ Bij aanvraag tot opneming van een patiënt in de inrichting moet worden overgele
 
 - 3. voor de in [artikel 37A van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028223&artikel=37A) bedoelde onvermogenden: een bewijs van onvermogen, afgegeven door of vanwege de gezaghebber van het openbaar lichaam waar de betrokkene woonplaats heeft.
 
-#### Artikel 5
+##### Artikel 5
 
 Met uitsluiting van alle andere kosten zijn in de verpleeggelden begrepen:
 
@@ -58,11 +83,11 @@ Met uitsluiting van alle andere kosten zijn in de verpleeggelden begrepen:
 
 - c. genees- en verbandmiddelen, voorgeschreven door geneeskundigen verbonden aan de inrichting of door hun vervangers.
 
-#### Artikel 6
+##### Artikel 6
 
 [vervallen]
 
-#### Artikel 7
+##### Artikel 7
 
 1. De verpleeggelden voor de inrichting dienen voor elke maand vooruitbetaald te worden.
 
@@ -74,7 +99,7 @@ Met uitsluiting van alle andere kosten zijn in de verpleeggelden begrepen:
 
 #### § 5. De aanwijzing der plaatsen tot voorlopige opneming en de voorschriften waaraan in die plaatsen moet worden voldaan
 
-#### Artikel 8
+##### Artikel 8
 
 1. Plaatsen tot voorlopige opneming van krankzinnigen zijn:
 
@@ -86,11 +111,11 @@ Met uitsluiting van alle andere kosten zijn in de verpleeggelden begrepen:
 
 #### § 6. De modellen van registers
 
-#### Artikel 9
+##### Artikel 9
 
 De chefs van de korpsen politie en de directeuren der huizen van bewaring houden een register aan van de personen, die voorlopig worden opgenomen, welk register wordt ingericht volgens een bij dit besluit behorend [model I](https://wetten.overheid.nl/jci1.3:c:BWBR0028515&bijlage=I&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het register, bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028223&artikel=10), wordt ingericht volgens het bij dit besluit behorende [model II](https://wetten.overheid.nl/jci1.3:c:BWBR0028515&bijlage=II&z=2010-10-10&g=2010-10-10).
 
@@ -100,11 +125,11 @@ De chefs van de korpsen politie en de directeuren der huizen van bewaring houden
 
 #### § 7. Slot- en overgangsbepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit treedt in werking met ingang van de dag na die zijner afkondiging.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit tot regeling van het toezicht op krankzinnigen BES.
 

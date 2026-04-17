@@ -1,20 +1,46 @@
 ---
-title: "Tijdelijke subsidieregeling omschakeling naar verwerking circulaire plastics 2025"
+title: "Tijdelijke regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 25 maart 2025, nr. IENW/BSK-2025/66061, houdende vaststelling van regels voor de subsidiëring van activiteiten ter voorbereiding op de omschakeling naar de verwerking van circulaire plastics 2025 (Tijdelijke subsidieregeling omschakeling naar verwerking circulaire plastics 2025) [KetenID WGK027569]"
 identifier: "BWBR0050898"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-03-28
-laatste_update: 2025-03-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050898"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-03-28"
+last_updated: "2025-03-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050898"
+soort: "ministeriele-regeling"
+stam_id: "17394253"
+version_id: "30665632"
+internal_id: "C43963711"
+label_id: "17297564"
+dtd_version: "2.0"
+original_entry_into_force: "2025-03-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050898/2025-03-28/0"
+intitule_bron: "Stcrt.2025-10185"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-03-25"
+intitule_published: "2025-03-27"
+intitule_in_force: "2025-03-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-10185"
+original_signed_date: "2025-03-25"
+original_published_date: "2025-03-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-10185"
+entry_into_force_date: "2025-03-28"
+jci_1_3: "jci1.3:c:BWBR0050898&z=2025-03-28&g=2025-03-28"
+jci_1_0: "1.0:c:BWBR0050898&g=2025-03-28"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke subsidieregeling omschakeling naar verwerking circulaire plastics 2025"
+signed_date: "2025-03-25"
+entry_into_force: "2025-03-28"
 ---
-
 # Tijdelijke regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 25 maart 2025, nr. IENW/BSK-2025/66061, houdende vaststelling van regels voor de subsidiëring van activiteiten ter voorbereiding op de omschakeling naar de verwerking van circulaire plastics 2025 (Tijdelijke subsidieregeling omschakeling naar verwerking circulaire plastics 2025) [KetenID WGK027569]
 
 Gelet op de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2), [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=7), [8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [10, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=13), [15, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=15), en [22, tweede lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22);
 
 BESLUIT:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -48,19 +74,19 @@ In deze regeling wordt verstaan onder:
 
 - **verwerker:** ondernemer die polymeren, waaraan additieven of vulstoffen kunnen zijn toegevoegd, verwerkt tot plastic deel- of eindproducten.
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Deze regeling heeft tot doel compounders en verwerkers te stimuleren productietesten uit te voeren ter voorbereiding op de omschakeling van het verwerken van fossiele plastics naar het verwerken van meer circulaire plastics in het bestaande portfolio van plastic producten van de aanvrager. Het percentage circulair plastic in de productietest dient in ieder geval een significante toename te zijn ten opzichte van hetgeen de aanvrager nu in het betreffende product toepast.
 
-#### Artikel 3. Subsidiabele activiteiten
+##### Artikel 3. Subsidiabele activiteiten
 
 De Minister kan per aanvrager op volgorde van binnenkomst twee subsidieaanvragen toekennen voor het binnen een jaar na de datum van subsidieverlening uitvoeren van één of meer productietesten en de daaraan direct verbonden activiteiten.
 
-#### Artikel 4. Aanvrager
+##### Artikel 4. Aanvrager
 
 Een aanvraag wordt ingediend door een compounder of verwerker met een vestiging in Nederland die is ingeschreven bij de Kamer van Koophandel.
 
-#### Artikel 5. Subsidiabele kosten
+##### Artikel 5. Subsidiabele kosten
 
 1. Voor subsidieverlening komen uitsluitend na indiening van de subsidieaanvraag gemaakte kosten in aanmerking.
 
@@ -78,25 +104,25 @@ Een aanvraag wordt ingediend door een compounder of verwerker met een vestiging 
 
 - b. kosten van opleidingen.
 
-#### Artikel 6. Hoogte subsidie
+##### Artikel 6. Hoogte subsidie
 
 De subsidie bedraagt 75 procent van de subsidiabele kosten met een maximum van € 25.000 per aanvraag.
 
-#### Artikel 7. Subsidieplafond
+##### Artikel 7. Subsidieplafond
 
 1. Het subsidieplafond bedraagt voor 2025 € 13.000.000.
 
 2. De Minister stelt het subsidieplafond voor de daaropvolgende jaren vast en maakt dit bekend in de Staatscourant voor de aanvang van het tijdvak waarvoor het wordt vastgesteld.
 
-#### Artikel 8. Wijze van verdeling
+##### Artikel 8. Wijze van verdeling
 
 Het totale beschikbare subsidiebedrag wordt verdeeld op volgorde van binnenkomst van de aanvragen.
 
-#### Artikel 9. Aanvraagperiode
+##### Artikel 9. Aanvraagperiode
 
 Een aanvraag kan worden ingediend van 8 april 2025, 9.00 uur tot en met 2 oktober 2025, 12.00 uur.
 
-#### Artikel 10. Aanvraag
+##### Artikel 10. Aanvraag
 
 1. Een aanvraag om subsidie wordt ingediend bij de Rijksdienst voor Ondernemend Nederland met gebruikmaking van een daartoe door de Minister beschikbaar gesteld middel.
 
@@ -104,7 +130,7 @@ Een aanvraag kan worden ingediend van 8 april 2025, 9.00 uur tot en met 2 oktobe
 
 3. In afwijking van [artikel 10, vierde lid, aanhef en onderdeel f, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10) hoeft de aanvraag niet een bewijs te bevatten dat de bankrekening op naam van de aanvrager staat.
 
-#### Artikel 11. Afwijzingsgronden
+##### Artikel 11. Afwijzingsgronden
 
 In aanvulling op de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=11) en [12 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=12) wordt een subsidieaanvraag afgewezen indien:
 
@@ -128,7 +154,7 @@ In aanvulling op de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR00363
 
 - j. de activiteiten betrekking hebben op het maken van compounds voor of het verwerken van polymeren of compounds tot textielvezels die worden toegepast in textielstoffen en textielwaren voor kleding en woninginrichting.
 
-#### Artikel 12. Verplichtingen subsidieontvanger
+##### Artikel 12. Verplichtingen subsidieontvanger
 
 De subsidieontvanger is verplicht om:
 
@@ -138,15 +164,15 @@ De subsidieontvanger is verplicht om:
 
 - c. desgevraagd aan de hand van een per omgaande toe te zenden testverslag van de uitgevoerde productietest of productietesten aan te tonen dat de activiteiten waarvoor de subsidie is verleend, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.
 
-#### Artikel 13. Subsidievaststelling
+##### Artikel 13. Subsidievaststelling
 
 Bij subsidieverstrekking wordt een beschikking tot subsidieverlening gegeven, met vermelding van de datum waarop de subsidie uiterlijk ambtshalve wordt vastgesteld.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt vijf jaar na het tijdstip van inwerkingtreding met dien verstande dat zij van toepassing blijft op voordien ingediende aanvragen om subsidie.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling omschakeling naar verwerking circulaire plastics 2025.
 

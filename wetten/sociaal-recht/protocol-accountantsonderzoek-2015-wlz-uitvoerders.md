@@ -1,13 +1,35 @@
 ---
 title: "Protocol Accountantsonderzoek 2015 Wlz-uitvoerders"
 identifier: "BWBR0037686"
-categorie: "Sociaal recht"
-publicatiedatum: 2016-03-02
-laatste_update: 2016-03-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037686"
+country: "nl"
+rank: "zbo"
+publication_date: "2016-03-02"
+last_updated: "2016-03-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037686"
+soort: "zbo"
+stam_id: "13431853"
+version_id: "23053552"
+internal_id: "C33319341"
+label_id: "13399144"
+dtd_version: "2.0"
+original_entry_into_force: "2016-03-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037686/2016-03-02/0"
+intitule_bron: "Stcrt.2016-1374"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2016-03-01"
+intitule_in_force: "2016-03-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-1374"
+original_published_date: "2016-03-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-1374"
+entry_into_force_date: "2016-03-02"
+jci_1_3: "jci1.3:c:BWBR0037686&z=2016-03-02&g=2016-03-02"
+jci_1_0: "1.0:c:BWBR0037686&g=2016-03-02"
+citeertitel_status: "redactioneel"
+entry_into_force: "2016-03-02"
 ---
-
 # Protocol Accountantsonderzoek 2015 Wlz-uitvoerders
 
 ### Vooraf

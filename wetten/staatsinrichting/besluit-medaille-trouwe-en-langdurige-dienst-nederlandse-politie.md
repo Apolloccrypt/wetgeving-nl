@@ -1,13 +1,39 @@
 ---
-title: "Besluit medaille trouwe en langdurige dienst Nederlandse politie"
+title: "Besluit van 7 maart 2006, houdende instelling van de medaille voor trouwe en langdurige dienst Nederlandse politie"
 identifier: "BWBR0019627"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2023-07-07
-laatste_update: 2023-07-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019627"
+country: "nl"
+rank: "kb"
+publication_date: "2023-07-07"
+last_updated: "2023-07-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019627"
+soort: "KB"
+stam_id: "8173263"
+version_id: "17364092"
+internal_id: "C23958971"
+label_id: "8154464"
+dtd_version: "2.0"
+original_entry_into_force: "2010-05-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019627/2023-07-07/0"
+intitule_bron: "Stb.2006-165"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-03-07"
+intitule_published: "2006-03-31"
+intitule_in_force: "2006-03-31"
+intitule_status: "goed"
+original_publication: "Stb.2010-189"
+original_signed_date: "2010-05-03"
+original_published_date: "2010-05-28"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2010-189"
+entry_into_force_date: "2010-05-03"
+jci_1_3: "jci1.3:c:BWBR0019627&z=2023-07-07&g=2023-07-07"
+jci_1_0: "1.0:c:BWBR0019627&g=2023-07-07"
+citeertitel_status: "officieel"
+short_title: "Besluit medaille trouwe en langdurige dienst Nederlandse politie"
+signed_date: "2010-05-03"
+entry_into_force: "2010-05-03"
 ---
-
 # Besluit van 7 maart 2006, houdende instelling van de medaille voor trouwe en langdurige dienst Nederlandse politie
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 27 februari 2006, kenmerk 2005-0000294185, directoraat-generaal Veiligheid;
@@ -16,7 +42,7 @@ Overwegende dat het uitreiken van een medaille voor trouwe en langdurige dienst 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -44,17 +70,17 @@ In dit besluit wordt verstaan onder:
 
 - **wezenlijke onderbreking:** een onderbreking van langer dan zes maanden, tenzij dit naar oordeel van het bevoegd gezag leidt tot een onbillijkheid van overwegende aard.
 
-#### Artikel 2
+##### Artikel 2
 
 Er is een medaille voor trouwe en langdurige dienst bij de Nederlandse politie.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Vanwege Ons kent Onze Minister eenmalig een medaille met oorkonde toe aan de ambtenaar die zonder wezenlijke onderbreking gedurende een periode van 12½, 25 of 40 jaren werkzaam is binnen de Nederlandse politie.
 
 2. Vanwege Ons kent Onze Minister een jaarteken met oorkonde jaarteken toe aan de ambtenaar die zonder wezenlijke onderbreking gedurende een periode van 25 of 40 jaren werkzaam is binnen de Nederlandse politie.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het bevoegd gezag dient een aanvraag voor een medaille en/of een jaarteken in bij de Kanselarij der Nederlandse Orden.
 
@@ -66,7 +92,7 @@ Er is een medaille voor trouwe en langdurige dienst bij de Nederlandse politie.
 
 5. De verstrekking van de medaille en/of het jaarteken geschiedt kosteloos.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De medaille is cirkelvormig, heeft een diameter van 35 mm en een dikte van circa 3 mm en is vervaardigd in 85/15 brons. De voorzijde van de medaille vertoont het politiewapen met links een kroon en de tekst «Politie Nederland». De keerzijde vertoont het rijkswapen. De medaille wordt vervaardigd uit CuZn90/10 DIN 17670, 3,5 mm DIN 1751. De materiaaldikte van de messing ring is 1,2 mm. De buitendiameter van de ring is 12,5 mm. De diameter van de messing bevestigingsoog/bol is 5 mm.
 
@@ -76,7 +102,7 @@ Er is een medaille voor trouwe en langdurige dienst bij de Nederlandse politie.
 
 4. Het jaarteken is uitgevoerd in Romeinse cijfers, XXV voor 25 jaar, XL voor 40 jaar, elk voorzien van twee bevestigingspennetjes voor de montage op het lint.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De ambtenaar is bevoegd op het uniform de medaille aan het lint te dragen op borsthoogte op de linkerzijde van de kleding.
 
@@ -86,7 +112,7 @@ Er is een medaille voor trouwe en langdurige dienst bij de Nederlandse politie.
 
 4. De ambtenaar draagt op het lint van de medaille het jaarteken bij 25 of 40 dienstjaren.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019627&artikel=3&z=2023-07-07&g=2023-07-07) toegekende medaille, alsmede de daarbij uitgereikte oorkonde, worden verbeurd bij niet-eervol ontslag.
 
@@ -94,17 +120,17 @@ Er is een medaille voor trouwe en langdurige dienst bij de Nederlandse politie.
 
 3. Bij het verbeuren van de medaille en jaartekens worden de daarbij uitgereikte oorkondes vernietigd.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Aan de ambtenaar die op de dag van inwerkingtreding van dit besluit zonder wezenlijke onderbreking gedurende een periode van meer dan 12½ jaren werkzaam is binnen de Nederlandse politie wordt overeenkomstig [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019627&artikel=3&z=2023-07-07&g=2023-07-07), een medaille toegekend zodra hij in aanmerking komt voor de toekenning van een jaarteken als bedoeld in artikel 3, tweede lid.
 
 2. Aan de ambtenaar die op enig moment voorafgaand aan de inwerkingtreding van dit besluit voldeed aan de criteria voor het toekennen van een medaille, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019627&artikel=3&z=2023-07-07&g=2023-07-07), wordt bij diens eervolle ontslagverlening alsnog een medaille verleend.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit medaille trouwe en langdurige dienst Nederlandse politie.
 

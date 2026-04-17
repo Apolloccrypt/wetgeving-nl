@@ -1,13 +1,39 @@
 ---
-title: "Regeling selectieprocedure bij gedwongen verkoop"
+title: "Regeling van de Minister van Economische Zaken van 19 november 2013, nr. WJZ/13185763, tot het vaststellen van een selectieprocedure bij gedwongen verkoop (Regeling selectieprocedure bij gedwongen verkoop)"
 identifier: "BWBR0034216"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034216"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034216"
+soort: "ministeriele-regeling"
+stam_id: "12434983"
+version_id: "20894562"
+internal_id: "C29997291"
+label_id: "12406194"
+dtd_version: "2.0"
+original_entry_into_force: "2014-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034216/2023-01-01/0"
+intitule_bron: "Stcrt.2013-32514"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-11-19"
+intitule_published: "2013-11-22"
+intitule_in_force: "2013-11-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-32514"
+original_signed_date: "2013-11-19"
+original_published_date: "2013-11-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-32514"
+entry_into_force_date: "2014-04-01"
+jci_1_3: "jci1.3:c:BWBR0034216&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0034216&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling selectieprocedure bij gedwongen verkoop"
+signed_date: "2013-11-19"
+entry_into_force: "2014-04-01"
 ---
-
 # Regeling van de Minister van Economische Zaken van 19 november 2013, nr. WJZ/13185763, tot het vaststellen van een selectieprocedure bij gedwongen verkoop (Regeling selectieprocedure bij gedwongen verkoop)
 
 Gelet op de [artikelen 3.16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.16), [3.19a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.19a), [7.1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=7.1), [7.3, eerste lid, onderdeel d, en vierde lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=7.3), en [7.7a van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=7.7a), de [artikelen 19 tot en met 22 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=19), [artikel 3.5b, derde lid, van het Besluit universele dienstverlening en eindgebruikersbelangen](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&artikel=3.5b), de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=3), [4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=6) en [7 van het Besluit vergoedingen Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=7) en [artikel 4:93 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:93);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -30,13 +56,13 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Termijn als bedoeld in [artikel 3.19a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.19a)
 
-#### Artikel 2
+##### Artikel 2
 
 De in [artikel 3.19a, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.19a) bedoelde periode bedraagt twee weken na de datum van kennisgeving van het ontwerpbesluit inhoudende dat de houder van een vergunning op grond van artikel 3.19a, eerste lid, van de wet verplicht is om een vergunning over te dragen.
 
 #### § 3. Eisen en vergunningvoorschriften
 
-#### Artikel 3
+##### Artikel 3
 
 In het besluit, bedoeld in [artikel 19, eerste lid, onder a, van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=19) wordt vastgesteld:
 
@@ -52,13 +78,13 @@ In het besluit, bedoeld in [artikel 19, eerste lid, onder a, van het Frequentieb
 
 #### § 4. De aanvraag tot verlening van toestemming
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een aanvraag tot verlening van toestemming als bedoeld in [artikel 20, onder a, van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=20) wordt ingediend uiterlijk 4 weken na de dag van publicatie van het besluit, bedoeld in [artikel 19, eerste lid, onder a, van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=19).
 
 2. Een aanvraag wordt afgewezen indien deze is ingediend buiten de in het eerste lid, genoemde termijn.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een aanvraag tot verlening van toestemming als bedoeld in [artikel 20, onder a van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=20) geschiedt door middel van een daartoe strekkend formulier. De aanvraag bevat de in het formulier genoemde gegevens en bescheiden. Een aanvraag tot verlening van toestemming gaat vergezeld van:
 
@@ -82,7 +108,7 @@ Emmasingel 1
 
 9726 AH GRONINGEN
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien de aanvrager niet heeft voldaan aan de in [artikel 5, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034216&paragraaf=4&artikel=5&z=2023-01-01&g=2023-01-01), gestelde vereisten, deelt Onze Minister dit de aanvrager mee en stelt Onze Minister de aanvrager in de gelegenheid het verzuim te herstellen.
 
@@ -92,7 +118,7 @@ Emmasingel 1
 
 4. Indien het verzuim, bedoeld in het eerste lid, binnen de termijn, genoemd in het tweede lid, niet is hersteld of de aanvraag na herstel niet voldoet aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034216&paragraaf=4&artikel=5&z=2023-01-01&g=2023-01-01) gestelde eisen, kan Onze Minister besluiten de aanvraag overeenkomstig [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) niet te behandelen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De aanvrager voldoet aan de eisen die:
 
@@ -104,13 +130,13 @@ Emmasingel 1
 
 #### § 5. De algemene bepalingen van de selectieprocedure
 
-#### Artikel 8
+##### Artikel 8
 
 1. Aan de houder van een vergunning wordt medegedeeld aan welke natuurlijke en rechtspersonen toestemming is verleend. Hij behandelt deze informatie vertrouwelijk.
 
 2. Aan de natuurlijke en rechtspersonen die toestemming hebben verkregen, wordt medegedeeld hoeveel toestemmingen zijn verleend.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De houder van een vergunning en de natuurlijke en rechtspersonen die toestemming hebben verkregen, inbegrepen diegene die hen ten behoeve van de procedure van gedwongen verkoop bijstaat of een lid van de groep waartoe zij behoren:
 
@@ -120,23 +146,23 @@ Emmasingel 1
 
 2. Onze Minister kan een natuurlijke of rechtspersoon die toestemming heeft verkregen en die naar het oordeel van Onze Minister handelt in strijd met het eerste lid, onder a of b, uitsluiten van deelname of van verdere deelname aan de procedure.
 
-#### Artikel 10
+##### Artikel 10
 
 Indien geen aanvragen om toestemming zijn ingediend of alle aanvragen om toestemming zijn afgewezen, wordt de vergunning ingetrokken.
 
 #### § 6. De procedure van de vergunninghouder
 
-#### Artikel 11
+##### Artikel 11
 
 De in [artikel 3.19a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.19a) bedoelde termijn waarbinnen de vergunninghouder de vergunning kan overdragen aan een natuurlijke of rechtspersoon die toestemming heeft verkregen, bedraagt 6 weken na de datum van de mededeling, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034216&paragraaf=5&artikel=8&z=2023-01-01&g=2023-01-01).
 
-#### Artikel 12
+##### Artikel 12
 
 1. Uiterlijk op de zevende dag na de datum van de mededeling, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034216&paragraaf=5&artikel=8&z=2023-01-01&g=2023-01-01), deelt de houder van een vergunning de natuurlijke en rechtspersonen waaraan toestemming is verleend mede welke methode hij toepast ter vaststelling van het bod waarvan de uitbrenger in aanmerking komt voor overdracht van de vergunning.
 
 2. Gedurende de periode, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034216&paragraaf=6&artikel=11&z=2023-01-01&g=2023-01-01), behandelen de vergunninghouder en de in het eerste lid bedoelde personen de informatie die zij omtrent overdracht van de vergunning uitwisselen vertrouwelijk.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Na ontvangst van de mededeling, bedoeld in [artikel 3.19a, eerste lid, laatste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.19a), wijzigt Onze Minister de tenaamstelling van de vergunning overeenkomstig die mededeling.
 
@@ -144,7 +170,7 @@ De in [artikel 3.19a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:
 
 #### § 7. De procedure indien de procedure van de vergunninghouder niet leidt tot overdracht
 
-#### Artikel 14
+##### Artikel 14
 
 1. Indien overdracht van de vergunning niet plaatsvindt binnen de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034216&paragraaf=6&artikel=11&z=2023-01-01&g=2023-01-01) bedoelde termijn, draagt Onze Minister de vergunning over overeenkomstig één van de in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034216&paragraaf=8&artikel=15&z=2023-01-01&g=2023-01-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0034216&paragraaf=9&artikel=16&z=2023-01-01&g=2023-01-01) bepaalde procedures.
 
@@ -152,7 +178,7 @@ De in [artikel 3.19a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:
 
 #### § 8. Toewijzing frequentieruimte zonder veiling
 
-#### Artikel 15
+##### Artikel 15
 
 Indien een procedure tot overdracht als bedoeld in [artikel 3.19a, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.19a) betrekking heeft op:
 
@@ -164,7 +190,7 @@ Indien een procedure tot overdracht als bedoeld in [artikel 3.19a, eerste en twe
 
 #### § 9. Veiling volgens [VOA-regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0032899) of veiling met gesloten bod
 
-#### Artikel 16
+##### Artikel 16
 
 Indien een procedure tot overdracht als bedoeld in [artikel 3.19a, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.19a) betrekking heeft op andere gevallen dan de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034216&paragraaf=8&artikel=15&z=2023-01-01&g=2023-01-01), bedoelde gevallen, kan de vergunning uitsluitend worden overgedragen overeenkomstig:
 
@@ -174,7 +200,7 @@ Indien een procedure tot overdracht als bedoeld in [artikel 3.19a, eerste en twe
 
 #### § 10. Procedure van de veiling met gesloten bod
 
-#### Artikel 17
+##### Artikel 17
 
 1. De vergunning wordt via een veiling met gesloten bod geveild.
 
@@ -188,11 +214,11 @@ Indien een procedure tot overdracht als bedoeld in [artikel 3.19a, eerste en twe
 
 - b. indien de veiling plaats vindt op schriftelijke wijze: uitsluitend door indiening van een door Onze Minister verstrekte biedkaart.
 
-#### Artikel 18
+##### Artikel 18
 
 Een deelnemer is onvoorwaardelijk en onherroepelijk aan zijn bieding gebonden.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Gelijktijdig met de mededeling, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034216&paragraaf=7&artikel=14&z=2023-01-01&g=2023-01-01), dat de veiling met gesloten bod van toepassing is, wordt aan iedere natuurlijke of rechtspersoon met toestemming vermeld:
 
@@ -204,7 +230,7 @@ Een deelnemer is onvoorwaardelijk en onherroepelijk aan zijn bieding gebonden.
 
 2. Indien de veiling plaatsvindt op schriftelijke wijze wordt gelijktijdig met de mededeling, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034216&paragraaf=7&artikel=14&z=2023-01-01&g=2023-01-01), de biedkaart verstrekt. Op de biedkaart wordt vermeld op welk adres de biedkaart door persoonlijke overhandiging wordt ingediend.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Het bod wordt in de Nederlandse taal gesteld.
 
@@ -212,7 +238,7 @@ Een deelnemer is onvoorwaardelijk en onherroepelijk aan zijn bieding gebonden.
 
 3. De biedkaart of de onderdelen van het elektronisch veilingsysteem worden volledig en op de juiste wijze ingevuld en ondertekend.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Indien een bod niet voldoet aan de [artikelen 17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034216&paragraaf=10&artikel=17&z=2023-01-01&g=2023-01-01), en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0034216&paragraaf=10&artikel=20&z=2023-01-01&g=2023-01-01) stelt Onze Minister de indiener van het bod in de gelegenheid alsnog binnen 7 dagen aan deze bepalingen te voldoen.
 
@@ -222,7 +248,7 @@ Een deelnemer is onvoorwaardelijk en onherroepelijk aan zijn bieding gebonden.
 
 - b. na toepassing van het eerste lid nog niet is voldaan aan de daarin genoemde bepalingen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Onze Minister stelt vast wie het hoogste bod heeft uitgebracht en bepaalt wat het op één na hoogste bod is.
 
@@ -230,7 +256,7 @@ Een deelnemer is onvoorwaardelijk en onherroepelijk aan zijn bieding gebonden.
 
 3. Indien twee of meer natuurlijke of rechtspersonen met toestemming eenzelfde hoogste bod hebben uitgebracht, stelt de notaris, na loting, vast wie van hen wordt aangemerkt als degene met het hoogste bod.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Na de vaststelling, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0034216&paragraaf=10&artikel=22&z=2023-01-01&g=2023-01-01) draagt Onze Minister de vergunning over aan de natuurlijke of rechtspersoon met toestemming die het hoogste bod, bedoeld in artikel 22 heeft uitgebracht. De vergunning wordt overgedragen binnen twee weken nadat een bewijs van betaling is overgelegd aan Onze Minister.
 
@@ -238,7 +264,7 @@ Een deelnemer is onvoorwaardelijk en onherroepelijk aan zijn bieding gebonden.
 
 #### § 11. Betaling
 
-#### Artikel 24
+##### Artikel 24
 
 1. Uiterlijk twee weken nadat de vaststelling, bedoeld in [artikel 22, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034216&paragraaf=10&artikel=22&z=2023-01-01&g=2023-01-01), is gedaan, betaalt de natuurlijke of rechtspersoon met toestemming die het hoogste bod heeft uitgebracht de door hem verschuldigde totaalprijs door overmaking van dat bedrag op het aan hem door de latende vergunninghouder medegedeelde bankrekeningnummer en onder vermelding van de daarbij medegedeelde gegevens.
 
@@ -246,29 +272,29 @@ Een deelnemer is onvoorwaardelijk en onherroepelijk aan zijn bieding gebonden.
 
 #### § 12. Wijziging van de [Regeling universele dienstverlening en eindgebruikersbelangen](https://wetten.overheid.nl/jci1.3:c:BWBR0016709)
 
-#### Artikel 25
+##### Artikel 25
 
 Wijzigt de Regeling universele dienstverlening en eindgebruikersbelangen.
 
 #### § 13. Wijziging van de [Regeling voorbereiding buitengewone omstandigheden sector telecommunicatie 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0023117)
 
-#### Artikel 26
+##### Artikel 26
 
 Wijzigt de Regeling voorbereiding buitengewone omstandigheden sector telecommunicatie 2007.
 
 #### § 14. Wijziging van de [Vergoedingsregeling Agentschap Telecom 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032252)
 
-#### Artikel 27
+##### Artikel 27
 
 Wijzigt de Regeling vergoedingen Agentschap Telecom 2013.
 
 #### § 15. Slotbepalingen
 
-#### Artikel 28
+##### Artikel 28
 
 Deze regeling wordt aangehaald als: Regeling selectieprocedure bij gedwongen verkoop.
 
-#### Artikel 29
+##### Artikel 29
 
 Deze regeling treedt in werking met ingang van 1 april 2014.
 

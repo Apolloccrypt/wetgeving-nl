@@ -1,13 +1,39 @@
 ---
-title: "Beschikking casinospelen 1996"
+title: "Beschikking Casinospelen 1996"
 identifier: "BWBR0009234"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-12-01
-laatste_update: 2017-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009234"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-12-01"
+last_updated: "2017-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009234"
+soort: "ministeriele-regeling"
+stam_id: "4777043"
+version_id: "12938812"
+internal_id: "C17433871"
+label_id: "4755354"
+dtd_version: "2.0"
+original_entry_into_force: "2006-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009234/2017-12-01/0"
+intitule_bron: "Stcrt.1997-248"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-12-19"
+intitule_published: "1997-12-24"
+intitule_in_force: "1997-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-49"
+original_signed_date: "2006-02-14"
+original_published_date: "2006-03-09"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2006-49-p9-SC74125"
+entry_into_force_date: "2006-04-01"
+jci_1_3: "jci1.3:c:BWBR0009234&z=2017-12-01&g=2017-12-01"
+jci_1_0: "1.0:c:BWBR0009234&g=2017-12-01"
+citeertitel_status: "officieel"
+short_title: "Beschikking casinospelen 1996"
+signed_date: "2006-02-14"
+entry_into_force: "2006-04-01"
 ---
-
 # Beschikking Casinospelen 1996
 
 Gelet op de [artikelen 27h](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27h), [27i](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27i), [30z](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30z) en [34 van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=34), en [artikel 11 van het Speelautomatenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=11);
@@ -16,7 +42,7 @@ Gelezen het advies van het College van toezicht op de kansspelen van 22 septembe
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
 
@@ -42,7 +68,7 @@ In deze beschikking wordt verstaan onder:
 
 - k. **compliance officer:** de functionaris als bedoeld in [artikel 16, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=16&z=2017-12-01&g=2017-12-01).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aan Holland Casino N.V., een naamloze vennootschap naar Nederlands recht gevestigd te Den Haag met KvK-nummer 68662289 wordt voor onbepaalde duur vergunning verleend tot:
 
@@ -56,7 +82,7 @@ In deze beschikking wordt verstaan onder:
 
 2. Aan de vergunning worden de in [artikel 3 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=3&z=2017-12-01&g=2017-12-01) vervatte voorschriften verbonden. De vergunninghouder is verantwoordelijk voor de naleving ervan, zowel door hemzelf als door degenen die hij bij het organiseren van de speelcasino’s en het aanwezig hebben en exploiteren van kansspelautomaten in die speelcasino’s inschakelt, hetzij direct, hetzij indirect.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De vergunninghouder spant zich in voor de inachtneming van het huisreglement en het spelreglement.
 
@@ -72,7 +98,7 @@ Ten aanzien van activiteiten van de vergunninghouder die betrekking hebben op bu
 
 6. Voorzieningen in het speelcasino ten behoeve van de bezoekers die geen verband houden met het organiseren van de casinospelen, dienen vooraf te worden gemeld aan de minister, behoudens in geval deze voorzieningen van beperkte omvang zijn en het karakter van het speelcasino niet wijzigen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In een speelcasino worden uitsluitend de volgende casinospelen aangeboden:
 
@@ -112,7 +138,7 @@ Ten aanzien van activiteiten van de vergunninghouder die betrekking hebben op bu
 
 6. De proefperiode kan door de Kansspelautoriteit met ten hoogste zes maanden worden verlengd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De inzet per speelkans bij de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=4&z=2017-12-01&g=2017-12-01) bedoelde casinospelen varieert van € 5,- tot € 10.000,-.
 
@@ -120,7 +146,7 @@ Ten aanzien van activiteiten van de vergunninghouder die betrekking hebben op bu
 
 3. In afwijking van het eerste lid zal de vergunninghouder in elk casino één of meer casinospelen aanbieden, waarbij de inzet € 2,- of lager is;
 
-#### Artikel 6
+##### Artikel 6
 
 1. De vergunninghouder treft alle noodzakelijke maatregelen en voorzieningen voor een eerlijk spelverloop van de casinospelen en treft alle noodzakelijke maatregelen en voorzieningen om fraude en misbruik tegen te gaan.
 
@@ -144,7 +170,7 @@ Ten aanzien van activiteiten van de vergunninghouder die betrekking hebben op bu
 
 - c. de inzet van personeel, de onderlinge controle en het toezicht.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De mechanische, elektrische en elektronische processen die gebezigd worden bij de deelneming, prijsbepaling en vaststelling van de winnaars van de krachtens deze vergunning georganiseerde casinospelen, zijn onderworpen aan een voorafgaande goedkeuring en periodieke controle door een door de Minister krachtens [artikel 5, derde lid, van het Kansspelenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=5) aangewezen onafhankelijke deskundige of keuringsinstelling.
 
@@ -154,7 +180,7 @@ Ten aanzien van activiteiten van de vergunninghouder die betrekking hebben op bu
 
 4. De kosten verbonden aan de in het eerste lid bedoelde goedkeuring en controle zijn voor rekening van de vergunninghouder.
 
-#### Artikel 8
+##### Artikel 8
 
 1. In een speelcasino worden uitsluitend kansspelautomaten opgesteld waarvan het model zodanig is geconstrueerd dat:
 
@@ -214,17 +240,17 @@ De overige bepalingen van artikel 8 zijn niet van toepassing. De regels zijn ter
 
 - d. Onderdeel b is niet van toepassing op de door de vergunninghouder voor promotiedoeleinden uitgegeven gratis tegoedbonnen, mits dit duidelijk op de bonnen vermeld wordt. De promotietegoedbonnen hebben een waarde van ten hoogste 500 euro.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De vergunninghouder onderbreekt het spel of de uitbetaling indien dat noodzakelijk is voor het controleren of doen controleren van de juiste werking van de kansspelautomaat.
 
 2. Vervallen.
 
-#### Artikel 9a
+##### Artikel 9a
 
 Het is de vergunninghouder toegestaan ten behoeve van promotionele acties extra prijzen in natura bij casinospelen of kansspelautomaten beschikbaar te stellen bij winnende en/of bijzondere spelcombinaties van deze casinospelen of kansspelautomaten. De maximumhoogte van een te winnen prijs in natura wordt vastgesteld op € 2.300,-.
 
-#### Artikel 9b
+##### Artikel 9b
 
 1. De vergunninghouder kan bij casinospelen of kansspelautomaten prijzen in annuïteiten uitkeren, mits het uit te keren prijsbedrag wordt gekapitaliseerd in een contante waarde en de aanspraak daarop wordt ondergebracht bij een instelling als bedoeld in [artikel 1, eerste lid, onder 1°, 2° of 3°, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1).
 
@@ -232,7 +258,7 @@ Het is de vergunninghouder toegestaan ten behoeve van promotionele acties extra 
 
 3. De vergunninghouder is gehouden zodanige maatregelen te treffen dat de uitbetaling van de prijzen aan de winnaars te allen tijde is gewaarborgd.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De vergunninghouder treft de maatregelen en voorzieningen die noodzakelijk zijn voor een behoorlijk toezicht op de toegang tot het speelcasino en die noodzakelijk zijn voor het handhaven van de orde en rust in de speelzaal. Voor zover hiervoor gebruik wordt gemaakt van beveiligingsbeambten zijn deze gediplomeerd overeenkomstig de [Regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256).
 
@@ -258,11 +284,11 @@ Het is de vergunninghouder toegestaan ten behoeve van promotionele acties extra 
 
 - i. de afgescheiden gedeelten van het speelcasino waar casinospelen en speelautomaten worden aangeboden in het bijzonder bedoeld voor groepsbezoeken of kennismakingsbezoeken.
 
-#### Artikel 11
+##### Artikel 11
 
 Het entreebewijs wordt door de vergunninghouder slechts afgegeven nadat de identiteit en de leeftijd van de bezoeker op deugdelijke wijze zijn vastgesteld en na betaling van het verschuldigde entreebedrag.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De vergunninghouder weigert de toegang tot het speelcasino aan personen:
 
@@ -280,7 +306,7 @@ Het entreebewijs wordt door de vergunninghouder slechts afgegeven nadat de ident
 
 3. De vergunninghouder zorgt ervoor dat het publiek zich kan informeren omtrent de bepalingen van het eerste en tweede lid en de bepalingen van het huisreglement, door deze bij de ingang van het speelcasino op een duidelijk zichtbare plaats te vermelden.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Van het persoonlijk dan wel via tussenpersonen deelnemen aan de door de vergunninghouder georganiseerde spelen zijn uitgesloten:
 
@@ -300,17 +326,17 @@ Het entreebewijs wordt door de vergunninghouder slechts afgegeven nadat de ident
 
 3. De vergunninghouder ziet toe op de naleving van het bepaalde in het eerste en tweede lid.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De vergunninghouder ziet erop toe dat het speelzaalpersoneel geen aansporingen doet tot onmatige deelneming aan de door de vergunninghouder georganiseerde kansspelen.
 
 2. De vergunninghouder ziet erop toe dat het speelzaal- en kassapersoneel geen aansporingen doet tot het geven van fooien.
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 1. De vergunninghouder waarborgt via zijn organisatorische en administratieve procedures en maatregelen dat:
 
@@ -326,13 +352,13 @@ Vervallen
 
 - b. een afzonderlijke, overzichtelijke en doelmatige administratie van de afzonderlijke vergunde kansspelen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De netto-opbrengst van alle krachtens deze vergunning georganiseerde activiteiten, zijnde het verschil tussen de bruto-opbrengst en de som van de voor prijzen bestemde bedragen en de exploitatiekosten, wordt, nadat ten laste daarvan nog een eventuele door de Minister van Financiën goed te keuren reservering ten behoeve van het eigen vermogen is gebracht en voorzover de liquiditeit zulks toelaat, afgedragen aan de Staat.
 
 2. Vervallen.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Onder de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=17&z=2017-12-01&g=2017-12-01) bedoelde netto-opbrengst van de speelcasino’s worden mede begrepen de door het speelzaalpersoneel ontvangen fooien.
 
@@ -340,7 +366,7 @@ Vervallen
 
 3. De fooien worden, op een in de arbeidsovereenkomsten vastgelegde wijze, verdeeld onder het personeel van de vergunninghouder.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De vergunninghouder zendt binnen een maand na afloop van elk kwartaal een verslag aan de Kansspelautoriteit met betrekking tot het financiële verloop en andere door de Kansspelautoriteit noodzakelijk geachte gegevens.
 
@@ -352,7 +378,7 @@ Vervallen
 
 3. De vergunninghouder zorgt dat bovengenoemd kwartaalverslag, jaarrekening, jaarverslag, en onderzoeksverslag voldoen aan de voorschriften in bijlage A.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De vergunninghouder waarborgt de kwaliteit van de vergunde kansspelen, met name met het oog op het voorkomen van incidenten.
 
@@ -364,7 +390,7 @@ Vervallen
 
 - c. naar aanleiding van een incident maatregelen te nemen die zijn gericht op het beëindigen van het incident, het beperken van de schade en het voorkomen van herhaling, en de Kansspelautoriteit hierover onverwijld te informeren.
 
-#### Artikel 21
+##### Artikel 21
 
 De vergunninghouder informeert de Kansspelautoriteit onverwijld over wijzigingen van:
 
@@ -376,23 +402,23 @@ De vergunninghouder informeert de Kansspelautoriteit onverwijld over wijzigingen
 
 - d. de binnen zijn organisatie werkzame compliance officer.
 
-#### Artikel 22
+##### Artikel 22
 
 Na de inwerkingtreding van deze beschikking berusten de krachtens de Beschikking casinospelen 1996 (Stcrt. 1996, 92) vastgestelde besluiten op deze beschikking.
 
-#### Artikel 23
+##### Artikel 23
 
 De Beschikking casinospelen 1996 (Stcrt. 1996, 92) wordt ingetrokken.
 
-#### Artikel 24
+##### Artikel 24
 
 Deze Beschikking treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 25
+##### Artikel 25
 
 Deze Beschikking wordt aangehaald als: Beschikking casinospelen 1996.
 
-#### Artikel 26
+##### Artikel 26
 
 1. De door de ministers aangewezen ambtenaren en andere personen zijn bevoegd inlichtingen van de stichting te vorderen, voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is.
 
@@ -402,18 +428,18 @@ Deze Beschikking wordt aangehaald als: Beschikking casinospelen 1996.
 
 4. Indien het maken van kopieën niet ter plaatse kan geschieden, zijn zij bevoegd de gegevens en bescheiden voor dat doel voor korte tijd mee te nemen tegen een door hen af te geven schriftelijk bewijs.
 
-#### Artikel 27
+##### Artikel 27
 
 Na de inwerkingtreding van deze beschikking berusten de krachtens de Beschikking casinospelen 1996 (Stcrt. 1996, 92) vastgestelde besluiten op deze beschikking.
 
-#### Artikel 28
+##### Artikel 28
 
 De Beschikking casinospelen 1996 (Stcrt. 1996, 92) wordt ingetrokken.
 
-#### Artikel 29
+##### Artikel 29
 
 Deze Beschikking treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 30
+##### Artikel 30
 
 Deze Beschikking wordt aangehaald als: Beschikking casinospelen 1996.

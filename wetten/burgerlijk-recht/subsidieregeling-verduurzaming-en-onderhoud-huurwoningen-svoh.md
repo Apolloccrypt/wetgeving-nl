@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling Verduurzaming en Onderhoud Huurwoningen (SVOH)"
+title: "Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening, van 18 januari 2022 nr. 2022-0000019027, houdende regels met betrekking tot een subsidieregeling voor verduurzaming en onderhoud voor verhuurders (Subsidieregeling Verduurzaming en Onderhoud Huurwoningen)"
 identifier: "BWBR0046234"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2026-04-01
-laatste_update: 2026-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046234"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-01"
+last_updated: "2026-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046234"
+soort: "ministeriele-regeling"
+stam_id: "16245753"
+version_id: "30541022"
+internal_id: "C43778511"
+label_id: "16173184"
+dtd_version: "2.0"
+original_entry_into_force: "2024-12-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046234/2026-04-01/0"
+intitule_bron: "Stcrt.2022-1448"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-01-18"
+intitule_published: "2022-01-26"
+intitule_in_force: "2022-01-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-38621"
+original_signed_date: "2024-12-27"
+original_published_date: "2024-12-30"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-38621"
+entry_into_force_date: "2024-12-27"
+jci_1_3: "jci1.3:c:BWBR0046234&z=2026-04-01&g=2026-04-01"
+jci_1_0: "1.0:c:BWBR0046234&g=2026-04-01"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling Verduurzaming en Onderhoud Huurwoningen (SVOH)"
+signed_date: "2024-12-27"
+entry_into_force: "2024-12-27"
 ---
-
 # Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening, van 18 januari 2022 nr. 2022-0000019027, houdende regels met betrekking tot een subsidieregeling voor verduurzaming en onderhoud voor verhuurders (Subsidieregeling Verduurzaming en Onderhoud Huurwoningen)
 
 Gelet op de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=3), en [4, eerste lid, van de Kaderwet overige BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=4) en de [artikelen 6, vijfde lid, onderdeel b, en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=6), [8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=8), [11, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=14), en [20 van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=20);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -104,11 +130,11 @@ In deze regeling wordt verstaan onder:
 
 - **waterverwarmingstoestel:** waterverwarmingstoestel met warmtepomp als bedoeld in artikel 2, onderdeel zeventien, van [verordening (EU) nr. 812/2013](32013R0812).
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Deze regeling heeft tot doel energiebesparing, duurzame warmteopties en onderhoud te stimuleren in bestaande huurwoningen en monumentale huurwoningen.
 
-#### Artikel 3. Staatssteun
+##### Artikel 3. Staatssteun
 
 1. Bij de verstrekking van een subsidie op grond van deze regeling van € 25.000 of meer voor de kosten van energiebesparende maatregelen, duurzame warmteopties, een maatwerkadvies en een duurzaam monumentenadvies wordt toepassing gegeven aan:
 
@@ -124,13 +150,13 @@ Deze regeling heeft tot doel energiebesparing, duurzame warmteopties en onderhou
 
 3. Bij de verstrekking van subsidie op grond van deze regeling voor de kosten van onderhoudsmaatregelen wordt toepassing gegeven aan de de-minimisverordening.
 
-#### Artikel 4. Subsidieplafond en wijze van verdeling
+##### Artikel 4. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt € 152.000.000.
 
 2. De Minister verdeelt het beschikbare bedrag op volgorde van binnenkomst van de aanvragen.
 
-#### Artikel 5. Energiebesparende maatregelen
+##### Artikel 5. Energiebesparende maatregelen
 
 Energiebesparende maatregelen zijn het door een branchegerelateerd bedrijf in een woning laten aanbrengen van isolatiemateriaal, dat is voorzien van een prestatieverklaring, voor één of meer van de volgende typen energiebesparende maatregelen:
 
@@ -164,7 +190,7 @@ Energiebesparende maatregelen zijn het door een branchegerelateerd bedrijf in ee
 
 - 2°. het voor de eerste keer aanleggen van decentrale balansventilatiesystemen met geïntegreerde CO2-sensoren met een rendement van ten minste 80%, mits die ten minste in de woonkamer en de hoofdslaapkamer van elke afzonderlijke huurwoning, monumentale huurwoning of appartement worden aangebracht.
 
-#### Artikel 6. Onderhoudsmaatregelen
+##### Artikel 6. Onderhoudsmaatregelen
 
 Onderhoudsmaatregelen zijn het door een branchegerelateerd bedrijf laten:
 
@@ -174,7 +200,7 @@ Onderhoudsmaatregelen zijn het door een branchegerelateerd bedrijf laten:
 
 - c. vervangen of installeren van een ventilatiebox.
 
-#### Artikel 7. Maatwerkadvies of duurzaam monumentenadvies
+##### Artikel 7. Maatwerkadvies of duurzaam monumentenadvies
 
 1. Een maatwerkadvies is een op het moment van indiening van de aanvraag niet ouder dan drie jaar door een EP-maatwerkadviseur opgesteld rapport dat in EP-online is geregistreerd en het volgende bevat:
 
@@ -188,7 +214,7 @@ Onderhoudsmaatregelen zijn het door een branchegerelateerd bedrijf laten:
 
 2. Een duurzaam monumentenadvies is een op het moment van indiening van de aanvraag niet ouder dan drie jaar door een ERM-adviseur opgesteld rapport dat uitsluitend betrekking heeft op monumentale huurwoningen en minimaal voldoet aan niveau 2, waarbij onderzoek wordt gedaan naar de huidige situatie en kansen voor energiebesparing en -opwekking met oog voor de monumentale waarden en gebouwgebruik.
 
-#### Artikel 8. Activiteiten en voorwaarden
+##### Artikel 8. Activiteiten en voorwaarden
 
 1. De Minister kan aan een verhuurder ten behoeve van een huurwoning of monumentale huurwoning waarvan hij ten tijde van de subsidieaanvraag eigenaar is, subsidie verstrekken voor:
 
@@ -210,7 +236,7 @@ Onderhoudsmaatregelen zijn het door een branchegerelateerd bedrijf laten:
 
 6. Er wordt op grond van het eerste lid geen subsidie verstrekt ten behoeve van een huurwoning of monumentale huurwoning die in eigendom is van een toegelaten instelling als bedoeld in [artikel 19 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=19).
 
-#### Artikel 9. Hoogte van de subsidie voor maatregelen, maatwerkadvies en duurzaam monumentenadvies
+##### Artikel 9. Hoogte van de subsidie voor maatregelen, maatwerkadvies en duurzaam monumentenadvies
 
 1. De subsidie voor maatregelen en maatwerkadvies bedraagt:
 
@@ -292,7 +318,7 @@ Onderhoudsmaatregelen zijn het door een branchegerelateerd bedrijf laten:
 
 3. In het geval binnen 24 maanden vanaf het moment van de subsidiebeschikking voor één maatregel een subsidieaanvraag voor een tweede maatregel in dezelfde huurwoning of monumentale huurwoning wordt ingediend, bedraagt het subsidiebedrag voor zowel de eerste als de tweede maatregel het volledige subsidiebedrag, bedoeld in het eerste lid.
 
-#### Artikel 10. Aanvraag
+##### Artikel 10. Aanvraag
 
 1. Een aanvraag voor subsidie kan worden ingediend van 1 april 2022 tot 1 januari 2030.
 
@@ -364,7 +390,7 @@ Onderhoudsmaatregelen zijn het door een branchegerelateerd bedrijf laten:
 
 - c. bij aanvragen van € 25.000 of meer: door de verhuurder ondertekende offertes voor de te uit te voeren maatregelen, onder vermelding, voor zover van belang voor de subsidieverstrekking, van de aantallen of de totale oppervlakten waarover de onderscheiden maatregelen worden uitgevoerd, alsmede van de energetische kwaliteit van de te uitvoeren maatregelen.
 
-#### Artikel 11. Afwijzingsgronden
+##### Artikel 11. Afwijzingsgronden
 
 1. De Minister wijst de aanvraag voor een subsidie af voor zover:
 
@@ -416,11 +442,11 @@ Onderhoudsmaatregelen zijn het door een branchegerelateerd bedrijf laten:
 
 - c. het een aanvraag voor subsidie betreft voor een lucht-waterwarmtepomp, grondwaterwarmtepomp of water-waterwarmtepomp als bedoeld in [artikel 5a, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046234&artikel=5a&z=2026-04-01&g=2026-04-01), met een thermisch vermogen tussen 1 kW en 70 kW behorend tot een energie-efficiëntieklasse lager dan A++ en deze is of wordt aangebracht op of na 1 januari 2024.
 
-#### Artikel 12. Wijze van subsidieverstrekking
+##### Artikel 12. Wijze van subsidieverstrekking
 
 Bij de verstrekking van een subsidie op grond van deze regeling van minder dan € 25.000 wordt toepassing gegeven aan [artikel 16, tweede lid, onderdeel a, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=16).
 
-#### Artikel 13. Vaststelling van de subsidie
+##### Artikel 13. Vaststelling van de subsidie
 
 Bij het verzoek tot vaststelling van de subsidie wordt meegestuurd:
 
@@ -444,7 +470,7 @@ Bij het verzoek tot vaststelling van de subsidie wordt meegestuurd:
 
 - 3°. is geïnstalleerd of aangebracht door een branchegerelateerd bedrijf.
 
-#### Artikel 14. Subsidieverplichtingen
+##### Artikel 14. Subsidieverplichtingen
 
 1. De subsidieontvanger is verplicht:
 
@@ -460,17 +486,17 @@ Bij het verzoek tot vaststelling van de subsidie wordt meegestuurd:
 
 4. Het derde lid is niet van toepassing op de vervreemding van een installatie tezamen met de woning waarin respectievelijk waarop de investering in een duurzame warmteoptie is geïnstalleerd.
 
-#### Artikel 15. Inwerkingtreding en vervaldatum
+##### Artikel 15. Inwerkingtreding en vervaldatum
 
 Deze regeling treedt in werking met ingang van 1 april 2022 en vervalt met ingang van 1 januari 2030, met dien verstande dat zij van toepassing blijft op subsidies die op grond van deze regeling vóór laatstgenoemde datum zijn aangevraagd.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling Verduurzaming en Onderhoud Huurwoningen (SVOH).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 14a. Overgangsrecht
+##### Artikel 14a. Overgangsrecht
 
 1. Een subsidieaanvraag die mogelijk is geworden vanaf het moment van inwerkingtreding van de **Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 1 februari 2023, nr. 2022-0000535845, tot wijziging van de Subsidieregeling Verduurzaming en Onderhoud Huurwoningen (SVOH) in verband met het verruimen van de doelgroep, het toegankelijker maken van maatregelen voor monumentale huurwoningen, en het vervallen van de twee maatregeleneis** komt slechts voor subsidie in aanmerking als de maatregel wordt uitgevoerd na 31 maart 2023.
 
@@ -506,7 +532,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5a. Duurzame warmteopties
+##### Artikel 5a. Duurzame warmteopties
 
 Duurzame warmteopties zijn het door een branchegerelateerd bedrijf laten installeren van één of meer van de volgende installaties:
 
@@ -534,7 +560,7 @@ Duurzame warmteopties zijn het door een branchegerelateerd bedrijf laten install
 
 - 4°. is voorzien van een etiket, indien sprake is van een zonneboilercombi.
 
-#### Artikel 9a. Hoogte van subsidie voor duurzame warmteopties
+##### Artikel 9a. Hoogte van subsidie voor duurzame warmteopties
 
 1. De subsidie voor duurzame warmteopties bedraagt voor:
 
@@ -600,7 +626,7 @@ Duurzame warmteopties zijn het door een branchegerelateerd bedrijf laten install
 
 7. Voor zover de subsidieaanvraag betrekking heeft of mede betrekking heeft op een tweede of volgende investering in een lucht-waterwarmtepomp met een vermogen vanaf 1 kW, wordt per aanvrager per adres of per gebouw, het basisbedrag, bedoeld in het eerste lid, onderdelen 2° en 3°, alsmede de verhoging, bedoeld in het derde lid, slechts éénmaal verstrekt voor deze investering of niet nogmaals verstrekt indien het basisbedrag en de verhoging reeds bij een eerdere subsidieaanvraag zijn verstrekt.
 
-#### Artikel 9b. Biobased milieuvriendelijk isolatiemateriaal
+##### Artikel 9b. Biobased milieuvriendelijk isolatiemateriaal
 
 1. Indien is geïnvesteerd in biobased milieuvriendelijk isolatiemateriaal, wordt de op grond van artikel 9, eerste lid, onder a tot en met d, berekende subsidie per vierkante meter vermeerderd met:
 
@@ -616,13 +642,13 @@ Duurzame warmteopties zijn het door een branchegerelateerd bedrijf laten install
 
 2. De bedragen, genoemd in het eerste lid, worden niet gehalveerd in het geval er sprake is van de situatie, bedoeld in artikel 9, tweede lid, en het biobased milieuvriendelijk isolatiemateriaal betreft.
 
-#### Artikel 9c. Maximale totale subsidie per woning
+##### Artikel 9c. Maximale totale subsidie per woning
 
 1. Het subsidiebedrag voor investeringen in maatregelen, een maatwerkadvies of een duurzaam monumenten advies bedraagt ten hoogste € 10.000 per huurwoning of monumentale huurwoning.
 
 2. Het subsidiebedrag voor investeringen in maatregelen, duurzame warmteopties, een maatwerkadvies of duurzaam monumentenadvies bedraagt ten hoogste € 15.000 per huurwoning of monumentale huurwoning.
 
-#### Artikel 14b. Gegevensuitwisseling
+##### Artikel 14b. Gegevensuitwisseling
 
 Ter bepaling van de subsidiehoogte wisselen de Rijksdienst voor Ondernemend Nederland en de uitvoeringsorganisatie belast met de uitvoering van Maatregel 29 onderling uitsluitend de volgende gegevens uit:
 

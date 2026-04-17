@@ -1,20 +1,44 @@
 ---
 title: "Regeling aantekening mondeling vonnis door politierechter, kinderrechter, economische politierechter, de kantonrechter en de enkelvoudige kamer voor behandeling van strafzaken in hoger beroep"
 identifier: "BWBR0008266"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 1996-11-01
-laatste_update: 1996-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008266"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1996-11-01"
+last_updated: "1996-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008266"
+soort: "ministeriele-regeling"
+stam_id: "4329433"
+version_id: "6093722"
+internal_id: "C6297231"
+label_id: "4308014"
+dtd_version: "2.0"
+original_entry_into_force: "1996-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008266/1996-11-01/0"
+intitule_bron: "Stcrt.1996-197"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-10-02"
+intitule_published: "1996-10-11"
+intitule_in_force: "1996-10-29"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-197"
+original_signed_date: "1996-10-02"
+original_published_date: "1996-10-11"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1996-11-01"
+jci_1_3: "jci1.3:c:BWBR0008266&z=1996-11-01&g=1996-11-01"
+jci_1_0: "1.0:c:BWBR0008266&g=1996-11-01"
+citeertitel_status: "officieel"
+signed_date: "1996-10-02"
+entry_into_force: "1996-11-01"
 ---
-
 # Regeling aantekening mondeling vonnis door politierechter, kinderrechter, economische politierechter, de kantonrechter en de enkelvoudige kamer voor behandeling van strafzaken in hoger beroep
 
 Gelet op [artikel 378, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=378), [395, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=395), [426d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=426d), en [499, tweede lid, van Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=499), en [artikel 48, eerste lid, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=48),
 
 Bepaalt:
 
-#### Artikel 1
+##### Artikel 1
 
 De aantekening van het mondeling vonnis als bedoeld in [artikel 378, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=378) dient de navolgende gegevens te bevatten:
 
@@ -44,7 +68,7 @@ andere gevallen:
 
 - b. bijkomende beslissingen, met eventueel de gronden daarvoor.
 
-#### Artikel 2
+##### Artikel 2
 
 De aantekening van het mondeling vonnis als bedoeld in [artikel 395, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=395) dient de navolgende gegevens te bevatten:
 
@@ -74,7 +98,7 @@ andere gevallen:
 
 - b. bijkomende beslissingen, met eventueel de gronden daarvoor.
 
-#### Artikel 3
+##### Artikel 3
 
 De aantekening van het mondeling vonnis als bedoeld in [artikel 426d, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=426d) dient de navolgende gegevens te bevatten:
 
@@ -100,11 +124,11 @@ De aantekening van het mondeling vonnis als bedoeld in [artikel 426d, tweede lid
 
 - k. overige/bijkomende beslissingen, eventueel met de gronden daarvoor.
 
-#### Artikel 4
+##### Artikel 4
 
 De beschikking van 5 december 1927, Stcrt. 1927, nr. 237, laatstelijk gewijzigd bij beschikking van 7 oktober 1964 (Stcrt. 1964, 199), alsmede de beschikking van 13 september 1987 (Stbl. 1987, 16) worden ingetrokken.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking op het tijdstip waarop de Wet van tot wijziging van de bepalingen uit het Wetboek van Strafvordering betreffende het proces-verbaal van de terechtzitting en het vonnis in werking zal treden.
 

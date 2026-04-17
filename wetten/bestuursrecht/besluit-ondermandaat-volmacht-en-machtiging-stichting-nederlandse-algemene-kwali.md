@@ -1,20 +1,46 @@
 ---
-title: "Besluit ondermandaat, volmacht en machtiging Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw 2021"
+title: "Besluit van de directeur Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw van 1 februari 2021 houdende verlening van ondermandaat, volmacht en machtiging voor de Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw (Besluit ondermandaat, volmacht en machtiging Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw 2021)"
 identifier: "BWBR0044861"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-07-01
-laatste_update: 2022-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044861"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-07-01"
+last_updated: "2022-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044861"
+soort: "zbo"
+stam_id: "15860693"
+version_id: "27556772"
+internal_id: "C38881121"
+label_id: "15795634"
+dtd_version: "2.0"
+original_entry_into_force: "2021-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044861/2022-07-01/0"
+intitule_bron: "Stcrt.2021-9486"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-02-01"
+intitule_published: "2021-02-26"
+intitule_in_force: "2021-02-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-9486"
+original_signed_date: "2021-02-01"
+original_published_date: "2021-02-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-9486"
+entry_into_force_date: "2021-03-01"
+jci_1_3: "jci1.3:c:BWBR0044861&z=2022-07-01&g=2022-07-01"
+jci_1_0: "1.0:c:BWBR0044861&g=2022-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit ondermandaat, volmacht en machtiging Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw 2021"
+signed_date: "2021-02-01"
+entry_into_force: "2021-03-01"
 ---
-
 # Besluit van de directeur Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw van 1 februari 2021 houdende verlening van ondermandaat, volmacht en machtiging voor de Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw (Besluit ondermandaat, volmacht en machtiging Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw 2021)
 
 gelet op [afdeling 10.1.1. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1) en het [Besluit mandaat, volmacht en machtiging keuringsdiensten 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044854);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 - d. **de regeling:** de [Regeling plantgezondheid](onbekend).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aan het hoofd Keuringen en de managers Keuringen van de Naktuinbouw wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor:
 
@@ -54,7 +80,7 @@ In dit besluit wordt verstaan onder:
 
 4. Aan de managers Keuringen, de keurmeesters en de inspectiemedewerkers bacterievuurcontrole van de Naktuinbouw wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor het opleggen van het verbod tot vervoeren of verplaatsen en het kenmerken of het onder verzegeling brengen als bedoeld in [artikel 2 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&artikel=2).
 
-#### Artikel 3
+##### Artikel 3
 
 Aan het hoofd van de afdeling Financiën en Middelen van de Naktuinbouw wordt mandaat, volmachten machtiging verleend voor het nemen van besluiten en het verrichten van overige handelingen die verband houden met het verzenden van facturen die zijn gebaseerd op de door de minister vastgestelde tarieven als bedoeld in [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=21) voor:
 
@@ -66,19 +92,19 @@ Aan het hoofd van de afdeling Financiën en Middelen van de Naktuinbouw wordt ma
 
 - d. het bij dwangbevel invorderen van de op grond van [artikel 2 lid 1 onderdeel e van het Besluit mandaat, volmacht en machtiging keuringsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0044854&artikel=2) verschuldigde bedragen, verhoogd met invorderingskosten.
 
-#### Artikel 4
+##### Artikel 4
 
 Aan de secretaris van de Naktuinbouw wordt mandaat, volmacht en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten van de Naktuinbouw, waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
 
-#### Artikel 5
+##### Artikel 5
 
 Een afschrift van dit besluit wordt gezonden aan de secretaris generaal, de directeur Wetgeving en Juridische Zaken van het Ministerie van Landbouw, Natuur en Voedselkwaliteit en aan degenen aan wie krachtens dit besluit mandaat, volmacht en machtiging is verleend.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van 1 maart 2021.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw 2021.
 

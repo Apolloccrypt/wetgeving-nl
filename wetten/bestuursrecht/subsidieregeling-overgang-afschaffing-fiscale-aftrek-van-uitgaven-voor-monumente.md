@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling overgang afschaffing fiscale aftrek van uitgaven voor monumentenpanden"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 25 april 2019 nr. WJZ/6093459, houdende regels voor de verstrekking van subsidie aan rijksmonumenteneigenaren voor de in 2019 gemaakte drukkende onderhoudskosten in het kader van een vóór 2019 aangevangen onderhoudsproject (Subsidieregeling overgang afschaffing fiscale aftrek van uitgaven voor monumentenpanden)"
 identifier: "BWBR0042179"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-05-07
-laatste_update: 2019-05-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042179"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-05-07"
+last_updated: "2019-05-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042179"
+soort: "ministeriele-regeling"
+stam_id: "15065063"
+version_id: "25820862"
+internal_id: "C36811481"
+label_id: "15014054"
+dtd_version: "2.0"
+original_entry_into_force: "2019-05-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042179/2019-05-07/0"
+intitule_bron: "Stcrt.2019-24795"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-04-25"
+intitule_published: "2019-05-06"
+intitule_in_force: "2019-05-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-24795"
+original_signed_date: "2019-04-25"
+original_published_date: "2019-05-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-24795"
+entry_into_force_date: "2019-05-07"
+jci_1_3: "jci1.3:c:BWBR0042179&z=2019-05-07&g=2019-05-07"
+jci_1_0: "1.0:c:BWBR0042179&g=2019-05-07"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling overgang afschaffing fiscale aftrek van uitgaven voor monumentenpanden"
+signed_date: "2019-04-25"
+entry_into_force: "2019-05-07"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 25 april 2019 nr. WJZ/6093459, houdende regels voor de verstrekking van subsidie aan rijksmonumenteneigenaren voor de in 2019 gemaakte drukkende onderhoudskosten in het kader van een vóór 2019 aangevangen onderhoudsproject (Subsidieregeling overgang afschaffing fiscale aftrek van uitgaven voor monumentenpanden)
 
 Gelet op [artikel 7.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.1), [artikel 4 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [artikel 1.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -32,11 +58,11 @@ In deze regeling wordt verstaan onder:
 
 - **rijksmonument:** rijksmonument als bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1).
 
-#### Artikel 2. Toepassing [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603). [Hoofdstuk 7 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=7) is niet van toepassing.
 
-#### Artikel 3. Te subsidiëren activiteiten en hoogte subsidie
+##### Artikel 3. Te subsidiëren activiteiten en hoogte subsidie
 
 1. De minister kan aan een eigenaar subsidie verstrekken als tegemoetkoming in de drukkende onderhoudskosten voor werkzaamheden ten behoeve van een rijksmonument:
 
@@ -52,7 +78,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 3. De subsidie bedraagt 38% van de voor subsidie in aanmerking komende drukkende onderhoudskosten.
 
-#### Artikel 4. Subsidieaanvraag
+##### Artikel 4. Subsidieaanvraag
 
 1. Een aanvraag voor subsidie kan worden ingediend in de periode van 1 maart 2020 tot en met 30 april 2020.
 
@@ -70,23 +96,23 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 5. Indien de aanvraag geheel of ten dele betrekking heeft op werkzaamheden als bedoeld in [artikel 3, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042179&artikel=3&z=2019-05-07&g=2019-05-07), voegt de aanvrager bij zijn aanvraag ook bescheiden toe waaruit het moment van betaling blijkt. Indien de aanvraag uitsluitend op dergelijke werkzaamheden betrekking heeft, is het vierde lid, onderdeel c, niet van toepassing.
 
-#### Artikel 5. Weigeringsgrond
+##### Artikel 5. Weigeringsgrond
 
 De subsidieverstrekking kan worden geweigerd voor zover voor de kosten waarvoor subsidie wordt gevraagd, reeds rijkssubsidie wordt verstrekt.
 
-#### Artikel 6. Vaststelling en betaling subsidie
+##### Artikel 6. Vaststelling en betaling subsidie
 
 1. De minister beslist op een aanvraag binnen 13 weken na sluiting van de aanvraagperiode, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042179&artikel=4&z=2019-05-07&g=2019-05-07).
 
 2. De minister stelt de subsidie direct vast en betaalt het subsidiebedrag ineens.
 
-#### Artikel 7. Inwerkingtreding en vervaldatum
+##### Artikel 7. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2019.
 
 2. Deze regeling vervalt met ingang van 1 januari 2021.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling overgang afschaffing fiscale aftrek van uitgaven voor monumentenpanden.
 

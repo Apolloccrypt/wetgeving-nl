@@ -1,14 +1,42 @@
 ---
-title: "Databankenwet"
+title: "Wet van 8 juli 1999, houdende aanpassing van de Nederlandse wetgeving aan richtlijn 96/9/EG van het Europees Parlement en de Raad van 11 maart 1996 betreffende de rechtsbescherming van databanken"
 identifier: "BWBR0010591"
-categorie: "Financieel recht"
-publicatiedatum: 2025-11-21
-laatste_update: 2025-11-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010591"
+country: "nl"
+rank: "wet"
+publication_date: "2025-11-21"
+last_updated: "2025-11-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010591"
+soort: "wet"
+stam_id: "1910273"
+version_id: "20195952"
+internal_id: "C28393591"
+label_id: "1860264"
+dtd_version: "2.0"
+original_entry_into_force: "1999-07-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010591/2025-11-21/0"
+intitule_bron: "Stb.1999-303"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-07-08"
+intitule_published: "1999-07-20"
+intitule_in_force: "1999-07-20"
+intitule_status: "goed"
+original_publication: "Stb.1999-303"
+original_signed_date: "1999-07-08"
+original_published_date: "1999-07-20"
+original_effect: "nieuwe-regeling"
+original_dossier: "26108"
+original_url_id: "stb-1999-303"
+entry_into_force_date: "1999-07-21"
+entry_into_force_dossier: "26108"
+jci_1_3: "jci1.3:c:BWBR0010591&z=2025-11-21&g=2025-11-21"
+jci_1_0: "1.0:c:BWBR0010591&g=2025-11-21"
+citeertitel_status: "officieel"
+short_title: "Databankenwet"
+signed_date: "1999-07-08"
+entry_into_force: "1999-07-21"
 ---
-
-# Databankenwet
+# Wet van 8 juli 1999, houdende aanpassing van de Nederlandse wetgeving aan richtlijn 96/9/EG van het Europees Parlement en de Raad van 11 maart 1996 betreffende de rechtsbescherming van databanken
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +44,7 @@ Alzo Wij in overweging genomen hebben, dat het noodzakelijk is de Nederlandse we
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### ARTIKEL I. Bescherming van de producent van databanken
+##### ARTIKEL I. Bescherming van de producent van databanken
 
 - 1. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
@@ -166,11 +194,11 @@ Het recht, bedoeld in artikel 2, eerste lid, is niet van toepassing wanneer gege
 
 Deze wet wordt aangehaald als: Databankenwet.
 
-#### ARTIKEL II
+##### ARTIKEL II
 
 Wijzigt de Auteurswet 1912.
 
-#### ARTIKEL III
+##### ARTIKEL III
 
 - 1. Artikel I is ook van toepassing op databanken waarvan de productie na 1 januari 1983 voltooid is, met dien verstande dat aan vóór 1 januari 1998 verrichte handelingen en verkregen rechten geen afbreuk wordt gedaan.
 
@@ -180,7 +208,7 @@ B. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0010591&artikel=II&z=202
 
 C. Op verzamelingen als bedoeld in [artikel 10, derde lid, van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=10) die op 27 maart 1996 behoorden tot de in [artikel 10, eerste lid, onder 1°, van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=10) genoemde geschriften blijven de bepalingen in [hoofdstuk III van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&hoofdstuk=III) over de duur van het auteursrecht van toepassing.
 
-#### ARTIKEL IV
+##### ARTIKEL IV
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 

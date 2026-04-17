@@ -1,13 +1,38 @@
 ---
 title: "Prestatiebeschrijvingbeschikking Facultatieve Prestatie Fysiotherapie"
 identifier: "BWBR0031464"
-categorie: "Bestuursrecht"
-publicatiedatum: 2012-04-17
-laatste_update: 2012-04-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031464"
+country: "nl"
+rank: "zbo"
+publication_date: "2012-04-17"
+last_updated: "2012-04-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031464"
+soort: "zbo"
+stam_id: "11712123"
+version_id: "19339332"
+internal_id: "C27011671"
+label_id: "11684714"
+dtd_version: "2.0"
+original_entry_into_force: "2012-04-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031464/2012-04-17/0"
+intitule_bron: "Stcrt.2012-7415"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-04-04"
+intitule_published: "2012-04-17"
+intitule_in_force: "2012-04-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-7415"
+original_signed_date: "2012-04-04"
+original_published_date: "2012-04-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-7415"
+entry_into_force_date: "2012-04-17"
+jci_1_3: "jci1.3:c:BWBR0031464&z=2012-04-17&g=2012-04-17"
+jci_1_0: "1.0:c:BWBR0031464&g=2012-04-17"
+citeertitel_status: "redactioneel"
+signed_date: "2012-04-04"
+entry_into_force: "2012-04-17"
 ---
-
 # Prestatiebeschrijvingbeschikking Facultatieve Prestatie Fysiotherapie
 
 Heeft krachtens de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&paragraaf=4.2) en [4 van hoofdstuk 4 van de Wet marktordening gezondheidszorg (Wmg)](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&paragraaf=4.4)

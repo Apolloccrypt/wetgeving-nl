@@ -1,14 +1,41 @@
 ---
-title: "Wijzigingswet Auteurswet 1912, enz. ivm richtlijn tot coördinatie van bepaalde voorschriften betreffende het auteursrecht en naburige rechten op het gebied van de satellietomroep en de doorgifte via de kabel"
+title: "Wet van 20 juni 1996, houdende wijziging van de Auteurswet 1912 en de Wet op de naburige rechten in verband met richtlijn nr. 93/83/EEG van de Raad van de Europese Gemeenschappen van 27 september 1993 tot coördinatie van bepaalde voorschriften betreffende het auteursrecht en naburige rechten op het gebied van de satellietomroep en de doorgifte via de kabel (PbEG L 248)"
 identifier: "BWBR0008122"
-categorie: "Internationaal recht"
-publicatiedatum: 2008-03-26
-laatste_update: 2008-03-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008122"
+country: "nl"
+rank: "wet"
+publication_date: "2008-03-26"
+last_updated: "2008-03-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008122"
+soort: "wet"
+stam_id: "118883"
+version_id: "161882"
+internal_id: "C161881"
+label_id: "118714"
+dtd_version: "2.0"
+original_entry_into_force: "1996-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008122/2008-03-26/0"
+intitule_bron: "Stb.1996-364"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-06-20"
+intitule_published: "1996-07-09"
+intitule_in_force: "1996-08-15"
+intitule_status: "goed"
+original_publication: "Stb.1996-364"
+original_signed_date: "1996-06-20"
+original_published_date: "1996-07-09"
+original_effect: "nieuwe-regeling"
+original_dossier: "23813"
+original_url_id: "stb-1996-364"
+entry_into_force_date: "1996-09-01"
+jci_1_3: "jci1.3:c:BWBR0008122&z=2008-03-26&g=2008-03-26"
+jci_1_0: "1.0:c:BWBR0008122&g=2008-03-26"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Auteurswet 1912, enz. ivm richtlijn tot coördinatie van bepaalde voorschriften betreffende het auteursrecht en naburige rechten op het gebied van de satellietomroep en de doorgifte via de kabel"
+signed_date: "1996-06-20"
+entry_into_force: "1996-09-01"
 ---
-
-# Wijzigingswet Auteurswet 1912, enz. ivm richtlijn tot coördinatie van bepaalde voorschriften betreffende het auteursrecht en naburige rechten op het gebied van de satellietomroep en de doorgifte via de kabel
+# Wet van 20 juni 1996, houdende wijziging van de Auteurswet 1912 en de Wet op de naburige rechten in verband met richtlijn nr. 93/83/EEG van de Raad van de Europese Gemeenschappen van 27 september 1993 tot coördinatie van bepaalde voorschriften betreffende het auteursrecht en naburige rechten op het gebied van de satellietomroep en de doorgifte via de kabel (PbEG L 248)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,15 +43,15 @@ Alzo Wij in overweging genomen hebben, dat het ter uitvoering van [richtlijn nr.
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### ARTIKEL I
+##### ARTIKEL I
 
 Wijzigt de Auteurswet 1912.
 
-#### ARTIKEL II
+##### ARTIKEL II
 
 Wijzigt de Wet op de naburige rechten.
 
-#### ARTIKEL III
+##### ARTIKEL III
 
 1. Deze wet laat vóór het tijdstip van inwerkingtreding van deze wet verrichte exploitatiehandelingen onverlet.
 
@@ -32,7 +59,7 @@ Wijzigt de Wet op de naburige rechten.
 
 3. Met betrekking tot een vóór het tijdstip van inwerkingtreding van deze wet tot stand gekomen internationale co-produktie-overeenkomst tussen een co-producent uit een van de lid-staten van de Europese Unie of uit een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte van 2 mei 1992 en een of meer co-producenten uit andere lid-staten of uit derde landen die een regeling bevat, waarbij de exploitatierechten voor alle vormen van openbaarmaking naar geografisch gebied worden verdeeld tussen de co-producenten zonder onderscheid te maken tussen uitzendingen door middel van een satelliet en andere vormen van openbaarmaking, is, indien de uitzending van de co-produktie door middel van een satelliet de exclusiviteit, in het bijzonder de taal-exclusiviteit, van een van de co-producenten of van diens rechtverkrijgenden op een bepaald grondgebied zou aantasten, voor de uitzending door middel van een satelliet de toestemming vereist van de co-producent die recht op die exclusiviteit kan doen gelden of diens rechtverkrijgenden.
 
-#### ARTIKEL IV
+##### ARTIKEL IV
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling mandaat, volmacht en machtiging BZ 2021"
+title: "Regeling van de Minister van Buitenlandse Zaken van 9 december 2020, Min-BuZa.2020.6279-19, houdende regels inzake mandaat, volmacht en machtiging voor het Ministerie van Buitenlandse Zaken"
 identifier: "BWBR0044511"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-11-01
-laatste_update: 2023-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044511"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-11-01"
+last_updated: "2023-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044511"
+soort: "ministeriele-regeling"
+stam_id: "15759853"
+version_id: "27310632"
+internal_id: "C38574891"
+label_id: "15698194"
+dtd_version: "2.0"
+original_entry_into_force: "2020-12-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044511/2023-11-01/0"
+intitule_bron: "Stcrt.2020-66500"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-12-09"
+intitule_published: "2020-12-17"
+intitule_in_force: "2020-12-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-66500"
+original_signed_date: "2020-12-09"
+original_published_date: "2020-12-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-66500"
+entry_into_force_date: "2020-12-17"
+jci_1_3: "jci1.3:c:BWBR0044511&z=2023-11-01&g=2023-11-01"
+jci_1_0: "1.0:c:BWBR0044511&g=2023-11-01"
+citeertitel_status: "officieel"
+short_title: "Regeling mandaat, volmacht en machtiging BZ 2021"
+signed_date: "2020-12-09"
+entry_into_force: "2020-12-17"
 ---
-
 # Regeling van de Minister van Buitenlandse Zaken van 9 december 2020, Min-BuZa.2020.6279-19, houdende regels inzake mandaat, volmacht en machtiging voor het Ministerie van Buitenlandse Zaken
 
 Handelende in overeenstemming met de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking;
@@ -18,7 +44,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 In deze regeling wordt verstaan onder:
 
@@ -54,11 +80,11 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Algemeen mandaat, volmacht en machtiging
 
-#### Artikel 2. Algemeen mandaat, volmacht en machtiging secretaris-generaal
+##### Artikel 2. Algemeen mandaat, volmacht en machtiging secretaris-generaal
 
 Aan de secretaris-generaal en de plaatsvervangend secretaris-generaal wordt algemeen mandaat, volmacht en machtiging verleend voor al hetgeen het ministerie van Buitenlandse Zaken betreft.
 
-#### Artikel 3. Algemeen mandaat (plv) directeuren-generaal, (plv) directeuren en (plv) chefs de poste
+##### Artikel 3. Algemeen mandaat (plv) directeuren-generaal, (plv) directeuren en (plv) chefs de poste
 
 1. De secretaris-generaal verleent aan de directeuren-generaal, de plaatsvervangend directeuren-generaal, de directeuren, de plaatsvervangend directeuren, de chefs de poste en de plaatsvervangend chefs de poste mandaat voor het nemen van besluiten inzake aangelegenheden die verband houden met de taken, de verantwoordelijkheden en het werkterrein van de desbetreffende functionarissen.
 
@@ -74,7 +100,7 @@ Aan de secretaris-generaal en de plaatsvervangend secretaris-generaal wordt alge
 
 5. Van ondermandaten als bedoeld in het vierde lid wordt een afschrift gezonden naar de directie Juridische Zaken, afdeling Nederlands recht.
 
-#### Artikel 4. Algemene volmacht en machtiging directeuren-generaal, directeuren en chefs de poste
+##### Artikel 4. Algemene volmacht en machtiging directeuren-generaal, directeuren en chefs de poste
 
 1. De secretaris-generaal verleent aan de directeuren-generaal, de directeuren en de chefs de poste volmacht en machtiging tot het verrichten van rechtshandelingen, respectievelijk tot het verrichten van handelingen die noch een besluit noch een privaatrechtelijke rechtshandeling zijn, op het aan de desbetreffende functionarissen toegewezen werkterrein en conform hun goedgekeurde jaarplan en budget.
 
@@ -82,7 +108,7 @@ Aan de secretaris-generaal en de plaatsvervangend secretaris-generaal wordt alge
 
 3. De functionarissen, genoemd in het eerste lid, leggen in de competentietabel die onderdeel uitmaakt van de administratieve organisatie, vast welke functionarissen bevoegd zijn tot het verrichten van privaatrechtelijke rechtshandelingen op het aan deze functionarissen toegewezen werkterrein en tot welk bedrag, alsmede welke functionarissen bevoegd zijn tot het verrichten van handelingen op het aan deze functionarissen toegewezen werkterrein die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
 
-#### Artikel 5. Absolute uitzonderingen mandaat, volmacht en machtiging
+##### Artikel 5. Absolute uitzonderingen mandaat, volmacht en machtiging
 
 1. Mandaat, volmacht en machtiging hebben geen betrekking op:
 
@@ -124,7 +150,7 @@ Aan de secretaris-generaal en de plaatsvervangend secretaris-generaal wordt alge
 
 4. In afwijking van het eerste lid, onderdeel c, kan in bijzondere gevallen aan de secretaris-generaal of de plaatsvervangend secretaris-generaal mandaat, volmacht of machtiging worden verleend voor bepaalde aangelegenheden.
 
-#### Artikel 6. Relatieve uitzonderingen mandaat, volmacht en machtiging
+##### Artikel 6. Relatieve uitzonderingen mandaat, volmacht en machtiging
 
 Handelen krachtens bij deze regeling verleend mandaat, volmacht of machtiging is niet toegestaan bij:
 
@@ -136,7 +162,7 @@ Handelen krachtens bij deze regeling verleend mandaat, volmacht of machtiging is
 
 #### § 3. Specifieke mandaten en volmachten
 
-#### Artikel 7. Specifieke volmacht directeur Financieel-Economische Zaken
+##### Artikel 7. Specifieke volmacht directeur Financieel-Economische Zaken
 
 De krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044511&paragraaf=2&artikel=4&z=2023-11-01&g=2023-11-01), aan de directeur Financieel-Economische Zaken verleende volmacht omvat tevens:
 
@@ -146,7 +172,7 @@ De krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR004
 
 - c. het opleggen van de verplichting schade te vergoeden aan de functionaris die namens de minister is belast met het in [artikel 3.4 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.4) bedoelde beheer, wanneer hem ter zake van die schade een ernstig verwijt kan worden gemaakt.
 
-#### Artikel 8. Uitzonderingen mandaat en volmacht directeuren-generaal
+##### Artikel 8. Uitzonderingen mandaat en volmacht directeuren-generaal
 
 Het krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044511&paragraaf=2&artikel=3&z=2023-11-01&g=2023-11-01), aan de directeuren-generaal en de plaatsvervangend directeuren-generaal verleende mandaat en het krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044511&paragraaf=2&artikel=4&z=2023-11-01&g=2023-11-01), aan de directeuren-generaal verleende volmacht hebben geen betrekking op:
 
@@ -182,13 +208,13 @@ Het krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - 7°. het beslissen over een verschil van mening dat een functionaris of voormalig functionaris van het ministerie van Buitenlandse Zaken op grond van de CAO Rijk, de Aanvullende CAO Rijk Uitzendingen of de [Rechtspositieregeling lokale werknemers 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0042874) heeft voorgelegd aan de in die regelingen genoemde geschillencommissies.
 
-#### Artikel 9. Specifieke bevoegdheden hoofddirecteur Consulaire en Visumzaken, directeur Financieel-Economische Zaken, directeur 3W, hoofddirecteur Personeel en Organisatie en hoofddirecteur Postennet
+##### Artikel 9. Specifieke bevoegdheden hoofddirecteur Consulaire en Visumzaken, directeur Financieel-Economische Zaken, directeur 3W, hoofddirecteur Personeel en Organisatie en hoofddirecteur Postennet
 
 1. Aan de hoofddirecteur Consulaire en Visumzaken wordt volmacht verleend tot het verrichten van alle rechtshandelingen ten aanzien van de consulaire functies en ten aanzien van functionarissen met een consulaire functie. Aan de directeur Financieel-Economische Zaken wordt volmacht verleend tot het verrichten van alle rechtshandelingen ten aanzien van de financiële functies en ten aanzien van functionarissen met een financiële functie. Aan de hoofddirecteur Postennet wordt volmacht verleend tot het verrichten van alle rechtshandelingen ten aanzien van de functies op de vertegenwoordigingen van het Koninkrijk in het buitenland en ten aanzien van functionarissen werkzaam op die vertegenwoordigingen met uitzondering van de in de vorige twee volzinnen bedoelde functies en functionarissen.
 
 2. Van de volmachten, bedoeld in het eerste lid, is uitgezonderd de bevoegdheid rechtshandelingen te verrichten die in dit kader toekomen aan de secretaris-generaal, de directeur 3W en aan de hoofddirecteur Personeel en Organisatie.
 
-#### Artikel 10. Regels, procedures en instructies mandaat, volmacht en machtiging
+##### Artikel 10. Regels, procedures en instructies mandaat, volmacht en machtiging
 
 1. Mandaat en volmacht worden uitgeoefend met inachtneming van:
 
@@ -218,19 +244,19 @@ vertegenwoordigd door (naam functionaris), (functie)
 
 #### § 4. Overgangs- en slotbepalingen
 
-#### Artikel 11. Intrekking
+##### Artikel 11. Intrekking
 
 De [Regeling mandaat, volmacht en machtiging BZ 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039367) wordt ingetrokken.
 
-#### Artikel 12. Overgangsrecht
+##### Artikel 12. Overgangsrecht
 
 Ondermandaatbesluiten, volmachten en competentietabellen die zijn vastgesteld op grond van de [Regeling mandaat, volmacht en machtiging BZ 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039367) gelden als besluiten inzake mandaat, volmacht en machtiging op grond van deze regeling.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2020 met uitzondering van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044511&paragraaf=3&artikel=9&z=2023-11-01&g=2023-11-01), derde volzin, dat in werking treedt met ingang van 1 januari 2021.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling mandaat, volmacht en machtiging BZ 2021.
 

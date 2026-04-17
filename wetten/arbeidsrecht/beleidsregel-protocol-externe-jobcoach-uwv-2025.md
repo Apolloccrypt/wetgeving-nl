@@ -1,30 +1,55 @@
 ---
 title: "Beleidsregel Protocol Externe Jobcoach UWV 2025"
 identifier: "BWBR0050810"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2025-02-28
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050810"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-02-28"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050810"
+soort: "zbo"
+stam_id: "17376793"
+version_id: "30633072"
+internal_id: "C43912421"
+label_id: "17280074"
+dtd_version: "2.0"
+original_entry_into_force: "2025-02-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050810/2025-02-28/0"
+intitule_bron: "Stcrt.2025-7087"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-02-14"
+intitule_published: "2025-02-27"
+intitule_in_force: "2025-02-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-7087"
+original_signed_date: "2025-02-14"
+original_published_date: "2025-02-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-7087"
+entry_into_force_date: "2025-02-28"
+jci_1_3: "jci1.3:c:BWBR0050810&z=2025-02-28&g=2025-02-28"
+jci_1_0: "1.0:c:BWBR0050810&g=2025-02-28"
+citeertitel_status: "officieel"
+signed_date: "2025-02-14"
+entry_into_force: "2025-02-28"
 ---
-
 # Beleidsregel Protocol Externe Jobcoach UWV 2025
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het Uitvoeringsinstituut werknemersverzekeringen hanteert bij het beoordelen van personen voor de toepassing van de voorziening persoonlijke ondersteuning, ook wel Externe Jobcoaching genoemd, het Protocol Externe Jobcoach UWV 2025 als weergegeven in de bijlage bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 De [Beleidsregel Protocol UWV Jobcoach 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042556), van 20 augustus 2019 gepubliceerd in de Staatscourant van 18 september 2019, nummer 51108, wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2025.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Beleidsregel Protocol Externe Jobcoach UWV 2025.
 

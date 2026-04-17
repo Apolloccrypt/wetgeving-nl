@@ -1,20 +1,46 @@
 ---
-title: "Regeling onvoorziene gevallen bij invoering vereenvoudiging bekostiging VO 2018"
+title: "Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 16 april 2019, nr. VO/7950998, houdende regels voor onvoorziene gevallen bij invoering vereenvoudiging bekostiging VO 2018 (Regeling onvoorziene gevallen bij invoering vereenvoudiging bekostiging VO 2018)"
 identifier: "BWBR0042150"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2019-04-27
-laatste_update: 2018-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042150"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-04-27"
+last_updated: "2018-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042150"
+soort: "ministeriele-regeling"
+stam_id: "15059563"
+version_id: "25809512"
+internal_id: "C36797851"
+label_id: "15008594"
+dtd_version: "2.0"
+original_entry_into_force: "2019-04-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042150/2019-04-27/0"
+intitule_bron: "Stcrt.2019-22990"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-04-16"
+intitule_published: "2019-04-26"
+intitule_in_force: "2019-04-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-22990"
+original_signed_date: "2019-04-16"
+original_published_date: "2019-04-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-22990"
+entry_into_force_date: "2019-04-27"
+jci_1_3: "jci1.3:c:BWBR0042150&z=2019-04-27&g=2019-04-27"
+jci_1_0: "1.0:c:BWBR0042150&g=2019-04-27"
+citeertitel_status: "officieel"
+short_title: "Regeling onvoorziene gevallen bij invoering vereenvoudiging bekostiging VO 2018"
+signed_date: "2019-04-16"
+entry_into_force: "2019-04-27"
 ---
-
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 16 april 2019, nr. VO/7950998, houdende regels voor onvoorziene gevallen bij invoering vereenvoudiging bekostiging VO 2018 (Regeling onvoorziene gevallen bij invoering vereenvoudiging bekostiging VO 2018)
 
 Gelet op [artikel V van de Wet van 6 juli 2004 tot wijziging van de Wet op het voortgezet onderwijs in verband met onder meer vereenvoudiging van de bekostigingsbepalingen](https://wetten.overheid.nl/jci1.3:c:BWBR0016983&artikel=V) (Stb. 2005, 14);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -22,11 +48,11 @@ In deze regeling wordt verstaan onder:
 
 - **Wet vereenvoudiging bekostiging VO:** [Wet van 6 juli 2004 tot wijziging van de Wet op het voortgezet onderwijs in verband met onder meer vereenvoudiging van de bekostigingsbepalingen](https://wetten.overheid.nl/jci1.3:c:BWBR0016983) (Stb. 2005, 14).
 
-#### Artikel 2. Overgangsbepaling bekostiging scholen voor voortgezet onderwijs over periode tot 1 januari 2006
+##### Artikel 2. Overgangsbepaling bekostiging scholen voor voortgezet onderwijs over periode tot 1 januari 2006
 
 Op de bekostiging van scholen voor voortgezet onderwijs over de periode die aanvangt op het moment van inwerkingtreding van de [Wet vereenvoudiging bekostiging VO](https://wetten.overheid.nl/jci1.3:c:BWBR0016983) en eindigt op 1 januari 2006, blijven van toepassing de bekostigingsbepalingen van de [WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) en de daarop berustende bepalingen zoals luidend op de dag voor de inwerkingtreding van de Wet vereenvoudiging bekostiging VO.
 
-#### Artikel 3. Aanpassing overgangsrecht in verband met gewijzigde inwerkingtreding wet
+##### Artikel 3. Aanpassing overgangsrecht in verband met gewijzigde inwerkingtreding wet
 
 1. In afwijking van [artikel II van de Wet vereenvoudiging bekostiging VO](https://wetten.overheid.nl/jci1.3:c:BWBR0016983&artikel=II):
 
@@ -58,7 +84,7 @@ Op de bekostiging van scholen voor voortgezet onderwijs over de periode die aanv
 
 - e. heeft het derde lid betrekking op het kalenderjaar 2006.
 
-#### Artikel 4. Overlopende posten
+##### Artikel 4. Overlopende posten
 
 1. In afwijking van [artikel II van de Wet vereenvoudiging bekostiging VO](https://wetten.overheid.nl/jci1.3:c:BWBR0016983&artikel=II):
 
@@ -78,17 +104,17 @@ Op de bekostiging van scholen voor voortgezet onderwijs over de periode die aanv
 
 3. Effectuering op grond van het tweede lid wordt meegenomen in verrekening van het exploitatie-overschot als bedoeld in [artikel 24 van het Bekostigingsbesluit W.V.O](https://wetten.overheid.nl/jci1.3:c:BWBR0005672&artikel=24)..
 
-#### Artikel 5. Overgangsbepaling aanhangige bezwaren en beroepen
+##### Artikel 5. Overgangsbepaling aanhangige bezwaren en beroepen
 
 Op geschillen die in bezwaar, beroep of hoger beroep aanhangig zijn of binnen de bezwaar- dan wel beroepstermijn dan wel verschoonbaar daarbuiten aanhangig worden gemaakt tegen besluiten die zijn genomen door de Minister van Onderwijs, Cultuur en Wetenschap of de Minister van Landbouw, Natuur en Voedselkwaliteit op grond van bekostigingsbepalingen in de [WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) en daarop berustende bepalingen zoals luidend op de dag voor de inwerkingtreding van de [Wet vereenvoudiging bekostiging VO](https://wetten.overheid.nl/jci1.3:c:BWBR0016983) blijven de op die datum geldende regelingen van toepassing. De eerste volzin is hangende het bezwaar, beroep of hoger beroep van overeenkomstige toepassing op de bevoegdheid tot het intrekken en vervangen van besluiten die tot de aldaar bedoelde geschillen hebben geleid.
 
-#### Artikel 6. Inwerkingtreding en vervaldatum
+##### Artikel 6. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 augustus 2018.
 
 2. Deze regeling vervalt met ingang van 1 januari 2023.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling onvoorziene gevallen bij invoering vereenvoudiging bekostiging VO 2018.
 

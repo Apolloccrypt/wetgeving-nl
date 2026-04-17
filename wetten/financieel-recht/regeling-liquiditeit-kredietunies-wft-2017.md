@@ -1,13 +1,39 @@
 ---
-title: "Regeling liquiditeit kredietunies Wft 2017"
+title: "Regeling van De Nederlandsche Bank N.V. van 12 december 2016 houdende regels ingevolge artikel 108, derde lid, en artikel 111, zesde lid, van het Besluit prudentiële regels Wft met betrekking tot de posten van de vereiste en de aanwezige liquiditeit voor kredietunies en de weging daarvan (Regeling liquiditeit kredietunies Wft 2017)"
 identifier: "BWBR0039031"
-categorie: "Financieel recht"
-publicatiedatum: 2017-01-01
-laatste_update: 2017-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039031"
+country: "nl"
+rank: "zbo"
+publication_date: "2017-01-01"
+last_updated: "2017-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039031"
+soort: "zbo"
+stam_id: "13857713"
+version_id: "23795542"
+internal_id: "C34236321"
+label_id: "13822914"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039031/2017-01-01/0"
+intitule_bron: "Stcrt.2016-68442"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-12-12"
+intitule_published: "2016-12-30"
+intitule_in_force: "2016-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-68442"
+original_signed_date: "2016-12-12"
+original_published_date: "2016-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-68442"
+entry_into_force_date: "2017-01-01"
+jci_1_3: "jci1.3:c:BWBR0039031&z=2017-01-01&g=2017-01-01"
+jci_1_0: "1.0:c:BWBR0039031&g=2017-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling liquiditeit kredietunies Wft 2017"
+signed_date: "2016-12-12"
+entry_into_force: "2017-01-01"
 ---
-
 # Regeling van De Nederlandsche Bank N.V. van 12 december 2016 houdende regels ingevolge artikel 108, derde lid, en artikel 111, zesde lid, van het Besluit prudentiële regels Wft met betrekking tot de posten van de vereiste en de aanwezige liquiditeit voor kredietunies en de weging daarvan (Regeling liquiditeit kredietunies Wft 2017)
 
 Na raadpleging van de betrokken representatieve organisaties;
@@ -18,7 +44,7 @@ Gelet op [hoofdstuk 11 (Liquiditeit) van het Besluit prudentiële regels Wft](ht
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling en de Bijlage wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In deze regeling en de Bijlage wordt verstaan onder:
 
 - b. **DNB:** De Nederlandsche Bank N.V..
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze regeling is van toepassing op kredietunies met zetel in Nederland die vergunningplichtig zijn op grond van [artikel 2:54o van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54o).
 
@@ -54,7 +80,7 @@ In deze regeling en de Bijlage wordt verstaan onder:
 | **5. Eigen middelen** | 0 |
 | **6. Te betalen bedragen binnen de maandperiode** | 100 |
 
-#### Artikel 3
+##### Artikel 3
 
 1. In afwijking van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039031&artikel=2&z=2017-01-01&g=2017-01-01), kan DNB, indien zij de conform dat artikellid berekende liquiditeit niet passend acht voor een afzonderlijke kredietunie, voor deze kredietunie afwijkende posten of wegingen vaststellen.
 
@@ -68,11 +94,11 @@ In deze regeling en de Bijlage wordt verstaan onder:
 
 - d. de mate waarin de looptijden van de activaposten, bedoeld in de tabel bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039031&artikel=2&z=2017-01-01&g=2017-01-01), passend zijn bij de looptijden van de passivaposten, bedoeld in de tabel bij artikel 2, tweede lid.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van 1 januari 2017. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven op of na 31 december 2016, treedt deze regeling in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2017.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling liquiditeit kredietunies Wft 2017.
 

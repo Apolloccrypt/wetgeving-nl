@@ -1,13 +1,39 @@
 ---
-title: "Regeling syllabi centrale examens vo 2020"
+title: "Regeling van het College voor Toetsen en Examens van 25 juni 2018, nummer CvTE-18.00866, houdende vaststelling van de syllabi voor de centrale examens in het vwo, havo en vmbo 2020, nadere vaststelling van enkele eerder vastgestelde syllabi, tevens preliminaire vaststelling van enkele syllabi 2021 en 2022 (Regeling syllabi centrale examens vo 2020)"
 identifier: "BWBR0041196"
-categorie: "Onderwijs"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041196"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041196"
+soort: "zbo"
+stam_id: "14688123"
+version_id: "25158082"
+internal_id: "C35971821"
+label_id: "14640614"
+dtd_version: "2.0"
+original_entry_into_force: "2018-07-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041196/2023-01-01/0"
+intitule_bron: "Stcrt.2018-41288"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-06-25"
+intitule_published: "2018-07-24"
+intitule_in_force: "2018-07-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-41288"
+original_signed_date: "2018-06-25"
+original_published_date: "2018-07-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-41288"
+entry_into_force_date: "2018-07-25"
+jci_1_3: "jci1.3:c:BWBR0041196&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0041196&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling syllabi centrale examens vo 2020"
+signed_date: "2018-06-25"
+entry_into_force: "2018-07-25"
 ---
-
 # Regeling van het College voor Toetsen en Examens van 25 juni 2018, nummer CvTE-18.00866, houdende vaststelling van de syllabi voor de centrale examens in het vwo, havo en vmbo 2020, nadere vaststelling van enkele eerder vastgestelde syllabi, tevens preliminaire vaststelling van enkele syllabi 2021 en 2022 (Regeling syllabi centrale examens vo 2020)
 
 Gelet op [artikel 2, tweede lid, aanhef en onderdeel f, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2);
@@ -16,27 +42,27 @@ Gezien de goedkeuring van de Minister voor Basis- en Voortgezet Onderwijs en Med
 
 Besluit:
 
-#### Artikel 1. Vaststelling syllabi 2020
+##### Artikel 1. Vaststelling syllabi 2020
 
 Vervallen
 
-#### Artikel 2. Nadere vaststelling van enkele eerder vastgestelde syllabi
+##### Artikel 2. Nadere vaststelling van enkele eerder vastgestelde syllabi
 
 Vervallen
 
-#### Artikel 3. Preliminaire vaststelling van enkele syllabi 2021 en 2022
+##### Artikel 3. Preliminaire vaststelling van enkele syllabi 2021 en 2022
 
 Vervallen
 
-#### Artikel 4. Bekendmaking
+##### Artikel 4. Bekendmaking
 
 Vervallen
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 Vervallen
 
-#### Artikel 6. Citeertitel
+##### Artikel 6. Citeertitel
 
 Vervallen
 

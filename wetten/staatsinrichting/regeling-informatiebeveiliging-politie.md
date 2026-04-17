@@ -1,13 +1,38 @@
 ---
 title: "Regeling informatiebeveiliging politie"
 identifier: "BWBR0008599"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2017-12-15
-laatste_update: 2017-12-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008599"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-12-15"
+last_updated: "2017-12-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008599"
+soort: "ministeriele-regeling"
+stam_id: "5049873"
+version_id: "19968802"
+internal_id: "C28056311"
+label_id: "5025944"
+dtd_version: "2.0"
+original_entry_into_force: "2012-12-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008599/2017-12-15/0"
+intitule_bron: "Stcrt.1997-60"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-03-17"
+intitule_published: "1997-03-26"
+intitule_in_force: "1997-03-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-26854"
+original_signed_date: "2012-12-13"
+original_published_date: "2012-12-24"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2012-26854"
+entry_into_force_date: "2012-12-13"
+jci_1_3: "jci1.3:c:BWBR0008599&z=2017-12-15&g=2017-12-15"
+jci_1_0: "1.0:c:BWBR0008599&g=2017-12-15"
+citeertitel_status: "officieel"
+signed_date: "2012-12-13"
+entry_into_force: "2012-12-13"
 ---
-
 # Regeling informatiebeveiliging politie
 
 Gelet op de [artikelen 38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=38), [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=46) en [48, eerste lid, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=48);
@@ -16,11 +41,11 @@ Gezien het advies van de korpsbeheerders, kenmerk 0113\1235\EMd’H, d.d. 17 dec
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze regeling is van toepassing op het gehele proces van informatievoorziening en de gehele levenscyclus van informatiesystemen, ongeacht de toegepaste technologie en ongeacht het karakter van de informatie.
 
@@ -28,7 +53,7 @@ In deze regeling wordt verstaan onder:
 
 3. Bij de uitwisseling van gegevens tussen de politie en andere instanties, worden afspraken gemaakt over de betrouwbaarheid van de informatiesystemen en van de informatie daarin en de wijze waarop zekerheid wordt verkregen over de realisatie daarvan.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De korpschef stelt het informatiebeveiligingsbeleid vast in een beleidsdocument en draagt dit beleid uit. Indien het informatiebeveiligingsbeleid mede betrekking heeft op informatiesystemen ten behoeve van de opsporing van strafbare feiten, stelt de korpschef dit beleidsdocument vast na overleg met de hoofdofficier van justitie.
 
@@ -52,7 +77,7 @@ In deze regeling wordt verstaan onder:
 
 - i. de te nemen maatregelen met betrekking tot de interceptiefaciliteiten binnen het korps.
 
-#### Artikel 4
+##### Artikel 4
 
 De korpschef draagt er zorg voor dat voor elk informatiesysteem en voor elke gemeenschappelijke IT-dienst op systematische wijze met inachtneming van de betrouwbaarheidscriteria en -normklassen, bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0008599&bijlage=I&z=2017-12-15&g=2017-12-15), bepaald wordt welk stelsel van maatregelen uit hoofde van informatiebeveiliging getroffen dient te worden. Deze zorgplicht houdt tenminste in dat:
 
@@ -70,11 +95,11 @@ De korpschef draagt er zorg voor dat voor elk informatiesysteem en voor elke gem
 
 - 2. een calamiteitenparagraaf waarvan de effectiviteit periodiek wordt getoetst.
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 De korpschef draagt er zorg voor dat voor elk bedrijfsproces de maatregelen die uit hoofde van de informatiebeveiliging van toepassing zijn op de ondersteunende informatiesystemen en dat de maatregelen die van toepassing zijn op elke gemeenschappelijke IT-dienst, worden vastgelegd, geïmplementeerd of uitgedragen en dat de werking volgens een vaststaand schema wordt gecontroleerd. Deze zorgplicht houdt tenminste in dat:
 
@@ -88,11 +113,11 @@ De korpschef draagt er zorg voor dat voor elk bedrijfsproces de maatregelen die 
 
 - e. de uit het informatiebeveiligingsplan voortvloeiende maatregelen voor systeemverwerving worden getoetst op hun implementatie en werking.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling treedt in werking op 1 april 1997.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling wordt aangehaald als Regeling informatiebeveiliging politie.
 
@@ -134,7 +159,7 @@ Exclusiviteit wordt omschreven als: de mate waarin de toegang tot en kennisname 
 
 Als voor elk informatiesysteem specifieke betrouwbaarheidsnormen worden geformuleerd, dan ontstaat een complex normenstelsel. Wat te doen als het ene systeem een bedrijfszekerheidsnorm stelt van 1 storing per 200 uur, het volgende systeem een norm stelt van 1 storing per 240 uur en het derde weer een norm stelt van 1 storing per 300 uur? Voor het maken van afspraken zal het op den duur handiger blijken om normklassen te hanteren. In deze regeling worden vier normklassen onderscheiden: ’laag’, ’gemiddeld’, ’hoog’ en ’zeer hoog’.
 
-#### Artikel 6a
+##### Artikel 6a
 
 Vervallen
 
@@ -160,7 +185,7 @@ Het is de bedoeling dat de normklassen worden ingevuld door de politie. Hieronde
 
 Ligt ter inzage bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 6b
+##### Artikel 6b
 
 De korpschef draagt ervoor zorg dat onbevoegde kennisneming van criminele inlichtingen en informantgegevens niet kan plaatsvinden. In dat kader ziet hij erop toe dat:
 
@@ -176,7 +201,7 @@ De korpschef draagt ervoor zorg dat onbevoegde kennisneming van criminele inlich
 
 - f. bij gebruik van een netwerksysteem voldoende beveiligingsmaatregelen zijn getroffen tegen het verloren gaan van de informatie en ter voorkoming van onbevoegde bevraging.
 
-#### Artikel 6c
+##### Artikel 6c
 
 Deze regeling berust op [artikel 23, eerste lid, onder b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=23).
 

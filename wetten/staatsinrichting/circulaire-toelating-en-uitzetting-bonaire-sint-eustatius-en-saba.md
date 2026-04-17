@@ -1,13 +1,35 @@
 ---
 title: "Circulaire toelating en uitzetting Bonaire, Sint Eustatius en Saba"
 identifier: "BWBR0028837"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028837"
+country: "nl"
+rank: "circulaire_bes"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028837"
+soort: "circulaire-BES"
+stam_id: "11038843"
+version_id: "18043132"
+internal_id: "C25084291"
+label_id: "11023294"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028837/2026-01-01/0"
+intitule_bron: "Stcrt.2010-15190"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2010-10-08"
+intitule_in_force: "2010-10-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-15190"
+original_published_date: "2010-10-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-15190"
+entry_into_force_date: "2010-10-08"
+jci_1_3: "jci1.3:c:BWBR0028837&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0028837&g=2026-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2010-10-08"
 ---
-
 # Circulaire toelating en uitzetting Bonaire, Sint Eustatius en Saba
 
 **Rijksdienst**

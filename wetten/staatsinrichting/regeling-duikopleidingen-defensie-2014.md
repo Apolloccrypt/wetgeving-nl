@@ -1,20 +1,46 @@
 ---
-title: "Regeling duikopleidingen Defensie 2014"
+title: "Regeling tot aanwijzing van de Defensie Duikschool als certificerende instelling (Regeling duikopleidingen Defensie 2014)"
 identifier: "BWBR0035963"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2014-12-20
-laatste_update: 2014-12-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035963"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-12-20"
+last_updated: "2014-12-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035963"
+soort: "ministeriele-regeling"
+stam_id: "12893423"
+version_id: "21937862"
+internal_id: "C31471811"
+label_id: "12862844"
+dtd_version: "2.0"
+original_entry_into_force: "2014-12-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035963/2014-12-20/0"
+intitule_bron: "Stcrt.2014-36511"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-10"
+intitule_published: "2014-12-19"
+intitule_in_force: "2014-12-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-36511"
+original_signed_date: "2014-12-10"
+original_published_date: "2014-12-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-36511"
+entry_into_force_date: "2014-12-20"
+jci_1_3: "jci1.3:c:BWBR0035963&z=2014-12-20&g=2014-12-20"
+jci_1_0: "1.0:c:BWBR0035963&g=2014-12-20"
+citeertitel_status: "officieel"
+short_title: "Regeling duikopleidingen Defensie 2014"
+signed_date: "2014-12-10"
+entry_into_force: "2014-12-20"
 ---
-
 # Regeling tot aanwijzing van de Defensie Duikschool als certificerende instelling (Regeling duikopleidingen Defensie 2014)
 
 Gelet op [artikel 6.1, derde lid, onder b, van de Arbeidsomstandighedenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&artikel=6.1) en [artikel 14 van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=14);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - **werkveldspecifieke certificatieschema:** het op de specifieke opleiding van toepassing zijnde Werkveldspecifieke certificatieschema als bedoeld in [artikel 6.5 van de Arbeidsomstandighedenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&artikel=6.5).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het opleidingscentrum verzorgt binnen het Ministerie van Defensie:
 
@@ -38,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 3. Op een opleiding, genoemd in het eerste lid, onder b, op het vervolgens af te nemen examen en op het af te geven bewijs van bekwaamheid zijn de generieke paragrafen 4.3. en 5.2. uit de werkveldspecifieke certificatieschema’s voor het persoonscertificaat Duikerarts, Duikmedisch begeleider, Duikploegleider en Duiker van overeenkomstige toepassing.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De opleidingen bestaan uit een praktisch en een theoretisch gedeelte.
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 3. Tijdens de opleiding wordt de cursisten schriftelijk de lesstof verstrekt.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien een kandidaat het examen met goed gevolg heeft afgelegd, overhandigt het opleidingscentrum hem het bewijs van bekwaamheid.
 
@@ -78,7 +104,7 @@ In deze regeling wordt verstaan onder:
 
 5. Het bewijs van bekwaamheid wordt ondertekend door het hoofd van de afdeling Certificerende Instelling Kennis en Kwaliteit van de Defensie Duikschool.
 
-#### Artikel 5
+##### Artikel 5
 
 Het opleidingscentrum voert een administratie waarin ten minste is opgenomen:
 
@@ -94,15 +120,15 @@ Het opleidingscentrum voert een administratie waarin ten minste is opgenomen:
 
 - f. de periode gedurende welke de examenopgaven en de uitwerkingen ervan worden bewaard.
 
-#### Artikel 6
+##### Artikel 6
 
 De Regeling duikopleidingen Defensie (Stcr.t 1995, 75) wordt ingetrokken.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 2014.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling wordt aangehaald als Regeling duikopleidingen Defensie 2014.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit bemiddeling bij effectentransacties"
+title: "Besluit van de Staatssecretaris van Financiën 10 oktober 2025, nr. 2025-16407, over bemiddeling bij effectentransacties (Besluit bemiddeling bij effectentransacties)"
 identifier: "BWBR0051617"
-categorie: "Financieel recht"
-publicatiedatum: 2025-10-16
-laatste_update: 2025-10-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051617"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-16"
+last_updated: "2025-10-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051617"
+soort: "ministeriele-regeling"
+stam_id: "17553273"
+version_id: "30973282"
+internal_id: "C44357981"
+label_id: "17454634"
+dtd_version: "2.0"
+original_entry_into_force: "2025-10-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051617/2025-10-16/0"
+intitule_bron: "Stcrt.2025-34270"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-10-10"
+intitule_published: "2025-10-15"
+intitule_in_force: "2025-10-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-34270"
+original_signed_date: "2025-10-10"
+original_published_date: "2025-10-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-34270"
+entry_into_force_date: "2025-10-16"
+jci_1_3: "jci1.3:c:BWBR0051617&z=2025-10-16&g=2025-10-16"
+jci_1_0: "1.0:c:BWBR0051617&g=2025-10-16"
+citeertitel_status: "officieel"
+short_title: "Besluit bemiddeling bij effectentransacties"
+signed_date: "2025-10-10"
+entry_into_force: "2025-10-16"
 ---
-
 # Besluit van de Staatssecretaris van Financiën 10 oktober 2025, nr. 2025-16407, over bemiddeling bij effectentransacties (Besluit bemiddeling bij effectentransacties)
 
 **De Staatssecretaris van Financiën,**

@@ -1,20 +1,46 @@
 ---
-title: "Mandaatbesluit CJIB Incasso Huursubsidie"
+title: "Besluit van de Minister voor Wonen, Wijken en Integratie van 29 juni 2007, nr. DGW/BO2007.036878, tot het verlenen van mandaat, volmacht en machtiging ter uitvoering van artikel 37 van de Huursubsidiewet (Mandaatbesluit CJIB Incasso Huursubsidie)"
 identifier: "BWBR0022177"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2007-10-12
-laatste_update: 2007-10-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022177"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2007-10-12"
+last_updated: "2007-10-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022177"
+soort: "ministeriele-regeling"
+stam_id: "9137933"
+version_id: "14612362"
+internal_id: "C19892721"
+label_id: "9116834"
+dtd_version: "2.0"
+original_entry_into_force: "2007-07-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022177/2007-10-12/0"
+intitule_bron: "Stcrt.2007-127"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-06-29"
+intitule_published: "2007-07-05"
+intitule_in_force: "2007-07-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-127"
+original_signed_date: "2007-06-29"
+original_published_date: "2007-07-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-127-p32-SC81202"
+entry_into_force_date: "2007-07-07"
+jci_1_3: "jci1.3:c:BWBR0022177&z=2007-10-12&g=2007-10-12"
+jci_1_0: "1.0:c:BWBR0022177&g=2007-10-12"
+citeertitel_status: "officieel"
+short_title: "Mandaatbesluit CJIB Incasso Huursubsidie"
+signed_date: "2007-06-29"
+entry_into_force: "2007-07-07"
 ---
-
 # Besluit van de Minister voor Wonen, Wijken en Integratie van 29 juni 2007, nr. DGW/BO2007.036878, tot het verlenen van mandaat, volmacht en machtiging ter uitvoering van artikel 37 van de Huursubsidiewet (Mandaatbesluit CJIB Incasso Huursubsidie)
 
 Gezien de schriftelijke instemming van de algemeen directeur Centraal Justitieel Incasso Bureau van 18 juni 2007;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Aan de algemeen directeur van het Centraal Justitieel Incasso Bureau wordt mandaat verleend tot:
 
@@ -22,7 +48,7 @@ Aan de algemeen directeur van het Centraal Justitieel Incasso Bureau wordt manda
 
 - b. het beslissen op bezwaarschriften tegen besluiten als bedoeld in onderdeel a, voorzover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen.
 
-#### Artikel 2
+##### Artikel 2
 
 Aan de algemeen directeur van het Centraal Justitieel Incasso Bureau wordt:
 
@@ -32,15 +58,15 @@ Aan de algemeen directeur van het Centraal Justitieel Incasso Bureau wordt:
 
 - c. machtiging verleend tot het voeren van beroepsprocedures over besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022177&artikel=1&z=2007-10-12&g=2007-10-12).
 
-#### Artikel 3
+##### Artikel 3
 
 De algemeen directeur van het Centraal Justitieel Incasso Bureau kan met betrekking tot zijn bevoegheden, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022177&artikel=1&z=2007-10-12&g=2007-10-12) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0022177&artikel=2&z=2007-10-12&g=2007-10-12) ondermandaat, volmacht en machtiging verlenen aan één of meer onder hem ressorterende functionarissen.
 
-#### Artikel 4
+##### Artikel 4
 
 De in de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022177&artikel=1&z=2007-10-12&g=2007-10-12) bedoelde functionarissen van het Centraal Justitieel Incasso Bureau oefenen de bij dit besluit verleende bevoegdheden uit met inachtneming van de instructie opgenomen in de van dit besluit deel uitmakende bijlage.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien uitvoering wordt gegeven aan de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022177&artikel=1&z=2007-10-12&g=2007-10-12) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0022177&artikel=2&z=2007-10-12&g=2007-10-12) luidt de ondertekening:
 
@@ -52,7 +78,7 @@ de algemeen directeur van het het Centraal Justitieel Incasso Bureau,
 
 (gevolgd door de handtekening en naam)
 
-#### Artikel 6
+##### Artikel 6
 
 Indien uitvoering wordt gegeven aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022177&artikel=3&z=2007-10-12&g=2007-10-12) luidt de ondertekening door de ondergemandateerde, gemachtigde en gevolmachtigde:
 
@@ -66,11 +92,11 @@ op last:
 
 (gevolgd door de functieaanduiding, de handtekening en de naam van de betrokken functionaris waaraan ondermandaat is verleend)
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Mandaatbesluit CJIB Incasso Huursubsidie.
 

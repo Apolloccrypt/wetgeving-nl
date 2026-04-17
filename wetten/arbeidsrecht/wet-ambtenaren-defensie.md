@@ -1,14 +1,39 @@
 ---
-title: "Wet ambtenaren defensie"
+title: "Wet van den 19den December 1931, houdende regelen betreffende den rechtstoestand van de militaire ambtenaren"
 identifier: "BWBR0001952"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0001952"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001952"
+soort: "wet"
+stam_id: "1675723"
+version_id: "25832632"
+internal_id: "C37246941"
+label_id: "1629104"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001952/2026-01-01/0"
+intitule_bron: "Stb.1931-519"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1931-12-19"
+intitule_status: "goed"
+original_publication: "Stb.2019-173"
+original_signed_date: "2019-04-17"
+original_published_date: "2019-05-16"
+original_effect: "structuurwijziging"
+original_dossier: "35073"
+original_url_id: "stb-2019-173"
+entry_into_force_date: "2020-01-01"
+jci_1_3: "jci1.3:c:BWBR0001952&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0001952&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet ambtenaren defensie"
+signed_date: "2019-04-17"
+entry_into_force: "2020-01-01"
 ---
-
-# Wet ambtenaren defensie
+# Wet van den 19den December 1931, houdende regelen betreffende den rechtstoestand van de militaire ambtenaren
 
 Allen, die deze zullen zien of hooren lezen, salut! doen te weten:
 
@@ -18,7 +43,7 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 ## Titel I. Algemeene bepaling
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -54,13 +79,13 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 ## Titel II. Bezwaar, beroep en klachtrecht
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
 #### § 2. Rechtsmacht
 
-#### Artikel 3
+##### Artikel 3
 
 1. In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7) bedraagt de termijn voor het indienen van een bezwaar- of beroepschrift dertien weken, indien de belanghebbende zich om redenen van dienst buiten Nederland bevindt.
 
@@ -70,11 +95,11 @@ Vervallen
 
 4. Indien dringende redenen van operationele aard verhinderen dat binnen de in het derde lid bedoelde termijn wordt beslist, kan deze termijn ten hoogste twee keer met drie maanden worden verlengd.
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 1. De [eerste volzin van artikel 54, derde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=54) is van overeenkomstige toepassing indien beroep is ingesteld door nagelaten betrekkingen of rechtverkrijgenden.
 
@@ -96,27 +121,27 @@ Vervallen
 
 - b. bij ontslag uit de militaire dienst ter zake van onbekwaamheid of ongeschiktheid anders dan uit hoofde van een ziekte of een gebrek, en dat mede schorsing plaats heeft indien het militaire lid in zijn militaire ambt is geschorst.
 
-#### Artikel 5a
+##### Artikel 5a
 
 [Artikel 66, vijfde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=66) is van overeenkomstige toepassing ten aanzien van een militair lid.
 
-#### Artikel 5b
+##### Artikel 5b
 
 Aan de militaire leden wordt een vergoeding toegekend met overeenkomstige toepassing van de regels die gelden voor de rechters-plaatsvervangers.
 
-#### Artikel 6
+##### Artikel 6
 
 In afwijking van [artikel 8:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:12) kan de rechtbank ook aan de commandant van de bodem waarop of het korps of de inrichting waarbij de betrokken militaire ambtenaar dient of heeft gediend, opdragen het vooronderzoek of een gedeelte daarvan te verrichten.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien tijdens de behandeling van een beroep blijkt, dat een samenhangend strafrechtelijk onderzoek of een tuchtproces ingevolge de [Wet militair tuchtrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0004788) aanhangig is, wordt de behandeling, tenzij het beroep tegen een voorloopige voorziening is gericht, tot na afloop van dat onderzoek of dat tuchtproces geschorst.
 
-#### Artikel 8
+##### Artikel 8
 
 Een uitspraak van den strafrechter, in kracht van gewijsde gegaan, of ingevolge de [Wet militair tuchtrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0004788) in beroep gewezen, waarbij de militaire ambtenaar aan eenig feit is schuldig verklaard, geldt in een militaire ambtenarenzaak als bewijs van dat feit.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De militaire ambtenaar die zich bezwaard voelt over een van een militaire meerdere als bedoeld in [artikel 67 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=67) ontvangen bevel, dan wel meent van een zodanige meerdere een krenkende of onbillijke behandeling te hebben ondervonden, kan daarover in afwijking van [artikel 9:8, eerste lid, onder b, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:8) binnen zes weken schriftelijk een met redenen omklede klacht indienen bij de tot straffen bevoegde militaire meerdere, bedoeld in [artikel 49 van de Wet militair tuchtrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&artikel=49) onder wiens rechtstreeks bevel degene, tegen wie de klacht is gericht, is gesteld dan wel bij een door Onze Minister aangewezen functionaris.
 
@@ -126,7 +151,7 @@ Een uitspraak van den strafrechter, in kracht van gewijsde gegaan, of ingevolge 
 
 4. Bij algemene maatregel van bestuur worden nadere regels gesteld ter uitvoering van dit artikel.
 
-#### Artikel 10
+##### Artikel 10
 
 1. In deze titel wordt verstaan onder bezoldiging:
 
@@ -140,13 +165,13 @@ Een uitspraak van den strafrechter, in kracht van gewijsde gegaan, of ingevolge 
 
 ## Titel III. Van middelen tot bewaring en verwerkelijking van recht
 
-#### Artikel 11
+##### Artikel 11
 
 [Artikel 4:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) is niet van toepassing op beschikkingen inzake functietoewijzing, bevordering en aanwijzing voor het volgen van een opleiding.
 
 ## Titel III. Van middelen tot bewaring en verwerkelijking van recht
 
-#### Artikel 12
+##### Artikel 12
 
 Voor zover deze onderwerpen niet reeds bij of krachtens de wet zijn geregeld, worden voor de militaire ambtenaren bij of krachtens algemene maatregel van bestuur voorschriften vastgesteld betreffende:
 
@@ -184,7 +209,7 @@ Voor zover deze onderwerpen niet reeds bij of krachtens de wet zijn geregeld, wo
 
 - q. de gevallen waarin berichten inzake de rechtspositie van de ambtenaar in afwijking van de [artikelen 2:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:7), en [2:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:8) uitsluitend elektronisch verzonden behoeven te worden en de voorwaarden die daarbij in acht worden genomen.
 
-#### Artikel 12a
+##### Artikel 12a
 
 1. De militaire ambtenaar dient zich te onthouden van het openbaren van gedachten of gevoelens dan wel de uitoefening van het recht tot vereniging, tot vergadering en tot betoging, indien door de uitoefening van deze rechten de goede vervulling van zijn functie of de goede functionering van de openbare dienst, voor zover deze in verband staat met zijn functievervulling, niet in redelijkheid zou zijn verzekerd.
 
@@ -198,11 +223,11 @@ Voor zover deze onderwerpen niet reeds bij of krachtens de wet zijn geregeld, wo
 
 3. De militaire ambtenaar is verplicht tot geheimhouding van enig gegeven, de dienst betreffende, tegenover een ieder die tot kennisneming daarvan niet bevoegd is, voor zover die verplichting uit de aard der zaak volgt.
 
-#### Artikel 12b
+##### Artikel 12b
 
 De militaire ambtenaar is niet gehouden tot dienstverrichting op voor hem op grond van zijn godsdienst of levensovertuiging geldende feest- en rustdagen, tenzij het dienstbelang dit onvermijdelijk maakt.
 
-#### Artikel 12c
+##### Artikel 12c
 
 1. Een militair ambtenaar, die een functie in een publiekrechtelijk college, waarin hij is benoemd of verkozen, gezien de omvang van de daaruit voortvloeiende werkzaamheden niet gelijktijdig kan vervullen met zijn functie, wordt in verband daarmee op non-activiteit gesteld, tenzij de belangen van de dienst vorderen dat zulks niet geschiedt. Betreffende het doorbetalen van bezoldiging kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld.
 
@@ -210,7 +235,7 @@ De militaire ambtenaar is niet gehouden tot dienstverrichting op voor hem op gro
 
 3. Aan de militaire ambtenaar wordt, tenzij de belangen van de dienst vorderen dat het verlof niet wordt verleend, buitengewoon verlof verleend voor aan te wijzen activiteiten van of voor een vereniging van militairen overeenkomstig regels te stellen bij of krachtens algemene maatregel van bestuur.
 
-#### Artikel 12d
+##### Artikel 12d
 
 1. De militaire ambtenaar is verplicht zich tijdens het verblijf in een gebouw, luchtvaartuig of voertuig alsmede op een vaartuig of een terrein, dat in gebruik is bij of ten behoeve van de krijgsmacht of dat de militaire ambtenaar tot verblijf of gebruik dient bij de vervulling van zijn taak in internationaal verband, te onderwerpen aan een in het belang van de dienst door het bevoegd gezag gelast onderzoek aan zijn lichaam of zijn kleding of van zijn daar aanwezige goederen.
 
@@ -232,7 +257,7 @@ De militaire ambtenaar is niet gehouden tot dienstverrichting op voor hem op gro
 
 - c. naar aanleiding van het onderzoek bedoeld in het derde lid onder b, zijn bloed te laten onderzoeken op een alcoholgehalte van meer dan 0,5 milligram per milliliter bloed.
 
-#### Artikel 12e
+##### Artikel 12e
 
 Het is de militaire ambtenaar in werkelijke dienst verboden, anders dan met toestemming of in opdracht van Onze Minister, te reizen naar dan wel te verblijven in:
 
@@ -240,11 +265,11 @@ Het is de militaire ambtenaar in werkelijke dienst verboden, anders dan met toes
 
 - b. een land of landsdeel waar feitelijk een gewapend conflict bestaat.
 
-#### Artikel 12f
+##### Artikel 12f
 
 Een gewezen militair ambtenaar, die op het tijdstip van ingang van zijn eervol ontslag tenminste vijftien jaar tot het beroeps- of reserve-personeel heeft behoord, behoudt de status van militair ten aanzien van door Onze Minister te bepalen voorrechten, zulks tenzij hij van rechtswege is ontslagen of zich uit Nederlands nationaal oogpunt beschouwd onwaardig heeft gedragen. Bij de bepaling van de termijn van vijftien jaar telt mee de tijd, die betrokkene als dienstplichtige in werkelijke dienst heeft doorgebracht.
 
-#### Artikel 12g
+##### Artikel 12g
 
 1. Voor de aanstelling als militair ambtenaar komt, tenzij bij of krachtens algemene maatregel van bestuur anders wordt bepaald, slechts in aanmerking degene die Nederlander is.
 
@@ -254,37 +279,37 @@ Een gewezen militair ambtenaar, die op het tijdstip van ingang van zijn eervol o
 
 ## Titel III. Van middelen tot bewaring en verwerkelijking van recht
 
-#### Artikel 13
+##### Artikel 13
 
 Met ingang van het tijdstip van inwerkingtreding van [artikel I van de Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393&artikel=I) berust de aanstelling die voor dat tijdstip is verleend aan een bij het ministerie van Defensie werkzame ambtenaar op [artikel 12o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IVa&artikel=12o&z=2026-01-01&g=2026-01-01). De op dat tijdstip ten aanzien van de ambtenaar bestaande beslissingen, afspraken en toezeggingen inzake zijn arbeidsvoorwaarden, waaronder in ieder geval de duur van het dienstverband, de bezoldiging, werktijden, werkrooster, verlof, faciliteiten voor de uitoefening van de functie en studiefaciliteiten, behouden hun geldigheid.
 
 #### § 1. Overgangsbepaling
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
 #### § 2. Slotbepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 De artikelen van deze wet treden in werking op een door Ons te bepalen tijdstip, dat voor verschillende artikelen verschillend kan worden gesteld.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze wet wordt aangehaald als: Wet ambtenaren defensie.
 
 Lasten en bevelen, dat deze met een indeeling in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 12bis
+##### Artikel 12bis
 
 Het bevoegd gezag en de militaire ambtenaar zijn verplicht zich als een goed werkgever en een goed militair ambtenaar te gedragen.
 
-#### Artikel 12ter
+##### Artikel 12ter
 
 1. Onze Minister voert een integriteitsbeleid dat is gericht op het bevorderen van goed ambtelijk handelen en dat in ieder geval aandacht besteedt aan het bevorderen van integriteitsbewustzijn en aan het voorkomen van misbruik van bevoegdheden, belangenverstrengeling en discriminatie.
 
@@ -294,7 +319,7 @@ Het bevoegd gezag en de militaire ambtenaar zijn verplicht zich als een goed wer
 
 4. Onze Minister stelt in overeenstemming met de Tweede Kamer vast op welke wijze jaarlijks verantwoording wordt afgelegd over het gevoerde integriteitsbeleid en over de naleving van de gedragscode.
 
-#### Artikel 12quater
+##### Artikel 12quater
 
 1. Voor zover deze onderwerpen niet bij of krachtens de wet zijn geregeld, worden voor de militaire ambtenaren bij of krachtens algemene maatregel van bestuur voorschriften vastgesteld betreffende:
 
@@ -320,7 +345,7 @@ Het bevoegd gezag en de militaire ambtenaar zijn verplicht zich als een goed wer
 
 Lasten en bevelen, dat deze met een indeeling in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1b
+##### Artikel 1b
 
 Voor zover dit met het oog op de goede uitvoering van de operationele taken van krijgsmacht noodzakelijk is, kan Onze Minister in buitengewone omstandigheden afwijken van hetgeen bij of krachtens deze wet is bepaald.
 
@@ -332,7 +357,7 @@ Voor zover dit met het oog op de goede uitvoering van de operationele taken van 
 
 ## Titel IV. Bepalingen van materieel recht
 
-#### Artikel 12quinquies
+##### Artikel 12quinquies
 
 Bij of krachtens algemene maatregel van bestuur worden ten behoeve van het reguleren van de instroom, doorstroom en uitstroom van militair personeel regels gesteld met betrekking tot:
 
@@ -344,7 +369,7 @@ Bij of krachtens algemene maatregel van bestuur worden ten behoeve van het regul
 
 - d. het verlenen van ontslag aan militaire ambtenaren wegens het bereiken of overschrijden van een voor de individuele militair te bepalen leeftijd, gelegen vóór de leeftijd van vijfenzestig jaar.
 
-#### Artikel 12h
+##### Artikel 12h
 
 1. Aan de militair ambtenaar in werkelijke dienst wordt gezondheidszorg verleend door of vanwege de militair geneeskundige dienst. De militair ambtenaar in werkelijke dienst is gehouden zich tot het voor hem aangewezen medisch zorgteam te wenden ter verkrijging van gezondheidszorg. Indien zulks onmogelijk is, kan de militair zich wenden tot een ander onderdeel van de militair geneeskundige dienst of tot een civiele arts, waarvan hij vanwege de noodzaak tot voortdurend zicht op de inzetbaarheid mededeling doet aan het voor hem aangewezen zorgteam.
 
@@ -374,13 +399,13 @@ Het in de eerste volzin bedoelde onderzoek wordt verricht door artsen die niet z
 
 7. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de verwerking van persoonsgegevens en medische gegevens over militairen door of ten behoeve van het medisch zorgteam en omtrent verplichtingen van militaire artsen en overig tot de militair geneeskundige dienst behorend personeel die het registreren, kennisnemen en overdragen van medische gegevens met betrekking tot de militair betreffen.
 
-#### Artikel 12i
+##### Artikel 12i
 
 1. Het is de militair ambtenaar in werkelijke dienst niet toegestaan om deel te nemen aan een staking.
 
 2. Het is de militair ambtenaar in werkelijke dienst toegestaan om deel te nemen aan andere vormen van collectieve actie tenzij deelname aan die collectieve actie de operationele inzet van de krijgsmacht kan verstoren of belemmeren.
 
-#### Artikel 12j
+##### Artikel 12j
 
 1. De militair ambtenaar is gehouden tot het naar beste vermogen uitvoeren van de hem in het belang van de taakuitoefening van de krijgsmacht opgedragen werkzaamheden en diensten.
 
@@ -392,7 +417,7 @@ Het in de eerste volzin bedoelde onderzoek wordt verricht door artsen die niet z
 
 5. Indien militairen worden verplicht tot het verrichten van werkzaamheden als bedoeld in het vierde lid kan Onze Minister een militair ambtenaar in werkelijke dienst, die bestuurslid of kaderlid is van een vakorganisatie van overheidspersoneel, op diens aanvraag tijdelijk van deze verplichting ontheffen.
 
-#### Artikel 12k
+##### Artikel 12k
 
 1. Aan een aanstelling als militair ambtenaar bij het beroepspersoneel is de verplichting verbonden om een bij of krachtens algemene maatregel van bestuur te bepalen termijn, doch ten hoogste gedurende de initiële opleiding en aansluitend een periode van vier jaar, deel uit te blijven maken van het beroepspersoneel.
 
@@ -404,7 +429,7 @@ Het in de eerste volzin bedoelde onderzoek wordt verricht door artsen die niet z
 
 3. Aan een aanwijzing, op aanvraag van een militair ambtenaar in werkelijke dienst, voor het volgen van een opleiding waarbij de militair ambtenaar wordt vrijgesteld van werkzaamheden en diensten als militair, kan door Onze Minister de verplichting worden verbonden om een periode van ten hoogste twee maal de periode dat hij is vrijgesteld deel te blijven uitmaken van het beroepspersoneel.
 
-#### Artikel 12l
+##### Artikel 12l
 
 1. Aan een aanstelling als militair ambtenaar bij het reservepersoneel is de verplichting verbonden om gedurende de initiële opleiding en aansluitend een periode van vier jaar, deel te blijven uitmaken van het reservepersoneel.
 
@@ -418,7 +443,7 @@ Het in de eerste volzin bedoelde onderzoek wordt verricht door artsen die niet z
 
 4. Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot het in werkelijke dienst oproepen of toestaan in werkelijke dienst te komen van reservepersoneel.
 
-#### Artikel 12m
+##### Artikel 12m
 
 Een ontslagaanvraag van een militair ambtenaar kan worden afgewezen en een reeds verleend, doch nog niet ingegaan, ontslag kan worden ingetrokken of opgeschort:
 
@@ -440,7 +465,7 @@ Een ontslagaanvraag van een militair ambtenaar kan worden afgewezen en een reeds
 
 Lasten en bevelen, dat deze met een indeeling in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. Tot militair ambtenaar kunnen worden aangesteld zij die de leeftijd van 18 jaar hebben bereikt.
 
@@ -466,7 +491,7 @@ Lasten en bevelen, dat deze met een indeeling in het **Staatsblad** zal worden g
 
 Lasten en bevelen, dat deze met een indeeling in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 12n
+##### Artikel 12n
 
 Een ontslag van een militair die is ingezet als bedoeld in [artikel 1, onder d, van de Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=1) gaat niet eerder in dan nadat ten minste drie maanden zijn verstreken na de dag waarop de militair is teruggekeerd van de inzet, tenzij de militair uitdrukkelijk anders verzoekt.
 
@@ -476,17 +501,17 @@ Een ontslag van een militair die is ingezet als bedoeld in [artikel 1, onder d, 
 
 Lasten en bevelen, dat deze met een indeeling in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 10a
+##### Artikel 10a
 
 1. Op bezoldiging is, voor zover in deze wet niet anders is bepaald, beslag mogelijk overeenkomstig de voorschriften van het gemene recht.
 
 2. Kostenvergoedingen welke verband houden met de dienstverrichting zijn niet vatbaar voor beslag.
 
-#### Artikel 10b
+##### Artikel 10b
 
 Door Onze Minister onverschuldigd betaalde bezoldiging kan worden teruggevorderd.
 
-#### Artikel 10c
+##### Artikel 10c
 
 1. Met verschuldigde bezoldiging kan worden verrekend hetgeen de ambtenaar als zodanig aan Onze Minister verschuldigd is.
 
@@ -494,7 +519,7 @@ Door Onze Minister onverschuldigd betaalde bezoldiging kan worden teruggevorderd
 
 3. Verrekening is slechts in zoverre geldig als een beslag op die bezoldiging geldig zou zijn, met dien verstande dat verrekening van hetgeen wegens genoten huisvesting of voeding is verschuldigd eveneens kan plaatsvinden met dat deel van de bezoldiging dat de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c) vormt.
 
-#### Artikel 10d
+##### Artikel 10d
 
 1. Onze Minister kan op de bezoldiging ten behoeve van een schuldeiser van de ambtenaar een korting toepassen, mits de ambtenaar de vordering van de schuldeiser erkent of het bestaan van de vordering blijkt uit een in kracht van gewijsde gegane rechterlijke uitspraak dan wel uit een authentieke akte.
 
@@ -502,21 +527,21 @@ Door Onze Minister onverschuldigd betaalde bezoldiging kan worden teruggevorderd
 
 3. Beslag, faillissement, surséance van betaling en toepassing ten aanzien van de ambtenaar van de schuldsaneringsregeling natuurlijke personen sluiten korting uit.
 
-#### Artikel 10e
+##### Artikel 10e
 
 Voor de toepassing van [artikel 475b, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475b) worden, onverminderd [artikel 10c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IIa&artikel=10c&z=2026-01-01&g=2026-01-01), en [artikel 10d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IIa&artikel=10d&z=2026-01-01&g=2026-01-01), verrekening en korting gelijkgesteld met beslag.
 
-#### Artikel 10f
+##### Artikel 10f
 
 Indien verscheidene schuldeisers uit hoofde van beslag of korting aanspraak hebben op een deel van de bezoldiging, geschiedt de verdeling naar evenredigheid der inschulden, voor zover niet de ene schuldeiser voorrang heeft boven de anderen.
 
-#### Artikel 10g
+##### Artikel 10g
 
 1. Overdracht, inpandgeving of elke andere handeling, waardoor de ambtenaar enig recht op zijn bezoldiging aan een derde toekent is slechts geldig voor dat deel van de bezoldiging waarop beslag geldig zou zijn.
 
 2. Een volmacht tot voldoening of invordering van de bezoldiging is slechts geldig indien zij schriftelijk is verleend en is steeds herroepelijk.
 
-#### Artikel 10h
+##### Artikel 10h
 
 Betaling of afgifte aan een gemachtigde, nadat een volmacht tot voldoening of invorderingen van bezoldiging is geëindigd, ontlasten Onze Minister, indien een gegeven opdracht tot de betaling of afgifte niet meer tijdig kon worden ingetrokken, toen Onze Minister van het eindigen van de volmacht kennis kreeg.
 
@@ -524,7 +549,7 @@ Betaling of afgifte aan een gemachtigde, nadat een volmacht tot voldoening of in
 
 ## Titel IVa. Burgerlijke ambtenaren, werkzaam bij het Ministerie van Defensie
 
-#### Artikel 12o
+##### Artikel 12o
 
 1. Onze Minister kan burgerlijke ambtenaren aanstellen om werkzaam te zijn bij het Ministerie van Defensie.
 
@@ -566,7 +591,7 @@ Betaling of afgifte aan een gemachtigde, nadat een volmacht tot voldoening of in
 
 6. De [artikelen 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IV&artikel=12b&z=2026-01-01&g=2026-01-01) en [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&titeldeel=IV&artikel=12c&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing op de ambtenaren, bedoeld in het eerste lid.
 
-#### Artikel 12p
+##### Artikel 12p
 
 1. Het bevoegd gezag maakt geen onderscheid tussen ambtenaren op grond van een verschil in arbeidsduur in de voorwaarden waaronder een aanstelling wordt verleend, verlengd dan wel beëindigd, tenzij een dergelijk onderscheid objectief gerechtvaardigd is.
 
@@ -580,7 +605,7 @@ Betaling of afgifte aan een gemachtigde, nadat een volmacht tot voldoening of in
 
 6. Het College, bedoeld in [artikel 1 van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=1), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in dit artikel. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=13), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=22) en [23 van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=23) zijn van overeenkomstige toepassing.
 
-#### Artikel 12q
+##### Artikel 12q
 
 1. Voor de burgerlijke ambtenaar die de in [artikel 7, eerste lid, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) bedoelde leeftijd heeft bereikt en die is aangesteld in tijdelijke dienst geldt die aanstelling als een aanstelling in vaste dienst vanaf de dag waarop:
 

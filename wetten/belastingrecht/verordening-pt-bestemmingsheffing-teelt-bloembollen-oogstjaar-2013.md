@@ -1,13 +1,38 @@
 ---
-title: "Verordening PT bestemmingsheffing teelt bloembollen oogstjaar 2013"
+title: "Verordening van het bestuur van het Productschap Tuinbouw van 26 maart 2013, houdende de vaststelling van een bestemmingsheffing ten behoeve van de teelt van bloembollen voor het oogstjaar 2013 (Verordening PT bestemmingsheffing teelt bloembollen oogstjaar 2013)"
 identifier: "BWBR0033943"
-categorie: "Belastingrecht"
-publicatiedatum: 2014-12-31
-laatste_update: 2014-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033943"
+country: "nl"
+rank: "pbo"
+publication_date: "2014-12-31"
+last_updated: "2014-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033943"
+soort: "pbo"
+stam_id: "12376663"
+version_id: "20770382"
+internal_id: "C29834211"
+label_id: "12347744"
+dtd_version: "2.0"
+original_entry_into_force: "2013-09-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033943/2014-12-31/0"
+intitule_bron: "Vbbo.2013-44"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-03-26"
+intitule_published: "2013-09-20"
+intitule_in_force: "2013-09-20"
+intitule_status: "goed"
+original_publication: "Vbbo.2013-44"
+original_signed_date: "2013-03-26"
+original_published_date: "2013-09-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2013-09-22"
+jci_1_3: "jci1.3:c:BWBR0033943&z=2014-12-31&g=2014-12-31"
+jci_1_0: "1.0:c:BWBR0033943&g=2014-12-31"
+citeertitel_status: "officieel"
+short_title: "Verordening PT bestemmingsheffing teelt bloembollen oogstjaar 2013"
+signed_date: "2013-03-26"
+entry_into_force: "2013-09-22"
 ---
-
 # Verordening van het bestuur van het Productschap Tuinbouw van 26 maart 2013, houdende de vaststelling van een bestemmingsheffing ten behoeve van de teelt van bloembollen voor het oogstjaar 2013 (Verordening PT bestemmingsheffing teelt bloembollen oogstjaar 2013)
 
 #### § 1. Begripsbepalingen
@@ -16,7 +41,7 @@ bron: "https://wetten.overheid.nl/BWBR0033943"
 
 #### § 3. Grondslag en hoogte
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aan de ondernemer die bloembollen teelt wordt een bestemmingsheffing opgelegd naar de grondslag grondgebruik.
 
@@ -59,7 +84,7 @@ Gehoord de Commissie voor bollen, knollen en wortelstokken van bloemgewassen d.d
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze verordening wordt verstaan onder:
 
@@ -78,7 +103,7 @@ In deze verordening wordt verstaan onder:
 
 #### § 2. Heffing
 
-#### Artikel 2
+##### Artikel 2
 
 1. De ondernemer die bloembollen teelt is over het oogstjaar een bestemmingsheffing aan het productschap verschuldigd volgens de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033943&paragraaf=3&artikel=4&z=2014-12-31&g=2014-12-31) vermelde heffingsgrondslag met bijbehorende tarieven.
 
@@ -88,7 +113,7 @@ In deze verordening wordt verstaan onder:
 
 4. De bestemmingsheffing, als bedoeld in het eerste lid, wordt vastgesteld en opgelegd op de voet van de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0033943&paragraaf=4&artikel=5&z=2014-12-31&g=2014-12-31) en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562).
 
-#### Artikel 3
+##### Artikel 3
 
 Voor het vaststellen van de heffing als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033943&paragraaf=3&artikel=4&z=2014-12-31&g=2014-12-31), gebruikt het productschap, in afwijking van de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562) en onverminderd het bepaalde in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033943&paragraaf=2&artikel=2&z=2014-12-31&g=2014-12-31), de door ondernemer in het kalenderjaar 2013 bij Dienst Regelingen van het Ministerie van Economische Zaken ingediende Gecombineerde opgave.
 
@@ -96,17 +121,17 @@ Voor het vaststellen van de heffing als bedoeld in [artikel 4, eerste lid](https
 
 #### § 4. Vaststelling en oplegging
 
-#### Artikel 5
+##### Artikel 5
 
 1. De krachtens deze verordening verschuldigde bestemmingsheffing wordt op basis van de door de ondernemer verstrekte gegevens door de voorzitter vastgesteld en aan de ondernemer opgelegd in of na afloop van het oogstjaar waarover deze heffing verschuldigd is en geschiedt door toezending of uitreiking van een heffingsnota aan de ondernemer.
 
 2. Indien geen opgave als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033943&paragraaf=2&artikel=3&z=2014-12-31&g=2014-12-31) is gedaan, kan de voorzitter de ondernemer ambtshalve een heffing opleggen.
 
-#### Artikel 6
+##### Artikel 6
 
 Indien uit ter beschikking van het productschap gekomen gegevens blijkt dat de door de ondernemer verstrekte gegevens of een ambtshalve schatting niet in overeenstemming zijn met de werkelijkheid dan wel in het in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033943&paragraaf=2&artikel=2&z=2014-12-31&g=2014-12-31), bedoelde geval, dan kan een opgelegde heffing aan de hand van deze gegevens door de voorzitter worden herzien en opnieuw worden vastgesteld en opgelegd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De gegevens verkregen uit hoofde van het bepaalde in deze verordening worden in handen gesteld van de voorzitter of door deze aan te wijzen personen van het secretariaat van het productschap.
 
@@ -114,10 +139,10 @@ Indien uit ter beschikking van het productschap gekomen gegevens blijkt dat de d
 
 #### § 5. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Deze verordening treedt in werking met ingang van 1 mei 2013. Indien het Verordeningenblad Bedrijfsorganisatie, waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 mei 2013, treedt deze verordening in werking op de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 mei 2013.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze verordening wordt aangehaald als: Verordening PT bestemmingsheffing teelt bloembollen oogstjaar 2013.

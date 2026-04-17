@@ -1,13 +1,39 @@
 ---
-title: "Regeling verplichte afkoop voorzieningen particuliere huurwoningen 2007"
+title: "Regeling van de Minister voor Wonen, Wijken en Integratie van 21 oktober 2007, nr. DJZ2007096818, Directie Juridische Zaken, Afdeling Wetgeving, houdende regels terzake van verplichte afkoop van jaarlijkse bijdragen, die krachtens de Regeling geldelijke steun voorzieningen aan particuliere huurwoningen 1985 zijn toegekend aan gemeenten (Regeling verplichte afkoop voorzieningen particuliere huurwoningen 2007)"
 identifier: "BWBR0022737"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2007-11-01
-laatste_update: 2007-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022737"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2007-11-01"
+last_updated: "2007-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022737"
+soort: "ministeriele-regeling"
+stam_id: "9256453"
+version_id: "14844802"
+internal_id: "C20196701"
+label_id: "9235114"
+dtd_version: "2.0"
+original_entry_into_force: "2007-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022737/2007-11-01/0"
+intitule_bron: "Stcrt.2007-210"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-10-21"
+intitule_published: "2007-10-30"
+intitule_in_force: "2007-10-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-210"
+original_signed_date: "2007-10-21"
+original_published_date: "2007-10-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-210-p15-SC82780"
+entry_into_force_date: "2007-11-01"
+jci_1_3: "jci1.3:c:BWBR0022737&z=2007-11-01&g=2007-11-01"
+jci_1_0: "1.0:c:BWBR0022737&g=2007-11-01"
+citeertitel_status: "officieel"
+short_title: "Regeling verplichte afkoop voorzieningen particuliere huurwoningen 2007"
+signed_date: "2007-10-21"
+entry_into_force: "2007-11-01"
 ---
-
 # Regeling van de Minister voor Wonen, Wijken en Integratie van 21 oktober 2007, nr. DJZ2007096818, Directie Juridische Zaken, Afdeling Wetgeving, houdende regels terzake van verplichte afkoop van jaarlijkse bijdragen, die krachtens de Regeling geldelijke steun voorzieningen aan particuliere huurwoningen 1985 zijn toegekend aan gemeenten (Regeling verplichte afkoop voorzieningen particuliere huurwoningen 2007)
 
 Gelet op [artikel 2, eerste lid, van het Invoeringsbesluit Wet stedelijke vernieuwing](https://wetten.overheid.nl/jci1.3:c:BWBR0011957&artikel=2);
@@ -16,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Algemene bepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 2. Aangepaste regels voor toekenning van nog openstaande bedragen met een vervaldatum voor 1 november 2007
 
-#### Artikel 2
+##### Artikel 2
 
 1. Indien er jegens een gemeente op grond van een verbintenis nog een bedrag openstaat met een vervaldatum in de periode van 1 november 2006 tot 1 november 2007, en er jegens die gemeente een beschikking is genomen op grond van de PHW voor de periode 1 november 2005 tot 1 november 2006, kent de Minister dat bedrag toe.
 
@@ -40,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 3. De Minister kent aan een gemeente bij een beschikking het totaal aan bedragen toe dat op grond van het eerste lid kan worden toegekend. Het toegekende bedrag wordt uiterlijk op 31 december 2007 uitbetaald.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Indien er jegens een gemeente op grond van een verbintenis nog een bedrag openstaat met een vervaldatum in de periode voorafgaand aan 1 november 2006 kan de gemeente tot 1 november 2007 aan de Minister doen toekomen de verhuurverklaring aangaande de desbetreffende woning of de desbetreffende woningen of in plaats daarvan een document, waarin burgemeester en wethouders verklaren dat de desbetreffende woning of de desbetreffende woningen naar hun beste weten gedurende de desbetreffende periode als huurwoning in gebruik was of waren.
 
@@ -54,13 +80,13 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 3. Subsidie ter beëindiging van verbintenissen van het Rijk jegens gemeenten die voortvloeien uit de PHW
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Minister stelt bij beschikking het totaalbedrag vast, waartegen aanspraken op grond van verbintenissen jegens een gemeente met een vervaldatum vanaf 1 november 2007 worden afgekocht.
 
 2. De Minister voegt bij de beschikking een totaaloverzicht van de verbintenissen, bedoeld in het eerste lid, en de daarbij behorende afkoopbedragen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het subsidiebedrag per verbintenis van het Rijk jegens een gemeente wordt overeenkomstig het tweede tot en met het vierde lid vastgesteld.
 
@@ -70,7 +96,7 @@ In deze regeling wordt verstaan onder:
 
 4. Het overeenkomstig het derde lid berekende bedrag wordt vermeerderd met een rente van 4,00% per jaar, te rekenen vanaf 1 november 2007 tot en met 30 december 2007.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Voor de toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022737&paragraaf=3&artikel=5&z=2007-11-01&g=2007-11-01) wordt uitgegaan van maanden van dertig dagen en van een jaar van 360 dagen.
 
@@ -78,7 +104,7 @@ In deze regeling wordt verstaan onder:
 
 3. Voor de toepassing van [artikel 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022737&paragraaf=3&artikel=5&z=2007-11-01&g=2007-11-01), wordt de disconteringsvoet (i) gesteld op 0,0400 (4,00%).
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het bedrag van de eenmalige subsidie aan de gemeente komt overeen met het totaal aan subsidiebedragen, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022737&paragraaf=3&artikel=5&z=2007-11-01&g=2007-11-01).
 
@@ -90,17 +116,17 @@ In deze regeling wordt verstaan onder:
 
 - c. aanspraken van de gemeente op het Rijk als gevolg van herziening van beschikkingen op grond van de PHW vervallen.
 
-#### Artikel 8
+##### Artikel 8
 
 Na de beschikking tot subsidievaststelling wordt het subsidiebedrag uiterlijk op 31 december 2007 uitbetaald.
 
 #### Paragraaf 4. Slotbepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling verplichte afkoop voorzieningen particuliere huurwoningen 2007.
 

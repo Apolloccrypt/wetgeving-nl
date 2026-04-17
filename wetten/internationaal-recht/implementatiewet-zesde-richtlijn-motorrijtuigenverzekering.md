@@ -1,34 +1,62 @@
 ---
-title: "Implementatiewet zesde richtlijn motorrijtuigenverzekering"
+title: "Wet van 25 augustus 2023 tot wijziging van de Wet aansprakelijkheidsverzekering motorrijtuigen en de Wet op het financieel toezicht in verband met de implementatie van Richtlijn (EU) 2021/2118 tot wijziging van Richtlijn 2009/103/EG betreffende de verzekering tegen de wettelijke aansprakelijkheid waartoe de deelneming aan het verkeer van motorrijtuigen aanleiding kan geven en de controle op de verzekering tegen deze aansprakelijkheid (PbEU 2021, L 430) (Implementatiewet zesde richtlijn motorrijtuigenverzekering)"
 identifier: "BWBR0048683"
-categorie: "Internationaal recht"
-publicatiedatum: 2024-07-10
-laatste_update: 2024-07-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048683"
+country: "nl"
+rank: "wet"
+publication_date: "2024-07-10"
+last_updated: "2024-07-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048683"
+soort: "wet"
+stam_id: "16870303"
+version_id: "29650182"
+internal_id: "C42431711"
+label_id: "16782464"
+dtd_version: "2.0"
+original_entry_into_force: "2023-10-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048683/2024-07-10/0"
+intitule_bron: "Stb.2023-321"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-08-25"
+intitule_published: "2023-10-02"
+intitule_in_force: "2023-10-02"
+intitule_status: "goed"
+original_publication: "Stb.2023-321"
+original_signed_date: "2023-08-25"
+original_published_date: "2023-10-02"
+original_effect: "nieuwe-regeling"
+original_dossier: "36339"
+original_url_id: "stb-2023-321"
+entry_into_force_date: "2023-10-03"
+entry_into_force_dossier: "36339"
+jci_1_3: "jci1.3:c:BWBR0048683&z=2024-07-10&g=2024-07-10"
+jci_1_0: "1.0:c:BWBR0048683&g=2024-07-10"
+citeertitel_status: "officieel"
+short_title: "Implementatiewet zesde richtlijn motorrijtuigenverzekering"
+signed_date: "2023-08-25"
+entry_into_force: "2023-10-03"
 ---
+# Wet van 25 augustus 2023 tot wijziging van de Wet aansprakelijkheidsverzekering motorrijtuigen en de Wet op het financieel toezicht in verband met de implementatie van Richtlijn (EU) 2021/2118 tot wijziging van Richtlijn 2009/103/EG betreffende de verzekering tegen de wettelijke aansprakelijkheid waartoe de deelneming aan het verkeer van motorrijtuigen aanleiding kan geven en de controle op de verzekering tegen deze aansprakelijkheid (PbEU 2021, L 430) (Implementatiewet zesde richtlijn motorrijtuigenverzekering)
 
-# Implementatiewet zesde richtlijn motorrijtuigenverzekering
-
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet aansprakelijkheidsverzekering motorrijtuigen.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op het financieel toezicht.
 
-#### Artikel IIa
+##### Artikel IIa
 
 Wijzigt de Faillissementswet.
 
-#### Artikel III
+##### Artikel III
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 2. In afwijking van het vorige lid treedt het in [artikel I, onderdeel O](https://wetten.overheid.nl/jci1.3:c:BWBR0048683&artikel=I&z=2024-07-10&g=2024-07-10), opgenomen [artikel 26d van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=26d) in werking met ingang van 23 juni 2023. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 22 juni 2023, treedt het in artikel I, onderdeel O, opgenomen artikel 26d van de Wet aansprakelijkheidsverzekering motorrijtuigen in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, en werkt dit artikel terug tot en met 23 juni 2023.
 
-#### Artikel IV
+##### Artikel IV
 
 Deze wet wordt aangehaald als: Implementatiewet zesde richtlijn motorrijtuigenverzekering.
 

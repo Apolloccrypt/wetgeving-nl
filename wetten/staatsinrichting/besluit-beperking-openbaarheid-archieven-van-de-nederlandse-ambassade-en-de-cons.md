@@ -1,20 +1,46 @@
 ---
-title: "Besluit beperking openbaarheid archieven van de Nederlandse Ambassade en de Consulaten in de Bondsrepubliek Duitsland van het Ministerie van Buitenlandse Zaken, (1938) 1955–1974 (1979)"
+title: "Besluit van de Minister van Buitenlandse Zaken van 13 maart 2009, nr. DDI/ST/reg. 012/2009, houdende beperking van de openbaarheid van de archieven van de Nederlandse Ambassade en de Consulaten in de Bondsrepubliek Duitsland van het Ministerie van Buitenlandse Zaken, (1938) 1955–1974 (1979)"
 identifier: "BWBR0025589"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2009-04-02
-laatste_update: 2009-04-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025589"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2009-04-02"
+last_updated: "2009-04-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025589"
+soort: "ministeriele-regeling"
+stam_id: "9962563"
+version_id: "16269592"
+internal_id: "C22299511"
+label_id: "9938894"
+dtd_version: "2.0"
+original_entry_into_force: "2009-04-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025589/2009-04-02/0"
+intitule_bron: "Stcrt.2009-62"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-03-13"
+intitule_published: "2009-03-31"
+intitule_in_force: "2009-03-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-62"
+original_signed_date: "2009-03-13"
+original_published_date: "2009-03-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-4723"
+entry_into_force_date: "2009-04-02"
+jci_1_3: "jci1.3:c:BWBR0025589&z=2009-04-02&g=2009-04-02"
+jci_1_0: "1.0:c:BWBR0025589&g=2009-04-02"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid archieven van de Nederlandse Ambassade en de Consulaten in de Bondsrepubliek Duitsland van het Ministerie van Buitenlandse Zaken, (1938) 1955–1974 (1979)"
+signed_date: "2009-03-13"
+entry_into_force: "2009-04-02"
 ---
-
 # Besluit van de Minister van Buitenlandse Zaken van 13 maart 2009, nr. DDI/ST/reg. 012/2009, houdende beperking van de openbaarheid van de archieven van de Nederlandse Ambassade en de Consulaten in de Bondsrepubliek Duitsland van het Ministerie van Buitenlandse Zaken, (1938) 1955–1974 (1979)
 
 Gelet op [artikel 15, eerste lid, onder a, b en c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Met het oog op de eerbiediging van de persoonlijke levenssfeer, zijn de inventarisnummers, genoemd in de eerste kolom, van de archieven van de Nederlandse Ambassade en de Consulaten in de Bondsrepubliek Duitsland van het Ministerie van Buitenlandse Zaken, (1938) 1955–1974 (1979), openbaar met ingang van 1 januari van het jaar, genoemd in de tweede kolom. Tot laatst bedoelde datum zijn de dossiers onder deze inventarisnummers niet openbaar.
 
@@ -62,7 +88,7 @@ Besluit:
 | 2383 | 2048 |
 | 3352 | 2040 |
 
-#### Artikel 2
+##### Artikel 2
 
 Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom, van de archieven van de Nederlandse Ambassade en de Consulaten in de Bondsrepubliek Duitsland van het Ministerie van Buitenlandse Zaken, (1938) 1955–1974 (1979), openbaar met ingang van 1 januari van het jaar, genoemd in de tweede kolom:
 
@@ -160,15 +186,15 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 | 4373 | 2026 |
 | 4374 | 2027 |
 
-#### Artikel 3
+##### Artikel 3
 
 Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025589&artikel=2&z=2009-04-02&g=2009-04-02), is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. Indiening van een verzoek tot inzage geschiedt door ondertekening door de verzoeker van het ‘Formulier voor toestemming tot raadpleging van niet openbare archieven’; een exemplaar van dit formulier is als bijlage bij dit besluit gevoegd. De directeur kan aan zijn toestemming voorwaarden verbinden.
 
-#### Artikel 4
+##### Artikel 4
 
 Het vervaardigen van reproducties van documenten uit, danwel het publiceren van gegevens uit de archiefbescheiden geborgen onder de inventarisnummers, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025589&artikel=2&z=2009-04-02&g=2009-04-02), is slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. De directeur kan aan zijn toestemming voorwaarden verbinden.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

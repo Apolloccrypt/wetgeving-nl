@@ -1,32 +1,57 @@
 ---
 title: "Regeling uitvoeringsverslag en financieel verslag Wlz-uitvoerder"
 identifier: "BWBR0050527"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-12-10
-laatste_update: 2024-12-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050527"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-12-10"
+last_updated: "2024-12-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050527"
+soort: "zbo"
+stam_id: "17298383"
+version_id: "30466442"
+internal_id: "C43682501"
+label_id: "17202434"
+dtd_version: "2.0"
+original_entry_into_force: "2024-12-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050527/2024-12-10/0"
+intitule_bron: "Stcrt.2024-39704"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-19"
+intitule_published: "2024-12-09"
+intitule_in_force: "2024-12-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-39704"
+original_signed_date: "2024-11-19"
+original_published_date: "2024-12-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-39704"
+entry_into_force_date: "2024-12-10"
+jci_1_3: "jci1.3:c:BWBR0050527&z=2024-12-10&g=2024-12-10"
+jci_1_0: "1.0:c:BWBR0050527&g=2024-12-10"
+citeertitel_status: "officieel"
+signed_date: "2024-11-19"
+entry_into_force: "2024-12-10"
 ---
-
 # Regeling uitvoeringsverslag en financieel verslag Wlz-uitvoerder
 
 De Nederlandse Zorgautoriteit (NZa) houdt toezicht op de rechtmatige en doelmatige uitvoering van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) (Wlz). Deze bevoegdheid is gebaseerd op [artikel 16, sub d, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=16) (Wmg).
 
 Gelet op [artikel 31, sub b, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=31), is de NZa bevoegd tot het stellen van regels op het gebied van de wijze waarop een Wlz-uitvoerder zijn uitvoeringsverslag respectievelijk zijn financieel verslag inricht.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 Voor de begrippen die in deze regeling voorkomen, wordt verwezen naar de Beleidsregel definities Wlz.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Wlz-uitvoerders zijn zowel in hun hoedanigheid als Wlz-uitvoerder als in hun hoedanigheid als zorgkantoor op basis van [artikel 4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.3.1) en [4.3.2 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.3.2) verplicht om jaarlijks een uitvoeringsverslag en een financieel verslag op te stellen over het voorafgaande kalenderjaar en dit bij de NZa in te dienen. Deze regeling beoogt regels te stellen ten aanzien van de wijze waarop de Wlz-uitvoerders het uitvoeringsverslag en het financieel verslag dienen in te richten.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze regeling is van toepassing op de Wlz-uitvoerder als bedoeld in [artikel 1.1.1 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=1.1.1).
 
-#### Artikel 4. Uitvoeringsverslag
+##### Artikel 4. Uitvoeringsverslag
 
 Het uitvoeringsverslag is een verantwoordingsinstrument waarmee de onder-toezicht-gestelde (Wlz-uitvoerder) verantwoording aflegt aan de toezichthouder (de NZa) over de rechtmatige en doelmatige uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917). In het uitvoeringsverslag staat de zorgplicht van de Wlz-uitvoerder centraal. Het uitvoeringsverslag dient een beeld te geven van de uitvoering van de Wlz met behulp van de doelen van de wet (zie bijlage 1 van Beleidsregel normenkader Wlz-uitvoerder): de behaalde resultaten op het hoofddoel (zorgplicht), de inspanningen die daarvoor nodig waren en de resultaten van die inspanningen (bijvoorbeeld op de doelen vallend onder de kerndoelen) en de knelpunten en verbeteracties in de uitvoering. De Wlz-uitvoerder gaat in het uitvoeringsverslag in op het voorgaande kalenderjaar (t), het lopende kalenderjaar (t+1) en waar mogelijk op de verwachtingen voor de volgende kalenderjaren.
 
@@ -82,7 +107,7 @@ Het zorgkantoor hanteert bij de uitwerking van dit onderdeel de volgende bouwste
 
 Het bestuur van de Wlz-uitvoerder ondertekent het uitvoeringsverslag en neemt expliciet verantwoordelijkheid voor de juistheid en volledigheid van de aangeleverde gegevens in het uitvoeringsverslag overeenkomstig de vereisten van deze regeling. De Wlz-uitvoerder hanteert voor deze bestuursverklaring ten minste de standaardtekst zoals deze is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050527&bijlage=1&z=2024-12-10&g=2024-12-10) van deze regeling.
 
-#### Artikel 5. Financieel verslag
+##### Artikel 5. Financieel verslag
 
 Het financieel verslag geeft een beeld van de inkomsten en uitgaven en van het vermogen waaronder de wettelijke reserve van een Wlz-uitvoerder en daarnaast van de financiële geldstromen waar hij als Wlz-uitvoerder verantwoordelijkheid voor draagt. Met het financieel verslag legt een Wlz-uitvoerder verantwoording af over de uitgaven die hij heeft gedaan voor het doen leveren van zorg, het verstrekken van pgb aan de verzekerden en voor de uitvoering van de verzekering. Op basis van het verstrekte beeld en de verantwoording van de geldstromen kan de NZa als toezichthouder tot een oordeel komen over de rechtmatigheid van deze uitgaven en de reserves. De regels voor het financieel verslag beogen ook de onderlinge vergelijkbaarheid van de financiële verantwoordingen van Wlz-uitvoerders te borgen.
 
@@ -134,17 +159,17 @@ Het bestuur van de Wlz-uitvoerder ondertekent het financieel verslag en neemt ex
 
 - 2. Als de NZa in de terugkoppeling onderzoek financiële rechtmatigheid [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) uitkomsten benoemd, waarvoor de NZa een verwachting heeft geformuleerd, beschrijft de Wlz-uitvoerder de opvolging van deze uitkomsten in het overzicht opvolging financieel rechtmatigheidsonderzoek ([bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050527&bijlage=3&z=2024-12-10&g=2024-12-10)).
 
-#### Artikel 6. Aanleveren van de verslagen en bijbehorende stukken
+##### Artikel 6. Aanleveren van de verslagen en bijbehorende stukken
 
 - 1. Het uitvoeringsverslag, het financieel verslag, de bestuursverklaringen en de accountantsproducten over het voorafgaande kalenderjaar moeten voor 1 juli van het jaar zijn ingediend bij de NZa.
 
 - 2. De Wlz-uitvoerder levert de in lid 1 genoemde verantwoordingsproducten, onder door de NZa aan te geven voorwaarden, in elektronische vorm aan via het NZa aanvragenportaal.
 
-#### Artikel 7. Intrekken oude regeling
+##### Artikel 7. Intrekken oude regeling
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Regeling uitvoeringsverslag en financieel verslag Wlz-uitvoerders](https://wetten.overheid.nl/jci1.3:c:BWBR0049531), met kenmerk TH/REG-031, ingetrokken.
 
-#### Artikel 8. Toepasselijkheid voorafgaande regeling, bekendmaking, inwerkingtreding, en citeertitel
+##### Artikel 8. Toepasselijkheid voorafgaande regeling, bekendmaking, inwerkingtreding, en citeertitel
 
 De Regeling uitvoeringsverslag en financieel verslag Wlz-uitvoerders, met kenmerk TH/NR-031, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

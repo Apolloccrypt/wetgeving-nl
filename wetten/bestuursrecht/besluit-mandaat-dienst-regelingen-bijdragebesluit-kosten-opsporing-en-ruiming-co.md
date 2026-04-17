@@ -1,20 +1,45 @@
 ---
 title: "Besluit mandaat Dienst Regelingen Bijdragebesluit kosten opsporing en ruiming conventionele explosieven Tweede Wereldoorlog 2006"
 identifier: "BWBR0023439"
-categorie: "Bestuursrecht"
-publicatiedatum: 2008-02-08
-laatste_update: 2008-02-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023439"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2008-02-08"
+last_updated: "2008-02-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023439"
+soort: "ministeriele-regeling"
+stam_id: "9411953"
+version_id: "15150012"
+internal_id: "C29388211"
+label_id: "9389454"
+dtd_version: "2.0"
+original_entry_into_force: "2008-02-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023439/2008-02-08/0"
+intitule_bron: "Stcrt.2008-26"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-01-25"
+intitule_published: "2008-02-06"
+intitule_in_force: "2008-02-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-26"
+original_signed_date: "2008-01-25"
+original_published_date: "2008-02-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-26-p7-SC84359"
+entry_into_force_date: "2008-02-08"
+jci_1_3: "jci1.3:c:BWBR0023439&z=2008-02-08&g=2008-02-08"
+jci_1_0: "1.0:c:BWBR0023439&g=2008-02-08"
+citeertitel_status: "officieel"
+signed_date: "2008-01-25"
+entry_into_force: "2008-02-08"
 ---
-
 # Besluit mandaat Dienst Regelingen Bijdragebesluit kosten opsporing en ruiming conventionele explosieven Tweede Wereldoorlog 2006
 
 In overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -24,7 +49,7 @@ In dit besluit wordt verstaan onder:
 
 - c. Besluit: [Bijdragebesluit kosten opsporing en ruiming conventionele explosieven Tweede Wereldoorlog 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0020872).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De teammanagers uitvoering en de regelingsmanagers van Dienst Regelingen zijn bevoegd om namens de Minister besluiten te nemen en stukken te ondertekenen met betrekking tot primaire beslissingen inzake:
 
@@ -44,7 +69,7 @@ In dit besluit wordt verstaan onder:
 
 - e. het toekennen en betaalbaar stellen van een definitieve bijdrage, bedoeld in [artikel 22, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020872&artikel=22).
 
-#### Artikel 3
+##### Artikel 3
 
 De algemeen directeur, de unitmanagers, de manager en plaatsvervangend manager recht en rechtsbescherming en de teammanagers recht en rechtsbescherming van Dienst Regelingen zijn bevoegd om namens de Minister besluiten te nemen en stukken te ondertekenen met betrekking tot:
 
@@ -60,7 +85,7 @@ De algemeen directeur, de unitmanagers, de manager en plaatsvervangend manager r
 
 - f. verweerschriften en andere stukken in gedingen die aanhangig zijn bij de bestuursrechter en voortvloeien uit besluiten, genoemd in de onderdelen a tot en met e.
 
-#### Artikel 4
+##### Artikel 4
 
 De teammanagers uitvoering, de regelingsmanagers en de unitmanagers van Dienst Regelingen zijn bevoegd om namens de Minister besluiten te nemen met betrekking tot:
 
@@ -68,7 +93,7 @@ De teammanagers uitvoering, de regelingsmanagers en de unitmanagers van Dienst R
 
 - b. verzoeken tot vergoeding van kosten die een indiener in verband met de behandeling van een bezwaarschrift heeft gemaakt, zoals bedoeld in [artikel 7:15 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:15).
 
-#### Artikel 5
+##### Artikel 5
 
 De algemeen directeur, de directeur projecten, de directeur uitvoering en de manager en plaatsvervangend manager recht en rechtsbescherming zijn bevoegd om namens de Minister besluiten te nemen en stukken te ondertekenen met betrekking tot:
 
@@ -76,7 +101,7 @@ De algemeen directeur, de directeur projecten, de directeur uitvoering en de man
 
 - b. het instellen van hoger beroep of verzet, het indienen van een verzoek om voorlopige voorziening of een verzoek om opheffing van een voorlopige voorziening of het instellen van een ander rechtsmiddel tegen rechterlijke uitspraken in gedingen in het kader van het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020872).
 
-#### Artikel 6
+##### Artikel 6
 
 De ondertekening, bedoeld in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023439&artikel=2&z=2008-02-08&g=2008-02-08), luidt:
 
@@ -118,11 +143,11 @@ onderscheidenlijk,
 
 ‘de algemeen directeur Dienst Regelingen’.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2006.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit mandaat Dienst Regelingen Bijdragebesluit kosten opsporing en ruiming conventionele explosieven Tweede Wereldoorlog 2006.
 

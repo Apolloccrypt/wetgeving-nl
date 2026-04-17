@@ -1,20 +1,46 @@
 ---
-title: "Besluit vaststelling definitieve correctiebedragen voor 2024 bij de Subsidieregeling coöperatieve energieopwekking"
+title: "Besluit van de Minister van Klimaat en Groene Groei van 21 april 2025, nr. WJZ/ 97454315 tot vaststelling van de definitieve correctiebedragen Subsidieregeling tot coöperatieve energieopwekking voor 2024 (Besluit vaststelling definitieve correctiebedragen voor 2024 bij de Subsidieregeling coöperatieve energieopwekking) [KetenID WGK 27592]"
 identifier: "BWBR0050967"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-04-24
-laatste_update: 2025-04-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050967"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-04-24"
+last_updated: "2025-04-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050967"
+soort: "ministeriele-regeling"
+stam_id: "17412483"
+version_id: "30701312"
+internal_id: "C44008301"
+label_id: "17315674"
+dtd_version: "2.0"
+original_entry_into_force: "2025-04-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050967/2025-04-24/0"
+intitule_bron: "Stcrt.2025-12221"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-04-21"
+intitule_published: "2025-04-23"
+intitule_in_force: "2025-04-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-12221"
+original_signed_date: "2025-04-21"
+original_published_date: "2025-04-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-12221"
+entry_into_force_date: "2025-04-24"
+jci_1_3: "jci1.3:c:BWBR0050967&z=2025-04-24&g=2025-04-24"
+jci_1_0: "1.0:c:BWBR0050967&g=2025-04-24"
+citeertitel_status: "officieel"
+short_title: "Besluit vaststelling definitieve correctiebedragen voor 2024 bij de Subsidieregeling coöperatieve energieopwekking"
+signed_date: "2025-04-21"
+entry_into_force: "2025-04-24"
 ---
-
 # Besluit van de Minister van Klimaat en Groene Groei van 21 april 2025, nr. WJZ/ 97454315 tot vaststelling van de definitieve correctiebedragen Subsidieregeling tot coöperatieve energieopwekking voor 2024 (Besluit vaststelling definitieve correctiebedragen voor 2024 bij de Subsidieregeling coöperatieve energieopwekking) [KetenID WGK 27592]
 
 Gelet op [artikel 6, tweede lid, van de Subsidieregeling coöperatieve energieopwekking](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=6);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 - **regeling:** [Subsidieregeling coöperatieve energieopwekking](https://wetten.overheid.nl/jci1.3:c:BWBR0044882).
 
-#### Artikel 2. Vaststelling definitief correctiebedrag
+##### Artikel 2. Vaststelling definitief correctiebedrag
 
 Voor een categorie productie-installaties als bedoeld in de eerste en tweede kolom van onderstaande tabel wordt het definitieve correctiebedrag, bedoeld in [artikel 6, tweede lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&artikel=6), voor 2024 vastgesteld op het bedrag dat is opgenomen in de derde kolom van onderstaande tabel.
 
@@ -117,11 +143,11 @@ Voor een categorie productie-installaties als bedoeld in de eerste en tweede kol
 | [Artikel 3, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0049501&artikel=3) | Waterkracht, kleinverbruikers-aansluiting, ≥ 15 kW en ≤ 100 kW | 0,077 |
 | [Artikel 3, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0049501&artikel=3) | Waterkracht, grootverbruikers-aansluiting, ≥ 15 kW en ≤ 150 kW | 0,077 |
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit vaststelling definitieve correctiebedragen voor 2024 bij de Subsidieregeling coöperatieve energieopwekking.
 

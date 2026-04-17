@@ -1,13 +1,38 @@
 ---
 title: "Besluit ondermandaat, volmacht en machtiging afdeling Verzekering Burgers"
 identifier: "BWBR0039161"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-01-01
-laatste_update: 2017-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039161"
+country: "nl"
+rank: "zbo"
+publication_date: "2017-01-01"
+last_updated: "2017-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039161"
+soort: "zbo"
+stam_id: "13903443"
+version_id: "23862432"
+internal_id: "C34326191"
+label_id: "13867854"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039161/2017-01-01/0"
+intitule_bron: "Stcrt.2017-6354"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-01-31"
+intitule_published: "2017-02-07"
+intitule_in_force: "2017-02-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-6354"
+original_signed_date: "2017-01-31"
+original_published_date: "2017-02-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-6354"
+entry_into_force_date: "2017-01-01"
+jci_1_3: "jci1.3:c:BWBR0039161&z=2017-01-01&g=2017-01-01"
+jci_1_0: "1.0:c:BWBR0039161&g=2017-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2017-01-31"
+entry_into_force: "2017-01-01"
 ---
-
 # Besluit ondermandaat, volmacht en machtiging afdeling Verzekering Burgers
 
 Gezien [artikel 4A van het Besluit mandaat, volmacht en machtiging CAK](https://wetten.overheid.nl/jci1.3:c:BWBR0038946&artikel=4a) van 1 januari 20171Gepubliceerd in Staatscourant 2016, nr. 71039, 28 december 2016., waarbij aan hem mandaat, volmacht en machtiging is verleend voor het nemen van de in dat artikel genoemde primaire besluiten;
@@ -22,7 +47,7 @@ Besluit:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1. definities
+##### Artikel 1. definities
 
 In dit besluit wordt verstaan onder:
 
@@ -34,7 +59,7 @@ In dit besluit wordt verstaan onder:
 
 - d. **manager FA:** de manager van de afdeling FA/Grootboek, te weten: mevrouw A. Kooistra-Vink.
 
-#### Artikel 2. primaire besluiten vaststellen en herzien – regeling Wanbetalers en Onverzekerden
+##### Artikel 2. primaire besluiten vaststellen en herzien – regeling Wanbetalers en Onverzekerden
 
 De manager verleent ondermandaat, volmacht en machtiging
 
@@ -44,7 +69,7 @@ De manager verleent ondermandaat, volmacht en machtiging
 
 aan de teammanager uitsluitend met betrekking tot de regeling Wanbetalers.
 
-#### Artikel 3. invorderen – burgerregelingen
+##### Artikel 3. invorderen – burgerregelingen
 
 De manager verleent ondermandaat, volmacht en machtiging
 
@@ -60,7 +85,7 @@ De manager verleent ondermandaat, volmacht en machtiging
 
 aan de manager FA.
 
-#### Artikel 4. primaire personeelsbesluiten
+##### Artikel 4. primaire personeelsbesluiten
 
 De manager verleent ondermandaat, volmacht en machtiging
 
@@ -72,16 +97,16 @@ De manager verleent ondermandaat, volmacht en machtiging
 
 aan de teammanager.
 
-#### Artikel 5. informatie
+##### Artikel 5. informatie
 
 De teammanager informeert de manager desgevraagd, al dan niet periodiek, over de manier waarop zij invulling geven aan het verleende ondermandaat, de volmacht en de machtiging.
 
-#### Artikel 6. bekendmaking
+##### Artikel 6. bekendmaking
 
 1. Dit besluit wordt bekendgemaakt via publicatie in de Staatscourant.
 
 2. Een afschrift van dit besluit wordt gezonden aan de directie van het CAK, aan de afdeling Interne Controle en aan degenen aan wie krachtens deze regeling ondermandaat, volmacht en machtiging is verleend.
 
-#### Artikel 7. inwerkingtreding
+##### Artikel 7. inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2017.

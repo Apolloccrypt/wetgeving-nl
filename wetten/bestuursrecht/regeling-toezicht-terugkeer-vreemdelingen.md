@@ -1,20 +1,46 @@
 ---
-title: "Regeling toezicht terugkeer vreemdelingen"
+title: "Regeling van de Staatssecretaris van Veiligheid en Justitie van 13 december 2013, houdende de regeling van het toezicht op de terugkeer van vreemdelingen (Regeling toezicht terugkeer vreemdelingen)"
 identifier: "BWBR0034490"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-01-01
-laatste_update: 2014-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034490"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-01-01"
+last_updated: "2014-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034490"
+soort: "ministeriele-regeling"
+stam_id: "12504003"
+version_id: "21047312"
+internal_id: "C30226401"
+label_id: "12474614"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034490/2014-01-01/0"
+intitule_bron: "Stcrt.2013-35638"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-12-13"
+intitule_published: "2013-12-23"
+intitule_in_force: "2013-12-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-35638"
+original_signed_date: "2013-12-13"
+original_published_date: "2013-12-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-35638"
+entry_into_force_date: "2014-01-01"
+jci_1_3: "jci1.3:c:BWBR0034490&z=2014-01-01&g=2014-01-01"
+jci_1_0: "1.0:c:BWBR0034490&g=2014-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling toezicht terugkeer vreemdelingen"
+signed_date: "2013-12-13"
+entry_into_force: "2014-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 13 december 2013, houdende de regeling van het toezicht op de terugkeer van vreemdelingen (Regeling toezicht terugkeer vreemdelingen)
 
 Handelende in overeenstemming met de Minister van Defensie;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 - **terugkeerproces:** de handelingen, anders dan rechtshandelingen, gericht op de terugkeer van de vreemdeling naar het land van herkomst of een veilig derde land, in verband met het onrechtmatig verblijf in Nederland, de verwachting van het verlies van het verblijfsrecht op korte termijn, of de weigering van de toegang tot Nederland.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De inspectie houdt toezicht op het terugkeerproces.
 
@@ -40,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 5. De inspectie brengt over de uitoefening van de in het eerste lid bedoelde taak jaarlijks schriftelijk verslag uit aan de Minister en andere betrokken bewindspersonen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De inspecteurs belast met de uitvoering van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034490&artikel=2&z=2014-01-01&g=2014-01-01), bedoelde taak hebben te allen tijde toegang tot de ruimten die worden beheerd door de instanties waar het toezicht wordt uitgeoefend, voor zover daar het terugkeerproces wordt uitgevoerd, en de in die ruimten verblijvende vreemdelingen, tenzij er, naar het oordeel van de leidinggevende ambtenaar van betreffende instantie ter plaatse, gegronde reden bestaat om aan te nemen dat de orde daardoor zal worden verstoord.
 
@@ -52,11 +78,11 @@ In deze regeling wordt verstaan onder:
 
 5. [Artikel 5:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12) is van overeenkomstige toepassing op de in het eerste lid bedoelde inspecteurs.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van 1 januari 2014.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling toezicht terugkeer vreemdelingen.
 

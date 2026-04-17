@@ -1,13 +1,38 @@
 ---
 title: "Subsidieregeling Sport- en Beroepsbinnenvisserij (SSB)"
 identifier: "BWBR0033046"
-categorie: "Bestuursrecht"
-publicatiedatum: 1997-02-07
-laatste_update: 1997-02-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033046"
+country: "nl"
+rank: "zbo"
+publication_date: "1997-02-07"
+last_updated: "1997-02-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033046"
+soort: "zbo"
+stam_id: "12145473"
+version_id: "20266492"
+internal_id: "C28502581"
+label_id: "12117074"
+dtd_version: "2.0"
+original_entry_into_force: "1997-02-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033046/1997-02-07/0"
+intitule_bron: "Stcrt.1997-25"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-12-19"
+intitule_published: "1997-02-05"
+intitule_in_force: "1997-02-05"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-25"
+original_signed_date: "1996-12-19"
+original_published_date: "1997-02-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1997-25-p12-SC8286"
+entry_into_force_date: "1997-02-07"
+jci_1_3: "jci1.3:c:BWBR0033046&z=1997-02-07&g=1997-02-07"
+jci_1_0: "1.0:c:BWBR0033046&g=1997-02-07"
+citeertitel_status: "officieel"
+signed_date: "1996-12-19"
+entry_into_force: "1997-02-07"
 ---
-
 # Subsidieregeling Sport- en Beroepsbinnenvisserij (SSB)
 
 overwegende,
@@ -16,7 +41,7 @@ dat het in het kader van de maatregelen ter bevordering van de binnenvisserij ge
 
 Besluit:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In deze regeling wordt verstaan onder:
 
@@ -32,11 +57,11 @@ In deze regeling wordt verstaan onder:
 
 **visstandbeheerscommissie:** een representatief samenwerkingsverband van (organisaties van) sport- en beroepsbinnenvissers die met betrekking tot een bepaald water of meerdere wateren de verantwoordelijkheid voor het visstandbeheer tot taak heeft.
 
-#### Artikel 2. Subsidies
+##### Artikel 2. Subsidies
 
 Op de voet van de volgende bepalingen kan ter zake van het duurzaam verbeteren van de binnenvisserij door het Bestuur een subsidie worden toegekend.
 
-#### Artikel 3. Voor subsidies in aanmerking komende maatregelen
+##### Artikel 3. Voor subsidies in aanmerking komende maatregelen
 
 Een subsidie kan worden toegekend voor:
 
@@ -46,11 +71,11 @@ Een subsidie kan worden toegekend voor:
 
 - c. andere maatregelen, die naar het oordeel van het Bestuur van belang zijn voor de duurzame verbetering van het viswater, de visstand of het visserijkundig gebruik.
 
-#### Artikel 4. Aanvragers
+##### Artikel 4. Aanvragers
 
 Een subsidie kan slechts worden toegekend aan volledige rechtsbevoegdheid bezittende verenigingen van sportvissers en/of hengelsportverenigingen, aan beroepsbinnenvissers dan wel volledige rechtsbevoegdheid bezittende verenigingen van beroepsbinnenvissers alsmede aan visstandbeheerscommissies, indien en voor zover zij visrechthebbenden zijn dan wel met uitdrukkelijke schriftelijke toestemming van de visrechthebbenden namens de laatsten optreden.
 
-#### Artikel 5. Weigeringsgronden
+##### Artikel 5. Weigeringsgronden
 
 Onverminderd het elders in deze regeling bepaalde, wordt geen subsidie toegekend in de volgende gevallen:
 
@@ -66,7 +91,7 @@ Onverminderd het elders in deze regeling bepaalde, wordt geen subsidie toegekend
 
 - f. de maatregel heeft betrekking op onderhoud van het viswater, de visstand of de visserijvoorzieningen.
 
-#### Artikel 6. Hoogte van de subsidies
+##### Artikel 6. Hoogte van de subsidies
 
 1. Het maximumbedrag van de subsidie per aanvraag wordt jaarlijks door het Bestuur vastgesteld en op een geschikte wijze bekend gemaakt.
 
@@ -84,7 +109,7 @@ Onverminderd het elders in deze regeling bepaalde, wordt geen subsidie toegekend
 
 4. Tot de voor subsidie in aanmerking komende kosten worden gerekend alle noodzakelijke kosten van de maatregel, met uitzondering van de kosten van zelf verrichte arbeid door de aanvragers.
 
-#### Artikel 7. Aanvraagprocedure
+##### Artikel 7. Aanvraagprocedure
 
 1. De aanvraag voor de subsidie moet worden ingediend bij het Bestuur. De aanvraag kan alleen worden ingediend met behulp van een bij de OVB verkrijgbaar aanvraagformulier.
 
@@ -96,7 +121,7 @@ Onverminderd het elders in deze regeling bepaalde, wordt geen subsidie toegekend
 
 5. Van de ontvangst van de aanvraag zal aanvrager door het Bestuur een bevestiging worden toegezonden.
 
-#### Artikel 8. Ontvankelijkheid van de aanvragen
+##### Artikel 8. Ontvankelijkheid van de aanvragen
 
 1. Aanvragen kunnen in 1997 uitsluitend in de maanden maart tot en met mei en in volgende jaren in de maanden januari tot en met maart bij de OVB worden ingediend.
 
@@ -108,7 +133,7 @@ Onverminderd het elders in deze regeling bepaalde, wordt geen subsidie toegekend
 
 5. Aanvragen die op grond van de leden 1 en 4 niet in behandeling zijn genomen, kunnen een volgend jaar opnieuw bij het Bestuur worden ingediend. Deze aanvragen zullen alsdan op gelijke wijze als de overige aanvragen in behandeling worden genomen.
 
-#### Artikel 9. Overige voorwaarden
+##### Artikel 9. Overige voorwaarden
 
 1. Onverminderd het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033046&artikel=8&z=1997-02-07&g=1997-02-07) wordt de subsidie slechts toegekend, indien de bij de aanvraag overgelegde omschrijving en begroting zijn goedgekeurd door het Bestuur.
 
@@ -120,7 +145,7 @@ Onverminderd het elders in deze regeling bepaalde, wordt geen subsidie toegekend
 
 5. Aan de toekenning van de subsidie kunnen nadere voorwaarden worden verbonden, waaronder het stellen van een termijn waarbinnen de maatregelen ten dienste van de binnenvisserij dienen te blijven.
 
-#### Artikel 10. Verplichtingen van de begunstigden
+##### Artikel 10. Verplichtingen van de begunstigden
 
 Degene aan wie een subsidie is toegekend, is verplicht:
 
@@ -130,17 +155,17 @@ Degene aan wie een subsidie is toegekend, is verplicht:
 
 - c. de voorschriften, die aan de toekenning van de subsidie zijn verbonden, na te leven.
 
-#### Artikel 11. Betaalbaarstelling
+##### Artikel 11. Betaalbaarstelling
 
 1. De subsidie wordt door de OVB uitbetaald, nadat ten genoegen van het Bestuur is aangetoond, dat de maatregelen zijn verricht en betaald en dat aan de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0033046&artikel=10&z=1997-02-07&g=1997-02-07) bedoelde verplichtingen is voldaan.
 
 2. Indien zulks uit de bij de aanvraag verstrekte informatie noodzakelijk blijkt, kan door het Bestuur op verzoek van aanvrager in afwijking van het onder lid 1 bepaalde worden besloten aanvragers tijdens de voorbereiding en/of uitvoering van de maatregel reeds financiële middelen ter beschikking te stellen. Het maximum van deze voorschotten zal nooit meer dan 80 procent van de toegekende subsidie bedragen.
 
-#### Artikel 12. Terugvordering subsidies
+##### Artikel 12. Terugvordering subsidies
 
 De subsidie kan geheel of gedeeltelijk worden teruggevorderd indien de begunstigde de voorwaarden waaronder de subsidie is toegekend niet naleeft, indien de begunstigde niet aan zijn verplichtingen voldoet of indien de bij de aanvraag verstrekte informatie zodanig onjuist blijkt te zijn, dat bij het bekend zijn van de juiste informatie geen subsidie verstrekt zou zijn.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Deze regeling kan worden aangehaald als: Subsidieregeling Sport- en Beroepsbinnenvisserij (SSB).
 

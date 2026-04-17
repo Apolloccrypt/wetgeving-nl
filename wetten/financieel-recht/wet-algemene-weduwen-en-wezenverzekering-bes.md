@@ -1,18 +1,43 @@
 ---
 title: "Wet algemene weduwen- en wezenverzekering BES"
 identifier: "BWBR0028387"
-categorie: "Financieel recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028387"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028387"
+soort: "wet-BES"
+stam_id: "10768293"
+version_id: "17744362"
+internal_id: "C24842891"
+label_id: "10743604"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028387/2026-01-01/0"
+intitule_bron: "Stb.2010-604"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-21"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-604"
+original_signed_date: "2010-09-21"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-604"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028387&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0028387&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2010-09-21"
+entry_into_force: "2010-10-10"
 ---
-
 # Wet algemene weduwen- en wezenverzekering BES
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
@@ -26,7 +51,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 - e. **uitreiziger:** persoon ten aanzien van wie op grond van een melding van de opsporingsdiensten of inlichtingen- en veiligheidsdiensten, gericht aan Onze Minister, is gebleken dat het gegronde vermoeden bestaat dat deze persoon zich buiten de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt met het doel om zich aan te sluiten bij een organisatie die is geplaatst op de lijst van organisaties, bedoeld in [artikel 14, vierde lid, van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Waar iemand woont, wordt naar de feitelijke omstandigheden beoordeeld, voor zover in de volgende leden niet anders is bepaald.
 
@@ -36,27 +61,27 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 4. Onze Minister kan bepalen dat schepen en luchtvaartuigen, die binnen de openbare lichamen Bonaire, Sint Eustatius of Saba hun thuishaven hebben, voor zover het de woonplaats van de bemanning betreft, als deel van de openbare lichamen Bonaire, Sint Eustatius of Saba worden beschouwd.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de toepassing van deze wet wordt met overlijden gelijk gesteld vermoedelijk overlijden.
 
-#### Artikel 3a
+##### Artikel 3a
 
 De bepalingen van deze wet voor weduwen zijn van overeenkomstige toepassing op weduwnaars.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onze Minister is belast met de uitvoering van deze wet, met dien verstande, dat de heffing van de premie geschiedt door de inspecteur en de invordering daarvan door de ontvanger.
 
 2. Voor zover de uitvoering van de in deze wet geregelde verzekering geschiedt door Onze Minister, kunnen bij algemene maatregel van bestuur nadere regels worden gesteld voor de te voeren administratie en de registratie van de verzekerden.
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
 ### Hoofdstuk II. Kring van de verzekerden
 
-#### Artikel 6
+##### Artikel 6
 
 1. Verzekerd op grond van de bepalingen van deze wet is degene, die de leeftijd van 15 jaar heeft bereikt, indien hij:
 
@@ -86,11 +111,11 @@ Vervallen
 
 #### § 1. Het recht op weduwen- en wezenpensioen
 
-#### Artikel 7
+##### Artikel 7
 
 De weduwe van een verzekerde heeft, zolang zij de leeftijd waarop recht op ouderdomspensioen ontstaat op grond van de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459) niet bereikt heeft, recht op een weduwenpensioen op grond van deze wet.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Geen recht op weduwenpensioen heeft de weduwe:
 
@@ -106,7 +131,7 @@ De weduwe van een verzekerde heeft, zolang zij de leeftijd waarop recht op ouder
 
 3. Voor de weduwe, bedoeld in het eerste lid, onderdeel d, herleeft, onverminderd de bepalingen van deze wet, het recht op weduwenpensioen op de dag dat niet langer het gegronde vermoeden bestaat dat zij zich buiten de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt met het doel zich aan te sluiten bij een organisatie als bedoeld in [artikel 14, vierde lid, van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14).
 
-#### Artikel 9
+##### Artikel 9
 
 1. Op grond van deze wet hebben, zolang zij de leeftijd van 15 jaar niet hebben bereikt, recht op wezenpensioen:
 
@@ -136,13 +161,13 @@ De weduwe van een verzekerde heeft, zolang zij de leeftijd waarop recht op ouder
 
 6. De kinderen tot wie de verzekerde man niet in familierechtelijke betrekking stond, bedoeld in het tweede lid, onderdeel b, hebben recht op wezenpensioen indien de wettelijke vertegenwoordiger van voornoemde kinderen ten genoegen van Onze Minister schriftelijk heeft aangetoond dat deze kinderen in een gezinsverband met de overleden verzekerde man samen leefden.
 
-#### Artikel 10
+##### Artikel 10
 
 Geen recht op wezenpensioen bestaat indien de verzekerde aan wiens overlijden het recht daarop zou worden ontleend vóór het bereiken van de leeftijd waarop recht op ouderdomspensioen ontstaat op grond van de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459) nimmer verzekerd is geweest.
 
 #### § 2. De bedragen van het weduwen- en het wezenpensioen
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het weduwenpensioen per maand bedraagt voor de weduwe:
 
@@ -174,7 +199,7 @@ per maand.
 
 6. Onze Minister is bevoegd uitkering van weduwenpensioen voor invaliditeit te weigeren, indien de weduwe, die een dergelijk pensioen geniet, zonder deugdelijke grond weigert zich aan een door Onze Minister gewenst geneeskundig onderzoek te onderwerpen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het wezenpensioen bedraagt voor een kind, dat door het overlijden van de verzekerde ouderloos is geworden, USD 134
 
@@ -248,21 +273,21 @@ per maand, voor zover het voldoet aan [artikel 9, eerste lid, onderdelen c of d]
 
 #### § 2a. Aanpassing en herziening van het weduwen- en wezenpensioen
 
-#### Artikel 13
+##### Artikel 13
 
 Waar in deze paragraaf wordt gesproken van pensioen wordt daaronder verstaan het weduwenpensioen en het wezenpensioen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het pensioen wordt op aanvraag toegekend door Onze Minister door middel van een door Onze Minister beschikbaar gesteld aanvraagformulier.
 
 2. In afwijking van het bepaalde in het voorgaande lid is Onze Minister bevoegd het pensioen ambtshalve toe te kennen.
 
-#### Artikel 15
+##### Artikel 15
 
 Het pensioen gaat in op de eerste dag van de maand volgende op de maand, waarin het recht op pensioen is ontstaan, met dien verstande, dat het pensioen niet vroeger kan ingaan dan 12 maanden vóór de eerste dag van de maand volgende op de maand, waarin de aanvraag is ingediend of waarin ambtshalve toekenning heeft plaatsgevonden. Onze Minister kan voor bijzondere gevallen van het bepaalde in de vorige zin afwijken.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het pensioen wordt door Onze Minister betaalbaar gesteld. De betaling geschiedt maandelijks.
 
@@ -274,7 +299,7 @@ Het pensioen gaat in op de eerste dag van de maand volgende op de maand, waarin 
 
 5. Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van de betaalbaarstelling van het pensioen door organen, die belast zijn met de uitbetaling van pensioen uit andere hoofde dan op grond van deze wet.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Indien een op grond van deze wet gepensioneerde in een inrichting voor verpleging van geesteszieken en zwakzinnigen of in een instelling waar intramurale zorg wordt verleend als bedoeld in [artikel 2, onderdeel b tot en met g, van het Besluit zorg BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028628&artikel=2) wordt verzorgd of verpleegd en de kosten van verzorging of verpleging geheel of gedeeltelijk ten laste komen van dat openbare lichaam of de eerdergenoemde instelling, kan op verzoek van het desbetreffende orgaan het pensioen over volle kalendermaanden, gelegen binnen de duur van de verzorging of verpleging, voorzover het over die maanden nog niet is uitbetaald, aan het desbetreffende orgaan worden uitbetaald, met dien verstande dat aan dat orgaan niet meer wordt uitbetaald dan de te zijnen laste komende kosten van verzorging of verpleging bedragen en dat een bij ministeriële regeling in overeenstemming met de Minister van Volksgezondheid, Welzijn en Sport te bepalen bedrag bij de betaling aan dat orgaan buiten beschouwing wordt gelaten ter voorziening in de voor rekening van de gepensioneerde blijvende kosten van bestaan.
 
@@ -282,11 +307,11 @@ Het pensioen gaat in op de eerste dag van de maand volgende op de maand, waarin 
 
 3. Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen Bonaire, Sint Eustatius en Saba blijkt, dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister een bedrag vast, dat met ingang van 1 januari van het komende jaar in de plaats treedt van het in het eerste lid bedoelde bedrag. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen en voor belanghebbenden die woonachtig zijn buiten de openbare lichamen, verschillend zijn.
 
-#### Artikel 18
+##### Artikel 18
 
 De termijnen van het pensioen, welke niet zijn ingevorderd binnen twee jaar na de eerste dag waarop zij konden worden ingevorderd worden niet uitbetaald.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Onverminderd het elders in deze wet bepaalde eindigt het recht op pensioen:
 
@@ -296,11 +321,11 @@ De termijnen van het pensioen, welke niet zijn ingevorderd binnen twee jaar na d
 
 2. De uitbetaling van het pensioen eindigt met ingang van de maand volgende op de maand, waarin het feit heeft plaatsgevonden of de omstandigheid is ontstaan, waardoor het recht op pensioen is geëindigd.
 
-#### Artikel 20
+##### Artikel 20
 
 [vervallen]
 
-#### Artikel 21
+##### Artikel 21
 
 1. Na het overlijden van degene, aan wie een pensioen is toegekend, wordt het pensioen tot en met de laatste dag van de maand waarin het overlijden heeft plaatsgevonden, uitbetaald aan de persoon of personen, die daarvoor naar het oordeel van Onze Minister op billijkheidsoverwegingen in aanmerking komt, dan wel komen, mits deze daartoe binnen zes maanden na het overlijden een verzoek bij Onze Minister heeft, dan wel hebben ingediend.
 
@@ -308,11 +333,11 @@ De termijnen van het pensioen, welke niet zijn ingevorderd binnen twee jaar na d
 
 3. De uitkering wordt betaalbaar gesteld in de maand volgende op die, waarin waarin een verzoek daartoe is ingediend.
 
-#### Artikel 22
+##### Artikel 22
 
 Aan de weduwe, bedoeld in [artikel 19, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=3&artikel=19&z=2026-01-01&g=2026-01-01), wordt een uitkering ineens verleend ter grootte van het bedrag, dat haar aan weduwenpensioen zou toekomen, indien zij niet was hertrouwd, doch ten hoogste ter grootte van het jaarbedrag van het weduwenpensioen.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Het pensioen is:
 
@@ -328,11 +353,11 @@ Aan de weduwe, bedoeld in [artikel 19, eerste lid, onderdeel b](https://wetten.o
 
 4. Elk beding strijdig met dit artikel, is nietig.
 
-#### Artikel 23a
+##### Artikel 23a
 
 Degene die gehouden is tot vergoeding van de schade door de weduwe, weduwnaar of wezen geleden als gevolg van het overlijden van de verzekerde man of vrouw, is voor het pensioen van de weduwe, weduwnaar of wezen toegekend op grond van deze wet aansprakelijk jegens Onze Minister.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Behoudens het bepaalde in het volgende lid zijn de eenmaal uitbetaalde termijnen van het pensioen niet vatbaar voor terugvordering.
 
@@ -340,7 +365,7 @@ Degene die gehouden is tot vergoeding van de schade door de weduwe, weduwnaar of
 
 3. Bij algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven ter uitvoering van dit artikel; daarbij kunnen tevens regels worden gesteld met betrekking tot schorsing en opschorting van de uitbetaling van het pensioen.
 
-#### Artikel 24a
+##### Artikel 24a
 
 1. Onze Minister is bevoegd om op grond van verdragen, convenanten en andersoortige overeenkomsten met uitvoerders van instellingen van sociale voorzieningen, het pensioen van een gerechtigde te verminderen ter ontneming van een ten onrechte verkregen voordeel van de gerechtigde op het gebied van sociale voorzieningen.
 
@@ -350,13 +375,13 @@ Degene die gehouden is tot vergoeding van de schade door de weduwe, weduwnaar of
 
 #### § 4. Waarborg pensioenbetaling
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
 ### Hoofdstuk IV. De op te brengen middelen
 
-#### Artikel 26
+##### Artikel 26
 
 1. Ter zake van de kosten verbonden aan deze wet is door de verzekerden een premie verschuldigd.
 
@@ -370,15 +395,15 @@ Vervallen
 
 4. De op grond van deze wet uit te keren pensioenen en de aan de uitvoering van deze wet verbonden kosten komen ten laste van het Rijk
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 1. De premie ten behoeve van deze wet wordt geheven over het inkomen, met overeenkomstige toepassing van de [hoofdstukken V](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V), [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=VI), [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=VII) en [IX van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=IX), de [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=II), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=IV) en [V van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=V) en de [hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=I), [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VII) en [VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII).
 
@@ -386,43 +411,43 @@ Vervallen
 
 3. Indien het inkomen meer bedraagt dan het in [artikel 24A, zevende lid, van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=24a) genoemde bedrag, wordt over dat meerdere geen premie geheven.
 
-#### Artikel 30
+##### Artikel 30
 
 Het percentage van de premie, bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=IV&artikel=29&z=2026-01-01&g=2026-01-01), wordt door Onze Minister met ingang van elk kalenderjaar voor de periode van één jaar bij ministeriële regeling vastgesteld in overeenstemming met Onze Minister van Financiën.
 
-#### Artikel 31
+##### Artikel 31
 
 Voor zover in deze wet niet anders is bepaald is ten aanzien van de premieheffing op grond van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=IV&artikel=29&z=2026-01-01&g=2026-01-01) en de invordering daarvan [hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII) van overeenkomstige toepassing.
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
-#### Artikel 32a
+##### Artikel 32a
 
 Vervallen
 
-#### Artikel 32b
+##### Artikel 32b
 
 Vervallen
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 
-#### Artikel 34
+##### Artikel 34
 
 Vervallen
 
 ### Hoofdstuk V. Het verstrekken van inlichtingen
 
-#### Artikel 35
+##### Artikel 35
 
 1. De gepensioneerde en zijn wettelijke vertegenwoordiger of het orgaan waaraan op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=3&artikel=17&z=2026-01-01&g=2026-01-01) pensioen wordt uitbetaald, zijn verplicht aan Onze Minister op zijn verzoek of onverwijld uit eigen beweging alle feiten en omstandigheden mee te delen, waarvan hun redelijkerwijs duidelijk moet zijn dat die van invloed kunnen zijn op het recht op pensioen, de hoogte van het pensioen of op het bedrag van het pensioen dat wordt betaald.
 
 2. De verplichting, bedoeld in het eerste lid, geldt niet indien feiten en omstandigheden door Onze Minister kunnen worden vastgesteld op grond van bij wettelijk voorschrift als authentiek aangemerkte gegevens of kan worden verkregen uit bij ministeriële regeling aan te wijzen administraties. Bij ministeriële regeling kan worden bepaald voor welke gegevens de vorige zin van toepassing is.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Een ieder is verplicht aan Onze Minister of aan enige vanwege Onze Minister aangewezen persoon de voor de uitvoering van deze wet van hem gevraagde inlichtingen te verstrekken. De door Onze Minister verlangde inlichtingen omvatten ten minste de naam en de voornamen van de persoon van wie de inlichtingen worden gevraagd en het identificatienummer dat hem op grond van [artikel 8.86, negende lid, van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.86) is toegekend dan wel van hem bekend is.
 
@@ -430,7 +455,7 @@ Vervallen
 
 3. Een ieder is verplicht aan Onze Minister of aan enig door of vanwege Onze Minister aangewezen persoon desgevraagd inzage te verlenen van boeken, bescheiden, andere stukken en informatiedragers, voor zover dat nodig is ten behoeve van de uitvoering van deze wet.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Publiekrechtelijke lichamen zijn verplicht kosteloos hun medewerking te verlenen tot het verkrijgen van de inlichtingen, benodigd voor de uitvoering van deze wet.
 
@@ -438,7 +463,7 @@ Vervallen
 
 ### Hoofdstuk VI. Bezwaar en beroep
 
-#### Artikel 38
+##### Artikel 38
 
 1. De bekendmaking van een beschikking die verband houdt met het recht op en de uitbetaling van pensioen of uitkering geschiedt door toezending of uitreiking aan de belanghebbende.
 
@@ -446,7 +471,7 @@ Vervallen
 
 3. De beschikking vermeldt de dagtekening van de beslissing, de gronden waarop deze berust, alsmede, behalve in het geval van een beslissing op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=3&artikel=21&z=2026-01-01&g=2026-01-01), waar beroep kan worden ingesteld en de termijn voor het instellen van beroep.
 
-#### Artikel 39
+##### Artikel 39
 
 1. De belanghebbende kan tegen een beschikking op grond van deze wet beroep instellen bij het Gerecht, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=1), behalve in het geval van een beslissing op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=3&artikel=21&z=2026-01-01&g=2026-01-01).
 
@@ -456,7 +481,7 @@ Vervallen
 
 4. Met betrekking tot een beschikking op grond van [artikelen 8, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=1&artikel=8&z=2026-01-01&g=2026-01-01), en [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=1&artikel=10a&z=2026-01-01&g=2026-01-01), kan het Gerecht, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=1), indien het bestuursorgaan niet voldoet aan de verplichting, bedoeld in [artikel 23 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=23), daaruit de gevolgtrekking maken die hem geraden voorkomt.
 
-#### Artikel 40
+##### Artikel 40
 
 1. Voor zover bij of op grond van deze wet niet anders is bepaald en in afwijking van [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=VI&artikel=39&z=2026-01-01&g=2026-01-01) zijn ten aanzien van het bepaalde in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=IV&z=2026-01-01&g=2026-01-01) de voor de heffing van de inkomstenbelasting geldende bepalingen betreffende de rechtsmiddelen van overeenkomstige toepassing.
 
@@ -468,17 +493,17 @@ Vervallen
 
 ### Hoofdstuk VI. Bekendmaking, bezwaar en beroep
 
-#### Artikel 41
+##### Artikel 41
 
 Vervallen
 
-#### Artikel 42
+##### Artikel 42
 
 Vervallen
 
 ### Hoofdstuk VII. Overgangsbepalingen
 
-#### Artikel 42a
+##### Artikel 42a
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn de daartoe bij ministeriële regeling aangewezen functionarissen belast.
 
@@ -488,37 +513,37 @@ Vervallen
 
 ### Hoofdstuk VIIa
 
-#### Artikel 43
+##### Artikel 43
 
 Hij, die niet voldoet aan een van de verplichtingen opgelegd in de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=V&artikel=35&z=2026-01-01&g=2026-01-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=V&artikel=36&z=2026-01-01&g=2026-01-01) wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de eerste categorie.
 
-#### Artikel 44
+##### Artikel 44
 
 Hij, die op grond van bij of krachtens deze wet vastgestelde bepalingen gehouden is inlichtingen of gegevens te verstrekken, een aangifte of mededeling te doen of een verklaring af te leggen en daarbij opzettelijk een valse opgave doet dan wel opzettelijk in strijd met bedoelde gehoudenheid iets verzwijgt, wordt gestraft met gevangenisstraf van ten hoogste twee jaren.
 
-#### Atikel 45
+##### Atikel 45
 
 Hij, die op andere wijze dan door het valselijk opmaken of vervalsen van een geschrift, dat bestemd is tot bewijs van enig feit te dienen opzettelijk een opgave doet in strijd met de waarheid, zulks met het oogmerk om aldus een uitkering of een hogere uitkering op grond van deze wet te verkrijgen, wordt gestraft met gevangenisstraf van ten hoogste twee jaren.
 
-#### Artikel 46
+##### Artikel 46
 
 Overtredingen van bepalingen van een op grond van deze wet vastgestelde algemene maatregel van bestuur voor zover uitdrukkelijk als strafbaar feit aangeduid, wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de eerste categorie.
 
-#### Artikel 47
+##### Artikel 47
 
 [vervallen]
 
-#### Artikel 48
+##### Artikel 48
 
 1. Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, naast de in [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184) bedoelde functionarissen, belast de door Onze Minister van Justitie, in overeenstemming met Onze Minister, aangewezen ambtenaren.
 
 2. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de vereisten waaraan de op grond van het eerste lid aangewezen functionarissen dienen te voldoen.
 
-#### Artikel 49
+##### Artikel 49
 
 [vervallen]
 
-#### Artikel 50
+##### Artikel 50
 
 1. De in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=VIII&artikel=48&z=2026-01-01&g=2026-01-01) bedoelde personen zijn verplicht tot geheimhouding van hetgeen hun bij het toezicht op de naleving van de bij of op grond van deze wet vastgestelde bepalingen is bekend geworden, voor zover die geheimhouding niet in strijd is met enige wettelijk voorschrift.
 
@@ -528,43 +553,43 @@ Overtredingen van bepalingen van een op grond van deze wet vastgestelde algemene
 
 4. Geen vervolging heeft plaats dan op aangifte van degene, ten aanzien van wie de geheimhouding is geschonden.
 
-#### Artikel 51
+##### Artikel 51
 
 De in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=VIII&artikel=44&z=2026-01-01&g=2026-01-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=VIII&artikel=45&z=2026-01-01&g=2026-01-01) en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=VIII&artikel=50&z=2026-01-01&g=2026-01-01) bedoelde strafbare feiten worden als misdrijven, de in de [artikelen 43, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=VIII&artikel=43&z=2026-01-01&g=2026-01-01), en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=VIII&artikel=46&z=2026-01-01&g=2026-01-01) bedoelde strafbare feiten als overtredingen beschouwd.
 
 ### Hoofdstuk IX. Slotbepalingen
 
-#### Artikel 52
+##### Artikel 52
 
 Vervallen
 
-#### Artikel 53
+##### Artikel 53
 
 1. Op de weduwen- en wezenpensioenen of uitkeringen waarop op grond van een pensioenregeling van een pensioenfonds of van een werkgever aanspraak bestaat, mogen de pensioenen, waarop op grond van deze wet aanspraak bestaat, niet in mindering worden gebracht.
 
 2. Onze Minister kan ontheffing verlenen van het in het voorgaande lid bepaalde met dien verstande, dat geen hoger percentage van de op grond van deze wet toegekende pensioenen in mindering mag worden gebracht dan de helft van het percentage, dat de bijdrage of premie van de werkgever uitmaakt van de totale premie of bijdrage voor de op grond van de in het eerste lid bedoelde pensioenregeling te genieten weduwen- en wezenpensioen.
 
-#### Artikel 54
+##### Artikel 54
 
 Vervallen
 
-#### Artikel 55
+##### Artikel 55
 
 Hetgeen overigens ter uitvoering van deze wet nodig is, wordt bij algemene maatregel van bestuur geregeld.
 
-#### Artikel 56
+##### Artikel 56
 
 Vervallen
 
-#### Artikel 57
+##### Artikel 57
 
 Alle op grond van deze wet opgemaakte of overgelegde stukken, verzoekschriften en beschikkingen zijn vrij van het recht van zegel en van de formaliteit van registratie.
 
-#### Artikel 58
+##### Artikel 58
 
 Deze wet wordt aangehaald als: Wet algemene weduwen- en wezenverzekering BES.
 
-#### Artikel 12a
+##### Artikel 12a
 
 1. Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen Bonaire, Sint Eustatius en Saba blijkt, dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister bedragen vast, die met ingang van 1 januari van het komende jaar in de plaats treden van de in de [artikelen 11, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=2&artikel=11&z=2026-01-01&g=2026-01-01), en [12, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=2&artikel=12&z=2026-01-01&g=2026-01-01), genoemde bedragen. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen en voor belanghebbenden die woonachtig zijn buiten de openbare lichamen, verschillend zijn.
 
@@ -590,7 +615,7 @@ Deze wet wordt aangehaald als: Wet algemene weduwen- en wezenverzekering BES.
 
 ### Hoofdstuk IX. Slotbepalingen
 
-#### Artikel 10a
+##### Artikel 10a
 
 1. Geen recht op een wezenuitkering heeft degene die een uitreiziger is.
 
@@ -616,7 +641,7 @@ Deze wet wordt aangehaald als: Wet algemene weduwen- en wezenverzekering BES.
 
 ### Hoofdstuk IX. Slotbepalingen
 
-#### Artikel 42b
+##### Artikel 42b
 
 [Afdeling 3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.3) is van toepassing met dien verstande dat in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:5), in plaats van «besluiten» wordt gelezen «beschikkingen» en in de [artikelen 3:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:6), [3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:8) en [3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:9) in plaats van «het besluit» wordt gelezen «de beschikking».
 
@@ -624,7 +649,7 @@ Deze wet wordt aangehaald als: Wet algemene weduwen- en wezenverzekering BES.
 
 ### Hoofdstuk IX. Slotbepalingen
 
-#### Artikel 37a
+##### Artikel 37a
 
 1. Bij ministeriële regeling kunnen controlevoorschriften worden vastgesteld. Deze voorschriften gaan niet verder dan strikt noodzakelijk is voor een juiste uitvoering van deze wet.
 
@@ -638,11 +663,11 @@ Deze wet wordt aangehaald als: Wet algemene weduwen- en wezenverzekering BES.
 
 ### Hoofdstuk IX. Slotbepalingen
 
-#### Artikel 14a
+##### Artikel 14a
 
 Voor de toepassing van [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=1&artikel=9&z=2026-01-01&g=2026-01-01), [11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=2&artikel=11&z=2026-01-01&g=2026-01-01), en [12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&hoofdstuk=III&paragraaf=2&artikel=12&z=2026-01-01&g=2026-01-01), onderwerpt de betrokken persoon zich op verzoek van Onze Minister aan een geneeskundig onderzoek.
 
-#### Artikel 23b
+##### Artikel 23b
 
 1. Onze Minister kan een beschikking herzien dan wel intrekken indien:
 

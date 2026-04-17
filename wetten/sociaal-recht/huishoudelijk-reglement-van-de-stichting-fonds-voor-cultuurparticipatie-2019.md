@@ -1,13 +1,35 @@
 ---
 title: "Huishoudelijk Reglement van de Stichting Fonds voor Cultuurparticipatie 2019"
 identifier: "BWBR0042690"
-categorie: "Sociaal recht"
-publicatiedatum: 2019-10-23
-laatste_update: 2019-10-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042690"
+country: "nl"
+rank: "zbo"
+publication_date: "2019-10-23"
+last_updated: "2019-10-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042690"
+soort: "zbo"
+stam_id: "15211183"
+version_id: "26099212"
+internal_id: "C37139841"
+label_id: "15158304"
+dtd_version: "2.0"
+original_entry_into_force: "2019-10-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042690/2019-10-23/0"
+intitule_bron: "Stcrt.2019-57369"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2019-10-22"
+intitule_in_force: "2019-10-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-57369"
+original_published_date: "2019-10-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-57369"
+entry_into_force_date: "2019-10-23"
+jci_1_3: "jci1.3:c:BWBR0042690&z=2019-10-23&g=2019-10-23"
+jci_1_0: "1.0:c:BWBR0042690&g=2019-10-23"
+citeertitel_status: "officieel"
+entry_into_force: "2019-10-23"
 ---
-
 # Huishoudelijk Reglement van de Stichting Fonds voor Cultuurparticipatie 2019
 
 gelet op [artikel 10, vierde lid, van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
@@ -20,7 +42,7 @@ Besluit:
 
 vast te stellen het Huishoudelijk Reglement van de Stichting Fonds voor Cultuurparticipatie.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit reglement wordt verstaan onder:
 
@@ -36,7 +58,7 @@ In dit reglement wordt verstaan onder:
 
 - f. **statuten:** de statuten van de Stichting Fonds voor Cultuurparticipatie;
 
-#### Artikel 2. Inrichting van de organisatie
+##### Artikel 2. Inrichting van de organisatie
 
 Het Fonds kent:
 
@@ -50,7 +72,7 @@ Het Fonds kent:
 
 - e. een bezwarenadviescommissie.
 
-#### Artikel 3. Het bestuur
+##### Artikel 3. Het bestuur
 
 1. Het Fonds wordt bestuurd door het bestuur, bestaande uit een door de raad van toezicht vast te stellen aantal van ten minste één en ten hoogste drie natuurlijke personen.
 
@@ -76,7 +98,7 @@ Indien het bestuur uit meer dan één persoon bestaat, stelt de raad van toezich
 
 11. In het Reglement directie/raad van bestuur Fonds voor Cultuurparticipatie zijn nadere bepalingen ten aanzien van het bestuur opgenomen.
 
-#### Artikel 4. Raad van toezicht
+##### Artikel 4. Raad van toezicht
 
 1. De raad van toezicht bestaat uit ten minste drie en ten hoogste negen leden. De voorzitter en leden worden benoemd door de minister. De voorzitter benoemt desgewenst een vicevoorzitter.
 
@@ -102,7 +124,7 @@ Indien het bestuur uit meer dan één persoon bestaat, stelt de raad van toezich
 
 8. In het Reglement raad van toezicht Fonds voor cultuurparticipatie zijn nadere bepalingen ten aanzien van de raad van toezicht opgenomen.
 
-#### Artikel 5. Transparantie en verantwoording
+##### Artikel 5. Transparantie en verantwoording
 
 1. Het bestuur bespreekt periodiek met de medewerkers van het Fonds en de leden van de adviescommissies hun (eigen) rol, de onderlinge verdeling van taken, verantwoordelijkheden en bevoegdheden
 
@@ -116,7 +138,7 @@ Indien het bestuur uit meer dan één persoon bestaat, stelt de raad van toezich
 
 6. De raad van toezicht en het bestuur passen de principes van de Governance Code Cultuur toe en bevorderen het gebruik daarvan.
 
-#### Artikel 6. De medewerkers van het Fonds
+##### Artikel 6. De medewerkers van het Fonds
 
 1. Het Fonds kan, met instemming van het bestuur, extern advies inwinnen indien het van oordeel is dat met betrekking tot een of meer aanvragen of criteria extra deskundigheid is vereist.
 
@@ -134,7 +156,7 @@ Indien het bestuur uit meer dan één persoon bestaat, stelt de raad van toezich
 
 5. De medewerkers van het Fonds melden hun functies en nevenfuncties aan het bestuur, zoals nader omschreven in het arbeidsvoorwaardenreglement.
 
-#### Artikel 7. Adviescommissies
+##### Artikel 7. Adviescommissies
 
 1. Per adviesronde wordt door het bestuur een adviescommissie samengesteld, bestaande uit minimaal drie leden, inclusief de voorzitter.
 
@@ -168,7 +190,7 @@ Indien het bestuur uit meer dan één persoon bestaat, stelt de raad van toezich
 
 8. Leden van de adviescommissies zijn verplicht de inhoud van de beraadslaging over de ingediende subsidieaanvragen, de (uitkomsten van de) behandeling van de aanvragen en de inhoud van de adviezen geheim te houden tegenover derden.
 
-#### Artikel 8. Leden van de adviescommissie
+##### Artikel 8. Leden van de adviescommissie
 
 1. Leden van de adviescommissie worden extern geworven en geselecteerd door een onafhankelijke, door het bestuur ingestelde benoemingsadviescommissie. De benoemingscommissie draagt de kandidaten voor aan het bestuur, voor de functie van voorzitter of lid.
 
@@ -200,7 +222,7 @@ Indien het bestuur uit meer dan één persoon bestaat, stelt de raad van toezich
 
 10. De leden van de adviescommissies zijn individueel en (waar mogelijk) gezamenlijk verantwoordelijk voor het vermijden van ongewenste belangenverstrengeling of tegenstrijdige belangen in het kader van hun functie. Indien sprake is van ongewenste belangenverstrengeling of tegenstrijdige belangen, neemt het betrokken lid van de adviescommissie geen deel aan de voorbereiding, beraadslaging en advisering ten aanzien van de desbetreffende aanvraag.
 
-#### Artikel 9. Beoordeling subsidieaanvragen van instellingen en natuurlijke personen
+##### Artikel 9. Beoordeling subsidieaanvragen van instellingen en natuurlijke personen
 
 - a. De medewerkers van het Fonds leggen, in beginsel, de subsidieaanvragen die hoger zijn dan € 25.000 gebundeld per regeling voor aan de externe adviescommissie.
 
@@ -220,7 +242,7 @@ Indien het bestuur uit meer dan één persoon bestaat, stelt de raad van toezich
 
 6. Een overzicht van de gehonoreerde aanvragen wordt geplaatst op de website.
 
-#### Artikel 10. Integriteit
+##### Artikel 10. Integriteit
 
 1. Het Fonds heeft een Gedragscode opgesteld. In de Gedragscode is beschreven waar het Fonds voor staat, wat zijn stakeholders van hem gen verwachten en wat de geldende gedragsregels binnen het Fonds zijn.
 
@@ -236,7 +258,7 @@ Indien het bestuur uit meer dan één persoon bestaat, stelt de raad van toezich
 
 - c. Het arbeidsvoorwaardenreglement bevat voor medewerkers van het Fonds de (aanvullende) voorschriften ten aanzien van nevenwerkzaamheden, geschenken en de geheimhoudingsplicht.
 
-#### Artikel 11. Bezwarenadviescommissie
+##### Artikel 11. Bezwarenadviescommissie
 
 - a. Bezwaarschriften worden behandeld door een bezwarenadviescommissie. De bezwarenadviescommissie is aangewezen door het bestuur.
 
@@ -258,7 +280,7 @@ Indien het bestuur uit meer dan één persoon bestaat, stelt de raad van toezich
 
 8. Het bestuur van het Fonds neemt het besluit op een bezwaarschrift met inachtneming van het advies van de bezwarenadviescommissie of subcommissies.
 
-#### Artikel 12. Klachten
+##### Artikel 12. Klachten
 
 - a. Klachten worden behandeld door een daartoe door het bestuur aan te wijzen functionaris. b. Het bestuur kan, indien naar zijn oordeel de klacht daartoe aanleiding geeft, ervoor kiezen om de klacht ter advisering aan een klachtenadviescommissie voor te leggen.
 
@@ -270,7 +292,7 @@ Indien het bestuur uit meer dan één persoon bestaat, stelt de raad van toezich
 
 3. Het bestuur behandelt geen klachten die betrekking hebben op een gedraging die langer dan een jaar voor indiening van de klacht heeft plaatsgevonden.
 
-#### Artikel 13. Slotbepaling
+##### Artikel 13. Slotbepaling
 
 1. Dit Huishoudelijk reglement kan worden aangehaald als: Huishoudelijk Reglement van de Stichting Fonds voor Cultuurparticipatie 2019.
 

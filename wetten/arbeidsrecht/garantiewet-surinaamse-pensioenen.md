@@ -1,14 +1,40 @@
 ---
-title: "Garantiewet Surinaamse pensioenen"
+title: "Wet van 9 december 1993, houdende voorschriften inzake uitbetaling en verhoging van Surinaams pensioen voor Surinaams gepensioneerden in Nederland"
 identifier: "BWBR0006298"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006298"
+country: "nl"
+rank: "wet"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006298"
+soort: "wet"
+stam_id: "1314403"
+version_id: "1955602"
+internal_id: "C1955601"
+label_id: "1273774"
+dtd_version: "2.0"
+original_entry_into_force: "2001-08-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006298/2013-01-01/0"
+intitule_bron: "Stb.1993-695"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-12-09"
+intitule_status: "goed"
+original_publication: "Stb.2001-377"
+original_signed_date: "2001-07-16"
+original_published_date: "2001-08-23"
+original_effect: "structuurwijziging"
+original_dossier: "27692"
+original_url_id: "stb-2001-377"
+entry_into_force_date: "2001-08-24"
+entry_into_force_dossier: "27692"
+jci_1_3: "jci1.3:c:BWBR0006298&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0006298&g=2013-01-01"
+citeertitel_status: "officieel"
+short_title: "Garantiewet Surinaamse pensioenen"
+signed_date: "2001-07-16"
+entry_into_force: "2001-08-24"
 ---
-
-# Garantiewet Surinaamse pensioenen
+# Wet van 9 december 1993, houdende voorschriften inzake uitbetaling en verhoging van Surinaams pensioen voor Surinaams gepensioneerden in Nederland
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +42,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is een garantie te tref
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In deze wet wordt verstaan onder:
 
 - h. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Op aanvraag van de rechthebbende wordt door de stichting een garantiepensioen toegekend, indien de rechthebbende:
 
@@ -56,7 +82,7 @@ In deze wet wordt verstaan onder:
 
 5. De Stichting kan bij een met redenen omkleed besluit in bijzonder gevallen waarin gepensioneerden of hun nabestaanden aantonen dat zij om medische dan wel andere dwingende redenen niet aan de voorwaarde van blijvende vestiging in Nederand voor 1 mei 1985 voldoen, de aanspraak op het garantiepensioen afzonderlijk regelen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onverminderd het gestelde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006298&artikel=4&z=2013-01-01&g=2013-01-01) wordt het bedrag van het garantiepensioen bepaald door het bruto bedrag van het gecedeerde Surinaams pensioen te vermenigvuldigen met:
 
@@ -84,7 +110,7 @@ In deze wet wordt verstaan onder:
 
 5. De Stichting zal, in afwijking van de Ambtenarenpensioenverordening 1972, bij overlijden van de gepensioneerde uitsluitend aan zijn nabestaanden een uitkering van twee maanden toekennen.
 
-#### Artikel 4
+##### Artikel 4
 
 Het bedrag van het garantiepensioen van degene:
 
@@ -92,7 +118,7 @@ Het bedrag van het garantiepensioen van degene:
 
 - b. die krachtens de [Toeslagregeling pensioenen Suriname en Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0002574) een toeslag ontvangt op zijn pensioen, wordt vastgesteld door het bruto bedrag van het gecedeerde Surinaamse pensioen te vermenigvuldigen met 0,505.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Degene die een garantiepensioen ontvangt en ondanks de cessie van zijn aanspraak op Surinaams pensioen aan de Nederlandse Staat het gehele of gedeeltelijke bedrag van zijn pensioen van het Pensioenfonds Suriname ontvangt, doet daarvan terstond mededeling aan de stichting.
 
@@ -100,23 +126,23 @@ Het bedrag van het garantiepensioen van degene:
 
 3. Indien niet aan de verplichting ingevolge het eerste lid wordt voldaan, kan de stichting het garantiepensioen geheel of gedeeltelijk vervallen verklaren.
 
-#### Artikel 6
+##### Artikel 6
 
 Voorzover ter zake van het genot van een garantiepensioen premie krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) en de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) wordt geheven, wordt door de stichting aan rechthebbende hiervoor een vergoeding verleend overeenkomstig het bepaalde in [artikel 27, eerste tot en met vijfde lid, van de Samenloopregeling Indonesische Pensioenen 1960](https://wetten.overheid.nl/jci1.3:c:BWBR0002414&artikel=27).
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. Indien recht is ontstaan op pensioen na 31 december 2000 heeft de rechthebbende die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) nog niet heeft bereikt, in afwijking van de [Wet brutering overhevelingstoeslag lonen](https://wetten.overheid.nl/jci1.3:c:BWBR0006353), recht op een toeslag ter grootte van 1,9% van dat pensioen, met een maximum van € 791,85 per jaar.
 
 2. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt de toeslag krachtens dit artikel niet onder pensioen of uitkering begrepen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
 
 2. Deze wet werkt, ten aanzien van aanvragen om garantiepensioen die zijn ingediend vóór 1 januari 1994, terug tot en met 1 januari 1992. Bij aanvragen om garantiepensioen die zijn ingediend op of na 1 januari 1994, gaat het garantiepensioen in op de eerste dag van de maand waarin het verzoek door de stichting is ontvangen.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze wet wordt aangehaald als: Garantiewet Surinaamse pensioenen.
 

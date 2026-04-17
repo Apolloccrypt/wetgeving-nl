@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel kenbaarheid internetsnelheden"
 identifier: "BWBR0040243"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2018-01-01
-laatste_update: 2018-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040243"
+country: "nl"
+rank: "zbo"
+publication_date: "2018-01-01"
+last_updated: "2018-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040243"
+soort: "zbo"
+stam_id: "14424213"
+version_id: "24664112"
+internal_id: "C35289141"
+label_id: "14384854"
+dtd_version: "2.0"
+original_entry_into_force: "2018-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040243/2018-01-01/0"
+intitule_bron: "Stcrt.2017-68591"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-11-23"
+intitule_published: "2017-11-27"
+intitule_in_force: "2017-11-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-68591"
+original_signed_date: "2017-11-23"
+original_published_date: "2017-11-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-68591"
+entry_into_force_date: "2018-01-01"
+jci_1_3: "jci1.3:c:BWBR0040243&z=2018-01-01&g=2018-01-01"
+jci_1_0: "1.0:c:BWBR0040243&g=2018-01-01"
+citeertitel_status: "officieel"
+signed_date: "2017-11-23"
+entry_into_force: "2018-01-01"
 ---
-
 # Beleidsregel kenbaarheid internetsnelheden
 
 Gelet op de [artikelen 15.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1), [15.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.2) en [15.4 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.4), de artikelen 4, eerste lid onder d, en 5 van de op grond van artikel 114 van het Verdrag betreffende de werking van de Europese Unie vastgestelde verordening van het Europees parlement en de Raad van de Europese Unie betreffende open internettoegang en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81),
@@ -18,7 +43,7 @@ Treedt in werking met ingang van 1 januari 2018 ten aanzien van contracten die n
 
 ### afdeling Eerste. – Begripsbepalingen
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -32,19 +57,19 @@ In deze beleidsregel wordt verstaan onder:
 
 ### afdeling Tweede. – Internetsnelheid op vaste netwerken
 
-#### Artikel 2. Minimale download- en uploadsnelheid op vaste netwerken
+##### Artikel 2. Minimale download- en uploadsnelheid op vaste netwerken
 
 1. De ACM verstaat het volgende onder de minimale snelheid: de snelheid die een internettoegangsdienst te allen tijde moet kunnen behalen.
 
 2. Naar het oordeel van de ACM mag de gemeten snelheid nooit onder de minimumsnelheid liggen, behalve als de situatie zoals beschreven in [artikel 7.1a van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=7.1a) zich voordoet.
 
-#### Artikel 3. Normaliter beschikbare download- en uploadsnelheid op vaste netwerken
+##### Artikel 3. Normaliter beschikbare download- en uploadsnelheid op vaste netwerken
 
 1. De ACM verstaat het volgende onder de normaliter beschikbare snelheid: de snelheid die een internettoegangsdienst in de praktijk behaalt op een willekeurig moment van de dag.
 
 2. Naar het oordeel van de ACM moet de normaliter beschikbare snelheid ten minste worden gerealiseerd in acht van de tien metingen van een internettoegangsdienst die een eindgebruiker in één week uitvoert. Hierbij oordeelt de ACM dat de metingen gelijkmatig moeten worden verspreid over minimaal drie dagen in deze week en dat de metingen op elk moment van de dag moeten kunnen worden uitgevoerd, maar dat er niet meer dan één meting per uur wordt meegeteld.
 
-#### Artikel 4. Maximale download- en uploadsnelheid op vaste netwerken
+##### Artikel 4. Maximale download- en uploadsnelheid op vaste netwerken
 
 1. De ACM verstaat het volgende onder de maximumsnelheid: de hoogst haalbare snelheid die een internettoegangsdienst daadwerkelijk kan leveren binnen het afgesloten abonnement.
 
@@ -52,13 +77,13 @@ In deze beleidsregel wordt verstaan onder:
 
 ### afdeling Derde. – Internetsnelheid op mobiele netwerken
 
-#### Artikel 5. Geraamde maximale download- en uploadsnelheid op mobiele netwerken
+##### Artikel 5. Geraamde maximale download- en uploadsnelheid op mobiele netwerken
 
 Naar het oordeel van de ACM is de geraamde maximumsnelheid de hoogst haalbare snelheid die een internettoegangsdienst daadwerkelijk kan leveren binnen het afgesloten abonnement.
 
 ### afdeling Vierde. – Vaste en mobiele netwerken
 
-#### Artikel 6. Geadverteerde download- en uploadsnelheid op vaste en mobiele netwerken
+##### Artikel 6. Geadverteerde download- en uploadsnelheid op vaste en mobiele netwerken
 
 1. De ACM verstaat het volgende onder de geadverteerde snelheid: de snelheid die aanbieders van internettoegangsdiensten gebruiken in hun commerciële communicatie.
 
@@ -68,21 +93,21 @@ Naar het oordeel van de ACM is de geraamde maximumsnelheid de hoogst haalbare sn
 
 4. Naar het oordeel van de ACM dient de aanbieder van een internettoegangsdienst bij de geadverteerde download- en uploadsnelheid voor mobiele netwerken aan te geven dat de daadwerkelijk beschikbare snelheid kan afwijken van de geadverteerde snelheid.
 
-#### Artikel 7. Uitdrukking snelheden
+##### Artikel 7. Uitdrukking snelheden
 
 De ACM is van oordeel dat de in artikel 4 van de netneutraliteitsverordening genoemde snelheden moeten worden uitgedrukt in Mbit/s of Gbit/s.
 
-#### Artikel 8. Informatie over metingen
+##### Artikel 8. Informatie over metingen
 
 De ACM is van oordeel dat de aanbieder van een internettoegangsdienst eindgebruikers op de website duidelijk en begrijpelijk informatie moet verstrekken over de wijze waarop de metingen bedoeld in deze beleidsregel kunnen worden uitgevoerd.
 
 ### afdeling Vijfde. – Slotbepalingen
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Beleidsregel kenbaarheid internetsnelheden.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 1. Dit besluit wordt met toelichting in de Staatscourant geplaatst.
 

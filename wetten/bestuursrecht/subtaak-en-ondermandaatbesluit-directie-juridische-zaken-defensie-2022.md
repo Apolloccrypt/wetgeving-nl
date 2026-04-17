@@ -1,20 +1,45 @@
 ---
 title: "Subtaak- en ondermandaatbesluit Directie Juridische Zaken Defensie 2022"
 identifier: "BWBR0046562"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-04-14
-laatste_update: 2022-04-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046562"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-04-14"
+last_updated: "2022-04-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046562"
+soort: "ministeriele-regeling"
+stam_id: "16328673"
+version_id: "28545572"
+internal_id: "C40279531"
+label_id: "16253704"
+dtd_version: "2.0"
+original_entry_into_force: "2022-04-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046562/2022-04-14/0"
+intitule_bron: "Stcrt.2022-9869"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-03-16"
+intitule_published: "2022-04-13"
+intitule_in_force: "2022-04-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-9869"
+original_signed_date: "2022-03-16"
+original_published_date: "2022-04-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-9869"
+entry_into_force_date: "2022-04-14"
+jci_1_3: "jci1.3:c:BWBR0046562&z=2022-04-14&g=2022-04-14"
+jci_1_0: "1.0:c:BWBR0046562&g=2022-04-14"
+citeertitel_status: "officieel"
+signed_date: "2022-03-16"
+entry_into_force: "2022-04-14"
 ---
-
 # Subtaak- en ondermandaatbesluit Directie Juridische Zaken Defensie 2022
 
 Gelet op [artikel 26 van het Algemeen organisatiebesluit Defensie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044746&artikel=26) en op [artikel 3 van het Ondermandaat-, volmacht- en machtigingsbesluit SG Defensie 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046552&artikel=3);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -26,7 +51,7 @@ In dit besluit wordt verstaan onder:
 
 - d. **machtiging:** de bevoegdheid om in naam van de bewindspersoon handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
 
-#### Artikel 2. Organisatie van de Directie Juridische Zaken
+##### Artikel 2. Organisatie van de Directie Juridische Zaken
 
 De Directie Juridische Zaken bestaat uit:
 
@@ -42,7 +67,7 @@ De Directie Juridische Zaken bestaat uit:
 
 - f. de militair juridische dienst krijgsmacht.
 
-#### Artikel 3. Plaatsvervangend directeur en adjunct directeur
+##### Artikel 3. Plaatsvervangend directeur en adjunct directeur
 
 De Directeur Juridische Zaken laat zich bij de uitvoering van zijn taken, genoemd in [artikel 6, onder a, van het Algemeen organisatiebesluit Defensie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044746&artikel=6), bijstaan door:
 
@@ -60,15 +85,15 @@ De Directeur Juridische Zaken laat zich bij de uitvoering van zijn taken, genoem
 
 - 3°. door de Directeur Juridische Zaken opgedragen werkzaamheden of taken.
 
-#### Artikel 3a. Ondermandaat, -volmacht en -machtiging plaatsvervangend directeur
+##### Artikel 3a. Ondermandaat, -volmacht en -machtiging plaatsvervangend directeur
 
 Aan de plaatsvervangend directeur wordt mandaat, volmacht en machtiging verleend met betrekking tot de aangelegenheden die ingevolge [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=3&z=2022-04-14&g=2022-04-14), tot zijn werkterrein behoren.
 
-#### Artikel 3b. Ondermandaat, -volmacht en -machtiging adjunct directeur
+##### Artikel 3b. Ondermandaat, -volmacht en -machtiging adjunct directeur
 
 Aan de adjunct directeur wordt mandaat, volmacht en machtiging verleend met betrekking tot de aangelegenheden die ingevolge [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=3&z=2022-04-14&g=2022-04-14), tot zijn werkterrein behoren, alsmede voor aangelegenheden voortvloeiende uit de plaatsvervanging van de Directeur Juridische Zaken en de plaatsvervangend Directeur Juridische Zaken bij beider afwezigheid, met uitzondering van de aangelegenheden genoemd in [artikel 6, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=6&z=2022-04-14&g=2022-04-14).
 
-#### Artikel 4. Cluster wet- en regelgeving
+##### Artikel 4. Cluster wet- en regelgeving
 
 Het cluster wet- en regelgeving is belast met de volgende taken:
 
@@ -86,11 +111,11 @@ Het cluster wet- en regelgeving is belast met de volgende taken:
 
 - g. de zorg voor de behandeling van constitutionele vraagstukken.
 
-#### Artikel 4a. Ondermandaat cluster wet- en regelgeving
+##### Artikel 4a. Ondermandaat cluster wet- en regelgeving
 
 Aan de coördinator van het cluster wet- en regelgeving wordt mandaat verleend met betrekking tot de aangelegenheden die ingevolge [artikel 4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=4&z=2022-04-14&g=2022-04-14), tot zijn werkterrein behoren.
 
-#### Artikel 5. Cluster internationale aangelegenheden
+##### Artikel 5. Cluster internationale aangelegenheden
 
 Het cluster internationale aangelegenheden is belast met de volgende taken:
 
@@ -102,13 +127,13 @@ Het cluster internationale aangelegenheden is belast met de volgende taken:
 
 - d. de toetsing van defensieproducten op volkenrechtelijke en humanitair oorlogsrechtelijke zorgvuldigheid alsmede de advisering op dit gebied.
 
-#### Artikel 5a. Ondermandaat, -volmacht en -machtiging cluster internationale aangelegenheden
+##### Artikel 5a. Ondermandaat, -volmacht en -machtiging cluster internationale aangelegenheden
 
 1. Aan de coördinator van het cluster internationale aangelegenheden wordt mandaat, volmacht en machtiging verleend om bij afwezigheid van de Directeur Juridische Zaken, de plaatsvervangend directeur en de adjunct directeur op te treden als vervanger van de Directeur Juridische Zaken.
 
 2. Aan de coördinator van het cluster internationale aangelegenheden wordt mandaat verleend met betrekking tot de aangelegenheden die ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=5&z=2022-04-14&g=2022-04-14) tot zijn werkterrein behoren.
 
-#### Artikel 6. Cluster nationale taken en rechtshandhaving
+##### Artikel 6. Cluster nationale taken en rechtshandhaving
 
 Het cluster nationale taken en rechtshandhaving is belast met de volgende taken:
 
@@ -124,13 +149,13 @@ Het cluster nationale taken en rechtshandhaving is belast met de volgende taken:
 
 - f. de juridisch-bestuurlijke advisering in aangelegenheden betreffende de Koninklijke Marechaussee, zowel ten aanzien van haar eigen taken als ten aanzien van de ondersteuning van de civiele autoriteiten, waaronder bijstand.
 
-#### Artikel 6a. Ondermandaat, -volmacht en -machtiging Cluster nationale taken en rechtshandhaving
+##### Artikel 6a. Ondermandaat, -volmacht en -machtiging Cluster nationale taken en rechtshandhaving
 
 1. Aan de coördinator van het cluster nationale taken en rechtshandhaving wordt mandaat, volmacht en machtiging verleend om bij afwezigheid van de Directeur Juridische Zaken, de plaatsvervangend directeur en de adjunct directeur op te treden als vervanger van de Directeur Juridische Zaken.
 
 2. Aan de coördinator van het cluster nationale taken en rechtshandhaving wordt mandaat verleend met betrekking tot de aangelegenheden die ingevolge [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=6&z=2022-04-14&g=2022-04-14) tot zijn werkterrein behoren.
 
-#### Artikel 7. Cluster civielrecht
+##### Artikel 7. Cluster civielrecht
 
 Het cluster civielrecht is belast met de volgende taken:
 
@@ -150,11 +175,11 @@ Het cluster civielrecht is belast met de volgende taken:
 
 - h. het in rechte vertegenwoordigen van de bewindspersoon op de in dit artikel genoemde gebieden.
 
-#### Artikel 7a. Ondermachtiging Cluster civielrecht
+##### Artikel 7a. Ondermachtiging Cluster civielrecht
 
 Aan de coördinator en de senior-medewerkers van het cluster civielrecht wordt machtiging verleend met betrekking tot de aangelegenheden die ingevolge [artikel 7, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=7&z=2022-04-14&g=2022-04-14), tot hun werkterrein behoren.
 
-#### Artikel 8. Cluster bestuurs-, straf- en tuchtrecht
+##### Artikel 8. Cluster bestuurs-, straf- en tuchtrecht
 
 Het cluster bestuurs-, straf- en tuchtrecht is belast met de volgende taken:
 
@@ -170,7 +195,7 @@ Het cluster bestuurs-, straf- en tuchtrecht is belast met de volgende taken:
 
 - f. het behandelen van bezwaarschriften, beroepschriften en hoger beroepschriften als bedoeld in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en het optreden ter terechtzitting in defensieaangelegenheden op de in dit artikel genoemde gebieden.
 
-#### Artikel 8a. Ondermandaat, -volmacht en machtiging Cluster bestuurs-, straf- en tuchtrecht
+##### Artikel 8a. Ondermandaat, -volmacht en machtiging Cluster bestuurs-, straf- en tuchtrecht
 
 1. Aan de coördinator van het cluster bestuurs-, straf- en tuchtrecht wordt mandaat, volmacht en machtiging verleend om bij afwezigheid van de Directeur Juridische Zaken, de plaatsvervangend directeur en de adjunct directeur op te treden als vervanger van de Directeur Juridische Zaken.
 
@@ -178,7 +203,7 @@ Het cluster bestuurs-, straf- en tuchtrecht is belast met de volgende taken:
 
 3. Aan de coördinator en de senior-medewerkers van het cluster bestuurs-, straf- en tuchtrecht wordt machtiging verleend met betrekking tot de aangelegenheden die ingevolge [artikel 8, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=8&z=2022-04-14&g=2022-04-14), tot hun werkterrein behoren.
 
-#### Artikel 9. Militair Juridische Dienst Krijgsmacht
+##### Artikel 9. Militair Juridische Dienst Krijgsmacht
 
 Het hoofd van de Militair Juridische Dienst Krijgsmacht is belast met de volgende taken:
 
@@ -192,17 +217,17 @@ Het hoofd van de Militair Juridische Dienst Krijgsmacht is belast met de volgend
 
 - e. het geven van vorm en inhoud aan de traditiebeleving en het ‘esprit de corps’ binnen de Militair Juridische Dienst Krijgsmacht.
 
-#### Artikel 9a. Ondermandaat Militair Juridische Dienst Krijgsmacht
+##### Artikel 9a. Ondermandaat Militair Juridische Dienst Krijgsmacht
 
 Aan het Hoofd van de Militair Juridische Dienst Krijgsmacht wordt mandaat verleend met betrekking tot de aangelegenheden die ingevolge [artikel 9, onderdelen b, c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=9&z=2022-04-14&g=2022-04-14), tot zijn werkterrein behoren.
 
-#### Artikel 10. Uitzondering op verleende bevoegdheden
+##### Artikel 10. Uitzondering op verleende bevoegdheden
 
 1. De functionarissen, bedoeld in de [artikelen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=3a&z=2022-04-14&g=2022-04-14), [3b](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=3b&z=2022-04-14&g=2022-04-14), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=4a&z=2022-04-14&g=2022-04-14), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=5a&z=2022-04-14&g=2022-04-14), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=6a&z=2022-04-14&g=2022-04-14), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=7a&z=2022-04-14&g=2022-04-14), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=8a&z=2022-04-14&g=2022-04-14) en [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=9a&z=2022-04-14&g=2022-04-14) maken geen gebruik van de aan hen verleende bevoegdheden in gevallen waarin de rechtshandeling of andere handeling van een zodanig gewicht is dat deze redelijkerwijs door de Directeur Juridische Zaken dient te worden verricht.
 
 2. De functionarissen, bedoeld in de [artikelen 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=4a&z=2022-04-14&g=2022-04-14), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=5a&z=2022-04-14&g=2022-04-14), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=6a&z=2022-04-14&g=2022-04-14), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=7a&z=2022-04-14&g=2022-04-14), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=8a&z=2022-04-14&g=2022-04-14) en [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=9a&z=2022-04-14&g=2022-04-14), maken geen gebruik van de aan hen verleende bevoegdheden in gevallen waarin de rechtshandeling of andere handeling van een zodanig gewicht is dat deze redelijkerwijs, bij afwezigheid van de Directeur Juridische Zaken, door de plaatsvervangend directeur of de adjunct directeur dient te worden verricht.
 
-#### Artikel 11. Ondertekening krachtens mandaat, volmacht of machtiging
+##### Artikel 11. Ondertekening krachtens mandaat, volmacht of machtiging
 
 Een document dat krachtens mandaat, volmacht of machtiging wordt ondertekend bevat aan het slot de volgende formule:
 
@@ -212,15 +237,15 @@ voor deze,
 
 **<< functie, handtekening en naam van de ondertekenaar >>**
 
-#### Artikel 12. Intrekking oude subtaakbesluit en ondermandaatbesluit
+##### Artikel 12. Intrekking oude subtaakbesluit en ondermandaatbesluit
 
 Het Subtaakbesluit DJZ Defensie 2016 en het [Ondermandaat, -volmacht en -machtigingsbesluit DJZ 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043183) worden ingetrokken.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 1 januari 2022.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Subtaak- en ondermandaatbesluit Directie Juridische Zaken Defensie 2022.
 

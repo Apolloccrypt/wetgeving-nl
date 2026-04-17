@@ -1,13 +1,39 @@
 ---
-title: "Regeling vaststelling modellen kwalificatiedossier en keuzedeel en toetsingskader kwalificatiestructuur mbo 2016"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 februari 2016, nr. MBO/794457, houdende de vaststelling van het model kwalificatiedossier mbo, het model keuzedeel mbo, inclusief de bij de modellen behorende instructie en het toetsingskader kwalificatiestructuur mbo (Regeling vaststelling modellen kwalificatiedossier en keuzedeel en toetsingskader kwalificatiestructuur mbo 2016)"
 identifier: "BWBR0037661"
-categorie: "Onderwijs"
-publicatiedatum: 2022-08-01
-laatste_update: 2022-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037661"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-08-01"
+last_updated: "2022-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037661"
+soort: "ministeriele-regeling"
+stam_id: "13425093"
+version_id: "23041582"
+internal_id: "C33305061"
+label_id: "13392514"
+dtd_version: "2.0"
+original_entry_into_force: "2016-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037661/2022-08-01/0"
+intitule_bron: "Stcrt.2016-10123"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-02-14"
+intitule_published: "2016-02-29"
+intitule_in_force: "2016-02-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-10123"
+original_signed_date: "2016-02-14"
+original_published_date: "2016-02-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-10123"
+entry_into_force_date: "2016-03-01"
+jci_1_3: "jci1.3:c:BWBR0037661&z=2022-08-01&g=2022-08-01"
+jci_1_0: "1.0:c:BWBR0037661&g=2022-08-01"
+citeertitel_status: "officieel"
+short_title: "Regeling vaststelling modellen kwalificatiedossier en keuzedeel en toetsingskader kwalificatiestructuur mbo 2016"
+signed_date: "2016-02-14"
+entry_into_force: "2016-03-01"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 februari 2016, nr. MBO/794457, houdende de vaststelling van het model kwalificatiedossier mbo, het model keuzedeel mbo, inclusief de bij de modellen behorende instructie en het toetsingskader kwalificatiestructuur mbo (Regeling vaststelling modellen kwalificatiedossier en keuzedeel en toetsingskader kwalificatiestructuur mbo 2016)
 
 Handelende in overeenstemming met de Staatssecretaris van Economische Zaken;
@@ -16,7 +42,7 @@ Gelet op [artikel 7.2.4, zesde lid, van de Wet educatie en beroepsonderwijs](htt
 
 Besluit:
 
-#### Artikel 1. Vaststelling van modellen, instructies en toetsingskader
+##### Artikel 1. Vaststelling van modellen, instructies en toetsingskader
 
 1. Het model voor een kwalificatiedossier wordt vastgesteld op de wijze bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=1&z=2022-08-01&g=2022-08-01) behorende bij deze regeling.
 
@@ -26,11 +52,11 @@ Besluit:
 
 4. Het toetsingskader voor de kwalificatiestructuur wordt vastgesteld op de wijze bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=4&z=2022-08-01&g=2022-08-01) behorende bij deze regeling.
 
-#### Artikel 2. Inwerkingtreding
+##### Artikel 2. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 februari 2016.
 
-#### Artikel 3. Citeertitel
+##### Artikel 3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling vaststelling modellen kwalificatiedossier en keuzedeel en toetsingskader kwalificatiestructuur mbo 2016.
 

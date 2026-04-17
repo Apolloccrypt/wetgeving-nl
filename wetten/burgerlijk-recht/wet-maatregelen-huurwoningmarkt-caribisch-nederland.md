@@ -1,14 +1,41 @@
 ---
-title: "Wet maatregelen huurwoningmarkt Caribisch Nederland"
+title: "Wet van 19 april 2017 tot integratie van de Wet huurcommissieregeling BES in een Wet maatregelen huurwoningmarkt Caribisch Nederland onder gelijktijdige aanpassing van eerstgenoemde wet, van Boek 7a van het Burgerlijk Wetboek BES en de Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES (Wet maatregelen huurwoningmarkt Caribisch Nederland)"
 identifier: "BWBR0039553"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2025-02-12
-laatste_update: 2025-02-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039553"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2025-02-12"
+last_updated: "2025-02-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039553"
+soort: "wet-BES"
+stam_id: "14004123"
+version_id: "24100122"
+internal_id: "C39022101"
+label_id: "13966644"
+dtd_version: "2.0"
+original_entry_into_force: "2021-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039553/2025-02-12/0"
+intitule_bron: "Stb.2017-189"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-04-19"
+intitule_published: "2017-05-12"
+intitule_in_force: "2021-03-31"
+intitule_status: "goed"
+original_publication: "Stb.2017-189"
+original_signed_date: "2017-04-19"
+original_published_date: "2017-05-12"
+original_effect: "nieuwe-regeling"
+original_dossier: "34523"
+original_url_id: "stb-2017-189"
+entry_into_force_date: "2021-04-01"
+jci_1_3: "jci1.3:c:BWBR0039553&z=2025-02-12&g=2025-02-12"
+jci_1_0: "1.0:c:BWBR0039553&g=2025-02-12"
+citeertitel_status: "officieel"
+short_title: "Wet maatregelen huurwoningmarkt Caribisch Nederland"
+signed_date: "2017-04-19"
+entry_into_force: "2021-04-01"
 ---
-
-# Wet maatregelen huurwoningmarkt Caribisch Nederland
+# Wet van 19 april 2017 tot integratie van de Wet huurcommissieregeling BES in een Wet maatregelen huurwoningmarkt Caribisch Nederland onder gelijktijdige aanpassing van eerstgenoemde wet, van Boek 7a van het Burgerlijk Wetboek BES en de Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES (Wet maatregelen huurwoningmarkt Caribisch Nederland)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +47,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Afdeling 1. Begripsomschrijvingen
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -36,11 +63,11 @@ In dit hoofdstuk wordt verstaan onder:
 
 ### Afdeling 2. Reikwijdte
 
-#### Artikel 1.2
+##### Artikel 1.2
 
 Deze wet is van toepassing in de openbare lichamen.
 
-#### Artikel 1.3
+##### Artikel 1.3
 
 1. [Hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&hoofdstuk=1&z=2025-02-12&g=2025-02-12) van deze wet is niet van toepassing op overeenkomsten van huur en verhuur van een woning die een gebruik betreffen, dat naar zijn aard slechts van korte duur is.
 
@@ -54,11 +81,11 @@ Deze wet is van toepassing in de openbare lichamen.
 
 #### § 1. Instelling, inrichting en samenstelling van de huurcommissie
 
-#### Artikel 1.4
+##### Artikel 1.4
 
 In elk der openbare lichamen wordt door het bestuurscollege een huurcommissie ingesteld die bevoegd is voor het betreffende openbare lichaam.
 
-#### Artikel 1.5
+##### Artikel 1.5
 
 1. De huurcommissie bestaat uit een voorzitter en twee leden. De leden zijn afkomstig uit de kring van huurders onderscheidenlijk verhuurders.
 
@@ -66,7 +93,7 @@ In elk der openbare lichamen wordt door het bestuurscollege een huurcommissie in
 
 3. Voor iedere huurcommissie worden voorts benoemd een plaatsvervangend voorzitter, een plaatsvervangend lid, uitsluitend om bij afwezigheid of ontstentenis van het daartoe benoemd lid in de huurcommissie de belangen van de huurders van woningen te vertegenwoordigen, een plaatsvervangend lid, uitsluitend om bij afwezigheid of ontstentenis van het daartoe benoemd lid in de huurcommissie de belangen van de verhuurders te vertegenwoordigen. Zij voldoen aan dezelfde vereisten als de voorzitter onderscheidenlijk de leden van de huurcommissie.
 
-#### Artikel 1.6
+##### Artikel 1.6
 
 1. Het bestuurscollege van elk van de openbare lichamen benoemt, schorst en ontslaat de voorzitter, de plaatsvervangend voorzitter, de secretaris en de plaatsvervangend secretaris van de huurcommissie. De voorzitter, de plaatsvervangend voorzitter, de secretaris en de plaatsvervangend secretaris van de huurcommissie worden in ieder geval ontslagen indien zij de leeftijd van zeventig jaren hebben bereikt.
 
@@ -76,7 +103,7 @@ In elk der openbare lichamen wordt door het bestuurscollege een huurcommissie in
 
 4. Het bestuurscollege van elk van de openbare lichamen benoemt de leden en de plaatsvervangende leden van de huurcommissie. Hij is tevens bevoegd de leden en de plaatsvervangende leden van de huurcommissie te schorsen en te ontslaan.
 
-#### Artikel 1.7
+##### Artikel 1.7
 
 1. De voorzitter, de plaatsvervangend voorzitter, de leden en de plaatsvervangende leden van de huurcommissie zijn meerderjarige Nederlandse onderdanen, waarbij die voorzitter, die plaatsvervangend voorzitter, die leden en die plaatsvervangende leden ingezetenen zijn van het eiland, waarvoor de huurcommissie is ingesteld.
 
@@ -86,7 +113,7 @@ In elk der openbare lichamen wordt door het bestuurscollege een huurcommissie in
 
 4. De voorzitter, de plaatsvervangend voorzitter, de leden, de plaatsvervangende leden, de secretaris en de plaatsvervangend secretaris van de huurcommissie zijn niet metterdaad betrokken bij de uitoefening van een bedrijf dat werkzaam is of mede werkzaam is op het gebied van een woning, noch is het hen toegestaan beroepsmatig betrokken te zijn bij het beheer van en de beschikking over een woning dan wel deel uit te maken van het bestuur van een vereniging, vennootschap of stichting die daarbij is betrokken.
 
-#### Artikel 1.8
+##### Artikel 1.8
 
 1. De voorzitter, de secretaris en de plaatsvervangend secretaris van de huurcommissie genieten een bezoldiging en verdere vergoedingen volgens bij eilandsverordening te stellen regels. Hun rechtspositie wordt nader geregeld bij eilandsverordening.
 
@@ -94,7 +121,7 @@ In elk der openbare lichamen wordt door het bestuurscollege een huurcommissie in
 
 #### § 2. Taken van de huurcommissie en van de voorzitter van de huurcommissie
 
-#### Artikel 1.9
+##### Artikel 1.9
 
 1. De huurcommissie heeft de in het tweede tot en met vierde lid en de in [artikel 1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.10&z=2025-02-12&g=2025-02-12) aangegeven taken.
 
@@ -126,11 +153,11 @@ In elk der openbare lichamen wordt door het bestuurscollege een huurcommissie in
 
 5. De huurcommissie doet uitspraak indien ingevolge [artikel 1.25, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&hoofdstuk=1&afdeling=5&artikel=1.25&z=2025-02-12&g=2025-02-12), verzet is gedaan tegen een uitspraak van de voorzitter.
 
-#### Artikel 1.10
+##### Artikel 1.10
 
 De huurcommissie verstrekt op verzoek aan het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba nadere inlichtingen over een door haar gedane uitspraak, alsmede, ingeval zij geen uitspraak heeft gedaan, indien het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba geacht kan worden daarbij belang te hebben, over de aan een woning toe te kennen kwaliteit en een voor die woning redelijk te achten huurprijs.
 
-#### Artikel 1.11
+##### Artikel 1.11
 
 De voorzitter heeft tot taak in afwijking van [artikel 1.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1.9&z=2025-02-12&g=2025-02-12), en de in het tweede en derde lid van dat artikel aangegeven gevallen uitspraak te doen indien ten aanzien van een aan de huurcommissie gedaan verzoek een van de in [artikel 1.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&hoofdstuk=1&afdeling=5&artikel=1.25&z=2025-02-12&g=2025-02-12), bedoelde gevallen zich voordoet.
 
@@ -138,13 +165,13 @@ De voorzitter heeft tot taak in afwijking van [artikel 1.9, eerste lid](https://
 
 #### § 1. Algemeen
 
-#### Artikel 1.12
+##### Artikel 1.12
 
 1. Een verzoek aan de huurcommissie wordt schriftelijk ingediend. De huurcommissie behandelt en beslist de bij haar aangebrachte zaken binnen zes weken na ontvangst van het verzoekschrift.
 
 2. De huurcommissie toetst bij aan haar gedane verzoeken of voldaan is aan de voor die verzoeken bij of krachtens deze wet gestelde voorschriften.
 
-#### Artikel 1.13
+##### Artikel 1.13
 
 1. Bij eilandsverordening worden per categorie woning regels gegeven voor de waardering van de kwaliteit van een woonruimte, van de redelijkheid van de huurprijs en van wijziging daarvan.
 
@@ -154,7 +181,7 @@ De voorzitter heeft tot taak in afwijking van [artikel 1.9, eerste lid](https://
 
 #### § 2. Aanvangshuurprijs
 
-#### Artikel 1.14
+##### Artikel 1.14
 
 1. In geval van een verzoek als bedoeld in [artikel 7a:1603b van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1603b) doet de huurcommissie uitspraak omtrent de redelijkheid van de overeengekomen huurprijs.
 
@@ -166,7 +193,7 @@ De voorzitter heeft tot taak in afwijking van [artikel 1.9, eerste lid](https://
 
 5. De huurcommissie beoordeelt de kwaliteit van de woonruimte en de redelijkheid van de huurprijs naar de toestand op de datum van ingang van de huurovereenkomst.
 
-#### Artikel 1.15
+##### Artikel 1.15
 
 1. In geval van een verzoek als bedoeld in [artikel 7a:1603b van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1603b) spreekt de huurcommissie tevens uit of zij van oordeel is dat de overeengekomen huurprijs of de op grond van [artikel 1.14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&hoofdstuk=1&afdeling=4&paragraaf=2&artikel=1.14&z=2025-02-12&g=2025-02-12), redelijk geachte huurprijs, gelet op de gebreken ten aanzien van de woonruimte, in rekening dient te worden gebracht. Indien de huurcommissie van oordeel is dat die huurprijs, gelet op de gebreken, niet in rekening dient te worden gebracht, geeft zij deze gebreken in de uitspraak aan en vermeldt zij een in verhouding tot die gebreken lagere huurprijs als de in rekening te brengen huurprijs.
 
@@ -180,7 +207,7 @@ De voorzitter heeft tot taak in afwijking van [artikel 1.9, eerste lid](https://
 
 #### § 3. Verhoging van de huurprijs
 
-#### Artikel 1.16
+##### Artikel 1.16
 
 1. In geval van een verzoek als bedoeld in [artikel 7a:1603f van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1603f) doet de huurcommissie uitspraak omtrent de redelijkheid van de huurprijsverhoging die is vermeld in het daaraan ten grondslag liggende voorstel. De huurcommissie spreekt uit welke huurprijsverhoging zij redelijk acht, in welk geval zij tevens aangeeft tot welke huurprijs die huurprijsverhoging leidt, dan wel dat zij een huurprijsverhoging niet redelijk acht.
 
@@ -196,7 +223,7 @@ De voorzitter heeft tot taak in afwijking van [artikel 1.9, eerste lid](https://
 
 #### § 4. Verlaging van de huurprijs
 
-#### Artikel 1.17
+##### Artikel 1.17
 
 1. In geval van een verzoek als bedoeld in [artikel 7a:1603g van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1603g) doet de huurcommissie uitspraak omtrent de redelijkheid van de huurprijsverlaging die is vermeld in het daaraan ten grondslag liggende voorstel. De huurcommissie spreekt uit welke huurprijsverlaging zij redelijk acht, in welk geval zij tevens aangeeft tot welke huurprijs die huurprijsverlaging leidt, dan wel dat zij een huurprijsverlaging niet redelijk acht.
 
@@ -204,7 +231,7 @@ De voorzitter heeft tot taak in afwijking van [artikel 1.9, eerste lid](https://
 
 #### § 5. Verhoging van de huurprijs na de totstandkoming van voorzieningen, veranderingen of toevoegingen
 
-#### Artikel 1.18
+##### Artikel 1.18
 
 1. In geval van een verzoek als bedoeld in [artikel 7a:1603h van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1603h) doet de huurcommissie uitspraak omtrent de huurprijswijziging die zij redelijk acht. De huurcommissie vermeldt in de uitspraak dat de overeengekomen huurprijs redelijk is dan wel welke de huurprijs is die zij redelijk acht, alsmede de datum van ingang van de huurprijswijziging, zijnde de eerste dag van de maand, volgend op die waarin de voorzieningen, veranderingen of verbeteringen zijn gereedgekomen.
 
@@ -212,7 +239,7 @@ De voorzitter heeft tot taak in afwijking van [artikel 1.9, eerste lid](https://
 
 #### § 6. De in rekening te brengen huurprijs bij vermindering van het woongenot als gevolg van een gebrek
 
-#### Artikel 1.19
+##### Artikel 1.19
 
 1. In geval van een verzoek als bedoeld in [artikel 7a:1603i van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1603i) doet de huurcommissie uitspraak of zij van oordeel is dat de overeengekomen huurprijs, in verband met de gebreken ten aanzien van de woonruimte, in rekening dient te worden gebracht. Indien de commissie van oordeel is dat die huurprijs, in verband met de gebreken, niet in rekening dient te worden gebracht, geeft zij deze gebreken in de uitspraak aan en vermeldt zij een in verhouding tot die gebreken lagere huurprijs als de in rekening te brengen huurprijs.
 
@@ -224,19 +251,19 @@ De voorzitter heeft tot taak in afwijking van [artikel 1.9, eerste lid](https://
 
 #### § 7. All-in prijzen, servicekosten en bedingen
 
-#### Artikel 1.20
+##### Artikel 1.20
 
 1. Indien de huurcommissie in geval van een verzoek als bedoeld in [artikel 7a:1603j van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1603j) van oordeel is dat niet een huurprijs is overeengekomen, stelt zij de huurprijs vast op 55% van de overeengekomen prijs en het voorschotbedrag aan servicekosten op 25% van de overeengekomen prijs.
 
 2. De huurprijs en het bedrag aan servicekosten, bedoeld in het eerste lid, treden in de plaats van de overeengekomen prijs met ingang van de eerste dag, volgend op die waarin het verzoek is ontvangen.
 
-#### Artikel 1.21
+##### Artikel 1.21
 
 1. In geval van een verzoek als bedoeld in [artikel 7a:1603k van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1603k) doet de huurcommissie uitspraak omtrent de betalingsverplichting van de huurder met betrekking tot de servicekosten.
 
 2. De huurcommissie toetst de servicekosten aan de voor de berekening daarvan geldende wettelijke voorschriften en aan de redelijkheid.
 
-#### Artikel 1.22
+##### Artikel 1.22
 
 1. In geval van een verzoek als bedoeld in [artikel 7a:1603l van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1603l) doet de huurcommissie uitspraak omtrent de vraag of met een beding in verband met de totstandkoming van een huurovereenkomst een niet redelijk voordeel is overeengekomen.
 
@@ -244,17 +271,17 @@ De voorzitter heeft tot taak in afwijking van [artikel 1.9, eerste lid](https://
 
 #### § 7*. Opzegging van de huurovereenkomst
 
-#### Artikel 1.23
+##### Artikel 1.23
 
 In geval van een verzoek als bedoeld in [artikel 7a:1603o van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1603o) doet de huurcommissie uitspraak of zij van oordeel is dat de huurovereenkomst op juiste gronden is opgezegd.
 
-#### Artikel 1.24
+##### Artikel 1.24
 
 Indien bij de behandeling van het verzoek blijkt, dat er tussen de verhuurder en de huurder een geschil bestaat over het bedrag van de huurprijs, dat op grond van bepalingen van dit hoofdstuk verschuldigd is, zal de huurcommissie daarnaar onderzoek doen, aan partijen mededelen, welk bedrag van de huurprijs naar haar mening verschuldigd is en de vordering niet toewijzen alvorens de huurder een termijn te hebben gegund om alsnog aan zijn verplichtingen te voldoen.
 
 ### Afdeling 5. Voorzittersuitspraken
 
-#### Artikel 1.25
+##### Artikel 1.25
 
 1. De voorzitter doet onverwijld binnen drie weken na het voorbereidend onderzoek, bedoeld in [artikel 1.33](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&hoofdstuk=1&afdeling=6&paragraaf=2&artikel=1.33&z=2025-02-12&g=2025-02-12), schriftelijk en met redenen omkleed uitspraak, indien het verzoek kennelijk niet-ontvankelijk of kennelijk redelijk of niet redelijk is.
 
@@ -278,11 +305,11 @@ Indien bij de behandeling van het verzoek blijkt, dat er tussen de verhuurder en
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1.26
+##### Artikel 1.26
 
 Bij afwezigheid of ontstentenis van de voorzitter worden zijn werkzaamheden verricht door de plaatsvervangend voorzitter. Bij afwezigheid of ontstentenis van een lid, neemt een der plaatsvervangende leden zitting op verzoek van de voorzitter en met inachtneming van het bepaalde bij [artikel 1.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.5&z=2025-02-12&g=2025-02-12). Bij afwezigheid of ontstentenis van de secretaris worden zijn werkzaamheden verricht door de plaatsvervangend secretaris of, bij afwezigheid of ontstentenis van deze, door het lid van de huurcommissie dat de voorzitter daartoe zal aanwijzen.
 
-#### Artikel 1.27
+##### Artikel 1.27
 
 1. Waar in [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&hoofdstuk=1&z=2025-02-12&g=2025-02-12) van deze wet sprake is van de voorzitter van de huurcommissie, wordt daaronder mede verstaan de plaatsvervangend voorzitter, die bij afwezigheid of ontstentenis van de voorzitter diens werkzaamheden verricht.
 
@@ -290,31 +317,31 @@ Bij afwezigheid of ontstentenis van de voorzitter worden zijn werkzaamheden verr
 
 3. Een plaatsvervangend lid, dat op verzoek van de voorzitter aan de werkzaamheden van de huurcommissie deelneemt is, wat die werkzaamheden betreft, lid van de huurcommissie in de plaats van het lid dat hij vervangt.
 
-#### Artikel 1.28
+##### Artikel 1.28
 
 De huurcommissie kan geen zaak behandelen, indien niet de voorzitter en twee leden aanwezig zijn en de belangen van huurders en die van verhuurders van woningen niet gelijkelijk vertegenwoordigd zijn.
 
-#### Artikel 1.29
+##### Artikel 1.29
 
 De voorzitter, de leden en de secretaris van de huurcommissie zijn verplicht het geheim van de beraadslagingen te bewaren. Zij zijn voorts verplicht tot geheimhouding omtrent al hetgeen hun in hun hoedanigheid is bekend geworden.
 
 #### § 2. De voorbereiding van de zitting
 
-#### Artikel 1.30
+##### Artikel 1.30
 
 Hij die een verzoekschrift tot de huurcommissie heeft gericht, verschaft haar alle hem ten dienste staande gegevens ter vervulling van haar taak. Hij volgt de aanwijzingen hem door of namens de huurcommissie gegeven.
 
-#### Artikel 1.31
+##### Artikel 1.31
 
 1. De secretaris doet alle ingekomen stukken onverwijld aan de voorzitter ter kennisneming toekomen.
 
 2. De secretaris stelt de partij die niet de verzoeker is in kennis van de inhoud van het verzoek.
 
-#### Artikel 1.32
+##### Artikel 1.32
 
 Indien een verzoekschrift niet voldoende mededeling bevat, stelt de secretaris de verzoeker in de gelegenheid het verzoekschrift aan te vullen.
 
-#### Artikel 1.33
+##### Artikel 1.33
 
 1. De voorzitter en de leden kunnen de zaak onderzoeken, voordat deze door haar wordt beslist. Van het onderzoek wordt een schriftelijk rapport opgemaakt.
 
@@ -324,23 +351,23 @@ Indien een verzoekschrift niet voldoende mededeling bevat, stelt de secretaris d
 
 4. De voorzitter en de leden hebben toegang tot alle woningen, alsmede tot ruimte die als zodanig kan worden gebruikt, voor zover dat redelijkerwijs voor de uitoefening van hun taak nodig is. Zij kunnen zich bij het betreden door bepaalde, door hen aan te wijzen personen doen vergezellen. Zo nodig verschaffen zij zich toegang met behulp van de sterke arm.
 
-#### Artikel 1.34
+##### Artikel 1.34
 
 1. De voorzitter bepaalt dag, plaats en uur van behandeling van de zaak. De secretaris geeft daarvan onverwijld kennis aan de leden.
 
 2. Schriftelijke bescheiden met betrekking tot de zaak worden voor de behandeling bij de secretaris neergelegd ter kennisneming van de leden.
 
-#### Artikel 1.35
+##### Artikel 1.35
 
 De oproeping van de huurder en van de verhuurder om bij de behandeling van een verzoek krachtens dit hoofdstuk tegenwoordig te zijn, geschiedt schriftelijk door de secretaris.
 
 #### § 3. De zitting
 
-#### Artikel 1.36
+##### Artikel 1.36
 
 Huurder en verhuurder kunnen zich voor de huurcommissie door een gemachtigde doen bijstaan of door een schriftelijk gemachtigde doen vertegenwoordigen.
 
-#### Artikel 1.37
+##### Artikel 1.37
 
 1. De huurcommissie is bevoegd zodanige personen op te roepen en, al of niet na beëdiging, als getuigen of deskundigen te horen of te doen horen, als zij voor de voorlichting nodig achten. Die personen zijn verplicht te verschijnen en de gevorderde voorlichting te geven. Zij worden door de secretaris opgeroepen bij aangetekende brief.
 
@@ -350,27 +377,27 @@ Huurder en verhuurder kunnen zich voor de huurcommissie door een gemachtigde doe
 
 4. De huurcommissie kan getuigen of deskundigen horen, die door een der partijen meegebracht, vrijwillig voor haar verschijnen.
 
-#### Artikel 1.38
+##### Artikel 1.38
 
 De secretaris is bij de zitting van de huurcommissie aanwezig. Hij houdt aantekening van hetgeen aldaar verhandeld wordt, met vermelding van de zakelijke inhoud van de verklaringen van de door de huurcommissie gehoorde personen.
 
 #### § 4. De uitspraak en verdere bepalingen
 
-#### Artikel 1.39
+##### Artikel 1.39
 
 De voorzitter en de leden onthouden zich van deelneming aan de behandeling van enige zaak, welke hun, hun echtgenoten of bloed- of aanverwanten tot en met de derde graad, persoonlijk aangaat, of waarin zij of een der genoemde personen als gemachtigden zijn betrokken. Deze onthouding wordt ten aanzien van een dergelijke zaak als afwezigheid aangemerkt.
 
-#### Artikel 1.40
+##### Artikel 1.40
 
 1. In alle zaken doet de voorzitter hoofdelijk rondvraag, te beginnen met het jongste lid in leeftijd. Zelf brengt hij het laatst zijn advies uit.
 
 2. Ieder aanwezig lid brengt zijn advies uit.
 
-#### Artikel 1.41
+##### Artikel 1.41
 
 Alle beslissingen worden genomen bij meerderheid van stemmen.
 
-#### Artikel 1.42
+##### Artikel 1.42
 
 1. De uitspraak van de huurcommissie wordt op het verzoekschrift gesteld of daaraan gehecht.
 
@@ -378,7 +405,7 @@ Alle beslissingen worden genomen bij meerderheid van stemmen.
 
 3. De mededeling van de uitspraak van de huurcommissie aan partijen geschiedt bij gedagtekende aan te tekenen brieven van de secretaris, waarbij aan ieder van hen een afschrift van de uitspraak en van het verzoekschrift toegezonden wordt.
 
-#### Artikel 1.43
+##### Artikel 1.43
 
 1. De secretaris houdt een openbaar register aan, waarin met weglating van de namen van de betrokken huurders en verhuurders de slotwoorden van de uitspraken van de huurcommissie zijn opgenomen.
 
@@ -386,45 +413,45 @@ Alle beslissingen worden genomen bij meerderheid van stemmen.
 
 3. Bij eilandsverordening kunnen nadere regels worden gesteld over de inrichting van het register.
 
-#### Artikel 1.44
+##### Artikel 1.44
 
 Voor de bestrijding van bureaukosten en de uitbetaling van de aan getuigen en deskundigen toe te leggen vergoedingen worden door het bestuurscollege aan de secretaris gelden ter beschikking gesteld.
 
 ### Afdeling 7. Slot- overgangsbepalingen
 
-#### Artikel 1.45
+##### Artikel 1.45
 
 Bij eilandsverordening kunnen ter uitvoering van [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&hoofdstuk=1&afdeling=4&z=2025-02-12&g=2025-02-12) nadere regels worden gesteld, waarbij formulieren kunnen worden vastgesteld.
 
-#### Artikel 1.46
+##### Artikel 1.46
 
 De op het tijdstip van inwerkingtreding van [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&hoofdstuk=1&z=2025-02-12&g=2025-02-12) van deze wet in een openbaar lichaam bij een huurcommissie onderscheidenlijk de voorzitter van de huurcommissie aanhangige verzoeken worden met toepassing van het vóór het tijdstip van inwerkingtreding van hoofdstuk 1 van deze wet in dat openbaar lichaam geldende recht behandeld door de huurcommissie onderscheidenlijk de voorzitter van de huurcommissie.
 
-#### Artikel 1.47
+##### Artikel 1.47
 
 De toepasselijkheid van de bepalingen van [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&hoofdstuk=1&z=2025-02-12&g=2025-02-12) van deze wet kan niet bij overeenkomst worden uitgesloten of beperkt.
 
-#### Artikel 1.48
+##### Artikel 1.48
 
 In elke na het verstrijken van de termijn, bedoeld in [artikel 7a:1603k, tweede lid, van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1603k), ingestelde rechtsvordering ter zake van de vergoedingen, bedoeld in het eerste lid van dat artikel, wordt een uitspraak van de huurcommissie dan wel beschikking van het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba omtrent de betalingsverplichting van de huurder met betrekking tot deze vergoedingen overgelegd.
 
-#### Artikel 1.49
+##### Artikel 1.49
 
 In elke rechtsvordering ter zake van hetgeen onverschuldigd mocht zijn betaald in verband met een overeenkomst als bedoeld in [artikel 7a:1603j van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1603j) waarbij partijen slechts de hoogte van de prijs en niet die van de huurprijs zijn overeengekomen, wordt een uitspraak van de huurcommissie, bedoeld in [artikel 1.20](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&hoofdstuk=1&afdeling=4&paragraaf=7&artikel=1.20&z=2025-02-12&g=2025-02-12), dan wel een beslissing van het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba als bedoeld in [artikel 7a: 1603s van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1603s) overgelegd.
 
-#### Artikel 1.50
+##### Artikel 1.50
 
 De [Wet huurcommissieregeling BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028558) geldt niet voor een openbaar lichaam waarvoor hoofdstuk 1 van deze wet in werking is getreden en wordt ingetrokken op het moment dat hoofdstuk 1 van deze wet in alle openbare lichamen van toepassing is geworden.
 
 ### Hoofdstuk 2. Wijziging van de [zevende titel van Boek 7a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&titeldeel=Zevende)
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 Wijzigt Burgerlijk Wetboek BES Boek 7a.
 
 ### Hoofdstuk 3. Wijziging van de [Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031218)
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 Wijzigt de Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES.
 
@@ -432,19 +459,19 @@ Wijzigt de Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 5.1 en 5.2
+##### Artikel 5.1 en 5.2
 
 **[Vervallen]**
 
-#### Artikel 5.3
+##### Artikel 5.3
 
 Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zendt binnen vijf jaar na het tijdstip waarop [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&hoofdstuk=1&z=2025-02-12&g=2025-02-12) van deze wet voor alle openbare lichamen in werking is getreden aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van deze wet.
 
-#### Artikel 5.4
+##### Artikel 5.4
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&hoofdstuk=1&z=2025-02-12&g=2025-02-12) van deze wet voor de verschillende openbare lichamen verschillend kan worden vastgesteld.
 
-#### Artikel 5.5
+##### Artikel 5.5
 
 Deze wet wordt aangehaald als: Wet maatregelen huurwoningmarkt Caribisch Nederland.
 

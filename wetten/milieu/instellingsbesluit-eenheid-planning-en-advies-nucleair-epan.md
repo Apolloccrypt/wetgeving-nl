@@ -1,20 +1,45 @@
 ---
-title: "Instellingsbesluit Eenheid Planning en Advies nucleair (EPAn)"
+title: "Besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van 14 maart 2005, nr. VI/CM20050113779, tot instelling van een Eenheid Planning en Advies nucleair"
 identifier: "BWBR0018105"
-categorie: "Milieu"
-publicatiedatum: 2005-03-20
-laatste_update: 2005-03-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018105"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2005-03-20"
+last_updated: "2005-03-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018105"
+soort: "ministeriele-regeling"
+stam_id: "6867823"
+version_id: "11738522"
+internal_id: "C15824381"
+label_id: "6856024"
+original_entry_into_force: "2005-03-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018105/2005-03-20/0"
+intitule_bron: "Stcrt.2005-55"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-03-14"
+intitule_published: "2005-03-18"
+intitule_in_force: "2005-03-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-55"
+original_signed_date: "2005-03-14"
+original_published_date: "2005-03-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-55-p22-SC69282"
+entry_into_force_date: "2005-03-20"
+jci_1_3: "jci1.3:c:BWBR0018105&z=2005-03-20&g=2005-03-20"
+jci_1_0: "1.0:c:BWBR0018105&g=2005-03-20"
+citeertitel_status: "redactioneel"
+short_title: "Instellingsbesluit Eenheid Planning en Advies nucleair (EPAn)"
+signed_date: "2005-03-14"
+entry_into_force: "2005-03-20"
 ---
-
 # Besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van 14 maart 2005, nr. VI/CM20050113779, tot instelling van een Eenheid Planning en Advies nucleair
 
 Handelend in overeenstemming met de Ministers van Volksgezondheid, Welzijn en Sport, van Binnenlandse Zaken en Koninkrijksrelaties, van Landbouw, Natuur en Voedselkwaliteit, van Verkeer en Waterstaat, van Sociale Zaken en Werkgelegenheid en van Defensie;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt onder ongeval verstaan: gebeurtenis
 
@@ -32,7 +57,7 @@ Besluit:
 
 5. In dit besluit wordt onder een Steuncentrum verstaan een onderdeel van de EPAn die aan het Back Office gegevens levert waardoor de Back Office in staat is haar taak ten behoeve van het Front Office uit te voeren.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Eenheid Planning en Advies nucleair (EPAn).
 
@@ -52,7 +77,7 @@ Besluit:
 
 4. De EPAn geeft uitvoering aan hetgeen in internationale verdragen omtrent het verschaffen van gegevens met betrekking tot een ongeval is bepaald.
 
-#### Artikel 3
+##### Artikel 3
 
 De EPAn bestaat uit:
 
@@ -66,7 +91,7 @@ De EPAn bestaat uit:
 
 - 5. De Back Offices kunnen zich laten ondersteunen door organisaties die uit hoofde van hun taak informatie beschikbaar hebben die noodzakelijk is voor de Back Offices. Deze organisaties worden aangeduid met Steuncentra.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Front Office bestaat tenminste uit een voorzitter, een plaatsvervangend voorzitter en een secretaris. De voorzitter, de plaatsvervangend voorzitter en de secretaris van de EPAn worden op voordracht van de inspecteur-generaal VROM door de secretaris-generaal van het Ministerie van Volkshuisvesting Ruimtelijke Ordening en Milieubeheer aangewezen.
 
@@ -86,7 +111,7 @@ De EPAn bestaat uit:
 
 5. In geval de voorzitter van een Back Office een steuncentrum activeert, ressorteert dit steuncentrum functioneel onder de voorzitter van de Back Office. Het steuncentrum blijft altijd zelf verantwoordelijk voor de kwaliteit van de geleverde informatie.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Back Office Radiologische Informatie bestaat ten minste uit de voorzitter, daartoe aangewezen door de directeur-generaal van het Rijksinstituut voor Volksgezondheid en Milieu.
 
@@ -106,7 +131,7 @@ De EPAn bestaat uit:
 
 - g. van het Ministerie van VROM op gebied van drinkwaterbedrijven, daartoe aangewezen door de inspecteur-generaal VROM.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Back Office Geneeskundige Informatie bestaat tenminste uit de voorzitter, daartoe aangewezen door de secretaris-generaal van het Ministerie van Volksgezondheid, Welzijn en Sport.
 
@@ -118,7 +143,7 @@ De EPAn bestaat uit:
 
 - c. het LNV/VWA/KvW, daartoe aangewezen door de directeur-generaal van de Voedsel en Waren Autoriteit.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Back Office Bestuurlijke en Operationele Informatie bestaat tenminste uit een voorzitter, daartoe aangewezen door de directeur-generaal Veiligheid van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
@@ -128,7 +153,7 @@ De EPAn bestaat uit:
 
 - b. deskundigen van de directie Crisisbeheersing, daartoe aangewezen door de directeur-generaal Veiligheid van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De voorzitter van het Front Office activeert en deactiveert het EPAn wanneer hij zulks nodig oordeelt en rapporteert hierover aan het bestuursorgaan dat bevoegd is met betrekking tot het ongeval besluiten te nemen omtrent de te treffen maatregelen.
 
@@ -136,7 +161,7 @@ De EPAn bestaat uit:
 
 3. De Front Office, Back Offices en Steuncentra kunnen zich doen bijstaan door deskundigen en organisaties die geen deel uitmaken van het EPAn.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het is geplaatst.
 

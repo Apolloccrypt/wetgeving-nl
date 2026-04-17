@@ -1,13 +1,38 @@
 ---
-title: "Verordening PT algemene heffing bloembollenhandel oogstjaar 2013"
+title: "Verordening van het bestuur van het Productschap Tuinbouw van 26 maart 2013, houdende de vaststelling van een algemene heffing ten behoeve van de handel in bloembollen met betrekking tot het oogstjaar 2013 (Verordening PT algemene heffing bloembollenhandel oogstjaar 2013)"
 identifier: "BWBR0033578"
-categorie: "Belastingrecht"
-publicatiedatum: 2013-06-23
-laatste_update: 2013-06-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033578"
+country: "nl"
+rank: "pbo"
+publication_date: "2013-06-23"
+last_updated: "2013-06-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033578"
+soort: "pbo"
+stam_id: "12293463"
+version_id: "20589742"
+internal_id: "C28960011"
+label_id: "12264804"
+dtd_version: "2.0"
+original_entry_into_force: "2013-06-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033578/2013-06-23/0"
+intitule_bron: "Vbbo.2013-27"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-03-26"
+intitule_published: "2013-06-21"
+intitule_in_force: "2013-06-21"
+intitule_status: "goed"
+original_publication: "Vbbo.2013-27"
+original_signed_date: "2013-03-26"
+original_published_date: "2013-06-21"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2013-06-23"
+jci_1_3: "jci1.3:c:BWBR0033578&z=2013-06-23&g=2013-06-23"
+jci_1_0: "1.0:c:BWBR0033578&g=2013-06-23"
+citeertitel_status: "officieel"
+short_title: "Verordening PT algemene heffing bloembollenhandel oogstjaar 2013"
+signed_date: "2013-03-26"
+entry_into_force: "2013-06-23"
 ---
-
 # Verordening van het bestuur van het Productschap Tuinbouw van 26 maart 2013, houdende de vaststelling van een algemene heffing ten behoeve van de handel in bloembollen met betrekking tot het oogstjaar 2013 (Verordening PT algemene heffing bloembollenhandel oogstjaar 2013)
 
 Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=13) en [14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=14);
@@ -18,7 +43,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Deze verordening verstaat onder:
 
@@ -40,7 +65,7 @@ Deze verordening verstaat onder:
 
 #### § 2. Heffing
 
-#### Artikel 2
+##### Artikel 2
 
 1. De ondernemer die bloembollen aankoopt die door de verkoper, of voor deze, in Nederland geteelde bloembollen, is over het oogstjaar een algemene heffing verschuldigd aan het productschap volgens de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033578&paragraaf=3&artikel=3&z=2013-06-23&g=2013-06-23) vermelde heffingsgrondslag met het bijbehorend tarief.
 
@@ -50,7 +75,7 @@ Deze verordening verstaat onder:
 
 #### § 3. Grondslag en hoogte
 
-#### Artikel 3
+##### Artikel 3
 
 1. De heffing wordt berekend over de aankoopwaarde die door de ondernemer is gerealiseerd in het oogstjaar en bedraagt 0,5% van de aankoopwaarde.
 
@@ -58,7 +83,7 @@ Deze verordening verstaat onder:
 
 #### § 4. Vaststelling en oplegging
 
-#### Artikel 4
+##### Artikel 4
 
 1. De krachtens deze verordening verschuldigde algemene heffing wordt op basis van de door de ondernemer verstrekte gegevens vastgesteld en aan de ondernemer opgelegd na afloop van het oogstjaar waarover deze heffing verschuldigd is en geschiedt door toezending of uitreiking van een heffingsnota.
 
@@ -66,7 +91,7 @@ Deze verordening verstaat onder:
 
 3. Indien uit de ter beschikking van het productschap gekomen gegevens blijkt, dat de door de ondernemer verstrekte gegevens of de ambtshalve schatting niet in overeenstemming zijn met de werkelijkheid, dan kan een opgelegde heffing aan de hand van deze werkelijke gegevens door de voorzitter worden herzien en opnieuw worden vastgesteld.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De gegevens verkregen uit hoofde van het bepaalde in deze verordening worden in handen gesteld van de voorzitter of door deze aan te wijzen personen van het secretariaat van het productschap.
 
@@ -74,10 +99,10 @@ Deze verordening verstaat onder:
 
 #### § 5. Slotbepalingen
 
-#### Artikel 6
+##### Artikel 6
 
 Deze verordening treedt in werking met ingang van 1 juni 2013. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 juni 2013, dan treedt zij in werking op de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 juni 2013.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze verordening wordt aangehaald als: Verordening PT algemene heffing bloembollenhandel oogstjaar 2013.

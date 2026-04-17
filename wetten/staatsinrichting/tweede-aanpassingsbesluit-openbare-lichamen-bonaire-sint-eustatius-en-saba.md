@@ -1,13 +1,39 @@
 ---
-title: "Tweede Aanpassingsbesluit openbare lichamen Bonaire, Sint Eustatius en Saba"
+title: "Besluit van 27 september 2010 tot aanpassing van algemene maatregelen van bestuur in verband met de nieuwe staatsrechtelijke positie van Bonaire, Sint Eustatius en Saba als openbaar lichaam binnen Nederland (Tweede Aanpassingsbesluit openbare lichamen Bonaire, Sint Eustatius en Saba)"
 identifier: "BWBR0028611"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028611"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028611"
+soort: "AMvB-BES"
+stam_id: "10897673"
+version_id: "17880612"
+internal_id: "C25059101"
+label_id: "10872494"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028611/2010-10-10/0"
+intitule_bron: "Stb.2010-373"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-27"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-373"
+original_signed_date: "2010-09-27"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-373"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028611&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028611&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Tweede Aanpassingsbesluit openbare lichamen Bonaire, Sint Eustatius en Saba"
+signed_date: "2010-09-27"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit van 27 september 2010 tot aanpassing van algemene maatregelen van bestuur in verband met de nieuwe staatsrechtelijke positie van Bonaire, Sint Eustatius en Saba als openbaar lichaam binnen Nederland (Tweede Aanpassingsbesluit openbare lichamen Bonaire, Sint Eustatius en Saba)
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 8 juni 2010, nr. 2010-0000385190;
@@ -26,29 +52,29 @@ Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uu
 
 #### § 1. Aanpassingen van Nederlandse regelgeving
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 Wijzigt het Rechtspositiebesluit Rijksvertegenwoordiger BES.
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 Wijzigt het Vergoedingenbesluit Wet Nationale ombudsman 2006.
 
 #### § 2. Aanpassingen van regelgeving van Nederlands-Antilliaanse oorsprong
 
-#### Artikel 2.3
+##### Artikel 2.3
 
 Wijzigt het Besluit identiteitskaarten BES.
 
-#### Artikel 2.4
+##### Artikel 2.4
 
 Wijzigt het Besluit ter uitvoering van de artikelen 11 en 13 Begrafeniswet BES.
 
-#### Artikel 2.5
+##### Artikel 2.5
 
 Wijzigt het Besluit ter uitvoering van artikel 40 Begrafeniswet BES.
 
-#### Artikel 2.6
+##### Artikel 2.6
 
 Wijzigt het Besluit verklaringen van overlijden BES.
 
@@ -56,11 +82,11 @@ Wijzigt het Besluit verklaringen van overlijden BES.
 
 #### § 2. Aanpassingen van wetgeving van Nederlands-Antilliaanse oorsprong
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 Wijzigt het Besluit opleiding tot controleur der Belastingen BES.
 
-#### Artikel 6.2
+##### Artikel 6.2
 
 Wijzigt het Besluit opleiding en examens administratieve ambtenaren belastingdienst BES.
 
@@ -68,7 +94,7 @@ Wijzigt het Besluit opleiding en examens administratieve ambtenaren belastingdie
 
 #### § 1. Aanpassingen van Nederlandse regelgeving
 
-#### Artikel 8.1
+##### Artikel 8.1
 
 Wijzigt het Besluit justitiële gegevens.
 
@@ -76,33 +102,33 @@ Wijzigt het Besluit justitiële gegevens.
 
 #### § 2. Aanpassingen van wetgeving van Nederlands-Antilliaanse oorsprong
 
-#### Artikel 9.1
+##### Artikel 9.1
 
 Wijzigt het Besluit slacht- en vleeskeuring BES.
 
-#### Artikel 9.2
+##### Artikel 9.2
 
 Wijzigt het Besluit slachten en verkopen van vee op Sint Eustatius.
 
-#### Artikel 9.3
+##### Artikel 9.3
 
 Wijzigt het Besluit invoer kleine dieren BES.
 
-#### Artikel 9.4
+##### Artikel 9.4
 
 Wijzigt het Besluit vogelgriep BES.
 
 ### 6. Hoofdstuk 16. Slotbepalingen
 
-#### Artikel 16.1
+##### Artikel 16.1
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 16.2
+##### Artikel 16.2
 
 De teksten van de besluiten die in paragraaf 2 van de verschillende hoofdstukken van dit besluit zijn gewijzigd worden in het Staatsblad geplaatst.
 
-#### Artikel 16.3
+##### Artikel 16.3
 
 Dit besluit wordt aangehaald als: Tweede Aanpassingsbesluit openbare lichamen Bonaire, Sint Eustatius en Saba.
 

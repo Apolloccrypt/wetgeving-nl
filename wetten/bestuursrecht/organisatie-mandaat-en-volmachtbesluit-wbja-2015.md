@@ -1,13 +1,39 @@
 ---
-title: "Organisatie-, mandaat- en volmachtbesluit WBJA 2015"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 5 augustus 2015, nr. 2015-0000232534, houdende de inrichting van de directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Wetgeving, Bestuurlijke en Juridische Aangelegenheden (Organisatie-, mandaat- en volmachtbesluit WBJA 2015)"
 identifier: "BWBR0036932"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-03-28
-laatste_update: 2025-03-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036932"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-03-28"
+last_updated: "2025-03-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036932"
+soort: "ministeriele-regeling"
+stam_id: "13241863"
+version_id: "22645682"
+internal_id: "C32465811"
+label_id: "13210144"
+dtd_version: "2.0"
+original_entry_into_force: "2015-08-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036932/2025-03-28/0"
+intitule_bron: "Stcrt.2015-24717"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-08-05"
+intitule_published: "2015-08-14"
+intitule_in_force: "2015-08-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-24717"
+original_signed_date: "2015-08-05"
+original_published_date: "2015-08-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-24717"
+entry_into_force_date: "2015-08-15"
+jci_1_3: "jci1.3:c:BWBR0036932&z=2025-03-28&g=2025-03-28"
+jci_1_0: "1.0:c:BWBR0036932&g=2025-03-28"
+citeertitel_status: "officieel"
+short_title: "Organisatie-, mandaat- en volmachtbesluit WBJA 2015"
+signed_date: "2015-08-05"
+entry_into_force: "2015-08-15"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 5 augustus 2015, nr. 2015-0000232534, houdende de inrichting van de directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Wetgeving, Bestuurlijke en Juridische Aangelegenheden (Organisatie-, mandaat- en volmachtbesluit WBJA 2015)
 
 Gelet op de [artikelen 3, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=3), en [11 van het Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=11);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Organisatie en taken afdelingen
 
-#### Artikel 2
+##### Artikel 2
 
 WBJA bestaat uit:
 
@@ -52,7 +78,7 @@ WBJA bestaat uit:
 
 - f. BO.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het hoofd van de afdeling Wetgeving is verantwoordelijk voor de volgende taken:
 
@@ -68,7 +94,7 @@ WBJA bestaat uit:
 
 2. Het hoofd van de afdeling Wetgeving is voorts belast met taken op het gebied van het wetgevingskwaliteitsbeleid.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het hoofd van de afdeling ABWA is verantwoordelijk voor de volgende taken:
 
@@ -106,7 +132,7 @@ WBJA bestaat uit:
 
 3. Het hoofd van de afdeling ABWA is voorts belast met taken op het gebied van het wetgevingskwaliteitsbeleid.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het hoofd van de afdeling JA-BBS is verantwoordelijk voor de volgende taken ten aanzien van subsidies, bijstand en bedrijfsjuridische aangelegenheden:
 
@@ -126,7 +152,7 @@ WBJA bestaat uit:
 
 - d. het onderhouden van de contacten met de Landsadvocaat.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het hoofd van de afdeling JA-SVIA is verantwoordelijk voor de volgende taken ten aanzien van de terreinen arbeidsverhoudingen, sociale verzekeringen en -voorzieningen, kinderopvang, integratie en arbeidsomstandigheden:
 
@@ -152,7 +178,7 @@ WBJA bestaat uit:
 
 3. Bij afwezigheid van het hoofd van de afdeling JA-BBS is het hoofd van de afdeling JA-SVIA verantwoordelijk voor het onderhouden van de contacten met de Landsadvocaat.
 
-#### Artikel 7
+##### Artikel 7
 
 Het hoofd BO is verantwoordelijk voor de volgende taken:
 
@@ -166,17 +192,17 @@ Het hoofd BO is verantwoordelijk voor de volgende taken:
 
 - e. het aanleveren van managementinformatie ten behoeve van het management van WBJA, de voorbereiding en bewaking van managementafspraken, het beheer van bedrijfsvoeringsprocessen die bij WBJA gevoerd worden en de zorg voor een goede afstemming met de bedrijfsvoering die centraal voor het gehele ministerie wordt gevoerd.
 
-#### Artikel 8
+##### Artikel 8
 
 Elk van de hoofden van de afdelingen is belast met het leiding geven aan de medewerkers van de eigen afdeling.
 
 #### § 3. Bevoegdheden
 
-#### Artikel 9
+##### Artikel 9
 
 De hoofden van de afdelingen worden gemachtigd tot het paraferen van stukken die betrekking hebben op de taken van de eigen afdeling, een en ander met uitzondering van stukken waarvan, gelet op het belang daarvan, redelijkerwijs vermoed kan worden dat deze door de directeur WBJA afgedaan moeten worden.
 
-#### Artikel 10
+##### Artikel 10
 
 Aan de hoofden van de afdelingen ABWA, JA-BBS en JA-SVIA wordt mandaat en machtiging verleend tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken voor zover zij verband houden met de taken en verantwoordelijkheden van zijn afdeling en die betrekking hebben op:
 
@@ -188,7 +214,7 @@ Aan de hoofden van de afdelingen ABWA, JA-BBS en JA-SVIA wordt mandaat en machti
 
 - d. de afhandeling en ondertekening van stukken inzake bezwaarprocedures en gerechtelijke procedures, met inbegrip van het nemen van de beslissing op een bezwaarschrift.
 
-#### Artikel 11
+##### Artikel 11
 
 Aan het hoofd van de afdeling JA-BBS wordt mandaat en machtiging verleend tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op:
 
@@ -196,11 +222,11 @@ Aan het hoofd van de afdeling JA-BBS wordt mandaat en machtiging verleend tot he
 
 - b. de voorbereiding en de bekendmaking van een besluit op een verzoek op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) waaronder de ondertekening van ontvangstbevestigingen van verzoeken op grond van de Wet open overheid, de ondertekening van brieven waarbij aan derden verzocht wordt te reageren op een verzoek op grond van de Wet open overheid, de ondertekening van brieven waarbij de beslistermijn op een verzoek op grond van de Wet open overheid ex [artikel 4.4 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=4.4) wordt verlengd en de ondertekening van brieven ter bekendmaking van een besluit op een verzoek op grond van de Wet open overheid aan derden.
 
-#### Artikel 12
+##### Artikel 12
 
 Het hoofd van de afdeling JA-BBS is bij afwezigheid of verhindering van de directeur Wetgeving, Bestuurlijke en Juridische Aangelegenheden bevoegd tot het ondertekenen van een beslissing op een verzoek om informatie op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754).
 
-#### Artikel 13
+##### Artikel 13
 
 1. Aan het hoofd BO, alsmede aan de teamleider BO wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de afhandeling van administratieve stukken inzake procedures van bezwaar en (hoger)beroep alsmede daarmee verwante procedures, waaronder niet begrepen het machtigen van personen om een bewindspersoon in gerechtelijke procedures en in procedures bij de Nationale ombudsman te vertegenwoordigen.
 
@@ -224,7 +250,7 @@ Het hoofd van de afdeling JA-BBS is bij afwezigheid of verhindering van de direc
 
 - c. het aangaan van overeenkomsten voor het opleiden van medewerkers van de directie.
 
-#### Artikel 14
+##### Artikel 14
 
 Aan de hoofden van de afdelingen, alsmede aan de teamleider BO, wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden van de eigen afdeling, voor zover het betreft:
 
@@ -236,17 +262,17 @@ Aan de hoofden van de afdelingen, alsmede aan de teamleider BO, wordt volmacht e
 
 - d. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur.
 
-#### Artikel 15
+##### Artikel 15
 
 De hoofden van de afdelingen kunnen na voorafgaande schriftelijke toestemming van de directeur WBJA bevoegdheden doorverlenen aan onder hen ressorterende functionarissen.
 
 #### § 4. Slotbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 Bij afwezigheid van de directeur WBJA worden, voor de duur van de afwezigheid of verhindering, diens taken waargenomen door het afdelingshoofd dat is aangewezen als plaatsvervangend directeur.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit WBJA 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024961) wordt ingetrokken.
 
@@ -254,7 +280,7 @@ Bij afwezigheid van de directeur WBJA worden, voor de duur van de afwezigheid of
 
 3. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit WBJA 2015.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit WBJA 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024961) wordt ingetrokken.
 
@@ -264,7 +290,7 @@ Bij afwezigheid van de directeur WBJA worden, voor de duur van de afwezigheid of
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-#### Artikel 12a
+##### Artikel 12a
 
 Aan het hoofd van de afdeling JA-SVIA wordt mandaat en machtiging verleend tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op procedures inzake uit internationale verdragen voortvloeiende notificatieverplichtingen.
 
@@ -272,7 +298,7 @@ Aan het hoofd van de afdeling JA-SVIA wordt mandaat en machtiging verleend tot h
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Het hoofd van de afdeling WAS is verantwoordelijk voor de volgende taken:
 

@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling topsportevenementen 2024–2028"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 25 maart 2024, kenmerk 3789648-1063016-S, houdende regels voor de subsidiëring van topsportevenementen 2024–2028 (Subsidieregeling topsportevenementen 2024–2028)"
 identifier: "BWBR0049525"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-08-16
-laatste_update: 2025-08-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049525"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-08-16"
+last_updated: "2025-08-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049525"
+soort: "ministeriele-regeling"
+stam_id: "17063853"
+version_id: "30151852"
+internal_id: "C43205891"
+label_id: "16972644"
+dtd_version: "2.0"
+original_entry_into_force: "2024-06-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049525/2025-08-16/0"
+intitule_bron: "Stcrt.2024-10726"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-03-25"
+intitule_published: "2024-04-03"
+intitule_in_force: "2024-04-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-19456"
+original_signed_date: "2024-06-06"
+original_published_date: "2024-06-18"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-19456"
+entry_into_force_date: "2024-06-06"
+jci_1_3: "jci1.3:c:BWBR0049525&z=2025-08-16&g=2025-08-16"
+jci_1_0: "1.0:c:BWBR0049525&g=2025-08-16"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling topsportevenementen 2024–2028"
+signed_date: "2024-06-06"
+entry_into_force: "2024-06-06"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 25 maart 2024, kenmerk 3789648-1063016-S, houdende regels voor de subsidiëring van topsportevenementen 2024–2028 (Subsidieregeling topsportevenementen 2024–2028)
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [5 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 - **topsportevenement:** samenhangend geheel van wedstrijden in een bepaalde periode in een tak of takken van sport die kan of kunnen bijdragen aan het nationale topsportbeleid.
 
-#### Artikel 2. Subsidiabele activiteiten
+##### Artikel 2. Subsidiabele activiteiten
 
 1. De Minister kan aan een nationale sportbond of een evenementenorganisator subsidie verstrekken voor de organisatie van een topsportevenement.
 
@@ -68,7 +94,7 @@ In deze regeling wordt verstaan onder:
 
 5. De activiteit, bedoeld in het eerste lid, wordt aangemerkt als dienst van algemeen economisch belang.
 
-#### Artikel 3. Topsportevenement
+##### Artikel 3. Topsportevenement
 
 Een topsportevenement is een evenement dat:
 
@@ -108,7 +134,7 @@ Een topsportevenement is een evenement dat:
 
 - h. is aangemeld bij de topsportevenementenmonitor op de website van het CIT en op de evenementenkalender van het CIT is geplaatst.
 
-#### Artikel 4. Weigeringsgronden
+##### Artikel 4. Weigeringsgronden
 
 1. De subsidieverlening wordt geweigerd indien het gaat om een topsportevenement:
 
@@ -126,7 +152,7 @@ Een topsportevenement is een evenement dat:
 
 3. De subsidie wordt uitsluitend verstrekt als de aanvrager met de Staat een overeenkomst sluit waarbij de Staat de aanvrager belast met en de aanvrager zich verplicht tot het verrichten van de dienst van algemeen economisch belang.
 
-#### Artikel 5. Subsidieplafond
+##### Artikel 5. Subsidieplafond
 
 1. Het subsidieplafond bestaat uit het bedrag van de subsidies gezamenlijk dat ten laste van enig kalenderjaar wordt of zal worden uitbetaald op basis van een verlening of vaststelling van een subsidie en wordt in aanmerking genomen voor alle jaren waarop de uitbetaling van een te verstrekken subsidie betrekking heeft.
 
@@ -142,7 +168,7 @@ Een topsportevenement is een evenement dat:
 
 4. De Minister verdeelt het ingevolge het subsidieplafond beschikbare bedrag op volgorde van binnenkomst van de aanvragen, met dien verstande dat wanneer de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld, met betrekking tot de verdeling, als datum van ontvangst geldt.
 
-#### Artikel 6. Niet-subsidiabele kosten
+##### Artikel 6. Niet-subsidiabele kosten
 
 De volgende kosten komen niet voor subsidie in aanmerking:
 
@@ -152,7 +178,7 @@ De volgende kosten komen niet voor subsidie in aanmerking:
 
 - c. kosten voor hospitality.
 
-#### Artikel 7. Subsidiebedrag
+##### Artikel 7. Subsidiebedrag
 
 De subsidie bedraagt voor de organisatie van een topsportevenement met als categorie deelnemers:
 
@@ -170,7 +196,7 @@ De subsidie bedraagt voor de organisatie van een topsportevenement met als categ
 
 - g. een combinatie anders dan de in de onderdelen e en f genoemde: ten hoogste 25% van de subsidiabele kosten voor het deel voor senioren zonder een handicap en ten hoogste 50% van de subsidiabele kosten voor het deel voor senioren met een handicap en talenten, tot ten hoogste € 3 miljoen.
 
-#### Artikel 8. Aanvraagtermijn
+##### Artikel 8. Aanvraagtermijn
 
 1. Een aanvraag wordt maximaal zesendertig maanden vóór de aanvang van het topsportevenement ontvangen.
 
@@ -178,7 +204,7 @@ De subsidie bedraagt voor de organisatie van een topsportevenement met als categ
 
 3. Het tweede lid is niet van toepassing op een aanvraag voor een Olympisch of Paralympisch kwalificatietoernooi.
 
-#### Artikel 9. Aanvraag tot subsidieverlening
+##### Artikel 9. Aanvraag tot subsidieverlening
 
 1. Voor de aanvraag wordt een door de Minister vastgesteld formulier gebruikt.
 
@@ -216,7 +242,7 @@ De subsidie bedraagt voor de organisatie van een topsportevenement met als categ
 
 - b. een steunverklaring van de bij het evenement betrokken partijen, waaronder de gemeente of provincie en de nationale sportbond.
 
-#### Artikel 10. Subsidieverplichtingen bij organisatie topsportevenement
+##### Artikel 10. Subsidieverplichtingen bij organisatie topsportevenement
 
 1. De subsidieontvanger geeft twee maanden voor de start van het topsportevenement schriftelijk inzage in de begroting van dat moment.
 
@@ -230,27 +256,27 @@ De subsidie bedraagt voor de organisatie van een topsportevenement met als categ
 
 - d. het aanleveren van de door de Minister gevraagde gegevens over het topsportevenement voor de monitor topsportevenementen van het CIT.
 
-#### Artikel 11. Hardheidsclausule
+##### Artikel 11. Hardheidsclausule
 
 De Minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 12. Wijziging van de [Kaderregeling OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 12. Wijziging van de [Kaderregeling OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Wijzigt de Kaderregeling subsidies OCW, SZW en VWS.
 
-#### Artikel 13. Inwerkingtreding en vervaldatum
+##### Artikel 13. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2029, met dien verstande dat deze van toepassing blijft op subsidies die voor die datum zijn verleend of vastgesteld.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling topsportevenementen 2024–2028.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 13a. Overgangsbepaling
+##### Artikel 13a. Overgangsbepaling
 
 Op aanvragen tot subsidieverlening die zijn ingediend voor 1 januari 2024, blijft de [Subsidieregeling topsportevenementen 2021–2023](https://wetten.overheid.nl/jci1.3:c:BWBR0044720) van toepassing.
 

@@ -1,24 +1,48 @@
 ---
 title: "Subsidieregeling breedband Kenniswijk"
 identifier: "BWBR0013686"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-01-06
-laatste_update: 2014-01-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013686"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-01-06"
+last_updated: "2014-01-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013686"
+soort: "ministeriele-regeling"
+stam_id: "4131903"
+version_id: "5885352"
+internal_id: "C13375931"
+label_id: "4111474"
+dtd_version: "2.0"
+original_entry_into_force: "2002-05-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013686/2014-01-06/0"
+intitule_bron: "Stcrt.2002-92"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-05-15"
+intitule_published: "2002-05-17"
+intitule_in_force: "2002-05-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2002-92"
+original_signed_date: "2002-05-15"
+original_published_date: "2002-05-17"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-05-15"
+jci_1_3: "jci1.3:c:BWBR0013686&z=2014-01-06&g=2014-01-06"
+jci_1_0: "1.0:c:BWBR0013686&g=2014-01-06"
+citeertitel_status: "officieel"
+signed_date: "2002-05-15"
+entry_into_force: "2002-05-15"
 ---
-
 # Subsidieregeling breedband Kenniswijk
 
 Gelet op de [artikelen 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3) en [4 van de Kaderwet subsidies Verkeer en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=4);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 1. De minister verstrekt op aanvraag subsidie aan een bewoner van een woning in de Kenniswijk voor de kosten van een aansluiting van die woning in de Kenniswijk, welke aansluiting voldoet aan de specificaties, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=3&z=2014-01-06&g=2014-01-06), en voor de kosten van het gebruik van die aansluiting en voor de kosten van ten minste een elektronische dienst die met behulp van die aansluiting wordt geleverd.
 
@@ -26,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 3. Indien de aanvrager de bewoner is van een woning voor de aansluiting waarvan reeds een subsidie is verstrekt, wordt diens aanvraag in afwijking van het tweede lid in behandeling genomen, mits de aanvrager aantoont dat hij de nieuwe bewoner is van die woning en de overeenkomst inzake de reeds voor die woning gerealiseerde aansluiting is beëindigd.
 
-#### Artikel 3
+##### Artikel 3
 
 De aansluiting, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=2&z=2014-01-06&g=2014-01-06), omvat ten minste een zich in de woning van de aanvrager bevindend netwerkaansluitpunt dat een verbinding, die aan de gangbare technische specificaties voldoet, mogelijk maakt tussen een netwerk en de apparatuur van de aanvrager,
 
@@ -36,11 +60,11 @@ De aansluiting, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - c. waarmee toegang mogelijk is tot internet en door middel van internet te leveren en te verrichten openbare elektronische communicatiediensten, als bedoeld in [artikel 1.1, onderdeel g, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1) en andere digitale diensten.
 
-#### Artikel 4
+##### Artikel 4
 
 De subsidie bedraagt per aanvrager ten hoogste € 800.
 
-#### Artikel 5
+##### Artikel 5
 
 Als subsidiabele kosten komen uitsluitend in aanmerking:
 
@@ -48,7 +72,7 @@ Als subsidiabele kosten komen uitsluitend in aanmerking:
 
 - b. de kosten van het gebruik van de aansluiting en een elektronische dienst als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=2&z=2014-01-06&g=2014-01-06), gedurende twaalf maanden na de datum, bedoeld in [artikel 9, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=9&z=2014-01-06&g=2014-01-06), tot ten hoogste € 300.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het subsidieplafond van deze regeling bedraagt € 12.000.000.
 
@@ -58,7 +82,7 @@ Als subsidiabele kosten komen uitsluitend in aanmerking:
 
 4. Indien toepassing van het derde lid niet mogelijk is of geen uitsluitsel geeft, beslist het lot.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De aansluiting bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=2&z=2014-01-06&g=2014-01-06) wordt tot stand gebracht en in gebruik genomen in de periode van 1 september 2002 tot en met 30 juni 2005.
 
@@ -72,11 +96,11 @@ Als subsidiabele kosten komen uitsluitend in aanmerking:
 
 4. Indien het aanvraagformulier onvolledig is ingevuld, dan wel niet vergezeld gaat van een van de in het derde lid genoemde bescheiden, wordt de aanvrager gedurende twee maanden in de gelegenheid gesteld de aanvraag aan te vullen.
 
-#### Artikel 8
+##### Artikel 8
 
 De minister besluit over verlening van de subsidie binnen twaalf weken na de datum waarop de aanvraag en alle bescheiden, bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=7&z=2014-01-06&g=2014-01-06), zijn ontvangen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De aanvraag voor de subsidievaststelling wordt op een daartoe bestemd en door de minister vastgesteld formulier ingediend bij de Dienst Regelingen LNV, vestiging Diemen, binnen twee maanden na de datum waarop de aansluiting tot stand is gekomen en in gebruik is genomen.
 
@@ -92,7 +116,7 @@ De minister besluit over verlening van de subsidie binnen twaalf weken na de dat
 
 5. De aanvraag voor subsidievaststelling, bedoeld in het derde lid, wordt ingediend in de periode van 1 september 2002 tot en met 1 september 2005.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De subsidieontvanger draagt er zorg voor dat de aansluiting, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=2&z=2014-01-06&g=2014-01-06), voor een periode van ten minste één jaar na de datum bedoeld in [artikel 9, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=9&z=2014-01-06&g=2014-01-06), in stand blijft en gebruikt wordt.
 
@@ -112,21 +136,21 @@ De minister besluit over verlening van de subsidie binnen twaalf weken na de dat
 
 5. De bedragen genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=5&z=2014-01-06&g=2014-01-06) worden teruggevorderd indien één van de overeenkomsten, bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=7&z=2014-01-06&g=2014-01-06), binnen een jaar na de datum, bedoeld in [artikel 9, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=9&z=2014-01-06&g=2014-01-06), wordt beëindigd om andere redenen dan genoemd in het derde of vierde lid.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De minister evalueert in 2003 de doeltreffendheid en de effecten van deze regeling in de praktijk.
 
 2. Uiterlijk vier jaar na inwerkingtreding van de regeling publiceert de minister een evaluatieverslag over de doeltreffendheid en de effecten van deze regeling in de praktijk.
 
-#### Artikel 12
+##### Artikel 12
 
 De aanvrager komt niet in aanmerking voor subsidie, indien de kosten, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013686&artikel=5&z=2014-01-06&g=2014-01-06), met toepassing van een andere regeling door de lokale, nationale of internationale overheid of overheidsorganisaties zijn gesubsidieerd.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling treedt in werking met ingang van 1 september 2002.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling wordt aangehaald als: Subsidieregeling breedband Kenniswijk.
 

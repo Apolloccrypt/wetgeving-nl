@@ -1,13 +1,39 @@
 ---
-title: "Besluit mandaat, volmacht en machtiging LNV 2019"
+title: "Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 7 december 2018, nr. WJZ/18055953, houdende regels inzake de verlening van mandaat, volmacht en machtiging voor het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2019 (Besluit mandaat, volmacht en machtiging LNV 2019)"
 identifier: "BWBR0041794"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-12-05
-laatste_update: 2025-12-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041794"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-12-05"
+last_updated: "2025-12-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041794"
+soort: "ministeriele-regeling"
+stam_id: "14941843"
+version_id: "25589142"
+internal_id: "C36517991"
+label_id: "14892474"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041794/2025-12-05/0"
+intitule_bron: "Stcrt.2018-70654"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-12-07"
+intitule_published: "2018-12-28"
+intitule_in_force: "2018-12-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-70654"
+original_signed_date: "2018-12-07"
+original_published_date: "2018-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-70654"
+entry_into_force_date: "2019-01-01"
+jci_1_3: "jci1.3:c:BWBR0041794&z=2025-12-05&g=2025-12-05"
+jci_1_0: "1.0:c:BWBR0041794&g=2025-12-05"
+citeertitel_status: "officieel"
+short_title: "Besluit mandaat, volmacht en machtiging LNV 2019"
+signed_date: "2018-12-07"
+entry_into_force: "2019-01-01"
 ---
-
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 7 december 2018, nr. WJZ/18055953, houdende regels inzake de verlening van mandaat, volmacht en machtiging voor het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2019 (Besluit mandaat, volmacht en machtiging LNV 2019)
 
 Gelet op [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1) en [artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3);
@@ -20,7 +46,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -54,11 +80,11 @@ In dit besluit wordt verstaan onder:
 
 - f. **de CAO Rijk:** de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren, werkzaam binnen de sector Rijk.
 
-#### Artikel 2
+##### Artikel 2
 
 De organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit wordt vastgesteld overeenkomstig de bij dit besluit behorende bijlage.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Mandaat, volmacht en machtiging in de zin van dit besluit heeft geen betrekking op:
 
@@ -98,7 +124,7 @@ De organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit wordt
 
 #### § 2. Mandaat, volmacht en machtiging aan ondergeschikten
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aan de secretaris-generaal wordt mandaat, volmacht en machtiging verleend voor:
 
@@ -190,7 +216,7 @@ De organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit wordt
 
 - g. het toepassen van de hardheidsclausules, genoemd in paragraaf 7.1 en 7.2 van het personeelsreglement LNV.
 
-#### Artikel 5
+##### Artikel 5
 
 Aan de plaatsvervangend secretaris-generaal wordt mandaat, volmacht en machtiging verleend voor:
 
@@ -244,7 +270,7 @@ Aan de plaatsvervangend secretaris-generaal wordt mandaat, volmacht en machtigin
 
 - v. aangelegenheden op het gebied van de Raad voor Dierenaangelegenheden.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Aan de hoofden van dienst wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, als bedoeld in de bijlage van dit besluit, waaronder begrepen de P&O-aangelegenheden van zijn dienst, met uitzondering van aangelegenheden waarvoor mandaat, volmacht en machtiging is verleend aan de secretaris-generaal, de plaatsvervangend secretaris-generaal of aan een ander hoofd van dienst.
 
@@ -274,7 +300,7 @@ Aan de plaatsvervangend secretaris-generaal wordt mandaat, volmacht en machtigin
 
 #### § 3. Instructies
 
-#### Artikel 7
+##### Artikel 7
 
 Mandaat en volmacht worden uitgeoefend met inachtneming van:
 
@@ -282,7 +308,7 @@ Mandaat en volmacht worden uitgeoefend met inachtneming van:
 
 - b. de in de beschrijving van de administratieve organisatie voorgeschreven medeparaafprocedures alsmede andere afspraken omtrent afstemming en coördinatie.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het krachtens mandaat, volmacht of machtiging ondertekenen van stukken geschiedt als volgt:
 
@@ -312,7 +338,7 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 #### § 4. Ondermandaat
 
-#### Artikel 9
+##### Artikel 9
 
 1. De secretaris-generaal kan aan een hoofd van dienst binnen diens werkterrein ondermandaat en machtiging verlenen voor benoeming, schorsing, ontslag en vergoeding van ambtenaren en andere personen in organen van rechtspersonen, zelfstandige bestuursorganen, commissies en colleges.
 
@@ -324,7 +350,7 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 5. De plaatsvervangend secretaris-generaal kan ondermandaat, volmacht en machtiging verlenen aan de secretaris-directeur voor aangelegenheden op het gebied van de Raad voor Dierenaangelegenheden.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De hoofden van dienst kunnen, ieder voor zich, voor hun werkterrein, voor aangelegenheden als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2025-12-05&g=2025-12-05), ondermandaat, volmacht en machtiging verlenen aan hun plaatsvervangers, en wat het werkterrein van ondergeschikte organisatieonderdelen of functionarissen betreft, aan de hoofden van die onderdelen en aan die functionarissen en aan hun plaatsvervangers.
 
@@ -364,7 +390,7 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 7. De directeur-generaal Agro kan aan de directeur Dierlijke Agroketens en Dierenwelzijn ondermandaat en machtiging verlenen voor het vaststellen van ministeriële regelingen als bedoeld in [artikel 5.2 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.2).
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat.
 
@@ -372,7 +398,7 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 #### § 5. Vervanging
 
-#### Artikel 12
+##### Artikel 12
 
 1. De uit dit besluit voor de secretaris-generaal voortvloeiende bevoegdheden gaan in geval van zijn afwezigheid over op de plaatsvervangend secretaris-generaal. Bij afwezigheid van zowel de secretaris-generaal als de plaatsvervangend secretaris-generaal gaan de uit dit besluit voortvloeiende bevoegdheden over op een door de secretaris-generaal aangewezen directeur-generaal.
 
@@ -382,7 +408,7 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 #### § 5. Vervanging
 
-#### Artikel 13
+##### Artikel 13
 
 1. Indien afwezigheid of ontstentenis van de minister eraan in de weg staat dat een door de minister genomen besluit door hem wordt ondertekend, kan, tenzij een wettelijk voorschrift of de aard van de bevoegdheid zich ertegen verzet, een besluit namens de minister worden ondertekend door de secretaris-generaal.
 
@@ -404,7 +430,7 @@ secretaris-generaal
 
 #### § 7.1. Dienstonderdelen van het Ministerie van Economische Zaken en Klimaat die ook taken verrichten voor het Ministerie van Landbouw, Natuur en Voedselkwaliteit
 
-#### Artikel 14
+##### Artikel 14
 
 1. De directie Informatievoorziening en de directie Mens en Organisatie van het Ministerie van Economische Zaken en Klimaat en de directie Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat verrichten, ieder voor zich, de aan hen opgedragen taken in het [Besluit mandaat, volmacht en machtiging EZK 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041776) en de [bijlage Organisatie van het Ministerie van Economische Zaken en Klimaat](onbekend) ook voor het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
 
@@ -418,15 +444,15 @@ secretaris-generaal
 
 #### § 7.1. Dienstonderdelen van het Ministerie van Economische Zaken en Klimaat die ook taken verrichten voor het Ministerie van Landbouw, Natuur en Voedselkwaliteit
 
-#### Artikel 15
+##### Artikel 15
 
 Aan de secretaris-generaal van het Ministerie van Economische Zaken en Klimaat, de plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat, de directeur-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat en de directeur-generaal Klimaat en Energie van het Ministerie van Economische Zaken en Klimaat wordt, ieder voor zich, mandaat en machtiging verleend voor het afnemen van de eed of de belofte bij de indiensttreding van een medewerker bij het kernministerie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, bedoeld in [artikel 5, eerste lid, onderdeel c, van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=5).
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Aan de directeur-generaal Economie en Digitalisering van het Ministerie van Economische Zaken en Klimaat wordt mandaat, volmacht en machtiging verleend voor besluiten, privaatrechtelijke rechtshandelingen en feitelijke handelingen ten behoeven van het versterken van het duurzaam economisch groeivermogen van Nederland en het scheppen van voorwaarden voor een goed functionerende economie en markten door middel van:
 
@@ -442,7 +468,7 @@ Aan de directeur-generaal Economie en Digitalisering van het Ministerie van Econ
 
 - f. het coördineren van het fiscale beleid binnen het Ministerie van Landbouw, Natuur en voedselkwaliteit.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Aan de directeur Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat wordt mandaat, volmacht en machtiging verleend voor besluiten, privaatrechtelijke rechtshandelingen en feitelijke handelingen die verband houden met:
 
@@ -522,7 +548,7 @@ Aan de directeur-generaal Economie en Digitalisering van het Ministerie van Econ
 
 - e. de mogelijkheid van hoofdstuk 2 van de CAO Rijk om tijdelijke arbeidsovereenkomsten in zeer bijzondere situaties te sluiten, waarbij wordt afgeweken van hetgeen is geregeld in de CAO Rijk.
 
-#### Artikel 19
+##### Artikel 19
 
 Aan de directeur Bureau Bestuursraad van het Ministerie van Economische Zaken en Klimaat wordt mandaat, volmacht en machtiging verleend voor:
 
@@ -544,7 +570,7 @@ Aan de directeur Bureau Bestuursraad van het Ministerie van Economische Zaken en
 
 - i. het stimuleren en implementeren van integriteitsbeleid, inclusief beleid ten aanzien van financiële belangen, en het adviseren over en onderzoek doen naar integriteitsmeldingen.
 
-#### Artikel 20
+##### Artikel 20
 
 Aan de directeur Communicatie van het Ministerie van Economische Zaken en Klimaat wordt mandaat, volmacht en machtiging verleend voor:
 
@@ -562,11 +588,11 @@ Aan de directeur Communicatie van het Ministerie van Economische Zaken en Klimaa
 
 - g. het beantwoorden en doorgeleiden van burgercorrespondentie.
 
-#### Artikel 21
+##### Artikel 21
 
 Aan het hoofd van de afdeling Financiële Diensten en Administratie van de directie Financiële Economische Zaken van het Ministerie van Economische Zaken en Klimaat wordt mandaat, volmacht en machtiging verleend voor het zorg dragen van het inrichten en het uitvoeren van de financiële administratie, waaronder het registreren van verplichtingen, het uitvoeren van betalingen en innen van vorderingen, het indienen van belastingaangiftes en het opleveren van financiële verantwoordingsinformatie.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Aan de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat wordt mandaat, volmacht en machtiging verleend voor:
 
@@ -594,7 +620,7 @@ Aan het hoofd van de afdeling Financiële Diensten en Administratie van de direc
 
 2. Aan de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat wordt tevens volmacht en machtiging verleend voor het aangaan van verplichtingen inzake het verlenen van opdrachten aan externe juridische dienstverleners, met uitzondering van verplichtingen op het werkterrein van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit.
 
-#### Artikel 23
+##### Artikel 23
 
 Aan de algemeen directeur van de Dienst ICT Uitvoering van het Ministerie van Economische Zaken en Klimaat wordt mandaat, volmacht en machtiging verleend voor besluiten, privaatrechtelijke rechtshandelingen en feitelijke handelingen die verband houden met:
 
@@ -606,7 +632,7 @@ Aan de algemeen directeur van de Dienst ICT Uitvoering van het Ministerie van Ec
 
 - d. het zorgdragen voor het crypto-beheer van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, waaronder het autoriseren van gebruikers van cryptomiddelen, het registreren en beheren van in gebruik zijnde cryptomiddelen en het implementeren van de cryptografische technieken conform vigerende wet- en regelgeving.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Aan de directeur-generaal Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat wordt mandaat, volmacht en machtiging verleend voor:
 
@@ -716,7 +742,7 @@ Aan de algemeen directeur van de Dienst ICT Uitvoering van het Ministerie van Ec
 
 #### § 8. Ondermandaat, volmacht en machtiging aan hoofden van dienst en andere functionarissen van het Ministerie van Economische Zaken en Klimaat
 
-#### Artikel 25
+##### Artikel 25
 
 1. De directeur-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat, de directeur-generaal Economie en Digitalisering van het Ministerie van Economische Zaken en Klimaat, de directeur Informatievoorziening van het Ministerie van Economische Zaken en Klimaat, de directeur Mens en Organisatie van het Ministerie van Economische Zaken en Klimaat, de directeur Bureau Bestuursraad van het Ministerie van Economische Zaken en Klimaat, de directeur Communicatie van het Ministerie van Economische Zaken en Klimaat, de directeur Financieel-Economische Zaken van het Ministerie van Economische Zaken en Klimaat, de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat, de algemeen directeur van de Dienst ICT Uitvoering van het Ministerie van Economische Zaken en Klimaat en de directeur-generaal Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat, kunnen, ieder voor zich, ondermandaat, volmacht en machtiging verlenen aan onder hen ressorterende functionarissen.
 
@@ -734,7 +760,7 @@ Aan de algemeen directeur van de Dienst ICT Uitvoering van het Ministerie van Ec
 
 #### § 8. Ondermandaat, volmacht en machtiging aan hoofden van dienst en andere functionarissen van het Ministerie van Economische Zaken en Klimaat
 
-#### Artikel 26
+##### Artikel 26
 
 Mandaat en volmacht worden uitgeoefend met inachtneming van:
 
@@ -742,7 +768,7 @@ Mandaat en volmacht worden uitgeoefend met inachtneming van:
 
 - b. de in de beschrijving van de administratieve organisatie voorgeschreven medeparaafprocedures alsmede andere afspraken omtrent afstemming en coördinatie.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Het krachtens mandaat, volmacht of machtiging ondertekenen van stukken geschiedt als volgt:
 
@@ -772,19 +798,19 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 #### § 9. Instructies aan niet-ondergeschikten
 
-#### Artikel 28
+##### Artikel 28
 
 Het [Besluit mandaat, volmacht en machtiging LNV 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0040202) wordt ingetrokken.
 
-#### Artikel 29
+##### Artikel 29
 
 Een afschrift van dit besluit wordt gezonden aan de secretaris-generaal, de plaatsvervangend secretaris-generaal, de hoofden van dienst van het Ministerie van Landbouw, Natuur en Voedselkwaliteit en de Algemene Rekenkamer.
 
-#### Artikel 30
+##### Artikel 30
 
 Dit besluit treedt in werking met ingang van 1 januari 2019. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 1 januari 2019, treedt het in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt het terug tot en met 1 januari 2019.
 
-#### Artikel 31
+##### Artikel 31
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging LNV 2019.
 
@@ -818,7 +844,7 @@ Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging LNV 20
 
 Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
-#### Artikel 32a
+##### Artikel 32a
 
 Vervallen
 
@@ -832,7 +858,7 @@ Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden gepl
 
 Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
-#### Artikel 2a
+##### Artikel 2a
 
 Het in dit besluit ten aanzien van de Minister bepaalde is van overeenkomstige toepassing voor de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur.
 
@@ -864,7 +890,7 @@ Het in dit besluit ten aanzien van de Minister bepaalde is van overeenkomstige t
 
 Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
-#### Artikel 6a
+##### Artikel 6a
 
 Aan de programmadirecteur PDC, kostprijsmodel en herziening retributiestelsel en de programmadirecteur Stelsel keuren en toezicht wordt ieder voor zich mandaat, volmacht en machtiging verleend voor aangelegenheden op het werkterrein van het programma, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 1.000.000 per verplichting niet te boven gaat, en met uitzondering van aangelegenheden waarvoor mandaat, volmacht en machtiging is verleend aan de secretaris-generaal, de plaatsvervangend secretaris-generaal of aan een hoofd van dienst.
 
@@ -888,7 +914,7 @@ Aan de programmadirecteur PDC, kostprijsmodel en herziening retributiestelsel en
 
 Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
-#### Artikel 18b
+##### Artikel 18b
 
 1. Aan de directeur Mens en Organisatie van het Ministerie van Economische Zaken en Klimaat wordt mandaat, volmacht en machtiging verleend voor besluiten, privaatrechtelijke rechtshandelingen en feitelijke handelingen die verband houden met:
 
@@ -936,7 +962,7 @@ Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden gepl
 
 Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
-#### Artikel 18a
+##### Artikel 18a
 
 Aan de directeur Informatievoorziening van het Ministerie van Economische Zaken en Klimaat wordt mandaat, volmacht en machtiging verleend voor besluiten, privaatrechtelijke rechtshandelingen en feitelijke handelingen die verband houden met:
 

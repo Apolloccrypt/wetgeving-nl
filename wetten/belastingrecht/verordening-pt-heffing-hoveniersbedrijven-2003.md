@@ -1,13 +1,37 @@
 ---
-title: "Verordening PT heffing hoveniersbedrijven 2003"
+title: "Besluit van het bestuur van het Productschap Tuinbouw, d.d. 3 juli 2002, houdende de vaststelling van een heffing ten behoeve van hoveniersbedrijven voor het jaar 2003 (Verordening PT heffing hoveniersbedrijven 2003)"
 identifier: "BWBR0013841"
-categorie: "Belastingrecht"
-publicatiedatum: 2003-02-01
-laatste_update: 2003-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013841"
+country: "nl"
+rank: "pbo"
+publication_date: "2003-02-01"
+last_updated: "2003-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013841"
+soort: "pbo"
+stam_id: "6019383"
+version_id: "10630532"
+internal_id: "C29082101"
+label_id: "6008834"
+original_entry_into_force: "2003-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013841/2003-02-01/0"
+intitule_bron: "Vbbo.2003-8"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-07-03"
+intitule_published: "2003-01-31"
+intitule_in_force: "2003-01-31"
+intitule_status: "goed"
+original_publication: "Vbbo.2003-8"
+original_signed_date: "2002-07-03"
+original_published_date: "2003-01-31"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-02-01"
+jci_1_3: "jci1.3:c:BWBR0013841&z=2003-02-01&g=2003-02-01"
+jci_1_0: "1.0:c:BWBR0013841&g=2003-02-01"
+citeertitel_status: "officieel"
+short_title: "Verordening PT heffing hoveniersbedrijven 2003"
+signed_date: "2002-07-03"
+entry_into_force: "2003-02-01"
 ---
-
 # Besluit van het bestuur van het Productschap Tuinbouw, d.d. 3 juli 2002, houdende de vaststelling van een heffing ten behoeve van hoveniersbedrijven voor het jaar 2003 (Verordening PT heffing hoveniersbedrijven 2003)
 
 gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
@@ -18,7 +42,7 @@ gehoord de sectorcommissie Hovenierswerkzaamheden, d.d. 24 mei 2002;
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de [artikelen 1](onbekend) en [2 van de Instellingsverordening Productschap Tuinbouw 1998](onbekend).
 
@@ -32,13 +56,13 @@ BESLUIT:
 
 - d. omzet: het bruto-omzetbedrag van hovenierswerkzaamheden en leveringen over het jaar 2002.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De ondernemer is in 2003 een heffing aan het Productschap Tuinbouw verschuldigd ten behoeve van promotionele en marketingactiviteiten, economische aangelegenheden, kwaliteitsaangelegenheden, technisch onderzoek, milieu-aangelegenheden en voorlichting, alsmede ten behoeve van de algemene kosten van het Productschap Tuinbouw.
 
 2. De heffing als bedoeld in het eerste lid wordt opgelegd door de voorzitter van het Productschap Tuinbouw, met inachtneming van het in de volgende artikelen bepaalde.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De heffing die de ondernemer is verschuldigd, wordt opgelegd naar de grondslag van de in het jaar 2002 behaalde omzet.
 
@@ -50,11 +74,11 @@ BESLUIT:
 
 - c. meer dan € 4.537.800,=: 0,01%.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien de heffingsplichtige de gegevens die hem krachtens de [Verordening PT Algemene bepalingen](onbekend), ten behoeve van de onderhavige verordening zijn gevraagd, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan door de voorzitter van het Productschap Tuinbouw te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing met € 40 wordt verhoogd in verband met administratiekosten.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De oplegging van de krachtens deze verordening verschuldigde heffing vindt plaats na afloop van het jaar waarover de heffing verschuldigd is en geschiedt door de voorzitter van het Productschap Tuinbouw middels toezending of uitreiking aan de heffingsplichtige van een heffingsnota.
 
@@ -68,11 +92,11 @@ Indien de heffingsplichtige de gegevens die hem krachtens de [Verordening PT Alg
 
 3. In afwijking van het eerste lid kan de voorzitter van het Productschap Tuinbouw de heffingsplichtige een voorlopige heffing opleggen tot het bedrag waarop de heffing vermoedelijk zal worden vastgesteld. De voorlopige heffing wordt verrekend met de krachtens deze verordening verschuldigde heffing.
 
-#### Artikel 6
+##### Artikel 6
 
 Het Productschap Tuinbouw is gerechtigd om, indien hem aan de hand van te zijner beschikking gekomen gegevens blijkt, dat een aangifte als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013841&artikel=3&z=2003-02-01&g=2003-02-01) of een schatting als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013841&artikel=4&z=2003-02-01&g=2003-02-01), niet in overeenstemming is met de werkelijkheid, een opgelegde heffing aan de hand van deze gegevens te herzien en het verschil tussen de opgelegde en de herziene heffing alsnog na te vorderen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Betaling geschiedt binnen 30 dagen na dagtekening van de heffingsnota.
 
@@ -84,19 +108,19 @@ Het Productschap Tuinbouw is gerechtigd om, indien hem aan de hand van te zijner
 
 - c. zodra de ondernemer zich metterwoon in het buitenland heeft gevestigd of van het voornemen daartoe blijkt.
 
-#### Artikel 8
+##### Artikel 8
 
 Aan de heffíngsplichtige, die niet of niet geheel binnen de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0013841&artikel=7&z=2003-02-01&g=2003-02-01) bedoelde termijn heeft betaald, kunnen de daaruit voortvloeiende extra kosten van € 22,50 in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning als bedoeld in [artikel 127, tweede lid van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127).
 
-#### Artikel 9
+##### Artikel 9
 
 De invorderingskosten voortvloeiend uit het niet betalen binnen de gestelde termijn als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0013841&artikel=7&z=2003-02-01&g=2003-02-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0013841&artikel=8&z=2003-02-01&g=2003-02-01), zijn voor rekening en risico van de ondernemer.
 
-#### Artikel 10
+##### Artikel 10
 
 De voorzitter is belast met de oplegging en inning van de heffing en de daarmee samenhangende kosten als bedoeld in de [artikelen 5 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013841&artikel=5&z=2003-02-01&g=2003-02-01).
 
-#### Artikel 11
+##### Artikel 11
 
 1. De gegevens verkregen uit hoofde van het bepaalde in deze verordening dienen in handen van de voorzitter of door deze aan te wijzen personen van het secretariaat van het productschap te worden gesteld.
 
@@ -104,13 +128,13 @@ De voorzitter is belast met de oplegging en inning van de heffing en de daarmee 
 
 #### § 3. Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 1. Deze verordening treedt in werking op 1 januari 2003.
 
 2. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening en de toelichting wordt geplaatst wordt uitgegeven na 31 december 2002 treedt zij in werking met ingang van de dag na de datum van publicatie in het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2003.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze verordening wordt aangehaald als: Verordening PT heffing hoveniersbedrijven 2003.
 

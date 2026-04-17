@@ -1,13 +1,37 @@
 ---
 title: "Besluit informatievoorziening in de rijksdienst 1990 (Besluit IVR 1990)"
 identifier: "BWBR0004976"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 1990-12-01
-laatste_update: 1990-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004976"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1990-12-01"
+last_updated: "1990-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004976"
+soort: "ministeriele-regeling"
+stam_id: "4229083"
+version_id: "5992892"
+internal_id: "C6196281"
+label_id: "4208044"
+dtd_version: "2.0"
+original_entry_into_force: "1990-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004976/1990-12-01/0"
+intitule_bron: "Stcrt.1991-20"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-01-18"
+intitule_published: "1991-01-29"
+intitule_in_force: "1991-01-29"
+intitule_status: "goed"
+original_publication: "Stcrt.1991-20"
+original_signed_date: "1991-01-18"
+original_published_date: "1991-01-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1990-12-01"
+jci_1_3: "jci1.3:c:BWBR0004976&z=1990-12-01&g=1990-12-01"
+jci_1_0: "1.0:c:BWBR0004976&g=1990-12-01"
+citeertitel_status: "officieel"
+signed_date: "1991-01-18"
+entry_into_force: "1990-12-01"
 ---
-
 # Besluit informatievoorziening in de rijksdienst 1990 (Besluit IVR 1990)
 
 Overwegende, dat het wenselijk is de regels voor de informatievoorziening in de rijksdienst te actualiseren alsmede, dat de behoefte bestaat tot betere inhoudelijke sturing te komen van de informatievoorziening;
@@ -20,15 +44,15 @@ Besluit:
 
 #### Beginselen van het informatievoorzieningsbeleid
 
-#### Artikel 1
+##### Artikel 1
 
 De rijksdienst draagt, voor zover mogelijk, zorg voor de inrichting van de informatievoorziening in de openbare sector op grond van de beginselen, die in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004976&artikel=2&z=1990-12-01&g=1990-12-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004976&artikel=3&z=1990-12-01&g=1990-12-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004976&artikel=4&z=1990-12-01&g=1990-12-01) van dit besluit zijn vastgelegd.
 
-#### Artikel 2
+##### Artikel 2
 
 Het waarnemen, vastleggen, verzamelen, verwerken, verstrekken en gebruiken van informatie geschiedt uitsluitend voor zover een goede vervulling van de taak daartoe noodzaakt.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Informatie over individuele objecten berust zo veel mogelijk op rechtstreeks waarnemen en op inlichtingen van betrokkenen.
 
@@ -42,7 +66,7 @@ Het waarnemen, vastleggen, verzamelen, verwerken, verstrekken en gebruiken van i
 
 6. Het meervoudig vastleggen, verzamelen, verwerken en verstrekken van informatie over individuele objecten wordt zo veel mogelijk vermeden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Gebruik en exploitatie van een informatiesysteem (informatiebeheer) wordt gedecentraliseerd in overeenstemming met de decentralisatie van de uitvoering van taken waarvoor informatie nodig is.
 
@@ -52,11 +76,11 @@ Het waarnemen, vastleggen, verzamelen, verwerken, verstrekken en gebruiken van i
 
 #### Verdeling van verantwoordelijkheden voor de informatievoorziening
 
-#### Artikel 5
+##### Artikel 5
 
 De minister van Binnenlandse Zaken heeft de verantwoordelijkheid voor de coördinatie op het gebied van de informatievoorziening in de openbare sector als geheel.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De volgende ministers zijn eerstverantwoordelijk voor de hierna te noemen deelgebieden van de informatievoorziening:
 
@@ -126,7 +150,7 @@ De minister van Binnenlandse Zaken heeft de verantwoordelijkheid voor de coördi
 
 3. De in het eerste lid genoemde ministers stellen voor het desbetreffende deelgebied van de informatievoorziening een structuurschets op. Zij stellen de structuurschets bij als de ontwikkelingen op dit deelgebied daartoe aanleiding geven. De opgestelde of bijgestelde structuurschets wordt door de ministerraad vastgesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Bij een voorstel van wet of van een andere regeling, voor de uitvoering waarvan de beschikbaarheid van informatie van essentiële betekenis is, dient in de bijbehorende toelichting steeds in een afzonderlijk onderdeel aan de informatievoorziening aandacht te worden besteed.
 
@@ -138,11 +162,11 @@ De minister van Binnenlandse Zaken heeft de verantwoordelijkheid voor de coördi
 
 #### Inhoudelijke coördinatie van de informatievoorziening
 
-#### Artikel 8
+##### Artikel 8
 
 De minister van Binnenlandse Zaken doet voorstellen aan de ministerraad en in voorkomende gevallen aan andere organen binnen de openbare sector om een doelmatige en doeltreffende inrichting van de informatievoorziening in de openbare sector te bevorderen.
 
-#### Artikel 9
+##### Artikel 9
 
 De minister van Binnenlandse Zaken kan nadere aanbevelingen opstellen voor de informatievoorziening in de rijksdienst.
 
@@ -150,17 +174,17 @@ Dergelijke aanbevelingen worden vastgesteld in overeenstemming met het gevoelen 
 
 #### Informatieplanning
 
-#### Artikel 10
+##### Artikel 10
 
 De afzonderlijke ministers dragen zorg voor het tot stand komen van meerjareninformatieplannen ten behoeve van een systematische planning van de voorgenomen activiteiten op het gebied van de informatievoorziening binnen de eigen ministeries.
 
-#### Artikel 11
+##### Artikel 11
 
 Een meerjareninformatieplan dat relevant is vanuit het oogpunt van de algemene coördinatie op het terrein van de overheidsinformatievoorziening wordt aan de minister van Binnenlandse Zaken toegezonden. De minister van Binnenlandse Zaken zal zo nodig zijn commentaar op het plan aan de betrokken minister doen toekomen.
 
 #### Contra-expertise
 
-#### Artikel 12
+##### Artikel 12
 
 1. Voordat een geautomatiseerd informatiesysteem wordt ontwikkeld, ingevoerd of gewijzigd, waarbij aanzienlijke risico's bestaan, laat de minister wie het aangaat een onafhankelijke contra-expertise verrichten.
 
@@ -168,7 +192,7 @@ Een meerjareninformatieplan dat relevant is vanuit het oogpunt van de algemene c
 
 #### De informatiebetrekkingen met gemeenten en provincies
 
-#### Artikel 13
+##### Artikel 13
 
 1. Aan een gemeentebestuur kan slechts de verplichting tot verstrekking van systematische informatie aan de minister wie het aangaat worden opgelegd, voor zover bij de wet of krachtens de wet bij algemene maatregel van bestuur daarin is voorzien.
 
@@ -176,13 +200,13 @@ Een meerjareninformatieplan dat relevant is vanuit het oogpunt van de algemene c
 
 3. De minister wie het aangaat draagt, na overleg met de minister van Binnenlandse Zaken, zorg dat in een regeling van de verstrekking als bedoeld in het eerste en tweede lid wordt aangegeven hoe de financiële gevolgen van de verplichting tot informatieverstrekking worden gecompenseerd.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De minister wie het aangaat kan een gemeentebestuur slechts verplichten tot het verstrekken van systematische informatie aan het provinciaal bestuur, voor zover bij de wet of krachtens de wet bij algemene maatregel van bestuur daarin is voorzien.
 
 2. De minister wie het aangaat draagt, na overleg met de minister van Binnenlandse Zaken, zorg dat in de regeling van een verstrekking als bedoeld in het eerste lid wordt aangegeven hoe de financiële gevolgen van de verplichting tot informatieverstrekking voor de gemeente worden gecompenseerd.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Aan een provinciaal bestuur kan slechts de verplichting tot verstrekking van systematische informatie aan de minister wie het aangaat worden opgelegd, voor zover bij de wet of krachtens de wet bij algemene maatregel van bestuur daarin is voorzien.
 
@@ -192,7 +216,7 @@ Een meerjareninformatieplan dat relevant is vanuit het oogpunt van de algemene c
 
 #### Rapportage
 
-#### Artikel 16
+##### Artikel 16
 
 1. Jaarlijks rapporteren de ministers aan de Tweede Kamer over de stand van zaken en de ontwikkelingen op het gebied van de informatievoorziening.
 
@@ -200,7 +224,7 @@ Een meerjareninformatieplan dat relevant is vanuit het oogpunt van de algemene c
 
 #### Slotbepaling
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het Besluit Informatievoorziening in de Rijksdienst van 30 december 1980 (Staatscourant 1981, nr. 9) wordt ingetrokken.
 

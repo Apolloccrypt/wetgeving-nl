@@ -1,13 +1,38 @@
 ---
 title: "Richtlijn Toetsing geschiktheid onderzoeksinstelling"
 identifier: "BWBR0048207"
-categorie: "Internationaal recht"
-publicatiedatum: 2023-06-01
-laatste_update: 2023-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048207"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-06-01"
+last_updated: "2023-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048207"
+soort: "zbo"
+stam_id: "16755813"
+version_id: "29426072"
+internal_id: "C42080361"
+label_id: "16671904"
+dtd_version: "2.0"
+original_entry_into_force: "2023-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048207/2023-06-01/0"
+intitule_bron: "Stcrt.2023-15319"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-05-23"
+intitule_published: "2023-05-31"
+intitule_in_force: "2023-05-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-15319"
+original_signed_date: "2023-05-23"
+original_published_date: "2023-05-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-15319"
+entry_into_force_date: "2023-06-01"
+jci_1_3: "jci1.3:c:BWBR0048207&z=2023-06-01&g=2023-06-01"
+jci_1_0: "1.0:c:BWBR0048207&g=2023-06-01"
+citeertitel_status: "officieel"
+signed_date: "2023-05-23"
+entry_into_force: "2023-06-01"
 ---
-
 # Richtlijn Toetsing geschiktheid onderzoeksinstelling
 
 **Richtlijn van de centrale commissie mensgebonden onderzoek, de CCMO, krachtens artikel 24 van de Wet medisch-wetenschappelijk onderzoek met mensen, inzake de toetsingsprocedure voor de beoordeling van de geschiktheid van een Nederlandse (onderzoeks)instelling voor de uitvoering van een medisch-wetenschappelijk onderzoek (Richtlijn Toetsing geschiktheid onderzoeksinstelling)**

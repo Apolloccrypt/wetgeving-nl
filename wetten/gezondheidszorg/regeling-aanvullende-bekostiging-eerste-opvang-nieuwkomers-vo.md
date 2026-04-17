@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanvullende bekostiging eerste opvang nieuwkomers vo"
+title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 6 december 2016, nr. VO/1102619, houdende regels voor de aanvullende bekostiging van scholen in het voortgezet onderwijs voor de eerste opvang van nieuwkomers (Regeling aanvullende bekostiging eerste opvang nieuwkomers vo 2017)"
 identifier: "BWBR0038995"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038995"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038995"
+soort: "ministeriele-regeling"
+stam_id: "13849363"
+version_id: "27999602"
+internal_id: "C39493991"
+label_id: "13814584"
+dtd_version: "2.0"
+original_entry_into_force: "2021-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038995/2026-01-01/0"
+intitule_bron: "Stcrt.2016-68476"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-12-06"
+intitule_published: "2016-12-23"
+intitule_in_force: "2016-12-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-40703"
+original_signed_date: "2021-08-25"
+original_published_date: "2021-09-13"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2021-40703"
+entry_into_force_date: "2021-10-01"
+jci_1_3: "jci1.3:c:BWBR0038995&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0038995&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling aanvullende bekostiging eerste opvang nieuwkomers vo"
+signed_date: "2021-08-25"
+entry_into_force: "2021-10-01"
 ---
-
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 6 december 2016, nr. VO/1102619, houdende regels voor de aanvullende bekostiging van scholen in het voortgezet onderwijs voor de eerste opvang van nieuwkomers (Regeling aanvullende bekostiging eerste opvang nieuwkomers vo 2017)
 
 Handelende in overeenstemming met de Staatssecretaris van Economische Zaken,
@@ -16,7 +42,7 @@ Gelet op de [artikelen 85a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -48,17 +74,17 @@ In deze regeling wordt verstaan onder:
 
 - **schoolplan:** schoolplan, bedoeld in de [artikelen 2.88 tot en met 2.91 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.88).
 
-#### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 De [artikelen 3.1 tot en met 3.5 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.1) zijn niet van toepassing.
 
-#### Artikel 3. Doelstelling
+##### Artikel 3. Doelstelling
 
 1. De minister verstrekt ambtshalve aanvullende bekostiging voor de kosten van de eerste opvang.
 
 2. De minister kan het bevoegd gezag eenmalig op aanvraag aanvullende bekostiging verstrekken voor de kosten van de voorbereidende en coördinerende werkzaamheden die samenhangen met de opstart van de eerste opvang, indien deze eerste opvang betrekking heeft op ten minste 10 nieuwkomers op de peildatum.
 
-#### Artikel 4. Bekostigingsbedrag
+##### Artikel 4. Bekostigingsbedrag
 
 1. De aanvullende bekostiging, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2026-01-01&g=2026-01-01), wordt per school berekend op basis van het aantal nieuwkomers dat op de betreffende peildatum, bedoeld in het vierde lid, op de school staat ingeschreven.
 
@@ -82,7 +108,7 @@ De [artikelen 3.1 tot en met 3.5 van de Kaderregeling subsidies OCW, SZW en VWS]
 
 - b. een e-mail van het Centraal Orgaan opvang asielzoekers naar aanleiding van de inschrijving van een leerling op een school.
 
-#### Artikel 5. Bekostiging
+##### Artikel 5. Bekostiging
 
 1. DUO hanteert voor de voorlopige telling en de daarop gebaseerde bekostiging, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2026-01-01&g=2026-01-01), de registratie in het register onderwijsdeelnemers op respectievelijk 16 januari, 16 april, 16 juli en 16 oktober 2026 van het aantal nieuwkomers dat op respectievelijk de peildata 1 januari, 1 april, 1 juli en 1 oktober 2026 als schoolgaand stond ingeschreven.
 
@@ -92,7 +118,7 @@ De [artikelen 3.1 tot en met 3.5 van de Kaderregeling subsidies OCW, SZW en VWS]
 
 4. Voor het indienen van een aanvraag als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2026-01-01&g=2026-01-01), wordt gebruikgemaakt van het daarvoor beschikbaar gestelde formulier op www.duo.nl. Aanvragen die op de peildata 1 januari, 1 april, 1 juli en 1 oktober 2026 niet uiterlijk op respectievelijk 15 januari, 15 april, 15 juli en 15 oktober 2026 door DUO zijn ontvangen, worden afgewezen.
 
-#### Artikel 6. Vaststelling, betaling en verantwoording
+##### Artikel 6. Vaststelling, betaling en verantwoording
 
 1. De aanvullende bekostiging, bedoeld in [artikel 3 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2026-01-01&g=2026-01-01), wordt vastgesteld in de maand, volgend op de betreffende peildatum en als bedrag ineens betaald.
 
@@ -102,29 +128,29 @@ De [artikelen 3.1 tot en met 3.5 van de Kaderregeling subsidies OCW, SZW en VWS]
 
 4. De verantwoording van de subsidie geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132).
 
-#### Artikel 7. Schoolplan
+##### Artikel 7. Schoolplan
 
 1. Het bevoegd gezag geeft in het schoolplan aan hoe het de aanvullende bekostiging inzet voor het onderwijskundig beleid en de bewaking en verbetering van de kwaliteit van het onderwijs aan nieuwkomers.
 
 2. Het bevoegd gezag informeert de partijen in de omgeving van de school, die herkenbaar betrokken zijn bij de inzet van de aanvullende bekostiging, over zijn beleid ter zake en betrekt opmerkingen van die partijen op een herkenbare manier bij het bepalen van het onderwijskundig beleid.
 
-#### Artikel 8. Omhangbepaling
+##### Artikel 8. Omhangbepaling
 
 Deze regeling berust mede op [artikel 5.9, eerste lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.9).
 
-#### Artikel 9. Inwerkingtreding en horizonbepaling
+##### Artikel 9. Inwerkingtreding en horizonbepaling
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2017.
 
 2. Deze regeling vervalt met ingang van 1 januari 2027.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling aanvullende bekostiging eerste opvang nieuwkomers vo.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 4a. Extra aanvullende bekostiging 2020
+##### Artikel 4a. Extra aanvullende bekostiging 2020
 
 Vervallen
 

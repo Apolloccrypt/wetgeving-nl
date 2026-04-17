@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling verbetering basisvaardigheden voor prioriteitsscholen 2024"
+title: "Regeling van de Minister voor Primair en Voortgezet Onderwijs van 4 april 2024, nr. OVO/44663863, houdende regels voor de subsidieverstrekking aan prioriteitsscholen voor het verbeteren van de basisvaardigheden met bewezen effectieve interventies (Subsidieregeling verbetering basisvaardigheden voor prioriteitsscholen 2024)"
 identifier: "BWBR0049558"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-28
-laatste_update: 2026-01-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049558"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-28"
+last_updated: "2026-01-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049558"
+soort: "ministeriele-regeling"
+stam_id: "17070653"
+version_id: "31347522"
+internal_id: "C44801341"
+label_id: "16979484"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049558/2026-01-28/0"
+intitule_bron: "Stcrt.2024-12000"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-04-04"
+intitule_published: "2024-04-09"
+intitule_in_force: "2024-04-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-1998"
+original_signed_date: "2026-01-19"
+original_published_date: "2026-01-27"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2026-1998"
+entry_into_force_date: "2026-01-28"
+jci_1_3: "jci1.3:c:BWBR0049558&z=2026-01-28&g=2026-01-28"
+jci_1_0: "1.0:c:BWBR0049558&g=2026-01-28"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling verbetering basisvaardigheden voor prioriteitsscholen 2024"
+signed_date: "2026-01-19"
+entry_into_force: "2026-01-28"
 ---
-
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 4 april 2024, nr. OVO/44663863, houdende regels voor de subsidieverstrekking aan prioriteitsscholen voor het verbeteren van de basisvaardigheden met bewezen effectieve interventies (Subsidieregeling verbetering basisvaardigheden voor prioriteitsscholen 2024)
 
 Gelet op [artikel 71 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=71), [artikel 5.11 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.11), [artikel 71 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=71), en [artikel 67 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=67);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -76,11 +102,11 @@ In deze regeling wordt verstaan onder:
 
 - **WVO 2020:** [Wet op het voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Toepassing [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Te subsidiëren activiteiten ter verbetering van de basisvaardigheden
+##### Artikel 3. Te subsidiëren activiteiten ter verbetering van de basisvaardigheden
 
 1. De minister kan ter verbetering van de basisvaardigheden aan een bevoegd gezag van een prioriteitsschool voor de schooljaren 2024/2025 en 2025/2026 en de periode van 1 januari 2025 tot en met 31 december 2026 voor scholen uit het tweede aanvraagtijdvak subsidie verstrekken voor de uitvoering van één of meer evidence-informed interventies en voor monitoring van het prestatieniveau van leerlingen op het gebied van basisvaardigheden.
 
@@ -90,11 +116,11 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 4. De evidence-informed interventies zijn in ieder geval gericht op het versterken van de basisvaardigheden op het gebied van taal dan wel rekenen of wiskunde, of taal en rekenen of wiskunde en waar nodig ook op het versterken van de basisvaardigheden burgerschap en digitale geletterdheid.
 
-#### Artikel 4. Reikwijdte hoofdstuk 2
+##### Artikel 4. Reikwijdte hoofdstuk 2
 
 Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor de uitvoering van activiteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&hoofdstuk=1&artikel=3&z=2026-01-28&g=2026-01-28), naar aanleiding van aanvragen die zijn ingediend in de in [artikel 4a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&hoofdstuk=2&artikel=4a&z=2026-01-28&g=2026-01-28), bedoelde aanvraagperiode.
 
-#### Artikel 5. Subsidieplafonds en deelplafonds
+##### Artikel 5. Subsidieplafonds en deelplafonds
 
 1. Voor subsidieverstrekking op aanvragen die in het eerste aanvraagtijdvak, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&hoofdstuk=2&artikel=4&z=2026-01-28&g=2026-01-28), zijn ingediend, is een bedrag beschikbaar van in totaal € 16.274.000, waarvan:
 
@@ -114,7 +140,7 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 3. Indien één of meerdere bedragen, bedoeld in het eerste en tweede lid, niet of niet volledig worden benut, worden de resterende middelen naar rato verdeeld over de andere subsidieplafonds in het betreffende lid.
 
-#### Artikel 6. Subsidiebedrag
+##### Artikel 6. Subsidiebedrag
 
 1. Het subsidiebedrag voor een school voor primair onderwijs en primair onderwijs BES wordt berekend door het aantal leerlingen dat op 1 februari 2023 stond ingeschreven op de desbetreffende vestiging te vermenigvuldigen met een bedrag van € 1.000,–.
 
@@ -122,7 +148,7 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 3. Het subsidiebedrag wordt aan een bevoegd gezag in Caribisch Nederland uitbetaald in US-dollars tegen de vastgestelde wisselkoers.
 
-#### Artikel 7. Wijze van verdeling beschikbare middelen
+##### Artikel 7. Wijze van verdeling beschikbare middelen
 
 1. Indien de toewijzing van alle daarvoor in aanmerking komende aanvragen voor een subsidie zou leiden tot overschrijding van een subsidieplafond als bedoeld in [artikel 5, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&hoofdstuk=2&artikel=5&z=2026-01-28&g=2026-01-28), krijgen de aanvragen met betrekking tot de vestigingen van prioriteitsscholen in Caribisch Nederland voorrang. Indien de toewijzing van alle aanvragen van prioriteitsscholen in Caribisch Nederland zou leiden tot overschrijding van een subsidieplafond als bedoeld in artikel 5, eerste of tweede lid, worden deze aanvragen gerangschikt op volgorde van binnenkomst van de aanvragen.
 
@@ -130,7 +156,7 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 3. Indien na toepassing van het tweede lid nog middelen resteren, worden de overige aanvragen gerangschikt op volgorde van binnenkomst van de aanvragen.
 
-#### Artikel 8. Afwijzingsgronden
+##### Artikel 8. Afwijzingsgronden
 
 1. Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt een subsidie in elk geval geweigerd:
 
@@ -140,7 +166,7 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 - c. indien de kwaliteit van het onderwijs van de desbetreffende schoolvestiging in het primair onderwijs of afdeling in het voortgezet onderwijs door de Inspectie van het Onderwijs bij besluit op de peildatum 1 augustus 2024 niet als ‘zeer zwak’ of ‘onvoldoende’ is beoordeeld en voor zover de subsidie is aangevraagd in het tweede tijdvak, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&hoofdstuk=2&artikel=4&z=2026-01-28&g=2026-01-28).
 
-#### Artikel 9. Subsidieverplichtingen
+##### Artikel 9. Subsidieverplichtingen
 
 1. In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) is de subsidieontvanger, voor zover de subsidie is aangevraagd in het eerste tijdvak, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&hoofdstuk=2&artikel=4&z=2026-01-28&g=2026-01-28), verplicht om:
 
@@ -174,7 +200,7 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 - g. uiterlijk acht weken na het verstrijken van de activiteitenperiode een activiteitenverslag in te dienen bij DUS-I.
 
-#### Artikel 10. Verlening, vaststelling en verantwoording subsidie
+##### Artikel 10. Verlening, vaststelling en verantwoording subsidie
 
 1. In afwijking van [artikel 9.1, vierde lid, onder a, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=9.1) wordt de subsidie aan het bevoegd gezag binnen 13 weken na sluiting van de aanvraagperiode verleend. De minister verstrekt een voorschot van 100%, dat in drie delen wordt uitbetaald.
 
@@ -184,17 +210,17 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 4. Indien de activiteiten waarvoor de subsidie is verleend geheel zijn verricht en volledig is voldaan aan de verplichtingen die verbonden zijn aan de verleende subsidie, wordt de subsidie vastgesteld op het bedrag waarvan de hoogte door de minister bij de verlening is genoemd. Indien de activiteiten volledig zijn uitgevoerd en aan alle verplichtingen is voldaan, kan het niet aangewende deel van de subsidie worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
-#### Artikel 11. Hardheidsclausule
+##### Artikel 11. Hardheidsclausule
 
 De minister kan één of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing daarvan, gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zou leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 12. Inwerkingtreding en vervaldatum
+##### Artikel 12. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 23 maart 2029.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling verbetering basisvaardigheden voor prioriteitsscholen 2024.
 
@@ -204,7 +230,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 2. Aanvraagronde 2024
 
-#### Artikel 4a. Aanvraag subsidie
+##### Artikel 4a. Aanvraag subsidie
 
 1. Een bevoegd gezag kan per vestiging één aanvraag voor subsidie indienen.
 
@@ -224,11 +250,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 3. Aanvraagronde 2025
 
-#### Artikel 9a. Reikwijdte hoofdstuk 3
+##### Artikel 9a. Reikwijdte hoofdstuk 3
 
 Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor de uitvoering van activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&hoofdstuk=1&artikel=3&z=2026-01-28&g=2026-01-28), naar aanleiding van aanvragen die zijn ingediend in de in [artikel 9b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&hoofdstuk=3&artikel=9b&z=2026-01-28&g=2026-01-28), bedoelde aanvraagperiode.
 
-#### Artikel 9b. Aanvraag subsidie
+##### Artikel 9b. Aanvraag subsidie
 
 1. Een bevoegd gezag kan per vestiging één aanvraag voor de subsidie indienen.
 
@@ -246,7 +272,7 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 4. Indien een aanvraag onvolledig is, krijgt de aanvrager onder toepassing van [artikel 4:5, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) tien werkdagen de tijd om de aanvraag aan te vullen.
 
-#### Artikel 9c. Subsidieplafonds en deelplafonds
+##### Artikel 9c. Subsidieplafonds en deelplafonds
 
 1. Voor subsidieverstrekking op aanvragen die in het eerste aanvraagtijdvak, bedoeld in [artikel 9b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&hoofdstuk=3&artikel=9b&z=2026-01-28&g=2026-01-28), zijn ingediend, is een bedrag beschikbaar van in totaal € 14.804.895, waarvan:
 
@@ -272,7 +298,7 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 - b. de [Subsidieregeling verbetering basisvaardigheden voor scholen 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049554).
 
-#### Artikel 9d. Subsidiebedrag
+##### Artikel 9d. Subsidiebedrag
 
 1. Het subsidiebedrag voor een school voor primair onderwijs en primair onderwijs BES wordt berekend door het aantal leerlingen dat op 1 februari 2024 stond ingeschreven op de desbetreffende vestiging te vermenigvuldigen met een bedrag van € 615,–.
 
@@ -280,7 +306,7 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 3. Het subsidiebedrag wordt aan een bevoegd gezag in Caribisch Nederland uitbetaald in US-dollars tegen de vastgestelde wisselkoers.
 
-#### Artikel 9e. Wijze van verdeling beschikbare middelen
+##### Artikel 9e. Wijze van verdeling beschikbare middelen
 
 1. Indien de toewijzing van alle daarvoor in aanmerking komende aanvragen voor een subsidie zou leiden tot overschrijding van een subsidieplafond als bedoeld in [artikel 9c, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&hoofdstuk=3&artikel=9c&z=2026-01-28&g=2026-01-28), krijgen de aanvragen met betrekking tot de vestigingen van prioriteitsscholen in Caribisch Nederland voorrang. Indien de toewijzing van alle aanvragen van prioriteitsscholen in Caribisch Nederland zou leiden tot overschrijding van een subsidieplafond als bedoeld in artikel 9c, eerste of tweede lid, worden deze aanvragen gerangschikt op volgorde van binnenkomst van de aanvragen.
 
@@ -288,7 +314,7 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 3. Indien na toepassing van het tweede lid nog middelen resteren, worden de overige aanvragen gerangschikt op volgorde van binnenkomst van de aanvragen.
 
-#### Artikel 9f. Afwijzingsgronden
+##### Artikel 9f. Afwijzingsgronden
 
 1. Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt een subsidie in elk geval geweigerd:
 
@@ -298,7 +324,7 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 - c. indien de kwaliteit van het onderwijs van de desbetreffende schoolvestiging in het primair onderwijs of afdeling in het voortgezet onderwijs door de Inspectie van het Onderwijs bij besluit op de peildatum **1 augustus 2025**niet als ‘zeer zwak’ of ‘onvoldoende’ is beoordeeld en voor zover de subsidie is aangevraagd in het tweede tijdvak, bedoeld in [artikel 9b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&hoofdstuk=3&artikel=9b&z=2026-01-28&g=2026-01-28).
 
-#### Artikel 9g. Subsidieverplichtingen
+##### Artikel 9g. Subsidieverplichtingen
 
 1. In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) is de subsidieontvanger verplicht om:
 
@@ -336,11 +362,11 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 9a.1. Reikwijdte hoofdstuk 4
+##### Artikel 9a.1. Reikwijdte hoofdstuk 4
 
 Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor de uitvoering van activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&hoofdstuk=1&artikel=3&z=2026-01-28&g=2026-01-28), naar aanleiding van aanvragen die zijn ingediend in de in [artikel 9b.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&hoofdstuk=4&artikel=9b.2&z=2026-01-28&g=2026-01-28), bedoelde aanvraagperiode.
 
-#### Artikel 9b.2. Aanvraag subsidie
+##### Artikel 9b.2. Aanvraag subsidie
 
 1. Een bevoegd gezag kan per vestiging één aanvraag voor de subsidie indienen.
 
@@ -358,7 +384,7 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 4. Indien een aanvraag onvolledig is, krijgt de aanvrager onder toepassing van [artikel 4:5, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) tien werkdagen de tijd om de aanvraag aan te vullen.
 
-#### Artikel 9c.3. Subsidieplafonds en deelplafonds
+##### Artikel 9c.3. Subsidieplafonds en deelplafonds
 
 1. Voor subsidieverstrekking op aanvragen, bedoeld in [artikel 9b.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&hoofdstuk=4&artikel=9b.2&z=2026-01-28&g=2026-01-28), is een bedrag beschikbaar van in totaal € 2.154.653, waarvan:
 
@@ -384,7 +410,7 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 4. Als de middelen bedoeld in het eerste lid, na toepassing van het tweede lid, niet volledig worden benut, wordt het resterende bedrag verdeeld over de deelplafonds, bedoeld in het derde lid, naar rato van het aantal leerlingen binnen het type onderwijs.
 
-#### Artikel 9d.4. Subsidiebedrag
+##### Artikel 9d.4. Subsidiebedrag
 
 1. Het subsidiebedrag voor een vestiging voor primair onderwijs en primair onderwijs BES wordt berekend door het aantal leerlingen dat op 1 februari 2024 stond ingeschreven op de desbetreffende vestiging te vermenigvuldigen met een bedrag van € 615,–.
 
@@ -392,7 +418,7 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 3. Het subsidiebedrag wordt aan een bevoegd gezag in Caribisch Nederland uitbetaald in US-dollars tegen de vastgestelde wisselkoers.
 
-#### Artikel 9e.5. Wijze van verdeling beschikbare middelen
+##### Artikel 9e.5. Wijze van verdeling beschikbare middelen
 
 1. Indien de toewijzing van alle daarvoor in aanmerking komende aanvragen voor een subsidie zou leiden tot overschrijding van een subsidieplafond als bedoeld in [artikel 9c.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&hoofdstuk=4&artikel=9c.3&z=2026-01-28&g=2026-01-28), krijgen de aanvragen met betrekking tot de vestigingen van prioriteitsscholen in Caribisch Nederland voorrang. Indien de toewijzing van alle aanvragen van prioriteitsscholen in Caribisch Nederland zou leiden tot overschrijding van een subsidieplafond als bedoeld in [artikel 9c.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&hoofdstuk=4&artikel=9c.3&z=2026-01-28&g=2026-01-28), worden deze aanvragen gerangschikt op volgorde van binnenkomst van de aanvragen.
 
@@ -410,7 +436,7 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 - d. aanvragen ten behoeve van het speciaal onderwijs, voortgezet speciaal onderwijs en speciaal basisonderwijs worden gerangschikt op volgorde van het hoogste naar het laagste aandeel leerlingen met een niet-Nederlandse culturele achtergrond per vestiging zoals berekend door de Dienst Uitvoering Onderwijs op teldatum 1 februari 2024.
 
-#### Artikel 9f.6. Afwijzingsgronden
+##### Artikel 9f.6. Afwijzingsgronden
 
 1. Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt een subsidie in elk geval geweigerd:
 
@@ -418,7 +444,7 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 - b. indien de kwaliteit van het onderwijs van de desbetreffende vestiging in het primair onderwijs of afdeling in het voortgezet onderwijs door de Inspectie van het Onderwijs bij besluit op de peildatum 9 december 2025 niet als ‘zeer zwak’ of ‘onvoldoende’ is beoordeeld.
 
-#### Artikel 9g.7. Subsidieverplichtingen
+##### Artikel 9g.7. Subsidieverplichtingen
 
 1. In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) is de subsidieontvanger verplicht om:
 

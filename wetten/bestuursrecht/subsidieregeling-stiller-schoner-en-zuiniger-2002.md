@@ -1,13 +1,37 @@
 ---
 title: "Subsidieregeling stiller, schoner en zuiniger 2002"
 identifier: "BWBR0013388"
-categorie: "Bestuursrecht"
-publicatiedatum: 2002-02-03
-laatste_update: 2002-02-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013388"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2002-02-03"
+last_updated: "2002-02-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013388"
+soort: "ministeriele-regeling"
+stam_id: "4134963"
+version_id: "5888542"
+internal_id: "C6091371"
+label_id: "4114664"
+dtd_version: "2.0"
+original_entry_into_force: "2002-02-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013388/2002-02-03/0"
+intitule_bron: "Stcrt.2002-23"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-01-30"
+intitule_published: "2002-02-01"
+intitule_in_force: "2002-02-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2002-23"
+original_signed_date: "2002-01-30"
+original_published_date: "2002-02-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-02-03"
+jci_1_3: "jci1.3:c:BWBR0013388&z=2002-02-03&g=2002-02-03"
+jci_1_0: "1.0:c:BWBR0013388&g=2002-02-03"
+citeertitel_status: "officieel"
+signed_date: "2002-01-30"
+entry_into_force: "2002-02-03"
 ---
-
 # Subsidieregeling stiller, schoner en zuiniger 2002
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3) en [4 van de Kaderwet subsidies Verkeer en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=4),
@@ -16,11 +40,11 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 1. De minister stelt een programma vast, waarin het beleidsvoornemen ten aanzien van de ondersteuning van stiller, schoner en zuiniger verkeer en vervoer in het stedelijk gebied is neergelegd voor de periode van een aantal kalenderjaren.
 
@@ -36,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 - c. de programmabeheerder van ieder programma.
 
-#### Artikel 3
+##### Artikel 3
 
 Op een overeenkomstig deze regeling ingediende aanvraag wordt slechts subsidie verstrekt indien het project:
 
@@ -46,7 +70,7 @@ Op een overeenkomstig deze regeling ingediende aanvraag wordt slechts subsidie v
 
 - c. binnen vier jaar, te rekenen vanaf het moment van verlening van de subsidie, in Nederland wordt uitgevoerd en afgerond.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De hoogte van de subsidie wordt bepaald met inachtneming van:
 
@@ -68,7 +92,7 @@ Op een overeenkomstig deze regeling ingediende aanvraag wordt slechts subsidie v
 
 3. In een actieplan als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013388&paragraaf=1&artikel=2&z=2002-02-03&g=2002-02-03), kan een lager maximumpercentage of een lager maximumbedrag per project worden vastgesteld.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De in artikel 4, tweede lid, gestelde maximumpercentages voor onderzoeks- of ontwikkelingsproject, praktijkexperiment of demonstratieproject kunnen worden verhoogd met:
 
@@ -82,7 +106,7 @@ Op een overeenkomstig deze regeling ingediende aanvraag wordt slechts subsidie v
 
 3. Een wijziging van de kaderregeling, bedoeld in het eerste lid, onder a, treedt voor de toepassing van deze regeling in werking met ingang van de dag waarop de betrokken wijziging in werking treedt.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien aan een aanvrager subsidie wordt verleend voor een combinatie van projecten die betrekking hebben op dezelfde verkeer- en vervoertechniek bedraagt die subsidie ten hoogste het gewogen gemiddelde van de voor de desbetreffende projecten geldende maximumpercentages, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013388&paragraaf=1&artikel=4&z=2002-02-03&g=2002-02-03) en 5.
 
@@ -94,7 +118,7 @@ Op een overeenkomstig deze regeling ingediende aanvraag wordt slechts subsidie v
 
 5. Voor de projecten, bedoeld in [artikel 1, onder f, g, h, i, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0013388&paragraaf=1&artikel=1&z=2002-02-03&g=2002-02-03) wordt geen subsidie verleend indien de projectkosten minder dan € 11.344,50 bedragen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Als projectkosten worden uitsluitend in aanmerking genomen:
 
@@ -124,13 +148,13 @@ Op een overeenkomstig deze regeling ingediende aanvraag wordt slechts subsidie v
 
 #### § 2. Aanvraag en subsidieverlening
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een aanvraag wordt ingediend bij de programmabeheerder met gebruikmaking van een bij de programmabeheerder verkrijgbaar formulier, en gaat vergezeld van de in dit formulier aangegeven bewijsstukken.
 
 2. Op de aanvragen die voldoen aan het eerste lid wordt door de programmabeheerder in volgorde van ontvangst beslist.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De aanvrager is verplicht de programmabeheerder, of door hem aangewezen personen,
 
@@ -142,7 +166,7 @@ Op een overeenkomstig deze regeling ingediende aanvraag wordt slechts subsidie v
 
 2. De programmabeheerder kan, alvorens op een aanvraag te beslissen advies van derden inwinnen.
 
-#### Artikel 10
+##### Artikel 10
 
 De programmabeheerder beslist in ieder geval afwijzend op een aanvraag:
 
@@ -150,7 +174,7 @@ De programmabeheerder beslist in ieder geval afwijzend op een aanvraag:
 
 - b. indien de aanvrager niet aannemelijk heeft gemaakt dat hem met inbegrip van de subsidie voldoende financiële middelen ter beschikking staan om het project uit te voeren.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De beschikking tot subsidieverlening bevat het tijdvak waarin het project wordt uitgevoerd.
 
@@ -158,7 +182,7 @@ De programmabeheerder beslist in ieder geval afwijzend op een aanvraag:
 
 3. [Artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013388&paragraaf=2&artikel=9&z=2002-02-03&g=2002-02-03), is van toepassing.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De subsidieontvanger is verplicht:
 
@@ -170,7 +194,7 @@ De programmabeheerder beslist in ieder geval afwijzend op een aanvraag:
 
 3. De programmabeheerder kan bij de toestemming als bedoeld in het eerste lid, verplichtingen opleggen aan de subsidieontvanger.
 
-#### Artikel 13
+##### Artikel 13
 
 De subsidieontvanger doet onverwijld schriftelijk mededeling aan de minister of de programmabeheerder van:
 
@@ -178,7 +202,7 @@ De subsidieontvanger doet onverwijld schriftelijk mededeling aan de minister of 
 
 - b. alle overige omstandigheden die van invloed kunnen zijn op de subsidie en een doelmatige aanwending daarvan.
 
-#### Artikel 14
+##### Artikel 14
 
 De subsidieontvanger is verplicht:
 
@@ -186,17 +210,17 @@ De subsidieontvanger is verplicht:
 
 - b. medewerking te verlenen aan openbaarmaking van de gegevens en de resultaten van het project indien daartoe door of vanwege de minister wordt verzocht.
 
-#### Artikel 15
+##### Artikel 15
 
 Rechten en verplichtingen die voortvloeien uit de subsidieverlening kunnen door de aanvrager uitsluitend na toestemming van de minister worden overgedragen.
 
-#### Artikel 16
+##### Artikel 16
 
 Zolang de subsidie niet is vastgesteld, kan de programmabeheerder de subsidieverlening intrekken of ten nadele van de subsidieontvanger wijzigen, indien de subsidieontvanger failliet is verklaard.
 
 #### § 3. Voorschotten
 
-#### Artikel 17
+##### Artikel 17
 
 1. Op verzoek van de subsidieontvanger verleent de programmabeheerder ten hoogste eenmaal per maand een voorschot op basis van de bij het verzoek gevoegde declaraties.
 
@@ -204,13 +228,13 @@ Zolang de subsidie niet is vastgesteld, kan de programmabeheerder de subsidiever
 
 3. Een voorschot betreft de door de subsidieontvanger gemaakte en betaalde projectkosten. In totaal is het bedrag aan verleende voorschotten niet groter dan 80 procent van de subsidieverlening.
 
-#### Artikel 18
+##### Artikel 18
 
 De programmabeheerder weigert een voorschot indien de subsidieontvanger niet heeft voldaan aan de aan de subsidie verbonden verplichtingen.
 
 #### § 4. Subsidievaststelling
 
-#### Artikel 19
+##### Artikel 19
 
 1. De aanvrager dient binnen dertien weken na afloop van de periode, bedoeld in [artikel 11, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0013388&paragraaf=2&artikel=11&z=2002-02-03&g=2002-02-03), bij de minister een verzoek tot vaststelling van de subsidie in dat vergezeld gaat van:
 
@@ -226,15 +250,15 @@ De programmabeheerder weigert een voorschot indien de subsidieontvanger niet hee
 
 #### § 5. Overgangs- en slotbepalingen
 
-#### Artikel 20
+##### Artikel 20
 
 Programma's die zijn vastgesteld op grond van de Subsidieregeling stiller, schoner en zuiniger, worden geacht te zijn vastgesteld op grond van deze regeling.
 
-#### Artikel 21
+##### Artikel 21
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2002.
 
-#### Artikel 22
+##### Artikel 22
 
 Deze regeling wordt aangehaald als: Subsidieregeling stiller, schoner en zuiniger 2002.
 

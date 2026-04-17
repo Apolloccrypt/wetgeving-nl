@@ -1,24 +1,50 @@
 ---
-title: "Regeling bekostiging financieel toezicht 2019"
+title: "Regeling van de Minister van Financiën en de Minister van Sociale Zaken en Werkgelegenheid van 29 mei 2019, kenmerk 2019-0000078866, directie Financiële Markten, tot vaststelling van de bandbreedtes en tarieven, bedoeld in artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019, voor het jaar 2019 (Regeling bekostiging financieel toezicht 2019)"
 identifier: "BWBR0042281"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-06-13
-laatste_update: 2019-06-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042281"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-06-13"
+last_updated: "2019-06-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042281"
+soort: "ministeriele-regeling"
+stam_id: "15091023"
+version_id: "25867192"
+internal_id: "C36866171"
+label_id: "15039554"
+dtd_version: "2.0"
+original_entry_into_force: "2019-06-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042281/2019-06-13/0"
+intitule_bron: "Stcrt.2019-31387"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-05-29"
+intitule_published: "2019-06-12"
+intitule_in_force: "2019-06-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-31387"
+original_signed_date: "2019-05-29"
+original_published_date: "2019-06-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-31387"
+entry_into_force_date: "2019-06-13"
+jci_1_3: "jci1.3:c:BWBR0042281&z=2019-06-13&g=2019-06-13"
+jci_1_0: "1.0:c:BWBR0042281&g=2019-06-13"
+citeertitel_status: "officieel"
+short_title: "Regeling bekostiging financieel toezicht 2019"
+signed_date: "2019-05-29"
+entry_into_force: "2019-06-13"
 ---
-
 # Regeling van de Minister van Financiën en de Minister van Sociale Zaken en Werkgelegenheid van 29 mei 2019, kenmerk 2019-0000078866, directie Financiële Markten, tot vaststelling van de bandbreedtes en tarieven, bedoeld in artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019, voor het jaar 2019 (Regeling bekostiging financieel toezicht 2019)
 
 Gelet op [artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&artikel=9);
 
 BESLUITEN:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder geconsolideerde jaarrekening: jaarrekening waarin de activa, passiva, baten en lasten van personen die een groep of groepsdeel vormen en andere in de consolidatie meegenomen personen, als één geheel zijn opgenomen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor het kalenderjaar 2019 worden de bandbreedtes en tarieven, bedoeld in [artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&artikel=9), voor de personen die onder toezicht van de Autoriteit Financiële Markten vallen, bedoeld in [bijlage 1, onderdeel A, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&bijlage=1), als volgt vastgesteld:
 
@@ -122,7 +148,7 @@ In deze regeling wordt verstaan onder geconsolideerde jaarrekening: jaarrekening
 
 2. Twee of meer aanbieders van beleggingsobjecten waaraan een vergunning is verleend als bedoeld in [artikel 2:55 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:55) en die gedurende het gehele jaar, in steeds dezelfde samenstelling, gezamenlijk aanbiedingen doen aan consumenten, of deze aanbiedingen aan consumenten gezamenlijk beheren, worden voor de toepassing van dit artikel aangemerkt als één persoon.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor het kalenderjaar 2019 worden de bandbreedtes en tarieven, bedoeld in [artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&artikel=9), voor de personen die onder toezicht van De Nederlandsche Bank vallen, bedoeld in [bijlage 2, onderdeel B, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&bijlage=2) als volgt vastgesteld:
 
@@ -192,11 +218,11 @@ Voor het kalenderjaar 2019 worden de bandbreedtes en tarieven, bedoeld in [artik
 | Zorgverzekeraars | **Aantal verzekerden** |   | € 2.000 vermeerderd met: |
 | Zorgverzekeraars | **Aantal verzekerden** | >0 verzekerden | € 0,21 per verzekerde |
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling bekostiging financieel toezicht 2019.
 

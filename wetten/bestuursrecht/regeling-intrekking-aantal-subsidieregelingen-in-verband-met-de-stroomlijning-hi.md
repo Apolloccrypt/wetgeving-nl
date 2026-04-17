@@ -1,13 +1,39 @@
 ---
-title: "Regeling intrekking aantal subsidieregelingen in verband met de stroomlijning hiervan"
+title: "Regeling van de Minister van Economische Zaken van 3 december 2008, nr. WJZ/8186951, houdende intrekking van een aantal subsidieregelingen in verband met de stroomlijning hiervan"
 identifier: "BWBR0024899"
-categorie: "Bestuursrecht"
-publicatiedatum: 2011-06-16
-laatste_update: 2011-06-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024899"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2011-06-16"
+last_updated: "2011-06-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024899"
+soort: "ministeriele-regeling"
+stam_id: "9808293"
+version_id: "18613822"
+internal_id: "C25971551"
+label_id: "9785014"
+dtd_version: "2.0"
+original_entry_into_force: "2011-06-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024899/2011-06-16/0"
+intitule_bron: "Stcrt.2008-245"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-12-03"
+intitule_published: "2008-12-17"
+intitule_in_force: "2008-12-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-10258"
+original_signed_date: "2011-06-06"
+original_published_date: "2011-06-15"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2011-10258"
+entry_into_force_date: "2011-06-06"
+jci_1_3: "jci1.3:c:BWBR0024899&z=2011-06-16&g=2011-06-16"
+jci_1_0: "1.0:c:BWBR0024899&g=2011-06-16"
+citeertitel_status: "redactioneel"
+short_title: "Regeling intrekking aantal subsidieregelingen in verband met de stroomlijning hiervan"
+signed_date: "2011-06-06"
+entry_into_force: "2011-06-06"
 ---
-
 # Regeling van de Minister van Economische Zaken van 3 december 2008, nr. WJZ/8186951, houdende intrekking van een aantal subsidieregelingen in verband met de stroomlijning hiervan
 
 Handelende in overeenstemming met de Minister van Onderwijs, Cultuur en Wetenschappen en na overleg met de Minister van Landbouw, Natuurbeheer en Voedselveiligheid;
@@ -18,7 +44,7 @@ Besluit:
 
 #### § 1. Intrekking regelingen op het gebied van starten, groeien en overdragen
 
-#### Artikel I
+##### Artikel I
 
 De volgende regelingen worden ingetrokken:
 
@@ -36,7 +62,7 @@ De volgende regelingen worden ingetrokken:
 
 #### § 2. Intrekking regelingen op het gebied van innoveren
 
-#### Artikel II
+##### Artikel II
 
 De volgende regelingen worden ingetrokken:
 
@@ -50,7 +76,7 @@ De volgende regelingen worden ingetrokken:
 
 #### § 3. Intrekking regelingen op het gebied van sterktes in de regio
 
-#### Artikel III
+##### Artikel III
 
 De volgende regelingen worden ingetrokken:
 
@@ -60,7 +86,7 @@ De volgende regelingen worden ingetrokken:
 
 #### § 4. Intrekking regelingen op het gebied van sterktes in innovatie
 
-#### Artikel IV
+##### Artikel IV
 
 De volgende regelingen worden ingetrokken:
 
@@ -88,7 +114,7 @@ De volgende regelingen worden ingetrokken:
 
 #### § 5. Intrekking subsidieregelingen op andere gebieden
 
-#### Artikel V
+##### Artikel V
 
 De volgende regelingen worden ingetrokken:
 
@@ -122,7 +148,7 @@ De volgende regelingen worden ingetrokken:
 
 #### § 6. Intrekking wijzigings- en intrekkingsregeling van subsidieregelingen en overige regelingen
 
-#### Artikel VI
+##### Artikel VI
 
 De volgende regelingen worden ingetrokken:
 
@@ -194,7 +220,7 @@ De volgende regelingen worden ingetrokken:
 
 #### § 7. Overgangs- en slotbepalingen
 
-#### Artikel VII
+##### Artikel VII
 
 1. Voor zover nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze plaats overeenkomstig de regelingen, bedoeld in de [artikelen I tot en met VI](https://wetten.overheid.nl/jci1.3:c:BWBR0024899&paragraaf=1&artikel=I&z=2011-06-16&g=2011-06-16), met dien verstande dat:
 
@@ -233,7 +259,7 @@ De volgende regelingen worden ingetrokken:
 | Adviescommissie kennisexploitatie | [Regeling subsidieprogramma kennisexploitatie](https://wetten.overheid.nl/jci1.3:c:BWBR0017312) | [5](https://wetten.overheid.nl/jci1.3:c:BWBR0017312&artikel=5) | Adviescommissie kennisexploitatie | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) | [5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=5.6) |
 | Adviescommissie ondernemerschap en onderwijs | [Subsidieregeling ondernemerschap en onderwijs 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021101) | [2](https://wetten.overheid.nl/jci1.3:c:BWBR0021101&artikel=2) | Adviescommissie ondernemerschap en onderwijs | [Subsidieregeling starten, groeien en overdragen van ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0024902) | [6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0024902&artikel=6.7) |
 
-#### Artikel VIII
+##### Artikel VIII
 
 Deze regeling treedt in werking met ingang van 1 januari 2009.
 

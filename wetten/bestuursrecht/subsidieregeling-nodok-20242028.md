@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling NODOK 2024–2028"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 19 december 2018, kenmerk 1436504-183102-PG, houdende regels voor de subsidiëring van nader onderzoek naar de doodsoorzaak van kinderen (Subsidieregeling NODOK 2019–2023)"
 identifier: "BWBR0041809"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-06-29
-laatste_update: 2024-06-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041809"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-06-29"
+last_updated: "2024-06-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041809"
+soort: "ministeriele-regeling"
+stam_id: "14946403"
+version_id: "25603472"
+internal_id: "C36538411"
+label_id: "14896014"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041809/2024-06-29/0"
+intitule_bron: "Stcrt.2019-1132"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-12-19"
+intitule_published: "2019-01-14"
+intitule_in_force: "2019-01-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-1132"
+original_signed_date: "2018-12-19"
+original_published_date: "2019-01-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-1132"
+entry_into_force_date: "2019-01-15"
+jci_1_3: "jci1.3:c:BWBR0041809&z=2024-06-29&g=2024-06-29"
+jci_1_0: "1.0:c:BWBR0041809&g=2024-06-29"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling NODOK 2024–2028"
+signed_date: "2018-12-19"
+entry_into_force: "2019-01-15"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 19 december 2018, kenmerk 1436504-183102-PG, houdende regels voor de subsidiëring van nader onderzoek naar de doodsoorzaak van kinderen (Subsidieregeling NODOK 2019–2023)
 
 Gelet op [artikel 3 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -22,11 +48,11 @@ In deze regeling wordt verstaan onder:
 
 - b. **NODOK-protocol:** multidisciplinaire richtlijn van april 2024, waarin richtlijnen zijn gegeven voor het verrichten van nader onderzoek naar de doodsoorzaak van kinderen.
 
-#### Artikel 2
+##### Artikel 2
 
 Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De minister kan aan een universitair medisch centrum jaarlijks op aanvraag een subsidie verstrekken voor het verrichten van nader onderzoek naar de doodsoorzaak van kinderen.
 
@@ -74,7 +100,7 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 8. De subsidie bestaat uit een bedrag dat ontstaat uit vermenigvuldiging van het aantal verrichte onderzoeken met het van toepassing zijnde bedrag.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een subsidie wordt uitsluitend verstrekt ten behoeve van een onderzoek indien dat:
 
@@ -88,11 +114,11 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 2. De minister verstrekt geen subsidie indien het onderzoek uit andere hoofde voor financiering in aanmerking komt.
 
-#### Artikel 5
+##### Artikel 5
 
 Het verrichten van nader onderzoek naar de doodsoorzaak van kinderen wordt aangewezen als een dienst van algemeen economisch belang in de zin van artikel 106, tweede lid, van het Verdrag betreffende de Werking van de Europese Unie.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De subsidie wordt op aanvraag vastgesteld.
 
@@ -108,13 +134,13 @@ Het rapport is opgesteld door een accountant overeenkomstig een door de minister
 
 6. Een aanvraag die na de termijn, bedoeld in het vierde lid, wordt ontvangen, wordt afgewezen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De minister geeft binnen dertien weken na ontvangst van de aanvraag een beschikking tot vaststelling van de subsidie.
 
 2. Het besluit tot vaststelling van de subsidie vermeldt het bedrag van de subsidie.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De aanvrager werkt, onder meer door het verschaffen van de daartoe benodigde inlichtingen, gegevens en bescheiden, mee aan door of namens de minister ingesteld onderzoek dat erop is gericht de minister inlichtingen te verschaffen die van belang zijn voor:
 
@@ -124,13 +150,13 @@ Het rapport is opgesteld door een accountant overeenkomstig een door de minister
 
 2. De aanvrager levert gegevens over afgeronde onderzoeken voor 1 juni van het nieuwe kalenderjaar aan bij de beheerder van de landelijke NODOK-database.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2019.
 
 2. Deze regeling vervalt met ingang van 1 juli 2029.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Subsidieregeling NODOK 2024–2028.
 

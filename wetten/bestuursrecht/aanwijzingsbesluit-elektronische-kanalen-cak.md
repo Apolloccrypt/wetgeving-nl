@@ -1,20 +1,45 @@
 ---
 title: "Aanwijzingsbesluit elektronische kanalen CAK"
 identifier: "BWBR0052093"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052093"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052093"
+soort: "zbo"
+stam_id: "17718233"
+version_id: "31268562"
+internal_id: "C44709341"
+label_id: "17616814"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052093/2026-01-01/0"
+intitule_bron: "Stcrt.2025-44880"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-16"
+intitule_published: "2025-12-31"
+intitule_in_force: "2025-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-44880"
+original_signed_date: "2025-12-16"
+original_published_date: "2025-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-44880"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0052093&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0052093&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-12-16"
+entry_into_force: "2026-01-01"
 ---
-
 # Aanwijzingsbesluit elektronische kanalen CAK
 
 gelet op de inwerkingtreding van de [wet modernisering elektronisch bestuurlijk verkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0048252) (Wmebv) per 1 januari 2026 en het daarbij bepaalde in [artikel 2:13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:13), ten aanzien van het aanwijzen van elektronische kanalen,
 
 besluit tot vaststelling van: aanwijzingsbesluit elektronische kanalen CAK
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Dit besluit verstaat onder:
 
@@ -30,7 +55,7 @@ Dit besluit verstaat onder:
 
 - f. **Website:** [http://www.hetcak.nl](http://www.hetcak.nl/).
 
-#### Artikel 2. Aanwijzen kanalen generiek
+##### Artikel 2. Aanwijzen kanalen generiek
 
 Voor (officiële) berichten die de verzender uit eigen beweging indient, worden de volgende kanalen aangewezen:
 
@@ -44,7 +69,7 @@ Voor (officiële) berichten die de verzender uit eigen beweging indient, worden 
 
 - e. Voor gebruikers van de beveiligde omgeving MijnCAK, geldt hetzelfde webformulier als onder b als kanaal, maar wordt deze bij voorkeur geopend vanuit MijnCAK, waarbij relevante gegevens vanuit die omgeving automatisch worden overgenomen.
 
-#### Artikel 3. Aanwijzen kanalen [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
+##### Artikel 3. Aanwijzen kanalen [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
 
 Voor (officiële) berichten in het kader van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) die de verzender uit eigen beweging indient, worden de volgende kanalen aangewezen:
 
@@ -58,7 +83,7 @@ Voor (officiële) berichten in het kader van de [Wet langdurige zorg](https://we
 
 - e. Voor een verzoek om een betalingsregeling als bedoeld in [artikel 4:94 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:94) te treffen, geldt het daarvoor bestemde webformulier van de beveiligde MijnCAK omgeving als kanaal.
 
-#### Artikel 4. Aanwijzen kanalen [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362)
+##### Artikel 4. Aanwijzen kanalen [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362)
 
 Voor (officiële) berichten in het kader van de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) die de verzender uit eigen beweging indient, worden de volgende kanalen aangewezen:
 
@@ -72,7 +97,7 @@ Voor (officiële) berichten in het kader van de [Wet maatschappelijke ondersteun
 
 - e. Voor een verzoek om een betalingsregeling als bedoeld in [artikel 4:94 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:94) te treffen, geldt het daarvoor bestemde webformulier van de beveiligde MijnCAK omgeving en het daarvoor bestemde webformulier op de website als kanaal.
 
-#### Artikel 5. Aanwijzen kanalen [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en Buitenland
+##### Artikel 5. Aanwijzen kanalen [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en Buitenland
 
 Voor (officiële) berichten in het kader van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en Buitenland die de verzender uit eigen beweging indient, worden de volgende kanalen aangewezen:
 
@@ -92,14 +117,14 @@ Voor (officiële) berichten in het kader van de [Zorgverzekeringswet](https://we
 
 - h. Voor een aanvraag tot subsidie in de kosten van de zorg als bedoeld in [artikel 3 van de Subsidieregeling medisch noodzakelijke zorg aan onverzekerden](https://wetten.overheid.nl/jci1.3:c:BWBR0039230&artikel=3) geldt de daarvoor bestemde route via Vecozo als kanaal.
 
-#### Artikel 6. Aanwijzen overige berichten
+##### Artikel 6. Aanwijzen overige berichten
 
 Voor overige berichten die de verzender uit eigen beweging indient en waarvoor geen specifiek kanaal is aangewezen, geldt het algemene contactformulier ([CAK – Contactformulier](https://app.hetcak.nl/over/contact/contactformulier/Mijn%20vraag)) op de website als kanaal.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Dit besluit wordt aangehaald als: Aanwijzingsbesluit elektronische kanalen CAK.
 
-#### Artikel 8. inwerkingtreding besluit
+##### Artikel 8. inwerkingtreding besluit
 
 Dit besluit treedt in werking met ingang van 1 januari 2026.

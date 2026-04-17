@@ -1,20 +1,45 @@
 ---
 title: "Regeling voorzieningen hondengeleiders Defensie"
 identifier: "BWBR0050727"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2025-02-01
-laatste_update: 2025-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050727"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-02-01"
+last_updated: "2025-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050727"
+soort: "ministeriele-regeling"
+stam_id: "17357633"
+version_id: "30594432"
+internal_id: "C43851811"
+label_id: "17260564"
+dtd_version: "2.0"
+original_entry_into_force: "2025-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050727/2025-02-01/0"
+intitule_bron: "Stcrt.2025-3738"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-12-31"
+intitule_published: "2025-01-31"
+intitule_in_force: "2025-01-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-3738"
+original_signed_date: "2024-12-31"
+original_published_date: "2025-01-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-3738"
+entry_into_force_date: "2025-02-01"
+jci_1_3: "jci1.3:c:BWBR0050727&z=2025-02-01&g=2025-02-01"
+jci_1_0: "1.0:c:BWBR0050727&g=2025-02-01"
+citeertitel_status: "officieel"
+signed_date: "2024-12-31"
+entry_into_force: "2025-02-01"
 ---
-
 # Regeling voorzieningen hondengeleiders Defensie
 
 Gelet op [artikel 62 van het Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=62) en [artikel 26 van het van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=26);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -26,11 +51,11 @@ In deze regeling wordt verstaan onder:
 
 - **hondengeleider:** de defensieambtenaar die een toegewezen diensthond buiten werktijd op diens woonadres verzorgt.
 
-#### Artikel 2. Tegemoetkoming
+##### Artikel 2. Tegemoetkoming
 
 Voor de kosten ten behoeve van de verzorging van de diensthond buiten werktijd heeft de hondengeleider aanspraak op een maandelijkse tegemoetkoming van netto € 165,00 per diensthond.
 
-#### Artikel 3. Compensatie
+##### Artikel 3. Compensatie
 
 1. Voor de permanente verantwoordelijkheid voor de diensthond(en) waarvoor de hondengeleider de verantwoordelijkheid draagt heeft de hondengeleider aanspraak op een compensatie in de vorm van:
 
@@ -54,7 +79,7 @@ Voor de kosten ten behoeve van de verzorging van de diensthond buiten werktijd h
 
 5. Indien de militair aanspraak heeft op een toelage VVHO dan wel een toelage meerdaagse activiteiten vervalt de compensatie, bedoeld in dit artikel.
 
-#### Artikel 4. Vergoeding
+##### Artikel 4. Vergoeding
 
 De hondengeleider heeft aanspraak op volledige vergoeding van:
 
@@ -70,15 +95,15 @@ De hondengeleider heeft aanspraak op volledige vergoeding van:
 
 - f. andere kosten waar naar het oordeel van de commandant deze regeling niet naar redelijkheid en billijkheid in voorziet.
 
-#### Artikel 5. Vervallen aanspraak
+##### Artikel 5. Vervallen aanspraak
 
 De aanspraak op de tegemoetkoming, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050727&artikel=2&z=2025-02-01&g=2025-02-01), de compensatie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050727&artikel=3&z=2025-02-01&g=2025-02-01), en de vergoeding, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050727&artikel=4&z=2025-02-01&g=2025-02-01), vervalt in het geval de hondengeleider voor een periode van langer dan 30 dagen geen diensthond verzorgt.
 
-#### Artikel 6. Indexering
+##### Artikel 6. Indexering
 
 De tegemoetkoming, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050727&artikel=2&z=2025-02-01&g=2025-02-01), wordt jaarlijks per 1 juli van elk kalenderjaar gewijzigd overeenkomstig de door het Centraal Planbureau in het Centraal Economisch Plan gepubliceerde afgeleide consumentenprijsindex.
 
-#### Artikel 7. Verstrekking middelen door Defensie
+##### Artikel 7. Verstrekking middelen door Defensie
 
 De hondengeleider heeft in ieder geval aanspraak op verstrekking door Defensie van de volgende middelen:
 
@@ -90,27 +115,27 @@ De hondengeleider heeft in ieder geval aanspraak op verstrekking door Defensie v
 
 - d. geschikte voeding voor de diensthond.
 
-#### Artikel 8. Aansprakelijkheid voor de diensthond
+##### Artikel 8. Aansprakelijkheid voor de diensthond
 
 Gedurende werktijd alsook tijdens privétijd blijft Defensie, als eigenaar van de diensthond, aansprakelijk voor alle schade aan personen of goederen veroorzaakt door toedoen van de diensthond, tenzij deze is veroorzaakt door opzettelijk handelen, nalaten of bewuste roekeloosheid van de hondengeleider.
 
-#### Artikel 9. Hardheidsclausule
+##### Artikel 9. Hardheidsclausule
 
 Onze Minister kan deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang van deze regeling zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 10. Evaluatiebepaling
+##### Artikel 10. Evaluatiebepaling
 
 Onze Minister zendt binnen 2 jaar na de inwerkingtreding van deze regeling aan het Sector Overleg Defensie een evaluatieverslag over de doeltreffendheid en de effecten van deze regeling in de praktijk. Hierbij gaat het zowel om organisatorische effecten als de effecten op de persoonlijke werkbeleving.
 
-#### Artikel 11. Intrekking
+##### Artikel 11. Intrekking
 
 De [compensatieregeling bewaker/hondengeleider KL](https://wetten.overheid.nl/jci1.3:c:BWBR0039906) en de operationele instructie Koninklijke Marechaussee ‘regeling voorzieningen hondengeleiders’ worden ingetrokken.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte in de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling voorzieningen hondengeleiders Defensie.
 

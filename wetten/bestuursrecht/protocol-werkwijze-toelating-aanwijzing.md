@@ -1,13 +1,35 @@
 ---
 title: "Protocol werkwijze Toelating & Aanwijzing"
 identifier: "BWBR0046853"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-07-06
-laatste_update: 2022-07-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046853"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-07-06"
+last_updated: "2022-07-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046853"
+soort: "zbo"
+stam_id: "16406973"
+version_id: "28737502"
+internal_id: "C40659191"
+label_id: "16331734"
+dtd_version: "2.0"
+original_entry_into_force: "2022-07-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046853/2022-07-06/0"
+intitule_bron: "Stcrt.2022-16650"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2022-07-06"
+intitule_in_force: "2022-07-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-16650"
+original_published_date: "2022-07-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-16650"
+entry_into_force_date: "2022-07-06"
+jci_1_3: "jci1.3:c:BWBR0046853&z=2022-07-06&g=2022-07-06"
+jci_1_0: "1.0:c:BWBR0046853&g=2022-07-06"
+citeertitel_status: "redactioneel"
+entry_into_force: "2022-07-06"
 ---
-
 # Protocol werkwijze Toelating & Aanwijzing
 
 **Beter vertrouwen in kwaliteit van bouwen**

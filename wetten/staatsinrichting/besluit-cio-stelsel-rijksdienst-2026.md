@@ -1,13 +1,39 @@
 ---
-title: "Besluit CIO-stelsel Rijksdienst 2026"
+title: "Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 14 december 2025, nr. 2025-0000042677 tot wijziging van het Besluit CIO-stelsel Rijksdienst 2021 (Besluit CIO-stelsel Rijksdienst 2026)"
 identifier: "BWBR0044613"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044613"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044613"
+soort: "ministeriele-regeling"
+stam_id: "15786033"
+version_id: "27365862"
+internal_id: "C38646131"
+label_id: "15723844"
+dtd_version: "2.0"
+original_entry_into_force: "2021-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044613/2026-01-01/0"
+intitule_bron: "Stcrt.2025-40208"
+intitule_effect: "wijziging"
+intitule_signed: "2025-12-14"
+intitule_published: "2025-12-16"
+intitule_in_force: "2025-12-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-62488"
+original_signed_date: "2020-12-18"
+original_published_date: "2020-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-62488"
+entry_into_force_date: "2021-01-01"
+jci_1_3: "jci1.3:c:BWBR0044613&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0044613&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit CIO-stelsel Rijksdienst 2026"
+signed_date: "2020-12-18"
+entry_into_force: "2021-01-01"
 ---
-
 # Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 14 december 2025, nr. 2025-0000042677 tot wijziging van het Besluit CIO-stelsel Rijksdienst 2021 (Besluit CIO-stelsel Rijksdienst 2026)
 
 Handelend in overeenstemming met het gevoelen van de ministerraad;
@@ -16,7 +42,7 @@ Gelet op de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 #### § 1. Algemeen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -54,7 +80,7 @@ In dit besluit wordt verstaan onder:
 
 - q. **portfoliomanagement:** proces van inventarisatie, registratie en actualisatie van wijzigingen in informatiesystemen, vastgelegd in een portfolio.
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 1. Dit besluit geldt voor de rijksdienst, zijnde de kerndepartementen en de daaronder ressorterende dienstonderdelen inclusief de gevestigde diensten op Caribisch Nederland.
 
@@ -62,7 +88,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. CIO en CISO
 
-#### Artikel 3. CIO-functie
+##### Artikel 3. CIO-functie
 
 1. De minister die belast is met de leiding van een ministerie draagt zorg voor de aanstelling van een departementale CIO die rechtstreeks ressorteert onder de secretaris-generaal van het ministerie.
 
@@ -76,7 +102,7 @@ In dit besluit wordt verstaan onder:
 
 6. Het CIO-office wordt zodanig ingericht dat over voldoende kennis en ervaring wordt beschikt om de taak, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=4&z=2026-01-01&g=2026-01-01) uit te voeren.
 
-#### Artikel 4. Taken departementale CIO
+##### Artikel 4. Taken departementale CIO
 
 De minister die belast is met de leiding van een ministerie draagt aan de departementale CIO met betrekking tot het ministerie in elk geval de volgende taken op:
 
@@ -108,7 +134,7 @@ De minister die belast is met de leiding van een ministerie draagt aan de depart
 
 - n. het realiseren van interoperabiliteit tussen ministeries op tenminste uitwisselfunctionaliteiten en aansluiting op rijksbrede generieke voorzieningen en dienstverlening.
 
-#### Artikel 5. Bevoegdheden departementale CIO
+##### Artikel 5. Bevoegdheden departementale CIO
 
 1. De departementale CIO kan, na overleg met de secretaris-generaal, de minister rechtstreeks informeren, indien zijn taakuitoefening op grond van dit besluit daartoe aanleiding geeft.
 
@@ -118,13 +144,13 @@ De minister die belast is met de leiding van een ministerie draagt aan de depart
 
 4. De dienstonderdelen van het ministerie verstrekken de departementale CIO de informatie die noodzakelijk is voor de uitoefening van zijn taken op grond van dit besluit.
 
-#### Artikel 6. Departementale CISO
+##### Artikel 6. Departementale CISO
 
 1. De minister die belast is met de leiding van een ministerie draagt zorg voor de aanstelling van een departementale CISO die rechtstreeks ressorteert onder de CIO van het ministerie.
 
 2. De departementale CISO is belast met de ontwikkeling en coördinatie van het departementale informatiebeveiligingsbeleid, bedoeld in [artikel 3 van het Besluit Voorschrift Informatiebeveiliging Rijksdienst 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022141&artikel=3) en [artikel 3 van het Besluit Voorschrift Informatiebeveiliging Rijksdienst – Bijzondere Informatie 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0051482&artikel=3) en het ondersteunen van het verantwoordelijk lijnmanagement bij de implementatie en naleving hiervan.
 
-#### Artikel 7. Taken departementale CISO
+##### Artikel 7. Taken departementale CISO
 
 De minister die belast is met de leiding van een ministerie draagt aan de departementale CISO ten aanzien van digitalisering en informatievoorziening, met betrekking tot het ministerie, de taak op tot:
 
@@ -154,7 +180,7 @@ De minister die belast is met de leiding van een ministerie draagt aan de depart
 
 - m. het monitoren en signaleren van afwijkingen van [artikel 41, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=41) en het informeren hierover van de secretaris-generaal als eigenaar van een zelfstandig bestuursorgaan.
 
-#### Artikel 8. Bevoegdheden departementale CISO
+##### Artikel 8. Bevoegdheden departementale CISO
 
 1. De departementale CISO kan de secretaris-generaal en het verantwoordelijk lijnmanagement van het ministerie rechtstreeks informeren, indien zijn taakuitoefening op grond van dit besluit en de ernst van het geconstateerde feit daartoe een acute aanleiding geeft. Indien vooroverleg met de CIO en de beveiligingsautoriteit niet mogelijk is, worden beiden zo spoedig mogelijk achteraf geïnformeerd.
 
@@ -164,7 +190,7 @@ De minister die belast is met de leiding van een ministerie draagt aan de depart
 
 4. De departementale CISO kan namens de secretaris-generaal en de departementale CIO en in afstemming met de beveiligingsautoriteit van het ministerie, aanwijzingen geven aan iedere ambtenaar, externe medewerkers en bezoekers, voor zover dat noodzakelijk is voor de uitvoering van het departementale informatiebeveiligingsbeleid en de naleving van de informatiebeveiligingsvoorschriften.
 
-#### Artikel 9. Departementale (C)DO, (C)PO en (C)TO
+##### Artikel 9. Departementale (C)DO, (C)PO en (C)TO
 
 1. Naast de benoemde CIO, CISO, CIO Rijk en CISO Rijk kunnen de ministeries de volgende rollen invullen:
 
@@ -190,7 +216,7 @@ De minister die belast is met de leiding van een ministerie draagt aan de depart
 
 #### § 3. CIO rijk en CISO rijk
 
-#### Artikel 10. Taken departementale (Chief) Data Officer
+##### Artikel 10. Taken departementale (Chief) Data Officer
 
 De departementale (C)DO ressorteert onder de departementale CIO. De CIO kan de departementale (C)DO de volgende taken toewijzen:
 
@@ -226,7 +252,7 @@ De departementale (C)DO ressorteert onder de departementale CIO. De CIO kan de d
 
 - p. het op verzoek van de CIO bijdragen aan CIO-oordelen en kwaliteitstoetsen.
 
-#### Artikel 11. Bevoegdheden departementale (Chief) Data Officer
+##### Artikel 11. Bevoegdheden departementale (Chief) Data Officer
 
 1. De (C)DO handelt binnen het mandaat zoals dat is verstrekt door de CIO.
 
@@ -236,7 +262,7 @@ De departementale (C)DO ressorteert onder de departementale CIO. De CIO kan de d
 
 4. De (C)DO kan de departementale CIO adviseren te escaleren naar secretaris-generaal of minister in het geval van, mogelijk, ernstig nalaten van de naleving van wetgeving, met als doel de inbreuk weg te nemen en schade te beperken.
 
-#### Artikel 12. Taken departementale (Chief) Privacy Officer
+##### Artikel 12. Taken departementale (Chief) Privacy Officer
 
 De departementale (C)PO ressorteert onder de departementale CIO. De CIO kan de departementale (C)PO de volgende taken toewijzen:
 
@@ -270,7 +296,7 @@ De departementale (C)PO ressorteert onder de departementale CIO. De CIO kan de d
 
 - o. het op verzoek van de CIO bijdragen aan CIO-oordelen en kwaliteitstoetsen.
 
-#### Artikel 13. Bevoegdheden departementale (Chief) Privacy Officer
+##### Artikel 13. Bevoegdheden departementale (Chief) Privacy Officer
 
 1. De (C)PO handelt binnen het mandaat zoals dat is verstrekt door de CIO.
 
@@ -280,7 +306,7 @@ De departementale (C)PO ressorteert onder de departementale CIO. De CIO kan de d
 
 4. De (C)PO kan de departementale CIO adviseren te escaleren naar secretaris-generaal of minister in het geval van, mogelijk, ernstig nalaten van de naleving van wetgeving, met als doel de inbreuk weg te nemen en schade te beperken.
 
-#### Artikel 14. Taken departementale (Chief) Technology Officer
+##### Artikel 14. Taken departementale (Chief) Technology Officer
 
 De departementale (C)TO ressorteert onder de departementale CIO. De CIO kan de departementale (C)TO de volgende taken toewijzen:
 
@@ -322,7 +348,7 @@ De departementale (C)TO ressorteert onder de departementale CIO. De CIO kan de d
 
 #### § 4. CIO-Beraad en Rijks ICT-dashboard
 
-#### Artikel 15. Bevoegdheden departementale (Chief) Technology Officer
+##### Artikel 15. Bevoegdheden departementale (Chief) Technology Officer
 
 1. De (C)TO handelt binnen het mandaat zoals dat is verstrekt door de CIO.
 
@@ -332,7 +358,7 @@ De departementale (C)TO ressorteert onder de departementale CIO. De CIO kan de d
 
 4. De (C)TO kan de departementale CIO adviseren te escaleren naar secretaris-generaal of minister in het geval van, mogelijk, ernstig nalaten van de naleving van wetgeving, met als doel de inbreuk weg te nemen en schade te beperken.
 
-#### Artikel 16. Departementaal CIO-stelsel
+##### Artikel 16. Departementaal CIO-stelsel
 
 1. De minister die belast is met de leiding van een ministerie draagt er zorg voor dat voor dienstonderdelen met een substantieel portfolio van informatiesystemen een eigen CIO wordt aangesteld.
 
@@ -348,7 +374,7 @@ De departementale (C)TO ressorteert onder de departementale CIO. De CIO kan de d
 
 #### § 5. Slotbepalingen
 
-#### Artikel 17. CIO Rijk en CISO Rijk
+##### Artikel 17. CIO Rijk en CISO Rijk
 
 1. De Minister van Binnenlandse Zaken en Koninkrijksrelaties stelt een Chief Information Officer Rijk en een Chief Information Security Officer Rijk aan.
 
@@ -356,7 +382,7 @@ De departementale (C)TO ressorteert onder de departementale CIO. De CIO kan de d
 
 3. De CISO Rijk is belast met de coördinatie van de maatregelen en het beleid voor de informatiebeveiliging voor zover deze betrekking hebben op de rijksdienst en ressorteert onder de CIO Rijk.
 
-#### Artikel 18. Taken CIO Rijk
+##### Artikel 18. Taken CIO Rijk
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties draagt aan de CIO Rijk met betrekking tot de rijksdienst de taak op tot:
 
@@ -384,7 +410,7 @@ De Minister van Binnenlandse Zaken en Koninkrijksrelaties draagt aan de CIO Rijk
 
 - l. het coördineren van en toezien op interoperabiliteit tussen ministeries op tenminste uitwissel functionaliteiten en aansluiting op rijksbrede generieke voorzieningen en dienstverlening.
 
-#### Artikel 19. Bevoegdheden CIO Rijk
+##### Artikel 19. Bevoegdheden CIO Rijk
 
 1. De CIO Rijk kan, na overleg met de secretaris-generaal van Binnenlandse Zaken en Koninkrijksrelaties, de Minister van Binnenlandse Zaken en Koninkrijksrelaties rechtstreeks informeren, indien zijn taakuitoefening op grond van dit besluit daartoe aanleiding geeft.
 
@@ -392,7 +418,7 @@ De Minister van Binnenlandse Zaken en Koninkrijksrelaties draagt aan de CIO Rijk
 
 3. De CIO Rijk voert namens de Minister van Binnenlandse Zaken en Koninkrijksrelaties het overleg, bedoeld in [artikel 3a van het Coördinatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3a).
 
-#### Artikel 20. Taken CISO Rijk
+##### Artikel 20. Taken CISO Rijk
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties draagt aan de CISO Rijk ten aanzien van digitalisering en informatievoorziening met betrekking tot de rijksdienst de taak op tot:
 
@@ -420,7 +446,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 3. CIO Rijk en CISO Rijk
 
-#### Artikel 21. Bevoegdheden CISO Rijk
+##### Artikel 21. Bevoegdheden CISO Rijk
 
 1. De CISO Rijk kan de secretaris-generaal van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties en het verantwoordelijk lijnmanagement van dat ministerie rechtstreeks informeren, indien zijn taakuitoefening op grond van dit besluit en de ernst van het geconstateerde feit daartoe een acute aanleiding geeft. Indien vooroverleg met de CIO Rijk en beveiligingsautoriteit Rijk niet mogelijk is, worden beiden zo spoedig als mogelijk achteraf geïnformeerd.
 
@@ -436,7 +462,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 4. CIO-beraad en Rijks ICT-dashboard
 
-#### Artikel 22. CIO-beraad
+##### Artikel 22. CIO-beraad
 
 1. Er is een CIO-beraad dat primair belast is met de rijksbrede coördinatie op informatievoorziening en ICT. Het CIO-beraad ontwikkelt en implementeert een strategie voor de rijksdienst en bevordert digitalisering binnen de rijksdienst.
 
@@ -448,7 +474,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 5. Het CIO-beraad kan één of meerdere voorportalen instellen. De werking van het CIO-beraad en de Voorportalen wordt beschreven in het Reglement CIO-beraad en Voorportalen.
 
-#### Artikel 23. Rijks ICT-dashboard
+##### Artikel 23. Rijks ICT-dashboard
 
 1. Er is een Rijks ICT-dashboard.
 
@@ -460,19 +486,19 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 5. Slotbepalingen
 
-#### Artikel 24. Uitzonderingen
+##### Artikel 24. Uitzonderingen
 
 In overleg met de Minister van Binnenlandse Zaken en Koninkrijksrelaties kan op onderdelen worden afgeweken van het bepaalde in dit besluit, wanneer dit de effectiviteit van de met dit besluit beoogde doelen ten goede komt.
 
-#### Artikel 25. Evaluatie
+##### Artikel 25. Evaluatie
 
 Dit besluit wordt drie jaar na inwerkingtreding geëvalueerd en vervolgens elke drie jaar.
 
-#### Artikel 26. Inwerkingtreding
+##### Artikel 26. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2026.
 
-#### Artikel 27. Citeertitel
+##### Artikel 27. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit CIO-stelsel Rijksdienst 2026.
 

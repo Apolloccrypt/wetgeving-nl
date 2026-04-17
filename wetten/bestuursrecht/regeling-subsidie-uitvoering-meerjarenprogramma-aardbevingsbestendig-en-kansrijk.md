@@ -1,13 +1,39 @@
 ---
-title: "Regeling subsidie uitvoering Meerjarenprogramma Aardbevingsbestendig en Kansrijk Groningen"
+title: "Regeling van de Minister van Economische Zaken en Klimaat van 4 december 2017, nr. WJZ / 16181067, houdende regels met betrekking tot het verstrekken van subsidies ter uitvoering van het Meerjarenprogramma Aardbevingsbestendig en Kansrijk Groningen (Regeling subsidie uitvoering Meerjarenprogramma Aardbevingsbestendig en Kansrijk Groningen)"
 identifier: "BWBR0040315"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-12-01
-laatste_update: 2022-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040315"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-12-01"
+last_updated: "2022-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040315"
+soort: "ministeriele-regeling"
+stam_id: "14438803"
+version_id: "24691382"
+internal_id: "C35325651"
+label_id: "14399774"
+dtd_version: "2.0"
+original_entry_into_force: "2017-12-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040315/2022-12-01/0"
+intitule_bron: "Stcrt.2017-69438"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-12-04"
+intitule_published: "2017-12-06"
+intitule_in_force: "2017-12-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-69438"
+original_signed_date: "2017-12-04"
+original_published_date: "2017-12-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-69438"
+entry_into_force_date: "2017-12-18"
+jci_1_3: "jci1.3:c:BWBR0040315&z=2022-12-01&g=2022-12-01"
+jci_1_0: "1.0:c:BWBR0040315&g=2022-12-01"
+citeertitel_status: "officieel"
+short_title: "Regeling subsidie uitvoering Meerjarenprogramma Aardbevingsbestendig en Kansrijk Groningen"
+signed_date: "2017-12-04"
+entry_into_force: "2017-12-18"
 ---
-
 # Regeling van de Minister van Economische Zaken en Klimaat van 4 december 2017, nr. WJZ / 16181067, houdende regels met betrekking tot het verstrekken van subsidies ter uitvoering van het Meerjarenprogramma Aardbevingsbestendig en Kansrijk Groningen (Regeling subsidie uitvoering Meerjarenprogramma Aardbevingsbestendig en Kansrijk Groningen)
 
 Gelet op de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=2), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=5), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=16), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=17), [19, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=19), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=25), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=43), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=44), [48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=48), [50, achtste lid, van het Kaderbesluit nationale EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=50);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1.1. Begripsomschrijvingen
+##### Artikel 1.1. Begripsomschrijvingen
 
 In deze regeling wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 - **particulier:** individueel huishouden, niet zijnde een onderneming in de zin van het Europees recht.
 
-#### Artikel 1.2. Openstelling
+##### Artikel 1.2. Openstelling
 
 1. Subsidieaanvragen als bedoeld in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=2&artikel=2.1&z=2022-12-01&g=2022-12-01), [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=3&artikel=3.1&z=2022-12-01&g=2022-12-01) en [4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040315&paragraaf=4&artikel=4.1&z=2022-12-01&g=2022-12-01) kunnen worden ingediend in de periode van 15 november 2018 tot en met 30 september 2019.
 
@@ -44,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 3. Aanvragen zijn tijdig ingediend indien zij op de genoemde einddatum vóór 17.00 uur zijn ontvangen.
 
-#### Artikel 1.3. Subsidieplafonds
+##### Artikel 1.3. Subsidieplafonds
 
 De subsidieplafonds bedragen:
 
@@ -58,155 +84,155 @@ De subsidieplafonds bedragen:
 
 #### § 2. Subsidie informeren en doorverwijzen
 
-#### Artikel 2.1. Subsidieaanvraag
+##### Artikel 2.1. Subsidieaanvraag
 
 Vervallen
 
-#### Artikel 2.2. Hoogte subsidie
+##### Artikel 2.2. Hoogte subsidie
 
 Vervallen
 
-#### Artikel 2.3. Verdeling subsidieplafond
+##### Artikel 2.3. Verdeling subsidieplafond
 
 Vervallen
 
-#### Artikel 2.4. Realisatietermijn
+##### Artikel 2.4. Realisatietermijn
 
 Vervallen
 
-#### Artikel 2.5. Afwijzingsgronden
+##### Artikel 2.5. Afwijzingsgronden
 
 Vervallen
 
-#### Artikel 2.6. Informatieverplichtingen
+##### Artikel 2.6. Informatieverplichtingen
 
 Vervallen
 
-#### Artikel 2.7. Staatssteun
+##### Artikel 2.7. Staatssteun
 
 Vervallen
 
-#### Artikel 2.8. Vervaltermijn
+##### Artikel 2.8. Vervaltermijn
 
 Vervallen
 
 #### § 3. Subsidie maatschappelijke betrokkenheid
 
-#### Artikel 3.1. Subsidieaanvraag
+##### Artikel 3.1. Subsidieaanvraag
 
 Vervallen
 
-#### Artikel 3.2. Hoogte subsidie
+##### Artikel 3.2. Hoogte subsidie
 
 Vervallen
 
-#### Artikel 3.3. Subsidiabele kosten
+##### Artikel 3.3. Subsidiabele kosten
 
 Vervallen
 
-#### Artikel 3.4. Verdeling subsidieplafond
+##### Artikel 3.4. Verdeling subsidieplafond
 
 Vervallen
 
-#### Artikel 3.5. Subsidieverplichtingen
+##### Artikel 3.5. Subsidieverplichtingen
 
 Vervallen
 
-#### Artikel 3.6. Voorschot
+##### Artikel 3.6. Voorschot
 
 Vervallen
 
-#### Artikel 3.7. Informatieverplichtingen
+##### Artikel 3.7. Informatieverplichtingen
 
 Vervallen
 
-#### Artikel 3.8. Subsidievaststelling
+##### Artikel 3.8. Subsidievaststelling
 
 Vervallen
 
-#### Artikel 3.9. Staatssteun
+##### Artikel 3.9. Staatssteun
 
 Vervallen
 
-#### Artikel 3.10. Vervaltermijn
+##### Artikel 3.10. Vervaltermijn
 
 Vervallen
 
 #### § 4. Subsidie opleiding in de bouw
 
-#### Artikel 4.1. Subsidieaanvraag
+##### Artikel 4.1. Subsidieaanvraag
 
 Vervallen
 
-#### Artikel 4.2. Hoogte subsidie
+##### Artikel 4.2. Hoogte subsidie
 
 Vervallen
 
-#### Artikel 4.3. Verdeling subsidieplafond
+##### Artikel 4.3. Verdeling subsidieplafond
 
 Vervallen
 
-#### Artikel 4.4. Realisatietermijn
+##### Artikel 4.4. Realisatietermijn
 
 Vervallen
 
-#### Artikel 4.5. Afwijzingsgronden
+##### Artikel 4.5. Afwijzingsgronden
 
 Vervallen
 
-#### Artikel 4.6. Subsidieverplichtingen
+##### Artikel 4.6. Subsidieverplichtingen
 
 Vervallen
 
-#### Artikel 4.7. Informatieverplichtingen
+##### Artikel 4.7. Informatieverplichtingen
 
 Vervallen
 
-#### Artikel 4.8. Staatssteun
+##### Artikel 4.8. Staatssteun
 
 Vervallen
 
-#### Artikel 4.9. Vervaltermijn
+##### Artikel 4.9. Vervaltermijn
 
 Vervallen
 
 #### § 5. Subsidie uitvoering doelen Meerjarenprogramma Aardbevingsbestendig en Kansrijk Groningen
 
-#### Artikel 5.1. Subsidieaanvraag
+##### Artikel 5.1. Subsidieaanvraag
 
 Vervallen
 
-#### Artikel 5.2. Hoogte subsidie
+##### Artikel 5.2. Hoogte subsidie
 
 Vervallen
 
-#### Artikel 5.3. Verdeling subsidieplafond
+##### Artikel 5.3. Verdeling subsidieplafond
 
 Vervallen
 
-#### Artikel 5.4. Afwijzingsgronden
+##### Artikel 5.4. Afwijzingsgronden
 
 Vervallen
 
-#### Artikel 5.5. Informatieverplichtingen
+##### Artikel 5.5. Informatieverplichtingen
 
 Vervallen
 
-#### Artikel 5.6. Staatssteun
+##### Artikel 5.6. Staatssteun
 
 Vervallen
 
-#### Artikel 5.7. Vervaltermijn
+##### Artikel 5.7. Vervaltermijn
 
 Vervallen
 
 #### § 6. Slotbepalingen
 
-#### Artikel 6.1. Citeertitel
+##### Artikel 6.1. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling subsidie uitvoering Meerjarenprogramma Aardbevingsbestendig en Kansrijk Groningen.
 
-#### Artikel 6.2. Inwerkingtreding
+##### Artikel 6.2. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 18 december 2017.
 
@@ -236,7 +262,7 @@ De doelen uit het Meerjarenprogramma Aardbevingsbestendig en Kansrijk Groningen,
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5.4a. Rangschikkingscriteria
+##### Artikel 5.4a. Rangschikkingscriteria
 
 Vervallen
 

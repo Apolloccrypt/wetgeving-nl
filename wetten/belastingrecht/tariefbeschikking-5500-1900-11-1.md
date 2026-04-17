@@ -1,13 +1,38 @@
 ---
 title: "Tariefbeschikking 5500-1900-11-1"
 identifier: "BWBR0028137"
-categorie: "Belastingrecht"
-publicatiedatum: 2010-08-31
-laatste_update: 2010-08-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028137"
+country: "nl"
+rank: "zbo"
+publication_date: "2010-08-31"
+last_updated: "2010-08-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028137"
+soort: "zbo"
+stam_id: "10671383"
+version_id: "17625782"
+internal_id: "C24384081"
+label_id: "10645974"
+dtd_version: "2.0"
+original_entry_into_force: "2010-08-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028137/2010-08-31/0"
+intitule_bron: "Stcrt.2010-13386"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-07-20"
+intitule_published: "2010-08-31"
+intitule_in_force: "2010-08-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-13386"
+original_signed_date: "2010-07-20"
+original_published_date: "2010-08-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-13386"
+entry_into_force_date: "2010-08-31"
+jci_1_3: "jci1.3:c:BWBR0028137&z=2010-08-31&g=2010-08-31"
+jci_1_0: "1.0:c:BWBR0028137&g=2010-08-31"
+citeertitel_status: "redactioneel"
+signed_date: "2010-07-20"
+entry_into_force: "2010-08-31"
 ---
-
 # Tariefbeschikking 5500-1900-11-1
 
 De Nederlandse Zorgautoriteit,

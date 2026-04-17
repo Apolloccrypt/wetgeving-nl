@@ -1,14 +1,41 @@
 ---
-title: "Uitvoeringswet Overeenkomst tussen Europese Unie en Republiek IJsland en Koninkrijk Noorwegen (procedures overlevering)"
+title: "Wet van 26 oktober 2016, houdende uitvoering van de op 28 juni 2006 te Wenen tot stand gekomen Overeenkomst tussen de Europese Unie en de Republiek IJsland en het Koninkrijk Noorwegen betreffende de procedures voor overlevering tussen de lidstaten van de Europese Unie en IJsland en Noorwegen (Pb EU L 292)"
 identifier: "BWBR0038687"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2019-11-01
-laatste_update: 2019-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038687"
+country: "nl"
+rank: "wet"
+publication_date: "2019-11-01"
+last_updated: "2019-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038687"
+soort: "wet"
+stam_id: "13785403"
+version_id: "23640292"
+internal_id: "C37195481"
+label_id: "13751584"
+dtd_version: "2.0"
+original_entry_into_force: "2019-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038687/2019-11-01/0"
+intitule_bron: "Stb.2016-412"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-10-26"
+intitule_published: "2016-11-04"
+intitule_in_force: "2019-10-31"
+intitule_status: "goed"
+original_publication: "Stb.2016-412"
+original_signed_date: "2016-10-26"
+original_published_date: "2016-11-04"
+original_effect: "nieuwe-regeling"
+original_dossier: "34365"
+original_url_id: "stb-2016-412"
+entry_into_force_date: "2019-11-01"
+jci_1_3: "jci1.3:c:BWBR0038687&z=2019-11-01&g=2019-11-01"
+jci_1_0: "1.0:c:BWBR0038687&g=2019-11-01"
+citeertitel_status: "redactioneel"
+short_title: "Uitvoeringswet Overeenkomst tussen Europese Unie en Republiek IJsland en Koninkrijk Noorwegen (procedures overlevering)"
+signed_date: "2016-10-26"
+entry_into_force: "2019-11-01"
 ---
-
-# Uitvoeringswet Overeenkomst tussen Europese Unie en Republiek IJsland en Koninkrijk Noorwegen (procedures overlevering)
+# Wet van 26 oktober 2016, houdende uitvoering van de op 28 juni 2006 te Wenen tot stand gekomen Overeenkomst tussen de Europese Unie en de Republiek IJsland en het Koninkrijk Noorwegen betreffende de procedures voor overlevering tussen de lidstaten van de Europese Unie en IJsland en Noorwegen (Pb EU L 292)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +43,7 @@ Alzo Wij in overweging genomen hebben, dat het noodzakelijk is enige wettelijke 
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 Overlevering tussen Nederland, enerzijds, en Noorwegen of IJsland, anderzijds vindt plaats met inachtneming van het bepaalde in:
 
@@ -28,7 +55,7 @@ Overlevering tussen Nederland, enerzijds, en Noorwegen of IJsland, anderzijds vi
 
 - d. deze wet.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Overlevering wordt niet toegestaan indien het aanhoudingsbevel een strafbaar feit betreft dat:
 
@@ -38,7 +65,7 @@ Overlevering tussen Nederland, enerzijds, en Noorwegen of IJsland, anderzijds vi
 
 2. Op vordering van de officier van justitie wordt afgezien van een weigering van de overlevering uitsluitend krachtens het eerste lid, onder a of b, tenzij naar het oordeel van de rechtbank de officier niet in redelijkheid tot zijn vordering heeft kunnen komen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&artikel=1) en [afdeling 2 van hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&afdeling=2), alsmede de [hoofdstukken III tot en met V van de Overleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=III) zijn van overeenkomstige toepassing op de behandeling van aanhoudingsbevelen als bedoeld in de op 28 juni 2006 te Wenen tot stand gekomen Overeenkomst tussen de Europese Unie en de Republiek IJsland en het Koninkrijk Noorwegen betreffende de procedures voor overlevering tussen de lidstaten van de Europese Unie en IJsland en Noorwegen.
 
@@ -60,7 +87,7 @@ Overlevering tussen Nederland, enerzijds, en Noorwegen of IJsland, anderzijds vi
 
 - h. **uitvoerende staat:** de staat waar de uitvoerende Nederlandse, Noorse of IJslandse justitiële autoriteit werkzaam is.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

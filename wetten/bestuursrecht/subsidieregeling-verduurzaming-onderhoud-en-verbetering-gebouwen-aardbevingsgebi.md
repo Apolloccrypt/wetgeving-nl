@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling verduurzaming, onderhoud en verbetering gebouwen aardbevingsgebied Groningen"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 31 mei 2021, nr. 2021-0000136391, houdende vaststelling van regels voor het verstrekken van subsidie aan gebouweigenaren in het aardbevingsgebied in de provincie Groningen ten behoeve van verduurzaming, onderhoud en verbetering van het gebouw (Subsidieregeling verduurzaming, onderhoud en verbetering gebouwen aardbevingsgebied Groningen)"
 identifier: "BWBR0045187"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-04-02
-laatste_update: 2026-04-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045187"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-02"
+last_updated: "2026-04-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045187"
+soort: "ministeriele-regeling"
+stam_id: "15971923"
+version_id: "29726742"
+internal_id: "C42605071"
+label_id: "15906024"
+dtd_version: "2.0"
+original_entry_into_force: "2023-11-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045187/2026-04-02/0"
+intitule_bron: "Stcrt.2021-26962"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-05-31"
+intitule_published: "2021-06-01"
+intitule_in_force: "2021-06-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-30950"
+original_signed_date: "2023-11-13"
+original_published_date: "2023-11-14"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2023-30950"
+entry_into_force_date: "2023-11-13"
+jci_1_3: "jci1.3:c:BWBR0045187&z=2026-04-02&g=2026-04-02"
+jci_1_0: "1.0:c:BWBR0045187&g=2026-04-02"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling verduurzaming, onderhoud en verbetering gebouwen aardbevingsgebied Groningen"
+signed_date: "2023-11-13"
+entry_into_force: "2023-11-13"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 31 mei 2021, nr. 2021-0000136391, houdende vaststelling van regels voor het verstrekken van subsidie aan gebouweigenaren in het aardbevingsgebied in de provincie Groningen ten behoeve van verduurzaming, onderhoud en verbetering van het gebouw (Subsidieregeling verduurzaming, onderhoud en verbetering gebouwen aardbevingsgebied Groningen)
 
 Gelet op [artikel 2, eerste lid, onderdeel e, van de Kaderwet overige BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=2), de [artikelen 6, vierde en vijfde lid, onderdeel b, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=6), [8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=8), [11, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11), [13, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=14), [16, eerste lid van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=16);
 
 Besluit:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In deze regeling wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 - **versterkingsprogramma:** bouwkundig versterkingsprogramma als gevolg van de gaswinning in het Groningenveld.
 
-#### Artikel 2. Subsidieverstrekking
+##### Artikel 2. Subsidieverstrekking
 
 1. De minister verstrekt op aanvraag subsidie voor de kosten van een verduurzamingsmaatregel aan de eigenaar van een gebouw, voor zover dat gebouw:
 
@@ -90,7 +116,7 @@ In deze regeling wordt verstaan onder:
 
 9. Een aanvraag voor subsidie wordt ingediend met een formulier dat beschikbaar is gesteld op de website van Samenwerkingsverband Noord-Nederland.
 
-#### Artikel 3. De aanvraag
+##### Artikel 3. De aanvraag
 
 In plaats van de gegevens en bescheiden, bedoeld in [artikel 11, derde lid, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11), bevat een aanvraag voor subsidie als bedoeld in [artikel 2, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2026-04-02&g=2026-04-02), of [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2a&z=2026-04-02&g=2026-04-02) ten minste:
 
@@ -110,7 +136,7 @@ In plaats van de gegevens en bescheiden, bedoeld in [artikel 11, derde lid, van 
 
 - f. indien van toepassing, een afschrift van de besluiten tot verstrekking van andere subsidies op grond van deze regeling dan wel van de aanvragen tot verstrekking van deze andere subsidies.
 
-#### Artikel 4. Subsidiabele kosten bij verduurzaming
+##### Artikel 4. Subsidiabele kosten bij verduurzaming
 
 De subsidiabele kosten voor een verduurzamingsmaatregel zijn de kosten voor de volgende verduurzamingsmaatregelen in of aan het gebouw en voor zover relevant, met inbegrip van bijgebouwen op het erf van de aanvrager:
 
@@ -154,19 +180,19 @@ De subsidiabele kosten voor een verduurzamingsmaatregel zijn de kosten voor de v
 
 - 17°. technieken voor de opwekking van windenergie.
 
-#### Artikel 5. Subsidiabele kosten voor onderhoud
+##### Artikel 5. Subsidiabele kosten voor onderhoud
 
 De subsidiabele kosten voor onderhoud zijn de kosten voor onderhoud in of aan het gebouw en voor zover relevant, met inbegrip van bijgebouwen op het erf van de aanvrager.
 
-#### Artikel 6. Subsidiabele kosten voor verbetering
+##### Artikel 6. Subsidiabele kosten voor verbetering
 
 De subsidiabele kosten voor verbetering van het gebouw zijn de kosten voor verbeteringen in of aan een gebouw en voor zover relevant, met inbegrip van bijgebouwen op het erf van de aanvrager, die niet tot de inboedel behoren.
 
-#### Artikel 7. Subsidiabele kosten vóór indiening van de aanvraag
+##### Artikel 7. Subsidiabele kosten vóór indiening van de aanvraag
 
 In afwijking van [artikel 6, vijfde lid, onderdeel a, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=6), komen de kosten, bedoeld in [artikel 2, eerste tot en met het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2026-04-02&g=2026-04-02) en [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2a&z=2026-04-02&g=2026-04-02), tevens voor subsidie in aanmerking indien deze zijn betaald vóór de indiening van de aanvraag doch na 6 november 2020.
 
-#### Artikel 8. Hoogte van de subsidie
+##### Artikel 8. Hoogte van de subsidie
 
 1. De subsidie op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2026-04-02&g=2026-04-02), bedraagt 100% van de subsidiabele kosten en ten hoogste € 7.000,–.
 
@@ -174,17 +200,17 @@ In afwijking van [artikel 6, vijfde lid, onderdeel a, van het Kaderbesluit](http
 
 3. De subsidie op grond van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2026-04-02&g=2026-04-02), of [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2a&z=2026-04-02&g=2026-04-02) bedraagt 100% van de subsidiabele kosten en ten hoogste € 10.000,–.
 
-#### Artikel 9. Vaststelling van de subsidie
+##### Artikel 9. Vaststelling van de subsidie
 
 1. Bij de verstrekking van een subsidie op grond van deze regeling wordt toepassing gegeven aan [artikel 16, tweede lid, onderdeel b, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=16).
 
 2. In afwijking van het eerste lid wordt bij de subsidieverstrekking toepassing gegeven aan [artikel 16, tweede lid, onderdeel a, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=16), indien de activiteiten waarvoor de subsidie met toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=7&z=2026-04-02&g=2026-04-02) wordt verstrekt ten tijde van de aanvraag reeds zijn afgerond.
 
-#### Artikel 10. Afwijzingsgronden
+##### Artikel 10. Afwijzingsgronden
 
 Onverminderd het bepaalde in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=12) en [13 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=13), wijst de minister een aanvraag gedeeltelijk af, indien de toe te kennen subsidie samen met andere subsidies die de aanvrager heeft ontvangen of nog zal ontvangen het maximum van 100% van de subsidiabele kosten van de betreffende activiteit overstijgt.
 
-#### Artikel 11. Subsidieplafonds
+##### Artikel 11. Subsidieplafonds
 
 1. Het subsidieplafond voor aanvragen op grond van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2026-04-02&g=2026-04-02) is € 261.884.000.
 
@@ -202,7 +228,7 @@ Onverminderd het bepaalde in de [artikelen 12](https://wetten.overheid.nl/jci1.3
 
 6. In afwijking van [artikel 9, tweede lid, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=9), stelt de minister de onderlinge rangschikking van aanvragen vast op volgorde van binnenkomst, indien op de dag dat het subsidieplafond, bedoeld in het tweede lid, onderdeel b, wordt bereikt meer dan één aanvraag is ontvangen.
 
-#### Artikel 12. Verplichtingen van de subsidieontvanger
+##### Artikel 12. Verplichtingen van de subsidieontvanger
 
 1. Een activiteit waarvoor op grond van deze regeling een beschikking tot subsidieverlening is gegeven, wordt binnen achtenveertig maanden na het geven van de beschikking tot subsidieverlening uitgevoerd.
 
@@ -212,27 +238,27 @@ Onverminderd het bepaalde in de [artikelen 12](https://wetten.overheid.nl/jci1.3
 
 4. De subsidieontvanger houdt alle facturen en betalingsbewijzen met betrekking tot de activiteiten waarvoor de subsidie is vastgesteld gedurende drie jaar na vaststelling van de subsidie beschikbaar. De minister kan gedurende deze drie jaar op elk moment verzoeken om deze gegevens.
 
-#### Artikel 13. Vervallen eerdere subsidieregeling
+##### Artikel 13. Vervallen eerdere subsidieregeling
 
 1. De [Regeling energiebesparing woningen bouwkundig versterkingsprogramma Groningenveld](https://wetten.overheid.nl/jci1.3:c:BWBR0040901) vervalt, met dien verstande dat deze van toepassing blijft op subsidies die voor het tijdstip van inwerkingtreding van deze regeling zijn verstrekt.
 
 2. Aanvragen die zijn ingediend op grond van de [Regeling energiebesparing woningen bouwkundig versterkingsprogramma Groningenveld](https://wetten.overheid.nl/jci1.3:c:BWBR0040901) en waarvoor op grond van die regeling nog geen subsidie is verstrekt voor het tijdstip van inwerkingtreding van deze regeling, worden afgehandeld met toepassing van deze regeling.
 
-#### Artikel 14. Horizonbepaling
+##### Artikel 14. Horizonbepaling
 
 Deze regeling vervalt met ingang van 1 juni 2031, met dien verstande dat deze van toepassing blijft op aanvragen om subsidies die voor deze datum zijn ingediend.
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 juni 2021.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling verduurzaming, onderhoud en verbetering gebouwen aardbevingsgebied Groningen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2026-04-02&g=2026-04-02) verstrekt de minister op aanvraag subsidie voor de kosten van een verduurzamingsmaatregel, voor onderhoud of voor verbetering aan de eigenaar van een gebouw gelegen in de postcodegebieden in de gemeenten, genoemd in het tweede lid, voor zover dat gebouw:
 
@@ -276,7 +302,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2b
+##### Artikel 2b
 
 1. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2026-04-02&g=2026-04-02) verstrekt de minister op aanvraag subsidie voor de kosten van een verduurzamingsmaatregel, voor onderhoud of voor verbetering aan de eigenaar van een gebouw gelegen in de postcodegebieden in de gemeenten, genoemd in het tweede lid, voor zover dat gebouw:
 

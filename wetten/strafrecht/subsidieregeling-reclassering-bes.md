@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling reclassering BES"
+title: "Regeling van de Minister voor Rechtsbescherming van 3 december 2019, kenmerk 2758802, houdende regels voor subsidiëring van reclassering op de BES (Subsidieregeling reclassering BES)"
 identifier: "BWBR0042975"
-categorie: "Strafrecht"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042975"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042975"
+soort: "ministeriele-regeling"
+stam_id: "15293493"
+version_id: "26357832"
+internal_id: "C37458651"
+label_id: "15239554"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042975/2020-01-01/0"
+intitule_bron: "Stcrt.2019-68147"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-12-03"
+intitule_published: "2019-12-13"
+intitule_in_force: "2019-12-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-68147"
+original_signed_date: "2019-12-03"
+original_published_date: "2019-12-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-68147"
+entry_into_force_date: "2020-01-01"
+jci_1_3: "jci1.3:c:BWBR0042975&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0042975&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling reclassering BES"
+signed_date: "2019-12-03"
+entry_into_force: "2020-01-01"
 ---
-
 # Regeling van de Minister voor Rechtsbescherming van 3 december 2019, kenmerk 2758802, houdende regels voor subsidiëring van reclassering op de BES (Subsidieregeling reclassering BES)
 
 Gelet op [artikel 3, eerste lid, onderdeel b, van het Reclasseringsbesluit 1953 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028398&artikel=3);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - c. **Reclasseringsinstelling:** een instelling als bedoeld in [artikel 1 van het Reclasseringsbesluit 1953 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028398&artikel=1).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De reclasseringsinstelling ontvangt jaarlijks ten laste van de begroting van het Ministerie van Justitie en Veiligheid een subsidie voor de reclasseringswerkzaamheden die door haar of onder haar verantwoordelijkheid worden verricht.
 
@@ -32,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 3. De vaststelling van subsidie geschiedt voor 1 oktober van het op het subsidiejaar volgende jaar.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor 1 juli van het jaar voorafgaand aan het subsidiejaar nodigt de Minister de reclasseringsinstelling uit tot het indienen van een subsidieaanvraag.
 
@@ -40,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 3. De Minister informeert de reclasseringsinstelling zoveel mogelijk over wijzigingen als bedoeld in het tweede lid die zich daarna voordoen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor 1 oktober van het jaar voorafgaand aan het subsidiejaar dient de reclasseringsinstelling bij de Minister een subsidieaanvraag in.
 
@@ -54,7 +80,7 @@ De subsidieaanvraag gaat vergezeld van:
 
 3. Het activiteitenplan, bedoeld in het tweede lid, wordt afgestemd op de behoefte aan reclasseringswerkzaamheden en op de behoeften van de opdrachtgevers.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De begroting en het beleidsplan met de voorgenomen werkzaamheden geeft voor het komende subsidiejaar en indicatief voor de drie daarop volgende jaren in ieder geval aan:
 
@@ -68,7 +94,7 @@ De subsidieaanvraag gaat vergezeld van:
 
 2. de Minister kan in de uitnodiging, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042975&artikel=3&z=2020-01-01&g=2020-01-01), met betrekking tot de eisen van de begroting en het beleidsplan aanwijzingen geven.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De begroting en het activiteitenplan bedoeld in [artikel 4, tweede lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0042975&artikel=4&z=2020-01-01&g=2020-01-01), bevatten een voorstel voor te maken managementafspraken over in ieder geval:
 
@@ -78,7 +104,7 @@ De subsidieaanvraag gaat vergezeld van:
 
 2. de Minister kan in de uitnodiging, bedoeld in [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042975&artikel=3&z=2020-01-01&g=2020-01-01), met betrekking tot de eisen van de begroting en het activiteitenplan aanwijzingen geven.
 
-#### Artikel 7
+##### Artikel 7
 
 1. In het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028398) wordt aangegeven voor welke categorieën activiteiten subsidie wordt verleend.
 
@@ -88,7 +114,7 @@ De subsidieaanvraag gaat vergezeld van:
 
 [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028398) wordt kenbaar gemaakt volgens welke aanwijzingen op grond van [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028398&artikel=20), de subsidie wordt verrekend.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De subsidie kan in ieder geval geheel of gedeeltelijk worden geweigerd indien een gegronde reden bestaat om aan te nemen dat:
 
@@ -102,23 +128,23 @@ De subsidieaanvraag gaat vergezeld van:
 
 - b. failliet is verklaard of aan hem surséance van betaling is verleend of ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, dan wel een verzoek daartoe bij de rechtbank is ingediend.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De reclasseringsinstelling voert een zodanig ingerichte administratie, dat daaruit te allen tijde de voor de vaststelling van de subsidie van belang zijnde rechten en verplichtingen alsmede de betalingen en ontvangsten kunnen worden nagegaan.
 
 2. De administratie en de daartoe behorende bescheiden worden gedurende tien jaren bewaard.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien gedurende het subsidiejaar aanmerkelijke verschillen ontstaan of dreigen te ontstaan tussen de werkelijke uitgaven en inkomsten en de begrote uitgaven en inkomsten doet de reclasseringsinstelling daarvan onverwijld mededeling aan de Minister, onder vermelding van de oorzaak van de verschillen.
 
 2. De reclasseringsinstelling geeft de Minister zo spoedig mogelijk tevens kennis van omstandigheden die hetzij van belang kunnen zijn voor de vaststelling van de subsidie, hetzij aanleiding kunnen geven tot een wijziging van de subsidieverlening.
 
-#### Artikel 11
+##### Artikel 11
 
 De reclasseringsinstelling kan de Minister verzoeken de subsidieverlening te wijzigen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Zolang de subsidie niet is vastgesteld, kan de Minister de subsidieverlening intrekken of ten nadele van de reclasseringsinstelling wijzigen indien:
 
@@ -132,7 +158,7 @@ De reclasseringsinstelling kan de Minister verzoeken de subsidieverlening te wij
 
 2. De intrekking of wijziging werkt terug tot en met het tijdstip waarop de subsidie is verleend, tenzij bij de intrekking of wijziging anders is bepaald.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Zolang de subsidie niet is vastgesteld kan de Minister de subsidieverlening met inachtneming van een redelijke termijn intrekken of ten nadele van de reclasseringsinstelling wijzigen:
 
@@ -144,7 +170,7 @@ De reclasseringsinstelling kan de Minister verzoeken de subsidieverlening te wij
 
 2. Bij intrekking of wijziging op grond van het eerste lid, onderdeel a of b, vergoedt de Minister de schade die de reclasseringsinstelling lijdt doordat zij in vertrouwen op de subsidie anders heeft gehandeld dan zij zonder subsidie zou hebben gedaan.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Voor 1 juni van het op het subsidiejaar volgende jaar dient de reclasseringsinstelling bij de Minister de aanvraag in voor de vaststelling van het subsidiebedrag.
 
@@ -156,7 +182,7 @@ De reclasseringsinstelling kan de Minister verzoeken de subsidieverlening te wij
 
 - c. een verklaring omtrent de getrouwheid en rechtmatigheid van de jaarrekening en het verslag, afgegeven door een accountant als bedoeld in [artikel 121, zesde lid, van Boek 2 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&artikel=121).
 
-#### Artikel 15
+##### Artikel 15
 
 1. De Minister kan vooruitlopend op de vaststelling van de subsidie een voorschot verlenen indien redelijkerwijs kan worden aangenomen de subsidie zal worden vastgesteld.
 
@@ -164,7 +190,7 @@ De reclasseringsinstelling kan de Minister verzoeken de subsidieverlening te wij
 
 3. De Minister kan aan de verlening van een voorschot voorschriften verbinden.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De Minister kan de subsidievaststelling intrekken of ten nadele van de reclasseringsinstelling wijzigen:
 
@@ -178,7 +204,7 @@ De reclasseringsinstelling kan de Minister verzoeken de subsidieverlening te wij
 
 3. De subsidievaststelling kan niet meer worden ingetrokken of ten nadele van de reclasseringsinstelling worden gewijzigd indien vijf jaren zijn verstreken sinds de dag waarop zij is bekendgemaakt dan wel, in het geval, bedoeld in het eerste lid, onderdeel **c**, sinds de dag waarop de handeling in strijd met de verplichting is verricht of de dag waarop aan de verplichting had moeten zijn voldaan.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De jaarrekening, bedoeld in [artikel 14, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042975&artikel=14&z=2020-01-01&g=2020-01-01), bestaat uit de balans en de exploitatierekening met een toelichting en de overige relevante gegevens.
 
@@ -196,11 +222,11 @@ De reclasseringsinstelling kan de Minister verzoeken de subsidieverlening te wij
 
 6. De jaarrekening sluit aan op de begroting, waarvoor subsidie is verleend en op de subsidieverlening van dat jaar. Zij behelst een vergelijking met de gerealiseerde producten, de werkelijke uitgaven voor de projecten en de overige budgetten, in het jaar voorafgaand aan het boekjaar.
 
-#### Artikel 18
+##### Artikel 18
 
 Het jaarverslag bedoeld in [artikel 14, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042975&artikel=14&z=2020-01-01&g=2020-01-01), beschrijft in samenhang met de jaarrekening in ieder geval de vergelijking tussen de afgesproken en de gerealiseerde managementafspraken, met name ten aanzien van de aantallen producten, de projecten, de overige budgetten en een toelichting op de verschillen.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het subsidiebedrag wordt overeenkomstig de subsidievaststelling betaald.
 
@@ -210,23 +236,23 @@ Het jaarverslag bedoeld in [artikel 14, tweede lid, onderdeel b](https://wetten.
 
 4. Betaalde voorschotten worden verrekend met de te betalen subsidie. Onverschuldigd betaalde voorschotten kunnen worden teruggevorderd.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Ten behoeve van de accountantscontrole bedoeld in [artikel 14, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042975&artikel=14&z=2020-01-01&g=2020-01-01), is er een controleprotocol dat wordt opgesteld onder de verantwoordelijkheid van de Minister.
 
 2. Indien geen goedkeurende accountantsverklaring (zonder beperkingen) kan worden afgegeven, stelt de Minister de subsidie vast met inachtneming van de bevindingen van de accountant, zoals die blijken uit de accountantsverklaring en het daarbij behorende rapport van bevindingen. Tevens kan de Minister een korting opleggen van maximaal 10% van de verleende subsidie.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De reclasseringsinstelling informeert de Minister uiterlijk vier weken na iedere vier maanden over de uitvoering van de managementafspraken, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042975&artikel=7&z=2020-01-01&g=2020-01-01) met een inhoudelijke en financiële toelichting ten aanzien van de verschillen met de vorige periodes van vier maanden en de planning voor het desbetreffende jaar.
 
 2. In het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028398), bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042975&artikel=7&z=2020-01-01&g=2020-01-01), wordt nader aangegeven welke informatie als bedoeld in het eerste en tweede lid van dat artikel aan de Minister moet worden verstrekt.
 
-#### Artikel 22
+##### Artikel 22
 
 Een reclasseringsinstelling verstrekt aan de Raad voor de Rechtshandhaving en de Rijksinspecties de inlichtingen die deze in het kader van zijn taak vraagt.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Een reclasseringsinstelling behoeft de voorafgaande toestemming van de Minister voor:
 
@@ -254,7 +280,7 @@ Een reclasseringsinstelling verstrekt aan de Raad voor de Rechtshandhaving en de
 
 - b. het wijzigen van de statuten.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De reclasseringsinstelling verzekert haar aansprakelijkheid naar burgerlijk recht tegenover derden in voldoende mate.
 
@@ -262,7 +288,7 @@ Een reclasseringsinstelling verstrekt aan de Raad voor de Rechtshandhaving en de
 
 3. De van de Minister ontvangen subsidiegelden worden risicomijdend beheerd.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Voor het ter beschikking stellen van goederen aan of het verrichten van diensten voor derden brengt de reclasseringsinstelling een vergoeding in rekening die ten minste kostendekkend is.
 
@@ -270,7 +296,7 @@ Een reclasseringsinstelling verstrekt aan de Raad voor de Rechtshandhaving en de
 
 3. Een reclasseringsinstelling verstrekt desgevraagd aan de Minister een beschrijving van de tussen haar en andere rechtspersonen bestaande organisatorische en financiële banden, alsmede van zodanig nog in het leven te roepen of te wijzigen banden, voor zover deze banden van invloed kunnen zijn op de bepaling van de vergoedingen, bedoeld in het eerste lid.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Indien de reclasseringsinstelling haar reclasseringswerkzaamheden beëindigt, komt de Minister een direct opeisbare vordering op de reclasseringsinstelling toe op het vermogen of de vermogensbestanddelen.
 
@@ -278,11 +304,11 @@ Een reclasseringsinstelling verstrekt aan de Raad voor de Rechtshandhaving en de
 
 3. De Minister komt de in het eerste lid bedoelde vordering niet toe, indien de werkzaamheden van de reclasseringsinstelling met toestemming van de Minister door een andere reclasseringsinstelling waarvan de bereidverklaring is aanvaard, worden voortgezet en de activa en passiva tegen boekwaarde aan die reclasseringsinstelling in eigendom worden overgedragen.
 
-#### Artikel 27. Citeertitel
+##### Artikel 27. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling reclassering BES.
 
-#### Artikel 28. Inwerkingtreding
+##### Artikel 28. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2020.
 

@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling praktijkleren"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 31 oktober 2013, nr. WJZ/560472 (10352), houdende regels voor subsidieverstrekking ter stimulering van praktijkleren en het verrichten van onderzoek (Subsidieregeling praktijkleren)"
 identifier: "BWBR0034144"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-09-03
-laatste_update: 2025-09-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034144"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-09-03"
+last_updated: "2025-09-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034144"
+soort: "ministeriele-regeling"
+stam_id: "12421963"
+version_id: "30672562"
+internal_id: "C43971771"
+label_id: "12393224"
+dtd_version: "2.0"
+original_entry_into_force: "2025-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034144/2025-09-03/0"
+intitule_bron: "Stcrt.2013-31130"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-10-31"
+intitule_published: "2013-11-05"
+intitule_in_force: "2013-11-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-11299"
+original_signed_date: "2025-02-11"
+original_published_date: "2025-04-02"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-11299"
+entry_into_force_date: "2025-09-01"
+jci_1_3: "jci1.3:c:BWBR0034144&z=2025-09-03&g=2025-09-03"
+jci_1_0: "1.0:c:BWBR0034144&g=2025-09-03"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling praktijkleren"
+signed_date: "2025-02-11"
+entry_into_force: "2025-09-01"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 31 oktober 2013, nr. WJZ/560472 (10352), houdende regels voor subsidieverstrekking ter stimulering van praktijkleren en het verrichten van onderzoek (Subsidieregeling praktijkleren)
 
 Gelet op [artikel 2.7 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.7) en de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [10 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=10);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -64,17 +90,17 @@ In deze regeling wordt verstaan onder:
 
 - v. **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Doelstelling subsidie
+##### Artikel 3. Doelstelling subsidie
 
 1. Deze regeling heeft tot doel het stimuleren van werkgevers tot het bieden van praktijkleerplaatsen en werkleerplaatsen door middel van de verstrekking van subsidie.
 
 2. De subsidie is een tegemoetkoming in de kosten van een werkgever voor de begeleiding van een leerling, mbo-student of hbo-student of een tegemoetkoming in de loonkosten of begeleidingskosten van een promovendus of technologisch ontwerper in opleiding.
 
-#### Artikel 4. Subsidie voor praktijkleerplaatsen in het mbo
+##### Artikel 4. Subsidie voor praktijkleerplaatsen in het mbo
 
 1. De minister kan subsidie verstrekken aan een werkgever voor een gerealiseerde praktijkleerplaats voor een mbo-student in het kader van een beroepsopleiding voor zover het betreft de beroepsbegeleidende leerweg als bedoeld in [artikel 7.2.2, tweede lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), of [artikel 7.2.2, tweede lid, onderdeel b, van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=7.2.2).
 
@@ -82,7 +108,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 3. Op grond van deze regeling wordt geen subsidie verstrekt voor een gerealiseerde praktijkleerplaats voor een mbo-student in het kader van een beroepsopleiding, bedoeld in het eerste lid, indien de beroepspraktijkvormingsovereenkomst uitsluitend betrekking heeft op één of meer keuzedelen.
 
-#### Artikel 5. Subsidievoorwaarden mbo praktijkleerplaatsen
+##### Artikel 5. Subsidievoorwaarden mbo praktijkleerplaatsen
 
 1. Subsidie op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=4&z=2025-09-03&g=2025-09-03) wordt slechts verstrekt voor zover:
 
@@ -106,13 +132,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 2. De voorwaarde, bedoeld in het eerste lid, onderdeel b, geldt niet voor gerealiseerde praktijkleerplaatsen op Bonaire.
 
-#### Artikel 6. Subsidie voor praktijkleerplaatsen in het hbo
+##### Artikel 6. Subsidie voor praktijkleerplaatsen in het hbo
 
 1. De minister kan subsidie verstrekken aan een werkgever voor een gerealiseerde praktijkleerplaats voor een hbo-student in het kader van een duale opleiding in het hoger beroepsonderwijs als bedoeld in [artikel 7.7, tweede lid, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.7) of een deeltijdse opleiding in het hoger beroepsonderwijs waarbij de beroepsuitoefening een verplicht onderdeel vormt van de opleiding.
 
 2. Onder werkgever wordt in dit artikel verstaan een in Nederland gevestigd bedrijf dat of organisatie die het onderricht in de beroepsuitoefening voor de hbo-student verzorgt.
 
-#### Artikel 7. Subsidievoorwaarden hbo praktijkleerplaatsen
+##### Artikel 7. Subsidievoorwaarden hbo praktijkleerplaatsen
 
 Subsidie op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=6&z=2025-09-03&g=2025-09-03) wordt slechts verstrekt voor zover:
 
@@ -132,13 +158,13 @@ Subsidie op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR003414
 
 - e. de werkgever beschikt over een administratie waaruit de begeleiding van de hbo-student blijkt en de wijze waarop de hbo-student het deel van de kwaliteiten met betrekking tot de beroepsuitoefening heeft gerealiseerd.
 
-#### Artikel 8. Subsidie voor werkleerplaatsen voor promovendi en technologisch ontwerpers in opleiding
+##### Artikel 8. Subsidie voor werkleerplaatsen voor promovendi en technologisch ontwerpers in opleiding
 
 1. De minister kan subsidie verstrekken aan een werkgever voor een gerealiseerde werkleerplaats voor een promovendus of technologisch ontwerper in opleiding.
 
 2. Onder werkgever wordt in dit artikel verstaan een privaatrechtelijke rechtspersoon, met uitzondering van de bijzondere universiteiten of de daaraan verbonden academische ziekenhuizen genoemd in de [bijlage bij de WHW](onbekend) en de privaatrechtelijke onderzoeksorganisaties.
 
-#### Artikel 9. Subsidievoorwaarden werkleerplaatsen
+##### Artikel 9. Subsidievoorwaarden werkleerplaatsen
 
 1. Subsidie op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=8&z=2025-09-03&g=2025-09-03) wordt slechts verstrekt voor zover:
 
@@ -176,7 +202,7 @@ Subsidie op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR003414
 
 5. Het derde lid is van overeenkomstige toepassing op de overeenkomst, bedoeld in het eerste lid, onderdeel b, onder 2°.
 
-#### Artikel 10. Subsidie voor praktijkleerplaatsen in het vmbo
+##### Artikel 10. Subsidie voor praktijkleerplaatsen in het vmbo
 
 1. De minister kan subsidie verstrekken aan een werkgever voor een gerealiseerde praktijkleerplaats voor een leerling in het kader van een leer-werktraject in het voortgezet onderwijs als bedoeld in [artikel 2.103 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.103).
 
@@ -186,7 +212,7 @@ Subsidie op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR003414
 
 4. Onder werkgever wordt in dit artikel verstaan het bedrijf dat of de organisatie die de begeleiding van de leerling verzorgt als bedoeld in [artikel 2.63, eerste lid onder d, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.63) juncto [artikel 7.2.9, derde lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.9).
 
-#### Artikel 11. Subsidievoorwaarden vmbo praktijkleerplaatsen
+##### Artikel 11. Subsidievoorwaarden vmbo praktijkleerplaatsen
 
 1. Subsidie op grond van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=10&z=2025-09-03&g=2025-09-03), wordt slechts verstrekt voor zover:
 
@@ -232,7 +258,7 @@ Subsidie op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR003414
 
 3. De voorwaarde, bedoeld in het eerste lid, onderdeel d, en het tweede lid, onderdeel d, geldt niet voor gerealiseerde praktijkleerplaatsen op Bonaire.
 
-#### Artikel 12. Buitenlandse opleidingen
+##### Artikel 12. Buitenlandse opleidingen
 
 1. Met een mbo-student of hbo-student aan een opleiding als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=4&z=2025-09-03&g=2025-09-03) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=6&z=2025-09-03&g=2025-09-03) wordt gelijkgesteld een natuurlijke persoon die gedurende het desbetreffende studiejaar een opleiding heeft gevolgd in een andere lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, indien de werkgever gevestigd is in Nederland en beschikt over een verklaring van de minister dat die opleiding wat betreft niveau en kwaliteit vergelijkbaar is met een opleiding als bedoeld in [artikel 5, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=5&z=2025-09-03&g=2025-09-03), onderscheidenlijk [artikel 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=7&z=2025-09-03&g=2025-09-03).
 
@@ -240,17 +266,17 @@ Subsidie op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR003414
 
 3. De verklaring, bedoeld in het eerste lid, wordt verkregen overeenkomstig [paragraaf vier](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=4&z=2025-09-03&g=2025-09-03) van deze regeling.
 
-#### Artikel 13. Subsidieperiode
+##### Artikel 13. Subsidieperiode
 
 Subsidie wordt verstrekt per studiejaar.
 
-#### Artikel 14. Subsidieplafonds
+##### Artikel 14. Subsidieplafonds
 
 1. De minister maakt jaarlijks de hoogte van de subsidieplafonds voor de subsidies, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=4&z=2025-09-03&g=2025-09-03), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=6&z=2025-09-03&g=2025-09-03), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=8&z=2025-09-03&g=2025-09-03) en [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9a&z=2025-09-03&g=2025-09-03), [9c](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9c&z=2025-09-03&g=2025-09-03) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=10&z=2025-09-03&g=2025-09-03), bekend in de Staatscourant.
 
 2. Indien in enig jaar een beschikbaar bedrag niet geheel wordt verstrekt, kan het resterende bedrag naar verhouding van de budgetten gelijkelijk worden verdeeld over de overige in het eerste lid bedoelde budgetten.
 
-#### Artikel 15. Subsidiebedrag
+##### Artikel 15. Subsidiebedrag
 
 1. Het subsidiebedrag per gerealiseerde praktijkleerplaats of gerealiseerde werkleerplaats wordt berekend aan de hand van het beschikbare bedrag voor de desbetreffende categorie gedeeld door het aantal gerealiseerde praktijkleerplaatsen of werkleerplaatsen dat in aanmerking komt voor subsidie voor die categorie. Het maximumbedrag per gerealiseerde praktijkplaats of werkleerplaats wordt jaarlijks vastgesteld en bekendgemaakt door middel van een bekendmakingsbesluit.
 
@@ -258,11 +284,11 @@ Subsidie wordt verstrekt per studiejaar.
 
 #### § 2. Aanvraag
 
-#### Artikel 16. Aanvrager
+##### Artikel 16. Aanvrager
 
 Een werkgever als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=4&z=2025-09-03&g=2025-09-03), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=6&z=2025-09-03&g=2025-09-03), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=8&z=2025-09-03&g=2025-09-03), [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9a&z=2025-09-03&g=2025-09-03), [9c](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9c&z=2025-09-03&g=2025-09-03) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=10&z=2025-09-03&g=2025-09-03) kan een aanvraag voor subsidie als bedoeld in het desbetreffende artikel indienen.
 
-#### Artikel 17. Aanvraagtermijn
+##### Artikel 17. Aanvraagtermijn
 
 1. Een aanvraag voor subsidie wordt ingediend uiterlijk om 17:00 uur op 17 september na het studiejaar waarvoor subsidie wordt gevraagd, met dien verstande dat de subsidie voor de laatste maal uiterlijk om 17:00 uur op 18 september 2028 kan worden aangevraagd. Aanvragen die later worden ontvangen worden afgewezen.
 
@@ -272,13 +298,13 @@ Een werkgever als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWB
 
 4. Indien een aanvraag onvolledig is en de aanvrager op grond van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) in de gelegenheid is gesteld zijn aanvraag aan te vullen, geldt als datum van ontvangst de datum waarop de aanvullende informatie is ontvangen.
 
-#### Artikel 18. Wijze van indiening
+##### Artikel 18. Wijze van indiening
 
 1. Een subsidieaanvraag wordt elektronisch ingediend via de website www.rvo.nl/subsidies-regelingen/subsidieregeling-praktijkleren.
 
 2. Een subsidieaanvraag voor een gerealiseerde praktijkleerplaats op Bonaire wordt in persoon ingediend, op een hiervoor bestemde locatie die wordt bekend gemaakt op de website [https://www.rvo.nl/praktijkleren/cn](https://www.rvo.nl/praktijkleren/cn).
 
-#### Artikel 19. In te dienen documenten
+##### Artikel 19. In te dienen documenten
 
 1. Voor de indiening van een aanvraag wordt gebruik gemaakt van het hiervoor bestemde aanvraagformulier dat wordt bekendgemaakt op de website [www.rvo.nl/praktijkleren](http://www.rvo.nl/praktijkleren).
 
@@ -294,7 +320,7 @@ Een werkgever als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWB
 
 #### § 1a. Aanvullende subsidie voor de mbo-sectoren landbouw, horeca of recreatie, contact- en conjunctuurgevoelige sectoren, alsmede mbo-opleidingen die bijdragen aan de klimaat- en energietransitie
 
-#### Artikel 20. Weigeringsgronden
+##### Artikel 20. Weigeringsgronden
 
 Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt de subsidieverstrekking geweigerd voor zover door verstrekking van de subsidie:
 
@@ -304,15 +330,15 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 - c. aan de werkgever voor de technologisch ontwerper in opleiding voor meer dan twee volledige gerealiseerde werkleerplaatsen subsidie zou worden verstrekt.
 
-#### Artikel 21. Wijze van verdeling beschikbare middelen
+##### Artikel 21. Wijze van verdeling beschikbare middelen
 
 De minister beslist met toepassing van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=15&z=2025-09-03&g=2025-09-03) gelijktijdig op de voor het desbetreffende studiejaar ontvangen aanvragen.
 
-#### Artikel 22. Beslistermijn
+##### Artikel 22. Beslistermijn
 
 De minister beslist binnen dertien weken na 17 september van enig kalenderjaar op de voor het daaraan voorafgaande studiejaar ontvangen aanvragen.
 
-#### Artikel 23. Verplichting
+##### Artikel 23. Verplichting
 
 1. Aan de verstrekking van subsidie is de verplichting verbonden dat de subsidieontvanger de documenten, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=5&z=2025-09-03&g=2025-09-03), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=7&z=2025-09-03&g=2025-09-03), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9&z=2025-09-03&g=2025-09-03), [9b](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9b&z=2025-09-03&g=2025-09-03), [9d](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9d&z=2025-09-03&g=2025-09-03) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=11&z=2025-09-03&g=2025-09-03) gedurende vijf jaren bewaart na het studiejaar waarvoor subsidie is verstrekt.
 
@@ -320,7 +346,7 @@ De minister beslist binnen dertien weken na 17 september van enig kalenderjaar o
 
 #### § 2. Aanvraag
 
-#### Artikel 24. Aanvraag voor een verklaring
+##### Artikel 24. Aanvraag voor een verklaring
 
 1. Een verklaring als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=12&z=2025-09-03&g=2025-09-03), wordt verstrekt op aanvraag.
 
@@ -336,19 +362,19 @@ De minister beslist binnen dertien weken na 17 september van enig kalenderjaar o
 
 - c. het aantal uren en aandeel van de beroepspraktijkvorming, als onderdeel van de opleiding.
 
-#### Artikel 25. Beslissing op aanvraag verklaring
+##### Artikel 25. Beslissing op aanvraag verklaring
 
 1. De minister beslist binnen acht weken op een aanvraag voor een verklaring als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=12&z=2025-09-03&g=2025-09-03).
 
 2. De verklaring vermeldt het tijdstip vanaf welk moment de opleiding waarop de verklaring betrekking heeft als een vergelijkbare opleiding wordt aangemerkt.
 
-#### Artikel 26. Weigeringsgronden verklaring
+##### Artikel 26. Weigeringsgronden verklaring
 
 Een aanvraag voor een verklaring wordt in ieder geval geweigerd indien de buitenlandse opleiding niet in dat land is erkend of het opleidingsniveau lager is dan een vergelijkbare Nederlandse opleiding.
 
 #### § 3. Vaststellen subsidie
 
-#### Artikel 27. Mandaatverlening Algemeen directeur Rijksdienst voor Ondernemend Nederland Ministerie van Economische Zaken en Klimaat
+##### Artikel 27. Mandaatverlening Algemeen directeur Rijksdienst voor Ondernemend Nederland Ministerie van Economische Zaken en Klimaat
 
 Aan de Directeur-generaal Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken wordt mandaat verleend tot:
 
@@ -356,45 +382,45 @@ Aan de Directeur-generaal Rijksdienst voor Ondernemend Nederland van het Ministe
 
 - b. het beslissen op bezwaarschriften tegen besluiten als bedoeld in onderdeel a, voor zover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen.
 
-#### Artikel 28. Verlening van ondermandaat
+##### Artikel 28. Verlening van ondermandaat
 
 De Directeur-generaal Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken kan met betrekking tot zijn bevoegdheden, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=5&artikel=27&z=2025-09-03&g=2025-09-03) en [27a](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=5&artikel=27a&z=2025-09-03&g=2025-09-03), ondermandaat verlenen aan één of meer onder hem ressorterende medewerkers.
 
-#### Artikel 29. Toezicht
+##### Artikel 29. Toezicht
 
 Onverminderd het toezicht door de Inspectie van het onderwijs worden de ambtenaren die een arbeidsovereenkomst hebben bij het Ministerie van Economische Zaken en Klimaat, voor zover zij werkzaamheden verrichten ten behoeve van de uitvoering van deze regeling, belast met het toezicht op de naleving van het bepaalde bij deze regeling.
 
 #### § 5. Mandaatverlening en toezicht
 
-#### Artikel 30. Voorschot subsidie
+##### Artikel 30. Voorschot subsidie
 
 Vervallen
 
-#### Artikel 31. Overgangsbepaling
+##### Artikel 31. Overgangsbepaling
 
 Ten aanzien van subsidieverstrekking voor het studiejaar 2020–2021, is de weigeringsgrond, bedoeld in [artikel 20, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=3&artikel=20&z=2025-09-03&g=2025-09-03), niet van toepassing.
 
-#### Artikel 32. Overgangsbepaling urennorm mbo
+##### Artikel 32. Overgangsbepaling urennorm mbo
 
 Vervallen
 
-#### Artikel 33. Afwijking berekening praktijkleerplaatsen in verband met coronavirus
+##### Artikel 33. Afwijking berekening praktijkleerplaatsen in verband met coronavirus
 
 Vervallen
 
-#### Artikel 34. Inwerkingtreding
+##### Artikel 34. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2014.
 
 2. Deze regeling vervalt met ingang van 1 januari 2029.
 
-#### Artikel 35. Citeertitel
+##### Artikel 35. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling praktijkleren.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 9a. Subsidie voor praktijkleerplaatsen in het voortgezet speciaal onderwijs
+##### Artikel 9a. Subsidie voor praktijkleerplaatsen in het voortgezet speciaal onderwijs
 
 1. De minister kan subsidie verstrekken aan een werkgever voor een gerealiseerde praktijkleerplaats voor een leerling in het kader van het arbeidsmarktgerichte uitstroomprofiel in het voortgezet speciaal onderwijs als bedoeld in [artikel 14c van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14c).
 
@@ -408,7 +434,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 6. Onder een werkgever als bedoeld in het vijfde lid, wordt verstaan het bedrijf dat of de organisatie die de begeleiding van de leerling verzorgt als bedoeld in [artikel 14a, tweede lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14a), niet zijnde het bevoegd gezag, bedoeld in [artikel 9, derde lid, van het Onderwijskundig besluit WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&artikel=9).
 
-#### Artikel 9b. Subsidievoorwaarden vso praktijkleerplaatsen
+##### Artikel 9b. Subsidievoorwaarden vso praktijkleerplaatsen
 
 Subsidie op grond van [artikel 9a, eerste, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9a&z=2025-09-03&g=2025-09-03), wordt slechts verstrekt voor zover:
 
@@ -432,13 +458,13 @@ Subsidie op grond van [artikel 9a, eerste, derde en vijfde lid](https://wetten.o
 
 - g. de werkgever beschikt over een administratie waaruit de begeleiding van de leerling blijkt en de wijze waarop de leerling de leerdoelen van het praktijkgedeelte heeft behaald.
 
-#### Artikel 9c. Subsidie voor praktijkleerplaatsen in het praktijkonderwijs
+##### Artikel 9c. Subsidie voor praktijkleerplaatsen in het praktijkonderwijs
 
 1. De minister kan subsidie verstrekken aan een werkgever voor een gerealiseerde praktijkleerplaats voor een leerling in het kader van het praktijkonderwijs in het voortgezet onderwijs als bedoeld in [artikel 2.8 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.8).
 
 2. Onder werkgever, genoemd in het eerste lid, wordt verstaan de stagegever, bedoeld in [artikel 2.35, tweede lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.35).
 
-#### Artikel 9d. Subsidievoorwaarden praktijkonderwijs praktijkleerplaatsen
+##### Artikel 9d. Subsidievoorwaarden praktijkonderwijs praktijkleerplaatsen
 
 1. Subsidie op grond van [artikel 9c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=9c&z=2025-09-03&g=2025-09-03), wordt slechts verstrekt voor zover:
 
@@ -470,7 +496,7 @@ Subsidie op grond van [artikel 9a, eerste, derde en vijfde lid](https://wetten.o
 
 #### § 5a. Voorschot subsidie praktijkleerplaatsen mbo in 2020 in verband met uitbraak coronavirus
 
-#### Artikel 33a. Overgangsbepaling gunstige beoordeling praktijkplekken voortgezet speciaal onderwijs, praktijkonderwijs en vmbo entreeopleiding schooljaar 2017–2018
+##### Artikel 33a. Overgangsbepaling gunstige beoordeling praktijkplekken voortgezet speciaal onderwijs, praktijkonderwijs en vmbo entreeopleiding schooljaar 2017–2018
 
 Vervallen
 
@@ -480,7 +506,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 15a. Begripsbepaling
+##### Artikel 15a. Begripsbepaling
 
 In deze paragraaf wordt verstaan onder:
 
@@ -488,7 +514,7 @@ In deze paragraaf wordt verstaan onder:
 
 - **SBI-code:** code van de Standaard Bedrijfsindeling zoals gehanteerd door het Centraal Bureau voor de Statistiek waarmee de economische activiteit van een bedrijf wordt weergegeven.
 
-#### Artikel 15b. Subsidieplafond
+##### Artikel 15b. Subsidieplafond
 
 1. Voor de verstrekking van aanvullende subsidies op grond van deze paragraaf voor mbo-praktijkplaatsen in de sectoren landbouw, horeca of recreatie, is voor de studiejaren 2020–2021 tot en met 2022–2023 jaarlijks € 10.600.000 beschikbaar en is voor het studiejaar 2023–2024 € 11.629.000 beschikbaar.
 
@@ -496,7 +522,7 @@ In deze paragraaf wordt verstaan onder:
 
 3. Voor de verstrekking van aanvullende subsidies op grond van deze paragraaf voor mbo-praktijkleerplaatsen in sectoren die contact- en conjunctuurgevoelig zijn, is voor het studiejaar 2020–2021 € 15.800.000 beschikbaar en is voor het studiejaar 2021–2022 € 19.000.000 beschikbaar.
 
-#### Artikel 15c. Aanvullende subsidie voor bbl-plek sectoren landbouw, horeca of recreatie
+##### Artikel 15c. Aanvullende subsidie voor bbl-plek sectoren landbouw, horeca of recreatie
 
 1. In aanvulling op de subsidie die wordt verstrekt aan een werkgever op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=4&z=2025-09-03&g=2025-09-03), kan de Minister subsidie verstrekken voor een gerealiseerde praktijkplaats voor een mbo-student in het kader van een beroepsopleiding voor zover het betreft de beroepsbegeleidende leerweg, bedoeld in [artikel 7.2.2, tweede lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), in één van de sectoren landbouw, horeca of recreatie.
 
@@ -508,7 +534,7 @@ In deze paragraaf wordt verstaan onder:
 
 5. In afwijking van het tweede lid kan de aanvullende subsidie ook worden toegekend indien de werkgever ten genoegen van de Minister aantoont dat een onderneming op het moment van aanvragen en gedurende het studiejaar waarop de aanvraag betrekking heeft, feitelijk een activiteit uitvoert als hoofdactiviteit die valt onder een SBI-code die in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&bijlage=1&z=2025-09-03&g=2025-09-03) van deze regeling is opgenomen. De werkgever kan dit aantonen aan de hand van een afschrift van de Kamer van Koophandel, waarin de desbetreffende SBI-code is geregistreerd, in samenhang met andere stukken waaruit blijkt dat de werkgever feitelijk een hoofdactiviteit heeft die onder één van de in de bijlage 1 opgenomen SBI-codes valt.
 
-#### Artikel 15d. Aanvullende subsidievoorwaarden
+##### Artikel 15d. Aanvullende subsidievoorwaarden
 
 1. De aanvulling op de subsidie wordt uitsluitend verstrekt indien de aanvraag voor subsidie, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=4&z=2025-09-03&g=2025-09-03), wordt gehonoreerd.
 
@@ -534,7 +560,7 @@ In deze paragraaf wordt verstaan onder:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 14a. Subsidie hardheidsclausule COVID-19
+##### Artikel 14a. Subsidie hardheidsclausule COVID-19
 
 Vervallen
 
@@ -552,7 +578,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 15c1. Aanvullende subsidie voor gerealiseerde praktijkleerplaatsen voor BBL-opleidingen die bijdragen aan de klimaat- en energietransitie
+##### Artikel 15c1. Aanvullende subsidie voor gerealiseerde praktijkleerplaatsen voor BBL-opleidingen die bijdragen aan de klimaat- en energietransitie
 
 1. In aanvulling op de subsidie die wordt verstrekt aan een werkgever op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=4&z=2025-09-03&g=2025-09-03), kan de minister subsidie verstrekken voor een gerealiseerde praktijkleerplaats voor een mbo-student in het kader van een beroepsopleiding voor zover het betreft de beroepsbegeleidende leerweg, bedoeld in [artikel 7.2.2, tweede lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) of [artikel 7.2.2, tweede lid, onderdeel b, van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=7.2.2), en voor zover deze opleiding wordt genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&bijlage=4&z=2025-09-03&g=2025-09-03) bij deze regeling.
 
@@ -562,11 +588,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 1b. Aanvullende subsidie voor de hbo-sectoren techniek en gezondheidszorg
 
-#### Artikel 15e. Subsidieplafond
+##### Artikel 15e. Subsidieplafond
 
 Voor de verstrekking van aanvullende subsidies op grond van deze paragraaf, is voor het studiejaar 2020–2021 € 6.700.000,- beschikbaar en voor het studiejaar 2021–2022 is jaarlijks € 8.000.000 beschikbaar.
 
-#### Artikel 15f. Aanvullende subsidie voor hbo leerwerkplek in de sectoren techniek en gezondheidszorg
+##### Artikel 15f. Aanvullende subsidie voor hbo leerwerkplek in de sectoren techniek en gezondheidszorg
 
 1. In aanvulling op de subsidie die wordt verstrekt aan een werkgever op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=6&z=2025-09-03&g=2025-09-03), kan de Minister aanvullende subsidie verstrekken voor een gerealiseerde praktijkplaats voor een hbo-student in het kader van een duale opleiding in het hoger beroepsonderwijs als bedoeld in [artikel 7.7, tweede lid, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.7) of een deeltijdse opleiding in het hoger beroepsonderwijs waarbij de beroepsuitoefening een verplicht onderdeel vormt van de opleiding.
 
@@ -578,7 +604,7 @@ Voor de verstrekking van aanvullende subsidies op grond van deze paragraaf, is v
 
 5. De aanvullende subsidie, bedoeld in dit artikel, kan slechts worden aangevraagd voor gerealiseerde praktijkplaatsen voor de studiejaren 2020–2021 en 2021–2022.
 
-#### Artikel 15g. Aanvullende subsidievoorwaarden
+##### Artikel 15g. Aanvullende subsidievoorwaarden
 
 De aanvulling op de subsidie wordt uitsluitend verstrekt indien de ingediende aanvraag voor subsidie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=6&z=2025-09-03&g=2025-09-03), wordt gehonoreerd.
 
@@ -1739,7 +1765,7 @@ De aanvulling op de subsidie wordt uitsluitend verstrekt indien de ingediende aa
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 15c2. Aanvullende subsidie voor bbl-plek in contact- en conjunctuurgevoelige sectoren
+##### Artikel 15c2. Aanvullende subsidie voor bbl-plek in contact- en conjunctuurgevoelige sectoren
 
 1. In aanvulling op de subsidie die wordt verstrekt aan een werkgever op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=4&z=2025-09-03&g=2025-09-03), kan de Minister subsidie verstrekken voor een gerealiseerde praktijkplaats voor een mbo-student in het kader van een beroepsopleiding voor zover het betreft de beroepsbegeleidende leerweg, bedoeld in [artikel 7.2.2, tweede lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), in een sector die contact- en conjunctuurgevoelig is.
 
@@ -1761,7 +1787,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 4. Verklaring vergelijkbare opleiding
 
-#### Artikel 27a. Verwerking van persoonsgegevens
+##### Artikel 27a. Verwerking van persoonsgegevens
 
 1. De minister is verwerkingsverantwoordelijke als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034144&paragraaf=1&artikel=4&z=2025-09-03&g=2025-09-03) van de [Verordening (EU) 2016/679](32016R0679) van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van [Richtlijn 95/46/EG](31995L0046), voor de verwerking van persoonsgegevens op basis van deze regeling.
 
@@ -1771,7 +1797,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 6. Slotbepalingen
 
-#### Artikel 31a. Omhangbepaling
+##### Artikel 31a. Omhangbepaling
 
 Deze regeling is mede gebaseerd op [artikel 2.4.1 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=2.4.1).
 

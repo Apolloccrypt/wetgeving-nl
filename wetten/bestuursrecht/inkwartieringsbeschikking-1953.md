@@ -1,13 +1,38 @@
 ---
-title: "Inkwartieringsbeschikking 1953"
+title: "INKWARTIERINGSBESCHIKKING 1953"
 identifier: "BWBR0002114"
-categorie: "Bestuursrecht"
-publicatiedatum: 2006-07-23
-laatste_update: 2006-07-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002114"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2006-07-23"
+last_updated: "2006-07-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002114"
+soort: "ministeriele-regeling"
+stam_id: "5200633"
+version_id: "9350252"
+internal_id: "C12491261"
+label_id: "5176004"
+dtd_version: "2.0"
+original_entry_into_force: "1953-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002114/2006-07-23/0"
+intitule_bron: "Stcrt.1953-139"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1953-07-21"
+intitule_published: "1953-07-22"
+intitule_in_force: "1953-07-22"
+intitule_status: "goed"
+original_publication: "Stcrt.1953-139"
+original_signed_date: "1953-07-21"
+original_published_date: "1953-07-22"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1953-08-01"
+jci_1_3: "jci1.3:c:BWBR0002114&z=2006-07-23&g=2006-07-23"
+jci_1_0: "1.0:c:BWBR0002114&g=2006-07-23"
+citeertitel_status: "officieel"
+short_title: "Inkwartieringsbeschikking 1953"
+signed_date: "1953-07-21"
+entry_into_force: "1953-08-01"
 ---
-
 # INKWARTIERINGSBESCHIKKING 1953
 
 Gelet op de bepalingen van de [Inkwartieringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002111) en het [Inkwartieringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002113),
@@ -16,11 +41,11 @@ Stelt de volgende uitvoeringsvoorschriften vast:
 
 ### HOOFDSTUK I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 Uit de aard van hun betrekking moeten geacht worden bij de legers te behoren, in de zin van [artikel 2 der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&artikel=2):
 
@@ -28,7 +53,7 @@ Uit de aard van hun betrekking moeten geacht worden bij de legers te behoren, in
 
 - b. niet-militairen, die werkzaam zijn in militaire staven, diensten, inrichtingen en bedrijven.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Tot het doen van een aanvraag als bedoeld in [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&artikel=6) zijn bevoegd:
 
@@ -56,11 +81,11 @@ Uit de aard van hun betrekking moeten geacht worden bij de legers te behoren, in
 
 - e. tijdsaanduiding van de te maken reis.
 
-#### Artikel 4
+##### Artikel 4
 
 Als autoriteit, bedoeld in [artikel 28 lid 1, der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&artikel=28), is aangewezen de Commandant der Strijdkrachten.
 
-#### Artikel 5
+##### Artikel 5
 
 Tot het voorzien in de behoeften aan inkwartiering, onderhoud, transporten en leveranties op grond van [artikel 28, lid 1, der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&artikel=28) zijn bevoegd:
 
@@ -68,7 +93,7 @@ Tot het voorzien in de behoeften aan inkwartiering, onderhoud, transporten en le
 
 - 2. overige officieren, voor zover zij met enig commando zijn belast, doch slechts ten behoeve van het onderdeel, dat onder hun bevel staat.
 
-#### Artikel 6
+##### Artikel 6
 
 Als hoofdofficier, bedoeld in [artikel 15 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002113&artikel=15), zijn aangewezen:
 
@@ -76,7 +101,7 @@ Als hoofdofficier, bedoeld in [artikel 15 van het besluit](https://wetten.overhe
 
 - 2. overige hoofdofficieren, voor zover dezen een zelfstandig commando voeren of een zelfstandige functie bekleden en niet de beschikking hebben over een ingericht stafkwartier.
 
-#### Artikel 7
+##### Artikel 7
 
 De schriftelijke bewijzen, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&artikel=7) en [28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002111&artikel=28), de lastgeving, bedoeld in [artikel 62 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002113&artikel=62), het rapport, bedoeld in [artikel 53 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002113&artikel=53), en de bon, bedoeld in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0002113&artikel=76) van het besluit, worden opgemaakt overeenkomstig de in de [bijlagen A—E](https://wetten.overheid.nl/jci1.3:c:BWBR0002114&bijlage=A&z=2006-07-23&g=2006-07-23) bij deze beschikking gevoegde modellen.
 
@@ -86,11 +111,11 @@ De schriftelijke bewijzen, bedoeld in de [artikelen 7](https://wetten.overheid.n
 
 ### HOOFDSTUK IV. Slotbepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 Deze beschikking kan worden aangehaald onder de titel: Inkwartieringsbeschikking 1953.
 
-#### Artikel 22
+##### Artikel 22
 
 Deze beschikking, welke in de **Nederlandse Staatscourant** zal worden geplaatst, treedt in werking met ingang van 1 Augustus 1953.
 

@@ -1,13 +1,39 @@
 ---
-title: "Tijdelijke regeling hypothecair krediet"
+title: "Regeling van de Minister van Financiën van 12 december 2012, kenmerk: FM/2012/1887 M, houdende de inkomenscriteria voor het verstrekken van hypothecair krediet en regels voor het vaststellen van de maximale hoogte van het hypothecair krediet in verhouding tot de waarde van de woning (Tijdelijke regeling hypothecair krediet)"
 identifier: "BWBR0032503"
-categorie: "Financieel recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032503"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032503"
+soort: "ministeriele-regeling"
+stam_id: "11971013"
+version_id: "21808092"
+internal_id: "C31297121"
+label_id: "11942904"
+dtd_version: "2.0"
+original_entry_into_force: "2014-11-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032503/2026-01-01/0"
+intitule_bron: "Stcrt.2012-26433"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-12"
+intitule_published: "2012-12-20"
+intitule_in_force: "2012-12-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-32620"
+original_signed_date: "2014-11-10"
+original_published_date: "2014-11-17"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2014-32620"
+entry_into_force_date: "2014-11-10"
+jci_1_3: "jci1.3:c:BWBR0032503&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0032503&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke regeling hypothecair krediet"
+signed_date: "2014-11-10"
+entry_into_force: "2014-11-10"
 ---
-
 # Regeling van de Minister van Financiën van 12 december 2012, kenmerk: FM/2012/1887 M, houdende de inkomenscriteria voor het verstrekken van hypothecair krediet en regels voor het vaststellen van de maximale hoogte van het hypothecair krediet in verhouding tot de waarde van de woning (Tijdelijke regeling hypothecair krediet)
 
 De Minister van Financiën,
@@ -18,7 +44,7 @@ Besluit:
 
 #### § 1. Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Vaststelling inkomenscriteria
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een aanbieder houdt bij het vaststellen van het toetsinkomen rekening met de huidige vaste en bestendige inkomsten van de consument.
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 5. Indien de consument binnen tien jaar na het aangaan van een hypothecair krediet de pensioengerechtigde leeftijd, bedoeld in [artikel 1, eerste lid, onderdeel i, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=1) bereikt, houdt een aanbieder van hypothecair krediet bij het vaststellen van het toetsinkomen mede rekening met het verwachte inkomen en toekomstige beschikbare inkomsten uit vrij beschikbaar vermogen van de consument op de vastgestelde pensioengerechtigde leeftijd van de consument of indien de pensioengerechtigde leeftijd voor de consument nog niet definitief is vastgesteld op de vastgestelde maximale pensioengerechtigde leeftijd.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De financieringslast van een hypothecair krediet mag niet hoger zijn dan de toegestane financieringslast.
 
@@ -90,7 +116,7 @@ De gemiddelde debetrentevoet bedraagt ten minste vijf procent.
 
 - b. in mindering gebracht op de toegestane financieringslast.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een aanbieder van hypothecair krediet kan van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01), afwijken indien:
 
@@ -134,7 +160,7 @@ De gemiddelde debetrentevoet bedraagt ten minste vijf procent.
 
 #### § 3. Maximale hypothecair krediet in verhouding tot de waarde van de woning
 
-#### Artikel 5
+##### Artikel 5
 
 1. De maximale hoogte van het hypothecair krediet ten opzichte van de waarde van de woning bedraagt honderd procent.
 
@@ -162,7 +188,7 @@ De gemiddelde debetrentevoet bedraagt ten minste vijf procent.
 
 #### § 4. Slotbepalingen
 
-#### Artikel 6
+##### Artikel 6
 
 1. Deze regeling treedt in werking op 1 januari 2013.
 
@@ -954,7 +980,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Voor de toepassing van [artikel 3, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01), houdt een aanbieder van hypothecair krediet rekening met het termijnbedrag dat de consument verschuldigd is voor rente en aflossing van een studielening.
 

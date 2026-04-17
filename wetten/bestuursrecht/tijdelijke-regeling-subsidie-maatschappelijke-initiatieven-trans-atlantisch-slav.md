@@ -1,13 +1,39 @@
 ---
-title: "Tijdelijke regeling subsidie maatschappelijke initiatieven trans-Atlantisch slavernijverleden"
+title: "Tijdelijke regeling van de StaatssecretarisKoninkrijksrelaties en Digitalisering van 14 juni 2024 nr. 2024-0000317622, houdende subsidie voor maatschappelijke initiatieven trans-Atlantisch slavernijverleden"
 identifier: "BWBR0049978"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-11-01
-laatste_update: 2025-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049978"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-11-01"
+last_updated: "2025-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049978"
+soort: "ministeriele-regeling"
+stam_id: "17169573"
+version_id: "30790762"
+internal_id: "C44134491"
+label_id: "17077614"
+dtd_version: "2.0"
+original_entry_into_force: "2025-08-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049978/2025-11-01/0"
+intitule_bron: "Stcrt.2024-21886"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-14"
+intitule_published: "2024-07-01"
+intitule_in_force: "2025-07-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-22399"
+original_signed_date: "2025-06-24"
+original_published_date: "2025-07-01"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-22399"
+entry_into_force_date: "2025-08-11"
+jci_1_3: "jci1.3:c:BWBR0049978&z=2025-11-01&g=2025-11-01"
+jci_1_0: "1.0:c:BWBR0049978&g=2025-11-01"
+citeertitel_status: "redactioneel"
+short_title: "Tijdelijke regeling subsidie maatschappelijke initiatieven trans-Atlantisch slavernijverleden"
+signed_date: "2025-06-24"
+entry_into_force: "2025-08-11"
 ---
-
 # Tijdelijke regeling van de StaatssecretarisKoninkrijksrelaties en Digitalisering van 14 juni 2024 nr. 2024-0000317622, houdende subsidie voor maatschappelijke initiatieven trans-Atlantisch slavernijverleden
 
 Handelende in overeenstemming met de Minister-President, Minister van Algemene Zaken, de Minister van Binnenlandse Zaken en Koninkrijksrelaties, de Minister van Onderwijs, Cultuur en Wetenschap, de Minister van Sociale Zaken en Werkgelegenheid, de Minister van Buitenlandse Zaken, de Minister van Financiën, de Minister voor Rechtsbescherming, de Minister voor Klimaat en Energie en de Staatssecretaris van Volksgezondheid, Welzijn en Sport;
@@ -16,7 +42,7 @@ Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artike
 
 Besluit:
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 In deze regeling wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - **slavernijverleden:** het historische tijdperk (vanaf begin 16de tot eind 19de eeuw) waarin miljoenen mensen via de trans-Atlantische route, voornamelijk uit Afrika, werden ontvoerd, verhandeld en tot slaaf gemaakt, en vervolgens gedwongen werden te werken op plantages, in mijnen en in andere sectoren, met name in de Amerika’s (Noord- en Zuid-Amerika), Afrika en delen van Europa.
 
-#### Artikel 2. Subsidiedoel
+##### Artikel 2. Subsidiedoel
 
 De minister kan subsidie verstrekken voor initiatieven in het Europese deel van Nederland ten behoeve van nazaten van tot slaaf gemaakten, die in navolging van de gemaakte excuses voor het trans-Atlantisch slavernijverleden een of meer van de volgende doelen dienen:
 
@@ -44,11 +70,11 @@ De minister kan subsidie verstrekken voor initiatieven in het Europese deel van 
 
 - d. de erkenning en herdenking van het slavernijverleden.
 
-#### Artikel 3. Staatssteun
+##### Artikel 3. Staatssteun
 
 Subsidies op grond van deze regeling kunnen staatssteun bevatten. Dit wordt gerechtvaardigd door artikel 53 van de algemene groepsvrijstellingsverordening.
 
-#### Artikel 4. Subsidieplafond
+##### Artikel 4. Subsidieplafond
 
 1. De minister stelt in de periode 11 augustus 2025 tot en met 3 mei 2028 € 29.333.333,33 beschikbaar, welk bedrag wordt verdeeld in door de minister vast te stellen aanvraagtijdvakken met voor elk van die aanvraagtijdvakken afzonderlijk vast te stellen subsidieplafonds.
 
@@ -60,7 +86,7 @@ Subsidies op grond van deze regeling kunnen staatssteun bevatten. Dit wordt gere
 
 5. Het subsidieplafond voor de aanvraagtijdvakken, genoemd in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049978&artikel=5&z=2025-11-01&g=2025-11-01), bedraagt voor het eerste tijdvak € 6.333.333 en het tweede tijdvak € 6.000.000.
 
-#### Artikel 5. Aanvraagtijdvakken
+##### Artikel 5. Aanvraagtijdvakken
 
 1. De mogelijkheid tot het indienen van aanvragen voor subsidie bestaat slechts gedurende door de minister vastgestelde aanvraagtijdvakken.
 
@@ -72,7 +98,7 @@ Subsidies op grond van deze regeling kunnen staatssteun bevatten. Dit wordt gere
 
 5. Een subsidieaanvraag op grond van [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049978&artikel=6&z=2025-11-01&g=2025-11-01), wordt ingediend in het eerste aanvraagtijdvak van 1 april 2026, 09.00 uur, tot 1 mei 2026, 17.00 uur, of in het tweede aanvraagtijdvak van 1 april 2027, 09.00 uur, tot 3 mei 2027, 17.00 uur.
 
-#### Artikel 6. Subsidiecategorieën
+##### Artikel 6. Subsidiecategorieën
 
 1. De minister kan subsidie verstrekken voor activiteiten met een maximale looptijd van 1 jaar voor het professionaliseren van aanvragers die werkzaam zijn in het Europese deel van Nederland en die werken ten behoeve van de doelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049978&artikel=2&z=2025-11-01&g=2025-11-01).
 
@@ -82,7 +108,7 @@ Subsidies op grond van deze regeling kunnen staatssteun bevatten. Dit wordt gere
 
 4. De minister kan subsidie verstrekken voor grootschalige maatschappelijke initiatieven met een maximale looptijd van 4 jaar in het Europese deel van Nederland die bijdragen aan de doelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049978&artikel=2&z=2025-11-01&g=2025-11-01).
 
-#### Artikel 7. Hoogte van subsidie
+##### Artikel 7. Hoogte van subsidie
 
 1. De subsidie op grond van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049978&artikel=6&z=2025-11-01&g=2025-11-01), bedraagt € 5.000,–.
 
@@ -92,7 +118,7 @@ Subsidies op grond van deze regeling kunnen staatssteun bevatten. Dit wordt gere
 
 4. De subsidie op grond van [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049978&artikel=6&z=2025-11-01&g=2025-11-01), bedraagt 100% van de subsidiabele kosten van minimaal € 125.000,– en ten hoogste € 500.000,–.
 
-#### Artikel 8. Subsidiabele activiteiten
+##### Artikel 8. Subsidiabele activiteiten
 
 1. Voor subsidies op grond van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049978&artikel=6&z=2025-11-01&g=2025-11-01), komen uitsluitend de volgende activiteiten in aanmerking:
 
@@ -120,7 +146,7 @@ Subsidies op grond van deze regeling kunnen staatssteun bevatten. Dit wordt gere
 
 3. Onverminderd het tweede lid, komen voor subsidies op grond van [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049978&artikel=6&z=2025-11-01&g=2025-11-01), uitsluitend projecten in aanmerking met een blijvende of langdurige impact of met een groot bereik die het slavernijverleden en de gedeelde geschiedenis zichtbaar maken.
 
-#### Artikel 9. Subsidiabele kosten
+##### Artikel 9. Subsidiabele kosten
 
 1. Voor subsidie komen in aanmerking:
 
@@ -190,7 +216,7 @@ Subsidies op grond van deze regeling kunnen staatssteun bevatten. Dit wordt gere
 
 7. Voor aanvragen op grond van [artikel 6, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049978&artikel=6&z=2025-11-01&g=2025-11-01), zijn opleidingskosten niet subsidiabel.
 
-#### Artikel 10. Aanvragers
+##### Artikel 10. Aanvragers
 
 1. Voor subsidie komen in aanmerking rechtspersonen zonder winstoogmerk die zijn gevestigd in het Europese deel van Nederland.
 
@@ -198,7 +224,7 @@ Subsidies op grond van deze regeling kunnen staatssteun bevatten. Dit wordt gere
 
 3. Geen subsidie wordt verstrekt aan rechtspersonen op Bonaire, St. Eustatius en Saba.
 
-#### Artikel 11. Subsidieaanvraagvereisten
+##### Artikel 11. Subsidieaanvraagvereisten
 
 1. De subsidieaanvrager dient de subsidieaanvraag in door middel van het daartoe bestemde elektronisch aanvraagformulier op [www.uitvoeringvanbeleidszw.nl](http://www.uitvoeringvanbeleidszw.nl) dat is ondertekend door een functionaris, bevoegd om namens de subsidieaanvrager te handelen.
 
@@ -212,7 +238,7 @@ Subsidies op grond van deze regeling kunnen staatssteun bevatten. Dit wordt gere
 
 6. Door het indienen van de aanvraag stemt de subsidieaanvrager ermee in dat het subsidiedossier, met uitzondering van persoonsgegevens, openbaar wordt gemaakt.
 
-#### Artikel 12. Beoordeling aanvragen
+##### Artikel 12. Beoordeling aanvragen
 
 1. Bij overschrijding van het subsidieplafond, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049978&artikel=4&z=2025-11-01&g=2025-11-01), stelt de minister na afloop van het aanvraagtijdvak, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049978&artikel=5&z=2025-11-01&g=2025-11-01), door middel van loting de volgorde vast waarin de ontvangen aanvragen worden afgehandeld.
 
@@ -224,7 +250,7 @@ Subsidies op grond van deze regeling kunnen staatssteun bevatten. Dit wordt gere
 
 5. De projectperiode vangt aan op de datum van de beschikking tot subsidieverlening. De subsidiabele activiteiten starten niet later dan 13 weken nadat de subsidieverlening is beschikt.
 
-#### Artikel 13. Adviescommissie
+##### Artikel 13. Adviescommissie
 
 1. De minister stelt een adviescommissie in.
 
@@ -234,7 +260,7 @@ Subsidies op grond van deze regeling kunnen staatssteun bevatten. Dit wordt gere
 
 4. De adviescommissie brengt binnen 6 weken na het verzoek daartoe schriftelijk advies uit aan de minister.
 
-#### Artikel 14. Weigeringsgronden
+##### Artikel 14. Weigeringsgronden
 
 De minister wijst een aanvraag voor een subsidie af voor zover:
 
@@ -248,7 +274,7 @@ De minister wijst een aanvraag voor een subsidie af voor zover:
 
 - e. de aanvrager reeds eerder subsidie toegekend heeft gekregen voor een aanvraag op grond van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049978&artikel=6&z=2025-11-01&g=2025-11-01), en hier nogmaals een subsidieaanvraag voor indient.
 
-#### Artikel 15. Wijze van subsidieverstrekking
+##### Artikel 15. Wijze van subsidieverstrekking
 
 1. Bij subsidieverstrekking op grond van [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049978&artikel=6&z=2025-11-01&g=2025-11-01), wordt een beschikking tot subsidieverlening gegeven met vermelding van de datum waarop de activiteiten uiterlijk moeten zijn verricht en van de datum waarop de subsidie uiterlijk ambtshalve wordt vastgesteld.
 
@@ -256,13 +282,13 @@ De minister wijst een aanvraag voor een subsidie af voor zover:
 
 3. De subsidieaanvrager dient het verzoek tot subsidievaststelling in door middel van het daartoe bestemde elektronisch formulier op [www.uitvoeringvanbeleidszw.nl](http://www.uitvoeringvanbeleidszw.nl).
 
-#### Artikel 16. Verplichtingen subsidieontvanger
+##### Artikel 16. Verplichtingen subsidieontvanger
 
 1. Indien in de activiteit gebruik wordt gemaakt van vrijwilligers, wordt een vrijwilligersovereenkomst afgesloten.
 
 2. Voor activiteiten als bedoeld in [artikel 6, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049978&artikel=6&z=2025-11-01&g=2025-11-01), wordt een urenadministratie bijgehouden.
 
-#### Artikel 17. Inwerkingtreding
+##### Artikel 17. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van 11 augustus 2025 en vervalt met ingang van 4 mei 2028.
 

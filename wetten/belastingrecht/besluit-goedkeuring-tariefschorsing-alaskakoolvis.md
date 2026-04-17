@@ -1,18 +1,43 @@
 ---
 title: "Besluit goedkeuring tariefschorsing Alaskakoolvis"
 identifier: "BWBR0021871"
-categorie: "Belastingrecht"
-publicatiedatum: 2007-05-23
-laatste_update: 2007-05-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0021871"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2007-05-23"
+last_updated: "2007-05-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0021871"
+soort: "ministeriele-regeling"
+stam_id: "9078743"
+version_id: "14486552"
+internal_id: "C19703531"
+label_id: "9057634"
+dtd_version: "2.0"
+original_entry_into_force: "2007-05-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0021871/2007-05-23/0"
+intitule_bron: "Stcrt.2007-95"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-05-10"
+intitule_published: "2007-05-21"
+intitule_in_force: "2007-05-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-95"
+original_signed_date: "2007-05-10"
+original_published_date: "2007-05-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-95-p6-SC80494"
+entry_into_force_date: "2007-05-23"
+jci_1_3: "jci1.3:c:BWBR0021871&z=2007-05-23&g=2007-05-23"
+jci_1_0: "1.0:c:BWBR0021871&g=2007-05-23"
+citeertitel_status: "redactioneel"
+signed_date: "2007-05-10"
+entry_into_force: "2007-05-23"
 ---
-
 # Besluit goedkeuring tariefschorsing Alaskakoolvis
 
 In dit besluit wordt goedgekeurd dat de tariefschorsing voor de Alaskakoolvis (Theragra chalcogramma) niet alleen wordt toegepast op vis die is bevroren, in de vorm van industriële blokken, maar ook op vis die individueel is ingevroren. Uitgangspunt blijft uiteraard dat de ingevoerde Alaskakoolvis (Theragra chalcogramma) wordt ingevoerd met het doel te dienen als grondstof voor de verwerkende visindustrie en wordt verwerkt volgens de bepalingen in Verordening (EG) nr. 104/2000.
 
-#### 1. Alaska koolvis, bevroren, bestemd voor industriële verwerking
+##### 1. Alaska koolvis, bevroren, bestemd voor industriële verwerking
 
 [Verordening (EG) nr. 104/2000](32000R0104) van de Raad van 17 december 1999 (hierna: de Verordening), houdende een gemeenschappelijke ordening der markten in de sector visserijproducten en producten van de aquacultuur, voorziet in artikel 28, juncto bijlage VI, in een autonome schorsing van het douanerecht voor Alaskakoolvis (Theragra chalcogramma) (goederencodes 0304.2985.10, 0304 9975 10, vóór 1 januari 2007 goederencodes 0304.2085.10, 0304 9061 10). De schorsing geldt voor bevroren Alaskakoolvis (Theragra chalcogramma), visfilets en visvlees, in de vorm van industriële blokken, bestemd voor verwerking in de visindustrie. Deze schorsing beoogt blijkens artikel 28 ‘een toereikende voorziening van de Gemeenschapsmarkt met grondstoffen voor de verwerkende industrie te waarborgen’.
 
@@ -24,7 +49,7 @@ Gelet op de toenemende behoefte van de verwerkende industrie aan op andere wijze
 
 Hierbij zijn de voorwaarden en bepalingen van kracht van de artikelen 291 t/m 330 van Verordening (EEG) nr. 2454/93 (Toepassingsverordening Communautair Douanewetboek)
 
-#### 2. Inwerkingtreding
+##### 2. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst. Dit besluit kan tevens worden toegepast in situaties waarin de belastingheffing nog niet onherroepelijk vast staat, ten gevolge van een lopende bezwaar- of beroepsprocedure.
 

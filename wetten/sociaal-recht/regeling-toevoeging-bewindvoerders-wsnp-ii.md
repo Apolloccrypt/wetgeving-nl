@@ -1,13 +1,38 @@
 ---
 title: "Regeling toevoeging bewindvoerders Wsnp II"
 identifier: "BWBR0041256"
-categorie: "Sociaal recht"
-publicatiedatum: 2023-07-26
-laatste_update: 2023-07-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041256"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-07-26"
+last_updated: "2023-07-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041256"
+soort: "zbo"
+stam_id: "14699133"
+version_id: "25184942"
+internal_id: "C36014161"
+label_id: "14651354"
+dtd_version: "2.0"
+original_entry_into_force: "2018-08-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041256/2023-07-26/0"
+intitule_bron: "Stcrt.2018-46882"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-08-09"
+intitule_published: "2018-08-21"
+intitule_in_force: "2018-08-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-46882"
+original_signed_date: "2018-08-09"
+original_published_date: "2018-08-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-46882"
+entry_into_force_date: "2018-08-21"
+jci_1_3: "jci1.3:c:BWBR0041256&z=2023-07-26&g=2023-07-26"
+jci_1_0: "1.0:c:BWBR0041256&g=2023-07-26"
+citeertitel_status: "officieel"
+signed_date: "2018-08-09"
+entry_into_force: "2018-08-21"
 ---
-
 # Regeling toevoeging bewindvoerders Wsnp II
 
 Gelet op [artikelen 13 lid 1 sub c van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=13) (Wrb), en [artikel 39 van het Besluit vergoedingen rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=39);
@@ -18,7 +43,7 @@ Voor dit doel sluit de Raad voor Rechtsbijstand overeenkomsten tot het verlenen 
 
 En heeft daartoe de volgende regeling vastgesteld:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -46,7 +71,7 @@ In deze regeling wordt verstaan onder:
 
 - 9. **Besluit vergoedingen:** [Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018) (Bvr 2000).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Raad sluit een overeenkomst met bewindvoerders die aan de volgende voorwaarden voldoen:
 
@@ -60,7 +85,7 @@ In deze regeling wordt verstaan onder:
 
 2. De Raad kan in zwaarwegende omstandigheden de overeenkomst weigeren aan te gaan indien uit concrete feiten of omstandigheden is gebleken, al dan niet naar aanleiding van een eerder advies van de klachtencommissie, van enig handelen of nalaten in strijd met een zorgvuldige en doelmatige rechtsbijstandverlening en/of niet hebben voldaan aan de voorwaarden genoemd in [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041256&artikel=3&z=2023-07-26&g=2023-07-26).
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Raad kan besluiten de overeenkomst met een opzegtermijn van één maand te beëindigen indien:
 
@@ -88,7 +113,7 @@ In deze regeling wordt verstaan onder:
 
 3. De beëindiging van de overeenkomst geldt voor een periode van minimaal één jaar. Voor het sluiten van een nieuwe overeenkomst gelden de voorwaarden zoals benoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041256&artikel=2&z=2023-07-26&g=2023-07-26) van deze regeling.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De bewindvoerder dient de zaken waarin hij is toegevoegd persoonlijk te behandelen.
 
@@ -100,11 +125,11 @@ In deze regeling wordt verstaan onder:
 
 5. De vergoeding wordt altijd uitgekeerd aan de laatste bewindvoerder. Verrekening dient, zonder tussenkomst van de Raad, onderling plaats te vinden.
 
-#### Artikel 5
+##### Artikel 5
 
 De rechtsbijstand waarvoor een toevoeging kan worden verleend, is strikt beperkt tot het voeren van verzoekschriftenprocedures, zoals bedoeld in [artikel 1 lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041256&artikel=1&z=2023-07-26&g=2023-07-26).
 
-#### Artikel 6
+##### Artikel 6
 
 1. In afwijking van het bepaalde in het [Besluit vergoedingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011018) bedraagt de vergoeding:
 
@@ -128,18 +153,18 @@ De rechtsbijstand waarvoor een toevoeging kan worden verleend, is strikt beperkt
 
 7. Naast de vergoeding kent de Raad de bewindvoerder bij een volledige procedure ook een reistijd- en reiskostenvergoeding toe zoals genoemd in [artikel 24 BVR 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=24) en [artikel 25 BVR 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=25). Daarnaast kent de Raad de bewindvoerder een kostenvergoeding toe zoals genoemd in [artikel 27 BVR 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=27).
 
-#### Artikel 7
+##### Artikel 7
 
 1. De ‘[Regeling toevoeging bewindvoerders Wsnp](https://wetten.overheid.nl/jci1.3:c:BWBR0032910)’ (Staatscourant 2013, 4557) vervalt bij de inwerkingtreding van dit besluit;
 
 2. Verzoeken tot aanmelding voor de overeenkomst die zijn ingediend bij de Raad vóór de inwerkingtreding van dit besluit en waarvan het besluit van de Raad wordt genomen ná de inwerkingtreding van dit besluit, worden afgehandeld conform Regeling toevoeging bewindvoerders Wsnp II.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling wordt aangehaald als ‘Regeling toevoeging bewindvoerders Wsnp II’.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking vanaf de publicatiedatum in de Staatscourant.

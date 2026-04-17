@@ -1,13 +1,39 @@
 ---
-title: "Mandaatbesluit DCMR ter uitvoering van de Overeenkomst uitvoering VROM-taken door DCMR"
+title: "Besluit van de Minister van Infrastructuur en Milieu, nr. IENM/BSK-2011/177402, tot het verlenen van mandaat, volmacht en machtiging aan de directeur van de DCMR Milieudienst Rijnmond ter uitvoering van de ‘Overeenkomst uitvoering VROM-taken door DCMR’ tussen de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer¹ en de DCMR Milieudienst Rijnmond van 26 november 2009, hierna ‘de overeenkomst’ en het addendum op de overeenkomst, hierna het ‘addendum’"
 identifier: "BWBR0031467"
-categorie: "Bestuursrecht"
-publicatiedatum: 2012-04-19
-laatste_update: 2012-04-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031467"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2012-04-19"
+last_updated: "2012-04-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031467"
+soort: "ministeriele-regeling"
+stam_id: "11712533"
+version_id: "19341032"
+internal_id: "C27016671"
+label_id: "11685164"
+dtd_version: "2.0"
+original_entry_into_force: "2012-04-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031467/2012-04-19/0"
+intitule_bron: "Stcrt.2012-7738"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-11-26"
+intitule_published: "2012-04-18"
+intitule_in_force: "2012-04-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-7738"
+original_signed_date: "2009-11-26"
+original_published_date: "2012-04-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-7738"
+entry_into_force_date: "2012-04-19"
+jci_1_3: "jci1.3:c:BWBR0031467&z=2012-04-19&g=2012-04-19"
+jci_1_0: "1.0:c:BWBR0031467&g=2012-04-19"
+citeertitel_status: "officieel"
+short_title: "Mandaatbesluit DCMR ter uitvoering van de Overeenkomst uitvoering VROM-taken door DCMR"
+signed_date: "2009-11-26"
+entry_into_force: "2012-04-19"
 ---
-
 # Besluit van de Minister van Infrastructuur en Milieu, nr. IENM/BSK-2011/177402, tot het verlenen van mandaat, volmacht en machtiging aan de directeur van de DCMR Milieudienst Rijnmond ter uitvoering van de ‘Overeenkomst uitvoering VROM-taken door DCMR’ tussen de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer¹ en de DCMR Milieudienst Rijnmond van 26 november 2009, hierna ‘de overeenkomst’ en het addendum op de overeenkomst, hierna het ‘addendum’
 
 ¹ Het voormalige Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer is per 14 oktober 2010 opgegaan in het nieuwe Ministerie van Infrastructuur en Milieu.
@@ -16,7 +42,7 @@ Gezien de schriftelijke instemming van de directeur van de DCMR Milieudienst Rij
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Aan de directeur van de DCMR Milieudienst Rijnmond wordt mandaat verleend tot:
 
@@ -24,11 +50,11 @@ Aan de directeur van de DCMR Milieudienst Rijnmond wordt mandaat verleend tot:
 
 - b. het nemen van besluiten op verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), met uitzondering van verzoeken om informatie, die niet of niet geheel worden gehonoreerd of waarvan de inwilliging belangrijke maatschappelijke of politieke gevolgen kan hebben of waarbij de geldende voorschriften ruimte laten voor verschillende uitleg over de vraag of een verzoek om informatie al dan niet behoort te worden ingewilligd.
 
-#### Artikel 2
+##### Artikel 2
 
 De directeur van de DCMR Milieudienst Rijnmond kan met betrekking tot zijn bevoegdheden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031467&artikel=1&z=2012-04-19&g=2012-04-19), ondermandaat, volmacht en machtiging verlenen aan een of meer onder hem ressorterende functionarissen.
 
-#### Artikel 3
+##### Artikel 3
 
 Indien uitvoering wordt gegeven aan [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031467&artikel=1&z=2012-04-19&g=2012-04-19) luidt de ondertekening:
 
@@ -40,7 +66,7 @@ de directeur van de DCMR Milieudienst Rijnmond,
 
 (gevolgd door de handtekening en de naam).
 
-#### Artikel 4
+##### Artikel 4
 
 Indien uitvoering wordt gegeven aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031467&artikel=2&z=2012-04-19&g=2012-04-19) luidt de ondertekening:
 
@@ -54,11 +80,11 @@ op last:
 
 (gevolgd door de functieaanduiding, de handtekening en de naam van de betrokken functionaris aan wie ondermandaat is verleend).
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het, tezamen met de overeenkomst met addendum, wordt geplaatst.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: ‘Mandaatbesluit DCMR ter uitvoering van de Overeenkomst uitvoering VROM-taken door DCMR’.
 

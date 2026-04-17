@@ -1,20 +1,46 @@
 ---
-title: "Mandaatbesluit IND Ministerie van Justitie en Veiligheid 2022"
+title: "Besluit van de directeur-generaal Immigratie- en Naturalisatiedienst van het Ministerie van Justitie en Veiligheid van 1 maart 2022, Digijustnummer 3878126 houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de directeur-generaal ressorterende functionarissen (Mandaatbesluit IND Ministerie van Justitie en Veiligheid 2022)"
 identifier: "BWBR0046393"
-categorie: "Strafrecht"
-publicatiedatum: 2026-03-01
-laatste_update: 2026-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046393"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-01"
+last_updated: "2026-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046393"
+soort: "ministeriele-regeling"
+stam_id: "16287513"
+version_id: "31290382"
+internal_id: "C44736581"
+label_id: "16213814"
+dtd_version: "2.0"
+original_entry_into_force: "2026-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046393/2026-03-01/0"
+intitule_bron: "Stcrt.2022-6512"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-03-01"
+intitule_published: "2022-03-07"
+intitule_in_force: "2022-03-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-695"
+original_signed_date: "2026-01-04"
+original_published_date: "2026-01-09"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2026-695"
+entry_into_force_date: "2026-03-01"
+jci_1_3: "jci1.3:c:BWBR0046393&z=2026-03-01&g=2026-03-01"
+jci_1_0: "1.0:c:BWBR0046393&g=2026-03-01"
+citeertitel_status: "officieel"
+short_title: "Mandaatbesluit IND Ministerie van Justitie en Veiligheid 2022"
+signed_date: "2026-01-04"
+entry_into_force: "2026-03-01"
 ---
-
 # Besluit van de directeur-generaal Immigratie- en Naturalisatiedienst van het Ministerie van Justitie en Veiligheid van 1 maart 2022, Digijustnummer 3878126 houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de directeur-generaal ressorterende functionarissen (Mandaatbesluit IND Ministerie van Justitie en Veiligheid 2022)
 
 Gelet op [artikel 3, eerste lid onder b, van de Mandaatbesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=3);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Van het ingevolge [artikel 1 van het Mandaatbesluit hoofden taakorganisaties Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1) aan de directeur-generaal Immigratie- en Naturalisatiedienst verleende ondermandaat wordt ten aanzien van de aangelegenheden die hun directie, bureau of programma betreffen ondermandaat verleend aan:
 
@@ -38,23 +64,23 @@ Van het ingevolge [artikel 1 van het Mandaatbesluit hoofden taakorganisaties Min
 
 - j. het hoofd Bestuurszaken.
 
-#### Artikel 2
+##### Artikel 2
 
 Als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hen ressorterende functionarissen worden aangewezen en volmacht verleend aan de functionarissen met een functie genoemd in de [kolommen A tot en met D van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046393&bijlage=1&z=2026-03-01&g=2026-03-01) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden vermeld in kolom F van die bijlage.
 
-#### Artikel 3
+##### Artikel 3
 
 Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven worden aangewezen de functionarissen met een functie genoemd in de [kolommen A tot en met D van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046393&bijlage=1&z=2026-03-01&g=2026-03-01) bij dit besluit, voor zover het betreft de bedragen genoemd in kolom G van die bijlage.
 
-#### Artikel 4
+##### Artikel 4
 
 Als bevoegd om besluiten te nemen bij of krachtens de [Vreemdelingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823), de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738), de [Wet vaststellingsprocedure staatloosheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048458) en de [Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571), alsmede daaraan gerelateerde besluiten op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), de Algemene Verordening Gegevensbescherming en de [Uitvoeringswet Algemene Verordening Gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940), verzoeken om schadevergoeding, en de behandeling van klachten worden aangewezen de functionarissen met een functie genoemd in de [kolommen A tot en met D van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046393&bijlage=1&z=2026-03-01&g=2026-03-01) bij dit besluit en de onder hen ressorterende functionarissen, voor zover het betreft de rechtshandelingen genoemd in de kolommen H tot en met J van die bijlage.
 
-#### Artikel 5
+##### Artikel 5
 
 Als bevoegd om besluiten te nemen bij of krachtens de [Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571) en de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738), alsmede daaraan gerelateerde besluiten, worden aangewezen de functionarissen werkzaam voor de Immigratie- en Naturalisatiedienst Caribisch Nederland ressorterend onder de Rijksdienst Caribisch Nederland.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Als bevoegd tot het nemen van besluiten inzake buitenlandse dienstreizen binnen Europa, uitgezonderd Turkije, worden ten aanzien van de onder hen ressorterende functionarissen aangewezen de functionarissen genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046393&artikel=1&z=2026-03-01&g=2026-03-01).
 
@@ -64,7 +90,7 @@ Als bevoegd om besluiten te nemen bij of krachtens de [Wet toelating en uitzetti
 
 4. Andere functionarissen dan genoemd in de voorgaande leden van dit artikel zijn niet bevoegd tot het nemen van besluiten inzake buitenlandse dienstreizen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Aan de directeur-generaal blijft voorbehouden:
 
@@ -94,7 +120,7 @@ Als bevoegd om besluiten te nemen bij of krachtens de [Wet toelating en uitzetti
 
 5. Onverminderd het eerste lid wordt aan de directeuren en hoofden de bevoegdheid voorbehouden tot het toekennen van een schadeloosstelling aan functionarissen, die gebaseerd is op het Burgerlijk Wetboek, voor zover de schadeloosstelling betrekking heeft op materiële schade en het bedrag van € 10.000 niet overstijgt.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Aan de directeur-generaal blijft voorbehouden:
 
@@ -124,7 +150,7 @@ Als bevoegd om besluiten te nemen bij of krachtens de [Wet toelating en uitzetti
 
 5. Onverminderd het eerste lid wordt aan de directeuren en hoofden de bevoegdheid voorbehouden tot het toekennen van een schadeloosstelling aan functionarissen, die gebaseerd is op het Burgerlijk Wetboek, voor zover de schadeloosstelling betrekking heeft op materiële schade en het bedrag van € 10.000 niet overstijgt.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Bij verhindering of afwezigheid van de directeur-generaal treedt een lid van de Hoofddirectie in alle facetten als directeur-generaal op.
 
@@ -136,11 +162,11 @@ Als bevoegd om besluiten te nemen bij of krachtens de [Wet toelating en uitzetti
 
 5. De in [artikel 1, onder c tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0046393&artikel=1&z=2026-03-01&g=2026-03-01) genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars, in artikel 1 genoemde bevoegdheden.
 
-#### Artikel 9
+##### Artikel 9
 
 Het [Mandaatbesluit IND Ministerie van Justitie en Veiligheid 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045310) van 23 juni 2021 wordt ingetrokken.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot 1 februari 2022.
 
@@ -262,6 +288,6 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit wordt aangehaald als: Mandaatbesluit IND Ministerie van Justitie en Veiligheid 2022

@@ -1,13 +1,39 @@
 ---
-title: "Regeling gevaarlijke stoffen in elektrische en elektronische apparatuur"
+title: "Regeling van de Staatssecretaris van Milieu van 11 december 2012, nr. IENM/BSK-2012/218548 houdende regels met betrekking tot beperking van het gebruik van bepaalde gevaarlijke stoffen in elektrische en elektronische apparatuur (Regeling gevaarlijke stoffen in elektrische en elektronische apparatuur)"
 identifier: "BWBR0032405"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032405"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032405"
+soort: "ministeriele-regeling"
+stam_id: "11941853"
+version_id: "29338712"
+internal_id: "C41869301"
+label_id: "11913894"
+dtd_version: "2.0"
+original_entry_into_force: "2023-04-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032405/2024-01-01/0"
+intitule_bron: "Stcrt.2012-23695"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-11"
+intitule_published: "2012-12-12"
+intitule_in_force: "2012-12-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-10014"
+original_signed_date: "2023-04-06"
+original_published_date: "2023-04-14"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2023-10014"
+entry_into_force_date: "2023-04-19"
+jci_1_3: "jci1.3:c:BWBR0032405&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0032405&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling gevaarlijke stoffen in elektrische en elektronische apparatuur"
+signed_date: "2023-04-06"
+entry_into_force: "2023-04-19"
 ---
-
 # Regeling van de Staatssecretaris van Milieu van 11 december 2012, nr. IENM/BSK-2012/218548 houdende regels met betrekking tot beperking van het gebruik van bepaalde gevaarlijke stoffen in elektrische en elektronische apparatuur (Regeling gevaarlijke stoffen in elektrische en elektronische apparatuur)
 
 Gelet op [richtlijn nr. 2011/65](32011L0065)/EU van het Europees Parlement en de Raad van 8 juni 2011 betreffende beperking van het gebruik van bepaalde gevaarlijke stoffen in elektrische en elektronische apparatuur (PbEU 2011, L 174/88) en de [artikelen 9.2.2.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1) en [21.6, zesde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=21.6);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. **Begripsbepalingen en reikwijdte**
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -86,7 +112,7 @@ Besluit:
 
 2. Voor de toepassing van deze regeling wordt, voor zover dat voor de toepassing van de EU-verordening markttoezicht noodzakelijk is, verstaan onder gemachtigde en marktdeelnemer hetgeen daaronder in artikel 3, onderdelen 12 en 13, van die verordening wordt verstaan.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze regeling is van toepassing op alle elektrische en elektronische apparatuur die valt binnen de in bijlage I van [richtlijn nr. 2011/65](32011L0065)/EU genoemde categorieën.
 
@@ -116,7 +142,7 @@ Besluit:
 
 #### § 2. **Verbodsbepalingen**
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het in de handel brengen van elektrische en elektronische apparatuur, met inbegrip van kabels en reserveonderdelen voor het repareren, het hergebruiken, het aanpassen van de functionele aspecten of het verbeteren van de capaciteit ervan, is verboden indien deze in bijlage II van [richtlijn nr. 2011/65](32011L0065)/EU opgenomen stoffen bevat, waarbij in een homogeen materiaal de in bedoelde bijlage II genoemde maximale concentratiewaarden worden overschreden.
 
@@ -162,7 +188,7 @@ Besluit:
 
 #### § 3. **Verplichtingen marktpartijen**
 
-#### Artikel 4. Verplichtingen van fabrikanten
+##### Artikel 4. Verplichtingen van fabrikanten
 
 1. Fabrikanten die elektrische en elektronische apparatuur in de handel brengen:
 
@@ -196,7 +222,7 @@ Besluit:
 
 10. Een fabrikant verstrekt op een met redenen omkleed verzoek van het bevoegd gezag, alle benodigde informatie en documentatie om het voldoen aan deze regeling aan te tonen, in een taal die het bevoegd gezag gemakkelijk kan begrijpen, en verleent op verzoek van het bevoegd gezag medewerking aan alle genomen maatregelen om te zorgen dat de door hem in de handel gebrachte elektrische en elektronische apparatuur voldoet aan deze regeling.
 
-#### Artikel 5. Verplichtingen van gemachtigden
+##### Artikel 5. Verplichtingen van gemachtigden
 
 1. Een fabrikant kan met een schriftelijk mandaat een gemachtigde aanstellen die ten minste de volgende taken verricht:
 
@@ -208,7 +234,7 @@ Besluit:
 
 2. De verplichtingen uit hoofde van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2a&artikel=3&z=2024-01-01&g=2024-01-01) en het opstellen van technische documentatie maken geen deel uit van het mandaat van de gemachtigde.
 
-#### Artikel 6. Verplichtingen van importeurs
+##### Artikel 6. Verplichtingen van importeurs
 
 1. Importeurs dragen zorg voor dat alvorens zij elektrische en elektronische apparatuur in de handel brengen:
 
@@ -240,7 +266,7 @@ Besluit:
 
 8. Een importeur verstrekt op een met redenen omkleed verzoek van het bevoegd gezag, alle benodigde informatie en documentatie om het voldoen aan deze regeling aan te tonen, in een taal die het bevoegd gezag gemakkelijk kan begrijpen, en verleent op verzoek van het bevoegd gezag medewerking aan alle genomen maatregelen om te zorgen dat de door hem in de handel gebrachte elektrische en elektronische apparatuur voldoet aan deze regeling.
 
-#### Artikel 7. Verplichtingen distributeurs
+##### Artikel 7. Verplichtingen distributeurs
 
 1. Distributeurs dragen zorg voor dat alvorens zij elektrische en elektronische apparatuur op de markt aanbieden:
 
@@ -262,11 +288,11 @@ Besluit:
 
 #### § 4. **Identificatie en markering**
 
-#### Artikel 8. Gevallen waarin de verplichtingen van fabrikanten van toepassing zijn op importeurs en distributeurs
+##### Artikel 8. Gevallen waarin de verplichtingen van fabrikanten van toepassing zijn op importeurs en distributeurs
 
 Importeurs of distributeurs worden als fabrikant beschouwd en dienen te voldoen aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2a&artikel=3&z=2024-01-01&g=2024-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=3&artikel=4&z=2024-01-01&g=2024-01-01) indien zij elektrische en elektronische apparatuur onder eigen naam of merknaam in de handel brengen of reeds in de handel gebrachte elektrische en elektronische apparatuur zodanig wijzigt dat overeenstemming met deze regeling niet meer vaststaat.
 
-#### Artikel 9. Identificatie van marktdeelnemers
+##### Artikel 9. Identificatie van marktdeelnemers
 
 Marktdeelnemers verstrekken op verzoek van het bevoegd gezag gedurende een periode van 10 jaar na het in de handel brengen van de elektrische en elektronische apparatuur gegevens betreffende:
 
@@ -274,7 +300,7 @@ Marktdeelnemers verstrekken op verzoek van het bevoegd gezag gedurende een perio
 
 - b. aan welke marktdeelnemer bepaalde elektrische en elektronische apparatuur is geleverd.
 
-#### Artikel 10. Eu-conformiteitsverklaring
+##### Artikel 10. Eu-conformiteitsverklaring
 
 1. In de EU-conformiteitsverklaring bij elektrische en elektronische apparatuur wordt vermeld dat aangetoond is dat niet in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032405&paragraaf=2a&artikel=3&z=2024-01-01&g=2024-01-01) is gehandeld.
 
@@ -286,17 +312,17 @@ Marktdeelnemers verstrekken op verzoek van het bevoegd gezag gedurende een perio
 
 5. Door het opstellen van een EU-conformiteitsverklaring neemt de fabrikant de verantwoordelijkheid voor de conformiteit van de elektrische en elektronische apparatuur met deze regeling.
 
-#### Artikel 11. Algemene beginselen van de CE-markering
+##### Artikel 11. Algemene beginselen van de CE-markering
 
 De CE-markering van elektrische en elektronische apparatuur voldoet aan de algemene beginselen die zijn vastgesteld in artikel 30 van [verordening (EG) nr. 765/2008](32008R0765) van het Europees Parlement en de Raad van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van [Verordening (EEG) nr. 339/93](31993R0339) (PbEU 2008, L 218/30).
 
-#### Artikel 12. Eisen voor het aanbrengen van de CE-markering
+##### Artikel 12. Eisen voor het aanbrengen van de CE-markering
 
 1. De CE-markering wordt voor het in de handel brengen zichtbaar, leesbaar en onuitwisbaar op de afgewerkte elektrische en elektronische apparatuur of op het gegevensplaatje aangebracht.
 
 2. Indien dit door de aard van de elektrische en elektronische apparatuur niet mogelijk of gerechtvaardigd is, wordt de CE-markering aangebracht op de verpakking en in de begeleidende documenten.
 
-#### Artikel 13. Vermoeden van overeenstemming
+##### Artikel 13. Vermoeden van overeenstemming
 
 1. Indien het bewijs van het tegendeel ontbreekt, wordt door het bevoegd gezag verondersteld dat elektrische en elektronische apparatuur die van een CE-markering is voorzien, voldoet aan deze regeling.
 
@@ -304,27 +330,27 @@ De CE-markering van elektrische en elektronische apparatuur voldoet aan de algem
 
 #### § 4*. **Overgangsrecht**
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
 #### § 5. **Slotbepalingen**
 
-#### Artikel 15
+##### Artikel 15
 
 Een wijziging van de bijlagen bij [richtlijn nr. 2011/65](32011L0065)/EU gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan die wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling treedt in werking op 2 januari 2013.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze regeling wordt aangehaald als: Regeling gevaarlijke stoffen in elektrische en elektronische apparatuur.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Deze regeling berust mede op [artikel 21.6, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=21.6).
 
@@ -340,7 +366,7 @@ Deze regeling berust mede op [artikel 21.6, vierde lid, van de Wet milieubeheer]
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Het is verboden elektrische en elektronische apparatuur in de handel te brengen in strijd met artikel 4, eerste lid, van de EU-verordening markttoezicht.
 
@@ -348,7 +374,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. Het is de gemachtigde, bedoeld in het tweede lid, verboden te handelen in strijd met artikel 5, tweede lid, van de EU-verordening markttoezicht.
 
-#### Artikel 2b
+##### Artikel 2b
 
 1. Het is een marktdeelnemer die betrokken is of is geweest bij het op de markt aanbieden van elektrische en elektronische apparatuur, verboden in strijd te handelen met artikel 7, eerste lid, van de EU-verordening markttoezicht.
 

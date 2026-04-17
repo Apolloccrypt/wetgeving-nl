@@ -1,13 +1,38 @@
 ---
 title: "Regeling inzage- en correctierecht UWV 2018"
 identifier: "BWBR0040934"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2018-05-25
-laatste_update: 2018-05-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040934"
+country: "nl"
+rank: "zbo"
+publication_date: "2018-05-25"
+last_updated: "2018-05-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040934"
+soort: "zbo"
+stam_id: "14615313"
+version_id: "25024742"
+internal_id: "C35789511"
+label_id: "14568874"
+dtd_version: "2.0"
+original_entry_into_force: "2018-05-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040934/2018-05-25/0"
+intitule_bron: "Stcrt.2018-28604"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-05-15"
+intitule_published: "2018-05-24"
+intitule_in_force: "2018-05-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-28604"
+original_signed_date: "2018-05-15"
+original_published_date: "2018-05-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-28604"
+entry_into_force_date: "2018-05-25"
+jci_1_3: "jci1.3:c:BWBR0040934&z=2018-05-25&g=2018-05-25"
+jci_1_0: "1.0:c:BWBR0040934&g=2018-05-25"
+citeertitel_status: "officieel"
+signed_date: "2018-05-15"
+entry_into_force: "2018-05-25"
 ---
-
 # Regeling inzage- en correctierecht UWV 2018
 
 Gelet op hoofdstuk III Algemene Verordening Gegevensbescherming
@@ -16,7 +41,7 @@ BESLUIT
 
 #### § 1. Definities
 
-#### Artikel 1. Definities en toepassingsbereik
+##### Artikel 1. Definities en toepassingsbereik
 
 1. Deze regeling is van toepassing op verzoeken om inzage in en correctie van persoonsgegevens die verwerkt worden in het kader van de uitvoering van de wettelijke taken door UWV.
 
@@ -48,7 +73,7 @@ BESLUIT
 
 #### § 2. Indiening en in behandeling neming verzoeken
 
-#### Artikel 2. Indiening van verzoeken
+##### Artikel 2. Indiening van verzoeken
 
 1. De betrokkene heeft het recht vrijelijk en met redelijke tussenpozen een schriftelijk verzoek om inzage in en correctie van zijn persoonsgegevens in te dienen.
 
@@ -68,17 +93,17 @@ BESLUIT
 
 5. Het verzoek om inzage dan wel correctie moet worden ingediend bij een UWV-vestiging.
 
-#### Artikel 3. Kosten van verzoeken
+##### Artikel 3. Kosten van verzoeken
 
 Aan een verzoek om inzage en een verzoek om correctie zijn geen kosten verbonden.
 
-#### Artikel 4. Berichtgeving ontvangst
+##### Artikel 4. Berichtgeving ontvangst
 
 1. Binnen vijf werkdagen na ontvangst van een verzoek verstuurt UWV een ontvangstbevestiging.
 
 2. De ontvangstbevestiging bevat tenminste de naam van een contactpersoon, een beschrijving van de procedure en de te verwachten behandelingsduur van het verzoek.
 
-#### Artikel 5. Toets op in behandeling nemen
+##### Artikel 5. Toets op in behandeling nemen
 
 1. UWV betrekt bij de behandeling van een verzoek om inzage en/of correctie slechts die verwerkingen waarvoor het is aan te merken als verwerkingsverantwoordelijke. Ingeval UWV constateert dat het verzoek mede of uitsluitend betrekking heeft op gegevens die bij een ander bestuursorgaan als verwerkingsverantwoordelijke berusten, zendt UWV het verzoek ter behandeling door naar dat andere bestuursorgaan. Verzoeker krijgt hiervan, bericht.
 
@@ -88,7 +113,7 @@ Aan een verzoek om inzage en een verzoek om correctie zijn geen kosten verbonden
 
 #### § 3. Procedure uitvoering inzage en correctie
 
-#### Artikel 6. Behandeling van verzoeken
+##### Artikel 6. Behandeling van verzoeken
 
 1. De verantwoordelijke (districts)manager van het organisatieonderdeel waarop het verzoek betrekking heeft en van de UWV-vestiging waar het verzoek is ingediend, dragen zorg voor afhandeling van een verzoek om inzage dan wel correctie.
 
@@ -100,7 +125,7 @@ Aan een verzoek om inzage en een verzoek om correctie zijn geen kosten verbonden
 
 5. Een verzoek om inzage in of correctie van gegevens uit een opsporingsdossier wordt in afwijking van het eerste lid doorgezonden naar het betrokken onderdeel van directie Handhaving (DHH) en beoordeeld krachtens de instructie DHH Inzage-en correctierecht.
 
-#### Artikel 7. Uitvoering inzageverzoek
+##### Artikel 7. Uitvoering inzageverzoek
 
 1. UWV deelt verzoeker schriftelijk onverwijld en in ieder geval binnen een maand na ontvangst van een verzoek, dat voldoet aan het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040934&paragraaf=2&artikel=2&z=2018-05-25&g=2018-05-25), mee of UWV persoonsgegevens over de betrokkene verwerkt en of dan wel in hoeverre het verzoek om inzage wordt ingewilligd.
 
@@ -158,7 +183,7 @@ Aan een verzoek om inzage en een verzoek om correctie zijn geen kosten verbonden
 
 8. De beslissing tot gehele of gedeeltelijke afwijzing van het verzoek om inzage vermeldt op welke gronden van het zesde lid een beperking van de inzage heeft plaatsgevonden.
 
-#### Artikel 8. Uitvoering correctieverzoek
+##### Artikel 8. Uitvoering correctieverzoek
 
 1. UWV zal een verzoek om correctie slechts honoreren voor zover de opgenomen gegevens feitelijk onjuist zijn of voor het doel of doeleinden van de verwerking onvolledig of niet ter zake dienend dan wel anderszins in strijd met een wettelijk voorschrift zijn verwerkt.
 
@@ -178,21 +203,21 @@ Aan een verzoek om inzage en een verzoek om correctie zijn geen kosten verbonden
 
 #### § 4. Slotbepalingen
 
-#### Artikel 9. Bezwaar en bemiddeling
+##### Artikel 9. Bezwaar en bemiddeling
 
 1. UWV wijst verzoeker in zijn beslissing op de mogelijkheid bezwaar aan te tekenen tegen besluiten die het op grond van deze regeling neemt.
 
 2. UWV wijst verzoeker in de beslissing op bezwaar op de mogelijkheid daartegen beroep aan te tekenen dan wel een verzoek tot bemiddeling in te dienen bij de Autoriteit Persoonsgegevens.
 
-#### Artikel 10. Intrekking
+##### Artikel 10. Intrekking
 
 De [Regeling inzage- en correctierecht UWV](https://wetten.overheid.nl/jci1.3:c:BWBR0026231) wordt ingetrokken.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regeling kan worden aangehaald als: Regeling inzage- en correctierecht UWV 2018.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 25 mei 2018.
 

@@ -1,13 +1,38 @@
 ---
 title: "Vervangingsbesluit personele archiefbescheiden Justitie en Veiligheid"
 identifier: "BWBR0052451"
-categorie: "Strafrecht"
-publicatiedatum: 2026-03-26
-laatste_update: 2026-03-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052451"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-26"
+last_updated: "2026-03-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052451"
+soort: "ministeriele-regeling"
+stam_id: "17819093"
+version_id: "31495392"
+internal_id: "C44976261"
+label_id: "17716274"
+dtd_version: "2.0"
+original_entry_into_force: "2026-03-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052451/2026-03-26/0"
+intitule_bron: "Stcrt.2026-11374"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-02-27"
+intitule_published: "2026-03-25"
+intitule_in_force: "2026-03-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-11374"
+original_signed_date: "2026-02-27"
+original_published_date: "2026-03-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-11374"
+entry_into_force_date: "2026-03-26"
+jci_1_3: "jci1.3:c:BWBR0052451&z=2026-03-26&g=2026-03-26"
+jci_1_0: "1.0:c:BWBR0052451&g=2026-03-26"
+citeertitel_status: "officieel"
+signed_date: "2026-02-27"
+entry_into_force: "2026-03-26"
 ---
-
 # Vervangingsbesluit personele archiefbescheiden Justitie en Veiligheid
 
 Gelet op [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7), [artikel 6, eerste lid, van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=6) en [artikel 26b van de Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&artikel=26b);
@@ -16,23 +41,23 @@ met inachtneming van de Regeling van de Minister van Justitie van 19 april 2010,
 
 Besluit:
 
-#### Artikel 1. Reikwijdte
+##### Artikel 1. Reikwijdte
 
 Dit besluit heeft betrekking op archiefbescheiden op papier die behoren of zullen gaan behoren tot het personeelsdossier van de medewerkers van de Justitiële ICT Organisatie. Deze archiefbescheiden worden vervangen door digitale reproducties. Deze vervanging betreft alle papieren archiefbescheiden die betrekking hebben op personeelsgegevens en salarisgegevens zoals beschreven in het ‘Basisselectiedocument P-dossier is Mens-en-werk, 1945.
 
-#### Artikel 2
+##### Artikel 2
 
 De digitale vervanging geschiedt ten minste overeenkomstig de specificaties en instellingen zoals deze zijn opgenomen in de bijlage en op de wijze zoals beschreven in het Handboek Digitale Vervanging Personeelsdossiers.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd.
 
-#### Artikel 4
+##### Artikel 4
 
 De digitale reproductie wordt uitgevoerd door P-Direkt.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling kan worden aangehaald als Vervangingsbesluit personele archiefbescheiden Justitie en Veiligheid.
 

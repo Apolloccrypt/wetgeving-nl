@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling EFMB 2015–2023"
+title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 19 november 2014, houdende voorwaarden ter uitvoering van de Verordening voor Europese hulp aan de meest behoeftigen (Subsidieregeling EFMB 2015–2023)"
 identifier: "BWBR0035800"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-11-14
-laatste_update: 2018-11-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035800"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-11-14"
+last_updated: "2018-11-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035800"
+soort: "ministeriele-regeling"
+stam_id: "12853123"
+version_id: "21835172"
+internal_id: "C31339291"
+label_id: "12822914"
+dtd_version: "2.0"
+original_entry_into_force: "2014-11-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035800/2018-11-14/0"
+intitule_bron: "Stcrt.2014-33574"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-11-19"
+intitule_published: "2014-11-25"
+intitule_in_force: "2014-11-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-33574"
+original_signed_date: "2014-11-19"
+original_published_date: "2014-11-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-33574"
+entry_into_force_date: "2014-11-26"
+jci_1_3: "jci1.3:c:BWBR0035800&z=2018-11-14&g=2018-11-14"
+jci_1_0: "1.0:c:BWBR0035800&g=2018-11-14"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling EFMB 2015–2023"
+signed_date: "2014-11-19"
+entry_into_force: "2014-11-26"
 ---
-
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 19 november 2014, houdende voorwaarden ter uitvoering van de Verordening voor Europese hulp aan de meest behoeftigen (Subsidieregeling EFMB 2015–2023)
 
 Gelet op [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3), en [artikel 5 van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=5) en de Verordening (EU) nr. 223/2014 van het Europees Parlement en de Raad van 11 maart 2014 betreffende het Fonds voor Europese hulp aan de meest behoeftigen;
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -42,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **Verordening:** Verordening (EU) nr. 223/2014 van het Europees Parlement en de Raad van 11 maart 2014 betreffende het Fonds voor Europese hulp aan de meest behoeftigen.
 
-#### Artikel 2. Subsidie uit EFMB
+##### Artikel 2. Subsidie uit EFMB
 
 1. De minister verstrekt, overeenkomstig de Verordening en deze regeling, subsidie aan de nader krachtens deze regeling aangewezen aanvrager die een bijdrage levert aan de uitvoering van het EFMB, zoals is uitgewerkt in het operationeel programma. De minister neemt daarbij de Verordening in acht.
 
@@ -52,13 +78,13 @@ In deze regeling wordt verstaan onder:
 
 4. In geval van het niet vervullen van de voorwaarde, bedoeld in het derde lid, kan de minister de subsidieverlening aanpassen aan het gewijzigde operationeel programma, dat de instemming van de Europese Commissie heeft verkregen.
 
-#### Artikel 3. Subsidieplafond
+##### Artikel 3. Subsidieplafond
 
 1. Op basis van deze regeling wordt aan maximaal één partij subsidie verstrekt vanaf het moment van toekenning van de subsidie tot uiterlijk 31 december 2023.
 
 2. Voor de periode, bedoeld in het eerste lid, wordt het subsidieplafond op € 4.408.740,– gesteld.
 
-#### Artikel 4. Aanwijzing autoriteiten
+##### Artikel 4. Aanwijzing autoriteiten
 
 1. Als beheerautoriteit als bedoeld in artikel 31, eerste lid, van de Verordening wordt aangewezen de Minister van Sociale Zaken en Werkgelegenheid.
 
@@ -66,13 +92,13 @@ In deze regeling wordt verstaan onder:
 
 3. Als auditautoriteit als bedoeld in artikel 31, vierde lid, van de Verordening wordt aangewezen de Auditdienst Rijk van het Ministerie van Financiën.
 
-#### Artikel 5. Mandatering
+##### Artikel 5. Mandatering
 
 Vervallen
 
 ### Hoofdstuk 2. Subsidieverlening
 
-#### Artikel 6. Aanvraagprocedure
+##### Artikel 6. Aanvraagprocedure
 
 1. Een aanvraag tot verlening van subsidie voor de in deze regeling bedoelde projecten wordt uiterlijk 28 februari 2015 om 17:00 uur door de minister ontvangen.
 
@@ -82,17 +108,17 @@ Vervallen
 
 4. Om voor subsidie in aanmerking te komen, dient de aanvraag te voldoen aan de vereisten, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=7&z=2018-11-14&g=2018-11-14), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=8&z=2018-11-14&g=2018-11-14) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=9&z=2018-11-14&g=2018-11-14).
 
-#### Artikel 7. Aanvrager
+##### Artikel 7. Aanvrager
 
 De aanvrager is een rechtspersoon zonder winstoogmerk die – met het oog op het uit te voeren projectplan en de voorwaarden die aan de begunstigde gesteld worden op grond van deze regeling en de Verordening – beschikt over voldoende administratieve, financiële en operationele capaciteit.
 
-#### Artikel 8. Voorwaarden aanvraag
+##### Artikel 8. Voorwaarden aanvraag
 
 1. Uit het projectplan en de begroting blijkt dat door uitvoering van het project het in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=1&artikel=3&z=2018-11-14&g=2018-11-14), genoemde bedrag volledig benut wordt.
 
 2. Door het indienen van een aanvraag stemt de aanvrager er mee in dat het subsidiedossier met uitzondering van persoonsgegevens openbaar wordt gemaakt.
 
-#### Artikel 9. Eisen aan de in te dienen stukken
+##### Artikel 9. Eisen aan de in te dienen stukken
 
 1. In het projectplan geeft de aanvrager aan:
 
@@ -126,7 +152,7 @@ De aanvrager is een rechtspersoon zonder winstoogmerk die – met het oog op het
 
 4. In de beschrijving van de administratieve organisatie en interne controle geeft de aanvrager aan op welke wijze de projectorganisatie is vormgegeven, de administratie is ingericht en welke maatregelen hij neemt om er voor te zorgen dat hij aan de gestelde verantwoordingsvereisten, bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=4&artikel=17&z=2018-11-14&g=2018-11-14) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=4&artikel=18&z=2018-11-14&g=2018-11-14), kan voldoen.
 
-#### Artikel 10. Weigering van de subsidie
+##### Artikel 10. Weigering van de subsidie
 
 Een aanvraag tot verlening van subsidie wordt in ieder geval door de minister geweigerd indien:
 
@@ -140,7 +166,7 @@ Een aanvraag tot verlening van subsidie wordt in ieder geval door de minister ge
 
 - e. op voorhand blijkt dat dezelfde kosten reeds uit hoofde van nationale subsidieprogramma’s worden gefinancierd zodanig dat door de subsidieprogramma’s tezamen de totale financiering van de subsidiabele kosten meer dan 100% bedraagt.
 
-#### Artikel 11. subsidieverlening
+##### Artikel 11. subsidieverlening
 
 1. De minister beoordeelt de projectplannen van de aanvragers, voor zover deze niet reeds op basis van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=2&artikel=10&z=2018-11-14&g=2018-11-14) zijn afgewezen, inhoudelijk op basis van het beoordelingskader dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&bijlage=1&z=2018-11-14&g=2018-11-14).
 
@@ -164,7 +190,7 @@ Een aanvraag tot verlening van subsidie wordt in ieder geval door de minister ge
 
 ### Hoofdstuk 3. Subsidiabele kosten
 
-#### Artikel 12. Subsidiabele activiteiten
+##### Artikel 12. Subsidiabele activiteiten
 
 Activiteiten komen slechts voor subsidie in aanmerking indien zij:
 
@@ -172,7 +198,7 @@ Activiteiten komen slechts voor subsidie in aanmerking indien zij:
 
 - b. overeenstemmen met het in de beschikking tot verlening van subsidie vastgestelde projectplan.
 
-#### Artikel 13. Subsidiabele kosten
+##### Artikel 13. Subsidiabele kosten
 
 1. Voor subsidie komen kosten in aanmerking die zijn gemaakt en betaald ter uitvoering van de subsidiabele activiteiten en die rechtstreeks aan de uitvoering van het project zijn toe te rekenen.
 
@@ -188,7 +214,7 @@ Activiteiten komen slechts voor subsidie in aanmerking indien zij:
 
 4. De Minister stelt ambtshalve vast welke kostensoort, bedoeld in het eerste of derde lid, wordt toegepast, alsmede in hoeverre een eventuele combinatie van deze kostensoorten mogelijk is.
 
-#### Artikel 14. Niet-subsidiabele kosten
+##### Artikel 14. Niet-subsidiabele kosten
 
 Niet voor subsidie komen in aanmerking:
 
@@ -204,7 +230,7 @@ Niet voor subsidie komen in aanmerking:
 
 ### Hoofdstuk 4. Subsidieverstrekking en verantwoording
 
-#### Artikel 15. Bevoorschotting
+##### Artikel 15. Bevoorschotting
 
 1. Indien de subsidie wordt verleend, kan een voorschot op het subsidiebedrag worden verstrekt, waarbij:
 
@@ -214,7 +240,7 @@ Niet voor subsidie komen in aanmerking:
 
 2. Op basis van de beoordeling, bedoeld in het eerste lid, onderdeel b, kan besloten worden om de maandelijkse bevoorschotting, zoals opgenomen in het eerste lid, onderdeel a, aan te passen.
 
-#### Artikel 16. Tussentijdse declaratie en rapportage
+##### Artikel 16. Tussentijdse declaratie en rapportage
 
 1. De subsidieontvanger verstrekt ieder kalenderjaar uiterlijk op 1 april een tussentijdse declaratie met daarbij een voortgangsverslag met betrekking tot de gemaakte kosten en de, overeenkomstig het operationeel programma, behaalde resultaten. De tussentijdse declaratie bevat een verantwoording van de kosten onder gelijktijdige verstrekking van de administratie van de deelnemers aan het project, als bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035800&hoofdstuk=4&artikel=17&z=2018-11-14&g=2018-11-14).
 
@@ -240,7 +266,7 @@ Niet voor subsidie komen in aanmerking:
 
 9. De begunstigde verleent aan door de Minister dan wel door de Europese Commissie daartoe aangewezen instanties medewerking aan het opstellen van evaluatierapporten met betrekking tot deze regeling, en draagt, indien het gesubsidieerde project niet in eigen beheer wordt uitgevoerd, er zorg voor dat de feitelijke uitvoerder van het project deze medewerking verleent.
 
-#### Artikel 17. Administratievoorschriften
+##### Artikel 17. Administratievoorschriften
 
 1. De begunstigde houdt een inzichtelijke en controleerbare administratie bij met betrekking tot de uitvoering van het project en de in verband daarmee gedane uitgaven en verworven inkomsten.
 
@@ -254,7 +280,7 @@ Niet voor subsidie komen in aanmerking:
 
 6. De begunstigde geeft op verzoek inzage in of toegang tot de projectadministratie voor controle door de beheerautoriteit, de auditautoriteit, de Europese Commissie en de Europese Rekenkamer.
 
-#### Artikel 18. Bewaren en beschikbaarheid van bescheiden
+##### Artikel 18. Bewaren en beschikbaarheid van bescheiden
 
 1. De begunstigde bewaart alle administratieve bescheiden die betrekking hebben op het project tot tenminste 31 december 2028. Indien de Europese Commissie, vanwege een gerechtelijke vervolging of een met redenen omkleed verzoek de bewaartermijn schorst, maakt de minister de gevolgen voor de bewaartermijn, bedoeld in dit lid, in de Staatscourant bekend.
 
@@ -264,7 +290,7 @@ Niet voor subsidie komen in aanmerking:
 
 4. Alle administratieve bescheiden zijn beschikbaar voor de begunstigde. De begunstigde is en blijft verantwoordelijk voor een correcte opslag van alle administratieve bescheiden, ook als hij een derde met de opslag belast.
 
-#### Artikel 19. Tussentijdse evaluaties en monitoring
+##### Artikel 19. Tussentijdse evaluaties en monitoring
 
 1. De voortgang van het project, alsmede de doeltreffendheid, doelmatigheid en het effect van het project worden twee jaar na aanvang van de subsidieverlening door de beheerautoriteit geëvalueerd.
 
@@ -272,7 +298,7 @@ Niet voor subsidie komen in aanmerking:
 
 3. De evaluatie van het effect, bedoeld in het eerste lid, en de monitoring in het tweede lid, worden beoordeeld aan de hand van de streefwaarden van de specifieke doelstellingen zoals opgenomen in het operationeel programma.
 
-#### Artikel 20. Einddeclaratie en subsidievaststelling
+##### Artikel 20. Einddeclaratie en subsidievaststelling
 
 1. De subsidieontvanger dient binnen dertien weken na beëindiging van het project een verzoek tot vaststelling van de subsidie in bij de Minister. Bij het verzoek tot vaststelling van de subsidie wordt een eindverslag over de uitvoering van de projectactiviteiten en een einddeclaratie van de kosten gevoegd.
 
@@ -290,7 +316,7 @@ Niet voor subsidie komen in aanmerking:
 
 5. De Minister beslist binnen 24 maanden na ontvangst van het verzoek tot vaststelling van de subsidie.
 
-#### Artikel 21. Intrekking en terugvordering
+##### Artikel 21. Intrekking en terugvordering
 
 1. Onverminderd het bepaalde in [afdeling 4.2.6. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.6), kan de beschikking tot subsidieverlening geheel worden ingetrokken indien:
 
@@ -314,17 +340,17 @@ Niet voor subsidie komen in aanmerking:
 
 4. Het derde lid is niet van toepassing indien de intrekking van de beschikking tot subsidieverlening op grond van het eerste lid, onderdelen e en f, niet verwijtbaar is aan de begunstigde.
 
-#### Artikel 22. Publiciteit
+##### Artikel 22. Publiciteit
 
 De begunstigde verleent zijn medewerking aan publicitaire activiteiten van lidstaten van de EU, informeert alle deelnemers over de bijdrage uit het EFMB en voert zelf activiteiten uit ter promotie van de bijdrage van het EFMB, waaronder ten minste één centrale voorlichtingsactiviteit per jaar.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 23. Inwerkingtreding
+##### Artikel 23. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 31 december 2028.
 
-#### Artikel 24. Citeertitel
+##### Artikel 24. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling EFMB 2015–2023
 

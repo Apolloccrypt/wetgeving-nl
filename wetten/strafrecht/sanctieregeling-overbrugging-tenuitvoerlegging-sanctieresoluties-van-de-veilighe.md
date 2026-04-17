@@ -1,13 +1,39 @@
 ---
-title: "Sanctieregeling overbrugging tenuitvoerlegging sanctieresoluties van de Veiligheidsraad van de Verenigde Naties 2019"
+title: "Regeling van de Minister van Buitenlandse Zaken in overeenstemming met de Minister van Financiën van 9 december 2019, Min-BuZa.2019.4620-11, tot vaststelling van enkele bepalingen met het oog op de tenuitvoerlegging van sanctieresoluties van de Veiligheidsraad van de Verenigde Naties voorafgaand aan implementatie daarvan door de Europese Unie (Sanctieregeling overbrugging tenuitvoerlegging sanctieresoluties van de Veiligheidsraad van de Verenigde Naties 2019)"
 identifier: "BWBR0042903"
-categorie: "Strafrecht"
-publicatiedatum: 2023-01-03
-laatste_update: 2023-01-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042903"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-01-03"
+last_updated: "2023-01-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042903"
+soort: "ministeriele-regeling"
+stam_id: "15277633"
+version_id: "26321042"
+internal_id: "C37411041"
+label_id: "15223524"
+dtd_version: "2.0"
+original_entry_into_force: "2019-12-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042903/2023-01-03/0"
+intitule_bron: "Stcrt.2019-68974"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-12-09"
+intitule_published: "2019-12-18"
+intitule_in_force: "2019-12-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-68974"
+original_signed_date: "2019-12-09"
+original_published_date: "2019-12-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-68974"
+entry_into_force_date: "2019-12-19"
+jci_1_3: "jci1.3:c:BWBR0042903&z=2023-01-03&g=2023-01-03"
+jci_1_0: "1.0:c:BWBR0042903&g=2023-01-03"
+citeertitel_status: "officieel"
+short_title: "Sanctieregeling overbrugging tenuitvoerlegging sanctieresoluties van de Veiligheidsraad van de Verenigde Naties 2019"
+signed_date: "2019-12-09"
+entry_into_force: "2019-12-19"
 ---
-
 # Regeling van de Minister van Buitenlandse Zaken in overeenstemming met de Minister van Financiën van 9 december 2019, Min-BuZa.2019.4620-11, tot vaststelling van enkele bepalingen met het oog op de tenuitvoerlegging van sanctieresoluties van de Veiligheidsraad van de Verenigde Naties voorafgaand aan implementatie daarvan door de Europese Unie (Sanctieregeling overbrugging tenuitvoerlegging sanctieresoluties van de Veiligheidsraad van de Verenigde Naties 2019)
 
 Gelet op hoofdstuk 7 van het Handvest van de Verenigde Naties;
@@ -16,7 +42,7 @@ Gelet op [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003296
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - c. **financiële diensten:** alle diensten van financiële aard, waaronder alle verzekeringsdiensten en met verzekeringen verband houdende diensten, en alle bankdiensten en andere financiële diensten, met uitzondering van verzekeringen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze regeling is van toepassing op de tenuitvoerlegging van beperkende maatregelen, vastgesteld door de Veiligheidsraad van de Verenigde Naties inhoudende de bevriezing van tegoeden of economische middelen dan wel een verbod tot het verrichten van financiële diensten, waarop een in de bijlage genoemde Verordening van de Raad van de Europese Unie betrekking heeft.
 
@@ -34,15 +60,15 @@ In deze regeling wordt verstaan onder:
 
 3. Voor de toepassing van het bepaalde krachtens de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) met het oog op de uitvoering van de desbetreffende verordening worden de bedoelde personen, organisaties en entiteiten gerekend tot de kring van personen, organisaties en entiteiten waarop de verordening van toepassing is.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt de Sanctieregeling ISIS en Al Qaida 2016.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling wordt aangehaald als: Sanctieregeling overbrugging tenuitvoerlegging sanctieresoluties van de Veiligheidsraad van de Verenigde Naties 2019.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 

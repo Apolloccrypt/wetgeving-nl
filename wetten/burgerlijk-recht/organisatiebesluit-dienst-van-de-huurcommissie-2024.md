@@ -1,13 +1,39 @@
 ---
-title: "Organisatiebesluit dienst van de huurcommissie 2024"
+title: "Besluit van het bestuur van de huurcommissie, van 17 juni 2025 houdende de organisatie-inrichting van administratieve ondersteuning van de huurcommissie, aan te duiden als Dienst van de Huurcommissie (Organisatiebesluit dienst van de huurcommissie 2024)"
 identifier: "BWBR0052017"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2025-12-23
-laatste_update: 2025-12-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052017"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-12-23"
+last_updated: "2025-12-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052017"
+soort: "zbo"
+stam_id: "17690883"
+version_id: "31219342"
+internal_id: "C44654911"
+label_id: "17589984"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052017/2025-12-23/0"
+intitule_bron: "Stcrt.2025-44156"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-06-17"
+intitule_published: "2025-12-22"
+intitule_in_force: "2025-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-44156"
+original_signed_date: "2025-06-17"
+original_published_date: "2025-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-44156"
+entry_into_force_date: "2025-12-23"
+jci_1_3: "jci1.3:c:BWBR0052017&z=2025-12-23&g=2025-12-23"
+jci_1_0: "1.0:c:BWBR0052017&g=2025-12-23"
+citeertitel_status: "officieel"
+short_title: "Organisatiebesluit dienst van de huurcommissie 2024"
+signed_date: "2025-06-17"
+entry_into_force: "2025-12-23"
 ---
-
 # Besluit van het bestuur van de huurcommissie, van 17 juni 2025 houdende de organisatie-inrichting van administratieve ondersteuning van de huurcommissie, aan te duiden als Dienst van de Huurcommissie (Organisatiebesluit dienst van de huurcommissie 2024)
 
 Gelet op de [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315),
@@ -18,7 +44,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -44,7 +70,7 @@ In dit besluit wordt verstaan onder:
 
 - k. **functionaris:** medewerker van de dienst van de huurcommissie.
 
-#### Artikel 2. Hoofdstructuur en leiding dienst van de huurcommissie
+##### Artikel 2. Hoofdstructuur en leiding dienst van de huurcommissie
 
 1. De dienst van de huurcommissie staat onder leiding van de directeur.
 
@@ -72,7 +98,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. Taakgebied de Operatie
 
-#### Artikel 3. Structuur en leiding: de Operatie
+##### Artikel 3. Structuur en leiding: de Operatie
 
 1. De Operatie staat onder leiding van twee strategisch managers.
 
@@ -84,7 +110,7 @@ In dit besluit wordt verstaan onder:
 
 5. Éen strategisch manager is integraal eindverantwoordelijk voor de teams binnen de keten Servicekosten en het team binnen de keten Huurverhoging.
 
-#### Artikel 4. Taken: de Operatie
+##### Artikel 4. Taken: de Operatie
 
 1. De Operatie/het primaire proces van de huurcommissie zorgt voor de tijdige en juiste behandeling van zaken die door huurders of verhuurders aan de huurcommissie worden voorgelegd, binnen de daarvoor geldende wetgeving, beleidskaders en richtlijnen. Onderdeel hiervan is de onderzoeken ter plaatse.
 
@@ -98,7 +124,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 3. Taakgebied Klant en Kwaliteit
 
-#### Artikel 5. Structuur en leiding: Klant en Kwaliteit
+##### Artikel 5. Structuur en leiding: Klant en Kwaliteit
 
 1. Het taakgebied Klant en Kwaliteit staat onder leiding van één strategisch manager.
 
@@ -108,7 +134,7 @@ In dit besluit wordt verstaan onder:
 
 - b. Team Klant en Kwaliteit.
 
-#### Artikel 6. Taken: Klant en Kwaliteit
+##### Artikel 6. Taken: Klant en Kwaliteit
 
 1. Klant en Kwaliteit is verantwoordelijk voor de semi-primaire processen van de huurcommissie. De semi-primaire processen worden gevormd door twee teams die het klantcontact en het klantproces verzorgen en het kwaliteitsmanagementsysteem van de huurcommissie vormen. Onderdeel hiervan is ook data-analyse.
 
@@ -146,7 +172,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 4. Taakgebied Beleid, Bestuur en Communicatie
 
-#### Artikel 7. Structuur en leiding: Beleid, Bestuur en Communicatie
+##### Artikel 7. Structuur en leiding: Beleid, Bestuur en Communicatie
 
 1. Het taakgebied beleid, bestuur en communicatie staat onder leiding van één strategisch manager.
 
@@ -158,7 +184,7 @@ In dit besluit wordt verstaan onder:
 
 - c. Communicatie.
 
-#### Artikel 8. Taken: Beleid, Bestuur en Communicatie
+##### Artikel 8. Taken: Beleid, Bestuur en Communicatie
 
 1. Dit taakgebied is integraal verantwoordelijk voor de beleidsontwikkeling en de brede ondersteuning van het ZBO en het management van de Dienst, waarbij:
 
@@ -196,7 +222,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 5. Taakgebied Bedrijfsvoering en Informatievoorziening
 
-#### Artikel 9. Structuur en leiding: Bedrijfsvoering en Informatievoorziening
+##### Artikel 9. Structuur en leiding: Bedrijfsvoering en Informatievoorziening
 
 1. Het taakgebied Bedrijfsvoering en Informatievoorziening staat onder leiding van één strategisch manager.
 
@@ -206,7 +232,7 @@ In dit besluit wordt verstaan onder:
 
 - b. Team Informatievoorziening.
 
-#### Artikel 10. Taken: Bedrijfsvoering en Informatievoorziening
+##### Artikel 10. Taken: Bedrijfsvoering en Informatievoorziening
 
 1. Dit taakgebied is integraal verantwoordelijk voor de bedrijfsvoering, interne beheersing en informatievoorziening van de Dienst van de Huurcommissie, waarbij:
 
@@ -264,7 +290,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 6. Slotbepalingen
 
-#### Artikel 11. Inwerkingtreding en citeertitel
+##### Artikel 11. Inwerkingtreding en citeertitel
 
 1. Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het besluit wordt geplaatst en heeft terugwerkende kracht tot en met 17 september 2024.
 

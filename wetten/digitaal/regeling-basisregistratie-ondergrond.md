@@ -1,13 +1,39 @@
 ---
-title: "Regeling basisregistratie ondergrond"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 8 december 2017, nr. IENM/BSK-2017/205700, houdende regels met betrekking tot de basisregistratie ondergrond (Regeling basisregistratie ondergrond)"
 identifier: "BWBR0040482"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040482"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040482"
+soort: "ministeriele-regeling"
+stam_id: "14471353"
+version_id: "31207932"
+internal_id: "C44640201"
+label_id: "14431914"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040482/2026-01-01/0"
+intitule_bron: "Stcrt.2017-70646"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-12-08"
+intitule_published: "2017-12-28"
+intitule_in_force: "2017-12-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-43051"
+original_signed_date: "2025-12-12"
+original_published_date: "2025-12-16"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-43051"
+entry_into_force_date: "2025-12-12"
+jci_1_3: "jci1.3:c:BWBR0040482&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0040482&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling basisregistratie ondergrond"
+signed_date: "2025-12-12"
+entry_into_force: "2025-12-12"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 8 december 2017, nr. IENM/BSK-2017/205700, houdende regels met betrekking tot de basisregistratie ondergrond (Regeling basisregistratie ondergrond)
 
 Gelet op de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=5), [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=8), [9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=9), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=17), [24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=24), en [25, tweede lid, van de Wet basisregistratie ondergrond](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=25);
@@ -16,7 +42,7 @@ BESLUIT:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -34,15 +60,15 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Inrichting van de basisregistratie ondergrond
 
-#### Artikel 2
+##### Artikel 2
 
 De basisregistratie ondergrond wordt vormgegeven aan de hand van een systeembeschrijving, die wordt gevormd door de Globale Architectuurschets Basisregistratie Ondergrond, en de Programma Start Architectuur Basisregistratie Ondergrond, beide opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=I&z=2026-01-01&g=2026-01-01) bij deze regeling.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij de administratieve inrichting van de basisregistratie ondergrond, bedoeld in [artikel 5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=5), worden de processen ter uitvoering van de verplichtingen die bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095) op de Organisatie rusten op een zorgvuldige, transparante, consistente en gebruiksvriendelijke wijze vormgegeven, uitgevoerd en gemonitord.
 
-#### Artikel 4
+##### Artikel 4
 
 Bij de technische inrichting van de basisregistratie ondergrond, bedoeld in [artikel 5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=5), wordt:
 
@@ -50,17 +76,17 @@ Bij de technische inrichting van de basisregistratie ondergrond, bedoeld in [art
 
 - b. van de in de basisregistratie ondergrond opgenomen gegevens en modellen iedere werkdag een back-up gemaakt.
 
-#### Artikel 5
+##### Artikel 5
 
 Met betrekking tot beveiliging van de basisregistratie ondergrond, bedoeld in [artikel 5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=5), treft de Organisatie technische en organisatorische maatregelen om gegevens en modellen, in het bijzonder persoonsgegevens, te beveiligen tegen inbreuk, verlies en onrechtmatige verwerking.
 
 ### Hoofdstuk 3. Controle van de basisregistratie ondergrond
 
-#### Artikel 6
+##### Artikel 6
 
 De controle van het operationeel beheer, bedoeld in [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=6), wordt uitgevoerd met volledige medewerking van de Organisatie en bestaat uit een primaire controle en, als bij de primaire controle tekortkomingen zijn geconstateerd die zijn opgenomen in het oordeel van de controlerende partij, een hercontrole.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Bij de primaire controle vindt in ieder geval een beoordeling plaats van de adequate uitvoering van de volgende aspecten binnen de Organisatie:
 
@@ -82,7 +108,7 @@ De controle van het operationeel beheer, bedoeld in [artikel 6 van de wet](https
 
 - f. de activiteiten, genoemd in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=6&artikel=14&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 8
+##### Artikel 8
 
 1. De resultaten van de primaire controle worden neergelegd in een primair controlerapport.
 
@@ -90,7 +116,7 @@ De controle van het operationeel beheer, bedoeld in [artikel 6 van de wet](https
 
 3. Het primair controlerapport wordt uiterlijk één maand na de primaire controle door de controlerende partij vastgesteld en aan de Organisatie en de Minister gezonden.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Als bij de primaire controle tekortkomingen zijn geconstateerd die zijn opgenomen in het oordeel van de controlerende partij, stelt de Organisatie binnen één maand na de vaststelling van het primair controlerapport een verbeterrapport op, waarin de maatregelen worden beschreven die getroffen zijn ter verbetering van de geconstateerde tekortkomingen.
 
@@ -104,13 +130,13 @@ De controle van het operationeel beheer, bedoeld in [artikel 6 van de wet](https
 
 ### Hoofdstuk 4. Het bronhouderportaal
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
 ### Hoofdstuk 5. Standaarden voor de registratie ondergrond
 
-#### Artikel 11
+##### Artikel 11
 
 De catalogus bestaat uit de onderdelen:
 
@@ -160,7 +186,7 @@ De catalogus bestaat uit de onderdelen:
 
 ### Hoofdstuk 6. Inzage in en verstrekking van gegevens
 
-#### Artikel 12
+##### Artikel 12
 
 1. De verlening van inzage in de registratie ondergrond, het register brondocumenten en het register inzake meldingen modellen als bedoeld in [artikel 24, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=24), vindt plaats via een website, een webservice en de generieke digitale infrastructuur van de overheid.
 
@@ -168,13 +194,13 @@ De catalogus bestaat uit de onderdelen:
 
 3. De verlening van inzage via de generieke digitale infrastructuur, bedoeld in het eerste lid, vindt tevens plaats met inachtneming van door de Europese Commissie vastgestelde uitvoeringshandelingen op grond van [richtlijn 2007/2/EG](32007L0002) van het Europees Parlement en de Raad van de Europese Unie van 14 maart 2007 tot oprichting van een infrastructuur voor ruimtelijke informatie in de Gemeenschap (Inspire) (PbEU, L 108) inzake dataspecificaties.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Als de bronhouder bij de levering van een brondocument gemotiveerd heeft aangegeven dat het gegevens bevat waarvan verstrekking achterwege kan blijven op grond van [artikel 5.1 van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1), wordt in die gegevens geen inzage verleend en worden die gegevens niet op verzoek verstrekt, met inachtneming van [artikel 24, tweede lid, onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=24).
 
 2. Het eerste lid is niet van toepassing ten aanzien van inzage door en verstrekking aan bronhouders als de gegevens via een beveiligde digitale koppeling door of namens een bronhouder zijn geleverd.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Voor het op verzoek verstrekken van gegevens of authentieke modellen anders dan door middel van internet of anders dan op digitale of geautomatiseerde wijze is op grond van [artikel 25, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=25), per kwartier of een gedeelte van een kwartier dat een medewerker van de Organisatie daaraan heeft besteed, verschuldigd:
 
@@ -194,15 +220,15 @@ De catalogus bestaat uit de onderdelen:
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 Voor zover in de [bijlagen I tot en met XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=I&z=2026-01-01&g=2026-01-01) bij deze regeling ten aanzien van producten technische voorschriften zijn gesteld als bedoeld in de richtlijn (EU) nr. 2015/1535 van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241), worden met die producten gelijkgesteld producten die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig zijn vervaardigd of in de handel zijn gebracht in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met die technische voorschriften wordt nagestreefd.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling treedt in werking met ingang van 1 januari 2018.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze regeling wordt aangehaald als: Regeling basisregistratie ondergrond.
 
@@ -216,7 +242,7 @@ Deze bijlage betreft de catalogus en is tevens gepubliceerd op www.basisregistra
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Aan de Organisatie wordt een uitsluitend recht verleend voor het in opdracht van de Minister uitvoeren van het operationeel beheer van de basisregistratie ondergrond.
 
@@ -228,7 +254,7 @@ Aan de Organisatie wordt een uitsluitend recht verleend voor het in opdracht van
 
 ### Hoofdstuk 4a. Controle door de bronhouder
 
-#### Artikel 10a
+##### Artikel 10a
 
 1. De controle door de bronhouder, bedoeld in [artikel 9a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=9a), heeft betrekking op:
 
@@ -246,13 +272,13 @@ Aan de Organisatie wordt een uitsluitend recht verleend voor het in opdracht van
 
 ### Hoofdstuk 5a. Het maken, actualiseren en controleren van modellen
 
-#### Artikel 11a
+##### Artikel 11a
 
 1. De Minister die het aangaat legt uiterlijk twee jaar voorafgaand aan de levering of actualisering van een model als bedoeld in [artikel 9, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=9) aan de Minister ter goedkeuring de beschrijving van de te hanteren software, het algoritme, de parametrisatie en de werkprocessen van het model voor.
 
 2. De Minister die het aangaat legt uiterlijk twee maanden voorafgaand aan de levering of actualisering van een model als bedoeld in [artikel 9, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=9) aan de Minister ter goedkeuring een standaard toetsprotocol voor interne kwaliteitstoetsing van het model voor.
 
-#### Artikel 11b
+##### Artikel 11b
 
 1. Bij de oplevering van een nieuw of geactualiseerd authentiek model wordt een totstandkomingsrapport opgeleverd met daarin een beschrijving van de gebruikte gegevens en methoden bij het maken of actualiseren van het model.
 
@@ -262,7 +288,7 @@ Aan de Organisatie wordt een uitsluitend recht verleend voor het in opdracht van
 
 4. De Minister verstrekt op verzoek het totstandkomingsrapport en het toetsrapport.
 
-#### Artikel 11c
+##### Artikel 11c
 
 1. De controle op de wijze van uitvoering van [artikel 7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=7) door de op grond van dat lid aangewezen partij is in ieder geval gericht op de volgende elementen:
 
@@ -280,7 +306,7 @@ Aan de Organisatie wordt een uitsluitend recht verleend voor het in opdracht van
 
 2. De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=3&artikel=8&z=2026-01-01&g=2026-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=3&artikel=9&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing.
 
-#### Artikel 11d
+##### Artikel 11d
 
 1. De maker van een authentiek model draagt zorg voor de samenhang van het model met de andere modellen in de basisregistratie ondergrond.
 

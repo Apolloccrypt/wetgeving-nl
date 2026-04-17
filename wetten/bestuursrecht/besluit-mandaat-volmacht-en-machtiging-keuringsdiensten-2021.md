@@ -1,13 +1,39 @@
 ---
-title: "Besluit mandaat, volmacht en machtiging keuringsdiensten 2021"
+title: "Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 10 februari 2021, nr. WJZ/ 21033622, houdende regels inzake het verlenen van mandaat, volmacht en machtiging aan de (technisch) directeuren van de keuringsdiensten (Besluit mandaat, volmacht en machtiging keuringsdiensten 2021)"
 identifier: "BWBR0044854"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-02-24
-laatste_update: 2026-02-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044854"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-02-24"
+last_updated: "2026-02-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044854"
+soort: "ministeriele-regeling"
+stam_id: "15858573"
+version_id: "27551172"
+internal_id: "C38873651"
+label_id: "15793614"
+dtd_version: "2.0"
+original_entry_into_force: "2021-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044854/2026-02-24/0"
+intitule_bron: "Stcrt.2021-9529"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-02-10"
+intitule_published: "2021-02-25"
+intitule_in_force: "2021-02-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-9529"
+original_signed_date: "2021-02-10"
+original_published_date: "2021-02-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-9529"
+entry_into_force_date: "2021-03-01"
+jci_1_3: "jci1.3:c:BWBR0044854&z=2026-02-24&g=2026-02-24"
+jci_1_0: "1.0:c:BWBR0044854&g=2026-02-24"
+citeertitel_status: "officieel"
+short_title: "Besluit mandaat, volmacht en machtiging keuringsdiensten 2021"
+signed_date: "2021-02-10"
+entry_into_force: "2021-03-01"
 ---
-
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 10 februari 2021, nr. WJZ/ 21033622, houdende regels inzake het verlenen van mandaat, volmacht en machtiging aan de (technisch) directeuren van de keuringsdiensten (Besluit mandaat, volmacht en machtiging keuringsdiensten 2021)
 
 Gelet op [afdeling 10.1.1. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1);
@@ -18,7 +44,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -52,7 +78,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. Mandaat, volmacht en machtiging
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aan de technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw en de directeur NAK wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor:
 
@@ -88,7 +114,7 @@ In dit besluit wordt verstaan onder:
 
 6. Aan de technisch directeur KCB wordt mandaat, volmacht en machtiging verleend voor het uitvoeren van controles in het kader van fytosanitaire doorvoer als bedoeld in artikel 47, eerste lid, van [verordening 2016/2031](32031R2016).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan de technisch directeur KCB wordt mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met het besluit tot oplegging van een last onder bestuursdwang als bedoeld in [artikel 28 van de Plantgezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=28) aangaande planten, plantaardige producten, voor opplant bestemde planten en ander materiaal.
 
@@ -112,7 +138,7 @@ In dit besluit wordt verstaan onder:
 
 11. Bij gebreke van de volledige betaling binnen de gestelde termijn kunnen de kosten verband houdend met de bestuursdwang, bedoeld in het eerste tot en met negende lid, alsmede een dwangsom als bedoeld in het tiende lid, indien die verbeurd is verhoogd met de invorderingskosten, door de technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw, de directeur NAK, respectievelijk de directeur Skal worden ingevorderd bij dwangbevel.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aan de technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw en de directeur NAK wordt, ieder voor zich, machtiging verleend voor het opleggen van het verbod tot vervoeren of verplaatsen en het kenmerken of het onder verzegeling brengen als bedoeld in [artikel 2 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&artikel=2).
 
@@ -122,7 +148,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 3. Ondermandaat
 
-#### Artikel 5
+##### Artikel 5
 
 1. De technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw en de directeur NAK kunnen, ieder voor zich, voor de in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044854&paragraaf=2&artikel=2&z=2026-02-24&g=2026-02-24) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de functionarissen werkzaam in zijn organisatie.
 
@@ -132,7 +158,7 @@ In dit besluit wordt verstaan onder:
 
 4. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in het vorige lid wordt gezonden aan de secretaris-generaal en de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat en aan degenen aan wie krachtens het besluit ondermandaat is verleend.
 
-#### Artikel 6
+##### Artikel 6
 
 Het krachtens mandaat, volmacht of machtiging ondertekenen van stukken geschiedt als volgt:
 
@@ -148,21 +174,21 @@ namens deze:
 
 #### § 4. Vervanging
 
-#### Artikel 7
+##### Artikel 7
 
 De uit dit besluit voor de technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw, de directeur NAK en de directeur Skal voortvloeiende bevoegdheden gaan in geval van afwezigheid over op hun plaatsvervanger met uitzondering van de bevoegdheid tot het verlenen van ondermandaat, volmacht en machtiging.
 
 #### § 5. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Het [Besluit mandaat, volmacht en machtiging keuringsdiensten 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042869) wordt ingetrokken.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van 1 maart 2021.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging keuringsdiensten 2021.
 

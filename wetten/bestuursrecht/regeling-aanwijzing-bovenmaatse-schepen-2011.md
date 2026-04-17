@@ -1,13 +1,38 @@
 ---
 title: "Regeling aanwijzing bovenmaatse schepen 2011"
 identifier: "BWBR0029944"
-categorie: "Bestuursrecht"
-publicatiedatum: 2011-05-25
-laatste_update: 2011-05-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029944"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2011-05-25"
+last_updated: "2011-05-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029944"
+soort: "ministeriele-regeling"
+stam_id: "11312073"
+version_id: "18539982"
+internal_id: "C25918011"
+label_id: "11285944"
+dtd_version: "2.0"
+original_entry_into_force: "2011-05-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029944/2011-05-25/0"
+intitule_bron: "Stcrt.2011-7914"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-04-28"
+intitule_published: "2011-05-06"
+intitule_in_force: "2011-05-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-7914"
+original_signed_date: "2011-04-28"
+original_published_date: "2011-05-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-7914"
+entry_into_force_date: "2011-05-25"
+jci_1_3: "jci1.3:c:BWBR0029944&z=2011-05-25&g=2011-05-25"
+jci_1_0: "1.0:c:BWBR0029944&g=2011-05-25"
+citeertitel_status: "officieel"
+signed_date: "2011-04-28"
+entry_into_force: "2011-05-25"
 ---
-
 # Regeling aanwijzing bovenmaatse schepen 2011
 
 Gelet op [artikel 4, eerste en derde lid, van het Vaststellingsbesluit Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=4) en op de [artikelen 1.01, onderdeel A, onder 8°](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.01), en [artikel 10.02, eerste lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=10.02);
@@ -16,7 +41,7 @@ Besluit:
 
 Treedt in werking op het tijdstip waarp het Wijzigingsbesluit Vaststellingsbesluit Binnenvaartpolitiereglement, enz. in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 Een bovenmaats schip, is een schip dat zich bevindt:
 
@@ -48,15 +73,15 @@ Een bovenmaats schip, is een schip dat zich bevindt:
 
 - n. dat zich bevindt in het Afgesloten IJ vanaf de oostzijde van de ingang van de Mercuriushaven in oostelijke richting, met inbegrip van de daaraan gelegen havens, en een diepgang heeft van 6 meter of meer, dan wel een lengte heeft van 150 meter of meer.
 
-#### Artikel 2
+##### Artikel 2
 
 Het [besluit van de Minister van Verkeer en Waterstaat van 18 mei 1993, nr. DGSM/J 30.876/93 houdende vaststelling diepgang of scheepslengte verbonden aan gedeelte van vaarweg](https://wetten.overheid.nl/jci1.3:c:BWBR0005991) (Stcrt. 98) en het [Besluit aanwijzing bovenmaatse schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0017542) worden ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking op het tijdstip waarop het [Besluit van 20 september 2010, houdende vaststelling van een aantal wijzigingen van het Vaststellingsbesluit Binnenvaartpolitiereglement, het Besluit Rijnvaartpolitiereglement 1995, het Scheepvaartreglement Westerschelde 1990, het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen, het Scheepvaartreglement territoriale zee, het Besluit verkeersinformatie en verkeersaanwijzingen scheepvaartverkeer, het Besluit administratieve bepalingen scheepvaartverkeer, het Besluit houdende het van toepassing verklaren van de Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972, het Scheepvaartreglement Eemsmonding en het Besluit statistische gegevens scheepvaartverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0028923) (Stb. 748) in werking treedt.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing bovenmaatse schepen 2011.
 

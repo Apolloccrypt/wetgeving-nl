@@ -1,13 +1,39 @@
 ---
-title: "Regeling Subsidie uitbreiding capaciteit groene boa en bavpol 2024–2026"
+title: "Regeling van de Minister van Justitie en Veiligheid van 3 oktober 2024, nummer 5645710, houdende een subsidie voor de uitbreiding van capaciteit van buitengewoon opsporingsambtenaren en buitengewoon agent van politie van wie de werkzaamheden in hoofdzaak gericht zijn op handhaving en toezicht van onder andere natuurwetgeving voor de jaren 2024 tot en met 2026 (Regeling Subsidie uitbreiding capaciteit groene boa en bavpol 2024–2026)"
 identifier: "BWBR0050265"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-10-08
-laatste_update: 2024-10-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050265"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-10-08"
+last_updated: "2024-10-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050265"
+soort: "ministeriele-regeling"
+stam_id: "17234453"
+version_id: "30353512"
+internal_id: "C43533051"
+label_id: "17140254"
+dtd_version: "2.0"
+original_entry_into_force: "2024-10-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050265/2024-10-08/0"
+intitule_bron: "Stcrt.2024-32920"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-10-03"
+intitule_published: "2024-10-07"
+intitule_in_force: "2024-10-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-32920"
+original_signed_date: "2024-10-03"
+original_published_date: "2024-10-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-32920"
+entry_into_force_date: "2024-10-08"
+jci_1_3: "jci1.3:c:BWBR0050265&z=2024-10-08&g=2024-10-08"
+jci_1_0: "1.0:c:BWBR0050265&g=2024-10-08"
+citeertitel_status: "redactioneel"
+short_title: "Regeling Subsidie uitbreiding capaciteit groene boa en bavpol 2024–2026"
+signed_date: "2024-10-03"
+entry_into_force: "2024-10-08"
 ---
-
 # Regeling van de Minister van Justitie en Veiligheid van 3 oktober 2024, nummer 5645710, houdende een subsidie voor de uitbreiding van capaciteit van buitengewoon opsporingsambtenaren en buitengewoon agent van politie van wie de werkzaamheden in hoofdzaak gericht zijn op handhaving en toezicht van onder andere natuurwetgeving voor de jaren 2024 tot en met 2026 (Regeling Subsidie uitbreiding capaciteit groene boa en bavpol 2024–2026)
 
 Gelet op [artikel 2, eerste lid, onder d, van de Kaderwet overige JenV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0044954&artikel=2);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 - **werkgever:** de werkgever van de groene boa.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De minister kan in de kalenderjaren 2024, 2025 en 2026 jaarlijks subsidie verlenen aan werkgevers van groene boa’s en werkgevers van vrijwillige groene boa’s voor het uitbreiden van de groene boa-capaciteit en voor het behouden van bestaande groene boa-capaciteit.
 
@@ -50,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Aanvraag en subsidieverlening
 
-#### Artikel 3
+##### Artikel 3
 
 1. In 2024 kunnen aanvragen in het kader van deze regeling worden ingediend van 3 oktober tot en met 1 november 2024.
 
@@ -58,13 +84,13 @@ In deze regeling wordt verstaan onder:
 
 3. Een werkgever vraagt subsidie aan bij de minister met gebruikmaking van het daartoe beschikbaar gestelde formulier.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien de aanvraag zoals bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050265&paragraaf=2&artikel=3&z=2024-10-08&g=2024-10-08), van deze regeling, niet volledig is ingediend, wordt de aanvrager met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) in de gelegenheid gesteld binnen twee weken alsnog de aanvraag aan te vullen.
 
 #### § 3. Subsidiabele kosten
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor de subsidie als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050265&paragraaf=1&artikel=2&z=2024-10-08&g=2024-10-08), komen in aanmerking de in redelijkheid gemaakte kosten:
 
@@ -90,7 +116,7 @@ Indien de aanvraag zoals bedoeld in [artikel 3, tweede lid](https://wetten.overh
 
 - e. die gemaakt zijn ten behoeve van de uitvoering van de functie van vrijwillige groene boa’s.
 
-#### Artikel 6
+##### Artikel 6
 
 Niet in aanmerking voor subsidie komen de kosten:
 
@@ -102,7 +128,7 @@ Niet in aanmerking voor subsidie komen de kosten:
 
 #### § 4. Subsidieplafond en verdeelsystematiek
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het subsidieplafond voor deze regeling bedraagt per kalenderjaar:
 
@@ -116,7 +142,7 @@ Niet in aanmerking voor subsidie komen de kosten:
 
 #### § 5. Verantwoording en subsidievaststelling
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien de verleende subsidie minder dan € 25.000 bedraagt, wordt deze op 1 april volgend op het kalenderjaar waarvoor de subsidie is verleend ambtshalve vastgesteld.
 
@@ -134,7 +160,7 @@ Niet in aanmerking voor subsidie komen de kosten:
 
 #### § 6. Slotbepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2024.
 

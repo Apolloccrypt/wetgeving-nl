@@ -1,13 +1,35 @@
 ---
-title: "Algemene aanwijzingen inzake aangelegenheden van de ministerraad en onderraden"
+title: "Circulaire van 10 april 1992"
 identifier: "BWBR0005471"
-categorie: "Bestuursrecht"
-publicatiedatum: 1992-05-01
-laatste_update: 1992-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005471"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1992-05-01"
+last_updated: "1992-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005471"
+soort: "ministeriele-regeling"
+stam_id: "1516733"
+version_id: "2258952"
+internal_id: "C28766551"
+label_id: "1473044"
+dtd_version: "2.0"
+original_entry_into_force: "1992-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005471/1992-05-01/0"
+intitule_bron: "Stcrt.1992-84"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-04-08"
+intitule_status: "goed"
+original_publication: "Stcrt.1992-84"
+original_signed_date: "1992-04-08"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1992-05-01"
+jci_1_3: "jci1.3:c:BWBR0005471&z=1992-05-01&g=1992-05-01"
+jci_1_0: "1.0:c:BWBR0005471&g=1992-05-01"
+citeertitel_status: "officieel"
+short_title: "Algemene aanwijzingen inzake aangelegenheden van de ministerraad en onderraden"
+signed_date: "1992-04-08"
+entry_into_force: "1992-05-01"
 ---
-
 # Circulaire van 10 april 1992
 
 ### A. Taak en werkwijze van de ministerraad (algemeen)

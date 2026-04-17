@@ -1,13 +1,39 @@
 ---
-title: "Regeling vaststelling tijdelijke subsidieregeling vergroting weerbaarheid journalisten 2025–2029"
+title: "Besluit van het Stimuleringsfonds voor de Journalistiek van 28-5-2025, nr. WB2529, tot vaststelling van een subsidieregeling voor vergroting van weerbaarheid van journalisten 2025–2029"
 identifier: "BWBR0051087"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-06-06
-laatste_update: 2025-06-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051087"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-06-06"
+last_updated: "2025-06-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051087"
+soort: "zbo"
+stam_id: "17441523"
+version_id: "30755232"
+internal_id: "C44083901"
+label_id: "17344534"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051087/2025-06-06/0"
+intitule_bron: "Stcrt.2025-19034"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-05-28"
+intitule_published: "2025-06-05"
+intitule_in_force: "2025-06-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-19034"
+original_signed_date: "2025-05-28"
+original_published_date: "2025-06-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-19034"
+entry_into_force_date: "2025-06-06"
+jci_1_3: "jci1.3:c:BWBR0051087&z=2025-06-06&g=2025-06-06"
+jci_1_0: "1.0:c:BWBR0051087&g=2025-06-06"
+citeertitel_status: "redactioneel"
+short_title: "Regeling vaststelling tijdelijke subsidieregeling vergroting weerbaarheid journalisten 2025–2029"
+signed_date: "2025-05-28"
+entry_into_force: "2025-06-06"
 ---
-
 # Besluit van het Stimuleringsfonds voor de Journalistiek van 28-5-2025, nr. WB2529, tot vaststelling van een subsidieregeling voor vergroting van weerbaarheid van journalisten 2025–2029
 
 Handelend in overeenstemming met de Minister van Onderwijs, Cultuur en Wetenschap,
@@ -18,29 +44,29 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Definities
+##### Artikel 1.1. Definities
 
 In deze regeling wordt verstaan onder:
 
 - a). **Stimuleringsfonds:** het Stimuleringsfonds voor de Journalistiek, bedoeld in [artikel 8.2 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=8.2).
 
-#### Artikel 1.2. Doel van de subsidie en subsidiabele activiteiten
+##### Artikel 1.2. Doel van de subsidie en subsidiabele activiteiten
 
 1. Subsidieverstrekking op grond van deze regeling heeft tot doel het vergroten van de weerbaarheid van journalisten tegen bedreigingen.
 
 2. Het Stimuleringsfonds kan subsidie verstrekken voor de kosten van activiteiten ten behoeve van het in lid 1 genoemde doel die worden uitgevoerd in de periode 1 januari 2025 tot en met 31 december 2029.
 
-#### Artikel 1.3. Subsidieperiode
+##### Artikel 1.3. Subsidieperiode
 
 Een subsidie kan worden verstrekt voor een periode van maximaal 5 jaar voor de kosten van subsidiabele activiteiten in de periode 1 januari 2025 tot en met 31 december 2029.
 
-#### Artikel 1.4. Subsidieplafond
+##### Artikel 1.4. Subsidieplafond
 
 1. Voor subsidieverstrekking op grond van deze regeling is in totaal 507.228 euro beschikbaar.
 
 2. Als op grond van de beoordeling de in aanmerking komende aanvragen leiden tot overschrijding van het subsidieplafond, weigert het Stimuleringsfonds een subsidie voor zover door de verstrekking van de subsidie het subsidieplafond zou worden overschreden.
 
-#### Artikel 1.5. Kosten die voor subsidie in aanmerking komen
+##### Artikel 1.5. Kosten die voor subsidie in aanmerking komen
 
 1. Op grond van deze regeling kan uitsluitend subsidie worden verstrekt voor de volgende kosten:
 
@@ -68,11 +94,11 @@ Een subsidie kan worden verstrekt voor een periode van maximaal 5 jaar voor de k
 
 ### Hoofdstuk 2. Aanvraag tot subsidieverlening
 
-#### Artikel 2.1. Subsidieaanvrager
+##### Artikel 2.1. Subsidieaanvrager
 
 1. Subsidie kan uitsluitend worden aangevraagd door de voor de desbetreffende activiteiten verantwoordelijke organisatie.
 
-#### Artikel 2.2. Subsidieaanvraag
+##### Artikel 2.2. Subsidieaanvraag
 
 1. Een aanvraag wordt uitsluitend ingediend door het invullen van een door het Stimuleringsfonds vastgesteld aanvraagformulier op de website van het Stimuleringsfonds, volgens de daarbij vermelde instructies, en omvat in ieder geval:
 
@@ -82,17 +108,17 @@ Een subsidie kan worden verstrekt voor een periode van maximaal 5 jaar voor de k
 
 2. Een aanvraag wordt alleen in behandeling genomen als deze volledig is. Blijft tijdige en volledige aanlevering van de gegevens uit, dan wordt de aanvraag buiten behandeling gesteld.
 
-#### Artikel 2.3. Termijn aanvraag
+##### Artikel 2.3. Termijn aanvraag
 
 Een aanvraag kan uitsluitend worden ingediend tot en met 11 juni 2025 om 23:59 uur.
 
 ### Hoofdstuk 3. Subsidieverlening
 
-#### Artikel 3.1. Verdeling subsidie
+##### Artikel 3.1. Verdeling subsidie
 
 Het voor subsidie beschikbare bedrag wordt verdeeld op basis van een rangschikking van de aanvragen.
 
-#### Artikel 3.2. Inhoudelijke criteria
+##### Artikel 3.2. Inhoudelijke criteria
 
 Aanvragen worden beoordeeld aan de hand van de volgende inhoudelijke criteria:
 
@@ -100,7 +126,7 @@ Aanvragen worden beoordeeld aan de hand van de volgende inhoudelijke criteria:
 
 - b). **Duurzaamheid:** de aanvrager moet kunnen aantonen de activiteiten rond deze regeling te kunnen uitvoeren op een stabiele basis, ook in bedrijfsmatig opzicht.
 
-#### Artikel 3.3. Beoordeling inhoudelijke criteria en rangschikking
+##### Artikel 3.3. Beoordeling inhoudelijke criteria en rangschikking
 
 1. Bij beoordeling op de inhoudelijke criteria wordt het oordeel door het Stimuleringsfonds vertaald in een waardering per criterium. Hierbij wordt gewerkt met een systeem waarin deze waardering wordt omgezet in een cijfer. Zowel de waardering als het cijfer staan op zichzelf; aanvragen worden niet direct met elkaar vergeleken.
 
@@ -128,21 +154,21 @@ Aanvragen worden beoordeeld aan de hand van de volgende inhoudelijke criteria:
 
 7. Wanneer door de verstrekking van een subsidie het subsidieplafond zou worden overschreden, worden zowel de aanvraag voor die subsidie als de daarop in de rangorde volgende aanvragen, afgewezen.
 
-#### Artikel 3.4. Besluit
+##### Artikel 3.4. Besluit
 
 Het Stimuleringsfonds beslist binnen 12 weken na afloop van de periode, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051087&hoofdstuk=2&artikel=2.3&z=2025-06-06&g=2025-06-06) en maakt het besluit bekend aan de aanvrager.
 
-#### Artikel 3.5. Subsidiehoogte
+##### Artikel 3.5. Subsidiehoogte
 
 De maximale hoogte van de te verlenen subsidie per aanvrager is 507.228 euro.
 
-#### Artikel 3.6. Bevoorschotting
+##### Artikel 3.6. Bevoorschotting
 
 Bij een subsidieverlening wordt het verleende subsidiebedrag bij wijze van voorschot in één keer betaald.
 
 ### Hoofdstuk 4. Verplichtingen en verantwoording
 
-#### Artikel 4.1. Medewerkings- en informatieplicht
+##### Artikel 4.1. Medewerkings- en informatieplicht
 
 1. De subsidieontvanger is verplicht de activiteiten uit te voeren overeenkomstig de beschrijving in de aanvraag.
 
@@ -156,13 +182,13 @@ Bij een subsidieverlening wordt het verleende subsidiebedrag bij wijze van voors
 
 ### Hoofdstuk 5. Subsidievaststelling
 
-#### Artikel 5.1. Aanvraag tot vaststelling
+##### Artikel 5.1. Aanvraag tot vaststelling
 
 1. Een aanvraag tot subsidievaststelling wordt uiterlijk 31 januari 2030 ingediend.
 
 2. De aanvraag tot subsidievaststelling gaat vergezeld van een inhoudelijk verslag en een financieel verslag als bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051087&hoofdstuk=5&artikel=5.2&z=2025-06-06&g=2025-06-06).
 
-#### Artikel 5.2. Inhoudelijk verslag en financieel verslag
+##### Artikel 5.2. Inhoudelijk verslag en financieel verslag
 
 1. Het inhoudelijk verslag bestaat uit een verslag over de verrichte activiteiten waarmee kan worden aangetoond dat de gesubsidieerde activiteiten volgens plan hebben plaatsgevonden.
 
@@ -172,7 +198,7 @@ Bij een subsidieverlening wordt het verleende subsidiebedrag bij wijze van voors
 
 4. Het Stimuleringsfonds kan ten behoeve van de subsidievaststelling een door hem aan te wijzen accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) een onderzoek laten instellen naar de rechtmatigheid van de besteding van de subsidie en rapport van feitelijke bevindingen laten opstellen volgens een door het Stimuleringsfonds vastgesteld protocol. Deze accountant zal worden bekostigd door het Stimuleringsfonds.
 
-#### Artikel 5.3. Wijziging, intrekking en terugvordering
+##### Artikel 5.3. Wijziging, intrekking en terugvordering
 
 1. Zolang de subsidie niet is vastgesteld kan het Stimuleringsfonds de subsidieverlening intrekken of ten nadele van de subsidieontvanger wijzigen, als:
 
@@ -200,7 +226,7 @@ De intrekking of wijziging werkt terug tot en met het tijdstip waarop de subsidi
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 6.1. Inwerkingtreding
+##### Artikel 6.1. Inwerkingtreding
 
 1. Deze regeling treedt in werking op 28 mei 2025.
 

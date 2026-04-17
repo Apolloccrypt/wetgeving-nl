@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsregeling reclassering 2005"
+title: "Regeling van de Minister van Justitie van 9 november 2005, nr. DDS 5378751, houdende regels over de uitvoering van reclasseringswerkzaamheden (Uitvoeringsregeling reclassering 2005)"
 identifier: "BWBR0019016"
-categorie: "Strafrecht"
-publicatiedatum: 2005-11-25
-laatste_update: 2005-11-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019016"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2005-11-25"
+last_updated: "2005-11-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019016"
+soort: "ministeriele-regeling"
+stam_id: "7589363"
+version_id: "12469822"
+internal_id: "C29196181"
+label_id: "7577324"
+dtd_version: "2.0"
+original_entry_into_force: "2005-11-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019016/2005-11-25/0"
+intitule_bron: "Stcrt.2005-228"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-11-09"
+intitule_published: "2005-11-23"
+intitule_in_force: "2005-11-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-228"
+original_signed_date: "2005-11-09"
+original_published_date: "2005-11-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-228-p14-SC72343"
+entry_into_force_date: "2005-11-25"
+jci_1_3: "jci1.3:c:BWBR0019016&z=2005-11-25&g=2005-11-25"
+jci_1_0: "1.0:c:BWBR0019016&g=2005-11-25"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsregeling reclassering 2005"
+signed_date: "2005-11-09"
+entry_into_force: "2005-11-25"
 ---
-
 # Regeling van de Minister van Justitie van 9 november 2005, nr. DDS 5378751, houdende regels over de uitvoering van reclasseringswerkzaamheden (Uitvoeringsregeling reclassering 2005)
 
 Gelet op de[artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=2), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=6), [38, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=38), en [40 van de Reclasseringsregeling 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=40);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 2.1. Aanwijzingseisen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Als reclasseringswerker kan slechts worden aangewezen degene die:
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 3. Ten behoeve van de aanwijzing als reclasseringswerker legt de kandidaat de stukken over waaruit blijkt dat hij voldoet aan de in het eerste en tweede lid gestelde eisen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De aanwijzing kan worden geschorst, indien de reclasseringswerker op ernstige wijze tekortschiet in de uitoefening van zijn taak.
 
@@ -56,13 +82,13 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 2.2. Beëdiging
 
-#### Artikel 4
+##### Artikel 4
 
 Alvorens zijn functie te aanvaarden, legt de reclasseringswerker voor de rechtbank in het arrondissement van de plaats waar hij is tewerkgesteld de volgende eed of belofte af:
 
 ‘Ik zweer (beloof), dat ik mijn taak overeenkomstig de gestelde voorschriften naar geweten zal vervullen en de zaken waarvan ik door de uitoefening van mijn functie kennis draag en waarvan ik het vertrouwelijk karakter moet begrijpen, niet zal openbaren aan anderen dan aan hen, aan wie ik krachtens wettelijk voorschrift of uit hoofde van mijn functie tot mededeling verplicht ben. Zo waarlijk helpe mij God Almachtig (Dat beloof ik)’
 
-#### Artikel 5
+##### Artikel 5
 
 1. De reclasseringsinstelling verzoekt de griffier van de rechtbank het tijdstip voor de beëdiging vast te stellen, zo mogelijk binnen een maand na ontvangst van het verzoek.
 
@@ -72,7 +98,7 @@ Alvorens zijn functie te aanvaarden, legt de reclasseringswerker voor de rechtba
 
 4. De griffier maakt van de eedsaflegging een akte op en zendt afschrift daarvan aan de reclasseringsinstelling.
 
-#### Artikel 6
+##### Artikel 6
 
 Het bestuur van de reclasseringsinstelling verstrekt de reclasseringswerker na diens beëdiging een bewijs waarmee hij zich als zodanig kan legitimeren.
 
@@ -80,7 +106,7 @@ Het bestuur van de reclasseringsinstelling verstrekt de reclasseringswerker na d
 
 #### Paragraaf 3.1. Subsidieverlening
 
-#### Artikel 7
+##### Artikel 7
 
 1. De ontwerpbegroting en het beleidsplan met de voorgenomen werkzaamheden, bedoeld in [artikel 17, tweede lid, van de Reclasseringsregeling 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=17), geeft voor het komende subsidiejaar en indicatief voor de drie daarop volgende jaren in ieder geval aan:
 
@@ -96,7 +122,7 @@ Het bestuur van de reclasseringsinstelling verstrekt de reclasseringswerker na d
 
 3. Onze Minister kan in de uitnodiging, bedoeld in [artikel 16, eerste lid, van de Reclasseringsregeling 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=16), met betrekking tot de eisen van de ontwerpbegroting en het beleidsplan aanwijzingen geven.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De definitieve begroting en het activiteitenplan, bedoeld in [artikel 19, derde lid, van de Reclasseringsregeling 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=19), bevatten een voorstel voor te maken managementafspraken over in ieder geval :
 
@@ -106,7 +132,7 @@ Het bestuur van de reclasseringsinstelling verstrekt de reclasseringswerker na d
 
 2. Onze Minister kan in de uitnodiging, bedoeld in [artikel 18, eerste lid, van de Reclasseringsregeling 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=18), met betrekking tot de eisen van de definitieve begroting en het activiteitenplan aanwijzingen geven.
 
-#### Artikel 9
+##### Artikel 9
 
 1. In het besluit, bedoeld in [artikel 20, eerste lid, van de Reclasseringsregeling 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=20), worden de managementafspraken vastgelegd.
 
@@ -114,7 +140,7 @@ Het bestuur van de reclasseringsinstelling verstrekt de reclasseringswerker na d
 
 #### Paragraaf 3.2. Subsidievaststelling
 
-#### Artikel 10
+##### Artikel 10
 
 1. De jaarrekening, bedoeld in [artikel 26, tweede lid, onder a, van de Reclasseringsregeling 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=26), bestaat uit de balans en de exploitatierekening met een toelichting.
 
@@ -134,11 +160,11 @@ Het bestuur van de reclasseringsinstelling verstrekt de reclasseringswerker na d
 
 6. De jaarrekening sluit aan op de begroting, waarvoor subsidie is verleend en op de subsidieverlening van dat jaar. Zij behelst een vergelijking met de gerealiseerde producten, de werkelijke uitgaven voor de projecten en de overige budgetten, in het jaar voorafgaand aan het boekjaar.
 
-#### Artikel 11
+##### Artikel 11
 
 Het jaarverslag, bedoeld in [artikel 26, tweede lid, onder b, van de Reclasseringsregeling 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=26), beschrijft in samenhang met de jaarrekening in ieder geval de vergelijking tussen de afgesproken en de gerealiseerde managementafspraken, met name ten aanzien van de aantallen producten, de daaraan gerelateerde kostprijs, de projecten, de overige budgetten en een toelichting op de verschillen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De subsidievaststelling geschiedt voor de aantallen producten op basis van de gerealiseerde productie op basis van de bij de subsidieverlening vastgestelde kostprijs. De gerealiseerde productie is de productie zoals verantwoord in de jaarrekening en het jaarverslag en die voldoet aan de door Onze Minister gestelde productiecriteria.
 
@@ -146,7 +172,7 @@ Het jaarverslag, bedoeld in [artikel 26, tweede lid, onder b, van de Reclasserin
 
 3. De gerealiseerde productie, projecten en overige budgetten worden verrekend overeenkomstig de aanwijzingen van Onze Minister.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Ten behoeve van de accountantscontrole bedoeld in [artikel 26, tweede lid, onder c, van de Reclasseringsregeling 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=26), is er een controleprotocol dat wordt opgesteld onder de verantwoordelijkheid van Onze Minister.
 
@@ -154,7 +180,7 @@ Het jaarverslag, bedoeld in [artikel 26, tweede lid, onder b, van de Reclasserin
 
 #### Paragraaf 3.3. Informatievoorziening
 
-#### Artikel 14
+##### Artikel 14
 
 1. Een reclasseringsinstelling informeert Onze Minister uiterlijk vier weken na iedere vier maanden over de uitvoering van de managementafspraken, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019016&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2005-11-25&g=2005-11-25), met een inhoudelijke en financiële toelichting ten aanzien van de verschillen met de vorige periodes van vier maanden en de planning voor het desbetreffende jaar.
 
@@ -162,13 +188,13 @@ Het jaarverslag, bedoeld in [artikel 26, tweede lid, onder b, van de Reclasserin
 
 3. In het besluit, bedoeld in [artikel 20, eerste lid, van de Reclasseringsregeling 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=20), wordt nader aangegeven welke informatie als bedoeld in het eerste en tweede lid aan Onze Minister moet worden verstrekt.
 
-#### Artikel 15
+##### Artikel 15
 
 Een reclasseringsinstelling verstrekt aan de Raad voor strafrechtstoepassing en jeugdbescherming de inlichtingen die deze in het kader van zijn taak vraagt.
 
 #### Paragraaf 3.4. Administratieve voorschriften
 
-#### Artikel 16
+##### Artikel 16
 
 1. Een reclasseringsinstelling behoeft de voorafgaande toestemming van Onze Minister voor:
 
@@ -194,7 +220,7 @@ Een reclasseringsinstelling verstrekt aan de Raad voor strafrechtstoepassing en 
 
 - b. het wijzigen van de statuten.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Een reclasseringsinstelling verzekert haar aansprakelijkheid naar burgerlijk recht tegenover derden in voldoende mate.
 
@@ -204,7 +230,7 @@ Een reclasseringsinstelling verstrekt aan de Raad voor strafrechtstoepassing en 
 
 4. De van Onze Minister ontvangen subsidiegelden worden risicomijdend beheerd.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Voor het ter beschikking stellen van goederen aan of het verrichten van diensten voor derden brengt een reclasseringsinstelling een vergoeding in rekening die ten minste kostendekkend is.
 
@@ -212,7 +238,7 @@ Een reclasseringsinstelling verstrekt aan de Raad voor strafrechtstoepassing en 
 
 3. Een reclasseringsinstelling verstrekt desgevraagd aan Onze Minister een beschrijving van de tussen haar en andere rechtspersonen bestaande organisatorische en financiële banden, alsmede van zodanig nog in het leven te roepen of te wijzigen banden, voor zover deze banden van invloed kunnen zijn op de bepaling van de vergoedingen, bedoeld in het eerste lid.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Indien een reclasseringsinstelling haar reclasseringswerkzaamheden beëindigt, komt Onze Minister een direct opeisbare vordering op de reclasseringsinstelling toe op het vermogen en/of de vermogensbestanddelen, zoals bedoeld in [artikel 16, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0019016&hoofdstuk=3&paragraaf=3.4&artikel=16&z=2005-11-25&g=2005-11-25).
 
@@ -222,19 +248,19 @@ Een reclasseringsinstelling verstrekt aan de Raad voor strafrechtstoepassing en 
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
-#### Artikel 20
+##### Artikel 20
 
 De bepalingen van deze regeling zijn van toepassing vanaf het boekjaar 2005.
 
-#### Artikel 21
+##### Artikel 21
 
 De [Uitvoeringsregeling reclassering](https://wetten.overheid.nl/jci1.3:c:BWBR0009679) (Stcrt. 1998, 109) wordt ingetrokken.
 
-#### Artikel 22
+##### Artikel 22
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2005.
 
-#### Artikel 23
+##### Artikel 23
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling reclassering 2005.
 

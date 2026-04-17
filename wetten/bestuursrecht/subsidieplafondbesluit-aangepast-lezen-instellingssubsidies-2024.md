@@ -1,13 +1,38 @@
 ---
 title: "Subsidieplafondbesluit Aangepast Lezen Instellingssubsidies 2024"
 identifier: "BWBR0048313"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-06-22
-laatste_update: 2023-06-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048313"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-06-22"
+last_updated: "2023-06-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048313"
+soort: "zbo"
+stam_id: "16780083"
+version_id: "29471812"
+internal_id: "C42145091"
+label_id: "16695224"
+dtd_version: "2.0"
+original_entry_into_force: "2023-06-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048313/2023-06-22/0"
+intitule_bron: "Stcrt.2023-17173"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-06-13"
+intitule_published: "2023-06-21"
+intitule_in_force: "2023-06-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-17173"
+original_signed_date: "2023-06-13"
+original_published_date: "2023-06-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-17173"
+entry_into_force_date: "2023-06-22"
+jci_1_3: "jci1.3:c:BWBR0048313&z=2023-06-22&g=2023-06-22"
+jci_1_0: "1.0:c:BWBR0048313&g=2023-06-22"
+citeertitel_status: "redactioneel"
+signed_date: "2023-06-13"
+entry_into_force: "2023-06-22"
 ---
-
 # Subsidieplafondbesluit Aangepast Lezen Instellingssubsidies 2024
 
 Het Algemeen Bestuurscollege van de Koninklijke Bibliotheek

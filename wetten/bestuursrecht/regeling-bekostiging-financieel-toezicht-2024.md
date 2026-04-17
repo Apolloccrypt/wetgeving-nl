@@ -1,24 +1,50 @@
 ---
-title: "Regeling bekostiging financieel toezicht 2024"
+title: "Regeling van de Minister van Financiën en de Minister voor Armoedebeleid, Participatie en Pensioenen van 31 mei 2024, kenmerk 2024-0000334410, directie Financiële Markten, tot vaststelling van de bandbreedtes en tarieven, bedoeld in artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019, voor het jaar 2024 (Regeling bekostiging financieel toezicht 2024)"
 identifier: "BWBR0049887"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-12-03
-laatste_update: 2025-12-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049887"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-12-03"
+last_updated: "2025-12-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049887"
+soort: "ministeriele-regeling"
+stam_id: "17148123"
+version_id: "30181282"
+internal_id: "C43242951"
+label_id: "17056484"
+dtd_version: "2.0"
+original_entry_into_force: "2024-06-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049887/2025-12-03/0"
+intitule_bron: "Stcrt.2024-20574"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-05-31"
+intitule_published: "2024-06-28"
+intitule_in_force: "2024-06-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-20574"
+original_signed_date: "2024-05-31"
+original_published_date: "2024-06-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-20574"
+entry_into_force_date: "2024-06-29"
+jci_1_3: "jci1.3:c:BWBR0049887&z=2025-12-03&g=2025-12-03"
+jci_1_0: "1.0:c:BWBR0049887&g=2025-12-03"
+citeertitel_status: "officieel"
+short_title: "Regeling bekostiging financieel toezicht 2024"
+signed_date: "2024-05-31"
+entry_into_force: "2024-06-29"
 ---
-
 # Regeling van de Minister van Financiën en de Minister voor Armoedebeleid, Participatie en Pensioenen van 31 mei 2024, kenmerk 2024-0000334410, directie Financiële Markten, tot vaststelling van de bandbreedtes en tarieven, bedoeld in artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019, voor het jaar 2024 (Regeling bekostiging financieel toezicht 2024)
 
 Gelet op [artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&artikel=9);
 
 BESLUITEN:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder geconsolideerde jaarrekening: jaarrekening waarin de activa, passiva, baten en lasten van personen die een groep of groepsdeel vormen en andere in de consolidatie meegenomen personen, als één geheel zijn opgenomen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor het kalenderjaar 2024 worden de bandbreedtes en tarieven, bedoeld in [artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&artikel=9), voor de personen die onder toezicht van de Autoriteit Financiële Markten vallen, bedoeld in [bijlage 1, onderdeel B, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&bijlage=1), als volgt vastgesteld:
 
@@ -147,7 +173,7 @@ In deze regeling wordt verstaan onder geconsolideerde jaarrekening: jaarrekening
 
 2. Twee of meer aanbieders van beleggingsobjecten waaraan een vergunning is verleend als bedoeld in [artikel 2:55 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:55) en die gedurende het gehele jaar, in steeds dezelfde samenstelling, gezamenlijk aanbiedingen doen aan consumenten, of deze aanbiedingen aan consumenten gezamenlijk beheren, worden voor de toepassing van dit artikel aangemerkt als één persoon.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor het kalenderjaar 2024 worden de bandbreedtes en tarieven, bedoeld in [artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&artikel=9), voor de personen die onder toezicht van de Nederlandsche Bank vallen, bedoeld in [bijlage 2, onderdeel B, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042148&bijlage=2) als volgt vastgesteld:
 
@@ -233,11 +259,11 @@ Voor het kalenderjaar 2024 worden de bandbreedtes en tarieven, bedoeld in [artik
 | Zorgverzekeraars | **Aantal verzekerden** |   | € 2.000 vermeerderd met: |
 | Zorgverzekeraars | **Aantal verzekerden** | >0 verzekerden | € 0,12 per verzekerde |
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling bekostiging financieel toezicht 2024.
 

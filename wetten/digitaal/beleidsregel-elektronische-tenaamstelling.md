@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel elektronische tenaamstelling"
 identifier: "BWBR0037387"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2017-12-13
-laatste_update: 2017-12-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037387"
+country: "nl"
+rank: "zbo"
+publication_date: "2017-12-13"
+last_updated: "2017-12-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037387"
+soort: "zbo"
+stam_id: "13353653"
+version_id: "22890932"
+internal_id: "C33103741"
+label_id: "13321404"
+dtd_version: "2.0"
+original_entry_into_force: "2015-11-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037387/2017-12-13/0"
+intitule_bron: "Stcrt.2015-46906"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-12-01"
+intitule_published: "2015-12-22"
+intitule_in_force: "2015-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-46906"
+original_signed_date: "2015-12-01"
+original_published_date: "2015-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-46906"
+entry_into_force_date: "2015-11-03"
+jci_1_3: "jci1.3:c:BWBR0037387&z=2017-12-13&g=2017-12-13"
+jci_1_0: "1.0:c:BWBR0037387&g=2017-12-13"
+citeertitel_status: "officieel"
+signed_date: "2015-12-01"
+entry_into_force: "2015-11-03"
 ---
-
 # Beleidsregel elektronische tenaamstelling
 
 Gelet op [artikel 50, eerste lid, onderdeel c van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=50);
@@ -16,7 +41,7 @@ besluit:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1. Wijziging van de tenaamstelling langs elektronische weg
+##### Artikel 1. Wijziging van de tenaamstelling langs elektronische weg
 
 1. De aanvraag van een tenaamstelling langs elektronische weg als bedoeld in [artikel 50, eerste lid, onderdeel c van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=50) kan worden ingediend door een natuurlijke persoon.
 
@@ -42,10 +67,10 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 12. In afwijking van het tweede, vierde, negende en tiende lid kan in plaats van ‘kentekencard’ ook ‘tijdelijk document’ worden gelezen als bedoeld in [artikel 25, vijfde lid van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=25).
 
-#### Artikel 2. Inwerkingtreding
+##### Artikel 2. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van 3 november 2015 en vervangt de [Beleidsregel elektronische tenaamstelling](https://wetten.overheid.nl/jci1.3:c:BWBR0037076) van 30 september 2015, nummer JBZ2015/12091.
 
-#### Artikel 3. Citeertitel
+##### Artikel 3. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel elektronische tenaamstelling. Deze beleidsregel zal met toelichting in de Staatscourant worden geplaatst.

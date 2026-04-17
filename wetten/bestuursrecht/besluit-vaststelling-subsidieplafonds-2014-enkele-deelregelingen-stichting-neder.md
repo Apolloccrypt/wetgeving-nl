@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling subsidieplafonds 2014 enkele deelregelingen Stichting Nederlands Letterenfonds"
+title: "Besluit van 12 december 2013 tot vaststelling van subsidieplafonds 2014 voor enkele deelregelingen van de Stichting Nederlands Letterenfonds (Subsidieplafonds geldend voor 2014)"
 identifier: "BWBR0034517"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-12-24
-laatste_update: 2013-12-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034517"
+country: "nl"
+rank: "zbo"
+publication_date: "2013-12-24"
+last_updated: "2013-12-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034517"
+soort: "zbo"
+stam_id: "12510423"
+version_id: "21057102"
+internal_id: "C30236951"
+label_id: "12480994"
+dtd_version: "2.0"
+original_entry_into_force: "2013-12-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034517/2013-12-24/0"
+intitule_bron: "Stcrt.2013-36031"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-12-12"
+intitule_published: "2013-12-24"
+intitule_in_force: "2013-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-36031"
+original_signed_date: "2013-12-12"
+original_published_date: "2013-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-36031"
+entry_into_force_date: "2013-12-24"
+jci_1_3: "jci1.3:c:BWBR0034517&z=2013-12-24&g=2013-12-24"
+jci_1_0: "1.0:c:BWBR0034517&g=2013-12-24"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling subsidieplafonds 2014 enkele deelregelingen Stichting Nederlands Letterenfonds"
+signed_date: "2013-12-12"
+entry_into_force: "2013-12-24"
 ---
-
 # Besluit van 12 december 2013 tot vaststelling van subsidieplafonds 2014 voor enkele deelregelingen van de Stichting Nederlands Letterenfonds (Subsidieplafonds geldend voor 2014)
 
 Gelet op de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),

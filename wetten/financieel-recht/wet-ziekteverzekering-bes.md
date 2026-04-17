@@ -1,18 +1,44 @@
 ---
 title: "Wet ziekteverzekering BES"
 identifier: "BWBR0028728"
-categorie: "Financieel recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028728"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028728"
+soort: "wet-BES"
+stam_id: "10946873"
+version_id: "30621852"
+internal_id: "C43999111"
+label_id: "10921824"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028728/2026-01-01/0"
+intitule_bron: "Stb.2010-603"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-27"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2025-36"
+original_signed_date: "2025-02-10"
+original_published_date: "2025-02-19"
+original_effect: "structuurwijziging"
+original_dossier: "36557"
+original_url_id: "stb-2025-36"
+entry_into_force_date: "2025-07-01"
+jci_1_3: "jci1.3:c:BWBR0028728&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0028728&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-02-10"
+entry_into_force: "2025-07-01"
 ---
-
 # Wet ziekteverzekering BES
 
 ## Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -70,7 +96,7 @@ bron: "https://wetten.overheid.nl/BWBR0028728"
 
 2. Bij algemene maatregel van bestuur kunnen personen, die op grond van het eerste lid niet de hoedanigheid van werknemer hebben, als werknemer worden aangemerkt en kunnen hiervoor nadere regels worden gesteld.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Bij of krachtens algemene maatregel van bestuur kan een uitbreiding dan wel een beperking worden gegeven ten aanzien van degene die als werknemer wordt beschouwd:
 
@@ -82,17 +108,17 @@ Bij of krachtens algemene maatregel van bestuur kan een uitbreiding dan wel een 
 
 - d. ten aanzien van echtgenoten en overige gezinsleden van de werknemer en van de in de onderdelen b en c bedoelde personen.
 
-#### Artikel 1b
+##### Artikel 1b
 
 Vervallen
 
-#### Artikel 1c
+##### Artikel 1c
 
 Vervallen
 
 ## Vaststelling van het loon per dag
 
-#### Artikel 2
+##### Artikel 2
 
 1. Indien het loon geheel of gedeeltelijk bestaat uit huisvesting, verstrekkingen in natura, onderricht of geldelijke uitkeringen waarvan de grootte niet bij voorbaat vaststaat zoals provisie, commissie, tantième, fooien of vergoedingen voor aangenomen werk, bepalen werkgever en werknemer ter vaststelling van het loon per dag de gemiddelde waarde in het economisch verkeer daarvan met overeenkomstige toepassing van [artikel 6C van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6c).
 
@@ -100,7 +126,7 @@ Vervallen
 
 ## Uitkeringen
 
-#### Artikel 3
+##### Artikel 3
 
 1. De werknemer heeft op grond van deze wet tegenover Onze Minister recht op een uitkering:
 
@@ -112,7 +138,7 @@ Vervallen
 
 ## Geneeskundige behandeling en verpleging
 
-#### Artikel 4. Uitkering in verband met zwangerschap en bevalling voor zelfstandigen
+##### Artikel 4. Uitkering in verband met zwangerschap en bevalling voor zelfstandigen
 
 1. De zelfstandige, meewerkende echtgenoot of gelijkgestelde die gedurende het kalenderjaar voorafgaand aan de zwangerschap belasting- of aangifteplichtig was voor de opbrengstbelasting, de vastgoedbelasting, de loonbelasting, de inkomstenbelasting of algemene bestedingsbelasting in het kader van de uitoefening van haar beroep of bedrijf en een belastbare som uit inkomsten uit de onderneming heeft van ten minste de belastingvrije som, genoemd in [artikel 24 van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=24) heeft recht op uitkering in verband met zwangerschap en bevalling gedurende ten minste zestien weken.
 
@@ -126,7 +152,7 @@ De in de eerste zin bedoelde verlenging is uitsluitend van toepassing voor zover
 
 ## Uitkeringen in geld
 
-#### Artikel 5
+##### Artikel 5
 
 1. De werknemer die als gevolg van ziekte arbeidsongeschikt is, heeft recht op een uitkering in geld, ziekengeld genaamd, met ingang van de derde dag na die van de ziekmelding. Niettemin wordt over de dag van de ziekmelding en de twee daarop volgende dagen ziekengeld uitgekeerd, indien naar het oordeel van de behandelende geneeskundige de ziekte opneming in een ziekeninrichting noodzakelijk maakt. Het ziekengeld wordt over de bedoelde drie dagen eveneens uitgekeerd, indien de duur van de ziekte als gevolg van dezelfde ziekteoorzaak langer dan drie dagen bedraagt, ook wanneer geen opneming in een ziekeninrichting noodzakelijk is geweest. Ter zake van eenzelfde ziekteoorzaak vervalt dit recht bij onafgebroken arbeidsongeschiktheid twee jaar nadien, indien het betreft een arbeidsovereenkomst aangegaan voor onbepaalde tijd, ongeacht het voortduren van de arbeidsovereenkomst. Voor een arbeidsovereenkomst aangegaan voor bepaalde tijd vervalt dit recht na verloop van de periode waarvoor zij is aangegaan maar uiterlijk twee jaren na de dag van de ziektemelding wegens eenzelfde ziekteoorzaak en onafgebroken arbeidsongeschiktheid gedurende deze periode. Indien een overeenkomst voor bepaalde tijd verlengd wordt, is het bepaalde met betrekking tot arbeidsovereenkomsten aangegaan voor onbepaalde tijd van toepassing. In geval van zwangerschap wordt de vrouwelijke arbeider geacht gedurende de duur van het zwangerschaps- en bevallingsverlof, bedoeld in [artikel 1614ca van het Burgerlijk Wetboek BES Boek 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1614ca), arbeidsongeschikt te zijn. Voor het bepalen van de onafgebroken arbeidsongeschiktheid gedurende een periode worden tijdvakken van ongeschiktheid samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen.
 
@@ -152,7 +178,7 @@ De in de eerste zin bedoelde verlenging is uitsluitend van toepassing voor zover
 
 ## Vaststelling der tegemoetkoming
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onze Minister stelt op aanvraag, mede aan de hand van de geneeskundige beoordeling, vast of recht op ziekengeld bestaat. De werkgever aan wie op grond van [artikel 5, zesde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=5&z=2026-01-01&g=2026-01-01), de uitkering wordt verstrekt informeert de werknemer zo spoedig mogelijk over de hiermee gemoeide aanspraak.
 
@@ -174,7 +200,7 @@ De in de eerste zin bedoelde verlenging is uitsluitend van toepassing voor zover
 
 geeft hij van deze bevindingen en zijn daaruit volgende voorschriften schriftelijk kennis aan Onze Minister.
 
-#### Artikel 7
+##### Artikel 7
 
 De werknemer heeft geen recht op uitkering of verliest dit recht:
 
@@ -196,13 +222,13 @@ De werknemer heeft geen recht op uitkering of verliest dit recht:
 
 - i. indien en voor zolang hij een uitreiziger is.
 
-#### Artikel 7a
+##### Artikel 7a
 
 In de gevallen dat de beëindiging of het verlies van het recht op uitkering als gevolg van de toepassing van de bepalingen van deze wet tot kennelijke hardheid leidt, is Onze Minister bevoegd, hetzij op verzoek, hetzij ambtshalve deze kennelijke hardheid geheel of gedeeltelijk op te heffen.
 
 ## Vaststelling van de uitkering
 
-#### Artikel 8
+##### Artikel 8
 
 1. Ter zake van de kosten verbonden aan deze wet is een premie verschuldigd, die gezamenlijk wordt geheven met de zorgverzekeringspremie.
 
@@ -222,35 +248,35 @@ In de gevallen dat de beëindiging of het verlies van het recht op uitkering als
 
 9. Ten laste van het Rijk komen de door Onze Minister verstrekte uitkeringen, bedoeld in de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=3&z=2026-01-01&g=2026-01-01), en [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=5&z=2026-01-01&g=2026-01-01), en alle kosten verbonden aan de uitvoering van deze wet.
 
-#### Artikel 8a
+##### Artikel 8a
 
 Voor zover op grond van deze wet niet anders is bepaald en in afwijking van [artikel 14c](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=14c&z=2026-01-01&g=2026-01-01) is ten aanzien van de premieheffing en invordering op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=8&z=2026-01-01&g=2026-01-01) en de invordering daarvan [hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII) van overeenkomstige toepassing.
 
-#### Artikel 8b
+##### Artikel 8b
 
 Vervallen
 
-#### Artikel 8c
+##### Artikel 8c
 
 Vervallen
 
-#### Artikel 8d
+##### Artikel 8d
 
 Vervallen
 
-#### Artikel 8e
+##### Artikel 8e
 
 Vervallen
 
-#### Artikel 8f
+##### Artikel 8f
 
 Vervallen
 
-#### Artikel 8g
+##### Artikel 8g
 
 Vervallen
 
-#### Artikel 8h
+##### Artikel 8h
 
 1. De werkgever, diens vaste vertegenwoordiger, de leider van de vaste inrichting van de werkgever of degene die de leiding heeft van binnen de openbare lichamen Bonaire, Sint Eustatius of Saba verrichte werkzaamheden is desgevraagd gehouden aan Onze Minister of aan de door deze aangewezen personen en deskundigen inzage te verlenen of afschrift te verstrekken van de boeken, bescheiden en geschriften, welke voor de vaststelling van de premie redelijkerwijs van belang zijn.
 
@@ -258,43 +284,43 @@ Vervallen
 
 3. Bij een weigering om te voldoen aan een verplichting als bedoeld in het eerste lid, kan een werkgever, diens vaste vertegenwoordiger, de leider van de vaste inrichting van de werkgever of degene die de leiding heeft van binnen de openbare lichamen Bonaire, Sint Eustatius of Saba verrichte werkzaamheden, niet met vrucht een beroep doen op de omstandigheid dat hij uit hoofde van zijn stand, zijn beroep of zijn ambt tot geheimhouding verplicht is, zelfs al mocht deze hem bij enig wettelijk voorschrift zijn opgelegd.
 
-#### Artikel 8i
+##### Artikel 8i
 
 Het is een ieder verboden hetgeen hem, bij de uitvoering van deze wet of in verband daarmee, over inkomen, opbrengst, uitdelingen, medische gegevens en in het algemeen over de zaken of werkzaamheden van een ander, blijkt of medegedeeld wordt, verder bekend te maken dan nodig is voor de uitvoering van deze wet.
 
 ## Invordering
 
-#### Artikel 8j
+##### Artikel 8j
 
 Vervallen
 
 ## Eigen risico-dragers
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
 ## Beroep
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 10a
+##### Artikel 10a
 
 [vervallen]
 
-#### Artikel 10b
+##### Artikel 10b
 
 [vervallen]
 
-#### Artikel 10c
+##### Artikel 10c
 
 [vervallen]
 
 ## Uitvoering, inlichtingen en toezicht
 
-#### Artikel 11
+##### Artikel 11
 
 1. De termijnen van het ziekengeld, die niet zijn ingevorderd binnen twee jaar na de eerste dag, waarop zij konden worden ingevorderd, worden niet meer uitbetaald.
 
@@ -314,7 +340,7 @@ Vervallen
 
 ## Uitvoering en toezicht
 
-#### Artikel 12
+##### Artikel 12
 
 1. Onze Minister is belast met de uitvoering van deze wet, met dien verstande, dat de heffing van de premie geschiedt door de inspecteur en de invordering daarvan door de ontvanger.
 
@@ -322,7 +348,7 @@ Vervallen
 
 3. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de verplichtingen, bedoeld in het tweede lid.
 
-#### Artikel 12a
+##### Artikel 12a
 
 1. Onze Minister kan bij ministeriële regeling functionarissen aanwijzen, die zijn belast met het toezicht op deze wet.
 
@@ -332,17 +358,17 @@ Vervallen
 
 4. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de taakuitoefening van de op grond van het eerste lid aangewezen functionarissen.
 
-#### Artikel 13
+##### Artikel 13
 
 Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ter uitvoering van deze wet.
 
-#### Artikel 14
+##### Artikel 14
 
 Alle op grond van deze wet opgemaakte of overgelegde stukken, verzoekschriften en beschikkingen zijn vrij van het recht van zegel en van de formaliteit van registratie.
 
 ## Bekendmaking beschikkingen
 
-#### Artikel 14a
+##### Artikel 14a
 
 1. Op overtreding van [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=11&z=2026-01-01&g=2026-01-01), en het niet of niet tijdig nakomen van een van de verplichtingen gesteld bij de [artikelen 5, zesde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=5&z=2026-01-01&g=2026-01-01), [6, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=6&z=2026-01-01&g=2026-01-01), [8h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=8h&z=2026-01-01&g=2026-01-01), [8i](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=8i&z=2026-01-01&g=2026-01-01), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=12&z=2026-01-01&g=2026-01-01), en krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=13&z=2026-01-01&g=2026-01-01) wordt een boete geheven van de tweede categorie.
 
@@ -354,7 +380,7 @@ Alle op grond van deze wet opgemaakte of overgelegde stukken, verzoekschriften e
 
 ## Bezwaar en beroep
 
-#### Artikel 15
+##### Artikel 15
 
 1. Overtreding van [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=11&z=2026-01-01&g=2026-01-01), en het niet of niet tijdig nakomen van een van de verplichtingen gesteld bij de [artikelen 5, zesde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=5&z=2026-01-01&g=2026-01-01), [6, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=6&z=2026-01-01&g=2026-01-01), [8h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=8h&z=2026-01-01&g=2026-01-01), [8i](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=8i&z=2026-01-01&g=2026-01-01), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=12&z=2026-01-01&g=2026-01-01), en op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=13&z=2026-01-01&g=2026-01-01) wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de derde categorie.
 
@@ -364,11 +390,11 @@ Alle op grond van deze wet opgemaakte of overgelegde stukken, verzoekschriften e
 
 4. De in het eerste lid strafbaar gestelde feiten zijn overtredingen en de in het tweede en derde lid strafbaar gestelde feiten misdrijven.
 
-#### Artikel 15a
+##### Artikel 15a
 
 Een administratieve boete vervalt, indien degene aan wie de administratieve boete is opgelegd, wegens het feit op grond waarvan boete is verschuldigd, onherroepelijk is veroordeeld, is vrijgesproken of is ontslagen van rechtsvervolging.
 
-#### Artikel 15b
+##### Artikel 15b
 
 1. Met de opsporing van bij deze wet strafbaar gestelde feiten zijn, naast de in [artikel 184 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184) bedoelde ambtenaren, belast de door Onze Minister van Justitie, in overeenstemming met Onze Minister, aangewezen ambtenaren.
 
@@ -376,7 +402,7 @@ Een administratieve boete vervalt, indien degene aan wie de administratieve boet
 
 ## Strafbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 Deze wet wordt aangehaald als: Wet ziekteverzekering BES.
 
@@ -394,7 +420,7 @@ Deze wet wordt aangehaald als: Wet ziekteverzekering BES.
 
 ## Advisering
 
-#### Artikel 14b
+##### Artikel 14b
 
 1. De bekendmaking van een beschikking geschiedt door toezending of uitreiking aan de rechthebbende.
 
@@ -402,7 +428,7 @@ Deze wet wordt aangehaald als: Wet ziekteverzekering BES.
 
 3. De beschikking vermeldt de dagtekening van de beslissing, de gronden waarop deze berust, alsmede waar beroep kan worden ingesteld.
 
-#### Artikel 14c
+##### Artikel 14c
 
 1. De belanghebbende kan tegen een beschikking op grond van deze wet beroep instellen bij het Gerecht, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=1).
 
@@ -412,13 +438,13 @@ Deze wet wordt aangehaald als: Wet ziekteverzekering BES.
 
 4. Met betrekking tot een beschikking op grond van [artikel 7, aanhef en onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=7&z=2026-01-01&g=2026-01-01), kan het Gerecht, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=1), indien het bestuursorgaan niet voldoet aan de verplichting, bedoeld in [artikel 23 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=23), daaruit de gevolgtrekking maken die hem geraden voorkomt.
 
-#### Artikel 14d
+##### Artikel 14d
 
 [Afdeling 3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.3) is van toepassing met dien verstande dat in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:5), in plaats van «besluiten» wordt gelezen «beschikkingen» en in de [artikelen 3:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:6), [3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:8) en [3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:9) in plaats van «het besluit» wordt gelezen «de beschikking».
 
 ## Bekendmaking beschikkingen
 
-#### Artikel 12b
+##### Artikel 12b
 
 1. Onverminderd voorschriften als gesteld op grond van [artikel 7, eerste lid, onderdelen d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=7&z=2026-01-01&g=2026-01-01), kunnen bij ministeriële regeling controlevoorschriften worden vastgesteld. Deze voorschriften gaan niet verder dan strikt noodzakelijk is voor een juiste uitvoering van deze wet.
 
@@ -438,7 +464,7 @@ Deze wet wordt aangehaald als: Wet ziekteverzekering BES.
 
 ## Citeertitel
 
-#### Artikel 4a. Aanvraag van uitkering door zelfstandige
+##### Artikel 4a. Aanvraag van uitkering door zelfstandige
 
 1. De zelfstandige, meewerkende echtgenoot of gelijkgestelde die in aanmerking wenst te komen voor toekenning van een uitkering in verband met zwangerschap en bevalling doet de aanvraag daartoe bij Onze Minister uiterlijk twee weken voor de datum waarop zij het recht op uitkering wil laten ingaan. Bij die aanvraag wordt in ieder geval gemeld:
 
@@ -450,11 +476,11 @@ Deze wet wordt aangehaald als: Wet ziekteverzekering BES.
 
 3. Indien het recht op uitkering wordt verlengd op grond van [artikel 4, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=4&z=2026-01-01&g=2026-01-01), brengt de zelfstandige, meewerkende echtgenoot of gelijkgestelde Onze Minister daarvan op de hoogte, waarbij in het geval, bedoeld in artikel 4, vijfde lid, zij de verklaring van het ziekenhuis overlegt.
 
-#### Artikel 4b. Hoogte van de uitkering voor zelfstandige
+##### Artikel 4b. Hoogte van de uitkering voor zelfstandige
 
 De uitkering in verband met zwangerschap en bevalling voor de zelfstandige, de meewerkende echtgenoot of de gelijkgestelde, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=4&z=2026-01-01&g=2026-01-01), is gelijk aan het op grond van [artikel 9 van de Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&artikel=9) vastgestelde toepasselijke bedrag.
 
-#### Artikel 4ba. Tegemoetkoming ontbrekende uitkering zwangerschap en bevalling
+##### Artikel 4ba. Tegemoetkoming ontbrekende uitkering zwangerschap en bevalling
 
 1. Onze Minister kan een financiële tegemoetkoming verstrekken aan een zelfstandige, meewerkende echtgenoot of gelijkgestelde waarvan aannemelijk is dat deze ten tijde van diens bevalling voldeed aan de voorwaarden voor een uitkering in verband met zwangerschap en bevalling op basis van deze wet en die:
 
@@ -476,7 +502,7 @@ De uitkering in verband met zwangerschap en bevalling voor de zelfstandige, de m
 
 3. Dit artikel vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 4c. Uitkering in verband met geboorteverlof
+##### Artikel 4c. Uitkering in verband met geboorteverlof
 
 1. De werknemer die op grond van [artikel 1614ce van Boek 7A van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1614ce) recht heeft op geboorteverlof, heeft recht op uitkering in verband met geboorteverlof.
 
@@ -490,11 +516,11 @@ De uitkering in verband met zwangerschap en bevalling voor de zelfstandige, de m
 
 ## Geneeskundige behandeling en verpleging
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. De beschikking tot toekenning van de uitkering vermeldt het bedrag dat wordt verstrekt aan de werkgever, bedoeld in [artikel 5, zesde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=5&z=2026-01-01&g=2026-01-01), en indien de werkgever zijn verplichting, genoemd in artikel 5, zesde lid, eerste zin, niet naleeft, aan de werknemer.
 
@@ -510,7 +536,7 @@ Vervallen
 
 ## Vorderingen en aansprakelijkheid
 
-#### Artikel 12c
+##### Artikel 12c
 
 1. Onze Minister kan de betaling opschorten of schorsen, indien op grond van duidelijke aanwijzingen het oordeel is of het gegronde vermoeden bestaat, dat:
 
@@ -530,7 +556,7 @@ Vervallen
 
 4. Onze Minister doet schriftelijk mededeling van de opschorting of schorsing.
 
-#### Artikel 12d
+##### Artikel 12d
 
 1. Onze Minister kan een beschikking herzien dan wel intrekken indien:
 
@@ -542,7 +568,7 @@ Vervallen
 
 2. Indien daarvoor dringende redenen aanwezig zijn, kan Onze Minister geheel of gedeeltelijk van herziening of intrekking afzien.
 
-#### Artikel 12e
+##### Artikel 12e
 
 1. Onze Minister is bevoegd een ten onrechte uitbetaalde uitkering terug te vorderen van diegene aan wie de uitkering is betaald, indien:
 
@@ -566,7 +592,7 @@ Vervallen
 
 ## Overgangsbepalingen
 
-#### Artikel 15c
+##### Artikel 15c
 
 1. Een herziening of intrekking van een beschikking op grond van [artikel 12d](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=12d&z=2026-01-01&g=2026-01-01), vindt uitsluitend plaats indien de herziening of intrekking ziet op een periode op of na de dag van inwerkingtreding van [artikel VIII, onderdeel Id](https://wetten.overheid.nl/jci1.3:c:BWBR0050791&artikel=VIII).
 

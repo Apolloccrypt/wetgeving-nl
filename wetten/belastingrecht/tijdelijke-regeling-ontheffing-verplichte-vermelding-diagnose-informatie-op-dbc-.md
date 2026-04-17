@@ -1,13 +1,38 @@
 ---
 title: "Tijdelijke Regeling Ontheffing verplichte vermelding diagnose-informatie op DBC-factuur"
 identifier: "BWBR0031495"
-categorie: "Belastingrecht"
-publicatiedatum: 2012-04-26
-laatste_update: 2012-03-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031495"
+country: "nl"
+rank: "zbo"
+publication_date: "2012-04-26"
+last_updated: "2012-03-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031495"
+soort: "zbo"
+stam_id: "11717213"
+version_id: "19349242"
+internal_id: "C27039661"
+label_id: "11689834"
+dtd_version: "2.0"
+original_entry_into_force: "2012-04-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031495/2012-04-26/0"
+intitule_bron: "Stcrt.2012-8158"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-04-03"
+intitule_published: "2012-04-25"
+intitule_in_force: "2012-04-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-8158"
+original_signed_date: "2012-04-03"
+original_published_date: "2012-04-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-8158"
+entry_into_force_date: "2012-04-26"
+jci_1_3: "jci1.3:c:BWBR0031495&z=2012-04-26&g=2012-04-26"
+jci_1_0: "1.0:c:BWBR0031495&g=2012-04-26"
+citeertitel_status: "redactioneel"
+signed_date: "2012-04-03"
+entry_into_force: "2012-04-26"
 ---
-
 # Tijdelijke Regeling Ontheffing verplichte vermelding diagnose-informatie op DBC-factuur
 
 Ingevolge [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37) en [38 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van de wijze waarop het declaratieverkeer tussen zorgaanbieder en patiënt, respectievelijk zorgverzekeraar plaatsvindt. Meer in het bijzonder is de NZa op grond van artikel 38, derde lid, onder b, Wmg, bevoegd tot het stellen van nadere regels betreffende het door zorgaanbieders specificeren van op verrichte prestaties betrekking hebbende rekeningen.

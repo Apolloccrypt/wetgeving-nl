@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling duurzaam maatschappelijk vastgoed 2025"
+title: "Regeling van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 22 mei 2025, nr. 2025-0000305917, houdende regels met betrekking tot de stimulering van verduurzaming van maatschappelijk vastgoed"
 identifier: "BWBR0051069"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-08-23
-laatste_update: 2025-08-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051069"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-08-23"
+last_updated: "2025-08-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051069"
+soort: "ministeriele-regeling"
+stam_id: "17437373"
+version_id: "30886412"
+internal_id: "C44260071"
+label_id: "17340494"
+dtd_version: "2.0"
+original_entry_into_force: "2025-08-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051069/2025-08-23/0"
+intitule_bron: "Stcrt.2025-17361"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-05-22"
+intitule_published: "2025-05-28"
+intitule_in_force: "2025-05-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-25474"
+original_signed_date: "2025-08-19"
+original_published_date: "2025-08-22"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-25474"
+entry_into_force_date: "2025-08-19"
+jci_1_3: "jci1.3:c:BWBR0051069&z=2025-08-23&g=2025-08-23"
+jci_1_0: "1.0:c:BWBR0051069&g=2025-08-23"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling duurzaam maatschappelijk vastgoed 2025"
+signed_date: "2025-08-19"
+entry_into_force: "2025-08-19"
 ---
-
 # Regeling van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 22 mei 2025, nr. 2025-0000305917, houdende regels met betrekking tot de stimulering van verduurzaming van maatschappelijk vastgoed
 
 Gelet op de [artikelen 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=3), en [4, eerste lid, van de Kaderwet overige BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=4) en de [artikelen 6, vierde lid, vijfde lid, onderdeel b, en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=6), [8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=8), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=14), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=18) en [24, vijfde lid, van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=24);
@@ -16,7 +42,7 @@ BESLUIT
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -114,11 +140,11 @@ In deze regeling wordt verstaan onder:
 
 - **verduurzamingsmaatregel:** maatregel die aantoonbaar direct leidt tot energiebesparing of reductie van koolstofdioxide-emissies, niet zijnde een gedragsmaatregel.
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Deze regeling heeft tot doel eigenaren van bestaand maatschappelijk vastgoed te stimuleren om te investeren in ten hoogste drie verduurzamingsmaatregelen of een integraal verduurzamingsproject ten behoeve van het verbeteren van de energieprestatie of energie-efficiëntie van maatschappelijk vastgoed en bouwwerken op hetzelfde perceel die het doel van het maatschappelijk vastgoed ondersteunen.
 
-#### Artikel 3. Activiteiten waarvoor een subsidie kan worden verstrekt
+##### Artikel 3. Activiteiten waarvoor een subsidie kan worden verstrekt
 
 De minister kan aan een eigenaar van bestaand maatschappelijk vastgoed op aanvraag subsidie verstrekken voor een investering in maatregelen bestaande uit:
 
@@ -126,7 +152,7 @@ De minister kan aan een eigenaar van bestaand maatschappelijk vastgoed op aanvra
 
 - b. een integraal verduurzamingsproject.
 
-#### Artikel 4. Aanvraagperiode en wijze van indienen
+##### Artikel 4. Aanvraagperiode en wijze van indienen
 
 1. Een aanvraag voor een subsidie kan worden ingediend van 2 juni 2025 tot en met 31 oktober 2025 of tot en met de dag waarop het subsidieplafond wordt bereikt.
 
@@ -134,7 +160,7 @@ De minister kan aan een eigenaar van bestaand maatschappelijk vastgoed op aanvra
 
 3. Aanvragen kunnen worden ingediend vanaf 09:00 uur op de in het eerste lid genoemde begindatum en zijn tijdig ingediend indien zij op de in het eerste lid genoemde einddatum vóór 17:00 uur zijn ontvangen.
 
-#### Artikel 5. Subsidieplafond en wijze van verdeling
+##### Artikel 5. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt € 121.500.000 voor aanvragen voor subsidie als bedoeld in [artikel 3, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051069&hoofdstuk=1&artikel=3&z=2025-08-23&g=2025-08-23).
 
@@ -148,7 +174,7 @@ De minister kan aan een eigenaar van bestaand maatschappelijk vastgoed op aanvra
 
 4. De minister verdeelt het beschikbare bedrag op volgorde van binnenkomst van de aanvragen.
 
-#### Artikel 6. Staatssteun
+##### Artikel 6. Staatssteun
 
 1. Een subsidie als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051069&hoofdstuk=2&artikel=8&z=2025-08-23&g=2025-08-23), kan staatssteun bevatten en gerechtvaardigd worden door de reguliere de-minimisverordening.
 
@@ -160,7 +186,7 @@ De minister kan aan een eigenaar van bestaand maatschappelijk vastgoed op aanvra
 
 5. Een subsidie als bedoeld in [artikel 15, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0051069&hoofdstuk=3&artikel=15&z=2025-08-23&g=2025-08-23), kan staatssteun bevatten en gerechtvaardigd worden door de reguliere de-minimisverordening.
 
-#### Artikel 7. Openbaarmaking van gegevens over steunverlening
+##### Artikel 7. Openbaarmaking van gegevens over steunverlening
 
 1. De minister publiceert binnen zes maanden nadat de subsidie is verleend de gegevens, bedoeld in artikel 9, eerste lid, onderdeel c, van de algemene groepsvrijstellingsverordening, als de subsidie aan een project meer bedraagt dan € 100.000.
 
@@ -168,7 +194,7 @@ De minister kan aan een eigenaar van bestaand maatschappelijk vastgoed op aanvra
 
 ### Hoofdstuk 2. Subsidie voor (combinaties van) verduurzamingsmaatregelen
 
-#### Artikel 8. Subsidiabele kosten
+##### Artikel 8. Subsidiabele kosten
 
 1. Een subsidie als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051069&hoofdstuk=1&artikel=3&z=2025-08-23&g=2025-08-23), kan worden verleend voor:
 
@@ -182,7 +208,7 @@ De minister kan aan een eigenaar van bestaand maatschappelijk vastgoed op aanvra
 
 3. Voor de toepassing van het eerste lid wordt onder maatschappelijk vastgoed ook begrepen bouwwerken op hetzelfde perceel die het doel van het maatschappelijk vastgoed ondersteunen.
 
-#### Artikel 9. Hoogte van de subsidie
+##### Artikel 9. Hoogte van de subsidie
 
 1. De subsidie, bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051069&hoofdstuk=1&artikel=3&z=2025-08-23&g=2025-08-23), bedraagt 20% van de kosten, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051069&hoofdstuk=2&artikel=8&z=2025-08-23&g=2025-08-23), met een minimumbedrag van € 5.000 per aanvraag en een maximumbedrag van € 1.500.000 per gebouwde onroerende zaak.
 
@@ -192,7 +218,7 @@ De minister kan aan een eigenaar van bestaand maatschappelijk vastgoed op aanvra
 
 4. Voor de toepassing van het eerste lid wordt onder gebouwde onroerende zaak ook begrepen bouwwerken op hetzelfde perceel die het doel van het maatschappelijk vastgoed ondersteunen.
 
-#### Artikel 10. Aanvraagvereisten
+##### Artikel 10. Aanvraagvereisten
 
 1. In aanvulling op [artikel 11, derde lid, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11), bevat een aanvraag voor subsidie als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051069&hoofdstuk=1&artikel=3&z=2025-08-23&g=2025-08-23), ten minste:
 
@@ -222,7 +248,7 @@ De minister kan aan een eigenaar van bestaand maatschappelijk vastgoed op aanvra
 
 4. In afwijking van het eerste lid bevat een aanvraag voor subsidie als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051069&hoofdstuk=1&artikel=3&z=2025-08-23&g=2025-08-23), als de subsidie wordt gerechtvaardigd door de algemene groepsvrijstellingsverordening, een advies als bedoeld in [bijlage 3, onderdeel A.5](https://wetten.overheid.nl/jci1.3:c:BWBR0051069&bijlage=3&z=2025-08-23&g=2025-08-23), dat niet ouder is dan 48 maanden op het moment van de aanvraag.
 
-#### Artikel 11. Afwijzingsgronden
+##### Artikel 11. Afwijzingsgronden
 
 1. Onverminderd het bepaalde in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=12) en [13 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=13), wijst de minister een aanvraag voor een subsidie als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051069&hoofdstuk=1&artikel=3&z=2025-08-23&g=2025-08-23), af voor zover:
 
@@ -282,7 +308,7 @@ De minister kan aan een eigenaar van bestaand maatschappelijk vastgoed op aanvra
 
 - 2. niet gezamenlijk leiden tot een verbetering van de energieprestatie van het gebouw, gemeten in primaire energie van ten minste 20%.
 
-#### Artikel 12. Subsidieverplichtingen
+##### Artikel 12. Subsidieverplichtingen
 
 1. Onverminderd [artikel 21 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=21), is de subsidieontvanger verplicht:
 
@@ -298,13 +324,13 @@ De minister kan aan een eigenaar van bestaand maatschappelijk vastgoed op aanvra
 
 5. [Artikel 19 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=19) is niet van toepassing op een subsidie als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051069&hoofdstuk=1&artikel=3&z=2025-08-23&g=2025-08-23).
 
-#### Artikel 13. Bevoorschotting en betaling
+##### Artikel 13. Bevoorschotting en betaling
 
 1. De minister keert bij subsidiebedragen vanaf € 25.000 een voorschot uit van 70% van het verleende bedrag.
 
 2. Het voorschot wordt in één keer betaald.
 
-#### Artikel 14. Vaststelling
+##### Artikel 14. Vaststelling
 
 1. De minister stelt een subsidie als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051069&hoofdstuk=1&artikel=3&z=2025-08-23&g=2025-08-23), die minder dan € 25.000 bedraagt direct vast conform [artikel 16, tweede lid, onderdeel a van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=16).
 
@@ -324,7 +350,7 @@ De minister kan aan een eigenaar van bestaand maatschappelijk vastgoed op aanvra
 
 ### Hoofdstuk 3. Subsidie voor integrale verduurzamingsprojecten
 
-#### Artikel 15. Subsidiabele kosten
+##### Artikel 15. Subsidiabele kosten
 
 1. Een subsidie als bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051069&hoofdstuk=1&artikel=3&z=2025-08-23&g=2025-08-23), kan worden verleend voor:
 
@@ -336,7 +362,7 @@ De minister kan aan een eigenaar van bestaand maatschappelijk vastgoed op aanvra
 
 2. De advieskosten, bedoeld in het eerste lid, onderdelen b en c, komen alleen voor subsidie in aanmerking als een aanvraag voor verlening van subsidie voor projectkosten als bedoeld in het eerste lid, onderdeel a, is ingediend.
 
-#### Artikel 16. Hoogte van de subsidie
+##### Artikel 16. Hoogte van de subsidie
 
 1. De subsidie, bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051069&hoofdstuk=1&artikel=3&z=2025-08-23&g=2025-08-23), bedraagt 30% van de projectkosten van de subsidiabele activiteiten en ten minste € 25.000 per aanvraag en ten hoogste € 1.500.000 per gebouwde onroerende zaak indien een verduurzamingspakket als bedoeld in [bijlage 3, onderdeel P.1 of P.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051069&bijlage=3&z=2025-08-23&g=2025-08-23), wordt uitgevoerd.
 
@@ -352,7 +378,7 @@ De minister kan aan een eigenaar van bestaand maatschappelijk vastgoed op aanvra
 
 7. De maximale projectkosten die voor de subsidie in aanmerking komen bedragen per labelsprong € 220 exclusief btw per m2 gebruiksoppervlakte indien een verduurzamingspakket als bedoeld in [bijlage 3, onderdeel P.1 of P.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051069&bijlage=3&z=2025-08-23&g=2025-08-23), wordt uitgevoerd.
 
-#### Artikel 17. Aanvraagvereisten
+##### Artikel 17. Aanvraagvereisten
 
 1. In aanvulling op de gegevens en bescheiden, bedoeld in [artikel 11, derde lid, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11), bevat een aanvraag voor subsidie als bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051069&hoofdstuk=1&artikel=3&z=2025-08-23&g=2025-08-23), ten minste:
 
@@ -386,7 +412,7 @@ De minister kan aan een eigenaar van bestaand maatschappelijk vastgoed op aanvra
 
 - d. de groottecategorie van de onderneming, te weten klein of middelgroot in de zin van bijlage I van de algemene groepsvrijstellingsverordening, ofwel een grote onderneming als deze buiten de categorieën klein of middelgroot valt, als een subsidie als bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051069&hoofdstuk=3&artikel=16&z=2025-08-23&g=2025-08-23), wordt aangevraagd.
 
-#### Artikel 18. Afwijzingsgronden
+##### Artikel 18. Afwijzingsgronden
 
 1. Onverminderd het bepaalde in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=12) en [13 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=13), wijst de minister een aanvraag voor een subsidie als bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051069&hoofdstuk=1&artikel=3&z=2025-08-23&g=2025-08-23), af voor zover:
 
@@ -428,7 +454,7 @@ De minister kan aan een eigenaar van bestaand maatschappelijk vastgoed op aanvra
 
 - d. de onderneming het vastgoed gebruikt voor de primaire productie van landbouw-, visserij- of aquacultuurproducten.
 
-#### Artikel 19. Subsidieverplichtingen
+##### Artikel 19. Subsidieverplichtingen
 
 1. Onverminderd [artikel 21 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=21), is de subsidieontvanger verplicht:
 
@@ -448,13 +474,13 @@ De minister kan aan een eigenaar van bestaand maatschappelijk vastgoed op aanvra
 
 7. [Artikel 19 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=19) is niet van toepassing op een subsidie als bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051069&hoofdstuk=1&artikel=3&z=2025-08-23&g=2025-08-23).
 
-#### Artikel 20. Bevoorschotting en betaling
+##### Artikel 20. Bevoorschotting en betaling
 
 1. De minister keert een voorschot uit van 70% van het verleende bedrag.
 
 2. Het voorschot wordt in één keer betaald.
 
-#### Artikel 21. Vaststelling
+##### Artikel 21. Vaststelling
 
 1. De minister stelt een subsidie als bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051069&hoofdstuk=1&artikel=3&z=2025-08-23&g=2025-08-23), vast nadat de aanvrager een verklaring inzake werkelijke kosten en opbrengsten aan de minister heeft verstrekt.
 
@@ -474,15 +500,15 @@ De minister kan aan een eigenaar van bestaand maatschappelijk vastgoed op aanvra
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 22. Overgangsrecht
+##### Artikel 22. Overgangsrecht
 
 Op aanvragen om subsidie die zijn ingediend voor het tijdstip van inwerkingtreding van een wijziging van deze regeling, op subsidies die voor dat tijdstip zijn verleend en op subsidies die voor dat tijdstip zijn vastgesteld, blijft deze regeling van toepassing zoals deze luidde voor dat tijdstip tenzij de wijziging met terugwerkende kracht in werking treedt.
 
-#### Artikel 23. Inwerkingtreding en vervaldatum
+##### Artikel 23. Inwerkingtreding en vervaldatum
 
 Deze regeling treedt in werking met ingang van 2 juni 2025 en vervalt met ingang van 30 september 2027, met dien verstande dat zij van toepassing blijft op subsidies die op grond van deze regeling vóór laatstgenoemde datum zijn aangevraagd of verstrekt.
 
-#### Artikel 24. Citeertitel
+##### Artikel 24. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling duurzaam maatschappelijk vastgoed 2025.
 

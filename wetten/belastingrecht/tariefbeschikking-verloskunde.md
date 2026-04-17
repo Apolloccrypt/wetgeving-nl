@@ -1,13 +1,38 @@
 ---
 title: "Tariefbeschikking verloskunde"
 identifier: "BWBR0032801"
-categorie: "Belastingrecht"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032801"
+country: "nl"
+rank: "zbo"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032801"
+soort: "zbo"
+stam_id: "12080743"
+version_id: "20123642"
+internal_id: "C28276581"
+label_id: "12052344"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032801/2013-01-01/0"
+intitule_bron: "Stcrt.2013-1422"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-01-09"
+intitule_published: "2013-01-23"
+intitule_in_force: "2013-01-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-1422"
+original_signed_date: "2013-01-09"
+original_published_date: "2013-01-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-1422"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032801&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0032801&g=2013-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2013-01-09"
+entry_into_force: "2013-01-01"
 ---
-
 # Tariefbeschikking verloskunde
 
 De Nederlandse Zorgautoriteit

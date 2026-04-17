@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanpassing toetsing beschikbaarheidbijdrage SEH en AV"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 16 juni 2015, kenmerk 776212-137548-MC, houdende aanpassing toetsing beschikbaarheidbijdrage SEH en AV"
 identifier: "BWBR0036716"
-categorie: "Sociaal recht"
-publicatiedatum: 2015-06-23
-laatste_update: 2015-06-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036716"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-06-23"
+last_updated: "2015-06-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036716"
+soort: "ministeriele-regeling"
+stam_id: "13184763"
+version_id: "22469532"
+internal_id: "C32248781"
+label_id: "13153054"
+dtd_version: "2.0"
+original_entry_into_force: "2015-06-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036716/2015-06-23/0"
+intitule_bron: "Stcrt.2015-16992"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-06-16"
+intitule_published: "2015-06-23"
+intitule_in_force: "2015-06-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-16992"
+original_signed_date: "2015-06-16"
+original_published_date: "2015-06-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-16992"
+entry_into_force_date: "2015-06-23"
+jci_1_3: "jci1.3:c:BWBR0036716&z=2015-06-23&g=2015-06-23"
+jci_1_0: "1.0:c:BWBR0036716&g=2015-06-23"
+citeertitel_status: "redactioneel"
+short_title: "Regeling aanpassing toetsing beschikbaarheidbijdrage SEH en AV"
+signed_date: "2015-06-16"
+entry_into_force: "2015-06-23"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 16 juni 2015, kenmerk 776212-137548-MC, houdende aanpassing toetsing beschikbaarheidbijdrage SEH en AV
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -34,7 +60,7 @@ Gelet op de brief van 3 juni 2015, kenmerk 754612-135544-CZ, inzake Functionalit
 
 Besluit:
 
-#### Artikel 1. definities
+##### Artikel 1. definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -46,15 +72,15 @@ In deze aanwijzing wordt verstaan onder:
 
 - d. **bijlage:** [bijlage behorende bij de artikelen 2 en 4 van het Besluit](onbekend).
 
-#### Artikel 2. werkingssfeer
+##### Artikel 2. werkingssfeer
 
 Deze aanwijzing is van toepassing op medisch specialistische zorg als bedoeld in [onderdeel B, aanhef en onder 3 tot en met 9, 12 en 13 van de bijlage](onbekend).
 
-#### Artikel 3. opdrachtverlening
+##### Artikel 3. opdrachtverlening
 
 De zorgautoriteit stelt ter uitvoering van deze aanwijzing regels of beleidsregels vast.
 
-#### Artikel 4. spoedeisende hulp
+##### Artikel 4. spoedeisende hulp
 
 1. De zorgautoriteit verleent een beschikbaarheidbijdrage en stelt deze vast voor zorg als bedoeld in [onderdeel B, aanhef en onder 7, van de bijlage](onbekend).
 
@@ -62,13 +88,13 @@ De zorgautoriteit stelt ter uitvoering van deze aanwijzing regels of beleidsrege
 
 3. Voor zorgaanbieders die in 2012 geen beschikbaarheidbijdrage voor deze zorg ontvingen, verstrekt de zorgautoriteit een beschikbaarheidbijdrage uitsluitend onder de voorwaarde dat die bijdrage tot doel heeft een dreigende verslechtering in de bereikbaarheid te voorkomen ten opzichte van de thans bestaande landelijke situatie, uitgaande van gevoeligheid voor de zogenaamde 45-minuten bereikbaarheidsnorm als bedoeld in [onderdeel B, aanhef en onder 7 van de bijlage](onbekend).
 
-#### Artikel 5. acute verloskunde
+##### Artikel 5. acute verloskunde
 
 1. De zorgautoriteit verleent een beschikbaarheidbijdrage en stelt deze vast voor zorg als bedoeld in [onderdeel B, aanhef en onder 8, van de bijlage](onbekend).
 
 2. De zorgautoriteit verstrekt de beschikbaarheidbijdrage uitsluitend onder de voorwaarde dat die bijdrage tot doel heeft een dreigende verslechtering in de bereikbaarheid te voorkomen ten opzichte van de thans bestaande landelijke situatie, uitgaande van gevoeligheid voor de zogenaamde 45-minuten bereikbaarheidsnorm als bedoeld in [onderdeel B, aanhef en onder 8, van de bijlage](onbekend).
 
-#### Artikel 6
+##### Artikel 6
 
 Deze aanwijzing treedt terstond in werking en werkt terug tot en met 1 januari 2013.
 

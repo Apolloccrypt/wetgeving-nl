@@ -1,20 +1,45 @@
 ---
 title: "Beleidsregel maatregelen UWV"
 identifier: "BWBR0023789"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2015-03-31
-laatste_update: 2015-03-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023789"
+country: "nl"
+rank: "zbo"
+publication_date: "2015-03-31"
+last_updated: "2015-03-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023789"
+soort: "zbo"
+stam_id: "9486883"
+version_id: "15294442"
+internal_id: "C20835391"
+label_id: "9464394"
+dtd_version: "2.0"
+original_entry_into_force: "2008-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023789/2015-03-31/0"
+intitule_bron: "Stcrt.2008-80"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-03-18"
+intitule_published: "2008-04-24"
+intitule_in_force: "2008-04-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-80"
+original_signed_date: "2008-03-18"
+original_published_date: "2008-04-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-80-p19-SC85437"
+entry_into_force_date: "2008-05-01"
+jci_1_3: "jci1.3:c:BWBR0023789&z=2015-03-31&g=2015-03-31"
+jci_1_0: "1.0:c:BWBR0023789&g=2015-03-31"
+citeertitel_status: "officieel"
+signed_date: "2008-03-18"
+entry_into_force: "2008-05-01"
 ---
-
 # Beleidsregel maatregelen UWV
 
 Gelet op de [artikelen 27, zevende lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27), [45, derde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=45), [29, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29), [88, vierde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=88), [47, tweede lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=47), [39, tweede lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=39), en [14, tweede lid, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=14), en op het [Maatregelenbesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0022445);
 
 Besluit:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In dit besluit wordt verstaan onder:
 
@@ -40,7 +65,7 @@ In dit besluit wordt verstaan onder:
 
 - f. scholing: een scholing of opleiding die naar het oordeel van het UWV noodzakelijk wordt geacht voor de inschakeling in arbeid.
 
-#### Artikel 2. Hoogte en duur van een maatregel
+##### Artikel 2. Hoogte en duur van een maatregel
 
 1. Voor zover in dit besluit niet anders is bepaald, stelt het UWV de hoogte en de duur van een op te leggen maatregel vast op:
 
@@ -58,7 +83,7 @@ In dit besluit wordt verstaan onder:
 
 3. Een maatregel die wegens recidive wordt verhoogd, en waarvan de hoogte, berekend over de duur waarvoor die maatregel wordt opgelegd, minder zou bedragen dan € 37,50, wordt vastgesteld op € 37,50.
 
-#### Artikel 3. Afstemming op ernst en verwijtbaarheid
+##### Artikel 3. Afstemming op ernst en verwijtbaarheid
 
 1. Het percentage van de maatregel wordt verlaagd of verhoogd indien de verminderde of verhoogde ernst of verwijtbaarheid van het niet naleven van de verplichting daartoe aanleiding geven.
 
@@ -78,13 +103,13 @@ In dit besluit wordt verstaan onder:
 
 4. Indien de betrokkene, nadat toepassing is gegeven aan [artikel 8 van het Maatregelenbesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0022445&artikel=8), blijft volharden in het niet naleven van dezelfde niet termijngebonden verplichting, wordt het percentage van de maatregel verhoogd tot het maximum, genoemd in [artikel 2, eerste lid van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022445&artikel=2).
 
-#### Artikel 4. Waarschuwing in plaats van maatregel
+##### Artikel 4. Waarschuwing in plaats van maatregel
 
 1. Het UWV ziet af van het opleggen van een maatregel en volstaat met het geven van een schriftelijke waarschuwing indien wordt voldaan aan alle bij of krachtens de wet daaraan gestelde voorwaarden.
 
 2. In afwijking van het eerste lid wordt bij het niet naleven van een termijngebonden verplichting een maatregel opgelegd indien de termijnoverschrijding groter is dan veertien kalenderdagen. Indien in de periode van veertien kalenderdagen een of meer werkdagen voorkomen waarop de kantoren van het UWV gesloten zijn, wordt die periode met even zo veel werkdagen verlengd.
 
-#### Artikel 5. Bijzonderheden eerste categorie
+##### Artikel 5. Bijzonderheden eerste categorie
 
 1. Bij het niet naleven van een termijngebonden verplichting uit de eerste categorie wordt de hoogte van de maatregel vastgesteld op 10 procent indien de termijnoverschrijding groter is dan 30 kalenderdagen maar niet groter dan 60 kalenderdagen, en op 20 procent indien de termijnoverschrijding groter is dan 60 kalenderdagen. Bovendien wordt de duur van de maatregel vastgesteld op twee maanden indien de termijnoverschrijding groter is dan 90 kalenderdagen maar niet groter dan 180 kalenderdagen, en op drie maanden indien de termijnoverschrijding groter is dan 180 kalenderdagen.
 
@@ -92,7 +117,7 @@ In dit besluit wordt verstaan onder:
 
 3. Bij het niet naleven van een niet termijngebonden verplichting uit de eerste categorie wordt de hoogte van de maatregel vastgesteld op 2 procent indien er sprake is van verminderde ernst of verwijtbaarheid, en op 10 procent indien er sprake is van verhoogde ernst of verwijtbaarheid.
 
-#### Artikel 6. Bijzonderheden tweede categorie
+##### Artikel 6. Bijzonderheden tweede categorie
 
 1. Bij het niet naleven van een termijngebonden verplichting uit de tweede categorie wordt de hoogte van de maatregel vastgesteld op 20 procent indien de termijnoverschrijding groter is dan 60 kalenderdagen maar niet groter dan 90 kalenderdagen, en op 30 procent indien de termijnoverschrijding groter is dan 90 kalenderdagen. Bovendien wordt de duur van de maatregel vastgesteld op drie maanden indien de termijnoverschrijding groter is dan 120 kalenderdagen maar niet groter dan 180 kalenderdagen, en op vier maanden indien de termijnoverschrijding groter is dan 180 kalenderdagen.
 
@@ -100,7 +125,7 @@ In dit besluit wordt verstaan onder:
 
 3. Bij het niet naleven van een niet termijngebonden verplichting uit de tweede categorie wordt de hoogte van de maatregel vastgesteld op 5 procent indien er sprake is van verminderde ernst of verwijtbaarheid, en op 20 procent indien er sprake is van verhoogde ernst of verwijtbaarheid.
 
-#### Artikel 7. Bijzonderheden derde categorie
+##### Artikel 7. Bijzonderheden derde categorie
 
 1. Bij het niet naleven van een verplichting uit de derde categorie wordt de hoogte van de maatregel vastgesteld op 15 procent indien er sprake is van verminderde ernst of verwijtbaarheid, en op 50 procent indien er sprake is van verhoogde ernst of verwijtbaarheid.
 
@@ -112,7 +137,7 @@ In dit besluit wordt verstaan onder:
 
 5. Indien het vierde lid wordt toegepast op de loongerelateerde uitkering, bedoeld in [artikel 59 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=59), wordt de duur van de maatregel vastgesteld op de nog resterende duur van die uitkering.
 
-#### Artikel 8. Bijzonderheden vierde categorie
+##### Artikel 8. Bijzonderheden vierde categorie
 
 1. Bij het niet naleven van een verplichting uit de vierde categorie wordt de hoogte van de maatregel vastgesteld op 50 procent indien er sprake is van verminderde verwijtbaarheid.
 
@@ -122,7 +147,7 @@ In dit besluit wordt verstaan onder:
 
 4. Geen maatregel wordt opgelegd indien wegens het niet naleven van de verplichting toepassing wordt gegeven aan [artikel 6, vijfde lid, van het Inkomensbesluit Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=6).
 
-#### Artikel 9. Ingangsdatum van de maatregel
+##### Artikel 9. Ingangsdatum van de maatregel
 
 1. De maatregel gaat in op de begindatum van de periode waarop de eerstvolgende betaling van de uitkering betrekking heeft, doch niet eerder dan op de datum met ingang waarvan de verplichting niet is nageleefd.
 
@@ -136,19 +161,19 @@ In dit besluit wordt verstaan onder:
 
 3. Indien de duur van de maatregel langer is dan de periode tussen de datum waarop de maatregel op grond van het eerste lid zou ingaan en de datum waarop het recht op uitkering zal eindigen wegens het verstrijken van de daarvoor geldende maximumtermijn, gaat de maatregel, in afwijking van het eerste lid, in op een zodanige datum dat de maatregel tegelijk met het uitkeringsrecht zal eindigen, doch niet eerder dan op de datum met ingang waarvan de verplichting niet is nageleefd.
 
-#### Artikel 10. Intrekking [Besluit waarschuwing](https://wetten.overheid.nl/jci1.3:c:BWBR0010378)
+##### Artikel 10. Intrekking [Besluit waarschuwing](https://wetten.overheid.nl/jci1.3:c:BWBR0010378)
 
 Het [Besluit waarschuwing](https://wetten.overheid.nl/jci1.3:c:BWBR0010378) wordt ingetrokken.
 
-#### Artikel 11. Overgangsrecht
+##### Artikel 11. Overgangsrecht
 
 Dit besluit is niet van toepassing op beslissingen over maatregelen, genomen op grond van het [Maatregelenbesluit UWV](https://wetten.overheid.nl/jci1.3:c:BWBR0017084).
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 mei 2008.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Beleidsregel maatregelen UWV.
 

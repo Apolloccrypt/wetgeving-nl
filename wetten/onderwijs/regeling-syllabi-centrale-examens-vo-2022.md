@@ -1,13 +1,39 @@
 ---
-title: "Regeling syllabi centrale examens vo 2022"
+title: "De regeling van het College voor Toetsen en Examens van 22 juni 2020 nummer CvTE-20.01233, houdende vaststelling van de syllabi voor de centrale examens in het vwo, havo en vmbo ten behoeve van het examenjaar 2022, nadere vaststelling van enkele eerder vastgestelde syllabi ten behoeve van het examenjaar 2021, tevens preliminaire vaststelling van een syllabus ten behoeve van het examenjaar 2023 (Regeling syllabi centrale examens vo 2022)"
 identifier: "BWBR0043819"
-categorie: "Onderwijs"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043819"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043819"
+soort: "zbo"
+stam_id: "15549023"
+version_id: "26865202"
+internal_id: "C38052141"
+label_id: "15490844"
+dtd_version: "2.0"
+original_entry_into_force: "2020-07-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043819/2024-01-01/0"
+intitule_bron: "Stcrt.2020-35650"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-06-22"
+intitule_published: "2020-07-07"
+intitule_in_force: "2020-07-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-35650"
+original_signed_date: "2020-06-22"
+original_published_date: "2020-07-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-35650"
+entry_into_force_date: "2020-07-08"
+jci_1_3: "jci1.3:c:BWBR0043819&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0043819&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling syllabi centrale examens vo 2022"
+signed_date: "2020-06-22"
+entry_into_force: "2020-07-08"
 ---
-
 # De regeling van het College voor Toetsen en Examens van 22 juni 2020 nummer CvTE-20.01233, houdende vaststelling van de syllabi voor de centrale examens in het vwo, havo en vmbo ten behoeve van het examenjaar 2022, nadere vaststelling van enkele eerder vastgestelde syllabi ten behoeve van het examenjaar 2021, tevens preliminaire vaststelling van een syllabus ten behoeve van het examenjaar 2023 (Regeling syllabi centrale examens vo 2022)
 
 Gelet op [artikel 2, tweede lid, aanhef en onderdeel f, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2);
@@ -16,25 +42,25 @@ Gezien de goedkeuring van de Minister voor Basis- en Voortgezet Onderwijs en Med
 
 Besluit:
 
-#### Artikel 1. Vaststelling syllabi ten behoeve van het examenjaar 2022
+##### Artikel 1. Vaststelling syllabi ten behoeve van het examenjaar 2022
 
 Vervallen
 
-#### Artikel 2. Nadere vaststelling van enkele eerder vastgestelde syllabi
+##### Artikel 2. Nadere vaststelling van enkele eerder vastgestelde syllabi
 
 Vervallen
 
-#### Artikel 3. Preliminaire vaststelling van een syllabus ten behoeve van het examenjaar 2023
+##### Artikel 3. Preliminaire vaststelling van een syllabus ten behoeve van het examenjaar 2023
 
 Vervallen
 
-#### Artikel 4. Bekendmaking
+##### Artikel 4. Bekendmaking
 
 1. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. De syllabi, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043819&artikel=1&z=2024-01-01&g=2024-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0043819&artikel=2&z=2024-01-01&g=2024-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043819&artikel=3&z=2024-01-01&g=2024-01-01), worden bekendgemaakt op www.examenblad.nl.
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
@@ -44,7 +70,7 @@ Vervallen
 
 4. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043819&artikel=3&z=2024-01-01&g=2024-01-01) en de daarbij behorende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0043819&bijlage=3&z=2024-01-01&g=2024-01-01) vervallen met ingang van 1 januari 2024.
 
-#### Artikel 6. Citeertitel
+##### Artikel 6. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling syllabi centrale examens vo 2022.
 

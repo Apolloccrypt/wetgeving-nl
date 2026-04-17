@@ -1,14 +1,41 @@
 ---
-title: "Wet hersteloperatie toeslagen"
+title: "Wet van 2 november 2022, houdende regels ten behoeve van de hersteloperatie toeslagen (Wet hersteloperatie toeslagen)"
 identifier: "BWBR0047436"
-categorie: "Belastingrecht"
-publicatiedatum: 2026-04-01
-laatste_update: 2026-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047436"
+country: "nl"
+rank: "wet"
+publication_date: "2026-04-01"
+last_updated: "2026-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047436"
+soort: "wet"
+stam_id: "16556023"
+version_id: "29522992"
+internal_id: "C42208611"
+label_id: "16477874"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047436/2026-04-01/0"
+intitule_bron: "Stb.2022-433"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-11-02"
+intitule_published: "2022-11-04"
+intitule_in_force: "2022-11-04"
+intitule_status: "goed"
+original_publication: "Stb.2023-264"
+original_signed_date: "2023-07-12"
+original_published_date: "2023-07-14"
+original_effect: "structuurwijziging"
+original_dossier: "36352"
+original_url_id: "stb-2023-264"
+entry_into_force_date: "2023-07-15"
+jci_1_3: "jci1.3:c:BWBR0047436&z=2026-04-01&g=2026-04-01"
+jci_1_0: "1.0:c:BWBR0047436&g=2026-04-01"
+citeertitel_status: "officieel"
+short_title: "Wet hersteloperatie toeslagen"
+signed_date: "2023-07-12"
+entry_into_force: "2023-07-15"
 ---
-
-# Wet hersteloperatie toeslagen
+# Wet van 2 november 2022, houdende regels ten behoeve van de hersteloperatie toeslagen (Wet hersteloperatie toeslagen)
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
@@ -28,23 +55,23 @@ bron: "https://wetten.overheid.nl/BWBR0047436"
 
 ### Afdeling 8.1. Wijziging van enige wetten
 
-#### Artikel 8.1. Wijzigingen van de [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472)
+##### Artikel 8.1. Wijzigingen van de [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472)
 
 Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel 8.2. Vervallen van artikelen [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472)
+##### Artikel 8.2. Vervallen van artikelen [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472)
 
 Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel 8.3. Wijzigingen van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
+##### Artikel 8.3. Wijzigingen van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel 8.4. Wijzigingen van Wet hersteloperatie toeslagen
+##### Artikel 8.4. Wijzigingen van Wet hersteloperatie toeslagen
 
 Wijzigt deze wet.
 
-#### Artikel 8.5. Wijziging [Wet hardheidsaanpassing Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0043785)
+##### Artikel 8.5. Wijziging [Wet hardheidsaanpassing Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0043785)
 
 Wijzigt de Wet hardheidsaanpassing Awir.
 
@@ -52,15 +79,15 @@ Wijzigt de Wet hardheidsaanpassing Awir.
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 7.1. Specifieke uitkering aan gemeenten door Minister van Financiën
+##### Artikel 7.1. Specifieke uitkering aan gemeenten door Minister van Financiën
 
 Bij regeling van Onze Minister kunnen regels worden gesteld over een specifieke uitkering aan gemeenten ter bekostiging van door gemeenten te verlenen brede ondersteuning als bedoeld in [artikel 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.7&artikel=2.21&z=2026-04-01&g=2026-04-01).
 
-#### Artikel 7.2. Specifieke uitkering aan gemeenten door Minister van Binnenlandse Zaken en Koninkrijksrelaties
+##### Artikel 7.2. Specifieke uitkering aan gemeenten door Minister van Binnenlandse Zaken en Koninkrijksrelaties
 
 Bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kunnen regels worden gesteld over een specifieke uitkering aan gemeenten ter bekostiging van verleende kwijtschelding en restitutie op grond van [artikel 26a van de Invorderingswet 1990](onbekend) van verschuldigde gemeentelijke belastingen als bedoeld in [Hoofdstuk XV, paragrafen 2 en 3, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&hoofdstuk=XV) alsmede belastingen waarvan de heffing krachtens andere wetten door de gemeente geschiedt.
 
-#### Artikel 7.3. Specifieke uitkering aan gemeenten door Minister van Sociale zaken en Werkgelegenheid
+##### Artikel 7.3. Specifieke uitkering aan gemeenten door Minister van Sociale zaken en Werkgelegenheid
 
 Bij regeling van Onze Minister van Sociale Zaken en werkgelegenheid kunnen regels worden gesteld over een specifieke uitkering aan gemeenten ter bekostiging van de door het college van burgemeester en wethouders verleende kwijtschelding en restitutie op grond van [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=3&artikel=3.8&z=2026-04-01&g=2026-04-01).
 
@@ -74,7 +101,7 @@ Bij regeling van Onze Minister van Sociale Zaken en werkgelegenheid kunnen regel
 
 ### Afdeling 2.1. Compensatie en tegemoetkomingen gedupeerde aanvrager kinderopvangtoeslag
 
-#### Artikel 2.1. Compensatie en aanvullende compensatie voor aanvrager kinderopvangtoeslag
+##### Artikel 2.1. Compensatie en aanvullende compensatie voor aanvrager kinderopvangtoeslag
 
 1. De Dienst Toeslagen kent op aanvraag compensatie toe aan een aanvrager van een kinderopvangtoeslag, die schade heeft geleden, doordat ten aanzien van hem:
 
@@ -90,7 +117,7 @@ Bij regeling van Onze Minister van Sociale Zaken en werkgelegenheid kunnen regel
 
 5. De compensatie en de aanvullende compensatie voor de werkelijke schade blijven achterwege voor zover op een andere wijze in een vergoeding of tegemoetkoming ter zake is voorzien of voor zover aan de aanvrager een O/GS-tegemoetkoming als bedoeld in [artikel 49c van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49c), zoals dit luidde ten tijde van de aanvraag van de O/GS-tegemoetkoming, of als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.6&z=2026-04-01&g=2026-04-01) is toegekend.
 
-#### Artikel 2.2. Componenten compensatie voor aanvrager kinderopvangtoeslag
+##### Artikel 2.2. Componenten compensatie voor aanvrager kinderopvangtoeslag
 
 De compensatie bestaat uit:
 
@@ -108,7 +135,7 @@ De compensatie bestaat uit:
 
 - g. een rentevergoeding voor het niet uitgekeerde bedrag vanwege het verminderen of niet toekennen van de kinderopvangtoeslag of het beëindigen van de voorschotverlening kinderopvangtoeslag.
 
-#### Artikel 2.3. Hoogte compensatie en aanvullende compensatie voor aanvrager kinderopvangtoeslag
+##### Artikel 2.3. Hoogte compensatie en aanvullende compensatie voor aanvrager kinderopvangtoeslag
 
 1. Het bedrag, bedoeld in [artikel 2.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.2&z=2026-04-01&g=2026-04-01), is gelijk aan het bedrag dat als gevolg van de beschikking niet is toegekend of is teruggevorderd, vermeerderd met het bedrag van de rente die is begrepen in een beschikking tot terugvordering en verminderd, maar niet verder dan tot nihil, met:
 
@@ -132,7 +159,7 @@ De compensatie bestaat uit:
 
 9. Het bedrag van de aanvullende compensatie voor de werkelijke schade is de aanvullende werkelijke schade, bedoeld in [artikel 2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.1&z=2026-04-01&g=2026-04-01), vermeerderd met 1%.
 
-#### Artikel 2.4. Herziening compensatie voor aanvrager kinderopvangtoeslag
+##### Artikel 2.4. Herziening compensatie voor aanvrager kinderopvangtoeslag
 
 1. De Dienst Toeslagen kan een toegekende compensatie herzien indien de beschikking tot toekenning of herziening van de kinderopvangtoeslag alsnog op een hoger bedrag wordt vastgesteld dan waarvan is uitgegaan bij de berekening van de hoogte van de compensatie. De herziening bedraagt het hieruit voortvloeiende verschil, doch maximaal het bedrag, bedoeld in [artikel 2.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.2&z=2026-04-01&g=2026-04-01).
 
@@ -142,11 +169,11 @@ De compensatie bestaat uit:
 
 4. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing op de beschikking tot terugvordering of beschikking tot herziening van de terugvordering.
 
-#### Artikel 2.5. Ambtshalve toekenning compensatie voor aanvrager kinderopvangtoeslag
+##### Artikel 2.5. Ambtshalve toekenning compensatie voor aanvrager kinderopvangtoeslag
 
 Indien aan een aanvrager van een kinderopvangtoeslag voor 26 januari 2021 bij beschikking een bedrag is toegekend op grond van [artikel 49, eerste lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49) of een herstelmaatregel als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.7&z=2026-04-01&g=2026-04-01) onderzoekt de Dienst Toeslagen ambtshalve of compensatie als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.1&z=2026-04-01&g=2026-04-01), na toepassing van artikel 2.1, vijfde lid, zou leiden tot toekenning van een aanvullend bedrag. Indien dit het geval is, wordt dit bedrag door de Dienst Toeslagen bij beschikking vastgesteld en uitbetaald.
 
-#### Artikel 2.6. O/GS-tegemoetkoming en aanvullende O/GS-tegemoetkoming voor aanvrager kinderopvangtoeslag
+##### Artikel 2.6. O/GS-tegemoetkoming en aanvullende O/GS-tegemoetkoming voor aanvrager kinderopvangtoeslag
 
 1. De Dienst Toeslagen kent aan een aanvrager van een kinderopvangtoeslag op aanvraag een O/GS-tegemoetkoming toe indien de toepassing van de [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472), de daarop berustende bepalingen of de [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) bij de uitvoering van de kinderopvangtoeslag heeft geleid tot onbillijkheden van overwegende aard, omdat aan hem geen persoonlijke betalingsregeling is toegekend of een buitengerechtelijke schuldregeling is geweigerd vanwege de onterechte kwalificatie van opzet of grove schuld van hemzelf of zijn partner ten aanzien van het ontstaan van de terugvordering van de kinderopvangtoeslag.
 
@@ -156,7 +183,7 @@ Indien aan een aanvrager van een kinderopvangtoeslag voor 26 januari 2021 bij be
 
 4. De O/GS-tegemoetkoming en de aanvullende O/GS-tegemoetkoming voor de werkelijke schade blijven achterwege indien ten aanzien van de terugvordering recht bestaat op compensatie als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.1&z=2026-04-01&g=2026-04-01) over hetzelfde berekeningsjaar of voor zover op andere wijze in een vergoeding of tegemoetkoming ter zake is voorzien.
 
-#### Artikel 2.7. Forfaitair bedrag voor aanvrager kinderopvangtoeslag
+##### Artikel 2.7. Forfaitair bedrag voor aanvrager kinderopvangtoeslag
 
 1. Aan een aanvrager van een kinderopvangtoeslag die in aanmerking komt voor toepassing van een herstelmaatregel en daarvoor voor 1 januari 2024 een aanvraag heeft ingediend, kent de Dienst Toeslagen ambtshalve eenmalig een forfaitair bedrag toe van € 30.000, met dien verstande dat dit bedrag wordt verminderd, maar niet verder dan tot nihil, met de bedragen die de aanvrager op het moment van toekenning van het forfaitaire bedrag al op grond van een herstelmaatregel heeft ontvangen. Bij vermindering tot nihil vindt geen toekenning plaats.
 
@@ -186,13 +213,13 @@ Indien aan een aanvrager van een kinderopvangtoeslag voor 26 januari 2021 bij be
 
 - b. een verlaging, vaststelling op nihil of naar rato vaststelling als bedoeld in het vierde lid, onderdelen d en e, van toepassing is op een beschikking met een oorspronkelijke dagtekening van na 22 oktober 2019.
 
-#### Artikel 2.8. Incidentele noodvoorziening voor aanvrager kinderopvangtoeslag
+##### Artikel 2.8. Incidentele noodvoorziening voor aanvrager kinderopvangtoeslag
 
 1. De Dienst Toeslagen kan een incidentele noodvoorziening toekennen aan een aanvrager van een kinderopvangtoeslag die zich in een acute financiële noodsituatie bevindt waardoor hij noodzakelijke uitgaven niet kan doen, indien hij een aanvraag heeft gedaan om toepassing van een herstelmaatregel als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.7&z=2026-04-01&g=2026-04-01) en de Dienst Toeslagen het forfaitaire bedrag, bedoeld in artikel 2.7, eerste lid, of de herstelmaatregel of een eerste betaling daarvan, niet op korte termijn aan de aanvrager kan toekennen.
 
 2. Een aanvrager van een kinderopvangtoeslag komt niet in aanmerking voor een incidentele noodvoorziening indien hij geen recht had op een kinderopvangtoeslag en hij dit wist of redelijkerwijze behoorde te weten.
 
-#### Artikel 2.9. Vangnetbepaling bijzondere tegemoetkoming kinderopvangtoeslag
+##### Artikel 2.9. Vangnetbepaling bijzondere tegemoetkoming kinderopvangtoeslag
 
 1. In bij algemene maatregel van bestuur aan te wijzen gevallen kan onder bij of krachtens die algemene maatregel van bestuur te stellen regels op een voor 1 januari 2024 aan de Dienst Toeslagen gedaan verzoek van de belanghebbende een bijzondere tegemoetkoming worden toegekend indien sprake is van een schrijnend geval waarin toepassing van [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472), de daarop berustende bepalingen of de [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) bij de uitvoering van de kinderopvangtoeslag heeft geleid tot ernstige onbillijkheden van overwegende aard, die zich hebben voorgedaan bij een beschikking tot vaststelling of tot terugvordering inzake de kinderopvangtoeslag, dan wel bij het niet toekennen van een persoonlijke betalingsregeling vanwege de onterechte kwalificatie opzet of grove schuld van de belanghebbende of diens partner ten aanzien van het ontstaan van de terugvordering inzake de kinderopvangtoeslag, welke onbillijkheden zodanig zijn dat het overduidelijk onredelijk is deze voor rekening van de belanghebbende te laten en waarvoor andere compensaties, herzieningen, hardheidstegemoetkomingen, O/GS-tegemoetkomingen als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.6&z=2026-04-01&g=2026-04-01) of vergoedingen ter zake van die onbillijkheden niet voldoende zijn.
 
@@ -206,7 +233,7 @@ Indien aan een aanvrager van een kinderopvangtoeslag voor 26 januari 2021 bij be
 
 ### Afdeling 2.2. Tegemoetkoming voor kind, pleegkind en voormalig pleegkind van gedupeerde aanvrager kinderopvangtoeslag of diens partner en voor kind, pleegkind en voormalig pleegkind van ex-partner van gedupeerde aanvrager kinderopvangtoeslag
 
-#### Artikel 2.16. Tegemoetkoming voor aanvrager huurtoeslag, zorgtoeslag of kindgebonden budget vanwege institutionele vooringenomenheid
+##### Artikel 2.16. Tegemoetkoming voor aanvrager huurtoeslag, zorgtoeslag of kindgebonden budget vanwege institutionele vooringenomenheid
 
 1. De Dienst Toeslagen kent ambtshalve een tegemoetkoming toe aan een aanvrager van een huurtoeslag, zorgtoeslag of kindgebonden budget, indien:
 
@@ -230,7 +257,7 @@ Indien aan een aanvrager van een kinderopvangtoeslag voor 26 januari 2021 bij be
 
 5. De tegemoetkoming blijft achterwege voor zover op een andere wijze in een vergoeding of tegemoetkoming ter zake is voorzien.
 
-#### Artikel 2.17. Tegemoetkoming voor aanvrager huurtoeslag, zorgtoeslag of kindgebonden budget vanwege onterechte kwalificatie opzet of grove schuld
+##### Artikel 2.17. Tegemoetkoming voor aanvrager huurtoeslag, zorgtoeslag of kindgebonden budget vanwege onterechte kwalificatie opzet of grove schuld
 
 1. De Dienst Toeslagen kent aan een aanvrager van een huurtoeslag, zorgtoeslag of kindgebonden budget ambtshalve een tegemoetkoming toe indien de toepassing van de [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472), de [Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659), de [Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451), de [Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751) of op die wetten berustende bepalingen bij de uitvoering van de huurtoeslag, zorgtoeslag of het kindgebonden budget heeft geleid tot onbillijkheden van overwegende aard omdat aan de aanvrager geen persoonlijke betalingsregeling is toegekend of een buitengerechtelijke schuldregeling is geweigerd vanwege de onterechte kwalificatie van opzet of grove schuld van de aanvrager of diens partner ten aanzien van het ontstaan van de terugvordering van de huurtoeslag, zorgtoeslag of het kindgebonden budget.
 
@@ -238,7 +265,7 @@ Indien aan een aanvrager van een kinderopvangtoeslag voor 26 januari 2021 bij be
 
 3. De tegemoetkoming blijft achterwege voor zover op andere wijze in een vergoeding of tegemoetkoming ter zake is voorzien.
 
-#### Artikel 2.18. Incidentele noodvoorziening voor aanvrager huurtoeslag, zorgtoeslag of kindgebonden budget
+##### Artikel 2.18. Incidentele noodvoorziening voor aanvrager huurtoeslag, zorgtoeslag of kindgebonden budget
 
 1. De Dienst Toeslagen kan een incidentele noodvoorziening toekennen aan een aanvrager van een huurtoeslag, zorgtoeslag of kindgebonden budget die zich in een acute financiële noodsituatie bevindt waardoor hij noodzakelijke uitgaven niet kan doen, indien:
 
@@ -252,7 +279,7 @@ Indien aan een aanvrager van een kinderopvangtoeslag voor 26 januari 2021 bij be
 
 - 2. Een aanvrager komt niet in aanmerking voor een incidentele noodvoorziening, indien hij geen recht heeft op de huurtoeslag, zorgtoeslag of het kindgebonden budget en hij dit wist of redelijkerwijze behoorde te weten.
 
-#### Artikel 2.19. Vangnetbepaling bijzondere tegemoetkoming huurtoeslag, zorgtoeslag en kindgebonden budget
+##### Artikel 2.19. Vangnetbepaling bijzondere tegemoetkoming huurtoeslag, zorgtoeslag en kindgebonden budget
 
 1. In bij algemene maatregel van bestuur aan te wijzen gevallen kan een bijzondere tegemoetkoming worden toegekend indien sprake is van een schrijnend geval waarin de toepassing van de [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472), de [Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659), de [Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451), de [Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751) of een op een van die wetten berustende bepaling bij de uitvoering van de huurtoeslag, zorgtoeslag of het kindgebonden budget heeft geleid tot ernstige onbillijkheden van overwegende aard, die zich hebben voorgedaan bij een beschikking tot vaststelling of tot terugvordering inzake de huurtoeslag, de zorgtoeslag en het kindgebonden budget, dan wel bij het niet toekennen van een persoonlijke betalingsregeling of het weigeren van een buitengerechtelijke schuldregeling vanwege de onterechte kwalificatie opzet of grove schuld van de aanvrager of van diens partner ten aanzien van het ontstaan van de terugvordering inzake de huurtoeslag, zorgtoeslag of het kindgebonden budget, welke onbillijkheden zodanig zijn dat het overduidelijk onredelijk is deze voor rekening van de aanvrager te laten.
 
@@ -262,7 +289,7 @@ Indien aan een aanvrager van een kinderopvangtoeslag voor 26 januari 2021 bij be
 
 ### Afdeling 2.4. Ondersteuning en vergoedingen voor gedupeerde aanvrager kinderopvangtoeslag en diens gezin woonachtig buiten nederland
 
-#### Artikel 2.21. Brede ondersteuning door gemeente voor gedupeerde aanvrager kinderopvangtoeslag of voor een ex-partner van de gedupeerde aanvrager kinderopvangtoeslag of voor de partner of het kind van een overleden gedupeerde aanvrager kinderopvangtoeslag, hun gezin en het thuiswonende kind
+##### Artikel 2.21. Brede ondersteuning door gemeente voor gedupeerde aanvrager kinderopvangtoeslag of voor een ex-partner van de gedupeerde aanvrager kinderopvangtoeslag of voor de partner of het kind van een overleden gedupeerde aanvrager kinderopvangtoeslag, hun gezin en het thuiswonende kind
 
 1. Het college van burgemeester en wethouders van een gemeente kan brede ondersteuning bieden op de vijf leefgebieden financiën, gezin, werk, wonen en zorg aan een ingezetene van die gemeente die:
 
@@ -298,7 +325,7 @@ Indien aan een aanvrager van een kinderopvangtoeslag voor 26 januari 2021 bij be
 
 ### Hoofdstuk 3. Kwijtschelding bestuursrechtelijke schulden
 
-#### Artikel 5.1. Oudercommissie
+##### Artikel 5.1. Oudercommissie
 
 1. Bij ministeriële regeling stelt Onze Minister een commissie in bestaande uit gedupeerde aanvragers van een kinderopvangtoeslag of hun partners.
 
@@ -306,7 +333,7 @@ Indien aan een aanvrager van een kinderopvangtoeslag voor 26 januari 2021 bij be
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld over de commissie.
 
-#### Artikel 5.2. Andere commissies
+##### Artikel 5.2. Andere commissies
 
 1. Bij ministeriële regeling stelt Onze Minister commissies in met het oog op de uitvoering van de [artikelen 2.1 tot en met 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.1&z=2026-04-01&g=2026-04-01), [2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.9&z=2026-04-01&g=2026-04-01), [2.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1a&artikel=2.9a&z=2026-04-01&g=2026-04-01) en [2.9b](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1a&artikel=2.9b&z=2026-04-01&g=2026-04-01).
 
@@ -322,7 +349,7 @@ Indien aan een aanvrager van een kinderopvangtoeslag voor 26 januari 2021 bij be
 
 ### Afdeling 6.1. Bepalingen van procedurele aard
 
-#### Artikel 6.1. Aanvraagtermijnen
+##### Artikel 6.1. Aanvraagtermijnen
 
 1. Een aanvraag als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.1&z=2026-04-01&g=2026-04-01), [2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.6&z=2026-04-01&g=2026-04-01), [3.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=3&artikel=3.13&z=2026-04-01&g=2026-04-01), [4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.1&artikel=4.1&z=2026-04-01&g=2026-04-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.1&artikel=4.2&z=2026-04-01&g=2026-04-01), [4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.1&artikel=4.3&z=2026-04-01&g=2026-04-01), [4.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.1&artikel=4.4&z=2026-04-01&g=2026-04-01), [4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.2&artikel=4.6&z=2026-04-01&g=2026-04-01), of [4.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.2&artikel=4.7&z=2026-04-01&g=2026-04-01), wordt ingediend voor 1 januari 2024. Een aanvraag als bedoeld in artikel 2.1, derde lid, of 2.6, derde lid, wordt ingediend voor een bij koninklijk besluit te bepalen tijdstip door Stb. 2026/32 gesteld op 1 april 2026.
 
@@ -346,7 +373,7 @@ Indien aan een aanvrager van een kinderopvangtoeslag voor 26 januari 2021 bij be
 
 8. In afwijking van het eerste lid wordt een aanvraag als bedoeld in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.1&artikel=4.1&z=2026-04-01&g=2026-04-01), [4.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.1&artikel=4.4&z=2026-04-01&g=2026-04-01), [4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.2&artikel=4.6&z=2026-04-01&g=2026-04-01), of [4.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.2&artikel=4.7&z=2026-04-01&g=2026-04-01), van of met betrekking tot een ex-partner die in aanmerking komt voor de compensatie, bedoeld in [artikel 2.14h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.3&artikel=2.14h&z=2026-04-01&g=2026-04-01), en aan wie deze is toegekend, ingediend binnen zes maanden na dagtekening van de beschikking tot toekenning van de compensatie, bedoeld in artikel 2.14h, eerste lid.
 
-#### Artikel 6.2. Beslistermijnen bij beschikking op aanvraag
+##### Artikel 6.2. Beslistermijnen bij beschikking op aanvraag
 
 1. Op een aanvraag als bedoeld in [artikel 2.1, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.1&z=2026-04-01&g=2026-04-01), [2.6, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.6&z=2026-04-01&g=2026-04-01), [2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.13&z=2026-04-01&g=2026-04-01), [2.13a](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.13a&z=2026-04-01&g=2026-04-01), [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.14&z=2026-04-01&g=2026-04-01), [2.14a](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.14a&z=2026-04-01&g=2026-04-01) of [2.14h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.3&artikel=2.14h&z=2026-04-01&g=2026-04-01), besluit de Dienst Toeslagen binnen een termijn van zes maanden na ontvangst van de aanvraag. Deze termijn kan eenmaal met maximaal zes maanden worden verlengd.
 
@@ -366,7 +393,7 @@ Indien aan een aanvrager van een kinderopvangtoeslag voor 26 januari 2021 bij be
 
 - 2°. de dag van inwerkingtreding van [artikel I, onderdeel M, onder 2, van de Wet aanvullende regelingen hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0048413&artikel=I) in de situatie dat de aanvraag, bedoeld in [artikel 2.14h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.3&artikel=2.14h&z=2026-04-01&g=2026-04-01), is gedaan voor ontvangst van een brief van de Dienst Toeslagen met een uitnodiging een aanvraag te doen. Deze termijn kan eenmaal met maximaal zes maanden worden verlengd.
 
-#### Artikel 6.3. Samenloop aanvragen
+##### Artikel 6.3. Samenloop aanvragen
 
 1. Alleen ten aanzien van de voorbereiding van een beschikking tot toekenning van compensatie als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.1&z=2026-04-01&g=2026-04-01), of een O/GS-tegemoetkoming als bedoeld in [artikel 2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.6&z=2026-04-01&g=2026-04-01), wordt een aanvraag tot toepassing van artikel 2.1 of 2.6 geacht te zijn gericht op de toepassing van beide artikelen tenzij uit de aanvraag het tegendeel blijkt.
 
@@ -374,7 +401,7 @@ Indien aan een aanvrager van een kinderopvangtoeslag voor 26 januari 2021 bij be
 
 3. Het tweede lid is niet van toepassing op een aanvraag van aanvullende compensatie voor de werkelijke schade als bedoeld in [artikel 2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.1&z=2026-04-01&g=2026-04-01), of van een aanvullende O/GS-tegemoetkoming voor de werkelijke schade als bedoeld in [artikel 2.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.6&z=2026-04-01&g=2026-04-01).
 
-#### Artikel 6.4. Beslissing over tegemoetkoming kind, pleegkind of voormalig pleegkind van een gedupeerde aanvrager kinderopvangtoeslag of diens partner
+##### Artikel 6.4. Beslissing over tegemoetkoming kind, pleegkind of voormalig pleegkind van een gedupeerde aanvrager kinderopvangtoeslag of diens partner
 
 Een beschikking tot toekenning van een tegemoetkoming aan een kind als bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.10&z=2026-04-01&g=2026-04-01), een tegemoetkoming aan een pleegkind als bedoeld in [artikel 2.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.11&z=2026-04-01&g=2026-04-01), of een tegemoetkoming aan een voormalig pleegkind als bedoeld in artikel 2.11, tweede lid, wordt door de Dienst Toeslagen vastgesteld:
 
@@ -382,15 +409,15 @@ Een beschikking tot toekenning van een tegemoetkoming aan een kind als bedoeld i
 
 - b. na de dagtekening van de beschikking waarin door de Dienst Toeslagen het recht op toepassing van een herstelmaatregel als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.7&z=2026-04-01&g=2026-04-01) is vastgesteld.
 
-#### Artikel 6.5. Beslistermijn vergoeding gedupeerde aanvrager kinderopvangtoeslag en diens gezin of de ex-partner van een gedupeerde aanvrager woonachtig buiten Nederland of de partner of het kind van een overleden gedupeerde aanvrager
+##### Artikel 6.5. Beslistermijn vergoeding gedupeerde aanvrager kinderopvangtoeslag en diens gezin of de ex-partner van een gedupeerde aanvrager woonachtig buiten Nederland of de partner of het kind van een overleden gedupeerde aanvrager
 
 Een beschikking tot toekenning van ondersteuning als bedoeld in [artikel 2.15, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.4&artikel=2.15&z=2026-04-01&g=2026-04-01), [artikel 2.15a, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.4&artikel=2.15a&z=2026-04-01&g=2026-04-01), of [artikel 2.15b, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.4&artikel=2.15b&z=2026-04-01&g=2026-04-01), wordt door Onze Minister vastgesteld binnen zes weken nadat het plan van aanpak, bedoeld in artikel 2.15, vierde lid, artikel 2.15a, vierde lid, of artikel 2.15b, vierde lid, is vastgesteld. Het plan van aanpak is vastgesteld op het moment dat het is ondertekend door de aanvrager, bedoeld in artikel 2.15, eerste lid, de ex-partner, bedoeld in artikel 2.15a, eerste lid, of de partner of het kind van een overleden aanvrager, bedoeld in artikel 2.15b, eerste lid.
 
-#### Artikel 6.6. Beslistermijn kwijtschelding door Dienst Toeslagen
+##### Artikel 6.6. Beslistermijn kwijtschelding door Dienst Toeslagen
 
 De Dienst Toeslagen verleent de kwijtschelding, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=3&artikel=3.1&z=2026-04-01&g=2026-04-01), uiterlijk drie maanden na het tijdstip waarop dit artikel in werking is getreden of, indien dit later is, uiterlijk binnen drie maanden na het toekennen, afwijzen op grond van [artikel 2.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.7&z=2026-04-01&g=2026-04-01), of verminderen tot nihil van het forfaitaire bedrag, bedoeld in artikel 2.7, eerste lid, of indien dit nog later is, uiterlijk binnen drie maanden nadat de toekenning van de toeslag, waarop de terugvordering, bedoeld in artikel 3.1, eerste lid, betrekking heeft, over het berekeningsjaar waarop die terugvordering betrekking heeft, onherroepelijk is geworden. Deze termijn kan door de Dienst Toeslagen eenmaal met maximaal drie maanden worden verlengd. De Dienst Toeslagen stelt de belanghebbende hiervan uiterlijk op de laatste dag van deze termijn in kennis.
 
-#### Artikel 6.7. Vooraankondiging compensatiebedrag
+##### Artikel 6.7. Vooraankondiging compensatiebedrag
 
 1. Voorafgaande aan de beslissing op een aanvraag als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.1&z=2026-04-01&g=2026-04-01), informeert de Dienst Toeslagen de aanvrager schriftelijk over deze beslissing door middel van een vooraankondiging. Bij een voorgenomen toekenning van de aanvraag berekent de Dienst Toeslagen het voorlopige bedrag van de compensatie en wordt de aanvrager hierover in de vooraankondiging geïnformeerd.
 
@@ -400,7 +427,7 @@ De Dienst Toeslagen verleent de kwijtschelding, bedoeld in [artikel 3.1](https:/
 
 4. In het geval van toekenning van een aanvraag als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.1&z=2026-04-01&g=2026-04-01), stelt de Dienst Toeslagen het bedrag van de compensatie vast na afloop van de termijn, bedoeld in het tweede of derde lid.
 
-#### Artikel 6.8. Wijze van uitbetalen
+##### Artikel 6.8. Wijze van uitbetalen
 
 1. Uitbetaling van compensatie of aanvullende compensatie voor de werkelijke schade als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.1&z=2026-04-01&g=2026-04-01) of [artikel 2.14h](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.3&artikel=2.14h&z=2026-04-01&g=2026-04-01), een O/GS-tegemoetkoming of een aanvullende O/GS-tegemoetkoming voor de werkelijke schade als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.6&z=2026-04-01&g=2026-04-01), het forfaitaire bedrag, bedoeld in [artikel 2.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.7&z=2026-04-01&g=2026-04-01), het bedrag van maximaal € 10.000, bedoeld in artikel 2.7, tweede lid, een incidentele noodvoorziening als bedoeld in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.8&z=2026-04-01&g=2026-04-01), [artikel 2.14i](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.3&artikel=2.14i&z=2026-04-01&g=2026-04-01) of [2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.5&artikel=2.18&z=2026-04-01&g=2026-04-01), een tegemoetkoming of vergoeding als bedoeld in [artikel 2.15, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.4&artikel=2.15&z=2026-04-01&g=2026-04-01), [artikel 2.15a, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.4&artikel=2.15a&z=2026-04-01&g=2026-04-01), of [artikel 2.15b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.4&artikel=2.15b&z=2026-04-01&g=2026-04-01), een tegemoetkoming als bedoeld in [artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.5&artikel=2.16&z=2026-04-01&g=2026-04-01) of [2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.5&artikel=2.17&z=2026-04-01&g=2026-04-01), compensatie voor afgeloste bestuursrechtelijke schulden als bedoeld in [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=3&artikel=3.13&z=2026-04-01&g=2026-04-01) of compensatie voor afgeloste privaatrechtelijke geldschulden en kosten als bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.1&artikel=4.3&z=2026-04-01&g=2026-04-01) vindt plaats op een daartoe door de rechthebbende bestemde bankrekening die op diens naam staat.
 
@@ -420,7 +447,7 @@ De Dienst Toeslagen verleent de kwijtschelding, bedoeld in [artikel 3.1](https:/
 
 9. Uitbetaling van een voorziening, aanvullende compensatie of een aanvullende O/GS-tegemoetkoming als bedoeld in de [artikelen 2.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1a&artikel=2.9a&z=2026-04-01&g=2026-04-01) of [2.9b](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1a&artikel=2.9b&z=2026-04-01&g=2026-04-01) of van een tegemoetkoming als bedoeld in [artikel 2.14f](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2a&artikel=2.14f&z=2026-04-01&g=2026-04-01) vindt plaats op een daartoe door de rechthebbende bestemde bankrekening die op diens naam staat. Indien de rechthebbende minderjarig is, vindt de uitbetaling plaats op een bankrekening die daartoe is bestemd door diens wettelijke vertegenwoordiger en die op naam staat van de rechthebbende.
 
-#### Artikel 6.9. Uitbetaling
+##### Artikel 6.9. Uitbetaling
 
 1. Uitbetaling van het voorlopige bedrag van de compensatie, bedoeld in [artikel 6.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=6&afdeling=6.1&artikel=6.7&z=2026-04-01&g=2026-04-01), vindt plaats door de Dienst Toeslagen bij de bekendmaking van de vooraankondiging.
 
@@ -442,7 +469,7 @@ De Dienst Toeslagen verleent de kwijtschelding, bedoeld in [artikel 3.1](https:/
 
 10. Uitbetaling van een voorziening, aanvullende compensatie of een aanvullende O/GS-tegemoetkoming als bedoeld in de [artikelen 2.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1a&artikel=2.9a&z=2026-04-01&g=2026-04-01) of [2.9b](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1a&artikel=2.9b&z=2026-04-01&g=2026-04-01) of van een tegemoetkoming als bedoeld in [artikel 2.14f](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2a&artikel=2.14f&z=2026-04-01&g=2026-04-01) vindt plaats door de Dienst Toeslagen binnen zes weken nadat de beschikking tot toekenning daarvan is bekendgemaakt of op een later moment indien de rechthebbende daarom heeft verzocht, doch niet later dan een jaar na dagtekening van die beschikking.
 
-#### Artikel 6.10. Terugvordering
+##### Artikel 6.10. Terugvordering
 
 1. De Dienst Toeslagen kan compensatie als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.1&z=2026-04-01&g=2026-04-01), of [artikel 2.14h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.3&artikel=2.14h&z=2026-04-01&g=2026-04-01), aanvullende compensatie voor de werkelijke schade als bedoeld in artikel 2.1, derde lid, een O/GS-tegemoetkoming als bedoeld in [artikel 2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.6&z=2026-04-01&g=2026-04-01), of een aanvullende O/GS-tegemoetkoming voor de werkelijke schade als bedoeld in artikel 2.6, derde lid, terugvorderen van de aanvrager, indien hij de aanvraag heeft ingediend nadat dit artikel in werking is getreden en hij bij de aanvraag opzettelijk onjuiste informatie heeft verstrekt of geen recht had op toekenning van de compensatie, de aanvullende compensatie voor de werkelijke schade, de O/GS-tegemoetkoming of de aanvullende O/GS-tegemoetkoming voor de werkelijke schade en hij dit wist of redelijkerwijze behoorde te weten.
 
@@ -456,19 +483,19 @@ De Dienst Toeslagen verleent de kwijtschelding, bedoeld in [artikel 3.1](https:/
 
 6. Onze Minister kan een financiële tegemoetkoming als bedoeld in artikel 2.15b, tweede lid, terugvorderen, indien de partner of het kind van een overleden aanvrager bij het opstellen van het plan van aanpak, bedoeld in artikel 2.15b, vierde lid, opzettelijk onjuiste informatie heeft verstrekt of geen recht had op toekenning van een voorziening als bedoeld in artikel 2.9a onderscheidenlijk artikel 2.9b en hij dit wist of redelijkerwijze behoorde te weten.
 
-#### Artikel 6.10a. Bezwaartermijn
+##### Artikel 6.10a. Bezwaartermijn
 
 1. In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7) bedraagt de termijn voor het indienen van een bezwaarschrift dat is gericht tegen een beschikking van de Dienst Toeslagen die op grond van deze wet is gegeven zestien weken.
 
 2. In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:8) vangt de termijn voor het maken van bezwaar tegen een beschikking van de Dienst Toeslagen die op grond van deze wet is gegeven aan met ingang van de dag na die van dagtekening van de beschikking, tenzij de dag van dagtekening gelegen is vóór de dag van de bekendmaking.
 
-#### Artikel 6.10b. Beroepstermijn
+##### Artikel 6.10b. Beroepstermijn
 
 In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:8) vangt de termijn voor het instellen van beroep tegen een beslissing op bezwaar die door de Dienst Toeslagen is gedaan op een beschikking die op grond van deze wet is gegeven aan met ingang van de dag na die van dagtekening van de beslissing op bezwaar, tenzij de dag van dagtekening is gelegen vóór de dag van de bekendmaking.
 
 ### Afdeling 4.1. Overneming en betaling privaatrechtelijke schulden gedupeerde aanvrager kinderopvangtoeslag en partner, compensatie en vergoeding
 
-#### Artikel 6.11. Informatieverstrekking aan Dienst Toeslagen
+##### Artikel 6.11. Informatieverstrekking aan Dienst Toeslagen
 
 1. Bij algemene maatregel van bestuur worden de lichamen, instellingen, diensten, rechtspersonen of personen aangewezen die gehouden zijn aan de Dienst Toeslagen desgevraagd kosteloos de gegevens en inlichtingen te verstrekken die van belang kunnen zijn voor de uitvoering van de artikelen van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&z=2026-04-01&g=2026-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=3&z=2026-04-01&g=2026-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&z=2026-04-01&g=2026-04-01).
 
@@ -490,7 +517,7 @@ In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](https://wetten.
 
 10. Een gerechtsdeurwaarder die optreedt namens een schuldeiser met een opeisbare vordering van degene die in aanmerking komt voor toepassing van een herstelmaatregel als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.7&z=2026-04-01&g=2026-04-01), of diens partner, bedoeld in [artikel 3.1, eerste lid, onderdelen b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=3&artikel=3.1&z=2026-04-01&g=2026-04-01), en voor wie de afkoelingsperiode, bedoeld in [artikel 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.6&artikel=2.20&z=2026-04-01&g=2026-04-01), meer dan zes maanden geleden aangevangen is of van de ex-partner die in aanmerking komt voor de compensatie, bedoeld in [artikel 2.14h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.3&artikel=2.14h&z=2026-04-01&g=2026-04-01), en aan wie deze is toegekend, kan de naam, de geboortedatum, de adresgegevens, het bedrag aan schulden en bijkomende kosten en het burgerservicenummer van de schuldenaar op wie de opeisbare vordering betrekking heeft, verstrekken aan de Dienst Toeslagen, om de Dienst Toeslagen in staat te stellen die schuldenaar te benaderen om voor de opeisbare vordering tot een oplossing te komen.
 
-#### Artikel 6.12. Verstrekking en gebruik van gegevens door Dienst Toeslagen en Onze Minister
+##### Artikel 6.12. Verstrekking en gebruik van gegevens door Dienst Toeslagen en Onze Minister
 
 1. Indien een aanvrager van een kinderopvangtoeslag heeft verzocht om toepassing van een herstelmaatregel als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.7&z=2026-04-01&g=2026-04-01) en kenbaar heeft gemaakt in aanmerking te willen komen voor ondersteuning als bedoeld in [artikel 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.7&artikel=2.21&z=2026-04-01&g=2026-04-01) door het college van burgemeester en wethouders van de gemeente waarvan die aanvrager ingezetene is of indien een partner of kind van een overleden aanvrager als bedoeld in [artikel 2.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1a&artikel=2.9a&z=2026-04-01&g=2026-04-01), onderscheidenlijk [artikel 2.9b](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1a&artikel=2.9b&z=2026-04-01&g=2026-04-01), kenbaar heeft gemaakt in aanmerking te willen komen voor ondersteuning door het college van burgemeester en wethouders van de gemeente waarvan die partner of dat kind ingezetene is, kan de Dienst Toeslagen op verzoek van deze aanvrager, deze partner of dit kind, het burgerservicenummer en de contactgegevens verstrekken aan dat college van burgemeester en wethouders om dat college in staat te stellen die aanvrager, die partner, of dat kind een aanbod van ondersteuning te doen op de vijf leefgebieden financiën, gezin, werk, wonen en zorg.
 
@@ -532,7 +559,7 @@ In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](https://wetten.
 
 17. Bij een wens tot remigratie verstrekt Onze Minister aan het college van burgemeester en wethouders het burgerservicenummer en de contactgegevens van een aanvrager van een kinderopvangtoeslag die in aanmerking komt voor toepassing van een herstelmaatregel als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.7&z=2026-04-01&g=2026-04-01), de partner van een overleden aanvrager die in aanmerking komt voor een compensatie als bedoeld in [artikel 2.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1a&artikel=2.9a&z=2026-04-01&g=2026-04-01), een kind van een overleden aanvrager die in aanmerking komt voor een compensatie als bedoeld in [artikel 2.9b](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1a&artikel=2.9b&z=2026-04-01&g=2026-04-01), of van een ex-partner die in aanmerking komt voor de compensatie, bedoeld in [artikel 2.14h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.3&artikel=2.14h&z=2026-04-01&g=2026-04-01), en aan wie deze is toegekend, indien die aanvrager, partner, kind of ex-partner kenbaar heeft gemaakt in aanmerking te willen komen voor ondersteuning door het college van burgemeester en wethouders van de gemeente waarvan die aanvrager of ex-partner ingezetene wordt.
 
-#### Artikel 6.13. Verwerking bijzondere categorieën persoonsgegevens en persoonsgegevens van strafrechtelijke aard
+##### Artikel 6.13. Verwerking bijzondere categorieën persoonsgegevens en persoonsgegevens van strafrechtelijke aard
 
 1. De Dienst Toeslagen verwerkt gegevens en inlichtingen die betrekking hebben op bijzondere categorieën van persoonsgegevens en persoonsgegevens van strafrechtelijke aard, indien dat noodzakelijk is voor het vaststellen van een recht op compensatie, een tegemoetkoming, kwijtschelding of overneming van schulden als bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&z=2026-04-01&g=2026-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=3&z=2026-04-01&g=2026-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&z=2026-04-01&g=2026-04-01) van deze wet of voor de uitvoering daarvan.
 
@@ -542,7 +569,7 @@ In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](https://wetten.
 
 4. Indien de verwerking van gegevens en inlichtingen betrekking heeft op een of meer bijzondere categorieën van persoonsgegevens of persoonsgegevens van strafrechtelijke aard, wordt voorzien in zodanige waarborgen dat de persoonlijke levenssfeer van de betrokkene niet onevenredig wordt geschaad.
 
-#### Artikel 6.14. Verwijdering gegevens uit stelsel van kredietregistratie
+##### Artikel 6.14. Verwijdering gegevens uit stelsel van kredietregistratie
 
 Een registratie in een stelsel van kredietregistratie als bedoeld in [artikel 4:32 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:32) in verband met een betalingsachterstand aangaande een overeenkomst met een aanvrager van een kinderopvangtoeslag die in aanmerking komt voor toepassing van een herstelmaatregel als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.7&z=2026-04-01&g=2026-04-01), diens partner, bedoeld in [artikel 3.1, eerste lid, onderdelen b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=3&artikel=3.1&z=2026-04-01&g=2026-04-01), of een ex-partner die in aanmerking komt voor de compensatie, bedoeld in [artikel 2.14h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.3&artikel=2.14h&z=2026-04-01&g=2026-04-01), en aan wie deze is toegekend wordt door degene die deze heeft geregistreerd per omgaande verwijderd uit het stelsel van kredietregistratie, indien de betalingsachterstand is komen te vervallen.
 
@@ -554,21 +581,21 @@ Een registratie in een stelsel van kredietregistratie als bedoeld in [artikel 4:
 
 ### Afdeling 8.2. Overgangsrecht
 
-#### Artikel 8.6. Overgangsrecht in verband met terugwerking van de artikelen van de [afdelingen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&z=2026-04-01&g=2026-04-01), [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.4&z=2026-04-01&g=2026-04-01), 3.1, [4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.1&z=2026-04-01&g=2026-04-01) en [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.2&z=2026-04-01&g=2026-04-01)
+##### Artikel 8.6. Overgangsrecht in verband met terugwerking van de artikelen van de [afdelingen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&z=2026-04-01&g=2026-04-01), [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.4&z=2026-04-01&g=2026-04-01), 3.1, [4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.1&z=2026-04-01&g=2026-04-01) en [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.2&z=2026-04-01&g=2026-04-01)
 
 Beschikkingen ter zake van compensatie, aanvullende compensatie voor de werkelijke schade, O/GS-tegemoetkomingen, aanvullende O/GS-tegemoetkomingen voor de werkelijke schade of andere tegemoetkomingen of vergoedingen, ter zake van brede ondersteuning op de vijf leefgebieden financiën, gezin, werk, wonen en zorg aan gedupeerde aanvragers van een kinderopvangtoeslag, hun partners, kinderen en pleegkinderen van een van hen die woonachtig zijn buiten Nederland, kwijtschelding van bestuursrechtelijke schulden en betaling of overneming van privaatrechtelijke schulden die in het kader van de hersteloperatie toeslagen zijn gegeven voor het tijdstip van inwerkingtreding van de artikelen van [afdeling 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&z=2026-04-01&g=2026-04-01), [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.2&z=2026-04-01&g=2026-04-01), 3.1, [4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.1&z=2026-04-01&g=2026-04-01) onderscheidenlijk [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.2&z=2026-04-01&g=2026-04-01), worden vanaf dat tijdstip aangemerkt als beschikkingen die zijn gegeven krachtens het artikel van afdeling 2.1, 2.4, 3.1, 4.1 of 4.2 waarin de desbetreffende herstelregeling is opgenomen.
 
-#### Artikel 8.7. Overgangsrecht eenmalige tegemoetkoming herstel
+##### Artikel 8.7. Overgangsrecht eenmalige tegemoetkoming herstel
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 8.8. Overgangsrecht kwijtschelding SZW-domein
+##### Artikel 8.8. Overgangsrecht kwijtschelding SZW-domein
 
 Vervallen
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 2.20. Moratorium
+##### Artikel 2.20. Moratorium
 
 1. Op het moment waarop aan een aanvrager van een kinderopvangtoeslag in de vorm van een forfaitair bedrag als bedoeld in [artikel 2.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.7&z=2026-04-01&g=2026-04-01), een bedrag wordt uitgekeerd, gaat van rechtswege een afkoelingsperiode in voor een periode van een jaar.
 
@@ -602,7 +629,7 @@ Vervallen
 
 ### Afdeling 2.2a. Tegemoetkoming nabestaanden van overleden kind
 
-#### Artikel 3.1. Kwijtschelding schulden gedupeerde aanvrager kinderopvangtoeslag, partner en ex-partner van gedupeerde aanvrager kinderopvangtoeslag door Dienst Toeslagen
+##### Artikel 3.1. Kwijtschelding schulden gedupeerde aanvrager kinderopvangtoeslag, partner en ex-partner van gedupeerde aanvrager kinderopvangtoeslag door Dienst Toeslagen
 
 1. In afwijking van [artikel 31bis van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=31bis) scheldt de Dienst Toeslagen ambtshalve kwijt het voor 1 januari 2021 nog niet betaalde bedrag van de terugvordering van een toeslag die betrekking heeft op een berekeningsjaar van voor 2021, de met die terugvordering samenhangende rente, de met die terugvordering samenhangende kosten van invordering alsmede het bedrag van een met die terugvordering samenhangende bestuurlijke boete van:
 
@@ -626,23 +653,23 @@ Vervallen
 
 5. Geen kwijtschelding wordt verleend wanneer het ontstaan of niet voldoen van de toeslagschuld het gevolg is van ernstig verwijtbaar handelen of nalaten van degene, bedoeld in het eerste lid, onderdeel a, b, of c.
 
-#### Artikel 3.2. Invoeging [artikel 26a van de Invorderingswet 1990](onbekend)
+##### Artikel 3.2. Invoeging [artikel 26a van de Invorderingswet 1990](onbekend)
 
 Wijzigt de Invorderingswet 1990.
 
-#### Artikel 3.3. Wijziging [artikel 232 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=232)
+##### Artikel 3.3. Wijziging [artikel 232 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=232)
 
 Wijzigt de Provinciewet.
 
-#### Artikel 3.4. Wijziging [artikel 255 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=255)
+##### Artikel 3.4. Wijziging [artikel 255 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=255)
 
 Wijzigt de Gemeentewet.
 
-#### Artikel 3.5. Wijziging [artikel 144 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=144)
+##### Artikel 3.5. Wijziging [artikel 144 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=144)
 
 Wijzigt de Waterschapswet.
 
-#### Artikel 3.6. Kwijtschelding schulden gedupeerde aanvrager kinderopvangtoeslag, partner en ex-partner van gedupeerde aanvrager kinderopvangtoeslag door Uitvoeringsinstituut werknemersverzekeringen
+##### Artikel 3.6. Kwijtschelding schulden gedupeerde aanvrager kinderopvangtoeslag, partner en ex-partner van gedupeerde aanvrager kinderopvangtoeslag door Uitvoeringsinstituut werknemersverzekeringen
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [Hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5), scheldt ambtshalve schulden kwijt die verband houden met de uitvoering van de taak, bedoeld in [artikelen 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30), en [32d, eerste en tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=32d), voor zover die op 31 december 2020 niet voldaan waren, of voor zover die betrekking hebben op de periode tot en met 31 december 2020 en de schuld na die datum is vastgesteld, van een persoon als bedoeld in [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=3&artikel=3.1&z=2026-04-01&g=2026-04-01).
 
@@ -682,7 +709,7 @@ Wijzigt de Waterschapswet.
 
 6. Bij ministeriële regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen regels worden gesteld voor de uitvoering van dit artikel.
 
-#### Artikel 3.7. Kwijtschelding schulden gedupeerde aanvrager kinderopvangtoeslag, partner en ex-partner van gedupeerde aanvrager kinderopvangtoeslag door Sociale verzekeringsbank
+##### Artikel 3.7. Kwijtschelding schulden gedupeerde aanvrager kinderopvangtoeslag, partner en ex-partner van gedupeerde aanvrager kinderopvangtoeslag door Sociale verzekeringsbank
 
 1. De Sociale verzekeringsbank, genoemd in [Hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6), scheldt ambtshalve schulden kwijt die verband houden met de uitvoering van de taak, bedoeld in de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=34) en [34a van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=34a), voor zover die op 31 december 2020 niet voldaan waren, of voor zover die betrekking hebben op de periode tot en met 31 december 2020 en de schuld na die datum is vastgesteld, van een persoon als bedoeld in [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=3&artikel=3.1&z=2026-04-01&g=2026-04-01).
 
@@ -708,7 +735,7 @@ Wijzigt de Waterschapswet.
 
 5. [Artikel 3.6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=3&artikel=3.6&z=2026-04-01&g=2026-04-01), is van overeenkomstige toepassing.
 
-#### Artikel 3.8. Kwijtschelding schulden gedupeerde aanvrager kinderopvangtoeslag, partner en ex-partner van gedupeerde aanvrager kinderopvangtoeslag door college van burgemeester en wethouders met betrekking tot [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) en enige andere wetten
+##### Artikel 3.8. Kwijtschelding schulden gedupeerde aanvrager kinderopvangtoeslag, partner en ex-partner van gedupeerde aanvrager kinderopvangtoeslag door college van burgemeester en wethouders met betrekking tot [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) en enige andere wetten
 
 1. Het college van burgemeester en wethouders scheldt ambtshalve schulden kwijt die verband houden met de uitvoering van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) en [artikel X van de Wet van 13 september 2012 tot wijziging van de Wet inburgering en enkele andere wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige](https://wetten.overheid.nl/jci1.3:c:BWBR0032031&artikel=X) (Stb. 2012, 430), voor zover die op 31 december 2020 niet voldaan waren of voor zover die betrekking hebben op de periode tot en met 31 december 2020 en de schuld na die datum is vastgesteld, van een persoon als bedoeld in [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=3&artikel=3.1&z=2026-04-01&g=2026-04-01).
 
@@ -740,7 +767,7 @@ Wijzigt de Waterschapswet.
 
 6. [Artikel 3.6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=3&artikel=3.6&z=2026-04-01&g=2026-04-01), [artikel 8c van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=8c), [artikel 40 van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=40), en [artikel 40 van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=40) zijn van overeenkomstige toepassing.
 
-#### Artikel 3.9. Kwijtschelding schulden gedupeerde aanvrager kinderopvangtoeslag, partner en ex-partner van gedupeerde aanvrager kinderopvangtoeslag door Minister van Sociale Zaken en Werkgelegenheid met betrekking tot de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611)
+##### Artikel 3.9. Kwijtschelding schulden gedupeerde aanvrager kinderopvangtoeslag, partner en ex-partner van gedupeerde aanvrager kinderopvangtoeslag door Minister van Sociale Zaken en Werkgelegenheid met betrekking tot de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611)
 
 1. Onze Minister van Sociale Zaken en Werkgelegenheid scheldt ambtshalve schulden kwijt die verband houden met de uitvoering van de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611), zoals die wet luidde op de dag voorafgaand aan de inwerkingtreding van de Wet inburgering 2021, voor zover die op 31 december 2020 niet voldaan waren, of voor zover die betrekking hebben op de periode tot en met 31 december 2020 en de schuld na die datum is vastgesteld, van een persoon als bedoeld in [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=3&artikel=3.1&z=2026-04-01&g=2026-04-01).
 
@@ -752,7 +779,7 @@ Wijzigt de Waterschapswet.
 
 5. [Artikel 3.6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=3&artikel=3.6&z=2026-04-01&g=2026-04-01), is van overeenkomstige toepassing.
 
-#### Artikel 3.10. Kwijtschelding schulden gedupeerde aanvrager kinderopvangtoeslag, partner en ex-partner van gedupeerde aanvrager kinderopvangtoeslag door CAK
+##### Artikel 3.10. Kwijtschelding schulden gedupeerde aanvrager kinderopvangtoeslag, partner en ex-partner van gedupeerde aanvrager kinderopvangtoeslag door CAK
 
 1. Het CAK, bedoeld in [artikel 1.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=1.1.1), scheldt ambtshalve schulden kwijt die verband houden met de uitvoering van de wettelijke taken op het terrein van Onze Minister van Volksgezondheid, Welzijn en Sport en Onze Minister voor Langdurige Zorg en Sport, die betrekking hebben op de periode tot en met 31 december 2020 voor zover deze niet zijn voldaan, van een persoon als bedoeld in [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=3&artikel=3.1&z=2026-04-01&g=2026-04-01).
 
@@ -766,7 +793,7 @@ Wijzigt de Waterschapswet.
 
 6. De kwijtschelding van schulden die zien op de eigen bijdrage, bedoeld in [artikel 3.2.5 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.5), komt ten laste van het Fonds langdurige zorg als bedoeld in [artikel 1, onderdeel i, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=1). De kwijtschelding van schulden die zien op de eigen bijdrage als bedoeld in [artikel 2 van het Bijdragebesluit zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0008253&artikel=2), zoals dat artikel luidde op de dag voor de datum van intrekking van dat besluit, komt tot de datum bedoeld in [artikel 11.2.10 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.2.10), ten laste van het Algemeen Fonds Bijzondere Ziektekosten en daarna ten laste van het Fonds langdurige zorg.
 
-#### Artikel 3.11. Kwijtschelding schulden gedupeerde aanvrager kinderopvangtoeslag, partner en ex-partner van gedupeerde aanvrager kinderopvangtoeslag door Wlz-uitvoerder
+##### Artikel 3.11. Kwijtschelding schulden gedupeerde aanvrager kinderopvangtoeslag, partner en ex-partner van gedupeerde aanvrager kinderopvangtoeslag door Wlz-uitvoerder
 
 1. De Wlz-uitvoerder, bedoeld in [artikel 1.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=1.1.1), scheldt ambtshalve schulden kwijt die verband houden met de uitvoering van de wettelijke taken op het terrein van Onze Minister van Volksgezondheid, Welzijn en Sport en Onze Minister voor Langdurige Zorg en Sport, die betrekking hebben op de periode tot en met 31 december 2020 voor zover deze niet zijn voldaan, van een persoon als bedoeld in [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=3&artikel=3.1&z=2026-04-01&g=2026-04-01).
 
@@ -774,13 +801,13 @@ Wijzigt de Waterschapswet.
 
 3. De kwijtschelding van schulden in verband met de uitvoering van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) komt ten laste van het Fonds langdurige zorg als bedoeld in [artikel 1, onderdeel i, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=1). De kwijtschelding van schulden in verband met de uitvoering van de Algemene Wet Bijzondere Ziektekosten komt tot de datum, bedoeld in [artikel 11.2.10 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.2.10), ten laste van het Algemeen Fonds Bijzondere Ziektekosten en daarna ten laste van het Fonds langdurige zorg.
 
-#### Artikel 3.12. Kwijtschelding schulden gedupeerde aanvrager kinderopvangtoeslag, partner en ex-partner van gedupeerde aanvrager kinderopvangtoeslag door college van burgemeester en wethouders met betrekking tot [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) en [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362)
+##### Artikel 3.12. Kwijtschelding schulden gedupeerde aanvrager kinderopvangtoeslag, partner en ex-partner van gedupeerde aanvrager kinderopvangtoeslag door college van burgemeester en wethouders met betrekking tot [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) en [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362)
 
 1. Het college, bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) en [artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1), scheldt ambtshalve schulden kwijt die verband houden met de uitvoering van de wettelijke taken op het terrein van Onze Minister van Volksgezondheid, Welzijn en Sport en Onze Minister voor Langdurige Zorg en Sport, die betrekking hebben op de periode tot en met 31 december 2020 voor zover deze niet zijn voldaan, van een persoon als bedoeld in [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=3&artikel=3.1&z=2026-04-01&g=2026-04-01).
 
 2. [Artikel 3.10, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=3&artikel=3.10&z=2026-04-01&g=2026-04-01), en de daarop berustende bepalingen zijn van overeenkomstige toepassing.
 
-#### Artikel 3.13. Compensatie voor afgeloste bestuursrechtelijke schulden gedupeerde aanvrager kinderopvangtoeslag
+##### Artikel 3.13. Compensatie voor afgeloste bestuursrechtelijke schulden gedupeerde aanvrager kinderopvangtoeslag
 
 1. Onze Minister verleent op aanvraag compensatie voor afgeloste bestuursrechtelijke schulden aan degene die voor 1 januari 2021 een bedrag heeft ontvangen op grond van een herstelmaatregel als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.7&z=2026-04-01&g=2026-04-01), als diegene tussen het moment van het ontvangen van dat bedrag en 1 januari 2021 een bedrag heeft afgelost aan bestuursrechtelijke schulden of aan een ex-partner, die in aanmerking komt voor de compensatie, bedoeld in [artikel 2.14h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.3&artikel=2.14h&z=2026-04-01&g=2026-04-01), en aan wie deze is toegekend, als die ex-partner tussen het moment van het ontvangen van dat bedrag en de kwijtschelding van de bestuursrechtelijke schulden op grond van dit hoofdstuk een bedrag heeft afgelost aan bestuursrechtelijke schulden.
 
@@ -790,7 +817,7 @@ Wijzigt de Waterschapswet.
 
 4. Voor de toepassing van dit artikel wordt onder een bestuursrechtelijke schuld verstaan een schuld die door een overheidsorganisatie zou zijn kwijtgescholden in het kader van de hersteloperatie kinderopvangtoeslag indien deze schuld niet voor 1 januari 2021 zou zijn afgelost.
 
-#### Artikel 3.14. Maximumbedrag kwijt te schelden zakelijke bestuursrechtelijke schulden
+##### Artikel 3.14. Maximumbedrag kwijt te schelden zakelijke bestuursrechtelijke schulden
 
 1. Bij de toepassing van de [artikelen 3.6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=3&artikel=3.6&z=2026-04-01&g=2026-04-01), [3.8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=3&artikel=3.8&z=2026-04-01&g=2026-04-01), en [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=3&artikel=3.13&z=2026-04-01&g=2026-04-01) wordt de kwijt te schelden schuld of restitutie van de lening, bedoeld in de artikelen 3.6, vijfde lid, en 3.8, vijfde lid, en de compensatie voor afgeloste zakelijke bestuursrechtelijke schulden, bedoeld in artikel 3.13, vastgesteld op maximaal het bedrag dat de aanvrager nog kan ontvangen als de-minimissteun als bedoeld in artikel 3 van [Verordening (EU) nr. 1407/2013](32013R1407) van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PbEU 2013, L 352), indien degene wiens schulden het betreft, wordt aangemerkt als ondernemer of, indien hij in staat van faillissement verkeert en voorafgaand aan het faillissement zou zijn aangemerkt als ondernemer.
 
@@ -816,7 +843,7 @@ Wijzigt de Waterschapswet.
 
 ### Hoofdstuk 6. Bepalingen van procedurele aard; verkrijgen, gebruiken en verstrekken van gegevens
 
-#### Artikel 4.6. Betaling schulden gedupeerde aanvrager kinderopvangtoeslag, partner en ex-partner van gedupeerde aanvrager kinderopvangtoeslag in wettelijk schuldsaneringstraject
+##### Artikel 4.6. Betaling schulden gedupeerde aanvrager kinderopvangtoeslag, partner en ex-partner van gedupeerde aanvrager kinderopvangtoeslag in wettelijk schuldsaneringstraject
 
 1. De Dienst Toeslagen betaalt op aanvraag de schulden van degene die in aanmerking komt voor toepassing van een herstelmaatregel als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.7&z=2026-04-01&g=2026-04-01) en diens partner, bedoeld in [artikel 3.1, eerste lid, onderdelen b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=3&artikel=3.1&z=2026-04-01&g=2026-04-01), op wie de schuldsaneringsregeling, bedoeld in [titel III van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III), toepassing vindt die is ingegaan voor de dag waarop dit artikel in werking is getreden of een ex-partner die in aanmerking komt voor de compensatie, bedoeld in [artikel 2.14h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.3&artikel=2.14h&z=2026-04-01&g=2026-04-01), en aan wie deze is toegekend, op wie deze schuldsaneringsregeling toepassing vindt en die is ingegaan voor de dag waarop de [Wet aanvullende regelingen hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0048413) in werking is getreden.
 
@@ -840,7 +867,7 @@ Wijzigt de Waterschapswet.
 
 8. De voorgaande leden zijn van overeenkomstige toepassing indien op een aanvrager van een kinderopvangtoeslag, diens partner of een ex-partner als bedoeld in het eerste lid door heropening op grond van [artikel 356, vierde lid, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=356), van de schuldsaneringsregeling, welke initieel is aangevangen voor de dag waarop dit artikel in werking is getreden, opnieuw de schuldsaneringsregeling van toepassing is.
 
-#### Artikel 4.7. Betaling schulden gedupeerde aanvrager kinderopvangtoeslag, partner en ex-partner van gedupeerde aanvrager kinderopvangtoeslag in buitengerechtelijke schuldregeling
+##### Artikel 4.7. Betaling schulden gedupeerde aanvrager kinderopvangtoeslag, partner en ex-partner van gedupeerde aanvrager kinderopvangtoeslag in buitengerechtelijke schuldregeling
 
 1. De Dienst Toeslagen betaalt op aanvraag een bedrag ter grootte van de schulden, bedoeld in het tweede lid, van degene die in aanmerking komt voor toepassing van een herstelmaatregel als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.7&z=2026-04-01&g=2026-04-01) en diens partner, bedoeld in [artikel 3.1, eerste lid, onderdelen b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=3&artikel=3.1&z=2026-04-01&g=2026-04-01), en die:
 
@@ -872,7 +899,7 @@ Wijzigt de Waterschapswet.
 
 9. Nadat het zevende of achtste lid is toegepast, is [artikel 3, tweede lid, van de Wet gemeentelijke schuldhulpverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=3) niet van toepassing.
 
-#### Artikel 4.8. Maximumbedrag over te nemen of te betalen zakelijke privaatrechtelijke schulden in geval van wettelijk schuldsaneringstraject of buitenrechtelijke schuldsanering
+##### Artikel 4.8. Maximumbedrag over te nemen of te betalen zakelijke privaatrechtelijke schulden in geval van wettelijk schuldsaneringstraject of buitenrechtelijke schuldsanering
 
 [Artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=3&artikel=3.14&z=2026-04-01&g=2026-04-01) is van overeenkomstige toepassing bij de vaststelling van het bedrag aan te betalen zakelijke schulden, bedoeld in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.2&artikel=4.6&z=2026-04-01&g=2026-04-01) of [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.2&artikel=4.7&z=2026-04-01&g=2026-04-01).
 
@@ -892,7 +919,7 @@ Wijzigt de Waterschapswet.
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 4.1. Overneming of betaling privaatrechtelijke geldschulden gedupeerde aanvrager kinderopvangtoeslag, partner en ex-partner van gedupeerde aanvrager kinderopvangtoeslag
+##### Artikel 4.1. Overneming of betaling privaatrechtelijke geldschulden gedupeerde aanvrager kinderopvangtoeslag, partner en ex-partner van gedupeerde aanvrager kinderopvangtoeslag
 
 1. Onze Minister neemt op aanvraag de geldschulden en kosten over op grond van [artikel 155 van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=155) van een aanvrager van een kinderopvangtoeslag die in aanmerking komt voor toepassing van een herstelmaatregel als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.7&z=2026-04-01&g=2026-04-01) of diens partner, bedoeld in [artikel 3.1, eerste lid, onderdelen b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=3&artikel=3.1&z=2026-04-01&g=2026-04-01), of een ex-partner die in aanmerking komt voor de compensatie, bedoeld in [artikel 2.14h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.3&artikel=2.14h&z=2026-04-01&g=2026-04-01), en aan wie deze is toegekend, tenzij op die aanvrager, die partner of die ex-partner [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.2&artikel=4.6&z=2026-04-01&g=2026-04-01) of [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.2&artikel=4.7&z=2026-04-01&g=2026-04-01) van toepassing is.
 
@@ -934,7 +961,7 @@ Wijzigt de Waterschapswet.
 
 5. Indien een schuldeiser geen toestemming geeft tot overneming van een geldschuld, voldoet Onze Minister de geldschuld en is de betreffende verbintenis nagekomen als bedoeld in [artikel 30 van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=30).
 
-#### Artikel 4.2. Overneming van schulden bij een zorgverzekeraar of het Landelijk Bureau Invordering Ouderbijdragen gedupeerde aanvrager kinderopvangtoeslag en partner
+##### Artikel 4.2. Overneming van schulden bij een zorgverzekeraar of het Landelijk Bureau Invordering Ouderbijdragen gedupeerde aanvrager kinderopvangtoeslag en partner
 
 Onze Minister voldoet op aanvraag van een zorgverzekeraar als bedoeld in [artikel 1, onderdeel b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1), of het Landelijk Bureau Invordering Ouderbijdragen de opeisbare schulden:
 
@@ -942,7 +969,7 @@ Onze Minister voldoet op aanvraag van een zorgverzekeraar als bedoeld in [artike
 
 - b. die voortvloeien uit alimentatieverplichtingen van de persoon, bedoeld in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.1&artikel=4.1&z=2026-04-01&g=2026-04-01), en waarvoor het Landelijk Bureau Invordering Ouderbijdragen de gemachtigde invorderaar is.
 
-#### Artikel 4.3. Compensatie afgeloste privaatrechtelijke geldschulden gedupeerde aanvrager kinderopvangtoeslag en partner
+##### Artikel 4.3. Compensatie afgeloste privaatrechtelijke geldschulden gedupeerde aanvrager kinderopvangtoeslag en partner
 
 1. Aan een aanvrager van een kinderopvangtoeslag die in aanmerking komt voor toepassing van een herstelmaatregel als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.7&z=2026-04-01&g=2026-04-01) of aan een ex-partner, die in aanmerking komt voor de compensatie, bedoeld in [artikel 2.14h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.3&artikel=2.14h&z=2026-04-01&g=2026-04-01), en aan wie deze is toegekend, verleent Onze Minister op aanvraag compensatie voor een afgeloste geldschuld die op grond van [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.1&artikel=4.1&z=2026-04-01&g=2026-04-01) voor overneming in aanmerking zou komen als deze niet voldaan was.
 
@@ -958,7 +985,7 @@ Onze Minister voldoet op aanvraag van een zorgverzekeraar als bedoeld in [artike
 
 5. De hoogte van de compensatie voor een afgeloste geldschuld en kosten is gelijk aan het bedrag dat de aanvrager van de compensatie in de periode, bedoeld in het derde lid, onderdeel a of b, heeft afgelost aan opeisbare geldschulden en kosten, met een maximum van het bedrag dat hij ontvangen heeft op grond van een herstelmaatregel. [Artikel 3.13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=3&artikel=3.13&z=2026-04-01&g=2026-04-01), is van toepassing.
 
-#### Artikel 4.4. Forfaitaire kostenvergoeding voor curator en bewindvoerder
+##### Artikel 4.4. Forfaitaire kostenvergoeding voor curator en bewindvoerder
 
 1. Onze Minister kent op aanvraag een forfaitaire kostenvergoeding toe aan de curator onderscheidenlijk bewindvoerder van degene, bedoeld in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.1&artikel=4.1&z=2026-04-01&g=2026-04-01), of [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.1&artikel=4.3&z=2026-04-01&g=2026-04-01), die onder curatele staat als bedoeld in [artikel 378 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=378) of voor al de hem toebehorende onderscheidenlijk gaan toebehorende goederen onder bewind is gesteld als bedoeld in [artikel 431 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=431).
 
@@ -966,7 +993,7 @@ Onze Minister voldoet op aanvraag van een zorgverzekeraar als bedoeld in [artike
 
 3. De aanvraag tot toekenning van de forfaitaire kostenvergoeding wordt door de curator of bewindvoerder ingediend bij de aanvraag, bedoeld in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.1&artikel=4.1&z=2026-04-01&g=2026-04-01), of [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.1&artikel=4.3&z=2026-04-01&g=2026-04-01).
 
-#### Artikel 4.5. Maximumbedrag over te nemen of te betalen zakelijke privaatrechtelijke schulden
+##### Artikel 4.5. Maximumbedrag over te nemen of te betalen zakelijke privaatrechtelijke schulden
 
 [Artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=3&artikel=3.14&z=2026-04-01&g=2026-04-01) is van overeenkomstige toepassing bij de vaststelling van het bedrag van over te nemen of te betalen zakelijke schulden, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.1&artikel=4.1&z=2026-04-01&g=2026-04-01), en van compensatie voor afgeloste zakelijke schulden als bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.1&artikel=4.3&z=2026-04-01&g=2026-04-01).
 
@@ -986,7 +1013,7 @@ Onze Minister voldoet op aanvraag van een zorgverzekeraar als bedoeld in [artike
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 2.15. Ondersteuning en vergoedingen voor gedupeerde aanvrager kinderopvangtoeslag en diens gezin woonachtig buiten Nederland
+##### Artikel 2.15. Ondersteuning en vergoedingen voor gedupeerde aanvrager kinderopvangtoeslag en diens gezin woonachtig buiten Nederland
 
 1. Onze Minister kan ambtshalve brede ondersteuning in het buitenland aanbieden op de vijf leefgebieden financiën, gezin, werk, wonen en zorg aan een aanvrager van een kinderopvangtoeslag die in aanmerking komt voor toepassing van een herstelmaatregel als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.7&z=2026-04-01&g=2026-04-01), ten behoeve van die aanvrager, diens partner en het kind, pleegkind of voormalig pleegkind van een van beiden, indien:
 
@@ -1036,7 +1063,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is nieuwe maatregelen t
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -1080,11 +1107,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Afdeling 2.1. Compensatie en tegemoetkomingen gedupeerde aanvrager kinderopvangtoeslag
 
-#### Artikel 2.10. Tegemoetkoming voor kind van gedupeerde aanvrager kinderopvangtoeslag of diens partner
+##### Artikel 2.10. Tegemoetkoming voor kind van gedupeerde aanvrager kinderopvangtoeslag of diens partner
 
 Aan een kind van een aanvrager van een kinderopvangtoeslag die in aanmerking komt voor toepassing van een herstelmaatregel als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.7&z=2026-04-01&g=2026-04-01) of van diens partner, indien die tevens diens partner was op 26 januari 2021, kent de Dienst Toeslagen ambtshalve een tegemoetkoming als bedoeld in [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.12&z=2026-04-01&g=2026-04-01) toe, indien het kind op 1 januari 2005 jonger was dan 21 jaar of in de periode van 1 januari 2005 tot en met de dag waarop dit artikel in werking is getreden, is geboren.
 
-#### Artikel 2.11. Tegemoetkoming voor pleegkind of voormalig pleegkind van gedupeerde aanvrager kinderopvangtoeslag of diens partner
+##### Artikel 2.11. Tegemoetkoming voor pleegkind of voormalig pleegkind van gedupeerde aanvrager kinderopvangtoeslag of diens partner
 
 1. Aan een pleegkind van een aanvrager van een kinderopvangtoeslag die in aanmerking komt voor toepassing van een herstelmaatregel als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.7&z=2026-04-01&g=2026-04-01) of van diens partner, indien die tevens diens partner was op 26 januari 2021, kent de Dienst Toeslagen ambtshalve een tegemoetkoming als bedoeld in [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.12&z=2026-04-01&g=2026-04-01) toe, indien het pleegkind:
 
@@ -1098,7 +1125,7 @@ Aan een kind van een aanvrager van een kinderopvangtoeslag die in aanmerking kom
 
 - b. op 1 januari 2005 jonger was dan 21 jaar of in de periode van 1 januari 2005 tot en met de dag waarop dit artikel in werking is getreden, is geboren.
 
-#### Artikel 2.12. Hoogte tegemoetkoming voor kind, pleegkind of voormalig pleegkind
+##### Artikel 2.12. Hoogte tegemoetkoming voor kind, pleegkind of voormalig pleegkind
 
 1. De tegemoetkoming bedraagt voor een kind, pleegkind of voormalig pleegkind dat op 1 juli 2023:
 
@@ -1114,7 +1141,7 @@ Aan een kind van een aanvrager van een kinderopvangtoeslag die in aanmerking kom
 
 2. Een kind, pleegkind of voormalig pleegkind komt eenmaal in aanmerking voor de tegemoetkoming.
 
-#### Artikel 2.13. Tegemoetkoming voor kind, pleegkind of voormalig pleegkind van gedupeerde aanvrager kinderopvangtoeslag of diens partner op aanvraag
+##### Artikel 2.13. Tegemoetkoming voor kind, pleegkind of voormalig pleegkind van gedupeerde aanvrager kinderopvangtoeslag of diens partner op aanvraag
 
 Een kind als bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.10&z=2026-04-01&g=2026-04-01), een pleegkind als bedoeld in [artikel 2.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.11&z=2026-04-01&g=2026-04-01), of een voormalig pleegkind als bedoeld in artikel 2.11, tweede lid, kan een aanvraag doen tot toekenning van een tegemoetkoming als bedoeld in [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.12&z=2026-04-01&g=2026-04-01) indien:
 
@@ -1122,7 +1149,7 @@ Een kind als bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - b. de Dienst Toeslagen de beschikking tot toekenning van de tegemoetkoming niet ambtshalve binnen zes maanden na de datum, bedoeld in [artikel 6.4, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=6&afdeling=6.1&artikel=6.4&z=2026-04-01&g=2026-04-01), heeft vastgesteld.
 
-#### Artikel 2.14. Tegemoetkoming voor kind, pleegkind of voormalig pleegkind van een aanvrager kinderopvangtoeslag in geval van overlijden van de aanvrager
+##### Artikel 2.14. Tegemoetkoming voor kind, pleegkind of voormalig pleegkind van een aanvrager kinderopvangtoeslag in geval van overlijden van de aanvrager
 
 1. De Dienst Toeslagen kent op aanvraag een tegemoetkoming als bedoeld in [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.12&z=2026-04-01&g=2026-04-01) toe aan een kind van een overleden aanvrager, dat op 1 januari 2005 jonger was dan 21 jaar of is geboren in de periode van 1 januari 2005 tot en met de dag waarop de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.10&z=2026-04-01&g=2026-04-01) en [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.11&z=2026-04-01&g=2026-04-01) in werking zijn getreden.
 
@@ -1152,7 +1179,7 @@ Een kind als bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 9.1. Hardheidsclausules
+##### Artikel 9.1. Hardheidsclausules
 
 1. De Dienst Toeslagen kan bij een besluit over toekenning van compensatie, een tegemoetkoming of vergoeding, kwijtschelding van bestuursrechtelijke schulden of betaling van bestuursrechtelijke en privaatrechtelijke schulden afwijken van [2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.1&z=2026-04-01&g=2026-04-01), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.6&z=2026-04-01&g=2026-04-01), [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1&artikel=2.7&z=2026-04-01&g=2026-04-01), [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.10&z=2026-04-01&g=2026-04-01), [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.11&z=2026-04-01&g=2026-04-01), [2.11a](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.11a&z=2026-04-01&g=2026-04-01), [2.11b](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.11b&z=2026-04-01&g=2026-04-01), [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.14&z=2026-04-01&g=2026-04-01), [2.14a](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.14a&z=2026-04-01&g=2026-04-01), [2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.5&artikel=2.16&z=2026-04-01&g=2026-04-01), [2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.5&artikel=2.17&z=2026-04-01&g=2026-04-01), [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=3&artikel=3.1&z=2026-04-01&g=2026-04-01), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.2&artikel=4.6&z=2026-04-01&g=2026-04-01), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4&afdeling=4.2&artikel=4.7&z=2026-04-01&g=2026-04-01) of [6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=6&afdeling=6.1&artikel=6.1&z=2026-04-01&g=2026-04-01) voor zover toepassing van het desbetreffende artikel gelet op doel of strekking ervan zal leiden tot een onbillijkheid van overwegende aard voor degene die aanspraak wil maken op de toekenning.
 
@@ -1174,7 +1201,7 @@ Een kind als bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - h. het college, bedoeld in de [artikelen 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) en [1.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1), van [artikel 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=3&artikel=3.12&z=2026-04-01&g=2026-04-01) afwijken.
 
-#### Artikel 9.2. Inwerkingtreding
+##### Artikel 9.2. Inwerkingtreding
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen en onderdelen daarvan verschillend kan worden vastgesteld en werkt terug ten aanzien van:
 
@@ -1216,13 +1243,13 @@ Een kind als bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 3. De [artikelen 6.8, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=6&afdeling=6.1&artikel=6.8&z=2026-04-01&g=2026-04-01), en [6.9, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=6&afdeling=6.1&artikel=6.9&z=2026-04-01&g=2026-04-01), zoals deze luiden direct na inwerkingtreding van [artikel I, onderdelen SSa, onder 3, en TTa, van de Wet aanvullende regelingen hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0050567&artikel=I), werken terug tot en met 22 april 2024 met betrekking tot een tegemoetkoming op grond van [afdeling 2.2A](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2a&z=2026-04-01&g=2026-04-01).
 
-#### Artikel 9.3. Citeertitel
+##### Artikel 9.3. Citeertitel
 
 Deze wet wordt aangehaald als: Wet hersteloperatie toeslagen.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 2.11a. Tegemoetkoming voor kind van ex-partner van gedupeerde aanvrager kinderopvangtoeslag
+##### Artikel 2.11a. Tegemoetkoming voor kind van ex-partner van gedupeerde aanvrager kinderopvangtoeslag
 
 1. Aan een kind van een ex-partner, die in aanmerking komt voor de compensatie, bedoeld in [artikel 2.14h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.3&artikel=2.14h&z=2026-04-01&g=2026-04-01), en aan wie deze is toegekend, kent de Dienst Toeslagen ambtshalve een tegemoetkoming als bedoeld in [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.12&z=2026-04-01&g=2026-04-01) toe, indien het kind:
 
@@ -1232,7 +1259,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 2. [Artikel 2.14g, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.3&artikel=2.14g&z=2026-04-01&g=2026-04-01), is van overeenkomstige toepassing.
 
-#### Artikel 2.11b. Tegemoetkoming voor pleegkind of voormalig pleegkind van ex-partner van gedupeerde aanvrager kinderopvangtoeslag
+##### Artikel 2.11b. Tegemoetkoming voor pleegkind of voormalig pleegkind van ex-partner van gedupeerde aanvrager kinderopvangtoeslag
 
 1. Aan een pleegkind van een ex-partner, die in aanmerking komt voor de compensatie, bedoeld in [artikel 2.14h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.3&artikel=2.14h&z=2026-04-01&g=2026-04-01), en aan wie deze is toegekend, kent de Dienst Toeslagen ambtshalve een tegemoetkoming als bedoeld in [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.12&z=2026-04-01&g=2026-04-01) toe, indien het pleegkind:
 
@@ -1250,7 +1277,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. [Artikel 2.14g, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.3&artikel=2.14g&z=2026-04-01&g=2026-04-01), is van overeenkomstige toepassing.
 
-#### Artikel 2.13a. Tegemoetkoming voor kind, pleegkind of voormalig pleegkind van ex-partner van gedupeerde aanvrager kinderopvangtoeslag op aanvraag
+##### Artikel 2.13a. Tegemoetkoming voor kind, pleegkind of voormalig pleegkind van ex-partner van gedupeerde aanvrager kinderopvangtoeslag op aanvraag
 
 Een kind als bedoeld in [artikel 2.11a](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.11a&z=2026-04-01&g=2026-04-01), een pleegkind als bedoeld in [artikel 2.11b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.11b&z=2026-04-01&g=2026-04-01), of een voormalig pleegkind als bedoeld in artikel 2.11b, tweede lid, kan een aanvraag doen tot toekenning van een tegemoetkoming als bedoeld in [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.12&z=2026-04-01&g=2026-04-01) indien:
 
@@ -1258,7 +1285,7 @@ Een kind als bedoeld in [artikel 2.11a](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 - b. de beschikking tot toekenning van de tegemoetkoming, bedoeld in [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.12&z=2026-04-01&g=2026-04-01), niet ambtshalve is gegeven binnen zes maanden na de datum van dagtekening van de beschikking, bedoeld in [artikel 6.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=6&afdeling=6.1&artikel=6.4a&z=2026-04-01&g=2026-04-01).
 
-#### Artikel 2.14a. Tegemoetkoming voor kind, pleegkind of voormalig pleegkind van een ex-partner van gedupeerde aanvrager kinderopvangtoeslag in geval van overlijden van de ex-partner
+##### Artikel 2.14a. Tegemoetkoming voor kind, pleegkind of voormalig pleegkind van een ex-partner van gedupeerde aanvrager kinderopvangtoeslag in geval van overlijden van de ex-partner
 
 1. De Dienst Toeslagen kent op aanvraag een tegemoetkoming als bedoeld in [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.12&z=2026-04-01&g=2026-04-01) toe aan een kind van een ex-partner van een aanvrager van een kinderopvangtoeslag indien:
 
@@ -1276,7 +1303,7 @@ Een kind als bedoeld in [artikel 2.11a](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 3. [Artikel 2.14g, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.3&artikel=2.14g&z=2026-04-01&g=2026-04-01), is van overeenkomstige toepassing.
 
-#### Artikel 2.14g. Begrip ex-partner en invulling overige begrippen in [afdeling 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.3&z=2026-04-01&g=2026-04-01)
+##### Artikel 2.14g. Begrip ex-partner en invulling overige begrippen in [afdeling 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.3&z=2026-04-01&g=2026-04-01)
 
 1. Voor de toepassing van deze afdeling wordt onder ex-partner verstaan degene die:
 
@@ -1306,7 +1333,7 @@ Een kind als bedoeld in [artikel 2.11a](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 6. In afwijking van [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=1&artikel=1.1&z=2026-04-01&g=2026-04-01) wordt voor de toepassing van dit artikel het begrip partner bij de beoordeling of sprake is van het al dan niet zijn van partner op het in dit artikel bedoelde tijdstip of in de dit artikel bedoelde periode om in aanmerking te komen voor compensatie als bedoeld in het eerste lid, beoordeeld op basis van [artikel 3 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=3) zoals dat artikel luidde in die periode of op dat tijdstip.
 
-#### Artikel 2.14h. Compensatie voor ex-partner van gedupeerde aanvrager kinderopvangtoeslag
+##### Artikel 2.14h. Compensatie voor ex-partner van gedupeerde aanvrager kinderopvangtoeslag
 
 1. De Dienst Toeslagen kent op aanvraag een compensatie van € 10.000 toe aan een ex-partner, met dien verstande dat de compensatie nihil bedraagt indien een ex-partner eerder compensatie heeft ontvangen op grond van dit lid.
 
@@ -1314,11 +1341,11 @@ Een kind als bedoeld in [artikel 2.11a](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 3. Compensatie blijft achterwege voor zover op een andere wijze in een vergoeding of tegemoetkoming is voorzien ter zake van geleden schade als gevolg van een beschikking vanwege institutionele vooringenomenheid of hardheid of een beschikking vanwege een onterechte kwalificatie opzet of grove schuld. Onder vergoeding of tegemoetkoming als bedoeld in de eerste zin wordt niet verstaan een bedrag dat de ex-partner heeft ontvangen van de aanvrager van een kinderopvangtoeslag vanwege het met de ex-partner delen van een tegemoetkoming of compensatie die de aanvrager heeft ontvangen op grond van deze wet.
 
-#### Artikel 2.14i. Incidentele noodvoorziening voor ex-partner van gedupeerde aanvrager kinderopvangtoeslag
+##### Artikel 2.14i. Incidentele noodvoorziening voor ex-partner van gedupeerde aanvrager kinderopvangtoeslag
 
 Indien de Dienst Toeslagen niet op korte termijn overgaat tot uitbetaling van compensatie als bedoeld in [artikel 2.14h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.3&artikel=2.14h&z=2026-04-01&g=2026-04-01), kan de Dienst Toeslagen een incidentele noodvoorziening toekennen aan een ex-partner, aan wie de compensatie, bedoeld in artikel 2.14h, eerste lid, is toegekend en die zich in een acute financiële noodsituatie bevindt waardoor noodzakelijke uitgaven niet mogelijk zijn.
 
-#### Artikel 2.15a. Ondersteuning en vergoedingen voor een ex-partner van een gedupeerde aanvrager kinderopvangtoeslag en diens gezin woonachtig buiten Nederland
+##### Artikel 2.15a. Ondersteuning en vergoedingen voor een ex-partner van een gedupeerde aanvrager kinderopvangtoeslag en diens gezin woonachtig buiten Nederland
 
 1. Onze Minister kan ambtshalve brede ondersteuning in het buitenland aanbieden op de vijf leefgebieden financiën, gezin, werk, wonen en zorg aan een ex-partner die in aanmerking komt voor de compensatie, bedoeld in [artikel 2.14h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.3&artikel=2.14h&z=2026-04-01&g=2026-04-01), en aan wie deze is toegekend, ten behoeve van die ex-partner en diens partner, diens kind, pleegkind of voormalig pleegkind dat in aanmerking komt voor een tegemoetkoming als bedoeld in [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.12&z=2026-04-01&g=2026-04-01), en het thuiswonende kind of pleegkind van hemzelf of van diens partner, indien:
 
@@ -1338,7 +1365,7 @@ Indien de Dienst Toeslagen niet op korte termijn overgaat tot uitbetaling van co
 
 5. Onze Minister vergoedt of neemt voor zijn rekening de kosten, bedoeld in het derde lid, indien het plan van aanpak is vastgesteld binnen drie maanden nadat de wens tot remigratie kenbaar is gemaakt en indien de remigratie naar Nederland plaatsvindt uiterlijk een jaar nadat het plan van aanpak is vastgesteld.
 
-#### Artikel 2.15b. Ondersteuning en vergoedingen voor de partner en diens gezin of het kind van een overleden aanvrager kinderopvangtoeslag woonachtig buiten Nederland
+##### Artikel 2.15b. Ondersteuning en vergoedingen voor de partner en diens gezin of het kind van een overleden aanvrager kinderopvangtoeslag woonachtig buiten Nederland
 
 1. Onze Minister kan ambtshalve brede ondersteuning in het buitenland aanbieden:
 
@@ -1374,7 +1401,7 @@ Indien de Dienst Toeslagen niet op korte termijn overgaat tot uitbetaling van co
 
 ### Hoofdstuk 5. Commissies
 
-#### Artikel 6.1a. Aanvraagtermijn tegemoetkoming nabestaanden van overleden kind
+##### Artikel 6.1a. Aanvraagtermijn tegemoetkoming nabestaanden van overleden kind
 
 1. Een aanvraag als bedoeld in de [artikelen 2.14c](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2a&artikel=2.14c&z=2026-04-01&g=2026-04-01), [2.14d](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2a&artikel=2.14d&z=2026-04-01&g=2026-04-01) of [2.14e](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2a&artikel=2.14e&z=2026-04-01&g=2026-04-01), wordt ingediend:
 
@@ -1394,7 +1421,7 @@ Indien de Dienst Toeslagen niet op korte termijn overgaat tot uitbetaling van co
 
 - b. het overleden kind is overleden voorafgaand aan de datum van dagtekening van die beschikking.
 
-#### Artikel 6.1b. Aanvraagtermijn compensatie en tegemoetkomingen nabestaanden van overleden aanvrager kinderopvangtoeslag
+##### Artikel 6.1b. Aanvraagtermijn compensatie en tegemoetkomingen nabestaanden van overleden aanvrager kinderopvangtoeslag
 
 1. Een aanvraag als bedoeld in de [artikelen 2.9a, eerste lid, onderdelen a en b, of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1a&artikel=2.9a&z=2026-04-01&g=2026-04-01), of [2.9b, eerste lid, onderdelen a en b, of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1a&artikel=2.9b&z=2026-04-01&g=2026-04-01), wordt ingediend:
 
@@ -1412,7 +1439,7 @@ Indien de Dienst Toeslagen niet op korte termijn overgaat tot uitbetaling van co
 
 - 2°. de beschikking tot toekenning van een voorziening als bedoeld in onderdeel a onherroepelijk is geworden voor alle kinderen van de overleden aanvrager die tijdig een aanvraag tot toekenning daarvan hebben ingediend indien het een aanvraag betreft als bedoeld in [artikel 2.9b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1a&artikel=2.9b&z=2026-04-01&g=2026-04-01).
 
-#### Artikel 6.2bis. Beslistermijn bij beschikking op aanvraag nabestaanden van overleden kind
+##### Artikel 6.2bis. Beslistermijn bij beschikking op aanvraag nabestaanden van overleden kind
 
 1. Op een aanvraag als bedoeld in [artikel 2.14c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2a&artikel=2.14c&z=2026-04-01&g=2026-04-01), besluit de Dienst Toeslagen binnen een termijn van zes maanden na ontvangst van de aanvraag. Deze termijn kan eenmaal met maximaal zes maanden worden verlengd.
 
@@ -1432,7 +1459,7 @@ Indien de Dienst Toeslagen niet op korte termijn overgaat tot uitbetaling van co
 
 5. Op een aanvraag als bedoeld in de [artikelen 2.14d](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2a&artikel=2.14d&z=2026-04-01&g=2026-04-01) of [2.14e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2a&artikel=2.14e&z=2026-04-01&g=2026-04-01), besluit de Dienst Toeslagen binnen een termijn van zes maanden na het verstrijken van de op grond van [artikel 6.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=6&afdeling=6.1&artikel=6.1a&z=2026-04-01&g=2026-04-01) geldende aanvraagtermijnen. Deze termijn kan eenmaal met maximaal zes maanden worden verlengd.
 
-#### Artikel 6.2ter. Beslistermijn bij beschikking op aanvraag nabestaanden van overleden aanvrager kinderopvangtoeslag
+##### Artikel 6.2ter. Beslistermijn bij beschikking op aanvraag nabestaanden van overleden aanvrager kinderopvangtoeslag
 
 1. Op een aanvraag als bedoeld in [artikel 2.9a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1a&artikel=2.9a&z=2026-04-01&g=2026-04-01), besluit de Dienst Toeslagen binnen een termijn van zes maanden na ontvangst van de aanvraag. Deze termijn kan eenmaal met maximaal zes maanden worden verlengd.
 
@@ -1454,11 +1481,11 @@ Indien de Dienst Toeslagen niet op korte termijn overgaat tot uitbetaling van co
 
 10. Op een aanvraag als bedoeld in [artikel 2.9b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1a&artikel=2.9b&z=2026-04-01&g=2026-04-01), waarop de in [artikel 6.1b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=6&afdeling=6.1&artikel=6.1b&z=2026-04-01&g=2026-04-01), bedoelde aanvraagtermijn van toepassing is, besluit de Dienst Toeslagen binnen een termijn van zes maanden na ontvangst van de aanvraag, met dien verstande dat de beslistermijn niet eerder verstrijkt dan zes maanden nadat de beschikking tot toekenning van een voorziening als bedoeld in artikel 2.9b, eerste lid, onderdeel a, onder 1° of 2°, onherroepelijk is geworden voor alle kinderen van de overleden aanvrager die tijdig een aanvraag tot toekenning daarvan hebben ingediend. Deze termijn kan eenmaal met maximaal zes maanden worden verlengd.
 
-#### Artikel 6.2a. Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2024/400.
+##### Artikel 6.2a. Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2024/400.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 6.4a. Beslissing over tegemoetkoming kind, pleegkind of voormalig pleegkind van ex-partner van gedupeerde aanvrager kinderopvangtoeslag
+##### Artikel 6.4a. Beslissing over tegemoetkoming kind, pleegkind of voormalig pleegkind van ex-partner van gedupeerde aanvrager kinderopvangtoeslag
 
 Een beschikking tot toekenning van een tegemoetkoming aan een kind als bedoeld in [artikel 2.11a](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.11a&z=2026-04-01&g=2026-04-01), een pleegkind als bedoeld in [artikel 2.11b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.11b&z=2026-04-01&g=2026-04-01), of een voormalig pleegkind als bedoeld in artikel 2.11b, tweede lid, wordt door de Dienst Toeslagen gegeven na de dagtekening van de beschikking waarin door de Dienst Toeslagen het recht op compensatie, bedoeld in [artikel 2.14h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.3&artikel=2.14h&z=2026-04-01&g=2026-04-01), is vastgesteld.
 
@@ -1474,7 +1501,7 @@ Een beschikking tot toekenning van een tegemoetkoming aan een kind als bedoeld i
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 2.9a. Compensatie of tegemoetkoming, kwijtschelding bestuursrechtelijke schulden en overneming en betaling privaatrechtelijke schulden van gedupeerde aanvrager kinderopvangtoeslag voor partner van overleden aanvrager
+##### Artikel 2.9a. Compensatie of tegemoetkoming, kwijtschelding bestuursrechtelijke schulden en overneming en betaling privaatrechtelijke schulden van gedupeerde aanvrager kinderopvangtoeslag voor partner van overleden aanvrager
 
 1. Aan degene die partner was van een overleden aanvrager op de dag van overlijden wordt een of meer van de onderstaande voorzieningen toegekend:
 
@@ -1496,7 +1523,7 @@ overeenkomstige toepassing van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c
 
 3. Het eerste en tweede lid zijn niet van toepassing indien degene die partner was van de overleden aanvrager op de dag van overlijden, dit niet meer was op de eerste dag van de maand die volgt op de dag van overlijden van de aanvrager als gevolg van een omstandigheid anders dan het overlijden van de aanvrager.
 
-#### Artikel 2.9b. Compensatie of tegemoetkoming, kwijtschelding bestuursrechtelijke schulden en overneming en betaling privaatrechtelijke schulden van gedupeerde aanvrager kinderopvangtoeslag voor kind van overleden aanvrager
+##### Artikel 2.9b. Compensatie of tegemoetkoming, kwijtschelding bestuursrechtelijke schulden en overneming en betaling privaatrechtelijke schulden van gedupeerde aanvrager kinderopvangtoeslag voor kind van overleden aanvrager
 
 1. Indien een overleden aanvrager geen partner had op de dag van overlijden, indien degene die partner was van een overleden aanvrager op de dag waarop laatstgenoemde is overleden, is overleden voor de dag van inwerkingtreding van [artikel 2.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1a&artikel=2.9a&z=2026-04-01&g=2026-04-01), of indien de situatie, bedoeld in artikel 2.9a, derde lid, zich voordoet, worden aan het kind van de overleden aanvrager een of meer van de onderstaande voorzieningen toegekend:
 
@@ -1540,27 +1567,27 @@ overeenkomstige toepassing van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c
 
 ### Afdeling 2.2a. Tegemoetkoming nabestaanden van overleden kind
 
-#### Artikel 2.14b. Begripsbepaling overleden kind
+##### Artikel 2.14b. Begripsbepaling overleden kind
 
 Vervallen
 
-#### Artikel 2.14c. Tegemoetkoming voor partner van overleden kind
+##### Artikel 2.14c. Tegemoetkoming voor partner van overleden kind
 
 1. De Dienst Toeslagen kent aan degene die partner was van het overleden kind op de dag van overlijden, op aanvraag een tegemoetkoming toe.
 
 2. Het eerste lid is niet van toepassing indien degene die partner was van het overleden kind op de dag van overlijden, dit niet meer was op de eerste dag van de maand die volgt op de dag van overlijden van het kind, als gevolg van een omstandigheid anders dan het overlijden van het kind.
 
-#### Artikel 2.14d. Tegemoetkoming voor kind van overleden kind
+##### Artikel 2.14d. Tegemoetkoming voor kind van overleden kind
 
 Indien het overleden kind geen partner had op de dag van overlijden of indien de situatie, bedoeld in [artikel 2.14c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2a&artikel=2.14c&z=2026-04-01&g=2026-04-01), zich voordoet, kent de Dienst Toeslagen aan het kind van een overleden kind op aanvraag een tegemoetkoming toe.
 
-#### Artikel 2.14e. Tegemoetkoming voor ouder van overleden kind
+##### Artikel 2.14e. Tegemoetkoming voor ouder van overleden kind
 
 1. Indien het overleden kind geen partner of kind had op de dag van overlijden of indien de situatie, bedoeld in [artikel 2.14c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2a&artikel=2.14c&z=2026-04-01&g=2026-04-01), zich voordoet, kent de Dienst Toeslagen aan de ouder van een overleden kind op aanvraag een tegemoetkoming toe.
 
 2. Als ouder wordt aangemerkt de persoon van wie het overleden kind op de dag van overlijden kind was in de zin van [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=1&artikel=1.1&z=2026-04-01&g=2026-04-01).
 
-#### Artikel 2.14f. Hoogte tegemoetkoming overleden kind
+##### Artikel 2.14f. Hoogte tegemoetkoming overleden kind
 
 1. De tegemoetkoming, bedoeld in [artikel 2.14c](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2a&artikel=2.14c&z=2026-04-01&g=2026-04-01), [artikel 2.14d](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2a&artikel=2.14d&z=2026-04-01&g=2026-04-01) of [artikel 2.14e](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2a&artikel=2.14e&z=2026-04-01&g=2026-04-01), is gelijk aan het bedrag dat ingevolge [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.12&z=2026-04-01&g=2026-04-01) bij leven aan het overleden kind zou zijn toegekend, met dien verstande dat bij de vaststelling van dat bedrag wordt uitgegaan van de leeftijd van het overleden kind op 1 juli 2023, dan wel op de dag van overlijden indien deze dag ligt voor 1 juli 2023.
 
@@ -1576,7 +1603,7 @@ Indien het overleden kind geen partner had op de dag van overlijden of indien de
 
 ### Hoofdstuk 4A. Persoonlijke bijstand bij afhandeling herstel voor nabestaanden van een overleden aanvrager
 
-#### Artikel 4a.1. Begripsbepalingen Hoofdstuk 4a
+##### Artikel 4a.1. Begripsbepalingen Hoofdstuk 4a
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -1588,13 +1615,13 @@ In dit hoofdstuk wordt verstaan onder:
 
 - **persoonlijke bijstand:** bijstand door de Dienst Toeslagen bij aanvragen en regelingen waar de betrokkene op grond van deze wet aanspraak kan maken.
 
-#### Artikel 4a.2. Persoonlijke bijstand en persoonlijk zaakbehandelaar regeling nabestaanden overleden aanvragers
+##### Artikel 4a.2. Persoonlijke bijstand en persoonlijk zaakbehandelaar regeling nabestaanden overleden aanvragers
 
 1. De betrokkene krijgt persoonlijke bijstand.
 
 2. Tijdens de persoonlijke bijstand coördineert een persoonlijk zaakbehandelaar regeling nabestaanden overleden aanvragers van de Dienst Toeslagen de procedure en fungeert voor de betrokkene tevens als aanspreekpunt.
 
-#### Artikel 4a.3. Persoonlijk gesprek
+##### Artikel 4a.3. Persoonlijk gesprek
 
 1. In het kader van de persoonlijke bijstand vinden tussen de betrokkene en de Dienst Toeslagen een of meerdere persoonlijke gesprekken plaats, waarbij de persoonlijk zaakbehandelaar regeling nabestaanden overleden aanvragers eveneens aanwezig is.
 
@@ -1610,15 +1637,15 @@ In dit hoofdstuk wordt verstaan onder:
 
 - e. het ondersteunen bij het doen van een aanvraag op grond van de [artikelen 2.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1a&artikel=2.9a&z=2026-04-01&g=2026-04-01) of [2.9b](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1a&artikel=2.9b&z=2026-04-01&g=2026-04-01).
 
-#### Artikel 4a.4. Zorgplicht persoonlijke bijstand
+##### Artikel 4a.4. Zorgplicht persoonlijke bijstand
 
 De Dienst Toeslagen draagt zorg voor een goede afhandeling van de persoonlijke bijstand en zorgt dat hierover afstemming plaatsvindt met andere personen of organen, voor zover de verantwoordelijkheid voor de uitvoering hiervan bij die personen of organen ligt en voor zover afstemming het belang van de betrokkene dient.
 
-#### Artikel 4a.5. Mandaat Dienst Toeslagen
+##### Artikel 4a.5. Mandaat Dienst Toeslagen
 
 Onze Minister verleent mandaat aan de Dienst Toeslagen om een beschikking als bedoeld in [artikelen 2.9a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1a&artikel=2.9a&z=2026-04-01&g=2026-04-01), of [2.9b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.1a&artikel=2.9b&z=2026-04-01&g=2026-04-01), te nemen, indien de betrokkene een verzoek als bedoeld in [artikel 4a.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=4A&artikel=4a.2&z=2026-04-01&g=2026-04-01), heeft gedaan dat ook betrekking heeft op een dergelijke beschikking.
 
-#### Artikel 4a.6. Samenvoegen beschikkingen
+##### Artikel 4a.6. Samenvoegen beschikkingen
 
 Dit onderdeel is nog niet inwerking getreden
 
@@ -1658,13 +1685,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 5.3. Mogelijkheid instellen commissies met betrekking tot de overige aanvullende regelingen
+##### Artikel 5.3. Mogelijkheid instellen commissies met betrekking tot de overige aanvullende regelingen
 
 1. Bij ministeriële regeling kan Onze Minister commissies instellen met het oog op de uitvoering van de [artikelen 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.2&artikel=2.14&z=2026-04-01&g=2026-04-01) en [2.14g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.3&artikel=2.14g&z=2026-04-01&g=2026-04-01), die adviseren met betrekking tot de toets of sprake is van een overleden aanvrager.
 
 2. [Artikel 5.2, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=5&artikel=5.2&z=2026-04-01&g=2026-04-01), is van overeenkomstige toepassing met betrekking tot de commissies die zijn ingesteld op grond van dit artikel en de daarmee samenhangende bevoegdheden en verplichtingen van de Dienst Toeslagen.
 
-#### Artikel 6.10aa. Aanvang beslistermijn op bezwaar
+##### Artikel 6.10aa. Aanvang beslistermijn op bezwaar
 
 In afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10) vangt de beslistermijn op een bezwaar gericht tegen een beschikking van de Dienst Toeslagen op grond van deze wet aan op de dag na ontvangst van het bezwaarschrift, met dien verstande dat de beslistermijn niet eerder aanvangt dan zes weken nadat de termijn voor het indienen van een bezwaarschrift is aangevangen.
 
@@ -1676,11 +1703,11 @@ In afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](h
 
 ### Afdeling 8.1. Wijziging van enige wetten
 
-#### Artikel 8.9. Overgangsrecht verlenging bezwaartermijn en aanvang beslistermijn op bezwaar
+##### Artikel 8.9. Overgangsrecht verlenging bezwaartermijn en aanvang beslistermijn op bezwaar
 
 De [artikelen 6.10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=6&afdeling=6.1&artikel=6.10a&z=2026-04-01&g=2026-04-01), en [6.10aa](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=6&afdeling=6.1&artikel=6.10aa&z=2026-04-01&g=2026-04-01) zijn niet van toepassing ter zake van een beschikking die is gegeven voor de dag van inwerkingtreding van [artikel I, onderdeel Y](https://wetten.overheid.nl/jci1.3:c:BWBR0050567&artikel=I), onderscheidenlijk artikel I, onderdeel Z, van de Wet aanpassing termijnen en nabestaandenregeling hersteloperatie toeslagen en een bezwaar gericht tegen die beschikking.
 
-#### Artikel 8.10. Overgangsrecht introductie termijnen voor verlenen van brede ondersteuning door gemeenten
+##### Artikel 8.10. Overgangsrecht introductie termijnen voor verlenen van brede ondersteuning door gemeenten
 
 1. Indien voor de datum van inwerkingtreding van [artikel I, onderdeel Ga, van de Wet aanpassing termijnen en nabestaandenregeling hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0050567&artikel=I) het eerste gesprek waarin de hulpvraag voor brede ondersteuning is vastgesteld tussen een persoon als bedoeld in [artikel 2.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.7&artikel=2.21&z=2026-04-01&g=2026-04-01), en het college van burgemeester en wethouders heeft plaatsgevonden, maar nog geen plan van aanpak is opgesteld, geldt, in afwijking van artikel 2.21, vierde lid, tweede zin, lid 4a en lid 4b, dat:
 
@@ -1714,7 +1741,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 6.1c. Uiterste aanvraagdatum tegemoetkoming voor gedupeerde aanvragers huurtoeslag, zorgtoeslag of kindgebonden budget
+##### Artikel 6.1c. Uiterste aanvraagdatum tegemoetkoming voor gedupeerde aanvragers huurtoeslag, zorgtoeslag of kindgebonden budget
 
 Een aanvraag voor een tegemoetkoming als bedoeld in de [artikelen 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.5&artikel=2.16&z=2026-04-01&g=2026-04-01) of [2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&hoofdstuk=2&afdeling=2.5&artikel=2.17&z=2026-04-01&g=2026-04-01) wordt uiterlijk 12 februari 2026 ingediend.
 

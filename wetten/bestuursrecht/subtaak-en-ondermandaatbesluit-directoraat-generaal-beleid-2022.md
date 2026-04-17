@@ -1,20 +1,46 @@
 ---
-title: "subtaak- en ondermandaatbesluit Directoraat-Generaal Beleid 2022"
+title: "Subtaak- en ondermandaatbesluit Directoraat-Generaal Beleid 2022"
 identifier: "BWBR0046559"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-04-14
-laatste_update: 2022-04-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046559"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-04-14"
+last_updated: "2022-04-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046559"
+soort: "ministeriele-regeling"
+stam_id: "16327653"
+version_id: "28544242"
+internal_id: "C40276851"
+label_id: "16252634"
+dtd_version: "2.0"
+original_entry_into_force: "2022-04-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046559/2022-04-14/0"
+intitule_bron: "Stcrt.2022-9868"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-03-16"
+intitule_published: "2022-04-13"
+intitule_in_force: "2022-04-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-9868"
+original_signed_date: "2022-03-16"
+original_published_date: "2022-04-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-9868"
+entry_into_force_date: "2022-04-14"
+jci_1_3: "jci1.3:c:BWBR0046559&z=2022-04-14&g=2022-04-14"
+jci_1_0: "1.0:c:BWBR0046559&g=2022-04-14"
+citeertitel_status: "officieel"
+short_title: "subtaak- en ondermandaatbesluit Directoraat-Generaal Beleid 2022"
+signed_date: "2022-03-16"
+entry_into_force: "2022-04-14"
 ---
-
 # Subtaak- en ondermandaatbesluit Directoraat-Generaal Beleid 2022
 
 Gelet op [artikel 26 van het Algemeen organisatiebesluit Defensie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044746&artikel=26) en [artikel 3 van het Ondermandaat-, volmacht- en machtigingsbesluit SG Defensie 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046552&artikel=3)
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 - e. **directeuren:** de directeur Strategie en Kennis, de directeur Operationeel Beleid en Plannen, de directeur Bedrijfsvoering en Evaluatie, de hoofddirecteur Personeel, de directeur Materieel, Vastgoed en Duurzaamheid, de chief Information Officer, de directeur Internationale Aangelegenheden, de directeur Veiligheid en de chef Kabinet DGB.
 
-#### Artikel 2. Organisatie van het Directoraat-Generaal Beleid (DGB)
+##### Artikel 2. Organisatie van het Directoraat-Generaal Beleid (DGB)
 
 1. Het Directoraat-Generaal Beleid, genoemd in [artikel 4 van het Algemeen organisatiebesluit Defensie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044746&artikel=4), bestaat uit:
 
@@ -52,7 +78,7 @@ In dit besluit wordt verstaan onder:
 
 2. Het organogram van het Directoraat-Generaal Beleid is opgenomen in de bijlage bij dit besluit.
 
-#### Artikel 3. De Directie Strategie en Kennis (DSK)
+##### Artikel 3. De Directie Strategie en Kennis (DSK)
 
 De Directie Strategie en Kennis staat onder leiding van de directeur Strategie en Kennis. Deze is belast met de volgende taken:
 
@@ -76,7 +102,7 @@ De Directie Strategie en Kennis staat onder leiding van de directeur Strategie e
 
 - 7. Zorgdragen voor goede strategie- en beleidsinbedding van de dossiers nationale veiligheid, civiel-militaire samenwerking, informatiegestuurd optreden (IGO) en het cyber- en informatiedomein, inclusief inlichtingen.
 
-#### Artikel 4. De Directie Operationeel Beleid en Plannen (DOBP)
+##### Artikel 4. De Directie Operationeel Beleid en Plannen (DOBP)
 
 De Directie Operationeel Beleid en Plannen staat onder leiding van de directeur Operationeel Beleid en Plannen. Deze is belast met de volgende taken:
 
@@ -92,7 +118,7 @@ De Directie Operationeel Beleid en Plannen staat onder leiding van de directeur 
 
 - 6. het optreden als plaatsvervangend DGB.
 
-#### Artikel 5. De Directie Bedrijfsvoering en Evaluatie (DBE)
+##### Artikel 5. De Directie Bedrijfsvoering en Evaluatie (DBE)
 
 De Directie Bedrijfsvoering en Evaluatie staat onder leiding van de directeur Bedrijfsvoering en Evaluatie. Deze is belast met de volgende taken:
 
@@ -112,7 +138,7 @@ De Directie Bedrijfsvoering en Evaluatie staat onder leiding van de directeur Be
 
 - 8. het in opdracht (van de SG of DGB) voeren van complexe bedrijfsvoeringsprogramma’s of -projecten.
 
-#### Artikel 6. De Hoofddirectie Personeel (HDP)
+##### Artikel 6. De Hoofddirectie Personeel (HDP)
 
 Met inachtneming van [artikel 4, tweede lid, van het Algemeen organisatiebesluit Defensie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044746&artikel=4) staat de Hoofddirectie Personeel onder leiding van de hoofddirecteur Personeel. Deze is belast met de volgende taken:
 
@@ -128,7 +154,7 @@ Met inachtneming van [artikel 4, tweede lid, van het Algemeen organisatiebesluit
 
 - 6. het neerleggen van de ambtelijke rechtspositie en defensiespecifieke afspraken daarover in de op Defensie van toepassing zijnde wet- en regelgeving.
 
-#### Artikel 7. De Directie Materieel, Vastgoed en Duurzaamheid (DMVD)
+##### Artikel 7. De Directie Materieel, Vastgoed en Duurzaamheid (DMVD)
 
 De Directie Materieel, Vastgoed en Duurzaamheid staat onder leiding van de directeur Materieel, Vastgoed en Duurzaamheid. Deze is belast met de volgende taken:
 
@@ -136,11 +162,11 @@ De Directie Materieel, Vastgoed en Duurzaamheid staat onder leiding van de direc
 
 - 2. het ontwikkelen, onderhouden en coördineren van geïntegreerd, integraal en uitvoerbaar beleid en visie op de gebieden van materieel, vastgoed en duurzaamheid in brede zin waaronder onderwerpen zoals industriebeleid, DMP, (keten- en systeem)logistiek, ruimtelijke ordening, luchtruim, facilitair management, omgevingsvraagstukken, klimaatdoelen, circulaire economie en energieopgaven.
 
-#### Artikel 8. De Chief Information Office (CIO)
+##### Artikel 8. De Chief Information Office (CIO)
 
 De Chief Information Office staat onder leiding van de chief Information Officer. Deze is belast met de taken en verantwoordelijkheden die zijn genoemd in [artikel 8 van het Algemeen organisatiebesluit Defensie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044746&artikel=8).
 
-#### Artikel 9. De Directie Internationale Aangelegenheden (DIA)
+##### Artikel 9. De Directie Internationale Aangelegenheden (DIA)
 
 De Directie Internationale Aangelegenheden staat onder leiding van de directeur Internationale Aangelegenheden. Deze is belast met de volgende taken:
 
@@ -150,7 +176,7 @@ De Directie Internationale Aangelegenheden staat onder leiding van de directeur 
 
 - 3. het ontwikkelen, onderhouden en coördineren van geïntegreerd, integraal en uitvoerbaar beleid en visie op het gebied van (inter)nationale inzet en taken, inclusief het Caribisch gebied, Koninkrijksrelaties, cyber, hybride dreigingen, en de KMar.
 
-#### Artikel 10. De Directie Veiligheid (DV)
+##### Artikel 10. De Directie Veiligheid (DV)
 
 De Directie Veiligheid staat onder leiding van de directeur Veiligheid. Deze is belast met de volgende taken:
 
@@ -168,7 +194,7 @@ De Directie Veiligheid staat onder leiding van de directeur Veiligheid. Deze is 
 
 - 7. het vervullen van de rol van **Concern Safety Policy Officer**.
 
-#### Artikel 11. Het Kabinet DGB
+##### Artikel 11. Het Kabinet DGB
 
 Het Kabinet DGB staat onder leiding van de chef Kabinet. Deze is belast met de volgende taken:
 
@@ -186,7 +212,7 @@ Het Kabinet DGB staat onder leiding van de chef Kabinet. Deze is belast met de v
 
 - 7. het fungeren als DGB-aanspreekpunt voor interne, departementale en interdepartementale functionarissen.
 
-#### Artikel 12. Algemene taken en verantwoordelijkheden
+##### Artikel 12. Algemene taken en verantwoordelijkheden
 
 De directeuren zijn, binnen hun aandachtsgebied, verantwoordelijk voor:
 
@@ -208,7 +234,7 @@ De directeuren zijn, binnen hun aandachtsgebied, verantwoordelijk voor:
 
 - f. het functioneel sturen door interne regelgeving en kaderstelling.
 
-#### Artikel 13. Ondermandaat, volmacht en machtiging
+##### Artikel 13. Ondermandaat, volmacht en machtiging
 
 1. Aan de directeuren, dan wel bij hun afwezigheid de respectievelijke plaatsvervangers, worden mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge de [artikelen 3 tot en met 12 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046559&artikel=3&z=2022-04-14&g=2022-04-14) tot hun werkterrein behoren.
 
@@ -224,7 +250,7 @@ voor deze,
 
 **<< functie, handtekening en naam van de ondertekenaar >>**
 
-#### Artikel 14. Intrekking
+##### Artikel 14. Intrekking
 
 Ingetrokken worden:
 
@@ -234,11 +260,11 @@ Ingetrokken worden:
 
 - −. het Ondermandaat, -volmacht en -machtigingsbesluit HDP 2005 d.d. 1 januari 2005 (ongenummerd)
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: subtaak- en ondermandaatbesluit Directoraat-Generaal Beleid 2022.
 
-#### Artikel 16. Inwerkingtreding
+##### Artikel 16. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2022.
 

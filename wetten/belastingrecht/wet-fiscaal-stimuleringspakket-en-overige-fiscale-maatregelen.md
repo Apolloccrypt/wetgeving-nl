@@ -1,84 +1,112 @@
 ---
-title: "Wet Fiscaal stimuleringspakket en overige fiscale maatregelen"
+title: "Wet van 1 juli 2009, houdende Fiscaal stimuleringspakket en overige fiscale maatregelen"
 identifier: "BWBR0026049"
-categorie: "Belastingrecht"
-publicatiedatum: 2010-01-01
-laatste_update: 2010-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026049"
+country: "nl"
+rank: "wet"
+publication_date: "2010-01-01"
+last_updated: "2010-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026049"
+soort: "wet"
+stam_id: "10109033"
+version_id: "16521682"
+internal_id: "C22727311"
+label_id: "10085464"
+dtd_version: "2.0"
+original_entry_into_force: "2009-07-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026049/2010-01-01/0"
+intitule_bron: "Stb.2009-280"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-07-01"
+intitule_published: "2009-07-01"
+intitule_in_force: "2009-07-01"
+intitule_status: "goed"
+original_publication: "Stb.2009-280"
+original_signed_date: "2009-07-01"
+original_published_date: "2009-07-01"
+original_effect: "nieuwe-regeling"
+original_dossier: "31301"
+original_url_id: "stb-2009-280"
+entry_into_force_date: "2009-07-02"
+entry_into_force_dossier: "31301"
+jci_1_3: "jci1.3:c:BWBR0026049&z=2010-01-01&g=2010-01-01"
+jci_1_0: "1.0:c:BWBR0026049&g=2010-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wet Fiscaal stimuleringspakket en overige fiscale maatregelen"
+signed_date: "2009-07-01"
+entry_into_force: "2009-07-02"
 ---
+# Wet van 1 juli 2009, houdende Fiscaal stimuleringspakket en overige fiscale maatregelen
 
-# Wet Fiscaal stimuleringspakket en overige fiscale maatregelen
-
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Invorderingswet 1990.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel II
+##### Artikel II
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Comptabiliteitswet 2001.
 
-#### Artikel VIII
+##### Artikel VIII
 
 [Artikel 81a van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=81a) vindt geen toepassing bij het begin van het kalenderjaar 2009 op de bedragen, genoemd in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23) en [25 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=25).
 
-#### Artikel IX
+##### Artikel IX
 
 [Artikel XXVII van het Belastingplan 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XXVII) vindt geen toepassing bij het begin van het kalenderjaar 2008 op de bedragen, genoemd in de [artikelen XV](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XV), [XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XVI) en [XVII van het Belastingplan 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023144&artikel=XVII).
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel XV
+##### Artikel XV
 
 1. De [artikelen 67d](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67d), [67e](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67e) en [69 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=69) zoals deze luidden op de dag vóór de datum van inwerkingtreding van deze wet, blijven van toepassing op vergrijpen onderscheidenlijk strafbare feiten die zijn begaan vóór de datum van inwerkingtreding van deze wet.
 
 2. Met betrekking tot aangiften die vóór 1 januari 2010 zijn gedaan of hadden moeten zijn gedaan, blijft [artikel 67n van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67n), zoals dit luidde op 30 juni 2009, van toepassing tot 1 januari 2010.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Wet op de omzetbelasting 1968.
 
-#### Artikel XVII
+##### Artikel XVII
 
 1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met dien verstande dat:
 

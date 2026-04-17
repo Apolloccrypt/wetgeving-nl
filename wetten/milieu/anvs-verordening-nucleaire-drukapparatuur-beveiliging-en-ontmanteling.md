@@ -1,13 +1,39 @@
 ---
-title: "ANVS-Verordening nucleaire drukapparatuur, beveiliging en ontmanteling"
+title: "Verordening van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming van 20 november 2024 nr. ANVS-2024/9570, houdende nadere regels met betrekking tot nucleaire veiligheid, beveiliging en ontmanteling (ANVS-Verordening nucleaire drukapparatuur, beveiliging en ontmanteling)"
 identifier: "BWBR0050489"
-categorie: "Milieu"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050489"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050489"
+soort: "zbo"
+stam_id: "17290993"
+version_id: "30453582"
+internal_id: "C43666501"
+label_id: "17195394"
+dtd_version: "2.0"
+original_entry_into_force: "2024-12-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050489/2025-01-01/0"
+intitule_bron: "Stcrt.2024-37799"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-20"
+intitule_published: "2024-12-02"
+intitule_in_force: "2024-12-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-37799"
+original_signed_date: "2024-11-20"
+original_published_date: "2024-12-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-37799"
+entry_into_force_date: "2024-12-02"
+jci_1_3: "jci1.3:c:BWBR0050489&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050489&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "ANVS-Verordening nucleaire drukapparatuur, beveiliging en ontmanteling"
+signed_date: "2024-11-20"
+entry_into_force: "2024-12-02"
 ---
-
 # Verordening van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming van 20 november 2024 nr. ANVS-2024/9570, houdende nadere regels met betrekking tot nucleaire veiligheid, beveiliging en ontmanteling (ANVS-Verordening nucleaire drukapparatuur, beveiliging en ontmanteling)
 
 Gelet op het op 3 maart 1980 te Wenen/New York tot stand gekomen Verdrag inzake de fysieke beveiliging van kernmateriaal (Trb. 1981, 7), zoals gewijzigd bij het op 8 juli 2005 te Wenen tot stand gekomen Verdrag tot wijziging van het voornoemde verdrag (Trb. 2006, 81);
@@ -28,7 +54,7 @@ Besluit:
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 5.1. (inwerkingtreding)
+##### Artikel 5.1. (inwerkingtreding)
 
 1. De [hoofdstukken 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050489&hoofdstuk=1&z=2025-01-01&g=2025-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0050489&hoofdstuk=2&z=2025-01-01&g=2025-01-01) van deze verordening treden in werking op het tijdstip waarop artikel I, onderdelen E en F, van het Besluit van 2 september 2024 tot wijziging van het Besluit kerninstallaties, splijtstoffen en ertsen, het Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen, het Besluit basisveiligheidsnormen stralingsbescherming en het Besluit in- uit en doorvoer van radioactieve afvalstoffen en bestraalde splijtstoffen in verband met de herschikking en verbetering van delegatiegrondslagen en herstel van enkele onvolkomenheden (Wijzigingsbesluit algemene maatregelen van bestuur Kernenergiewet 2024) (Stb. 2024, 265) in werking treedt.
 
@@ -38,7 +64,7 @@ Besluit:
 
 4. Indien de Staatscourant waarin deze verordening wordt geplaatst, wordt uitgegeven na het tijdstip bedoeld in het eerste, respectievelijk het tweede of het derde lid, treedt zij, voor het desbetreffende hoofdstuk, in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met het tijdstip, bedoeld in respectievelijk het eerste, tweede en derde lid.
 
-#### Artikel 5.2. (citeertitel)
+##### Artikel 5.2. (citeertitel)
 
 Deze verordening wordt aangehaald als: ANVS-Verordening nucleaire drukapparatuur, beveiliging en ontmanteling.
 
@@ -130,7 +156,7 @@ Deze verordening zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 1. Begripsomschrijvingen
 
-#### Artikel 1.1. (begripsomschrijvingen)
+##### Artikel 1.1. (begripsomschrijvingen)
 
 In deze verordening wordt verstaan onder:
 
@@ -154,15 +180,15 @@ In deze verordening wordt verstaan onder:
 
 #### § 2. Keuringen en beoordelingen
 
-#### Artikel 2.1. (toepasselijkheid op andere drukapparatuur)
+##### Artikel 2.1. (toepasselijkheid op andere drukapparatuur)
 
 De artikelen van dit hoofdstuk, met uitzondering van [artikel 2.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050489&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2025-01-01&g=2025-01-01), zijn van overeenkomstige toepassing op door de Minister aangewezen, niet speciaal voor nucleair gebruik in een inrichting ontworpen, drukapparatuur die bij defecten de verspreiding van radioactiviteit kan veroorzaken.
 
-#### Artikel 2.2. (voorschriften voor nucleaire drukapparatuur)
+##### Artikel 2.2. (voorschriften voor nucleaire drukapparatuur)
 
 De vergunninghouder [artikel 15, onder b, Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) zorgt ervoor dat de nucleaire drukapparatuur voldoet aan de door de Autoriteit aangewezen onderdelen van de ontwerpcode of inspectiecode voor de betrokken nucleaire drukapparatuur.
 
-#### Artikel 2.3. (administratie nucleaire drukapparatuur vergunninghouder)
+##### Artikel 2.3. (administratie nucleaire drukapparatuur vergunninghouder)
 
 1. Bij de administratie met betrekking tot nucleaire drukapparatuur, bedoeld in [artikel 21, zevende lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=21), worden vermeld of opgenomen:
 
@@ -184,7 +210,7 @@ De vergunninghouder [artikel 15, onder b, Kernenergiewet](https://wetten.overhei
 
 3. De vergunninghouder [artikel 15, onder b, Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) stelt de in de administratie opgenomen gegevens en stukken gedurende iedere keuring van de nucleaire drukapparatuur ter beschikking van degene die de keuring verricht.
 
-#### Artikel 2.4. (aanvraag beoordeling of keuring)
+##### Artikel 2.4. (aanvraag beoordeling of keuring)
 
 1. De vergunninghouder [artikel 15, onder b, Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) vermeldt in de aanvraag om een beoordeling of keuring als bedoeld in [artikel 21, vierde lid, onderdeel a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=21):
 
@@ -200,19 +226,19 @@ De vergunninghouder [artikel 15, onder b, Kernenergiewet](https://wetten.overhei
 
 2. De vergunninghouder [artikel 15, onder b, Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) vermeldt in de aanvraag om een keuring als bedoeld [artikel 21, vierde lid, onder b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=21) de in het eerste lid bedoelde gegevens.
 
-#### Artikel 2.5. (referentie beoordeling of keuring)
+##### Artikel 2.5. (referentie beoordeling of keuring)
 
 De beoordelingen en keuringen worden verricht overeenkomstig de door de Autoriteit aangewezen onderdelen van de ontwerpcode of inspectiecode voor de betrokken nucleaire drukapparatuur.
 
-#### Artikel 2.6. (kosten beoordelingen en keuringen)
+##### Artikel 2.6. (kosten beoordelingen en keuringen)
 
 De kosten van beoordelingen als bedoeld in [artikel 21, vierde lid, onder a, onder 1°, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=21) en [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050489&hoofdstuk=2&paragraaf=2&artikel=2.4&z=2025-01-01&g=2025-01-01), en van de keuringen komen voor rekening van de gebruiker van de nucleaire drukapparatuur.
 
-#### Artikel 2.7. (keuringsrapport)
+##### Artikel 2.7. (keuringsrapport)
 
 De keuringsinstelling maakt van elke beoordeling en keuring een rapport op, waarin zij de wijze waarop de nucleaire drukapparatuur is beoordeeld, onderscheidenlijk gekeurd, en de resultaten van de beoordeling of de keuring vermeldt. Zij zendt het rapport aan de vergunninghouder [artikel 15, onder b, Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) en aan de Autoriteit.
 
-#### Artikel 2.8. (verklaring van goedkeuring en andere verklaringen)
+##### Artikel 2.8. (verklaring van goedkeuring en andere verklaringen)
 
 1. De keuringsinstelling geeft een verklaring van goedkeuring van het ontwerp af, indien bij een beoordeling als bedoeld in [artikel 21, vierde lid, onder a, onder 1°, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=21) is gebleken dat het ontwerp van de nucleaire drukapparatuur voldoet aan de in de betrokken ontwerpcode gestelde eisen.
 
@@ -222,13 +248,13 @@ De keuringsinstelling maakt van elke beoordeling en keuring een rapport op, waar
 
 4. De keuringsinstelling geeft een verklaring van herkeuring af, indien bij een keuring als bedoeld in [artikel 21, vierde lid, onder b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=21) is gebleken dat de nucleaire drukapparatuur voldoet aan de in de betrokken inspectiecode gestelde eisen.
 
-#### Artikel 2.9. (verrichten beoordelingen en keuringen)
+##### Artikel 2.9. (verrichten beoordelingen en keuringen)
 
 De beoordelingen en keuringen worden verricht door of onder toezicht van de in de [artikelen 2.13 tot en met 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0050489&hoofdstuk=2&paragraaf=3&artikel=2.13&z=2025-01-01&g=2025-01-01) bedoelde medewerkers van de keuringsinstelling.
 
 #### § 3. Keuringsinstellingen
 
-#### Artikel 2.10. (aanwijzing als keuringsinstelling)
+##### Artikel 2.10. (aanwijzing als keuringsinstelling)
 
 1. Voor een aanwijzing als keuringsinstelling van het ontwerp, de fabricage en de ingebruikneming van nucleaire drukapparatuur komen in aanmerking NL-conformiteitsbeoordelingsinstanties als bedoeld in [artikel 28 van het Warenwetbesluit drukapparatuur 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=28) die ten minste voldoen aan de voorwaarden, bedoeld in [artikel 2.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050489&hoofdstuk=2&paragraaf=3&artikel=2.12&z=2025-01-01&g=2025-01-01).
 
@@ -236,7 +262,7 @@ De beoordelingen en keuringen worden verricht door of onder toezicht van de in d
 
 3. Voor een aanwijzing als keuringsinstelling komen tevens in aanmerking instellingen in een andere lidstaat van de Europese Unie, een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt dan wel een andere staat waarmee de Europese Unie een wederzijdse erkenningsovereenkomst met betrekking tot de keuring van nucleaire drukapparatuur heeft afgesloten, die een beroepsniveau waarborgen dat ten minste gelijkwaardig is aan het niveau dat met de nationale voorwaarden, bedoeld in het eerste, onderscheidenlijk het tweede lid, wordt nagestreefd.
 
-#### Artikel 2.11. (duur aanwijzing, voorschriften, intrekken aanwijzing)
+##### Artikel 2.11. (duur aanwijzing, voorschriften, intrekken aanwijzing)
 
 1. De aanwijzing van een keuringsinstelling geldt voor ten hoogste vijf jaar.
 
@@ -246,13 +272,13 @@ De beoordelingen en keuringen worden verricht door of onder toezicht van de in d
 
 4. Een keuringsinstelling hanteert een stelsel van regels, procedures en beheersaspecten voor het uitvoeren van de beoordeling of onderdelen daarvan voor nucleaire drukapparatuur waarvoor dezelfde specifieke eisen van toepassing zijn.
 
-#### Artikel 2.12. (deskundige medewerkers)
+##### Artikel 2.12. (deskundige medewerkers)
 
 1. Een keuringsinstelling, die wordt belast met de beoordeling van het ontwerp, de keuring van de fabricage en de keuring voor de ingebruikneming van nucleaire drukapparatuur, heeft ten minste een beoordelaar, een seniorbeoordelaar, een specialist materiaalkunde, een specialist niet-destructief onderzoek, een inspecteur en een senior-inspecteur in dienst, die voldoen aan de in de [artikelen 2.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050489&hoofdstuk=2&paragraaf=3&artikel=2.13&z=2025-01-01&g=2025-01-01), onderscheidenlijk 2.13, tweede lid, [2.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050489&hoofdstuk=2&paragraaf=3&artikel=2.14&z=2025-01-01&g=2025-01-01), 2.14, tweede lid, [2.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050489&hoofdstuk=2&paragraaf=3&artikel=2.15&z=2025-01-01&g=2025-01-01), en 2.15, tweede lid, gestelde eisen.
 
 2. Onverminderd het eerste lid, heeft een keuringsinstelling, die wordt belast met de keuring in de gebruiksfase van nucleaire drukapparatuur, ten minste een specialist niet-destructief onderzoek, een inspecteur en een senior-inspecteur in dienst, die voldoen aan de in [artikelen 2.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050489&hoofdstuk=2&paragraaf=3&artikel=2.14&z=2025-01-01&g=2025-01-01), onderscheidenlijk [2.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050489&hoofdstuk=2&paragraaf=3&artikel=2.15&z=2025-01-01&g=2025-01-01), en 2.15, tweede lid, gestelde eisen.
 
-#### Artikel 2.13. (beoordelaar en seniorbeoordelaar)
+##### Artikel 2.13. (beoordelaar en seniorbeoordelaar)
 
 1. Een beoordelaar als bedoeld in [artikel 2.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050489&hoofdstuk=2&paragraaf=3&artikel=2.12&z=2025-01-01&g=2025-01-01), voldoet aan de volgende eisen:
 
@@ -270,13 +296,13 @@ De beoordelingen en keuringen worden verricht door of onder toezicht van de in d
 
 - c. ten minste stralingsdeskundigheid op niveau toezichthoudend medewerker stralingsbescherming of een gelijkwaardig niveau.
 
-#### Artikel 2.14. (specialist materiaalkunde en specialist niet-destructief onderzoek)
+##### Artikel 2.14. (specialist materiaalkunde en specialist niet-destructief onderzoek)
 
 1. Een specialist materiaalkunde als bedoeld in [artikel 2.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050489&hoofdstuk=2&paragraaf=3&artikel=2.12&z=2025-01-01&g=2025-01-01), heeft aantoonbare kennis van en ten minste één jaar ervaring met de relevante delen van de toe te passen ontwerpcodes en nucleaire vormen van materiaaldegradatie.
 
 2. Een specialist niet-destructief onderzoek als bedoeld in [artikel 2.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050489&hoofdstuk=2&paragraaf=3&artikel=2.12&z=2025-01-01&g=2025-01-01), heeft aantoonbare kennis van en ten minste één jaar ervaring met de relevante delen van de toe te passen ontwerpcodes en bijzonderheden van niet-destructief onderzoek van nucleaire drukapparatuur.
 
-#### Artikel 2.15. (inspecteur en senior-inspecteur)
+##### Artikel 2.15. (inspecteur en senior-inspecteur)
 
 1. Een inspecteur als bedoeld in [artikel 2.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050489&hoofdstuk=2&paragraaf=3&artikel=2.12&z=2025-01-01&g=2025-01-01), voldoet aan de volgende eisen:
 
@@ -300,7 +326,7 @@ De beoordelingen en keuringen worden verricht door of onder toezicht van de in d
 
 #### § 3.1. Beveiliging van splijtstoffen door een vergunninghouder [artikel 15, onder a, Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15)
 
-#### Artikel 3.1. (toezicht op categorie I-, II- of III-materiaal)
+##### Artikel 3.1. (toezicht op categorie I-, II- of III-materiaal)
 
 1. Diegene die persoonlijk toezicht als bedoeld in [artikel 22i, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=22i) houdt, is hiertoe geautoriseerd door de vergunninghouder [artikel 15, onder a, Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15).
 
@@ -314,7 +340,7 @@ De beoordelingen en keuringen worden verricht door of onder toezicht van de in d
 
 #### § 3.2. Beveiliging van inrichtingen en splijtstoffen door een vergunninghouder [artikel 15, onder b, Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15)
 
-#### Artikel 3.2. (beveiligingspakket)
+##### Artikel 3.2. (beveiligingspakket)
 
 1. De in het beveiligingspakket, bedoeld in [artikel 22a van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=22a), aangewezen beveiligingsdeskundige en diens plaatsvervanger voldoen aan de opleidingseisen, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0050489&bijlage=II&z=2025-01-01&g=2025-01-01) en een daarop betrekking hebbend opleidingsplan.
 
@@ -322,7 +348,7 @@ De beoordelingen en keuringen worden verricht door of onder toezicht van de in d
 
 3. Het beveiligingspakket bevat een procedure voor de registratie van personen die toegang hebben of kunnen verlenen tot een vitaal gebied als bedoeld in [artikel 3.5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0050489&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2025-01-01&g=2025-01-01), van deze verordening.
 
-#### Artikel 3.3. (plan interne beveiligingsorganisatie)
+##### Artikel 3.3. (plan interne beveiligingsorganisatie)
 
 1. De met de interne beveiligingsorganisatie, bedoeld in [artikel 22a, eerste lid, onderdeel c, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=22a), verband houdende verantwoordelijkheden betreffen:
 
@@ -352,7 +378,7 @@ De beoordelingen en keuringen worden verricht door of onder toezicht van de in d
 
 5. De vergunninghouder [artikel 15, onder b, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) voldoet op het punt van beveiliging aan de eisen, bedoeld in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0050489&bijlage=III&z=2025-01-01&g=2025-01-01). Indien hij beschikt over een managementsysteem worden de eisen daarin opgenomen.
 
-#### Artikel 3.4. (beveiliging alarmcentrale)
+##### Artikel 3.4. (beveiliging alarmcentrale)
 
 De beveiligingsmaatregelen die worden getroffen om de alarmcentrale, bedoeld in [artikel 22a, eerste lid, onder e, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=22a) te beveiligen tegen de dreigingen zoals omschreven in de referentiedreiging hebben ten minste betrekking op:
 
@@ -362,7 +388,7 @@ De beveiligingsmaatregelen die worden getroffen om de alarmcentrale, bedoeld in 
 
 - c. de vakbekwaamheid en betrouwbaarheid van diegenen die toegang hebben tot, of werkzaamheden verrichten in de alarmcentrale.
 
-#### Artikel 3.5. (indeling terrein)
+##### Artikel 3.5. (indeling terrein)
 
 1. De verdeling van het terrein, bedoeld in de in [artikel 22a, derde lid, onder b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=22a) genoemde gebieden bestaat uit:
 
@@ -386,7 +412,7 @@ De beveiligingsmaatregelen die worden getroffen om de alarmcentrale, bedoeld in 
 
 - f. het betreden of binnengaan van het terrein, een gebied of gebouw door voertuigen, personen of goederen.
 
-#### Artikel 3.6. (evaluatieprogramma en beoordeling beveiligingspakket)
+##### Artikel 3.6. (evaluatieprogramma en beoordeling beveiligingspakket)
 
 1. Als onderdeel van het evaluatieprogramma, bedoeld in [artikel 22a, eerste lid, onder g, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=22a) wordt in elk geval een audit uitgevoerd met betrekking tot het plan interne beveiligingsorganisatie, worden de organisatorische en bouwkundige beveiligingsmaatregelen gecontroleerd, de elektronische en informatiebeveiligingsmaatregelen getest en het plan interne beveiligingsorganisatie in een oefening toegepast.
 
@@ -394,13 +420,13 @@ De beveiligingsmaatregelen die worden getroffen om de alarmcentrale, bedoeld in 
 
 #### § 3.3. Beveiliging bij vervoer van categorie I-, II- of III-materiaal
 
-#### Artikel 3.7. (niveaus van fysieke beveiliging van categorie I- II- of III-materiaal)
+##### Artikel 3.7. (niveaus van fysieke beveiliging van categorie I- II- of III-materiaal)
 
 Naast de beveiligingsmaatregelen, bedoeld in [artikel 1d, eerste en tweede lid, van het Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&artikel=1d), treft de vervoerder, om categorie I-, II-, of III-materiaal te beveiligen tegen diefstal en sabotage, de beveiligingsmaatregelen, bedoeld in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0050489&bijlage=IV&z=2025-01-01&g=2025-01-01).
 
 #### § 3.4. Beveiliging bij vervoer van de in [artikel 4.7 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=4.7) bedoelde radioactieve stoffen
 
-#### Artikel 3.8. (afspraken tussen vervoerder en verzender of ontvanger)
+##### Artikel 3.8. (afspraken tussen vervoerder en verzender of ontvanger)
 
 1. De vervoerder, de afzender en de ontvanger van de in [artikel 4.7 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=4.7) bedoelde radioactieve stoffen maken voorafgaand aan het transport van die stoffen afspraken over de wijze, en het tijdstip, waarop de radioactieve stoffen worden overgedragen door de afzender aan de vervoerder, respectievelijk door de vervoerder aan de ontvanger.
 
@@ -410,7 +436,7 @@ Naast de beveiligingsmaatregelen, bedoeld in [artikel 1d, eerste en tweede lid, 
 
 ### Hoofdstuk 4. Ontmanteling
 
-#### Artikel 4.1. (aantonen voltooiing van de ontmanteling)
+##### Artikel 4.1. (aantonen voltooiing van de ontmanteling)
 
 1. De houder van een vergunning voor het ontmantelen van een inrichting stelt een eindrapport op waarin hij aantoont dat de ontmanteling is voltooid.
 

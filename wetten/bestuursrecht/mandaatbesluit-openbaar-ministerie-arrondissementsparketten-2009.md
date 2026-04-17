@@ -1,13 +1,39 @@
 ---
-title: "Mandaatbesluit openbaar ministerie (arrondissementsparketten) 2009"
+title: "Regeling van het College van Procureurs Generaal van 18 december 2009, nummer PaG 14389, houdende de verlening van mandaat, volmacht en machtiging aan de hoofdofficieren van justitie van de arrondissementsparketten"
 identifier: "BWBR0027872"
-categorie: "Bestuursrecht"
-publicatiedatum: 2010-07-09
-laatste_update: 2010-07-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027872"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-07-09"
+last_updated: "2010-07-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027872"
+soort: "ministeriele-regeling"
+stam_id: "10603063"
+version_id: "17514382"
+internal_id: "C24238451"
+label_id: "10578094"
+dtd_version: "2.0"
+original_entry_into_force: "2010-07-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027872/2010-07-09/0"
+intitule_bron: "Stcrt.2010-10429"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-12-18"
+intitule_published: "2010-07-07"
+intitule_in_force: "2010-07-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-10429"
+original_signed_date: "2009-12-18"
+original_published_date: "2010-07-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-10429"
+entry_into_force_date: "2010-07-09"
+jci_1_3: "jci1.3:c:BWBR0027872&z=2010-07-09&g=2010-07-09"
+jci_1_0: "1.0:c:BWBR0027872&g=2010-07-09"
+citeertitel_status: "officieel"
+short_title: "Mandaatbesluit openbaar ministerie (arrondissementsparketten) 2009"
+signed_date: "2009-12-18"
+entry_into_force: "2010-07-09"
 ---
-
 # Regeling van het College van Procureurs Generaal van 18 december 2009, nummer PaG 14389, houdende de verlening van mandaat, volmacht en machtiging aan de hoofdofficieren van justitie van de arrondissementsparketten
 
 Overwegende dat bij besluiten van 9 november 2009 , [nummers 5602920/09](https://wetten.overheid.nl/jci1.3:c:BWBR0026664) (Stcrt 2009, 17519) en [5628333/09](https://wetten.overheid.nl/jci1.3:c:BWBR0026644) (Stcrt 2009, 17341) het mandaat, de volmacht en de machtiging verleend aan het College bij besluit van 15 december 1997, nummer 665429/897 is vervangen door een nieuwe regeling van mandaat, volmacht en machtiging;
@@ -28,7 +54,7 @@ Besluit:
 
 #### Paragraaf 1. Definities
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -82,7 +108,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 2. De voorzitter van het regionaal managementteam
 
-#### Artikel 2
+##### Artikel 2
 
 1. De hierna genoemde hoofdofficieren van justitie fungeren als voorzitter van het regionaal managementteam en aan hen wordt het beheermandaat, het budgetmandaat en het mandaat organisatie en formatie verleend als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&paragraaf=3&artikel=3&z=2010-07-09&g=2010-07-09):
 
@@ -112,7 +138,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 3. Het beheermandaat, het budgetmandaat en het mandaat organisatie en formatie en het mandaat van de hoofdofficieren van justitie
 
-#### Artikel 3. Het beheermandaat, het budgetmandaat en het mandaat organisatie en formatie van de voorzitter van het regionaal managementteam
+##### Artikel 3. Het beheermandaat, het budgetmandaat en het mandaat organisatie en formatie van de voorzitter van het regionaal managementteam
 
 1. Bevoegdheden ten aanzien van het beheer van het regioparket (de dagelijkse gang van zaken)
 
@@ -134,7 +160,7 @@ Aan de voorzitter van het regionaal managementteam bedoeld in [artikel 2, eerste
 
 Aan de voorzitter van het regionaal managementteam bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027872&paragraaf=2&artikel=2&z=2010-07-09&g=2010-07-09), wordt mandaat verleend om, passend binnen de hoofdlijnen van de organisatie en formatie en met inachtneming van de budgettaire kaders zoals die in het jaarplan zijn vastgelegd en het geldende functiehuis voor de sectoren rechterlijke macht en rijk, de organisatie en formatie vast te stellen van de arrondissementsparketten die onder het bereik van het betreffende regionaal managementteam vallen.
 
-#### Artikel 4. De bevoegdheden van de hoofdofficieren van justitie
+##### Artikel 4. De bevoegdheden van de hoofdofficieren van justitie
 
 1. Aanwijzing tot hoofd van dienst
 
@@ -182,7 +208,7 @@ Aan de hoofdofficier van justitie wordt mandaat en machtiging verleend om beslui
 
 Aan de hoofdofficier van justitie wordt mandaat en machtiging verleend om besluiten te nemen op verzoeken op grond van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) met uitzondering van de besluiten die belangrijke politieke, bestuurlijke of maatschappelijke gevolgen kunnen hebben.
 
-#### Artikel 5. Voorwaarden verbonden aan het uitoefenen van het mandaat, volmacht en machtiging
+##### Artikel 5. Voorwaarden verbonden aan het uitoefenen van het mandaat, volmacht en machtiging
 
 De voorzitter van het regionaal managementteam en de hoofdofficier van justitie zijn gehouden bij het uitoefenen van bevoegdheden:
 
@@ -238,7 +264,7 @@ De voorzitter van het regionaal managementteam en de hoofdofficier van justitie 
 
 #### Paragraaf 4. Beslissingen op bezwaar en beroep
 
-#### Artikel 6. Beslissingen op bezwaar en beroep
+##### Artikel 6. Beslissingen op bezwaar en beroep
 
 1. Het College beslist op een bezwaar of een beroep dat is gericht tegen een besluit dat is genomen door de hoofdofficier van justitie, alsmede op een daarmee verband houdend verzoek als bedoeld in [artikel 7:1a, eerste lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1a).
 
@@ -246,7 +272,7 @@ De voorzitter van het regionaal managementteam en de hoofdofficier van justitie 
 
 #### Paragraaf 5. Verlenen van ondermandaat
 
-#### Artikel 7. Ondermandaat
+##### Artikel 7. Ondermandaat
 
 1. De voorzitter van het regionaal managementteam wordt toegestaan van het aan hem in deze regeling toegekende mandaat, volmacht en machtiging door te geven aan de directeur bedrijfsvoering van zijn arrondissementsparket.
 
@@ -262,20 +288,20 @@ De voorzitter van het regionaal managementteam en de hoofdofficier van justitie 
 
 #### Paragraaf 6. Overgangs- en slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Bestaande regelingen waarin de in het [Mandaatbesluit dienstonderdelen openbaar ministerie](https://wetten.overheid.nl/jci1.3:c:BWBR0027871) verleende mandaten, volmachten en machtigingen verder worden doorgegeven, worden geacht te zijn gegrond op deze regeling, voor zover zij daarmee niet strijdig zijn, totdat op grond van deze regeling nieuwe ondermandaten zijn vastgesteld of volmachten en machtigingen worden doorgegeven.
 
 2. Bestaande regelingen waarin de in het Mandaatbesluit dienstonderdelen openbaar ministerie verleende mandaten, volmachten en machtigingen verder worden doorgegeven, worden geacht op 1 juli 2010 te zijn ingetrokken, tenzij deze reeds op een eerder tijdstip worden ingetrokken en zijn vervangen door een op dit besluit gegronde regeling van het ondermandaat of het doorgeven van volmacht en machtigingen.
 
-#### Artikel 9
+##### Artikel 9
 
 Het Mandaatbesluit dienstonderdelen openbaar ministerie van 15 december 1997, nummer 665431 L/897, wordt ingetrokken.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 20 november 2009.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit kan worden aangehaald als: Mandaatbesluit openbaar ministerie (arrondissementsparketten) 2009.

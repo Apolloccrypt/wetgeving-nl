@@ -1,13 +1,37 @@
 ---
 title: "Vaststelling aanwijzingen inzake inzage ministerraadsnotulen door ambtenaren"
 identifier: "BWBR0004488"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1989-04-01
-laatste_update: 1989-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004488"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1989-04-01"
+last_updated: "1989-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004488"
+soort: "ministeriele-regeling"
+stam_id: "3614703"
+version_id: "5397732"
+internal_id: "C5590821"
+label_id: "3594614"
+dtd_version: "2.0"
+original_entry_into_force: "1989-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004488/1989-04-01/0"
+intitule_bron: "Stcrt.1989-26"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1989-01-20"
+intitule_published: "1989-02-06"
+intitule_in_force: "1989-02-06"
+intitule_status: "goed"
+original_publication: "Stcrt.1989-26"
+original_signed_date: "1989-01-20"
+original_published_date: "1989-02-06"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1989-04-01"
+jci_1_3: "jci1.3:c:BWBR0004488&z=1989-04-01&g=1989-04-01"
+jci_1_0: "1.0:c:BWBR0004488&g=1989-04-01"
+citeertitel_status: "officieel"
+signed_date: "1989-01-20"
+entry_into_force: "1989-04-01"
 ---
-
 # Vaststelling aanwijzingen inzake inzage ministerraadsnotulen door ambtenaren
 
 Handelende in overeenstemming met het gevoelen van de ministerraad,

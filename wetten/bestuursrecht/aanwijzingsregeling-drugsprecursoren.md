@@ -1,26 +1,51 @@
 ---
-title: "Aanwijzingsregeling drugsprecursoren"
+title: "Regeling aanwijzing verboden drugsprecursoren"
 identifier: "BWBR0048009"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-06-18
-laatste_update: 2024-06-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048009"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-06-18"
+last_updated: "2024-06-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048009"
+soort: "ministeriele-regeling"
+stam_id: "16707363"
+version_id: "30150882"
+internal_id: "C43204901"
+label_id: "16624124"
+dtd_version: "2.0"
+original_entry_into_force: "2024-06-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048009/2024-06-18/0"
+intitule_bron: "Stcrt.2023-9472"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2023-03-29"
+intitule_in_force: "2023-03-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-19277"
+original_signed_date: "2024-06-10"
+original_published_date: "2024-06-17"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-19277"
+entry_into_force_date: "2024-06-10"
+jci_1_3: "jci1.3:c:BWBR0048009&z=2024-06-18&g=2024-06-18"
+jci_1_0: "1.0:c:BWBR0048009&g=2024-06-18"
+citeertitel_status: "officieel"
+short_title: "Aanwijzingsregeling drugsprecursoren"
+signed_date: "2024-06-10"
+entry_into_force: "2024-06-10"
 ---
-
 # Regeling aanwijzing verboden drugsprecursoren
 
 Gelet op [artikel 4a, tweede lid, van de Wet voorkoming misbruik chemicaliën](https://wetten.overheid.nl/jci1.3:c:BWBR0007286&artikel=4a);
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Aangewezen overeenkomstig [artikel 4a, tweede lid, van de Wet voorkoming misbruik chemicaliën](https://wetten.overheid.nl/jci1.3:c:BWBR0007286&artikel=4a), worden de stoffen genoemd in de bijlage bij dit besluit.
 
 2. De zouten van aangewezen stoffen in de bijlage worden gelijkgesteld aan de aangewezen stoffen.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van 1 april 2023.
 
@@ -164,7 +189,7 @@ Dit besluit treedt in werking met ingang van 1 april 2023.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Deze regeling wordt aangehaald als: Aanwijzingsregeling drugsprecursoren.
 

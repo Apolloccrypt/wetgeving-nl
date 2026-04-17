@@ -1,13 +1,38 @@
 ---
 title: "Skal-Reglement voor Certificatie en Toezicht"
 identifier: "BWBR0021345"
-categorie: "Bestuursrecht"
-publicatiedatum: 2007-03-04
-laatste_update: 2007-03-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0021345"
+country: "nl"
+rank: "zbo"
+publication_date: "2007-03-04"
+last_updated: "2007-03-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0021345"
+soort: "zbo"
+stam_id: "8962013"
+version_id: "14250542"
+internal_id: "C19386861"
+label_id: "8941964"
+dtd_version: "2.0"
+original_entry_into_force: "2007-03-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0021345/2007-03-04/0"
+intitule_bron: "Stcrt.2007-44"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-09-22"
+intitule_published: "2007-03-02"
+intitule_in_force: "2007-03-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-44"
+original_signed_date: "2006-09-22"
+original_published_date: "2007-03-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-44-p14-SC79461"
+entry_into_force_date: "2007-03-04"
+jci_1_3: "jci1.3:c:BWBR0021345&z=2007-03-04&g=2007-03-04"
+jci_1_0: "1.0:c:BWBR0021345&g=2007-03-04"
+citeertitel_status: "officieel"
+signed_date: "2006-09-22"
+entry_into_force: "2007-03-04"
 ---
-
 # Skal-Reglement voor Certificatie en Toezicht
 
 Het gebruik van dit reglement door derden, voor welk doel dan ook, is uitsluitend toegestaan nadat een schriftelijke overeenkomst met Stichting Skal is gesloten waarin het gebruiksrecht is geregeld.

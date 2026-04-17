@@ -1,16 +1,41 @@
 ---
-title: "Wijziging solvabiliteitsrichtlijnen Wet toezicht kredietwezen"
+title: "Wijziging van onderdeel 4011-02.3.3 van de solvabiliteitsrichtlijnen Wtk in verband met kwaliteitswaarborgen taxatieproces en de inwerkingtreding van de Beleidsregel indexatiemethode onderpand"
 identifier: "BWBR0016242"
-categorie: "Bestuursrecht"
-publicatiedatum: 2003-12-23
-laatste_update: 2003-12-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016242"
+country: "nl"
+rank: "zbo"
+publication_date: "2003-12-23"
+last_updated: "2003-12-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016242"
+soort: "zbo"
+stam_id: "6818073"
+version_id: "11694512"
+internal_id: "C15763241"
+label_id: "6806254"
+original_entry_into_force: "2003-12-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016242/2003-12-23/0"
+intitule_bron: "Stcrt.2003-248"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-12-23"
+intitule_published: "2003-12-23"
+intitule_in_force: "2003-12-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-248"
+original_signed_date: "2003-12-23"
+original_published_date: "2003-12-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2003-248-p68-SC63067"
+entry_into_force_date: "2003-12-23"
+jci_1_3: "jci1.3:c:BWBR0016242&z=2003-12-23&g=2003-12-23"
+jci_1_0: "1.0:c:BWBR0016242&g=2003-12-23"
+citeertitel_status: "redactioneel"
+short_title: "Wijziging solvabiliteitsrichtlijnen Wet toezicht kredietwezen"
+signed_date: "2003-12-23"
+entry_into_force: "2003-12-23"
 ---
-
 # Wijziging van onderdeel 4011-02.3.3 van de solvabiliteitsrichtlijnen Wtk in verband met kwaliteitswaarborgen taxatieproces en de inwerkingtreding van de Beleidsregel indexatiemethode onderpand
 
-#### Artikel 1
+##### Artikel 1
 
 Onderdeel 4011-02.3.3 van de solvabiliteitsrichtlijnen Wtk worden als volgt gewijzigd:
 
@@ -18,7 +43,7 @@ Onderdeel 4011-02.3.3 van de solvabiliteitsrichtlijnen Wtk worden als volgt gewi
 
 - B. Aan onderdeel I wordt de volgende tekst toegevoegd: 'In plaats van een taxatie per object mag, in het kader van de weging van het kredietrisico, bij een bestaande portefeuille woninghypotheken ter bepaling van de executiewaarde van de woningen in de portefeuille gebruik worden gemaakt van een methode gebaseerd op het volgen van een index. Uitgangspunt bij het toepassen van een indexatiemethode is dat de methode moet leiden tot een betrouwbare en prudente inschatting van de executiewaarde in de hypotheekportefeuille en het daaruit resulterende kredietrisico. Daarnaast moet de methode op een eenduidige, bestendige en controleerbare wijze worden toegepast. In de [Beleidsregel Indexatiemethode ter bepaling van executiewaarde onderpand hypotheekportefeuille](onbekend) is nader uitgewerkt onder welke voorwaarden de indexatiemethode mag worden toegepast. De beleidsregel is opgenomen in het Handboek Wtk als bijlage 4011-b2.'
 
-#### Artikel 2
+##### Artikel 2
 
 De [Beleidsregel indexatiemethode ter bepaling van executiewaarde onderpand hypotheekportefeuille](onbekend) luidt als volgt:
 
@@ -180,7 +205,7 @@ Als de Bank, bijvoorbeeld op basis van de in artikel 6 beschreven validatie, de 
 
 - 3. Deze beleidsregel kan worden aangehaald als: '[Beleidsregel indexatiemethode onderpand](onbekend).'
 
-#### Artikel 3
+##### Artikel 3
 
 De wijzigingen van onderdeel 4011-02.3.3 van de solvabiliteitsrichtlijnen Wtk en de [Beleidsregel indexatiemethode onderpand](onbekend) treden in werking op 1 januari 2004. Voor indexatiemethoden die, op basis van bilaterale toestemming, reeds in gebruik zijn op deze datum geldt voor de toepassing van de [Beleidsregel indexatiemethode onderpand](onbekend) een overgangstermijn van 1 jaar.
 

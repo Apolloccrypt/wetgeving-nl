@@ -1,13 +1,39 @@
 ---
-title: "Regeling verplichtstelling beroepspensioenregeling"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 19 december 2006, nr. AV/PB/2006/102511a, tot Vaststelling van regels met betrekking tot de verplichtstelling op grond van de Wet verplichte beroepspensioenregeling (Regeling verplichtstelling beroepspensioenregeling)"
 identifier: "BWBR0020895"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2021-01-01
-laatste_update: 2021-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020895"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-01-01"
+last_updated: "2021-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020895"
+soort: "ministeriele-regeling"
+stam_id: "8846313"
+version_id: "19854522"
+internal_id: "C27885451"
+label_id: "8826104"
+dtd_version: "2.0"
+original_entry_into_force: "2012-12-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020895/2021-01-01/0"
+intitule_bron: "Stcrt.2006-252"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-12-19"
+intitule_published: "2006-12-28"
+intitule_in_force: "2006-12-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-25826"
+original_signed_date: "2012-12-06"
+original_published_date: "2012-12-14"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2012-25826"
+entry_into_force_date: "2012-12-06"
+jci_1_3: "jci1.3:c:BWBR0020895&z=2021-01-01&g=2021-01-01"
+jci_1_0: "1.0:c:BWBR0020895&g=2021-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling verplichtstelling beroepspensioenregeling"
+signed_date: "2012-12-06"
+entry_into_force: "2012-12-06"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 19 december 2006, nr. AV/PB/2006/102511a, tot Vaststelling van regels met betrekking tot de verplichtstelling op grond van de Wet verplichte beroepspensioenregeling (Regeling verplichtstelling beroepspensioenregeling)
 
 Gelet op [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=6), [9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=9), [13, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=13), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=18) en [19, tweede lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=19);
@@ -16,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Verplichtstelling
 
-#### Artikel 1. Aanvraag van de verplichtstelling
+##### Artikel 1. Aanvraag van de verplichtstelling
 
 De aanvraag van de verplichtstelling, bedoeld in [artikel 5, eerste lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=5), bevat:
 
@@ -46,11 +72,11 @@ De aanvraag van de verplichtstelling, bedoeld in [artikel 5, eerste lid, van de 
 
 - 5°. een toelichting waaruit blijkt dat de grenzen van het domein waarover de gegevens zijn verzameld gerelateerd zijn aan de werkingssfeer van het beroepspensioenfonds of dat deel van het beroepspensioenfonds waarop de aanvraag van de verplichtstelling betrekking heeft. Daarbij is duidelijk dat in de werkingssfeer van het beroepspensioenfonds uitgesloten categorieën beroepsgenoten en beroepsgenoten in loondienst in de tellingen buiten beschouwing zijn gelaten.
 
-#### Artikel 2. Assurancerapport
+##### Artikel 2. Assurancerapport
 
 De Minister van Sociale Zaken en Werkgelegenheid kan naar aanleiding van de opgave, bedoeld in [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=1&z=2021-01-01&g=2021-01-01), verlangen dat een assurancerapport over de juistheid van die opgave van een registeraccountant of een accountant-administratieconsulent die daartoe gecertificeerd is, wordt overgelegd.
 
-#### Artikel 3. Aanvraag tot wijziging van de verplichtstelling
+##### Artikel 3. Aanvraag tot wijziging van de verplichtstelling
 
 De aanvraag tot wijziging van de verplichtstelling, bedoeld in [artikel 9, eerste lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=9), bevat:
 
@@ -78,11 +104,11 @@ De aanvraag tot wijziging van de verplichtstelling, bedoeld in [artikel 9, eerst
 
 - 5°. een toelichting waaruit blijkt dat de grenzen van het domein waarover de gegevens zijn verzameld gerelateerd zijn aan de werkingssfeer van het beroepspensioenfonds of dat deel van het beroepspensioenfonds waarop de aanvraag tot wijziging van de verplichtstelling betrekking heeft. Daarbij is duidelijk dat in de werkingssfeer van het beroepspensioenfonds uitgesloten categorieën beroepsgenoten en beroepsgenoten in loondienst in de tellingen buiten beschouwing zijn gelaten.
 
-#### Artikel 4. Assurancerapport
+##### Artikel 4. Assurancerapport
 
 De Minister van Sociale Zaken en Werkgelegenheid kan naar aanleiding van de opgave, bedoeld in [artikel 3, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=3&z=2021-01-01&g=2021-01-01), verlangen dat een assurancerapport over de juistheid van die opgave van een registeraccountant of een accountant-administratieconsulent die daartoe gecertificeerd is, wordt overgelegd.
 
-#### Artikel 5. Aanvraag tot intrekking van de verplichtstelling
+##### Artikel 5. Aanvraag tot intrekking van de verplichtstelling
 
 1. De aanvraag tot intrekking van de verplichtstelling, bedoeld in [artikel 13, eerste en tweede lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=13) bevat:
 
@@ -114,11 +140,11 @@ De Minister van Sociale Zaken en Werkgelegenheid kan naar aanleiding van de opga
 
 - b. een actuariële berekening waaruit de financiële gevolgen van de gedeeltelijke intrekking voor de pensioenuitvoerder blijken.
 
-#### Artikel 6. Assurancerapport
+##### Artikel 6. Assurancerapport
 
 De Minister van Sociale Zaken en Werkgelegenheid kan naar aanleiding van de opgave, bedoeld in [artikel 5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=5&z=2021-01-01&g=2021-01-01), verlangen dat een assurancerapport over de juistheid van die opgave van een registeraccountant of een accountant-administratieconsulent die daartoe gecertificeerd is, wordt overgelegd.
 
-#### Artikel 7. Aanvraag tot ontheffing
+##### Artikel 7. Aanvraag tot ontheffing
 
 1. De aanvraag tot ontheffing, bedoeld in [artikel 18, eerste lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=18) wordt gedaan door de persoon voor wie de ontheffing wordt gevraagd.
 
@@ -134,11 +160,11 @@ De Minister van Sociale Zaken en Werkgelegenheid kan naar aanleiding van de opga
 
 - e. een verklaring van de persoon voor wie ontheffing wordt gevraagd waarin wordt aangegeven of er een pensioenvoorziening wordt voortgezet in het land van herkomst.
 
-#### Artikel 8. Behandeling aanvragen
+##### Artikel 8. Behandeling aanvragen
 
 De aanvragen, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=1&z=2021-01-01&g=2021-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=3&z=2021-01-01&g=2021-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=5&z=2021-01-01&g=2021-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=7&z=2021-01-01&g=2021-01-01) worden eerst in behandeling genomen wanneer alle van belang zijnde gegevens en bescheiden, genoemd in die artikelen, bij de aanvragen zijn gevoegd.
 
-#### Artikel 9. Termijnen
+##### Artikel 9. Termijnen
 
 1. De Minister van Sociale Zaken en Werkgelegenheid beslist zo spoedig mogelijk op de aanvraag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=1&z=2021-01-01&g=2021-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=3&z=2021-01-01&g=2021-01-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=5&z=2021-01-01&g=2021-01-01), doch uiterlijk binnen zesentwintig weken na de datum van mededeling in de Staatscourant van de aanvraag tot verplichtstelling, de aanvraag betreffende wijziging van de verplichtstelling, dan wel de aanvraag tot intrekking van de verplichtstelling.
 
@@ -148,19 +174,19 @@ De aanvragen, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BW
 
 #### Paragraaf 2. Gemoedsbezwaren
 
-#### Artikel 10. De aanvraag
+##### Artikel 10. De aanvraag
 
 1. De aanvraag tot ontheffing van de verplichtstelling van een persoon die gemoedsbezwaren heeft tegen iedere vorm van verzekering, bedoeld in [artikel 19, eerste lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=19), geschiedt door indiening van een door de aanvrager ondertekende verklaring.
 
 2. De in het eerste lid genoemde verklaring houdt ten minste in dat de aanvrager overwegende gemoedsbezwaren heeft tegen elke vorm van verzekering en mitsdien noch zichzelf nog iemand anders, noch zijn eigendommen heeft verzekerd.
 
-#### Artikel 11. Indienen van de aanvraag
+##### Artikel 11. Indienen van de aanvraag
 
 1. De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=2&artikel=10&z=2021-01-01&g=2021-01-01) bedoelde verklaring wordt ingediend bij de pensioenuitvoerder.
 
 2. De pensioenuitvoerder onderzoekt of de verklaring overeenkomstig de waarheid is.
 
-#### Artikel 12. Verlenen van de ontheffing
+##### Artikel 12. Verlenen van de ontheffing
 
 1. Indien de verklaring naar de mening van de pensioenuitvoerder overeenkomstig de waarheid is, verleent deze de ontheffing.
 
@@ -168,17 +194,17 @@ De aanvragen, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BW
 
 3. Van de verleende ontheffing wordt door de pensioenuitvoerder een bewijs uitgereikt.
 
-#### Artikel 13. Spaarbijdragen
+##### Artikel 13. Spaarbijdragen
 
 De persoon die een ontheffing heeft, betaalt dezelfde bedragen welke hij verschuldigd zou zijn in de vorm van premies indien hij geen ontheffing had, aan de pensioenuitvoerder in de vorm van spaarbijdragen. In de beroepspensioenregeling wordt geregeld waarop deze spaarbijdragen recht geven.
 
-#### Artikel 14. Spaarrekening
+##### Artikel 14. Spaarrekening
 
 1. De op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=2&artikel=13&z=2021-01-01&g=2021-01-01) betaalde spaarbijdragen worden door of namens de pensioenuitvoerder geboekt op een de persoon die een ontheffing heeft betreffende spaarrekening.
 
 2. In de beroepspensioenregeling wordt aangegeven in welke gevallen en tot welke bedragen de persoon die een ontheffing heeft gerechtigd is gelden van de spaarbijdragen op te nemen.
 
-#### Artikel 15. Intrekken van de ontheffing
+##### Artikel 15. Intrekken van de ontheffing
 
 1. Een ontheffing wordt door de pensioenuitvoerder ingetrokken:
 
@@ -190,27 +216,27 @@ De persoon die een ontheffing heeft, betaalt dezelfde bedragen welke hij verschu
 
 3. In de beroepspensioenregeling worden de gevolgen geregeld van de intrekking van een ontheffing.
 
-#### Artikel 16. Overgangsrecht
+##### Artikel 16. Overgangsrecht
 
 Vervallen
 
-#### Artikel 17. Intrekking regelingen
+##### Artikel 17. Intrekking regelingen
 
 1. De [Regeling verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0019309) wordt ingetrokken.
 
 2. De [Regeling van 21 juni 2006, tot wijziging van de Regeling verplichte beroepspensioenregeling wordt ingetrokken](https://wetten.overheid.nl/jci1.3:c:BWBR0019988).
 
-#### Artikel 18. Inwerkingtreding
+##### Artikel 18. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2007.
 
-#### Artikel 19. Citeertitel
+##### Artikel 19. Citeertitel
 
 Deze regeling wordt aangehaald als Regeling verplichtstelling beroepspensioenregeling.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 9a. Elektronische communicatie
+##### Artikel 9a. Elektronische communicatie
 
 De minister draagt zorg voor de noodzakelijke elektronische infrastructuur waarmee de aanvragen, bedoeld in [artikel a1](https://wetten.overheid.nl/jci1.3:c:BWBR0020895&paragraaf=1&artikel=a1&z=2021-01-01&g=2021-01-01), betrouwbaar en vertrouwelijk kunnen worden verzonden. Bij de verzending van de aanvragen, bedoeld in artikel a1, wordt gebruik gemaakt van de door de minister ter beschikking gestelde elektronische formulieren en de door hem erkende methode van authenticatie.
 
@@ -222,7 +248,7 @@ Ligt ter inzage bij de Directie Uitvoeringstaken Arbeidsvoorwaardenwetgeving (UA
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel a1. Elektronische aanvraag en communicatie
+##### Artikel a1. Elektronische aanvraag en communicatie
 
 Tenzij naar het oordeel van de minister sprake is van omstandigheden die zich daartegen verzetten, geschieden uitsluitend langs elektronische weg de aanvragen en de daaropvolgende communicatie:
 

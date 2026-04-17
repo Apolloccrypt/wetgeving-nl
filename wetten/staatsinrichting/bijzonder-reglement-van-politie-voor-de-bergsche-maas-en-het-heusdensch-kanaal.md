@@ -1,13 +1,35 @@
 ---
-title: "Bijzonder reglement van politie voor de Bergsche Maas en het Heusdensch kanaal"
+title: "Besluit van 31 Oktober 1894, tot vaststelling van een bijzonder reglement van politie voor de krachtens de wet van 26 Januari 1883 (Staatsblad n°. 4) in aanleg zijnde rivier de Maas, voor zoover die voor het openbaar verkeer is of zal worden opengesteld, en het Heusdensch kanaal"
 identifier: "BWBR0001861"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 1989-07-29
-laatste_update: 1989-07-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0001861"
+country: "nl"
+rank: "kb"
+publication_date: "1989-07-29"
+last_updated: "1989-07-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001861"
+soort: "KB"
+stam_id: "158413"
+version_id: "217132"
+internal_id: "C217131"
+label_id: "157004"
+dtd_version: "2.0"
+original_entry_into_force: "1894-11-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001861/1989-07-29/0"
+intitule_bron: "Stb.1894-170"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1894-10-31"
+intitule_status: "goed"
+original_publication: "Stb.1894-170"
+original_signed_date: "1894-10-31"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1894-11-29"
+jci_1_3: "jci1.3:c:BWBR0001861&z=1989-07-29&g=1989-07-29"
+jci_1_0: "1.0:c:BWBR0001861&g=1989-07-29"
+citeertitel_status: "officieel"
+short_title: "Bijzonder reglement van politie voor de Bergsche Maas en het Heusdensch kanaal"
+signed_date: "1894-10-31"
+entry_into_force: "1894-11-29"
 ---
-
 # Besluit van 31 Oktober 1894, tot vaststelling van een bijzonder reglement van politie voor de krachtens de wet van 26 Januari 1883 (Staatsblad n°. 4) in aanleg zijnde rivier de Maas, voor zoover die voor het openbaar verkeer is of zal worden opengesteld, en het Heusdensch kanaal
 
 Op de voordracht van den Minister van Waterstaat, Handel en Nijverheid van 18 Juni 1894, La. B, afdeeling Waterstaat;
@@ -20,45 +42,45 @@ Gelet op het nader rapport van voornoemden Minister van 26 October 1894, n°. 93
 
 Hebben goedgevonden en verstaan, vast te stellen het navolgende Bijzonder reglement van politie voor de krachtens de wet van 26 Januari 1883 (**Staatsblad** n°. 4) in aanleg zijnde rivier **de Maas**, voor zoover die voor het openbaar verkeer is of zal worden opengesteld, en **het Heusdensch kanaal**.
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit en van het Algemeen Reglement worden de tot lossen en laden bestemde inrichtingen in de rivier **de Maas** met havens gelijkgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Vaartuigen mogen alleen geladen en gelost worden op de daartoe bestemde of door de kanaalbeambten aangewezen plaatsen.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij het laden of lossen van vaartuigen mogen de wegen en bermen niet versperd worden.
 
 De schippers der naast elkander liggende vaartuigen zijn verplicht ten gerieve van elkander de noodige ruimte te maken tot het bezigen van lichters en tot het verhalen.
 
-#### Artikel 4
+##### Artikel 4
 
 De schipper van een vaartuig, liggende bij eene aanlegplaats, moet gedoogen, dat een ander vaartuig ter zijde van het zijne komt en daarover gemeenschap met den wal hebbe, mits niet om te laden of te lossen.
 
-#### Artikel 5
+##### Artikel 5
 
 De schipper moet zijn vaartuig, zoodra het geladen of gelost is, terstond doen verhalen, wanneer een ander vaartuig terzelfder plaatse moet geladen of gelost worden.
 
 In geval van gebrek aan ruimte hebben bij gelijktijdige aankomst de vaartuigen, welke komen laden, den voorrang boven die, welke komen lossen.
 
-#### Artikel 6
+##### Artikel 6
 
 Het is verboden op de los- en laadplaatsen andere goederen of voorwerpen neder te leggen dan welke moeten worden ingescheept of zijn ontladen, of goederen te laten liggen na verloop van den door de kanaalbeambten voor de inlading of wegvoering bepaalden termijn.
 
-#### Artikel 7
+##### Artikel 7
 
 Behoudens verkregen rechten is het verboden, zonder vergunning van den Minister, in, op, onder of over de havens, bermslooten, bermen, dijken, kaden, jaagpaden, wegen of andere tot deze rivieren behoorende gronden of werken, eenig werk uit te voeren of te hebben.
 
-#### Artikel 8
+##### Artikel 8
 
 Behoudens verkregen rechten is het verboden zonder schriftelijke vergunning van den hoofdingenieur over de rijksgronden of werken, welke geene openbare wegen zijn, met paarden of andere dieren of met eenig middel van vervoer te rijden, vee te drijven of voorwerpen te vervoeren.
 
 Dit verbod is niet toepasselijk op de voertuigen van de ambtenaren van den waterstaat en van de kanaalbeambten, en voor zooveel de jaagpaden betreft op de jaagpaarden.
 
-#### Artikel 9
+##### Artikel 9
 
 Het is verboden, zonder vergunning van den hoofdingenieur:
 
@@ -68,7 +90,7 @@ Het is verboden, zonder vergunning van den hoofdingenieur:
 
 Dit verbod geldt niet voor hen, die uit krachte van eene pacht- of huurovereenkomst of eene ingebruikgeving van den grond door den Minister tot die handelingen gerechtigd zijn.
 
-#### Artikel 10
+##### Artikel 10
 
 Het is verboden:
 
@@ -82,15 +104,15 @@ Het is verboden:
 
 - 5°. de bevelen te overtreden, door de kanaalbeambten ter bescherming der werken of ter verzekering van hun doelmatig en veilig gebruik gegeven
 
-#### Artikel 11
+##### Artikel 11
 
 Met afwijking van art. 90, 2de lid, van het Algemeen Reglement, wordt voor deze rivieren bepaald, dat van de bevelen of beslissingen van de kanaalbeambten of van den ingenieur, onverminderd de verplichting om aan de bevelen onmiddellijk te voldoen, hooger beroep is toegelaten op den hoofdingenieur en van dezen op den Minister.
 
-#### Artikel 12
+##### Artikel 12
 
 Met uitbreiding van art. 91, 2de lid, van het Algemeen Reglement, wordt voor deze rivieren bepaald dat een afschrift van het proces-verbaal, zoo mogelijk ook gezonden wordt aan dengeen, die tot de vergoeding der schade gehouden wordt geacht.
 
-#### Artikel 13
+##### Artikel 13
 
 Overtreding van de bepalingen van dit reglement is een strafbaar feit.
 

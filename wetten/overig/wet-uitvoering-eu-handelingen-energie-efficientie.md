@@ -1,0 +1,638 @@
+---
+title: "Wet van 26 februari 2011, houdende regels omtrent energie-efficiëntie (Wet implementatie EG-richtlijnen energie-efficiëntie)"
+identifier: "BWBR0029672"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029672"
+soort: "wet"
+stam_id: "11259343"
+version_id: "27100712"
+internal_id: "C39280351"
+label_id: "11233984"
+dtd_version: "2.0"
+original_entry_into_force: "2021-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029672/2026-01-01/0"
+intitule_bron: "Stb.2011-114"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-02-26"
+intitule_published: "2011-03-04"
+intitule_in_force: "2011-03-04"
+intitule_status: "goed"
+original_publication: "Stb.2020-390"
+original_signed_date: "2020-09-30"
+original_published_date: "2020-10-21"
+original_effect: "structuurwijziging"
+original_dossier: "35435"
+original_url_id: "stb-2020-390"
+entry_into_force_date: "2021-07-01"
+jci_1_3: "jci1.3:c:BWBR0029672&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0029672&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet uitvoering EU-handelingen energie-efficiëntie"
+signed_date: "2020-09-30"
+entry_into_force: "2021-07-01"
+---
+# Wet van 26 februari 2011, houdende regels omtrent energie-efficiëntie (Wet implementatie EG-richtlijnen energie-efficiëntie)
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is om in het belang van energiebesparing, regels te stellen ter uitvoering van [richtlijn 2006/32/EG](32006L0032) van het Europees Parlement en de Raad van de Europese Unie van 5 april 2006 (PbEG L 114) betreffende energie-efficiëntie bij het eindgebruik en energiediensten en houdende intrekking van [richtlijn 93/76/EEG](31993L0076) van de Raad en deze regels samen te voegen met de Wet energiebesparing toestellen;
+
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+### Hoofdstuk 1. Energiebesparing
+
+#### § 1. Begripsbepalingen
+
+##### Artikel 1
+
+In deze wet en de daarop berustende bepalingen wordt verstaan onder:
+
+- a. **Onze Minister:** Onze Minister van Economische Zaken en Klimaat;
+
+- b. **energie:** alle vormen van energieproducten, brandstoffen, warmte, hernieuwbare energie, elektriciteit of elke andere vorm van energie;
+
+- c. **koudenet:** geheel van tot elkaar behorende, met elkaar verbonden leidingen, bijbehorende installaties en overige hulpmiddelen dienstbaar aan het transport van koude, behoudens voor zover deze leidingen, installaties en hulpmiddelen zijn gelegen in een gebouw of werk van een verbruiker of van een beheerder van een koudenet en strekken tot toe- of afvoer van koude ten behoeve van dat gebouw of werk;
+
+- d. **warmte:** thermische energie die ten behoeve van ruimteverwarming of verwarming van tapwater wordt geleverd door middel van transport van water;
+
+- e. **koude:** koud water bestemd voor ruimtekoeling;
+
+- f. **eindafnemer:** een natuurlijke persoon of rechtspersoon die energie koopt voor eigen eindgebruik;
+
+- g. **energiegerelateerd product:** energiegerelateerd product als bedoeld in artikel 2, onder 1, van Verordening (EU) 2017/1369;
+
+- h. **Autoriteit Consument en Markt:** de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
+
+- i. **Verordening (EU) 2017/1369:** Verordening (EU) 2017/1369 van het Europees Parlement en de Raad van 4 juli 2017 tot vaststelling van een kader voor energie-etikettering en tot intrekking van [Richtlijn 2010/30](32010L0030) (PbEU 2017, L 189);
+
+- i. **energie-audit:** energie-audit als bedoeld in artikel 2 van [richtlijn 2012/27](32012L0027)/EU;
+
+- j. **grote onderneming:** onderneming die geen micro, kleine of middelgrote onderneming is als bedoeld in artikel 2 van [richtlijn 2012/27](32012L0027)/EU;
+
+- k. **richtlijn 2012/27/EU:** [richtlijn 2012/27](32012L0027)/EU van het Europees Parlement en de Raad van 25 oktober 2012 betreffende energie-efficiëntie, tot wijziging van [Richtlijnen 2009/125/EG](32009L0125) en [2010/30](32010L0030)/EU en houdende intrekking van de Richtlijnen [2004/8/EG](32004L0008) en [2006/32/EG](32006L0032) (PbEU 2012, L 315);
+
+- m. **verordening (EU) 2019/1020:** [Verordening (EU) 2019/1020](32920R2019) van het Europees Parlement en de Raad van 20 juni 2019 betreffende markttoezicht en conformiteit van producten en tot wijziging van [Richtlijn 2004/42/EG](32004L0042) en de [Verordeningen (EG) nr. 765/2008](32008R0765) en (EU) [nr. 305/2011](32011R0305) (PbEU 2019, L 169).
+
+#### § 2. Meetinrichtingen voor levering van koude
+
+##### Artikel 2
+
+1. Een beheerder van een koudenet heeft tot taak er zorg voor te dragen dat binnen een redelijke termijn aan een eindafnemer een individuele meetinrichting ter beschikking wordt gesteld die het actuele energieverbruik van koude kan weergeven.
+
+2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent:
+
+- a. de eisen waaraan een meetinrichting als bedoeld in het eerste lid ten minste voldoet;
+
+- b. de tarieven voor de koop of het gebruik van een meetinrichting als bedoeld in het eerste lid.
+
+3. Een beheerder van een koudenet voorziet in een transparante, eenvoudige en goedkope procedure voor de behandeling van klachten van eindafnemers over de betrouwbaarheid van de meetinrichting.
+
+4. Indien een meetinrichting wordt geïnstalleerd, is deze op afstand uitleesbaar.
+
+5. Een beheerder van een koudenet leest meetgegevens van een eindafnemer, die beschikt over een meetinrichting die op afstand uitleesbaar is, niet op afstand uit indien de eindafnemer hierom verzoekt.
+
+6. Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de eisen waaraan een op afstand uitleesbare meetinrichting ten minste voldoet, waarbij in ieder geval regels worden gesteld ten aanzien van de beveiliging van meetgegevens.
+
+7. Een beheerder van een koudenet installeert een meter bij het leveringspunt.
+
+8. Waar dat technisch haalbaar en kostenefficiënt is installeert een beheerder van een koudenet tevens een individuele meter om het koudeverbruik te meten in iedere eenheid in een appartementengebouw of iedere eenheid in een multifunctioneel gebouw die koude ontvangt uit een koudenet.
+
+9. De installatie van een individuele meter om het koudeverbruik te meten als bedoeld in het achtste lid is in elk geval technisch haalbaar en kostenefficiënt indien:
+
+- a. een bestaande meter wordt vervangen;
+
+- b. een nieuwe aansluiting wordt gemaakt in een nieuw gebouw;
+
+- c. een gebouw ingrijpend wordt gerenoveerd.
+
+Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de wijze waarop wordt bepaald in welke andere situaties de installatie van een individuele meter om het koudeverbruik te meten technisch haalbaar of kostenefficiënt is.
+
+10. In een appartementengebouw of in een multifunctioneel gebouw baseert de beheerder van een koudenet de aan de verbruiker in rekening te brengen kosten op het verbruik in zijn eenheid en indien van toepassing de kosten voor verbruik van gemeenschappelijke ruimten.
+
+##### Artikel 3
+
+Vervallen
+
+#### § 3. Verbruiks- en indicatief kosten overzicht van koude
+
+##### Artikel 4
+
+Bij of krachtens algemene maatregel van bestuur worden regels gesteld over:
+
+- a. de inrichting van een energiekostenraming, een verbruiks- en indicatief kostenoverzicht en een factuur inzake het verbruik van koude,
+
+- b. de frequentie van een verbruiks- en indicatief kostenoverzicht inzake het verbruik van koude,
+
+- c. het verstrekken van gegevens over het verbruik van koude,
+
+- d. degenen die de informatie, bedoeld in de onderdelen a, b en c, verstrekken,
+
+- e. het op verzoek van een afnemer toesturen van facturen, factureringsinformatie en energiekostenramingen, eventueel langs elektronische weg,
+
+- f. de kosten van toegang tot meetgegevens en van facturatie en
+
+- g. degenen die om de informatie, bedoeld in onderdeel e, kunnen verzoeken,
+
+welke regels kunnen verschillen per categorie van ontvangers van de informatie, bedoeld in de onderdelen a, b en c.
+
+#### § 4. Informatieverstrekking over energie
+
+##### Artikel 5
+
+Bij algemene maatregel van bestuur worden regels gesteld over de informatie die netbeheerders, leveranciers van of handelaren in energie met uitzondering van elektriciteit en gas als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1), verstrekken in of bij contracten, facturen of ontvangstbewijzen over energie, welke regels per energiesoort en per categorie eindafnemers kunnen verschillen.
+
+#### § 5. Meetinrichtingen voor levering van elektriciteit, gas en warmte, facturering van en informatieverstrekking over elektriciteit en gas
+
+##### Artikel 6
+
+Vervallen
+
+#### § 6. Monitoring
+
+##### Artikel 7
+
+1. In het kader van het beleid op het gebied van energiebesparing verzamelt, analyseert en bewerkt Onze Minister inlichtingen en gegevens met betrekking tot:
+
+- a. energieverbruik;
+
+- b. maatregelen ter verbetering van de energie-efficiëntie;
+
+- c. overige maatregelen ter verbetering van energiebesparing.
+
+2. Onze Minister gebruikt gegevens of inlichtingen, welke hij heeft verkregen in verband met enige werkzaamheid ten behoeve van de uitvoering van de taak, bedoeld in het eerste lid, uitsluitend voor de uitvoering van die taak.
+
+3. Ter uitvoering van de taak, bedoeld in het eerste lid, kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld omtrent:
+
+- a. degenen van wie Onze Minister kan verlangen dat zij hem gegevens en inlichtingen verstrekken;
+
+- b. de gegevens en inlichtingen waarvan Onze Minister kan verlangen dat zij hem worden verstrekt;
+
+- c. de termijn waarbinnen de gegevens en inlichtingen aan Onze Minister worden verstrekt;
+
+- d. de wijze waarop de gegevens en inlichtingen aan Onze Minister worden verstrekt;
+
+- e. de vorm waarin de gegevens en inlichtingen aan Onze Minister worden verstrekt.
+
+##### Artikel 8
+
+1. Onze Minister kan een ander opdragen werkzaamheden te verrichten ter uitvoering van de taak, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=6&artikel=7&z=2026-01-01&g=2026-01-01). In dat geval zijn artikel 7, tweede en derde lid, van overeenkomstige toepassing.
+
+2. Indien de taak, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=6&artikel=7&z=2026-01-01&g=2026-01-01), aan een ander is opgedragen en deze bij de uitvoering van deze taak de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, is hij verplicht tot geheimhouding van de gegevens, behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht.
+
+### Hoofdstuk 2. Energiebesparing energiegerelateerde producten
+
+#### § 1. Energiegerelateerde producten
+
+##### Artikel 10
+
+1. Bij of krachtens algemene maatregel van bestuur kunnen, in het belang van het doelmatig gebruik van energie, regels worden gesteld met betrekking tot energiegerelateerde producten.
+
+2. Tot de regels, bedoeld in het eerste lid, kunnen behoren regels, inhoudende een verbod categorieën van energiegerelateerde producten in of uit te voeren, ten verkoop voorhanden te hebben, ten verkoop aan te bieden, ten toon te stellen, te verkopen, te verhuren, af te leveren of te installeren, dan wel te gebruiken:
+
+- a. indien het energiegerelateerde product niet voldoet aan de bij of krachtens het besluit gestelde eisen;
+
+- b. indien het energiegerelateerde product dan wel het type, waartoe het energiegerelateerde product behoort, niet bij een keuring is goedgekeurd.
+
+3. Tot de regels, bedoeld in het eerste lid, kunnen behoren regels, inhoudende het verbod categorieën van energiegerelateerde producten te installeren of te gebruiken op een bepaalde plaats of wijze of onder bepaalde omstandigheden.
+
+4. De regels, bedoeld in het eerste lid, zijn niet van toepassing op het gebruik van energiegerelateerde producten in woningen of op erven in de sfeer van de particuliere huishouding of een daarmee bij algemene maatregel van bestuur gelijk te stellen huishouding.
+
+##### Artikel 11
+
+1. Indien toepassing wordt gegeven aan [artikel 10, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2026-01-01&g=2026-01-01), wijst Onze Minister een of meer instellingen aan, die de in die bepaling bedoelde keuringen verrichten.
+
+2. Bij of krachtens algemene maatregel van bestuur kunnen ten aanzien van een keuring als bedoeld in [artikel 10, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2026-01-01&g=2026-01-01), regels worden gesteld omtrent:
+
+- a. de aanvraag;
+
+- b. de wijze waarop de keuring plaatsheeft;
+
+- c. de voorwaarden waaronder een goedkeuring kan worden verkregen;
+
+- d. de termijn, voor welke een goedkeuring van kracht is.
+
+3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent:
+
+- a. het gebruik van aanduidingen inzake de goedkeuring;
+
+- b. de gevallen waarin een goedkeuring kan worden geschorst of ingetrokken;
+
+- c. de wijze waarop een goedkeuring kan worden geschorst of ingetrokken;
+
+##### Artikel 12
+
+1. Indien met betrekking tot het type, waartoe een energiegerelateerd product behoort, goedkeuring is voorgeschreven en verkregen, is de vervaardiger of de importeur van de betrokken energiegerelateerde producten gehouden een ingevolge [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=11&z=2026-01-01&g=2026-01-01), aangewezen instelling in de gelegenheid te stellen te controleren of energiegerelateerde producten overeenkomstig het goedgekeurde type zijn of worden vervaardigd.
+
+2. Indien met betrekking tot enige categorie van energiegerelateerde producten goedkeuring van het type is voorgeschreven, kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld omtrent:
+
+- a. de wijze waarop de controle, bedoeld in het eerste lid, wordt uitgeoefend;
+
+- b. de normen volgens welke de controle plaatsvindt;
+
+- c. de vergoeding van de voor de controle gemaakte kosten van de ingevolge artikel 11, eerste lid, aangewezen instelling.
+
+3. De ingevolge [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=11&z=2026-01-01&g=2026-01-01), aangewezen instelling wijst de personen aan, die met de controle zullen zijn belast.
+
+4. De vervaardiger of de importeur van de energiegerelateerde producten is gehouden aan de ingevolge het derde lid aangewezen personen, indien deze zich behoorlijk als zodanig hebben bekendgemaakt, alle medewerking te verlenen en alle inlichtingen met betrekking tot die energiegerelateerde producten te verstrekken, die zij redelijkerwijs bij de vervulling van hun taak behoeven.
+
+##### Artikel 13
+
+1. Bij of krachtens algemene maatregel van bestuur kunnen, in het belang van een doelmatig gebruik van energie, regels worden gesteld ten aanzien van:
+
+- a. gegevens en aanwijzingen met betrekking tot het energieverbruik van energiegerelateerde producten;
+
+- b. gegevens over andere eigenschappen van energiegerelateerde producten die samenhangen met de gegevens, bedoeld in onderdeel a;
+
+- c. bepaalde identificatiegegevens van energiegerelateerde producten.
+
+2. Tot de regels, bedoeld in het eerste lid, kunnen behoren regels, inhoudende:
+
+- a. de verplichting om met betrekking tot energiegerelateerde producten, behorende tot een bij of krachtens het besluit aangewezen categorie, gegevens of aanwijzingen als bedoeld in het eerste lid beschikbaar te hebben of te verstrekken, die voldoen aan bij of krachtens het besluit gestelde eisen;
+
+- b. het verbod om met betrekking tot energiegerelateerde producten, behorende tot een bij of krachtens het besluit aangewezen categorie, gegevens of aanwijzingen als bedoeld in het eerste lid beschikbaar te hebben of te verstrekken, indien die gegevens of aanwijzingen niet voldoen aan bij of krachtens het besluit gestelde eisen;
+
+- c. de verplichting om in de gevallen, bedoeld in de onderdelen a of b, gegevens of aanwijzingen als bedoeld in het eerste lid, beschikbaar te hebben of te verstrekken op een bij of krachtens het besluit aangegeven wijze;
+
+- d. de verplichting aan de hand van bij of krachtens het besluit gestelde regels onderzoek te verrichten ter vaststelling of ter toetsing van gegevens als bedoeld in het eerste lid omtrent energiegerelateerde producten, behorende tot een bij of krachtens het besluit aangewezen categorie;
+
+- e. de verplichting op een bij of krachtens het besluit aangegeven wijze een administratie te voeren van het onderzoek, bedoeld in onderdeel d, en van de daarbij verkregen resultaten, alsmede de verplichting om de bescheiden, behorende tot die administratie, gedurende een bepaalde termijn te bewaren;
+
+- f. het verbod in de onderdelen a of b bedoelde gevallen gegevens als bedoeld in het eerste lid beschikbaar te hebben of te verstrekken, welke niet overeenstemmen met de resultaten van een onderzoek als bedoeld in onderdeel d dan wel niet overeenstemmen met de resultaten van een keuring, verricht aan de hand van de bij of krachtens het besluit daartoe vastgestelde voorschriften;
+
+- g. de verplichting om in de bij of krachtens het besluit aangegeven gevallen op een bij of krachtens het besluit aangegeven wijze het bij of krachtens het besluit aangegeven kenmerk te vermelden of gegevens te verstrekken ter identificatie van de partij of serie, waartoe energiegerelateerde producten behoren, of van het type van energiegerelateerde producten, dan wel de bij of krachtens het besluit aangewezen gegevens ter identificatie van de vervaardiger, de importeur of een ander van wie de energiegerelateerde producten afkomstig zijn.
+
+3. De eisen, bedoeld in het tweede lid, onderdelen a of b, kunnen worden gesteld met betrekking tot een bij of krachtens het besluit aangegeven groep van energiegerelateerde producten. Daarbij kunnen regels worden gesteld volgens welke bij een onderzoek als bedoeld in het tweede lid, onderdeel d, aan de hand van onderzoek met betrekking tot een uit die groep genomen steekproef kan worden getoetst of aan de eisen is voldaan.
+
+4. Met betrekking tot keuringen als bedoeld in het tweede lid, onderdeel f, is [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=12&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
+
+##### Artikel 14
+
+1. De regels, bedoeld in de [artikelen 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2026-01-01&g=2026-01-01), en [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2026-01-01&g=2026-01-01), zijn niet van toepassing op energiegerelateerde producten in woningen of op erven in de sfeer van de particuliere huishouding.
+
+2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de gelijkstelling met een huishouding als bedoeld in het eerste lid.
+
+##### Artikel 15
+
+Indien regels als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2026-01-01&g=2026-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2026-01-01&g=2026-01-01) worden gesteld, wordt daarbij tevens een termijn bepaald, waarna die regels van toepassing zijn ten aanzien van energiegerelateerde producten, die bij het in werking treden van de regels reeds vervaardigd en in Nederland aanwezig zijn.
+
+#### § 2. Overige bepalingen
+
+##### Artikel 16
+
+1. Bij algemene maatregel van bestuur kan aan Onze Minister de bevoegdheid worden verleend om vrijstelling en, op aanvraag, ontheffing te verlenen van dit hoofdstuk en de daarop berustende bepalingen.
+
+2. Bij of krachtens algemene maatregel van bestuur kunnen regels over de vrijstelling en ontheffing worden gesteld.
+
+3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de aanvraag, bedoeld in het eerste lid.
+
+4. Een ontheffing als bedoeld in het eerste lid kan onder beperkingen worden verleend.
+
+5. Aan een ontheffing als bedoeld in het eerste lid kan voorschriften worden verbonden.
+
+##### Artikel 17
+
+1. Bij algemene maatregel van bestuur kan een bedrag worden vastgesteld, dat ter zake van een verzoek, gedaan op grond van op dit hoofdstuk berustende bepalingen, door de verzoeker dient te worden betaald.
+
+2. Bij een maatregel als bedoeld in het eerste lid wordt aangewezen degene, aan wie het bedrag, bedoeld in het eerste lid, dient te worden voldaan.
+
+3. Bij of krachtens een maatregel als bedoeld in het eerste lid kunnen regels worden gesteld omtrent het tijdstip en de wijze van de betaling van het bedrag, bedoeld in het eerste lid.
+
+##### Artikel 17a
+
+Voor zover energiegerelateerde producten bij of krachtens [titel 9.4 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&titeldeel=9.4) voorschriften zijn vastgesteld, die op dezelfde onderwerpen betrekking hebben als waarvoor bij of krachtens dit hoofdstuk voorschriften zijn vastgesteld, blijven laatstgenoemde voorschriften buiten toepassing.
+
+##### Artikel 18
+
+1. Grote ondernemingen ondergaan tenminste eens per vier jaar een energie-audit en sturen daarvan een verslag aan Onze Minister.
+
+2. In afwijking van het eerste lid, stuurt een onderneming, uiterlijk op 31 december 2020 het verslag van een energie-audit aan Onze Minister indien de onderneming niet voor 31 december 2016 het verslag van een energie-audit aan het bevoegd gezag heeft toegestuurd.
+
+3. Bij algemene maatregel van bestuur kunnen regels worden gesteld over:
+
+- a. de wijze waarop de energie-audit wordt uitgevoerd;
+
+- b. eisen aan het verslag van de energie-audit;
+
+- c. de wijze waarop het verslag van de energie-audit aan Onze Minister wordt verstuurd.
+
+4. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de toepassing van energie- of milieubeheersystemen of keurmerken waarmee invulling kan worden gegeven aan de auditverplichting.
+
+5. Onze Minister stelt de verslagen van de energie-audits die voldoen aan de eisen, gesteld krachtens het derde lid, ter beschikking aan bij algemene maatregel van bestuur aangewezen bestuursorganen.
+
+### Hoofdstuk 2a. Energiebesparing door grote ondernemingen
+
+##### Artikel 19
+
+Met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=3&artikel=4&z=2026-01-01&g=2026-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=4&artikel=5&z=2026-01-01&g=2026-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=5&artikel=6&z=2026-01-01&g=2026-01-01), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=5&artikel=6a&z=2026-01-01&g=2026-01-01) en [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=6&artikel=7&z=2026-01-01&g=2026-01-01), is belast de Autoriteit Consument en Markt.
+
+##### Artikel 20
+
+Vervallen
+
+##### Artikel 21
+
+De Autoriteit Consument en Markt kan een last onder dwangsom opleggen terzake van overtreding van het bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=3&artikel=4&z=2026-01-01&g=2026-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=4&artikel=5&z=2026-01-01&g=2026-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=5&artikel=6&z=2026-01-01&g=2026-01-01), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=5&artikel=6a&z=2026-01-01&g=2026-01-01) en [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=6&artikel=7&z=2026-01-01&g=2026-01-01), bepaalde.
+
+##### Artikel 22
+
+1. De Autoriteit Consument en Markt kan in geval van overtreding van het bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=3&artikel=4&z=2026-01-01&g=2026-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=4&artikel=5&z=2026-01-01&g=2026-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=4&artikel=5&z=2026-01-01&g=2026-01-01), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=5&artikel=6a&z=2026-01-01&g=2026-01-01) en [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=6&artikel=7&z=2026-01-01&g=2026-01-01), bepaalde, de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 900.000 of, indien dat meer is, 1% van de omzet van de overtreder.
+
+2. De bestuurlijke boete die ingevolge het eerste lid ten hoogste kan worden opgelegd wordt verhoogd met 100%, indien binnen een tijdvak van vijf jaar voorafgaand aan de dagtekening van het van de overtreding opgemaakte rapport, bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48), een aan die overtreder voor een eerdere overtreding van eenzelfde of een soortgelijk wettelijk voorschrift opgelegde bestuurlijke boete onherroepelijk is geworden.
+
+##### Artikel 23
+
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2a&artikel=18&z=2026-01-01&g=2026-01-01), is belast Onze Minister.
+
+2. Onze Minister kan een last onder dwangsom opleggen ter zake van een overtreding van het bij of krachtens [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2a&artikel=18&z=2026-01-01&g=2026-01-01) bepaalde.
+
+##### Artikel 24
+
+Vervallen
+
+##### Artikel 25
+
+Vervallen
+
+##### Artikel 26
+
+Vervallen
+
+##### Artikel 27
+
+Vervallen
+
+##### Artikel 28
+
+Vervallen
+
+##### Artikel 29
+
+Vervallen
+
+##### Artikel 30
+
+Vervallen
+
+### Hoofdstuk 4. Handhaving energiebesparing energiegerelateerde producten
+
+##### Artikel 31
+
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 10 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2026-01-01&g=2026-01-01) zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
+
+2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
+
+3. In afwijking van het tweede lid kan bij algemene maatregel van bestuur het toezicht op de naleving van het bepaalde bij of krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2026-01-01&g=2026-01-01) worden opgedragen aan de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2).
+
+##### Artikel 32
+
+Van elk krachtens [artikel 5:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) onderzocht energiegerelateerde product, wordt aan de belanghebbende op diens verzoek een vergoeding gegeven ter grootte van het bedrag waarmee de verkoopwaarde daarvan ten gevolge van het onderzoek is verminderd.
+
+##### Artikel 33
+
+1. Bij algemene maatregel van bestuur kan worden bepaald, dat, in geval aan [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2026-01-01&g=2026-01-01), toepassing is gegeven of in andere bij dat besluit aangewezen categorieën van gevallen de krachtens [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=4&artikel=31&z=2026-01-01&g=2026-01-01), aangewezen ambtenaren volgens bij of krachtens dat besluit gestelde regels aan de hand van een onderzoek van een deel, dat als steekproef is genomen uit een bij dat besluit omschreven groep van energiegerelateerde producten, kunnen vaststellen of die groep voldoet aan de bij dat besluit aangewezen eisen of voorschriften, gesteld krachtens de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2026-01-01&g=2026-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2026-01-01&g=2026-01-01).
+
+2. Tot de regels, bedoeld in het eerste lid, kunnen betrekking hebben op:
+
+- a. de mededeling of de openbaarmaking van de uitslag van een onderzoek, dat met toepassing van het krachtens het eerste lid bepaalde is verricht;
+
+- b. het verbod voor degene onder wie alle tot de steekproef behorende energiegerelateerde producten zijn aangetroffen, om, nadat de steekproef is genomen, energiegerelateerde producten, behorende tot de krachtens het eerste lid omschreven groep, waartoe de steekproef behoort, af te leveren, zolang hem een mededeling als bedoeld in onderdeel a niet is gedaan.
+
+3. Indien met toepassing van het krachtens het eerste lid bepaalde wordt vastgesteld dat een groep niet aan de bij dat besluit aangewezen eisen of voorschriften, bedoeld in het eerste lid, voldoet, kan bij algemene maatregel van bestuur worden bepaald dat:
+
+- a. volgens bij dat besluit gestelde regels aan een betrokkene de gelegenheid wordt geboden om tegenbewijs te leveren;
+
+- b. de desbetreffende groep of een deel daarvan niet mag worden afgeleverd alvorens ten aanzien daarvan de maatregelen zijn genomen, die bij of krachtens dat besluit zijn voorgeschreven;
+
+- c. in de bij het besluit aangewezen gevallen er geen sprake is van een strafbaar feit wegens overtreding van het krachtens de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2026-01-01&g=2026-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2026-01-01&g=2026-01-01) bepaalde;
+
+- d. de desbetreffende groep niet in de handel mag worden gebracht, uit de handel wordt genomen, of niet in gebruik genomen mag worden.
+
+### Hoofdstuk 5. Overige bepalingen
+
+##### Artikel 34
+
+Vervallen
+
+##### Artikel 34a
+
+De voordracht voor een krachtens deze wet vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+
+### Hoofdstuk 6. Wijziging van andere wetten
+
+##### Artikel 35
+
+Wijzigt de Wet op de economische delicten.
+
+##### Artikel 36
+
+Wijzigt de Wet milieubeheer.
+
+### Hoofdstuk 5. Overige bepalingen
+
+##### Artikel 37
+
+Wijzigt deze wet.
+
+##### Artikel 38
+
+Wijzigt de Wet energiebesparing toestellen.
+
+##### Artikel 39
+
+Wijzigt deze wet.
+
+##### Artikel 40
+
+Na de inwerkingtreding van deze wet berust:
+
+- a. het [Besluit energie-efficiëntienormen koel- en vriesapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0008756) op de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2026-01-01&g=2026-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2026-01-01&g=2026-01-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2a&artikel=18&z=2026-01-01&g=2026-01-01) van deze wet;
+
+- b. het [Besluit energierendementseisen voorschakelapparaten voor fluorescentielampen](https://wetten.overheid.nl/jci1.3:c:BWBR0012851) op de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2026-01-01&g=2026-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2026-01-01&g=2026-01-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2a&artikel=18&z=2026-01-01&g=2026-01-01) van deze wet;
+
+- c. het [Besluit Energy Star-etiketteringsprogramma](https://wetten.overheid.nl/jci1.3:c:BWBR0013503) op de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2026-01-01&g=2026-01-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2a&artikel=18&z=2026-01-01&g=2026-01-01) van deze wet;
+
+- d. het [Besluit etikettering energiegebruik personenauto’s](https://wetten.overheid.nl/jci1.3:c:BWBR0011761) op [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2026-01-01&g=2026-01-01) van deze wet;
+
+- e. het [Besluit gastoestellen](https://wetten.overheid.nl/jci1.3:c:BWBR0005384) op de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2026-01-01&g=2026-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=11&z=2026-01-01&g=2026-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=12&z=2026-01-01&g=2026-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2026-01-01&g=2026-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=14&z=2026-01-01&g=2026-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=15&z=2026-01-01&g=2026-01-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2a&artikel=18&z=2026-01-01&g=2026-01-01) van deze wet;
+
+- f. het [Besluit rendementseisen cv-ketels](https://wetten.overheid.nl/jci1.3:c:BWBR0005828) op de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2026-01-01&g=2026-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2026-01-01&g=2026-01-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2a&artikel=18&z=2026-01-01&g=2026-01-01) van deze wet;
+
+- g. het [Kaderbesluit etikettering energiegebruik huishoudelijke apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0007551) op de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2026-01-01&g=2026-01-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2a&artikel=18&z=2026-01-01&g=2026-01-01) van deze wet.
+
+##### Artikel 41
+
+Indien [artikel IV, eerste lid, van het bij koninklijke boodschap van 9 februari 2007 ingediende voorstel van wet houdende wijziging van de Wet milieubeheer, de Wet energiebesparing toestellen en de Wet op de economische delicten ten behoeve van de implementatie van richtlijn nr. 2005/32/EG van het Europees Parlement en de Raad van de Europese Unie van 6 juli 2005 betreffende de totstandbrenging van een kader voor het vaststellen van eisen inzake ecologisch ontwerp voor energieverbruikende producten en tot wijziging van richtlijn 92/42/EEG van de Raad en de richtlijnen 96/57/EG en 2000/55/EG van het Europees Parlement en de Raad (Implementatiewet EG-richtlijn ecologisch ontwerp energieverbruikende producten)](https://wetten.overheid.nl/jci1.3:c:BWBR0022654&artikel=IV) (Kamerstukken II [2006/07](32006L0007), 30 958, nr. 2) tot wet wordt verheven en in werking treedt voor het tijdstip waarop [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2026-01-01&g=2026-01-01) van deze wet in werking treedt, berust op het tijdstip waarop artikel 10 van deze wet in werking treedt:
+
+- a. het [Besluit energie-efficiëntienormen koel- en vriesapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0008756) op de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2026-01-01&g=2026-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2026-01-01&g=2026-01-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2a&artikel=18&z=2026-01-01&g=2026-01-01) van deze wet en [artikel 9.4.4, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.4.4);
+
+- b. het [Besluit energierendementseisen voorschakelapparaten voor fluorescentielampen](https://wetten.overheid.nl/jci1.3:c:BWBR0012851) op de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2026-01-01&g=2026-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2026-01-01&g=2026-01-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2a&artikel=18&z=2026-01-01&g=2026-01-01) van deze wet en [artikel 9.4.4, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.4.4);
+
+- c. het [Besluit rendementseisen cv-ketels](https://wetten.overheid.nl/jci1.3:c:BWBR0005828) op de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2026-01-01&g=2026-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2026-01-01&g=2026-01-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2a&artikel=18&z=2026-01-01&g=2026-01-01) van deze wet en [artikel 9.4.4, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.4.4).
+
+##### Artikel 42
+
+Vervallen
+
+##### Artikel 43
+
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+##### Artikel 44
+
+Deze wet wordt aangehaald als: Wet uitvoering EU-handelingen energie-efficiëntie.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 6a
+
+1. In dit artikel wordt verstaan onder:
+
+- a. **eindafnemer van warmte:** een eindafnemer, niet zijnde een verbruiker als bedoeld in artikel 1, eerste lid, van de Warmtewet;
+
+- b. **leverancier van warmte:** een leverancier als bedoeld in [artikel 1, eerste lid, van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=1).
+
+2. Een leverancier van warmte heeft tot taak er zorg voor te dragen dat binnen een redelijke termijn aan een eindafnemer een individuele meetinrichting ter beschikking wordt gesteld die het actuele energieverbruik van warmte kan weergeven.
+
+3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent:
+
+- a. de eisen waaraan een meetinrichting als bedoeld in het eerste lid ten minste voldoet;
+
+- b. de tarieven voor de koop of het gebruik van een meetinrichting als bedoeld in het eerste lid.
+
+4. Indien een meetinrichting wordt geïnstalleerd, is deze op afstand uitleesbaar.
+
+5. Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de eisen waaraan een op afstand uitleesbare meetinrichting ten minste voldoet, waarbij in ieder geval regels worden gesteld ten aanzien van de beveiliging van meetgegevens.
+
+6. Een leverancier van warmte installeert een meter bij de afleverset voor warmte.
+
+7. Waar dat technisch haalbaar en kostenefficiënt is installeert een leverancier van warmte tevens een individuele meter om het warmteverbruik te meten in iedere eenheid in een appartementengebouw of iedere eenheid in een multifunctioneel gebouw die warmte ontvangt uit een warmtenet.
+
+8. Als de installatie van een individuele meter niet technisch haalbaar of niet kostenefficiënt is, installeert een leverancier van warmte waar dat kostenefficiënt is individuele kostenverdelers.
+
+9. Als de installatie van individuele kostenverdelers niet kostenefficiënt is, hanteert een leverancier van warmte een andere kostenefficiënte methode voor de meting van het warmteverbruik.
+
+10. De installatie van een individuele meter om het warmteverbruik te meten als bedoeld in het zevende tot en met negende lid is in elk geval technisch haalbaar en kostenefficiënt indien:
+
+- a. een bestaande meter wordt vervangen;
+
+- b. een nieuwe aansluiting wordt gemaakt in een nieuw gebouw;
+
+- c. een gebouw ingrijpend wordt gerenoveerd.
+
+Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de wijze waarop wordt bepaald in welke andere situaties de installatie van een individuele meter om het warmteverbruik te meten technisch haalbaar of kostenefficiënt is, onderscheidenlijk installatie van individuele kostenverdelers kostenefficiënt is.
+
+11. In een appartementengebouw of in een multifunctioneel gebouw baseert de leverancier van warmte de aan de verbruiker in rekening te brengen kosten op het verbruik in zijn eenheid en indien van toepassing worden de kosten voor verbruik van gemeenschappelijke ruimten verdeeld.
+
+12. [Artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=3&artikel=4&z=2026-01-01&g=2026-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=4&artikel=5&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing op eindafnemers als bedoeld in het eerste lid.
+
+#### § 6. Monitoring
+
+### Hoofdstuk 2. Energiebesparing energiegerelateerde producten
+
+#### § 1. Energiegerelateerde producten
+
+#### § 2. Overige bepalingen
+
+### Hoofdstuk 3. Handhaving energiebesparing
+
+### Hoofdstuk 4. Handhaving energiebesparing energiegerelateerde producten
+
+##### Artikel 33a
+
+Tenzij bij wettelijk voorschrift anders is bepaald is Onze Minister bevoegd de besluiten te nemen waartoe een voorschrift van Verordening (EU) 2017/1369 een markttoezichtautoriteit opdracht geeft of de keuze laat.
+
+##### Artikel 33b
+
+Bij ministeriële regeling kunnen nadere regels worden gesteld voor de uitvoering van productspecifieke gedelegeerde handelingen, vastgesteld op grond van artikel 16 van Verordening (EU) 2017/1369.
+
+##### Artikel 33c
+
+Onze Minister is bevoegd tot het opleggen van een last onder bestuursdwang ter handhaving van het bepaalde bij of krachtens de [artikelen 10, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2026-01-01&g=2026-01-01), [11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=11&z=2026-01-01&g=2026-01-01), [12, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=12&z=2026-01-01&g=2026-01-01) , [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2026-01-01&g=2026-01-01), [16, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=2&artikel=16&z=2026-01-01&g=2026-01-01), en [33, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=4&artikel=33&z=2026-01-01&g=2026-01-01), van deze wet alsmede de artikelen 3, eerste tot en met vijfde lid, 4, eerste, tweede, vierde en zesde lid, 5, eerste tot en met derde lid, 6, onderdelen a tot en met e, 9, tweede lid, en 11, dertiende lid, van Verordening (EU) 2017/1369.
+
+##### Artikel 33d
+
+1. Onze Minister is bevoegd een overtreder van het bepaalde bij of krachtens de [artikelen 10, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2026-01-01&g=2026-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2026-01-01&g=2026-01-01) en [33, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=4&artikel=33&z=2026-01-01&g=2026-01-01), van deze wet alsmede de artikelen 3, eerste tot en met vijfde lid, 4, eerste, tweede, vierde en zesde lid, 5, eerste lid, 6, onderdelen a, c tot en met e, artikel 9, eerste lid, laatste volzin, en vierde lid, en 11, dertiende lid, van Verordening (EU) 2017/1369 een bestuurlijke boete op te leggen.
+
+2. Bij algemene maatregel van bestuur wordt de hoogte van de bestuurlijke boete bepaald op de wijze als voorzien in het derde lid, met dien verstande dat de wegens een afzonderlijke overtreding te betalen geldsom ten hoogste het bedrag van de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), bedraagt.
+
+3. Bij de algemene maatregel van bestuur, bedoeld in het tweede lid, wordt voor elke daarin omschreven overtreding het bedrag van de daarvoor op te leggen boete bepaald waarbij afhankelijk van de aard van de overtreding en de gevolgen voor de eindgebruiker en de markt, wordt onderscheiden in een lage en een hoge categorie te betalen bestuurlijke boete. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de wijze waarop de boetehoogte wordt bepaald.
+
+4. De overtreding hoeft niet aan de officier van justitie te worden voorgelegd, indien het bedrag van de daarvoor overeenkomstig de algemene maatregel van bestuur, bedoeld in het tweede lid, op te leggen boete is bepaald in de lage categorie te betalen bestuurlijke boete.
+
+##### Artikel 33e
+
+1. Ter uitvoering van artikel 8, vijfde lid, van Verordening (EU) 2017/1369 kunnen bij ministeriële regeling de bedragen ter vergoeding van de kosten worden vastgesteld.
+
+2. Bij de in het eerste lid bedoelde regeling wordt de hoogte van de door te berekenen kosten vastgesteld op basis van de werkelijke kosten.
+
+### Hoofdstuk 6. Wijziging van andere wetten
+
+### Hoofdstuk 7. Overgangs- en slotbepalingen
+
+##### Artikel 39a
+
+Op een bij koninklijk besluit te bepalen tijdstip komen [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), en [6a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=5&artikel=6a&z=2026-01-01&g=2026-01-01), te luiden:
+
+Meetinrichtingen zijn op afstand uitleesbaar, tenzij dit niet kostenefficiënt is.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 18a
+
+1. Voor het verslag van een energie-audit dat is toegestuurd aan het bevoegd gezag, als bedoeld in [artikel 1 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779), gelden de eisen zoals deze golden op het moment van toesturen van het verslag.
+
+2. Een verslag van een energie-audit dat voor 1 juli 2019 is toegestuurd aan het bevoegd gezag, als bedoeld in [artikel 1 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779), wordt geacht tevens te zijn toegestuurd aan Onze Minister.
+
+### Hoofdstuk 3. Handhaving energiebesparing
+
+### Hoofdstuk 4. Handhaving energiebesparing energiegerelateerde producten
+
+### Hoofdstuk 5. Overige bepalingen
+
+### Hoofdstuk 5. Overige bepalingen
+
+### Hoofdstuk 6. Wijziging van andere wetten
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 31a
+
+1. Een krachtens [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=4&artikel=31&z=2026-01-01&g=2026-01-01), aangewezen ambtenaar is in afwijking van [artikel 5:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), bevoegd met medeneming van de benodigde apparatuur een woning te betreden zonder toestemming van de bewoner ten behoeve van de uitoefening van de bevoegdheden, bedoeld in artikel 14, vierde lid, onderdelen a, d en e, van [verordening (EU) 2019/1020](32920R2019).
+
+2. Voor het uitoefenen van de bevoegdheid, bedoeld in het eerste lid, is een voorafgaande machtiging vereist van de rechter-commissaris. In het verzoek om afgifte van een machtiging worden de proportionaliteit en subsidiariteit van het verzoek gemotiveerd. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen. [Artikel 171 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=171) is van overeenkomstige toepassing.
+
+3. Tegen de beslissing van de rechter-commissaris, bedoeld in het tweede lid, staat voor zover het verzoek om een machtiging niet is toegewezen, voor Onze Minister binnen veertien dagen beroep open bij de rechtbank, sector strafrecht.
+
+4. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) en [3 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=3) zijn niet van toepassing.
+
+##### Artikel 31b
+
+1. Een krachtens [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=4&artikel=31&z=2026-01-01&g=2026-01-01), aangewezen ambtenaar is bevoegd om, ter uitvoering van [verordening (EU) 2019/1020](32920R2019), onder verstrekking van onjuiste of onvolledige gegevens met betrekking tot zijn identiteit en hoedanigheid, energiegerelateerde producten te verkrijgen en hieraan gerelateerde handelingen te verrichten voor zover dat voor de vervulling van zijn taak noodzakelijk is. [Artikel 5:12, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12) is niet van toepassing.
+
+2. De ambtenaar die gebruik heeft gemaakt van de bevoegdheid, bedoeld in het eerste lid, maakt daarvan een schriftelijk verslag op waarin hij vermeldt:
+
+- a. zijn naam of nummer en hoedanigheid;
+
+- b. de motivering van de noodzaak tot uitoefening van de bevoegdheid;
+
+- c. de voorschriften op de naleving waarvan wordt toegezien;
+
+- d. het adres, waaronder indien van toepassing het elektronische adres, waar het energiegerelateerde product is verkregen, en voor zover bekend, de omschrijving van de betrokkene;
+
+- e. de onjuiste of onvolledige gegevens die bij de handelingen ten behoeve van het verkrijgen van het energiegerelateerde product zijn verstrekt;
+
+- f. de wijze waarop en het tijdvak waarin de handelingen hebben plaatsgevonden;
+
+- g. hetgeen tijdens het onderzoek van het energiegerelateerde product is verricht, gebleken en overigens is voorgevallen.
+
+##### Artikel 31c
+
+[Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) is van overeenkomstige toepassing voor zover een krachtens [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=4&artikel=31&z=2026-01-01&g=2026-01-01), aangewezen ambtenaar bijstand verleent aan een markttoezichtautoriteit als bedoeld in artikel 3, onderdeel 4, van [verordening (EU) 2019/1020](32920R2019) uit een andere lidstaat van de Europese Unie op grond van artikel 22 of artikel 23 van genoemde verordening.
+
+### Hoofdstuk 7. Overgangs- en slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

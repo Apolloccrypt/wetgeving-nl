@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel budgettair kader Wlz 2025"
 identifier: "BWBR0051672"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-10-30
-laatste_update: 2025-10-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051672"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-10-30"
+last_updated: "2025-10-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051672"
+soort: "zbo"
+stam_id: "17573193"
+version_id: "31009672"
+internal_id: "C44403591"
+label_id: "17474334"
+dtd_version: "2.0"
+original_entry_into_force: "2025-10-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051672/2025-10-30/0"
+intitule_bron: "Stcrt.2025-36601"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-10-21"
+intitule_published: "2025-10-29"
+intitule_in_force: "2025-10-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-36601"
+original_signed_date: "2025-10-21"
+original_published_date: "2025-10-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-36601"
+entry_into_force_date: "2025-10-30"
+jci_1_3: "jci1.3:c:BWBR0051672&z=2025-10-30&g=2025-10-30"
+jci_1_0: "1.0:c:BWBR0051672&g=2025-10-30"
+citeertitel_status: "officieel"
+signed_date: "2025-10-21"
+entry_into_force: "2025-10-30"
 ---
-
 # Beleidsregel budgettair kader Wlz 2025
 
 **Grondslag**
@@ -16,7 +41,7 @@ Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening ge
 
 Gelet op [artikel 49e, tweede lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=49e) verdeelt de NZa het door de Minister van VWS vastgestelde bedrag dat beschikbaar is voor het verlenen van zorg in natura en persoonsgebonden budgetten over de (zorgkantoor)regio’s als bedoeld in [artikel 4.2.4, tweede lid, van de Wet langdurige zorg (Wlz)](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4).
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -64,15 +89,15 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 Voor overige begrippen die in deze beleidsregel voorkomen en die niet hierboven worden vermeld, wordt verwezen naar de [Beleidsregel definities Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0051356).
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om de regionale verdeling van het budgettair kader vast te stellen waarbinnen de Wlz-uitvoerders/ zorgkantoren voor het jaar 2025 zorg kunnen contracteren voor zorg in natura (zin) of verleningsbeschikkingen kunnen afgeven voor de persoonsgebonden budgetten (pgb). Verder geeft deze beleidsregel aan op welke wijze de verwerking van de gemaakte productieafspraken in de budgetronde en herschikkingsronde in de budgetten van zorgaanbieders plaatsvindt. Tot slot geeft de beleidsregel aan op welke manieren middelen overgeheveld kunnen worden tussen de verschillende kaders. Het totale budgettair kader 2025 is bepaald door de Minister van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op de zorg of dienst als omschreven bij of krachtens de [Wet langdurige zorg (Wlz)](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) die wordt geleverd door zorgaanbieders.
 
-#### Artikel 4. Toedeling en opbouw budgettair kader 2025
+##### Artikel 4. Toedeling en opbouw budgettair kader 2025
 
 1. **Toedeling budgettair kader Wlz**
 
@@ -99,7 +124,7 @@ De geoormerkte ruimte binnen de contracteerruimte zin voor innovatie bedraagt �
 
 Het door de Minister van VWS beschikbaar gestelde bedrag voor pgb’s wordt omgerekend tot middelen zin en opgeteld bij het voor zin beschikbaar gestelde bedrag, om zo tot een netto Wlz kader te komen. Dit kader wordt volgens artikel 5 toegedeeld aan de regio’s. Wlz uitvoerder/zorgkantoren kunnen tot 15 november 2024 aangegeven wat het aandeel pgb moet zijn (zie [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0051672&artikel=8&z=2025-10-30&g=2025-10-30)). Dit aandeel wordt vervolgens weer gebruteerd (bruteringseffect).
 
-#### Artikel 5. Verdeling budgettair kader over de regio’s
+##### Artikel 5. Verdeling budgettair kader over de regio’s
 
 Het in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051672&artikel=4&z=2025-10-30&g=2025-10-30) beschreven Wlz kader wordt als volgt over de regio’s verdeeld.
 
@@ -117,7 +142,7 @@ Het in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051672&ar
 
 - 2. **Herverdelingsmiddelen artikel 4, tweede lid, onderdeel b, onder 4°** De demissionaire Staatssecretaris van Langdurige en Maatschappelijke zorg heeft besloten de herverdelingsmiddelen ad € 360 miljoen voor 2025 niet als extra middelen beschikbaar te stellen. Deze zijn dan ook elders ingezet. Dat betekent dat voor 2025 geen herverdelingsiddelen beschikbaar zijn. De NZa zal de Minister van VWS in 2025 informeren over de ontwikkelingen in het licht van de toereikendheid van het kader.
 
-#### Artikel 6. Toedeling budgettair kader naar zin en pgb
+##### Artikel 6. Toedeling budgettair kader naar zin en pgb
 
 De uitkomst van [artikel 5, eerste lid onder b, stap i t/m iv](https://wetten.overheid.nl/jci1.3:c:BWBR0051672&artikel=5&z=2025-10-30&g=2025-10-30) is een netto kader per regio. Om aan te sluiten bij de kaderbrief wordt dit netto kader gebruteerd door de NZa en verdeeld over de contracteerruimte voor zin en het pgb-kader. Eerst wordt het macro pgb kader verdeeld over de regio’s. Hiervoor wordt, per regio, het regionale pgb kader gedeeld door het macro pgb kader, om de procentuele verdeling te bepalen. Het betreft hier het regionale pgb kader en het macro pgb kader van jaar t-1 op peilmoment 15 september t-1. Deze verdeling wordt vermenigvuldigd met het bruto pgb kader van jaar 2025. Vervolgens wordt de contracteerruimte voor zin bepaald door het netto kader te verminderen met 0,86 maal het toegekende pgb kader.
 
@@ -125,13 +150,13 @@ Vervolgens kunnen Wlz-uitvoerders tot 15 november jaar t-1 aangeven of zij deze 
 
 Het totale kader, de beschikbare contracteerruimte en de verdeling van de pgb-middelen naar de verschillende regio’s wordt opgenomen in de [Regeling langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0036014).
 
-#### Artikel 7. Geoormerkte middelen
+##### Artikel 7. Geoormerkte middelen
 
 Naast de contracteerruimte als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051672&artikel=4&z=2025-10-30&g=2025-10-30) van deze beleidsregel, zijn er geoormerkte middelen voor innovatie beschikbaar.
 
 Voor de bekostiging van innovatie ten behoeve van nieuwe zorgprestaties is landelijk € 20 miljoen beschikbaar (zie [beleidsregel ‘Innovatie voor kleinschalige experimenten’](https://wetten.overheid.nl/jci1.3:c:BWBR0050215)). Dit bedrag wordt niet verdeeld over de regio’s.
 
-#### Artikel 8. Overhevelingen tussen regio’s
+##### Artikel 8. Overhevelingen tussen regio’s
 
 1. **Mogelijkheden voor overheveling**
 
@@ -155,7 +180,7 @@ Overhevelingen die worden ingediend tot 1 oktober jaar t zijn structureel, tenzi
 
 Overhevelingen voor de geoormerkte ruimte kwaliteitsbudget verpleeghuiszorg zijn incidenteel.
 
-#### Artikel 9. Overheveling in een regio
+##### Artikel 9. Overheveling in een regio
 
 1. **Mogelijkheid tot overhevelen**
 
@@ -175,11 +200,11 @@ Overhevelingen die ingediend worden na 1 oktober jaar t worden als incidentele o
 
 De NZa verwerkt de overhevelingen maandelijks in het overzicht ‘Verdeling budgettair kader Wlz 2025’. In dit overzicht is tevens de aansluiting met de kaderbrief terug te vinden. Deze maandelijkse overzichten zijn op de NZa-website te vinden.
 
-#### Artikel 10. Overheveling tussen [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (in de ggz-sector)
+##### Artikel 10. Overheveling tussen [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (in de ggz-sector)
 
 Het is mogelijk om middelen over te hevelen van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) naar de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en andersom. De voorwaarden hiervoor zijn opgenomen in de [Beleidsregel overheveling ggz budget Wlz-Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0051360). De Minister van VWS stelt het budgettair kader vast. Dit betekent dat de overhevelingen pas doorwerken in de regionale contracteerruimte(n) als het vastgestelde kader daadwerkelijk is aangepast door VWS.
 
-#### Artikel 11. Algemene verwerking budgetaanvragen 2025 zin
+##### Artikel 11. Algemene verwerking budgetaanvragen 2025 zin
 
 1. **Uiterste indieningstermijn en wijze van indienen**
 
@@ -199,7 +224,7 @@ Het is mogelijk om middelen over te hevelen van de [Wlz](https://wetten.overheid
 
 - b. **Productieafspraken binnen de contracteerruimte** Als partijen niet tot overeenstemming zijn gekomen over de hoogte van de productieafspraak dan kunnen Wlz-uitvoerder en/of zorgaanbieder een eenzijdige aanvraag bij de NZa indienen. Als in één budgetronde naast een tweezijdige aanvraag ook een eenzijdige aanvraag door een zorgaanbieder of zorgkantoor/Wlz-uitvoerder wordt ingediend, vergewist de NZa zich van de grondslag van de weigering van het zorgkantoor/de Wlz-uitvoerder of de zorgaanbieder om de aanvraag mede te ondertekenen. De eenzijdige aanvraag wijst de NZa af tenzij de NZa de weigering van het zorgkantoor/de Wlz-uitvoerder of de zorgaanbieder kennelijk onredelijk acht. Tweezijdige indiening is van belang om de volgende redenen. Zorgkantoren/Wlz-uitvoerders en zorgaanbieders moeten voor indiening van een aanvraag overtuigd zijn van de juistheid ervan. De NZa ontvangt elke budgetronde vele verzoeken. Partijen en de NZa zijn gebaat bij goede afspraken voorafgaand aan indiening van productieafspraken. Dat bevordert een correcte indiening alsmede efficiënte en effectieve afhandeling van alle aanvragen. Bij een tweezijdige indiening bestaat er kennelijk overeenstemming. Bij een en ander past dat de NZa aansluit bij de tweezijdige aanvraag. Een zorgaanbieder zonder initiële budgetafspraken kan gedurende het jaar (tot 1 oktober jaar t) alleen een beschikking ontvangen naar aanleiding van een bij de NZa ingediende tweezijdige aanvraag. Tweezijdige indiening is van belang om de volgende redenen. Het gaat om indiening ten behoeve van (a) een nieuwe zorgaanbieder. Bovendien gaat het om indiening (b) buiten de reguliere budgetronde of herschikkingsronde om waardoor – anders dan gebruikelijk en wenselijk – aanvragen niet in samenhang met alle andere budgetafspraken kunnen worden beoordeeld. Gelet op het voorgaande stelt de NZa de extra waarborg van tweezijdige indiening om balans te bereiken tussen wensen van partijen, nut, noodzakelijkheid, rechtmatigheid en doelmatigheid van productieafspraken. Indien een eenzijdige aanvraag wordt ingediend, vergewist de NZa zich van de grondslag van de weigering van het zorgkantoor of de zorgaanbieder om de aanvraag mede te ondertekenen. Een eenzijdige aanvraag wijst de NZa af tenzij de NZa de weigering van het zorgkantoor/de Wlz-uitvoerder of de zorgaanbieder kennelijk onredelijk acht.
 
-#### Artikel 12. Beslismodel
+##### Artikel 12. Beslismodel
 
 In het eerste lid van dit artikel wordt aangegeven van welke productieafspraak de NZa uitgaat voor de toetsing van de afspraak aan de beschikbare contracteerruimte exclusief geoormerkte middelen.
 
@@ -219,7 +244,7 @@ Hoe de NZa omgaat met aanpassingen van de eerder vastgestelde gehonoreerde produ
 
 - –. Er worden twee eenzijdige, niet aan elkaar gelijk zijnde aanvragen ingediend. De eerder gehonoreerde productieafspraak (budgetronde) is een reële productieafspraak. Deze gehonoreerde productieafspraak ligt lager dan de bij de herschikkingsronde eenzijdig aangevraagde productieafspraken. De NZa gaat in dat geval bij de herschikking uit van de laagst aangevraagde productieafspraak van de herschikkingsronde als deze hoger ligt dan de eerder gehonoreerde productieafspraak.
 
-#### Artikel 13. Overschrijding contracteerruimte en geoormerkte ruimte
+##### Artikel 13. Overschrijding contracteerruimte en geoormerkte ruimte
 
 1. **Overschrijding van de contracteerruimte /geoormerkte ruimte**
 
@@ -237,7 +262,7 @@ Het voorgaande is niet van toepassing op de geoormerkte middelen Innovatie ([art
 
 - b. **Zzp-meerzorg** Bij de zzp-meerzorg is aanvullend van toepassing dat de toename van de omzet zzp-meerzorg als gevolg van een verhuizing van een cliënt waarvoor reeds meerzorg is gedeclareerd door de zorgaanbieder waar de cliënt verbleef voor de verhuizing, buiten beschouwing wordt gelaten bij de correctie indien een overheveling van omzet heeft plaatsgevonden van de oude zorgaanbieder naar de nieuwe zorgaanbieder.
 
-#### Artikel 14. Overschrijding pgb-kader
+##### Artikel 14. Overschrijding pgb-kader
 
 Indien een zorgkantoor verwacht het regionale pgb-kader te overschrijden, moet dit tijdig kenbaar worden gemaakt bij de NZa. Hierbij moet niet worden gewacht tot de maandelijkse informatieverstrekking aan de NZa.
 
@@ -251,13 +276,13 @@ Een zorgkantoorregio mag het beschikbaar gestelde pgb subsidieplafond niet overs
 
 - –. bij het uitblijven van middelen een pgb-stop invoeren en indien mogelijk zorg in natura aanbieden.
 
-#### Artikel 15. Intrekken/Vervallen oude beleidsregel(s)
+##### Artikel 15. Intrekken/Vervallen oude beleidsregel(s)
 
 De [Beleidsregel budgettair kader Wlz 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0050347), met kenmerk BR/REG-24116d, die een geldigheidsduur heeft tot 1 juli 2025, is op laatstgenoemde datum van rechtswege vervallen.
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel budgettair kader Wlz 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0051361), met kenmerk BR/REG-25124c, ingetrokken.
 
-#### Artikel 16. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
+##### Artikel 16. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
 
 De [Beleidsregel budgettair kader Wlz 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0050347) met kenmerk BR/REG-24116d, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

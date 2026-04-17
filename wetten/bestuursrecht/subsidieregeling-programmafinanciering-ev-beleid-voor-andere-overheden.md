@@ -1,20 +1,45 @@
 ---
-title: "Subsidieregeling Programmafinanciering EV-beleid voor andere overheden"
+title: "Subsidieregeling Programmafinanciering Externeveiligheidsbeleid voor andere overheden"
 identifier: "BWBR0016863"
-categorie: "Bestuursrecht"
-publicatiedatum: 2005-12-02
-laatste_update: 2005-12-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016863"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2005-12-02"
+last_updated: "2005-12-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016863"
+soort: "ministeriele-regeling"
+stam_id: "5911843"
+version_id: "10502662"
+internal_id: "C14265271"
+label_id: "5901554"
+original_entry_into_force: "2004-06-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016863/2005-12-02/0"
+intitule_bron: "Stcrt.2004-114"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-06-11"
+intitule_published: "2004-06-18"
+intitule_in_force: "2004-06-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-114"
+original_signed_date: "2004-06-11"
+original_published_date: "2004-06-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-114-p16-SC65399"
+entry_into_force_date: "2004-06-20"
+jci_1_3: "jci1.3:c:BWBR0016863&z=2005-12-02&g=2005-12-02"
+jci_1_0: "1.0:c:BWBR0016863&g=2005-12-02"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling Programmafinanciering EV-beleid voor andere overheden"
+signed_date: "2004-06-11"
+entry_into_force: "2004-06-20"
 ---
-
 # Subsidieregeling Programmafinanciering Externeveiligheidsbeleid voor andere overheden
 
 Gelet op [artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.13);
 
 Besluit:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In deze regeling wordt verstaan onder:
 
@@ -26,13 +51,13 @@ In deze regeling wordt verstaan onder:
 
 - d. de minister: de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 1. Deze regeling heeft tot doel het stimuleren van de uitvoering van het externeveiligheidsbeleid en het bevorderen van de samenwerking door gemeenten, provincies en regionale samenwerkingsverbanden op het gebied van externe veiligheid.
 
 2. Subsidie kan worden verstrekt op aanvraag van een provincie ter zake van de kosten van activiteiten die zijn opgenomen in een provinciaal programma als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016863&artikel=3&z=2005-12-02&g=2005-12-02) en naar het oordeel van de minister bijdragen aan de realisatie van de doelstellingen van de subsidieregeling. De activiteiten moeten voor 1 april 2006 zijn afgerond.
 
-#### Artikel 3. Provinciaal programma
+##### Artikel 3. Provinciaal programma
 
 1. Een provinciaal programma bestaat uit een aantal van de volgende projecten op het gebied van externe veiligheid:
 
@@ -62,7 +87,7 @@ In deze regeling wordt verstaan onder:
 
 2. Het programma mag naast de in het eerste lid genoemde onderdelen voor ten hoogste eenderde van de middelen bestaan uit regiospecifieke projecten gericht op externe veiligheid.
 
-#### Artikel 4. Voorwaarden
+##### Artikel 4. Voorwaarden
 
 Een provincie komt in aanmerking voor subsidie voor de uitvoeringskosten van activiteiten gericht op de versterking van de uitvoering van het externeveiligheidsbeleid, onder de volgende voorwaarden:
 
@@ -84,7 +109,7 @@ Een provincie komt in aanmerking voor subsidie voor de uitvoeringskosten van act
 
 - f. het ingediende provinciaal programma is in afstemming met de gemeenten opgesteld.
 
-#### Artikel 5. Beoordelingscriteria
+##### Artikel 5. Beoordelingscriteria
 
 Een provinciaal programma moet verder voldoen aan de volgende voorwaarden:
 
@@ -96,7 +121,7 @@ Een provinciaal programma moet verder voldoen aan de volgende voorwaarden:
 
 - d. het programma streeft een evenwichtige keuze van activiteiten na.
 
-#### Artikel 6. Subsidiabele kosten
+##### Artikel 6. Subsidiabele kosten
 
 1. Als subsidiabele kosten worden in aanmerking genomen de volgende noodzakelijke, rechtstreeks aan de uitvoering van het provinciaal programma toe te rekenen en door de aanvrager tot subsidieverlening gemaakte en betaalde uitvoeringskosten:
 
@@ -110,7 +135,7 @@ Een provinciaal programma moet verder voldoen aan de volgende voorwaarden:
 
 3. In afwijking van het eerste lid, mag de berekening van het uurloon en de vaststelling van het opslagpercentage voor algemene kosten met inbegrip van indirecte loonkosten en kosten van toezichthoudend personeel geschieden overeenkomstig een voor de gehele organisatie van de aanvrager tot subsidieverlening geldende en controleerbare methodiek.
 
-#### Artikel 7. Niet-subsidiabele kosten
+##### Artikel 7. Niet-subsidiabele kosten
 
 De volgende kosten komen niet in aanmerking voor subsidie:
 
@@ -120,7 +145,7 @@ De volgende kosten komen niet in aanmerking voor subsidie:
 
 - c. de kosten gemaakt na 31 maart 2006.
 
-#### Artikel 8. Hoogte van de subsidie
+##### Artikel 8. Hoogte van de subsidie
 
 Het subsidieplafond bedraagt voor subsidies als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0016863&artikel=7&z=2005-12-02&g=2005-12-02) voor de kalenderjaren 2004 en 2005 per provincie (afgerond naar duizenden euro’s):
 
@@ -139,7 +164,7 @@ Het subsidieplafond bedraagt voor subsidies als bedoeld in [artikel 7](https://w
 | Zeeland | 1.091.000 | 727.000 | 364.000 |
 | Zuid-Holland | 6.145.000 | 4.097.000 | 2.048.000 |
 
-#### Artikel 9. Verplichtingen van de subsidieontvanger
+##### Artikel 9. Verplichtingen van de subsidieontvanger
 
 De subsidieontvanger is verplicht:
 
@@ -149,7 +174,7 @@ De subsidieontvanger is verplicht:
 
 - c. het verslag te overhandigen omtrent het verloop, de uitvoering en de resultaten van het plan van aanpak, bedoeld in [artikel 14, tweede lid, onderdeel a, van het Besluit milieusubsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0010065&artikel=14). Het verslag dient in afwijking van het gestelde in [artikel 14 van het Besluit milieusubsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0010065&artikel=14) binnen zes maanden na uitvoering van het plan van aanpak aan de Minister te worden verstrekt.
 
-#### Artikel 10. Aanvraag tot subsidieverlening en subsidievaststelling
+##### Artikel 10. Aanvraag tot subsidieverlening en subsidievaststelling
 
 1. Een aanvraag tot subsidieverlening en subsidievaststelling kan alleen worden ingediend door een provincie.
 
@@ -157,11 +182,11 @@ De subsidieontvanger is verplicht:
 
 3. Een aanvraag tot subsidieverlening in dit kader, kan eenmalig worden gedaan en dient voor 1 juli 2004 te geschieden.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Deze regeling treedt in werking na de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling Programmafinanciering EV-beleid voor andere overheden.
 

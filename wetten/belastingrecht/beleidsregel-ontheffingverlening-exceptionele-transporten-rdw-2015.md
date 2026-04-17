@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel Ontheffingverlening exceptionele transporten RDW 2015"
 identifier: "BWBR0035903"
-categorie: "Belastingrecht"
-publicatiedatum: 2022-05-01
-laatste_update: 2022-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035903"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-05-01"
+last_updated: "2022-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035903"
+soort: "zbo"
+stam_id: "12877003"
+version_id: "21890092"
+internal_id: "C31414991"
+label_id: "12846664"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035903/2022-05-01/0"
+intitule_bron: "Stcrt.2014-35655"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-04"
+intitule_published: "2014-12-12"
+intitule_in_force: "2014-12-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-35655"
+original_signed_date: "2014-12-04"
+original_published_date: "2014-12-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-35655"
+entry_into_force_date: "2015-01-01"
+jci_1_3: "jci1.3:c:BWBR0035903&z=2022-05-01&g=2022-05-01"
+jci_1_0: "1.0:c:BWBR0035903&g=2022-05-01"
+citeertitel_status: "officieel"
+signed_date: "2014-12-04"
+entry_into_force: "2015-01-01"
 ---
-
 # Beleidsregel Ontheffingverlening exceptionele transporten RDW 2015
 
 Gelet op [artikel 149a, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149a), [artikel 4:83 van de Algemene wet Bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:83), het [Besluit ontheffingverlening exceptionele transporten](https://wetten.overheid.nl/jci1.3:c:BWBR0018680), het [Besluit voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025554), de [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) en de [Beleidsregel ontheffing gerelateerde voertuigdocumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0032805);
@@ -16,7 +41,7 @@ Besluit:
 
 #### § 1. Algemeen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van deze beleidsregel worden de begripsbepalingen van de [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) overgenomen.
 
@@ -42,15 +67,15 @@ Voorts wordt verstaan onder:
 
 - j. **VIN:** voertuigidentificatienummer als bedoeld in [verordening nr. 19/2011](32011R0019)/EU.
 
-#### Artikel 2. Toepassingsgebied
+##### Artikel 2. Toepassingsgebied
 
 Deze beleidsregel is van toepassing op de behandeling van aanvragen voor ontheffingen voor een exceptioneel transport op basis van [artikel 149a, tweede lid Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149a).
 
-#### Artikel 3. Soorten ontheffingen
+##### Artikel 3. Soorten ontheffingen
 
 Ontheffingen worden onderscheiden in langlopende ontheffingen en incidentele ontheffingen.
 
-#### Artikel 4. Langlopende ontheffing
+##### Artikel 4. Langlopende ontheffing
 
 1. Een langlopende ontheffing wordt verleend voor:
 
@@ -72,7 +97,7 @@ Ontheffingen worden onderscheiden in langlopende ontheffingen en incidentele ont
 
 - e. een maximale aslast van 10.000 kg dan wel 12.000 kg voor een pendelas.
 
-#### Artikel 5. Incidentele ontheffing
+##### Artikel 5. Incidentele ontheffing
 
 1. Een incidentele ontheffing kan worden verleend voor een bepaalde route en voor maximaal vier voertuigen of vier samenstellen van voertuigen.
 
@@ -98,7 +123,7 @@ Ontheffingen worden onderscheiden in langlopende ontheffingen en incidentele ont
 
 - b. plaats moet vinden ten behoeve van de opleiding en examinering voor het getuigschrift transportbegeleider.
 
-#### Artikel 6. Ontheffingen voor lengte bij onbeladen voertuigen
+##### Artikel 6. Ontheffingen voor lengte bij onbeladen voertuigen
 
 1. Een langlopende ontheffing voor een samenstel van voertuigen bestemd voor het vervoer van ondeelbare lading, waarbij in onbeladen toestand niet wordt voldaan aan [artikel 5.18.11 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.11), kan worden verleend:
 
@@ -120,7 +145,7 @@ Ontheffingen worden onderscheiden in langlopende ontheffingen en incidentele ont
 
 - 2°. tot een maximale lengte van 20 meter indien de oplegger is voorzien van een gedwongen besturing.
 
-#### Artikel 7. Ontheffingen voor lengte bij beladen voertuigen
+##### Artikel 7. Ontheffingen voor lengte bij beladen voertuigen
 
 1. Een langlopende ontheffing voor een samenstel van voertuigen bestemd voor het vervoer van ondeelbare lading, waarbij in beladen toestand niet wordt voldaan aan [artikel 5.18.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.11) respectievelijk [artikel 5.18.13 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.13) kan worden verleend:
 
@@ -146,7 +171,7 @@ Ontheffingen worden onderscheiden in langlopende ontheffingen en incidentele ont
 
 - 3°. indien het een samenstel van voertuigen betreft met zelfdragende lading waarbij de aanhangwagen voorzien is van zelfsturende dan wel gedwongen besturing.
 
-#### Artikel 8. Ontheffingsdocument met bijlagen
+##### Artikel 8. Ontheffingsdocument met bijlagen
 
 1. In het ontheffingsdocument wordt voor het voertuig of het samenstel van voertuigen vermeld:
 
@@ -178,23 +203,23 @@ Ontheffingen worden onderscheiden in langlopende ontheffingen en incidentele ont
 
 #### § 2. Aanvragen ontheffingen
 
-#### Artikel 9. Aanvraagformulier Ontheffing
+##### Artikel 9. Aanvraagformulier Ontheffing
 
 1. De aanvrager van een ontheffing dient zijn aanvraag te doen op het door de Dienst Wegverkeer vastgestelde model aanvraagformulier.
 
 2. Het aanvraagformulier wordt schriftelijk beschikbaar gesteld.
 
-#### Artikel 10. Wijze van indienen van de aanvraag
+##### Artikel 10. Wijze van indienen van de aanvraag
 
 Indiening van aanvragen kan uitsluitend schriftelijk plaatsvinden.
 
-#### Artikel 11. Intrekken van de aanvraag
+##### Artikel 11. Intrekken van de aanvraag
 
 1. Een ontheffingsaanvraag kan uitsluitend schriftelijk door de indiener worden ingetrokken.
 
 2. Het annuleren van een ingediende aanvraag wordt uitsluitend conform de actuele [Regeling tarieven Dienst Wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0034585)1Jaarlijks gepubliceerd in de Staatscourant behandeld indien de intrekking binnen 24 uur na registratie van de aanvraag is gedaan en op dat moment nog en niet de status in behandeling heeft.
 
-#### Artikel 12. Duur van de behandeling van de ontheffingsaanvraag
+##### Artikel 12. Duur van de behandeling van de ontheffingsaanvraag
 
 1. Aanvragen die binnen de autonome beslisruimte van de Dienst Wegverkeer vallen, worden in beginsel afgehandeld binnen 2 werkdagen.
 
@@ -202,7 +227,7 @@ Indiening van aanvragen kan uitsluitend schriftelijk plaatsvinden.
 
 3. Uitsluitend op last van de politie kan een ontheffingsaanvraag met spoed worden behandeld.
 
-#### Artikel 13. Beoordeling route aanvraag
+##### Artikel 13. Beoordeling route aanvraag
 
 1. De Dienst Wegverkeer hanteert bij de beoordeling van aanvragen ten aanzien van de hoogte bij in de route gelegen kunstwerken een speling van minimaal 0,15 meter ten opzichte van de hoogte van het exceptioneel transport.
 
@@ -216,7 +241,7 @@ Indiening van aanvragen kan uitsluitend schriftelijk plaatsvinden.
 
 - d. geen voertuigtechnische oplossingen mogelijk zijn.
 
-#### Artikel 14. Beoordeling beperking rijtijden en voorschrift transportbegeleiding wegbeheerder Rijk
+##### Artikel 14. Beoordeling beperking rijtijden en voorschrift transportbegeleiding wegbeheerder Rijk
 
 1. Bij de beoordeling van de aanvraag of een en welke rijtijdbeperking zal gaan gelden, of het voorschrift transportbegeleiding aan de ontheffing wordt verbonden, en welk aantal transportbegeleiders wordt voorgeschreven, geldt ten aanzien van de breedte van het transport op autosnelwegen, alsmede op nader door de wegbeheerder benoemde N-wegen, in beginsel het volgende toetsingskader:
 
@@ -254,7 +279,7 @@ Indiening van aanvragen kan uitsluitend schriftelijk plaatsvinden.
 
 6. Indien er sprake is van een aanvraag met een bijzondere voertuigconfiguratie kan het voorschrift transportbegeleiding uitgevoerd door één dan wel twee transportbegeleiders aan de ontheffing worden verbonden.
 
-#### Artikel 15. Beoordeling beperking rijtijden en voorschrift transportbegeleiding overige wegbeheerders en wegbeheerder Rijk voor N-wegen
+##### Artikel 15. Beoordeling beperking rijtijden en voorschrift transportbegeleiding overige wegbeheerders en wegbeheerder Rijk voor N-wegen
 
 1. Bij de beoordeling van de aanvraag of een en welke rijtijdbeperking zal gaan gelden, of het voorschrift transportbegeleiding aan de ontheffing wordt verbonden, en welk aantal transportbegeleiders wordt voorgeschreven, geldt in beginsel ten aanzien van de breedte van het transport bij wegen, niet zijnde autosnelwegen, alsmede nader door de wegbeheerder benoemde N-wegen het volgende toetsingskader:
 
@@ -294,7 +319,7 @@ Indiening van aanvragen kan uitsluitend schriftelijk plaatsvinden.
 
 6. Indien er sprake is van een aanvraag met een bijzondere voertuigconfiguratie kan het voorschrift transportbegeleiding uitgevoerd door één dan wel twee transportbegeleiders aan de ontheffing worden verbonden.
 
-#### Artikel 16. Nadere gegevens ontheffingsaanvraag
+##### Artikel 16. Nadere gegevens ontheffingsaanvraag
 
 1. Naar aanleiding van een ontheffingsaanvraag kunnen nadere gegevens worden opgevraagd ten behoeve van de beoordeling van:
 
@@ -336,7 +361,7 @@ Dit onderzoek wordt uitgevoerd aan de hand van het bepaalde in [artikel 13, eers
 
 #### § 3. Voorschriften verbonden aan ontheffingen
 
-#### Artikel 17. Voorschriften verbonden aan de ontheffing
+##### Artikel 17. Voorschriften verbonden aan de ontheffing
 
 1. De Dienst Wegverkeer verbindt aan iedere ontheffing algemene voorschriften, zoals opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0035903&bijlage=A&z=2022-05-01&g=2022-05-01).
 
@@ -344,19 +369,19 @@ Dit onderzoek wordt uitgevoerd aan de hand van het bepaalde in [artikel 13, eers
 
 #### § 4. Slotbepalingen
 
-#### Artikel 18. Overgangsbepaling
+##### Artikel 18. Overgangsbepaling
 
 De voor inwerkingtreding van deze beleidsregel aangevraagde en verleende ontheffingen behouden hun geldigheid voor de geldigheidsduur van de desbetreffende ontheffing.
 
-#### Artikel 19. Intrekking
+##### Artikel 19. Intrekking
 
 De [Beleidsregel Ontheffingverlening exceptionele transporten Dienst Wegverkeer 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033052) (Stct. 2013, nr. 7573) wordt ingetrokken.
 
-#### Artikel 20. Inwerkingtreding
+##### Artikel 20. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2015.
 
-#### Artikel 21. Citeertitel
+##### Artikel 21. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel Ontheffingverlening exceptionele transporten RDW 2015.
 

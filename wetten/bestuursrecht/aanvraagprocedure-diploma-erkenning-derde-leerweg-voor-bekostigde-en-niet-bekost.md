@@ -1,13 +1,35 @@
 ---
 title: "Aanvraagprocedure diploma-erkenning derde leerweg voor bekostigde en niet-bekostigde instellingen"
 identifier: "BWBR0035729"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-12-18
-laatste_update: 2013-12-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035729"
+country: "nl"
+rank: "zbo"
+publication_date: "2013-12-18"
+last_updated: "2013-12-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035729"
+soort: "zbo"
+stam_id: "12830133"
+version_id: "21797312"
+internal_id: "C31283471"
+label_id: "12800194"
+dtd_version: "2.0"
+original_entry_into_force: "2013-12-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035729/2013-12-18/0"
+intitule_bron: "Stcrt.2013-35198"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-12-18"
+intitule_in_force: "2013-12-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-35198"
+original_published_date: "2013-12-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-35198"
+entry_into_force_date: "2013-12-18"
+jci_1_3: "jci1.3:c:BWBR0035729&z=2013-12-18&g=2013-12-18"
+jci_1_0: "1.0:c:BWBR0035729&g=2013-12-18"
+citeertitel_status: "redactioneel"
+entry_into_force: "2013-12-18"
 ---
-
 # Aanvraagprocedure diploma-erkenning derde leerweg voor bekostigde en niet-bekostigde instellingen
 
 ### Deel I. Algemene informatie aanvragen diploma-erkenning derde leerweg (Overig Onderwijs)

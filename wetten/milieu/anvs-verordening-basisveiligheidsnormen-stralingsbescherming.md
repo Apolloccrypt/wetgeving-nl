@@ -1,13 +1,39 @@
 ---
-title: "ANVS-verordening basisveiligheidsnormen stralingsbescherming"
+title: "Verordening van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming van 9 januari 2018, nr. ANVS-2018/137, houdende nadere regels ter bescherming van personen tegen de gevaren van blootstelling aan ioniserende straling (ANVS-verordening basisveiligheidsnormen stralingsbescherming)"
 identifier: "BWBR0040581"
-categorie: "Milieu"
-publicatiedatum: 2023-07-01
-laatste_update: 2023-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040581"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-07-01"
+last_updated: "2023-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040581"
+soort: "zbo"
+stam_id: "14529663"
+version_id: "24867562"
+internal_id: "C35580071"
+label_id: "14488514"
+dtd_version: "2.0"
+original_entry_into_force: "2018-02-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040581/2023-07-01/0"
+intitule_bron: "Stcrt.2018-2035"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-01-09"
+intitule_published: "2018-01-31"
+intitule_in_force: "2018-01-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-2035"
+original_signed_date: "2018-01-09"
+original_published_date: "2018-01-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-2035"
+entry_into_force_date: "2018-02-06"
+jci_1_3: "jci1.3:c:BWBR0040581&z=2023-07-01&g=2023-07-01"
+jci_1_0: "1.0:c:BWBR0040581&g=2023-07-01"
+citeertitel_status: "officieel"
+short_title: "ANVS-verordening basisveiligheidsnormen stralingsbescherming"
+signed_date: "2018-01-09"
+entry_into_force: "2018-02-06"
 ---
-
 # Verordening van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming van 9 januari 2018, nr. ANVS-2018/137, houdende nadere regels ter bescherming van personen tegen de gevaren van blootstelling aan ioniserende straling (ANVS-verordening basisveiligheidsnormen stralingsbescherming)
 
 Gelet op [Richtlijn 2013/59](32013L0059)/Euratom van de Raad van 5 december 2013 tot vaststelling van de basisnormen voor de bescherming tegen de gevaren verbonden aan de blootstelling aan ioniserende straling, en houdende intrekking van de [Richtlijnen 89/618](31989L0618)/Euratom, [90/641](31990L0641)/Euratom, [96/29](31996L0029)/Euratom, [97/43](31997L0043)/Euratom en [2003/122](32003L0122)/Euratom (PbEG L [13/1](31913L0001));
@@ -22,7 +48,7 @@ Treedt in werking op het tijdstip waarop het Besluit basisveiligheidsnormen stra
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. (begripsomschrijvingen)
+##### Artikel 1.1. (begripsomschrijvingen)
 
 In deze verordening wordt verstaan onder:
 
@@ -86,7 +112,7 @@ In deze verordening wordt verstaan onder:
 
 #### § 3.1. Aanvragen om vergunning en registratie en kennisgevingen algemeen
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 1. De ondernemer die via het ANVS-loket een aanvraag of kennisgeving bij de Autoriteit wil indienen of een andere informatieverstrekking wil doen, maakt gebruik van het op het ANVS-loket beschikbare elektronische formulier dat hoort bij de aanvraag, de kennisgeving of de informatieverstrekking.
 
@@ -108,7 +134,7 @@ In deze verordening wordt verstaan onder:
 
 #### § 3.2. Bij een aanvraag om een vergunning voor handelingen met bronnen te verstrekken gegevens
 
-#### Artikel 3.2. (te verstrekken basisgegevens bij de aanvraag om een vergunning)
+##### Artikel 3.2. (te verstrekken basisgegevens bij de aanvraag om een vergunning)
 
 1. Naast de in [artikel 3.6, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.6), bedoelde gegevens bevat een aanvraag om een vergunning de volgende gegevens:
 
@@ -152,11 +178,11 @@ In deze verordening wordt verstaan onder:
 
 2. Indien het omgevingsdosisequivalent, bedoeld in het eerste lid, onderdeel d, hoger is dan 10 microsievert, of de lozingen, bedoeld in dat onderdeel, een dosis vertegenwoordigen die gelijk is aan, of hoger is dan, 1 microsievert in een kalenderjaar op enig punt buiten de locatie, bevat de aanvraag tevens een beschrijving van de maatregelen ter voorkoming van en bescherming tegen schade in en buiten de locatie.
 
-#### Artikel 3.3. (aanvraag vergunning handelingen met toestel of versneller)
+##### Artikel 3.3. (aanvraag vergunning handelingen met toestel of versneller)
 
 Een aanvraag om een vergunning voor een handeling met een toestel of een versneller bevat naast de relevante gegevens, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2023-07-01&g=2023-07-01), een beschrijving van het toestel of de versneller onder vermelding van de gegevens betreffende de ioniserende straling die het toestel of de versneller kan uitzenden, waaronder in elk geval de maximale output die het systeem kan leveren, uitgedrukt als maximale hoogspanning van de röntgenbuis en de hoogspanning die de generator kan leveren.
 
-#### Artikel 3.4. (aanvraag vergunning handeling met radioactieve stoffen in de vorm van open bronnen met kunstmatige radionucliden)
+##### Artikel 3.4. (aanvraag vergunning handeling met radioactieve stoffen in de vorm van open bronnen met kunstmatige radionucliden)
 
 Een aanvraag om een vergunning voor een handeling met radioactieve stoffen in de vorm van open bronnen met kunstmatige radionucliden bevat, naast de relevante gegevens, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2023-07-01&g=2023-07-01):
 
@@ -168,7 +194,7 @@ Een aanvraag om een vergunning voor een handeling met radioactieve stoffen in de
 
 - d. een beschrijving van het beheer van radioactieve afvalstoffen en van de voorzieningen voor de berging van die afvalstoffen.
 
-#### Artikel 3.5. (aanvraag vergunning handeling met radioactieve stoffen in de vorm van open bronnen met van nature voorkomende radionucliden)
+##### Artikel 3.5. (aanvraag vergunning handeling met radioactieve stoffen in de vorm van open bronnen met van nature voorkomende radionucliden)
 
 Een aanvraag om een vergunning voor een handeling met radioactieve stoffen in de vorm van open bronnen met van nature voorkomende radionucliden bevat, naast de relevante gegevens, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2023-07-01&g=2023-07-01), een beschrijving van:
 
@@ -194,7 +220,7 @@ Een aanvraag om een vergunning voor een handeling met radioactieve stoffen in de
 
 - h. indien vergunning om te lozen wordt aangevraagd: een opgave van de totale te lozen activiteit, gespecificeerd naar radionuclide.
 
-#### Artikel 3.6. (aanvraag vergunning handeling met radioactieve stoffen in de vorm van een ingekapselde bron)
+##### Artikel 3.6. (aanvraag vergunning handeling met radioactieve stoffen in de vorm van een ingekapselde bron)
 
 Een aanvraag om een vergunning voor een handeling met radioactieve stoffen in de vorm van een ingekapselde bron bevat naast de relevante gegevens, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2023-07-01&g=2023-07-01):
 
@@ -204,11 +230,11 @@ Een aanvraag om een vergunning voor een handeling met radioactieve stoffen in de
 
 - c. een beschrijving van de wijze waarop de ingekapselde bron wordt beheerd, na beëindiging van de toepassing ervan.
 
-#### Artikel 3.7. (aanvraag vergunning handeling met kunstmatige bronnen)
+##### Artikel 3.7. (aanvraag vergunning handeling met kunstmatige bronnen)
 
 Een aanvraag om een vergunning voor een handeling met kunstmatige bronnen bevat naast de relevante gegevens bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2023-07-01&g=2023-07-01), en de aanvullende gegevens bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2023-07-01&g=2023-07-01) respectievelijk [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2023-07-01&g=2023-07-01), een opgave van de overeenkomstig [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.5&artikel=3.13&z=2023-07-01&g=2023-07-01) gewogen en gesommeerde activiteit op enig moment van de radionucliden in de radioactieve stoffen, die op de locatie, bedoeld in [artikel 3.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2023-07-01&g=2023-07-01), ten hoogste aanwezig zal zijn.
 
-#### Artikel 3.8. (aanvraag vergunning handeling met een hoogactieve bron)
+##### Artikel 3.8. (aanvraag vergunning handeling met een hoogactieve bron)
 
 Een aanvraag om een vergunning voor een handeling met een hoogactieve bron bevat, naast de relevante gegevens, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2023-07-01&g=2023-07-01), en de aanvullende gegevens, bedoeld in de [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2023-07-01&g=2023-07-01) en [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2023-07-01&g=2023-07-01):
 
@@ -224,7 +250,7 @@ Een aanvraag om een vergunning voor een handeling met een hoogactieve bron bevat
 
 #### § 3.3. Te verstrekken gegevens bij een aanvraag om registratie
 
-#### Artikel 3.9. (te verstrekken gegevens bij een aanvraag om registratie)
+##### Artikel 3.9. (te verstrekken gegevens bij een aanvraag om registratie)
 
 1. De aanvraag voor een registratie bevat naast de relevante gegevens, bedoeld in [artikel 3.9, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.9):
 
@@ -262,7 +288,7 @@ Een aanvraag om een vergunning voor een handeling met een hoogactieve bron bevat
 
 - f. indien er geen categorienummer als bedoeld in onderdeel e opgegeven kan worden: een beschrijving van de handelingen.
 
-#### Artikel 3.10. (ketenregistratie en aangewezen handelingen met natuurlijke bronnen)
+##### Artikel 3.10. (ketenregistratie en aangewezen handelingen met natuurlijke bronnen)
 
 1. Als handelingen, waarvoor ketenregistratie is toegestaan, worden aangewezen de handelingen genoemd in [bijlage 3.1, onderdeel A, van de Regeling basisveiligheidsnormen stralingsbescherming](onbekend).
 
@@ -286,7 +312,7 @@ Een aanvraag om een vergunning voor een handeling met een hoogactieve bron bevat
 
 #### § 3.4. Te verstrekken gegevens bij kennisgeving
 
-#### Artikel 3.11. (kennisgeving als bedoeld in [artikel 3.11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.11))
+##### Artikel 3.11. (kennisgeving als bedoeld in [artikel 3.11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.11))
 
 Een kennisgeving als bedoeld in [artikel 3.11, derde en vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.11) bevat naast de gegevens, bedoeld in [artikel 3.12, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.12),
 
@@ -294,13 +320,13 @@ Een kennisgeving als bedoeld in [artikel 3.11, derde en vierde lid, van het besl
 
 - b. informatie over de wijze waarop voldaan wordt aan [artikel 2.6 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=2.6) voor personen buiten de locatie.
 
-#### Artikel 3.12. (kennisgeving overdracht hoogactieve bron)
+##### Artikel 3.12. (kennisgeving overdracht hoogactieve bron)
 
 De kennisgeving van overdracht van een hoogactieve bron geschiedt met toepassing van het formulier dat is opgenomen in [bijlage 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=5).
 
 #### § 3.5. Sommatie
 
-#### Artikel 3.13. (gewogen sommatie)
+##### Artikel 3.13. (gewogen sommatie)
 
 1. De gewogen sommatie, bedoeld in [artikel 3.4, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.4), van de activiteit van de radionucliden in de bij handelingen betrokken radioactieve materialen vindt plaats volgens de formule:
 
@@ -326,19 +352,19 @@ Ai,n is de activiteit van iedere radioactieve stof i met radionuclide n;
 
 Dn is de D-waarde voor radionuclide n.
 
-#### Artikel 3.14. (nadere regels sommatie consumentenproducten)
+##### Artikel 3.14. (nadere regels sommatie consumentenproducten)
 
 Als handelingen met consumentenproducten waarbij radioactieve stoffen worden toegevoegd aan consumentenproducten, bestemd voor gebruik op of in de directe omgeving van personen, waarbij de aan deze producten toegevoegde radionucliden niet worden betrokken bij een sommatie als bedoeld in [artikel 3.17, tweede en derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.17), worden aangewezen de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=1&z=2023-07-01&g=2023-07-01) genoemde handelingen.
 
 #### § 3.6. Vrijstelling en vrijgave, uitzondering
 
-#### Artikel 3.15. (vrijgestelde handelingen met een beperkt risico op blootstelling)
+##### Artikel 3.15. (vrijgestelde handelingen met een beperkt risico op blootstelling)
 
 1. De verboden, bedoeld in de [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.5), en [3.9, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.9), zijn niet van toepassing ten aanzien van het voorhanden hebben van radon in aardgas en het vrijkomen van radon bij het, in de open lucht, affakkelen of afblazen van aardgas.
 
 2. Handelingen met consumentenproducten die een beperkt risico van blootstelling van personen tot gevolg hebben en waarvoor de verboden, bedoeld in de [artikelen 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.5) en [3.9 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.9) niet van toepassing zijn, zijn aangewezen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=2&z=2023-07-01&g=2023-07-01).
 
-#### Artikel 3.16. (vrijgave handelingen met een beperkt risico op blootstelling)
+##### Artikel 3.16. (vrijgave handelingen met een beperkt risico op blootstelling)
 
 1. De verboden, bedoeld in de [artikelen 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.5), en [3.9, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.9), zijn niet van toepassing ten aanzien van het zich ontdoen van zeer laag radioactieve stoffen van elk type materiaal.
 
@@ -352,13 +378,13 @@ Als handelingen met consumentenproducten waarbij radioactieve stoffen worden toe
 
 - b. in het openbare riool of in het oppervlaktewater, indien de concentratie van de geloosde kaliumverbindingen zo laag is dat er geen neerslag in het openbare riool of oppervlaktewater optreedt.
 
-#### Artikel 3.17. (uitzondering op vrijstelling)
+##### Artikel 3.17. (uitzondering op vrijstelling)
 
 1. [Paragraaf 3.2.2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&paragraaf=3.2.2) is van toepassing op handelingen met van nature voorkomende radioactieve materialen indien de activiteitsconcentratie van dit materiaal geen juiste indicatie geeft van de gezondheidsschade en daarnaast de oppervlaktebesmetting met van nature voorkomend radioactief materiaal een totale bèta-activiteit heeft die gelijk is aan of hoger is dan 4 becquerel/cm2.
 
 2. In de gevallen waarin de effectieve doses voor leden van de bevolking ten gevolge van water- of luchtlozingen, als gevolg van handelingen met van nature voorkomend radioactief materiaal, hoger kunnen zijn dan 10 microsievert per kalenderjaar, geldt met het oog op de stralingsbescherming, in afwijking van [artikel 10.4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=10.4), een vergunningplicht als bedoeld in [artikel 3.5, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.5).
 
-#### Artikel 3.18. (specifieke vrijgavewaarden)
+##### Artikel 3.18. (specifieke vrijgavewaarden)
 
 1. Natte sludges uit de olie- en gasindustrie en de geothermie, uitsluitend bestemd voor stort op een op grond van [artikel 10.6, vijfde of zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=10.6), aangewezen instelling, zijn vrijgegeven overeenkomstig [artikel 3.21 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.21), indien ten aanzien daarvan wordt voldaan aan de vrijgavewaarden die zijn opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=4&z=2023-07-01&g=2023-07-01), tabel 1.
 
@@ -372,7 +398,7 @@ Als handelingen met consumentenproducten waarbij radioactieve stoffen worden toe
 
 6. Materialen als bedoeld in het vierde of vijfde lid worden aangeboden in lekdichte verpakkingen.
 
-#### Artikel 3.19. (aanvraag specifieke vrijstelling)
+##### Artikel 3.19. (aanvraag specifieke vrijstelling)
 
 1. Een ondernemer kan een aanvraag bij de Autoriteit indienen voor een beschikking, houdende een vrijstelling voor specifieke bronnen of handelingen als bedoeld in [artikel 3.19 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.19).
 
@@ -414,7 +440,7 @@ Als handelingen met consumentenproducten waarbij radioactieve stoffen worden toe
 
 - 4°. een dosistoename van een lid van de bevolking dat zich buiten de locatie bevindt die hoger is dan 0,01 millisievert per jaar.
 
-#### Artikel 3.20. (aanvraag specifieke vrijgave)
+##### Artikel 3.20. (aanvraag specifieke vrijgave)
 
 1. Een ondernemer kan een aanvraag bij de Autoriteit indienen voor een beschikking voor specifieke vrijgave voor bepaalde radioactieve materialen, voor radioactieve materialen afkomstig van specifieke soorten handelingen, of voor materialen behorend tot specifieke categorieën handelingen of toepassingen, als bedoeld in [artikel 3.21, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.21).
 
@@ -446,7 +472,7 @@ Als handelingen met consumentenproducten waarbij radioactieve stoffen worden toe
 
 #### § 3.7. Radioactieve afvalstoffen en splijtstoffen of ertsen bevattende afvalstoffen
 
-#### Artikel 4.1. (nadere inhoud administratie registratie- en vergunningplichtige bronnen)
+##### Artikel 4.1. (nadere inhoud administratie registratie- en vergunningplichtige bronnen)
 
 1. Indien krachtens het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179) verplichtingen tot het voeren van dossiers van bronnen of van een administratie van handelingen van kracht zijn, zijn het derde tot en met vijfde lid van toepassing.
 
@@ -464,7 +490,7 @@ De van toepassing zijnde administratieve verplichtingen worden door de onderneme
 
 5. De in dit artikel bedoelde administratieve gegevens en dossiers worden, op de locatie waar de handelingen worden verricht, of nabij de werklocatie, desgevraagd getoond aan ambtenaren, bedoeld in artikel 58 van de wet, of zijn op een andere manier direct beschikbaar voor inzage.
 
-#### Artikel 4.2. (nadere inhoud administratie en dossiers hoogactieve bronnen)
+##### Artikel 4.2. (nadere inhoud administratie en dossiers hoogactieve bronnen)
 
 Bij handelingen met een hoogactieve bron bevat het beheerssysteem naast het dossier van de hoogactieve bron, bedoeld in [artikel 4.18, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=4.18) en de administratieve gegevens, bedoeld in [artikel 4.2, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=4.2), tevens:
 
@@ -474,7 +500,7 @@ Bij handelingen met een hoogactieve bron bevat het beheerssysteem naast het doss
 
 - c. schriftelijk bewijs van de krachtens [artikel 4.15, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=4.15) vereiste financiële zekerheid.
 
-#### Artikel 4.3. (administratie industriële radiografie)
+##### Artikel 4.3. (administratie industriële radiografie)
 
 1. De administratie, bedoeld in [artikel 4.3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=4.3) bevat:
 
@@ -488,7 +514,7 @@ Bij handelingen met een hoogactieve bron bevat het beheerssysteem naast het doss
 
 2. Indien binnen een locatie opnamen worden gemaakt of industriële radiografie wordt toepast in het kader van niet-destructief onderzoek wordt in de administratie, bedoeld in het eerste lid, tevens het totaal aantal opnamen en uren industriële radiografie binnen dezelfde locatie vermeld. Voor de toepassing van deze bepaling wordt het aantal opnamen gelijk gesteld aan het aantal voor dat doel gebruikte films.
 
-#### Artikel 4.4. (bewaartermijn gegevens in administratie en dossier)
+##### Artikel 4.4. (bewaartermijn gegevens in administratie en dossier)
 
 1. De gegevens in een administratie worden ten minste gedurende vijf jaar na het kalenderjaar waarop zij betrekking hebben bewaard.
 
@@ -496,7 +522,7 @@ Bij handelingen met een hoogactieve bron bevat het beheerssysteem naast het doss
 
 #### § 4.2. Toestellen en versnellers
 
-#### Artikel 4.5. (eisen aan toestellen en versnellers)
+##### Artikel 4.5. (eisen aan toestellen en versnellers)
 
 1. De ondernemer zorgt ervoor dat met betrekking tot inherent veilige toestellen of inherent veilige versnellers:
 
@@ -534,7 +560,7 @@ Bij handelingen met een hoogactieve bron bevat het beheerssysteem naast het doss
 
 mits maatregelen zijn genomen waardoor blootstelling van personen ten gevolge van uitwendige bestraling zoveel als redelijkerwijs mogelijk wordt voorkomen.
 
-#### Artikel 4.6. (veiligheidseisen toestellen en versnellers)
+##### Artikel 4.6. (veiligheidseisen toestellen en versnellers)
 
 De ondernemer zorgt ervoor dat:
 
@@ -550,7 +576,7 @@ De ondernemer zorgt ervoor dat:
 
 - d. aanvullend organisatorische maatregelen zijn genomen indien de benodigde dosisbeperking niet met bouwkundige maatregelen gerealiseerd kan worden.
 
-#### Artikel 4.7. (controle toestellen en versnellers)
+##### Artikel 4.7. (controle toestellen en versnellers)
 
 1. De ondernemer zorgt ervoor dat:
 
@@ -596,7 +622,7 @@ De ondernemer zorgt ervoor dat:
 
 #### § 4.3.1. Bergplaats
 
-#### Artikel 4.8. (bergplaats)
+##### Artikel 4.8. (bergplaats)
 
 1. Ten aanzien van de bergplaats voor radioactieve stoffen zorgt de ondernemer ervoor dat:
 
@@ -638,7 +664,7 @@ De ondernemer zorgt ervoor dat:
 
 #### § 4.3.1. Bergplaats
 
-#### Artikel 4.9. (eisen aan ingekapselde bronnen)
+##### Artikel 4.9. (eisen aan ingekapselde bronnen)
 
 De ondernemer zorgt ervoor dat:
 
@@ -662,7 +688,7 @@ De ondernemer zorgt ervoor dat:
 
 - j. de ingekapselde bron of de bronhouder, indien praktisch mogelijk, is voorzien van een waarschuwingsteken.
 
-#### Artikel 4.10. (veiligheidseisen voor ingekapselde bronnen)
+##### Artikel 4.10. (veiligheidseisen voor ingekapselde bronnen)
 
 De ondernemer zorgt ervoor dat:
 
@@ -682,7 +708,7 @@ De ondernemer zorgt ervoor dat:
 
 - 2°. dit uit het oogpunt van stralingsbescherming noodzakelijk is.
 
-#### Artikel 4.11. (controle ingekapselde bronnen)
+##### Artikel 4.11. (controle ingekapselde bronnen)
 
 1. Een ondernemer zorgt ervoor dat:
 
@@ -718,7 +744,7 @@ De ondernemer zorgt ervoor dat:
 
 #### § 4.3.3. Hoogactieve bronnen
 
-#### Artikel 4.12. (gegevensverstrekking hoogactieve bronnen)
+##### Artikel 4.12. (gegevensverstrekking hoogactieve bronnen)
 
 1. De ondernemer stelt een schriftelijke of digitale kopie van het dossier van een hoogactieve bron ter beschikking aan de Autoriteit, telkens binnen twee weken:
 
@@ -748,19 +774,19 @@ De ondernemer zorgt ervoor dat:
 
 #### § 4.3.3. Hoogactieve bronnen
 
-#### Artikel 4.13. (beveiliging tegen diefstal of misbruik van radioactieve stoffen)
+##### Artikel 4.13. (beveiliging tegen diefstal of misbruik van radioactieve stoffen)
 
 1. Een vergunninghouder treft de beveiligingsmaatregelen die noodzakelijk zijn om categorie 1-, 2, of 3-stoffen te beveiligen tegen diefstal of misbruik.
 
 2. Een vergunninghouder wijst een beveiligingsverantwoordelijke aan voor de toepassing van de beveiligingsmaatregelen, bedoeld in het eerste lid.
 
-#### Artikel 4.14. (toezicht op radioactieve stoffen)
+##### Artikel 4.14. (toezicht op radioactieve stoffen)
 
 1. Categorie 1, 2 of 3-stoffen staan permanent onder persoonlijk of elektronisch toezicht.
 
 2. Diegene die persoonlijk toezicht houdt, is hiertoe aangewezen door de beveiligingsverantwoordelijke.
 
-#### Artikel 4.15. (vertraging bij wederrechtelijke verkrijging van radioactieve stoffen)
+##### Artikel 4.15. (vertraging bij wederrechtelijke verkrijging van radioactieve stoffen)
 
 Wanneer categorie 1-, 2-, of 3-stoffen niet onder persoonlijk toezicht staan, zijn de beveiligingsmaatregelen van een vergunninghouder zodanig dat elektronische detectie van een poging tot diefstal of misbruik plaatsvindt en dat vanaf dat moment maatregelen werkzaam zijn die leiden tot:
 
@@ -770,7 +796,7 @@ Wanneer categorie 1-, 2-, of 3-stoffen niet onder persoonlijk toezicht staan, zi
 
 - c. ten minste 3 minuten vertraging in de tijd die iemand nodig heeft om wederrechtelijk beschikking te krijgen over een categorie 3-stof.
 
-#### Artikel 4.16. (afstemming beveiligingsmaatregelen)
+##### Artikel 4.16. (afstemming beveiligingsmaatregelen)
 
 De beveiligingsmaatregelen, bedoeld in de [artikelen 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.13&z=2023-07-01&g=2023-07-01), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.14&z=2023-07-01&g=2023-07-01) en [4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.15&z=2023-07-01&g=2023-07-01) worden afgestemd op:
 
@@ -784,11 +810,11 @@ De beveiligingsmaatregelen, bedoeld in de [artikelen 4.13](https://wetten.overhe
 
 - e. de maatregelen die zijn of worden getroffen om de nadelige gevolgen van ioniserende straling voor mensen, dieren, planten en goederen te voorkomen of te beperken.
 
-#### Artikel 4.17. (beveiliging tegen interne dreigingen)
+##### Artikel 4.17. (beveiliging tegen interne dreigingen)
 
 Een vergunninghouder treft beveiligingsmaatregelen om de gelegenheid tot diefstal of misbruik van de categorie 1-, 2- en 3-stoffen door eigen werknemers of externe werknemers zo veel mogelijk te beperken.
 
-#### Artikel 4.18. (beveiligingsplan)
+##### Artikel 4.18. (beveiligingsplan)
 
 1. Een vergunninghouder beschikt over een beveiligingsplan met een beschrijving van de wijze waarop de categorie 1-, 2-, of 3-stof wordt beveiligd.
 
@@ -816,13 +842,13 @@ Een vergunninghouder treft beveiligingsmaatregelen om de gelegenheid tot diefsta
 
 4. Het beveiligingsplan wordt opgesteld door een op dit vakgebied bekwaam persoon.
 
-#### Artikel 4.19. (inzage beveiligingsplan)
+##### Artikel 4.19. (inzage beveiligingsplan)
 
 1. Een vergunninghouder zorgt ervoor dat van het beveiligingsplan, bedoeld in [artikel 4.7 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=4.7), slechts kennis nemen de personen voor wie dit noodzakelijk is voor het goed uitvoeren van hun functie.
 
 2. Een vergunninghouder zorgt ervoor dat deze personen, alvorens zij kennisnemen van het beveiligingsplan, een verklaring omtrent het gedrag of een verklaring als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=1) overleggen die niet ouder is dan vijf jaar.
 
-#### Artikel 4.20. (uitvoeren evaluatieprogramma)
+##### Artikel 4.20. (uitvoeren evaluatieprogramma)
 
 1. Een vergunninghouder voert jaarlijks en na elke inbreuk op de beveiliging het evaluatieprogramma, bedoeld in [artikel 4.18, tweede lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.18&z=2023-07-01&g=2023-07-01), uit.
 
@@ -840,7 +866,7 @@ Een vergunninghouder treft beveiligingsmaatregelen om de gelegenheid tot diefsta
 
 #### § 4.3.5. Besmettingscontrole
 
-#### Artikel 4.21. (voorschrift besmettingscontrole)
+##### Artikel 4.21. (voorschrift besmettingscontrole)
 
 Bij een besmettingscontrole als bedoeld in [artikel 4.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.11&z=2023-07-01&g=2023-07-01), wordt het volgende in acht genomen:
 
@@ -850,7 +876,7 @@ Bij een besmettingscontrole als bedoeld in [artikel 4.11, eerste lid](https://we
 
 #### § 4.3.5. Besmettingscontrole
 
-#### Artikel 4.22. (opslag van materiaal met van nature voorkomende radionucliden)
+##### Artikel 4.22. (opslag van materiaal met van nature voorkomende radionucliden)
 
 1. Radioactieve afvalstoffen afkomstig van handelingen met van nature voorkomende radionucliden worden in de gevallen bedoeld in [artikel 4.21, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=4.21), als eindbestemming opgeslagen in een daartoe door de Autoriteit aangewezen instelling.
 
@@ -864,7 +890,7 @@ Bij een besmettingscontrole als bedoeld in [artikel 4.11, eerste lid](https://we
 
 - d. van de onder a, b en c bedoelde administraties zijn kopieën aanwezig op de locatie of nabij de plaats waar de handelingen plaatsvinden of zijn anderszins direct beschikbaar om te worden ingezien door de ambtenaren, bedoeld in artikel 58 van de wet.
 
-#### Artikel 4.23. (mengen van materiaal met van nature voorkomende radionucliden)
+##### Artikel 4.23. (mengen van materiaal met van nature voorkomende radionucliden)
 
 1. Het mengen van materiaal met van nature voorkomende radioactieve stoffen, niet zijnde radioactieve afvalstoffen, met andere materialen met van nature voorkomende radioactieve stoffen of met andere stoffen is toegestaan, indien de toepassing van het mengsel gerechtvaardigd is.
 
@@ -872,7 +898,7 @@ Bij een besmettingscontrole als bedoeld in [artikel 4.11, eerste lid](https://we
 
 3. Indien de menging, bedoeld in het tweede lid, van materialen met van nature voorkomende radioactieve stoffen met andere materialen redelijkerwijs niet mogelijk is, is de handeling toegestaan indien de effectieve dosis in een jaar voor leden van de bevolking lager is dan 0,3 millisievert.
 
-#### Artikel 4.24. (uitzonderingen grond-, weg- en waterbouw)
+##### Artikel 4.24. (uitzonderingen grond-, weg- en waterbouw)
 
 1. Voor handelingen met en het voorhanden hebben van materiaal met van nature voorkomende radioactieve stoffen in werken van grond-, weg- of waterbouw buiten een inrichting, die zijn verricht of daadwerkelijk een aanvang hebben genomen voor 26 september 2004, gelden de in [artikel 3.11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.11) gestelde verplichting, en [artikel 4.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.23&z=2023-07-01&g=2023-07-01), niet.
 
@@ -888,7 +914,7 @@ Bij een besmettingscontrole als bedoeld in [artikel 4.11, eerste lid](https://we
 
 #### § 4.3.7. Consumentenartikelen
 
-#### Artikel 4.25. (begripsomschrijvingen)
+##### Artikel 4.25. (begripsomschrijvingen)
 
 In deze paragraaf wordt verstaan onder:
 
@@ -896,7 +922,7 @@ In deze paragraaf wordt verstaan onder:
 
 - b. **goedgekeurde melder:** melder van een type dat is opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=5&z=2023-07-01&g=2023-07-01).
 
-#### Artikel 4.26. (uitzondering goedgekeurde melders)
+##### Artikel 4.26. (uitzondering goedgekeurde melders)
 
 Met betrekking tot goedgekeurde melders gelden in de volgende, in [artikel 3.18, eerste lid, aanhef en onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.18), bedoelde situaties, de daarbij genoemde voorwaarden:
 
@@ -908,7 +934,7 @@ Met betrekking tot goedgekeurde melders gelden in de volgende, in [artikel 3.18,
 
 - d. het zich door afgifte aan een ander ontdoen van een goedgekeurde melder in gevallen waarin deze overeenkomstig deze verordening zonder vergunning voorhanden wordt gehouden.
 
-#### Artikel 4.27. (voorschriften voor goedgekeurde melders)
+##### Artikel 4.27. (voorschriften voor goedgekeurde melders)
 
 1. Een ieder die een goedgekeurde melder binnen Nederlands grondgebied brengt of doet brengen, zorgt ervoor dat:
 
@@ -924,17 +950,17 @@ Met betrekking tot goedgekeurde melders gelden in de volgende, in [artikel 3.18,
 
 - b. schriftelijke informatie is bijgevoegd, waarin melding wordt gedaan van de aanwezigheid van een radioactieve stof in de melder en waarin de handelingen met de melder worden aangegeven die tot besmetting kunnen leiden en derhalve worden ontraden.
 
-#### Artikel 4.28. (schakelbepaling)
+##### Artikel 4.28. (schakelbepaling)
 
 Met betrekking tot de verwijdering van goedgekeurde melders zijn de [artikelen 3 tot en met 12 van de Regeling afgedankte elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=3) van overeenkomstige toepassing.
 
 #### § 4.3.7.2. Aanwijsinstrumenten
 
-#### Artikel 4.29. (toepassingsbereik)
+##### Artikel 4.29. (toepassingsbereik)
 
 Deze paragraaf is van toepassing op aanwijsinstrumenten waaraan voor verlichtingsdoeleinden radioactieve stoffen zijn toegevoegd.
 
-#### Artikel 4.30. (controle constructie-eisen)
+##### Artikel 4.30. (controle constructie-eisen)
 
 1. Bij het controleren of aanwijsinstrumenten na de toevoeging van radioactieve stoffen voldoen aan de bij of krachtens [artikel 4.24 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=4.24) gestelde voorschriften met betrekking tot de constructie worden ten minste de in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=7&z=2023-07-01&g=2023-07-01) beschreven tests uitgevoerd.
 
@@ -950,7 +976,7 @@ Deze paragraaf is van toepassing op aanwijsinstrumenten waaraan voor verlichting
 
 - d. de resultaten van de test en de controle.
 
-#### Artikel 4.31. (aanwijsinstrumenten voor verlichtingsdoeleinden)
+##### Artikel 4.31. (aanwijsinstrumenten voor verlichtingsdoeleinden)
 
 1. De ondernemer controleert na het voor verlichtingsdoeleinden toevoegen van radioactieve stoffen aan aanwijsinstrumenten of deze aanwijsinstrumenten voldoen aan de in deze paragraaf opgenomen voorschriften.
 
@@ -966,7 +992,7 @@ Deze paragraaf is van toepassing op aanwijsinstrumenten waaraan voor verlichting
 
 5. De in het tweede lid bedoelde administratie wordt ten minste vijf jaar, gerekend van de datum van een aantekening, bewaard.
 
-#### Artikel 4.32. (kenmerken op aanwijsinstrumenten)
+##### Artikel 4.32. (kenmerken op aanwijsinstrumenten)
 
 De ondernemer zorgt ervoor dat op een aanwijsinstrument waaraan H-3 in lichtcellen of Pm-147 in lichtgevende verf voor verlichtingsdoeleinden is toegevoegd, op een vanaf de buitenzijde van het instrument zichtbare plaats is aangebracht:
 
@@ -974,7 +1000,7 @@ De ondernemer zorgt ervoor dat op een aanwijsinstrument waaraan H-3 in lichtcell
 
 - b. het merkteken ‘ T 1 GBq’ of ‘Pm 10 MBq’ voor respectievelijk H-3 in lichtcellen en Pm-147 in lichtgevende verf.
 
-#### Artikel 4.33. (herstel- of onderhoudswerkzaamheden aanwijsinstrumenten)
+##### Artikel 4.33. (herstel- of onderhoudswerkzaamheden aanwijsinstrumenten)
 
 De ondernemer zorgt ervoor dat na herstel- of onderhoudswerkzaamheden aan een aanwijsinstrument waaraan radioactieve stoffen voor verlichtingsdoeleinden zijn toegevoegd:
 
@@ -986,11 +1012,11 @@ De ondernemer zorgt ervoor dat na herstel- of onderhoudswerkzaamheden aan een aa
 
 #### § 4.4. Deskundigheid uitvoering handelingen
 
-#### Artikel 4.34. (reikwijdte)
+##### Artikel 4.34. (reikwijdte)
 
 Deze paragraaf is uitsluitend van toepassing op deskundigheid, vereist in verband met handelingen met registratieplichtige bronnen als bedoeld in [artikel 3.9 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.9).
 
-#### Artikel 4.35. (kwalificatie voor handelingen met radioactieve stoffen)
+##### Artikel 4.35. (kwalificatie voor handelingen met radioactieve stoffen)
 
 De ondernemer zorgt ervoor dat:
 
@@ -1014,23 +1040,23 @@ De ondernemer zorgt ervoor dat:
 
 #### § 4.4. Deskundigheid uitvoering handelingen
 
-#### Artikel 4.36. (bepaling dosis)
+##### Artikel 4.36. (bepaling dosis)
 
 De bepaling van de effectieve dosis geschiedt op de wijze, vermeld in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=9&z=2023-07-01&g=2023-07-01).
 
-#### Artikel 4.37. (rekenregels analyse gevolgen ioniserende straling voor het milieu)
+##### Artikel 4.37. (rekenregels analyse gevolgen ioniserende straling voor het milieu)
 
 Bij de bepaling van de omgevingsdosisequivalenten, de equivalente en effectieve dosis, bedoeld in [artikel 4.29, eerste lid, onderdelen a en b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=4.29), wordt gebruik gemaakt van de rekenregels, opgenomen in de onderdelen 2, 3 en 4 van [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=10&z=2023-07-01&g=2023-07-01) en, in gevallen als aangegeven in onderdeel 5.1 van bijlage 10, onderdelen 5 en 6.
 
-#### Artikel 4.38. (uitzondering analyse gevolgen ioniserende straling voor het milieu)
+##### Artikel 4.38. (uitzondering analyse gevolgen ioniserende straling voor het milieu)
 
 In afwijking van [artikel 4.37](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.5&artikel=4.37&z=2023-07-01&g=2023-07-01) kunnen, indien de Autoriteit daarmee instemt, andere dan de in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=10&z=2023-07-01&g=2023-07-01) voorgeschreven methoden, standaardwaarden en standaardrelaties worden toegepast, indien een situatie in belangrijke mate afwijkt van de aannames waarvan in bijlage 10 is uitgegaan.
 
-#### Artikel 4.39. (methode bij toetsing omgevingsdosisequivalenten)
+##### Artikel 4.39. (methode bij toetsing omgevingsdosisequivalenten)
 
 De omgevingsdosisequivalenten, de equivalente en effectieve dosis, bedoeld in [artikel 4.29, eerste lid, onderdelen a en b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=4.29), worden getoetst aan de dosis, genoemd in de [artikelen 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=9.2) en [9.4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=9.4), overeenkomstig de methoden die zijn aangegeven in onderdelen 3.3, 4.3, 4.4, 5, 6 en 7 van [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=10&z=2023-07-01&g=2023-07-01).
 
-#### Artikel 4.40. (alternatieve methode bepaling nadelige gevolgen ten gevolge van blootstelling aan straling bij handelingen met van nature voorkomend radioactief materiaal)
+##### Artikel 4.40. (alternatieve methode bepaling nadelige gevolgen ten gevolge van blootstelling aan straling bij handelingen met van nature voorkomend radioactief materiaal)
 
 1. Indien de activiteitsconcentratie geen juiste indicatie geeft van de nadelige gevolgen ten gevolge van blootstelling aan straling door de handelingen met van nature voorkomend radioactief materiaal worden deze nadelige gevolgen bepaald en getoetst door:
 
@@ -1042,7 +1068,7 @@ De omgevingsdosisequivalenten, de equivalente en effectieve dosis, bedoeld in [a
 
 3. Het eerste lid, onderdeel a, is niet van toepassing in gevallen waarin de in het tweede lid bedoelde meetmethode niet kan worden toegepast.
 
-#### Artikel 4.41. (meetmethode en bepaling oppervlaktebesmetting met van nature voorkomend radioactief materiaal)
+##### Artikel 4.41. (meetmethode en bepaling oppervlaktebesmetting met van nature voorkomend radioactief materiaal)
 
 Bij handelingen met van nature voorkomend radioactief materiaal worden de volgende voorschriften voor de meetmethode ter bepaling van de oppervlaktebesmetting met van nature voorkomend radioactief materiaal toegepast:
 
@@ -1064,7 +1090,7 @@ Bij handelingen met van nature voorkomend radioactief materiaal worden de volgen
 
 ### Hoofdstuk 5. Deskundigheid
 
-#### Artikel 5.1. (algemeen voorschrift toezicht op de uitvoering)
+##### Artikel 5.1. (algemeen voorschrift toezicht op de uitvoering)
 
 De ondernemer zorgt ervoor dat:
 
@@ -1074,7 +1100,7 @@ De ondernemer zorgt ervoor dat:
 
 - 3. de toezichthoudend medewerker met een interval van ten hoogste twaalf maanden en bij belangrijke wijzigingen de situatie ter plekke beoordeelt.
 
-#### Artikel 5.2. (aanvraag registratie, herregistratie of buitengewone registratie stralingsbeschermingsdeskundige)
+##### Artikel 5.2. (aanvraag registratie, herregistratie of buitengewone registratie stralingsbeschermingsdeskundige)
 
 1. De aanvraag voor een registratie, herregistratie of buitengewone registratie van een stralingsbeschermingsdeskundige bevat in ieder geval:
 
@@ -1092,7 +1118,7 @@ De ondernemer zorgt ervoor dat:
 
 3. De aanvraag voor buitengewone registratie bevat daarnaast bewijs waaruit blijkt dat wordt voldaan aan de kerncompetenties en overige kwalificaties, bedoeld in [bijlage 5.1, onderdeel b of c, van de regeling](onbekend).
 
-#### Artikel 5.3. (aanvraag registratie stralingsarts)
+##### Artikel 5.3. (aanvraag registratie stralingsarts)
 
 1. Een aanvraag voor registratie als stralingsarts bevat in elk geval:
 
@@ -1110,7 +1136,7 @@ De ondernemer zorgt ervoor dat:
 
 3. De aanvraag voor buitengewone registratie bevat daarnaast bewijs waaruit blijkt dat wordt voldaan aan de kerncompetenties, bedoeld in [bijlage D van de Regeling stralingsbescherming beroepsmatige blootstelling 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040573&bijlage=D).
 
-#### Artikel 5.4. (aanvraag van een erkenning als opleidingsinstelling op het gebied van stralingsbescherming)
+##### Artikel 5.4. (aanvraag van een erkenning als opleidingsinstelling op het gebied van stralingsbescherming)
 
 De aanvraag tot erkenning van een instelling als bedoeld in [artikel 5.11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=5.11) gaat vergezeld van de volgende gegevens:
 
@@ -1130,7 +1156,7 @@ De aanvraag tot erkenning van een instelling als bedoeld in [artikel 5.11 van he
 
 ### Hoofdstuk 6. Bouwmaterialen en milieumonitoring
 
-#### Artikel 6.1. (bouwmaterialen)
+##### Artikel 6.1. (bouwmaterialen)
 
 1. In dit artikel wordt verstaan onder **oppervlaktedichtheid**: de toegepaste massa per eenheid van oppervlak, uitgedrukt in kg/m2.
 
@@ -1146,7 +1172,7 @@ De aanvraag tot erkenning van een instelling als bedoeld in [artikel 5.11 van he
 
 - d. de ondernemer bepaalt, indien hij bouwmaterialen toepast met een oppervlaktedichtheid die kleiner dan of gelijk is aan 30 kg/m2, en de methode, genoemd in onderdeel c, niet toepasbaar is, de gewogen som van de activiteitsconcentraties van de radionucliden die aanwezig zijn in de aan de bouwmaterialen toegevoegde materialen die zijn genoemd in [bijlage 6.1 van de regeling](onbekend) volgens de methode bedoeld in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=11&z=2023-07-01&g=2023-07-01), onderdeel c, en stelt vast of de uitkomst van de gewogen som kleiner is dan of gelijk is aan 0,5.
 
-#### Artikel 6.2. (opzet en uitvoering van het milieumonitoringprogramma)
+##### Artikel 6.2. (opzet en uitvoering van het milieumonitoringprogramma)
 
 1. In dit artikel wordt verstaan onder:
 
@@ -1182,7 +1208,7 @@ De aanvraag tot erkenning van een instelling als bedoeld in [artikel 5.11 van he
 
 - b. de in het derde lid genoemde gegevens worden verzameld en geaggregeerd in een integrale rapportage die de situatie met betrekking tot radioactiviteit in het leefmilieu beschrijft en vergelijkt met voorgaande jaren, en die aan het algemene publiek ter beschikking gesteld wordt.
 
-#### Artikel 6.3. (controle en rapportage lozingen)
+##### Artikel 6.3. (controle en rapportage lozingen)
 
 1. In dit artikel wordt verstaan onder:
 
@@ -1244,11 +1270,11 @@ De aanvraag tot erkenning van een instelling als bedoeld in [artikel 5.11 van he
 
 ### Hoofdstuk 6. Bouwmaterialen en milieumonitoring
 
-#### Artikel 7.1. (inwerkingtreding)
+##### Artikel 7.1. (inwerkingtreding)
 
 Deze verordening, met uitzondering van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2023-07-01&g=2023-07-01), treedt in werking op het tijdstip waarop het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179) in werking treedt.
 
-#### Artikel 7.2. (citeertitel)
+##### Artikel 7.2. (citeertitel)
 
 Deze verordening wordt aangehaald als: ANVS-verordening basisveiligheidsnormen stralingsbescherming.
 
@@ -2195,7 +2221,7 @@ Referentiedatum(1) (datum waarvoor de activiteitswaarde wordt opgegeven)
 
 Deze verordening zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3.15a
+##### Artikel 3.15a
 
 1. [Afdeling 3.2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&afdeling=3.2) is niet van toepassing op handelingen op een locatie met radioactieve materialen waarin de radionuclide K-40 voorkomt, als de op de locatie aanwezige massa van het kaliumhoudende materiaal groter is dan 1.000 kilogram, indien de activiteitsconcentratie van de radionuclide K-40 in het op de locatie aanwezige kaliumhoudende materiaal niet groter is dan 22 kBq/kg, en voldaan wordt aan de in dit artikel opgenomen voorwaarden.
 
@@ -2282,7 +2308,7 @@ cconcentratie is de correctiefactor die **kan** worden toegepast als de activite
 
 ### Hoofdstuk 5. Deskundigheid
 
-#### Artikel 5.5. (wijzigingen gedurende de erkenningsperiode)
+##### Artikel 5.5. (wijzigingen gedurende de erkenningsperiode)
 
 1. Een erkenning van een opleidingsinstelling als bedoeld in [artikel 5.11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=5.11) betreft elk door die opleidingsinstelling afgegeven diploma, certificaat of een ander getuigschrift ter afsluiting van een opleiding op het gebied van stralingsbescherming gedurende de periode waarvoor de erkenning geldt.
 
@@ -3140,7 +3166,7 @@ Per jaar geproduceerd of gedistribueerd volume (voor drinkwater)
 
 Deze verordening zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3.21. (afvoertermijn)
+##### Artikel 3.21. (afvoertermijn)
 
 1. De termijn, bedoeld in [artikel 10.7, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=10.7), bedraagt ten hoogste twee jaren na het tijdstip waarop de radioactieve stoffen overeenkomstig artikel 10.7, eerste lid, van het besluit als radioactieve afvalstof zijn aangemerkt.
 

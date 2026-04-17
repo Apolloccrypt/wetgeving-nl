@@ -1,13 +1,39 @@
 ---
-title: "Organisatie-, mandaat- en volmachtbesluit SZW 2009"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 10 december 2008, nr. PO&I/2008/34894, houdende de inrichting van de organisatie van het Ministerie van Sociale Zaken en Werkgelegenheid alsmede verdeling van taken en verlening van vertegenwoordigingsbevoegdheden (Organisatie-, mandaat- en volmachtbesluit SZW 2009)"
 identifier: "BWBR0024956"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-04-16
-laatste_update: 2026-04-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024956"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-16"
+last_updated: "2026-04-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024956"
+soort: "ministeriele-regeling"
+stam_id: "9824703"
+version_id: "15981212"
+internal_id: "C21891561"
+label_id: "9801534"
+dtd_version: "2.0"
+original_entry_into_force: "2009-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024956/2026-04-16/0"
+intitule_bron: "Stcrt.2008-249"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-12-10"
+intitule_published: "2008-12-23"
+intitule_in_force: "2008-12-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-249"
+original_signed_date: "2008-12-10"
+original_published_date: "2008-12-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-2380"
+entry_into_force_date: "2009-01-01"
+jci_1_3: "jci1.3:c:BWBR0024956&z=2026-04-16&g=2026-04-16"
+jci_1_0: "1.0:c:BWBR0024956&g=2026-04-16"
+citeertitel_status: "officieel"
+short_title: "Organisatie-, mandaat- en volmachtbesluit SZW 2009"
+signed_date: "2008-12-10"
+entry_into_force: "2009-01-01"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 10 december 2008, nr. PO&I/2008/34894, houdende de inrichting van de organisatie van het Ministerie van Sociale Zaken en Werkgelegenheid alsmede verdeling van taken en verlening van vertegenwoordigingsbevoegdheden (Organisatie-, mandaat- en volmachtbesluit SZW 2009)
 
 Gelet op de [artikelen 2, eerste lid, van het Coördinatiebesluit organisatie en formatie rijksdienst 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0023020&artikel=2) en [10:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Begripsbepaling
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -42,7 +68,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Organisatie
 
-#### Artikel 2. Organisatie ministerie
+##### Artikel 2. Organisatie ministerie
 
 Het ministerie bestaat uit de volgende organisatieonderdelen:
 
@@ -116,7 +142,7 @@ Het ministerie bestaat uit de volgende organisatieonderdelen:
 
 - g. de Regeringscommissaris transitie pensioenen als bedoeld in het [Instellingsbesluit Regeringscommissaris transitie pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0049114).
 
-#### Artikel 3. Collegiaal overleg
+##### Artikel 3. Collegiaal overleg
 
 1. De volgende functionarissen voeren regelmatig collegiaal overleg over de belangrijke aspecten van beleidsontwikkeling en -uitvoering en over de departementale bedrijfsvoering:
 
@@ -136,7 +162,7 @@ Het ministerie bestaat uit de volgende organisatieonderdelen:
 
 ### Hoofdstuk 3. Verantwoordelijkheden en bevoegdheden secretaris-generaal, plaatsvervangend secretaris-generaal, (programma-)directeuren-generaal en inspecteur-generaal Nederlandse Arbeidsinspectie
 
-#### Artikel 4. Verantwoordelijkheden secretaris-generaal
+##### Artikel 4. Verantwoordelijkheden secretaris-generaal
 
 1. De secretaris-generaal is, gelet op het [koninklijk besluit van 18 oktober 1988, houdende regeling van de functie en verantwoordelijkheid van de secretaris-generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0004419) (Stb. 1988, 499), belast met de ambtelijke leiding van het ministerie.
 
@@ -172,7 +198,7 @@ Het ministerie bestaat uit de volgende organisatieonderdelen:
 
 - m. het afnemen van de eed of de belofte bij de indiensttreding van een functionaris, bedoeld in [artikel 7 Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=7).
 
-#### Artikel 5. Bevoegdheden secretaris-generaal
+##### Artikel 5. Bevoegdheden secretaris-generaal
 
 1. De secretaris-generaal is bevoegd om namens een bewindspersoon besluiten te nemen, privaatrechtelijke rechtshandelingen te verrichten en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn.
 
@@ -192,7 +218,7 @@ Het ministerie bestaat uit de volgende organisatieonderdelen:
 
 4. De secretaris-generaal kan departementale projectorganisaties instellen en arbeidsovereenkomsten aangaan met projectdirecteuren die leiding geven aan deze projectorganisaties.
 
-#### Artikel 6. Verantwoordelijkheden plaatsvervangend secretaris-generaal
+##### Artikel 6. Verantwoordelijkheden plaatsvervangend secretaris-generaal
 
 1. De plaatsvervangend secretaris-generaal vervangt de secretaris-generaal bij diens afwezigheid of verhindering. Hij treedt alsdan in de verantwoordelijkheden en bevoegdheden van de secretaris-generaal.
 
@@ -252,7 +278,7 @@ Het ministerie bestaat uit de volgende organisatieonderdelen:
 
 6. De plaatsvervangend secretaris-generaal is verantwoordelijk voor het CIO-stelsel en wijst de CIO van het ministerie aan.
 
-#### Artikel 7. Bevoegdheden plaatsvervangend secretaris-generaal
+##### Artikel 7. Bevoegdheden plaatsvervangend secretaris-generaal
 
 1. De plaatsvervangend secretaris-generaal is bevoegd om namens een bewindspersoon besluiten te nemen, privaatrechtelijke rechtshandelingen te verrichten en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met zijn werkterrein als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=6&z=2026-04-16&g=2026-04-16) en voor zover zij niet zijn voorbehouden aan een bewindspersoon of de secretaris-generaal. Van de volmacht, bedoeld in de eerste volzin, is evenwel uitgezonderd het aangaan van:
 
@@ -274,7 +300,7 @@ Het ministerie bestaat uit de volgende organisatieonderdelen:
 
 - f. het nemen van dwangsombesluiten die verband houden met het niet tijdig afdoen van een besluit, voor zover dit betrekking heeft op de eigen verantwoordelijkheden of het eigen werkterrein.
 
-#### Artikel 8. Verantwoordelijkheden (programma-)directeuren-generaal en inspecteur-generaal Nederlandse Arbeidsinspectie
+##### Artikel 8. Verantwoordelijkheden (programma-)directeuren-generaal en inspecteur-generaal Nederlandse Arbeidsinspectie
 
 1. Elke (programma-)directeur-generaal en de inspecteur-generaal Nederlandse Arbeidsinspectie geven rechtstreeks leiding aan de hoofden van de organisatieonderdelen welke ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2026-04-16&g=2026-04-16) rechtstreeks onder elk van hen ressorteren.
 
@@ -300,7 +326,7 @@ Het ministerie bestaat uit de volgende organisatieonderdelen:
 
 4. Het derde lid is van overeenkomstige toepassing op de inspecteur-generaal Nederlandse Arbeidsinspectie, met dien verstande dat hij voor de toepassing van onderdeel f verantwoordelijk is voor het rapporteren aan de secretaris-generaal over de uitvoering van het jaarplan van de gehele Nederlandse Arbeidsinspectie.
 
-#### Artikel 9. Bevoegdheden (programma-)directeuren-generaal en inspecteur-generaal Nederlandse Arbeidsinspectie
+##### Artikel 9. Bevoegdheden (programma-)directeuren-generaal en inspecteur-generaal Nederlandse Arbeidsinspectie
 
 1. Elke (programma-)directeur-generaal is bevoegd om namens een bewindspersoon besluiten te nemen, privaatrechtelijke rechtshandelingen te verrichten en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met zijn werkterrein en voor zover zij niet zijn voorbehouden aan een bewindspersoon of de secretaris-generaal. Van de volmacht, bedoeld in de eerste volzin, is evenwel uitgezonderd het aangaan van de volgende overeenkomsten:
 
@@ -348,7 +374,7 @@ Het ministerie bestaat uit de volgende organisatieonderdelen:
 
 4. De uitzonderingen, genoemd in het eerste lid, onderdelen c, d, f, h en i, gelden niet voor de in het eerste lid genoemde bevoegdheden die de directeur-generaal Sociale Zekerheid en Integratie heeft in verband met zijn werkterrein beschreven in [artikel 10, aanhef en onderdelen u en v](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=3&artikel=10&z=2026-04-16&g=2026-04-16).
 
-#### Artikel 10. Werkterrein directeur-generaal Sociale Zekerheid en Integratie
+##### Artikel 10. Werkterrein directeur-generaal Sociale Zekerheid en Integratie
 
 De directeur-generaal Sociale Zekerheid en Integratie is belast met de beleids- en bedrijfsvoering betreffende de organisatieonderdelen, genoemd in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2026-04-16&g=2026-04-16). Het werkterrein van de directeur-generaal Sociale Zekerheid en Integratie omvat in brede zin:
 
@@ -400,7 +426,7 @@ De directeur-generaal Sociale Zekerheid en Integratie is belast met de beleids- 
 
 - x. het zorgdragen voor de uitvoeringstaken van de bewindspersoon op Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 11. Werkterrein directeur-generaal Werk
+##### Artikel 11. Werkterrein directeur-generaal Werk
 
 De directeur-generaal Werk is belast met de beleids- en bedrijfsvoering betreffende de organisatieonderdelen, genoemd in [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2026-04-16&g=2026-04-16). Het werkterrein van de directeur-generaal Werk omvat in brede zin:
 
@@ -426,7 +452,7 @@ De directeur-generaal Werk is belast met de beleids- en bedrijfsvoering betreffe
 
 - k. het vervullen van de rol van opdrachtgever van de uitvoeringsorganisaties van het ministerie.
 
-#### Artikel 12. Werkterrein inspecteur-generaal Nederlandse Arbeidsinspectie
+##### Artikel 12. Werkterrein inspecteur-generaal Nederlandse Arbeidsinspectie
 
 1. De inspecteur-generaal Nederlandse Arbeidsinspectie is belast met de beleids- en bedrijfsvoering betreffende de Nederlandse Arbeidsinspectie, die bestaat uit de organisatieonderdelen, genoemd in [artikel 2, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2026-04-16&g=2026-04-16). Het werkterrein van de inspecteur-generaal Nederlandse Arbeidsinspectie omvat in brede zin:
 
@@ -444,7 +470,7 @@ De directeur-generaal Werk is belast met de beleids- en bedrijfsvoering betreffe
 
 5. De Nederlandse Arbeidsinspectie is verantwoordelijk voor het Informatieknooppunt SZW.
 
-#### Artikel 13. Opvolging van bevoegdheden door directies Nederlandse Arbeidsinspectie
+##### Artikel 13. Opvolging van bevoegdheden door directies Nederlandse Arbeidsinspectie
 
 1. Waar in wet- en regelgeving bevoegdheden zijn toegekend aan de Arbeidsinspectie of aan de Inspectie SZW, aan ambtenaren van de Arbeidsinspectie of van de Inspectie SZW dan wel aan de algemeen directeur van de Arbeidsinspectie of aan de inspecteur-generaal Sociale Zaken en Werkgelegenheid, worden deze bevoegdheden uitgeoefend door de Nederlandse Arbeidsinspectie, ambtenaren van de Nederlandse Arbeidsinspectie respectievelijk de inspecteur-generaal Nederlandse Arbeidsinspectie. Waar in enig wettelijk voorschrift ambtenaren van de Arbeidsinspectie of van de Inspectie SZW zijn aangewezen als ambtenaren belast met toezicht op de naleving of opsporing, gelden die aanwijzingen nu voor de ambtenaren van de Nederlandse Arbeidsinspectie, die daartoe bij de Nederlandse Arbeidsinspectie zijn aangesteld.
 
@@ -454,7 +480,7 @@ De directeur-generaal Werk is belast met de beleids- en bedrijfsvoering betreffe
 
 ### Hoofdstuk 4. Algemene bepalingen ten aanzien van de uitoefening van taken en bevoegdheden
 
-#### Artikel 14. Uitoefening bevoegdheden
+##### Artikel 14. Uitoefening bevoegdheden
 
 1. De uitoefening van vertegenwoordigingsbevoegdheden geschiedt binnen de grenzen van de vastgestelde taken en met inachtneming van het terzake geldende recht alsmede de voor de rijksdienst en voor het ministerie geldende beleids- en uitvoeringsregels.
 
@@ -476,7 +502,7 @@ De directeur-generaal Werk is belast met de beleids- en bedrijfsvoering betreffe
 
 - b. indien de aard van de bevoegdheid zich daartegen verzet.
 
-#### Artikel 15. Wijze van ondertekening
+##### Artikel 15. Wijze van ondertekening
 
 1. De afdoening van alle stukken waarvan de bewindspersonen aangeven dat zij deze zelf wensen af te doen, geschiedt door een bewindspersoon.
 
@@ -496,7 +522,7 @@ De directeur-generaal Werk is belast met de beleids- en bedrijfsvoering betreffe
 
 5. In afwijking van het derde lid blijft de handtekening van de directeur Collectieve arbeidsovereenkomsten achterwege voor categorieën van beschikkingen die schriftelijk zijn aangewezen door de directeur-generaal Werk.
 
-#### Artikel 16. Bevoegdheden voorbehouden aan bewindspersonen
+##### Artikel 16. Bevoegdheden voorbehouden aan bewindspersonen
 
 1. Stukken, bestemd voor:
 
@@ -526,31 +552,31 @@ worden vastgesteld en ondertekend door een bewindspersoon.
 
 6. Besluiten tot instelling van een externe of interdepartementale commissie of een adviescollege in de zin van de [Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159) en de benoeming van de leden van deze organen dan wel de inschakeling van externe personen die op verzoek van een bewindspersoon op persoonlijke titel en op individuele basis een bepaalde taak verrichten, worden genomen en ondertekend door een bewindspersoon.
 
-#### Artikel 17. Commissies en adviescolleges
+##### Artikel 17. Commissies en adviescolleges
 
 1. Een voorstel tot het nemen van een besluit als bedoeld [artikel 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=4&artikel=16&z=2026-04-16&g=2026-04-16), wordt na schriftelijke instemming van de secretaris-generaal aan een bewindspersoon voorgelegd.
 
 2. Besluiten tot de toekenning van vergoedingen en beloningen aan een externe of interdepartementale commissie, een adviescollege in de zin van de Kaderwet adviescolleges, dan wel aan externe personen die op verzoek van een bewindspersoon op persoonlijke titel en op individuele basis een bepaalde taak verrichten, worden genomen na schriftelijke instemming van de secretaris-generaal.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Bij afwezigheid of verhindering van een vertegenwoordigingsbevoegde worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door een daartoe aan te wijzen plaatsvervanger, behoudens de bevoegdheid tot het verlenen, wijzigen of intrekken van mandaten, volmachten en machtigingen.
 
 2. Bij gelijktijdige afwezigheid of verhindering van de secretaris-generaal en de plaatsvervangend secretaris-generaal worden de taken en bevoegdheden van de secretaris-generaal waargenomen door de directeur-generaal Sociale Zekerheid en Integratie, de directeur-generaal Werk of de programma-directeur-generaal Werk aan Uitvoering, behoudens de bevoegdheid tot het verlenen, wijzigen of intrekken van mandaten, volmachten en machtigingen.
 
-#### Artikel 19. Bevoegdheid leidinggevende
+##### Artikel 19. Bevoegdheid leidinggevende
 
 Tenzij in deze regeling anders is bepaald, is de leidinggevende van een vertegenwoordigingsbevoegde te allen tijde bevoegd de aan deze verleende bevoegdheden zelf uit te oefenen.
 
-#### Artikel 20. Eigen personeelsaangelegenheden
+##### Artikel 20. Eigen personeelsaangelegenheden
 
 Een vertegenwoordigingsbevoegde is niet bevoegd tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken op het gebied van personeelsaangelegenheden die betrekking hebben op hemzelf.
 
-#### Artikel 21. Subsidies
+##### Artikel 21. Subsidies
 
 Vervallen
 
-#### Artikel 22. Overeenkomsten en opdrachten
+##### Artikel 22. Overeenkomsten en opdrachten
 
 1. Het gebruik van een afgesloten raamovereenkomst is verplicht, behoudens toestemming van de houder van de raamovereenkomst om hiervan af te wijken.
 
@@ -564,7 +590,7 @@ Vervallen
 
 6. Het vijfde lid is niet van toepassing op de RCN-unit SZW, gevestigd te Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 23. Doorverlening bevoegdheden
+##### Artikel 23. Doorverlening bevoegdheden
 
 1. De secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeuren-generaal en de inspecteur-generaal Nederlandse Arbeidsinspectie kunnen hun vertegenwoordigingsbevoegdheden in een door hen te bepalen omvang mandateren of doorverlenen aan onder hen ressorterende functionarissen. Zij kunnen daarbij bepalen dat deze ondermandaat kunnen verlenen respectievelijk volmacht en machtiging kunnen doorverlenen aan rechtstreeks onder hen ressorterende functionarissen.
 
@@ -590,13 +616,13 @@ Vervallen
 
 5. In afwijking van het tweede lid, onderdeel b, kan de plaatsvervangend secretaris-generaal de bevoegdheid doorverlenen aan de directeur van de Rijksschoonmaakorganisatie ten aanzien van het aangaan en beëindigen van arbeidsovereenkomsten met onder de directeur van de Rijksschoonmaakorganisatie ressorterende functionarissen die vallen onder de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
-#### Artikel 24. Kennisgeving doorverlening bevoegdheden
+##### Artikel 24. Kennisgeving doorverlening bevoegdheden
 
 1. De vertegenwoordigingsbevoegde brengt de door hem vastgestelde organisatie- mandaat- en volmachtbesluiten onmiddellijk en in elk geval voor de bekendmaking ter kennis aan de mandaat- respectievelijk volmachtgever en – indien deze niet tevens de directe leidinggevende is – aan de directe leidinggevende, alsmede aan de secretaris-generaal.
 
 2. Binnen het ministerie wordt een mandaat-, volmacht- en machtigingsregister SZW bijgehouden. De vertegenwoordigingsbevoegde draagt zorg voor een juiste, volledige en tijdige aanlevering van de door hem vastgestelde besluiten tot doorverlening van mandaten, volmachten en machtigingen, alsmede van aanwijzingen van plaatsvervangers als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=4&artikel=18&z=2026-04-16&g=2026-04-16), aan de beheerder van het mandaat-, volmacht- en machtigingsregister SZW.
 
-#### Artikel 25. Aanwijzingen
+##### Artikel 25. Aanwijzingen
 
 1. Aan de uitoefening van de bij dit besluit opgedragen taken en van de bij en krachtens dit besluit verleende bevoegdheden kunnen door iedere leidinggevende algemene en bijzondere aanwijzingen aan zijn ondergeschikten worden verbonden.
 
@@ -610,19 +636,19 @@ Vervallen
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 26. Wijziging andere regeling
+##### Artikel 26. Wijziging andere regeling
 
 Wijzigt het Mandaatbesluit Tijdelijke SZW-borgstellingsregeling startende ondernemers vanuit een uitkering.
 
-#### Artikel 27. Wijziging andere regeling
+##### Artikel 27. Wijziging andere regeling
 
 Wijzigt het Mandaatbesluit SZW-Subsidieregeling preventie van arbeidsuitval 2004.
 
-#### Artikel 28. Wijziging andere regeling
+##### Artikel 28. Wijziging andere regeling
 
 Wijzigt het Mandaat projectdirectie Leren en Werken.
 
-#### Artikel 29. Intrekking en nieuwe grondslag regelingen
+##### Artikel 29. Intrekking en nieuwe grondslag regelingen
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit SZW 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016199) en de [Regeling taken en bevoegdheden bezwaar- en beroepszaken werktijdverkorting](https://wetten.overheid.nl/jci1.3:c:BWBR0016492) worden ingetrokken.
 
@@ -646,17 +672,17 @@ Wijzigt het Mandaat projectdirectie Leren en Werken.
 
 - h. de [Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 7 mei 2007, nr. AV/IR/2007/15381, houdende doorverlening van vertegenwoordigingsbevoegdheden aan de directeur van het Agentschap SZW in verband met de uitvoering van de Tijdelijke Subsidieregeling Europees Jaar van gelijke kansen voor iedereen](https://wetten.overheid.nl/jci1.3:c:BWBR0021838).
 
-#### Artikel 30. Inwerkingtreding
+##### Artikel 30. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2009, met dien verstande dat [artikel 26, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=5&artikel=26&z=2026-04-16&g=2026-04-16) terugwerkt tot en met 1 juli 2007.
 
-#### Artikel 31. Citeertitel
+##### Artikel 31. Citeertitel
 
 Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit SZW 2009.
 
 Deze regeling zal met de toelichting (en de bijlage(n)) in de Staatscourant worden geplaatst.
 
-#### Artikel 13a. Werkterrein programma-directeur-generaal Werk aan Uitvoering
+##### Artikel 13a. Werkterrein programma-directeur-generaal Werk aan Uitvoering
 
 De programma-directeur-generaal Werk aan Uitvoering is belast met de beleids- en bedrijfsvoering betreffende de organisatieonderdelen, genoemd in [artikel 2, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&hoofdstuk=2&artikel=2&z=2026-04-16&g=2026-04-16). Het werkterrein van de programma-directeur-generaal Werk aan Uitvoering omvat in brede zin:
 
@@ -672,7 +698,7 @@ De programma-directeur-generaal Werk aan Uitvoering is belast met de beleids- en
 
 Deze regeling zal met de toelichting (en de bijlage(n)) in de Staatscourant worden geplaatst.
 
-#### Artikel 13b. Werkterrein Regeringscommissaris transitie pensioenen
+##### Artikel 13b. Werkterrein Regeringscommissaris transitie pensioenen
 
 1. De Regeringscommissaris transitie pensioenen staat beheersmatig onder leiding van de directeur-generaal Werk.
 

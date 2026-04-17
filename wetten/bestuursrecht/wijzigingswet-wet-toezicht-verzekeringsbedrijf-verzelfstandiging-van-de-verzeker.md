@@ -1,14 +1,37 @@
 ---
-title: "Wijzigingswet Wet toezicht verzekeringsbedrijf (verzelfstandiging van de Verzekeringskamer)"
+title: "Wet van 1 juli 1992, houdende regelen met betrekking tot de verzelfstandiging van de Verzekeringskamer"
 identifier: "BWBR0005580"
-categorie: "Bestuursrecht"
-publicatiedatum: 1992-09-01
-laatste_update: 1992-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005580"
+country: "nl"
+rank: "wet"
+publication_date: "1992-09-01"
+last_updated: "1992-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005580"
+soort: "wet"
+stam_id: "561583"
+version_id: "818492"
+internal_id: "C818491"
+label_id: "545374"
+dtd_version: "2.0"
+original_entry_into_force: "1992-07-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005580/1992-09-01/0"
+intitule_bron: "Stb.1992-372"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-07-01"
+intitule_status: "goed"
+original_publication: "Stb.1992-372"
+original_signed_date: "1992-07-01"
+original_effect: "nieuwe-regeling"
+original_dossier: "22316"
+entry_into_force_date: "1992-07-31"
+jci_1_3: "jci1.3:c:BWBR0005580&z=1992-09-01&g=1992-09-01"
+jci_1_0: "1.0:c:BWBR0005580&g=1992-09-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet toezicht verzekeringsbedrijf (verzelfstandiging van de Verzekeringskamer)"
+signed_date: "1992-07-01"
+entry_into_force: "1992-07-31"
 ---
-
-# Wijzigingswet Wet toezicht verzekeringsbedrijf (verzelfstandiging van de Verzekeringskamer)
+# Wet van 1 juli 1992, houdende regelen met betrekking tot de verzelfstandiging van de Verzekeringskamer
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,31 +39,31 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is over te gaan tot de 
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IV
+##### Artikel IV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel V
+##### Artikel V
 
 De in de [artikelen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0005580&artikel=VI&z=1992-09-01&g=1992-09-01), [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0005580&artikel=VII&z=1992-09-01&g=1992-09-01), [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0005580&artikel=VIII&z=1992-09-01&g=1992-09-01) en [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0005580&artikel=IX&z=1992-09-01&g=1992-09-01) zonder nadere aanduiding met arabische cijfers aangehaalde bepalingen zijn die van de [Wet toezicht verzekeringsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0006509), zoals zij luiden na het tijdstip van inwerkingtreding van deze wet.
 
-#### Artikel VI
+##### Artikel VI
 
 Onze Minister van Financiën en Onze Minister van Sociale Zaken en Werkgelegenheid worden gemachtigd om namens de Staat der Nederlanden een stichting op te richten die zij overeenkomstig artikel 2**a** kunnen aanwijzen als Verzekeringskamer.
 
-#### Artikel VII
+##### Artikel VII
 
 1. Behoudens het bepaalde in [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0005580&artikel=VIII&z=1992-09-01&g=1992-09-01) gaan op de datum van de aanwijzing, bedoeld in artikel 2**a**, alle vermogensbestanddelen welke aan de Verzekeringskamer worden toegerekend, onder algemene titel over op de aangewezen rechtspersoon.
 
@@ -48,7 +71,7 @@ Onze Minister van Financiën en Onze Minister van Sociale Zaken en Werkgelegenhe
 
 3. Ten aanzien van de in het eerste lid bedoelde vermogensbestanddelen welke in openbare registers te boek zijn gesteld, zal verandering van de tenaamstelling in die registers plaatsvinden. De daartoe nodige opgaven worden door de zorg van Onze Minister van Financiën aan de bewaarders van de desbetreffende registers gedaan.
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. Ieder personeelslid dat op de datum van de aanwijzing, bedoeld in artikel 2**a**, hetzij als ambtenaar, hetzij op arbeidsovereenkomst naar burgerlijk recht, in dienst is bij de Verzekeringskamer heeft het recht bij de krachtens artikel 2**a** aangewezen rechtspersoon in dienst te treden op een arbeidsovereenkomst naar burgerlijk recht, ingaande op die datum. Dit recht kan, tenzij op die datum bij Onze Minister van Financiën bezwaren tegen de arbeidsovereenkomst als zodanig zijn ingediend, niet na die datum worden uitgeoefend.
 
@@ -68,7 +91,7 @@ Onze Minister van Financiën en Onze Minister van Sociale Zaken en Werkgelegenhe
 
 9. Onze Minister van Financiën kan nadere regels stellen omtrent het bepaalde in dit artikel.
 
-#### Artikel IX
+##### Artikel IX
 
 1. Met ingang van de datum van de aanwijzing, bedoeld in artikel 2**a**, verkrijgen de in [artikel VIII, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005580&artikel=VIII&z=1992-09-01&g=1992-09-01), bedoelde personeelsleden jegens de aangewezen instelling als bedoeld in artikel 1, eerste lid, onderdeel **c**, van de [Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089), aanspraken die in totaliteit gelijkwaardig zijn aan die, welke deze personeelsleden op bedoelde datum krachtens de Algemene burgerlijke pensioenwet (**Stb.** 1986, 540) hebben.
 
@@ -86,11 +109,11 @@ Onze Minister van Financiën en Onze Minister van Sociale Zaken en Werkgelegenhe
 
 6. Het verschil tussen de waarde-overdracht krachtens het vierde lid en de lasten-min-batenuitkomst krachtens het vijfde lid wordt verrekend tussen het Algemeen burgerlijk pensioenfonds en de Minister van Financiën.
 
-#### Artikel X
+##### Artikel X
 
 Ter zake van de verkrijging door de aangewezen rechtspersoon van de vermogensbestanddelen, bedoeld in [artikel VII, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005580&artikel=VII&z=1992-09-01&g=1992-09-01), blijft heffing van overdrachtsbelasting achterwege.
 
-#### Artikel XI
+##### Artikel XI
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.
 

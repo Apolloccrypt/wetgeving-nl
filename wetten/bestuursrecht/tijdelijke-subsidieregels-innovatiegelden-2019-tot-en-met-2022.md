@@ -1,13 +1,35 @@
 ---
 title: "Tijdelijke subsidieregels Innovatiegelden 2019 tot en met 2022"
 identifier: "BWBR0041779"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-12-29
-laatste_update: 2018-12-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041779"
+country: "nl"
+rank: "zbo"
+publication_date: "2018-12-29"
+last_updated: "2018-12-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041779"
+soort: "zbo"
+stam_id: "14934673"
+version_id: "25571902"
+internal_id: "C36498611"
+label_id: "14885604"
+dtd_version: "2.0"
+original_entry_into_force: "2018-12-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041779/2018-12-29/0"
+intitule_bron: "Stcrt.2018-71953"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2018-12-28"
+intitule_in_force: "2018-12-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-71953"
+original_published_date: "2018-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-71953"
+entry_into_force_date: "2018-12-29"
+jci_1_3: "jci1.3:c:BWBR0041779&z=2018-12-29&g=2018-12-29"
+jci_1_0: "1.0:c:BWBR0041779&g=2018-12-29"
+citeertitel_status: "officieel"
+entry_into_force: "2018-12-29"
 ---
-
 # Tijdelijke subsidieregels Innovatiegelden 2019 tot en met 2022
 
 gelet op de [artikelen 1.2, eerste lid aanhef en onder a, sub i, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039469&artikel=1.2), [1.4 eerste tot en met vierde lid van het Subsidiereglement Koninklijke Bibliotheek 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0039469&artikel=1.4);
@@ -16,7 +38,7 @@ besluit:
 
 vast te stellen de navolgende Tijdelijke subsidieregels Innovatiegelden 2019 tot en met 2022
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regels wordt verstaan onder:
 
@@ -32,7 +54,7 @@ In deze regels wordt verstaan onder:
 
 - f. **POI:** provinciale ondersteuningsinstelling als bedoeld in [artikel 1, lid 1 onder e, van de Wet stelsel openbare bibliotheekvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=1);
 
-#### Artikel 2. Doelstellingen
+##### Artikel 2. Doelstellingen
 
 Met het verstrekken van de subsidies streeft de KB de volgende doelen na:
 
@@ -42,13 +64,13 @@ Met het verstrekken van de subsidies streeft de KB de volgende doelen na:
 
 - c. het ondersteunen van de doorgroei en uitrol van kansrijke innovatieve initiatieven.
 
-#### Artikel 3. Subsidieplafond
+##### Artikel 3. Subsidieplafond
 
 1. Het subsidieplafond is vastgesteld op € 200.000,– per jaar.
 
 2. Het subsidieplafond is, voor zover van toepassing, inclusief BTW.
 
-#### Artikel 4. Subsidiabele activiteiten
+##### Artikel 4. Subsidiabele activiteiten
 
 1. In het kader van de activiteit ‘het aansturen van het netwerk van openbare bibliotheekvoorzieningen’ als bedoeld in [artikel 1.2, eerste lid onder a, sub i van het Subsidiereglement Koninklijke Bibliotheek 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0039469&artikel=1.2), subsidieert het Algemeen Bestuurscollege projecten die:
 
@@ -64,13 +86,13 @@ Met het verstrekken van de subsidies streeft de KB de volgende doelen na:
 
 - b. projecten waarbij de subsidie in hoofdzaak ten goede komt aan de ontwikkeling of verkoop van een product van een commerciële partij.
 
-#### Artikel 5. Subsidieontvanger
+##### Artikel 5. Subsidieontvanger
 
 1. Subsidies worden uitsluitend verstrekt aan bibliotheken en aan POI’s voor zover zij fungeren als rechtspersoon voor en subsidie aanvragen ten behoeve van lokale bibliotheekvestigingen.
 
 2. Op grond van deze regeling kan een bibliotheek of POI maximaal twee subsidies ontvangen gedurende de looptijd van deze Tijdelijke subsidieregels.
 
-#### Artikel 6. Het indienen van de aanvraag
+##### Artikel 6. Het indienen van de aanvraag
 
 1. De aanvraag om subsidieverlening moet worden ingediend tussen 1 februari en 1 april van het jaar waarin met uitvoering van het project wordt gestart. De aanvraag wordt ingediend op het aanvraagformulier dat beschikbaar wordt gesteld op de website van de KB.
 
@@ -78,11 +100,11 @@ Met het verstrekken van de subsidies streeft de KB de volgende doelen na:
 
 3. De bij de aanvraag overgelegde begroting moet voldoende gespecificeerd, sluitend en door te rekenen zijn.
 
-#### Artikel 7. Beslistermijn
+##### Artikel 7. Beslistermijn
 
 Het Algemeen Bestuurscollege beslist op een aanvraag uiterlijk op 1 juli van het jaar waarin de aanvraag is ingediend.
 
-#### Artikel 8. Wijze van verdeling van het subsidieplafond
+##### Artikel 8. Wijze van verdeling van het subsidieplafond
 
 1. Het Algemeen Bestuurscollege verdeelt het beschikbare bedrag op volgorde van rangschikking van de aanvragen die in aanmerking komen voor een subsidie.
 
@@ -116,7 +138,7 @@ Het Algemeen Bestuurscollege beslist op een aanvraag uiterlijk op 1 juli van het
 
 8. Indien naar het oordeel van het Algemeen Bestuurscollege niet aannemelijk is dat de subsidieaanvrager na gedeeltelijke verlening van de subsidie op grond van het vorige lid de activiteiten zal uitvoeren, is het Algemeen Bestuurscollege bevoegd de subsidie te weigeren en deze te verlenen aan de eerstvolgende subsidieaanvrager die daar op basis van de rangschikking als bedoeld in het eerste lid voor in aanmerking komt.
 
-#### Artikel 9. Hoogte subsidie
+##### Artikel 9. Hoogte subsidie
 
 1. De subsidie per project bedraagt maximaal:
 
@@ -128,7 +150,7 @@ Het Algemeen Bestuurscollege beslist op een aanvraag uiterlijk op 1 juli van het
 
 3. De subsidie voor kosten van activiteiten die niet op te schalen en niet over te dragen zijn, bedraagt maximaal 20% van het totale subsidiebedrag. Tot deze kosten behoren in ieder geval kosten voor PR- en marketing en aanschaf van materiële zaken zoals computerapparatuur.
 
-#### Artikel 10. Verplichtingen
+##### Artikel 10. Verplichtingen
 
 Naast de verplichtingen die voor ontvangers van projectsubsidies zijn opgenomen in het [Subsidiereglement Koninklijke Bibliotheek 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0039469) legt het Algemeen Bestuurscollege tevens de volgende verplichtingen op:
 
@@ -142,17 +164,17 @@ Naast de verplichtingen die voor ontvangers van projectsubsidies zijn opgenomen 
 
 - 5. Op verzoek is de subsidieontvanger eveneens verplicht een kopie van de gecreëerde werken aan de KB te verstrekken.
 
-#### Artikel 11. Intrekking oude regels en overgangsbepaling
+##### Artikel 11. Intrekking oude regels en overgangsbepaling
 
 1. De [Tijdelijke subsidieregels Innovatiegelden Koninklijke Bibliotheek 2017–2018](https://wetten.overheid.nl/jci1.3:c:BWBR0039572) worden ingetrokken.
 
 2. De [Tijdelijke subsidieregels Innovatiegelden Koninklijke Bibliotheek 2017–2018](https://wetten.overheid.nl/jci1.3:c:BWBR0039572) blijven van toepassing op subsidies die op grond van die regels zijn verleend.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Deze regels treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst en vervallen met ingang van 1 januari 2023.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze regels worden aangehaald als: Tijdelijke subsidieregels Innovatiegelden 2019 tot en met 2022.
 

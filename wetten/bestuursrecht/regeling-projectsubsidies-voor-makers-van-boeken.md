@@ -1,13 +1,35 @@
 ---
 title: "Regeling projectsubsidies voor makers van boeken"
 identifier: "BWBR0051439"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051439"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051439"
+soort: "zbo"
+stam_id: "17510163"
+version_id: "30895552"
+internal_id: "C44270901"
+label_id: "17412394"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051439/2026-01-01/0"
+intitule_bron: "Stcrt.2025-29422"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-09-09"
+intitule_in_force: "2025-09-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-29422"
+original_published_date: "2025-09-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-29422"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051439&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051439&g=2026-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2026-01-01"
 ---
-
 # Regeling projectsubsidies voor makers van boeken
 
 gelet op de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
@@ -20,7 +42,7 @@ besluit:
 
 De volgende Regeling projectsubsidies voor makers van boeken vast te stellen.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -66,11 +88,11 @@ In deze regeling wordt verstaan onder:
 
 - r. **website:** de website van het Letterenfonds, zijnde [www.letterenfonds.nl](http://www.letterenfonds.nl).
 
-#### Artikel 2. Toepasselijkheid
+##### Artikel 2. Toepasselijkheid
 
 Deze regeling is van toepassing op projectsubsidies die het bestuur verstrekt voor de totstandkoming van boekpublicaties.
 
-#### Artikel 3. Vereisten aanvrager
+##### Artikel 3. Vereisten aanvrager
 
 1. De aanvrager voor een projectsubsidie is een natuurlijk persoon en voldoet aan de volgende voorwaarden:
 
@@ -88,7 +110,7 @@ Deze regeling is van toepassing op projectsubsidies die het bestuur verstrekt vo
 
 4. De aanvrager die een projectsubsidie op grond van deze regeling heeft ontvangen, kan niet eerder een volgende projectsubsidie aanvragen dan na twee jaar na het moment van subsidievaststelling bij een ontvangen subsidie van € 30.000 dan wel na één jaar na het moment van subsidievaststelling bij een ontvangen subsidie van € 15.000.
 
-#### Artikel 4. Vereisten boekpublicatie
+##### Artikel 4. Vereisten boekpublicatie
 
 1. De boekpublicatie waarvoor subsidie wordt aangevraagd, moet voldoen aan de volgende vereisten:
 
@@ -108,7 +130,7 @@ Deze regeling is van toepassing op projectsubsidies die het bestuur verstrekt vo
 
 3. Het derde lid is van overeenkomstige toepassing op de aanvraag voor een boekpublicatie in het Papiaments, ongeacht de woonplaats van de aanvrager.
 
-#### Artikel 5. Uitzonderingen op de uitgaveovereenkomst
+##### Artikel 5. Uitzonderingen op de uitgaveovereenkomst
 
 1. De definitie van uitgaveovereenkomst is niet van toepassing op de aanvrager voor een graphic novel. De overeenkomst met de uitgeverij voldoet bij graphic novels in elk geval aan de volgende voorwaarden:
 
@@ -122,7 +144,7 @@ Deze regeling is van toepassing op projectsubsidies die het bestuur verstrekt vo
 
 3. Het derde lid is van overeenkomstige toepassing op de aanvraag voor een boekpublicatie in het Papiaments, ongeacht de woonplaats van de aanvrager.
 
-#### Artikel 6. Aanvraag
+##### Artikel 6. Aanvraag
 
 1. Een aanvraag voor subsidie wordt ingediend via de website met gebruikmaking van het op de website ter beschikking gestelde aanvraagformulier via 'Start je aanvraag’.
 
@@ -174,7 +196,7 @@ Deze regeling is van toepassing op projectsubsidies die het bestuur verstrekt vo
 
 7. Een aanvraag kan uitsluitend bij het Letterenfonds of Literatuur Vlaanderen worden ingediend. Makers van boeken die woonachtig zijn in Vlaanderen, kunnen uitsluitend aanvragen bij Literatuur Vlaanderen.
 
-#### Artikel 7. Weigeringsgronden
+##### Artikel 7. Weigeringsgronden
 
 1. Een aanvraag voor subsidie kan worden afgewezen:
 
@@ -204,7 +226,7 @@ Deze regeling is van toepassing op projectsubsidies die het bestuur verstrekt vo
 
 4. Indien een eerdere aanvraag is toegewezen, kan pas een nieuwe aanvraag in behandeling worden genomen als de gesubsidieerde boekpublicatie van die eerdere aanvraag is verschenen.
 
-#### Artikel 8. Subsidierondes
+##### Artikel 8. Subsidierondes
 
 1. Het bestuur behandelt de aanvragen in verschillende subsidierondes per jaar:
 
@@ -238,7 +260,7 @@ Deze regeling is van toepassing op projectsubsidies die het bestuur verstrekt vo
 
 9. Het Letterenfonds publiceert de openings- en sluitingsdata van de subsidierondes, bedoeld in het eerste lid, in de Staatscourant en op de website.
 
-#### Artikel 9. Subsidieplafond
+##### Artikel 9. Subsidieplafond
 
 1. Het subsidieplafond voor subsidieverstrekking op grond van deze regeling bedraagt € 3.620.000 per jaar. Het bestuur verdeelt het bedrag over de verschillende subsidierondes door het vaststellen van deelsubsidieplafonds per subsidieronde.
 
@@ -246,7 +268,7 @@ Deze regeling is van toepassing op projectsubsidies die het bestuur verstrekt vo
 
 3. Bij onderbesteding van het budget in een subsidieronde kan het bestuur besluiten om in het laatste kwartaal van het jaar de afgewezen aanvragen alsnog toe te wijzen met inachtneming van de rangorde als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051439&artikel=10&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 10. Criteria
+##### Artikel 10. Criteria
 
 1. Het bestuur beslist gelijktijdig op de ingediende aanvragen per subsidieronde.
 
@@ -282,7 +304,7 @@ Deze regeling is van toepassing op projectsubsidies die het bestuur verstrekt vo
 
 **deelcriterium 2d:** maatschappelijke of culturele relevantie.
 
-#### Artikel 11. Adviescommissie
+##### Artikel 11. Adviescommissie
 
 1. Het bestuur laat zich voor de toets aan de beoordelingscriteria en de hoogte van het subsidiebedrag adviseren door een adviescommissie die is samengesteld uit leden van de Raad van advies als bedoeld in het Huishoudelijk reglement van het Letterenfonds. De adviescommissie kan zich laten bijstaan door één of meer externe adviseurs.
 
@@ -292,7 +314,7 @@ Deze regeling is van toepassing op projectsubsidies die het bestuur verstrekt vo
 
 4. Het bestuur betrekt bij zijn besluit over de aanvraag het advies van de adviescommissie.
 
-#### Artikel 12. Verdeling budget
+##### Artikel 12. Verdeling budget
 
 1. Het bestuur verdeelt het beschikbare budget volgens de rangorde, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051439&artikel=10&z=2026-01-01&g=2026-01-01). Daartoe worden de oordelen, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051439&artikel=11&z=2026-01-01&g=2026-01-01), vertaald naar cijfers volgens onderstaande tabel.
 
@@ -372,7 +394,7 @@ Deze regeling is van toepassing op projectsubsidies die het bestuur verstrekt vo
 
 12. Als een aanvraag niet kan worden gehonoreerd als gevolg van overschrijding van het subsidieplafond, dan wordt de aanvraag afgewezen en schuift het restantbedrag door naar de eerstvolgende subsidieronde.
 
-#### Artikel 13. Hoogte van de subsidie
+##### Artikel 13. Hoogte van de subsidie
 
 1. De hoogte van de subsidie bedraagt € 15.000 voor projecten met een verwachte duur korter dan twee jaar en € 30.000 voor projecten met een verwachte duur van tenminste twee jaar. Voor een debuut bedraagt de hoogte van de subsidie € 15.000 ongeacht de duur van het project.
 
@@ -382,7 +404,7 @@ Deze regeling is van toepassing op projectsubsidies die het bestuur verstrekt vo
 
 4. In het geval er bij een graphic novel sprake is van een schrijver en een beeldmaker bedraagt de hoogte van de subsidie € 20.000 voor projecten met een verwachte duur korter dan twee jaar en € 40.000 voor projecten met een verwachte duur van tenminste twee jaar. De verdeling van dit bedrag tussen schrijver en beeldmaker komt overeen met de royaltyverdeling in het contract tussen schrijver, beeldmaker en uitgeverij, tenzij schrijver en beeldmaker met wederzijds goedvinden een andere onderverdeling voorstellen. Indien de schrijver en beeldmaker één persoon zijn, geldt het eerste lid.
 
-#### Artikel 14. Verplichtingen subsidieontvanger
+##### Artikel 14. Verplichtingen subsidieontvanger
 
 1. De subsidieontvanger besteedt de subsidie aan de totstandkoming van de in de aanvraag omschreven publicatie.
 
@@ -406,7 +428,7 @@ Deze regeling is van toepassing op projectsubsidies die het bestuur verstrekt vo
 
 11. De subsidieontvanger werkt mee aan door of namens het Letterenfonds ingesteld onderzoek dat erop is gericht het Letterenfonds inlichtingen te verschaffen ten behoeve van de ontwikkeling van het beleid.
 
-#### Artikel 15. Termijnen, subsidieverlening en -vaststelling
+##### Artikel 15. Termijnen, subsidieverlening en -vaststelling
 
 1. Het bestuur beslist over de subsidieverlening binnen 22 weken na afloop van de periode waarin aanvragen kunnen worden ingediend.
 
@@ -414,7 +436,7 @@ Deze regeling is van toepassing op projectsubsidies die het bestuur verstrekt vo
 
 3. In de beschikking wordt de wijze van betaling van de subsidie bepaald.
 
-#### Artikel 16. Intrekkings- en wijzigingsgronden subsidievaststelling
+##### Artikel 16. Intrekkings- en wijzigingsgronden subsidievaststelling
 
 1. Het bestuur kan de subsidievaststelling intrekken of wijzigen als de subsidieontvanger niet heeft voldaan aan de aan de subsidie verbonden verplichtingen.
 
@@ -430,11 +452,11 @@ Deze regeling is van toepassing op projectsubsidies die het bestuur verstrekt vo
 
 7. Het bedrag waarmee de subsidie eventueel wordt verlaagd wordt verrekend met eventueel nog te betalen gedeelten van de subsidie of teruggevorderd.
 
-#### Artikel 17. Hardheidsclausule
+##### Artikel 17. Hardheidsclausule
 
 Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een artikel buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard.
 
-#### Artikel 18. Overgangsbepalingen
+##### Artikel 18. Overgangsbepalingen
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2026.
 
@@ -442,7 +464,7 @@ Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een
 
 3. In afwijking van het tweede lid blijven de [Regeling projectsubsidies voor publicaties](https://wetten.overheid.nl/jci1.3:c:BWBR0032647) en de regeling [Schrijverslevens, biografieregeling Nederlands Letterenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0045523) van toepassing op voor het tijdstip van inwerkingtreding van deze regeling ingediende aanvragen, verleende subsidies en tijdig ingestelde bezwaar- en beroepschriften.
 
-#### Artikel 19. Citeertitel
+##### Artikel 19. Citeertitel
 
 Deze regeling wordt aangehaald als Regeling projectsubsidies voor makers van boeken.
 

@@ -1,20 +1,45 @@
 ---
-title: "Aanwijzing Vervoerdocumenten en Nadere Administratievoorschriften inzake Uitvoering Verordening nr. 11 van de raad van de E.E.G."
+title: "Aanwijzing Vervoerdocumenten en Nadere Administratievoorschriften inzake Uitvoering Verordening nr. 11 van de raad van de E.E.G"
 identifier: "BWBR0002437"
-categorie: "Bestuursrecht"
-publicatiedatum: 1964-03-01
-laatste_update: 1964-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002437"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1964-03-01"
+last_updated: "1964-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002437"
+soort: "ministeriele-regeling"
+stam_id: "3676743"
+version_id: "5459782"
+internal_id: "C5652871"
+label_id: "3656664"
+dtd_version: "2.0"
+original_entry_into_force: "1964-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002437/1964-03-01/0"
+intitule_bron: "Stcrt.1964-41"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1964-02-21"
+intitule_published: "1964-02-27"
+intitule_in_force: "1964-02-27"
+intitule_status: "goed"
+original_publication: "Stcrt.1964-41"
+original_signed_date: "1964-02-21"
+original_published_date: "1964-02-27"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1964-03-01"
+jci_1_3: "jci1.3:c:BWBR0002437&z=1964-03-01&g=1964-03-01"
+jci_1_0: "1.0:c:BWBR0002437&g=1964-03-01"
+citeertitel_status: "officieel"
+short_title: "Aanwijzing Vervoerdocumenten en Nadere Administratievoorschriften inzake Uitvoering Verordening nr. 11 van de raad van de E.E.G."
+signed_date: "1964-02-21"
+entry_into_force: "1964-03-01"
 ---
-
 # Aanwijzing Vervoerdocumenten en Nadere Administratievoorschriften inzake Uitvoering Verordening nr. 11 van de raad van de E.E.G
 
 Gelet op artikel 7 van het Koninklijk besluit van 14 februari 1964, Stb. 35,
 
 Besluit:
 
-#### 1. definities
+##### 1. definities
 
 In deze beschikking wordt verstaan onder:
 
@@ -24,7 +49,7 @@ In deze beschikking wordt verstaan onder:
 
 - c. eigen vervoer: eigen vervoer, als bedoeld in artikel 1, eerste lid, onder **j**, van de Wet Autovervoer Goederen en als bedoeld in artikel 1, eerste lid, onder **i**, van de Wet Goederenvervoer Binnenscheepvaart.
 
-#### 2. E.E.G. discriminatie-controledocument
+##### 2. E.E.G. discriminatie-controledocument
 
 1. Behoudens het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002437&artikel=3&z=1964-03-01&g=1964-03-01), wordt als vervoerdocument, bedoeld in artikel 6, eerste lid, van het besluit, aangewezen een E.E.G.-discriminatie-controledocument, hetwelk overeenstemt met het model, opgenomen in de hij deze beschikking behorende bijlage.
 
@@ -34,7 +59,7 @@ In deze beschikking wordt verstaan onder:
 
 - b. De te bewaren exemplaren worden volgens nummer gerangschikt.
 
-#### 3. Andere vervoerdocumenten
+##### 3. Andere vervoerdocumenten
 
 1. In afwijking van het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002437&artikel=2&z=1964-03-01&g=1964-03-01), kan:
 
@@ -66,13 +91,13 @@ In deze beschikking wordt verstaan onder:
 
 3. De ondernemer, die vervoer over de weg of over de binnenwateren verricht en die een bedrijfsadministratie bijhoudt overeenkomstig het Administratievoorschrift Autovervoer Goederen en Goederenvervoer Binnenscheepvaart, wordt geacht aan het voorschrift, gesteld in het vorige lid, onder **a**, te voldoen.
 
-#### 4. Enkele bijzondere bepalingen voor het eigen vervoer
+##### 4. Enkele bijzondere bepalingen voor het eigen vervoer
 
 1. In afwijking van het bepaalde in [artikel 2, tweede lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002437&artikel=2&z=1964-03-01&g=1964-03-01), dient de ondernemer, die eigen vervoer verricht met een gehuurde vrachtauto, dan wel met een gehuurd binnenschip, ervoor zorg te dragen, dat op het exemplaar van het E.E.G.-discriminatie-controledocument, dat wordt bewaard, verwezen wordt naar de huurovereenkomst. Uit dit document of uit de overige administratie moet duidelijk blijken met wie, op welk tijdstip, voor welke tijdsduur en voor welke prijs de betrokken huurovereenkomst is gesloten.
 
 2. De ondernemer, die eigen vervoer verricht met een vervoermiddel, dat zijn eigendom is of dat hij op afbetaling heeft gekocht, doch dat niet door hem zelf of een lid van zijn personeel wordt bestuurd, dient ervoor zorg te dragen, dat op het E.E.G. discriminatiecontroledocument dan wel op het ingevolge [artikel 3 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002437&artikel=3&z=1964-03-01&g=1964-03-01), toegelaten vervoerdocument gegevens worden vermeld, waaruit blijkt, dat het vervoer als eigen vervoer kan worden aangemerkt.
 
-#### 5. Inwerkingtreding
+##### 5. Inwerkingtreding
 
 Deze beschikking wordt in de **Nederlandse Staatscourant** geplaatst en treedt in werking met ingang van 1 maart 1964.
 

@@ -1,13 +1,35 @@
 ---
 title: "De subsidieregeling regionale transfercentra PO"
 identifier: "BWBR0035399"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-07-07
-laatste_update: 2014-07-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035399"
+country: "nl"
+rank: "zbo"
+publication_date: "2014-07-07"
+last_updated: "2014-07-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035399"
+soort: "zbo"
+stam_id: "12746293"
+version_id: "21575742"
+internal_id: "C30991221"
+label_id: "12716044"
+dtd_version: "2.0"
+original_entry_into_force: "2014-07-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035399/2014-07-07/0"
+intitule_bron: "Stcrt.2014-21461"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2014-07-29"
+intitule_in_force: "2014-07-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-21461"
+original_published_date: "2014-07-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-21461"
+entry_into_force_date: "2014-07-07"
+jci_1_3: "jci1.3:c:BWBR0035399&z=2014-07-07&g=2014-07-07"
+jci_1_0: "1.0:c:BWBR0035399&g=2014-07-07"
+citeertitel_status: "officieel"
+entry_into_force: "2014-07-07"
 ---
-
 # De subsidieregeling regionale transfercentra PO
 
 Het bestuur van de Stichting Participatiefonds,
@@ -26,7 +48,7 @@ Gelet op het mandaatbesluit van het bestuur van Stichting Participatiefonds van 
 
 Besluit vast te stellen de volgende regeling: Subsidieregeling Regionale Transfercentra PO.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -64,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 - 17. **Subsidie in natura:** uren die leden van het serviceteam inzetten bij de samenwerkingspartners dan wel bij het centrum ter ondersteuning van de samenwerkingspartners dan wel van het centrum in het kader van één of meer van de fases onder artikel 1 lid 13, lid 14, lid 15 en/of lid 16 bedoeld.
 
-#### Artikel 2. Beschikbare subsidie
+##### Artikel 2. Beschikbare subsidie
 
 1. De subsidie wordt onderscheiden in “subsidie in euro’s” en “subsidie in natura”. De subsidie in natura heeft de vorm van toekenning van uren-inzet van het serviceteam.
 
@@ -100,7 +122,7 @@ In deze regeling wordt verstaan onder:
 
 9. Indien voor een bepaalde fase toegekende subsidie in euro’s in die fase niet (volledig) is besteed, kan de stuurgroep op een daartoe strekkend schriftelijk verzoek van de samenwerkingspartners bepalen dat de niet bestede subsidie in de volgende fase mag worden besteed, mits ter dekking van de kosten waarvoor de subsidie oorspronkelijk was verleend.
 
-#### Artikel 3. Activiteiten die voor subsidie in natura in aanmerking komen
+##### Artikel 3. Activiteiten die voor subsidie in natura in aanmerking komen
 
 1. In de planfase komen de samenwerkingspartners in aanmerking voor subsidie in natura door inzet van leden van het serviceteam ten behoeve van activiteiten op het vlak van het opstellen van het projectplan.
 
@@ -110,7 +132,7 @@ In deze regeling wordt verstaan onder:
 
 4. In de consolidatiefase komen de samenwerkingspartners in aanmerking voor subsidie in natura door inzet van leden van het serviceteam ten behoeve van het opstellen van een evaluatierapport.
 
-#### Artikel 4. Kosten die voor subsidie in euro’s in aanmerking komen
+##### Artikel 4. Kosten die voor subsidie in euro’s in aanmerking komen
 
 1. In de planfase komen voor subsidie in aanmerking de salariskosten van de persoon, die namens dan wel op verzoek van de samenwerkingspartners activiteiten, gericht op de totstandkoming van het projectplan, op het verkrijgen van draagvlak daarvoor en op de ondertekening daarvan door één of meer tot de samenwerkingspartners behorende bevoegde gezagen coördineert en begeleidt. Deze salariskosten komen alleen dan voor subsidie in aanmerking, indien de persoon in kwestie in dienst is van één of meer van de tot de samenwerkingspartners behorende bevoegde gezagen. Voorts worden alleen de feitelijke gemaakte salariskosten gesubsidieerd tot het in [artikel 2 lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035399&artikel=2&z=2014-07-07&g=2014-07-07) genoemde maximum voor deze fase. Deze feitelijk gemaakte salariskosten blijken uit de documenten als bedoeld in [artikel 7 lid 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035399&artikel=7&z=2014-07-07&g=2014-07-07).
 
@@ -132,7 +154,7 @@ De hoogte van de te verstrekken subsidie wordt vastgesteld aan de hand van door 
 
 4. Voor de subsidies in euro’s wordt door de contactpersoon aan het bestuur het rekeningnummer doorgegeven waarnaar de gelden overgemaakt kunnen worden. Houder van het rekeningnummer is één van de tot de samenwerkingspartners behorende bevoegde gezagen.
 
-#### Artikel 5. Wijze van aanvraag van subsidieverlening
+##### Artikel 5. Wijze van aanvraag van subsidieverlening
 
 1. Voor de subsidie planfase wordt bij het bestuur schriftelijk een startverklaring ingediend namens de samenwerkingspartners door de contactpersoon, die namens de samenwerkingspartners ondertekent. Daarin verklaren de samenwerkingspartners zich te willen inspannen om te komen tot een projectplan dat wordt goedgekeurd door de stuurgroep. Bij deze startverklaring wordt een schriftelijk verzoek gevoegd om in aanmerking te komen voor de subsidies als bedoeld in [artikel 2 lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035399&artikel=2&z=2014-07-07&g=2014-07-07) van de subsidieregeling onder vermelding van de contactpersoon en van het rekeningnummer waarnaar subsidiegelden kunnen worden overgemaakt.
 
@@ -142,7 +164,7 @@ De hoogte van de te verstrekken subsidie wordt vastgesteld aan de hand van door 
 
 4. Voor de subsidie consolidatiefase wordt bij het bestuur door de contactpersoon namens de samenwerkingspartners een schriftelijk verzoek ingediend om in aanmerking te komen voor de subsidie als bedoeld in [artikel 2 lid 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035399&artikel=2&z=2014-07-07&g=2014-07-07) van de subsidieregeling. Dit verzoek dient uiterlijk 29 februari 2016 door het bestuur ontvangen te zijn.
 
-#### Artikel 6. Subsidieverlening
+##### Artikel 6. Subsidieverlening
 
 1. Aanvragen tot subsidieverlening die na 29 februari 2016 door het bestuur ontvangen worden, worden buiten behandeling gelaten.
 
@@ -196,7 +218,7 @@ Indien niet uiterlijk op 15 december 2015 een projectplan is ingediend dat aan d
 
 12. Indien uit de aanvraag van de subsidie volgt dat voor de beslissing op de verlening een langere termijn nodig is dan de in het vorige lid genoemde termijn, dan bericht het bestuur de samenwerkingspartners zo spoedig mogelijk na ontvangst van de aanvraag van de termijnverlenging, die maximaal 4 weken kan bedragen.
 
-#### Artikel 7. Administratie
+##### Artikel 7. Administratie
 
 1. De samenwerkingspartners dragen volledige zorg voor een correcte, inzichtelijke en controleerbare administratie die voldoet aan alle daartoe gestelde eisen zoals vervat in deze subsidieregeling en de ‘Regeling cofinanciering sectorplannen’ van het Ministerie van Sociale Zaken en Werkgelegenheid.
 
@@ -278,7 +300,7 @@ Indien niet uiterlijk op 15 december 2015 een projectplan is ingediend dat aan d
 
 - c). Declaraties met betrekking tot van werk naar werk trajecten worden door de samenwerkingspartners gebundeld per kwartaal achteraf bij het bestuur ingediend.
 
-#### Artikel 8. Controle
+##### Artikel 8. Controle
 
 1. Het bestuur behoudt zich het recht voor om aanvullend bewijsmateriaal op te vragen bij de samenwerkingspartners als het bestuur denkt dat dit noodzakelijk is om de rechtmatigheid en doelmatigheid van de activiteiten, de kosten en gevraagde subsidie aan te tonen.
 
@@ -290,7 +312,7 @@ Indien niet uiterlijk op 15 december 2015 een projectplan is ingediend dat aan d
 
 5. Indien bij een controle een fout met financieel gevolg wordt vastgesteld en deze wordt geëxtrapoleerd over de ongecontroleerde massa, dan komt de hieruit voortvloeiende correctie voor rekening van de samenwerkingspartners.
 
-#### Artikel 9. Subsidievaststelling
+##### Artikel 9. Subsidievaststelling
 
 1. Na afloop van de consolidatiefase, dienen de samenwerkingspartners bij het bestuur een aanvraag tot vaststelling van de subsidie in. De bevoegdheid tot subsidievaststelling ligt bij het bestuur, maar zal feitelijk worden uitgeoefend door de stuurgroep op basis van het in de considerans en in [artikel 6 lid 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035399&artikel=6&z=2014-07-07&g=2014-07-07) bedoelde mandaat.
 
@@ -304,7 +326,7 @@ Indien niet uiterlijk op 15 december 2015 een projectplan is ingediend dat aan d
 
 6. In het geval de Minister de subsidie lager vaststelt dan is verleend in de beschikking, is het bestuur bevoegd bij de vaststelling een beroep te doen op de opschortende voorwaarde als bedoeld in [artikel 6 lid 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035399&artikel=6&z=2014-07-07&g=2014-07-07). Verlaagde vaststelling van de subsidie door de Minister zal bij toepassing van die voorwaarde leiden tot evenredige verlaging van de subsidie van het bestuur.
 
-#### Artikel 10. Slotbepalingen
+##### Artikel 10. Slotbepalingen
 
 1. Subsidies in natura die voorlopig worden toegekend, worden voor 100% in natura geleverd. Dergelijke subsidies kunnen niet op enigerlei wijze door de samenwerkingspartners worden teruggevorderd, dus ook niet bij intrekking, verlaging of andere wijziging van de subsidieverstrekking.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit geweldgebruik defensiepersoneel in de uitoefening van de bewakings- en beveiligingstaak"
+title: "Besluit van 22 juli 2000, houdende regels inzake het gebruik van geweld door defensiepersoneel in de uitoefening van de bewakings- en beveiligingstaak (Besluit geweldgebruik defensiepersoneel in de uitoefening van de bewakings- en beveiligingstaak)"
 identifier: "BWBR0011530"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011530"
+country: "nl"
+rank: "rijks_kb"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011530"
+soort: "rijksKB"
+stam_id: "1413393"
+version_id: "2120152"
+internal_id: "C2120151"
+label_id: "1370574"
+dtd_version: "2.0"
+original_entry_into_force: "2000-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011530/2010-10-10/0"
+intitule_bron: "Stb.2000-337"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-07-22"
+intitule_published: "2000-08-24"
+intitule_in_force: "2000-08-24"
+intitule_status: "goed"
+original_publication: "Stb.2000-337"
+original_signed_date: "2000-07-22"
+original_published_date: "2000-08-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2000-337"
+entry_into_force_date: "2000-10-01"
+jci_1_3: "jci1.3:c:BWBR0011530&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0011530&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Besluit geweldgebruik defensiepersoneel in de uitoefening van de bewakings- en beveiligingstaak"
+signed_date: "2000-07-22"
+entry_into_force: "2000-10-01"
 ---
-
 # Besluit van 22 juli 2000, houdende regels inzake het gebruik van geweld door defensiepersoneel in de uitoefening van de bewakings- en beveiligingstaak (Besluit geweldgebruik defensiepersoneel in de uitoefening van de bewakings- en beveiligingstaak)
 
 Op de voordracht van Onze Minister van Defensie van 19 juli 1999, nr. CWW88/014, directie juridische zaken, afdeling wet- en regelgeving;
@@ -24,17 +50,17 @@ Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 Dit besluit berust op [artikel 3, derde lid, van de Rijkswet geweldgebruik bewakers militaire objecten](https://wetten.overheid.nl/jci1.3:c:BWBR0014738&artikel=3).
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit is niet van toepassing op het gebruik van geweld door bewakers in de uitoefening van de bewakings- en beveiligingstaak tijdens een internationaal gewapend conflict of een intern gewapend conflict als bedoeld in de gemeenschappelijke artikelen 2 en 3 van de op 12 augustus 1949 tot stand gekomen Verdragen van Genève (Trb. 1951, 72 t/m 75), alsmede de op 12 december 1977 te Bern tot stand gekomen Aanvullende Protocollen (Trb. 1980, 87 en 88).
 
 #### Paragraaf 2. Algemene geweldsbepalingen
 
-#### Artikel 3
+##### Artikel 3
 
 Het gebruik van een geweldmiddel ter uitvoering van de bewakings- en beveiligingstaak is uitsluitend toegestaan aan een bewaker:
 
@@ -42,11 +68,11 @@ Het gebruik van een geweldmiddel ter uitvoering van de bewakings- en beveiliging
 
 - b. die in het gebruik van dat geweldmiddel is geoefend.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien de bewaker onder leiding van een ter plaatse aanwezige meerdere optreedt, gebruikt hij geen geweld dan na een vooraf gegeven uitdrukkelijke last van deze meerdere. De meerdere geeft daarbij aan van welk geweldmiddel gebruik wordt gemaakt.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Tenzij de omstandigheden dit niet toelaten, gaat aan het gebruik van geweld een duidelijke waarschuwing vooraf.
 
@@ -54,7 +80,7 @@ Indien de bewaker onder leiding van een ter plaatse aanwezige meerdere optreedt,
 
 3. Een waarschuwingsschot wordt op een zodanige wijze gegeven dat gevaar voor personen of zaken zoveel mogelijk wordt vermeden.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De bewaker mag naast het gebruik van fysiek geweld uitsluitend gebruik maken van de volgende geweldmiddelen:
 
@@ -74,11 +100,11 @@ Indien de bewaker onder leiding van een ter plaatse aanwezige meerdere optreedt,
 
 3. Het gebruik van een waterwerper is uitsluitend geoorloofd na uitdrukkelijke last van de meerdere.
 
-#### Artikel 7
+##### Artikel 7
 
 Bij gebruik van fysiek geweld dan wel een geweldmiddel wordt in verhouding tot het beoogde doel de meest lichte vorm van geweld gebruikt en worden de daaraan verbonden risico's zo veel mogelijk beperkt.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De bewaker die geweld heeft aangewend, waaronder begrepen het geven van een waarschuwingsschot als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011530&paragraaf=2&artikel=5&z=2010-10-10&g=2010-10-10), meldt de feiten en omstandigheden dienaangaande, alsmede de gevolgen hiervan, onverwijld aan zijn meerdere.
 
@@ -88,7 +114,7 @@ Bij gebruik van fysiek geweld dan wel een geweldmiddel wordt in verhouding tot h
 
 #### Paragraaf 3. Vuurwapens
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het gebruik van een vuurwapen als bedoeld in [artikel 6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011530&paragraaf=2&artikel=6&z=2010-10-10&g=2010-10-10), is slechts geoorloofd:
 
@@ -98,7 +124,7 @@ Bij gebruik van fysiek geweld dan wel een geweldmiddel wordt in verhouding tot h
 
 2. Onder het plegen van een misdrijf als bedoeld in het eerste lid, onder b, worden mede begrepen de poging en de deelnemingsvormen, bedoeld in de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=47) en [48 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=48).
 
-#### Artikel 10
+##### Artikel 10
 
 Bij gebruik van een vuurwapen als bedoeld in [artikel 6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011530&paragraaf=2&artikel=6&z=2010-10-10&g=2010-10-10), wordt het volgende in acht genomen:
 
@@ -108,13 +134,13 @@ Bij gebruik van een vuurwapen als bedoeld in [artikel 6, eerste lid, onder a](ht
 
 - c. risico's voor derden worden zo veel mogelijk vermeden.
 
-#### Artikel 11
+##### Artikel 11
 
 De bewaker mag slechts uit voorzorg een vuurwapen ter hand nemen indien redelijkerwijs mag worden aangenomen dat een situatie als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0011530&paragraaf=3&artikel=9&z=2010-10-10&g=2010-10-10) ontstaat, waarin hij bevoegd is het vuurwapen te gebruiken. Zodra blijkt dat een dergelijke situatie zich niet voordoet, wordt het ter hand nemen van het vuurwapen beëindigd.
 
 #### Paragraaf 4. Handboeien
 
-#### Artikel 12
+##### Artikel 12
 
 1. De bewaker is bevoegd tot het dragen van handboeien.
 
@@ -122,11 +148,11 @@ De bewaker mag slechts uit voorzorg een vuurwapen ter hand nemen indien redelijk
 
 #### Paragraaf 5. Slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 Het Besluit geweldgebruik krijgsmacht in de uitoefening van de bewakings- en beveiligingstaak wordt ingetrokken.
 
-#### Artikel 14
+##### Artikel 14
 
 Met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst treden in werking:
 
@@ -134,13 +160,13 @@ Met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgift
 
 - b. dit besluit.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit besluit wordt aangehaald als: Besluit geweldgebruik defensiepersoneel in de uitoefening van de bewakings- en beveiligingstaak.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. In dit besluit wordt verstaan onder:
 

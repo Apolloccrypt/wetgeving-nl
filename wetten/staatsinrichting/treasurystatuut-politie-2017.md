@@ -1,32 +1,58 @@
 ---
-title: "Treasurystatuut politie 2017"
+title: "Regeling van de Minister van Veiligheid en Justitie van 29 augustus 2017, houdende de vaststelling van een nieuw treasurystatuut voor de politie (Treasurystatuut politie 2017)"
 identifier: "BWBR0039947"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039947"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039947"
+soort: "ministeriele-regeling"
+stam_id: "14145243"
+version_id: "29060052"
+internal_id: "C41310831"
+label_id: "14106074"
+dtd_version: "2.0"
+original_entry_into_force: "2022-11-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039947/2023-01-01/0"
+intitule_bron: "Stcrt.2017-50605"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-08-29"
+intitule_published: "2017-09-06"
+intitule_in_force: "2017-09-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-31373"
+original_signed_date: "2022-11-14"
+original_published_date: "2022-11-28"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-31373"
+entry_into_force_date: "2022-11-14"
+jci_1_3: "jci1.3:c:BWBR0039947&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0039947&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Treasurystatuut politie 2017"
+signed_date: "2022-11-14"
+entry_into_force: "2022-11-14"
 ---
-
 # Regeling van de Minister van Veiligheid en Justitie van 29 augustus 2017, houdende de vaststelling van een nieuw treasurystatuut voor de politie (Treasurystatuut politie 2017)
 
 Gelet op [artikel 14, vijfde lid, van het Besluit financieel beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&artikel=14);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De politie maakt gebruik van het in de bijlage bij deze regeling behorende treasurystatuut.
 
-#### Artikel 2
+##### Artikel 2
 
 Het [Treasurystatuut politie](https://wetten.overheid.nl/jci1.3:c:BWBR0034203) wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2017.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling wordt aangehaald als: Treasurystatuut politie 2017.
 
@@ -112,7 +138,7 @@ Treasurybeleid is onderdeel van het beheersplan.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a
+##### Artikel 3a
 
 Deze regeling berust op [artikel 14, vierde lid, van het Besluit financieel beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&artikel=14).
 

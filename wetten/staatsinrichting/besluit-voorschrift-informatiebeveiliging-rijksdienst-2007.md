@@ -1,20 +1,45 @@
 ---
 title: "Besluit voorschrift informatiebeveiliging rijksdienst 2007"
 identifier: "BWBR0022141"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2007-07-01
-laatste_update: 2007-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022141"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2007-07-01"
+last_updated: "2007-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022141"
+soort: "ministeriele-regeling"
+stam_id: "9129333"
+version_id: "14595472"
+internal_id: "C19872861"
+label_id: "9108194"
+dtd_version: "2.0"
+original_entry_into_force: "2007-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022141/2007-07-01/0"
+intitule_bron: "Stcrt.2007-122"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-06-20"
+intitule_published: "2007-06-28"
+intitule_in_force: "2007-06-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-122"
+original_signed_date: "2007-06-20"
+original_published_date: "2007-06-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-122-p11-SC81084"
+entry_into_force_date: "2007-07-01"
+jci_1_3: "jci1.3:c:BWBR0022141&z=2007-07-01&g=2007-07-01"
+jci_1_0: "1.0:c:BWBR0022141&g=2007-07-01"
+citeertitel_status: "officieel"
+signed_date: "2007-06-20"
+entry_into_force: "2007-07-01"
 ---
-
 # Besluit voorschrift informatiebeveiliging rijksdienst 2007
 
 Handelend in overeenstemming met het gevoelen van de Ministerraad;
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -22,7 +47,7 @@ In dit besluit wordt verstaan onder:
 
 - b. Informatiesysteem: een samenhangend geheel van gegevensverzamelingen, en de daarbij behorende personen, procedures, processen en programmatuur alsmede de voor het informatiesysteem getroffen voorzieningen voor opslag, verwerking en communicatie.
 
-#### Artikel 2. Plaatsbepaling en reikwijdte
+##### Artikel 2. Plaatsbepaling en reikwijdte
 
 1. Dit voorschrift geldt voor de Rijksdienst waartoe gerekend worden de Ministeries met de daaronder ressorterende diensten, bedrijven en instellingen.
 
@@ -30,7 +55,7 @@ In dit besluit wordt verstaan onder:
 
 3. Informatiebeveiliging is een lijnverantwoordelijkheid en vormt een onderdeel van de kwaliteitszorg voor bedrijfs- en bestuursprocessen en de ondersteunende informatiesystemen.
 
-#### Artikel 3. Informatiebeveiligingsbeleid
+##### Artikel 3. Informatiebeveiligingsbeleid
 
 De secretaris-generaal van een Ministerie stelt het informatiebeveiligingsbeleid vast, draagt dit uit en legt verantwoording hierover af. Het beleid omvat ten minste:
 
@@ -46,7 +71,7 @@ De secretaris-generaal van een Ministerie stelt het informatiebeveiligingsbeleid
 
 - f. De bevordering van het beveiligingsbewustzijn;
 
-#### Artikel 4. Verantwoordelijkheden lijnmanagement
+##### Artikel 4. Verantwoordelijkheden lijnmanagement
 
 Het lijnmanagement is verantwoordelijk voor de beveiliging van zijn informatiesystemen. Het lijnmanagement:
 
@@ -58,7 +83,7 @@ Het lijnmanagement is verantwoordelijk voor de beveiliging van zijn informatiesy
 
 - d. Evalueert periodiek het geheel van betrouwbaarheidseisen en beveiligingsmaatregelen en stelt deze waar nodig bij.
 
-#### Artikel 5. Slotbepaling
+##### Artikel 5. Slotbepaling
 
 1. Het [Besluit voorschrift informatiebeveiliging rijksdienst 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006836) wordt ingetrokken.
 

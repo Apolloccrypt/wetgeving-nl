@@ -1,14 +1,42 @@
 ---
-title: "Wet opheffing College van beroep studiefinanciering"
+title: "Wet van 22 juni 2000, tot wijziging van de Wet op de studiefinanciering, de Wet tegemoetkoming studiekosten, de Beroepswet en enige andere wetten, alsmede enige rechtspositionele voorzieningen in verband met de opheffing van het College van beroep studiefinanciering (Wet opheffing College van beroep studiefinanciering)"
 identifier: "BWBR0011439"
-categorie: "Belastingrecht"
-publicatiedatum: 2001-01-01
-laatste_update: 2001-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011439"
+country: "nl"
+rank: "wet"
+publication_date: "2001-01-01"
+last_updated: "2001-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011439"
+soort: "wet"
+stam_id: "1364243"
+version_id: "2036822"
+internal_id: "C2036821"
+label_id: "1323024"
+dtd_version: "2.0"
+original_entry_into_force: "2000-07-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011439/2001-01-01/0"
+intitule_bron: "Stb.2000-284"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-06-22"
+intitule_published: "2000-07-11"
+intitule_in_force: "2000-07-11"
+intitule_status: "goed"
+original_publication: "Stb.2000-284"
+original_signed_date: "2000-06-22"
+original_published_date: "2000-07-11"
+original_effect: "nieuwe-regeling"
+original_dossier: "26960"
+original_url_id: "stb-2000-284"
+entry_into_force_date: "2000-07-12"
+entry_into_force_dossier: "26960"
+jci_1_3: "jci1.3:c:BWBR0011439&z=2001-01-01&g=2001-01-01"
+jci_1_0: "1.0:c:BWBR0011439&g=2001-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet opheffing College van beroep studiefinanciering"
+signed_date: "2000-06-22"
+entry_into_force: "2000-07-12"
 ---
-
-# Wet opheffing College van beroep studiefinanciering
+# Wet van 22 juni 2000, tot wijziging van de Wet op de studiefinanciering, de Wet tegemoetkoming studiekosten, de Beroepswet en enige andere wetten, alsmede enige rechtspositionele voorzieningen in verband met de opheffing van het College van beroep studiefinanciering (Wet opheffing College van beroep studiefinanciering)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,33 +44,33 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is om het College van b
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet op de studiefinanciering.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet tegemoetkoming studiekosten.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Beroepswet.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet veiligheidsonderzoeken.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Wet op de ondernemingsraden.
 
-#### Artikel VI
+##### Artikel VI
 
 1. De voorzitter, de vice-voorzitter, het lid of het plaatsvervangend lid van, dan wel de gerechtsauditeur bij het College van beroep studiefinanciering die op de dag voor de datum van inwerkingtreding van deze wet voorkomt op een bij algemene maatregel van bestuur vastgestelde plaatsinglijst, wordt met ingang van de datum van inwerkingtreding van deze wet van rechtswege met behoud van bezoldiging benoemd of geplaatst in het voor hem in die plaatsinglijst genoemde rechterlijk ambt of ambt van gerechtsauditeur bij het voor hem in die plaatsingslijst genoemde gerecht, tenzij hij op dat tijdstip reeds op zijn verzoek in een ander ambt is benoemd of geplaatst.
 
 2. Indien de voorzitter, een vice-voorzitter of een lid van het College van beroep studiefinanciering ingevolge het eerste lid, dan wel op eigen verzoek, in een ander rechterlijk ambt wordt benoemd, is [artikel 7a van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=7a) van overeenkomstige toepassing.
 
-#### Artikel VII
+##### Artikel VII
 
 1. In dit artikel wordt verstaan onder rechterlijk ambtenaar: de voorzitter, een vice-voorzitter of een lid van, dan wel een gerechtsauditeur bij het College van beroep studiefinanciering.
 
@@ -64,7 +92,7 @@ Wijzigt de Wet op de ondernemingsraden.
 
 7. In afwijking van het tweede lid wordt aan een gerechtsauditeur ontslag verleend bij besluit van Onze Minister van Justitie, indien hij in tijdelijke dienst is aangesteld.
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. De bij het College van beroep studiefinanciering aanhangige zaken worden van rechtswege, in de stand waarin zij zich bevinden, overgedragen aan de rechtbank die bij toepassing van [artikel 8:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:7) bevoegd zou zijn geweest het beroep te behandelen.
 
@@ -74,15 +102,15 @@ Wijzigt de Wet op de ondernemingsraden.
 
 4. Indien een rechtbank voor het tijdstip van inwerkingtreding van deze wet partijen heeft opgeroepen voor een zitting die plaatsvindt na het tijdstip van inwerkingtreding van deze wet, wordt deze oproeping geacht rechtsgeldig te zijn gedaan.
 
-#### Artikel IX
+##### Artikel IX
 
 Het archief van het College van beroep studiefinanciering, met uitzondering van de archiefbescheiden betreffende zaken die op het tijdstip van inwerkingtreding van deze wet nog niet zijn afgedaan, wordt overgedragen aan de arrondissementsrechtbank te Groningen.
 
-#### Artikel X
+##### Artikel X
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0011439&artikel=VII&z=2001-01-01&g=2001-01-01), dat in werking treedt op de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
-#### Artikel XI
+##### Artikel XI
 
 Deze wet wordt aangehaald als: Wet opheffing College van beroep studiefinanciering.
 

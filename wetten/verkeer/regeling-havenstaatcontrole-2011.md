@@ -1,13 +1,38 @@
 ---
 title: "Regeling havenstaatcontrole 2011"
 identifier: "BWBR0029373"
-categorie: "Verkeer"
-publicatiedatum: 2023-12-21
-laatste_update: 2023-12-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029373"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-12-21"
+last_updated: "2023-12-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029373"
+soort: "ministeriele-regeling"
+stam_id: "11194073"
+version_id: "21792672"
+internal_id: "C31277911"
+label_id: "11168564"
+dtd_version: "2.0"
+original_entry_into_force: "2014-11-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029373/2023-12-21/0"
+intitule_bron: "Stcrt.2010-20535"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-12-16"
+intitule_published: "2010-12-31"
+intitule_in_force: "2010-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-29566"
+original_signed_date: "2014-11-03"
+original_published_date: "2014-11-04"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2014-29566"
+entry_into_force_date: "2014-11-03"
+jci_1_3: "jci1.3:c:BWBR0029373&z=2023-12-21&g=2023-12-21"
+jci_1_0: "1.0:c:BWBR0029373&g=2023-12-21"
+citeertitel_status: "officieel"
+signed_date: "2014-11-03"
+entry_into_force: "2014-11-03"
 ---
-
 # Regeling havenstaatcontrole 2011
 
 Gelet op [richtlijn nr. 2009/16/EG](32009L0016) van het Europees Parlement en de Raad van de Europese Unie van 23 april 2009 betreffende havenstaatcontrole (PbEU L 131), [richtlijn nr. 1999/95/EG](31999L0095) van het Europees Parlement en de Raad van de Europese Unie van 13 december 1999 betreffende de handhaving van de bepalingen inzake de arbeidstijd van zeevarenden aan boord van schepen die havens in de Unie aandoen (PbEG L 14), [richtlijn 2002/59/EG](32002L0059) van het Europees Parlement en de Raad van de Europese Unie 27 juni 2002 betreffende de invoering van een communautair monitoring- en informatiesysteem voor de zeescheepvaart en tot intrekking van [richtlijn 93/75/EEG](31993L0075) van de Raad (PbEU L 208), [richtlijn nr. 2008/106/EG](32008L0106) van het Europees Parlement en de Raad van de Europese Unie van 19 november 2008 inzake het minimumopleidingsniveau van zeevarenden (PbEU L 323), [verordening (EG) nr. 782/2003](32003R0782) van het Europees Parlement en de Raad van de Europese Unie van 14 april 2003 houdende een verbod op organische tinverbindingen op schepen (PbEU L 115), [verordening (EG) nr. 536/2008](32008R0536) van de Europese Commissie van 13 juni 2008 ter uitvoering van artikel 6, derde lid, en 7 van [Verordening (EG) nr. 782/2003](32003R0782) van het Europees Parlement en de Raad houdende een verbod op organische tinverbindingen op schepen en tot wijziging van die verordening (PbEU L 156), [verordening (EG) nr. 725/2004](32004R0725) van het Europees Parlement en de Raad van de Europese Unie van 31 maart 2004 betreffende de verbetering van de beveiliging van schepen en havenfaciliteiten (PbEU L 129) en de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=5), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=29) en [30 van de Wet havenstaatcontrole](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=30).
@@ -18,7 +43,7 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Wet havenstaatcontrole
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -60,17 +85,17 @@ In deze regeling wordt verstaan onder:
 
 - (ii). met een zodanige regelmaat of frequentie dat zij een herkenbare systematische reeks vormen.
 
-#### Artikel 2
+##### Artikel 2
 
 De aanwijzing, bedoeld in [artikel 1, onder l, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=1) kan plaatsvinden indien de desbetreffende ambtenaar voldoet aan ten minste de eisen van bijlage XI van de richtlijn.
 
 #### § 2. Inspectieverplichtingen
 
-#### Artikel 3
+##### Artikel 3
 
 De ambtenaren van de Inspectie Leefomgeving en Transport voeren jaarlijks een totaal aantal inspecties dan wel controles uit van schepen van prioriteitsklassen I en II dat ten minste het in artikel 5, tweede lid, onderdeel b, van [richtlijn 2009/16/EG](32009L0016) bedoelde aandeel van Nederland in het totale aantal jaarlijks in de Europese Unie en in het onder het MOU vallende gebied uit te voeren inspecties bedraagt.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De ambtenaren van de Inspectie Leefomgeving en Transport voeren inspecties dan wel controles uit van alle schepen van prioriteitsklasse I, te weten:
 
@@ -88,13 +113,13 @@ De ambtenaren van de Inspectie Leefomgeving en Transport voeren jaarlijks een to
 
 4. Het is toegestaan inspecties als bedoeld in het derde lid uit te voeren buiten een haven of ankerplaats tijdens een geregelde dienst.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien het totale aantal schepen van prioriteitsklasse I dat de havens van Nederland, met uitzondering van ankerplaatsen, aandoet groter is dan het inspectieaandeel, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=3&z=2023-12-21&g=2023-12-21), wordt geacht te zijn voldaan aan de in dat artikel opgenomen verplichting, indien een aantal inspecties op schepen van prioriteitsklasse I wordt uitgevoerd dat ten minste dit inspectieaandeel bedraagt en ten hoogste 30% van het totale aantal schepen van prioriteitsklasse I die de havens aandoet, niet wordt geïnspecteerd.
 
 2. Indien het totale aantal schepen van prioriteitsklasse I en II dat de havens van Nederland, met uitzondering van ankerplaatsen, aandoet kleiner is dan het inspectieaandeel, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=3&z=2023-12-21&g=2023-12-21), wordt geacht te zijn voldaan aan de in dat artikel opgenomen verplichting, indien de op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=4&z=2023-12-21&g=2023-12-21), voorgeschreven inspecties van prioriteitsklasse I worden uitgevoerd en ten minste 85% van het totale aantal schepen van prioriteitsklasse II dat de havens van Nederland aandoet wordt geïnspecteerd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. In het geval dat de ambtenaren van de Inspectie Leefomgeving en Transport niet in staat zijn de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=4&z=2023-12-21&g=2023-12-21), voorgeschreven inspecties dan wel controles volledig uit te voeren, wordt geacht te zijn voldaan aan de in dat lid opgenomen verplichting indien deze gemiste inspecties dan wel controles:
 
@@ -106,7 +131,7 @@ De ambtenaren van de Inspectie Leefomgeving en Transport voeren jaarlijks een to
 
 3. Voor zover het betreft schepen op ankerplaatsen binnen de jurisdictie van een haven, geldt het tweede lid slechts ten aanzien van schepen van prioriteitsklasse I met een hoog risicoprofiel, zoals vastgesteld overeenkomstig artikel 10 van [richtlijn 2009/16/EG](32009L0016).
 
-#### Artikel 7
+##### Artikel 7
 
 1. De ambtenaren van de Inspectie Leefomgeving en Transport kunnen een inspectie of controle van een schip van prioriteitsklasse I uitstellen, indien de inspectie of controle kan worden uitgevoerd:
 
@@ -116,7 +141,7 @@ De ambtenaren van de Inspectie Leefomgeving en Transport voeren jaarlijks een to
 
 2. De in het eerste lid bedoelde bevoegdheid kan niet worden uitgeoefend, indien in de vorige haven ten aanzien van het schip al is besloten tot uitstel van inspectie dan wel controle.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Voor de toepassing van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=6), wordt niet als een gemiste inspectie dan wel controle aangemerkt, mits deze wordt geregistreerd in de inspectiedatabank:
 
@@ -138,7 +163,7 @@ De ambtenaren van de Inspectie Leefomgeving en Transport voeren jaarlijks een to
 
 3. De ambtenaren van de Inspectie Leefomgeving en Transport nemen maatregelen om er voor te zorgen dat schepen die regelmatig gedurende de nachttijd een haven aandoen, met uitzondering van schepen die regelmatig gedurende de nachttijd ankerplaatsen in een haven aandoen, in voorkomende gevallen worden geïnspecteerd.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De volgende schepen van prioriteitsklassen I en II komen in aanmerking voor een uitgebreide inspectie:
 
@@ -150,7 +175,7 @@ De ambtenaren van de Inspectie Leefomgeving en Transport voeren jaarlijks een to
 
 2. Als het schip niet wordt geselecteerd voor een uitgebreide inspectie, deelt een ambtenaar van de Inspectie Leefomgeving en Transport dit na ontvangst van de melding, bedoeld in [artikel 5 van de Regeling meldingen en communicatie scheepvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&artikel=5), aan het schip mee.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Aan een uitgebreide inspectie worden onderworpen:
 
@@ -194,7 +219,7 @@ De ambtenaren van de Inspectie Leefomgeving en Transport voeren jaarlijks een to
 
 8. Een schip dat vaart onder de vlag van een staat die geen partij is bij een verdrag wordt met betrekking tot dat verdrag onderworpen aan een controle die overeenkomt met een meer gedetailleerde inspectie in overeenstemming met de procedures van het MOU van Parijs.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De ambtenaren van de Inspectie Leefomgeving en Transport kunnen een schip onderwerpen aan een controle als bedoeld in artikel 7 van [verordening (EG) nr. 782/2003](32003R0782) en artikel 3 van [verordening (EG) nr. 536/2008](32008R0536).
 
@@ -206,13 +231,13 @@ De ambtenaren van de Inspectie Leefomgeving en Transport voeren jaarlijks een to
 
 3. Indien er gegronde redenen bestaan om aan te nemen dat het schip niet voldoet aan de in het eerste lid genoemde [verordening (EG) nr. 782/2003](32003R0782). onderwerpt een ambtenaar van de Inspectie Leefomgeving en Transport het schip aan een meer gedetailleerde inspectie.
 
-#### Artikel 12
+##### Artikel 12
 
 Een ambtenaar van de Inspectie Leefomgeving en Transport moet zich ervan vergewissen dat elke tijdens de inspectie geconstateerde tekortkoming wordt verholpen in overeenstemming met de verdragen.
 
 #### § 3. Verplichtingen voor de kapitein en exploitant
 
-#### Artikel 13
+##### Artikel 13
 
 1. De exploitant of de kapitein van het schip dat in aanmerking komt voor een uitgebreide inspectie zorgt ervoor dat voldoende tijd beschikbaar is in de exploitatieplanning voor deze inspectie.
 
@@ -220,11 +245,11 @@ Een ambtenaar van de Inspectie Leefomgeving en Transport moet zich ervan vergewi
 
 #### § 3. Verplichtingen voor de kapitein en exploitant
 
-#### Artikel 14
+##### Artikel 14
 
 Het inspectierapport, bedoeld in [artikel 3, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=3), is opgesteld conform bijlage IX van de richtlijn.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Indien een schip is aangehouden legt de ambtenaar van de Inspectie Leefomgeving en Transport bij de kennisgeving ingevolge [artikel 8, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=8) tevens het inspectierapport over. Bovendien doet hij, indien zulks van belang is, ook mededeling van de aanhouding, onder overlegging van het inspectierapport, aan de aangewezen inspecteurs of de erkende organisaties die verantwoordelijk zijn voor de afgifte van de classificatiecertificaten of de certificaten die namens de vlaggenstaat overeenkomstig de internationale verdragen worden afgegeven.
 
@@ -238,7 +263,7 @@ Het inspectierapport, bedoeld in [artikel 3, derde lid, van de wet](https://wett
 
 6. Indien een aangehouden schip een haven uitvaart zonder te voldoen aan de door de ambtenaar van de Inspectie Leefomgeving en Transport gestelde en goedgekeurde voorwaarden, waarschuwt deze onmiddellijk de bevoegde instanties van alle andere bij het MOU aangesloten havenstaten.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De ambtenaren van de Inspectie Leefomgeving en Transport registreren in de inspectiedatabank:
 
@@ -254,17 +279,17 @@ Het inspectierapport, bedoeld in [artikel 3, derde lid, van de wet](https://wett
 
 4. De gegevens, bedoeld in het tweede lid, worden aan de inspectiedatabank bezorgd via het communautaire systeem voor de uitwisseling van maritieme informatie ‘SafeSeaNet’ als bedoeld in artikel 3, onder s, van [richtlijn 2002/59/EG](32002L0059).
 
-#### Artikel 17
+##### Artikel 17
 
 De ambtenaar van de Inspectie Leefomgeving en Transport die over aanwijzingen beschikt als bedoeld in artikel 3 van [richtlijn 1999/95/EG](31999L0095) rapporteert daarover aan de administratie van de vlaggenstaat van het betrokken schip.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Indien de ambtenaar van de Inspectie Leefomgeving en Transport gegronde redenen heeft om aan te nemen dat een schip niet voldoet aan verordening (EG) 725/2004 doet deze daarvan mededeling aan de burgemeester en de bevoegde autoriteit bedoeld in [artikel 2, eerste lid, onderdeel c, van de Havenbeveiligingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0016991&artikel=2).
 
 2. De bevoegde autoriteit, bedoeld in het eerste lid, onderwerpt het desbetreffende schip vervolgens aan een van de controlemaatregelen, bedoeld in bijlage I, voorschrift 9, paragraaf 1.3, van verordening (EG) nr. 725/2004.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Indien een havenbeheerder, die op grond van [artikel 2, eerste lid, van de Regeling meldingen en communicatie scheepvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0031567&artikel=2), als bevoegde autoriteit is aangewezen, bij de uitoefening van zijn normale taak opmerkt dat een schip tekortkomingen heeft die afbreuk kunnen doen aan de veiligheid van het schip of een onredelijk groot gevaar opleveren voor schade aan het mariene milieu, stelt hij een ambtenaar van de Inspectie Leefomgeving en Transport daarvan onmiddellijk in kennis.
 
@@ -286,7 +311,7 @@ De ambtenaar van de Inspectie Leefomgeving en Transport die over aanwijzingen be
 
 #### § 4. Informatieverstrekking
 
-#### Artikel 20
+##### Artikel 20
 
 1. De Inspecteur-Generaal behandelt namens de minister de klachten als bedoeld in [artikel 1, onderdeel p, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=1). De Inspecteur-Generaal kan deze bevoegdheid mandateren aan de ambtenaren van de Inspectie Leefomgeving en Transport.
 
@@ -302,7 +327,7 @@ De ambtenaar van de Inspectie Leefomgeving en Transport die over aanwijzingen be
 
 #### § 6. Slotbepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 1. De [artikelen 3 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=2&artikel=3&z=2023-12-21&g=2023-12-21), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=3&artikel=13&z=2023-12-21&g=2023-12-21), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=4&artikel=15&z=2023-12-21&g=2023-12-21), [16 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0029373&paragraaf=4&artikel=16&z=2023-12-21&g=2023-12-21) zijn niet van toepassing op vissersvaartuigen.
 
@@ -310,37 +335,37 @@ De ambtenaar van de Inspectie Leefomgeving en Transport die over aanwijzingen be
 
 3. Voor de aanhouding van een vissersvaartuig zijn de onderdelen 2.2, 2.4 tot en met 2.8, 2.10 tot en met 2.13, 3.2.1 tot en met 3.2.9, 3.2.12, 3.2.14, 3.3, 3.4, 3.5, 3.7, 3.9, 3.10 en 3.11 van Bijlage X van de richtlijn niet van toepassing.
 
-#### Artikel 22
+##### Artikel 22
 
 Een wijziging van de bijlagen I, IV, V, VI, X, XI of XVII van de richtlijn gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
-#### Artikel 23
+##### Artikel 23
 
 Een wijziging van het MOU gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop de betrokken wijziging in werking treedt.
 
-#### Artikel 24
+##### Artikel 24
 
 Wijzigt de Regeling communicatie en loodsaanvragen zeevaart.
 
-#### Artikel 25
+##### Artikel 25
 
 De [Regeling havenstaatcontrole](https://wetten.overheid.nl/jci1.3:c:BWBR0009630) wordt ingetrokken.
 
-#### Artikel 26
+##### Artikel 26
 
 Deze regeling treedt in werking met ingang van het tijdstip waarop het bij koninklijke boodschap van 6 juli 2010 ingediende voorstel van wet tot wijziging van de Wet havenstaatcontrole in verband met de implementatie van [richtlijn 2009/16/EG](32009L0016) van het Europees Parlement en de Raad van de Europese Unie van 23 april 2009 betreffende havenstaatcontrole (32 441) tot wet is verheven en die wet in werking treedt.
 
-#### Artikel 27
+##### Artikel 27
 
 Deze regeling wordt aangehaald als: Regeling havenstaatcontrole 2011.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 13a
+##### Artikel 13a
 
 Indien uit een meer gedetailleerde inspectie blijkt dat de leef- en werkomstandigheden aan boord niet voldoen aan de vereisten van het MLC 2006, brengen de ambtenaren van de Inspectie Leefomgeving en Transport de tekortkomingen onmiddellijk onder de aandacht van de kapitein van het schip en worden termijnen gesteld waarbinnen deze tekortkomingen worden verholpen.
 
-#### Artikel 13b
+##### Artikel 13b
 
 1. Als de ambtenaren van de Inspectie Leefomgeving en Transport de tekortkomingen die aan het licht komen bij een meer gedetailleerde inspectie aanzienlijk vinden of als deze betrekking hebben op een mogelijke klacht dat de leef- en werkomstandigheden van het schip niet in overeenstemming zijn met de normen van MLC 2006, brengen zij de tekortkomingen onder de aandacht van de betrokken Nederlandse organisaties van zeevarenden en reders.
 
@@ -352,7 +377,7 @@ Indien uit een meer gedetailleerde inspectie blijkt dat de leef- en werkomstandi
 
 3. Indien bevindingen in het inspectierapport betrekking hebben op het MLC 2006, kunnen de ambtenaren van de Inspectie Leefomgeving en Transport een afschrift van het inspectierapport, waarbij alle binnen de gestelde termijn ontvangen antwoorden van de bevoegde instanties zijn gevoegd, doen toekomen aan de directeur-generaal van het Internationaal Arbeidsbureau, met het oog op de maatregelen die passend of aangewezen worden geacht om ervoor te zorgen dat die informatie wordt opgeslagen en onder de aandacht wordt gebracht van partijen die mogelijk gebruik willen maken van de beroepsprocedures.
 
-#### Artikel 13c
+##### Artikel 13c
 
 1. Indien een schip ingevolge [artikel 13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=13) niet kan uitvaren wegens ernstige of herhaalde inbreuk op de voorschriften van MLC 2006, met inbegrip van de rechten van zeevarenden, of indien de leef- en werkomstandigheden aan boord een duidelijk gevaar voor de veiligheid, de gezondheid of de bescherming van zeevarenden vormen, stellen de ambtenaren van de Inspectie Leefomgeving en Transport de bevoegde instantie van de vlaggenstaat daarvan onverwijld in kennis.
 
@@ -360,7 +385,7 @@ Indien uit een meer gedetailleerde inspectie blijkt dat de leef- en werkomstandi
 
 3. De ambtenaren van de Inspectie Leefomgeving en Transport brengen de betrokken Nederlandse organisaties van zeevarenden en reders onverwijld op de hoogte van een ernstige of herhaalde inbreuk op de voorschriften van MLC 2006 als bedoeld in het eerste lid.
 
-#### Artikel 13d
+##### Artikel 13d
 
 1. De aanhouding van het schip of de stopzetting van een operatie ingevolge [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=6) of [7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=7) in verband met een inbreuk op de voorschriften van MLC 2006 wordt, onverminderd [artikel 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008999&artikel=10), pas opgeheven wanneer de tekortkomingen verholpen zijn of de ambtenaren van de Inspectie Leefomgeving en Transport een actieplan om de betrokken tekortkomingen te verhelpen, hebben aanvaard en zich ervan hebben vergewist dat het actieplan spoedig zal worden uitgevoerd.
 
@@ -368,17 +393,17 @@ Indien uit een meer gedetailleerde inspectie blijkt dat de leef- en werkomstandi
 
 #### § 4. Informatieverstrekking
 
-#### Artikel 15a
+##### Artikel 15a
 
 De ambtenaren van de Inspectie Leefomgeving en Transport zenden de directeur-generaal van het Internationaal Arbeidsbureau regelmatig statistieken en informatie over de opgeloste klachten over aangelegenheden die onder MLC 2006 vallen.
 
-#### Artikel 15b
+##### Artikel 15b
 
 Indien een ambtenaar van de Inspectie Leefomgeving en Transport bij de uitvoering van de wet te weten komt dat er sprake is van een duidelijke schending van het sociaal recht van de Europese Unie aan boord van schepen die onder de vlag van een lidstaat varen, meldt hij dit onverwijld aan andere bevoegde autoriteiten, met het oog op passende reacties daarop.
 
 #### § 5. Klachten
 
-#### Artikel 20a
+##### Artikel 20a
 
 1. Artikel 20 is mede van toepassing op de behandeling van klachten over aangelegenheden die vallen onder MLC 2006.
 
@@ -390,7 +415,7 @@ Indien een ambtenaar van de Inspectie Leefomgeving en Transport bij de uitvoerin
 
 5. De ambtenaren van de Inspectie Leefomgeving en Transport trachten, in voorkomend geval, een oplossing voor de klacht aan boord te bevorderen. Zij kunnen ook een meer gedetailleerde inspectie verrichten.
 
-#### Artikel 20b
+##### Artikel 20b
 
 1. Indien een klacht van een zeevarende over aangelegenheden die onder MLC 2006 vallen niet aan boord is opgelost en geen sprake is van aanhouding of stopzetting van een activiteit, stellen de ambtenaren van de Inspectie Leefomgeving en Transport de vlaggenstaat daarvan onmiddellijk in kennis en verlangen zij binnen een vastgestelde termijn advies en een corrigerend actieplan van de vlaggenstaat.
 
@@ -400,11 +425,11 @@ Indien een ambtenaar van de Inspectie Leefomgeving en Transport bij de uitvoerin
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a
+##### Artikel 3a
 
 De ambtenaren van de Inspectie Leefomgeving en Transport voeren jaarlijks inspecties dan wel controles uit van vissersvaartuigen ter waarborging van de naleving van het op 14 juni 2007 te Genève tot stand gekomen Verdrag betreffende werk in de visserijsector (Trb. 216, 113).
 
-#### Artikel 11a
+##### Artikel 11a
 
 1. Inspectie van ro-ro-passagiersschepen en hogesnelheidspassagiersvaartuigen die worden ingezet op een geregelde dienst geschiedt overeenkomstig bijlage XVII bij de richtlijn.
 

@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling Ontwikkelkracht 2024/2025, 2025/2026 en 2026/2027"
+title: "Regeling van de Minister voor Primair en Voortgezet Onderwijs van 23 april 2024 nr. VO/37841750, houdende regels voor de subsidieverstrekking aan scholen voor het deelnemen aan het programma Ontwikkelkracht 2024/2025 (Subsidieregeling Ontwikkelkracht 2024/2025)"
 identifier: "BWBR0049613"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-02-19
-laatste_update: 2026-02-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049613"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-02-19"
+last_updated: "2026-02-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049613"
+soort: "ministeriele-regeling"
+stam_id: "17082073"
+version_id: "31378812"
+internal_id: "C44843611"
+label_id: "16990914"
+dtd_version: "2.0"
+original_entry_into_force: "2026-02-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049613/2026-02-19/0"
+intitule_bron: "Stcrt.2024-13997"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-04-23"
+intitule_published: "2024-04-24"
+intitule_in_force: "2024-04-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-6870"
+original_signed_date: "2026-02-05"
+original_published_date: "2026-02-18"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2026-6870"
+entry_into_force_date: "2026-02-19"
+jci_1_3: "jci1.3:c:BWBR0049613&z=2026-02-19&g=2026-02-19"
+jci_1_0: "1.0:c:BWBR0049613&g=2026-02-19"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling Ontwikkelkracht 2024/2025, 2025/2026 en 2026/2027"
+signed_date: "2026-02-05"
+entry_into_force: "2026-02-19"
 ---
-
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 23 april 2024 nr. VO/37841750, houdende regels voor de subsidieverstrekking aan scholen voor het deelnemen aan het programma Ontwikkelkracht 2024/2025 (Subsidieregeling Ontwikkelkracht 2024/2025)
 
 Gelet op [artikel 71 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=71), [artikel 5.11 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.11), [artikel 71 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=71), en [artikel 67 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=67);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -112,11 +138,11 @@ In deze regeling wordt verstaan onder:
 
 - **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Doel van de regeling en te subsidiëren activiteiten
+##### Artikel 3. Doel van de regeling en te subsidiëren activiteiten
 
 1. De Minister kan aan een bevoegd gezag subsidie verstrekken voor deelname aan activiteiten die worden ontwikkeld in het kader van het programma Ontwikkelkracht.
 
@@ -144,7 +170,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - d. het door één en dezelfde vestiging met dezelfde vestigingscode deelnemen aan het aanbieden van leertrajecten aan lerende scholen als expertiseschool alsmede het deelnemen als lerende school aan het leertraject van een expertiseschool.
 
-#### Artikel 4. Aanvraag subsidie
+##### Artikel 4. Aanvraag subsidie
 
 1. Een bevoegd gezag dat subsidie wil aanvragen, voert voorafgaand aan de aanvraag een verkennend gesprek met het programmabureau, met als doel de ontwikkelvraag van een vestiging of meerdere vestigingen te concretiseren en te verkennen of en zo ja bij welk onderdeel van het programma Ontwikkelkracht deze ontwikkelvraag aansluit.
 
@@ -188,7 +214,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 16. De Minister stelt een model voor de samenwerkingsovereenkomst, bedoeld in het twaalfde lid, elektronisch beschikbaar.
 
-#### Artikel 5. Aanvraagvereisten
+##### Artikel 5. Aanvraagvereisten
 
 1. De aanvraag bestaat uit een activiteitenplan, waarin onverminderd [artikel 3.4 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.4) ten minste wordt opgenomen:
 
@@ -282,7 +308,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - 9°. een onderbouwing van het aantal beschikbare plaatsen voor lerende scholen per aangeboden leertraject voor schooljaar 2024/2025.
 
-#### Artikel 6. Weigeringsgronden
+##### Artikel 6. Weigeringsgronden
 
 Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt een subsidieaanvraag in ieder geval geweigerd:
 
@@ -294,7 +320,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 - d. indien het bevoegd gezag of de penvoerder een aanvraag indient voor de activiteiten bedoeld in [artikel 3, tweede lid, onderdeel a, d of f](https://wetten.overheid.nl/jci1.3:c:BWBR0049613&hoofdstuk=1&artikel=3&z=2026-02-19&g=2026-02-19) en de kwaliteit van het onderwijs van de desbetreffende vestiging in het primair onderwijs of afdeling of schoolsoort binnen de vestiging in het voortgezet onderwijs waarvoor de subsidie wordt aangevraagd door de Inspectie van het onderwijs bij besluit op peildatum 1 januari 2024 als ‘zeer zwak’ of ‘onvoldoende’ is beoordeeld.
 
-#### Artikel 7. Subsidieplafonds en maximaal aantal deelnemende vestigingen per jaar
+##### Artikel 7. Subsidieplafonds en maximaal aantal deelnemende vestigingen per jaar
 
 1. Voor verstrekking van de subsidie op grond van dit hoofdstuk is in totaal een bedrag beschikbaar van € 13.248.770,– voor het primair onderwijs en het voortgezet onderwijs.
 
@@ -314,7 +340,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 3. De Minister verdeelt de beschikbare bedragen in volgorde van binnenkomst van de volledige aanvragen. Een subsidie wordt geweigerd voor zover door verstrekking van de subsidie het plafond zou worden overschreden.
 
-#### Artikel 8. Subsidiebedrag
+##### Artikel 8. Subsidiebedrag
 
 1. Het subsidiebedrag per vestiging in het primair onderwijs voor het schooljaar 2024/2025 bedraagt:
 
@@ -346,7 +372,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 3. Voor subsidieontvangers in Caribisch Nederland wordt het in het eerste en tweede lid bedoelde subsidiebedrag omgerekend in US-dollars tegen de vastgestelde wisselkoers.
 
-#### Artikel 9. Subsidieverplichtingen
+##### Artikel 9. Subsidieverplichtingen
 
 1. In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) worden aan de subsidieontvanger de volgende verplichtingen opgelegd:
 
@@ -382,7 +408,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 4. Voor subsidies vanaf € 125.000 geldt dat de subsidieontvanger op uiterlijk 1 juni van het jaar volgend op het laatste bestedingsjaar een eindverslag zendt over de gehele subsidieperiode aan de Minister. Het eindverslag bestaat uit een activiteitenverslag.
 
-#### Artikel 10. Vaststelling en verantwoording
+##### Artikel 10. Vaststelling en verantwoording
 
 1. Een subsidie waarbij het te verstrekken subsidiebedrag minder dan € 125.000,– bedraagt, wordt direct vastgesteld binnen 13 weken na indiening van de aanvraag.
 
@@ -394,23 +420,23 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 5. De subsidieontvanger toont op verzoek van de Minister door middel van een activiteitenverslag aan dat de activiteiten waarvoor subsidie is verstrekt, zijn verricht en dat is voldaan aan de verplichtingen die aan de subsidie verbonden zijn. In dit kader vindt in ieder geval een steekproefsgewijze controle door de Minister plaats. Subsidieontvangers verklaren wanneer zij binnen de steekproef vallen welke activiteiten zijn ondernomen met de subsidie.
 
-#### Artikel 11. Betaling
+##### Artikel 11. Betaling
 
 1. De Minister bepaalt bij subsidies als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049613&hoofdstuk=5&artikel=10&z=2026-02-19&g=2026-02-19), het betaalritme van het subsidiebedrag in de beschikking.
 
 2. De Minister verstrekt bij subsidies als bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049613&hoofdstuk=5&artikel=10&z=2026-02-19&g=2026-02-19), een voorschot van 100% dat wordt uitbetaald volgens een betaalritme dat in de beschikking wordt bepaald.
 
-#### Artikel 12. Hardheidsclausule
+##### Artikel 12. Hardheidsclausule
 
 De Minister kan één of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing daarvan, gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zou leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 13. Inwerkingtreding en vervaldatum
+##### Artikel 13. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 25 april 2028 dien verstande dat de regeling van toepassing blijft ten aanzien van de subsidies die op grond van de regeling zijn verstrekt.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling Ontwikkelkracht 2024/2025, 2025/2026 en 2026/2027.
 
@@ -420,17 +446,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 2. Aanvraagronde 2024
 
-#### Artikel 4a. Reikwijdte hoofdstuk 2
+##### Artikel 4a. Reikwijdte hoofdstuk 2
 
 Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor de uitvoering van activiteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049613&hoofdstuk=1&artikel=3&z=2026-02-19&g=2026-02-19) voor het schooljaar 2024/2025.
 
 ### Hoofdstuk 3. Aanvraagronde 2025
 
-#### Artikel 9a. Reikwijdte hoofdstuk 3
+##### Artikel 9a. Reikwijdte hoofdstuk 3
 
 Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor de uitvoering van activiteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049613&hoofdstuk=1&artikel=3&z=2026-02-19&g=2026-02-19) voor het schooljaar 2025/2026.
 
-#### Artikel 9b. Aanvraag subsidie
+##### Artikel 9b. Aanvraag subsidie
 
 1. Een bevoegd gezag dat subsidie wil aanvragen, voert voorafgaand aan de aanvraag een verkennend gesprek met het programmabureau, met als doel de ontwikkelvraag van een vestiging of meerdere vestigingen te concretiseren en te verkennen of en zo ja bij welk onderdeel van het programma Ontwikkelkracht deze ontwikkelvraag aansluit.
 
@@ -458,7 +484,7 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 7. Een aanvraag voor subsidie voor activiteiten als bedoeld in [artikel 3, tweede lid, onderdelen c en f](https://wetten.overheid.nl/jci1.3:c:BWBR0049613&hoofdstuk=1&artikel=3&z=2026-02-19&g=2026-02-19), kan worden ingediend van 10 maart 2025, 9.00 uur, tot en met 27 juni 2025, 16.00 uur en van 1 oktober 2025, 9.00 uur, tot en met 28 november 2025, 16.00 uur.
 
-#### Artikel 9c. Aanvraagvereisten
+##### Artikel 9c. Aanvraagvereisten
 
 1. De aanvraag bestaat uit een activiteitenplan, waarin onverminderd [artikel 3.4 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.4) ten minste wordt opgenomen:
 
@@ -532,11 +558,11 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 - 5°. een onderbouwing van het aantal beschikbare plaatsen, ten minste vier en ten hoogste zes plaatsen, voor vestigingen die deelnemen als lerende scholen per aangeboden leertraject voor schooljaar 2025/2026.
 
-#### Artikel 9d. Overeenkomstige toepassing weigeringsgronden
+##### Artikel 9d. Overeenkomstige toepassing weigeringsgronden
 
 De weigeringsgronden, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049613&hoofdstuk=2&artikel=6&z=2026-02-19&g=2026-02-19), zijn van overeenkomstige toepassing voor de subsidieverstrekking op grond van dit hoofdstuk, met dien verstande dat bij artikel 6, onderdeel a, voor ‘de gesprekken’ wordt gelezen de gesprekken als bedoeld in artikel 9b, eerste, tweede of derde lid en bij artikel 6, onderdeel d, voor ‘peildatum 1 januari 2024’ wordt gelezen ‘peildatum 1 januari 2025’.
 
-#### Artikel 9e. Subsidieplafonds en maximaal aantal deelnemende vestigingen per jaar
+##### Artikel 9e. Subsidieplafonds en maximaal aantal deelnemende vestigingen per jaar
 
 1. Voor verstrekking van de subsidie op grond van dit hoofdstuk is in totaal een bedrag beschikbaar van € 19.378.831,– voor het primair onderwijs en het voortgezet onderwijs.
 
@@ -558,7 +584,7 @@ De weigeringsgronden, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c
 
 4. De minister verdeelt de beschikbare bedragen in volgorde van binnenkomst van de volledige aanvragen. Een subsidie wordt geweigerd voor zover door verstrekking van de subsidie het plafond zou worden overschreden.
 
-#### Artikel 9f. Subsidiebedrag
+##### Artikel 9f. Subsidiebedrag
 
 1. Het subsidiebedrag per vestiging in het primair onderwijs voor het schooljaar 2025/2026 bedraagt:
 
@@ -590,7 +616,7 @@ De weigeringsgronden, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c
 
 3. Voor subsidieontvangers in Caribisch Nederland wordt het in het eerste en tweede lid bedoelde subsidiebedrag omgerekend in US-dollars tegen de vastgestelde wisselkoers.
 
-#### Artikel 9g. Overeenkomstige toepassing subsidieverplichtingen
+##### Artikel 9g. Overeenkomstige toepassing subsidieverplichtingen
 
 De subsidieverplichtingen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0049613&hoofdstuk=2&artikel=9&z=2026-02-19&g=2026-02-19), zijn van overeenkomstige toepassing voor de subsidieverstrekking op grond van dit hoofdstuk, met dien verstande dat bij artikel 9, derde lid, voor ‘kalenderjaar 2025’ wordt gelezen ‘kalenderjaar 2026’.
 
@@ -598,11 +624,11 @@ De subsidieverplichtingen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 9a.1. Reikwijdte hoofdstuk 4
+##### Artikel 9a.1. Reikwijdte hoofdstuk 4
 
 Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor de uitvoering van activiteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049613&hoofdstuk=1&artikel=3&z=2026-02-19&g=2026-02-19) voor het schooljaar 2026/2027.
 
-#### Artikel 9b.2. Aanvraag subsidie
+##### Artikel 9b.2. Aanvraag subsidie
 
 1. Een bevoegd gezag dat subsidie wil aanvragen, voert voorafgaand aan de aanvraag een informatiegesprek met het programmabureau of neemt voorafgaand aan de aanvraag deel aan een informatiebijeenkomst.
 
@@ -658,7 +684,7 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 15. De Minister stelt een model voor de samenwerkingsovereenkomst, bedoeld in het elfde lid, elektronisch beschikbaar.
 
-#### Artikel 9c.3. Aanvraagvereisten
+##### Artikel 9c.3. Aanvraagvereisten
 
 1. De aanvraag bestaat uit een activiteitenplan, waarin onverminderd [artikel 3.4 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.4) ten minste wordt opgenomen:
 
@@ -734,13 +760,13 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 2. In aanvulling op het eerste lid, onderdeel b, en voor zover ten behoeve van meerdere schoolteams subsidie wordt aangevraagd, bevat de aanvraag een verklaring, ondertekend door het bevoegd gezag, waaruit blijkt dat wordt voldaan aan het vereiste als bedoeld in [artikel 9b.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049613&hoofdstuk=4&artikel=9b.2&z=2026-02-19&g=2026-02-19).
 
-#### Artikel 9d.4. Overeenkomstige toepassing weigeringsgronden
+##### Artikel 9d.4. Overeenkomstige toepassing weigeringsgronden
 
 1. De weigeringsgronden, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049613&hoofdstuk=2&artikel=6&z=2026-02-19&g=2026-02-19), zijn van overeenkomstige toepassing voor de subsidieverstrekking op grond van dit hoofdstuk, met dien verstande dat bij artikel 6, onderdeel a, voor ‘de gesprekken’ wordt gelezen de gesprekken als bedoeld in [artikel 9b.2, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049613&hoofdstuk=4&artikel=9b.2&z=2026-02-19&g=2026-02-19) en bij artikel 6, onderdeel d, voor ‘peildatum 1 januari 2024’ wordt gelezen ‘peildatum 1 januari 2026’.
 
 2. In aanvulling op het eerste lid, wordt een aanvraag die betrekking heeft op de activiteiten, bedoeld in [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049613&hoofdstuk=1&artikel=3&z=2026-02-19&g=2026-02-19), en die ten behoeve van meerdere schoolteams is aangevraagd, geweigerd indien niet wordt voldaan aan het vereiste als bedoeld in [artikel 9b.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049613&hoofdstuk=4&artikel=9b.2&z=2026-02-19&g=2026-02-19).
 
-#### Artikel 9e.5. Subsidieplafonds en maximaal aantal deelnemende vestigingen per jaar
+##### Artikel 9e.5. Subsidieplafonds en maximaal aantal deelnemende vestigingen per jaar
 
 1. Voor verstrekking van de subsidie op grond van dit hoofdstuk is in totaal een bedrag beschikbaar van € 20.383.644 voor het primair onderwijs en het voortgezet onderwijs.
 
@@ -762,7 +788,7 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 4. De Minister verdeelt de beschikbare bedragen in volgorde van binnenkomst van de volledige aanvragen. Een subsidie wordt geweigerd voor zover door verstrekking van de subsidie het plafond zou worden overschreden.
 
-#### Artikel 9f.6. Subsidiebedrag
+##### Artikel 9f.6. Subsidiebedrag
 
 1. Het subsidiebedrag per vestiging in het primair onderwijs voor het schooljaar 2026/2027 bedraagt:
 
@@ -798,7 +824,7 @@ Dit hoofdstuk is uitsluitend van toepassing op de verstrekking van subsidie voor
 
 5. Het subsidiebedrag bij een aanvraag die namens een samenwerking wordt ingediend, als bedoeld in [artikel 9b.2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049613&hoofdstuk=4&artikel=9b.2&z=2026-02-19&g=2026-02-19), wordt berekend door de bedragen uit onderdelen d van het eerste of tweede lid, te vermenigvuldigen met het aantal vestigingen dat binnen een samenwerking als een co-creërende vestiging deelneemt in een co-creatielab.
 
-#### Artikel 9g.7. Overeenkomstige toepassing subsidieverplichtingen
+##### Artikel 9g.7. Overeenkomstige toepassing subsidieverplichtingen
 
 De subsidieverplichtingen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0049613&hoofdstuk=2&artikel=9&z=2026-02-19&g=2026-02-19), zijn van overeenkomstige toepassing voor de subsidieverstrekking op grond van dit hoofdstuk, met dien verstande dat bij artikel 9, derde lid, voor ‘kalenderjaar 2025’ wordt gelezen ‘kalenderjaar 2027’ en de Minister in afwijking van het derde lid op een gemotiveerd verzoek van de subsidieontvanger die deelneemt aan activiteiten, bedoeld in [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049613&hoofdstuk=1&artikel=3&z=2026-02-19&g=2026-02-19), de in het derde lid genoemde termijn van één kalenderjaar waarin het traject uiterlijk moet zijn afgerond kan verlengen.
 

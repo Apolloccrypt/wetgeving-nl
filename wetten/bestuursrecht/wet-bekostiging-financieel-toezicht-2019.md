@@ -1,14 +1,42 @@
 ---
-title: "Wet bekostiging financieel toezicht 2019"
+title: "Wet van 17 oktober 2018, houdende regels met betrekking tot de begroting en verantwoording van de kosten van het toezicht van de Autoriteit Financiële Markten en de Nederlandsche Bank en de financiering van de toezichtkosten (Wet bekostiging financieel toezicht 2019)"
 identifier: "BWBR0041548"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041548"
+country: "nl"
+rank: "wet"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041548"
+soort: "wet"
+stam_id: "14858433"
+version_id: "25417792"
+internal_id: "C36284141"
+label_id: "14810164"
+dtd_version: "2.0"
+original_entry_into_force: "2018-11-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041548/2023-01-01/0"
+intitule_bron: "Stb.2018-409"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-10-17"
+intitule_published: "2018-11-15"
+intitule_in_force: "2018-11-15"
+intitule_status: "goed"
+original_publication: "Stb.2018-409"
+original_signed_date: "2018-10-17"
+original_published_date: "2018-11-15"
+original_effect: "nieuwe-regeling"
+original_dossier: "34870"
+original_url_id: "stb-2018-409"
+entry_into_force_date: "2018-11-16"
+entry_into_force_dossier: "34870"
+jci_1_3: "jci1.3:c:BWBR0041548&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0041548&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet bekostiging financieel toezicht 2019"
+signed_date: "2018-10-17"
+entry_into_force: "2018-11-16"
 ---
-
-# Wet bekostiging financieel toezicht 2019
+# Wet van 17 oktober 2018, houdende regels met betrekking tot de begroting en verantwoording van de kosten van het toezicht van de Autoriteit Financiële Markten en de Nederlandsche Bank en de financiering van de toezichtkosten (Wet bekostiging financieel toezicht 2019)
 
 ### Hoofdstuk 1. Algemeen
 
@@ -18,15 +46,15 @@ bron: "https://wetten.overheid.nl/BWBR0041548"
 
 ### Hoofdstuk 3. Vergoeding van de kosten
 
-#### Artikel 16a. Evaluatiebepaling
+##### Artikel 16a. Evaluatiebepaling
 
 Onze Minister van Financiën zendt in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 17. Intrekking [Wet bekostiging financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0031659)
+##### Artikel 17. Intrekking [Wet bekostiging financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0031659)
 
 De [Wet bekostiging financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0031659) wordt ingetrokken.
 
-#### Artikel 18. Overgangsrecht
+##### Artikel 18. Overgangsrecht
 
 1. De [Wet bekostiging financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0031659), zoals die wet luidde op de dag voor de datum van inwerkingtreding van deze wet, blijft van toepassing op:
 
@@ -48,25 +76,25 @@ De [Wet bekostiging financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - d. het depositogarantiestelsel, bedoeld in [artikel 4:17 van de Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=4:17).
 
-#### Artikel 19. Wijziging [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
+##### Artikel 19. Wijziging [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
 
 Wijzigt de Algemene wet bestuursrecht
 
-#### Artikel 20. Wijziging [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368)
+##### Artikel 20. Wijziging [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368)
 
 Wijzigt de Wet op het financieel toezicht.
 
-#### Artikel 21. Wijziging [Wet bekostiging financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0031659)
+##### Artikel 21. Wijziging [Wet bekostiging financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0031659)
 
 Wijzigt de Wet bekostiging financieel toezicht.
 
-#### Artikel 22. Inwerkingtreding
+##### Artikel 22. Inwerkingtreding
 
 1. Deze wet treedt, met uitzondering van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0041548&hoofdstuk=4&artikel=21&z=2023-01-01&g=2023-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 2. [Artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0041548&hoofdstuk=4&artikel=21&z=2023-01-01&g=2023-01-01) treedt, onder toepassing van [artikel 12, eerste lid, van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 januari 2018.
 
-#### Artikel 23. Citeertitel
+##### Artikel 23. Citeertitel
 
 Deze wet wordt aangehaald als: Wet bekostiging financieel toezicht 2019.
 
@@ -80,7 +108,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -98,7 +126,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **toezichthouder:** de Nederlandsche Bank of de Autoriteit Financiële Markten.
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 1. Deze wet is van toepassing op de bij of krachtens enige wet aan de Nederlandsche Bank en de Autoriteit Financiële Markten opgedragen taken en daaruit voortvloeiende werkzaamheden. Onder deze werkzaamheden valt ook de betrokkenheid van de toezichthouder bij de voorbereiding van nationale en internationale wet- en regelgeving.
 
@@ -120,11 +148,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2.1. Begroting
 
-#### Artikel 3. Indiening begroting
+##### Artikel 3. Indiening begroting
 
 De toezichthouder zendt de begroting, bedoeld in [artikel 26 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26), jaarlijks voor 1 december aan Onze Ministers.
 
-#### Artikel 4. Kostenkader en hoogte begroting toezichthouders
+##### Artikel 4. Kostenkader en hoogte begroting toezichthouders
 
 1. Onze Ministers stellen voor de begroting van de toezichthouders een kader op. De totale hoogte van het kader is in enig jaar niet hoger dan het maximum in het kader van het daaraan voorafgaande jaar met daarbij opgeteld:
 
@@ -144,13 +172,13 @@ De toezichthouder zendt de begroting, bedoeld in [artikel 26 van de Kaderwet zel
 
 4. Onze Ministers kunnen in bijzondere omstandigheden afwijken van dit artikel en informeren de beide kamers der Staten-Generaal hier tijdig over.
 
-#### Artikel 5. Inrichting begroting
+##### Artikel 5. Inrichting begroting
 
 1. Voor de toepassing van [artikel 27, vierde lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=27) wordt met betrekking tot de begroting van de Nederlandsche Bank voor «laatst goedgekeurde jaarrekening» gelezen: laatst goedgekeurde verantwoording als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041548&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2023-01-01&g=2023-01-01) van de Wet bekostiging financieel toezicht 2019.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels over de inrichting van de begroting worden gesteld.
 
-#### Artikel 6. Goedkeuring begroting
+##### Artikel 6. Goedkeuring begroting
 
 1. Het onthouden van de goedkeuring, bedoeld in [artikel 29, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=29), vindt niet plaats dan nadat de toezichthouder in de gelegenheid is gesteld de begroting binnen een door Onze Ministers gezamenlijk te stellen redelijke termijn aan te passen.
 
@@ -160,7 +188,7 @@ De toezichthouder zendt de begroting, bedoeld in [artikel 26 van de Kaderwet zel
 
 #### § 2.2. Verantwoording
 
-#### Artikel 7. Bijzondere bepalingen
+##### Artikel 7. Bijzondere bepalingen
 
 1. Bij de toepassing van de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34) en [35 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=35) wordt het afleggen van rekening en verantwoording voor de uitvoering van de taken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041548&hoofdstuk=1&artikel=2&z=2023-01-01&g=2023-01-01), door de Nederlandsche Bank aangeduid als «verantwoording» in plaats van «jaarrekening».
 
@@ -168,7 +196,7 @@ De toezichthouder zendt de begroting, bedoeld in [artikel 26 van de Kaderwet zel
 
 3. De jaarrekening, onderscheidenlijk de verantwoording, behoeft de goedkeuring van de Raad van toezicht onderscheidenlijk de Raad van commissarissen, voordat deze bij Onze Ministers wordt ingediend.
 
-#### Artikel 8. Inrichting jaarrekening
+##### Artikel 8. Inrichting jaarrekening
 
 1. De jaarrekening, onderscheidenlijk de verantwoording, bevatten een opgave van het over het desbetreffende jaar gerealiseerde exploitatiesaldo. Het saldo geeft het verschil aan tussen de gerealiseerde baten en lasten.
 
@@ -186,13 +214,13 @@ De toezichthouder zendt de begroting, bedoeld in [artikel 26 van de Kaderwet zel
 
 5. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels over de inrichting van de jaarrekening onderscheidenlijk verantwoording worden gesteld.
 
-#### Artikel 9. Goedkeuring jaarrekening
+##### Artikel 9. Goedkeuring jaarrekening
 
 1. Het onthouden van de goedkeuring, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), vindt niet plaats dan nadat de toezichthouder in de gelegenheid is gesteld de jaarrekening, onderscheidenlijk verantwoording, binnen een door Onze Ministers gezamenlijk te stellen redelijke termijn aan te passen.
 
 2. De toezichthouder doet na goedkeuring van de jaarrekening, onderscheidenlijk de verantwoording, onverwijld mededeling van die jaarrekening of verantwoording in de Staatscourant en houdt de jaarrekening of verantwoording gedurende ten minste vijf jaar na goedkeuring op elektronische wijze ter inzage.
 
-#### Artikel 10. Jaarverslag
+##### Artikel 10. Jaarverslag
 
 1. Het door de Nederlandsche Bank ingevolge [artikel 18 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) op te stellen jaarverslag maakt deel uit van de verantwoording.
 
@@ -202,13 +230,13 @@ De toezichthouder zendt de begroting, bedoeld in [artikel 26 van de Kaderwet zel
 
 #### § 2.3. Overige bepalingen
 
-#### Artikel 11. Afdracht inkomsten uit boetes en verbeurde dwangsommen
+##### Artikel 11. Afdracht inkomsten uit boetes en verbeurde dwangsommen
 
 1. Voor zover de tot de gerealiseerde baten in een jaar te rekenen opbrengsten uit dwangsommen of bestuurlijke boetes het bedrag van € 4.500.000 te boven gaan, komen die opbrengsten toe aan de Staat.
 
 2. De toezichthouder draagt het aan de Staat verschuldigde bedrag af, zodra het besluit tot vaststelling van de desbetreffende jaarrekening, onderscheidenlijk verantwoording, overeenkomstig [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34) is goedgekeurd.
 
-#### Artikel 12. Periodiek overleg met de sector
+##### Artikel 12. Periodiek overleg met de sector
 
 1. De toezichthouder organiseert tweemaal per jaar overleg met een daarvoor in aanmerking komende representatieve vertegenwoordiging van de onder zijn toezicht staande personen. De toezichthouder kan tevens daarvoor in aanmerking komende cliëntenorganisaties toelaten tot het overleg. Ambtenaren kunnen namens Onze Ministers het overleg bijwonen.
 
@@ -216,7 +244,7 @@ De toezichthouder zendt de begroting, bedoeld in [artikel 26 van de Kaderwet zel
 
 ### Hoofdstuk 3. Vergoeding van de kosten
 
-#### Artikel 13. Vergoeding kosten toezichthouders
+##### Artikel 13. Vergoeding kosten toezichthouders
 
 1. De kosten van de toezichthouder voor de uitvoering van de taken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041548&hoofdstuk=1&artikel=2&z=2023-01-01&g=2023-01-01), worden ten laste gebracht van de onder toezicht staande personen en de personen voor wie de toezichthouder een eenmalige handeling verricht.
 
@@ -230,13 +258,13 @@ De toezichthouder zendt de begroting, bedoeld in [artikel 26 van de Kaderwet zel
 
 - d. de kosten voor de uitvoering van de taken in de openbare lichamen Bonaire, Sint-Eustatius en Saba worden niet op grond van deze wet in rekening gebracht, met uitzondering van de taken op grond van de Pensioenwet BES.
 
-#### Artikel 14. Eenmalige handelingen
+##### Artikel 14. Eenmalige handelingen
 
 1. Een persoon is de toezichthouder een vergoeding verschuldigd voor het verrichten van een eenmalige handeling.
 
 2. Bij regeling van Onze Ministers, ieder voor diens beleidsverantwoordelijkheid, worden de eenmalige handelingen waar een vergoeding voor verschuldigd is en de kosten daarvoor of de wijze waarop deze kosten worden berekend vastgesteld. Bij die regeling kunnen tevens regels worden gesteld over de wijze en het moment waarop de kosten in rekening worden gebracht.
 
-#### Artikel 15. Doorlopend toezicht
+##### Artikel 15. Doorlopend toezicht
 
 1. De toezichthouder brengt jaarlijks bij een onder toezicht staande persoon een bedrag voor de kosten van het toezicht in rekening.
 
@@ -274,7 +302,7 @@ De toezichthouder zendt de begroting, bedoeld in [artikel 26 van de Kaderwet zel
 
 6. De voordracht voor een krachtens het vierde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 16. Kosten curator en bijzondere bewindvoerder
+##### Artikel 16. Kosten curator en bijzondere bewindvoerder
 
 1. De toezichthouder kan aan de betrokken financiële onderneming een bedrag in rekening brengen ter vergoeding van de kosten die hij maakt voor de toepassing van de [artikelen 1:76](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:76) en [1:76a van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:76a).
 
@@ -284,7 +312,7 @@ De toezichthouder zendt de begroting, bedoeld in [artikel 26 van de Kaderwet zel
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 8a. Reserve
+##### Artikel 8a. Reserve
 
 1. De toezichthouder kan een reserve aanhouden die gevormd wordt uit de opbrengsten ontvangen uit dwangsommen of opgelegde bestuurlijke boetes tot een bij algemene maatregel van bestuur te bepalen maximum.
 
@@ -296,7 +324,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### § 2.3. Overige bepalingen
 
-#### Artikel 12a. Spreiding exploitatiesaldo
+##### Artikel 12a. Spreiding exploitatiesaldo
 
 1. Op verzoek van een toezichthouder kunnen Onze Ministers toestemming geven om een exploitatiesaldo of een deel daarvan over meerdere jaren aan de onder toezicht staande personen in rekening te brengen.
 

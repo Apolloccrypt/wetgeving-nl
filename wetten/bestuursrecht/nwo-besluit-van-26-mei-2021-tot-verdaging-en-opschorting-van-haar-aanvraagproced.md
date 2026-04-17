@@ -1,13 +1,39 @@
 ---
-title: "NWO besluit van 26 mei 2021 tot verdaging en opschorting van haar aanvraagprocedures naar aanleiding van de hack op de NWO-netwerkservers"
+title: "Besluit van de raad van bestuur van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO), van 26 mei 2021, tot verdaging en opschorting van haar aanvraagprocedures in verband met de gevolgen van de hack van de NWO-netwerkservers"
 identifier: "BWBR0045198"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-06-05
-laatste_update: 2021-06-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045198"
+country: "nl"
+rank: "zbo"
+publication_date: "2021-06-05"
+last_updated: "2021-06-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045198"
+soort: "zbo"
+stam_id: "15974283"
+version_id: "27798722"
+internal_id: "C39209961"
+label_id: "15908234"
+dtd_version: "2.0"
+original_entry_into_force: "2021-06-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045198/2021-06-05/0"
+intitule_bron: "Stcrt.2021-27791"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-05-26"
+intitule_published: "2021-06-04"
+intitule_in_force: "2021-06-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-27791"
+original_signed_date: "2021-05-26"
+original_published_date: "2021-06-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-27791"
+entry_into_force_date: "2021-06-05"
+jci_1_3: "jci1.3:c:BWBR0045198&z=2021-06-05&g=2021-06-05"
+jci_1_0: "1.0:c:BWBR0045198&g=2021-06-05"
+citeertitel_status: "officieel"
+short_title: "NWO besluit van 26 mei 2021 tot verdaging en opschorting van haar aanvraagprocedures naar aanleiding van de hack op de NWO-netwerkservers"
+signed_date: "2021-05-26"
+entry_into_force: "2021-06-05"
 ---
-
 # Besluit van de raad van bestuur van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO), van 26 mei 2021, tot verdaging en opschorting van haar aanvraagprocedures in verband met de gevolgen van de hack van de NWO-netwerkservers
 
 gelet op [artikel 6, vierde lid, van de Wet op de Nederlandse Organisatie voor Wetenschappelijk Onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&artikel=6);
@@ -18,7 +44,7 @@ BESLUIT:
 
 Werkt voor elk van de in dit besluit aangehaalde call for proposals terug tot de datum waarop de betreffende call for proposals is gepubliceerd in de Staatscourant.
 
-#### Artikel 1. Uitgestelde indieningsdeadlines en besluitmomenten voor vooraanmeldingen en uitgewerkte aanvragen
+##### Artikel 1. Uitgestelde indieningsdeadlines en besluitmomenten voor vooraanmeldingen en uitgewerkte aanvragen
 
 1. Voor een aantal calls for proposals worden de daarin vermelde indieningsdeadline en uiterste besluitmoment voor **vooraanmeldingen** uitgesteld. Onderstaande tabel bevat een overzicht van de gewijzigde indieningsdeadline en besluitmoment per call for proposals:
 
@@ -139,7 +165,7 @@ Werkt voor elk van de in dit besluit aangehaalde call for proposals terug tot de
 | Rubicon 2021-1 | 19 november 2020 | Stcrt. 2020, 59930 | 30 maart 2021, om 14:00:00 CE(S)T | 11 mei 2021, om 14:00:00 CE(S)T | September 2021 |
 | Rubicon COVID-19 Financial Compensation Scheme 2021 | 2 februari 2021 | Stcrt. 2021, 4407 | February 15, 2021 midnight (Central European Time, i.e. Dutch time) | April 1, 2021 midnight (Central European Time, i.e. Dutch time) | April 2021 |
 
-#### Artikel 2. Overige uitgestelde deadlines
+##### Artikel 2. Overige uitgestelde deadlines
 
 Voor een aantal calls for proposals worden de daarin vermelde **andersoortige deadlines** uitgesteld. Onderstaande tabel bevat een overzicht van dergelijke gewijzigde deadlines per call for proposals:
 
@@ -166,11 +192,11 @@ Voor een aantal calls for proposals worden de daarin vermelde **andersoortige de
 | Praktijkkennis voor Voedsel en Groen: Vermindering reststromen | 15 juli 2020 | Stcrt. 2020, 37654 | Tussen 15 januari 2021 en 15 juli 2021 | Tussen 1 juli 2021 en 1 januari 2022 | Uiterlijke startdatum toegekende projecten |
 | Towards More Sustainable and Social Local Energy Systems | 28 december 2020 | Stcrt. 2020, 67941 | 22 April 2021 | 25 May 2021 | Deadline for submitting documents for co-applicant eligibility check |
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na bekendmaking in de Staatscourant en werkt voor elk van de in dit besluit aangehaalde call for proposals terug tot de datum waarop de betreffende call for proposals is gepubliceerd in de Staatscourant.
 
-#### Artikel 4. Naam besluit
+##### Artikel 4. Naam besluit
 
 Dit besluit wordt aangehaald als: NWO besluit van 26 mei 2021 tot verdaging en opschorting van haar aanvraagprocedures naar aanleiding van de hack op de NWO-netwerkservers.
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling rekenmethoden onderbouwing solidariteitsreserve en risicodelingsreserve pensioenuitvoerders"
+title: "Regeling van De Nederlandsche Bank N.V. van 23 juni 2023, ter uitvoering van artikel 1h, negende lid, Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling, houdende regels met betrekking tot rekenmethoden ter onderbouwing van de inrichting van de solidariteitsreserve en de risicodelingsreserve (Regeling rekenmethoden onderbouwing solidariteitsreserve en risicodelingsreserve pensioenuitvoerders)"
 identifier: "BWBR0048347"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2023-07-01
-laatste_update: 2023-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048347"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-07-01"
+last_updated: "2023-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048347"
+soort: "zbo"
+stam_id: "16790043"
+version_id: "29492652"
+internal_id: "C42170791"
+label_id: "16704964"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048347/2023-07-01/0"
+intitule_bron: "Stcrt.2023-18233"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-06-23"
+intitule_published: "2023-07-03"
+intitule_in_force: "2023-06-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-18233"
+original_signed_date: "2023-06-23"
+original_published_date: "2023-07-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-18233"
+entry_into_force_date: "2023-07-01"
+jci_1_3: "jci1.3:c:BWBR0048347&z=2023-07-01&g=2023-07-01"
+jci_1_0: "1.0:c:BWBR0048347&g=2023-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling rekenmethoden onderbouwing solidariteitsreserve en risicodelingsreserve pensioenuitvoerders"
+signed_date: "2023-06-23"
+entry_into_force: "2023-07-01"
 ---
-
 # Regeling van De Nederlandsche Bank N.V. van 23 juni 2023, ter uitvoering van artikel 1h, negende lid, Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling, houdende regels met betrekking tot rekenmethoden ter onderbouwing van de inrichting van de solidariteitsreserve en de risicodelingsreserve (Regeling rekenmethoden onderbouwing solidariteitsreserve en risicodelingsreserve pensioenuitvoerders)
 
 Gelet op [artikel 1h, negende lid, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=1h);
@@ -18,7 +44,7 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop het Besluit toekomst pensioenen in werking treedt.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van deze regeling wordt verstaan onder:
 
@@ -56,11 +82,11 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 - m. **Wvb:** de [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831).
 
-#### Artikel 2. Onderbouwing inrichting solidariteitsreserve of risicodelingsreserve
+##### Artikel 2. Onderbouwing inrichting solidariteitsreserve of risicodelingsreserve
 
 De pensioenuitvoerder die een premieregeling dan wel premieovereenkomst uitvoert, onderbouwt de inrichting van de solidariteitsreserve of risicodelingsreserve ten minste met een analyse op basis van de rekenmethoden en een daarbij behorende toelichting zoals opgenomen in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048347&artikel=3&z=2023-07-01&g=2023-07-01) van deze regeling.
 
-#### Artikel 3. Rekenmethoden en toelichting
+##### Artikel 3. Rekenmethoden en toelichting
 
 1. Voor de berekeningen ter onderbouwing van de inrichting van de solidariteitsreserve of risicodelingsreserve en voor de toelichting op deze berekeningen:
 
@@ -100,11 +126,11 @@ De pensioenuitvoerder die een premieregeling dan wel premieovereenkomst uitvoert
 
 - f. beschrijft de pensioenuitvoerder wanneer in de tijd de baten en lasten voor deelnemers, gewezen deelnemers, andere aanspraakgerechtigden en pensioengerechtigden zich materialiseren.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 Deze regeling treedt in werking op het tijdstip waarop het [Besluit toekomst pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0048343) in werking treedt.
 
-#### Artikel 5. Citeertitel
+##### Artikel 5. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling rekenmethoden onderbouwing solidariteitsreserve en risicodelingsreserve pensioenuitvoerders.
 

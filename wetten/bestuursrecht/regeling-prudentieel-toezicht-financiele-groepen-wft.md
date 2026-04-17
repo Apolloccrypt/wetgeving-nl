@@ -1,13 +1,39 @@
 ---
-title: "Regeling prudentieel toezicht financiële groepen Wft"
+title: "Regeling van de Nederlandsche Bank N.V. van 11 december 2006, nr. Juza/2006/02412/IH, houdende regels met betrekking tot aanvullend prudentieel toezicht op kredietinstellingen, levensverzekeraars, schadeverzekeraars en beleggingsondernemingen die tot een financiële groep behoren (Regeling prudentieel toezicht financiële groepen Wft)"
 identifier: "BWBR0020705"
-categorie: "Bestuursrecht"
-publicatiedatum: 2009-01-01
-laatste_update: 2009-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020705"
+country: "nl"
+rank: "zbo"
+publication_date: "2009-01-01"
+last_updated: "2009-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020705"
+soort: "zbo"
+stam_id: "8782263"
+version_id: "13916922"
+internal_id: "C18878991"
+label_id: "8762394"
+dtd_version: "2.0"
+original_entry_into_force: "2007-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020705/2009-01-01/0"
+intitule_bron: "Stcrt.2006-246"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-12-11"
+intitule_published: "2006-12-18"
+intitule_in_force: "2006-12-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-246"
+original_signed_date: "2006-12-11"
+original_published_date: "2006-12-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-246-p36-SC78324"
+entry_into_force_date: "2007-01-01"
+jci_1_3: "jci1.3:c:BWBR0020705&z=2009-01-01&g=2009-01-01"
+jci_1_0: "1.0:c:BWBR0020705&g=2009-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling prudentieel toezicht financiële groepen Wft"
+signed_date: "2006-12-11"
+entry_into_force: "2007-01-01"
 ---
-
 # Regeling van de Nederlandsche Bank N.V. van 11 december 2006, nr. Juza/2006/02412/IH, houdende regels met betrekking tot aanvullend prudentieel toezicht op kredietinstellingen, levensverzekeraars, schadeverzekeraars en beleggingsondernemingen die tot een financiële groep behoren (Regeling prudentieel toezicht financiële groepen Wft)
 
 Gelet op de [artikelen 4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&artikel=4), [5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&artikel=5), [6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&artikel=6), [24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&artikel=24), [26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&artikel=26), en [27, vierde lid, van het Besluit prudentieel toezicht financiële groepen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&artikel=27);
@@ -20,7 +46,7 @@ Treedt in werking op tijdstip waarop het Besluit prudentieel toezicht financiël
 
 #### § 1. Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 #### Bepalingen ter uitvoering van [artikel 4, tweede en derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&artikel=4)
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een kredietinstelling als bedoeld in [artikel 3:280, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:280) rapporteert alle significante intragroepovereenkomsten en -posities met de gemengde holding en haar dochterondernemingen met gebruikmaking van blad 1 van het rapportageformulier opgenomen in de bijlage behorende bij deze regeling. De rapportage wordt uiterlijk twee maanden na afloop van het boekjaar bij DNB ingediend.
 
@@ -50,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 4. Op verzoek van de kredietinstelling en na overleg met relevante toezichthoudende instanties kan DNB afwijken van het eerste en tweede lid.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor de toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020705&paragraaf=2&artikel=2&z=2009-01-01&g=2009-01-01), wordt ten aanzien van elke significante individuele intragroepovereenkomst aangegeven:
 
@@ -70,7 +96,7 @@ In deze regeling wordt verstaan onder:
 
 #### Bepalingen ter uitvoering van [artikel 5, tweede en derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&artikel=5)
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een verzekeraar als bedoeld in [artikel 3:284, tweede lid, aanhef, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:284) rapporteert alle significante intragroepovereenkomsten en -posities met ondernemingen, bedoeld in [artikel 3:284, eerste lid, onderdelen a tot en met d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:284) met gebruikmaking van blad 2 van het rapportageformulier opgenomen in de bijlage behorende bij deze regeling. De rapportage wordt uiterlijk vier maanden na afloop van het boekjaar bij DNB ingediend.
 
@@ -80,7 +106,7 @@ In deze regeling wordt verstaan onder:
 
 4. Op verzoek van de verzekeraar en na overleg met relevante toezichthoudende instanties kan DNB afwijken van het eerste en tweede lid.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor de toepassing van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020705&paragraaf=3&artikel=4&z=2009-01-01&g=2009-01-01), wordt ten aanzien van elke significante individuele intragroepovereenkomst aangegeven:
 
@@ -116,7 +142,7 @@ De gerapporteerde overige vorderingen, bedoeld in onderdeel d, gaan vergezeld va
 
 #### Bepalingen ter uitvoering van [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&artikel=6), en [artikel 21, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&artikel=21)
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een verzekeraar als bedoeld in de [artikelen 3:285, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:285), en [3:286, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:286), rapporteert de aangepaste solvabiliteit, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&artikel=6) en [21, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&artikel=21):
 
@@ -132,7 +158,7 @@ De gerapporteerde overige vorderingen, bedoeld in onderdeel d, gaan vergezeld va
 
 #### Bepalingen ter uitvoering van [artikel 24, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&artikel=24)
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een onderneming als bedoeld in [artikel 3:296, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:296) dient de berekening, bedoeld in [artikel 24, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&artikel=24) uiterlijk vier maanden na afloop van het boekjaar bij DNB in.
 
@@ -144,7 +170,7 @@ De gerapporteerde overige vorderingen, bedoeld in onderdeel d, gaan vergezeld va
 
 #### Bepalingen ter uitvoering van [artikel 26, tweede, derde en vierde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&artikel=26)
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een onderneming als bedoeld in [artikel 3:297, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:297), rapporteert alle significante risicoconcentraties op het niveau van het financiële conglomeraat, met uitzondering van risico’s uit hoofde van verzekeringsovereenkomsten en van uitzettingen bij of gegarandeerd door de Nederlandse Staat of Nederlandse lagere overheden, betreffende één individu of instelling dan wel een groep van onderling verbonden individuen of instellingen.
 
@@ -154,7 +180,7 @@ De gerapporteerde overige vorderingen, bedoeld in onderdeel d, gaan vergezeld va
 
 4. Op verzoek van de onderneming en na overleg met relevante toezichthoudende instanties kan DNB afwijken van het eerste en tweede lid.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Voor de toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020705&paragraaf=6&artikel=8&z=2009-01-01&g=2009-01-01) wordt ten aanzien van elke significante risicoconcentratie aangegeven:
 
@@ -176,7 +202,7 @@ De gerapporteerde afgegeven garanties, inclusief financiële derivaten, en overi
 
 #### Bepalingen ter uitvoering van [artikel 27, tweede, derde en vierde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&artikel=27)
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een onderneming als bedoeld in [artikel 3:298, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:298) rapporteert alle significante intragroepovereenkomsten en -posities van gereglementeerde entiteiten van het financieel conglomeraat. Hieronder vallen zowel de significante individuele intragroepovereenkomsten met één onderneming van de groep als de significante totale positie ten opzichte van één onderneming van het financieel conglomeraat.
 
@@ -186,7 +212,7 @@ De gerapporteerde afgegeven garanties, inclusief financiële derivaten, en overi
 
 4. Op verzoek van de onderneming en na overleg met relevante toezichthoudende instanties kan DNB afwijken van het eerste tot en met het derde lid.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Voor de toepassing van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020705&paragraaf=7&artikel=10&z=2009-01-01&g=2009-01-01), wordt ten aanzien van elke significante individuele intragroepovereenkomst aangegeven:
 
@@ -216,11 +242,11 @@ De gerapporteerde overige vorderingen, bedoeld in onderdeel d, gaan vergezeld va
 
 #### § 8. Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling treedt in werking op het tijdstip waarop het [Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020415) in werking treedt.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling wordt aangehaald als: Regeling prudentieel toezicht financiële groepen Wft.
 

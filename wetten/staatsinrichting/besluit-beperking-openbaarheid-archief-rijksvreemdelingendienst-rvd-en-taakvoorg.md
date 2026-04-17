@@ -1,13 +1,38 @@
 ---
 title: "Besluit beperking openbaarheid archief Rijksvreemdelingendienst (RVD) en taakvoorgangers over de periode 1918–1945"
 identifier: "BWBR0036942"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2015-08-20
-laatste_update: 2015-08-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036942"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-08-20"
+last_updated: "2015-08-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036942"
+soort: "ministeriele-regeling"
+stam_id: "13244183"
+version_id: "22651562"
+internal_id: "C32474051"
+label_id: "13212294"
+dtd_version: "2.0"
+original_entry_into_force: "2015-08-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036942/2015-08-20/0"
+intitule_bron: "Stcrt.2015-25476"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-08-11"
+intitule_published: "2015-08-19"
+intitule_in_force: "2015-08-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-25476"
+original_signed_date: "2015-08-11"
+original_published_date: "2015-08-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-25476"
+entry_into_force_date: "2015-08-20"
+jci_1_3: "jci1.3:c:BWBR0036942&z=2015-08-20&g=2015-08-20"
+jci_1_0: "1.0:c:BWBR0036942&g=2015-08-20"
+citeertitel_status: "redactioneel"
+signed_date: "2015-08-11"
+entry_into_force: "2015-08-20"
 ---
-
 # Besluit beperking openbaarheid archief Rijksvreemdelingendienst (RVD) en taakvoorgangers over de periode 1918–1945
 
 Gelet op [artikel 15, lid 3 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15);
@@ -18,7 +43,7 @@ Gehoord de minister van Veiligheid en Justitie;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de archiefbescheiden beschreven in de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar in de tweede kolom.
 
@@ -28,7 +53,7 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de archiefbe
 | 1505 | 2018 |
 | 1510 | 2021 |
 
-#### Artikel 2
+##### Artikel 2
 
 Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de archiefbescheiden beschreven in de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar in de tweede kolom. Wanneer het overlijden van een betrokkene ten genoege van de algemene rijksarchivaris is aangetoond, vervalt de beperking aan de openbaarheid van het dossier dat op die persoon betrekking heeft.
 
@@ -68,7 +93,7 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de archiefbe
 | 1970–1973 | 2048 |
 | 1995–1996 | 2024 |
 
-#### Artikel 3
+##### Artikel 3
 
 Inzage in de in de archiefbescheiden, geborgen onder de inventarisnummers genoemd in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036942&artikel=1&z=2015-08-20&g=2015-08-20) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036942&artikel=2&z=2015-08-20&g=2015-08-20) is alleen mogelijk na voorafgaande schriftelijk toestemming van de algemene rijksarchivaris. Deze verleent zijn toestemming wanneer
 
@@ -84,10 +109,10 @@ Inzage in de in de archiefbescheiden, geborgen onder de inventarisnummers genoem
 
 - •. raadpleging plaats vindt ten behoeve van wetenschappelijk onderzoek of statistiek.
 
-#### Artikel 4
+##### Artikel 4
 
 Het vervaardigen van reproducties van archiefbescheiden geborgen onder de inventarisnummers genoemd in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036942&artikel=1&z=2015-08-20&g=2015-08-20) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036942&artikel=2&z=2015-08-20&g=2015-08-20), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.

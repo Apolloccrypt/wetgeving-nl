@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling Strategisch opleiden MSZ"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 25 november 2024, kenmerk 4009410-1075454-MEVA, houdende regels voor de verstrekking van subsidie voor het opleiden en ontwikkelen van zorgpersoneel (Subsidieregeling Strategisch Opleiden MSZ)"
 identifier: "BWBR0050482"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-11-22
-laatste_update: 2025-11-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050482"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-11-22"
+last_updated: "2025-11-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050482"
+soort: "ministeriele-regeling"
+stam_id: "17290073"
+version_id: "30451732"
+internal_id: "C43664241"
+label_id: "17194264"
+dtd_version: "2.0"
+original_entry_into_force: "2024-11-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050482/2025-11-22/0"
+intitule_bron: "Stcrt.2024-38940"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-25"
+intitule_published: "2024-11-29"
+intitule_in_force: "2024-11-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-38940"
+original_signed_date: "2024-11-25"
+original_published_date: "2024-11-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-38940"
+entry_into_force_date: "2024-11-30"
+jci_1_3: "jci1.3:c:BWBR0050482&z=2025-11-22&g=2025-11-22"
+jci_1_0: "1.0:c:BWBR0050482&g=2025-11-22"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling Strategisch opleiden MSZ"
+signed_date: "2024-11-25"
+entry_into_force: "2024-11-30"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 25 november 2024, kenmerk 4009410-1075454-MEVA, houdende regels voor de verstrekking van subsidie voor het opleiden en ontwikkelen van zorgpersoneel (Subsidieregeling Strategisch Opleiden MSZ)
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [5 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -106,11 +132,11 @@ In deze regeling wordt verstaan onder:
 
 - c. Opbrengsten [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
-#### Artikel 2. Toepasselijkheid [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepasselijkheid [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Op deze regeling zijn de definities van activiteitenplan, activiteitenverslag, financieel verslag, verklaring inzake werkelijke kosten en opbrengsten en instelling bedoeld in [artikel 1.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.1), niet van toepassing. [Artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) en [artikel 10.1 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=10.1) zijn evenmin van toepassing.
 
-#### Artikel 3. Subsidiabele activiteiten
+##### Artikel 3. Subsidiabele activiteiten
 
 1. De Minister kan op aanvraag aan een instelling ten behoeve van een organisatorisch verband subsidie verstrekken voor een opleidingsproject dat past of meerdere opleidingsprojecten die passen binnen het jaarplan.
 
@@ -118,7 +144,7 @@ Op deze regeling zijn de definities van activiteitenplan, activiteitenverslag, f
 
 3. Het opleidingsproject, bedoeld in het eerste lid, is subsidiabel voor zover het wordt verricht in het subsidiejaar waarvoor de subsidie wordt verleend.
 
-#### Artikel 4. Weigeringsgronden
+##### Artikel 4. Weigeringsgronden
 
 1. Geen subsidie wordt verstrekt voor een opleidingsproject dat niet in overeenstemming is met het bepaalde in de algemene groepsvrijstellingsverordening.
 
@@ -134,13 +160,13 @@ Op deze regeling zijn de definities van activiteitenplan, activiteitenverslag, f
 
 3. Een aanvraag voor subsidie wordt in ieder geval afgewezen indien de instelling voor hetzelfde subsidiejaar al een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&artikel=3&z=2025-11-22&g=2025-11-22), heeft ingediend.
 
-#### Artikel 5. Subsidieplafond
+##### Artikel 5. Subsidieplafond
 
 1. Het subsidieplafond bedraagt voor zowel het subsidiejaar 2025 als het subsidiejaar 2026 voor instellingen niet zijnde een universitair medisch centrum € 99.337.000.
 
 2. Het subsidieplafond bedraagt voor zowel het subsidiejaar 2025 als het subsidiejaar 2026 voor universitair medische centra € 24.307.000.
 
-#### Artikel 6. Verdeling in geval van overschrijding subsidieplafond instellingen niet zijnde een universitair medisch centrum
+##### Artikel 6. Verdeling in geval van overschrijding subsidieplafond instellingen niet zijnde een universitair medisch centrum
 
 1. In geval van overschrijding van het subsidieplafond wordt het uit hoofde van het subsidieplafond beschikbare bedrag voor instellingen niet zijnde een universitair medisch centrum verdeeld en krijgt het organisatorisch verband ten behoeve waarvan de subsidie wordt verstrekt in eerste instantie het aangevraagde bedrag verleend tot het maximum van de formule:
 
@@ -176,7 +202,7 @@ waarbij wordt verstaan onder:
 
 5. De Minister kan afwijken van de begripsbepaling Zvw-omzet, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&artikel=1&z=2025-11-22&g=2025-11-22), voor zover toepassing hiervan zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 7. Verdeling in geval van overschrijding subsidieplafond universitair medische centra
+##### Artikel 7. Verdeling in geval van overschrijding subsidieplafond universitair medische centra
 
 1.
 
@@ -208,7 +234,7 @@ R: het resterende subsidiebedrag binnen het subsidieplafond na verlening van sub
 
 4. De systematiek beschreven in het tweede en derde lid wordt repeterend toegepast tot ten hoogste het per universitair medisch centrum aangevraagde bedrag en totdat het volledige subsidieplafond is bereikt.
 
-#### Artikel 8. Hoogte van de subsidie en subsidiabele kosten
+##### Artikel 8. Hoogte van de subsidie en subsidiabele kosten
 
 1. Subsidie die wordt verstrekt op grond van deze regeling bedraagt per opleidingsproject ten hoogste 50% van de subsidiabele kosten.
 
@@ -220,7 +246,7 @@ R: het resterende subsidiebedrag binnen het subsidieplafond na verlening van sub
 
 5. In afwijking van het vierde lid kan de hoogte van de personele kosten worden berekend op basis van de voor het personeel opgenomen uurtarieven in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&bijlage=I&z=2025-11-22&g=2025-11-22).
 
-#### Artikel 9. Aanvraag tot verlening
+##### Artikel 9. Aanvraag tot verlening
 
 1. De aanvraag tot verlening van de subsidie gaat vergezeld van een:
 
@@ -262,17 +288,17 @@ R: het resterende subsidiebedrag binnen het subsidieplafond na verlening van sub
 
 9. De Minister besluit op de aanvraag binnen 13 weken na afloop van de periode waarin de aanvraag kan worden ingediend.
 
-#### Artikel 10. Meldingsplicht
+##### Artikel 10. Meldingsplicht
 
 1. Een melding als bedoeld in [artikel 5.7 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.7) wordt in elk geval onverwijld schriftelijk gedaan indien aannemelijk is geworden dat 15% of meer van het verleende subsidiebedrag niet kan worden besteed.
 
 2. De melding wordt voorzien van een toelichting. Bij de melding worden de relevante stukken overgelegd.
 
-#### Artikel 11. Aanvullende verplichtingen bij beschikking
+##### Artikel 11. Aanvullende verplichtingen bij beschikking
 
 De Minister kan bij de verlening van de subsidie verplichtingen opleggen als bedoeld in [artikel 4:38](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:38) en [4:39 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:39).
 
-#### Artikel 12. Verantwoording
+##### Artikel 12. Verantwoording
 
 1. Een aanvraag tot vaststelling van subsidie wordt ingediend binnen 22 weken na de datum waarop de activiteiten waarvoor subsidie is verleend, uiterlijk moeten zijn verricht op basis van een door de Minister vastgesteld formulier.
 
@@ -280,21 +306,21 @@ De Minister kan bij de verlening van de subsidie verplichtingen opleggen als bed
 
 3. Indien instemming door de werknemersvertegenwoordiging met het activiteitenverslag wegens zwaar moverende redenen niet mogelijk is, kan de Minister in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&artikel=1&z=2025-11-22&g=2025-11-22) besluiten dat ter verantwoording kan worden volstaan met een activiteitenverslag dat met een werknemersvertegenwoordiging is afgestemd.
 
-#### Artikel 13. Steekproef
+##### Artikel 13. Steekproef
 
 De Minister kan een steekproef bij aanvragen tot € 125.000 uitvoeren voorafgaand aan de vaststelling van de subsidie. Hiervoor wordt een door de Minister vastgesteld formulier gebruikt.
 
-#### Artikel 14. Hardheidsclausule
+##### Artikel 14. Hardheidsclausule
 
 De Minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 15. Inwerkingtreding en vervaldatum
+##### Artikel 15. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte in de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 31 december 2027 met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn aangevraagd en verstrekt.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling Strategisch opleiden MSZ.
 

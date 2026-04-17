@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling beleidsregels en subsidieplafond Subsidieprogramma Trade Relations Programma 2026–2028"
+title: "Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingshulp van 26 maart 2025, nr.BZ2514509, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Trade Relations Programma 2026–2028)"
 identifier: "BWBR0050920"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-09-27
-laatste_update: 2025-09-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050920"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-09-27"
+last_updated: "2025-09-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050920"
+soort: "ministeriele-regeling"
+stam_id: "17397993"
+version_id: "30673132"
+internal_id: "C43972941"
+label_id: "17301234"
+dtd_version: "2.0"
+original_entry_into_force: "2025-04-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050920/2025-09-27/0"
+intitule_bron: "Stcrt.2025-11730"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-03-26"
+intitule_published: "2025-04-04"
+intitule_in_force: "2025-04-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-11730"
+original_signed_date: "2025-03-26"
+original_published_date: "2025-04-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-11730"
+entry_into_force_date: "2025-04-05"
+jci_1_3: "jci1.3:c:BWBR0050920&z=2025-09-27&g=2025-09-27"
+jci_1_0: "1.0:c:BWBR0050920&g=2025-09-27"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling beleidsregels en subsidieplafond Subsidieprogramma Trade Relations Programma 2026–2028"
+signed_date: "2025-03-26"
+entry_into_force: "2025-04-05"
 ---
-
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingshulp van 26 maart 2025, nr.BZ2514509, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Trade Relations Programma 2026–2028)
 
 Gelet op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=6) en [7 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=7);
@@ -16,11 +42,11 @@ Gelet op [artikel 7.2 van de Subsidieregeling Ministerie van Buitenlandse Zaken 
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor subsidieverlening op grond van [artikel 7.2 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=7.2) met het oog op subsidiëring van activiteiten gericht op bevordering van internationale handel en innovatiesamenwerking van ondernemingen, gelden voor de periode vanaf inwerkingtreding van dit besluit tot en met 31 december 2028 de als bijlage bij dit besluit gevoegde beleidsregels.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aanvragen voor subsidie in het kader van de eerste openstelling van het Subsidieprogramma Trade Relations Programma 2026–2028 worden ingediend vanaf 2 juni 2025 tot en met 30 september 2025, 15.00 uur Nederlandse tijd.
 
@@ -30,7 +56,7 @@ Voor subsidieverlening op grond van [artikel 7.2 van de Subsidieregeling Ministe
 
 4. Aanvragen voor subsidie in het kader van het Subsidieprogramma Trade Relations Programma 2026–2028 worden ingediend aan de hand van een door de minister beschikbaar gesteld formulier en voorzien van de op het aanvraagformulier gevraagde bescheiden1Zie [www.rvo.nl/trp](http://www.rvo.nl/trp).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor subsidieverlening in het kader van het Subsidieprogramma Trade Relations Programma 2026–2028 geldt voor de periode vanaf de inwerkingtreding van dit besluit tot en met 31 december 2028 voor aanvragen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050920&artikel=2&z=2025-09-27&g=2025-09-27), een subsidieplafond van € 1.000.000.
 
@@ -38,7 +64,7 @@ Voor subsidieverlening op grond van [artikel 7.2 van de Subsidieregeling Ministe
 
 3. Voor subsidieverlening in het kader van het Subsidieprogramma Trade Relations Programma 2026–2028 geldt voor de periode vanaf de inwerkingtreding van dit besluit tot en met 31 december 2028 voor aanvragen als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050920&artikel=2&z=2025-09-27&g=2025-09-27), een subsidieplafond van € 1.000.000.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 januari 2029 met dien verstande dat het besluit van toepassing blijft subsidies die voor die datum zijn verleend.
 

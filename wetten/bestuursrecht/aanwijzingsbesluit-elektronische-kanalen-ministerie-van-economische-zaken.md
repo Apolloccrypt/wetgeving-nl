@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzingsbesluit elektronische kanalen Ministerie van Economische Zaken"
+title: "Besluit van de Minister van Economische Zaken van 9 december 2025, nr. WJZ/ 102861719, tot aanwijzing van elektronische kanalen voor het verzenden van berichten (Aanwijzingsbesluit elektronische kanalen Ministerie van Economische Zaken)"
 identifier: "BWBR0052061"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052061"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052061"
+soort: "ministeriele-regeling"
+stam_id: "17701253"
+version_id: "31237512"
+internal_id: "C44675641"
+label_id: "17600104"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052061/2026-01-01/0"
+intitule_bron: "Stcrt.2025-43557"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-09"
+intitule_published: "2025-12-18"
+intitule_in_force: "2024-11-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-43557"
+original_signed_date: "2025-12-09"
+original_published_date: "2025-12-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-43557"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0052061&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0052061&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Aanwijzingsbesluit elektronische kanalen Ministerie van Economische Zaken"
+signed_date: "2025-12-09"
+entry_into_force: "2026-01-01"
 ---
-
 # Besluit van de Minister van Economische Zaken van 9 december 2025, nr. WJZ/ 102861719, tot aanwijzing van elektronische kanalen voor het verzenden van berichten (Aanwijzingsbesluit elektronische kanalen Ministerie van Economische Zaken)
 
 Gelet op [artikel 2:13, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:13);
@@ -16,7 +42,7 @@ Besluit:
 
 Treedt in werking op de dag van inwerkingtreding van de Wet modernisering elektronisch bestuurlijk verkeer.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Dit besluit verstaat onder:
 
@@ -24,15 +50,15 @@ Dit besluit verstaat onder:
 
 - b. kanaal: een aangewezen wijze van elektronisch verzenden van berichten als bedoeld in [artikel 2:13, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:13).
 
-#### Artikel 2. Aanwijzing elektronische kanalen per proces
+##### Artikel 2. Aanwijzing elektronische kanalen per proces
 
 Als kanalen voor ieder afzonderlijk proces worden aangewezen de kanalen zoals vermeld in de bijlage bij dit besluit.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Dit aanwijzingsbesluit treedt in werking op de dag van inwerkingtreding van de [Wet modernisering elektronisch bestuurlijk verkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0048252).
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Dit besluit wordt aangehaald als: Aanwijzingsbesluit elektronische kanalen Ministerie van Economische Zaken.
 

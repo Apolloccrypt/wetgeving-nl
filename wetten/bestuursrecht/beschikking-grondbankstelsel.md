@@ -1,13 +1,36 @@
 ---
 title: "Beschikking grondbankstelsel"
 identifier: "BWBR0003559"
-categorie: "Bestuursrecht"
-publicatiedatum: 2007-10-21
-laatste_update: 2007-10-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003559"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2007-10-21"
+last_updated: "2007-10-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003559"
+soort: "ministeriele-regeling"
+stam_id: "5740093"
+version_id: "10291562"
+internal_id: "C13922331"
+label_id: "5720634"
+original_entry_into_force: "1983-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003559/2007-10-21/0"
+intitule_bron: "Stcrt.1982-252"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1982-12-24"
+intitule_published: "1982-12-29"
+intitule_in_force: "1982-12-29"
+intitule_status: "goed"
+original_publication: "Stcrt.1982-252"
+original_signed_date: "1982-12-24"
+original_published_date: "1982-12-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1983-01-01"
+jci_1_3: "jci1.3:c:BWBR0003559&z=2007-10-21&g=2007-10-21"
+jci_1_0: "1.0:c:BWBR0003559&g=2007-10-21"
+citeertitel_status: "officieel"
+signed_date: "1982-12-24"
+entry_into_force: "1983-01-01"
 ---
-
 # Beschikking grondbankstelsel
 
 Gelet op de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&artikel=57) en [58 van de Wet agrarisch grondverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&artikel=58) (Stb. 1981, 248) en op [artikel 2 van het Besluit grondbankstelsel](https://wetten.overheid.nl/jci1.3:c:BWBR0003548&artikel=2) (Stb. 1982, 692);
@@ -18,7 +41,7 @@ Besluit:
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze beschikking wordt verstaan onder:
 
@@ -48,7 +71,7 @@ Besluit:
 
 - b. in afwijking van [artikel 1 van de Wet agrarisch grondverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&artikel=1) onder landbouw niet de bosbouw begrepen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Uitgifte als bedoeld in artikel 2 van het besluit kan plaatsvinden aan:
 
@@ -66,7 +89,7 @@ Besluit:
 
 #### Paragraaf 1. Regelen met betrekking tot de ondernemer
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor zover de aanvrager als natuurlijk persoon een bedrijf uitoefent, kan uitgifte slechts plaatsvinden indien hij ten tijde van het indienen van de aanvrage;
 
@@ -80,7 +103,7 @@ Besluit:
 
 3. In de gevallen van bedrijfsvergroting, als bedoeld in artikel 2, onder c, van het besluit, kan, indien de aanvrager de leeftijd van 44 jaar heeft overschreden, in afwijking van het bepaalde in het eerste lid, onder c, uitgifte plaatsvinden, indien de aanvrager een bloed- of aanverwant in de rechte lijn of een pleegkind heeft van 16 jaar of ouder, waarvan aannemelijk wordt gemaakt dat hij de aanvrager zal opvolgen.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien meer natuurlijke personen voor gezamenlijke rekening een bedrijf uitoefenen, kan uitgifte slechts plaatsvinden, indien:
 
@@ -92,7 +115,7 @@ Indien meer natuurlijke personen voor gezamenlijke rekening een bedrijf uitoefen
 
 - 2°. voorziet in de wijze van inbreng van het erfpachtrecht in de samenwerking.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien een rechtspersoon een bedrijf uitoefent, kan uitgifte slechts plaatsvinden indien:
 
@@ -116,19 +139,19 @@ Indien een rechtspersoon een bedrijf uitoefent, kan uitgifte slechts plaatsvinde
 
 #### Paragraaf 2. Regelen met betrekking tot het bedrijf
 
-#### Artikel 6
+##### Artikel 6
 
 De aanvrage dient betrekking te hebben op een bedrijf waarvan de bedrijfsomvang van de sector veehouderij, dan wel van de sector akkerbouw, dan wel van deze sectoren gezamenlijk, in s.b.e. uitgedrukt, ten minste 80% van de totale bedrijfsomvang uitmaakt.
 
-#### Artikel 7
+##### Artikel 7
 
 Ten behoeve van het bedrijf mag gedurende een tijdvak van drie jaren onmiddellijk voorafgaande aan het tijdstip van indiening van de aanvrage geen aanvrage zijn ingediend die tot uitgifte op de voet van deze beschikking heeft geleid.
 
-#### Artikel 8
+##### Artikel 8
 
 De bedrijfsoppervlakte mag gedurende een tijdvak van vijf jaren onmiddellijk voorafgaande aan het tijdstip van indiening van de aanvrage niet zijn verkleind, tenzij verkleining heeft plaatsgevonden door onteigening, minnelijke verkoop ter voorkoming van onteigening, een rechterlijke uitspraak ingevolge [artikel 370, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=370), of [377 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=377), een verdeling als bedoeld in [artikel 3:178 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=178), dan wel onderbedeling in het kader van landinrichting als gevolg van toepassing van de [artikelen 139 tot en met 144 van de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=139), of van [artikel 56 van de Wet inrichting landelijk gebied](https://wetten.overheid.nl/jci1.3:c:BWBR0020748&artikel=56), in het kader van de reconstructie als gevolg van toepassing van [artikel 15 van de Reconstructiewet Midden-Delfland](https://wetten.overheid.nl/jci1.3:c:BWBR0003094&artikel=15) of in het kader van de herinrichting als gevolg van toepassing van [artikel 55 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](https://wetten.overheid.nl/jci1.3:c:BWBR0003143&artikel=55).
 
-#### Artikel 9
+##### Artikel 9
 
 1. Uitgifte vindt plaats, indien de aanvrager aantoont dat:
 
@@ -144,15 +167,15 @@ De bedrijfsoppervlakte mag gedurende een tijdvak van vijf jaren onmiddellijk voo
 
 #### Paragraaf 3. Regelen met betrekking tot de voor uitgifte in aanmerking komende landbouwgrond
 
-#### Artikel 10
+##### Artikel 10
 
 De doelstellingen van het landbouwstructuurbeleid mogen door de uitgifte niet in nadelige zin worden beïnvloed. Van een zodanige beïnvloeding is onder meer sprake, indien: a. de levensvatbaarheid van het bedrijf waarvan de landbouwgrond afkomstig is door de uitgifte vermindert; b. met de uitgifte de verkavelingssituatie van het bedrijf waarop de aanvrage betrekking heeft, niet verantwoord is.
 
-#### Artikel 11
+##### Artikel 11
 
 In afwijking van [artikel 10, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003559&hoofdstuk=II&titeldeel=I&paragraaf=3&artikel=10&z=2007-10-21&g=2007-10-21), zal, voor zover één of meer in de uitgifte betrokken percelen zijn gelegen in Midden-Delfland als bedoeld in [artikel 1 van de Reconstructiewet Midden-Delfland](https://wetten.overheid.nl/jci1.3:c:BWBR0003094&artikel=1), in een deelgebied, genoemd in [artikel 1 van de Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](https://wetten.overheid.nl/jci1.3:c:BWBR0003143&artikel=1), in een gebied ten aanzien waarvan een besluit tot landinrichting als bedoeld in de [hoofdstukken III](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&hoofdstuk=III) en [IV van de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&hoofdstuk=IV) is genomen, of in een gebied ten aanzien waarvan een besluit tot landinrichting als bedoeld in [artikel 17 van de Wet inrichting landelijk gebied](https://wetten.overheid.nl/jci1.3:c:BWBR0020748&artikel=17) is genomen, uitgifte kunnen plaatsvinden, indien blijkens een schriftelijke verklaring inzake de toedeling van de landinrichtingscommissie, respectievelijk van gedeputeerde staten, na de verwezenlijking van het plan van toedeling de verkavelingssituatie van het bedrijf verantwoord zal zijn.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De oppervlakte van de uit te geven landbouwgrond dient ten minste 5 ha te bedragen.
 
@@ -162,7 +185,7 @@ In afwijking van [artikel 10, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 #### Paragraaf 1. Regelen met betrekking tot de uitgifte in geval van bedrijfsopvolging en uitoefening van het voorkeursrecht door de pachter
 
-#### Artikel 13
+##### Artikel 13
 
 1. In de gevallen van opvolging en uitoefening van het voorkeursrecht door de pachter als bedoeld in artikel 2, onder a en b, van het besluit, kan uitgifte slechts plaatsvinden:
 
@@ -174,11 +197,11 @@ In afwijking van [artikel 10, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - d. indien voldaan wordt aan het bepaalde in de artikelen 14 en 15.
 
-#### Artikel 14
+##### Artikel 14
 
 De oppervlakte van de uit te geven landbouwgrond bedraagt ten hoogste 5 ha, tenzij de aanvrager aantoont dat de financieringsstructuur van het bedrijf bij uitgifte van slechts 5 ha ongunstig wordt. De toepassing van het laatste zinsdeel laat het bepaalde in artikel 13, onder c, onderlet.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De bedrijfsoppervlakte dient na uitgifte ten minste te zijn:
 
@@ -212,7 +235,7 @@ De oppervlakte van de uit te geven landbouwgrond bedraagt ten hoogste 5 ha, tenz
 
 #### Paragraaf 2. Regelen met betrekking tot de uitgifte in geval van vergroting van de bedrijfsoppervlakte
 
-#### Artikel 16
+##### Artikel 16
 
 In geval van vergroting van de bedrijfsoppervlakte als bedoeld in artikel 2. onder c, van het besluit, kan uitgifte slechts plaatsvinden, indien:
 
@@ -220,7 +243,7 @@ In geval van vergroting van de bedrijfsoppervlakte als bedoeld in artikel 2. ond
 
 - b. de uit te geven landbouwgrond gelegen is in een beheersgebied als bedoeld in artikel 1 van de Beschikking beheersovereenkomsten 1983.
 
-#### Artikel 17
+##### Artikel 17
 
 Indien de uit te geven landbouwgrond gelegen is in een beheersgebied als bedoeld in artikel 1, onderdeel l, van de Regeling beheersovereenkomsten en natuurontwikkeling, kan de uitgifte slechts plaatsvinden:
 
@@ -228,13 +251,13 @@ Indien de uit te geven landbouwgrond gelegen is in een beheersgebied als bedoeld
 
 - b. indien met betrekking tot de in de uitgifte begrepen gronden een beheersovereenkomst, als bedoeld in als bedoeld in hoofdstuk 3 van de Regeling beheersovereenkomsten en natuurontwikkeling wordt gesloten, indien een begrenzingenplan als bedoeld in hoofdstuk 2 van de Regeling beheersovereenkomsten en natuurontwikkeling, is vastgesteld.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De oppervlakte van de in erfpacht uit te geven landbouwgrond bedraagt ten hoogste 10 ha.
 
 2. Indien de uitgifte van ten hoogste 10 ha zou leiden tot een ongewenste versnippering van de eigendom van een topografisch perceel landbouwgrond, kan uitgifte plaatsvinden tot een oppervlakte van ten hoogste 15 ha.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De som van de oppervlakte van de in erfpacht uit te geven percelen grond en van de bedrijfsoppervlakte op het tijdstip van het indienen van de aanvrage dient te zijn:
 
@@ -268,17 +291,17 @@ Indien de uit te geven landbouwgrond gelegen is in een beheersgebied als bedoeld
 
 ### Hoofdstuk III. De aanvraagprocedure
 
-#### Artikel 20
+##### Artikel 20
 
 1. Om voor uitgifte in aanmerking te komen dient een aanvrage op een volledig ingevuld en ondertekend daartoe strekkend aanvraagformulier bij het hoofd beheer landbouwgronden te worden ingediend.
 
 2. Het aanvraagformulier wordt door de directeur vastgesteld.
 
-#### Artikel 21
+##### Artikel 21
 
 Het hoofd beheer landbouwgronden onderzoekt of er sprake is van een van de gevallen als bedoeld in artikel 2 van het besluit, alsmede of en in hoeverre wordt voldaan aan de in de artikelen 3, eerste lid, onder a en c, 4, onder a, voor zover het betreft het bepaalde in artikel 3, onder a en c, 5, 6, 7, 8, 14, eerste lid, 15, 16, 18 en 19 gestelde voorwaarden.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Indien blijkt dat aan de voorwaarden, als bedoeld in artikel 21, niet wordt voldaan, wijst de inspecteur de aanvrage namens de commissie af.
 
@@ -286,19 +309,19 @@ Het hoofd beheer landbouwgronden onderzoekt of er sprake is van een van de geval
 
 3. De directeur Landelijke Gebieden en Kwaliteitszorg deelt de in het eerste lid bedoelde afwijzing onder vermelding van de redenen schriftelijk namens de commissie mede aan de aanvrager en zendt afschrift van zodanige mededeling aan de commissie en de sub-commissie.
 
-#### Artikel 23
+##### Artikel 23
 
 Het hoofd beheer landbouwgronden bereidt de verdere behandeling van aanvragen, waarop niet afwijzend is beslist, voor en gaat daarbij in ieder geval na of wordt voldaan aan de voorwaarden van deze beschikking om voor een toewijzing van een aanvrage in aanmerking te komen.
 
-#### Artikel 24
+##### Artikel 24
 
 Namens de commissie legt de inspecteur een voorstel voor een beslissing omtrent een aanvrage met het verzoek om advies voor aan de sub-commissie.
 
-#### Artikel 25
+##### Artikel 25
 
 De sub-commissie brengt over de aanvrage een met redenen omkleed advies uit en doet dit aan de directeur toekomen.
 
-#### Artikel 26
+##### Artikel 26
 
 De inspecteur deelt de aanvrager namens de commissie mede dat uitgifte zal kunnen plaatsvinden, indien:
 
@@ -310,7 +333,7 @@ De inspecteur deelt de aanvrager namens de commissie mede dat uitgifte zal kunne
 
 - d. de directeur zich met het voorstel kan verenigen.
 
-#### Artikel 27
+##### Artikel 27
 
 1. In alle gevallen, waarin de mededeling als bedoeld in artikel 26, aanhef, niet kan worden gedaan, wordt de aanvrage door de commissie behandeld.
 
@@ -320,7 +343,7 @@ De inspecteur deelt de aanvrager namens de commissie mede dat uitgifte zal kunne
 
 ### Hoofdstuk IV. De overeenkomst
 
-#### Artikel 28
+##### Artikel 28
 
 1. De uitgifte vindt plaats door het sluiten van een erfpachtovereenkomst met het bureau.
 
@@ -330,17 +353,17 @@ De inspecteur deelt de aanvrager namens de commissie mede dat uitgifte zal kunne
 
 4. In geval van uitgifte ten behoeve van een bedrijf dat door een rechtspersoon wordt uitgeoefend, wordt de erfpachtovereenkomst, tussen het bureau en deze persoon gesloten.
 
-#### Artikel 29
+##### Artikel 29
 
 De in de Beschikking uitgiftevoorwaarden grondbank opgenomen voorwaarden maken deel uit van de in artikel 28 bedoelde erfpachtovereenkomst.
 
 ### Hoofdstuk V. Overgangs- en slotbepalingen
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Deze beschikking kan worden aangehaald als 'Beschikking grondbankstelsel'.
 

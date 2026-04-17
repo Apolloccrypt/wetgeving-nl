@@ -1,13 +1,38 @@
 ---
-title: "Verordening PT Bijzondere heffing uien 2000"
+title: "Verordening van het Productschap Tuinbouw van 25 september 2001, houdende de vaststelling van een bestemmingsheffing ten behoeve van de teelt van uien voor het jaar 2000"
 identifier: "BWBR0023363"
-categorie: "Belastingrecht"
-publicatiedatum: 2008-01-12
-laatste_update: 2008-01-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023363"
+country: "nl"
+rank: "pbo"
+publication_date: "2008-01-12"
+last_updated: "2008-01-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023363"
+soort: "pbo"
+stam_id: "9392793"
+version_id: "15118862"
+internal_id: "C20613121"
+label_id: "9370434"
+dtd_version: "2.0"
+original_entry_into_force: "2008-01-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023363/2008-01-12/0"
+intitule_bron: "Vbbo.2008-3"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-09-25"
+intitule_published: "2008-01-11"
+intitule_in_force: "2008-01-11"
+intitule_status: "goed"
+original_publication: "Vbbo.2008-3"
+original_signed_date: "2001-09-25"
+original_published_date: "2008-01-11"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2008-01-12"
+jci_1_3: "jci1.3:c:BWBR0023363&z=2008-01-12&g=2008-01-12"
+jci_1_0: "1.0:c:BWBR0023363&g=2008-01-12"
+citeertitel_status: "officieel"
+short_title: "Verordening PT Bijzondere heffing uien 2000"
+signed_date: "2001-09-25"
+entry_into_force: "2008-01-12"
 ---
-
 # Verordening van het Productschap Tuinbouw van 25 september 2001, houdende de vaststelling van een bestemmingsheffing ten behoeve van de teelt van uien voor het jaar 2000
 
 op voorstel van de Sectorcommissie Groenten en Fruit;
@@ -18,7 +43,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze verordening worden overgenomen de begripsbepalingen van de artikelen 2 en 3 van de Instellingsverordening Productschap Tuinbouw.
 
@@ -37,7 +62,7 @@ Besluit:
 
 #### § 2. Heffingsplicht
 
-#### Artikel 2
+##### Artikel 2
 
 1. De ondernemer, die in het jaar 2000 een onderneming drijft waarin uien worden geteeld, is voor dat jaar aan het productschap een heffing verschuldigd.
 
@@ -49,11 +74,11 @@ Besluit:
 
 #### § 3. Grondslag en hoogte
 
-#### Artikel 3
+##### Artikel 3
 
 De heffing die is verschuldigd wordt opgelegd naar de grondslag grondgebruik, een en ander overeenkomstig de volgende artikelen.
 
-#### Artikel 4
+##### Artikel 4
 
 De heffing naar de grondslag grondgebruik wordt berekend aan de hand van de oppervlakte van de bij de onderneming behorende cultuurgrond en bedraagt ten hoogste voor:
 
@@ -61,7 +86,7 @@ De heffing naar de grondslag grondgebruik wordt berekend aan de hand van de oppe
 | --- | --- | --- | --- |
 | b. | groep 21 | cultuurgrond, in gebruik voor de teelt in de open grond van zaaiuien: | ƒ 89,00 (40,38 euro) per ha. |
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023363&paragraaf=3&artikel=4&z=2008-01-12&g=2008-01-12) wordt onder de bij de onderneming behorende cultuurgrond mede verstaan cultuurgrond die:
 
@@ -79,11 +104,11 @@ De heffing naar de grondslag grondgebruik wordt berekend aan de hand van de oppe
 
 #### § 4. Oplegging en inning
 
-#### Artikel 6
+##### Artikel 6
 
 Indien een heffingplichtige gegevens, die hem krachtens deze verordening of de Verordening PT Registratie en verstrekking van gegevens 1997 ten behoeve van de onderhavige verordening zijn gevraagd, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan te ramen omvang van de grondslag die op de heffingplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing wordt verhoogd met fl. 90,– (40 euro) in verband met administratiekosten.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De oplegging van de krachtens deze verordening verschuldigde heffing vindt plaats na afloop van het jaar waarover de heffing verschuldigd is en geschiedt door toezending of uitreiking aan de heffingplichtige van een heffingsnota.
 
@@ -97,11 +122,11 @@ Indien een heffingplichtige gegevens, die hem krachtens deze verordening of de V
 
 3. In afwijking van het eerste lid kan de heffingplichtige een voorlopige heffing worden opgelegd tot het bedrag waarop de heffing vermoedelijk zal worden vastgesteld. De voorlopige heffing wordt verrekend met de krachtens deze verordening verschuldigde heffing.
 
-#### Artikel 8
+##### Artikel 8
 
 Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023363&paragraaf=4&artikel=6&z=2008-01-12&g=2008-01-12) niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Betaling geschiedt binnen 30 dagen na dagtekening van de heffingsnota.
 
@@ -113,20 +138,20 @@ Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de
 
 - c. zodra de ondernemer zich metterwoon in het buitenland heeft gevestigd of van het voornemen daartoe blijkt.
 
-#### Artikel 10
+##### Artikel 10
 
 Aan de heffingplichtige, die niet of niet geheel binnen de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0023363&paragraaf=4&artikel=9&z=2008-01-12&g=2008-01-12) bedoelde termijn heeft betaald, kunnen de daaruit voortvloeiende extra kosten van maximaal fl. 50,– (22,50 euro) in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning, bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127).
 
-#### Artikel 11
+##### Artikel 11
 
 De voorzitter is belast met de oplegging en inning van de heffing en de daarmee samenhangende kosten, als bedoeld in de [artikelen 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0023363&paragraaf=4&artikel=6&z=2008-01-12&g=2008-01-12).
 
 #### § 5. Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 Deze verordening treedt in werking op de dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en is van toepassing op het kalenderjaar 2000.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze verordening wordt aangehaald als Verordening PT Bijzondere heffing uien 2000.

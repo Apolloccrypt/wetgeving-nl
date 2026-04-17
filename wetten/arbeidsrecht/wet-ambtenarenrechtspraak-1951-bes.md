@@ -1,18 +1,43 @@
 ---
 title: "Wet ambtenarenrechtspraak 1951 BES"
 identifier: "BWBR0028616"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028616"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028616"
+soort: "wet-BES"
+stam_id: "10898463"
+version_id: "17882962"
+internal_id: "C24853461"
+label_id: "10874794"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028616/2024-01-01/0"
+intitule_bron: "Stb.2010-394"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-23"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-394"
+original_signed_date: "2010-09-23"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-394"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028616&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0028616&g=2024-01-01"
+citeertitel_status: "officieel"
+signed_date: "2010-09-23"
+entry_into_force: "2010-10-10"
 ---
-
 # Wet ambtenarenrechtspraak 1951 BES
 
 ## Titel I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Ambtenaar in de zin van deze wet en de daarop berustende bepalingen is degene die door het bevoegde gezag is aangesteld om in openbare dienst op Bonaire, Sint Eustatius of Saba werkzaam te zijn.
 
@@ -34,7 +59,7 @@ bron: "https://wetten.overheid.nl/BWBR0028616"
 
 - c. **woonplaats:** woonplaats als bedoeld in het Burgerlijk Wetboek BES.
 
-#### Artikel 2
+##### Artikel 2
 
 In deze wet en de daarop berustende bepalingen wordt niet onder ambtenaren verstaan:
 
@@ -44,7 +69,7 @@ In deze wet en de daarop berustende bepalingen wordt niet onder ambtenaren verst
 
 - c. de gezaghebber en de gedeputeerden.
 
-#### Artikel 2a
+##### Artikel 2a
 
 Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -58,13 +83,13 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 - c. de eilandsraad, voor zover de eilandgriffier en de op de griffie werkzame ambtenaren betreft.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Over de beschikkingen, handelingen en weigeringen (om te beschikken of te handelen) ten aanzien van ambtenaren als zodanig, hun nagelaten betrekkingen en rechtverkrijgenden door een administratief orgaan genomen, verricht of uitgesproken, oordeelt bij uitsluiting in eerste aanleg het gerecht in ambtenarenzaken en in hoger beroep de raad van beroep in ambtenarenzaken.
 
 2. Onder «gerecht» verstaan deze wet en de daarop berustende algemene maatregelen van bestuur en beschikkingen, het gerecht in ambtenarenzaken; onder "raad" de raad van beroep in ambtenarenzaken.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Alle voorgeschreven kennisgevingen en oproepingen geschieden schriftelijk.
 
@@ -84,11 +109,11 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 6. Op aanvrage van de rechter in ambtenarenzaken onderscheidenlijk de raad geeft de administratie der posterijen schriftelijk inlichtingen omtrent het tijdstip in het vorig lid bedoeld.
 
-#### Artikel 5
+##### Artikel 5
 
 [vervallen]
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien een administratief orgaan dat een college is, als partij optreedt, wordt het door zijn voorzitter vertegenwoordigd.
 
@@ -100,7 +125,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 #### § 1. Samenstelling
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het rechtsgebied van het gerecht in ambtenarenzaken strekt zich uit over het gehele gebied van de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
@@ -108,19 +133,19 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 3. Het gerecht kan ook elders zitting houden.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het gerecht bestaat uit een lid van het Hof van justitie als rechter in ambtenarenzaken en een ander lid van dat hof als rechter-plaatsvervanger.
 
 2. Als griffier van het gerecht in ambtenarenzaken treedt op de ambtenaar die als griffier van het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba dienst doet, of, voor zoveel nodig, de ambtenaren die deze vervangen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De rechter in ambtenarenzaken en de rechter-plaatsvervanger worden bij koninklijk besluit op gezamenlijke voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Justitie benoemd voor een tijdvak van zes jaren en zijn bij hun aftreden terstond herbenoembaar.
 
 2. Op hun verzoek wordt hun vóór het verstrijken van evengenoemd tijdvak bij koninklijk besluit op gezamenlijke voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Justitie ontslag verleend.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een algemene maatregel van bestuur stelt voor het gerecht voorschriften vast omtrent:
 
@@ -132,11 +157,11 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 #### § 2. Werkzaamheden
 
-#### Artikel 11
+##### Artikel 11
 
 Indien om enige reden de rechter of de plaatsvervanger die het onderzoek op de zitting verricht heeft, niet in staat is te beslissen, wordt de zaak opnieuw op de zitting behandeld.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het is de rechter en de plaatsvervanger verboden:
 
@@ -146,13 +171,13 @@ Indien om enige reden de rechter of de plaatsvervanger die het onderzoek op de z
 
 2. De in het vorige lid onder a. omschreven verbodsbepaling geldt ook voor de dienstdoende griffier.
 
-#### Artikel 13
+##### Artikel 13
 
 De rechter, de griffier of enig ander ambtenaar, die zich voor plaatselijk onderzoek of andere ingevolge deze wet te verrichten werkzaamheid begeeft buiten zijn woonplaats of buiten de plaats waar het gerecht is gevestigd, heeft aanspraak op vergoeding overeenkomstig de bepalingen van het tarief van gerechtskosten en salarissen in burgerlijke zaken.
 
 #### § 3. Wraking, verschoning en uitsluiting
 
-#### Artikel 14
+##### Artikel 14
 
 1. Vóór de aanvang van de behandeling ener zaak ter zitting kan door elke partij elke rechter die over de zaak zit, bij ondertekende akte worden gewraakt:
 
@@ -180,13 +205,13 @@ De rechter, de griffier of enig ander ambtenaar, die zich voor plaatselijk onder
 
 2. In de gevallen in lid 1 genoemd kan elke rechter zich verschonen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Indien de gewraakte rechter de reden van wraking als juist erkent, moet hij zich van de zaak onthouden.
 
 2. Indien hij in de wraking niet berust, vraagt hij zo spoedig mogelijk de beslissing van de raad van beroep, onder overlegging van de desbetreffende akte van wraking, alsmede van zijn schriftelijk antwoord daarop.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De redenen waarom een rechter gewraakt kan worden gelden ook voor de dienstdoende griffier.
 
@@ -196,7 +221,7 @@ De rechter, de griffier of enig ander ambtenaar, die zich voor plaatselijk onder
 
 #### § 1. Samenstelling
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het rechtsgebied van de Raad van beroep strekt zich uit over het gehele gebied van de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
@@ -204,7 +229,7 @@ De rechter, de griffier of enig ander ambtenaar, die zich voor plaatselijk onder
 
 3. Het gerecht kan ook elders zitting houden.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De raad is samengesteld uit de voorzitter van het hof van justitie of het lid van het hof, hetwelk hem als zodanig vervangt, als ambtshalve lid tevens voorzitter en twee leden, benevens drie leden-plaatsvervangers.
 
@@ -212,13 +237,13 @@ De rechter, de griffier of enig ander ambtenaar, die zich voor plaatselijk onder
 
 3. Als griffier van de raad treedt op de griffier of substituut-griffier van het hof van justitie of voor zoveel nodig de ambtenaren die deze vervangen.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De leden en de leden-plaatsvervangers van de raad worden bij koninklijk besluit op gezamenlijke voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Justitie benoemd voor een tijdvak van zes jaren en zijn bij hun aftreden terstond herbenoembaar.
 
 2. Op hun verzoek wordt hun voor het verstrijken van evengenoemd tijdvak bij koninklijk besluit op gezamenlijke voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Justitie ontslag verleend.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Benoembaar tot lid is iedere Nederlander, die woonplaats heeft in het Caribische deel van het Koninkrijk.
 
@@ -232,11 +257,11 @@ De rechter, de griffier of enig ander ambtenaar, die zich voor plaatselijk onder
 
 3. Indien ten aanzien van een lid of plaatsvervangend lid zich na zijn benoeming een van de gevallen genoemd in lid 2 van dit artikel voordoet, houdt hij op lid of plaatsvervangend lid te zijn.
 
-#### Artikel 21
+##### Artikel 21
 
 Ingeval van gelijktijdige benoeming geldt als oudst benoemde het lid, wiens naam in de benoemingsbeschikking het eerst is vermeld en zo vervolgens. Heeft de benoeming plaats gehad bij verschillende beschikkingen van gelijke datum, dan wordt de laagst genummerde beschikking geacht het eerst te zijn genomen en zo vervolgens.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Een algemene maatregel van bestuur, stelt voor de raad voorschriften vast omtrent:
 
@@ -250,7 +275,7 @@ Ingeval van gelijktijdige benoeming geldt als oudst benoemde het lid, wiens naam
 
 2. Wanneer de zaak, waaromtrent bericht en advies zijn gevraagd, aan de beslissing van de raad is onderworpen, of het te voorzien is, dat zulks zal geschieden, is het geven van eenvoudig bericht voldoende.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De benoemde leden van de raad kunnen door het hof van justitie bij met redenen omklede beschikking, worden ontslagen:
 
@@ -268,11 +293,11 @@ Ingeval van gelijktijdige benoeming geldt als oudst benoemde het lid, wiens naam
 
 - c. indien zij een functie aanvaarden als bedoeld in het tweede lid van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=II&hoofdstuk=Tweede&paragraaf=1&artikel=20&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 24
+##### Artikel 24
 
 Alvorens een lid van de raad te ontslaan, stelt het hof van justitie dit lid in de gelegenheid daaromtrent zijn gevoelen kenbaar te maken.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De benoemde leden van de raad worden door het hof van justitie bij met redenen omklede beschikking in de uitoefening van hun functie geschorst, ingeval zij:
 
@@ -286,17 +311,17 @@ Alvorens een lid van de raad te ontslaan, stelt het hof van justitie dit lid in 
 
 2. Het hof van justitie heft, op dezelfde wijze, de schorsing op, nadat de reden is vervallen die daartoe aanleiding gaf.
 
-#### Artikel 26
+##### Artikel 26
 
 Van elk ontslag, elke schorsing of opheffing van schorsing doet het hof van justitie onverwijld mededeling aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, aan Onze Minister van Justitie en aan de raad.
 
 #### § 2. Werkzaamheden
 
-#### Artikel 27
+##### Artikel 27
 
 De voorzitter van de raad regelt en verdeelt de werkzaamheden onder de leden.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De raad houdt zitting, beraadslaagt en beslist steeds met drie leden.
 
@@ -310,7 +335,7 @@ De voorzitter van de raad regelt en verdeelt de werkzaamheden onder de leden.
 
 6. Van dit alles wordt in het proces-verbaal der zitting melding gemaakt.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Het is de voorzitter en leden van de raad verboden:
 
@@ -322,21 +347,21 @@ De voorzitter van de raad regelt en verdeelt de werkzaamheden onder de leden.
 
 2. De onder a en b, van lid 1 omschreven verbodsbepalingen gelden ook voor de dienstdoende griffier.
 
-#### Artikel 30
+##### Artikel 30
 
 Op bij algemene maatregel van bestuur te bepalen voet kan aan de benoemde leden van de raad voor het bijwonen van bijeenkomsten van de raad een presentiegeld alsmede een vergoeding voor reis- en verblijfskosten worden toegekend.
 
-#### Artikel 31
+##### Artikel 31
 
 [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=II&hoofdstuk=Eerste&paragraaf=2&artikel=13&z=2024-01-01&g=2024-01-01) vindt ten deze overeenkomstige toepassing.
 
 #### § 3. Wraking, verschoning en uitsluiting
 
-#### Artikel 32
+##### Artikel 32
 
 [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=II&hoofdstuk=Eerste&paragraaf=3&artikel=14&z=2024-01-01&g=2024-01-01) vindt ten deze overeenkomstige toepassing.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Indien de betrokkene de reden van wraking als juist erkent moet hij zich van de zaak onthouden.
 
@@ -344,7 +369,7 @@ Op bij algemene maatregel van bestuur te bepalen voet kan aan de benoemde leden 
 
 3. Het onderzoek der zaak wordt geschorst, totdat over de voorgestelde wraking is beslist, en, ingeval deze is toegestaan, totdat degene, te wiens aanzien zulks geschiedde, is vervangen.
 
-#### Artikel 34
+##### Artikel 34
 
 [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=II&hoofdstuk=Eerste&paragraaf=3&artikel=16&z=2024-01-01&g=2024-01-01) vindt ten deze overeenkomstige toepassing.
 
@@ -352,7 +377,7 @@ Op bij algemene maatregel van bestuur te bepalen voet kan aan de benoemde leden 
 
 ### Hoofdstuk Eerste. Gewoon geding in eerste aanleg
 
-#### Artikel 35
+##### Artikel 35
 
 1. Een bezwaarschrift kan worden ingediend ter zake dat beschikkingen, handelingen of weigeringen (om te beschikken of te handelen), ten aanzien van een ambtenaar als zodanig, zijn nagelaten betrekkingen of rechtverkrijgende door een administratief orgaan genomen, verricht of uitgesproken, feitelijk of rechtens met de toepasselijke algemeen verbindende voorschriften strijden of dat bij het nemen, verrichten of uitspreken daarvan het administratief orgaan van zijn bevoegdheid kennelijk een ander gebruik heeft gemaakt dan tot de doeleinden, waarvoor die bevoegdheid is gegeven.
 
@@ -364,7 +389,7 @@ Op bij algemene maatregel van bestuur te bepalen voet kan aan de benoemde leden 
 
 5. Indien tegen beschikkingen, handelingen of weigeringen administratief beroep bestaat kan het in het eerste lid bedoelde bezwaarschrift alleen worden gericht tegen de in beroep genomen beslissingen.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Bevoegd tot het indienen van een bezwaarschrift is de ambtenaar, nagelaten betrekking of rechtverkrijgende, die door de aangevallen beschikkingen of de aangevallen handeling of weigering rechtstreeks in zijn belang wordt getroffen.
 
@@ -374,23 +399,23 @@ klager, degene, die het bezwaarschrift heeft ingediend;
 
 verweerder, het orgaan, tegen welks beschikking, handeling of weigering het bezwaar is gericht.
 
-#### Artikel 37
+##### Artikel 37
 
 Gehuwde vrouwen oefenen geheel zelfstandig haar rechten uit.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Natuurlijke personen, onbekwaam om in rechte te staan, worden vertegenwoordigd door hun vertegenwoordigers naar burgerlijk recht.
 
 2. Voor partijen, die niet zelf in rechte kunnen staan en zonder wettelijke vertegenwoordiger zijn, kan ambtshalve of op haar verzoek door de rechter in ambtenarenzaken een voorlopige vertegenwoordiger worden benoemd, die voor haar in rechte zal optreden totdat de wettelijke vertegenwoordiger opkomt. Hetzelfde kan geschieden, indien de verblijfplaats van de wettelijke vertegenwoordiger onbekend of van de zetel van het gerecht verwijderd is.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Partijen of haar vertegenwoordiger procederen in persoon of bij gemachtigde.
 
 2. Partijen of haar vertegenwoordigers kunnen zich bij het voeren van het geding bedienen van de bijstand van een raadsman.
 
-#### Artikel 40
+##### Artikel 40
 
 1. Als gemachtigden of raadslieden kunnen alleen optreden in het Caribische deel van het Koninkrijk woonplaats hebbende personen.
 
@@ -402,7 +427,7 @@ Gehuwde vrouwen oefenen geheel zelfstandig haar rechten uit.
 
 Tegen de weigering staat geen voorziening open.
 
-#### Artikel 41
+##### Artikel 41
 
 1. Het bezwaarschrift wordt ingediend binnen dertig dagen na de dag, waarop de aangevallen beschikkingen of de aangevallen handeling of weigering genomen, verricht of uitgesproken is.
 
@@ -412,13 +437,13 @@ Tegen de weigering staat geen voorziening open.
 
 4. Voor zover een handeling strekt ter uitvoering van een beschikking, is het tegen de handeling gerichte bezwaar niet ontvankelijk, indien niet tijdig tegen de beschikking bezwaar is ingebracht.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Een tegen een deel van de beschikking, handeling of weigering ingebracht bezwaar wordt geacht tegen de gehele beschikking, de gehele handeling of weigering gericht te zijn.
 
 2. Het bezwaar heeft op zichzelf geen schorsende kracht.
 
-#### Artikel 43
+##### Artikel 43
 
 1. Het bezwaar wordt ingebracht door het inzenden van een bezwaarschrift aan het gerecht.
 
@@ -426,7 +451,7 @@ Tegen de weigering staat geen voorziening open.
 
 #### § 1. Aanvang van het geding
 
-#### Artikel 44
+##### Artikel 44
 
 1. Het bezwaarschrift houdt in:
 
@@ -444,29 +469,29 @@ Tegen de weigering staat geen voorziening open.
 
 4. De in te dienen bezwaarschriften worden opgemaakt overeenkomstig het model vastgesteld bij algemene maatregel van bestuur.
 
-#### Artikel 45
+##### Artikel 45
 
 De rechter wijst de inzender van een bezwaarschrift, die de voorschriften van de [artikelen 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&artikel=43&z=2024-01-01&g=2024-01-01), of [44](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=44&z=2024-01-01&g=2024-01-01) niet in acht genomen heeft, op het gepleegde verzuim en nodigt hem uit, dit binnen een bepaalde termijn te herstellen.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Degene, die niet binnen de door de rechter ingevolge het voorgaande artikel bepaalde termijn het door hem gepleegde verzuim heeft hersteld, kan, zonder dat een nader onderzoek vereist is, in zijn bezwaar niet-ontvankelijk verklaard worden.
 
 2. De beschikking wordt in het openbaar uitgesproken.
 
-#### Artikel 47
+##### Artikel 47
 
 Indien het gepleegde verzuim is hersteld of de niet-ontvankelijkheid niet wordt uitgesproken, doet de rechter een afschrift van het bezwaarschrift aan de verweerder verzenden.
 
-#### Artikel 48
+##### Artikel 48
 
 Indien meer partijen binnen de daarvoor bepaalde termijn bezwaar ingebracht hebben, worden haar bezwaren tegelijk behandeld en beslist.
 
-#### Artikel 49
+##### Artikel 49
 
 Wordt van een bezwaarschrift niet een genoegzaam aantal afschriften ingezonden ter voldoening aan het voorschrift van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=47&z=2024-01-01&g=2024-01-01), dan worden de ontbrekende afschriften kosteloos door de griffier van het gerecht vervaardigd.
 
-#### Artikel 50
+##### Artikel 50
 
 1. De rechter doet alle op het geding betrekking hebbende stukken of gewaarmerkte afschriften daarvan nederleggen ter kosteloze inzage van partijen, haar vertegenwoordigers, gemachtigden en raadslieden.
 
@@ -476,7 +501,7 @@ Wordt van een bezwaarschrift niet een genoegzaam aantal afschriften ingezonden t
 
 4. Voor zover nodig neemt de rechter maatregelen ter verzekering van de geheimhouding.
 
-#### Artikel 51
+##### Artikel 51
 
 1. Verweerders kunnen naar aanleiding van ieder haar toegezonden bezwaarschrift binnen drie weken na de dagtekening van het bewijs van verzending bij de rechter een contramemorie indienen.
 
@@ -490,7 +515,7 @@ Wordt van een bezwaarschrift niet een genoegzaam aantal afschriften ingezonden t
 
 6. Is niet een voldoend aantal afschriften ontvangen, dan worden de ontbrekende afschriften kosteloos door de griffier van het gerecht vervaardigd.
 
-#### Artikel 52
+##### Artikel 52
 
 1. Het administratief orgaan dat als verweerder optreedt, zendt tegelijk met de contra-memorie in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=51&z=2024-01-01&g=2024-01-01) bedoeld, althans uiterlijk binnen de termijn gesteld in het eerste lid van het vorige artikel, alle zich onder zijn berusting bevindende tot de zaak betrekkelijke stukken in ter griffie van het gerecht, met uitzondering alleen van de zodanige, tegen welker inzending het openbaar belang zich bepaaldelijk verzet. Ingezonden worden hetzij de oorspronkelijke stukken, hetzij gewaarmerkt afschriften. Op verzoek van de verweerder kan de rechter de in de eerste volzin vermelde termijn verlengen.
 
@@ -498,7 +523,7 @@ Wordt van een bezwaarschrift niet een genoegzaam aantal afschriften ingezonden t
 
 3. Ambtenaren als partij in een geding of in welke hoedanigheid ook ter zitting verschijnende of optredende alsmede het administratief orgaan of diens vertegenwoordiger, mogen mondeling noch schriftelijk mededeling doen uit of omtrent stukken, die ingevolge het bepaalde in het eerste lid niet mogen worden overgelegd.
 
-#### Artikel 53
+##### Artikel 53
 
 1. De rechter is bevoegd aan het administratief orgaan hetwelk partij in het geding is en aan andere administratieve organen te vragen binnen een door hem te bepalen termijn schriftelijk inlichtingen te verschaffen en onder hen berustende of te hunner beschikking staande stukken, voorzover deze laatste niet reeds onder [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01) vallen, en voorwerpen in te zenden. De stukken kunnen in gewaarmerkt afschrift worden ingezonden.
 
@@ -506,13 +531,13 @@ Wordt van een bezwaarschrift niet een genoegzaam aantal afschriften ingezonden t
 
 3. Het tweede en het derde lid van [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01) vinden overeenkomstige toepassing.
 
-#### Artikel 54
+##### Artikel 54
 
 1. De rechter is bevoegd, voordat de behandeling ter openbare zitting aangevangen is, aan een of meer deskundigen op te dragen binnen een door hem te bepalen termijn schriftelijk van advies en verslag te dienen. Benoeming en beëdiging geschieden in raadkamer in tegenwoordigheid van de griffier. Van een en ander geeft de griffier aan partijen kennis.
 
 2. Met het deskundig advies en verslag wordt gehandeld als ten aanzien van andere stukken is voorgeschreven.
 
-#### Artikel 55
+##### Artikel 55
 
 1. Door de rechter worden dag, uur en plaats voor de behandeling ter openbare zitting vastgesteld en door de griffier bij aangetekende dienstbrief ter kennis van partijen gebracht.
 
@@ -520,7 +545,7 @@ Wordt van een bezwaarschrift niet een genoegzaam aantal afschriften ingezonden t
 
 #### § 2. Getuigen en deskundigen
 
-#### Artikel 56
+##### Artikel 56
 
 1. De rechter doet ambtshalve de personen wier verhoor wenselijk wordt geacht, als ook de personen die voor een der partijen zijn opgegeven, bij aangetekende dienstbrief als getuigen of deskundigen oproepen om te verschijnen ten dage, ter ure, ter plaatse en tot het einde daarbij vermeld.
 
@@ -528,7 +553,7 @@ Wordt van een bezwaarschrift niet een genoegzaam aantal afschriften ingezonden t
 
 3. Indien een getuige buitenlands woonachtig is of verblijf houdt, is de rechter bevoegd om aan een door hem aangewezen autoriteit van het land zijner woon- of verblijfplaats of aan de Nederlandse consulaire ambtenaar, tot wiens ressort de woon- of verblijfplaats van die getuige behoort te verzoeken het verhoor te houden. Het proces-verbaal van dit getuigenverhoor heeft gelijke kracht als dat van de rechter in een openbaar lichaam. Bij een verzoek als in de vorige volzin bedoeld, zal de rechter voorts de buitenlandse autoriteit, dan wel de Nederlandse consulaire ambtenaar verzoeken om aan partijen tijdig bij aangetekende brief kennis te geven van de dag, uur en plaats, waarop het verhoor zal worden gehouden, en tevens het tijdstip vaststellen, waarop de zaak weder ter zitting zal worden behandeld. Een verzoek als in dit lid bedoeld mag ook dadelijk worden uitgelokt zonder voorafgaande oproeping van de getuige.
 
-#### Artikel 57
+##### Artikel 57
 
 1. Partijen kunnen getuigen en deskundigen medebrengen ter zitting of bij deurwaarders-exploit oproepen om aldaar te verschijnen.
 
@@ -536,13 +561,13 @@ Wordt van een bezwaarschrift niet een genoegzaam aantal afschriften ingezonden t
 
 3. Deurwaarders hebben voor de werkzaamheden, ingevolge de bepalingen van het eerste lid door hen verrichte, aanspraak op beloning ten laste van de partij welke hen in het werk heeft gesteld, overeenkomstig de bepalingen van het tarief van gerechtskosten en salarissen in burgerlijke zaken.
 
-#### Artikel 58
+##### Artikel 58
 
 1. Ieder die in de loop van het geding, ingevolge de voorschriften van deze wet, ambtshalve of door een partij schriftelijk als getuige of deskundige is opgeroepen, is verplicht aan die oproeping gevolg te geven.
 
 2. Getuigen en deskundigen zijn verplicht in de gevallen bij deze wet bepaald, de eed of belofte te doen en getuigenis af te leggen of hun diensten als deskundigen te verlenen, een en ander behoudens geldige redenen van verschoning, overeenkomstig de bepalingen van het.[Wetboek van strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681).
 
-#### Artikel 59
+##### Artikel 59
 
 1. Getuigen en deskundigen die ingevolge de voorschriften van deze wet ambtshalve zijn opgeroepen of ambtshalve met een opdracht zijn belast, ontvangen van rijkswege vergoeding overeenkomstig de bepalingen van het tarief van gerechtskosten en salarissen in burgerlijke zaken.
 
@@ -550,13 +575,13 @@ Wordt van een bezwaarschrift niet een genoegzaam aantal afschriften ingezonden t
 
 3. Indien de in het eerste en tweede lid van dit artikel bedoelde personen tengevolge van ziekte of lichaamsgebreken in de noodzaak verkeren zich door een geleider te doen vergezellen of indien die personen de leeftijd van vijftien jaren nog niet hebben bereikt, is het in het eerste en tweede lid van dit artikel bepaalde op hun geleiders van overeenkomstige toepassing. Degene die met de begroting is belast, beoordeelt of het geleide noodzakelijk was.
 
-#### Artikel 60
+##### Artikel 60
 
 1. De rechter begroot de ingevolge [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=2&artikel=59&z=2024-01-01&g=2024-01-01) verschuldigde vergoeding volgens de bepalingen van het tarief van gerechtskosten en salarissen in burgerlijke zaken.
 
 2. De begroting is op de minuut uitvoerbaar overeenkomstig de bepalingen van het [Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496).
 
-#### Artikel 61
+##### Artikel 61
 
 1. Bij de uitspraak beveelt de rechter, dat aan de partij, daarbij geheel of gedeeltelijk in het gelijk gesteld, de kosten gemaakt tot dagvaarding en schadeloosstelling van getuigen of deskundigen of tot het bijbrengen van enig schriftelijk advies van deskundigen, van rijkswege geheel of gedeeltelijk zullen worden vergoed.
 
@@ -568,7 +593,7 @@ Wordt van een bezwaarschrift niet een genoegzaam aantal afschriften ingezonden t
 
 #### § 3. Openbare behandeling
 
-#### Artikel 62
+##### Artikel 62
 
 1. De zittingen zijn openbaar.
 
@@ -580,7 +605,7 @@ Wordt van een bezwaarschrift niet een genoegzaam aantal afschriften ingezonden t
 
 Op het verzoek wordt onmiddellijk beslist.
 
-#### Artikel 63
+##### Artikel 63
 
 1. De zitting wordt door de rechter geopend, geleid en gesloten.
 
@@ -588,11 +613,11 @@ Op het verzoek wordt onmiddellijk beslist.
 
 3. Wordt op een zitting de stilte of orde verstoord of worden tekenen van goed- of afkeuring gegeven, dan kan de schuldige op last van de rechter worden verwijderd en, zo nodig, op diens last tot na afloop in bewaring worden gehouden.
 
-#### Artikel 64
+##### Artikel 64
 
 Alle ter zitting voorkomende geschillen, betreffende de wijze van behandeling der zaak aldaar, worden door de rechter beslist.
 
-#### Artikel 65
+##### Artikel 65
 
 1. Alle in de loop van het onderzoek op de zitting genomen beslissingen worden in het openbaar door de rechter uitgesproken.
 
@@ -600,7 +625,7 @@ Alle ter zitting voorkomende geschillen, betreffende de wijze van behandeling de
 
 3. Een uitgesproken beslissing kan niet meer gewijzigd worden.
 
-#### Artikel 66
+##### Artikel 66
 
 1. De griffier is steeds op de zitting aanwezig.
 
@@ -608,17 +633,17 @@ Alle ter zitting voorkomende geschillen, betreffende de wijze van behandeling de
 
 3. Verklaringen en vergoedingen van een partij worden in het proces-verbaal vermeld.
 
-#### Artikel 67
+##### Artikel 67
 
 Partijen en vertegenwoordigers kunnen zich, behoudens in het geval voorzien in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=3&artikel=76&z=2024-01-01&g=2024-01-01), door een raadsman doen vergezellen, waar zij in het geding optreden.
 
-#### Artikel 68
+##### Artikel 68
 
 1. De rechter doet het onderzoek een aanvang nemen door de partijen, haar vertegenwoordigers, gemachtigden en raadslieden af te vragen hun namen, voornamen, beroepen en woonplaatsen. De verschenen partijen, vertegenwoordigers en gemachtigden worden door hem ondervraagd.
 
 2. Het onderzoek wordt onafgebroken voortgezet behoudens de gevallen waarin de wet onderbreking toelaat.
 
-#### Artikel 69
+##### Artikel 69
 
 1. De getuigen en deskundigen zullen zich zonder verlof van de rechter niet van een schriftelijk opstel mogen bedienden.
 
@@ -632,11 +657,11 @@ Partijen en vertegenwoordigers kunnen zich, behoudens in het geval voorzien in [
 
 - b. zij, die wegens ziekelijke storing der verstandelijke vermogens onder curatele of op rechterlijke machtiging in bewaring zijn gesteld, al hebben zij bij tussenpozen het gebruik dier vermogens.
 
-#### Artikel 70
+##### Artikel 70
 
 Ambtshalve of op verzoek van een der partijen kan de rechter bevelen, dat de verklaring van een getuige, deskundige of partij in haar geheel in schrift zal worden gesteld en aan het proces-verbaal der zitting zal worden gehecht. Aan zodanig bevel wordt terstond gevolg gegeven, waarna het in schrift gestelde, met de aangebrachte wijzigingen en aanvullingen, aan de getuige, deskundige of partij wordt voorgelezen en door deze met de rechter en de griffier wordt ondertekend. Heeft de ondertekening niet plaats, dan wordt de reden daarvan vermeld.
 
-#### Artikel 71
+##### Artikel 71
 
 1. Getuigen en deskundigen kunnen door de rechter en, door tussenkomst van de rechter, door partijen worden ondervraagd.
 
@@ -650,17 +675,17 @@ Ambtshalve of op verzoek van een der partijen kan de rechter bevelen, dat de ver
 
 6. De rechter kan bevelen, dat getuigen en deskundigen, die, hoewel wettelijk opgeroepen, niet zijn verschenen, door de openbare macht ter zitting worden gebracht om aan hun verplichting te voldoen.
 
-#### Artikel 72
+##### Artikel 72
 
 1. De partijen kunnen elkander door tussenkomst van de rechter vragen stellen. Zij kunnen door de rechter worden ondervraagd.
 
 2. Vragen, door de rechter op verzoek van een der partijen of ambtshalve gewraakt, hetzij als niet terzake dienende, hetzij om andere te vermelden redenen, worden niet gedaan.
 
-#### Artikel 73
+##### Artikel 73
 
 Aan ieder der partijen wordt op haar verzoek door de rechter het woord verleend voor het uitoefenen der haar toegekende bevoegdheden.
 
-#### Artikel 74
+##### Artikel 74
 
 1. De rechter kan bevelen dat een partij, een vertegenwoordiger of, voor wat een college betreft, een of meer met name te noemen leden daarvan, zal of zullen worden opgeroepen om op een bepaalde zitting in persoon te verschijnen tot het geven van inlichtingen. Geldt dit bevel een natuurlijk persoon, onbekwaam om in rechte te staan, dan houdt het tevens in, hetzij dat deze onbekwame in persoon of bij zijn vertegenwoordiger, hetzij dat beiden zullen verschijnen.
 
@@ -668,27 +693,27 @@ Aan ieder der partijen wordt op haar verzoek door de rechter het woord verleend 
 
 3. De opgeroepenen kunnen ook te zamen worden gehoord.
 
-#### Artikel 75
+##### Artikel 75
 
 1. Indien zonder wettige verhindering een ingevolge het vorig artikel opgeroepen persoon niet verschijnt of, verschenen zijnde, weigert te antwoorden, staat het de rechter vrij de gevolgtrekking te maken welke hem geraden voorkomt.
 
 2. Het tweede en het derde lid van [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01) vinden overeenkomstige toepassing.
 
-#### Artikel 76
+##### Artikel 76
 
 De rechter kan, onder opgave van redenen, bij de ondervraging of het verhoor van een bepaalde persoon de tegenwoordigheid verbieden van gemachtigden, raadslieden of anderen, wier aanwezigheid hem ongewenst voorkomt.
 
-#### Artikel 77
+##### Artikel 77
 
 De rechter kan ambtshalve of op verzoek van een der partijen deskundigen met een werkzaamheid belasten.
 
-#### Artikel 78
+##### Artikel 78
 
 1. De rechter kan ambtshalve of op verzoek van een der partijen het onderzoek schorsen tot het bij besluit tot schorsing vermelde of tot een nader door hem vast te stellen tijdstip, in het een of andere geval voor een termijn drie maanden niet te boven gaande.
 
 2. Indien het onderzoek is geschorst tot een nader door de rechter vast stellen tijdstip, doet de griffier zodra mogelijk mededeling van dat tijdstip aan de partijen.
 
-#### Artikel 79
+##### Artikel 79
 
 1. Voordat de behandeling der zaak op de zitting wordt gesloten heeft ieder der partijen het recht het woord te voeren. De rechter kan evenwel de pleidooien doen eindigen, wanneer naar zijn oordeel de zaak voldoende is toegelicht.
 
@@ -696,7 +721,7 @@ De rechter kan ambtshalve of op verzoek van een der partijen deskundigen met een
 
 #### § 4. Afstand van bezwaar; schorsing van het geding; voeging van zaken en splitsing
 
-#### Artikel 80
+##### Artikel 80
 
 1. De partij die bezwaar inbracht, kan bij schriftelijk ondertekende kennisgeving aan de rechter mededelen, dat het bezwaar wordt ingetrokken. Het derde lid van [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=44&z=2024-01-01&g=2024-01-01) is op de ondertekening van de kennisgeving van overeenkomstige toepassing; niet ondertekening maakt de kennisgeving nietig.
 
@@ -706,17 +731,17 @@ De rechter kan ambtshalve of op verzoek van een der partijen deskundigen met een
 
 4. Bij het overlijden van de klager kunnen de gezamenlijke erfgenamen een gemachtigde aanwijzen.
 
-#### Artikel 81
+##### Artikel 81
 
 De rechter is bevoegd samenhangende zaken te voegen en gevoegde zaken te splitsen.
 
 #### § 5. Raadkamer
 
-#### Artikel 82
+##### Artikel 82
 
 De rechter beslist in raadkamer en grondt de beslissing uitsluitend op hetgeen op de zitting heeft plaats gehad en op die stukken, ten aanzien waarvan de voorschriften van de [artikelen 50, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=50&z=2024-01-01&g=2024-01-01) en [55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=55&z=2024-01-01&g=2024-01-01), zijn toegepast.
 
-#### Artikel 83
+##### Artikel 83
 
 1. Blijkt in raadkamer, dat het onderzoek niet volledig is geweest, dan kan de rechter bij met redenen omkleed bevel gelasten, dat op een daarbij aangewezen of nader door hem vast te stellen zitting het onderzoek wordt hervat.
 
@@ -728,7 +753,7 @@ De rechter beslist in raadkamer en grondt de beslissing uitsluitend op hetgeen o
 
 #### § 6. Uitspraak
 
-#### Artikel 84
+##### Artikel 84
 
 1. De uitspraak van de rechter betreft de beschikkingen, handelingen of weigeringen(om te beschikken of te handelen), door de vorderingen der partijen aan zijn oordeel onderworpen.
 
@@ -736,11 +761,11 @@ De rechter beslist in raadkamer en grondt de beslissing uitsluitend op hetgeen o
 
 3. Indien de rechter of de plaatsvervanger, die over de zaak geoordeeld heeft, tot de uitspraak op de zitting buiten staat is, geschiedt zij in het eerste geval door de plaatsvervanger en in het tweede geval door de rechter. Hiervan wordt in de uitspraak melding gemaakt.
 
-#### Artikel 85
+##### Artikel 85
 
 Bij de uitspraak kan de aangevallen beschikking gewijzigd worden, ook ten nadelen van degene die daartegen bezwaar inbracht.
 
-#### Artikel 86
+##### Artikel 86
 
 1. De rechter kan enkel de aangevallen beschikkingen, handelingen en weigeringen nietig verklaren en, voor zoveel nodig, bepalen, dat het administratief orgaan zal doen of beschikken hetgeen het ingevolge wettelijke regeling doen of beschikken moet.
 
@@ -748,11 +773,11 @@ Bij de uitspraak kan de aangevallen beschikking gewijzigd worden, ook ten nadele
 
 3. De rechter kan bovendien het orgaan welks handeling vernietigd wordt, tot vergoeding aan de ambtenaar veroordelen, indien er daartoe termen zijn en het bezwaarschrift een daartoe strekkende vordering inhoudt.
 
-#### Artikel 87
+##### Artikel 87
 
 Op redenen van algemeen belang kan de rechter in zijn uitspraak hetzij bepalen, dat de nietigverklaring en de veroordeling eerst zullen werken van een bij de uitspraak bepaalde dag, hetzij de nietigheid voor gedekt verklaren. In die gevallen kan de rechter het lichaam, welks beschikking, handeling of weigering nietig worden geacht, eveneens tot vergoeding aan de ambtenaar veroordelen.
 
-#### Artikel 88
+##### Artikel 88
 
 1. De rechter stelt het bedrag der schadevergoeding, in de voorgaande artikelen bedoeld, bij de uitspraak vast.
 
@@ -760,7 +785,7 @@ Op redenen van algemeen belang kan de rechter in zijn uitspraak hetzij bepalen, 
 
 3. Hij geeft ook, zodra de uitspraak in kracht van gewijsde is gegaan, een bevelschrift van tenuitvoerlegging af voor het bedrag, overeenkomstig [artikel 86, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=6&artikel=86&z=2024-01-01&g=2024-01-01), vastgesteld.
 
-#### Artikel 89
+##### Artikel 89
 
 De uitspraken zijn gedagtekend en behelzen:
 
@@ -772,11 +797,11 @@ De uitspraken zijn gedagtekend en behelzen:
 
 - d. de naam van de rechter die over de zaak heeft gezeten.
 
-#### Artikel 90
+##### Artikel 90
 
 De uitspraak wordt door de rechter die over de zaak geoordeeld heeft en de griffier ondertekend. Bij verhindering van een van hen wordt de reden daarvan in de uitspraak vermeld.
 
-#### Artikel 91
+##### Artikel 91
 
 1. In geen geval mag de uitspraak later dan drie weken na het sluiten van het onderzoek plaats hebben.
 
@@ -786,13 +811,13 @@ De uitspraak wordt door de rechter die over de zaak geoordeeld heeft en de griff
 
 #### § 7. Afschrift en teruggave van stukken
 
-#### Artikel 92
+##### Artikel 92
 
 1. De griffier zendt aan partijen binnen drie dagen na de uitspraak een afschrift daarvan.
 
 2. Partijen kunnen op haar kosten verdere afschriften van de uitspraak bekomen.
 
-#### Artikel 93
+##### Artikel 93
 
 Zodra de uitspraak in kracht van gewijsde is gegaan, geeft de griffier de bescheiden van het geding, die zich onder zijn berusting bevinden, terug aan de rechthebbenden.
 
@@ -800,7 +825,7 @@ Zodra de uitspraak in kracht van gewijsde is gegaan, geeft de griffier de besche
 
 #### § 1. Beslissing bij voorraad
 
-#### Artikel 94
+##### Artikel 94
 
 1. In alle gevallen, waarin een bezwaarschrift op grond van deze wet kan worden ingediend, doch waarin, ter voorkoming van nadeel voor de ambtenaar, een onverwijlde voorziening wenselijk is, kan deze bij een met redenen omkleed verzoekschrift aan het gerecht in ambtenarenzaken een beslissing bij voorraad vragen. Met inachtneming van de eisen van het openbaar belang doet de rechter zo spoedig mogelijk uitspraak.
 
@@ -814,7 +839,7 @@ Zodra de uitspraak in kracht van gewijsde is gegaan, geeft de griffier de besche
 
 #### § 2. Bezwaar vóór disciplinaire strafoplegging
 
-#### Artikel 95
+##### Artikel 95
 
 1. Het bevoegd gezag dat tot strafoplegging wenst over te gaan, kan van zijn voornemen aan betrokkene kennis geven. De kennisgeving vermeldt de disciplinaire straf die het bevoegd gezag voornemens is op te leggen, benevens de gronden die het daarvoor meent te hebben.
 
@@ -826,7 +851,7 @@ Zodra de uitspraak in kracht van gewijsde is gegaan, geeft de griffier de besche
 
 #### § 3. Bezwaar bij niet of niet volledig gevolg geven aan een veroordeling
 
-#### Artikel 96
+##### Artikel 96
 
 1. Indien aan een veroordeling, in zover zij niet op geld luidt, hetzij in eerste aanleg bij een onherroepelijk geworden beslissing, hetzij in hoger beroep uitgesproken, niet of niet volledig gevolg gegeven wordt, is de ambtenaar bevoegd deswege een bezwaarschrift bij het gerecht in te dienen.
 
@@ -838,7 +863,7 @@ Zodra de uitspraak in kracht van gewijsde is gegaan, geeft de griffier de besche
 
 ### Hoofdstuk Eerste. Gewoon geding in hoger beroep
 
-#### Artikel 97
+##### Artikel 97
 
 1. Ieder der partijen is bevoegd tegen een door het gerecht genomen met redenen omklede eindbeslissing als bedoeld in [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=6&artikel=89&z=2024-01-01&g=2024-01-01) hoger beroep in te stellen.
 
@@ -846,7 +871,7 @@ Zodra de uitspraak in kracht van gewijsde is gegaan, geeft de griffier de besche
 
 3. Het hoger beroep schorst de beslissing waartegen het gericht is.
 
-#### Artikel 98
+##### Artikel 98
 
 1. Het hoger beroep wordt ingesteld binnen dertig dagen na de dag van de uitspraak, indien de appellant in persoon of bij vertegenwoordiger dan wel gemachtigde bij de uitspraak tegenwoordig is geweest; en in de andere gevallen binnen dertig dagen na de dag van de toezending of de terhandstelling van een afschrift van de uitspraak, welke dag bij toezending aan de voet van het afschrift en bij terhandstelling op het ontvangbewijs wordt vermeld.
 
@@ -854,7 +879,7 @@ Zodra de uitspraak in kracht van gewijsde is gegaan, geeft de griffier de besche
 
 3. Het tegen een deel ener beslissing ingesteld beroep wordt geacht tegen de gehele beslissing gericht te zijn.
 
-#### Artikel 99
+##### Artikel 99
 
 1. Indien zich het geval bedoeld in het derde lid van [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=6&artikel=91&z=2024-01-01&g=2024-01-01) voordoet, is de klager in eerste instantie bevoegd de oorspronkelijke klacht aan de raad voor te leggen binnen dertig dagen na het verstrijken van de termijn gesteld in het tweede lid van dat artikel.
 
@@ -862,7 +887,7 @@ Zodra de uitspraak in kracht van gewijsde is gegaan, geeft de griffier de besche
 
 3. Tegen de uitspraak van de raad staat generlei voorziening open.
 
-#### Artikel 100
+##### Artikel 100
 
 1. Bij het beroepschrift wordt tenminste een afschrift daarvan overgelegd.
 
@@ -870,23 +895,23 @@ Zodra de uitspraak in kracht van gewijsde is gegaan, geeft de griffier de besche
 
 3. Hij vergelijkt het beroepschrift met de daarbij overgelegde afschriften en tekent deze, desnoods na verbetering, voor copie conform.
 
-#### Artikel 101
+##### Artikel 101
 
 1. Zij die in het geding in eerste aanleg partij geweest zijn, treden ook bij de behandeling in hoger beroep als zodanig op.
 
 2. Bij overlijden van de klager in eerste aanleg treden de gezamenlijke erfgenamen als partij op.
 
-#### Artikel 102
+##### Artikel 102
 
 In het geding in hoger beroep is appellant degene, die beroep heeft ingesteld en geïntimeerde de tegenpartij.
 
-#### Artikel 103
+##### Artikel 103
 
 De [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&artikel=37&z=2024-01-01&g=2024-01-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&artikel=38&z=2024-01-01&g=2024-01-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&artikel=39&z=2024-01-01&g=2024-01-01), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&artikel=40&z=2024-01-01&g=2024-01-01) en [67](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=3&artikel=67&z=2024-01-01&g=2024-01-01) vinden overeenkomstige toepassing.
 
 #### § 1. Aanvang van het geding en schriftelijke behandeling
 
-#### Artikel 104
+##### Artikel 104
 
 1. Het beroepschrift houdt in:
 
@@ -906,17 +931,17 @@ De [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&
 
 5. In het geval bedoeld in het derde lid van [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=6&artikel=91&z=2024-01-01&g=2024-01-01) is het in het eerste lid onder b. van dit artikel bepaalde niet van toepassing.
 
-#### Artikel 105
+##### Artikel 105
 
 De voorzitter van de raad wijst de inzender van een beroepschrift, die de voorschriften van de [artikelen 100, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&artikel=100&z=2024-01-01&g=2024-01-01), of [104](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=104&z=2024-01-01&g=2024-01-01) niet in acht genomen heeft, op het gepleegde verzuim en nodigt hem uit, dit binnen een bepaalde termijn te herstellen.
 
-#### Artikel 106
+##### Artikel 106
 
 1. Degene, die niet binnen de door de voorzitter ingevolge het voorgaande artikel bepaalde termijn het door hem gepleegde verzuim heeft hersteld, kan, zonder dat een nader onderzoek vereist is, door de raad in zijn beroep niet-ontvankelijk verklaard worden.
 
 2. De beschikking wordt in het openbaar uitgesproken.
 
-#### Artikel 107
+##### Artikel 107
 
 1. Is het hoger beroep kennelijk niet-ontvankelijk of kennelijk ongegrond, dan kan, zonder dat een nader onderzoek door de raad vereist is, de voorzitter bij met redenen omklede beschikking het beroep niet-ontvankelijk of ongegrond verklaren.
 
@@ -924,7 +949,7 @@ De voorzitter van de raad wijst de inzender van een beroepschrift, die de voorsc
 
 3. De griffier zendt een afschrift van deze beschikking aan de inzender van het beroepschrift.
 
-#### Artikel 108
+##### Artikel 108
 
 1. Tegen de beschikking in het vorige artikel vermeld kan de inzender van het beroepschrift, met inachtneming van de onderscheidingen in [artikel 98, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&artikel=98&z=2024-01-01&g=2024-01-01), gemaakt binnen dertig dagen na de dag van de uitspraak dan wel van de toezending of van de terhandstelling, schriftelijk verzet doen bij de raad.
 
@@ -942,11 +967,11 @@ De voorzitter van de raad wijst de inzender van een beroepschrift, die de voorsc
 
 8. De beschikking tot nietigverklaring of ongegrondverklaring van een verzet is met redenen omkleed. Zij wordt in het openbaar uitgesproken. Het bepaalde in [artikel 107, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=107&z=2024-01-01&g=2024-01-01), is op die beschikking van toepassing. Een hogere voorziening staat daartegen niet open.
 
-#### Artikel 109
+##### Artikel 109
 
 Indien gedurende de loop van het geding mocht blijken, dat de voorzitter verzuimd heeft [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=105&z=2024-01-01&g=2024-01-01) toe te passen, herstelt de raad alsnog dat verzuim. Het geding wordt alsdan, zo nodig, teruggebracht in de staat, waarin het zich bevond op het ogenblik, dat de voorzitter [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=105&z=2024-01-01&g=2024-01-01) had behoren toe te passen. De artikelen 105, [106](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=106&z=2024-01-01&g=2024-01-01), [107](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=107&z=2024-01-01&g=2024-01-01) en [108](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=108&z=2024-01-01&g=2024-01-01) vinden in dat geval overeenkomstige toepassing.
 
-#### Artikel 110
+##### Artikel 110
 
 1. Wordt een ingesteld hoger beroep niet bij beschikking afgedaan, of is een beschikking ten gevolge van verzet vervallen, dan zendt de griffier zo spoedig mogelijk een afschrift van ieder beroepschrift aan de andere partijen.
 
@@ -954,11 +979,11 @@ Indien gedurende de loop van het geding mocht blijken, dat de voorzitter verzuim
 
 3. De griffier van het gerecht zendt binnen drie dagen na ontvangst van de in het tweede lid bedoelde mededeling afschriften van de stukken betreffende de aangevallen beschikking in ter griffier van de raad.
 
-#### Artikel 111
+##### Artikel 111
 
 De [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=48&z=2024-01-01&g=2024-01-01) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=49&z=2024-01-01&g=2024-01-01) vinden overeenkomstige toepassing.
 
-#### Artikel 112
+##### Artikel 112
 
 1. De raad doet alle op het geding betrekking hebbende stukken of gewaarmerkte afschriften daarvan ter griffie in de zittingsplaats van het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba nederleggen ter kosteloze inzage van partijen, haar vertegenwoordigers, gemachtigden en raadslieden.
 
@@ -966,13 +991,13 @@ De [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&
 
 3. Partijen, haar vertegenwoordigers, gemachtigden en raadslieden kunnen op hun kosten van de processtukken afschrift nemen.
 
-#### Artikel 113
+##### Artikel 113
 
 1. Geïntimeerden kunnen naar aanleiding van ieder haar toegezonden beroepschrift binnen drie weken na de dagtekening van het bewijs van verzending bij de raad een contra-memorie indienen.
 
 2. De voorzitter kan deze termijn op verzoek van de betrokken geïntimeerde verlengen. De [leden 3 tot en met 6 van artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=51&z=2024-01-01&g=2024-01-01) vinden overeenkomstige toepassing.
 
-#### Artikel 114
+##### Artikel 114
 
 1. Het administratief orgaan dat als geïntimeerde optreedt zendt tegelijk met de contra-memorie in [artikel 113](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=113&z=2024-01-01&g=2024-01-01) bedoeld, althans uiterlijk binnen de termijn gesteld in het eerste lid van het vorige artikel alle zich onder zijn berusting bevindende tot de zaak betrekkelijke stukken, met uitzondering alleen van de zodanige tegen welker inzending het openbaar belang zich bepaaldelijk verzet, in ter griffie van de raad. Ingezonden worden hetzij de oorspronkelijke stukken, hetzij gewaarmerkte afschriften. Op verzoek van de betrokken geïntimeerde kan de voorzitter van de raad de in de eerste volzin vermelde termijn verlengen.
 
@@ -980,7 +1005,7 @@ De [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&
 
 3. Ambtenaren als partij in een geding of in welke hoedanigheid ook ter zitting verschijnende of optredende, mogen mondeling noch schriftelijk mededeling doen uit of omtrent stukken, die ingevolge het bepaalde in het eerste lid niet mogen worden overgelegd.
 
-#### Artikel 115
+##### Artikel 115
 
 1. De voorzitter is bevoegd aan het administratief orgaan hetwelk partij in het geding is, en aan andere administratieve organen te vragen binnen een door hem te bepalen termijn schriftelijk inlichtingen te verschaffen en onder hen berustende of te hunner beschikking staande stukken, voor zover deze laatste niet reeds onder [artikel 114](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=114&z=2024-01-01&g=2024-01-01) vallen, en voorwerpen in te zenden.
 
@@ -990,27 +1015,27 @@ De stukken kunnen in gewaarmerkt afschrift worden ingezonden.
 
 3. Het tweede en het derde lid van [artikel 114](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=114&z=2024-01-01&g=2024-01-01) vinden overeenkomstige toepassing.
 
-#### Artikel 116
+##### Artikel 116
 
 De bevoegdheid omschreven in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=54&z=2024-01-01&g=2024-01-01) wordt door de voorzitter uitgeoefend.
 
-#### Artikel 117
+##### Artikel 117
 
 [Artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=55&z=2024-01-01&g=2024-01-01) vindt overeenkomstige toepassing.
 
 #### § 2. Getuigen en deskundigen
 
-#### Artikel 118
+##### Artikel 118
 
 De [artikelen 56](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=2&artikel=56&z=2024-01-01&g=2024-01-01), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=2&artikel=57&z=2024-01-01&g=2024-01-01), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=2&artikel=58&z=2024-01-01&g=2024-01-01), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=2&artikel=59&z=2024-01-01&g=2024-01-01), [60](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=2&artikel=60&z=2024-01-01&g=2024-01-01) en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=2&artikel=61&z=2024-01-01&g=2024-01-01) vinden overeenkomstige toepassing, met dien verstande, dat door de voorzitter worden uitgeoefend de bevoegdheden omschreven in artikel 60 en de tweede zin van het derde lid van artikel 61.
 
 #### § 3. Openbare behandeling
 
-#### Artikel 119
+##### Artikel 119
 
 In hoger beroep vinden de [artikelen 62 tot en met 79](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=3&artikel=62&z=2024-01-01&g=2024-01-01) overeenkomstige toepassing met inachtneming van het bepaalde bij het volgend artikel.
 
-#### Artikel 120
+##### Artikel 120
 
 1. De zitting wordt door de voorzitter geopend, geleid en gesloten. Hij handhaaft de orde op de zitting.
 
@@ -1024,19 +1049,19 @@ In hoger beroep vinden de [artikelen 62 tot en met 79](https://wetten.overheid.n
 
 #### § 4. Afstand van beroep; schorsing van het geding; voeging van zaken en splitsing
 
-#### Artikel 121
+##### Artikel 121
 
 In hoger beroep vinden de [artikelen 80](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=4&artikel=80&z=2024-01-01&g=2024-01-01) en [81](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=4&artikel=81&z=2024-01-01&g=2024-01-01) overeenkomstige toepassing.
 
 #### § 5. Raadkamer
 
-#### Artikel 122
+##### Artikel 122
 
 1. De raad beraadslaagt en beslist in raadkamer en grondt de beslissing zowel op het onderzoek op de zitting in hoger beroep als op het onderzoek in eerste aanleg, zoals dit volgens het proces-verbaal dier zitting heeft plaats gehad en op die stukken, ten aanzien waarvan de voorschriften van de [artikelen 112](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=112&z=2024-01-01&g=2024-01-01) en [124, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=5&artikel=124&z=2024-01-01&g=2024-01-01), zijn toegepast.
 
 2. De raad beslist zo spoedig mogelijk na het sluiten van het onderzoek.
 
-#### Artikel 123
+##### Artikel 123
 
 1. In alle zaken zal de voorzitter hoofdelijk omvraag doen, beginnende bij het jongste lid.
 
@@ -1050,7 +1075,7 @@ In hoger beroep vinden de [artikelen 80](https://wetten.overheid.nl/jci1.3:c:BWB
 
 6. Wanneer meer dan twee verschillende gevoelens zijn geuit, wordt beslist in de zin, die het meest overeenkomt met het gevoelen der meerderheid.
 
-#### Artikel 124
+##### Artikel 124
 
 1. Blijkt tijdens de behandeling in raadkamer, dat het onderzoek niet volledig is geweest, dan kan de raad bij met redenen omkleed bevel gelasten, dat op een daarbij aangewezen of nader door de voorzitter vast te stellen zitting het onderzoek wordt hervat.
 
@@ -1062,13 +1087,13 @@ In hoger beroep vinden de [artikelen 80](https://wetten.overheid.nl/jci1.3:c:BWB
 
 #### § 6. Uitspraak
 
-#### Artikel 125
+##### Artikel 125
 
 1. De uitspraak van de raad betreft de beschikkingen, handelingen of weigeringen (om te beschikken of te handelen), door de vorderingen der partijen aan zijn oordeel onderworpen.
 
 2. De uitspraak geschiedt in het openbaar door de voorzitter of, bij diens verhindering, door een der leden die over de zaak hebben geoordeeld, naar rang van benoeming. Hiervan wordt in de uitspraak melding gemaakt.
 
-#### Artikel 126
+##### Artikel 126
 
 1. De raad bevestigd de uitspraak, hetzij met overneming, hetzij met verbetering van de gronden of doet, met gehele of gedeeltelijke vernietiging daarvan, hetgeen het gerecht had behoren te doen.
 
@@ -1076,7 +1101,7 @@ In hoger beroep vinden de [artikelen 80](https://wetten.overheid.nl/jci1.3:c:BWB
 
 3. In het geval bedoeld in het eerste lid van [artikel 99](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&artikel=99&z=2024-01-01&g=2024-01-01) beslist de raad over de oorspronkelijke klacht.
 
-#### Artikel 127
+##### Artikel 127
 
 1. Wanneer het gerecht de niet-ontvankelijkheid van het bezwaar heeft uitgesproken en de raad deze uitspraak vernietigd met ontvankelijkverklaring van het bezwaar, wordt de zaak naar het gerecht teruggewezen om te worden hervat in de stand, waarin zij zich bevond.
 
@@ -1086,13 +1111,13 @@ In hoger beroep vinden de [artikelen 80](https://wetten.overheid.nl/jci1.3:c:BWB
 
 4. De griffier geeft hiervan kennis aan de partijen.
 
-#### Artikel 128
+##### Artikel 128
 
 1. De voorzitter geeft voor het bij de uitspraak vastgestelde bedrag der schadevergoeding een bevelschrift van tenuitvoerlegging af.
 
 2. Hij geeft ook voor het bedrag der bij de uitspraak vastgestelde geldelijke aanspraak een bevelschrift van tenuitvoerlegging af.
 
-#### Artikel 129
+##### Artikel 129
 
 De uitspraken zijn gedagtekend en behelzen:
 
@@ -1104,17 +1129,17 @@ De uitspraken zijn gedagtekend en behelzen:
 
 - d. de namen van hen die als voorzitter en als leden over de zaak hebben geoordeeld.
 
-#### Artikel 130
+##### Artikel 130
 
 De uitspraak wordt door de voorzitter en de griffier die in raadkamer tegenwoordig is geweest, ondertekend. Bij verhindering van een hunner wordt de reden daarvan in de uitspraak vermeld en wordt, voor zoveel de voorzitter betreft, de uitspraak ondertekend door een der leden die over de zaak hebben geoordeeld, naar rang van benoeming.
 
-#### Artikel 131
+##### Artikel 131
 
 In geen geval mag de uitspraak later dan drie weken na het sluiten van het onderzoek plaats hebben.
 
 #### § 7. Afschrift en teruggave van stukken
 
-#### Artikel 132
+##### Artikel 132
 
 De [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=7&artikel=92&z=2024-01-01&g=2024-01-01) en [93](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=7&artikel=93&z=2024-01-01&g=2024-01-01) vinden overeenkomstige toepassing.
 
@@ -1122,7 +1147,7 @@ De [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&
 
 #### § 1. Beroep vóór disciplinaire strafoplegging
 
-#### Artikel 133
+##### Artikel 133
 
 1. Indien, in het geval bij [artikel 95](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Tweede&paragraaf=2&artikel=95&z=2024-01-01&g=2024-01-01) bedoeld, de betrokkene tijdig een bezwaarschrift heeft ingediend, is beroep van de beslissing van het gerecht toegelaten.
 
@@ -1130,7 +1155,7 @@ De [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&
 
 #### § 2. Beroep bij niet of niet volledig gevolg geven aan een veroordeling
 
-#### Artikel 134
+##### Artikel 134
 
 1. Indien, in het geval bij [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Tweede&paragraaf=3&artikel=96&z=2024-01-01&g=2024-01-01) bedoeld, de betrokkene tijdig een bezwaarschrift heeft ingediend, is beroep van de beslissing van het gerecht toegelaten.
 
@@ -1138,7 +1163,7 @@ De [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&
 
 ## Titel V. Herziening
 
-#### Artikel 135
+##### Artikel 135
 
 1. Ieder die partij was in een geding, is bevoegd, binnen drie maanden nadat van enige omstandigheid als in het tweede lid bedoeld is gebleken, de herziening van een onherroepelijke of onherroepelijk geworden uitspraak te verzoeken.
 
@@ -1146,42 +1171,42 @@ De [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&
 
 3. Van uitspraken, die niet zijn einduitspraken, kan de herziening slechts tegelijk met die van de einduitspraak worden verzocht.
 
-#### Artikel 136
+##### Artikel 136
 
 1. De herziening wordt verzocht aan het gerecht of de raad naar gelang het betreft een beslissing door het gerecht of door de raad genomen.
 
 2. Het verzoek om herziening mits schorsende kracht.
 
-#### Artikel 137
+##### Artikel 137
 
 Op de behandeling van een verzoek om herziening vinden de voorschriften omtrent de behandeling in eerste aanleg of in hoger beroep overeenkomstige toepassing. Tegen de uitspraak in herziening staat geen voorziening open.
 
 ## Titel VI. Straf- en slotbepalingen
 
-#### Artikel 138
+##### Artikel 138
 
 1. Hij die als getuige of deskundige ingevolge de voorschriften van deze wet opgeroepen of door een partij ter zitting medegebracht een der in deze wet omschreven verplichtingen niet nakomt, wordt voor zover het [Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570) er niet in voorziet, gestraft met hechtenis van ten hoogste een maand of een geldboete van de eerste categorie.
 
 2. De feiten worden beschouwd als overtredingen.
 
-#### Artikel 139
+##### Artikel 139
 
 [vervallen]
 
-#### Artikel 140
+##### Artikel 140
 
 [vervallen]
 
-#### Artikel 141
+##### Artikel 141
 
 Stukken opgemaakt ter voldoening aan bepalingen van deze wet zijn vrij van zegel en worden, voor zover zulks vereist wordt, kosteloos geregistreerd.
 
-#### Artikel 142
+##### Artikel 142
 
 1. Met afwijking in zoverre van het bepaalde in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=II&hoofdstuk=Eerste&paragraaf=1&artikel=9&z=2024-01-01&g=2024-01-01), treedt de voor de eerste maal benoemde rechter-plaatsvervanger in ambtenarenzaken na drie jaren af.
 
 2. Met afwijking in zoverre van het bepaalde in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=II&hoofdstuk=Tweede&paragraaf=1&artikel=18&z=2024-01-01&g=2024-01-01) treden een van de voor de eerste maal benoemde leden en een van de voor de eerste maal benoemde leden-plaatsvervangers van de raad van beroep, telkens door het lot aan te wijzen, na drie jaren af.
 
-#### Artikel 143
+##### Artikel 143
 
 Deze wet wordt aangehaald als: Wet ambtenarenrechtspraak 1951 BES.

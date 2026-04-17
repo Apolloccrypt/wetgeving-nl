@@ -1,13 +1,39 @@
 ---
-title: "Instellingsbesluit Commissie macrodoelmatigheid mbo"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 18 augustus 2015, nr. MBO/803345, tot het instellen van een commissie macrodoelmatigheid voor het beroepsonderwijs (Instellingsbesluit Commissie macrodoelmatigheid mbo)"
 identifier: "BWBR0036973"
-categorie: "Onderwijs"
-publicatiedatum: 2025-01-30
-laatste_update: 2025-01-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036973"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-30"
+last_updated: "2025-01-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036973"
+soort: "ministeriele-regeling"
+stam_id: "13250323"
+version_id: "25367242"
+internal_id: "C36223971"
+label_id: "13218424"
+dtd_version: "2.0"
+original_entry_into_force: "2018-09-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036973/2025-01-30/0"
+intitule_bron: "Stcrt.2015-27372"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-08-18"
+intitule_published: "2015-09-01"
+intitule_in_force: "2015-09-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-59339"
+original_signed_date: "2018-09-18"
+original_published_date: "2018-10-24"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2018-59339"
+entry_into_force_date: "2018-09-18"
+jci_1_3: "jci1.3:c:BWBR0036973&z=2025-01-30&g=2025-01-30"
+jci_1_0: "1.0:c:BWBR0036973&g=2025-01-30"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Commissie macrodoelmatigheid mbo"
+signed_date: "2018-09-18"
+entry_into_force: "2018-09-18"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 18 augustus 2015, nr. MBO/803345, tot het instellen van een commissie macrodoelmatigheid voor het beroepsonderwijs (Instellingsbesluit Commissie macrodoelmatigheid mbo)
 
 Handelende in overeenstemming met de Staatssecretaris van Economische Zaken;
@@ -16,7 +42,7 @@ Gelet op [artikel 6.1.4a, tweede lid, van de Wet educatie en beroepsonderwijs](h
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 - g. **NVAO:** Nederlands-Vlaamse Accreditatieorganisatie.
 
-#### Artikel 2. Instelling en taak
+##### Artikel 2. Instelling en taak
 
 1. Er is een Commissie macrodoelmatigheid mbo.
 
@@ -52,7 +78,7 @@ In dit besluit wordt verstaan onder:
 
 3. De commissie voert de taak bedoeld in het tweede lid, onder d, uit voor aanvragen die zijn ingediend bij de minister op of na 1 augustus 2017.
 
-#### Artikel 3. Lidmaatschap
+##### Artikel 3. Lidmaatschap
 
 1. De commissie wordt ingesteld met ingang van 1 september 2015.
 
@@ -68,7 +94,7 @@ In dit besluit wordt verstaan onder:
 
 7. Bij tussentijds vertrek van een lid kan de minister een ander lid benoemen.
 
-#### Artikel 4. Leden
+##### Artikel 4. Leden
 
 Tot de leden van de commissie worden benoemd:
 
@@ -84,7 +110,7 @@ Tot de leden van de commissie worden benoemd:
 
 - f. de heer dr. ir. B.J. Kip.
 
-#### Artikel 5. Secretariaat
+##### Artikel 5. Secretariaat
 
 1. De commissie wordt ondersteund door een secretariaat.
 
@@ -92,7 +118,7 @@ Tot de leden van de commissie worden benoemd:
 
 3. In het secretariaat wordt voorzien door de minister. Het secretariaat is ondergebracht bij de NVAO.
 
-#### Artikel 6. Werkwijze
+##### Artikel 6. Werkwijze
 
 1. De commissie stelt haar eigen werkwijze vast.
 
@@ -106,7 +132,7 @@ Tot de leden van de commissie worden benoemd:
 
 6. De commissie kan in voorkomende gevallen onderzoek laten uitvoeren of expertise van derden inroepen, voor zover dat valt binnen de goedgekeurde begroting.
 
-#### Artikel 7. Procedure vaststellen rapport van bevindingen macrodoelmatigheid
+##### Artikel 7. Procedure vaststellen rapport van bevindingen macrodoelmatigheid
 
 1. Waar het gaat om de taken, bedoeld in [artikel 2, tweede lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2025-01-30&g=2025-01-30), legt de commissie haar oordeel naar aanleiding van een onderzoek vast in een rapport.
 
@@ -116,19 +142,19 @@ Tot de leden van de commissie worden benoemd:
 
 4. Na de gestelde termijn wordt het rapport vastgesteld. Eventueel door het bevoegd gezag overgenomen aanbevelingen uit het ontwerprapport worden in het vast te stellen rapport vermeld.
 
-#### Artikel 8. Informatieplicht
+##### Artikel 8. Informatieplicht
 
 1. De commissie verstrekt aan de minister desgevraagd de door hem gewenste inlichtingen.
 
 2. De commissie doet verslag van haar werkzaamheden aan de minister in een jaarlijks te publiceren verslag.
 
-#### Artikel 9. Geheimhouding
+##### Artikel 9. Geheimhouding
 
 1. De commissie neemt geheimhouding in acht ten aanzien van alle informatie die in het kader van dit besluit bekend wordt en waarvan het karakter als vertrouwelijk is aan te merken.
 
 2. De commissie zorgt ervoor dat door een ieder die betrokken is bij de werkzaamheden van de commissie, geheimhouding in acht wordt genomen ten aanzien van alle informatie die in het kader van dit besluit bekend wordt en waarvan het karakter als vertrouwelijk is aan te merken.
 
-#### Artikel 10. Kosten commissie en vergoeding
+##### Artikel 10. Kosten commissie en vergoeding
 
 1. De kosten van de commissie komen, voor zover goedgekeurd op basis van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=6&z=2025-01-30&g=2025-01-30), voor rekening van de minister. Onder kosten worden in ieder geval verstaan:
 
@@ -142,7 +168,7 @@ Tot de leden van de commissie worden benoemd:
 
 3. De voorzitter en de andere leden van de commissie ontvangen een vergoeding van reis- en verblijfkosten overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren. Deze vergoeding wordt door het secretariaat van de commissie afgehandeld.
 
-#### Artikel 11. Openbaarmaking
+##### Artikel 11. Openbaarmaking
 
 1. Rapporten, notities, verslagen, adviezen en andere producten die door of namens de commissie worden vervaardigd of vergaard in het kader van de taken, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2025-01-30&g=2025-01-30), worden uitsluitend aan de minister uitgebracht of overgedragen.
 
@@ -150,21 +176,21 @@ Tot de leden van de commissie worden benoemd:
 
 3. In opdracht van de minister plaatst de commissie vervolgens de openbaar te maken producten op de website.
 
-#### Artikel 12. Archiefbescheiden
+##### Artikel 12. Archiefbescheiden
 
 De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden of, zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van de Directie MBO van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 september 2015. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 augustus 2015, treedt het besluit in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt het terug tot en met 1 september 2015.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie macrodoelmatigheid mbo.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
 
-#### Artikel 7a. Procedure vaststellen advies fusie
+##### Artikel 7a. Procedure vaststellen advies fusie
 
 1. Waar het gaat om de taken, bedoeld in [artikel 2, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2025-01-30&g=2025-01-30), legt de commissie haar oordeel naar aanleiding van een onderzoek vast in een advies aan de minister.
 
@@ -172,7 +198,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in af
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
 
-#### Artikel 7b. Procedure vaststellen advies kleinschalige en unieke beroepsopleidingen
+##### Artikel 7b. Procedure vaststellen advies kleinschalige en unieke beroepsopleidingen
 
 1. Waar het gaat om de taken, bedoeld in [artikel 2, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2025-01-30&g=2025-01-30), legt de commissie haar oordeel naar aanleiding van een onderzoek vast in een advies aan de minister.
 

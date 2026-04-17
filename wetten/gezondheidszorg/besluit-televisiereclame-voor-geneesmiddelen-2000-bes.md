@@ -1,16 +1,41 @@
 ---
 title: "Besluit televisiereclame voor geneesmiddelen 2000 BES"
 identifier: "BWBR0028357"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028357"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028357"
+soort: "AMvB-BES"
+stam_id: "10756353"
+version_id: "17731542"
+internal_id: "C24810341"
+label_id: "10730974"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028357/2010-10-10/0"
+intitule_bron: "Stb.2010-661"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-14"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-661"
+original_signed_date: "2010-09-14"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-661"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028357&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028357&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-14"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit televisiereclame voor geneesmiddelen 2000 BES
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -18,11 +43,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. **exploitant:** de exploitant van een televisie-inrichting als bedoeld in [artikel 1 van de Mediawet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&artikel=1).
 
-#### Artikel 1a
+##### Artikel 1a
 
 Dit besluit berust op [artikel 1, onderdeel e, van de Wet op de geneesmiddelenvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=1), alsmede op [artikel 1, onderdeel e, van de Mediawet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028433&artikel=1).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is een exploitant toegestaan reclameboodschappen uit te zenden die betrekking hebben op verpakte geneesmiddelen, tenzij Onze Minister bij ministeriële regeling verpakte geneesmiddelen aanwijst ten aanzien waarvan geen reclame mag worden uitgezonden.
 
@@ -30,13 +55,13 @@ Dit besluit berust op [artikel 1, onderdeel e, van de Wet op de geneesmiddelenvo
 
 3. Een aanwijzing als bedoeld in het eerste lid wordt enkel gegeven met het oog op het belang van de algemene volksgezondheid.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De exploitant draagt er zorg voor dat steeds direct na een reclameboodschap, de volgende aankondigingen wordt uitgezonden: «Raadpleeg uw huisarts of apotheker, alvorens enige medicijn te gebruiken» en «Lees voor het kopen of gebruiken eerst de aanwijzingen op de verpakking».
 
 2. Deze aankondigingen dienen te geschieden in de landstaal en in de taal welke gebezigd werd in de daaraan voorafgegane reclameboodschap.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De reclameboodschappen dienen eerlijk, echt en controleerbaar te zijn. Voorts mogen geen aanduidingen gebezigd worden in woord of beeld die doordat ze onjuist of onvolledig zijn of een onjuiste indruk wekken, misleidend zijn met betrekking tot de aard of eigenschappen, de samenstelling, de oorsprong, herkomst, de wijze van bereiding, het gebruik, de werking of de houdbaarheid.
 
@@ -84,14 +109,14 @@ Dit besluit berust op [artikel 1, onderdeel e, van de Wet op de geneesmiddelenvo
 
 - 6°. diabetes en andere stofwisselingsziekten.
 
-#### Artikel 5
+##### Artikel 5
 
 Het landsbesluit televisiereclame voor geneesmiddelen (P.B. 1986, no. 149) wordt ingetrokken.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit televisiereclame voor geneesmiddelen 2000 BES.
 
-#### Artikel 7
+##### Artikel 7
 
 [Vervallen]

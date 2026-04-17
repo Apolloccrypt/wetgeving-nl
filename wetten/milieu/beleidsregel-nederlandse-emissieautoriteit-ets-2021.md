@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel Nederlandse Emissieautoriteit ETS 2021"
+title: "Beleidsregel van het bestuur van de Nederlandse Emissieautoriteit van 17 december 2020, nr. NEA-2020/21858, houdende regels met betrekking tot de handhaving van regels ter uitvoering van het Europese emissiehandelssysteem 2021 (Beleidsregel Nederlandse Emissieautoriteit ETS 2021)"
 identifier: "BWBR0044649"
-categorie: "Milieu"
-publicatiedatum: 2024-07-01
-laatste_update: 2024-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044649"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-07-01"
+last_updated: "2024-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044649"
+soort: "zbo"
+stam_id: "15797603"
+version_id: "27389002"
+internal_id: "C38674981"
+label_id: "15735014"
+dtd_version: "2.0"
+original_entry_into_force: "2021-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044649/2024-07-01/0"
+intitule_bron: "Stcrt.2020-69478"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-12-17"
+intitule_published: "2020-12-31"
+intitule_in_force: "2020-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-69478"
+original_signed_date: "2020-12-17"
+original_published_date: "2020-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-69478"
+entry_into_force_date: "2021-01-01"
+jci_1_3: "jci1.3:c:BWBR0044649&z=2024-07-01&g=2024-07-01"
+jci_1_0: "1.0:c:BWBR0044649&g=2024-07-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel Nederlandse Emissieautoriteit ETS 2021"
+signed_date: "2020-12-17"
+entry_into_force: "2021-01-01"
 ---
-
 # Beleidsregel van het bestuur van de Nederlandse Emissieautoriteit van 17 december 2020, nr. NEA-2020/21858, houdende regels met betrekking tot de handhaving van regels ter uitvoering van het Europese emissiehandelssysteem 2021 (Beleidsregel Nederlandse Emissieautoriteit ETS 2021)
 
 Gelet op de handhavingsbevoegdheden van het bestuur van de Nederlandse Emissieautoriteit als bedoeld in de [artikelen 18.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.6a) en [18.16a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.16a), artikel 16 van de ETS-[richtlijn 2003/87/EG](32003L0087) van het Europees Parlement en de Raad (PbEU 2012, L 181), en [artikel 4:81, eerste lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81),
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -32,21 +58,21 @@ In deze beleidsregel wordt verstaan onder:
 
 - −. **wet:** [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het bestuur bepaalt de hoogte van een dwangsom voor overtredingen als bedoeld in [artikel 18.6a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.6a), voor zover het een overtreding betreft bedoeld in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&bijlage=I&z=2024-07-01&g=2024-07-01), in overeenstemming met de in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&bijlage=II&z=2024-07-01&g=2024-07-01) opgenomen indicatie van de hoogte van de dwangsom per overtreding.
 
 2. Bij het bepalen van de hoogte van een dwangsom voor overtredingen als bedoeld in [artikel 18.6a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.6a), anders dan bedoeld in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&bijlage=I&z=2024-07-01&g=2024-07-01), is [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&bijlage=II&z=2024-07-01&g=2024-07-01) zoveel mogelijk van overeenkomstige toepassing.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2021.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel Nederlandse Emissieautoriteit ETS 2021.
 

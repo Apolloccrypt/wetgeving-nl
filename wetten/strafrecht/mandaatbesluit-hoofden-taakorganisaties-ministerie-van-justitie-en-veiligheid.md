@@ -1,20 +1,46 @@
 ---
-title: "Mandaatbesluit hoofden taakorganisaties Ministerie van Justitie en Veiligheid"
+title: "Besluit van de secretaris-generaal van het Ministerie van Justitie en Veiligheid van 10 december 2018, nr. 2410553/18/DP&O, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan de hoofden van de taakorganisaties van het Ministerie van Justitie en Veiligheid (Mandaatbesluit hoofden taakorganisaties Ministerie van Justitie en Veiligheid)"
 identifier: "BWBR0041699"
-categorie: "Strafrecht"
-publicatiedatum: 2025-11-19
-laatste_update: 2025-11-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041699"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-11-19"
+last_updated: "2025-11-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041699"
+soort: "ministeriele-regeling"
+stam_id: "14909983"
+version_id: "30897912"
+internal_id: "C44273591"
+label_id: "14861274"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041699/2025-11-19/0"
+intitule_bron: "Stcrt.2018-71090"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-12-10"
+intitule_published: "2018-12-18"
+intitule_in_force: "2018-12-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-29584"
+original_signed_date: "2025-06-18"
+original_published_date: "2025-09-02"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-29584"
+entry_into_force_date: "2025-06-18"
+jci_1_3: "jci1.3:c:BWBR0041699&z=2025-11-19&g=2025-11-19"
+jci_1_0: "1.0:c:BWBR0041699&g=2025-11-19"
+citeertitel_status: "officieel"
+short_title: "Mandaatbesluit hoofden taakorganisaties Ministerie van Justitie en Veiligheid"
+signed_date: "2025-06-18"
+entry_into_force: "2025-06-18"
 ---
-
 # Besluit van de secretaris-generaal van het Ministerie van Justitie en Veiligheid van 10 december 2018, nr. 2410553/18/DP&O, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan de hoofden van de taakorganisaties van het Ministerie van Justitie en Veiligheid (Mandaatbesluit hoofden taakorganisaties Ministerie van Justitie en Veiligheid)
 
 Gelet op [artikel 3, eerste lid, onder b, van het Mandaatbesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=3);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Van het ingevolge [artikel 2 van het Mandaatbesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=2) aan de secretaris-generaal verleende mandaat wordt ondermandaat verleend ten aanzien van de aangelegenheden die hun dienstonderdeel betreffen aan:
 
@@ -46,15 +72,15 @@ Van het ingevolge [artikel 2 van het Mandaatbesluit Ministerie van Justitie en V
 
 - n. de directeur van de Dienst Identificatie en Screening Asielzoekers (DISA).
 
-#### Artikel 2
+##### Artikel 2
 
 De hoofden van de dienstonderdelen, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1&z=2025-11-19&g=2025-11-19) worden aangewezen en volmacht verleend om op te treden als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hun ressorterende ambtenaren.
 
-#### Artikel 3
+##### Artikel 3
 
 Als bevoegd om besluiten te nemen op het terrein van de vreemdelingenwetgeving, waaronder ook begrepen de [Wet vaststellingsprocedure staatloosheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048458) en van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738), alsmede daaraan gerelateerde besluiten op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), de Algemene verordening gegevensbescherming en de [Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940), verzoeken om schadevergoeding, en de behandeling van klachten, worden aangewezen de functionarissen, genoemd in kolom 1 van de bijlage bij dit besluit, voor zover het betreft de rechtshandelingen, genoemd in de overige kolommen van die bijlage.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aan de secretaris-generaal blijft voorbehouden de bevoegdheid om besluiten te nemen, indien deze:
 
@@ -94,27 +120,27 @@ Als bevoegd om besluiten te nemen op het terrein van de vreemdelingenwetgeving, 
 
 4. In afwijking van het eerste lid, onderdeel c is het gemaakte voorbehoud inzake het verstrekken van reisopdracht aan ondergeschikte functionarissen naar landen buiten Europa alsmede Turkije niet van toepassing voor de functionarissen genoemd in [artikel 1, onderdelen a, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1&z=2025-11-19&g=2025-11-19). Deze bevoegdheid kan door de functionarissen genoemd in artikel 1, onderdelen a en i niet worden doorgegeven. De functionaris genoemd in artikel 1, onderdeel h, is toegestaan deze bevoegdheid door te geven voor zover het de dienstreizen betreft van de medewerkers die op basis van [Verordening (EU) 2019/1240](32019R1240) tijdelijk in het buitenland werkzaam zijn.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1&z=2025-11-19&g=2025-11-19) genoemde functionarissen kunnen geen ondermandaat verlenen van de bevoegdheid tot inhuur van interim-management, organisatie- en formatieadvies, communicatieadvies en beleidsadvies.
 
 2. De in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1&z=2025-11-19&g=2025-11-19), genoemde functionaris kan geen ondermandaat verlenen tot het beslissen op verzoeken van cliënten van de raad voor de kinderbescherming om schadevergoeding, indien deze verzoeken het bedrag van € 2.500,– te boven gaan.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1&z=2025-11-19&g=2025-11-19) genoemde functionarissen wordt toegestaan de bevoegdheid tot het nemen van besluiten inzake financieel beheer en het nemen van rechtspositionele besluiten verder dan één hiërarchisch niveau door te geven.
 
 2. De in [artikel 1, onderdelen a, h en n](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1&z=2025-11-19&g=2025-11-19), genoemde functionarissen worden gemandateerd om de bevoegdheid tot het nemen van besluiten op het terrein van de vreemdelingenwetgeving en van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738) verder dan één hiërarchisch niveau door te geven.
 
-#### Artikel 7
+##### Artikel 7
 
 Ondermandaten, volmachten en machtigingen verleend door of namens de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1&z=2025-11-19&g=2025-11-19) genoemde functionarissen blijven van kracht.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot 19 oktober 2018.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Mandaatbesluit hoofden taakorganisaties Ministerie van Justitie en Veiligheid.
 
@@ -146,7 +172,7 @@ De functionarissen genoemd in kolom 1 zijn bevoegd in overeenstemming met de [Ri
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5a
+##### Artikel 5a
 
 De in [artikel 1, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1&z=2025-11-19&g=2025-11-19), genoemde functionaris kan geen ondermandaat verlenen van de bevoegdheid op grond van [artikel 40d van de Penitentiaire Beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=40d).
 

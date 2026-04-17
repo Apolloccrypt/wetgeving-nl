@@ -1,20 +1,45 @@
 ---
-title: "Heffingenreglement COKZ"
+title: "Reglement inzake de heffing van omslagen ter dekking van de kosten van toezicht of keuring"
 identifier: "BWBR0010341"
-categorie: "Belastingrecht"
-publicatiedatum: 1999-03-17
-laatste_update: 1999-03-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010341"
+country: "nl"
+rank: "zbo"
+publication_date: "1999-03-17"
+last_updated: "1999-03-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010341"
+soort: "zbo"
+stam_id: "6638863"
+version_id: "11472412"
+internal_id: "C15460391"
+label_id: "6627314"
+original_entry_into_force: "1999-03-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010341/1999-03-17/0"
+intitule_bron: "Stcrt.1999-53"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-03-15"
+intitule_published: "1999-03-17"
+intitule_in_force: "1999-03-17"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-53"
+original_signed_date: "1999-03-15"
+original_published_date: "1999-03-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1999-53-p15-SC18048"
+entry_into_force_date: "1999-03-17"
+jci_1_3: "jci1.3:c:BWBR0010341&z=1999-03-17&g=1999-03-17"
+jci_1_0: "1.0:c:BWBR0010341&g=1999-03-17"
+citeertitel_status: "officieel"
+short_title: "Heffingenreglement COKZ"
+signed_date: "1999-03-15"
+entry_into_force: "1999-03-17"
 ---
-
 # Reglement inzake de heffing van omslagen ter dekking van de kosten van toezicht of keuring
 
 gelet op [artikel 11 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=11) (Stb. 1971, 371), alsmede artikel 33, tweede lid, van de statuten van genoemde Stichting (Stcrt. 1992, 63),
 
 heeft in de op 2 december 1998 gehouden vergadering vastgesteld het navolgende Reglement:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit reglement wordt verstaan onder:
 
@@ -28,13 +53,13 @@ heeft in de op 2 december 1998 gehouden vergadering vastgesteld het navolgende R
 
 2. In dit reglement dienen de daarin voorkomende aanduidingen van de producten, alsook de begrippen bereiden en verhandelen, te worden verstaan in de zin die de betrokken landbouwkwaliteitsbesluiten en de daarop berustende bepalingen daaraan toekennen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De aangeslotene is voor elke tot zijn onderneming behorende bereid- of opslagplaats, waar producten worden bereid, jaarlijks aan het COKZ een omslag over de hoeveelheden bereid product verschuldigd.
 
 2. De in het eerste lid bedoelde omslag wordt vastgesteld in overeenstemming met het in de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010341&artikel=3&z=1999-03-17&g=1999-03-17) bepaalde.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor producten ten aanzien waarvan de werkzaamheden van toezicht of keuring door het COKZ worden verricht worden standaardomzetten vastgesteld.
 
@@ -62,11 +87,11 @@ en de aldus verkregen uitkomsten te totaliseren.
 
 4. Het bestuur kan bepalen dat in afwijking van het bepaalde in het tweede en derde lid voor de berekening van de standaardomzet van de jaarlijks bereide hoeveelheden product niet in aanmerking worden genomen nader aan te wijzen hoeveelheden product die bestemd zijn om in de betrokken bereid- of opslagplaats nog een of meer tot bereiden gerekende handelingen te ondergaan.
 
-#### Artikel 4
+##### Artikel 4
 
 Voor producten ten aanzien waarvan werkzaamheden van toezicht of keuring door het COKZ worden verricht, stelt het bestuur jaarlijks een basisomslag per ton standaardomzet vast, daarbij uitgaande van de ter zake van die werkzaamheden door het COKZ gemaakte kosten.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De jaarlijks verschuldigde omslag wordt per product, voor zover de standaardomzet in tonnen is vastgesteld, telkens berekend door van de eerste 2000 ton standaardomzet elke ton te belasten met 1,00 x de toepasselijke basisomslag en zo vervolgens
 
@@ -90,13 +115,13 @@ en elke volgende ton met 0.25 x de basisomslag.
 
 2. Voor zover de standaardomzet ingevolge het derde lid van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010341&artikel=3&z=1999-03-17&g=1999-03-17) is vastgesteld in gehele kilogrammen, wordt de jaarlijks verschuldigde omslag telkens berekend door elke kilogram standaardomzet te belasten met 0.001 x de toepasselijke basisomslag.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De aangeslotene is verplicht om voor elke tot zijn onderneming behorende bereid- of opslagplaats een administratie te voeren van de jaarlijks bereide hoeveelheden product en zich daarbij te richten naar eventuele aanwijzingen van het bestuur. De aangeslotene verstrekt het bestuur of de door deze aangewezen personen alle gevraagde inlichtingen; desgevraagd geeft hij het bestuur of de door deze aangewezen personen inzage in de door hem gevoerde boekhouding.
 
 2. Indien de aangeslotene – door welke oorzaak dan ook – buiten staat is of nalatig blijft het COKZ de voor het bepalen van de verschuldigde omslag(en) benodigde gegevens te verstrekken, is het bestuur bevoegd de verschuldigde omslag(en) te bepalen, waar nodig uitgaande van veronderstellingen omtrent de grootte van de betrokken standaardomzet(ten).
 
-#### Artikel 7
+##### Artikel 7
 
 1. De omslag(en) dient te worden voldaan binnen vier weken nadat deze aan de betrokken aangeslotene is/zijn bekend gemaakt. Het bestuur is bevoegd om in afwachting van de definitieve vaststelling van de omslag(en) één of meer voorschotten te verlangen, te voldoen binnen een daarbij door het bestuur te stellen termijn.
 
@@ -104,28 +129,28 @@ en elke volgende ton met 0.25 x de basisomslag.
 
 3. De aangeslotene zal zich niet op compensatie met door hem gestelde, geldelijke aanspraken jegens het COKZ kunnen beroepen.
 
-#### Artikel 8
+##### Artikel 8
 
 Bij uittreding resp. toetreding van een aangeslotene in de loop van een boekjaar is voor dat jaar de omslag(en) over de in het jaar van uittreding resp. toetreding hoeveelheden bereid product overeenkomstig het bepaalde in de [artikelen 3 t/m 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010341&artikel=3&z=1999-03-17&g=1999-03-17) verschuldigd.
 
-#### Artikel 9
+##### Artikel 9
 
 Controleboeken, merken en andere controlebescheiden, die door of vanwege het COKZ worden verstrekt, kunnen aan de aangeslotenen in rekening worden gebracht.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een ieder, die producten verhandelt, ten aanzien waarvan bij of krachtens een landbouwkwaliteitsbesluit keuring aan het COKZ is opgedragen, niet zijnde een keuring tijdens of onmiddellijk na de bereiding, is aan het COKZ een vergoeding verschuldigd voor de kosten van deze keuring. De hoogte van de vergoeding wordt door het bestuur vastgesteld op basis van de bij de keuring door of namens het COKZ gemaakte kosten.
 
 2. Het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0010341&artikel=7&z=1999-03-17&g=1999-03-17) is op de in het eerste lid bedoelde vergoeding van overeenkomstige toepassing.
 
-#### Artikel 11
+##### Artikel 11
 
 Het bestuur beslist in alle gevallen, waarin dit reglement niet voorziet.
 
-#### Artikel 12
+##### Artikel 12
 
 Het boekjaar in de zin van dit reglement valt samen met het periodenjaar van het Productschap Zuivel.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit reglement kan worden aangehaald als ’Heffingenregelement COKZ'.

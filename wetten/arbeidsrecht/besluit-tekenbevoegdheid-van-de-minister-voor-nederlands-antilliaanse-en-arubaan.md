@@ -1,24 +1,48 @@
 ---
 title: "Besluit tekenbevoegdheid van de minister voor Nederlands-Antilliaanse en Arubaanse Zaken 1998"
 identifier: "BWBR0009728"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1998-07-01
-laatste_update: 1998-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009728"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1998-07-01"
+last_updated: "1998-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009728"
+soort: "ministeriele-regeling"
+stam_id: "4814613"
+version_id: "6621012"
+internal_id: "C7078251"
+label_id: "4792684"
+dtd_version: "2.0"
+original_entry_into_force: "1998-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009728/1998-07-01/0"
+intitule_bron: "Stcrt.1998-136"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-06-25"
+intitule_published: "1998-07-22"
+intitule_in_force: "1998-07-22"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-136"
+original_signed_date: "1998-06-25"
+original_published_date: "1998-07-22"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1998-07-01"
+jci_1_3: "jci1.3:c:BWBR0009728&z=1998-07-01&g=1998-07-01"
+jci_1_0: "1.0:c:BWBR0009728&g=1998-07-01"
+citeertitel_status: "officieel"
+signed_date: "1998-06-25"
+entry_into_force: "1998-07-01"
 ---
-
 # Besluit tekenbevoegdheid van de minister voor Nederlands-Antilliaanse en Arubaanse Zaken 1998
 
 Overwegende dat het, in verband met de volledige integratie van het Kabinet voor Nederlands-Antilliaanse en Arubaanse Zaken in het ministerie van Binnenlandse Zaken en de daarmee verband houdende vorming van een directoraat-generaal Constitutionele Zaken & Koninkrijksrelaties bij genoemd ministerie per 1 juli 1998, wenselijk is een nieuw besluit inzake de tekenbevoegdheid vast te stellen;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 1. Tekenbevoegdheid bezitten:
 
@@ -48,7 +72,7 @@ In dit besluit wordt verstaan onder:
 
 2. Bij verhindering van een der in het vorige lid genoemde functionarissen heeft diens plaatsvervanger tekenbevoegdheid.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan de minister is voorbehouden de afdoening en ondertekening van stukken bestemd voor:
 
@@ -76,7 +100,7 @@ In dit besluit wordt verstaan onder:
 
 3. In bijzondere gevallen kan voor bepaalde aangelegenheden aan de secretaris-generaal en de plaatsvervangend secretaris-generaal de bevoegdheid worden verleend de in het eerste lid onder a tot en met j bedoelde stukken af te doen.
 
-#### Artikel 4
+##### Artikel 4
 
 De tekenbevoegdheid kan worden uitgeoefend ten aanzien van aangelegenheden die - naar het oordeel van de betrokken functionaris en op zijn verantwoordelijkheid - behoren tot zijn werkterrein en die niet moeten worden voorgelegd aan de naasthogere functionaris, met dien verstande dat:
 
@@ -88,19 +112,19 @@ De tekenbevoegdheid kan worden uitgeoefend ten aanzien van aangelegenheden die -
 
 - 4. geen stukken worden ondertekend, die bij de ontvanger de indruk kunnen wekken, dat de ondertekenaar persoonlijk een beslissing neemt, welke door de minister of staatssecretaris moet worden genomen.
 
-#### Artikel 5
+##### Artikel 5
 
 In bijzondere gevallen kan voor bepaalde aangelegenheden aan andere functionarissen tekenbevoegdheid worden verleend.
 
-#### Artikel 6
+##### Artikel 6
 
 Bij verhindering van de secretaris-generaal en de plaatsvervangend secretaris-generaal wordt de bevoegdheid van de secretaris-generaal tot het namens de minister ondertekenen van stukken uitgeoefend als loco-secretaris-generaal door de directeur-generaal voor Constitutionele Zaken & Koninkrijksrelaties.
 
-#### Artikel 7
+##### Artikel 7
 
 Het besluit van 16 december 1997, inzake de tekenbevoegdheid van functionarissen van het Kabinet voor Nederlands-Antilliaanse en Arubaanse Zaken van het ministerie van Binnenlandse Zaken (BiZa/KabNA) wordt ingetrokken.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als ’Besluit tekenbevoegdheid van de minister voor Nederlands-Antilliaanse en Arubaanse Zaken 1998’ en treedt in werking met ingang van 1 juli 1998.
 

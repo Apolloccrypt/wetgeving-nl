@@ -1,13 +1,38 @@
 ---
 title: "Besluit opheffen beperkingen openbaarheid archief Ministerie van Koloniën: Dossierarchief 1945–1963"
 identifier: "BWBR0040504"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2018-01-16
-laatste_update: 2018-01-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040504"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-01-16"
+last_updated: "2018-01-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040504"
+soort: "ministeriele-regeling"
+stam_id: "14497703"
+version_id: "24818872"
+internal_id: "C35508101"
+label_id: "14456934"
+dtd_version: "2.0"
+original_entry_into_force: "2018-01-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040504/2018-01-16/0"
+intitule_bron: "Stcrt.2018-1646"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-10-26"
+intitule_published: "2018-01-15"
+intitule_in_force: "2018-01-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-1646"
+original_signed_date: "2017-10-26"
+original_published_date: "2018-01-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-1646"
+entry_into_force_date: "2018-01-16"
+jci_1_3: "jci1.3:c:BWBR0040504&z=2018-01-16&g=2018-01-16"
+jci_1_0: "1.0:c:BWBR0040504&g=2018-01-16"
+citeertitel_status: "redactioneel"
+signed_date: "2017-10-26"
+entry_into_force: "2018-01-16"
 ---
-
 # Besluit opheffen beperkingen openbaarheid archief Ministerie van Koloniën: Dossierarchief 1945–1963
 
 Gelet op [artikel 15, derde lid Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15),
@@ -18,7 +43,7 @@ Gehoord de Minister van Buitenlandse Zaken,
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De beperkingen die zijn gesteld aan de openbaarheid van de archiefbescheiden in het archief van het Ministerie van Koloniën: dossierarchief 1945–1963, nummer archiefinventaris 2.10.54, worden opgeheven met uitzondering van de archiefbescheiden die zijn geborgen in de volgende inventarisnummers:
 

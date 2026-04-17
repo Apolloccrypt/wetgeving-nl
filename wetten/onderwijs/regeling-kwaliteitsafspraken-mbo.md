@@ -1,13 +1,39 @@
 ---
-title: "Regeling kwaliteitsafspraken mbo"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 8 december 2014, nr. MBO/664185, houdende regels voor het verhogen van de kwaliteit van het middelbaar beroepsonderwijs (Regeling kwaliteitsafspraken mbo)"
 identifier: "BWBR0035923"
-categorie: "Onderwijs"
-publicatiedatum: 2016-07-20
-laatste_update: 2016-07-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035923"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-07-20"
+last_updated: "2016-07-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035923"
+soort: "ministeriele-regeling"
+stam_id: "12882363"
+version_id: "23482622"
+internal_id: "C33821721"
+label_id: "12851974"
+dtd_version: "2.0"
+original_entry_into_force: "2016-07-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035923/2016-07-20/0"
+intitule_bron: "Stcrt.2014-35959"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-08"
+intitule_published: "2014-12-16"
+intitule_in_force: "2014-12-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-37447"
+original_signed_date: "2016-07-07"
+original_published_date: "2016-07-19"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2016-37447"
+entry_into_force_date: "2016-07-07"
+jci_1_3: "jci1.3:c:BWBR0035923&z=2016-07-20&g=2016-07-20"
+jci_1_0: "1.0:c:BWBR0035923&g=2016-07-20"
+citeertitel_status: "redactioneel"
+short_title: "Regeling kwaliteitsafspraken mbo"
+signed_date: "2016-07-07"
+entry_into_force: "2016-07-07"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 8 december 2014, nr. MBO/664185, houdende regels voor het verhogen van de kwaliteit van het middelbaar beroepsonderwijs (Regeling kwaliteitsafspraken mbo)
 
 Gelet op [artikel 2.2.3, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.3);
@@ -18,7 +44,7 @@ Besluit:
 
 #### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -32,15 +58,15 @@ In deze regeling wordt verstaan onder:
 
 - e. **wet:** de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
 
-#### Artikel 1.2. Doelstelling
+##### Artikel 1.2. Doelstelling
 
 De minister verstrekt aan instellingen voor de kalenderjaren 2015 tot en met 2018 jaarlijks een aanvulling op de bekostiging ten behoeve van activiteiten die erop zijn gericht de kwaliteit van het onderwijs van de instelling te verhogen.
 
-#### Artikel 1.3. Investeringsbudget
+##### Artikel 1.3. Investeringsbudget
 
 De aanvulling op de bekostiging, bedoeld in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=1&artikel=1.2&z=2016-07-20&g=2016-07-20), bestaat uit het investeringsbudget en het resultaatafhankelijk budget.
 
-#### Artikel 1.4. Kwaliteitsplan
+##### Artikel 1.4. Kwaliteitsplan
 
 1. De instellingen stellen voor de kalenderjaren 2015 tot en met 2018 een kwaliteitsplan op.
 
@@ -60,7 +86,7 @@ De aanvulling op de bekostiging, bedoeld in [artikel 1.2](https://wetten.overhei
 
 5. [Artikel 4 van de Regeling OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0028820&artikel=4) is niet van toepassing op subsidieverstrekking op grond van deze regeling.
 
-#### Artikel 1.5. Uitvoering
+##### Artikel 1.5. Uitvoering
 
 1. De instellingen ondertekenen een uitvoeringsovereenkomst met de minister. De ondertekende uitvoeringsovereenkomst wordt uiterlijk op 1 maart 2015 door de instellingen ingediend bij de minister.
 
@@ -72,7 +98,7 @@ De aanvulling op de bekostiging, bedoeld in [artikel 1.2](https://wetten.overhei
 
 5. De minister kan aan de instantie, bedoeld in het derde lid, subsidie verstrekken.
 
-#### Artikel 1.6. Monitor en evaluatie
+##### Artikel 1.6. Monitor en evaluatie
 
 1. De instellingen dienen in 2016, 2017 en 2018 uiterlijk op 1 maart een schriftelijke tussenrapportage over de voortgang van de uitvoering van het kwaliteitsplan in bij de minister.
 
@@ -82,13 +108,13 @@ De aanvulling op de bekostiging, bedoeld in [artikel 1.2](https://wetten.overhei
 
 4. De effecten van de aanpak van het beleid inzake het verhogen van de kwaliteit van het middelbaar beroepsonderwijs worden uiterlijk in 2019 geëvalueerd.
 
-#### Artikel 1.7. Verantwoordingsplicht
+##### Artikel 1.7. Verantwoordingsplicht
 
 De verantwoording van de aanvulling op de bekostiging geschiedt conform het bepaalde in [artikel 9.1, derde lid, onder c, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=9.1).
 
 #### Hoofdstuk 2. Investeringsbudget
 
-#### Artikel 2.1. Investeringsbudget
+##### Artikel 2.1. Investeringsbudget
 
 Het investeringsbudget wordt aan de instellingen verstrekt ten behoeve van het verhogen van de kwaliteit van het onderwijs van de instelling, in het bijzonder ten behoeve van de thema’s:
 
@@ -104,7 +130,7 @@ Het investeringsbudget wordt aan de instellingen verstrekt ten behoeve van het v
 
 - f. verbeteren van studiewaarde.
 
-#### Artikel 2.2. Subsidieplafond
+##### Artikel 2.2. Subsidieplafond
 
 1. De subsidieplafonds worden jaarlijks bekendgemaakt in de Staatscourant.
 
@@ -112,7 +138,7 @@ Het investeringsbudget wordt aan de instellingen verstrekt ten behoeve van het v
 
 3. Voor het kalenderjaar 2015 is voor het verstrekken van het investeringsbudget dat is bedoeld voor het thema stimuleren van excellentie maximaal 24,0 miljoen euro beschikbaar.
 
-#### Artikel 2.3. Verdeling
+##### Artikel 2.3. Verdeling
 
 1. Het in [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=2&artikel=2.2&z=2016-07-20&g=2016-07-20), genoemde bedrag wordt als volgt verdeeld over de instellingen die voldoen aan de subsidievoorwaarden, bedoeld in de [artikelen 1.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=1&artikel=1.4&z=2016-07-20&g=2016-07-20), en [1.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=1&artikel=1.5&z=2016-07-20&g=2016-07-20),:
 
@@ -122,7 +148,7 @@ Het investeringsbudget wordt aan de instellingen verstrekt ten behoeve van het v
 
 2. Het in [artikel 2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=2&artikel=2.2&z=2016-07-20&g=2016-07-20), genoemde bedrag wordt verdeeld over de instellingen die aan de in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=2&artikel=2.4&z=2016-07-20&g=2016-07-20) bedoelde voorwaarde voldoen naar rato van het totaal van de rijksbijdragedelen voor die instelling, zoals die voor dat kalenderjaar op grond van [artikel 2.2.1, eerste lid, van het Uitvoeringsbesluit WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.2.1) zijn berekend.
 
-#### Artikel 2.4. Stimuleren van excellentie
+##### Artikel 2.4. Stimuleren van excellentie
 
 1. Instellingen die in aanmerking willen komen voor het deel van het investeringsbudget dat is bedoeld voor het thema stimuleren van excellentie, dienen dit thema in het kwaliteitsplan op te nemen. [Artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=1&artikel=1.4&z=2016-07-20&g=2016-07-20) is van overeenkomstige toepassing.
 
@@ -130,13 +156,13 @@ Het investeringsbudget wordt aan de instellingen verstrekt ten behoeve van het v
 
 3. Het investeringsbudget dat is bedoeld voor het thema stimuleren van excellentie wordt uitsluitend toegekend aan instellingen waarvan dit onderdeel van het kwaliteitsplan door de minister is goedgekeurd.
 
-#### Artikel 2.5. Betaling
+##### Artikel 2.5. Betaling
 
 1. De betaling van het investeringsbudget vindt plaats volgens het kasritme van de betaling van de rijksbijdrage, bedoeld in [artikel 2.2.4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.4). De eerste betaling vindt plaats in de maand mei 2015.
 
 2. In afwijking van het eerste lid vindt de eerste betaling van het deel van het investeringsbudget dat is bedoeld voor het thema stimuleren van excellentie, voor zover instellingen daarvoor in aanmerking komen, plaats in de maand september 2015.
 
-#### Artikel 2.6. Betaling
+##### Artikel 2.6. Betaling
 
 1. De betaling van het investeringsbudget vindt plaats volgens het kasritme van de betaling van de rijksbijdrage, bedoeld in [artikel 2.2.4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.4). De eerste betaling vindt plaats in de maand mei 2015.
 
@@ -176,7 +202,7 @@ De instellingen formuleren het kwaliteitsplan mede met het oog op de verwachte r
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1.8. Besteding
+##### Artikel 1.8. Besteding
 
 De aanvulling op de bekostiging kan ook worden aangewend voor andere activiteiten van de onderwijsinstelling dan waarvoor deze aanvullende vergoeding wordt verstrekt.
 
@@ -184,7 +210,7 @@ De aanvulling op de bekostiging kan ook worden aangewend voor andere activiteite
 
 #### Hoofdstuk 3. Resultaatafhankelijk budget
 
-#### Artikel 3.1. Begripsbepalingen
+##### Artikel 3.1. Begripsbepalingen
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -210,17 +236,17 @@ In dit hoofdstuk wordt verstaan onder:
 
 - k. **vooropleiding:** de vooropleiding, bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&bijlage=4&z=2016-07-20&g=2016-07-20).
 
-#### Artikel 3.2. Resultaatafhankelijk budget
+##### Artikel 3.2. Resultaatafhankelijk budget
 
 De minister kan een resultaatafhankelijk budget verstrekken aan de instellingen voor zover zij deelnemers naar een diploma van een zo hoog mogelijk niveau, gegeven hun vooropleiding, hebben begeleid.
 
-#### Artikel 3.3. Subsidieplafond
+##### Artikel 3.3. Subsidieplafond
 
 1. De subsidieplafonds worden jaarlijks bekendgemaakt in de Staatscourant.
 
 2. Voor het kalenderjaar 2016 is voor het verstrekken van het resultaatafhankelijk budget maximaal 99 miljoen euro beschikbaar.
 
-#### Artikel 3.4. Studiewaarde
+##### Artikel 3.4. Studiewaarde
 
 1. De minister stelt de studiewaarde vast door per diploma het verschil te berekenen tussen de diplomawaarde en de referentiewaarde die hoort bij de vooropleiding van de deelnemer die het diploma heeft behaald.
 
@@ -232,7 +258,7 @@ De minister kan een resultaatafhankelijk budget verstrekken aan de instellingen 
 
 5. Indien in een eenheid in de schooljaren 2011 tot en met 2014 gemiddeld minder dan vijftig diploma’s per schooljaar zijn behaald, wordt de gemiddelde studiewaarde van de eenheid in afwijking van het vierde lid gelijkgesteld aan de gemiddelde studiewaarde van het opleidingsdomein binnen de instelling waartoe de eenheid behoort. Indien ook in dit opleidingsdomein gemiddeld minder dan vijftig diploma’s per schooljaar zijn behaald, wordt de studiewaarde gelijkgesteld aan de gemiddelde studiewaarde van de instelling in de schooljaren 2011 tot en met 2014.
 
-#### Artikel 3.5. Basiswaarde
+##### Artikel 3.5. Basiswaarde
 
 1. De basiswaarde van een eenheid wordt bepaald aan de hand van de gemiddelde studiewaarde van de eenheid in de schooljaren 2011 tot en met 2014.
 
@@ -240,7 +266,7 @@ De minister kan een resultaatafhankelijk budget verstrekken aan de instellingen 
 
 3. De minister stelt de basiswaarden van de eenheden per instelling uiterlijk binnen twee maanden na publicatie van deze regeling bij beschikking vast.
 
-#### Artikel 3.6. Verdeling
+##### Artikel 3.6. Verdeling
 
 1. De minister verdeelt het in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=3&artikel=3.3&z=2016-07-20&g=2016-07-20) bedoelde bedrag voor het desbetreffende kalenderjaar over de instellingen op basis van de diploma’s behaald in het schooljaar voorafgaand aan het desbetreffende kalenderjaar.
 
@@ -254,7 +280,7 @@ De minister kan een resultaatafhankelijk budget verstrekken aan de instellingen 
 
 6. Indien het resultaat van de in [artikel 3.7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=3&artikel=3.7&z=2016-07-20&g=2016-07-20), en [artikel 3.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=3&artikel=3.8&z=2016-07-20&g=2016-07-20), bedoelde verdeelsleutels zou zijn dat het maximum, bedoeld in het vijfde lid, wordt overschreden, dan wordt het bedrag waarmee het maximum wordt overschreden verdeeld over de instellingen naar rato van het bedrag dat zij op grond van artikel 3.7, eerste lid, en 3.8, eerste lid, ontvangen.
 
-#### Artikel 3.7. Landelijk budget voor behoud
+##### Artikel 3.7. Landelijk budget voor behoud
 
 1. Het deel van het landelijk budget voor behoud waarvoor een instelling in aanmerking komt, is de som van het bedrag waarvoor de eenheden binnen die instelling op grond van het tweede en derde lid gezamenlijk worden meegerekend.
 
@@ -266,7 +292,7 @@ De minister kan een resultaatafhankelijk budget verstrekken aan de instellingen 
 
 Hierin staat **DiEh** voor het aantal diploma’s dat is behaald in het schooljaar van de eenheid die voor het landelijk budget voor behoud in aanmerking komt; **LTB** voor het landelijk totaal van de diploma’s die zijn behaald in het schooljaar van alle eenheden die in aanmerking komen voor het landelijk budget voor behoud; en **LBB** voor het landelijk budget voor behoud.
 
-#### Artikel 3.8. Landelijk budget voor verbetering
+##### Artikel 3.8. Landelijk budget voor verbetering
 
 1. Het deel van het landelijk budget voor verbetering waarvoor een instelling in aanmerking komt is de som van het bedrag waarvoor de eenheden binnen die instelling op grond van het tweede lid gezamenlijk worden meegerekend.
 
@@ -276,21 +302,21 @@ Hierin staat **DiEh** voor het aantal diploma’s dat is behaald in het schoolja
 
 Hierin staat **dE** voor elke eenheid voor het positieve verschil tussen de gemiddelde studiewaarde en de basiswaarde, met dien verstande dat indien het positieve verschil groter is dan 0,1, dE wordt vastgesteld op 0,1; **DiE** voor het aantal diploma’s in de eenheid die in aanmerking komt voor het landelijk budget voor verbetering; **LTV** voor het landelijk totaal van **dE** maal **DiE** voor alle eenheden met verbetering; en **LBV** voor het landelijk budget voor verbetering.
 
-#### Artikel 3.9. Betaling
+##### Artikel 3.9. Betaling
 
 De betaling van het resultaatafhankelijk budget vindt jaarlijks plaats in de maand november van het betreffende kalenderjaar.
 
-#### Artikel 3.10. Fusie en splitsing
+##### Artikel 3.10. Fusie en splitsing
 
 1. In geval van fusie van instellingen betrekt de minister bij de toepassing van dit hoofdstuk de gegevens van de instellingen die in de gefuseerde instelling zijn opgegaan en berekent het deel van het resultaatafhankelijk budget waarvoor de instelling in aanmerking komt voor de gefuseerde instelling op basis van die gegevens.
 
 2. In geval van splitsing van instellingen betrekt de minister bij de toepassing van dit hoofdstuk de afspraken omtrent de toerekening van de gegevens aan elk van de instellingen die daarover door de betrokken bevoegde gezagsorganen zijn gemaakt, blijkend uit een door die bevoegde gezagsorganen aan de minister overgelegde en ondertekende verklaring dienaangaande.
 
-#### Artikel 3.11. Onvoorziene omstandigheden
+##### Artikel 3.11. Onvoorziene omstandigheden
 
 Indien meer dan een derde van de instellingen niet in aanmerking komt voor het resultaatafhankelijk budget als gevolg van omstandigheden waarop de instellingen geen invloed hebben, dan kan de minister met inachtneming van het subsidieplafond besluiten om voor alle instellingen de basiswaarden, de grenswaarden dan wel de referentiewaarden opnieuw vast te stellen.
 
-#### Artikel 3.12. Invoeringsbepaling
+##### Artikel 3.12. Invoeringsbepaling
 
 1. Voor het kalenderjaar 2016 wordt de hoogte van het resultaatafhankelijk budget als volgt berekend:
 
@@ -526,7 +552,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### Hoofdstuk 4. Resultaatafhankelijk budget beroepspraktijkvorming
 
-#### Artikel 4.1. Begripsbepalingen
+##### Artikel 4.1. Begripsbepalingen
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -542,11 +568,11 @@ In dit hoofdstuk wordt verstaan onder:
 
 - f. **verbeterplan bpv:** plan waarin de instelling onderbouwd de beoogde resultaten en de maatregelen beschrijft die nodig zijn voor verbetering van de bpv.
 
-#### Artikel 4.2. Budget beroepspraktijkvorming
+##### Artikel 4.2. Budget beroepspraktijkvorming
 
 De minister kan in 2017 en 2018 een resultaatafhankelijk budget bpv verstrekken aan instellingen die de resultaten ten aanzien van de kwaliteit van de bpv hebben verbeterd ten opzichte van de uitgangssituatie in 2016.
 
-#### Artikel 4.3. Verdeling
+##### Artikel 4.3. Verdeling
 
 1. Het resultaatafhankelijk budget bpv wordt verdeeld over de instellingen die tenminste voldoende verbetering hebben gerealiseerd.
 
@@ -562,7 +588,7 @@ LT S x F voor het gewogen landelijk totaal voor alle instellingen;
 
 LBbpv voor het vastgestelde subsidieplafond.
 
-#### Artikel 4.4. Verbeterplan bpv
+##### Artikel 4.4. Verbeterplan bpv
 
 1. Om in aanmerking te kunnen komen het resultaatafhankelijk budget bpv stellen de instellingen een verbeterplan bpv op dat voldoet aan de voorschriften, opgenomen in de [artikelen 4.5 tot en met 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=4&artikel=4.5&z=2016-07-20&g=2016-07-20).
 
@@ -574,7 +600,7 @@ LBbpv voor het vastgestelde subsidieplafond.
 
 5. Indien het verbeterplan bpv na de in het tweede, derde of vierde lid genoemde termijn door de minister is ontvangen, komt de instelling niet in aanmerking voor het resultaatafhankelijk budget bpv.
 
-#### Artikel 4.5. Inhoud verbeterplan bpv
+##### Artikel 4.5. Inhoud verbeterplan bpv
 
 Het verbeterplan bpv bevat tenminste de volgende onderdelen:
 
@@ -584,7 +610,7 @@ Het verbeterplan bpv bevat tenminste de volgende onderdelen:
 
 - c. een overzicht van de maatregelen waarmee de beoogde resultaten kunnen worden gerealiseerd.
 
-#### Artikel 4.6. Analyse uitgangssituatie
+##### Artikel 4.6. Analyse uitgangssituatie
 
 1. De analyse, bedoeld [artikel 4.5, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=4&artikel=4.5&z=2016-07-20&g=2016-07-20), heeft in elk geval betrekking op de volgende aspecten van de bpv:
 
@@ -598,7 +624,7 @@ Het verbeterplan bpv bevat tenminste de volgende onderdelen:
 
 3. Indien uit de analyse, bedoeld in [artikel 4.5, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=4&artikel=4.5&z=2016-07-20&g=2016-07-20), blijkt dat een aspect, bedoeld in het eerste, geen verbetering behoeft, kan de instelling gemotiveerd dat aspect buiten beschouwing laten.
 
-#### Artikel 4.7. Overzicht beoogde resultaten en indicatoren
+##### Artikel 4.7. Overzicht beoogde resultaten en indicatoren
 
 1. De instelling formuleert de beoogde resultaten in het verbeterplan bpv ambitieus en haalbaar.
 
@@ -610,11 +636,11 @@ Het verbeterplan bpv bevat tenminste de volgende onderdelen:
 
 5. De instelling kan bij de resultatenrapportage bpv over 2017 het verbeterplan bpv aanvullen met een of meer beoogde resultaten voor 2018, indien de uitkomsten en de methodologische onderbouwing van de enquête leerbedrijven over 2016 daartoe aanleiding geven. Het eerste tot en met vierde lid, [artikel 4.5 onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=4&artikel=4.5&z=2016-07-20&g=2016-07-20), [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=4&artikel=4.6&z=2016-07-20&g=2016-07-20) en [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=4&artikel=4.8&z=2016-07-20&g=2016-07-20) zijn van overeenkomstige toepassing.
 
-#### Artikel 4.8. Draagvlak verbeterplan bpv
+##### Artikel 4.8. Draagvlak verbeterplan bpv
 
 De instelling stemt het verbeterplan bpv af met vertegenwoordigers van de bpv-begeleiders, de leerbedrijven en de deelnemers.
 
-#### Artikel 4.9. Collegiale consultatie verbeterplan bpv
+##### Artikel 4.9. Collegiale consultatie verbeterplan bpv
 
 1. De instelling verklaart in het verbeterplan bpv dat de instelling bereid is deel te nemen aan een collegiale consultatie.
 
@@ -622,7 +648,7 @@ De instelling stemt het verbeterplan bpv af met vertegenwoordigers van de bpv-be
 
 3. De instelling neemt de opbrengsten van de collegiale consultatie voor zover beschikbaar op in de resultatenrapportage bpv over 2017 en 2018.
 
-#### Artikel 4.10. Beoordeling verbeterplan bpv
+##### Artikel 4.10. Beoordeling verbeterplan bpv
 
 1. De instantie beoordeelt of het verbeterplan bpv voldoet aan de voorschriften, bedoeld in de [artikelen 4.5 tot en met 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=4&artikel=4.5&z=2016-07-20&g=2016-07-20).
 
@@ -634,7 +660,7 @@ De instelling stemt het verbeterplan bpv af met vertegenwoordigers van de bpv-be
 
 5. In geval toepassing is gegeven aan [artikel 4.7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=4&artikel=4.7&z=2016-07-20&g=2016-07-20), adviseert de instantie de minister uiterlijk op 31 oktober 2017.
 
-#### Artikel 4.11. Besluit minister; afwijzingsgrond
+##### Artikel 4.11. Besluit minister; afwijzingsgrond
 
 1. De minister besluit uiterlijk op 31 januari 2017 op basis van het advies van de instantie of het verbeterplan bpv van de instelling voldoet aan de voorschriften, bedoeld in de [artikelen 4.5 tot en met 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=4&artikel=4.5&z=2016-07-20&g=2016-07-20).
 
@@ -642,11 +668,11 @@ De instelling stemt het verbeterplan bpv af met vertegenwoordigers van de bpv-be
 
 3. De minister besluit uiterlijk op 30 november 2017 op het aangevulde verbeterplan bpv, bedoeld in [artikel 4.7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=4&artikel=4.7&z=2016-07-20&g=2016-07-20). Indien de minister de aanvulling niet goedkeurt, maakt dit beoogde resultaat geen deel uit van de beoordeling van de resultatenrapportage bpv over 2018.
 
-#### Artikel 4.12. Resultatenrapportage bpv
+##### Artikel 4.12. Resultatenrapportage bpv
 
 De instelling draagt er zorg voor dat de minister uiterlijk op 15 augustus van de betreffende jaren de resultatenrapportage bpv heeft ontvangen. De instelling zendt een afschrift van de resultatenrapportage bpv aan de instantie.
 
-#### Artikel 4.13. Beoordeling resultaten bpv door de instantie
+##### Artikel 4.13. Beoordeling resultaten bpv door de instantie
 
 1. De instantie geeft een oordeel over de behaalde resultaten per aspect, bedoeld in [artikel 4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=4&artikel=4.6&z=2016-07-20&g=2016-07-20), van het verbeterplan bpv en een oordeel over het geheel van de behaalde resultaten voor het betreffende jaar door de instelling.
 
@@ -656,7 +682,7 @@ De instelling draagt er zorg voor dat de minister uiterlijk op 15 augustus van d
 
 4. Het oordeel in het eerste lid heeft betrekking op het bereik van de resultaten en de grootte van de gerealiseerde verbetering, zoals omschreven in [artikel 4.7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=4&artikel=4.7&z=2016-07-20&g=2016-07-20). Bij de beoordeling houdt de instantie rekening met het belang dat de instelling in het verbeterplan heeft toegekend aan de verschillende aspecten en beoogde resultaten.
 
-#### Artikel 4.14. Classificatie beoordeling resultaten bpv
+##### Artikel 4.14. Classificatie beoordeling resultaten bpv
 
 1. De instantie drukt het resultaat van de beoordeling per aspect en het oordeel over het geheel van de behaalde resultaten uit in de classificatie ‘onvoldoende’, ‘voldoende’ of ‘goed’.
 
@@ -670,17 +696,17 @@ De instelling draagt er zorg voor dat de minister uiterlijk op 15 augustus van d
 
 6. De instantie adviseert de minister uiterlijk op 30 september van het desbetreffende jaar over zijn oordelen bedoeld in het eerste tot en met het vierde lid.
 
-#### Artikel 4.15. Besluit minister; afwijzingsgronden
+##### Artikel 4.15. Besluit minister; afwijzingsgronden
 
 1. De minister besluit uiterlijk op 31 oktober van het desbetreffende jaar over de toekenning aan een instelling van het aandeel in het resultaatafhankelijke budget op basis van de behaalde resultaten.
 
 2. Het resultaatafhankelijke budget bpv wordt geweigerd indien de door de instelling behaalde resultaten in relatie tot de beoogde resultaten onvoldoende zijn of indien de resultatenrapportage bpv na de in [artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=4&artikel=4.12&z=2016-07-20&g=2016-07-20) genoemde datum wordt ontvangen.
 
-#### Artikel 4.16. Betaling van het resultaatafhankelijk budget bpv
+##### Artikel 4.16. Betaling van het resultaatafhankelijk budget bpv
 
 De betaling van het resultaatafhankelijk budget bpv vindt in 2017 en 2018 in december plaats.
 
-#### Artikel 4.17. Onvoorziene omstandigheden
+##### Artikel 4.17. Onvoorziene omstandigheden
 
 Indien in een jaar meer dan de helft van de bekostigde deelnemers, bedoeld in [artikel 4.13, tweede lid, onder S](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=4&artikel=4.13&z=2016-07-20&g=2016-07-20), zijn ingeschreven op instellingen die niet in aanmerking komen voor het resultaatafhankelijk budget bpv op grond van [artikel 4.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=4&artikel=4.14&z=2016-07-20&g=2016-07-20), dan kan de minister met inachtneming van het subsidieplafond besluiten om de normen voor de classificatie, bedoeld in [artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035923&artikel=I&hoofdstuk=4&artikel=4.12&z=2016-07-20&g=2016-07-20) of de waarde, bedoeld in artikel 4.13, tweede lid, onder F, voor de verdeling in 2017 of 2018 te herzien.
 

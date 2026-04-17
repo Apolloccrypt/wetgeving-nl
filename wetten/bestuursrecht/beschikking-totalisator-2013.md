@@ -1,18 +1,43 @@
 ---
 title: "Beschikking totalisator 2013"
 identifier: "BWBR0033746"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-08-06
-laatste_update: 2013-08-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033746"
+country: "nl"
+rank: "zbo"
+publication_date: "2013-08-06"
+last_updated: "2013-08-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033746"
+soort: "zbo"
+stam_id: "12332413"
+version_id: "20682582"
+internal_id: "C29641651"
+label_id: "12303554"
+dtd_version: "2.0"
+original_entry_into_force: "2013-08-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033746/2013-08-06/0"
+intitule_bron: "Stcrt.2013-21974"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-06-19"
+intitule_published: "2013-08-06"
+intitule_in_force: "2013-08-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-21974"
+original_signed_date: "2013-06-19"
+original_published_date: "2013-08-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-21974"
+entry_into_force_date: "2013-08-06"
+jci_1_3: "jci1.3:c:BWBR0033746&z=2013-08-06&g=2013-08-06"
+jci_1_0: "1.0:c:BWBR0033746&g=2013-08-06"
+citeertitel_status: "officieel"
+signed_date: "2013-06-19"
+entry_into_force: "2013-08-06"
 ---
-
 # Beschikking totalisator 2013
 
 Op grond van [artikel 24 van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=24) verleent de raad van bestuur van de Kansspelautoriteit aan Sportech Racing B.V., een besloten vennootschap naar Nederlands recht gevestigd in ’s Gravenhage, de vergunning tot het organiseren van een totalisator voor de periode van 1 juli 2013 tot en met 30 september 2013.
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
 
@@ -40,13 +65,13 @@ In deze beschikking wordt verstaan onder:
 
 - l. **lokale pool:** een pool waarin de weddenschappen in Nederland, die ten aanzien van harddraverijen en paardenrennen in het binnenland of het buitenland zijn afgesloten, worden samengevoegd ten behoeve van het voor uitkering beschikbare bedrag.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De vergunning wordt verleend onder de voorwaarde dat Sportech Plc, gevestigd in Londen, UK of een 100%-dochter vennootschap van Sportech Plc enig aandeelhouder van de vennootschap is. Sportech Plc is gehouden in te staan voor de nakoming van alle verplichtingen van de vennootschap onder de vergunning.
 
 2. Aan de in het eerste lid bedoelde vergunning worden de in [artikel 3 tot en met artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0033746&artikel=3&z=2013-08-06&g=2013-08-06) vervatte voorschriften verbonden, die zonodig kunnen worden gewijzigd of aangevuld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het is de vennootschap toegestaan een totalisator te organiseren:
 
@@ -60,7 +85,7 @@ In deze beschikking wordt verstaan onder:
 
 3. De raad van bestuur kan een andere rechtspersoon dan de NDR aanwijzen voor de toepassing van dit artikel.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het is de vennootschap toegestaan weddenschappen af te sluiten:
 
@@ -78,7 +103,7 @@ In deze beschikking wordt verstaan onder:
 
 2. Het is de vennootschap voorts toegestaan weddenschappen af te sluiten langs direct elektronische weg.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De totalisator wordt georganiseerd met inachtneming van de vergunningvoorschriften, de statuten en reglementen van de vennootschap.
 
@@ -90,15 +115,15 @@ In deze beschikking wordt verstaan onder:
 
 5. In alle aankondigingen en voor openbaarmaking of verspreiding bestemde stukken wordt vermeld dat voor het organiseren van een totalisator vergunning is verleend door de raad van bestuur, onder aanhaling van datum en kenmerk van deze beschikking.
 
-#### Artikel 6
+##### Artikel 6
 
 De vennootschap houdt van de totale inzet per koers, vóór de verdeling aan de winnaars van de weddenschappen, een bedrag in van 2,5%, van welk bedrag 8% is bestemd voor de Koninklijke Fondsen en 92%, volgens een door de raad van bestuur te bepalen verdeelsleutel, ter bevordering van de draf- en rensport in Nederland, volgens een door de raad van bestuur te bepalen verdeelsleutel.
 
-#### Artikel 7
+##### Artikel 7
 
 De vennootschap draagt aan de NDR de bedragen af in overeenstemming met de tussen de vennootschap en de NDR bestaande samenwerkingsovereenkomst.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Binnen vier weken na afloop van enige maand draagt de vennootschap het bedrag, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033746&artikel=6&z=2013-08-06&g=2013-08-06), aan de begunstigden af.
 
@@ -108,13 +133,13 @@ De vennootschap draagt aan de NDR de bedragen af in overeenstemming met de tusse
 
 4. De begunstigden, bedoeld in het eerste lid, verantwoorden jaarlijks aan de vennootschap de rechtmatigheid en doelmatigheid van de besteding van de bedragen, aan hen door de vennootschap afgedragen. De vennootschap doet hierover verslag aan de raad van bestuur.
 
-#### Artikel 9
+##### Artikel 9
 
 De vennootschap zendt binnen vier weken na het einde van elk kwartaal aan de raad van bestuur en de NDR een verslag van de exploitatie van de totalisator, alsmede andere door de raad van bestuur noodzakelijk geachte gegevens, over dat kwartaal.
 
 De raad van bestuur kan aanwijzingen geven omtrent de inrichting van het verslag.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De vennootschap stelt een jaarrekening en een jaarverslag op welke voldoen aan de eisen gesteld in [Boek 2, Titel 9, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9). De raad van bestuur kan aanwijzingen geven omtrent de inrichting van de jaarrekening en het jaarverslag.
 
@@ -124,13 +149,13 @@ De raad van bestuur kan aanwijzingen geven omtrent de inrichting van het verslag
 
 4. Binnen vier maanden na afloop van een kalenderjaar zendt de vennootschap de jaarrekening met het verslag en de verklaring, alsmede het jaarverslag aan de raad van bestuur en de NDR.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De vennootschap zorgt voor een doelmatige administratie, organisatie en uitvoering van de krachtens deze vergunning georganiseerde totalisator.
 
 2. De vennootschap neemt de nodige maatregelen met het oog op de naleving van de aan deze vergunning verbonden voorschriften en de op grond daarvan opgestelde reglementen door de organisaties en personen die op enigerlei wijze bij de administratie, organisatie en uitvoering van de totalisator zijn betrokken.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het aantal locaties, bedoeld in [artikel 4, eerste lid, onder b, c, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0033746&artikel=4&z=2013-08-06&g=2013-08-06), bedraagt in totaal ten hoogste honderd.
 
@@ -138,7 +163,7 @@ De raad van bestuur kan aanwijzingen geven omtrent de inrichting van het verslag
 
 3. Voor andere dan de in het tweede lid genoemde voorzieningen in een wedkantoor ten behoeve van de bezoeker die geen verband houden met de organisatie van de totalisator is de voorafgaande goedkeuring van de raad van bestuur nodig, behoudens in geval van nevenactiviteiten van beperkte omvang die het karakter van een wedkantoor niet wijzigen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Uitgesloten als locaties, bedoeld in [artikel 4, eerste lid, onder b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0033746&artikel=4&z=2013-08-06&g=2013-08-06), zijn:
 
@@ -148,7 +173,7 @@ De raad van bestuur kan aanwijzingen geven omtrent de inrichting van het verslag
 
 2. De vennootschap stelt de gelegenheid open tot het afsluiten van weddenschappen in een locatie als bedoeld in [artikel 4, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0033746&artikel=4&z=2013-08-06&g=2013-08-06), tot uiterlijk één uur voor de aanvang van de eerste koers van de koersdag waarop de weddenschap betrekking heeft, behoudens voor zover de mogelijkheid tot het afsluiten van weddenschappen wordt geboden door middel van mechanische, elektrische of elektronische voorzieningen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Onverminderd [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033746&artikel=13&z=2013-08-06&g=2013-08-06), is het de vennootschap toegestaan in ten hoogste twintig wedcafés weddenschappen af te sluiten.
 
@@ -166,7 +191,7 @@ De raad van bestuur kan aanwijzingen geven omtrent de inrichting van het verslag
 
 - e. de veiligheid van het personeel en bezoekers.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De vennootschap gaat het ongeoorloofd wedden en het aanbieden of verlenen van bemiddeling tot wedden op de uitslag van de harddraverijen en paardenrennen zoveel mogelijk tegen en verleent daartoe al haar medewerking aan personen, die zijn belast met de opsporing van overtreding van [artikel 27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27).
 
@@ -174,19 +199,19 @@ De raad van bestuur kan aanwijzingen geven omtrent de inrichting van het verslag
 
 3. Van de bevindingen van de vennootschap betreffende het ongeoorloofd wedden en het aanbieden of verlenen van bemiddeling tot wedden op de uitslag van harddraverijen en paardenrennen, alsmede van de daartegen genomen maatregelen, wordt mededeling gedaan in het jaarverslag.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Als deelnemers aan de totalisator mogen niet worden toegelaten personen die nog niet de leeftijd van achttien jaren hebben bereikt.
 
 2. Indien als winnaar in de totalisator wordt aangewezen een persoon die ingevolge het eerste lid niet als deelnemer mocht worden toegelaten of een persoon die bij de deelneming gehandeld heeft in strijd met de door de vennootschap gestelde voorwaarden, wordt de desbetreffende deelneming buiten aanmerking gelaten.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het is de vennootschap terzake van de weddenschapvormen ‘Winnend’, ‘Plaats’, ‘Duo/Koppel’ en ‘Dubbel Winnend’ niet toegestaan weddenschappen aan te bieden of af te sluiten welke een inzet van € 250,– per weddenschap te boven gaan. Voor de weddenschapvormen ‘Trio’, ‘Kwartet’, ‘V75’, ‘V65’, ‘V5’, ‘V3’, en ‘Bigsix’ geldt per weddenschap een limitering van € 1.000,–.
 
 2. Het is de vennootschap niet toegestaan geldleningen te verstrekken aan spelers of van deze te ontvangen.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De vennootschap treft de noodzakelijke maatregelen en voorzieningen om onmatige deelneming aan de totalisator zo veel mogelijk te voorkomen.
 
@@ -198,7 +223,7 @@ De raad van bestuur kan aanwijzingen geven omtrent de inrichting van het verslag
 
 5. De vennootschap neemt bij haar wervings- en reclameactiviteiten de haar door de raad van bestuur gegeven aanwijzingen in acht.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De mechanische, elektrische en elektronische processen die gebruikt worden bij de deelneming, prijsbepaling en vaststelling van de winnaars van de krachtens deze vergunning georganiseerde totalisator, zijn onderworpen aan een voorafgaande goedkeuring en periodieke controle door één of meer door de raad van bestuur aangewezen onafhankelijke deskundigen of keuringsinstellingen.
 
@@ -206,10 +231,10 @@ De raad van bestuur kan aanwijzingen geven omtrent de inrichting van het verslag
 
 3. Van de bevindingen van de in het eerste lid bedoelde onafhankelijke deskundigen of keuringsinstellingen wordt uiterlijk binnen drie maanden na afloop van een kalenderjaar verslag gedaan aan de raad van bestuur.
 
-#### Artikel 20
+##### Artikel 20
 
 De kosten verbonden aan de goedkeuring, controle en onderzoek ingevolge de [artikelen 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033746&artikel=11&z=2013-08-06&g=2013-08-06), en [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033746&artikel=19&z=2013-08-06&g=2013-08-06), zijn voor rekening van de vennootschap.
 
-#### Artikel 21
+##### Artikel 21
 
 Deze beschikking wordt in de Staatscourant geplaatst en aangehaald als: Beschikking totalisator 2013

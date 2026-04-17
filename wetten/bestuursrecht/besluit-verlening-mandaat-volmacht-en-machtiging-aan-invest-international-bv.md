@@ -1,20 +1,46 @@
 ---
-title: "Besluit verlening mandaat, volmacht en machtiging aan Invest International B.V."
+title: "Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 17 september 2021, nr. Min-BuZa.2021.9219-10, tot verlening van mandaat, volmacht en machtiging aan Invest International B.V"
 identifier: "BWBR0045642"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-02-01
-laatste_update: 2023-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045642"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-02-01"
+last_updated: "2023-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045642"
+soort: "ministeriele-regeling"
+stam_id: "16083383"
+version_id: "28017772"
+internal_id: "C39523261"
+label_id: "16014534"
+dtd_version: "2.0"
+original_entry_into_force: "2021-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045642/2023-02-01/0"
+intitule_bron: "Stcrt.2021-41799"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-09-17"
+intitule_published: "2021-09-27"
+intitule_in_force: "2021-09-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-41799"
+original_signed_date: "2021-09-17"
+original_published_date: "2021-09-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-41799"
+entry_into_force_date: "2021-10-01"
+jci_1_3: "jci1.3:c:BWBR0045642&z=2023-02-01&g=2023-02-01"
+jci_1_0: "1.0:c:BWBR0045642&g=2023-02-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit verlening mandaat, volmacht en machtiging aan Invest International B.V."
+signed_date: "2021-09-17"
+entry_into_force: "2021-10-01"
 ---
-
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 17 september 2021, nr. Min-BuZa.2021.9219-10, tot verlening van mandaat, volmacht en machtiging aan Invest International B.V
 
 Gelet op [artikel 4, eerste lid, onderdelen c en d, van de Machtigingswet oprichting Invest International](https://wetten.overheid.nl/jci1.3:c:BWBR0045430&artikel=4), de [Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366), [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1) en [titel 3.3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&titeldeel=3);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Aan de Chief Executive Officer van Invest International B.V. wordt mandaat, volmacht en machtiging verleend om namens de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking besluiten te nemen, rechtshandelingen te verrichten alsmede de daartoe benodigde voorbereidingshandelingen en daarmee samenhangende werkzaamheden te verrichten:
 
@@ -50,11 +76,11 @@ Besluit:
 
 4. De op grond van het eerste en derde lid verleende bevoegdheden strekken zich mede uit tot het nemen van besluiten op bezwaarschriften voor zover het besluit waartegen het bezwaar zich richt niet door de Chief Executive Officer van Invest International B.V. in mandaat is genomen, en tot het voeren van beroepsprocedures over de krachtens die bevoegdheden genomen besluiten.
 
-#### Artikel 2
+##### Artikel 2
 
 De Chief Executive Officer van Invest International B.V. kan voor zijn bevoegdheden, bedoeld in [artikel 1, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045642&artikel=1&z=2023-02-01&g=2023-02-01), ondermandaat, volmacht en machtiging verlenen aan één of meer onder hem ressorterende medewerkers die tevens werkzaam zijn ten behoeve van Invest International Public Programmes B.V., dan wel aan medewerkers van Invest International Public Programmes B.V.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van 1 oktober 2021.
 

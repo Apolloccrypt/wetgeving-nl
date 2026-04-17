@@ -1,13 +1,39 @@
 ---
-title: "Besluit aanwijzing CSIRT voor digitale diensten en vaststelling tijdstip inwerkingtreding Wet en Besluit beveiliging netwerk- en informatiesystemen"
+title: "Besluit van 30 oktober 2018 tot aanwijzing van het CSIRT voor digitale diensten en tot vaststelling van het tijdstip van inwerkingtreding van de Wet en het Besluit beveiliging netwerk- en informatiesystemen"
 identifier: "BWBR0041536"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041536"
+country: "nl"
+rank: "kb"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041536"
+soort: "KB"
+stam_id: "14854733"
+version_id: "25406242"
+internal_id: "C36271001"
+label_id: "14806214"
+dtd_version: "2.0"
+original_entry_into_force: "2018-11-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041536/2019-01-01/0"
+intitule_bron: "Stb.2018-389"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-10-30"
+intitule_published: "2018-11-08"
+intitule_in_force: "2018-11-08"
+intitule_status: "goed"
+original_publication: "Stb.2018-389"
+original_signed_date: "2018-10-30"
+original_published_date: "2018-11-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2018-389"
+entry_into_force_date: "2018-11-09"
+jci_1_3: "jci1.3:c:BWBR0041536&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0041536&g=2019-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit aanwijzing CSIRT voor digitale diensten en vaststelling tijdstip inwerkingtreding Wet en Besluit beveiliging netwerk- en informatiesystemen"
+signed_date: "2018-10-30"
+entry_into_force: "2018-11-09"
 ---
-
 # Besluit van 30 oktober 2018 tot aanwijzing van het CSIRT voor digitale diensten en tot vaststelling van het tijdstip van inwerkingtreding van de Wet en het Besluit beveiliging netwerk- en informatiesystemen
 
 Op de voordracht van Onze Minister van Justitie en Veiligheid van 24 oktober 2018, nr. 2392132, directie wetgeving en juridische zaken, gedaan in overeenstemming met Onze Minister van Economische Zaken en Klimaat;
@@ -16,11 +42,11 @@ Gelet op richtlijn (EU) 2016/1148, uitvoeringsverordening (EU) 2018/151, de [art
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 Onze Minister van Economische Zaken en Klimaat is het CSIRT voor digitale diensten, bedoeld in [artikel 4, tweede lid, onderdeel b, van de Wet beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=4).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Met ingang van 9 november 2018 treden in werking:
 

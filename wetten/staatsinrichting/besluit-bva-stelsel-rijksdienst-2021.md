@@ -1,20 +1,43 @@
 ---
-title: "Besluit BVA-stelsel Rijksdienst 2021"
+title: "Besluit van de Minister-President, Minister van Algemene Zaken van 18 december 2020, nr. 4169072, tot vaststelling van een kader houdende de organisatie-inrichting van het BVA-stelsel binnen de Rijksdienst (Besluit BVA-stelsel Rijksdienst 2021)"
 identifier: "BWBR0044617"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2021-01-01
-laatste_update: 2021-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044617"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-01-01"
+last_updated: "2021-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044617"
+soort: "ministeriele-regeling"
+stam_id: "15786703"
+version_id: "27387842"
+internal_id: "C38672551"
+label_id: "15724434"
+dtd_version: "2.0"
+original_entry_into_force: "2021-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044617/2021-01-01/0"
+intitule_bron: "Stcrt.2020-62845"
+intitule_effect: "wijziging"
+intitule_published: "2020-12-23"
+intitule_in_force: "2020-12-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-62845"
+original_published_date: "2020-12-23"
+original_effect: "wijziging"
+original_url_id: "stcrt-2020-62845"
+entry_into_force_date: "2021-01-01"
+jci_1_3: "jci1.3:c:BWBR0044617&z=2021-01-01&g=2021-01-01"
+jci_1_0: "1.0:c:BWBR0044617&g=2021-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit BVA-stelsel Rijksdienst 2021"
+entry_into_force: "2021-01-01"
 ---
-
 # Besluit van de Minister-President, Minister van Algemene Zaken van 18 december 2020, nr. 4169072, tot vaststelling van een kader houdende de organisatie-inrichting van het BVA-stelsel binnen de Rijksdienst (Besluit BVA-stelsel Rijksdienst 2021)
 
 Besluit:
 
 #### § 1. Algemeen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -46,7 +69,7 @@ In dit besluit wordt verstaan onder:
 
 - n. **Accreditatie:** de toestemmingverlening als bedoeld in [artikel 2, derde lid van het Besluit Voorschrift Informatiebeveiliging Rijksdienst Bijzondere Informatie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033507&artikel=2).
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 1. Dit voorschrift geldt voor de Rijksdienst, waartoe gerekend worden de kerndepartementen en de daaronder ressorterende dienstonderdelen.
 
@@ -56,7 +79,7 @@ Het Ministerie van Defensie heeft een eigenstandige positie op de door het Minis
 
 #### § 2. BVA en BVC
 
-#### Artikel 3. BVA - functie
+##### Artikel 3. BVA - functie
 
 1. De minister die belast is met de leiding van een ministerie draagt zorg voor de aanstelling van een BVA. De BVA heeft een kaderstellende, adviserende en toezichthoudende rol over de integrale beveiliging van het departement. Er kan voor twee of meer ministeries één BVA aangesteld worden.
 
@@ -76,7 +99,7 @@ Het Ministerie van Defensie heeft een eigenstandige positie op de door het Minis
 
 9. De BVA-functie wordt zodanig ingericht dat over voldoende kennis en ervaring wordt beschikt om de taken, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044617&paragraaf=2&artikel=4&z=2021-01-01&g=2021-01-01), uit te voeren.
 
-#### Artikel 4. BVA - taken
+##### Artikel 4. BVA - taken
 
 De secretaris-generaal die belast is met de ambtelijke leiding van een ministerie draagt aan de BVA met betrekking tot het ministerie, in ieder geval de volgende taken op:
 
@@ -116,7 +139,7 @@ De secretaris-generaal die belast is met de ambtelijke leiding van een ministeri
 
 - 18. Het fungeren als algemeen aanspreekpunt en contactpersoon voor de BVA Rijk, de AIVD, politie, (rijks)recherche, de NCTV en internationale organisaties (zoals EU en NAVO) over integrale beveiliging.
 
-#### Artikel 5. BVA - bevoegdheden
+##### Artikel 5. BVA - bevoegdheden
 
 1. De dienstonderdelen van het ministerie en de aan integrale beveiliging gerelateerde functies zoals CIO en CISO verstrekken de BVA de informatie die redelijkerwijs noodzakelijk is voor de uitoefening van zijn taken op grond van dit besluit.
 
@@ -130,7 +153,7 @@ De secretaris-generaal die belast is met de ambtelijke leiding van een ministeri
 
 4. De BVA adviseert de secretaris-generaal en bereidt het besluit voor om (vooraf) toestemming te verlenen voor het verwerken van de nationale bijzondere informatie met de rubricering Departementaal Vertrouwelijk of hoger en voor het verwerken van internationale informatie van de EU en NAVO.
 
-#### Artikel 6. BVC-functie en BVC-rol
+##### Artikel 6. BVC-functie en BVC-rol
 
 1. De secretaris-generaal die belast is met de ambtelijke leiding van een ministerie, draagt er zorg voor dat voor dienstonderdelen met een substantiële integrale beveiligingscomponent een BVC-functie wordt ingesteld. Benoeming en ontslag van de BVC-functie geschiedt in afstemming met de BVA.
 
@@ -144,7 +167,7 @@ De secretaris-generaal die belast is met de ambtelijke leiding van een ministeri
 
 #### § 3. BVA Rijk
 
-#### Artikel 7. BVA Rijk - functie
+##### Artikel 7. BVA Rijk - functie
 
 1. De Minister van Binnenlandse Zaken en Koninkrijkrelaties stelt een BVA Rijk aan.
 
@@ -152,7 +175,7 @@ De secretaris-generaal die belast is met de ambtelijke leiding van een ministeri
 
 3. De BVA Rijk heeft een onafhankelijke positie en rechtstreeks toegang tot de secretaris-generaal van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. De onafhankelijke positie is nodig voor het rijksbrede toezicht, en voor de implementatie en werking van de rijksbrede kaders van integrale beveiliging.
 
-#### Artikel 8. Taken BVA Rijk
+##### Artikel 8. Taken BVA Rijk
 
 De BVA Rijk is belast met de volgende taken:
 
@@ -184,7 +207,7 @@ De BVA Rijk is belast met de volgende taken:
 
 - 14. het voorbereiden van de jaarrapportage over integrale beveiliging, risico’s en dreigingen binnen de Rijksdienst.
 
-#### Artikel 9. Bevoegdheden BVA Rijk
+##### Artikel 9. Bevoegdheden BVA Rijk
 
 1. De BVA Rijk kan de Minister van Binnenlandse Zaken en Koninkrijksrelaties rechtstreeks informeren, indien zijn taakuitoefening op grond van dit besluit daartoe aanleiding geeft. Dit gebeurt na overleg met de secretaris-generaal van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
@@ -202,7 +225,7 @@ De BVA Rijk is belast met de volgende taken:
 
 #### § 4. BVA-beraad
 
-#### Artikel 10. BVA-beraad
+##### Artikel 10. BVA-beraad
 
 1. Er is een BVA-beraad dat op strategisch niveau de beveiliging van de gehele Rijksdienst bespreekt om opzet, bestaan en werking van de integrale beveiliging van de Rijksdienst te borgen en verbeteren. Het BVA-beraad coördineert centraal en in gezamenlijk overleg de beveiliging van de Rijksdienst en adviseert zo nodig aan interdepartementale besluitvormingsorganen.
 
@@ -220,17 +243,17 @@ De BVA Rijk is belast met de volgende taken:
 
 #### § 5. Slotbepalingen
 
-#### Artikel 11. Evaluatie
+##### Artikel 11. Evaluatie
 
 Dit besluit wordt drie jaar na inwerkingtreding geëvalueerd en vervolgens elke drie jaar.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2021.
 
 Het [beveiligingsvoorschrift Rijksdienst 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033512) wordt ingetrokken.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit BVA-stelsel Rijksdienst 2021.
 

@@ -1,13 +1,39 @@
 ---
-title: "Organisatie-, mandaat- en volmachtbesluit directie Opsporing 2019"
+title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 7 november 2019, 2019-0000112449, houdende de inrichting van de directie Opsporing, alsmede de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan de onder de directeur ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directie Opsporing 2019)"
 identifier: "BWBR0042775"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-03-21
-laatste_update: 2024-03-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042775"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-03-21"
+last_updated: "2024-03-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042775"
+soort: "ministeriele-regeling"
+stam_id: "15229073"
+version_id: "26218042"
+internal_id: "C37281691"
+label_id: "15175534"
+dtd_version: "2.0"
+original_entry_into_force: "2019-11-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042775/2024-03-21/0"
+intitule_bron: "Stcrt.2019-62687"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-11-07"
+intitule_published: "2019-11-19"
+intitule_in_force: "2019-11-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-62687"
+original_signed_date: "2019-11-07"
+original_published_date: "2019-11-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-62687"
+entry_into_force_date: "2019-11-20"
+jci_1_3: "jci1.3:c:BWBR0042775&z=2024-03-21&g=2024-03-21"
+jci_1_0: "1.0:c:BWBR0042775&g=2024-03-21"
+citeertitel_status: "officieel"
+short_title: "Organisatie-, mandaat- en volmachtbesluit directie Opsporing 2019"
+signed_date: "2019-11-07"
+entry_into_force: "2019-11-20"
 ---
-
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 7 november 2019, 2019-0000112449, houdende de inrichting van de directie Opsporing, alsmede de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan de onder de directeur ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directie Opsporing 2019)
 
 Gelet op de [artikelen 5, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=5), en [12 van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=12);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepaling
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. De organisatie en taken van de afdelingen
 
-#### Artikel 2. Organisatie directie
+##### Artikel 2. Organisatie directie
 
 1. De directie bestaat uit de volgende afdelingen:
 
@@ -66,7 +92,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 3. Verantwoordelijkheden
 
-#### Artikel 3. Verantwoordelijkheden afdelingshoofden
+##### Artikel 3. Verantwoordelijkheden afdelingshoofden
 
 De afdelingshoofden zijn verantwoordelijk voor de volgende taken:
 
@@ -94,7 +120,7 @@ De afdelingshoofden zijn verantwoordelijk voor de volgende taken:
 
 - l. de borging van regionale netwerken, voor zover deze directie-overstijgend zijn.
 
-#### Artikel 4. Verantwoordelijkheden en taken afdeling Recherche W&I
+##### Artikel 4. Verantwoordelijkheden en taken afdeling Recherche W&I
 
 1. De afdeling Recherche W&I is verantwoordelijk voor:
 
@@ -118,7 +144,7 @@ De afdelingshoofden zijn verantwoordelijk voor de volgende taken:
 
 4. De afdeling Recherche W&I is belast met de aanpak van fraude met de NOW.
 
-#### Artikel 5. Verantwoordelijkheden en taken afdeling Recherche Zorgfraude
+##### Artikel 5. Verantwoordelijkheden en taken afdeling Recherche Zorgfraude
 
 De afdeling Recherche Zorgfraude is verantwoordelijk voor:
 
@@ -136,7 +162,7 @@ De afdeling Recherche Zorgfraude is verantwoordelijk voor:
 
 - g. verbinding met de programmatische aanpak van de gehele Nederlandse Arbeidsinspectie.
 
-#### Artikel 6. Verantwoordelijkheden en taken afdeling Opsporingsondersteuning
+##### Artikel 6. Verantwoordelijkheden en taken afdeling Opsporingsondersteuning
 
 De afdeling Opsporingsondersteuning is verantwoordelijk voor:
 
@@ -154,7 +180,7 @@ De afdeling Opsporingsondersteuning is verantwoordelijk voor:
 
 #### § 4. Bevoegdheden
 
-#### Artikel 7. Mandaat en machtiging hoofd afdeling Recherche W&I
+##### Artikel 7. Mandaat en machtiging hoofd afdeling Recherche W&I
 
 Aan het hoofd van de afdeling Recherche W&I wordt mandaat en machtiging verleend met betrekking tot:
 
@@ -166,7 +192,7 @@ Aan het hoofd van de afdeling Recherche W&I wordt mandaat en machtiging verleend
 
 - d. het verzamelen van politiegegevens overeenkomstig het bepaalde bij of krachtens de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463).
 
-#### Artikel 8. Mandaat en machtiging hoofd afdeling Recherche Zorgfraude
+##### Artikel 8. Mandaat en machtiging hoofd afdeling Recherche Zorgfraude
 
 Aan het hoofd van de afdeling Recherche Zorgfraude wordt mandaat en machtiging verleend met betrekking tot:
 
@@ -178,11 +204,11 @@ Aan het hoofd van de afdeling Recherche Zorgfraude wordt mandaat en machtiging v
 
 - d. het verzamelen van politiegegevens overeenkomstig het bepaalde bij of krachtens de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463).
 
-#### Artikel 9. Mandaat en machtiging hoofd afdeling Opsporingsondersteuning
+##### Artikel 9. Mandaat en machtiging hoofd afdeling Opsporingsondersteuning
 
 Aan het hoofd van de afdeling Opsporingsondersteuning wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de uitvoering van de taken van de eigen afdeling.
 
-#### Artikel 10. Volmacht en machtiging betreffende personeelsaangelegenheden
+##### Artikel 10. Volmacht en machtiging betreffende personeelsaangelegenheden
 
 1. Aan de afdelingshoofden en de teamleiders van de directie wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van medewerkers van de eigen organisatorische eenheid, voor zover het betreft:
 
@@ -198,7 +224,7 @@ Aan het hoofd van de afdeling Opsporingsondersteuning wordt mandaat en machtigin
 
 2. In aanvulling op het eerste lid wordt in het geval een teamleider de beoordeling van een medewerker opmaakt, aan het afdelingshoofd dat boven de teamleider ressorteert ook volmacht en machtiging verleend met betrekking tot het vaststellen van deze beoordeling.
 
-#### Artikel 11. Volmachten afdelingshoofden
+##### Artikel 11. Volmachten afdelingshoofden
 
 De afdelingshoofden zijn binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst betreffende:
 
@@ -210,19 +236,19 @@ De afdelingshoofden zijn binnen de daarvoor geldende departementale, dan wel doo
 
 - d. de uitvoering van rechercheactiviteiten voor de directie.
 
-#### Artikel 12. Volmacht teamleiders
+##### Artikel 12. Volmacht teamleiders
 
 De teamleiders zijn gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 5.000,– inclusief BTW per overeenkomst betreffende activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor het eigen team binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders.
 
-#### Artikel 13. Volmacht teamleider TCI
+##### Artikel 13. Volmacht teamleider TCI
 
 De teamleider TCI is gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 5.000,– inclusief BTW per overeenkomst betreffende informatievergaring met behulp van informanten.
 
-#### Artikel 14. Doorverlening
+##### Artikel 14. Doorverlening
 
 Een afdelingshoofd kan zijn of haar taak om als tactisch manager te participeren in het ontwikkelen en implementeren van plannen van de Nederlandse Arbeidsinspectie onder zijn of haar verantwoordelijkheid laten uitvoeren door een teamleider.
 
-#### Artikel 15. Plaatsvervanging
+##### Artikel 15. Plaatsvervanging
 
 1. Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, de taken en bevoegdheden van de directeur geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
 
@@ -230,21 +256,21 @@ Een afdelingshoofd kan zijn of haar taak om als tactisch manager te participeren
 
 #### § 5. Slotbepalingen
 
-#### Artikel 16. Intrekking regeling
+##### Artikel 16. Intrekking regeling
 
 Het [Organisatie-, mandaat- en volmachtbesluit directie Opsporing 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031933) wordt ingetrokken.
 
-#### Artikel 17. Inwerkingtreding
+##### Artikel 17. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 april 2018.
 
-#### Artikel 18. Citeertitel
+##### Artikel 18. Citeertitel
 
 Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Opsporing 2019.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a. Verantwoordelijkheden teamleiders
+##### Artikel 3a. Verantwoordelijkheden teamleiders
 
 De teamleiders zijn verantwoordelijk voor de volgende algemene taken:
 
@@ -282,7 +308,7 @@ De teamleiders zijn verantwoordelijk voor de volgende algemene taken:
 
 - l. het als operationeel manager participeren in het ontwikkelen en implementeren van plannen van de Nederlandse Arbeidsinspectie.
 
-#### Artikel 5a. Verantwoordelijkheden en taken afdeling Recherche Arbeidsuitbuiting
+##### Artikel 5a. Verantwoordelijkheden en taken afdeling Recherche Arbeidsuitbuiting
 
 De afdeling Recherche Arbeidsuitbuiting is verantwoordelijk voor:
 
@@ -300,7 +326,7 @@ De afdeling Recherche Arbeidsuitbuiting is verantwoordelijk voor:
 
 - g. verbinding met de programmatische aanpak van de gehele Nederlandse Arbeidsinspectie.
 
-#### Artikel 5b. Verantwoordelijkheden en taken afdeling Opsporingsinformatie
+##### Artikel 5b. Verantwoordelijkheden en taken afdeling Opsporingsinformatie
 
 De afdeling Opsporingsinformatie is verantwoordelijk voor:
 
@@ -314,7 +340,7 @@ De afdeling Opsporingsinformatie is verantwoordelijk voor:
 
 #### § 4. Bevoegdheden
 
-#### Artikel 8a. Mandaat en machtiging hoofd afdeling Recherche Arbeidsuitbuiting
+##### Artikel 8a. Mandaat en machtiging hoofd afdeling Recherche Arbeidsuitbuiting
 
 Aan het hoofd van de afdeling Recherche Arbeidsuitbuiting wordt mandaat en machtiging verleend met betrekking tot:
 
@@ -326,7 +352,7 @@ Aan het hoofd van de afdeling Recherche Arbeidsuitbuiting wordt mandaat en macht
 
 - d. het verzamelen van politiegegevens overeenkomstig het bepaalde bij of krachtens de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463).
 
-#### Artikel 8b. Mandaat en machtiging hoofd afdeling Opsporingsinformatie
+##### Artikel 8b. Mandaat en machtiging hoofd afdeling Opsporingsinformatie
 
 Aan het hoofd van de afdeling Opsporingsinformatie wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de uitvoering van de taken van de eigen afdeling.
 

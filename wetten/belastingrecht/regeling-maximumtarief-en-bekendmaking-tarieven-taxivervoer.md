@@ -1,20 +1,45 @@
 ---
 title: "Regeling maximumtarief en bekendmaking tarieven taxivervoer"
 identifier: "BWBR0010998"
-categorie: "Belastingrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010998"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010998"
+soort: "ministeriele-regeling"
+stam_id: "4884543"
+version_id: "22852152"
+internal_id: "C33038361"
+label_id: "4862504"
+dtd_version: "2.0"
+original_entry_into_force: "2015-12-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010998/2026-01-01/0"
+intitule_bron: "Stcrt.1999-250"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-12-20"
+intitule_published: "1999-12-27"
+intitule_in_force: "1999-12-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-44664"
+original_signed_date: "2015-12-08"
+original_published_date: "2015-12-09"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2015-44664"
+entry_into_force_date: "2015-12-08"
+jci_1_3: "jci1.3:c:BWBR0010998&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0010998&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2015-12-08"
+entry_into_force: "2015-12-08"
 ---
-
 # Regeling maximumtarief en bekendmaking tarieven taxivervoer
 
 Gelet op de artikelen 58, eerste lid, van de Wet personenvervoer, en 156 van het Besluit personenvervoer;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De vervoerder biedt taxivervoer aan tegen een variabel tarief per rit dat bestaat uit:
 
@@ -34,7 +59,7 @@ Besluit:
 
 6. De vervoerder kan een tarief in rekening brengen voor aanvullende diensten, mits dit vooraf met de consument is overeengekomen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het tarief, bedoeld in [artikel 1, eerste of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2026-01-01&g=2026-01-01), wordt voor de consument duidelijk leesbaar getoond zowel in de auto waarmee taxivervoer wordt verricht als aan de buitenzijde.
 
@@ -54,15 +79,15 @@ De gegevens over de klachtenbehandeling zijn in ieder geval duidelijk kenbaar, i
 
 5. Het eerste lid is niet van toepassing, indien schriftelijk een tarief wordt overeengekomen voor het gedurende een bepaalde periode meermalen verrichten van taxivervoer als bedoeld in [artikel 81, tweede lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=81).
 
-#### Artikel 2a
+##### Artikel 2a
 
 Overtreding van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2026-01-01&g=2026-01-01), [1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1a&z=2026-01-01&g=2026-01-01), [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1c&z=2026-01-01&g=2026-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=2&z=2026-01-01&g=2026-01-01) vormen een strafbaar feit als bedoeld in [artikel 1, onder 4°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1).
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van 1 januari 2000.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling wordt aangehaald als: Regeling maximumtarief en bekendmaking tarieven taxivervoer.
 
@@ -74,7 +99,7 @@ Bijlage behorende bij artikel 2, eerste en tweede lid, van de Regeling maximumta
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. Het tarief, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2026-01-01&g=2026-01-01), bedraagt ten hoogste:
 
@@ -100,11 +125,11 @@ Bijlage behorende bij [artikel 2, eerste en tweede lid](https://wetten.overheid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1b
+##### Artikel 1b
 
 Vervallen
 
-#### Artikel 1c
+##### Artikel 1c
 
 1. De vervoerder biedt de consument na afloop van het verrichte taxivervoer een automatisch gegenereerd schriftelijk ritbewijs aan, waarop tenminste de volgende gegevens staan vermeld:
 
@@ -132,7 +157,7 @@ Vervallen
 
 6. Indien door de taxivervoerder en de consument toepassing wordt gegeven aan [artikel 1, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2026-01-01&g=2026-01-01), dan wel sprake is van taxivervoer met meerdere personen met meerdere opstapadressen dan wel meerdere bestemmingen, wordt het daarmee verbandhoudende tarief met de daarmee verbandhoudende eindprijs voor de betrokken consument ofwel vermeld op het in het eerste lid bedoelde totale ritbewijs ofwel op een afzonderlijk ritbewijs. Het laatstbedoelde ritbewijs mag tevens handgeschreven zijn mits duidelijk leesbaar en kenbaar, en mag voor de in dit lid bedoelde onderwerpen deel uitmaken van het in het eerste lid bedoelde ritbewijs.
 
-#### Artikel 1d
+##### Artikel 1d
 
 Vervallen
 
@@ -144,7 +169,7 @@ Vervallen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2aa
+##### Artikel 2aa
 
 1. De in [artikel 78, zesde lid, van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=78) bedoelde nader te bepalen gevallen betreffende het niet van toepassing zijn van de eis betreffende de zichtbare aanwezigheid van een taxameter zijn de gevallen waarin het voertuig aantoonbaar uitsluitend wordt gebruikt voor taxivervoer tegen een voorafgaand aan de taxirit op kenbare en transparante wijze met de consument overeengekomen vast tarief per rit als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1&z=2026-01-01&g=2026-01-01).
 

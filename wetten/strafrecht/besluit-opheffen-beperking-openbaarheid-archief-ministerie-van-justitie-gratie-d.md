@@ -1,13 +1,38 @@
 ---
 title: "Besluit opheffen beperking openbaarheid archief Ministerie van Justitie: Gratie Doodstraffen, nummer toegang 2.09.71"
 identifier: "BWBR0040772"
-categorie: "Strafrecht"
-publicatiedatum: 2018-03-30
-laatste_update: 2018-03-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040772"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-03-30"
+last_updated: "2018-03-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040772"
+soort: "ministeriele-regeling"
+stam_id: "14580823"
+version_id: "24957052"
+internal_id: "C35688071"
+label_id: "14534444"
+dtd_version: "2.0"
+original_entry_into_force: "2018-03-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040772/2018-03-30/0"
+intitule_bron: "Stcrt.2018-17469"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-03-20"
+intitule_published: "2018-03-29"
+intitule_in_force: "2018-03-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-17469"
+original_signed_date: "2018-03-20"
+original_published_date: "2018-03-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-17469"
+entry_into_force_date: "2018-03-30"
+jci_1_3: "jci1.3:c:BWBR0040772&z=2018-03-30&g=2018-03-30"
+jci_1_0: "1.0:c:BWBR0040772&g=2018-03-30"
+citeertitel_status: "redactioneel"
+signed_date: "2018-03-20"
+entry_into_force: "2018-03-30"
 ---
-
 # Besluit opheffen beperking openbaarheid archief Ministerie van Justitie: Gratie Doodstraffen, nummer toegang 2.09.71
 
 Gelet op [artikel 15, derde lid Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15),

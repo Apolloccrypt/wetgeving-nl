@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsbesluit Rijksoctrooiwet 1995"
+title: "Besluit van 20 februari 1995, houdende regels ter uitvoering van de Rijksoctrooiwet 1995"
 identifier: "BWBR0007246"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2016-10-07
-laatste_update: 2016-10-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007246"
+country: "nl"
+rank: "rijks_kb"
+publication_date: "2016-10-07"
+last_updated: "2016-10-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007246"
+soort: "rijksKB"
+stam_id: "1016633"
+version_id: "1495112"
+internal_id: "C1495111"
+label_id: "985634"
+dtd_version: "2.0"
+original_entry_into_force: "1995-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007246/2016-10-07/0"
+intitule_bron: "Stb.1995-108"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-02-20"
+intitule_published: "1995-03-07"
+intitule_in_force: "1995-03-07"
+intitule_status: "goed"
+original_publication: "Stb.1995-108"
+original_signed_date: "1995-02-20"
+original_published_date: "1995-03-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1995-108"
+entry_into_force_date: "1995-04-01"
+jci_1_3: "jci1.3:c:BWBR0007246&z=2016-10-07&g=2016-10-07"
+jci_1_0: "1.0:c:BWBR0007246&g=2016-10-07"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit Rijksoctrooiwet 1995"
+signed_date: "1995-02-20"
+entry_into_force: "1995-04-01"
 ---
-
 # Besluit van 20 februari 1995, houdende regels ter uitvoering van de Rijksoctrooiwet 1995
 
 Op de voordracht van de Staatssecretaris van Economische Zaken van 3 oktober 1994, nr. 94068512 WJA/W;
@@ -24,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -36,11 +62,11 @@ In dit besluit wordt verstaan onder:
 
 #### § 1. Het octrooiregister
 
-#### Artikel 2
+##### Artikel 2
 
 Het bureau stelt, met inachtneming van de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=1&artikel=3&z=2016-10-07&g=2016-10-07), de inrichting van het octrooiregister vast.
 
-#### Artikel 3
+##### Artikel 3
 
 De inschrijving van aanvragen om octrooi geschiedt door vermelding in het octrooiregister van:
 
@@ -58,7 +84,7 @@ De inschrijving van aanvragen om octrooi geschiedt door vermelding in het octroo
 
 - g. het beroep op een recht van voorrang als in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=9) bedoeld, met vermelding van de datum en het nummer van de aanvrage, waarop de aanvrager dit beroep doet steunen, en het land waarin of de organisatie waarbij deze aanvrage werd ingediend.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In het octrooiregister worden voorts ingeschreven:
 
@@ -70,7 +96,7 @@ De inschrijving van aanvragen om octrooi geschiedt door vermelding in het octroo
 
 2. De inschrijving geschiedt door vermelding van de aard en het onderwerp van het stuk, alsmede de datum van indiening van het stuk.
 
-#### Artikel 5
+##### Artikel 5
 
 1. In het octrooiregister wordt aantekening gedaan van:
 
@@ -82,7 +108,7 @@ De inschrijving van aanvragen om octrooi geschiedt door vermelding in het octroo
 
 #### § 2. De krachtens de [Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007118) verschuldigde bedragen
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het bedrag dat krachtens [artikel 23, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=23) bij de indiening van een verzoekschrift tot herstel in de vorige toestand moet worden betaald is € 161.
 
@@ -131,7 +157,7 @@ een verzoekschrift tot het doen onderwerpen van een aanvrage aan een onderzoek n
 
 10. Elk jaar wordt bezien of het in dat jaar gepubliceerde prijsindexcijfer van de gezinsconsumptie aanleiding geeft tot wijziging van de bedragen, genoemd in het eerste tot en met derde, en zesde tot en met negende lid. De gewijzigde bedragen worden bij ministeriële rijksregeling vastgesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De bedragen die krachtens [artikel 17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=17) voor de werkzaamheden van het bureau als ontvangend bureau in de zin van artikel 2, onder (XV) van het Samenwerkingsverdrag moeten worden betaald, zijn:
 
@@ -145,7 +171,7 @@ een verzoekschrift tot het doen onderwerpen van een aanvrage aan een onderzoek n
 
 4. De in het eerste lid, onder **a**, vastgestelde toezendingstaks moet binnen een maand na de datum van ontvangst van de aanvrage zijn betaald aan het bureau.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Voor de inschrijving van een verzoekschrift als bedoeld in [artikel 38, tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=38), is een bedrag van € 22 verschuldigd.
 
@@ -159,7 +185,7 @@ een verzoekschrift tot het doen onderwerpen van een aanvrage aan een onderzoek n
 
 #### § 3. Algemene bepalingen omtrent stukken betreffende een aanvrage om octrooi of een octrooi
 
-#### Artikel 9
+##### Artikel 9
 
 1. Bij betalingen wordt uitdrukkelijk en volledig het doel van de betaling schriftelijk vermeld, met splitsing, indien dit nodig is, van het totale bedrag.
 
@@ -167,7 +193,7 @@ een verzoekschrift tot het doen onderwerpen van een aanvrage aan een onderzoek n
 
 #### § 4. Implementatie Verdrag inzake octrooirecht
 
-#### Artikel 10
+##### Artikel 10
 
 1. De termijn, bedoeld in [artikel 29, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=29) waarbinnen een aanvraag om octrooi dient te zijn aangevuld met gegevens en bescheiden als bedoeld in het [eerste lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=29), is drie maanden te rekenen vanaf de datum waarop de aanvrager ter zake een kennisgeving is gedaan.
 
@@ -175,7 +201,7 @@ een verzoekschrift tot het doen onderwerpen van een aanvrage aan een onderzoek n
 
 3. Wanneer een aanvraag is aangevuld met gegevens of bescheiden overeenkomstig het eerste lid en nadien binnen de termijn, bedoeld in het eerste lid, deze gegevens of bescheiden worden ingetrokken, is de datum van indiening de datum waarop aan [artikel 29, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=29) is voldaan.
 
-#### Artikel 11
+##### Artikel 11
 
 1. In een verwijzing als bedoeld in [artikel 29, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=29) wordt vermeld:
 
@@ -189,13 +215,13 @@ een verzoekschrift tot het doen onderwerpen van een aanvrage aan een onderzoek n
 
 3. Indien niet wordt voldaan aan de vereisten, genoemd in het eerste en tweede lid, beschouwt het bureau de aanvraag als niet-ingediend. Het bureau stelt hiervan de aanvrager zo spoedig mogelijk op de hoogte.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Indien een verzoek tot inschrijving van een wijziging in de persoon van de aanvrager of houder van een octrooi en de daarbij overlegde documenten niet in het Nederlands of het Engels zijn gesteld, kan het bureau een vertaling in het Nederlands of het Engels verlangen.
 
 2. Indien het bureau redelijke grond voor twijfel heeft over de juistheid van het verzoek of een daarbij overgelegd document, kan het ter zake bewijs of nader bewijs verlangen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Bij ministeriële rijksregeling worden nadere regels gesteld over:
 
@@ -205,7 +231,7 @@ een verzoekschrift tot het doen onderwerpen van een aanvrage aan een onderzoek n
 
 2. Indien het bureau redelijke grond voor twijfel heeft over de juistheid van een gegeven als bedoeld in het eerste lid kan het ter zake bewijs of nader bewijs verlangen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het bureau kan van een gemachtigde als bedoeld in [artikel 23b, eerste en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=23b) overlegging van een schriftelijke volmacht verlangen indien het redelijke grond voor twijfel heeft dat deze niet is gemachtigd om namens een aanvrager, octrooihouder of andere belanghebbende bij een octrooi op te treden.
 
@@ -217,7 +243,7 @@ een verzoekschrift tot het doen onderwerpen van een aanvrage aan een onderzoek n
 
 #### § 5. Voorschriften voor diverse stukken betreffende een aanvrage om octrooi of een octrooi
 
-#### Artikel 15
+##### Artikel 15
 
 1. Aan het bureau aangeboden stukken die betrekking hebben op een aanvrage om octrooi of een octrooi, niet zijnde de stukken, bedoeld in [artikel 24, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=24), zijn voorzien van een opschrift, dat de naam en de woonplaats van de aanvrager dan wel de octrooihouder en het volgnummer van de aanvrage of het octrooi bevat.
 
@@ -225,7 +251,7 @@ een verzoekschrift tot het doen onderwerpen van een aanvrage aan een onderzoek n
 
 3. Binnen vier maanden na de indiening van de octrooiaanvrage legt de aanvrager aan het bureau het in [artikel 5, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=5) bedoelde bewijsstuk over dat tijdens de tentoonstelling is afgegeven door de autoriteit, belast met de bescherming van de industriële eigendom op de tentoonstelling, en waaruit blijkt dat de uitvinding inderdaad is tentoongesteld. Deze verklaring vermeldt tevens de datum waarop de tentoonstelling is geopend en eventueel de datum waarop de uitvinding voor het eerst is geopenbaard, indien deze twee data niet samenvallen. Bij deze verklaring worden stukken overgelegd die een nauwkeurige omschrijving geven van de uitvinding en die als authentiek zijn gewaarmerkt door de autoriteit, bedoeld in de eerste volzin.
 
-#### Artikel 16
+##### Artikel 16
 
 De in de wet bedoelde verzoekschriften worden door de indiener of diens gemachtigde ondertekend en vermelden:
 
@@ -235,7 +261,7 @@ De in de wet bedoelde verzoekschriften worden door de indiener of diens gemachti
 
 #### § 5. Voorschriften voor diverse stukken betreffende een aanvrage om octrooi of een octrooi
 
-#### Artikel 17
+##### Artikel 17
 
 1. In gevallen als bedoeld in [artikel 25, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=25) moet de beschrijving van de uitvinding:
 
@@ -253,7 +279,7 @@ De in de wet bedoelde verzoekschriften worden door de indiener of diens gemachti
 
 3. Het in het eerste lid, onder b, bedoelde nummer en het in het tweede lid, onder b, bedoelde afschrift kunnen ook worden verstrekt binnen een termijn van een maand na het indienen van de aanvrage.
 
-#### Artikel 18
+##### Artikel 18
 
 1. het depot van biologisch materiaal overeenkomstig [artikel 25, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=25) kan geschieden bij:
 
@@ -275,7 +301,7 @@ De in de wet bedoelde verzoekschriften worden door de indiener of diens gemachti
 
 5. Voor de toepassing van het tweede lid, onder b, wordt met een door het bureau aangewezen instelling gelijkgesteld een door de Octrooiraad aangewezen instelling.
 
-#### Artikel 19
+##### Artikel 19
 
 Bij een overeenkomstig [artikel 25, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=25) verricht depot wordt een schriftelijke verklaring van de bewaargever gevoegd, inhoudende:
 
@@ -285,7 +311,7 @@ Bij een overeenkomstig [artikel 25, tweede lid, van de wet](https://wetten.overh
 
 - c. een identificatieaanduiding en, zo mogelijk, de wetenschappelijke beschrijving en de voorgestelde taxonomische aanduiding van het biologisch materiaal.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Het biologisch materiaal dat is gedeponeerd overeenkomstig [artikel 25, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=25), dient vanaf de dag van indiening van de desbetreffende aanvrage om octrooi beschikbaar te zijn voor het verstrekken van monsters overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=6&artikel=21&z=2016-10-07&g=2016-10-07), tot de datum waarop vaststaat dat op die aanvrage geen octrooi verleend wordt, dan wel tot de datum waarop het op die aanvrage verleende octrooi zijn kracht verliest.
 
@@ -297,7 +323,7 @@ Bij een overeenkomstig [artikel 25, tweede lid, van de wet](https://wetten.overh
 
 5. Indien zich een feit als bedoeld in het derde lid voordoet, doet het bureau hiervan zo spoedig mogelijk mededeling in het in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=10&artikel=27&z=2016-10-07&g=2016-10-07), bedoelde blad.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Een ieder die op grond van [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=21) het recht heeft tot kennisneming van de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=21) bedoelde stukken met betrekking tot een aanvrage om octrooi of een octrooi, kan verzoeken om afgifte van een monster van overeenkomstig [artikel 25, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=25) gedeponeerd biologisch materiaal waarop een aanvrage of een octrooi betrekking heeft.
 
@@ -325,13 +351,13 @@ Bij een overeenkomstig [artikel 25, tweede lid, van de wet](https://wetten.overh
 
 8. Indien vaststaat dat op de octrooiaanvrage geen octrooi wordt verleend of indien de octrooiaanvrage wordt ingetrokken, kan de aanvrager het bureau op een daartoe door het bureau vastgesteld formulier meedelen dat tot twintig jaar na de datum waarop de octrooiaanvrage werd ingediend, de afgifte overeenkomstig het eerste lid van monsters van door hem gedeponeerd biologisch materiaal alleen kan geschieden aan een door de verzoeker aangewezen deskundige. Het tweede tot en met zesde lid zijn van overeenkomstige toepassing.
 
-#### Artikel 22
+##### Artikel 22
 
 Indien het depot, bedoeld in de [artikelen 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=6&artikel=18&z=2016-10-07&g=2016-10-07), en [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=6&artikel=20&z=2016-10-07&g=2016-10-07), is geschied overeenkomstig het in [artikel 18, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=6&artikel=18&z=2016-10-07&g=2016-10-07), bedoelde verdrag, zijn in geval van strijdigheid van de bepalingen van deze paragraaf met dat verdrag, de bepalingen van dat verdrag doorslaggevend.
 
 #### § 7. Europese octrooien
 
-#### Artikel 23
+##### Artikel 23
 
 1. De termijn, waarbinnen krachtens [artikel 52, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=52) na verlening van een Europees octrooi een vertaling in het Nederlands of in het Engels van de tekst waarin het Europees Octrooibureau voorstelt dat octrooi te verlenen moet zijn ingediend, is drie maanden vanaf de dag, waarop overeenkomstig [artikel 97, vierde lid, van het Europees Octrooiverdrag](onbekend) de vermelding van de verlening is gepubliceerd. De termijn van de eerste volzin is van overeenkomstige toepassing op het indienen van een vertaling in het Nederlands van de conclusies van het verleende octrooi.
 
@@ -341,7 +367,7 @@ Indien het depot, bedoeld in de [artikelen 18, eerste lid](https://wetten.overhe
 
 #### § 8. Octrooibewijs
 
-#### Artikel 24
+##### Artikel 24
 
 1. Het bureau verstrekt aan de octrooihouder een bewijs dat, naast de verklaring dat octrooi is verleend, bevat:
 
@@ -361,13 +387,13 @@ Indien het depot, bedoeld in de [artikelen 18, eerste lid](https://wetten.overhe
 
 #### § 9. Diensten van het bureau
 
-#### Artikel 25
+##### Artikel 25
 
 1. De uitgifte van een octrooischrift krachtens [artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=33), en [artikel 36, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=36) geschiedt met vermelding van de datum van de inschrijving van de aanvrage om octrooi in het octrooiregister, van de dagtekening van het octrooi en het nummer waaronder van de verlening daarvan aantekening in het octrooiregister is gedaan, van de termijn gedurende welke het octrooi van kracht blijft alsmede van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=1&artikel=3&z=2016-10-07&g=2016-10-07) van dit besluit bedoelde gegevens en, in voorkomend geval, van het resultaat van het onderzoek naar de stand van de techniek.
 
 2. Aan het bureau voor de industriële eigendom als bedoeld in [artikel 99 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=99) wordt zo spoedig mogelijk een exemplaar van de in het eerste lid bedoelde stukken toegezonden.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Aan een ieder wordt op daartoe strekkend verzoek als bedoeld in [artikel 19, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=19), waarbij wordt aangegeven op welke aanvrage om octrooi of welk octrooi en welke stukken dat verzoek betrekking heeft,:
 
@@ -383,7 +409,7 @@ Indien het depot, bedoeld in de [artikelen 18, eerste lid](https://wetten.overhe
 
 #### § 9. Diensten van het bureau
 
-#### Artikel 27
+##### Artikel 27
 
 1. Het in [artikel 20, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=20) bedoelde blad draagt de naam "De Industriële Eigendom" en verschijnt regelmatig op door het bureau te bepalen tijdstippen.
 
@@ -397,7 +423,7 @@ Indien het depot, bedoeld in de [artikelen 18, eerste lid](https://wetten.overhe
 
 ### Hoofdstuk 3. Staten als bedoeld in artikel 57, tweede lid, van de wet
 
-#### Artikel 28
+##### Artikel 28
 
 Staten als bedoeld in [artikel 57, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=57) zijn:
 
@@ -409,13 +435,13 @@ Staten als bedoeld in [artikel 57, tweede lid, van de wet](https://wetten.overhe
 
 ### Hoofdstuk 4. Aanvragen, ingediend bij het bureau voor de industriële eigendom in de Nederlandse Antillen
 
-#### Artikel 29
+##### Artikel 29
 
 Aanvragen om octrooi, ingediend bij het bureau voor de industriële eigendom als bedoeld in [artikel 99 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=99), worden na ontvangst bij het bureau in Nederland ingeschreven in het octrooiregister met inachtneming van het in [artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=31) bepaalde.
 
 ### Hoofdstuk 5. Uitvoeringsbepalingen met betrekking tot certificaten en aanvragen om certificaten
 
-#### Artikel 30
+##### Artikel 30
 
 1. Het bedrag dat bij het indienen van een aanvrage om een certificaat of verlenging van de duur van het certificaat moet worden betaald, is € 544.
 
@@ -423,7 +449,7 @@ Aanvragen om octrooi, ingediend bij het bureau voor de industriële eigendom als
 
 3. Elk jaar wordt bezien of het in dat jaar gepubliceerde prijsindexcijfer van de gezinsconsumptie aanleiding geeft tot wijziging van de bedragen, genoemd in dit artikel. De gewijzigde bedragen worden bij ministeriële rijksregeling vastgesteld.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Het bedrag dat krachtens [artikel 95 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=95) voor een certificaat moet worden betaald, is voor:
 
@@ -439,11 +465,11 @@ Aanvragen om octrooi, ingediend bij het bureau voor de industriële eigendom als
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 32
+##### Artikel 32
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 33
+##### Artikel 33
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit Rijksoctrooiwet 1995.
 
@@ -451,7 +477,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 11. Het examen en de proeve van bekwaamheid
 
-#### Artikel 27a
+##### Artikel 27a
 
 1. Degene die het examen, bedoeld in artikel [23a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=23a), wenst af te leggen, legt aan de examencommissie een van de volgende bescheiden over:
 
@@ -469,7 +495,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. De examencommissie beslist binnen vier weken na ontvangst van het verzoek, dan wel binnen zestien weken na ontvangst van het verzoek indien zij zich nader over het verzoek wil beraden en zij daarvan bericht doet aan de betrokkene. Indien zij overweegt het verzoek af te wijzen, zijn de [artikelen 23s](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=23s) en [23t van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=23t) van overeenkomstige toepassing.
 
-#### Artikel 27b
+##### Artikel 27b
 
 1. Degene die de proeve van bekwaamheid, bedoeld in [artikel 23a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=23a), wenst af te leggen, legt aan de examencommissie een van de volgende bescheiden over:
 
@@ -483,7 +509,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. De examencommissie aanvaardt als bewijs dat door de desbetreffende kandidaat aan het eerste lid wordt voldaan de attesten en opleidingstitels als bedoeld in artikel 3, eerste lid, onder c, van de richtlijn die met het oog daarop door de bevoegde autoriteit van de staat, bedoeld in het eerste lid, worden verstrekt.
 
-#### Artikel 27c
+##### Artikel 27c
 
 1. Het examen en de proeve van bekwaamheid worden schriftelijk of mondeling in het Nederlands afgelegd.
 
@@ -493,7 +519,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. De examencommissie stelt de betrokkene op zijn verzoek gedurende vier weken na het bekendmaken van de uitslag in de gelegenheid zijn beoordeelde werk in te zien.
 
-#### Artikel 27d
+##### Artikel 27d
 
 1. Om het examen of de proeve van bekwaamheid met goed gevolg af te leggen, is vereist dat degene die zich daaraan onderwerpt, ervan blijk geeft:
 
@@ -511,7 +537,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 12. Register van octrooigemachtigden
 
-#### Artikel 27e
+##### Artikel 27e
 
 1. Een aanvraag om inschrijving in het register van octrooigemachtigden wordt ingediend bij de directeur van het bureau.
 
@@ -525,7 +551,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - c. een ontheffing als bedoeld in [artikel 23a, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=23a) die in de plaats komt van een getuigschrift als bedoeld onder a of b, onderscheidenlijk van het bewijs dat hij gedurende ten minste drie jaren octrooiaanvragen heeft behandeld onder verantwoordelijkheid van een octrooigemachtigde.
 
-#### Artikel 27f
+##### Artikel 27f
 
 1. Indien degene die een aanvraag om inschrijving in het register van octrooigemachtigden indient, gedurende ten minste drie jaren bij de Octrooiraad de functie van vooronderzoeker, bij het bureau de functie van technisch adviseur, of bij het Europees Octrooibureau de functie van technisch onderzoeker heeft vervuld, wordt de termijn, bedoeld in [artikel 27e, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=12&artikel=27e&z=2016-10-07&g=2016-10-07), waarin hij octrooiaanvragen moet hebben behandeld onder verantwoordelijkheid van een octrooigemachtigde, bekort tot één jaar.
 
@@ -537,7 +563,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 5. De raad van toezicht beslist op een aanvraag als bedoeld in [artikel 23a, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=23a) binnen vier weken na ontvangst daarvan, dan wel binnen zestien weken na ontvangst daarvan indien hij zich nader over de aanvraag wil beraden en hij daarvan bericht doet aan de betrokkene. Indien de raad overweegt de aanvraag af te wijzen, zijn de [artikelen 23s](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=23s) en [23t van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=23t) van overeenkomstige toepassing.
 
-#### Artikel 27g
+##### Artikel 27g
 
 1. Het bureau zendt aan de raad van toezicht onverwijld een afschrift van de aanvraag tot inschrijving in het register van octrooigemachtigden en de daarbij behorende stukken met het verzoek de aanvraag te beoordelen.
 
@@ -553,7 +579,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. De secretaris van de raad van toezicht zendt de aanvrager en het bureau onverwijld een afschrift van het bericht, bedoeld in [artikel 27f, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=12&artikel=27f&z=2016-10-07&g=2016-10-07), en van het oordeel omtrent de aanvraag tot inschrijving.
 
-#### Artikel 27h
+##### Artikel 27h
 
 1. Een belanghebbende kan bij de raad van toezicht bezwaar maken tegen een afwijzend oordeel als bedoeld in artikel [27g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=12&artikel=27g&z=2016-10-07&g=2016-10-07). De [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6) en [7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7) zijn van overeenkomstige toepassing op het bezwaar.
 
@@ -565,7 +591,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 5. De griffier van het gerechtshof zendt bij aangetekende brief terstond een afschrift van de beslissing van het gerechtshof aan de belanghebbende, aan de voorzitter van de raad van toezicht en aan het bureau.
 
-#### Artikel 27i
+##### Artikel 27i
 
 1. Het bureau schrijft de aanvrager in in het register van octrooigemachtigden nadat de termijn, bedoeld in [artikel 27f, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=12&artikel=27f&z=2016-10-07&g=2016-10-07), is verstreken zonder dat van de raad van toezicht een afwijzend oordeel is ontvangen, dan wel na ontvangst van:
 
@@ -583,7 +609,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. Het bureau doet mededeling van de inschrijving aan degene die is ingeschreven en aan de secretaris van de orde.
 
-#### Artikel 27j
+##### Artikel 27j
 
 1. Het bureau doet aantekening in het register van octrooigemachtigden van het begin en het einde van een schorsing als bedoeld in de [artikelen 23m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=23m), en [23u, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=23u).
 
@@ -599,7 +625,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 13. Uitzondering van vertegenwoordiging door een gemachtigde
 
-#### Artikel 27k
+##### Artikel 27k
 
 1. Als optreden voor het bureau in de zin van [artikel 23b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=23b) worden niet aangemerkt het bij of aan het bureau indienen van vertalingen, betalen van bedragen, vragen om inschrijving in het register van octrooigemachtigden, inzien van registers, kennisnemen van stukken, verstrekken van gegevens, verzoeken om inschrijving in het octrooiregister van een in kracht van gewijsde gegane rechterlijke uitspraak, licentie, overdracht, overgang, pandrecht of beslag, of andere daarmee verband houdende administratieve handelingen, bedoeld in de [artikelen 9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=9), [19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=19), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=21), [23a, tweede, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=23a), [38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=38), [52, eerste, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=52), [58, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=58), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=61), [64, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=64), [67, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=67), [68, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=68), [72, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=72), en [95 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=95).
 
@@ -613,7 +639,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 5. Uitvoeringsbepalingen met betrekking tot certificaten, aanvragen om certificaten en om verlenging van de duur van verleende certificaten
 
-#### Artikel 31a
+##### Artikel 31a
 
 1. Tot 1 januari van het vijfde jaar na inwerkingtreding van [artikel 27a](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=11&artikel=27a&z=2016-10-07&g=2016-10-07) wordt met een van de bescheiden, bedoeld in dat artikel, gelijkgesteld het brevet hogere technische bekwaamheid (H.T.B.) voor officieren van de Koninklijke Landmacht en de Koninklijke Luchtmacht, bedoeld in de beschikking van de Minister van Oorlog van 23 juni 1952 (L.O. 1952, no. 189.L-LM), dat is toegekend na het volgen van een cursus hogere militair-technische vorming als bedoeld in de beschikkingen van de Minister van Oorlog van 14 maart 1955 (L.O. 1955, no. 55085 L-code no. 78/35) en van 30 juli 1955 (Lu.O. 55512 – code no. 78/50).
 
@@ -623,7 +649,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** en in het **Publicatieblad van de Nederlandse Antillen** zal worden geplaatst.
 
-#### Artikel 14a
+##### Artikel 14a
 
 1. Indien de aanvraag tot inschrijving van een licentie als bedoeld in [artikel 56, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=56) en de daarbij overlegde documenten niet in het Nederlands of het Engels zijn gesteld, kan het bureau een vertaling in het Nederlands of het Engels verlangen.
 
@@ -631,11 +657,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Bij ministeriële rijksregeling worden nadere regels gesteld over een aanvraag tot inschrijving van een licentie als bedoeld in [artikel 56, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=56). Deze regels hebben in elk geval betrekking op naam en adres van de licentiegever en die van de licentienemer, het nummer van het octrooi en vermelding of de licentie een exclusieve of niet-exclusieve licentie betreft.
 
-#### Artikel 14b
+##### Artikel 14b
 
 Indien het bureau met betrekking tot een beschikking of een in kracht van gewijsde gegane rechterlijke uitspraak als bedoeld in [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=57), onderscheidenlijk [artikel 58, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=58) tot inschrijving van een licentie als bedoeld in de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=57) en [58](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=58) redelijke grond voor twijfel heeft over de juistheid van de daarin opgenomen gegevens als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=8&artikel=24&z=2016-10-07&g=2016-10-07), kan het bureau ter zake bewijs of nader bewijs verlangen.
 
-#### Artikel 14c
+##### Artikel 14c
 
 Bij ministeriële rijksregeling worden nadere regels gesteld over een verzoek tot inschrijving van een pandrecht en van een beslag als bedoeld in [artikel 67, vijfde lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=67) respectievelijk [68, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=68). [Artikel 14a, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&hoofdstuk=2&paragraaf=4&artikel=14a&z=2016-10-07&g=2016-10-07), is van overeenkomstige toepassing.
 

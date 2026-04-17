@@ -1,14 +1,40 @@
 ---
-title: "Wijzigingswet van het fiscale regime voor onderhoudsvoorzieningen en spaarvormen alsmede van het fiscale regime voor verzekeraars en directiepensioenlichamen"
+title: "Wet van 12 december 1991, tot wijziging van het fiscale regime voor onderhoudsvoorzieningen en spaarvormen alsmede van het fiscale regime voor verzekeraars en de directiepensioenlichamen"
 identifier: "BWBR0005318"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2004-01-01
-laatste_update: 2004-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005318"
+country: "nl"
+rank: "wet"
+publication_date: "2004-01-01"
+last_updated: "2004-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005318"
+soort: "wet"
+stam_id: "517753"
+version_id: "759452"
+internal_id: "C759451"
+label_id: "503124"
+dtd_version: "2.0"
+original_entry_into_force: "1996-12-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005318/2004-01-01/0"
+intitule_bron: "Stb.1991-697"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-12-12"
+intitule_status: "goed"
+original_publication: "Stb.1996-648"
+original_signed_date: "1996-12-19"
+original_published_date: "1996-12-23"
+original_effect: "structuurwijziging"
+original_dossier: "24648"
+original_url_id: "stb-1996-648"
+entry_into_force_date: "1996-12-24"
+entry_into_force_dossier: "24648"
+jci_1_3: "jci1.3:c:BWBR0005318&z=2004-01-01&g=2004-01-01"
+jci_1_0: "1.0:c:BWBR0005318&g=2004-01-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet van het fiscale regime voor onderhoudsvoorzieningen en spaarvormen alsmede van het fiscale regime voor verzekeraars en directiepensioenlichamen"
+signed_date: "1996-12-19"
+entry_into_force: "1996-12-24"
 ---
-
-# Wijzigingswet van het fiscale regime voor onderhoudsvoorzieningen en spaarvormen alsmede van het fiscale regime voor verzekeraars en directiepensioenlichamen
+# Wet van 12 december 1991, tot wijziging van het fiscale regime voor onderhoudsvoorzieningen en spaarvormen alsmede van het fiscale regime voor verzekeraars en de directiepensioenlichamen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,37 +42,37 @@ Alzo Wij in overweging genomen hebben, dat het, in het licht van de maatschappel
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 - A. De Wet Belastingherziening 1950 (**Stb.** K423) wordt ingetrokken.
 
-#### Artikel IV
+##### Artikel IV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel V
+##### Artikel V
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VI
+##### Artikel VI
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VII
+##### Artikel VII
 
 1. Hetgeen is voldaan ter verkrijging van een stamrecht en heeft geleid tot een afneming als bedoeld in artikel 44**f,** eerste lid, onderdeel **c**, van de Wet op de inkomstenbelasting 1964, zoals dat artikel luidde op 31 december 1991, komt voor de toepassing van die wet niet in aanmerking als persoonlijke verplichtingen.
 
 2. Verzekeringen welke zijn gesloten na 31 december 1991 doch voor 1 juli 1992 en die niet aanstonds voldoen aan de voorwaarden welke zijn gesteld in de Wet op de inkomstenbelasting 1964, worden geacht vanaf de aanvang van de verzekering aan die voorwaarden te voldoen indien de verzekeringsovereenkomst voor 1 juli 1992, voor zover nodig met terugwerkende kracht tot het aangaan van de overeenkomst, alsnog aan die voorwaarden voldoet.
 
-#### ARTIKEL VIIA
+##### ARTIKEL VIIA
 
 1. Indien een lichaam ingevolge [artikel 5, onderdeel **b**, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=5) met ingang van 1 januari 1992 belastingplichtig is geworden voor de vennootschapsbelasting worden de verplichtingen die voortvloeien uit pensioenregelingen en de andere soortgelijke verplichtingen op de openingsbalans te boek gesteld voor de waarde in het economische verkeer.
 
@@ -60,7 +86,7 @@ Bevat wijzigingen in andere regelgeving.
 
 6. Hoofdstuk VA van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) vindt, voor wat betreft het in rekening brengen van heffingsrente, geen toepassing over het ingevolge dit artikel te betalen bedrag aan belasting.
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. Deze wet treedt in werking met ingang van 1 januari 1992.
 

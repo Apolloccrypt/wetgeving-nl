@@ -1,13 +1,39 @@
 ---
-title: "Besluit erkend stelsel en uitvoering, mandaat en machtiging"
+title: "Besluit van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 15 september 2024 nr. 2024-0000024769, tot het vaststellen en uitvoeren van het erkend stelsel van kwaliteitsverklaringen voor de bouw en tot het verlenen van mandaat en machtiging aan de toelatingsorganisatie kwaliteitsborging bouw (Besluit erkend stelsel en uitvoering, mandaat en machtiging)"
 identifier: "BWBR0050232"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-09-27
-laatste_update: 2024-09-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050232"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-09-27"
+last_updated: "2024-09-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050232"
+soort: "ministeriele-regeling"
+stam_id: "17228113"
+version_id: "30341662"
+internal_id: "C43519221"
+label_id: "17134024"
+dtd_version: "2.0"
+original_entry_into_force: "2024-09-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050232/2024-09-27/0"
+intitule_bron: "Stcrt.2024-31155"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-09-15"
+intitule_published: "2024-09-26"
+intitule_in_force: "2024-09-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-31155"
+original_signed_date: "2024-09-15"
+original_published_date: "2024-09-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-31155"
+entry_into_force_date: "2024-09-27"
+jci_1_3: "jci1.3:c:BWBR0050232&z=2024-09-27&g=2024-09-27"
+jci_1_0: "1.0:c:BWBR0050232&g=2024-09-27"
+citeertitel_status: "redactioneel"
+short_title: "Besluit erkend stelsel en uitvoering, mandaat en machtiging"
+signed_date: "2024-09-15"
+entry_into_force: "2024-09-27"
 ---
-
 # Besluit van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 15 september 2024 nr. 2024-0000024769, tot het vaststellen en uitvoeren van het erkend stelsel van kwaliteitsverklaringen voor de bouw en tot het verlenen van mandaat en machtiging aan de toelatingsorganisatie kwaliteitsborging bouw (Besluit erkend stelsel en uitvoering, mandaat en machtiging)
 
 Gelet op [artikel 4.3, eerste lid, onder a van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.3), de [artikelen 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=1.2) en [2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=2.15) en [bijlage I van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I), en [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1);
@@ -18,7 +44,7 @@ BESLUIT:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -44,7 +70,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Erkend stelsel
 
-#### Artikel 2. Inhoud erkend stelsel
+##### Artikel 2. Inhoud erkend stelsel
 
 1. Kwaliteitsverklaringen waarvan de afgifte voldoet aan de in het derde lid genoemde voorwaarde worden geachte te zijn afgegeven onder het erkend stelsel.
 
@@ -54,7 +80,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 3. Bepalingen ten aanzien van uitvoering?
 
-#### Artikel 3. Voorwaarden afgifte kwaliteitsverklaringen bouw
+##### Artikel 3. Voorwaarden afgifte kwaliteitsverklaringen bouw
 
 1. De minister kan op een aanvraag van een schemabeheerder een beoordelingsrichtlijn aanwijzen die:
 
@@ -86,7 +112,7 @@ In dit besluit wordt verstaan onder:
 
 6. Voor de uitvoering van de bevoegdheden als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=2&artikel=2&z=2024-09-27&g=2024-09-27) en het [eerste en tweede lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=3&z=2024-09-27&g=2024-09-27), maakt de minister gebruik van een aanwijzingskader dat bekend is gemaakt op [www.officielebekendmakingen.nl](http://www.officielebekendmakingen.nl) en op de website van de toelatingsorganisatie is gepubliceerd.
 
-#### Artikel 4. Openbaar register
+##### Artikel 4. Openbaar register
 
 1. De minister houdt een openbaar register bij van de beoordelingsrichtlijnen binnen het stelsel, die voldoen aan [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=3&z=2024-09-27&g=2024-09-27).
 
@@ -100,7 +126,7 @@ In dit besluit wordt verstaan onder:
 
 6. De minister besluit na de uitkomst van het nader onderzoek als bedoeld in het derde lid of de erkenning van de kwaliteitsverklaring wordt ingetrokken en of de publicatie van de kwaliteitsverklaring wordt doorgehaald.
 
-#### Artikel 5. Financiering
+##### Artikel 5. Financiering
 
 1. Voor de aanwijzing, bedoeld in [artikel 2, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=2&artikel=2&z=2024-09-27&g=2024-09-27), is het instituut vergoeding verschuldigd aan de minister.
 
@@ -112,7 +138,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 4. Mandaat en machtiging
 
-#### Artikel 6. Bevoegdheden
+##### Artikel 6. Bevoegdheden
 
 Aan het bestuur van de toelatingsorganisatie wordt mandaat en machtiging verleend om namens de minister de volgende bevoegdheden uit te oefenen en de taken uit te voeren:
 
@@ -130,11 +156,11 @@ Aan het bestuur van de toelatingsorganisatie wordt mandaat en machtiging verleen
 
 - g. het innen van een vergoeding en het bekend maken van de tarieven als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=5&z=2024-09-27&g=2024-09-27).
 
-#### Artikel 7. Beleidsregels
+##### Artikel 7. Beleidsregels
 
 Het op grond van dit besluit verleende mandaat en machtiging ten behoeve van het bestuur van de toelatingsorganisatie omvat mede de bevoegdheid tot het vaststellen, wijzigen of intrekken van beleidsregels met betrekking tot de uitoefening van de bevoegdheden, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=6&z=2024-09-27&g=2024-09-27).
 
-#### Artikel 8. Nemen van besluiten
+##### Artikel 8. Nemen van besluiten
 
 1. Aan het bestuur van de toelatingsorganisatie wordt mandaat en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die verband houden met de uitoefening van de bevoegdheden, bedoeld in [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=6&z=2024-09-27&g=2024-09-27) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=7&z=2024-09-27&g=2024-09-27).
 
@@ -152,7 +178,7 @@ Het op grond van dit besluit verleende mandaat en machtiging ten behoeve van het
 
 4. Aan het bestuur van de toelatingsorganisatie wordt machtiging verleend tot het namens de minister behandelen en beantwoorden van burgerbrieven, daarin zo nodig inhoudelijk bijgestaan door beleidsdirecties van het Ministerie van Volkshuisvestingen Ruimtelijke Ordening.
 
-#### Artikel 9. Ondermandaat
+##### Artikel 9. Ondermandaat
 
 1. Het bestuur van de toelatingsorganisatie is bevoegd ten aanzien van de bevoegdheden en taken zoals genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=6&z=2024-09-27&g=2024-09-27) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=8&z=2024-09-27&g=2024-09-27) ondermandaat en machtiging te verlenen aan de onder het bestuur ressorterende ambtenaren, die werkzaam zijn voor de organisatie.
 
@@ -160,7 +186,7 @@ Het op grond van dit besluit verleende mandaat en machtiging ten behoeve van het
 
 3. Een afschrift van besluiten inzake ondermandaat of machtiging als bedoeld in het vorige lid wordt gezonden aan de secretaris-generaal van en aan het Ministerie van Volkshuisvesting en Ruimtelijke Ordening en aan degenen aan wie krachtens dit besluit ondermandaat dan wel machtiging is verleend.
 
-#### Artikel 10. Ondertekening
+##### Artikel 10. Ondertekening
 
 1. Als een besluit wordt genomen bij of krachtens een in dit besluit gemandateerde bevoegdheid, luidt de ondertekening:
 
@@ -186,13 +212,13 @@ Gevolgd door de functieaanduiding van de functionaris die gemachtigd is tot het 
 
 ### Hoofdstuk 5. Aanwijzing toezichthouders
 
-#### Artikel 11. Aanwijzing toezichthouders
+##### Artikel 11. Aanwijzing toezichthouders
 
 De ambtenaren van de toelatingsorganisatie worden aangewezen als ambtenaren belast met het toezicht op de naleving van het bepaalde bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=6&z=2024-09-27&g=2024-09-27).
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 12. Informatieverstrekking
+##### Artikel 12. Informatieverstrekking
 
 1. Het bestuur van de toelatingsorganisatie stelt jaarlijks voor 15 maart een jaarverslag op over de bevindingen van de in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=6&z=2024-09-27&g=2024-09-27), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=7&z=2024-09-27&g=2024-09-27) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=8&z=2024-09-27&g=2024-09-27) genoemde gemandateerde taken en bevoegdheden en de rechtmatigheid en doeltreffendheid van de hieruit voortvloeiende werkzaamheden in het afgelopen kalenderjaar.
 
@@ -200,7 +226,7 @@ De ambtenaren van de toelatingsorganisatie worden aangewezen als ambtenaren bela
 
 3. Het tweede lid is van overeenkomstige toepassing op bevoegdheden die zijn verleend op basis machtiging.
 
-#### Artikel 13. Overgangsrecht
+##### Artikel 13. Overgangsrecht
 
 Kwaliteitsverklaringen afgegeven onder
 
@@ -210,15 +236,15 @@ Kwaliteitsverklaringen afgegeven onder
 
 zijn kwaliteitsverklaringen als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=2&z=2024-09-27&g=2024-09-27).
 
-#### Artikel 14
+##### Artikel 14
 
 Het [Besluit tot het vaststellen van de voorwaarden in verband met de uitvoering van het erkend stelsel van kwaliteitsverklaringen voor de bouw en tot het verlenen van mandaat en machtiging aan de toelatingsorganisatie kwaliteitsborging bouw](https://wetten.overheid.nl/jci1.3:c:BWBR0046698) (Besluit uitvoering, mandaat en machtiging inzake het erkend stelsel) wordt met de inwerkingtreding van dit besluit ingetrokken.
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na publicatie en heeft terugwerkende kracht tot 1 januari 2024.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit erkend stelsel en uitvoering, mandaat en machtiging.
 

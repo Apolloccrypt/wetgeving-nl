@@ -1,20 +1,46 @@
 ---
-title: "Tijdelijke subsidieregeling onderzoek Topsector Logistiek 2025–2029"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat van 17 juli 2025, nr. IENW/BSK-174790, houdende vaststelling van regels voor subsidie ter stimulering van onderzoeksprojecten die bijdragen aan de transitie naar duurzame, concurrerende en veilige logistieke ketens en goederenvervoer, en emissiereductie door middel van bouwconcepten, emissiereductie in bouwlogistieke ketens, de inzet van emissieloze mobiele werktuigen en de ontwikkeling van digitalisering en ketenregieactiviteiten (Tijdelijke subsidieregeling onderzoek Topsector Logistiek 2025–2029) [KetenID WGK027211]"
 identifier: "BWBR0051304"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-07-23
-laatste_update: 2025-07-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051304"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-23"
+last_updated: "2025-07-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051304"
+soort: "ministeriele-regeling"
+stam_id: "17481723"
+version_id: "30831142"
+internal_id: "C44183121"
+label_id: "17384184"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051304/2025-07-23/0"
+intitule_bron: "Stcrt.2025-25007"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-17"
+intitule_published: "2025-07-22"
+intitule_in_force: "2025-07-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-25007"
+original_signed_date: "2025-07-17"
+original_published_date: "2025-07-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-25007"
+entry_into_force_date: "2025-07-23"
+jci_1_3: "jci1.3:c:BWBR0051304&z=2025-07-23&g=2025-07-23"
+jci_1_0: "1.0:c:BWBR0051304&g=2025-07-23"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke subsidieregeling onderzoek Topsector Logistiek 2025–2029"
+signed_date: "2025-07-17"
+entry_into_force: "2025-07-23"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat van 17 juli 2025, nr. IENW/BSK-174790, houdende vaststelling van regels voor subsidie ter stimulering van onderzoeksprojecten die bijdragen aan de transitie naar duurzame, concurrerende en veilige logistieke ketens en goederenvervoer, en emissiereductie door middel van bouwconcepten, emissiereductie in bouwlogistieke ketens, de inzet van emissieloze mobiele werktuigen en de ontwikkeling van digitalisering en ketenregieactiviteiten (Tijdelijke subsidieregeling onderzoek Topsector Logistiek 2025–2029) [KetenID WGK027211]
 
 Gelet op de artikelen [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [6, eerste en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=7), [8, eerste en tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=9), [10, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=13), [15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=15), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22), [24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24), en [artikel 26, eerste lid, onder b, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=26);
 
 BESLUIT:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -48,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 - **Universiteiten van Nederland:** de koepelorganisatie van de veertien publieke universiteiten van Nederland.
 
-#### Artikel 2. Doel van de subsidieregeling
+##### Artikel 2. Doel van de subsidieregeling
 
 Doel van deze regeling is het stimuleren van onderzoeksprojecten die bijdragen aan:
 
@@ -56,7 +82,7 @@ Doel van deze regeling is het stimuleren van onderzoeksprojecten die bijdragen a
 
 - b. emissiereductie door middel van bouwconcepten, emissiereductie in bouwlogistieke ketens, de inzet van emissieloze mobiele werktuigen en de ontwikkeling van digitalisering en ketenregieactiviteiten in lijn met de doelstellingen van het convenant Schoon en Emissieloos Bouwen.
 
-#### Artikel 3. Subsidiabele projecten en steunpercentages
+##### Artikel 3. Subsidiabele projecten en steunpercentages
 
 1. De minister kan ten behoeve van het doel, bedoeld in [artikel 2, aanhef, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051304&artikel=2&z=2025-07-23&g=2025-07-23), subsidie verstrekken aan een consortium voor een onderzoeksproject dat past binnen het uitvoeringsprogramma Topsector Logistiek 2024–2027.
 
@@ -70,7 +96,7 @@ Doel van deze regeling is het stimuleren van onderzoeksprojecten die bijdragen a
 
 4. Het totale bedrag aan subsidie is niet hoger dan het bedrag aan private bijdragen voor het onderzoeksproject.
 
-#### Artikel 4. Subsidiabele kosten
+##### Artikel 4. Subsidiabele kosten
 
 1. Voor subsidie komen alleen de kosten, bedoeld in artikel 25, derde lid, onderdelen a tot en met e, van de algemene groepsvrijstellingsverordening, in aanmerking.
 
@@ -84,13 +110,13 @@ Doel van deze regeling is het stimuleren van onderzoeksprojecten die bijdragen a
 
 3. De kosten van de inhuur van derden maakt voor ten hoogste 10% deel uit van de totale projectkosten.
 
-#### Artikel 5. Berekening subsidiabele kosten integrale kostensystematiek
+##### Artikel 5. Berekening subsidiabele kosten integrale kostensystematiek
 
 1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze, bedoeld in [artikel 4, tweede lid, aanhef, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0051304&artikel=4&z=2025-07-23&g=2025-07-23), worden de directe en indirecte kosten per kostendrager in een tarief per eenheid van deze kostendrager berekend.
 
 2. De subsidiabele kosten worden berekend door het aantal eenheden van de kostendrager te vermenigvuldigen met het ingevolge het eerste lid berekende tarief, vermeerderd met de aan een derde betaalde kosten voor zover deze geen deel uitmaken van het ingevolge het eerste lid vastgestelde tarief.
 
-#### Artikel 6. Berekening subsidiabele kosten per kostendrager
+##### Artikel 6. Berekening subsidiabele kosten per kostendrager
 
 1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze, bedoeld in [artikel 4, tweede lid, aanhef, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051304&artikel=4&z=2025-07-23&g=2025-07-23), worden de directe loonkosten per uur vermenigvuldigd met het aantal uren dat direct bij de subsidiabele activiteiten betrokken personen ten behoeve van deze activiteiten hebben gewerkt.
 
@@ -108,7 +134,7 @@ Doel van deze regeling is het stimuleren van onderzoeksprojecten die bijdragen a
 
 4. Voor zover er geen loonkosten worden gemaakt, maar niettemin arbeid wordt verricht, wordt voor de berekening van de kosten van de arbeid uitgegaan van € 80 per uur.
 
-#### Artikel 7. Berekening subsidiabele kosten forfaitair vastgesteld uurtarief
+##### Artikel 7. Berekening subsidiabele kosten forfaitair vastgesteld uurtarief
 
 1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze, bedoeld in [artikel 4, tweede lid, aanhef, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0051304&artikel=4&z=2025-07-23&g=2025-07-23), wordt een uurtarief gehanteerd van € 80 per uur.
 
@@ -118,7 +144,7 @@ Doel van deze regeling is het stimuleren van onderzoeksprojecten die bijdragen a
 
 - b. aan derden betaalde kosten.
 
-#### Artikel 8. Subsidieplafond en wijze van verdelen subsidieplafond
+##### Artikel 8. Subsidieplafond en wijze van verdelen subsidieplafond
 
 1. De minister kan op grond van deze regeling subsidie verstrekken indien hij de mogelijkheid tot het doen van een aanvraag tot subsidieverlening heeft opengesteld door vaststelling van een subsidieplafond en van een periode voor indiening van de aanvraag.
 
@@ -138,7 +164,7 @@ Doel van deze regeling is het stimuleren van onderzoeksprojecten die bijdragen a
 
 9. De subsidie bedraagt ten hoogste € 1.000.000 per project.
 
-#### Artikel 9. Indiening aanvraag
+##### Artikel 9. Indiening aanvraag
 
 1. Een aanvraag tot subsidieverlening wordt ingediend bij TKI Logistiek met gebruikmaking van het volledig ingevulde aanvraagformulier, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051304&bijlage=2&z=2025-07-23&g=2025-07-23)
 
@@ -152,7 +178,7 @@ bij deze regeling.
 
 5. Een aanvraag voor subsidie heeft betrekking op één project.
 
-#### Artikel 10. Afwijzingsgronden
+##### Artikel 10. Afwijzingsgronden
 
 Onverminderd de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=11) en [12 van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=12) genoemde afwijzingsgronden, wijst de minister de aanvraag voor de subsidie in ieder geval af indien:
 
@@ -172,37 +198,37 @@ Onverminderd de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&
 
 - h. de subsidieverstrekking niet in overeenstemming is met enige andere bepaling in de algemene groepsvrijstellingsverordening.
 
-#### Artikel 11. Verplichtingen subsidieontvanger
+##### Artikel 11. Verplichtingen subsidieontvanger
 
 In aanvulling op de [artikelen 17 tot en met 20 van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=17) verstrekt het consortium waaraan een subsidie is verleend binnen twaalf weken na de datum van de beschikking tot subsidieverlening aan de minister een overeenkomst als bedoeld in [artikel 26, eerste lid, onderdeel b, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=26).
 
-#### Artikel 12. Bevoorschotting
+##### Artikel 12. Bevoorschotting
 
 Het te verlenen voorschot bedraagt 100% van de verleende subsidie en wordt uitgekeerd binnen twaalf weken na de datum van de beschikking tot subsidieverlening.
 
-#### Artikel 13. Subsidievaststelling
+##### Artikel 13. Subsidievaststelling
 
 De subsidieaanvrager dient binnen tweeëntwintig weken nadat het project is afgerond een aanvraag tot vaststelling als bedoeld in [artikel 24 van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24) in.
 
-#### Artikel 14. Begrotingsvoorbehoud
+##### Artikel 14. Begrotingsvoorbehoud
 
 Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34).
 
-#### Artikel 15. Evaluatie
+##### Artikel 15. Evaluatie
 
 De minister publiceert binnen vijf jaren na de inwerkingtreding van deze regeling een verslag over de doeltreffendheid en de effecten van deze regeling in de praktijk.
 
-#### Artikel 16. Wijziging [Tijdelijke subsidieregeling onderzoek Topsector Logistiek 2022 – 2026](https://wetten.overheid.nl/jci1.3:c:BWBR0046454)
+##### Artikel 16. Wijziging [Tijdelijke subsidieregeling onderzoek Topsector Logistiek 2022 – 2026](https://wetten.overheid.nl/jci1.3:c:BWBR0046454)
 
 Wijzigt de Tijdelijke subsidieregeling onderzoek Topsector Logistiek 2022 – 2026.
 
-#### Artikel 17. Inwerkingtreding en vervaldatum
+##### Artikel 17. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2030, met dien verstande dat zij van toepassing blijft op subsidies die op grond van deze regeling voor die datum zijn verleend.
 
-#### Artikel 18. Citeertitel
+##### Artikel 18. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling onderzoek Topsector Logistiek 2025–2029.
 

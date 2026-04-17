@@ -1,16 +1,41 @@
 ---
 title: "Petroleumwet Saba Bank BES"
 identifier: "BWBR0028163"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028163"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028163"
+soort: "wet-BES"
+stam_id: "10685353"
+version_id: "17646222"
+internal_id: "C25829291"
+label_id: "10660054"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028163/2019-01-01/0"
+intitule_bron: "Stb.2010-433"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-08-31"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-433"
+original_signed_date: "2010-08-31"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-433"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028163&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0028163&g=2019-01-01"
+citeertitel_status: "officieel"
+signed_date: "2010-08-31"
+entry_into_force: "2010-10-10"
 ---
-
 # Petroleumwet Saba Bank BES
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
@@ -40,25 +65,25 @@ bron: "https://wetten.overheid.nl/BWBR0028163"
 
 2. Deze wet en de daarop berustende bepalingen zijn mede van toepassing op de Saba Bank en binnen de daarboven gelegen exclusieve economische zone.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De in of op de Saba Bank aanwezige petroleum is eigendom van de het Rijk.
 
 2. De eigendom van deze petroleum gaat door de winning over op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=3&z=2019-01-01&g=2019-01-01) genoemde naamloze vennootschap.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De naamloze vennootschap Saba Bank Resources N.V., gevestigd op Saba, heeft het exclusieve recht op het onderzoek naar- en de winning van petroleum in of op Saba Bank, behoudens het bepaalde in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=6&z=2019-01-01&g=2019-01-01).
 
 2. De aandelen van Saba Bank Resources N.V. kunnen slechts gehouden worden door het Rijk.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Saba Bank Resources N.V. is gerechtigd om, indien en voorzover zij zulks noodzakelijk oordeelt, met betrekking tot het onderzoek naar- en de winning van petroleum in of op de Saba Bank overeenkomsten met derden aan te gaan, welke alvorens in werking te kunnen treden de goedkeuring behoeven van Onze Minister.
 
 2. Ingeval een overeenkomst als bedoeld in het eerste lid betrekking heeft op onderzoek met gebruikmaking van boringen en op winning van petroleum, verleent Onze Minister zijn goedkeuring slechts indien de overeenkomst wordt aangegaan met een of meer volgens het recht van Bonaire, Sint Eustatius en Saba opgerichte en aldaar gevestigde naamloze vennootschappen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Bij algemene maatregel van bestuur, worden, de Mijnraad gehoord, regelen gesteld betreffende het aangaan van de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=4&z=2019-01-01&g=2019-01-01) bedoelde overeenkomsten.
 
@@ -90,13 +115,13 @@ bron: "https://wetten.overheid.nl/BWBR0028163"
 
 - c). de voorgeschreven maatregelen op kosten van de nalatige te doen verrichten.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onze Minister kan op daartoe strekkend verzoek, na overleg met Saba Bank Resources N.V. en in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschap aan derden vergunning verlenen tot het instellen van een zuiver wetenschappelijk onderzoek in, op of boven de Saba Bank.
 
 2. Onze Minister kan, de Mijnraad gehoord, aan de in het eerste lid bedoelde vergunning voorschriften verbinden.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Saba Bank Resources N.V. is in verband met het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=3&z=2019-01-01&g=2019-01-01), aan haar verleende recht, een heffing verschuldigd aan het Rijk.
 
@@ -120,7 +145,7 @@ Beloopt de gemiddelde dagproduktie als bedoeld in lid 2 meer dan 299 999 vaten, 
 
 7. De gelden welke uit hoofde van de in het eerste lid bedoelde heffing aan het Rijk verschuldigd zijn, worden door de zorg van Onze Minister van Financiën gestort in een bij landsbesluit aan te wijzen dan wel bij algemene maatregel van bestuur, op te richten fonds ten behoeve van de economische ontwikkeling van Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Derden waarmede een overeenkomst tot winning van petroleum als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=4&z=2019-01-01&g=2019-01-01), is aangegaan, zijn belasting verschuldigd op hun belastbare winst als omschreven in dit artikel.
 
@@ -142,7 +167,7 @@ De verschuldigde winstbelasting, wordt ingeval van opcenten-heffing vanwege het 
 
 9. Voorzover daarvan in dit artikel niet uitdrukkelijk is afgeweken, blijven de bepalingen van hoofdstuk IV van de Belastingwet BES van toepassing. De winst, behaald uit andere hoofde dan met de aktiviteiten welke specifiek omschreven zijn in bovenbedoelde overeenkomst, blijft onderworpen aan de bepalingen van voornoemde wet.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Er is een Mijnraad, welke tot taak heeft Onze Minister te adviseren omtrent de uitvoering van deze wet.
 
@@ -152,7 +177,7 @@ De verschuldigde winstbelasting, wordt ingeval van opcenten-heffing vanwege het 
 
 4. De Mijnraad brengt jaarlijks vóór 31 december aan Onze Minister schriftelijk verslag uit omtrent haar werkzaamheden.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de daartoe bij ministeriële regeling aangewezen personen. Een zodanige aanwijzing wordt bekendgemaakt in de Staatscourant.
 
@@ -172,31 +197,31 @@ De verschuldigde winstbelasting, wordt ingeval van opcenten-heffing vanwege het 
 
 5. Een ieder is verplicht aan de krachtens het eerste lid aangewezen personen alle medewerking te verlenen die op grond van het tweede lid wordt gevorderd.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Hij die opzettelijk zonder vergunning als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=6&z=2019-01-01&g=2019-01-01), handelt, maakt zich aan een misdrijf schuldig en wordt gestraft met gevangenisstraf van ten hoogste zes jaren en geldboete van ten hoogste vijfhonderdduizend gulden, hetzij met een van deze straffen.
 
 2. Voor zover de handeling als in het eerste lid bedoeld niet opzettelijk is verricht, wordt zij beschouwd als overtreding en gestraft met hechtenis van ten hoogste een jaar en geldboete van ten hoogste duizend gulden, hetzij met een van deze straffen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Overtreding van het bij [artikel 9, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=9&z=2019-01-01&g=2019-01-01) en [artikel 10, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=10&z=2019-01-01&g=2019-01-01), bepaalde en van krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028163&artikel=5&z=2019-01-01&g=2019-01-01) gestelde regelen en voorschriften, wordt gestraft met hechtenis van ten hoogste een jaar en/of geldboete van ten hoogste tienduizend gulden.
 
 2. De in het eerste lid strafbaar gestelde feiten zijn overtredingen.
 
-#### Artikel 13
+##### Artikel 13
 
 [vervallen]
 
-#### Artikel 14
+##### Artikel 14
 
 De strafwet van Bonaire, Sint Eustatius en Saba is van toepassing op ieder die zich op een petroleuminstallatie aan enig strafbaar feit schuldig maakt.
 
-#### Artikel 15
+##### Artikel 15
 
 Voor de toepassing van het bij of krachtens [hoofdstuk II van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II) bepaalde wordt in of op de Saba Bank gewonnen petroleum geacht gewonnen te zijn in het binnenland van Bonaire, Sint Eustatius en Saba en gedurende het rechtstreekse vervoer naar een der eilanden van Bonaire, Sint Eustatius en Saba in het binnenland te blijven.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze wet kan worden aangehaald als «Petroleumwet Saba Bank BES».
 

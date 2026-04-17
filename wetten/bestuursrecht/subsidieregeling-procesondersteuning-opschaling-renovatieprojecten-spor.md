@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling procesondersteuning opschaling renovatieprojecten (SPOR)"
+title: "Regeling van de Minister van Binnenlandse zaken en Koninkrijksrelaties van 30 oktober 2023, nr. 2023-0000602558, houdende vaststelling van regels voor subsidiëring van procesondersteuning ten behoeve van de vraagbundeling van duurzame renovatieprojecten (Subsidieregeling procesondersteuning opschaling renovatieprojecten)"
 identifier: "BWBR0048856"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048856"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048856"
+soort: "ministeriele-regeling"
+stam_id: "16908243"
+version_id: "29714822"
+internal_id: "C42584011"
+label_id: "16819814"
+dtd_version: "2.0"
+original_entry_into_force: "2023-11-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048856/2025-07-01/0"
+intitule_bron: "Stcrt.2023-30341"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-10-30"
+intitule_published: "2023-11-07"
+intitule_in_force: "2023-11-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-30341"
+original_signed_date: "2023-10-30"
+original_published_date: "2023-11-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-30341"
+entry_into_force_date: "2023-11-08"
+jci_1_3: "jci1.3:c:BWBR0048856&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0048856&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling procesondersteuning opschaling renovatieprojecten (SPOR)"
+signed_date: "2023-10-30"
+entry_into_force: "2023-11-08"
 ---
-
 # Regeling van de Minister van Binnenlandse zaken en Koninkrijksrelaties van 30 oktober 2023, nr. 2023-0000602558, houdende vaststelling van regels voor subsidiëring van procesondersteuning ten behoeve van de vraagbundeling van duurzame renovatieprojecten (Subsidieregeling procesondersteuning opschaling renovatieprojecten)
 
 Gelet op [artikelen 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=3), en [4, eerste lid, van de Kaderwet overige BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=4) en de [artikelen 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=8), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=14), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=20) en [21, onderdeel h, van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=21);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -58,15 +84,15 @@ In deze regeling wordt verstaan onder:
 
 - –. **woningeigenaar:** woningcorporatie, natuurlijk persoon of rechtspersoon die een of meer voor verhuur bestemde woningen in eigendom heeft, eigenaar-bewoner dan wel een vereniging.
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Deze regeling heeft tot doel het opschalen van duurzame renovatieprojecten van woningen te stimuleren door het subsidiëren van procesondersteuning voor samenwerkingsverbanden bij de bundeling van renovatieplannen voor woningen voorafgaande aan de uitvoering van de renovatie.
 
-#### Artikel 3. Staatssteun
+##### Artikel 3. Staatssteun
 
 Bij verstrekking van subsidie op grond van deze regeling voor de activiteiten, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048856&artikel=5&z=2025-07-01&g=2025-07-01), wordt toepassing gegeven aan de de-minimisverordening.
 
-#### Artikel 4. Subsidieplafond en wijze van verdeling
+##### Artikel 4. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond voor aanvragen op grond van deze regeling is:
 
@@ -82,7 +108,7 @@ Bij verstrekking van subsidie op grond van deze regeling voor de activiteiten, b
 
 3. Indien er meer aanvragen zijn ontvangen op één dag waarbij toekenning van al deze aanvragen zou leiden tot overschrijding van het betreffende subsidieplafond, wordt de onderlinge rangorde op volgorde van binnenkomst vastgesteld.
 
-#### Artikel 5. Subsidieactiviteiten en -voorwaarden
+##### Artikel 5. Subsidieactiviteiten en -voorwaarden
 
 1. De minister kan subsidie verstrekken aan de penvoerder voor de kosten voor een procesondersteuner voor het opstellen of het pogen op te stellen van een door alle partijen geaccordeerd verduurzamingsplan en het ondersteunen van een samenwerkingsverband ten behoeve van de voorbereiding van een gezamenlijk renovatieproject voor de verduurzaming van een aantal woningen binnen het samenwerkingsverband, mits het renovatieproject voldoet aan de eisen, bedoeld in het tweede lid.
 
@@ -136,7 +162,7 @@ Bij verstrekking van subsidie op grond van deze regeling voor de activiteiten, b
 
 8. In afwijking van het zesde lid wordt geen subsidie verstrekt ten behoeve van het samenwerkingsverband als blijkt dat een begunstigde van staatssteun meer steun ontvangt dan is toegestaan op basis van de de-minimisverordening.
 
-#### Artikel 6. Aanvraag van de subsidie
+##### Artikel 6. Aanvraag van de subsidie
 
 1. De aanvraag voor subsidieverlening wordt door de penvoerder van het samenwerkingsverband, in de periode van 13 november 2023 tot en met 30 september 2026 ingediend, met gebruikmaking van een door de minister elektronisch beschikbaar gesteld formulier op de website van Rijksdienst voor Ondernemend Nederland.
 
@@ -160,7 +186,7 @@ Bij verstrekking van subsidie op grond van deze regeling voor de activiteiten, b
 
 3. Een aanvraag als bedoeld in het eerste lid bevat naast de gegevens en bescheiden, bedoeld in het tweede lid, tevens een verklaring per eigenaar van een of meerdere huurwoningen, waaruit blijkt dat deze begunstigde van staatssteun niet meer steun ontvangt dan is toegestaan op grond van de de-minimisverklaring.
 
-#### Artikel 7. Hoogte van de subsidie
+##### Artikel 7. Hoogte van de subsidie
 
 1. Het subsidiebedrag voor een samenwerkingsverband met een verduurzamingsplan voor ten minste 100 huurwoningen en minimaal twee woningeigenaren bedraagt € 75.000 plus € 1.000 per extra koopwoning of € 750 per extra huurwoning binnen het samenwerkingsverband, tot een maximum totaalbedrag van € 200.000.
 
@@ -168,7 +194,7 @@ Bij verstrekking van subsidie op grond van deze regeling voor de activiteiten, b
 
 3. Het subsidiebedrag voor een samenwerkingsverband met een verduurzamingsplan voor ten minste 100 huurwoningen en minimaal 30 koopwoningen bedraagt € 105.000 plus € 1.000 per extra koopwoning of € 750 per extra huurwoning binnen het samenwerkingsverband, tot een maximum totaalbedrag van € 200.000.
 
-#### Artikel 8. Afwijzingsgronden
+##### Artikel 8. Afwijzingsgronden
 
 De minister beslist afwijzend op een deel of de gehele aanvraag voor subsidie indien:
 
@@ -194,7 +220,7 @@ De minister beslist afwijzend op een deel of de gehele aanvraag voor subsidie in
 
 - g. de procesondersteuner niet deelneemt aan het programma Verbouwstromen, bedoeld in [artikel 9, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0048856&artikel=9&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 9. Subsidieverplichtingen
+##### Artikel 9. Subsidieverplichtingen
 
 1. De subsidieontvanger is verplicht:
 
@@ -210,13 +236,13 @@ De minister beslist afwijzend op een deel of de gehele aanvraag voor subsidie in
 
 2. Indien het opstellen van het verduurzamingsplan binnen de termijn, genoemd in het eerste lid, onderdeel b, buiten de schuld van de subsidieontvanger niet mogelijk is, kan de minister die termijn op schriftelijk en gemotiveerd verzoek van de subsidieontvanger eenmaal met ten hoogste zes maanden verlengen.
 
-#### Artikel 10. Wijze van subsidieverstrekking en voorschot
+##### Artikel 10. Wijze van subsidieverstrekking en voorschot
 
 1. Bij de verstrekking van een subsidie op grond van deze regeling van meer dan € 125.000 is [artikel 17 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=17) van toepassing.
 
 2. De minister verleent bij het besluit tot subsidieverlening een voorschot van € 25.000.
 
-#### Artikel 11. Aanvraag tot subsidievaststelling
+##### Artikel 11. Aanvraag tot subsidievaststelling
 
 1. De aanvraag tot subsidievaststelling wordt ingediend door de penvoerder van het samenwerkingsverband met gebruikmaking van een door de minister elektronisch beschikbaar gesteld formulier op de website van Rijksdienst voor Ondernemend Nederland.
 
@@ -252,11 +278,11 @@ De minister beslist afwijzend op een deel of de gehele aanvraag voor subsidie in
 
 - c. een overzicht van de kosten die zijn gemaakt door de procesondersteuner voor het samenwerkingsverband onderbouwd met facturen en betaalbewijzen.
 
-#### Artikel 12. Inwerkingtreding en verval
+##### Artikel 12. Inwerkingtreding en verval
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2028, met dien verstande dat zij van toepassing blijft op subsidies die op grond van deze regeling zijn verleend.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling procesondersteuning opschaling renovatieprojecten (SPOR).
 

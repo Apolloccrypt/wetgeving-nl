@@ -1,13 +1,38 @@
 ---
 title: "Bijdragebeschikking Professionaliseringsfonds Burgemeesters 2006–2007 Nederlands Genootschap van Burgemeesters"
 identifier: "BWBR0019604"
-categorie: "Bestuursrecht"
-publicatiedatum: 2006-05-01
-laatste_update: 2006-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019604"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2006-05-01"
+last_updated: "2006-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019604"
+soort: "ministeriele-regeling"
+stam_id: "8084963"
+version_id: "12929112"
+internal_id: "C17420351"
+label_id: "8066004"
+dtd_version: "2.0"
+original_entry_into_force: "2006-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019604/2006-05-01/0"
+intitule_bron: "Stcrt.2006-44"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-02-24"
+intitule_published: "2006-03-02"
+intitule_in_force: "2006-03-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-44"
+original_signed_date: "2006-02-24"
+original_published_date: "2006-03-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-44-p11-SC74029"
+entry_into_force_date: "2006-05-01"
+jci_1_3: "jci1.3:c:BWBR0019604&z=2006-05-01&g=2006-05-01"
+jci_1_0: "1.0:c:BWBR0019604&g=2006-05-01"
+citeertitel_status: "redactioneel"
+signed_date: "2006-02-24"
+entry_into_force: "2006-05-01"
 ---
-
 # Bijdragebeschikking Professionaliseringsfonds Burgemeesters 2006–2007 Nederlands Genootschap van Burgemeesters
 
 Overwegende dat:
@@ -26,7 +51,7 @@ Het wenselijk is regels vast te stellen betreffende de aan het fonds toe te kenn
 
 Besluit:
 
-#### Artikel 1. Bijdragen
+##### Artikel 1. Bijdragen
 
 1. Op aanvraag van het Nederlands Genootschap van Burgemeesters (NGB) kent de minister, op basis van de in de meerjarenraming van de begroting van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties opgenomen bedragen, een bijdrage toe aan het NGB.
 
@@ -36,7 +61,7 @@ Besluit:
 
 4. Na ontvangst van de beleidsverantwoording, de financiële eindverantwoording en een goedkeurende accountantsverklaring, waaruit blijkt dat de accountant geen materiële afwijkingen meldt ten aanzien van de naleving van deze beschikking, volgt de afrekening van de resterende 20%.
 
-#### Artikel 2. Aard en omvang activiteiten waarvoor de bijdragen zijn bedoeld
+##### Artikel 2. Aard en omvang activiteiten waarvoor de bijdragen zijn bedoeld
 
 De aard en omvang van de activiteiten waarvoor de bijdragen zijn bedoeld zijn uitgewerkt in het beleidsplan van het NGB. De onderstaande punten zijn in ieder geval daarin opgenomen.
 
@@ -54,7 +79,7 @@ De aard en omvang van de activiteiten waarvoor de bijdragen zijn bedoeld zijn ui
 
 - 3. Ten behoeve van de ontwikkeling van het aanbod worden de behoeftes van burgemeesters gepeild. Individuele burgemeesters kunnen het NGB verzoeken om toekenning van de faciliteiten vanuit het Professionaliseringsfonds Burgemeesters. Het NGB ontwikkelt in het beleidsplan een kader op grond waarvan de faciliteiten aan een individuele burgemeester worden toegewezen.
 
-#### Artikel 3. De toekenning van de bijdragen geschiedt onder de volgende verplichtingen
+##### Artikel 3. De toekenning van de bijdragen geschiedt onder de volgende verplichtingen
 
 1. De verantwoordelijkheid voor het beheer van de bijdragen en voor de uitvoering van de activiteiten genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019604&artikel=2&z=2006-05-01&g=2006-05-01), berust bij het bestuur van het NGB of bij een door het NGB bestuur aan te wijzen commissie bestaande uit leden van het NGB.
 
@@ -80,7 +105,7 @@ De aard en omvang van de activiteiten waarvoor de bijdragen zijn bedoeld zijn ui
 
 12. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019604&artikel=1&z=2006-05-01&g=2006-05-01) bedoelde voorschotten worden verstrekt onder de verplichting dat terugbetaling dient te geschieden indien blijkt dat de goedkeurende accountantsverklaring als bedoeld in artikel 3, lid 9, achterwege blijft of anderszins door het NGB niet aan de subsidievoorwaarden is voldaan.
 
-#### Artikel 4. Overige bepalingen
+##### Artikel 4. Overige bepalingen
 
 1. Het NGB zal in 2007 een evaluatieonderzoek uitvoeren naar de resultaten en effecten van de activiteiten van het fonds over de periode van 1 januari 2006 tot 1 juli 2007. Vóór 1 juli 2006 wordt een voorstel voor het evaluatieonderzoek aan de minister aangeboden. Het afgeronde evaluatieverslag wordt uiterlijk op 1 september 2007 aan de minister aangeboden.
 

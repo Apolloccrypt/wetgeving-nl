@@ -1,20 +1,44 @@
 ---
-title: "Toeslagregeling pensioenen Suriname en Nederlandse Antillen"
+title: "Besluit van 19 april 1967, houdende verlening van toeslag op de pensioenen van bepaalde Surinaamse en Nederlands Antilliaanse ambtenaren en leerkrachten van het bijzonder onderwijs en hun nagelaten betrekkingen"
 identifier: "BWBR0002574"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2006-01-01
-laatste_update: 2006-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002574"
+country: "nl"
+rank: "rijks_kb"
+publication_date: "2006-01-01"
+last_updated: "2006-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002574"
+soort: "rijksKB"
+stam_id: "953213"
+version_id: "1395702"
+internal_id: "C1395701"
+label_id: "924174"
+dtd_version: "2.0"
+original_entry_into_force: "2002-04-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002574/2006-01-01/0"
+intitule_bron: "Stb.1967-260"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1967-04-19"
+intitule_status: "goed"
+original_publication: "Stb.2002-195"
+original_signed_date: "2002-02-18"
+original_published_date: "2002-04-25"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2002-195"
+entry_into_force_date: "2002-04-26"
+jci_1_3: "jci1.3:c:BWBR0002574&z=2006-01-01&g=2006-01-01"
+jci_1_0: "1.0:c:BWBR0002574&g=2006-01-01"
+citeertitel_status: "officieel"
+short_title: "Toeslagregeling pensioenen Suriname en Nederlandse Antillen"
+signed_date: "2002-02-18"
+entry_into_force: "2002-04-26"
 ---
-
 # Besluit van 19 april 1967, houdende verlening van toeslag op de pensioenen van bepaalde Surinaamse en Nederlands Antilliaanse ambtenaren en leerkrachten van het bijzonder onderwijs en hun nagelaten betrekkingen
 
 Op de voordracht van Onze Vice-Minister-President, mede namens Onze Ministers van Binnenlandse Zaken en van Financiën van 28 februari 1967, Nr. 17939/K 2536;
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor de toepassing van het bij of krachtens dit besluit bepaalde wordt verstaan onder:
 
@@ -38,7 +62,7 @@ Hebben goedgevonden en verstaan:
 
 2. In bijzondere gevallen is Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Financiën bevoegd te beslissen, dat een persoon, die niet voldoet aan de in het voorgaande lid onder **a**, 3**e** omschreven voorwaarde, doch wel voldoet aan de in dat lid onder **a** onderscheidenlijk **b** omschreven overige voorwaarden, moet worden gelijkgesteld met een in Nederland aangenomen en van daar uitgezonden persoon en deswege voor de toepassing van dit besluit zal worden aangemerkt als ambtenaar onderscheidenlijk gepensioneerd ambtenaar.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Indien en voor zolang een gepensioneerd ambtenaar, die de leeftijd van 55 jaren heeft bereikt dan wel is gepensioneerd uit hoofde van lichamelijke ongeschiktheid voor de dienst, een weduwe of een wees buiten Suriname en de Nederlandse Antillen is gevestigd, wordt hem of haar, indien en voor zolang het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=3&z=2006-01-01&g=2006-01-01) bedoelde bedrag-A minder bedraagt, dan het overeenkomstig het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=4&z=2006-01-01&g=2006-01-01) berekende bedrag-B, door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties ten laste van het Rijk een uitkering verleend ten bedrage van het verschil.
 
@@ -50,11 +74,11 @@ Hebben goedgevonden en verstaan:
 
 3. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties beslist of iemand voor de toepassing van dit besluit al dan niet zal worden aangemerkt als te zijn gevestigd of gevestigd geweest buiten Suriname en de Nederlandse Antillen.
 
-#### Artikel 3
+##### Artikel 3
 
 Het in het [eerste lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=2&z=2006-01-01&g=2006-01-01) bedoelde bedrag-A is het bedrag, dat moet worden aangemerkt als de in euro uitgedrukte tegenwaarde van hetgeen de betrokkene in een of meer van de in [artikel 1, eerste lid onder **b**, **c** en **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=1&z=2006-01-01&g=2006-01-01) genoemde hoedanigheden ingevolge de toepasselijke Surinaamse of Nederlands Antilliaanse regeling of regelingen in totaal aan pensioen, uitkering bij wijze van pensioen en onderstand is toegekend, vermeerderd met alle daarop verleende toeslagen met inbegrip van, onder welke benaming ook verleende, kindertoelagen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Behoudens het in het tweede lid bepaalde, is het in het [eerste lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=2&z=2006-01-01&g=2006-01-01) bedoelde bedrag-B het bedrag, dat de betrokkene ingevolge de [Algemene burgerlijke pensioenwet, zoals deze wet laatstelijk luidde op 31 december 1995](onbekend) uitsluitend naar diensttijd en berekeningsgrondslag berekend in totaal aan pensioen, weduwenpensioen of wezenpensioen zou toekomen, indien de gepensioneerde ambtenaar of de ambtenaar in Nederlandse ambtelijke dienst zou zijn geweest en daaruit zou zijn gepensioneerd onderscheidenlijk daarin zou zijn overleden, met dien verstande, dat voor de berekening:
 
@@ -72,7 +96,7 @@ Het in het [eerste lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - b. indien en voor zover het betreft een Nederlands Antilliaans pensioen, waarop ingevolge de regeling op grond waarvan het is toegekend een evenredige vermindering wordt toegepast, het bedrag-B, voor zolang die vermindering duurt, naar dezelfde evenredigheid lager gesteld.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De uitkering wordt toegekend op door of namens een belanghebbende als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=2&z=2006-01-01&g=2006-01-01) na zijn vertrek uit Suriname of de Nederlandse Antillen gedaan schriftelijk verzoek:
 
@@ -82,33 +106,33 @@ Het in het [eerste lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 2. Als verzoek om toekenning van een uitkering als bedoeld in het voorgaande lid wordt mede aangemerkt een door of namens een persoon als bedoeld in het [tweede lid van artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=1&z=2006-01-01&g=2006-01-01), na zijn vertrek uit Suriname of de Nederlandse Antillen gedaan schriftelijk verzoek om voor de toepassing van dit besluit te worden aangemerkt als gepensioneerd ambtenaar, weduwe of wees.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij gelijktijdig genot van pensioen krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) of de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en een uitkering krachtens dit besluit, wordt op die uitkering een vermindering toegepast, welke wordt berekend met overeenkomstige toepassing van hetgeen ten aanzien van de beperking van de uitbetaling van Indonesisch pensioen bij gelijktijdig genot van pensioen krachtens die wetten is bepaald in de [Samenloopregeling Indonesische Pensioenen 1960](https://wetten.overheid.nl/jci1.3:c:BWBR0002414), met dien verstande, dat indien het betreft een weduwe of een wees, de diensttijd, naar welke het pensioen, de uitkering bij wijze van pensioen dan wel de onderstand wordt geacht te zijn berekend, wordt gesteld op de overeenkomstig het eerste lid onder 1**e****b**. van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=4&z=2006-01-01&g=2006-01-01) berekende diensttijd.
 
 2. Indien en voor zover ter zake van het genot van een uitkering krachtens dit besluit premie krachtens de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) wordt geheven, wordt voor rekening van het lichaam, dat de uitkering verschuldigd is, aan de rechthebbende een vergoeding verleend overeenkomstig het in [artikel 27 van de Samenloopregeling Indonesische Pensioenen 1960](https://wetten.overheid.nl/jci1.3:c:BWBR0002414&artikel=27) bepaalde.
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. Indien een pensioen, een uitkering bij wijze van pensioen of een onderstand als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=3&z=2006-01-01&g=2006-01-01) dan wel een daarop verleende toeslag verandering ondergaat, is de betrokkene gehouden daarvan onverwijld kennis te geven aan het lichaam, dat de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002574&artikel=2&z=2006-01-01&g=2006-01-01) bedoelde uitkering betaalt.
 
 2. Indien de betrokkene zodanige kennisgeving niet binnen drie maanden, nadat hij van een verandering kennis heeft gekregen, doet, gaat een verhoging van de uitkering niet eerder in dan met ingang van de maand, waarin het lichaam daarvan kennis heeft gekregen.
 
-#### Artikel 6b
+##### Artikel 6b
 
 1. Indien recht is ontstaan op pensioen na 31 december 2000 heeft de rechthebbende die de leeftijd van 65 jaar nog niet heeft bereikt, in afwijking van de [Wet brutering overhevelingstoeslag lonen](https://wetten.overheid.nl/jci1.3:c:BWBR0006353), recht op een toeslag ter grootte van 1,9% van dat pensioen, met een maximum van € 791,85 per jaar.
 
 2. Voor de toepassing van het bij of krachtens dit besluit bepaalde wordt de toeslag krachtens dit artikel niet onder pensioen of uitkering begrepen.
 
-#### Artikel 7
+##### Artikel 7
 
 Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is bevoegd voor de uitvoering van dit besluit nadere regelen vast te stellen.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit kan worden aangehaald als: Toeslagregeling pensioenen Suriname en Nederlandse Antillen.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad**, waarin het wordt geplaatst en werkt terug tot 1 januari 1967.
 

@@ -1,18 +1,43 @@
 ---
 title: "Wet overeenkomsten langs elektronische weg BES"
 identifier: "BWBR0028237"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028237"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028237"
+soort: "wet-BES"
+stam_id: "10718253"
+version_id: "17686382"
+internal_id: "C24763041"
+label_id: "10693314"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028237/2010-10-10/0"
+intitule_bron: "Stb.2010-502"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-14"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-502"
+original_signed_date: "2010-09-14"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-502"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028237&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028237&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-14"
+entry_into_force: "2010-10-10"
 ---
-
 # Wet overeenkomsten langs elektronische weg BES
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -38,7 +63,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Commerciële communicatie
 
-#### Artikel 2
+##### Artikel 2
 
 1. Commerciële communicatie dient steeds als zodanig herkenbaar te zijn.
 
@@ -46,7 +71,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Wanneer de aanbieder van commerciële communicatie in het kader van commerciële communicatie gebruik maakt van wedstrijden en spelen, moeten deze als zodanig herkenbaar zijn, terwijl de deelnemingsvoorwaarden gemakkelijk te vervullen moeten zijn en nauwkeurig en ondubbelzinnig moeten worden voorgesteld. Het is de aanbieder van commerciële communicatie verboden daarbij gebruik te maken van enig bij wettelijk voorschrift gereguleerde wedstrijd of spel.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij algemene maatregel van bestuur kunnen:
 
@@ -64,7 +89,7 @@ Bij algemene maatregel van bestuur kunnen:
 
 - e. nadere regels worden gesteld ten aanzien van de inhoud en aard van de commerciële communicatie, de aard of omvang van elektronische handel en de doelgroep.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Ongevraagde commerciële communicatie dient steeds duidelijk en ondubbelzinnig als zodanig herkenbaar te zijn.
 
@@ -72,7 +97,7 @@ Bij algemene maatregel van bestuur kunnen:
 
 ### Hoofdstuk 3. Aanbieder van commerciële communicatie
 
-#### Artikel 5
+##### Artikel 5
 
 1. De aanbieder van commerciële communicatie is gehouden bij zijn commerciële communicatie ten minste de volgende gegevens volledig en duidelijk te vermelden:
 
@@ -104,7 +129,7 @@ Bij algemene maatregel van bestuur kunnen:
 
 ### Hoofdstuk 4. Overeenkomsten langs elektronische weg
 
-#### Artikel 6
+##### Artikel 6
 
 1. De aanbieder van commerciële communicatie stelt de wederpartij de voorwaarden die de door hem te sluiten overeenkomsten langs elektronische weg beheersen, met inbegrip van eventuele algemene voorwaarden, langs elektronische weg ter beschikking op een wijze dat de wederpartij in staat is deze op te slaan en later weer te geven dan wel verstrekt hem deze schriftelijk.
 
@@ -112,7 +137,7 @@ Bij algemene maatregel van bestuur kunnen:
 
 ### Hoofdstuk 5. Elektronische handtekening
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een elektronische handtekening heeft dezelfde rechtskracht als een handgeschreven handtekening en kan als bewijsmiddel in een gerechtelijke procedure worden toegelaten.
 
@@ -124,7 +149,7 @@ Bij algemene maatregel van bestuur kunnen:
 
 #### § 1. Aansprakelijkheid dienstenaanbieders
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een dienstenaanbieder is niet aansprakelijk voor de inhoud van commerciële communicatie of andere informatie die door zijn tussenkomst langs elektronische weg wordt verzonden of opgeslagen, op voorwaarde dat hij:
 
@@ -144,7 +169,7 @@ Bij algemene maatregel van bestuur kunnen:
 
 #### § 2. Aansprakelijkheid certificatiedienstverleners
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een certificatiedienstverlener is – tenzij hij bewijst dat hij niet nalatig heeft gehandeld – aansprakelijk voor schade die natuurlijke of rechtspersonen die in redelijkheid op een door de certificatiedienstverlener afgegeven certificaat vertrouwen ondervinden, in samenhang met:
 
@@ -160,7 +185,7 @@ Bij algemene maatregel van bestuur kunnen:
 
 ### Hoofdstuk 7. Bescherming vertrouwelijkheid en privacy
 
-#### Artikel 10
+##### Artikel 10
 
 1. Persoonsgegevens die door een aanbieder van commerciële communicatie of dienstenaanbieder worden verkregen mogen slechts worden verwerkt voor zover:
 
@@ -180,7 +205,7 @@ Bij algemene maatregel van bestuur kunnen:
 
 4. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld die de opslag, verwerking, het doorgeven, de anonimisering, de vernietiging van persoonsgegevens en de inzage door de betrokkene betreffen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De informatie die een aanbieder van commerciële communicatie of dienstenaanbieder ontvangt en waarvan hij weet of redelijkerwijs kan weten dat deze als vertrouwelijk behandeld dient te worden, zal als zodanig worden behandeld.
 
@@ -190,7 +215,7 @@ Bij algemene maatregel van bestuur kunnen:
 
 ### Hoofdstuk 8. Cryptografie
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het gebruik van cryptografische technieken is toegestaan, op voorwaarde dat de gebruiker op wettige wijze de beschikking over deze technieken heeft verkregen en deze niet gebruikt voor onwettige activiteiten.
 
@@ -198,7 +223,7 @@ Bij algemene maatregel van bestuur kunnen:
 
 ### Hoofdstuk 9. Buitengerechtelijke geschillenbeslechting
 
-#### Artikel 13
+##### Artikel 13
 
 1. Bij algemene maatregel van bestuur kan een college voor buitengerechtelijke beslechting van geschillen in het leven worden geroepen, onder daarin te bepalen regels, voorwaarden en procedures, met inbegrip van beslechting met behulp van daartoe geëigende elektronische technieken.
 
@@ -210,7 +235,7 @@ Bij algemene maatregel van bestuur kunnen:
 
 #### § 1. Toezicht
 
-#### Artikel 14
+##### Artikel 14
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de daartoe bij ministeriële regeling aangewezen ambtenaren of personen. Een zodanige aanwijzing wordt bekendgemaakt in de Staatscourant.
 
@@ -234,7 +259,7 @@ Bij algemene maatregel van bestuur kunnen:
 
 6. Zij die uit hoofde van ambt, beroep of wettelijk voorschrift verplicht zijn tot geheimhouding, kunnen het verlenen van medewerking weigeren, voor zover dit uit hun geheimhoudingsplicht voortvloeit.
 
-#### Artikel 15
+##### Artikel 15
 
 Bij de uitoefening van hun taak dragen de toezichthouders een door de Minister te verstrekken legitimatiebewijs bij zich.
 
@@ -246,7 +271,7 @@ Bij de uitoefening van hun taak dragen de toezichthouders een door de Minister t
 
 #### § 2. Opsporing
 
-#### Artikel 16
+##### Artikel 16
 
 1. Met de opsporing van de bij [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028237&hoofdstuk=13&artikel=31&z=2010-10-10&g=2010-10-10) strafbaar gestelde feiten zijn, naast de in [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184) bedoelde personen, belast de daartoe bij ministeriële regeling aangewezen personen. Een zodanige aanwijzing wordt bekend gemaakt in de Staatscourant.
 
@@ -254,11 +279,11 @@ Bij de uitoefening van hun taak dragen de toezichthouders een door de Minister t
 
 ### Hoofdstuk 11. Bestuursdwang
 
-#### Artikel 17
+##### Artikel 17
 
 De Minister is bevoegd tot het doen wegnemen, ontruimen, beletten, in de vorige toestand herstellen of verrichten van hetgeen in strijd met de in deze wet en de daarop berustende bepalingen is of wordt gedaan, gehouden of nagelaten.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Een beslissing tot toepassing van bestuursdwang wordt op schrift gesteld en geldt als een beschikking. De beschikking vermeldt welk voorschrift is overtreden.
 
@@ -268,7 +293,7 @@ De Minister is bevoegd tot het doen wegnemen, ontruimen, beletten, in de vorige 
 
 4. Indien de situatie dermate spoedeisend is dat de Minister de beslissing tot toepassing van bestuursdwang niet tevoren op schrift kan stellen, zorgt de Minister alsnog zo spoedig mogelijk voor de opschriftstelling en de bekendmaking.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De overtreder is de kosten verbonden aan de toepassing van bestuursdwang verschuldigd, tenzij de kosten redelijkerwijze niet of niet geheel te zijnen laste behoren te komen.
 
@@ -280,7 +305,7 @@ De Minister is bevoegd tot het doen wegnemen, ontruimen, beletten, in de vorige 
 
 5. De kosten zijn ook verschuldigd indien de bestuursdwang door opheffing van de onrechtmatige situatie niet of niet volledig is uitgevoerd.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De Minister kan van de overtreder bij dwangbevel de verschuldigde kosten, verhoogd met de op de invordering vallende kosten, invorderen.
 
@@ -290,19 +315,19 @@ De Minister is bevoegd tot het doen wegnemen, ontruimen, beletten, in de vorige 
 
 4. Het verzet schorst de tenuitvoerlegging. Op verzoek van de Staat kan de rechter de schorsing van de tenuitvoerlegging opheffen.
 
-#### Artikel 21
+##### Artikel 21
 
 De kosten verbonden aan de toepassing van bestuursdwang zijn bevoorrecht op de zaak ten aanzien waarvan zij zijn besteed en worden na de kosten, bedoeld in [artikel 284 van het derde Boek van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=284), uit de opbrengst van de zaak betaald.
 
-#### Artikel 22
+##### Artikel 22
 
 Om aan een beslissing van bestuursdwang uitvoering te geven, komen de ambtenaren of personen die daartoe door de Minister zijn aangewezen, de bevoegdheden toe, genoemd in [artikel 14, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028237&hoofdstuk=10&paragraaf=1&artikel=14&z=2010-10-10&g=2010-10-10). Artikel 14, vierde lid, is van toepassing.
 
-#### Artikel 23
+##### Artikel 23
 
 Tot de bevoegdheid tot toepassing van bestuursdwang behoort het verzegelen van gebouwen, terreinen en hetgeen zich daarin of daarop bevindt.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Tot de bevoegdheid tot toepassing van bestuursdwang behoort het meevoeren en opslaan van daarvoor vatbare zaken voor zover de toepassing van bestuursdwang dit vereist.
 
@@ -314,7 +339,7 @@ Tot de bevoegdheid tot toepassing van bestuursdwang behoort het verzegelen van g
 
 5. De Staat is niet aansprakelijk voor afgifte van het opgeslagene aan een onbevoegde.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De Minister is bevoegd indien een opgeslagen zaak niet binnen dertien weken na de opslag kan worden teruggegeven aan de rechthebbende, deze te doen verkopen of, indien verkoop naar zijn oordeel niet mogelijk is, de zaak om niet aan een derde in eigendom over te dragen of te laten vernietigen.
 
@@ -328,7 +353,7 @@ Tot de bevoegdheid tot toepassing van bestuursdwang behoort het verzegelen van g
 
 #### § 2. Last onder dwangsom
 
-#### Artikel 26
+##### Artikel 26
 
 1. De Minister kan in plaats van het uitoefenen van bestuursdwang aan de overtreder een last onder dwangsom opleggen.
 
@@ -336,19 +361,19 @@ Tot de bevoegdheid tot toepassing van bestuursdwang behoort het verzegelen van g
 
 3. In de beschikking tot oplegging van een last onder dwangsom die strekt tot het ongedaan maken of het beëindigen wordt een termijn gesteld gedurende welke de overtreder de last kan uitvoeren zonder dat een dwangsom wordt verbeurd.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Verbeurde dwangsommen komen toe aan de Staat. De Minister kan bij dwangbevel het verschuldigde bedrag invorderen.
 
 2. [Artikel 20, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028237&hoofdstuk=11&artikel=20&z=2010-10-10&g=2010-10-10), is van toepassing.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De Minister kan op verzoek van de overtreder de last opheffen, de looptijd ervan opschorten voor een bepaalde termijn of de dwangsom verminderen ingeval van blijvende of tijdelijke gehele of gedeeltelijke onmogelijkheid voor de overtreder om aan zijn verplichtingen te voldoen.
 
 2. De Minister kan op verzoek van de overtreder de last opheffen indien de beschikking een jaar van kracht is geweest zonder dat de dwangsom is verbeurd.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De bevoegdheid tot invordering van verbeurde bedragen verjaart door verloop van een jaar na de dag waarop zij zijn verbeurd.
 
@@ -356,13 +381,13 @@ Tot de bevoegdheid tot toepassing van bestuursdwang behoort het verzegelen van g
 
 ### Hoofdstuk 12. Aanwijzingen
 
-#### Artikel 30
+##### Artikel 30
 
 De Minister kan, wanneer de uitvoering van deze wet en de daarop berustende bepalingen dat vordert, aan een aanbieder van commerciële communicatie of dienstenaanbieder een of meer aanwijzingen geven.
 
 ### Hoofdstuk 13. Strafbepalingen
 
-#### Artikel 31
+##### Artikel 31
 
 1. Overtreding van het in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028237&hoofdstuk=2&artikel=2&z=2010-10-10&g=2010-10-10), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028237&hoofdstuk=2&artikel=4&z=2010-10-10&g=2010-10-10), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028237&hoofdstuk=7&artikel=10&z=2010-10-10&g=2010-10-10), of krachtens [artikel 3, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028237&hoofdstuk=2&artikel=3&z=2010-10-10&g=2010-10-10), gestelde verbod, is, voor zover opzettelijk begaan, een misdrijf en wordt gestraft met, hetzij gevangenisstraf van ten hoogste twee jaren en geldboete van de vijfde categorie, hetzij met één van beide straffen.
 
@@ -370,7 +395,7 @@ De Minister kan, wanneer de uitvoering van deze wet en de daarop berustende bepa
 
 3. Handelen in strijd met de bij de bij of krachtens de [artikelen 3, onderdelen c, d, en e](https://wetten.overheid.nl/jci1.3:c:BWBR0028237&hoofdstuk=2&artikel=3&z=2010-10-10&g=2010-10-10), [5, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028237&hoofdstuk=3&artikel=5&z=2010-10-10&g=2010-10-10), [8 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028237&hoofdstuk=6&paragraaf=1&artikel=8&z=2010-10-10&g=2010-10-10), [10, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028237&hoofdstuk=7&artikel=10&z=2010-10-10&g=2010-10-10), [11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028237&hoofdstuk=7&artikel=11&z=2010-10-10&g=2010-10-10), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028237&hoofdstuk=8&artikel=12&z=2010-10-10&g=2010-10-10), [13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028237&hoofdstuk=9&artikel=13&z=2010-10-10&g=2010-10-10), of [14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028237&hoofdstuk=10&paragraaf=1&artikel=14&z=2010-10-10&g=2010-10-10), gestelde voorschriften, of krachtens [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0028237&hoofdstuk=12&artikel=30&z=2010-10-10&g=2010-10-10) gegeven aanwijzingen, is een overtreding en wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de vijfde categorie.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Degene die opzettelijk de bij [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028237&hoofdstuk=14&artikel=33&z=2010-10-10&g=2010-10-10) opgelegde geheimhouding schendt, wordt gestraft hetzij met gevangenisstraf van ten hoogste twee jaren hetzij met een geldboete van de vijfde categorie, hetzij met beide straffen. Het in dit lid strafbaar gestelde feit is een misdrijf.
 
@@ -380,14 +405,14 @@ De Minister kan, wanneer de uitvoering van deze wet en de daarop berustende bepa
 
 ### Hoofdstuk 14. Slotbepalingen
 
-#### Artikel 33
+##### Artikel 33
 
 Eenieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij de uitvoering van deze wet de noodzaak tot bekendmaking voortvloeit.
 
-#### Artikel 34
+##### Artikel 34
 
 [Vervallen]
 
-#### Artikel 35
+##### Artikel 35
 
 Deze wet wordt aangehaald als: Wet overeenkomsten langs elektronische weg BES.

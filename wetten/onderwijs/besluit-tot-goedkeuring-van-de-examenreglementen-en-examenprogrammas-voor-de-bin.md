@@ -1,20 +1,46 @@
 ---
-title: "Besluit tot goedkeuring van de examenreglementen en examenprogramma's voor de binnenvaart 2020"
+title: "Besluit van de Minister van Infrastructuur en Waterstaat, van 24 december 2019, nr. IENW/BSK-2019/269660, tot vaststelling van het Besluit tot goedkeuring examenreglementen en examenprogramma's voor de binnenvaart 2020"
 identifier: "BWBR0043031"
-categorie: "Onderwijs"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043031"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043031"
+soort: "ministeriele-regeling"
+stam_id: "15309623"
+version_id: "26393802"
+internal_id: "C37502531"
+label_id: "15255394"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043031/2020-01-01/0"
+intitule_bron: "Stcrt.2019-71361"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-12-24"
+intitule_published: "2019-12-31"
+intitule_in_force: "2019-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-71361"
+original_signed_date: "2019-12-24"
+original_published_date: "2019-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-71361"
+entry_into_force_date: "2020-01-01"
+jci_1_3: "jci1.3:c:BWBR0043031&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0043031&g=2020-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit tot goedkeuring van de examenreglementen en examenprogramma's voor de binnenvaart 2020"
+signed_date: "2019-12-24"
+entry_into_force: "2020-01-01"
 ---
-
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 24 december 2019, nr. IENW/BSK-2019/269660, tot vaststelling van het Besluit tot goedkeuring examenreglementen en examenprogramma's voor de binnenvaart 2020
 
 Gelet op de [artikelen 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&artikel=1.12), [1.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&artikel=1.18), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&artikel=2.3), [2.10, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&artikel=2.10), [7.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&artikel=7.6), [7.8, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&artikel=7.8), [7.9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&artikel=7.9), [7.19a](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&artikel=7.19a), en [7.21, eerste en tweede lid, van de Binnenvaartregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&artikel=7.21) en de [artikelen 4.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=4.01) en [4a.05 van het Reglement betreffende scheepvaartpersoneel op de Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=4a.05);
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 Het algemeen examenreglement CCV, alsmede de examenprogramma’s voor de volgende diploma’s van het Centraal Bureau Rijvaardigheidsbewijzen te Rijswijk, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043031&bijlage=1&z=2020-01-01&g=2020-01-01), worden goedgekeurd:
 
@@ -42,15 +68,15 @@ Het algemeen examenreglement CCV, alsmede de examenprogramma’s voor de volgend
 
 - l. CWO groot motorschip.
 
-#### Artikel 2
+##### Artikel 2
 
 De Examenregeling cursus Zoute Veren Nautisch en de Examenregeling cursus Zoute Veren Technisch, houdende de examenprogramma’s en examenvoorschriften voor de diploma’s Zoute Veren Nautisch en Zoute Veren Technisch van het Maritiem Instituut Willem Barentsz. te West-Terschelling, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043031&bijlage=2&z=2020-01-01&g=2020-01-01) worden goedgekeurd.
 
-#### Artikel 3
+##### Artikel 3
 
 Het [Besluit van de Staatssecretaris van Infrastructuur en Milieu van 21 januari 2013, nr. IENM/BSK-2013/6117, tot goedkeuring van de examenreglementen en examenprogramma’s voor de binnenvaart 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032807) wordt ingetrokken.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking op 1 januari 2020.
 

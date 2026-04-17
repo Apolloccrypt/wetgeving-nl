@@ -1,13 +1,38 @@
 ---
 title: "Regeling cafetariamodel defensie"
 identifier: "BWBR0038619"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2024-11-28
-laatste_update: 2024-11-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038619"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-11-28"
+last_updated: "2024-11-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038619"
+soort: "ministeriele-regeling"
+stam_id: "13769743"
+version_id: "30446662"
+internal_id: "C43658001"
+label_id: "13736074"
+dtd_version: "2.0"
+original_entry_into_force: "2024-11-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038619/2024-11-28/0"
+intitule_bron: "Stcrt.2016-54988"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-10-11"
+intitule_published: "2016-10-19"
+intitule_in_force: "2016-10-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-38708"
+original_signed_date: "2024-11-19"
+original_published_date: "2024-11-27"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-38708"
+entry_into_force_date: "2024-11-19"
+jci_1_3: "jci1.3:c:BWBR0038619&z=2024-11-28&g=2024-11-28"
+jci_1_0: "1.0:c:BWBR0038619&g=2024-11-28"
+citeertitel_status: "officieel"
+signed_date: "2024-11-19"
+entry_into_force: "2024-11-19"
 ---
-
 # Regeling cafetariamodel defensie
 
 Gelet op:
@@ -18,7 +43,7 @@ Gelet op:
 
 Besluit:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In deze regeling wordt verstaan onder:
 
@@ -28,7 +53,7 @@ In deze regeling wordt verstaan onder:
 
 - c. **doelen:** de bestedingsmogelijkheden, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=5&z=2024-11-28&g=2024-11-28).
 
-#### Artikel 2. Aanvraag
+##### Artikel 2. Aanvraag
 
 1. De defensieambtenaar heeft de mogelijkheid de geldswaarde van bronnen in te zetten voor één of meer doelen.
 
@@ -38,7 +63,7 @@ In deze regeling wordt verstaan onder:
 
 4. Een aanvraag wordt uiterlijk vóór de eerste dag van de maand waarin de bron tot uitbetaling komt ingediend.
 
-#### Artikel 3. Voorwaarden
+##### Artikel 3. Voorwaarden
 
 1. Bronnen kunnen slechts voor doelen worden ingezet zolang zij nog niet zijn genoten of uitbetaald.
 
@@ -48,7 +73,7 @@ In deze regeling wordt verstaan onder:
 
 4. Op een gehonoreerde aanvraag kan gedurende de periode waarop deze betrekking heeft, niet meer worden teruggekomen.
 
-#### Artikel 4. Bronnen
+##### Artikel 4. Bronnen
 
 1. De defensieambtenaar kan een aanvraag indienen om één of meer van de volgende aanspraken uit te ruilen voor een onbelast bedrag voor één of meer in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=5&z=2024-11-28&g=2024-11-28) genoemde doelen:
 
@@ -64,7 +89,7 @@ In deze regeling wordt verstaan onder:
 
 3. Eventuele aanpassingen van het salaris met terugwerkende kracht, na de realisatie van de aanvraag, leiden niet tot herberekening van de geldswaarde van de aanspraken, genoemd in het eerste lid.
 
-#### Artikel 5. Bestedingsmogelijkheden
+##### Artikel 5. Bestedingsmogelijkheden
 
 1. Voor zover de geldende fiscale bepalingen dit mogelijk maken, worden de onderstaande bestedingsmogelijkheden als doelen aangemerkt:
 
@@ -108,7 +133,7 @@ In deze regeling wordt verstaan onder:
 
 4. Indien het bedrag, genoemd in [artikel 4, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=4&z=2024-11-28&g=2024-11-28), deels of volledig wordt gebruikt voor de in het eerste lid onder b en c genoemde bestedingsmogelijkheden gelden uitsluitend de voorwaarden, genoemd in het derde lid.
 
-#### Artikel 6. Verhaal, verrekening of uitbetaling
+##### Artikel 6. Verhaal, verrekening of uitbetaling
 
 1. Indien achteraf blijkt dat door onjuiste informatie van de defensieambtenaar ten onrechte belastingvrij vergoedingen of verstrekkingen hebben plaatsgevonden, worden de loonheffing en sociale premies die over die vergoeding verschuldigd zijn, alsmede de eventuele boetes, alsnog op de defensieambtenaar verhaald en direct verrekend met het salaris.
 
@@ -116,17 +141,17 @@ In deze regeling wordt verstaan onder:
 
 3. Bij overlijden van de defensieambtenaar wordt een eventueel saldo ten gunste van het Ministerie van Defensie niet teruggevorderd.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 oktober 2016.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als Regeling cafetariamodel defensie.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 6a. Grondslag
+##### Artikel 6a. Grondslag
 
 Met ingang van 1 januari 2018 berust deze regeling mede op de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=8) en [43 van het Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=43) en de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=5) en [14 van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=14).
 

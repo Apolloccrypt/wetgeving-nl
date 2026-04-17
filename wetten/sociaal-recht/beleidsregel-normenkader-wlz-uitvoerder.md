@@ -1,32 +1,57 @@
 ---
 title: "Beleidsregel normenkader Wlz-uitvoerder"
 identifier: "BWBR0050558"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-12-14
-laatste_update: 2024-12-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050558"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-12-14"
+last_updated: "2024-12-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050558"
+soort: "zbo"
+stam_id: "17308243"
+version_id: "30484072"
+internal_id: "C43708091"
+label_id: "17212284"
+dtd_version: "2.0"
+original_entry_into_force: "2024-12-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050558/2024-12-14/0"
+intitule_bron: "Stcrt.2024-39706"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-19"
+intitule_published: "2024-12-13"
+intitule_in_force: "2024-12-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-39706"
+original_signed_date: "2024-11-19"
+original_published_date: "2024-12-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-39706"
+entry_into_force_date: "2024-12-14"
+jci_1_3: "jci1.3:c:BWBR0050558&z=2024-12-14&g=2024-12-14"
+jci_1_0: "1.0:c:BWBR0050558&g=2024-12-14"
+citeertitel_status: "officieel"
+signed_date: "2024-11-19"
+entry_into_force: "2024-12-14"
 ---
-
 # Beleidsregel normenkader Wlz-uitvoerder
 
 De Nederlandse Zorgautoriteit (NZa) houdt op grond van [artikel 16, onderdeel d, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=16) (Wmg) toezicht op de rechtmatige en doelmatige uitvoering van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) (Wlz) door Wlz-uitvoerders.
 
 Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) (Awb), stelt de NZa beleidsregels vast met betrekking tot een haar toekomende of onder haar verantwoordelijkheid uitgeoefende bevoegdheid. Dit normenkader is hier een uitwerking van.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 Voor de begrippen die in deze beleidsregel voorkomen wordt verwezen naar de Beleidsregel definities Wlz.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om ten behoeve van de Wlz-uitvoerders vast te leggen hoe de NZa invulling geeft aan haar taak toezicht te houden op de uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917). De normen in deze beleidsregel drukken uit wat de NZa in haar toezichtuitoefening verwacht van Wlz-uitvoerders. De NZa heeft bij de formulering van deze normen de doelen van de Wlz als uitgangspunt genomen. Deze doelen (zie [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050558&bijlage=1&z=2024-12-14&g=2024-12-14) Overzicht doelen Wlz) vinden in deze beleidsregel artikelsgewijs hun uitwerking.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op Wlz-uitvoerders.
 
-#### Artikel 4. Normen Waarborgen beschikbaarheid van zorg (kerndoel I)
+##### Artikel 4. Normen Waarborgen beschikbaarheid van zorg (kerndoel I)
 
 De Wlz-uitvoerder waarborgt, voor de korte en langere termijn, de beschikbaarheid van voldoende, doelmatige en kwalitatief goede zorg (alle vormen zorg in natura (zin)), in aansluiting bij de voorkeuren en zorgvraag van verzekerden.
 
@@ -68,7 +93,7 @@ De Wlz-uitvoerder waarborgt, voor de korte en langere termijn, de beschikbaarhei
 
 - ii. De Wlz-uitvoerder heeft inzicht in de resultaten van zijn (eerdere) activiteiten gericht op preventie, integrale zorg en ondersteuning en heeft deze resultaten meegenomen in zijn vervolgactiviteiten en plannen voor de toekomst.
 
-#### Artikel 5. Normen Waarborgen toegankelijkheid van zorg (kerndoel II)
+##### Artikel 5. Normen Waarborgen toegankelijkheid van zorg (kerndoel II)
 
 **De Wlz-uitvoerder waarborgt dat verzekerden gedurende de looptijd van hun Wlz-indicatie tijdig toegang hebben tot zorg die voor hen passend is en aansluit bij hun zorgvraag en voorkeuren (voor zover deze doelmatig kan worden geleverd).**
 
@@ -200,7 +225,7 @@ De Wlz-uitvoerder waarborgt, voor de korte en langere termijn, de beschikbaarhei
 
 - ii. De Wlz-uitvoerder informeert cliënten (en/of hun vertegenwoordigers) actief over de mogelijkheid bij klachten over de zorgverlening door de zorgaanbieder beroep te doen op een Wkkgz-functionaris (Wkkgz: [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173)).
 
-#### Artikel 6. Normen Waarborgen rechtmatige en doelmatige besteding (kerndoel III)
+##### Artikel 6. Normen Waarborgen rechtmatige en doelmatige besteding (kerndoel III)
 
 **De Wlz-uitvoerder waarborgt dat zorguitgaven en beheerskosten doelmatig en rechtmatig zijn en gericht op het realiseren van de doelen van de verzekering**
 
@@ -232,7 +257,7 @@ De Wlz-uitvoerder waarborgt, voor de korte en langere termijn, de beschikbaarhei
 
 - iii. In de uitvoering van zijn wettelijke taak beperkt de Wlz-uitvoerder de administratieve lasten bij de zorgaanbieder waar mogelijk.
 
-#### Artikel 7. Normen Waarborgen governance (kerndoel IV)
+##### Artikel 7. Normen Waarborgen governance (kerndoel IV)
 
 De Wlz-uitvoerder waarborgt een rechtmatige en doelmatige uitvoering van de verzekering door een integere en beheerste inrichting en aansturing van zijn organisatie
 
@@ -354,11 +379,11 @@ De Wlz-uitvoerder waarborgt een rechtmatige en doelmatige uitvoering van de verz
 
 - ii. De Wlz-uitvoerder beschikt over een deugdelijk systeem waarmee het de verzekerden informeert over de rechten en verplichtingen die voortvloeien uit de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), waaronder leveringsvormen, cliëntondersteuning, langdurige zorg op grond van de Wlz in het buitenland, en eigen bijdrage.
 
-#### Artikel 8. Intrekken oude beleidsregel
+##### Artikel 8. Intrekken oude beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel worden de [Beleidsregel normenkader Wlz-uitvoerder](https://wetten.overheid.nl/jci1.3:c:BWBR0049529) (met kenmerk TH/BR-032) ingetrokken.
 
-#### Artikel 9. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
+##### Artikel 9. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
 
 De [Beleidsregel normenkader Wlz-uitvoerder](https://wetten.overheid.nl/jci1.3:c:BWBR0049529), met kenmerk TH/BR-032 blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

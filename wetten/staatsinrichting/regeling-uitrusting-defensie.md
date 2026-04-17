@@ -1,13 +1,38 @@
 ---
 title: "Regeling uitrusting Defensie"
 identifier: "BWBR0039887"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2025-04-12
-laatste_update: 2025-04-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039887"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-04-12"
+last_updated: "2025-04-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039887"
+soort: "ministeriele-regeling"
+stam_id: "14131623"
+version_id: "24303052"
+internal_id: "C34888401"
+label_id: "14092854"
+dtd_version: "2.0"
+original_entry_into_force: "2009-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039887/2025-04-12/0"
+intitule_bron: "Stcrt.2017-46842"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-12-18"
+intitule_published: "2017-08-17"
+intitule_in_force: "2017-08-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-46842"
+original_signed_date: "2008-12-18"
+original_published_date: "2017-08-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-46842"
+entry_into_force_date: "2009-01-01"
+jci_1_3: "jci1.3:c:BWBR0039887&z=2025-04-12&g=2025-04-12"
+jci_1_0: "1.0:c:BWBR0039887&g=2025-04-12"
+citeertitel_status: "officieel"
+signed_date: "2008-12-18"
+entry_into_force: "2009-01-01"
 ---
-
 # Regeling uitrusting Defensie
 
 Gelet op:
@@ -22,7 +47,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1. Betekenis van uitdrukkingen
+##### Artikel 1. Betekenis van uitdrukkingen
 
 1. Voor de toepassing van deze regeling wordt, voor zover niet anders blijkt, verstaan onder:
 
@@ -92,7 +117,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 - e. **onderdeel:** eenheid.
 
-#### Artikel 2. Algemene bepalingen inzake rangen
+##### Artikel 2. Algemene bepalingen inzake rangen
 
 1. In deze regeling worden tijdelijke en titulaire rangen aangemerkt als effectieve rangen.
 
@@ -102,25 +127,25 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ## Titel I. Verstrekking
 
-#### Artikel 3. Verstrekking van PGU
+##### Artikel 3. Verstrekking van PGU
 
 1. De defensiemedewerker ontvangt de tot zijn PGU behorende artikelen draagklaar en passend van Defensie in bruikleen, zodra en zolang hij daarover moet beschikken.
 
 2. In afwijking van het bepaalde in het vorige lid heeft de defensiemedewerker, indien een aantal artikelen niet in natura kan worden verstrekt, ter zake aanspraak op een door de minister vastgestelde tegemoetkoming in de aanschaffingskosten daarvan.
 
-#### Artikel 4. Verstrekking van PGU in de tropen
+##### Artikel 4. Verstrekking van PGU in de tropen
 
 1. Indien de militair is aangewezen voor het verrichten van dienst in de tropen zonder dat er sprake is van plaatsing, kan de minister bepalen of, en zo ja over welk gedeelte van de PGU bestemd voor de tropen de betrokken militair moet beschikken.
 
 2. De minister kan bij verstrekking van de PGU bestemd voor de tropen rekening houden met eerdere verstrekkingen ingevolge het derde lid.
 
-#### Artikel 5. Verstrekking van de PGU van een ander krijgsmachtdeel
+##### Artikel 5. Verstrekking van de PGU van een ander krijgsmachtdeel
 
 1. De minister kan bepalen dat de militair – niet behorende tot het commando der Koninklijke marechaussee – die voor onbepaalde tijd wordt tewerkgesteld bij een onderdeel van een ander krijgsmachtdeel dan dat waartoe hij behoort, moet beschikken over de gehele of gedeeltelijke PGU, – de tot gelegenheidskleding behorende artikelen uitgezonderd – welke bij dat krijgsmachtdeel geldt voor de groep van militairen waartoe hij alsdan geacht wordt te behoren.
 
 2. De minister kan bepalen dat de militair die bij een onderdeel van een ander krijgsmachtdeel dan dat waartoe hij behoort in opleiding is, met het doel om na het met gunstig resultaat beëindigen van die opleiding ingedeeld te worden bij dat krijgsmachtdeel, mede moet beschikken over de gehele dan wel gedeeltelijke PGU, welke geldt voor de groep van militairen waartoe hij alsdan geacht wordt te behoren.
 
-#### Artikel 6. Tegemoetkoming in de kosten van aanschaffing van tot de PGU behorende artikelen die niet in natura worden verstrekt
+##### Artikel 6. Tegemoetkoming in de kosten van aanschaffing van tot de PGU behorende artikelen die niet in natura worden verstrekt
 
 1. De vrouwelijke militair die ingevolge de voor haar vastgestelde PGU de beschikking moet hebben over artikelen die niet in natura worden verstrekt heeft bij eerste opkomst aanspraak op een tegemoetkoming in de kosten van die artikelen. De tegemoetkoming bedraagt:
 
@@ -148,17 +173,17 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ## Titel II. Onderhoud en vervanging
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het onderhoud en de vervanging van artikelen welke de defensiemedewerker in bruikleen zijn verstrekt, geschiedt door en voor rekening van Defensie.
 
 2. In afwijking van het eerste lid kan de commandant van het KPU-bedrijf bepalen dat voor een beperkt aantal artikelen vervanging geschiedt op andere wijze.
 
-#### Artikel 8. Tenuewijziging
+##### Artikel 8. Tenuewijziging
 
 De defensiemedewerker die ten gevolge van een bevordering, de uitvoering van het in zijn bezit zijnde tenue dient aan te passen, heeft aanspraak op verstrekking van de daarvoor benodigde artikelen.
 
-#### Artikel 9. Draagklaar en passend maken van kleding
+##### Artikel 9. Draagklaar en passend maken van kleding
 
 1. In die gevallen dat aan de defensiemedewerker een kledingstuk wordt verstrekt:
 
@@ -172,7 +197,7 @@ geschieden de desbetreffende werkzaamheden voor rekening van Defensie.
 
 3. De in het eerste lid bedoelde werkzaamheden geschieden bij of door de zorg van een door de commandant van het Kleding- en persoonsgebonden uitrusting bedrijf aangewezen onderdeel.
 
-#### Artikel 10. Onderscheidingen
+##### Artikel 10. Onderscheidingen
 
 1. Een militair aan wie een ridderorde, ereteken of medaille is verleend, waarvan de datum van toekenning is gelegen na 30 november 1999, heeft voor de eerste aanschaf, indien de onderscheiding niet in natura wordt verstrekt, aanspraak op vergoeding van de aanschafkosten van de groot model onderscheiding en de bijbehorende baton, alsmede de eventuele opmaakkosten.
 
@@ -180,7 +205,7 @@ geschieden de desbetreffende werkzaamheden voor rekening van Defensie.
 
 3. Indien de onderscheiding aan een of meer reeds in bezit zijnde onderscheidingen dient te worden toegevoegd, heeft de militair tevens aanspraak op de opmaakkosten van het totaal aan groot model onderscheidingen, batons en – indien het avondtenue deel uitmaakt van de PGU van de betrokken militair – klein model onderscheidingen.
 
-#### Artikel 11. Tegemoetkoming in de kosten van onderhoud en vervanging van artikelen die niet in natura zijn verstrekt
+##### Artikel 11. Tegemoetkoming in de kosten van onderhoud en vervanging van artikelen die niet in natura zijn verstrekt
 
 (Per 1 januari 2014 komt dit artikel te vervallen!)
 
@@ -196,7 +221,7 @@ geschieden de desbetreffende werkzaamheden voor rekening van Defensie.
 
 ## Titel III. Aanspraken in verband met het vervullen van bepaalde functies, het verblijf in bepaalde landen of het verrichten van bepaalde diensten
 
-#### Artikel 12. Vervullen van bepaalde functies
+##### Artikel 12. Vervullen van bepaalde functies
 
 1. De minister kan bepalen dat de defensiemedewerker in verband met de uitoefening van bepaalde functies moet beschikken over kleding en uitrustingsstukken die niet zijn opgenomen het assortiment van het KPU-bedrijf.
 
@@ -204,7 +229,7 @@ geschieden de desbetreffende werkzaamheden voor rekening van Defensie.
 
 3. In bepaalde gevallen kan de minister bepalen dat, in tegenstelling tot het gestelde in het vorige lid, de betreffende artikelen éénmalig voor rekening van Defensie en in eigendom worden verstrekt.
 
-#### Artikel 13. Verblijf in door de minister aan te wijzen landen
+##### Artikel 13. Verblijf in door de minister aan te wijzen landen
 
 1. De minister kan bepalen dat de defensiemedewerker in verband met het verblijf in nader aan te wijzen landen moet beschikken over kleding en uitrustingsstukken die niet zijn opgenomen in het assortiment van het KPU-bedrijf.
 
@@ -212,7 +237,7 @@ geschieden de desbetreffende werkzaamheden voor rekening van Defensie.
 
 3. In bepaalde gevallen kan de minister bepalen dat, in tegenstelling tot het gestelde in het vorige lid, de betreffende artikelen éénmalig voor rekening van Defensie en in eigendom worden verstrekt.
 
-#### Artikel 14. Burgerkleding in afwijkende maat uit hoofde van de functie
+##### Artikel 14. Burgerkleding in afwijkende maat uit hoofde van de functie
 
 1. De minister kent de militair die een functie toegewezen krijgt als opgenomen in [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=4&z=2025-04-12&g=2025-04-12) van deze regeling en zijn werkzaamheden en diensten verricht in bijzonder representatieve burgerkleding waarvan de maat met het oog op de functie-uitoefening afwijkt van de gebruikelijke maat van de militair, een eenmalige tegemoetkoming in de aanschafkosten van deze burgerkleding toe ten bedrage van € 634,38 indien de militair zelf voor de aanschaf van de kleding zorg draagt.
 
@@ -244,7 +269,7 @@ geschieden de desbetreffende werkzaamheden voor rekening van Defensie.
 
 - d. De militair heeft geen aanspraak op een tegemoetkoming voor onderhoudskosten indien hij aanspraak heeft op aanschafkosten.
 
-#### Artikel 14a. Burgerkleding uit hoofde van de functie
+##### Artikel 14a. Burgerkleding uit hoofde van de functie
 
 1. De minister wijst functies aan, waarvan de werkzaamheden vergen dat deze vrijwel dagelijks in burgerkleding worden verricht opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=1&z=2025-04-12&g=2025-04-12). De militair aan wie deze functie is toegewezen heeft aanspraak op een eenmalige tegemoetkoming in de aanschafkosten van deze burgerkleding ten bedrage van € 210,35 indien de militair zelf voor de aanschaf van de kleding zorg draagt.
 
@@ -264,13 +289,13 @@ geschieden de desbetreffende werkzaamheden voor rekening van Defensie.
 
 - c. In afwijking van het eerste lid heeft de militair geen aanspraak op een tegemoetkoming voor onderhoud en vervanging.
 
-#### Artikel 15. Tegemoetkoming in de kosten van de aanschaffing en het onderhoud van muziekinstrumenten
+##### Artikel 15. Tegemoetkoming in de kosten van de aanschaffing en het onderhoud van muziekinstrumenten
 
 De militair die is aangesteld bij het beroepspersoneel en die uit hoofde van zijn functie één of meer muziekinstrumenten in eigendom moet hebben en voor eigen rekening moet onderhouden, heeft aanspraak op een tegemoetkoming van € 76,18 per maand in de kosten van aanschaffing en onderhoud van die instrumenten.
 
 ## Titel IV. Bewaarplicht en verplichting tot inlevering van de PGU
 
-#### Artikel 16. Inleveren van delen van de PGU en Bewaarplicht
+##### Artikel 16. Inleveren van delen van de PGU en Bewaarplicht
 
 1. Zodra de defensiemedewerker niet langer behoeft te beschikken over specifieke uitrusting levert hij deze op door commandant KPU-bedrijf voor te schrijven wijze in.
 
@@ -278,7 +303,7 @@ De militair die is aangesteld bij het beroepspersoneel en die uit hoofde van zij
 
 3. Bij het (wederom) verstrekken van specifieke PGU kan rekening worden gehouden met de artikelen die de defensiemedewerker ingevolge het tweede lid onder zich heeft.
 
-#### Artikel 17. Inlevering PGU
+##### Artikel 17. Inlevering PGU
 
 1. De defensiemedewerker aan wie ontslag wordt verleend
 
@@ -296,11 +321,11 @@ is verplicht alle tot zijn PGU behorende artikelen in te leveren.
 
 ### Hoofdstuk III. Slotbepalingen
 
-#### Artikel 18. Gevallen waarin deze regeling niet voorziet
+##### Artikel 18. Gevallen waarin deze regeling niet voorziet
 
 In de gevallen waarin deze regeling niet of niet naar redelijkheid voorziet, beslist de minister.
 
-#### Artikel 19. Intrekking ministeriële regelingen
+##### Artikel 19. Intrekking ministeriële regelingen
 
 1. De Regeling uitrusting militairen (regeling van 20 december 1984, P/84/081/6476), de Regeling uitrusting militairen zeemacht (regeling van 19 maart 1996. P 30031) en de Regeling dienst- en werkkleding burgerlijke ambtenaren defensie worden ingetrokken.
 
@@ -308,11 +333,11 @@ In de gevallen waarin deze regeling niet of niet naar redelijkheid voorziet, bes
 
 3. Voor zover door zorg van de commandant van het KPU-bedrijf nog geen nieuwe – op basis van deze regeling uitgegeven – voorschriften PGU heeft uitgegeven blijven de oude voorschriften van kracht.
 
-#### Artikel 20. Citeertitel
+##### Artikel 20. Citeertitel
 
 Deze regeling kan worden aangehaald als ‘Regeling uitrusting Defensie’.
 
-#### Artikel 21. Inwerkingtreding
+##### Artikel 21. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2009
 

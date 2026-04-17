@@ -1,13 +1,39 @@
 ---
-title: "Regeling sturing van en toezicht op ACNL"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat van 13 juni 2024, IENW/BSK-2024/98337, houdende vaststelling regels in verband met de sturing van en het toezicht op Airport Coordination Netherlands (Regeling sturing van en toezicht op ACNL)"
 identifier: "BWBR0049883"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-10-01
-laatste_update: 2024-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049883"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-10-01"
+last_updated: "2024-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049883"
+soort: "ministeriele-regeling"
+stam_id: "17147613"
+version_id: "30180402"
+internal_id: "C43241961"
+label_id: "17056154"
+dtd_version: "2.0"
+original_entry_into_force: "2024-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049883/2024-10-01/0"
+intitule_bron: "Stcrt.2024-19090"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-13"
+intitule_published: "2024-06-26"
+intitule_in_force: "2024-06-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-19090"
+original_signed_date: "2024-06-13"
+original_published_date: "2024-06-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-19090"
+entry_into_force_date: "2024-10-01"
+jci_1_3: "jci1.3:c:BWBR0049883&z=2024-10-01&g=2024-10-01"
+jci_1_0: "1.0:c:BWBR0049883&g=2024-10-01"
+citeertitel_status: "officieel"
+short_title: "Regeling sturing van en toezicht op ACNL"
+signed_date: "2024-06-13"
+entry_into_force: "2024-10-01"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat van 13 juni 2024, IENW/BSK-2024/98337, houdende vaststelling regels in verband met de sturing van en het toezicht op Airport Coordination Netherlands (Regeling sturing van en toezicht op ACNL)
 
 Gelet op [artikel 32 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=32) en [artikel 8a.70 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.70);
@@ -16,7 +42,7 @@ BESLUIT:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -32,13 +58,13 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Directie van ACNL
 
-#### Artikel 2. Ontstentenis directie
+##### Artikel 2. Ontstentenis directie
 
 ACNL informeert de minister onverwijld over de ontstentenis van een lid van de directie met het oog op de conform [artikel 8a.66, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.66) te treffen voorziening.
 
 #### § 3. Financieel toezicht
 
-#### Artikel 3. Jaarbrief van de minister
+##### Artikel 3. Jaarbrief van de minister
 
 1. ACNL ontvangt jaarlijks vóór 1 april een jaarbrief van de minister.
 
@@ -48,7 +74,7 @@ ACNL informeert de minister onverwijld over de ontstentenis van een lid van de d
 
 - b. de aandachtspunten en voorgenomen wijzigingen betreffende de verantwoording, verslaglegging en de aandachtspunten voor de accountantscontrole, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049883&paragraaf=3&artikel=5&z=2024-10-01&g=2024-10-01) van deze regeling.
 
-#### Artikel 4. Meerjarenbeleidsplan
+##### Artikel 4. Meerjarenbeleidsplan
 
 1. De minister ontvangt van ACNL de begroting, bedoeld in [artikel 8a.69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.69), die vergezeld gaat van een meerjarenbeleidsplan.
 
@@ -82,7 +108,7 @@ ACNL informeert de minister onverwijld over de ontstentenis van een lid van de d
 
 - m. de wijze waarop ACNL uitvoering geeft aan de jaarbrief, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049883&paragraaf=3&artikel=3&z=2024-10-01&g=2024-10-01) van deze regeling.
 
-#### Artikel 5. Aandachtspunten voor de accountantscontrole
+##### Artikel 5. Aandachtspunten voor de accountantscontrole
 
 Bij de aanwijzing van de accountant, bedoeld in [artikel 35, tweede lid, van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=35), bedingt ACNL dat de controles en de verklaringen daarover mede betreffen:
 
@@ -92,11 +118,11 @@ Bij de aanwijzing van de accountant, bedoeld in [artikel 35, tweede lid, van de 
 
 - c. de aandachtspunten voor de accountantscontrole, genoemd in de bijlage die integraal onderdeel uitmaakt van deze regeling.
 
-#### Artikel 6. ADR controle
+##### Artikel 6. ADR controle
 
 De minister informeert ACNL over het voornemen tot een review van de accountantscontrole door de Auditdienst Rijk (ADR). Het besluit tot het uitvoeren van een review van de accountantscontrole wordt vergezeld van een toelichting waaruit de aanleiding blijkt, de procedure die zal worden gevolgd en de informatie die ACNL ten behoeve van dit onderzoek beschikbaar dient te stellen.
 
-#### Artikel 7. Invulling [artikel 32 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=32)
+##### Artikel 7. Invulling [artikel 32 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=32)
 
 1. ACNL behoeft de voorafgaande instemming van de minister voor:
 
@@ -122,11 +148,11 @@ De minister informeert ACNL over het voornemen tot een review van de accountants
 
 #### § 4. Informatie-uitwisseling
 
-#### Artikel 8. Jaarrekening
+##### Artikel 8. Jaarrekening
 
 De jaarrekening geeft inzicht in de uitvoering van de goedgekeurde begroting. Bij het opstellen van de jaarrekening wordt onderscheid gemaakt tussen de baten en lasten, alsook tussen de ontvangsten en uitgaven van de bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) aan ACNL opgedragen taken dan wel van andere activiteiten.
 
-#### Artikel 9. Jaarverslag
+##### Artikel 9. Jaarverslag
 
 1. In aanvulling op [titel 9, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), en de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) en [19 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=19) bevat het jaarverslag in ieder geval de volgende onderdelen:
 
@@ -166,7 +192,7 @@ De jaarrekening geeft inzicht in de uitvoering van de goedgekeurde begroting. Bi
 
 - c. het aantal ingediende schadeclaims, onderverdeeld naar taak, en de resultaten daarvan.
 
-#### Artikel 10. Uitvoeringstoets ACNL
+##### Artikel 10. Uitvoeringstoets ACNL
 
 1. De minister legt de volgende voornemens tijdig aan ACNL voor met het oog op een uitvoeringstoets:
 
@@ -182,7 +208,7 @@ De jaarrekening geeft inzicht in de uitvoering van de goedgekeurde begroting. Bi
 
 4. Indien in de loop van het besluitvormingsproces het aan ACNL voorgelegde voornemen op voor ACNL relevante punten wordt gewijzigd, legt de minister de wijzigingen ten behoeve van een finale uitvoeringstoets voor aan ACNL.
 
-#### Artikel 11. Uitvoeringsevaluaties ACNL
+##### Artikel 11. Uitvoeringsevaluaties ACNL
 
 1. ACNL evalueert op een daartoe door de minister gedaan verzoek of uit eigen beweging de uitvoering van beleid of wet- en regelgeving.
 
@@ -190,17 +216,17 @@ De jaarrekening geeft inzicht in de uitvoering van de goedgekeurde begroting. Bi
 
 3. De minister reageert op de door ACNL toegezonden rapportage en geeft daarbij in ieder geval aan hoe de rapportage in de besluitvorming is of zal worden betrokken.
 
-#### Artikel 12. ICT-projecten
+##### Artikel 12. ICT-projecten
 
 ACNL verschaft de minister structureel informatie over lopende dan wel in voorbereiding zijnde ICT-projecten waarover aan het Adviescollege ICT-toetsing, bedoeld in [artikel 2, eerste lid, van de Wet Adviescollege ICT-toetsing](https://wetten.overheid.nl/jci1.3:c:BWBR0049412&artikel=2) advies is gevraagd, of waarover door de minister aan de Staten-Generaal wordt gerapporteerd.
 
-#### Artikel 13. Cybersecurity
+##### Artikel 13. Cybersecurity
 
 1. Overeenkomstig [artikel 41 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=41) draagt ACNL zorg voor een afdoende beveiliging van het gehele proces van informatievoorziening en bescherming van (persoons)gegevens door het hanteren van een managementsystematiek op basis van een cyclische benadering van continue verbetering.
 
 2. ACNL draagt zorg voor een efficiënte en adequate beheersing van cybersecurity-risico’s.
 
-#### Artikel 14. Informatieverstrekking cybersecurity
+##### Artikel 14. Informatieverstrekking cybersecurity
 
 1. ACNL informeert jaarlijks de minister vertrouwelijk over:
 
@@ -216,11 +242,11 @@ ACNL verschaft de minister structureel informatie over lopende dan wel in voorbe
 
 3. Onverminderd het tweede lid informeert ACNL de minister onverwijld vertrouwelijk over incidenten die zijn aandacht behoeven.
 
-#### Artikel 15. Onderzoek door derden ten behoeve van toezicht
+##### Artikel 15. Onderzoek door derden ten behoeve van toezicht
 
 Indien de minister na overleg met ACNL een derde aanwijst om in het kader van het toezicht op het functioneren van ACNL onderzoek te doen naar een door de minister te bepalen onderdeel van ACNL of van de taakuitoefening door ACNL, verstrekt ACNL aan deze derde op de door de derde te bepalen wijze de ter zake van het onderzoek gevraagde informatie voor zover dit niet beperkt is bij of krachtens een wet of overeenkomst.
 
-#### Artikel 16. Informatieverstrekking van de minister aan ACNL
+##### Artikel 16. Informatieverstrekking van de minister aan ACNL
 
 De minister verstrekt ACNL informatie die relevant is voor ACNL met betrekking tot:
 
@@ -238,7 +264,7 @@ De minister verstrekt ACNL informatie die relevant is voor ACNL met betrekking t
 
 - g. overige ontwikkelingen die het functioneren van ACNL beïnvloeden of kunnen beïnvloeden.
 
-#### Artikel 17. Instemmingstoets minister
+##### Artikel 17. Instemmingstoets minister
 
 1. ACNL legt tot hem gerichte voorstellen tot taakopdracht door een ander bestuursorgaan tijdig voor aan de minister met het oog op het verkrijgen van diens instemming.
 
@@ -246,17 +272,17 @@ De minister verstrekt ACNL informatie die relevant is voor ACNL met betrekking t
 
 #### § 5. Overige bepalingen
 
-#### Artikel 18. Overgangsrecht
+##### Artikel 18. Overgangsrecht
 
 1. Op de jaarstukken 2024 worden de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049883&paragraaf=3&artikel=5&z=2024-10-01&g=2024-10-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0049883&paragraaf=4&artikel=8&z=2024-10-01&g=2024-10-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0049883&paragraaf=4&artikel=9&z=2024-10-01&g=2024-10-01) niet toegepast voor zover deze bepalingen afwijken van eerder met ACNL gemaakte afspraken en ACNL heeft aangegeven voor de jaarstukken 2024 niet te kunnen voldoen aan deze regeling.
 
 2. Indien ACNL heeft aangegeven voor de jaarstukken 2024 niet te kunnen voldoen aan deze regeling, gelden voor de jaarstukken 2024 de afspraken tussen de minister en ACNL d.d. 1 april 2020.
 
-#### Artikel 19. Inwerkingtreding
+##### Artikel 19. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 oktober 2024.
 
-#### Artikel 20. Citeertitel
+##### Artikel 20. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling sturing van en toezicht op ACNL.
 

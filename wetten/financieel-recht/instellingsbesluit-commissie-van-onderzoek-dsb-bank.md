@@ -1,18 +1,44 @@
 ---
-title: "Instellingsbesluit commissie van onderzoek DSB Bank"
+title: "Besluit van de minister van Financiën houdende de instelling van een commissie van onderzoek (Instellingsbesluit commissie van onderzoek DSB Bank)"
 identifier: "BWBR0026984"
-categorie: "Financieel recht"
-publicatiedatum: 2009-12-31
-laatste_update: 2009-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026984"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2009-12-31"
+last_updated: "2009-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026984"
+soort: "ministeriele-regeling"
+stam_id: "10355193"
+version_id: "17007472"
+internal_id: "C23458871"
+label_id: "10330404"
+dtd_version: "2.0"
+original_entry_into_force: "2009-12-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026984/2009-12-31/0"
+intitule_bron: "Stcrt.2009-20474"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-12-18"
+intitule_published: "2009-12-30"
+intitule_in_force: "2009-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-20474"
+original_signed_date: "2009-12-18"
+original_published_date: "2009-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-20474"
+entry_into_force_date: "2009-12-31"
+jci_1_3: "jci1.3:c:BWBR0026984&z=2009-12-31&g=2009-12-31"
+jci_1_0: "1.0:c:BWBR0026984&g=2009-12-31"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit commissie van onderzoek DSB Bank"
+signed_date: "2009-12-18"
+entry_into_force: "2009-12-31"
 ---
-
 # Besluit van de minister van Financiën houdende de instelling van een commissie van onderzoek (Instellingsbesluit commissie van onderzoek DSB Bank)
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -22,11 +48,11 @@ In dit besluit wordt verstaan onder:
 
 - **wet:** [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
-#### Artikel 2
+##### Artikel 2
 
 Er is een onafhankelijke commissie die tot taak heeft onderzoek te doen naar de gang van zaken bij DSB Bank N.V., de handelwijze van (voormalige) bestuurders en commissarissen van deze bank, de handelwijze van DNB en de AFM ten aanzien van DSB Bank N.V. en hun onderlinge samenwerking ter zake, de rol van het ministerie van Financiën en de toereikendheid van de relevante regels uit hoofde van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
-#### Artikel 3
+##### Artikel 3
 
 Als leden van de commissie worden benoemd:
 
@@ -38,7 +64,7 @@ de heer prof.dr. C.G. Koedijk;
 
 de heer prof.dr. C.E. du Perron.
 
-#### Artikel 4
+##### Artikel 4
 
 De leden van de commissie ontvangen voor de duur van het onderzoek een vaste vergoeding, gebaseerd op salarisschaal 18, trede 10, van [Bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en een arbeidsduurfactor van:
 
@@ -50,7 +76,7 @@ De leden van de commissie ontvangen voor de duur van het onderzoek een vaste ver
 
 90 % voor de heer prof.dr. C.E. du Perron.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De commissie richt het onderzoek naar eigen inzicht in.
 
@@ -58,13 +84,13 @@ De leden van de commissie ontvangen voor de duur van het onderzoek een vaste ver
 
 3. De commissie kan zich laten ondersteunen door personen en instanties die zij nodig acht.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De leden van de commissie kunnen zich binnen het kader van de taak van de commissie rechtstreeks wenden tot alle instanties en personen die aan het uitvoeren van haar taak een bijdrage kunnen leveren.
 
 2. De leden van de commissie zijn voor zover vereist gemachtigd om binnen het kader van de taak van de commissie gegevens of informatie in te winnen bij de toezichthouders, zijnde DNB en de AFM.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De leden van de commissie zijn, overeenkomstig [artikel 1:42, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:42) verplicht tot geheimhouding van de gegevens en inlichtingen die zij in het kader van hun onderzoek ontvangen.
 
@@ -72,19 +98,19 @@ De leden van de commissie ontvangen voor de duur van het onderzoek een vaste ver
 
 3. Het eerste en tweede lid zijn niet van toepassing op gegevens en inlichtingen die reeds anderszins openbaar zijn gemaakt.
 
-#### Artikel 8
+##### Artikel 8
 
 De commissie brengt bij voorkeur in februari 2010 aan mij een rapport uit over haar bevindingen en de door haar daaraan verbonden conclusies.
 
-#### Artikel 9
+##### Artikel 9
 
 De commissie wordt uiterlijk vier weken na het uitbrengen van het rapport, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026984&artikel=8&z=2009-12-31&g=2009-12-31), ontbonden.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit kan worden aangehaald als: Instellingsbesluit commissie van onderzoek DSB Bank.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst, werkt terug tot en met 1 november 2009.
 

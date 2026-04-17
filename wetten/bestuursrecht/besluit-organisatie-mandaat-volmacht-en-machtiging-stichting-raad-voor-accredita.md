@@ -1,20 +1,46 @@
 ---
-title: "Besluit organisatie, mandaat, volmacht en machtiging Stichting Raad voor Accreditatie"
+title: "Besluit organisatie, mandaat, volmacht en machtiging Raad voor Accreditatie"
 identifier: "BWBR0041043"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-06-22
-laatste_update: 2018-06-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041043"
+country: "nl"
+rank: "zbo"
+publication_date: "2018-06-22"
+last_updated: "2018-06-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041043"
+soort: "zbo"
+stam_id: "14652823"
+version_id: "25085312"
+internal_id: "C35873661"
+label_id: "14605714"
+dtd_version: "2.0"
+original_entry_into_force: "2018-06-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041043/2018-06-22/0"
+intitule_bron: "Stcrt.2018-34267"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-06-11"
+intitule_published: "2018-06-21"
+intitule_in_force: "2018-06-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-34267"
+original_signed_date: "2018-06-11"
+original_published_date: "2018-06-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-34267"
+entry_into_force_date: "2018-06-22"
+jci_1_3: "jci1.3:c:BWBR0041043&z=2018-06-22&g=2018-06-22"
+jci_1_0: "1.0:c:BWBR0041043&g=2018-06-22"
+citeertitel_status: "officieel"
+short_title: "Besluit organisatie, mandaat, volmacht en machtiging Stichting Raad voor Accreditatie"
+signed_date: "2018-06-11"
+entry_into_force: "2018-06-22"
 ---
-
 # Besluit organisatie, mandaat, volmacht en machtiging Raad voor Accreditatie
 
 gelet op de [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1), Het huishoudelijk reglement RvA-QA007 en de Statuten van de Stichting Raad voor Accreditatie RvA-QA002;
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 - f. **Unitmanager:** de functionaris die verantwoordelijk is voor het functioneren van de eigen unit.
 
-#### Artikel 2. Organisatie
+##### Artikel 2. Organisatie
 
 De Raad voor Accreditatie bestaat uit de volgende organisatieonderdelen.
 
@@ -60,13 +86,13 @@ Bedrijfsvoering bestaat uit HRM & Facilitair Management en Informatie & Procesma
 
 De Unit Teamleiders, de Unit Certificatie & Inspectie en de Unit Laboratoria vormen samen de lijnorganisatie die verantwoordelijk is voor het primair proces. Aan het hoofd van een unit staat de unitmanager. De unitmanagers binnen de lijnorganisatie zijn integraal verantwoordelijk voor het functioneren van de eigen unit.
 
-#### Artikel 3. Afwezigheid of verhindering
+##### Artikel 3. Afwezigheid of verhindering
 
 1. De bestuurder is eindverantwoordelijk voor de leiding van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041043&artikel=2&z=2018-06-22&g=2018-06-22) genoemde organisatie-onderdelen.
 
 2. Bij afwezigheid of verhindering van de bestuurder worden, voor de duur van de afwezigheid of verhindering, een aantal taken en bevoegdheden waargenomen door de operationeel directeur of de manager Strategisch & Technisch Management. Over de invulling van deze waarneming worden nadere afspraken gemaakt.
 
-#### Artikel 4. Mandatering operationeel directeur en manager Strategisch & Technisch Management
+##### Artikel 4. Mandatering operationeel directeur en manager Strategisch & Technisch Management
 
 1. De operationeel directeur en de manager Strategisch & Technisch Management zijn bevoegd om namens het bestuur beschikkingen te nemen, met uitzondering van beschikkingen op bezwaar.
 
@@ -76,20 +102,20 @@ De Unit Teamleiders, de Unit Certificatie & Inspectie en de Unit Laboratoria vor
 
 4. Een ondermandaatregeling bevat in ieder geval de functiebenaming van de te mandateren functionarissen alsmede de aan deze functionarissen in ondermandaat verleende bevoegdheden.
 
-#### Artikel 5. Volmacht
+##### Artikel 5. Volmacht
 
 Het bestuur vertegenwoordigt ingevolge de wet en artikel 6 lid 1 van de statuten de stichting en is derhalve bevoegd tot het verrichten van privaatrechtelijke rechtshandelingen. Het bestuur is ingevolge artikel 6 lid 2 van de statuten bevoegd tot het verlenen van een volmacht aan één of meer bestuursleden, alsook aan derden. Onder ‘derden’ wordt in het kader van deze regeling verstaan: de operationeel directeur.
 
-#### Artikel 6. Machtiging
+##### Artikel 6. Machtiging
 
 1. Het bestuur is gemachtigd tot het verrichten van handelingen die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn.
 
 2. Het bestuur is bevoegd tot het doorverlenen van de in het vorige lid bedoelde machtiging aan de operationeel directeur.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Dit besluit wordt aangehaald als Besluit organisatie, mandaat, volmacht en machtiging Stichting Raad voor Accreditatie.

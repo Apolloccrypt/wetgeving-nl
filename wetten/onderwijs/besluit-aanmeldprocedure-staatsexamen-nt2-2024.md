@@ -1,28 +1,54 @@
 ---
-title: "Besluit Aanmeldprocedure Staatsexamen Nt2 2024"
+title: "Regeling van het College voor toetsen en examens 26 september 2022 nummer CvTE-22.00944, houdende vaststelling van de aanmeldprocedure voor het Staatsexamen Nt2 2024 (Besluit Aanmeldprocedure Staatsexamen Nt2 2024)"
 identifier: "BWBR0047244"
-categorie: "Onderwijs"
-publicatiedatum: 2023-10-01
-laatste_update: 2023-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047244"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-10-01"
+last_updated: "2023-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047244"
+soort: "zbo"
+stam_id: "16506983"
+version_id: "28929622"
+internal_id: "C40956271"
+label_id: "16428444"
+dtd_version: "2.0"
+original_entry_into_force: "2023-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047244/2023-10-01/0"
+intitule_bron: "Stcrt.2022-26158"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-09-26"
+intitule_published: "2022-10-05"
+intitule_in_force: "2022-10-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-26158"
+original_signed_date: "2022-09-26"
+original_published_date: "2022-10-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-26158"
+entry_into_force_date: "2023-10-01"
+jci_1_3: "jci1.3:c:BWBR0047244&z=2023-10-01&g=2023-10-01"
+jci_1_0: "1.0:c:BWBR0047244&g=2023-10-01"
+citeertitel_status: "officieel"
+short_title: "Besluit Aanmeldprocedure Staatsexamen Nt2 2024"
+signed_date: "2022-09-26"
+entry_into_force: "2023-10-01"
 ---
-
 # Regeling van het College voor toetsen en examens 26 september 2022 nummer CvTE-22.00944, houdende vaststelling van de aanmeldprocedure voor het Staatsexamen Nt2 2024 (Besluit Aanmeldprocedure Staatsexamen Nt2 2024)
 
 Gelet op [artikel 10, eerste lid, van Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=10);
 
 Besluit:
 
-#### Artikel 1. Aanmeldprocedure
+##### Artikel 1. Aanmeldprocedure
 
 De aanmeldprocedure voor het Staatsexamen Nederlands als tweede taal Programma I en Programma II in 2024 wordt vastgesteld als opgenomen in bijlage 1 bij dit besluit.
 
-#### Artikel 2. Inwerkingtreding
+##### Artikel 2. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 oktober 2023 ten behoeve van de aanmelding voor het Staatsexamen Nederlands als tweede taal Programma I en Programma II in 2024.
 
-#### Artikel 3. Citeertitel
+##### Artikel 3. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit Aanmeldprocedure Staatsexamen Nt2 2024.
 

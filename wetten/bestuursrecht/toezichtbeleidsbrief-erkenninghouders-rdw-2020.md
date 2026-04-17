@@ -1,20 +1,42 @@
 ---
 title: "Toezichtbeleidsbrief Erkenninghouders RDW 2020"
 identifier: "BWBR0043003"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043003"
+country: "nl"
+rank: "zbo"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043003"
+soort: "zbo"
+stam_id: "15302693"
+version_id: "26374932"
+internal_id: "C37482411"
+label_id: "15248534"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043003/2020-01-01/0"
+intitule_bron: "Stcrt.2019-68163"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2019-12-30"
+intitule_in_force: "2019-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-68163"
+original_published_date: "2019-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-68163"
+entry_into_force_date: "2020-01-01"
+jci_1_3: "jci1.3:c:BWBR0043003&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0043003&g=2020-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2020-01-01"
 ---
-
 # Toezichtbeleidsbrief Erkenninghouders RDW 2020
 
 Gelet op de [Wegenverkeerswet 1994](onbekend), het [Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951), de [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671), het [Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386), het [Besluit Personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) en [artikel 4:83 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:83);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het toezichtbeleid Erkenninghouders RDW wordt vastgesteld volgens [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0043003&bijlage=I&z=2020-01-01&g=2020-01-01).
 
@@ -46,7 +68,7 @@ Besluit:
 
 - m. Bijlage Erkenning Fotograaf pasfoto rijbewijs 2020.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2020.
 

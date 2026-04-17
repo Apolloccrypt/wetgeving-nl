@@ -1,13 +1,39 @@
 ---
-title: "Regeling instelling Toezichtcomité ESF2 en ESF 2014-2020"
+title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheidvan 1 december 2014, 2014-0000177234, tot instelling van Toezichtcomité ESF2 en ESF 2014-2020"
 identifier: "BWBR0035884"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-12-10
-laatste_update: 2014-12-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035884"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-12-10"
+last_updated: "2014-12-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035884"
+soort: "ministeriele-regeling"
+stam_id: "12872743"
+version_id: "21873882"
+internal_id: "C31394171"
+label_id: "12842254"
+dtd_version: "2.0"
+original_entry_into_force: "2014-12-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035884/2014-12-10/0"
+intitule_bron: "Stcrt.2014-34996"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-01"
+intitule_published: "2014-12-09"
+intitule_in_force: "2014-12-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-34996"
+original_signed_date: "2014-12-01"
+original_published_date: "2014-12-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-34996"
+entry_into_force_date: "2014-12-10"
+jci_1_3: "jci1.3:c:BWBR0035884&z=2014-12-10&g=2014-12-10"
+jci_1_0: "1.0:c:BWBR0035884&g=2014-12-10"
+citeertitel_status: "redactioneel"
+short_title: "Regeling instelling Toezichtcomité ESF2 en ESF 2014-2020"
+signed_date: "2014-12-01"
+entry_into_force: "2014-12-10"
 ---
-
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheidvan 1 december 2014, 2014-0000177234, tot instelling van Toezichtcomité ESF2 en ESF 2014-2020
 
 Gelet op artikel 63, eerste lid van Verordening (EG), nr. 1083/2006 van de raad van 11 juli 2006 houdende algemene bepalingen inzake het Europees Fonds voor Regionale Ontwikkeling, het Europees Sociaal Fonds en het Cohesiefonds en tot intrekking van [Verordening (EG) nr. 1260/1999](31999R1260) en gelet op artikel 47, eerste lid van Verordening (EU) nr. 1303/2013 van het Europees parlement en de Raad van 17 december 2013 houdende gemeenschappelijke bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds, het Cohesiefonds, het Europees Landbouwfonds voor plattelandsontwikkeling en het Europees Fonds voor maritieme zaken en visserij en algemene bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds, het Cohesiefonds en het Europees Fonds voor maritieme zaken en visserij, en tot intrekking van [Verordening (EG) nr. 1083/2006](32006R1083) van de Raad;
@@ -16,7 +42,7 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop Regeling intrekking ESF-comités in werking treedt.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -34,11 +60,11 @@ In dit besluit wordt verstaan onder:
 
 - g. **Verordening (EU) nr. 1303/2013:** Verordening (EU) Nr. 1303/2013 van het Europees parlement en de Raad van 17 december 2013 houdende gemeenschappelijke bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds, het Cohesiefonds, het Europees Landbouwfonds voor plattelandsontwikkeling en het Europees Fonds voor maritieme zaken en visserij en algemene bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds, het Cohesiefonds en het Europees Fonds voor maritieme zaken en visserij, en tot intrekking van [Verordening (EG) nr. 1083/2006](32006R1083) van de Raad.
 
-#### Artikel 2. Instelling
+##### Artikel 2. Instelling
 
 Er is een Toezichtcomité ESF2 en ESF 2014-2020.
 
-#### Artikel 3. Samenstelling
+##### Artikel 3. Samenstelling
 
 1. Het Toezichtcomité bestaat uit de volgende leden:
 
@@ -66,17 +92,17 @@ Er is een Toezichtcomité ESF2 en ESF 2014-2020.
 
 5. Het secretariaat van het Toezichtcomité berust bij het Ministerie.
 
-#### Artikel 4. Vergaderingen
+##### Artikel 4. Vergaderingen
 
 1. Het Toezichtcomité komt ten minste eenmaal per jaar bijeen.
 
 2. Indien nodig kan het Toezichtcomité gebruik maken van een schriftelijke vergaderprocedure.
 
-#### Artikel 5. Besluitvorming
+##### Artikel 5. Besluitvorming
 
 Het Toezichtcomité besluit met meerderheid van ter vergadering aanwezige stemmen. Bij staking der stemmen geeft de stem van de voorzitter de doorslag.
 
-#### Artikel 6. Taken ten aanzien van ESF 2
+##### Artikel 6. Taken ten aanzien van ESF 2
 
 1. Overeenkomstig artikel 65 van Verordening (EG), nr. 1083/2006 voert het Toezichtcomité ten aanzien van ESF2 de volgende taken uit:
 
@@ -92,7 +118,7 @@ Het Toezichtcomité besluit met meerderheid van ter vergadering aanwezige stemme
 
 2. Overeenkomstig artikel 65 van Verordening (EG), nr. 1083/2006 wordt het Toezichtcomité in kennis gesteld van het jaarlijkse controleverslag of van het gedeelte van het verslag dat verband houdt met het betrokken operationele programma, alsmede van de eventuele relevante opmerkingen die de Europese Commissie na onderzoek van dat verslag of dat gedeelte van het verslag kan maken.
 
-#### Artikel 7. Functies ten aanzien van ESF 2014–2020
+##### Artikel 7. Functies ten aanzien van ESF 2014–2020
 
 Overeenkomstig de artikelen 49 en 110 van de Verordening, vervult het Toezichtcomité, ten aanzien van ESF 2014–2020 de volgende functies:
 
@@ -120,23 +146,23 @@ Overeenkomstig de artikelen 49 en 110 van de Verordening, vervult het Toezichtco
 
 - 5°. voorstellen van de managementautoriteit voor wijzigingen van het operationele programma.
 
-#### Artikel 8. Adviesbevoegdheid
+##### Artikel 8. Adviesbevoegdheid
 
 1. Ten aanzien van ESF2 kan het Toezichtcomité de managementautoriteit elke herziening of toetsing van het operationele programma voorstellen die erop is gericht de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035884&artikel=3&z=2014-12-10&g=2014-12-10) omschreven doelstellingen van de fondsen te bereiken of het beheer van het operationele programma, met inbegrip van het financiële beheer, te verbeteren;
 
 2. Het Toezichtcomité kan, ten behoeve van de managementautoriteit, opmerkingen maken over de uitvoering en evaluatie van het operationele programma, met inbegrip van maatregelen om de administratieve last van begunstigden te verminderen. Het Toezichtcomité houdt toezicht op de maatregelen die naar aanleiding van zijn opmerkingen worden genomen.
 
-#### Artikel 9. Nadere regeling werkzaamheden
+##### Artikel 9. Nadere regeling werkzaamheden
 
 Het Toezichtcomité kan zijn werkzaamheden nader regelen, binnen het kader, gegeven door [Verordening (EG) nr. 1083/2006](32006R1083), dan wel Verordening (EU) nr. 1303/2013, de Beschikking, dan wel het Uitvoeringsbesluit, en de ter uitvoering daarvan genomen ministeriële besluiten.
 
-#### Artikel 10. Beheer van de bescheiden
+##### Artikel 10. Beheer van de bescheiden
 
 1. Het beheer van de bescheiden van het Toezichtcomité geschiedt op overeenkomstige wijze als bij het Ministerie.
 
 2. De bescheiden van het Toezichtcomité worden na beëindiging van de werkzaamheden van het Toezichtcomité in het archief van het Ministerie opgenomen.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Deze regeling treedt in werking op het tijdstip waarop de Regeling intrekking ESF-comités in werking treedt en vervalt met ingang van 1 januari 2025.
 

@@ -1,32 +1,58 @@
 ---
-title: "ACM Formulier geschilbeslechting energie"
+title: "Besluit van de Autoriteit Consument en Markt van 26 maart 2014, met nummer P_500195/9.O93 tot vaststelling van het formulier voor het indienen van een aanvraag voor geschilbeslechting op grond van artikel 51 van de Elektriciteitswet 1998 of artikel 19 van de Gaswet (ACM Formulier geschilbeslechting energie)"
 identifier: "BWBR0035028"
-categorie: "Financieel recht"
-publicatiedatum: 2014-04-03
-laatste_update: 2014-04-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035028"
+country: "nl"
+rank: "zbo"
+publication_date: "2014-04-03"
+last_updated: "2014-04-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035028"
+soort: "zbo"
+stam_id: "12643963"
+version_id: "21353262"
+internal_id: "C30658431"
+label_id: "12614194"
+dtd_version: "2.0"
+original_entry_into_force: "2014-04-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035028/2014-04-03/0"
+intitule_bron: "Stcrt.2014-9778"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-03-26"
+intitule_published: "2014-04-02"
+intitule_in_force: "2014-04-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-9778"
+original_signed_date: "2014-03-26"
+original_published_date: "2014-04-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-9778"
+entry_into_force_date: "2014-04-03"
+jci_1_3: "jci1.3:c:BWBR0035028&z=2014-04-03&g=2014-04-03"
+jci_1_0: "1.0:c:BWBR0035028&g=2014-04-03"
+citeertitel_status: "officieel"
+short_title: "ACM Formulier geschilbeslechting energie"
+signed_date: "2014-03-26"
+entry_into_force: "2014-04-03"
 ---
-
 # Besluit van de Autoriteit Consument en Markt van 26 maart 2014, met nummer P_500195/9.O93 tot vaststelling van het formulier voor het indienen van een aanvraag voor geschilbeslechting op grond van artikel 51 van de Elektriciteitswet 1998 of artikel 19 van de Gaswet (ACM Formulier geschilbeslechting energie)
 
 Gelet op [artikel 4:4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:4);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het formulier voor het indienen van een aanvraag voor geschilbeslechting op grond van [artikel 51 van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=51) of [artikel 19 van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=19) wordt vastgesteld overeenkomstig de bij dit besluit behorende bijlage. Dit formulier is ook op de website van de Autoriteit Consument en Markt beschikbaar.
 
-#### Artikel 2
+##### Artikel 2
 
 Het Besluit van de Raad van Bestuur van de Nederlandse Mededingingsautoriteit van 15 november 2011 tot vaststelling van het formulier voor het indienen van een aanvraag voor geschilbeslechting op grond van artikel 51 van de Elektriciteitswet 1998 of artikel 19 van de Gaswet (Stcrt. 2011, nr. 21241) wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: ACM Formulier geschilbeslechting energie.
 

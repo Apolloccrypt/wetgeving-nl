@@ -1,13 +1,38 @@
 ---
-title: "Verordening PT bijzondere heffing teelt fruit en champignons 2007"
+title: "Besluit van het bestuur van het Productschap Tuinbouw van 27 juni 2006, houdende de vaststelling van een heffing ten behoeve van de teelt van fruit en champignons voor het jaar 2007 (Verordening PT bijzondere heffing teelt fruit en champignons 2007)"
 identifier: "BWBR0020968"
-categorie: "Belastingrecht"
-publicatiedatum: 2006-12-24
-laatste_update: 2006-12-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020968"
+country: "nl"
+rank: "pbo"
+publication_date: "2006-12-24"
+last_updated: "2006-12-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020968"
+soort: "pbo"
+stam_id: "8858693"
+version_id: "14071942"
+internal_id: "C19159071"
+label_id: "8838184"
+dtd_version: "2.0"
+original_entry_into_force: "2006-12-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020968/2006-12-24/0"
+intitule_bron: "Vbbo.2006-69"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-07-06"
+intitule_published: "2006-12-22"
+intitule_in_force: "2006-12-22"
+intitule_status: "goed"
+original_publication: "Vbbo.2006-69"
+original_signed_date: "2006-07-06"
+original_published_date: "2006-12-22"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2006-12-24"
+jci_1_3: "jci1.3:c:BWBR0020968&z=2006-12-24&g=2006-12-24"
+jci_1_0: "1.0:c:BWBR0020968&g=2006-12-24"
+citeertitel_status: "officieel"
+short_title: "Verordening PT bijzondere heffing teelt fruit en champignons 2007"
+signed_date: "2006-07-06"
+entry_into_force: "2006-12-24"
 ---
-
 # Besluit van het bestuur van het Productschap Tuinbouw van 27 juni 2006, houdende de vaststelling van een heffing ten behoeve van de teelt van fruit en champignons voor het jaar 2007 (Verordening PT bijzondere heffing teelt fruit en champignons 2007)
 
 Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
@@ -20,7 +45,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze verordening worden overgenomen de begripsbepalingen van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=1) en [2 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=2).
 
@@ -37,7 +62,7 @@ Besluit:
 
 #### § 2. Heffingsplicht
 
-#### Artikel 2
+##### Artikel 2
 
 1. De ondernemer die in het jaar 2007 een onderneming drijft waarin fruit of champignons worden geteeld is aan het productschap een heffing verschuldigd.
 
@@ -49,11 +74,11 @@ Besluit:
 
 #### § 3. Grondslag en hoogte
 
-#### Artikel 3
+##### Artikel 3
 
 De heffing die is verschuldigd wordt opgelegd naar de grondslag grondgebruik, een en ander overeenkomstig de volgende artikelen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De heffing naar de grondslag grondgebruik wordt berekend naar de oppervlakte van de bij onderneming behorende cultuurgrond en bedraagt ten hoogste voor:
 
@@ -69,7 +94,7 @@ De heffing die is verschuldigd wordt opgelegd naar de grondslag grondgebruik, ee
 
 2. De hoogte van de heffing als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020968&paragraaf=3&artikel=3&z=2006-12-24&g=2006-12-24) en [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020968&paragraaf=3&artikel=4&z=2006-12-24&g=2006-12-24), wordt door middel van een besluit van het bestuur vastgesteld.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020968&paragraaf=3&artikel=4&z=2006-12-24&g=2006-12-24), wordt onder de bij de onderneming behorende cultuurgrond mede verstaan cultuurgrond die:
 
@@ -89,17 +114,17 @@ De heffing die is verschuldigd wordt opgelegd naar de grondslag grondgebruik, ee
 
 #### § 4. Oplegging en inning
 
-#### Artikel 6
+##### Artikel 6
 
 1. De oplegging van de krachtens deze verordening verschuldigde heffing vindt plaats na afloop van het jaar waarover de heffing verschuldigd is en geschiedt door middel van toezending of uitreiking aan de heffingsplichtige van een heffingsnota.
 
 2. In afwijking van het eerste lid kan de heffingsplichtige een voorlopige heffing worden opgelegd tot het bedrag waarop de heffing vermoedelijk zal worden vastgesteld. De voorlopige heffing wordt verrekend met de krachtens deze verordening verschuldigde heffing.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een raming als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020968&paragraaf=4&artikel=6&z=2006-12-24&g=2006-12-24), niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De gegevens verkregen uit hoofde van het bepaalde in deze verordening dienen in handen van de voorzitter of door deze aan te wijzen personen van het secretariaat van het productschap te worden gesteld.
 
@@ -107,11 +132,11 @@ Indien uit de ter beschikking gekomen gegevens blijkt dat de verstrekking van de
 
 #### § 5. Slotbepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 Deze verordening treedt in werking met ingang van de tweede dag na de datum van publicatie in het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze verordening wordt aangehaald als: Verordening PT bijzondere heffing teelt fruit en champignons 2007.
 

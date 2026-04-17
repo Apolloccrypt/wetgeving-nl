@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet Wet aansprakelijkheid olietankschepen"
+title: "Wet van 4 september 1996 tot wijziging van de Wet aansprakelijkheid olietankschepen"
 identifier: "BWBR0008225"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1997-11-15
-laatste_update: 1997-11-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008225"
+country: "nl"
+rank: "wet"
+publication_date: "1997-11-15"
+last_updated: "1997-11-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008225"
+soort: "wet"
+stam_id: "151723"
+version_id: "206732"
+internal_id: "C206731"
+label_id: "150474"
+dtd_version: "2.0"
+original_entry_into_force: "1997-11-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008225/1997-11-15/0"
+intitule_bron: "Stb.1996-461"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-09-04"
+intitule_published: "1996-09-17"
+intitule_in_force: "1997-04-29"
+intitule_status: "goed"
+original_publication: "Stb.1996-461"
+original_signed_date: "1996-09-04"
+original_published_date: "1996-09-17"
+original_effect: "nieuwe-regeling"
+original_dossier: "24473"
+original_url_id: "stb-1996-461"
+entry_into_force_date: "1997-11-15"
+entry_into_force_dossier: "24473"
+jci_1_3: "jci1.3:c:BWBR0008225&z=1997-11-15&g=1997-11-15"
+jci_1_0: "1.0:c:BWBR0008225&g=1997-11-15"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet aansprakelijkheid olietankschepen"
+signed_date: "1996-09-04"
+entry_into_force: "1997-11-15"
 ---
-
-# Wijzigingswet Wet aansprakelijkheid olietankschepen
+# Wet van 4 september 1996 tot wijziging van de Wet aansprakelijkheid olietankschepen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,11 +44,11 @@ Alzo Wij in overweging genomen hebben, dat het noodzakelijk is de [Wet aansprake
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### ARTIKEL I
+##### ARTIKEL I
 
 Wijzigt de Wet aansprakelijkheid olietankschepen.
 
-#### ARTIKEL II. OVERGANGSBEPALING
+##### ARTIKEL II. OVERGANGSBEPALING
 
 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -42,7 +70,7 @@ Wijzigt de Wet aansprakelijkheid olietankschepen.
 
 - d. voor zover nodig voor de toepassing van de gevallen, bedoeld in dit artikel, blijft de [Wet aansprakelijkheid olietankschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0002976), zoals deze luidde vóór de inwerkingtreding van deze wet, van kracht.
 
-#### ARTIKEL III
+##### ARTIKEL III
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

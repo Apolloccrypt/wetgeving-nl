@@ -1,13 +1,38 @@
 ---
-title: "Besluit beperking openbaarheid archiefbescheiden Directie Bewindvoering (1940) 1953–1965 (1982) Ministerie van Financiën"
+title: "Besluit van de Minister van Financiën van 31 mei 2005, nr. BenC 2005-631 M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van de Directie Bewindvoering (1940) 1953–1965 (1982) van het Ministerie van Financiën"
 identifier: "BWBR0018374"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2005-06-11
-laatste_update: 2005-06-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018374"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2005-06-11"
+last_updated: "2005-06-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018374"
+soort: "ministeriele-regeling"
+stam_id: "7088513"
+version_id: "11961952"
+internal_id: "C16045971"
+label_id: "7076484"
+original_entry_into_force: "2005-06-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018374/2005-06-11/0"
+intitule_bron: "Stcrt.2005-109"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-05-31"
+intitule_published: "2005-06-09"
+intitule_in_force: "2005-06-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-109"
+original_signed_date: "2005-05-31"
+original_published_date: "2005-06-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-109-p10-SC70276"
+entry_into_force_date: "2005-06-11"
+jci_1_3: "jci1.3:c:BWBR0018374&z=2005-06-11&g=2005-06-11"
+jci_1_0: "1.0:c:BWBR0018374&g=2005-06-11"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid archiefbescheiden Directie Bewindvoering (1940) 1953–1965 (1982) Ministerie van Financiën"
+signed_date: "2005-05-31"
+entry_into_force: "2005-06-11"
 ---
-
 # Besluit van de Minister van Financiën van 31 mei 2005, nr. BenC 2005-631 M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van de Directie Bewindvoering (1940) 1953–1965 (1982) van het Ministerie van Financiën
 
 Gelet op [artikel 15, eerste lid, onder a en c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15);

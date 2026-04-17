@@ -1,14 +1,41 @@
 ---
-title: "Wet op de orgaandonatie"
+title: "Wet van 24 mei 1996, houdende regelen omtrent het ter beschikking stellen van organen (Wet op de orgaandonatie)"
 identifier: "BWBR0008066"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008066"
+country: "nl"
+rank: "wet"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008066"
+soort: "wet"
+stam_id: "2732203"
+version_id: "4171562"
+internal_id: "C4171561"
+label_id: "2679794"
+dtd_version: "2.0"
+original_entry_into_force: "1998-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008066/2022-01-01/0"
+intitule_bron: "Stb.1996-370"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-05-24"
+intitule_published: "1996-07-11"
+intitule_in_force: "1998-01-29"
+intitule_status: "goed"
+original_publication: "Stb.1996-370"
+original_signed_date: "1996-05-24"
+original_published_date: "1996-07-11"
+original_effect: "nieuwe-regeling"
+original_dossier: "22358"
+original_url_id: "stb-1996-370"
+entry_into_force_date: "1998-02-01"
+jci_1_3: "jci1.3:c:BWBR0008066&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0008066&g=2022-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet op de orgaandonatie"
+signed_date: "1996-05-24"
+entry_into_force: "1998-02-01"
 ---
-
-# Wet op de orgaandonatie
+# Wet van 24 mei 1996, houdende regelen omtrent het ter beschikking stellen van organen (Wet op de orgaandonatie)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -36,13 +63,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - g. orgaancentrum: een instelling als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=4&artikel=24&z=2022-01-01&g=2022-01-01).
 
-#### Artikel 2
+##### Artikel 2
 
 Toestemming voor het verwijderen van een orgaan, verleend met het oogmerk daarvoor een vergoeding te ontvangen die meer bedraagt dan de kosten, daaronder begrepen gederfde inkomsten, die een rechtstreeks gevolg zijn van het verwijderen van het orgaan, is nietig.
 
 ### Hoofdstuk 2. Ter beschikking stellen van organen bij leven
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een meerderjarige die in staat is tot een redelijke waardering van zijn belangen ter zake, kan toestemming verlenen voor het bij zijn leven bij hem verwijderen van een door hem aangewezen orgaan ten behoeve van implantatie bij een bepaalde persoon.
 
@@ -50,7 +77,7 @@ Toestemming voor het verwijderen van een orgaan, verleend met het oogmerk daarvo
 
 3. Wanneer redelijkerwijs aannemelijk is dat de verwijdering van het orgaan bij leven blijvende gevolgen zal hebben voor de gezondheid van de donor, geschiedt deze slechts indien de persoon ten behoeve van wie de verwijdering plaats zal vinden, in levensgevaar verkeert en dit niet op andere wijze even goed kan worden afgewend.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Verwijdering bij leven van een orgaan van een meerderjarige die niet in staat is tot een redelijke waardering van zijn belangen ter zake, geschiedt slechts indien het een regenererend orgaan betreft en de verwijdering geen blijvende gevolgen zal hebben voor de gezondheid van de donor en alleen ten behoeve van implantatie bij een bloedverwant tot en met de tweede graad die in levensgevaar verkeert en van wie het levensgevaar niet op andere wijze even goed kan worden afgewend en indien tevens de donor een zwaarwegend belang heeft bij het afwenden van het levensgevaar van bedoelde bloedverwant.
 
@@ -58,7 +85,7 @@ Toestemming voor het verwijderen van een orgaan, verleend met het oogmerk daarvo
 
 3. Degene die het orgaan zal verwijderen, draagt ervoor zorg dat de in het tweede lid bedoelde wettelijke vertegenwoordiger dan wel echtgenoot, geregistreerde partner of andere levensgezel dan wel ouder of kind alsmede, indien mogelijk, de donor op duidelijke wijze mondeling en desgewenst schriftelijk en desgewenst met behulp van audio-visuele middelen, worden geïnformeerd over de aard en het doel van de verwijdering en de te verwachten gevolgen voor de donor. Tevens vergewist hij zich ervan dat voldaan is aan het eerste en tweede lid.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Verwijdering bij leven van een orgaan van een minderjarige van twaalf jaar of ouder geschiedt slechts indien het een regenererend orgaan betreft en de verwijdering geen blijvende gevolgen zal hebben voor de gezondheid van de donor en alleen ten behoeve van implantatie bij een bloedverwant tot en met de tweede graad die in levensgevaar verkeert en van wie het levensgevaar niet op andere wijze even goed kan worden afgewend. De verwijdering geschiedt niet dan nadat de minderjarige toestemming heeft gegeven en de toestemming van de ouders die de ouderlijke macht uitoefenen of de voogd en van de kinderrechter is verkregen.
 
@@ -66,15 +93,15 @@ Toestemming voor het verwijderen van een orgaan, verleend met het oogmerk daarvo
 
 3. Degene die het orgaan zal verwijderen, draagt ervoor zorg dat de ouders of de voogd alsmede, indien mogelijk, de donor op duidelijke wijze mondeling en schriftelijk en desgewenst met behulp van audio-visuele middelen, worden geïnformeerd over de aard en het doel van de verwijdering en de te verwachten gevolgen voor de donor. Tevens vergewist hij zich ervan dat voldaan is aan het eerste en tweede lid.
 
-#### Artikel 6
+##### Artikel 6
 
 De toestemming, bedoeld in dit hoofdstuk, wordt vooraf verleend bij een verklaring die ten minste eigenhandig is gedagtekend en ondertekend. Zij kan vóór de verwijdering van het orgaan te allen tijde worden herroepen.
 
-#### Artikel 7
+##### Artikel 7
 
 Aan de donor en degenen van wie ingevolge dit hoofdstuk toestemming voor het verwijderen van een orgaan is vereist, mogen uitsluitend de kosten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=1&artikel=2&z=2022-01-01&g=2022-01-01), worden vergoed.
 
-#### Artikel 8
+##### Artikel 8
 
 Het verwijderen van een orgaan bij leven is slechts toegestaan, indien daarvoor toestemming is verleend ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=2&artikel=3&z=2022-01-01&g=2022-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=2&artikel=4&z=2022-01-01&g=2022-01-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=2&artikel=5&z=2022-01-01&g=2022-01-01).
 
@@ -82,7 +109,7 @@ Het verwijderen van een orgaan bij leven is slechts toegestaan, indien daarvoor 
 
 #### § 1. Toestemming en bezwaar
 
-#### Artikel 9
+##### Artikel 9
 
 1. Meerderjarigen en minderjarigen van twaalf jaar of ouder, die in staat zijn tot een redelijke waardering van hun belangen ter zake, kunnen toestemming verlenen tot het na hun overlijden verwijderen van hun organen of bepaalde door hen aan te wijzen organen, dan wel daartegen bezwaar maken. De wettelijk vertegenwoordiger van een meerderjarige die niet in staat is tot een redelijke waardering van zijn belangen ter zake van orgaandonatie kan namens hem toestemming verlenen tot het na zijn overlijden verwijderen van zijn organen of bepaalde door de wettelijke vertegenwoordiger aan te wijzen organen, dan wel daartegen bezwaar maken.
 
@@ -94,7 +121,7 @@ Het verwijderen van een orgaan bij leven is slechts toegestaan, indien daarvoor 
 
 5. Een in algemene bewoordingen gestelde herroeping van een uiterste wilsbeschikking houdt niet in een herroeping van een wilsbeschikking als bedoeld in het vierde lid.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Onze minister draagt ervoor zorg dat iedere ingezetene als bedoeld in de [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715), een donorformulier wordt toegezonden, wanneer hij of zij de leeftijd van achttien jaren heeft bereikt. Donorformulieren worden voorts op verzoek door de zorg van Onze minister en door het college van burgemeester en wethouders kosteloos ter beschikking gesteld.
 
@@ -106,7 +133,7 @@ Het verwijderen van een orgaan bij leven is slechts toegestaan, indien daarvoor 
 
 5. De voordracht voor een algemene maatregel van bestuur krachtens het vierde lid wordt niet gedaan dan nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd en sedert die overlegging vier weken zijn verstreken.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Indien een persoon de beslissing over het verwijderen van organen heeft overgelaten aan zijn nabestaanden, kan na het vaststellen van de dood toestemming voor het verwijderen van zijn organen worden verleend door de echtgenoot, geregistreerde partner of andere levensgezel, dan wel bij afwezigheid of onbereikbaarheid van deze door de onmiddellijk bereikbare meerderjarige bloedverwanten tot en met de tweede graad dan wel bij afwezigheid of onbereikbaarheid van dezen door de onmiddellijk bereikbare meerderjarige aanverwanten tot en met de tweede graad.
 
@@ -128,17 +155,17 @@ Het verwijderen van een orgaan bij leven is slechts toegestaan, indien daarvoor 
 
 10. Uitsluitend indien de verwachting bestaat dat de dood op grond van circulatoire criteria zal worden vastgesteld, mag de toestemming, bedoeld in de vorige leden, reeds worden verleend na het verstrekken van de informatie, bedoeld in [artikel 20, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=4&artikel=20&z=2022-01-01&g=2022-01-01).
 
-#### Artikel 12
+##### Artikel 12
 
 Overlijdt een persoon voor het bereiken van de zestienjarige leeftijd en heeft hij ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=9&z=2022-01-01&g=2022-01-01) toestemming gegeven voor het verwijderen van zijn organen, dan vindt geen verwijdering plaats indien daartegen bezwaar wordt gemaakt door een ouder die de ouderlijke macht uitoefent of de voogd. Bij afwezigheid of onbereikbaarheid van beide ouders of van de voogd kan de verwijdering plaatsvinden.
 
-#### Artikel 13
+##### Artikel 13
 
 Tenzij degene die toestemming verleent of geen bezwaar heeft uitdrukkelijk anders bepaalt, wordt toestemming als bedoeld in deze paragraaf verleend ten behoeve van, en heeft het geen bezwaar als bedoeld in deze paragraaf betrekking op, implantatie, daaronder begrepen op implantatie gericht wetenschappelijk onderzoek, indien het orgaan na de verwijdering voor implantatie ongeschikt blijkt te zijn. Bij algemene maatregel van bestuur kan worden bepaald dat het verlenen van toestemming of het hebben van geen bezwaar niet is toegestaan voor bij die maatregel aan te wijzen, uit een oogpunt van geneeskundige behandeling niet van belang zijnde, doeleinden.
 
 #### § 2. Het intreden van de dood
 
-#### Artikel 14
+##### Artikel 14
 
 1. Voordat een orgaan wordt verwijderd, wordt de dood vastgesteld door een arts die niet bij de verwijdering of implantatie van het orgaan betrokken mag zijn. Indien het voornemen bestaat tot het verwijderen van een orgaan uit een stoffelijk overschot, wordt de dood vastgesteld aan de hand van de volgens de laatste stand van de wetenschap geldende methoden en criteria voor het vaststellen van de hersendood onderscheidenlijk van de dood op grond van circulatoire criteria door een ter zake kundige arts. De wijze waarop de hersendood is vastgesteld, wordt vastgelegd in een verklaring waarvan het model is opgenomen in het in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=2&artikel=15&z=2022-01-01&g=2022-01-01), bedoelde protocol.
 
@@ -146,23 +173,23 @@ Tenzij degene die toestemming verleent of geen bezwaar heeft uitdrukkelijk ander
 
 3. Onder de dood op grond van circulatoire criteria wordt verstaan een onomkeerbare afwezigheid van de circulatie en ademhaling.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De Gezondheidsraad stelt met inachtneming van [artikel 14, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=2&artikel=14&z=2022-01-01&g=2022-01-01), vast welke de volgens de laatste stand van de wetenschap geldende methoden en criteria voor het met zekerheid vaststellen van de hersendood onderscheidenlijk de dood op grond van circulatoire criteria zijn. Op basis daarvan stelt de Gezondheidsraad protocollen op met betrekking tot de bij het vaststellen van de hersendood onderscheidenlijk de dood op grond van circulatoire criteria in ziekenhuizen te volgen procedures en uit te voeren onderzoeken in gevallen waarin het voornemen bestaat tot verwijdering van een orgaan. De protocollen worden vastgesteld bij algemene maatregel van bestuur.
 
 2. Een krachtens het eerste lid vastgestelde algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum van uitgifte van het **Staatsblad** waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan beide kamers der Staten-Generaal.
 
-#### Artikel 16
+##### Artikel 16
 
 Bij verwijdering van een orgaan uit een stoffelijk overschot geschiedt de lijkschouwing als bedoeld in [artikel 3 van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=3) (**Stb**. 1991, 133) niet door een arts die bij de verwijdering of de implantatie van het orgaan betrokken is.
 
-#### Artikel 17
+##### Artikel 17
 
 Bij de aanwezigheid of het vermoeden van een niet natuurlijke dood mag een orgaan niet worden verwijderd, voordat is gebleken dat de officier van justitie de in [artikel 76, tweede lid, van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=76) bedoelde toestemming verleent.
 
 #### § 3. Melding en toewijzing van beschikbare organen
 
-#### Artikel 18
+##### Artikel 18
 
 1. De daartoe in het protocol, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=5&artikel=23&z=2022-01-01&g=2022-01-01), aangewezen functionaris doet van het vermoedelijk beschikbaar komen van organen voor implantatie onmiddellijk melding bij een orgaancentrum.
 
@@ -170,13 +197,13 @@ Bij de aanwezigheid of het vermoeden van een niet natuurlijke dood mag een orgaa
 
 3. Bij de aanwijzing wordt met geen andere factoren rekening gehouden dan met de bloed- en weefselovereenkomst van donor en ontvanger van het orgaan, de medische urgentie van de ontvanger en andere, met de toestand van het orgaan samenhangende, omstandigheden dan wel, indien deze factoren geen uitsluitsel geven, met de wachttijd van de ontvanger. Bij algemene maatregel van bestuur kunnen daaromtrent nadere regels worden gesteld.
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
 #### § 3. Melding en toewijzing van beschikbare organen
 
-#### Artikel 20
+##### Artikel 20
 
 1. Wanneer een gerede kans bestaat dat een persoon binnen afzienbare tijd zal overlijden, maar in ieder geval zo spoedig mogelijk na het vaststellen van de dood, gaat de daartoe in het protocol, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=5&artikel=23&z=2022-01-01&g=2022-01-01), aangewezen functionaris na wat ten aanzien van de betrokkene is geregistreerd in het donorregister, tenzij reeds vaststaat dat de betrokkene medisch gezien niet in aanmerking komt als donor.
 
@@ -200,7 +227,7 @@ Vervallen
 
 11. Bij algemene maatregel van bestuur kan worden bepaald dat in dit artikel gestelde regels niet van toepassing zijn op bij die maatregel aan te wijzen categorieën van artsen. Daarbij kan worden bepaald dat de taken die in dit artikel zijn opgedragen aan een functionaris als bedoeld in het eerste lid, door een ander worden uitgevoerd.
 
-#### Artikel 21
+##### Artikel 21
 
 Het verwijderen van een orgaan na overlijden is slechts toegestaan, indien:
 
@@ -212,7 +239,7 @@ Het verwijderen van een orgaan na overlijden is slechts toegestaan, indien:
 
 - d. het voor implantatie ter beschikking gestelde orgaan overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=3&artikel=18&z=2022-01-01&g=2022-01-01) is aangemeld bij een orgaancentrum.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Indien een persoon in het donorregister is geregistreerd als een persoon die toestemming heeft verleend voor of geen bezwaar heeft tegen het na zijn overlijden verwijderen van een orgaan, mogen wanneer redelijkerwijs vaststaat dat betrokkene binnen afzienbare tijd zal overlijden in verband met de implantatie reeds voor het vaststellen van de dood voorbereidingen worden getroffen voor zover deze niet strijdig zijn met de geneeskundige behandeling van die persoon en uitstel tot na het vaststellen van de dood niet mogelijk is. Die voorbereidingen kunnen bestaan uit:
 
@@ -246,7 +273,7 @@ Het verwijderen van een orgaan na overlijden is slechts toegestaan, indien:
 
 #### § 4. Voorbereidende handelingen en het verwijderen van organen
 
-#### Artikel 23
+##### Artikel 23
 
 1. Het bestuur van een ziekenhuis draagt zorg voor vaststelling van een protocol met betrekking tot ter beschikking stelling van organen ten behoeve van implantatie en ziet toe op de naleving daarvan.
 
@@ -282,19 +309,19 @@ Het verwijderen van een orgaan na overlijden is slechts toegestaan, indien:
 
 #### § 5. Het protocol
 
-#### Artikel 24
+##### Artikel 24
 
 1. Het bemiddelen bij het verkrijgen, bij het typeren en bij het vervoeren van organen van donoren, alsmede het toewijzen van die organen aan een daarvoor geschikte ontvanger mag slechts geschieden door een orgaancentrum, dat daartoe een vergunning van Onze minister behoeft.
 
 2. Op de uitvoering van de in het eerste lid bedoelde taak door een orgaancentrum waaraan daartoe een vergunning is verleend, is de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) van toepassing, met uitzondering van [artikel 22 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=22), voor zover het besluiten betreft met betrekking tot het toewijzen van organen.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Een vergunning kan uitsluitend worden verleend aan een rechtspersoon wiens werkzaamheid niet is gericht op het behalen van winst en die geen weefselinstelling als bedoeld in [artikel 1, eerste lid, onderdeel k, van de Wet veiligheid en kwaliteit lichaamsmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=1) is.
 
 2. Een vergunning wordt geweigerd, indien niet wordt of naar redelijke verwachting niet zal worden voldaan aan het bepaalde bij of krachtens deze wet, een doelmatige voorziening in de behoefte aan organen niet is gebaat bij verlening van de vergunning, dan wel een doelmatige samenwerking met andere orgaancentra en met orgaanbanken als bedoeld in [artikel 1, eerste lid, onderdeel l, van de Wet veiligheid en kwaliteit lichaamsmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=1) niet is verzekerd.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Een vergunning kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden met betrekking tot:
 
@@ -314,35 +341,35 @@ Het verwijderen van een orgaan na overlijden is slechts toegestaan, indien:
 
 2. Een beperking of voorschrift kan worden gewijzigd of ingetrokken. Ook na het verlenen van de vergunning kunnen daaraan beperkingen worden gesteld of voorschriften worden verbonden.
 
-#### Artikel 27
+##### Artikel 27
 
 Een vergunning kan worden ingetrokken indien niet meer wordt voldaan aan het bepaalde bij of krachtens deze wet of de [Wet veiligheid en kwaliteit lichaamsmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0014682) of de aan de vergunning verbonden voorschriften dan wel indien in strijd is gehandeld met een beperking waaronder de vergunning is verleend.
 
 #### § 2. Orgaanbank
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
-#### Artikel 31a
+##### Artikel 31a
 
 Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van de Inspectie gezondheidszorg en jeugd.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 32
+##### Artikel 32
 
 1. Met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie wordt gestraft degene die opzettelijk in strijd handelt met het bepaalde in [de artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=2&artikel=8&z=2022-01-01&g=2022-01-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=4&artikel=21&z=2022-01-01&g=2022-01-01).
 
@@ -360,7 +387,7 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn 
 
 4. De in het eerste tot en met derde lid strafbaar gestelde feiten zijn misdrijven.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Onze Minister draagt zorg voor de informatievoorziening over het ter beschikking stellen van organen als bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=2&z=2022-01-01&g=2022-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&z=2022-01-01&g=2022-01-01).
 
@@ -368,17 +395,17 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn 
 
 3. De voordracht voor een krachtens het tweede lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 34
+##### Artikel 34
 
 Vervallen
 
-#### Artikel 35
+##### Artikel 35
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.
 
 2. Onze minister zendt binnen drie jaar en vervolgens na vijf jaar en na zeven jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 36
+##### Artikel 36
 
 Deze wet kan worden aangehaald als: Wet op de orgaandonatie.
 
@@ -388,7 +415,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. De informatie, bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=2&artikel=3&z=2022-01-01&g=2022-01-01), [4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=2&artikel=4&z=2022-01-01&g=2022-01-01), en [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=2&artikel=5&z=2022-01-01&g=2022-01-01), omvat in ieder geval de informatie, bedoeld in de bijlage bij richtlijn 2004/23/EG van het Europees Parlement en de Raad van 31 maart 2004 tot vaststelling van kwaliteits- en veiligheidsnormen voor het doneren, verkrijgen, testen, bewerken, bewaren en distribueren van menselijke weefsels en cellen (PbEU L 102).
 
@@ -412,7 +439,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 10a
+##### Artikel 10a
 
 1. Indien zes weken na verzending van het donorformulier, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=10&z=2022-01-01&g=2022-01-01), geen invulling is gegeven aan het bepaalde in [artikel 9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&hoofdstuk=3&paragraaf=1&artikel=9&z=2022-01-01&g=2022-01-01), zendt Onze Minister de betrokkene een herinnering, vergezeld van een nieuw donorformulier en een mededeling overeenkomstig het bepaalde in het tweede lid.
 
@@ -424,7 +451,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 5. De betrokkene of diens wettelijke vertegenwoordiger kan een registratie als bedoeld in het tweede of vierde lid te allen tijde doen wijzigen door het invullen en laten registreren van een donorformulier.
 
-#### Artikel 10b
+##### Artikel 10b
 
 1. De burgemeester draagt ervoor zorg dat aan een meerderjarige persoon die als ingezetene in de basisregistratie personen is ingeschreven bij het in behandeling nemen van diens aanvraag voor een nationaal paspoort als bedoeld in [artikel 2, eerste lid, onder a, van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2), een Nederlandse identiteitskaart als bedoeld in artikel 2, tweede lid, van de Paspoortwet of een rijbewijs als bedoeld in [artikel 107 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107) schriftelijke informatie over donorregistratie wordt overhandigd en informatie over de wijze waarop de betrokkene de op hem betrekking hebbende registratie kan raadplegen en wijzigen.
 
@@ -438,13 +465,13 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 31b
+##### Artikel 31b
 
 Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 2a
+##### Artikel 2a
 
 Bij de gegevensverwerking noodzakelijk voor de uitvoering van de in deze wet neergelegde taken kan gebruik worden gemaakt van het burgerservicenummer, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1).
 

@@ -1,13 +1,39 @@
 ---
-title: "Mandaatbesluit Inspectie Overheidsinformatie en Erfgoed 2025"
+title: "Besluit van de inspecteur-generaal Overheidsinformatie en Erfgoed van 25 november 2025, nr. 54413708, houdende de verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de inspecteur-generaal ressorterende ambtenaren (Mandaatbesluit Inspectie Overheidsinformatie en Erfgoed 2025)"
 identifier: "BWBR0051981"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-12-20
-laatste_update: 2025-12-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051981"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-12-20"
+last_updated: "2025-12-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051981"
+soort: "ministeriele-regeling"
+stam_id: "17684793"
+version_id: "31206682"
+internal_id: "C44638951"
+label_id: "17583934"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051981/2025-12-20/0"
+intitule_bron: "Stcrt.2025-43820"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-11-25"
+intitule_published: "2025-12-19"
+intitule_in_force: "2025-12-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-43820"
+original_signed_date: "2025-11-25"
+original_published_date: "2025-12-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-43820"
+entry_into_force_date: "2025-12-20"
+jci_1_3: "jci1.3:c:BWBR0051981&z=2025-12-20&g=2025-12-20"
+jci_1_0: "1.0:c:BWBR0051981&g=2025-12-20"
+citeertitel_status: "officieel"
+short_title: "Mandaatbesluit Inspectie Overheidsinformatie en Erfgoed 2025"
+signed_date: "2025-11-25"
+entry_into_force: "2025-12-20"
 ---
-
 # Besluit van de inspecteur-generaal Overheidsinformatie en Erfgoed van 25 november 2025, nr. 54413708, houdende de verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de inspecteur-generaal ressorterende ambtenaren (Mandaatbesluit Inspectie Overheidsinformatie en Erfgoed 2025)
 
 Gelet op [artikel 10:9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=2), [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=7), [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=11) en [artikel 14 van het Organisatie- en mandaatbesluit OCW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 - d. **bedrag:** bedrag inclusief de verschuldigde omzetbelasting (btw).
 
-#### Artikel 2. Mandaat, volmacht en machtiging
+##### Artikel 2. Mandaat, volmacht en machtiging
 
 1. Alle in dit besluit genoemde ondermandaat- en volmachtbevoegdheden en machtigingen worden uitgeoefend met inachtneming van het [Organisatie- en mandaatbesluit OCW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023543).
 
@@ -46,11 +72,11 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. Taakverdeling
 
-#### Artikel 3. Algemeen mandaat aan afdelingshoofden
+##### Artikel 3. Algemeen mandaat aan afdelingshoofden
 
 Een afdelingshoofd heeft, onverminderd de mandaatverlening aan de inspecteur- generaal op grond van het [Organisatie- en Mandaatbesluit OCW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023543), mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterreinmet dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 50.000 per verplichting niet te boven gaat.
 
-#### Artikel 4. Voorbehouden aan de inspecteur-generaal
+##### Artikel 4. Voorbehouden aan de inspecteur-generaal
 
 Aan de inspecteur-generaal is voorbehouden:
 
@@ -80,23 +106,23 @@ Aan de inspecteur-generaal is voorbehouden:
 
 - h. het beoordelen van een klacht in de zin van [hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9).
 
-#### Artikel 5. Vervanging bij afwezigheid of verhindering inspecteur-generaal
+##### Artikel 5. Vervanging bij afwezigheid of verhindering inspecteur-generaal
 
 1. De hoofdinspecteur Overheidsinformatie is plaatsvervanger van de inspecteur-generaal bij diens afwezigheid of verhindering.
 
 2. Bij afwezigheid of verhindering van zowel de inspecteur-generaal als de hoofdinspecteur Overheidsinformatie, is de hoofdinspecteur Erfgoed plaatsvervanger van de inspecteur-generaal. Is ook de hoofdinspecteur Erfgoed afwezig of verhinderd, dan is het hoofd Stafafdeling plaatsvervanger van de inspecteur-generaal.
 
-#### Artikel 6. Vervanging bij afwezigheid of verhindering afdelingshoofd
+##### Artikel 6. Vervanging bij afwezigheid of verhindering afdelingshoofd
 
 De inspecteur-generaal is plaatsvervanger van een afdelingshoofd bij diens afwezigheid of verhindering. Bij afwezigheid of verhindering van de inspecteur-generaal is plaatsvervanger van een afdelingshoofd het afdelingshoofd dat overeenkomstig [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051981&paragraaf=2&artikel=5&z=2025-12-20&g=2025-12-20), plaatsvervanger van de inspecteur-generaal is.
 
 #### § 3. Slotbepalingen
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Dit besluit wordt aangehaald als: Mandaatbesluit Inspectie Overheidsinformatie en Erfgoed 2025
 

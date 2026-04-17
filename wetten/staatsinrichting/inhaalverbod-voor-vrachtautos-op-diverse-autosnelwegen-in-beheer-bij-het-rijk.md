@@ -1,13 +1,38 @@
 ---
-title: "Inhaalverbod voor vrachtauto's op diverse autosnelwegen in beheer bij het Rijk"
+title: "Verkeersbesluit inhoudende een inhaalverbod voor vrachtauto's op diverse autosnelwegen in beheer bij het Rijk"
 identifier: "BWBR0015091"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2003-06-01
-laatste_update: 2003-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015091"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2003-06-01"
+last_updated: "2003-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015091"
+soort: "ministeriele-regeling"
+stam_id: "5684473"
+version_id: "10176292"
+internal_id: "C13738691"
+label_id: "5664684"
+dtd_version: "2.0"
+original_entry_into_force: "2003-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015091/2003-06-01/0"
+intitule_bron: "Stcrt.2003-102"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-05-19"
+intitule_published: "2003-05-28"
+intitule_in_force: "2003-05-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-102"
+original_signed_date: "2003-05-19"
+original_published_date: "2003-05-28"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-06-01"
+jci_1_3: "jci1.3:c:BWBR0015091&z=2003-06-01&g=2003-06-01"
+jci_1_0: "1.0:c:BWBR0015091&g=2003-06-01"
+citeertitel_status: "redactioneel"
+short_title: "Inhaalverbod voor vrachtauto's op diverse autosnelwegen in beheer bij het Rijk"
+signed_date: "2003-05-19"
+entry_into_force: "2003-06-01"
 ---
-
 # Verkeersbesluit inhoudende een inhaalverbod voor vrachtauto's op diverse autosnelwegen in beheer bij het Rijk
 
 **Overwegingen ten aanzien van het besluit**
@@ -64,17 +89,17 @@ Gelet op artikel 15, eerste lid, van de Wegenverkeerswet 1994;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het besluit UB 2001/11948 van 9 januari 2002 wordt bij de inwerkingtreding van dit besluit ingetrokken.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Door plaatsing van borden model F3 en F4 dan wel op termijn A3 en F9 van bijlage 1 van het Reglement Verkeersregels en Verkeerstekens 1990, in verschijnuitvoering dan wel met onderborden, met daarop de tijdstippen van 06.00 uur tot 10.00 uur én van 15.00 uur tot 19.00 uur of van 6.00 uur tot 19.00 uur van maandag tot en met vrijdag, wordt een verbod in gesteld voor vrachtauto's om motorvoertuigen in te halen, op de wegvakken vermeld in de bij dit besluit behorende overzichtslijst.
 
 2. Zodra op de wegvakken een daartoe ingericht meetsysteem geïnstalleerd is zal de maatregel, in afwijking van de genoemde dagen en tijdstippen, alleen dan van kracht zijn wanneer de verkeerssituatie (intensiteit vrachtverkeer en aanwezigheid helling), dan wel de verkeersintensiteit daarom vraagt (benuttingsgraad ten minste 56%). De maatregel zal dan volgens de dynamische variant worden uitgevoerd door middel van elektronische signaleringsborden dan wel door middel van borden in verschijnuitvoering.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt gepubliceerd in de Staatscourant en treedt in werking met ingang van 1 juni 2003.
 

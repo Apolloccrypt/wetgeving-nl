@@ -1,14 +1,40 @@
 ---
-title: "Sanctiewet 1977"
+title: "Wet van 15 februari 1980, tot het treffen van sancties tegen bepaalde staten of gebieden"
 identifier: "BWBR0003296"
-categorie: "Strafrecht"
-publicatiedatum: 2025-03-01
-laatste_update: 2025-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003296"
+country: "nl"
+rank: "wet"
+publication_date: "2025-03-01"
+last_updated: "2025-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003296"
+soort: "wet"
+stam_id: "3003483"
+version_id: "17606842"
+internal_id: "C24364201"
+label_id: "2954084"
+dtd_version: "2.0"
+original_entry_into_force: "2010-05-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003296/2025-03-01/0"
+intitule_bron: "Stb.1980-93"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1980-02-15"
+intitule_status: "goed"
+original_publication: "Stb.2010-350"
+original_signed_date: "2010-05-17"
+original_published_date: "2010-09-01"
+original_effect: "structuurwijziging"
+original_dossier: "31959"
+original_url_id: "stb-2010-350"
+entry_into_force_date: "2010-05-17"
+entry_into_force_dossier: "31959"
+jci_1_3: "jci1.3:c:BWBR0003296&z=2025-03-01&g=2025-03-01"
+jci_1_0: "1.0:c:BWBR0003296&g=2025-03-01"
+citeertitel_status: "officieel"
+short_title: "Sanctiewet 1977"
+signed_date: "2010-05-17"
+entry_into_force: "2010-05-17"
 ---
-
-# Sanctiewet 1977
+# Wet van 15 februari 1980, tot het treffen van sancties tegen bepaalde staten of gebieden
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +42,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is over te gaan tot ver
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
@@ -26,13 +52,13 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 - c. Onze Minister: Onze Minister van Buitenlandse Zaken in overeenstemming met Onze Minister wie het mede aangaat.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Ter voldoening aan verdragen, besluiten of aanbevelingen van organen van volkenrechtelijke organisaties, dan wel aan internationale afspraken, met betrekking tot de handhaving of het herstel van de internationale vrede en veiligheid of de bevordering van de internationale rechtsorde dan wel de bestrijding van terrorisme, kunnen bij algemene maatregel van bestuur ten aanzien van de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=2&artikel=3&z=2025-03-01&g=2025-03-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=2&artikel=4&z=2025-03-01&g=2025-03-01) bedoelde onderwerpen regels worden vastgesteld.
 
 2. Indien de te stellen regels uitsluitend strekken ter uitvoering van verplichtingen die voortvloeien uit verdragen of uit bindende besluiten van volkenrechtelijke organisaties kan Onze Minister deze vaststellen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=2&artikel=2&z=2025-03-01&g=2025-03-01) bedoelde regels kunnen betreffen het goederen-, diensten- en financieel verkeer, de scheepvaart, de luchtvaart, het wegverkeer, de post en de telecommunicatie en al hetgeen overigens is vereist ter voldoening aan de verdragen, besluiten, aanbevelingen dan wel internationale afspraken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=2&artikel=2&z=2025-03-01&g=2025-03-01).
 
@@ -42,15 +68,15 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 4. Deze wet laat de bevoegdheden krachtens de [Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) onverlet.
 
-#### Artikel 4
+##### Artikel 4
 
 De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=2&artikel=2&z=2025-03-01&g=2025-03-01) bedoelde regels kunnen tevens de toegang en het verblijf van vreemdelingen betreffen, in die zin dat voor zover nodig in afwijking van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=3) en [12 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=12) de toegang en het verblijf aan in de regels aangeduide vreemdelingen kunnen worden geweigerd en dat Onze Minister van Justitie verblijfsvergunningen als bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) en [20 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20) van de bedoelde vreemdelingen kan intrekken. Een intrekking op grond van dit artikel geldt als een intrekking op grond van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=19) respectievelijk [artikel 22 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=22).
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een sanctiebesluit, zomede een besluit tot wijziging of intrekking daarvan, treedt niet eerder in werking dan twee maanden na de datum van uitgifte van het **Staatsblad,** waarin het wordt geplaatst.
 
@@ -60,19 +86,19 @@ Vervallen
 
 4. Een sanctiebesluit vervalt, behoudens eerdere intrekking, drie jaren na het in werking treden, tenzij bij nadere wet anders wordt bepaald.
 
-#### Artikel 7
+##### Artikel 7
 
 Bij regeling kan Onze Minister, wanneer hij overweegt een voordracht tot vaststelling, wijziging of intrekking van een sanctiebesluit te doen en naar zijn oordeel een gewichtige reden een onmiddellijke voorziening eist, regels overeenkomstig het in overweging zijnde besluit vaststellen alsmede in een bestaand sanctiebesluit vervatte regels buiten werking stellen.
 
-#### Artikel 8
+##### Artikel 8
 
 Een sanctieregeling op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=3&artikel=7&z=2025-03-01&g=2025-03-01) blijft, behoudens eerdere intrekking van kracht totdat een krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=2&artikel=2&z=2025-03-01&g=2025-03-01) vastgesteld besluit, dat hetzelfde onderwerp betreft, in werking treedt, doch uiterlijk tot tien maanden na het in werking treden van de regeling.
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de ambtenaren of andere personen die door Onze Minister zijn aangewezen.
 
@@ -106,29 +132,29 @@ Vervallen
 
 4. Van een besluit tot aanwijzing op grond van het eerste of tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 De Nederlandse strafwet is toepasselijk op de Nederlander die zich buiten Nederland schuldig maakt aan een bij of krachtens deze wet strafbaar gesteld feit.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Deze wet, met uitzondering van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=2&artikel=4&z=2025-03-01&g=2025-03-01), [10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=5&artikel=10&z=2025-03-01&g=2025-03-01), en [10a tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=6&artikel=11&z=2025-03-01&g=2025-03-01), is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met inachtneming van het in deze afdeling bepaalde.
 
 2. [Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.2) is van toepassing.
 
-#### Artikel 15
+##### Artikel 15
 
 De Uitvoerverbodenwet 1935 (**Stb.** 599) en de Sanctiewet 1935 (**Stb.** 621) treden voor Nederland buiten werking.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Deze wet kan worden aangehaald als Sanctiewet 1977.
 
@@ -146,11 +172,11 @@ Lasten en bevelen, dat deze wet in het **Staatsblad** zal worden geplaatst, en d
 
 ### Afdeling 5. Toezicht
 
-#### Artikel 10a
+##### Artikel 10a
 
 Onze Minister van Financiën kan de krachtens [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=5&artikel=10&z=2025-03-01&g=2025-03-01), aangewezen rechtspersonen in de gelegenheid stellen hun zienswijze naar voren te brengen omtrent de uitvoering van de op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=2&artikel=2&z=2025-03-01&g=2025-03-01) dan wel [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=3&artikel=7&z=2025-03-01&g=2025-03-01) vastgestelde regels betreffende het financieel verkeer.
 
-#### Artikel 10b
+##### Artikel 10b
 
 1. Onze Minister van Financiën kan regels stellen voor de bedrijfsvoering met betrekking tot de administratieve organisatie en de interne controle van de instellingen, bedoeld in [artikel 10, tweede lid, onder a tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=5&artikel=10&z=2025-03-01&g=2025-03-01).
 
@@ -158,11 +184,11 @@ Onze Minister van Financiën kan de krachtens [artikel 10, tweede lid](https://w
 
 3. Onze Minister van Financiën kan ontheffing of vrijstelling verlenen van de op grond van het eerste en tweede lid gestelde regels.
 
-#### Artikel 10c
+##### Artikel 10c
 
 Onze Minister van Financiën kan een last onder dwangsom opleggen ter zake van overtreding van regels, gesteld krachtens [artikel 10b](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=5&artikel=10b&z=2025-03-01&g=2025-03-01).
 
-#### Artikel 10d
+##### Artikel 10d
 
 1. Onze Minister van Financiën kan een bestuurlijke boete opleggen ter zake van overtreding van regels, gesteld krachtens [artikel 10b](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=5&artikel=10b&z=2025-03-01&g=2025-03-01).
 
@@ -172,7 +198,7 @@ Onze Minister van Financiën kan een last onder dwangsom opleggen ter zake van o
 
 4. Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de uitoefening van de bevoegdheid, bedoeld in het eerste lid.
 
-#### Artikel 10e
+##### Artikel 10e
 
 1. Het bedrag van de bestuurlijke boete wordt bepaald bij algemene maatregel van bestuur, met dien verstande dat de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste € 4 000 000 bedraagt. Indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding, wordt het bedrag van de bestuurlijke boete, bedoeld in de eerste volzin, voor een afzonderlijke overtreding verdubbeld.
 
@@ -186,13 +212,13 @@ Onze Minister van Financiën kan een last onder dwangsom opleggen ter zake van o
 
 3. In afwijking van het eerste en tweede lid kan de toezichthouder de hoogte van de bestuurlijke boete vaststellen op ten hoogste twee keer het bedrag van het voordeel dat de overtreder door de overtreding heeft verkregen indien diens voordeel groter is dan € 2 000 000.
 
-#### Artikel 10f
+##### Artikel 10f
 
 1. De bevoegdheden die Onze Minister van Financiën op grond van deze afdeling heeft, kunnen bij algemene maatregel van bestuur worden overgedragen aan een of meer rechtspersonen die ingevolge [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=5&artikel=10&z=2025-03-01&g=2025-03-01), zijn aangewezen. Alsdan gelden de verplichtingen op grond van deze afdeling jegens Onze Minister van Financiën als verplichtingen jegens de desbetreffende rechtspersoon.
 
 2. Aan de overdracht, bedoeld in het eerste lid, kunnen beperkingen worden gesteld en voorschriften worden verbonden.
 
-#### Artikel 10g
+##### Artikel 10g
 
 1. Gegevens en inlichtingen die ingevolge het bij of krachtens deze afdeling bepaalde omtrent afzonderlijke ondernemingen, instellingen of personen zijn verstrekt of zijn verkregen en gegevens en inlichtingen die van een instantie als bedoeld in [artikel 10h](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=5&artikel=10h&z=2025-03-01&g=2025-03-01) zijn ontvangen, worden niet gepubliceerd en zijn geheim.
 
@@ -202,7 +228,7 @@ Onze Minister van Financiën kan een last onder dwangsom opleggen ter zake van o
 
 4. Het in het eerste en tweede lid bepaalde laat evenzo, ten aanzien van degene op wie het tweede lid van toepassing is, onverlet de toepasselijkheid van de bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) en van [artikel 66 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=66) welke betrekking hebben op het als getuige of als partij in een comparitie van partijen dan wel als deskundige in burgerlijke zaken afleggen van een verklaring omtrent gegevens of inlichtingen verkregen bij de vervulling van zijn ingevolge deze afdeling opgedragen taak, voor zover het gaat om gegevens of inlichtingen omtrent een bank die in staat van faillissement is verklaard of op grond van een rechterlijke uitspraak is ontbonden. Het in de vorige volzin bepaalde geldt niet voor gegevens of inlichtingen die betrekking hebben op ondernemingen of instellingen die betrokken zijn of zijn geweest bij een poging de desbetreffende bank in staat te stellen haar bedrijf voort te zetten.
 
-#### Artikel 10h
+##### Artikel 10h
 
 Onze Minister van Financiën is, onverminderd de bepalingen terzake in bindende besluiten van organen van de Europese Unie of andere volkenrechtelijke organisaties, in afwijking van [artikel 10g](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=5&artikel=10g&z=2025-03-01&g=2025-03-01), bevoegd om gegevens of inlichtingen verkregen bij de vervulling van de hem bij deze wet opgedragen taak, te verstrekken aan Nederlandse of buitenlandse overheidsinstanties dan wel aan Nederlandse of buitenlandse van overheidswege aangewezen instanties die belast zijn met het toezicht op de naleving of met de uitvoering van de verdragen, besluiten, aanbevelingen en afspraken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=2&artikel=2&z=2025-03-01&g=2025-03-01), op het gebied van het financieel verkeer en de daartoe krachtens dat artikel dan wel [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=3&artikel=7&z=2025-03-01&g=2025-03-01) gestelde regels, tenzij:
 
@@ -224,15 +250,15 @@ Lasten en bevelen, dat deze wet in het **Staatsblad** zal worden geplaatst, en d
 
 ### Afdeling 7. Toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba
 
-#### Artikel 14a
+##### Artikel 14a
 
 Voor de toepassing van deze wet in de openbare lichamen Bonaire, Sint Eustatius en Saba gelden bindende besluiten, vastgesteld in het kader van het Gemeenschappelijk Buitenlands en Veiligheidsbeleid van de Europese Unie, als internationale verplichtingen in de zin van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=2&artikel=2&z=2025-03-01&g=2025-03-01).
 
-#### Artikel 14b
+##### Artikel 14b
 
 Met de opsporing in de openbare lichamen Bonaire, Sint Eustatius en Saba van de in deze wet strafbaar gestelde feiten zijn belast, naast de in artikel 184 van het Wetboek van Strafvordering BES bedoelde ambtenaren, de daartoe bij besluit van Onze Minister van Justitie in overeenstemming met Onze Minister aangewezen ambtenaren.
 
-#### Artikel 14c
+##### Artikel 14c
 
 1. Overtredingen van voorschriften gesteld bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=2&artikel=2&z=2025-03-01&g=2025-03-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=3&artikel=7&z=2025-03-01&g=2025-03-01) zijn misdrijven voor zover zij opzettelijk zijn begaan. Voor zover deze gedragingen niet opzettelijk worden begaan, zijn zij overtredingen.
 
@@ -244,7 +270,7 @@ Met de opsporing in de openbare lichamen Bonaire, Sint Eustatius en Saba van de 
 
 Lasten en bevelen, dat deze wet in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 10ba
+##### Artikel 10ba
 
 Indien een instelling als bedoeld in [artikel 10, tweede lid, onder a tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=5&artikel=10&z=2025-03-01&g=2025-03-01), niet voldoet aan haar verplichtingen ingevolge [artikel 10b](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=5&artikel=10b&z=2025-03-01&g=2025-03-01), kan Onze Minister van Financiën door middel van het geven van een aanwijzing die instelling verplichten binnen een door hem gestelde redelijke termijn ten aanzien van in de aanwijzingsbeschikking aan te geven punten een bepaalde gedragslijn te volgen.
 
@@ -256,7 +282,7 @@ Indien een instelling als bedoeld in [artikel 10, tweede lid, onder a tot en met
 
 Lasten en bevelen, dat deze wet in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 10i
+##### Artikel 10i
 
 1. Onze Minister van Financiën verstrekt, indien hij deelneemt aan een samenwerkingsverband als bedoeld in de [Wet gegevensverwerking door samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0049962), in afwijking van [artikel 10g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&afdeling=5&artikel=10g&z=2025-03-01&g=2025-03-01), aan het samenwerkingsverband gegevens behorend tot de in [hoofdstuk 2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2) of bij algemene maatregel van bestuur op grond van die wet aangewezen categorieën, voor zover dat noodzakelijk is voor het doel van dat samenwerkingsverband, tenzij naar het oordeel van Onze Minister van Financiën zwaarwegende redenen zich daartegen verzetten.
 

@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling sanering varkenshouderijen"
+title: "Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 10 oktober 2019, nr. WJZ/ 19237719 , tot vaststelling van een regeling voor de verstrekking van subsidie voor het saneren van varkenshouderijlocaties in verband met geurhinder (Subsidieregeling sanering varkenshouderijen)"
 identifier: "BWBR0042634"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-03-24
-laatste_update: 2021-03-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042634"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-03-24"
+last_updated: "2021-03-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042634"
+soort: "ministeriele-regeling"
+stam_id: "15203853"
+version_id: "26059442"
+internal_id: "C37099241"
+label_id: "15151284"
+dtd_version: "2.0"
+original_entry_into_force: "2019-10-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042634/2021-03-24/0"
+intitule_bron: "Stcrt.2019-55830"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-10-10"
+intitule_published: "2019-10-11"
+intitule_in_force: "2019-10-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-55830"
+original_signed_date: "2019-10-10"
+original_published_date: "2019-10-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-55830"
+entry_into_force_date: "2019-10-12"
+jci_1_3: "jci1.3:c:BWBR0042634&z=2021-03-24&g=2021-03-24"
+jci_1_0: "1.0:c:BWBR0042634&g=2021-03-24"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling sanering varkenshouderijen"
+signed_date: "2019-10-10"
+entry_into_force: "2019-10-12"
 ---
-
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 10 oktober 2019, nr. WJZ/ 19237719 , tot vaststelling van een regeling voor de verstrekking van subsidie voor het saneren van varkenshouderijlocaties in verband met geurhinder (Subsidieregeling sanering varkenshouderijen)
 
 Gelet op de [artikelen 2a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=2a), en [3, eerste lid, van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemeen
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In deze regeling wordt verstaan onder:
 
@@ -48,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **varkensrecht:** het varkensrecht, bedoeld in [artikel 1, eerste lid, onderdeel y, van de Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=1).
 
-#### Artikel 2. Geurscore
+##### Artikel 2. Geurscore
 
 De geurscore van een varkenshouderijlocatie wordt bepaald met behulp van de volgende methode:
 
@@ -58,19 +84,19 @@ De geurscore van een varkenshouderijlocatie wordt bepaald met behulp van de volg
 
 - c. de in onderdeel b bedoelde weegfactoren worden opgeteld tot de geurscore.
 
-#### Artikel 3. [Kaderbesluit nationale EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796)
+##### Artikel 3. [Kaderbesluit nationale EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796)
 
 De [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=8), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=26), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=28), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=36), [36a](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=36a), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=41), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=43), [52 van het Kaderbesluit nationale EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=52) zijn van overeenkomstige toepassing.
 
 #### § 2. Criteria voor subsidieverstrekking
 
-#### Artikel 4. Grondslag
+##### Artikel 4. Grondslag
 
 1. De minister kan een varkenshouder op aanvraag subsidie verstrekken voor de onomkeerbare sluiting van een varkenshouderijlocatie indien de geurscore van die locatie meer bedraagt dan 0,4 en voor zover die locatie is gelegen binnen een concentratiegebied.
 
 2. Voor subsidieverstrekking op grond van het eerste lid komt niet in aanmerking een varkenshouder die [artikel 19, eerste lid, van de Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=19) heeft overtreden.
 
-#### Artikel 5. Vereisten
+##### Artikel 5. Vereisten
 
 Er is sprake van een onomkeerbare sluiting van een varkenshouderijlocatie zoals bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042634&paragraaf=2&artikel=4&z=2021-03-24&g=2021-03-24) indien:
 
@@ -100,7 +126,7 @@ Er is sprake van een onomkeerbare sluiting van een varkenshouderijlocatie zoals 
 
 - h. de voor het houden van varkens op de varkenshouderijlocatie gebruikte productiecapaciteit is afgebroken en verwijderd.
 
-#### Artikel 6. Afwijzingsgronden
+##### Artikel 6. Afwijzingsgronden
 
 1. De aanvraag van de varkenshouder wordt afgewezen indien:
 
@@ -112,7 +138,7 @@ Er is sprake van een onomkeerbare sluiting van een varkenshouderijlocatie zoals 
 
 #### § 3. Subsidiebedrag
 
-#### Artikel 7. Subsidiecomponenten
+##### Artikel 7. Subsidiecomponenten
 
 De subsidie omvat:
 
@@ -120,7 +146,7 @@ De subsidie omvat:
 
 - b. een bijdrage in verband met het verlies van de waarde van de voor het houden van varkens op de varkenshouderijlocatie gebruikte productiecapaciteit als gevolg van de onomkeerbare sluiting van de varkenshouderijlocatie.
 
-#### Artikel 8. Bijdrage vervallen varkenseenheden
+##### Artikel 8. Bijdrage vervallen varkenseenheden
 
 1. De in [artikel 7, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042634&paragraaf=3&artikel=7&z=2021-03-24&g=2021-03-24), bedoelde bijdrage bedraagt 100% van de waarde van het geheel of gedeeltelijk vervallen varkensrecht, voor zover dat vervallen varkensrecht niet meer bedraagt dan het varkensrecht dat vereist is voor het houden van 100% van het aantal varkens, uitgedrukt in varkenseenheden, dat gemiddeld in de periode vanaf 1 januari 2018 tot 1 januari 2019 op de varkenshouderijlocatie is gehouden.
 
@@ -132,7 +158,7 @@ De subsidie omvat:
 
 3. De minister stelt met het oog op de toepassing van dit artikel voor elk van de concentratiegebieden de actuele waarde van het varkensrecht benodigd voor een varkenseenheid vast aan de hand van de actuele marktprijs en maakt deze bedragen uiterlijk bekend op de dag voor de aanvang van de openstellingsperiode, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042634&paragraaf=4&artikel=10&z=2021-03-24&g=2021-03-24).
 
-#### Artikel 9. Bijdrage waardeverlies
+##### Artikel 9. Bijdrage waardeverlies
 
 1. De in [artikel 7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042634&paragraaf=3&artikel=7&z=2021-03-24&g=2021-03-24), bedoelde bijdrage bedraagt 65% van de gecorrigeerde vervangingswaarde van de voor het houden van varkens op de varkenshouderijlocatie gebruikte productiecapaciteit.
 
@@ -140,13 +166,13 @@ De subsidie omvat:
 
 #### § 4. Aanvraag tot subsidieverlening
 
-#### Artikel 10. Openstellingsperiode en subsidieplafond
+##### Artikel 10. Openstellingsperiode en subsidieplafond
 
 1. Subsidieaanvragen kunnen worden ingediend in de periode van 25 november 2019 tot en met 15 januari 2020.
 
 2. Het subsidieplafond voor de verstrekking van subsidies op aanvragen die zijn ingediend in de in het eerste lid bedoelde periode, bedraagt € 450.000.000,–.
 
-#### Artikel 11. Aanvraag subsidieverlening
+##### Artikel 11. Aanvraag subsidieverlening
 
 1. Een aanvraag voor subsidie als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042634&paragraaf=2&artikel=4&z=2021-03-24&g=2021-03-24) wordt ingediend bij de minister met gebruikmaking van een daartoe door de minister ter beschikking gesteld middel.
 
@@ -184,25 +210,25 @@ De subsidie omvat:
 
 - c. een actuele kaart van de varkenshouderijlocatie, met aanduiding van de voor het houden van varkens gebruikte productiecapaciteit.
 
-#### Artikel 12. Berichtgeving aan bevoegd gezag
+##### Artikel 12. Berichtgeving aan bevoegd gezag
 
 De minister stelt het bevoegd gezag, bedoeld in [artikel 5, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0042634&paragraaf=2&artikel=5&z=2021-03-24&g=2021-03-24), er van in kennis dat van de betreffende aanvrager een aanvraag op grond van deze regeling is ontvangen.
 
 #### § 5. Verdeling subsidieplafond
 
-#### Artikel 13. Verdeling subsidieplafond
+##### Artikel 13. Verdeling subsidieplafond
 
 1. De minister verdeelt het in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042634&paragraaf=4&artikel=10&z=2021-03-24&g=2021-03-24), bedoelde subsidieplafond op volgorde van rangschikking van de aanvragen.
 
 2. De minister rangschikt een aanvraag hoger naarmate de geurscore van de desbetreffende varkenshouderijlocatie hoger is.
 
-#### Artikel 14. Berichtgeving aan bevoegd gezag
+##### Artikel 14. Berichtgeving aan bevoegd gezag
 
 De minister stelt het bevoegd gezag, bedoeld in [artikel 5, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0042634&paragraaf=2&artikel=5&z=2021-03-24&g=2021-03-24), er van in kennis dat de aanvraag van de betreffende aanvrager is toegewezen of afgewezen.
 
 #### § 6. Verplichtingen van de subsidieontvanger
 
-#### Artikel 15. Fasering sluiting van een varkenshouderijlocatie
+##### Artikel 15. Fasering sluiting van een varkenshouderijlocatie
 
 1. De subsidieontvanger voldoet aan:
 
@@ -214,13 +240,13 @@ De minister stelt het bevoegd gezag, bedoeld in [artikel 5, onder d](https://wet
 
 2. Het afbreken en verwijderen van de productiecapaciteit, bedoeld in [artikel 5, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0042634&paragraaf=2&artikel=5&z=2021-03-24&g=2021-03-24), vindt niet eerder plaats dan nadat de minister heeft geconstateerd dat uitvoering is gegeven aan de in [artikel 5, onder a, b, c, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0042634&paragraaf=2&artikel=5&z=2021-03-24&g=2021-03-24), bedoelde vereisten.
 
-#### Artikel 16. Informatieverplichting voortgang
+##### Artikel 16. Informatieverplichting voortgang
 
 De subsidieontvanger verstrekt de minister op diens verzoek informatie over de uitvoering van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042634&paragraaf=2&artikel=5&z=2021-03-24&g=2021-03-24) bedoelde vereisten.
 
 #### § 7. Bevoorschotting
 
-#### Artikel 17. Bevoorschotting
+##### Artikel 17. Bevoorschotting
 
 1. De minister verstrekt de subsidieontvanger uiterlijk zes weken na ontvangst van de ondertekende overeenkomst, bedoeld in [artikel 5, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0042634&paragraaf=2&artikel=5&z=2021-03-24&g=2021-03-24), een voorschot van 10% van het subsidiebedrag.
 
@@ -240,17 +266,17 @@ De subsidieontvanger verstrekt de minister op diens verzoek informatie over de u
 
 #### § 8. Subsidievaststelling
 
-#### Artikel 18. Subsidievaststelling
+##### Artikel 18. Subsidievaststelling
 
 De aanvraag om subsidievaststelling wordt uiterlijk dertien weken na afloop van de in [artikel 15, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042634&paragraaf=6&artikel=15&z=2021-03-24&g=2021-03-24), bedoelde termijn ingediend met gebruikmaking van een middel dat door de minister beschikbaar wordt gesteld.
 
 #### § 9. Slotbepalingen
 
-#### Artikel 19
+##### Artikel 19
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 20
+##### Artikel 20
 
 Deze regeling wordt aangehaald als: Subsidieregeling sanering varkenshouderijen.
 

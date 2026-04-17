@@ -1,13 +1,39 @@
 ---
-title: "Regeling subsidiëring sloop- en ombouwkosten pelsdierhouderij"
+title: "Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 14 februari 2018, nr. WJZ /16056394, houdende regels met betrekking tot subsidiëring van de kosten van sloop en ombouw nertsenhouderijen (Regeling subsidiëring sloop- en ombouwkosten pelsdierhouderij)"
 identifier: "BWBR0040636"
-categorie: "Onderwijs"
-publicatiedatum: 2023-10-17
-laatste_update: 2023-10-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040636"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-10-17"
+last_updated: "2023-10-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040636"
+soort: "ministeriele-regeling"
+stam_id: "14552323"
+version_id: "27866142"
+internal_id: "C39299521"
+label_id: "14506204"
+dtd_version: "2.0"
+original_entry_into_force: "2021-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040636/2023-10-17/0"
+intitule_bron: "Stcrt.2018-9184"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-02-14"
+intitule_published: "2018-02-16"
+intitule_in_force: "2018-02-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-34359"
+original_signed_date: "2021-07-01"
+original_published_date: "2021-07-05"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2021-34359"
+entry_into_force_date: "2021-07-01"
+jci_1_3: "jci1.3:c:BWBR0040636&z=2023-10-17&g=2023-10-17"
+jci_1_0: "1.0:c:BWBR0040636&g=2023-10-17"
+citeertitel_status: "officieel"
+short_title: "Regeling subsidiëring sloop- en ombouwkosten pelsdierhouderij"
+signed_date: "2021-07-01"
+entry_into_force: "2021-07-01"
 ---
-
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 14 februari 2018, nr. WJZ /16056394, houdende regels met betrekking tot subsidiëring van de kosten van sloop en ombouw nertsenhouderijen (Regeling subsidiëring sloop- en ombouwkosten pelsdierhouderij)
 
 Gelet op de [artikelen 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040594&artikel=3), [7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040594&artikel=7), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0040594&artikel=11), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040594&artikel=14), en [15, van het Besluit subsidiëring sloop- en ombouwkosten pelsdierhouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0040594&artikel=15), en op de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=19) en [50 van het Kaderbesluit nationale EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=50);
@@ -18,7 +44,7 @@ Treedt in werking op het tijdstip waarop het Besluit subsidiëring sloop- en omb
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Definitie
+##### Artikel 1. Definitie
 
 In deze regeling wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Sloop
 
-#### Artikel 2. Subsidie voor sloop
+##### Artikel 2. Subsidie voor sloop
 
 1. Het bedrag, bedoeld in [artikel 3, tweede lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040594&artikel=3), is:
 
@@ -54,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 5. Indien een aan de pelsdierhouder verleende subsidie als bedoeld in de [Regeling subsidie financiering vaste lasten MKB COVID-19](https://wetten.overheid.nl/jci1.3:c:BWBR0043735) op grond van [artikel 11 van die Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0043735&artikel=11) is vastgesteld, wordt de vastgestelde subsidie in mindering gebracht op het bedrag, bedoeld in [artikel 3, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040594&artikel=3).
 
-#### Artikel 3. Subsidie voor sloop met asbestverwijdering
+##### Artikel 3. Subsidie voor sloop met asbestverwijdering
 
 De bedragen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=2&artikel=2&z=2023-10-17&g=2023-10-17), worden verhoogd met:
 
@@ -66,7 +92,7 @@ De bedragen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.
 
 ### Hoofdstuk 3. Ombouw
 
-#### Artikel 4. Subsidie voor ombouw
+##### Artikel 4. Subsidie voor ombouw
 
 Het bedrag, bedoeld in [artikel 7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040594&artikel=7), is:
 
@@ -74,17 +100,17 @@ Het bedrag, bedoeld in [artikel 7, tweede lid, van het besluit](https://wetten.o
 
 - b. het bedrag dat wordt bepaald aan de hand van de bijlage, indien dat hoger is dan € 120.000.
 
-#### Artikel 5. Subsidie voor ombouw met asbestverwijdering
+##### Artikel 5. Subsidie voor ombouw met asbestverwijdering
 
 Vervallen
 
-#### Artikel 6. De-minimisverklaring
+##### Artikel 6. De-minimisverklaring
 
 Bij een aanvraag van subsidie als bedoeld in [artikel 10 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040594&artikel=10) overlegt de nertsenhouder een de-minimisverklaring als bedoeld in artikel 6 van verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 VWEU van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PbEU L352/1).
 
 ### Hoofdstuk 4. Bepalingen die van toepassing zijn op de subsidieverstrekking krachtens [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=2&z=2018-02-28&g=2018-02-28) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=3&z=2018-02-28&g=2018-02-28)
 
-#### Artikel 7. Maximumbedrag per plaats bij samenloop sloop en ombouw
+##### Artikel 7. Maximumbedrag per plaats bij samenloop sloop en ombouw
 
 Het bedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040594&artikel=11), is:
 
@@ -92,7 +118,7 @@ Het bedrag, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/j
 
 - b. het bedrag dat wordt bepaald aan de hand van de bijlage, indien dat hoger is dan € 120.000.
 
-#### Artikel 8. Aanvraag
+##### Artikel 8. Aanvraag
 
 Bij de aanvraag wordt ten minste de volgende informatie verstrekt:
 
@@ -118,7 +144,7 @@ Bij de aanvraag wordt ten minste de volgende informatie verstrekt:
 
 - f. voor zover van toepassing, gegevens met betrekking tot een op grond van de [Regeling subsidie financiering vaste lasten MKB COVID-19](https://wetten.overheid.nl/jci1.3:c:BWBR0043735) ingediende aanvraag en in dat kader genomen besluiten.
 
-#### Artikel 9. Aanvraag door een grote onderneming
+##### Artikel 9. Aanvraag door een grote onderneming
 
 Onverminderd [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=4&artikel=8&z=2023-10-17&g=2023-10-17) wordt bij de aanvraag door een grote onderneming de volgende informatie verstrekt:
 
@@ -132,7 +158,7 @@ Onverminderd [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdst
 
 ### Hoofdstuk 5. Overige bepalingen
 
-#### Artikel 10. Aanwijzing toezichthouders
+##### Artikel 10. Aanwijzing toezichthouders
 
 Als ambtenaren als bedoeld in [artikel 14, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040594&artikel=14), worden aangewezen de ambtenaren van:
 
@@ -142,17 +168,17 @@ Als ambtenaren als bedoeld in [artikel 14, eerste lid, van het besluit](https://
 
 - c. de Auditdienst Rijk.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Deze regeling treedt in werking op het tijdstip waarop het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040594) in werking treedt.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling subsidiëring sloop- en ombouwkosten pelsdierhouderij.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a. De-minimisverklaring
+##### Artikel 3a. De-minimisverklaring
 
 Bij een aanvraag van subsidie als bedoeld in [artikel 2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040594&artikel=2) kan de nertsenhouder een landbouw de-minimisverklaring overleggen als bedoeld in artikel 6 van verordening (EU) nr. 1408/2013 van de Commissie van 18 december 2013 inzake de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun in de landbouwsector (PbEU L 352).
 
@@ -160,7 +186,7 @@ Bij een aanvraag van subsidie als bedoeld in [artikel 2 van het besluit](https:/
 
 ### Hoofdstuk 4. Bepalingen die van toepassing zijn op de subsidieverstrekking krachtens [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=2&z=2023-10-17&g=2023-10-17) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=3&z=2023-10-17&g=2023-10-17)
 
-#### Artikel 8a. Uiterste aanvraagdatum
+##### Artikel 8a. Uiterste aanvraagdatum
 
 De datum, bedoeld in [artikel 12, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040594&artikel=12), is:
 
@@ -168,19 +194,19 @@ De datum, bedoeld in [artikel 12, onderdeel a, van het besluit](https://wetten.o
 
 - b. 31 december 2023 indien het een aanvraag ten behoeve van de ombouw naar een nieuw landbouwbedrijf, of een nieuw bedrijf niet zijnde een landbouwbedrijf betreft.
 
-#### Artikel 8b. Uitvoeringstermijn subsidiabele activiteiten
+##### Artikel 8b. Uitvoeringstermijn subsidiabele activiteiten
 
 De termijn, bedoeld in [artikel 14, tweede lid , van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040594&artikel=14), is de periode tussen de datum van de verleningsbeschikking en 31 december 2029.
 
 ### Hoofdstuk 4a. Overgangsrecht
 
-#### Artikel 9a. Overgangsrecht
+##### Artikel 9a. Overgangsrecht
 
 Op aanvragen om subsidie die zijn ingediend vóór het tijdstip van inwerkingtreding van een wijziging van deze regeling, op subsidies die voor dat tijdstip zijn verleend en op subsidies die voor dat tijdstip zijn vastgesteld, blijft deze regeling van toepassing zoals zij luidde vóór dat tijdstip.
 
 ### Hoofdstuk 5. Overige bepalingen
 
-#### Artikel 10a
+##### Artikel 10a
 
 Onverminderd [artikel 50, tweede lid, van het Kaderbesluit nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=50), gaat een aanvraag om subsidievaststelling vergezeld van een afschrift van de voor de sloop of ombouw verleende vergunningen.
 

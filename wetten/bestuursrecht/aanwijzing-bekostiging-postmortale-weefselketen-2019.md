@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzing bekostiging postmortale weefselketen 2019"
+title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 3 oktober 2017, kenmerk 1223400-167181-MC, op grond van artikel 7 van de Wet marktordening gezondheidzorg inzake bekostiging van de postmortale weefselketen 2019"
 identifier: "BWBR0040057"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-12-01
-laatste_update: 2017-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040057"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-12-01"
+last_updated: "2017-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040057"
+soort: "ministeriele-regeling"
+stam_id: "14240613"
+version_id: "24450052"
+internal_id: "C35053361"
+label_id: "14201204"
+dtd_version: "2.0"
+original_entry_into_force: "2017-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040057/2017-12-01/0"
+intitule_bron: "Stcrt.2017-57118"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-10-03"
+intitule_published: "2017-10-10"
+intitule_in_force: "2017-10-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-57118"
+original_signed_date: "2017-10-03"
+original_published_date: "2017-10-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-57118"
+entry_into_force_date: "2017-12-01"
+jci_1_3: "jci1.3:c:BWBR0040057&z=2017-12-01&g=2017-12-01"
+jci_1_0: "1.0:c:BWBR0040057&g=2017-12-01"
+citeertitel_status: "officieel"
+short_title: "Aanwijzing bekostiging postmortale weefselketen 2019"
+signed_date: "2017-10-03"
+entry_into_force: "2017-12-01"
 ---
-
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 3 oktober 2017, kenmerk 1223400-167181-MC, op grond van artikel 7 van de Wet marktordening gezondheidzorg inzake bekostiging van de postmortale weefselketen 2019
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7):
@@ -22,7 +48,7 @@ Besluit:
 
 ### Hoofdstuk I. Inleidende bepalingen
 
-#### Artikel 1. definities
+##### Artikel 1. definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -82,7 +108,7 @@ In deze aanwijzing wordt verstaan onder:
 
 - –. **zorgverzekeraar:** zorgverzekeraar als bedoeld in [artikel 1, aanhef en onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De zorgautoriteit stelt ter uitvoering van deze aanwijzing waar nodig regels en beleidsregels vast.
 
@@ -90,7 +116,7 @@ In deze aanwijzing wordt verstaan onder:
 
 ### Hoofdstuk II. Post mortem weefseluitname
 
-#### Artikel 3
+##### Artikel 3
 
 1. De zorgautoriteit kan een beschikbaarheidbijdrage verstrekken aan een uitname-organisatie die een overeenkomst heeft gesloten met het orgaancentrum om met uitnameteams zorg te dragen voor alle postmortale uitnames van weefsel bij donoren in Nederland.
 
@@ -110,7 +136,7 @@ In deze aanwijzing wordt verstaan onder:
 
 ### Hoofdstuk III. Prestatiebeschrijving en tarifering weefselproducten
 
-#### Artikel 4
+##### Artikel 4
 
 1. De zorgautoriteit stelt een of meer prestaties vast voor post mortem verkregen weefsels, die door instellingen bij zorgverzekeraars of consumenten in rekening kunnen worden gebracht.
 
@@ -118,7 +144,7 @@ In deze aanwijzing wordt verstaan onder:
 
 3. Voor zover de weefsels bedoeld in het eerste lid deel uitmaken van een prestatie van een instelling vallend onder het vrije segment, gelden voor de prestaties bedoeld in het eerste lid integrale vrije tarieven.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De zorgautoriteit stelt één algemene prestatiebeschrijving vast voor de levering van post mortem verkregen weefsels door een weefselbank aan een instelling.
 
@@ -128,7 +154,7 @@ In deze aanwijzing wordt verstaan onder:
 
 ### Hoofdstuk IV. Slotbepaling
 
-#### Artikel 6
+##### Artikel 6
 
 Deze aanwijzing wordt aangehaald als: Aanwijzing bekostiging postmortale weefselketen 2019.
 

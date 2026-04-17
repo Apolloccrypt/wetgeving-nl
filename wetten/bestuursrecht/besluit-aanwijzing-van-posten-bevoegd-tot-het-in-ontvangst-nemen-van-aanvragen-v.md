@@ -1,13 +1,39 @@
 ---
-title: "Besluit aanwijzing van posten bevoegd tot het in ontvangst nemen van aanvragen voor reisdocumenten en identiteitskaarten"
+title: "Besluit van de Minister van Buitenlandse Zaken van 21 september 2022, nummer Min-BuZa.2022.12383-30 tot aanwijzing van posten bevoegd tot het in ontvangst nemen van aanvragen voor reisdocumenten en identiteitskaarten"
 identifier: "BWBR0047315"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-03-01
-laatste_update: 2026-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047315"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-01"
+last_updated: "2026-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047315"
+soort: "ministeriele-regeling"
+stam_id: "16521803"
+version_id: "29588122"
+internal_id: "C42307251"
+label_id: "16443244"
+dtd_version: "2.0"
+original_entry_into_force: "2023-08-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047315/2026-03-01/0"
+intitule_bron: "Stcrt.2022-27372"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-09-21"
+intitule_published: "2022-10-14"
+intitule_in_force: "2022-10-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-23392"
+original_signed_date: "2023-08-14"
+original_published_date: "2023-08-23"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2023-23392"
+entry_into_force_date: "2023-08-14"
+jci_1_3: "jci1.3:c:BWBR0047315&z=2026-03-01&g=2026-03-01"
+jci_1_0: "1.0:c:BWBR0047315&g=2026-03-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit aanwijzing van posten bevoegd tot het in ontvangst nemen van aanvragen voor reisdocumenten en identiteitskaarten"
+signed_date: "2023-08-14"
+entry_into_force: "2023-08-14"
 ---
-
 # Besluit van de Minister van Buitenlandse Zaken van 21 september 2022, nummer Min-BuZa.2022.12383-30 tot aanwijzing van posten bevoegd tot het in ontvangst nemen van aanvragen voor reisdocumenten en identiteitskaarten
 
 Gelet op [artikel 26, eerste lid, onderdeel d, derde lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=26), alsmede [artikel 42, eerste lid, van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=42);
@@ -16,7 +42,7 @@ Gelet op [titel 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overhei
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De hoofden van de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047315&bijlage=A&z=2026-03-01&g=2026-03-01) genoemde consulaire posten zijn bevoegd tot het in ontvangst nemen van aanvragen voor, alsmede het uitreiken van:
 
@@ -38,13 +64,13 @@ Besluit:
 
 3. De hoofden van consulaire posten in het Schengengebied zijn indien de post is uitgerust met aanvraagapparatuur voor reisdocumenten, bevoegd tot het in ontvangst nemen van aanvragen voor, alsmede het uitreiken van vervangende Nederlandse identiteitskaarten. Vorenbedoelde posten zijn genoemd in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047315&bijlage=B&z=2026-03-01&g=2026-03-01).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De **Regional Head-Europe** van VFS Global in Londen is ten behoeve van de VFS Global Offices in Londen, Edinburgh, Birmingham, Madrid en Barcelona bevoegd tot het in ontvangst nemen van aanvragen voor en uitreiken van nationale paspoorten, Nederlandse identiteitskaarten en tweede paspoorten, bedoeld in [artikel 1, eerste lid, onder a, b en f](https://wetten.overheid.nl/jci1.3:c:BWBR0047315&artikel=1&z=2026-03-01&g=2026-03-01).
 
 2. De **Regional Head-Europe** van VFS Global in Londen kan met betrekking tot zijn bevoegdheden, bedoeld in het eerste lid, machtiging verlenen aan één of meer onder hem ressorterende medewerkers.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De **Head of Operations USA** in Washington DC is ten behoeve van de VFS Global Offices in Chicago, Los Angeles, Boston en Houston bevoegd tot het in ontvangst nemen van aanvragen voor en uitreiken van nationale paspoorten, Nederlandse identiteitskaarten en tweede paspoorten, bedoeld in [artikel 1, eerste lid, onder a, b en f](https://wetten.overheid.nl/jci1.3:c:BWBR0047315&artikel=1&z=2026-03-01&g=2026-03-01).
 
@@ -52,7 +78,7 @@ Besluit:
 
 3. De **Head of Operations USA** en de **Head of Operations Canada** kunnen met betrekking tot hun bevoegdheden, bedoeld in het eerste respectievelijk tweede lid, machtiging verlenen aan één of meer onder hen ressorterende medewerkers.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Country Manager Australia & New Zealand van VFS Global in Sydney is ten behoeve van de VFS Global Offices in Perth, Melbourne en Auckland bevoegd tot het in ontvangst nemen van aanvragen voor en uitreiken van nationale paspoorten, Nederlandse identiteitskaarten en tweede paspoorten, bedoeld in [artikel 1, eerste lid, onder a, b en f](https://wetten.overheid.nl/jci1.3:c:BWBR0047315&artikel=1&z=2026-03-01&g=2026-03-01).
 
@@ -60,19 +86,19 @@ Besluit:
 
 2. De **Country Manager-Australia & New Zealand** van VFS Global in Sydney en de **Country Manager** van VFS Global in Brisbane kunnen met betrekking tot hun bevoegdheden, bedoeld in het eerste lid respectievelijk lid 1a, machtiging verlenen aan één of meer onder hen ressorterende medewerkers.
 
-#### Artikel 5
+##### Artikel 5
 
 De hoofden van de honorair consulaire posten in Al Hamala (Koninkrijk Bahrein) en in Bandar Seri Begawan (Staat Brunei Darussalam) zijn bevoegd om aanvragen voor een eerste nationaal paspoort in ontvangst te nemen.
 
-#### Artikel 6
+##### Artikel 6
 
 De hoofden van honorair consulaire posten zijn bevoegd tot het uitreiken van paspoorten en Nederlandse identiteitskaarten, zoals bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047315&artikel=1&z=2026-03-01&g=2026-03-01), indien veilige verzending van het reisdocument niet mogelijk is.
 
-#### Artikel 7
+##### Artikel 7
 
 Het [besluit van de Minister van Buitenlandse Zaken van 3 mei 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045155) (met datum inwerkingtreding 26 mei 2021), nummer Min-BuZa.2021.8598-111Stcrt 2021, nr. 23608, tot aanwijzing van posten bevoegd tot het in ontvangst nemen van aanvragen voor reisdocumenten en identiteitskaarten, wordt ingetrokken.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking met ingang van 17 oktober 2022.
 
@@ -306,7 +332,7 @@ Dit besluit treedt in werking met ingang van 17 oktober 2022.
 
 Dit besluit zal met de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047315&bijlage=A&z=2023-02-07&g=2023-02-07) in de Staatscourant worden geplaatst.
 
-#### Artikel 4a
+##### Artikel 4a
 
 1. De **Head of Operations Southern Africa** van VFS Global in Johannesburg is ten behoeve van de VFS Global Offices in Durban en Kaapstad bevoegd tot het in ontvangst nemen van aanvragen voor en uitreiken van nationale paspoorten, Nederlandse identiteitskaarten en tweede paspoorten, bedoeld in [artikel 1, eerste lid, onder a, b en f](https://wetten.overheid.nl/jci1.3:c:BWBR0047315&artikel=1&z=2026-03-01&g=2026-03-01).
 
@@ -337,13 +363,13 @@ Dit besluit zal met de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR004731
 
 Dit besluit zal met de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047315&bijlage=A&z=2023-08-08&g=2023-08-08) in de Staatscourant worden geplaatst.
 
-#### Artikel 4b
+##### Artikel 4b
 
 1. De **Regional Head Turkey and Sudan** van VFS Global in Istanbul is ten behoeve van het VFS Global Office in Izmir bevoegd tot het in ontvangst nemen van vervolgaanvragen voor en het uitreiken van nationale paspoorten, Nederlandse identiteitskaarten en tweede paspoorten naar aanleiding van die aanvragen, bedoeld in [artikel 1, eerste lid, onder a, b en f](https://wetten.overheid.nl/jci1.3:c:BWBR0047315&artikel=1&z=2026-03-01&g=2026-03-01).
 
 2. De **Regional Head Turkey and Sudan** van VFS Global in Istanbul kan met betrekking tot zijn bevoegdheden, bedoeld in het eerste lid, machtiging verlenen aan één of meer onder hem ressorterende medewerkers.
 
-#### Artikel 4c
+##### Artikel 4c
 
 1. De **Head of Operations – Iran, Iraq, Kuwait and Lebanon** van VFS Global in Erbil is ten behoeve van het VFS Global Office in Erbil bevoegd tot het in ontvangst nemen van vervolgaanvragen voor en het uitreiken van nationale paspoorten, Nederlandse identiteitskaarten en tweede paspoorten naar aanleiding van die aanvragen, bedoeld in [artikel 1, eerste lid, onder a, b en f](https://wetten.overheid.nl/jci1.3:c:BWBR0047315&artikel=1&z=2026-03-01&g=2026-03-01).
 

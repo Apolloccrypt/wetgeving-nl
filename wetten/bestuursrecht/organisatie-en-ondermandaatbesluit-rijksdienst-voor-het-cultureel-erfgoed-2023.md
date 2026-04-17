@@ -1,13 +1,39 @@
 ---
-title: "Organisatie- en ondermandaatbesluit Rijksdienst voor het Cultureel Erfgoed 2023"
+title: "Besluit van de algemeen directeur van de Rijksdienst voor het Cultureel Erfgoed van 10 oktober 2023, nr. RCE/42145325, houdende de vaststelling van het Organisatie- en ondermandaatbesluit Rijksdienst voor het Cultureel Erfgoed 2023 (Organisatie- en ondermandaatbesluit Rijksdienst voor het Cultureel Erfgoed 2023)"
 identifier: "BWBR0048807"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-11-01
-laatste_update: 2023-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048807"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-11-01"
+last_updated: "2023-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048807"
+soort: "ministeriele-regeling"
+stam_id: "16896153"
+version_id: "29696462"
+internal_id: "C42551011"
+label_id: "16807994"
+dtd_version: "2.0"
+original_entry_into_force: "2023-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048807/2023-11-01/0"
+intitule_bron: "Stcrt.2023-29650"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-10-10"
+intitule_published: "2023-10-31"
+intitule_in_force: "2023-10-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-29650"
+original_signed_date: "2023-10-10"
+original_published_date: "2023-10-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-29650"
+entry_into_force_date: "2023-11-01"
+jci_1_3: "jci1.3:c:BWBR0048807&z=2023-11-01&g=2023-11-01"
+jci_1_0: "1.0:c:BWBR0048807&g=2023-11-01"
+citeertitel_status: "officieel"
+short_title: "Organisatie- en ondermandaatbesluit Rijksdienst voor het Cultureel Erfgoed 2023"
+signed_date: "2023-10-10"
+entry_into_force: "2023-11-01"
 ---
-
 # Besluit van de algemeen directeur van de Rijksdienst voor het Cultureel Erfgoed van 10 oktober 2023, nr. RCE/42145325, houdende de vaststelling van het Organisatie- en ondermandaatbesluit Rijksdienst voor het Cultureel Erfgoed 2023 (Organisatie- en ondermandaatbesluit Rijksdienst voor het Cultureel Erfgoed 2023)
 
 Met goedkeuring van de directeur-generaal Cultuur en Media van het Ministerie van Onderwijs, Cultuur en Wetenschap;
@@ -18,7 +44,7 @@ Besluit:
 
 #### § 1. Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -54,7 +80,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - p. **managementafspraak:** afspraak omtrent de aansturing van de rijksdienst door de directeuren en de vertaling van beleidsdoelen in de begroting en de doelstellingen voor de interne bedrijfsvoering naar concrete acties en activiteiten, benodigde middelen en bevoegdheden of de prestatie- en kwaliteitsnormen ten aanzien van de te leveren producten of diensten, dan wel beide, met inbegrip van het bestedingsplan.
 
-#### Artikel 2. Mandaat, volmacht en machtiging
+##### Artikel 2. Mandaat, volmacht en machtiging
 
 1. Alle in dit besluit genoemde ondermandaat- en volmachtbevoegdheden en machtigingen worden uitgeoefend met inachtneming van het [Organisatie- en mandaatbesluit OCW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023543).
 
@@ -66,7 +92,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Organisatie
 
-#### Artikel 3. Organisatie van de rijksdienst
+##### Artikel 3. Organisatie van de rijksdienst
 
 1. De rijksdienst bestaat uit:
 
@@ -84,7 +110,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Algemeen mandaat
 
-#### Artikel 4. Voorbehouden aan de algemeen directeur
+##### Artikel 4. Voorbehouden aan de algemeen directeur
 
 Aan de algemeen directeur is voorbehouden:
 
@@ -98,13 +124,13 @@ Aan de algemeen directeur is voorbehouden:
 
 - e. het ondertekenen van notariële aktes inzake overdracht van op grond van het restitutiebeleid cultuurgoederen Tweede Wereldoorlog te restitueren cultuurgoederen in bezit van de Staat der Nederlanden.
 
-#### Artikel 5. Algemeen mandaat directeur Kennis & Advies
+##### Artikel 5. Algemeen mandaat directeur Kennis & Advies
 
 1. De directeur Kennis & Advies heeft, onverminderd de mandaatverlening aan de algemeen directeur op grond van het [Organisatie- en mandaatbesluit OCW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023543), binnen het kader van de managementafspraak tussen de algemeen directeur en de directeur Kennis & Advies mandaat ten aanzien van de aangelegenheden die verband houden met de taken en verantwoordelijkheden op het werkterrein van de rijksdienst, behoudens de bevoegdheden genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048807&paragraaf=2&artikel=4&z=2023-11-01&g=2023-11-01) en het in de bijlage bij dit besluit met betrekking tot het financieel mandaat bepaalde.
 
 2. De directeur Kennis & Advies is budgethouder voor de hem door de algemeen directeur toegewezen budgetten.
 
-#### Artikel 6. Algemeen mandaat afdelingshoofden
+##### Artikel 6. Algemeen mandaat afdelingshoofden
 
 1. De afdelingshoofden, genoemd in de bijlage bij dit besluit, wordt binnen hun functionele verantwoordelijkheid mandaat verleend bevoegdheden uit te oefenen tot het nemen van besluiten, het afdoen en het ondertekenen van stukken ten aanzien van aangelegenheden die voortvloeien uit hun functie.
 
@@ -112,33 +138,33 @@ Aan de algemeen directeur is voorbehouden:
 
 #### § 4. Financieel en specifiek mandaat
 
-#### Artikel 7. Financieel mandaat functionarissen
+##### Artikel 7. Financieel mandaat functionarissen
 
 De functionarissen, genoemd in de bijlage bij dit besluit, wordt binnen hun functionele verantwoordelijkheid mandaat verleend financiële verplichtingen aan te gaan tot de hoogte, zoals beschreven in hoofdstuk 3 van de bijlage bij dit besluit.
 
-#### Artikel 8. Specifiek mandaat functionarissen
+##### Artikel 8. Specifiek mandaat functionarissen
 
 De functionarissen, genoemd in de bijlage bij dit besluit, wordt binnen hun functionele verantwoordelijkheid mandaat verleend de specifieke bevoegdheden, als bedoeld in hoofdstuk 4 van de bijlage bij dit besluit, uit te oefenen door het nemen van besluiten of het geven van adviezen en het afdoen en ondertekenen van stukken ten aanzien van aangelegenheden die voortvloeien uit hun functie.
 
 #### § 5. Vervanging bij afwezigheid of verhindering
 
-#### Artikel 9. Plaatsvervanging bij afwezigheid of verhindering
+##### Artikel 9. Plaatsvervanging bij afwezigheid of verhindering
 
 De vervanging van functionarissen wordt vastgesteld in hoofdstuk 5 van de bijlage bij dit besluit.
 
 #### § 6. Slotbepalingen
 
-#### Artikel 10. Intrekking voorgaand organisatie- en ondermandaatbesluit
+##### Artikel 10. Intrekking voorgaand organisatie- en ondermandaatbesluit
 
 1. Het [Organisatie- en ondermandaatbesluit Rijksdienst voor het Cultureel Erfgoed 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0043237), met inbegrip van de bijbehorende bijlagen, wordt ingetrokken.
 
 2. Mandaten, volmachten en machtigingen die zijn verleend op grond van het in het eerste lid van dit artikel genoemde besluit en die gelden op de dag voor de inwerkingtreding van dit besluit worden geacht te zijn verleend op grond van dit besluit mits deze bevoegdheid ook in dit besluit zijn grondslag vindt.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na publicatie in de Staatscourant.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Dit besluit kan worden aangehaald als: Organisatie- en ondermandaatbesluit Rijksdienst voor het Cultureel Erfgoed 2023.
 

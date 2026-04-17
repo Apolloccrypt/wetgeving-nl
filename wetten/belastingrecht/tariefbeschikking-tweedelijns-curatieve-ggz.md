@@ -1,13 +1,38 @@
 ---
 title: "Tariefbeschikking tweedelijns curatieve GGZ"
 identifier: "BWBR0032499"
-categorie: "Belastingrecht"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032499"
+country: "nl"
+rank: "zbo"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032499"
+soort: "zbo"
+stam_id: "11970293"
+version_id: "19899352"
+internal_id: "C27950971"
+label_id: "11942304"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032499/2013-01-01/0"
+intitule_bron: "Stcrt.2012-26441"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-11-20"
+intitule_published: "2012-12-20"
+intitule_in_force: "2012-12-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-26441"
+original_signed_date: "2012-11-20"
+original_published_date: "2012-12-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-26441"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032499&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0032499&g=2013-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2012-11-20"
+entry_into_force: "2013-01-01"
 ---
-
 # Tariefbeschikking tweedelijns curatieve GGZ
 
 1 De term ‘tweedelijns’ is hier bewust gekozen ter onderscheiding van de eerstelijns psychologische zorg, waarvoor vrije tarieven gelden als bedoeld in artikel 50, eerste lid, onderdeel a, van de Wmg. Op laatstgenoemde categorie zorg is deze tariefbeschikking derhalve niet van toepassing.De Nederlandse Zorgautoriteit heeft met inachtneming van [Hoofdstuk 4, paragrafen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&paragraaf=4.2) en [4.4, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&paragraaf=4.4) (Wmg),

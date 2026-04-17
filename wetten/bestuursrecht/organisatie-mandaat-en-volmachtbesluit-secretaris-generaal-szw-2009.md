@@ -1,13 +1,39 @@
 ---
-title: "Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 9 december 2008, nr. BSG/2008/35059, houdende toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de secretaris-generaal ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit secretaris-generaal 2009)"
 identifier: "BWBR0024991"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-04-16
-laatste_update: 2026-04-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024991"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-16"
+last_updated: "2026-04-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024991"
+soort: "ministeriele-regeling"
+stam_id: "9833683"
+version_id: "30677312"
+internal_id: "C43979151"
+label_id: "9810334"
+dtd_version: "2.0"
+original_entry_into_force: "2025-03-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024991/2026-04-16/0"
+intitule_bron: "Stcrt.2008-250"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-12-09"
+intitule_published: "2008-12-24"
+intitule_in_force: "2008-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-11678"
+original_signed_date: "2025-03-26"
+original_published_date: "2025-04-04"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-11678"
+entry_into_force_date: "2025-03-26"
+jci_1_3: "jci1.3:c:BWBR0024991&z=2026-04-16&g=2026-04-16"
+jci_1_0: "1.0:c:BWBR0024991&g=2026-04-16"
+citeertitel_status: "officieel"
+short_title: "Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009"
+signed_date: "2025-03-26"
+entry_into_force: "2025-03-26"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 9 december 2008, nr. BSG/2008/35059, houdende toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de secretaris-generaal ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit secretaris-generaal 2009)
 
 Gelet op de [artikelen 4, vierde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=4), en [23, eerste lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=23);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Organisatie
 
-#### Artikel 2
+##### Artikel 2
 
 Onder de secretaris-generaal ressorteren:
 
@@ -44,7 +70,7 @@ Onder de secretaris-generaal ressorteren:
 
 #### § 3. Verantwoordelijkheden
 
-#### Artikel 3
+##### Artikel 3
 
 1. Elk van de directeuren is verantwoordelijk voor:
 
@@ -78,15 +104,15 @@ Onder de secretaris-generaal ressorteren:
 
 2. Het eerste lid, onderdelen h tot en met k is niet van toepassing op directeuren die leiding geven aan een directie met een omvang van maximaal 12 fulltime-equivalenten.
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 De directie Communicatie is verantwoordelijk voor:
 
@@ -96,7 +122,7 @@ De directie Communicatie is verantwoordelijk voor:
 
 - c. het functioneel en inhoudelijk beheer van de departementale websystemen, waaronder het content managementsysteem, het internetloket, de zoekmachine en het algemene deel van SZW-web.
 
-#### Artikel 7
+##### Artikel 7
 
 De directie Financieel Economische Zaken is verantwoordelijk voor:
 
@@ -106,7 +132,7 @@ De directie Financieel Economische Zaken is verantwoordelijk voor:
 
 - c. het coördineren van het verkeer met de Algemene Rekenkamer.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden is verantwoordelijk voor:
 
@@ -126,7 +152,7 @@ De directie Financieel Economische Zaken is verantwoordelijk voor:
 
 #### § 4. Bevoegdheden directeuren
 
-#### Artikel 9
+##### Artikel 9
 
 1. Elk van de directeuren is bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van zijn directie, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal of de plaatsvervangend secretaris-generaal, dan wel ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=4&artikel=10&z=2026-04-16&g=2026-04-16) onder de bevoegdheid van een andere directeur vallen.
 
@@ -156,7 +182,7 @@ De directie Financieel Economische Zaken is verantwoordelijk voor:
 
 - g. overeenkomsten met betrekking tot incidentele beleidsinformatie, met uitzondering van overeenkomsten met het Centraal bureau voor de statistiek.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De directeur Communicatie is bevoegd tot het aangaan van overeenkomsten met betrekking tot:
 
@@ -194,7 +220,7 @@ De directie Financieel Economische Zaken is verantwoordelijk voor:
 
 #### § 5. Slotbepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 1. De directeuren kunnen hun vertegenwoordigingsbevoegdheden in een door hen te bepalen omvang doorverlenen aan onder hen ressorterende functionarissen, met dien verstande dat bevoegdheden met betrekking tot personeelsaangelegenheden slechts kunnen worden doorverleend aan rechtstreeks onder hen ressorterende functionarissen en slechts voor zover het betreft:
 
@@ -212,7 +238,7 @@ De directie Financieel Economische Zaken is verantwoordelijk voor:
 
 4. De (door)verlening van (onder-)mandaat, volmacht en machtiging kan uitsluitend bij een schriftelijk besluit geschieden.
 
-#### Artikel 12
+##### Artikel 12
 
 Na de inwerkingtreding van deze regeling berusten de volgende regelingen die genomen zijn krachtens de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0016199&artikel=3), en [11 van het Organisatie-, mandaat- en volmachtbesluit SZW 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016199&artikel=11) op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=3&artikel=3&z=2026-04-16&g=2026-04-16), en [11 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=5&artikel=11&z=2026-04-16&g=2026-04-16):
 
@@ -220,7 +246,7 @@ Na de inwerkingtreding van deze regeling berusten de volgende regelingen die gen
 
 - b. het [Organisatie-, mandaat- en volmachtbesluit FEZ 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016449).
 
-#### Artikel 13
+##### Artikel 13
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2009.
 
@@ -228,7 +254,7 @@ Na de inwerkingtreding van deze regeling berusten de volgende regelingen die gen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 10a
+##### Artikel 10a
 
 1. De plaatsvervangend secretaris-generaal is bevoegd om op te treden als bestuurder in de zin van de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) in het overleg met de ondernemingsraad Kerndepartement.
 
@@ -242,7 +268,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 10b
+##### Artikel 10b
 
 Vervallen
 
@@ -250,7 +276,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 8a
+##### Artikel 8a
 
 De directie Bestuursondersteuning is verantwoordelijk voor:
 

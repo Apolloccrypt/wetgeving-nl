@@ -1,13 +1,37 @@
 ---
 title: "Regeling aanwijzing bromfietsen of motorfietsen ten behoeve van vrijstelling van de helmdraagplicht"
 identifier: "BWBR0012978"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-01-01
-laatste_update: 2014-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012978"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-01-01"
+last_updated: "2014-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012978"
+soort: "ministeriele-regeling"
+stam_id: "5168113"
+version_id: "9320022"
+internal_id: "C12431671"
+label_id: "5143124"
+dtd_version: "2.0"
+original_entry_into_force: "2002-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012978/2014-01-01/0"
+intitule_bron: "Stcrt.2001-223"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-11-07"
+intitule_published: "2001-11-16"
+intitule_in_force: "2001-12-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-223"
+original_signed_date: "2001-11-07"
+original_published_date: "2001-11-16"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-01-01"
+jci_1_3: "jci1.3:c:BWBR0012978&z=2014-01-01&g=2014-01-01"
+jci_1_0: "1.0:c:BWBR0012978&g=2014-01-01"
+citeertitel_status: "officieel"
+signed_date: "2001-11-07"
+entry_into_force: "2002-01-01"
 ---
-
 # Regeling aanwijzing bromfietsen of motorfietsen ten behoeve van vrijstelling van de helmdraagplicht
 
 Gelet op de [artikelen 4b, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4b), en [36, achtste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) en artikel 60, tweede lid, onderdeel c, van het Reglement verkeersregels en verkeerstekens 1990;
@@ -16,11 +40,11 @@ Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Onder de vermelding in deze regeling van een EG-richtlijn wordt verstaan hetgeen daaronder wordt begrepen in [artikel 1.2 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.2), met inbegrip van de ingevolge [artikel 1.3, eerste lid, van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.3) bekendgemaakte wijzigingen. [Artikel 1.3, tweede lid, van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.3) is van overeenkomstige toepassing.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Door de Dienst Wegverkeer wordt een type bromfiets, niet zijnde brommobiel, of motorfiets als bedoeld in artikel 60, tweede lid, van het Reglement verkeersregels en verkeerstekens op aanvraag aangewezen ten behoeve van een vrijstelling van de helmdraagplicht als bedoeld in artikel 60, indien dit type:
 
@@ -34,7 +58,7 @@ Onder de vermelding in deze regeling van een EG-richtlijn wordt verstaan hetgeen
 
 3. De aanwijzing van een type bromfiets, niet zijnde brommobiel, of motorfiets wordt door de Directeur van de Dienst Wegverkeer bekendgemaakt in de Staatscourant.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Van een motorfiets behorend tot een aangewezen type:
 
@@ -46,7 +70,7 @@ Onder de vermelding in deze regeling van een EG-richtlijn wordt verstaan hetgeen
 
 #### Paragraaf 2. Testen en veiligheidsvoorzieningen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Uit het testrapport blijkt dat de bromfiets, niet zijnde brommobiel, of motorfiets is onderworpen aan de volgende testen:
 
@@ -70,7 +94,7 @@ Onder de vermelding in deze regeling van een EG-richtlijn wordt verstaan hetgeen
 
 4. Met de in dit artikel bedoelde testen worden gelijkgesteld testen die aan ten minste gelijkwaardige eisen voldoen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De ruiten in de veiligheidscel voldoet aan paragraaf 1.1 of 1.2 van hoofdstuk 12 van bijlage I van [richtlijn 97/24/EG](31997L0024).
 
@@ -86,19 +110,19 @@ Onder de vermelding in deze regeling van een EG-richtlijn wordt verstaan hetgeen
 
 #### Paragraaf 3. Slotbepalingen
 
-#### Artikel 6
+##### Artikel 6
 
 Een wijziging van [richtlijn 97/24/EG](31997L0024), van bijlage III van [richtlijn nr. 78/316/EEG](31978L0316) van de Raad van 21 december 1977 inzake de onderlinge aanpassing van de wetgevingen der Lid-Staten betreffende de binneninrichting van motorvoertuigen (identificatie van bedieningsorganen, verklikkerlichten en meters) (PbEG L 81) of van bijlage II van [richtlijn nr. 96/27/EG](31996L0027) van het Europees Parlement en de Raad van de Europese Unie van 20 mei 1996 betreffende de bescherming van de inzittenden van motorvoertuigen bij zijdelingse botsingen en houdende wijziging van [richtlijn nr. 70/156/EEG](31970L0156) (PbEG L 169) gaat voor de toepassing van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012978&paragraaf=1&artikel=1&z=2014-01-01&g=2014-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012978&paragraaf=2&artikel=4&z=2014-01-01&g=2014-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0012978&paragraaf=2&artikel=5&z=2014-01-01&g=2014-01-01) en de bijlage, gelden met ingang van de dag waarop de betrokken wijzigingsrichtlijn ingevolge [artikel 1.3 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.3) voor de toepassing van dat besluit in werking treedt.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt de Regeling taken Dienst Wegverkeer
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling treedt in werking op het tijdstip waarop het koninklijk besluit van 18 oktober 2001, houdende wijziging van het Reglement verkeersregels en verkeerstekens 1990 en het [Voertuigreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006746) (wijzigingen helmdraagplicht) (Stb. 519) in werking treedt.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing bromfietsen of motorfietsen ten behoeve van vrijstelling van de helmdraagplicht.
 

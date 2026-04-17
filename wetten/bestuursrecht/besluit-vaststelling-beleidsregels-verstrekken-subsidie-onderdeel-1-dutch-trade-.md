@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling beleidsregels verstrekken subsidie onderdeel 1 Dutch Trade and Investment Fund (Dtif herpublicatie)"
+title: "Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 16 februari 2024, nr. Min-BuZa.2024.20391-9, houdende het opnieuw vaststellen van beleidsregels voor het verstrekken van subsidie in het kader van onderdeel 1 van het Dutch Trade and Investment Fund (Dtif herpublicatie)"
 identifier: "BWBR0049398"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-11-29
-laatste_update: 2025-11-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049398"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-11-29"
+last_updated: "2025-11-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049398"
+soort: "ministeriele-regeling"
+stam_id: "17037353"
+version_id: "29977912"
+internal_id: "C42980881"
+label_id: "16946874"
+dtd_version: "2.0"
+original_entry_into_force: "2024-02-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049398/2025-11-29/0"
+intitule_bron: "Stcrt.2024-5505"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-02-16"
+intitule_published: "2024-02-23"
+intitule_in_force: "2024-02-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-5505"
+original_signed_date: "2024-02-16"
+original_published_date: "2024-02-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-5505"
+entry_into_force_date: "2024-02-24"
+jci_1_3: "jci1.3:c:BWBR0049398&z=2025-11-29&g=2025-11-29"
+jci_1_0: "1.0:c:BWBR0049398&g=2025-11-29"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling beleidsregels verstrekken subsidie onderdeel 1 Dutch Trade and Investment Fund (Dtif herpublicatie)"
+signed_date: "2024-02-16"
+entry_into_force: "2024-02-24"
 ---
-
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 16 februari 2024, nr. Min-BuZa.2024.20391-9, houdende het opnieuw vaststellen van beleidsregels voor het verstrekken van subsidie in het kader van onderdeel 1 van het Dutch Trade and Investment Fund (Dtif herpublicatie)
 
 Gelet op [artikel 6 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=6);
@@ -16,11 +42,11 @@ Gelet op [artikel 7.2 van de Subsidieregeling Ministerie van Buitenlandse Zaken 
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor subsidieverstrekking in het kader van onderdeel 1 van het Dutch Trade and Investment Fund (DTIF) door de Minister van Buitenlandse Zaken, met het oog op het stimuleren van investeringen in DTIF-landen door ondernemingen, door middel van het verstrekken van financiering, gelden de als bijlage bij dit besluit gevoegde beleidsregels.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor de toepassing van dit besluit geldt voor de periode van 1 januari 2024 tot en met 31 december 2031 een subsidieplafond van in totaal € 100.000.000. Dit bedrag is uitgesplitst naar een deelplafond voor de op grond van de beleidsregels te verstrekken leningen ter hoogte van € 66.700.000 en een deelplafond voor de op grond van de beleidsregels te verstrekken aanspraken op garantstelling ter hoogte van € 33.3000.000.
 
@@ -30,11 +56,11 @@ Voor subsidieverstrekking in het kader van onderdeel 1 van het Dutch Trade and I
 
 4. Aan dit plafond is het voorbehoud, bedoeld in [artikel 4:34 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34), verbonden dat door de begrotingswetgever voldoende gelden ter beschikking worden gesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 Aanvragen worden in volgorde van binnenkomst behandeld.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 1 januari 2024. Het besluit vervalt met ingang van 1 januari 2032 met dien verstande dat het van toepassing blijft op subsidies die voor die datum zijn verleend.
 

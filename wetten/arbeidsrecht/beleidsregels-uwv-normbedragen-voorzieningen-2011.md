@@ -1,18 +1,40 @@
 ---
 title: "Beleidsregels UWV normbedragen voorzieningen 2011"
 identifier: "BWBR0029682"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2011-03-05
-laatste_update: 2011-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029682"
+country: "nl"
+rank: "zbo"
+publication_date: "2011-03-05"
+last_updated: "2011-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029682"
+soort: "zbo"
+stam_id: "11262023"
+version_id: "18444112"
+internal_id: "C25707521"
+label_id: "11236164"
+dtd_version: "2.0"
+original_entry_into_force: "2011-03-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029682/2011-03-05/0"
+intitule_bron: "Stcrt.2011-3843"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2011-03-04"
+intitule_in_force: "2011-03-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-3843"
+original_published_date: "2011-03-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-3843"
+entry_into_force_date: "2011-03-05"
+jci_1_3: "jci1.3:c:BWBR0029682&z=2011-03-05&g=2011-03-05"
+jci_1_0: "1.0:c:BWBR0029682&g=2011-03-05"
+citeertitel_status: "officieel"
+entry_into_force: "2011-03-05"
 ---
-
 # Beleidsregels UWV normbedragen voorzieningen 2011
 
 Besluit:
 
-#### Artikel 1. : Wettelijk kader
+##### Artikel 1. : Wettelijk kader
 
 De normbedragen voor voorzieningen, als bedoeld in:
 
@@ -28,7 +50,7 @@ De normbedragen voor voorzieningen, als bedoeld in:
 
 worden vastgesteld op de bedragen, genoemd in de bijlage bij dit besluit.
 
-#### Artikel 2. : Uurvergoeding doventolken
+##### Artikel 2. : Uurvergoeding doventolken
 
 1. De uurvergoeding met code E17 wordt uitsluitend verstrekt voor feitelijke tolkactiviteit en bij een minimale inzet van de tolk van één kwartier in alle voorkomende situaties.
 
@@ -62,7 +84,7 @@ Opdrachten die in het buitenland plaatsvinden worden steeds op basis van 100% ve
 
 8. Voor de toepassing van het zevende lid is een nadere beslissing door UWV noodzakelijk, voorafgaand aan de uitvoering van de desbetreffende tolkopdracht.
 
-#### Artikel 3. : Kilometervergoeding
+##### Artikel 3. : Kilometervergoeding
 
 1. Onder kilometervergoeding of reisvergoeding wordt verstaan de vergoeding van de reistijd die als werktijd van de tolk wordt beschouwd.
 
@@ -74,7 +96,7 @@ Opdrachten die in het buitenland plaatsvinden worden steeds op basis van 100% ve
 
 5. De vergoeding, bedoeld in het tweede lid, wordt verstrekt bij een reisafstand van minimaal één verschil in postcode en van maximaal 220 kilometer v.v.
 
-#### Artikel 4. : Annulering van opdrachten
+##### Artikel 4. : Annulering van opdrachten
 
 1. Opdrachten die binnen 24 uur voor het afgesproken tijdstip van uitvoering worden geannuleerd worden voor 50% van het geldende uurtarief vergoed, tenzij de annulering aan de dienstverlener moet worden toegeschreven in welk geval geen vergoeding verstrekt wordt.
 
@@ -84,21 +106,21 @@ Opdrachten die in het buitenland plaatsvinden worden steeds op basis van 100% ve
 
 4. Het derde lid is niet van toepassing in de in lid 2 beschreven situatie.
 
-#### Artikel 5. : Taxikostenvergoeding
+##### Artikel 5. : Taxikostenvergoeding
 
 1. Het normbedrag C31 wordt verstrekt als de cliënt niet méér dan 100 meter kan lopen en voor iedere verplaatsing buitenshuis gebruik moet maken van een taxi.
 
 2. De combinatievergoeding C34 wordt verstrekt als men voor het leefvervoer niet uitsluitend is aangewezen op een taxi.
 
-#### Artikel 6. : Intrekking besluit
+##### Artikel 6. : Intrekking besluit
 
 Het besluit [Beleidsregels UWV normbedragen voorzieningen 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029563), zoals gepubliceerd in de Staatscourant van 11 februari 2011 (nr. 2348), wordt ingetrokken.
 
-#### Artikel 7. : Naamgeving besluit
+##### Artikel 7. : Naamgeving besluit
 
 Dit besluit wordt aangehaald als: Beleidsregels UWV normbedragen voorzieningen 2011.
 
-#### Artikel 8. : Datum inwerkingtreding besluit
+##### Artikel 8. : Datum inwerkingtreding besluit
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2011.
 

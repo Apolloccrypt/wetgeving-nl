@@ -1,13 +1,35 @@
 ---
-title: "Besluit houdende wijziging in de taakverdeling door overgang van de Buitenlandse Inlichtingendienst van het departement van Algemene Zaken naar dat van Defensie"
+title: "Besluit van 18 november 1970, houdende wijziging in de taakverdeling door overgang van de Buitenlandse Inlichtingendienst van het departement van Algemene Zaken naar dat van Defensie"
 identifier: "BWBR0002730"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 1971-01-01
-laatste_update: 1971-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002730"
+country: "nl"
+rank: "kb"
+publication_date: "1971-01-01"
+last_updated: "1971-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002730"
+soort: "KB"
+stam_id: "582003"
+version_id: "848102"
+internal_id: "C848101"
+label_id: "564634"
+dtd_version: "2.0"
+original_entry_into_force: "1971-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002730/1971-01-01/0"
+intitule_bron: "Stb.1970-558"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1970-11-18"
+intitule_status: "goed"
+original_publication: "Stb.1970-558"
+original_signed_date: "1970-11-18"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1971-01-01"
+jci_1_3: "jci1.3:c:BWBR0002730&z=1971-01-01&g=1971-01-01"
+jci_1_0: "1.0:c:BWBR0002730&g=1971-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit houdende wijziging in de taakverdeling door overgang van de Buitenlandse Inlichtingendienst van het departement van Algemene Zaken naar dat van Defensie"
+signed_date: "1970-11-18"
+entry_into_force: "1971-01-01"
 ---
-
 # Besluit van 18 november 1970, houdende wijziging in de taakverdeling door overgang van de Buitenlandse Inlichtingendienst van het departement van Algemene Zaken naar dat van Defensie
 
 Op de voordracht van Onze Minister-President, Minister van Algemene Zaken en Onze Minister van Defensie dd. 17 november 1970, AC nr. 193122;
@@ -16,7 +38,7 @@ Gelet op artikel 86 van de Grondwet;
 
 Hebben goedgevonden en verstaan:
 
-#### Enig artikel
+##### Enig artikel
 
 1. De Buitenlandse Inlichtingendienst gaat van het departement van Algemene Zaken over naar het departement van Defensie, waardoor de taakverdeling van beide departementen wordt gewijzigd;
 

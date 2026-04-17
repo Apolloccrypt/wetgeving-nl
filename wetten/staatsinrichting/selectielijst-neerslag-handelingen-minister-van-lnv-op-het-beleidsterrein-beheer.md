@@ -1,13 +1,37 @@
 ---
 title: "Selectielijst neerslag handelingen Minister van LNV op het beleidsterrein Beheer Rijksbegroting"
 identifier: "BWBR0009316"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 1998-08-01
-laatste_update: 1998-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009316"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "1998-08-01"
+last_updated: "1998-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009316"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "4025843"
+version_id: "5798962"
+internal_id: "C25308981"
+label_id: "4005834"
+dtd_version: "2.0"
+original_entry_into_force: "1998-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009316/1998-08-01/0"
+intitule_bron: "Stcrt.1998-142"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-01-08"
+intitule_published: "1998-07-30"
+intitule_in_force: "1998-07-30"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-142"
+original_signed_date: "1998-01-08"
+original_published_date: "1998-07-30"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1998-08-01"
+jci_1_3: "jci1.3:c:BWBR0009316&z=1998-08-01&g=1998-08-01"
+jci_1_0: "1.0:c:BWBR0009316&g=1998-08-01"
+citeertitel_status: "officieel"
+signed_date: "1998-01-08"
+entry_into_force: "1998-08-01"
 ---
-
 # Selectielijst neerslag handelingen Minister van LNV op het beleidsterrein Beheer Rijksbegroting
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,11 +40,11 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 10 september 1
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 Vast te stellen de selectielijst voor de neerslag van de handelingen van de Minister van Landbouw, Natuurbeheer en Visserij, als vakminister en als vakminister in Londen, binnen het beleidsterrein Beheer van de Rijksbegroting (periode 1940-1993), overeenkomstig de bij dit Besluit gevoegde bijlage.
 
-#### Artikel 2
+##### Artikel 2
 
 In te trekken alle categorieën betref-fende financiën (07.352) genummerd 7 tot en met 14 van de ’Lijst houdende opgaaf van voor vernietiging in aanmerking komende stukken in de archieven van het Ministerie van Landbouw en Visserij en in de archieven van de onder dat Ministerie ressorterende commissies en ambtenaren’(vastgesteld bij gemeenschappelijke beschikking door de Minister van Landbouw en Visserij en de Minister van Cultuur, Recreatie en Maatschappelijk Werk, No. PAZ 400 d.d. 29 december 1966, alsmede No. 133349 d.d. 3 februari 1967, laatstelijk gewijzigd bij gemeenschappelijke beschikking door de Minister van Landbouw en Visserij en de Minister van Welzijn, Volksgezondheid en Cultuur, No. A93.527/WH/NF d.d. 28 juni 1993 (gepubliceerd in de Staatscourant No. 148 d.d. 6 augustus 1993)).
 
@@ -44,6 +68,6 @@ Voorts in te trekken de categorie betreffende financiën (07.352) nummer 9 van d
 
 Tenslotte in te trekken de categorie betreffende financiën (07.352) nummers 7 tot en met 9 van de ’Lijst houdende opgaaf van voor vernietiging in aanmerking komende archiefbescheiden van de onder het Ministerie van Landbouw en Visserij ressorterende rijkslandbouwvoorlichtingsdiensten en in de archieven van de onder deze diensten ressorterende commissies en ambtenaren’ (vastgesteld bij gemeenschappelijke beschikking door de Minister van Landbouw en Visserij en de Minister van Cultuur, Recreatie en Maatschappelijk Werk, No. PAZ 450 d.d. 17 november 1966 en No. O.K.N. 132742 d.d. 29 december 1966).
 
-#### Artikel 3
+##### Artikel 3
 
 Dit Besluit wordt gepubliceerd in de Staatscourant en treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het is gepubliceerd.

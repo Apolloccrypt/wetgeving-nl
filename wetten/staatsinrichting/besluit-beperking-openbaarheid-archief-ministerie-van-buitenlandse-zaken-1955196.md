@@ -1,20 +1,46 @@
 ---
-title: "Besluit beperking openbaarheid archief Ministerie van Buitenlandse Zaken 1955–1964 (018/2009)"
+title: "Besluit van de Minister van Buitenlandse Zaken van 11 februari 2009, nr. DDI/ST/reg. 018/2009, houdende beperking van de openbaarheid van het archief van het Ministerie van Buitenlandse Zaken 1955–1964"
 identifier: "BWBR0025333"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2009-02-28
-laatste_update: 2009-02-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025333"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2009-02-28"
+last_updated: "2009-02-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025333"
+soort: "ministeriele-regeling"
+stam_id: "9909653"
+version_id: "16159432"
+internal_id: "C22173021"
+label_id: "9886044"
+dtd_version: "2.0"
+original_entry_into_force: "2009-02-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025333/2009-02-28/0"
+intitule_bron: "Stcrt.2009-39"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-02-11"
+intitule_published: "2009-02-26"
+intitule_in_force: "2009-02-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-39"
+original_signed_date: "2009-02-11"
+original_published_date: "2009-02-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-2920"
+entry_into_force_date: "2009-02-28"
+jci_1_3: "jci1.3:c:BWBR0025333&z=2009-02-28&g=2009-02-28"
+jci_1_0: "1.0:c:BWBR0025333&g=2009-02-28"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid archief Ministerie van Buitenlandse Zaken 1955–1964 (018/2009)"
+signed_date: "2009-02-11"
+entry_into_force: "2009-02-28"
 ---
-
 # Besluit van de Minister van Buitenlandse Zaken van 11 februari 2009, nr. DDI/ST/reg. 018/2009, houdende beperking van de openbaarheid van het archief van het Ministerie van Buitenlandse Zaken 1955–1964
 
 Gelet op [artikel 15, eerste lid, onder a, b en c van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom, van het archief van het Ministerie van Buitenlandse Zaken 1955–1964, pas openbaar met ingang van 1 januari van het jaar genoemd in de tweede kolom. Tot laatst bedoelde datum zijn de dossiers onder deze inventarisnummers niet openbaar.
 
@@ -116,7 +142,7 @@ Besluit:
 | 2682 | 2039 |
 | 27055 | 2040 |
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

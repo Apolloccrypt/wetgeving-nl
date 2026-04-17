@@ -1,13 +1,39 @@
 ---
-title: "Instellingsbesluit Ministeriële Commissie Taakstelling Rijksdienst"
+title: "Besluit van de Minister-President, Minister van Algemene Zaken van 20 december 2024 nr. 2024-0000945721, houdende instelling van de Ministeriële Commissie Taakstelling Rijksdienst"
 identifier: "BWBR0050764"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2025-02-11
-laatste_update: 2025-02-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050764"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-02-11"
+last_updated: "2025-02-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050764"
+soort: "ministeriele-regeling"
+stam_id: "17364733"
+version_id: "30610142"
+internal_id: "C43873131"
+label_id: "17267664"
+dtd_version: "2.0"
+original_entry_into_force: "2025-02-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050764/2025-02-11/0"
+intitule_bron: "Stcrt.2025-5639"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-12-20"
+intitule_published: "2025-02-10"
+intitule_in_force: "2025-02-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-5639"
+original_signed_date: "2024-12-20"
+original_published_date: "2025-02-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-5639"
+entry_into_force_date: "2025-02-11"
+jci_1_3: "jci1.3:c:BWBR0050764&z=2025-02-11&g=2025-02-11"
+jci_1_0: "1.0:c:BWBR0050764&g=2025-02-11"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Ministeriële Commissie Taakstelling Rijksdienst"
+signed_date: "2024-12-20"
+entry_into_force: "2025-02-11"
 ---
-
 # Besluit van de Minister-President, Minister van Algemene Zaken van 20 december 2024 nr. 2024-0000945721, houdende instelling van de Ministeriële Commissie Taakstelling Rijksdienst
 
 Handelende in overeenstemming met het gevoelen van de ministerraad;
@@ -16,7 +42,7 @@ Gelet op [artikel 25, eerste lid, van het reglement van orde voor de ministerraa
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -32,13 +58,13 @@ In dit besluit wordt verstaan onder:
 
 - b. Rapportage en verantwoording vanuit de coördinerende rol van BZK in de Jaarrapportage Bedrijfsvoering Rijk.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Ministeriële Commissie Taakstelling Rijksdienst.
 
 2. De Commissie is ingesteld voor de duur van het kabinet Schoof.
 
-#### Artikel 3
+##### Artikel 3
 
 De Commissie heeft de taak om, gelet op het toepassingsgebied:
 
@@ -62,7 +88,7 @@ De Commissie heeft de taak om, gelet op het toepassingsgebied:
 
 - f. Te bepalen hoe afstemming met onder g. genoemde gremia wordt vormgegeven.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Vaste leden van de Commissie zijn:
 
@@ -98,7 +124,7 @@ De Commissie heeft de taak om, gelet op het toepassingsgebied:
 
 11. De rubricering van stukken is in principe departementaal vertrouwelijk en worden op de reguliere wijze verspreid. De beraadslagingen en verslaglegging zijn gerubriceerd als staatsgeheim.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien het nodig is bij wijze van stemming te beslissen, wordt het besluit in de Commissie bij meerderheid van stemmen opgemaakt, waarbij iedere aanwezige minister één stem heeft. Bij staking van de stemmen beslist de stem van de voorzitter van de Commissie.
 
@@ -108,17 +134,17 @@ De Commissie heeft de taak om, gelet op het toepassingsgebied:
 
 4. De secretaris zorgt zo spoedig mogelijk voor het ontwerpen van een besluitenlijst, waarin de conclusies van de Commissie zijn opgenomen, die de goedkeuring van de ministerraad behoeft.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Commissie wordt geadviseerd door de ICBR, zijnde het ambtelijk voorportaal.
 
 2. Voor advisering wordt tevens zorg gedragen voor afstemming met IOFEZ.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Ministeriële Commissie Taakstelling Rijksdienst.
 

@@ -1,18 +1,44 @@
 ---
 title: "Wet ongevallenverzekering BES"
 identifier: "BWBR0028497"
-categorie: "Financieel recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028497"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028497"
+soort: "wet-BES"
+stam_id: "10826583"
+version_id: "30621332"
+internal_id: "C43998991"
+label_id: "10801574"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028497/2026-01-01/0"
+intitule_bron: "Stb.2010-601"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-22"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2025-36"
+original_signed_date: "2025-02-10"
+original_published_date: "2025-02-19"
+original_effect: "structuurwijziging"
+original_dossier: "36557"
+original_url_id: "stb-2025-36"
+entry_into_force_date: "2025-07-01"
+jci_1_3: "jci1.3:c:BWBR0028497&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0028497&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-02-10"
+entry_into_force: "2025-07-01"
 ---
-
 # Wet ongevallenverzekering BES
 
 ## Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -86,7 +112,7 @@ bron: "https://wetten.overheid.nl/BWBR0028497"
 
 ## Vaststelling van het loon per dag
 
-#### Artikel 2
+##### Artikel 2
 
 1. Indien het loon geheel of gedeeltelijk bestaat uit huisvesting, verstrekkingen in natura, onderricht of geldelijke uitkeringen waarvan de grootte niet bij voorbaat vaststaat zoals provisie, commissie, tantième, fooien, vergoeding voor aangenomen werk, bepalen werkgever en werknemer ter vaststelling van het loon per dag de gemiddelde waarde in het economisch verkeer daarvan met overeenkomstige toepassing van [artikel 6C van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6c).
 
@@ -94,7 +120,7 @@ bron: "https://wetten.overheid.nl/BWBR0028497"
 
 ## Uitkeringen
 
-#### Artikel 3
+##### Artikel 3
 
 1. De werknemer aan wie een ongeval is overkomen heeft op grond van deze wet en ongeacht het voortduren van het dienstverband recht op een uitkering tegenover Onze Minister.
 
@@ -102,13 +128,13 @@ bron: "https://wetten.overheid.nl/BWBR0028497"
 
 ## Geneeskundige behandeling en verpleging
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
 ## Recht op ongevallengeld
 
-#### Artikel 5
+##### Artikel 5
 
 1. De werknemer, die als gevolg van het ongeval geheel of gedeeltelijk arbeidsongeschikt is, heeft recht op een uitkering tegenover Onze Minister, ongevallengeld genaamd, met ingang van de dag na die van de melding van het ongeval.
 
@@ -160,7 +186,7 @@ Vervallen
 
 ## Vaststelling van de uitkering
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onze Minister stelt op aanvraag, mede aan de hand van de geneeskundige beoordeling, vast of recht op ongevallengeld bestaat. De werkgever aan wie op grond van [artikel 5, twaalfde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2026-01-01&g=2026-01-01), de uitkering wordt verstrekt informeert de werknemer zo spoedig mogelijk over de hiermee gemoeide aanspraak.
 
@@ -188,7 +214,7 @@ Vervallen
 
 4. Indien wordt vastgesteld dat de gewezen werknemer die recht heeft op ongevallengeld als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2026-01-01&g=2026-01-01), niet of niet langer geheel of gedeeltelijk arbeidsongeschikt dan wel verminderd arbeidsongeschikt is, wordt de uitkering beëindigd respectievelijk herzien met ingang van de eerste dag van de tweede kalendermaand, volgend op het tijdstip waarop de herziene vaststelling van de arbeidsongeschiktheid heeft plaatsgevonden.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De werknemer heeft geen recht op uitkering of verliest dit recht:
 
@@ -218,7 +244,7 @@ Vervallen
 
 ## Vaststelling van de uitkering
 
-#### Artikel 8
+##### Artikel 8
 
 1. Ter zake van de kosten verbonden aan deze wet is een premie verschuldigd, die gezamenlijk wordt geheven met de zorgverzekeringspremie.
 
@@ -236,41 +262,41 @@ Vervallen
 
 8. Ten laste van het Rijk, komen de door Onze Minister verstrekte uitkeringen op grond van deze wet en alle kosten verbonden aan de uitvoering van deze wet.
 
-#### Artikel 8a
+##### Artikel 8a
 
 Voor zover op grond van deze wet niet anders is bepaald en in afwijking van [artikel 14c](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=14c&z=2026-01-01&g=2026-01-01) is ten aanzien van de premieheffing op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=8&z=2026-01-01&g=2026-01-01) en de invordering daarvan [hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII) van overeenkomstige toepassing.
 
-#### Artikel 8b
+##### Artikel 8b
 
 Vervallen
 
-#### Artikel 8c
+##### Artikel 8c
 
 Vervallen
 
-#### Artikel 8d
+##### Artikel 8d
 
 Vervallen
 
-#### Artikel 8e
+##### Artikel 8e
 
 Vervallen
 
-#### Artikel 8f
+##### Artikel 8f
 
 Vervallen
 
-#### Artikel 8g
+##### Artikel 8g
 
 Vervallen
 
-#### Artikel 8h
+##### Artikel 8h
 
 Het is een ieder verboden hetgeen hem bij de uitvoering van deze wet of in verband daarmede, over inkomen, opbrengst, uitdelingen, medische gegevens en in het algemeen over de zaken of werkzaamheden van een ander, blijkt of medegedeeld wordt, verder bekend te maken dan nodig is voor de uitvoering van deze wet.
 
 ## Invordering
 
-#### Artikel 8i
+##### Artikel 8i
 
 1. Invordering van de premie, de administratieve boete en al hetgeen de bank verder uit hoofde van deze landsverordening te vorderen heeft, heeft plaats volgens de regelen, welke van toepassing zijn op de invordering van de directe belastingen, met dien verstande dat de bank in plaats van de Ontvanger met de invordering is belast.
 
@@ -282,31 +308,31 @@ Het is een ieder verboden hetgeen hem bij de uitvoering van deze wet of in verba
 
 ## Eigen risico-dragers
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
 ## Vorderingen en aansprakelijkheid
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 10a
+##### Artikel 10a
 
 [vervallen]
 
-#### Artikel 10b
+##### Artikel 10b
 
 [vervallen]
 
-#### Artikel 10c
+##### Artikel 10c
 
 [vervallen]
 
 ## Vorderingen en aansprakelijkheid
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een aanspraak op grond van deze wet vervalt, indien het ongeval niet binnen een jaar na de dag, waarop het de werknemer is overkomen, bij Onze Minister is gemeld.
 
@@ -330,7 +356,7 @@ Vervallen
 
 ## Uitvoering, inlichtingen en toezicht
 
-#### Artikel 12
+##### Artikel 12
 
 1. Onze Minister is belast met de uitvoering van deze wet, met dien verstande, dat de heffing van de premie geschiedt door de inspecteur en de invordering daarvan door de ontvanger.
 
@@ -338,7 +364,7 @@ Vervallen
 
 3. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de verplichtingen uit het tweede lid.
 
-#### Artikel 12a
+##### Artikel 12a
 
 1. Onze Minister is belast met het toezicht op het bij of krachtens deze wet bepaalde en kan bij ministeriële regeling functionarissen belasten met het toezicht op deze wet.
 
@@ -348,17 +374,17 @@ Vervallen
 
 4. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de wijze van taakuitoefening van de functionarissen, aangewezen op grond van het eerste lid.
 
-#### Artikel 13
+##### Artikel 13
 
 Ter uitvoering van deze wet kunnen bij algemene maatregel van bestuur nadere regels worden gesteld.
 
-#### Artikel 14
+##### Artikel 14
 
 Alle op grond van deze wet opgemaakte of overgelegde stukken, verzoekschriften en beschikkingen zijn vrij van het recht van zegel en van de formaliteit van registratie.
 
 ## Bekendmaking beschikkingen
 
-#### Artikel 14a
+##### Artikel 14a
 
 1. Op overtreding van [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=11&z=2026-01-01&g=2026-01-01), en het niet of niet tijdig nakomen van een van de verplichtingen gesteld bij de [artikelen 5, twaalfde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2026-01-01&g=2026-01-01), [6, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=6&z=2026-01-01&g=2026-01-01), [8h](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=8h&z=2026-01-01&g=2026-01-01), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=12&z=2026-01-01&g=2026-01-01), en krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=13&z=2026-01-01&g=2026-01-01) wordt een boete geheven van de tweede categorie.
 
@@ -370,7 +396,7 @@ Alle op grond van deze wet opgemaakte of overgelegde stukken, verzoekschriften e
 
 ## Bezwaar en beroep
 
-#### Artikel 15
+##### Artikel 15
 
 1. Overtreding van [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=11&z=2026-01-01&g=2026-01-01), en het niet of niet tijdig nakomen van een van de verplichtingen gesteld bij de [artikelen 5, twaalfde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2026-01-01&g=2026-01-01), [6, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=6&z=2026-01-01&g=2026-01-01), [8h](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=8h&z=2026-01-01&g=2026-01-01), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=12&z=2026-01-01&g=2026-01-01) en krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=13&z=2026-01-01&g=2026-01-01) wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de derde categorie.
 
@@ -380,11 +406,11 @@ Alle op grond van deze wet opgemaakte of overgelegde stukken, verzoekschriften e
 
 4. De in het eerste lid strafbaar gestelde feiten zijn overtredingen en de in het tweede en derde lid strafbaar gestelde feiten zijn misdrijven.
 
-#### Artikel 15a
+##### Artikel 15a
 
 Een administratieve boete vervalt, indien degene aan wie de administratieve boete is opgelegd, wegens het feit op grond waarvan boete is verschuldigd, onherroepelijk is veroordeeld, is vrijgesproken of is ontslagen van rechtsvervolging.
 
-#### Artikel 15b
+##### Artikel 15b
 
 1. Met de opsporing van bij deze wet strafbaar gestelde feiten zijn, naast de in [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184) bedoelde functionarissen, belast de door Onze Minister van Justitie, in overeenstemming met Onze Minister, aangewezen ambtenaren.
 
@@ -392,7 +418,7 @@ Een administratieve boete vervalt, indien degene aan wie de administratieve boet
 
 ## Bekendmaking beschikkingen
 
-#### Artikel 16
+##### Artikel 16
 
 Deze wet wordt aangehaald als: Wet ongevallenverzekering BES.
 
@@ -406,7 +432,7 @@ Deze wet wordt aangehaald als: Wet ongevallenverzekering BES.
 
 ## Bekendmaking beschikkingen
 
-#### Artikel 1a
+##### Artikel 1a
 
 Bij of krachtens algemene maatregel van bestuur kan een uitbreiding dan wel een beperking worden gegeven ten aanzien van degene die als werknemer wordt beschouwd:
 
@@ -432,7 +458,7 @@ Bij of krachtens algemene maatregel van bestuur kan een uitbreiding dan wel een 
 
 ## Administratieve sancties
 
-#### Artikel 5a. Indexatie tegemoetkoming begrafeniskosten
+##### Artikel 5a. Indexatie tegemoetkoming begrafeniskosten
 
 1. Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen Bonaire, Sint Eustatius en Saba blijkt dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister het bedrag vast, dat met ingang van 1 januari van het komende jaar in de plaats treedt van het in [artikel 5, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2026-01-01&g=2026-01-01), genoemde bedrag. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen en voor belanghebbenden die woonachtig zijn buiten de openbare lichamen, verschillend zijn.
 
@@ -452,7 +478,7 @@ Bij of krachtens algemene maatregel van bestuur kan een uitbreiding dan wel een 
 
 ## Bezwaar en beroep
 
-#### Artikel 14b
+##### Artikel 14b
 
 1. De bekendmaking van een beschikking geschiedt door toezending of uitreiking aan de belanghebbende.
 
@@ -460,7 +486,7 @@ Bij of krachtens algemene maatregel van bestuur kan een uitbreiding dan wel een 
 
 3. De beschikking vermeldt de dagtekening van de beslissing, de gronden waarop deze berust, alsmede waar beroep kan worden ingesteld.
 
-#### Artikel 14c
+##### Artikel 14c
 
 1. De belanghebbende kan tegen een beschikking op grond van deze wet beroep instellen bij het Gerecht, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=1).
 
@@ -470,7 +496,7 @@ Bij of krachtens algemene maatregel van bestuur kan een uitbreiding dan wel een 
 
 4. Met betrekking tot een beschikking op grond van [artikel 7, eerste lid, onderdeel h, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=7&z=2026-01-01&g=2026-01-01), kan het Gerecht, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=1), indien het bestuursorgaan niet voldoet aan de verplichting, bedoeld in [artikel 23 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=23), daaruit de gevolgtrekking maken die hem geraden voorkomt.
 
-#### Artikel 14d
+##### Artikel 14d
 
 [Afdeling 3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.3) is van toepassing met dien verstande dat in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:5), in plaats van «besluiten» wordt gelezen «beschikkingen» en in de [artikelen 3:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:6), [3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:8) en [3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:9) in plaats van «het besluit» wordt gelezen «de beschikking».
 
@@ -478,7 +504,7 @@ Bij of krachtens algemene maatregel van bestuur kan een uitbreiding dan wel een 
 
 ## Citeertitel
 
-#### Artikel 12b
+##### Artikel 12b
 
 1. Onverminderd voorschriften als gesteld op grond van [artikel 7, eerste lid, onderdelen d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=7&z=2026-01-01&g=2026-01-01), kunnen bij ministeriële regeling controlevoorschriften worden vastgesteld. Deze voorschriften gaan niet verder dan strikt noodzakelijk is voor een juiste uitvoering van deze wet.
 
@@ -490,7 +516,7 @@ Bij of krachtens algemene maatregel van bestuur kan een uitbreiding dan wel een 
 
 ## Advisering
 
-#### Artikel 5b. Indexatie loon per dag waarnaar uitkering is berekend
+##### Artikel 5b. Indexatie loon per dag waarnaar uitkering is berekend
 
 1. Het loon per dag waarnaar de uitkering is berekend, wordt voor de werknemer, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2026-01-01&g=2026-01-01), van wie het dienstverband is geëindigd, herzien met ingang van de dag waarop en in de mate waarin het bedrag, genoemd in [artikel 9, eerste lid, van de Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&artikel=9) wordt herzien.
 
@@ -506,7 +532,7 @@ Bij of krachtens algemene maatregel van bestuur kan een uitbreiding dan wel een 
 
 ## Citeertitel
 
-#### Artikel 5c
+##### Artikel 5c
 
 1. De werknemer die ongevallengeld ontvangt is verplicht in voldoende mate te trachten mogelijkheden tot het verrichten van zijn normale arbeid bij de eigen werkgever te behouden of te verkrijgen.
 
@@ -520,7 +546,7 @@ Bij of krachtens algemene maatregel van bestuur kan een uitbreiding dan wel een 
 
 4. Bij ministeriële regeling kunnen regels worden gesteld waarbij bepaalde groepen werknemers worden vrijgesteld van verplichtingen bedoeld in dit artikel.
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. De beschikking tot toekenning van de uitkering vermeldt het bedrag dat wordt verstrekt aan de werkgever, bedoeld in [artikel 5, twaalfde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2026-01-01&g=2026-01-01), en indien de werkgever zijn verplichting, genoemd in artikel 5, twaalfde lid, eerste zin, niet naleeft, aan de werknemer.
 
@@ -532,7 +558,7 @@ Bij of krachtens algemene maatregel van bestuur kan een uitbreiding dan wel een 
 
 ## Premie
 
-#### Artikel 12c
+##### Artikel 12c
 
 1. Onze Minister kan de betaling opschorten of schorsen, indien op grond van duidelijke aanwijzingen het oordeel is of het gegronde vermoeden bestaat, dat:
 
@@ -552,7 +578,7 @@ Bij of krachtens algemene maatregel van bestuur kan een uitbreiding dan wel een 
 
 4. Onze Minister doet schriftelijk mededeling van de opschorting of schorsing.
 
-#### Artikel 12d
+##### Artikel 12d
 
 1. Onze Minister kan een beschikking herzien dan wel intrekken indien:
 
@@ -564,7 +590,7 @@ Bij of krachtens algemene maatregel van bestuur kan een uitbreiding dan wel een 
 
 2. Indien daarvoor dringende redenen aanwezig zijn, kan Onze Minister geheel of gedeeltelijk van herziening of intrekking afzien.
 
-#### Artikel 12e
+##### Artikel 12e
 
 1. Onze Minister is bevoegd een ten onrechte uitbetaalde uitkering terug te vorderen van diegene aan wie de uitkering is betaald, indien:
 
@@ -584,7 +610,7 @@ Bij of krachtens algemene maatregel van bestuur kan een uitbreiding dan wel een 
 
 ## Overgangsbepalingen
 
-#### Artikel 15c
+##### Artikel 15c
 
 1. Een herziening of intrekking van een beschikking op grond van [artikel 12d](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=12d&z=2026-01-01&g=2026-01-01), vindt uitsluitend plaats indien de herziening of intrekking ziet op een periode op of na de dag van inwerkingtreding van [artikel VII, onderdeel Gc](https://wetten.overheid.nl/jci1.3:c:BWBR0050791&artikel=VII).
 

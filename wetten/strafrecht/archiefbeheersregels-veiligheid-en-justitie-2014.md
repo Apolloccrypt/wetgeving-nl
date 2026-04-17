@@ -1,13 +1,39 @@
 ---
-title: "Archiefbeheersregels Veiligheid en Justitie 2014"
+title: "Regeling van de Minister van Veiligheid en Justitie van 19 juni 2014, nummer 513217, houdende de archiefbeheersregels voor het Ministerie van Veiligheid en Justitie (Archiefbeheersregels Veiligheid en Justitie 2014)"
 identifier: "BWBR0035264"
-categorie: "Strafrecht"
-publicatiedatum: 2014-07-02
-laatste_update: 2014-07-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035264"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-07-02"
+last_updated: "2014-07-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035264"
+soort: "ministeriele-regeling"
+stam_id: "12708413"
+version_id: "21495442"
+internal_id: "C30864281"
+label_id: "12678404"
+dtd_version: "2.0"
+original_entry_into_force: "2014-07-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035264/2014-07-02/0"
+intitule_bron: "Stcrt.2014-17938"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-06-19"
+intitule_published: "2014-06-30"
+intitule_in_force: "2014-06-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-17938"
+original_signed_date: "2014-06-19"
+original_published_date: "2014-06-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-17938"
+entry_into_force_date: "2014-07-02"
+jci_1_3: "jci1.3:c:BWBR0035264&z=2014-07-02&g=2014-07-02"
+jci_1_0: "1.0:c:BWBR0035264&g=2014-07-02"
+citeertitel_status: "officieel"
+short_title: "Archiefbeheersregels Veiligheid en Justitie 2014"
+signed_date: "2014-06-19"
+entry_into_force: "2014-07-02"
 ---
-
 # Regeling van de Minister van Veiligheid en Justitie van 19 juni 2014, nummer 513217, houdende de archiefbeheersregels voor het Ministerie van Veiligheid en Justitie (Archiefbeheersregels Veiligheid en Justitie 2014)
 
 Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -38,11 +64,11 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Organisatie en verantwoordelijkheid
 
-#### Artikel 2. Werkingsgebied
+##### Artikel 2. Werkingsgebied
 
 Deze regeling is van toepassing op de dienstonderdelen.
 
-#### Artikel 3. Regeling verantwoordelijkheden
+##### Artikel 3. Regeling verantwoordelijkheden
 
 1. De minister is zorgdrager voor de archiefbescheiden van het ministerie.
 
@@ -72,13 +98,13 @@ Deze regeling is van toepassing op de dienstonderdelen.
 
 - d. vaststelling van een regeling voor het archiefbeheer, indien sprake is van werkzaamheden die zijn dienstonderdeel of het ministerie overschrijden.
 
-#### Artikel 4. Toezicht op het archiveringsysteem en de archiveringsfuncties
+##### Artikel 4. Toezicht op het archiveringsysteem en de archiveringsfuncties
 
 Het hoofd van een dienstonderdeel rapporteert over het toezicht op het archiveringsysteem en de archiveringsfuncties in de jaarlijkse Planning & Control cyclus.
 
 ### Hoofdstuk 3. Componenten van het archiveringsysteem
 
-#### Artikel 5. Middelen
+##### Artikel 5. Middelen
 
 1. Het hoofd van een dienstonderdeel stelt voldoende financiële middelen beschikbaar voor het archiefbeheer.
 
@@ -88,13 +114,13 @@ Het hoofd van een dienstonderdeel rapporteert over het toezicht op het archiveri
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 1. De kaderregeling DIV van 24 november 1999, nr. 807133/99/DBOB wordt ingetrokken.
 
 2. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als Archiefbeheersregels Veiligheid en Justitie 2014.
 

@@ -1,20 +1,45 @@
 ---
-title: "Regeling toelating veiling benzinestations langs rijkswegen"
+title: "Regeling van de Minister van Financiën van 20 juli 2005 inzake het toelaten van deelnemers aan de vanwege de Staat uit te schrijven veiling van benzinestations langs rijkswegen (Regeling toelating veiling benzinestations langs rijkswegen)"
 identifier: "BWBR0018618"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2005-07-31
-laatste_update: 2005-07-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018618"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2005-07-31"
+last_updated: "2005-07-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018618"
+soort: "ministeriele-regeling"
+stam_id: "7187153"
+version_id: "12103492"
+internal_id: "C16259711"
+label_id: "7175154"
+original_entry_into_force: "2005-07-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018618/2005-07-31/0"
+intitule_bron: "Stcrt.2005-143"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-07-20"
+intitule_published: "2005-07-27"
+intitule_in_force: "2005-07-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-143"
+original_signed_date: "2005-07-20"
+original_published_date: "2005-07-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-143-p16-SC70920"
+entry_into_force_date: "2005-07-31"
+jci_1_3: "jci1.3:c:BWBR0018618&z=2005-07-31&g=2005-07-31"
+jci_1_0: "1.0:c:BWBR0018618&g=2005-07-31"
+citeertitel_status: "officieel"
+short_title: "Regeling toelating veiling benzinestations langs rijkswegen"
+signed_date: "2005-07-20"
+entry_into_force: "2005-07-31"
 ---
-
 # Regeling van de Minister van Financiën van 20 juli 2005 inzake het toelaten van deelnemers aan de vanwege de Staat uit te schrijven veiling van benzinestations langs rijkswegen (Regeling toelating veiling benzinestations langs rijkswegen)
 
 Gelet op [artikel 5, derde lid, van de Wet tot veiling van bepaalde verkooppunten van motorbrandstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&artikel=5);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -40,11 +65,11 @@ In deze regeling wordt verstaan onder:
 
 - k. entreegeld: bijdrage in de kosten voor de veiling.
 
-#### Artikel 2. Beschikbare locaties
+##### Artikel 2. Beschikbare locaties
 
 De huurrechten die zijn vermeld in de veilingbrochure en het desbetreffende biedboek worden geveild.
 
-#### Artikel 3. Aanvragen toelatingsformulier
+##### Artikel 3. Aanvragen toelatingsformulier
 
 1. De aanvrager verzoekt de directeur Domeinen per aanvraagformulier om toezending van een biedboek dan wel biedboeken en een toelatingsformulier.
 
@@ -52,7 +77,7 @@ De huurrechten die zijn vermeld in de veilingbrochure en het desbetreffende bied
 
 3. Het biedboek dan wel biedboeken en een toelatingsformulier worden toegezonden na ontvangst van een bedrag van € 100,– per biedboek.
 
-#### Artikel 4. Vragen over toelatingsformulier en veiling
+##### Artikel 4. Vragen over toelatingsformulier en veiling
 
 1. De aanvrager die een toelatingsformulier heeft ontvangen, kan per brief of per elektronische post vragen stellen aan de directeur Domeinen over het biedboek dan wel biedboeken, het toelatingsformulier en de veiling.
 
@@ -66,7 +91,7 @@ De huurrechten die zijn vermeld in de veilingbrochure en het desbetreffende bied
 
 6. De identiteit van de vragensteller wordt niet bekendgemaakt.
 
-#### Artikel 5. Eisen aan de aanvraag
+##### Artikel 5. Eisen aan de aanvraag
 
 1. De aanvraag omvat de gegevens en bescheiden, bedoeld in de bij deze regeling behorende bijlage, volgens de specificaties in deze bijlage.
 
@@ -90,27 +115,27 @@ De huurrechten die zijn vermeld in de veilingbrochure en het desbetreffende bied
 
 9. In afwijking van het eerste lid kan in geval een aanvrager in het jaar direct voorafgaande aan het jaar van aanvraag eveneens een aanvraag tot deelneming aan de veiling van benzinestations langs rijkswegen heeft ingediend, het indienen van de bescheiden genoemd onder punt A van de in het eerste lid bedoelde bijlage en van de bescheiden genoemd in lid 5 van dit artikel achterwege blijven, mits de in de bescheiden omschreven situatie nog gelijk is aan het direct voorafgaande jaar en de geldigheidsduur van de bescheiden nog niet is verstreken.
 
-#### Artikel 6. Ontvangst aanvraag
+##### Artikel 6. Ontvangst aanvraag
 
 1. De aanvraag dient uiterlijk op een door de directeur Domeinen vast te stellen datum te zijn ontvangen. De aanvraag moet worden gericht aan de directeur Domeinen op het in de veilingbrochure vermelde postadres.
 
 2. De directeur Domeinen bevestigt binnen een week de ontvangst van de aanvraag.
 
-#### Artikel 7. Aanvullen aanvraag
+##### Artikel 7. Aanvullen aanvraag
 
 Na het tijdstip, genoemd in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018618&artikel=6&z=2005-07-31&g=2005-07-31), wordt de aanvraag niet aangevuld.
 
-#### Artikel 8. Gevolg van het niet tijdig indienen van de aanvraag
+##### Artikel 8. Gevolg van het niet tijdig indienen van de aanvraag
 
 Een aanvraag die is ingediend na het tijdstip, genoemd in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018618&artikel=6&z=2005-07-31&g=2005-07-31), wordt niet in behandeling genomen.
 
-#### Artikel 9. Herstellen van verzuim
+##### Artikel 9. Herstellen van verzuim
 
 1. Indien de aanvraag niet voldoet aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018618&artikel=5&z=2005-07-31&g=2005-07-31) gestelde eisen, stelt de directeur Domeinen, onverminderd het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018618&artikel=7&z=2005-07-31&g=2005-07-31), de aanvrager in de gelegenheid het verzuim binnen een termijn van maximaal een week te herstellen.
 
 2. Indien het verzuim binnen de termijn genoemd in het eerste lid, niet of onvoldoende is hersteld, wordt de aanvraag niet in behandeling genomen.
 
-#### Artikel 10. Eisen
+##### Artikel 10. Eisen
 
 1. De aanvrager moet aan de volgende eisen voldoen:
 
@@ -124,11 +149,11 @@ Een aanvraag die is ingediend na het tijdstip, genoemd in [artikel 6, eerste lid
 
 2. Ten aanzien van aanvragers die niet onder Nederlands recht vallen geldt het bepaalde in het eerste lid onverkort, met dien verstande dat deze eisen worden beoordeeld naar het recht dat op deze aanvrager van toepassing is.
 
-#### Artikel 11. Entreegeld
+##### Artikel 11. Entreegeld
 
 Voor toelating tot de veilingen op dezelfde dag is een entreegeld van € 1.500,– verschuldigd. Dit entreegeld geeft toegang tot alle veilingen op dezelfde dag.
 
-#### Artikel 12. Toelating tot de veiling
+##### Artikel 12. Toelating tot de veiling
 
 1. De directeur Domeinen beslist binnen vier weken na het tijdstip, genoemd in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018618&artikel=6&z=2005-07-31&g=2005-07-31), of de aanvrager wordt toegelaten tot de veiling.
 
@@ -138,15 +163,15 @@ Voor toelating tot de veilingen op dezelfde dag is een entreegeld van € 1.500,
 
 4. Indien niet binnen 14 dagen na de beslissing zoals bedoeld in het vorige lid, het entreegeld is bijgeschreven op de in het biedboek vermelde bankrekening van de regionale directie Domeinen West te Leiden, vervalt de toelating tot de veiling.
 
-#### Artikel 13
+##### Artikel 13
 
 Met schriftelijke instemming van de Minister van Financiën kan directeur Domeinen in bijzondere gevallen van deze regeling afwijken.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling treedt in werking met ingang van 31 juli 2005.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze regeling wordt aangehaald als Regeling toelating veiling benzinestations langs rijkswegen.
 

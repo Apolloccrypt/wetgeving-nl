@@ -1,13 +1,38 @@
 ---
-title: "Selectielijst staatkundige verhoudingen en samenwerking tussen de landen van het Koninkrijk der Nederlanden"
+title: "Selectielijst voor de neerslag van de handelingen van de Minister van Nederlands-Antilliaanse en Arubaanse Zaken en de onder hem ressorterende actoren op het beleidsterrein staatkundige verhoudingen en samenwerking tussen de landen van het Koninkrijk der Nederlanden over de periode (1993) 1996-1997"
 identifier: "BWBR0011431"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2000-08-11
-laatste_update: 2000-08-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011431"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2000-08-11"
+last_updated: "2000-08-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011431"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "4605073"
+version_id: "6421292"
+internal_id: "C25308781"
+label_id: "4583364"
+dtd_version: "2.0"
+original_entry_into_force: "2000-08-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011431/2000-08-11/0"
+intitule_bron: "Stcrt.2000-152"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-06-20"
+intitule_published: "2000-08-09"
+intitule_in_force: "2000-08-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-152"
+original_signed_date: "2000-06-20"
+original_published_date: "2000-08-09"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-08-11"
+jci_1_3: "jci1.3:c:BWBR0011431&z=2000-08-11&g=2000-08-11"
+jci_1_0: "1.0:c:BWBR0011431&g=2000-08-11"
+citeertitel_status: "officieel"
+short_title: "Selectielijst staatkundige verhoudingen en samenwerking tussen de landen van het Koninkrijk der Nederlanden"
+signed_date: "2000-06-20"
+entry_into_force: "2000-08-11"
 ---
-
 # Selectielijst voor de neerslag van de handelingen van de Minister van Nederlands-Antilliaanse en Arubaanse Zaken en de onder hem ressorterende actoren op het beleidsterrein staatkundige verhoudingen en samenwerking tussen de landen van het Koninkrijk der Nederlanden over de periode (1993) 1996-1997
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,11 +41,11 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 25 februari 20
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde 'selectielijst voor de neerslag van de handelingen van de Minister van Nederlands-Antilliaanse en Arubaanse Zaken en de onder hem ressorterende actoren op het beleidsterrein staatkundige verhoudingen en samenwerking tussen de landen van het Koninkrijk der Nederlanden over de periode (1993) 1996-1997' en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
@@ -30,7 +55,7 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 ### § 1. Inleiding
 
-#### § 1.1. Ten geleide
+##### § 1.1. Ten geleide
 
 Archiefbescheiden kunnen verschillende functies vervullen. Overheidsorganen kunnen archiefbescheiden opmaken of gebruiken voor de bedrijfsvoering, om zichzelf te verantwoorden of een ander ter verantwoording te roepen en als bewijsmiddel.
 
@@ -44,7 +69,7 @@ Onder neerslag wordt verstaan: alle gegevens voortvloeiend uit een handeling, on
 
 Dit basisselectiedocument (BSD) vormt een aanvulling op het in 1998 vastgestelde BSD Basisselectiedocument beleidsterrein staatkundige verhoudingen en samenwerking tussen de landen van het Koninkrijk der Nederlanden vanaf 1954 (Stcrt. 1999/22). Een groot aantal handelingen van dit BSD is niet gestopt in 1995 maar loopt nog door. Bij deze handelingen is dan ook geen eindjaar vermeld. In de onderzochte periode 1996-1997 zijn geen handelingen van deze groep geëindigd. Deze handelingen staan niet in deze aanvulling. Bij de bewerking van de documentaire neerslag moet derhalve beide BSD's gebruikt worden.
 
-#### § 1.2. Het institutioneel onderzoek
+##### § 1.2. Het institutioneel onderzoek
 
 Een basisselectiedocument kan niet los gezien worden van het daaraan ten grondslag liggende rapport institutioneel onderzoek (RIO). In een RIO wordt van een bepaald beleidsterrein de context beschreven samen met de handelingen van de actoren die binnen het beleidsterrein actief zijn. Een actor is een (overheids)orgaan dat verantwoordelijk is voor bepaalde handelingen. Alle handelingen van een bepaalde actor worden in het RIO beschreven in een logische samenhang met de handelingen van de andere actoren binnen het beleidsterrein.
 
@@ -56,7 +81,7 @@ Bij het samenstellen van dit BSD is gebruik gemaakt van het RIO nr. 29, Eenheid 
 
 Sommige handelingen in het RIO Eenheid in verscheidenheid, 1954-1995 en in het daarop gebaseerde en in 1998 vastgestelde BSD lopen nog door, dat wil zeggen dat de handelingen na 1995 nog steeds plaatsvinden.
 
-#### § 1.3. Zorgdrager
+##### § 1.3. Zorgdrager
 
 De aanvulling op het BSD Basisselectiedocument beleidsterrein staatkundige verhoudingen en samenwerking tussen de landen van het Koninkrijk der Nederlanden vanaf 1954 behandelt de periode 1996-1997. In die jaren was de Minister voor Nederlands-Antilliaanse en Arubaanse Zaken de zorgdrager voor de neerslag van het handelen van het Kabinet voor Nederlands-Antilliaanse en Arubaanse Zaken. Met ingang van 1998 is dit Kabinet een onderdeel geworden van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties. Hierdoor is ook de zorgdrager veranderd. De minister van Binnenlandse Zaken en Koninkrijksrelaties is nu verantwoordelijk voor het archiefbeheer en daarmee ook voor het laten opstellen en vaststellen van een BSD.
 
@@ -74,7 +99,7 @@ Het BSD geldt als de selectielijst zoals bedoeld in artikel 5, lid 1, van de Arc
 
 - f. De beschikking tot vaststelling van het BSD wordt gepubliceerd in de Staatscourant.
 
-#### § 1.4. Hoofdlijnen van het overheidshandelen op het beleidsterrein
+##### § 1.4. Hoofdlijnen van het overheidshandelen op het beleidsterrein
 
 De hoofdlijnen van het handelen van de Nederlandse rijksoverheid op het beleidsterrein in kwestie zijn goed zichtbaar in de taken van het Kabinet voor Nederlands-Antilliaanse en Arubaanse Zaken (KabNA), het 'departement' van de verantwoordelijke minister.
 
@@ -82,7 +107,7 @@ Een eerste taak betreft de coördinatie (aan Nederlandse zijde) van de aangelege
 
 De taken van KabNA vloeien direct voort uit het Statuut voor het Koninkrijk der Nederlanden (1954). Het Statuut is de hoogste regeling binnen het Koninkrijk waarin de gezamenlijke rechtsorde van de Koninkrijkslanden (sinds 1986: Nederland, de Nederlandse Antillen en Aruba) is vastgelegd.
 
-#### § 1.5. Actoren
+##### § 1.5. Actoren
 
 PIVOT definieert een actor als een orgaan dat een rol speelt op een beleidsterrein en de bevoegdheid heeft tot het zelfstandig verrichten van handelingen op grond van attributie of delegatie.
 
@@ -104,11 +129,11 @@ Dit BSD heeft betrekking op de handelingen van de eerste drie categorieën en ge
 
 Zoals gezegd in § 1.3 is thans de minister van Binnenlandse Zaken en Koninkrijksrelaties zorgdrager voor archieven van het voormalige Kabinet. Deze archieven omvatten niet alleen die van de voormalige minister van Nederlands-Antilliaanse en Arubaanse Zaken maar ook die van de commissies bedoeld onder categorie 2 en 3. De minister van Binnenlandse Zaken en Koninkrijksrelaties is zorgdrager voor de archieven van alle in dit BSD genoemde commissies, aangezien deze alle onder één van deze categorieën vallen.
 
-#### § 1.6. Doelstelling van de selectie
+##### § 1.6. Doelstelling van de selectie
 
 De selectie richt zich op de administratieve neerslag van het handelen van overheidsorganen die vallen onder de werking van de Archiefwet 1995 (Stb. 1995/276). De hoofddoelstelling van de selectie is een onderscheid te maken tussen archiefbescheiden die in aanmerking komen voor overbrenging (door het orgaan dat deze gegevens beheert) naar het Algemeen Rijksarchief en archiefbescheiden die op den duur door de zorgdrager kunnen worden vernietigd. Dit basisselectiedocument is opgesteld tegen de achtergrond van de selectiedoelstelling van de Rijksarchiefdienst/PIVOT: het mogelijk maken van de reconstructie van het overheidshandelen op hoofdlijnen. Deze doelstelling is verwoord door de minister van Welzijn, Volksgezondheid en Cultuur (WVC) bij de behandeling van de Archiefwet 1995 in de Tweede Kamer. Door het Convent van Rijksarchivarissen is deze doelstelling vertaald als het selecteren van handelingen van de overheid om bronnen voor de kennis van de Nederlandse samenleving en cultuur veilig te stellen voor blijvende bewaring.
 
-#### § 1.7. Criteria voor de selectie
+##### § 1.7. Criteria voor de selectie
 
 Selecteren is het aanmerken van de neerslag van een handeling voor bewaren of vernietigen.
 
@@ -124,33 +149,33 @@ De gehanteerde algemene selectiecriteria zijn:
 
 Handelingen die worden gewaardeerd met B (Bewaren):
 
-#### 1. Handelingen die betrekking hebben op voorbereiding en bepaling van beleid op hoofdlijnen
+##### 1. Handelingen die betrekking hebben op voorbereiding en bepaling van beleid op hoofdlijnen
 
 **Toelichting:** Hieronder wordt verstaan agendavorming, het analyseren van informatie, het formuleren van adviezen met het oog op toekomstig beleid, het ontwerpen van beleid of het plannen van dat beleid, alsmede het nemen van beslissingen over de inhoud van beleid en terugkoppeling van beleid. Dit omvat het kiezen en specificeren van de doeleinden en de instrumenten.
 
-#### 2. Handelingen die betrekking hebben op evaluatie van beleid op hoofdlijnen
+##### 2. Handelingen die betrekking hebben op evaluatie van beleid op hoofdlijnen
 
 **Toelichting:** Hieronder wordt verstaan het beschrijven en beoordelen van de inhoud, het proces of de effecten van beleid. Hieronder valt ook het toetsen van en het toezien op beleid. Hieruit worden niet per se consequenties getrokken zoals bij terugkoppeling van beleid.
 
-#### 3. Handelingen die betrekking hebben op verantwoording van beleid op hoofdlijnen aan andere actoren
+##### 3. Handelingen die betrekking hebben op verantwoording van beleid op hoofdlijnen aan andere actoren
 
 **Toelichting:** Hieronder valt tevens het uitbrengen van verslag over beleid op hoofdlijnen aan andere actoren of ter publicatie.
 
-#### 4. Handelingen die betrekking hebben op (her)inrichting van organisaties belast met beleid op hoofdlijnen
+##### 4. Handelingen die betrekking hebben op (her)inrichting van organisaties belast met beleid op hoofdlijnen
 
 **Toelichting:** Hieronder wordt verstaan het instellen, wijzigen of opheffen van organen, organisaties of onderdelen daarvan.
 
-#### 5. Handelingen die bepalend zijn voor de wijze waarop beleidsuitvoering op hoofdlijnen plaatsvindt
+##### 5. Handelingen die bepalend zijn voor de wijze waarop beleidsuitvoering op hoofdlijnen plaatsvindt
 
 **Toelichting:** Onder beleidsuitvoering wordt verstaan het toepassen van instrumenten om de gekozen doeleinden te bereiken.
 
-#### 6. Handelingen die betrekking hebben op beleidsuitvoering op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten
+##### 6. Handelingen die betrekking hebben op beleidsuitvoering op hoofdlijnen en direct zijn gerelateerd aan of direct voortvloeien uit voor het Koninkrijk der Nederlanden bijzondere tijdsomstandigheden en incidenten
 
 **Toelichting:** Bijvoorbeeld in het geval de ministeriële verantwoordelijkheid is opgeheven en/of wanneer er sprake is van oorlogstoestand, staat van beleg of toepassing van noodwetgeving.
 
 Overzicht van de met 'B' gewaardeerde handelingen (BSD-nrs.) per actor en per algemeen selectiecriterium
 
-#### § 1.8. Vaststelling van het BSD
+##### § 1.8. Vaststelling van het BSD
 
 Op 15 september 1999 is het ontwerp-BSD door de Directeur Informatievoorziening van het Ministerie van BZK aan de Staatssecretaris van OC&W aangeboden, waarna deze het ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het ontwerp-BSD naar de RvC is verstuurd. Vanaf 28 september 1999 lag de selectielijst gedurende acht weken ter publieke inzage bij de informatiebalie in de studiezaal van het Algemeen Rijksarchief evenals in de bibliotheken van het Ministerie van BZK, het Ministerie van OC&W en de rijksarchieven in de provincie, hetgeen was aangekondigd in de Staatscourant nr. 185 van 27 september 1999.
 

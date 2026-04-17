@@ -1,13 +1,39 @@
 ---
-title: "Besluit aanwijzing grenscontroleposten en controlepunten officiële controleverordening dierlijk, levensmiddelen en fyto"
+title: "Besluit van de Inspecteur-Generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Landbouw, Natuur en Voedselkwaliteit en de Minister voor Medische Zorg van 16 juli 2020, TRCVWA/2020/2753, tot aanwijzing van grenscontroleposten en controlepunten, als bedoeld in verordening (EU) 2017/625 voor dieren, dierlijke producten, levensmiddelen en fyto (Besluit aanwijzing grenscontroleposten en controlepunten officiële controleverordening dierlijk, levensmiddelen en fyto)"
 identifier: "BWBR0043971"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-12-01
-laatste_update: 2021-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043971"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-12-01"
+last_updated: "2021-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043971"
+soort: "ministeriele-regeling"
+stam_id: "15585003"
+version_id: "26928162"
+internal_id: "C38127161"
+label_id: "15526074"
+dtd_version: "2.0"
+original_entry_into_force: "2020-07-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043971/2021-12-01/0"
+intitule_bron: "Stcrt.2020-40424"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-07-16"
+intitule_published: "2020-07-29"
+intitule_in_force: "2020-07-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-40424"
+original_signed_date: "2020-07-16"
+original_published_date: "2020-07-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-40424"
+entry_into_force_date: "2020-07-30"
+jci_1_3: "jci1.3:c:BWBR0043971&z=2021-12-01&g=2021-12-01"
+jci_1_0: "1.0:c:BWBR0043971&g=2021-12-01"
+citeertitel_status: "officieel"
+short_title: "Besluit aanwijzing grenscontroleposten en controlepunten officiële controleverordening dierlijk, levensmiddelen en fyto"
+signed_date: "2020-07-16"
+entry_into_force: "2020-07-30"
 ---
-
 # Besluit van de Inspecteur-Generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Landbouw, Natuur en Voedselkwaliteit en de Minister voor Medische Zorg van 16 juli 2020, TRCVWA/2020/2753, tot aanwijzing van grenscontroleposten en controlepunten, als bedoeld in verordening (EU) 2017/625 voor dieren, dierlijke producten, levensmiddelen en fyto (Besluit aanwijzing grenscontroleposten en controlepunten officiële controleverordening dierlijk, levensmiddelen en fyto)
 
 Gelet op:
@@ -30,7 +56,7 @@ artikelen 7 en 8 van uitvoeringsverordening (EU) 2019/1014 van de Commissie van 
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -42,7 +68,7 @@ In dit besluit wordt verstaan onder:
 
 - –. **verordening (EU) 2017/625:** Verordening (EU) 2017/625 van het Europees parlement en de Raad van 15 maart 2017 betreffende officiële controles en andere officiële activiteiten die worden uitgevoerd om de toepassing van de levensmiddelen- en diervoederwetgeving en van de voorschriften inzake diergezondheid, dierenwelzijn, plantgezondheid en gewasbeschermingsmiddelen te waarborgen, tot wijziging van de [Verordeningen (EG) nr. 999/2001](32001R0999), [(EG) nr. 396/2005](32005R0396), [(EG) nr. 1069/2009](32009R1069), [(EG) nr. 1107/2009](32009R1107), (EU) [nr. 1151/2012](32012R1151), (EU) [nr. 652/2014](32014R0652), (EU) [2016/429](32329R2016) en (EU) [2016/2031](32031R2016) van het Europees parlement en de Raad, de Verordeningen [(EG) nr. 1/2005](32005R0001) en [(EG) nr. 1099/2009](32009R1099) van de Raad en de Richtlijnen [98/58/EG](31958R0098), [1999/74/EG](31974R1999), [2007/43/EG](31943R2007), [2008/119/EG](32019R2008) en [2008/120/EG](32020R2008) van de Raad, en tot intrekking van de Verordeningen [(EG) nr. 854/2004](32004R0854) en [(EG) nr. 882/2004](32004R0882) van het Europees parlement en de Raad, de Richtlijnen [89/608/EEG](32508R0089), [89/662/EEG](32562R0089), [90/425/EEG](32325R0090), [91/496/EEG](32396R0091), [96/23/EG](31923R0096), [96/93/EG](31993R0096) en [97/78/EG](31978R0097) van de Raad en Besluit [92/438/EEG](32338R0092) van de Raad (verordening officiële controles) (PbEU 2017, L 95).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Als grenscontroleposten voor de uitvoering van officiële controles op:
 
@@ -66,11 +92,11 @@ In dit besluit wordt verstaan onder:
 
 4. Als controlepunten voor de uitvoering van officiële controles op andere dan onder het eerste of derde lid bedoelde producten worden aangewezen de in de laatste tabel van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0043971&bijlage=II&z=2021-12-01&g=2021-12-01) genoemde controlepunten.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt aangehaald als: Besluit aanwijzing grenscontroleposten en controlepunten officiële controleverordening dierlijk, levensmiddelen en fyto.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 14 december 2019.
 

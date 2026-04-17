@@ -1,13 +1,35 @@
 ---
 title: "Aanvraagprocedure exameninstellingen betreffende recht op examinering mbo"
 identifier: "BWBR0033059"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-03-25
-laatste_update: 2013-03-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033059"
+country: "nl"
+rank: "zbo"
+publication_date: "2013-03-25"
+last_updated: "2013-03-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033059"
+soort: "zbo"
+stam_id: "12147573"
+version_id: "20275032"
+internal_id: "C28518891"
+label_id: "12119394"
+dtd_version: "2.0"
+original_entry_into_force: "2013-03-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033059/2013-03-25/0"
+intitule_bron: "Stcrt.2013-7828"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-03-25"
+intitule_in_force: "2013-03-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-7828"
+original_published_date: "2013-03-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-7828"
+entry_into_force_date: "2013-03-25"
+jci_1_3: "jci1.3:c:BWBR0033059&z=2013-03-25&g=2013-03-25"
+jci_1_0: "1.0:c:BWBR0033059&g=2013-03-25"
+citeertitel_status: "redactioneel"
+entry_into_force: "2013-03-25"
 ---
-
 # Aanvraagprocedure exameninstellingen betreffende recht op examinering mbo
 
 ### Deel I. Algemeen

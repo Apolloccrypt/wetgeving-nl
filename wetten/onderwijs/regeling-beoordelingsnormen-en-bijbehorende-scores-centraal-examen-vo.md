@@ -1,20 +1,46 @@
 ---
-title: "Regeling beoordelingsnormen en bijbehorende scores centraal examen VO"
+title: "Regeling van het College voor Toetsen en Examens van 9 februari 2015, nummer CvTE-15.00617, houdende vaststelling van de beoordelingsnormen en de daarbij behorende scores voor het centraal examen (Regeling beoordelingsnormen en bijbehorende scores centraal examen VO 2015)"
 identifier: "BWBR0036359"
-categorie: "Onderwijs"
-publicatiedatum: 2026-03-14
-laatste_update: 2026-03-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036359"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-03-14"
+last_updated: "2026-03-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036359"
+soort: "zbo"
+stam_id: "12999623"
+version_id: "30649222"
+internal_id: "C43939971"
+label_id: "12968554"
+dtd_version: "2.0"
+original_entry_into_force: "2025-03-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036359/2026-03-14/0"
+intitule_bron: "Stcrt.2015-5321"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-02-09"
+intitule_published: "2015-02-27"
+intitule_in_force: "2015-02-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-9407"
+original_signed_date: "2025-03-10"
+original_published_date: "2025-03-19"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-9407"
+entry_into_force_date: "2025-03-10"
+jci_1_3: "jci1.3:c:BWBR0036359&z=2026-03-14&g=2026-03-14"
+jci_1_0: "1.0:c:BWBR0036359&g=2026-03-14"
+citeertitel_status: "officieel"
+short_title: "Regeling beoordelingsnormen en bijbehorende scores centraal examen VO"
+signed_date: "2025-03-10"
+entry_into_force: "2025-03-10"
 ---
-
 # Regeling van het College voor Toetsen en Examens van 9 februari 2015, nummer CvTE-15.00617, houdende vaststelling van de beoordelingsnormen en de daarbij behorende scores voor het centraal examen (Regeling beoordelingsnormen en bijbehorende scores centraal examen VO 2015)
 
 Gelet op [artikel 2, tweede lid, aanhef en onderdeel d, en achtste lid van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 1. In deze regeling gelden de begripsbepalingen die zijn gegeven in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1) en [artikel 1.1 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=1.1).
 
@@ -36,7 +62,7 @@ Besluit:
 
 - •. tweede examinator: de door de directeur aangewezen medebeoordelaar van een examentoets.
 
-#### Artikel 2. Beoordelingsnormen
+##### Artikel 2. Beoordelingsnormen
 
 1. De beoordelingsnormen voor de centrale examens worden weergegeven in een correctievoorschrift bij iedere toets. Dit bestaat uit:
 
@@ -54,7 +80,7 @@ Besluit:
 
 4. In uitzonderingsgevallen kan het College voor Toetsen en Examens beslissen dat bij een toets geen beoordelingsmodel wordt gevoegd.
 
-#### Artikel 3. Algemene regels
+##### Artikel 3. Algemene regels
 
 1. Voor de uitvoering van een opdracht worden door de examinator en door de gecommitteerde, dan wel de tweede examinator, scorepunten toegekend, in overeenstemming met het bij de toets behorende correctievoorschrift. Scorepunten zijn de gehele getallen 0, 1, 2, .., n, waarbij n het maximaal te behalen aantal punten voor een opdracht is.
 
@@ -74,7 +100,7 @@ Besluit:
 
 - g. Een zelfde fout in de uitvoering van verschillende opdrachten moet steeds opnieuw worden aangerekend, tenzij in het beoordelingsmodel anders is vermeld.
 
-#### Artikel 4. Algemene regels specifiek voor de beoordeling van schriftelijke toetsen
+##### Artikel 4. Algemene regels specifiek voor de beoordeling van schriftelijke toetsen
 
 1. Indien één voorbeeld, reden, uitwerking, citaat of andersoortig antwoord gevraagd wordt, wordt uitsluitend het eerst gegeven antwoord beoordeeld.
 
@@ -84,17 +110,17 @@ Besluit:
 
 4. Het juiste antwoord op een meerkeuzevraag is de hoofdletter die behoort bij de juiste keuzemogelijkheid. Als het antwoord op een andere manier is gegeven, maar onomstotelijk vaststaat dat het juist is, dan moet dit antwoord ook goed gerekend worden. Voor het juiste antwoord op een meerkeuzevraag wordt het beoordelingsmodel vermelde aantal scorepunten toegekend. Voor elk ander antwoord worden geen scorepunten toegekend. Indien meer dan één antwoord gegevens is, worden eveneens geen scorepunten toegekend.
 
-#### Artikel 5. Algemene regels specifiek voor de beoordeling van cspe en cpe
+##### Artikel 5. Algemene regels specifiek voor de beoordeling van cspe en cpe
 
 1. Mocht tijdens het examen een hulpmiddel niet werken en dit is niet te wijten aan het verkeerd gebruik door de kandidaat dan mag dat geen invloed hebben op de beoordeling van de kandidaat. De kandidaat mag daar in tijd en scorepunten niet door benadeeld worden.
 
 2. Indien een kandidaat binnen de gestelde tijd een (deel)opdracht opnieuw wil uitvoeren om de prestatie te verbeteren, wordt de kandidaat daartoe in de gelegenheid gesteld. Voor zover van toepassing stelt de examinator de daarvoor benodigde materialen ter beschikking.
 
-#### Artikel 6. Vakspecifieke regels en beoordelingsmodel
+##### Artikel 6. Vakspecifieke regels en beoordelingsmodel
 
 De vakspecifieke regels en het beoordelingsmodel bij iedere toets, bedoeld in [artikel 2, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=2&z=2026-03-14&g=2026-03-14), worden door het College voor Toetsen en Examens vastgesteld voor elk van de vakken zoals vermeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=4&z=2026-03-14&g=2026-03-14), en maken na bekendmaking deel uit van die bijlage.
 
-#### Artikel 7. Vermeende fouten
+##### Artikel 7. Vermeende fouten
 
 1. Indien de examinator of de gecommitteerde meent dat in een toets of in het beoordelingsmodel bij die toets een fout of onvolkomenheid zit, beoordeelt hij het werk van de kandidaten alsof toets en beoordelingsmodel juist zijn.
 
@@ -104,7 +130,7 @@ De vakspecifieke regels en het beoordelingsmodel bij iedere toets, bedoeld in [a
 
 4. Het is niet toegestaan zelfstandig af te wijken van het beoordelingsmodel. Met een eventuele fout wordt bij de bepaling van het cijfer voor het centraal examen zoals bedoeld in [artikel 2, tweede lid onder e, van de wet College voor Toetsen en Examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2), rekening gehouden.
 
-#### Artikel 8. Noteren scorepunten
+##### Artikel 8. Noteren scorepunten
 
 1. De examinator vermeldt op een lijst de namen of nummers van de kandidaten, het aan iedere kandidaat voor iedere opdracht toegekende aantal scorepunten en het totaal aantal scorepunten van iedere kandidaat.
 
@@ -112,7 +138,7 @@ De vakspecifieke regels en het beoordelingsmodel bij iedere toets, bedoeld in [a
 
 3. Het College voor Toetsen en Examens geeft aan van welke kandidaten de scores aan dat adres worden gezonden.
 
-#### Artikel 9. Toekennen scorepunten
+##### Artikel 9. Toekennen scorepunten
 
 1. Voor een toets kan maximaal het aantal scorepunten worden behaald dat de som is van de maximale scores van de vragen waaruit de toets bestaat; de maximumscore van de toets wordt in het correctievoorschrift en voorop de toets vermeld.
 
@@ -122,37 +148,37 @@ De vakspecifieke regels en het beoordelingsmodel bij iedere toets, bedoeld in [a
 
 4. De score voor de praktische toets wordt als volgt verkregen. De examinator en de tweede examinator stellen de score voor iedere kandidaat vast. Deze score wordt meegedeeld aan de directeur.
 
-#### Artikel 10. Afwijking
+##### Artikel 10. Afwijking
 
 Het College voor Toetsen en Examens of de voorzitter, kan, de voorzitter van de betreffende vakcommissie gehoord, beslissen dat voor een of meer opdrachten aan alle kandidaten het maximale aantal scorepunten of ten minste een aantal kleiner dan het maximum aantal scorepunten wordt toegekend.
 
-#### Artikel 11. Gebruik vaktaal
+##### Artikel 11. Gebruik vaktaal
 
 Indien een kandidaat op grond van een algemeen geldende woordbetekenis, zoals bij voorbeeld vermeld in een woordenboek, een antwoord geeft dat vakinhoudelijk onjuist is, worden aan dat antwoord geen scorepunten toegekend, of tenminste niet de scorepunten die met de vakinhoudelijke onjuistheid gemoeid zijn.
 
-#### Artikel 12. Aanvullende regels
+##### Artikel 12. Aanvullende regels
 
 Het College voor Toetsen en Examens kan op voorstel van een vakcommissie beslissen, dat in het correctievoorschrift bij een toets aanvullende regels worden opgenomen, waaronder regels voor aftrek van scorepunten. Deze zijn evenzeer verbindend als hetgeen in deze regeling is voorgeschreven.
 
-#### Artikel 13. Aanpassing
+##### Artikel 13. Aanpassing
 
 De voorzitter van het College voor Toetsen en Examens is gemachtigd de vaststellingen als opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2026-03-14&g=2026-03-14) op onderdelen aan te passen.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 Deze regeling treedt in werking op 1 april 2015.
 
-#### Artikel 15. Bekendmaking
+##### Artikel 15. Bekendmaking
 
 1. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. De vakspecifieke regels en beoordelingsmodellen per toets bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=6&z=2026-03-14&g=2026-03-14) worden bekend gemaakt op de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=4&z=2026-03-14&g=2026-03-14) onder 2 opgenomen wijze.
 
-#### Artikel 16. Intrekking
+##### Artikel 16. Intrekking
 
 De [Regeling beoordelingsnormen en bijbehorende scores centraal examen](https://wetten.overheid.nl/jci1.3:c:BWBR0027449) van 24 maart 2010 wordt ingetrokken.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze regeling wordt aangehaald als: Regeling beoordelingsnormen en bijbehorende scores centraal examen VO.
 

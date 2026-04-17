@@ -1,20 +1,42 @@
 ---
-title: "Besluit herindeling ministeriële taak met betrekking tot het consumentenkrediet"
+title: "Besluit van 27 juni 1984, houdende herindeling van de ministeriële taak met betrekking tot het consumentenkrediet"
 identifier: "BWBR0003685"
-categorie: "Financieel recht"
-publicatiedatum: 1984-07-17
-laatste_update: 1984-07-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003685"
+country: "nl"
+rank: "kb"
+publication_date: "1984-07-17"
+last_updated: "1984-07-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003685"
+soort: "KB"
+stam_id: "562383"
+version_id: "819222"
+internal_id: "C819221"
+label_id: "546034"
+dtd_version: "2.0"
+original_entry_into_force: "1984-07-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003685/1984-07-17/0"
+intitule_bron: "Stb.1984-316"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1984-06-27"
+intitule_status: "goed"
+original_publication: "Stb.1984-316"
+original_signed_date: "1984-06-27"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1984-07-17"
+jci_1_3: "jci1.3:c:BWBR0003685&z=1984-07-17&g=1984-07-17"
+jci_1_0: "1.0:c:BWBR0003685&g=1984-07-17"
+citeertitel_status: "officieel"
+short_title: "Besluit herindeling ministeriële taak met betrekking tot het consumentenkrediet"
+signed_date: "1984-06-27"
+entry_into_force: "1984-07-17"
 ---
-
 # Besluit van 27 juni 1984, houdende herindeling van de ministeriële taak met betrekking tot het consumentenkrediet
 
 Op de voordracht van Onze Minister-President, Minister van Algemene Zaken van 18 juni 1984, nr. 345879**a**, gedaan mede namens Onze Ministers van Binnenlandse Zaken, van Economische Zaken en van Welzijn, Volksgezondheid en Cultuur;
 
 Hebben goedgevonden en verstaan:
 
-#### Enig artikel
+##### Enig artikel
 
 Met ingang van heden:
 

@@ -1,13 +1,38 @@
 ---
-title: "Regeling havenontvangstvoorzieningen"
+title: "Regeling houdende regels voor havenontvangstvoorzieningen (Regeling havenontvangstvoorzieningen)"
 identifier: "BWBR0017228"
-categorie: "Verkeer"
-publicatiedatum: 2022-06-01
-laatste_update: 2022-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017228"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-06-01"
+last_updated: "2022-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017228"
+soort: "ministeriele-regeling"
+stam_id: "6143803"
+version_id: "10807092"
+internal_id: "C14728371"
+label_id: "6133164"
+original_entry_into_force: "2004-10-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017228/2022-06-01/0"
+intitule_bron: "Stcrt.2004-183"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-09-23"
+intitule_published: "2004-09-23"
+intitule_in_force: "2004-10-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-183"
+original_signed_date: "2004-09-23"
+original_published_date: "2004-09-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-183-p33-SC66694"
+entry_into_force_date: "2004-10-15"
+jci_1_3: "jci1.3:c:BWBR0017228&z=2022-06-01&g=2022-06-01"
+jci_1_0: "1.0:c:BWBR0017228&g=2022-06-01"
+citeertitel_status: "officieel"
+short_title: "Regeling havenontvangstvoorzieningen"
+signed_date: "2004-09-23"
+entry_into_force: "2004-10-15"
 ---
-
 # Regeling houdende regels voor havenontvangstvoorzieningen (Regeling havenontvangstvoorzieningen)
 
 Gelet op [Bijlagen I](onbekend), [II](onbekend), [IV](onbekend) en [V van het op 2 november 1973 te Londen tot stand gekomen Internationaal Verdrag ter voorkoming van verontreiniging door schepen, met Protocollen en Bijlagen met Aanhangsels](onbekend) (Trb. 1975, 147), en met het op 17 februari 1978 te Londen totstandgekomen Protocol bij dat Verdrag met Bijlage en Aanhangsels (Trb. 1978, 187), richtlijn nr. 2000/59/EG van het Europees Parlement en de Raad van de Europese Unie van 27 november 2000 betreffende havenontvangstvoorzieningen voor scheepsafval en ladingresiduen (PbEG L 332), de [artikelen 1, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=1), [6, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=6), [6a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=6a), [12a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=12a), [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=18), en [35a, vijfde lid, van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=35a) en de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017136&artikel=2), [8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017136&artikel=8), en [9, tweede lid, van het Besluit havenontvangstvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0017136&artikel=9);
@@ -18,7 +43,7 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Wet voorkoming verontr
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -34,13 +59,13 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Aanwijzing richtlijn havenontvangstvoorzieningen
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
 #### § 3. Melding gegevens
 
-#### Artikel 3
+##### Artikel 3
 
 1. De houder van een havenontvangstvoorziening meldt op een door de havenbeheerder te bepalen wijze iedere afmelding onverwijld aan de havenbeheerder.
 
@@ -48,7 +73,7 @@ Vervallen
 
 3. De havenbeheerder neemt de gegevens op in de registratie, bedoeld in [artikel 6c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=6c).
 
-#### Artikel 4
+##### Artikel 4
 
 De havenbeheerder meldt onverwijld aan de inspecteur-generaal, op diens verzoek en op een door hem te bepalen wijze, de volgende gegevens:
 
@@ -58,7 +83,7 @@ De havenbeheerder meldt onverwijld aan de inspecteur-generaal, op diens verzoek 
 
 #### § 4. Rapportageverplichtingen
 
-#### Artikel 5
+##### Artikel 5
 
 1. De houder van een havenontvangstvoorziening meldt binnen een maand na afloop van ieder kalenderjaar aan de havenbeheerder op een door de havenbeheerder te bepalen wijze de volgende gegevens over het desbetreffende kalenderjaar:
 
@@ -68,7 +93,7 @@ De havenbeheerder meldt onverwijld aan de inspecteur-generaal, op diens verzoek 
 
 2. De havenbeheerder neemt de gegevens op in de registratie, bedoeld in [artikel 6c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=6c). De gegevens worden ten minste vijf jaar na de ontvangst ervan bewaard. Op verzoek van Onze Minister verstrekt de havenbeheerder de gegevens uit deze registratie, dan wel inlichtingen over de gegevens, op de in dat verzoek aangegeven wijze.
 
-#### Artikel 6
+##### Artikel 6
 
 De havenbeheerder meldt binnen twee maanden na afloop van ieder kalenderjaar aan de inspecteur-generaal de volgende gegevens over het desbetreffende jaar:
 
@@ -84,13 +109,13 @@ De havenbeheerder meldt binnen twee maanden na afloop van ieder kalenderjaar aan
 
 #### § 5. Bepaling minimumpercentage kosten die indirect gefinancierd worden
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
 #### § 6. Inspectie van schepen
 
-#### Artikel 8
+##### Artikel 8
 
 1. De ambtenaren van de Inspectie Leefomgeving en Transport inspecteren ten minste 15% van het totale aantal afzonderlijke schepen dat jaarlijks een Nederlandse haven aandoet. Het totaal aantal afzonderlijke schepen dat een Nederlandse haven aandoet wordt berekend als het gemiddelde aantal afzonderlijke schepen die zich de drie voorgaande kalenderjaren aan SafeSeaNet hebben gemeld.
 
@@ -98,49 +123,49 @@ Vervallen
 
 #### § 7. Tarief kosten voor ontheffing
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
 #### § 8. Aanwijzing havens
 
-#### Artikel 10
+##### Artikel 10
 
 De havenbeheerders van de in bijlage I aangewezen havens dragen zorg voor toereikende havenontvangstvoorzieningen als bedoeld in [artikel 2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017136&artikel=2).
 
 #### § 9. Aanwijzing rechtspersoon visserijsector
 
-#### Artikel 11
+##### Artikel 11
 
 Als rechtspersoon, bedoeld in [artikel 9, tweede lid, van het Besluit havenontvangstvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0017136&artikel=9), wordt aangewezen de Stichting Financiering Afvalstoffen Visserij, statutair gevestigd te Urk.
 
 #### § 10. Klachtenformulier
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
 #### § 11. Wijziging en intrekking van andere regelingen
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt de Regeling communicatie en loodsaanvragen zeevaart.
 
-#### Artikel 14
+##### Artikel 14
 
 De circulaire van de Minister van Verkeer en Waterstaat inzake melding door de scheepvaart van de voorgenomen afgifte van scheepsafval en ladingresiduen aan havenontvangstvoorzieningen van 19 december 2002, Stcrt. 247, wordt ingetrokken.
 
 #### § 12. Invoerings- en slotbepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017228&paragraaf=4&artikel=5&z=2022-06-01&g=2022-06-01) meldt de houder van de havenontvangstvoorziening de op het bij inwerkingtreding van deze regeling lopende kalenderjaar betrekking hebbende gegevens als bedoeld in dat artikel gelijktijdig met de op het eerstvolgende kalenderjaar betrekking hebbende gegevens.
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Deze regeling wordt aangehaald als: Regeling havenontvangstvoorzieningen.
 
@@ -301,7 +326,7 @@ Formulier voor de melding van ontoereikendheid van havenontvangstvoorzieningen1D
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Deze regeling berust mede op de [artikelen 6c, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=6c).
 

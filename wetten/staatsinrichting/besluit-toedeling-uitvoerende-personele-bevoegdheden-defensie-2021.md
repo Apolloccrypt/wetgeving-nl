@@ -1,13 +1,39 @@
 ---
-title: "Besluit toedeling uitvoerende personele bevoegdheden Defensie 2021"
+title: "Mandaatbesluit Personele Bevoegdheden Defensie 2017"
 identifier: "BWBR0039990"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2022-12-23
-laatste_update: 2022-12-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039990"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-12-23"
+last_updated: "2022-12-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039990"
+soort: "ministeriele-regeling"
+stam_id: "14168653"
+version_id: "24369482"
+internal_id: "C34968421"
+label_id: "14129544"
+dtd_version: "2.0"
+original_entry_into_force: "2017-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039990/2022-12-23/0"
+intitule_bron: "Stcrt.2017-52839"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-07-18"
+intitule_published: "2017-09-20"
+intitule_in_force: "2017-09-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-52839"
+original_signed_date: "2017-07-18"
+original_published_date: "2017-09-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-52839"
+entry_into_force_date: "2017-09-01"
+jci_1_3: "jci1.3:c:BWBR0039990&z=2022-12-23&g=2022-12-23"
+jci_1_0: "1.0:c:BWBR0039990&g=2022-12-23"
+citeertitel_status: "officieel"
+short_title: "Besluit toedeling uitvoerende personele bevoegdheden Defensie 2021"
+signed_date: "2017-07-18"
+entry_into_force: "2017-09-01"
 ---
-
 # Mandaatbesluit Personele Bevoegdheden Defensie 2017
 
 Gelet op het [Algemeen Organisatiebesluit Defensie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034157)
@@ -16,7 +42,7 @@ Besluit:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -52,7 +78,7 @@ In dit besluit wordt verstaan onder:
 
 - l. **geplaatst op/bij:** het als gevolg van het toewijzen of opdragen van een andere functie deel uitmaken van een bepaalde eenheid onder de verantwoordelijkheid van een van de defensieonderdelen.
 
-#### Artikel 2. Aanwijzing commandant
+##### Artikel 2. Aanwijzing commandant
 
 1. Voor de uitvoering van het [Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482), het [Burgerlijk ambtenarenreglement Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040), het [Besluit dienstreizen Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0007956), het [Inkomstenbesluit militairen](onbekend), het [Inkomstenbesluit burgerlijke ambtenaren Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191), het [Verplaatsingskostenbesluit Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0032312) en de ter uitvoering hiervan vastgestelde ministeriële regelingen en beleidsregels wordt onder commandant verstaan de commandant in de [bijlagen A tot en met G](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=A&z=2022-12-23&g=2022-12-23) bij deze regeling, ieder voor de militairen en ambtenaren van zijn bevoegdhedenressort.
 
@@ -74,7 +100,7 @@ In dit besluit wordt verstaan onder:
 
 3. Commandant is tevens de functionaris die is geplaatst op een arbeidsplaats waaraan leidinggevende bevoegdheden zijn verbonden die zelfstandig in het personeelsinformatie-systeem worden uitgeoefend.
 
-#### Artikel 3. Mandatering van uitvoerende personele bevoegdheden
+##### Artikel 3. Mandatering van uitvoerende personele bevoegdheden
 
 1. Ik verleen de mandaten als weergegeven in de [bijlagen 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=1&z=2022-12-23&g=2022-12-23).
 
@@ -82,23 +108,23 @@ In dit besluit wordt verstaan onder:
 
 3. Onverlet de in het vorige lid genoemde [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=1&z=2022-12-23&g=2022-12-23) is de Secretaris-Generaal bevoegd om namens mij uitvoerende personele bevoegdheden uit te oefenen.
 
-#### Artikel 3a. Wijzigen bijlagen
+##### Artikel 3a. Wijzigen bijlagen
 
 De Hoofddirecteur Personeel van het Directoraat-Generaal Beleid is bevoegd de [bijlagen A tot en met G](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=A&z=2022-12-23&g=2022-12-23) en [1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=1&z=2022-12-23&g=2022-12-23) van deze regeling te wijzigen.
 
-#### Artikel 4. Aanwijsbevoegdheid Secretaris-Generaal en Commandant der Strijdkrachten
+##### Artikel 4. Aanwijsbevoegdheid Secretaris-Generaal en Commandant der Strijdkrachten
 
 De Secretaris-Generaal en de Commandant der Strijdkrachten zijn bevoegd om aanwijzingen te geven over de wijze waarop een door hen in ondermandaat verleende uitvoerende personele bevoegdheid wordt uitgeoefend.
 
-#### Artikel 5. Ondermandaat
+##### Artikel 5. Ondermandaat
 
 Ondermandaat van de bevoegdheden is enkel toegestaan voor zover dit volgt uit de bijlagen genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2022-12-23&g=2022-12-23).
 
-#### Artikel 6. Bijzondere gevallen
+##### Artikel 6. Bijzondere gevallen
 
 De gemandateerde maakt geen gebruik van het aan hem verleende mandaat in de gevallen waarin hij van mening is dat het naasthogere niveau een beslissing dient te nemen of een document dient te ondertekenen.
 
-#### Artikel 7. Bezwaar en beroep
+##### Artikel 7. Bezwaar en beroep
 
 1. Besluiten over bezwaarschriften neemt de geattribueerde functionaris dan wel de gemandateerde één niveau hoger dan de gemandateerde die het besluit in eerste aanleg heeft genomen, of een daartoe aangewezen autoriteit.
 
@@ -134,11 +160,11 @@ De gemandateerde maakt geen gebruik van het aan hem verleende mandaat in de geva
 
 6. De machtiging, bedoeld in het vijfde lid, onderdelen a tot en met c, mag door de Directeur Juridische Dienstverlening in ondermachtiging worden gegeven aan het Hoofd Bedrijfsbureau Juridische Dienstverlening.
 
-#### Artikel 8. Uitoefening bevoegdheid jegens zichzelf
+##### Artikel 8. Uitoefening bevoegdheid jegens zichzelf
 
 De gemandateerde oefent een aan hem gemandateerde bevoegdheid niet uit in die gevallen, waarin hij die bevoegdheid jegens zichzelf zou moeten uitoefenen. In dat geval wordt de bevoegdheid uitgeoefend door het naasthogere niveau.
 
-#### Artikel 9. Ondertekening
+##### Artikel 9. Ondertekening
 
 De gemandateerde is gehouden het mandaat in de te nemen beschikking tot uitdrukking te laten komen door opneming van het volgende ondertekeningsblok:
 
@@ -152,15 +178,15 @@ Handtekening
 
 Naam van de gemandateerde
 
-#### Artikel 10. Intrekking mandaatbesluiten
+##### Artikel 10. Intrekking mandaatbesluiten
 
 Met dit mandaatbesluit zijn de mandaatbesluiten genoemd in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=H&z=2022-12-23&g=2022-12-23) vervallen, evenals de Regeling aanwijzing commandanten defensie en [Mandaatbesluit Personele Bevoegdheden Defensie 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038363).
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 september 2017.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit toedeling uitvoerende personele bevoegdheden Defensie 2021.
 

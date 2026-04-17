@@ -1,13 +1,38 @@
 ---
 title: "Subsidieregeling Uitelkaar.nl 2026"
 identifier: "BWBR0052344"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-02-24
-laatste_update: 2026-02-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052344"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-02-24"
+last_updated: "2026-02-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052344"
+soort: "zbo"
+stam_id: "17776483"
+version_id: "31424032"
+internal_id: "C44891791"
+label_id: "17674484"
+dtd_version: "2.0"
+original_entry_into_force: "2026-02-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052344/2026-02-24/0"
+intitule_bron: "Stcrt.2026-7437"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-02-16"
+intitule_published: "2026-02-23"
+intitule_in_force: "2026-02-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-7437"
+original_signed_date: "2026-02-16"
+original_published_date: "2026-02-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-7437"
+entry_into_force_date: "2026-02-24"
+jci_1_3: "jci1.3:c:BWBR0052344&z=2026-02-24&g=2026-02-24"
+jci_1_0: "1.0:c:BWBR0052344&g=2026-02-24"
+citeertitel_status: "officieel"
+signed_date: "2026-02-16"
+entry_into_force: "2026-02-24"
 ---
-
 # Subsidieregeling Uitelkaar.nl 2026
 
 gelet op [artikel 37c van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=37c), waarin is bepaald dat het bestuur van de Raad met het oog op de verlening van rechtsbijstand subsidie kan verstrekken voor bijzondere doeleinden en projecten,
@@ -18,7 +43,7 @@ de volgende regeling vast te stellen.
 
 ### Hoofdstuk I. Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -48,19 +73,19 @@ In deze regeling wordt verstaan onder:
 
 - m. **subsidie:** de geldelijke bijdrage die door de Raad krachtens deze regeling aan uitelkaar.nl bij (online) scheiden wordt betaald als bijdrage in de kosten van dienstverlening ten behoeve van een gebruiker;
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 De Raad voor Rechtsbijstand en BV Justice 42 hebben een onderlinge overeenkomst gesloten met betrekking tot het bijzondere project uitelkaar.nl. Deze subsidieregeling heeft als doel om ter uitvoering van deze overeenkomst subsidies vast te stellen voor de werkzaamheden van dienstverleners ten behoeve van gebruikers van uitelkaar.nl. De subsidie van de Raad ten behoeve van een gebruiker komt in mindering op het tarief dat uitelkaar.nl voor de betreffende vorm van dienstverlening heeft vastgesteld.
 
 ### Hoofdstuk II. De uitvoering
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Subsidie voor het gebruik van uitelkaar.nl wordt uitsluitend verleend ter zake van in de Nederlandse rechtssfeer liggende rechtsbelangen van natuurlijke personen wier financiële draagkracht de in [artikel 2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&artikel=2) genoemde bedragen niet overschrijdt.
 
 Geen subsidie wordt verleend indien het vermogen van de gebruiker het drempelbedrag zoals omschreven in [artikel 34, tweede lid Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=34) overschrijdt.
 
-#### Artikel 4. Activiteiten die voor de verlening van subsidie in aanmerking komen. Toekenning subsidie bij inschakeling van uitelkaar.nl en een dienstverlener
+##### Artikel 4. Activiteiten die voor de verlening van subsidie in aanmerking komen. Toekenning subsidie bij inschakeling van uitelkaar.nl en een dienstverlener
 
 1. Uitelkaar.nl stelt de draagkracht van de rechtzoekende vast aan de hand van de verklaring zoals bedoeld in [artikel 7, derde lid onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=7).
 
@@ -90,21 +115,21 @@ Een wijziging in de draagkracht heeft geen invloed meer op een subsidie die voor
 
 6. De in het tweede lid bedoelde subsidie via uitelkaar.nl wordt aangevuld met een subsidie van € 346,– per gebruiker (2 punten) tot een maximum van 40 gebruikers per maand.
 
-#### Artikel 5. Bevoegdheid tot intrekking
+##### Artikel 5. Bevoegdheid tot intrekking
 
 [Artikel 33, eerste lid, aanhef en onder a. tot en met d. en derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33) is van overeenkomstige toepassing.
 
-#### Artikel 6. Omzetbelasting
+##### Artikel 6. Omzetbelasting
 
 De door de Raad verstrekte subsidies genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052344&hoofdstuk=II&artikel=4&z=2026-02-24&g=2026-02-24) zijn inclusief de omzetbelasting die over de dienstverlening verschuldigd is.
 
-#### Artikel 7. Bevoegdheid tot aanpassing van bedragen
+##### Artikel 7. Bevoegdheid tot aanpassing van bedragen
 
 1. De inkomensgrenzen genoemd in [artikel 4, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052344&hoofdstuk=II&artikel=4&z=2026-02-24&g=2026-02-24) worden jaarlijks met ingang van 1 januari door het bestuur aangepast aan de volgens [artikel 2 van het Besluit eigen bijdrage rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&artikel=2) geldende grenzen.
 
 2. Aanpassing heeft geen gevolgen voor de dienstverlening waarvoor ten behoeve van de gebruiker al een subsidie aan uitelkaar.nl is betaald.
 
-#### Artikel 8. Aan de subsidie verbonden verplichtingen. Administratieve afwikkeling en verlening van subsidies
+##### Artikel 8. Aan de subsidie verbonden verplichtingen. Administratieve afwikkeling en verlening van subsidies
 
 1. Subsidies worden door uitelkaar.nl namens de rechtzoekenden bij de Raad aangevraagd en maandelijks uiterlijk per de vijfde van de maand aan de Raad gefactureerd via een door de Raad voorgeschreven formulier.
 
@@ -122,7 +147,7 @@ De door de Raad verstrekte subsidies genoemd in [artikel 4](https://wetten.overh
 
 3. Het bestuur van de Raad beslist binnen een maand op de aanvraag tot subsidieverlening.
 
-#### Artikel 9. Vaststelling van verleende subsidies
+##### Artikel 9. Vaststelling van verleende subsidies
 
 1. Vaststelling van verleende subsidies geschiedt halfjaarlijks, over de termijn die ligt tussen 1 januari en 30 juni respectievelijk 1 juli en 31 december. De subsidievaststelling door het bestuur van de Raad geschiedt uiterlijk 30 september respectievelijk 31 maart.
 
@@ -132,7 +157,7 @@ De door de Raad verstrekte subsidies genoemd in [artikel 4](https://wetten.overh
 
 4. Uitelkaar.nl verstrekt de Raad informatie over het aantal zaken waarvoor de Raad subsidie heeft verleend zonder dat online overeenstemming tussen partijen is bereikt. Indien voor een zaak een toevoeging is aangevraagd, komt de verleende subsidie voor verrekening en terugvordering bij uitelkaar.nl in aanmerking. Verrekening van verleende subsidies voor rekening van uitelkaar.nl vindt – met inachtneming van hetgeen in de vorige zin is bepaald – plaats indien en voor zover het aantal gesubsidieerde online-scheidingszaken waarin online geen overeenstemming tussen partijen wordt bereikt meer dan 10% bedraagt.
 
-#### Artikel 10. Overige bepalingen
+##### Artikel 10. Overige bepalingen
 
 1. De dienstverleners met wie uitelkaar.nl een overeenkomst is aangegaan brengen aan de gebruiker geen andere kosten in rekening dan die ter zake van:
 
@@ -150,7 +175,7 @@ De door de Raad verstrekte subsidies genoemd in [artikel 4](https://wetten.overh
 
 ### Hoofdstuk III. Toepassing
 
-#### Artikel 11. Inwerkingtreding en overgangsrecht
+##### Artikel 11. Inwerkingtreding en overgangsrecht
 
 1. Deze subsidieregeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 februari 2026.
 
@@ -158,6 +183,6 @@ De door de Raad verstrekte subsidies genoemd in [artikel 4](https://wetten.overh
 
 3. Op aanvragen ingediend in de periode van 1 januari tot en met 31 januari 2026 is de Subsidieregeling Uitelkaar.nl 2026, Stcrt 2026, 2737, zoals bekend gemaakt in de Staatscourant van 3 februari 2026 van toepassing
 
-#### Artikel 12. Aanhalen regeling
+##### Artikel 12. Aanhalen regeling
 
 Deze subsidieregeling wordt aangehaald als Subsidieregeling Uitelkaar.nl 2026.

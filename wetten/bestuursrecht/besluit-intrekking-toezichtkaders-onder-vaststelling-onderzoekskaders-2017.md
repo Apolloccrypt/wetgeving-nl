@@ -1,13 +1,39 @@
 ---
-title: "Besluit intrekking toezichtkaders onder vaststelling Onderzoekskaders 2017"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap, van 24 januari 2017, nr. 1119820, tot intrekking van toezichtkaders onder vaststelling van Onderzoekskaders 2017"
 identifier: "BWBR0039177"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-08-01
-laatste_update: 2017-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039177"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-08-01"
+last_updated: "2017-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039177"
+soort: "ministeriele-regeling"
+stam_id: "13907273"
+version_id: "23868732"
+internal_id: "C34335171"
+label_id: "13871484"
+dtd_version: "2.0"
+original_entry_into_force: "2017-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039177/2017-08-01/0"
+intitule_bron: "Stcrt.2017-5924"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-01-24"
+intitule_published: "2017-02-08"
+intitule_in_force: "2017-02-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-5924"
+original_signed_date: "2017-01-24"
+original_published_date: "2017-02-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-5924"
+entry_into_force_date: "2017-08-01"
+jci_1_3: "jci1.3:c:BWBR0039177&z=2017-08-01&g=2017-08-01"
+jci_1_0: "1.0:c:BWBR0039177&g=2017-08-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit intrekking toezichtkaders onder vaststelling Onderzoekskaders 2017"
+signed_date: "2017-01-24"
+entry_into_force: "2017-08-01"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap, van 24 januari 2017, nr. 1119820, tot intrekking van toezichtkaders onder vaststelling van Onderzoekskaders 2017
 
 Gelet op [artikel 13, eerste lid, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=13);
@@ -16,7 +42,7 @@ Gezien de voordracht van de Inspecteur-generaal van het onderwijs van 15 decembe
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De volgende onderzoekskaders worden vastgesteld:
 
@@ -28,7 +54,7 @@ De volgende onderzoekskaders worden vastgesteld:
 
 - 4. Onderzoekskader 2017 voor het toezicht op het middelbaar beroepsonderwijs (bijlage IV).
 
-#### Artikel 2
+##### Artikel 2
 
 De volgende beleidsregels worden ingetrokken:
 
@@ -54,7 +80,7 @@ De volgende beleidsregels worden ingetrokken:
 
 - 11. Integraal toezicht op de samenwerkingsverbanden in het primair en voortgezet onderwijs (Stcrt. 2013, 24447).
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van 1 augustus 2017.
 

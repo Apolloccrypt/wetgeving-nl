@@ -1,13 +1,39 @@
 ---
-title: "Regeling beheer rijkscollectie en subsidiëring museale instellingen"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 5 januari 2016, nr. WJZ/717829 (10547), houdende regels over het beheer van de rijkscollectie, de subsidiëring van instellingen met een wettelijke taak tot beheer van collecties en enkele technische aanpassingen (Regeling beheer rijkscollectie en subsidiëring museale instellingen)"
 identifier: "BWBR0037533"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2025-10-01
-laatste_update: 2025-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037533"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-01"
+last_updated: "2025-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037533"
+soort: "ministeriele-regeling"
+stam_id: "13391913"
+version_id: "22969142"
+internal_id: "C33207871"
+label_id: "13359874"
+dtd_version: "2.0"
+original_entry_into_force: "2016-01-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037533/2025-10-01/0"
+intitule_bron: "Stcrt.2016-1220"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-01-05"
+intitule_published: "2016-01-14"
+intitule_in_force: "2016-01-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-1220"
+original_signed_date: "2016-01-05"
+original_published_date: "2016-01-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-1220"
+entry_into_force_date: "2016-01-15"
+jci_1_3: "jci1.3:c:BWBR0037533&z=2025-10-01&g=2025-10-01"
+jci_1_0: "1.0:c:BWBR0037533&g=2025-10-01"
+citeertitel_status: "officieel"
+short_title: "Regeling beheer rijkscollectie en subsidiëring museale instellingen"
+signed_date: "2016-01-05"
+entry_into_force: "2016-01-15"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 5 januari 2016, nr. WJZ/717829 (10547), houdende regels over het beheer van de rijkscollectie, de subsidiëring van instellingen met een wettelijke taak tot beheer van collecties en enkele technische aanpassingen (Regeling beheer rijkscollectie en subsidiëring museale instellingen)
 
 ### Hoofdstuk 1. Algemene bepalingen
@@ -18,7 +44,7 @@ bron: "https://wetten.overheid.nl/BWBR0037533"
 
 ### Hoofdstuk 2. Beheer rijkscollectie
 
-#### Artikel 4.1. Overgangsbepaling Stichting Panorama Mesdag
+##### Artikel 4.1. Overgangsbepaling Stichting Panorama Mesdag
 
 1. De Minister verstrekt de subsidie, bedoeld in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2025-10-01&g=2025-10-01), voor het eerst voor het kalenderjaar 2026 aan de Stichting Panorama Mesdag.
 
@@ -30,27 +56,27 @@ bron: "https://wetten.overheid.nl/BWBR0037533"
 
 - b. een onderhouds- en investeringsplan als bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&paragraaf=1&artikel=3.7&z=2025-10-01&g=2025-10-01).
 
-#### Artikel 4.2. [Subsidieregeling stimulering herbestemming monumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0030544)
+##### Artikel 4.2. [Subsidieregeling stimulering herbestemming monumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0030544)
 
 Wijzigt de Subsidieregeling stimulering herbestemming monumenten.
 
-#### Artikel 4.3. [Organisatie- en mandaatbesluit OCW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&wetgeving)
+##### Artikel 4.3. [Organisatie- en mandaatbesluit OCW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&wetgeving)
 
 Wijzigt het Organisatie- en mandaatbesluit OCW 2008.
 
-#### Artikel 4.4. [Beleidsregel erkenning tot het Nederlands cultureel erfgoed behorende monument en gelegen buiten Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0036824&wetgeving)
+##### Artikel 4.4. [Beleidsregel erkenning tot het Nederlands cultureel erfgoed behorende monument en gelegen buiten Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0036824&wetgeving)
 
 Wijzigt de Beleidsregel erkenning tot het Nederlands cultureel erfgoed behorende monumenten gelegen buiten Nederland.
 
-#### Artikel 4.5. [Regeling omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027471)
+##### Artikel 4.5. [Regeling omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027471)
 
 Wijzigt de Regeling omgevingsrecht.
 
-#### Artikel 4.6. Wijziging Subsidieregeling culturele basisinfrastructuur 2017–2020
+##### Artikel 4.6. Wijziging Subsidieregeling culturele basisinfrastructuur 2017–2020
 
 Wijzigt de Subsidieregeling culturele basisinfrastructuur 2017-2020.
 
-#### Artikel 4.7. Wijziging [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597)
+##### Artikel 4.7. Wijziging [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597)
 
 Wijzigt de Regeling op het specifiek cultuurbeleid.
 
@@ -64,7 +90,7 @@ Besluit:
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 5.1. Inwerkingtreding
+##### Artikel 5.1. Inwerkingtreding
 
 1. De [hoofdstukken 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=1&z=2025-10-01&g=2025-10-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&z=2025-10-01&g=2025-10-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=5&z=2025-10-01&g=2025-10-01) treden in werking met ingang van 8 februari 2016.
 
@@ -72,13 +98,13 @@ Besluit:
 
 3. De [artikelen 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.6&z=2025-10-01&g=2025-10-01) en [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.7&z=2025-10-01&g=2025-10-01) treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst en werken terug tot en met 4 november 2015.
 
-#### Artikel 5.2. Citeertitel
+##### Artikel 5.2. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling beheer rijkscollectie en subsidiëring museale instellingen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -88,11 +114,11 @@ In deze regeling wordt verstaan onder:
 
 - **minister:** Minister van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 3.1. Reikwijdte
+##### Artikel 3.1. Reikwijdte
 
 Deze paragraaf is uitsluitend van toepassing op subsidies die de minister verstrekt op grond van [artikel 7.2 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.2).
 
-#### Artikel 3.2. Ambtshalve subsidieverlening en hoogte subsidiebedragen
+##### Artikel 3.2. Ambtshalve subsidieverlening en hoogte subsidiebedragen
 
 1. De minister verleent jaarlijks voor 1 oktober ambtshalve de volgende subsidiebedragen1Inclusief loon- en prijsbijstelling 2023. voor de uitvoering in het daarop volgende jaar van de taak, bedoeld in [artikel 7.2 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.2):
 
@@ -131,7 +157,7 @@ Deze paragraaf is uitsluitend van toepassing op subsidies die de minister verstr
 
 1 In verband met een herverdeling van € 12.000.000 in 2021 wordt vanaf 2022 tot en met 2026 een bedrag van € 2.400.000 in mindering gebracht. Vanaf 2027 wordt deze incidentele vermindering niet meer toegepast.
 
-#### Artikel 3.3. Wijziging subsidiebedrag
+##### Artikel 3.3. Wijziging subsidiebedrag
 
 1. De minister kan de subsidie verhogen:
 
@@ -141,13 +167,13 @@ Deze paragraaf is uitsluitend van toepassing op subsidies die de minister verstr
 
 2. Indien de subsidie wordt gewijzigd, rekening houdend met de ontwikkeling van de kosten in de arbeidsvoorwaarden of de kosten van het prijspeil, bepaalt de minister welk percentage van de subsidie wordt aangemerkt als loongevoelig onderscheidenlijk prijsgevoelig.
 
-#### Artikel 3.4. Voorschotten
+##### Artikel 3.4. Voorschotten
 
 1. [Artikel 2.11, eerste tot en met vierde lid, van de Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&artikel=2.11) is van overeenkomstige toepassing.
 
 2. Indien de subsidie op grond van [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2025-10-01&g=2025-10-01), wordt gewijzigd, wordt de bevoorschotting overeenkomstig aangepast.
 
-#### Artikel 3.5. Subsidieverplichting: in te dienen documenten
+##### Artikel 3.5. Subsidieverplichting: in te dienen documenten
 
 1. Een instelling met een wettelijke taak dient jaarlijks uiterlijk op 1 november de volgende documenten in bij de minister:
 
@@ -165,11 +191,11 @@ Deze paragraaf is uitsluitend van toepassing op subsidies die de minister verstr
 
 6. Indien uitvoering van wettelijke taak aan de hand van de ingediende documenten, bedoeld in het eerste lid, naar het oordeel van de minister bezwaarlijk is, kan hij de subsidieontvanger aanwijzingen geven tot wijziging van die documenten.
 
-#### Artikel 3.6. Wijze van indiening
+##### Artikel 3.6. Wijze van indiening
 
 De indiening van de documenten, bedoeld in [artikel 3.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&paragraaf=1&artikel=3.5&z=2025-10-01&g=2025-10-01), geschiedt op een door de minister te bepalen elektronische wijze.
 
-#### Artikel 3.7. Subsidieverplichting: gebouwen
+##### Artikel 3.7. Subsidieverplichting: gebouwen
 
 1. De volgende instellingen met een wettelijke taak beschikken voor gebouwen waarin cultuurgoederen worden beheerd waar de taak op ziet, over een actueel meerjarig onderhouds- en investeringsplan:
 
@@ -179,11 +205,11 @@ De indiening van de documenten, bedoeld in [artikel 3.5, eerste lid](https://wet
 
 2. Een instelling als bedoeld in het eerste lid dient telkens na vier jaar een actueel onafhankelijk bouwkundig inspectierapport van de gebouwen in. De eerste indiening vindt plaats voor 1 januari 2020.
 
-#### Artikel 3.8. Overige subsidieverplichtingen
+##### Artikel 3.8. Overige subsidieverplichtingen
 
 De [artikelen 2.12 tot en met 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&artikel=2.12) en [2.17 tot en met 2.21 van de Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&artikel=2.17) zijn van overeenkomstige toepassing.
 
-#### Artikel 3.9. Aanvraag tot vaststelling
+##### Artikel 3.9. Aanvraag tot vaststelling
 
 De aanvraag tot vaststelling van de subsidie geschiedt in de verantwoording van de subsidie die de instelling met een wettelijke taak voor het betreffende jaar ontvangt op grond van [artikel 4a van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4a), met overeenkomstige toepassing van:
 
@@ -191,19 +217,19 @@ De aanvraag tot vaststelling van de subsidie geschiedt in de verantwoording van 
 
 - b. voor wat betreft het bestuursverslag: de [artikelen 2.15, tweede, derde en vijfde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&artikel=2.15), en [2.28 van de Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&artikel=2.28).
 
-#### Artikel 3.10. Beschikking tot vaststelling
+##### Artikel 3.10. Beschikking tot vaststelling
 
 [Artikel 2.29, eerste lid, van de Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&artikel=2.29) is van overeenkomstige toepassing op de vaststelling van de subsidie.
 
-#### Artikel 3.11. Besteding resterende middelen
+##### Artikel 3.11. Besteding resterende middelen
 
 Indien na uitvoering van de taak, bedoeld in [artikel 2.8 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=2.8), de subsidie niet volledig is aangewend en langetermijninvesteringsreserves zijn aangehouden voor het beheer van de cultuurgoederen of de instandhouding van gebouwen, zoals opgenomen in de begroting voor het desbetreffende jaar, dan kan de instelling de resterende middelen besteden aan publieksactiviteiten of andere activiteiten in het kader van de cultuurgoederen.
 
-#### Artikel 3.12. Hardheidsclausule
+##### Artikel 3.12. Hardheidsclausule
 
 [Artikel 6.1 van de Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&artikel=6.1) is van overeenkomstige toepassing.
 
-#### Artikel 3.13. Reikwijdte
+##### Artikel 3.13. Reikwijdte
 
 1. Deze paragraaf is uitsluitend van toepassing op subsidies, niet zijnde subsidies als bedoeld in [hoofdstuk 3 van de Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&hoofdstuk=3), die de minister voor de jaren 2025 tot en met 2028 op grond van [artikel 4a van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4a) verstrekt aan instellingen met een wettelijke taak.
 
@@ -215,7 +241,7 @@ Indien na uitvoering van de taak, bedoeld in [artikel 2.8 van de Erfgoedwet](htt
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3.14. Ambtshalve subsidieverlening
+##### Artikel 3.14. Ambtshalve subsidieverlening
 
 1. De minister verleent voor 1 oktober 2024 ambtshalve subsidie voor publieksactiviteiten en andere activiteiten – niet behorende tot beheer van de collectie in de zin van de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521) – aan instellingen met een wettelijke taak, die als kernactiviteit het beheer van een collectie van cultureel erfgoed hebben.
 
@@ -239,11 +265,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2.1. Bewaaromstandigheden
+##### Artikel 2.1. Bewaaromstandigheden
 
 Een beheerder zorgt dat museale cultuurgoederen van de Staat zich bevinden in voor de desbetreffende cultuurgoederen passende bewaaromstandigheden.
 
-#### Artikel 2.2. Registratie en administratie
+##### Artikel 2.2. Registratie en administratie
 
 1. Een beheerder registreert museale cultuurgoederen van de Staat op zodanige wijze dat uit de registratie van de beheerder de actuele juridische status, standplaats en staat van de cultuurgoederen blijkt en dat de cultuurgoederen kunnen worden geïdentificeerd.
 
@@ -257,7 +283,7 @@ Een beheerder zorgt dat museale cultuurgoederen van de Staat zich bevinden in vo
 
 4. Een beheerder bewaart de administratie van de museale cultuurgoederen van de Staat op zodanige wijze dat de administratie duurzaam toegankelijk is.
 
-#### Artikel 2.3. Schade en restauratie
+##### Artikel 2.3. Schade en restauratie
 
 1. Een beheerder houdt de schade aan een museaal cultuurgoed van de Staat in zijn administratie bij en meldt schade onverwijld aan de inspecteur.
 
@@ -265,13 +291,13 @@ Een beheerder zorgt dat museale cultuurgoederen van de Staat zich bevinden in vo
 
 3. De minister kan een beheerder aanwijzingen geven over de restauratie van een museaal cultuurgoed van de Staat.
 
-#### Artikel 2.4. De Minister van OCW; waardering en advies
+##### Artikel 2.4. De Minister van OCW; waardering en advies
 
 1. De minister stelt desgevraagd of uit eigen beweging vast of een roerende zaak waarvan de Staat eigenaar is of waarvan het beheer door een derde aan de Staat is toevertrouwd een museaal cultuurgoed van de Staat is.
 
 2. De minister adviseert desgevraagd of uit eigen beweging over het beheer van museale cultuurgoederen van de Staat, zowel in algemene zin als ten aanzien van een specifiek museaal cultuurgoed.
 
-#### Artikel 2.5. Schade aan derden en aansprakelijkstelling
+##### Artikel 2.5. Schade aan derden en aansprakelijkstelling
 
 1. De minister wie het aangaat of een college van staat beheert de museale cultuurgoederen van de Staat op zodanige wijze dat het risico van schade aan derden of van aansprakelijkstelling van de Staat door derden zo klein mogelijk wordt gehouden.
 
@@ -283,7 +309,7 @@ Een beheerder zorgt dat museale cultuurgoederen van de Staat zich bevinden in vo
 
 5. De gegevens, bedoeld in het vierde lid, worden desgevraagd aan de minister overgelegd.
 
-#### Artikel 2.6. Verzekering
+##### Artikel 2.6. Verzekering
 
 1. De minister wie het aangaat of een college van staat verzekert de risico’s van schade voor of aansprakelijkheid van de Staat, bedoeld in [artikel 2.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=2&paragraaf=1&artikel=2.5&z=2025-10-01&g=2025-10-01), om redenen van doelmatigheid in het algemeen niet.
 
@@ -305,7 +331,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3.4a. Aanvullend bedrag loon-/prijspeil
+##### Artikel 3.4a. Aanvullend bedrag loon-/prijspeil
 
 1. Aan de bedragen van de subsidies die worden verleend op grond van dit hoofdstuk kan, al dan niet in afwijking van de desbetreffende subsidieplafonds, een bedrag worden toegevoegd, rekening houdend met de ontwikkeling van het prijspeil en met de ontwikkeling van de kosten in de arbeidsvoorwaarden voorafgaand aan en tijdens het jaar waarop de subsidieverlening betrekking heeft.
 
@@ -315,7 +341,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3.7a. Bestemmingsfonds Collectiebeheer OCW
+##### Artikel 3.7a. Bestemmingsfonds Collectiebeheer OCW
 
 1. Indien het resultaat van het boekjaar, in voorkomend geval na toepassing van [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&artikel=3.13&z=2019-06-25&g=2019-06-25), positief is, vindt toevoeging plaats aan het bestemmingsfonds Collectiebeheer OCW.
 
@@ -327,7 +353,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 5. De minister kan geheel of gedeeltelijk ontheffing verlenen van het eerste of tweede lid, alsmede van de voorschriften, bedoeld in het derde lid.
 
-#### Artikel 4.8. Indieningstermijn verantwoordingsbescheiden over 2017
+##### Artikel 4.8. Indieningstermijn verantwoordingsbescheiden over 2017
 
 Vervallen
 
@@ -339,7 +365,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1.2. Grondslag
+##### Artikel 1.2. Grondslag
 
 Deze regeling berust mede op [artikel 4a van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4a) en de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027600&artikel=3) en [4 van het Besluit op het specifiek cultuurbeleid.](https://wetten.overheid.nl/jci1.3:c:BWBR0027600&artikel=4)
 
@@ -347,7 +373,7 @@ Deze regeling berust mede op [artikel 4a van de Wet op het specifiek cultuurbele
 
 #### § 2. Specifieke bepalingen voor instellingen met een wettelijke taak
 
-#### Artikel 2.7. Planmatig beleid cultuurgoederen
+##### Artikel 2.7. Planmatig beleid cultuurgoederen
 
 Een instelling met een wettelijke taak baseert het planmatig beleid voor het beheer van de cultuurgoederen of verzamelingen op een actuele analyse van de stand van het beheer en beschrijft in het beleid ten minste:
 
@@ -361,7 +387,7 @@ Een instelling met een wettelijke taak baseert het planmatig beleid voor het beh
 
 #### § 2. Subsidie publieksactiviteiten en andere activiteiten op grond van [artikel 4a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4a) voor de periode 2025–2028
 
-#### Artikel 3.15. Subsidieverplichting: in te dienen documenten en toepassing codes
+##### Artikel 3.15. Subsidieverplichting: in te dienen documenten en toepassing codes
 
 1. De subsidieontvanger dient uiterlijk op 1 november 2024 een activiteitenplan en een begroting in.
 
@@ -385,11 +411,11 @@ Een instelling met een wettelijke taak baseert het planmatig beleid voor het beh
 
 5. Indien uitvoering van de gesubsidieerde activiteiten aan de hand van de ingediende documenten, bedoeld in het eerste lid, naar het oordeel van de minister bezwaarlijk is, kan hij de subsidieontvanger aanwijzingen geven tot wijziging van die documenten.
 
-#### Artikel 3.16. Wijze van indiening
+##### Artikel 3.16. Wijze van indiening
 
 De indiening van de documenten, bedoeld in [artikel 3.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&paragraaf=2&artikel=3.15&z=2025-10-01&g=2025-10-01), geschiedt op een door de minister te bepalen elektronische wijze.
 
-#### Artikel 3.17. Hoogte subsidiebedragen
+##### Artikel 3.17. Hoogte subsidiebedragen
 
 1. De subsidie,2Inclusief loon- en prijsbijstelling 2023. bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&paragraaf=2&artikel=3.14&z=2025-10-01&g=2025-10-01), bedraagt voor de volgende instellingen met een wettelijke taak jaarlijks:
 
@@ -453,13 +479,13 @@ De indiening van de documenten, bedoeld in [artikel 3.15, eerste lid](https://we
 | --- | --- |
 | Stichting Het Rijksmuseum | € 226.503 |
 
-#### Artikel 3.18. Besteding resterende middelen
+##### Artikel 3.18. Besteding resterende middelen
 
 Indien de subsidie na uitvoering van de activiteiten zoals opgenomen in de begroting voor het desbetreffende jaar niet volledig is aangewend, dan kan de instelling de resterende middelen besteden ten behoeve van de taak waarmee zij op grond van [artikel 2.8 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=2.8) is belast.
 
 #### § 3. Visitatie
 
-#### Artikel 3.19. Visitatie
+##### Artikel 3.19. Visitatie
 
 1. Een instelling met een wettelijke taak verleent haar medewerking aan een eenmaal per vier jaar te houden visitatie, die ten doel heeft de wijze waarop die instelling haar taken en publieksactiviteiten verricht te beoordelen.
 

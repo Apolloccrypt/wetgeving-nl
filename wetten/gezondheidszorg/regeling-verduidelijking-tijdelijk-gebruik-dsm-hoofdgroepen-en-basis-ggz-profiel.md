@@ -1,20 +1,46 @@
 ---
-title: "Regeling verduidelijking tijdelijk gebruik DSM-hoofdgroepen en basis ggz-profielen"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 31 maart 2025, kenmerk 4080664-1080698-Z, houdende verduidelijking van de registratie- en aanleververplichting van de DSM-hoofdgroepen en basis ggz-basisprofielen door aanbieders en zorgverzekeraars ten behoeve van de risicoverevening (Regeling verduidelijking tijdelijk gebruik DSM-hoofdgroepen en basis ggz-profielen)"
 identifier: "BWBR0050915"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2025-04-03
-laatste_update: 2025-04-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050915"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-04-03"
+last_updated: "2025-04-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050915"
+soort: "ministeriele-regeling"
+stam_id: "17397193"
+version_id: "30671382"
+internal_id: "C43970401"
+label_id: "17300434"
+dtd_version: "2.0"
+original_entry_into_force: "2025-04-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050915/2025-04-03/0"
+intitule_bron: "Stcrt.2025-11955"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-03-31"
+intitule_published: "2025-04-02"
+intitule_in_force: "2025-04-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-11955"
+original_signed_date: "2025-03-31"
+original_published_date: "2025-04-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-11955"
+entry_into_force_date: "2025-04-03"
+jci_1_3: "jci1.3:c:BWBR0050915&z=2025-04-03&g=2025-04-03"
+jci_1_0: "1.0:c:BWBR0050915&g=2025-04-03"
+citeertitel_status: "officieel"
+short_title: "Regeling verduidelijking tijdelijk gebruik DSM-hoofdgroepen en basis ggz-profielen"
+signed_date: "2025-03-31"
+entry_into_force: "2025-04-03"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 31 maart 2025, kenmerk 4080664-1080698-Z, houdende verduidelijking van de registratie- en aanleververplichting van de DSM-hoofdgroepen en basis ggz-basisprofielen door aanbieders en zorgverzekeraars ten behoeve van de risicoverevening (Regeling verduidelijking tijdelijk gebruik DSM-hoofdgroepen en basis ggz-profielen)
 
 Gelet op [artikel 87, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=87), en [artikel 89, negende lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=89);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **wet:** [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Als persoonsgegevens, waaronder gegevens over gezondheid, die voor een zorgverzekeraar noodzakelijk zijn voor de uitvoering van de zorgverzekering of van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) als bedoeld in [artikel 87, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=87) worden aangemerkt de DSM-5 classificatie, de DSM-hoofdgroep en het basis ggz-profiel, waarbij de gegevens betreffende de DSM-5 classificatie enkel op verzoek van de zorgverzekeraar worden verstrekt indien deze noodzakelijk zijn voor de materiële controle.
 
@@ -52,11 +78,11 @@ In deze regeling wordt verstaan onder:
 
 5. Een zorgaanbieder verstrekt de in het eerste lid bedoelde gegevens niet indien de verzekerde hiertegen vooraf schriftelijk zijn bezwaren heeft geuit, of deze redelijkerwijs niet beschikbaar zijn.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling wordt aangehaald als: Regeling verduidelijking tijdelijk gebruik DSM-hoofdgroepen en basis ggz-profielen.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt op 1 januari 2028.
 

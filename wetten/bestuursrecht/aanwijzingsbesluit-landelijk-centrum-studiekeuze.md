@@ -1,20 +1,46 @@
 ---
-title: "Aanwijzingsbesluit Landelijk Centrum Studiekeuze"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 17 maart 2020, nr. 23680942 houdende de aanwijzing van een rechtspersoon als bedoeld in artikel 7.15a, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek (Aanwijzingsbesluit Stichting Studiekeuze123)"
 identifier: "BWBR0043412"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-07-10
-laatste_update: 2024-07-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043412"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-07-10"
+last_updated: "2024-07-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043412"
+soort: "ministeriele-regeling"
+stam_id: "15414663"
+version_id: "26643432"
+internal_id: "C37794771"
+label_id: "15358544"
+dtd_version: "2.0"
+original_entry_into_force: "2020-04-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043412/2024-07-10/0"
+intitule_bron: "Stcrt.2020-22745"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-03-17"
+intitule_published: "2020-04-24"
+intitule_in_force: "2020-04-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-22745"
+original_signed_date: "2020-03-17"
+original_published_date: "2020-04-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-22745"
+entry_into_force_date: "2020-04-25"
+jci_1_3: "jci1.3:c:BWBR0043412&z=2024-07-10&g=2024-07-10"
+jci_1_0: "1.0:c:BWBR0043412&g=2024-07-10"
+citeertitel_status: "officieel"
+short_title: "Aanwijzingsbesluit Landelijk Centrum Studiekeuze"
+signed_date: "2020-03-17"
+entry_into_force: "2020-04-25"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 17 maart 2020, nr. 23680942 houdende de aanwijzing van een rechtspersoon als bedoeld in artikel 7.15a, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek (Aanwijzingsbesluit Stichting Studiekeuze123)
 
 Gelet op [artikel 7.15a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.15a);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -24,11 +50,11 @@ In dit besluit wordt verstaan onder:
 
 - **Wet:** [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682).
 
-#### Artikel 2. Aanwijzing
+##### Artikel 2. Aanwijzing
 
 Als de rechtspersoon, bedoeld in [artikel 7.15a, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.15a), wordt aangewezen de Stichting Landelijk Centrum Studiekeuze die is belast met het vervullen van een niet-economische dienst van algemeen belang op het terrein van het hoger onderwijs. Stichting Landelijk Centrum Studiekeuze wordt belast met de uitoefening van de taken, bedoeld in artikel 7.15a, eerste en tweede lid, van de wet.
 
-#### Artikel 3. Verplichtingen
+##### Artikel 3. Verplichtingen
 
 1. Stichting Landelijk Centrum Studiekeuze draagt in verband met de uitoefening van haar taken zorg voor:
 
@@ -54,7 +80,7 @@ Als de rechtspersoon, bedoeld in [artikel 7.15a, eerste lid van de wet](https://
 
 - e. de wijze van toezicht in de statuten van de Stichting Landelijk Centrum Studiekeuze te omschrijven.
 
-#### Artikel 4. Toezicht en verantwoording
+##### Artikel 4. Toezicht en verantwoording
 
 1. Landelijk Centrum Studiekeuze is gehouden het Ministerie van Onderwijs, Cultuur en Wetenschap vooraf schriftelijk te consulteren over te nemen besluiten die van wezenlijke invloed zijn op de uitoefening door de rechtspersoon van haar wettelijke taken.
 
@@ -66,25 +92,25 @@ Als de rechtspersoon, bedoeld in [artikel 7.15a, eerste lid van de wet](https://
 
 5. Onze Minister kan, indien het daartoe gronden aanwezig acht, de boekhouding van Landelijk Centrum Studiekeuze laten onderzoeken door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De kosten van dit onderzoek komen voor rekening van de rechtspersoon.
 
-#### Artikel 6. Archiefbescheiden
+##### Artikel 6. Archiefbescheiden
 
 Stichting Landelijk Centrum Studiekeuze draagt op verzoek van de Minister zo spoedig mogelijk na beëindiging van haar werkzaamheden in het kader van de uitvoering van haar taken of, zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 april 2020. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 1 april 2020, treedt het in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin dit besluit wordt geplaatst.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Dit besluit wordt aangehaald als: Aanwijzingsbesluit Landelijk Centrum Studiekeuze.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Aanwijzingsbesluit Studiekeuze123.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5. Intrekking
+##### Artikel 5. Intrekking
 
 1. Naast de gronden tot intrekking, bedoeld in [artikel 7.15a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.15a), kan Onze Minister de aanwijzing van Stichting Landelijk Centrum Studiekeuze in ieder geval intrekken indien Stichting Landelijk Centrum Studiekeuze de algemene verplichtingen en voorwaarden omtrent toezicht en verantwoording, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043412&artikel=3&z=2024-07-10&g=2024-07-10) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043412&artikel=4&z=2024-07-10&g=2024-07-10) van dit besluit, niet naar behoren nakomt. Indien dit zich voordoet, zal Onze Minister in de eerste plaats een waarschuwing geven. Indien deze waarschuwing niet of in onvoldoende mate binnen 4 weken wordt opgevolgd, kan Onze Minister besluiten de aanwijzing in te trekken.
 

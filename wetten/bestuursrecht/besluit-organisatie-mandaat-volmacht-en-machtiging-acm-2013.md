@@ -1,13 +1,39 @@
 ---
-title: "Besluit organisatie, mandaat, volmacht en machtiging ACM 2013"
+title: "Besluit van de Autoriteit Consument en Markt van 2 april 2013, ACM/DJZ/2013/200833, houdende regels inzake organisatie, mandaat, volmacht en machtiging van de Autoriteit Consument en Markt (Besluit organisatie, mandaat, volmacht en machtiging ACM 2013)"
 identifier: "BWBR0033508"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-12-25
-laatste_update: 2025-12-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033508"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-12-25"
+last_updated: "2025-12-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033508"
+soort: "zbo"
+stam_id: "12279793"
+version_id: "29168202"
+internal_id: "C41439801"
+label_id: "12251434"
+dtd_version: "2.0"
+original_entry_into_force: "2022-12-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033508/2025-12-25/0"
+intitule_bron: "Stcrt.2013-9697"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-04-02"
+intitule_published: "2013-04-08"
+intitule_in_force: "2013-04-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-35196"
+original_signed_date: "2022-12-15"
+original_published_date: "2022-12-30"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-35196"
+entry_into_force_date: "2022-12-15"
+jci_1_3: "jci1.3:c:BWBR0033508&z=2025-12-25&g=2025-12-25"
+jci_1_0: "1.0:c:BWBR0033508&g=2025-12-25"
+citeertitel_status: "officieel"
+short_title: "Besluit organisatie, mandaat, volmacht en machtiging ACM 2013"
+signed_date: "2022-12-15"
+entry_into_force: "2022-12-15"
 ---
-
 # Besluit van de Autoriteit Consument en Markt van 2 april 2013, ACM/DJZ/2013/200833, houdende regels inzake organisatie, mandaat, volmacht en machtiging van de Autoriteit Consument en Markt (Besluit organisatie, mandaat, volmacht en machtiging ACM 2013)
 
 Gezien de goedkeuring van de Minister van Economische Zaken;
@@ -18,7 +44,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -80,7 +106,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Organisatie
 
-#### Artikel 2
+##### Artikel 2
 
 1. De ACM geeft leiding aan de ACM-organisatie.
 
@@ -116,15 +142,15 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 3. Werkterrein
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 Tot het werkterrein van de ACM behoren het algemeen mededingingstoezicht, sectorspecifieke markttoezicht en consumentenbescherming.
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 Tot het werkterrein van de afdeling Bestuur, Beleid en Communicatie behoort het adviseren van de ACM bij de dagelijkse werkzaamheden en bij het initiëren en uitvoeren van de strategische koers van de ACM-organisatie. Hiervan maken internationale werkzaamheden en interne en externe communicatie deel uit.
 
-#### Artikel 3.3
+##### Artikel 3.3
 
 Tot het werkterrein van de directie Consumenten behoren, voor zover opgedragen aan de ACM:
 
@@ -140,7 +166,7 @@ Tot het werkterrein van de directie Consumenten behoren, voor zover opgedragen a
 
 - 2. De uitvoering van en het toezicht op de naleving van het bepaalde bij of krachtens de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) voor zover deze overwegend op consumentenbelangen ziet.
 
-#### Artikel 3.4
+##### Artikel 3.4
 
 Tot het werkterrein van de directie Toezicht energie behoren, voor zover opgedragen aan de ACM:
 
@@ -174,7 +200,7 @@ Tot het werkterrein van de directie Toezicht energie behoren, voor zover opgedra
 
 - 2. binnen het kader van de uitvoering van en het toezicht op de naleving van de [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691), de behandeling van aangelegenheden inzake het misbruik van economische machtsposities in de energie- en drinkwatersector.
 
-#### Artikel 3.5
+##### Artikel 3.5
 
 Tot het werkterrein van de directie Telecom, Vervoer en Post behoren, voor zover opgedragen aan de ACM:
 
@@ -214,7 +240,7 @@ Tot het werkterrein van de directie Telecom, Vervoer en Post behoren, voor zover
 
 - 3. de behandeling van beslissingen op bezwaarschriften, waaronder het nemen van beslissingen op bezwaarschriften, voor zover bezwaar wordt gemaakt tegen factuurbesluiten in het kader van uitvoering bedoeld in het eerste en tweede lid.
 
-#### Artikel 3.6
+##### Artikel 3.6
 
 Tot het werkterrein van de directie Mededinging behoren, voor zover opgedragen aan de ACM:
 
@@ -222,7 +248,7 @@ Tot het werkterrein van de directie Mededinging behoren, voor zover opgedragen a
 
 - 2. het uitbrengen van rapportages op grond van de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028).
 
-#### Artikel 3.7
+##### Artikel 3.7
 
 1. Tot het werkterrein van de directie Juridische Zaken behoort in het kader van de uitvoering van en het toezicht op de bij of krachtens de wet aan de ACM opgedragen taken:
 
@@ -236,17 +262,17 @@ Tot het werkterrein van de directie Mededinging behoren, voor zover opgedragen a
 
 2. De directie Juridische Zaken treedt op als juridisch adviseur en verricht uit dien hoofde juridische werkzaamheden van algemene aard ten behoeve van de ACM en de ACM-organisatie.
 
-#### Artikel 3.8
+##### Artikel 3.8
 
 Tot het werkterrein van de directie Bedrijfsvoering behoren taken van respectievelijk personele en organisatorische, financiële en facilitaire aard ten behoeve van het goed functioneren van de ACM-organisatie, alsmede het nemen van besluiten bij of krachtens [verordening 2016/679](32579R2016).
 
-#### Artikel 3.9
+##### Artikel 3.9
 
 Tot het werkterrein van het Economisch Bureau behoren taken op het gebied van de economische expertisefunctie, de onderzoeksfunctie en de strategische functie. Hiertoe behoren zaaksgebonden en algemeen economisch onderzoek en het adviseren van de ACM.
 
 ### Hoofdstuk 4. Publiekrechtelijke rechtshandelingen
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 Bij of krachtens dit besluit verleend mandaat, volmacht en machtiging heeft geen betrekking op:
 
@@ -266,7 +292,7 @@ Bij of krachtens dit besluit verleend mandaat, volmacht en machtiging heeft geen
 
 - h. het vaststellen van regelgeving.
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 Aan de leden van de ACM wordt in afwijking van [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=4&artikel=4.1&z=2025-12-25&g=2025-12-25), ieder voor zich, mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die tot het gehele werkterrein van de ACM-organisatie behoren, indien:
 
@@ -274,11 +300,11 @@ Aan de leden van de ACM wordt in afwijking van [artikel 4.1](https://wetten.over
 
 - b. het de schriftelijke afdoening betreft en de ondertekening van stukken die voortvloeien uit door de ACM genomen besluiten.
 
-#### Artikel 4.3
+##### Artikel 4.3
 
 Aan de directeuren van de in [artikel 2, tweede lid, onderdeel a tot en met h, alsmede onderdeel j,](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2025-12-25&g=2025-12-25) genoemde organisatieonderdelen en aan de Chief Economist wordt, ieder voor zich, met inachtneming van het bepaalde in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=4&artikel=4.1&z=2025-12-25&g=2025-12-25), mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die tot het werkterrein van hun organisatieonderdeel behoren.
 
-#### Artikel 4.4
+##### Artikel 4.4
 
 1. Aan de teammanagers werkzaam binnen de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2025-12-25&g=2025-12-25), genoemde organisatieonderdelen wordt, ieder voor zich, met inachtneming van het bepaalde in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=4&artikel=4.1&z=2025-12-25&g=2025-12-25), mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die tot het werkterrein van hun organisatieonderdeel behoren.
 
@@ -288,51 +314,51 @@ Aan de directeuren van de in [artikel 2, tweede lid, onderdeel a tot en met h, a
 
 4. Aan de medewerkers verwerken en behandelen en de medewerkers toezicht bij de directie Telecom, Vervoer en Post wordt, ieder voor zich, mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die verband houden met de toekenning, reservering of intrekking van registraties op grond van [artikel 2.1, vijfde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=2.1), [artikel 42, derde lid, van de Postwet 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=42) en artikel 4 van [verordening 2018/644](32544R2018).
 
-#### Artikel 4.5
+##### Artikel 4.5
 
 Aan de directeuren van de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2025-12-25&g=2025-12-25), genoemde organisatieonderdelen, de daarbij werkzame teammanagers en de Chief Economist wordt, ieder voor zich, mandaat en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die verband houden met [titel 4.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.4) en het openbaar maken van besluiten en andere documenten.
 
-#### Artikel 4.6
+##### Artikel 4.6
 
 Aan de voorzitter van de ACM wordt machtiging verleend tot het ondertekenen van de legitimatiebewijzen van respectievelijk de toezichthoudende ambtenaren, toezichthouders, personen en functionarissen als bedoeld in de [artikelen 2 tot en met 6 van het Besluit aanwijzing toezichthouders ACM 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0047095&artikel=2).
 
-#### Artikel 4.7
+##### Artikel 4.7
 
 Vervallen
 
-#### Artikel 4.8
+##### Artikel 4.8
 
 Aan de directeur van de directie Juridische Zaken wordt machtiging verleend om beslissingen te nemen inzake het optreden als amicus curiae.
 
-#### Artikel 4.9
+##### Artikel 4.9
 
 Aan de directeur van de directie Juridische Zaken en de onder hem ressorterende medewerkers, met uitzondering van secretariële en ondersteunende medewerkers, wordt, ieder voor zich, machtiging verleend de ACM te vertegenwoordigen bij gerechtelijke procedures. Tevens zijn zij gemachtigd om voor de behandeling van een geschil één of meerdere medewerkers werkzaam bij de in [artikel 2, tweede lid, onderdeel a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2025-12-25&g=2025-12-25), genoemde organisatieonderdelen, met uitzondering van secretariële en ondersteunende medewerkers, als medegemachtigde te introduceren.
 
-#### Artikel 4.10
+##### Artikel 4.10
 
 Vervallen
 
-#### Artikel 4.11
+##### Artikel 4.11
 
 Vervallen
 
 ### Hoofdstuk 5. Privaatrechtelijke rechtshandelingen
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 Aan de directeuren van de in [artikel 2, tweede lid, onderdeel a tot en met e, en onderdeel g tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2025-12-25&g=2025-12-25), genoemde organisatieonderdelen, de daarbij werkzame teammanagers, de Chief Data Officer en de Chief Economist wordt, ieder voor zich, op hun werkterrein en binnen het door de ACM vastgestelde werkplan en het daartoe door de ACM vastgestelde budget, volmacht en machtiging verleend voor het aangaan van financiële verplichtingen met betrekking tot beleidsonderzoek en de inhuur van specialisten, voor zover deze het bedrag van € 134.000 exclusief BTW per verplichting niet te boven gaan.
 
-#### Artikel 5.2
+##### Artikel 5.2
 
 Aan de directeur van de directie Juridische Zaken en de onder hem ressorterende teammanagers wordt, ieder voor zich, op hun werkterrein en binnen het door de ACM vastgestelde werkplan en het daartoe door de ACM vastgestelde budget, volmacht en machtiging verleend voor het aangaan van financiële verplichtingen met betrekking tot juridisch advies en procesvertegenwoordiging, en de inhuur van specialisten, tolken en verslagleggers, voor zover deze het bedrag van € 134.000 exclusief BTW per verplichting niet te boven gaan.
 
-#### Artikel 5.3
+##### Artikel 5.3
 
 Aan de directeur van de directie Bedrijfsvoering en de onder hem ressorterende teammanagers wordt, ieder voor zich, binnen het door de ACM vastgestelde werkplan en het daartoe door de ACM vastgestelde budget, volmacht en machtiging verleend voor het aangaan van financiële verplichtingen met betrekking tot hun werkterrein, voor zover deze het bedrag van € 134.000 exclusief BTW per verplichting niet te boven gaan.
 
 ### Hoofdstuk 5. Privaatrechtelijke rechtshandelingen
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 1. Aan de directeuren van de in [artikel 2, tweede lid, onderdeel a tot en met h alsmede onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2025-12-25&g=2025-12-25), genoemde organisatieonderdelen, de Chief Data Officer en aan de Chief Economist wordt, ieder voor zich, voor de onder hen ressorterende medewerkers voor wie salarisschaal 15 of hoger van paragraaf 6.3 van de CAO Rijk geldt, volmacht en machtiging verleend voor het nemen van beslissingen inhoudende:
 
@@ -358,7 +384,7 @@ Aan de directeur van de directie Bedrijfsvoering en de onder hem ressorterende t
 
 3. De uit het eerste lid voor de directeuren en de Chief Economist voortvloeiende bevoegdheden voor het accorderen van buitenlandse dienstreizen gaan bij zijn afwezigheid over op een andere directeur of de Chief Economist.
 
-#### Artikel 6.2
+##### Artikel 6.2
 
 1. Aan de teammanagers van de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2025-12-25&g=2025-12-25), genoemde organisatieonderdelen wordt, ieder voor zich, voor de onder hen ressorterende medewerkers voor wie salarisschaal 14 of lager van paragraaf 6.3 van de CAO Rijk geldt, volmacht en machtiging verleend voor het nemen van beslissingen inhoudende:
 
@@ -372,21 +398,21 @@ Aan de directeur van de directie Bedrijfsvoering en de onder hem ressorterende t
 
 ### Hoofdstuk 4a. Functionarissen
 
-#### Artikel 7.1
+##### Artikel 7.1
 
 Het [Besluit organisatie, mandaat, volmacht en machtiging NMa 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0033310) (Stcrt., nr. 14819), het [Mandaatregister OPTA 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033290) (Stcrt., nr. 312) en het [Besluit organisatie, mandaat, volmacht en machtiging Consumentenautoriteit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0033545) (Stcrt., nr. 76) worden ingetrokken.
 
-#### Artikel 7.2
+##### Artikel 7.2
 
 Dit besluit treedt in werking met ingang van de dag na de datum van publicatie in de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 april 2013.
 
-#### Artikel 7.3
+##### Artikel 7.3
 
 Dit besluit wordt aangehaald als: Besluit organisatie, mandaat, volmacht en machtiging ACM 2013.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-#### Artikel 3.10
+##### Artikel 3.10
 
 Tot het werkterrein van elke directie behoort ook het behandelen van verzoeken om openbaarmaking van besluiten en andere documenten.
 
@@ -400,7 +426,7 @@ Tot het werkterrein van elke directie behoort ook het behandelen van verzoeken o
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-#### Artikel 3.9a
+##### Artikel 3.9a
 
 Tot het werkterrein van de directie Zorg behoren, voor zover opgedragen aan de ACM, de uitvoering en toezicht op de naleving van het bepaalde bij of krachtens [verordening 1/2003](32003R0001), [verordening 139/2004](32004R0139) en de [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691), voor zover het in overwegende mate de zorgsector betreft.
 
@@ -414,7 +440,7 @@ Tot het werkterrein van de directie Zorg behoren, voor zover opgedragen aan de A
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-#### Artikel 4.12
+##### Artikel 4.12
 
 Vervallen
 
@@ -424,7 +450,7 @@ Vervallen
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-#### Artikel 4.13
+##### Artikel 4.13
 
 Vervallen
 
@@ -432,7 +458,7 @@ Vervallen
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-#### Artikel 4.14
+##### Artikel 4.14
 
 Vervallen
 
@@ -440,19 +466,19 @@ Vervallen
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-#### Artikel 4a.1
+##### Artikel 4a.1
 
 1. Er is tenminste één clementiefunctionaris die belast is met de toepassing van het [Besluit clementie](https://wetten.overheid.nl/jci1.3:c:BWBR0044822).
 
 2. Aan de clementiefunctionaris wordt mandaat, volmacht en machtiging verleend voor het voorbereiden en het doen van (voorwaardelijke) clementietoezeggingen als bedoeld in [artikel 16 van het Besluit clementie](https://wetten.overheid.nl/jci1.3:c:BWBR0044822&artikel=16).
 
-#### Artikel 4a.2
+##### Artikel 4a.2
 
 1. Er is een klachtenfunctionaris die klachten behandelt als bedoeld in [artikel 9.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1).
 
 2. Aan de klachtenfunctionaris wordt mandaat, volmacht en machtiging verleend voor handelingen in het kader van het behandelen van klachten als bedoeld in [titel 9.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.1), met uitzondering van het toepassen van [artikel 9:12, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:12).
 
-#### Artikel 4a.3
+##### Artikel 4a.3
 
 1. Er is tenminste één compliance officer als bedoeld in paragraaf 13.1 van het Personeelsreglement EZK.
 
@@ -466,25 +492,25 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 3. De compliance officer vervult de rol van onafhankelijk functionaris bij wie het vermoeden van een misstand kan worden gemeld, zoals bedoeld in [artikel 2, tweede lid, onderdeel d, van de Wet bescherming klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=2).
 
-#### Artikel 4a.4
+##### Artikel 4a.4
 
 1. Er is tenminste één functionaris verschoningsrecht als bedoeld in [artikel 2 van de ACM werkwijze geheimhoudingsprivilege advocaat 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034801&artikel=2).
 
 2. De functionaris verschoningsrecht voert de aan hem toegekende taken op grond van de [ACM werkwijze geheimhoudingsprivilege advocaat 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034801) onafhankelijk uit en legt over zijn werkzaamheden, zonder in te gaan op inhoudelijke afwegingen, rechtstreeks verantwoording af aan de ACM.
 
-#### Artikel 4a.5
+##### Artikel 4a.5
 
 1. Er is tenminste één machtigingsbeheerder e-Herkenningsmiddelen.
 
 2. Aan de machtigingsbeheerder e-Herkenningsmiddelen wordt volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 5.000 per verplichting niet te boven gaat.
 
-#### Artikel 4a.6
+##### Artikel 4a.6
 
 1. Er is een Chief Data Officer die verantwoordelijkheid draagt voor de budgetuitgaven en P&O-aangelegenheden van het tijdelijke programma Taskforce Data & Algoritmen.
 
 2. Het tijdelijke programma Taskforce Data & Algoritmen valt onder rechtstreekse verantwoordelijkheid van de ACM.
 
-#### Artikel 4a.7
+##### Artikel 4a.7
 
 Vervallen
 
@@ -496,7 +522,7 @@ Vervallen
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-#### Artikel 3.11
+##### Artikel 3.11
 
 Tot het werkterrein van de in de [artikelen 3.3 tot en met 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=3&artikel=3.3&z=2025-12-25&g=2025-12-25) en [3.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=3&artikel=3.9a&z=2025-12-25&g=2025-12-25) genoemde directies behoort ook het op verzoek verstrekken van informatie over de procedure bij een melding, de ontvangst van een melding, het onderzoek naar aanleiding van een melding en het onderhouden van contact met een melder zoals bedoeld in respectievelijk [artikel 2g, eerste lid, onderdelen a, b, c en d, van de Wet bescherming klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=2g).
 
@@ -510,7 +536,7 @@ Tot het werkterrein van de in de [artikelen 3.3 tot en met 3.6](https://wetten.o
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-#### Artikel 3.9b
+##### Artikel 3.9b
 
 Tot het werkterrein van de directie i-Domein behoren werkzaamheden op het gebied van ICT en informatievoorziening ten behoeve van het goed functioneren van de ACM-organisatie.
 
@@ -518,7 +544,7 @@ Tot het werkterrein van de directie i-Domein behoren werkzaamheden op het gebied
 
 ### Hoofdstuk 5. Privaatrechtelijke rechtshandelingen
 
-#### Artikel 5.4
+##### Artikel 5.4
 
 Aan de directeur van de directie i-Domein en de onder hem ressorterende teammanagers wordt, ieder voor zich, binnen het door de ACM vastgestelde werkplan en het daartoe door de ACM vastgestelde budget, volmacht en machtiging verleend voor het aangaan van financiële verplichtingen met betrekking tot hun werkterrein, waaronder begrepen informatiebeheer en automatisering en de vergoeding van lidmaatschappen en telefoonkosten, voor zover deze het bedrag van € 134.000 exclusief BTW per verplichting niet te boven gaan.
 

@@ -1,13 +1,39 @@
 ---
-title: "Organisatie-, mandaat- en volmachtbesluit Rijksschoonmaakorganisatie 2023 (OMV RSO 2023)"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 29 januari 2024, nr. 2024-0000013768, houdende de inrichting van de Rijksschoonmaakorganisatie alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur van de Rijksschoonmaakorganisatie (Organisatie-, Mandaat- en Volmachtbesluit RSO)"
 identifier: "BWBR0049330"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-02-07
-laatste_update: 2024-02-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049330"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-02-07"
+last_updated: "2024-02-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049330"
+soort: "ministeriele-regeling"
+stam_id: "17023613"
+version_id: "29951362"
+internal_id: "C42933841"
+label_id: "16933414"
+dtd_version: "2.0"
+original_entry_into_force: "2024-02-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049330/2024-02-07/0"
+intitule_bron: "Stcrt.2024-3427"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-01-29"
+intitule_published: "2024-02-06"
+intitule_in_force: "2024-02-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-3427"
+original_signed_date: "2024-01-29"
+original_published_date: "2024-02-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-3427"
+entry_into_force_date: "2024-02-07"
+jci_1_3: "jci1.3:c:BWBR0049330&z=2024-02-07&g=2024-02-07"
+jci_1_0: "1.0:c:BWBR0049330&g=2024-02-07"
+citeertitel_status: "redactioneel"
+short_title: "Organisatie-, mandaat- en volmachtbesluit Rijksschoonmaakorganisatie 2023 (OMV RSO 2023)"
+signed_date: "2024-01-29"
+entry_into_force: "2024-02-07"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 29 januari 2024, nr. 2024-0000013768, houdende de inrichting van de Rijksschoonmaakorganisatie alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur van de Rijksschoonmaakorganisatie (Organisatie-, Mandaat- en Volmachtbesluit RSO)
 
 Gelet op de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&artikel=3), [7, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&artikel=7) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&artikel=8), van het Organisatie-, Mandaat- en Volmachtbesluit plaatsvervangend Secretaris-Generaal 2009 SZW;
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -34,7 +60,7 @@ Besluit:
 
 #### § 2. Organisatie
 
-#### Artikel 2
+##### Artikel 2
 
 1. De directie bestaat uit de volgende afdelingen:
 
@@ -64,7 +90,7 @@ Besluit:
 
 #### § 3. Verantwoordelijkheden
 
-#### Artikel 3
+##### Artikel 3
 
 Elk van de **afdelingshoofden** is verantwoordelijk voor:
 
@@ -82,7 +108,7 @@ Elk van de **afdelingshoofden** is verantwoordelijk voor:
 
 - g. het afleggen van verantwoording aan de directeur over de hiervoor onder a tot en met f genoemde verantwoordelijkheden.
 
-#### Artikel 4
+##### Artikel 4
 
 Elk van de clustermanagers en dienstverleningsmanagers is verantwoordelijk voor:
 
@@ -98,7 +124,7 @@ Elk van de clustermanagers en dienstverleningsmanagers is verantwoordelijk voor:
 
 ### Afdeling Operatie
 
-#### Artikel 5
+##### Artikel 5
 
 Naast het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragraaf=3&artikel=3&z=2024-02-07&g=2024-02-07)gestelde, is het afdelingshoofd Operatie verantwoordelijk voor:
 
@@ -110,7 +136,7 @@ Naast het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragra
 
 - d. het mede vormgeven (samen met de directeur van de RSO) aan strategisch relatiemanagement met opdrachtgevers en leveranciers.
 
-#### Artikel 6
+##### Artikel 6
 
 Naast het in[artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragraaf=3&artikel=4&z=2024-02-07&g=2024-02-07) gestelde is de manager Dienstverlening verantwoordelijk voor:
 
@@ -122,7 +148,7 @@ Naast het in[artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragraa
 
 - d. verdere professionalisering van de schoonmaakdienstverlening.
 
-#### Artikel 7
+##### Artikel 7
 
 Naast het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragraaf=3&artikel=4&z=2024-02-07&g=2024-02-07) gestelde zijn de dienstverleningsmanagers verantwoordelijk voor:
 
@@ -134,7 +160,7 @@ Naast het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragra
 
 ### Afdeling Bedrijfsvoering & Bestuursondersteuning
 
-#### Artikel 8
+##### Artikel 8
 
 Naast het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragraaf=3&artikel=3&z=2024-02-07&g=2024-02-07) gestelde is het afdelingshoofd Bedrijfsvoering & Bestuursondersteuning verantwoordelijk voor:
 
@@ -152,7 +178,7 @@ Naast het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragra
 
 - g. het bestellen, accorderen, betaalbaar stellen en verzenden van uitgaande facturen en het beheer hierop.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Naast het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragraaf=3&artikel=4&z=2024-02-07&g=2024-02-07) gestelde is de manager Human Resources verantwoordelijk voor:
 
@@ -166,7 +192,7 @@ Naast het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragra
 
 - b. het afleggen van verantwoording aan de manager Human Resources over de onder a genoemde verantwoordelijkheden.
 
-#### Artikel 10
+##### Artikel 10
 
 Naast het onder [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragraaf=3&artikel=4&z=2024-02-07&g=2024-02-07) gestelde is de manager Financiën, Facilitair & Inkoop verantwoordelijk voor:
 
@@ -174,7 +200,7 @@ Naast het onder [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&para
 
 - b. toepassing van rijksbreed beleid, inclusief het nemen van besluiten binnen het gestelde financiële mandaat en het eventueel opstellen van nadere kaders, processen of uitvoeringsbeleid specifiek ten aanzien van financieel beheer, contractmanagement en inkoop, alsook de facilitaire administratie op het gebied van vervoer en ICT-middelen en -systemen.
 
-#### Artikel 11
+##### Artikel 11
 
 Naast het onder [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragraaf=3&artikel=4&z=2024-02-07&g=2024-02-07) gestelde is de manager Planning & Control verantwoordelijk voor:
 
@@ -186,7 +212,7 @@ Naast het onder [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&para
 
 #### § 4. Bevoegdheden
 
-#### Artikel 12
+##### Artikel 12
 
 1. Aan de afdelingshoofden, clustermanagers en dienstverleningsmanagers wordt volmacht en machtiging verleend met betrekking tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden van de onder elk van hen ressorterende functionarissen, met inbegrip van de uitvoering van het arbeidsomstandigheden- en ziekteverzuimbeleid, voor zover dit niet is voorbehouden aan de secretaris-generaal, dan wel de plaatsvervangend secretaris-generaal.
 
@@ -224,7 +250,7 @@ Naast het onder [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&para
 
 5. Alle overige personele beslissingen voor zover deze niet staan beschreven in het eerste tot en met het vierde lid, zijn uitsluitend voorbehouden aan de directeur RSO.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De afdelingshoofden zijn gevolmachtigd tot het aangaan van overeenkomsten of bestellingen ter waarde van ten hoogste € 75.000,– inclusief btw per overeenkomst of bestelling betreffende:
 
@@ -236,7 +262,7 @@ Naast het onder [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&para
 
 2. In aanvulling op het eerste lid, zijn afdelingshoofden gevolmachtigd tot het afroepen van personele inhuur, zoals uitzendkrachten, binnen de door de directeur vastgestelde kaders en ter waarde van ten hoogste € 200.000,– inclusief btw. Dit bedrag is per overeenkomst per ingehuurde medewerker inclusief alle verlengingen voor de gehele duur van het contract.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De clustermanagers, dienstverleningsmanager en de manager HRO zijn gevolmachtigd tot het aangaan van overeenkomsten en bestellingen ter waarde van ten hoogste € 15.000,– inclusief btw per overeenkomst of bestelling betreffende:
 
@@ -252,7 +278,7 @@ Naast het onder [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&para
 
 - b. het doen van bestellingen met betrekking tot de schoonmaakdienstverlening binnen de door de afdelingsmanager Operatie vastgestelde (financiële) kaders.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door het afdelingshoofd Operatie.
 
@@ -280,7 +306,7 @@ Naast het onder [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&para
 
 #### § 5. Slotbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het[Organisatie-, mandaat- en volmachtbesluit Rijksschoonmaakorganisatie 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0043288) wordt ingetrokken.
 

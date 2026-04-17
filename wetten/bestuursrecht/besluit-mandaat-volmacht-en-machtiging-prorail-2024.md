@@ -1,13 +1,39 @@
 ---
-title: "Besluit mandaat, volmacht en machtiging ProRail 2024"
+title: "Besluit van de Staatssecretaris van Infrastructuur en Waterstaat van 24 april 2024, nr IENW/BSK-2024/93989, houdende regels inzake de verlening van mandaat, volmacht en machtiging aan ProRail B.V. voor de uitvoering van bevoegdheden op grond van de Spoorwegwet en de Omgevingswet (Besluit mandaat, volmacht en machtiging ProRail 2024)"
 identifier: "BWBR0049649"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-05-03
-laatste_update: 2024-05-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049649"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-05-03"
+last_updated: "2024-05-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049649"
+soort: "ministeriele-regeling"
+stam_id: "17090853"
+version_id: "30078522"
+internal_id: "C43102711"
+label_id: "16999644"
+dtd_version: "2.0"
+original_entry_into_force: "2024-05-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049649/2024-05-03/0"
+intitule_bron: "Stcrt.2024-12577"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-04-24"
+intitule_published: "2024-05-02"
+intitule_in_force: "2024-05-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-12577"
+original_signed_date: "2024-04-24"
+original_published_date: "2024-05-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-12577"
+entry_into_force_date: "2024-05-03"
+jci_1_3: "jci1.3:c:BWBR0049649&z=2024-05-03&g=2024-05-03"
+jci_1_0: "1.0:c:BWBR0049649&g=2024-05-03"
+citeertitel_status: "officieel"
+short_title: "Besluit mandaat, volmacht en machtiging ProRail 2024"
+signed_date: "2024-04-24"
+entry_into_force: "2024-05-03"
 ---
-
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat van 24 april 2024, nr IENW/BSK-2024/93989, houdende regels inzake de verlening van mandaat, volmacht en machtiging aan ProRail B.V. voor de uitvoering van bevoegdheden op grond van de Spoorwegwet en de Omgevingswet (Besluit mandaat, volmacht en machtiging ProRail 2024)
 
 Gelet op de [artikelen 10:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4), [10:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:5), [10:6 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:6), en [10:9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9);
@@ -16,7 +42,7 @@ Gezien de instemming van de chief executive officer van ProRail B.V. d.d. 3 apri
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 - **projectbesluit:** besluit tot aanleg of wijziging van een spoorweg als bedoeld in [artikel 5.46, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.46).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aan de chief executive officer wordt mandaat verleend om besluiten te nemen inzake omgevingsvergunningen, maatwerkvoorschriften en toestemmingen om een gelijkwaardige maatregel toe te passen als bedoeld in [hoofdstuk 9 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=9), voor zover:
 
@@ -56,7 +82,7 @@ In dit besluit wordt verstaan onder:
 
 6. De chief executive officer kan van het hem in het eerste tot en met vijfde lid verleende mandaat ondermandaat verlenen aan één of meerdere onder hem ressorterende functionarissen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan de chief executive officer wordt volmacht verleend om toepassing te geven aan de Overeenkomst inzake verleggingen van kabels en leidingen buiten beheersgebied (Stcrt. 1999, nr. 97), voor zover de toepassing van deze overeenkomst samenhangt met:
 
@@ -68,7 +94,7 @@ In dit besluit wordt verstaan onder:
 
 2. De chief executive officer kan de in het eerste lid verleende volmacht doorgeven aan één of meerdere onder hem ressorterende functionarissen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aan de chief executive officer wordt machtiging verleend om ter voorbereiding en afronding van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049649&artikel=2&z=2024-05-03&g=2024-05-03) bedoelde besluiten de benodigde handelingen te verrichten.
 
@@ -76,7 +102,7 @@ In dit besluit wordt verstaan onder:
 
 3. De chief executive officer kan de in het eerste en tweede lid verleende machtigingen doorgeven aan één of meerdere onder hem ressorterende functionarissen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Aan de chief executive officer wordt mandaat verleend om te beslissen op een bezwaar tegen een besluit als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049649&artikel=2&z=2024-05-03&g=2024-05-03), voor zover het besluit waartegen het bezwaar zich richt niet door hem in mandaat is genomen.
 
@@ -86,7 +112,7 @@ In dit besluit wordt verstaan onder:
 
 4. De chief executive officer kan de in het derde lid verleende machtiging doorgeven aan één of meerdere onder hem ressorterende functionarissen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Aan de chief executive officer wordt machtiging verleend de minister te vertegenwoordigen in een procedure bij de bestuursrechter naar aanleiding van een door belanghebbende ingesteld beroep tegen een beslissing als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049649&artikel=5&z=2024-05-03&g=2024-05-03) of naar aanleiding van een door een belanghebbende ingesteld hoger beroep tegen de uitspraak van de rechtbank en de daartoe benodigde handelingen te verrichten.
 
@@ -96,23 +122,23 @@ In dit besluit wordt verstaan onder:
 
 4. De gemachtigden, bedoeld in het tweede en derde lid, informeren de minister voorafgaand aan het instellen van hoger beroep.
 
-#### Artikel 7
+##### Artikel 7
 
 Bij de uitoefening van het mandaat, volmacht en machtiging worden de in de bijlage bij dit besluit opgenomen algemene instructie en door de minister per geval gegeven instructies in acht genomen.
 
-#### Artikel 8
+##### Artikel 8
 
 Van de verlening van ondermandaat en van het doorgeven van de machtiging en volmacht doet de chief executive officer schriftelijk mededeling aan de minister.
 
-#### Artikel 9
+##### Artikel 9
 
 Het [Besluit mandaat, volmacht en machtiging ProRail](https://wetten.overheid.nl/jci1.3:c:BWBR0049071) wordt ingetrokken.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging ProRail 2024.
 

@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling NER 300"
+title: "Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 20 december 2010, nr. WJZ / 10169116, tot vaststelling van een nationaal instrument ter uitvoering van het Besluit van de Europese Commissie van 3 november 2010 inzake NER 300 (Subsidieregeling NER 300)"
 identifier: "BWBR0029245"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-04-18
-laatste_update: 2013-04-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029245"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-04-18"
+last_updated: "2013-04-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029245"
+soort: "ministeriele-regeling"
+stam_id: "11159773"
+version_id: "18250582"
+internal_id: "C25389911"
+label_id: "11134474"
+dtd_version: "2.0"
+original_entry_into_force: "2010-12-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029245/2013-04-18/0"
+intitule_bron: "Stcrt.2010-21022"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-12-20"
+intitule_published: "2010-12-24"
+intitule_in_force: "2010-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-21022"
+original_signed_date: "2010-12-20"
+original_published_date: "2010-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-21022"
+entry_into_force_date: "2010-12-25"
+jci_1_3: "jci1.3:c:BWBR0029245&z=2013-04-18&g=2013-04-18"
+jci_1_0: "1.0:c:BWBR0029245&g=2013-04-18"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling NER 300"
+signed_date: "2010-12-20"
+entry_into_force: "2010-12-25"
 ---
-
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 20 december 2010, nr. WJZ / 10169116, tot vaststelling van een nationaal instrument ter uitvoering van het Besluit van de Europese Commissie van 3 november 2010 inzake NER 300 (Subsidieregeling NER 300)
 
 Gelet op [artikel 3 Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -64,21 +90,21 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. CCS-projecten
 
-#### Artikel 2
+##### Artikel 2
 
 De minister verstrekt op aanvraag subsidie aan een ondernemer die of aan een deelnemer in een samenwerkingsverband dat een CCS-project uitvoert in Nederland, op het Nederlandse continentale plat of in de Nederlandse exclusieve economische zone.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De subsidie bedraagt 50% van de subsidiabele kosten.
 
 2. De subsidie bedraagt maximaal 15% van de 300 miljoen beschikbare emissierechten, uitgedrukt in een bedrag in Euro.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien reeds door de Europese Commissie verstrekte subsidie op grond van de EERP wordt gecombineerd met subsidie op grond van deze regeling wordt de subsidie op grond van de EERP in mindering gebracht op de subsidie op grond van deze regeling.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De subsidiabele kosten zijn de investeringskosten van een CCS-project verminderd met de netto contante waarde volgens de best mogelijk schatting van de exploitatiekosten en -baten uit de toepassing van de afvang en opslag CO2 in de eerste tien exploitatiejaren.
 
@@ -86,13 +112,13 @@ Indien reeds door de Europese Commissie verstrekte subsidie op grond van de EERP
 
 3. De in het eerste lid bedoelde exploitatiekosten en -baten van het CCS-project worden berekend met toepassing van artikel 3, vijfde lid, van het NER-besluit.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het subsidieplafond bedraagt het totale bedrag dat op basis van het toekenningsbesluit voor Nederland beschikbaar is voor CCS-projecten.
 
 2. De minister verdeelt het subsidieplafond overeenkomstig het toekenningsbesluit.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een aanvraag om subsidie voor een CCS-project wordt uiterlijk ingediend op 15 mei 2013 om 17.00 uur met gebruikmaking van een formulier dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&bijlage=1&z=2013-04-18&g=2013-04-18) bij deze regeling is gevoegd.
 
@@ -102,11 +128,11 @@ Indien reeds door de Europese Commissie verstrekte subsidie op grond van de EERP
 
 4. Bij de aanvraag worden in ieder geval de gegevens, bedoeld in artikel 5, derde lid, tweede alinea, onderdeel a tot en met d, van het NER-besluit, verstrekt.
 
-#### Artikel 8
+##### Artikel 8
 
 Indien aanvragers van subsidie samenwerken in een samenwerkingsverband, dienen zij hun aanvraag in via een penvoerder.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De minister beslist afwijzend op een aanvraag om subsidie indien de aanvraag niet voldoet aan:
 
@@ -122,61 +148,61 @@ Indien aanvragers van subsidie samenwerken in een samenwerkingsverband, dienen z
 
 - c. onvoldoende vertrouwen bestaat in de haalbaarheid van het CCS-project.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De minister dient de aanvragen waarop op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=2&artikel=9&z=2013-04-18&g=2013-04-18) niet afwijzend is beslist, op basis van artikel 5, derde lid, van het NER-besluit in bij de Europese Investeringsbank.
 
 2. De minister beslist afwijzend op een aanvraag om subsidie indien een aanvraag als bedoeld in het eerste lid, op grond van een toekenningsbesluit niet voor financiering uit hoofde van het NER-besluit in aanmerking komt.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De minister geeft een beschikking op een aanvraag om subsidie binnen zeventien weken nadat duidelijk is of een CCS-project uit hoofde van het NER-besluit wordt gefinancierd op grond van een voorwaardelijk toekenningsbesluit.
 
 2. De beschikking tot subsidieverlening wordt in overeenstemming met het NER-besluit en het voorwaardelijk toekenningsbesluit opgesteld.
 
-#### Artikel 12
+##### Artikel 12
 
 Indien uit andere hoofde subsidie wordt verstrekt als cofinanciering aan een CCS-project wordt de subsidie verleend onder de ontbindende voorwaarde dat de Europese Commissie overeenkomstig artikel 4, tweede en derde lid, van de procedureverordening bij beschikking heeft vastgesteld dat de cofinanciering geen steun vormt dan wel verenigbaar is met de gemeenschappelijke markt en de door de Europese Commissie aan de beschikking verbonden voorwaarden bedoeld in artikel 7, vierde lid, van de Procedureverordening zijn toegepast.
 
-#### Artikel 13
+##### Artikel 13
 
 De subsidie wordt verleend onder de ontbindende voorwaarde dat het toekenningsbesluit voor het CCS-project geen rechtskracht heeft.
 
-#### Artikel 14
+##### Artikel 14
 
 De subsidieontvanger deelt de kennis betreffende de in bijlage II bij het NER-besluit bedoelde elementen overeenkomstig artikel 12 van het NER-besluit.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De verplichtingen, bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=36), [37, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=37), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=38), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=40), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=41) en [43 van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=43) zijn van overeenkomstige toepassing.
 
 2. De minister kan andere subsidieverplichtingen opleggen voor zover deze voortvloeien uit het NER-besluit of het toekenningsbesluit of door de Europese Commissie worden opgelegd.
 
-#### Artikel 16
+##### Artikel 16
 
 De minister kan bij de beschikking tot subsidieverlening bepalen dat voorschotten worden verleend, en, indien voorschotten worden verleend, aangeven hoe deze voorschotten worden berekend voor zover dit strookt met het voorwaardelijk toekenningsbesluit.
 
-#### Artikel 17
+##### Artikel 17
 
 Na overlegging van de in de subsidiebeschikking aangegeven gegevens en documenten wordt de subsidie ambtshalve vastgesteld.
 
 #### § 3. RES-projecten
 
-#### Artikel 18
+##### Artikel 18
 
 De minister verstrekt op aanvraag subsidie aan een ondernemer die of aan een deelnemer in een samenwerkingsverband dat een RES-project uitvoert in Nederland, op het Nederlandse continentale plat of in de Nederlandse exclusieve economische zone.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De subsidie bedraagt 50% van de subsidiabele kosten.
 
 2. De subsidie bedraagt maximaal 15% van de 300 miljoen beschikbare emissierechten, uitgedrukt in een bedrag in Euro.
 
-#### Artikel 20
+##### Artikel 20
 
 Indien reeds door de Europese Commissie verstrekte subsidie op grond van de EERP wordt gecombineerd met subsidie op grond van deze regeling wordt de subsidie op grond van de EERP in mindering gebracht op de subsidie op grond van deze regeling.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De subsidiabele kosten zijn de extra investeringskosten voor een RES-project die verbonden zijn aan de toepassing van innovatieve technologieën voor hernieuwbare energie verminderd met de netto contante waarde volgens de best mogelijk schatting van de exploitatiekosten en -baten in de eerste vijf jaar in vergelijking met die van een conventionele installatie met dezelfde effectieve energieproductiecapaciteit.
 
@@ -184,13 +210,13 @@ Indien reeds door de Europese Commissie verstrekte subsidie op grond van de EERP
 
 3. De in het eerste lid bedoelde exploitatiekosten en -baten worden berekend met toepassing van artikel 3, vijfde lid, van het NER-besluit.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Het subsidieplafond bedraagt het totale bedrag dat op basis van het toekenningsbesluit voor Nederland beschikbaar is voor RES-projecten.
 
 2. De minister verdeelt het subsidieplafond overeenkomstig het toekenningsbesluit.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Een aanvraag om subsidie voor een RES-project wordt uiterlijk ingediend op 15 mei 2013 om 17.00 uur met gebruikmaking van een formulier dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&bijlage=2&z=2013-04-18&g=2013-04-18) bij deze regeling is gevoegd.
 
@@ -200,11 +226,11 @@ Indien reeds door de Europese Commissie verstrekte subsidie op grond van de EERP
 
 4. Bij de aanvraag worden in ieder geval gegevens, bedoeld in artikel 5, derde lid, tweede alinea, onderdeel a tot en met d, van het NER-besluit verstrekt.
 
-#### Artikel 24
+##### Artikel 24
 
 Indien de aanvragers van subsidie samenwerken in een samenwerkingsverband, dienen zij hun aanvraag in via een penvoerder.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De minister beslist afwijzend op een aanvraag indien de aanvraag niet voldoet aan:
 
@@ -220,55 +246,55 @@ Indien de aanvragers van subsidie samenwerken in een samenwerkingsverband, diene
 
 - c. onvoldoende vertrouwen bestaat in de haalbaarheid van het RES-project.
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 1. De minister dient de aanvragen waarop op grond van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0029245&paragraaf=3&artikel=25&z=2013-04-18&g=2013-04-18) niet afwijzend is beslist, op basis van artikel 5, derde lid, van het NER-besluit in bij de Europese Investeringsbank.
 
 2. De minister beslist afwijzend op een aanvraag om subsidie indien een aanvraag als bedoeld in het eerste lid, op grond van een toekenningsbesluit niet voor financiering uit hoofde van het NER-besluit in aanmerking komt.
 
-#### Artikel 28
+##### Artikel 28
 
 1. 1. De minister geeft een beschikking op een aanvraag om subsidie binnen zeventien weken nadat duidelijk is of een RES-project uit hoofde van het NER-besluit wordt gefinancierd op grond van een voorwaardelijk toekenningsbesluit.
 
 2. De beschikking tot subsidieverlening wordt in overeenstemming met het NER-besluit en het voorwaardelijk toekenningsbesluit opgesteld.
 
-#### Artikel 29
+##### Artikel 29
 
 Indien uit andere hoofde subsidie wordt verstrekt als cofinanciering aan een RES-project wordt de subsidie verleend onder de ontbindende voorwaarde dat de Europese Commissie overeenkomstig artikel 4, tweede en derde lid, van de procedureverordening bij beschikking heeft vastgesteld dat de cofinanciering geen steun vormt dan wel verenigbaar is met de gemeenschappelijke markt en de door de Europese Commissie aan de beschikking verbonden voorwaarden bedoeld in artikel 7, vierde lid, van de Procedureverordening zijn toegepast.
 
-#### Artikel 30
+##### Artikel 30
 
 De subsidie wordt verleend onder de ontbindende voorwaarde dat het toekenningsbesluit voor het RES-project geen rechtskracht heeft.
 
-#### Artikel 31
+##### Artikel 31
 
 De subsidieontvanger deelt de kennis betreffende de in bijlage II bij het NER-besluit bedoelde elementen overeenkomstig artikel 12 van het NER-besluit.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De verplichtingen, bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=36), [37, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=37), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=38), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=40), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=41) en [43 van het Kaderbesluit EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=43) zijn van overeenkomstige toepassing.
 
 2. De minister kan andere subsidieverplichtingen opleggen voor zover deze voortvloeien uit het NER-besluit of het toekenningsbesluit of door de Europese Commissie worden opgelegd.
 
-#### Artikel 33
+##### Artikel 33
 
 De minister kan bij de beschikking tot subsidieverlening bepalen dat voorschotten worden verleend, en, indien voorschotten worden verleend, aangeven hoe deze voorschotten worden berekend voor zover dit strookt met het voorwaardelijk toekenningsbesluit.
 
-#### Artikel 34
+##### Artikel 34
 
 Na overlegging van de in de subsidiebeschikking aangegeven gegevens en documenten wordt de subsidie ambtshalve vastgesteld.
 
 #### § 4. Slotbepalingen
 
-#### Artikel 35
+##### Artikel 35
 
 Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 6 november 2010.
 
-#### Artikel 36
+##### Artikel 36
 
 Deze regeling wordt aangehaald als: Subsidieregeling NER 300.
 

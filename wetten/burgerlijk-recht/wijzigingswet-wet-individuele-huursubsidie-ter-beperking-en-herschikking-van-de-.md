@@ -1,14 +1,38 @@
 ---
-title: "Wijzigingswet Wet individuele huursubsidie ter beperking en herschikking van de uitgaven voor individuele huursubsidie"
+title: "Wet van 24 juni 1992, tot wijziging van de Wet individuele huursubsidie ter beperking en herschikking van de uitgaven voor individuele huursubsidie"
 identifier: "BWBR0005563"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1994-07-01
-laatste_update: 1994-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005563"
+country: "nl"
+rank: "wet"
+publication_date: "1994-07-01"
+last_updated: "1994-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005563"
+soort: "wet"
+stam_id: "2795653"
+version_id: "4303012"
+internal_id: "C4303011"
+label_id: "2743884"
+dtd_version: "2.0"
+original_entry_into_force: "1992-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005563/1994-07-01/0"
+intitule_bron: "Stb.1992-316"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-06-24"
+intitule_status: "goed"
+original_publication: "Stb.1992-316"
+original_signed_date: "1992-06-24"
+original_effect: "nieuwe-regeling"
+original_dossier: "22544"
+entry_into_force_date: "1992-07-01"
+entry_into_force_dossier: "22544"
+jci_1_3: "jci1.3:c:BWBR0005563&z=1994-07-01&g=1994-07-01"
+jci_1_0: "1.0:c:BWBR0005563&g=1994-07-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet individuele huursubsidie ter beperking en herschikking van de uitgaven voor individuele huursubsidie"
+signed_date: "1992-06-24"
+entry_into_force: "1992-07-01"
 ---
-
-# Wijzigingswet Wet individuele huursubsidie ter beperking en herschikking van de uitgaven voor individuele huursubsidie
+# Wet van 24 juni 1992, tot wijziging van de Wet individuele huursubsidie ter beperking en herschikking van de uitgaven voor individuele huursubsidie
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,35 +40,35 @@ Alzo Wij in overweging genomen hebben, dat in verband met de noodzaak tot beperk
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IV
+##### Artikel IV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel V
+##### Artikel V
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VI
+##### Artikel VI
 
 In afwijking van artikel 25, aanhef en onder **a**, van de Wet individuele huursubsidie vervangt Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer met ingang van 1 juli voor de periode van 1 juli 1992 tot en met 30 juni 1993 het bedrag, genoemd in artikel 7, eerste lid, onder **a**, van die wet door een bedrag, gelijk aan het te vervangen bedrag, verhoogd met 4½ procent en daarna afgerond op het naasthogere veelvoud van f 5,-.
 
-#### Artikel VII
+##### Artikel VII
 
 In afwijking van artikel 25, eerste lid, aanhef en onder **a**, van de Wet individuele huursubsidie vervangt Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer met ingang van 1 juli voor de periode van 1 juli 1993 tot en met 30 juni 1994 het bedrag, genoemd in artikel 7, eerste lid, onder **a**, van die wet door een bedrag, gelijk aan het te vervangen bedrag, verhoogd met 4½ procent en daarna afgerond op het naasthogere veelvoud van f 5,-.
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. Deze wet is niet van toepassing op aanvragen om en verstrekkingen van een bijdrage als bedoeld in artikel 2, eerste lid, van de Wet individuele huursubsidie, die betrekking hebben op tijdvakken als bedoeld in artikel 2, vijfde lid, van die wet, die zijn verstreken vóór 1 juli 1992.
 
@@ -52,7 +76,7 @@ In afwijking van artikel 25, eerste lid, aanhef en onder **a**, van de Wet indiv
 
 3. [Artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0005563&artikel=V&z=1994-07-01&g=1994-07-01) van deze wet is eveneens niet van toepassing op aanvragen om en verstrekkingen van een bijdrage als bedoeld in artikel 2, eerste lid, van de Wet individuele huursubsidie, die betrekking hebben op de tijdvakken van 1 juli 1992 tot en met 30 juni 1993 en van 1 juli 1993 tot en met 30 juni 1994.
 
-#### Artikel IX
+##### Artikel IX
 
 1. Ten aanzien van een huurder aan wie met inachtneming van de bij de Wet individuele huursubsidie behorende huursubsidietabel II een bijdrage als bedoeld in artikel 2, eerste lid , van die wet is verstrekt over het tijdvak van 1 juli 1991 tot en met 30 juni 1992 voor een woning waarvan die huurder op 30 juni 1992 nog het genot had, vindt, zolang die huurder aan de voorwaarden voor toepassing van huursubsidietabel II blijft voldoen, de vaststelling van de bijdrage voor het tijdvak van 1 juli 1992 tot en met 30 juni 1993 tot en met het tijdvak van 1 juli 1995 tot en met 30 juni 1996 in afwijking van de Wet individuele huursubsidie plaats zodanig, dat de huurder:
 
@@ -76,7 +100,7 @@ In afwijking van artikel 25, eerste lid, aanhef en onder **a**, van de Wet indiv
 
 3. Ten behoeve van de huurders die in aanmerking komen voor de toepassing van het eerste en tweede lid, stelt Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer elk jaar met ingang van 1 juli, te beginnen in 1992 en voor het laatst in 1995, een huursubsidietabel vast, in overeenstemming met het bepaalde in genoemde leden.
 
-#### Artikel X
+##### Artikel X
 
 1. Ten aanzien van een huurder aan wie met inachtneming van de bij de Wet individuele huursubsidie behorende huursubsidietabel IIA een bijdrage als bedoeld in artikel 2, eerste lid, van die wet is verstrekt over het tijdvak van 1 juli 1991 tot en met 30 juni 1992 voor een woning waarvan die huurder op 30 juni 1992 nog het genot had, vindt, zolang die huurder aan de voorwaarden voor toepassing van huursubsidietabel IIA blijft voldoen, de vaststelling van de bijdrage voor het tijdvak van 1 juli 1992 tot en met 30 juni 1993 tot en met het tijdvak van 1 juli 1994 tot en met 30 juni 1995 in afwijking van de Wet individuele huursubsidie plaats zodanig, dat de huurder:
 
@@ -94,23 +118,23 @@ In afwijking van artikel 25, eerste lid, aanhef en onder **a**, van de Wet indiv
 
 4. Ten behoeve van de huurders die in aanmerking komen voor de toepassing of de overeenkomstige toepassing van het eerste en tweede lid, stelt Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer elk jaar met ingang van 1 juli, te beginnen in 1992 en voor het laatst in 1994, een huursubsidietabel vast, in overeenstemming met het bepaalde in genoemde leden.
 
-#### Artikel XI
+##### Artikel XI
 
 Voor de huurder die op 1 juli 1992 jonger is dan 23 jaar en aan wie voor een woning waarvan hij op 30 juni 1992 nog het genot had, een bijdrage als bedoeld in artikel 2, eerste lid, van de Wet individuele huursubsidie is verstrekt over het tijdvak van 1 juli 1991 tot en met 30 juni 1992, geldt, zolang die huurder het genot van de hiervoor bedoelde woning behoudt, artikel 16, tweede volzin, van genoemde wet, zoals deze vanaf de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0005563&artikel=I&z=1994-07-01&g=1994-07-01) van deze wet is komen te luiden, niet.
 
-#### Artikel XII
+##### Artikel XII
 
 Bij de toepassing met ingang van 1 juli 1992 van artikel 25, onder **b**, van de Wet individuele huursubsidie worden de in dat artikelonderdeel bedoelde te vervangen bedragen alvorens zij worden vermenigvuldigd, eerst gecorrigeerd voor het verschil tussen de werkelijke ontwikkeling van de regelingslonen en de werkelijke ontwikkeling van het minimumloon in de jaren 1990 en 1991.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XIV
+##### Artikel XIV
 
 De tekst van de Wet individuele huursubsidie wordt door Onze Minister van Justitie in het **Staatsblad** geplaatst.
 
-#### Artikel XV
+##### Artikel XV
 
 1. Deze wet treedt, met uitzondering van de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0005563&artikel=II&z=1994-07-01&g=1994-07-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0005563&artikel=III&z=1994-07-01&g=1994-07-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0005563&artikel=IV&z=1994-07-01&g=1994-07-01), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0005563&artikel=V&z=1994-07-01&g=1994-07-01), [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0005563&artikel=VII&z=1994-07-01&g=1994-07-01) en [VIII, onderdelen 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005563&artikel=VIII&z=1994-07-01&g=1994-07-01), in werking met ingang van 1 juli 1992.
 

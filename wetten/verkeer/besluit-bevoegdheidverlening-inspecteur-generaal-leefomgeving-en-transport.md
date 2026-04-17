@@ -1,13 +1,39 @@
 ---
-title: "Besluit bevoegdheidverlening Inspecteur- Generaal Leefomgeving en Transport"
+title: "Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 16 augustus 2014, nr. A-0-14-0041.001, houdende bevoegdheidverlening aan Inspecteur Generaal leefomgeving en Transport (Besluit bevoegdheidverlening Inspecteur Generaal Leefomgeving en Transport)"
 identifier: "BWBR0035486"
-categorie: "Verkeer"
-publicatiedatum: 2018-02-09
-laatste_update: 2018-02-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035486"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-02-09"
+last_updated: "2018-02-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035486"
+soort: "ministeriele-regeling"
+stam_id: "12780373"
+version_id: "21697122"
+internal_id: "C31135871"
+label_id: "12750074"
+dtd_version: "2.0"
+original_entry_into_force: "2014-08-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035486/2018-02-09/0"
+intitule_bron: "Stcrt.2014-24345"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-08-16"
+intitule_published: "2014-08-25"
+intitule_in_force: "2014-08-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-24345"
+original_signed_date: "2014-08-16"
+original_published_date: "2014-08-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-24345"
+entry_into_force_date: "2014-08-26"
+jci_1_3: "jci1.3:c:BWBR0035486&z=2018-02-09&g=2018-02-09"
+jci_1_0: "1.0:c:BWBR0035486&g=2018-02-09"
+citeertitel_status: "officieel"
+short_title: "Besluit bevoegdheidverlening Inspecteur- Generaal Leefomgeving en Transport"
+signed_date: "2014-08-16"
+entry_into_force: "2014-08-26"
 ---
-
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 16 augustus 2014, nr. A-0-14-0041.001, houdende bevoegdheidverlening aan Inspecteur Generaal leefomgeving en Transport (Besluit bevoegdheidverlening Inspecteur Generaal Leefomgeving en Transport)
 
 Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) en [10:4, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4);
@@ -20,7 +46,7 @@ Gelet op het [Besluit mandaat en machtiging Kiwa N.V. (I)](https://wetten.overhe
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -32,21 +58,21 @@ In dit besluit wordt verstaan onder:
 
 - d. **de overeenkomst:** overeenkomst aangegaan tussen de Staat der Nederlanden en Kiwa N.V. d.d. 10 juli 2009 en nadien gewijzigd, op basis waarvan Kiwa N.V. een aantal taken uitvoert op het gebied van vergunningverlening.
 
-#### Artikel 2
+##### Artikel 2
 
 - a. De Inspecteur- Generaal is met inachtneming van het bepaalde in de overeenkomst bevoegd om van de hem op grond van het [Organisatie- en mandaatbesluit Infrastructuur en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0030951) verstrekte mandaat en machtiging, aan de voorzitter van de directie van Kiwa N.V. ondermandaat en ondermachtiging te verlenen.
 
 - b. Als de Inspecteur- Generaal de onder a bedoelde bevoegdheden verleent, is hij bevoegd de voorzitter van de directie van Kiwa N.V. tevens de bevoegdheid te geven om deze bevoegdheden aan één of meer binnen Kiwa Register B.V. werkzame functionarissen te verlenen.
 
-#### Artikel 3
+##### Artikel 3
 
 In [bijlage A1a van het Besluit mandaat en machtiging Kiwa N.V. (I)](https://wetten.overheid.nl/jci1.3:c:BWBR0027827&bijlage=A1a) vervallen de in de bij dit besluit behorende bijlage weergegeven onderdelen.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit bevoegdheidverlening Inspecteur- Generaal Leefomgeving en Transport.
 

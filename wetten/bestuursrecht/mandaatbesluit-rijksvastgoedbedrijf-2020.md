@@ -1,13 +1,38 @@
 ---
 title: "Mandaatbesluit Rijksvastgoedbedrijf 2020"
 identifier: "BWBR0043265"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-12-19
-laatste_update: 2023-12-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043265"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-12-19"
+last_updated: "2023-12-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043265"
+soort: "ministeriele-regeling"
+stam_id: "15359743"
+version_id: "26554222"
+internal_id: "C37684011"
+label_id: "15304564"
+dtd_version: "2.0"
+original_entry_into_force: "2020-03-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043265/2023-12-19/0"
+intitule_bron: "Stcrt.2020-8491"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-02-21"
+intitule_published: "2020-03-03"
+intitule_in_force: "2020-03-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-8491"
+original_signed_date: "2020-02-21"
+original_published_date: "2020-03-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-8491"
+entry_into_force_date: "2020-03-04"
+jci_1_3: "jci1.3:c:BWBR0043265&z=2023-12-19&g=2023-12-19"
+jci_1_0: "1.0:c:BWBR0043265&g=2023-12-19"
+citeertitel_status: "officieel"
+signed_date: "2020-02-21"
+entry_into_force: "2020-03-04"
 ---
-
 # Mandaatbesluit Rijksvastgoedbedrijf 2020
 
 Gelet op de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
@@ -22,7 +47,7 @@ Gelet op het [Volmacht- en machtigingsbesluit roerende zaken Rijksvastgoedbedrij
 
 Besluit vast te stellen het navolgende Mandaatbesluit Rijksvastgoedbedrijf 2020:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 1. In dit besluit wordt verstaan onder:
 
@@ -52,7 +77,7 @@ Besluit vast te stellen het navolgende Mandaatbesluit Rijksvastgoedbedrijf 2020:
 
 - b. machtiging om namens een bewindspersoon handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
 
-#### Artikel 2. Ondermandaat leidinggevenden
+##### Artikel 2. Ondermandaat leidinggevenden
 
 1. Aan de directeuren, afdelingshoofden, sectiehoofden en clusterhoofden wordt ondermandaat verleend ten aanzien van aangelegenheden die behoren tot hun werkterrein en met inachtneming van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043265&artikel=7&z=2023-12-19&g=2023-12-19) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0043265&artikel=8&z=2023-12-19&g=2023-12-19).
 
@@ -64,7 +89,7 @@ Besluit vast te stellen het navolgende Mandaatbesluit Rijksvastgoedbedrijf 2020:
 
 5. Het ondermandaat van extern ingehuurde directeuren, afdelingshoofden, sectiehoofden en clusterhoofden heeft geen betrekking op het verrichten van privaatrechtelijke rechtshandelingen.
 
-#### Artikel 3. Ondermandaat plaatsvervangers
+##### Artikel 3. Ondermandaat plaatsvervangers
 
 1. Bij tijdelijke afwezigheid of verhindering van de directeur, het afdelingshoofd, het sectiehoofd of het clusterhoofd wordt ondermandaat verleend aan de plaatsvervangend directeur, het plaatsvervangend afdelingshoofd, het plaatsvervangend sectiehoofd of het plaatsvervangend clusterhoofd.
 
@@ -72,7 +97,7 @@ Besluit vast te stellen het navolgende Mandaatbesluit Rijksvastgoedbedrijf 2020:
 
 3. Het ondermandaat van extern ingehuurde plaatsvervangend directeuren, plaatsvervangend afdelingshoofden, plaatsvervangend sectiehoofden en plaatsvervangend clusterhoofden heeft geen betrekking op het verrichten van privaatrechtelijke rechtshandelingen.
 
-#### Artikel 4. Ondermandaat projectleiders
+##### Artikel 4. Ondermandaat projectleiders
 
 1. Aan projectleiders wordt ondermandaat verleend ten aanzien van aangelegenheden die behoren tot het werkterrein van deze functionarissen en met inachtneming van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043265&artikel=7&z=2023-12-19&g=2023-12-19) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0043265&artikel=8&z=2023-12-19&g=2023-12-19).
 
@@ -82,17 +107,17 @@ Besluit vast te stellen het navolgende Mandaatbesluit Rijksvastgoedbedrijf 2020:
 
 4. De aanwijzing van een projectleider geschiedt door de directeur, in overeenstemming met de directeur-generaal.
 
-#### Artikel 5. Ondermandaat hoofd Juridisch Advies
+##### Artikel 5. Ondermandaat hoofd Juridisch Advies
 
 Uitsluitend het hoofd Juridisch Advies is bevoegd opdracht te verlenen aan een (lands-)advocaat.
 
-#### Artikel 6. Volmacht notariaat
+##### Artikel 6. Volmacht notariaat
 
 1. De directeuren, de afdelingshoofden en de sectiehoofden zijn bevoegd volmacht te verlenen aan medewerkers van notariskantoren voor het passeren van notariële akten ten aanzien van aangelegenheden die behoren tot het eigen werkterrein en voor zover het gaat om het zakenrechtelijk bevestigen van reeds aangegane verplichtingen.
 
 2. De volmacht wordt verleend bij schriftelijk besluit, in overeenstemming met de hiërarchisch naasthogere functionaris.
 
-#### Artikel 7. Financiële begrenzing ondermandaat
+##### Artikel 7. Financiële begrenzing ondermandaat
 
 1. Het ondermandaat voor (meerjarige) verplichtingen die financiële gevolgen hebben of kunnen hebben is voor de onderstaande functionarissen per verplichting beperkt tot de volgende grensbedragen in euro’s en exclusief btw:
 
@@ -130,7 +155,7 @@ Uitsluitend het hoofd Juridisch Advies is bevoegd opdracht te verlenen aan een (
 
 - iii. het publiceren van nota’s van inlichtingen.
 
-#### Artikel 8. Instructies
+##### Artikel 8. Instructies
 
 1. De directeur-generaal kan instructies geven ter zake van de uitoefening van alle bevoegdheden die verleend zijn in of op grond van dit besluit.
 
@@ -138,11 +163,11 @@ Uitsluitend het hoofd Juridisch Advies is bevoegd opdracht te verlenen aan een (
 
 3. De in of op grond van dit besluit gemandateerde bevoegdheden worden uitgeoefend met inachtneming van de gegeven instructies.
 
-#### Artikel 9. Het register
+##### Artikel 9. Het register
 
 Er is een mandaatregister Rijksvastgoedbedrijf. Het register bevat namen en functies van al degenen aan wie ondermandaat is verleend. Dit register is openbaar.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 1. Het [Mandaatbesluit Rijksvastgoedbedrijf 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041532) wordt ingetrokken.
 

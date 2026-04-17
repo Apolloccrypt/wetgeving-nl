@@ -1,20 +1,43 @@
 ---
 title: "Conversieregeling militaire pensioenen"
 identifier: "BWBR0012511"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2001-06-01
-laatste_update: 2001-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012511"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2001-06-01"
+last_updated: "2001-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012511"
+soort: "ministeriele-regeling"
+stam_id: "5710873"
+version_id: "10210472"
+internal_id: "C13788771"
+label_id: "5691114"
+original_entry_into_force: "2001-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012511/2001-06-01/0"
+intitule_bron: "Stcrt.2001-162"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-05-21"
+intitule_published: "2001-08-23"
+intitule_in_force: "2001-08-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-162"
+original_signed_date: "2001-05-21"
+original_published_date: "2001-08-23"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-06-01"
+jci_1_3: "jci1.3:c:BWBR0012511&z=2001-06-01&g=2001-06-01"
+jci_1_0: "1.0:c:BWBR0012511&g=2001-06-01"
+citeertitel_status: "redactioneel"
+signed_date: "2001-05-21"
+entry_into_force: "2001-06-01"
 ---
-
 # Conversieregeling militaire pensioenen
 
 Gelet op [artikel 3, vierde lid, van de Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955&artikel=3),
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -34,7 +57,7 @@ In deze regeling wordt verstaan onder:
 
 - h. **reservist:** degene die op grond van artikel E3, eerste lid, van de Amp-wet of de daarmee overeenkomende bepalingen in vroegere militaire pensioenwetten in de zin van die wet, recht of uitzicht op pensioen zou hebben gehad indien die wetten niet waren ingetrokken.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De op grond van de Amp-wet, de vroegere militaire pensioenwetten in de zin van die wet, het nabestaandenreglement of het nabestaandenbesluit toegekende of in uitzicht gestelde pensioenen worden, voor zover die uitsluitend naar voor pensioen geldige diensttijd moeten worden vastgesteld en die diensttijd niet kan worden vergolden met een pensioen ingevolge het besluit, te rekenen van de datum van toetreding omgezet in een recht of uitzicht ingevolge het pensioenreglement.
 
@@ -80,15 +103,15 @@ In deze regeling wordt verstaan onder:
 
 - 11e. een krachtens het pensioenreglement te verlenen toeslag bij het na omzetting gevonden pensioenbedrag geteld.
 
-#### Artikel 3
+##### Artikel 3
 
 Artikel 18c.3 van het pensioenreglement wordt bij de in het tweede lid bedoelde omzettingen inachtgenomen.
 
-#### Artikel 4
+##### Artikel 4
 
 De ingevolge artikel 2 voor de vaststelling van de nieuwe rechten of uitzichten op pensioen gevonden berekeningsfactoren vormen voor het fonds het uitgangspunt voor de onder de werking van het pensioenreglement voort te zetten verdere ontwikkeling daarvan.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien het niveau van een om te zetten recht op pensioen of samenstel van pensioenen mede wordt bepaald door een zekere mate van invaliditeit met dienstverband, wordt:
 
@@ -96,15 +119,15 @@ Indien het niveau van een om te zetten recht op pensioen of samenstel van pensio
 
 - 2e. de naar invaliditeit met dienstverband vast te stellen aanvullende aanspraak op dezelfde datum langs de daarin aangegeven weg omgezet in een vergelijkbaar recht krachtens het onder 1e genoemde besluit.
 
-#### Artikel 6
+##### Artikel 6
 
 In afwijking van artikel 5 wordt een recht op eigen pensioen, zoals dat middels de toetreding tot het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen tot het bereiken van de pensioengerechtigde leeftijd is bestendigd, voor het naar diensttijd te berekenen deel daarvan per gelijke datum en met overeenkomstige toepassing van artikel 2 omgezet in een bij het bereiken van die leeftijd te effectueren uitzicht op pensioen.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling treedt in werking met ingang van 1 juni 2001 en zal met bijlage en toelichting worden gepubliceerd in de Staatscourant.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling wordt aangehaald als: Conversieregeling militaire pensioenen.
 
@@ -112,7 +135,7 @@ Deze regeling wordt aangehaald als: Conversieregeling militaire pensioenen.
 
 ### § 1. Begripsomschrijving:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze bijlage wordt verstaan onder:
 
@@ -132,7 +155,7 @@ Voor de toepassing van deze bijlage wordt verstaan onder:
 
 ### § 2. Bepalen contante waarde
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor het bepalen van de contante-waardefactor worden gehanteerd:
 
@@ -146,13 +169,13 @@ Voor de toepassing van deze bijlage wordt verstaan onder:
 
 2. In afwijking van het bepaalde in lid 1 wordt voor het bepalen van het correctiebedrag van het ingegaan ouderdomspensioen zoals beschreven in artikel 9 lid 2 en lid 4 en het correctiebedrag van het ingegaan partnerpensioen zoals beschreven in artikel 12 lid 4 en lid 6 een contante-waardefactor gehanteerd op basis van een rentefactor van 7%.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij het bepalen van de contante waarde wordt geen rekening gehouden met het latente wezenpensioen.
 
 **Contante waarde van de pensioenaanspraken van de beroepsmilitair met partner**
 
-#### Artikel 4
+##### Artikel 4
 
 1. De contante-waardefactoren voor de pensioenaanspraken van een mannelijke x-jarige beroepsmilitair met een y-jarige vrouwelijke partner zijn:
 
@@ -170,7 +193,7 @@ Bij het bepalen van de contante waarde wordt geen rekening gehouden met het late
 
 **Contante waarde van het latente bijzondere partnerpensioen**
 
-#### Artikel 5
+##### Artikel 5
 
 1. De contante-waardefactoren voor het latente bijzondere partnerpensioen van een vrouwelijke bijzondere partner van een mannelijke beroepsmilitair zijn:
 
@@ -188,7 +211,7 @@ Bij het bepalen van de contante waarde wordt geen rekening gehouden met het late
 
 **Contante waarde van het ingegane partnerpensioen**
 
-#### Artikel 6
+##### Artikel 6
 
 1. De contante-waardefactoren voor het ingegane partnerpensioen van een vrouwelijke partner zijn:
 
@@ -204,19 +227,19 @@ Bij het bepalen van de contante waarde wordt geen rekening gehouden met het late
 
 ### § 3. Bepalen van het correctiebedrag
 
-#### Artikel 7
+##### Artikel 7
 
 De afzonderlijk vastgestelde waarde van de pensioenaanspraken voor beroepsmilitairen opgebouwd op grond van de Algemene militaire pensioenwet, de daaraan voorafgaande militaire pensioenwetten en het Nabestaandenreglement militairen enerzijds en de waarde van pensioenaanspraken op grond van de pensioenregeling anderzijds kan ongelijk zijn. Het verschil van die waarden wordt gecompenseerd door de vaststelling van een correctiebedrag dat van toepassing is op grond van de overgangsbepalingen in de pensioenregeling.
 
 **Correctiebedrag voor de pensioenaanspraken van de beroepsmilitair zonder partner.**
 
-#### Artikel 8
+##### Artikel 8
 
 Het correctiebedrag voor de pensioenaanspraken van beroepsmilitairen zonder partner is gelijk aan het verschil tussen de pensioenaanspraken direct voorafgaande aan de conversiedatum op grond van de Algemene militaire pensioenwet of de daaraan voorafgaande militaire pensioenwetten en de pensioenaanspraken op grond van de pensioenregeling op de conversiedatum.
 
 **Correctiebedrag voor de pensioenaanspraken van de beroepsmilitair met partner**
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het correctiebedrag voor de pensioenaanspraken van mannelijke beroepsmilitairen met een vrouwelijke partner wordt bepaald zodanig dat de term
 
@@ -288,7 +311,7 @@ Opoud * (1,04/1,07)m - OPnieuw
 
 **Correctiebedrag voor het latente bijzondere partnerpensioen**
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het correctiebedrag voor een latent bijzonder partnerpensioen van een nabestaande van 65 jaar of ouder is gelijk aan het verschil tussen het latente bijzondere partnerpensioen op grond van het Nabestaandenreglement militairen direct voorafgaande aan de conversiedatum en het latente bijzondere partnerpensioen op grond van de pensioenregeling op de conversiedatum.
 
@@ -302,13 +325,13 @@ Opoud * (1,04/1,07)m - OPnieuw
 
 **Correctiebedrag voor het bijzonder ouderdomspensioen**
 
-#### Artikel 11
+##### Artikel 11
 
 Het correctiebedrag voor het bijzonder ouderdomspensioen is gelijk aan het verschil tussen het bijzondere ouderdomspensioen direct voorafgaande aan de conversiedatum op grond van de voor de conversiedatum geldende wetgeving en het bijzondere ouderdomspensioen op grond van de pensioenregeling op de conversiedatum.
 
 **Correctiebedrag voor het ingegane partnerpensioen**
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het correctiebedrag voor een ingegaan partnerpensioen van een nabestaande van 65 jaar of ouder is gelijk aan het verschil tussen het partnerpensioen op grond van het Nabestaandenreglement militairen direct voorafgaande aan de conversiedatum en het partnerpensioen op grond van de pensioenregeling op de conversiedatum.
 
@@ -340,6 +363,6 @@ gelijk is aan de contante waarde van het partnerpensioen op grond van het Nabest
 
 ****Correctiebedrag voor het ingegaan wezenpensioen****
 
-#### Artikel 13
+##### Artikel 13
 
 Het correctiebedrag voor een ingegaan wezenpensioen is gelijk aan het verschil tussen het wezenpensioen direct voorafgaande aan de conversiedatum op grond van het Nabestaandenreglement militairen en het wezenpensioen op de conversiedatum op grond van de pensioenregeling.

@@ -1,20 +1,45 @@
 ---
 title: "Regeling kleding, bewapening en overige uitrusting politie BES"
 identifier: "BWBR0028831"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028831"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028831"
+soort: "ministeriele-regeling-BES"
+stam_id: "11037013"
+version_id: "18031512"
+internal_id: "C25070221"
+label_id: "11012354"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028831/2019-01-01/0"
+intitule_bron: "Stcrt.2010-15882"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-10-06"
+intitule_published: "2010-10-12"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-15882"
+original_signed_date: "2010-10-06"
+original_published_date: "2010-10-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-15882"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028831&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0028831&g=2019-01-01"
+citeertitel_status: "officieel"
+signed_date: "2010-10-06"
+entry_into_force: "2010-10-10"
 ---
-
 # Regeling kleding, bewapening en overige uitrusting politie BES
 
 Treedt in werking om 00:00 uur in Bonaire, Sint Eustatius en Saba en om 06:00 uur in het Europese deel van Nederland.
 
 ### Hoofdstuk 1. : Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -40,19 +65,19 @@ In deze regeling wordt verstaan onder:
 
 #### § 1. : De vervaardiging van kleding en overige uitrustingsstukken
 
-#### Artikel 2
+##### Artikel 2
 
 De in deze regeling omschreven kleding en overige uitrustingsstukken worden vervaardigd of zijn uitgevoerd overeenkomstig de door Onze Minister, naar de voorschriften van deze regeling vastgestelde modellen met de daarbij vast te stellen afmetingen en, waar nodig, met aanduiding van de kleuren.
 
 #### § 2. : Inkoop en distributie van het uniform en wapens
 
-#### Artikel 3
+##### Artikel 3
 
 [vervallen]
 
 #### § 3. : Beheer kleding- en wapendepot
 
-#### Artikel 4
+##### Artikel 4
 
 1. De door de korpsbeheerder politie aangewezen ambtenaar van politie is belast met het beheer over het kleding- en wapendepot.
 
@@ -62,37 +87,37 @@ De in deze regeling omschreven kleding en overige uitrustingsstukken worden verv
 
 #### § 4. : Het dragen van het uniform
 
-#### Artikel 5
+##### Artikel 5
 
 1. De in deze regeling voorgeschreven uniform en overige van dienstwege verstrekte uitrustingsstukken worden uitsluitend gedragen binnen het werkgebied alwaar de ambtenaar van politie te werk is gesteld, voor zover zulks verband houdt met de dienstuitvoering of zulks uit representatieve overwegingen verlangd wordt.
 
 2. Van deze beperking kan door de korpsbeheerder politie worden afgeweken.
 
-#### Artikel 6
+##### Artikel 6
 
 [vervallen]
 
 #### § 5. : Het stellen van regels en voorschriften
 
-#### Artikel 7
+##### Artikel 7
 
 Door de korpsbeheerder politie regels gegeven met betrekking tot het aantal uniformen dat aan de desbetreffende ambtenaar van politie bij de indiensttreding en vervolgens per kalenderjaar wordt verstrekt.
 
-#### Artikel 8
+##### Artikel 8
 
 Door Onze Minister kunnen regels en technische voorschriften worden vastgesteld met betrekking tot de aanschaf, de modellen en het dragen van dienstkleding ten behoeve van de ambtenaar van politie, bedoeld in [artikel 3, onder b, van de Rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3).
 
-#### Artikel 9
+##### Artikel 9
 
 De korpsbeheerder politie kan aan de door hem aangewezen ambtenaar van politie toestemming verlenen om andere dan in deze regeling genoemde uniformen al dan niet tijdelijk te dragen.
 
-#### Artikel 10
+##### Artikel 10
 
 [vervallen]
 
 #### § 6. : Verantwoordelijkheid voor uniform en wapens en kledingsinspectie
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het uniform en de wapens zijn eigendom van de staat.
 
@@ -100,7 +125,7 @@ De korpsbeheerder politie kan aan de door hem aangewezen ambtenaar van politie t
 
 3. De korpschef draagt er voor zorg dat de aan de ambtenaar van politie verstrekte uniformen, wapens en overige uitrustingstukken minstens eenmaal per kalenderjaar aan een grondige inspectie worden onderworpen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De beheerder draagt er voor zorg dat de onder zijn beheer staande kleding, wapens en uitrustingsstukken niet in handen komen van onbevoegden.
 
@@ -110,7 +135,7 @@ De korpsbeheerder politie kan aan de door hem aangewezen ambtenaar van politie t
 
 #### § 7. : Inlevering van uniformen en uitrustingsstukken
 
-#### Artikel 13
+##### Artikel 13
 
 De aan de ambtenaar van politie verstrekte uniformen, wapens en overige uitrustingsstukken worden door de ambtenaar van politie ingeleverd of door of namens de beheerder ingenomen, bij:
 
@@ -124,7 +149,7 @@ De aan de ambtenaar van politie verstrekte uniformen, wapens en overige uitrusti
 
 #### § 1. Het tenue van de ambtenaar van politie
 
-#### Artikel 14
+##### Artikel 14
 
 Voor de ambtenaar van politie gelden, en voor wat betreft de ambtenaar van politie, bedoeld in [artikel 3, onder a, van de Rijskwet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3) met inachtneming van de in [artikel 28 van het Besluit bewapening en overige uitrusting politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028588&artikel=28) genoemde onderscheidingstekens van de hoofdrangen, de volgende tenues:
 
@@ -136,7 +161,7 @@ Voor de ambtenaar van politie gelden, en voor wat betreft de ambtenaar van polit
 
 #### § 1.1. Het dagelijkse tenue
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het dagelijkse tenue wordt door alle ambtenaren van politie gedragen bij de normale dienstuitvoering, uitgezonderd wanneer en voor zolang zij worden opgedragen diensten in burgerkleding te verrichten.
 
@@ -144,7 +169,7 @@ Voor de ambtenaar van politie gelden, en voor wat betreft de ambtenaar van polit
 
 #### § 1.1.1. De Pet
 
-#### Artikel 16
+##### Artikel 16
 
 1. De platte pet heeft een opstaande rand.
 
@@ -194,7 +219,7 @@ Voor de ambtenaar van politie gelden, en voor wat betreft de ambtenaar van polit
 
 #### § 1.1.2. : Het overhemd
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het overhemd is vervaardigd van effen blauw/witte niet doorzichtige stof (broadcloth style C 7190 kleur 001) samengesteld uit 65% polyester en 35% katoen, voorzien van:
 
@@ -212,13 +237,13 @@ Voor de ambtenaar van politie gelden, en voor wat betreft de ambtenaar van polit
 
 #### § 1.1.3. : Het onderhemd
 
-#### Artikel 18
+##### Artikel 18
 
 Het onderhemd is voor de ambtenaar van politie vervaardigd van effen wit stof.
 
 #### § 1.1.4. : De broek
 
-#### Artikel 19
+##### Artikel 19
 
 1. De lange broek is vervaardigd van donkerblauwe stof (style 538 kleur 1845), samengesteld uit 55% dacronpolyester en 45% wol met rond gesneden pijpen zonder omslag en voorzien van een brede halfstijve boord met zeven vaste passanten voor doorlating van een broekriem van 1,75 inch breedte en met op de buitennaad een platte 25 mm brede blauw/zwarte bies, twee ingenaaide zijzakken en twee ingenaaide achterzakken zonder klep waarvan een met knoopsluiting.
 
@@ -228,7 +253,7 @@ Het onderhemd is voor de ambtenaar van politie vervaardigd van effen wit stof.
 
 #### § 1.1.5. : De rok
 
-#### Artikel 20
+##### Artikel 20
 
 1. De rok van ambtenaar van politie van het vrouwelijke geslacht is vervaardigd van dezelfde donkerblauwe stof als de broeken met eveneens een opgestikte band en voorzien van passanten.
 
@@ -242,7 +267,7 @@ Het onderhemd is voor de ambtenaar van politie vervaardigd van effen wit stof.
 
 #### § 1.1.6. : Das en dasklem
 
-#### Artikel 21
+##### Artikel 21
 
 1. Voor de ambtenaar van politie van het mannelijke geslacht is de das een lange effen blauwzwarte das van het clip- of zelfbindermodel.
 
@@ -252,7 +277,7 @@ Het onderhemd is voor de ambtenaar van politie vervaardigd van effen wit stof.
 
 #### § 1.1.7. : Schoeisels
 
-#### Artikel 22
+##### Artikel 22
 
 1. De schoenen bestaan uit hoge of lage zwarte rijgschoenen zonder versierselen te dragen in combinatie met effen zwarte sokken.
 
@@ -260,19 +285,19 @@ Het onderhemd is voor de ambtenaar van politie vervaardigd van effen wit stof.
 
 #### § 1.1.8. : Handschoenen
 
-#### Artikel 23
+##### Artikel 23
 
 De handschoenen voor de ambtenaar van politie zijn vervaardigd van wit katoen.
 
 #### § 1.1.3. : Koppelriem en broekriem
 
-#### Artikel 24
+##### Artikel 24
 
 De koppelriem en de broekriem zijn van zwart nylon en voorzien van een zwarte gesp. De koppel heeft het merk en type, zoals genoemd in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&bijlage=B&z=2019-01-01&g=2019-01-01).
 
 #### § 1.1.9. : De korte jas
 
-#### Artikel 25
+##### Artikel 25
 
 1. Door de korpsbeheerder politie kan voor bepaalde politietaken of ambtenaren van politie worden vastgelegd, dat in de door hem aan te wijzen bijzondere gevallen, de korte jas zal of mag worden gedragen.
 
@@ -300,7 +325,7 @@ De koppelriem en de broekriem zijn van zwart nylon en voorzien van een zwarte ge
 
 #### § 1.1.13. : Naamplaat
 
-#### Artikel 29
+##### Artikel 29
 
 1. De naamplaat is goudkleurig en vervaardigd van hard metaal.
 
@@ -312,7 +337,7 @@ De koppelriem en de broekriem zijn van zwart nylon en voorzien van een zwarte ge
 
 #### § 1.1.15. : Het tenue van aanhoudings- en ondersteuningsambtenaren
 
-#### Artikel 31
+##### Artikel 31
 
 Het tenue van de ambtenaren als bedoeld in [artikel 6, eerste lid, van het Besluit beheer politiekorps BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028780&artikel=6) waarover het politiekorps beschikt, dan wel kan beschikken, bestaat uit:
 
@@ -334,15 +359,15 @@ Het tenue van de ambtenaren als bedoeld in [artikel 6, eerste lid, van het Beslu
 
 #### § 1.2. Het ‘ceremonieel tenue’
 
-#### Artikel 32
+##### Artikel 32
 
 Het ‘ceremonieel tenue’ wordt gedragen in de door of namens de korpsbeheerder politie te bepalen of toe te laten gevallen.
 
-#### Artikel 33
+##### Artikel 33
 
 Het ‘ceremonieel tenue’ is voor de ambtenaar van politie, belast met de uitvoering van de politietaak in de hoofdrang van hoofdagent en lager, gelijk aan het dagelijkse uniform met dien verstande dat in plaats van het hemd met korte mouwen, het hemd met lange mouwen wordt gedragen.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Het ‘ceremonieel tenue’ is voor de ambtenaar van politie, belast met de uitvoering van de politietaak in de hoofdrang van inspecteur en hoger, gelijk aan het dagelijkse uniform met als extra de jas.
 
@@ -368,33 +393,33 @@ Het ‘ceremonieel tenue’ is voor de ambtenaar van politie, belast met de uitv
 
 #### § 1.3. : Het Sporttenue
 
-#### Artikel 35
+##### Artikel 35
 
 Het sporttenue wordt gedragen bij de van dienstwege voorgeschreven sportbeoefening of tijdens de door of namens het bevoegd gezag te bepalen gebeurtenissen.
 
-#### Artikel 36
+##### Artikel 36
 
 Het sporttenue bestaat uit een sportbroek, T-shirt, trainingspak, judopak, zwembroek, sportsokken en sportschoenen voor binnen en buiten.
 
 #### § 1.4. Regenkleding
 
-#### Artikel 37
+##### Artikel 37
 
 De regenkleding bestaat uit een plastic regenjas en een plastic petovertrek.
 
 #### § 1.5. Het dragen van eretekenen
 
-#### Artikel 38
+##### Artikel 38
 
 Door de korpsbeheerder politie kunnen regels worden gesteld omtrent het dragen van de aan de ambtenaar van politie verleende onderscheidings- en eretekens.
 
-#### Artikel 39
+##### Artikel 39
 
 Van het bepaalde in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=3&paragraaf=1&sub-paragraaf=1.5&artikel=38&z=2019-01-01&g=2019-01-01) kan worden afgeweken in de gevallen waartoe door de korpsbeheerder politie vooraf toestemming is verleend.
 
 #### § 1.6. Handboeien
 
-#### Artikel 39a
+##### Artikel 39a
 
 De handboeien hebben het merk en type, zoals genoemd in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&bijlage=B&z=2019-01-01&g=2019-01-01).
 
@@ -402,7 +427,7 @@ De handboeien hebben het merk en type, zoals genoemd in [bijlage B](https://wett
 
 ### Hoofdstuk 4. : Bewapening en munitie
 
-#### Artikel 51
+##### Artikel 51
 
 Onverminderd [artikel 12 van het Besluit bewapening en overige uitrusting politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028588&artikel=12) worden aan de desbetreffende ambtenaar van politie, bedoeld in [hoofdstuk 2 van het Besluit bewapening en overige uitrusting politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028588&hoofdstuk=2), een wapen, het daarbij behorende draagmiddel en munitie, zoals genoemd in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&bijlage=B&z=2019-01-01&g=2019-01-01), verstrekt.
 
@@ -418,7 +443,7 @@ Onverminderd [artikel 12 van het Besluit bewapening en overige uitrusting politi
 
 #### § 1. Draagwijze kleding
 
-#### Artikel 58
+##### Artikel 58
 
 1. De ambtenaar van politie is verplicht steeds kleding van zijn passende afmetingen te dragen;
 
@@ -428,15 +453,15 @@ Onverminderd [artikel 12 van het Besluit bewapening en overige uitrusting politi
 
 4. Kledingstukken die hetzij afwijken van de bij de krachtens deze regeling vastgestelde omschrijvingen, hetzij naar het oordeel van de door de korpschef niet voldoen aan redelijk te stellen eisen, worden geacht zich niet in goede staat te bevinden.
 
-#### Artikel 59
+##### Artikel 59
 
 Van het dagelijkse tenue wordt het overhemd met open kraag gedragen.
 
-#### Artikel 60
+##### Artikel 60
 
 Het ‘ceremonieel tenue’ wordt in het openbaar of in gezelschap steeds geheel gesloten gedragen.
 
-#### Artikel 61
+##### Artikel 61
 
 1. De pet wordt recht op het hoofd gedragen, zodanig dat het embleem zich midden boven het voorhoofd bevindt.
 
@@ -446,43 +471,43 @@ Het ‘ceremonieel tenue’ wordt in het openbaar of in gezelschap steeds geheel
 
 - b. indien bevolen.
 
-#### Artikel 62
+##### Artikel 62
 
 De das wordt met de knoop tegen de boordsluiting gedragen, de punt van het brede einde even boven de koppel- of broekriemsluiting, het smalle einde onzichtbaar, het geheel glad hangend en onmiddellijk boven de vierde knoop van boven met de dasklem aan het overhemd bevestigd.
 
-#### Artikel 63
+##### Artikel 63
 
 1. De broek met broekriem wordt zodanig gedragen, dat de bovenrand even boven de heupen glad om het lichaam sluit.
 
 2. De koppelriem wordt over de broekriem gedragen zodanig dat de bovenrand van de koppelriem evenwijdig loopt met de bovenzijde van de boord van de broek.
 
-#### Artikel 64
+##### Artikel 64
 
 1. De ambtenaar van politie draagt, onder diensttijd, geen andere dan de bij of krachtens deze regeling genoemde kleding, wapens en uitrustingsstukken.
 
 2. Het zichtbaar dragen van vorenbedoelde kleding tezamen met andere kleding is verboden.
 
-#### Artikel 65
+##### Artikel 65
 
 Het dragen overdag van een zonnebril van onopvallend model en formaat, zonder versierselen, is toegestaan, evenzo het dragen van een overeenkomstige stofbril door berijders van motorrijwielen.
 
 #### § 2. Verstrekking kleding
 
-#### Artikel 66
+##### Artikel 66
 
 [vervallen]
 
-#### Artikel 67
+##### Artikel 67
 
 [vervallen]
 
-#### Artikel 68
+##### Artikel 68
 
 Door de korpsbeheerder politie wordt vastgesteld aan welke ambtenaar van politie tot de diverse tenues behorende kleding wordt verstrekt.
 
 #### § 3. Bezit Kleding
 
-#### Artikel 69
+##### Artikel 69
 
 1. Van de kledingsstukken en overige uitrustingsstukken bedoeld in de [artikelen 14 tot en met 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028831&hoofdstuk=3&paragraaf=1&artikel=14&z=2019-01-01&g=2019-01-01) moet de ambtenaar van politie, voor zover deze tot de voor hem voorgeschreven uniformen behoren, ten minste het voor hem door de korpsbeheerder politie, bij beschikking bepaalde aantal in zijn bezit hebben.
 
@@ -492,7 +517,7 @@ Door de korpsbeheerder politie wordt vastgesteld aan welke ambtenaar van politie
 
 4. Waar nodig kan vervanging of aanvulling door of namens de korpsbeheerder politie worden bevolen.
 
-#### Artikel 70
+##### Artikel 70
 
 1. De korpsbeheerder politie kan – al dan niet op voordracht van de beheerder – nadere voorschriften met betrekking tot de draagwijze van kleding, bewapening en uitrustingsstukken geven.
 
@@ -500,21 +525,21 @@ Door de korpsbeheerder politie wordt vastgesteld aan welke ambtenaar van politie
 
 3. Door de zorg van de korpsbeheerder politie worden registers bijgehouden waarin aantekening wordt gehouden van alle bij de politie berustende wapens, onder vermelding van het soort, model, kaliber en serienummer.
 
-#### Artikel 71
+##### Artikel 71
 
 1. Door Onze Minister kunnen andere dan de hierboven genoemde uitrustingsstukken worden vastgesteld.
 
 2. Door Onze Minister wordt bepaald, aan welke ambtenaren uitrustingsstukken worden verstrekt en op welke wijze en wanneer deze (mogen) worden gedragen en/of gebruikt.
 
-#### Artikel 72
+##### Artikel 72
 
 Deze regeling berust op [artikel 15 van de Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=15), [artikel 78, eerste lid, van het Besluit rechtspositie korps politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&artikel=78) en [artikel 16 van het Besluit bewapening en overige uitrusting politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028588&artikel=16).
 
-#### Artikel 73
+##### Artikel 73
 
 Deze regeling wordt aangehaald als: Regeling kleding, bewapening en overige uitrusting politie BES.
 
-#### Artikel 74
+##### Artikel 74
 
 [vervallen]
 

@@ -1,18 +1,43 @@
 ---
 title: "Verplaatsingskostenregeling defensie"
 identifier: "BWBR0039786"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2026-03-07
-laatste_update: 2026-03-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039786"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-07"
+last_updated: "2026-03-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039786"
+soort: "ministeriele-regeling"
+stam_id: "14071263"
+version_id: "31462262"
+internal_id: "C44937521"
+label_id: "14032454"
+dtd_version: "2.0"
+original_entry_into_force: "2026-02-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039786/2026-03-07/0"
+intitule_bron: "Stcrt.2017-40227"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-07-07"
+intitule_published: "2017-07-17"
+intitule_in_force: "2017-07-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-8857"
+original_signed_date: "2026-02-19"
+original_published_date: "2026-03-06"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2026-8857"
+entry_into_force_date: "2026-02-19"
+jci_1_3: "jci1.3:c:BWBR0039786&z=2026-03-07&g=2026-03-07"
+jci_1_0: "1.0:c:BWBR0039786&g=2026-03-07"
+citeertitel_status: "officieel"
+signed_date: "2026-02-19"
+entry_into_force: "2026-02-19"
 ---
-
 # Verplaatsingskostenregeling defensie
 
 Besluit vastgesteld wordt een Verplaatsingskostenregeling defensie luidende:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -52,7 +77,7 @@ In deze regeling wordt verstaan onder:
 
 - **werklocatie:** de tussen de commandant en de medewerker overeengekomen plaats waar de defensieambtenaar de werkzaamheden verricht.
 
-#### Artikel 2. Tegemoetkoming verhuiskosten
+##### Artikel 2. Tegemoetkoming verhuiskosten
 
 1. De aanvraag voor tegemoetkoming in verhuiskosten dient ten minste een maand vóór de datum van de verhuizing bij het bevoegd gezag te zijn ingediend.
 
@@ -70,7 +95,7 @@ In deze regeling wordt verstaan onder:
 
 8. Bij een verhuizing van de ambtenaar in verband met een ontslag als bedoeld in [artikel 8, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=8), bestaat geen aanspraak op het bedrag als bedoeld in lid twee.
 
-#### Artikel 3. Tegemoetkoming transportkosten
+##### Artikel 3. Tegemoetkoming transportkosten
 
 1. De defensieambtenaar heeft aanspraak op het transport van zijn inboedel indien het transport wordt uitgevoerd door een verhuisbedrijf bedoeld in [artikel 15 derde lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=15).
 
@@ -82,7 +107,7 @@ In deze regeling wordt verstaan onder:
 
 5. Andere kosten dan transportkosten als bedoeld in het vierde lid, zoals kosten voor een bench, invoerrechten, quarantaine e.d. komen niet voor vergoeding in aanmerking.
 
-#### Artikel 4. Tegemoetkoming transportkosten van inboedel, voertuig en bagage
+##### Artikel 4. Tegemoetkoming transportkosten van inboedel, voertuig en bagage
 
 1. De aanspraak op het transport van de inboedel van de defensieambtenaar en de meeverhuizende gezinsleden bedoeld in [artikel 15, tweede lid, onder a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=15) is bij verhuizingen naar een land gelegen buiten Europa, met uitzondering van Kreta, beperkt tot de kosten van het vervoer van een 40-voets container.
 
@@ -96,7 +121,7 @@ In deze regeling wordt verstaan onder:
 
 - b. voor de partner en voor elk tot het gezin behorend en meeverhuizend kind, maximaal 1 m3.
 
-#### Artikel 5. Tegemoetkoming reis- en verblijfkosten bij een bezichtigingsreis
+##### Artikel 5. Tegemoetkoming reis- en verblijfkosten bij een bezichtigingsreis
 
 1. De tegemoetkoming in de reis- en verblijfkosten bij een verplaatsing naar een land of gebied buiten Nederland bedoeld in [artikel 2, vierde lid, onderdeel b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=2), strekt tot alle landen en gebieden.
 
@@ -104,7 +129,7 @@ In deze regeling wordt verstaan onder:
 
 3. De tegemoetkoming wordt bepaald met toepassing van het [Besluit dienstreizen defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0007956).
 
-#### Artikel 6. Tegemoetkoming autohuur
+##### Artikel 6. Tegemoetkoming autohuur
 
 De defensieambtenaar heeft ingeval van een internationale overzeese verscheping van zijn inboedel als gevolg van zijn verplaatsing van:
 
@@ -116,19 +141,19 @@ De defensieambtenaar heeft ingeval van een internationale overzeese verscheping 
 
 aanspraak op een onbelaste tegemoetkoming van ten hoogste € 539,74 in de kosten van de huur van een vervoermiddel gedurende de periode dat hij ten gevolge van die verscheping tijdelijk niet de beschikking heeft over zijn eigen motorvoertuig dan wel indien hij geen eigen motorvoertuig verscheept heeft, voor de periode tot hij kan beschikken over een ter plaatse aangeschaft motorvoertuig.
 
-#### Artikel 7. Tegemoetkoming in de kosten voor aanschaf ter plaatse van een personenauto
+##### Artikel 7. Tegemoetkoming in de kosten voor aanschaf ter plaatse van een personenauto
 
 1. De tegemoetkoming in de gemaakte kosten voor de aanschaf ter plaatse van een personenauto bij verplaatsing naar een land buiten Europa, bedoeld in [artikel 16 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=16), bedraagt maximaal € 750,–.
 
 2. De over deze tegemoetkoming verschuldigde loonheffing en inhoudingen komen voor rekening van Defensie.
 
-#### Artikel 8. Duur van de tijdelijke onderbrenging
+##### Artikel 8. Duur van de tijdelijke onderbrenging
 
 1. De duur van de tijdelijke onderbrenging, bedoeld in [artikel 18 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=18), bedraagt maximaal 60 dagen.
 
 2. Indien de defensieambtenaar binnen de in het eerste lid genoemde termijn de definitieve woonruimte, bedoeld in [artikel 18, eerste lid, onder a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=18), nog niet heeft betrokken en hij naar het oordeel van het bevoegd gezag voldoende heeft aangetoond dat hij aan de in het vierde lid van dat artikel genoemde verplichting heeft voldaan, kan de termijn als bedoeld in het eerste lid maximaal vijf keer worden verlengd met ten hoogste 60 dagen per verlenging.
 
-#### Artikel 9. Aard van de tijdelijke onderbrenging
+##### Artikel 9. Aard van de tijdelijke onderbrenging
 
 De tijdelijke onderbrenging bedoeld in [artikel 18 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=18) vindt plaats:
 
@@ -140,7 +165,7 @@ De tijdelijke onderbrenging bedoeld in [artikel 18 van het besluit](https://wett
 
 - b. in een pension, indien geen woonruimte als bedoeld onder a beschikbaar is.
 
-#### Artikel 10. Kosten van de tijdelijke onderbrenging
+##### Artikel 10. Kosten van de tijdelijke onderbrenging
 
 1. Betaling van de kosten van de tijdelijke onderbrenging bedoeld in [artikel 18 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=18) vindt plaats door de zorg van het Rijk mits de hoogte daarvan vooraf is goedgekeurd door het bevoegd gezag. Eventuele bijkomende kosten voor schoonmaken, gas, water, elektriciteit verwarming, televisie, telefoon en toeristenbelasting, komen voor rekening van de defensieambtenaar en worden door de defensieambtenaar rechtstreeks met de verhuurder verrekend.
 
@@ -152,7 +177,7 @@ De tijdelijke onderbrenging bedoeld in [artikel 18 van het besluit](https://wett
 
 - b. bij drie of meer gezinsleden: 17%.
 
-#### Artikel 11. Kosten opslag inboedel bij tijdelijke onderbrenging
+##### Artikel 11. Kosten opslag inboedel bij tijdelijke onderbrenging
 
 1. De kosten van opslag van de inboedel, bedoeld in [artikel 18, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=18), zijn voor de duur van de tijdelijke onderbrenging voor rekening van het Rijk.
 
@@ -160,7 +185,7 @@ De tijdelijke onderbrenging bedoeld in [artikel 18 van het besluit](https://wett
 
 3. De verzorging van de opslag van de inboedel, bedoeld in het eerste lid, geschiedt door een verhuisbedrijf bedoeld in [artikel 15, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=15).
 
-#### Artikel 12. Eigen bijdrage bij tijdelijke onderbrenging
+##### Artikel 12. Eigen bijdrage bij tijdelijke onderbrenging
 
 1. De defensieambtenaar is voor de tijdelijke onderbrenging een eigen bijdrage verschuldigd tot maximaal de door het Rijk verschuldigde kosten van onderbrenging als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=10&z=2026-03-07&g=2026-03-07).
 
@@ -176,7 +201,7 @@ De tijdelijke onderbrenging bedoeld in [artikel 18 van het besluit](https://wett
 
 7. De berekening van de eigen bijdrage over een gedeelte van een maand vindt plaats naar evenredigheid, waarbij het bedrag per dag wordt vastgesteld door het bedrag verschuldigd over een volle maand te delen door dertig.
 
-#### Artikel 13. Tegemoetkoming in de kosten van het dagelijks reizen
+##### Artikel 13. Tegemoetkoming in de kosten van het dagelijks reizen
 
 1. Voor de defensieambtenaar die overwegend gebruik maakt van eigen vervoer, is de tegemoetkoming in de kosten van het dagelijks reizen tussen de woning of de plaats van legering en de plaats van tewerkstelling – afhankelijk van de afstand en het persoonlijk werkrooster – per kalendermaand gelijk aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2026-03-07&g=2026-03-07), tabel E genoemde bedragen.
 
@@ -184,7 +209,7 @@ De tijdelijke onderbrenging bedoeld in [artikel 18 van het besluit](https://wett
 
 3. De tegemoetkoming in de kosten van het dagelijks reizen tussen de woning en de plaats van tewerkstelling voor de defensieambtenaar, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=2&z=2026-03-07&g=2026-03-07), is gelijk aan het bedrag per kalendermaand van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2026-03-07&g=2026-03-07), tabel E genoemde bedragen over de afstand binnen Nederland.
 
-#### Artikel 14. Tegemoetkoming in de kosten van het dagelijks reizen naar niet per openbaar vervoer bereikbare plaatsen
+##### Artikel 14. Tegemoetkoming in de kosten van het dagelijks reizen naar niet per openbaar vervoer bereikbare plaatsen
 
 1. Voor de defensieambtenaar, wiens plaats van tewerkstelling door de Minister is aangewezen als een plaats van tewerkstelling die niet per openbaar vervoer is te bereiken, is in afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=13&z=2026-03-07&g=2026-03-07) de tegemoetkoming in de kosten van het dagelijks reizen tussen de woning en de plaats van tewerkstelling – afhankelijk van de afstand en het persoonlijk werkrooster – gelijk aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2026-03-07&g=2026-03-07), tabel N, opgenomen bedragen.
 
@@ -196,7 +221,7 @@ De tijdelijke onderbrenging bedoeld in [artikel 18 van het besluit](https://wett
 
 5. De tegemoetkoming in de kosten van het dagelijks reizen tussen de woning en de plaats van tewerkstelling voor de defensieambtenaar, bedoeld in [artikel 2, vijfde lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=2&z=2026-03-07&g=2026-03-07), is gelijk aan het bedrag per kalendermaand van het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2026-03-07&g=2026-03-07), tabel N genoemde bedrag over de afstand binnen Nederland.
 
-#### Artikel 15. Eigen bijdrage bij dagelijks reizen
+##### Artikel 15. Eigen bijdrage bij dagelijks reizen
 
 De defensieambtenaar die kiest voor de aanspraak op privégebruik van een door Defensie verstrekt openbaar vervoersbewijs, betaalt hiervoor een eigen bijdrage. Deze eigen bijdrage bedraagt per maand:
 
@@ -204,11 +229,11 @@ De defensieambtenaar die kiest voor de aanspraak op privégebruik van een door D
 
 - b. € 21,08 indien uitsluitend trein is inbegrepen.
 
-#### Artikel 16. Tegemoetkoming bij dagelijks reizen tussen plaats van legering en plaats van tewerkstelling in het buitenland
+##### Artikel 16. Tegemoetkoming bij dagelijks reizen tussen plaats van legering en plaats van tewerkstelling in het buitenland
 
 In afwijking van het gestelde in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=13&z=2026-03-07&g=2026-03-07) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=15&z=2026-03-07&g=2026-03-07), is de tegemoetkoming in de kosten van het dagelijks reizen tussen de woning of de plaats van legering en de plaats van tewerkstelling die beide zijn gelegen buiten Nederland, afhankelijk van het land van plaatsing, per kalendermaand gelijk aan: het product van de afstand en het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=2&z=2026-03-07&g=2026-03-07), Tabel F, opgenomen kilometerbedrag, verminderd met de in bijlage 2, Tabel G, voor dat land vastgestelde eigen bijdrage.
 
-#### Artikel 17. Tegemoetkoming in de kosten bij niet-dagelijks reizen algemeen
+##### Artikel 17. Tegemoetkoming in de kosten bij niet-dagelijks reizen algemeen
 
 1. De defensieambtenaar die niet dagelijks rijdt tussen de woning en de plaats van tewerkstelling, heeft aanspraak op een tegemoetkoming in de reiskosten van achtmaal per periode van vier weken. Indien de plaats van tewerkstelling in Nederland, België of Duitsland en de woning in Nederland, België of Duitsland is gelegen waarbij de tegemoetkoming per kalendermaand afhankelijk is van de afstand en het persoonlijk werkrooster is de tegemoetkoming gelijk aan de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=4&z=2026-03-07&g=2026-03-07), tabel O opgenomen bedragen.
 
@@ -226,7 +251,7 @@ In afwijking van het gestelde in de [artikelen 13](https://wetten.overheid.nl/jc
 
 5. [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2026-03-07&g=2026-03-07), tabel H, blijft van toepassing op de defensieambtenaar die op 1 januari 2025 met toepassing van het eerste of tweede lid reeds aanspraak had op een tegemoetkoming op grond van tabel H en deze tegemoetkoming hoger is dan de tegemoetkoming die de defensieambtenaar op grond van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=4&z=2026-03-07&g=2026-03-07), tabel S zou ontvangen, tot het moment waarop sprake is van een wijziging van de plaats van tewerkstelling of een verhuizing van de defensieambtenaar.
 
-#### Artikel 18. Tegemoetkoming in de kosten van het niet dagelijks reizen bijzonder
+##### Artikel 18. Tegemoetkoming in de kosten van het niet dagelijks reizen bijzonder
 
 1. De tegemoetkoming in de kosten van het niet dagelijks reizen als bedoeld in [artikel 20, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=20&z=2026-03-07&g=2026-03-07), tussen de woning en de plaats van tewerkstelling, waarbij de woning en de plaats van tewerkstelling beide zijn gelegen buiten Nederland, België of Duitsland, is, bij het reizen per openbaar vervoer, gelijk aan de kosten daarvan. Bij het reizen met eigen vervoer is de tegemoetkoming gelijk aan het in de [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2026-03-07&g=2026-03-07), respectievelijk de in Tabel J en K of in Tabel L en M opgenomen bedragen.
 
@@ -234,15 +259,15 @@ In afwijking van het gestelde in de [artikelen 13](https://wetten.overheid.nl/jc
 
 3. Indien gereisd wordt met het openbaar vervoer wordt de tegemoetkoming bepaald naar de klasse waarin de defensieambtenaar is gerechtigd te reizen overeenkomstig de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&artikel=4) en [5 van de Regeling dienstreizen defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&artikel=5).
 
-#### Artikel 19. Overdraagbaarheid van reisaanspraken
+##### Artikel 19. Overdraagbaarheid van reisaanspraken
 
 Vervallen
 
-#### Artikel 20. Eigen bijdrage bij inzet van vervoer van rijkswege
+##### Artikel 20. Eigen bijdrage bij inzet van vervoer van rijkswege
 
 Vervallen
 
-#### Artikel 21. Tegemoetkoming algemeen
+##### Artikel 21. Tegemoetkoming algemeen
 
 1. Indien de aanspraak op een tegemoetkoming in de kosten van het reizen tussen de woning of de plaats van legering en de plaats van tewerkstelling aanvangt of eindigt anders dan op de respectievelijk eerste of laatste werkdag van een kalendermaand wordt de tabeltegemoetkoming opgenomen in [bijlage 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2026-03-07&g=2026-03-07), voor die maand berekend naar rato van het aantal werkdagen.
 
@@ -256,11 +281,11 @@ Vervallen
 
 6. Met inachtneming van het derde en het vierde lid heeft de defensieambtenaar waarvoor geen persoonlijk werkrooster is vastgesteld in een geautomatiseerd personeelssysteem op aanvraag aanspraak op een tabeltegemoetkoming opgenomen in [bijlage 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2026-03-07&g=2026-03-07).
 
-#### Artikel 22. Tegemoetkoming in de pensionkosten
+##### Artikel 22. Tegemoetkoming in de pensionkosten
 
 De tegemoetkoming in pensionkosten, als bedoeld in [artikel 26, eerste en derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=26), bedraagt voor de ambtenaar die gewoonlijk met gezinsleden samenwoont 90%, en voor de overige ambtenaren 60% van de betaalde pensionkosten, voor zover deze kosten niet uitgaan boven de door het bevoegd gezag redelijk geoordeelde pensionkosten
 
-#### Artikel 23
+##### Artikel 23
 
 De volgende regelingen worden ingetrokken:
 
@@ -268,11 +293,11 @@ De volgende regelingen worden ingetrokken:
 
 - b. de Verplaatsingskostenregeling militairen.
 
-#### Artikel 24. Inwerkingtreding
+##### Artikel 24. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de datum van ondertekening en werkt terug tot 1 maart 2012 waarvan mededeling wordt gedaan in de Staatscourant. Deze regeling wordt gepubliceerd in serie Ministeriële Publicaties (MP 31-300 en MP 33-410).
 
-#### Artikel 25. Citeertitel
+##### Artikel 25. Citeertitel
 
 Deze regeling wordt aangehaald als, Verplaatsingskostenregeling defensie.
 
@@ -814,7 +839,7 @@ N.B. De tabellen E en N kennen een maximum tabelafstand van 125 km.
 
 Vervallen
 
-#### Artikel 1a. Wijziging persoonlijk werkrooster
+##### Artikel 1a. Wijziging persoonlijk werkrooster
 
 1. Op verzoek van de defensieambtenaar kan het persoonlijk werkrooster eenmaal per vier weken worden gewijzigd.
 

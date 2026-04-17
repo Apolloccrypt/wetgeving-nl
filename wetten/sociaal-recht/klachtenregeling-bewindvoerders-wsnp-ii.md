@@ -1,13 +1,38 @@
 ---
 title: "Klachtenregeling bewindvoerders Wsnp II"
 identifier: "BWBR0034045"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-12-14
-laatste_update: 2024-12-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034045"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-12-14"
+last_updated: "2024-12-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034045"
+soort: "ministeriele-regeling"
+stam_id: "12400303"
+version_id: "20809352"
+internal_id: "C29886471"
+label_id: "12371284"
+dtd_version: "2.0"
+original_entry_into_force: "2013-10-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034045/2024-12-14/0"
+intitule_bron: "Stcrt.2013-29038"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-10-08"
+intitule_published: "2013-10-18"
+intitule_in_force: "2013-10-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-29038"
+original_signed_date: "2013-10-08"
+original_published_date: "2013-10-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-29038"
+entry_into_force_date: "2013-10-20"
+jci_1_3: "jci1.3:c:BWBR0034045&z=2024-12-14&g=2024-12-14"
+jci_1_0: "1.0:c:BWBR0034045&g=2024-12-14"
+citeertitel_status: "officieel"
+signed_date: "2013-10-08"
+entry_into_force: "2013-10-20"
 ---
-
 # Klachtenregeling bewindvoerders Wsnp II
 
 Gelet op:
@@ -32,7 +57,7 @@ stelt vast de volgende regels over de behandeling, het onderzoek en de afdoening
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -66,7 +91,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Klachten over een Wsnp-bewindvoerder
 
-#### Artikel 2. De indiening van de klacht
+##### Artikel 2. De indiening van de klacht
 
 1. De klager dient de klacht schriftelijk, gemotiveerd en voorzien van een datum en handtekening, in bij de Raad voor Rechtsbijstand. De contactgegevens staan vermeld in de toelichting bij deze klachtenregeling.
 
@@ -78,7 +103,7 @@ In deze regeling wordt verstaan onder:
 
 - c). De klacht is gebaseerd op de Gedragscode. De klacht heeft uitdrukkelijk geen betrekking op de inhoudelijke behandeling van de wettelijke schuldsaneringsregeling, waarin de regeling van [artikel 317 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=317) (behandeling van klachten door de rechter-commissaris) voorziet.
 
-#### Artikel 3. De ontvangstbevestiging en behandeling van de klacht
+##### Artikel 3. De ontvangstbevestiging en behandeling van de klacht
 
 1). De secretaris bevestigt zo spoedig mogelijk schriftelijk de ontvangst van de klacht aan de klager en maakt daarbij melding van het verloop van de verdere procedure. Wanneer de klacht niet volledig is of anderszins niet voldoet aan de voorwaarden van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034045&paragraaf=2&artikel=2&z=2024-12-14&g=2024-12-14), stelt de secretaris de klager in de gelegenheid om het verzuim te herstellen. De klager wordt daartoe een termijn van ten hoogste vier weken gesteld. In evidente gevallen kan de secretaris de klacht direct niet-ontvankelijk verklaren.
 
@@ -92,7 +117,7 @@ In deze regeling wordt verstaan onder:
 
 6). De klager wordt schriftelijk in kennis gesteld van de reactie van de bewindvoerder.
 
-#### Artikel 4. Onderzoek door de klachtenadviescommissie
+##### Artikel 4. Onderzoek door de klachtenadviescommissie
 
 1). In geval van toepassing van [artikel 3 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034045&paragraaf=2&artikel=3&z=2024-12-14&g=2024-12-14) van deze regeling, ontvangen de leden van de klachtenadviescommissie van de secretaris alle ingediende en ter zake doende gegevens.
 
@@ -106,13 +131,13 @@ In deze regeling wordt verstaan onder:
 
 #### § 3. Afdoening van de klacht
 
-#### Artikel 5. Termijnen van afdoening
+##### Artikel 5. Termijnen van afdoening
 
 1). De Raad, in de persoon van de manager bureau Wsnp, beslist – namens de Minister van Veiligheid en Justitie – binnen ten hoogste veertien weken na ontvangst van de klacht op de klacht.
 
 2). In het geval de Raad niet in de gelegenheid is om binnen de in lid 1 gestelde termijn op de klacht te beslissen, stelt de secretaris de klager en de bewindvoerder schriftelijk in kennis van een verdaging van ten hoogste vier weken.
 
-#### Artikel 6. Afdoening
+##### Artikel 6. Afdoening
 
 1). De secretaris stelt de klager, de bewindvoerder en de Klachtenadviescommissie schriftelijk en gemotiveerd in kennis van de beslissing die de Raad neemt. Het advies van de klachtenadviescommissie maakt onderdeel uit van de beslissing.
 
@@ -120,7 +145,7 @@ In deze regeling wordt verstaan onder:
 
 3). Wanneer een klacht gegrond wordt verklaard, kan de Raad in overeenstemming met de bepalingen in het subsidiebesluit, het vergoedingenbesluit en het reglement Register bewindvoerder (II) een passende maatregel nemen. Deze maatregel wordt in een afzonderlijk besluit genomen.
 
-#### Artikel 7. Citeertitel en inwerkingtreding
+##### Artikel 7. Citeertitel en inwerkingtreding
 
 1). De [Klachtenregeling bewindvoerders Wsnp](https://wetten.overheid.nl/jci1.3:c:BWBR0032998) (Staatscourant 2013, 6761) komt per 1 oktober 2013 te vervallen.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit beperkingen op de markt brengen, verspreiden of verkopen van contracts for differences aan niet-professionele cliënten ex Verordening (EU) nr. 600/2014 en Wet op het financieel toezicht (beperkingen aan CFD’s)"
+title: "Besluit van 18 april 2019, houdende beperkingen aan het op de markt brengen, verspreiden of het verkopen van contracts for differences aan niet-professionele cliënten in verband met Verordening (EU) nr. 600/2014 van het Europees Parlement en de Raad van 15 mei 2014 en de Wet op het financieel toezicht (Beperkingen aan CFD’s)"
 identifier: "BWBR0042122"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-04-19
-laatste_update: 2019-04-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042122"
+country: "nl"
+rank: "zbo"
+publication_date: "2019-04-19"
+last_updated: "2019-04-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042122"
+soort: "zbo"
+stam_id: "15054303"
+version_id: "25799162"
+internal_id: "C36787091"
+label_id: "15003474"
+dtd_version: "2.0"
+original_entry_into_force: "2019-04-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042122/2019-04-19/0"
+intitule_bron: "Stcrt.2019-21123"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-04-18"
+intitule_published: "2019-04-18"
+intitule_in_force: "2019-04-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-21123"
+original_signed_date: "2019-04-18"
+original_published_date: "2019-04-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-21123"
+entry_into_force_date: "2019-04-19"
+jci_1_3: "jci1.3:c:BWBR0042122&z=2019-04-19&g=2019-04-19"
+jci_1_0: "1.0:c:BWBR0042122&g=2019-04-19"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperkingen op de markt brengen, verspreiden of verkopen van contracts for differences aan niet-professionele cliënten ex Verordening (EU) nr. 600/2014 en Wet op het financieel toezicht (beperkingen aan CFD’s)"
+signed_date: "2019-04-18"
+entry_into_force: "2019-04-19"
 ---
-
 # Besluit van 18 april 2019, houdende beperkingen aan het op de markt brengen, verspreiden of het verkopen van contracts for differences aan niet-professionele cliënten in verband met Verordening (EU) nr. 600/2014 van het Europees Parlement en de Raad van 15 mei 2014 en de Wet op het financieel toezicht (Beperkingen aan CFD’s)
 
 gelet op,
@@ -22,7 +48,7 @@ artikel 21 van de Gedelegeerde Verordening (EU) 2017/567 van de Commissie van 18
 
 besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van dit besluit wordt verstaan onder:
 
@@ -42,7 +68,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 - 8. **‘aanbieder’:** de persoon die aanbiedt.
 
-#### Artikel 2. Beperkingen aan CFD’s met betrekking tot niet-professionele cliënten
+##### Artikel 2. Beperkingen aan CFD’s met betrekking tot niet-professionele cliënten
 
 CFD’s kunnen uitsluitend op de markt worden gebracht, worden verspreid of worden verkocht aan niet-professionele cliënten indien in ieder geval aan alle volgende voorwaarden is voldaan:
 
@@ -56,11 +82,11 @@ CFD’s kunnen uitsluitend op de markt worden gebracht, worden verspreid of word
 
 - 5. de CFD-aanbieder doet niet, rechtstreeks of middellijk, enige mededeling aan en publiceert evenmin enige voor niet-professionele cliënten toegankelijke informatie in verband met het op de markt brengen, verspreiden of verkopen van een CFD tenzij in die mededeling of informatie een passende risicowaarschuwing is opgenomen zoals gespecificeerd in en in overeenstemming met de voorwaarden van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0042122&bijlage=II&z=2019-04-19&g=2019-04-19).
 
-#### Artikel 3. Verbod op deelname aan ontduikingsactiviteiten
+##### Artikel 3. Verbod op deelname aan ontduikingsactiviteiten
 
 Het is verboden om doelbewust deel te nemen aan activiteiten die ontwijking van de vereisten van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042122&artikel=2&z=2019-04-19&g=2019-04-19) als oogmerk of als resultaat hebben, en eveneens om daartoe op te treden als vervanger van de CFD-aanbieder. De CFD-aanbieder eist van de niet-professionele cliënt betaling van de initiële marge bescherming.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 19 april 2019.
 

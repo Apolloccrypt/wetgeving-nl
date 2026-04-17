@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling opvang kinderen van ouders met trekkend/varend bestaan"
+title: "Regeling van de Minister voor Jeugd en Gezin van 17 december 2009, nr. JZ/LJ-2977004, houdende vaststelling van regels voor de rechtstreekse subsidiëring van het huisvesten, verzorgen en opvoeden van kinderen of pleegkinderen van binnenschippers, kermisexploitanten en circusartiesten (Subsidieregeling opvang kinderen van ouders met trekkend/varend bestaan)"
 identifier: "BWBR0026965"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026965"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026965"
+soort: "ministeriele-regeling"
+stam_id: "10349493"
+version_id: "16995952"
+internal_id: "C23435241"
+label_id: "10324904"
+dtd_version: "2.0"
+original_entry_into_force: "2009-12-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026965/2026-01-01/0"
+intitule_bron: "Stcrt.2009-20186"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-12-17"
+intitule_published: "2009-12-29"
+intitule_in_force: "2009-12-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-20186"
+original_signed_date: "2009-12-17"
+original_published_date: "2009-12-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-20186"
+entry_into_force_date: "2009-12-30"
+jci_1_3: "jci1.3:c:BWBR0026965&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0026965&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling opvang kinderen van ouders met trekkend/varend bestaan"
+signed_date: "2009-12-17"
+entry_into_force: "2009-12-30"
 ---
-
 # Regeling van de Minister voor Jeugd en Gezin van 17 december 2009, nr. JZ/LJ-2977004, houdende vaststelling van regels voor de rechtstreekse subsidiëring van het huisvesten, verzorgen en opvoeden van kinderen of pleegkinderen van binnenschippers, kermisexploitanten en circusartiesten (Subsidieregeling opvang kinderen van ouders met trekkend/varend bestaan)
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5) en [7 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=7);
@@ -16,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -48,11 +74,11 @@ Besluit:
 
 2. De minister kan voor de toepassing van deze regeling een persoon die in vergelijkbare omstandigheden verkeert, gelijk stellen met een binnenschipper, kermisexploitant of circusexploitant.
 
-#### Artikel 2
+##### Artikel 2
 
 De [artikelen 8.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=8.2), en [10.1, eerste lid, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=10.1) zijn niet van toepassing op een instellingssubsidie.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een instellingssubsidie wordt uitsluitend verstrekt ten behoeve van een kind:
 
@@ -78,7 +104,7 @@ De [artikelen 8.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&a
 
 #### Paragraaf 2. Instellingssubsidie
 
-#### Artikel 4
+##### Artikel 4
 
 De minister kan aan een exploitant een instellingssubsidie verstrekken:
 
@@ -88,7 +114,7 @@ De minister kan aan een exploitant een instellingssubsidie verstrekken:
 
 - c. ten behoeve van het in samenwerking met andere exploitanten opvangen van de personele gevolgen van wijzigingen in de capaciteit voor het huisvesten, verzorgen en opvoeden van kinderen in een internaat.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Bij de verlening van de instellingssubsidie wordt het bedrag van de instellingssubsidie ten behoeve van het kalenderjaar 2026 berekend met de formule Σ(A x B)n+Σ(A x C)n+(D x E) – F, waarbij wordt verstaan onder de letter:
 
@@ -120,15 +146,15 @@ De minister kan aan een exploitant een instellingssubsidie verstrekken:
 
 #### Paragraaf 3. Aanvraag
 
-#### Artikel 6
+##### Artikel 6
 
 Voor de aanvraag van een instellingssubsidie wordt een door de minister vastgesteld formulier gebruikt.
 
-#### Artikel 7
+##### Artikel 7
 
 De aanvraag van een instellingssubsidie bevat een opgave van het aantal kinderen, genoemd in [artikel 5, eerste lid onder de letters A en D](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=2&artikel=5&z=2026-01-01&g=2026-01-01). Deze opgave gaat vergezeld van een assurancerapport van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) overeenkomstig een door de minister vastgesteld modelassurancerapport met inachtneming van een door de minister vastgesteld accountantsprotocol.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De aanvraag van een instellingssubsidie wordt ingediend voor 1 november van het kalenderjaar voorafgaand aan het boekjaar waarvoor de instellingssubsidie wordt aangevraagd.
 
@@ -136,7 +162,7 @@ De aanvraag van een instellingssubsidie bevat een opgave van het aantal kinderen
 
 #### Paragraaf 4. Subsidieverplichtingen
 
-#### Artikel 9
+##### Artikel 9
 
 1. De exploitant komt schriftelijk met de binnenschipper, kermisexploitant of circusartiest overeen dat ten behoeve van de huisvesting, verzorging en opvoeding van diens kind in het internaat een ouderbijdrage is verschuldigd aan de exploitant.
 
@@ -146,7 +172,7 @@ De aanvraag van een instellingssubsidie bevat een opgave van het aantal kinderen
 
 - b. voor het tweede en elk volgend kind uit een gezin € 1.458,92, vermeerderd met 1,5% van dat deel van het belastbare inkomen van de binnenschipper, kermisexploitant of circusartiest dat het bedrag van € 17.570,00 te boven gaat, tot een maximum van € 2.349,47.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De exploitant komt schriftelijk met de binnenschipper, kermisexploitant of circusartiest overeen dat ten behoeve van de huisvesting, verzorging en opvoeding van diens kind in het pleeggezin een ouderbijdrage is verschuldigd aan de exploitant.
 
@@ -156,25 +182,25 @@ De aanvraag van een instellingssubsidie bevat een opgave van het aantal kinderen
 
 - b. voor het tweede en elk volgend kind uit een gezin € 1.458,92, vermeerderd met 0,5% van dat deel van het belastbare inkomen van de binnenschipper, kermisexploitant of circusartiest dat het bedrag van € 17.570,00 te boven gaat, tot een maximum van € 1.755,05.
 
-#### Artikel 11
+##### Artikel 11
 
 Het belastbare inkomen, bedoeld in de [artikelen 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=9&z=2026-01-01&g=2026-01-01), en [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=10&z=2026-01-01&g=2026-01-01), is het belastbare inkomen dat is vermeld op de belastingaanslag over het tweede jaar voorafgaande aan het jaar waarvoor de instellingssubsidie wordt verstrekt.
 
-#### Artikel 12
+##### Artikel 12
 
 De ouderbijdrage, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=9&z=2026-01-01&g=2026-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=10&z=2026-01-01&g=2026-01-01), is verschuldigd naar evenredigheid van het aantal schoolweken van het jaar dat het kind is geplaatst in een internaat of een pleeggezin.
 
-#### Artikel 13
+##### Artikel 13
 
 De exploitant int de ouderbijdrage, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=9&z=2026-01-01&g=2026-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=10&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 14
+##### Artikel 14
 
 1. De exploitant draagt er aantoonbaar zorg voor dat de huisvesting, verzorging en opvoeding van verantwoorde kwaliteit is en dat daartoe waarborgen worden getroffen die onder meer betrekking hebben op de medezeggenschap van zijn cliënten, op het behandelen van klachten van zijn cliënten, op de personele en materiële voorzieningen en op de systematische bewaking van de kwaliteit.
 
 2. Ter uitvoering van het eerste lid vergewist de exploitant zich ervan dat de personen die werkzaam zijn voor de huisvesting, verzorging en opvoeding in het bezit zijn van een voldoende recente verklaring omtrent het gedrag, afgegeven volgens de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194).
 
-#### Artikel 15
+##### Artikel 15
 
 1. De exploitant doet binnen dertien weken na afloop van het boekjaar verslag over de wijze waarop uitvoering is gegeven aan de verplichtingen die zijn opgenomen in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=14&z=2026-01-01&g=2026-01-01).
 
@@ -182,15 +208,15 @@ De exploitant int de ouderbijdrage, bedoeld in de [artikelen 9](https://wetten.o
 
 3. De exploitant zendt het verslag aan de minister en in afschrift aan de inspectie jeugdzorg, bedoeld in [artikel 9.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=9.1).
 
-#### Artikel 16
+##### Artikel 16
 
 Met het toezicht op de naleving van de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=14&z=2026-01-01&g=2026-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=15&z=2026-01-01&g=2026-01-01) zijn belast de ambtenaren van de inspectie jeugdzorg, bedoeld in [artikel 9.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=9.1).
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 1. De vergoeding die de instelling betaalt aan een organisatie die zich de ondersteuning van één of meer gesubsidieerde instellingen ten doel stelt, voor door die organisatie aan de instelling ter beschikking gestelde goederen, is niet hoger dan het bedrag dat op grond van de verkrijgingsprijs of vervaardigingsprijs verminderd met de ontvangen investeringssubsidies en bestemmingsgiften berekend wordt, rekening houdend met de geldende afschrijvingspercentages.
 
@@ -198,35 +224,35 @@ Vervallen
 
 3. De vergoeding die de instelling betaalt aan een organisatie die zich de ondersteuning van één of meer gesubsidieerde instellingen ten doel stelt, voor door die organisatie aan de instelling geleverde diensten, andere dan de in het tweede lid bedoelde activiteiten, is niet hoger dan het bedrag dat voor het doen verrichten van dergelijke diensten door andere organisaties gebruikelijk kan worden geacht.
 
-#### Artikel 19
+##### Artikel 19
 
 Indien bij de minister het vermoeden is gerezen dat [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=18&z=2026-01-01&g=2026-01-01) niet is nageleefd, spant de subsidieontvanger zich desgevraagd in de jaarrekening van de desbetreffende organisatie over te leggen.
 
-#### Artikel 20
+##### Artikel 20
 
 Voor de aanvraag van de vaststelling van een instellingssubsidie wordt een door de minister vastgesteld formulier gebruikt.
 
 #### Paragraaf 5. Overgangs- en slotbepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 De [Subsidieregeling schippersinternaten](https://wetten.overheid.nl/jci1.3:c:BWBR0020459) vervalt met dien verstande dat die regeling van toepassing blijft ten aanzien van subsidies die op grond van die regeling zijn verstrekt.
 
-#### Artikel 23
+##### Artikel 23
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2027 met dien verstande dat deze regeling van toepassing blijft op subsidies die op grond van deze regeling zijn verstrekt.
 
-#### Artikel 24
+##### Artikel 24
 
 Deze regeling wordt aangehaald als: Subsidieregeling opvang kinderen van ouders met trekkend/varend bestaan.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5a. Meerkosten energie
+##### Artikel 5a. Meerkosten energie
 
 Vervallen
 

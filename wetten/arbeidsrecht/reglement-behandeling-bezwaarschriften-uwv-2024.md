@@ -1,20 +1,45 @@
 ---
 title: "Reglement behandeling bezwaarschriften UWV 2024"
 identifier: "BWBR0048909"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048909"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048909"
+soort: "zbo"
+stam_id: "16920903"
+version_id: "29739662"
+internal_id: "C42625001"
+label_id: "16832504"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048909/2024-01-01/0"
+intitule_bron: "Stcrt.2023-31588"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-10-31"
+intitule_published: "2023-11-20"
+intitule_in_force: "2023-11-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-31588"
+original_signed_date: "2023-10-31"
+original_published_date: "2023-11-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-31588"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0048909&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0048909&g=2024-01-01"
+citeertitel_status: "officieel"
+signed_date: "2023-10-31"
+entry_into_force: "2024-01-01"
 ---
-
 # Reglement behandeling bezwaarschriften UWV 2024
 
 Gelet op de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6) en [7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7),
 
 Besluit:
 
-#### Artikel 1. definities
+##### Artikel 1. definities
 
 In dit reglement wordt verstaan onder:
 
@@ -42,7 +67,7 @@ In dit reglement wordt verstaan onder:
 
 - 2. de werkgever en de bank of verzekeraar, die als garantsteller optreedt voor de werkgever die eigenrisicodrager is voor de WGA-uitkeringen van zijn werknemers, genoemd in [artikel 103 onder c Wet Werk en Inkomen naar Arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=103), en die belanghebbende zijn bij de medische beschikking.
 
-#### Artikel 2. bevestiging van ontvangst, telefonisch contact en afspraken
+##### Artikel 2. bevestiging van ontvangst, telefonisch contact en afspraken
 
 1. Op het bezwaarschrift wordt de datum van ontvangst aangetekend.
 
@@ -58,7 +83,7 @@ In dit reglement wordt verstaan onder:
 
 7. Als telefonisch contact met de indiener van het bezwaarschrift niet mogelijk is gebleken, wordt verder schriftelijk gecommuniceerd.
 
-#### Artikel 3. vertegenwoordiging
+##### Artikel 3. vertegenwoordiging
 
 1. Als het bezwaarschrift is ingediend (mede) namens een natuurlijke of rechtspersoon, kan een schriftelijke machtiging worden verlangd, tenzij de gemachtigde advocaat is.
 
@@ -68,7 +93,7 @@ In dit reglement wordt verstaan onder:
 
 4. Als een gevraagde machtiging niet op tijd is verstrekt, wordt degene namens wie het bezwaarschrift is ingediend, gevraagd om binnen een door UWV vastgestelde termijn, de bedoelde machtiging over te leggen dan wel te verklaren dat hij zelf het bezwaarschrift heeft ingediend. Bij niet tijdige ontvangst van de gevraagde machtiging of verklaring kan UWV het bezwaarschrift niet ontvankelijk verklaren.
 
-#### Artikel 4. vormverzuimen
+##### Artikel 4. vormverzuimen
 
 1. Als niet is voldaan aan [artikel 6:5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:5) of aan enig ander wettelijk vereiste voor het in behandeling nemen van het bezwaar, wordt de indiener van het bezwaarschrift in de gelegenheid gesteld dit verzuim te herstellen binnen een door UWV vastgestelde termijn.
 
@@ -76,7 +101,7 @@ In dit reglement wordt verstaan onder:
 
 3. Bij mogelijke overschrijding van de in het eerste lid bedoelde termijn, dan wel de in het tweede lid bedoelde verlengde termijn, wordt telefonisch contact opgenomen met de indiener van het bezwaarschrift over het herstel van het vormverzuim. Als telefonisch contact niet mogelijk is of herstel uitblijft, kan het bezwaar niet-ontvankelijk worden verklaard.
 
-#### Artikel 5. vormverzuimen bij medische beschikkingen
+##### Artikel 5. vormverzuimen bij medische beschikkingen
 
 1. In afwijking van het bepaalde in [artikel 6:5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:5) worden de gronden van het bezwaarschrift die betrekking hebben op medische gegevens, op een aparte bijlage vermeld.
 
@@ -86,7 +111,7 @@ In dit reglement wordt verstaan onder:
 
 4. Bij mogelijke overschrijding van de in het tweede lid bedoelde termijn, dan wel de in het derde lid bedoelde verlengde termijn, wordt telefonisch contact opgenomen over het herstel van het vormverzuim. Als telefonisch contact niet mogelijk is of herstel uitblijft, kan het bezwaar niet-ontvankelijk worden verklaard.
 
-#### Artikel 6. aanvullende gronden van bezwaar en nader onderbouwen van het bezwaar
+##### Artikel 6. aanvullende gronden van bezwaar en nader onderbouwen van het bezwaar
 
 1. Als de indiener van het bezwaarschrift verzoekt om uitstel voor aanvulling van de gronden van het bezwaar en/of het nader onderbouwen daarvan, krijgt hij hiertoe de gelegenheid. De termijn waarbinnen de gronden worden aangevuld, wordt in overleg met de indiener van het bezwaarschrift dan wel door UWV bepaald. Daarbij kan door UWV gebruik gemaakt worden van de mogelijkheid tot opschorten.
 
@@ -94,7 +119,7 @@ In dit reglement wordt verstaan onder:
 
 3. Bij mogelijke overschrijding van de in het eerste lid bedoelde termijn, dan wel de in het tweede lid bedoelde verlengde termijn, wordt telefonisch contact opgenomen over het aanvullen van de gronden. Als telefonisch contact niet mogelijk is of aanvulling uitblijft, kan UWV de beslissing baseren op het op dat moment voorliggende bezwaar.
 
-#### Artikel 7. prematuur bezwaar
+##### Artikel 7. prematuur bezwaar
 
 1. Als [artikel 6:10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:10) van toepassing is, stelt UWV de indiener van het bezwaarschrift in de gelegenheid de gronden van zijn bezwaarschrift aan te vullen. De termijn waarbinnen de gronden worden aangevuld, wordt in overleg met de indiener van het bezwaarschrift dan wel door UWV bepaald en vangt aan na verzending van de beschikking waartegen het bezwaar is gericht.
 
@@ -102,7 +127,7 @@ In dit reglement wordt verstaan onder:
 
 3. Bij mogelijke overschrijding van de in het eerste lid bedoelde termijn, dan wel de in het tweede lid bedoelde verlengde termijn, wordt telefonisch contact opgenomen met de indiener van het bezwaarschrift over het aanvullen van de gronden. Als telefonisch contact niet mogelijk is of aanvulling uitblijft, kan UWV de beslissing baseren op het op dat moment voorliggende bezwaar.
 
-#### Artikel 8. termijnoverschrijding bij indienen bezwaar
+##### Artikel 8. termijnoverschrijding bij indienen bezwaar
 
 1. UWV stelt de indiener van het bezwaarschrift dat is ingediend na afloop van de wettelijke termijn, in de gelegenheid zijn zienswijze over het verzuim naar voren te brengen of deze aan te vullen. De termijn hiervoor wordt door UWV bepaald.
 
@@ -110,7 +135,7 @@ In dit reglement wordt verstaan onder:
 
 3. Als de (aanvullende) schriftelijke zienswijze aanleiding geeft tot twijfel over de vraag of de indiener van het bezwaarschrift in verzuim is geweest, dan neemt UWV telefonisch contact op met de indiener van het bezwaarschrift om de reden van het te laat indienen verder te bespreken.
 
-#### Artikel 9. informatie aan en betrokkenheid van andere belanghebbenden dan de indiener van het bezwaarschrift
+##### Artikel 9. informatie aan en betrokkenheid van andere belanghebbenden dan de indiener van het bezwaarschrift
 
 1. UWV kan het bezwaarschrift, met inachtneming van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0048909&artikel=14&z=2024-01-01&g=2024-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0048909&artikel=15&z=2024-01-01&g=2024-01-01), aan andere belanghebbenden sturen met de vraag of dezen bij de verdere voortgang van de procedure betrokken willen worden.
 
@@ -120,7 +145,7 @@ In dit reglement wordt verstaan onder:
 
 4. De werknemer wordt ongevraagd bij de verdere voortgang van de procedure betrokken.
 
-#### Artikel 10. inschakeling van (verzekerings-)arts Bezwaar en Beroep en/of arbeidsdeskundige Bezwaar en Beroep
+##### Artikel 10. inschakeling van (verzekerings-)arts Bezwaar en Beroep en/of arbeidsdeskundige Bezwaar en Beroep
 
 1. Beoordeling van de medische aspecten van bezwaar vindt plaats door een (verzekerings-)arts Bezwaar en Beroep die niet bij de voorbereiding van de bestreden beschikking betrokken is.
 
@@ -132,7 +157,7 @@ In dit reglement wordt verstaan onder:
 
 5. UWV betrekt het oordeel van de (verzekerings-)arts Bezwaar en Beroep en/of arbeidsdeskundige Bezwaar en Beroep bij de beslissing op bezwaar.
 
-#### Artikel 11. mediation
+##### Artikel 11. mediation
 
 1. UWV beoordeelt of een geschil zich leent voor mediation.
 
@@ -140,7 +165,7 @@ In dit reglement wordt verstaan onder:
 
 3. Gegevens die tijdens de mediation zijn uitgewisseld tussen UWV en belanghebbende, mogen bij de voortzetting van de bezwaarschriftprocedure alleen worden gebruikt als belanghebbende hiermee heeft ingestemd.
 
-#### Artikel 12. de hoorzitting
+##### Artikel 12. de hoorzitting
 
 1. Als een belanghebbende heeft aangegeven gehoord te willen worden, of als UWV belang heeft bij het horen van de belanghebbende, vindt telefonisch overleg plaats over de datum en de tijd waarop de hoorzitting plaatsvindt en de wijze waarop. Ook wordt hierbij besproken welke functionarissen aanwezig zullen zijn. Als telefonisch overleg niet mogelijk is, wordt de hoorzitting door UWV eenzijdig gepland.
 
@@ -154,7 +179,7 @@ In dit reglement wordt verstaan onder:
 
 6. Als een van de in [artikel 7:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:3) genoemde gevallen zich voordoet beslist UWV of van het horen van belanghebbenden wordt afgezien. UWV kan pas beslissen om van het horen van belanghebbenden af te zien nadat UWV contact met belanghebbenden heeft gezocht om te onderzoeken of een informele afdoening van het bezwaar mogelijk is.
 
-#### Artikel 13. hoorzitting bij bezwaar tegen bijzondere beschikkingen
+##### Artikel 13. hoorzitting bij bezwaar tegen bijzondere beschikkingen
 
 1. In aanvulling op [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0048909&artikel=12&z=2024-01-01&g=2024-01-01) geldt bij bezwaar tegen bijzondere beschikkingen het bepaalde in dit artikel.
 
@@ -162,7 +187,7 @@ In dit reglement wordt verstaan onder:
 
 3. Het tweede lid is bij medische beschikkingen niet van toepassing op de gemachtigde van de medebelanghebbende die arts of advocaat is, dan wel van UWV bijzondere toestemming heeft gekregen om kennis te nemen van stukken die medische gegevens bevatten. In geval van medische beschikkingen op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) is het tweede lid evenmin van toepassing op de arbodienst of de bedrijfsarts van de werkgever die eigenrisicodrager is voor de Ziektewet.
 
-#### Artikel 14. toezending en inzage
+##### Artikel 14. toezending en inzage
 
 1. Voorafgaand aan de hoorzitting kan UWV alle op de zaak betrekking hebbende stukken kosteloos aan belanghebbenden sturen. Voor stukken die bijzondere persoonsgegevens bevatten geldt [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0048909&artikel=15&z=2024-01-01&g=2024-01-01).
 
@@ -172,13 +197,13 @@ In dit reglement wordt verstaan onder:
 
 4. Belanghebbenden kunnen van de in het tweede lid bedoelde stukken, voor zover niet reeds toegezonden, kosteloos afschriften krijgen.
 
-#### Artikel 15. toezending, inzage en toestemming bij bezwaren tegen bijzondere beschikkingen
+##### Artikel 15. toezending, inzage en toestemming bij bezwaren tegen bijzondere beschikkingen
 
 1. De belanghebbende, die niet de werknemer is, heeft in afwijking van het bepaalde in [artikel 14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048909&artikel=14&z=2024-01-01&g=2024-01-01), geen recht op inzage in dan wel kennisname of toezending van enig stuk dat bijzondere persoonsgegevens bevat.
 
 2. Bij medische gegevens is de inzage in, dan wel kennisname of toezending van stukken voorbehouden aan de gemachtigde van de medebelanghebbende die arts of advocaat is, dan wel van UWV bijzondere toestemming heeft gekregen om kennis te nemen van stukken die medische gegevens bevatten. In geval van medische beschikkingen op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) is het tweede lid evenmin van toepassing op de arbodienst of de bedrijfsarts van de werkgever die eigenrisicodrager is voor de Ziektewet.
 
-#### Artikel 16. openbaarheid van de hoorzitting
+##### Artikel 16. openbaarheid van de hoorzitting
 
 1. De hoorzitting is niet openbaar.
 
@@ -186,7 +211,7 @@ In dit reglement wordt verstaan onder:
 
 3. UWV beslist op dit verzoek.
 
-#### Artikel 17. tolken
+##### Artikel 17. tolken
 
 1. Bij de hoorzitting kan op verzoek van belanghebbenden of op aanwijzing van UWV gebruik worden gemaakt van de diensten van een tolk.
 
@@ -194,11 +219,11 @@ In dit reglement wordt verstaan onder:
 
 3. UWV zorgt voor de beschikbaarheid en vergoeding van de tolk.
 
-#### Artikel 18. intrekking van het bezwaar
+##### Artikel 18. intrekking van het bezwaar
 
 Als de indiener van het bezwaarschrift zijn bezwaarschrift intrekt, wordt dit schriftelijk bevestigd en aan andere belanghebbenden meegedeeld.
 
-#### Artikel 19. verslag van de hoorzitting
+##### Artikel 19. verslag van de hoorzitting
 
 1. Het verslag van de hoorzitting wordt op verzoek kosteloos aan belanghebbenden toegezonden.
 
@@ -208,7 +233,7 @@ Als de indiener van het bezwaarschrift zijn bezwaarschrift intrekt, wordt dit sc
 
 4. Het verslag wordt gesplitst in een verslag van het deel waarin de bijzondere persoonsgegevens zijn behandeld en een verslag waarin de overige aspecten van het bezwaar zijn behandeld. [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0048909&artikel=15&z=2024-01-01&g=2024-01-01) is van overeenkomstige toepassing.
 
-#### Artikel 20. nader onderzoek/nieuwe hoorzitting
+##### Artikel 20. nader onderzoek/nieuwe hoorzitting
 
 1. Als na afloop van de hoorzitting blijkt dat een nader onderzoek wenselijk is, worden de resultaten van dat onderzoek in afschrift aan belanghebbenden toegezonden als de uitkomst van dit onderzoek van aanmerkelijk belang is voor de beslissing op bezwaar. [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0048909&artikel=15&z=2024-01-01&g=2024-01-01) van dit reglement is van overeenkomstige toepassing.
 
@@ -220,7 +245,7 @@ Als de indiener van het bezwaarschrift zijn bezwaarschrift intrekt, wordt dit sc
 
 3. Op de nieuwe hoorzitting als bedoeld in het tweede lid zijn de bepalingen in dit reglement die betrekking hebben op de hoorzitting van overeenkomstige toepassing.
 
-#### Artikel 21. Opschorten en verdaging
+##### Artikel 21. Opschorten en verdaging
 
 1. Als tijdens de bezwaarprocedure blijkt dat het noodzakelijk is om informatie op te vragen bij een buitenlandse instantie, dan schort UWV de beslistermijn op overeenkomstig het bepaalde in [artikel 4:15 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:15).
 
@@ -228,13 +253,13 @@ Als de indiener van het bezwaarschrift zijn bezwaarschrift intrekt, wordt dit sc
 
 3. Als de beslissing op bezwaar niet kan worden genomen binnen de daarvoor geldende wettelijke termijn kan UWV de beschikking verdagen overeenkomstig het bepaalde in [artikel 7:10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10).
 
-#### Artikel 22. beslissing op bezwaar
+##### Artikel 22. beslissing op bezwaar
 
 1. Bij meerdere belanghebbenden ziet de beslissing op bezwaar op alle ingediende bezwaarschriften.
 
 2. De beslissing op bezwaar wordt genomen door een medewerker die niet betrokken was bij het nemen van de bestreden beschikking.
 
-#### Artikel 23. beslissing op bezwaar bij bijzondere beschikkingen
+##### Artikel 23. beslissing op bezwaar bij bijzondere beschikkingen
 
 1. De motivering van de beslissing op bezwaar vindt – voor zover deze betrekking heeft op bijzondere persoonsgegevens – plaats op een aparte bijlage.
 
@@ -242,13 +267,13 @@ Als de indiener van het bezwaarschrift zijn bezwaarschrift intrekt, wordt dit sc
 
 3. De bijlage als bedoeld in het eerste lid wordt in geval van medische beschikkingen behalve aan de werknemer ook verstrekt aan een gemachtigde van de medebelanghebbende die arts of advocaat is, dan wel van UWV bijzondere toestemming heeft gekregen om kennis te nemen van stukken die medische gegevens bevatten. In geval van medische beschikkingen op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) is het tweede lid evenmin van toepassing op de arbodienst of de bedrijfsarts van de werkgever die eigenrisicodrager is voor de Ziektewet.
 
-#### Artikel 24. termijnen en tijdigheid
+##### Artikel 24. termijnen en tijdigheid
 
 1. Wanneer aan een verzoek van UWV aan de indiener van het bezwaarschrift of andere belanghebbenden een termijn is verbonden, gaat deze termijn in op de dag na verzending van de hiertoe strekkende mededeling.
 
 2. Een (gevraagd) schriftelijk document of verklaring heeft UWV op tijd ontvangen als deze voor het eind van de gestelde termijn is ontvangen. Hierbij geldt dat een per post ontvangen stuk tijdig is als het uiterlijk op de laatste dag van de termijn ter post is bezorgd en binnen één week hierna is ontvangen.
 
-#### Artikel 25. Uitzonderingen
+##### Artikel 25. Uitzonderingen
 
 Dit reglement is niet van toepassing op bezwaarschriften gericht tegen beschikkingen genomen op grond van:
 
@@ -260,15 +285,15 @@ Dit reglement is niet van toepassing op bezwaarschriften gericht tegen beschikki
 
 - –. [artikel 14 van de Wet vermindering afdracht](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14) (verklaring startkwalificatie).
 
-#### Artikel 26. intrekking eerdere reglement
+##### Artikel 26. intrekking eerdere reglement
 
 Het [Reglement behandeling bezwaarschriften UWV 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046098) wordt ingetrokken.
 
-#### Artikel 27. citeertitel
+##### Artikel 27. citeertitel
 
 Dit reglement wordt aangehaald als: Reglement behandeling bezwaarschriften UWV 2024.
 
-#### Artikel 28. inwerkingtreding
+##### Artikel 28. inwerkingtreding
 
 Dit reglement treedt op 1 januari 2024 in werking.
 

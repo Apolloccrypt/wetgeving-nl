@@ -1,18 +1,44 @@
 ---
-title: "Regeling mandaatverlening aan de GGD’en met betrekking tot de uitvoering van het Warenwetbesluit tatoeëren en piercen"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 mei 2007, nr. VGP/PSL 2770996, houdende de Regeling mandaat- en volmachtverlening aan de GGD’en met betrekking tot de uitvoering van het Warenwetbesluit tatoeëren en piercen"
 identifier: "BWBR0021917"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-05-01
-laatste_update: 2017-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0021917"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-05-01"
+last_updated: "2017-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0021917"
+soort: "ministeriele-regeling"
+stam_id: "9087523"
+version_id: "14508532"
+internal_id: "C19730251"
+label_id: "9066454"
+dtd_version: "2.0"
+original_entry_into_force: "2007-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0021917/2017-05-01/0"
+intitule_bron: "Stcrt.2007-99"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-05-23"
+intitule_published: "2007-05-25"
+intitule_in_force: "2007-05-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-99"
+original_signed_date: "2007-05-23"
+original_published_date: "2007-05-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-99-p20-SC80553"
+entry_into_force_date: "2007-06-01"
+jci_1_3: "jci1.3:c:BWBR0021917&z=2017-05-01&g=2017-05-01"
+jci_1_0: "1.0:c:BWBR0021917&g=2017-05-01"
+citeertitel_status: "officieel"
+short_title: "Regeling mandaatverlening aan de GGD’en met betrekking tot de uitvoering van het Warenwetbesluit tatoeëren en piercen"
+signed_date: "2007-05-23"
+entry_into_force: "2007-06-01"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 mei 2007, nr. VGP/PSL 2770996, houdende de Regeling mandaat- en volmachtverlening aan de GGD’en met betrekking tot de uitvoering van het Warenwetbesluit tatoeëren en piercen
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 - f. retributie: retributie als bedoeld in [artikel 4, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=4).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0021917&bijlage=1&z=2017-05-01&g=2017-05-01) bij deze regeling genoemde functionarissen of instanties wordt mandaat verleend om:
 
@@ -44,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 3. Het verlenen van ondermandaat of ondervolmacht als bedoeld in het tweede lid leidt niet tot een hogere retributie.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Op aanvragen van vergunningen als bedoeld in [artikel 3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=3) wordt door de gemandateerde of door degene aan wie ondermandaat is verleend niet beslist voordat is onderzocht of er een gegronde reden bestaat om aan te nemen dat de ondernemer voor de ruimte waarvoor de vergunning wordt gevraagd, niet zal voldoen aan de voorschriften gesteld bij of krachtens het besluit, dan wel aan de voorschriften gesteld bij of krachtens [artikel 24 van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=24).
 
@@ -52,7 +78,7 @@ In deze regeling wordt verstaan onder:
 
 3. De gemandateerde of degene aan wie ondermandaat is verleend, zal door de Minister geformuleerde en te formuleren beleidsuitgangspunten in acht nemen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021917&artikel=2&z=2017-05-01&g=2017-05-01), bedoelde besluiten worden als volgt ondertekend:
 
@@ -70,11 +96,11 @@ namens deze:
 
 (gevolgd door handtekening en naam van degene aan wie ondermandaat is verleend)
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking met ingang van 1 juni 2007.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling mandaatverlening aan de GGD’en met betrekking tot de uitvoering van het Warenwetbesluit tatoeëren en piercen.
 

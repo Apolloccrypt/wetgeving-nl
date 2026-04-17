@@ -1,13 +1,39 @@
 ---
-title: "Beschikking instantloterij 2011 (2)"
+title: "Beschikking van de Staatssecretaris van Veiligheid en Justitie van 30 juni 2011, nr. 5701073/11/DSP, tot afgifte van de Beschikking instantloterij"
 identifier: "BWBR0030229"
-categorie: "Bestuursrecht"
-publicatiedatum: 2011-07-01
-laatste_update: 2011-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030229"
+country: "nl"
+rank: "zbo"
+publication_date: "2011-07-01"
+last_updated: "2011-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030229"
+soort: "zbo"
+stam_id: "11387233"
+version_id: "18687312"
+internal_id: "C26077501"
+label_id: "11360984"
+dtd_version: "2.0"
+original_entry_into_force: "2011-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030229/2011-07-01/0"
+intitule_bron: "Stcrt.2011-12248"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-06-30"
+intitule_published: "2011-07-08"
+intitule_in_force: "2011-07-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-12248"
+original_signed_date: "2011-06-30"
+original_published_date: "2011-07-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-12248"
+entry_into_force_date: "2011-07-01"
+jci_1_3: "jci1.3:c:BWBR0030229&z=2011-07-01&g=2011-07-01"
+jci_1_0: "1.0:c:BWBR0030229&g=2011-07-01"
+citeertitel_status: "officieel"
+short_title: "Beschikking instantloterij 2011 (2)"
+signed_date: "2011-06-30"
+entry_into_force: "2011-07-01"
 ---
-
 # Beschikking van de Staatssecretaris van Veiligheid en Justitie van 30 juni 2011, nr. 5701073/11/DSP, tot afgifte van de Beschikking instantloterij
 
 Overwegende dat de geldigheidsduur van de [Beschikking instantloterij 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030047) op 30 juni 2011 verstrijkt;
@@ -22,7 +48,7 @@ Besluit:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
 
@@ -42,13 +68,13 @@ In deze beschikking wordt verstaan onder:
 
 - h. **prijzenreserve:** een reservering die is opgebouwd uit niet geïnde prijzen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aan de stichting wordt voor de duur van drie maanden, te rekenen van 1 juli 2011 tot en met 30 september 2011 vergunning verleend tot het organiseren van instantloterijen.
 
 2. Aan de in het eerste lid bedoelde vergunning worden de in [artikel 3 tot en met artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0030229&artikel=3&z=2011-07-01&g=2011-07-01) vervatte voorschriften verbonden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De stichting spant zich in voor de inachtneming van de vergunningsvoorschriften, de statuten en de reglementen van de stichting.
 
@@ -56,13 +82,13 @@ In deze beschikking wordt verstaan onder:
 
 3. De reglementen behelzen in ieder geval bepalingen inzake de deelnemingsvoorwaarden, de wijze waarop de prijzenreserve kan worden benut, alsmede de voorschriften en vergoedingen voor de verkooppunten.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De stichting zorgt voor een doelmatige administratie, organisatie en uitvoering van de instantloterijen.
 
 2. De stichting treft alle noodzakelijke maatregelen en voorzieningen ten behoeve van de naleving van de aan deze vergunning verbonden voorschriften en de op grond daarvan opgestelde reglementen door de organisaties en personen die op enigerlei wijze bij de administratie, organisatie en uitvoering van de instantloterij zijn betrokken.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De stichting ziet erop toe dat de verkooppunten niet in strijd handelen met het bepaalde in [artikel 1, aanhef, en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=1), of [artikel 14d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=14d).
 
@@ -74,7 +100,7 @@ In deze beschikking wordt verstaan onder:
 
 5. Van de ingevolge het tweede lid gehouden controles wordt per kwartaal mededeling gedaan aan de staatssecretaris en wordt mededeling gedaan aan het college en in het jaarverslag.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het aantal per kalenderjaar te houden instantloterijen en het aantal per instantloterij uit te geven deelnamebewijzen wordt bepaald door de stichting, met dien verstande dat per kalenderjaar in totaal ten hoogste 120 miljoen loten mogen worden uitgegeven.
 
@@ -86,7 +112,7 @@ In deze beschikking wordt verstaan onder:
 
 5. Elk deel van een instantlot geeft aanspraak op een evenredig deel van de eventueel daarop gewonnen prijs.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het aantal verkooppunten van de instantloterijen bedraagt ten hoogste 7000.
 
@@ -94,7 +120,7 @@ In deze beschikking wordt verstaan onder:
 
 3. Aan de verkooppunten wordt een vergoeding voor verrichte werkzaamheden toegekend van ten hoogste 10% van het totaal van de door de deelnemers bijeengebrachte inleg.
 
-#### Artikel 8
+##### Artikel 8
 
 De stichting is gerechtigd tot het organiseren van instantloterijen ten behoeve van derden, onder de volgende voorwaarden:
 
@@ -104,7 +130,7 @@ De stichting is gerechtigd tot het organiseren van instantloterijen ten behoeve 
 
 - a. de loten mogen door deze derde niet worden uitgegeven via de inrichtingen als genoemd in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030229&artikel=7&z=2011-07-01&g=2011-07-01).
 
-#### Artikel 9
+##### Artikel 9
 
 1. De stichting zorgt voor een evenwichtig beleid op het gebied van de preventie van kansspelverslaving en treft de noodzakelijke maatregelen en voorzieningen die nodig zijn om onmatige deelneming aan de instantloterij zo veel mogelijk te voorkomen.
 
@@ -120,13 +146,13 @@ De stichting is gerechtigd tot het organiseren van instantloterijen ten behoeve 
 
 7. De stichting zorgt voor een evenwichtig beleid op het gebied van de wervings- en reclameactiviteiten en neemt daarbij de haar door de staatssecretaris gegeven aanwijzingen in acht.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De stichting garandeert een zodanige kwaliteit van de deelnamebewijzen dat redelijkerwijze fraude en misbruik wordt uitgesloten.
 
 2. Tekens, voorstellingen of opschriften op de deelnamebewijzen die de winstmogelijkheden aangeven, mogen niet misleidend zijn of anderszins aanleiding kunnen geven tot misvatting.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De mechanische, elektrische en elektronische processen die gebezigd worden bij de deelneming, prijsbepaling en vaststelling van de winnaars van de krachtens deze vergunning georganiseerde kansspelen, zijn onderworpen aan de voorafgaande goedkeuring en periodieke controle door een door de staatssecretaris aangewezen onafhankelijke deskundige of instelling.
 
@@ -138,17 +164,17 @@ De stichting is gerechtigd tot het organiseren van instantloterijen ten behoeve 
 
 5. Het verslag van de bevindingen van de overeenkomstig het eerste lid aangewezen onafhankelijke deskundige of keuringsinstelling wordt uiterlijk binnen twee maanden na afloop van een kalenderjaar door de stichting ter kennis gebracht van de staatssecretaris en het college.
 
-#### Artikel 12
+##### Artikel 12
 
 Voor de toepassing van [artikel 38 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=38) ontstaan aanspraken, voortvloeiende uit de deelneming aan een instantloterij, op de dag waarop een aanvang wordt gemaakt met de uitgifte van de deelnamebewijzen van de betreffende instantloterij.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Prijzen tot ten hoogste € 454,– kunnen betaalbaar worden gesteld bij de verkooppunten. De overige prijzen worden betaalbaar gesteld ten kantore van de stichting.
 
 2. De stichting neemt zodanige maatregelen dat de uitbetaling van de prijzen aan de winnaars te allen tijde is gewaarborgd.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De afdracht van de krachtens deze vergunning georganiseerde instantloterijen wordt gevormd door het verschil tussen het totaal van de door de deelnemers bijeengebrachte inleg, en de som van de voor prijzen bestemde bedragen, de vergoeding voor de verkooppunten en de kosten die door De Lotto ten behoeve van de exploitatie van de instantloterijen worden gemaakt.
 
@@ -156,7 +182,7 @@ Voor de toepassing van [artikel 38 van de wet](https://wetten.overheid.nl/jci1.3
 
 3. Onder de afdracht wordt mede begrepen de anders dan uit de krachtens deze vergunning georganiseerde kansspelen verworven inkomsten.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De afdracht dient geheel te worden besteed ter verwezenlijking van doeleinden van algemeen belang, gelegen op het terrein van de sport en de lichamelijke vorming, alsmede van het maatschappelijk welzijn, de volksgezondheid en de cultuur.
 
@@ -168,7 +194,7 @@ Voor de toepassing van [artikel 38 van de wet](https://wetten.overheid.nl/jci1.3
 
 3. Uiterlijk binnen drie maanden na afloop van een kalenderjaar dient de stichting de gehele afdracht over dat kalenderjaar te hebben afgedragen aan de in het tweede lid genoemde instellingen. Daarvan wordt verslag gedaan in de in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030229&artikel=16&z=2011-07-01&g=2011-07-01), bedoelde jaarrekening.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De stichting stelt een jaarrekening en een jaarverslag op welke voldoen aan de eisen gesteld in [Boek 2, Titel 9, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9). De staatssecretaris kan aanwijzingen geven omtrent de inrichting van de jaarrekening en het jaarverslag.
 
@@ -178,25 +204,25 @@ Voor de toepassing van [artikel 38 van de wet](https://wetten.overheid.nl/jci1.3
 
 4. Binnen vier maanden na afloop van een kalenderjaar zendt de stichting de jaarrekening met het verslag en de verklaring, alsmede het jaarverslag aan de staatssecretaris en aan het college.
 
-#### Artikel 17
+##### Artikel 17
 
 De stichting zendt binnen één maand na het einde van elk kwartaal aan de staatssecretaris en het college een verslag betreffende het financiële verloop, alsmede andere door de staatssecretaris noodzakelijk geachte gegevens, over dat kwartaal.
 
-#### Artikel 18
+##### Artikel 18
 
 De kosten verbonden aan de controle ingevolge [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030229&artikel=5&z=2011-07-01&g=2011-07-01), de goedkeuring en controle ingevolge [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030229&artikel=11&z=2011-07-01&g=2011-07-01), en het onderzoek als bedoeld in [artikel 16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030229&artikel=16&z=2011-07-01&g=2011-07-01) zijn voor rekening van de stichting.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De door de staatssecretaris aangewezen ambtenaren en andere personen zijn bevoegd inlichtingen van de stichting te vorderen, voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is.
 
 2. De in het eerste lid bedoelde ambtenaren en andere personen zijn bevoegd inzage te vorderen van zakelijke gegevens en bescheiden van de stichting, voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is. Zij zijn bevoegd van de gegevens en bescheiden kopieën te maken. Indien het maken van kopieën niet ter plaatse kan geschieden, zijn zij bevoegd de gegevens en bescheiden voor dat doel voor korte tijd mee te nemen tegen een door hen af te geven schriftelijk bewijs van ontvangst.
 
-#### Artikel 20
+##### Artikel 20
 
 Na de inwerkingtreding van deze beschikking berusten de krachtens de [Beschikking instantloterij 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0009240) (Stcrt. 1997, 249) vastgestelde besluiten op deze beschikking.
 
-#### Artikel 21
+##### Artikel 21
 
 Deze beschikking wordt aangehaald als Beschikking instantloterij 2011 (2).
 

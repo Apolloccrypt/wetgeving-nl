@@ -1,20 +1,45 @@
 ---
 title: "Besluit mandaat Dienst Regelingen Bijdragebesluit kosten ruiming explosieven Tweede Wereldoorlog 1999"
 identifier: "BWBR0020045"
-categorie: "Bestuursrecht"
-publicatiedatum: 2008-02-08
-laatste_update: 2008-02-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020045"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2008-02-08"
+last_updated: "2008-02-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020045"
+soort: "ministeriele-regeling"
+stam_id: "8525033"
+version_id: "15151522"
+internal_id: "C20655031"
+label_id: "8505384"
+dtd_version: "2.0"
+original_entry_into_force: "2008-01-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020045/2008-02-08/0"
+intitule_bron: "Stcrt.2006-137"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-07-05"
+intitule_published: "2006-07-18"
+intitule_in_force: "2006-07-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-26"
+original_signed_date: "2008-01-25"
+original_published_date: "2008-02-06"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2008-26-p9-SC84358"
+entry_into_force_date: "2008-01-25"
+jci_1_3: "jci1.3:c:BWBR0020045&z=2008-02-08&g=2008-02-08"
+jci_1_0: "1.0:c:BWBR0020045&g=2008-02-08"
+citeertitel_status: "officieel"
+signed_date: "2008-01-25"
+entry_into_force: "2008-01-25"
 ---
-
 # Besluit mandaat Dienst Regelingen Bijdragebesluit kosten ruiming explosieven Tweede Wereldoorlog 1999
 
 In overeenstemming met de Minister van Landbouw Natuur en Voedselkwaliteit;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -24,7 +49,7 @@ In dit besluit wordt verstaan onder:
 
 - c. besluit: [Bijdragebesluit kosten ruiming explosieven Tweede Wereldoorlog 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010700).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De teammanagers uitvoering en de regelingsmanagers van Dienst Regelingen zijn bevoegd om namens de minister besluiten te nemen en stukken te ondertekenen met betrekking tot. primaire beslissingen inzake:
 
@@ -46,7 +71,7 @@ In dit besluit wordt verstaan onder:
 
 - f. het treffen van een oordeel als bedoeld in [artikel 23 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010700&artikel=23).
 
-#### Artikel 3
+##### Artikel 3
 
 De algemeen directeur, de unitmanagers, de manager en plaatsvervangend manager recht en rechtsbescherming en de teammanagers recht en rechtsbescherming van Dienst Regelingen zijn bevoegd om namens de minister besluiten te nemen en stukken te ondertekenen met betrekking tot:
 
@@ -62,7 +87,7 @@ De algemeen directeur, de unitmanagers, de manager en plaatsvervangend manager r
 
 - f. verweerschriften en andere stukken in gedingen die aanhangig zijn bij de bestuursrechter en voortvloeien uit besluiten, genoemd in de onderdelen a tot en met e.
 
-#### Artikel 4
+##### Artikel 4
 
 De teammanagers uitvoering, de regelingsmanagers en de unitmanagers van de Dienst Regelingen zijn bevoegd om namens de minister besluiten te nemen met betrekking tot:
 
@@ -70,7 +95,7 @@ De teammanagers uitvoering, de regelingsmanagers en de unitmanagers van de Diens
 
 - b. verzoeken tot vergoeding van kosten die een indiener in verband met de behandeling van een bezwaarschrift heeft gemaakt, zoals bedoeld in [artikel 7:15, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:15).
 
-#### Artikel 5
+##### Artikel 5
 
 De ondertekening, bedoeld in de [artikelen 2 tot en met 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0020045&artikel=2&z=2008-02-08&g=2008-02-08), luidt:
 
@@ -112,17 +137,17 @@ onderscheidenlijk,
 
 ‘de algemeen directeur Dienst Regelingen’.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 mei 2006.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit mandaat Dienst Regelingen Bijdragebesluit kosten ruiming explosieven Tweede Wereldoorlog 1999.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 4a
+##### Artikel 4a
 
 De algemeen directeur, de directeur projecten, de directeur uitvoering en de manager en plaatsvervangend manager recht en rechtsbescherming zijn bevoegd om namens de minister besluiten te nemen en stukken te ondertekenen met betrekking tot:
 

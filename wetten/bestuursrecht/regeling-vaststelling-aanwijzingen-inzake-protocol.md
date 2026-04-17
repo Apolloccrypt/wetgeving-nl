@@ -1,24 +1,49 @@
 ---
 title: "Regeling vaststelling Aanwijzingen inzake protocol"
 identifier: "BWBR0038349"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-07-23
-laatste_update: 2016-07-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038349"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-07-23"
+last_updated: "2016-07-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038349"
+soort: "ministeriele-regeling"
+stam_id: "13714353"
+version_id: "23497342"
+internal_id: "C33838741"
+label_id: "13680724"
+dtd_version: "2.0"
+original_entry_into_force: "2016-07-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038349/2016-07-23/0"
+intitule_bron: "Stcrt.2016-38170"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-07-13"
+intitule_published: "2016-07-21"
+intitule_in_force: "2016-07-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-38170"
+original_signed_date: "2016-07-13"
+original_published_date: "2016-07-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-38170"
+entry_into_force_date: "2016-07-23"
+jci_1_3: "jci1.3:c:BWBR0038349&z=2016-07-23&g=2016-07-23"
+jci_1_0: "1.0:c:BWBR0038349&g=2016-07-23"
+citeertitel_status: "redactioneel"
+signed_date: "2016-07-13"
+entry_into_force: "2016-07-23"
 ---
-
 # Regeling vaststelling Aanwijzingen inzake protocol
 
 handelend in overeenstemming met het gevoelen van de ministerraad,
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Vastgesteld worden de als bijlage bij deze regeling gevoegde Aanwijzingen inzake protocol.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 

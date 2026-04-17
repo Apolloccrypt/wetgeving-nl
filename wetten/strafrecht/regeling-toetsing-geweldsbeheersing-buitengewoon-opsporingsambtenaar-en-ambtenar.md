@@ -1,20 +1,46 @@
 ---
-title: "Regeling toetsing geweldsbeheersing buitengewoon opsporingsambtenaar en ambtenaren van bijzondere opsporingsdiensten"
+title: "Regeling van de Minister van Justitie d.d. 23 mei 2007, nr. 5484160/07/CBK, houdende vaststelling van bepalingen inzake toetsing van buitengewoon opsporingsambtenaren en ambtenaren in dienst van een bijzondere opsporingsdienst terzake van geweldsbeheersing, aanhoudings- en zelfverdedigingsvaardigheden en schietvaardigheid (Regeling toetsing geweldsbeheersing buitengewoon opsporingsambtenaar en ambtenaren van bijzondere opsporingsdiensten)"
 identifier: "BWBR0021973"
-categorie: "Strafrecht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0021973"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0021973"
+soort: "ministeriele-regeling"
+stam_id: "9099133"
+version_id: "14532352"
+internal_id: "C19761951"
+label_id: "9078054"
+dtd_version: "2.0"
+original_entry_into_force: "2007-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0021973/2023-01-01/0"
+intitule_bron: "Stcrt.2007-103"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-05-23"
+intitule_published: "2007-06-01"
+intitule_in_force: "2007-06-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-103"
+original_signed_date: "2007-05-23"
+original_published_date: "2007-06-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-103-p8-SC80679"
+entry_into_force_date: "2007-06-01"
+jci_1_3: "jci1.3:c:BWBR0021973&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0021973&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling toetsing geweldsbeheersing buitengewoon opsporingsambtenaar en ambtenaren van bijzondere opsporingsdiensten"
+signed_date: "2007-05-23"
+entry_into_force: "2007-06-01"
 ---
-
 # Regeling van de Minister van Justitie d.d. 23 mei 2007, nr. 5484160/07/CBK, houdende vaststelling van bepalingen inzake toetsing van buitengewoon opsporingsambtenaren en ambtenaren in dienst van een bijzondere opsporingsdienst terzake van geweldsbeheersing, aanhoudings- en zelfverdedigingsvaardigheden en schietvaardigheid (Regeling toetsing geweldsbeheersing buitengewoon opsporingsambtenaar en ambtenaren van bijzondere opsporingsdiensten)
 
 Gelet op [artikel 3a van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=3a);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 - k. de direct toezichthouder: degene die op grond van de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) en [37 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=37) als direct toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen alsmede degene die op grond van [artikel 7, tweede lid, onderdeel a, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=7) is aangewezen als toezichthouder van de opsporingsambtenaar van de bijzondere opsporingsdienst.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een opsporingsambtenaar is steeds voor de duur van een kalenderjaar geoefend in het gebruik van de bevoegdheden, genoemd in [artikel 7, eerste, derde en vierde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7), onderscheidenlijk [artikel 6, eerste en derde lid, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=6), dan wel een geweldsmiddel als bedoeld in [artikel 4, onderdeel b, van de Ambtsinstructie](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&artikel=4), indien hij in het daaraan voorafgaande kalenderjaar met voldoende resultaat heeft afgelegd:
 
@@ -58,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 6. Indien buitengewone omstandigheden dit noodzakelijk maken kan de Minister van Justitie en Veiligheid besluiten dat, in afwijking van het eerste lid, de opsporingsambtenaar voor de duur van een kalenderjaar geoefend is in het gebruik van de in het eerste lid bedoelde bevoegdheden en geweldsmiddelen, indien hij de toets geweldsbeheersing en de toets aanhoudings- en zelfverdedigingsvaardigheden in het tweede daaraan voorafgaande kalenderjaar met voldoende resultaat heeft afgelegd.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De werkgever draagt zorg voor de training en de toetsing van de opsporingsambtenaar.
 
@@ -66,25 +92,25 @@ In deze regeling wordt verstaan onder:
 
 3. De direct toezichthouder houdt toezicht op de kwaliteit en objectiviteit van de toetsing. Dit geldt alleen voor de uitvoering van de toetsen.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien een opsporingsambtenaar, op de laatste dag van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021973&artikel=2&z=2023-01-01&g=2023-01-01) bedoelde perioden, een van de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0021973&artikel=2&z=2023-01-01&g=2023-01-01) bedoelde toetsen niet of niet met voldoende resultaat heeft afgelegd, doet de toetser hiervan onverwijld mededeling aan de werkgever en de direct toezichthouder.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De werkgever draagt zorg voor registratie van de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021973&artikel=2&z=2023-01-01&g=2023-01-01) bedoelde toetsen.
 
 2. De werkgever verstrekt in het jaarverslag de direct toezichthouder, de toezichthouder en de Minister van Justitie en Veiligheid een overzicht betreffende de deelname aan en de resultaten van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021973&artikel=2&z=2023-01-01&g=2023-01-01) bedoelde toetsen alsmede het gevoerde beleid hieromtrent.
 
-#### Artikel 6
+##### Artikel 6
 
 De [Regeling toetsing geweldbeheersing buitengewoon opsporingsambtenaar 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017732) wordt ingetrokken.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling treedt in werking met ingang van 1 juni 2007.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling toetsing geweldsbeheersing buitengewoon opsporingsambtenaar en ambtenaren van bijzondere opsporingsdiensten.
 

@@ -1,13 +1,37 @@
 ---
 title: "Aanvullend besluit bij de Organisatieregeling dienstonderdelen OM"
 identifier: "BWBR0012275"
-categorie: "Bestuursrecht"
-publicatiedatum: 2004-09-10
-laatste_update: 2004-09-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012275"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2004-09-10"
+last_updated: "2004-09-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012275"
+soort: "ministeriele-regeling"
+stam_id: "4766603"
+version_id: "6572932"
+internal_id: "C7030171"
+label_id: "4744744"
+dtd_version: "2.0"
+original_entry_into_force: "2001-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012275/2004-09-10/0"
+intitule_bron: "Stcrt.2001-56"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-02-27"
+intitule_published: "2001-03-20"
+intitule_in_force: "2001-03-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-56"
+original_signed_date: "2001-02-27"
+original_published_date: "2001-03-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-03-01"
+jci_1_3: "jci1.3:c:BWBR0012275&z=2004-09-10&g=2004-09-10"
+jci_1_0: "1.0:c:BWBR0012275&g=2004-09-10"
+citeertitel_status: "officieel"
+signed_date: "2001-02-27"
+entry_into_force: "2001-03-01"
 ---
-
 # Aanvullend besluit bij de Organisatieregeling dienstonderdelen OM
 
 Overwegende dat de [Organisatieregeling dienstonderdelen OM](https://wetten.overheid.nl/jci1.3:c:BWBR0009155) van 15 december 1997 een beheersstructuur geeft voor de dienstonderdelen bij het openbaar ministerie;
@@ -16,11 +40,11 @@ Overwegende dat het, in verband met de positionering van het bureau verkeershand
 
 Besluit:
 
-#### Artikel 1. (Landelijke dienst)
+##### Artikel 1. (Landelijke dienst)
 
 Het bureau verkeershandhaving openbaar ministerie (BVOM) is een landelijke dienst, die ressorteert onder het College van procureurs-generaal.
 
-#### Artikel 2. (Bureau verkeershandhaving openbaar ministerie)
+##### Artikel 2. (Bureau verkeershandhaving openbaar ministerie)
 
 1. Het Bureau verkeershandhaving openbaar ministerie (BVOM) is gevestigd te Soesterberg.
 
@@ -48,14 +72,14 @@ Het bureau verkeershandhaving openbaar ministerie (BVOM) is een landelijke diens
 
 7. Het hoofd van het BVOM is verantwoordelijk voor de werkzaamheden die voortvloeien uit de portefeuille Voertuigcriminaliteit.
 
-#### Artikel 3. (Publicatie)
+##### Artikel 3. (Publicatie)
 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
 
-#### Artikel 4. (Inwerkingtreding)
+##### Artikel 4. (Inwerkingtreding)
 
 Dit besluit treedt in werking met ingang van 1 maart 2001.
 
-#### Artikel 5. (Citeertitel)
+##### Artikel 5. (Citeertitel)
 
 Dit besluit wordt aangehaald als: Aanvullend besluit bij de Organisatieregeling dienstonderdelen OM.

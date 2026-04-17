@@ -1,13 +1,37 @@
 ---
 title: "Instelling Stuurgroep wapenbeheersing en nucleaire bewapening"
 identifier: "BWBR0003441"
-categorie: "Milieu"
-publicatiedatum: 1981-10-02
-laatste_update: 1981-10-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003441"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1981-10-02"
+last_updated: "1981-10-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003441"
+soort: "ministeriele-regeling"
+stam_id: "3719413"
+version_id: "5502262"
+internal_id: "C5695351"
+label_id: "3699144"
+dtd_version: "2.0"
+original_entry_into_force: "1981-10-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003441/1981-10-02/0"
+intitule_bron: "Stcrt.1981-189"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1981-09-30"
+intitule_published: "1981-10-02"
+intitule_in_force: "1981-10-02"
+intitule_status: "goed"
+original_publication: "Stcrt.1981-189"
+original_signed_date: "1981-09-30"
+original_published_date: "1981-10-02"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1981-10-02"
+jci_1_3: "jci1.3:c:BWBR0003441&z=1981-10-02&g=1981-10-02"
+jci_1_0: "1.0:c:BWBR0003441&g=1981-10-02"
+citeertitel_status: "officieel"
+signed_date: "1981-09-30"
+entry_into_force: "1981-10-02"
 ---
-
 # Instelling Stuurgroep wapenbeheersing en nucleaire bewapening
 
 Besluiten:

@@ -1,26 +1,52 @@
 ---
-title: "Regeling ‘Transitie huisartsenlaboratoria en zelfstandige trombosediensten’"
+title: "Regeling 'Transitie huisartsenlaboratoria en zelfstandige trombosediensten'"
 identifier: "BWBR0034277"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2014-01-01
-laatste_update: 2014-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034277"
+country: "nl"
+rank: "zbo"
+publication_date: "2014-01-01"
+last_updated: "2014-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034277"
+soort: "zbo"
+stam_id: "12448213"
+version_id: "20925192"
+internal_id: "C30041451"
+label_id: "12418974"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034277/2014-01-01/0"
+intitule_bron: "Stcrt.2013-33886"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-11-26"
+intitule_published: "2013-12-05"
+intitule_in_force: "2013-12-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-33886"
+original_signed_date: "2013-11-26"
+original_published_date: "2013-12-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-33886"
+entry_into_force_date: "2014-01-01"
+jci_1_3: "jci1.3:c:BWBR0034277&z=2014-01-01&g=2014-01-01"
+jci_1_0: "1.0:c:BWBR0034277&g=2014-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling ‘Transitie huisartsenlaboratoria en zelfstandige trombosediensten’"
+signed_date: "2013-11-26"
+entry_into_force: "2014-01-01"
 ---
-
 # Regeling 'Transitie huisartsenlaboratoria en zelfstandige trombosediensten'
 
 Op grond van [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=62) jo. [68 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68) (Wmg) heeft de Nederlandse Zorgautoriteit (NZa) de volgende regeling vastgesteld.
 
-#### Artikel 1. Reikwijdte
+##### Artikel 1. Reikwijdte
 
 Deze regeling is van toepassing op huisartsenlaboratoria en zelfstandige trombosediensten die tot en met 2013 begrotingsgefinancierd waren en zorg verrichten, c.q. leveren, op het gebied van eerstelijnsdiagnostiek.
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Deze regeling stelt voorschriften met betrekking tot de invoering en werking van de prestatiebekostiging voor huisartsenlaboratoria en zelfstandige trombosediensten.
 
-#### Artikel 3. Begripsbepalingen
+##### Artikel 3. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -44,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 - j. **accountant:** een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
-#### Artikel 4. Te verstrekken informatie voor afwikkeling oude jaren
+##### Artikel 4. Te verstrekken informatie voor afwikkeling oude jaren
 
 1. De instelling is verplicht om overeenkomstig de beleidsregel ‘Transitie huisartsenlaboratoria en zelfstandige trombosediensten’ ten behoeve van de nacalculatie een definitieve (werkelijke) opgave van de gerealiseerde productie over het jaar 2012 en 2013 aan de NZa te verstrekken.
 
@@ -64,7 +90,7 @@ In deze regeling wordt verstaan onder:
 
 - –. jaarrekening jaar 2013.
 
-#### Artikel 5. Gegevensverstrekking voor transitiebedrag
+##### Artikel 5. Gegevensverstrekking voor transitiebedrag
 
 1. De instelling is verplicht om de gegevens, die de NZa op grond van de beleidsregel ‘Transitie huisartsenlaboratoria en zelfstandige trombosediensten’ nodig heeft voor het vaststellen van het transitiebedrag, te verstrekken en handelt daarbij overeenkomstig de onderstaande bepalingen.
 
@@ -82,7 +108,7 @@ In deze regeling wordt verstaan onder:
 
 - –. een digitale versie van de jaarrekening 2014.
 
-#### Artikel 6. Procedure voor aanleveren van informatie
+##### Artikel 6. Procedure voor aanleveren van informatie
 
 1. Indien de opgave genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034277&artikel=4&z=2014-01-01&g=2014-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0034277&artikel=5&z=2014-01-01&g=2014-01-01) niet gezamenlijk door de zorgaanbieder én representerende zorgverzekeraar(s) wordt ingediend, hanteert de NZa de volgende procedure.
 
@@ -94,15 +120,15 @@ In deze regeling wordt verstaan onder:
 
 2. De NZa zal niet tot de maatregelen genoemd in het vorige lid overgaan zonder vooraf de betreffende zorgaanbieder schriftelijk in de gelegenheid te hebben gesteld de noodzakelijke formulieren of gegevens alsnog binnen een nader te stellen termijn te verstrekken.
 
-#### Artikel 7. Accountantscontrole gegevensverstrekking
+##### Artikel 7. Accountantscontrole gegevensverstrekking
 
 De instelling draagt er zorg voor dat een accountant de juistheid van de te verstrekken gegevens en inlichtingen, als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034277&artikel=5&z=2014-01-01&g=2014-01-01), bevestigt overeenkomstig de wijze als beschreven in het door de NZa beschikbaar te stellen Controleprotocol.
 
-#### Artikel 8. Wijze van gegevensverstrekking
+##### Artikel 8. Wijze van gegevensverstrekking
 
 De in deze regeling bedoelde formulieren en het controleprotocol worden beschikbaar gesteld op de website van de NZa (www.nza.nl). De bedoelde opgaven worden verstuurd naar formulierencure@nza.nl met als onderwerp ‘Transitie huisartsenlaboratoria en zelfstandige trombosediensten’.
 
-#### Artikel 9. Inwerkingtreding en citeertitel
+##### Artikel 9. Inwerkingtreding en citeertitel
 
 Deze regeling treedt in werking op 1 januari 2014.
 

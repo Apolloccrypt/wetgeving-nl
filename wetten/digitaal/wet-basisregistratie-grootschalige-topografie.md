@@ -1,14 +1,41 @@
 ---
-title: "Wet basisregistratie grootschalige topografie"
+title: "Wet van 25 september 2013, houdende regels omtrent de basisregistratie grootschalige topografie (Wet basisregistratie grootschalige topografie)"
 identifier: "BWBR0034026"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2025-02-12
-laatste_update: 2025-02-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034026"
+country: "nl"
+rank: "wet"
+publication_date: "2025-02-12"
+last_updated: "2025-02-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034026"
+soort: "wet"
+stam_id: "12397763"
+version_id: "20806692"
+internal_id: "C32867221"
+label_id: "12369164"
+dtd_version: "2.0"
+original_entry_into_force: "2016-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034026/2025-02-12/0"
+intitule_bron: "Stb.2013-379"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-09-25"
+intitule_published: "2013-10-17"
+intitule_in_force: "2015-10-16"
+intitule_status: "goed"
+original_publication: "Stb.2013-379"
+original_signed_date: "2013-09-25"
+original_published_date: "2013-10-17"
+original_effect: "nieuwe-regeling"
+original_dossier: "33527"
+original_url_id: "stb-2013-379"
+entry_into_force_date: "2016-01-01"
+jci_1_3: "jci1.3:c:BWBR0034026&z=2025-02-12&g=2025-02-12"
+jci_1_0: "1.0:c:BWBR0034026&g=2025-02-12"
+citeertitel_status: "officieel"
+short_title: "Wet basisregistratie grootschalige topografie"
+signed_date: "2013-09-25"
+entry_into_force: "2016-01-01"
 ---
-
-# Wet basisregistratie grootschalige topografie
+# Wet van 25 september 2013, houdende regels omtrent de basisregistratie grootschalige topografie (Wet basisregistratie grootschalige topografie)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -44,13 +71,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **Onze Minister:** Onze Minister van Volkshuisvesting en Ruimtelijke Ordening.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een basisregistratie grootschalige topografie, bestaande uit een landsdekkend topografisch bestand op een schaalniveau van 1:500 tot en met 1:5.000.
 
 2. De basisregistratie grootschalige topografie wordt gehouden door de Dienst.
 
-#### Artikel 3
+##### Artikel 3
 
 De basisregistratie grootschalige topografie heeft als doel het aan eenieder beschikbaar stellen van de bij of krachtens deze wet in die basisregistratie opgenomen gegevens ten behoeve van:
 
@@ -58,17 +85,17 @@ De basisregistratie grootschalige topografie heeft als doel het aan eenieder bes
 
 - b. de bevordering van een efficiënte uitwisseling en een efficiënt gebruik van geo-informatie.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Bij ministeriële regeling wordt een catalogus vastgesteld.
 
 2. De catalogus definieert het informatiemodel voor de geografische gegevens die krachtens deze wet in de basisregistratie grootschalige topografie worden opgenomen.
 
-#### Artikel 5
+##### Artikel 5
 
 De in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&z=2025-02-12&g=2025-02-12) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&z=2025-02-12&g=2025-02-12) voor de bronhouder opgenomen verplichtingen zijn slechts voor die bronhouder van toepassing voor zover het betreft een geografisch object dat op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2025-02-12&g=2025-02-12) of [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2025-02-12&g=2025-02-12) aan zijn verantwoordelijkheid is toebedeeld.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Personen die door de bronhouder zijn belast met het verzamelen en geometrisch vastleggen van geografische gegevens ten behoeve van de uitvoering van deze wet zijn bevoegd met medeneming van de benodigde apparatuur en andere hulpmiddelen elke plaats te betreden, met uitzondering van een woning zonder toestemming van de bewoner, en daar waarnemingen of metingen te verrichten, voor zover dat redelijkerwijs nodig is voor de vervulling van hun taak.
 
@@ -80,7 +107,7 @@ De in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofds
 
 ### Hoofdstuk 2. Inhoud basisregistratie grootschalige topografie
 
-#### Artikel 7
+##### Artikel 7
 
 1. De basisregistratie grootschalige topografie is toegankelijk door middel van een identificerend objectnummer of een locatie op de kaart.
 
@@ -122,7 +149,7 @@ De in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofds
 
 5. De gegevens, bedoeld in het tweede en derde lid, zijn authentieke gegevens.
 
-#### Artikel 8
+##### Artikel 8
 
 Bij algemene maatregel van bestuur kan worden bepaald dat in de basisregistratie grootschalige topografie een ander bij die maatregel als authentiek gegeven aan te wijzen gegeven wordt opgenomen dan de gegevens, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=2&artikel=7&z=2025-02-12&g=2025-02-12), indien:
 
@@ -130,7 +157,7 @@ Bij algemene maatregel van bestuur kan worden bepaald dat in de basisregistratie
 
 - b. er geen gewichtige redenen zijn die zich daartegen verzetten.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Indien een authentiek gegeven krachtens een wet tot instelling van een andere basisregistratie dan de basisregistratie grootschalige topografie als authentiek gegeven wordt aangemerkt, geldt dat gegeven voor de toepassing van deze wet als een uit die andere basisregistratie overgenomen authentiek gegeven.
 
@@ -140,7 +167,7 @@ Bij algemene maatregel van bestuur kan worden bepaald dat in de basisregistratie
 
 #### § 3.1. Verplichtingen van de bronhouders
 
-#### Artikel 10
+##### Artikel 10
 
 1. Bronhouder zijn:
 
@@ -164,23 +191,23 @@ Bij algemene maatregel van bestuur kan worden bepaald dat in de basisregistratie
 
 2. Voor een geografisch object als bedoeld in [artikel 7, tweede lid, onderdeel o](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=2&artikel=7&z=2025-02-12&g=2025-02-12), bepalen bronhouders van de daaraan grenzende geografische objecten in onderlinge overeenstemming door wie de bijhouding, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2025-02-12&g=2025-02-12), geschiedt.
 
-#### Artikel 11
+##### Artikel 11
 
 De bronhouder draagt zorg voor het bijhouden van de geografische gegevens in de basisregistratie grootschalige topografie door levering van de gegevens, bedoeld in de [artikelen 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=2&artikel=7&z=2025-02-12&g=2025-02-12), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=2&artikel=8&z=2025-02-12&g=2025-02-12) aan de Dienst.
 
-#### Artikel 12
+##### Artikel 12
 
 De bronhouder draagt zorg voor afstemming met een andere bronhouder over de begrenzing en de onderlinge aansluiting van de geografische objecten, voor zover dat nodig is om overlap van die objecten te voorkomen en om een landsdekkend topografisch bestand te waarborgen.
 
-#### Artikel 13
+##### Artikel 13
 
 Bij het leveren van een geografisch gegeven, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2025-02-12&g=2025-02-12), draagt de bronhouder er zorg voor dat het geografische gegeven voldoet aan de kwaliteitseisen, gesteld in de catalogus.
 
-#### Artikel 14
+##### Artikel 14
 
 De bronhouder draagt er zorg voor dat een in de basisregistratie grootschalige topografie weergegeven geografisch object in overeenstemming is met de fysieke werkelijkheid, binnen de regels ten aanzien van actualiteit die daarover in de catalogus worden gesteld.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De levering van een geografisch gegeven door de bronhouder geschiedt langs elektronische weg.
 
@@ -188,7 +215,7 @@ De bronhouder draagt er zorg voor dat een in de basisregistratie grootschalige t
 
 3. Indien bij de bijhouding van een geografisch gegeven meerdere bronhouders betrokken zijn, dan leveren de bronhouders dat gegeven gezamenlijk aan de Dienst. Het eerste en tweede lid zijn van overeenkomstige toepassing.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Onze Minister kan, indien dat in het belang van een goede registratie geboden is, aan bronhouders een aanwijzing geven ter zake van:
 
@@ -200,17 +227,17 @@ De bronhouder draagt er zorg voor dat een in de basisregistratie grootschalige t
 
 #### § 3.2. Verplichtingen van de Dienst
 
-#### Artikel 17
+##### Artikel 17
 
 De Dienst draagt zorg voor een goede beschikbaarheid, werking en beveiliging van de basisregistratie grootschalige topografie en het register, bedoeld in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=27&z=2025-02-12&g=2025-02-12), door middel van een daartoe strekkende voorziening.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De Dienst draagt zorg voor het verwerken van een door de bronhouder op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2025-02-12&g=2025-02-12) aan hem geleverd geografisch gegeven in de basisregistratie grootschalige topografie.
 
 2. Het verwerken, bedoeld in het eerste lid, vindt plaats binnen vier werkdagen na ontvangst van het betreffende geografisch gegeven.
 
-#### Artikel 19
+##### Artikel 19
 
 De Dienst draagt er zorg voor dat de weergave van een krachtens deze wet in de basisregistratie grootschalige topografie opgenomen geografisch gegeven overeenstemt met het overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=15&z=2025-02-12&g=2025-02-12) door de bronhouder geleverde geografisch gegeven.
 
@@ -218,7 +245,7 @@ De Dienst draagt er zorg voor dat de weergave van een krachtens deze wet in de b
 
 #### § 1. Technische inrichting
 
-#### Artikel 20
+##### Artikel 20
 
 1. Bij ministeriële regeling wordt een systeembeschrijving vastgesteld van de inrichting van de basisregistratie grootschalige topografie. De systeembeschrijving omvat in ieder geval de beschrijving van het elektronisch berichtenverkeer tussen bronhouders en de basisregistratie grootschalige topografie.
 
@@ -226,7 +253,7 @@ De Dienst draagt er zorg voor dat de weergave van een krachtens deze wet in de b
 
 #### § 2. Overleg
 
-#### Artikel 21
+##### Artikel 21
 
 1. Onze Minister, de Dienst en een representatieve vertegenwoordiging van bronhouders plegen overleg omtrent aangelegenheden betreffende de technische en administratieve inrichting van de basisregistratie grootschalige topografie en de levering van geografische gegevens, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=15&z=2025-02-12&g=2025-02-12).
 
@@ -236,7 +263,7 @@ De Dienst draagt er zorg voor dat de weergave van een krachtens deze wet in de b
 
 #### § 1. Inzage en verstrekking van gegevens
 
-#### Artikel 22
+##### Artikel 22
 
 1. De Dienst verleent aan eenieder op verzoek inzage in de basisregistratie grootschalige topografie en het register, bedoeld in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=27&z=2025-02-12&g=2025-02-12), en verstrekt aan eenieder op verzoek de daarin opgenomen gegevens.
 
@@ -246,7 +273,7 @@ De Dienst draagt er zorg voor dat de weergave van een krachtens deze wet in de b
 
 #### § 2. Gebruik van gegevens
 
-#### Artikel 23
+##### Artikel 23
 
 1. Indien een bestuursorgaan bij de vervulling van zijn publiekrechtelijke taak een gegeven nodig heeft dat krachtens deze wet als authentiek gegeven in de basisregistratie grootschalige topografie beschikbaar is, gebruikt het dat authentiek gegeven.
 
@@ -262,7 +289,7 @@ De Dienst draagt er zorg voor dat de weergave van een krachtens deze wet in de b
 
 3. Voor zover bij de uitoefening van een publiekrechtelijke taak gebruik wordt gemaakt van een topografische ondergrond, is een bestuursorgaan niet gehouden toepassing te geven aan het eerste lid, ingeval de uitoefening van die taak is gediend met gebruikmaking van een topografische ondergrond met een schaalniveau kleiner dan 1:5.000 of groter dan 1:500.
 
-#### Artikel 24
+##### Artikel 24
 
 Degene aan wie door een bestuursorgaan gevraagd wordt om een gegeven te verstrekken dat krachtens deze wet als authentiek gegeven in de basisregistratie grootschalige topografie beschikbaar is, behoeft dat gegeven niet te verstrekken, behoudens:
 
@@ -278,7 +305,7 @@ Degene aan wie door een bestuursorgaan gevraagd wordt om een gegeven te verstrek
 
 ### Hoofdstuk 6. Wijziging van de in de basisregistratie grootschalige topografie opgenomen gegevens
 
-#### Artikel 25
+##### Artikel 25
 
 1. Een bestuursorgaan dat gerede twijfel heeft over het in overeenstemming zijn met de fysieke werkelijkheid van een in de basisregistratie grootschalige topografie opgenomen authentiek gegeven, binnen de normen ten aanzien van actualiteit en nauwkeurigheid die aan dat gegeven in de catalogus worden gesteld, of over het ontbreken van een authentiek gegeven in de basisregistratie grootschalige topografie, doet daarvan onder opgaaf van redenen melding aan de Dienst.
 
@@ -288,11 +315,11 @@ Degene aan wie door een bestuursorgaan gevraagd wordt om een gegeven te verstrek
 
 - b. de gerede twijfel ontstaat in een geval waarin een onderzoek naar een strafbaar feit plaatsvindt.
 
-#### Artikel 26
+##### Artikel 26
 
 Na ontvangst van een melding als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=25&z=2025-02-12&g=2025-02-12), zendt de Dienst die melding onverwijld door naar de bronhouder waaraan de verantwoordelijkheid voor het bijhouden van het geografisch object waarop het authentiek gegeven betrekking heeft op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2025-02-12&g=2025-02-12) of [16, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2025-02-12&g=2025-02-12), is toebedeeld.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De bronhouder beslist na ontvangst van een melding als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=25&z=2025-02-12&g=2025-02-12), over de wijziging dan wel opneming van het betreffende authentiek gegeven.
 
@@ -304,7 +331,7 @@ Na ontvangst van een melding als bedoeld in [artikel 25, eerste lid](https://wet
 
 5. In afwijking van het bepaalde in het eerste en tweede lid zendt de bronhouder een melding als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=25&z=2025-02-12&g=2025-02-12), met betrekking tot een authentiek gegeven dat uit een andere basisregistratie is overgenomen door naar de houder van de betreffende basisregistratie indien de bronhouder constateert dat het authentiek gegeven in de basisregistratie grootschalige topografie daaruit juist is afgeleid. De bronhouder doet hiervan mededeling aan het bestuursorgaan dat de melding heeft gedaan.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Indien de bronhouder op grond van [artikel 27, eerste dan wel vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034026&hoofdstuk=6&artikel=27&z=2025-02-12&g=2025-02-12), heeft beslist over wijziging dan wel opneming van het betreffende authentiek gegeven, levert hij indien van toepassing dat authentiek gegeven onverwijld aan de Dienst en bericht de bronhouder aan de Dienst dat het geografisch object waarop het authentiek gegeven betrekking heeft niet langer in onderzoek is.
 
@@ -314,11 +341,11 @@ Na ontvangst van een melding als bedoeld in [artikel 25, eerste lid](https://wet
 
 ### Hoofdstuk 7. Controle
 
-#### Artikel 29
+##### Artikel 29
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 30
+##### Artikel 30
 
 1. De bronhouder verricht eens per jaar een onderzoek naar de uitvoering van de voor hem krachtens deze wet geldende verplichtingen.
 
@@ -330,7 +357,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 - b. kunnen nadere regels worden gegeven omtrent de uitvoering van de verplichting, bedoeld in het tweede lid, eerste volzin.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Indien een bronhouder, zijnde het dagelijks bestuur van een waterschap of de beheerder van de hoofdspoorweginfrastructuur als bedoeld in [artikel 1, onder h, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=1), een bij of krachtens deze wet gevorderde beslissing niet of niet naar behoren neemt dan wel een bij of krachtens deze wet gevorderde handeling niet of niet naar behoren verricht, kan Onze Minister besluiten daarin te voorzien ten laste van die bronhouder. De [artikelen 121, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=121), [121a tot en met 121c](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=121a), [121e](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=121e) en [121g van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=121g) zijn van overeenkomstige toepassing.
 
@@ -338,21 +365,21 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk 8. Wijziging van andere wetten
 
-#### Artikel 32
+##### Artikel 32
 
 Wijzigt de Gemeentewet.
 
-#### Artikel 33
+##### Artikel 33
 
 Wijzigt de Kadasterwet.
 
 ### Hoofdstuk 9. Overgangs- en slotbepalingen
 
-#### Artikel 34
+##### Artikel 34
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 35
+##### Artikel 35
 
 Deze wet wordt aangehaald als: Wet basisregistratie grootschalige topografie.
 

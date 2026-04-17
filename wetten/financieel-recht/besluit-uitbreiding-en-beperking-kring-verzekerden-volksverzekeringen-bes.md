@@ -1,16 +1,41 @@
 ---
 title: "Besluit uitbreiding en beperking kring verzekerden volksverzekeringen BES"
 identifier: "BWBR0028533"
-categorie: "Financieel recht"
-publicatiedatum: 2022-07-01
-laatste_update: 2022-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028533"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2022-07-01"
+last_updated: "2022-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028533"
+soort: "AMvB-BES"
+stam_id: "10839323"
+version_id: "17920862"
+internal_id: "C25426121"
+label_id: "10813904"
+dtd_version: "2.0"
+original_entry_into_force: "2011-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028533/2022-07-01/0"
+intitule_bron: "Stb.2010-611"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-21"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-366"
+original_signed_date: "2010-09-27"
+original_published_date: "2010-10-01"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2010-366"
+entry_into_force_date: "2011-01-01"
+jci_1_3: "jci1.3:c:BWBR0028533&z=2022-07-01&g=2022-07-01"
+jci_1_0: "1.0:c:BWBR0028533&g=2022-07-01"
+citeertitel_status: "officieel"
+signed_date: "2010-09-27"
+entry_into_force: "2011-01-01"
 ---
-
 # Besluit uitbreiding en beperking kring verzekerden volksverzekeringen BES
 
-#### Artikel 1. Uitbreiding kring verzekerden
+##### Artikel 1. Uitbreiding kring verzekerden
 
 De volgende personen, die de leeftijd van vijftien jaar, doch nog niet die van 27 jaar hebben bereikt en die niet op grond van [artikel 5, eerste lid, van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=5) zijn verzekerd, zijn verzekerd op grond van de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459):
 
@@ -18,7 +43,7 @@ De volgende personen, die de leeftijd van vijftien jaar, doch nog niet die van 2
 
 - b. het buiten de openbare lichamen Bonaire, Sint Eustatius of Saba wonende kind, voor wie een ingezetene van de openbare lichamen Bonaire, Sint Eustatius of Saba recht heeft op kinderbijslag BES op grond van de [Wet kinderbijslagvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037347).
 
-#### Artikel 2. Beperking kring verzekerden
+##### Artikel 2. Beperking kring verzekerden
 
 Niet verzekerd op grond van de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459) is:
 
@@ -40,11 +65,11 @@ Niet verzekerd op grond van de [Wet algemene ouderdomsverzekering BES](https://w
 
 - g. de persoon die uitsluitend wegens studieredenen in de openbare lichamen Bonaire, Sint Eustatius of Saba woont en direct daaraan voorafgaande woonde in Nederland, zolang betrokkene niet in de openbare lichamen werkt.
 
-#### Artikel 3. Gelijkstelling met Nederlanders
+##### Artikel 3. Gelijkstelling met Nederlanders
 
 Voor de toepassing van [artikel 42 van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=42) worden, zolang zij binnen de openbare lichamen Bonaire, Sint Eustatius of Saba wonen, met Nederlanders gelijkgesteld niet-Nederlanders, die na het bereiken van de leeftijd van twintig jaar gedurende ten minste vijftien jaar, al dan niet onafgebroken,in Aruba, Curaçao, Sint Maarten, of de openbare lichamen Bonaire, Sint Eustatius of Saba hebben gewoond, mits zij gedurende de vijf jaar voorafgaand aan het bereiken van de leeftijd van 65 jaar onafgebroken binnen de openbare lichamen Bonaire, Sint Eustatius of Saba hebben gewoond.
 
-#### Artikel 4. Gelijkstelling met wonen binnen de openbare lichamen Bonaire, Sint Eustatius en Saba
+##### Artikel 4. Gelijkstelling met wonen binnen de openbare lichamen Bonaire, Sint Eustatius en Saba
 
 Voor toepassing van de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=40) en [41 van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=41) wordt met het wonen binnen de openbare lichamen Bonaire, Sint Eustatius of Saba gelijkgesteld:
 
@@ -60,7 +85,7 @@ Voor toepassing van de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 #### § 1. Uitbreiding en beperking kring van verzekerden [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459)
 
-#### Artikel 5. Gelijkstelling met wonen binnen de openbare lichamen Bonaire, Sint Eustatius en Saba bij arbeid buiten de openbare lichamen Bonaire, Sint Eustatius en Saba
+##### Artikel 5. Gelijkstelling met wonen binnen de openbare lichamen Bonaire, Sint Eustatius en Saba bij arbeid buiten de openbare lichamen Bonaire, Sint Eustatius en Saba
 
 Voor de toepassing van [artikel 42 van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=42) wordt met het wonen binnen de openbare lichamen Bonaire, Sint Eustatius of Saba gelijkgesteld:
 
@@ -70,7 +95,7 @@ Voor de toepassing van [artikel 42 van de Wet algemene ouderdomsverzekering BES]
 
 #### § 2. Uitbreiding en beperking kring van verzekerden [Wet algemene weduwen en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387)
 
-#### Artikel 6. Beperking kring verzekerden
+##### Artikel 6. Beperking kring verzekerden
 
 Niet als verzekerde op grond van de [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387) wordt aangemerkt:
 
@@ -90,7 +115,7 @@ Niet als verzekerde op grond van de [Wet algemene weduwen- en wezenverzekering B
 
 - f. de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 7. Gelijkstelling met Nederlander
+##### Artikel 7. Gelijkstelling met Nederlander
 
 Voor de toepassing van [artikel 41 van de Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&artikel=41) worden met Nederlanders gelijkgesteld:
 
@@ -100,15 +125,15 @@ Voor de toepassing van [artikel 41 van de Wet algemene weduwen- en wezenverzeker
 
 #### § 3. Slotbepalingen
 
-#### Artikel 8. Wettelijke grondslag
+##### Artikel 8. Wettelijke grondslag
 
 Dit besluit berust op de [artikelen 5, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=5), en [43 van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=43) en de [artikelen 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&artikel=6), en [42 van de Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&artikel=42).
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit uitbreiding en beperking kring verzekerden volksverzekeringen BES.
 
-#### Artikel 1a. Uitbreiding kring verzekerden bij studeren in het Europese deel van Nederland
+##### Artikel 1a. Uitbreiding kring verzekerden bij studeren in het Europese deel van Nederland
 
 Vervallen
 

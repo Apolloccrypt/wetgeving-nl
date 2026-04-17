@@ -1,13 +1,39 @@
 ---
-title: "Rijksbesluit financiering Gemeenschappelijk Hof van Justitie"
+title: "Besluit van 23 augustus 2010 betreffende nieuwe regels inzake de financiering van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba (Rijksbesluit financiering Gemeenschappelijk Hof van Justitie)"
 identifier: "BWBR0028144"
-categorie: "Strafrecht"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028144"
+country: "nl"
+rank: "rijks_kb"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028144"
+soort: "rijksKB"
+stam_id: "10678543"
+version_id: "17634162"
+internal_id: "C24665971"
+label_id: "10653364"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028144/2010-10-10/0"
+intitule_bron: "Stb.2010-352"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-08-23"
+intitule_published: "2010-09-01"
+intitule_in_force: "2010-10-01"
+intitule_status: "goed"
+original_publication: "Stb.2010-352"
+original_signed_date: "2010-08-23"
+original_published_date: "2010-09-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-352"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028144&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028144&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Rijksbesluit financiering Gemeenschappelijk Hof van Justitie"
+signed_date: "2010-08-23"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit van 23 augustus 2010 betreffende nieuwe regels inzake de financiering van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba (Rijksbesluit financiering Gemeenschappelijk Hof van Justitie)
 
 Op de voordracht van Onze Minister van Justitie van 2 december 2009, nr. 5630762/09/6, gedaan mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
@@ -26,7 +52,7 @@ Treedt in werking op het tijdstip waarop artikel 66 van de Rijkswet Gemeenschapp
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Ondersteunende systemen en modellen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een systeem van meting van inkomende zaken naar zaakscluster. Dit systeem houdt in het meten van het aantal inkomende zaken per zaakscategorie en daarbinnen per afzonderlijk Gerecht in eerste aanleg.
 
@@ -52,7 +78,7 @@ In dit besluit wordt verstaan onder:
 
 5. De indeling en de daaraan ten grondslag liggende definities en modellen van zaakscategorieën en -clusters, alsmede belangrijke wijzigingen daarin, behoeven de instemming van Onze Ministers.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Er is een systeem van kostprijsberekening voor het Hof. Dit systeem houdt in het toerekenen van directe en indirecte kosten aan aantallen inkomende zaken per zaakscluster voor het Hof en de Gerechten in eerste aanleg gezamenlijk en daaruit eenduidig afgeleid voor het Hof en elk Gerecht in eerste aanleg afzonderlijk.
 
@@ -62,7 +88,7 @@ In dit besluit wordt verstaan onder:
 
 4. De definities en modellen als bedoeld in het derde lid, en belangrijke wijzigingen daarin, behoeven de instemming van Onze Ministers.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Er is een werklastmetingssysteem voor de rechtspraak. Dit systeem houdt in het meten van de werklast van het direct personeel bij het Hof en de Gerechten in eerste aanleg gemoeid met de behandeling van instromende zaken.
 
@@ -72,11 +98,11 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 3. Bijdragetoekenning door Onze Ministers aan het Hof
 
-#### Artikel 5
+##### Artikel 5
 
 De jaarlijks door de landen aan het Hof toe te kennen bijdrage ten behoeve van de activiteiten van het Hof, de Gerechten in eerste aanleg en de Beheerraad is gelijk aan het bedrag dat ten behoeve van het Hof is opgenomen voor het desbetreffende begrotingsjaar vastgestelde begroting van de respectievelijke Ministeries van Justitie.
 
-#### Artikel 6
+##### Artikel 6
 
 De door de landen aan het Hof toe te kennen bijdrage bestaat uit de volgende onderdelen:
 
@@ -90,7 +116,7 @@ De door de landen aan het Hof toe te kennen bijdrage bestaat uit de volgende ond
 
 - e. een bijdrage voor de overige kosten.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De instroomgerelateerde bijdrage wordt bepaald door de voor het desbetreffende jaar geldende kostprijzen te vermenigvuldigen met het gemiddelde van de twee begrotingsjaren voorafgaand aan het jaar vóór het bedoelde begrotingsjaar aantal ingestroomde zaken per zaakscluster eventueel verminderd of vermeerderd met een door de beheerraad op voorstel van het Hof vastgesteld aantal zaken per zaakscluster. Het aantal zaken wordt per zaakscluster opgenomen in de begroting van het Hof.
 
@@ -100,7 +126,7 @@ De door de landen aan het Hof toe te kennen bijdrage bestaat uit de volgende ond
 
 4. Onze Ministers informeren de raad van ministers van het Koninkrijk over de uitkomst van het overleg, bedoeld in het derde lid.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De kostprijzen worden voor drie opeenvolgende jaren vastgesteld en opgenomen in de begroting van de respectievelijke Ministeries van Justitie.
 
@@ -118,7 +144,7 @@ De door de landen aan het Hof toe te kennen bijdrage bestaat uit de volgende ond
 
 3. Jaarlijks worden de prijzen aangepast in verband met algemene salaris- en prijsontwikkelingen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het Hof baseert in de meerjarenraming het aantal zaken per zaakscluster op de gemiddelde instroom per zaakscluster van de vier jaar aan het jaar waarop de begroting betrekking heeft voorafgaand.
 
@@ -126,7 +152,7 @@ De door de landen aan het Hof toe te kennen bijdrage bestaat uit de volgende ond
 
 3. Over de in het eerste lid genoemde raming kunnen nadere afspraken worden gemaakt tussen het Hof en de landen door tussenkomst van de Beheerraad.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De bijdrage voor gerechtskosten per land wordt bepaald door de gemiddelde gerechtskosten per zaakscluster te vermenigvuldigen met het aantal in de begroting van Onze Ministers opgenomen aantal zaken, onderverdeeld naar zaakscluster.
 
@@ -134,19 +160,19 @@ De door de landen aan het Hof toe te kennen bijdrage bestaat uit de volgende ond
 
 3. Indien het in het eerste lid bedoelde bedrag niet toereikend is, stellen Onze Ministers aanvullende financiële middelen ter beschikking aan het Hof teneinde de met de gerechtskosten gemoeide uitgaven van de gerechten te bekostigen. Hierover worden door Onze Ministers met het Hof door tussenkomst van de Beheerraad, nadere afspraken gemaakt.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De bijdrage voor de kosten voor de Beheerraad is gelijk aan het bedrag dat hiervoor is opgenomen in de begroting van het desbetreffende land.
 
 2. De in het begrotingsvoorstel van het Hof opgenomen bedrag voor de kosten van de Beheerraad wordt gelijk over de landen verdeeld.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De bijdrage voor de kosten voor de huisvesting van het Hof en de gerechten is gelijk aan het bedrag dat hiervoor is opgenomen in de begroting van het desbetreffende land.
 
 2. Het in het begrotingsvoorstel van het Hof opgenomen bedrag voor de huisvesting van het Hof en de gerechten is onderverdeeld naar de landen. Hierover kunnen door het Hof en de landen nadere afspraken worden gemaakt door tussenkomst van de beheerraad.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De bijdrage voor overige uitgaven is gelijk aan het bedrag dat hiervoor is opgenomen in de begroting van het desbetreffende land.
 
@@ -154,7 +180,7 @@ De door de landen aan het Hof toe te kennen bijdrage bestaat uit de volgende ond
 
 3. In de raming worden incidentele en structurele kosten zichtbaar gemaakt.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Onze Ministers kunnen gezamenlijk voorschriften aan het Hof stellen met betrekking tot de jaarlijkse bijdragetoekenning, door tussenkomst van de beheerraad.
 
@@ -168,7 +194,7 @@ De door de landen aan het Hof toe te kennen bijdrage bestaat uit de volgende ond
 
 - d. beheersmatige aspecten.
 
-#### Artikel 15
+##### Artikel 15
 
 1. In de balans worden onder het eigen vermogen van het Hof slechts opgenomen:
 
@@ -188,7 +214,7 @@ De door de landen aan het Hof toe te kennen bijdrage bestaat uit de volgende ond
 
 6. Voor het tegen een financiële vergoeding verrichten van activiteiten die niet in een wettelijke regeling aan het Hof zijn opgedragen voor anderen dan Onze Ministers, behoeft het Hof instemming van Onze Ministers.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het Hof heeft een eigen vermogen bestaande uit een exploitatiereserve, een verplichte reserve en het onverdeeld resultaat.
 
@@ -198,11 +224,11 @@ De door de landen aan het Hof toe te kennen bijdrage bestaat uit de volgende ond
 
 4. Het is het Hof niet toegestaan bijdragen in de vorm van een lening te aanvaarden van anderen dan Onze Minister van Financiën van Nederland. Bijdragen van anderen worden toegevoegd aan de exploitatiereserve van het Hof.
 
-#### Artikel 17
+##### Artikel 17
 
 Bij een dreigend exploitatieverlies dat leidt tot een negatief vermogen van het Hof, een exploitatiewinst die uitkomt boven de in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028144&hoofdstuk=3&artikel=15&z=2010-10-10&g=2010-10-10), bedoelde grens dan wel een ingrijpende wijziging van omstandigheden met aantoonbare gevolgen voor de instroom, overleggen Onze Ministers, de Beheerraad en het Hof over de te nemen maatregelen en passen zonodig, onverminderd artikel 15, vierde lid, tweede volzin, de gefinancierde instroomaantallen van het Hof en de kostprijs aan.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Het Hof verstrekt Onze Ministers en de Beheerraad de voor de uitoefening van hun taak met betrekking tot de financiering van het Hof benodigde informatie. Daartoe behoren in elk geval:
 
@@ -218,17 +244,17 @@ Bij een dreigend exploitatieverlies dat leidt tot een negatief vermogen van het 
 
 ### Hoofdstuk 4. Overige bepalingen
 
-#### Artikel 19
+##### Artikel 19
 
 Het met ingang van de inwerkingtreding van de [Rijkswet Gemeenschappelijk Hof van Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0028070) door het Hof toe te passen begrotings- en verantwoordingsstelsel is het baten-lastenstelsel.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 20
+##### Artikel 20
 
 Dit besluit treedt in werking op het krachtens [artikel 66 van de Rijkswet Gemeenschappelijk Hof van Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=66) vastgestelde tijdstip.
 
-#### Artikel 21
+##### Artikel 21
 
 Dit besluit wordt aangehaald als: Rijksbesluit financiering Gemeenschappelijk Hof van Justitie.
 

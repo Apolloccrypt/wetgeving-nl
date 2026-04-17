@@ -1,14 +1,37 @@
 ---
-title: "Wet opheffing Visserijschap en Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven"
+title: "Wet van 29 mei 1991, tot opheffing van het Visserijschap en het Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven, tevens strekkende tot wijziging van de Instellingswet Productschap voor Vis en Visproducten"
 identifier: "BWBR0005098"
-categorie: "Belastingrecht"
-publicatiedatum: 1999-02-17
-laatste_update: 1999-02-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005098"
+country: "nl"
+rank: "wet"
+publication_date: "1999-02-17"
+last_updated: "1999-02-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005098"
+soort: "wet"
+stam_id: "15463"
+version_id: "18282"
+internal_id: "C18281"
+label_id: "15824"
+dtd_version: "2.0"
+original_entry_into_force: "1992-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005098/1999-02-17/0"
+intitule_bron: "Stb.1991-350"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-05-29"
+intitule_status: "goed"
+original_publication: "Stb.1991-350"
+original_signed_date: "1991-05-29"
+original_effect: "nieuwe-regeling"
+original_dossier: "21469"
+entry_into_force_date: "1992-01-01"
+jci_1_3: "jci1.3:c:BWBR0005098&z=1999-02-17&g=1999-02-17"
+jci_1_0: "1.0:c:BWBR0005098&g=1999-02-17"
+citeertitel_status: "officieel"
+short_title: "Wet opheffing Visserijschap en Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven"
+signed_date: "1991-05-29"
+entry_into_force: "1992-01-01"
 ---
-
-# Wet opheffing Visserijschap en Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven
+# Wet van 29 mei 1991, tot opheffing van het Visserijschap en het Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven, tevens strekkende tot wijziging van de Instellingswet Productschap voor Vis en Visproducten
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,19 +39,19 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is overeenkomstig het d
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het Visserijschap, ingesteld bij het koninklijk besluit van 23 december 1955 (**Stb.** 615), is opgeheven. De door het bedrijfschap vastgestelde verordeningen, voorzover nog van kracht bij de inwerkingtreding van deze wet, vervallen.
 
 2. Het Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven, ingesteld bij het koninklijk besluit van 31 januari 1955 (**Stb.** 65), is opgeheven. De door het bedrijfschap vastgestelde verordeningen, voorzover nog van kracht bij de inwerkingtreding van deze wet, vervallen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Van de inwerkingtreding van deze wet af berust het beheer van het vermogen van het Visserijschap en het Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven bij het Produktschap voor Vis en Visprodukten.
 
 2. Rechtsvorderingen, welke tot het vermogen van het Visserijschap danwel het Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven behorende rechten of verplichtingen tot onderwerp hebben, worden ingesteld door of tegen het Produktschap voor Vis en Visprodukten.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het Produktschap voor Vis en Visprodukten is belast met de vereffening van het vermogen van beide in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005098&artikel=1&z=1999-02-17&g=1999-02-17) genoemde bedrijfschappen. Het kan daartoe de tot het vermogen van beide bedrijfschappen behorende roerende en onroerende zaken vervreemden.
 
@@ -38,13 +61,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. De goedkeuring van de rekening van inkomsten en uitgaven door de Raad strekt tot décharge van het bestuur van het Visserijschap respectievelijk het Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven, behoudens in geval van later gebleken valsheid in bewijsstukken of andere onregelmatigheden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het Produktschap voor Vis en Visprodukten maakt het tijdstip van de aanvang der vereffening bekend in de **Staatscourant** en in het **Mededelingenblad Bedrijfsorganisatie**, alsmede in de daartoe naar zijn oordeel in aanmerking komende nieuwsbladen, onder vermelding van de afkondiging van deze wet.
 
 2. In de bekendmaking worden degenen die een vordering op het Visserijschap respectievelijk het Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven hebben, opgeroepen die vorderingen binnen een daarbij aangegeven termijn bij het Produktschap voor Vis en Visprodukten in te dienen. Deze termijn wordt niet korter gesteld dan zes maanden, te rekenen vanaf de dag van bekendmaking.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De opheffing van het Visserijschap en het Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven tast de rechtskracht van de door deze lichamen wettig opgelegde heffingsaanslagen niet aan.
 
@@ -54,7 +77,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. Ten aanzien van een heffingsverordening als in het derde lid bedoeld en de krachtens die verordening opgelegde aanslagen, zijn de [artikelen 126](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), [127](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127) en [127**a** van de Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127a) van overeenkomstige toepassing.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De rechten en verplichtingen van de gewezen werknemers van het Visserijschap, voortvloeiende uit de Verordening pensioenen Personeel Visserijschap 1988, de Verordening Vrijwillig Vervroegde Uittreding Personeel 1986, blijven ook na de opheffing van het Visserijschap in stand.
 
@@ -62,7 +85,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Voorzover de rechten en verplichtingen betrekking hebben op de wachtgelden en pensioenverzekeringen, kunnen zij na de opheffing geldend worden gemaakt onderscheidenlijk moeten zij worden gekweten tegenover het Produktschap voor Vis en Visprodukten.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Zo spoedig mogelijk nadat het Produktschap voor Vis en Visprodukten het vermogen van het Visserijschap respectievelijk het Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven heeft vereffend, brengt het daarover verslag uit aan de Sociaal-Economische Raad.
 
@@ -72,29 +95,29 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. De rekening behoeft de goedkeuring van de Sociaal-Economische Raad. De goedkeuring strekt tot décharge van het produktschap. Het produktschap doet van het verlenen van de goedkeuring zo spoedig mogelijk openbare kennisgeving op de wijze als is aangegeven in het tweede lid.
 
-#### Artikel 8
+##### Artikel 8
 
 Hetgeen blijkens de goedgekeurde rekening aan vermogen van het Visserijschap respectievelijk het Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven over is, komt ten goede aan het Produktschap voor Vis en Visprodukten.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De opheffing van het Visserijschap en het Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven heeft geen gevolg voor de ontvankelijkheid van beroepen ingevolge de [Wet bestuursrechtspraak bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002144).
 
 2. Uitspraken van het College van Beroep voor het bedrijfsleven, gedaan tegen het Visserijschap respectievelijk het Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven of, op grond van het eerste lid, tegen het Produktschap voor Vis en Visprodukten worden door het produktschap uitgevoerd, voorzover nodig ten laste van het vermogen van het opgeheven Visserijschap respectievelijk het opgeheven Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven.
 
-#### Artikel 10
+##### Artikel 10
 
 Het Produktschap voor Vis en Visprodukten bewaart in de zin van de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) 1972 (**Stb.** 313) de archiefbescheiden van het Visserijschap en het Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven.
 
-#### Artikel 11
+##### Artikel 11
 
 Het Instellingsbesluit Visserijschap en het Instellingsbesluit Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven worden ingetrokken.
 
-#### Artikel 12
+##### Artikel 12
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

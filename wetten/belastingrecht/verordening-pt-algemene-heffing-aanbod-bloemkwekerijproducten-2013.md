@@ -1,13 +1,38 @@
 ---
-title: "Verordening PT algemene heffing aanbod bloemkwekerijproducten 2013"
+title: "Verordening van het bestuur van het Productschap Tuinbouw van 20 december 2012, houdende de vaststelling van een algemene heffing ten laste van de sector bloemkwekerij producten voor het jaar 2013 (Verordening PT algemene heffing aanbod bloemkwekerijproducten 2013)"
 identifier: "BWBR0033104"
-categorie: "Belastingrecht"
-publicatiedatum: 2013-09-22
-laatste_update: 2013-09-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033104"
+country: "nl"
+rank: "pbo"
+publication_date: "2013-09-22"
+last_updated: "2013-09-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033104"
+soort: "pbo"
+stam_id: "12167913"
+version_id: "20318052"
+internal_id: "C28582901"
+label_id: "12139504"
+dtd_version: "2.0"
+original_entry_into_force: "2013-03-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033104/2013-09-22/0"
+intitule_bron: "Vbbo.2013-15"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-20"
+intitule_published: "2013-03-29"
+intitule_in_force: "2013-03-29"
+intitule_status: "goed"
+original_publication: "Vbbo.2013-15"
+original_signed_date: "2012-12-20"
+original_published_date: "2013-03-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2013-03-31"
+jci_1_3: "jci1.3:c:BWBR0033104&z=2013-09-22&g=2013-09-22"
+jci_1_0: "1.0:c:BWBR0033104&g=2013-09-22"
+citeertitel_status: "officieel"
+short_title: "Verordening PT algemene heffing aanbod bloemkwekerijproducten 2013"
+signed_date: "2012-12-20"
+entry_into_force: "2013-03-31"
 ---
-
 # Verordening van het bestuur van het Productschap Tuinbouw van 20 december 2012, houdende de vaststelling van een algemene heffing ten laste van de sector bloemkwekerij producten voor het jaar 2013 (Verordening PT algemene heffing aanbod bloemkwekerijproducten 2013)
 
 Gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95), [100, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=100) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=13) en [14 van het Instellingsbesluit Productschap Tuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=14);
@@ -18,7 +43,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze verordening wordt verstaan onder:
 
@@ -56,7 +81,7 @@ In deze verordening wordt verstaan onder:
 
 #### § 2. Heffing
 
-#### Artikel 2
+##### Artikel 2
 
 1. De ondernemer, die in 2013 bloemkwekerijproducten teelt of importeert, is een algemene heffing verschuldigd aan het productschap volgens de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033104&paragraaf=3&artikel=3&z=2013-09-22&g=2013-09-22) vermelde heffingsgrondslag met bijbehorend tarief.
 
@@ -66,7 +91,7 @@ In deze verordening wordt verstaan onder:
 
 #### § 3. Grondslag en hoogte
 
-#### Artikel 3
+##### Artikel 3
 
 1. De heffing die de ondernemer verschuldigd is over de door hem gekweekte bloemkwekerijproducten, wordt berekend over de omzet behaald met de verkoop van zelfgeteelde bloemkwekerijproducten in het kalenderjaar 2013.
 
@@ -82,17 +107,17 @@ In deze verordening wordt verstaan onder:
 
 #### § 4. Vaststelling en oplegging
 
-#### Artikel 4
+##### Artikel 4
 
 1. De krachtens deze verordening verschuldigde algemene heffing wordt op basis van de door de ondernemer verstrekte gegevens door de voorzitter vastgesteld en aan de ondernemer opgelegd na afloop van het kalenderjaar waarover deze heffing verschuldigd is en geschiedt door toezending of uitreiking van een heffingnota aan de ondernemer.
 
 2. Indien de ondernemer geen aangifte heeft gedaan als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033104&paragraaf=2&artikel=2&z=2013-09-22&g=2013-09-22) kan de voorzitter de ondernemer ambtshalve een heffing opleggen.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien uit ter beschikking gekomen gegevens blijkt dat de verstrekking van de gegevens of een ambtshalve schatting niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens door de voorzitter worden herzien en opnieuw worden opgelegd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De gegevens verkregen uit hoofde van het bepaalde in deze verordening worden in handen van de voorzitter of door deze aan te wijzen personen van het secretariaat van het productschap gesteld.
 
@@ -100,10 +125,10 @@ Indien uit ter beschikking gekomen gegevens blijkt dat de verstrekking van de ge
 
 #### § 5. Slotbepalingen
 
-#### Artikel 7
+##### Artikel 7
 
 Deze verordening treedt in werking met ingang van 1 januari 2013. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2013, treedt zij in werking met ingang van de tweede dag na de dagtekening van het Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2013.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze verordening wordt aangehaald als: Verordening PT algemene heffing aanbod bloemkwekerijproducten 2013.

@@ -1,13 +1,38 @@
 ---
 title: "Besluit beperkingen openbaarheid archiefbescheiden Code-archief Ministerie van Buitenlandse Zaken, 1965–1974 (2.05.313)"
 identifier: "BWBR0051250"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2025-07-17
-laatste_update: 2025-07-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051250"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-17"
+last_updated: "2025-07-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051250"
+soort: "ministeriele-regeling"
+stam_id: "17471773"
+version_id: "30814552"
+internal_id: "C44163021"
+label_id: "17374084"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051250/2025-07-17/0"
+intitule_bron: "Stcrt.2025-24091"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-03"
+intitule_published: "2025-07-16"
+intitule_in_force: "2025-07-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-24091"
+original_signed_date: "2025-07-03"
+original_published_date: "2025-07-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-24091"
+entry_into_force_date: "2025-07-17"
+jci_1_3: "jci1.3:c:BWBR0051250&z=2025-07-17&g=2025-07-17"
+jci_1_0: "1.0:c:BWBR0051250&g=2025-07-17"
+citeertitel_status: "redactioneel"
+signed_date: "2025-07-03"
+entry_into_force: "2025-07-17"
 ---
-
 # Besluit beperkingen openbaarheid archiefbescheiden Code-archief Ministerie van Buitenlandse Zaken, 1965–1974 (2.05.313)
 
 Gelet op [artikel 15, tweede en vierde lid van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15),
@@ -20,19 +45,19 @@ houdende de beperking op de openbaarheid.
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De openbaarheid van de in de bijlage bij dit besluit genoemde archiefbescheiden, geborgen onder de inventarisnummers van het Code-archief van het Ministerie van Buitenlandse Zaken (1965–1974), nummer archiefinventaris 2.05.313, wordt met het oog op de eerbiediging van de persoonlijke levenssfeer beperkt tot maximaal 1 januari van het jaar vermeld in de tweede kolom van de bijlage bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 De algemene rijksarchivaris stelt de inventarisnummers genoemd in de bijlage beschikbaar volgens de richtlijnen die bij het Nationaal Archief gelden voor inzage in beperkt openbare archieven met bijzondere persoonsgegevens.
 
-#### Artikel 3
+##### Artikel 3
 
 Wanneer een verzoeker aantoont dat de persoon op wie de archiefbescheiden betrekking hebben, is overleden vóór dat datum dat de openbaarheidsbeperking conform de bijlage bij dit besluit vervalt, worden de openbaarheidsbeperkingen die aan die archiefbescheiden gesteld zijn, opgeheven. Dit is van toepassing voor zover de archiefbescheiden een persoonsdossier betreffen.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

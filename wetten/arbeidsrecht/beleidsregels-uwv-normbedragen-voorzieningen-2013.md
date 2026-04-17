@@ -1,20 +1,45 @@
 ---
 title: "Beleidsregels UWV normbedragen voorzieningen 2013"
 identifier: "BWBR0032872"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2013-07-01
-laatste_update: 2013-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032872"
+country: "nl"
+rank: "zbo"
+publication_date: "2013-07-01"
+last_updated: "2013-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032872"
+soort: "zbo"
+stam_id: "12098843"
+version_id: "20164232"
+internal_id: "C28344551"
+label_id: "12070464"
+dtd_version: "2.0"
+original_entry_into_force: "2013-02-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032872/2013-07-01/0"
+intitule_bron: "Stcrt.2013-2784"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-01-15"
+intitule_published: "2013-02-07"
+intitule_in_force: "2013-02-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-2784"
+original_signed_date: "2013-01-15"
+original_published_date: "2013-02-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-2784"
+entry_into_force_date: "2013-02-08"
+jci_1_3: "jci1.3:c:BWBR0032872&z=2013-07-01&g=2013-07-01"
+jci_1_0: "1.0:c:BWBR0032872&g=2013-07-01"
+citeertitel_status: "officieel"
+signed_date: "2013-01-15"
+entry_into_force: "2013-02-08"
 ---
-
 # Beleidsregels UWV normbedragen voorzieningen 2013
 
 Besluit:
 
 ### Hoofdstuk 1. : Wettelijk kader
 
-#### Artikel 1. : Wettelijk kader
+##### Artikel 1. : Wettelijk kader
 
 De normbedragen voor voorzieningen als bedoeld in:
 
@@ -32,13 +57,13 @@ worden vastgesteld op de bedragen, genoemd in de bijlage bij dit besluit.
 
 ### Hoofdstuk 2. : Vervoersvoorzieningen algemeen
 
-#### Artikel 2. : Kilometervergoeding
+##### Artikel 2. : Kilometervergoeding
 
 1. De kilometervergoedingen volgens de normbedragen C22, C25-I en C25-V worden verstrekt op basis van de woon- werkafstand of woon-schoolafstand, volgens de ANWB-routeplanner ‘snelste route’, op basis van volledige postcodes en per enkele reis afgerond naar boven.
 
 2. De aftrek van de eigen bijdrage, genoemd in de normbedragen C26-I en C26-II, wordt op dezelfde wijze vastgesteld als in het eerste lid.
 
-#### Artikel 3. : Taxikostenvergoeding
+##### Artikel 3. : Taxikostenvergoeding
 
 1. Vergoeding volgens het normbedrag C31 wordt verstrekt als de cliënt niet méér dan 100 meter kan lopen en voor iedere verplaatsing buitenshuis gebruik moet maken van een taxi.
 
@@ -46,7 +71,7 @@ worden vastgesteld op de bedragen, genoemd in de bijlage bij dit besluit.
 
 ### Hoofdstuk 3. : Tolken gebarentaal, schrijftolken, communicatie-assistenten en overige dienstverleners van intermediaire activiteiten
 
-#### Artikel 4. : Uurvergoeding tolken en overige dienstverleners
+##### Artikel 4. : Uurvergoeding tolken en overige dienstverleners
 
 1. De uurvergoeding volgens de normbedragen E17-I en E17-III wordt uitsluitend verstrekt voor feitelijke dienstverlening en bij een minimale inzet van:
 
@@ -64,7 +89,7 @@ Afronding van de te vergoeden getolkte tijd vindt per opdracht en locatie per et
 | Zondag/feestdag: | 24.00 uur tot 24.00 uur: | 145% |
 | Opdrachten buitenland: | alle dagen en tijdstippen: | 100% |
 
-#### Artikel 5. : Specifieke regels voor opdrachten in het onderwijs
+##### Artikel 5. : Specifieke regels voor opdrachten in het onderwijs
 
 1. Voor opdrachten in het onderwijs wordt de uurvergoeding als volgt gedifferentieerd in percentages van de normbedragen E17-I en E17-III.
 
@@ -76,7 +101,7 @@ Afronding van de te vergoeden getolkte tijd vindt per opdracht en locatie per et
 
 2. De in het eerste lid genoemde percentages worden alleen gewijzigd na overleg met het ministerie van OCW.
 
-#### Artikel 6. : Reisvergoeding van tolken en overige verleners van intermediaire activiteiten
+##### Artikel 6. : Reisvergoeding van tolken en overige verleners van intermediaire activiteiten
 
 1. Onder reisvergoeding wordt verstaan de vergoeding van de reistijd die als werktijd van de tolk wordt beschouwd, te verhogen met de fiscale norm onkostenvergoeding per kilometer.
 
@@ -88,7 +113,7 @@ Afronding van de te vergoeden getolkte tijd vindt per opdracht en locatie per et
 
 5. Ten aanzien van cliënten, die doof én blind of doof én zeer slechtziend zijn, geldt geen maximum voor het aantal te reizen kilometers. Het is toegestaan dat de dienstverlener binnen redelijke grenzen omrijdt voor het ophalen of wegbrengen van deze cliënt.
 
-#### Artikel 7. : Afwijkende vergoeding tolkopdrachten
+##### Artikel 7. : Afwijkende vergoeding tolkopdrachten
 
 1. Voor groepsgewijze toepassingen en opdrachten in het buitenland wordt afgeweken van de vergoedingen, bedoeld in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032872&hoofdstuk=3&artikel=4&z=2013-07-01&g=2013-07-01), en [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032872&hoofdstuk=3&artikel=6&z=2013-07-01&g=2013-07-01) en wordt op basis van maatwerk een passende vergoeding verstrekt.
 
@@ -116,7 +141,7 @@ Afronding van de te vergoeden getolkte tijd vindt per opdracht en locatie per et
 
 8. Voor de tolk op afstand als bedoeld in het zevende lid wordt de uurvergoeding E 17-I gehanteerd. Een extra vergoeding voor voorbereiding en afronding van de opdracht wordt in aanvulling op de uurvergoeding verstrekt.
 
-#### Artikel 8. : Annulering van tolkopdrachten
+##### Artikel 8. : Annulering van tolkopdrachten
 
 1. Een opdracht, die aantoonbaar binnen 24 uur voor het afgesproken tijdstip van uitvoering wordt geannuleerd, wordt voor 50% van de geldende norm vergoed.
 
@@ -126,13 +151,13 @@ Afronding van de te vergoeden getolkte tijd vindt per opdracht en locatie per et
 
 4. De reisvergoeding van geannuleerde opdrachten wordt niet verstrekt. Deze regel geldt ook in de situatie dat het bericht van de annulering de tolk te laat of in het geheel niet heeft bereikt.
 
-#### Artikel 9. : Naamgeving besluit
+##### Artikel 9. : Naamgeving besluit
 
 Dit besluit wordt aangehaald als:
 
 Beleidsregels UWV normbedragen voorzieningen 2013.
 
-#### Artikel 10. : Datum inwerkingtreding besluit
+##### Artikel 10. : Datum inwerkingtreding besluit
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2013.
 

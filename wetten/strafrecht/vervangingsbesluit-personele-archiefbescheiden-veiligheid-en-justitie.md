@@ -1,13 +1,39 @@
 ---
-title: "Vervangingsbesluit personele archiefbescheiden Veiligheid en Justitie"
+title: "Besluit van het College Gerechtelijk Deskundigen met betrekking tot digitale vervanging van personele archiefbescheiden"
 identifier: "BWBR0039574"
-categorie: "Strafrecht"
-publicatiedatum: 2017-05-24
-laatste_update: 2017-05-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039574"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-05-24"
+last_updated: "2017-05-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039574"
+soort: "ministeriele-regeling"
+stam_id: "14010513"
+version_id: "24113702"
+internal_id: "C34647761"
+label_id: "13972394"
+dtd_version: "2.0"
+original_entry_into_force: "2017-05-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039574/2017-05-24/0"
+intitule_bron: "Stcrt.2017-28242"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-12-15"
+intitule_published: "2017-05-23"
+intitule_in_force: "2017-05-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-28242"
+original_signed_date: "2016-12-15"
+original_published_date: "2017-05-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-28242"
+entry_into_force_date: "2017-05-24"
+jci_1_3: "jci1.3:c:BWBR0039574&z=2017-05-24&g=2017-05-24"
+jci_1_0: "1.0:c:BWBR0039574&g=2017-05-24"
+citeertitel_status: "officieel"
+short_title: "Vervangingsbesluit personele archiefbescheiden Veiligheid en Justitie"
+signed_date: "2016-12-15"
+entry_into_force: "2017-05-24"
 ---
-
 # Besluit van het College Gerechtelijk Deskundigen met betrekking tot digitale vervanging van personele archiefbescheiden
 
 gelet op [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7), [artikel 6, eerste lid, van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=6) en [artikel 26b van de Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&artikel=26b);
@@ -16,23 +42,23 @@ met inachtneming van de Regeling van de Minister van Justitie van 19 april 2010,
 
 besluit
 
-#### Artikel 1. Reikwijdte
+##### Artikel 1. Reikwijdte
 
 Dit besluit heeft betrekking op archiefbescheiden op papier die behoren of zullen gaan behoren tot het personeelsdossier van de medewerkers van het Nederlands Register Gerechtelijk Deskundigen. Deze archiefbescheiden worden vervangen door digitale reproducties. Deze vervanging betreft alle papieren archiefbescheiden die betrekking hebben op personeelsgegevens en salarisgegevens zoals beschreven in het ‘Basisselectiedocument P-dossier is Mens-en-werk, 1945.
 
-#### Artikel 2
+##### Artikel 2
 
 De digitale vervanging geschiedt ten minste overeenkomstig de specificaties en instellingen zoals deze zijn opgenomen in de bijlage en op de wijze zoals beschreven in het Handboek Digitale Vervanging Personeelsdossiers.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd.
 
-#### Artikel 4
+##### Artikel 4
 
 De digitale reproductie wordt uitgevoerd door P-Direkt.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling kan worden aangehaald als Vervangingsbesluit personele archiefbescheiden Veiligheid en Justitie.
 

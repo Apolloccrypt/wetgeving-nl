@@ -1,13 +1,38 @@
 ---
 title: "Klachtenreglement UWV 2009"
 identifier: "BWBR0024838"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2009-01-01
-laatste_update: 2009-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024838"
+country: "nl"
+rank: "zbo"
+publication_date: "2009-01-01"
+last_updated: "2009-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024838"
+soort: "zbo"
+stam_id: "9793633"
+version_id: "15896532"
+internal_id: "C22036081"
+label_id: "9770504"
+dtd_version: "2.0"
+original_entry_into_force: "2009-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024838/2009-01-01/0"
+intitule_bron: "Stcrt.2008-241"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-11-18"
+intitule_published: "2008-12-11"
+intitule_in_force: "2008-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-241"
+original_signed_date: "2008-11-18"
+original_published_date: "2008-12-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-1733"
+entry_into_force_date: "2009-01-01"
+jci_1_3: "jci1.3:c:BWBR0024838&z=2009-01-01&g=2009-01-01"
+jci_1_0: "1.0:c:BWBR0024838&g=2009-01-01"
+citeertitel_status: "officieel"
+signed_date: "2008-11-18"
+entry_into_force: "2009-01-01"
 ---
-
 # Klachtenreglement UWV 2009
 
 Gelet op [hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9);
@@ -18,7 +43,7 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Wet structuur uitvoeri
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit reglement wordt verstaan onder:
 
@@ -32,7 +57,7 @@ In dit reglement wordt verstaan onder:
 
 - e. **Nationale ombudsman:** De Nationale ombudsman, bedoeld in [art 9:17 Abw](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:17), die belast is met de klachtbehandeling en -beoordeling in tweede aanleg.
 
-#### Artikel 2. Klachtrecht
+##### Artikel 2. Klachtrecht
 
 1. Een ieder heeft het recht om over de wijze waarop UWV zich in een bepaalde aangelegenheid tegenover hem of een ander heeft gedragen, een klacht in te dienen bij UWV.
 
@@ -40,13 +65,13 @@ In dit reglement wordt verstaan onder:
 
 3. Een klant ondervindt geen nadelige hinder bij het indienen van een klacht
 
-#### Artikel 3. Behoorlijke behandeling
+##### Artikel 3. Behoorlijke behandeling
 
 UWV draagt zorg voor een behoorlijke, empatische behandeling van mondelinge en schriftelijke klachten over zijn gedragingen.
 
 ### Hoofdstuk 2. De behandeling van klachten
 
-#### Artikel 4. Indienen van een klacht
+##### Artikel 4. Indienen van een klacht
 
 1. De schriftelijke klacht wordt ondertekend en bevat ten minste:
 
@@ -60,7 +85,7 @@ UWV draagt zorg voor een behoorlijke, empatische behandeling van mondelinge en s
 
 3. UWV kan besluiten om een schriftelijke klacht die niet aan het eerste of het tweede lid voldoet niet te behandelen mits de indiener de gelegenheid heeft gehad de klacht binnen een redelijke termijn aan te vullen.
 
-#### Artikel 5. Interventie
+##### Artikel 5. Interventie
 
 1. Zodra UWV naar tevredenheid van de klager aan diens klacht tegemoet is gekomen, vervalt de verplichting tot het verder toepassen van dit reglement.
 
@@ -68,7 +93,7 @@ UWV draagt zorg voor een behoorlijke, empatische behandeling van mondelinge en s
 
 3. Indien de klager niet tevreden blijkt over deze afhandeling van zijn klacht zal deze alsnog volgens dit reglement worden behandeld.
 
-#### Artikel 6. Ontvangstbevestiging
+##### Artikel 6. Ontvangstbevestiging
 
 1. UWV bevestigt de ontvangst van de klacht schriftelijk binnen 3 werkdagen.
 
@@ -88,15 +113,15 @@ UWV draagt zorg voor een behoorlijke, empatische behandeling van mondelinge en s
 
 4. UWV zendt een klacht die niet voor hem bestemd is en ook niet wordt doorgezonden binnen 3 werkdagen terug aan de indiener.
 
-#### Artikel 7. Onpartijdige klachtenbehandelaar
+##### Artikel 7. Onpartijdige klachtenbehandelaar
 
 De behandeling van de klacht geschiedt nooit door een medewerker die bij de gedraging waarop de klacht betrekking heeft, betrokken is geweest.
 
-#### Artikel 8. Leren van Klachten
+##### Artikel 8. Leren van Klachten
 
 UWV benut klachten als input voor het verbetermanagement.
 
-#### Artikel 9. Niet verplicht in behandeling nemen
+##### Artikel 9. Niet verplicht in behandeling nemen
 
 1. UWV is niet verplicht de klacht te behandelen indien zij betrekking heeft op een gedraging:
 
@@ -116,11 +141,11 @@ UWV benut klachten als input voor het verbetermanagement.
 
 3. Van het niet in behandeling nemen van de klacht wordt de klager zo spoedig mogelijk doch uiterlijk binnen twee weken na ontvangst van de klacht schriftelijk in kennis gesteld.
 
-#### Artikel 10. Toezendingsplicht beklaagde
+##### Artikel 10. Toezendingsplicht beklaagde
 
 Aan degene op wiens gedraging de klacht betrekking heeft, wordt een afschrift van de klacht alsmede van de daarbij meegezonden stukken toegezonden.
 
-#### Artikel 11. Hoorplicht
+##### Artikel 11. Hoorplicht
 
 1. UWV stelt de klager en degene op wiens gedraging de klacht betrekking heeft, in de gelegenheid te worden gehoord.
 
@@ -130,13 +155,13 @@ Aan degene op wiens gedraging de klacht betrekking heeft, wordt een afschrift va
 
 4. Aan de klager wordt een afschrift van het verslag toegezonden.
 
-#### Artikel 12. Afhandelingstermijn
+##### Artikel 12. Afhandelingstermijn
 
 1. UWV handelt de klacht af binnen zes weken na ontvangst.
 
 2. UWV kan de afhandeling voor ten hoogste vier weken verdagen. Van de verdaging wordt schriftelijk mededeling gedaan aan de klager en aan degene op wiens gedraging de klacht betrekking heeft.
 
-#### Artikel 13. Afhandeling
+##### Artikel 13. Afhandeling
 
 1. UWV stelt na ontvangst van een ontvankelijk bevonden klacht een deugdelijk onderzoek in naar de feiten van het probleem in de dienstverlening waarover geklaagd wordt.
 
@@ -148,19 +173,19 @@ Aan degene op wiens gedraging de klacht betrekking heeft, wordt een afschrift va
 
 ### Hoofdstuk 3. Overige bepalingen
 
-#### Artikel 14. Verantwoordingsinformatie
+##### Artikel 14. Verantwoordingsinformatie
 
 UWV draagt zorg voor registratie van de bij hem ingediende klachten. De geregistreerde klachten worden jaarlijks in het jaarverslag UWV gepubliceerd.
 
-#### Artikel 15. Intrekking
+##### Artikel 15. Intrekking
 
 Het [klachtenreglement UWV 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018746) wordt ingetrokken.
 
-#### Artikel 16. Inwerkingtreding
+##### Artikel 16. Inwerkingtreding
 
 Indien het bij Koninklijke boodschap van 24 juni 2008 ingediende voorstel van wet houdende Wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen en enkele andere wetten in verband met de evaluatie van deze wet, de Kaderwet zelfstandige bestuursorganen en deregulering (31514), nadat het tot wet is verheven, in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking.
 
-#### Artikel 17. Citeertitel
+##### Artikel 17. Citeertitel
 
 Dit besluit wordt aangehaald als: Klachtenreglement UWV 2009
 

@@ -1,20 +1,46 @@
 ---
-title: "Bekostigingsregeling Wuvo"
+title: "Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, nr. DMO-OHW-U-3065710, houdende regels omtrent de bekostiging van de uitvoering van de taken van de Pensioen- en Uitkeringsraad en de Sociale verzekeringsbank, genoemd inde Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen (Bekostigingsregeling Wuvo)"
 identifier: "BWBR0030188"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2024-01-06
-laatste_update: 2024-01-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030188"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-06"
+last_updated: "2024-01-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030188"
+soort: "ministeriele-regeling"
+stam_id: "11375253"
+version_id: "20204652"
+internal_id: "C28423801"
+label_id: "11348924"
+dtd_version: "2.0"
+original_entry_into_force: "2013-02-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030188/2024-01-06/0"
+intitule_bron: "Stcrt.2011-11431"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-06-22"
+intitule_published: "2011-06-30"
+intitule_in_force: "2011-06-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-4640"
+original_signed_date: "2013-02-12"
+original_published_date: "2013-02-25"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2013-4640"
+entry_into_force_date: "2013-02-12"
+jci_1_3: "jci1.3:c:BWBR0030188&z=2024-01-06&g=2024-01-06"
+jci_1_0: "1.0:c:BWBR0030188&g=2024-01-06"
+citeertitel_status: "officieel"
+short_title: "Bekostigingsregeling Wuvo"
+signed_date: "2013-02-12"
+entry_into_force: "2013-02-12"
 ---
-
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, nr. DMO-OHW-U-3065710, houdende regels omtrent de bekostiging van de uitvoering van de taken van de Pensioen- en Uitkeringsraad en de Sociale verzekeringsbank, genoemd inde Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen (Bekostigingsregeling Wuvo)
 
 Gelet op [artikel 9, tweede lid, van de Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=9) en de [artikelen 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=14), en [26 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -40,11 +66,11 @@ In deze regeling wordt verstaan onder:
 
 - k. **normproductie:** het aantal eenheden product dat wordt gehanteerd bij de vaststelling van het tarief.
 
-#### Artikel 2
+##### Artikel 2
 
 De Raad zendt de minister jaarlijks vóór 1 oktober een begroting voor het daaropvolgende jaar en een meerjarenraming voor de vier jaren daarna.
 
-#### Artikel 3
+##### Artikel 3
 
 In de begroting en de meerjarenraming van de Raad worden de volgende onderdelen onderscheiden:
 
@@ -64,13 +90,13 @@ In de begroting en de meerjarenraming van de Raad worden de volgende onderdelen 
 
 - 3. kosten loon herplaatsers.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De bijdrage in de kosten, bedoeld in [artikel 3, onderdeel a en onderdeel b, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=3&z=2024-01-06&g=2024-01-06), bestaat voor de onderscheiden kosten uit de werkelijk gemaakte kosten tot een door de minister jaarlijks te bepalen maximum.
 
 2. De bijdrage in de kosten, bedoeld in [artikel 3, onderdeel b, onder 1 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=3&z=2024-01-06&g=2024-01-06), bestaat uit de werkelijk gemaakte kosten.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De voorzitter van de Raad wordt naar rato bezoldigd overeenkomstig het maximum van salarisschaal 17 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren, uitgaande van een gemiddelde arbeidsduur van 8 uur per week.
 
@@ -90,13 +116,13 @@ In de begroting en de meerjarenraming van de Raad worden de volgende onderdelen 
 
 6. De leden van de Raad hebben recht op een vergoeding voor reiskosten overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De controle door de accountant, bedoeld in [artikel 35, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=35), van de jaarrekening van de Raad, geschiedt overeenkomstig een door de Minister vastgesteld protocol.
 
 2. De Raad en de accountant, bedoeld in het eerste lid, werken mee aan de door de Auditdienst Rijk in te stellen onderzoeken die noodzakelijk zijn voor de uitvoering van de taak van die dienst.
 
-#### Artikel 7
+##### Artikel 7
 
 De Sociale verzekeringsbank zendt de minister jaarlijks vóór 1 oktober een begroting voor het daaropvolgende jaar en een meerjarenraming voor de vier jaren daarna betreffende:
 
@@ -104,7 +130,7 @@ De Sociale verzekeringsbank zendt de minister jaarlijks vóór 1 oktober een beg
 
 - b. de kosten genoemd in [artikel 9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=9), verbijzonderd naar de specifiekewet waarop die kosten betrekking hebben en de AOR.
 
-#### Artikel 8
+##### Artikel 8
 
 In de begroting en de meerjarenraming van de Sociale verzekeringsbank genoemd in [artikel 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=7&z=2024-01-06&g=2024-01-06), worden de volgende onderdelen onderscheiden:
 
@@ -128,13 +154,13 @@ In de begroting en de meerjarenraming van de Sociale verzekeringsbank genoemd in
 
 - 8. De indirecte kosten voor personeel, huisvestingskosten, bureaukosten, diensten en diversen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De bijdrage in de kosten, genoemd in [artikel 8, onder b, onderdelen 4 en 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8&z=2024-01-06&g=2024-01-06), bestaat voor de onderscheiden kosten uit een door de minister jaarlijks vastgesteld bedrag.
 
 2. De bijdrage in de kosten, genoemd in [artikel 8, onder b, onderdelen 1, 2, 3, 5, 6 en 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8&z=2024-01-06&g=2024-01-06), bestaat voor de onderscheiden kosten uit de werkelijk gemaakte kosten.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De controle door de accountant, bedoeld in [artikel 35, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=35), van de jaarrekening van de Sociale verzekeringsbank betreffende de uitvoering van de taken, genoemd in [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=6), geschiedt overeenkomstig een door de Minister vastgesteld protocol.
 
@@ -142,11 +168,11 @@ In de begroting en de meerjarenraming van de Sociale verzekeringsbank genoemd in
 
 3. De Sociale verzekeringsbank en de in het eerste lid bedoelde accountant werken mee aan de door de Rijksauditdienst in te stellen onderzoeken betreffende de uitvoering van de taken, genoemd in [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=6), die noodzakelijk zijn voor de uitvoering van de taak van die dienst.
 
-#### Artikel 11
+##### Artikel 11
 
 De egalisatiereserve per 31 december van enig jaar mag niet meer bedragen dan 10% van de laatste vaststelling van de bijdragen bedoeld in [artikel 8e, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8e&z=2024-01-06&g=2024-01-06).
 
-#### Artikel 12
+##### Artikel 12
 
 De Sociale verzekeringsbank verschaft de minister periodiek de volgende informatie:
 
@@ -178,13 +204,13 @@ De Sociale verzekeringsbank verschaft de minister periodiek de volgende informat
 
 - g. de inhoud van nieuwe en gewijzigde beleidsregels voor beschikkingen van de Raad en de Sociale verzekeringsbank als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=4) en [6, onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=6).
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2011.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. Op basis van de begroting, genoemd in [artikel 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=7&z=2024-01-06&g=2024-01-06), stelt de minister ten behoeve van de kosten, bedoeld in [artikel 8, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8&z=2024-01-06&g=2024-01-06), een normbegroting vast. De minister kan kosten aanwijzen die niet onder de normbegroting vallen.
 
@@ -194,13 +220,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. De minister geeft bij de vaststelling van de tarieven aan welk deel aan de ontwikkeling van de lonen en welk deel aan de ontwikkeling van de prijzen wordt aangepast.
 
-#### Artikel 8b
+##### Artikel 8b
 
 1. Indien de begrote productie wezenlijk afwijkt van de normproductie kan de minister, na overleg met de Sociale verzekeringsbank, een tarief wijzigen.
 
 2. De Sociale verzekeringsbank kan een voorstel doen tot wijziging van een tarief.
 
-#### Artikel 8c
+##### Artikel 8c
 
 1. De bijdrage in de kosten, bedoeld in [artikel 8, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8&z=2024-01-06&g=2024-01-06), bestaat uit de som van de per product volgens de navolgende formule berekende bedragen:
 
@@ -214,11 +240,11 @@ In deze formule is:
 
 2. In afwijking van het eerste lid kan de minister, na overleg met de Sociale verzekeringsbank, voor een naar aard te specificeren aantal eenheden van de begrote productie van een product, welke zich gezien de daaraan verbonden werklast en kosten onderscheiden van de gemiddelde werklast en kosten op basis waarvan het tarief, genoemd in [artikel 8a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8a&z=2024-01-06&g=2024-01-06), is vastgesteld, de bijdrage in de kosten op een andere wijze vaststellen. In de formule, genoemd in het eerste lid, wordt daartoe Pb verlaagd met het aantal eenheden waarvoor de bijdrage op een andere wijze wordt vastgesteld.
 
-#### Artikel 8d
+##### Artikel 8d
 
 De bijdrage, bedoeld in [artikel 8c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2024-01-06&g=2024-01-06), kan in de loop van enig jaar worden aangepast indien de ontwikkeling van de lonen of prijzen daartoe aanleiding geven.
 
-#### Artikel 8e
+##### Artikel 8e
 
 1. De minister beslist na de indiening van de begroting, genoemd in [artikel 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=7&z=2024-01-06&g=2024-01-06), over de goedkeuring van deze begroting en doet de Sociale verzekeringsbank voor 1 december een vaststelling van de bijdragen bedoeld in de [artikelen 8c](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2024-01-06&g=2024-01-06) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2024-01-06&g=2024-01-06) toekomen.
 
@@ -230,7 +256,7 @@ De bijdrage, bedoeld in [artikel 8c, eerste lid](https://wetten.overheid.nl/jci1
 
 5. Met betrekking tot de bijdrage bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2024-01-06&g=2024-01-06), wordt in ieder geval het door de minister vastgestelde bedrag medegedeeld.
 
-#### Artikel 8f
+##### Artikel 8f
 
 1. Na ontvangst van de bescheiden, genoemd in [artikel 34, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), worden de bijdragen bedoeld in de [artikelen 8c](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2024-01-06&g=2024-01-06) en [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2024-01-06&g=2024-01-06), definitief vastgesteld.
 
@@ -248,11 +274,11 @@ In deze formule is:
 
 3. Voor zover de vaststelling van de bijdrage afhankelijk is van de werkelijk gemaakte kosten worden de kosten die in redelijkheid niet als noodzakelijk kunnen worden beschouwd bij de vaststelling van de bijdrage niet in aanmerking genomen.
 
-#### Artikel 9a
+##### Artikel 9a
 
 De minister kan op verzoek van de Sociale verzekeringsbank de [artikelen 8a tot en met 8f](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8a&z=2024-01-06&g=2024-01-06) en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2024-01-06&g=2024-01-06), buiten toepassing laten of daarvan afwijken voor zover strikte toepassing gelet op het belang dat deze artikelen beogen te beschermen zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling wordt aangehaald als: Bekostigingsregeling Wuvo.
 

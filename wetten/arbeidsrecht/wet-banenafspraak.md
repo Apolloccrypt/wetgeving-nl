@@ -1,14 +1,41 @@
 ---
-title: "Wet banenafspraak"
+title: "Wet van 23 april 2025, houdende vereenvoudiging van de banenafspraak en de quotumregeling voor mensen met een arbeidsbeperking (Wet banenafspraak)"
 identifier: "BWBR0051018"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051018"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051018"
+soort: "wet"
+stam_id: "17424723"
+version_id: "30722252"
+internal_id: "C44150991"
+label_id: "17327864"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051018/2026-01-01/0"
+intitule_bron: "Stb.2025-121"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-04-23"
+intitule_published: "2025-05-09"
+intitule_in_force: "2025-07-09"
+intitule_status: "goed"
+original_publication: "Stb.2025-121"
+original_signed_date: "2025-04-23"
+original_published_date: "2025-05-09"
+original_effect: "nieuwe-regeling"
+original_dossier: "36449"
+original_url_id: "stb-2025-121"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051018&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051018&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet banenafspraak"
+signed_date: "2025-04-23"
+entry_into_force: "2026-01-01"
 ---
-
-# Wet banenafspraak
+# Wet van 23 april 2025, houdende vereenvoudiging van de banenafspraak en de quotumregeling voor mensen met een arbeidsbeperking (Wet banenafspraak)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met 
 
 ### Hoofdstuk I. Bepalingen inzake de banenafspraak en quotumregeling voor arbeidsbeperkten
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder
 
@@ -44,7 +71,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder
 
 - –. **Wtl:** de [Wet tegemoetkomingen loondomein](https://wetten.overheid.nl/jci1.3:c:BWBR0037522).
 
-#### Artikel 2. Doelgroep banenafspraak
+##### Artikel 2. Doelgroep banenafspraak
 
 1. In deze wet en de daarop berustende bepalingen wordt onder een arbeidsbeperkte verstaan de persoon die is opgenomen in de registratie doelgroep banenafspraak, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051018&hoofdstuk=I&artikel=3&z=2026-01-01&g=2026-01-01), zijnde de persoon:
 
@@ -68,7 +95,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder
 
 4. Met betrekking tot de beoordeling door het UWV of een persoon de kenmerken heeft, bedoeld in het eerste lid, onderdeel a of f, en met betrekking tot de voorzieningen, bedoeld in het eerste lid, onderdeel f, worden bij of krachtens algemene maatregel van bestuur regels gesteld.
 
-#### Artikel 3. Registratie doelgroep banenafspraak
+##### Artikel 3. Registratie doelgroep banenafspraak
 
 1. Het UWV draagt zorg voor de inrichting en de adequate werking van de registratie van arbeidsbeperkten in de registratie doelgroep banenafspraak en is de verwerkingsverantwoordelijke in de zin van artikel 4, onderdeel 7, van de Algemene verordening gegevensbescherming met betrekking tot de verwerking van persoonsgegevens als bedoeld in die verordening, ten behoeve van deze registratie.
 
@@ -102,7 +129,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder
 
 - b. de verstrekking van gegevens aan het UWV door de werkgevers, bedoeld in het zevende lid, in verband met het verrichten van arbeid door arbeidsbeperkten als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051018&hoofdstuk=I&artikel=4&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 4. Monitoring banenafspraak
+##### Artikel 4. Monitoring banenafspraak
 
 1. Indien het aantal banen voor arbeidsbeperkten in een bepaald kalenderjaar in onvoldoende mate is toegenomen ten opzichte van het aantal van deze banen op 1 januari 2013, wordt dit bij regeling van Onze Minister vastgesteld.
 
@@ -118,13 +145,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder
 
 4. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties rapporteert jaarlijks na afloop van het kalenderjaar hoeveel extra banen voor arbeidsbeperkten zijn gerealiseerd door overheidswerkgevers als bedoeld in de Wet financiering sociale verzekeringen ten opzichte van het daaraan voorafgaande kalenderjaar.
 
-#### Artikel 5. Activering van de quotumregeling
+##### Artikel 5. Activering van de quotumregeling
 
 1. De quotumregeling wordt niet uitgevoerd dan nadat bij regeling van Onze Minister, in overeenstemming met het gevoelen van de ministerraad, tot activering is besloten indien is gebleken dat het aantal banen voor arbeidsbeperkten in een bepaald kalenderjaar in onvoldoende mate is toegenomen ten opzichte van het aantal van deze banen op 1 januari 2013.
 
 2. Een krachtens het eerste lid vastgestelde ministeriële regeling wordt gelijktijdig aan de beide kamers der Staten-Generaal overgelegd. De ministeriële regeling treedt niet eerder in werking dan vier weken na de overlegging.
 
-#### Artikel 6. Inclusiviteitsopslag Aof-premie
+##### Artikel 6. Inclusiviteitsopslag Aof-premie
 
 1. De premie, bedoeld in [artikel 36, eerste lid, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=36), wordt na een activering als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051018&hoofdstuk=I&artikel=5&z=2026-01-01&g=2026-01-01), verhoogd met een inclusiviteitsopslag. De inclusiviteitsopslag is verschuldigd met ingang van 1 januari van het tweede kalenderjaar na het kalenderjaar waarin tot activering is besloten.
 
@@ -150,49 +177,49 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder
 
 ### Hoofdstuk II. Wijziging van andere wetten
 
-#### Artikel 7. Wijziging van de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745)
+##### Artikel 7. Wijziging van de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745)
 
 Wijzigt de Wet financiering sociale verzekeringen.
 
-#### Artikel 8. Wijziging van de [Wet tegemoetkomingen loondomein](https://wetten.overheid.nl/jci1.3:c:BWBR0037522)
+##### Artikel 8. Wijziging van de [Wet tegemoetkomingen loondomein](https://wetten.overheid.nl/jci1.3:c:BWBR0037522)
 
 Wijzigt de Wet tegemoetkomingen loondomein.
 
-#### Artikel 9. Wijziging van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
+##### Artikel 9. Wijziging van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
 
 Wijzigt de Ziektewet.
 
-#### Artikel 10. Wijziging van de [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616)
+##### Artikel 10. Wijziging van de [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616)
 
 Wijzigt de Wet allocatie arbeidskrachten door intermediairs.
 
 ### Hoofdstuk III. Slotbepalingen
 
-#### Artikel 11. Evaluatiebepaling
+##### Artikel 11. Evaluatiebepaling
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051018&hoofdstuk=I&artikel=2&z=2026-01-01&g=2026-01-01) van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 12. Overgangsrecht
+##### Artikel 12. Overgangsrecht
 
 1. Deze wet is niet van toepassing met betrekking tot kalenderjaren, gelegen voor de datum van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051018&hoofdstuk=I&artikel=2&z=2026-01-01&g=2026-01-01) van deze wet.
 
 2. Over de in het eerste lid bedoelde kalenderjaren blijven de bepalingen bij of krachtens [hoofdstuk 3, afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&afdeling=4), en de [artikelen 122n](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=122n) en [122na van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=122na) inzake het quotum van arbeidsbeperkten van toepassing, zoals deze luidden op de dag voorafgaand aan de in het eerste lid bedoelde datum van inwerkingtreding.
 
-#### Artikel 12a. Toevoeging groep aan doelgroep banenafspraak
+##### Artikel 12a. Toevoeging groep aan doelgroep banenafspraak
 
 Wijzigt deze wet.
 
-#### Artikel 12b. Horizonbepaling
+##### Artikel 12b. Horizonbepaling
 
 Wijzigt deze wet.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 2. De voordracht voor een koninklijk besluit dat het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051018&hoofdstuk=I&artikel=2&z=2026-01-01&g=2026-01-01) vaststelt wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze wet wordt aangehaald als: Wet banenafspraak.
 

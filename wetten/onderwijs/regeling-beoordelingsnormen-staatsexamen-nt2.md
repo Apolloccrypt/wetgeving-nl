@@ -1,20 +1,46 @@
 ---
-title: "Regeling beoordelingsnormen Staatsexamen Nt2"
+title: "Regeling van het College voor toetsen en examens van 29 november 2021, nummer CvTE-21.01023, houdende vaststelling van de beoordelingsnormen voor het Staatsexamen Nederlands als tweede taal (Regeling beoordelingsnormen Staatsexamen Nt2)"
 identifier: "BWBR0046169"
-categorie: "Onderwijs"
-publicatiedatum: 2022-12-29
-laatste_update: 2022-12-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046169"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-12-29"
+last_updated: "2022-12-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046169"
+soort: "zbo"
+stam_id: "16224983"
+version_id: "28331282"
+internal_id: "C39938761"
+label_id: "16152624"
+dtd_version: "2.0"
+original_entry_into_force: "2022-01-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046169/2022-12-29/0"
+intitule_bron: "Stcrt.2022-408"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-11-29"
+intitule_published: "2022-01-11"
+intitule_in_force: "2022-01-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-408"
+original_signed_date: "2021-11-29"
+original_published_date: "2022-01-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-408"
+entry_into_force_date: "2022-01-12"
+jci_1_3: "jci1.3:c:BWBR0046169&z=2022-12-29&g=2022-12-29"
+jci_1_0: "1.0:c:BWBR0046169&g=2022-12-29"
+citeertitel_status: "officieel"
+short_title: "Regeling beoordelingsnormen Staatsexamen Nt2"
+signed_date: "2021-11-29"
+entry_into_force: "2022-01-12"
 ---
-
 # Regeling van het College voor toetsen en examens van 29 november 2021, nummer CvTE-21.01023, houdende vaststelling van de beoordelingsnormen voor het Staatsexamen Nederlands als tweede taal (Regeling beoordelingsnormen Staatsexamen Nt2)
 
 Gelet op [artikel 2, vijfde lid, onderdeel c Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -22,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - **voorzitter:** de voorzitter van het College voor toetsen en examens;
 
-#### Artikel 2. Beoordelingsnormen
+##### Artikel 2. Beoordelingsnormen
 
 1. De beoordelingsnormen voor het examen Nederlands als tweede taal worden weergegeven in een voorschrift voor de beoordeling bij ieder examenonderdeel. Dit voorschrift bestaat uit algemene aanwijzingen, op grond van deze regeling en een beoordelingsmodel bij ieder examenonderdeel.
 
@@ -32,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 4. Voor de onderdelen Lezen en Luisteren wordt het examen beoordeeld aan de hand van het beoordelingsmodel dat als sleutel opgenomen is in het digitale systeem dat automatisch het examen beoordeelt.
 
-#### Artikel 3. Algemene aanwijzingen
+##### Artikel 3. Algemene aanwijzingen
 
 1. De algemene aanwijzingen voor de beoordelaar betreffende de beoordeling van het onderdeel Schrijven zijn voor de Programma’s I en II opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&bijlage=1&z=2022-12-29&g=2022-12-29).
 
@@ -42,35 +68,35 @@ In deze regeling wordt verstaan onder:
 
 4. De algemene aanwijzingen betreffende de beoordeling van het onderdeel Luisteren voor de Programma’s I en II zijn opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&bijlage=4&z=2022-12-29&g=2022-12-29).
 
-#### Artikel 4. Beoordelingsmodel
+##### Artikel 4. Beoordelingsmodel
 
 Het beoordelingsmodel bij ieder examenonderdeel wordt door het College voor toetsen en examens vastgesteld zoals vermeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&bijlage=5&z=2022-12-29&g=2022-12-29).
 
-#### Artikel 5. Afwijking
+##### Artikel 5. Afwijking
 
 Het College voor toetsen en examens of de voorzitter kan op voorstel van de Commissie Staatsexamen Nt2 beslissen dat voor een of meer opdrachten aan alle kandidaten het maximale aantal scorepunten of ten minste een aantal kleiner dan het maximum aantal scorepunten wordt toegekend.
 
-#### Artikel 6. Aanvullende regels
+##### Artikel 6. Aanvullende regels
 
 Het College voor toetsen en examens of de voorzitter kan op voorstel van de Commissie Staatsexamen Nt2 beslissen, dat in het voorschrift voor de beoordeling bij een examen aanvullende regels worden opgenomen, waaronder regels voor aftrek van scorepunten.
 
-#### Artikel 7. Aanpassing
+##### Artikel 7. Aanpassing
 
 De voorzitter van het College voor toetsen en examens is bevoegd de vaststellingen als opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&bijlage=5&z=2022-12-29&g=2022-12-29) op onderdelen aan te passen.
 
-#### Artikel 8. Intrekking
+##### Artikel 8. Intrekking
 
 De [Regeling beoordelingsnormen Staatsexamens Nt2 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042052) wordt ingetrokken.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van het de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 10. Bekendmaking
+##### Artikel 10. Bekendmaking
 
 De beoordelingsmodellen per examenonderdeel bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&artikel=4&z=2022-12-29&g=2022-12-29) worden bekendgemaakt op de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&bijlage=5&z=2022-12-29&g=2022-12-29) onder 1 opgenomen wijze.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als de Regeling beoordelingsnormen Staatsexamen Nt2.
 

@@ -1,24 +1,49 @@
 ---
 title: "Besluit vaststelling selectielijst Ministerie van Justitie en Veiligheid en rechtsvoorgangers over de periode vanaf 5 mei 1945"
 identifier: "BWBR0045040"
-categorie: "Strafrecht"
-publicatiedatum: 2021-04-14
-laatste_update: 2021-04-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045040"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2021-04-14"
+last_updated: "2021-04-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045040"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "15926243"
+version_id: "27694742"
+internal_id: "C39072001"
+label_id: "15860774"
+dtd_version: "2.0"
+original_entry_into_force: "2021-04-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045040/2021-04-14/0"
+intitule_bron: "Stcrt.2021-17848"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-03-10"
+intitule_published: "2021-04-12"
+intitule_in_force: "2021-04-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-17848"
+original_signed_date: "2021-03-10"
+original_published_date: "2021-04-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-17848"
+entry_into_force_date: "2021-04-14"
+jci_1_3: "jci1.3:c:BWBR0045040&z=2021-04-14&g=2021-04-14"
+jci_1_0: "1.0:c:BWBR0045040&g=2021-04-14"
+citeertitel_status: "redactioneel"
+signed_date: "2021-03-10"
+entry_into_force: "2021-04-14"
 ---
-
 # Besluit vaststelling selectielijst Ministerie van Justitie en Veiligheid en rechtsvoorgangers over de periode vanaf 5 mei 1945
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
 
 BESLUITEN:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde selectielijst van het Ministerie van Justitie en Veiligheid en rechtsvoorgangers over de periode vanaf 5 mei 1945 en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 De selectielijsten
 
@@ -206,7 +231,7 @@ De selectielijsten
 
 worden ingetrokken voor het Ministerie van Justitie en Veiligheid.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

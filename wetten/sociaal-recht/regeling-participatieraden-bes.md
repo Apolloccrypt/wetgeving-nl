@@ -1,20 +1,46 @@
 ---
-title: "Regeling participatieraden BES"
+title: "Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 9 maart 2021, houdende nadere regels inzake participatieraden (Regeling participatieraden BES)"
 identifier: "BWBR0045334"
-categorie: "Sociaal recht"
-publicatiedatum: 2021-07-06
-laatste_update: 2021-07-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045334"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2021-07-06"
+last_updated: "2021-07-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045334"
+soort: "ministeriele-regeling-BES"
+stam_id: "16010133"
+version_id: "27867392"
+internal_id: "C39300771"
+label_id: "15943724"
+dtd_version: "2.0"
+original_entry_into_force: "2021-07-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045334/2021-07-06/0"
+intitule_bron: "Stcrt.2021-34066"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-03-09"
+intitule_published: "2021-07-05"
+intitule_in_force: "2021-07-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-34066"
+original_signed_date: "2021-03-09"
+original_published_date: "2021-07-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-34066"
+entry_into_force_date: "2021-07-06"
+jci_1_3: "jci1.3:c:BWBR0045334&z=2021-07-06&g=2021-07-06"
+jci_1_0: "1.0:c:BWBR0045334&g=2021-07-06"
+citeertitel_status: "officieel"
+short_title: "Regeling participatieraden BES"
+signed_date: "2021-03-09"
+entry_into_force: "2021-07-06"
 ---
-
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 9 maart 2021, houdende nadere regels inzake participatieraden (Regeling participatieraden BES)
 
 Gelet op [artikel 72q van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=72q);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -42,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 - –. zij die door het diensthoofd als zodanig zijn aangeduid.
 
-#### Artikel 2. Grootte en samenstelling participatieraden
+##### Artikel 2. Grootte en samenstelling participatieraden
 
 1. In het instellingsbesluit wordt met inachtneming van het tweede lid het aantal leden van de participatieraad vastgesteld. Dit aantal kan, onverminderd het derde lid en met inachtneming van het tweede lid, in het reglement worden gewijzigd.
 
@@ -62,7 +88,7 @@ In deze regeling wordt verstaan onder:
 
 6. Een participatieraad kiest uit haar leden een voorzitter, een of meer plaatsvervangende voorzitters en een secretaris.
 
-#### Artikel 3. Kiesrecht
+##### Artikel 3. Kiesrecht
 
 1. Kiesgerechtigd voor de leden van de participatieraad zijn de bij de desbetreffende organisatie-eenheid werkzame personen. Personen die in meerdere organisatie-eenheden werkzaam zijn, zijn alleen kiesgerechtigd voor de participatieraad voor de organisatie-eenheid van waaruit hun werkzaamheden worden geleid.
 
@@ -74,7 +100,7 @@ In deze regeling wordt verstaan onder:
 
 5. Aftredende leden van een participatieraad of leden waarvan de zittingstermijn eindigt, zijn terstond herkiesbaar.
 
-#### Artikel 4. Verkiezingen
+##### Artikel 4. Verkiezingen
 
 1. Het diensthoofd bepaalt namens de minister op voordracht van de participatieraad de datum waarop de verkiezingen voor die raad zullen plaatsvinden.
 
@@ -86,7 +112,7 @@ In deze regeling wordt verstaan onder:
 
 5. Indien er minder dan drie, of wanneer het een organisatie-eenheid betreft als bedoeld in [artikel 2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=2&z=2021-07-06&g=2021-07-06), minder dan vijf kandidaten zijn, worden voor de resterende zetels nieuwe verkiezingen gehouden.
 
-#### Artikel 5. Kandidaatstelling
+##### Artikel 5. Kandidaatstelling
 
 1. Kandidaatstelling voor het lidmaatschap van de participatieraad kan plaatsvinden door aanmelding als kandidaat door de verkiesbare persoon zelf of door indiening van een kandidatenlijst.
 
@@ -96,11 +122,11 @@ In deze regeling wordt verstaan onder:
 
 - b. iedere in de organisatie-eenheid werkzame persoon of groep werkzame personen, niet lid zijnde van een vakorganisatie als bedoeld onder a.
 
-#### Artikel 6. Uitslag verkiezingen
+##### Artikel 6. Uitslag verkiezingen
 
 Een participatieraad draagt er zorg voor dat de uitslag van de verkiezingen, onder vermelding van de namen en functies van de gekozenen, bekend wordt gemaakt aan alle bij de organisatie-eenheid werkzame personen en aan degenen die kandidatenlijsten hebben ingediend.
 
-#### Artikel 7. Rooster van aftreden en einde lidmaatschap
+##### Artikel 7. Rooster van aftreden en einde lidmaatschap
 
 1. De leden van een participatieraad treden om de twee jaar gelijktijdig af.
 
@@ -110,7 +136,7 @@ Een participatieraad draagt er zorg voor dat de uitslag van de verkiezingen, ond
 
 4. De leden van de participatieraad kunnen te allen tijde hun lidmaatschap beëindigen. Zij geven daarvan schriftelijk kennis aan het diensthoofd en, als dit een andere is, aan de voorzitter van de participatieraad.
 
-#### Artikel 8. Tussentijdse vacatures
+##### Artikel 8. Tussentijdse vacatures
 
 1. Een zetel die vrijkomt tijdens de zittingsduur van de participatieraad, wordt voor de resterende periode waarvoor die raad is ingesteld, vervuld door de eerstvolgende niet gekozen kandidaat volgens de uitslag van de laatst gehouden verkiezingen.
 
@@ -118,7 +144,7 @@ Een participatieraad draagt er zorg voor dat de uitslag van de verkiezingen, ond
 
 3. Een zetel die vrijkomt als gevolg van verhindering gedurende meer dan twee maanden, wordt voor de duur van de periode van verhindering vervuld. De participatieraad regelt de wijze waarop een zetel bij langdurige verhindering zal worden vervuld.
 
-#### Artikel 9. Uitsluiting leden
+##### Artikel 9. Uitsluiting leden
 
 1. Op verzoek van het diensthoofd, kan het college van advies en geschillen een lid van de participatieraad voor een bepaalde periode uitsluiten van deelneming aan het overleg op grond van het feit dat het betrokken lid het overleg ernstig belemmert.
 
@@ -130,7 +156,7 @@ Een participatieraad draagt er zorg voor dat de uitslag van de verkiezingen, ond
 
 5. De uitsluiting geschiedt niet dan nadat het bestuur van de betrokken vakorganisatie of de groep werkzame personen, bedoeld in [artikel 5, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=5&z=2021-07-06&g=2021-07-06), en de overige leden van de participatieraad over het voornemen daartoe zijn gehoord.
 
-#### Artikel 10. Reglement
+##### Artikel 10. Reglement
 
 1. Een participatieraad stelt een reglement op waarin de onderwerpen worden geregeld die bij deze regeling aan hem zijn opgedragen of overgelaten.
 
@@ -142,7 +168,7 @@ Een participatieraad draagt er zorg voor dat de uitslag van de verkiezingen, ond
 
 5. Het reglement bevat geen bepalingen die in strijd zijn met wettelijke voorschriften of die een goede toepassing van deze regeling in de weg staan.
 
-#### Artikel 11. Werkgroepen
+##### Artikel 11. Werkgroepen
 
 1. Een participatieraad kan werkgroepen instellen die hij voor de vervulling van zijn taak redelijkerwijs nodig acht.
 
@@ -154,19 +180,19 @@ Een participatieraad draagt er zorg voor dat de uitslag van de verkiezingen, ond
 
 5. De participatieraad kan bij het besluit tot instelling van een werkgroep, zijn bevoegdheid met betrekking tot het voeren van overleg geheel of gedeeltelijk aan die werkgroep overdragen.
 
-#### Artikel 12. Deskundigen
+##### Artikel 12. Deskundigen
 
 1. De participatieraad of een werkgroep kan een of meerdere deskundigen uitnodigen tot het bijwonen van een vergadering van die raad met het oog op de behandeling van een bepaald onderwerp. De leden van de participatieraad kunnen in die vergadering aan de deskundigen inlichtingen en advies vragen. Een deskundige kan eveneens worden gevraagd een schriftelijk advies uit te brengen.
 
 2. Het diensthoofd en de participatieraad of een werkgroep kunnen een of meerdere deskundigen uitnodigen tot het bijwonen van een overlegvergadering met het oog op de behandeling van een bepaald onderwerp.
 
-#### Artikel 13. Geheimhouding
+##### Artikel 13. Geheimhouding
 
 1. De leden van de participatieraad en de leden van een werkgroep als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=11&z=2021-07-06&g=2021-07-06) zijn gehouden tot geheimhouding van alle vertrouwelijke informatie die zij in die hoedanigheid vernemen, en van alle aangelegenheden ten aanzien waarvan het diensthoofd dan wel de participatieraad geheimhouding heeft opgelegd of waarvan zij het vertrouwelijk karakter moeten begrijpen. Het voornemen om geheimhouding op te leggen alsmede de reikwijdte van de geheimhouding wordt voor de behandeling van de desbetreffende aangelegenheid medegedeeld.
 
 2. Alvorens met een deskundige als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=12&z=2021-07-06&g=2021-07-06) vertrouwelijke informatie wordt gedeeld of voor aanvang van de overlegvergadering, ondertekent de deskundige een verklaring van geheimhouding, op grond waarvan het eerste lid van overeenkomstige toepassing op hem is.
 
-#### Artikel 14. Faciliteiten
+##### Artikel 14. Faciliteiten
 
 1. De leden van de participatieraad of een werkgroep worden door het diensthoofd in de gelegenheid gesteld gebruik te maken van de binnen de organisatie-eenheid aanwezige voorzieningen die zij voor de uitoefening van hun taak in redelijkheid nodig hebben.
 
@@ -176,13 +202,13 @@ Een participatieraad draagt er zorg voor dat de uitslag van de verkiezingen, ond
 
 4. Reis- en verblijfkosten in verband met scholing of vorming als bedoeld in het derde lid en voor het deelnemen aan vergaderingen van de participatieraad worden vergoed met overeenkomstige toepassing van de Reisregeling ambtenaren BES.
 
-#### Artikel 15. Kosten
+##### Artikel 15. Kosten
 
 1. Tenzij toepassing is gegeven aan het tweede lid en onverminderd de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=14&z=2021-07-06&g=2021-07-06) en [22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=22&z=2021-07-06&g=2021-07-06), komen de redelijkerwijs noodzakelijke kosten die verbonden zijn aan de vervulling van de taak van de participatieraad ten laste van de desbetreffende organisatie-eenheid. Onder de noodzakelijke kosten zijn mede begrepen de kosten voor het toepassen van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=12&z=2021-07-06&g=2021-07-06) en voor geschillenbemiddeling, mits het diensthoofd hiermee instemt en vooraf van de te maken kosten in kennis is gesteld.
 
 2. Een diensthoofd kan in overeenstemming met de participatieraad in verband met de kosten die die raad maakt, voor zover deze kosten geen betrekking hebben op de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=14&z=2021-07-06&g=2021-07-06) of de werkzaamheden van het college van advies en geschillen, een vast jaarbudget vaststellen dat die raad naar eigen inzicht kan besteden. Kosten waardoor het vaste bedrag wordt overschreden, komen slechts ten laste van de organisatie-eenheid voor zover het diensthoofd daarmee vooraf heeft ingestemd.
 
-#### Artikel 16. Overlegvergadering
+##### Artikel 16. Overlegvergadering
 
 1. Het overleg wordt namens de minister gevoerd door het diensthoofd in een overlegvergadering.
 
@@ -212,13 +238,13 @@ Een participatieraad draagt er zorg voor dat de uitslag van de verkiezingen, ond
 
 7. Voor zover in de overlegvergadering verschillende standpunten zijn ingenomen, blijkt dit duidelijk uit de verslaglegging.
 
-#### Artikel 17. Informatieverstrekking
+##### Artikel 17. Informatieverstrekking
 
 1. Het diensthoofd verstrekt aan de participatieraad ten minste twee maal per jaar schriftelijk algemene gegevens over het functioneren van de organisatie-eenheid in het verstreken tijdvak en het verwachte functioneren in het komende tijdvak. Het diensthoofd doet in dit kader mededeling over maatregelen die in voorbereiding zijn met betrekking tot de uitvoering van de bedrijfsvoering. Daarbij worden afspraken gemaakt over het tijdstip waarop en op welke wijze de participatieraad bij de besluitvorming over die voorgenomen maatregelen wordt betrokken.
 
 2. Het diensthoofd verstrekt bij het begin van de zittingsperiode van de participatieraad schriftelijk algemene gegevens over de organisatie en de leiding van de organisatie-eenheid, alsmede over de wijze van functioneren van de organisatie-eenheid.
 
-#### Artikel 18. Advies
+##### Artikel 18. Advies
 
 1. Het diensthoofd vraagt aan de participatieraad advies als bedoeld in [artikel 72n, eerste lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=72n) op een zodanig tijdstip, dat het advies van wezenlijke invloed kan zijn op de voorgenomen maatregel. Daarbij worden de beweegredenen voor de maatregel en de te verwachten gevolgen aangegeven.
 
@@ -230,13 +256,13 @@ Een participatieraad draagt er zorg voor dat de uitslag van de verkiezingen, ond
 
 5. Binnen vier weken nadat het diensthoofd heeft meegedeeld dat hij zich niet kan verenigen met het advies van de participatieraad, vindt hernieuwd overleg plaats met de participatieraad, tenzij die raad in die periode te kennen geeft alsnog in te stemmen met de maatregel.
 
-#### Artikel 19. Initiatiefvoorstellen
+##### Artikel 19. Initiatiefvoorstellen
 
 1. De participatieraad kan het diensthoofd schriftelijk voorstellen doen ten aanzien van de onderwerpen, genoemd in [artikel 72n, eerste lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=72n), voor zover het diensthoofd bevoegd is daarover maatregelen te treffen.
 
 2. Het diensthoofd beslist over een voorstel als bedoeld in het eerste lid nadat daarover ten minste eenmaal overleg is gevoerd in een overlegvergadering. Na het overleg deelt het diensthoofd zo spoedig mogelijk schriftelijk en gemotiveerd aan de participatieraad mee in hoeverre hij overeenkomstig het voorstel zal beslissen.
 
-#### Artikel 20. Overige bepalingen
+##### Artikel 20. Overige bepalingen
 
 1. De participatieraad bevordert zo veel mogelijk het werkoverleg bij de organisatie-eenheid.
 
@@ -244,7 +270,7 @@ Een participatieraad draagt er zorg voor dat de uitslag van de verkiezingen, ond
 
 3. De participatieraad waakt tegen elke vorm van ongewenst gedrag bij de organisatie-eenheid en bevordert de gelijke behandeling van mannen en vrouwen bij de organisatie-eenheid.
 
-#### Artikel 21. Centrale participatieraad
+##### Artikel 21. Centrale participatieraad
 
 1. De centrale participatieraad stelt het aantal leden vast:
 
@@ -266,7 +292,7 @@ Een participatieraad draagt er zorg voor dat de uitslag van de verkiezingen, ond
 
 8. De noodzakelijke kosten die verbonden zijn aan de vervulling van de taak van de centrale participatieraad komen ten laste van de Rijksdienst Caribisch Nederland, daaronder begrepen de kosten voor de van overeenkomstige toepassing van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=12&z=2021-07-06&g=2021-07-06) en [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=14&z=2021-07-06&g=2021-07-06).
 
-#### Artikel 22. College van advies en geschillen
+##### Artikel 22. College van advies en geschillen
 
 1. In het overleg, bedoeld in [artikel 2.2 van het Besluit overlegstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&artikel=2.2), wordt jaarlijks een lijst vastgesteld van drie adviseurs en drie plaatsvervangers die tezamen een college van advies en geschillen vormen. De voorzitter van het overleg, bedoeld in de vorige volzin, bepaalt wie van de drie adviseurs de voorzitter is van het college van advies en geschillen.
 
@@ -274,7 +300,7 @@ Een participatieraad draagt er zorg voor dat de uitslag van de verkiezingen, ond
 
 3. De kosten voor de werkzaamheden van het college van advies en geschillen komen voor rekening van de Rijksdienst Caribisch Nederland, indien de directeur van de Rijksdienst Caribisch Nederland daarmee vooraf heeft ingestemd.
 
-#### Artikel 23. Competenties college van advies en geschillen
+##### Artikel 23. Competenties college van advies en geschillen
 
 Onverminderd de bevoegdheid, bedoeld in [artikel 9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=9&z=2021-07-06&g=2021-07-06), adviseert het college van advies en geschillen inzake aan hem voorgelegde geschillen over:
 
@@ -292,7 +318,7 @@ Onverminderd de bevoegdheid, bedoeld in [artikel 9, eerste en tweede lid](https:
 
 - g. de toepassing van [artikel 21, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=21&z=2021-07-06&g=2021-07-06).
 
-#### Artikel 24. Aanhangig maken geschil
+##### Artikel 24. Aanhangig maken geschil
 
 1. Geschillen als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=23&z=2021-07-06&g=2021-07-06) kunnen rechtstreeks en met vermelding van de verschillende standpunten bij het college van advies en geschillen aanhangig worden gemaakt door zowel het diensthoofd als de participatieraad.
 
@@ -300,7 +326,7 @@ Onverminderd de bevoegdheid, bedoeld in [artikel 9, eerste en tweede lid](https:
 
 3. Indien er sprake is van een spoedeisend belang, wordt dit bij de aanhangig making van het geschil vermeld.
 
-#### Artikel 25. Procedure aanhangige geschillen
+##### Artikel 25. Procedure aanhangige geschillen
 
 1. Wanneer een geschil bij hem aanhangig is gemaakt, hoort het college van advies en geschillen zo spoedig mogelijk alle bij het geschil betrokken partijen en tracht zo mogelijk een minnelijke schikking tussen hen tot stand te brengen.
 
@@ -314,7 +340,7 @@ Onverminderd de bevoegdheid, bedoeld in [artikel 9, eerste en tweede lid](https:
 
 6. Het diensthoofd neemt binnen vier weken nadat het advies van het college van advies en geschillen is ontvangen een beslissing.
 
-#### Artikel 26. Spoedprocedure bij geschillen
+##### Artikel 26. Spoedprocedure bij geschillen
 
 1. Indien bij de aanhangig making van een geschil bij het college van advies en geschillen is vermeld dat er sprake is van een spoedeisend belang, kan de voorzitter van het college besluiten het geschil in afwijking van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=25&z=2021-07-06&g=2021-07-06) in een spoedprocedure als bedoeld in het tweede lid te behandelen.
 
@@ -324,11 +350,11 @@ Onverminderd de bevoegdheid, bedoeld in [artikel 9, eerste en tweede lid](https:
 
 4. Indien de participatieraad na de voorlopige beslissing behoefte heeft aan verdere behandeling van het geschil, dan informeert hij daarover binnen twee weken het diensthoofd. Het diensthoofd maakt in dat geval het geschil en alle daarop betrekking hebbende stukken opnieuw aanhangig bij het college van advies en geschillen.
 
-#### Artikel 27. Inwerkingtreding
+##### Artikel 27. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2021.
 
-#### Artikel 28. Citeertitel
+##### Artikel 28. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling participatieraden BES.
 

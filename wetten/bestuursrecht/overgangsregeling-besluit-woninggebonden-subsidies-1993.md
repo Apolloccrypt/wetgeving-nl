@@ -1,26 +1,50 @@
 ---
 title: "Overgangsregeling Besluit woninggebonden subsidies 1993"
 identifier: "BWBR0005690"
-categorie: "Bestuursrecht"
-publicatiedatum: 1995-07-26
-laatste_update: 1995-07-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005690"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1995-07-26"
+last_updated: "1995-07-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005690"
+soort: "ministeriele-regeling"
+stam_id: "4443983"
+version_id: "6240322"
+internal_id: "C6444531"
+label_id: "4422404"
+dtd_version: "2.0"
+original_entry_into_force: "1992-10-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005690/1995-07-26/0"
+intitule_bron: "Stcrt.1992-203"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-10-14"
+intitule_published: "1992-10-20"
+intitule_in_force: "1992-10-20"
+intitule_status: "goed"
+original_publication: "Stcrt.1992-203"
+original_signed_date: "1992-10-14"
+original_published_date: "1992-10-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1992-10-22"
+jci_1_3: "jci1.3:c:BWBR0005690&z=1995-07-26&g=1995-07-26"
+jci_1_0: "1.0:c:BWBR0005690&g=1995-07-26"
+citeertitel_status: "officieel"
+signed_date: "1992-10-14"
+entry_into_force: "1992-10-22"
 ---
-
 # Overgangsregeling Besluit woninggebonden subsidies 1993
 
 Gelet op de artikelen 12, onderdeel h, onder 2°, en 52 van het Besluit woninggebonden subsidies (Stb. 1991, 440),
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De Regeling nadere voorschriften accountantsverklaring woninggebonden subsidies (Stcrt. 1991, 187) wordt met ingang van 1 januari 1993 ingetrokken, behoudens het bepaalde in het tweede lid.
 
 2. De in het eerste lid genoemde regeling blijft van toepassing op verklaringen als bedoeld in artikel 12, onderdeel h, onder 2°, van het Besluit woninggebonden subsidies, betrekking hebbend op budgetten in de zin van dat besluit toegekend voor het jaar 1992.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Regeling geldelijke steun standplaatsen voor woonwagens 1992 (Stcrt. 1991, 187) wordt met ingang van 1 januari 1993 ingetrokken, behoudens het bepaalde in het tweede tot en met het zesde lid.
 
@@ -34,7 +58,7 @@ Besluit:
 
 6. Op de aanleg en exploitatie van standplaatsen, waarvoor vóór 1 januari 1989 jaarlijkse bijdragen zijn verstrekt op voet van de Regeling inrichting en financiering standplaatsen voor woonwagens (Stcrt. 1987, 253), blijft die regeling van toepassing, zoals zij op het tijdstip van het besluit tot verstrekking van die jaarlijkse bijdragen luidde.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Regeling geldelijke steun standplaatsen buiten een openbaar centrum voor woonwagens 1992 (Stcrt. 1991, 187) wordt met ingang van 1 januari 1993 ingetrokken, behoudens het bepaalde in het tweede tot en met het zesde lid.
 
@@ -48,7 +72,7 @@ Besluit:
 
 6. Op de aanleg en exploitatie van standplaatsen, waarvoor geldelijke steun is verleend op voet van de Tijdelijke rijksbijdrageregeling standplaatsen buiten een openbaar centrum voor woonwagens (Stcrt. 1986, 249), blijft die regeling van toepassing.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Regeling geldelijke steun huurwoonwagens (Stcrt. 1989, 211) wordt met ingang van 1 januari 1993 ingetrokken, behoudens het bepaalde in het tweede tot en met het zesde lid.
 
@@ -72,7 +96,7 @@ Besluit:
 
 9. De geldelijke steun voor een woonwagen als bedoeld in het tweede lid of de aanhef van het vijfde lid is het bedrag aan geldelijke steun als berekend volgens de in het eerste of vijfde lid, onderdeel a of b, genoemde regeling onder toepassing van het zevende en achtste lid van deze regeling, vermenigvuldigd met een factor die gelijk is aan 1 + (x/100), in welke formule de factor x gelijk is aan het percentage, genoemd in [artikel 9, eerste lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=9).
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Regeling geldelijke steun eigen woonwagens (Stcrt. 1989, 211) wordt met ingang van 1 januari 1993 ingetrokken, behoudens het bepaalde in het tweede tot en met het zevende lid.
 
@@ -94,10 +118,10 @@ Besluit:
 
 7. De in het vijfde lid, onderdeel c, genoemde regeling blijft van toepassing op na 1 juli 1987 door het gemeentebestuur ingediende aanvragen om een jaarlijkse bijdrage ten behoeve van het in eigendom verkrijgen van een woonwagen door latere eigenaren, voor het verkrijgen in eigendom waarvan de minister reeds eerder een jaarlijkse bijdrage heeft verstrekt op voet van een van de in het vijfde lid, onderdeel a en b, genoemde regelingen.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking met ingang van de tweede dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling kan worden aangehaald als: Overgangsregeling Besluit woninggebonden subsidies 1993.

@@ -1,13 +1,39 @@
 ---
-title: "Subsidieprogramma verantwoord ondernemen MKB 2025–2029"
+title: "Besluit van de Staatssecretaris van Buitenlandse Zaken van 8 september 2025, nr. BZ2519564 tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma verantwoord ondernemen MKB 2025–2029)"
 identifier: "BWBR0051503"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-02-25
-laatste_update: 2026-02-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051503"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-02-25"
+last_updated: "2026-02-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051503"
+soort: "ministeriele-regeling"
+stam_id: "17523043"
+version_id: "30919702"
+internal_id: "C44299271"
+label_id: "17424644"
+dtd_version: "2.0"
+original_entry_into_force: "2025-09-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051503/2026-02-25/0"
+intitule_bron: "Stcrt.2025-31460"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-09-08"
+intitule_published: "2025-09-17"
+intitule_in_force: "2025-09-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-31460"
+original_signed_date: "2025-09-08"
+original_published_date: "2025-09-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-31460"
+entry_into_force_date: "2025-09-18"
+jci_1_3: "jci1.3:c:BWBR0051503&z=2026-02-25&g=2026-02-25"
+jci_1_0: "1.0:c:BWBR0051503&g=2026-02-25"
+citeertitel_status: "redactioneel"
+short_title: "Subsidieprogramma verantwoord ondernemen MKB 2025–2029"
+signed_date: "2025-09-08"
+entry_into_force: "2025-09-18"
 ---
-
 # Besluit van de Staatssecretaris van Buitenlandse Zaken van 8 september 2025, nr. BZ2519564 tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma verantwoord ondernemen MKB 2025–2029)
 
 Gelet op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=6) en [7 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=7);
@@ -16,11 +42,11 @@ Gelet op [artikel 7.2 van de Subsidieregeling Ministerie van Buitenlandse Zaken 
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor subsidieverlening op grond van het [artikel 7.2 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=7.2) met het oog op subsidiëring van het MKB ter ondersteuning van het toepassen van de OESO-richtlijnen voor multinationale ondernemingen inzake maatschappelijk verantwoord ondernemen, gelden voor de periode vanaf inwerkingtreding van dit besluit tot en met 31 augustus 2029 de als bijlage bij dit besluit gevoegde beleidsregels.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aanvragen voor subsidie in de eerste openstelling van het Subsidieprogramma verantwoord ondernemen MKB 2025–2029 worden ingediend vanaf 1 oktober 2025, 12:00 Nederlandse tijd tot en met 31 december 2025, 15:00 uur Nederlandse tijd.
 
@@ -30,7 +56,7 @@ Voor subsidieverlening op grond van het [artikel 7.2 van de Subsidieregeling Min
 
 4. Aanvragen voor subsidie in het kader van het Subsidieprogramma verantwoord ondernemen MKB 2025–2029 worden ingediend aan de hand van een door de Minister beschikbaar gesteld aanvraagformulier en voorzien van de op het aanvraagformulier gevraagde bescheiden1[https://www.rvo.nl/subsidies-financiering/](https://www.rvo.nl/subsidies-financiering/).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor subsidieverlening in het kader van het Subsidieprogramma verantwoord ondernemen MKB 2025–2029 geldt voor de periode vanaf de inwerkingtreding van dit besluit tot en met 31 augustus 2029 een subsidieplafond van € 1 miljoen.
 
@@ -52,7 +78,7 @@ Voor subsidieverlening op grond van het [artikel 7.2 van de Subsidieregeling Min
 
 8. Indien na toepassing van het tweede tot en met het zesde lid een deel van de daar bedoelde subsidieplafonds resteert, wordt dit toegevoegd aan het subsidieplafond voor de eerstvolgende openstelling.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 september 2029 met dien verstande dat het besluit van toepassing blijft op aanvragen die voor die datum zijn ingediend en subsidies die voor die datum zijn verleend.
 

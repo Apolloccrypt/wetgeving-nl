@@ -1,13 +1,39 @@
 ---
-title: "Besluit beperking openbaarheid archief deelname aan de Ministerraad en Onderraden evenals Ministeriële Commissies (Ministerie van Economische Zaken over de periode 1951–2007)"
+title: "Besluit van de Minister van Economische Zaken, houdende beperking van openbaarheid van het archief betreffende deelname aan de Ministerraad en Onderraden evenals Ministeriële Commissies van het Ministerie van Economische Zaken over de periode 1951–2007"
 identifier: "BWBR0032733"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2013-01-09
-laatste_update: 2013-01-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032733"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-01-09"
+last_updated: "2013-01-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032733"
+soort: "ministeriele-regeling"
+stam_id: "12038753"
+version_id: "20051082"
+internal_id: "C28173511"
+label_id: "12010444"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032733/2013-01-09/0"
+intitule_bron: "Stcrt.2013-656"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-11-22"
+intitule_published: "2013-01-08"
+intitule_in_force: "2013-01-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-656"
+original_signed_date: "2012-11-22"
+original_published_date: "2013-01-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-656"
+entry_into_force_date: "2013-01-09"
+jci_1_3: "jci1.3:c:BWBR0032733&z=2013-01-09&g=2013-01-09"
+jci_1_0: "1.0:c:BWBR0032733&g=2013-01-09"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid archief deelname aan de Ministerraad en Onderraden evenals Ministeriële Commissies (Ministerie van Economische Zaken over de periode 1951–2007)"
+signed_date: "2012-11-22"
+entry_into_force: "2013-01-09"
 ---
-
 # Besluit van de Minister van Economische Zaken, houdende beperking van openbaarheid van het archief betreffende deelname aan de Ministerraad en Onderraden evenals Ministeriële Commissies van het Ministerie van Economische Zaken over de periode 1951–2007
 
 Gelet op [artikel 15, lid 1, onder c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) en [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10);
@@ -16,15 +42,15 @@ Gehoord de algemene rijksarchivaris;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op het voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen dan wel van derden zijn van de Archiefbescheiden betreffende deelname aan de Ministerraad en Onderraden evenals Ministeriële Commissies van het Ministerie van Economische Zaken over de periode 1951–2007, de inventarisnummers, genoemd in de bijlage bij dit besluit, beperkt openbaar tot 25 jaar na afsluiting dossier (zie voor de specifieke termijn per inventarisnummer de bijlage).
 
-#### Artikel 2
+##### Artikel 2
 
 Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032733&artikel=1&z=2013-01-09&g=2013-01-09), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

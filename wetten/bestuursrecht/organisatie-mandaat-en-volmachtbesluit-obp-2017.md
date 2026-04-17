@@ -1,13 +1,39 @@
 ---
-title: "Organisatie-, mandaat- en volmachtbesluit OBP 2017"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 1 november 2017, nr. 2017-0000168256, houdende de inrichting van de directie Organisatie, Bedrijfsvoering en Personeel, alsmede de doorverlening van vertegenwoordigingsbevoegdheden van de directeur Bedrijfsvoering (Organisatie-, mandaat- en volmachtbesluit OBP 2017)"
 identifier: "BWBR0040182"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-04-16
-laatste_update: 2026-04-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040182"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-16"
+last_updated: "2026-04-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040182"
+soort: "ministeriele-regeling"
+stam_id: "14346383"
+version_id: "24572482"
+internal_id: "C35189381"
+label_id: "14307134"
+dtd_version: "2.0"
+original_entry_into_force: "2017-11-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040182/2026-04-16/0"
+intitule_bron: "Stcrt.2017-63796"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-11-01"
+intitule_published: "2017-11-09"
+intitule_in_force: "2017-11-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-63796"
+original_signed_date: "2017-11-01"
+original_published_date: "2017-11-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-63796"
+entry_into_force_date: "2017-11-10"
+jci_1_3: "jci1.3:c:BWBR0040182&z=2026-04-16&g=2026-04-16"
+jci_1_0: "1.0:c:BWBR0040182&g=2026-04-16"
+citeertitel_status: "officieel"
+short_title: "Organisatie-, mandaat- en volmachtbesluit OBP 2017"
+signed_date: "2017-11-01"
+entry_into_force: "2017-11-10"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 1 november 2017, nr. 2017-0000168256, houdende de inrichting van de directie Organisatie, Bedrijfsvoering en Personeel, alsmede de doorverlening van vertegenwoordigingsbevoegdheden van de directeur Bedrijfsvoering (Organisatie-, mandaat- en volmachtbesluit OBP 2017)
 
 Gelet op de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&artikel=3), en [8 van het Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal 2009 SZW](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&artikel=8);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Organisatie
 
-#### Artikel 2
+##### Artikel 2
 
 1. De directie bestaat uit de volgende afdelingen:
 
@@ -62,11 +88,11 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 3. Verantwoordelijkheden
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Het hoofd Fysieke en Digitale Werkomgeving is verantwoordelijk voor:
 
@@ -92,7 +118,7 @@ Het hoofd Fysieke en Digitale Werkomgeving is verantwoordelijk voor:
 
 - k. het houden van toezicht op de naleving van de geldende wetgeving en rijksbrede en departementale kaders en regelingen op het gebied van de aandachtsgebieden van de afdeling.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het hoofd van de afdeling HRM is verantwoordelijk voor:
 
@@ -128,7 +154,7 @@ Het hoofd Fysieke en Digitale Werkomgeving is verantwoordelijk voor:
 
 2. Het hoofd van de afdeling HRM wordt bijgestaan door onder hem ressorterende teamleiders en de rijkstraineecoördinator SZW.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het hoofd van de afdeling Ondersteuning, Beheer en Evenementen is verantwoordelijk voor:
 
@@ -142,7 +168,7 @@ Het hoofd Fysieke en Digitale Werkomgeving is verantwoordelijk voor:
 
 2. Het hoofd van de afdeling Ondersteuning wordt bijgestaan door een onder hem ressorterende teamleider.
 
-#### Artikel 7
+##### Artikel 7
 
 Het hoofd van de afdeling Strategieontwikkeling, Control en Informatie is verantwoordelijk voor:
 
@@ -206,7 +232,7 @@ Het hoofd van de afdeling Strategieontwikkeling, Control en Informatie is verant
 
 #### § 4. Bevoegdheden
 
-#### Artikel 8
+##### Artikel 8
 
 1. Aan de hoofden van de afdelingen wordt volmacht en machtiging tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op personeelsaangelegenheden ten behoeve van medewerkers van de eigen organisatorische eenheid, met uitzondering van het vaststellen van beoordelingen en bijzondere beloningen van rechtstreeks onder hen ressorterende medewerkers.
 
@@ -218,7 +244,7 @@ Het hoofd van de afdeling Strategieontwikkeling, Control en Informatie is verant
 
 - c. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan het afdelingshoofd.
 
-#### Artikel 9
+##### Artikel 9
 
 Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrekking tot:
 
@@ -226,7 +252,7 @@ Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrek
 
 - b. het paraferen van stukken waar de directie geen voortouw in heeft, met uitzondering van stukken waarvan gelet op het belang daarvan redelijkerwijs vermoed kan worden dat deze door de directeur afgedaan moeten worden.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Aan de hoofden van de afdelingen wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst, voor zover deze betrekking hebben op activiteiten die vallen onder hun verantwoordelijkheid.
 
@@ -238,7 +264,7 @@ Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrek
 
 - c. overeenkomsten met betrekking tot de personele ontwikkeling van medewerkers zoals opleidingen en begeleiding.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door de daartoe aan te wijzen plaatsvervangend directeur.
 
@@ -246,7 +272,7 @@ Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrek
 
 3. Overige doorverlening van bevoegdheden door afdelingshoofden is slechts toegestaan na voorafgaande schriftelijk toestemming van de directeur.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit Bedrijfsvoering 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0039212) wordt ingetrokken.
 

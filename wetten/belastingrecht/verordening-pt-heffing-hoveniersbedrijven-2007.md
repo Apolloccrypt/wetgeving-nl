@@ -1,13 +1,38 @@
 ---
-title: "Verordening PT heffing hoveniersbedrijven 2007"
+title: "Besluit van het bestuur van het Productschap Tuinbouw, d.d 3 juli 2007, houdende de vaststelling van een heffing ten behoeve van hoveniersbedrijven (Verordening PT heffing hoveniersbedrijven 2007)"
 identifier: "BWBR0022925"
-categorie: "Belastingrecht"
-publicatiedatum: 2007-11-25
-laatste_update: 2007-11-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022925"
+country: "nl"
+rank: "pbo"
+publication_date: "2007-11-25"
+last_updated: "2007-11-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022925"
+soort: "pbo"
+stam_id: "9296273"
+version_id: "14925232"
+internal_id: "C20307711"
+label_id: "9274844"
+dtd_version: "2.0"
+original_entry_into_force: "2007-11-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022925/2007-11-25/0"
+intitule_bron: "Vbbo.2007-73"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-07-03"
+intitule_published: "2007-11-23"
+intitule_in_force: "2007-11-23"
+intitule_status: "goed"
+original_publication: "Vbbo.2007-73"
+original_signed_date: "2007-07-03"
+original_published_date: "2007-11-23"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2007-11-25"
+jci_1_3: "jci1.3:c:BWBR0022925&z=2007-11-25&g=2007-11-25"
+jci_1_0: "1.0:c:BWBR0022925&g=2007-11-25"
+citeertitel_status: "officieel"
+short_title: "Verordening PT heffing hoveniersbedrijven 2007"
+signed_date: "2007-07-03"
+entry_into_force: "2007-11-25"
 ---
-
 # Besluit van het bestuur van het Productschap Tuinbouw, d.d 3 juli 2007, houdende de vaststelling van een heffing ten behoeve van hoveniersbedrijven (Verordening PT heffing hoveniersbedrijven 2007)
 
 gelet op de [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=95) en [126 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126), en
@@ -20,7 +45,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=1) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0016235&artikel=2) van het Instellingsbesluit Productschap Tuinbouw.
 
@@ -36,7 +61,7 @@ Besluit:
 
 #### § 2. Heffingsplicht
 
-#### Artikel 2
+##### Artikel 2
 
 1. De ondernemer is een heffing aan het Productschap Tuinbouw verschuldigd ten behoeve van promotie- en marketingactiviteiten, economische aangelegenheden, kwaliteitsaangelegenheden, technisch onderzoek, milieu-aangelegenheden en voorlichting, alsmede ten behoeve van de algemene kosten van het Productschap Tuinbouw.
 
@@ -44,7 +69,7 @@ Besluit:
 
 #### § 3. Grondslag en hoogte
 
-#### Artikel 3
+##### Artikel 3
 
 1. De heffing die de ondernemer is verschuldigd, wordt opgelegd naar de grondslag van de in het jaar 2007 behaalde omzet.
 
@@ -60,11 +85,11 @@ Besluit:
 
 #### § 4. Oplegging en inning
 
-#### Artikel 4
+##### Artikel 4
 
 Indien uit de ter beschikking gekomen gegevens blijkt, dat de verstrekking van de gegevens of een ambtshalve schatting niet in overeenstemming is met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De gegevens verkregen uit hoofde van het bepaalde in deze verordening dienen in handen van de voorzitter of door deze aan te wijzen personen van het secretariaat van het productschap te worden gesteld.
 
@@ -72,11 +97,11 @@ Indien uit de ter beschikking gekomen gegevens blijkt, dat de verstrekking van d
 
 #### § 5. Slotbepalingen
 
-#### Artikel 6
+##### Artikel 6
 
 Deze verordening treedt in werking met ingang van de tweede dag na de datum van publicatie in het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze verordening wordt aangehaald als: Verordening PT heffing hoveniersbedrijven 2007.
 

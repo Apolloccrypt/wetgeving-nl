@@ -1,13 +1,37 @@
 ---
 title: "Instellingsbeschikking stuurgroep ’Redesign Gratie’"
 identifier: "BWBR0010345"
-categorie: "Bestuursrecht"
-publicatiedatum: 1999-06-01
-laatste_update: 1999-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010345"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1999-06-01"
+last_updated: "1999-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010345"
+soort: "ministeriele-regeling"
+stam_id: "4298793"
+version_id: "6061562"
+internal_id: "C6265171"
+label_id: "4277394"
+dtd_version: "2.0"
+original_entry_into_force: "1999-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010345/1999-06-01/0"
+intitule_bron: "Stcrt.1999-77"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-03-17"
+intitule_published: "1999-04-22"
+intitule_in_force: "1999-04-22"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-77"
+original_signed_date: "1999-03-17"
+original_published_date: "1999-04-22"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1999-06-01"
+jci_1_3: "jci1.3:c:BWBR0010345&z=1999-06-01&g=1999-06-01"
+jci_1_0: "1.0:c:BWBR0010345&g=1999-06-01"
+citeertitel_status: "officieel"
+signed_date: "1999-03-17"
+entry_into_force: "1999-06-01"
 ---
-
 # Instellingsbeschikking stuurgroep ’Redesign Gratie’
 
 Overwegende,
@@ -24,11 +48,11 @@ dat daarom op korte termijn overgegaan zal worden tot het instellen van een stuu
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Ingesteld wordt de stuurgroep ’Redesign Gratie’ (hierna: de stuurgroep).
 
-#### Artikel 2
+##### Artikel 2
 
 De stuurgroep heeft tot taak:
 
@@ -38,11 +62,11 @@ De stuurgroep heeft tot taak:
 
 - c. het vaststellen van het Plan van Aanpak en de definitieve rapportages.
 
-#### Artikel 3
+##### Artikel 3
 
 De stuurgroep heeft voorts de opdracht om een implementatieplan voor te bereiden op basis waarvan de onder [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010345&artikel=2&z=1999-06-01&g=1999-06-01) bedoelde voorstellen kunnen worden doorgevoerd.
 
-#### Artikel 4
+##### Artikel 4
 
 De stuurgroep is als volgt samengesteld:
 
@@ -72,10 +96,10 @@ De stuurgroep is als volgt samengesteld:
 
 - mevrouw mr. drs. I. Koomen, project-secretaris, Ministerie van Justitie.
 
-#### Artikel 5
+##### Artikel 5
 
 De stuurgroep zal voor 31 juli 1999 zijn voorstellen op hoofdlijnen voor Redesign Gratie doen.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt gepubliceerd in de Staatscourant.

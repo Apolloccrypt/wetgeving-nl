@@ -1,18 +1,43 @@
 ---
-title: "Instellingsbesluit Raad van Toezicht NVI"
+title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 27 oktober 2004, nr. DPenO 2521244, houdende de instelling van de Raad van Toezicht Nederlands Vaccinatie Instituut"
 identifier: "BWBR0017373"
-categorie: "Bestuursrecht"
-publicatiedatum: 2004-11-12
-laatste_update: 2004-11-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017373"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2004-11-12"
+last_updated: "2004-11-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017373"
+soort: "ministeriele-regeling"
+stam_id: "6302843"
+version_id: "10968162"
+internal_id: "C29112441"
+label_id: "6291764"
+original_entry_into_force: "2004-11-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017373/2004-11-12/0"
+intitule_bron: "Stcrt.2004-217"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-10-27"
+intitule_published: "2004-11-10"
+intitule_in_force: "2004-11-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-217"
+original_signed_date: "2004-10-27"
+original_published_date: "2004-11-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-217-p24-SC67284"
+entry_into_force_date: "2004-11-12"
+jci_1_3: "jci1.3:c:BWBR0017373&z=2004-11-12&g=2004-11-12"
+jci_1_0: "1.0:c:BWBR0017373&g=2004-11-12"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Raad van Toezicht NVI"
+signed_date: "2004-10-27"
+entry_into_force: "2004-11-12"
 ---
-
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 27 oktober 2004, nr. DPenO 2521244, houdende de instelling van de Raad van Toezicht Nederlands Vaccinatie Instituut
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -26,17 +51,17 @@ In deze regeling wordt verstaan onder:
 
 5. SVOP: Strategisch Vaccin Onderzoek Programma.
 
-#### Artikel 2
+##### Artikel 2
 
 Er is een Raad van Toezicht voor het NVI.
 
-#### Artikel 3. Taken van de Raad van Toezicht
+##### Artikel 3. Taken van de Raad van Toezicht
 
 1. De Raad heeft tot taak toezicht te houden op de beleidsvorming en de beleidsuitvoering aangaande de wetenschappelijke kwaliteit van het SVOP en de technische infrastructuur van het NVI.
 
 2. De Raad staat de Directie met raad terzijde, adviseert, stimuleert en ondersteunt de Directie inzake relatiebeheer en politiek-bestuurlijke netwerkvorming. Bij de vervulling van zijn taak richt de Raad zich naar het belang van het NVI.
 
-#### Artikel 4. Samenstelling van de Raad van Toezicht
+##### Artikel 4. Samenstelling van de Raad van Toezicht
 
 1. De Raad bestaat uit tenminste 3 leden en ten hoogste 5 leden waaronder een voorzitter. De leden van de Raad kunnen slechts natuurlijke personen zijn.
 
@@ -54,7 +79,7 @@ Er is een Raad van Toezicht voor het NVI.
 
 - b. ambtenaren werkzaam bij het NVI.
 
-#### Artikel 5. Benoeming van de voorzitter
+##### Artikel 5. Benoeming van de voorzitter
 
 1. De voorzitter wordt benoemd voor ten hoogste vier jaar en kan zich door middel van een sollicitatie aan de minister kandidaat stellen voor een tweede termijn van ten hoogste vier jaar. In afwijking van de vorige volzin eindigt de eerste termijn op 31 december 2007.
 
@@ -66,7 +91,7 @@ Er is een Raad van Toezicht voor het NVI.
 
 5. De Raad kiest uit zijn midden een plaatsvervangend voorzitter en doet hiervan mededeling aan de minister.
 
-#### Artikel 6. Benoeming leden
+##### Artikel 6. Benoeming leden
 
 1. De leden worden benoemd voor een periode van ten hoogste 4 jaar. In afwijking van de vorige volzin eindigt de eerste termijn op 31 december 2007.
 
@@ -78,7 +103,7 @@ Er is een Raad van Toezicht voor het NVI.
 
 5. Degene die ter vervulling van een tussentijdse ontstane vacature tot lid van de Raad is benoemd, treedt af op het tijdstip waarop degene in wiens plaats hij of zij is benoemd zou hebben moeten aftreden.
 
-#### Artikel 7. Beëindiging lidmaatschap
+##### Artikel 7. Beëindiging lidmaatschap
 
 Het lidmaatschap van de Raad eindigt:
 
@@ -90,7 +115,7 @@ Het lidmaatschap van de Raad eindigt:
 
 - d. indien het lid door de minister, op grond van [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017373&artikel=5&z=2004-11-12&g=2004-11-12) en [6 vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017373&artikel=6&z=2004-11-12&g=2004-11-12), wordt ontslagen.
 
-#### Artikel 8. Reglement
+##### Artikel 8. Reglement
 
 1. De Raad regelt zijn werkwijze en de orde van zijn vergaderingen in een reglement met inachtneming van het bepaalde in deze regeling.
 
@@ -104,7 +129,7 @@ Het lidmaatschap van de Raad eindigt:
 
 - c. geheimhouding.
 
-#### Artikel 9. Adviestaak
+##### Artikel 9. Adviestaak
 
 1. De Raad stelt met betrekking tot het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017373&artikel=3&z=2004-11-12&g=2004-11-12) bepaalde, een advies op naar aanleiding van het door de Directie opgestelde conceptprogramma SVOP en infrastructurele investeringen voor het komende kalenderjaar.
 
@@ -114,7 +139,7 @@ Het lidmaatschap van de Raad eindigt:
 
 4. Jaarlijks wordt uiterlijk per 1 april door de Directie schriftelijk verantwoording afgelegd aan de Secretaris-Generaal van het Ministerie van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 10. Ambtelijke ondersteuning
+##### Artikel 10. Ambtelijke ondersteuning
 
 1. Ter ondersteuning bij zijn in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017373&artikel=3&z=2004-11-12&g=2004-11-12) bedoelde taak wordt de Raad bijgestaan door een bureau.
 
@@ -122,11 +147,11 @@ Het lidmaatschap van de Raad eindigt:
 
 3. Het NVI wijst na overleg met de Raad een van de in het tweede lid bedoelde personeelsleden aan als secretaris.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 oktober 2003.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling wordt aangehaald als: Instellingsbesluit Raad van Toezicht NVI.
 

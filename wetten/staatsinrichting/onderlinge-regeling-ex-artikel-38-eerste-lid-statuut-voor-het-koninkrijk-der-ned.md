@@ -1,13 +1,39 @@
 ---
-title: "Onderlinge regeling ex artikel 38, eerste lid, Statuut voor het Koninkrijk der Nederlanden, inzake de verdeling opbrengsten octrooibestel"
+title: "Onderlinge regeling als bedoeld in artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden tussen Nederland en Sint Maarten inzake de verdeling van de opbrengsten van het octrooibestel"
 identifier: "BWBR0038677"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2023-06-21
-laatste_update: 2023-06-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038677"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-06-21"
+last_updated: "2023-06-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038677"
+soort: "ministeriele-regeling"
+stam_id: "13783773"
+version_id: "23637232"
+internal_id: "C34028611"
+label_id: "13749974"
+dtd_version: "2.0"
+original_entry_into_force: "2016-10-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038677/2023-06-21/0"
+intitule_bron: "Stcrt.2016-59123"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-10-17"
+intitule_published: "2016-11-01"
+intitule_in_force: "2016-11-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-59123"
+original_signed_date: "2016-10-17"
+original_published_date: "2016-11-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-59123"
+entry_into_force_date: "2016-10-18"
+jci_1_3: "jci1.3:c:BWBR0038677&z=2023-06-21&g=2023-06-21"
+jci_1_0: "1.0:c:BWBR0038677&g=2023-06-21"
+citeertitel_status: "redactioneel"
+short_title: "Onderlinge regeling ex artikel 38, eerste lid, Statuut voor het Koninkrijk der Nederlanden, inzake de verdeling opbrengsten octrooibestel"
+signed_date: "2016-10-17"
+entry_into_force: "2016-10-18"
 ---
-
 # Onderlinge regeling als bedoeld in artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden tussen Nederland en Sint Maarten inzake de verdeling van de opbrengsten van het octrooibestel
 
 Overwegende dat
@@ -48,7 +74,7 @@ Komen het volgende overeen:
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1. begripsbepalingen
+##### Artikel 1. begripsbepalingen
 
 In deze onderlinge regeling wordt verstaan onder:
 
@@ -66,7 +92,7 @@ In deze onderlinge regeling wordt verstaan onder:
 
 - [g)]. **Verordening 1257/2012:** [Verordening (EU) Nr. 1257/2012](32012R1257) van het Europees parlement en de Raad van 17 december 2012 tot het uitvoering geven aan nauwere samenwerking op het gebied van de instelling van eenheidsoctrooibescherming (PbEU 2012, L 361/1).
 
-#### Artikel 2. opbrengsten
+##### Artikel 2. opbrengsten
 
 1. Opbrengsten in de zin van deze onderlinge regeling zijn de door Octrooicentrum Nederland op grond van [artikel 61 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=61) ontvangen instandhoudingstaksen, verminderd met de afdracht van instandhoudingstaksen aan het Europees Octrooibureau op grond van artikel 39 van het Europees Octrooiverdrag.
 
@@ -74,7 +100,7 @@ In deze onderlinge regeling wordt verstaan onder:
 
 3. De opbrengsten, bedoeld in het tweede lid, worden vanaf 1 juni 2023 verdeeld tussen Nederland, Curaçao en Sint Maarten.
 
-#### Artikel 3. financiële afwikkeling
+##### Artikel 3. financiële afwikkeling
 
 1. Octrooicentrum Nederland is belast met de verdeling van de opbrengsten en met de betaling aan BIE Sint Maarten van het aan Sint Maarten toekomende aandeel, overeenkomstig de verdeelsleutel.
 
@@ -86,7 +112,7 @@ In deze onderlinge regeling wordt verstaan onder:
 
 5. De betaling aan BIE Sint Maarten geschiedt telkens binnen 30 dagen na afloop van het desbetreffende kwartaal door bijschrijving op rekeningnummer 81052610 bij de Windward Islands Bank te Philipsburg ten name van BIE Sint Maarten, onder vermelding van het kwartaal waarop de betaling betrekking heeft.
 
-#### Artikel 4. accountantscontrole
+##### Artikel 4. accountantscontrole
 
 1. De Auditdienst van het Rijk toetst de financiële verantwoording van Octrooicentrum Nederland aan de toepasselijke wet- en regelgeving. De opbrengsten maken onderdeel uit van de controle door de Auditdienst van het Rijk.
 
@@ -98,10 +124,10 @@ In deze onderlinge regeling wordt verstaan onder:
 
 5. De kosten voor de in het derde lid bedoelde controle komen voor rekening van degene die daartoe opdracht heeft gegeven.
 
-#### Artikel 5. inwerkingtreding
+##### Artikel 5. inwerkingtreding
 
 Deze onderlinge regeling treedt in werking met ingang van de dag na de datum van ondertekening en werkt terug tot en met 10 oktober 2010.
 
-#### Artikel 6. bekendmaking
+##### Artikel 6. bekendmaking
 
 Binnen een maand na ondertekening wordt de tekst van deze onderlinge regeling in de Staatscourant en het Afkondigingsblad van Sint Maarten geplaatst.

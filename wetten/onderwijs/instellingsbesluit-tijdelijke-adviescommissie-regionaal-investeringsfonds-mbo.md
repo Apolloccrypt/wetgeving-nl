@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Tijdelijke adviescommissie regionaal investeringsfonds mbo"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 15 januari 2019, nr. MBO/1420991, houdende instelling van de Tijdelijke adviescommissie regionaal investeringsfonds mbo (Instellingsbesluit Tijdelijke adviescommissie regionaal investeringsfonds mbo 2019–2022)"
 identifier: "BWBR0041860"
-categorie: "Onderwijs"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041860"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041860"
+soort: "ministeriele-regeling"
+stam_id: "14964903"
+version_id: "25639352"
+internal_id: "C36594271"
+label_id: "14915154"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041860/2026-01-01/0"
+intitule_bron: "Stcrt.2019-4491"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-01-15"
+intitule_published: "2019-01-30"
+intitule_in_force: "2019-01-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-4491"
+original_signed_date: "2019-01-15"
+original_published_date: "2019-01-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-4491"
+entry_into_force_date: "2019-01-31"
+jci_1_3: "jci1.3:c:BWBR0041860&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0041860&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Tijdelijke adviescommissie regionaal investeringsfonds mbo"
+signed_date: "2019-01-15"
+entry_into_force: "2019-01-31"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 15 januari 2019, nr. MBO/1420991, houdende instelling van de Tijdelijke adviescommissie regionaal investeringsfonds mbo (Instellingsbesluit Tijdelijke adviescommissie regionaal investeringsfonds mbo 2019–2022)
 
 Gezien [artikel 20 Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=20);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -22,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - **commissie:** Tijdelijke adviescommissie regionaal investeringsfonds mbo, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041860&artikel=2&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 2. Instelling commissie
+##### Artikel 2. Instelling commissie
 
 1. Er is een Tijdelijke adviescommissie regionaal investeringsfonds mbo.
 
@@ -30,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 3. Leden van de commissie zijn ook na 1 januari 2028 te consulteren door de Minister in verband met de rechten en plichten die voortvloeien uit de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041860&artikel=3&z=2026-01-01&g=2026-01-01) genoemde taken van de commissie.
 
-#### Artikel 3. Taken commissie Regeling regionaal investeringsfonds mbo 2019–2022
+##### Artikel 3. Taken commissie Regeling regionaal investeringsfonds mbo 2019–2022
 
 1. De commissie is belast met:
 
@@ -58,7 +84,7 @@ In dit besluit wordt verstaan onder:
 
 4. De commissie brengt per kalenderjaar een verslag uit over de wijze waarop de beoordelingen van de subsidieaanvragen en voortgangsrapportages hebben plaatsgevonden.
 
-#### Artikel 4. Taken commissie Regeling regionaal investeringsfonds mbo 2024–2027
+##### Artikel 4. Taken commissie Regeling regionaal investeringsfonds mbo 2024–2027
 
 1. De commissie is belast met het beoordelen van de subsidieaanvragen, bedoeld in [artikel 19 van de Regeling regionaal investeringsfonds mbo 2024–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&artikel=19), en het adviseren van de Minister hierover.
 
@@ -72,7 +98,7 @@ In dit besluit wordt verstaan onder:
 
 3. De commissie brengt per kalenderjaar een verslag uit over de wijze waarop de beoordelingen van de subsidieaanvragen hebben plaatsgevonden.
 
-#### Artikel 5. Samenstelling, benoeming en ontslag
+##### Artikel 5. Samenstelling, benoeming en ontslag
 
 1. De commissie bestaat uit een voorzitter en ten hoogste acht andere leden.
 
@@ -90,7 +116,7 @@ In dit besluit wordt verstaan onder:
 
 5. Een lid neemt niet deel aan de beoordeling van of advisering over een subsidieaanvraag, indien het de beoordeling van of het advies over een aanvraag betreft, waarbij dat lid een persoonlijk of zakelijk belang heeft.
 
-#### Artikel 6. Leden
+##### Artikel 6. Leden
 
 Tot leden van de commissie worden benoemd:
 
@@ -110,7 +136,7 @@ Tot leden van de commissie worden benoemd:
 
 - h. de heer J.A.L.M. van Erp te ’s-Hertogenbosch.
 
-#### Artikel 7. Secretariaat
+##### Artikel 7. Secretariaat
 
 1. De commissie wordt ondersteund door een secretariaat.
 
@@ -118,17 +144,17 @@ Tot leden van de commissie worden benoemd:
 
 3. In het secretariaat wordt voorzien door de Minister.
 
-#### Artikel 8. Werkwijze
+##### Artikel 8. Werkwijze
 
 1. De commissie stelt haar eigen werkwijze vast.
 
 2. De commissie kan zich, na toestemming van de Minister, door andere personen doen bijstaan, voor zover dat voor de vervulling van haar taak nodig is.
 
-#### Artikel 9. Informatieplicht
+##### Artikel 9. Informatieplicht
 
 De commissie verstrekt aan de Minister desgevraagd de door hem gewenste inlichtingen. De Minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
-#### Artikel 10. Vergoeding
+##### Artikel 10. Vergoeding
 
 1. De vergoeding van de voorzitter van de commissie bedraagt € 362,22 per dagdeel.
 
@@ -152,25 +178,25 @@ De commissie verstrekt aan de Minister desgevraagd de door hem gewenste inlichti
 
 4. Naast de vergoeding in het derde lid, kan de voorzitter in overleg met het ministerie ten hoogste twee dagdelen per commissielid reserveren voor werkzaamheden van de commissie betreffende voorbereiding en evaluatie.
 
-#### Artikel 11. Kosten van de commissie
+##### Artikel 11. Kosten van de commissie
 
 De kosten van de commissie komen, voor zover goedgekeurd, voor rekening van de Minister. Onder kosten worden in ieder geval verstaan de kosten voor de faciliteiten van vergaderingen en voor secretariële ondersteuning.
 
-#### Artikel 12. Openbaarmaking
+##### Artikel 12. Openbaarmaking
 
 Rapporten, notities, verslagen, adviezen en andere producten die door of namens de commissie worden vervaardigd of vergaard, worden niet door de commissie openbaar gemaakt, maar uitsluitend aan de Minister uitgebracht of overgedragen.
 
-#### Artikel 13. Archiefbescheiden
+##### Artikel 13. Archiefbescheiden
 
 De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden de bescheiden betreffende die werkzaamheden over aan het archief van de Directie Middelbaar Beroepsonderwijs van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 14. Inwerkingtreding en vervaldatum
+##### Artikel 14. Inwerkingtreding en vervaldatum
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 januari 2019.
 
 2. Dit besluit vervalt met ingang van 1 januari 2028.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Tijdelijke adviescommissie regionaal investeringsfonds mbo.
 

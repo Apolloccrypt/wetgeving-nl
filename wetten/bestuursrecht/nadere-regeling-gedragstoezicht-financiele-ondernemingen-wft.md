@@ -1,13 +1,39 @@
 ---
-title: "Nadere regeling gedragstoezicht financiële ondernemingen Wft"
+title: "Nadere regeling van de Autoriteit Financiële Markten van 15 november 2006, houdende regels voor het gedragstoezicht op financiële ondernemingen op grond van de Wet op het financieel toezicht (Nadere Regeling gedragstoezicht financiële ondernemingen Wft)"
 identifier: "BWBR0020540"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-04-01
-laatste_update: 2023-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020540"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-04-01"
+last_updated: "2023-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020540"
+soort: "zbo"
+stam_id: "8743253"
+version_id: "24726092"
+internal_id: "C35374971"
+label_id: "8724154"
+dtd_version: "2.0"
+original_entry_into_force: "2017-12-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020540/2023-04-01/0"
+intitule_bron: "Stcrt.2006-233"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-11-15"
+intitule_published: "2006-11-29"
+intitule_in_force: "2006-12-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-72502"
+original_signed_date: "2017-12-11"
+original_published_date: "2017-12-19"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2017-72502"
+entry_into_force_date: "2017-12-11"
+jci_1_3: "jci1.3:c:BWBR0020540&z=2023-04-01&g=2023-04-01"
+jci_1_0: "1.0:c:BWBR0020540&g=2023-04-01"
+citeertitel_status: "officieel"
+short_title: "Nadere regeling gedragstoezicht financiële ondernemingen Wft"
+signed_date: "2017-12-11"
+entry_into_force: "2017-12-11"
 ---
-
 # Nadere regeling van de Autoriteit Financiële Markten van 15 november 2006, houdende regels voor het gedragstoezicht op financiële ondernemingen op grond van de Wet op het financieel toezicht (Nadere Regeling gedragstoezicht financiële ondernemingen Wft)
 
 Gelet op de [artikelen 1:12](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:12); [2:59](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:59); [2:74](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:74); [2:79](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:79); [2:85](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:85); [4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:7); [5:4 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:4), en de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=31), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=35), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=54), [56](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=56), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=58), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=59), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=66), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=67), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=69), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=70), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=71), [84](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=84), [110](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=110), [112](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=112), [118](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=118), [123](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=123), [124](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=124), [133](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=133), [134](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=134), [164](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=164), [165](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=165), en [167 van het Besluit gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=167);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Definities
 
-#### Artikel 1:1
+##### Artikel 1:1
 
 In deze regeling wordt verstaan onder:
 
@@ -110,7 +136,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2.1. Regels met betrekking tot vermeldingsverplichtingen
 
-#### Artikel 2:1
+##### Artikel 2:1
 
 1. Indien een vermeldingsuiting op schrift is gesteld, op internet is geplaatst, of op televisie wordt getoond of ten gehore wordt gebracht, wordt de in het tweede lid gespecificeerde afbeelding, onverminderd de overige leden van dit artikel, goed leesbaar opgenomen bij de vermeldingsuiting. Indien een vermeldingsuiting ten gehore wordt gebracht via internet of radio wordt het in het tweede lid gespecificeerde geluidsfragment ten gehore gebracht na de vermeldingsuiting.
 
@@ -138,7 +164,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2.2. Regels met betrekking tot reclame-uitingen als bedoeld in [artikel 53, zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=53)
 
-#### Artikel 2:2
+##### Artikel 2:2
 
 1. In een reclame-uiting als bedoeld in [artikel 53, zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=53), die op schrift is gesteldwordt gecentreerd onderaan de in het vijfde lid bedoelde waarschuwing getoond in zijn oorspronkelijke verhouding, waarbij de breedte van de waarschuwing gelijk is aan de breedte van de reclame-uiting en de hoogte van de waarschuwing minimaal 10% van de hoogte van reclame-uiting inclusief waarschuwing bedraagt. Indien een reclame-uiting meerdere pagina’s beslaat, dient onderaan op de eerste pagina van die reclame-uiting de in het vijfde lid bedoelde waarschuwing getoond te worden.
 
@@ -154,7 +180,7 @@ In deze regeling wordt verstaan onder:
 
 7. Indien geen tekst, als bedoeld in het zesde lid, of geen afbeelding kan worden opgenomen in de reclame-uiting op internet wordt een ingekorte waarschuwingstekst opgenomen die vanaf www.afm.nl/kredietwaarschuwing te downloaden is, waarbij de ingekorte waarschuwingstekst onderaan in dezelfde lettergrootte als de overige tekst in de reclame-uiting wordt getoond, in de kleur zwart of rood en indien mogelijk vetgedrukt en gecentreerd onderaan weergegeven. De ingekorte waarschuwingstekst is duidelijk leesbaar, zichtbaar, en herkenbaar.
 
-#### Artikel 2:3
+##### Artikel 2:3
 
 1. De risico-indicator in een reclame-uiting, anders dan via de televisie of de radio, bedoeld in [artikel 52, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=52) wordt opgesteld conform de vormgeving van [bijlage 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=1.4&z=2023-04-01&g=2023-04-01), onder 1. De risico-indicatoren zijn te downloaden van [www.afm.nl/reclameteksten](onbekend).
 
@@ -166,7 +192,7 @@ In deze regeling wordt verstaan onder:
 
 5. De Autoriteit Financiële Markten kan de risico-indicator voor gebruik in reclame-uitingen, bedoeld in het eerste en tweede lid, of een geluidsbestand als bedoeld in het derde lid geheel of gedeeltelijk wijzigen. De aanbieder van een complex beleggingsproduct of derdepijlerpensioenproduct verwerkt een dergelijke wijziging uiterlijk de eerste dag van de vierde kalendermaand na bekendmaking daarvan.
 
-#### Artikel 2:4
+##### Artikel 2:4
 
 Indien informatie over een werkelijk rendement als bedoeld in [artikel 52, vijfde of zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=52), met uitzondering van een beleggingsinstelling of icbe, wordt gepresenteerd:
 
@@ -188,11 +214,11 @@ Indien informatie over een werkelijk rendement als bedoeld in [artikel 52, vijfd
 
 #### § 2.4. Regels met betrekking tot de berekening van werkelijke en toekomstige rendementen, kosten en risico’s
 
-#### Artikel 3:1
+##### Artikel 3:1
 
 Het essentiële-informatiedocument voor pensioenproducten, wordt opgesteld overeenkomstig [artikel 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=3&artikel=3:2&z=2023-04-01&g=2023-04-01) en wordt ten minste één keer per jaar geactualiseerd en als daar aanleiding toe is.
 
-#### Artikel 3:2
+##### Artikel 3:2
 
 1. Het essentiële-informatiedocument voor pensioenproducten wordt opgesteld conform de artikelen 6 en 7 van de verordening essentiële-informatiedocumenten en de uitwerking van deze artikelen in de gedelegeerde verordening essentiële-informatiedocumenten.
 
@@ -206,31 +232,31 @@ Na de subtitel ‘**Wat zijn de kosten?**’ wordt de subtitel ‘**Wat zijn de 
 
 - b. Let op! Over de periodieke uitkeringen van dit product bent u inkomstenbelasting en (sociale) premies verschuldigd. Er gelden specifieke fiscale voorwaarden voor dit product. Vraag hiernaar.
 
-#### Artikel 3:3
+##### Artikel 3:3
 
 Vervallen
 
-#### Artikel 3:4
+##### Artikel 3:4
 
 Vervallen
 
-#### Artikel 3:5
+##### Artikel 3:5
 
 Vervallen
 
-#### Artikel 3:6
+##### Artikel 3:6
 
 Vervallen
 
-#### Artikel 3:7
+##### Artikel 3:7
 
 Vervallen
 
-#### Artikel 3:8
+##### Artikel 3:8
 
 Vervallen
 
-#### Artikel 3:9
+##### Artikel 3:9
 
 1. De jaarlijkse waardebepaling van het eindkapitaal van overeenkomsten als bedoeld in [artikel 73, eerste lid, onderdeel f, onder 1, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=73), wordt berekend op basis van
 
@@ -246,7 +272,7 @@ Vervallen
 
 2. De jaarlijkse prognose van het eindkapitaal van overeenkomsten, bedoeld in [artikel 73, eerste lid, onderdeel f, onder 2, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=73), wordt berekend conform het ongunstige en het gematigde scenario zoals beschreven in artikel 3, derde lid, van de gedelegeerde verordening essentiële-informatiedocumenten. Het is voor categorie 3 PRIIPs, als bedoeld in Bijlage II, deel I, onder 6 van de gedelegeerde verordening essentiële-informatiedocumenten, mogelijk om met inachtneming van het bepaalde in [Bijlage 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=14&z=2023-04-01&g=2023-04-01) af te wijken van de rekenmethode zoals beschreven in artikel 3, derde lid, van de gedelegeerde verordening essentiële-informatiedocumenten.
 
-#### Artikel 3:10
+##### Artikel 3:10
 
 1. Een financiële bijsluiter vermeldt onder de subtitel ‘Wat gebeurt er bij eerder beëindigen?’:
 
@@ -278,75 +304,75 @@ Vervallen
 
 #### § 3.2. Financiële bijsluiter met betrekking tot rechten van deelneming in een beleggingsinstelling
 
-#### Artikel 3:11
+##### Artikel 3:11
 
 Vervallen
 
-#### Artikel 3:12
+##### Artikel 3:12
 
 Vervallen
 
-#### Artikel 3:13
+##### Artikel 3:13
 
 Vervallen
 
-#### Artikel 3:14
+##### Artikel 3:14
 
 Vervallen
 
-#### Artikel 3:15
+##### Artikel 3:15
 
 Vervallen
 
-#### Artikel 3:16
+##### Artikel 3:16
 
 Vervallen
 
-#### Artikel 3:17
+##### Artikel 3:17
 
 Vervallen
 
-#### Artikel 3:18
+##### Artikel 3:18
 
 Vervallen
 
-#### Artikel 3:19
+##### Artikel 3:19
 
 Vervallen
 
-#### Artikel 3:20
+##### Artikel 3:20
 
 Vervallen
 
-#### Artikel 3:21
+##### Artikel 3:21
 
 Vervallen
 
-#### Artikel 3:22
+##### Artikel 3:22
 
 Vervallen
 
-#### Artikel 3:23
+##### Artikel 3:23
 
 Vervallen
 
-#### Artikel 3:24
+##### Artikel 3:24
 
 Vervallen
 
-#### Artikel 3:25
+##### Artikel 3:25
 
 Vervallen
 
-#### Artikel 3:26
+##### Artikel 3:26
 
 Vervallen
 
-#### Artikel 3:27
+##### Artikel 3:27
 
 Vervallen
 
-#### Artikel 3:28
+##### Artikel 3:28
 
 Vervallen
 
@@ -354,7 +380,7 @@ Vervallen
 
 #### § 6.2. Regels met betrekking tot de toelichting op de balans en de winst- en verliesrekening van een beleggingsinstelling
 
-#### Artikel 4:1
+##### Artikel 4:1
 
 1. Een vergelijkingskaart als bedoeld in [artikel 86f, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86f) wordt opgesteld overeenkomstig de [artikelen 4:2 tot en met 4:4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=4&paragraaf=4.3&artikel=4:3&z=2023-04-01&g=2023-04-01) van dit hoofdstuk.
 
@@ -368,7 +394,7 @@ Vervallen
 
 - d. pensioenvraag werkgever.
 
-#### Artikel 4:2
+##### Artikel 4:2
 
 1. Een financiëledienstverlener stelt per dienstverleningsvraag een vergelijkingskaart op dat is afgestemd op de gevraagde dienstverlening.
 
@@ -376,7 +402,7 @@ Vervallen
 
 3. Indien een financiëledienstverlener een vergelijkingskaart opstelt voor de hypotheekvraag, als bedoeld in [artikel 4:1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=4&paragraaf=4.1&artikel=4:1&z=2023-04-01&g=2023-04-01), maakt de vraag over risico’s afdekken, als bedoeld in artikel 4:1, tweede lid, onderdeel b, en de bijhorende antwoorden integraal deel uit van de vergelijkingskaart.
 
-#### Artikel 4:3
+##### Artikel 4:3
 
 1. Een vergelijkingskaart als bedoeld in [artikel 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=4&paragraaf=4.2&artikel=4:2&z=2023-04-01&g=2023-04-01) wordt opgesteld en vormgegeven overeenkomstig het in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=6&z=2023-04-01&g=2023-04-01) opgenomen model.
 
@@ -386,7 +412,7 @@ Vervallen
 
 #### § 4.1. Inleidende bepalingen
 
-#### Artikel 4:4
+##### Artikel 4:4
 
 Een financiëledienstverlener bepaalt op basis van [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=7&z=2023-04-01&g=2023-04-01) of hij een toereikend aantal op de markt verkrijgbare financiële producten beoordeelt die voldoende divers zijn wat type en aanbieder betreft zodat een voor de consument of, indien het een verzekering betreft, de cliënt een geschikt product kan worden geadviseerd als bedoeld in [artikel 86f, vierde lid, onderdeel a, BGfo](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86f).
 
@@ -394,7 +420,7 @@ Een financiëledienstverlener bepaalt op basis van [bijlage 7](https://wetten.ov
 
 #### § 6.4. Regels met betrekking tot het beloningsbeleid voor de uitvoering van het beloningsbeleid als bedoeld in [artikel 1:117 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:117) door beheerders van beleggingsinstellingen en beheerders van icbe’s
 
-#### Artikel 5:1
+##### Artikel 5:1
 
 1. Het beleggingsobjectprospectus bevat een samenvatting van de kerngegevens bestaande uit maximaal 1000 woorden. Deze samenvatting bevat ten minste de volgende gegevens:
 
@@ -432,7 +458,7 @@ Een financiëledienstverlener bepaalt op basis van [bijlage 7](https://wetten.ov
 
 #### § 5.1. Regels met betrekking tot het prospectus
 
-#### Artikel 5:2
+##### Artikel 5:2
 
 1. Een beleggingsobjectprospectus wordt opgesteld overeenkomstig [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=8&z=2023-04-01&g=2023-04-01).
 
@@ -446,11 +472,11 @@ Een financiëledienstverlener bepaalt op basis van [bijlage 7](https://wetten.ov
 
 #### § 5.1. Regels met betrekking tot het prospectus
 
-#### Artikel 5:3
+##### Artikel 5:3
 
 Bij berekening van de beleggingsobjectkosten, bedoeld in [artikel 5:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=5&paragraaf=5.1&artikel=5:2&z=2023-04-01&g=2023-04-01), worden opbrengsten en andere voordelen op deze kosten niet in mindering gebracht.
 
-#### Artikel 5:4
+##### Artikel 5:4
 
 1. De administratieve kosten, beheers-, productie- en verkoopkosten worden per serie van beleggingsobjecten per boekjaar in de toelichting op de jaarrekening verantwoord overeenkomstig de kruistabel van [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=10&z=2023-04-01&g=2023-04-01). Eventuele valutakoersverschillen dienen in de bedoelde kosten te worden verantwoord. De ingelegde gelden per serie van beleggingsobjecten per boekjaar, bedoeld in [artikel 67, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=67) worden separaat in de toelichting op de jaarrekening vermeld.
 
@@ -458,7 +484,7 @@ Bij berekening van de beleggingsobjectkosten, bedoeld in [artikel 5:2](https://w
 
 3. Bij berekening van de kosten, bedoeld in het eerste lid, worden opbrengsten en andere voordelen niet in mindering gebracht.
 
-#### Artikel 5:5
+##### Artikel 5:5
 
 1. Indien voor de berekening van het totale risico van de benadering op basis van de aangegane verplichtingen wordt gebruikgemaakt, wordt deze benadering toegepast op alle posities in financiële derivaten, met inbegrip van derivaten die ingepast zijn in effecten of geldmarktinstrumenten, ongeacht of deze worden gebruikt als onderdeel van het algemene beleggingsbeleid van de instelling voor collectieve belegging in effecten, ter vermindering van het risico, dan wel met het oog op een goed portefeuillebeheer.
 
@@ -472,7 +498,7 @@ Bij berekening van de beleggingsobjectkosten, bedoeld in [artikel 5:2](https://w
 
 6. Indien van de benadering op basis van de aangegane verplichtingen gebruik wordt gemaakt, hoeven kortlopende leningen die in naam van de instelling voor collectieve belegging in effecten zijn aangegaan, niet in aanmerking te worden genomen bij de berekening van het totale risico indien wordt voldaan aan [artikel 133, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=133).
 
-#### Artikel 5:6
+##### Artikel 5:6
 
 1. Tegenpartijrisico dat voortvloeit uit een financieel derivaat dat niet op een gereglementeerde markt of een andere markt in financiële instrumenten wordt verhandeld wordt onderworpen aan de in [artikel 134 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=134) beschreven begrenzingen.
 
@@ -488,7 +514,7 @@ Een beheerder mag de derivatenposities van een instelling voor collectieve beleg
 
 6. Met betrekking tot het risico dat voortvloeit uit in [artikel 134, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=134) bedoelde transacties in financiële derivaten die niet op een gereglementeerde markt of een andere markt in financiële instrumenten worden verhandeld, neemt een beheerder elk aan die financiële derivaten verbonden tegenpartijrisico bij de berekening in aanmerking.
 
-#### Artikel 5:7
+##### Artikel 5:7
 
 Er is geen sprake van een tegenpartijrisico indien:
 
@@ -500,11 +526,11 @@ Er is geen sprake van een tegenpartijrisico indien:
 
 - d. de hoogte van de marginverplichtingen ten minste eenmaal per dag wordt vastgesteld.
 
-#### Artikel 5:8
+##### Artikel 5:8
 
 Indien het gebruik van financiële derivaten verplicht tot de automatische, of naar keuze van de tegenpartij, levering op de vervaldatum of uitoefendatum van de onderliggende financiële instrumenten, dan wel een ander gelijkwaardig onderliggend instrument dat op ieder tijdstip kan worden aangewend, worden de voor de levering van het te leveren onderliggende financiële instrument ter dekking in portefeuille van beleggingsinstellingen opgenomen.
 
-#### Artikel 5:9
+##### Artikel 5:9
 
 Bij het gebruik van financiële derivaten die automatisch of naar keuze van de beleggingsinstelling in contanten worden afgewikkeld, worden liquide activa in de portefeuille van de beleggingsstelling opgenomen die binnen zeven werkdagen in contanten kunnen worden omgezet tegen een prijs die nauw aansluit bij de actuele waardering van het financiële instrument op zijn markt, of anderszins aan deze waarborgen wordt voldaan.
 
@@ -512,7 +538,7 @@ Bij het gebruik van financiële derivaten die automatisch of naar keuze van de b
 
 #### § 5.2. Regels met betrekking tot de toelichting op de balans en de winst- en verliesrekening van een beleggingsinstelling
 
-#### Artikel 6:1
+##### Artikel 6:1
 
 Voor de toepassing van de voorschriften van dit hoofdstuk wordt onderscheid gemaakt tussen een vermogensbeheerder die in het kader van het beheer van een individueel vermogen:
 
@@ -522,7 +548,7 @@ Voor de toepassing van de voorschriften van dit hoofdstuk wordt onderscheid gema
 
 #### § 5.3. Regels met betrekking tot risicobeheersing door instellingen voor collectieve beleggingen in effecten
 
-#### Artikel 6:2
+##### Artikel 6:2
 
 1. In de toelichting op de balans en de winst- en verliesrekening van de beleggingsinstelling wordt inzicht verschaft in de lopende kosten van de beleggingsinstelling en eventueel in rekening gebrachte prestatievergoedingen. De berekening van de lopende kosten geschiedt conform de bepaling over lopende kosten in artikel 10, tweede lid, onderdeel b, van verordening nr. 583/2010 van de Europese Commissie van 1 juli 2010 tot uitvoering van Richtlijn 2009/65/EG van het Europees Parlement en de Raad van de Europese Unie wat betreft essentiële beleggersinformatie en de voorwaarden waaraan moet worden voldaan als de essentiële beleggersinformatie of het prospectus op een andere duurzame drager dan papier of via een website wordt verstrekt (PbEU L 176) en de uitwerking daarvan door de Europese Autoriteit voor effecten en markten.
 
@@ -534,11 +560,11 @@ Voor de toepassing van de voorschriften van dit hoofdstuk wordt onderscheid gema
 
 #### § 6.2. Beheerste uitoefening van het bedrijf
 
-#### Artikel 6:3
+##### Artikel 6:3
 
 Een beheerder berekent het totale risico van een door hem beheerde icbe overeenkomstig de artikelen 6:4 tot en met 6:6.
 
-#### Artikel 6:4
+##### Artikel 6:4
 
 1. Het totale risico van een icbe, bedoeld in [artikel 133, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=133) wordt berekend op een van de volgende wijzen:
 
@@ -552,7 +578,7 @@ Een beheerder berekent het totale risico van een door hem beheerde icbe overeenk
 
 4. Wanneer een icbe technieken en instrumenten, inclusief retrocessieovereenkomsten of effectenkrediet, aanwendt om voor een extra hefboomeffect of een extra blootstelling aan marktrisico te zorgen, worden deze transacties in aanmerking genomen bij de berekening van het totale risico.
 
-#### Artikel 6:5
+##### Artikel 6:5
 
 1. Indien voor de berekening van het totale risico van de benadering op basis van de aangegane verplichtingen wordt gebruikgemaakt, wordt deze benadering toegepast op alle posities in financiële derivaten, met inbegrip van derivaten die ingepast zijn in effecten of geldmarktinstrumenten, ongeacht of deze worden gebruikt als onderdeel van het algemene beleggingsbeleid van de icbe, ter vermindering van het risico, dan wel met het oog op een goed portefeuillebeheer.
 
@@ -566,7 +592,7 @@ Een beheerder berekent het totale risico van een door hem beheerde icbe overeenk
 
 6. Indien van de benadering op basis van de aangegane verplichtingen gebruik wordt gemaakt, hoeven kortlopende leningen die in naam van de icbe zijn aangegaan, niet in aanmerking te worden genomen bij de berekening van het totale risico indien wordt voldaan aan [artikel 133, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=133).
 
-#### Artikel 6:6
+##### Artikel 6:6
 
 1. Tegenpartijrisico dat voortvloeit uit een financieel derivaat dat niet op een gereglementeerde markt of een andere markt in financiële instrumenten wordt verhandeld wordt onderworpen aan de in [artikel 134 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=134) beschreven begrenzingen.
 
@@ -582,41 +608,41 @@ Een beheerder mag de derivatenposities van een icbe met eenzelfde tegenpartij ve
 
 6. Met betrekking tot het risico dat voortvloeit uit in [artikel 134, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=134) bedoelde transacties in financiële derivaten die niet op een gereglementeerde markt of een andere markt in financiële instrumenten worden verhandeld, neemt een beheerder elk aan die financiële derivaten verbonden tegenpartijrisico bij de berekening in aanmerking.
 
-#### Artikel 6:7
+##### Artikel 6:7
 
 1. Een beheerder van een beleggingsinstelling stelt een beloningsbeleid vast en voert dit uit met inachtneming van artikel 13, eerste lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen.
 
 2. Een beheerder van een icbe stelt een beloningsbeleid vast, en voert dit uit, met inachtneming van artikel 14 bis, eerste tot en met derde lid, en artikel 14 ter, eerste, derde en vierde lid, van de richtlijn instellingen voor collectieve belegging in effecten.
 
-#### Artikel 6:8
+##### Artikel 6:8
 
 Vervallen
 
-#### Artikel 6:9
+##### Artikel 6:9
 
 Vervallen
 
-#### Artikel 6:10
+##### Artikel 6:10
 
 Vervallen
 
 #### § 8.3. Niet opbouwende levensverzekering die een beleggingscomponent bevat
 
-#### Artikel 6:11
+##### Artikel 6:11
 
 Vervallen
 
-#### Artikel 6:12
+##### Artikel 6:12
 
 Vervallen
 
-#### Artikel 6:13
+##### Artikel 6:13
 
 Vervallen
 
 #### § 6.5. Regels met betrekking tot de bescherming van de rechten, financiële instrumenten of gelden van de cliënt
 
-#### Artikel 6:14
+##### Artikel 6:14
 
 1. Een beleggingsonderneming treft met betrekking tot de financiële instrumenten en gelden van cliënten een zodanige regeling dat de rechten van die cliënten voldoende beschermd zijn.
 
@@ -624,7 +650,7 @@ Vervallen
 
 3. In afwijking van het tweede lid kan een beleggingsonderneming financiële instrumenten van cliënten uitlenen, indien de cliënt hiervoor uitdrukkelijk schriftelijk toestemming verleent, de cliënt door de beleggingsonderneming gewezen is op de risico’s en door de beleggingsonderneming voldoende waarborgen voor de bescherming van de cliënt zijn getroffen.
 
-#### Artikel 6:15
+##### Artikel 6:15
 
 1. Een beleggingsonderneming, die de beleggingsdienst verleent als bedoeld in onderdeel a van de definitie van verlenen van beleggingsdiensten in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) of vermogensbeheer als bedoeld in onderdeel a van de definitie van vermogensbeheer in [artikel 6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=7&paragraaf=6.1&artikel=6:1&z=2016-03-18&g=2016-03-18), kan aan het vereiste bedoeld in [artikel 6:14](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=7&paragraaf=6.5&artikel=6:14&z=2016-03-18&g=2016-03-18) voldoen indien:
 
@@ -646,7 +672,7 @@ Vervallen
 
 3. Dit artikel is niet van toepassing op beleggingsondernemingen die voor de uitoefening van het bedrijf van bank een door de Nederlandsche Bank verleende vergunning hebben of voor de uitoefening van het bedrijf van financiële instelling een door de Nederlandsche Bank verleende verklaring van ondertoezichtstelling hebben.
 
-#### Artikel 6:16
+##### Artikel 6:16
 
 1. Een beleggingsonderneming die een beleggingsdienst verleent als bedoeld in onderdeel b of c van de definitie van verlenen van een beleggingsdienst in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), kan aan het vereiste, bedoeld in [artikel 6:14](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=7&paragraaf=6.5&artikel=6:14&z=2016-03-18&g=2016-03-18), voldoen door het sluiten van een overeenkomst met de cliënt, waarin tenminste is bepaald dat:
 
@@ -658,7 +684,7 @@ Vervallen
 
 2. Dit artikel is niet van toepassing op beleggingsondernemingen die voor de uitoefening van het bedrijf van bank een door de Nederlandsche Bank verleende vergunning hebben of voor de uitoefening van het bedrijf van financiële instelling een door de Nederlandsche Bank verleende verklaring van ondertoezichtstelling hebben.
 
-#### Artikel 6:17
+##### Artikel 6:17
 
 Een beleggingsonderneming die de beleggingsdienst verleent als bedoeld in onderdeel a van de definitie van verlenen van een beleggingsdienst in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) kan aan het vereiste, bedoeld in [artikel 6:14](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=7&paragraaf=6.5&artikel=6:14&z=2016-03-18&g=2016-03-18) voldoen, indien wordt voorzien in een regeling krachtens welke de in onderdeel d van de definitie van het verlenen van een beleggingsdienst in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) bedoelde rekening en de voor de cliënt aangehouden geldrekening worden beheerd door een beleggersgiro die voldoet aan de volgende voorwaarden:
 
@@ -692,7 +718,7 @@ Een beleggingsonderneming die de beleggingsdienst verleent als bedoeld in onderd
 
 - o. de beleggersgiro beschikt over een bedrag aan eigen vermogen van tenminste 125.000 euro;
 
-#### Artikel 6:18
+##### Artikel 6:18
 
 Een beleggingsonderneming die voor de uitoefening van het bedrijf van bank een door de Nederlandsche Bank verleende vergunning heeft, kan aan het vereiste, bedoeld in [artikel 6:14](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=7&paragraaf=6.5&artikel=6:14&z=2016-03-18&g=2016-03-18), voldoen door het sluiten van een overeenkomst met de cliënt, waarin tenminste is bepaald dat creditering of debitering van de bij de kredietinstelling aangehouden rekening in financiële instrumenten van de cliënt uitsluitend geschiedt tegen gelijktijdige debitering of creditering van het ingevolge de nota inzake financiële instrumenten te ontvangen of verschuldigde bedrag op de daarvoor bestemde geldrekening van de cliënt en:
 
@@ -724,7 +750,7 @@ Een beleggingsonderneming die voor de uitoefening van het bedrijf van bank een d
 
 - •. De bewaarinstelling richt de bedrijfsvoering zodanig in dat deze een beheerste en integere bedrijfsvoering van haar bedrijf waarborgt overeenkomstig de [artikelen 31eerste, tweede en derde](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=31), [31b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=31b), [35 eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=35) en [165 eerste lid onderdeel a tot en met c BGfo](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=165)
 
-#### Artikel 6:19
+##### Artikel 6:19
 
 1. Een beleggingsonderneming die door het sluiten van een lease-overeenkomst voor financiële instrumenten cliënten de mogelijkheid biedt financiële instrumenten te verkrijgen, kan aan het vereiste, bedoeld in [artikel 6:14](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=7&paragraaf=6.5&artikel=6:14&z=2016-03-18&g=2016-03-18), voldoen door te voorzien in een regeling krachtens welke de rechten van cliënten op grond van de lease-overeenkomst voor financiële instrumenten cliënten door middel van een eerste pandrecht van deze cliënten op de desbetreffende financiële instrumenten zijn gewaarborgd.
 
@@ -740,31 +766,31 @@ Een beleggingsonderneming die voor de uitoefening van het bedrijf van bank een d
 
 3. In geval van ontbinding van de lease-overeenkomst voor financiële instrumenten dient de rekenregel op grond waarvan de financiële rechten van de cliënt ten opzichte van de beleggingsonderneming worden bepaald, de rechten van de cliënt op grond van de lease-overeenkomst voor financiële instrumenten voldoende te beschermen.
 
-#### Artikel 6:20
+##### Artikel 6:20
 
 Teneinde te voldoen aan het vereiste, bedoeld in [artikel 6:14](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=7&paragraaf=6.5&artikel=6:14&z=2016-03-18&g=2016-03-18), kan de beleggingsonderneming andere regelingen treffen dan de regelingen als bedoeld in de [artikelen 6:15 tot en met 6:19](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=7&paragraaf=6.5&artikel=6:15&z=2016-03-18&g=2016-03-18). Deze andere regelingen behoeven de voorafgaande goedkeuring van de Autoriteit Financiële Markten.
 
 #### § 6.6. Regels met betrekking tot het vermijden van belangenconflicten tussen de beleggingsonderneming en haar cliënten en tussen haar cliënten onderling
 
-#### Artikel 6:21
+##### Artikel 6:21
 
 Vervallen
 
-#### Artikel 6:22
+##### Artikel 6:22
 
 Vervallen
 
-#### Artikel 6:23
+##### Artikel 6:23
 
 Vervallen
 
-#### Artikel 6:24
+##### Artikel 6:24
 
 Vervallen
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 7:1
+##### Artikel 7:1
 
 Voor de toepassing van de voorschriften van dit hoofdstuk wordt onderscheid gemaakt tussen een vermogensbeheerder die in het kader van het beheer van een individueel vermogen:
 
@@ -772,7 +798,7 @@ Voor de toepassing van de voorschriften van dit hoofdstuk wordt onderscheid gema
 
 - b. voor rekening van de cliënt transacties uitvoert of doet uitvoeren met betrekking tot financiële instrumenten.
 
-#### Artikel 7:2
+##### Artikel 7:2
 
 De bewaaradministratie betreffende financiële instrumenten van een beleggingsonderneming voldoet aan het bepaalde in [9.26 van bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=11&z=2023-04-01&g=2023-04-01).
 
@@ -1424,7 +1450,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 2.3. Regels met betrekking tot de presentatie en formulering van reclame-uitingen met betrekking tot complexe beleggingsproducten en derdepijlerpensioenproducten
 
-#### Artikel 2:5
+##### Artikel 2:5
 
 Indien in een reclame-uiting van een beheerder of beleggingsinstelling of icbe, waaronder lijfrentebeleggingsrechten werkelijke rendementscijfers worden gepresenteerd:
 
@@ -1592,7 +1618,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 2.4. Regels met betrekking tot de berekening van historische en toekomstige rendementen, kosten en risico’s
 
-#### Artikel 2:6
+##### Artikel 2:6
 
 1. Informatie over een toekomstig rendement als bedoeld in [artikel 52, vijfde of zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=52), wordt berekend conform één of meer scenario’s zoals beschreven in bijlage IV van de gedelegeerde verordening essentiële-informatiedocumenten. Indien slechts één scenario wordt getoond, dan is dit niet het gunstige scenario. Het is voor PRIIPs in categorie 3, als bedoeld in Bijlage II, deel I, onder 6 van de gedelegeerde verordening essentiële-informatiedocumenten, mogelijk om voor informatie die geïndividualiseerd is, af te wijken van de in bijlage IV van de gedelegeerde verordening essentiële-informatiedocumenten beschreven rekenmethode. De wijze waarop mag worden afgeweken van deze rekenmethode staat beschreven in [bijlage 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=14&z=2023-04-01&g=2023-04-01) bij deze regeling.
 
@@ -1726,7 +1752,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 7.1. Inleidende bepaling
 
-#### Artikel 4:1*
+##### Artikel 4:1*
 
 1. Een dienstverleningsdocument als bedoeld in [artikel 86f, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86f) wordt opgesteld overeenkomstig de [artikelen 4:2 tot en met 4:4](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=4&paragraaf=4.1&artikel=4:2&z=2013-07-02&g=2013-07-01) van dit hoofdstuk.
 
@@ -1742,7 +1768,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 7.2. Beheerste uitoefening van het bedrijf
 
-#### Artikel 4:2*
+##### Artikel 4:2*
 
 1. Een financiëledienstverlener stelt per dienstverleningsvraag een dienstverleningsdocument op dat is afgestemd op de gevraagde dienstverlening.
 
@@ -1776,11 +1802,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 6.3. Informatieverstrekking door een beleggingsonderneming
 
-#### Artikel 4:3
+##### Artikel 4:3
 
 Bij berekening van de beleggingsobjectkosten, bedoeld in [artikel 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=5&paragraaf=4.1&artikel=4:2&z=2016-03-18&g=2016-03-18), worden opbrengsten en andere voordelen op deze kosten niet in mindering gebracht.
 
-#### Artikel 4:4*
+##### Artikel 4:4*
 
 Een analyse van een toereikend aantal op de markt verkrijgbare vergelijkbare financiële producten als bedoeld in [artikel 86f, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86f) wordt berekend met behulp van de formule opgenomen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=7&z=2013-07-02&g=2013-07-01).
 
@@ -2034,7 +2060,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 5. Aanvullende regels betreffende het aanbieden van beleggingsobjecten
 
-#### Artikel 4:1
+##### Artikel 4:1
 
 1. Het beleggingsobjectprospectus bevat een samenvatting van de kerngegevens bestaande uit maximaal 1000 woorden. Deze samenvatting bevat ten minste de volgende gegevens:
 
@@ -2070,7 +2096,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. Indien het beleggingsobjectprospectus uit maximaal 7.500 woorden bestaat, is de samenvatting, bedoeld in het eerste lid, facultatief.
 
-#### Artikel 4:2
+##### Artikel 4:2
 
 1. Een beleggingsobjectprospectus wordt opgesteld overeenkomstig [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=6&z=2016-03-18&g=2016-03-18).
 
@@ -2084,7 +2110,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 6.4. Overige bepalingen met betrekking tot de zorgvuldige dienstverlening door een beleggingsonderneming
 
-#### Artikel 4:4
+##### Artikel 4:4
 
 1. De administratieve kosten, beheers-, productie- en verkoopkosten worden per serie van beleggingsobjecten per boekjaar in de toelichting op de jaarrekening verantwoord overeenkomstig de kruistabel van [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=8&z=2016-03-18&g=2016-03-18). Eventuele valutakoersverschillen dienen in de bedoelde kosten te worden verantwoord. De ingelegde gelden per serie van beleggingsobjecten per boekjaar, bedoeld in [artikel 67, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=67) worden separaat in de toelichting op de jaarrekening vermeld.
 
@@ -2378,7 +2404,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 8.1. Regels met betrekking tot activeren van cliënten
 
-#### Artikel 8:1
+##### Artikel 8:1
 
 De levensverzekeraar draagt zorg voor een adequate informatieverstrekking aan cliënten. Hieronder wordt in deze regeling verstaan dat:
 
@@ -2394,11 +2420,11 @@ De levensverzekeraar draagt zorg voor een adequate informatieverstrekking aan cl
 
 - c. de cliënt wordt gewezen op de urgentie om een weloverwogen keuze te maken met betrekking tot zijn levensverzekering die een beleggingscomponent bevat.
 
-#### Artikel 8:2
+##### Artikel 8:2
 
 Om te voldoen aan zijn inspanningsverplichting als bedoeld in [artikel 81b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=81b) vergewist de levensverzekeraar zich ervan dat de cliënt daadwerkelijk de consequenties van zijn keuze overziet.
 
-#### Artikel 8:3
+##### Artikel 8:3
 
 Een levensverzekeraar wordt geacht eveneens te hebben voldaan aan zijn inspanningsverplichting als bedoeld in [artikel 81b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=81b) ingeval de adviseur of bemiddelaar deze inspanningen heeft verricht en de levensverzekeraar in zijn cliëntdossier heeft vastgelegd:
 
@@ -2412,7 +2438,7 @@ Een levensverzekeraar wordt geacht eveneens te hebben voldaan aan zijn inspannin
 
 #### § 8.3. Niet opbouwende beleggingsverzekering
 
-#### Artikel 8:4
+##### Artikel 8:4
 
 1. Wanneer de cliënt niet kan worden bereikt of de cliënt geen weloverwogen keuze aan de levensverzekeraar kenbaar heeft gemaakt, heeft de levensverzekeraar desondanks voldaan aan zijn inspanningsverplichting als bedoeld in [artikel 81b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=81b), indien hij kan aantonen dat door hem of door de adviseur of bemiddelaar voldoende inspanningen zijn geleverd om de cliënt een weloverwogen keuze te kunnen laten maken. Daartoe toont de levensverzekeraar in ieder geval aan:
 
@@ -2428,7 +2454,7 @@ Een levensverzekeraar wordt geacht eveneens te hebben voldaan aan zijn inspannin
 
 #### § 8.3. Niet opbouwende beleggingsverzekering
 
-#### Artikel 8:5
+##### Artikel 8:5
 
 1. Voor cliënten met een niet opbouwende levensverzekering die een beleggingscomponent bevat geldt dat aan hen een passende oplossing moet worden geboden alvorens de levensverzekering die een beleggingscomponent bevat meetelt voor het in [Bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=13&z=2023-04-01&g=2023-04-01) vastgestelde vereiste resultaat.
 
@@ -2436,7 +2462,7 @@ Een levensverzekeraar wordt geacht eveneens te hebben voldaan aan zijn inspannin
 
 3. Met passende oplossing zoals vermeld in het eerste lid wordt bedoeld dat, indien de cliënt met een levensverzekering die een beleggingscomponent bevat als bedoeld in het tweede lid niet kan worden bereikt of de cliënt geen weloverwogen keuze kenbaar heeft gemaakt, de levensverzekeraar ervoor zorg draagt dat het niet opbouwende karakter van de levensverzekering die een beleggingscomponent bevat wordt weggenomen.
 
-#### Artikel 8:6
+##### Artikel 8:6
 
 1. De levensverzekeraar monitort zijn portefeuille eenmaal per jaar op een door hem gekozen meetmoment op cliënten die voor 1 januari 2013 een levensverzekering die een beleggingscomponent bevat hebben afgesloten waarvoor premie wordt betaald op de hiervoor vermelde datum, en waarbij eerst op dit jaarlijkse meetmoment naar voren komt dat de verwachte aangroei in vermogen tussen het meetmoment en einddatum, berekend op 4% per jaar overeenkomstig de Modellen De Ruiter, lager is dan door de cliënt naar verwachting nog in te leggen premies tussen het meetmoment en de einddatum.
 
@@ -2446,7 +2472,7 @@ Een levensverzekeraar wordt geacht eveneens te hebben voldaan aan zijn inspannin
 
 #### § 8.4. Vereist resultaat voor te activeren cliënten
 
-#### Artikel 8:7
+##### Artikel 8:7
 
 Ter uitvoering van het bepaalde in [artikel 81b, derde lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=81b), stelt de AFM een vereist resultaat vast voor verschillende categorieën beleggingsverzekeringen. Het vereiste resultaat en de daarbij behorende einddata zijn opgenomen in de in [Bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=13&z=2023-04-01&g=2023-04-01) weergeven tabel. Ten aanzien van het activeren van cliënten met een levensverzekering die een beleggingscomponent bevat wordt in het vereiste resultaat een onderscheid gemaakt in:
 
@@ -2468,7 +2494,7 @@ Ter uitvoering van het bepaalde in [artikel 81b, derde lid van het besluit](http
 
 - 2°. niet in de categorie levensverzekeringen die een beleggingscomponent bevatten vallen als bedoeld in sub d, onder 1°, en premiebetalend dan wel zijn gesloten op basis van een koopsom (rij 7 van de tabel in [Bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=13&z=2023-04-01&g=2023-04-01)).
 
-#### Artikel 8:8
+##### Artikel 8:8
 
 1. Een levensverzekeraar heeft voldaan aan zijn inspanningsverplichting als bedoeld in [artikel 81b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=81b) voor cliënten die in het bezit zijn van een levensverzekering die een beleggingscomponent bevat als bedoeld in [artikel 8:7, sub c, onder 3 en sub d, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.4&artikel=8:7&z=2023-04-01&g=2023-04-01), voor zover het levensverzekeringen die een beleggingscomponent bevatten betreft die onderdeel zijn van een levensloopregeling als bedoeld in de ‘[Wet aanpassing fiscale behandeling VUT- en prepensioenregelingen en introductie levensloopregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018053)’ en sub d onder 2, wanneer de levensverzekeraar kan aantonen dat hij deze cliënten de informatie als bedoeld in [artikel 8:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=8&paragraaf=8.1&artikel=8:1&z=2023-04-01&g=2023-04-01) heeft verstrekt.
 
@@ -2478,7 +2504,7 @@ Ter uitvoering van het bepaalde in [artikel 81b, derde lid van het besluit](http
 
 #### § 8.5. Regels met betrekking tot de vastlegging
 
-#### Artikel 8:9
+##### Artikel 8:9
 
 1. Een levensverzekeraar houdt voldoende gegevens bij over het in [artikel 81b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=81b) genoemde proces om de toezichthouder in staat te stellen na te gaan of de in artikel 81b van het besluit opgenomen verplichtingen door de levensverzekeraar worden nageleefd.
 
@@ -2872,17 +2898,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 7. Regels betreffende verlenen van beleggingsdiensten
 
-#### Artikel 7:3
+##### Artikel 7:3
 
 1. Een beleggingsonderneming houdt zich aan de in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&bijlage=12&z=2023-04-01&g=2023-04-01) opgenomen regels met betrekking tot reclame-uitingen.
 
 2. Het eerste lid is niet van toepassing indien het reclame-uitingen met betrekking tot complexe producten betreft.
 
-#### Artikel 7:14
+##### Artikel 7:14
 
 Vervallen
 
-#### Artikel 7:15
+##### Artikel 7:15
 
 1. Een beleggingsonderneming, die de beleggingsdienst verleent als bedoeld in onderdeel a van de definitie van verlenen van beleggingsdiensten in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) of vermogensbeheer als bedoeld in onderdeel a van de definitie van vermogensbeheer in [artikel 7:1](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=7&paragraaf=7.1&artikel=7:1&z=2023-04-01&g=2023-04-01), kan voldoen aan het vereiste dat zij adequate maatregelen treft ter bescherming van de rechten van cliënten op aan hen toebehorende gelden of financiële instrumenten en ter voorkoming van het ongeoorloofd gebruik daarvan als bedoeld in [artikel 4:87, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:87) indien:
 
@@ -2904,7 +2930,7 @@ Vervallen
 
 3. Dit artikel is niet van toepassing op beleggingsondernemingen die voor de uitoefening van het bedrijf van bank een door de Europese Centrale Bank of de Nederlandsche Bank verleende vergunning hebben of voor de uitoefening van het bedrijf van financiële instelling een door de Nederlandsche Bank verleende verklaring van ondertoezichtstelling hebben.
 
-#### Artikel 7:16
+##### Artikel 7:16
 
 1. Een beleggingsonderneming die een beleggingsdienst verleent als bedoeld in onderdeel b of c van de definitie van verlenen van een beleggingsdienst in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), kan voldoen aan het vereiste dat zij adequate maatregelen treft ter bescherming van de rechten van cliënten op aan hen toebehorende gelden of financiële instrumenten en ter voorkoming van het ongeoorloofd gebruik daarvan als bedoeld in [artikel 4:87, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:87) door het sluiten van een overeenkomst met de cliënt, waarin tenminste is bepaald dat:
 
@@ -2916,7 +2942,7 @@ Vervallen
 
 2. Dit artikel is niet van toepassing op beleggingsondernemingen die voor de uitoefening van het bedrijf van bank een door de Europese Centrale Bank of de Nederlandsche Bank verleende vergunning hebben of voor de uitoefening van het bedrijf van financiële instelling een door de Nederlandsche Bank verleende verklaring van ondertoezichtstelling hebben.
 
-#### Artikel 7:17
+##### Artikel 7:17
 
 1. Een beleggingsonderneming die een beleggingsdienst verleent als bedoeld in onderdeel a, b of c van de definitie van het verlenen van een beleggingsdienst in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) kan voldoen aan het vereiste dat zij adequate maatregelen treft ter bescherming van de rechten van cliënten op aan hen toebehorende gelden of financiële instrumenten en ter voorkoming van het ongeoorloofd gebruik daarvan als bedoeld in [artikel 4:87, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:87) door het sluiten van een schriftelijke overeenkomst met een cliënt, waarin tenminste is bepaald dat:
 
@@ -2960,7 +2986,7 @@ Vervallen
 
 3. Het eerste lid, onderdeel b, is niet van toepassing op beleggingsondernemingen die voor de uitoefening van het bedrijf van bank een door de Europese Centrale Bank of een door de Nederlandsche Bank verleende vergunning hebben, of voor de uitoefening van het bedrijf van financiële instelling een door de Nederlandsche Bank op grond van het [Deel prudentieel toezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3) verleende verklaring van ondertoezichtstelling hebben.
 
-#### Artikel 7:18
+##### Artikel 7:18
 
 1. Een beleggingsonderneming die voor de uitoefening van het bedrijf van bank een door de Europese Centrale Bank of een door de Nederlandsche Bank verleende vergunning heeft, of voor de uitoefening van het bedrijf van financiële instelling een door de Nederlandsche Bank verleende verklaring van ondertoezichtstelling heeft, kan voldoen aan het vereiste dat zij adequate maatregelen treft ter bescherming van de rechten van cliënten op aan hen toebehorende gelden of financiële instrumenten en ter voorkoming van het ongeoorloofd gebruik daarvan als bedoeld in [artikel 4:87, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:87) door het sluiten van een overeenkomst met een cliënt, waarin tenminste is bepaald dat:
 
@@ -2996,7 +3022,7 @@ Vervallen
 
 - j. de bewaarinstelling beschikt over een bedrag aan eigen vermogen van ten minste 125.000 euro.
 
-#### Artikel 7:19
+##### Artikel 7:19
 
 1. Een beleggingsonderneming die door het sluiten van een lease-overeenkomst voor financiële instrumenten cliënten de mogelijkheid biedt financiële instrumenten te verkrijgen, kan voldoen aan het vereiste dat zij adequate maatregelen treft ter bescherming van de rechten van cliënten op aan hen toebehorende gelden of financiële instrumenten en ter voorkoming van het ongeoorloofd gebruik daarvan als bedoeld in [artikel 4:87, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:87) door te voorzien in een regeling krachtens welke de rechten van cliënten op grond van de lease-overeenkomst voor financiële instrumenten cliënten door middel van een eerste pandrecht van deze cliënten op de desbetreffende financiële instrumenten zijn gewaarborgd.
 
@@ -3012,7 +3038,7 @@ Vervallen
 
 3. In geval van ontbinding van de lease-overeenkomst voor financiële instrumenten dient de rekenregel op grond waarvan de financiële rechten van de cliënt ten opzichte van de beleggingsonderneming worden bepaald, de rechten van de cliënt op grond van de lease-overeenkomst voor financiële instrumenten voldoende te beschermen.
 
-#### Artikel 7:20
+##### Artikel 7:20
 
 Teneinde te voldoen aan het vereiste dat zij adequate maatregelen treft ter bescherming van de rechten van cliënten op aan hen toebehorende gelden of financiële instrumenten en ter voorkoming van het ongeoorloofd gebruik daarvan als bedoeld in [artikel 4:87, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:87), kan de beleggingsonderneming andere regelingen treffen dan de regelingen als bedoeld in [artikel 4:87aa, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:87aa), en de [artikelen 7:15 tot en met 7:19](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=7&paragraaf=6.5&artikel=7:15&z=2023-04-01&g=2023-04-01). Deze andere regelingen behoeven de voorafgaande goedkeuring van de Autoriteit Financiële Markten.
 
@@ -3026,11 +3052,11 @@ Teneinde te voldoen aan het vereiste dat zij adequate maatregelen treft ter besc
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 9:1. Inwerkingtreding
+##### Artikel 9:1. Inwerkingtreding
 
 Deze regeling treedt in werking op het tijdstip waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in werking treedt.
 
-#### Artikel 9:2. Citeertitel
+##### Artikel 9:2. Citeertitel
 
 Deze regeling wordt aangehaald als: Nadere regeling gedragstoezicht financiële ondernemingen Wft.
 
@@ -3244,7 +3270,7 @@ Vervallen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2:3a
+##### Artikel 2:3a
 
 1. De risico-indicator, bedoeld in [artikel 2:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020540&hoofdstuk=2&paragraaf=2.3&artikel=2:3&z=2023-04-01&g=2023-04-01), voor schriftelijke reclame-uitingen anders dan via internet, wordt rechtsboven in de reclame-uiting in de kleur zwart of rood weergegeven. Voor uitingen met een oppervlakte kleiner of gelijk aan A4, heeft de risico-indicator een minimale diameter van vier centimeter. Voor uitingen met een oppervlakte groter dan A4, heeft de risico-indicator een oppervlakte van minimaal vijf procent van de totale oppervlakte van de reclame-uiting.
 

@@ -1,20 +1,48 @@
 ---
-title: "Wet financiering politieke partijen"
+title: "Wet van 7 maart 2013, houdende regels inzake de subsidiëring en het toezicht op de financiën van politieke partijen (Wet financiering politieke partijen)"
 identifier: "BWBR0033004"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2025-11-07
-laatste_update: 2025-11-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033004"
+country: "nl"
+rank: "wet"
+publication_date: "2025-11-07"
+last_updated: "2025-11-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033004"
+soort: "wet"
+stam_id: "12135603"
+version_id: "28987112"
+internal_id: "C41038891"
+label_id: "12107644"
+dtd_version: "2.0"
+original_entry_into_force: "2022-10-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033004/2025-11-07/0"
+intitule_bron: "Stb.2013-93"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-03-07"
+intitule_published: "2013-03-15"
+intitule_in_force: "2013-04-11"
+intitule_status: "goed"
+original_publication: "Stb.2022-412"
+original_signed_date: "2022-10-19"
+original_published_date: "2022-10-27"
+original_effect: "structuurwijziging"
+original_dossier: "35657"
+original_url_id: "stb-2022-412"
+entry_into_force_date: "2022-10-19"
+entry_into_force_dossier: "35657"
+jci_1_3: "jci1.3:c:BWBR0033004&z=2025-11-07&g=2025-11-07"
+jci_1_0: "1.0:c:BWBR0033004&g=2025-11-07"
+citeertitel_status: "officieel"
+short_title: "Wet financiering politieke partijen"
+signed_date: "2022-10-19"
+entry_into_force: "2022-10-19"
 ---
-
-# Wet financiering politieke partijen
-
-#### § 1. Algemene bepalingen
+# Wet van 7 maart 2013, houdende regels inzake de subsidiëring en het toezicht op de financiën van politieke partijen (Wet financiering politieke partijen)
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 7
+#### § 1. Algemene bepalingen
+
+##### Artikel 7
 
 1. Onze Minister verstrekt na een daartoe strekkende aanvraag subsidie aan een politieke partij indien die partij op de peildatum beschikt over 1 000 leden die vergader- en stemrechten hebben in de politieke partij en elk per jaar minimaal € 12 contributie betalen. Het lidmaatschap blijkt uit een uitdrukkelijke wilsverklaring van betrokkene.
 
@@ -40,7 +68,7 @@ bron: "https://wetten.overheid.nl/BWBR0033004"
 
 3. De subsidie wordt per kalenderjaar verstrekt.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De subsidie bedraagt ten hoogste de som van de volgende bedragen:
 
@@ -58,7 +86,7 @@ bron: "https://wetten.overheid.nl/BWBR0033004"
 
 4. De bedragen, genoemd in het eerste en tweede lid, worden jaarlijks met ingang van 1 januari bij ministeriële regeling gewijzigd, overeenkomstig de voor de rijksbegroting gehanteerde loon- en prijsbijstelling en afgerond op het naastbij gelegen gehele getal.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De subsidie, bedoeld in [artikel 8, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=2&artikel=8&z=2025-11-07&g=2025-11-07), wordt slechts verstrekt voor die uitgaven van het aangewezen politiek-wetenschappelijk instituut, die zijn gericht op politiek-wetenschappelijke activiteiten met als voorwaarde dat de politieke partij ten minste het ten behoeve van het politiek-wetenschappelijk instituut verstrekte bedrag betaalt aan het politiek-wetenschappelijk instituut.
 
@@ -68,13 +96,13 @@ bron: "https://wetten.overheid.nl/BWBR0033004"
 
 4. Aan de betaling, bedoeld in het eerste tot en met derde lid, verbindt de politieke partij geen andere voorwaarden dan die welke voortvloeien uit de toepassing van deze wet.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien politieke partijen bij de laatstgehouden verkiezing van de Eerste of Tweede Kamer der Staten-Generaal een samenvoeging van hun geregistreerde aanduidingen of afkortingen daarvan boven de kandidatenlijst hebben geplaatst, gelden in afwijking van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=2&artikel=8&z=2025-11-07&g=2025-11-07), de basisbedragen, genoemd in dat lid, voor deze partijen gezamenlijk en worden deze bedragen verdeeld naar evenredigheid van hun kamerzetels. Voor de vaststelling van het aantal kamerzetels van de betrokken politieke partijen, wordt uitgegaan van een daartoe strekkende verklaring van de betrokken politieke partijen. Bij gebreke van een zodanige verklaring, worden de basisbedragen verdeeld naar evenredigheid van het aantal betrokken partijen.
 
 2. De verdeling van het basisbedrag voor het politiek-wetenschappelijk instituut, bedoeld in [artikel 8, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=2&artikel=8&z=2025-11-07&g=2025-11-07), vindt slechts plaats voor zover de politieke partijen een politiek-wetenschappelijk instituut hebben aangewezen. De verdeling van het basisbedrag voor een instelling voor buitenlandse activiteiten als bedoeld in artikel 8, eerste lid, onder d, vindt slechts plaats voor zover de politieke partijen een instelling voor buitenlandse activiteiten hebben aangewezen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De aanvraag tot verlening van de subsidie en een voorschot op deze subsidie voor een kalenderjaar worden voor 1 november van het voorafgaande jaar bij Onze Minister ingediend.
 
@@ -90,7 +118,7 @@ bron: "https://wetten.overheid.nl/BWBR0033004"
 
 7. De [artikelen 4:37](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:37) en [4:40 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:40) zijn niet van toepassing.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De aanvraag tot vaststelling van de subsidie voor een kalenderjaar wordt vóór 1 juli van het volgende kalenderjaar ingediend bij Onze Minister, tezamen met het financieel verslag, bedoeld in de [artikelen 25, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=25&z=2025-11-07&g=2025-11-07), en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=26&z=2025-11-07&g=2025-11-07), en het activiteitenverslag, bedoeld in artikel 26, onder e.
 
@@ -100,7 +128,7 @@ bron: "https://wetten.overheid.nl/BWBR0033004"
 
 4. Indien bij de vaststelling de accountantsverklaring omtrent de juistheid van de opgegeven ledentallen, bedoeld in [artikel 26, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=26&z=2025-11-07&g=2025-11-07), ontbreekt, vervallen voor deze partij de op deze ledentallen gebaseerde bedragen per lid, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=2&artikel=8&z=2025-11-07&g=2025-11-07).
 
-#### Artikel 13
+##### Artikel 13
 
 1. Indien een verkiezing van de Eerste of Tweede Kamer der Staten-Generaal voor een politieke partij leidt tot een toename van het aantal kamerzetels waarop de subsidie is gebaseerd, past Onze Minister de subsidie die aan de politieke partij is verleend gedurende één kalenderjaar ambtshalve aan op de eerste dag van ieder kwartaal dat volgt op het kwartaal waarin de stemming plaatsvond.
 
@@ -108,7 +136,7 @@ bron: "https://wetten.overheid.nl/BWBR0033004"
 
 3. Bij de toepassing van het eerste en tweede lid blijven de op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=2&artikel=8&z=2025-11-07&g=2025-11-07) berekende bedragen ongewijzigd.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Indien een verkiezing van de Eerste of Tweede Kamer der Staten-Generaal er toe leidt dat een politieke partij die subsidie ontvangt geen of minder kamerzetels krijgt toegewezen, past Onze Minister de subsidie die aan de politieke partij is verleend gedurende één kalenderjaar ambtshalve aan op de eerste dag van ieder kwartaal dat volgt op het kwartaal waarin de stemming plaatsvond.
 
@@ -116,7 +144,7 @@ bron: "https://wetten.overheid.nl/BWBR0033004"
 
 3. Bij de toepassing van het eerste en tweede lid blijven de op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=2&artikel=8&z=2025-11-07&g=2025-11-07) berekende bedragen ongewijzigd.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Indien een verkiezing van de Eerste of Tweede Kamer der Staten-Generaal er toe leidt dat aan de lijst van een politieke partij waaraan bij de voorgaande verkiezingen geen zetels waren toegewezen, één of meer kamerzetels worden toegewezen, komt deze partij voor subsidie in aanmerking met ingang van de eerste dag van de derde kalendermaand, voorafgaand aan de maand waarin de stemming plaatsvond. Voor die politieke partij geldt, in afwijking van [artikel 1, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=1&artikel=1&z=2025-11-07&g=2025-11-07), de eerste dag van de kalendermaand die volgt op de maand waarin de stemming plaatsvond, als peildatum.
 
@@ -126,21 +154,21 @@ bron: "https://wetten.overheid.nl/BWBR0033004"
 
 4. Een op grond van dit artikel verleende subsidie kan mede worden aangewend voor de uitgaven, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=2&artikel=7&z=2025-11-07&g=2025-11-07) die samenhangen met activiteiten die plaatsvonden in de periode die aanvangt op de eerste dag van de zesde maand voorafgaande aan de maand waarin de stemming plaatsvond.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Indien een fractie van een politieke partij in de Tweede Kamer der Staten-Generaal wordt gesplitst en een nieuwe fractie die als gevolg hiervan is ontstaan, verbonden is met een vereniging waarvan de aanduiding op grond van [artikel G 1 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_1) is geregistreerd in het register van aanduidingen voor de verkiezing van leden van de Tweede Kamer der Staten-Generaal, wordt deze vereniging aangemerkt als politieke partij als bedoeld in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=1&artikel=1&z=2025-11-07&g=2025-11-07). De verbondenheid met de politieke partij dient te blijken uit een gezamenlijke verklaring van de nieuwe fractie en de partij.
 
 2. Indien alle leden van een fractie een nieuwe fractie vormen, wordt dit voor de toepassing van dit artikel gelijkgesteld met een splitsing van een fractie.
 
-#### Artikel 17
+##### Artikel 17
 
 [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=2&artikel=16&z=2025-11-07&g=2025-11-07) is van overeenkomstige toepassing indien een fractie van een politieke partij in de Eerste Kamer der Staten-Generaal wordt gesplitst.
 
-#### Artikel 18
+##### Artikel 18
 
 Indien twee of meer politieke partijen die subsidie ontvangen worden samengevoegd tot een nieuwe vereniging, komt deze nieuwe vereniging als politieke partij met ingang van het volgende kalenderjaar voor subsidie in aanmerking, dit onder gelijktijdige intrekking van de subsidie die is toegekend aan de partijen die zijn samengevoegd.
 
-#### Artikel 19
+##### Artikel 19
 
 Onze Minister zendt ieder jaar aan de Staten-Generaal een overzicht van de subsidies die aan de politieke partijen zijn verstrekt. Een verslag als bedoeld in [artikel 4:24 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:24) kan achterwege blijven.
 
@@ -162,7 +190,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is regels te stellen ov
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -192,13 +220,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - m. **Nederlandse gever:** een voor de verkiezing van de leden van de Tweede Kamer kiesgerechtigde persoon of een in het Handelsregister ingeschreven rechtspersoon of onderneming, die een bijdrage verleent aan een politieke partij.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een politieke partij kan één politiek-wetenschappelijk instituut aanwijzen als neveninstelling. Een politiek-wetenschappelijk instituut kan slechts door één politieke partij zijn aangewezen en het instituut dient schriftelijk met de aanwijzing in te stemmen. De partij stelt Onze Minister schriftelijk in kennis van de aanwijzing en van de instemming van het instituut.
 
 2. Om een politiek-wetenschappelijk instituut als neveninstelling aan te wijzen is vereist dat het instituut een rechtspersoon is die uitsluitend of in hoofdzaak politiek-wetenschappelijke activiteiten ten behoeve van de politieke partij verricht.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een politieke partij kan één politieke jongerenorganisatie aanwijzen als neveninstelling. Een politieke jongerenorganisatie kan slechts door één politieke partij zijn aangewezen en de jongerenorganisatie dient schriftelijk met de aanwijzing in te stemmen. De partij stelt Onze Minister schriftelijk in kennis van de aanwijzing en van de instemming van de jongerenorganisatie, bedoeld in het tweede lid, onder d.
 
@@ -214,13 +242,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Het lidmaatschap blijkt uit een uitdrukkelijke wilsverklaring van betrokkene.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een politieke partij kan één instelling voor buitenlandse activiteiten aanwijzen als neveninstelling. Een instelling voor buitenlandse activiteiten kan slechts door één politieke partij zijn aangewezen en de instelling dient schriftelijk met de aanwijzing in te stemmen. De partij stelt Onze Minister schriftelijk in kennis van de aanwijzing en de instemming van de instelling.
 
 2. Om een instelling voor buitenlandse activiteiten als neveninstelling aan te wijzen is vereist dat het een rechtspersoon is die uitsluitend of in hoofdzaak activiteiten verricht ter ondersteuning van zusterpartijen en -organisaties buiten Nederland bij vormings- en scholingsactiviteiten.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien een rechtspersoon uitsluitend of in hoofdzaak erop is gericht stelselmatig of structureel ten bate van een politieke partij of een op de kandidatenlijst van een politieke partij geplaatste kandidaat activiteiten of werkzaamheden te verrichten en de partij of de kandidaat daar kennelijk voordeel bij heeft, wijst de partij deze rechtspersoon aan als neveninstelling.
 
@@ -228,7 +256,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Indien ten aanzien van een rechtspersoon als bedoeld in het eerste lid ten onrechte geen aanwijzing heeft plaatsgevonden, wijst Onze Minister de rechtspersoon als neveninstelling aan. Onze Minister stelt de rechtspersoon en de politieke partij in de gelegenheid te worden gehoord alvorens tot aanwijzing te besluiten.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien van een politieke partij een andere politieke groepering lid is, worden de leden van deze politieke groepering aangemerkt als leden van deze politieke partij, voor zover deze politieke groepering:
 
@@ -246,7 +274,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 3. Administratie, openbaarmaking en beperking bijdragen
 
-#### Artikel 20
+##### Artikel 20
 
 1. Een politieke partij voert een zodanige administratie dat deze een betrouwbaar beeld geeft van de financiële positie van de partij, door het opnemen van:
 
@@ -262,7 +290,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 2. De administratie en de daartoe behorende bescheiden worden gedurende tien jaren door de politieke partij bewaard.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Een politieke partij registreert van ontvangen bijdragen:
 
@@ -286,7 +314,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Bij ministeriele regeling kunnen nadere regels worden gesteld over de op grond van het derde lid te registreren gegevens.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Als waarde van een bijdrage in natura geldt het verschil tussen de gebruikelijke waarde van het geleverde in het economisch verkeer en de waarde van de tegenprestatie.
 
@@ -294,17 +322,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Bij of krachtens algemene maatregel van bestuur kan worden bepaald welke zaken of diensten in ieder geval als bijdrage in natura worden aangemerkt en kunnen regels worden gesteld over de wijze waarop bijdragen in natura financieel gewaardeerd worden.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Indien een politieke partij een anonieme geldelijke bijdrage van meer dan € 250 ontvangt, maakt zij het gedeelte dat het bedrag van € 250 te boven gaat, over op de daartoe aangewezen rekening van Onze Minister. Indien een politieke partij een anonieme bijdrage in natura van meer dan € 250 ontvangt, maakt zij het gedeelte van de tegenwaarde dat het bedrag van € 250 te boven gaat over aan Onze Minister, dan wel vernietigt zij de bijdrage.
 
 2. Een op grond van het eerste lid overgemaakte geldelijke bijdrage of tegenwaarde van een bijdrage in natura komt toe aan de Staat.
 
-#### Artikel 24
+##### Artikel 24
 
 De [artikelen 20 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=20&z=2025-11-07&g=2025-11-07) zijn niet van toepassing op afdelingen van een politieke partij.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Voor 1 juli van elk kalenderjaar zendt een politieke partij aan Onze Minister:
 
@@ -328,7 +356,7 @@ De [artikelen 20 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&
 
 6. Op de bij Onze Minister berustende informatie inzake bijdragen aan politieke partijen is de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) niet van toepassing.
 
-#### Artikel 26
+##### Artikel 26
 
 Indien aan een politieke partij subsidie is verstrekt, geldt dat:
 
@@ -348,7 +376,7 @@ Indien aan een politieke partij subsidie is verstrekt, geldt dat:
 
 - h. de accountantsverklaring, bedoeld in [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=25&z=2025-11-07&g=2025-11-07), tevens de naleving van de aan de subsidie verbonden verplichtingen en de juistheid van opgegeven ledentallen van de politieke partij en, indien van toepassing, van de aangewezen politieke jongerenorganisatie betreft.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Bij ministeriële regeling kunnen eisen worden gesteld aan de inrichting van het financieel verslag, het activiteitenverslag, de opgave van de ledentallen van de politieke partij en van de aangewezen politieke jongerenorganisatie en aan de in de [artikelen 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=25&z=2025-11-07&g=2025-11-07), en [25a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=25a&z=2025-11-07&g=2025-11-07), genoemde overzichten.
 
@@ -360,7 +388,7 @@ Indien aan een politieke partij subsidie is verstrekt, geldt dat:
 
 5. Het derde en vierde lid zijn van overeenkomstige toepassing op onderzoeken door de Algemene Rekenkamer.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Onverminderd [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=25&z=2025-11-07&g=2025-11-07) verstrekt een politieke partij die deelneemt aan een verkiezing van de Tweede Kamer der Staten-Generaal tussen de eenentwintigste en de veertiende dag voor de dag van de stemming voor deze verkiezing aan Onze Minister per kalenderjaar een overzicht van:
 
@@ -374,7 +402,7 @@ Indien aan een politieke partij subsidie is verstrekt, geldt dat:
 
 3. Onze Minister maakt het overzicht zo spoedig mogelijk, doch uiterlijk op de zevende dag voor de dag van de stemming, openbaar. Van de gegevens over het adres van een natuurlijke persoon of een uiteindelijk belanghebbende, wordt uitsluitend de woonplaats openbaar gemaakt. Op verzoek van een politieke partij blijft in het overzicht, genoemd in het eerste lid, onder a en c, openbaarmaking van de gegevens over de naam en de woonplaats van de gever, zijnde een natuurlijke persoon of een uiteindelijk belanghebbende, achterwege, indien dit naar het oordeel van Onze Minister gelet op het belang van de veiligheid van die persoon of belanghebbende is aangewezen. [Artikel 25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=25&z=2025-11-07&g=2025-11-07), is van overeenkomstige toepassing. Persoonsgegevens die in het overzicht voorkomen, worden door Onze Minister maximaal tien jaar bewaard.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Indien een kandidaat geplaatst op een kandidatenlijst van een politieke partij die deelneemt aan een verkiezing van de Tweede Kamer der Staten-Generaal van een gever in een kalenderjaar bijdragen heeft ontvangen van in totaal € 1.000 of meer, verstrekt de partij tussen de eenentwintigste en de veertiende dag voor de dag van de stemming voor deze verkiezing aan Onze Minister een overzicht van deze bijdragen, met daarbij de gegevens, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=21&z=2025-11-07&g=2025-11-07). Op bijdragen aan een kandidaat zijn de [artikelen 21a](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=21a&z=2025-11-07&g=2025-11-07), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=23&z=2025-11-07&g=2025-11-07) en [23a](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=23a&z=2025-11-07&g=2025-11-07) van overeenkomstige toepassing.
 
@@ -392,7 +420,7 @@ Indien aan een politieke partij subsidie is verstrekt, geldt dat:
 
 #### § 4. Verbrede toepassing
 
-#### Artikel 30
+##### Artikel 30
 
 1. Op een neveninstelling van een politieke partij zijn de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=21&z=2025-11-07&g=2025-11-07), [21a](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=21a&z=2025-11-07&g=2025-11-07), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=23&z=2025-11-07&g=2025-11-07), [23a](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=23a&z=2025-11-07&g=2025-11-07), [25a](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=25a&z=2025-11-07&g=2025-11-07), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=28&z=2025-11-07&g=2025-11-07) en [28a](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=28a&z=2025-11-07&g=2025-11-07) van overeenkomstige toepassing.
 
@@ -410,7 +438,7 @@ Indien aan een politieke partij subsidie is verstrekt, geldt dat:
 
 5. Onze Minister maakt het overzicht openbaar. Van de gegevens over het adres van een natuurlijke persoon of een uiteindelijk belanghebbende, wordt uitsluitend de woonplaats openbaar gemaakt. Op verzoek van een politieke partij blijft in het overzicht, genoemd in het tweede lid, onder a, openbaarmaking van de gegevens over de naam en de woonplaats van de gever, zijnde een natuurlijke persoon of een uiteindelijk belanghebbende, achterwege, indien dit naar het oordeel van Onze Minister gelet op het belang van de veiligheid van die persoon of belanghebbende is aangewezen. [Artikel 25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=25&z=2025-11-07&g=2025-11-07), is van overeenkomstige toepassing. Persoonsgegevens die in het overzicht voorkomen, worden door Onze Minister maximaal tien jaar bewaard.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Indien een vereniging waarvan de aanduiding op grond van [artikel G 1 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_1) is geregistreerd in het register van aanduidingen voor de verkiezing van leden van de Tweede Kamer der Staten-Generaal deelneemt aan een verkiezing van de Tweede Kamer der Staten-Generaal, terwijl aan die vereniging bij de laatst gehouden verkiezingen geen kamerzetels zijn toegewezen, zijn op deze vereniging in de periode die aanvangt op 1 januari van het tweede kalenderjaar voor het jaar waarin de kandidaatstelling voor deze verkiezing plaatsvindt en eindigt op de dag van stemming, de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=21&z=2025-11-07&g=2025-11-07), [21a](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=21a&z=2025-11-07&g=2025-11-07), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=23&z=2025-11-07&g=2025-11-07), [23a](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=23a&z=2025-11-07&g=2025-11-07), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=28&z=2025-11-07&g=2025-11-07) en [29b](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3a&artikel=29b&z=2025-11-07&g=2025-11-07) van overeenkomstige toepassing.
 
@@ -418,7 +446,7 @@ Indien aan een politieke partij subsidie is verstrekt, geldt dat:
 
 3. De vereniging verstrekt het overzicht aan Onze Minister.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Indien een kandidaat, die deelneemt aan een verkiezing van de Tweede Kamer der Staten-Generaal zonder dat boven de kandidatenlijst waarop hij is geplaatst de aanduiding van een politieke partij is geplaatst, van een gever in een kalenderjaar bijdragen heeft ontvangen van in totaal € 1.000 of meer, verstrekt de kandidaat die als eerste op de lijst is geplaatst tussen de eenentwintigste en de veertiende dag voor de dag van de stemming voor deze verkiezing aan Onze Minister een overzicht van deze bijdragen, met daarbij de gegevens, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=21&z=2025-11-07&g=2025-11-07). Op bijdragen aan een kandidaat zijn de [artikelen 21a](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=21a&z=2025-11-07&g=2025-11-07), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=23&z=2025-11-07&g=2025-11-07) en [23a](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=23a&z=2025-11-07&g=2025-11-07) van overeenkomstige toepassing.
 
@@ -430,13 +458,13 @@ Indien aan een politieke partij subsidie is verstrekt, geldt dat:
 
 5. Indien dit artikel een deel van het kalenderjaar op een kandidaat van toepassing is, geldt het bedrag, genoemd in het eerste lid, naar rato.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Indien een fractie van een politieke partij in de Tweede Kamer der Staten-Generaal wordt gesplitst en de nieuwe fractie die als gevolg hiervan is ontstaan, blijkens de in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=2&artikel=16&z=2025-11-07&g=2025-11-07), bedoelde gezamenlijke verklaring, met een vereniging als bedoeld in dat artikel is verbonden, zijn op deze vereniging als politieke partij met ingang van het eerste kalenderjaar na het jaar waarin de splitsing heeft plaatsgevonden, de [paragrafen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&z=2025-11-07&g=2025-11-07), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=4&z=2025-11-07&g=2025-11-07) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=5&z=2025-11-07&g=2025-11-07)van overeenkomstige toepassing.
 
 2. Het eerste lid is van overeenkomstige toepassing indien een fractie in de Eerste Kamer der Staten-Generaal wordt gesplitst en de nieuwe fractie die als gevolg hiervan is ontstaan, met toepassing van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=2&artikel=17&z=2025-11-07&g=2025-11-07) verbonden is met een vereniging als bedoeld in dat artikel.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Een vereniging, die op grond van [artikel G 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_1), [G 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_2), [G 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_3) of [Q 6 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Q_6), of een vereniging of stichting, die op grond van [artikel G 2a van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_2a), met haar geregistreerde aanduiding boven de kandidatenlijst heeft deelgenomen aan de laatstgehouden verkiezing van de Tweede Kamer der Staten-Generaal, de Eerste Kamer der Staten-Generaal, provinciale staten, de gemeenteraad, of het algemeen bestuur van een waterschap, waarbij aan die lijst ten minste een zetel in het orgaan waarvoor de verkiezingen plaatsvonden is toegewezen, en die geen afdeling is van een politieke partij, stelt een giftenreglement op, waarin zij bepaalt hoe zij omgaat met bijdragen en de openbaarmaking daarvan. Het giftenreglement is openbaar.
 
@@ -444,7 +472,7 @@ Indien aan een politieke partij subsidie is verstrekt, geldt dat:
 
 #### § 3a. Maximering gecombineerde bijdragen
 
-#### Artikel 35
+##### Artikel 35
 
 1. Er is een Commissie toezicht financiën politieke partijen, hierna te noemen: de commissie.
 
@@ -492,7 +520,7 @@ Indien aan een politieke partij subsidie is verstrekt, geldt dat:
 
 #### § 4. Verbrede toepassing
 
-#### Artikel 36
+##### Artikel 36
 
 1. Met het toezicht op de naleving van het bij of krachtens de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=20&z=2025-11-07&g=2025-11-07), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=21&z=2025-11-07&g=2025-11-07), [21a](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=21a&z=2025-11-07&g=2025-11-07), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=23&z=2025-11-07&g=2025-11-07), [23a](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=23a&z=2025-11-07&g=2025-11-07), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=25&z=2025-11-07&g=2025-11-07), [25a](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=25a&z=2025-11-07&g=2025-11-07), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=26&z=2025-11-07&g=2025-11-07), [27, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=27&z=2025-11-07&g=2025-11-07), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=28&z=2025-11-07&g=2025-11-07), [28a](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=28a&z=2025-11-07&g=2025-11-07), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=29&z=2025-11-07&g=2025-11-07), [29b](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3a&artikel=29b&z=2025-11-07&g=2025-11-07), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=4&artikel=30&z=2025-11-07&g=2025-11-07), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=4&artikel=31&z=2025-11-07&g=2025-11-07), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=4&artikel=32&z=2025-11-07&g=2025-11-07), [32a](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=4&artikel=32a&z=2025-11-07&g=2025-11-07) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=4&artikel=33&z=2025-11-07&g=2025-11-07) bepaalde, zijn belast de bij besluit van Onze Minister aangewezen personen.
 
@@ -500,7 +528,7 @@ Indien aan een politieke partij subsidie is verstrekt, geldt dat:
 
 3. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Onze Minister kan besluiten tot het opleggen van een bestuurlijke boete wegens handelen of nalaten in strijd met het bepaalde bij of krachtens de [artikelen 20, eerste lid, aanhef en onder b en e](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=20&z=2025-11-07&g=2025-11-07), [21, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=21&z=2025-11-07&g=2025-11-07), [21a](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=21&z=2025-11-07&g=2025-11-07), [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=23&z=2025-11-07&g=2025-11-07), [23a, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=23a&z=2025-11-07&g=2025-11-07), [25, eerste lid, aanhef en onder a, b, c en d, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=25&z=2025-11-07&g=2025-11-07), [25a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=25a&z=2025-11-07&g=2025-11-07), [27, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=27&z=2025-11-07&g=2025-11-07), [28, eerste lid, aanhef en onder a en b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=28&z=2025-11-07&g=2025-11-07), [28a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=28a&z=2025-11-07&g=2025-11-07), [29, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=29&z=2025-11-07&g=2025-11-07), [29b](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3a&artikel=29b&z=2025-11-07&g=2025-11-07), [30, eerste en tweede lid, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=4&artikel=30&z=2025-11-07&g=2025-11-07), [31, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=4&artikel=31&z=2025-11-07&g=2025-11-07), [32, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=4&artikel=32&z=2025-11-07&g=2025-11-07), [32a](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=4&artikel=32&z=2025-11-07&g=2025-11-07) en [33, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=4&artikel=33&z=2025-11-07&g=2025-11-07).
 
@@ -522,11 +550,11 @@ Indien aan een politieke partij subsidie is verstrekt, geldt dat:
 
 10. Indien een politieke partij aan een neveninstelling op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=2&artikel=11&z=2025-11-07&g=2025-11-07) een bedrag betaalt, kan Onze Minister een aan de neveninstelling opgelegde boete verrekenen met de subsidie die de partij ten behoeve van die neveninstelling ontvangt.
 
-#### Artikel 38
+##### Artikel 38
 
 Indien Onze Minister bij de uitoefening van zijn taken op grond van deze wet stuit op mogelijke strafbare feiten, stelt hij de officier van justitie hiervan in kennis.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Indien een politieke partij op grond van de [artikelen 137c,](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=137c)[d](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=137d), [e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=137e), [f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=137f), of [g](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=137g), of [artikel 429 quater van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=429quater), is veroordeeld tot een geldboete, vervalt van rechtswege de aanspraak op subsidie gedurende een periode die ingaat op de dag waarop de veroordeling onherroepelijk is geworden. Deze periode is:
 
@@ -544,17 +572,17 @@ Indien Onze Minister bij de uitoefening van zijn taken op grond van deze wet stu
 
 #### § 6. Wijzigingsbepalingen
 
-#### Artikel 40
+##### Artikel 40
 
 Wijzigt de Mediawet 2008.
 
 #### § 4a. Commissie toezicht financiën politieke partijen
 
-#### Artikel 41
+##### Artikel 41
 
 De [Wet subsidiëring politieke partijen](https://wetten.overheid.nl/jci1.3:c:BWBR0010465) wordt ingetrokken.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Aanvragen tot vaststelling van een subsidie, ingediend op grond van de [Wet subsidiëring politieke partijen](https://wetten.overheid.nl/jci1.3:c:BWBR0010465), met betrekking tot het kalenderjaar gelegen voor de inwerkingtreding van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=2&z=2025-11-07&g=2025-11-07) van de Wet financiering politieke partijen, worden door Onze Minister afgehandeld met toepassing van de Wet subsidiëring politieke partijen.
 
@@ -564,7 +592,7 @@ De [Wet subsidiëring politieke partijen](https://wetten.overheid.nl/jci1.3:c:BW
 
 4. Op de datum van inwerkingtreding van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=2&z=2025-11-07&g=2025-11-07) van deze wet lopende geschillen en procedures van bezwaar en beroep inzake de toepassing van de [Wet subsidiëring politieke partijen](https://wetten.overheid.nl/jci1.3:c:BWBR0010465) worden door Onze Minister afgewikkeld met toepassing van die wet.
 
-#### Artikel 43
+##### Artikel 43
 
 De bedragen, genoemd in [artikel 8, eerste lid, onderdelen a, b en c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=2&artikel=8&z=2025-11-07&g=2025-11-07), worden ten behoeve van de kalenderjaren 2011 tot en met 2015, na toepassing van artikel 8, vijfde lid, nader gewijzigd door het resultaat van de berekening:
 
@@ -578,11 +606,11 @@ De bedragen, genoemd in [artikel 8, eerste lid, onderdelen a, b en c, en tweede 
 
 - e. per 1 januari 2015 te verlagen met 1,5%.
 
-#### Artikel 44
+##### Artikel 44
 
 De verplichting, bedoeld in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=25&z=2025-11-07&g=2025-11-07), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=28&z=2025-11-07&g=2025-11-07) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=29&z=2025-11-07&g=2025-11-07), geldt niet voor bijdragen en schulden die zijn ontvangen onderscheidenlijk ontstaan voor de datum van inwerkingtreding van deze wet.
 
-#### Artikel 45
+##### Artikel 45
 
 1. [Artikel 4.10, tweede lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=4.10) is niet van toepassing op krachtens [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=2&z=2025-11-07&g=2025-11-07) van deze wet verstrekte subsidies.
 
@@ -592,23 +620,23 @@ De verplichting, bedoeld in de [artikelen 25](https://wetten.overheid.nl/jci1.3:
 
 4. Indien de dag van de stemming voor een verkiezing van de Tweede Kamer der Staten-Generaal gelegen is binnen de in het tweede lid bedoelde termijn, wordt die termijn met negen maanden verlengd en strekt de evaluatie zich tevens uit tot de doeltreffendheid en de effecten van de [paragrafen 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=1&z=2025-11-07&g=2025-11-07) van deze wet in de praktijk in relatie tot deze verkiezing.
 
-#### Artikel 46
+##### Artikel 46
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 47
+##### Artikel 47
 
 Deze wet wordt aangehaald als: Wet financiering politieke partijen.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 6a
+##### Artikel 6a
 
 Deze paragraaf is niet van toepassing op een politieke partij als bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=2&artikel=16&z=2025-11-07&g=2025-11-07) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=2&artikel=17&z=2025-11-07&g=2025-11-07).
 
 #### § 3. Administratie, openbaarmaking en beperking bijdragen
 
-#### Artikel 21a
+##### Artikel 21a
 
 1. Indien een politieke partij van een gever, zijnde een stichting of vereniging die niet is aangewezen als neveninstelling, in een kalenderjaar een geldelijke bijdrage van in totaal meer dan € 1.000 of een bijdrage in natura met een waarde van in totaal meer dan € 1.000 ontvangt, verlangt zij van de stichting of vereniging ten aanzien van de door die stichting of vereniging in dat kalenderjaar van een gever ontvangen bijdragen van in totaal meer dan € 1.000 tevens een overzicht van de gegevens, genoemd in [artikel 21, eerste lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=21&z=2025-11-07&g=2025-11-07).
 
@@ -616,7 +644,7 @@ Deze paragraaf is niet van toepassing op een politieke partij als bedoeld in de 
 
 3. Een op grond van het tweede lid overgemaakte bijdrage komt toe aan de Staat.
 
-#### Artikel 23a
+##### Artikel 23a
 
 1. Een politieke partij ontvangt geen geldelijke bijdrage of bijdrage in natura van een niet-Nederlandse gever.
 
@@ -626,7 +654,7 @@ Deze paragraaf is niet van toepassing op een politieke partij als bedoeld in de 
 
 4. Een op grond van het tweede en derde lid overgemaakte bijdrage komt toe aan de Staat.
 
-#### Artikel 25a
+##### Artikel 25a
 
 1. Onverminderd [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=25&z=2025-11-07&g=2025-11-07), meldt een politieke partij de ontvangst van een of meerdere bijdragen van in totaal € 10.000 of meer per gever per jaar aan Onze Minister.
 
@@ -634,7 +662,7 @@ Deze paragraaf is niet van toepassing op een politieke partij als bedoeld in de 
 
 3. [Artikel 25, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=25&z=2025-11-07&g=2025-11-07), is van overeenkomstige toepassing.
 
-#### Artikel 28a
+##### Artikel 28a
 
 1. Een politieke partij die deelneemt aan een verkiezing van de Tweede Kamer der Staten-Generaal verstrekt uiterlijk een maand na de dag van de stemming voor deze verkiezing aan Onze Minister per kalenderjaar een overzicht van:
 
@@ -648,13 +676,13 @@ Deze paragraaf is niet van toepassing op een politieke partij als bedoeld in de 
 
 3. Onze Minister maakt het overzicht zo spoedig mogelijk, doch uiterlijk twee maanden na de dag van stemming openbaar. Van de gegevens over het adres van een natuurlijke persoon of een uiteindelijk belanghebbende, wordt uitsluitend de woonplaats openbaar gemaakt. Op verzoek van een politieke partij blijft in het overzicht, genoemd in het eerste lid, onder a en c, openbaarmaking van de gegevens over de naam en de woonplaats van de gever, zijnde een natuurlijke persoon of een uiteindelijk belanghebbende, achterwege, indien dit naar het oordeel van Onze Minister gelet op het belang van de veiligheid van die persoon of belanghebbende is aangewezen. [Artikel 25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=25&z=2025-11-07&g=2025-11-07), is van overeenkomstige toepassing. Persoonsgegevens die in het overzicht voorkomen, worden door Onze Minister maximaal tien jaar bewaard.
 
-#### Artikel 29a
+##### Artikel 29a
 
 Gelet op artikel 9, tweede lid, onderdeel g, van de Algemene verordening gegevensbescherming kan Onze Minister in het kader van de uitvoering van de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=21&z=2025-11-07&g=2025-11-07), [21a](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=21a&z=2025-11-07&g=2025-11-07), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=25&z=2025-11-07&g=2025-11-07), [25a](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=25a&z=2025-11-07&g=2025-11-07), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=28&z=2025-11-07&g=2025-11-07), [28a](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=28a&z=2025-11-07&g=2025-11-07), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=29&z=2025-11-07&g=2025-11-07), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=4&artikel=30&z=2025-11-07&g=2025-11-07) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=4&artikel=32&z=2025-11-07&g=2025-11-07) van deze wet, bijzondere categorieën van persoonsgegevens als bedoeld in [paragraaf 3.1 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.1) verwerken.
 
 #### § 4. Verbrede toepassing
 
-#### Artikel 32a
+##### Artikel 32a
 
 1. Indien kandidaten geplaatst op de in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=4&artikel=32&z=2025-11-07&g=2025-11-07), bedoelde kandidatenlijst alleen of gezamenlijk van een gever in een kalenderjaar een geldelijke bijdrage van in totaal meer dan € 100.000 of een bijdrage in natura met een waarde van in totaal meer dan € 100.000 ontvangen, draagt de kandidaat die als eerste op de lijst is geplaatst er zorg voor dat het gedeelte dat het bedrag of de tegenwaarde van € 100.000 te boven gaat, zo spoedig mogelijk teruggegeven wordt aan de gever, voor zover van toepassing naar rato van de hoogte van de door elk van de ontvangers ontvangen bijdrage. De kandidaat meldt een ontvangen bijdrage daartoe binnen een week aan de kandidaat die als eerste op de lijst is geplaatst door toezending van een overzicht van de door die kandidaat ontvangen bijdrage of bijdragen, met daarbij de gegevens, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=21&z=2025-11-07&g=2025-11-07).
 
@@ -672,7 +700,7 @@ Gelet op artikel 9, tweede lid, onderdeel g, van de Algemene verordening gegeven
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 29b
+##### Artikel 29b
 
 1. Indien een politieke partij, haar neveninstellingen of kandidaten geplaatst op de kandidatenlijst van die partij, alleen of gezamenlijk van een gever in een kalenderjaar een geldelijke bijdrage van in totaal meer dan € 100.000 of een bijdrage in natura met een waarde van in totaal meer dan € 100.000 ontvangen, draagt de politieke partij er zorg voor dat het gedeelte dat het bedrag of de tegenwaarde van € 100.000 te boven gaat, zo spoedig mogelijk teruggegeven wordt aan de gever, voor zover van toepassing naar rato van de hoogte van de door elk van de ontvangers ontvangen bijdrage. De neveninstelling of kandidaat meldt een ontvangen bijdrage daartoe binnen een week aan de politieke partij door toezending van een overzicht van de door die neveninstelling of kandidaat ontvangen bijdrage of bijdragen, met daarbij de gegevens, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&paragraaf=3&artikel=21&z=2025-11-07&g=2025-11-07).
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit ondermandaat, volmacht en machtiging NCG 2026"
+title: "Besluit van de Algemeen directeur van de Dienst Nationaal Coördinator Groningen van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties van 2 maart 2026, kenmerk NCG50710624, houdende verlening van ondermandaat, volmacht en machtiging voor de Dienst Nationaal Coördinator Groningen (Besluit ondermandaat, volmacht en machtiging NCG 2026)"
 identifier: "BWBR0052420"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-03-12
-laatste_update: 2026-03-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052420"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-12"
+last_updated: "2026-03-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052420"
+soort: "ministeriele-regeling"
+stam_id: "17797313"
+version_id: "31471692"
+internal_id: "C44950011"
+label_id: "17695044"
+dtd_version: "2.0"
+original_entry_into_force: "2026-03-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052420/2026-03-12/0"
+intitule_bron: "Stcrt.2026-9268-n1"
+intitule_effect: "wijziging"
+intitule_signed: "2026-03-02"
+intitule_published: "2026-03-11"
+intitule_in_force: "2026-03-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-9268-n1"
+original_signed_date: "2026-03-02"
+original_published_date: "2026-03-11"
+original_effect: "wijziging"
+original_url_id: "stcrt-2026-9268-n1"
+entry_into_force_date: "2026-03-12"
+jci_1_3: "jci1.3:c:BWBR0052420&z=2026-03-12&g=2026-03-12"
+jci_1_0: "1.0:c:BWBR0052420&g=2026-03-12"
+citeertitel_status: "officieel"
+short_title: "Besluit ondermandaat, volmacht en machtiging NCG 2026"
+signed_date: "2026-03-02"
+entry_into_force: "2026-03-12"
 ---
-
 # Besluit van de Algemeen directeur van de Dienst Nationaal Coördinator Groningen van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties van 2 maart 2026, kenmerk NCG50710624, houdende verlening van ondermandaat, volmacht en machtiging voor de Dienst Nationaal Coördinator Groningen (Besluit ondermandaat, volmacht en machtiging NCG 2026)
 
 Gelet op de instemming van de secretaris-generaal van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties van 20 februari 2026, kenmerk 2026-0000072006;
@@ -18,7 +44,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -48,7 +74,7 @@ In dit besluit wordt verstaan onder:
 
 - –. **werkterrein:** de taken binnen het eigen organisatieonderdeel.
 
-#### Artikel 2
+##### Artikel 2
 
 Aan de Algemeen directeur is voorbehouden: het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen dan een besluit of een privaatrechtelijke rechtshandeling betreffende de volgende aangelegenheden:
 
@@ -56,7 +82,7 @@ Aan de Algemeen directeur is voorbehouden: het nemen van besluiten, het verricht
 
 - b. die door een directeur aan de Algemeen directeur ter afhandeling worden voorgelegd, tenzij zij naar het oordeel van de Algemeen directeur door een andere directeur moeten worden behandeld.
 
-#### Artikel 3. Kaders bij ieder mandaat
+##### Artikel 3. Kaders bij ieder mandaat
 
 1. Ondermandaten, volmachten en machtigingen worden begrensd met een maximale (meerjarige) financiële verplichting als bepaald [bijlage 1 bij het Mandaatbesluit BZK 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1)
 
@@ -64,7 +90,7 @@ Aan de Algemeen directeur is voorbehouden: het nemen van besluiten, het verricht
 
 #### § 2. Ondermandaat, volmacht en machtiging
 
-#### Artikel 4. Directeur
+##### Artikel 4. Directeur
 
 1. Aan de directeur Dienstverlening en de directeur Bedrijfsvoering wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein.
 
@@ -86,7 +112,7 @@ Aan de Algemeen directeur is voorbehouden: het nemen van besluiten, het verricht
 
 4. Aan de directeuren wordt ondermandaat, volmacht en machtiging verleend om klachten als bedoeld in [hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9) en die hun organisatieonderdeel betreffen te behandelen, een en ander in afstemming met de klachtencoördinator en met inachtneming van het Voorschrift interne klachtenbehandeling van NCG.
 
-#### Artikel 5. Managers
+##### Artikel 5. Managers
 
 1. Aan de managers wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend ten aanzien van aangelegenheden op hun werkterrein, met uitzondering van de inhuur van externe medewerkers.
 
@@ -130,7 +156,7 @@ Aan de Algemeen directeur is voorbehouden: het nemen van besluiten, het verricht
 
 - p. het accorderen van een vergoeding voor verhuiskosten.
 
-#### Artikel 6. Teamleiders
+##### Artikel 6. Teamleiders
 
 1. Aan teamleiders wordt ondermandaat, volmacht en machtiging verleend voor aangelegenheden op hun werkterrein, met uitzondering van de inhuur van externe medewerkers.
 
@@ -148,11 +174,11 @@ Aan de Algemeen directeur is voorbehouden: het nemen van besluiten, het verricht
 
 - f. het accorderen van tijdschrijfregistraties van extern ingehuurde medewerkers.
 
-#### Artikel 7. Bevoegdheden voor de realisatie van de bouw
+##### Artikel 7. Bevoegdheden voor de realisatie van de bouw
 
 Aan projectleiders, projectmanagers en programmamanagers binnen de regiodirecties wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor alle aangelegenheden die vanwege de verschillende sets aan uniforme administratieve voorwaarden en aanpalende wet- en regelgeving nodig zijn voor de vertegenwoordiging van opdrachtgever en realisatie van de bouw, waaronder het afgeven van prestatieverklaringen voor de door hen begeleide projecten.
 
-#### Artikel 8. Vertegenwoordiging in rechte
+##### Artikel 8. Vertegenwoordiging in rechte
 
 1. Aan de manager van de afdeling Juridische Zaken wordt ondermandaat, volmacht en machtiging verleend voor het nemen van besluiten en het aangaan van overeenkomsten op zijn werkterrein, waaronder begrepen:
 
@@ -166,7 +192,7 @@ Aan projectleiders, projectmanagers en programmamanagers binnen de regiodirectie
 
 3. Aan de manager van de afdeling Juridische Zaken en de senior juristen van de afdeling Juridische Zaken wordt ondermandaat, volmacht en machtiging verleend voor het voeren van hoger beroep, waaronder begrepen het instellen van hoger beroep en het voeren van voorlopige voorziening procedures.
 
-#### Artikel 9. Financiële begrenzing
+##### Artikel 9. Financiële begrenzing
 
 1. Het ondermandaat voor verplichtingen die financiële gevolgen hebben of kunnen hebben is voor de onderstaande functionarissen per verplichting beperkt tot de volgende grensbedragen in euro’s en inclusief de verschuldigde omzetbelasting (BTW):
 
@@ -192,11 +218,11 @@ Aan projectleiders, projectmanagers en programmamanagers binnen de regiodirectie
 
 #### § 3. Plaatsvervanging
 
-#### Artikel 10. Plaatsvervanging algemeen directeur
+##### Artikel 10. Plaatsvervanging algemeen directeur
 
 De directeur Dienstverlening treedt op als plaatsvervanger van de Algemeen directeur. Bij afwezigheid van zowel de Algemeen directeur als de directeur Dienstverlening, treedt de directeur Bedrijfsvoering op als plaatsvervanger van de Algemeen directeur.
 
-#### Artikel 11. Plaatsvervanging overige functionarissen
+##### Artikel 11. Plaatsvervanging overige functionarissen
 
 1. De uit dit besluit voor directeuren en de managers voortvloeiende bevoegdheden gaan in geval van afwezigheid over op hun plaatsvervanger.
 
@@ -210,7 +236,7 @@ De directeur Dienstverlening treedt op als plaatsvervanger van de Algemeen direc
 
 #### § 4. Slotbepalingen
 
-#### Artikel 12. Inwerkingtreding en overig
+##### Artikel 12. Inwerkingtreding en overig
 
 1. Dit besluit treedt in werking de dag na uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 augustus 2025.
 

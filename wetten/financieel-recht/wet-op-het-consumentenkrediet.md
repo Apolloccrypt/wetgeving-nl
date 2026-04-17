@@ -1,14 +1,38 @@
 ---
-title: "Wet op het consumentenkrediet"
+title: "Wet van 4 juli 1990, houdende regels met betrekkking tot het consumentenkrediet"
 identifier: "BWBR0004815"
-categorie: "Financieel recht"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004815"
+country: "nl"
+rank: "wet"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004815"
+soort: "wet"
+stam_id: "1527853"
+version_id: "2271952"
+internal_id: "C2271951"
+label_id: "1484794"
+dtd_version: "2.0"
+original_entry_into_force: "1990-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004815/2019-01-01/0"
+intitule_bron: "Stb.1990-395"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-07-04"
+intitule_in_force: "1990-10-12"
+intitule_status: "goed"
+original_publication: "Stb.1990-395"
+original_signed_date: "1990-07-04"
+original_effect: "nieuwe-regeling"
+original_dossier: "19785"
+entry_into_force_date: "1990-11-01"
+jci_1_3: "jci1.3:c:BWBR0004815&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0004815&g=2019-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet op het consumentenkrediet"
+signed_date: "1990-07-04"
+entry_into_force: "1990-11-01"
 ---
-
-# Wet op het consumentenkrediet
+# Wet van 4 juli 1990, houdende regels met betrekkking tot het consumentenkrediet
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +44,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Afdeling 1. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -60,33 +84,33 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Afdeling 2. Beperking van de reikwijdte van de wet
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
 ### Afdeling 3. Gemeentelijke kredietbanken
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
@@ -94,105 +118,105 @@ Vervallen
 
 ### Afdeling 1. De vergunning
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 14a
+##### Artikel 14a
 
 Vervallen
 
-#### Artikel 14b
+##### Artikel 14b
 
 Vervallen
 
-#### Artikel 14c
+##### Artikel 14c
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
 ### Afdeling 2. Het register
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
 ### Afdeling 3. Overige bepalingen
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
 ### Hoofdstuk III. Werving, bemiddeling en behandeling van kredietaanvragen
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
@@ -200,91 +224,91 @@ Vervallen
 
 ### Afdeling 1. Het aangaan van een krediettransactie
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
 ### Afdeling 2. Nietigheden
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 
 ### Afdeling 3. Kredietvergoeding en betalingen
 
-#### Artikel 34
+##### Artikel 34
 
 Vervallen
 
-#### Artikel 35
+##### Artikel 35
 
 Vervallen
 
-#### Artikel 36
+##### Artikel 36
 
 Vervallen
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
-#### Artikel 38
+##### Artikel 38
 
 Vervallen
 
-#### Artikel 39
+##### Artikel 39
 
 Vervallen
 
 ### Afdeling 4. Pandrecht en eigendomsvoorbehoud
 
-#### Artikel 40
+##### Artikel 40
 
 Vervallen
 
-#### Artikel 41
+##### Artikel 41
 
 Vervallen
 
-#### Artikel 42
+##### Artikel 42
 
 Vervallen
 
-#### Artikel 43
+##### Artikel 43
 
 Vervallen
 
 ### Afdeling 5. Overige bepalingen
 
-#### Artikel 44
+##### Artikel 44
 
 Vervallen
 
-#### Artikel 45
+##### Artikel 45
 
 Vervallen
 
-#### Artikel 46
+##### Artikel 46
 
 Vervallen
 
 ### Hoofdstuk V. Schuldbemiddeling
 
-#### Artikel 47
+##### Artikel 47
 
 1. Schuldbemiddeling is verboden.
 
 2. Onder schuldbemiddeling wordt verstaan het in de uitoefening van een bedrijf of beroep, anders dan door het aangaan van een krediettransactie, verrichten van diensten, gericht op de totstandkoming van een regeling met betrekking tot de bestaande schuldenlast van een natuurlijke persoon, geheel of gedeeltelijk voortvloeiend uit een of meer krediettransacties.
 
-#### Artikel 48
+##### Artikel 48
 
 1. Het in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&hoofdstuk=V&artikel=47&z=2019-01-01&g=2019-01-01), bedoelde verbod is niet van toepassing op schuldbemiddeling:
 
@@ -302,137 +326,137 @@ Vervallen
 
 ### Hoofdstuk VI. Beroep
 
-#### Artikel 49
+##### Artikel 49
 
 Vervallen
 
 ### Hoofdstuk VII
 
-#### Artikel 50
+##### Artikel 50
 
 Vervallen
 
-#### Artikel 51
+##### Artikel 51
 
 Vervallen
 
-#### Artikel 52
+##### Artikel 52
 
 Vervallen
 
-#### Artikel 53
+##### Artikel 53
 
 Vervallen
 
-#### Artikel 54
+##### Artikel 54
 
 Vervallen
 
-#### Artikel 55
+##### Artikel 55
 
 Vervallen
 
-#### Artikel 56
+##### Artikel 56
 
 Vervallen
 
 ### Hoofdstuk VIII. Toezicht op de naleving
 
-#### Artikel 57
+##### Artikel 57
 
 Vervallen
 
-#### Artikel 58
+##### Artikel 58
 
 Vervallen
 
-#### Artikel 59
+##### Artikel 59
 
 Vervallen
 
-#### Artikel 60
+##### Artikel 60
 
 Vervallen
 
-#### Artikel 61
+##### Artikel 61
 
 Vervallen
 
-#### Artikel 62
+##### Artikel 62
 
 Vervallen
 
-#### Artikel 63
+##### Artikel 63
 
 Vervallen
 
 ### Hoofdstuk IX. Uitvoering van de wet
 
-#### Artikel 64
+##### Artikel 64
 
 Vervallen
 
-#### Artikel 65
+##### Artikel 65
 
 Vervallen
 
-#### Artikel 66
+##### Artikel 66
 
 Vervallen
 
-#### Artikel 67
+##### Artikel 67
 
 Vervallen
 
-#### Artikel 68
+##### Artikel 68
 
 Vervallen
 
 ### Hoofdstuk X. Straf-, overgangs- en slotbepalingen
 
-#### Artikel 69
+##### Artikel 69
 
 Vervallen
 
-#### Artikel 70
+##### Artikel 70
 
 Vervallen
 
-#### Artikel 71
+##### Artikel 71
 
 Vervallen
 
-#### Artikel 72
+##### Artikel 72
 
 Vervallen
 
-#### Artikel 73
+##### Artikel 73
 
 Vervallen
 
-#### Artikel 74
+##### Artikel 74
 
 Vervallen
 
-#### Artikel 75
+##### Artikel 75
 
 Vervallen
 
-#### Artikel 76
+##### Artikel 76
 
 Vervallen
 
-#### Artikel 77
+##### Artikel 77
 
 Vervallen
 
-#### Artikel 78
+##### Artikel 78
 
 Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 48a
+##### Artikel 48a
 
 Met het toezicht op de naleving van het bij of krachtens dit hoofdstuk bepaalde zijn belast de bij ministeriële regeling aangewezen personen.
 

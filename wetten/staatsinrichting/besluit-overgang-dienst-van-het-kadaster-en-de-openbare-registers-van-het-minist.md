@@ -1,13 +1,35 @@
 ---
-title: "Besluit overgang dienst van het Kadaster en de Openbare Registers van het Ministerie van Financiën naar het Ministerie van Volkshuisvesting en Ruimtelijke Ordening"
+title: "Besluit van 4 juni 1973, houdende de overgang van de dienst van het Kadaster en de Openbare Registers van het Ministerie van Financiën naar het Ministerie van Volkshuisvesting en Ruimtelijke Ordening"
 identifier: "BWBR0002885"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 1973-06-21
-laatste_update: 1973-06-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002885"
+country: "nl"
+rank: "kb"
+publication_date: "1973-06-21"
+last_updated: "1973-06-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002885"
+soort: "KB"
+stam_id: "806433"
+version_id: "1168132"
+internal_id: "C1168131"
+label_id: "780894"
+dtd_version: "2.0"
+original_entry_into_force: "1973-06-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002885/1973-06-21/0"
+intitule_bron: "Stb.1973-272"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1973-06-04"
+intitule_status: "goed"
+original_publication: "Stb.1973-272"
+original_signed_date: "1973-06-04"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1973-06-21"
+jci_1_3: "jci1.3:c:BWBR0002885&z=1973-06-21&g=1973-06-21"
+jci_1_0: "1.0:c:BWBR0002885&g=1973-06-21"
+citeertitel_status: "officieel"
+short_title: "Besluit overgang dienst van het Kadaster en de Openbare Registers van het Ministerie van Financiën naar het Ministerie van Volkshuisvesting en Ruimtelijke Ordening"
+signed_date: "1973-06-04"
+entry_into_force: "1973-06-21"
 ---
-
 # Besluit van 4 juni 1973, houdende de overgang van de dienst van het Kadaster en de Openbare Registers van het Ministerie van Financiën naar het Ministerie van Volkshuisvesting en Ruimtelijke Ordening
 
 Op de voordracht van Onze Minister-President, Minister van Algemene Zaken d.d. 1 juni 1973, nr. 211556, mede namens Onze Ministers van Financiën, van Volkshuisvesting en Ruimtelijke Ordening en van Binnenlandse Zaken;
@@ -16,7 +38,7 @@ Gelet op artikel 86 van de Grondwet;
 
 Hebben goedgevonden en verstaan:
 
-#### artikel Enig
+##### artikel Enig
 
 I. De Dienst van het Kadaster en de Openbare Registers gaat, met ingang van de datum van de dagtekening van dit besluit, van het departement van Financiën over naar het departement van Volkshuisvesting en Ruimtelijke Ordening, met dienovereenkomstige wijziging van de taak van beide departementen;
 
