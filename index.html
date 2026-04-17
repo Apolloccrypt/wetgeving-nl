@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>wetgeving-nl — Nederlandse wetgeving in Markdown</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --rood: #AE1C28;
+    --wit: #ffffff;
+    --blauw: #21468B;
+    --donker: #0a0a0f;
+    --grijs: #f4f4f0;
+    --tekst: #1a1a2e;
+    --zacht: #6b7280;
+    --rand: #e5e5e0;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Syne', sans-serif;
+    background: var(--wit);
+    color: var(--tekst);
+    min-height: 100vh;
+  }
+
+  /* Header */
+  header {
+    background: var(--donker);
+    color: var(--wit);
+    padding: 3rem 2rem 2rem;
+    position: relative;
+    overflow: hidden;
+  }
+
+  header::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, var(--rood) 33%, var(--wit) 33%, var(--wit) 66%, var(--blauw) 66%);
+  }
+
+  .header-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+
+  .logo {
+    font-size: 2.4rem;
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    margin-bottom: 0.5rem;
+  }
+
+  .logo span { color: var(--rood); }
+
+  .tagline {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.8rem;
+    color: rgba(255,255,255,0.5);
+    margin-bottom: 2rem;
+  }
+
+  .stats {
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+  }
+
+  .stat {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+  }
+
+  .stat-getal {
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: var(--wit);
+  }
+
+  .stat-label {
+    font-size: 0.72rem;
+    color: rgba(255,255,255,0.4);
+    font-family: 'JetBrains Mono', monospace;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  /* Zoek */
+  .zoek-sectie {
+    background: var(--grijs);
+    padding: 2rem;
+    border-bottom: 1px solid var(--rand);
+  }
+
+  .zoek-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .zoek-veld {
+    flex: 1;
+    min-width: 260px;
+    padding: 0.8rem 1rem;
+    font-family: 'Syne', sans-serif;
+    font-size: 1rem;
+    border: 2px solid var(--rand);
+    border-radius: 6px;
+    background: var(--wit);
+    outline: none;
+    transition: border-color 0.15s;
+  }
+
+  .zoek-veld:focus { border-color: var(--blauw); }
+
+  .categorie-filters {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+
+  .filter-btn {
+    padding: 0.45rem 0.9rem;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.72rem;
+    border: 1.5px solid var(--rand);
+    border-radius: 4px;
+    background: var(--wit);
+    cursor: pointer;
+    transition: all 0.15s;
+    color: var(--zacht);
+  }
+
+  .filter-btn:hover { border-color: var(--blauw); color: var(--blauw); }
+  .filter-btn.actief { background: var(--blauw); border-color: var(--blauw); color: var(--wit); }
+
+  /* Resultaten */
+  .resultaten-sectie {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 1.5rem 2rem;
+  }
+
+  .resultaten-info {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.75rem;
+    color: var(--zacht);
+    margin-bottom: 1rem;
+  }
+
+  .wet-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 1px;
+    background: var(--rand);
+    border: 1px solid var(--rand);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+
+  .wet-kaart {
+    background: var(--wit);
+    padding: 1.2rem 1.4rem;
+    text-decoration: none;
+    color: inherit;
+    transition: background 0.1s;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+
+  .wet-kaart:hover { background: var(--grijs); }
+
+  .wet-titel {
+    font-size: 0.92rem;
+    font-weight: 600;
+    color: var(--tekst);
+    line-height: 1.4;
+  }
+
+  .wet-meta {
+    display: flex;
+    gap: 0.6rem;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .wet-id {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.68rem;
+    color: var(--zacht);
+  }
+
+  .wet-cat {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.65rem;
+    padding: 0.15rem 0.5rem;
+    border-radius: 3px;
+    background: var(--grijs);
+    color: var(--zacht);
+    border: 1px solid var(--rand);
+  }
+
+  .wet-status-geldig { color: #16a34a; }
+  .wet-status-ingetrokken { color: var(--rood); }
+
+  /* Leeg */
+  .leeg {
+    padding: 4rem 2rem;
+    text-align: center;
+    color: var(--zacht);
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.85rem;
+  }
+
+  /* Footer */
+  footer {
+    margin-top: 4rem;
+    padding: 2rem;
+    border-top: 1px solid var(--rand);
+    text-align: center;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.72rem;
+    color: var(--zacht);
+  }
+
+  footer a { color: var(--blauw); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
+
+  .laden {
+    text-align: center;
+    padding: 4rem;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.85rem;
+    color: var(--zacht);
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="logo">wetgeving<span>-nl</span></div>
+    <div class="tagline">// elke wet een bestand — elke wijziging een commit — iedereen een bijdrager</div>
+    <div class="stats">
+      <div class="stat">
+        <span class="stat-getal" id="stat-wetten">—</span>
+        <span class="stat-label">wetten</span>
+      </div>
+      <div class="stat">
+        <span class="stat-getal">21.407</span>
+        <span class="stat-label">actuele regelingen</span>
+      </div>
+      <div class="stat">
+        <span class="stat-getal">dagelijks</span>
+        <span class="stat-label">bijgewerkt</span>
+      </div>
+    </div>
+  </div>
+</header>
+
+<div class="zoek-sectie">
+  <div class="zoek-inner">
+    <input
+      class="zoek-veld"
+      type="search"
+      id="zoek"
+      placeholder="Zoek op naam of BWBR-nummer..."
+      autocomplete="off"
+    >
+    <div class="categorie-filters" id="filters"></div>
+  </div>
+</div>
+
+<div class="resultaten-sectie">
+  <div class="resultaten-info" id="info">Laden...</div>
+  <div id="resultaten"><div class="laden">Wetten ophalen...</div></div>
+</div>
+
+<footer>
+  <p>
+    Data: <a href="https://wetten.overheid.nl">wetten.overheid.nl</a> (CC0) &nbsp;|&nbsp;
+    Code: <a href="https://github.com/Apolloccrypt/wetgeving-nl">github.com/Apolloccrypt/wetgeving-nl</a> (MIT) &nbsp;|&nbsp;
+    <a href="https://github.com/Apolloccrypt/wetgeving-nl/tree/main/proposals">Wetsvoorstel indienen</a>
+  </p>
+  <p style="margin-top:0.5rem; opacity:0.5">Geen officiele band met de Nederlandse overheid.</p>
+</footer>
+
+<script>
+const GITHUB_API = 'https://api.github.com/repos/Apolloccrypt/wetgeving-nl/git/trees/main?recursive=1';
+const RAW_BASE   = 'https://raw.githubusercontent.com/Apolloccrypt/wetgeving-nl/main';
+
+let alleWetten = [];
+let actieveFilter = 'alles';
+
+const CATEGORIE_KLEUR = {
+  'strafrecht': '#7f1d1d',
+  'burgerlijk-recht': '#1e3a5f',
+  'bestuursrecht': '#374151',
+  'belastingrecht': '#78350f',
+  'arbeidsrecht': '#064e3b',
+  'sociaal-recht': '#1e3a5f',
+  'gezondheidszorg': '#4c1d95',
+  'onderwijs': '#0c4a6e',
+  'milieu': '#14532d',
+  'verkeer': '#7c2d12',
+  'digitaal': '#1e1b4b',
+  'internationaal-recht': '#312e81',
+  'staatsinrichting': '#1f2937',
+  'financieel-recht': '#713f12',
+  'overig': '#6b7280',
+};
+
+async function laadWetten() {
+  try {
+    const r = await fetch(GITHUB_API);
+    const data = await r.json();
+
+    const bestanden = (data.tree || []).filter(f =>
+      f.path.startsWith('wetten/') && f.path.endsWith('.md')
+    );
+
+    alleWetten = bestanden.map(f => {
+      const delen = f.path.split('/');
+      const categorie = delen[1] || 'overig';
+      const bestandsnaam = delen[2] || '';
+      const naam = bestandsnaam
+        .replace('.md', '')
+        .replace(/-/g, ' ')
+        .replace(/\b\w/g, c => c.toUpperCase());
+      return {
+        pad: f.path,
+        naam,
+        categorie,
+        url: `https://github.com/Apolloccrypt/wetgeving-nl/blob/main/${f.path}`,
+      };
+    });
+
+    document.getElementById('stat-wetten').textContent =
+      alleWetten.length.toLocaleString('nl-NL');
+
+    bouwFilters();
+    toonResultaten();
+  } catch (e) {
+    document.getElementById('resultaten').innerHTML =
+      '<div class="leeg">Kon wetten niet laden. Probeer de pagina te vernieuwen.</div>';
+  }
+}
+
+function bouwFilters() {
+  const categorieen = ['alles', ...new Set(alleWetten.map(w => w.categorie).sort())];
+  const container = document.getElementById('filters');
+  container.innerHTML = categorieen.map(cat => `
+    <button class="filter-btn ${cat === actieveFilter ? 'actief' : ''}"
+      onclick="setFilter('${cat}')">${cat === 'alles' ? 'alle' : cat}</button>
+  `).join('');
+}
+
+function setFilter(cat) {
+  actieveFilter = cat;
+  bouwFilters();
+  toonResultaten();
+}
+
+function toonResultaten() {
+  const zoekterm = document.getElementById('zoek').value.toLowerCase().trim();
+
+  let resultaten = alleWetten.filter(w => {
+    const filterOk = actieveFilter === 'alles' || w.categorie === actieveFilter;
+    const zoekOk = !zoekterm ||
+      w.naam.toLowerCase().includes(zoekterm) ||
+      w.pad.toLowerCase().includes(zoekterm);
+    return filterOk && zoekOk;
+  });
+
+  document.getElementById('info').textContent =
+    `${resultaten.length.toLocaleString('nl-NL')} van ${alleWetten.length.toLocaleString('nl-NL')} wetten`;
+
+  if (resultaten.length === 0) {
+    document.getElementById('resultaten').innerHTML =
+      '<div class="leeg">Geen wetten gevonden.</div>';
+    return;
+  }
+
+  const max = 200;
+  const getoond = resultaten.slice(0, max);
+
+  document.getElementById('resultaten').innerHTML = `
+    <div class="wet-grid">
+      ${getoond.map(w => `
+        <a class="wet-kaart" href="${w.url}" target="_blank" rel="noopener">
+          <div class="wet-titel">${escapeHtml(w.naam)}</div>
+          <div class="wet-meta">
+            <span class="wet-cat" style="border-color:${CATEGORIE_KLEUR[w.categorie] || '#6b7280'}20;
+              color:${CATEGORIE_KLEUR[w.categorie] || '#6b7280'}">${w.categorie}</span>
+          </div>
+        </a>
+      `).join('')}
+    </div>
+    ${resultaten.length > max ?
+      `<div class="resultaten-info" style="margin-top:1rem">
+        Toont ${max} van ${resultaten.length} resultaten. Verfijn je zoekopdracht.
+      </div>` : ''}
+  `;
+}
+
+function escapeHtml(t) {
+  return t.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+document.getElementById('zoek').addEventListener('input', toonResultaten);
+
+laadWetten();
+</script>
+</body>
+</html>
