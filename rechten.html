@@ -400,7 +400,7 @@ function toonResultaten(wetten) {
           <div class="wet-meta">${esc(wet.identifier||'')}${wet.datum ? ' · ' + wet.datum.substring(0,7) : ''}<span class="wet-cat">${esc(wet.categorie)}</span></div>
         </div>
         <div class="wet-acties">
-          <a class="wet-link primair" href="${GITHUB}${wet.pad}" target="_blank">Lees wet</a>
+          <a class="wet-link primair" href="https://wetten.overheid.nl/${wet.identifier}" target="_blank">Lees wet</a>
           <a class="wet-link" href="https://wetten.overheid.nl/${wet.identifier}" target="_blank">officieel</a>
         </div>
       </div>`;
