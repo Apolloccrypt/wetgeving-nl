@@ -259,28 +259,41 @@ function toonDetail(idx) {
   const b = gefilterd[idx];
   if (!b) return;
 
-  // Markeer geselecteerde item
   document.querySelectorAll('.besluit-item').forEach(el => el.classList.remove('geselecteerd'));
   document.getElementById(`item-${idx}`)?.classList.add('geselecteerd');
 
-  // Markeer zoektermen in bodytekst
+  // Markeer zoektermen
   let body = esc(b.body || '(Geen tekst beschikbaar)');
-  if (huidigZoek) {
-    const re = new RegExp(huidigZoek.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'), 'gi');
+  const zoekTermen = huidigZoek.toLowerCase().trim().split(/\s+/).filter(t => t.length > 2);
+  zoekTermen.forEach(t => {
+    const re = new RegExp(t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'), 'gi');
     body = body.replace(re, m => `<mark>${m}</mark>`);
-  }
+  });
+
+  // Highlight keten-termen altijd
+  ['verleent','verleen','ondermandaat','mandaat','volmacht','machtiging','delegatie',
+   'gemandateerd','bevoegd namens','opdracht','doorgeven','doorgegeven'].forEach(t => {
+    const re = new RegExp(`\\b${t}\\b`, 'gi');
+    body = body.replace(re, m => `<strong style="color:var(--oranje)">${m}</strong>`);
+  });
 
   document.getElementById('detail').innerHTML = `
     <div class="detail-header">
-      <div class="detail-type b-${b.type}" style="display:inline-block;padding:0.2rem 0.55rem;border-radius:3px;font-family:'JetBrains Mono',monospace;font-size:0.62rem;font-weight:600;margin-bottom:0.4rem;background:${typeBg(b.type)};color:${typeClr(b.type)}">${b.type}</div>
+      <span style="display:inline-block;padding:0.2rem 0.55rem;border-radius:3px;
+        font-family:'JetBrains Mono',monospace;font-size:0.62rem;font-weight:600;
+        margin-bottom:0.5rem;background:${typeBg(b.type)};color:${typeClr(b.type)}">${b.type}</span>
       <div class="detail-titel">${esc(b.titel)}</div>
-      <div class="detail-meta">${b.identifier} · ${b.datum || ''} · ${b.categorie}</div>
+      <div class="detail-meta">${b.identifier} · ${b.datum || 'datum onbekend'} · ${b.categorie}</div>
     </div>
     <div class="detail-acties">
-      <a class="detail-btn prim" href="${GITHUB}${b.pad}" target="_blank">Bekijk op GitHub</a>
+      <a class="detail-btn prim" href="${GITHUB}${b.pad}" target="_blank">Volledige wet op GitHub</a>
       <a class="detail-btn" href="https://wetten.overheid.nl/${b.identifier}" target="_blank">wetten.overheid.nl</a>
     </div>
     <div class="detail-body">
+      <div style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:var(--zacht);
+        margin-bottom:0.6rem;text-transform:uppercase;letter-spacing:0.05em;">
+        Inhoud besluit
+      </div>
       <div class="detail-body-tekst">${body}</div>
     </div>`;
 }
