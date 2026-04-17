@@ -283,6 +283,7 @@ footer a:hover { text-decoration:underline; }
       <input class="zoek-veld" type="search" id="zoek"
         placeholder="Zoek op naam of BWBR-nummer..." autocomplete="off">
       <span class="zoek-hint">/ zoek</span>
+      <span id="zoek-status" style="position:absolute;right:4.5rem;top:50%;transform:translateY(-50%);font-family:'JetBrains Mono',monospace;font-size:0.62rem;color:var(--oranje)"></span>
     </div>
     <div class="filter-rij" id="filters"></div>
     <button class="wis-btn" id="wis-btn" onclick="wisFilters()" style="display:none">wis filters</button>
@@ -328,6 +329,9 @@ let alleWetten = [];
 let gefilterdeWetten = [];
 let getoondTot = BATCH;
 let actieveFilter = 'alles';
+let zoekindexData = null;
+let zoekindexLaadt = false;
+let zoekindexGeladen = false;
 let actieveSorteer = 'az';
 
 const CATEGORIE_KLEUR = {
@@ -344,6 +348,22 @@ function esc(t) {
 
 function categorieKleur(cat) {
   return CATEGORIE_KLEUR[cat] || '#6b7280';
+}
+
+async function laadZoekindex() {
+  if (zoekindexGeladen || zoekindexLaadt) return;
+  zoekindexLaadt = true;
+  document.getElementById('zoek-status').textContent = 'Volledige tekst laden...';
+  try {
+    const r = await fetch('zoekindex.json');
+    zoekindexData = await r.json();
+    zoekindexGeladen = true;
+    document.getElementById('zoek-status').textContent = '';
+    filterEnToon();
+  } catch(e) {
+    zoekindexLaadt = false;
+    document.getElementById('zoek-status').textContent = '';
+  }
 }
 
 async function laadWetten() {
@@ -432,13 +452,14 @@ function wisFilters() {
 
 function filterEnToon() {
   const zoekterm = document.getElementById('zoek').value.toLowerCase().trim();
-  gefilterdeWetten = alleWetten.filter(w => {
+  gefilterdeWetten = alleWetten.filter((w, i) => {
     const filterOk = actieveFilter === 'alles' || w.categorie === actieveFilter;
-    const zoekOk = !zoekterm ||
-      w.naam.toLowerCase().includes(zoekterm) ||
-      w.bwbr.toLowerCase().includes(zoekterm) ||
-      w.pad.toLowerCase().includes(zoekterm);
-    return filterOk && zoekOk;
+    if (!zoekterm) return filterOk;
+    const titelOk = w.naam.toLowerCase().includes(zoekterm) ||
+      w.bwbr.toLowerCase().includes(zoekterm);
+    const bodyOk = zoekindexGeladen && zoekindexData && zoekindexData[i] &&
+      (zoekindexData[i].b||'').toLowerCase().includes(zoekterm);
+    return filterOk && (titelOk || bodyOk);
   });
 
   if (actieveSorteer === 'datum-nieuw') {
@@ -509,6 +530,10 @@ document.addEventListener('keydown', e => {
 
 document.getElementById('zoek').addEventListener('input', () => {
   getoondTot = BATCH;
+  const q = document.getElementById('zoek').value.trim();
+  if (q.length > 2 && !zoekindexGeladen) {
+    laadZoekindex();
+  }
   filterEnToon();
 });
 

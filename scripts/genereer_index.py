@@ -38,24 +38,42 @@ def lees_frontmatter(pad: Path) -> dict:
     return meta
 
 
+def lees_body(pad: Path, max_tekens: int = 400) -> str:
+    """Lees de bodytekst van een wet (na de frontmatter)."""
+    try:
+        inhoud = pad.read_text(encoding="utf-8", errors="replace")
+        einde = inhoud.find("\n---", 3)
+        if einde < 0:
+            return ""
+        body = inhoud[einde + 4:].strip()
+        # Verwijder Markdown-opmaak
+        body = re.sub(r"^#{1,6}\s+", "", body, flags=re.MULTILINE)
+        body = re.sub(r"\n+", " ", body)
+        body = re.sub(r"\s+", " ", body)
+        return body[:max_tekens].strip()
+    except Exception:
+        return ""
+
+
 def main():
     p = argparse.ArgumentParser()
     p.add_argument("--wetten",  default="wetten/")
     p.add_argument("--output",  default="index.json")
+    p.add_argument("--zoekindex", default="zoekindex.json")
     args = p.parse_args()
 
     wetten_dir = Path(args.wetten)
     index = []
+    zoekindex = []
 
     bestanden = sorted(wetten_dir.rglob("*.md"))
     print(f"{len(bestanden)} bestanden verwerken...")
 
-    for bestand in bestanden:
+    for i, bestand in enumerate(bestanden):
         meta = lees_frontmatter(bestand)
         if not meta:
             continue
 
-        # Relatief pad voor GitHub URL
         rel_pad = str(bestand).replace("\\", "/")
 
         index.append({
@@ -67,17 +85,29 @@ def main():
             "pad":        rel_pad,
         })
 
-    # Sorteer op titel
-    index.sort(key=lambda w: w["titel"].lower())
+        # Zoekindex: id verwijst naar positie in index
+        body = lees_body(bestand)
+        zoekindex.append({"i": i, "b": body})
+
+    # Sorteer beide op titel
+    gesorteerd = sorted(range(len(index)), key=lambda x: index[x]["titel"].lower())
+    index = [index[i] for i in gesorteerd]
+    zoekindex_gesorteerd = {gesorteerd[i]: zoekindex[i] for i in range(len(gesorteerd))}
+    zoekindex_lijst = [zoekindex_gesorteerd[i] for i in range(len(index))]
 
     output_pad = Path(args.output)
     output_pad.write_text(
         json.dumps(index, ensure_ascii=False, separators=(",", ":")),
         encoding="utf-8"
     )
+    print(f"index.json: {len(index)} wetten ({output_pad.stat().st_size/1024/1024:.1f} MB)")
 
-    print(f"Index geschreven: {len(index)} wetten → {output_pad}")
-    print(f"Bestandsgrootte: {output_pad.stat().st_size / 1024 / 1024:.1f} MB")
+    zoek_pad = Path(args.zoekindex)
+    zoek_pad.write_text(
+        json.dumps(zoekindex_lijst, ensure_ascii=False, separators=(",", ":")),
+        encoding="utf-8"
+    )
+    print(f"zoekindex.json: {zoek_pad.stat().st_size/1024/1024:.1f} MB")
 
 
 if __name__ == "__main__":
