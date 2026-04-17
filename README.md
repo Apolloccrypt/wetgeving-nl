@@ -4,7 +4,7 @@
 
 **Website:** [apolloccrypt.github.io/wetgeving-nl](https://apolloccrypt.github.io/wetgeving-nl)
 
-Geinspireerd door [legalize-es](https://github.com/legalize-dev/legalize-es) (Spanje), maar met een echte community-laag voor wetsvoorstellen.
+Geinspireerd door [legalize-es](https://github.com/legalize-dev/legalize-es) (Spanje), maar met een echte community-laag voor wetsvoorstellen en een betere parser.
 
 ---
 
@@ -13,9 +13,24 @@ Geinspireerd door [legalize-es](https://github.com/legalize-dev/legalize-es) (Sp
 Officiele wetten zijn publiek eigendom — maar wetten.overheid.nl is ontoegankelijk, wijzigingen zijn onvindbaar en burgers hebben geen stem.
 
 Dit project maakt wetgeving:
-- **Leesbaar** — schone Markdown, geen juridisch HTML-geknoei
+
+- **Leesbaar** — schone Markdown met nette YAML-frontmatter, geen juridisch HTML-geknoei
 - **Traceerbaar** — elke wetswijziging is een commit met een leesbare diff
+- **Doorzoekbaar** — zoek via de website of direct in de bestanden
 - **Participatief** — iedereen kan een wetsvoorstel indienen via een Pull Request
+
+---
+
+## De repo in cijfers
+
+| | |
+|---|---|
+| Wetten | 21.407 officiele regelingen |
+| Commits | 423.000+ historische wetswijzigingen |
+| Update | Dagelijks automatisch via GitHub Actions |
+| Bron | Basis Wetten Bestand (BWB), data.overheid.nl |
+| Licentie wetten | CC0 (publiek domein) |
+| Licentie code | MIT |
 
 ---
 
@@ -23,17 +38,39 @@ Dit project maakt wetgeving:
 
 ```
 wetgeving-nl/
-├── wetten/                   # 21.407 officiele wetten (dagelijks bijgewerkt)
+├── wetten/                        # Officiele wetten (dagelijks bijgewerkt)
 │   ├── strafrecht/
 │   ├── burgerlijk-recht/
 │   ├── bestuursrecht/
 │   ├── belastingrecht/
 │   ├── arbeidsrecht/
+│   ├── sociaal-recht/
+│   ├── gezondheidszorg/
+│   ├── onderwijs/
+│   ├── milieu/
+│   ├── verkeer/
+│   ├── digitaal/
 │   ├── staatsinrichting/
-│   └── ...
-├── proposals/                # Community wetsvoorstellen
+│   ├── internationaal-recht/
+│   ├── financieel-recht/
+│   └── overig/
+├── proposals/                     # Community wetsvoorstellen
 │   └── templates/
-└── scripts/                  # Parser en update-tools
+│       └── voorstel-template.md
+├── scripts/                       # Parser en update-tools
+│   ├── cleanup_legalize.py        # Hoofdconverter
+│   ├── dagelijkse_update.py       # Dagelijkse BWB-sync
+│   └── hercategoriseer.py         # Categorisering
+├── .github/
+│   ├── workflows/
+│   │   └── update-wetten.yml      # Dagelijkse GitHub Actions
+│   └── ISSUE_TEMPLATE/
+├── index.html                     # Web-interface
+├── README.md
+├── CONTRIBUTING.md
+├── CODE_OF_CONDUCT.md
+├── LICENSE
+└── SECURITY.md
 ```
 
 ---
@@ -57,7 +94,8 @@ bron: "https://wetten.overheid.nl/BWBR0001854"
 
 #### Artikel 1
 
-1. Geen feit is strafbaar dan uit kracht van een daaraan voorafgegane wettelijke strafbepaling.
+1. Geen feit is strafbaar dan uit kracht van een daaraan voorafgegane
+   wettelijke strafbepaling.
 ```
 
 ---
@@ -78,28 +116,46 @@ Ga naar [Discussions](../../discussions).
 
 ---
 
+## Roadmap
+
+### Klaar
+
+- [x] 21.407 Nederlandse wetten in schone Markdown
+- [x] Gesorteerd in 14 categorieen
+- [x] Automatische dagelijkse updates via GitHub Actions
+- [x] Community proposals-sectie met templates en issue-templates
+- [x] Web-interface op apolloccrypt.github.io/wetgeving-nl
+- [x] Volledige wetsgeschiedenis (423.000+ commits)
+- [x] LICENSE, CODE_OF_CONDUCT, SECURITY
+- [x] GitHub Discussions
+
+### In ontwikkeling
+
+- [ ] Volledige zoekfunctie over alle wetteksten
+- [ ] Betere web-interface zonder GitHub-kennis vereist
+- [ ] Koppeling met Kamerstukken (debatten bij wetswijzigingen)
+
+### Toekomst
+
+- [ ] Per-bestand git-history correct koppelen
+- [ ] Dark mode op de website
+- [ ] AI-zoekhulp: zoek in gewoon Nederlands
+- [ ] Vergelijk twee versies van een wet
+- [ ] Mijn wetten (persoonlijke lijst)
+- [ ] Mobiele app
+
+---
+
 ## Data-bron
 
-Alle officiele wetten komen van het **Basis Wetten Bestand (BWB)** via [data.overheid.nl](https://data.overheid.nl/dataset/basis-wetten-bestand).
+Alle officiele wetten komen van het **Basis Wetten Bestand (BWB)** via
+[data.overheid.nl](https://data.overheid.nl/dataset/basis-wetten-bestand).
 De data is eigendom van de Nederlandse overheid en valt onder de CC0 licentie.
 
 De community-bijdragen in `proposals/` vallen onder CC BY-SA 4.0.
 De scripts vallen onder de MIT licentie.
 
 Zie [LICENSE](LICENSE) voor details.
-
----
-
-## Roadmap
-
-- [x] 21.407 Nederlandse wetten in schone Markdown
-- [x] Automatische dagelijkse updates via GitHub Actions
-- [x] Community proposals-sectie met templates
-- [x] Web-interface op apolloccrypt.github.io/wetgeving-nl
-- [x] Volledige wetsgeschiedenis (423.000+ commits)
-- [ ] Zoekfunctie over alle wetteksten
-- [ ] Koppeling met Kamerstukken
-- [ ] Betere web-interface zonder GitHub-kennis vereist
 
 ---
 
