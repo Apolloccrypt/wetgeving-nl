@@ -317,7 +317,7 @@ function renderResultaten() {
     `${gefilterd.length.toLocaleString('nl-NL')} wetten${actieveCat!=='alles'?' in '+actieveCat:''}`;
   document.getElementById('resultaten').innerHTML = gefilterd.length ? `
     <div class="wet-grid">${slice.map(w=>`
-      <a class="wet-kaart" href="${GITHUB}${w.pad}" target="_blank" rel="noopener">
+      <a class="wet-kaart" href="https://wetten.overheid.nl/${w.identifier}" target="_blank" rel="noopener">
         <div class="wet-titel">${esc(w.titel)}</div>
         <div class="wet-sub">
           <span>${w.identifier}</span>
