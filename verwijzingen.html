@@ -135,6 +135,25 @@ header::after { content:''; position:absolute; bottom:0; left:0; right:0; height
   background:rgba(10,10,15,0.8); border:1px solid rgba(255,255,255,0.1);
   border-radius:8px; padding:0.8rem; font-family:'JetBrains Mono',monospace; font-size:0.65rem;
 }
+.autocomplete {
+  position:absolute; top:100%; left:0; right:0; max-width:380px;
+  background:rgba(15,15,20,0.98); border:1px solid rgba(255,255,255,0.15);
+  border-top:none; border-radius:0 0 8px 8px;
+  backdrop-filter:blur(8px); z-index:200; display:none;
+  max-height:280px; overflow-y:auto;
+}
+.autocomplete.open { display:block; }
+.ac-item {
+  padding:0.6rem 0.9rem; cursor:pointer;
+  border-bottom:1px solid rgba(255,255,255,0.05);
+  transition:background 0.1s;
+}
+.ac-item:last-child { border-bottom:none; }
+.ac-item:hover, .ac-item.actief { background:rgba(255,107,0,0.15); }
+.ac-naam { font-family:'Syne',sans-serif; font-size:0.82rem; color:var(--wit); }
+.ac-naam mark { background:transparent; color:var(--oranje); font-weight:700; }
+.ac-meta { font-family:'JetBrains Mono',monospace; font-size:0.62rem; color:rgba(255,255,255,0.3); margin-top:0.1rem; }
+.zoek-wrapper { position:relative; flex:1; max-width:380px; }
 .hint {
   position:absolute; bottom:1.5rem; left:50%; transform:translateX(-50%);
   font-family:'JetBrains Mono',monospace; font-size:0.65rem;
@@ -171,9 +190,13 @@ header::after { content:''; position:absolute; bottom:0; left:0; right:0; height
 </nav>
 
 <div class="toolbar">
-  <input class="zoek-input" id="zoek" type="search"
-    placeholder="Zoek een wet... (bijv. huurrecht, strafrecht, AVG)"
-    oninput="zoekWet()">
+  <div class="zoek-wrapper">
+    <input class="zoek-input" id="zoek" type="search"
+      placeholder="Zoek een wet... (bijv. huurrecht, strafrecht)"
+      oninput="zoekAutoComplete()" onkeydown="acKeydown(event)" autocomplete="off"
+      style="width:100%">
+    <div class="autocomplete" id="ac"></div>
+  </div>
   <span class="toolbar-label">Diepte:</span>
   <button class="d-btn actief" id="d1" onclick="setDiepte(1)">1</button>
   <button class="d-btn" id="d2" onclick="setDiepte(2)">2</button>
@@ -420,6 +443,75 @@ function toonInfo(wet, nodes, links) {
       <a class="info-link" href="https://wetten.overheid.nl/${wet.identifier}" target="_blank">wetten.overheid.nl</a>
     </div>`;
 }
+
+// ── Autocomplete ─────────────────────────────────────────
+let acIndex = -1;
+
+function zoekAutoComplete() {
+  const q = document.getElementById('zoek').value.toLowerCase().trim();
+  const ac = document.getElementById('ac');
+  acIndex = -1;
+
+  if (q.length < 2) { ac.className = 'autocomplete'; return; }
+
+  // Vind wetten met verwijzingen die matchen op titel
+  const hits = indexData
+    .filter(w => (w.titel||'').toLowerCase().includes(q) && verwData[w.identifier])
+    .sort((a,b) => (verwData[b.identifier]||[]).length - (verwData[a.identifier]||[]).length)
+    .slice(0, 8);
+
+  if (hits.length === 0) { ac.className = 'autocomplete'; return; }
+
+  ac.innerHTML = hits.map((w, i) => {
+    const verw = (verwData[w.identifier]||[]).length;
+    const titel = w.titel.replace(
+      new RegExp(q.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'), 'gi'),
+      m => `<mark>${m}</mark>`
+    );
+    return `<div class="ac-item" data-id="${w.identifier}" onclick="kiesAC('${w.identifier}')">
+      <div class="ac-naam">${titel}</div>
+      <div class="ac-meta">${w.identifier} · ${verw} verwijzingen · ${w.categorie}</div>
+    </div>`;
+  }).join('');
+  ac.className = 'autocomplete open';
+}
+
+function kiesAC(identifier) {
+  const wet = indexData[bwbrMap[identifier]];
+  if (!wet) return;
+  document.getElementById('zoek').value = wet.titel;
+  document.getElementById('ac').className = 'autocomplete';
+  toonGraaf(wet);
+}
+
+function acKeydown(e) {
+  const ac = document.getElementById('ac');
+  const items = ac.querySelectorAll('.ac-item');
+  if (e.key === 'ArrowDown') {
+    e.preventDefault();
+    acIndex = Math.min(acIndex + 1, items.length - 1);
+    items.forEach((el, i) => el.classList.toggle('actief', i === acIndex));
+  } else if (e.key === 'ArrowUp') {
+    e.preventDefault();
+    acIndex = Math.max(acIndex - 1, -1);
+    items.forEach((el, i) => el.classList.toggle('actief', i === acIndex));
+  } else if (e.key === 'Enter') {
+    if (acIndex >= 0 && items[acIndex]) {
+      items[acIndex].click();
+    } else {
+      zoekWet();
+    }
+    ac.className = 'autocomplete';
+  } else if (e.key === 'Escape') {
+    ac.className = 'autocomplete';
+  }
+}
+
+document.addEventListener('click', e => {
+  if (!e.target.closest('.zoek-wrapper')) {
+    document.getElementById('ac').className = 'autocomplete';
+  }
+});
 
 laadAlles();
 
