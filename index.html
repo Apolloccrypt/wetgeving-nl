@@ -124,6 +124,16 @@ header::after {
   transition:all 0.12s;
 }
 .wis-btn:hover { color:var(--rood); border-color:var(--rood); }
+.sorteer-rij { display:flex; gap:0.3rem; }
+.sorteer-btn {
+  padding:0.4rem 0.7rem;
+  font-family:'JetBrains Mono',monospace; font-size:0.68rem;
+  border:1.5px solid var(--rand); border-radius:5px;
+  background:var(--wit); cursor:pointer; color:var(--zacht);
+  transition:all 0.12s;
+}
+.sorteer-btn:hover { border-color:var(--oranje); color:var(--oranje); }
+.sorteer-btn.actief { background:var(--donker); border-color:var(--donker); color:var(--wit); }
 
 /* ── Resultaten ── */
 .resultaten-sectie { max-width:1200px; margin:0 auto; padding:1.2rem 2rem 6rem; }
@@ -276,6 +286,10 @@ footer a:hover { text-decoration:underline; }
     </div>
     <div class="filter-rij" id="filters"></div>
     <button class="wis-btn" id="wis-btn" onclick="wisFilters()" style="display:none">wis filters</button>
+    <div class="sorteer-rij">
+      <button class="sorteer-btn actief" id="sort-naam" onclick="toggleSort('naam')">naam A-Z</button>
+      <button class="sorteer-btn" id="sort-datum" onclick="toggleSort('datum')">nieuwste</button>
+    </div>
   </div>
 </div>
 
@@ -314,6 +328,7 @@ let alleWetten = [];
 let gefilterdeWetten = [];
 let getoondTot = BATCH;
 let actieveFilter = 'alles';
+let actieveSorteer = 'az';
 
 const CATEGORIE_KLEUR = {
   'strafrecht':'#7f1d1d','burgerlijk-recht':'#1e3a5f','bestuursrecht':'#374151',
@@ -389,6 +404,27 @@ function setFilter(cat) {
   filterEnToon();
 }
 
+const sortState = { naam: 'az', datum: 'nieuw' };
+
+function toggleSort(type) {
+  // Deactiveer andere knop
+  document.querySelectorAll('.sorteer-btn').forEach(b => b.classList.remove('actief'));
+  const btn = document.getElementById('sort-' + type);
+  btn.classList.add('actief');
+
+  if (type === 'naam') {
+    sortState.naam = sortState.naam === 'az' ? 'za' : 'az';
+    btn.textContent = sortState.naam === 'az' ? 'naam A-Z' : 'naam Z-A';
+    actieveSorteer = 'naam-' + sortState.naam;
+  } else {
+    sortState.datum = sortState.datum === 'nieuw' ? 'oud' : 'nieuw';
+    btn.textContent = sortState.datum === 'nieuw' ? 'nieuwste' : 'oudste';
+    actieveSorteer = 'datum-' + sortState.datum;
+  }
+  getoondTot = BATCH;
+  filterEnToon();
+}
+
 function wisFilters() {
   setFilter('alles');
   document.getElementById('zoek').value = '';
@@ -404,6 +440,16 @@ function filterEnToon() {
       w.pad.toLowerCase().includes(zoekterm);
     return filterOk && zoekOk;
   });
+
+  if (actieveSorteer === 'datum-nieuw') {
+    gefilterdeWetten.sort((a,b) => (b.datum||'').localeCompare(a.datum||''));
+  } else if (actieveSorteer === 'datum-oud') {
+    gefilterdeWetten.sort((a,b) => (a.datum||'').localeCompare(b.datum||''));
+  } else if (actieveSorteer === 'naam-za') {
+    gefilterdeWetten.sort((a,b) => b.naam.localeCompare(a.naam, 'nl'));
+  } else {
+    gefilterdeWetten.sort((a,b) => a.naam.localeCompare(b.naam, 'nl'));
+  }
 
   toonResultaten();
 }
