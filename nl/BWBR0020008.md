@@ -1,0 +1,1193 @@
+---
+title: "Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 27 juni 2006, nr. KvI2006278987, houdende regels voor het subsidiëren van voorzieningen die de emissie van deeltjes door voertuigen met een dieselmotor verminderen (Subsidieregeling emissieverminderende voorzieningen voor voertuigen met een dieselmotor)"
+identifier: "BWBR0020008"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-03-20"
+last_updated: "2014-03-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020008"
+soort: "ministeriele-regeling"
+stam_id: "8455093"
+version_id: "15033632"
+internal_id: "C20487671"
+label_id: "8435784"
+dtd_version: "2.0"
+original_entry_into_force: "2007-12-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020008/2014-03-20/0"
+intitule_bron: "Stcrt.2006-124"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-06-27"
+intitule_published: "2006-06-29"
+intitule_in_force: "2006-06-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-250"
+original_signed_date: "2007-12-21"
+original_published_date: "2007-12-27"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2007-250-p18-SC83587"
+entry_into_force_date: "2007-12-21"
+jci_1_3: "jci1.3:c:BWBR0020008&z=2014-03-20&g=2014-03-20"
+jci_1_0: "1.0:c:BWBR0020008&g=2014-03-20"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling emissieverminderende voorzieningen voor voertuigen"
+signed_date: "2007-12-21"
+entry_into_force: "2007-12-21"
+---
+# Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 27 juni 2006, nr. KvI2006278987, houdende regels voor het subsidiëren van voorzieningen die de emissie van deeltjes door voertuigen met een dieselmotor verminderen (Subsidieregeling emissieverminderende voorzieningen voor voertuigen met een dieselmotor)
+
+Gelet op [artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.13);
+
+Besluit:
+
+### Hoofdstuk 1. Algemene bepalingen
+
+##### Artikel 1.1. Begripsomschrijvingen
+
+In deze regeling wordt verstaan onder:
+
+- a. agentschap: Agentschap NL van het Ministerie van Economische Zaken, Landbouw en Innovatie;
+
+- b. emissieverminderende voorziening: technische voorziening voor een voertuig die de uitstoot van luchtvervuilende stoffen vermindert ten opzichte van de bij of krachtens de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) verplicht gestelde emissiewaarden en die als voertuigonderdeel bij of krachtens [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) niet verplicht is gesteld;
+
+- c. voertuig: bestelauto, vrachtauto of bus;
+
+- d. eerste kentekenhouder: de kentekenhouder van een motorrijtuig aan wie de eerste afgifte van een kentekenbewijs of een deel I B heeft plaatsgevonden, als bedoeld in [artikel 25, derde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=25);
+
+- e. richtlijn 2007/46/EG: richtlijn 2007/46/EG van het Europees Parlement en de Raad van de Europese Unie van 5 september 2007 tot vaststelling van een kader voor de goedkeuring van motorvoertuigen en aanhangwagens daarvan en van systemen, onderdelen en technische eenheden die voor dergelijke voertuigen zijn bestemd (Kaderrichtlijn) (Pb EU L 263);
+
+- f. bestelauto: voertuig, behorend tot voertuigcategorie N 1 als bedoeld in bijlage II, deel A, bij richtlijn 2007/46/EG;
+
+- g. vrachtauto: voertuig, behorend tot voertuigcategorie N 2 of N 3 als bedoeld in bijlage II, deel A, bij richtlijn 2007/46/EG;
+
+- h. bus: voertuig, behorend tot voertuigcategorie M 2 of M 3 als bedoeld in bijlage II, deel A, bij richtlijn 2007/46/EG;
+
+- i. Euro VI-typegoedkeuring: typegoedkeuring als bedoeld in Verordening (EG) nr. 595/2009 van het Europees Parlement en de Raad van 18 juni 2009 betreffende de typegoedkeuring van motorvoertuigen en motoren met betrekking tot emissies van zware bedrijfsvoertuigen (Euro VI) en de toegang tot reparatie- en onderhoudsinformatie, tot wijziging van Verordening (EG) nr. 715/2007 en Richtlijn 2007/46/EG en tot intrekking van de Richtlijnen 80/1269/EEG, 2005/55/EG en 2005/78/EG (PbEU 2009, L 188).
+
+##### Artikel 1.2. Doel van de regeling
+
+Deze regeling heeft tot doel een bijdrage te leveren aan de verbetering van de luchtkwaliteit in Nederland door het treffen van emissieverminderende voorzieningen in voertuigen met een dieselmotor te stimuleren, alsmede door de aanschaf van ongebruikte voertuigen met een emissieverminderende voorziening te stimuleren.
+
+##### Artikel 1.3. Wijze van subsidieverstrekking
+
+1. De subsidievaststelling geschiedt in volgorde van ontvangst van de aanvragen, met dien verstande dat, indien de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld als datum van ontvangst van de aanvraag geldt.
+
+2. Indien de inbouw van een voorziening bij de Dienst Wegverkeer moet worden gemeld, geschiedt de subsidievaststelling in afwijking van het eerste lid in volgorde van de meldingen van de inbouw aan de Dienst Wegverkeer.
+
+### Hoofdstuk 2. Subsidieprogramma’s
+
+#### Paragraaf 2.1. Subsidieprogramma retrofit personen- en bestelauto’s
+
+##### Artikel 2.1. Voorwaarden voor subsidie
+
+Vervallen
+
+##### Artikel 2.2. Emissiereductie-eis
+
+Vervallen
+
+##### Artikel 2.3. De aanvraag
+
+Vervallen
+
+##### Artikel 2.4. Het subsidiebedrag
+
+Vervallen
+
+##### Artikel 2.5. Subsidieplafond
+
+Vervallen
+
+##### Artikel 2.6. Looptijd van het programma
+
+Vervallen
+
+### Hoofdstuk 3. Slotbepalingen
+
+##### Artikel 3.1
+
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
+
+##### Artikel 3.2
+
+Deze regeling wordt aangehaald als: Subsidieregeling emissieverminderende voorzieningen voor voertuigen.
+
+## Bijlage I. , behorende bij [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2006-07-01&g=2006-07-01).
+
+### Eisen aan continu regenererende deeltjesverminderingssystemen klasse B
+
+### **1. Begripsomschrijvingen en afkortingen**
+
+Begripsomschrijvingen:
+
+Afkortingen:
+
+η: afvangrendement
+
+fa: weegfactor van de deeltjesemissie in toestand I
+
+fb: weegfactor van de deeltjesemissie in toestand II
+
+fc: weegfactor van de deeltjesemissie in toestand III
+
+fD: aantal cycli tussen twee regeneraties
+
+fd: aantal voor de regeneratie vereiste cycli
+
+Mpi: gewogen totale emissie (g/km) bij gesloten deeltjesverminderingssysteem
+
+Msi: over verscheidene cycli (NETC) gemeten emissie zonder regeneratie (g/km)
+
+Mri: emissie tijdens de regeneratie (NETC)
+
+Begripsomschrijvingen:
+
+Afkortingen:
+
+η: afvangrendement
+
+fa: weegfactor van de deeltjesemissie in toestand I
+
+fb: weegfactor van de deeltjesemissie in toestand II
+
+fc: weegfactor van de deeltjesemissie in toestand III
+
+Begripsomschrijvingen:
+
+Begripsomschrijvingen:
+
+Afkortingen:
+
+η: afvangrendement
+
+fa: weegfactor van de deeltjesemissie in toestand I
+
+fb: weegfactor van de deeltjesemissie in toestand II
+
+### **2. Algemene eisen aan deeltjesverminderingssystemen klasse b**
+
+fD: aantal cycli tussen twee regeneraties
+
+fd: aantal voor de regeneratie vereiste cycli
+
+Mpi: gewogen totale emissie (g/km) bij gesloten deeltjesverminderingssysteem
+
+Msi: over verscheidene cycli (NETC) gemeten emissie zonder regeneratie (g/km)
+
+Mri: emissie tijdens de regeneratie (NETC)
+
+Ng: toestand na inbouw
+
+### 3. Beproeving van deeltjesverminderingssystemen klasse b
+
+### **A. Algemeen**
+
+PIII: rekenkundig gemiddelde deeltjesemissie in toestand III
+
+PIVT2: rekenkundig gemiddelde deeltjesemissie in toestand IV, gemeten in deel van 2 van de NETC
+
+PIV: rekenkundig gemiddelde deeltjesemissie in toestand IV
+
+DVS: deeltjesverminderingssysteem
+
+PNg: rekenkundig gemiddelde deeltjesemissie in de toestand na inbouw bij systemen van klasse B
+
+PNFG: totale deeltjesemissie in toestand na inbouw
+
+### **B. Testen tijdens de duurproef**
+
+VF: volume van het deeltjesverminderingssysteem
+
+VH: slagvolume van de motor
+
+1. Het deeltjesverminderingssysteem is zodanig ontworpen en vervaardigd dat aan de hand van de in dit aanhangsel beschreven proeven kan worden aangetoond dat bij gebruik overeenkomstig zijn bestemming, de functionaliteit van het systeem gedurende een levensduur van vijf jaar of gedurende 80.000 km – al naar gelang het criterium dat het eerst wordt bereikt – is en wordt gegarandeerd.
+
+1. Het deeltjesverminderingssysteem is zodanig ontworpen en vervaardigd dat aan de hand van de in dit aanhangsel beschreven proeven kan worden aangetoond dat bij gebruik overeenkomstig zijn bestemming, de functionaliteit van het systeem gedurende een levensduur van vijf jaar of gedurende 80.000 km – al naar gelang het criterium dat het eerst wordt bereikt – is en wordt gegarandeerd.
+
+2. Deeltjesverminderingssystemen zijn niet met voorzieningen uitgerust die deze systemen buiten werking stellen.
+
+3. De inbouw van het deeltjesverminderingssysteem heeft geen invloed de gebruiksmogelijkheden van het voertuig en heeft geen negatieve gevolgen hebben voor de verkeersveiligheid.
+
+4. Deeltjesverminderingssystemen geven geen aanleiding te veronderstellen dat het geluidsniveau van het voertuig zal verslechteren.
+
+5. In combinatie met deeltjesverminderingssystemen van de klasse B is het gebruik van brandstofadditieven ter verbetering van de werking van het deeltjesverminderingssysteem niet toegestaan.
+
+6. Indien elektronische onderdelen of stuurapparaten worden gebruikt, voldoen die aan de eisen inzake radiostoring en EMC ([richtlijn 72/45/EEG](31972L0045)).
+
+### 3. Beproeving van deeltjesverminderingssystemen klasse b
+
+1. Ter beoordeling van een deeltjesverminderingssysteem wordt het, als bewijs voor de functionaliteit tijdens het latere bedrijf in de praktijk, aan een duurproef van minstens 4.000 km onderworpen. De duurproef dient als bewijs voor zowel de functionaliteit en de duurzaamheid van het systeem als voor het afvangrendement daarvan.
+
+### **D. ‘Worst-case’-regeneratie na de duurproef**
+
+2. Als testcyclus voor uitlaatgasmetingen op de rollenbank wordt de NETC met aandeel binnen en buiten de stad (deel I en deel II) overeenkomstig bijlage III, aanhangsel 1 van [Richtlijn 70/220/EEG](31970L0220), zoals gewijzigd bij [richtlijn 98/69/EG](31998L0069) (PB L 350), gebruikt.
+
+3. De duurproef wordt over een rijtraject van minstens 4.000 km uitgevoerd. Op verzoek van de aanvrager van de keuring kan voor het begin van de duurproef een voertuiginspectie worden uitgevoerd door de met de beoordeling belaste technische dienst en kan het OBD-systeem worden uitgelezen.
+
+4. De afstandsaccumulatie kan op de rollenproefstand worden uitgevoerd door het stadsdeel van de NETC (deel 1) te herhalen.
+
+5. De afstandsaccumulatie kan op de rollenproefstand in de NETC met aandeel binnen (deel 1) en buiten de stad (deel 2, gereduceerde snelheid) worden uitgevoerd. Daarbij wordt in deel 2 van de NETC een rijsnelheid van 70 km/uur en een maximale uitlaatgastemperatuur van 300°C direct voor het verminderingssysteem niet overschreden.
+
+### **B. Testen tijdens de duurproef**
+
+De uitlaatgasmetingen met gemonteerd deeltjesverminderingssysteem worden uitgevoerd als volgt:
+
+De uitlaatgasmetingen met gemonteerd deeltjesverminderingssysteem worden uitgevoerd als volgt:
+
+Voor de latere bepaling van de doeltreffendheid van het deeltjesverminderingssysteem in de uitgangstoestand wordt het voertuig voor en na het ononderbroken bedrijf in de uitgangstoestand zonder deeltjesverminderingssysteem beoordeeld.
+
+De aanvrager van de keuring van het filter kan steeds na de metingen bij 2.000 km en 4.000 km om aanvullende uitlaatgasmetingen in de uitgangstoestand vragen. Nadat het systeem weer is ingebouwd moet in dit geval de uitlaatgasmeting worden herhaald. De daarbij gevonden hoogste uitlaatgaswaarde moet worden gebruikt om het afvangrendement te bepalen. De uitlaatgasmetingen met deeltjesverminderingssysteem voor en na in- en uitbouw wijken niet meer dan 15% van elkaar af.
+
+### **F. Beoordeling van de beproeving**
+
+Toestand I:
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+#### Paragraaf 2.2. Subsidieprogramma retrofit zware voertuigen
+
+##### Artikel 2.7. Voorwaarden voor subsidie
+
+Vervallen
+
+##### Artikel 2.8. Emissiereductie-eisen
+
+Vervallen
+
+##### Artikel 2.9. De aanvraag
+
+Vervallen
+
+##### Artikel 2.10. Subsidiebedragen
+
+Vervallen
+
+##### Artikel 2.11. Subsidieplafond
+
+Vervallen
+
+#### Paragraaf 2.3. Subsidieprogramma ongebruikte vrachtauto’s en bussen
+
+##### Artikel 2.12. Voorwaarden voor subsidie voor bestelauto’s, vrachtauto’s en bussen
+
+1. Subsidie kan worden verstrekt aan de eerste kentekenhouder van een ongebruikte vrachtauto of bus met een Euro VI-typegoedkeuring en met een toegestane maximum massa van meer dan 5000 kg waarvoor het definitieve kentekenbewijs is afgegeven na 29 februari 2012 en voor 31 december 2013.
+
+2. Subsidie kan worden verstrekt aan de eerste kentekenhouder van een ongebruikte bestelauto, vrachtauto of bus met een toegestane maximum massa van meer dan 3500 kg maar ten hoogste 5000 kg, die voor het overige voldoet aan de vereisten voor subsidie in de Subsidieregeling emissiearme taxi’s en bestelauto’s.
+
+3. Een besluit tot subsidievaststelling kan worden ingetrokken indien de tenaamstelling in het kentekenregister van de bestelauto, vrachtauto of bus binnen zes maanden na de datum van de afgifte van het definitieve kentekenbewijs wijzigt.
+
+##### Artikel 2.13. De aanvraag
+
+1. Een aanvraag tot subsidievaststelling wordt ingediend bij het agentschap, met gebruikmaking van een bij die organisatie verkrijgbaar formulier.
+
+2. Een aanvraag tot subsidievaststelling kan worden ingediend voor een of meer voertuigen.
+
+3. Een aanvraag tot subsidievaststelling wordt ingediend binnen drie maanden na de afgifte van het definitieve kentekenbewijs aan de eerste kentekenhouder, bedoeld in [artikel 2.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.3&artikel=2.12&z=2014-03-20&g=2014-03-20).
+
+4. De aanvraag gaat vergezeld van een afschrift van de delen 1A en 1B van het kentekenbewijs van het voertuig waarvoor subsidie wordt gevraagd.
+
+##### Artikel 2.14. Subsidiebedrag
+
+1. De subsidie bedraagt:
+
+- a. voor een vrachtauto of bus als bedoeld in [artikel 2.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.3&artikel=2.12&z=2014-03-20&g=2014-03-20): € 4.500,–;
+
+- b. voor een bestelauto, vrachtauto of bus als bedoeld in [artikel 2.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.3&artikel=2.12&z=2014-03-20&g=2014-03-20): € 1.250,–.
+
+2. Indien de meerkosten van de aan een vrachtauto of bus als bedoeld in het eerste lid, onder a, aangebrachte technische voorzieningen, inclusief montage, lager zijn dan € 4.500,–, bedraagt de subsidie niet meer dan die meerkosten.
+
+##### Artikel 2.15
+
+1. Het subsidieplafond voor het subsidiëren van motoren als bedoeld in [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.3&artikel=2.12&z=2014-03-20&g=2014-03-20) bedraagt voor de kalenderjaren 2010 en 2011 in totaal € 3.500.000,–.
+
+2. Het subsidieplafond voor het subsidiëren van voertuigen als bedoeld in [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.3&artikel=2.12&z=2014-03-20&g=2014-03-20) bedraagt voor 2013 en 2014 in totaal € 32.000.000.
+
+### Hoofdstuk 3. Slotbepalingen
+
+## Bijlage I. , behorende bij [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2007-12-01&g=2007-12-01).
+
+### Eisen aan continu regenererende deeltjesverminderingssystemen klasse B
+
+### **1. Begripsomschrijvingen en afkortingen**
+
+fc: weegfactor van de deeltjesemissie in toestand III
+
+PI: rekenkundig gemiddelde deeltjesemissie in toestand I
+
+PII: rekenkundig gemiddelde deeltjesemissie in toestand II
+
+### **2. Algemene eisen aan deeltjesverminderingssystemen klasse b**
+
+Ps: rekenkundig gemiddelde deeltjesemissie in uitgangstoestand (zonder deeltjesverminderingssysteem )
+
+### **2. Algemene eisen aan deeltjesverminderingssystemen klasse b**
+
+### **A. Algemeen**
+
+6. Een andere mogelijkheid is het in de documentatie van de proef uitvoerig te beschrijven traject van de duurproef zodanig te kiezen, dat het met een realistisch rijprofiel binnen de stad overeenkomt. Daarbij ligt de gemiddelde snelheid tussen 25 en 35 km/uur, de maximumsnelheid lager dan 70 km/uur, het aandeel van het stationair draaien in de tijd niet beneden 7% en het aandeel van de snelheid tussen 50 en 70 km/uur beneden 10% (niet gereden aan het einde van de duurproef). De maximale uitlaatgastemperatuur direct voor het deeltjesverminderingssysteem moet zonder externe regeneratie gemiddeld lager zijn dan 300°C en het toerental van de motor minder dan 60% van het nominale toerental. Tijdens de gehele duurproef worden de voertuigsnelheid, de weg, het toerental van de motor en het drukverschil tussen in- en uitgang van het deeltjesverminderingssysteem tevens in de documentatie van de proef opgenomen.
+
+### **A. Algemeen**
+
+1. Ter beoordeling van een deeltjesverminderingssysteem wordt het, als bewijs voor de functionaliteit tijdens het latere bedrijf in de praktijk, aan een duurproef van minstens 4.000 km onderworpen. De duurproef dient als bewijs voor zowel de functionaliteit en de duurzaamheid van het systeem als voor het afvangrendement daarvan.
+
+6. Een andere mogelijkheid is het in de documentatie van de proef uitvoerig te beschrijven traject van de duurproef zodanig te kiezen, dat het met een realistisch rijprofiel binnen de stad overeenkomt. Daarbij ligt de gemiddelde snelheid tussen 25 en 35 km/uur, de maximumsnelheid lager dan 70 km/uur, het aandeel van het stationair draaien in de tijd niet beneden 7% en het aandeel van de snelheid tussen 50 en 70 km/uur beneden 10% (niet gereden aan het einde van de duurproef). De maximale uitlaatgastemperatuur direct voor het deeltjesverminderingssysteem moet zonder externe regeneratie gemiddeld lager zijn dan 300°C en het toerental van de motor minder dan 60% van het nominale toerental. Tijdens de gehele duurproef worden de voertuigsnelheid, de weg, het toerental van de motor en het drukverschil tussen in- en uitgang van het deeltjesverminderingssysteem tevens in de documentatie van de proef opgenomen.
+
+### **C. Roetmeting**
+
+Uitgangstoestand S1:
+
+### **D. ‘Worst-case’-regeneratie na de duurproef**
+
+Toestand II:
+
+Toestand III:
+
+Toestand IV (thermisch verouderde toestand):
+
+Uitgangstoestand S2:
+
+### **C. Roetmeting**
+
+Bij toepassing van een deeltjesverminderingssysteem van de klasse B, moeten bovendien roetmetingen volgens [artikel 2.3.12 van de regeling Permanente eisen](https://wetten.overheid.nl/jci1.3:c:BWBR0009581&artikel=2.3.12) worden uitgevoerd om de hoogste opaciteitswaarde van het uitlaatgas vast te stellen.
+
+Ter verzekering van de thermische stabiliteit van het deeltjesverminderingssysteem tijdens het latere functioneren in de praktijk, wordt na de uitlaatgasmetingen na 4.000 km en de roetmeting een ‘worst-case’-regeneratie uitgevoerd.
+
+Ter verzekering van de thermische stabiliteit van het deeltjesverminderingssysteem tijdens het latere functioneren in de praktijk, wordt na de uitlaatgasmetingen na 4.000 km en de roetmeting een ‘worst-case’-regeneratie uitgevoerd.
+
+De thermische ‘worst-case’-regeneratie wordt met het testvoertuig op de rollenbank ingeleid via de belasting van de motor (snelle belastingwisseling tussen gedeeltelijke en volle belasting). Na vaststelling van de ontbranding van de deeltjes in het verminderingssysteem gaat men al remmend op de motor naar de situatie van stationair draaien. Het proefvoertuig blijft stationair draaien tot in het afvangsysteem geen verbranding van roet meer plaatsvindt. Voor zover in de hierboven genoemde bedrijfsomstandigheden niet uiterlijk na tien minuten uitlaatgastemperaturen van 600 graden Celsius zijn opgetreden, wordt de ‘ worstcase-test’ beëindigd.
+
+### **F. Beoordeling van de beproeving**
+
+In alle gevallen worden aansluitend uitlaatgasmetingen uitgevoerd. De daarbij rekenkundig gemiddelde deeltjesemissie mag niet meer dan 15% afwijken van de deeltjesemissie PNg.
+
+## Bijlage II. , behorende bij [artikel 2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2007-12-01&g=2007-12-01)
+
+### **Eisen aan retrofit deeltjesverminderingssystemen voor Euro 2 en Euro 3 motorvoertuigen die zijn toegelaten op basis van een goedkeuring volgens richtlijn 88/77/EEG respectievelijk richtlijn 2005/55/EG**
+
+### **1. Begripsomschrijvingen en afkortingen**
+
+2. Vaststelling van de gasvormige emissies (NOx, CO, HC) en het brandstofverbruik uitgedrukt in CO2:
+
+Met de emissies tijdens de ‘worst-case’-regeneratie wordt geen rekening gehouden.
+
+De beproeving van het deeltjesverminderingssysteem geldt als geslaagd indien aan de volgende criteria is voldaan:
+
+De beproeving van het deeltjesverminderingssysteem geldt als geslaagd indien aan de volgende criteria is voldaan:
+
+Msi: tijdens meerdere cycli gemeten gemiddelde emissie zonder regeneratie
+
+Mri: emissie tijdens de regeneratie
+
+Begripsomschrijvingen:
+
+Begripsomschrijvingen:
+
+Afkortingen:
+
+η: afvangrendement
+
+Mpi: gewogen totaalemissie (g/kWh) bij deeltjesverminderingssystemen van klasse A
+
+Msi: tijdens meerdere cycli gemeten gemiddelde emissie zonder regeneratie
+
+Mri: emissie tijdens de regeneratie
+
+### **2. Duurproef**
+
+VF: volume van het deeltjesverminderingssysteem
+
+VH: slagvolume van de motor
+
+### **3. Vaststellen van de continu regeneratie**
+
+Mgas: emissie van de gasvormige bestanddelen
+
+DVS: deeltjesverminderingssysteem
+
+UGR: uitlaatgasrecirculatie
+
+1. Ter beoordeling van een DVS dient het, als bewijs voor de functionaliteit tijdens het latere bedrijf in de praktijk, aan een duurproef van ten minste 25 ETC-testcycli te worden onderworpen. De duurproef dient als bewijs voor zowel de functionaliteit als voor de stabiliteit daarvan. Daarnaast wordt door middel van de duurproef vastgesteld of het een continu of een periodiek regenererend DVS betreft.
+
+### **4. Testcyclus**
+
+2. Voorafgaand aan de duurproef wordt het DVS gepreconditioneerd door ten minste 2 uur belasting volgens fase 8 van de ESC-testcyclus, en vervolgens zodanig geconditioneerd door middel van het draaien van ETC-cycli dat een qua deeltjesemissie stabiele situatie ontstaat.
+
+### **3. Vaststellen van de continu regeneratie**
+
+Het bewijs van een continu verlopend regeneratieproces geldt als geleverd wanneer gedurende een periode van ten minste 25 testcycli een daartoe geschikte parameter aan het DVS als constant beoordeeld kan worden. Als geschikte parameters kunnen de deeltjesemissie en de uitlaatgastegendruk beschouwd worden. Deze parameters gelden bij een variantie van maximaal 15% gedurende ten minste 25 testcycli als constant in de zin van dit voorschrift. De meting van de uitlaatgastegendruk vindt daarbij continu plaats, de meting van de deeltjesemissies ten minste iedere vijfde testcyclus.
+
+De variantie wordt als volgt berekend:
+
+Waarbij:
+
+### **4. Testcyclus**
+
+Als testcyclus op de motorproefstand voor de duurproef, de beoordeling van de deeltjesuitstoot en de vaststelling van het type regeneratie wordt de ETC-testcyclus toegepast. De meting van de invloed van het DVS op de gasvormige emissies vindt plaats in een ESC-testcyclus.
+
+### **5. Beladingsproef voor klasse B systemen**
+
+Klasse B systemen worden aan een controle ter vaststelling aan het regeneratiegedrag onderworpen.
+
+### **8. Testbrandstof**
+
+Deze controle vindt plaats door een systeembelading tot aan het bereiken van een constante uitlaatgastegendruk of gedurende een periode van maximaal 100 uur, de grensbelading. De uitlaatgasdruk geldt als constant indien na ten minste 50 uur binnen een periode van 30 minuten de uitlaatgastegendruk binnen een bereik van 5 mbar ligt.
+
+### **6. Thermische regeneratie test klasse B systemen**
+
+Na het bereiken van de maximale systeembelading onderscheidenlijk na maximaal 100 uur wordt een regeneratie ingeleid, bijvoorbeeld door het draaien van testfase 8 van de ESC-cyclus. Na afloop van de regeneratie volgen uitlaatgasmetingen in ten minste drie testcycli overeenkomstig onderdeel 4. Het rekenkundig gemiddelde van de daarbij gemeten uitlaatgaswaarden mag de voorafgaand aan de beladingsduurproef gemeten uitlaatgaswaarden voor de gasvormige emissies met niet meer dan 15% en voor de deeltjesemissie met niet meer dan 20% overschrijden.
+
+### **7. Meting van de opaciteit van de uitlaatgassen**
+
+Het meten van de opaciteit van de uitlaatgassen vindt bij Euro 3 motoren plaats in een ELR- testcyclus volgens de voorschriften van de punten 3 en 6 van aanhangsel 1 van bijlage III van [richtlijn 2005/55/EG](32005L0055). Voor Euro 2 motoren vindt de meting van de opaciteit plaats tijdens een vrije acceleratietest overeenkomstig [richtlijn 72/306/EEG](31972L0306). In [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=I&z=2008-01-01&g=2008-01-01) is aangegeven wanneer de opaciteitsmeting wordt uitgevoerd.
+
+### **8. Testbrandstof**
+
+De metingen ten behoeve van het testen van DVS worden uitgevoerd met brandstof van handelskwaliteit die aan de eisen van [richtlijn 98/70/EEG](31998L0070) voldoet, met een zwavelgehalte van ten hoogste 10 ppm.
+
+De metingen ten behoeve van het testen van DVS worden uitgevoerd met brandstof van handelskwaliteit die aan de eisen van [richtlijn 98/70/EEG](31998L0070) voldoet, met een zwavelgehalte van ten hoogste 10 ppm.
+
+Voor de beproeving van een DVS op een motorproefstand dient het systeem op een afstand van ten minste 2 meter vanaf de uitgang van de turbolader aangebracht te worden. Indien wordt aangetoond dat bij de latere toepassing een kortere afstand geldt, kan de lengte van de leiding dienovereenkomstig worden beperkt. Isolatie e.d. van de leiding is slechts toelaatbaar indien die ook bij de latere montage op het voertuig wordt toegepast.
+
+Voor de beproeving van een DVS op een motorproefstand dient het systeem op een afstand van ten minste 2 meter vanaf de uitgang van de turbolader aangebracht te worden. Indien wordt aangetoond dat bij de latere toepassing een kortere afstand geldt, kan de lengte van de leiding dienovereenkomstig worden beperkt. Isolatie e.d. van de leiding is slechts toelaatbaar indien die ook bij de latere montage op het voertuig wordt toegepast.
+
+De uitvoering van de tests geschiedt overeenkomstig deze bijlage. De beoordeling van het systeem geldt als geslaagd indien aan de navolgende voorwaarden wordt voldaan:
+
+De uitvoering van de tests geschiedt overeenkomstig deze bijlage. De beoordeling van het systeem geldt als geslaagd indien aan de navolgende voorwaarden wordt voldaan:
+
+De uitvoering van de tests geschiedt overeenkomstig de bijlage. De beoordeling van het systeem geldt als geslaagd indien aan de navolgende voorwaarden wordt voldaan:
+
+De uitvoering van de tests geschiedt overeenkomstig de bijlage. De beoordeling van het systeem geldt als geslaagd indien aan de navolgende voorwaarden wordt voldaan:
+
+Bij periodiek regenererende DVS wordt de deeltjesemissie als volgt bepaald:
+
+PT = (n1 × PT,n1 + n2 × PT,n2) / (n1 + n2)
+
+waarbij:
+
+n1 = aantal ETC-testcycli tussen twee regeneraties
+
+n2 = aantal ETC-testcycli gedurende de regeneratie (minimum 1 testcyclus)
+
+PT,n2 = emissie tijdens de regeneratie
+
+### **12. Aanvullende bepalingen**
+
+Voor een periodiek regenererende uitlaatgasnabehandeling dienen de emissies in minimaal drie ETC-testcycli (eenmaal bij het begin van de belading, eenmaal bij het einde van de belading en eenmaal gedurende de regeneratie) bepaald te worden.
+
+Het regeneratieproces dient ten minste eenmaal gedurende een ETC-testcyclus op te treden.
+
+Worden meer dan twee metingen tussen de regeneratiefasen voor de bepaling van de emissies gebruikt dan dienen deze extra metingen op gelijke intervallen plaats te vinden, en wordt het rekenkundig gemiddelde van de uitkomsten gebruikt.
+
+De fabrikant van het filter dient aan te geven onder welke omstandigheden (belading, temperatuur, tegendruk, tijdsverloop etc.) de regeneratie als regel optreedt. Voor de metingen van de emissies tijdens de regeneratie kan de aanvrager een grensbeladen systeem ter beschikking stellen.
+
+Tijdens de regeneratiefasen mogen de van toepassing zijnde grenswaarden worden overschreden.
+
+De overeenkomstig het voorgaande vastgestelde uitstoot moet aan de volgende eisen voldoen:
+
+1. Voertuigen met boorddiagnosesystemen mogen door de montage van het retrofitsysteem niet in hun bewakingsfunctie beperkt worden.
+
+1. Voertuigen met boorddiagnosesystemen mogen door de montage van het retrofitsysteem niet in hun bewakingsfunctie beperkt worden.
+
+### **13. Schematische testprocedure**
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+#### Paragraaf 2.4. Subsidieprogramma retrofit mobiele werktuigen
+
+##### Artikel 2.16. Voorwaarden voor subsidie
+
+Vervallen
+
+##### Artikel 2.17. Emissiereductie-eisen
+
+Vervallen
+
+##### Artikel 2.18. De aanvraag
+
+Vervallen
+
+##### Artikel 2.19. Subsidiabele kosten
+
+Vervallen
+
+##### Artikel 2.20. Subsidieplafond
+
+Vervallen
+
+### Hoofdstuk 3. Slotbepalingen
+
+## Bijlage I. , behorende bij [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2008-01-01&g=2008-01-01).
+
+### Eisen aan continu regenererende deeltjesverminderingssystemen klasse B
+
+### Eisen aan continu regenererende deeltjesverminderingssystemen klasse B
+
+### **2. Algemene eisen aan deeltjesverminderingssystemen klasse b**
+
+### 3. Beproeving van deeltjesverminderingssystemen klasse b
+
+### **C. Roetmeting**
+
+Bij toepassing van een deeltjesverminderingssysteem van de klasse B, moeten bovendien roetmetingen volgens [artikel 2.3.12 van de regeling Permanente eisen](https://wetten.overheid.nl/jci1.3:c:BWBR0009581&artikel=2.3.12) worden uitgevoerd om de hoogste opaciteitswaarde van het uitlaatgas vast te stellen.
+
+### **D. ‘Worst-case’-regeneratie na de duurproef**
+
+Bij voertuigen met een motorvermogen van meer dan 160 kW kan de inleiding tot de ‘worst-case’-regeneratie op de weg plaatsvinden. Indien geen thermische regeneratie kan worden opgewekt, moet een regeneratie van het deeltjesverminderingssysteem volgens aanwijzingen van de fabrikant worden uitgevoerd tijdens gebruik van het voertuig.
+
+### **E. Uitlaatgasmetingen tijdens de duurproef**
+
+1. Vaststelling van de deeltjesemissie in de NETC:
+
+1. Vaststelling van de deeltjesemissie in de NETC:
+
+De waarden van de uitlaatgasemissie in de uitgangstoestand (PS), toestand I (eerste meting) (PI), toestand II (PII)) toestand III (PIII) en toestand IV (PIV) zijn de gemiddelde waarden van twee metingen, voor zover de metingen niet meer dan 15% van elkaar afwijken en anders van drie metingen in de NETC.
+
+### **F. Beoordeling van de beproeving**
+
+## Bijlage II. , behorende bij [artikel 2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2008-01-01&g=2008-01-01)
+
+### **Eisen aan retrofit deeltjesverminderingssystemen voor Euro 2 en Euro 3 motorvoertuigen die zijn toegelaten op basis van een goedkeuring volgens richtlijn 88/77/EEG respectievelijk richtlijn 2005/55/EG**
+
+### **Eisen aan retrofit deeltjesverminderingssystemen voor Euro 2 en Euro 3 motorvoertuigen die zijn toegelaten op basis van een goedkeuring volgens richtlijn 88/77/EEG respectievelijk richtlijn 2005/55/EG**
+
+Ng: toestand na inbouw
+
+PT: deeltjesemissie
+
+### **2. Duurproef**
+
+1. Ter beoordeling van een DVS dient het, als bewijs voor de functionaliteit tijdens het latere bedrijf in de praktijk, aan een duurproef van ten minste 25 ETC-testcycli te worden onderworpen. De duurproef dient als bewijs voor zowel de functionaliteit als voor de stabiliteit daarvan. Daarnaast wordt door middel van de duurproef vastgesteld of het een continu of een periodiek regenererend DVS betreft.
+
+### **3. Vaststellen van de continu regeneratie**
+
+Het bewijs van een continu verlopend regeneratieproces geldt als geleverd wanneer gedurende een periode van ten minste 25 testcycli een daartoe geschikte parameter aan het DVS als constant beoordeeld kan worden. Als geschikte parameters kunnen de deeltjesemissie en de uitlaatgastegendruk beschouwd worden. Deze parameters gelden bij een variantie van maximaal 15% gedurende ten minste 25 testcycli als constant in de zin van dit voorschrift. De meting van de uitlaatgastegendruk vindt daarbij continu plaats, de meting van de deeltjesemissies ten minste iedere vijfde testcyclus.
+
+Klasse B systemen worden aan een controle ter vaststelling aan het regeneratiegedrag onderworpen.
+
+### **9. Lengte uitlaatsysteem testopstelling**
+
+### **10. Beoordelingscriteria voor continu regenererende DVS**
+
+### **11. Beoordelingscriteria voor periodiek regenererende DVS**
+
+PT,n1 = emissie tijdens de belading (rekenkundig gemiddelde van de meting bij het begin van de belading en de meting bij het einde van de belading [minimum, meer metingen toelaatbaar])
+
+### **12. Aanvullende bepalingen**
+
+2. Het elektronische motormanagement (bijvoorbeeld voor inspuiting, luchtmassameting, uitlaatgasreiniging) mag door de inbouw geen wijziging ondergaan, tenzij deze wijziging is vrijgegeven door de desbetreffende motorfabrikant.
+
+3. De inbouw van het DVS mag geen invloed hebben op de gebruiksmogelijkheden van het voertuig en mag geen negatieve gevolgen hebben voor de verkeersveiligheid.
+
+4. In combinatie met een DVS van klasse B zijn brandstofadditieven ter ondersteuning van de regeneratie niet toegestaan.
+
+5. In geval van een DVS met een door een brandstofadditief ondersteunde regeneratie dient de aanvrager een door het RIVM afgegeven verklaring van geen bezwaar tegen de combinatie van het systeem en het additief over te leggen, dan wel een overeenkomstige ‘Unbeden⁠klichkeitserklärung’ van het Umweltbundesamt van de Bondsrepubliek Duitsland.
+
+6. Het voertuig waarop het DVS wordt gemonteerd moet aan de voor dat voertuig geldende eisen inzake de geluidsproductie blijven voldoen. In geval van een DVS dat aanvullend op de oorspronkelijke geluiddemper wordt aangebracht kan van een geluidsmeting worden afgezien.
+
+7. Indien elektronische onderdelen of stuurapparaten worden gebruikt moeten die aan de eisen inzake radiostoring en EMC ([Richtlijn 72/45/EEG](31972L0045)) voldoen.
+
+### **13. Schematische testprocedure**
+
+## Bijlage III. , behorende bij [artikel 2.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.16&z=2008-01-01&g=2008-01-01)
+
+De vermelde bestemming bij de mobiele werktuigen beoogt niet deze categorieën in te perken of nader af te bakenen.
+
+### **1. Verreiker of telescooplader**
+
+Zelfrijdend, door een dieselmotor aangedreven werktuig op wielen voorzien van een telescopische hefinrichting waarmee goederen geheven worden, en daarnaast een grondverzetfunctie, een hijsfunctie en een hoogwerkfunctie wordt gerealiseerd.
+
+Zelfrijdend, door een dieselmotor aangedreven werktuig op wielen voorzien van een telescopische hefinrichting waarmee goederen geheven worden, en daarnaast een grondverzetfunctie, een hijsfunctie en een hoogwerkfunctie wordt gerealiseerd.
+
+### **2. Hoogwerker**
+
+Zelfrijdend, door een dieselmotor aangedreven werktuig met een schaarmechanisme, een hydraulische arm die op een of meerdere plaatsen kan scharnieren dan wel een telescoopmast, met aan het eind een platform of werkbak.
+
+Zelfrijdend, door een dieselmotor aangedreven werktuig met een schaarmechanisme, een hydraulische arm die op een of meerdere plaatsen kan scharnieren dan wel een telescoopmast, met aan het eind een platform of werkbak.
+
+### **3. Mobiele kraan**
+
+Zelfrijdende, door een dieselmotor aangedreven telescoop- of vakwerkkraan die al dan niet is toegelaten op de openbare weg.
+
+Zelfrijdende, door een dieselmotor aangedreven telescoop- of vakwerkkraan die al dan niet is toegelaten op de openbare weg.
+
+### **4. Ruw terrein heftruck**
+
+Zelfrijdend, door een dieselmotor aangedreven werktuig dat is voorzien van een vaste bestuurderszitplaats en een hefinrichting om verplaatsing mogelijk te maken op onverharde ondergrond.
+
+Zelfrijdend, door een dieselmotor aangedreven werktuig dat is voorzien van een vaste bestuurderszitplaats en een hefinrichting om verplaatsing mogelijk te maken op onverharde ondergrond.
+
+### **5. Laadschop, shovel of wiellader**
+
+Op wielen of rupsbanden zelfrijdend, door een dieselmotor aangedreven werktuig, aan de voorzijde uitgerust met een hefbare bak.
+
+Op wielen of rupsbanden zelfrijdend, door een dieselmotor aangedreven werktuig, aan de voorzijde uitgerust met een hefbare bak.
+
+### **6. Graafmachine**
+
+Zelfrijdend, door een dieselmotor aangedreven werktuig, bestaande uit een onderwagen en een bovenwagen die een zwenkbeweging kan uitvoeren waarbij de hoofdgraafbeweging gemaakt wordt door een giek.
+
+Zelfrijdend, door een dieselmotor aangedreven werktuig, bestaande uit een onderwagen en een bovenwagen die een zwenkbeweging kan uitvoeren waarbij de hoofdgraafbeweging gemaakt wordt door een giek.
+
+### **7. Graaflaadcombinatie**
+
+Zelfrijdend, door een dieselmotor aangedreven werktuig dat is voorzien van zowel een laadbak als een graafinrichting.
+
+Zelfrijdend, door een dieselmotor aangedreven werktuig dat is voorzien van zowel een laadbak als een graafinrichting.
+
+### **8. Bulldozer**
+
+Zelfrijdend, door een dieselmotor aangedreven werktuig op rupsbanden met een blad aan de voorkant.
+
+Zelfrijdend, door een dieselmotor aangedreven werktuig op rupsbanden met een blad aan de voorkant.
+
+### **9. Dumper**
+
+Zelfrijdend, door een dieselmotor aangedreven werktuig voor het verplaatsen van bulkmateriaal.
+
+Zelfrijdend, door een dieselmotor aangedreven werktuig voor het verplaatsen van bulkmateriaal.
+
+### **10. Scraper of schraper**
+
+Zelfrijdend, door een dieselmotor aangedreven werktuig met een platliggend mes aan de onderzijde van de bak dat lagen grond afschraapt en verzamelt in een laadbak met losinrichting.
+
+Zelfrijdend, door een dieselmotor aangedreven werktuig met een platliggend mes aan de onderzijde van de bak dat lagen grond afschraapt en verzamelt in een laadbak met losinrichting.
+
+### **11. Grader**
+
+Zelfrijdend, door een dieselmotor aangedreven werktuig met instelbaar blad waarmee grond herverdeeld kan worden.
+
+Zelfrijdend, door een dieselmotor aangedreven werktuig met instelbaar blad waarmee grond herverdeeld kan worden.
+
+### **12. Asfalt-afwerkinstallatie**
+
+Zelfrijdende door een dieselmotor aangedreven machine, die asfalt gelijkmatig verdeelt over een wegdek.
+
+Zelfrijdende door een dieselmotor aangedreven machine, die asfalt gelijkmatig verdeelt over een wegdek.
+
+### **13. Asfaltfreesinstallatie**
+
+Zelfrijdende door een dieselmotor aangedreven machine die met behulp van een freesinstallatie asfalt laagsgewijs verwijdert.
+
+Zelfrijdende door een dieselmotor aangedreven machine die met behulp van een freesinstallatie asfalt laagsgewijs verwijdert.
+
+### **14. Wals**
+
+Zelfrijdend, door een dieselmotor aangedreven werktuig dat met banden en/of rollen en al dan niet voorzien van een trilmechanisme een zodanig gewicht op een grondlaag brengt, dat deze verdicht.
+
+Zelfrijdend, door een dieselmotor aangedreven werktuig dat met banden en/of rollen en al dan niet voorzien van een trilmechanisme een zodanig gewicht op een grondlaag brengt, dat deze verdicht.
+
+## Bijlage IV-A. , behorende bij [artikel 2.17, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2008-01-01&g=2008-01-01)
+
+Eisen aan retrofit deeltjesverminderingssystemen voor dieselmotoren voor niet voor de weg bestemde mobiele machines als bedoeld in richtlijn 97/68/EG
+
+### **1. Begripsomschrijvingen en afkortingen**
+
+Bestemd voor: vuil- of onkruidverwijdering op wegen, straten, pleinen.
+
+Begripsomschrijvingen:
+
+Een puinbreker aangedreven door een dieselmotor, die niet vast staat opgesteld.
+
+Bestemd voor: het breken van steen- en betonpuin tot granulaat.
+
+Mpi: gewogen totaalemissie (g/kWh)
+
+Zelfrijdende, door een dieselmotor aangedreven land- of bosbouwtrekker.
+
+Bestemd voor: het trekken of aandrijven van werktuigen die geen eigen aandrijving hebben.
+
+Ng: toestand na inbouw
+
+Zelfrijdende, door een dieselmotor aangedreven boormachine waarmee een grond- of wandkering verankerd kan worden.
+
+Bestemd voor: het aanbrengen van een verankeringselement voor het versterken van grond- of wandkeringen.
+
+### **19. Heimachine**
+
+### **2. Duurproef**
+
+Bestemd voor: het aanleggen van een paalfundering door middel van het in de grond slaan van heipalen (heien).
+
+### **20. Compressor**
+
+Compressor aangedreven door een dieselverbrandingsmotor.
+
+### **5. Testbrandstof**
+
+Mpi: gewogen totaalemissie (g/kWh)
+
+### **6. Lengte uitlaatsysteem testopstelling**
+
+Bestemd voor: het opwekken van elektriciteit of hydrauliek.
+
+### **22. Pomp**
+
+Pomp aangedreven door een dieselverbrandingsmotor.
+
+Bestemd voor: het verplaatsen van vloeistoffen of gassen.
+
+DVS: deeltjesverminderingssysteem
+
+Eisen aan retrofit deeltjesverminderingssystemen voor dieselmotoren voor niet voor de weg bestemde mobiele machines als bedoeld in richtlijn 97/68/EG
+
+waarbij:
+
+Begripsomschrijvingen:
+
+Afkortingen:
+
+η: afvangrendement
+
+Mpi: gewogen totaalemissie (g/kWh)
+
+Msi: tijdens meerdere cycli gemeten gemiddelde emissie zonder regeneratie
+
+Mri: emissie tijdens de regeneratie
+
+Ng: toestand na inbouw
+
+PT: deeltjesemissie
+
+### **8. Aanvullende bepalingen**
+
+## Bijlage IV-B. , behorende bij artikel [2.17, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2008-01-01&g=2008-01-01)
+
+Eisen en testprocedure deeltjesverminderingssystemen voor dieselmotoren van niet-voor-de-weg-bestemde mobiele machines
+
+- 1. Het filterrendement bedraagt ten minste 90%, gebaseerd op een meting als omschreven in bijlage III van richtlijn 97/68/EG. Deze eis geldt voor het gemiddelde van vier van de lastpunten van onderdeel 3.6.1 van bijlage III van richtlijn 97/68/EG, inclusief een testpunt met het maximum toegestane volumedebiet voor het roetfilter. De eis geldt voor het onbeladen filter, voor het maximaal met as of roet beladen filter, voor het filter na regeneratie en voor het filter tijdens de regeneratie.
+
+- 2. In vergelijking met de uitgangstoestand van de motor is geen verhoging toegestaan van de gereglementeerde uitstoot van CO, HC, NOx en PM, gemeten volgens bijlage III van richtlijn 97/68/EG.
+
+- 3. De drukval over het filter bij het afregeltoerental bedraagt niet meer dan 50 mbar bij een onbeladen filter en niet meer dan 150 mbar bij maximale belading. Tijdens bedrijf van de machine bedraagt de drukval niet meer dan 200 mbar (95 percentiel). Bij een drukval van meer dan 200 mbar die langer dan 5 seconden aanhoudt wordt een akoestisch of visueel alarm gegeven.
+
+- 4. Het geluidsdrukniveau van de machine met geïnstalleerd filter bedraagt niet meer dan dat van de machine met het oorspronkelijke uitlaatsysteem, gemeten op korte afstand van de uitmonding van de uitlaat.
+
+## Bijlage IV-B. , behorende bij artikel [2.17, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2009-06-19&g=2009-06-19)
+
+Eisen en testprocedure deeltjesverminderingssystemen voor dieselmotoren van niet-voor-de-weg-bestemde mobiele machines
+
+- 1. Het filterrendement bedraagt ten minste 90%, gebaseerd op een meting als omschreven in bijlage III van richtlijn 97/68/EG. Deze eis geldt voor het gemiddelde van vier van de lastpunten van onderdeel 3.6.1 van bijlage III van richtlijn 97/68/EG, inclusief een testpunt met het maximum toegestane volumedebiet voor het roetfilter. De eis geldt voor het onbeladen filter, voor het maximaal met as of roet beladen filter, voor het filter na regeneratie en voor het filter tijdens de regeneratie.
+
+- 2. In vergelijking met de uitgangstoestand van de motor is geen verhoging toegestaan van de gereglementeerde uitstoot van CO, HC, NOx en PM, gemeten volgens bijlage III van richtlijn 97/68/EG.
+
+- 3. De drukval over het filter bij het afregeltoerental bedraagt niet meer dan 50 mbar bij een onbeladen filter en niet meer dan 150 mbar bij maximale belading. Tijdens bedrijf van de machine bedraagt de drukval niet meer dan 200 mbar (95 percentiel). Bij een drukval van meer dan 200 mbar die langer dan 5 seconden aanhoudt wordt een akoestisch of visueel alarm gegeven.
+
+- 4. Het geluidsdrukniveau van de machine met geïnstalleerd filter bedraagt niet meer dan dat van de machine met het oorspronkelijke uitlaatsysteem, gemeten op korte afstand van de uitmonding van de uitlaat.
+
+### **3. Testcyclus**
+
+Als testcyclus op de motorproefstand voor de duurproef, de beoordeling van de deeltjesuitstoot en de vaststelling van het type regeneratie wordt de ETC-testcyclus toegepast. De meting van de invloed van het DVS op de gasvormige emissies vindt plaats in een ESC-testcyclus.
+
+n2 = aantal ETC-testcycli gedurende de regeneratie (minimum 1 testcyclus)
+
+Het meten van de opaciteit van de uitlaatgassen vindt plaats tijdens een vrije acceleratietest overeenkomstig richtlijn 72/306/EEG.
+
+PT,n1 = emissie tijdens de belading (rekenkundig gemiddelde van de meting bij het begin van de belading en de meting bij het einde van de belading [minimum, meer metingen toelaatbaar])
+
+De metingen ten behoeve van het testen van DVS worden uitgevoerd met brandstof van handelskwaliteit die aan de eisen van richtlijn 98/70/EEG voldoet, met een zwavelgehalte van ten hoogste 10 ppm.
+
+Het regeneratieproces treedt ten minste eenmaal gedurende een ETC-testcyclus op.
+
+Voor de beproeving van een DVS op een motorproefstand wordt het systeem op een afstand van ten minste 2 meter vanaf de uitgang van de turbolader aangebracht. Indien wordt aangetoond dat bij de latere toepassing een kortere afstand geldt, kan de lengte van de leiding dienovereenkomstig worden beperkt. Isolatie e.d. van de leiding is slechts toelaatbaar indien die ook bij de latere montage op het voertuig wordt toegepast.
+
+De fabrikant van het filter geeft aan onder welke omstandigheden (belading, temperatuur, tegendruk, tijdsverloop, etc.) de regeneratie als regel optreedt. Voor de metingen van de emissies tijdens de regeneratie kan de aanvrager een grensbeladen systeem ter beschikking stellen.
+
+De uitvoering van de tests geschiedt overeenkomstig deze bijlage. De beoordeling van het systeem geldt als geslaagd indien aan de navolgende voorwaarden wordt voldaan:
+
+Bij periodiek regenererende DVS wordt de deeltjesemissie als volgt bepaald:
+
+PT = (n1 × PT,n1 + n2 × PT,n2) / (n1 + n2)
+
+waarbij:
+
+n1 = aantal ETC-testcycli tussen twee regeneraties
+
+n2 = aantal ETC-testcycli gedurende de regeneratie (minimum 1 testcyclus)
+
+PT,n2 = emissie tijdens de regeneratie
+
+PT,n1 = emissie tijdens de belading (rekenkundig gemiddelde van de meting bij het begin van de belading en de meting bij het einde van de belading [minimum, meer metingen toelaatbaar])
+
+Voor een periodiek regenererende uitlaatgasnabehandeling dienen de emissies in minimaal drie ETC-testcycli (eenmaal bij het begin van de belading, eenmaal bij het einde van de belading en eenmaal gedurende de regeneratie) bepaald te worden.
+
+Het regeneratieproces treedt ten minste eenmaal gedurende een ETC-testcyclus op.
+
+Worden meer dan twee metingen tussen de regeneratiefasen voor de bepaling van de emissies gebruikt dan vinden deze extra metingen op gelijke intervallen plaats, en wordt het rekenkundig gemiddelde van de uitkomsten gebruikt.
+
+De fabrikant van het filter geeft aan onder welke omstandigheden (belading, temperatuur, tegendruk, tijdsverloop, etc.) de regeneratie als regel optreedt. Voor de metingen van de emissies tijdens de regeneratie kan de aanvrager een grensbeladen systeem ter beschikking stellen.
+
+Tijdens de regeneratiefasen mogen de van toepassing zijnde grenswaarden worden overschreden.
+
+Serie- of chassisnummer
+
+Fabrikant
+
+Leverancier
+
+Bouwplaats
+
+Het bepalen van de juiste emissieverminderende voorziening voor een mobiel werktuig vindt plaats aan de hand van informatie over het werktuig zelf, het inzetprofiel en de onderhoudstoestand. Al deze gegevens dienen op dit formulier te worden vastgelegd door de eigenaar of houder van het mobiele werktuig. De inbouwer van de voorziening verklaart in dit formulier, mede op basis van deze gegevens, welk filter hij heeft gemonteerd.
+
+INVULLEN DOOR DE EIGENAAR OF HOUDER VAN HET MOBIELE WERKTUIG:
+
+Bedrijfsnaam
+
+Straat/Postcode, plaats
+
+Telefoon contactpersoon …………
+
+E-mail …………….
+
+Soort
+
+Type
+
+Serie- of chassisnummer
+
+Fabrikant
+
+Leverancier
+
+Bouwplaats
+
+Grondverzet
+
+Wegenaanleg
+
+Frequent wisselend
+
+Anderszins, t.w.
+
+Gemiddelde bedrijfstijd per dag in uren:
+
+Stilstand … uur per 8-uursperiode
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2.10a. Maximering aantal voertuigen met vermogen van 225 kW of meer
+
+Vervallen
+
+#### Paragraaf 2.3. Subsidieprogramma ongebruikte zware voertuigen
+
+#### Paragraaf 2.4. Subsidieprogramma retrofit mobiele werktuigen
+
+### Hoofdstuk 3. Slotbepalingen
+
+## Bijlage I. , behorende bij artikel 2.2, tweede lid.
+
+Vervallen
+
+### **1. Begripsomschrijvingen en afkortingen**
+
+### **B. Testen tijdens de duurproef**
+
+### **D. ‘Worst-case’-regeneratie na de duurproef**
+
+### **E. Uitlaatgasmetingen tijdens de duurproef**
+
+### **F. Beoordeling van de beproeving**
+
+## Bijlage II. , behorende bij [artikel 2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2014-02-18&g=2014-02-18)
+
+### **1. Begripsomschrijvingen en afkortingen**
+
+### **2. Duurproef**
+
+en
+
+### **4. Testcyclus**
+
+Als testcyclus op de motorproefstand voor de duurproef, de beoordeling van de deeltjesuitstoot en de vaststelling van het type regeneratie wordt de ETC-testcyclus toegepast. De meting van de invloed van het DVS op de gasvormige emissies vindt plaats in een ESC-testcyclus.
+
+### **5. Beladingsproef voor klasse B systemen**
+
+De lastpunten tijdens de belading worden zo gekozen dat een maximale uitlaatgastemperatuur van 180°C aan de ingangszijde van het DVS niet wordt overschreden. De belading vindt bij voorkeur plaats bij een constant toerental van 50 tot 75% van het nominale toerental van de testmotor.
+
+### **6. Thermische regeneratie test klasse B systemen**
+
+Na het bereiken van de maximale systeembelading onderscheidenlijk na maximaal 100 uur wordt een regeneratie ingeleid, bijvoorbeeld door het draaien van testfase 8 van de ESC-cyclus. Na afloop van de regeneratie volgen uitlaatgasmetingen in ten minste drie testcycli overeenkomstig onderdeel 4. Het rekenkundig gemiddelde van de daarbij gemeten uitlaatgaswaarden mag de voorafgaand aan de beladingsduurproef gemeten uitlaatgaswaarden voor de gasvormige emissies met niet meer dan 15% en voor de deeltjesemissie met niet meer dan 20% overschrijden.
+
+### **7. Meting van de opaciteit van de uitlaatgassen**
+
+Het meten van de opaciteit van de uitlaatgassen vindt bij Euro 3 motoren plaats in een ELR- testcyclus volgens de voorschriften van de punten 3 en 6 van aanhangsel 1 van bijlage III van [richtlijn 2005/55/EG](32005L0055). Voor Euro 2 motoren vindt de meting van de opaciteit plaats tijdens een vrije acceleratietest overeenkomstig [richtlijn 72/306/EEG](31972L0306). In [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&bijlage=I&z=2014-02-18&g=2014-02-18) is aangegeven wanneer de opaciteitsmeting wordt uitgevoerd.
+
+### **8. Testbrandstof**
+
+### **9. Lengte uitlaatsysteem testopstelling**
+
+### **10. Beoordelingscriteria voor continu regenererende DVS**
+
+### **11. Beoordelingscriteria voor periodiek regenererende DVS**
+
+### **12. Aanvullende bepalingen**
+
+8. Het gewogen brandstofverbruik in de ETC-test mag in geretrofitte toestand maximaal 4% hoger liggen dan in de uitgangstoestand. De metingen ter bepaling van het brandstofverbruik vinden gelijktijdig plaats met de metingen volgens onderdeel 10 voor continu regenererende systemen of onderdeel 11 voor periodiek regenererende systemen.
+
+### **13. Schematische testprocedure**
+
+## Bijlage III. , behorend bij artikel 1.1, onderdeel p
+
+Vervallen
+
+De vermelde bestemming bij de mobiele werktuigen beoogt niet deze categorieën in te perken of nader af te bakenen.
+
+### **1. Verreiker of telescooplader**
+
+Bestemd voor: het verplaatsen van materiaal, lasten of personen.
+
+### **2. Hoogwerker**
+
+Bestemd voor: het op een veilige manier werken aan hoger gelegen installaties.
+
+### **3. Mobiele kraan**
+
+Bestemd voor: het hijsen van vrachten.
+
+### **4. Ruw terrein heftruck**
+
+Bestemd voor: het heffen en verplaatsen van goederen.
+
+### **5. Laadschop, shovel of wiellader**
+
+Bestemd voor: het laden, lossen, vervoeren, zeven, enz. van materiaal
+
+### **6. Graafmachine**
+
+Bestemd voor: het graven, laden, lossen, vervoeren, slopen, knippen, zeven of vergruizen van materiaal, het maaien en reinigen van bermen en sloten, enz.
+
+### **7. Graaflaadcombinatie**
+
+Bestemd voor: graven en laden.
+
+### **8. Bulldozer**
+
+Bestemd voor: het verplaatsen van grote hoeveelheden zand en sloopmateriaal.
+
+### **9. Dumper**
+
+Bestemd voor: grootschalig transport van bulkmaterialen op afgesloten (ruw) terrein.
+
+### **10. Scraper of schraper**
+
+Bestemd voor: ontgraven, vervoeren en verwerken van grond.
+
+### **11. Grader**
+
+Bestemd voor: het egaliseren van grond.
+
+### **12. Asfalt-afwerkinstallatie**
+
+Bestemd voor: het aanbrengen van asfalt.
+
+### **13. Asfaltfreesinstallatie**
+
+Bestemd voor: het verwijderen van asfalt.
+
+### **14. Wals**
+
+Bestemd voor: het verdichten van materiaal als steenslag, zand of asfalt.
+
+## Bijlage IV-A. , behorende bij [artikel 2.17, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2009-06-19&g=2009-06-19)
+
+Zelfrijdende, door een dieselmotor aangedreven veeg- of veegzuigmachine, voorzien van roterende borstels of een stofzuiger, of roterende borstels en stofzuiger.
+
+### **1. Begripsomschrijvingen en afkortingen**
+
+DVS: deeltjesverminderingssysteem
+
+### **1. Begripsomschrijvingen en afkortingen**
+
+Begripsomschrijvingen:
+
+### **4. Meting van de opaciteit van de uitlaatgassen**
+
+Bestemd voor: het comprimeren van gassen of dampen.
+
+### **21. Generator /aggregaat, voor zover niet uitsluitend gebruikt als noodvoorziening**
+
+Generator of aggregaat aangedreven door een dieselverbrandingsmotor.
+
+### **6. Lengte uitlaatsysteem testopstelling**
+
+Ng: toestand na inbouw
+
+### **7. Beoordelingscriteria**
+
+Mgas: emissie van de gasvormige bestanddelen
+
+### **8. Aanvullende bepalingen**
+
+## Bijlage V. , behorende bij [artikel 2.18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.18&z=2009-06-19&g=2009-06-19)
+
+### **VERKLARING**
+
+Zwavelarme of -vrije diesel verkrijgbaar:
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### **15. Veeg- of veegzuigmachine**
+
+### **16. Mobiele Puinbreker**
+
+### **17. Tractoren**
+
+### **18. Ankerboormachines**
+
+## Bijlage IV-A. , behorende bij [artikel 2.17, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2009-11-12&g=2009-11-12)
+
+Zelfrijdende, door een diesel aangedreven heimachine, voorzien van een hydraulisch heiblok.
+
+### **2. Duurproef**
+
+### **1. Begripsomschrijvingen en afkortingen**
+
+### **4. Meting van de opaciteit van de uitlaatgassen**
+
+### **5. Testbrandstof**
+
+### **6. Lengte uitlaatsysteem testopstelling**
+
+### **7. Beoordelingscriteria**
+
+DVS: deeltjesverminderingssysteem
+
+PT = (n1 × PT,n1 + n2 × PT,n2) / (n1 + n2)
+
+waarbij:
+
+### **8. Aanvullende bepalingen**
+
+## Bijlage IV-B. , behorende bij artikel [2.17, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2009-11-12&g=2009-11-12)
+
+Eisen en testprocedure deeltjesverminderingssystemen voor dieselmotoren van niet-voor-de-weg-bestemde mobiele machines
+
+- 1. Het filterrendement bedraagt ten minste 90%, gebaseerd op een meting als omschreven in bijlage III van richtlijn 97/68/EG. Deze eis geldt voor het gemiddelde van vier van de lastpunten van onderdeel 3.6.1 van bijlage III van richtlijn 97/68/EG, inclusief een testpunt met het maximum toegestane volumedebiet voor het roetfilter. De eis geldt voor het onbeladen filter, voor het maximaal met as of roet beladen filter, voor het filter na regeneratie en voor het filter tijdens de regeneratie.
+
+- 2. In vergelijking met de uitgangstoestand van de motor is geen verhoging toegestaan van de gereglementeerde uitstoot van CO, HC, NOx en PM, gemeten volgens bijlage III van richtlijn 97/68/EG.
+
+- 3. De drukval over het filter bij het afregeltoerental bedraagt niet meer dan 50 mbar bij een onbeladen filter en niet meer dan 150 mbar bij maximale belading. Tijdens bedrijf van de machine bedraagt de drukval niet meer dan 200 mbar (95 percentiel). Bij een drukval van meer dan 200 mbar die langer dan 5 seconden aanhoudt wordt een akoestisch of visueel alarm gegeven.
+
+- 4. Het geluidsdrukniveau van de machine met geïnstalleerd filter bedraagt niet meer dan dat van de machine met het oorspronkelijke uitlaatsysteem, gemeten op korte afstand van de uitmonding van de uitlaat.
+
+## Bijlage V. , behorende bij [artikel 2.18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.18&z=2009-11-12&g=2009-11-12)
+
+### **VERKLARING**
+
+Merk:
+
+Type:
+
+Bouwjaar:
+
+Fase normstelling (als bedoeld in artikel 9 van richtlijn 97/68/EG):
+
+Maximaal vermogen kW: bij omw/min:
+
+Datum:
+
+Naam en handtekening eigenaar/houder
+
+--------- INVULLEN DOOR DE INBOUWER VAN DE VOORZIENING---------
+
+Mede op grond van bovenstaande verklaring van de eigenaar of houder is besloten tot het inbouwen in het betreffende mobiele werktuig van een deeltjesverminderingssysteem met de volgende specificatie:
+
+Merk:
+
+Type:
+
+Controlenummer VFT3 geschiktheidstest BAFU/Suva lijst (VERT-lijst):
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage IV-A. , behorende bij [artikel 2.17, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2011-02-01&g=2011-02-01)
+
+### **2. Duurproef**
+
+### **4. Meting van de opaciteit van de uitlaatgassen**
+
+### **5. Testbrandstof**
+
+### **6. Lengte uitlaatsysteem testopstelling**
+
+### **7. Beoordelingscriteria**
+
+### **8. Aanvullende bepalingen**
+
+## Bijlage IV-B. , behorende bij artikel [2.17, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2011-02-01&g=2011-02-01)
+
+Eisen en testprocedure deeltjesverminderingssystemen voor dieselmotoren van niet-voor-de-weg-bestemde mobiele machines
+
+- 1. Het filterrendement bedraagt ten minste 90%, gebaseerd op een meting als omschreven in bijlage III van richtlijn 97/68/EG. Deze eis geldt voor het gemiddelde van vier van de lastpunten van onderdeel 3.6.1 van bijlage III van richtlijn 97/68/EG, inclusief een testpunt met het maximum toegestane volumedebiet voor het roetfilter. De eis geldt voor het onbeladen filter, voor het maximaal met as of roet beladen filter, voor het filter na regeneratie en voor het filter tijdens de regeneratie.
+
+- 2. In vergelijking met de uitgangstoestand van de motor is geen verhoging toegestaan van de gereglementeerde uitstoot van CO, HC, NOx en PM, gemeten volgens bijlage III van richtlijn 97/68/EG.
+
+- 3. De drukval over het filter bij het afregeltoerental bedraagt niet meer dan 50 mbar bij een onbeladen filter en niet meer dan 150 mbar bij maximale belading. Tijdens bedrijf van de machine bedraagt de drukval niet meer dan 200 mbar (95 percentiel). Bij een drukval van meer dan 200 mbar die langer dan 5 seconden aanhoudt wordt een akoestisch of visueel alarm gegeven.
+
+- 4. Het geluidsdrukniveau van de machine met geïnstalleerd filter bedraagt niet meer dan dat van de machine met het oorspronkelijke uitlaatsysteem, gemeten op korte afstand van de uitmonding van de uitlaat.
+
+## Bijlage V. , behorende bij [artikel 2.18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020008&hoofdstuk=2&paragraaf=2.4&artikel=2.18&z=2011-02-01&g=2011-02-01)
+
+### **VERKLARING**
+
+of
+
+Goedkeuringsnummer Dienst Wegverkeer:
+
+Ingeval een voorziening is gemonteerd waarvoor door de Dienst Wegverkeer een typegoedkeuring is verleend en die niet tevens op de VERT-lijst is opgenomen, verklaart de inbouwer dat de gemonteerde emissieverminderende voorziening aan de volgende technische eisen voldoet:
+
+Indien het merk en type van het diagnosesysteem voor uitlaatgastegendruk een andere is dan de gemonteerde voorziening:
+
+Merk en type diagnosesysteem voor uitlaatgastegendruk:
+
+Bedrijfsnaam inbouwer:
+
+Straat/Postcode, plaats:
+
+Naam contactpersoon:
+
+Telefoon contactpersoon:
+
+E-mail:
+
+Datum:
+
+Naam en handtekening inbouwer
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage IV-A. , behorende bij artikel 2.17, derde lid, onder a
+
+Vervallen
+
+## Bijlage IV-B. , behorende bij artikel 2.17, derde lid, onder b
+
+Vervallen
+
+## Bijlage V. , behorende bij artikel 2.18, derde lid
+
+Vervallen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage II. , behorende bij artikel 2.8, tweede lid
+
+Vervallen
+
+## Bijlage III. , behorend bij artikel 1.1, onderdeel p
+
+Vervallen
+
+## Bijlage IV-A. , behorende bij artikel 2.17, derde lid, onder a
+
+Vervallen
+
+## Bijlage IV-B. , behorende bij artikel 2.17, derde lid, onder b
+
+Vervallen
+
+## Bijlage V. , behorende bij artikel 2.18, derde lid
+
+Vervallen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,0 +1,287 @@
+---
+title: "Besluit van 19 september 2007, houdende regels inzake de kwaliteit van landbouwproducten (Landbouwkwaliteitsbesluit 2007)"
+identifier: "BWBR0022535"
+country: "nl"
+rank: "amvb"
+publication_date: "2023-12-29"
+last_updated: "2023-12-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022535"
+soort: "AMvB"
+stam_id: "9210613"
+version_id: "28607382"
+internal_id: "C40359361"
+label_id: "9189394"
+dtd_version: "2.0"
+original_entry_into_force: "2022-05-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022535/2023-12-29/0"
+intitule_bron: "Stb.2007-344"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-09-19"
+intitule_published: "2007-09-27"
+intitule_in_force: "2007-09-27"
+intitule_status: "goed"
+original_publication: "Stb.2022-170"
+original_signed_date: "2022-04-21"
+original_published_date: "2022-05-04"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2022-170"
+entry_into_force_date: "2022-05-05"
+jci_1_3: "jci1.3:c:BWBR0022535&z=2023-12-29&g=2023-12-29"
+jci_1_0: "1.0:c:BWBR0022535&g=2023-12-29"
+citeertitel_status: "officieel"
+short_title: "Landbouwkwaliteitsbesluit 2007"
+signed_date: "2022-04-21"
+entry_into_force: "2022-05-05"
+---
+# Besluit van 19 september 2007, houdende regels inzake de kwaliteit van landbouwproducten (Landbouwkwaliteitsbesluit 2007)
+
+Op de voordracht van Onze Minister van Landbouw, Natuur en Voedselkwaliteit van 1 juni 2007, Directie Juridische Zaken, no. TRCJZ/2007/1788;
+
+Gelet op verordening (EEG) nr. 2092/91 van de Raad van de Europese Gemeenschappen van 24 juni 1991 inzake de biologische produktiemethode en aanduidingen dienaangaande op landbouwproducten en levensmiddelen (PbEG L 198), verordening (EEG) nr. 1906/90 van de Raad van de Europese Gemeenschappen van 26 juni 1990 tot vaststelling van handelsnormen voor vlees van pluimvee (PbEG L 173), verordening (EEG) nr. 1538/91 van de Commissie van 5 juni 1991 houdende uitvoeringsbepalingen van verordening (EEG) nr. 1906/90 van de Raad tot vaststelling van handelsnormen voor vlees van pluimvee (PbEG L 143), verordening (EG) nr. 1028/2006 van de Raad van de Europese Gemeenschappen van 19 juni 2006 betreffende bepaalde handelsnormen voor eieren (PbEU L 186), verordening (EG) nr. 557/2007 van de Commissie van 23 mei 2007 tot vaststelling van de bepalingen ter uitvoering van verordening (EG) nr. 1028/2006 van de Raad betreffende bepaalde handelsnormen voor eieren (PbEU L 132), verordening (EEG) nr. 2200/96 van de Raad van de Europese Gemeenschappen van 28 oktober 1996 houdende een gemeenschappelijke ordening der markten in de sector groenten en fruit (PbEG L 297), verordening (EG) nr. 1666/1999 van de Commissie van 28 juli 1999 houdende toepassingsbepalingen van Verordening (EG) nr. 2201/96 van de Raad betreffende de minimumkenmerken voor het in de handel brengen van bepaalde krenten- en rozijnenvariëteiten (PbEG L 197), verordening (EEG) nr. 404/93 van de Raad van de Europese Gemeenschappen van 13 februari 1993 houdende een gemeenschappelijke ordening der markten in de sector bananen (PbEG L 47), verordening (EG) nr. 2257/1994 van de Commissie van 16 september 1994 tot vaststelling van kwaliteitsnormen voor bananen (PbEG L 245), verordening (EG) 2898/95 van de Commissie van 15 december 1995 houdende voorschriften inzake de controle op de naleving van de kwaliteitsnormen in de sector bananen (PbEG L 304) , verordening (EG) 1148/2001 van de Commissie van 12 juni 2001 betreffende de handelsnormcontroles voor verse groenten en fruit (PbEG L 156), verordening (EG) nr. 509/2006 van de Raad van de Europese Unie van 20 maart 2006 inzake gegarandeerde traditionele specialiteiten voor landbouwproducten en levensmiddelen (PbEU L 93), verordening (EG) nr. 510/2006 van de Raad van de Europese Unie van 20 maart 2006 inzake de bescherming van geografische aanduidingen en oorsprongsbenamingen van landbouwproducten en levensmiddelen (PbEU L 93), verordening (EG) nr. 1760/2000 van het Europees Parlement en de Raad van de Europese Gemeenschappen van 17 juli 2000 tot vaststelling van een identificatie- en registratieregeling voor runderen en inzake de etikettering van rundvlees en rundvleesproducten en tot intrekking van Verordening (EG) nr. 820/97 van de Raad (PbEG L 204), richtlijn nr. 1998/56/EG van de Raad van de Europese Unie van 20 juli 1998 betreffende het in de handel brengen van teeltmateriaal van siergewassen (PbEG L 226) en richtlijn nr. 1992/52/EEG van de Raad van de Europese Gemeenschappen van 18 juni 1992 inzake volledige zuigelingenvoeding en opvolgzuigelingenvoeding die voor de uitvoer naar derde landen is bestemd (PbEG L 179);
+
+Gelet op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=4), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=7) en [8 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8);
+
+De Raad van State gehoord (advies van 3 augustus 2007, nr. W11.07.0161/IV);
+
+Gezien het nader rapport van Onze Minister van Landbouw, Natuur en Voedselkwaliteit van 14 september 2007, TRCJZ/2007/2718;
+
+Hebben goedgevonden en verstaan:
+
+##### Artikel 1
+
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
+
+- –. wet: [Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755);
+
+- –. in de handel brengen: in het vrije verkeer bedrijfsmatig ter beschikking of in voorraad houden, uitstallen of te koop aanbieden, verkopen, bezitten met het oog op de verkoop, alsmede tegen of zonder vergoeding aan derden beschikbaar stellen, leveren of overdragen;
+
+- –. verordening (EU) 1333/2011: uitvoeringsverordening (EU) nr. 1333/2011 van de Commissie van 19 december 2011 tot vaststelling van handelsnormen voor bananen, voorschriften inzake de controle op de naleving van die handelsnormen en voorschriften betreffende de mededelingen in de sector bananen (PbEU 2011, L 336);
+
+- –. verordening (EU) 543/2011: uitvoeringsverordening (EU) nr. 543/2011 van de Commissie van 7 juni 2011 tot vaststelling van nadere bepalingen voor de toepassing van Verordening (EG) nr. 1234/2007 van de Raad, wat de sectoren groenten en fruit en verwerkte groenten en fruit betreft (PbEU 2011, L 157);
+
+- –. verordening (EU) 1151/2012: verordening (EU) nr. 1151/2012 van het Europees Parlement en de Raad van 21 november 2012 inzake kwaliteitsregelingen voor landbouwproducten en levensmiddelen (PbEU 2012, L 343);
+
+- –. verordening (EU) 1308/2013: verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad (PbEU 2013, L 347);
+
+- –. verordening (EU) 2018/848: [verordening (EU) 2018/848](32748R2018) van het Europees Parlement en de Raad van 30 mei 2018 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EG) nr. 834/2007 van de Raad (PbEU 2018, L 150);
+
+- –. verordening (EU) 2023/2419: [Verordening 2023/2419](32419R2023) van het Europees Parlement en de Raad van 18 oktober 2023 betreffende de etikettering van biologisch voeder voor gezelschapsdieren (PbEU 2023, L 2419);
+
+- –. richtlijn 98/56/EG: richtlijn nr. 1998/56/EG van de Raad van de Europese Unie van 20 juli 1998 betreffende het in de handel brengen van teeltmateriaal van siergewassen (PbEG L 226);
+
+- –. richtlijn 2007/45/EG: richtlijn 2007/45/EG van het Europees Parlement en de Raad van 5 september 2007 tot vaststelling van regels betreffende nominale hoeveelheden voor voorverpakte producten, tot intrekking van de Richtlijnen 75/106/EEG en 80/232/EEG van de Raad en tot wijziging van Richtlijn 76/211/EEG van de Raad (PbEU 2007, L 247);
+
+- –. wijn: niet-mousserende wijn, gele wijn, mousserende wijn en likeurwijn als bedoeld in punt 2 van de bijlage bij richtlijn 2007/45/EG;
+
+- –. gearomatiseerde wijn: gearomatiseerde wijn als bedoeld in punt 2 van de bijlage bij richtlijn 2007/45/EG;
+
+- –. biologische productiemethode: voortbrenging van plantaardige producten overeenkomstig de bij of krachtens [verordening (EU) 2018/848](32748R2018) gestelde voorschriften;
+
+- –. teeltmateriaal van bloembollen: teeltmateriaal als bedoeld in artikel 2, eerste lid, van richtlijn 98/56/EG, van bloembollen;
+
+- –. groenten en fruit: groenten en fruit als bedoeld in artikel 1, tweede lid, onderdeel i, van verordening (EU) 1308/2013;
+
+- –. bananen: bananen als bedoeld in artikel 1, tweede lid, onderdeel k, van verordening (EU) 1308/2013;
+
+- –. kwaliteitsaanduidingen: geografische aanduidingen, geografische oorsprongsbenamingen, gegarandeerde traditionele specialiteiten als bedoeld in artikel 18 van verordening (EU) 1151/2012 en facultatieve kwaliteitsaanduidingen als bedoeld in titel IV van verordening (EU) 1151/2012;
+
+- –. derde landen: gebied dat geen deel uitmaakt van het grondgebied van de Europese Unie of een gebied waarop de Overeenkomst betreffende de Europese Economische Ruimte niet van toepassing is;
+
+- –. Stichting KCB: Stichting Kwaliteits-Controle-Bureau te ’s-Gravenhage;
+
+- –. Stichting Skal: Stichting Skal te Zwolle;
+
+- –. Stichting BKD: Stichting Bloembollenkeuringsdienst te Lisse.
+
+##### Artikel 2
+
+Bij het in de handel brengen of etiketteren van of reclame maken voor producten wordt slechts verwezen naar de biologische productiemethode en wordt het logo, bedoeld in artikel 33 van [verordening (EU) 2018/848](32748R2018), slechts gebruikt indien is voldaan aan het bepaalde bij of krachtens [verordening (EU) 2018/848](32748R2018), bij [verordening (EU) 2023/2419](32023R2419), bij ministeriële regeling aangewezen andere krachtens artikel 43, tweede lid, van het Verdrag betreffende de werking van de Europese Unie vastgestelde bindende EU-rechtshandelingen voor het in de handel brengen, etiketteren van, of reclame maken voor biologische producten, en bij of krachtens dit besluit gestelde regels.
+
+##### Artikel 3
+
+1. Wijn en gearomatiseerde wijn die in voorverpakkingen binnen de in punt 1 van de bijlage bij richtlijn 2007/45/EG vermelde intervallen zijn verpakt, worden slechts in de handel gebracht indien zij zijn verpakt in de nominale hoeveelheden vermeld in punt 1 van die bijlage.
+
+2. Het eerste lid is niet van toepassing op voorverpakkingen die in belastingvrije winkels worden verkocht voor consumptie buiten de Europese Unie.
+
+3. Bij twee of meer individuele voorverpakkingen die samen een meervoudige verpakking vormen, zijn de in het eerste lid bedoelde nominale hoeveelheden van toepassing op elke individuele voorverpakking.
+
+4. Indien een voorverpakking bestaat uit twee of meer individuele verpakkingen die niet voor individuele verkoop zijn bestemd, zijn de in het eerste lid bedoelde nominale hoeveelheden van toepassing op de voorverpakking.
+
+##### Artikel 4
+
+1. Groenten en fruit worden slechts in de handel gebracht indien voldaan is aan artikel 76, eerste en derde lid, van verordening (EU) 1308/2013, aan artikel 3, eerste lid, van verordening (EU) 543/2011, aan de krachtens de artikelen 75, tweede en zesde lid, en 76, vierde lid, van verordening (EU) 1308/2013 voor groenten en fruit vastgestelde voorschriften en de bij of krachtens dit besluit gestelde regels.
+
+2. Bananen worden slechts in de handel gebracht indien voldaan is aan artikel 1 van verordening (EU) 1333/2011, aan de voor bananen krachtens artikel 75, tweede en zesde lid, van verordening (EU) 1308/2013 vastgestelde voorschriften en de bij of krachtens dit besluit gestelde regels.
+
+##### Artikel 5
+
+Vervallen
+
+##### Artikel 6
+
+De bescherming van kwaliteitsaanduidingen geschiedt overeenkomstig het bij of krachtens verordening (EU) 1151/2012 bepaalde en de bij of krachtens dit besluit gestelde regels.
+
+##### Artikel 7
+
+Vervallen
+
+##### Artikel 8
+
+Vervallen
+
+##### Artikel 9
+
+Teeltmateriaal van bloembollen wordt slechts in de handel gebracht indien het teeltmateriaal, de leverancier, de wijze van in de handel brengen en de etiketten of andere documenten die door de leverancier zijn opgemaakt voldoen aan het bepaalde bij of krachtens [richtlijn 98/56/EG](31998L0056) en de bij of krachtens dit besluit gestelde regels.
+
+##### Artikel 10
+
+1. Onze Minister kan nadere regels stellen voor zover dat voor een goede uitvoering van de onderwerpen van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=2&z=2023-12-29&g=2023-12-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=4&z=2023-12-29&g=2023-12-29) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=6&z=2023-12-29&g=2023-12-29) genoemde verordeningen of krachtens die artikelen aangewezen EU-rechtshandelingen en voor de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=9&z=2023-12-29&g=2023-12-29) genoemde EU-richtlijn noodzakelijk is.
+
+2. De regels bedoeld in het eerste lid kunnen betrekking hebben op:
+
+- a. de in [artikel 2, eerste en tweede lid, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=2) bedoelde onderwerpen;
+
+- b. de erkenning of certificering van onder die regeling vallende betrokkenen;
+
+- c. de wijze van keuring van producten;
+
+- d. het uitreiken, aanbrengen, vervaardigen, voorhanden en in voorraad hebben, alsmede het afleveren en gebruiken van bewijsstukken en merken;
+
+- e. de nadere aanduiding van het begrip bloembollen.
+
+3. Onze Minister kan vrijstelling en, op aanvraag, ontheffing verlenen van het bepaalde bij of krachtens dit besluit voor zover het belang van een goede uitvoering van de in het eerste lid bedoelde EU-verordeningen en EU-richtlijn zich daartegen niet verzet.
+
+4. De wijze van keuring van producten, bedoeld in het tweede lid, onder c, heeft onder meer betrekking op de voorwaarden waaronder betrokkenen door de controle-instellingen of door een controlerende instantie erkend kunnen worden voor het verrichten van de bij ministeriële regeling aan te duiden keuringsactiviteiten.
+
+##### Artikel 11
+
+De Stichting BKD is de instantie, bedoeld in de artikelen 12 en 13 van richtlijn 98/56/EG en belast met:
+
+- a. het toezicht op de naleving van bij of krachtens dit besluit gestelde regels ten aanzien van teeltmateriaal van bloembollen;
+
+- b. de keuring van teeltmateriaal van bloembollen;
+
+- c. de uitvoering van de registratie, bedoeld in artikel 6 van richtlijn 98/56/EG;
+
+- d. overige uitvoeringshandelingen die noodzakelijk zijn voor een goede uitvoering van de in de aanhef bedoelde richtlijn.
+
+##### Artikel 12
+
+Vervallen
+
+##### Artikel 13
+
+Vervallen
+
+##### Artikel 14
+
+1. De Stichting KCB is de controle-instantie, bedoeld in artikel 9, eerste lid, onderdeel b, van verordening (EU) 543/2011, en belast met:
+
+- a. het toezicht op de naleving van bij of krachtens dit besluit gestelde regels ten aanzien van groente en fruit, aardappelen en bananen;
+
+- b. het uitreiken van bewijsstukken, bedoeld in artikel 14, eerste lid, van verordening (EU) 543/2011, indien is voldaan aan artikel 76, eerste en derde lid, en de handelsnormen, gesteld krachtens artikel 75, tweede en zesde lid, van verordening (EU) 1308/2013;
+
+- c. de uitvoering van de registratie, bedoeld in artikel 9, tweede lid, van verordening (EU) 1333/2011;
+
+- d. overige uitvoeringshandelingen die noodzakelijk zijn voor een goede uitvoering van de onder b en c bedoelde verordeningen.
+
+2. De Stichting KCB is de bevoegde autoriteit voor de officiële controles, bedoeld in artikel 36, derde lid, van verordening (EU) 1151/2012 ten aanzien van producten die op grond van het eerste lid onder haar bevoegdheid vallen.
+
+##### Artikel 15
+
+De Stichting Skal wordt aangewezen als bevoegde autoriteit voor zover het betreft het gebied, genoemd in artikel 1, tweede lid, aanhef en onderdeel i, van [verordening (EU) 2017/625](32525R2017) voor:
+
+- a. het documenteren, bedoeld in artikel 29, zesde lid, van [verordening (EU) 2018/848](32748R2018) van onderzoeksresultaten naar de aanwezigheid van niet-toegelaten producten of stoffen en genomen maatregelen;
+
+- b. het ontvangen van de melding, bedoeld in artikel 34 van [verordening (EU) 2018/848](32748R2018);
+
+- c. het meedelen van de informatie, bedoeld in artikel 43, zesde lid, van [verordening (EU) 2018/848](32748R2018) aan het daar bedoelde betaalorgaan;
+
+- d. de handhavingsverplichtingen, bedoeld in artikel 137 van [verordening (EU) 2017/625](32525R2017), en
+
+- e. het nemen van de acties en maatregelen, bedoeld in artikel 138 van [verordening (EU) 2017/625](32525R2017),
+
+en belast met deze taken.
+
+##### Artikel 16
+
+1. Onze Minister is de bevoegde autoriteit, bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=4), voor het gebied, genoemd in artikel 1, tweede lid, onderdeel i van verordening (EU) 2017/625 en belast met de taken die aan de bevoegde autoriteit of een lidstaat kunnen worden opgedragen en die niet op grond van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=15&z=2023-12-29&g=2023-12-29) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=18&z=2023-12-29&g=2023-12-29), of het tweede lid aan de Stichting Skal zijn opgedragen.
+
+2. De Stichting Skal is de controleautoriteit, bedoeld in [artikel 4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=4) en is:
+
+- a. gelet op [verordening (EU) 2018/848](32748R2018) belast met alle taken die in verband met de toepassing van [verordening (EU) 2018/848](32748R2018) aan een controleautoriteit kunnen worden opgedragen, en
+
+- b. gelet op artikel 4, derde lid, van [verordening (EU) 2017/625](32525R2017) belast met de officiële controles en andere officiële activiteiten en de daarbij behorende taken en verantwoordelijkheden bedoeld in titel II, hoofdstukken II, V en VII, van [verordening (EU) 2017/625](32525R2017) ten aanzien van de in artikel 1, tweede lid, aanhef en onderdeel i, van [verordening (EU) 2017/625](32525R2017) bedoelde regels.
+
+##### Artikel 17
+
+Onze Minister is de bevoegde autoriteit, voor:
+
+- a. de officiële controles als bedoeld in artikel 36, derde lid, verordening (EU) 1151/2012 ten aanzien van producten die niet onder de in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=14&z=2023-12-29&g=2023-12-29), bedoelde bevoegdheid van de Stichting KCB vallen;
+
+- b. artikel 34 van verordening (EU) 1151/2012;
+
+- c. het toezicht op de naleving van bij dit besluit gestelde regels inzake wijn en gearomatiseerde wijn.
+
+##### Artikel 18
+
+Indien het in het belang van een goede uitvoering van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=2&z=2023-12-29&g=2023-12-29) genoemde verordeningen of krachtens dat artikel aangewezen EU-rechtshandelingen aangewezen is dat in die voorschriften genoemde taken en bevoegdheden aan de Stichting Skal worden opgedragen, kunnen deze, onverminderd het bepaalde in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=15&z=2023-12-29&g=2023-12-29) en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=16&z=2023-12-29&g=2023-12-29), worden opgedragen bij ministeriële regeling.
+
+##### Artikel 19
+
+De volgende besluiten worden ingetrokken:
+
+- a. [Landbouwkwaliteitsbesluit biologische productiemethode](https://wetten.overheid.nl/jci1.3:c:BWBR0005740);
+
+- b. [Landbouwkwaliteitsbesluit bloembollen en snijbloemen](https://wetten.overheid.nl/jci1.3:c:BWBR0003358);
+
+- c. [Landbouwkwaliteitsbesluit eieren](https://wetten.overheid.nl/jci1.3:c:BWBR0013953);
+
+- d. [Landbouwkwaliteitsbesluit etikettering rundvlees](https://wetten.overheid.nl/jci1.3:c:BWBR0008947);
+
+- e. [Landbouwkwaliteitsbesluit geografische aanduidingen en oorsprongsbenamingen van landbouwproducten en levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0006327);
+
+- f. [Landbouwkwaliteitsbesluit groenten en fruit](https://wetten.overheid.nl/jci1.3:c:BWBR0003120);
+
+- g. [Landbouwkwaliteitsbesluit onbewerkt hout](https://wetten.overheid.nl/jci1.3:c:BWBR0002902);
+
+- h. [Landbouwkwaliteitsbesluit pluimveevlees](https://wetten.overheid.nl/jci1.3:c:BWBR0015006);
+
+- i. [Landbouwkwaliteitsbesluit zuigelingenvoeding](https://wetten.overheid.nl/jci1.3:c:BWBR0003732).
+
+##### Artikel 20
+
+Dit besluit wordt aangehaald als: Landbouwkwaliteitsbesluit 2007.
+
+##### Artikel 21
+
+Wijzigt het Tuchtrechtbesluit Landbouwkwaliteitswet.
+
+##### Artikel 22
+
+Wijzigt het Besluit glastuinbouw, het Besluit verhandeling teeltmateriaal, het Besluit aanwijzing Bloembollenkeuringsdienst en het Lozingenbesluit open teelt en veehouderij.
+
+##### Artikel 23
+
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 7a
+
+Vervallen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 18a
+
+Vervallen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 18
+
+Vervallen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
