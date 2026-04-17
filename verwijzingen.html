@@ -290,32 +290,29 @@ function acZoek() {
 
   if (modus === 'wet') {
     hits = indexData
-      .filter(w => (w.titel||'').toLowerCase().includes(q) && verwData[w.identifier])
+      .filter(w => (w.titel||'').toLowerCase().includes(q))
       .sort((a,b) => (verwData[b.identifier]||[]).length - (verwData[a.identifier]||[]).length)
       .slice(0, 8)
       .map(w => ({
         label: w.titel,
-        sub: `${w.identifier} · ${(verwData[w.identifier]||[]).length} verwijzingen`,
+        sub: `${w.identifier} · ${(verwData[w.identifier]||[]).length || 0} verwijzingen · ${w.categorie}`,
         action: () => voegWetToe(w, 0),
       }));
   } else {
-    // Entiteiten + vrije zoekterm
+    // Begrip: zoek in alle titels op de zoekterm zelf
     const entHits = ENTITEITEN.filter(e => e.label.toLowerCase().includes(q));
     hits = entHits.map(e => ({
       label: e.label,
-      sub: `begrip · klik om gerelateerde wetten te laden`,
+      sub: `begrip · laadt alle gerelateerde wetten`,
       action: () => laadEntiteit(e),
     }));
-    if (hits.length < 3) {
-      // Voeg ook directe wet-hits toe
-      indexData
-        .filter(w => (w.titel||'').toLowerCase().includes(q))
-        .slice(0, 5 - hits.length)
-        .forEach(w => hits.push({
-          label: w.titel,
-          sub: w.identifier,
-          action: () => voegWetToe(w, 0),
-        }));
+    // Altijd ook directe titelmatches toevoegen als vrij begrip
+    if (!entHits.length || hits.length < 2) {
+      hits.push({
+        label: `Alle wetten met "${q}" in titel`,
+        sub: `laad als begrip — klik om te zien`,
+        action: () => laadVrijBegrip(q),
+      });
     }
   }
 
@@ -351,6 +348,18 @@ document.addEventListener('click', e => {
 });
 
 // ── Entiteiten ────────────────────────────────────────────────────────────
+
+function laadVrijBegrip(q) {
+  allesVerwijderen();
+  const ql = q.toLowerCase();
+  const wetten = indexData
+    .filter(w => (w.titel||'').toLowerCase().includes(ql))
+    .sort((a,b) => (verwData[b.identifier]||[]).length - (verwData[a.identifier]||[]).length)
+    .slice(0, 12);
+  if (!wetten.length) return;
+  wetten.forEach((w, i) => voegWetToe(w, i === 0 ? 0 : 1, false));
+  hertekenGraaf();
+}
 
 function laadEntiteit(entiteit) {
   allesVerwijderen();
